@@ -4,7 +4,7 @@ Section 4271, Pub. L. 98–365, title VI, §601, July 17, 1984, 98 Stat. 463, re
 
 Section 4272, Pub. L. 98–365, title VI, §602, July 17, 1984, 98 Stat. 463; Pub. L. 102–567, title I, §114(c), Oct. 29, 1992, 106 Stat. 4279, provided for archiving of land remote-sensing data.
 
-Section 4273, Pub. L. 98–365, title VI, §603, July 17, 1984, 98 Stat. 464; Pub. L. 100–147, title III, §308, Oct. 30, 1987, 101 Stat. 877, related to nonreproduction of unenhanced data.
+Section 4273, Pub. L. 98–365, title VI, §603, July 17, 1984, 98 Stat. 464; Pub. L. 100–147, title III, §308, Oct. 30,1987, 101 Stat. 877, related to nonreproduction of unenhanced data.
 
 Section 4274, Pub. L. 98–365, title VI, §604, July 17, 1984, 98 Stat. 464, related to reimbursement of Federal agencies for assistance to remote-sensing system operators.
 

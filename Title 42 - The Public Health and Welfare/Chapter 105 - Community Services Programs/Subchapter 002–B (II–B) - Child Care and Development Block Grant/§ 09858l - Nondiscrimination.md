@@ -10,7 +10,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;A sectarian organization may require that employees adhere to the religious tenets andteachings of such organization, and such organization may require that employees adhere to rules forbidding the use of drugs or alcohol.
+&emsp;&emsp;A sectarian organization may require that employees adhere to the religious tenets and teachings of such organization, and such organization may require that employees adhere to rules forbidding the use of drugs or alcohol.
 
 #### (2) Discrimination against child
 
@@ -26,7 +26,7 @@
 
 #### (A) Prohibition
 
-&emsp;&emsp;A child care provider that receives assistance under this subchapter shall not discriminate in employment on the basis of the religion of the prospective employee if such employee's primary responsibility is or will be working directly with children in the provision of child care services.
+&emsp;&emsp;A child care provider that receives assistance under this subchapter shall not discriminate in employment on the basis of thereligion of the prospective employee if such employee's primary responsibility is or will be working directly with children in the provision of child care services.
 
 #### (B) Qualified applicants
 

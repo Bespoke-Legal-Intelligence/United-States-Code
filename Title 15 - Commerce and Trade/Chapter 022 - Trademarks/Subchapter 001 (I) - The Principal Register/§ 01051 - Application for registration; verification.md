@@ -2,7 +2,7 @@
 
 #### (a) Application for use of trademark
 
-(1) The owner of a trademark used in commerce may request registration of its trademark on the principal register hereby established by paying the prescribed fee and filing in the Patent and Trademark Office an application and a verified statement, in such form as may be prescribed by the Commissioner, and such number of specimens or facsimiles of the mark as used as may be required by the Commissioner.
+(1) The owner of a trademark used in commerce may request registration of its trademark on the principal register hereby established by paying the prescribed fee and filing in the Patent and Trademark Office an application and a verified statement, in such form as may be prescribed by the Director, and such number of specimens or facsimiles of the mark as used as may be required by the Director.
 
 (2) The application shall include specification of the applicant's domicile and citizenship, the date of the applicant's first use of the mark, the date of the applicant's first use of the mark in commerce, the goods in connection with which the mark is used, and a drawing of the mark.
 
@@ -28,11 +28,11 @@
 
 &emsp;&emsp;&emsp;(IV) the goods and area for which the applicant desires registration.
 
-(4) The applicant shall comply with such rules or regulations as may be prescribed by the Commissioner. The Commissioner shall promulgate rules prescribing the requirements for the application and for obtaining a filing date herein.
+(4) The applicant shall comply with such rules or regulations as may be prescribed by the Director. The Director shall promulgate rules prescribing the requirements for the application and for obtaining a filing date herein.
 
 #### (b) Application for bona fide intention to use trademark
 
-(1) A person who has a bona fide intention, under circumstances showing the good faith of such person, to use a trademark in commerce may request registration of its trademark on the principal register hereby established by paying the prescribed fee and filing in the Patent and Trademark Office an application and a verified statement, in such form as may be prescribed by the Commissioner.
+(1) A person who has a bona fide intention, under circumstances showing the good faith of such person, to use a trademark in commerce may request registration of its trademark on the principal register hereby established by paying the prescribed fee and filing in the Patent and Trademark Office an application and a verified statement, in such form as may be prescribed by the Director.
 
 (2) The application shall include specification of the applicant's domicile and citizenship, the goods in connection with which the applicant has a bona fide intention to use the mark, and a drawing of the mark.
 
@@ -48,7 +48,7 @@
 
 > Except for applications filed pursuant to section 1126 of this title, no mark shall be registered until the applicant has met the requirements of subsections (c) and (d) of this section.
 
-(4) The applicant shall comply with such rules or regulations as may be prescribed by the Commissioner. The Commissioner shall promulgate rules prescribing the requirements for the application and for obtaining a filing date herein.
+(4) The applicant shall comply with such rules or regulations as may be prescribed by the Director. The Director shall promulgate rules prescribing the requirements for the application and for obtaining a filing date herein.
 
 #### (c) Amendment of application under subsection (b) to conform to requirements of subsection (a)
 
@@ -56,19 +56,19 @@ At any time during examination of an application filed under subsection (b) of t
 
 #### (d) Verified statement that trademark is used in commerce
 
-(1) Within six months after the date on which the notice of allowance with respect to a mark is issued under section 1063(b)(2) of this title to an applicant under subsection (b) of this section, the applicant shall file in the Patent and Trademark Office, together with such number of specimens or facsimiles of the mark as used in commerce as may be required by the Commissioner and payment of the prescribed fee, a verified statement that the mark is in use in commerce and specifying the date of the applicant's first use of the mark in commerce and,,<sup>1</sup> those goods or services specified in the notice of allowance on or in connection with which the mark is used in commerce. Subject to examination and acceptance of the statement of use, the mark shall be registered in the Patent and Trademark Office, a certificate of registration shall be issued for those goods or services recited in the statement of use for which the mark is entitled to registration, and notice of registration shall be published in the Official Gazette of the Patent and Trademark Office. Such examination may include an examination of the factors set forth in subsections (a) through (e) of section 1052 of this title. The notice of registration shall specify the goods or services for which the mark is registered.
+(1) Within six months after the date on which the notice of allowance with respect to a mark is issued under section 1063(b)(2) of this title to an applicant under subsection (b) of this section, the applicant shall file in the Patent and Trademark Office, together with such number of specimens or facsimiles of the mark as used in commerce as may be required by the Director and payment of the prescribed fee, a verified statement that the mark is in use in commerce and specifying the date of the applicant's first use of the mark in commerce and,,<sup>1</sup> those goods or services specified in the notice of allowance on or in connection with which the mark is used in commerce. Subject to examination and acceptance of the statement of use, the mark shall be registered in the Patent and Trademark Office, a certificate of registration shall be issued for those goods or services recited in the statement of use for which the mark is entitled to registration, and notice of registration shall be published in the Official Gazette of the Patent and Trademark Office. Such examination may include an examination of the factors set forth in subsections (a) through (e) of section 1052 of this title. The notice of registration shall specify the goods or services for which the mark is registered.
 
-(2) The Commissioner shall extend, for one additional 6-month period, the time for filing the statement of use under paragraph (1), upon written request of the applicant before the expiration of the 6-month period provided in paragraph (1). In addition to an extension under the preceding sentence, the Commissioner may, upon a showing of good cause by the applicant, further extend the time for filing the statement of use under paragraph (1) for periods aggregating not more than 24 months, pursuant to written request of the applicant made before the expiration of the last extension granted under this paragraph. Any request for an extension under this paragraph shall be accompanied by a verified statement that the applicant has a continued bona fide intention to use the mark in commerce and specifying those goods or services identified in the notice of allowance on or in connection with which the applicant has a continued bona fide intention to use the mark in commerce. Any request for an extension under this paragraph shall be accompanied by payment of the prescribed fee. The Commissioner shall issue regulations setting forth guidelines for determining what constitutes good cause for purposes of this paragraph.
+(2) The Director shall extend, for one additional 6-month period, the time for filing the statement of use under paragraph (1), upon written request of the applicant before the expiration of the 6-month period provided in paragraph (1). In addition to an extension under the preceding sentence, the Director may, upon a showing of good cause by the applicant, further extend the time for filing the statement of use under paragraph (1) for periods aggregating not more than 24 months, pursuant to written request of the applicant made before the expiration of the last extension granted under this paragraph. Any request for an extension under this paragraph shall be accompanied by a verified statement that the applicant has a continued bona fide intention to use the mark in commerce and specifying those goods or services identified in the notice of allowance on or in connection with which the applicant has a continued bona fide intention to use the mark in commerce. Any request for an extension under this paragraph shall be accompanied by payment of the prescribed fee. The Director shall issue regulations setting forth guidelines for determining what constitutes good cause for purposes of this paragraph.
 
-(3) The Commissioner shall notify any applicant who files a statement of use of the acceptance or refusal thereof and, if the statement of use is refused, the reasons for the refusal. An applicant may amend the statement of use.
+(3) The Director shall notify any applicant who files a statement of use of the acceptance or refusal thereof and, if the statement of use is refused, the reasons for the refusal. An applicant may amend the statement of use.
 
-(4) The failure to timely file a verified statement of use under paragraph (1) or an extension request under paragraph (2) shall result in abandonment of the application, unless it can be shown to the satisfaction of the Commissioner that the delay in responding was unintentional, in which case the time for filing may be extended, but for a period not to exceed the period specified in paragraphs (1) and (2) for filing a statement of use.
+(4) The failure to timely file a verified statement of use under paragraph (1) or an extension request under paragraph (2) shall result in abandonment of the application, unless it can be shown to the satisfaction of the Director that the delay in responding was unintentional, in which case the time for filing may be extended, but for a period not to exceed the period specified in paragraphs (1) and (2) for filing a statement of use.
 
 #### (e) Designation of resident for service of process and notices
 
-If the applicant is not domiciled in the United States he shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with him or mailing to him a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Commissioner.
+If the applicant is not domiciled in the United States he shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with him or mailing to him a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Director.
 
-(July 5, 1946, ch. 540, title I, §1, 60 Stat. 427; Pub. L. 87–772, §1, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §103, Nov. 16, 1988, 102 Stat. 3935; Pub. L. 105–330, title I, §103, title II, §201(a), Oct. 30, 1998, 112 Stat. 3064, 3069.)
+(July 5, 1946, ch. 540, title I, §1, 60 Stat. 427; Pub. L. 87–772, §1, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §103, Nov. 16, 1988, 102 Stat. 3935; Pub. L. 105–330, title I, §103, title II, §201(a), Oct. 30, 1998, 112 Stat. 3064, 3069; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
 #### Prior Provisions
 
@@ -77,6 +77,8 @@ Subsecs. (a) to (c) are from acts Feb. 20, 1905, ch. 592, §§1, 2, 33 Stat. 724
 Subsec. (d) is from act Feb. 20, 1905, ch. 592, §3, 33 Stat. 725.
 
 #### Amendments
+
+1999—Subsecs. (a), (b), (d), (e). Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
 
 1998—Subsec. (a). Pub. L. 105–330, §103(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to application by owner of a trademark used in commerce to register the trademark by filing in the Patent and Trademark Office a written application in prescribed form and verified by applicant, by paying prescribed fee, and by complying with prescribed rules or regulations.
 
@@ -88,7 +90,7 @@ Pub. L. 105–330, §201(a)(1)(B), which directed the striking out of “and, th
 
 Subsec. (d)(4). Pub. L. 105–330, §103(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The failure to timely file a verified statement of use under this subsection shall result in abandonment of the application.”
 
-1988—Subsec. (a). Pub. L. 100–667, §103(1) to (7), inserted “(a)” preceding introductory provisions and substituted “may apply to register his or her” for “may register his”, redesignated former subsecs. (a) to (c) as pars. (1) to (3), respectively, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, in par. (1)(A), substituted “used on or in connection with” for “applied to” and “goods on or in connection” for “goods in connection”, in par. (1)(C), struck out “actually” after “the mark as”, and in par. (2), substituted “prescribed” for “filing”.
+1988—Subsec. (a). Pub. L. 100–667, §103(1) to (7), inserted “(a)” preceding introductory provisions and substituted “may apply to register his or her” for “mayregister his”, redesignated former subsecs. (a) to (c) as pars. (1) to (3), respectively, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, in par. (1)(A), substituted “used on or in connection with” for “applied to” and “goods on or in connection” for “goods in connection”, in par. (1)(C), struck out “actually” after “the mark as”, and in par. (2), substituted “prescribed” for “filing”.
 
 Subsecs. (b), (c). Pub. L. 100–667, §103(3), (9), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as pars. (2) and (3), respectively, of subsec. (a).
 
@@ -98,15 +100,19 @@ Subsecs. (d), (e). Pub. L. 100–667, §103(8), (9), added subsec. (d) and redes
 
 1962—Subsec. (a)(1). Pub. L. 87–772 substituted “as to be likely, when applied to the goods of such other person, to cause confusion, or to cause mistake, or to deceive” for “as might be calculated to deceive”, and struck out “or services” after “use by others, the goods”.
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–330, title I, §109(b), Oct. 30, 1998, 112 Stat. 3069, provided that: “This title \[see Short Title of 1998 Amendment note below\] and the amendments made by this title shall apply to any application for registration of a trademark pending on, or filed on or after, the effective date of this Act \[probably should be “this title”, see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note above\].”
+Pub. L. 105–330, title I, §109(b), Oct. 30, 1998, 112 Stat. 3069, provided that: “This title \[see Short Title of 1998 Amendment note below\] and the amendments made by this title shall apply to any application for registration of a trademark pending on, or filed on or after, the effective date of this Act \[probably should be “this title”, see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note below\].”
 
 Pub. L. 105–330, title I, §110, Oct. 30, 1998, 112 Stat. 3069, provided that: “This title \[see Short Title of 1998 Amendment note below\] and the amendments made by this title shall take effect—
 
 &emsp;“(1) on the date that is 1 year after the date of the enactment of this Act \[Oct. 30, 1998\], or
 
-&emsp;“(2) upon the entry into force of the Trademark Law Treaty with respect to the United States,
+&emsp;“(2) upon the entry into force of the Trademark Law Treaty with respect to the United States \[Aug. 12, 2000\],
 
 > whichever occurs first.”
 
@@ -124,7 +130,13 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 Section 46(a) of act July 5, 1946, provided that this chapter shall be in force and take effect one year from July 5, 1946.
 
-#### Short title of 1998 Amendment
+#### Short Title of 1999 Amendments
+
+Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3001(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–545, provided that: “This title \[enacting section 1129 of this title, amending sections 1114, 1116, 1117, 1125, and 1127 of this title, section 470a of Title 16, Conservation, and section 1338 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and sections 1117 and 1125 of this title\] may be cited as the ‘Anticybersquatting Consumer Protection Act’.”
+
+Pub. L. 106–43, §1, Aug. 5, 1999, 113 Stat. 218, provided that: “This Act \[amending sections 1052 to 1054, 1060, 1063, 1064, 1091, 1092, 1114, 1116 to 1118, 1122, and 1124 to 1127 of this title, enacting provisions set out as a note under section 1052 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Trademarks Amendments Act of 1999’.”
+
+#### Short Title of 1998 Amendment
 
 Pub. L. 105–330, title I, §101, Oct. 30, 1998, 112 Stat. 3064, provided that: “This title \[amending this section and sections 1058 to 1060, 1062, and 1126 of this title and enacting provisions set out as notes under this section and sections 1058 and 1059 of this title\] may be cited as the ‘Trademark Law Treaty Implementation Act’.”
 
@@ -150,9 +162,13 @@ Act July 5, 1946, ch. 540, 60 Stat. 427, which is classified to this chapter, is
 
 #### Repeal of Inconsistent Provisions; Certain Provisions Not Affected
 
-Section 46(a) of act July 5, 1946, provided in part that all acts and parts of acts inconsistent with this chapter are repealed effective one year from July 5, 1946, but that “nothing contained in this Act \[this chapter\] shall be construed as limiting, restricting, modifying, or repealing any statute in force on the effective date of this Act \[July 5, 1947\] which does not relate to trade-marks, or as restricting or increasing the authority of any Federal department or regulatory agency except as may be specifically provided in this Act \[this chapter\].”
+Section 46(a) of act July 5, 1946, as amended by Pub. L. 106–43, §6(b), Aug. 5, 1999, 113 Stat. 220, provided in part that all acts and parts of acts inconsistent with this chapter are repealed effective one year from July 5, 1946, but that “nothing contained in this Act \[this chapter\] shall be construed as limiting, restricting, modifying, or repealing any statute in force on the effective date of this Act \[July 5, 1947\] which does not relate to trademarks, or as restricting or increasing the authority of any Federal department or regulatory agency except as may be specifically provided in this Act \[this chapter\].”
 
-Section 48 of act July 5, 1946, provided that: “Section 4 of the Act of January 5, 1905 (U.S.C., title 36, sec. 4), as amended, entitled ‘An Act to incorporate the National Red Cross’ \[see 18 U.S.C. 706\], and section 7 of the Act of June 15, 1916 (U.S.C., title 36, sec. 27), entitled ‘An Act to incorporate the Boy Scouts of America, and for other purposes’ \[see 36 U.S.C. 30905\], and the Act of June 20, 1936 (U.S.C., title 22, sec. 248), entitled ‘An Act to prohibit the commercial use of the coat of arms of the Swiss Confederation’ \[see 18 U.S.C. 708\], are not repealed or affected by this Act.”
+Section 48 of act July 5, 1946, provided that: “Section 4 of the Act of January 5, 1905 (U.S.C., title 36, sec. 4), as amended, entitled ‘An Act to incorporate the National Red Cross’ \[see 18 U.S.C. 706\], and section 7 of theAct of June 15, 1916 (U.S.C., title 36, sec. 27), entitled ‘An Act to incorporate the Boy Scouts of America, and for other purposes’ \[see 36 U.S.C. 30905\], and the Act of June 20, 1936 (U.S.C., title 22, sec. 248), entitled ‘An Act to prohibit the commercial use of the coat of arms of the Swiss Confederation’ \[see 18 U.S.C. 708\], are not repealed or affected by this Act.”
+
+#### Savings Provision
+
+Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3008\], Nov. 29, 1999, 113 Stat. 1536, 1501A–551, provided that: “Nothing in this title \[see Short Title of 1999 Amendments note above\] shall affect any defense available to a defendant under the Trademark Act of 1946 \[15 U.S.C. 1051 et seq.\] (including any defense under section 43(c)(4) of such Act \[15 U.S.C. 1125(c)(4)\] or relating to fair use) or a person's right of free speech or expression under the first amendment of the United States Constitution.”
 
 #### Separability
 
@@ -178,7 +194,7 @@ Sections 46(b) and 47 of act July 5, 1946, provided:
 
 Sec. 47. (a) All applications for registration pending in the Patent Office at the effective date of this Act \[July 5, 1947\] may be amended, if practicable, to bring them under the provisions of this Act \[this chapter\]. The prosecution of such applications so amended and the grant of registrations thereon shall be proceeded with in accordance with the provisions of this Act \[this chapter\]. If such amendments are not made, the prosecution of said applications shall be proceeded with and registrations thereon granted in accordance with the Acts under which said applications were filed, and said Acts are hereby continued in force to this extent and for this purpose only, notwithstanding the foregoing general repeal thereof.
 
-“(b) In any case in which an appeal is pending before the United States Court of Customs and Patent Appeals or any United States Circuit Court of Appeals or the United States Court of Appeals for the District of Columbia or the United States Supreme Court at the effective date of this Act \[July 5, 1947\], the court, if it be of the opinion that the provisions of this Act \[this chapter\] are applicable to the subject matter of the appeal, may apply such provision or may remand the case to the Commissioner or to the district court for the taking of additional evidence or a new trial or for reconsideration of the decision on the record as made, as the appellate court may deem proper.”
+“(b) In any case in which an appeal is pending before the United States Court of Customs and Patent Appeals or any United States Circuit Court of Appeals or the United States Court of Appeals for the District of Columbia or the United States Supreme Court at the effective date of this Act \[July 5, 1947\], the court, if it be of the opinion that the provisions of this Act \[this chapter\] are applicable to the subject matter of the appeal, may apply such provision or may remand the case to the Commissioner \[now Director\] or to the district court for the taking of additional evidence or a new trial or for reconsideration of the decision on the record as made, as the appellate court may deem proper.”
 
 Section 49 of said act July 5, 1946, provided: “Nothing herein \[in this chapter\] shall adversely affect the rights or the enforcement of rights in marks acquired in good faith prior to the effective date of this Act \[July 5, 1947\].”
 

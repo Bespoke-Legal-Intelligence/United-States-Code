@@ -52,7 +52,7 @@ Limit on compensation of officials.—
 
 &emsp;&emsp;(i)
 
-In general.—No director or senior management official of an insured creditunion may receive any economic benefit in connection with a conversion of the credit union as described in subparagraph (A), other than—
+In general.—No director or senior management official of an insured credit union may receive any economic benefit in connection with a conversion of the credit union as described in subparagraph (A), other than—
 
 &emsp;&emsp;&emsp;(I) director fees; and
 
@@ -68,7 +68,7 @@ Consistent rules.—
 
 &emsp;&emsp;(i)
 
-In general.—Not later than 6 months after August 7, 1998, the Administration shall promulgate final rules applicable to charter conversions described in this paragraph that are consistent with rules promulgated by other financial regulators, including the Office of Thrift Supervision and the Office of the Comptroller of the Currency. The rules required by this clause shall provide that charter conversion by an insured credit union shall be subject to regulation that is no more or less restrictive than that applicable to charter conversions by other financial institutions.
+In general.—Not later than 6 months after August 7, 1998, the Administrationshall promulgate final rules applicable to charter conversions described in this paragraph that are consistent with rules promulgated by other financial regulators, including the Office of Thrift Supervision and the Office of the Comptroller of the Currency. The rules required by this clause shall provide that charter conversion by an insured credit union shall be subject to regulation that is no more or less restrictive than that applicable to charter conversions by other financial institutions.
 
 &emsp;&emsp;(ii)
 
@@ -146,7 +146,7 @@ In granting or withholding approval or consent under subsection (b) of this sect
 
 #### (f) Share draft accounts; maintenance, loans, etc.
 
-(1) Every insured credit union is authorized to maintain, and make loans with respect to, share draft accounts in accordance with rules and regulations prescribed by the Board. Except as provided in paragraph (2), an insured credit union may pay dividends on share draft accounts and may permit the owners of such share draft accounts to make withdrawals by negotiable or transferable instruments or other orders for the purpose of making transfers to third parties.
+(1) Every insured credit union is authorized to maintain, and make loans with respect to, sharedraft accounts in accordance with rules and regulations prescribed by the Board. Except as provided in paragraph (2), an insured credit union may pay dividends on share draft accounts and may permit the owners of such share draft accounts to make withdrawals by negotiable or transferable instruments or other orders for the purpose of making transfers to third parties.
 
 (2) Paragraph (1) shall apply only with respect to share draft accounts in which the entire beneficial interest is held by one or more individuals or members or by an organization which is operated primarily for religious, philanthropic, charitable, educational, or other similar purposes and which is not operated for profit, and with respect to deposits of public funds by an officer, employee, or agent of the United States, any State, county, municipality, or political subdivision thereof, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, any territory or possession of the United States, or any political subdivision thereof.
 

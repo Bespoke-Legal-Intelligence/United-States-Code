@@ -2,7 +2,7 @@
 
 #### (a) Preservation and protection of security, lien, or priority of lien securing loan
 
-The Secretary is authorized and empowered to make advances, without regard to any loan ortotal indebtedness limitation, to preserve and protect the security for or the lien or priority of the lien securing any loan or other indebtedness owing to, insured by, or acquired by the Secretary under this chapter or under any other programs administered by the Farmers Home Administration or the Rural Development Administration; to bid for and purchase at any execution, foreclosure, or other sale or otherwise to acquire property upon which the United States has a lien by reason of a judgment or execution arising from, or which is pledged, mortgaged, conveyed, attached, or levied upon to secure the payment of, any such indebtedness whether or not such property is subject to other liens, to accept title to any property so purchased or acquired; and to sell, manage, or otherwise dispose of such property as hereinafter provided.
+The Secretary is authorized and empowered to make advances, without regard to any loan or total indebtedness limitation, to preserve and protect the security for or the lien or priority of the lien securing any loan or other indebtedness owing to, insured by, or acquired by the Secretary under this chapter or under any other programs administered by the Farmers Home Administration or the Rural Development Administration; to bid for and purchase at any execution, foreclosure, or other sale or otherwise to acquire property upon which the United States has a lien by reason of a judgment or execution arising from, or which is pledged, mortgaged, conveyed, attached, or levied upon to secure the payment of, any such indebtedness whether or not such property is subject to other liens, to accept title to any property so purchased or acquired; and to sell, manage, or otherwise dispose of such property as hereinafter provided.
 
 #### (b) Operation or lease of realty
 
@@ -82,7 +82,7 @@ Except as provided in subsections (c) and (e) of this section, real property adm
 
 #### (iii) Income-producing capability
 
-&emsp;&emsp;&emsp;In determining the rental rate on real property leased under this subparagraph,the Secretary shall consider the income-producing capability of the property during the term that the property is leased.
+&emsp;&emsp;&emsp;In determining the rental rate on real property leased under this subparagraph, the Secretary shall consider the income-producing capability of the property during the term that the property is leased.
 
 #### (6) Expedited determination
 
@@ -140,7 +140,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 &emsp;(III) such Indian tribe itself.
 
-(v) If real property described in clause (i) is not purchased or leased under clause (iii) and the Indian tribe having jurisdiction over the reservation within which the real property is located is unable to purchase or lease the real property, the Secretary shall transfer the real property to the Secretary of the Interior who shall administer the real property as if the real property were held in trust by the United States for the benefit of such Indian tribe. From the rental income derived from the lease of the transferred real property, and all other incomegenerated from the transferred real property, the Secretary of the Interior shall pay those State, county, municipal, or other local taxes to which the transferred real property was subject at the time of acquisition by the Secretary, until the earlier of—
+(v) If real property described in clause (i) is not purchased or leased under clause (iii) and the Indian tribe having jurisdiction over the reservation within which the real property is located is unable to purchase or lease the real property, the Secretary shall transfer the real property to the Secretary of the Interior who shall administer the real property as if the real property were held in trust by the United States for the benefit of such Indian tribe. From the rental income derived from the lease of the transferred real property, and all other income generated from the transferred real property, the Secretary of the Interior shall pay those State, county, municipal, or other local taxes to which the transferred real property was subject at the time of acquisition by the Secretary, until the earlier of—
 
 &emsp;(I) the expiration of the 4-year period beginning on the date on which the real property is so transferred, or
 
@@ -150,7 +150,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 (vii) After the payment of any taxes which are required to be paid under clause (v), all remaining rental income derived from the lease of the real property transferred to the Secretary of the Interior under clause (v), and all other income generated from the real property transferred to the Secretary of the Interior under clause (v), shall be deposited as miscellaneous receipts in the Treasury of the United States until the amount deposited is equal to the lesser of—
 
-&emsp;(I) the amount of the outstanding lien of the United States against such real property, as of the date the real property was acquired by the Secretary;
+&emsp;(I) the amount of the outstanding lien of the United States against such real property, as ofthe date the real property was acquired by the Secretary;
 
 &emsp;(II) the fair market value of the real property, as of the date of the transfer to the Secretary of the Interior; or
 
@@ -188,7 +188,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 &emsp;(II) the fact that real property so conveyed will be placed in the inventory of the Secretary.
 
-(iii) The Secretary shall provide the borrower-owner of the real property with written notice of the rights and protections provided under thischapter to the borrower-owner, and the Indian tribe that has jurisdiction over the reservation in which the real property is located, from foreclosure or liquidation of the real property, including written notice of—
+(iii) The Secretary shall provide the borrower-owner of the real property with written notice of the rights and protections provided under this chapter to the borrower-owner, and the Indian tribe that has jurisdiction over the reservation in which the real property is located, from foreclosure or liquidation of the real property, including written notice of—
 
 &emsp;(I) the provisions of subparagraph (A), this subparagraph, and subsection (g)(6) <sup>1</sup> of this section;
 
@@ -274,7 +274,7 @@ Assumed loans.—If an Indian tribe assumes a loan under subclause (I)—
 
 &emsp;(B) as of the deadline for responding to the notice provided for under paragraph (5), requests restructuring of such loans pursuant to section 2001 of this title.
 
-(4) The county committee in the county in which borrower's land is located shall determine whether the borrower has complied with the requirements of paragraph (3)(A).
+(4) The county committee in the county in which borrower's land is located shall determinewhether the borrower has complied with the requirements of paragraph (3)(A).
 
 (5)(A) Within 45 days after January 6, 1988, the Secretary shall provide to the borrowers described in paragraph (3) notice by certified mail of the right of such borrowers to apply for the benefits under such paragraph.
 
@@ -510,7 +510,7 @@ Section 623 of Pub. L. 100–233, as amended by Pub. L. 101–624, title XVIII, 
 
 In General.—The Secretary of Agriculture, in coordination with the limited resource farmers’ initiative in the office of the Director of the Office of Advocacy and Enterprise, shall establish a farm ownership outreach program for persons who are members of any group with respect to which an individual may be identified as a socially disadvantaged individual under section 8(a)(5) of the Small Business Act (15 U.S.C. 637(a)(5)) to encourage the acquisition of inventory farmland of the Farmers Home Administration by—
 
-&emsp;“(1) informing persons eligible for assistance under any other provision of this Act \[see Short Title of1988 Amendment note set out under section 2001 of Title 12, Banks and Banking\] of—
+&emsp;“(1) informing persons eligible for assistance under any other provision of this Act \[see Short Title of 1988 Amendment note set out under section 2001 of Title 12, Banks and Banking\] of—
 
 &emsp;&emsp;“(A) the possiblity \[sic\] of acquiring such inventory farmland; and
 

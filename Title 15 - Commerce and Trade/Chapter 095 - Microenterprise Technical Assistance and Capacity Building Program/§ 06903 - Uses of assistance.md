@@ -1,0 +1,18 @@
+### §6903. Uses of assistance
+
+A qualified organization shall use grants made under this chapter—
+
+&emsp;(1) to provide training and technical assistance to disadvantaged entrepreneurs;
+
+&emsp;(2) to provide training and capacity building services to microenterprise development organizations and programs and groups of such organizations to assist such organizations and programs in developing microenterprise training and services;
+
+&emsp;(3) to aid in researching and developing the best practices in the field of microenterprise and technical assistance programs for disadvantaged entrepreneurs; and
+
+&emsp;(4) for such other activities as the Administrator determines are consistent with the purposes of this chapter.
+
+(Pub. L. 103–325, title I, §174, as added Pub. L. 106–102, title VII, §725, Nov. 12, 1999, 113 Stat. 1473.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6905 of this title.
+

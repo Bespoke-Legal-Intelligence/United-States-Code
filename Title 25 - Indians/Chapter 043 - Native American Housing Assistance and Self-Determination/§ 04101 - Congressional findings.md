@@ -26,7 +26,7 @@ The Congress finds that—
 
 #### References in Text
 
-Public Law 93–638, referred to in par. (7), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, known asthe Indian Self-Determination and Education Assistance Act, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+Public Law 93–638, referred to in par. (7), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Effective Date
 

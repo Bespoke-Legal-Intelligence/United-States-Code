@@ -12,7 +12,7 @@ The functions of each United States Agricultural Trade Office shall be to—
 
 &emsp;(5) develop and maintain a current listing of trade, government, and other appropriate organizations for each agricultural commodity area and make such listing available to persons with a bona fide interest in exporting or importing United States agricultural commodities;
 
-&emsp;(6) originate and provide assistance for exhibits, sales teams, and other functions for the promotion of United States agricultural commodities;
+&emsp;(6) originate and provide assistance for exhibits, sales teams, and other functions for thepromotion of United States agricultural commodities;
 
 &emsp;(7) provide practical assistance for the use of the programs under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\], the export credit sales program, the export incentives program, and related programs of the United States Government where use of such programs will serve as a market development tool for United States agriculture;
 

@@ -50,27 +50,39 @@ Mar. 16, 1950, ch. 62, §§4 (1st–7th sentences), 5, 64 Stat. 23, 24; Aug. 14,
 
 36:34 (1st sentence words after 1st comma).
 
+&nbsp;
+
 80303(a)(3)
 
 36:34 (3d sentence).
+
+&nbsp;
 
 80303(a)(4)
 
 36:35 (1st, 2d sentences).
 
+&nbsp;
+
 80303(b)(1)
 
 36:34 (4th sentence words before 1st comma, 5th, 7th sentences).
+
+&nbsp;
 
 80303(b)(2)
 
 36:34 (6th sentence).
 
-80303(c)D36:34 (4th sentence words after 1st comma).
+&nbsp;
+
+80303(c)D36:34 (4th sentence words after 1st comma).D&nbsp;
 
 80303(d)
 
 36:35 (last sentence).
+
+&nbsp;
 
 In subsection (a)(1), the words “(hereinafter referred to as the ‘national council’)” are omitted as unnecessary.
 

@@ -1,6 +1,6 @@
 ### §2123. Board of directors
 
-(a)(1) Each bank for cooperatives not merged into the United Bank for Cooperatives or the National Bank for Cooperatives shall elect a board of directors of such number, for such term, in such manner, and with such qualifications as may be required in its bylaws, exceptthat at least one member shall be elected by the other directors, which member shall not be a director, officer, employee, or stockholder of a System institution.
+(a)(1) Each bank for cooperatives not merged into the United Bank for Cooperatives or the National Bank for Cooperatives shall elect a board of directors of such number, for such term, in such manner, and with such qualifications as may be required in its bylaws, except that at least one member shall be elected by the other directors, which member shall not be a director, officer, employee, or stockholder of a System institution.
 
 (2)(A) If approved by the stockholders through a bylaw amendment, the nomination and election of one member from a bank for cooperatives (other than the National Bank for Cooperatives) shall be carried out with each voting stockholder of a bank for cooperatives having one vote, plus a number of votes (or fractional part thereof) equal to—
 
@@ -26,7 +26,7 @@ Subsec. (b). Pub. L. 100–399 amended subsec. (b) generally. Prior to amendment
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233,which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
 #### Effective Date of 1985 Amendment
 

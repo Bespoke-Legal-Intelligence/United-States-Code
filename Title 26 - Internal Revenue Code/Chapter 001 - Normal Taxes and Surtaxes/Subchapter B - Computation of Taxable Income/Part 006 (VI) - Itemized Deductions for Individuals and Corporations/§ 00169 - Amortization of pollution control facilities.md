@@ -20,7 +20,7 @@ For purposes of this section—
 
 &emsp;The term “certified pollution control facility” means a new identifiable treatment facility which is used, in connection with a plant or other property in operation before January 1, 1976, to abate or control water or atmospheric pollution or contamination by removing, altering, disposing, storing, or preventing the creation or omission of pollutants, contaminants, wastes, or heat and which—
 
-&emsp;&emsp;(A) the State certifying authority having jurisdiction with respect to such facility has certified to the Federal certifying authority as having been constructed, reconstructed, erected, or acquired in conformity with the State program or requirements for abatement or control of water or atmospheric pollution or contamination;
+&emsp;&emsp;(A) the State certifying authority having jurisdiction with respect to such facility hascertified to the Federal certifying authority as having been constructed, reconstructed, erected, or acquired in conformity with the State program or requirements for abatement or control of water or atmospheric pollution or contamination;
 
 &emsp;&emsp;(B) the Federal certifying authority has certified to the Secretary (i) as being in compliance with the applicable regulations of Federal agencies and (ii) as being in furtherance of the general policy of the United States for cooperation with the States in the prevention and abatement of water pollution under the Federal Water Pollution Control Act, as amended (33 U.S.C. 466 et seq.), or in the prevention and abatement of atmospheric pollution and contamination under the Clean Air Act, as amended (42 U.S.C. 1857 et seq.); and
 
@@ -88,7 +88,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### References in Text
 
-The Federal Water Pollution Control Act, as amended (33 U.S.C. 466 et seq.), referred to in subsec. (d)(1)(B), isact June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. The subject matter of section 13(a) of the act, referred to in subsec. (d)(2), is covered by section 1362(1) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, as amended (33 U.S.C. 466 et seq.), referred to in subsec. (d)(1)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. The subject matter of section 13(a) of the act, referred to in subsec. (d)(2), is covered by section 1362(1) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Clean Air Act, referred to in subsec. (d)(1)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 

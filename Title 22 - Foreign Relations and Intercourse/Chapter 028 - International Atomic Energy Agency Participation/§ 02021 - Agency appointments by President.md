@@ -2,7 +2,7 @@
 
 #### (a) Representative and deputy representative; terms; functions
 
-The President, by and with the advice and consent of the Senate, shall appoint a representative and a deputy representative of the United States to the International Atomic Energy Agency (referred to in this chapter as the “Agency”), who shall hold office at the pleasure of the President. Such representative and deputy representative shall represent the United States on the Board of Governors of the Agency, may represent the United States at the General Conference, and may serve ex officio as United States representative on any organ of that Agency, and shall perform such other functions in connection with the participation of the United States in the Agency as the President may from time to time direct.
+The President, by and with the advice and consent of the Senate, shall appoint a representative and a deputy representative of the United States to the International Atomic Energy Agency (referred to in this chapter as the “Agency”), who shall hold office at the pleasure of the President. Such representative and deputy representative shall represent the United States on the Board of Governors of the Agency, may represent the United States at the General Conference, and may serve ex officio as United States representative on any organ of that Agency, and shall perform such other functions in connection with the participation of the United States in the Agency as the President may from time to time direct. The Representative of the United States to the Vienna office of the United Nations shall also serve as representative of the United States to the Agency.
 
 #### (b) Specified sessions
 
@@ -14,9 +14,9 @@ The President may also appoint or designate from time to time such other persons
 
 #### (d) Compensation; allowances and benefits
 
-All persons appointed or designated in pursuance of authority contained in this section shall receive compensation at rates determined by thePresident upon the basis of duties to be performed but not in excess of rates authorized by sections 401, 402, and 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3961, 3962, and 3963\] for chiefs of mission, members of the Senior Foreign Service, and Foreign Service officers occupying positions of equivalent importance, except that no Member of the Senate or House of Representatives or officer of the United States who is designated under subsection (b) or subsection (c) of this section as a delegate or representative of the United States or as an alternate to attend any specified session or specified sessions of the General Conference shall be entitled to receive such compensation. Any person who receives compensation pursuant to the provisions of this subsection may be granted allowances and benefits not to exceed those received under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\] by chiefs of mission, members of the Senior Foreign Service, and Foreign Service officers occupying positions of equivalent importance.
+All persons appointed or designated in pursuance of authority contained in this section shall receive compensation at rates determined by the President upon the basis of duties to be performed but not in excess of rates authorized by sections 401, 402, and 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3961, 3962, and 3963\] for chiefs of mission, members of the Senior Foreign Service, and Foreign Service officers occupying positions of equivalent importance, except that no Member of the Senate or House of Representatives or officer of the United States who is designated under subsection (b) or subsection (c) of this section as a delegate or representative of the United States or as an alternate to attend any specified session or specified sessions of the General Conference shall be entitled to receive such compensation. Any person who receives compensation pursuant to the provisions of this subsection may be granted allowances and benefits not to exceed those received under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\] by chiefs of mission, members of the Senior Foreign Service, and Foreign Service officers occupying positions of equivalent importance.
 
-(Pub. L. 85–177, §2, Aug. 28, 1957, 71 Stat. 453; Pub. L. 96–465, title II, §2206(a)(7)(A), Oct. 17, 1980, 94 Stat. 2161.)
+(Pub. L. 85–177, §2, Aug. 28, 1957, 71 Stat. 453; Pub. L. 96–465, title II, §2206(a)(7)(A), Oct. 17, 1980, 94 Stat. 2161; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §708(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–462.)
 
 #### References in Text
 
@@ -24,7 +24,13 @@ The Foreign Service Act of 1980, referred to in subsec. (d), is Pub. L. 96–465
 
 #### Amendments
 
+1999—Subsec. (a). Pub. L. 106–113 inserted at end “The Representative of the United States to the Vienna office of the United Nations shall also serve as representative of the United States to the Agency.”
+
 1980—Subsec. (d). Pub. L. 96–465 substituted “sections 401, 402, and 403 of the Foreign Service Act of 1980 for chiefs of mission, members of the Senior Foreign Service,” for “sections 866 and 867 of this title, for Chiefs of Mission” and “under the Foreign Service Act of 1980 by chiefs of mission, members of the Senior Foreign Service,” for “by Chiefs of Mission”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 applicable to individuals appointed on or after Nov. 29, 1999, see section 1000(a)(7) \[div. A, title VII, §708(c)\] of Pub. L. 106–113, set out as a note under section 287 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -32,7 +38,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Short Title
 
-Section 1 of Pub. L. 85–177 provided that: “This Act \[enacting this chapter and amending section 2074 of Title 42, The Public Health and Welfare\] may be cited as the ‘International Atomic Energy Agency Participation Act of 1957’.”
+Section 1 of Pub. L. 85–177 provided that: “This Act \[enacting this chapter and amending section 2074 of Title 42, The Public Health and Welfare\] may be citedas the ‘International Atomic Energy Agency Participation Act of 1957’.”
 
 #### Opposition to Certain Programs or Projects; Reporting Requirements
 

@@ -14,7 +14,7 @@
 
 > The provisions of Public Law 92–463, as amended, shall not apply to the Council.
 
-(2) The Secretary shall appoint an alternate member of the Council who shall be knowledgeable and experienced in matters relating to fish, wildlife, and wetlands conservation and who shall perform the duties of a Council member appointed under subsection (a)(1)(C) or subsection (a)(1)(D) of this section—
+(2) The Secretary shall appoint an alternate member of the Council who shall be knowledgeable and experienced in matters relating to fish, wildlife, and wetlands conservation and whoshall perform the duties of a Council member appointed under subsection (a)(1)(C) or subsection (a)(1)(D) of this section—
 
 &emsp;(A) until a vacancy referred to in subsection (b)(4) of this section is filled; or
 
@@ -50,7 +50,7 @@ A majority of the current membership of the Council shall constitute a quorum fo
 
 #### (f) Meetings
 
-The Council shall meet at the call of the Chairman at least once a year. Council meetingsshall be open to the public, and the Chairman shall take appropriate steps to provide adequate notice to the public of the time and place of such meetings. If a Council member appointed under subsection (a)(1)(C) or (a)(1)(D) of this section misses three consecutive regularly scheduled meetings, the Secretary may remove that individual in accordance with subsection (b)(4) of this section.
+The Council shall meet at the call of the Chairman at least once a year. Council meetings shall be open to the public, and the Chairman shall take appropriate steps to provide adequate notice to the public of the time and place of such meetings. If a Council member appointed under subsection (a)(1)(C) or (a)(1)(D) of this section misses three consecutive regularly scheduled meetings, the Secretary may remove that individual in accordance with subsection (b)(4) of this section.
 
 #### (g) Coordinator
 
@@ -88,7 +88,7 @@ In General.—Notwithstanding section 4(a)(1)(D) of the North American Wetlands 
 
 &emsp;“(1) 1 individual who shall be the Group Manager for Conservation Programs of Ducks Unlimited, Inc. and who shall serve for 1 term of 3 years beginning in 1999; and
 
-&emsp;“(2) 2 individuals who shall be appointed by the Secretary of the Interior in accordance with section 4 of that Act and who shall each represent a different organization described in section 4(a)(1)(D) of that Act.
+&emsp;“(2) 2 individuals who shall be appointed by the Secretary of the Interior in accordance with section4 of that Act and who shall each represent a different organization described in section 4(a)(1)(D) of that Act.
 
 “(b)
 

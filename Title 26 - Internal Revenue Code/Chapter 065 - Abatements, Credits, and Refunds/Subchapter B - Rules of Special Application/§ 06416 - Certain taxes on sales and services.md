@@ -48,7 +48,7 @@ Under regulations prescribed by the Secretary, credit or refund (without interes
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) or (C), if the price of any article in respect ofwhich a tax, based on such price, is imposed by chapter 31 or 32, is readjusted by reason of the return or repossession of the article or a covering or container, or by a bona fide discount, rebate, or allowance, including a readjustment for local advertising (but only to the extent provided in section 4216(e)(2) and (3)), the part of the tax proportionate to the part of the price repaid or credited to the purchaser shall be deemed to be an overpayment.
+&emsp;&emsp;Except as provided in subparagraph (B) or (C), if the price of any article in respect of which a tax, based on such price, is imposed by chapter 31 or 32, is readjusted by reason of the return or repossession of the article or a covering or container, or by a bona fide discount, rebate, or allowance, including a readjustment for local advertising (but only to the extent provided in section 4216(e)(2) and (3)), the part of the tax proportionate to the part of the price repaid or credited to the purchaser shall be deemed to be an overpayment.
 
 #### (B) Further manufacture
 
@@ -124,11 +124,11 @@ Under regulations prescribed by the Secretary, credit or refund (without interes
 
 > &emsp;such tax shall be deemed to be an overpayment by such person. For purposes of the preceding sentence, an article shall be treated as having been used as a component part of another article if, had it not been broken or rendered useless in the manufacture or production of such other article, it would have been so used.
 
-> This subsection shall apply in respect of an article only if the exportation or use referred to inthe applicable provision of this subsection occurs before any other use, or, in the case of a sale or resale, the use referred to in the applicable provision of this subsection is to occur before any other use.
+> This subsection shall apply in respect of an article only if the exportation or use referred to in the applicable provision of this subsection occurs before any other use, or, in the case of a sale or resale, the use referred to in the applicable provision of this subsection is to occur before any other use.
 
 #### (c) Refund to exporter or shipper
 
-Under regulations prescribed by the Secretary the amount of any tax imposed by chapter 31, or chapter 32 erroneously or illegally collected in respect of any article exported to a foreign country or shipped to a possession of the United States may be refunded to the exporter or shipper thereof, if the person who paid such tax waives his claim to such amount.
+Under regulations prescribed by the Secretary the amount of any tax imposed by chapter 31, orchapter 32 erroneously or illegally collected in respect of any article exported to a foreign country or shipped to a possession of the United States may be refunded to the exporter or shipper thereof, if the person who paid such tax waives his claim to such amount.
 
 #### (d) Credit on returns
 
@@ -180,7 +180,7 @@ Subsec. (b)(2). Pub. L. 100–647, §2001(d)(1)(B), substituted “(or under sub
 
 1987—Subsec. (b)(2). Pub. L. 100–203, §10502(d)(6), struck out “(other than coal taxable under section 4121)” after “of any article” in introductory provisions and inserted at end “This paragraph shall not apply in the case of any tax paid under section 4091 or 4121.”
 
-Pub. L. 100–203, §9201(b)(2), inserted at end “In the case of the tax imposed by section 4131, subparagraphs (B), (C), and (D) shall not apply and subparagraph (A) shall apply only if the use of the exported vaccinemeets such requirements as the Secretary may by regulations prescribe.”
+Pub. L. 100–203, §9201(b)(2), inserted at end “In the case of the tax imposed by section 4131, subparagraphs (B), (C), and (D) shall not apply and subparagraph (A) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe.”
 
 Subsec. (b)(3)(A). Pub. L. 100–203, §10502(d)(7), inserted “and other than any fuel taxable under section 4091” after “section 4081”.
 
@@ -248,7 +248,7 @@ Subsec. (b)(2). Pub. L. 96–222, §108(c)(3), added subpar. (N) and provision f
 
 Subsec. (b)(2)(E). Pub. L. 96–598, §1(b)(2)(A), inserted “(or in the case of the tread rubber on a recapped or retreaded tire, resold for use as provided in subparagraph (D) of paragraph (3)),” after “paragraph (3)”.
 
-Subsec. (b)(2)(G). Pub. L. 96–598, §1(a), inserted provision making a credit or refund of the tread rubber tax available where the tread rubber is destroyed, scrapped, wasted, or rendered useless in the recapping or retreading process, where the tread rubber is used in the recapping or retreading of a tire if the sales price of the tire is later adjusted because of a warranty or guarantee, in which case the overpayment is to be in proportion to the adjustment in the sales price of such tire, and where the tread rubber is used in the recapping or retreading of a tire, if such tire is by any person exported, used or sold for use as supplies for vessels or aircraft, sold to a State or local government for the exclusive use of a State or local government, or sold toa nonprofit educational organization for its exclusive use.
+Subsec. (b)(2)(G). Pub. L. 96–598, §1(a), inserted provision making a credit or refund of the tread rubber tax available where the tread rubber is destroyed, scrapped, wasted, or rendered useless in the recapping or retreading process, where the tread rubber is used in the recapping or retreading of a tire if the sales price of the tire is later adjusted because of a warranty or guarantee, in which case the overpayment is to be in proportion to the adjustment in the sales price of such tire, and where the tread rubber is used in the recapping or retreading of a tire, if such tire is by any person exported, used or sold for use as supplies for vessels or aircraft, sold to a State or local government for the exclusive use of a State or local government, or sold to a nonprofit educational organization for its exclusive use.
 
 Subsec. (b)(3)(A). Pub. L. 96–598, §1(b)(2)(C), inserted “(D),” after “(C),”.
 
@@ -342,7 +342,7 @@ Subsec. (a)(3)(C). Pub. L. 89–44, §601(c)(6), struck out “(ii)” after “
 
 Subsec. (a)(3)(D). Pub. L. 89–44, §601(c)(6), struck out “or (D)” after “paragraph (2)(F), (3)(C)”.
 
-Subsec. (b)(1). Pub. L. 89–44, §601(c)(7), struck out “31 or” after “imposed by chapter” and “(in the case of a tax imposed by chapter 32)” after “or allowance, including”.
+Subsec. (b)(1). Pub. L. 89–44, §601(c)(7), struck out “31 or” after “imposed by chapter” and “(in the case of atax imposed by chapter 32)” after “or allowance, including”.
 
 Subsec. (b)(2)(F). Pub. L. 89–44, §601(c)(8), struck out reference to receiving sets resold for use and struck out reference to subparagraph (D) of paragraph (3).
 
@@ -498,13 +498,13 @@ Amendment by Pub. L. 92–178 applicable with respect to articles sold on or aft
 
 #### Effective Date of 1970 Amendments
 
-Section 302(c) of Pub. L. 91–614 provided that: “The amendments made by subsections (a) and (b) of thissection \[amending this section\] shall apply only with respect to claims for credit or refund filed after the date of the enactment of this Act \[Dec. 31, 1970\], but only if the filing of the claim is not barred on the day after the date of the enactment of this Act by any law or rule of law.”
+Section 302(c) of Pub. L. 91–614 provided that: “The amendments made by subsections (a) and (b) of this section \[amending this section\] shall apply only with respect to claims for credit or refund filed after the date of the enactment of this Act \[Dec. 31, 1970\], but only if the filing of the claim is not barred on the day after the date of the enactment of this Act by any law or rule of law.”
 
 Amendment by Pub. L. 91–258 effective on July 1, 1970, see section 211(a) of Pub. L. 91–258, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1965 Amendment
 
-Amendment by section 207(c) of Pub. L. 89–44 effective June 22, 1965, see section 701(a) of Pub. L. 89–44, set out as an Effective Date of 1965 Amendment note under section 4161 of this title.
+Amendment by section 207(c) of Pub. L. 89–44 effective June 22, 1965, see section 701(a) of Pub. L. 89–44, set outas an Effective Date of 1965 Amendment note under section 4161 of this title.
 
 Amendment by section 601(c) of Pub. L. 89–44 to take effect in a manner consistent with effective date of change of tax provisions to which related, see section 701(e) of Pub. L. 89–44, set out as a note under section 6103 of this title.
 

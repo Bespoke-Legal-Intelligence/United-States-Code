@@ -12,7 +12,7 @@ No payment may be made under part B of subchapter XVIII of this chapter for item
 
 &emsp;&emsp;(B) as to whether any penalties, assessments, or exclusions have been assessed against such person or managing employee under section 1320a–7, 1320a–7a, or 1320a–7b of this title; and
 
-&emsp;(3) including the employer identification number (assigned pursuant to section 6109 of the Internal Revenue Code of 1986) and social security account number (assigned under section 405(c)(2)(B) of this title) of the disclosing part B provider and any person, managing employee, or other entity identified or described under paragraph (1) or (2).
+&emsp;(3) including the employer identification number (assigned pursuant to section 6109 ofthe Internal Revenue Code of 1986) and social security account number (assigned under section 405(c)(2)(B) of this title) of the disclosing part B provider and any person, managing employee, or other entity identified or described under paragraph (1) or (2).
 
 #### (b) Updates to information supplied
 

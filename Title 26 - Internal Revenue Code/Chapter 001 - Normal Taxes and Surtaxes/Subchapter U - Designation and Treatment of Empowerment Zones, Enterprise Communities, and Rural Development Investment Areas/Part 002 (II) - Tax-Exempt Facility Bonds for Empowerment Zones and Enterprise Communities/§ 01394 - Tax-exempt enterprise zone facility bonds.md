@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (i) Startup period
 
-&emsp;&emsp;&emsp;The term “startup period” means, with respect to any property being provided forany business, the period before the first taxable year beginning more than 2 years after the later of—
+&emsp;&emsp;&emsp;The term “startup period” means, with respect to any property being provided for any business, the period before the first taxable year beginning more than 2 years after the later of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the date of issuance of the issue providing such property, or
 
@@ -152,7 +152,7 @@ The requirements of sections 147(c)(1)(A) and 147(d) shall not apply to any bond
 
 #### (3) New empowerment zone facility bond
 
-&emsp;For purposes of this subsection, the term “new empowerment zone facility bond” meansany bond which would be described in subsection (a) if only empowerment zones designated under section 1391(g) were taken into account under sections 1397B and 1397C.
+&emsp;For purposes of this subsection, the term “new empowerment zone facility bond” means any bond which would be described in subsection (a) if only empowerment zones designated under section 1391(g) were taken into account under sections 1397B and 1397C.
 
 (Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 548; amended Pub. L. 104–188, title I, §1703(n)(7), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title IX, §§953(a), 955(a), (b), Aug. 5, 1997, 111 Stat. 887, 889, 890.)
 

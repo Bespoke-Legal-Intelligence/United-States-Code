@@ -240,7 +240,7 @@
 
 #### (f) Report by Commission
 
-(1) The Commission shall submit to the President a report on each investigation undertaken under subsection (b) of this section. The report shall be submitted at the earliest practicable time, but not later than 180 days (240 days if the petition alleges that critical circumstances exist) after the date on which the petition is filed, the request or resolution is received, or the motion is adopted, as the case may be.
+(1) The Commission shall submit to the President a report on each investigation undertakenunder subsection (b) of this section. The report shall be submitted at the earliest practicable time, but not later than 180 days (240 days if the petition alleges that critical circumstances exist) after the date on which the petition is filed, the request or resolution is received, or the motion is adopted, as the case may be.
 
 (2) The Commission shall include in the report required under paragraph (1) the following:
 
@@ -364,7 +364,7 @@ Section 304 of title III of Pub. L. 103–465 provided that:
 
 “(a)
 
-In General.—Except as provided in subsection (b), this subtitle \[subtitle A (§§301–304) of title III of Pub. L. 103–465, amending this section and sections 2253 and 2254 of this title\] and the amendments made by thissubtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].
+In General.—Except as provided in subsection (b), this subtitle \[subtitle A (§§301–304) of title III of Pub. L. 103–465, amending this section and sections 2253 and 2254 of this title\] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].
 
 “(b)
 

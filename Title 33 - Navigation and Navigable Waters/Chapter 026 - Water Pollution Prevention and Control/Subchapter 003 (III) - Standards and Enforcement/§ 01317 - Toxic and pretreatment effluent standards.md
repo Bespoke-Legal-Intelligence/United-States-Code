@@ -10,7 +10,7 @@
 
 (4) Any effluent standard promulgated under this section shall be at that level which the Administrator determines provides an ample margin of safety.
 
-(5) When proposing or promulgating any effluent standard (or prohibition) under this section, the Administrator shall designate the category or categories of sources to which the effluent standard (or prohibition) shall apply. Any disposal of dredged material may be included in such a category of sources after consultation with the Secretary of the Army.
+(5) When proposing or promulgating any effluent standard (or prohibition) under this section, the Administrator shall designate the categoryor categories of sources to which the effluent standard (or prohibition) shall apply. Any disposal of dredged material may be included in such a category of sources after consultation with the Secretary of the Army.
 
 (6) Any effluent standard (or prohibition) established pursuant to this section shall take effect on such date or dates as specified in the order promulgating such standard, but in no case, more than one year from the date of such promulgation. If the Administrator determines that compliance within one year from the date of promulgation is technologically infeasible for a category of sources, the Administrator may establish the effective date of the effluent standard (or prohibition) for such category at the earliest date upon which compliance can be feasibly attained by sources within such category, but in no event more than three years after the date of such promulgation.
 
@@ -40,13 +40,13 @@ In the case of any existing facility that proposes to comply with the pretreatme
 
 &emsp;(1) if the Administrator determines that the innovative system has the potential for industrywide application, and
 
-&emsp;(2) if the Administrator (or the State in consultation with the Administrator, in any casein which the State has a pretreatment program approved by the Administrator)—
+&emsp;(2) if the Administrator (or the State in consultation with the Administrator, in any case in which the State has a pretreatment program approved by the Administrator)—
 
 &emsp;&emsp;(A) determines that the proposed extension will not cause the publicly owned treatment works to be in violation of its permit under section 1342 of this title or of section 1345 of this title or to contribute to such a violation, and
 
 &emsp;&emsp;(B) concurs with the proposed extension.
 
-(June 30, 1948, ch. 758, title III, §307, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 856; amended Pub. L. 95–217, §§53(a), (b), 54(a), Dec. 27, 1977, 91 Stat. 1589–1591; Pub. L. 100–4, title III, §309(a), Feb. 4, 1987, 101 Stat. 41.)
+(June 30, 1948, ch. 758, title III, §307, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 856;amended Pub. L. 95–217, §§53(a), (b), 54(a), Dec. 27, 1977, 91 Stat. 1589–1591; Pub. L. 100–4, title III, §309(a), Feb. 4, 1987, 101 Stat. 41.)
 
 #### Amendments
 

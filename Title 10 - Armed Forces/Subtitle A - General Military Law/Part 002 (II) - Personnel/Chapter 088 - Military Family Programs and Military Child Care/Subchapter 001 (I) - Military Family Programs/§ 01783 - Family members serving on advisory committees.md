@@ -6,5 +6,5 @@ A committee within the Department of Defense which advises or assists the Depart
 
 #### References in Text
 
-Section 3(2) of the Federal Advisory Committee Act, referred to in text, is section 3(2) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 3(2) of the Federal Advisory Committee Act, referred to in text, is section 3(2) of Pub. L. 92–463,which is set out in the Appendix to Title 5, Government Organization and Employees.
 

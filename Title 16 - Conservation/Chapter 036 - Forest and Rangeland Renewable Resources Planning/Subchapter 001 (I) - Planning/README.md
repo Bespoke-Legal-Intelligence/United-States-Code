@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 460<i>oo</i>, 460vv–4, 472a, 497b, 539c, 582a, 670<i>o</i>, 1261, 1641, 2101, 4805 of this title; title 43 section 1721.
+This subchapter is referred to in sections 460<i>oo</i>, 460vv–4, 472a, 497b, 539c, 582a, 670<i>o</i>, 1641, 2101 of this title; title 23 section 206; title 43 section 1721.
 
 
 ---

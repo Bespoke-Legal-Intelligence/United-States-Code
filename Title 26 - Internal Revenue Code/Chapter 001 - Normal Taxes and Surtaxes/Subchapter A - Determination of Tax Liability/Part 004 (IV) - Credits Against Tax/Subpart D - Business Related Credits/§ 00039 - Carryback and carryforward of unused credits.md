@@ -4,7 +4,7 @@
 
 #### (1) 1-year carryback and 20-year carryforward
 
-&emsp;If the sum of the business credit carryforwards to the taxable year plus the amount of the current year business credit for the taxable year exceeds the amount of the limitation imposed by subsection (c) of section 38 for such taxable year (hereinafter in this section referred to as the “unused credit year”), such excess (to the extent attributable to the amount of the current year business credit) shall be—
+&emsp;If the sum of the business credit carryforwards to the taxable year plus the amount of the current year business credit for the taxable year exceeds the amount of the limitation imposed by subsection (c) of section 38 for such taxable year (hereinafter in this sectionreferred to as the “unused credit year”), such excess (to the extent attributable to the amount of the current year business credit) shall be—
 
 &emsp;&emsp;(A) a business credit carryback to each of the 1 taxable years <sup>1</sup> preceding the unused credit year, and
 
@@ -46,7 +46,7 @@ The amount of the unused credit which may be taken into account under section 38
 
 #### (3) No carryback of renewable electricity production credit before effective date
 
-&emsp;No portion of the unused business credit for any taxable year which is attributable to the credit determined under section 45 (relating to electricity produced from certain renewableresources) may be carried back to any taxable year ending before January 1, 1993 (before January 1, 1994, to the extent such credit is attributable to wind as a qualified energy resource).
+&emsp;No portion of the unused business credit for any taxable year which is attributable to the credit determined under section 45 (relating to electricity produced from certain renewable resources) may be carried back to any taxable year ending before January 1, 1993 (before January 1, 1994, to the extent such credit is attributable to wind as a qualified energy resource).
 
 #### (4) Empowerment zone employment credit
 
@@ -168,7 +168,7 @@ Amendment by section 1846 of Pub. L. 99–514 effective, except as otherwise pro
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 21 of this title.
+Section applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, seesection 475(a) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 21 of this title.
 
 #### Savings Provision
 

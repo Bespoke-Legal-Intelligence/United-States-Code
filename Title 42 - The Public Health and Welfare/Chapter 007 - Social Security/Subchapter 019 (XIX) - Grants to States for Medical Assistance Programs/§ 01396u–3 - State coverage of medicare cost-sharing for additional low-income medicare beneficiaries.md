@@ -28,7 +28,7 @@ A State shall select qualifying individuals, and provide such individuals with a
 
 #### (4) Receipt of assistance during duration of year
 
-&emsp;If a qualifying individual is selected to receive assistance under this section for a month in <sup>1</sup> year, the individual is entitled to receive such assistance for the remainder of the year if the individual continues to be a qualifying individual. The fact that an individual is selected to receive assistance under this section at any time during a year does not entitle the individual to continued assistance for any succeeding year.
+&emsp;If a qualifying individual is selected to receive assistance under this section for a month in a year, the individual is entitled to receive such assistance for the remainder of the year if the individual continues to be a qualifying individual. The fact that an individual is selected to receive assistance under this section at any time during a year does not entitle the individual to continued assistance for any succeeding year.
 
 #### (c) Allocation
 
@@ -74,15 +74,17 @@ Except as specifically provided under this section, nothing in this subchapter s
 
 For each fiscal year, the Secretary shall provide for the transfer from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title to the appropriate account in the Treasury that provides for payments under section 1396b(a) of this title with respect to medical assistance provided under this section, of an amount equivalent to the total of the amount of payments made under such section that is attributable to this section and such transfer shall be treated as an expenditure from such Trust Fund for purposes of section 1395r of this title.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1933, as added Pub. L. 105–33, title IV, §4732(c), Aug. 5, 1997, 111 Stat. 520.)
+(Aug. 14, 1935, ch. 531, title XIX, §1933, as added Pub. L. 105–33, title IV, §4732(c), Aug. 5, 1997, 111 Stat. 520; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(x)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398.)
 
 #### Prior Provisions
 
 A prior section 1933 of act Aug. 14, 1935, was renumbered section 1935 and is classified to section 1396v of this title.
 
+#### Amendments
+
+1999—Subsec. (b)(4). Pub. L. 106–113 inserted “a” after “for a month in”.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1396a, 1396d of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “a”.</i>
 

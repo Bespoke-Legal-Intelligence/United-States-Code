@@ -34,7 +34,7 @@
 
 &emsp;(iii) provide a strategy for developing and integrating individual agency accounting, financial information, and other financial management systems to ensure adequacy, consistency, and timeliness of financial information;
 
-&emsp;(iv) identify and make proposals to eliminate duplicative and unnecessary systems, including encouraging agencies to share systems which have sufficient capacity to perform the functions needed;
+&emsp;(iv) identify and make proposals to eliminate duplicative and unnecessary systems, including encouraging agencies to share systemswhich have sufficient capacity to perform the functions needed;
 
 &emsp;(v) identify projects to bring existing systems into compliance with the applicable standards and requirements;
 
@@ -202,7 +202,7 @@ In subsection (b)(1), before clause (A), the words “the head of” are added f
 
 In subsection (c)(1)(A), the words “the head of each executive agency shall follow” are substituted for “agencies” for clarity and consistency in the revised title and with other titles of the Code.
 
-In subsection (c)(2), before clause (A), the words “beginning in” are substituted for “succeeding” because ofthe restatement. The words “on whether the systems of the agency comply with subsection (b) of this section” are substituted for 31 App.:66a(d)(3)(A) to eliminate unnecessary words. In clause (B), the word “related” is omitted as surplus.
+In subsection (c)(2), before clause (A), the words “beginning in” are substituted for “succeeding” because of the restatement. The words “on whether the systems of the agency comply with subsection (b) of this section” are substituted for 31 App.:66a(d)(3)(A) to eliminate unnecessary words. In clause (B), the word “related” is omitted as surplus.
 
 In subsection (c)(3)(A), the words “provision of” are omitted as surplus.
 
@@ -282,7 +282,7 @@ Purpose\[.\]—The purposes of this Act \[title\] are to—
 
 &emsp;“(6) build upon and complement the Chief Financial Officers Act of 1990 (Public Law 101–576; 104 Stat 2838) \[see Short Title of 1990 Amendment note set out under section 501 of this title\], the Government Performance and Results Act of 1993 (Public Law 103–62\[;\] 107 Stat. 285) \[see Short Title of 1993 Amendment note set out under section 1101 of this title\] and the Government Management Reform Act of 1994 (Public Law 103–356; 108 Stat. 3410) \[see Short Title of 1994 Amendment note set out under section 3301 of this title\]; and
 
-&emsp;“(7) increase the capability of agencies to monitor execution of the budget by more readily permittingreports that compare spending of resources to results of activities.
+&emsp;“(7) increase the capability of agencies to monitor execution of the budget by more readily permitting reports that compare spending of resources to results of activities.
 
 #### “SEC. 803. IMPLEMENTATION OF FEDERAL FINANCIAL MANAGEMENT IMPROVEMENTS.
 

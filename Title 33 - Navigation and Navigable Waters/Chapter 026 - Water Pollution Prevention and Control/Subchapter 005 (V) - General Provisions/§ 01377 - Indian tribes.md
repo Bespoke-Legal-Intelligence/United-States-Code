@@ -30,7 +30,7 @@ The Administrator is authorized to treat an Indian tribe as a State for purposes
 
 #### (f) Grants for nonpoint source programs
 
-The Administrator shall make grants to an Indian tribe under section 1329 of this title as though such tribe was a State. Not more than one-third of one percent of the amount appropriated for any fiscal year under section 1329 of this title may be used to make grants under this subsection. In addition to the requirements of section 1329 of this title, an Indian tribe shall be required to meet the requirements of paragraphs (1), (2), and (3) of subsection (d) of this section in order to receive such a grant.
+The Administrator shall make grants to an Indian tribe under section 1329 of this title as though such tribe was a State. Not more than one-third of one percent of the amount appropriated for any fiscal year under section 1329 of this title may be used to make grants under this subsection. In addition to the requirements of section 1329 of this title, an Indian tribe shall be required to meet the requirements of paragraphs (1), (2), and (3) of subsection (d) <sup>1</sup> of this section in order to receive such a grant.
 
 #### (g) Alaska Native organizations
 
@@ -54,7 +54,7 @@ For purposes of this section, the term—
 
 #### References in Text
 
-Public Law 92–203, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, known asthe Alaska Native Claims Settlement Act, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. The term “Alaska Native Villages” is defined in section 3 of Pub. L. 92–203 which is classified to section 1602 of Title 43. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+Public Law 92–203, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, known as the Alaska Native Claims Settlement Act, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. The term “Alaska Native Villages” is defined in section 3 of Pub. L. 92–203 which is classified to section 1602 of Title 43. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 Act of June 18, 1934 (48 Stat. 987), referred to in subsec. (g)(1), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended, popularly known as the Indian Reorganization Act, which enacted sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 25 and Tables.
 
@@ -65,4 +65,8 @@ A prior section 518 of act June 30, 1948, was renumbered section 519 and is set 
 #### Amendments
 
 1988—Subsec. (c). Pub. L. 100–581 inserted “, as defined in subsection (h) of this section and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in Public Law 92–203” before period at end.
+
+#### Grants to Indian Tribes
+
+Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1083, provided in part: “That notwithstanding section 518(f) of the Federal Water Pollution Control Act \[33 U.S.C. 1377(f)\], the Administrator is authorized to use the amounts appropriated for any fiscal year under section 319 of that Act \[33 U.S.C. 1329\] to make grants to Indian tribes pursuant to section 319(h) and 518(e) of that Act”.
 

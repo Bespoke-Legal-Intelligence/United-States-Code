@@ -28,5 +28,5 @@ In subsec. (b)(1), (2), “chapter 51 and subchapter III of chapter 53 of title 
 
 #### Amendments
 
-1967—Subsec. (a). Pub. L. 90–83 struck out provision that Commissioner of Interama receive compensation at a rate prescribed for level IV of the Federal Executive Salary Schedule.
+1967—Subsec. (a). Pub. L. 90–83 struck out provision that Commissioner of Interama receive compensationat a rate prescribed for level IV of the Federal Executive Salary Schedule.
 

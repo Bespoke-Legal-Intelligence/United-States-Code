@@ -12,7 +12,7 @@ The Merchant Ship Sales Act of 1946, referred to in text, is act Mar. 8, 1946, c
 
 #### Codification
 
-“Sections 1535 and 1536 of title 31” substituted in text for “the Act of June 30, 1932 (47 Stat. 382, 417–418), as amended \[31 U.S.C. 686, 686b\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+“Sections 1535 and 1536 of title 31” substituted in text for “the Act of June 30, 1932 (47 Stat. 382, 417–418), as amended \[31 U.S.C. 686, 686b\]” on authority of Pub. L.97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 

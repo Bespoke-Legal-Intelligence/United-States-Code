@@ -6,11 +6,11 @@
 
 &emsp;(2) assist and advise the President in the preparation of the Science and Technology Report, in accordance with section 6618 <sup>1</sup> of this title;
 
-&emsp;(3) gather timely and authoritative information concerning significant developments and trends in science, technology, and in national priorities, both current and prospective, to analyze and interpret such information for the purpose of determining whether such developments and trends are likely to affect achievement of the priority goals of the Nation as set forth in section 6601(b) of this title;
+&emsp;(3) gather timely and authoritative information concerning significant developments and trends in science, technology, and in national priorities, both current and prospective, to analyze and interpret such information for thepurpose of determining whether such developments and trends are likely to affect achievement of the priority goals of the Nation as set forth in section 6601(b) of this title;
 
 &emsp;(4) encourage the development and maintenance of an adequate data base for human resources in science, engineering, and technology, including the development of appropriate models to forecast future manpower requirements, and assess the impact of major governmental and public programs on human resources and their utilization;
 
-&emsp;(5) initiate studies and analyses, including systems analyses and technology assessments, of alternatives available for the resolution of critical and emerging national and international problems amendable to the contributions of science and technology and, insofar as possible, determine and compare probablecosts, benefits, and impacts of such alternatives;
+&emsp;(5) initiate studies and analyses, including systems analyses and technology assessments, of alternatives available for the resolution of critical and emerging national and international problems amendable to the contributions of science and technology and, insofar as possible, determine and compare probable costs, benefits, and impacts of such alternatives;
 
 &emsp;(6) advise the President on the extent to which the various scientific and technological programs, policies, and activities of the Federal Government are likely to affect the achievement of the priority goals of the Nation as set forth in section 6601(b) of this title;
 
@@ -56,7 +56,7 @@ Functions vested in Office of Science and Technology Policy and Director thereof
 
 #### Abolition of Intergovernmental Science, Engineering, and Technology Advisory Panel; Transfer of Functions
 
-The Intergovernmental Science, Engineering, and Technology Advisory Panel, established pursuant to this section, was abolished and its functions transferred to the President by Reorg. Plan No. 1 of 1977, §5A, 42 F.R. 56101, 91 Stat. 1634, set out in the Appendix to Title 5, effective Feb. 26, 1978, as provided by section 1(b) of Ex. Ord. No. 12039, Feb. 24, 1978, 43 F.R. 8095, set out under section 6601 of this title.
+The Intergovernmental Science, Engineering, and Technology Advisory Panel, established pursuant tothis section, was abolished and its functions transferred to the President by Reorg. Plan No. 1 of 1977, §5A, 42 F.R. 56101, 91 Stat. 1634, set out in the Appendix to Title 5, effective Feb. 26, 1978, as provided by section 1(b) of Ex. Ord. No. 12039, Feb. 24, 1978, 43 F.R. 8095, set out under section 6601 of this title.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

@@ -4,33 +4,33 @@
 
 (2) The Secretary of Defense shall define by regulation what materials are hazardous or toxic materials for the purposes of this section, including specification of the quantity of a material that serves to make it hazardous or toxic for the purposes of this section. The definition shall include materials referred to in section 101(14) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601(14)) and materials designated under section 102 of that Act (42 U.S.C. 9602) and shall include materials that are of an explosive, flammable, or pyrotechnic nature.
 
-(b) Subsection (a) does not apply to—
+(b) Subsection (a) does not apply to the following:
 
-&emsp;(1) the storage, treatment, or disposal of materials that will be or have been used in connection with an activity of the Department of Defense or in connection with a service to be performed on an installation of the Department for the benefit of the Department;
+&emsp;(1) The storage, treatment, or disposal of materials that will be or have been used in connection with an activity of the Department of Defense or in connection with a service to be performed on an installation of the Department for the benefit of the Department.
 
-&emsp;(2) the storage of strategic and critical materials in the National Defense Stockpile under an agreement for such storage with the Administrator of General Services;
+&emsp;(2) The storage of strategic and critical materials in the National Defense Stockpile under an agreement for such storage with the Administrator of General Services.
 
-&emsp;(3) the temporary storage or disposal of explosives in order to protect the public or to assist agencies responsible for Federal, State, or local law enforcement in storing or disposing of explosives when no alternative solution is available, if such storage or disposal is made in accordance with an agreement between the Secretary of Defense and the head of the Federal, State, or local agency concerned;
+&emsp;(3) The temporary storage or disposal of explosives in order to protect the public or to assist agencies responsible for Federal, State, or local law enforcement in storing or disposing of explosives when no alternative solution is available, if such storage or disposal is made in accordance with an agreement between the Secretary of Defense and the head of the Federal, State, or local agency concerned.
 
-&emsp;(4) the temporary storage or disposal of explosives in order to provide emergency lifesaving assistance to civil authorities;
+&emsp;(4) The temporary storage or disposal of explosives in order to provide emergency lifesaving assistance to civil authorities.
 
-&emsp;(5) the disposal of excess explosives produced under a Department of Defense contract, if the head of the military department concerned determines, in each case, that an alternative feasible means of disposal is not available to the contractor, taking into consideration public safety, available resources of the contractor, and national defense production requirements;
+&emsp;(5) The disposal of excess explosives produced under a Department of Defense contract, if the head of the military department concerned determines, in each case, that an alternative feasible means of disposal is not available to the contractor, taking into consideration public safety, available resources of the contractor, and national defense production requirements.
 
-&emsp;(6) the temporary storage of nuclear materials or nonnuclear classified materials in accordance with an agreement with the Secretary of Energy;
+&emsp;(6) The temporary storage of nuclear materials or nonnuclear classified materials in accordance with an agreement with the Secretary of Energy.
 
-&emsp;(7) the storage of materials that constitute military resources intended to be used during peacetime civil emergencies in accordance with applicable Department of Defense regulations;
+&emsp;(7) The storage of materials that constitute military resources intended to be used during peacetime civil emergencies in accordance with applicable Department of Defense regulations.
 
-&emsp;(8) the temporary storage of materials of other Federal agencies in order to provide assistance and refuge for commercial carriers of such material during a transportation emergency;
+&emsp;(8) The temporary storage of materials of other Federal agencies in order to provide assistance and refuge for commercial carriers of such material during a transportation emergency.
 
-&emsp;(9) the storage of any material that is not owned by the Department of Defense if the Secretary of the military department concerned determines that the material is required or generated in connection with the authorized and compatible use of a facility of the Department of Defense, including the use of such a facility for testing materiel <sup>1</sup> or training personnel;
+&emsp;(9) The storage of any material that is not owned by the Department of Defense if the Secretary of the military department concerned determines that the material is required or generated in connection with the authorized and compatible use of a facility of the Department of Defense, including the use of such a facility for testing materiel <sup>1</sup> or training personnel.
 
-&emsp;(10) the treatment and disposal of any material that is not owned by the Department of Defense if the Secretary of the military department concerned determines that the material is required or generated in connection with the authorized and compatible use of a facility of that military department and the Secretary enters into a contract or agreement with the prospective user that—
+&emsp;(10) The treatment and disposal of any material that is not owned by the Department of Defense if the Secretary of the military department concerned determines that the material is required or generated in connection with the authorized and compatible use of a facility of that military department and the Secretary enters into a contract or agreement with the prospective user that—
 
 &emsp;&emsp;(A) is consistent with the best interest of national defense and environmental security; and
 
-&emsp;&emsp;(B) provides for the prospective user's continued financial and environmental responsibility and liability with regard to the material; and
+&emsp;&emsp;(B) provides for the prospective user's continued financial and environmental responsibility and liability with regard to the material.
 
-&emsp;(11) the storage of any material that is not owned by the Department of Defense if the Secretary of the military department concerned determines that the material is required or generated in connection with the use of a space launch facility located on an installation of the Department of Defense or on other land controlled by the United States.
+&emsp;(11) The storage of any material that is not owned by the Department of Defense if the Secretary of the military department concerned determines that the material is required or generated in connection with the use of a space launch facility located on an installation of the Department of Defense or on other land controlled by the United States.
 
 (c) The Secretary of Defense may grant exceptions to subsection (a) when essential to protect the health and safety of the public from imminent danger if the Secretary otherwise determines the exception is essential and if the storage or disposal authorized does not compete with private enterprise.
 
@@ -38,9 +38,11 @@
 
 (2) In the case of storage under this section authorized because of an imminent danger, the storage provided shall be temporary and shall cease once the imminent danger no longer exists. In all other cases of storage or disposal authorized under this section, the storage or disposal authorized shall be terminated as determined by the Secretary.
 
-(Added Pub. L. 98–407, title VIII, §805(a), Aug. 28, 1984, 98 Stat. 1520; amended Pub. L. 102–484, div. B, title XXVIII, §2852, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–337, div. A, title III, §325, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 105–85, div. A, title III, §343(a)–(g)(2), Nov. 18, 1997, 111 Stat. 1686, 1687.)
+(Added Pub. L. 98–407, title VIII, §805(a), Aug. 28, 1984, 98 Stat. 1520; amended Pub. L. 102–484, div. B, title XXVIII, §2852, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–337, div. A, title III, §325, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 105–85, div. A, title III, §343(a)–(g)(2), Nov. 18, 1997, 111 Stat. 1686, 1687; Pub. L. 106–65, div. A, title X, §1066(a)(25), Oct. 5, 1999, 113 Stat. 772.)
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–65 substituted “apply to the following:” for “apply to—” in introductory provisions, “The” for “the” at the beginning of each of pars. (1) to (11), a period for the semicolon at the end of each of pars. (1) to (9), and a period for “; and” at the end of par. (10).
 
 1997—Pub. L. 105–85, §343(g)(2), substituted “Storage, treatment, and” for “Storage and” in section catchline.
 
@@ -66,7 +68,7 @@ Subsec. (b)(11). Pub. L. 105–85, §343(f), added par. (11).
 
 #### Savings Provision
 
-Section 343(h) of Pub. L. 105–85 provided that: “Nothing in the amendments made by this section \[amending this section\] is intended to modify environmental laws or laws relating to the siting of facilities.”
+Section 343(h) of Pub. L. 105–85 provided that: “Nothing in the amendments made by this section \[amendingthis section\] is intended to modify environmental laws or laws relating to the siting of facilities.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “material”.</i>
 

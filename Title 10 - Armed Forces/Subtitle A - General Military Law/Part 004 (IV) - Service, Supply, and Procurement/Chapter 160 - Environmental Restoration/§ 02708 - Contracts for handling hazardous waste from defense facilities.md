@@ -38,7 +38,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term “hazardous waste” has the meaning given that term by section 1004(5) of the Solid Waste Disposal Act (42 U.S.C. 6903(5)), except that such term also includes polychlorinated biphenyls.
 
-&emsp;(2) The term “remedial action” has the meaning given that term by section 101(24) of the Comprehensive Environmental Response,Compensation, and Liability Act of 1980 (42 U.S.C. 9601(24)).
+&emsp;(2) The term “remedial action” has the meaning given that term by section 101(24) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601(24)).
 
 &emsp;(3) The term “corrective action” has the meaning given that term under section 3004(u) of the Solid Waste Disposal Act (42 U.S.C. 6924(u)).
 

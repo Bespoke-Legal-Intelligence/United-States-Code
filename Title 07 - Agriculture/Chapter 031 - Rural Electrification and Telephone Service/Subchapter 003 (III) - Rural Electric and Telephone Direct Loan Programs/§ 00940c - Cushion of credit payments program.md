@@ -38,7 +38,7 @@
 
 #### (B) Grants
 
-&emsp;&emsp;The Secretary is authorized, from the interest differential sums credited this subaccount and from any other funds made available thereto, to provide grants or zero interest loans to borrowers under this chapter for the purpose of promoting rural economic development and job creation projects, including funding for project feasibility studies, start-up costs, incubator projects, and other reasonable expenses for the purpose of fostering rural development.
+&emsp;&emsp;The Secretary is authorized, from the interest differential sums credited this subaccount and from any other funds made available thereto, to provide grants or zero interest loans to borrowers under this chapter for the purpose of promoting rural economic development and job creation projects, including funding for project feasibility studies, start-up costs, incubatorprojects, and other reasonable expenses for the purpose of fostering rural development.
 
 #### (C) Repayments
 

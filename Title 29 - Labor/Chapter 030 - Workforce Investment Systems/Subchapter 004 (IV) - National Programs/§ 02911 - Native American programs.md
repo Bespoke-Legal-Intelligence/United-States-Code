@@ -110,7 +110,7 @@ Nothing in this section shall be construed—
 
 #### (A) In general
 
-&emsp;&emsp;With respect to an entity described in subsection (c) of this section, the Secretary,notwithstanding any other provision of law, may, pursuant to a request submitted by such entity that meets the requirements established under subparagraph (B), waive any of the statutory or regulatory requirements of this chapter that are inconsistent with the specific needs of the entities described in such subsection, except that the Secretary may not waive requirements relating to wage and labor standards, worker rights, participation and protection of workers and participants, grievance procedures, and judicial review.
+&emsp;&emsp;With respect to an entity described in subsection (c) of this section, the Secretary, notwithstanding any other provision of law, may, pursuant to a request submitted by such entity that meets the requirements established under subparagraph (B), waive any of the statutory or regulatory requirements of this chapter that are inconsistent with the specific needs of the entities described in such subsection, except that the Secretary may not waive requirements relating to wage and labor standards, worker rights, participation and protection of workers and participants, grievance procedures, and judicial review.
 
 #### (B) Request and approval
 
@@ -186,7 +186,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 The Indian Employment, Training and Related Services Demonstration Act of 1992, referred to in subsec. (f), is Pub. L. 102–477, Oct. 23, 1992, 106 Stat. 2302, as amended, which is classified generally to chapter 36 (§3401 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 25 and Tables.
 
-This Act, referred to in subsec. (g)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For completeclassification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+This Act, referred to in subsec. (g)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 This chapter, referred to in subsec. (h)(3)(A), (6), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 

@@ -110,7 +110,7 @@ Joint Duty Credit for Certain Joint Task Force Assignments.—(1) In the case of
 
 &emsp;(B) credit countable for determining cumulative service in joint duty assignments.
 
-(2)(A) For purposes of paragraph (1), a qualifying temporary joint task force assignment of an officer is a temporary assignment, any part of which is performed by the officer on or after the date of the enactment of this subsection—
+(2)(A) For purposes of paragraph (1), a qualifying temporary joint task force assignment of an officer is a temporary assignment, any part of which is performed by the officer on or after February 10, 1996—
 
 &emsp;(i) to the headquarters staff of a United States joint task force that is part of a unified command or the United States element of the headquarters staff of a multinational force; and
 
@@ -136,13 +136,11 @@ Joint Duty Credit for Certain Joint Task Force Assignments.—(1) In the case of
 
 (6) In the case of an officer credited with having completed a full tour of duty in a joint duty assignment pursuant to this subsection, the Secretary of Defense may waive the requirement in paragraph (1)(B) of section 661(c) of this title that the tour of duty in a joint duty assignment be performed after the officer completes a program of education referred to in paragraph (1)(A) of that section. The provisions of subparagraphs (C) and (D) of section 661(c)(3) of this title shall apply to such a waiver in the same manner as to a waiver under subparagraph (A) of that section.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1028; amended Pub. L. 100–180, div. A, title XIII, §1303(a), Dec. 4, 1987, 101 Stat. 1170; Pub. L. 100–456, div. A, title V, §§514, 517(b), Sept. 29, 1988, 102 Stat. 1969, 1971; Pub. L. 104–106, div. A, title V, §501(b), (e), (f), Feb. 10, 1996, 110 Stat. 290, 292.)
-
-#### References in Text
-
-The date of the enactment of this subsection, referred to in subsec. (i)(2)(A), means the date of enactment of Pub. L. 104–106, which was approved Feb. 10, 1996.
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1028; amended Pub. L. 100–180, div. A, title XIII, §1303(a), Dec. 4, 1987, 101 Stat. 1170; Pub. L. 100–456, div. A, title V, §§514, 517(b), Sept. 29, 1988, 102 Stat. 1969, 1971; Pub. L. 104–106, div. A, title V, §501(b), (e), (f), Feb. 10, 1996, 110 Stat. 290, 292; Pub. L. 106–65, div. A, title X, §1066(a)(5), Oct. 5, 1999, 113 Stat. 770.)
 
 #### Amendments
+
+1999—Subsec. (i)(2)(A). Pub. L. 106–65 substituted “February 10, 1996” for “the date of the enactment of this subsection” in introductory provisions.
 
 1996—Subsec. (e)(1). Pub. L. 104–106, §501(f), struck out “(after fiscal year 1990)” after “any fiscal year”.
 

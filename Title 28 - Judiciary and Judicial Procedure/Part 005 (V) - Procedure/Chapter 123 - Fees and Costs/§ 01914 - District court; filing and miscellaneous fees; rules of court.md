@@ -44,7 +44,7 @@ Section 401(c) of Pub. L. 104–317 provided that: “This section \[amending th
 
 #### Effective Date of 1986 Amendment
 
-Section 4(c) of Pub. L. 99–336 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to any civil action, suit, or proceeding instituted on or after the date of the enactment of this Act \[June 19, 1986\].”
+Section 4(c) of Pub. L. 99–336 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to any civil action, suit,or proceeding instituted on or after the date of the enactment of this Act \[June 19, 1986\].”
 
 #### Effective Date of 1978 Amendment
 
@@ -56,7 +56,7 @@ Judicial Conference to prescribe reasonable fees for collection by courts under 
 
 #### District Court Miscellaneous Fee Schedule
 
-#### <i>(Effective January 1, 1998)</i>
+#### <i>(Effective October 1, 1999)</i>
 
 Following are fees to be charged for services to be performed by clerks of the district courts. No fees are to be charged for services rendered on behalf of the United States, with the exception of those specifically prescribed in items 2, 4, and 14. No fees under this schedule shall be charged to federal agencies or programs which are funded from judiciary appropriations, including, but not limited to, agencies, organizations, and individuals providing services authorized by the Criminal Justice Act, 18 U.S.C. §3006A, and Bankruptcy Administrator programs.
 
@@ -66,7 +66,7 @@ Following are fees to be charged for services to be performed by clerks of the d
 
 (3) For certification of any document or paper, whether the certification is made directly on the document or by separate instrument, $5. For exemplification of any document or paper, twice the amount of the fee for certification.
 
-(4) For reproducing any record or paper, 50 cents per page. This fee shall apply to paper copies made from either: (1) original documents; or (2) microfiche or microfilm reproductions of the original records. This feeshall apply to services rendered on behalf of the United States if the record or paper requested is available through electronic access.
+(4) For reproducing any record or paper, $.50 per page. This fee shall apply to paper copies made from either: (1) original documents; or (2) microfiche or microfilm reproductions of the original records. This fee shall apply to services rendered on behalf of the United States if the record or paper requested is available through electronic access.
 
 (5) For reproduction of magnetic tape recordings, either cassette or reel-to-reel, $15 including the cost of materials.
 
@@ -86,7 +86,7 @@ Following are fees to be charged for services to be performed by clerks of the d
 
 (13) The clerk shall assess a charge for the handling of registry funds deposited with the court, to be assessed from interest earnings and in accordance with the detailed fee schedule issued by the Director of the Administrative Office of the United States Courts.
 
-(14) For usage of electronic access to court data, 60 cents per minute of usage \[provided the court may, for good cause, exempt persons or classes of persons from the fees, in order to avoid unreasonable burdens and to promote public access to such information\]. All such fees collected shall be deposited to the Judiciary Automation Fund. This fee shall apply to the United States. (The Judicial Conference has approved an advisory note clarifying the judiciary's policy with respect to exemptions from this fee.)
+(14) For usage of electronic access to court data: $.60 per minute of usage via dial up service, and $.07 per page for public users obtaining information through a federal judiciary Internet site \[provided the court may, for good cause, exempt persons or classes of persons from the fees, in order to avoid unreasonable burdens and to promote public access to such information\]. All such fees collected shall be deposited to the Judiciary Information Technology Fund. These fees shall apply to the United States. (The Judicial Conference has approved an advisory note clarifying the judiciary's policy with respect to exemptions from the fees for usage of electronic access to court data. The Conference has also approved an advisory note defining information that may be provided to the public at no cost.)
 
 (15) For filing an action brought under Title III of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, P.L. 104–114, 110 Stat. 785 (1996), $4180. (This fee is in addition to the filing fee prescribed in 28 U.S.C. 1914(a) for instituting any civil action other than a writ of habeas corpus.)
 

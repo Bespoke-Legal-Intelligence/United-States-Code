@@ -1,5 +1,5 @@
 
-15 U.S.C.<br>United States Code, 1998 Edition<br>Title 15 - COMMERCE AND TRADE<br>From the U.S. Government Publishing Office, www.gpo.gov
+15 U.S.C.<br>United States Code, 1999 Edition<br>Title 15 - COMMERCE AND TRADE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 15—COMMERCE AND TRADE
 
@@ -119,6 +119,10 @@
 | [<b>89.</b>](Chapter%20089%20-%20Professional%20Boxing%20Safety/README.md) | <b>Professional Boxing Safety</b> | <b>6301</b> |
 | [<b>90.</b>](Chapter%20090%20-%20Propane%20Education%20and%20Research/README.md) | <b>Propane Education and Research</b> | <b>6401</b> |
 | [<b>91.</b>](Chapter%20091%20-%20Children%27s%20Online%20Privacy%20Protection/README.md) | <b>Children's Online Privacy Protection</b> | <b>6501</b> |
+| [<b>92.</b>](Chapter%20092%20-%20Year%202000%20Computer%20Date%20Change/README.md) | <b>Year 2000 Computer Date Change</b> | <b>6601</b> |
+| [<b>93.</b>](Chapter%20093%20-%20Insurance/README.md) | <b>Insurance</b> | <b>6701</b> |
+| [<b>94.</b>](Chapter%20094%20-%20Privacy/README.md) | <b>Privacy</b> | <b>6801</b> |
+| [<b>95.</b>](Chapter%20095%20-%20Microenterprise%20Technical%20Assistance%20and%20Capacity%20Building%20Program/README.md) | <b>Microenterprise Technical Assistance and Capacity Building Program</b> | <b>6901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -241,3 +245,7 @@
 - [Chapter 089 - Professional Boxing Safety](Chapter%20089%20-%20Professional%20Boxing%20Safety/README.md)
 - [Chapter 090 - Propane Education and Research](Chapter%20090%20-%20Propane%20Education%20and%20Research/README.md)
 - [Chapter 091 - Children's Online Privacy Protection](Chapter%20091%20-%20Children%27s%20Online%20Privacy%20Protection/README.md)
+- [Chapter 092 - Year 2000 Computer Date Change](Chapter%20092%20-%20Year%202000%20Computer%20Date%20Change/README.md)
+- [Chapter 093 - Insurance](Chapter%20093%20-%20Insurance/README.md)
+- [Chapter 094 - Privacy](Chapter%20094%20-%20Privacy/README.md)
+- [Chapter 095 - Microenterprise Technical Assistance and Capacity Building Program](Chapter%20095%20-%20Microenterprise%20Technical%20Assistance%20and%20Capacity%20Building%20Program/README.md)

@@ -68,7 +68,7 @@ Section 1008 of title 18, referred to in subsec. (a)(2)(A)(i)(I), was repealed b
 
 #### Provisions Not Repealed, Modified or Affected
 
-Nothing contained in sections 201 to 205 and 207 of Pub. L. 89–695 amending sections 1813 and 1817 to 1820and repealing section 77 of this title to be construed as repealing, modifying, or affecting this section, see section 206 of Pub. L. 89–695, set out as a note under section 1813 of this title.
+Nothing contained in sections 201 to 205 and 207 of Pub. L. 89–695 amending sections 1813 and 1817 to 1820 and repealing section 77 of this title to be construed as repealing, modifying, or affecting this section, see section 206 of Pub. L. 89–695, set out as a note under section 1813 of this title.
 
 #### Cross References
 

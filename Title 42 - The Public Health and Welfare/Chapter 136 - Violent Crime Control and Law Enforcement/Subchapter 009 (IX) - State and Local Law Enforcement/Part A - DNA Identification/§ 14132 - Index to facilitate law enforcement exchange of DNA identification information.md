@@ -6,9 +6,11 @@ The Director of the Federal Bureau of Investigation may establish an index of—
 
 &emsp;(1) DNA identification records of persons convicted of crimes;
 
-&emsp;(2) analyses of DNA samples recovered from crime scenes; and
+&emsp;(2) analyses of DNA samples recovered from crime scenes;
 
-&emsp;(3) analyses of DNA samples recovered from unidentified human remains.
+&emsp;(3) analyses of DNA samples recovered from unidentified human remains; and
+
+&emsp;(4) analyses of DNA samples voluntarily contributed from relatives of missing persons.
 
 #### (b) Information
 
@@ -32,7 +34,11 @@ The index described in subsection (a) of this section shall include only informa
 
 Access to the index established by this section is subject to cancellation if the quality control and privacy requirements described in subsection (b) of this section are not met.
 
-(Pub. L. 103–322, title XXI, §210304, Sept. 13, 1994, 108 Stat. 2069.)
+(Pub. L. 103–322, title XXI, §210304, Sept. 13, 1994, 108 Stat. 2069; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §120\], Nov. 29, 1999, 113 Stat. 1535, 1501A–23.)
+
+#### Amendments
+
+1999—Subsec. (a)(4). Pub. L. 106–113 added par. (4).
 
 #### Section Referred to in Other Sections
 

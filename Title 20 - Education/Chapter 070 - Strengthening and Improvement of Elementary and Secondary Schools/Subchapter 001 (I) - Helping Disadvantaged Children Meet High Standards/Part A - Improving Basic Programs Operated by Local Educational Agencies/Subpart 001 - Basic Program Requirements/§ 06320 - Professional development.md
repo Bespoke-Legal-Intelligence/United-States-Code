@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B) support local educational agency plans under section 6312 of this title and school plans under section 6314 of this title;
 
-&emsp;&emsp;(C) draw on resources available under this part, title III of the Goals 2000: Educate America Act \[20 U.S.C. 5881 et seq.\], subchapter II of this chapter, and from other sources;
+&emsp;&emsp;(C) draw on resources available under this part, title III <sup>1</sup> of the Goals 2000: Educate America Act, subchapter II of this chapter, and from other sources;
 
 &emsp;&emsp;(D) where appropriate, as determined by the local educational agency, include strategies for developing curricula and teaching methods that integrate academic and vocational instruction (including applied learning and team teaching strategies); and
 
@@ -66,11 +66,11 @@ In carrying out such professional development programs, local educational agenci
 
 #### (f) Effective teaching strategies
 
-Knowledge of effective teaching strategies that is gained through professional developmentactivities under this section may be shared with teachers who are not participating in targeted assistance programs under this part.
+Knowledge of effective teaching strategies that is gained through professional development activities under this section may be shared with teachers who are not participating in targeted assistance programs under this part.
 
 #### (g) Combinations of funds
 
-Funds provided under this part that are used for professional development purposes may be combined with funds provided under subchapter II of this chapter, title III of the Goals 2000: Educate America Act \[20 U.S.C. 5881 et seq.\], and other sources.
+Funds provided under this part that are used for professional development purposes may be combined with funds provided under subchapter II of this chapter, title III <sup>1</sup> of the Goals 2000: Educate America Act, and other sources.
 
 #### (h) State review
 
@@ -94,7 +94,7 @@ Funds provided under this part that are used for professional development purpos
 
 #### (2) Technical assistance
 
-&emsp;If a local educational agency's plan for professional development does not include the activities described in paragraph (1), the State educational agency shall provide technical assistance to such local educational agencies to enable such agencies to make progress toward inclusion of such activities in the local educational agency's professional development activities.
+&emsp;If a local educational agency's plan for professional development does not include the activities described in paragraph (1), the State educational agency shall provide technical assistance to such local educational agencies to enable such agencies to make progress towardinclusion of such activities in the local educational agency's professional development activities.
 
 #### (3) Special rule
 
@@ -120,9 +120,11 @@ Funds provided under this part that are used for professional development purpos
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in subsecs. (b)(1)(C) and (g), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsecs. (b)(1)(C) and (g), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act was classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title and was repealed by Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §310(i)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–265. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 6311, 6312, 6314, 6315 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -106,7 +106,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 1–103. (a) The Secretaries of State, the Treasury, Commerce, and Transportation, and the heads of other government agencies, shall take the appropriate measures to implement this order.
 
-(b) In carrying out their respective functions and responsibilities under this order, the Secretaries of the Treasury, Commerce, and Transportation, and the heads of other government agencies, shall, as appropriate, consult with the Secretary of State. Each such Secretary and agency head and the Secretary of State shall also consult with other government agencies and private persons, as appropriate.
+(b) In carrying out their respective functions and responsibilities under this order, the Secretaries of theTreasury, Commerce, and Transportation, and the heads of other government agencies, shall, as appropriate, consult with the Secretary of State. Each such Secretary and agency head and the Secretary of State shall also consult with other government agencies and private persons, as appropriate.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

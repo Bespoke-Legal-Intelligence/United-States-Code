@@ -36,43 +36,49 @@ For purposes of this section—
 
 #### (e) Program authority
 
-(1) The Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, is authorized to undertake, as identified in the master plan—
+(1)
 
-&emsp;(A) a program for the planning, construction, and evaluation of measures for fish and wildlife habitat rehabilitation and enhancement;
-
-&emsp;(B) implementation of a long-term resource monitoring program; and
-
-&emsp;(C) implementation of a computerized inventory and analysis system.
-
-(2) Each program referred to in paragraph (1) shall be carried out for 15 years. Before the last day of such 15-year period, the Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, shall conduct an evaluation of such programs and submit a report on the results of such evaluation to Congress. Such evaluation shall determine each such program's effectiveness, strengths, and weaknesses and contain recommendations for the modification and continuance or termination of such program.
-
-(3) For purposes of carrying out paragraph (1)(A) of this subsection, there is authorized to be appropriated to the Secretary not to exceed $8,200,000 for the first fiscal year beginning after November 17, 1986, not to exceed $12,400,000 for the second fiscal year beginning after November 17, 1986, and not to exceed $13,000,000 per fiscal year for each of the succeeding 13 fiscal years.
-
-(4) For purposes of carrying out paragraph (1)(B) of this subsection, there is authorized to be appropriated to the Secretary not to exceed $7,680,000 for the first fiscal year beginning after November 17, 1986, and not to exceed $5,080,000 per fiscal year for each of the succeeding 14 fiscal years.
-
-(5) For purposes of carrying out paragraph (1)(C) of this subsection, there is authorized to be appropriated to the Secretary not to exceed $40,000 for the first fiscal year beginning after November 17, 1986, not to exceed $280,000 for the second fiscal year beginning after November 17, 1986, not to exceed $1,220,000 for the third fiscal year beginning after November 17, 1986, and not to exceed $875,000 per fiscal year for each of the succeeding 12 fiscal years.
-
-(6)
-
-Transfer of amounts.—
+Authority.—
 
 &emsp;(A)
 
-General rule.—Subject to subparagraph (B), for each fiscal year beginning after September 30, 1992, the Secretary, in consultation with the Secretary of the Interior, and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, may transfer not to exceed 20 percent of the amount appropriated to carry out each of subparagraphs (A), (B), and (C) of paragraph (1) to carry out any other of such subparagraphs.
+In general.—The Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, may undertake, as identified in the master plan—
+
+&emsp;&emsp;(i) a program for the planning, construction, and evaluation of measures for fish and wildlife habitat rehabilitation and enhancement; and
+
+&emsp;&emsp;(ii) implementation of a long-term resource monitoring, computerized data inventory and analysis, and applied research program.
 
 &emsp;(B)
 
-Limitation.—The aggregate amounts obligated in fiscal years 1988 through 2002—
+Advisory committee.—In carrying out subparagraph (A)(i), the Secretary shall establish an independent technical advisory committee to review projects, monitoring plans, and habitat and natural resource needs assessments.
 
-&emsp;&emsp;(i) to carry out paragraph (1)(A) may not exceed $189,600,000;
+(2)
 
-&emsp;&emsp;(ii) to carry out paragraph (1)(B) may not exceed $78,800,000; and
+Reports.—Not later than December 31, 2004, and not later than December 31 of every sixth year thereafter, the Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, shall submit to Congress a report that—
 
-&emsp;&emsp;(iii) to carry out paragraph (1)(C) may not exceed $12,040,000.
+&emsp;(A) contains an evaluation of the programs described in paragraph (1);
 
-(7)(A) Notwithstanding the provisions of subsection (a)(2) of this section, the costs of each project carried out pursuant to paragraph (1)(A) of this subsection shall be allocated between the Secretary and the appropriate non-Federal sponsor in accordance with the provisions of section 2283(e) of this title; except that the costs of operation and maintenance of projects located on Federal lands or lands owned or operated by a State or local government shall be borne by the Federal, State, or local agency that is responsible for management activities for fish and wildlife on such lands.
+&emsp;(B) describes the accomplishments of each of the programs;
 
-(B) Notwithstanding the provisions of subsection (a)(2) of this section, the cost of implementing the activities authorized by paragraphs (1)(B) and (1)(C) of this subsection shall be allocated in accordance with the provisions of section 2283 of this title, as if such activity was required to mitigate losses to fish and wildlife.
+&emsp;(C) provides updates of a systemic habitat needs assessment; and
+
+&emsp;(D) identifies any needed adjustments in the authorization of the programs.
+
+(3) For purposes of carrying out paragraph (1)(A)(i) of this subsection, there is authorized to be appropriated to the Secretary $22,750,000 for fiscal year 1999 and each fiscal year thereafter.
+
+(4) For purposes of carrying out paragraph (1)(A)(ii) of this subsection, there is authorized to be appropriated to the Secretary $10,420,000 for fiscal year 1999 and each fiscal year thereafter.
+
+(5)
+
+Authorization of appropriations.—There is authorized to be appropriated to carry out paragraph (1)(B) $350,000 for each of fiscal years 1999 through 2009.
+
+(6)
+
+Transfer of amounts.—For fiscal year 1999 and each fiscal year thereafter, the Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, may transfer not to exceed 20 percent of the amounts appropriated to carry out clause (i) or (ii) of paragraph (1)(A) to the amounts appropriated to carry out the other of those clauses.
+
+(7)(A) Notwithstanding the provisions of subsection (a)(2) of this section, the costs of each project carried out pursuant to paragraph (1)(A)(i) of this subsection shall be allocated between the Secretary and the appropriate non-Federal sponsor in accordance with the provisions of section 2283(e) of this title; except that the costs of operation and maintenance of projects located on Federal lands or lands owned or operated by a State or local government shall be borne by the Federal, State, or local agency that is responsible for management activities for fish and wildlife on such lands and, in the case of any project requiring non-Federal cost sharing, the non-Federal share of the cost of the project shall be 35 percent.
+
+(B) Notwithstanding the provisions of subsection (a)(2) of this section, the cost of implementing the activities authorized by paragraph (1)(A)(ii) of this subsection shall be allocated in accordance with the provisions of section 2283 of this title, as if such activity was required to mitigate losses to fish and wildlife.
 
 (8) None of the funds appropriated pursuant to any authorization contained in this subsection shall be considered to be chargeable to navigation.
 
@@ -80,9 +86,7 @@ Limitation.—The aggregate amounts obligated in fiscal years 1988 through 2002�
 
 (1) The Secretary, in consultation with any agency established under subsection (d)(1) of this section, is authorized to implement a program of recreational projects for the system substantially in accordance with the recommendations of the GREAT I, GREAT II, and GRRM studies and the master plan reports. In addition, the Secretary, in consultation with any such agency, shall, at Federal expense, conduct an assessment of the economic benefits generated by recreational activities in the system. The cost of each such project shall be allocated between the Secretary and the appropriate non-Federal sponsor in accordance with title I of this Act \[33 U.S.C. 2211 et seq.\].
 
-(2)(A) For purposes of carrying out the program of recreational projects authorized in paragraph (1) of this subsection, there is authorized to be appropriated to the Secretary not to exceed $500,000 per fiscal year for each of the first 15 fiscal years beginning after November 17, 1986.
-
-(B) For purposes of carrying out the assessment of the economic benefits of recreational activities as authorized in paragraph (1) of this subsection, there is authorized to be appropriated to the Secretary not to exceed $300,000 per fiscal year for the first and second fiscal years beginning after the computerized inventory and analysis system implemented pursuant to subsection (e)(1)(C) of this section is fully functional and $150,000 for the third such fiscal year.
+(2) For purposes of carrying out the program of recreational projects authorized in paragraph (1) of this subsection, there is authorized to be appropriated to the Secretary not to exceed $500,000 per fiscal year for each of the first 15 fiscal years beginning after November 17, 1986.
 
 #### (g) Increases in lock capacity
 
@@ -92,7 +96,21 @@ The Secretary shall, in his budget request, identify those measures developed by
 
 (1) The Secretary, in consultation with any agency established under subsection (d)(1) of this section, shall monitor traffic movements on the system for the purpose of verifying lock capacity, updating traffic projections, and refining the economic evaluation so as to verify the need for future capacity expansion of the system.
 
-(2) The Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, shall determine the need for river rehabilitationand environmental enhancement and protection based on the condition of the environment, project developments, and projected environmental impacts from implementing any proposals resulting from recommendations made under subsection (g) of this section and paragraph (1) of this subsection.
+(2)
+
+Determination.—
+
+&emsp;(A)
+
+In general.—The Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, shall determine the need for river rehabilitation and environmental enhancement and protection based on the condition of the environment, project developments, and projected environmental impacts from implementing any proposals resulting from recommendations made under subsection (g) of this section and paragraph (1) of this subsection.
+
+&emsp;(B)
+
+Requirements.—The Secretary shall—
+
+&emsp;&emsp;(i) complete the ongoing habitat needs assessment conducted under this paragraph not later than September 30, 2000; and
+
+&emsp;&emsp;(ii) include in each report under subsection (e)(2) of this section the most recent habitat needs assessment conducted under this paragraph.
 
 (3) There is authorized to be appropriated to the Secretary such sums as may be necessary to carry out this subsection.
 
@@ -106,7 +124,7 @@ The Secretary shall, in his budget request, identify those measures developed by
 
 The Secretary is authorized to provide for the engineering, design, and construction of a second lock at locks and dam 26, Mississippi River, Alton, Illinois and Missouri, at a total cost of $220,000,000, with a first Federal cost of $220,000,000. Such second lock shall be one hundred and ten feet by six hundred feet and shall be constructed at or in the vicinity of the location of the replacement lock authorized by section 102 of Public Law 95–502. Section 2212 of this title shall apply to the project authorized by this subsection.
 
-(Pub. L. 99–662, title XI, §1103, Nov. 17, 1986, 100 Stat. 4225; Pub. L. 101–640, title IV, §405, Nov. 28, 1990, 104 Stat. 4646; Pub. L. 102–580, title I, §107, Oct. 31, 1992, 106 Stat. 4815.)
+(Pub. L. 99–662, title XI, §1103, Nov. 17, 1986, 100 Stat. 4225; Pub. L. 101–640, title IV, §405, Nov. 28, 1990, 104 Stat. 4646; Pub. L. 102–580, title I, §107, Oct. 31, 1992, 106 Stat. 4815; Pub. L. 106–53, title V, §509, Aug. 17, 1999, 113 Stat. 339; Pub. L. 106–109, §2, Nov. 24, 1999, 113 Stat. 1494.)
 
 #### References in Text
 
@@ -119,6 +137,34 @@ This Act, referred to in subsec. (f)(1), is Pub. L. 99–662, Nov. 17, 1986, 100
 Subsec. (c)(2) of this section amended section 101 of Pub. L. 95–502, which is set out as a note under section 1962b–3 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+1999—Subsec. (e). Pub. L. 106–53, §509(a), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “The Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, is authorized to undertake, as identified in the master plan—
+
+&emsp;“(A) a program for the planning, construction, and evaluation of measures for fish and wildlife habitat rehabilitation and enhancement;
+
+&emsp;“(B) implementation of a long-term resource monitoring program; and
+
+&emsp;“(C) implementation of a computerized inventory and analysis system.”
+
+Subsec. (e)(2). Pub. L. 106–53, §509(b), added par. (2) and struck out former par. (2) which read as follows: “Each program referred to in paragraph (1) shall be carried out for 15 years. Before the last day of such 15-year period, the Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, shall conduct an evaluation of such programs and submit a report on the results of such evaluation to Congress. Such evaluation shall determine each such program's effectiveness, strengths, and weaknesses and contain recommendations for the modification and continuance or termination of such program.”
+
+Subsec. (e)(3). Pub. L. 106–53, §509(c)(1), substituted “(1)(A)(i)” for “(1)(A)” and “Secretary $22,750,000 for fiscal year 1999 and each fiscal year thereafter” for “Secretary not to exceed $8,200,000 for the first fiscal year beginning after November 17, 1986, not to exceed $12,400,000 for the second fiscal year beginning after November 17, 1986, and not to exceed $13,000,000 per fiscal year for each of the succeeding 13 fiscal years”.
+
+Subsec. (e)(4). Pub. L. 106–53, §509(c)(2), substituted “(1)(A)(ii)” for “(1)(B)” and “Secretary $10,420,000 for fiscal year 1999 and each fiscal year thereafter” for “Secretary not to exceed $7,680,000 for the first fiscal year beginning after November 17, 1986, and not to exceed $5,080,000 per fiscal year for each of the succeeding 14 fiscal years”.
+
+Subsec. (e)(5). Pub. L. 106–109 substituted “paragraph (1)(B)” for “paragraph (1)(A)(i)”.
+
+Pub. L. 106–53, §509(c)(3), added par. (5) and struck out former par. (5) which read as follows: “For purposes of carrying out paragraph (1)(C) of this subsection, there is authorized to be appropriated to the Secretary not to exceed $40,000 for the first fiscal year beginning after November 17, 1986, not to exceed $280,000 for the second fiscal year beginning after November 17, 1986, not to exceed $1,220,000 for the third fiscal year beginning after November 17, 1986, and not to exceed $875,000 per fiscal year for each of the succeeding 12 fiscal years”.
+
+Subsec. (e)(6). Pub. L. 106–53, §509(d), added par. (6) and struck out former par. (6) which contained provisions limiting transfers to 20% of appropriated amounts and setting out specific maximum monetary amounts.
+
+Subsec. (e)(7)(A). Pub. L. 106–53, §509(e), (g)(1)(A), substituted “(1)(A)(i)” for “(1)(A)” and inserted before period at end “and, in the case of any project requiring non-Federal cost sharing, the non-Federal share of the cost of the project shall be 35 percent”.
+
+Subsec. (e)(7)(B). Pub. L. 106–53, §509(g)(1)(B), substituted “paragraph (1)(A)(ii)” for “paragraphs (1)(B) and (1)(C)”.
+
+Subsec. (f)(2). Pub. L. 106–53, §509(g)(2), struck out “(A)” after “(2)” and struck out subpar. (B) which read as follows: “For purposes of carrying out the assessment of the economic benefits of recreational activities as authorized in paragraph (1) of this subsection, there is authorized to be appropriated to the Secretary not to exceed $300,000 per fiscal year for the first and second fiscal years beginning after the computerized inventory and analysis system implemented pursuant to subsection (e)(1)(C) of this section is fully functional and $150,000 for the third such fiscal year”.
+
+Subsec. (h)(2). Pub. L. 106–53, §509(f), inserted par. heading, designated existing provisions as subpar. (A) and inserted heading, and added subpar. (B).
 
 1992—Subsec. (e)(2). Pub. L. 102–580, §107(a)(1), which directed the substitution of “15” for “ten” each place it appears, could not be executed because “ten” did not appear subsequent to amendment by Pub. L. 101–640, §405(1). See 1990 Amendment note below.
 
@@ -139,6 +185,62 @@ Subsec. (e)(4). Pub. L. 101–640, §405(3), substituted “14” for “nine”
 Subsec. (e)(5). Pub. L. 101–640, §405(4), substituted “12” for “seven”.
 
 Subsec. (f)(2)(A). Pub. L. 101–640, §405(5), substituted “15” for “ten”.
+
+#### Upper Mississippi River Comprehensive Plan
+
+Pub. L. 106–53, title IV, §459, Aug. 17, 1999, 113 Stat. 332, provided that:
+
+“(a)
+
+Development.—The Secretary shall develop a plan to address water resource and related land resource problems and opportunities in the upper Mississippi and Illinois River basins, from Cairo, Illinois, to the headwaters of the Mississippi River, in the interest of systemic flood damage reduction by means of—
+
+&emsp;“(1) structural and nonstructural flood control and floodplain management strategies;
+
+&emsp;“(2) continued maintenance of the navigation project;
+
+&emsp;“(3) management of bank caving and erosion;
+
+&emsp;“(4) watershed nutrient and sediment management;
+
+&emsp;“(5) habitat management;
+
+&emsp;“(6) recreation needs; and
+
+&emsp;“(7) other related purposes.
+
+“(b)
+
+Contents.—The plan under subsection (a) shall—
+
+&emsp;“(1) contain recommendations on management plans and actions to be carried out by the responsible Federal and non-Federal entities;
+
+&emsp;“(2) specifically address recommendations to authorize construction of a systemic flood control project for the upper Mississippi River; and
+
+&emsp;“(3) include recommendations for Federal action where appropriate and recommendations for follow-on studies for problem areas for which data or current technology does not allow immediate solutions.
+
+“(c)
+
+Consultation and Use of Existing Data.—In carrying out this section, the Secretary shall—
+
+&emsp;“(1) consult with appropriate Federal and State agencies; and
+
+&emsp;“(2) make maximum use of data in existence on the date of enactment of this Act \[Aug. 17, 1999\] and ongoing programs and efforts of Federal agencies and States in developing the plan under subsection (a).
+
+“(d)
+
+Cost Sharing.—
+
+&emsp;“(1)
+
+Development.—Development of the plan under subsection (a) shall be at Federal expense.
+
+&emsp;“(2)
+
+Feasibility studies.—Feasibility studies resulting from development of the plan shall be subject to cost sharing under section 105 of the Water Resources Development Act of 1986 (33 U.S.C. 2215).
+
+“(e)
+
+Report.—Not later than 3 years after the date of enactment of this Act \[Aug. 17, 1999\], the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that includes the plan under subsection (a).”
 
 #### Definitions
 

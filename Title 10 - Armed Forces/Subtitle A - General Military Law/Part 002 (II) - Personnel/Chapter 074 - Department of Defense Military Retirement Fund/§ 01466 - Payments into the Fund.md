@@ -28,7 +28,17 @@
 
 (3) The Secretary of Defense shall promptly certify the amount determined under paragraph (2) each year to the Secretary of the Treasury.
 
-(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 647; amended Pub. L. 99–500, §101(c) \[title IX, §§9103(3), 9131\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, 1783–128, and Pub. L. 99–591, §101(c) \[title IX, §§9103(3), 9131\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, 3341–128; Pub. L. 99–661, div. A, title VI, §661(b), Nov. 14, 1986, 100 Stat. 3892; Pub. L. 100–26, §§4(a)(1), 7(a)(3), Apr. 21, 1987, 101 Stat. 274, 275.)
+(c)(1) The Secretary of Defense shall pay into the Fund at the beginning of each fiscal year such amount as may be necessary to pay the cost to the Fund for that fiscal year resulting from the repeal, as of October 1, 1999, of section 5532 of title 5, including any actuarial loss to the Fund resulting from increased benefits paid from the Fund that are not fully covered by the payments made to the Fund for that fiscal year under subsections (a) and (b).
+
+(2) Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department.
+
+(3) The Department of Defense Retirement Board of Actuaries shall determine, for each armed force, the amount required under paragraph (1) to be deposited in the Fund each fiscal year.
+
+(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 647; amended Pub. L. 99–500, §101(c) \[title IX, §§9103(3), 9131\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, 1783–128, and Pub. L. 99–591, §101(c) \[title IX, §§9103(3), 9131\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, 3341–128; Pub. L. 99–661, div. A, title VI, §661(b), Nov. 14, 1986, 100 Stat. 3892; Pub. L. 100–26, §§4(a)(1), 7(a)(3), Apr. 21, 1987, 101 Stat. 274, 275; Pub. L. 106–65, div. A, title VI, §651(b), Oct. 5, 1999, 113 Stat. 664.)
+
+#### References in Text
+
+Section 5532 of title 5, referred to in subsec. (c)(1), was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
 #### Codification
 
@@ -37,6 +47,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Amendment of section by section 9131 of Pub. L. 99–500 and Pub. L. 99–591 is based on section 642 of S. 2638, Ninety-ninth Congress, as passed by the Senate on Aug. 9, 1986, which was enacted into permanent law by section 9131 of Pub. L. 99–500 and Pub. L. 99–591. S. 2638 was subsequently enacted as Pub. L. 99–661.
 
 #### Amendments
+
+1999—Subsec. (c). Pub. L. 106–65 added subsec. (c).
 
 1987—Subsec. (a). Pub. L. 100–26, §7(a)(3), inserted at end “Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department.”
 
@@ -53,6 +65,10 @@ Pub. L. 99–500 and Pub. L. 99–591, title I, §101(c) \[§9131\], amended sub
 > Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department.”
 
 Subsec. (a)(1)(B), (2)(B). Pub. L. 99–500 and Pub. L. 99–591, title I, §101(c) \[title IX, §9103(3)\], as amended by Pub. L. 100–26, §4(a)(1), substituted “accrued for that month by” for “paid that month to” in pars. (1)(B) and (2)(B) as amended by section 661(b) of Pub. L. 99–661, see above.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–65, div. A, title VI, §651(c), Oct. 5, 1999, 113 Stat. 664, provided that: “The amendments made bythis section \[amending this section and repealing section 5532 of Title 5, Government Organization and Employees\] shall take effect on October 1, 1999.”
 
 #### Effective Date of 1987 Amendment
 

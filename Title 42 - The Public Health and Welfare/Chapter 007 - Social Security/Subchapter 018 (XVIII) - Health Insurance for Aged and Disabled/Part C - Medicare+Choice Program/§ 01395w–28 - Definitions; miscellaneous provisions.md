@@ -38,7 +38,7 @@ In this part—
 
 &emsp;&emsp;&emsp;(ii) counts as such expenses (for purposes of such deductible) at least all amounts that would have been payable under parts A and B of this subchapter, and that would have been payable by the enrollee as deductibles, coinsurance, or copayments, if the enrollee had elected to receive benefits through the provisions of such parts; and
 
-&emsp;&emsp;&emsp;(iii) provides, after such deductible is met for a year and for all subsequent expenses for items and services referred to in clause (i) in the year, for a level of reimbursement that is not less than—
+&emsp;&emsp;&emsp;(iii) provides, after such deductible is met for a year and for all subsequent expenses for items and services referred to inclause (i) in the year, for a level of reimbursement that is not less than—
 
 &emsp;&emsp;&emsp;&emsp;(I) 100 percent of such expenses, or
 
@@ -86,7 +86,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (2) Medicare+Choice religious fraternal benefit society plan described
 
-&emsp;For purposes of this subsection, a Medicare+Choice religious fraternal benefit society plan described in this paragraph is a Medicare+Choice plan described in section 1395w–21(a)(2)(A) of this title that—
+&emsp;For purposes of this subsection, a Medicare+Choice religious fraternal benefit society plan described in this paragraph is a Medicare+Choice plan described in section 1395w–21(a)(2) of this title that—
 
 &emsp;&emsp;(A) is offered by a religious fraternal benefit society described in paragraph (3) only to members of the church, convention, or group described in paragraph (3)(B); and
 
@@ -110,13 +110,17 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;Under regulations of the Secretary, in the case of individuals enrolled under this part under a Medicare+Choice religious fraternal benefit society plan described in paragraph (2), the Secretary shall provide for such adjustment to the payment amounts otherwise established under section 1395w–24 of this title as may be appropriate to assure an appropriate payment level, taking into account the actuarial characteristics and experience of such individuals.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1859, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 325.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1859, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 325; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §523\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387.)
 
 #### References in Text
 
 Parts A and B of this subchapter, referred to in subsec. (b)(3)(A), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
 
 The Internal Revenue Code of 1986, referred to in subsec. (e)(3)(A), is classified generally to Title 26, Internal Revenue Code.
+
+#### Amendments
+
+1999—Subsec. (e)(2). Pub. L. 106–113 substituted “section 1395w–21(a)(2) of this title” for “section1395w–21(a)(2)(A) of this title” in introductory provisions.
 
 #### Section Referred to in Other Sections
 

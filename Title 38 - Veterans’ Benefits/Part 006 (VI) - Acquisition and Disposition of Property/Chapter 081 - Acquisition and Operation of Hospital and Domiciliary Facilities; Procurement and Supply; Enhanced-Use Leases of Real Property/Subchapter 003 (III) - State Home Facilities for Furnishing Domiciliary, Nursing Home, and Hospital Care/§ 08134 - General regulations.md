@@ -1,18 +1,42 @@
 ### §8134. General regulations
 
-(a) Within six months after the date of enactment of any amendment to this section with respect to such amendment, the Secretary shall prescribe the following by regulation:
+(a)(1) The Secretary shall prescribe regulations for the purposes of this subchapter.
 
-&emsp;(1) The number of beds required to provide adequate nursing home care to veterans residing in each State.
+(2) In those regulations, the Secretary shall prescribe for each State the number of nursing home and domiciliary beds for which assistance under this subchapter may be furnished. Such regulations shall be based on projected demand for such care 10 years after the date of the enactment of the Veterans Millennium Health Care and Benefits Act by veterans who at such time are 65 years of age or older and who reside in that State. In determining such projected demand, the Secretary shall take into account travel distances for veterans and their families.
 
-&emsp;(2) General standards of construction, repair, and equipment for facilities constructed or acquired with assistance received under this subchapter.
+(3)(A) In those regulations, the Secretary shall establish criteria under which the Secretary shall determine, with respect to an application for assistance under this subchapter for a project described in subparagraph (B) which is from a State that has a need for additional beds as determined under subsections (a)(2) and (d)(1), whether the need for such beds is most aptly characterized as great, significant, or limited. Such criteria shall take into account the availability of beds already operated by the Secretary and other providers which appropriately serve the needs which the State proposes to meet with its application.
 
-&emsp;(3) General standards for the furnishing of care in facilities which are constructed or acquired with assistance received under this subchapter, which standards shall be no less stringent than those standards prescribed by the Secretary pursuant to section 1720(b) of this title.
+(B) This paragraph applies to a project for the construction or acquisition of a new State home facility, a project to increase the number of beds available at a State home facility, and a project to replace beds at a State home facility.
 
-(b) The Secretary may inspect any State facility constructed or acquired with assistance received under this subchapter at such times as the Secretary deems necessary to insure that such facility meets the standards prescribed under subsection (a)(3).
+(4) The Secretary shall review and, as necessary, revise regulations prescribed under paragraphs (2) and (3) not less often than every four years.
 
-(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 502, §5034; amended Pub. L. 89–311, §7(b), Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title IV, §403(d), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title I, §107(b), title II, §206(b), Oct. 21, 1976, 90 Stat. 2847, 2859; Pub. L. 95–62, §3(5), (6), July 5, 1977, 91 Stat. 262; Pub. L. 96–330, title IV, §404, Aug. 26, 1980, 94 Stat. 1052; Pub. L. 98–528, title I, §105(2), Oct. 19, 1984, 98 Stat. 2689; renumbered §8134, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(f)(6), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §§4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(b) The Secretary shall prescribe the following by regulation:
+
+&emsp;(1) General standards of construction, repair, and equipment for facilities constructed or acquired with assistance received under this subchapter.
+
+&emsp;(2) General standards for the furnishing of care in facilities which are constructed or acquired with assistance received under this subchapter, which standards shall be no less stringent than those standards prescribed by the Secretary pursuant to section 1720(b) of this title.
+
+(c) The Secretary may inspect any State facility constructed or acquired with assistance received under this subchapter at such times as the Secretary deems necessary to insure that such facility meets the standards prescribed under subsection (b)(2).
+
+(d)(1) In prescribing regulations to carry out this subchapter, the Secretary shall provide that in the case of a State that seeks assistance under this subchapter for a project described in subsection (a)(3)(B), the determination of the unmet need for beds for State homes in that State shall be reduced by the number of beds in all previous applications submitted by that State under this subchapter, including beds which have not been recognized by the Secretary under section 1741 of this title.
+
+(2)(A) Financial assistance under this subchapter for a renovation project may only be provided for a project for which the total cost of construction is in excess of $400,000 (as adjusted from time-to-time in such regulations to reflect changes in costs of construction).
+
+(B) For purposes of this paragraph, a renovation project is a project to remodel or alter existing buildings for which financial assistance under this subchapter may be provided and does not include maintenance and repair work which is the responsibility of the State.
+
+(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 502, §5034; amended Pub. L. 89–311, §7(b), Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title IV, §403(d), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title I, §107(b), title II, §206(b), Oct. 21, 1976, 90 Stat. 2847, 2859; Pub. L. 95–62, §3(5), (6), July 5, 1977, 91 Stat. 262; Pub. L. 96–330, title IV, §404, Aug. 26, 1980, 94 Stat. 1052; Pub. L. 98–528, title I, §105(2), Oct. 19, 1984, 98 Stat. 2689; renumbered §8134, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(f)(6), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §§4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 106–117, title II, §207(a), Nov. 30, 1999, 113 Stat. 1564.)
+
+#### References in Text
+
+The date of the enactment of the Veterans Millennium Health Care and Benefits Act, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 106–117, which was approved Nov. 30, 1999.
 
 #### Amendments
+
+1999—Subsecs. (a), (b). Pub. L. 106–117, §207(a)(1)–(3), added subsec. (a), redesignated former subsec. (a) as (b) and struck out introductory provisions and par. (1) which authorized Secretary to prescribe number of beds needed for adequate nursing home care of veterans, and redesignated former pars. (2) and (3) of subsec. (a) as pars. (1) and (2), respectively, of subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 106–117, §207(a)(1), (4), redesignated subsec. (b) as (c) and substituted “subsection (b)(2)” for “subsection (a)(3)”.
+
+Subsec. (d). Pub. L. 106–117, §207(a)(5), added subsec. (d).
 
 1991—Pub. L. 102–40 renumbered section 5034 of this title as this section.
 
@@ -47,6 +71,14 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 #### Effective Date of 1973 Amendment
 
 Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L. 93–82, set out as a note under section 1701 of this title.
+
+#### Regulations
+
+Pub. L. 106–117, title II, §207(d), Nov. 30, 1999, 113 Stat. 1567, provided that: “The Secretary \[of Veterans Affairs\] shall prescribe the initial regulations under subsection (a) of section 8134 of title 38, United States Code, as added by subsection (a), not later than April 30, 2000.”
+
+#### Transition Provisions
+
+Provisions of this section in effect on Nov. 10, 1999, to continue in effect after that date with respect to certain applications described in section 8135(b)(2)(A) of this title that are identified in section 207(c)(2) of Pub. L. 106–117, see section 207(c) of Pub. L. 106–117, set out as a note under section 8135 of this title.
 
 #### Section Referred to in Other Sections
 

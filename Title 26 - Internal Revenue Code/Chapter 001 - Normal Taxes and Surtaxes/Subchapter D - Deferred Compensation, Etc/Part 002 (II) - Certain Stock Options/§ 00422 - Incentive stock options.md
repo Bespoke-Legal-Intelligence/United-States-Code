@@ -22,7 +22,7 @@ For purposes of this part, the term “incentive stock option” means an option
 
 &emsp;(5) such option by its terms is not transferable by such individual otherwise than by will or the laws of descent and distribution, and is exercisable, during his lifetime, only by him; and
 
-&emsp;(6) such individual, at the time the option is granted, does not own stock possessing more than 10 percent of the total combined votingpower of all classes of stock of the employer corporation or of its parent or subsidiary corporation.
+&emsp;(6) such individual, at the time the option is granted, does not own stock possessing more than 10 percent of the total combined voting power of all classes of stock of the employer corporation or of its parent or subsidiary corporation.
 
 > Such term shall not include any option if (as of the time the option is granted) the terms of such option provide that it will not be treated as an incentive stock option.
 
@@ -44,7 +44,7 @@ For purposes of this part, the term “incentive stock option” means an option
 
 #### (3) Certain transfers by insolvent individuals
 
-&emsp;If an insolvent individual holds a share of stock acquired pursuant to his exercise of an incentive stock option, and if such share is transferred to a trustee, receiver, or other similar fiduciary in any proceeding under title 11 or any other similar insolvency proceeding, neither such transfer, nor any other transfer of such share for the benefit of his creditors in such proceeding, shall constitute a disposition of such share for purposes of subsection (a)(1).
+&emsp;If an insolvent individual holds a share of stock acquired pursuant to his exercise of an incentive stock option, and if such share is transferred to a trustee, receiver, or othersimilar fiduciary in any proceeding under title 11 or any other similar insolvency proceeding, neither such transfer, nor any other transfer of such share for the benefit of his creditors in such proceeding, shall constitute a disposition of such share for purposes of subsection (a)(1).
 
 #### (4) Permissible provisions
 

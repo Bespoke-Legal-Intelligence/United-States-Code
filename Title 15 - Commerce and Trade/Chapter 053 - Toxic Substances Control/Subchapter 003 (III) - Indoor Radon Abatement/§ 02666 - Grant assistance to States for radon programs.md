@@ -16,7 +16,7 @@ An application for a grant under this section in any fiscal year shall contain s
 
 &emsp;(4) A budget specifying Federal and State funding of each element of activity of the grant application.
 
-&emsp;(5) A 3-year plan which outlines long range program goals and objectives, tasks necessary to achieve them, and resource requirements for the entire 3-year period, including anticipated State funding levels and desired Federal funding levels. This clause shall apply only for the initial year in which a grant application is made.
+&emsp;(5) A 3-year plan which outlines long range program goals and objectives, tasks necessaryto achieve them, and resource requirements for the entire 3-year period, including anticipated State funding levels and desired Federal funding levels. This clause shall apply only for the initial year in which a grant application is made.
 
 #### (c) Eligible activities
 
@@ -80,7 +80,7 @@ States may, at the Governor's discretion, use funds from grants under this secti
 
 (2) The costs of implementing paragraphs (4) and (9) of subsection (c) of this section shall not in the aggregate exceed 50 percent of the amount of any grant awarded under this section to a State in a fiscal year. In implementing such paragraphs, a State should make every effort, consistent with the goals and successful operation of the State radon program, to give a preference to low-income persons.
 
-(3) The costs of general overhead and program administration under subsection (c)(7) of this section shall not exceed 25 percent of the amount of any grant awarded under this section to a State in a fiscal year.
+(3) The costs of general overhead and program administration under subsection (c)(7) of this section shall not exceed 25 percent of theamount of any grant awarded under this section to a State in a fiscal year.
 
 (4) A State may use funds received under this section for financial assistance to persons only to the extent such assistance is related to demonstration projects or the purchase and analysis of radon measurement devices.
 

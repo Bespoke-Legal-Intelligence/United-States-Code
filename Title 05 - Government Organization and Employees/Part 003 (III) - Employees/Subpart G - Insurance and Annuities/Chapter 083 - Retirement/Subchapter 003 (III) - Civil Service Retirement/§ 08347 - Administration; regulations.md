@@ -82,7 +82,7 @@
 
 &emsp;(A) has not previously made an election under this subsection or had an opportunity to make an election under this paragraph;
 
-&emsp;(B) is a vested participant in a retirement system established for employees described in section 2105(c), as the term “vested participant” is defined by such system;
+&emsp;(B) is a vested participant in a retirement system established for employees described insection 2105(c), as the term “vested participant” is defined by such system;
 
 &emsp;(C) moves, without a break in service of more than 1 year, to a position that is not described in section 2105(c); and
 
@@ -244,7 +244,7 @@ Section 1043(b), (c) of Pub. L. 104–106 provided that:
 
 “(b)
 
-Regulations.—Not later than 6 months after the date of the enactment of this Act \[Feb. 10, 1996\], the Office of Personnel Management (and each of the other administrative authorities, within the meaning of subsection (c)(2)(C)(iii)) shall prescribe any regulations (ormake any modifications in existing regulations) necessary to carry out this section \[amending this section and sections 3502 and 8461 of this title and enacting provisions set out as a note under section 3502 of this title\] and the amendments made by this section, including regulations to provide for the notification of individuals who may be affected by the enactment of this section. All regulations (and modifications to regulations) under the preceding sentence shall take effect on the same date.
+Regulations.—Not later than 6 months after the date of the enactment of this Act \[Feb. 10, 1996\], the Office of Personnel Management (and each of the other administrative authorities, within the meaning of subsection (c)(2)(C)(iii)) shall prescribe any regulations (or make any modifications in existing regulations) necessary to carry out this section \[amending this section and sections 3502 and 8461 of this title and enacting provisions set out as a note under section 3502 of this title\] and the amendments made by this section, including regulations to provide for the notification of individuals who may be affected by the enactment of this section. All regulations (and modifications to regulations) under the preceding sentence shall take effect on the same date.
 
 “(c)
 
@@ -284,7 +284,7 @@ Transfers of contributions.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—If an individual makes an election under this paragraph to be transferred back to a retirement system in which such individual previously participated (in this section referred to as the ‘previous system’), all individual contributions (including interest) and Government contributions to the retirement system in which such individual is then currently participating (in this section referred to as the ‘current system’), excluding those made to the Thrift Savings Plan or any other defined contribution plan, which are attributable to periods of service performed since the move on which the election is based, shall be paid to the fund, account, or other repository for contributions made under the previous system. For purposes of this section, the term ‘current system’ shall be considered also to include any retirement system (besides the one in which the individual is participating at the time of making the election) in which such individual previously participated since the move on which the election is based.
+In general.—If an individual makes an election under this paragraph to be transferred back to a retirement system in which such individual previously participated (in this section referred to as the ‘previous system’), all individual contributions (including interest) and Government contributions to the retirement system in which such individual is then currently participating (in this section referred to as the ‘current system’), excluding those made to the Thrift Savings Plan or any other defined contribution plan, which are attributable to periods of service performed since the move on which the election is based, shall be paid to the fund, account, or other repository for contributions made under the previous system. For purposes of this section, theterm ‘current system’ shall be considered also to include any retirement system (besides the one in which the individual is participating at the time of making the election) in which such individual previously participated since the move on which the election is based.
 
 &emsp;&emsp;&emsp;“(ii)
 

@@ -1,6 +1,6 @@
 ### §8337. Disability retirement
 
-(a) An employee who completes 5 years of civilian service and has become disabled shall be retired on the employee's own application or on application by the employee's agency. Any employee shall be considered to be disabled only if the employee is found by the Office of Personnel Management to be unable, because of disease or injury, to render useful and efficient service in the employee's position and is not qualified for reassignment, under procedures prescribed by the Office, to a vacant position which is in the agency at the same grade or level and in which the employee would be able to render useful and efficient service. For the purpose of the preceding sentence, an employee of the United States Postal Service shall be considered not qualified for a reassignment described in that sentence if the reassignment is to a position in a different craft or is inconsistent with the terms of a collective bargaining agreement covering the employee. A judge of the United States Court of Appeals for the Armed Forces who completes 5 years of civilian service and who is found by the Office to be disabled for useful and efficient service as a judge of such court or who is removed for mental or physical disability under section 942(c) of title 10 shall be retired on thejudge's own application or upon such removal. A Member who completes 5 years of Member service and is found by the Office to be disabled for useful and efficient service as a Member because of disease or injury shall be retired on the Member's own application. An annuity authorized by this section is computed under section 8339(g) of this title, unless the employee or Member is eligible for a higher annuity computed under section 8339(a)–(e), (n), (q), or (r).
+(a) An employee who completes 5 years of civilian service and has become disabled shall be retired on the employee's own application or on application by the employee's agency. Any employee shall be considered to be disabled only if the employee is found by the Office of Personnel Management to be unable, because of disease or injury, to render useful and efficient service in the employee's position and is not qualified for reassignment, under procedures prescribed by the Office, to a vacant position which is in the agency at the same grade or level and in which the employee would be able to render useful and efficient service. For the purpose of the preceding sentence, an employee of the United States Postal Service shall be considered not qualified for a reassignment described in that sentence if the reassignment is to a position in a different craft or is inconsistent with the terms of a collective bargaining agreement covering the employee. A judge of the United States Court of Appeals for the Armed Forces who completes 5 years of civilian service and who is found by the Office to be disabled for useful and efficient service as a judge of such court or who is removed for mental or physical disability under section 942(c) of title 10 shall be retired on the judge's own application or upon such removal. A Member who completes 5 years of Member service and is found by the Office to be disabled for useful and efficient service as a Member because of disease or injury shall be retired on the Member's own application. An annuity authorized by this section is computed under section 8339(g) of this title, unless the employee or Member is eligible for a higher annuity computed under section 8339(a)–(e), (n), (q), or (r).
 
 (b) A claim may be allowed under this section only if the application is filed with the Office before the employee or Member is separated from the service or within 1 year thereafter. This time limitation may be waived by the Office for an employee or Member who at the date of separation from service or within 1 year thereafter is mentally incompetent, if the application is filed with the Office within 1 year from the date of restoration of the employee or Member to competency or the appointment of a fiduciary, whichever is earlier.
 
@@ -16,7 +16,7 @@
 
 (e) If an annuitant whose annuity is terminated under subsection (d) of this section is not reemployed in a position in which he is subject to this subchapter, he is deemed, except for service credit, to have been involuntarily separated from the service for the purpose of this subchapter as of the date of termination of the disability annuity, and after that termination is entitled to annuity under the applicable provisions of this subchapter. If an annuitant whose annuity is heretofore or hereafter terminated because of an earning capacity provision of this subchapter or an earlier statute—
 
-&emsp;(1) is not reemployed in a position within the purview of this subchapter; and
+&emsp;(1) is not reemployed in a position in which he is subject to this subchapter; and
 
 &emsp;(2) has not recovered from the disability for which he was retired;
 
@@ -40,13 +40,13 @@
 
 &emsp;(2) authorize the deduction of the amount from the annuity.
 
-> Deductions from the annuity may be made from accrued or accruing payments. The amounts deducted and withheld from the annuity shall be transmitted to the Department of Labor for reimbursement to the Employees’ Compensation Fund. When the Department of Labor finds that the financial circumstances of an individual entitled to an annuity under this subchapter warrant deferred refunding, deductions from the annuity may be prorated against and paid from accruing payments in such manner as the Department determines appropriate.
+> Deductions from the annuity may be made from accrued or accruing payments. The amounts deducted and withheld from the annuity shall be transmitted to the Department of Labor for reimbursement to the Employees’ Compensation Fund. When the Department of Labor finds thatthe financial circumstances of an individual entitled to an annuity under this subchapter warrant deferred refunding, deductions from the annuity may be prorated against and paid from accruing payments in such manner as the Department determines appropriate.
 
-(h)(1) As used in this subsection, the term “technician” means an individual employed under section 709(a) of title 32 who, as a condition of the employment, is required under section 709(b) of such title to be a member of the National Guard and to hold a specified military grade.
+(h)(1) As used in this subsection, the term “technician” means an individual employed under section 709(a) of title 32 or section 10216 of title 10 who, as a condition of the employment, is required under section 709(b) of title 32 or section 10216 of title 10, respectively, to be a member of the Selected Reserve.
 
 (2)(A) Except as provided in subparagraph (B) of this paragraph, an individual shall be retired under this section if the individual—
 
-&emsp;(i) is separated from employment as a technician under section 709(e)(1) of title 32 by reason of a disability that disqualifies the individual from membership in the National Guard or from holding the military grade required for such employment;
+&emsp;(i) is separated from employment as a technician under section 709(e)(1) of title 32 or section 10216 of title 10 by reason of a disability that disqualifies the individual from membership in the Selected Reserve;
 
 &emsp;(ii) is not considered to be disabled under the second sentence of subsection (a) of this section;
 
@@ -68,9 +68,9 @@
 
 &emsp;(B) the individual is qualified to serve in such position, as determined by the head of the agency; and
 
-&emsp;(C) the position is at the same grade or equivalent level as the position from which the individual was separated under section 709(e)(1) of title 32.
+&emsp;(C) the position is at the same grade or equivalent level as the position from which the individual was separated under section 709(e)(1) of title 32 or section 10216 of title 10.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 572; Pub. L. 90–83, §1(76), Sept. 11, 1967, 81 Stat. 214; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–499, title IV, §403(a), Dec. 5, 1980, 94 Stat. 2605; Pub. L. 97–253, title III, §302(a), Sept. 8, 1982, 96 Stat. 792; Pub. L. 98–94, title XII, §1256(c), Sept. 24, 1983, 97 Stat. 701; Pub. L. 100–238, title I, §124(a)(1)(A), Jan. 8, 1988, 101 Stat. 1755; Pub. L. 101–189, div. A, title XIII, §1304(b)(2), Nov. 29, 1989, 103 Stat. 1577; Pub. L. 101–428, §2(d)(1), Oct. 15, 1990, 104 Stat. 929; Pub. L. 102–378, §2(61), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 105–61, title V, §516(a)(2), Oct. 10, 1997, 111 Stat. 1306.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 572; Pub. L. 90–83, §1(76), Sept. 11, 1967, 81 Stat. 214; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–499, title IV, §403(a), Dec. 5, 1980, 94 Stat. 2605; Pub. L. 97–253, title III, §302(a), Sept. 8, 1982, 96 Stat. 792; Pub. L. 98–94, title XII, §1256(c), Sept. 24, 1983, 97 Stat. 701; Pub. L. 100–238, title I, §124(a)(1)(A), Jan. 8, 1988, 101 Stat. 1755; Pub. L. 101–189, div. A, title XIII, §1304(b)(2), Nov. 29, 1989, 103 Stat. 1577; Pub. L. 101–428, §2(d)(1), Oct. 15, 1990, 104 Stat. 929; Pub. L. 102–378, §2(61), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 105–61, title V, §516(a)(2), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 106–65, div. A, title V, §522(d), Oct. 5, 1999, 113 Stat. 597.)
 
 Historical and Revision Notes<br>1966
 
@@ -102,6 +102,12 @@ This section amends 5 U.S.C. 8337(e) for consistency within the subchapter and t
 
 #### Amendments
 
+1999—Subsec. (h)(1). Pub. L. 106–65, §522(d)(1), inserted “or section 10216 of title 10” after “title 32” and substituted “title 32 or section 10216 of title 10, respectively, to be a member of the Selected Reserve.” for “such title to be a member of the National Guard and to hold a specified military grade.”
+
+Subsec. (h)(2)(A)(i). Pub. L. 106–65, §522(d)(2), inserted “or section 10216 of title 10” after “title 32” and substituted “Selected Reserve” for “National Guard or from holding the military grade required for such employment”.
+
+Subsec. (h)(3)(C). Pub. L. 106–65, §522(d)(3), inserted “or section 10216 of title 10” after “title 32”.
+
 1997—Subsec. (a). Pub. L. 105–61 substituted “(q), or (r)” for “or (q)”.
 
 1994—Subsec. (a). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
@@ -114,7 +120,7 @@ This section amends 5 U.S.C. 8337(e) for consistency within the subchapter and t
 
 1988—Subsec. (f). Pub. L. 100–238 added subsec. (f) and struck out former subsec. (f) which read as follows: “An individual is not entitled to receive an annuity under this subchapter and compensation for injury or disability to himself under subchapter I of chapter 81 of this title covering the same period of time. This provision does not bar the right of a claimant to the greater benefit conferred by either subchapter for any part of the same period of time. Neither this provision nor any provision of subchapter I of chapter 81 of this title denies to an individual an annuity accruing to him under this subchapter on account of service performed by him, or denies any concurrent benefit to him under subchapter I of chapter 81 of this title on account of the death of another individual.”
 
-Subsec. (g). Pub. L. 100–238 added subsec. (g) and struck out former subsec. (g) which read as follows: “The right of an individual entitled to an annuity under this subchapter is not affected because he has received a lump-sum payment for compensation under section 8135 of this title. However, if the annuity is payable on account of the same disability for which compensation under section 8135 of this title has been paid, so much of the compensation as has been paid for a period extended beyond the date the annuity becomes effective, as determined by the Department of Labor, shall be refunded to that Department to be covered into the Employees’ Compensation Fund. Before the individual may receive the annuity he shall—
+Subsec. (g). Pub. L. 100–238 added subsec. (g) and struck out former subsec. (g) which read as follows: “The right of an individual entitled to an annuity under this subchapter is not affected because he has received a lump-sum payment for compensation undersection 8135 of this title. However, if the annuity is payable on account of the same disability for which compensation under section 8135 of this title has been paid, so much of the compensation as has been paid for a period extended beyond the date the annuity becomes effective, as determined by the Department of Labor, shall be refunded to that Department to be covered into the Employees’ Compensation Fund. Before the individual may receive the annuity he shall—
 
 &emsp;“(1) refund to the Department of Labor the amount representing the commuted compensation payments for the extended period; or
 
@@ -124,7 +130,7 @@ Subsec. (g). Pub. L. 100–238 added subsec. (g) and struck out former subsec. (
 
 1983—Subsec. (a). Pub. L. 98–94 inserted provision that a judge of the United States Court of Military Appeals who completes 5 years of civilian service and who is found by the Office to be disabled for useful and efficient service as a judge of such court or who is removed for mental or physical disability under section 867(a)(2) of title 10 shall be retired on the judge's own application or upon such removal.
 
-1982—Subsec. (d). Pub. L. 97–253, §302(a)(1), (2), substituted “180 days” for “1 year” in provision relating torestoration of an annuitant to an earning capacity fairly comparable to the current rate of pay of the position occupied at the time of retirement, and “any calendar year” for “each of 2 succeeding calendar years”.
+1982—Subsec. (d). Pub. L. 97–253, §302(a)(1), (2), substituted “180 days” for “1 year” in provision relating to restoration of an annuitant to an earning capacity fairly comparable to the current rate of pay of the position occupied at the time of retirement, and “any calendar year” for “each of 2 succeeding calendar years”.
 
 Subsec. (h). Pub. L. 97–253, §302(a)(3), added subsec. (h).
 

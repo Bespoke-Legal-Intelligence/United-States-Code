@@ -64,5 +64,5 @@ Amendment by Pub. L. 105–336 effective Oct. 1, 1998, see section 401 of Pub. L
 
 #### Regulations
 
-Section 106(b) of Pub. L. 101–147 provided that: “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement section 17A of the National School Lunch Act \[this section\] (as added by subsection (a) of this section).”
+Section 106(b) of Pub. L. 101–147 provided that: “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement section 17A of the \[Richard B. Russell\] National School Lunch Act \[this section\] (as added by subsection (a) of this section).”
 

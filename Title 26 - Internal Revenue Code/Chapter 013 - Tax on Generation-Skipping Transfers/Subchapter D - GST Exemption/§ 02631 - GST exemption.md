@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of determining the inclusion ratio, every individual shall be allowed a GSTexemption of $1,000,000 which may be allocated by such individual (or his executor) to any property with respect to which such individual is the transferor.
+For purposes of determining the inclusion ratio, every individual shall be allowed a GST exemption of $1,000,000 which may be allocated by such individual (or his executor) to any property with respect to which such individual is the transferor.
 
 #### (b) Allocations irrevocable
 
@@ -26,9 +26,9 @@ Any allocation under subsection (a), once made, shall be irrevocable.
 
 (Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2721; amended Pub. L. 105–34, title V, §501(d), Aug. 5, 1997, 111 Stat. 846; Pub. L. 105–206, title VI, §6007(a)(1), July 22, 1998, 112 Stat. 806.)
 
-#### Adjustment of Generation-Skipping Transfer Tax Exemption for Calendar Year 1999
+#### Adjustment of Generation-Skipping Transfer Tax Exemption for Calendar Year 2000
 
-<i>For adjustment of generation-skipping transfer tax exemption under this section for calendar year 1999, see section 3.17 of Revenue Procedure 98–61, set out as a note under section 1 of this title.</i>
+<i>For adjustment of generation-skipping transfer tax exemption under this section for calendar year 2000, see section 3.18 of Revenue Procedure 99–42, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 

@@ -16,7 +16,7 @@ The Secretary shall consult with the State of Alaska on a method of prioritizing
 
 There are authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 1996 through 2002.
 
-(Pub. L. 87–128, title III, §306D, as added Pub. L. 104–127, title VII, §757, Apr. 4, 1996, 110 Stat. 1131; amended Pub. L. 105–277, div. A, title I, §101(a) \[title VII, §745\], Oct. 21, 1998, 112 Stat. 2681, 2681–32.)
+(Pub. L. 87–128, title III, §306D, as added Pub. L. 104–127, title VII, §757, Apr. 4, 1996, 110 Stat. 1131; amended Pub. L. 105–277, div. A, §101(a) \[title VII, §745\], Oct. 21, 1998, 112 Stat. 2681, 2681–32.)
 
 #### Amendments
 

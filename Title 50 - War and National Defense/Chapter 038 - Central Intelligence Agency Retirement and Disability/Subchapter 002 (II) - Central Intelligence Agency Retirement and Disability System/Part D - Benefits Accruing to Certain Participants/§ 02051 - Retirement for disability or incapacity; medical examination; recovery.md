@@ -32,7 +32,7 @@
 
 #### (2) Coordination with military retired pay and veterans’ compensation and pension
 
-&emsp;If a participant retiring under this section is receiving retired pay or retainer pay for military service (except that specified in section 2082(e)(3) of this title) or Department of Veterans Affairs compensation or pension in lieu of such retired or retainer pay, the annuity of that participant shall be computed under section 2031(a) of this title, excluding credit for such military service from that computation. If the amount of the annuity so computed, plus the retired or retainer pay which is received, or which would be received but for the application of the limitation in section 5532 of title 5, or the Department of Veterans Affairs compensation or pension in lieu of such retired or retainer pay, is less than the annuity that would be payable under this section in the absence of the previous sentence, an amount equal to the difference shall be added to the annuity payable under section 2031(a) of this title.
+&emsp;If a participant retiring under this section is receiving retired pay or retainer pay for military service (except that specified in section 2082(e)(3) of this title) or Department of Veterans Affairs compensation or pension in lieu of such retired or retainer pay, the annuity of that participant shall be computed under section 2031(a) of this title, excluding credit for such military service from that computation. If the amount of the annuity so computed, plus the retired or retainer pay which is received, or which would be received but for the application of the limitation in section 5532 <sup>1</sup> of title 5, or the Department of Veterans Affairs compensation or pension in lieu of such retired or retainer pay, is less than the annuity that would be payable under this section in the absence of the previous sentence, an amount equal to the difference shall be added to the annuity payable under section 2031(a) of this title.
 
 #### (c) Medical examinations
 
@@ -46,7 +46,7 @@
 
 #### (3) Reinstatement
 
-&emsp;Upon application, the Director may reinstate any such recovered disability annuitant in the grade held at time of retirement, or the Director may, taking into consideration the age, qualifications, and experience of such annuitant, and the present grade of the annuitant's contemporaries in the Agency, appoint the annuitant to a grade higher than the one held before retirement.
+&emsp;Upon application, the Director may reinstate any such recovered disability annuitant in the grade held at time of retirement, or the Director may, taking into consideration theage, qualifications, and experience of such annuitant, and the present grade of the annuitant's contemporaries in the Agency, appoint the annuitant to a grade higher than the one held before retirement.
 
 #### (4) Termination of disability annuity
 
@@ -116,6 +116,10 @@
 
 (Pub. L. 88–643, title II, §231, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3220; amended Pub. L. 103–178, title II, §202(a)(8), Dec. 3, 1993, 107 Stat. 2026.)
 
+#### References in Text
+
+Section 5532 of title 5, referred to in subsec. (b)(2), was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
+
 #### Prior Provisions
 
 A prior section 231 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1046; Ex. Ord. No. 12326, §2, Sept. 30, 1981, 46 F.R. 48889; Pub. L. 94–522, title II, §§205–207, Oct. 17, 1976, 90 Stat. 2470; Ex. Ord. No. 12443, §1, Sept. 27, 1983, 48 F.R. 44751; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622; Pub. L. 102–183, title III, §305, Dec. 4, 1991, 105 Stat. 1265, related to retirement for disability or incapacity, medical examination, and recovery and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
@@ -131,4 +135,6 @@ Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 403s, 2031, 2093, 2111, 2143 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,7 @@
 
 #### (2) Production operations
 
-&emsp;(A) Any person establishing a distilled spirits plant may, as described in his applicationfor registration, produce distilled spirits from any source or substance.
+&emsp;(A) Any person establishing a distilled spirits plant may, as described in his application for registration, produce distilled spirits from any source or substance.
 
 &emsp;(B) The distilling system shall be continuous and shall be so designed and constructed and so connected as to prevent the unauthorized removal of distilled spirits before their production gauge.
 

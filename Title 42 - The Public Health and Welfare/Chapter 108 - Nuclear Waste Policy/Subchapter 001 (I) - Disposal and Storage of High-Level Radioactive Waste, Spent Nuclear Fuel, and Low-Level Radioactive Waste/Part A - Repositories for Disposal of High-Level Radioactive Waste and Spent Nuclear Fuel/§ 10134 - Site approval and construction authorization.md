@@ -24,13 +24,13 @@
 
 (B) The President shall submit with such recommendation a copy of the statement for such site prepared by the Secretary under paragraph (1).
 
-(3)(A) The President may not recommend the approval of the Yucca Mountain site unless theSecretary has recommended to the President under paragraph (1) approval of such site and has submitted to the President a statement for such site as required under such paragraph.
+(3)(A) The President may not recommend the approval of the Yucca Mountain site unless the Secretary has recommended to the President under paragraph (1) approval of such site and has submitted to the President a statement for such site as required under such paragraph.
 
 (B) No recommendation of a site by the President under this subsection shall require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)), or to <sup>1</sup> require any environmental review under subparagraph (E) or (F) of section 102(2) of such Act.
 
 #### (b) Submission of application
 
-If the President recommends to the Congress the Yucca Mountain site under subsection (a) of this section and the site designation is permitted to take effect under section 10135 of this title, the Secretary shall submit to the Commission an application for a construction authorization for a repository at such site not later than 90 days after the date on which the recommendation of the site designation is effective under such section and shall provide to the Governor and legislature of the State of Nevada a copy of such application.
+If the President recommends to the Congress the Yucca Mountain site under subsection (a) of this section and the site designation is permitted to take effect under section 10135 of this title, the Secretary shall submit to the Commission an application for a construction authorization for a repository at such site not later than90 days after the date on which the recommendation of the site designation is effective under such section and shall provide to the Governor and legislature of the State of Nevada a copy of such application.
 
 #### (c) Status report on application
 

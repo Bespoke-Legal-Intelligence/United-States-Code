@@ -22,7 +22,7 @@ To be eligible to receive a grant under subsection (a) of this section, an entit
 
 &emsp;A revolving loan fund established or maintained with amounts received under this section may be utilized to provide financial and technical assistance, loans, loan guarantees or investments to private business enterprises to—
 
-&emsp;&emsp;(A) finance projects intended to provide business and employment opportunities for low-income individuals and to improve the quality of life in urban and rural areas; and
+&emsp;&emsp;(A) finance projects intended to provide business and employment opportunities forlow-income individuals and to improve the quality of life in urban and rural areas; and
 
 &emsp;&emsp;(B) build and expand the capacity of emerging community development corporations and serve the economic needs of local residents.
 

@@ -70,7 +70,7 @@ For the purpose of subsection (a)(3) of this section, the term “separate and i
 
 &emsp;(1) the members of the postsecondary education governing body of the accrediting agency or association are not elected or selected by the board or chief executive officer of any related, associated, or affiliated trade association or membership organization;
 
-&emsp;(2) among the membership of the board of the accrediting agency or association there shall be one public member (who is not a member of any related trade or membership organization) for each six members of the board, with a minimum of one such public member, and guidelines are established for such members to avoid conflicts of interest;
+&emsp;(2) among the membership of the board of the accrediting agency or association there shall be one public member (who is not a member of any related trade or membership organization) for each six members of the board,with a minimum of one such public member, and guidelines are established for such members to avoid conflicts of interest;
 
 &emsp;(3) dues to the accrediting agency or association are paid separately from any dues paid to any related, associated, or affiliated trade association or membership organization; and
 
@@ -102,7 +102,7 @@ The Secretary may not recognize the accreditation of any institution of higher e
 
 #### (f) Jurisdiction
 
-Notwithstanding any other provision of law, any civil action brought by an institution ofhigher education seeking accreditation from, or accredited by, an accrediting agency or association recognized by the Secretary for the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42 and involving the denial, withdrawal, or termination of accreditation of the institution of higher education, shall be brought in the appropriate United States district court.
+Notwithstanding any other provision of law, any civil action brought by an institution of higher education seeking accreditation from, or accredited by, an accrediting agency or association recognized by the Secretary for the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42 and involving the denial, withdrawal, or termination of accreditation of the institution of higher education, shall be brought in the appropriate United States district court.
 
 #### (g) Limitation on scope of criteria
 
@@ -128,7 +128,7 @@ An institution may not be certified or recertified as an institution of higher e
 
 #### (k) Religious institution rule
 
-Notwithstanding subsection (j) of this section, the Secretary shall allow an institution that has had its accreditation withdrawn, revoked, or otherwise terminated, or has voluntarily withdrawn from an accreditation agency, to remain certified as an institution of higher education under section 1002 of this title and subpart 3 of this part for a period sufficient to allow such institution to obtain alternative accreditation, if the Secretary determines that the reason for the withdrawal, revocation, or termination—
+Notwithstanding subsection (j) of this section, the Secretary shall allow an institution that hashad its accreditation withdrawn, revoked, or otherwise terminated, or has voluntarily withdrawn from an accreditation agency, to remain certified as an institution of higher education under section 1002 of this title and subpart 3 of this part for a period sufficient to allow such institution to obtain alternative accreditation, if the Secretary determines that the reason for the withdrawal, revocation, or termination—
 
 &emsp;(1) is related to the religious mission or affiliation of the institution; and
 
@@ -154,7 +154,7 @@ The Secretary may only recognize accrediting agencies or associations which accr
 
 #### (n) Independent evaluation
 
-(1) The Secretary shall conduct a comprehensive review and evaluation of the performance ofall accrediting agencies or associations which seek recognition by the Secretary in order to determine whether such accrediting agencies or associations meet the criteria established by this section. The Secretary shall conduct an independent evaluation of the information provided by such agency or association. Such evaluation shall include—
+(1) The Secretary shall conduct a comprehensive review and evaluation of the performance of all accrediting agencies or associations which seek recognition by the Secretary in order to determine whether such accrediting agencies or associations meet the criteria established by this section. The Secretary shall conduct an independent evaluation of the information provided by such agency or association. Such evaluation shall include—
 
 &emsp;(A) the solicitation of third-party information concerning the performance of the accrediting agency or association; and
 
@@ -248,7 +248,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date
 

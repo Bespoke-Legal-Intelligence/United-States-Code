@@ -10,11 +10,11 @@
 
 &emsp;(B) are based upon the Administrator's total system costs, and
 
-&emsp;(C) insofar as transmission rates are concerned, equitably allocate the costs of the Federal transmission system between Federal and non-Federal power utilizing such system.
+&emsp;(C) insofar as transmission rates are concerned, equitably allocate the costs of theFederal transmission system between Federal and non-Federal power utilizing such system.
 
 #### (b) General application of rates to meet general requirements
 
-(1) The Administrator shall establish a rate or rates of general application for electric power sold to meet the general requirements of public body, cooperative, and Federal agency customers within the Pacific Northwest, and loads of electric utilities under section 839c(c) of this title. Such rate or rates shall recover the costs of that portion of the Federal base system resources needed to supply such loads until such sales exceed the Federal base system resources. Thereafter, such rate or rates shall recover the cost of additional electric power as needed to supply such loads, first from the electric poweracquired by the Administrator under section 839c(c) of this title and then from other resources.
+(1) The Administrator shall establish a rate or rates of general application for electric power sold to meet the general requirements of public body, cooperative, and Federal agency customers within the Pacific Northwest, and loads of electric utilities under section 839c(c) of this title. Such rate or rates shall recover the costs of that portion of the Federal base system resources needed to supply such loads until such sales exceed the Federal base system resources. Thereafter, such rate or rates shall recover the cost of additional electric power as needed to supply such loads, first from the electric power acquired by the Administrator under section 839c(c) of this title and then from other resources.
 
 (2) After July 1, 1985, the projected amounts to be charged for firm power for the combined general requirements of public body, cooperative and Federal agency customers, exclusive of amounts charged such customers under subsection (g) of this section for the costs of conservation, resource and conservation credits, experimental resources and uncontrollable events, may not exceed in total, as determined by the Administrator, during any year after July 1, 1985, plus the ensuing four years, an amount equal to the power costs for general requirements of such customer if, the Administrator assumes that—
 
@@ -60,7 +60,7 @@
 
 &emsp;(A) for the period prior to July 1, 1985, at a level which the Administrator estimates will be sufficient to recover the cost of resources the Administrator determines are required to serve such customers’ load and the net costs incurred by the Administrator pursuant to section 839c(c) of this title, based upon the Administrator's projected ability to make power available to such customers pursuant to their contracts, to the extent that such costs are not recovered through rates applicable to other customers; and
 
-&emsp;(B) for the period beginning July 1, 1985, at a level which the Administrator determines to be equitable in relation to the retail rates charged by the public body and cooperative customers to their industrial consumers in the region.
+&emsp;(B) for the period beginning July 1, 1985, at a level which the Administrator determines tobe equitable in relation to the retail rates charged by the public body and cooperative customers to their industrial consumers in the region.
 
 (2) The determination under paragraph (1)(B) of this subsection shall be based upon the Administrator's applicable wholesale rates to such public body and cooperative customers and the typical margins included by such public body and cooperative customers in their retail industrial rates but shall take into account—
 
@@ -148,7 +148,11 @@ In order to further the purposes of this chapter and to protect the consumers of
 
 (4) No payment may be made under this subsection with respect to any land or interests in land owned by the United States within the region and administered by any Federal agency (other than the Administrator), without regard to how the United States obtained ownership thereof, including lands or interests therein acquired or withdrawn by a Federal agency for purposes of such agency and subsequently made available to the Administrator for such facilities.
 
-(Pub. L. 96–501, §7, Dec. 5, 1980, 94 Stat. 2723.)
+#### (n) Limiting the inclusion of costs of protection of, mitigation of damage to, and enhancement of fish and wildlife, within rates charged by the Bonneville Power Administration, to the rate period in which the costs are incurred
+
+Notwithstanding any other provision of this section, rates established by the Administrator, under this section shall recover costs for protection, mitigation and enhancement of fish and wildlife, whether under this chapter or any other Act, not to exceed such amounts the Administrator forecasts will be expended during the fiscal year 2002–2006 rate period, while preserving the Administrator's ability to establish appropriate reserves and maintain a high Treasury payment probability for the subsequent rate period.
+
+(Pub. L. 96–501, §7, Dec. 5, 1980, 94 Stat. 2723; Pub. L. 106–60, title III, §316, Sept. 29, 1999, 113 Stat. 497.)
 
 #### References in Text
 
@@ -159,6 +163,10 @@ The Flood Control Act of 1944, referred to in subsec. (k), is act Dec. 22, 1944,
 The Federal Columbia River Transmission System Act, referred to in subsec. (k), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, as amended, which is classified generally to chapter 12G (§838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
 
 The Federal Power Act, referred to in subsec. (k), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
+
+#### Amendments
+
+1999—Subsec. (n). Pub. L. 106–60 added subsec. (n).
 
 #### Section Referred to in Other Sections
 

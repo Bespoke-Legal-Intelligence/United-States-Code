@@ -60,5 +60,7 @@ Oct. 26, 1992, Pub. L. 102–522, title II, §§205, 206, 106 Stat. 3419.
 
 36:5205.
 
+&nbsp;
+
 In subsection (b), the words “chapters 33 and 51 and subchapter III of chapter 53 of title 5 and related regulations” are substituted for “the Federal civil service classification laws, rules, or regulations” for consistency in the revised title and with other titles of the United States Code.
 

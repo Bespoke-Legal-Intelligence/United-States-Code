@@ -18,9 +18,9 @@ The congressional committees referred to in subsection (a) of this section are t
 
 &emsp;(1) The Committee on Armed Services, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate.
 
-&emsp;(2) The Committee on National Security, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.
+&emsp;(2) The Committee on Armed Services, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-(Pub. L. 101–510, div. A, title XIV, §1403, Nov. 5, 1990, 104 Stat. 1675; Pub. L. 104–106, div. A, title XV, §1502(c)(4)(B), Feb. 10, 1996, 110 Stat. 507.)
+(Pub. L. 101–510, div. A, title XIV, §1403, Nov. 5, 1990, 104 Stat. 1675; Pub. L. 104–106, div. A, title XV, §1502(c)(4)(B), Feb. 10, 1996, 110 Stat. 507; Pub. L. 106–65, div. A, title X, §1067(10), Oct. 5, 1999, 113 Stat. 774.)
 
 #### References in Text
 
@@ -32,13 +32,11 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
+1999—Subsec. (d)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+
 1996—Subsec. (a). Pub. L. 104–106, §1502(c)(4)(B)(i), substituted “the congressional committees specified in subsection (d) of this section each year” for “the Committees on Armed Services and Appropriations of the Senate and the House of Representatives and the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives each year”.
 
 Subsec. (d). Pub. L. 104–106, §1502(c)(4)(B)(ii), added subsec. (d).
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

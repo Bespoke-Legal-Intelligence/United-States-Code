@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1087ee, 1087ii, 1401, 1413, 5861, 5891, 6212, 6661d, 6661e, 6661g, 6671, 6702, 7264, 7472, 7545, 7546, 7575, 7814, 8621, 8622, 8651, 8801, 8821, 8824, 8941 of this title; title 8 section 1255a; title 10 sections 1151, 1598, 2410; title 25 sections 2503, 2504; title 29 sections 777b, 1643; title 42 sections 9855d, 11432, 11433, 12524.
+This subchapter is referred to in sections 1087ee, 1087ii, 1401, 1413, 5861, 5891b, 6212, 6661d, 6661e, 6661g, 6671, 6702, 7264, 7472, 7545, 7546, 7575, 7814, 8621, 8622, 8651, 8801, 8821, 8824, 8941, 9252, 9302 of this title; title 8 section 1255a; title 10 sections 1598, 2410; title 25 sections 2503, 2504; title 29 sections 774, 1643; title 42 sections 9837a, 11432, 11433, 12524.
 
 
 ---

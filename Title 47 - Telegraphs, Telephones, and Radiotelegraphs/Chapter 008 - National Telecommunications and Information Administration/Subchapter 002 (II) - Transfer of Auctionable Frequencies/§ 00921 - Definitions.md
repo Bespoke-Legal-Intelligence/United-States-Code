@@ -14,3 +14,67 @@ As used in this subchapter:
 
 The Communications Act of 1934, referred to in par. (3), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of this title. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
+#### Surrender of Department of Defense Spectrum
+
+Pub. L. 106–65, div. A, title X, §1062(b), Oct. 5, 1999, 113 Stat. 768, provided that:
+
+“(1)
+
+In general.—If, in order to make available for other use a band of frequencies of which it is a primary user, the Department of Defense is required to surrender use of such band of frequencies, the Department shall not surrender use of such band of frequencies until—
+
+&emsp;“(A) the National Telecommunications and Information Administration, in consultation with the Federal Communications Commission, identifies and makes available to the Department for its primary use, if necessary, an alternative band or bands of frequencies as a replacement for the band to be so surrendered; and
+
+&emsp;“(B) the Secretary of Commerce, the Secretary of Defense, and the Chairman of the Joint Chiefs of Staff jointly certify to the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Armed Services and the Committee on Commerce of the House of Representatives, that such alternative band or bands provides comparable technical characteristics to restore essential military capability that will be lost as a result of the band of frequencies to be so surrendered.
+
+“(2)
+
+Exception.—Paragraph (1) shall not apply to a band of frequencies that has been identified for reallocation in accordance with title VI of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66; 107 Stat. 379) \[enacting sections 159 and 921 to 927 of this title and amending sections 152, 153, 156, 158, 309, 332, and 903 of this title\] and title III of the Balanced Budget Act of 1997 (Public Law 105–33, 111 Stat. 258) \[enacting section 337 of this title, amending sections 153, 303, 309, and 923 to 925 of this title, and repealing provisions set out as a note under section 309 of this title\], other than a band of frequencies that is reclaimed pursuant to subsection (c) \[amending section 923 of this title and enacting provisions set out as a note below\].”
+
+#### Reassignment to Federal Government for Use by Department of Defense of Certain Frequency Spectrum Recommended for Reallocation
+
+Pub. L. 106–65, div. A, title X, §1062(c)(1), Oct. 5, 1999, 113 Stat. 768, provided that: “Notwithstanding any provision of the National Telecommunications and Information Administration Organization Act \[47 U.S.C. 901 et seq.\] or the Balanced Budget Act of 1997 \[Pub. L. 105–33, see Tables for classification\], the President shall reclaim for exclusive Federal Government use on a primary basis by the Department of Defense—
+
+&emsp;“(A) the bands of frequencies aggregating 3 megahertz located between 138 and 144 megahertz that were recommended for reallocation in the second reallocation report under section 113(a) of that Act \[probably means 47 U.S.C. 923(a)\]; and
+
+&emsp;“(B) the band of frequency aggregating 5 megahertz located between 1385 megahertz and 1390 megahertz, inclusive, that was so recommended for reallocation.”
+
+#### Assessment of Electromagnetic Spectrum Reallocation
+
+Pub. L. 102–538, title I, §156, as added by Pub. L. 106–65, div. A, title X, §1062(a), Oct. 5, 1999, 113 Stat. 767, provided that:
+
+“(a)
+
+Review and Assessment of Electromagnetic Spectrum Reallocation.—
+
+&emsp;“(1)
+
+Review and assessment required.—The Secretary of Commerce, acting through the Assistant Secretary and in coordination with the Chairman of the Federal Communications Commission, shall convene an interagency review and assessment of—
+
+&emsp;&emsp;“(A) the progress made in implementation of national spectrum planning;
+
+&emsp;&emsp;“(B) the reallocation of Federal Government spectrum to non-Federal use, in accordance with the amendments made by title VI of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66; 107 Stat. 379) \[enacting sections 159 and 921 to 927 of this title and amending sections 152, 153, 156, 158, 309, 332, and 903 of this title\] and title III of the Balanced Budget Act of 1997 (Public Law 105–33; 111 Stat. 258) \[enacting section 337 of this title, amending sections 153, 303, 309, and 923 to 925 of this title, and repealing provisions set out as a note under section 309 of this title\]; and
+
+&emsp;&emsp;“(C) the implications for such reallocations to the affected Federal executive agencies.
+
+&emsp;“(2)
+
+Coordination.—The assessment shall be conducted in coordination with affected Federal executive agencies through the Interdepartmental Radio Advisory Committee.
+
+&emsp;“(3)
+
+Cooperation and assistance.—Affected Federal executive agencies shall cooperate with the Assistant Secretary in the conduct of the review and assessment and furnish the Assistant Secretary with such information, support, and assistance, not inconsistent with law, as the Assistant Secretary may consider necessary in the performance of the review and assessment.
+
+&emsp;“(4)
+
+Attention to particular subjects required.—In the conduct of the review and assessment, particular attention shall be given to—
+
+&emsp;&emsp;“(A) the effect on critical military and intelligence capabilities, civil space programs, and other Federal Government systems used to protect public safety of the reallocated spectrum described in paragraph (1)(B) of this subsection;
+
+&emsp;&emsp;“(B) the anticipated impact on critical military and intelligence capabilities, future military and intelligence operational requirements, national defense modernization programs, and civil space programs, and other Federal Government systems used to protect public safety, of future potential reallocations to non-Federal use of bands of the electromagnetic spectrum that are currently allocated for use by the Federal Government; and
+
+&emsp;&emsp;“(C) future spectrum requirements of agencies in the Federal Government.
+
+“(b)
+
+Submission of Report.—The Secretary of Commerce, in coordination with the heads of the affected Federal executive agencies, and the Chairman of the Federal Communications Commission shall submit to the President, the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Armed Services, the Committee on Commerce, and the Committee on Science of the House of Representatives, not later than October 1, 2000, a report providing the results of the assessment required by subsection (a).”
+

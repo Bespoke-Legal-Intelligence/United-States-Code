@@ -18,5 +18,5 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 

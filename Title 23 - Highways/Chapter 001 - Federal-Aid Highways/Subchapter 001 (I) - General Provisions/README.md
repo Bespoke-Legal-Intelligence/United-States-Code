@@ -6,8 +6,6 @@
 
 <i><sup>1</sup></i><i> So in original. Does not conform to chapter heading.</i>
 
-<i><sup>1</sup></i><i> So in original. Two sections 110 have been enacted.</i>
-
 
 ---
 
@@ -22,8 +20,7 @@
 - [&sect; 00107 - Acquisition of rights-of-way&#8212;Interstate System](%C2%A7%2000107%20-%20Acquisition%20of%20rights-of-way%E2%80%94Interstate%20System.md)
 - [&sect; 00108 - Advance acquisition of real property](%C2%A7%2000108%20-%20Advance%20acquisition%20of%20real%20property.md)
 - [&sect; 00109 - Standards](%C2%A7%2000109%20-%20Standards.md)
-- [&sect; 00110 - 1 Uniform transferability of Federal-aid highway funds](%C2%A7%2000110%20-%201%20Uniform%20transferability%20of%20Federal-aid%20highway%20funds.md)
-- [&sect; 00110 - 1 Revenue aligned budget authority](%C2%A7%2000110%20-%201%20Revenue%20aligned%20budget%20authority.md)
+- [&sect; 00110 - Revenue aligned budget authority](%C2%A7%2000110%20-%20Revenue%20aligned%20budget%20authority.md)
 - [&sect; 00111 - Agreements relating to use of and access to rights-of-way&#8212;Interstate System](%C2%A7%2000111%20-%20Agreements%20relating%20to%20use%20of%20and%20access%20to%20rights-of-way%E2%80%94Interstate%20System.md)
 - [&sect; 00112 - Letting of contracts](%C2%A7%2000112%20-%20Letting%20of%20contracts.md)
 - [&sect; 00113 - Prevailing rate of wage](%C2%A7%2000113%20-%20Prevailing%20rate%20of%20wage.md)
@@ -39,7 +36,7 @@
 - [&sect; 00123 - Relocation of utility facilities](%C2%A7%2000123%20-%20Relocation%20of%20utility%20facilities.md)
 - [&sect; 00124 - Advances to States](%C2%A7%2000124%20-%20Advances%20to%20States.md)
 - [&sect; 00125 - Emergency relief](%C2%A7%2000125%20-%20Emergency%20relief.md)
-- [&sect; 00126 - Repealed. Pub. L. 105&#8211;178, title I, &sect;1226(d), as added by Pub. L. 105&#8211;206, title IX, &sect;9003(a), July 22, 1998, 112 Stat. 837](%C2%A7%2000126%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93178%2C%20title%20I%2C%20%C2%A71226%28d%29%2C%20as%20added%20by%20Pub.%20L.%20105%E2%80%93206%2C%20title%20IX%2C%20%C2%A79003%28a%29%2C%20July%2022%2C%201998%2C%20112%20Stat.%20837.md)
+- [&sect; 00126 - Uniform transferability of Federal-aid highway funds](%C2%A7%2000126%20-%20Uniform%20transferability%20of%20Federal-aid%20highway%20funds.md)
 - [&sect; 00127 - Vehicle weight limitations&#8212;Interstate System](%C2%A7%2000127%20-%20Vehicle%20weight%20limitations%E2%80%94Interstate%20System.md)
 - [&sect; 00128 - Public hearings](%C2%A7%2000128%20-%20Public%20hearings.md)
 - [&sect; 00129 - Toll roads, bridges, tunnels, and ferries](%C2%A7%2000129%20-%20Toll%20roads%2C%20bridges%2C%20tunnels%2C%20and%20ferries.md)

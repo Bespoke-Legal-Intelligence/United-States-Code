@@ -34,7 +34,7 @@ The Attorney General, in consultation with the Secretary of State, shall designa
 
 #### (2) FERPA
 
-&emsp;The Family Educational Rights and Privacy Act of 1974 \[20 U.S.C. 1232g\] shall not apply to aliens described in subsection (a) of this section to the extent that the Attorney Generaldetermines necessary to carry out the program under subsection (a) of this section.
+&emsp;The Family Educational Rights and Privacy Act of 1974 \[20 U.S.C. 1232g\] shall not apply to aliens described in subsection (a) of this section to the extent that the Attorney General determines necessary to carry out the program under subsection (a) of this section.
 
 #### (3) Electronic collection
 
@@ -137,4 +137,8 @@ The Family Educational Rights and Privacy Act of 1974, referred to in subsec. (c
 #### Codification
 
 Section was enacted as part of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, and also as part of the Omnibus Consolidated Appropriations Act, 1997, and not as part of the Immigration and Nationality Act which comprises this chapter.
+
+#### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22, Foreign Relations and Intercourse.
 

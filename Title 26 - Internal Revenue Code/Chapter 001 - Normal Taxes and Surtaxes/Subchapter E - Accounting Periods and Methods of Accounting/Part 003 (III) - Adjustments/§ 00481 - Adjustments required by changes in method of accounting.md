@@ -24,7 +24,7 @@ In computing the taxpayer's taxable income for any taxable year (referred to in 
 
 &emsp;If—
 
-&emsp;&emsp;(A) the increase in taxable income for the year of the change which results solely by reason of the adjustments required by subsection (a)(2) exceeds $3,000, and
+&emsp;&emsp;(A) the increase in taxable income for the year of the change which results solely byreason of the adjustments required by subsection (a)(2) exceeds $3,000, and
 
 &emsp;&emsp;(B) the taxpayer establishes his taxable income (under the new method of accounting) for one or more taxable years consecutively preceding the taxable year of the change for which the taxpayer in computing taxable income used the method of accounting from which the change is made,
 
@@ -90,11 +90,11 @@ Section 29(d) of Pub. L. 85–866, as amended by Pub. L. 99–514, §2, Oct. 22,
 
 “(1)
 
-In general.—The amendments made by this section \[amending this section and section 381 of this title\] shall apply with respect to any change in a method of accounting where the year of the change (within the meaning of section 481 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) is a taxable year beginning after December 31, 1953, and ending after August 16, 1954.
+In general.—The amendments made by this section \[amending this section and section 381 of this title\]shall apply with respect to any change in a method of accounting where the year of the change (within the meaning of section 481 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) is a taxable year beginning after December 31, 1953, and ending after August 16, 1954.
 
 “(2)
 
-Exception for certain agreements.—The amendments made by subsections (a), (b)(I), and (c) \[amending this section and section 381 of this title\]shall not apply if before the date of the enactment of this Act \[Sept. 2, 1958\]—
+Exception for certain agreements.—The amendments made by subsections (a), (b)(I), and (c) \[amending this section and section 381 of this title\] shall not apply if before the date of the enactment of this Act \[Sept. 2, 1958\]—
 
 &emsp;“(A) the taxpayer applied for a change in the method of accounting in the manner provided by regulations prescribed by the Secretary of the Treasury or his delegate, and
 

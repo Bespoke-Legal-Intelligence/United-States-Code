@@ -88,7 +88,7 @@ Regulations for transfer of proceedings.—The Director may prescribe regulation
 
 “(c)
 
-Standards and Guidelines for Federal Computer Systems.—Standards and guidelines that are in effect for Federal computer systems under section111(d) of the Federal Property and Administrative Services Act of 1949 (\[former\] 40 U.S.C. 759(d)) on the day before the effective date of this division shall remain in effect until modified, terminated, superseded, revoked, or disapproved under the authority of section 5131 of this Act \[40 U.S.C. 1441\].”
+Standards and Guidelines for Federal Computer Systems.—Standards and guidelines that are in effect for Federal computer systems under section 111(d) of the Federal Property and Administrative Services Act of 1949 (\[former\] 40 U.S.C. 759(d)) on the day before the effective date of this division shall remain in effect until modified, terminated, superseded, revoked, or disapproved under the authority of section 5131 of this Act \[40 U.S.C. 1441\].”
 
 #### Rules of Construction
 
@@ -302,7 +302,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13103, Sept. 30, 1998, 63 F.R. 53273, provided:
 
-The United States Government is the world's largest purchaser of computer-related services and equipment, purchasing more than $20 billion annually. At a time when a critical component in discussions with our international trading partners concerns their efforts to combat piracy of computer software and other intellectual property, it is incumbent on the United States to ensure that its own practices as a purchaser and user of computer software are beyond reproach. Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+The United States Government is the world's largest purchaser of computer-related services and equipment, purchasing more than $20 billion annually. At a time when a critical component in discussions with our international trading partners concerns their efforts tocombat piracy of computer software and other intellectual property, it is incumbent on the United States to ensure that its own practices as a purchaser and user of computer software are beyond reproach. Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. It shall be the policy of the United States Government that each executive agency shall work diligently to prevent and combat computer software piracy in order to give effect to copyrights associated with computer software by observing the relevant provisions of international agreements in effect in the United States, including applicable provisions of the World Trade Organization Agreement on Trade-Related Aspects of Intellectual Property Rights, the Berne Convention for the Protection of Literary and Artistic Works, and relevant provisions of Federal law, including the Copyright Act.
 
@@ -316,7 +316,7 @@ Section 1. <i>Policy</i>. It shall be the policy of the United States Government
 
 (3) developing and maintaining adequate recordkeeping systems.
 
-(c) Contractors and recipients of Federal financial assistance, including recipients of grants and loan guarantee assistance, should have appropriate systems and controls in place to ensure that Federal funds are not used to acquire, operate, or maintain computer software in violation of applicable copyright laws. If agencies become aware that contractors or recipients are using Federal funds to acquire, operate, or maintain computer software in violation of copyright laws anddetermine that such actions of the contractors or recipients may affect the integrity of the agency's contracting and Federal financial assistance processes, agencies shall take such measures, including the use of certifications or written assurances, as the agency head deems appropriate and consistent with the requirements of law.
+(c) Contractors and recipients of Federal financial assistance, including recipients of grants and loan guarantee assistance, should have appropriate systems and controls in place to ensure that Federal funds are not used to acquire, operate, or maintain computer software in violation of applicable copyright laws. If agencies become aware that contractors or recipients are using Federal funds to acquire, operate, or maintain computer software in violation of copyright laws and determine that such actions of the contractors or recipients may affect the integrity of the agency's contracting and Federal financial assistance processes, agencies shall take such measures, including the use of certifications or written assurances, as the agency head deems appropriate and consistent with the requirements of law.
 
 (d) Executive agencies shall cooperate fully in implementing this order and shall share information as appropriate that may be useful in combating the use of computer software in violation of applicable copyright laws.
 

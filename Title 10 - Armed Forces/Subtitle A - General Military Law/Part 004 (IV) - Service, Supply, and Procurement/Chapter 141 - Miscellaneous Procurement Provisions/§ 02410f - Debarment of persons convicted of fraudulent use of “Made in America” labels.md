@@ -1,6 +1,6 @@
 ### §2410f. Debarment of persons convicted of fraudulent use of “Made in America” labels
 
-(a) If the Secretary of Defense determines that a person has been convicted of intentionally affixing a label bearing a “Made in America” inscription to any product sold in or shipped to the United States that is not made in America, the Secretary shall determine, not later than 90 days after determining that the person has beenso convicted, whether the person should be debarred from contracting with the Department of Defense.
+(a) If the Secretary of Defense determines that a person has been convicted of intentionally affixing a label bearing a “Made in America” inscription to any product sold in or shipped to the United States that is not made in America, the Secretary shall determine, not later than 90 days after determining that the person has been so convicted, whether the person should be debarred from contracting with the Department of Defense.
 
 (b) In this section, the term “debar” has the meaning given that term by section 2393(c) of this title.
 
@@ -18,5 +18,9 @@ Section 834(b) of Pub. L. 102–484 provided that: “Section 2410f of title 10,
 
 #### Prohibition of Contracts
 
-Pub. L. 103–160, div. A, title VIII, §849(b), Nov. 30, 1993, 107 Stat. 1725, provided that: “If the Secretary of Defense determines that a person has been convicted of intentionally affixing a label bearing a ‘Made in America’ inscription to any product sold in or shipped to the United States that is not made in America, the Secretary shall determine, in accordance with section 2410f of title 10, United States Code, whether the person should be debarred from contracting with the Department of Defense.”
+Pub. L. 106–65, div. A, title VIII, §816(b), Oct. 5, 1999, 113 Stat. 712, provided that: “If the Secretary of Defense determines that a person has been convicted of intentionally affixing a label bearing a ‘Made in America’ inscription, or another inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, the Secretary shall determine, in accordance with section 2410f of title 10, United States Code, whether the person should be debarred from contracting with the Department of Defense.”
+
+Similar provisions were contained in the following prior authorization act:
+
+Pub. L. 103–160, div. A, title VIII, §849(b), Nov. 30, 1993, 107 Stat. 1725.
 

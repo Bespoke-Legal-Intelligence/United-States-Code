@@ -6,5 +6,5 @@ If any person or persons violate the provisions of section 16 of this title, eit
 
 #### Federal Rules of Criminal Procedure
 
-Special venue provisions of section as not affected by rule 18, see Notes of Advisory Committee on Rules set out under rule 18, Title 18, Appendix, Crimes and Criminal Procedure.
+Special venue provisions of section as not affected by rule 18, see Notes of Advisory Committee on Rules setout under rule 18, Title 18, Appendix, Crimes and Criminal Procedure.
 

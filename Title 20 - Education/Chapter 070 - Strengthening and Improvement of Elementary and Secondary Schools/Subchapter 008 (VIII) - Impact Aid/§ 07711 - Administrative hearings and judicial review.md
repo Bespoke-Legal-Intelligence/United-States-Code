@@ -2,7 +2,7 @@
 
 #### (a) Administrative hearings
 
-A local educational agency and a State that is adversely affected by any action of the Secretary under this subchapter or under the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994) shall be entitled to a hearing on such action in the same manner as if such agency were a person under chapter 5 of title 5.
+A local educational agency and a State that is adversely affected by any action of the Secretary under this subchapter or under the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994) shall be entitled to ahearing on such action in the same manner as if such agency were a person under chapter 5 of title 5.
 
 #### (b) Judicial review of secretarial action
 

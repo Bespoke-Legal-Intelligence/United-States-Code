@@ -32,7 +32,7 @@
 
 (4) Subject to the direction and control of the Director of Central Intelligence, the Council may carry out its responsibilities under this subsection by contract, including contracts for substantive experts necessary to assist the Council with particular assessments under this subsection.
 
-(5) The Director shall make available to the Council such staff as may be necessary to permit the Council to carry out its responsibilities under this subsection and shall take appropriatemeasures to ensure that the Council and its staff satisfy the needs of policymaking officials and other consumers of intelligence. The Council shall also be readily accessible to policymaking officials and other appropriate individuals not otherwise associated with the intelligence community.
+(5) The Director shall make available to the Council such staff as may be necessary to permit the Council to carry out its responsibilities under this subsection and shall take appropriate measures to ensure that the Council and its staff satisfy the needs of policymaking officials and other consumers of intelligence. The Council shall also be readily accessible to policymaking officials and other appropriate individuals not otherwise associated with the intelligence community.
 
 (6) The heads of elements within the intelligence community shall, as appropriate, furnish such support to the Council, including the preparation of intelligence analyses, as may be required by the Director.
 
@@ -118,7 +118,7 @@ Guidelines.—
 
 &emsp;“(1)
 
-Issuance.—Not later than 180 days after the date of enactment of this Act, the Director shall issue guidelines to ensure the use of uniform spelling of foreign names and places and the uniform use of geographic coordinates for such places. The guidelines shall apply to all intelligence reports, intelligence products, and intelligence databases prepared and utilized by the elements of the intelligence community.
+Issuance.—Not later than 180 days after the date of enactment of this Act, the Director shallissue guidelines to ensure the use of uniform spelling of foreign names and places and the uniform use of geographic coordinates for such places. The guidelines shall apply to all intelligence reports, intelligence products, and intelligence databases prepared and utilized by the elements of the intelligence community.
 
 &emsp;“(2)
 

@@ -38,13 +38,19 @@ Aug. 6, 1956, ch. 976, §§9, 10, 12, 70 Stat. 1055.
 
 36:700.
 
+&nbsp;
+
 31106(c)
 
 36:699(a).
 
+&nbsp;
+
 31106(d)
 
 36:699(b).
+
+&nbsp;
 
 In subsection (a), the words “any shares of” are omitted as unnecessary.
 

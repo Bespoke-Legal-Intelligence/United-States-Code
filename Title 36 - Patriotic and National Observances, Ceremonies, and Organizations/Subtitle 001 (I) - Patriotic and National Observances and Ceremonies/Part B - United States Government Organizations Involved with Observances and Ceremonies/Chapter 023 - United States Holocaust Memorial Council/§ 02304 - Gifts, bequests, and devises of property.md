@@ -30,5 +30,7 @@ Oct. 7, 1980, Pub. L. 96–388, §7, 94 Stat. 1549; Dec. 19, 1985, Pub. L. 99–
 
 36:1407 (last sentence).
 
+&nbsp;
+
 In subsection (a), the word “own” is substituted for “hold” for consistency in the revised title. The words “both real and personal” are omitted as unnecessary. The words “Property may be accepted pursuant to this section” and “to be regarded as” are omitted as unnecessary.
 

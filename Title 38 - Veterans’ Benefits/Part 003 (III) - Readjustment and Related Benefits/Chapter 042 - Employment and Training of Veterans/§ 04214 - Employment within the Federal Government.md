@@ -42,7 +42,7 @@
 
 (C) The limitations of subparagraphs (A) and (B) of this paragraph shall not apply to a veteran who has a service-connected disability rated at 30 percent or more.
 
-(D) For purposes of clause (i) of subparagraphs (A) and (B) of this paragraph, the last discharge or release from active duty shall not include any discharge or release from active duty of less than ninety days of continuous service unless the individual involved is discharged or released for a service-connected disability, for a medical condition which preexisted such service and which the Secretary determines is not service connected, for hardship, or as a result of a reduction in force described in section 3011(a)(1)(A)(ii)(III) of this title or of an involuntary separation described in section 3018A(a)(1).
+(D) For purposes of clause (i) of subparagraphs (A) and (B) of this paragraph, the last discharge or release from active duty shall not include any discharge or release from active duty of less than ninety days of continuous service unlessthe individual involved is discharged or released for a service-connected disability, for a medical condition which preexisted such service and which the Secretary determines is not service connected, for hardship, or as a result of a reduction in force described in section 3011(a)(1)(A)(ii)(III) of this title or of an involuntary separation described in section 3018A(a)(1).
 
 (c) Each agency shall include in its affirmative action plan for the hiring, placement, and advancement of handicapped individuals in such agency as required by section 501(b) of the Rehabilitation Act of 1973 (29 U.S.C. 791(b)), a separate specification of plans (in accordance with regulations which the Office of Personnel Management shall prescribe in consultation with the Secretary, the Secretary of Labor, and the Secretary of Health and Human Services, consistent with the purposes, provisions, and priorities of such Act) to promote and carry out such affirmative action with respect to disabled veterans in order to achieve the purpose of this section.
 
@@ -170,7 +170,7 @@ Subsec. (e). Pub. L. 98–543, §211(d), substituted provisions listing informat
 
 1980—Subsec. (b)(1). Pub. L. 96–466, §801(<i>l</i>)(1), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-Subsec. (b)(2), (3). Pub. L. 96–466, §801(<i>l</i>)(2), redesignated par. (3) as (2). Former par. (2), which provided that in this subsection “veteran of the Vietnam era” had the meaning given such term in section 2011(2)(A) of this title, was struck out.
+Subsec. (b)(2), (3). Pub. L. 96–466, §801(<i>l</i>)(2), redesignated par. (3) as (2). Former par. (2), which providedthat in this subsection “veteran of the Vietnam era” had the meaning given such term in section 2011(2)(A) of this title, was struck out.
 
 Subsec. (c). Pub. L. 96–466, §801(<i>l</i>)(1), (3), substituted “the Rehabilitation Act of 1973 (29 U.S.C. 791(b))” for “Public Law 93–112 (87 Stat. 391)” and “Office of Personnel Management” for “Civil Service Commission”.
 

@@ -56,7 +56,7 @@ Section 110 of Pub. L. 91–296 provided that the amendment made by that section
 
 #### Effective Date of 1964 Amendment
 
-Section 3(b) of Pub. L. 88–581 provided that the amendments made by such section 3(b) \[amending thissection and sections 291<i>o</i> and 293c of this title\] are effective with respect to applications for grants from appropriations for fiscal years beginning after June 30, 1965.
+Section 3(b) of Pub. L. 88–581 provided that the amendments made by such section 3(b) \[amending this section and sections 291<i>o</i> and 293c of this title\] are effective with respect to applications for grants from appropriations for fiscal years beginning after June 30, 1965.
 
 #### Transfer of Functions
 

@@ -44,7 +44,7 @@ The Congress declares that the general welfare of the United States requires tha
 
 #### (g) Bioengineering research, development, and demonstration programs
 
-The Congress declares that the general welfare of the United States requires that the uniquecompetence of the National Aeronautics and Space Administration in science and engineering systems be directed to assisting in bioengineering research, development, and demonstration programs designed to alleviate and minimize the effects of disability.
+The Congress declares that the general welfare of the United States requires that the unique competence of the National Aeronautics and Space Administration in science and engineering systems be directed to assisting in bioengineering research, development, and demonstration programs designed to alleviate and minimize the effects of disability.
 
 #### (h) Purpose of chapter
 
@@ -132,7 +132,7 @@ Pub. L. 102–588, title I, §102(g), Nov. 4, 1992, 106 Stat. 5111, provided tha
 
 &emsp;“(6) increased use of defense-related remote sensing data and data technology by civilian agencies and the scientific community can benefit national environmental study and monitoring programs;
 
-&emsp;“(7) the generation of trained scientists and engineers through educational initiatives and academicresearch programs outside of the National Aeronautics and Space Administration is essential to the future of the United States civil space program;
+&emsp;“(7) the generation of trained scientists and engineers through educational initiatives and academic research programs outside of the National Aeronautics and Space Administration is essential to the future of the United States civil space program;
 
 &emsp;“(8) the strengthening and expansion of the Nation's space transportation infrastructure, including the enhancement of launch sites and launch site support facilities, are essential to support the full range of the Nation's space-related activities;
 
@@ -336,7 +336,7 @@ Section 101 of Pub. L. 100–685 provided that: “Congress finds that—
 
 &emsp;&emsp;“(B) consist of—
 
-&emsp;&emsp;&emsp;“(i) fundamental research in all aeronautical disciplines, aimed at greater understanding of aeronautical phenomena and development of new aeronautical concepts; and
+&emsp;&emsp;&emsp;“(i) fundamental research in all aeronautical disciplines, aimed at greater understanding ofaeronautical phenomena and development of new aeronautical concepts; and
 
 &emsp;&emsp;&emsp;“(ii) technology development and validation activities aimed at laboratory-scale development and proof-of-concept demonstration of selected concepts with high payoff potential;
 
@@ -544,7 +544,7 @@ By virtue of the authority vested in me as President of the United States, it is
 
 Section 1. The Missile Sites Labor Commission is hereby abolished and its functions and responsibilities are transferred to the Federal Mediation and Conciliation Service.
 
-Sec. 2. The Director of the Federal Mediation and Conciliation Service shall establish within the Federal Mediation and Conciliation Service such procedures as may be necessary to provide for continued priority for resolution of labor disputes or potential labor disputes at missile and space sites, and shall seek the continued cooperation of manufacturers, contractors, construction concerns, and labor unions in avoiding uneconomical operations and work stoppages at missile and space sites.
+Sec. 2. The Director of the Federal Mediation and Conciliation Service shall establish within the Federal Mediation and Conciliation Service such procedures as may be necessary to provide for continued priority for resolution of labor disputes or potential labor disputes at missile and space sites, and shall seek the continuedcooperation of manufacturers, contractors, construction concerns, and labor unions in avoiding uneconomical operations and work stoppages at missile and space sites.
 
 Sec. 3. The Department of Defense, the National Aeronautics and Space Administration, and other appropriate government departments and agencies shall continue to cooperate in the avoidance of uneconomical operations and work stoppages at missile and space sites. They shall also assist the Federal Mediation and Conciliation Service in the discharge of its responsibilities under this order.
 

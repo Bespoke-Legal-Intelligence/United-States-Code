@@ -42,7 +42,7 @@ I74“delivery and retention of certain presidential materials
 
 “
 
-Sec. 101. (a) Notwithstanding any other law or any agreement or understanding made pursuant to section2111 of title 44, United States Code any Federal employee in possession shall deliver, and the Archivist of the United States (hereinafter referred to as the ‘Archivist’) shall receive, obtain, or retain, complete possession and control of all original tape recordings of conversations which were recorded or caused to be recorded by any officer or employee of the Federal Government and which—
+Sec. 101. (a) Notwithstanding any other law or any agreement or understanding made pursuant to section 2111 of title 44, United States Code any Federal employee in possession shall deliver, and the Archivist of the United States (hereinafter referred to as the ‘Archivist’) shall receive, obtain, or retain, complete possession and control of all original tape recordings of conversations which were recorded or caused to be recorded by any officer or employee of the Federal Government and which—
 
 &emsp;“(1) involve former President Richard M. Nixon or other individuals who, at the time of the conversation, were employed by the Federal Government;
 
@@ -62,7 +62,7 @@ Sec. 102. (a) None of the tape recordings or other materials referred to in sect
 
 “(b) Notwithstanding any other provision of this title, any other law, or any agreement or understanding made pursuant to section 2111 of title 44, United States Code, the tape recordings and other materials referred to in section 101 shall, immediately upon the date of enactment of this title, be made available, subject to any rights, defenses, or privileges which the Federal Government or any person may invoke, for use in any judicial proceeding or otherwise subject to court subpena or other legal process. Any request by the Office of Watergate Special Prosecution Force, whether by court subpena or other lawful process, for access to such recordings or materials shall at all times have priority over any other request for such recordings or materials.
 
-“(c) Richard M. Nixon, or any person whom he may designate in writing, shall at all times have access to the tape recordings and other materials referred to in section 101 for any purpose which is consistent with the provisions of this title, subsequent and subject to the regulations which the Archivist shall issue pursuant to section 103.
+“(c) Richard M. Nixon, or any person whom he may designate in writing, shall at all times have access to the tape recordings and other materials referred to in section 101 for any purpose which is consistent with the provisions of this title, subsequent and subject to theregulations which the Archivist shall issue pursuant to section 103.
 
 “(d) Any agency or department in the executive branch of the Federal Government shall at all times have access to the tape recordings and other materials referred to in section 101 for lawful Government use, subject to the regulations which the Archivist shall issue pursuant to section 103.
 

@@ -12,7 +12,7 @@ There is hereby created and established a permanent police force, to be known as
 
 #### Amendments
 
-1992—Cl. (10). Pub. L. 102–499 substituted “when such officials are in the United States to conduct official business with the United States Government” for “, pursuant to invitations of the United States Government”.
+1992—Cl. (10). Pub. L. 102–499 substituted “when such officials are in the United States to conduct officialbusiness with the United States Government” for “, pursuant to invitations of the United States Government”.
 
 1991—Cl. (8)(C). Pub. L. 102–138, §135(b)(1), amended subcl. (C) generally. Prior to amendment, subcl. (C) read as follows: “when the extraordinary protective need arises in association with a visit to or occurs at a permanent mission to an international organization of which the United States is a member or an observer mission invited to participate in the work of such organization, provided that such protection may be provided for motorcades and at other places associated with such a visit and may be extended at places of temporary domicile in connection with such a visit; and”.
 

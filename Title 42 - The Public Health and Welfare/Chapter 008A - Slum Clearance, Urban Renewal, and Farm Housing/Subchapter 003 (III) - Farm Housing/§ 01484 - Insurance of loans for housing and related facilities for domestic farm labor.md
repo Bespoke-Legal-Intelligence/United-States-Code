@@ -2,7 +2,7 @@
 
 #### (a) Authorization; terms and conditions
 
-The Secretary is authorized to insure and make commitments to insure loans made by lenders other than the United States to the owner of any farm or any association of farmers for the purpose of providing housing and related facilities for domestic farm labor, or to any Indian tribe for such purpose, or to any State (or political subdivision thereof), or any broad-based public or private nonprofit organization, or any nonprofit limited partnership in which the general partner is a nonprofit entity, or any nonprofit organization of farmworkers incorporated within the State for the purpose of providing housing and related facilities for domestic farm labor any place within the State where a need exists. All such loans shall be made in accordance with terms and conditions substantially identical with those specified in section 1472 of this title, except that—
+The Secretary is authorized to insure and make commitments to insure loans made by lenders other than the United States to the owner of any farm or any association of farmers for the purpose of providing housing and relatedfacilities for domestic farm labor, or to any Indian tribe for such purpose, or to any State (or political subdivision thereof), or any broad-based public or private nonprofit organization, or any nonprofit limited partnership in which the general partner is a nonprofit entity, or any nonprofit organization of farmworkers incorporated within the State for the purpose of providing housing and related facilities for domestic farm labor any place within the State where a need exists. All such loans shall be made in accordance with terms and conditions substantially identical with those specified in section 1472 of this title, except that—
 
 &emsp;(1) no such loan shall be insured in an amount in excess of the value of the farm involved less any prior liens in the case of a loan to an individual owner of a farm, or the total estimated value of the structures and facilities with respect to which the loan is made in the case of any other loan;
 
@@ -84,7 +84,7 @@ Whoever, as an owner, agent, or manger,<sup>2</sup> or who is otherwise in custo
 
 #### References in Text
 
-Sections 1005a and 1005c(a), (b), and (c) of title 7, referred to in subsec. (b), were repealed by section 341(a) of Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 318 (set out as a note under section 1921 of Title 7, Agriculture),which also provided that references in other laws to the Bankhead-Jones Farm Tenant Act shall be construed as referring to appropriate provisions of section 1921 et seq. of Title 7. The fund established pursuant to section 1005a of Title 7 was renamed the Agricultural Credit Insurance Fund. See section 1929 of Title 7.
+Sections 1005a and 1005c(a), (b), and (c) of title 7, referred to in subsec. (b), were repealed by section 341(a) of Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 318 (set out as a note under section 1921 of Title 7, Agriculture), which also provided that references in other laws to the Bankhead-Jones Farm Tenant Act shall be construed as referring to appropriate provisions of section 1921 et seq. of Title 7. The fund established pursuant to section 1005a of Title 7 was renamed the Agricultural Credit Insurance Fund. See section 1929 of Title 7.
 
 #### Codification
 

@@ -6,7 +6,7 @@ Nothing in this subchapter shall affect the jurisdiction of the securities commi
 
 #### (b) Dual compliance purposes
 
-No State may enforce any law or regulation that would require an investment adviser to maintain any books or records in addition to those required under the laws of the State in which it maintains its principal place of business, if the investment adviser—
+No State may enforce any law or regulation that would require an investment adviser to maintain any books or records in addition tothose required under the laws of the State in which it maintains its principal place of business, if the investment adviser—
 
 &emsp;(1) is registered or licensed as such in the State in which it maintains its principal place of business; and
 
@@ -38,5 +38,5 @@ No law of any State or political subdivision thereof requiring the registration,
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–290 effective 270 days after Oct. 11, 1996, see section 308(a) of Pub. L. 104–290, asamended, set out as a note under section 80b–2 of this title.
+Amendment by Pub. L. 104–290 effective 270 days after Oct. 11, 1996, see section 308(a) of Pub. L. 104–290, as amended, set out as a note under section 80b–2 of this title.
 

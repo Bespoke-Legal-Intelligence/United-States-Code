@@ -26,7 +26,7 @@ The members of the Commission who are not officers or employees of the United St
 
 #### (g) Appointment of personnel
 
-In addition to authority to appoint personnel subject to the provisions of title 5 governing appointments in the competitive service, and to pay such personnel in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, the Commission shall have authority to enter into contracts with private or public organizations who shall furnish the Commission with such administrative and technical personnel as may be necessary to carry out the purpose of this section. Personnel furnished by such organizations under this subsection are not, and shall not be considered to be, Federal employees for any purposes, but in the performance of their duties shall be guided by the standards which apply to employees of the legislative branches under rules 41 and 43 of the Senate and House of Representatives, respectively.
+In addition to authority to appoint personnel subject to the provisions of title 5 governing appointments in the competitive service, and to pay such personnel in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, the Commission shall have authority to enter into contracts with private or public organizations who shall furnish the Commission with such administrative and technical personnel as may be necessary to carry out the purpose of this section. Personnel furnished by such organizations under this subsection are not, and shall not be considered to be, Federal employees for any purposes, but in the performance of their duties shall be guided by the standards which apply to employees of the legislative branches under rules 41 and 43 <sup>1</sup> of the Senate and House of Representatives, respectively.
 
 #### (h) Authorization of appropriation
 
@@ -39,6 +39,8 @@ There is authorized to be appropriated, for use in carrying out this section, no
 Travel expenses, including per diem in lieu of subsistence as authorized by law, referred to subsec. (f), probably refers to the allowances authorized by section 5703 of Title 5, Government Organization and Employees.
 
 The General Schedule, referred to in subsec. (g), is set out under section 5332 of Title 5.
+
+The Rules of the House of Representatives for the One Hundred Sixth Congress were adopted and amended generally by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Provisions formerly appearing in rule 43, referred to in subsec. (g), are now contained in rule XXIV.
 
 #### Amendments
 
@@ -61,4 +63,6 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1311, 1376 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

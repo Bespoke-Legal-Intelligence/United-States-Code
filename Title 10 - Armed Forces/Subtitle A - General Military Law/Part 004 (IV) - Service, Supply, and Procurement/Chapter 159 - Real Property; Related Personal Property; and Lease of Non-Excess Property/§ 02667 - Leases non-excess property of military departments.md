@@ -36,7 +36,7 @@
 
 (2) Payments for utilities and services furnished lessees pursuant to leases entered into under this section shall be credited to the appropriation account or working capital fund from which the cost of furnishing the utilities and services was paid.
 
-(3) As part of the request for authorizations of appropriations submitted to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives for each fiscal year, the Secretary of Defense shall include—
+(3) As part of the request for authorizations of appropriations submitted to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives for each fiscal year, the Secretary of Defense shall include—
 
 &emsp;(A) an accounting of the receipt and use of all money rentals that were deposited and expended under this subsection during the fiscal year preceding the fiscal year in which the request is made; and
 
@@ -82,7 +82,7 @@
 
 &emsp;(3) Section 2687 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 94–107, title VI, §607(7), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–412, title V, §501(b), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 96–513, title V, §511(92), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–295, §1(34), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §803, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 101–510, div. B, title XXVIII, §2806, Nov. 5, 1990, 104 Stat. 1787; Pub. L. 102–190, div. B, title XXVIII, §2862, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 102–484, div. B, title XXVIII, §2851, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–160, div. B, title XXIX, §2906, Nov. 30, 1993, 107 Stat. 1920; Pub. L. 104–106, div. A, title XV, §1502(a)(1), div. B, title XXVIII, §§2831(a), 2832, 2833, Feb. 10, 1996, 110 Stat. 502, 558, 559; Pub. L. 105–85, div. A, title III, §361(b)(2), title X, §1061(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1701, 1891; Pub. L. 105–261, div. B, title XXVIII, §2821, Oct. 17, 1998, 112 Stat. 2208.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 94–107, title VI, §607(7), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–412, title V, §501(b), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 96–513, title V, §511(92), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–295, §1(34), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII,§803, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 101–510, div. B, title XXVIII, §2806, Nov. 5, 1990, 104 Stat. 1787; Pub. L. 102–190, div. B, title XXVIII, §2862, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 102–484, div. B, title XXVIII, §2851, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–160, div. B, title XXIX, §2906, Nov. 30, 1993, 107 Stat. 1920; Pub. L. 104–106, div. A, title XV, §1502(a)(1), div. B, title XXVIII, §§2831(a), 2832, 2833, Feb. 10, 1996, 110 Stat. 502, 558, 559; Pub. L. 105–85, div. A, title III, §361(b)(2), title X, §1061(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1701, 1891; Pub. L. 105–261, div. B, title XXVIII, §2821, Oct. 17, 1998, 112 Stat. 2208; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 Historical and Revision Notes
 
@@ -170,6 +170,8 @@ The National Environmental Policy Act of 1969, referred to in subsec. (f)(5)(A),
 
 #### Amendments
 
+1999—Subsec. (d)(3). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
+
 1998—Subsec. (f)(1). Pub. L. 105–261 inserted “or the Federal Property and Administrative Services Act of 1949 (to the extent such Act is inconsistent with this subsection)”.
 
 1997—Pub. L. 105–85, §1061(c)(1), inserted “of military departments” after “property” in section catchline.
@@ -206,7 +208,7 @@ Subsec. (b)(4). Pub. L. 102–190, §2862(a)(2), (3), added par. (4) and redesig
 
 Subsec. (b)(5). Pub. L. 102–190, §2862(a)(2), (4), redesignated par. (4) as (5) and inserted “improvement,” before “maintenance” and “the payment of” before “part or all”.
 
-Subsec. (d)(3). Pub. L. 102–190, §2862(b), redesignated subpar. (B) as par. (3), substituted “As part of the request for authorizations of appropriations submitted to the Committees on Armed Services of the Senate and House of Representatives for each fiscal year” for “As part of the request for authorizations of appropriations to such Committees for each fiscal year after fiscal year 1992”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “As part of the request for authorizations of appropriations for fiscal year 1992 to the Committees on Armed Services of the Senate and of the House of Representatives, the Secretary of Defense shall include an explanation of each lease from which money rentals will be received and deposited under this subsection during fiscal year 1991, together with an estimate of the amount to be received from each such lease and an explanation of the anticipated expenditures of such receipts.”
+Subsec. (d)(3). Pub. L. 102–190, §2862(b), redesignated subpar. (B) as par. (3), substituted “As part of the request for authorizations of appropriations submitted tothe Committees on Armed Services of the Senate and House of Representatives for each fiscal year” for “As part of the request for authorizations of appropriations to such Committees for each fiscal year after fiscal year 1992”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “As part of the request for authorizations of appropriations for fiscal year 1992 to the Committees on Armed Services of the Senate and of the House of Representatives, the Secretary of Defense shall include an explanation of each lease from which money rentals will be received and deposited under this subsection during fiscal year 1991, together with an estimate of the amount to be received from each such lease and an explanation of the anticipated expenditures of such receipts.”
 
 1990—Subsec. (d). Pub. L. 101–510 added pars. (1) to (3), redesignated former par. (2) as (4), and struck out former par. (1) which read as follows: “Except as provided in paragraph (2), money rentals received by the United States directly from a lease under this section shall be covered into the Treasury as miscellaneous receipts. Payments for utilities or services furnished to the lessee under such a lease by the department concerned may be covered into the Treasury to the credit of the appropriation from which the cost of furnishing them was paid.”
 
@@ -226,10 +228,6 @@ Subsec. (f). Pub. L. 96–513, §511(92)(D), substituted “the Secretary” for
 
 1975—Subsec. (f). Pub. L. 94–107 added subsec. (f).
 
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
-
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
@@ -244,5 +242,5 @@ Pub. L. 96–533, title I, §109(a)–(e), Dec. 16, 1980, 94 Stat. 3137, provide
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2471, 2490a, 2878 of this title; title 16 section 670a; title 22 section 2796.
+This section is referred to in sections 2471, 2490a, 2814, 2878 of this title; title 16 section 670a; title 22 section 2796.
 

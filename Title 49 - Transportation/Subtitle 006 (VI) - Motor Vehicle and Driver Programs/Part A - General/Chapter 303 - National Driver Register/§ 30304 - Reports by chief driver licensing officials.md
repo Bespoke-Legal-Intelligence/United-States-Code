@@ -40,9 +40,13 @@ Time for Filing.—If a report under subsection (a) of this section is about an 
 
 (d)
 
-Events Occurring Before Participation.—This section does not require a State toreport information about an event that occurs before the 2-year period before the State becomes a participating State.
+Events Occurring Before Participation.—This section does not require a State to report information about an event that occurs before the 2-year period before the State becomes a participating State.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 975.)
+(e)
+
+Driver Record Inquiry.—Before issuing a motor vehicle operator's license to an individual or renewing such a license, a State shall request from the Secretary information from the National Driver Register under section 30302 and the commercial driver's license information system under section 31309 on the individual's driving record.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 975; Pub. L. 106–159, title II, §204, Dec. 9, 1999, 113 Stat. 1762.)
 
 Historical and Revision Notes
 
@@ -67,6 +71,10 @@ In subsection (b)(1)(A), the words “(including day, month, and year)” are om
 In subsection (b)(2), the words “A report under subsection (a) of this section” are substituted for “any report concerning an occurrence specified in subsection (a)(1), (2), or (3) of this section” to eliminate unnecessary words.
 
 In subsection (c), before clause (1), the words “required to be transmitted by a chief driver licensing official of a State” are omitted as surplus. In clause (1), the words “specified in subsection (a)(1), (2), or (3) of this section” are omitted as surplus. In clause (2), the words “the motor vehicle department of the State receives any information specified in subsection (b)(1) of this section that is the subject of the report” are substituted for “receipt by a State motor vehicle department of any information specified in subsection (b)(1), (2), or (3) of this section which is the subject of such report” because of the restatement.
+
+#### Amendments
+
+1999—Subsec. (e). Pub. L. 106–159 added subsec. (e).
 
 #### Section Referred to in Other Sections
 

@@ -36,7 +36,7 @@ Papa Ola Lokahi shall, to the maximum extent possible, coordinate and assist the
 
 #### (e) Technical support
 
-Papa Ola Lokahi shall act as a statewide infrastructure to provide technical support and coordination of training and technical assistance to the Native Hawaiian health care systems.
+Papa Ola Lokahi shall act as a statewide infrastructure to provide technical support andcoordination of training and technical assistance to the Native Hawaiian health care systems.
 
 #### (f) Relationships with other agencies
 

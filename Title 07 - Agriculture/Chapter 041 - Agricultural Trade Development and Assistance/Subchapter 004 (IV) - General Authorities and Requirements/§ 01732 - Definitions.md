@@ -8,7 +8,7 @@ As used in this chapter:
 
 #### (2) Agricultural commodity
 
-&emsp;The term “agricultural commodity”, unless otherwise provided for in this chapter, includes any agricultural commodity or the products thereof produced in the United States, including wood and processed wood products, fish, and livestock as well as value-added, fortified, or high-value agricultural products. Effective beginning on October 1, 1991, for purposes of subchapter III of this chapter, a product of an agricultural commodity shall not be considered to be produced in the United States if it contains any ingredient that is not produced in the United States, ifthat ingredient is produced and is commercially available in the United States at fair and reasonable prices.
+&emsp;The term “agricultural commodity”, unless otherwise provided for in this chapter, includes any agricultural commodity or the products thereof produced in the United States, including wood and processed wood products, fish, and livestock as well as value-added, fortified, or high-value agricultural products. Effective beginning on October 1, 1991, for purposes of subchapter III of this chapter, a product of an agricultural commodity shall not be considered to be produced in the United States if it contains any ingredient that is not produced in the United States, if that ingredient is produced and is commercially available in the United States at fair and reasonable prices.
 
 #### (3) Cooperative
 
@@ -52,7 +52,7 @@ As used in this chapter:
 
 1971—Pub. L. 92–42 inserted sentence that proviso excluding alcoholic beverages from term “agricultural commodity” shall not be construed as prohibiting domestic wine industry from participating in market development activities for expansion of export sales of domestic agricultural commodities.
 
-1966—Pub. L. 89–808 substituted definition of agricultural commodity and provisions as to availability of fishery products for former provisions respecting agreements for delivery of surplus agricultural commodities, period, and security for payments in relation to long-term supply contracts, now covered by subchapter II of this chapter. See section 1707 of this title.
+1966—Pub. L. 89–808 substituted definition of agricultural commodity and provisions as to availability offishery products for former provisions respecting agreements for delivery of surplus agricultural commodities, period, and security for payments in relation to long-term supply contracts, now covered by subchapter II of this chapter. See section 1707 of this title.
 
 1962—Pub. L. 87–703 authorized executive agreements with financial institutions acting in behalf of friendly nations and administrative sales agreements with foreign and United States private trade with provision for security for payments.
 

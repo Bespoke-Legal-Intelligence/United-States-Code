@@ -16,7 +16,7 @@ Section 1383(a) of this title, referred to in text, is a reference to section 13
 
 #### Amendments
 
-1996—Pub. L. 104–193 substituted “subchapter I, X, XIV, or XVI of this chapter,” for “subchapter I, X, XIV,or XVI, or part A of subchapter IV of this chapter” in introductory provisions and struck out “603(a),” before “1203(a),” in closing provisions.
+1996—Pub. L. 104–193 substituted “subchapter I, X, XIV, or XVI of this chapter,” for “subchapter I, X, XIV, or XVI, or part A of subchapter IV of this chapter” in introductory provisions and struck out “603(a),” before “1203(a),” in closing provisions.
 
 #### Effective Date of 1996 Amendment
 

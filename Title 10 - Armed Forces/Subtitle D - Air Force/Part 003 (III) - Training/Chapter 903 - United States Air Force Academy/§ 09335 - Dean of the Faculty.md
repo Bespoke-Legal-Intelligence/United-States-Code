@@ -1,8 +1,10 @@
 ### §9335. Dean of the Faculty
 
-The Dean of the Faculty shall be appointed as an additional permanent professor from the permanent professors who have served as heads of departments of instruction at the Academy.
+(a) The Dean of the Faculty shall be appointed as an additional permanent professor from the permanent professors who have served as heads of departments of instruction at the Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 562; Pub. L. 85–861, §33(a)(46)(A), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 99–661, div. A, title V, §508(c), Nov. 14, 1986, 100 Stat. 3867; Pub. L. 102–484, div. A, title V, §521(b), Oct. 23, 1992, 106 Stat. 2409.)
+(b) While serving as Dean of the Faculty, an officer of the Air Force who holds a grade lower than brigadier general shall hold the grade of brigadier general, if appointed to that grade by the President, by and with the advice and consent of the Senate. The retirement age of an officer so appointed is that of a permanent professor of the Academy. An officer so appointed is counted for purposes of the limitation in section 526(a) of this title on general officers of the Air Force on active duty.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 562; Pub. L. 85–861, §33(a)(46)(A), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 99–661, div. A, title V, §508(c), Nov. 14, 1986, 100 Stat. 3867; Pub. L. 102–484, div. A, title V, §521(b), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 106–65, div. A, title V, §533(b), Oct. 5, 1999, 113 Stat. 605.)
 
 Historical and Revision Notes<br>1956
 
@@ -31,6 +33,8 @@ In subsection (b), the word “grade” is substituted for the word “rank”. 
 The word “regular” is deleted \[in sections 9335 and 9336\] to make clear that a Dean or professor of the United States Air Force Academy holds only the office of “Dean” or “professor” and not the office of “brigadier general” or “colonel”, as the case may be, even though he is entitled to the pay and allowances of that grade.
 
 #### Amendments
+
+1999—Pub. L. 106–65 designated existing provisions as subsec. (a) and added subsec. (b).
 
 1992—Pub. L. 102–484 designated subsec. (a) as entire section and struck out subsec. (b) which read as follows: “The Dean has the grade of brigadier general while serving in such position, with the benefits authorized for regular brigadier generals of the Air Force, if appointed to that grade by the President, by and with the advice and consent of the Senate. However, the retirement age of an officer so appointed is that of a permanent professor of the Academy.”
 

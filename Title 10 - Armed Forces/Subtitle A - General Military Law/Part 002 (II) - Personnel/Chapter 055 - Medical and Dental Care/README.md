@@ -5,6 +5,7 @@
 | [1071\.](%C2%A7%2001071%20-%20Purpose%20of%20this%20chapter.md) | Purpose of this chapter. |
 | [1072\.](%C2%A7%2001072%20-%20Definitions.md) | Definitions. |
 | [1073\.](%C2%A7%2001073%20-%20Administration%20of%20this%20chapter.md) | Administration of this chapter. |
+| [1073a.](%C2%A7%2001073a%20-%20Contracts%20for%20health%20care%20best%20value%20contracting.md) | Contracts for health care: best value contracting. |
 | [1074\.](%C2%A7%2001074%20-%20Medical%20and%20dental%20care%20for%20members%20and%20certain%20former%20members.md) | Medical and dental care for members and certain former members. |
 | [1074a.](%C2%A7%2001074a%20-%20Medical%20and%20dental%20care%20members%20on%20duty%20other%20than%20active%20duty%20for%20a%20period%20of%20more%20than%2030%20days.md) | Medical and dental care: members on duty other than active duty for a period of more than 30 days. |
 | [1074b.](%C2%A7%2001074b%20-%20Transitional%20medical%20and%20dental%20care%20members%20on%20active%20duty%20in%20support%20of%20contingency%20operations.md) | Transitional medical and dental care: members on active duty in support of contingency operations. |
@@ -12,10 +13,11 @@
 | [1074d.](%C2%A7%2001074d%20-%20Certain%20primary%20and%20preventive%20health%20care%20services.md) | Certain primary and preventive health care services. |
 | [1074e.](%C2%A7%2001074e%20-%20Medical%20care%20certain%20Reserves%20who%20served%20in%20Southwest%20Asia%20during%20the%20Persian%20Gulf%20Conflict.md) | Medical care: certain Reserves who served in Southwest Asia during the Persian Gulf Conflict. |
 | [1074f.](%C2%A7%2001074f%20-%20Medical%20tracking%20system%20for%20members%20deployed%20overseas.md) | Medical tracking system for members deployed overseas. |
+| [1074g.](%C2%A7%2001074g%20-%20Pharmacy%20benefits%20program.md) | Pharmacy benefits program. |
 | [1075\.](%C2%A7%2001075%20-%20Officers%20and%20certain%20enlisted%20members%20subsistence%20charges.md) | Officers and certain enlisted members: subsistence charges. |
 | [1076\.](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md) | Medical and dental care for dependents: general rule. |
-| [1076a.](%C2%A7%2001076a%20-%20Dependents%E2%80%99%20dental%20program.md) | Dependents’ dental program. |
-| [1076b.](%C2%A7%2001076b%20-%20Selected%20Reserve%20dental%20insurance.md) | Selected Reserve dental insurance. |
+| [1076a.](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md) | TRICARE dental program. |
+| \[1076b. | Repealed.\] |
 | [1076c.](%C2%A7%2001076c%20-%20Dental%20insurance%20plan%20certain%20retirees%20and%20their%20surviving%20spouses%20and%20other%20dependents.md) | Dental insurance plan: certain retirees and their surviving spouses and other dependents. |
 | [1077\.](%C2%A7%2001077%20-%20Medical%20care%20for%20dependents%20authorized%20care%20in%20facilities%20of%20uniformed%20services.md) | Medical care for dependents: authorized care in facilities of uniformed services. |
 | [1078\.](%C2%A7%2001078%20-%20Medical%20and%20dental%20care%20for%20dependents%20charges.md) | Medical and dental care for dependents: charges. |
@@ -42,9 +44,13 @@
 | [1095\.](%C2%A7%2001095%20-%20Health%20care%20services%20incurred%20on%20behalf%20of%20covered%20beneficiaries%20collection%20from%20third-party%20payers.md) | Health care services incurred on behalf of covered beneficiaries: collection from third-party payers. |
 | [1095a.](%C2%A7%2001095a%20-%20Medical%20care%20members%20held%20as%20captives%20and%20their%20dependents.md) | Medical care: members held as captives and their dependents. |
 | [1095b.](%C2%A7%2001095b%20-%20TRICARE%20program%20contractor%20payment%20of%20certain%20claims.md) | TRICARE program: contractor payment of certain claims. |
+| [1095c.](%C2%A7%2001095c%20-%20TRICARE%20program%20facilitation%20of%20processing%20of%20claims.md) | TRICARE program: facilitation of processing of claims. |
+| [1095d.](%C2%A7%2001095d%20-%20TRICARE%20program%20waiver%20of%20certain%20deductibles.md) | TRICARE program: waiver of certain deductibles. |
+| [1095e.](%C2%A7%2001095e%20-%20TRICARE%20program%20beneficiary%20counseling%20and%20assistance%20coordinators.md) | TRICARE program: beneficiary counseling and assistance coordinators. |
 | [1096\.](%C2%A7%2001096%20-%20Military-civilian%20health%20services%20partnership%20program.md) | Military-civilian health services partnership program. |
 | [1097\.](%C2%A7%2001097%20-%20Contracts%20for%20medical%20care%20for%20retirees%2C%20dependents%2C%20and%20survivors%20alternative%20delivery%20of%20health%20care.md) | Contracts for medical care for retirees, dependents, and survivors: alternative delivery of health care. |
 | [1097a.](%C2%A7%2001097a%20-%20TRICARE%20Prime%20automatic%20enrollments%3B%20payment%20options.md) | TRICARE Prime: automatic enrollments; payment options. |
+| [1097b.](%C2%A7%2001097b%20-%20TRICARE%20program%20financial%20management.md) | TRICARE program: financial management. |
 | [1098\.](%C2%A7%2001098%20-%20Incentives%20for%20participation%20in%20cost-effective%20health%20care%20plans.md) | Incentives for participation in cost-effective health care plans. |
 | [1099\.](%C2%A7%2001099%20-%20Health%20care%20enrollment%20system.md) | Health care enrollment system. |
 | [1100\.](%C2%A7%2001100%20-%20Defense%20Health%20Program%20Account.md) | Defense Health Program Account. |
@@ -62,13 +68,15 @@
 
 #### Amendments
 
+1999—Pub. L. 106–65, div. A, title VII, §§701(a)(2), 711(b), 713(a)(2), 714(b), 715(a)(2), 716(a)(2), 722(b), Oct. 5, 1999, 113 Stat. 680, 687, 689–691, 695, added items 1073a, 1074g, 1076a, 1095c, 1095d, 1095e, and 1097b and struck out former items 1076a “Dependents’ dental program” and 1076b “Selected Reserve dental insurance”.
+
 1998—Pub. L. 105–261, div. A, title VII, §§711(b), 712(a)(2), 721(a)(2), 734(b)(2), 741(b)(2), Oct. 17, 1998, 112 Stat. 2058, 2059, 2065, 2073, 2074, added items 1094a, 1095b, 1097a, 1108, and 1109.
 
 1997—Pub. L. 105–85, div. A, title VII, §§738(b), 764(b), 765(a)(2), 766(b), Nov. 18, 1997, 111 Stat. 1815, 1826–1828, added items 1074e, 1074f, 1106, and 1107 and struck out former item 1106 “Submittal of claims under CHAMPUS”.
 
 1996—Pub. L. 104–201, div. A, title VII, §§701(a)(2)(B), 703(a)(2), 733(a)(2), Sept. 23, 1996, 110 Stat. 2587, 2590, 2598, substituted “Certain primary and preventive health care services” for “Primary and preventive health care services for women” in item 1074d and added items 1076c and 1079a.
 
-Pub. L. 104–106, div. A, title VII, §§705(a)(2), 735(d)(2), 738(b)(2), Feb. 10, 1996, 110 Stat. 373, 383, added item1076b and substituted “Performance of abortions: restrictions” for “Restriction on use of funds for abortions” in item 1093 and “Defense Health Program Account” for “Military Health Care Account” in item 1100.
+Pub. L. 104–106, div. A, title VII, §§705(a)(2), 735(d)(2), 738(b)(2), Feb. 10, 1996, 110 Stat. 373, 383, added item 1076b and substituted “Performance of abortions: restrictions” for “Restriction on use of funds for abortions” in item 1093 and “Defense Health Program Account” for “Military Health Care Account” in item 1100.
 
 1993—Pub. L. 103–160, div. A, title VII, §§701(a)(2), 712(a)(2), 714(b)(2), 716(a)(2), Nov. 30, 1993, 107 Stat. 1686, 1689, 1690, 1692, added item 1074d, substituted “Personal services contracts” for “Contracts for direct health care providers” in item 1091 and “Resource allocation methods: capitation or diagnosis-related groups” for “Diagnosis-related groups” in item 1101, added item 1105, and struck out former item 1105 “Issuance of nonavailability of health care statements”.
 
@@ -88,7 +96,7 @@ Pub. L. 100–26, §7(e)(2), Apr. 21, 1987, 101 Stat. 281, redesignated item 109
 
 Pub. L. 99–399, title VIII, §801(c)(2), Aug. 27, 1986, 100 Stat. 886, added item 1095 “Medical care: members held as captives and their dependents”.
 
-Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added item 1095 “Collection from third-party payers of reasonable inpatient hospital care costs incurred on behalf of retirees and dependents”.
+Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added item 1095 “Collection from third-partypayers of reasonable inpatient hospital care costs incurred on behalf of retirees and dependents”.
 
 1985—Pub. L. 99–145, title VI, §§651(a)(2), 653(a)(2), Nov. 8, 1985, 99 Stat. 656, 658, added items 1076a and 1094.
 
@@ -126,6 +134,7 @@ This chapter is referred to in sections 129c, 1490 of this title; title 14 secti
 - [&sect; 01071 - Purpose of this chapter](%C2%A7%2001071%20-%20Purpose%20of%20this%20chapter.md)
 - [&sect; 01072 - Definitions](%C2%A7%2001072%20-%20Definitions.md)
 - [&sect; 01073 - Administration of this chapter](%C2%A7%2001073%20-%20Administration%20of%20this%20chapter.md)
+- [&sect; 01073a - Contracts for health care best value contracting](%C2%A7%2001073a%20-%20Contracts%20for%20health%20care%20best%20value%20contracting.md)
 - [&sect; 01074 - Medical and dental care for members and certain former members](%C2%A7%2001074%20-%20Medical%20and%20dental%20care%20for%20members%20and%20certain%20former%20members.md)
 - [&sect; 01074a - Medical and dental care members on duty other than active duty for a period of more than 30 days](%C2%A7%2001074a%20-%20Medical%20and%20dental%20care%20members%20on%20duty%20other%20than%20active%20duty%20for%20a%20period%20of%20more%20than%2030%20days.md)
 - [&sect; 01074b - Transitional medical and dental care members on active duty in support of contingency operations](%C2%A7%2001074b%20-%20Transitional%20medical%20and%20dental%20care%20members%20on%20active%20duty%20in%20support%20of%20contingency%20operations.md)
@@ -133,10 +142,11 @@ This chapter is referred to in sections 129c, 1490 of this title; title 14 secti
 - [&sect; 01074d - Certain primary and preventive health care services](%C2%A7%2001074d%20-%20Certain%20primary%20and%20preventive%20health%20care%20services.md)
 - [&sect; 01074e - Medical care certain Reserves who served in Southwest Asia during the Persian Gulf Conflict](%C2%A7%2001074e%20-%20Medical%20care%20certain%20Reserves%20who%20served%20in%20Southwest%20Asia%20during%20the%20Persian%20Gulf%20Conflict.md)
 - [&sect; 01074f - Medical tracking system for members deployed overseas](%C2%A7%2001074f%20-%20Medical%20tracking%20system%20for%20members%20deployed%20overseas.md)
+- [&sect; 01074g - Pharmacy benefits program](%C2%A7%2001074g%20-%20Pharmacy%20benefits%20program.md)
 - [&sect; 01075 - Officers and certain enlisted members subsistence charges](%C2%A7%2001075%20-%20Officers%20and%20certain%20enlisted%20members%20subsistence%20charges.md)
 - [&sect; 01076 - Medical and dental care for dependents general rule](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md)
-- [&sect; 01076a - Dependents&#8217; dental program](%C2%A7%2001076a%20-%20Dependents%E2%80%99%20dental%20program.md)
-- [&sect; 01076b - Selected Reserve dental insurance](%C2%A7%2001076b%20-%20Selected%20Reserve%20dental%20insurance.md)
+- [&sect; 01076a - TRICARE dental program](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md)
+- [&sect; 01076b - Repealed. Pub. L. 106&#8211;65, div. A, title VII, &sect;711(a), Oct. 5, 1999, 113 Stat. 685](%C2%A7%2001076b%20-%20Repealed.%20Pub.%20L.%20106%E2%80%9365%2C%20div.%20A%2C%20title%20VII%2C%20%C2%A7711%28a%29%2C%20Oct.%205%2C%201999%2C%20113%20Stat.%20685.md)
 - [&sect; 01076c - Dental insurance plan certain retirees and their surviving spouses and other dependents](%C2%A7%2001076c%20-%20Dental%20insurance%20plan%20certain%20retirees%20and%20their%20surviving%20spouses%20and%20other%20dependents.md)
 - [&sect; 01077 - Medical care for dependents authorized care in facilities of uniformed services](%C2%A7%2001077%20-%20Medical%20care%20for%20dependents%20authorized%20care%20in%20facilities%20of%20uniformed%20services.md)
 - [&sect; 01078 - Medical and dental care for dependents charges](%C2%A7%2001078%20-%20Medical%20and%20dental%20care%20for%20dependents%20charges.md)
@@ -163,9 +173,13 @@ This chapter is referred to in sections 129c, 1490 of this title; title 14 secti
 - [&sect; 01095 - Health care services incurred on behalf of covered beneficiaries collection from third-party payers](%C2%A7%2001095%20-%20Health%20care%20services%20incurred%20on%20behalf%20of%20covered%20beneficiaries%20collection%20from%20third-party%20payers.md)
 - [&sect; 01095a - Medical care members held as captives and their dependents](%C2%A7%2001095a%20-%20Medical%20care%20members%20held%20as%20captives%20and%20their%20dependents.md)
 - [&sect; 01095b - TRICARE program contractor payment of certain claims](%C2%A7%2001095b%20-%20TRICARE%20program%20contractor%20payment%20of%20certain%20claims.md)
+- [&sect; 01095c - TRICARE program facilitation of processing of claims](%C2%A7%2001095c%20-%20TRICARE%20program%20facilitation%20of%20processing%20of%20claims.md)
+- [&sect; 01095d - TRICARE program waiver of certain deductibles](%C2%A7%2001095d%20-%20TRICARE%20program%20waiver%20of%20certain%20deductibles.md)
+- [&sect; 01095e - TRICARE program beneficiary counseling and assistance coordinators](%C2%A7%2001095e%20-%20TRICARE%20program%20beneficiary%20counseling%20and%20assistance%20coordinators.md)
 - [&sect; 01096 - Military-civilian health services partnership program](%C2%A7%2001096%20-%20Military-civilian%20health%20services%20partnership%20program.md)
 - [&sect; 01097 - Contracts for medical care for retirees, dependents, and survivors alternative delivery of health care](%C2%A7%2001097%20-%20Contracts%20for%20medical%20care%20for%20retirees%2C%20dependents%2C%20and%20survivors%20alternative%20delivery%20of%20health%20care.md)
 - [&sect; 01097a - TRICARE Prime automatic enrollments; payment options](%C2%A7%2001097a%20-%20TRICARE%20Prime%20automatic%20enrollments%3B%20payment%20options.md)
+- [&sect; 01097b - TRICARE program financial management](%C2%A7%2001097b%20-%20TRICARE%20program%20financial%20management.md)
 - [&sect; 01098 - Incentives for participation in cost-effective health care plans](%C2%A7%2001098%20-%20Incentives%20for%20participation%20in%20cost-effective%20health%20care%20plans.md)
 - [&sect; 01099 - Health care enrollment system](%C2%A7%2001099%20-%20Health%20care%20enrollment%20system.md)
 - [&sect; 01100 - Defense Health Program Account](%C2%A7%2001100%20-%20Defense%20Health%20Program%20Account.md)

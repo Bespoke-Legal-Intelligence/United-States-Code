@@ -10,7 +10,7 @@
 
 &emsp;(4) if a commissioned, warrant, or enlisted Reserve, be reappointed or reenlisted as a Reserve for service in his reserve component in the reserve grade held by him when his name was placed on the temporary disability retired list, or appointed or enlisted in the next higher reserve commissioned, warrant, or enlisted grade, as the case may be;
 
-&emsp;(5) if a commissioned, warrant, or enlisted member of the Army National Guard of the United States or the Air National Guard of the United States when the disability was incurred, and if he cannot be reappointed or reenlisted as a Reserve for service therein, be appointed or enlisted as a Reserve for service in the Army Reserve or the Air Force Reserve, as the case may be, in a grade corresponding to the reserve grade held by him when hisname was placed on the temporary disability retired list, or in the next higher reserve commissioned, warrant, or enlisted grade, as the case may be; and
+&emsp;(5) if a commissioned, warrant, or enlisted member of the Army National Guard of the United States or the Air National Guard of the United States when the disability was incurred, and if he cannot be reappointed or reenlisted as a Reserve for service therein, be appointed or enlisted as a Reserve for service in the Army Reserve or the Air Force Reserve, as the case may be, in a grade corresponding to the reserve grade held by him when his name was placed on the temporary disability retired list, or in the next higher reserve commissioned, warrant, or enlisted grade, as the case may be; and
 
 &emsp;(6) if a member of the Army, or the Air Force, who has no regular or reserve grade, be reappointed or reenlisted in the Army, or the Air Force, as the case may be, in the temporary grade held by him when his name was placed on the temporary disability retired list, or appointed or enlisted in the next higher temporary grade.
 
@@ -164,7 +164,7 @@ Subsection (a)(5) is substituted for 37:275(b) (proviso) (as applicable to Army 
 
 Subsection (a)(6) is inserted, since the words “reserve component” are defined by section 102(k) of the source statute to include members of the Army and the Air Force who have no component status.
 
-In subsection (b)(2), the words “by and with the advice and consent of the Senate” are added to make it clear that all appointments to the grade of commissioned warrant officer in the Navy, Marine Corps, and Coast Guard require Senate confirmation. Although these words do not appear in section 405 of the Career Compensation Act of 1949, there is no indication that an exception to the basic law relating to appointments in commissioned grades was intended.
+In subsection (b)(2), the words “by and with the advice and consent of the Senate” are added to make itclear that all appointments to the grade of commissioned warrant officer in the Navy, Marine Corps, and Coast Guard require Senate confirmation. Although these words do not appear in section 405 of the Career Compensation Act of 1949, there is no indication that an exception to the basic law relating to appointments in commissioned grades was intended.
 
 Subsection (d)(3) is made applicable to members without component status, since the words “reserve component” are defined in section 102(k) of the source statute to include members of the Army and the Air Force who have no component status.
 

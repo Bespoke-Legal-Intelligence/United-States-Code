@@ -2,7 +2,7 @@
 
 #### (a) Classification by operation of law and attainment dates for nonattainment areas
 
-(1) Each area designated nonattainment for carbon monoxide pursuant to section 7407(d) of this title shall be classified at the time of such designation under table 1, by operation of law, as a Moderate Area or a Serious Area based on the design value for the area. The design value shall be calculated according to the interpretation methodology issued by the Administrator most recently before November 15, 1990. For each area classified under this subsection, the primary standard attainment date for carbon monoxide shall be as expeditiously as practicable but not later than the date provided in table 1:
+(1) Each area designated nonattainment for carbon monoxide pursuant to section 7407(d) of this title shall be classified at the time of such designation under table 1, by operation of law, as a Moderate Area or a Serious Area based on the design value for the area. The design value shall be calculated according to the interpretation methodology issued by the Administrator most recently before November 15, 1990. For each area classified under this subsection, the primary standard attainment date for carbonmonoxide shall be as expeditiously as practicable but not later than the date provided in table 1:
 
 TABLE 3 <sup>1</sup>
 

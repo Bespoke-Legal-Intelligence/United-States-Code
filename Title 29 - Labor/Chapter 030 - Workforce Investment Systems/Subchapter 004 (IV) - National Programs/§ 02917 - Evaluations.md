@@ -40,7 +40,7 @@ Not later than 30 days after the completion of such a draft report, the Secretar
 
 #### (f) Coordination
 
-The Secretary shall ensure the coordination of evaluations carried out by States pursuant to section 2871(e) of this title with the evaluations carried out under this section.
+The Secretary shall ensure the coordination of evaluations carried out by States pursuant tosection 2871(e) of this title with the evaluations carried out under this section.
 
 (Pub. L. 105–220, title I, §172, Aug. 7, 1998, 112 Stat. 1034.)
 

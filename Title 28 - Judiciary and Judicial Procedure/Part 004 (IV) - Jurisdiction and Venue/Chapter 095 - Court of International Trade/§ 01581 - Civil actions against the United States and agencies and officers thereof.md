@@ -42,7 +42,7 @@
 
 (j) The Court of International Trade shall not have jurisdiction of any civil action arising under section 305 of the Tariff Act of 1930.
 
-(Added Pub. L. 96–417, title II, §201, Oct. 10, 1980, 94 Stat. 1728; amended Pub. L. 98–573, title II, §212(b)(1), Oct. 30, 1984, 98 Stat. 2983; Pub. L. 99–514, title XVIII, §1891(1), Oct. 22, 1986, 100 Stat. 2926; Pub. L. 100–449, title IV, §402(a), Sept.28, 1988, 102 Stat. 1883; Pub. L. 103–182, title IV, §414(a)(1), title VI, §684(a)(1), Dec. 8, 1993, 107 Stat. 2147, 2219.)
+(Added Pub. L. 96–417, title II, §201, Oct. 10, 1980, 94 Stat. 1728; amended Pub. L. 98–573, title II, §212(b)(1), Oct. 30, 1984, 98 Stat. 2983; Pub. L. 99–514, title XVIII, §1891(1), Oct. 22, 1986, 100 Stat. 2926; Pub. L. 100–449, title IV, §402(a), Sept. 28, 1988, 102 Stat. 1883; Pub. L. 103–182, title IV, §414(a)(1), title VI, §684(a)(1), Dec. 8, 1993, 107 Stat. 2147, 2219.)
 
 #### Prior History of Court
 

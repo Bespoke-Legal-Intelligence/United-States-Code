@@ -1,8 +1,8 @@
 ### §121. Divisional applications
 
-If two or more independent and distinct inventions are claimed in one application, the Commissioner may require the application to be restricted to one of the inventions. If the other invention is made the subject of a divisional application which complies with the requirements of section 120 of this title it shall be entitled to the benefit of the filing date of the original application. A patent issuing on an application with respect to which a requirement for restriction under this section has been made, or on an application filed as a result of such a requirement, shall not be used as a reference either in the Patent and Trademark Office or in the courts against a divisional application or against the original application or any patent issued on either of them, if the divisional application is filed before the issuance of the patent on the other application. If a divisional application is directed solely to subject matter described and claimed in the original application as filed, the Commissioner may dispense with signing and execution by the inventor. The validity of a patent shall not be questioned for failure of the Commissioner to require the application to be restricted to one invention.
+If two or more independent and distinct inventions are claimed in one application, the Director may require the application to be restricted to one of the inventions. If the other invention is made the subject of a divisional application which complies with the requirements of section 120 of this title it shall be entitled to the benefit of the filing date of the original application. A patent issuing on an application with respect to which a requirement for restriction under this section has been made, or on an application filed as a result of such a requirement, shall not be used as a reference either in the Patent and Trademark Office or in the courts against a divisional application or against the original application or any patent issued on either of them, if the divisional application is filed before the issuance of the patent on the other application. If a divisional application is directed solely to subject matter described and claimed in the original application as filed, the Director may dispense with signing and execution by the inventor. The validity of a patent shall not be questioned for failure of the Director to require the application to be restricted to one invention.
 
-(July 19, 1952, ch. 950, 66 Stat. 800; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949.)
+(July 19, 1952, ch. 950, 66 Stat. 800; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
 
 #### Historical and Revision Notes
 
@@ -10,7 +10,13 @@ This section enacts as law existing practice with respect to division, at the sa
 
 #### Amendments
 
+1999—Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
+
 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 #### Effective Date of 1975 Amendment
 

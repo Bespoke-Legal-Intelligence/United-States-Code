@@ -60,7 +60,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;(i) at the interest rate the Administrator assigned before October 1, 1994, to the old capital investment, or
 
-&emsp;&emsp;&emsp;(ii) with respect to an old capital investment for which the Administrator has not assigned an interest rate before October 1, 1994, at a rate determined by the Secretary of the Treasury, taking into consideration prevailing market yields, during the month preceding the beginning of the fiscal year in which the related project, facility, or separable unit or feature is placed in service, on outstanding interest-bearingobligations of the United States with periods to maturity comparable to the period between the beginning of the fiscal year and the repayment date for the old capital investment.
+&emsp;&emsp;&emsp;(ii) with respect to an old capital investment for which the Administrator has not assigned an interest rate before October 1, 1994, at a rate determined by the Secretary of the Treasury, taking into consideration prevailing market yields, during the month preceding the beginning of the fiscal year in which the related project, facility, or separable unit or feature is placed in service, on outstanding interest-bearing obligations of the United States with periods to maturity comparable to the period between the beginning of the fiscal year and the repayment date for the old capital investment.
 
 #### (c) Interest rate for new principal amounts
 
@@ -130,7 +130,7 @@ In each contract of the Administrator that provides for the Administrator to sel
 
 #### (1) Repayment
 
-&emsp;This section does not affect the obligation of the Administrator to repay the principal associated with each capital investment, and topay interest on the principal, only from the “Administrator's net proceeds,” as defined in section 838h(b) of this title.
+&emsp;This section does not affect the obligation of the Administrator to repay the principal associated with each capital investment, and to pay interest on the principal, only from the “Administrator's net proceeds,” as defined in section 838h(b) of this title.
 
 #### (2) Payment of capital investment
 

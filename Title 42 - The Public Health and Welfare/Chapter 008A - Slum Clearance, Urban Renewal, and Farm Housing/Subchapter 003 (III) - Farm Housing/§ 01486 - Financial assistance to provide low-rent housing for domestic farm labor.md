@@ -52,7 +52,7 @@ As used in this section—
 
 #### (h) Migrant farmworker housing
 
-Notwithstanding the provisions of subsection (a)(3) of this section, the Secretary may, upon afinding of persistent need for migrant farmworker housing in any area, provide assistance to eligible applicants for 90 per centum of the development costs of such housing in such area to be used solely by migrant farmworkers while they are away from their residence. Such housing shall be constructed in such a manner as to be safe and weatherproof for the time it is to be occupied, be equipped with potable water and modern sanitation facilities (including a kitchen sink, toilet, and bathing facilities), and meet such other requirements as the Secretary may prescribe.
+Notwithstanding the provisions of subsection (a)(3) of this section, the Secretary may, upon a finding of persistent need for migrant farmworker housing in any area, provide assistance to eligible applicants for 90 per centum of the development costs of such housing in such area to be used solely by migrant farmworkers while they are away from their residence. Such housing shall be constructed in such a manner as to be safe and weatherproof for the time it is to be occupied, be equipped with potable water and modern sanitation facilities (including a kitchen sink, toilet, and bathing facilities), and meet such other requirements as the Secretary may prescribe.
 
 #### (i) Farm labor housing
 
@@ -78,7 +78,7 @@ Housing and related facilities constructed with grants under this section may be
 
 &emsp;&emsp;The Secretary may provide the following assistance for housing under this subsection:
 
-&emsp;&emsp;&emsp;(i) An advance, in an amount not to exceed $400,000, of the cost of acquisition, substantial rehabilitation, or acquisition and rehabilitation of an existing structure or construction of a new structure for use in the provision of housing under this subsection. The repayment of any outstanding debt owed on a loan made to purchase an existing structure shall be considered to be a cost of acquisition eligible for an advance under this subparagraph if the structure was not used for the purposes under this subsection prior to the receipt of assistance.
+&emsp;&emsp;&emsp;(i) An advance, in an amount not to exceed $400,000, of the cost of acquisition,substantial rehabilitation, or acquisition and rehabilitation of an existing structure or construction of a new structure for use in the provision of housing under this subsection. The repayment of any outstanding debt owed on a loan made to purchase an existing structure shall be considered to be a cost of acquisition eligible for an advance under this subparagraph if the structure was not used for the purposes under this subsection prior to the receipt of assistance.
 
 &emsp;&emsp;&emsp;(ii) A grant, in an amount not to exceed $400,000, for moderate rehabilitation of an existing structure for use in the provision of housing under this subsection.
 
@@ -178,7 +178,7 @@ Housing and related facilities constructed with grants under this section may be
 
 #### References in Text
 
-The Davis-Bacon Act, as amended, referred to in subsec. (f), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, asamended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+The Davis-Bacon Act, as amended, referred to in subsec. (f), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (f), is set out in the Appendix to Title 5, Government Organization and Employees.
 

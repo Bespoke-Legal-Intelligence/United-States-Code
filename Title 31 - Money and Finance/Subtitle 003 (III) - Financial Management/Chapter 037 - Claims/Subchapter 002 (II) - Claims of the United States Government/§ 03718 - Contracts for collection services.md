@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) laws and regulations of the United States Government and State governments related to debt collection practices.
 
-(b)(1)(A) The Attorney General may make contracts retaining private counsel to furnish legal services, including representation in negotiation, compromise, settlement, and litigation, in the case of any claim of indebtedness owed the United States. Each such contract shall include such terms and conditions as the Attorney General considers necessary and appropriate, including a provision specifying the amount of the fee to be paid to the private counsel under such contract or the method for calculating that fee. The amount of the fee payable for legal services furnished under any such contract may not exceed the fee that counsel engaged in the private practice of law in the area or areas where the legal services are furnished typically charge clients for furnishing legal services in the collection of claims of indebtedness, as determined by the Attorney General, considering the amount, age, and nature of the indebtedness and whether the debtor is an individual or a business entity. Nothing in this subparagraph shall relieve the Attorney General of the competition requirements set forth in title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 and following).
+(b)(1)(A) The Attorney General may make contracts retaining private counsel to furnish legal services, including representation in negotiation, compromise, settlement, and litigation, in the case of any claim of indebtedness owed the United States. Each such contract shall include such terms and conditions as the Attorney General considers necessary and appropriate, including a provision specifying the amount of the fee to be paid to the private counsel under such contract or the method for calculating that fee. Theamount of the fee payable for legal services furnished under any such contract may not exceed the fee that counsel engaged in the private practice of law in the area or areas where the legal services are furnished typically charge clients for furnishing legal services in the collection of claims of indebtedness, as determined by the Attorney General, considering the amount, age, and nature of the indebtedness and whether the debtor is an individual or a business entity. Nothing in this subparagraph shall relieve the Attorney General of the competition requirements set forth in title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 and following).
 
 (B) The Attorney General shall use his best efforts to enter into contracts under this paragraph with law firms owned and controlled by socially and economically disadvantaged individuals and law firms that are qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act), so as to enable each agency to comply with paragraph (3).
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(C) on which the Attorney General terminated the private counsel's representation during the 1-year period covered by the report without terminating the contract with the private counsel under which the claims were referred.
 
-(d) Notwithstanding section 3302(b) of this title, a contract under subsection (a) or (b) of this section may provide that a fee a person charges to recover indebtedness owed, or to locate or recover assets of, the United States Government is payable from the amount recovered.
+(d) Notwithstanding section 3302(b) of this title, a contract under subsection (a) or (b) ofthis section may provide that a fee a person charges to recover indebtedness owed, or to locate or recover assets of, the United States Government is payable from the amount recovered.
 
 (e) A contract under subsection (a) or (b) of this section is effective only to the extent and in the amount provided in an appropriation law. This limitation does not apply in the case of a contract that authorizes a person to collect a fee as provided in subsection (d) of this section.
 
@@ -132,7 +132,7 @@ Subsec. (d). Pub. L. 99–578, §1(1), (2), temporarily redesignated former subs
 
 Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-Subsec. (e). Pub. L. 99–578, §1(1), (3), temporarily redesignated former subsec. (c) as (e), inserted “or (b)” after “(a)”, and substituted “subsection (d)” for “subsection (b)”. See Effective and Termination Dates of 1986 Amendment note below.
+Subsec. (e). Pub. L. 99–578, §1(1), (3), temporarily redesignated former subsec. (c) as (e), inserted “or (b)”after “(a)”, and substituted “subsection (d)” for “subsection (b)”. See Effective and Termination Dates of 1986 Amendment note below.
 
 Subsec. (f). Pub. L. 99–578, §1(1), temporarily redesignated former subsec. (d) as (f). See Effective and Termination Dates of 1986 Amendment note below.
 

@@ -4,7 +4,7 @@
 
 Upon the basis of facts disclosed by the record and reports of the Securities and Exchange Commission made pursuant to section 79z–4 of this title, and facts otherwise disclosed and ascertained, it is found that investment companies are affected with a national public interest in that, among other things—
 
-&emsp;(1) the securities issued by such companies, which constitute a substantial part of all securities publicly offered, are distributed, purchased, paid for, exchanged, transferred, redeemed, and repurchased by use of the mails and means and instrumentalities of interstate commerce, and in the case of the numerous companies which issue redeemable securities this process of distribution and redemption is continuous;
+&emsp;(1) the securities issued by such companies, which constitute a substantial part of all securities publicly offered, are distributed, purchased, paid for, exchanged, transferred, redeemed, and repurchased by use of the mails and means and instrumentalities of interstate commerce, and in the case of the numerouscompanies which issue redeemable securities this process of distribution and redemption is continuous;
 
 &emsp;(2) the principal activities of such companies—investing, reinvesting, and trading in securities—are conducted by use of the mails and means and instrumentalities of interstate commerce, including the facilities of national securities exchanges, and constitute a substantial part of all transactions effected in the securities markets of the Nation;
 

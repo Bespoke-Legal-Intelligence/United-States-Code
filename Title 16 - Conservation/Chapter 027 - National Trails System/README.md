@@ -54,7 +54,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 460iii–5, 1261 of this title.
+This chapter is referred to in section 460iii–5 of this title.
 
 
 ---

@@ -42,7 +42,7 @@ Miscellaneous Authority.—Amtrak may—
 
 &emsp;(3) improve its reservation system and advertising;
 
-&emsp;(4) provide food and beverage services on its trains only if revenues from the services eachyear at least equal the cost of providing the services;
+&emsp;(4) provide food and beverage services on its trains only if revenues from the services each year at least equal the cost of providing the services;
 
 &emsp;(5) conduct research, development, and demonstration programs related to the mission of Amtrak; and
 

@@ -64,3 +64,7 @@ Pub. L. 105–277, div. A, §101(b) \[title I, §120(b)\], Oct. 21, 1998, 112 St
 
 Section 320702(b) of Pub. L. 103–322 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1994.”
 
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
+

@@ -20,7 +20,7 @@ The objective of this chapter is to restore and maintain the chemical, physical,
 
 #### (b) Congressional recognition, preservation, and protection of primary responsibilities and rights of States
 
-It is the policy of the Congress to recognize, preserve, and protect the primary responsibilities and rights of States to prevent, reduce, and eliminate pollution, to plan the development and use (including restoration, preservation, and enhancement) of land and water resources, and to consult with the Administrator in the exercise of his authority under this chapter. It is the policy of Congress that the States manage the construction grant program under this chapter and implement the permit programs under sections 1342 and 1344 of this title. It is further the policy of the Congress to support and aid research relating to the prevention, reduction, and elimination of pollution and to provide Federal technical services and financial aid to State and interstate agencies and municipalities in connection with the prevention, reduction, and elimination of pollution.
+It is the policy of the Congress to recognize, preserve, and protect the primary responsibilities and rights of States to prevent, reduce, and eliminate pollution, to plan the development and use (including restoration, preservation, and enhancement) of land and water resources, and to consult with the Administrator in the exercise of his authority under this chapter. It is the policy of Congress that the States manage the construction grant program under this chapter and implement the permit programs under sections 1342 and 1344 of this title. It is further the policy of the Congress to support and aid research relating to the prevention, reduction, and elimination of pollution and to provide Federaltechnical services and financial aid to State and interstate agencies and municipalities in connection with the prevention, reduction, and elimination of pollution.
 
 #### (c) Congressional policy toward Presidential activities with foreign countries
 
@@ -78,7 +78,7 @@ Section 1(a) of Pub. L. 100–4 provided that: “This Act \[enacting sections 1
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–117, §1, Dec. 29, 1981, 95 Stat. 1623, provided that: “This Act \[enacting sections 1298, 1299, and 1313a of this title, amending sections 1281 to 1285, 1287, 1291, 1292, 1296, 1311, and 1314 of this title, and enacting provisions set out as notes under sections 1311 and 1375 of this title\] may be cited as the ‘Municipal Wastewater Treatment Construction Grant Amendments of 1981’.”
+Pub. L. 97–117, §1, Dec. 29, 1981, 95 Stat. 1623, provided that: “This Act \[enacting sections 1298, 1299, and 1313a of this title, amending sections 1281 to 1285, 1287, 1291,1292, 1296, 1311, and 1314 of this title, and enacting provisions set out as notes under sections 1311 and 1375 of this title\] may be cited as the ‘Municipal Wastewater Treatment Construction Grant Amendments of 1981’.”
 
 #### Short Title of 1977 Amendment
 
@@ -144,7 +144,7 @@ Advisory Committee.—(1) For the purpose of providing oversight of the Program 
 
 &emsp;“(A) three members representing agencies having authority under State law to regulate the shellfish industry, of whom one shall represent each of the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions;
 
-&emsp;“(B) three members representing persons engaged in the shellfish industry in the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions (who shall be appointed from among at least six recommendations by the industry members of the Interstate Shellfish Sanitation Conference Executive Board), of whom one shall represent the shellfish industry in each region;
+&emsp;“(B) three members representing persons engaged in the shellfish industry in the Atlantic, Pacific, andGulf of Mexico shellfish growing regions (who shall be appointed from among at least six recommendations by the industry members of the Interstate Shellfish Sanitation Conference Executive Board), of whom one shall represent the shellfish industry in each region;
 
 &emsp;“(C) three members, of whom one shall represent each of the following Federal agencies: the National Oceanic and Atmospheric Administration, the Environmental Protection Agency, and the Food and Drug Administration; and
 
@@ -241,6 +241,10 @@ Section 11 of Pub. L. 92–500 directed President, by utilization of the General
 #### Sex Discrimination
 
 Section 13 of Pub. L. 92–500 provided that: “No person in the United States shall on the ground of sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal assistance under this Act \[see Short Title note above\] the Federal Water Pollution Control Act \[this chapter\], or the Environmental Financing Act \[set out as a note under section 1281 of this title\]. This section shall be enforced through agency provisions and rules similar to those already established, with respect to racial and other discrimination, under title VI of the Civil Rights Act of 1964 \[section 2000d et seq. of Title 42, The Public Health and Welfare\]. However, this remedy is not exclusive and will not prejudice or cut off any other legal remedies available to a discriminatee.”
+
+#### Contiguous Zone of United States
+
+For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Prevention, Control, and Abatement of Environmental Pollution at Federal Facilities
 

@@ -16,7 +16,7 @@ In this subchapter—
 
 &emsp;(7) the term “underserved populations” includes populations underserved because of geographic location (such as rural isolation), underserved racial or ethnic populations, and populations underserved because of special needs, such as language barriers or physical disabilities; and
 
-&emsp;(8) the term “victim services” means a nonprofit, nongovernmental organization that assists domestic violence or sexual assault victims, including rape crisis centers, battered women's shelters, and other sexual assault ordomestic violence programs, including nonprofit, nongovernmental organizations assisting domestic violence or sexual assault victims through the legal process.
+&emsp;(8) the term “victim services” means a nonprofit, nongovernmental organization that assists domestic violence or sexual assault victims, including rape crisis centers, battered women's shelters, and other sexual assault or domestic violence programs, including nonprofit, nongovernmental organizations assisting domestic violence or sexual assault victims through the legal process.
 
 (Pub. L. 90–351, title I, §2003, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1913.)
 

@@ -30,7 +30,7 @@
 
 &emsp;(A) An election by a corporation to be treated as a DISC shall be made by such corporation for a taxable year at any time during the 90–day period immediately preceding the beginning of the taxable year, except that the Secretary may give his consent to the making of an election at such other times as he may designate.
 
-&emsp;(B) Such election shall be made in such manner as the Secretary shall prescribe and shall be valid only if all persons who are shareholders in such corporation on the first day of the first taxable year for which such election is effective consent to such election.
+&emsp;(B) Such election shall be made in such manner as the Secretary shall prescribe and shallbe valid only if all persons who are shareholders in such corporation on the first day of the first taxable year for which such election is effective consent to such election.
 
 #### (2) Effect of election
 

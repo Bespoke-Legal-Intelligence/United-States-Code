@@ -137,7 +137,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 671a, 1553 of this title; title 2 sections 1302, 1341, 1371, 1434; title 3 sections 402, 425; title 15 sections 2080, 2603; title 25 section 450m; title 30 section 951; title 31 section 1105; title 42 sections 280b–1, 300ee–2, 2297b–11, 2297h–13, 4853a, 6971, 7412, 11021, 11022.
+This chapter is referred to in sections 671a, 1553 of this title; title 2 sections 1302, 1341, 1371, 1434; title 3 sections 402, 425; title 15 sections 2080, 2603; title 25 section 450m; title 30 section 951; title 31 section 1105; title 39 sections 404, 415, 3622; title 42 sections 280b–1, 300ee–2, 2297h–13, 4853a, 6971, 7412, 11021, 11022.
 
 
 ---

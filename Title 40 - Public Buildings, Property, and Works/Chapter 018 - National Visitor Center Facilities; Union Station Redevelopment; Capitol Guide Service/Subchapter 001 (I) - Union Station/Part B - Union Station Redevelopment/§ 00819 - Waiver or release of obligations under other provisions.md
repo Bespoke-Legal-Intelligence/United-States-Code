@@ -6,7 +6,7 @@ The Secretary of Transportation is authorized, on such terms and conditions as h
 
 #### (b) Waiver of statutory and contractual restrictions on the use of the parking facility
 
-The Secretary of Transportation shall waive such statutory or contractual restrictions onthe use of the parking structure and associated ramps described in section 818 of this title as would otherwise be required or imposed because funds for such construction were or are provided under chapter 53 of title 49.
+The Secretary of Transportation shall waive such statutory or contractual restrictions on the use of the parking structure and associated ramps described in section 818 of this title as would otherwise be required or imposed because funds for such construction were or are provided under chapter 53 of title 49.
 
 #### (c) Use of funds appropriated under other provisions without matching funds requirement
 

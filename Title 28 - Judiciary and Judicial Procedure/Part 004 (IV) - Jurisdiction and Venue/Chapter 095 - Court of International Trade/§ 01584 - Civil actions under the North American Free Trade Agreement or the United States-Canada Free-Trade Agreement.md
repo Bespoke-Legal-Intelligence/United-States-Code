@@ -1,6 +1,6 @@
 ### §1584. Civil actions under the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement
 
-The United States Court of International Trade shall have exclusive jurisdiction of any civil action which arises under section 777(f) of the Tariff Act of 1930 and is commenced by the United States to enforce administrative sanctions levied for violation of a protective order or an undertaking.
+The United States Court of International Trade shall have exclusive jurisdiction of any civil action which arises under section 777(f) of the Tariff Act of 1930 and is commenced by theUnited States to enforce administrative sanctions levied for violation of a protective order or an undertaking.
 
 (Added Pub. L. 100–449, title IV, §402(d)(1), Sept. 28, 1988, 102 Stat. 1884; amended Pub. L. 103–182, title IV, §414(a)(2), Dec. 8, 1993, 107 Stat. 2147.)
 
@@ -10,7 +10,7 @@ Section 777(f) of the Tariff Act of 1930, referred to in text, is classified to 
 
 #### Prior Provisions
 
-A prior section 1584, added Pub. L. 96–417, title II, §201, Oct. 10, 1980, 94 Stat. 1729, provided that if a civil action within the exclusive jurisdiction of the Court of International Trade was commenced in a district court of the United States, the district court, in the interest of justice, was to transfer such civil action to the Court of International Trade, where such action would proceed as if it had been commenced in the Court of International Trade in the first instance, and that if a civil action within the exclusive jurisdiction of a district court, a court of appeals, or the Court of Customs and Patent Appeals was commenced in the Court of International Trade, the Court of International Trade, in the interest of justice, would transfer such civil action to the appropriate district court or court of appeals or to the Court of Customs and Patent Appeals where suchaction was to proceed as if it had been commenced in such court in the first instance, prior to repeal by Pub. L. 97–164, title I, §135, Apr. 2, 1982, 96 Stat. 41, effective Oct. 1, 1982.
+A prior section 1584, added Pub. L. 96–417, title II, §201, Oct. 10, 1980, 94 Stat. 1729, provided that if a civil action within the exclusive jurisdiction of the Court of International Trade was commenced in a district court of the United States, the district court, in the interest of justice, was to transfer such civil action to the Court of International Trade, where such action would proceed as if it had been commenced in the Court of International Trade in the first instance, and that if a civil action within the exclusive jurisdiction of a district court, a court of appeals, or the Court of Customs and Patent Appeals was commenced in the Court of International Trade, the Court of International Trade, in the interest of justice, would transfer such civil action to the appropriate district court or court of appeals or to the Court of Customs and Patent Appeals where such action was to proceed as if it had been commenced in such court in the first instance, prior to repeal by Pub. L. 97–164, title I, §135, Apr. 2, 1982, 96 Stat. 41, effective Oct. 1, 1982.
 
 #### Amendments
 

@@ -10,7 +10,7 @@
 
 &emsp;The purposes of the PBO are—
 
-&emsp;&emsp;(A) to improve service to students and other participants in the student financialassistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, including making those programs more understandable to students and their parents;
+&emsp;&emsp;(A) to improve service to students and other participants in the student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, including making those programs more understandable to students and their parents;
 
 &emsp;&emsp;(B) to reduce the costs of administering those programs;
 
@@ -82,7 +82,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each year, the Secretary and Chief Operating Officer shall agree on, and make available to the public, a performance plan forthe PBO for the succeeding 5 years that establishes measurable goals and objectives for the organization.
+&emsp;&emsp;Each year, the Secretary and Chief Operating Officer shall agree on, and make available to the public, a performance plan for the PBO for the succeeding 5 years that establishes measurable goals and objectives for the organization.
 
 #### (B) Consultation
 
@@ -160,11 +160,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each year, the Secretary and the Chief Operating Officer shall enter into an annual performance agreement, that shall set forth measurable organization and individual goals for the Chief Operating Officer.
+&emsp;&emsp;Each year, the Secretary and the Chief Operating Officer shall enter into an annualperformance agreement, that shall set forth measurable organization and individual goals for the Chief Operating Officer.
 
 #### (B) Transmittal
 
-&emsp;&emsp;The final agreement, and any revision to the final agreement, shall be transmitted tothe Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, and made publicly available.
+&emsp;&emsp;The final agreement, and any revision to the final agreement, shall be transmitted to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, and made publicly available.
 
 #### (5) Compensation
 
@@ -230,7 +230,7 @@
 
 #### (4) Report
 
-&emsp;Each year, the Ombudsman shall submit a report to the Chief Operating Officer, for inclusion in the annual report under subsection\(c)(2) of this section, that describes the activities, and evaluates the effectiveness of the Ombudsman during the preceding year.
+&emsp;Each year, the Ombudsman shall submit a report to the Chief Operating Officer, for inclusion in the annual report under subsection (c)(2) of this section, that describes the activities, and evaluates the effectiveness of the Ombudsman during the preceding year.
 
 #### (g) Personnel flexibility
 

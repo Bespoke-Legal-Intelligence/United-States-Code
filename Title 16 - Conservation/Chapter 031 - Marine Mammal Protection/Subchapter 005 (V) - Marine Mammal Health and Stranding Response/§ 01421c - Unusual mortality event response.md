@@ -4,7 +4,7 @@
 
 #### (1) Working group
 
-&emsp;(A) The Secretary, acting through the Office, shall establish, in consultation with the Secretary of the Interior, a marine mammal unusual mortality event working group, consisting of individuals with knowledge and experience in marine science, marine mammal science, marine mammal veterinary and husbandry practices, marine conservation, and medical science, to provide guidance to the Secretary and the Secretary of the Interior for—
+&emsp;(A) The Secretary, acting through the Office, shall establish, in consultation with the Secretary of the Interior, a marine mammal unusual mortality event working group, consisting of individuals with knowledge and experience in marine science, marine mammal science, marine mammal veterinary and husbandry practices, marine conservation, andmedical science, to provide guidance to the Secretary and the Secretary of the Interior for—
 
 &emsp;&emsp;(i) determining whether an unusual mortality event is occurring;
 

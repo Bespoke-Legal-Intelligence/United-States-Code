@@ -10,7 +10,7 @@ Of the personnel employed in the United States to carry out subchapter I of this
 
 #### (c) Additional supergrade positions
 
-Of the personnel employed in the United States to carry out subchapter II of this chapter, or any Act superseding subchapter II of this chapter in whole or in part, not to exceed eight may be compensated at rates higher than those provided for grade 15 of the general schedule established by section 5332 of title 5, but not in excess of the highest rate of grade 18 of such general schedule. Such positions shall be in addition to those authorized by law to be filled by Presidential appointment, and in addition to the number authorized by section 5108 of title 5.
+Of the personnel employed in the United States to carry out subchapter II of this chapter, or any Act superseding subchapter II of this chapter in whole or in part, not to exceed eightmay be compensated at rates higher than those provided for grade 15 of the general schedule established by section 5332 of title 5, but not in excess of the highest rate of grade 18 of such general schedule. Such positions shall be in addition to those authorized by law to be filled by Presidential appointment, and in addition to the number authorized by section 5108 of title 5.
 
 #### (d) Employment or assignment of officers and employees to perform functions outside United States
 
@@ -96,11 +96,7 @@ Amendment by Pub. L. 87–793 effective on first day of first pay period which b
 
 #### Delegation of Functions
 
-Functions of President under subsecs. (a), (d)(1), and (h), to the extent they relate to other functions underthis chapter administered by Department of Defense, delegated to Secretary of Defense, by section 1–301(b) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as a note under section 2381 of this title.
-
-Function of prescribing regulations conferred upon President by proviso contained in subsec. (b) delegated to Director of Office of Personnel Management by section 1–503 of Ex. Ord. No. 12163.
-
-Functions of President under subsec. (d), insofar as they relate to personnel in Department of State, delegated to Secretary of State by section 1–201(a)(14) of Ex. Ord. No. 12163.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

@@ -34,5 +34,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7303, 7471, 8153, 8201, 8241 of this title.
+This section is referred to in sections 7303, 7362, 7471, 8153, 8201, 8241 of this title.
 

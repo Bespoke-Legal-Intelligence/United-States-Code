@@ -430,7 +430,7 @@ For provisions directing that if any amendments made by Pub. L. 99–509 require
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 623, 1003, 1023, 1053, 1055, 1056, 1081, 1082, 1143a, 1144, 1301, 1321, 1342, 1453, 2104, 2611 of this title; title 5 sections 8438, 8477; title 12 section 1821; title 15 sections 77b, 662; title 18 section 1954; title 26 sections 412, 414, 3121, 3306, 4980B, 4980D, 9702, 9712, 9803; title 38 sections 4303, 4317, 4318; title 42 sections 300bb–8, 300gg–91, 409, 1306, 1320d, 3058k.
+This section is referred to in sections 623, 1003, 1023, 1053, 1055, 1056, 1081, 1082, 1143a, 1144, 1301, 1321, 1342, 1453, 2104, 2611 of this title; title 5 sections 8438, 8477; title 12 section 1821; title 15 sections 77b, 78c, 662; title 18 section 1954; title 26 sections 412, 414, 3121, 3306, 4980B, 4980D, 9702, 9712, 9803; title 38 sections 4303, 4317, 4318; title 42 sections 300bb–8, 300gg–91, 409, 1306, 1320d, 3058k.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

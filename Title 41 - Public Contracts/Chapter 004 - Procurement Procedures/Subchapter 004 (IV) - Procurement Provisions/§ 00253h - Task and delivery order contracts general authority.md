@@ -60,6 +60,44 @@ Section 1054(b) of Pub. L. 103–355 provided that: “Nothing in section 303H, 
 
 &emsp;“(2) the Brooks Architect-Engineers Act (title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.)).”
 
+#### Guidance on Use of Task Order and Delivery Order Contracts
+
+Pub. L. 106–65, div. A, title VIII, §804, Oct. 5, 1999, 113 Stat. 704, provided that:
+
+“(a)
+
+Guidance in the Federal Acquisition Regulation.—Not later than 180 days after the date of the enactment of this Act \[Oct. 5, 1999\], the Federal Acquisition Regulation issued in accordance with sections 6 and 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 405 and 421) shall be revised to provide guidance to agencies on the appropriate use of task order and delivery order contracts in accordance with sections 2304a through 2304d of title 10, United States Code, and sections 303H through 303K of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253h through 253k).
+
+“(b)
+
+Content of Guidance.—The regulations issued pursuant to subsection (a) shall, at a minimum, provide the following:
+
+&emsp;“(1) Specific guidance on the appropriate use of governmentwide and other multiagency contracts entered into in accordance with the provisions of law referred to in that subsection.
+
+&emsp;“(2) Specific guidance on steps that agencies should take in entering into and administering multiple award task order and delivery order contracts to ensure compliance with—
+
+&emsp;&emsp;“(A) the requirement in section 5122 of the Clinger-Cohen Act (40 U.S.C. 1422) for capital planning and investment control in purchases of information technology products and services;
+
+&emsp;&emsp;“(B) the requirement in section 2304c(b) of title 10, United States Code, and section 303J(b) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253j(b)) to ensure that all contractors are afforded a fair opportunity to be considered for the award of task orders and delivery orders; and
+
+&emsp;&emsp;“(C) the requirement in section 2304c(c) of title 10, United States Code, and section 303J(c) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253j(c)) for a statement of work in each task order or delivery order issued that clearly specifies all tasks to be performed or property to be delivered under the order.
+
+“(c)
+
+GSA Federal Supply Schedules Program.—The Administrator for Federal Procurement Policy shall consult with the Administrator of General Services to assess the effectiveness of the multiple awards schedule program of the General Services Administration referred to in section 309(b)(3) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 259(b)(3)) that is administered as the Federal Supply Schedules program. The assessment shall include examination of the following:
+
+&emsp;“(1) The administration of the program by the Administrator of General Services.
+
+&emsp;“(2) The ordering and program practices followed by Federal customer agencies in using schedules established under the program.
+
+“(d)
+
+GAO Report.—Not later than one year after the date on which the regulations required by subsection (a) are published in the Federal Register, the Comptroller General shall submit to Congress an evaluation of—
+
+&emsp;“(1) executive agency compliance with the regulations; and
+
+&emsp;“(2) conformance of the regulations with existing law, together with any recommendations that the Comptroller General considers appropriate.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 253i, 253j, 253k of this title.

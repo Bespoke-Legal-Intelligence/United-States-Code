@@ -34,9 +34,13 @@ July 5, 1935, ch. 373, §§2 (1st sentence), 4, 49 Stat. 458.
 
 36:3304 (1st sentence).
 
+&nbsp;
+
 21905(c)
 
 36:3304 (last sentence).
+
+&nbsp;
 
 In subsection (a), the word “capital” is omitted for consistency in the revised title.
 

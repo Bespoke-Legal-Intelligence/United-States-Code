@@ -1,0 +1,20 @@
+### §2405. Deputy Administrator for Defense Nuclear Nonproliferation
+
+#### (a) In general
+
+There is in the Administration a Deputy Administrator for Defense Nuclear Nonproliferation, who is appointed by the President, by and with the advice and consent of the Senate.
+
+#### (b) Duties
+
+Subject to the authority, direction, and control of the Administrator, the Deputy Administrator for Defense Nuclear Nonproliferation shall perform such duties and exercise such powers as the Administrator may prescribe, including the following:
+
+&emsp;(1) Preventing the spread of materials, technology, and expertise relating to weapons of mass destruction.
+
+&emsp;(2) Detecting the proliferation of weapons of mass destruction worldwide.
+
+&emsp;(3) Eliminating inventories of surplus fissile materials usable for nuclear weapons.
+
+&emsp;(4) Providing for international nuclear safety.
+
+(Pub. L. 106–65, div. C, title XXXII, §3215, Oct. 5, 1999, 113 Stat. 959.)
+

@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title13",
- "package": "USCODE-1998-title13",
+ "package": "USCODE-1999-title13",
  "pieces": [
   {
    "id": "13_",
@@ -89,7 +89,7 @@
      2,
      [
       [
-       277,
+       183,
        "[Page 4]"
       ]
      ]
@@ -302,7 +302,7 @@
     ],
     [
      "L",
-     62,
+     64,
      "[Page 11]",
      true
     ]
@@ -1059,16 +1059,30 @@
      true
     ],
     [
-     "L",
+     "I",
      60,
-     "[Page 35]",
-     true
+     [
+      [
+       104,
+       "[Page 35]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     132,
+     [
+      [
+       224,
+       "[Page 36]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Collection and Publication of Foreign Commerce and Trade Statistics/§ 00301 - Collection and publication.md",
    "printed_pages": [
     33,
-    35
+    36
    ]
   },
   {
@@ -1076,8 +1090,8 @@
    "marks": [],
    "path": "Chapter 009 - Collection and Publication of Foreign Commerce and Trade Statistics/§ 00302 - Rules, regulations, and orders.md",
    "printed_pages": [
-    35,
-    35
+    36,
+    36
    ]
   },
   {
@@ -1085,27 +1099,16 @@
    "marks": [],
    "path": "Chapter 009 - Collection and Publication of Foreign Commerce and Trade Statistics/§ 00303 - Secretary of Treasury functions.md",
    "printed_pages": [
-    35,
-    35
+    36,
+    36
    ]
   },
   {
    "id": "13_304",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       985,
-       "[Page 36]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Collection and Publication of Foreign Commerce and Trade Statistics/§ 00304 - Filing export information, delayed filings, penalties for failure to file.md",
    "printed_pages": [
-    35,
+    36,
     36
    ]
   },
@@ -1129,11 +1132,18 @@
   },
   {
    "id": "13_307",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 37]",
+     true
+    ]
+   ],
    "path": "Chapter 009 - Collection and Publication of Foreign Commerce and Trade Statistics/§ 00307 - Relationship to general census law.md",
    "printed_pages": [
     36,
-    36
+    37
    ]
   },
   {
@@ -1141,8 +1151,8 @@
    "marks": [],
    "path": "Chapter 010 - Exchange of Census Information/README.md",
    "printed_pages": [
-    36,
-    36
+    37,
+    37
    ]
   },
   {
@@ -1150,11 +1160,11 @@
    "marks": [],
    "path": "Chapter 010 - Exchange of Census Information/§ 00401 - Exchange of census information with Bureau of Economic Analysis.md",
    "printed_pages": [
-    36,
-    36
+    37,
+    37
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1998-title13 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1999-title13 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 13 - Census"
 }

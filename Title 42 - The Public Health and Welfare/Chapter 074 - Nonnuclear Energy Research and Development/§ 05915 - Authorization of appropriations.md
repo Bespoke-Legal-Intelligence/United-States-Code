@@ -32,7 +32,7 @@ Pub. L. 96–126, title II, §201, Nov. 27, 1979, 93 Stat. 970, as amended by Pu
 
 “For the purposes of this appropriation the term ‘alternative fuels’, means gaseous, liquid, or solid fuels and chemical feedstocks derived from coal, shale, tar sands, lignite, peat, biomass, solid waste, unconventional natural gas, and other minerals or organic materials other than crude oil or any derivative thereof.
 
-“Within ninety days following enactment of this Act \[Nov. 27, 1979\], the Secretary of Energy in his sole discretion shall issue a solicitation for applications whichshall include criteria for project development feasibility studies described in this account.
+“Within ninety days following enactment of this Act \[Nov. 27, 1979\], the Secretary of Energy in his sole discretion shall issue a solicitation for applications which shall include criteria for project development feasibility studies described in this account.
 
 “Loan guarantees for oil shale facilities issued under this appropriation may be used to finance construction of full-sized commercial facilities without regard to the proviso in section 19(b)(1) of said Act \[section 5919(b)(1) of this title\] requiring the prior demonstration of a modular facility.
 

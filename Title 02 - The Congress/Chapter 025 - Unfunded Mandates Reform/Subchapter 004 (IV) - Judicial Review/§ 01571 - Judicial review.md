@@ -14,7 +14,7 @@
 
 #### (3) Review of agency rules
 
-&emsp;In any judicial review under any other Federal law of an agency rule for which a written statement or plan is required under sections 1532 and 1533(a)(1) and (2) of this title, the inadequacy or failure to prepare such statement (including the inadequacy or failure to prepare any estimate, analysis, statement or description) or written plan shall not be used as a basis for staying, enjoining, invalidating or otherwise affecting such agency rule.
+&emsp;In any judicial review under any other Federal law of an agency rule for which a written statement or plan is required under sections 1532 and 1533(a)(1) and (2) of this title, the inadequacy or failure to prepare such statement (including the inadequacy or failure to prepareany estimate, analysis, statement or description) or written plan shall not be used as a basis for staying, enjoining, invalidating or otherwise affecting such agency rule.
 
 #### (4) Certain information as part of record
 

@@ -14,9 +14,9 @@ No nuclear materials and equipment or sensitive nuclear technology shall be expo
 
 &emsp;(2) any nation or group of nations that is found by the President to have, at any time after March 10, 1978,
 
-&emsp;&emsp;(A) materially violated an agreement for cooperation with the United States, or, with respect to material or equipment not supplied under an agreement for cooperation, materially violated the terms under which such material or equipment was supplied or the terms of any commitments obtained with respect thereto pursuant to section 2153a(a) of this title; or
+&emsp;&emsp;(A) materially violated an agreement for cooperation with the United States, or, with respect to material or equipment not supplied under an agreement for cooperation, materially violated the terms under which such material or equipment was supplied or the terms of any commitments obtainedwith respect thereto pursuant to section 2153a(a) of this title; or
 
-&emsp;&emsp;(B) assisted, encouraged, or induced any non-nuclear-weapon state to engage in activities involving source or special nuclear material and having direct significance for the manufacture or acquisition of nuclearexplosive devices, and has failed to take steps which, in the President's judgment, represent sufficient progress toward terminating such assistance, encouragement, or inducement; or
+&emsp;&emsp;(B) assisted, encouraged, or induced any non-nuclear-weapon state to engage in activities involving source or special nuclear material and having direct significance for the manufacture or acquisition of nuclear explosive devices, and has failed to take steps which, in the President's judgment, represent sufficient progress toward terminating such assistance, encouragement, or inducement; or
 
 &emsp;&emsp;(C) entered into an agreement after March 10, 1978, for the transfer of reprocessing equipment, materials, or technology to the sovereign control of a non-nuclear-weapon state except in connection with an international fuel cycle evaluation in which the United States is a participant or pursuant to a subsequent international agreement or understanding to which the United States subscribes;
 

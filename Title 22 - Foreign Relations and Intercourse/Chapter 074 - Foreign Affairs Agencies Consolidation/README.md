@@ -80,9 +80,7 @@
 | (c) | Limitation on use of funds. |
 | (d) | Reporting requirements. |
 | (e) | Congressional Presentation Document. |
-| [6553\.](Subchapter%20003%20%28III%29%20-%20United%20States%20Information%20Agency/Part%20C%20-%20Conforming%20Amendments/%C2%A7%2006553%20-%20Abolition%20of%20United%20States%20Advisory%20Commission%20on%20Public%20Diplomacy.md) | Abolition of United States Advisory Commission on Public Diplomacy. |
-| (a) | Abolition. |
-| (b) | Omitted. |
+| [6553\.](Subchapter%20003%20%28III%29%20-%20United%20States%20Information%20Agency/Part%20C%20-%20Conforming%20Amendments/%C2%A7%2006553%20-%20Sunset%20of%20United%20States%20Advisory%20Commission%20on%20Public%20Diplomacy.md) | Sunset of United States Advisory Commission on Public Diplomacy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

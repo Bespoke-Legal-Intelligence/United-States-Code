@@ -10,7 +10,7 @@
 
 (3) For purposes of this subsection, a veteran who served on active duty in the Southwest Asia theater of operations during the Persian Gulf War and has an illness described in paragraph (2) shall be presumed to have been exposed by reason of such service to the agent, hazard, or medicine or vaccine associated with the illness in the regulations prescribed under this section unless there is conclusive evidence to establish that the veteran was not exposed to the agent, hazard, or medicine or vaccine by reason of such service.
 
-(b)(1)(A) Whenever the Secretary makes a determination described in subparagraph (B), the Secretary shall prescribe regulations providing that a presumption of service connection is warranted for the illness covered by that determination for purposes of this section.
+(b)(1)(A) Whenever the Secretary makes a determination described in subparagraph (B), theSecretary shall prescribe regulations providing that a presumption of service connection is warranted for the illness covered by that determination for purposes of this section.
 
 (B) A determination referred to in subparagraph (A) is a determination based on sound medical and scientific evidence that a positive association exists between—
 
@@ -28,7 +28,7 @@
 
 (3) An association between the occurrence of an illness in humans or animals and exposure to an agent, hazard, or medicine or vaccine shall be considered to be positive for purposes of this subsection if the credible evidence for the association is equal to or outweighs the credible evidence against the association.
 
-(c)(1) Not later than 60 days after the date on which the Secretary receives a report from theNational Academy of Sciences under section 1603 of the Persian Gulf War Veterans Act of 1998, the Secretary shall determine whether or not a presumption of service connection is warranted for each illness, if any, covered by the report.
+(c)(1) Not later than 60 days after the date on which the Secretary receives a report from the National Academy of Sciences under section 1603 of the Persian Gulf War Veterans Act of 1998, the Secretary shall determine whether or not a presumption of service connection is warranted for each illness, if any, covered by the report.
 
 (2) If the Secretary determines under this subsection that a presumption of service connection is warranted, the Secretary shall, not later than 60 days after making the determination, issue proposed regulations setting forth the Secretary's determination.
 

@@ -38,13 +38,19 @@ Aug. 20, 1954, ch. 774, §§10, 11, 13, 68 Stat. 751.
 
 36:541.
 
+&nbsp;
+
 200307(c)
 
 36:540(a).
 
+&nbsp;
+
 200307(d)
 
 36:540(b).
+
+&nbsp;
 
 In subsection (a), the words “any shares of” are omitted as unnecessary.
 

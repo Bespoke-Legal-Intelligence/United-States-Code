@@ -80,5 +80,5 @@ District Court of Guam as having jurisdiction, in all courses arising under the 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 180, 371, 373, 376, 581, 1821 of this title; title 2 section 130b; title 5 sections 5532, 5537, 8331, 8344, 8440a, 8468; title 10 section 1408; title 18 sections 351, 4107, 4108; title 46 section 31301.
+This section is referred to in sections 180, 371, 373, 376, 581, 1821 of this title; title 2 section 130b; title 5 sections 5537, 8331, 8344, 8440a, 8468; title 10 section 1408; title 18 sections 351, 4107, 4108; title 46 section 31301.
 

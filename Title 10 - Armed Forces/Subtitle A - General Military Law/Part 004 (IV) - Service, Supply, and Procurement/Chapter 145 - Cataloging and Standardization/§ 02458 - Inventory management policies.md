@@ -24,6 +24,48 @@ Personnel Evaluations.—The Secretary of Defense shall establish procedures to 
 
 Secretary of Defense to establish uniform system of valuation described in subsec. (a)(3) of this section not later than 180 days after Dec. 5, 1991, see section 347(c) of Pub. L. 102–190, set out as a note under section 2721 of this title.
 
+#### Report on Inventory and Control of Military Equipment
+
+Pub. L. 106–65, div. A, title III, §363, Oct. 5, 1999, 113 Stat. 576, provided that:
+
+“(a)
+
+Report Required.—Not later than August 31, 2000, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the inventory and control of the military equipment of the Department of Defense as of the end of fiscal year 1999. The report shall address the inventories of each of the Army, Navy, Air Force, and Marine Corps separately.
+
+“(b)
+
+Content.—The report shall include the following:
+
+&emsp;“(1) For each item of military equipment in the inventory, stated by item nomenclature—
+
+&emsp;&emsp;“(A) the quantity of the item in the inventory as of the beginning of the fiscal year;
+
+&emsp;&emsp;“(B) the quantity of acquisitions of the item during the fiscal year;
+
+&emsp;&emsp;“(C) the quantity of disposals of the item during the fiscal year;
+
+&emsp;&emsp;“(D) the quantity of losses of the item during the performance of military missions during the fiscal year; and
+
+&emsp;&emsp;“(E) the quantity of the item in the inventory as of the end of the fiscal year.
+
+&emsp;“(2) A reconciliation of the quantity of each item in the inventory as of the beginning of the fiscal year with the quantity of the item in the inventory as of the end of the fiscal year.
+
+&emsp;“(3) For each item of military equipment that cannot be reconciled—
+
+&emsp;&emsp;“(A) an explanation of why the quantities cannot be reconciled; and
+
+&emsp;&emsp;“(B) a discussion of the remedial actions planned to be taken, including target dates for accomplishing the remedial actions.
+
+&emsp;“(4) Supporting schedules identifying the location of each item that are available to Congress or auditors of the Comptroller General upon request.
+
+“(c)
+
+Military Equipment Defined.—For the purposes of this section, the term ‘military equipment’ means all equipment that is used in support of military missions and is maintained on the visibility systems of the Army, Navy, Air Force, or Marine Corps.
+
+“(d)
+
+Inspector General Review.—Not later than November 30, 2000, the Inspector General of the Department of Defense shall review the report submitted to the committees under subsection (a) and shall submit to the committees any comments that the Inspector General considers appropriate.”
+
 #### Best Commercial Inventory Practices for Management of Secondary Supply Items
 
 Pub. L. 105–261, div. A, title III, §347, Oct. 17, 1998, 112 Stat. 1980, provided that:
@@ -40,7 +82,7 @@ Definition.—For purposes of this section, the term ‘best commercial inventor
 
 GAO Reports on Military Department and Defense Logistics Agency Schedules.—(1) Not later than 240 days after the date of the enactment of this Act, the Comptroller General shall submit to Congress a report evaluating the extent to which the Secretary of each military department has complied with the requirements of this section.
 
-“(2) Not later than 18 months after the date on which the Director of the Defense Logistics Agency submits to Congress a schedule for implementing best commercial inventory practices under section 395 of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 1718; 10 U.S.C. 2458 note),the Comptroller General shall submit to Congress an evaluation of the extent to which best commercial inventory practices are being implemented in the Defense Logistics Agency in accordance with that schedule.”
+“(2) Not later than 18 months after the date on which the Director of the Defense Logistics Agency submits to Congress a schedule for implementing best commercial inventory practices under section 395 of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 1718; 10 U.S.C. 2458 note), the Comptroller General shall submit to Congress an evaluation of the extent to which best commercial inventory practices are being implemented in the Defense Logistics Agency in accordance with that schedule.”
 
 #### Inventory Management of In-Transit Items
 

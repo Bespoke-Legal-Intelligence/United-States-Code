@@ -10,7 +10,7 @@ In the case of any experimental, pilot, or demonstration project which, in the j
 
 &emsp;(B) costs of such project which would not otherwise be a permissible use of funds under part A of subchapter IV of this chapter and which are not included as part of the costs of projects under section 1310 of this title, shall to the extent and for the period prescribed by the Secretary, be regarded as a permissible use of funds under such part.
 
-> In addition, not to exceed $4,000,000 of the aggregate amount appropriated for payments to States under such subchapters for any fiscal year beginning after June 30, 1967, shall be available, under such terms and conditions as the Secretary may establish, for payments to States to cover so much of the cost of such projects as is not covered by payments under such subchapters and is not included as part of the cost of projects for purposes of section 1310 of this title.
+> In addition, not to exceed $4,000,000 of the aggregate amount appropriated for payments toStates under such subchapters for any fiscal year beginning after June 30, 1967, shall be available, under such terms and conditions as the Secretary may establish, for payments to States to cover so much of the cost of such projects as is not covered by payments under such subchapters and is not included as part of the cost of projects for purposes of section 1310 of this title.
 
 #### (b) Child support enforcement programs
 
@@ -24,7 +24,7 @@ In the case of any experimental, pilot, or demonstration project undertaken unde
 
 #### (c) Demonstration projects to test alternative definitions of unemployment
 
-(1)(A) The Secretary shall enter into agreements with up to 8 States submitting applications under this subsection for the purpose of conducting demonstration projects in suchStates to test and evaluate the use, with respect to individuals who received aid under part A of subchapter IV of this chapter in the preceding month (on the basis of the unemployment of the parent who is the principal earner), of a number greater than 100 for the number of hours per month that such individuals may work and still be considered to be unemployed for purposes of section 607 of this title. If any State submits an application under this subsection for the purpose of conducting a demonstration project to test and evaluate the total elimination of the 100-hour rule, the Secretary shall approve at least one such application.
+(1)(A) The Secretary shall enter into agreements with up to 8 States submitting applications under this subsection for the purpose of conducting demonstration projects in such States to test and evaluate the use, with respect to individuals who received aid under part A of subchapter IV of this chapter in the preceding month (on the basis of the unemployment of the parent who is the principal earner), of a number greater than 100 for the number of hours per month that such individuals may work and still be considered to be unemployed for purposes of section 607 of this title. If any State submits an application under this subsection for the purpose of conducting a demonstration project to test and evaluate the total elimination of the 100-hour rule, the Secretary shall approve at least one such application.
 
 (B) If any State with an agreement under this subsection so requests, the demonstration project conducted pursuant to such agreement may test and evaluate the complete elimination of the 100-hour rule and of any other durational standard that might be applied in defining unemployment for purposes of determining eligibility under section 607 of this title.
 
@@ -60,7 +60,7 @@ In the case of any experimental, pilot, or demonstration project undertaken unde
 
 Parts A and D of subchapter IV of this chapter, referred to in text, are classified to sections 601 et seq. and 651 et seq., respectively, of this title.
 
-Sections 1382 and 1383 of this title, referred to in subsec. (a)(1), (2), respectively, are references to sections 1382 and 1383 of this title as they existed prior to thegeneral revision of this subchapter by Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, eff. Jan. 1, 1974. The prior sections (which are set out as notes under sections 1382 and 1383, respectively, of this title) continue in effect for Puerto Rico, Guam, and the Virgin Islands.
+Sections 1382 and 1383 of this title, referred to in subsec. (a)(1), (2), respectively, are references to sections 1382 and 1383 of this title as they existed prior to the general revision of this subchapter by Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, eff. Jan. 1, 1974. The prior sections (which are set out as notes under sections 1382 and 1383, respectively, of this title) continue in effect for Puerto Rico, Guam, and the Virgin Islands.
 
 #### Amendments
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explici
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 93–647 effective with respect to payments under sections 603 and 803 of this title for quarters commencing after Sept. 30, 1975, see section 7(b) of Pub. L. 93–647, set out as a note under section 303 of this title.
+Amendment by Pub. L. 93–647 effective with respect to payments under sections 603 and 803 of this title forquarters commencing after Sept. 30, 1975, see section 7(b) of Pub. L. 93–647, set out as a note under section 303 of this title.
 
 #### Effective Date of 1973 Amendment
 
@@ -152,7 +152,7 @@ Section 501 of Pub. L. 100–485, as amended by Pub. L. 103–432, title II, §2
 
 “(a)
 
-Demonstration Projects To Test the Effect of Early Childhood Development Programs.—(1) In order to test the effect of in-home early childhood development programs and pre-school center-based development programs (emphasizing the use of volunteers and including academic credit for student volunteers) on families receiving aid under State plans approved under section 402 of the Social Security Act \[section 602 of this title\] and participating in the job opportunities and basic skills training program under part F of title IV of such Act \[part F of subchapter IV of this chapter\], up to 10 States may undertake and carry out demonstration projects utilizing such development programs to enhance the cognitive skills and linguistic ability of children under the age of 5, to improve the communications skills of such children, and to developtheir ability to read, write, and speak the English language effectively. Such projects may include parents along with their eligible children in family-centered education programs that assist children directly in achieving the goals stated in the preceding sentence and also help parents contribute to the proper development and education of their young children. Demonstration projects under this subsection shall meet such conditions and requirements as the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall prescribe, and no such project shall be conducted for a period of more than 3 years.
+Demonstration Projects To Test the Effect of Early Childhood Development Programs.—(1) In order to test the effect of in-home early childhood development programs and pre-school center-based development programs (emphasizing the use of volunteers and including academic credit for student volunteers) on families receiving aid under State plans approved under section 402 of the Social Security Act \[section 602 of this title\] and participating in the job opportunities and basic skills training program under part F of title IV of such Act \[part F of subchapter IV of this chapter\], up to 10 States may undertake and carry out demonstration projects utilizing such development programs to enhance the cognitive skills and linguistic ability of children under the age of 5, to improve the communications skills of such children, and to develop their ability to read, write, and speak the English language effectively. Such projects may include parents along with their eligible children in family-centered education programs that assist children directly in achieving the goals stated in the preceding sentence and also help parents contribute to the proper development and education of their young children. Demonstration projects under this subsection shall meet such conditions and requirements as the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall prescribe, and no such project shall be conducted for a period of more than 3 years.
 
 “(2) The Secretary shall consider all applications received from States desiring to conduct demonstration projects under this subsection, shall approve up to 10 applications involving projects which appear likely to contribute significantly to the achievement of the purpose of this subsection, and shall make grants to the States whose applications are approved to assist them in carrying out such projects.
 
@@ -306,7 +306,7 @@ Section 11 of Pub. L. 93–233 provided that:
 
 > the Secretary may waive such requirements of title XVI of such Act (as enacted by section 301 of the Social Security Amendments of 1972) to such extent as he determines to be necessary to the successful operation of such project.
 
-“(c) In the case of any State which has entered into an agreement with the Secretary under section 1616 of the Social Security Act \[section 1382e of this title\] (or which is deemed, under section 212(d) of Public Law 93–66 \[set out as a note under section 1382 of this title\], to have entered into such an agreement), then, of the costs of any project of such State with respect to whichthere is (solely by reason of the provisions of subsection (a)) Federal financial participation, the non-Federal share thereof shall—
+“(c) In the case of any State which has entered into an agreement with the Secretary under section 1616 of the Social Security Act \[section 1382e of this title\] (or which is deemed, under section 212(d) of Public Law 93–66 \[set out as a note under section 1382 of this title\], to have entered into such an agreement), then, of the costs of any project of such State with respect to which there is (solely by reason of the provisions of subsection (a)) Federal financial participation, the non-Federal share thereof shall—
 
 &emsp;“(1) be paid, from time to time, to such State by the Secretary, and
 

@@ -56,7 +56,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 #### (1) Form and procedure
 
-&emsp;An application for an implementation grant shall be submitted by an applicant in such form and in accordance with such procedures as the Secretary shall establish.
+&emsp;An application for an implementation grant shall be submitted by an applicant in suchform and in accordance with such procedures as the Secretary shall establish.
 
 #### (2) Minimum requirements
 

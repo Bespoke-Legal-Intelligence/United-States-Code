@@ -21,10 +21,13 @@
 | [1012\.](%C2%A7%2001012%20-%20Disbursement%20and%20accounting%20pay%20of%20enlisted%20members%20of%20the%20National%20Guard.md) | Disbursement and accounting: pay of enlisted members of the National Guard. |
 | [1013\.](%C2%A7%2001013%20-%20Payment%20of%20compensation%20for%20victims%20of%20terrorism.md) | Payment of compensation for victims of terrorism. |
 | [1014\.](%C2%A7%2001014%20-%20Payment%20date%20for%20pay%20and%20allowances.md) | Payment date for pay and allowances. |
+| [1015\.](%C2%A7%2001015%20-%20Annual%20report%20on%20effects%20of%20recruitment%20and%20retention%20initiatives.md) | Annual report on effects of recruitment and retention initiatives. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title VI, §673(a)(2), Oct. 5, 1999, 113 Stat. 674, added item 1015.
 
 1997—Pub. L. 105–85, div. A, title VI, §604(a)(2), Nov. 18, 1997, 111 Stat. 1784, substituted “monthly basic pay” for “compensation” in item 1009.
 
@@ -67,3 +70,4 @@ Pub. L. 99–399, title VIII, §806(e)(2), Aug. 27, 1986, 100 Stat. 889, added i
 - [&sect; 01012 - Disbursement and accounting pay of enlisted members of the National Guard](%C2%A7%2001012%20-%20Disbursement%20and%20accounting%20pay%20of%20enlisted%20members%20of%20the%20National%20Guard.md)
 - [&sect; 01013 - Payment of compensation for victims of terrorism](%C2%A7%2001013%20-%20Payment%20of%20compensation%20for%20victims%20of%20terrorism.md)
 - [&sect; 01014 - Payment date for pay and allowances](%C2%A7%2001014%20-%20Payment%20date%20for%20pay%20and%20allowances.md)
+- [&sect; 01015 - Annual report on effects of recruitment and retention initiatives](%C2%A7%2001015%20-%20Annual%20report%20on%20effects%20of%20recruitment%20and%20retention%20initiatives.md)

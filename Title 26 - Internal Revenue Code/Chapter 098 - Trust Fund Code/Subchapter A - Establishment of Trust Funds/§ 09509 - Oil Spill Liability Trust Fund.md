@@ -130,11 +130,11 @@ The date of the enactment of this subsection, referred to in subsec. (f), probab
 
 “(3) amounts remaining (on January 1, 1990) in the Deepwater Port Liability Fund established by section 18(f) of the Deepwater Port Act of 1974,
 
-“(4) amounts remaining (on such date) in the Offshore Oil Pollution Compensation Fund established under section 302 of the Outer Continental Shelf Lands Act Amendments of 1978, and
+“(4) amounts remaining (on such date) in the Offshore Oil Pollution Compensation Fund established undersection 302 of the Outer Continental Shelf Lands Act Amendments of 1978, and
 
 “(5) amounts credited to such trust fund under section 311(s) of the Federal Water Pollution Control Act.”
 
-Subsec. (c)(1). Pub. L. 101–380, §9001(b), amended par. (1) generally, substituting “Expenditure purposes” for“General expenditure purposes” in heading and substituting current text consisting of subpars. (A) to (F) for former text consisting of general provisions in subpar. (A) and special rules in subpar. (B).
+Subsec. (c)(1). Pub. L. 101–380, §9001(b), amended par. (1) generally, substituting “Expenditure purposes” for “General expenditure purposes” in heading and substituting current text consisting of subpars. (A) to (F) for former text consisting of general provisions in subpar. (A) and special rules in subpar. (B).
 
 Subsec. (c)(2)(A). Pub. L. 101–380, §9001(c), substituted “$1,000,000,000” for “$500,000,000” in heading and in cl. (i), and substituted “$500,000,000” for “$250,000,000” in cl. (ii).
 

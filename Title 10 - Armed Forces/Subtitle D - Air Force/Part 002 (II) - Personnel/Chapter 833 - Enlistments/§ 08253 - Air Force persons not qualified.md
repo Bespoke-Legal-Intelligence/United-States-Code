@@ -38,11 +38,11 @@ R.S. 1998; restated Aug. 22, 1912, ch. 336, §1, 37 Stat. 356; Oct. 14, 1940, ch
 
 Aug. 1, 1894, ch. 179, §2, 28 Stat. 216; June 14, 1920, ch. 286, 41 Stat. 1077.
 
-In subsection (a), the words “an armed force” are substituted for the words “the military service of the United States”. The words “and no person” are omitted as surplusage. The last sentence is substituted for 10:622 (proviso). The words “by regulations or otherwise” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. Since the authority to enlist deserters “in meritorious cases”, granted to the Secretary by 10:622 is equivalent to or broader than his authority to do so under 10:624, the applicability of 10:624 to 10:622 is omitted as surplusage.
+In subsection (a), the words “an armed force” are substituted for the words “the military service of the United States”. The words “and no person” are omitted as surplusage. The last sentence is substituted for 10:622 (proviso). The words “by regulations or otherwise” areomitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. Since the authority to enlist deserters “in meritorious cases”, granted to the Secretary by 10:622 is equivalent to or broader than his authority to do so under 10:624, the applicability of 10:624 to 10:622 is omitted as surplusage.
 
 In subsection (b), the word “soldier”, in 10:623, is omitted as covered by the word “person”. The last sentence is substituted for 10:624.
 
-In subsections (b) and (c), the first 15 words and the proviso of section 2 of the Act of August 1, 1894, ch. 179,28 Stat. 216, are not contained in 10:623 or 625. They are also omitted from the revised section, since the first 15 words are superseded by section 8256(a) of this title, and the proviso is executed.
+In subsections (b) and (c), the first 15 words and the proviso of section 2 of the Act of August 1, 1894, ch. 179, 28 Stat. 216, are not contained in 10:623 or 625. They are also omitted from the revised section, since the first 15 words are superseded by section 8256(a) of this title, and the proviso is executed.
 
 In subsection (c), the words “(except an Indian)”, in section 2 of the Act of August 1, 1894, ch. 179, 28 Stat. 216, are not contained in 10:625. They are also omitted from the revised section, since section 201(b) of the Act of October 14, 1940, ch. 876, 54 Stat. 1138 (8 U.S.C. 601), provides that Indians are citizens and nationals of the United States. The words “may be accepted for original” are substituted for the words “shall be enlisted for the first”.
 

@@ -28,7 +28,7 @@ For purposes of this section—
 
 &emsp;&emsp;(D)(i) receives funds under—
 
-&emsp;&emsp;&emsp;(I) section 254b, 254c, or 256 of this title,<sup>1</sup>
+&emsp;&emsp;&emsp;(I) section 254b or 254c of this title,
 
 &emsp;&emsp;&emsp;(II) subchapter V of this chapter, or
 
@@ -56,7 +56,7 @@ For purposes of this section—
 
 &emsp;(A) notify the State agency of the determination within 5 working days after the date on which determination is made, and
 
-&emsp;(B) inform the woman at the time the determination is made that she is required to makeapplication for medical assistance under the State plan by not later than the last day of the month following the month during which the determination is made.
+&emsp;(B) inform the woman at the time the determination is made that she is required to make application for medical assistance under the State plan by not later than the last day of the month following the month during which the determination is made.
 
 (3) A pregnant woman who is determined by a qualified provider to be presumptively eligible for medical assistance under a State plan shall make application for medical assistance under such plan by not later than the last day of the month following the month during which the determination is made, which application may be the application used for the receipt of medical assistance by individuals described in section 1396a(<i>l</i>)(1)(A) of this title.
 
@@ -74,13 +74,9 @@ Notwithstanding any other provision of this subchapter, ambulatory prenatal care
 
 > shall be treated as medical assistance provided by such plan for purposes of section 1396b of this title.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1920, as added Pub. L. 99–509, title IX, §9407(b), Oct. 21, 1986, 100 Stat. 2058; amended Pub. L. 100–360, title IV, §411(k)(16)(A), (B), July 1, 1988, 102 Stat. 799; Pub. L. 100–485, title VI, §608(d)(26)(L), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–508, title IV, §4605(a), (b), Nov. 5, 1990, 104 Stat. 1388–169.)
+(Aug. 14, 1935, ch. 531, title XIX, §1920, as added Pub. L. 99–509, title IX, §9407(b), Oct. 21, 1986, 100 Stat. 2058; amended Pub. L. 100–360, title IV, §411(k)(16)(A), (B), July 1, 1988, 102 Stat. 799; Pub. L. 100–485, title VI, §608(d)(26)(L), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–508, title IV, §4605(a), (b), Nov. 5, 1990, 104 Stat. 1388–169; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(q)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–397.)
 
 #### References in Text
-
-Sections 254b and 254c of this title, referred to in subsec. (b)(2)(D)(i)(I), were in the original references to sections 329 and 330 of the Public Health Service Act, act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of chapter 6A of this title by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
-
-Section 256 of this title, referred to in subsec. (b)(2)(D)(i)(I), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 
 The Indian Health Care Improvement Act, referred to in subsec. (b)(2)(D)(i)(III), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended. Title V of the Indian Health Care Improvement Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
@@ -93,6 +89,8 @@ The Indian Self-Determination Act (Public Law 93–638), referred to in subsec. 
 A prior section 1920 of act Aug. 14, 1935, was renumbered section 1928 and is classified to section 1396s of this title.
 
 #### Amendments
+
+1999—Subsec. (b)(2)(D)(i)(I). Pub. L. 106–113 substituted “section 254b or 254c of this title,” for “section 254b, 254c, or 256 of this title,”.
 
 1990—Subsec. (b)(1)(B). Pub. L. 101–508, §4605(a)(1), inserted “or” at end of cl. (i), redesignated cl. (iii) as (ii) and amended it generally, and struck out former cl. (ii). Prior to amendment, cls. (ii) and (iii) read as follows:
 
@@ -128,7 +126,7 @@ Section 4605(c) of Pub. L. 101–508 provided that:
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Section 411(k)(16)(C) of Pub. L. 100–360 provided that: “The amendments made by this paragraph \[amending this section\] shall be effective as if they were included in section 9407(b) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
+Section 411(k)(16)(C) of Pub. L. 100–360 provided that: “The amendments made by this paragraph \[amendingthis section\] shall be effective as if they were included in section 9407(b) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
 
 #### Effective Date
 
@@ -137,6 +135,4 @@ Section applicable to ambulatory prenatal care furnished in calendar quarters be
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1396a, 1396b of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

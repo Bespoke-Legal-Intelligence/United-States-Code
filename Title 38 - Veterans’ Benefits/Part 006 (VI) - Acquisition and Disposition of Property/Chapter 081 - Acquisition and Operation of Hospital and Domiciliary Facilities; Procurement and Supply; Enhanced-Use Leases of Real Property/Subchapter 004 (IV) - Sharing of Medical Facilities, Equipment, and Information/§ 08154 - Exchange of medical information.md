@@ -30,5 +30,5 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 8155 of this title.
+This section is referred to in sections 7302, 8155 of this title.
 

@@ -56,7 +56,7 @@ Nothing in this subchapter shall be construed to link performance of service wit
 
 #### (i) Jointly selected arbitrator
 
-&emsp;&emsp;&emsp;In the event of a decision on a grievance that is adverse to the party who filed such grievance, or 60 days after the filing of such grievance if no decision has been reached, such party shall be permitted to submit such grievance to binding arbitration before a qualified arbitrator who is jointly selected and independent of the interested parties.
+&emsp;&emsp;&emsp;In the event of a decision on a grievance that is adverse to the party who filed suchgrievance, or 60 days after the filing of such grievance if no decision has been reached, such party shall be permitted to submit such grievance to binding arbitration before a qualified arbitrator who is jointly selected and independent of the interested parties.
 
 #### (ii) Appointed arbitrator
 

@@ -38,7 +38,7 @@ For short title of Pub. L. 95–591, which enacted this chapter, as the “Presi
 
 #### Separability
 
-Section 4 of Pub. L. 95–591 provided that: “If any provision of this Act \[enacting this chapter, amending sections 2107 and 2108 of this title and enacting provisionsset out as notes under this section\] is held invalid for any reason by any court, the validity and legal effect of the remaining provisions shall not be affected thereby.”
+Section 4 of Pub. L. 95–591 provided that: “If any provision of this Act \[enacting this chapter, amending sections 2107 and 2108 of this title and enacting provisions set out as notes under this section\] is held invalid for any reason by any court, the validity and legal effect of the remaining provisions shall not be affected thereby.”
 
 #### Section Referred to in Other Sections
 

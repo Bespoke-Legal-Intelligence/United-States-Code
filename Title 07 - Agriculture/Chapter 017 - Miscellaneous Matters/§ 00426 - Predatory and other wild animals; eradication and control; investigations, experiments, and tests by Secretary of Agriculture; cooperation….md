@@ -16,7 +16,7 @@ Pub. L. 99–190, §101(a) \[H.R. 3037, title I, §101\], Dec. 19, 1985, 99 Stat
 
 #### Prevention of Introduction of Brown Tree Snakes to Hawaii From Guam
 
-Section 1013(a)–(c) of Pub. L. 102–237, as amended by Pub. L. 105–277, div. A, title I, §101(a) \[title VII, §743\], Oct. 21, 1998, 112 Stat. 2681, 2681–31, provided that:
+Section 1013(a)–(c) of Pub. L. 102–237, as amended by Pub. L. 105–277, div. A, §101(a) \[title VII, §743\], Oct. 21, 1998, 112 Stat. 2681, 2681–31, provided that:
 
 “(a)
 

@@ -14,7 +14,7 @@ Each cable operator shall carry, on the cable system of that operator, the signa
 
 #### (2) Selection of signals
 
-&emsp;Whenever the number of local commercial television stations exceeds the maximum number of signals a cable system is required to carry under paragraph (1), the cable operator shall have discretion in selecting whichsuch stations shall be carried on its cable system, except that—
+&emsp;Whenever the number of local commercial television stations exceeds the maximum number of signals a cable system is required to carry under paragraph (1), the cable operator shall have discretion in selecting which such stations shall be carried on its cable system, except that—
 
 &emsp;&emsp;(A) under no circumstances shall a cable operator carry a qualified low power station in lieu of a local commercial television station; and
 
@@ -38,7 +38,7 @@ Each cable operator shall carry, on the cable system of that operator, the signa
 
 #### (5) Duplication not required
 
-&emsp;Notwithstanding paragraph (1), a cable operator shall not be required to carry the signal of any local commercial television station that substantially duplicates the signal of another local commercial television station which is carried on its cable system, or to carry the signals of more than one local commercial television station affiliated with a particular broadcast network (as such term is defined by regulation). If a cable operator elects to carry on its cable system a signal which substantially duplicates the signal of another local commercial television station carried on the cable system, or to carry on its system the signals of more than one local commercial television station affiliated with a particular broadcast network, all such signals shall be counted toward the number of signals the operator is required to carry under paragraph (1).
+&emsp;Notwithstanding paragraph (1), a cable operator shall not be required to carry the signal of any local commercial television station that substantially duplicates the signal of another local commercial television station which is carried on its cable system, or to carry the signals of more than one local commercial television station affiliated with a particular broadcast network (as such term is defined by regulation). If a cable operator elects to carry on its cable system a signal which substantially duplicates the signal of another local commercial television station carried on the cable system, or to carry on its system the signals of more than one local commercial television station affiliated with a particular broadcast network, all such signals shall be counted toward the number of signalsthe operator is required to carry under paragraph (1).
 
 #### (6) Channel positioning
 
@@ -54,7 +54,7 @@ Each cable operator shall carry, on the cable system of that operator, the signa
 
 #### (9) Notification
 
-&emsp;A cable operator shall provide written notice to a local commercial television station at least 30 days prior to either deleting from carriage or repositioning that station. No deletion or repositioning of a local commercial television station shall occur during a period in which major television ratings servicesmeasure the size of audiences of local television stations. The notification provisions of this paragraph shall not be used to undermine or evade the channel positioning or carriage requirements imposed upon cable operators under this section.
+&emsp;A cable operator shall provide written notice to a local commercial television station at least 30 days prior to either deleting from carriage or repositioning that station. No deletion or repositioning of a local commercial television station shall occur during a period in which major television ratings services measure the size of audiences of local television stations. The notification provisions of this paragraph shall not be used to undermine or evade the channel positioning or carriage requirements imposed upon cable operators under this section.
 
 #### (10) Compensation for carriage
 
@@ -84,7 +84,7 @@ Each cable operator shall carry, on the cable system of that operator, the signa
 
 #### (1) Complaints by broadcast stations
 
-&emsp;Whenever a local commercial television station believes that a cable operator has failed to meet its obligations under this section, such station shall notify the operator, in writing, of the alleged failure and identify its reasons for believing that the cable operator is obligated to carry the signal of such station or has otherwise failed to comply with the channel positioning or repositioning or other requirements of this section. The cable operator shall, within 30 days of such written notification, respond in writing to such notification and either commence to carry the signal of such station in accordance with the terms requested or state its reasons for believing that it is not obligated to carry such signal or is in compliance with the channel positioning and repositioning and other requirements of this section. A local commercial television station that is denied carriage or channel positioning or repositioning in accordance with this section by a cable operator may obtain review of such denial by filing a complaint with the Commission. Such complaint shall allege the manner in which such cable operator has failed to meet its obligations and the basis for such allegations.
+&emsp;Whenever a local commercial television station believes that a cable operator has failed to meet its obligations under this section, such station shall notify the operator, in writing, of the alleged failure and identify its reasons for believing that the cable operator is obligated to carry the signal of such station or has otherwise failed to comply with the channel positioning or repositioning or other requirements of this section. The cable operator shall, within 30 days of such written notification, respond in writing to such notification and either commence to carry the signal of such station in accordance with the terms requested or state its reasons for believing that it is not obligated to carry such signal or is in compliance with the channel positioning and repositioning and other requirements of this section. A local commercial television station that is denied carriage or channel positioning or repositioning in accordance with this section by a cable operator may obtain review of such denial by filing a complaint with the Commission. Such complaint shall allege the manner in which such cable operator hasfailed to meet its obligations and the basis for such allegations.
 
 #### (2) Opportunity to respond
 
@@ -110,7 +110,7 @@ Within 180 days after October 5, 1992, the Commission shall, following a rulemak
 
 #### (1) Carriage pending proceeding
 
-&emsp;Pending the outcome of the proceeding under paragraph (2), nothing in this chapter shall require a cable operator to carry on any tier, or prohibit a cable operator from carrying on any tier, the signal of any commercialtelevision station or video programming service that is predominantly utilized for the transmission of sales presentations or program length commercials.
+&emsp;Pending the outcome of the proceeding under paragraph (2), nothing in this chapter shall require a cable operator to carry on any tier, or prohibit a cable operator from carrying on any tier, the signal of any commercial television station or video programming service that is predominantly utilized for the transmission of sales presentations or program length commercials.
 
 #### (2) Proceeding concerning certain stations
 
@@ -196,5 +196,5 @@ Section 301(d)(2) of Pub. L. 104–104 provided that: “The amendment made by p
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 325, 336, 535, 543, 555, 573 of this title.
+This section is referred to in sections 325, 336, 338, 535, 543, 555, 573 of this title.
 

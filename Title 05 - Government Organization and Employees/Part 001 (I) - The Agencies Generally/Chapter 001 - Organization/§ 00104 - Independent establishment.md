@@ -28,5 +28,5 @@ General Accounting Office, see section 701 et seq. of Title 31, Money and Financ
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 41 sections 403, 601.
+This section is referred to in title 22 sections 6203, 6563; title 41 sections 403, 601.
 

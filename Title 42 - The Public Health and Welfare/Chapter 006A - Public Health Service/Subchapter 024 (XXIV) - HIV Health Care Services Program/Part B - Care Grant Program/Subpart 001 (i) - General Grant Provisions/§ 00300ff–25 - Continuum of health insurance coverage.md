@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A State may use amounts received under a grant awarded under this part to establish a program of financial assistance under section 300ff–22(a)(3)<sup>1</sup> of this title to assist eligible low-income individuals with HIV disease in—
+A State may use amounts received under a grant awarded under this part to establish a program of financial assistance under section 300ff–22(a)(3) <sup>1</sup> of this title to assist eligible low-income individuals with HIV disease in—
 
 &emsp;(1) maintaining a continuity of health insurance; or
 

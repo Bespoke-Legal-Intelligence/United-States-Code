@@ -2,7 +2,7 @@
 
 (a) Each account of an agency shall be audited administratively before being submitted to the Comptroller General. The head of each agency shall prescribe regulations for conducting the audit and designate a place at which the audit is to be conducted. However, a disbursing official of an executive agency may not administratively audit vouchers for which the official is responsible. With the consent of the Comptroller General, the head of the agency may waive any part of an audit.
 
-(b) The head of an agency may prescribe a statistical sampling procedure to audit vouchers of the agency when the head of the agency decideseconomies will result from using the procedure. The Comptroller General—
+(b) The head of an agency may prescribe a statistical sampling procedure to audit vouchers of the agency when the head of the agency decides economies will result from using the procedure. The Comptroller General—
 
 &emsp;(1) may prescribe the maximum amount of a voucher that may be audited under this subsection; and
 
@@ -18,7 +18,7 @@
 
 (e) Each financial statement prepared under section 3515 by an agency shall be audited in accordance with applicable generally accepted government auditing standards—
 
-&emsp;(1) in the case of an agency having an Inspector General appointed under the Inspector General Act of 1978 (5 U.S.C. App.), by the Inspector General or by an independent external auditor, as determined by the Inspector General of the agency; and
+&emsp;(1) in the case of an agency having an Inspector General appointed under the InspectorGeneral Act of 1978 (5 U.S.C. App.), by the Inspector General or by an independent external auditor, as determined by the Inspector General of the agency; and
 
 &emsp;(2) in any other case, by an independent external auditor, as determined by the head of the agency.
 
@@ -102,7 +102,7 @@ The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95�
 
 1996—Subsec. (f)(1). Pub. L. 104–208 inserted “and the Controller of the Office of Federal Financial Management” before period at end of first sentence.
 
-1994—Subsec. (f). Pub. L. 103–356 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Not later than June 30 following the fiscal year for which a financial statement is submitted under section 3515 of this title by an agency, the person who audits the statement for purpose of subsection (e) shall submit a report on the audit to the head of the agency. A report under this subsection shall be prepared in accordance with generally accepted government auditing standards.”
+1994—Subsec. (f). Pub. L. 103–356 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Not later than June 30 following the fiscal yearfor which a financial statement is submitted under section 3515 of this title by an agency, the person who audits the statement for purpose of subsection (e) shall submit a report on the audit to the head of the agency. A report under this subsection shall be prepared in accordance with generally accepted government auditing standards.”
 
 1990—Subsecs. (e) to (h). Pub. L. 101–576 added subsecs. (e) to (h).
 

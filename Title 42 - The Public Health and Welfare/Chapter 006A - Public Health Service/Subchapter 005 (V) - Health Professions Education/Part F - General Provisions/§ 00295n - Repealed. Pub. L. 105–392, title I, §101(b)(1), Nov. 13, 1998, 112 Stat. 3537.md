@@ -4,7 +4,7 @@ Section, act July 1, 1944, ch. 373, title VII, §795, as added Pub. L. 102–408
 
 A prior section 795 of act July 1, 1944, was classified to section 295h–4 of this title prior to the general amendment of this subchapter by Pub. L. 102–408.
 
-Another prior section 795 of act July 1, 1944, was classified to section 295h–4 of this title prior to the general amendment of part G of this subchapter by Pub. L. 94–484.
+Another prior section 795 of act July 1, 1944, was classified to section 295h–4 of this title prior to the generalamendment of part G of this subchapter by Pub. L. 94–484.
 
 #### Savings Provision
 

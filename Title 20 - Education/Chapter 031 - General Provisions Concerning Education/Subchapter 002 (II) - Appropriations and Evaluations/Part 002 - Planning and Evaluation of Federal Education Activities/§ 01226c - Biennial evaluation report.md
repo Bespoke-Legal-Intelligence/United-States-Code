@@ -4,7 +4,7 @@ Not later than March 31, 1995, and every two years after such date, the Secretar
 
 &emsp;(1) contain program profiles that include legislative citations, multiyear funding histories, and legislated purposes;
 
-&emsp;(2) contain recent information on the progress being made toward the achievementof program objectives, including listings of program performance indicators, data from performance measurement based on the indicators, and information on the costs and benefits of the applicable programs being evaluated;
+&emsp;(2) contain recent information on the progress being made toward the achievement of program objectives, including listings of program performance indicators, data from performance measurement based on the indicators, and information on the costs and benefits of the applicable programs being evaluated;
 
 &emsp;(3) address significant program activities, such as initiatives for program improvement, regulations, and program monitoring and evaluation;
 
@@ -28,7 +28,7 @@ Another prior section 425 of Pub. L. 90–247 was renumbered section 423, and is
 
 1994—Pub. L. 103–437, which directed that section 417(a) of Pub. L. 90–247 be amended by substituting “Labor and Human Resources” for “Human Resources”, could not be executed because this section, which was section 417 of Pub. L. 90–247, was renumbered section 425 and amended generally by Pub. L. 103–382.
 
-Pub. L. 103–382, §235, amended section generally, substituting single undesignated par. relating to biennial evaluation reports for former subsecs. (a) and (b) relating to annual evaluation reports and including requirement for information on contracts and grants for evaluations of programs.
+Pub. L. 103–382, §235, amended section generally, substituting single undesignated par. relating to biennialevaluation reports for former subsecs. (a) and (b) relating to annual evaluation reports and including requirement for information on contracts and grants for evaluations of programs.
 
 1984—Subsec. (a). Pub. L. 98–511 substituted “December 31” for “November 1”.
 

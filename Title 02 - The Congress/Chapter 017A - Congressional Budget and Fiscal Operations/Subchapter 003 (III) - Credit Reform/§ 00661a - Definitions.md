@@ -44,7 +44,7 @@ For purposes of this subchapter—
 
 > &emsp;These accounts shall be shown in the budget on a cash basis.
 
-&emsp;(9) The term “modification” means any Government action that alters the estimated cost of an outstanding direct loan (or direct loan obligation) or an outstanding loan guarantee (or loan guarantee commitment) from the current estimate of cash flows. This includes the sale of loan assets, with or without recourse, and the purchase of guaranteed loans. This also includes any action resulting from new legislation, or from the exercise of administrative discretion under existing law, that directly or indirectly alters the estimated cost of outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments) such as a change in collection procedures.
+&emsp;(9) The term “modification” means any Government action that alters the estimated cost of an outstanding direct loan (or direct loan obligation) or an outstanding loan guarantee\(or loan guarantee commitment) from the current estimate of cash flows. This includes the sale of loan assets, with or without recourse, and the purchase of guaranteed loans. This also includes any action resulting from new legislation, or from the exercise of administrative discretion under existing law, that directly or indirectly alters the estimated cost of outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments) such as a change in collection procedures.
 
 &emsp;(10) The term “current” has the same meaning as in section 900(c)(9) of this title.
 
@@ -58,7 +58,7 @@ A prior section 502 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 321, w
 
 #### Amendments
 
-1997—Par. (1). Pub. L. 105–33, §10117(a)(1), inserted “and financing arrangements that defer payment formore than 90 days, including the sale of a government asset on credit terms” after “another lender”.
+1997—Par. (1). Pub. L. 105–33, §10117(a)(1), inserted “and financing arrangements that defer payment for more than 90 days, including the sale of a government asset on credit terms” after “another lender”.
 
 Par. (5)(A). Pub. L. 105–33, §10117(a)(2), inserted “or modification thereof” after “or loan guarantee”.
 
@@ -88,7 +88,7 @@ Pars. (9) to (11). Pub. L. 105–33, §10117(a)(7), added pars. (9) and (10) and
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 661d of this title; title 10 sections 2540d, 2873; title 12 sections 635i–5, 1701z–11, 1715z–13a, 1721, 1735f–20, 4707; title 14 section 682; title 15 sections 636, 683, 697; title 22 section 290m–2; title 25 section 4195; title 31 section 3711; title 42 section 1490p–2; title 46 App. sections 1273, 1279e.
+This section is referred to in section 661d of this title; title 10 sections 2540d, 2873; title 12 sections 635i–5, 1701z–11, 1715<i>l</i>, 1715z–13a, 1721, 1735f–20, 4707; title 14 section 682; title 15 sections 636, 683, 697; title 22 sections 290m–2, 2431d, 2431e, 2431f; title 25 section 4195; title 31 section 3711; title 42 section 1490p–2; title 46 App. sections 1273, 1279e.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

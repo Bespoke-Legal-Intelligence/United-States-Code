@@ -62,7 +62,7 @@ Section 1 of Pub. L. 96–464 provided: “That this Act \[enacting sections 145
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–370 provided: “That this Act \[enacting section 1511a of Title 15, Commerce and Trade, and sections 1456a to 1456c of this title, amending this section, sections 1453 to 1456 and 1457 to 1464 of this title, and section 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 1511a of Title 15 and section 1462 of this title\] may be cited as the ‘Coastal Zone Management Act Amendments of 1976’.”
+Section 1 of Pub. L. 94–370 provided: “That this Act \[enacting section 1511a of Title 15, Commerce andTrade, and sections 1456a to 1456c of this title, amending this section, sections 1453 to 1456 and 1457 to 1464 of this title, and section 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 1511a of Title 15 and section 1462 of this title\] may be cited as the ‘Coastal Zone Management Act Amendments of 1976’.”
 
 #### Short Title
 
@@ -158,7 +158,7 @@ Assessment of Hypoxia.—
 
 &emsp;&emsp;“(B) identify alternatives for preventing unnecessary duplication of effort among Federal agencies and departments with respect to hypoxia; and
 
-&emsp;&emsp;“(C) provide for Federal cooperation and coordination with and assistance to the States, Indian tribes, and local governments in the prevention, reduction, management, mitigation, and control of hypoxia and its environmental impacts.
+&emsp;&emsp;“(C) provide for Federal cooperation and coordination with and assistance to the States, Indiantribes, and local governments in the prevention, reduction, management, mitigation, and control of hypoxia and its environmental impacts.
 
 “(e)\[(d)\]
 
@@ -178,7 +178,7 @@ Submission of a Plan.—No later than March 30, 2000, the President, in conjunct
 
 “There are authorized to be appropriated to the Secretary of Commerce for research, education, and monitoring activities related to the prevention, reduction, and control of harmful algal blooms and hypoxia, $15,000,000 for fiscal year 1999, $18,250,000 for fiscal year 2000, and $19,000,000 for fiscal year 2001, to remain available until expended. The Secretary shall consult with the States on a regular basis regarding the development and implementation of the activities authorized under this section. Of such amounts for each fiscal year—
 
-&emsp;“(1) $1,500,000 for fiscal year 1999, $1,500,000 for fiscal year 2000, and $2,000,000 for fiscal year 2001 may be used to enable the National Oceanic and Atmospheric Administration to carry out research and assessmentactivities, including procurement of necessary research equipment, at research laboratories of the National Ocean Service and the National Marine Fisheries Service;
+&emsp;“(1) $1,500,000 for fiscal year 1999, $1,500,000 for fiscal year 2000, and $2,000,000 for fiscal year 2001 may be used to enable the National Oceanic and Atmospheric Administration to carry out research and assessment activities, including procurement of necessary research equipment, at research laboratories of the National Ocean Service and the National Marine Fisheries Service;
 
 &emsp;“(2) $4,000,000 for fiscal year 1999, $5,500,000 for fiscal year 2000, and $5,500,000 for fiscal year 2001 may be used to carry out the Ecology and Oceanography of Harmful Algal Blooms (ECOHAB) project under the Coastal Ocean Program established under section 201(c) of Public Law 102–567 \[106 Stat. 4280\];
 
@@ -218,7 +218,7 @@ Findings.—Congress finds and declares the following:
 
 &emsp;“(8) There is a clear link between coastal water quality and land use activities along the shore. State management programs under the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) are among the best tools for protecting coastal resources and must play a larger role, particularly in improving coastal zone water quality.
 
-&emsp;“(9) All coastal States should have coastal zone management programs in place that conform to the Coastal Zone Management Act of 1972, as amended by this Act.
+&emsp;“(9) All coastal States should have coastal zone management programs in place that conform to theCoastal Zone Management Act of 1972, as amended by this Act.
 
 “(b)
 
@@ -231,6 +231,10 @@ Section 15(c) of Pub. L. 94–370 related to establishment and compensation of f
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
+
+#### Contiguous Zone of United States
+
+For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Ex. Ord. No. 13089. Coral Reef Protection
 
@@ -258,7 +262,7 @@ Sec. 4. <i>U.S. Coral Reef Task Force</i>. The Secretary of the Interior and the
 
 Sec. 5. <i>Duties of the U.S. Coral Reef Task Force</i>. (a) <i>Coral Reef Mapping and Monitoring</i>. The Task Force, in cooperation with State, territory, commonwealth, and local government partners, shall coordinate a comprehensive program to map and monitor U.S. coral reefs. Such programs shall include, but not be limited to, territories and commonwealths, special marine protected areas such as National Marine Sanctuaries, National Estuarine Research Reserves, National Parks, National Wildlife Refuges, and other entities having significant coral reef resources. To the extent feasible, remote sensing capabilities shall be developed and applied to this program and local communities should be engaged in the design and conduct of programs.
 
-(b) <i>Research</i>. The Task Force shall develop and implement, with the scientific community, research aimed at identifying the major causes and consequences of degradation of coral reef ecosystems. This research shall include fundamental scientific research to provide a sound framework for the restoration and conservation of coral reef ecosystems worldwide. To the extent feasible, existing and planned environmental monitoring and mapping programs should be linked with scientific research activities. This Executive order shall not interfere with the normal conduct of scientific studies on coral reef ecosystems.
+(b) <i>Research</i>. The Task Force shall develop and implement, with the scientific community, research aimed at identifying the major causes and consequences of degradation of coral reef ecosystems. This researchshall include fundamental scientific research to provide a sound framework for the restoration and conservation of coral reef ecosystems worldwide. To the extent feasible, existing and planned environmental monitoring and mapping programs should be linked with scientific research activities. This Executive order shall not interfere with the normal conduct of scientific studies on coral reef ecosystems.
 
 (c) <i>Conservation, Mitigation, and Restoration</i>. The Task Force, in cooperation with State, territorial, commonwealth, and local government agencies, nongovernmental organizations, the scientific community and commercial interests, shall develop, recommend, and seek or secure implementation of measures necessary to reduce and mitigate coral reef ecosystem degradation and to restore damaged coral reefs. These measures shall include solutions to problems such as land-based sources of water pollution, sedimentation, detrimental alteration of salinity or temperature, over-fishing, over-use, collection of coral reef species, and direct destruction caused by activities such as recreational and commercial vessel traffic and treasure salvage. In developing these measures, the Task Force shall review existing legislation to determine whether additional legislation is necessary to complement the policy objectives of this order and shall recommend such legislation if appropriate. The Task Force shall further evaluate existing navigational aids, including charts, maps, day markers, and beacons to determine if the designation of the location of specific coral reefs should be enhanced through the use, revision, or improvement of such aids.
 

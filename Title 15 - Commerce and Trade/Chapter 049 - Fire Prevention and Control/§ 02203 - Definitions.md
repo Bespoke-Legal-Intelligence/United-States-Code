@@ -14,7 +14,7 @@ As used in this chapter, the term—
 
 &emsp;(6) “local” means of or pertaining to any city, town, county, special purpose district, unincorporated territory, or other political subdivision of a State;
 
-&emsp;(7) “place of public accommodation affecting commerce” means any inn, hotel, or other establishment not owned by the Federal Government that provides lodging to transient guests, except that such term does not include an establishment treated as an apartment building for purposes of any State or local law or regulation or an establishment located within a building that contains not more than 5 rooms for rent or hire and that is actually occupied as a residence by the proprietor of such establishment;
+&emsp;(7) “place of public accommodation affecting commerce” means any inn, hotel, or other establishment not owned by the Federal Government that provides lodging to transient guests, except that such term does not include an establishment treated as an apartment building for purposes of any State or local lawor regulation or an establishment located within a building that contains not more than 5 rooms for rent or hire and that is actually occupied as a residence by the proprietor of such establishment;
 
 &emsp;(8) “Secretary” means the Secretary of Commerce; and
 

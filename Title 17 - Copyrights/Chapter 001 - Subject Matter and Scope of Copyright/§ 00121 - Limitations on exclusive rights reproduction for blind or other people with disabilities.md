@@ -26,3 +26,7 @@
 
 The Act approved March 3, 1931, referred to in subsec. (c)(2), is act Mar. 3, 1931, ch. 400, 46 Stat. 1487, as amended, which is classified generally to sections 135a and 135b of Title 2, The Congress. For complete classification of this Act to the Code, see Tables.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 106, 501, 511 of this title.
+

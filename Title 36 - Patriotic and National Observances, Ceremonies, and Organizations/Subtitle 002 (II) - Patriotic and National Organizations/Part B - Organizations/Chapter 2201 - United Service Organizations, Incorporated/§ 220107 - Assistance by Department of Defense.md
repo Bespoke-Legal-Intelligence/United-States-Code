@@ -1,6 +1,6 @@
 ### §220107. Assistance by Department of Defense
 
-The Secretary of Defense may make the resources of the Department of Defense availableto the corporation to the extent compatible with the primary mission of the Department and in accordance with guidelines issued by the Secretary.
+The Secretary of Defense may make the resources of the Department of Defense available to the corporation to the extent compatible with the primary mission of the Department and in accordance with guidelines issued by the Secretary.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1461.)
 

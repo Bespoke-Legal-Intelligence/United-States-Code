@@ -38,15 +38,15 @@
 
 #### (b) Gain from exchanges not solely in kind
 
-If an exchange would be within the provisions of subsection (a), of section 1035(a), of section 1036(a), or of section 1037(a), if it were not for the fact that the property received in exchange consists not only of property permitted by such provisions to be received without the recognition ofgain, but also of other property or money, then the gain, if any, to the recipient shall be recognized, but in an amount not in excess of the sum of such money and the fair market value of such other property.
+If an exchange would be within the provisions of subsection (a), of section 1035(a), of section 1036(a), or of section 1037(a), if it were not for the fact that the property received in exchange consists not only of property permitted by such provisions to be received without the recognition of gain, but also of other property or money, then the gain, if any, to the recipient shall be recognized, but in an amount not in excess of the sum of such money and the fair market value of such other property.
 
 #### (c) Loss from exchanges not solely in kind
 
-If an exchange would be within the provisions of subsection (a), of section 1035(a), of section 1036(a), or of section 1037(a), if it were not for the fact that the property received in exchange consists not only of property permitted by such provisions to be received without the recognition of gain or loss, but also of other property or money, then no loss from the exchange shall be recognized.
+If an exchange would be within the provisions of subsection (a), of section 1035(a), of section1036(a), or of section 1037(a), if it were not for the fact that the property received in exchange consists not only of property permitted by such provisions to be received without the recognition of gain or loss, but also of other property or money, then no loss from the exchange shall be recognized.
 
 #### (d) Basis
 
-If property was acquired on an exchange described in this section, section 1035(a), section 1036(a), or section 1037(a), then the basis shall be the same as that of the property exchanged, decreased in the amount of any money received by the taxpayer and increased in the amount of gain or decreased in the amount of loss to the taxpayer that was recognized on such exchange. If the property so acquired consisted in part of the type of property permitted by this section, section 1035(a), section 1036(a), or section 1037(a), to be received without the recognition of gain or loss, and in part of other property, the basis provided in this subsection shall be allocated between the properties (other than money) received, and for the purpose of the allocation there shall be assigned to such other property an amount equivalent to its fair market value at the date of the exchange. For purposes of this section, section 1035(a), and section 1036(a), where as part of the consideration to the taxpayer another party to the exchange assumed a liability of the taxpayer or acquired from the taxpayer property subject to a liability, such assumption or acquisition (in the amount of the liability) shall be considered as money received by the taxpayer on the exchange.
+If property was acquired on an exchange described in this section, section 1035(a), section 1036(a), or section 1037(a), then the basis shall be the same as that of the property exchanged, decreased in the amount of any money received by the taxpayer and increased in the amount of gain or decreased in the amount of loss to the taxpayer that was recognized on such exchange. If the property so acquired consisted in part of the type of property permitted by this section, section 1035(a), section 1036(a), or section 1037(a), to be received without the recognition of gain or loss, and in part of other property, the basis provided in this subsection shall be allocated between the properties (other than money) received, and for the purpose of the allocation there shall be assigned to such other property an amount equivalent to its fair market value at the date of the exchange. For purposes of this section, section 1035(a), and section 1036(a), where as part of the consideration to the taxpayer another party to the exchange assumed (as determined under section 357(d)) a liability of the taxpayer, such assumption shall be considered as money received by the taxpayer on the exchange.
 
 #### (e) Exchanges of livestock of different sexes
 
@@ -138,9 +138,11 @@ For purposes of this section—
 
 &emsp;&emsp;Property described in any subparagraph of section 168(g)(4) shall be treated as used predominantly in the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 302; Pub. L. 85–866, title I, §44, Sept. 2, 1958, 72 Stat. 1641; Pub. L. 86–346, title II, §201(c)–(e), Sept. 22, 1959, 73 Stat. 624; Pub. L. 91–172, title II, §212(c)(1), Dec. 30, 1969, 83 Stat. 571; Pub. L. 98–369, div. A, title I, §77(a), July 18, 1984, 98 Stat. 595; Pub. L. 99–514, title XVIII, §1805(d), Oct. 22, 1986, 100 Stat. 2810; Pub. L. 101–239, title VII, §7601(a), Dec. 19, 1989, 103 Stat. 2370; Pub. L. 101–508, title XI, §§11701(h), 11703(d)(1), Nov. 5, 1990, 104 Stat. 1388–508, 1388–517; Pub. L. 105–34, title X, §1052(a), Aug. 5, 1997, 111 Stat. 940.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 302; Pub. L. 85–866, title I, §44, Sept. 2, 1958, 72 Stat. 1641; Pub. L. 86–346, title II, §201(c)–(e), Sept. 22, 1959, 73 Stat. 624; Pub. L. 91–172, title II, §212(c)(1), Dec. 30, 1969, 83 Stat. 571; Pub. L. 98–369, div. A, title I, §77(a), July 18, 1984, 98 Stat. 595; Pub. L. 99–514, title XVIII, §1805(d), Oct. 22, 1986, 100 Stat. 2810; Pub. L. 101–239, title VII, §7601(a), Dec. 19, 1989, 103 Stat. 2370; Pub. L. 101–508, title XI, §§11701(h), 11703(d)(1), Nov. 5, 1990, 104 Stat. 1388–508, 1388–517; Pub. L. 105–34, title X, §1052(a), Aug. 5, 1997, 111 Stat. 940; Pub. L. 106–36, title III, §3001(c)(2), June 25, 1999, 113 Stat. 183.)
 
 #### Amendments
+
+1999—Subsec. (d). Pub. L. 106–36, in last sentence, substituted “assumed (as determined under section 357(d)) a liability of the taxpayer” for “assumed a liability of the taxpayer or acquired from the taxpayer property subject to a liability” and struck out “or acquisition (in the amount of the liability)” after “such assumption”.
 
 1997—Subsec. (h). Pub. L. 105–34 amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “For purposes of this section, real property located in the United States and real property located outside the United States are not property of a like kind.”
 
@@ -159,6 +161,10 @@ Subsec. (f)(3). Pub. L. 101–508, §11701(h), substituted “section 267(b) or 
 1959—Subsecs. (b) to (d). Pub. L. 86–346 inserted references to section 1037(a) in subsecs. (b) and (c) and in first two sentences of subsec. (d).
 
 1958—Subsec. (d). Pub. L. 85–866 inserted in first sentence a comma between “exchanged” and “decreased” and “or decreased in the amount of loss”, and substituted in second sentence “subsection” for “paragraph”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–36 applicable to transfers after Oct. 18, 1998, see section 3001(e) of Pub. L. 106–36, set out as a note under section 351 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -218,7 +224,7 @@ Requirement that property be identified within 45 days and that exchange be comp
 
 &emsp;“(B) to transfers on or before such date of enactment if the property to be received in the exchange is not received before January 1, 1987.
 
-> In the case of any transfer on or before the date of the enactment of this Act which the taxpayer treated aspart of a like-kind exchange, the period for assessing any deficiency of tax attributable to the amendment made by subsection (a) \[amending this section\] shall not expire before January 1, 1988.
+> In the case of any transfer on or before the date of the enactment of this Act which the taxpayer treated as part of a like-kind exchange, the period for assessing any deficiency of tax attributable to the amendment made by subsection (a) \[amending this section\] shall not expire before January 1, 1988.
 
 “(4)
 

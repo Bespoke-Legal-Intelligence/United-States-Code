@@ -1,0 +1,42 @@
+### §130a. Major Department of Defense headquarters activities personnel: limitation
+
+(a)
+
+Limitation.—Effective October 1, 2002, the number of major headquarters activities personnel in the Department of Defense may not exceed 85 percent of the baseline number.
+
+(b)
+
+Phased Reduction.—The number of major headquarters activities personnel in the Department of Defense—
+
+&emsp;(1) as of October 1, 2000, may not exceed 95 percent of the baseline number; and
+
+&emsp;(2) as of October 1, 2001, may not exceed 90 percent of the baseline number.
+
+(c)
+
+Baseline Number.—In this section, the term “baseline number” means the number of major headquarters activities personnel in the Department of Defense as of October 1, 1999.
+
+(d)
+
+Major Headquarters Activities.—(1) For purposes of this section, major headquarters activities are those headquarters (and the direct support integral to their operation) the primary mission of which is to manage or command the programs and operations of the Department of Defense, the Department of Defense components, and their major military units, organizations, or agencies. Such term includes management headquarters, combatant headquarters, and direct support.
+
+(2) The specific elements of the Department of Defense that are major headquarters activities for the purposes of this section are those elements identified as Major DoD Headquarters Activities in accordance with Department of Defense Directive 5100.73, entitled “Major Department of Defense Headquarters Activities”, issued on May 13, 1999. The provisions of that directive applicable to identification of any activity as a “Major DoD Headquarters Activity” may not be changed except as provided by law.
+
+(e)
+
+Major Headquarters Activities Personnel.—In this section, the term “major headquarters activities personnel” means military and civilian personnel of the Department of Defense who are assigned to, or employed in, functions in major headquarters activities.
+
+(f)
+
+Limitation on Reassignment of Functions.—In carrying out reductions in the number of personnel assigned to, or employed in, major headquarters activities in order to comply with this section, the Secretary of Defense and the Secretaries of the military departments may not reassign functions in order to evade the requirements of this section.
+
+(Added Pub. L. 105–85, div. A, title IX, §911(a)(1), Nov. 18, 1997, 111 Stat. 1857; amended Pub. L. 106–65, div. A, title IX, §921(a)(1), Oct. 5, 1999, 113 Stat. 722.)
+
+#### Amendments
+
+1999—Pub. L. 106–65 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (g) limiting and requiring phased reductions in management headquarters and headquarters support activities personnel.
+
+#### Implementation Report
+
+Pub. L. 105–85, div. A, title IX, §911(b), Nov. 18, 1997, 111 Stat. 1858, provided that not later than Jan. 15, 1998, the Secretary of Defense was to submit to Congress a report containing a plan to achieve the personnel reductions required by this section as added by section 911(a) of Pub. L. 105–85.
+

@@ -14,11 +14,11 @@
 
 &emsp;&emsp;(B) the net worth of the individual as of such date is $500,000 or more.
 
-> &emsp;In the case of the loss of United States citizenship in any calendar year after 1996, such $100,000 and $500,000 amounts shall be increased by an amount equal to such dollar amountmultiplied by the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “1994” for “1992” in subparagraph (B) thereof. Any increase under the preceding sentence shall be rounded to the nearest multiple of $1,000.
+> &emsp;In the case of the loss of United States citizenship in any calendar year after 1996, such $100,000 and $500,000 amounts shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “1994” for “1992” in subparagraph (B) thereof. Any increase under the preceding sentence shall be rounded to the nearest multiple of $1,000.
 
 #### (b) Alternative tax
 
-A nonresident alien individual described in subsection (a) shall be taxable for the taxable year as provided in section 1, 55, or 402(d)(1), except that—
+A nonresident alien individual described in subsection (a) shall be taxable for the taxable year as provided in section 1 or 55, except that—
 
 &emsp;(1) the gross income shall include only the gross income described in section 872(a) (as modified by subsection (d) of this section), and
 
@@ -144,7 +144,7 @@ For purposes of subsection (b)—
 
 &emsp;&emsp;&emsp;(i) an individual losing United States citizenship contributes property during the 10-year period beginning on the date the individual loses United States citizenship to any corporation which, at the time of the contribution, is described in subparagraph (B), and
 
-&emsp;&emsp;&emsp;(ii) income derived from such property immediately before such contribution was from sources within the United States (or, if no income was so derived, would have been from such sources),
+&emsp;&emsp;&emsp;(ii) income derived from such property immediately before such contribution was from sources within the United States (or,if no income was so derived, would have been from such sources),
 
 > &emsp;&emsp;any income or gain on such property (or any other property which has a basis determined in whole or part by reference to such property) received or accrued by the corporation shall be treated as received or accrued directly by such individual and not by such corporation. The preceding sentence shall not apply to the extent the property has been treated under subparagraph (C) as having been sold by such corporation.
 
@@ -210,15 +210,11 @@ For purposes of subsection (b)—
 
 If the Secretary establishes that it is reasonable to believe that an individual's loss of United States citizenship would, but for this section, result in a substantial reduction for the taxable year in the taxes on his probable income for such year, the burden of proving for such taxable year that such loss of citizenship did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle B shall be on such individual.
 
-(Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098; Pub. L. 105–34, title XVI, §1602(g)(1)–(4), (h)(3), Aug. 5, 1997, 111 Stat. 1095, 1096.)
+(Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, titleII, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098; Pub. L. 105–34, title XVI, §1602(g)(1)–(4), (h)(3), Aug. 5, 1997, 111 Stat. 1095, 1096.)
 
-#### Amendment of Subsection (b)
+#### Adjustment of Net Tax and Net Worth Amounts for Tax Years Beginning in 2000
 
-<i>Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789, provided that, applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, subsection (b) of this section is amended by substituting “section 1 or 55” for “section 1, 55, or 402(d)(1)”.</i>
-
-#### Adjustment of Net Tax and Net Worth Amounts for Tax Years Beginning in 1999
-
-<i>For adjustment of average annual net income tax and net worth amounts under subsec. (a)(2) of this section for tax years beginning in 1999, see section 3.14 of Revenue Procedure 98–61, set out as a note under section 1 of this title.</i>
+<i>For adjustment of average annual net income tax and net worth amounts under subsec. (a)(2) of this section for tax years beginning in 2000, see section 3.15 of Revenue Procedure 99–42, set out as a note under section 1 of this title.</i>
 
 #### Prior Provisions
 
@@ -249,6 +245,8 @@ In General.—Every nonresident alien individual who at any time after March 8, 
 Subsec. (a)(1). Pub. L. 104–191, §511(d)(2), inserted “(after any reduction in such tax under the last sentence of such subsection)” after “such subsection”.
 
 Subsec. (b). Pub. L. 104–191, §511(d)(1), inserted at end “The tax imposed solely by reason of this section shall be reduced (but not below zero) by the amount of any income, war profits, and excess profits taxes (within the meaning of section 903) paid to any foreign country or possession of the United States on any income of the taxpayer on which tax is imposed solely by reason of this section.”
+
+Pub. L. 104–188 substituted “section 1 or 55” for “section 1, 55, or 402(d)(1)”.
 
 Subsec. (b)(1). Pub. L. 104–191, §511(b)(2), substituted “subsection (d)” for “subsection (c)”.
 
@@ -338,7 +336,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 421(g) ofPub. L. 95–600, set out as a note under section 5 of this title.
+Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 421(g) of Pub. L. 95–600, set out as a note under section 5 of this title.
 
 #### Effective Date of 1974 Amendment
 

@@ -16,6 +16,10 @@ The Archivist of the United States shall cause to be compiled, edited, indexed, 
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of Title 44, Public Printing and Documents.
 
+#### Publishing Pub. L. 106–113 in Statutes at Large
+
+Pub. L. 106–113, div. B, §1000(b), Nov. 29, 1999, 113 Stat. 1536, provided that: “In publishing the Act \[Pub. L. 106–113\] in slip form and in the United States Statutes at Large pursuant to section 112, of title 1, United States Code, the Archivist of the United States shall include after the date of approval at the end appendixes setting forth the texts of the bills referred to in subsection (a) of this section \[enacting into law H.R. 3421, H.R. 3422, H.R. 3423, H.R. 3424, H.R. 3425, H.R. 3426, H.R. 3427 (as amended), H.R. 3428, and S. 1948 of the 106th Congress, as introduced on Nov. 17, 1999\].”
+
 #### Effect of Repeal of Section 73 of Act Jan. 12, 1895
 
 This section and section 112a of this title as not affected by the repeal of section 73 of act Jan. 12, 1895, ch. 23, 28 Stat. 615, which related to the same subject matter, see section 56(i) of act Oct. 31, 1951, ch. 655, 65 Stat. 729.

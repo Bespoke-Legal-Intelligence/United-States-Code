@@ -268,7 +268,7 @@ For purposes of this section—
 
 #### (B) Tax benefit rule
 
-&emsp;&emsp;If any portion of a nonqualified withdrawal is properly attributable to deposits\(other than earnings on deposits) made by the taxpayer in any taxable year which did not reduce the taxpayer's liability for tax under chapter 1 for any taxable year preceding the taxable year in which such withdrawal occurs—
+&emsp;&emsp;If any portion of a nonqualified withdrawal is properly attributable to deposits (other than earnings on deposits) made by the taxpayer in any taxable year which did not reduce the taxpayer's liability for tax under chapter 1 for any taxable year preceding the taxable year in which such withdrawal occurs—
 
 &emsp;&emsp;&emsp;(i) such portion shall not be taken into account under subparagraph (A), and
 

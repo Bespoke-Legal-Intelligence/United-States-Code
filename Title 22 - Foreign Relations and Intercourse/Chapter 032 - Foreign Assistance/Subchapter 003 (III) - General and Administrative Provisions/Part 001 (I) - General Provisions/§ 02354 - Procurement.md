@@ -66,7 +66,7 @@ References to part I of subchapter I of this chapter are deemed to include a ref
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–391 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Funds made available under this chapter may be used for procurement outside the United States only if the President determines that such procurement will not result in adverse effects upon the economy of the United States or the industrial mobilization base, with special reference to any areas of labor surplus or to the net position of the United States in its balance of payments with the rest of the world, which outweigh the economic or other advantages to the United States of less costly procurement outside the United States, and only if the price of any commodity procured in bulk is lower than the market price prevailing in the United States at the time of procurement, adjusted for differences in the cost of transportation to destination, quality, and terms of payment.”
+1992—Subsec. (a). Pub. L. 102–391 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Funds made available under this chapter may be used for procurement outside the United States only if the President determines that such procurement will not result in adverse effects upon the economy of theUnited States or the industrial mobilization base, with special reference to any areas of labor surplus or to the net position of the United States in its balance of payments with the rest of the world, which outweigh the economic or other advantages to the United States of less costly procurement outside the United States, and only if the price of any commodity procured in bulk is lower than the market price prevailing in the United States at the time of procurement, adjusted for differences in the cost of transportation to destination, quality, and terms of payment.”
 
 1985—Subsec. (g). Pub. L. 99–83 designated existing provisions as par. (1) and added par. (2).
 
@@ -86,9 +86,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Delegation of Functions
 
-Functions of President under subsec. (a), insofar as they related to procurement under part I of subchapter I and part IV of subchapter II of this chapter, delegated to Secretary of State by section 1–201(a)(10) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as a note under section 2381 of this title.
-
-Functions of President under subsec. (a), except insofar as they related to procurement under part I of subchapter I and part IV of subchapter II of this chapter, excluded from foregoing delegations of functions by section 1–701(d) of Ex. Ord. No. 12163.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

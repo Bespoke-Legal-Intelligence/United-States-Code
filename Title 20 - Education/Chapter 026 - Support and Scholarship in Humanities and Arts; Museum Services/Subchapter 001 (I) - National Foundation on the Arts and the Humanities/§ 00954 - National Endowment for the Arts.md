@@ -38,7 +38,7 @@ The Chairperson, with the advice of the National Council on the Arts, is authori
 
 #### (d) Application for payment; regulations and procedures
 
-No payment shall be made under this section except upon application therefor which is submitted to the National Endowment for the Arts in accordance with regulations issued and procedures established by the Chairperson. In establishing such regulations and procedures, the Chairperson shall ensure that—
+No payment shall be made under this section except upon application therefor which is submitted to the National Endowment for the Artsin accordance with regulations issued and procedures established by the Chairperson. In establishing such regulations and procedures, the Chairperson shall ensure that—
 
 &emsp;(1) artistic excellence and artistic merit are the criteria by which applications are judged, taking into consideration general standards of decency and respect for the diverse beliefs and values of the American public; and
 
@@ -152,7 +152,7 @@ The Chairperson shall issue regulations to provide for the distribution of finan
 
 &emsp;(1) not more than two-thirds of such assistance may be provided at the time such application is approved; and
 
-&emsp;(2) the remainder of such assistance may not be provided until the Chairperson finds that the recipient of such assistance is complying substantially with this section and with the conditions under which such assistance is provided to such recipient.
+&emsp;(2) the remainder of such assistance may not be provided until the Chairperson finds thatthe recipient of such assistance is complying substantially with this section and with the conditions under which such assistance is provided to such recipient.
 
 #### (k) Reviews to ensure compliance with regulations
 
@@ -166,7 +166,7 @@ The Inspector General of the Endowment shall conduct appropriate reviews to ensu
 
 (3)(A) This subsection shall not apply with respect to financial assistance provided before the effective date of this subsection.
 
-(B) This subsection shall not apply with respect to a project, production, workshop, or program after the expiration of the 7-year periodbeginning on the latest date on which financial assistance is provided under this section for such project, production, workshop, or program.
+(B) This subsection shall not apply with respect to a project, production, workshop, or program after the expiration of the 7-year period beginning on the latest date on which financial assistance is provided under this section for such project, production, workshop, or program.
 
 #### (m) Labor standards of professional performers and personnel; healthy and safe working conditions
 
@@ -188,7 +188,7 @@ The Chairperson shall correlate the programs of the National Endowment for the A
 
 &emsp;(B) providing administrative and management improvements for cultural organizations and institutions, particularly in the field of long-range financial planning;
 
-&emsp;(C) enabling cultural organizations and institutions to increase audience participation in, and appreciation of, programs sponsored by such organizations and institutions;
+&emsp;(C) enabling cultural organizations and institutions to increase audience participationin, and appreciation of, programs sponsored by such organizations and institutions;
 
 &emsp;(D) providing additional support for cooperative efforts undertaken by State arts agencies with local arts groups and local arts agencies to promote effective arts activity at the State and local level, including—
 
@@ -244,7 +244,7 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (n), is set out 
 
 1990—Subsec. (c). Pub. L. 101–512, §318 \[title I, §103(a)(7)\], substituted “paragraph (10)” for “clause (8)” in concluding provisions.
 
-Subsec. (c)(1). Pub. L. 101–512, §318 \[title I, §103(a)(1)\], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “projects and productions which have substantial artistic and cultural significance, giving emphasis to American creativity and cultural diversity and the maintenance and encouragement of professional excellence;”.
+Subsec. (c)(1). Pub. L. 101–512, §318 \[title I, §103(a)(1)\], amended par. (1) generally. Prior to amendment, par.\(1) read as follows: “projects and productions which have substantial artistic and cultural significance, giving emphasis to American creativity and cultural diversity and the maintenance and encouragement of professional excellence;”.
 
 Subsec. (c)(2). Pub. L. 101–512, §318 \[title I, §103(a)(2)\], inserted “or tradition” after “authenticity”.
 
@@ -274,7 +274,7 @@ Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsec. (<i>l</i
 
 Pub. L. 101–512, §318 \[title I, §103(g)(1)\], redesignated subsec. (j) as (m). Former subsec. (m) redesignated (p).
 
-Subsecs. (n), (<i>o</i>). Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsecs. (m) and (n) as (n) and\(<i>o</i>), respectively. Former subsecs. (n) and (<i>o</i>) redesignated (<i>o</i>) and (p), respectively.
+Subsecs. (n), (<i>o</i>). Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsecs. (m) and (n) as (n) and (<i>o</i>), respectively. Former subsecs. (n) and (<i>o</i>) redesignated (<i>o</i>) and (p), respectively.
 
 Pub. L. 101–512, §318 \[title I, §103(g)(1)\], redesignated subsecs. (k) and (<i>l</i>) as (n) and (<i>o</i>), respectively.
 
@@ -346,7 +346,7 @@ Subsec. (g)(2). Pub. L. 93–133, §2(a)(4)(B), (C), in provisions preceding cl.
 
 Subsec. (g)(3). Pub. L. 93–133, §2(a)(4)(D), added par. (3) and struck out former par. (3) which read as follows: “From the sums appropriated to carry out the purposes of this subsection for any fiscal year, not less than $65,000 shall be allotted to each State. That part of such sums as may remain after such allotment shall be allotted among the States in equal amounts, except that for the purposes of this sentence the term ‘State’ shall not include Guam and American Samoa. If the sums appropriated for any fiscal year to carry out the purposes of this subsection are insufficient to satisfy allotments under the first sentence of this paragraph, such sums shall be allotted among the States in equal amounts.”
 
-Subsec. (g)(4). Pub. L. 93–133, §2(a)(4)(D), added par. (4) and struck out former par. (4) which read as follows:“The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1), and to pay up to 100 per centum of the cost of conducting a study and establishing a State agency under paragraph (2)(B) of this subsection.”
+Subsec. (g)(4). Pub. L. 93–133, §2(a)(4)(D), added par. (4) and struck out former par. (4) which read as follows: “The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1), and to pay up to 100 per centum of the cost of conducting a study and establishing a State agency under paragraph (2)(B) of this subsection.”
 
 Subsec. (g)(5). Pub. L. 93–133, §2(a)(4)(E), substituted “All amounts allotted or made available” for “All amounts allotted”.
 

@@ -16,7 +16,7 @@ A person filing an application under subsection (a) of this section shall comply
 
 #### (c) Periods when not in service
 
-In the case such applicant's service was not continuous, the applicant's residence in the United States and State or district of the Service in the United States, good moral character, attachment to the principles of the Constitution of the United States, and favorable disposition toward the good order and happiness of the United States, during any period within five years immediately preceding the date of filing such application between the periods of applicant's service in the Armed Forces, shall be alleged in the application filed under the provisions of subsection (a) of this section, and proved at any hearing thereon. Such allegationand proof shall also be made as to any period between the termination of applicant's service and the filing of the application for naturalization.
+In the case such applicant's service was not continuous, the applicant's residence in the United States and State or district of the Service in the United States, good moral character, attachment to the principles of the Constitution of the United States, and favorable disposition toward the good order and happiness of the United States, during any period within five years immediately preceding the date of filing such application between the periods of applicant's service in the Armed Forces, shall be alleged in the application filed under the provisions of subsection (a) of this section, and proved at any hearing thereon. Such allegation and proof shall also be made as to any period between the termination of applicant's service and the filing of the application for naturalization.
 
 #### (d) Residence requirements
 
@@ -46,7 +46,7 @@ Subsec. (d). Pub. L. 101–649, §407(c)(10), substituted references to applican
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub.L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1981 Amendment
 

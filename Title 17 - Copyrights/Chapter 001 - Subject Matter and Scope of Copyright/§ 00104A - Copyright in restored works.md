@@ -44,7 +44,7 @@ Enforcement of copyright in restored works as against reliance parties.—As aga
 
 &emsp;&emsp;(III) copies or phonorecords of a work in which copyright has been restored under this section are made after publication of the notice of intent in the Federal Register.
 
-&emsp;&emsp;(B)(i) The owner of the restored copyright (or such owner's agent) or the owner of anexclusive right therein (or such owner's agent) serves upon a reliance party a notice of intent to enforce a restored copyright; and
+&emsp;&emsp;(B)(i) The owner of the restored copyright (or such owner's agent) or the owner of an exclusive right therein (or such owner's agent) serves upon a reliance party a notice of intent to enforce a restored copyright; and
 
 &emsp;&emsp;(ii)(I) the act of infringement commenced after the end of the 12-month period beginning on the date the notice of intent is received;
 
@@ -96,7 +96,7 @@ Notices of intent filed with the copyright office.—(A)(i) A notice of intent f
 
 Notices of intent served on a reliance party.—(A) Notices of intent to enforce a restored copyright may be served on a reliance party at any time after the date of restoration of the restored copyright.
 
-&emsp;(B) Notices of intent to enforce a restored copyright served on a reliance party shall be signed by the owner or the owner's agent, shall identify the restored work and the work in which the restored work is used, if any, indetail sufficient to identify them, and shall include an English translation of the title, any other alternative titles known to the owner by which the work may be identified, the use or uses to which the owner objects, and an address and telephone number at which the reliance party may contact the owner. If the notice is signed by an agent, the agency relationship must have been constituted in writing and signed by the owner before service of the notice.
+&emsp;(B) Notices of intent to enforce a restored copyright served on a reliance party shall be signed by the owner or the owner's agent, shall identify the restored work and the work in which the restored work is used, if any, in detail sufficient to identify them, and shall include an English translation of the title, any other alternative titles known to the owner by which the work may be identified, the use or uses to which the owner objects, and an address and telephone number at which the reliance party may contact the owner. If the notice is signed by an agent, the agency relationship must have been constituted in writing and signed by the owner before service of the notice.
 
 &emsp;(3)
 
@@ -268,7 +268,7 @@ Subsec. (h)(2), (3). Pub. L. 105–80, §2(3), (4), amended pars. (2) and (3) ge
 
 #### Effective Date of 1998 Amendment
 
-Subsec. (h)(1)(A), (B), (E), (3)(A), (B), (E) of this section and amendment by section 102(c)(4), (5) of Pub. L. 105–304 effective Oct. 28, 1998, except as otherwise provided, subsec. (h)(1)(C), (3)(C) of this section effective upon entry into force of WIPO Copyright Treaty withrespect to United States, and subsec. (h)(1)(D), (3)(D) of this section and amendment by section 102(c)(3) of Pub. L. 105–304 effective upon entry into force of WIPO Performances and Phonograms Treaty with respect to United States, see section 105(a), (b)(1)(C), (D), (2)(D)–(F) of Pub. L. 105–304, set out as a note under section 101 of this title.
+Subsec. (h)(1)(A), (B), (E), (3)(A), (B), (E) of this section and amendment by section 102(c)(4), (5) of Pub. L. 105–304 effective Oct. 28, 1998, except as otherwise provided, subsec. (h)(1)(C), (3)(C) of this section effective upon entry into force of WIPO Copyright Treaty with respect to United States, and subsec. (h)(1)(D), (3)(D) of this section and amendment by section 102(c)(3) of Pub. L. 105–304 effective upon entry into force of WIPO Performances and Phonograms Treaty with respect to United States, see section 105(a), (b)(1)(C), (D), (2)(D)–(F) of Pub. L. 105–304, set out as a note under section 101 of this title.
 
 #### Effective Date
 

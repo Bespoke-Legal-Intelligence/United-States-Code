@@ -42,7 +42,7 @@ The Administrator shall encourage waste treatment management which combines “o
 
 &emsp;(B) as appropriate, the works proposed for grant assistance will take into account and allow to the extent practicable the application of technology at a later date which will provide for the reclaiming or recycling of water or otherwise eliminate the discharge of pollutants.
 
-(3) The Administrator shall not approve any grant after July 1, 1973, for treatment works under this section unless the applicant shows to the satisfaction of the Administrator that each sewer collection system discharging into such treatment works is not subject to excessive infiltration.
+(3) The Administrator shall not approve any grant after July 1, 1973, for treatment works under this section unless the applicant shows tothe satisfaction of the Administrator that each sewer collection system discharging into such treatment works is not subject to excessive infiltration.
 
 (4) The Administrator is authorized to make grants to applicants for treatment works grants under this section for such sewer system evaluation studies as may be necessary to carry out the requirements of paragraph (3) of this subsection. Such grants shall be made in accordance with rules and regulations promulgated by the Administrator. Initial rules and regulations shall be promulgated under this paragraph not later than 120 days after October 18, 1972.
 
@@ -70,7 +70,7 @@ The Administrator is authorized to make a grant for any treatment works utilizin
 
 #### (k) Limitation on use of grants for publicly owned treatment works
 
-No grant made after November 15, 1981, for a publicly owned treatment works, other than for facility planning and the preparation of construction plans and specifications, shall be used to treat, store, or convey the flow of any industrial user into such treatment works in excess of a flow per day equivalent to fifty thousand gallons per day of sanitary waste. This subsection shall not apply to any project proposed by a grantee which is carrying out an approved project to prepare construction plans and specifications for a facility to treat wastewater,which received its grant approval before May 15, 1980. This subsection shall not be in effect after November 15, 1981.
+No grant made after November 15, 1981, for a publicly owned treatment works, other than for facility planning and the preparation of construction plans and specifications, shall be used to treat, store, or convey the flow of any industrial user into such treatment works in excess of a flow per day equivalent to fifty thousand gallons per day of sanitary waste. This subsection shall not apply to any project proposed by a grantee which is carrying out an approved project to prepare construction plans and specifications for a facility to treat wastewater, which received its grant approval before May 15, 1980. This subsection shall not be in effect after November 15, 1981.
 
 #### (<i>l</i>) Grants for facility plans, or plans, specifications, and estimates for proposed project for construction of treatment works; limitations, allotments, advances, etc.
 
@@ -130,7 +130,7 @@ Subsec. (n). Pub. L. 97–117, §5, added subsec. (n).
 
 Subsec. (<i>o</i>). Pub. L. 97–117, §6, added subsec. (<i>o</i>).
 
-1980—Subsec. (h). Pub. L. 96–483, §2(d), struck out text following par. (3), relating to payment to the United States by commercial users of that portion of the cost of construction applicable to treatment of commercial wastes to the extent attributable to the Federal share of the cost of construction.
+1980—Subsec. (h). Pub. L. 96–483, §2(d), struck out text following par. (3), relating to payment to the United States by commercial users of that portion of the cost of construction applicable to treatment of commercialwastes to the extent attributable to the Federal share of the cost of construction.
 
 Subsec. (k). Pub. L. 96–483, §3, added subsec. (k).
 
@@ -222,7 +222,7 @@ Pub. L. 105–65, title III, Oct. 27, 1997, 111 Stat. 1374, provided in part: �
 
 Environmental Protection Agency” and “
 
-state and tribal assistance grants”\], the Administrator is authorized to makegrants to federally recognized Indian governments for the development of multi-media environmental programs: <i>Provided further</i>, That, hereafter, the funds available under this heading for grants to States, federally recognized tribes, and air pollution control agencies for multi-media or single media pollution prevention, control and abatement and related activities may also be used for the direct implementation by the Federal Government of a program required by law in the absence of an acceptable State or tribal program”.
+state and tribal assistance grants”\], the Administrator is authorized to make grants to federally recognized Indian governments for the development of multi-media environmental programs: <i>Provided further</i>, That, hereafter, the funds available under this heading for grants to States, federally recognized tribes, and air pollution control agencies for multi-media or single media pollution prevention, control and abatement and related activities may also be used for the direct implementation by the Federal Government of a program required by law in the absence of an acceptable State or tribal program”.
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -240,7 +240,7 @@ Pub. L. 102–139, title III, Oct. 28, 1991, 105 Stat. 762.
 
 Pub. L. 101–507, title III, Nov. 5, 1990, 104 Stat. 1372.
 
-Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That beginning in fiscal year 1996 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator is authorized to make grants annually from funds appropriated under this heading \[“
+Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided inpart: “That beginning in fiscal year 1996 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator is authorized to make grants annually from funds appropriated under this heading \[“
 
 Environmental Protection Agency” and “
 
@@ -274,7 +274,7 @@ Section 12 of Pub. L. 92–500, as amended by Pub. L. 97–258, §4(b), Sept. 13
 
 “(3) No purchase shall be made of obligations issued to finance projects, the permanent financing of which occurred prior to the enactment of this section \[Oct. 18, 1972\].
 
-“(4) Any purchase by the Authority shall be upon such terms and conditions as to yield a return at a rate determined by the Secretary of the Treasury taking into consideration (A) the current average yield on outstanding marketable obligations of the United Statesof comparable maturity or in its stead whenever the Authority has sufficient of its own long-term obligations outstanding, the current average yield on outstanding obligations of the Authority of comparable maturity; and (B) the market yields on municipal bonds.
+“(4) Any purchase by the Authority shall be upon such terms and conditions as to yield a return at a rate determined by the Secretary of the Treasury taking into consideration (A) the current average yield on outstanding marketable obligations of the United States of comparable maturity or in its stead whenever the Authority has sufficient of its own long-term obligations outstanding, the current average yield on outstanding obligations of the Authority of comparable maturity; and (B) the market yields on municipal bonds.
 
 “(5) The Authority is authorized to charge fees for its commitments and other services adequate to cover all expenses and to provide for the accumulation of reasonable contingency reserves and such fees shall be included in the aggregate project costs.
 

@@ -16,7 +16,7 @@
 
 &emsp;(3) The individual shall be provided an opportunity to inspect and copy records relating to the debt.
 
-&emsp;(4) The individual shall be provided an opportunity to enter into a written agreement with the executive, judicial, or legislative agency, under terms agreeable to the head of the agency, to establish a schedule for repayment of the debt.
+&emsp;(4) The individual shall be provided an opportunity to enter into a written agreementwith the executive, judicial, or legislative agency, under terms agreeable to the head of the agency, to establish a schedule for repayment of the debt.
 
 &emsp;(5) The individual shall be provided an opportunity for a hearing in accordance with subsection (c) on the determination of the head of the executive, judicial, or legislative agency concerning—
 

@@ -8,7 +8,7 @@
 
 #### (2) Appointment of Director
 
-&emsp;The Office shall be headed by a Director, who shall be appointed by the Secretary, beexperienced and specially trained in the conduct of research, and have experience in the conduct of investigations of research misconduct. The Secretary shall carry out this section acting through the Director of the Office. The Director shall report to the Secretary.
+&emsp;The Office shall be headed by a Director, who shall be appointed by the Secretary, be experienced and specially trained in the conduct of research, and have experience in the conduct of investigations of research misconduct. The Secretary shall carry out this section acting through the Director of the Office. The Director shall report to the Secretary.
 
 #### (3) Definitions
 
@@ -46,7 +46,7 @@ The Secretary shall by regulation establish procedures for the Director to monit
 
 #### (1) In general
 
-&emsp;In the case of any entity required to establish administrative processes under subsection (b) of this section, the Secretary shall by regulation establish standards for preventing, and for responding to the occurrence of retaliation by such entity, its officials or agents, against an employee in the terms and conditions of employment in response to the employee having in good faith—
+&emsp;In the case of any entity required to establish administrative processes under subsection (b) of this section, the Secretary shall by regulation establish standards for preventing, and for responding to the occurrence of retaliationby such entity, its officials or agents, against an employee in the terms and conditions of employment in response to the employee having in good faith—
 
 &emsp;&emsp;(A) made an allegation that the entity, its officials or agents, has engaged in or failed to adequately respond to an allegation of research misconduct; or
 

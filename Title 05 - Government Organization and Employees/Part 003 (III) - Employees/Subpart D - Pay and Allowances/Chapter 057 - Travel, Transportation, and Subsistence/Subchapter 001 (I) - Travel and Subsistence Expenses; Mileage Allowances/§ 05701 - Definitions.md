@@ -198,7 +198,7 @@ Reimbursement of Travel Expenses.—In accordance with regulations prescribed by
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5304 of this title; title 2 section 68b; title 7 sections 3128, 5843; title 15 section 2224; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709; title 22 section 1474; title 24 section 415; title 42 section 12653h; title 46 App. section 1717.
+This section is referred to in section 5304 of this title; title 2 section 68b; title 7 sections 3128, 5843; title 15 section 2224; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709; title 22 section 1474; title 24 section 415; title 42 section 12653h.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

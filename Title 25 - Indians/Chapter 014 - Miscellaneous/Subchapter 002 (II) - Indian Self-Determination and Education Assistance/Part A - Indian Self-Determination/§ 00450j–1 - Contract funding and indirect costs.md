@@ -62,7 +62,7 @@ The amount of funds required by subsection (a) of this section—
 
 #### (c) Treatment of shortfalls in indirect cost recoveries
 
-(1) Where a tribal organization's allowable indirect cost recoveries are below the level of indirect costs that the tribal organizations should have received for any given year pursuant to its approved indirect cost rate, and such shortfall is the result of lack of full indirect cost funding by any Federal, State, or other agency, such shortfall in recoveries shall not form the basis for any theoretical over-recovery or other adverseadjustment to any future years’ indirect cost rate or amount for such tribal organization, nor shall any agency seek to collect such shortfall from the tribal organization.
+(1) Where a tribal organization's allowable indirect cost recoveries are below the level of indirect costs that the tribal organizations should have received for any given year pursuant to its approved indirect cost rate, and such shortfall is the result of lack of full indirect cost funding by any Federal, State, or other agency, such shortfall in recoveries shall not form the basis for any theoretical over-recovery or other adverse adjustment to any future years’ indirect cost rate or amount for such tribal organization, nor shall any agency seek to collect such shortfall from the tribal organization.
 
 (2) Nothing in this subsection shall be construed to authorize the Secretary to fund less than the full amount of need for indirect costs associated with a self-determination contract.
 
@@ -110,7 +110,7 @@ Without intending any limitation, a tribal organization may, without the approva
 
 &emsp;(8) Insurance and indemnification, including insurance covering the risk of loss of or damage to property used in connection with the contract without regard to the ownership of such property.
 
-&emsp;(9) Costs incurred to raise funds or contributions from non-Federal sources for the purpose of furthering the goals and objectives of the self-determination contract.
+&emsp;(9) Costs incurred to raise funds or contributions from non-Federal sources for the purposeof furthering the goals and objectives of the self-determination contract.
 
 &emsp;(10) Interest expenses paid on capital expenditures such as buildings, building renovation, or acquisition or fabrication of capital equipment, and interest expenses on loans necessitated due to delays by the Secretary in providing funds under a contract.
 
@@ -120,7 +120,7 @@ Without intending any limitation, a tribal organization may, without the approva
 
 #### (k) Suspension, withholding, or delay in payment of funds
 
-(1) The Secretary may only suspend, withhold, or delay the payment of funds for a period of 30 days beginning on the date the Secretary makes a determination under this paragraph to a tribal organization under a self-determination contract, if the Secretary determines that the tribal organization has failed to substantially carryout the contract without good cause. In any such case, the Secretary shall provide the tribal organization with reasonable advance written notice, technical assistance (subject to available resources) to assist the tribal organization, a hearing on the record not later than 10 days after the date of such determination or such later date as the tribal organization shall approve, and promptly release any funds withheld upon subsequent compliance.
+(1) The Secretary may only suspend, withhold, or delay the payment of funds for a period of 30 days beginning on the date the Secretary makes a determination under this paragraph to a tribal organization under a self-determination contract, if the Secretary determines that the tribal organization has failed to substantially carry out the contract without good cause. In any such case, the Secretary shall provide the tribal organization with reasonable advance written notice, technical assistance (subject to available resources) to assist the tribal organization, a hearing on the record not later than 10 days after the date of such determination or such later date as the tribal organization shall approve, and promptly release any funds withheld upon subsequent compliance.
 
 (2) With respect to any hearing or appeal conducted pursuant to this subsection, the Secretary shall have the burden of proof to establish by clearly demonstrating the validity of the grounds for suspending, withholding, or delaying payment of funds.
 
@@ -168,7 +168,7 @@ Subsec. (f). Pub. L. 103–413, §102(16), inserted after second sentence “For
 
 Subsec. (g). Pub. L. 103–413, §102(17), added subsec. (g) and struck out former subsec. (g) which read as follows: “Upon the approval of a self-determination contract and at the request of an Indian tribe or tribal organization, the Secretary shall add the indirect cost funding amount awarded for a self-determination contract to the amount awarded for direct program funding for the first year and, subject to adjustments in the amount of direct program costs for the contract, for each subsequent year that the program remains continuously under contract.”
 
-Subsec. (i). Pub. L. 103–413, §102(18), added subsec. (i) and struck out former subsec. (i) which read as follows: “Within one month after October 5, 1988, the Secretary is mandated to establish a team in each area of the Bureau of Indian Affairs which consists of agency personnel (area personnel in the Navajo Area and in the case of Indian tribes not served by an agency) and tribal representatives for the purpose of analyzing the ‘Indian Priority System’ and other aspects of the budgeting and funding allocation process of the Bureau of Indian Affairs for the purpose of making a report to Congress with appropriate recommendations for changes and legislative actions to achieve greater tribal decision-making authority over the use of funds appropriated for the benefit of the tribes and their members. The report along with the analysis, findings and recommendations of the area teams shall be submitted to Congress within six months of October 5, 1988. The Secretary may submit to Congress separate comments on the information and recommendations on the report.”
+Subsec. (i). Pub. L. 103–413, §102(18), added subsec. (i) and struck out former subsec. (i) which read as follows:“Within one month after October 5, 1988, the Secretary is mandated to establish a team in each area of the Bureau of Indian Affairs which consists of agency personnel (area personnel in the Navajo Area and in the case of Indian tribes not served by an agency) and tribal representatives for the purpose of analyzing the ‘Indian Priority System’ and other aspects of the budgeting and funding allocation process of the Bureau of Indian Affairs for the purpose of making a report to Congress with appropriate recommendations for changes and legislative actions to achieve greater tribal decision-making authority over the use of funds appropriated for the benefit of the tribes and their members. The report along with the analysis, findings and recommendations of the area teams shall be submitted to Congress within six months of October 5, 1988. The Secretary may submit to Congress separate comments on the information and recommendations on the report.”
 
 Subsecs. (j) to (<i>o</i>). Pub. L. 103–413, §102(19), added subsecs. (j) to (<i>o</i>).
 
@@ -176,7 +176,7 @@ Subsecs. (j) to (<i>o</i>). Pub. L. 103–413, §102(19), added subsecs. (j) to 
 
 Subsec. (f). Pub. L. 101–301, §2(a)(8), substituted “prior to enactment of chapter 75 of title 31” for “prior to enactment of the Single Agency Audit Act of 1984 (chapter 75 of title 31)”, which for purposes of codification was translated as “prior to October 19, 1984”, requiring no change in text.
 
-Subsec. (i). Pub. L. 101–301, §2(a)(9), substituted “agency personnel (area personnel in the Navajo Areaand in the case of Indian tribes not served by an agency)” for “agency personnel”.
+Subsec. (i). Pub. L. 101–301, §2(a)(9), substituted “agency personnel (area personnel in the Navajo Area and in the case of Indian tribes not served by an agency)” for “agency personnel”.
 
 #### Section Referred to in Other Sections
 

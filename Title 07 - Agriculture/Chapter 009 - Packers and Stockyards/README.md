@@ -12,16 +12,18 @@
 
 #### SUBCHAPTER II—PACKERS GENERALLY
 
+#### Part A—General Provisions
+
 |  |  |
 | :--- | ---: |
-| [191\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/%C2%A7%2000191%20-%20%E2%80%9CPacker%E2%80%9D%20defined.md) | “Packer” defined. |
-| [192\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/%C2%A7%2000192%20-%20Unlawful%20practices%20enumerated.md) | Unlawful practices enumerated. |
-| [193\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/%C2%A7%2000193%20-%20Procedure%20before%20Secretary%20for%20violations.md) | Procedure before Secretary for violations. |
+| [191\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000191%20-%20%E2%80%9CPacker%E2%80%9D%20defined.md) | “Packer” defined. |
+| [192\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000192%20-%20Unlawful%20practices%20enumerated.md) | Unlawful practices enumerated. |
+| [193\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000193%20-%20Procedure%20before%20Secretary%20for%20violations.md) | Procedure before Secretary for violations. |
 | (a) | Complaint; hearing; intervention. |
 | (b) | Report and order; penalty. |
 | (c) | Amendment of report or order. |
 | (d) | Service of process. |
-| [194\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/%C2%A7%2000194%20-%20Conclusiveness%20of%20order%3B%20appeal%20and%20review.md) | Conclusiveness of order; appeal and review. |
+| [194\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000194%20-%20Conclusiveness%20of%20order%3B%20appeal%20and%20review.md) | Conclusiveness of order; appeal and review. |
 | (a) | Filing of petition; bond. |
 | (b) | Filing of record by Secretary. |
 | (c) | Temporary injunction. |
@@ -30,17 +32,36 @@
 | (f) | Additional evidence. |
 | (g) | Injunction. |
 | (h) | Finality. |
-| [195\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/%C2%A7%2000195%20-%20Punishment%20for%20violation%20of%20order.md) | Punishment for violation of order. |
-| [196\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/%C2%A7%2000196%20-%20Statutory%20trust%20established%3B%20livestock.md) | Statutory trust established; livestock. |
+| [195\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000195%20-%20Punishment%20for%20violation%20of%20order.md) | Punishment for violation of order. |
+| [196\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000196%20-%20Statutory%20trust%20established%3B%20livestock.md) | Statutory trust established; livestock. |
 | (a) | Protection of public interest from inadequate financing arrangements. |
 | (b) | Livestock, inventories, receivables and proceeds held by packer in trust for benefit of unpaid cash sellers; time limitations; exempt packers; effect of dishonored instruments; preservation of trust benefits by seller. |
 | (c) | Definition of cash sale. |
-| [197\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/%C2%A7%2000197%20-%20Statutory%20trust%20established%3B%20poultry.md) | Statutory trust established; poultry. |
+| [197\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000197%20-%20Statutory%20trust%20established%3B%20poultry.md) | Statutory trust established; poultry. |
 | (a) | Protection of public interest from inadequate financing arrangements. |
 | (b) | Poultry, inventories, receivables and proceeds held by dealer in trust for benefit of unpaid cash sellers or poultry growers. |
 | (c) | Effect of dishonored instruments. |
 | (d) | Preservation of trust benefit by seller or poultry grower. |
 | (e) | Definition of cash sale. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part B—Swine Packer Marketing Contracts
+
+|  |  |
+| :--- | ---: |
+| [198\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20B%20-%20Swine%20Packer%20Marketing%20Contracts/%C2%A7%2000198%20-%20Definitions.md) | Definitions. |
+| [198a.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20B%20-%20Swine%20Packer%20Marketing%20Contracts/%C2%A7%2000198a%20-%20Swine%20packer%20marketing%20contracts%20offered%20to%20producers.md) | Swine packer marketing contracts offered to producers. |
+| (a) | In general. |
+| (b) | Availability. |
+| (c) | Confidentiality. |
+| (d) | Information collection. |
+| (e) | Violations. |
+| (f) | Authorization of appropriations. |
+| [198b.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20B%20-%20Swine%20Packer%20Marketing%20Contracts/%C2%A7%2000198b%20-%20Report%20on%20the%20Secretary%27s%20jurisdiction%2C%20power%2C%20duties%2C%20and%20authorities.md) | Report on the Secretary's jurisdiction, power, duties, and authorities. |
+| (a) | Definition of packer. |
+| (b) | Report. |
+| (c) | Contents. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -144,10 +165,7 @@
 | 228b–4. | Violation of final order by live poultry dealer; penalty. |
 | [228c.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000228c%20-%20Federal%20preemption%20of%20State%20and%20local%20requirements.md) | Federal preemption of State and local requirements. |
 | [229\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229%20-%20Separability.md) | Separability. |
-| [229a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229a%20-%20Mandatory%20domestic%20reporting%20pilot%20investigation.md) | Mandatory domestic reporting pilot investigation. |
-| (1) | In general. |
-| (2) | Application. |
-| (3) | Report. |
+| [229a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229a%20-%20Repealed.%20Pub.%20L.%20106%E2%80%9378%2C%20title%20IX%2C%20%C2%A7913%28a%29%2C%20Oct.%2022%2C%201999%2C%20113%20Stat.%201205.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -161,13 +179,13 @@
 
 #### Transfer of Functions
 
-Functions of Bureau of Animal Industry transferred to Secretary of Agriculture by 1947 Reorg. Plan No. 1, §301, eff. July 1, 1947, 12 F.R. 4534, 61 Stat 952. See note set out under section 391 of this title.
+Functions of Bureau of Animal Industry transferred to Secretary of Agriculture by 1947 Reorg. Plan No. 1, §301, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952. See note set out under section 391 of this title.
 
 By order of Secretary of Agriculture, Packers and Stockyards Administration abolished on July 1, 1927, and enforcement of Packers and Stockyards Act of 1921, which is classified to this chapter, was put under control of chief of Bureau of Animal Industry.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 11 section 525; title 15 sections 45, 1607, 1681s, 1691c, 1692<i>l</i>; title 28 section 2342.
+This chapter is referred to in section 1636 of this title; title 11 section 525; title 15 sections 45, 1607, 1681s, 1691c, 1692<i>l</i>, 6505; title 28 section 2342.
 
 
 ---

@@ -10,6 +10,7 @@ Part III—Ascertainment, Collection, and Recovery of Duties
 - [&sect; 01483 - Repealed. Pub. L. 97&#8211;446, title II, &sect;201(c), Jan. 12, 1983, 96 Stat. 2349](%C2%A7%2001483%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93446%2C%20title%20II%2C%20%C2%A7201%28c%29%2C%20Jan.%2012%2C%201983%2C%2096%20Stat.%202349.md)
 - [&sect; 01484 - Entry of merchandise](%C2%A7%2001484%20-%20Entry%20of%20merchandise.md)
 - [&sect; 01484a - Articles returned from space not to be construed as importation](%C2%A7%2001484a%20-%20Articles%20returned%20from%20space%20not%20to%20be%20construed%20as%20importation.md)
+- [&sect; 01484b - Deferral of duty on large yachts imported for sale at United States boat shows](%C2%A7%2001484b%20-%20Deferral%20of%20duty%20on%20large%20yachts%20imported%20for%20sale%20at%20United%20States%20boat%20shows.md)
 - [&sect; 01485 - Declaration](%C2%A7%2001485%20-%20Declaration.md)
 - [&sect; 01486 - Administration of oaths](%C2%A7%2001486%20-%20Administration%20of%20oaths.md)
 - [&sect; 01487 - Value in entry; amendment](%C2%A7%2001487%20-%20Value%20in%20entry%3B%20amendment.md)

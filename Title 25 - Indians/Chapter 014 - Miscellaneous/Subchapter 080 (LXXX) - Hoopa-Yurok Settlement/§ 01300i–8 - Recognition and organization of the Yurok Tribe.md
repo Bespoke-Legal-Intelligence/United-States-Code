@@ -20,7 +20,7 @@ There shall be established an Interim Council of the Yurok Tribe to be composed 
 
 (3) Within 45 days after the general council meeting held pursuant to paragraph (2), the Secretary shall hold an election by secret ballot, with absentee balloting and write-in voting to be permitted, to elect the five members of the Interim Council from among the nominations submitted to him from such general council meeting. The Secretary shall assure that notice of the time and place of such election shall be provided to eligible voters at least fifteen days before such election.
 
-(4) The Secretary shall certify the results of such election and, as soon as possible, convene an organizational meeting of the newly-electedmembers of the Interim Council and shall provide such advice and assistance as may be necessary for such organization.
+(4) The Secretary shall certify the results of such election and, as soon as possible, convene an organizational meeting of the newly-elected members of the Interim Council and shall provide such advice and assistance as may be necessary for such organization.
 
 (5) Vacancies on the Interim Council shall be filled by a vote of the remaining members.
 
@@ -38,7 +38,7 @@ There shall be established an Interim Council of the Yurok Tribe to be composed 
 
 (3) The Interim Council shall have such other powers, authorities, functions, and responsibilities as the Secretary may recognize, except that any contract or legal obligation that would bind the Yurok Tribe for a period in excess of two years from the date of the certification of the election by the Secretary shall be subject to disapproval and cancellation by the Secretary if the Secretary determines that such a contract or legal obligation is unnecessary to improve housing conditions of members of the Yurok Tribe, or to obtain other rights, privileges or benefits that are in the long-term interest of the Yurok Tribe.
 
-(4) The Interim Council shall appoint, as soon as practical, a drafting committee which shall be responsible, in consultation with the Interim Council, the Secretary and members of the tribe, for the preparation of a draft constitution for submission to the Secretary pursuant to subsection (e) of this section.
+(4) The Interim Council shall appoint, as soon as practical, a drafting committee which shall be responsible, in consultation with the Interim Council, the Secretary and members of thetribe, for the preparation of a draft constitution for submission to the Secretary pursuant to subsection (e) of this section.
 
 (5) The Interim Council shall be dissolved effective with the election and installation of the initial tribe <sup>1</sup> governing body elected pursuant to the constitution adopted under subsection (e) of this section or at the end of two years after such installation, whichever occurs first.
 

@@ -46,7 +46,7 @@ For purposes of this chapter—
 
 &emsp;(16) the term “prohibited waste” means any substance which must be removed from Antarctica pursuant to Annex III to the Protocol, but does not include materials used for balloon envelopes required for scientific research and weather forecasting;
 
-&emsp;(17) the term “Protocol” means the Protocol on Environmental Protection to the AntarcticTreaty, signed October 4, 1991, in Madrid, and all annexes thereto, including any future amendments thereto to which the United States is a party;
+&emsp;(17) the term “Protocol” means the Protocol on Environmental Protection to the Antarctic Treaty, signed October 4, 1991, in Madrid, and all annexes thereto, including any future amendments thereto to which the United States is a party;
 
 &emsp;(18) the term “Secretary” means the Secretary of Commerce;
 

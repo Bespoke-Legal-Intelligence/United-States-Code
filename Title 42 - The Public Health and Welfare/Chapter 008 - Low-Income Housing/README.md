@@ -416,7 +416,7 @@ Prohibition of denial of certificates and vouchers to residents of public housin
 
 (t)
 
-Repealed.
+Enhanced vouchers.
 
 (u)
 
@@ -428,7 +428,7 @@ Extension of expiring contracts.
 
 (w)
 
-Renewal of expiring contracts.
+Repealed.
 
 (x)
 

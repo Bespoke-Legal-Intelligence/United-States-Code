@@ -28,7 +28,7 @@ Except as provided in subsection (c) of this section, the Commission is authoriz
 
 &emsp;(4) special nuclear materials in quantities not sufficient to form a critical mass.
 
-> During the duration of such an agreement it is recognized that the State shall have authority to regulate the materials covered by the agreement for the protection of the public health and safety from radiation hazards.
+> During the duration of such an agreement it is recognized that the State shall have authorityto regulate the materials covered by the agreement for the protection of the public health and safety from radiation hazards.
 
 #### (c) Commission regulation of certain activities
 
@@ -72,7 +72,7 @@ The Administrator of the Environmental Protection Agency shall consult qualified
 
 #### (i) Inspections and other functions; training and other assistance
 
-The Commission in carrying out its licensing and regulatory responsibilities under this chapter is authorized to enter into agreements with any State, or group of States, to perform inspections or other functions on a cooperative basis as the Commission deems appropriate. The Commission is also authorized to provide training, with or without charge, to employees of, and such other assistance to, any State or political subdivision thereof or group of States as the Commission deems appropriate. Any such provision or assistance by the Commission shall take into account the additional expenses that may be incurred by a State as a consequence of the State's entering into an agreement with the Commission pursuant to subsection (b) of this section.
+The Commission in carrying out its licensing and regulatory responsibilities under this chapter is authorized to enter into agreements with any State, or group of States, to perform inspections or other functions on a cooperative basis as the Commission deems appropriate. The Commission is also authorized to provide training, with or without charge, to employees of, and such other assistance to, any State or political subdivision thereof or group of States as the Commission deems appropriate. Any such provision or assistance by the Commission shall take into account the additional expenses that maybe incurred by a State as a consequence of the State's entering into an agreement with the Commission pursuant to subsection (b) of this section.
 
 #### (j) Reserve power to terminate or suspend agreements; emergency situations; State nonaction on causes of danger; authority exercisable only during emergency and commensurate with danger
 
@@ -180,7 +180,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 Section 204(g), (h) of Pub. L. 95–604, as amended by Pub. L. 96–106, §22(a), (b), Nov. 9, 1979, 93 Stat. 799; Pub. L. 97–415, §19(b), Jan. 4, 1983, 96 Stat. 2079, provided that:
 
-“(g) Nothing in any amendment made by this section \[amending this section\] shall preclude any State fromexercising any other authority as permitted under the Atomic Energy Act of 1954 \[this chapter\] respecting any byproduct material, as defined in section 11 e. (2) of the Atomic Energy Act of 1954 \[section 2014(e)(2) of this title\].
+“(g) Nothing in any amendment made by this section \[amending this section\] shall preclude any State from exercising any other authority as permitted under the Atomic Energy Act of 1954 \[this chapter\] respecting any byproduct material, as defined in section 11 e. (2) of the Atomic Energy Act of 1954 \[section 2014(e)(2) of this title\].
 
 “(h)(1) During the three-year period beginning on the date of the enactment of this Act \[Nov. 8, 1978\], notwithstanding any other provision of this title \[See Effective Date of 1978 Amendment note set out under section 2014 of this title\], any State may exercise any authority under State law (including authority exercised pursuant to an agreement entered into pursuant to section 274 of the Atomic Energy Act of 1954 \[this section\]) respecting (A) byproduct material, as defined in section 11 e. (2) of the Atomic Energy Act of 1954 \[section 2014(e)(2) of this title\], or (B) any activity which results in the production of byproduct material as so defined, in the same manner and to the same extent as permitted before the date of the enactment of this Act, except that such State authority shall be exercised in a manner which, to the extent practicable, is consistent with the requirements of section 274 <i>o</i>. of the Atomic Energy Act of 1954 (as added by section 204(e) of this Act) \[subsec. (<i>o</i>) of this section\]. The Commission shall have the authority to ensure that such section 274 <i>o</i>. is implemented by any such State to the extent practicable during the three-year period beginning on the date of the enactment of this Act. Nothing in this section shall be construed to preclude the Commission or the Administrator of the Environmental Protection Agency from taking such action under section 275 of the Atomic Energy Act of 1954 \[section 2022 of this title\] as may be necessary to implement title I of this Act \[section 7911 et seq. of this title\].
 

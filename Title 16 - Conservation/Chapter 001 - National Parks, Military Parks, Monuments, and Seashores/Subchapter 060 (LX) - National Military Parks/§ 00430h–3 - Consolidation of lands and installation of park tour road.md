@@ -8,7 +8,7 @@ In order to preserve and protect the essential historical features of Vicksburg 
 
 #### (b) Acquisition of lands: purchases, condemnations and donations
 
-&emsp;to acquire not in excess of five hundred and forty-four acres of land, or interests in land, for addition to Vicksburg National Military Park, such authority to include purchase and condemnation with appropriated funds but notto constitute a limitation upon existing authority to accept donations; and
+&emsp;to acquire not in excess of five hundred and forty-four acres of land, or interests in land, for addition to Vicksburg National Military Park, such authority to include purchase and condemnation with appropriated funds but not to constitute a limitation upon existing authority to accept donations; and
 
 #### (c) Municipal agreements of park tour road's effect upon local road systems; Federal obligations for local roads directly attributable to installation of park tour road
 

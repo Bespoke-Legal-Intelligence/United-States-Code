@@ -6,7 +6,7 @@ New bonds shall be required under sections 5173 and 5175 in case of insolvency o
 
 #### (b) Bonds
 
-If the proprietor of a distilled spirits plant fails or refuses to furnish a bond required under paragraph (1) of section 5173(a) or to renew thesame, and neglects to immediately withdraw the spirits and pay the tax thereon, the Secretary shall proceed to collect the tax.
+If the proprietor of a distilled spirits plant fails or refuses to furnish a bond required under paragraph (1) of section 5173(a) or to renew the same, and neglects to immediately withdraw the spirits and pay the tax thereon, the Secretary shall proceed to collect the tax.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1353; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(16), July 26, 1979, 93 Stat. 282.)
 

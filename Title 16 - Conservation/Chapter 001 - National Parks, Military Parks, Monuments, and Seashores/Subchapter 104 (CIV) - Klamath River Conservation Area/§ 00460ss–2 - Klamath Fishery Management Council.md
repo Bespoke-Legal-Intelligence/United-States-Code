@@ -88,7 +88,7 @@ Council members shall be individuals who are knowledgable <sup>1</sup> and expe
 
 #### (3) Vacancies
 
-&emsp;Any vacancy on the Council shall be filled in the manner in which the original appointment was made. Any member appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A member may serve after the expiration of his term until his successor has taken office.
+&emsp;Any vacancy on the Council shall be filled in the manner in which the original appointmentwas made. Any member appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A member may serve after the expiration of his term until his successor has taken office.
 
 #### (g) Transaction of business
 

@@ -2,7 +2,7 @@
 
 #### (a) Capital assets
 
-For purposes of this subtitle, gain or loss from the short sale of property shall be considered asgain or loss from the sale or exchange of a capital asset to the extent that the property, including a commodity future, used to close the short sale constitutes a capital asset in the hands of the taxpayer.
+For purposes of this subtitle, gain or loss from the short sale of property shall be considered as gain or loss from the sale or exchange of a capital asset to the extent that the property, including a commodity future, used to close the short sale constitutes a capital asset in the hands of the taxpayer.
 
 #### (b) Short-term gains and holding periods
 
@@ -54,7 +54,7 @@ If on the date of such short sale substantially identical property has been held
 
 In the case of a short sale which had been entered into as an arbitrage operation, to which sale the rule of subsection (b)(2) would apply except as otherwise provided in this subsection—
 
-&emsp;(1) subsection (b)(2) shall apply first to substantially identical assets acquired for arbitrage operations held at the close of business on the day such sale is made, and only to the extent that the quantity sold short exceeds the substantially identical assets acquired for arbitrage operations held at the close of business on the day such sale is made, shall the holding period of any other such identical assets held by the taxpayer be affected;
+&emsp;(1) subsection (b)(2) shall apply first to substantially identical assets acquired for arbitrage operations held at the close of businesson the day such sale is made, and only to the extent that the quantity sold short exceeds the substantially identical assets acquired for arbitrage operations held at the close of business on the day such sale is made, shall the holding period of any other such identical assets held by the taxpayer be affected;
 
 &emsp;(2) in the event that assets acquired for arbitrage operations are disposed of in such manner as to create a net short position in assets acquired for arbitrage operations, such net short position shall be deemed to constitute a short sale made on that day;
 

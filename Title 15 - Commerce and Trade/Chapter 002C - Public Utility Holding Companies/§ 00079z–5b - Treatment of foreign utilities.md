@@ -60,7 +60,7 @@ Nothing in this section shall—
 
 #### (1) Filing of reports
 
-&emsp;A public utility company that is an associate company of a foreign utility companyshall file with the Commission such reports (with respect to such foreign utility company) as the Commission may by rules, regulations, or order prescribe as necessary or appropriate in the public interest or for the protection of investors or consumers.
+&emsp;A public utility company that is an associate company of a foreign utility company shall file with the Commission such reports (with respect to such foreign utility company) as the Commission may by rules, regulations, or order prescribe as necessary or appropriate in the public interest or for the protection of investors or consumers.
 
 #### (2) Notice of acquisitions
 

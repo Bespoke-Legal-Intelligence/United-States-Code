@@ -52,9 +52,7 @@ To delegate, by published order or rule and subject to subchapter II of chapter 
 
 To employ such attorneys, experts, assistants, clerks, or other employees as may be deemednecessary to conduct the business of the board. All salaries and fees shall be fixed in advance by said board and shall be paid in the same manner as the salaries of the members of said board.
 
-#### (m) Percentage of capital and surplus represented by loans; determination by Board
-
-Upon the affirmative vote of not less than six of its members the Board of Governors of the Federal Reserve System shall have power to fix from time to time for each Federal reserve district the percentage of individual bank capital and surplus which may be represented by loans secured by stock or bond collateral made by member banks within such district, but no such loan shall be made by any such bank to any person in an amount in excess of 15 percent of the unimpaired capital and surplus of such bank: <i>Provided</i>, That with respect to loans represented by obligations secured by not less than a like amount of bonds or notes of the United States issued since April 24, 1917, certificates of indebtedness of the United States, Treasury bills of the United States, or obligations fully guaranteed both as to principal and interest by the United States, such limitation of 15 percent on loans to any person shall not apply, but State member banks shall be subject to the same limitations and conditions as are applicable in the case of national banks under section 84(c)(4) of this title. Any percentage so fixed by the Board of Governors of the Federal Reserve System shall be subject to change from time to time upon ten days’ notice, and it shall be the duty of the Board to establish such percentages with a view to preventing the undue use of bank loans for the speculative carrying of securities. The Board of Governors of the Federal Reserve System shall have power to direct any member bank to refrain from further increase of its loans secured by stock or bond collateral for any period up to one year under penalty of suspension of all rediscount privileges at Federal reserve banks.
+#### (m) \[Repealed\]
 
 #### (n) Board's authority to examine depository institutions and affiliates
 
@@ -68,7 +66,7 @@ The Board may appoint the Federal Deposit Insurance Corporation as conservator o
 
 The Board may act in its own name and through its own attorneys in enforcing any provision of this title,<sup>1</sup> regulations promulgated hereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Board is a party and which involves the Board's regulation or supervision of any bank, bank holding company (as defined in section 1841 of this title), or other entity, or the administration of its operations.
 
-(Dec. 23, 1913, ch. 6, §11, 38 Stat. 261; Sept. 7, 1916, ch. 461, 39 Stat. 752; Sept. 26, 1918, ch. 177, §2, 40 Stat. 968; Mar. 3, 1919, ch. 101, §3, 40 Stat. 1315; Feb. 27, 1921, ch. 75, 41 Stat. 1146; June 26, 1930, ch. 612, 46 Stat. 814; Mar. 9, 1933, ch. 1, title I, §3, 48 Stat. 2; June 16, 1933, ch. 89, §7, 48 Stat. 167; Aug. 23, 1935, ch. 614, title II, §203(a), title III, §§321(a), 342, 49 Stat. 704, 713, 722; June 12, 1945, ch. 186, §1(c), 59 Stat. 237; Pub. L. 86–114, §3(b)(6), July 28, 1959, 73 Stat. 264; Pub. L. 86–251, §3(c), Sept. 9, 1959, 73 Stat. 488; Pub. L. 87–722, §3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 89–427, §2, May 20, 1966, 80 Stat. 161; Pub. L. 89–765, Nov. 5, 1966, 80 Stat. 1314; Pub. L. 90–269, §1, Mar. 18, 1968, 82 Stat. 50; Pub. L. 95–251, §2(a)(3), Mar. 27, 1978, 92 Stat. 183; Pub. L. 96–221, title I, §102, Mar. 31, 1980, 94 Stat. 132; Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068; Pub. L. 97–457, §17(b), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 101–73, title VII, §744(i)(1), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title I, §§133(f), 142(c), Dec. 19, 1991, 105 Stat. 2273, 2281; Pub. L. 102–550, title XVI, §1603(d)(9), Oct. 28, 1992, 106 Stat. 4080; Pub. L. 103–325, title III, §§322(d), 331(d), title VI, §602(g)(2), Sept. 23, 1994, 108 Stat. 2227, 2232, 2293.)
+(Dec. 23, 1913, ch. 6, §11, 38 Stat. 261; Sept. 7, 1916, ch. 461, 39 Stat. 752; Sept. 26, 1918, ch. 177, §2, 40 Stat. 968; Mar. 3, 1919, ch. 101, §3, 40 Stat. 1315; Feb. 27, 1921, ch. 75, 41 Stat. 1146; June 26, 1930, ch. 612, 46 Stat. 814; Mar. 9, 1933, ch. 1, title I, §3, 48 Stat. 2; June 16, 1933, ch. 89, §7, 48 Stat. 167; Aug. 23, 1935, ch. 614, title II, §203(a), title III, §§321(a), 342, 49 Stat. 704, 713, 722; June 12, 1945, ch. 186, §1(c), 59 Stat. 237; Pub. L. 86–114, §3(b)(6), July 28, 1959, 73 Stat. 264; Pub. L. 86–251, §3(c), Sept. 9, 1959, 73 Stat. 488; Pub. L. 87–722, §3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 89–427, §2, May 20, 1966, 80 Stat. 161; Pub. L. 89–765, Nov. 5, 1966, 80 Stat. 1314; Pub. L. 90–269, §1, Mar. 18, 1968, 82 Stat. 50; Pub. L. 95–251, §2(a)(3), Mar. 27, 1978, 92 Stat. 183; Pub. L. 96–221, title I, §102, Mar. 31, 1980, 94 Stat. 132; Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068; Pub. L. 97–457, §17(b), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 101–73, title VII, §744(i)(1), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title I, §§133(f), 142(c), Dec. 19, 1991, 105 Stat. 2273, 2281; Pub. L. 102–550, title XVI, §1603(d)(9), Oct. 28, 1992, 106 Stat. 4080; Pub. L. 103–325, title III, §§322(d), 331(d), title VI, §602(g)(2), Sept. 23, 1994, 108 Stat. 2227, 2232, 2293; Pub. L. 106–102, title VII, §735, Nov. 12, 1999, 113 Stat. 1479.)
 
 #### References in Text
 
@@ -84,11 +82,13 @@ This title, referred to in subsec. (p), probably should read “this Act”, mea
 
 In subsec. (k), “subchapter II of chapter 5, and chapter 7, of title 5” was substituted for “the Administrative Procedure Act” on authority of section 7(b) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-Provisions of subsec. (<i>l</i>), which authorized appointment of attorneys, experts, assistants, clerks and other employees without regard to the provisions of the act of January sixteenth, eighteen hundred and eighty-three, and amendments thereto, or any rule or regulation made in pursuance thereof, were omitted as obsolete. Appointments in the executive branch are now subject to the civil service laws unless specifically excepted by such laws or by laws enacted subsequent to Executive Order No. 8743, Apr. 23, 1941, issued by the President pursuant to act Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positionsinto the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5, Government Organization and Employees. All positions under the Board of Governors, Federal Reserve System are now excepted from the competitive service under Schedule A of the Civil Service Rules.
+Provisions of subsec. (<i>l</i>), which authorized appointment of attorneys, experts, assistants, clerks and other employees without regard to the provisions of the act of January sixteenth, eighteen hundred and eighty-three, and amendments thereto, or any rule or regulation made in pursuance thereof, were omitted as obsolete. Appointments in the executive branch are now subject to the civil service laws unless specifically excepted by such laws or by laws enacted subsequent to Executive Order No. 8743, Apr. 23, 1941, issued by the President pursuant to act Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5, Government Organization and Employees. All positions under the Board of Governors, Federal Reserve System are now excepted from the competitive service under Schedule A of the Civil Service Rules.
 
 Section is comprised of section 11 of act Dec. 23, 1913. The fourteenth par. of section 16 of act Dec. 23, 1913, which formerly constituted subsec. (<i>o</i>) of this section, is now classified to section 248–1 of this title.
 
 #### Amendments
+
+1999—Subsec. (m). Pub. L. 106–102 substituted “\[Repealed\]” for text of subsec. (m) which related to percentage of capital and surplus represented by loans to be determined by the Federal Reserve Board.
 
 1994—Subsec. (d). Pub. L. 103–325, §602(g)(2), substituted “Secretary of the Treasury” for “bureau under the charge of the Comptroller of the Currency” before “the issue and retirement” and for “Comptroller” before “to the Federal Reserve agents”.
 
@@ -166,7 +166,7 @@ For transfer of functions to Secretary of the Treasury, see note set out under s
 
 #### Executive Order No. 6359
 
-Ex. Ord. No. 6359, Oct. 25, 1933, as amended by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, which provided forreceipt on consignment of gold by the United States mints and assay offices, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 6359, Oct. 25, 1933, as amended by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, which provided for receipt on consignment of gold by the United States mints and assay offices, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
 #### Ex. Ord. No. 10547. Inspection of Statistical Transcript Cards
 
@@ -184,7 +184,7 @@ Right to amend, separability of provisions, of act Mar. 9, 1933, see sections 21
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 212, 467, 501, 3105 of this title; title 5 section 5373.
+This section is referred to in sections 212, 501, 3105 of this title; title 5 section 5373.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

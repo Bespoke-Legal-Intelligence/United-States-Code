@@ -12,7 +12,7 @@ Congress hereby consents to the Northeast Interstate Dairy Compact entered into 
 
 #### (3) Duration
 
-&emsp;Consent for the Northeast Interstate Dairy Compact shall terminate concurrent with the Secretary's implementation of the dairy pricing and Federal milk marketing order consolidation and reforms under section 7253 of this title.
+&emsp;Consent for the Northeast Interstate Dairy Compact shall terminate on September 30, 2001.
 
 #### (4) Additional States
 
@@ -30,13 +30,17 @@ Congress hereby consents to the Northeast Interstate Dairy Compact entered into 
 
 &emsp;The Northeast Interstate Dairy Compact Commission shall not prohibit or in any way limit the marketing in the Compact region of any milk or milk product produced in any other production area in the United States. The Compact Commission shall respect and abide by the ongoing procedures between Federal milk marketing orders with respect to the sharing of proceeds from sales within the Compact region of bulk milk, packaged milk, or producer milk originating from outside of the Compact region. The Compact Commission shall not use compensatory payments under section 10(6) of the Compact as a barrier to the entry of milk into the Compact region or for any other purpose. Establishment of a Compact over-order price, in itself, shall not be considered a compensatory payment or a limitation or prohibition on the marketing of milk.
 
-(Pub. L. 104–127, title I, §147, Apr. 4, 1996, 110 Stat. 919.)
+(Pub. L. 104–127, title I, §147, Apr. 4, 1996, 110 Stat. 919; Pub. L. 106–113, div. B, §1000(a)(8) \[§4\], Nov. 29, 1999, 113 Stat. 1536, 1501A–520.)
 
 #### References in Text
 
 Senate Joint Resolution 28 of the 104th Congress, referred to in text, which would have granted consent of the Congress to the Northeast Interstate Dairy Compact, was not enacted into law during the 104th Congress.
 
 Section 608c(5) of this title, referred to in par. (6), was in the original “section 8(c)5 of the Agricultural Adjustment Act (7 U.S.C. 608c), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937,” which was translated as meaning section 8c(5) of the Agricultural Adjustment Act, to reflect the probable intent of Congress.
+
+#### Amendments
+
+1999—Par. (3). Pub. L. 106–113 substituted “on September 30, 2001.” for “concurrent with the Secretary's implementation of the dairy pricing and Federal milk marketing order consolidation and reforms under section 7253 of this title.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

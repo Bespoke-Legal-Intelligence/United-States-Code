@@ -12,7 +12,7 @@ Whenever the Secretary, after reasonable notice and opportunity for hearing to t
 
 #### References in Text
 
-Section 6022 of this title, referred to in text, was amended generally by Pub. L. 103–230, title II, §203, Apr. 6, 1994, 108 Stat. 297, and, as so amended, section 6022(b) does not contain pars. and section 6022 does not contain a subsec. (f).
+Section 6022 of this title, referred to in text, was amended generally by Pub. L. 103–230, title II, §203, Apr.6, 1994, 108 Stat. 297, and, as so amended, section 6022(b) does not contain pars. and section 6022 does not contain a subsec. (f).
 
 #### Prior Provisions
 

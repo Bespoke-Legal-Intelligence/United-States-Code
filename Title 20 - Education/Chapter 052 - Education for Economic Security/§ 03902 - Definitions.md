@@ -32,7 +32,7 @@ For the purpose of this chapter—
 
 Section 2471 of this title, referred to in par. (1), was omitted in the general amendment of chapter 44 (§2301 et seq.) of this title by Pub. L. 105–332, §1(b), Oct. 30, 1998, 112 Stat. 3076.
 
-Section 198 of the Elementary and Secondary Education Act of 1965, referred to in pars. (3), (7), (8), and (12), is section 198 of Pub. L. 89–10, title I, as added by Pub. L. 95–561, title I, §101(a), Nov. 1, 1978, 92 Stat. 2198, which was classified to section 2854 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 140. For definitions, see section 8801 of this title.
+Section 198 of the Elementary and Secondary Education Act of 1965, referred to in pars. (3), (7), (8), and (12), is section 198 of Pub. L. 89–10, title I, as added byPub. L. 95–561, title I, §101(a), Nov. 1, 1978, 92 Stat. 2198, which was classified to section 2854 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 140. For definitions, see section 8801 of this title.
 
 This chapter, referred to in par. (11), was in the original “this title” and has been translated as if the reference was to “this Act” to reflect the probable intent of Congress inasmuch as this section is not part of a title of Pub. L. 98–377.
 

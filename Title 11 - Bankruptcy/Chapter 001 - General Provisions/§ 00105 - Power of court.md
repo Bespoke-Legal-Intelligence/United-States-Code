@@ -66,5 +66,5 @@ Amendment by Pub. L. 98–353 effective July 10, 1984, see section 122(a) of Pub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 106 of this title.
+This section is referred to in section 106 of this title; title 26 section 7433.
 

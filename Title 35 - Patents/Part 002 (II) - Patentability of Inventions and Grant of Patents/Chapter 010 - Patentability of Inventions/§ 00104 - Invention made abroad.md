@@ -22,7 +22,7 @@ Rights.—If an invention was made by a person, civil or military—
 
 &emsp;(3)
 
-Use of information.—To the extent that any information in a NAFTA country or a WTO member country concerning knowledge, use, or other activity relevant to proving or disproving a date of invention has not been made available for use in a proceeding in the Patent and Trademark Office, a court, or any other competent authority to the same extent as such information could be made available in the United States, the Commissioner, court, or such other authority shall draw appropriate inferences, or take other action permitted by statute, rule, or regulation, in favor of the party that requested the information in the proceeding.
+Use of information.—To the extent that any information in a NAFTA country or a WTO member country concerning knowledge, use, or other activity relevant to proving or disproving a date of invention has not been made available for use in a proceeding in the Patent and Trademark Office, a court, or any other competent authority to the same extent as such information could be made available in the United States, the Director, court, or such other authority shall draw appropriate inferences, or take other action permitted by statute, rule, or regulation, in favor of the party that requested the information in the proceeding.
 
 (b)
 
@@ -32,7 +32,7 @@ Definitions.—As used in this section—
 
 &emsp;(2) the term “WTO member country” has the meaning given that term in section 2(10) of the Uruguay Round Agreements Act.
 
-(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, §6, Nov. 14, 1975, 89 Stat. 691; Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 103–182, title III, §331, Dec. 8, 1993, 107 Stat. 2113; Pub. L. 103–465, title V, §531(a), Dec. 8, 1994, 108 Stat. 4982.)
+(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, §6, Nov. 14, 1975, 89 Stat. 691; Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 103–182, title III, §331, Dec. 8, 1993, 107 Stat. 2113; Pub. L. 103–465, title V, §531(a), Dec. 8, 1994, 108 Stat. 4982; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
 
 #### Historical and Revision Notes
 
@@ -48,6 +48,8 @@ Section 2(10) of the Uruguay Round Agreements Act, referred to in subsec. (b)(2)
 
 #### Amendments
 
+1999—Subsec. (a)(3). Pub. L. 106–113 substituted “Director” for “Commissioner”.
+
 1994—Pub. L. 103–465 amended section generally, expanding scope of section to include WTO member countries along with NAFTA countries and defining term “WTO member country”.
 
 1993—Pub. L. 103–182 amended section catchline and text generally. Prior to amendment, text read as follows: “In proceedings in the Patent and Trademark Office and in the courts, an applicant for a patent, or a patentee, may not establish a date of invention by reference to knowledge or use thereof, or other activity with respect thereto, in a foreign country, except as provided in sections 119 and 365 of this title. Where an invention was made by a person, civil or military, while domiciled in the United States and serving in a foreign country in connection with operations by or on behalf of the United States, he shall be entitled to the same rights of priority with respect to such invention as if the same had been made in the United States.”
@@ -57,6 +59,10 @@ Section 2(10) of the Uruguay Round Agreements Act, referred to in subsec. (b)(2)
 1975—Pub. L. 94–131 inserted in exception provision reference to section 365 of this title relating to priority of applications having benefit of filing date of prior applications.
 
 Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -89,4 +95,8 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 Benefit of filing date in foreign country, see section 119 of this title.
 
 Filing application in foreign country, see section 184 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 11, 102, 119 of this title.
 

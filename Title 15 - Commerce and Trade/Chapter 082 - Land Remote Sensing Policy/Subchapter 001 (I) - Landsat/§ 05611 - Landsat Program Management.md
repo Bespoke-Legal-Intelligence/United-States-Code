@@ -16,7 +16,7 @@ The Administrator, the Secretary of Defense, and any other United States Governm
 
 &emsp;&emsp;(B) provides for total funding responsibility of the National Aeronautics and Space Administration and the Department of Defense, respectively, to be approximately equal to the funding responsibility of the other as spread across the development and operational life of Landsat 7;
 
-&emsp;(3) specify that any improvements over the Landsat 6 functional equivalent capability for Landsat 7 will be funded by a specific sponsoring agency or agencies, in a manner agreed to by the Landsat Program Management, if the required funding exceeds the baseline funding profile required by paragraph (2), and that additional improvements will be sought only if the improvements will not jeopardize data continuity; and
+&emsp;(3) specify that any improvements over the Landsat 6 functional equivalent capability forLandsat 7 will be funded by a specific sponsoring agency or agencies, in a manner agreed to by the Landsat Program Management, if the required funding exceeds the baseline funding profile required by paragraph (2), and that additional improvements will be sought only if the improvements will not jeopardize data continuity; and
 
 &emsp;(4) provide for a technology demonstration program whose objective shall be the demonstration of advanced land remote sensing technologies that may potentially yield a system which is less expensive to build and operate, and more responsive to data users, than is the current Landsat system.
 

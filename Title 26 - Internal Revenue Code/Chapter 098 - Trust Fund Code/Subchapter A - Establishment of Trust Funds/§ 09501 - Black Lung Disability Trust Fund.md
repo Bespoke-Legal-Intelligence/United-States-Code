@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is established in the Treasury of the United States a trust fund to be known as the“Black Lung Disability Trust Fund”, consisting of such amounts as may be appropriated or credited to the Black Lung Disability Trust Fund.
+&emsp;There is established in the Treasury of the United States a trust fund to be known as the “Black Lung Disability Trust Fund”, consisting of such amounts as may be appropriated or credited to the Black Lung Disability Trust Fund.
 
 #### (2) Trustees
 
@@ -68,7 +68,7 @@ Amounts in the Black Lung Disability Trust Fund shall be available, as provided 
 
 &emsp;&emsp;(B) incurred by the Department of the Treasury in administering subchapter B of chapter 32 and in carrying out its responsibilities with respect to the Black Lung Disability Trust Fund,
 
-&emsp;(6) the reimbursement of operators for amounts paid by such operators (other than as penalties or interest) before April 1, 1978, in satisfaction (in whole or in part) of claims of miners whose last employment in coal mines was terminated before January 1, 1970, and
+&emsp;(6) the reimbursement of operators for amounts paid by such operators (other than as penalties or interest) before April 1, 1978, in satisfaction (in whole or in part) of claims ofminers whose last employment in coal mines was terminated before January 1, 1970, and
 
 &emsp;(7) the reimbursement of operators and insurers for amounts paid by such operators and insurers (other than amounts paid as penalties, interest, or attorney fees) at any time in satisfaction (in whole or in part) of any claim denied (within the meaning of section 402(i) of the Black Lung Benefits Act) before March 1, 1978, and which is or has been approved in accordance with the provisions of section 435 of the Black Lung Benefits Act.
 

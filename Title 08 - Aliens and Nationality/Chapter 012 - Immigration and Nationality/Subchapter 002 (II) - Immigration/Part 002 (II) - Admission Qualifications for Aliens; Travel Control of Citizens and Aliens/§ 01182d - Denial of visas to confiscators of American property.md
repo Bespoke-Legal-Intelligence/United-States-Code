@@ -18,13 +18,13 @@ Subsection (a) of this section shall not apply to—
 
 #### (c) Reporting requirement
 
-Not later than 6 months after October 21, 1998, and every 12 months thereafter, the Secretary ofState shall submit to the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate a report, including—
+Not later than 6 months after October 21, 1998, and every 12 months thereafter, the Secretary of State shall submit to the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate a report, including—
 
 &emsp;(1) a list of aliens who have been denied a visa under this subsection; and
 
 &emsp;(2) a list of aliens who could have been denied a visa under subsection (a) of this section but were issued a visa and an explanation as to why each such visa was issued.
 
-(Pub. L. 105–277, div. G, title XXII, §2225, Oct. 21, 1998, 112 Stat. 2681–819.)
+(Pub. L. 105–277, div. G, subdiv. B, title XXII, §2225, Oct. 21, 1998, 112 Stat. 2681–819.)
 
 #### Codification
 

@@ -92,6 +92,7 @@
 | (d) | Membership. |
 | (e) | Member qualifications. |
 | (f) | Report to Congress. |
+| 4727a. | Implementation of primary objectives of TPCC. |
 | 4728\. | Environmental trade promotion. |
 | (a) | Statement of policy. |
 | (b) | Environmental Trade Working Group of Trade Promotion Coordination Committee. |

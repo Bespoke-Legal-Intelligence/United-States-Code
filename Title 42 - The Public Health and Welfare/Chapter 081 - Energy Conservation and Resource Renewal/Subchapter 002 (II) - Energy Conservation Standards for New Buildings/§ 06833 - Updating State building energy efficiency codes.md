@@ -20,7 +20,7 @@
 
 (5)(A) Whenever CABO Model Energy Code, 1992,<sup>1</sup> (or any successor of such code) is revised, the Secretary shall, not later than 12 months after such revision, determine whether such revision would improve energy efficiency in residential buildings. The Secretary shall publish notice of such determination in the Federal Register.
 
-(B) If the Secretary makes an affirmative determination under subparagraph (A), each Stateshall, not later than 2 years after the date of the publication of such determination, certify that it has reviewed the provisions of its residential building code regarding energy efficiency and made a determination as to whether it is appropriate for such State to revise such residential building code provisions to meet or exceed the revised code for which the Secretary made such determination.
+(B) If the Secretary makes an affirmative determination under subparagraph (A), each State shall, not later than 2 years after the date of the publication of such determination, certify that it has reviewed the provisions of its residential building code regarding energy efficiency and made a determination as to whether it is appropriate for such State to revise such residential building code provisions to meet or exceed the revised code for which the Secretary made such determination.
 
 (C) Paragraphs (2), (3), and (4) shall apply to any determination made under subparagraph (B).
 

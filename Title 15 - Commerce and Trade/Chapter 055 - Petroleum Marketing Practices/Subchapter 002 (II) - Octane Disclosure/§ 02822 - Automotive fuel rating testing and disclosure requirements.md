@@ -76,7 +76,7 @@ Section 205 of Pub. L. 95–297 provided that:
 
 “(b) Subsections (a)(2), (b), (c), and (e) of section 202 \[subsecs. (a)(2), (b), (c), and (e) of this section\] shall take effect on the first day of the first calendar month beginning more than 9 months after such date of enactment \[June 19, 1978\].
 
-“(c) Rules under section 202(d) \[subsec. (d) of this section\] may not take effect earlier than the beginning of the first motor vehicle model year which begins more than 9 months after such date of enactment \[June 19, 1978\].”
+“(c) Rules under section 202(d) \[subsec. (d) of this section\] may not take effect earlier than the beginning ofthe first motor vehicle model year which begins more than 9 months after such date of enactment \[June 19, 1978\].”
 
 #### Studies
 

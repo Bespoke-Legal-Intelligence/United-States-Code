@@ -38,7 +38,7 @@
 | [3929\.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003929%20-%20Inspector%20General.md) | Inspector General. |
 | (a) | Appointment; supervision by Secretary of State; prohibition against interference by State Department with certain duties; inspections, audits, and other functions; removal from office. |
 | (b) | Subject matter of inspections, investigations, and audits. |
-| (c) | Policies and procedures governing inspection and audit activities; coordination and cooperation with Comptroller General; report to Attorney General on criminal law violations; provision of information to employees. |
+| (c) | Policies and procedures governing inspection and audit activities; coordination and cooperation with Comptroller General; report to Attorney General on criminal law violations; provision of information to employees; conduct of investigations. |
 | (d) | Reports by Inspector General and Secretary of State. |
 | (e) | Applicability of powers and responsibilities under other statutory provisions; assignment of Service employees to Inspector General; participation in formal interviews. |
 | (f) | Reception and investigation of complaints or information; disclosure of identity of informer. |
@@ -66,7 +66,6 @@
 | [3944\.](Subchapter%20003%20%28III%29%20-%20Appointments/%C2%A7%2003944%20-%20Chiefs%20of%20Mission.md) | Chiefs of Mission. |
 | (a) | Qualifications; preference for career members; political contributions as factor in appointment; demonstrated competency report. |
 | (b) | Furnishing of information by Secretary; political campaign contributions report. |
-| (c) | Foreign language competency report. |
 | [3945\.](Subchapter%20003%20%28III%29%20-%20Appointments/%C2%A7%2003945%20-%20Senior%20Foreign%20Service.md) | Senior Foreign Service. |
 | (a) | Salary class. |
 | (b) | Limited appointment. |
@@ -134,6 +133,11 @@
 | (b) | Eligibility to elect monthly compensation as condition to payment. |
 | (c) | Order of payment. |
 | (d) | Definitions. |
+| [3974\.](Subchapter%20004%20%28IV%29%20-%20Compensation/%C2%A7%2003974%20-%20Border%20equalization%20pay%20adjustment.md) | Border equalization pay adjustment. |
+| (a) | In general. |
+| (b) | Employee defined. |
+| (c) | Treatment as basic pay. |
+| (d) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -172,7 +176,7 @@
 | (b) | Public members; appointment of women and minority groups. |
 | (c) | Disqualification for service on foreign service selection boards. |
 | [4003\.](Subchapter%20006%20%28VI%29%20-%20Promotion%20and%20Retention/%C2%A7%2004003%20-%20Recommendations%20and%20rankings.md) | Recommendations and rankings. |
-| [4004\.](Subchapter%20006%20%28VI%29%20-%20Promotion%20and%20Retention/%C2%A7%2004004%20-%20Confidentiality%20of%20records.md) | Confidentiality of records. |
+| [4004\.](Subchapter%20006%20%28VI%29%20-%20Promotion%20and%20Retention/%C2%A7%2004004%20-%20Records.md) | Records. |
 | [4005\.](Subchapter%20006%20%28VI%29%20-%20Promotion%20and%20Retention/%C2%A7%2004005%20-%20Implementation%20of%20selection%20board%20recommendations.md) | Implementation of selection board recommendations. |
 | [4006\.](Subchapter%20006%20%28VI%29%20-%20Promotion%20and%20Retention/%C2%A7%2004006%20-%20Other%20bases%20for%20promoting%20or%20increasing%20pay.md) | Other bases for promoting or increasing pay. |
 | [4007\.](Subchapter%20006%20%28VI%29%20-%20Promotion%20and%20Retention/%C2%A7%2004007%20-%20Retirement%20for%20expiration%20of%20time%20in%20class.md) | Retirement for expiration of time in class. |
@@ -215,6 +219,9 @@
 | (f) | Programs for Members of Congress or the Judiciary. |
 | (g) | Applicability of section 4024 of this title. |
 | [4022\.](Subchapter%20007%20%28VII%29%20-%20Career%20Development%2C%20Training%2C%20and%20Orientation/%C2%A7%2004022%20-%20Foreign%20language%20requirements.md) | Foreign language requirements. |
+| (a) | In general. |
+| (b) | Training. |
+| (c) | Report. |
 | [4023\.](Subchapter%20007%20%28VII%29%20-%20Career%20Development%2C%20Training%2C%20and%20Orientation/%C2%A7%2004023%20-%20Career%20development%20program.md) | Career development program. |
 | (a) | Establishment; primary attention and emphasis. |
 | (b) | Primary direction for Junior Foreign Service officer training and midcareer training. |
@@ -597,6 +604,7 @@
 | (c) | Compensation. |
 | (d) | Removal. |
 | (e) | Administrative services; payment of expenses; assignment as staff employees of Board; performance evaluation reports; records. |
+| (f) | Report. |
 | [4136\.](Subchapter%20011%20%28XI%29%20-%20Grievances/%C2%A7%2004136%20-%20Foreign%20Service%20Grievance%20Board%20procedures.md) | Foreign Service Grievance Board procedures. |
 | [4137\.](Subchapter%20011%20%28XI%29%20-%20Grievances/%C2%A7%2004137%20-%20Foreign%20Service%20Grievance%20Board%20decisions.md) | Foreign Service Grievance Board decisions. |
 | (a) | Record; findings of fact and statement of reasons. |
@@ -702,7 +710,7 @@
 | [4192\.](Subchapter%20014%20%28XIV%29%20-%20Powers%2C%20Duties%20and%20Liabilities%20of%20Consular%20Officers%20Generally/%C2%A7%2004192%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93246%2C%20title%20I%2C%20%C2%A7123%2C%20Feb.%2016%2C%201990%2C%20104%20Stat.%2027.md) | Repealed. |
 | [4193\.](Subchapter%20014%20%28XIV%29%20-%20Powers%2C%20Duties%20and%20Liabilities%20of%20Consular%20Officers%20Generally/%C2%A7%2004193%20-%20Protests.md) | Protests. |
 | [4194\.](Subchapter%20014%20%28XIV%29%20-%20Powers%2C%20Duties%20and%20Liabilities%20of%20Consular%20Officers%20Generally/%C2%A7%2004194%20-%20Lists%20and%20returns%20of%20seamen%20and%20vessels%2C%20etc.md) | Lists and returns of seamen and vessels, etc. |
-| [4195\.](Subchapter%20014%20%28XIV%29%20-%20Powers%2C%20Duties%20and%20Liabilities%20of%20Consular%20Officers%20Generally/%C2%A7%2004195%20-%20Estates%20of%20decedents%20generally%3B%20Department%20of%20State%20as%20conservator.md) | Estates of decedents generally; Department of State as conservator. |
+| [4195\.](Subchapter%20014%20%28XIV%29%20-%20Powers%2C%20Duties%20and%20Liabilities%20of%20Consular%20Officers%20Generally/%C2%A7%2004195%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93113%2C%20div.%20B%2C%20%C2%A71000%28a%29%287%29%20%5Bdiv.%20A%2C%20title%20II%2C%20%C2%A7234%28a%29%5D%2C%20Nov.%2029%2C%201999%2C%20113%20Stat.%201536%2C%201501A%E2%80%93426.md) | Repealed. |
 | [4196\.](Subchapter%20014%20%28XIV%29%20-%20Powers%2C%20Duties%20and%20Liabilities%20of%20Consular%20Officers%20Generally/%C2%A7%2004196%20-%20Notification%20of%20death%20of%20decedent%3B%20transmission%20of%20inventory%20of%20effects.md) | Notification of death of decedent; transmission of inventory of effects. |
 | [4197\.](Subchapter%20014%20%28XIV%29%20-%20Powers%2C%20Duties%20and%20Liabilities%20of%20Consular%20Officers%20Generally/%C2%A7%2004197%20-%20Following%20testamentary%20directions%3B%20assistance%20to%20testamentary%20appointee.md) | Following testamentary directions; assistance to testamentary appointee. |
 | [4198\.](Subchapter%20014%20%28XIV%29%20-%20Powers%2C%20Duties%20and%20Liabilities%20of%20Consular%20Officers%20Generally/%C2%A7%2004198%20-%20Bond%20as%20administrator%20or%20guardian%3B%20action%20on%20bond.md) | Bond as administrator or guardian; action on bond. |
@@ -856,7 +864,7 @@ For authority of Secretary of Commerce to establish a Foreign Commercial Service
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 285a, 290g–l, 290i–2, 1474, 1928, 2021, 2024, 2385, 2391, 2396, 2504, 2506, 2605, 2664a, 2684, 3503, 4823 of this title; title 5 sections 5102, 5721, 5724; title 15 section 4721; title 38 section 707; title 42 section 5055.
+This chapter is referred to in sections 285a, 290g–l, 290i–2, 1474, 1928, 2021, 2024, 2385, 2391, 2396, 2504, 2506, 2514, 2605, 2664a, 2684, 3503, 4823 of this title; title 5 sections 5102, 5721, 5724; title 15 section 4721; title 38 section 707; title 42 section 5055.
 
 
 ---

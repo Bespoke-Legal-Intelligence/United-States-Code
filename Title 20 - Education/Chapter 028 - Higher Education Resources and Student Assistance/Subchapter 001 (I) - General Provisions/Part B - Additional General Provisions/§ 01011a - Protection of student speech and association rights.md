@@ -26,7 +26,7 @@ For the purposes of this section:
 
 #### (2) Protected association
 
-&emsp;The term “protected association” means the joining, assembling, and residing with others that is protected under the first and 14th amendments to the Constitution, or would be protected if the institution of higher education involved were subject to those amendments.
+&emsp;The term “protected association” means the joining, assembling, and residing with othersthat is protected under the first and 14th amendments to the Constitution, or would be protected if the institution of higher education involved were subject to those amendments.
 
 #### (3) Protected speech
 

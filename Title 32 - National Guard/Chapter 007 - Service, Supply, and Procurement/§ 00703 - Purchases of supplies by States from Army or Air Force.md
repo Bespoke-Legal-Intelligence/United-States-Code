@@ -4,7 +4,7 @@
 
 (b) In time of actual or threatened war, the United States may requisition for military use any property bought under subsection (a). Credit for the return in kind of property so requisitioned shall be given to the State or Territory, Puerto Rico, or the District of Columbia from which it is received.
 
-(c) Proceeds of sales by the Department of the Army and the Department of the Air Force under this section shall be credited to the appropriations from which the property was purchased, shall not be covered into the Treasury, and may be used to replace property sold under this section.
+(c) Proceeds of sales by the Department of the Army and the Department of the Air Forceunder this section shall be credited to the appropriations from which the property was purchased, shall not be covered into the Treasury, and may be used to replace property sold under this section.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 613; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059.)
 

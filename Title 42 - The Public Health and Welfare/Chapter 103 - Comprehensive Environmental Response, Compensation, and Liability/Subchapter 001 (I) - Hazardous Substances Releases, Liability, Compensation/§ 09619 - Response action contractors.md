@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (1) Response action contract
 
-&emsp;The term “response action contract” means any written contract or agreement enteredinto by a response action contractor (as defined in paragraph (2)(A) of this subsection) with—
+&emsp;The term “response action contract” means any written contract or agreement entered into by a response action contractor (as defined in paragraph (2)(A) of this subsection) with—
 
 &emsp;&emsp;(A) the President;
 
@@ -132,7 +132,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) person, public or nonprofit private entity, conducting a field demonstration pursuant to section 9660(b) of this title; and
 
-&emsp;&emsp;&emsp;(iii) Recipients <sup>2</sup> of grants (including sub-grantees) under section 9660a <sup>3</sup> of this title for the training and education of workers who are or may be engaged in activities related to hazardous waste removal, containment, or emergency response under this chapter; and <sup>1</sup>
+&emsp;&emsp;&emsp;(iii) Recipients <sup>2</sup> of grants (including sub-grantees) under section 9660a <sup>3</sup> of this title for the training and education of workerswho are or may be engaged in activities related to hazardous waste removal, containment, or emergency response under this chapter; and <sup>1</sup>
 
 &emsp;&emsp;(B) any person who is retained or hired by a person described in subparagraph (A) to provide any services relating to a response action; and
 
@@ -162,7 +162,7 @@ Response action contractors and subcontractors for program management, construct
 
 #### References in Text
 
-The Solid Waste Disposal Act, referred to in subsec. (c)(5)(D), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (c)(5)(D), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 Section 9660a of this title, referred to in subsec. (e)(2)(A)(iii), was in the original “section 126” probably meaning section 126 of Pub. L. 99–499, title I, Oct. 17, 1986, 100 Stat. 1690. Subsecs. (a) to (f) of section 126, which relate to worker protection standards, are set out as a note under section 655 of Title 29, Labor. Subsec. (g) of section 126, which relates grants for training and education of workers who are or may be engaged in activities related to hazardous waste removal, etc., is classified to section 9660a of this title.
 

@@ -28,7 +28,7 @@ An educational opportunity center assisted under this section may provide servic
 
 &emsp;(8) career workshops and counseling;
 
-&emsp;(9) mentoring programs involving elementary or secondary school teachers, faculty members at institutions of higher education, students, or any combination of such persons; and
+&emsp;(9) mentoring programs involving elementary or secondary school teachers, facultymembers at institutions of higher education, students, or any combination of such persons; and
 
 &emsp;(10) programs and activities as described in paragraphs (1) through (9) which are specially designed for students of limited English proficiency.
 

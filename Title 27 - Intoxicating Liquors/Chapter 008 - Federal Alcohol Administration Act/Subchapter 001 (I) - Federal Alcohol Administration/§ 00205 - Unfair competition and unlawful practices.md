@@ -36,15 +36,17 @@ In the case of malt beverages, the provisions of subsections (a), (b), (c), and 
 
 The Secretary of the Treasury shall give reasonable public notice, and afford to interested parties opportunity for hearing, prior to prescribing regulations to carry out the provisions of this section.
 
-(Aug. 29, 1935, ch. 814, title I, §105, formerly §5, 49 Stat. 981; Feb. 29, 1936, ch. 105, §2, 49 Stat. 1152; June 25, 1936, ch. 804, 49 Stat. 1921; June 26, 1936, ch. 830, title V, §§505, 506, 49 Stat. 1965, 1966; 1940 Reorg. Plan No. III, §2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Apr. 20, 1942, ch. 244, §1(h), 56 Stat. 219; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949; renumbered title I, §105, and amended Pub. L. 100–690, title VIII, §8001(a)(1), (2), (b)(2), Nov. 18, 1988, 102 Stat. 4517, 4521.)
+(Aug. 29, 1935, ch. 814, title I, §105, formerly §5, 49 Stat. 981; Feb. 29, 1936, ch. 105, §2, 49 Stat. 1152; June 25, 1936, ch. 804, 49 Stat. 1921; June 26, 1936, ch. 830, title V, §§505, 506, 49 Stat. 1965, 1966; 1940 Reorg. Plan No. III, §2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Apr. 20, 1942, ch. 244, §1(h), 56 Stat. 219; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; renumbered title I, §105, and amended Pub. L. 100–690, title VIII, §8001(a)(1), (2), (b)(2), Nov. 18, 1988, 102 Stat. 4517, 4521; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(13)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584.)
 
 #### Codification
 
-As originally enacted subsec. (e) of this section contained a reference to the Supreme Court of the District of Columbia. Act June 25, 1936, substituted “the district court of the United States for the District of Columbia” for “the Supreme Court of the District of Columbia”, and act June 25, 1948, as amended by act May 24, 1949, substituted “United States District Court for theDistrict of Columbia” for “district court of the United States for the District of Columbia”. However, the words “United States District Court for the District of Columbia” have been deleted entirely as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district”, and section 88 of Title 28 which states that “the District of Columbia constitutes one judicial district”.
+As originally enacted subsec. (e) of this section contained a reference to the Supreme Court of the District of Columbia. Act June 25, 1936, substituted “the district court of the United States for the District of Columbia” for “the Supreme Court of the District of Columbia”, and act June 25, 1948, as amended by act May 24,1949, substituted “United States District Court for the District of Columbia” for “district court of the United States for the District of Columbia”. However, the words “United States District Court for the District of Columbia” have been deleted entirely as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district”, and section 88 of Title 28 which states that “the District of Columbia constitutes one judicial district”.
 
 An amendment to the second proviso of subsec. (e) of this title was contained in act June 26, 1936, ch. 830, title V, §506, 49 Stat. 1965. The amendment was to have taken effect when a majority of the members of the Federal Alcohol Administration authorized to be appointed under section 202b of this title took office. However, the members were never appointed and section 202b of this title was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 649.
 
 #### Amendments
+
+1999—Subsec. (e). Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “United States Patent Office” in first par.
 
 1988—Subsec. (e). Pub. L. 100–690, §8001(b)(2), substituted “the date of the enactment of this title” for “the date of the enactment of this Act”, which had been translated editorially as “August 29, 1935”, thereby requiring no change in text.
 
@@ -54,9 +56,9 @@ An amendment to the second proviso of subsec. (e) of this title was contained in
 
 Subsec. (e). Act June 26, 1936, amended subsec. (e) generally.
 
-#### Change of Name
+#### Effective Date of 1999 Amendment
 
-References to the Patent Office have been changed to the Patent and Trademark Office pursuant to Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Transfer of Functions
 

@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(i) upon receipt of notification of the identification of a nation under paragraph (1)(A); or
 
-&emsp;&emsp;&emsp;(ii) if the consultations with the government of a nation under paragraph (2) are not satisfactorily concluded within ninety days, shall direct the Secretary of the Treasury to prohibit the importation into the United States of fish and fish products and sport fishing equipment (as that term is defined in section 4162 of title 26) from that nation.
+&emsp;&emsp;&emsp;(ii) if the consultations with the government of a nation under paragraph (2) are not satisfactorily concluded within ninety days, shall direct the Secretary of the Treasury to prohibit the importation into the United States of fish and fish productsand sport fishing equipment (as that term is defined in section 4162 of title 26) from that nation.
 
 #### (B) Implementation of prohibition
 

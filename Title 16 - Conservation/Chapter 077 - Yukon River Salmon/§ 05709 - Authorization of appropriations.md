@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated $4,000,000 for each fiscal year for carrying out the purposes and provisions of the Agreement and this chapter including—
 
-&emsp;(1) necessary travel expenses of Panel members, alternate Panel members, United States members of the Joint Technical Committee, and members of the Advisory Committee in accordance with Federal Travel Regulationsand sections 5701, 5702, 5704 through 5708, and 5731 of title 5;
+&emsp;(1) necessary travel expenses of Panel members, alternate Panel members, United States members of the Joint Technical Committee, and members of the Advisory Committee in accordance with Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5;
 
 &emsp;(2) the United States share of the joint expenses of the Panel and the Joint Technical Committee: <i>Provided</i>, That Panel members and alternate Panel members shall not, with respect to commitments concerning the United States share of the joint expenses, be subject to section 262(b) <sup>1</sup> of title 22, insofar as it limits the authority of United States representatives to international organizations with respect to such commitments;
 

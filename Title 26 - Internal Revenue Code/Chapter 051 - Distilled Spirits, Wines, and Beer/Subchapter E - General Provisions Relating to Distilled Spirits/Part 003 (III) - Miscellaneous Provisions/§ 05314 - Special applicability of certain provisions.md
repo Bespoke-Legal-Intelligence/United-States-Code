@@ -4,7 +4,7 @@
 
 #### (1) Applicability
 
-&emsp;The provisions of this subsection shall not apply to the Commonwealth of Puerto Ricounless the Legislative Assembly of the Commonwealth of Puerto Rico expressly consents thereto in the manner prescribed in the constitution of the Commonwealth of Puerto Rico, for the enactment of a law.
+&emsp;The provisions of this subsection shall not apply to the Commonwealth of Puerto Rico unless the Legislative Assembly of the Commonwealth of Puerto Rico expressly consents thereto in the manner prescribed in the constitution of the Commonwealth of Puerto Rico, for the enactment of a law.
 
 #### (2) In general
 

@@ -241,14 +241,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER VII—PROGRAMS FOR HISPANIC-SERVING INSTITUTIONS
+#### SUBCHAPTER VII—PROGRAMS FOR HISPANIC, ALASKA NATIVE, AND NATIVE HAWAIIAN SERVING INSTITUTIONS
 
 |  |  |
 | :--- | ---: |
-| [3241\.](Subchapter%20007%20%28VII%29%20-%20Programs%20for%20Hispanic-Serving%20Institutions/%C2%A7%2003241%20-%20Education%20grants%20programs%20for%20Hispanic-serving%20institutions.md) | Education grants programs for Hispanic-serving institutions. |
+| [3241\.](Subchapter%20007%20%28VII%29%20-%20Programs%20for%20Hispanic%2C%20Alaska%20Native%2C%20and%20Native%20Hawaiian%20Serving%20Institutions/%C2%A7%2003241%20-%20Education%20grants%20programs%20for%20Hispanic-serving%20institutions.md) | Education grants programs for Hispanic-serving institutions. |
 | (a) | Grant authority. |
 | (b) | Use of grant funds. |
 | (c) | Authorization of appropriations. |
+| [3242\.](Subchapter%20007%20%28VII%29%20-%20Programs%20for%20Hispanic%2C%20Alaska%20Native%2C%20and%20Native%20Hawaiian%20Serving%20Institutions/%C2%A7%2003242%20-%20Education%20grants%20to%20Alaska%20Native%20serving%20institutions%20and%20Native%20Hawaiian%20serving%20institutions.md) | Education grants to Alaska Native serving institutions and Native Hawaiian serving institutions. |
+| (a) | Education grants program for Alaska Native serving institutions. |
+| (b) | Education grants program for Native Hawaiian serving institutions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -376,7 +379,7 @@ This chapter is referred to in title 16 sections 1647, 1676.
 - [Subchapter 004 (IV) - National Food and Human Nutrition Research and Extension Program](Subchapter%20004%20%28IV%29%20-%20National%20Food%20and%20Human%20Nutrition%20Research%20and%20Extension%20Program/README.md)
 - [Subchapter 005 (V) - Animal Health and Disease Research](Subchapter%20005%20%28V%29%20-%20Animal%20Health%20and%20Disease%20Research/README.md)
 - [Subchapter 006 (VI) - 1890 Land-Grant College Funding](Subchapter%20006%20%28VI%29%20-%201890%20Land-Grant%20College%20Funding/README.md)
-- [Subchapter 007 (VII) - Programs for Hispanic-Serving Institutions](Subchapter%20007%20%28VII%29%20-%20Programs%20for%20Hispanic-Serving%20Institutions/README.md)
+- [Subchapter 007 (VII) - Programs for Hispanic, Alaska Native, and Native Hawaiian Serving Institutions](Subchapter%20007%20%28VII%29%20-%20Programs%20for%20Hispanic%2C%20Alaska%20Native%2C%20and%20Native%20Hawaiian%20Serving%20Institutions/README.md)
 - [Subchapter 008 (VIII) - International Research, Extension, and Teaching](Subchapter%20008%20%28VIII%29%20-%20International%20Research%2C%20Extension%2C%20and%20Teaching/README.md)
 - [Subchapter 009 (IX) - Studies](Subchapter%20009%20%28IX%29%20-%20Studies/README.md)
 - [Subchapter 010 (X) - Funding and Miscellaneous Provisions](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/README.md)

@@ -30,8 +30,8 @@
 | &nbsp; | 8 | January 1, 2001, to December 31, 2002. |
 | &nbsp; | 7\.5 | After December 31, 2002. |
 | Law enforcement officer, firefighter, member of the Capitol Police, or air traffic controller | 7\.5 7.75 7.9 8 7.5 | January 1, 1987, to December 31, 1998.January 1, 1999, to December 31, 1999.January 1, 2000, to December 31, 2000.January 1, 2001, to December 31, 2002.After December 31, 2002. |
-| Nuclear materials courier | 7 | January 1, 1987 to the day before the date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999. |
-| &nbsp; | 7\.5 | The date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 to December 31, 1998. |
+| Nuclear materials courier | 7 | January 1, 1987 to October 16, 1998. |
+| &nbsp; | 7\.5 | October 17, 1998 to December 31, 1998. |
 | &nbsp; | 7\.75 | January 1, 1999 to December 31, 1999. |
 | &nbsp; | 7\.9 | January 1, 2000 to December 31, 2000. |
 | &nbsp; | 8 | January 1, 2001 to December 31, 2001. |
@@ -91,21 +91,21 @@
 
 (g) A Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, or the survivor of such a Member, may deposit to the credit of the Fund an amount equal to the difference between the amount deducted from the basic pay of the Member during that period of service and the amount that would have been deducted if the rate of basic pay which would otherwise have been in effect during that period had been in effect, plus interest computed under section 8334(e).
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 536; amended Pub. L. 100–238, title I, §104(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 103–82, title III, §371(b)(2), Sept. 21, 1993, 107 Stat. 911; Pub. L. 103–353, §5(d), (e)(2), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–186, title II, §215(14), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(b)(1), Aug. 5, 1997, 111 Stat. 657; Pub. L. 105–61, title V, §516(a)(8), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–261, div. C, title XXXI, §3154(i)(1), Oct. 17, 1998, 112 Stat. 2255.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 536; amended Pub. L. 100–238, title I, §104(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 103–82, title III, §371(b)(2), Sept. 21, 1993, 107 Stat. 911; Pub. L. 103–353, §5(d), (e)(2), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–186, title II, §215(14), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(b)(1), Aug. 5, 1997, 111 Stat. 657; Pub. L. 105–61, title V, §516(a)(8), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–261, div. C, title XXXI, §3154(i)(1), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773.)
 
 #### References in Text
 
 Section 3101(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)(2)(B), is classified to section 3101(a) of Title 26, Internal Revenue Code.
 
-The date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, referred to in the table in subsec. (a)(3), is the date of enactment of Pub. L. 105–261, which was approved Oct. 17, 1998.
-
 The Economic Opportunity Act of 1964, referred to in subsec. (f)(1), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Title VIII of the Act probably means title VIII of Pub. L. 88–452 as added by Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80 Stat. 1472, and generally revised and amended by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452 as added by Pub. L. 90–222, §110, which was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, §603. See sections 4951 et seq. and 5055 of Title 42. For complete classification of this Act to the Code, see Tables.
 
 Parts A, B, and C of title I of the Domestic Volunteer Service Act of 1973, referred to in subsec. (f)(1), are classified to part A (§4951 et seq.), part B (§4971 et seq.), and part C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42.
 
-The Peace Corps Act, referred to in subsec. (f)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, seeShort Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in subsec. (f)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 #### Amendments
+
+1999—Subsec. (a)(3). Pub. L. 106–65, in table for nuclear materials courier, substituted “October 16, 1998” for “the day before the date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999” and “October 17, 1998” for “The date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999”.
 
 1998—Subsec. (a)(3). Pub. L. 105–261 inserted table for nuclear materials courier.
 

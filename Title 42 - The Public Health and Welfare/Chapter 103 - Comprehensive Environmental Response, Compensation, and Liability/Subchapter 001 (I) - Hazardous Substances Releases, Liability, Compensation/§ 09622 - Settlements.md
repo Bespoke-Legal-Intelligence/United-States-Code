@@ -34,7 +34,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 &emsp;&emsp;(A) The liability of any person under section 9606 or 9607 of this title with respect to any costs or damages which are not included in the agreement.
 
-&emsp;&emsp;(B) The authority of the President to maintain an action under this chapteragainst any person who is not a party to the agreement.
+&emsp;&emsp;(B) The authority of the President to maintain an action under this chapter against any person who is not a party to the agreement.
 
 #### (d) Enforcement
 
@@ -148,7 +148,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 &emsp;&emsp;(A) which involves the transport and secure disposition offsite of hazardous substances in a facility meeting the requirements of sections 6924(c), (d), (e), (f), (g), (m), (<i>o</i>), (p), (u), and (v) and 6925(c) of this title, where the President has rejected a proposed remedial action that is consistent with the National Contingency Plan that does not include such offsite disposition and has thereafter required offsite disposition; or
 
-&emsp;&emsp;(B) which involves the treatment of hazardous substances so as to destroy, eliminate, or permanently immobilize the hazardous constituents of such substances, such that, in the judgment of the President, the substances no longer present any current or currently foreseeable future significant risk to public health, welfare or the environment, no byproduct of the treatment or destruction process presents any significant hazard to public health, welfare or the environment, and all byproducts are themselves treated, destroyed, or contained in a manner which assures that such byproducts do not present any current or currently foreseeable future significant risk to public health, welfare or the environment,
+&emsp;&emsp;(B) which involves the treatment of hazardous substances so as to destroy, eliminate, or permanently immobilize the hazardous constituents of such substances, such that, in the judgment of the President, the substances no longer present any current or currently foreseeable future significant risk to public health, welfare or the environment, no byproduct of the treatment or destruction process presents any significant hazard to public health, welfare or the environment, and all byproducts are themselves treated, destroyed, or contained in a manner which assures that such byproducts do not present any current or currently foreseeablefuture significant risk to public health, welfare or the environment,
 
 > &emsp;the President shall provide such person with a covenant not to sue with respect to future liability to the United States under this chapter for a future release or threatened release of hazardous substances from such facility, and a person provided such covenant not to sue shall not be liable to the United States under section 9606 or 9607 of this title with respect to such release or threatened release at a future time.
 
@@ -210,7 +210,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (2) Covenant not to sue
 
-&emsp;The President may provide a covenant not to sue with respect to the facility concerned to any party who has entered into a settlement under this subsection unless such a covenant would be inconsistent with the public interest as determined under subsection (f) of this section.
+&emsp;The President may provide a covenant not to sue with respect to the facility concernedto any party who has entered into a settlement under this subsection unless such a covenant would be inconsistent with the public interest as determined under subsection (f) of this section.
 
 #### (3) Expedited agreement
 
@@ -264,7 +264,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (1) Notification of trustee
 
-&emsp;Where a release or threatened release of any hazardous substance that is the subject of negotiations under this section may have resulted in damages to natural resources under the trusteeship of the United States, the President shall notify the Federal natural resource trustee of the negotiations and shall encourage the participation of such trustee in the negotiations.
+&emsp;Where a release or threatened release of any hazardous substance that is the subject of negotiations under this section may have resulted in damages to natural resources under the trusteeship of the United States, the President shall notify the Federal natural resource trustee of the negotiations and shallencourage the participation of such trustee in the negotiations.
 
 #### (2) Covenant not to sue
 

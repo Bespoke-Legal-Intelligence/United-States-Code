@@ -2,7 +2,7 @@
 
 #### (a) Implementation of requirement
 
-(1) A State plan under this subchapter shall not be considered to meet the requirement ofsection 1396a(a)(13)(A)(iv) of this title (insofar as it requires payments to hospitals to take into account the situation of hospitals which serve a disproportionate number of low income patients with special needs), as of July 1, 1988, unless the State has submitted to the Secretary, by not later than such date, an amendment to such plan that—
+(1) A State plan under this subchapter shall not be considered to meet the requirement of section 1396a(a)(13)(A)(iv) of this title (insofar as it requires payments to hospitals to take into account the situation of hospitals which serve a disproportionate number of low income patients with special needs), as of July 1, 1988, unless the State has submitted to the Secretary, by not later than such date, an amendment to such plan that—
 
 &emsp;(A) specifically defines the hospitals so described (and includes in such definition any disproportionate share hospital described in subsection (b)(1) of this section which meets the requirements of subsection (d) of this section), and
 
@@ -60,7 +60,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 &emsp;&emsp;(A) applies equally to all hospitals of each type; and
 
-&emsp;&emsp;(B) results in an adjustment for each type of hospital that is reasonably related to the costs, volume, or proportion of services provided to patients eligible for medical assistance under a State plan approved under this subchapter or to low-income patients.<sup>2</sup>
+&emsp;&emsp;(B) results in an adjustment for each type of hospital that is reasonably related to the costs, volume, or proportion of services provided to patients eligible for medical assistance under a State plan approved under this subchapter or to low-income patients,
 
 > except that, for purposes of paragraphs (1)(B) and (2)(A) of subsection (a) of this section, the payment adjustment for a disproportionate share hospital is consistent with this subsection if the appropriate increase in the rate or amount of payment is equal to at least one-third of the increase otherwise applicable under this subsection (in the case of such paragraph (1)(B)) and at least two-thirds of such increase (in the case of paragraph (2)(A)). In the case of a hospital described in subsection (d)(2)(A)(i) of this section (relating to children's hospitals), in computing the hospital's disproportionate share adjustment percentage for purposes of paragraph (1)(B) of this subsection, the disproportionate patient percentage (defined in section 1395ww(d)(5)(F)(vi) of this title) shall be computed by substituting for the fraction described in subclause (I) of such section the fraction described in subclause (II) of that section. If a State elects in a State plan amendment under subsection (a) of this section to provide the payment adjustment described in paragraph (2), the State must include in the amendment a detailed description of the specific methodology to be used in determining the specified additional payment amount (or increased percentage payment) to be made to each hospital qualifying for such a payment adjustment and must publish at least annually the name of each hospital qualifying for such a payment adjustment and the amount of such payment adjustment made for each such hospital.
 
@@ -80,7 +80,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 #### (e) Special rule
 
-(1) A State plan shall be considered to meet the requirement of section 1396a(a)(13)(A)(iv) of this title (insofar as it requires payments to hospitals to take into account the situation of hospitals which serve a disproportionate number of low income patients with special needs) without regard to the requirement of subsection (a) of this section if (A)(i) the plan provided for payment adjustments based on a pooling arrangement involving a majority of the hospitals participating under the plan for disproportionate share hospitals as of January 1, 1984, or (ii) the plan as of January 1, 1987, provided for payment adjustments based on a statewide pooling arrangement involving all acute care hospitalsand the arrangement provides for reimbursement of the total amount of uncompensated care provided by each participating hospital, (B) the aggregate amount of the payment adjustments under the plan for such hospitals is not less than the aggregate amount of such adjustments otherwise required to be made under such subsection, and (C) the plan meets the requirement of subsection (d)(3) of this section and such payment adjustments are made consistent with the last sentence of subsection (c) of this section.
+(1) A State plan shall be considered to meet the requirement of section 1396a(a)(13)(A)(iv) of this title (insofar as it requires payments tohospitals to take into account the situation of hospitals which serve a disproportionate number of low income patients with special needs) without regard to the requirement of subsection (a) of this section if (A)(i) the plan provided for payment adjustments based on a pooling arrangement involving a majority of the hospitals participating under the plan for disproportionate share hospitals as of January 1, 1984, or (ii) the plan as of January 1, 1987, provided for payment adjustments based on a statewide pooling arrangement involving all acute care hospitals and the arrangement provides for reimbursement of the total amount of uncompensated care provided by each participating hospital, (B) the aggregate amount of the payment adjustments under the plan for such hospitals is not less than the aggregate amount of such adjustments otherwise required to be made under such subsection, and (C) the plan meets the requirement of subsection (d)(3) of this section and such payment adjustments are made consistent with the last sentence of subsection (c) of this section.
 
 (2) In the case of a State that used a health insuring organization before January 1, 1986, to administer a portion of its plan on a statewide basis, beginning on July 1, 1988—
 
@@ -115,7 +115,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 | &nbsp;Colorado | 93 | 85 | 79 | 74 | 74 |
 | &nbsp;Connecticut | 200 | 194 | 164 | 160 | 160 |
 | &nbsp;Delaware | 4 | 4 | 4 | 4 | 4 |
-| &nbsp;District of Columbia | 23 | 23 | 23 | 23 | 23 |
+| &nbsp;District of Columbia | 23 | 23 | 32 | 32 | 32 |
 | &nbsp;Florida | 207 | 203 | 197 | 188 | 160 |
 | &nbsp;Georgia | 253 | 248 | 241 | 228 | 215 |
 | &nbsp;Hawaii | 0 | 0 | 0 | 0 | 0 |
@@ -130,7 +130,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 | &nbsp;Maryland | 72 | 70 | 68 | 64 | 61 |
 | &nbsp;Massachusetts | 288 | 282 | 273 | 259 | 244 |
 | &nbsp;Michigan | 249 | 244 | 237 | 224 | 212 |
-| &nbsp;Minnesota | 16 | 16 | 16 | 16 | 16 |
+| &nbsp;Minnesota | 16 | 16 | 33 | 33 | 33 |
 | &nbsp;Mississippi | 143 | 141 | 136 | 129 | 122 |
 | &nbsp;Missouri | 436 | 423 | 379 | 379 | 379 |
 | &nbsp;Montana | 0\.2 | 0\.2 | 0\.2 | 0\.2 | 0\.2 |
@@ -138,7 +138,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 | &nbsp;Nevada | 37 | 37 | 37 | 37 | 37 |
 | &nbsp;New Hampshire | 140 | 136 | 130 | 130 | 130 |
 | &nbsp;New Jersey | 600 | 582 | 515 | 515 | 515 |
-| &nbsp;New Mexico | 5 | 5 | 5 | 5 | 5 |
+| &nbsp;New Mexico | 5 | 5 | 9 | 9 | 9 |
 | &nbsp;New York | 1,512 | 1,482 | 1,436 | 1,361 | 1,285 |
 | &nbsp;North Carolina | 278 | 272 | 264 | 250 | 236 |
 | &nbsp;North Dakota | 1 | 1 | 1 | 1 | 1 |
@@ -157,7 +157,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 | &nbsp;Washington | 174 | 171 | 166 | 157 | 148 |
 | &nbsp;West Virginia | 64 | 63 | 61 | 58 | 54 |
 | &nbsp;Wisconsin | 7 | 7 | 7 | 7 | 7 |
-| &nbsp;Wyoming | 0 | 0 | 0 | 0 | 0\. |
+| &nbsp;Wyoming | 0 | 0 | 0\.1 | 0\.1 | 0\.1. |
 
 #### (3) State DSH allotments for fiscal year 2003 and thereafter
 
@@ -183,7 +183,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 #### (A) In general
 
-&emsp;&emsp;A payment adjustment during a fiscal year shall not be considered to be consistent withsubsection (c) of this section with respect to a hospital if the payment adjustment exceeds the costs incurred during the year of furnishing hospital services (as determined by the Secretary and net of payments under this subchapter, other than under this section, and by uninsured patients) by the hospital to individuals who either are eligible for medical assistance under the State plan or have no health insurance (or other source of third party coverage) for services provided during the year. For purposes of the preceding sentence, payments made to a hospital for services provided to indigent patients made by a State or a unit of local government within a State shall not be considered to be a source of third party payment.
+&emsp;&emsp;A payment adjustment during a fiscal year shall not be considered to be consistent with subsection (c) of this section with respect to a hospital if the payment adjustment exceeds the costs incurred during the year of furnishing hospital services (as determined by the Secretary and net of payments under this subchapter, other than under this section, and by uninsured patients) by the hospital to individuals who either are eligible for medical assistance under the State plan or have no health insurance (or other source of third party coverage) for services provided during the year. For purposes of the preceding sentence, payments made to a hospital for services provided to indigent patients made by a State or a unit of local government within a State shall not be considered to be a source of third party payment.
 
 #### (B) Limit to public hospitals during transition period
 
@@ -271,7 +271,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 &emsp;Paragraph (1) shall not apply to a payment adjustment provided pursuant to a payment arrangement in effect on July 1, 1997.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1923, formerly Pub. L. 100–203, title IV, §4112, Dec. 22, 1987, 101 Stat. 1330–148; renumbered §1923 of act Aug. 14, 1935, and amended Pub. L. 100–360, title III, §302(b)(2), title IV, §411(k)(6)(A)–(B)(ix), July 1, 1988, 102 Stat. 752, 792–794; Pub. L. 100–485, title VI, §608(d)(15)(C), (26)(A)–(F), Oct. 13, 1988, 102 Stat. 2417, 2421, 2422; Pub. L. 101–239, title VI, §6411(c)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §§4702(a), 4703(a)–(c), Nov. 5, 1990, 104 Stat. 1388–171; Pub. L. 102–234, §§3(b)(1), (2)(A), (c), Dec. 12, 1991, 105 Stat. 1799, 1802, 1803; Pub. L. 103–66, title XIII, §13621(a)(1), (b)(1), (2), Aug. 10, 1993, 107 Stat. 629–631; Pub. L. 105–33, title IV, §§4711(c)(2), 4721(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 508, 511, 513, 514.)
+(Aug. 14, 1935, ch. 531, title XIX, §1923, formerly Pub. L. 100–203, title IV, §4112, Dec. 22, 1987, 101 Stat. 1330–148; renumbered §1923 of act Aug. 14, 1935, and amended Pub. L. 100–360, title III, §302(b)(2), title IV, §411(k)(6)(A)–(B)(ix), July 1, 1988, 102 Stat. 752, 792–794; Pub. L. 100–485, title VI, §608(d)(15)(C), (26)(A)–(F), Oct. 13, 1988, 102 Stat. 2417, 2421, 2422; Pub. L. 101–239, title VI, §6411(c)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §§4702(a), 4703(a)–(c), Nov. 5, 1990, 104 Stat. 1388–171; Pub. L. 102–234, §§3(b)(1), (2)(A), (c), Dec. 12, 1991, 105 Stat. 1799, 1802, 1803; Pub. L. 103–66, title XIII, §13621(a)(1), (b)(1), (2), Aug. 10, 1993, 107 Stat. 629–631; Pub. L. 105–33, title IV, §§4711(c)(2), 4721(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 508, 511, 513, 514; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§601(a), 608(s)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–394, 1501A–397.)
 
 #### References in Text
 
@@ -286,6 +286,10 @@ Prior to redesignation by Pub. L. 100–360, section 4112 of Pub. L. 100–203, 
 A prior section 1923 of act Aug. 14, 1935, was renumbered section 1928 and is classified to section 1396s of this title.
 
 #### Amendments
+
+1999—Subsec. (c)(3)(B). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(s)\], substituted comma for period at end.
+
+Subsec. (f)(2). Pub. L. 106–113, §1000(a)(6) \[title VI, §601(a)\], under each of the columns for FY 00, FY 01, and FY 02, substituted “32” for “23” in the entry for the District of Columbia, “33” for “16” in the entry for Minnesota, “9” for “5” in the entry for New Mexico, and “0.1” for “0” in the entry for Wyoming.
 
 1997—Subsec. (a)(1). Pub. L. 105–33, §4711(c)(2), substituted “1396a(a)(13)(A)(iv)” for “1396a(a)(13)(A)”.
 
@@ -383,6 +387,12 @@ Subsec. (d)(2)(B). Pub. L. 100–360, §411(k)(6)(B)(vii), made technical amendm
 
 Subsec. (e). Pub. L. 100–360, §411(k)(6)(A)(vii), as amended by Pub. L. 100–485, §608(d)(26)(B), (C), designated existing provisions as par. (1), inserted “based on a pooling arrangement involving a majority of the hospitals participating under the plan” after first reference to “payment adjustments”, added par. (2) and substituted “statewide” for “Statewide” in par. (2).
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §601(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–394, provided that: “The amendments made by subsection (a) \[amending this section\] take effect on October 1, 1999, and applies \[sic\] to expenditures made on or after such date.”
+
+Amendment by section 1000(a)(6) \[title VI, §608(s)\] of Pub. L. 106–113 effective Nov. 29, 1999, see section 1000(a)(6) \[title VI, §608(bb)\] of Pub. L. 106–113, set out as a note under section 1396a of this title.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by section 4711(c)(2) of Pub. L. 105–33 effective Aug. 5, 1997, and applicable to payment for items and services furnished on or after Oct. 1, 1997, see section 4711(d) of Pub. L. 105–33, set out as a note under 1396a of this title.
@@ -451,11 +461,15 @@ Pub. L. 105–78, title VI, §602, Nov. 13, 1997, 111 Stat. 1519.
 
 #### California Transition Rule
 
-Section 4721(e) of Pub. L. 105–33 provided that: “Effective July 1, 1997, section 1923(g)(2)(A) of the Social Security Act (42 U.S.C. 1396r–4(g)(2)(A)) shall be applied to the State of California as though—
+Pub. L. 105–33, title IV, §4721(e), Aug. 5, 1997, 111 Stat. 514, as amended by Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §607(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–396, provided that: “Effective July 1, 1997, section 1923(g)(2) of the Social Security Act (42 U.S.C. 1396r–4(g)(2)) shall be applied to the State of California as though—
 
-&emsp;“(1) ‘(or that begins on or after July 1, 1997, and before July 1, 1999)’ were inserted in such section after ‘January 1, 1995,’; and
+&emsp;“(1) ‘(or that begins on or after July 1, 1997)’ were inserted in subparagraph (A) of such section after ‘January 1, 1995,’;
 
-&emsp;“(2) ‘(or 175 percent in the case of a State fiscal year that begins on or after July 1, 1997, and before July 1, 1999)’ were inserted in such section after ‘200 percent’.”
+&emsp;“(2) ‘(or 175 percent in the case of a State fiscal year that begins on or after July 1, 1997)’ were inserted in subparagraph (A) of such section after ‘200 percent’; and
+
+&emsp;“(3) effective for State fiscal years that begin on or after July 1, 1999, ‘or (b)(1)(B)’ were inserted in section 1923(g)(2)(B)(ii)(I) after ‘(b)(1)(A)’.”
+
+\[Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §607(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–396, provided that: “The amendments made by subsection (a) \[amending section 4721(e) of Pub. L. 105–33, set out above\] shall take effect as if included in the enactment of section 4721(e) of BBA \[the Balanced Budget Act of 1997, Pub. L. 105–33\].”\]
 
 #### Study of DSH Payment Adjustments
 
@@ -463,9 +477,7 @@ Section 3(d) of Pub. L. 102–234 directed Prospective Payment Assessment Commis
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1396a, 1396b, 1396n, 1397ee of this title.
+This section is referred to in sections 1396a, 1396b, 1396d, 1396n, 1397ee of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
-
-<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -32,7 +32,7 @@ The priority placement program established under subsection (b) of this section 
 
 #### (d) Job placement and counseling services
 
-The head of the agency may establish a program to provide job placement and counseling services to eligible employees. A program established under subsection (d) of this section may include, but is not limited to, such services as—
+The head of the agency may establish a program to provide job placement and counselingservices to eligible employees. A program established under subsection (d) of this section may include, but is not limited to, such services as—
 
 &emsp;(1) career and personal counseling;
 

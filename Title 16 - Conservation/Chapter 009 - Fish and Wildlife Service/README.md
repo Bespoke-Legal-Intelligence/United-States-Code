@@ -74,6 +74,8 @@
 | [753b.](%C2%A7%2000753b%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [754\.](%C2%A7%2000754%20-%20Commutation%20of%20rations%20for%20officers%20and%20crews%20of%20vessels%20of%20Service.md) | Commutation of rations for officers and crews of vessels of Service. |
 | [754a.](%C2%A7%2000754a%20-%20Appropriations%20for%20United%20States%20Fish%20and%20Wildlife%20Service%3B%20purchases%20from.md) | Appropriations for United States Fish and Wildlife Service; purchases from. |
+| [754b.](%C2%A7%2000754b%20-%20Funds%20from%20private%20entities%20credited%20to%20Resource%20Management%20account.md) | Funds from private entities credited to Resource Management account. |
+| [754c.](%C2%A7%2000754c%20-%20Work%20under%20reimbursable%20agreements%3B%20recording%20obligations%20and%20crediting%20amounts%20received.md) | Work under reimbursable agreements; recording obligations and crediting amounts received. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -122,3 +124,5 @@ National Fish and Wildlife Foundation, activities relating to gifts of property 
 - [&sect; 00753b - Authorization of appropriations](%C2%A7%2000753b%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00754 - Commutation of rations for officers and crews of vessels of Service](%C2%A7%2000754%20-%20Commutation%20of%20rations%20for%20officers%20and%20crews%20of%20vessels%20of%20Service.md)
 - [&sect; 00754a - Appropriations for United States Fish and Wildlife Service; purchases from](%C2%A7%2000754a%20-%20Appropriations%20for%20United%20States%20Fish%20and%20Wildlife%20Service%3B%20purchases%20from.md)
+- [&sect; 00754b - Funds from private entities credited to Resource Management account](%C2%A7%2000754b%20-%20Funds%20from%20private%20entities%20credited%20to%20Resource%20Management%20account.md)
+- [&sect; 00754c - Work under reimbursable agreements; recording obligations and crediting amounts received](%C2%A7%2000754c%20-%20Work%20under%20reimbursable%20agreements%3B%20recording%20obligations%20and%20crediting%20amounts%20received.md)

@@ -42,13 +42,19 @@ Sept. 7, 1962, Pub. L. 87–650, §§6–8, 76 Stat. 504.
 
 36:1007(a), (b).
 
+&nbsp;
+
 153704(b)
 
 36:1007(c).
 
+&nbsp;
+
 153704(c)
 
 36:1008.
+
+&nbsp;
 
 In subsection (a)(2), the words “several”, “always”, “thereof”, and “the hands of” are omitted as unnecessary.
 

@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [3501\.](%C2%A7%2003501%20-%20Congressional%20statement%20of%20findings%20and%20purpose.md) | Congressional statement of findings and purpose. |
 | [3502\.](%C2%A7%2003502%20-%20Definitions.md) | Definitions. |
-| [3503\.](%C2%A7%2003503%20-%20Establishment%20of%20Coastal%20Barrier%20Resources%20System.md) | Establishment of Coastal Barrier Resources System. |
+| [3503\.](%C2%A7%2003503%20-%20Establishment%20of%20John%20H.%20Chafee%20Coastal%20Barrier%20Resources%20System.md) | Establishment of John H. Chafee Coastal Barrier Resources System. |
 | (a) | Establishment. |
 | (b) | System maps. |
 | (c) | Boundary review and modification. |
@@ -40,7 +40,7 @@ This chapter is referred to in title 42 section 5172.
 
 - [&sect; 03501 - Congressional statement of findings and purpose](%C2%A7%2003501%20-%20Congressional%20statement%20of%20findings%20and%20purpose.md)
 - [&sect; 03502 - Definitions](%C2%A7%2003502%20-%20Definitions.md)
-- [&sect; 03503 - Establishment of Coastal Barrier Resources System](%C2%A7%2003503%20-%20Establishment%20of%20Coastal%20Barrier%20Resources%20System.md)
+- [&sect; 03503 - Establishment of John H. Chafee Coastal Barrier Resources System](%C2%A7%2003503%20-%20Establishment%20of%20John%20H.%20Chafee%20Coastal%20Barrier%20Resources%20System.md)
 - [&sect; 03504 - Limitations on Federal expenditures affecting the System](%C2%A7%2003504%20-%20Limitations%20on%20Federal%20expenditures%20affecting%20the%20System.md)
 - [&sect; 03505 - Exceptions to limitations on expenditures](%C2%A7%2003505%20-%20Exceptions%20to%20limitations%20on%20expenditures.md)
 - [&sect; 03506 - Certification of compliance](%C2%A7%2003506%20-%20Certification%20of%20compliance.md)

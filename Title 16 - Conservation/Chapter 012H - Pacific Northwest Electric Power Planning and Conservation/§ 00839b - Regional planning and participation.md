@@ -24,7 +24,7 @@
 
 &emsp;(B) the plan or any program adopted by such Council under this section is held by a final determination of such a court to be ineffective by reason of subsection (a)(2)(B) of this section,
 
-> the Secretary shall establish the Council pursuant to this subsection as a Federal agency. TheSecretary shall promptly publish a notice thereof in the Federal Register and notify the Governors of each of the States referred to in subsection (a) of this section.
+> the Secretary shall establish the Council pursuant to this subsection as a Federal agency. The Secretary shall promptly publish a notice thereof in the Federal Register and notify the Governors of each of the States referred to in subsection (a) of this section.
 
 (2) As soon as practicable, but not more than thirty days after the publication of the notice referred to in paragraph (1) of this subsection, and thereafter within forty-five days after a vacancy occurs, the governors of the States of Washington, Oregon, Idaho, and Montana may each (under applicable State laws, if any) provide to the Secretary a list of nominations from such State for each of the State's positions to be selected for such Council. The Secretary may extend this time an additional thirty days. The list shall include at least two persons for each such position. The list shall include such information about such nominees as the Secretary may request. The Secretary shall appoint the Council members from each Governor's list of nominations for each State's positions, except that the Secretary may decline to appoint for any reason any of a Governor's nominees for a position and shall so notify the Governor. The Governor may thereafter make successive nominations within forty-five days of receipt of such notice until nominees acceptable to the Secretary are appointed for each position. In the event the Governor of any such State fails to make the required nominations for any State position on such Council within the time specified for such nominations, the Secretary shall select from such State and appoint the Council member or members for such position. The members of the Council shall select from among themselves one member of the Council as Chairman.
 
@@ -34,13 +34,13 @@
 
 (5)(A) At any time beginning one year after the plan referred to in such subsection (d) of this section and the program referred to in such subsection (h) of this section are both finally adopted in accordance with this chapter, the Council established pursuant to this subsection shall be terminated by the Secretary 90 days after the Governors of three of the States referred to in this subsection jointly provide for any reason to the Secretary a written request for such termination. Except as provided in Subparagraph (B), upon such termination all functions and responsibilities of the Council under this chapter shall also terminate.
 
-(B) Upon such termination of the Council, the functions and responsibilities of the Council set forth in subsection (h) of this section shall be transferred to, and continue to be funded and carried out, jointly, by the Administrator, the Secretary of the Interior, and the Administrator of the National Marine Fisheries Service, in the same manner and to the same extent as required by such subsection and in cooperation with the Federal and the region's State fish and wildlife agencies and Indian tribes referred to in subsection (h) of this section and the Secretary shall provide for the transfer to them of all records, books, documents, funds, and personnel of such Council that relate to subsection (h) matters. In order to carry out such functions and responsibilities expeditiously, the Administrator, the Secretary of the Interior, and the Administrator of the National Marine Fisheries Service shall take into consideration any actions of the Council under this subsection, and may review, modify, or confirm such actions without further proceedings. In the event the Council is terminated pursuant to this paragraph, whenever any action of the Administrator requires any approval or other action by the Council, the Administrator may take such action without such approval or action, except that the Administrator may not implement any proposal to acquire a major generating resource or to grant billing credits involving a major generating resource until the expenditure of funds for that purpose is specifically authorized by Act of Congress enacted after such termination.
+(B) Upon such termination of the Council, the functions and responsibilities of the Council set forth in subsection (h) of this section shall be transferred to, and continue to be funded and carried out, jointly, by the Administrator, the Secretary of the Interior, and the Administrator of the National Marine Fisheries Service, in the same manner and to the same extent as required by such subsection and in cooperation with the Federal and the region's State fish and wildlife agencies and Indian tribes referred to in subsection (h) of this section and the Secretary shall provide for the transfer to them of all records, books, documents, funds, and personnel of such Council that relate to subsection (h) matters. In order to carry out such functions and responsibilities expeditiously, the Administrator, the Secretary of the Interior, and the Administrator of the National Marine Fisheries Service shall take into consideration any actions of the Council under this subsection, and may review, modify, or confirm such actions without further proceedings. In the event the Council is terminated pursuant to this paragraph, whenever any action of the Administrator requires any approval or other action by the Council, the Administrator may take suchaction without such approval or action, except that the Administrator may not implement any proposal to acquire a major generating resource or to grant billing credits involving a major generating resource until the expenditure of funds for that purpose is specifically authorized by Act of Congress enacted after such termination.
 
 #### (c) Organization and operation of Council
 
 (1) The provisions of this subsection shall, except as specifically provided in this subsection, apply to the Council established pursuant to either subsection (a) or (b) of this section.
 
-(2) A majority of the members of the Council shall constitute a quorum. Except as otherwise provided specifically in this chapter, all actionsand decisions of the Council shall be by majority vote of the members present and voting. The plan or any part thereof and any amendment thereto shall not be approved unless such plan or amendment receives the votes of—
+(2) A majority of the members of the Council shall constitute a quorum. Except as otherwise provided specifically in this chapter, all actions and decisions of the Council shall be by majority vote of the members present and voting. The plan or any part thereof and any amendment thereto shall not be approved unless such plan or amendment receives the votes of—
 
 &emsp;(A) a majority of the members appointed to the Council, including the vote of at least one member from each State with members on the Council; or
 
@@ -68,11 +68,11 @@
 
 (12) The Council may establish such other voluntary advisory committees as it determines are necessary or appropriate to assist it in carrying out its functions and responsibilities under this chapter.
 
-(13) The Council shall ensure that the membership for any advisory committee established or formed pursuant to this section shall, to the extent feasible, include representatives of, and seek the advice of, the Federal, and the various regional, State, local, and Indian Tribal Governments, consumer groups, and customers.
+(13) The Council shall ensure that the membership for any advisory committee established orformed pursuant to this section shall, to the extent feasible, include representatives of, and seek the advice of, the Federal, and the various regional, State, local, and Indian Tribal Governments, consumer groups, and customers.
 
 #### (d) Regional conservation and electric power plan
 
-(1) Within two years after the Council is established and the members are appointed pursuant to subsection (a) or (b) of this section, the Council shall prepare, adopt, and promptly transmit to the Administrator a regional conservation and electric power plan. The adopted plan, or any portion thereof, may be amended from time to time, and shall be reviewed by the Councilnot less frequently than once every five years. Prior to such adoption, public hearings shall be held in each Council member's State on the plan or substantial, nontechnical amendments to the plan proposed by the Council for adoption. A public hearing shall also be held in any other State of the region on the plan or amendments thereto, if the Council determines that the plan or amendments would likely have a substantial impact on that State in terms of major resources which may be developed in that State and which the Administrator may seek to acquire. Action of the Council under this subsection concerning such hearings shall be subject to section 553 of title 5 and such procedure as the Council shall adopt.
+(1) Within two years after the Council is established and the members are appointed pursuant to subsection (a) or (b) of this section, the Council shall prepare, adopt, and promptly transmit to the Administrator a regional conservation and electric power plan. The adopted plan, or any portion thereof, may be amended from time to time, and shall be reviewed by the Council not less frequently than once every five years. Prior to such adoption, public hearings shall be held in each Council member's State on the plan or substantial, nontechnical amendments to the plan proposed by the Council for adoption. A public hearing shall also be held in any other State of the region on the plan or amendments thereto, if the Council determines that the plan or amendments would likely have a substantial impact on that State in terms of major resources which may be developed in that State and which the Administrator may seek to acquire. Action of the Council under this subsection concerning such hearings shall be subject to section 553 of title 5 and such procedure as the Council shall adopt.
 
 (2) Following adoption of the plan and any amendment thereto, all actions of the Administrator pursuant to section 839d of this title shall be consistent with the plan and any amendment thereto, except as otherwise specifically provided in this chapter.
 
@@ -188,7 +188,7 @@
 
 (B) The Administrator may make expenditures from such fund which shall be included in the annual or supplementary budgets submitted to the Congress pursuant to the Federal Columbia River Transmission System Act \[16 U.S.C. 838 et seq.\]. Any amounts included in such budget for the construction of capital facilities with an estimated life of greater than 15 years and an estimated cost of at least $1,000,000 shall be funded in the same manner and in accordance with the same procedures as major transmission facilities under the Federal Columbia River Transmission System Act.
 
-(C) The amounts expended by the Administrator for each activity pursuant to this subsection shall be allocated as appropriate by the Administrator, in consultation with the Corps of Engineers and the Water and Power Resources Service, among the various hydroelectric projects of the Federal Columbia River Power System. Amounts so allocated shall be allocated to the various project purposes in accordancewith existing accounting procedures for the Federal Columbia River Power System.
+(C) The amounts expended by the Administrator for each activity pursuant to this subsection shall be allocated as appropriate by the Administrator, in consultation with the Corps of Engineers and the Water and Power Resources Service, among the various hydroelectric projects of the Federal Columbia River Power System. Amounts so allocated shall be allocated to the various project purposes in accordance with existing accounting procedures for the Federal Columbia River Power System.
 
 (D)
 
@@ -216,13 +216,9 @@ Responsibilities of the Council.—The Council shall fully consider the recommen
 
 (vii)
 
-Cost Limitation.—The cost of this provision shall not exceed $2,000,000 in 1997 dollars.
+Cost limitation.—The annual cost of this provision shall not exceed $500,000 in 1997 dollars.
 
-(viii)
-
-Expiration.—This paragraph shall expire on September 30, 2000.
-
-(11)(A) The Administrator and other Federal agencies responsible for managing, operating, or regulating Federal or non-Federal hydroelectric facilities located on the Columbia River or its tributaries shall—
+(11)(A) The Administrator and other Federal agencies responsible for managing, operating, orregulating Federal or non-Federal hydroelectric facilities located on the Columbia River or its tributaries shall—
 
 &emsp;(i) exercise such responsibilities consistent with the purposes of this chapter and other applicable laws, to adequately protect, mitigate, and enhance fish and wildlife, including related spawning grounds and habitat, affected by such projects or facilities in a manner that provides equitable treatment for such fish and wildlife with the other purposes for which such system and facilities are managed and operated;
 
@@ -262,11 +258,11 @@ The Council may from time to time review the actions of the Administrator pursua
 
 (2) The Administrator may determine that section 839a(4)(D) of this title shall not apply to any proposed conservation measure or resource if the Administrator finds after receipt of such analysis from the Council that such measure of resource would have any result or effect described in subparagraph (A), (B) or (C) of paragraph (1).
 
-(Pub. L. 96–501, §4, Dec. 5, 1980, 94 Stat. 2700; Pub. L. 103–437, §6(u), Nov. 2, 1994, 108 Stat. 4587; Pub. L. 104–206, title V, §512, Sept. 30, 1996, 110 Stat. 3005.)
+(Pub. L. 96–501, §4, Dec. 5, 1980, 94 Stat. 2700; Pub. L. 103–437, §6(u), Nov. 2, 1994, 108 Stat. 4587; Pub. L. 104–206, title V, §512, Sept. 30, 1996, 110 Stat. 3005; Pub. L. 106–60, title VI, §610, Sept. 29, 1999, 113 Stat. 502.)
 
 #### References in Text
 
-The Ethics in Government Act of 1978, referred to in subsec. (b)(3), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title II of the Ethics in Government Act of 1978 was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 101–194, title II, §201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (b)(3), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title II of the Ethics in Government Act of 1978 was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 101–194, title II, §201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to theCode, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
 The Federal Columbia River Transmission System Act, referred to in subsecs. (c)(10)(A) and (h)(10)(B), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, as amended, which is classified generally to chapter 12G (§838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
 
@@ -274,9 +270,19 @@ The Federal Advisory Committee Act, referred to in subsec. (h)(10)(D)(iii), is P
 
 #### Codification
 
-September 30, 1996, referred to in subsec. (h)(10)(D)(i), (ii), was in the original “the date of this enactment”,which was translated as meaning the date of enactment of Pub. L. 104–206, which enacted subsec. (h)(10)(D), to reflect the probable intent of Congress.
+September 30, 1996, referred to in subsec. (h)(10)(D)(i), (ii), was in the original “the date of this enactment”, which was translated as meaning the date of enactment of Pub. L. 104–206, which enacted subsec. (h)(10)(D), to reflect the probable intent of Congress.
 
 #### Amendments
+
+1999—Subsec. (h)(10)(D)(vii), (viii). Pub. L. 106–60 added cl. (vii) and struck out former cls. (vii) and (viii) which read as follows:
+
+“(vii)
+
+Cost Limitation.—The cost of this provision shall not exceed $2,000,000 in 1997 dollars.
+
+“(viii)
+
+Expiration.—This paragraph shall expire on September 30, 2000.”
 
 1996—Subsec. (h)(10)(D). Pub. L. 104–206, which directed that subpar. (D) be inserted after subsec. (h)(10)(C) of the Northwest Power Planning and Conservation Act, was executed by adding subsec. (h)(10)(D) to this section, which is from the Pacific Northwest Electric Power Planning and Conservation Act, to reflect the probable intent of Congress.
 

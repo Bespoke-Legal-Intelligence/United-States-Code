@@ -36,7 +36,7 @@ Pub. L. 104–63, §1, Dec. 8, 1995, 109 Stat. 687, provided that: “This Act \
 
 #### Short Title of 1990 Amendment
 
-Section 1 of Pub. L. 101–588 provided: “That this Act \[amending this section and sections 2, 3, 15a, and 19 of this title and repealing section 20 of this title\] may be cited as the ‘Antitrust Amendments Act of 1990’.”
+Section 1 of Pub. L. 101–588 provided: “That this Act \[amending this section and sections 2, 3, 15a, and 19 ofthis title and repealing section 20 of this title\] may be cited as the ‘Antitrust Amendments Act of 1990’.”
 
 #### Short Title of 1984 Amendment
 
@@ -148,7 +148,7 @@ Republication.—The term ‘republication’ means any repetition, in whole or 
 
 &emsp;“(7)
 
-Year 2000 internet website.—The term ‘year 2000 Internet website’ means an Internet website or other similar electronically accessible service, clearly designated on the website or service by the personor entity creating or controlling the content of the website or service as an area where year 2000 statements concerning that person or entity are posted or otherwise made accessible to the general public.
+Year 2000 internet website.—The term ‘year 2000 Internet website’ means an Internet website orother similar electronically accessible service, clearly designated on the website or service by the person or entity creating or controlling the content of the website or service as an area where year 2000 statements concerning that person or entity are posted or otherwise made accessible to the general public.
 
 &emsp;“(8)
 
@@ -400,7 +400,7 @@ Duty of care.—This Act shall not be deemed to alter any standard or duty of ca
 
 “(d)
 
-Intellectual Property Rights.—This Act does not affect, abrogate, amend, or alter any right in a patent, copyright, semiconductor mask work, trade secret,trade name, trademark, or service mark, under any Federal or State law.
+Intellectual Property Rights.—This Act does not affect, abrogate, amend, or alter any right in a patent, copyright, semiconductor mask work, trade secret, trade name, trademark, or service mark, under any Federal or State law.
 
 “(e)
 
@@ -596,7 +596,7 @@ Trusts in territories or District of Columbia prohibited, see section 3 of this 
 
 #### Sherman Act Referred to in Other Sections
 
-The Sherman Act \[15 U.S.C. 1 to 7\] is referred to in sections 12, 15c, 15d, 29, 30, 31, 44, 62, 1012, 1013, 3301, 3503 of this title; title 7 section 225; title 10 section 7430; title 12 sections 1828, 1849; title 16 section 2602; title 30 sections 184, 1413; title 40 section 488; title 42 sections 2135, 2297b–11, 5417, 5909, 6202, 8235f, 9102; title 43 sections 970, 1331, 1770; title 45 section 791; title 46 App. section 1702; title 49 section 10706; title 50 App. sections 1941a, 2158.
+The Sherman Act \[15 U.S.C. 1 to 7\] is referred to in sections 12, 15c, 15d, 29, 30, 31, 44, 62, 1012, 1013, 3301, 3503 of this title; title 7 section 225; title 10 section 7430; title 12 sections 1828, 1849; title 16 section 2602; title 30 sections 184, 1413; title 40 section 488; title 42 sections 2135, 5417, 5909, 6202, 8235f, 9102; title 43 sections 970, 1331, 1770; title 45 section 791; title 46 App. section 1702; title 49 section 10706; title 50 App. sections 1941a, 2158.
 
 #### Section Referred to in Other Sections
 

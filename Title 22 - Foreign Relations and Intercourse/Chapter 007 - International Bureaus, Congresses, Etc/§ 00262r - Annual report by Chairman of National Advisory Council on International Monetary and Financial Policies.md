@@ -12,7 +12,7 @@ Each annual report required by subsection (a) of this section shall contain—
 
 &emsp;(2) the reports on each specific issue and topic which is required by any other provision of law to be included in the report of the National Advisory Council on International Monetary and Financial Policies required by section 286b(b)(5) of this title, as in effect immediately before December 19, 1989;
 
-&emsp;(3) a description of each loan or other form of financial assistance approved by any international financial institution during the fiscal year covered by such report, and a discussion of how such loan or financial assistance will benefit the people, particularly the poor people, of the recipient country;
+&emsp;(3) a description of each loan or other form of financial assistance approved by any international financial institution during the fiscal year covered by such report, and a discussionof how such loan or financial assistance will benefit the people, particularly the poor people, of the recipient country;
 
 &emsp;(4) a review of the success achieved through the multilateral development banks in reducing or eliminating import restrictions and unfair export subsidies which—
 
@@ -62,7 +62,7 @@ As used in this title, title XVIII, and title XIX:
 
 #### (d) Testimony required
 
-Upon request of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, the Chairman shall testify before the Committee to support and explain each annual report required by subsection (a) of this section. If the President has delegated to a person or persons other than the Chairman the authority to manage United States participation in the international financial institutions which was vested in the President by section 1(b) ofthe Reorganization Plan No. 4 of 1965, such person or persons shall, upon request of the Committee, accompany the Chairman and testify before the Committee with regard to such report. The Chairman and such other person or persons shall assess, in their testimony, the effectiveness of the international financial institutions, the major issues affecting United States participation, the major developments in the past year, the prospects for the coming year, United States policy goals with respect to the international financial institutions, and any specific issues addressed to them by any member of the Committee.
+Upon request of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, the Chairman shall testify before the Committee to support and explain each annual report required by subsection (a) of this section. If the President has delegated to a person or persons other than the Chairman the authority to manage United States participation in the international financial institutions which was vested in the President by section 1(b) of the Reorganization Plan No. 4 of 1965, such person or persons shall, upon request of the Committee, accompany the Chairman and testify before the Committee with regard to such report. The Chairman and such other person or persons shall assess, in their testimony, the effectiveness of the international financial institutions, the major issues affecting United States participation, the major developments in the past year, the prospects for the coming year, United States policy goals with respect to the international financial institutions, and any specific issues addressed to them by any member of the Committee.
 
 #### (e) Advisory Committee on IMF policy
 
@@ -74,7 +74,7 @@ Upon request of the Committee on Banking, Finance and Urban Affairs of the House
 
 &emsp;The Advisory Committee should consist of members appointed by the Secretary of the Treasury, after appropriate consultations with the relevant organizations. Such members should include representatives from industry, representatives from agriculture, representatives from organized labor, representatives from banking and financial services, and representatives from nongovernmental environmental and human rights organizations.
 
-(Pub. L. 95–118, title XVII, §1701, as added Pub. L. 101–240, title V, §541(a), Dec. 19, 1989, 103 Stat. 2514; amended Pub. L. 101–513, title V, §562(c)(10)(A), Nov. 5, 1990, 104 Stat. 2036; Pub. L. 104–208, div. A, title I, §101(c) \[title VII, §710(a)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–181; Pub. L. 105–277, div. A, §101(d) \[title VI, §610(b)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–228.)
+(Pub. L. 95–118, title XVII, §1701, as added Pub. L. 101–240, title V, §541(a), Dec. 19, 1989, 103 Stat. 2514; amended Pub. L. 101–513, title V, §562(c)(10)(A), Nov. 5, 1990, 104 Stat. 2036; Pub. L. 104–208, div. A, title I, §101(c) \[title VII, §710(a)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–181; Pub. L.105–277, div. A, §101(d) \[title VI, §610(b)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–228.)
 
 #### References in Text
 
@@ -184,7 +184,7 @@ Hearings.—The Commission or, at its direction, any panel or member of the Comm
 
 &emsp;“(2)
 
-Information.—The Commission may secure directly information that the Commission considers necessary to enable the Commission to carry out its responsibilities under this section.
+Information.—The Commission may secure directly information that the Commission considersnecessary to enable the Commission to carry out its responsibilities under this section.
 
 &emsp;“(3)
 
@@ -240,7 +240,7 @@ Pub. L. 105–277, div. A, §101(d) \[title VI, §606\], Oct. 21, 1998, 112 Stat
 
 #### Definitions
 
-Pub. L. 105–277, div. A, §101(d) \[title VI, §607\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–224, provided that: “Forpurposes of sections 601 through 606 of this title \[see Tables for classification\], the term ‘appropriate committees’ means the Committees on Appropriations, Foreign Relations, and Banking, Housing, and Urban Affairs of the Senate and the Committees on Appropriations and Banking and Financial Services of the House of Representatives.”
+Pub. L. 105–277, div. A, §101(d) \[title VI, §607\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–224, provided that: “For purposes of sections 601 through 606 of this title \[see Tables for classification\], the term ‘appropriate committees’ means the Committees on Appropriations, Foreign Relations, and Banking, Housing, and Urban Affairs of the Senate and the Committees on Appropriations and Banking and Financial Services of the House of Representatives.”
 
 #### Section Referred to in Other Sections
 

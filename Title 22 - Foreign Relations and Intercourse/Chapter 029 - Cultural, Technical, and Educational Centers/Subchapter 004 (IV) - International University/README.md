@@ -1,5 +1,7 @@
 ### SUBCHAPTER IV—INTERNATIONAL UNIVERSITY
 
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+
 
 ---
 

@@ -22,7 +22,7 @@
 
 (c) The annuity of a retired employee or Member terminates on the day death or other terminating event provided by this subchapter occurs. The annuity of a survivor terminates on the last day of the month before death or other terminating event occurs.
 
-(d) An individual entitled to annuity from the Fund may decline to accept all or any part of the annuity by a waiver signed and filed with the Office of Personnel Management. The waiver may be revoked in writing at any time. Payment of the annuity waived may not be made for the period during which the waiver was in effect.
+(d) An individual entitled to annuity from the Fund may decline to accept all or any part ofthe annuity by a waiver signed and filed with the Office of Personnel Management. The waiver may be revoked in writing at any time. Payment of the annuity waived may not be made for the period during which the waiver was in effect.
 
 (e) Payment due a minor, or an individual mentally incompetent or under other legal disability, may be made to the person who is constituted guardian or other fiduciary by the law of the State of residence of the claimant or is otherwise legally vested with the care of the claimant or his estate. If a guardian or other fiduciary of the individual under legal disability has not been appointed under the law of the State of residence of the claimant, payment may be made to any person who, in the judgment of the Office, is responsible for the care of the claimant, and the payment bars recovery by any other person.
 
@@ -150,7 +150,7 @@ Section 3 of Pub. L. 103–358 provided that: “The amendments made by this Act
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions and specific applicability provisions, see section 4(a)(1), (5)(D) of Pub. L. 98–615, as amended, set out as a note under section 8341 of this title.
+Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions and specific applicabilityprovisions, see section 4(a)(1), (5)(D) of Pub. L. 98–615, as amended, set out as a note under section 8341 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -186,7 +186,7 @@ Savings Provision.—An annuity payable from the Civil Service Retirement and Di
 
 &emsp;“(1) by reason of the repeal of section 8345(f) of title 5, United States Code; or
 
-&emsp;“(2) if or to the extent that the reduction is to be made for the purpose of eliminating an overpaymentresulting from the manner in which such section 8345(f) has been administered by the Office of Personnel Management.
+&emsp;“(2) if or to the extent that the reduction is to be made for the purpose of eliminating an overpayment resulting from the manner in which such section 8345(f) has been administered by the Office of Personnel Management.
 
 “(c)
 

@@ -38,3 +38,7 @@ This Act, referred to in subsec. (e), means act July 26, 1947, ch. 343, 61 Stat.
 
 A prior section 413, act July 26, 1947, ch. 343, title V, §501, as added Oct. 14, 1980, Pub. L. 96–450, title IV, §407(b)(1), 94 Stat. 1981, related to Congressional oversight of intelligence activities, prior to repeal by Pub. L. 102–88, §602(a)(2).
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 10 section 2723; title 42 section 7383d.
+

@@ -6,7 +6,7 @@ The Secretary of Commerce is authorized to provide assistance to eligible entiti
 
 #### (b) Activities eligible for assistance
 
-Activities eligible for assistance under this section include, but are not limited to, conduct of market surveys, development of promotional materials, financing of trade missions, participation in international trade fairs, direct marketing, and other market development activities.
+Activities eligible for assistance under this section include, but are not limited to, conductof market surveys, development of promotional materials, financing of trade missions, participation in international trade fairs, direct marketing, and other market development activities.
 
 #### (c) Administration of assistance
 

@@ -1,6 +1,6 @@
 ### §434. Transfer of functions, appropriations, records and property to Secretary of Agriculture
 
-(a) All the functions of the Secretary of the Interior and the Fish and Wildlife Service of theDepartment of the Interior, which affect the breeding, raising, producing, marketing, or any other phase of the production or distribution, of domestically raised fur-bearing animals, or products thereof, are transferred to and vested in the Secretary of Agriculture.
+(a) All the functions of the Secretary of the Interior and the Fish and Wildlife Service of the Department of the Interior, which affect the breeding, raising, producing, marketing, or any other phase of the production or distribution, of domestically raised fur-bearing animals, or products thereof, are transferred to and vested in the Secretary of Agriculture.
 
 (b) Appropriations and unexpended balances of appropriations, or parts thereof, which the Director of the Office of Management and Budget determines to be available for expenditure for the administration of any function transferred by this section and section 433 of this title, shall be available for expenditure for the continued administration of such function by the officer to whom such function is so transferred.
 

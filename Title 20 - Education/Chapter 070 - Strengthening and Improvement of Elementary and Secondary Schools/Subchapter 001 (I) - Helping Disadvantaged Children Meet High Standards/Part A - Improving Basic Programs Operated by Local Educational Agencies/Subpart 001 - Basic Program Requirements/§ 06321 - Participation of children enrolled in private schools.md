@@ -104,5 +104,5 @@ If a local educational agency is prohibited by law from providing for the partic
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5890, 6302, 6303, 6312, 6394, 7545 of this title.
+This section is referred to in sections 6302, 6303, 6312, 6394, 7545 of this title.
 

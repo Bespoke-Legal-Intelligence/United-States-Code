@@ -50,3 +50,27 @@ In subsection (b), before clause (1), the words “In carrying out this section�
 
 In subsection (c), the words “considers relevant” are substituted for “as he deems pertinent” as more precise. The words “from time to time” before “disseminate” and “in the form of reports or . . . to public or private agencies or organizations, or individuals” before “such information” are omitted as unnecessary.
 
+#### Conflicts of Interest
+
+Pub. L. 106–159, title I, §101(g), Dec. 9, 1999, 113 Stat. 1752, provided that:
+
+“(1)
+
+Compliance with regulation.—In awarding any contract for research, the Secretary shall comply with section 1252.209–70 of title 48, Code of Federal Regulations, as in effect on the date of the enactment of this section \[Dec. 9, 1999\]. The Secretary shall require that the text of such section be included in any request for proposal and contract for research made by the Secretary.
+
+“(2)
+
+Study.—
+
+&emsp;“(A)
+
+In general.—The Secretary shall conduct a study to determine whether or not compliance with the section referred to in paragraph (1) is sufficient to avoid conflicts of interest in contracts for research awarded by the Secretary and to evaluate whether or not compliance with such section unreasonably delays or burdens the awarding of such contracts.
+
+&emsp;“(B)
+
+Consultation.—In conducting the study under this paragraph, the Secretary shall consult, as appropriate, with the Inspector General of the Departmentof Transportation, the Comptroller General, the heads of other Federal agencies, research organizations, industry representatives, employee organizations, safety organizations, and other entities.
+
+&emsp;“(C)
+
+Report.—Not later than 18 months after the date of the enactment of this Act \[Dec. 9, 1999\], the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the results of the study conducted under this paragraph.”
+

@@ -50,7 +50,7 @@ For purposes of the stock ownership requirement provided in section 552(a)(2)—
 
 &emsp;(1) stock owned by a nonresident alien individual (other than a foreign trust or foreign estate) shall not be considered by reason of so much of subsection (a)(2) as relates to attribution through family membership as owned by a citizen or by a resident alien individual who is not the spouse of the nonresident individual and who does not otherwise own stock in such corporation (determined after the application of subsection (a), other than attribution through family membership), and
 
-&emsp;(2) stock of a corporation owned by any foreign person shall not be considered by reason of so much of subsection (a)(2) as relates to attribution through partners as owned by a citizen or resident of the United States who does not otherwise own stock in such corporation (determined after application of subsection (a) and paragraph (1), other than attribution through partners).
+&emsp;(2) stock of a corporation owned by any foreign person shall not be considered by reasonof so much of subsection (a)(2) as relates to attribution through partners as owned by a citizen or resident of the United States who does not otherwise own stock in such corporation (determined after application of subsection (a) and paragraph (1), other than attribution through partners).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 196; Pub. L. 88–272, title II, §225(e), Feb. 26, 1964, 78 Stat. 86; Pub. L. 98–369, div. A, title I, §132(a), July 18, 1984, 98 Stat. 665.)
 

@@ -14,7 +14,7 @@ To the extent that the right to use the registered mark has become incontestable
 
 &emsp;(3) That the registered mark is being used by or with the permission of the registrant or a person in privity with the registrant, so as to misrepresent the source of the goods or services on or in connection with which the mark is used; or
 
-&emsp;(4) That the use of the name, term, or device charged to be an infringement is a use, otherwise than as a mark, of the party's individual name in his own business, or of the individual name of anyone in privity with such party, or of a term or device which is descriptive of andused fairly and in good faith only to describe the goods or services of such party, or their geographic origin; or
+&emsp;(4) That the use of the name, term, or device charged to be an infringement is a use, otherwise than as a mark, of the party's individual name in his own business, or of the individual name of anyone in privity with such party, or of a term or device which is descriptive of and used fairly and in good faith only to describe the goods or services of such party, or their geographic origin; or
 
 &emsp;(5) That the mark whose use by a party is charged as an infringement was adopted without knowledge of the registrant's prior use and has been continuously used by such party or those in privity with him from a date prior to (A) the date of constructive use of the mark established pursuant to section 1057(c) of this title, (B) the registration of the mark under this chapter if the application for registration is filed before the effective date of the Trademark Law Revision Act of 1988, or (C) publication of the registered mark under subsection (c) of section 1062 of this title: <i>Provided, however</i>, That this defense or defect shall apply only for the area in which such continuous prior use is proved; or
 
@@ -26,7 +26,7 @@ To the extent that the right to use the registered mark has become incontestable
 
 &emsp;(9) That equitable principles, including laches, estoppel, and acquiescence, are applicable.
 
-(July 5, 1946, ch. 540, title VI, §33, 60 Stat. 438; Pub. L. 87–772, §18, Oct. 9, 1962, 76 Stat. 774; Pub. L. 100–667, title I, §128(a), (b), Nov. 16, 1988, 102 Stat. 3944; Pub. L. 105–330, title II, §201(a)(9), Oct. 30, 1998, 112 Stat. 3070.)
+(July 5, 1946, ch. 540, title VI, §33, 60 Stat. 438; Pub. L. 87–772, §18, Oct. 9, 1962, 76 Stat. 774; Pub. L. 100–667, title I, §128(a), (b), Nov. 16, 1988, 102Stat. 3944; Pub. L. 105–330, title II, §201(a)(9), Oct. 30, 1998, 112 Stat. 3070.)
 
 #### References in Text
 

@@ -50,13 +50,13 @@ The Administrator shall, with the approval of the Council, appoint such personne
 
 #### (f) Expenses of Council members; reimbursement
 
-Members appointed under subsection (a)(2) of this section shall serve without compensation.Members of the Council shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in carrying out the duties of the Council.
+Members appointed under subsection (a)(2) of this section shall serve without compensation. Members of the Council shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in carrying out the duties of the Council.
 
 #### (g) Authorization of appropriations
 
 Of sums available to carry out this part, not more than $200,000 shall be available to carry out this section.
 
-(Pub. L. 93–415, title II, §206, Sept. 7, 1974, 88 Stat. 1116; Pub. L. 94–237, §4(c)(5)(D), Mar. 19, 1976, 90 Stat. 244; Pub. L. 95–115, §3(a)(3)(A), (5), (d), Oct. 3, 1977, 91 Stat. 1048–1050; Pub. L. 96–509, §§8, 19(f), Dec. 8, 1980, 94 Stat. 2753, 2763; Pub. L. 98–473, title II, §623, Oct. 12, 1984, 98 Stat. 2110; Pub. L. 100–690, title VII, §§7251(b), 7252(b)(2), 7254, Nov. 18, 1988, 102 Stat. 4435–4437; Pub. L. 102–586, §2(d), Nov. 4, 1992, 106 Stat. 4985; Pub. L. 103–82, title IV, §405(k), Sept. 21, 1993, 107 Stat. 922.)
+(Pub. L. 93–415, title II, §206, Sept. 7, 1974, 88 Stat. 1116; Pub. L. 94–237, §4(c)(5)(D), Mar. 19, 1976, 90 Stat. 244; Pub. L. 95–115, §3(a)(3)(A), (5), (d), Oct. 3, 1977, 91 Stat. 1048–1050; Pub. L. 96–509, §§8, 19(f), Dec. 8, 1980, 94 Stat. 2753, 2763; Pub. L.98–473, title II, §623, Oct. 12, 1984, 98 Stat. 2110; Pub. L. 100–690, title VII, §§7251(b), 7252(b)(2), 7254, Nov. 18, 1988, 102 Stat. 4435–4437; Pub. L. 102–586, §2(d), Nov. 4, 1992, 106 Stat. 4985; Pub. L. 103–82, title IV, §405(k), Sept. 21, 1993, 107 Stat. 922.)
 
 #### Amendments
 

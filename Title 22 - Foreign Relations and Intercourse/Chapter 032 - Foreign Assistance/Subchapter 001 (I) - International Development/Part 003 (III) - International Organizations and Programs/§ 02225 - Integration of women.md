@@ -12,7 +12,5 @@ The President is requested to instruct each representative of the United States 
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of State, with certain exceptions, by section 1–201(a)(1) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as a note under section 2381 of this title.
-
-Functions of President under this section, insofar as it relates to certain financial institutions, delegated to Secretary of the Treasury to be exercised in consultation with Director of United States International Development Cooperation Agency by section 1–501(a)(1), (c) of Ex. Ord. No. 12163. United States International Development Cooperation Agency (other than Agency for International Development and Overseas Private Investment Corporation) abolished and functions and authorities transferred, see sections 6561 and 6562 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

@@ -58,7 +58,7 @@ Any utilization and quality control peer review organization entering into a con
 
 &emsp;&emsp;(ii) the contract must meet the requirement of section 1320c–2(b)(3) of this title, and
 
-&emsp;&emsp;(iii) the level of effort expended under the contract shall be, to the extent practicable,not less than the level of effort that would otherwise be required under the third sentence of subparagraph (B) if this subparagraph did not apply.
+&emsp;&emsp;(iii) the level of effort expended under the contract shall be, to the extent practicable, not less than the level of effort that would otherwise be required under the third sentence of subparagraph (B) if this subparagraph did not apply.
 
 &emsp;(5) The organization shall consult with nurses and other professional health care practitioners (other than physicians described in section 1395x(r)(1) of this title) and with representatives of institutional and noninstitutional providers of health care services, with respect to the organization's responsibility for the review under paragraph (1) of the professional activities of such practitioners and providers.
 
@@ -148,7 +148,7 @@ Each contract under this part shall require that the utilization and quality con
 
 &emsp;(B) the attending physician has not agreed with the hospital's determination,
 
-> the hospital may request the appropriate peer review organization to review under subsection (a) of this section the validity of the hospital'sdetermination. If the hospital requests such a review, it shall also notify the patient that the review has been requested.
+> the hospital may request the appropriate peer review organization to review under subsection (a) of this section the validity of the hospital's determination. If the hospital requests such a review, it shall also notify the patient that the review has been requested.
 
 (3)(A) If a patient (or a patient's representative)—
 
@@ -344,7 +344,7 @@ Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 201(c) of Pub
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Section 203(g) of Pub. L. 100–360, which had provided that the amendments made by section 203 of Pub. L. 100–360 (amending this section and sections 1395h, 1395k to 1395n, 1395w–2, 1395x, 1395z, and 1395aa of this title) were to apply to items and services furnished on orafter January 1, 1990, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
+Section 203(g) of Pub. L. 100–360, which had provided that the amendments made by section 203 of Pub. L. 100–360 (amending this section and sections 1395h, 1395kto 1395n, 1395w–2, 1395x, 1395z, and 1395aa of this title) were to apply to items and services furnished on or after January 1, 1990, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(e)(3), (j)(2), (3), (4)(C) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
@@ -406,7 +406,7 @@ Section 9353(a)(4) of Pub. L. 99–509 provided that: “The Secretary of Health
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1320c–1, 1320c–2, 1320c–4, 1320c–7, 1320c–9, 1395u, 1395w–22, 1395cc, 1395mm, 1396b, 1396r–2 of this title.
+This section is referred to in sections 1320c–1, 1320c–2, 1320c–4, 1320c–7, 1320c–9, 1395u, 1395w–22, 1395cc, 1395mm, 1396r–2 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -14,7 +14,7 @@ Acts Feb. 20, 1905, ch. 592, §28, 33 Stat. 730; Mar. 19, 1920, ch. 104, §§5, 
 
 1975—Pub. L. 93–596 substituted “Patent and Trademark Office, may give notice that his mark is registered by displaying with the mark as used the words ‘Registered in U.S. Patent and Trademark Office’ or ‘Reg. U.S. Pat. \& Tm. Off.’ ” for “Patent Office, may give notice that his mark is registered by displaying with the mark as used the words ‘Registered in U.S. Patent Office’ or ‘Reg. U.S. Pat. Off.’ ”.
 
-1962—Pub. L. 87–772 substituted “in the Patent Office, may” for “under the Act of March 3, 1881, or the Act ofFebruary 20, 1905, or on the principal register established by this chapter, shall”, and “to give such notice of registration,” for “so to mark goods bearing the registered mark, or by a registrant under the Act of March 19, 1920, or by the registrant of a mark on the supplemental register provided by this chapter”.
+1962—Pub. L. 87–772 substituted “in the Patent Office, may” for “under the Act of March 3, 1881, or the Act of February 20, 1905, or on the principal register established by this chapter, shall”, and “to give such notice of registration,” for “so to mark goods bearing the registered mark, or by a registrant under the Act of March 19, 1920, or by the registrant of a mark on the supplemental register provided by this chapter”.
 
 #### Effective Date of 1988 Amendment
 

@@ -22,7 +22,7 @@ The following items shall not be included in gross income of a nonresident alien
 
 #### (3) Compensation of participants in certain exchange or training programs
 
-&emsp;Compensation paid by a foreign employer to a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended. For purposes of this paragraph, the term “foreign employer” means—
+&emsp;Compensation paid by a foreign employer to a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended. Forpurposes of this paragraph, the term “foreign employer” means—
 
 &emsp;&emsp;(A) a nonresident alien individual, foreign partnership, or foreign corporation, or
 
@@ -44,7 +44,7 @@ The following items shall not be included in gross income of a nonresident alien
 
 &emsp;To the extent provided in regulations, a possession of the United States shall be treated as a foreign country for purposes of this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 280; Pub. L. 87–256, §110(c), Sept. 21, 1961, 75 Stat. 536; Pub. L. 89–809, title I, §103(b), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 99–514, title XII, §1212(c)(1), (2), Oct. 22, 1986, 100 Stat. 2538; Pub. L. 100–647, title I, §1012(e)(2)(B), (5), (s)(2)(A), Nov. 10, 1988, 102Stat. 3500, 3527; Pub. L. 101–239, title VII, §7811(i)(8)(C), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 103–296, title III, §320(a)(2), Aug. 15, 1994, 108 Stat. 1535.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 280; Pub. L. 87–256, §110(c), Sept. 21, 1961, 75 Stat. 536; Pub. L. 89–809, title I, §103(b), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 99–514, title XII, §1212(c)(1), (2), Oct. 22, 1986, 100 Stat. 2538; Pub. L. 100–647, title I, §1012(e)(2)(B), (5), (s)(2)(A), Nov. 10, 1988, 102 Stat. 3500, 3527; Pub. L. 101–239, title VII, §7811(i)(8)(C), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 103–296, title III, §320(a)(2), Aug. 15, 1994, 108 Stat. 1535.)
 
 #### References in Text
 
@@ -104,7 +104,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For nonapplication of amendment by section 1212(c)(1), (2) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For nonapplication of amendment by section 1212(c)(1), (2) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) ofPub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Section Referred to in Other Sections
 

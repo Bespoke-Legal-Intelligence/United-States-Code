@@ -22,11 +22,11 @@ The Secretary shall—
 
 &emsp;(3) provide, whenever possible, for the consolidation of periodic reports required under programs referred to in paragraph (1) into one summary report submitted at such intervals as may be designated by the Secretary.
 
-(Pub. L. 89–174, §3, Sept. 9, 1965, 79 Stat. 667; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub.L. 100–242, title VII, §705, Feb. 5, 1988, 101 Stat. 1963.)
+(Pub. L. 89–174, §3, Sept. 9, 1965, 79 Stat. 667; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 100–242, title VII, §705, Feb. 5, 1988, 101 Stat. 1963.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 89–174, Sept. 9, 1965, 79 Stat. 667, as amended, known as the Department of Housing and Urban Development Act, which enacted this chapter, amended section 1451 of this title, sections 1 and 2211 of former Title 5, Executive Departments and Government Officers and Employees, section 19 of Title 3, The President, and section 1723 of Title 12, Banks and Banking, and enacted provisions set out as notes under section 3531 of this title. Section 1 of former Title 5 was repealed and reenacted as section 101 of Title 5, Government Organization and Employees, and section 2211 of former Title 5 was repealed and reenacted as sections 5312 to 5317 of Title 5 by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378. For complete classification of this Act to the Code, see Short Title note set out under section 3531 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 89–174, Sept. 9, 1965, 79 Stat. 667, as amended, known as the Department of Housing and Urban Development Act, which enacted this chapter, amended section 1451 of this title,sections 1 and 2211 of former Title 5, Executive Departments and Government Officers and Employees, section 19 of Title 3, The President, and section 1723 of Title 12, Banks and Banking, and enacted provisions set out as notes under section 3531 of this title. Section 1 of former Title 5 was repealed and reenacted as section 101 of Title 5, Government Organization and Employees, and section 2211 of former Title 5 was repealed and reenacted as sections 5312 to 5317 of Title 5 by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378. For complete classification of this Act to the Code, see Short Title note set out under section 3531 of this title and Tables.
 
 #### Codification
 

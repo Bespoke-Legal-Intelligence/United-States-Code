@@ -1,5 +1,5 @@
 
-9 U.S.C.<br>United States Code, 1998 Edition<br>Title 9 - ARBITRATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+9 U.S.C.<br>United States Code, 1999 Edition<br>Title 9 - ARBITRATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 9—ARBITRATION
 
@@ -137,7 +137,7 @@ Convention on the Settlement of Investment Disputes, nonapplication of title to 
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 22 sections 290k–11, 1650a; title 25 section 416a; title 28 section 651; title 29 section 1401; title 35 sections 135, 294.
+This title is referred to in title 17 section 1321; title 22 sections 290k–11, 1650a; title 25 section 416a; title 28 section 651; title 29 section 1401; title 35 sections 135, 294.
 
 
 ---

@@ -38,7 +38,7 @@ For purposes of this part—
 
 #### (4) Waiting period
 
-&emsp;The term “waiting period” means, with respect to a group health plan and an individual who is a potential participant or beneficiary in the plan, the period that must pass with respect to the individual before the individual iseligible to be covered for benefits under the terms of the plan.
+&emsp;The term “waiting period” means, with respect to a group health plan and an individual who is a potential participant or beneficiary in the plan, the period that must pass with respect to the individual before the individual is eligible to be covered for benefits under the terms of the plan.
 
 #### (c) Rules relating to crediting previous coverage
 
@@ -132,7 +132,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;A group health plan, and a health insurance issuer offering group health insurance coverage, shall provide the certification described in subparagraph (B)—
+&emsp;&emsp;A group health plan, and a health insurance issuer offering group health insurancecoverage, shall provide the certification described in subparagraph (B)—
 
 &emsp;&emsp;&emsp;(i) at the time an individual ceases to be covered under the plan or otherwise becomes covered under a COBRA continuation provision,
 
@@ -192,7 +192,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(i) a group health plan makes coverage available with respect to a dependent of an individual,
 
-&emsp;&emsp;&emsp;(ii) the individual is a participant under the plan (or has met any waiting periodapplicable to becoming a participant under the plan and is eligible to be enrolled under the plan but for a failure to enroll during a previous enrollment period), and
+&emsp;&emsp;&emsp;(ii) the individual is a participant under the plan (or has met any waiting period applicable to becoming a participant under the plan and is eligible to be enrolled under the plan but for a failure to enroll during a previous enrollment period), and
 
 &emsp;&emsp;&emsp;(iii) a person becomes such a dependent of the individual through marriage, birth, or adoption or placement for adoption,
 

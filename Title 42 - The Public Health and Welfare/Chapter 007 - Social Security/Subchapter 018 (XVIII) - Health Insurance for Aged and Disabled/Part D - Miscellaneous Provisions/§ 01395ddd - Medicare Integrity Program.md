@@ -60,7 +60,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### References in Text
 
-Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (d)(2)(B), is section 202(b) of Pub. L. 104–191, which amended sections 1395h and 1395u of this title.
+Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec.\(d)(2)(B), is section 202(b) of Pub. L. 104–191, which amended sections 1395h and 1395u of this title.
 
 #### Section Referred to in Other Sections
 

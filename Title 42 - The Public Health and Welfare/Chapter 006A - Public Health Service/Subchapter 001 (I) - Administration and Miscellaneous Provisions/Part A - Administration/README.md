@@ -31,7 +31,7 @@ Part A—Administration
 - [&sect; 00212b - Repealed. Apr. 27, 1956, ch. 211, &sect;5(d), 70 Stat. 117](%C2%A7%2000212b%20-%20Repealed.%20Apr.%2027%2C%201956%2C%20ch.%20211%2C%20%C2%A75%28d%29%2C%2070%20Stat.%20117.md)
 - [&sect; 00213 - Military benefits](%C2%A7%2000213%20-%20Military%20benefits.md)
 - [&sect; 00213a - Rights, benefits, privileges, and immunities for commissioned officers or beneficiaries; exercise of authority by Secretary or designee](%C2%A7%2000213a%20-%20Rights%2C%20benefits%2C%20privileges%2C%20and%20immunities%20for%20commissioned%20officers%20or%20beneficiaries%3B%20exercise%20of%20authority%20by%20Secretary%20or%20designee.md)
-- [&sect; 00214 - Repealed. Pub. L. 87&#8211;649, &sect;14b, Sept. 7, 1962, 76 Stat. 499](%C2%A7%2000214%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93649%2C%20%C2%A714b%2C%20Sept.%207%2C%201962%2C%2076%20Stat.%20499.md)
+- [&sect; 00214 - Presentation of United States flag upon retirement](%C2%A7%2000214%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md)
 - [&sect; 00214a - Repealed. Sept. 1, 1954, ch. 1211, &sect;5, 68 Stat. 1130](%C2%A7%2000214a%20-%20Repealed.%20Sept.%201%2C%201954%2C%20ch.%201211%2C%20%C2%A75%2C%2068%20Stat.%201130.md)
 - [&sect; 00215 - Detail of Service personnel](%C2%A7%2000215%20-%20Detail%20of%20Service%20personnel.md)
 - [&sect; 00216 - Regulations](%C2%A7%2000216%20-%20Regulations.md)

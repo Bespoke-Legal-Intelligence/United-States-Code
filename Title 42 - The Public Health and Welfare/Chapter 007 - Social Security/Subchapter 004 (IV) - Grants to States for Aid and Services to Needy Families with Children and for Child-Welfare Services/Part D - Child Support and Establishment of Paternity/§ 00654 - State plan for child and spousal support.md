@@ -36,7 +36,7 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;(E) any costs in excess of the fees so imposed may be collected—
 
-&emsp;&emsp;&emsp;(i) from the parent who owes the child or spousal support obligation involved, or
+&emsp;&emsp;&emsp;(i) from the parent who owes the child or spousal support obligation involved; or
 
 &emsp;&emsp;&emsp;(ii) at the option of the State, from the individual to whom such services are made available, but only if such State has in effect a procedure whereby all persons in such State having authority to order child or spousal support are informed that such costs are to be collected from the individual to whom such services were made available;
 
@@ -52,13 +52,13 @@ A State plan for child and spousal support must—
 
 &emsp;(9) provide that the State will, in accordance with standards prescribed by the Secretary, cooperate with any other State—
 
-&emsp;&emsp;(A) in establishing paternity, if necessary,
+&emsp;&emsp;(A) in establishing paternity, if necessary;
 
-&emsp;&emsp;(B) in locating a noncustodial parent residing in the State (whether or not permanently) against whom any action is being taken under a program established under a plan approved under this part in another State,
+&emsp;&emsp;(B) in locating a noncustodial parent residing in the State (whether or not permanently) against whom any action is being taken under a program established under a plan approved under this part in another State;
 
-&emsp;&emsp;(C) in securing compliance by a noncustodial parent residing in such State (whether or not permanently) with an order issued by a court of competent jurisdiction against such parent for the support and maintenance of the child or children or the parent of such child or children with respect to whom aid is being provided under the plan of such other State,
+&emsp;&emsp;(C) in securing compliance by a noncustodial parent residing in such State (whether or not permanently) with an order issued by a court of competent jurisdiction against such parent for the support and maintenance of the child or children or the parent of such child or children with respect to whom aid is being provided under the plan of such other State;
 
-&emsp;&emsp;(D) in carrying out other functions required under a plan approved under this part; <sup>1</sup> and
+&emsp;&emsp;(D) in carrying out other functions required under a plan approved under this part; and
 
 &emsp;&emsp;(E) not later than March 1, 1997, in using the forms promulgated pursuant to section 652(a)(11) of this title for income withholding, imposition of liens, and issuance of administrative subpoenas in interstate child support cases;
 
@@ -88,17 +88,17 @@ A State plan for child and spousal support must—
 
 &emsp;(16) provide for the establishment and operation by the State agency, in accordance with an (initial and annually updated) advance automated data processing planning document approved under section 652(d) of this title, of a statewide automated data processing and information retrieval system meeting the requirements of section 654a of this title designed effectively and efficiently to assist management in the administration of the State plan, so as to control, account for, and monitor all the factors in the support enforcement collection and paternity determination process under such plan;
 
-&emsp;(17) provide that the State will have in effect an agreement with the Secretary entered into pursuant to section 663 of this title for the use of the Parent Locator Service established under section 653 of this title, and provide that the State will accept and transmit to the Secretary requests for information authorized under the provisions of the agreement to be furnished by such Service to authorized persons, will impose and collect (in accordance with regulations of the Secretary) a fee sufficient to cover the costs to the State and to the Secretary incurred by reason of such requests, will transmit to the Secretary from time to time (in accordance with such regulations) so much of the fees collected as are attributable to such costs to the Secretary so incurred, and during the period that such agreement is in effect will otherwise comply with such agreement and regulations of the Secretary with respect thereto;
+&emsp;(17) provide that the State will have in effect an agreement with the Secretary entered into pursuant to section 663 of this title for the use of the Parent Locator Service established under section 653 of this title, and provide that the State will accept and transmit to the Secretary requests for information authorized under the provisions of the agreement to be furnished by such Service to authorized persons, will impose and collect (in accordance with regulations of the Secretary) a fee sufficient to cover the costs to the State and to the Secretary incurred by reason of such requests, will transmit to the Secretary from time to time (in accordance with such regulations) so much of the fees collected as are attributableto such costs to the Secretary so incurred, and during the period that such agreement is in effect will otherwise comply with such agreement and regulations of the Secretary with respect thereto;
 
 &emsp;(18) provide that the State has in effect procedures necessary to obtain payment of past-due support from overpayments made to the Secretary of the Treasury as set forth in section 664 of this title, and take all steps necessary to implement and utilize such procedures;
 
 &emsp;(19) provide that the agency administering the plan—
 
-&emsp;&emsp;(A) shall determine on a periodic basis, from information supplied pursuant to section 508 of the Unemployment Compensation Amendments of 1976, whether any individuals receiving compensation under the State's unemployment compensation law (including amounts payable pursuant to any agreement under any Federal unemployment compensation law) owe child support obligations which are being enforced by such agency, and
+&emsp;&emsp;(A) shall determine on a periodic basis, from information supplied pursuant to section 508 of the Unemployment Compensation Amendments of 1976, whether any individuals receiving compensation under the State's unemployment compensation law (including amounts payable pursuant to any agreement under any Federal unemployment compensation law) owe child support obligations which are being enforced by such agency; and
 
 &emsp;&emsp;(B) shall enforce any such child support obligations which are owed by such an individual but are not being met—
 
-&emsp;&emsp;&emsp;(i) through an agreement with such individual to have specified amounts withheld from compensation otherwise payable to such individual and by submitting a copy of any such agreement to the State agency administering the unemployment compensation law, or
+&emsp;&emsp;&emsp;(i) through an agreement with such individual to have specified amounts withheld from compensation otherwise payable to such individual and by submitting a copy of any such agreement to the State agency administering the unemployment compensation law; or
 
 &emsp;&emsp;&emsp;(ii) in the absence of such an agreement, by bringing legal process (as defined in section 659(i)(5) of this title) to require the withholding of amounts from such compensation;
 
@@ -114,7 +114,7 @@ A State plan for child and spousal support must—
 
 &emsp;(24) provide that the State will have in effect an automated data processing and information retrieval system—
 
-&emsp;&emsp;(A) by October 1, 1997, which meets all requirements of this part which were enacted on or before October 13, 1988, and
+&emsp;&emsp;(A) by October 1, 1997, which meets all requirements of this part which were enacted on or before October 13, 1988; and
 
 &emsp;&emsp;(B) by October 1, 2000, which meets all requirements of this part enacted on or before August 22, 1996, except that such deadline shall be extended by 1 day for each day (if any) by which the Secretary fails to meet the deadline imposed by section 344(a)(3) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996;
 
@@ -128,7 +128,7 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;(C) prohibitions against the release of information on the whereabouts of 1 party or the child to another person if the State has reason to believe that the release of the information to that person may result in physical or emotional harm to the party or the child;
 
-&emsp;&emsp;(D) in cases in which the prohibitions under subparagraphs (B) and (C) apply, the requirement to notify the Secretary, for purposes of section 653(b)(2) of this title, that the State has reasonable evidence of domestic violence or child abuse against a party or the child and that the disclosure of such information could be harmful to the party or the child; and
+&emsp;&emsp;(D) in cases in which the prohibitions under subparagraphs (B) and (C) apply, the requirement to notify the Secretary, for purposes of section 653(b)(2) of this title, thatthe State has reasonable evidence of domestic violence or child abuse against a party or the child and that the disclosure of such information could be harmful to the party or the child; and
 
 &emsp;&emsp;(E) procedures providing that when the Secretary discloses information about a parent or child to a State court or an agent of a State court described in section 653(c)(2) or 663(d)(2)(B) of this title, and advises that court or agent that the Secretary has been notified that there is reasonable evidence of domestic violence or child abuse pursuant to section 653(b)(2) of this title, the court shall determine whether disclosure to any other person of information received from the Secretary could be harmful to the parent or child and, if the court determines that disclosure to any other person could be harmful, the court and its agents shall not make any such disclosure;
 
@@ -142,7 +142,7 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;&emsp;(ii) take the actions described in section 666(c)(1) of this title in appropriate cases;
 
-&emsp;(28) provide that, on and after October 1, 1997, the State will operate a State Directoryof New Hires in accordance with section 653a of this title;
+&emsp;(28) provide that, on and after October 1, 1997, the State will operate a State Directory of New Hires in accordance with section 653a of this title;
 
 &emsp;(29) provide that the State agency responsible for administering the State plan—
 
@@ -176,9 +176,9 @@ A State plan for child and spousal support must—
 
 &emsp;(33) provide that a State that receives funding pursuant to section 628 of this title and that has within its borders Indian country (as defined in section 1151 of title 18) may enter into cooperative agreements with an Indian tribe or tribal organization (as defined in subsections (e) and (<i>l</i>) of section 450b of title 25), if the Indian tribe or tribal organization demonstrates that such tribe or organization has an established tribal court system or a Court of Indian Offenses with the authority to establish paternity, establish, modify, or enforce support orders, or to enter support orders in accordance with child support guidelines established or adopted by such tribe or organization, under which the State and tribe or organization shall provide for the cooperative delivery of child support enforcement services in Indian country and for the forwarding of all collections pursuant to the functions performed by the tribe or organization to the State agency, or conversely, by the State agency to the tribe or organization, which shall distribute such collections in accordance with such agreement.
 
-> The State may allow the jurisdiction which makes the collection involved to retain any application fee under paragraph (6)(B) or any late payment fee under paragraph (21). Nothing in paragraph (33) shall void any provision of any cooperative agreement entered into before August 22, 1996, nor shall such paragraph deprive any State of jurisdiction over Indian country (asso defined) that is lawfully exercised under section 1322 of title 25.
+> The State may allow the jurisdiction which makes the collection involved to retain any application fee under paragraph (6)(B) or any late payment fee under paragraph (21). Nothing in paragraph (33) shall void any provision of any cooperative agreement entered into before August 22, 1996, nor shall such paragraph deprive any State of jurisdiction over Indian country (as so defined) that is lawfully exercised under section 1322 of title 25.
 
-(Aug. 14, 1935, ch. 531, title IV, §454, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2354; amended Pub. L. 94–88, title II, §208(b), (c), Aug. 9, 1975, 89 Stat. 436; Pub. L. 95–30, title V, §502(a), May 23, 1977, 91 Stat. 162; Pub. L. 96–265, title IV, §405(b), June 9, 1980, 94 Stat. 463; Pub. L. 96–611, §9(a), Dec. 28, 1980, 94 Stat. 3571; Pub. L. 97–35, title XXIII, §§2331(b), 2332(d), 2333(a), (b), 2335(a), Aug. 13, 1981, 95 Stat. 860, 862, 863; Pub. L. 97–248, title I, §§171(a), (b)(1), 173(a), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–369, div. B, title VI, §2663(c)(14), (j)(2)(B)(x), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§3(a), (c)–(f), 5(b), 6(a), 11(b)(1), 12(a), (b), 14(a), 21(d), Aug. 16, 1984, 98 Stat. 1306, 1310, 1311, 1314, 1318, 1319, 1320, 1324; Pub. L. 100–203, title IX, §§9141(a)(2), 9142(a), Dec. 22, 1987, 101 Stat. 1330–321; Pub. L. 100–485, title I, §§104(a), 111(c), 123(a), (d), Oct. 13, 1988, 102 Stat. 2348, 2349, 2352, 2353; Pub. L. 104–35, §1(a), Oct. 12, 1995, 109 Stat. 294; Pub. L. 104–193, title I, §108(c)(11), (12), title III, §§301(a), (b), 302(b)(2), 303(a), 304(a), 312(a), 313(a), 316(g)(1), 324(b), 332, 333, 342(a), 343(b), 344(a)(1), (4), 370(a)(2), 371(b), 375(a), (c), 395(d)(1)(D), (2)(B), Aug. 22, 1996, 110 Stat. 2166, 2199, 2204, 2205, 2207, 2209, 2218, 2223, 2230, 2233, 2234, 2236, 2252, 2254, 2256, 2259, 2260; Pub. L. 105–33, title V, §§5531(a), 5542(c), 5545, 5546(a), 5548, 5552, 5556(b), Aug. 5, 1997, 111 Stat. 625, 631, 633, 635, 637.)
+(Aug. 14, 1935, ch. 531, title IV, §454, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2354; amended Pub. L. 94–88, title II, §208(b), (c), Aug. 9, 1975, 89 Stat. 436; Pub. L. 95–30, title V, §502(a), May 23, 1977, 91 Stat. 162; Pub. L. 96–265, title IV, §405(b), June 9, 1980, 94 Stat. 463; Pub. L. 96–611, §9(a), Dec. 28, 1980, 94 Stat. 3571; Pub. L. 97–35, title XXIII, §§2331(b), 2332(d), 2333(a), (b), 2335(a), Aug. 13, 1981, 95 Stat. 860, 862, 863; Pub. L. 97–248, title I, §§171(a), (b)(1), 173(a), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–369, div. B, title VI, §2663(c)(14), (j)(2)(B)(x), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§3(a), (c)–(f), 5(b), 6(a), 11(b)(1), 12(a), (b), 14(a), 21(d), Aug. 16, 1984, 98 Stat. 1306, 1310, 1311, 1314, 1318, 1319, 1320, 1324; Pub. L. 100–203, title IX, §§9141(a)(2), 9142(a), Dec. 22, 1987, 101 Stat. 1330–321; Pub. L. 100–485, title I, §§104(a), 111(c), 123(a), (d), Oct. 13, 1988, 102 Stat. 2348, 2349, 2352, 2353; Pub. L. 104–35, §1(a), Oct. 12, 1995, 109 Stat. 294; Pub. L. 104–193, title I, §108(c)(11), (12), title III, §§301(a), (b), 302(b)(2), 303(a), 304(a), 312(a), 313(a), 316(g)(1), 324(b), 332, 333, 342(a), 343(b), 344(a)(1), (4), 370(a)(2), 371(b), 375(a), (c), 395(d)(1)(D), (2)(B), Aug. 22, 1996, 110 Stat. 2166, 2199, 2204, 2205, 2207, 2209, 2218, 2223, 2230, 2233, 2234, 2236, 2252, 2254, 2256, 2259, 2260; Pub. L. 105–33, title V, §§5531(a), 5542(c), 5545, 5546(a), 5548, 5552, 5556(b), Aug. 5, 1997, 111 Stat. 625, 631, 633, 635, 637; Pub. L. 106–169, title IV, §401(g), (h), Dec. 14, 1999, 113 Stat. 1858.)
 
 #### References in Text
 
@@ -188,11 +188,19 @@ Section 508 of the Unemployment Compensation Amendments of 1976, referred to in 
 
 Section 344(a)(3) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in par. (24), is section 344(a)(3) of Pub. L. 104–193, which is set out as a Regulations note under section 654a of this title.
 
-#### Codification
-
-August 22, 1996, referred to in par. (24)(B), was in the original “the date of the enactment of the Personal Responsibility and Work Opportunity Act of 1996” which was translated as meaning the date of enactment of Pub. L. 104–193, the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, to reflect the probable intent of Congress.
-
 #### Amendments
+
+1999—Par. (6)(E)(i). Pub. L. 106–169, §401(g)(1), substituted “; or” for “, or” at end.
+
+Par. (9)(A) to (C). Pub. L. 106–169, §401(g)(2), substituted semicolon for comma at end.
+
+Par. (19)(A). Pub. L. 106–169, §401(g)(3), substituted “; and” for “, and” at end.
+
+Par. (19)(B)(i). Pub. L. 106–169, §401(g)(1), substituted “; or” for “, or” at end.
+
+Par. (24)(A). Pub. L. 106–169, §401(g)(3), substituted “; and” for “, and” at end.
+
+Par. (24)(B). Pub. L. 106–169, §401(h), made technical amendment to reference in original act which appears in text as reference to August 22, 1996.
 
 1997—Par. (4)(A)(i)(IV). Pub. L. 105–33, §5548(a), added subcl. (IV).
 
@@ -290,7 +298,7 @@ Par. (15). Pub. L. 104–193, §342(a)(3), added par. (15). Former par. (15) red
 
 Pub. L. 104–193, §342(a)(2), redesignated par. (15) as (14)(B).
 
-Par. (16). Pub. L. 104–193, §344(a)(1), as amended by Pub. L. 105–33, §5556(b), struck out “, at the option of the State,” before “for the establishment”, inserted “and operation by the State agency” after “for the establishment” and “meeting the requirements of section 654a of this title” after “information retrieval system”, substituted “so as to control” for “in the State and localities thereof, so as (A) to control”, struck out “(i)” before “all the factors in the support enforcement collection”, and struck out before semicolon at end “(including, but not limited to, (I) identifiable correlation factors (such as social security numbers, names, dates of birth, home addresses and mailing addresses (including postal ZIP codes) of any individual with respect to whom support obligations are sought to be established or enforced and with respect to any person to whom such support obligations are owing) to assure sufficient compatibility among the systems of different jurisdictions to permit periodic screening to determine whether such individual is paying or is obligated to pay support in more than one jurisdiction, (II) checking of records of such individuals on a periodic basis with Federal, intra- and inter-State, and local agencies, (III) maintaining the data necessary to meet the Federal reporting requirements on a timely basis, and (IV) delinquency and enforcement activities), (ii) the collection and distribution of support payments (both intra- and inter-State), the determination, collection, and distribution of incentive payments both inter- and intra-State, and the maintenance of accounts receivable on all amounts owed, collected and distributed, and (iii) the costs of all services rendered, either directly or by interfacing with State financial management and expenditure information, (B) to provide interface withrecords of the State's aid to families with dependent children program in order to determine if a collection of a support payment causes a change affecting eligibility for or the amount of aid under such program, (C) to provide for security against unauthorized access to, or use of, the data in such system, (D) to facilitate the development and improvement of the income withholding and other procedures required under section 666(a) of this title through the monitoring of support payments, the maintenance of accurate records regarding the payment of support, and the prompt provision of notice to appropriate officials with respect to any arrearages in support payments which may occur, and (E) to provide management information on all cases under the State plan from initial referral or application through collection and enforcement”.
+Par. (16). Pub. L. 104–193, §344(a)(1), as amended by Pub. L. 105–33, §5556(b), struck out “, at the option of the State,” before “for the establishment”, inserted “and operation by the State agency” after “for the establishment” and “meeting the requirements of section 654a of this title” after “information retrieval system”, substituted “so as to control” for “in the State and localities thereof, so as (A) to control”, struck out “(i)” before “all the factors in the support enforcement collection”, and struck out before semicolon at end “(including, but not limited to, (I) identifiable correlation factors (such as social security numbers, names, dates of birth, home addresses and mailing addresses (including postal ZIP codes) of any individual with respect to whom support obligations are sought to be established or enforced and with respect to any person to whom such support obligations are owing) to assure sufficient compatibility among the systems of different jurisdictions to permit periodic screening to determine whether such individual is paying or is obligated to pay support in more than one jurisdiction, (II) checking of records of such individuals on a periodic basis with Federal, intra- and inter-State, and local agencies, (III) maintaining the data necessary to meet the Federal reporting requirements on a timely basis, and (IV) delinquency and enforcement activities), (ii) the collection and distribution of support payments (both intra- and inter-State), the determination, collection, and distribution of incentive payments both inter- and intra-State, and the maintenance of accounts receivable on all amounts owed, collected and distributed, and (iii) the costs of all services rendered, either directly or by interfacing with State financial management and expenditure information, (B) to provide interface with records of the State's aid to families with dependent children program in order to determine if a collection of a support payment causes a change affecting eligibility for or the amount of aid under such program, (C) to provide for security against unauthorized access to, or use of, the data in such system, (D) to facilitate the development and improvement of the income withholding and other procedures required under section 666(a) of this title through the monitoring of support payments, the maintenance of accurate records regarding the payment of support, and the prompt provision of notice to appropriate officials with respect to any arrearages in support payments which may occur, and (E) to provide management information on all cases under the State plan from initial referral or application through collection and enforcement”.
 
 Par. (21)(A). Pub. L. 104–193, §395(d)(1)(D), substituted “noncustodial parent” for “absent parent”.
 
@@ -348,7 +356,7 @@ Par. (5). Pub. L. 98–378, §3(e), inserted “, and the individual will be no
 
 Par. (6)(A). Pub. L. 98–378, §12(b), struck out “, at the option of the State,” before “support collection services” and inserted “, and only if the support obligation established with respect to the child is being enforced under the plan”.
 
-Par. (6)(B). Pub. L. 98–378, §3(c), substituted “shall be imposed, which shall be paid by the individual applying for such services, or recovered from the absent parent, or paid by the State out of its own funds (the payment of which from State funds shall not be considered as an administrative cost of the State for the operation of the plan, and shall be considered income to the program), the amount of which (i) will not exceed $25 (or such higher or lower amount (which shall be uniform for all States) as the Secretary may determine to be appropriate for any fiscal year to reflect increases or decreases in administrative costs), and (ii) may vary among such individuals on the basis of ability to pay (as determined by the State), and” for “may be imposed, except that the amount of any such application fee shall be reasonable, as determined under regulations of the Secretary,”.
+Par. (6)(B). Pub. L. 98–378, §3(c), substituted “shall be imposed, which shall be paid by the individual applying for such services, or recovered from the absent parent, or paid by the State out of its own funds (the payment of which from State funds shall not be considered as an administrative cost of the State for the operation of the plan, and shall be considered income to the program), the amount of which (i) will not exceed $25 (or such higher or lower amount (which shall be uniform for all States) as the Secretary may determine to beappropriate for any fiscal year to reflect increases or decreases in administrative costs), and (ii) may vary among such individuals on the basis of ability to pay (as determined by the State), and” for “may be imposed, except that the amount of any such application fee shall be reasonable, as determined under regulations of the Secretary,”.
 
 Par. (6)(C). Pub. L. 98–378, §21(d)(1), (3), added cl. (C). Former cl. (C) redesignated (D).
 
@@ -411,6 +419,10 @@ Par. (17). Pub. L. 96–611 added par. (17).
 1975—Par. (4)(A). Pub. L. 94–88, §208(b), substituted “to establish the paternity of such child, unless the agency administering the plan of the State under part A of this subchapter determines in accordance with the standards prescribed by the Secretary pursuant to section 602(a)(26)(B) of this title that it is against the best interests of the child to do so” for “to establish the paternity of such child”.
 
 Par. (4)(B). Pub. L. 94–88, §208(c), substituted “reciprocal arrangements adopted with other States (unless the agency administering the plan of the State under part A of this subchapter determines in accordance with the standards prescribed by the Secretary pursuant to section 602(a)(26)(B) of this title that it is against the best interests of the child to do so)” for “reciprocal arrangements adopted with other States”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–169 effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 401(q) of Pub. L. 106–169, set out as a note under section 602 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -551,6 +563,4 @@ Section 176 of Pub. L. 97–248 provided that: “In the case of a State with re
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 503, 608, 609, 652, 653, 654b, 655, 657, 658, 658a, 663, 664, 666, 1315, 1396k of this title; title 26 section 6103.
-
-<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

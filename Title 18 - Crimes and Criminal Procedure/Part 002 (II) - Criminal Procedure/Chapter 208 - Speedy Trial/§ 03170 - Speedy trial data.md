@@ -4,7 +4,7 @@
 
 (b) The clerk of each district court is authorized to obtain the information required by sections 3166(b) and 3166(c) from all relevant sources including the United States Attorney, Federal Public Defender, private defense counsel appearing in criminal cases in the district, United States district court judges, and the chief Federal Probation Officer for the district. This subsection shall not be construed to require the release of any confidential or privileged information.
 
-(c) The information and statistics compiled by the clerk pursuant to this section shall be madeavailable to the district court, the planning group, the circuit council, and the Administrative Office of the United States Courts.
+(c) The information and statistics compiled by the clerk pursuant to this section shall be made available to the district court, the planning group, the circuit council, and the Administrative Office of the United States Courts.
 
 (Added Pub. L. 93–619, title I, §101, Jan. 3, 1975, 88 Stat. 2084; amended Pub. L. 96–43, §9(f), Aug. 2, 1979, 93 Stat. 331; Pub. L. 101–647, title XXXV, §3579, Nov. 29, 1990, 104 Stat. 4929.)
 

@@ -56,7 +56,7 @@ A prior section 1070a–21, Pub. L. 89–329, title IV, §404A, as added Pub. L.
 
 #### Effective Date
 
-Division effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
+Division effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L.105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
 
 #### Evaluation of Tuition Guaranty Programs
 

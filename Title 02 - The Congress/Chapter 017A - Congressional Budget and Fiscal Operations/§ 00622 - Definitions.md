@@ -22,7 +22,7 @@ In general.—The term “budget authority” means the authority provided by Fe
 
 &emsp;&emsp;(B)
 
-Limitations on budget authority.—With respect to the Federal Hospital Insurance Trust Fund, the Supplementary Medical Insurance Trust Fund, the Unemployment Trust Fund, and the railroad retirement account, any amount that is precludedfrom obligation in a fiscal year by a provision of law (such as a limitation or a benefit formula) shall not be budget authority in that year.
+Limitations on budget authority.—With respect to the Federal Hospital Insurance Trust Fund, the Supplementary Medical Insurance Trust Fund, the Unemployment Trust Fund, and the railroad retirement account, any amount that is precluded from obligation in a fiscal year by a provision of law (such as a limitation or a benefit formula) shall not be budget authority in that year.
 
 &emsp;&emsp;(C)
 
@@ -90,7 +90,7 @@ Section was formerly classified to section 1302 of Title 31 prior to the general
 
 1997—Par. (9). Pub. L. 105–33 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘entitlement authority’ means spending authority described by section 651(c)(2)(C) of this title.”
 
-1990—Par. (2). Pub. L. 101–508, §13211(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘budget authority’ means authorityprovided by law to enter into obligations which will result in immediate or future outlays involving Government funds or to collect offsetting receipts., except that such term does not include authority to insure or guarantee the repayment of indebtedness incurred by another person or government. The term includes the cost for direct loan and loan guarantee programs, as those terms are defined by subchapter III of this chapter”.
+1990—Par. (2). Pub. L. 101–508, §13211(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘budget authority’ means authority provided by law to enter into obligations which will result in immediate or future outlays involving Government funds or to collect offsetting receipts., except that such term does not include authority to insure or guarantee the repayment of indebtedness incurred by another person or government. The term includes the cost for direct loan and loan guarantee programs, as those terms are defined by subchapter III of this chapter”.
 
 Pub. L. 101–508, §13201(b)(1), inserted at end: “The term includes the cost for direct loan and loan guarantee programs, as those terms are defined by subchapter III of this chapter”.
 

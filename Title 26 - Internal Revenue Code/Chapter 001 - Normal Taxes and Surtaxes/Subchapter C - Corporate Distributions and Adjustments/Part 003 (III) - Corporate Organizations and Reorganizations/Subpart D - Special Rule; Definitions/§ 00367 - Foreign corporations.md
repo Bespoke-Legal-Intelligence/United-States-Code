@@ -20,7 +20,7 @@
 
 &emsp;&emsp;Except as provided in regulations prescribed by the Secretary, subparagraph (A) shall not apply to any—
 
-&emsp;&emsp;&emsp;(i) property described in paragraph (1) or (3) of section 1221 (relating to inventory and copyrights, etc.),
+&emsp;&emsp;&emsp;(i) property described in paragraph (1) or (3) of section 1221(a) (relating to inventory and copyrights, etc.),
 
 &emsp;&emsp;&emsp;(ii) installment obligations, accounts receivable, or similar property,
 
@@ -32,7 +32,7 @@
 
 #### (C) Transfer of foreign branch with previously deducted losses
 
-&emsp;&emsp;Except as provided in regulations prescribed by the Secretary, subparagraph (A)shall not apply to gain realized on the transfer of the assets of a foreign branch of a United States person to a foreign corporation in an exchange described in paragraph (1) to the extent that—
+&emsp;&emsp;Except as provided in regulations prescribed by the Secretary, subparagraph (A) shall not apply to gain realized on the transfer of the assets of a foreign branch of a United States person to a foreign corporation in an exchange described in paragraph (1) to the extent that—
 
 &emsp;&emsp;&emsp;(i) the sum of losses—
 
@@ -144,13 +144,15 @@ To the extent provided in regulations, if a United States person transfers prope
 
 &emsp;(2) the adjusted basis (for purposes of determining gain) of such property in the hands of the transferor.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 119; Pub. L. 91–681, §1(a), Jan. 12, 1971, 84 Stat. 2065; Pub. L. 94–455, title X, §1042(a), Oct. 4, 1976, 90 Stat. 1634; Pub. L. 97–248, title II, §213(d), Sept. 3, 1982, 96 Stat. 465; Pub. L. 98–369, div. A, title I, §131(a)–(c), July 18, 1984, 98 Stat. 662–664; Pub. L. 99–514, title VI, §631(d)(1), title XII, §1231(e)(2), title XVIII, §1810(g)(1), (4), Oct. 22, 1986, 100 Stat. 2272, 2563, 2828, 2829; Pub. L. 100–647, title I, §1006(e)(13)(A), Nov. 10, 1988, 102 Stat. 3402; Pub. L. 101–508, title XI, §11702(a)(1), Nov. 5, 1990, 104 Stat. 1388–514; Pub. L. 105–34, title XI, §1131(b)(2), (4), (5)(A), Aug. 5, 1997, 111 Stat. 979, 980.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 119; Pub. L. 91–681, §1(a), Jan. 12, 1971, 84 Stat. 2065; Pub. L. 94–455, title X, §1042(a), Oct. 4, 1976, 90 Stat. 1634; Pub. L. 97–248, title II, §213(d), Sept. 3, 1982, 96 Stat. 465; Pub. L. 98–369, div. A, title I, §131(a)–(c), July 18, 1984, 98 Stat. 662–664; Pub. L. 99–514, title VI, §631(d)(1), title XII, §1231(e)(2), title XVIII, §1810(g)(1), (4), Oct. 22, 1986, 100 Stat. 2272, 2563, 2828, 2829; Pub. L. 100–647, title I, §1006(e)(13)(A), Nov. 10, 1988, 102 Stat. 3402; Pub. L. 101–508, title XI, §11702(a)(1), Nov. 5, 1990, 104 Stat. 1388–514; Pub. L. 105–34, title XI, §1131(b)(2), (4), (5)(A), Aug. 5, 1997, 111 Stat. 979, 980; Pub. L. 106–170, title V, §532(c)(1)(C), Dec. 17, 1999, 113 Stat. 1930.)
 
 #### Codification
 
 Another section 1131(b) of Pub. L. 105–34 enacted section 684 of this title.
 
 #### Amendments
+
+1999—Subsec. (a)(3)(B)(i). Pub. L. 106–170 substituted “section 1221(a)” for “section 1221”.
 
 1997—Subsec. (d)(2)(C). Pub. L. 105–34, §1131(b)(4), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “For purposes of this chapter, any amount included in gross income by reason of this subsection shall be treated as ordinary income from sources within the United States.”
 
@@ -182,13 +184,17 @@ Subsecs. (e), (f). Pub. L. 98–369, §131(c), added subsec. (e) and redesignate
 
 1976—Pub. L. 94–455, among other changes, inserted provisions permitting nonrecognition of gain if a request for a ruling that tax avoidance is not present is filed within 183 days after beginning of an exchange, relating to an organization, reorganization, and liquidation of a foreign corporation, in the case of outbound transfers, however, for all other transfers, regulations are to provide the extent that earnings are to be taken into account as dividends and provisions relating to Tax Court review of the tax avoidance rulings.
 
-1971—Subsec. (a). Pub. L. 91–681 designated existing provisions as subsec. (a), and, as so designated, inserted provisions relating to instances of an exchange, described in subsec. (b). Provisions relating to distributions described in section 355 (or so much of section 356as relates to section 355) were stricken and were transferred to subsec. (c).
+1971—Subsec. (a). Pub. L. 91–681 designated existing provisions as subsec. (a), and, as so designated, inserted provisions relating to instances of an exchange, described in subsec. (b). Provisions relating to distributions described in section 355 (or so much of section 356 as relates to section 355) were stricken and were transferred to subsec. (c).
 
 Subsec. (b). Pub. L. 91–681 added subsec. (b).
 
 Subsec. (c). Pub. L. 91–681 designated as subsec. (c) provisions relating to distribution described in section 355 (or so much of section 356 as relates to section 355).
 
 Subsec. (d). Pub. L. 91–681 added subsec. (d).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -256,7 +262,7 @@ Section 1006(e)(13)(C) of Pub. L. 100–647 provided that: “Section 367(e)(2) 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -20,7 +20,7 @@ The Director may—
 
 &emsp;(2) organize agricultural information and information products and services by cataloging, indexing, bibliographical listing, and other appropriate techniques;
 
-&emsp;(3) provide agricultural information and information products and services to agencies of the Department of Agriculture and the Federal Government, public and private organizations, and individuals, within the United States and internationally;
+&emsp;(3) provide agricultural information and information products and services to agencies ofthe Department of Agriculture and the Federal Government, public and private organizations, and individuals, within the United States and internationally;
 
 &emsp;(4) plan for, coordinate, and evaluate information and library needs related to agricultural research and education;
 

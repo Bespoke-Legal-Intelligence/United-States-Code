@@ -4,7 +4,7 @@ No law shall be enacted in the Virgin Islands which shall deprive any person of 
 
 In all criminal prosecutions the accused shall enjoy the right to be represented by counsel for his defense, to be informed of the nature and cause of the accusation, to have a copy thereof, to have a speedy, and public trial, to be confronted with the witnesses against him, and to have compulsory process for obtaining witnesses in his favor.
 
-No person shall be held to answer for a criminal offense without due process of law, and no person for the same offense shall be twice put in jeopardy of punishment, nor shall be compelled in any criminal cause to give evidence against himself; nor shall any person sit as judge or magistrate in any case in which he has been engaged as attorney or prosecutor.
+No person shall be held to answer for a criminal offense without due process of law, and no person for the same offense shall be twice put in jeopardy of punishment, nor shall be compelled in any criminal cause to give evidence againsthimself; nor shall any person sit as judge or magistrate in any case in which he has been engaged as attorney or prosecutor.
 
 All persons shall be bailable by sufficient sureties in the case of criminal offenses, except for first-degree murder or any capital offense when the proof is evident or the presumption great.
 

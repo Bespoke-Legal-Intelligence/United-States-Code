@@ -2,7 +2,7 @@
 
 #### (a) Deposits to Fund
 
-The Panama Canal Commission shall make deposits on a regular basis to the Fund, beginning on October 1, 1988, to accumulate an amount sufficient to defray the estimated total cost of liability for the workers’ compensation benefits and other payments payable under chapter 81 of title 5 for the disability or death of employees of the Panama Canal Commission or any of its predecessor agencies on account of injuries sustained on or before December 31, 1999, except for those claims arising before, on, or after October 1, 1988, for which the Secretary of Labor has assumed fiscal responsibility.
+The Panama Canal Commission shall make deposits on a regular basis to the Fund, beginningon October 1, 1988, to accumulate an amount sufficient to defray the estimated total cost of liability for the workers’ compensation benefits and other payments payable under chapter 81 of title 5 for the disability or death of employees of the Panama Canal Commission or any of its predecessor agencies on account of injuries sustained on or before December 31, 1999, except for those claims arising before, on, or after October 1, 1988, for which the Secretary of Labor has assumed fiscal responsibility.
 
 #### (b) Calculation of amounts to be deposited
 
@@ -16,7 +16,7 @@ The Secretary of the Treasury, upon the request of the Secretary of Labor, shall
 
 #### Codification
 
-Section was enacted as part of the Panama Canal Commission Compensation Fund Act of 1988, and not aspart of the Panama Canal Act of 1979 which comprises this chapter.
+Section was enacted as part of the Panama Canal Commission Compensation Fund Act of 1988, and not as part of the Panama Canal Act of 1979 which comprises this chapter.
 
 #### Effective Date
 

@@ -32,7 +32,7 @@ Section 291w, act July 1, 1944, ch. 373, title VI, §661, as added Aug. 1, 1958,
 
 Section 291x, act July 1, 1944, ch. 373, title VI, §662, as added Aug. 1, 1958, Pub. L. 85–589, 72 Stat. 489, related to approval of construction loans by Surgeon General.
 
-Section 291y, act July 1, 1944, ch. 373, title VI, §663, as added Aug. 1, 1958, Pub. L. 85–589, 72 Stat. 489, relatedto terms of the loans with respect to sections 291w to 291z of this title.
+Section 291y, act July 1, 1944, ch. 373, title VI, §663, as added Aug. 1, 1958, Pub. L. 85–589, 72 Stat. 489, related to terms of the loans with respect to sections 291w to 291z of this title.
 
 Section 291z, act July 1, 1944, ch. 373, title VI, §664, as added Aug. 1, 1958, Pub. L. 85–589, 72 Stat. 490, related to allotment of funds for loans under this subchapter.
 

@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(B) a State-awarded certificate for preschool teachers that meets or exceeds the requirements for a child development associate credential; or
 
-&emsp;&emsp;(C) a degree in a field related to early childhood education with experience inteaching preschool children and a State-awarded certificate to teach in a preschool program.
+&emsp;&emsp;(C) a degree in a field related to early childhood education with experience in teaching preschool children and a State-awarded certificate to teach in a preschool program.
 
 #### (4) Waiver
 
@@ -116,7 +116,7 @@ In order to improve the quality and effectiveness of staff providing in-home and
 
 #### (4) Selection of Fellows
 
-&emsp;Head Start Fellowships shall be awarded on a competitive basis to individuals (other thanFederal employees) selected from among applicants who are working, on the date of application, in local Head Start programs or otherwise working in the field of child development and children and family services.
+&emsp;Head Start Fellowships shall be awarded on a competitive basis to individuals (other than Federal employees) selected from among applicants who are working, on the date of application, in local Head Start programs or otherwise working in the field of child development and children and family services.
 
 #### (5) Duration
 

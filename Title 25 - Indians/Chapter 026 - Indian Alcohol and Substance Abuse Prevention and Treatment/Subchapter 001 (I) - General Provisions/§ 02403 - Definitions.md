@@ -24,7 +24,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(G) referral to other sources of assistance or resources.
 
-&emsp;(5) The term “service unit” means an administrative entity within the Indian Health Service or a tribe or tribal organization operating health care programs or facilities with fundsfrom the Indian Health Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\] through which the services are provided, directly or by contract, to the eligible Indian population within a defined geographic area.
+&emsp;(5) The term “service unit” means an administrative entity within the Indian Health Service or a tribe or tribal organization operating health care programs or facilities with funds from the Indian Health Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\] through which the services are provided, directly or by contract, to the eligible Indian population within a defined geographic area.
 
 &emsp;(6) The terms “Urban Indian”, “Urban Center”, and “Urban Indian Organization” shall have the same meaning as provided in section 1603 of this title.
 

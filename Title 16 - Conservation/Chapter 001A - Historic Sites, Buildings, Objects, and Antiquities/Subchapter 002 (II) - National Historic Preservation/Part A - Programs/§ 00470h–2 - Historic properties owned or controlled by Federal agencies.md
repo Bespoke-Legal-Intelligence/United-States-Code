@@ -10,7 +10,7 @@
 
 &emsp;(B) that such properties under the jurisdiction or control of the agency as are listed in or may be eligible for the National Register are managed and maintained in a way that considers the preservation of their historic, archaeological, architectural, and cultural values in compliance with section 470f of this title and gives special consideration to the preservation of such values in the case of properties designated as having National significance;
 
-&emsp;(C) that the preservation of properties not under the jurisdiction or control of the agency, but subject to be potentially affected by agency actions are given full consideration in planning;
+&emsp;(C) that the preservation of properties not under the jurisdiction or control of the agency, but subject to be potentially affected byagency actions are given full consideration in planning;
 
 &emsp;(D) that the agency's preservation-related activities are carried out in consultation with other Federal, State, and local agencies, Indian tribes, Native Hawaiian organizations carrying out historic preservation planning activities, and with the private sector; and
 
@@ -60,7 +60,7 @@ The Secretary shall promulgate regulations under which the requirements of this 
 
 #### (k) Assistance for adversely affected historic property
 
-Each Federal agency shall ensure that the agency will not grant a loan, loan guarantee, permit, license, or other assistance to an applicant who, with intent to avoid the requirements of section 470f of this title, has intentionally significantly adversely affected a historic property to which the grant would relate, or having legal power to prevent it, allowed such significant adverse effect to occur, unless the agency, after consultation with the Council, determines that circumstances justify granting such assistance despite the adverse effect created or permitted by the applicant.
+Each Federal agency shall ensure that the agency will not grant a loan, loan guarantee, permit, license, or other assistance to an applicant who, with intent to avoid the requirements of section 470f of this title, has intentionally significantly adversely affected a historic propertyto which the grant would relate, or having legal power to prevent it, allowed such significant adverse effect to occur, unless the agency, after consultation with the Council, determines that circumstances justify granting such assistance despite the adverse effect created or permitted by the applicant.
 
 #### (<i>l</i>) Documentation of decisions respecting undertakings
 

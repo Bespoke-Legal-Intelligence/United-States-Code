@@ -16,7 +16,7 @@ Biennial Transferability Report.—In January 1993, the Comptroller General shal
 
 &emsp;(A) the State's ability to meet the mass transportation needs of elderly individuals and individuals with disabilities;
 
-&emsp;&emsp;(B) efforts to meet the objectives of the Clean Air Act (42 U.S.C. 7401 et seq.) and the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.); and
+&emsp;&emsp;(B) efforts to meet the objectives of the Clean Air Act (42 U.S.C. 7401 et seq.) and theAmericans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.); and
 
 &emsp;&emsp;(C) the State's efforts to extend public mass transportation services to unserved rural areas; and
 

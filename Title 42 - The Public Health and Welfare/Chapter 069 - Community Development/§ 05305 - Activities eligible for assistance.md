@@ -100,7 +100,7 @@ Upon the request of the recipient of assistance under this chapter, the Secretar
 
 &emsp;(C) involve employment of persons, a majority of whom are persons of low and moderate income.
 
-(2)(A) In any case in which an assisted activity described in subsection (a) of this section is designed to serve an area generally and is clearly designed to meet identified needs of persons of low and moderate income in such area, such activity shall be considered to principally benefit persons of low and moderate income if (i) not less than 51 percent of the residents of such area are persons of low and moderate income; (ii) in any metropolitan city or urban county, the area served by such activity is within the highest quartile of all areas within the jurisdiction ofsuch city or county in terms of the degree of concentration of persons of low and moderate income; or (iii) the assistance for such activity is limited to paying assessments (including any charge made as a condition of obtaining access) levied against properties owned and occupied by persons of low and moderate income to recover the capital cost for a public improvement.
+(2)(A) In any case in which an assisted activity described in subsection (a) of this section is designed to serve an area generally and is clearly designed to meet identified needs of persons of low and moderate income in such area, such activity shall be considered to principally benefit persons of low and moderate income if (i) not less than 51 percent of the residents of such area are persons of low and moderate income; (ii) in any metropolitan city or urban county, the area served by such activity is within the highest quartile of all areas within the jurisdiction of such city or county in terms of the degree of concentration of persons of low and moderate income; or (iii) the assistance for such activity is limited to paying assessments (including any charge made as a condition of obtaining access) levied against properties owned and occupied by persons of low and moderate income to recover the capital cost for a public improvement.
 
 (B) The requirements of subparagraph (A) do not prevent the use of assistance under this chapter for the development, establishment, and operation for not to exceed 2 years after its establishment of a uniform emergency telephone number system if the Secretary determines that—
 
@@ -304,7 +304,7 @@ Subsec. (a)(13). Pub. L. 97–35, §303(a)(2), inserted reference to the carryin
 
 Subsec. (a)(14). Pub. L. 97–35, §309(f)(5), substituted “which are carried out by public or private non-profit entities” for “(as specifically described in the application submitted pursuant to section 5304 of this title) which are carried out by public or private non-profit entities when such activities are necessary or appropriate to meeting the needs and objectives of the community development plan described in section 5304(a)(1) of this title”.
 
-Subsec. (a)(15). Pub. L. 97–35, §309(f)(6), struck out “(as specifically described in the application submittedpursuant to section 5304 of this title)” after “conservation project”.
+Subsec. (a)(15). Pub. L. 97–35, §309(f)(6), struck out “(as specifically described in the application submitted pursuant to section 5304 of this title)” after “conservation project”.
 
 Subsec. (a)(17). Pub. L. 97–35, §303(a)(5), added par. (17).
 
@@ -328,7 +328,7 @@ Subsec. (a)(16). Pub. L. 96–399, §104(c)(5), added par. (16).
 
 Subsec. (a)(4). Pub. L. 95–128, §105(b), substituted “(including interim assistance, and financing public or private acquisition for rehabilitation, and rehabilitation, of privately owned properties)” for “(including interim assistance and financing rehabilitation of privately owned properties when incidental to other activities)”.
 
-Subsec. (a)(8). Pub. L. 95–128, §105(c), struck out from cl. (A) “economic development,” before “crime prevention” and authorized the program to provide public services only if such services have not been provided by the unit of general local government during any part of the twelve-month period preceding the date of application submission for funds to be made available under this chapter, and to be utilized for such services, unless the Secretary finds that the discontinuation of such services was the result of events not within the control of the applicant.
+Subsec. (a)(8). Pub. L. 95–128, §105(c), struck out from cl. (A) “economic development,” before “crime prevention” and authorized the program to provide public services only if such services have not been provided by the unit of general local government during any part of the twelve-month period preceding the date of application submission for funds to be made available underthis chapter, and to be utilized for such services, unless the Secretary finds that the discontinuation of such services was the result of events not within the control of the applicant.
 
 Subsec. (a)(14), (15). Pub. L. 95–128, §105(d), added pars. (14) and (15).
 
@@ -376,7 +376,7 @@ Amendment by Pub. L. 95–128 effective Oct. 1, 1977, see section 114 of Pub. L.
 
 #### Non-Federal Cost Sharing of Army Corps of Engineers Projects
 
-Pub. L. 105–276, title II, Oct. 21, 1998, 112 Stat. 2478, provided in part that: “For any fiscal year, of theamounts made available as emergency funds under the heading ‘Community Development Block Grants Fund’ and notwithstanding any other provision of law, not more than $250,000 may be used for the non-Federal cost-share of any project funded by the Secretary of the Army through the Corps of Engineers.”
+Pub. L. 105–276, title II, Oct. 21, 1998, 112 Stat. 2478, provided in part that: “For any fiscal year, of the amounts made available as emergency funds under the heading ‘Community Development Block Grants Fund’ and notwithstanding any other provision of law, not more than $250,000 may be used for the non-Federal cost-share of any project funded by the Secretary of the Army through the Corps of Engineers.”
 
 #### Brownfields Projects as Eligible CDBG Activity
 
@@ -392,7 +392,7 @@ Section 806(c) of Pub. L. 102–550 directed Comptroller General to conduct a st
 
 #### Enhancing Job Quality; Report to Congress
 
-Section 806(d) of Pub. L. 102–550 directed Comptroller General, not later than 1 year after Oct. 28, 1992, to submit to Congress a report on types and quality of jobs created or retained through assistance provided pursuant to this chapter and the extent to which projects and activities assisted under this chapter enhance the upward mobility and future earning capacity of low- and moderate-income persons who are benefited by such projects and activities.
+Section 806(d) of Pub. L. 102–550 directed Comptroller General, not later than 1 year after Oct. 28, 1992, to submit to Congress a report on types and quality of jobs created or retained through assistance provided pursuant to this chapter and the extent to which projectsand activities assisted under this chapter enhance the upward mobility and future earning capacity of low- and moderate-income persons who are benefited by such projects and activities.
 
 #### Report to Congress on Effectiveness of Assistance in Promoting Development of Microenterprises
 

@@ -1,5 +1,5 @@
 
-50 U.S.C.<br>United States Code, 1998 Edition<br>Title 50 - WAR AND NATIONAL DEFENSE<br>From the U.S. Government Publishing Office, www.gpo.gov
+50 U.S.C.<br>United States Code, 1999 Edition<br>Title 50 - WAR AND NATIONAL DEFENSE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 50—WAR AND NATIONAL DEFENSE
 
@@ -49,6 +49,7 @@
 | [<b>38.</b>](Chapter%20038%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability/README.md) | <b>Central Intelligence Agency Retirement and Disability</b> | <b>2001</b> |
 | [<b>39.</b>](Chapter%20039%20-%20Spoils%20of%20War/README.md) | <b>Spoils of War</b> | <b>2201</b> |
 | [<b>40.</b>](Chapter%20040%20-%20Defense%20Against%20Weapons%20of%20Mass%20Destruction/README.md) | <b>Defense Against Weapons of Mass Destruction</b> | <b>2301</b> |
+| [<b>41.</b>](Chapter%20041%20-%20National%20Nuclear%20Security%20Administration/README.md) | <b>National Nuclear Security Administration</b> | <b>2401</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -113,3 +114,4 @@ Proclamations, etc., respecting war and neutrality, see notes preceding section 
 - [Chapter 038 - Central Intelligence Agency Retirement and Disability](Chapter%20038%20-%20Central%20Intelligence%20Agency%20Retirement%20and%20Disability/README.md)
 - [Chapter 039 - Spoils of War](Chapter%20039%20-%20Spoils%20of%20War/README.md)
 - [Chapter 040 - Defense Against Weapons of Mass Destruction](Chapter%20040%20-%20Defense%20Against%20Weapons%20of%20Mass%20Destruction/README.md)
+- [Chapter 041 - National Nuclear Security Administration](Chapter%20041%20-%20National%20Nuclear%20Security%20Administration/README.md)

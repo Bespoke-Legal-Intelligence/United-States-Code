@@ -34,3 +34,7 @@ In addition to the foregoing criteria, no construction permit shall be issued un
 
 Subsec. (c). Pub. L. 103–321, §2(e)(2), added subsec. (c).
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 36 section 2113.
+

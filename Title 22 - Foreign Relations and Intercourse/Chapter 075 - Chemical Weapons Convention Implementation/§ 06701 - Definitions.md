@@ -252,7 +252,7 @@ In this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probableintent of Congress. For complete classification of division I to the Code, see Short Title note set out below and Tables.
 
 Section 1903(b) of title 46, Appendix, referred to in par. (14)(C), was in the original “section 3(b) of the Maritime Drug Enforcement Act, as amended (46 U.S.C., App. sec. 1903(b))” and was translated as reading section 3(b) of the Maritime Drug Law Enforcement Act to reflect the probable intent of Congress.
 
@@ -260,7 +260,15 @@ Section 1903(b) of title 46, Appendix, referred to in par. (14)(C), was in the o
 
 Pub. L. 105–277, div. I, §1, Oct. 21, 1998, 112 Stat. 2681–856, provided that: “This Division \[enacting this chapter, sections 229 to 229F of Title 18, Crimes and Criminal Procedure, and section 436 of Title 41, Public Contracts, amending section 362 of Title 11, Bankruptcy, and section 2332a of Title 18, repealing section 2332c of Title 18 and section 1520 of Title 50, War and National Defense, and enacting provisions set out as a note under section 229 of Title 18\] may be cited as the ‘Chemical Weapons Convention Implementation Act of 1998’.”
 
+#### Regulations
+
+Regulations, orders, or directives to implement this chapter to be issued, amended, or revised by Departments of State and Commerce, and other agencies as appropriate, see section 3 of Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34703, set out as a note under section 6711 of this title.
+
+#### Delegation of Functions
+
+For delegation of functions under this chapter, see section 5 of Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34703, set out as a note under section 6711 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6771 of this title.
+This section is referred to in section 6771 of this title; title 41 section 436.
 

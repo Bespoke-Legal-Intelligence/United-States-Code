@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of Defense shall carry out a program to provide for the conservation and rehabilitation of natural resources on military installations.
+&emsp;&emsp;The Secretary of Defense shall carry out a program to provide for the conservation andrehabilitation of natural resources on military installations.
 
 #### (B) Integrated natural resources management plan
 
@@ -112,13 +112,15 @@ Integrated natural resources management plans agreed to under the authority of t
 
 &emsp;In this subsection, the term “committees” means—
 
-&emsp;&emsp;(A) the Committee on Resources and the Committee on National Security of the House of Representatives; and
+&emsp;&emsp;(A) the Committee on Resources and the Committee on Armed Services of the House of Representatives; and
 
 &emsp;&emsp;(B) the Committee on Armed Services and the Committee on Environment and Public Works of the Senate.
 
-(Pub. L. 86–797, title I, §101, formerly §1, Sept. 15, 1960, 74 Stat. 1052; renumbered title I, §101, and amended Pub. L. 93–452, §§1(1), 3(1), (2), Oct. 18, 1974, 88 Stat. 1369, 1375; Pub. L. 97–396, §1, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, §3(a)(1), Oct. 27, 1986, 100 Stat. 3150; Pub. L. 105–85, div. B, title XXIX, §§2904(a)–(b)(4), (c), 2906, 2907, 2913(2)–(4), Nov. 18, 1997, 111 Stat. 2017, 2018, 2020, 2022.)
+(Pub. L. 86–797, title I, §101, formerly §1, Sept. 15, 1960, 74 Stat. 1052; renumbered title I, §101, and amended Pub. L. 93–452, §§1(1), 3(1), (2), Oct. 18, 1974, 88 Stat. 1369, 1375; Pub. L. 97–396, §1, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, §3(a)(1), Oct. 27, 1986, 100 Stat. 3150; Pub. L. 105–85, div. B, title XXIX, §§2904(a)–(b)(4), (c), 2906, 2907, 2913(2)–(4), Nov. 18, 1997, 111 Stat. 2017, 2018, 2020, 2022; Pub. L. 106–65, div. A, title X, §1067(19), Oct. 5, 1999, 113 Stat. 775.)
 
 #### Amendments
+
+1999—Subsec. (f)(3)(A). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
 1997—Subsec. (a). Pub. L. 105–85, §2904(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of Defense is authorized to carry out a program of planning for, and the development, maintenance, and coordination of, wildlife, fish, and game conservation and rehabilitation in each military reservation in accordance with a cooperative plan mutually agreed upon by the Secretary of Defense, the Secretary of the Interior, and the appropriate State agency designated by the State in which the reservation is located.”
 
@@ -171,10 +173,6 @@ Subsec. (f). Pub. L. 105–85, §2907, added subsec. (f).
 Pub. L. 97–396, §1(2), inserted provision that cooperative plans agreed to under the authority of this section and section 670b of this title shall not be deemed to be, nor treated as, cooperative agreements to which chapter 63 of title 31 applies.
 
 1974—Pub. L. 93–452, §§1(1), 3(2), inserted provisions requiring the cooperative plan to provide for fish and wildlife habitat improvements, range rehabilitation, and off-road vehicle traffic control.
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Review for Preparation of Integrated Natural Resources Management Plans
 

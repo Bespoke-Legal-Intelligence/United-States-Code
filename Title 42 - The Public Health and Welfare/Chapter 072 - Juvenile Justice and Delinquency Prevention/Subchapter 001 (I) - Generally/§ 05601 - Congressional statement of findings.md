@@ -86,11 +86,15 @@ Section 670 of division II (§§610–670) of chapter VI of title II of Pub. L. 
 
 #### Effective Date of 1977 Amendment
 
-Section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, §6(d)(2), Oct. 3, 1977, 91 Stat. 1058, which provided that except as otherwise provided by the Juvenile Justice Amendments of 1977 (see Short Title of 1977 Amendments note below), the amendments made by the Juvenile Justice Amendments of 1977 were to take effect on Oct. 1, 1977, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
+Section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, §6(d)(2), Oct. 3, 1977, 91 Stat. 1058, which providedthat except as otherwise provided by the Juvenile Justice Amendments of 1977 (see Short Title of 1977 Amendments note below), the amendments made by the Juvenile Justice Amendments of 1977 were to take effect on Oct. 1, 1977, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
 
 #### Effective Date
 
 Section 263(a), (b) of Pub. L. 93–415, as amended by Pub. L. 94–273, §32(a), Apr. 21, 1976, 90 Stat. 380; Pub. L. 95–115, §6(d)(1), Oct. 3, 1977, 91 Stat. 1058, which provided that (a) except as provided by subsections (b) and (c) (set out as an Effective Date of 1977 Amendment note above), the foregoing provisions of such Act (enacting subchapters I and II of this chapter and amending section 5108 of Title 5, Government Organization and Employees) were to take effect on Sept. 7, 1974, and that (b) section 5614(b)(5) and 5614(b)(6) of this title was to become effective at the close of the thirty-first day of the twelfth calendar month of 1974 and section 5614(<i>l</i>) of this title was to become effective at the close of the thirtieth day of the eleventh month of 1976, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
+
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–71, §1, Oct. 12, 1999, 113 Stat. 1032, provided that: “This Act \[enacting sections 5714–25, 5714–41, 5731a, and 5732a of this title, amending sections 5701, 5711, 5712, 5713, 5714–1 to 5714–21, 5714–23, 5714–24, 5714a to 5731, 5732, 5751 to 5773, 5775, and 5777 of this title, and enacting provisions set out as a note under section 7101 of Title 20, Education\] may be cited as the ‘Missing, Exploited, and Runaway Children Protection Act’.”
 
 #### Short Title of 1994 Amendment
 

@@ -6,7 +6,7 @@ Before any contract for the construction, alteration, or repair of any public bu
 
 &emsp;(1) A performance bond with a surety or sureties satisfactory to the officer awarding such contract, and in such amount as he shall deem adequate, for the protection of the United States.
 
-&emsp;(2) A payment bond with a surety or sureties satisfactory to such officer for the protection of all persons supplying labor and material in the prosecution of the work provided for in said contract for the use of each such person. Whenever the total amount payable by the terms of the contract shall be not more than $1,000,000 the said payment bond shall be in a sum of one-half the total amount payable by the terms of the contract. Whenever the total amount payable by the terms of the contract shall be more than $1,000,000 and not more than $5,000,000, the said payment bond shall be in a sum of 40 per centum of the total amount payable by the terms of the contract. Whenever the total amount payable by the terms of the contract shall be more than $5,000,000 the said payment bond shall be in the sum of $2,500,000.
+&emsp;(2) A payment bond with a surety or sureties satisfactory to such officer for the protection of all persons supplying labor and material in the prosecution of the work provided for in said contract for the use of each such person. The amount of the payment bond shall be equal to the total amount payable by the terms of the contract unless the contracting officer awarding the contract makes a written determination supported by specific findings that a payment bond in that amount is impractical, in which case the amount of the payment bond shall be set by the contracting officer. In no case shall the amount of the payment bond be less than the amount of the performance bond.
 
 #### (b) Waiver of bonds for contracts performed in foreign countries
 
@@ -18,11 +18,13 @@ Nothing in this section shall be construed to limit the authority of any contrac
 
 #### (d) Coverage for taxes in performance bond
 
-Every performance bond required under this section shall specifically provide coverage for taxes imposed by the United States which are collected, deducted, or withheld from wages paid by the contractor in carrying out the contract with respect to which such bond is furnished. However, the United States shall give the surety or sureties on such bond written notice, with respect to any such unpaid taxes attributable to any period, within ninety days after the date when such contractor files a return for such period, except that no such notice shall be given more than one hundred and eighty days from the date when a return for the period was required to be filed under title 26. No suit on such bond for such taxes shall be commenced by the United States unless notice is given as provided in the preceding sentence, and no such suit shall be commenced after the expiration of one year after the day on which such notice is given.
+Every performance bond required under this section shall specifically provide coverage for taxes imposed by the United States which are collected, deducted, or withheld from wages paid by the contractor in carrying out the contract with respect to which such bond is furnished. However, the United States shall give the surety or sureties on such bond written notice, with respect to any such unpaid taxes attributable to any period, within ninety days after the date when such contractor files a return for such period, except that no such notice shall be given more than one hundred and eighty days from thedate when a return for the period was required to be filed under title 26. No suit on such bond for such taxes shall be commenced by the United States unless notice is given as provided in the preceding sentence, and no such suit shall be commenced after the expiration of one year after the day on which such notice is given.
 
-(Aug. 24, 1935, ch. 642, §1, 49 Stat. 793; Pub. L. 89–719, title I, §105(b), Nov. 2, 1966, 80 Stat. 1139; Pub. L. 95–585, Nov. 2, 1978, 92 Stat. 2484; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–355, title IV, §4104(b)(1)(B), Oct. 13, 1994, 108 Stat. 3342.)
+(Aug. 24, 1935, ch. 642, §1, 49 Stat. 793; Pub. L. 89–719, title I, §105(b), Nov. 2, 1966, 80 Stat. 1139; Pub. L. 95–585, Nov. 2, 1978, 92 Stat. 2484; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–355, title IV, §4104(b)(1)(B), Oct. 13, 1994, 108 Stat. 3342; Pub. L. 106–49, §2(a), Aug. 17, 1999, 113 Stat. 231.)
 
 #### Amendments
+
+1999—Subsec. (a)(2). Pub. L. 106–49 substituted “The amount of the payment bond shall be equal to the total amount payable by the terms of the contract unless the contracting officer awarding the contract makes a written determination supported by specific findings that a payment bond in that amount is impractical, in which case the amount of the payment bond shall be set by the contracting officer. In no case shall the amount of the payment bond be less than the amount of the performance bond.” for “Whenever the total amount payable by the terms of the contract shall be not more than $1,000,000 the said payment bond shall be in a sum of one-half the total amount payable by the terms of the contract. Whenever the total amount payable by the terms of the contract shall be more than $1,000,000 and not more than $5,000,000, the said payment bond shall be in a sum of 40 per centum of the total amount payable by the terms of the contract. Whenever the total amount payable by the terms of the contract shall be more than $5,000,000 the said payment bond shall be in the sum of $2,500,000.”
 
 1994—Subsec. (a). Pub. L. 103–355 struck out “, exceeding $25,000 in amount,” after “Before any contract” in introductory provisions.
 
@@ -44,9 +46,25 @@ Amendment by Pub. L. 89–719 applicable to contract entered into pursuant to in
 
 Section 7, formerly §5, of act Aug. 24, 1935, as renumbered by Pub. L. 104–106, div. D, title XLIII, §4321(i)(8), Feb. 10, 1996, 110 Stat. 676, provided in part: “That this act \[enacting this section and sections 270b to 270d of this title\] shall take effect upon the expiration of sixty days after the date of its enactment \[Aug. 24, 1935\], but shall not apply to any contract awarded pursuant to any invitation for bids issued on or before the date it takes effect, or to any persons or bonds in respect of any such contract.”
 
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–49, §1, Aug. 17, 1999, 113 Stat. 231, provided that: “This Act \[amending this section and section 270b of this title and enacting provisions set out as a note under this section\] may be cited as the ‘Construction Industry Payment Protection Act of 1999’.”
+
 #### Short Title
 
 Section 6 of act Aug. 24, 1935, as added by Pub. L. 103–355, title X, §10005(f)(1), Oct. 13, 1994, 108 Stat. 3408, provided that: “This Act \[enacting this section, sections 270b to 270d–1 of this title, and provisions set out as a note above\] may be cited as the ‘Miller Act’.”
+
+#### Implementation Through Government-Wide Procurement Regulations
+
+Pub. L. 106–49, §3, Aug. 17, 1999, 113 Stat. 231, provided that:
+
+“(a)
+
+Proposed Regulations.—Proposed revisions to the Government-wide Federal Acquisition Regulation to implement the amendments made by this Act \[amending this section and section 270b of this title\] shall be published not later than 120 days after the date of the enactment of this Act \[Aug. 17, 1999\] and provide not less than 60 days for public comment.
+
+“(b)
+
+Final Regulations.—Final regulations shall be published not less than 180 days after the date of the enactment of this Act and shall be effective on the date that is 30 days after the date of publication.”
 
 #### Alternatives to Payment Bonds Provided by Federal Acquisition Regulation
 

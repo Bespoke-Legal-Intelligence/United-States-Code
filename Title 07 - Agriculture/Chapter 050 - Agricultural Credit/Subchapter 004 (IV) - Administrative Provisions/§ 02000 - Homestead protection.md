@@ -36,7 +36,7 @@ As used in this section:
 
 (1) To be eligible to occupy homestead property, a borrower-owner of a loan made or insured by the Secretary or the Administrator shall—
 
-&emsp;(A) apply for such occupancy not later than 30 days after the property is acquired by the Secretary or Administrator, or for property ininventory on January 6, 1988, the borrower-owner shall apply for occupancy not later than 30 days after January 6, 1988;
+&emsp;(A) apply for such occupancy not later than 30 days after the property is acquired by the Secretary or Administrator, or for property in inventory on January 6, 1988, the borrower-owner shall apply for occupancy not later than 30 days after January 6, 1988;
 
 &emsp;(B) have received from farming or ranching operations gross farm income reasonably commensurate with—
 

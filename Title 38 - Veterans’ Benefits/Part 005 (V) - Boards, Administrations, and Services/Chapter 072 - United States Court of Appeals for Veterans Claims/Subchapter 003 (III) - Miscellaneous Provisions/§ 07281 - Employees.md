@@ -12,19 +12,21 @@
 
 (f) The Court may procure the services of experts and consultants under section 3109 of title 5.
 
-(g) The Chief Judge of the Court may exercise the authority of the Court under this section whenever there are not at least two associate judges of the Court.
+(g) The chief judge of the Court may exercise the authority of the Court under this section whenever there are not at least two other judges of the Court.
 
 (h) The Court shall not be considered to be an agency within the meaning of section 3132(a)(1) of title 5.
 
 (i) The Court may accept and utilize voluntary services and uncompensated (gratuitous) services, including services as authorized by section 3102(b) of title 5 and may accept, hold, administer, and utilize gifts and bequests of personal property for the purposes of aiding or facilitating the work of the Court. Gifts or bequests of money to the Court shall be covered into the Treasury.
 
-(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4118, §4081; amended Pub. L. 101–94, title II, §204(a), Aug. 16, 1989, 103 Stat. 627; renumbered §7281, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–82, §7, Aug. 6, 1991, 105 Stat. 377; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
+(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4118, §4081; amended Pub. L. 101–94, title II, §204(a), Aug. 16, 1989, 103 Stat. 627; renumbered §7281, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–82, §7, Aug. 6, 1991, 105 Stat. 377; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 106–117, title X, §1035(1), Nov. 30, 1999, 113 Stat. 1595.)
 
 #### References in Text
 
-The provisions of title 5 governing appointment in the competitive service, referred to in subsecs. (a) to (c), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointment in the competitive service, referred to in subsecs. (a) to\(c), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1999—Subsec. (g). Pub. L. 106–117 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Chief Judge of the Court may exercise the authority of the Court under this section whenever there are not at least two associate judges of the Court.”
 
 1998—Subsec. (a). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
@@ -33,6 +35,10 @@ The provisions of title 5 governing appointment in the competitive service, refe
 Subsec. (i). Pub. L. 102–82 added subsec. (i).
 
 1989—Pub. L. 101–94 amended section generally. Prior to amendment, section read as follows: “The Court of Veterans Appeals may appoint such employees as may be necessary to execute the functions vested in the Court. Such appointments shall be made in accordance with the provisions of title 5 governing appointment in the competitive service, except that the Court may classify such positions based upon the classification of comparable positions in the judicial branch. The basic pay of such employees shall be fixed in accordance with subchapter III of chapter 53 of title 5.”
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–117 effective Nov. 30, 1999, with savings provision for incumbent chief judge, see section 1036 of Pub. L. 106–117, set out as a note under section 7253 of this title.
 
 #### Effective Date of 1998 Amendment
 

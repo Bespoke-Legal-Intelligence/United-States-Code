@@ -4,7 +4,7 @@ Whatsoever constituted authority of each of the several States is charged with t
 
 For the purposes set out in this section, the United States of America vests in the several States within whose exterior boundaries such place may be, insofar as the enforcement of State workmen's compensation laws are affected, the right, power, and authority aforesaid: <i>Provided, however</i>, That by the passage of this section the United States of America in nowise relinquishes its jurisdiction for any purpose over the property named, with the exception of extending to the several States within whose exterior boundaries such place may be only the powers above enumerated relating to the enforcement of their State workmen's compensation laws as herein designated: <i>Provided further</i>, That nothing in this section shall be construed to modify or amend subchapter I of chapter 81 of title 5.
 
-(June 25, 1936, ch. 822, §§1, 2, 49 Stat. 1938, 1939.)
+(June 25, 1936, ch. 822, 49 Stat. 1938.)
 
 #### Codification
 

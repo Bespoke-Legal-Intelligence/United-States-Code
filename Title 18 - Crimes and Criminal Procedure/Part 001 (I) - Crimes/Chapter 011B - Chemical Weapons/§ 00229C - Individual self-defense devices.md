@@ -6,5 +6,5 @@ Nothing in this chapter shall be construed to prohibit any individual self-defen
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 229D of this title.
+This section is referred to in section 229D of this title; title 22 section 6744.
 

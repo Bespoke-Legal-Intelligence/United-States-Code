@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall award grants for planning, and grants for the implementation of,professional development programs under this part.
+&emsp;The Secretary shall award grants for planning, and grants for the implementation of, professional development programs under this part.
 
 #### (2) Distribution
 

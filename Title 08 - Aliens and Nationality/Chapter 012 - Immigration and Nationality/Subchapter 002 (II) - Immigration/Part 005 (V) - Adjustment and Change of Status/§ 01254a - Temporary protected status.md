@@ -32,7 +32,7 @@
 
 #### (5) Clarification
 
-&emsp;Nothing in this section shall be construed as authorizing the Attorney General to denytemporary protected status to an alien based on the alien's immigration status or to require any alien, as a condition of being granted such status, either to relinquish nonimmigrant or other status the alien may have or to execute any waiver of other rights under this chapter. The granting of temporary protected status under this section shall not be considered to be inconsistent with the granting of nonimmigrant status under this chapter.
+&emsp;Nothing in this section shall be construed as authorizing the Attorney General to deny temporary protected status to an alien based on the alien's immigration status or to require any alien, as a condition of being granted such status, either to relinquish nonimmigrant or other status the alien may have or to execute any waiver of other rights under this chapter. The granting of temporary protected status under this section shall not be considered to be inconsistent with the granting of nonimmigrant status under this chapter.
 
 #### (b) Designations
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(iii) the foreign state officially has requested designation under this subparagraph; or
 
-&emsp;&emsp;(C) the Attorney General finds that there exist extraordinary and temporary conditions in the foreign state that prevent aliens who are nationals of the state from returning to the state in safety, unless the Attorney General finds that permitting the aliens to remain temporarily in the United States is contrary to the national interest of the United States.
+&emsp;&emsp;(C) the Attorney General finds that there exist extraordinary and temporary conditions in the foreign state that prevent alienswho are nationals of the state from returning to the state in safety, unless the Attorney General finds that permitting the aliens to remain temporarily in the United States is contrary to the national interest of the United States.
 
 > &emsp;A designation of a foreign state (or part of such foreign state) under this paragraph shall not become effective unless notice of the designation (including a statement of the findings under this paragraph and the effective date of the designation) is published in the Federal Register. In such notice, the Attorney General shall also state an estimate of the number of nationals of the foreign state designated who are (or within the effective period of the designation are likely to become) eligible for temporary protected status under this section and their immigration status in the United States.
 
@@ -156,7 +156,7 @@
 
 #### (5) Construction
 
-&emsp;Nothing in this section shall be construed as authorizing an alien to apply for admission to,or to be admitted to, the United States in order to apply for temporary protected status under this section.
+&emsp;Nothing in this section shall be construed as authorizing an alien to apply for admission to, or to be admitted to, the United States in order to apply for temporary protected status under this section.
 
 #### (6) Confidentiality of information
 
@@ -310,7 +310,7 @@ Section 304(c) of Pub. L. 102–232, as amended by Pub. L. 104–208, div. C, ti
 
 &emsp;“(A) the alien shall be inspected and admitted in the same immigration status the alien had at the time of departure if—
 
-&emsp;&emsp;“(i) in the case of an alien described in paragraph (2)(A), the alien is found not to be excludable on aground of exclusion referred to in section 301(a)(1) of the Immigration Act of 1990 \[Pub. L. 101–649, set out as a note under section 1255a of this title\], or
+&emsp;&emsp;“(i) in the case of an alien described in paragraph (2)(A), the alien is found not to be excludable on a ground of exclusion referred to in section 301(a)(1) of the Immigration Act of 1990 \[Pub. L. 101–649, set out as a note under section 1255a of this title\], or
 
 &emsp;&emsp;“(ii) in the case of an alien described in paragraph (2)(B), the alien is found not to be excludable on a ground of exclusion referred to in section 244(c)(2)(A)(iii) of the Immigration and Nationality Act \[8 U.S.C. 1254a(c)(2)(A)(iii)\]; and
 

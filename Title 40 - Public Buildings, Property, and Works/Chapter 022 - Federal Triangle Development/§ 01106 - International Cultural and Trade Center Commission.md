@@ -46,7 +46,7 @@ The duties of the Commission are as follows:
 
 #### (A) General rule
 
-&emsp;&emsp;Except as provided in subparagraph (B), the terms of office of the private sectorMembers <sup>1</sup> first taking office shall begin on August 21, 1987, and shall expire as designated at the time of appointment, two at the end of two years, two at the end of four years, and two at the end of six years.
+&emsp;&emsp;Except as provided in subparagraph (B), the terms of office of the private sector Members <sup>1</sup> first taking office shall begin on August 21, 1987, and shall expire as designated at the time of appointment, two at the end of two years, two at the end of four years, and two at the end of six years.
 
 #### (B) Filling a vacancy
 
@@ -170,7 +170,7 @@ Subsecs. (d)(3), (e). Pub. L. 105–277, §1335(h)(3), which directed the amendm
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to the reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of Title 22.
+Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of Title 22, Foreign Relations and Intercourse.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

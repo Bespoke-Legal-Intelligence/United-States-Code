@@ -58,7 +58,7 @@ In subsection (b), the words “withdrawal or restoration” are substituted for
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–510 applicable to any appropriation account the obligated balance of which, on Nov. 5, 1990, has not been transferred under section 1552(a)(1) of this title, as in effect Nov. 4, 1990, withtransitional provisions, see section 1405(b) of Pub. L. 101–510, set out as a note under section 1551 of this title.
+Amendment by Pub. L. 101–510 applicable to any appropriation account the obligated balance of which, on Nov. 5, 1990, has not been transferred under section 1552(a)(1) of this title, as in effect Nov. 4, 1990, with transitional provisions, see section 1405(b) of Pub. L. 101–510, set out as a note under section 1551 of this title.
 
 #### Reporting Requirement Regarding Effect of Certain Payments and Adjustments on Federal Deficit
 

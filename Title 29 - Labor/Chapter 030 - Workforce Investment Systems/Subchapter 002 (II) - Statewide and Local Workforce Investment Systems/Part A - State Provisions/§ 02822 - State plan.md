@@ -36,7 +36,7 @@ The State plan shall include—
 
 &emsp;&emsp;(ii) other activities authorized under this chapter;
 
-&emsp;&emsp;(iii) programs authorized under the Wagner-Peyser Act (29 U.S.C. 49 et seq.), title II of this Act \[20 U.S.C. 9201 et seq.\], title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.), part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), and section 6(d)(4) of the Food Stamp Act of 1977 (7 U.S.C. 2015(d)(4)), activities authorized under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.), and postsecondary vocational education activities authorized under the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.);
+&emsp;&emsp;(iii) programs authorized under the Wagner-Peyser Act (29 U.S.C. 49 et seq.), title II of this Act \[20 U.S.C. 9201 et seq.\], title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.), part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), and section 6(d)(4) of the Food Stamp Act of 1977 (7 U.S.C. 2015(d)(4)), activities authorized under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.), and postsecondary vocational education activities authorized underthe Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.);
 
 &emsp;&emsp;(iv) work programs authorized under section 6(<i>o</i>) of the Food Stamp Act of 1977 (7 U.S.C. 2015(<i>o</i>));
 
@@ -142,5 +142,5 @@ The National and Community Service Act of 1990, referred to in subsec. (b)(8)(A)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 49g, 721, 2821, 2831, 2851, 2861, 2871, 2944 of this title; title 19 section 2311; title 20 section 2342; title 38 section 4110b; title 42 section 3056.
+This section is referred to in sections 49g, 721, 2821, 2831, 2851, 2861, 2871, 2944 of this title; title 19 section 2311; title 20 section 2342; title 38 section 4110B; title 42 section 3056.
 

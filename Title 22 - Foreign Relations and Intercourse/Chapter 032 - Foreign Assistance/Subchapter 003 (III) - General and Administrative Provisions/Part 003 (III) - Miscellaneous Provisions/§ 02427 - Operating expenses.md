@@ -6,7 +6,7 @@ There are authorized to be appropriated to the President, in addition to funds o
 
 &emsp;(1) $387,000,000 for fiscal year 1986 and $387,000,000 for fiscal year 1987 for necessary operating expenses of the agency primarily responsible for administering subchapter I of this chapter, of which $21,750,000 for the fiscal year 1987 is authorized for the necessary operating expenses of the Office of the Inspector General of the Agency for International Development and the remaining amount for the fiscal year is authorized for other necessary operating expenses of that agency; and
 
-&emsp;(2) such amounts as may be necessary for increases in salary, pay, retirement, and otheremployee benefits authorized by law, and for other nondiscretionary costs of such agency.
+&emsp;(2) such amounts as may be necessary for increases in salary, pay, retirement, and other employee benefits authorized by law, and for other nondiscretionary costs of such agency.
 
 #### (b) Continuing availability of funds
 
@@ -45,6 +45,10 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

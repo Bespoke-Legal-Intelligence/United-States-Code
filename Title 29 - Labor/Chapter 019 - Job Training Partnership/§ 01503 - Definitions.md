@@ -26,7 +26,7 @@ For the purposes of this chapter, the following definitions apply:
 
 &emsp;(9) The term “Governor” means the chief executive of any State.
 
-&emsp;(10)(A) The term “individual with a disability” means any individual who has a physical or mental disability which for such individual constitutes or results in a substantial handicap to employment.
+&emsp;(10)(A) The term “individual with a disability” means any individual who has a physicalor mental disability which for such individual constitutes or results in a substantial handicap to employment.
 
 &emsp;(B) The term “individuals with disabilities” means more than one individual with a disability.
 
@@ -72,7 +72,7 @@ For the purposes of this chapter, the following definitions apply:
 
 &emsp;(28) The term “vocational education” has the meaning provided in section 521(41) of the Carl D. Perkins Vocational <sup>4</sup> Education Act \[20 U.S.C. 2471(41)\].
 
-&emsp;(29) The term “displaced homemaker” means an individual who has been providing unpaid services to family members in the home and who—
+&emsp;(29) The term “displaced homemaker” means an individual who has been providing unpaidservices to family members in the home and who—
 
 &emsp;&emsp;(A) has been dependent either—
 

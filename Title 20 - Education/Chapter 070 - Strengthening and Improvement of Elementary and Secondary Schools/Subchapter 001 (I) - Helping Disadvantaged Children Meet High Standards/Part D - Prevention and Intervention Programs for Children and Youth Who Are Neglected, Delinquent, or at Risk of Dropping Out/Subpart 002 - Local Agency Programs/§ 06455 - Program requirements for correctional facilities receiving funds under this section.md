@@ -10,7 +10,7 @@ Each correctional facility entering into an agreement with a local educational a
 
 &emsp;(4) provide support programs which encourage youth who have dropped out to reenter school once their term has been completed or provide such youth with the skills necessary for such youth to gain employment or seek a secondary school diploma or its recognized equivalent;
 
-&emsp;(5) work to ensure such facilities are staffed with teachers and other qualified staff who aretrained to work with children with disabilities and other students with special needs taking into consideration the unique needs of such children and students;
+&emsp;(5) work to ensure such facilities are staffed with teachers and other qualified staff who are trained to work with children with disabilities and other students with special needs taking into consideration the unique needs of such children and students;
 
 &emsp;(6) ensure educational programs in correctional facilities are related to assisting students meet high educational standards;
 

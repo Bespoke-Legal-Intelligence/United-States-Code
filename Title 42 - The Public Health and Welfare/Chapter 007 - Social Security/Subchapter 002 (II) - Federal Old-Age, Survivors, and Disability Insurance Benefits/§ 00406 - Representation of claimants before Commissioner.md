@@ -42,7 +42,7 @@
 
 &emsp;(ii) the person representing the claimant submits a written request to the Commissioner of Social Security to increase the maximum fee.
 
-> Any such review shall be conducted after providing the claimant, the person representing the claimant, and the adjudicator with reasonable notice of such request and an opportunity to submit written information in favor of or in opposition to such request. The adjudicator may request the Commissioner of Social Security to reduce the maximum fee only on the basis of evidence of the failure of the person representing the claimant to represent adequately the claimant's interest or on the basis of evidence that the fee is clearly excessive for services rendered.
+> Any such review shall be conducted after providing the claimant, the person representing theclaimant, and the adjudicator with reasonable notice of such request and an opportunity to submit written information in favor of or in opposition to such request. The adjudicator may request the Commissioner of Social Security to reduce the maximum fee only on the basis of evidence of the failure of the person representing the claimant to represent adequately the claimant's interest or on the basis of evidence that the fee is clearly excessive for services rendered.
 
 (B)(i) In the case of a request for review under subparagraph (A) by the claimant or by the person representing the claimant, such review shall be conducted by the administrative law judge who made the favorable determination or, if the Commissioner of Social Security determines that such administrative law judge is unavailable or if the determination was not made by an administrative law judge, such review shall be conducted by another person designated by the Commissioner of Social Security for such purpose.
 
@@ -50,15 +50,13 @@
 
 (C) Upon completion of the review, the administrative law judge or other person conducting the review shall affirm or modify the amount which would otherwise be the maximum fee. Any such amount so affirmed or modified shall be considered the amount of the maximum fee which may be recovered under paragraph (2). The decision of the administrative law judge or other person conducting the review shall not be subject to further review.
 
-(4)(A) Subject to subparagraph (B), if the claimant is determined to be entitled to past-due benefits under this subchapter and the person representing the claimant is an attorney, the Commissioner of Social Security shall, notwithstanding section 405(i) of this title, certify for payment out of such past-due benefits (as determined before any applicable reduction under section 1320a–6(a) of this title) to such attorney an amount equal to so much of the maximum fee as does not exceed 25 percent of such past-due benefits (as determined before any applicable reduction under section 1320a–6(a) of this title).
-
-(B) The Commissioner of Social Security shall not in any case certify any amount for paymentto the attorney pursuant to this paragraph before the expiration of the 15-day period referred to in paragraph (3)(A) or, in the case of any review conducted under paragraph (3), before the completion of such review.
+(4) Subject to subsection (d) of this section, if the claimant is determined to be entitled to past-due benefits under this subchapter and the person representing the claimant is an attorney, the Commissioner of Social Security shall, notwithstanding section 405(i) of this title, certify for payment out of such past-due benefits (as determined before any applicable reduction under section 1320a–6(a) of this title) to such attorney an amount equal to so much of the maximum fee as does not exceed 25 percent of such past-due benefits (as determined before any applicable reduction under section 1320a–6(a) of this title).
 
 (5) Any person who shall, with intent to defraud, in any manner willfully and knowingly deceive, mislead, or threaten any claimant or prospective claimant or beneficiary under this subchapter by word, circular, letter or advertisement, or who shall knowingly charge or collect directly or indirectly any fee in excess of the maximum fee, or make any agreement directly or indirectly to charge or collect any fee in excess of the maximum fee, prescribed by the Commissioner of Social Security shall be deemed guilty of a misdemeanor and, upon conviction thereof, shall for each offense be punished by a fine not exceeding $500 or by imprisonment not exceeding one year, or both. The Commissioner of Social Security shall maintain in the electronic information retrieval system used by the Social Security Administration a current record, with respect to any claimant before the Commissioner of Social Security, of the identity of any person representing such claimant in accordance with this subsection.
 
 #### (b) Fees for representation before court
 
-(1)(A) Whenever a court renders a judgment favorable to a claimant under this subchapter who was represented before the court by an attorney, the court may determine and allow as part of its judgment a reasonable fee for such representation, not in excess of 25 percent of the total of the past-due benefits to which the claimant is entitled by reason of such judgment, and the Commissioner of Social Security may, notwithstanding the provisions of section 405(i) of this title, certify the amount of such fee for payment to such attorney out of, and not in addition to, the amount of such past-due benefits. In case of any such judgment, no other fee may be payable or certified for payment for such representation except as provided in this paragraph.
+(1)(A) Whenever a court renders a judgment favorable to a claimant under this subchapter who was represented before the court by an attorney, the court may determine and allow as part of its judgment a reasonable fee for such representation, not in excess of 25 percent of the total of the past-due benefits to which the claimant is entitled by reason of such judgment, and the Commissioner of Social Security may, notwithstanding the provisions of section 405(i) of this title, but subject to subsection (d) of this section, certify the amount of such fee for payment to such attorney out of, and not in addition to, the amount of such past-due benefits. In case of any such judgment, no other fee may be payable or certified for payment for such representation except as provided in this paragraph.
 
 (B) For purposes of this paragraph—
 
@@ -72,9 +70,47 @@
 
 The Commissioner of Social Security shall notify each claimant in writing, together with the notice to such claimant of an adverse determination, of the options for obtaining attorneys to represent individuals in presenting their cases before the Commissioner of Social Security. Such notification shall also advise the claimant of the availability to qualifying claimants of legal services organizations which provide legal services free of charge.
 
-(Aug. 14, 1935, ch. 531, title II, §206, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1372; Aug. 28, 1950, ch. 809, title I, §109(b)(1), 64 Stat. 523; Pub. L. 85–840, title III, §309, Aug. 28, 1958, 72 Stat. 1034; Pub. L. 89–97, title III, §332, July 30, 1965, 79 Stat. 403; Pub. L. 90–248, title I, §173, Jan. 2, 1968, 81 Stat. 877; Pub. L. 101–239, title X, §10307(a)(1), (b)(1), Dec. 19, 1989, 103 Stat. 2484, 2485; Pub. L. 98–369, title VI, §2663(<i>l</i>)(1), July 18, 1984, 98 Stat. 1171; Pub. L. 101–508, title V, §5106(a)(1), Nov. 5, 1990, 104 Stat. 1388–266; Pub. L. 103–296, title I, §107(a)(4), title III, §321(f)(3)(B)(i), (4), Aug. 15, 1994, 108 Stat. 1478, 1541, 1542.)
+#### (d) Assessment on attorneys
+
+#### (1) In general
+
+&emsp;Whenever a fee for services is required to be certified for payment to an attorney from a claimant's past-due benefits pursuant to subsection (a)(4) or (b)(1) of this section, the Commissioner shall impose on the attorney an assessment calculated in accordance with paragraph (2).
+
+#### (2) Amount
+
+&emsp;(A) The amount of an assessment under paragraph (1) shall be equal to the product obtained by multiplying the amount of the representative's fee that would be required to be so certified by subsection (a)(4) or (b)(1) of this section before the application of this subsection, by the percentage specified in subparagraph (B).
+
+&emsp;(B) The percentage specified in this subparagraph is—
+
+&emsp;&emsp;(i) for calendar years before 2001, 6.3 percent, and
+
+&emsp;&emsp;(ii) for calendar years after 2000, such percentage rate as the Commissioner determines is necessary in order to achieve full recovery of the costs of determining and certifying fees to attorneys from the past-due benefits of claimants, but not in excess of 6.3 percent.
+
+#### (3) Collection
+
+&emsp;The Commissioner may collect the assessment imposed on an attorney under paragraph (1) by offset from the amount of the fee otherwise required by subsection (a)(4) or (b)(1) of this section to be certified for payment to the attorney from a claimant's past-due benefits.
+
+#### (4) Prohibition on claimant reimbursement
+
+&emsp;An attorney subject to an assessment under paragraph (1) may not, directly or indirectly, request or otherwise obtain reimbursement for such assessment from the claimant whose claim gave rise to the assessment.
+
+#### (5) Disposition of assessments
+
+&emsp;Assessments on attorneys collected under this subsection shall be credited to the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, as appropriate.
+
+#### (6) Authorization of appropriations
+
+&emsp;The assessments authorized under this section shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Amounts so appropriated are authorized to remain available until expended, for administrative expenses in carrying out this subchapter and related laws.
+
+(Aug. 14, 1935, ch. 531, title II, §206, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1372; Aug. 28, 1950, ch. 809, title I, §109(b)(1), 64 Stat. 523; Pub. L. 85–840, title III, §309, Aug. 28, 1958, 72 Stat. 1034; Pub. L. 89–97, title III, §332, July 30, 1965, 79 Stat. 403; Pub. L. 90–248, title I, §173, Jan. 2, 1968, 81 Stat. 877; Pub. L. 101–239, title X, §10307(a)(1), (b)(1), Dec. 19, 1989, 103 Stat. 2484, 2485; Pub. L. 98–369, title VI, §2663(<i>l</i>)(1), July 18, 1984, 98 Stat. 1171; Pub. L. 101–508, title V, §5106(a)(1), Nov. 5, 1990, 104 Stat. 1388–266; Pub. L. 103–296, title I, §107(a)(4), title III, §321(f)(3)(B)(i), (4), Aug. 15, 1994, 108 Stat. 1478, 1541, 1542; Pub. L. 106–170, title IV, §406(a), (b), Dec. 17, 1999, 113 Stat. 1911, 1912.)
 
 #### Amendments
+
+1999—Subsec. (a)(4). Pub. L. 106–170, §406(a)(2)(A), (b), struck out “(A)” after “(4)”, substituted “subsection (d) of this section” for “subparagraph (B)”, and struck out subpar. (B) which read as follows: “The Commissioner of Social Security shall not in any case certify any amount for payment to the attorney pursuant to this paragraph before the expiration of the 15-day period referred to in paragraph (3)(A) or, in the case of any review conducted under paragraph (3), before the completion of such review.”
+
+Subsec. (b)(1)(A). Pub. L. 106–170, §406(a)(2)(B), inserted “, but subject to subsection (d) of this section” after “section 405(i) of this title”.
+
+Subsec. (d). Pub. L. 106–170, §406(a)(1), added subsec. (d).
 
 1994—Subsec. (a)(1), (2)(A). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing, “before the Commissioner” for “before him” in two places, “Commissioner's” for “Secretary's” in two places, and “the Commissioner shall, if the” for “he shall, if the” in par. (1).
 
@@ -100,7 +136,7 @@ Subsec. (c). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Soci
 
 1990—Subsec. (a). Pub. L. 101–508 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2)(A), whenever” for “Whenever” in fifth sentence, substituted pars. (2) to (4) for “If as a result of such determination, such claimant is entitled to past-due benefits under this subchapter, the Secretary shall, notwithstanding section 405(i) of this title, certify for payment (out of such past-due benefits) to such attorney an amount equal to whichever of the following is the smaller: (A) 25 per centum of the total amount of such past-due benefits, (B) the amount of the attorney's fee so fixed, or (C) the amount agreed upon between the claimant and such attorney as the fee for such attorney's services.”, and inserted “(5)” before “Any person who”.
 
-1989—Subsec. (a). Pub. L. 101–239, §10307(a)(1), inserted at end “The Secretary shall maintain in the electronic information retrieval system used by the Social Security Administration a current record, with respect to any claimant before the Secretary, of the identity ofany person representing such claimant in accordance with this subsection.”
+1989—Subsec. (a). Pub. L. 101–239, §10307(a)(1), inserted at end “The Secretary shall maintain in the electronic information retrieval system used by the Social Security Administration a current record, with respect to any claimant before the Secretary, of the identity of any person representing such claimant in accordance with this subsection.”
 
 Subsec. (c). Pub. L. 101–239, §10307(b)(1), added subsec. (c).
 
@@ -115,6 +151,14 @@ Subsec. (c). Pub. L. 101–239, §10307(b)(1), added subsec. (c).
 1950—Act Aug. 28, 1950, substituted “Administrator” for “Board” and “Administrator's” for “Board's”.
 
 1939—Act Aug. 10, 1939, substituted the provisions of this section for former provisions relating to overpayments during life, now covered by section 404 of this title.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–170, title IV, §406(d), Dec. 17, 1999, 113 Stat. 1913, provided that: “The amendments made by this section \[amending this section and enacting provisions set out as a note under this section\] shall apply in the case of any attorney with respect to whom a fee for services is required to be certified for payment from a claimant's past-due benefits pursuant to subsection (a)(4) or (b)(1) of section 206 of the Social Security Act \[this section\] after the later of—
+
+&emsp;“(1) December 31, 1999, or
+
+&emsp;“(2) the last day of the first month beginning after the month in which this Act is enacted \[Dec. 1999\].”
 
 #### Effective Date of 1994 Amendment
 
@@ -135,6 +179,32 @@ Section 10307(b)(3) of Pub. L. 101–239 provided that: “The amendments made b
 #### Effective Date of 1939 Amendment
 
 Section 201 of act Aug. 10, 1939, provided that the amendment made by that section is effective Jan. 1, 1940.
+
+#### GAO Study and Report
+
+Pub. L. 106–170, title IV, §406(c), Dec. 17, 1999, 113 Stat. 1912, provided that:
+
+“(1)
+
+Study.—The Comptroller General of the United States shall conduct a study that—
+
+&emsp;“(A) examines the costs incurred by the Social Security Administration in administering the provisions of subsection (a)(4) and (b)(1) of section 206 of the Social Security Act (42 U.S.C. 406) and itemizes the components of such costs, including the costs of determining fees to attorneys from the past-due benefits of claimants before the Commissioner of Social Security and of certifying such fees;
+
+&emsp;“(B) identifies efficiencies that the Social Security Administration could implement to reduce such costs;
+
+&emsp;“(C) examines the feasibility and advisability of linking the payment of, or the amount of, the assessment under section 206(d) of the Social Security Act (42 U.S.C. 406(d)) to the timeliness of the payment of the fee to the attorney as certified by the Commissioner of Social Security pursuant to subsection (a)(4) or (b)(1) of section 206 of such Act (42 U.S.C. 406);
+
+&emsp;“(D) determines whether the provisions of subsection (a)(4) and (b)(1) of section 206 of such Act (42 U.S.C. 406) should be applied to claimants under title XVI of such Act (42 U.S.C 1381 et seq.);
+
+&emsp;“(E) determines the feasibility and advisability of stating fees under section 206(d) of such Act (42 U.S.C. 406(d)) in terms of a fixed dollar amount as opposed to a percentage;
+
+&emsp;“(F) determines whether the dollar limit specified in section 206(a)(2)(A)(ii)(II) of such Act (42 U.S.C. 406(a)(2)(A)(ii)(II)) should be raised; and
+
+&emsp;“(G) determines whether the assessment on attorneys required under section 206(d) of such Act (42 U.S.C. 406(d)) (as added by subsection (a)(1) of this section) impairs access to legal representation for claimants.
+
+“(2)
+
+Report.—Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 1999\], the Comptroller General of the United States shall submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the study conducted under paragraph (1), together with any recommendations for legislation that the Comptroller General determines to be appropriate as a result of such study.”
 
 #### Section Referred to in Other Sections
 

@@ -18,7 +18,7 @@ Amounts in the Account may be obligated by the Secretary of Energy for the acqui
 
 #### (c) Provision and deposit of funds
 
-The Secretary of the Treasury shall provide and deposit into the Account such sums as may be necessary to meet obligations of the Secretary of Energy under subsection (b) of this section.
+The Secretary of the Treasury shall provide and deposit into the Account such sums as maybe necessary to meet obligations of the Secretary of Energy under subsection (b) of this section.
 
 #### (d) Off-budgeting procedures
 
@@ -57,6 +57,10 @@ Subsec. (d). Pub. L. 99–58, §103(b)(4), inserted “, including a drawdown a
 #### Effective Date
 
 Section effective Aug. 13, 1981, see section 1038 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 6240 of this title.
+
+#### Transfer of Funds to SPR Petroleum Account for Drawdown and Sale Operations
+
+Pub. L. 106–113, div. B, §1000(a)(3) \[title II\], Nov. 29, 1999, 113 Stat. 1535, 1501A–180, provided in part: “That the Secretary of Energy hereafter may transfer to the SPR Petroleum Account such funds as may be necessary to carry out drawdown and sale operations of the Strategic Petroleum Reserve initiated under section 161 of the Energy Policy and Conservation Act (42 U.S.C. 6241) from any funds available to the Department of Energy under this or any other Act: <i>Provided further</i>, That all funds transferred pursuant to this authority must be replenished as promptly as possible from oil sale receipts pursuant to the drawdown and sale.”
 
 #### Acquisition, Transportation, and Injection of Petroleum Products for SPR; Applicability of Subsec. (d)
 

@@ -15,10 +15,13 @@
 | [50a.](%C2%A7%2000050a%20-%20Chief%20of%20Staff.md) | Chief of Staff. |
 | [51\.](%C2%A7%2000051%20-%20Retirement.md) | Retirement. |
 | [52\.](%C2%A7%2000052%20-%20Vice%20admirals%2C%20continuity%20of%20grade.md) | Vice admirals, continuity of grade. |
+| [53\.](%C2%A7%2000053%20-%20Office%20of%20the%20Coast%20Guard%20Reserve%3B%20Director.md) | Office of the Coast Guard Reserve; Director. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title V, §557(b), Oct. 5, 1999, 113 Stat. 620, added item 53.
 
 1993—Pub. L. 103–206, title II, §§204(b)(2), 205(b)(2), Dec. 20, 1993, 107 Stat. 2421, 2422, struck out “; retirement” after “assignment” in item 47 and added item 50a.
 
@@ -28,7 +31,7 @@
 
 1963—Pub. L. 88–130, §1(7), Sept. 24, 1963, 77 Stat. 175, added item 41a and struck out item 43.
 
-1960—Pub. L. 86–474, §1(8), May 14, 1960, 74 Stat. 145, substituted “Assistant Commandant; assignment; retirement” for “Assistant Commandant and Engineer inChief; appointment” in item 47 and struck out items 45, 48, and 49.
+1960—Pub. L. 86–474, §1(8), May 14, 1960, 74 Stat. 145, substituted “Assistant Commandant; assignment; retirement” for “Assistant Commandant and Engineer in Chief; appointment” in item 47 and struck out items 45, 48, and 49.
 
 
 ---
@@ -48,3 +51,4 @@
 - [&sect; 00050a - Chief of Staff](%C2%A7%2000050a%20-%20Chief%20of%20Staff.md)
 - [&sect; 00051 - Retirement](%C2%A7%2000051%20-%20Retirement.md)
 - [&sect; 00052 - Vice admirals, continuity of grade](%C2%A7%2000052%20-%20Vice%20admirals%2C%20continuity%20of%20grade.md)
+- [&sect; 00053 - Office of the Coast Guard Reserve; Director](%C2%A7%2000053%20-%20Office%20of%20the%20Coast%20Guard%20Reserve%3B%20Director.md)

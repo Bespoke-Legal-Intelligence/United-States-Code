@@ -18,7 +18,7 @@
 
 &emsp;(3) third, in payment of any allowed unsecured claim proof of which is tardily filed under section 501(a) of this title, other than a claim of the kind specified in paragraph (2)(C) of this subsection;
 
-&emsp;(4) fourth, in payment of any allowed claim, whether secured or unsecured, for any fine, penalty, or forfeiture, or for multiple, exemplary, or punitive damages, arising before theearlier of the order for relief or the appointment of a trustee, to the extent that such fine, penalty, forfeiture, or damages are not compensation for actual pecuniary loss suffered by the holder of such claim;
+&emsp;(4) fourth, in payment of any allowed claim, whether secured or unsecured, for any fine, penalty, or forfeiture, or for multiple, exemplary, or punitive damages, arising before the earlier of the order for relief or the appointment of a trustee, to the extent that such fine, penalty, forfeiture, or damages are not compensation for actual pecuniary loss suffered by the holder of such claim;
 
 &emsp;(5) fifth, in payment of interest at the legal rate from the date of the filing of the petition, on any claim paid under paragraph (1), (2), (3), or (4) of this subsection; and
 
@@ -64,7 +64,7 @@ This section also specifies that interest accrued on all claims (including prior
 
 Any surplus is paid to the debtor under paragraph (6).
 
-Subsection (b) follows current law. It specifies that claims within a particular class are to be paid pro rata. This provision will apply, of course, only when there are inadequate funds to pay the holders of claims of a particular class in full. The exception found in the section, which also follows current law, specifies that liquidation administrative expenses are to be paid aheadof reorganization administrative expenses if the case has been converted from a reorganization case to a liquidation case, or from an individual repayment plan case to a liquidation case.
+Subsection (b) follows current law. It specifies that claims within a particular class are to be paid pro rata. This provision will apply, of course, only when there are inadequate funds to pay the holders of claims of a particular class in full. The exception found in the section, which also follows current law, specifies that liquidation administrative expenses are to be paid ahead of reorganization administrative expenses if the case has been converted from a reorganization case to a liquidation case, or from an individual repayment plan case to a liquidation case.
 
 Subsection (c) governs distributions in cases in which there is community property and other property of the estate. The section requires the two kinds of property to be segregated. The distribution is as follows: First, administrative expenses are to be paid, as the court determines on any reasonable equitable basis, from both kinds of property. The court will divide administrative expenses according to such factors as the amount of each kind of property in the estate, the cost of preservation and liquidation of each kind of property, and whether any particular administrative expenses are attributable to one kind of property or the other. Second, claims are to be paid as provided under subsection (a) (the normal liquidation case distribution rules) in the following order and manner: First, community claims against the debtor or the debtor's spouse are paid from community property, except such as is liable solely for the debts of the debtor.
 

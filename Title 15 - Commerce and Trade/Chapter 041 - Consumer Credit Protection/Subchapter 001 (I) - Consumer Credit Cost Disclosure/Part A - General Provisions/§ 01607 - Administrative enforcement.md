@@ -22,7 +22,7 @@ Compliance with the requirements imposed under this subchapter shall be enforced
 
 &emsp;(6) the Farm Credit Act of 1971 \[12 U.S.C. 2001 et seq.\] by the Farm Credit Administration with respect to any Federal land bank, Federal land bank association, Federal intermediate credit bank, or production credit association.
 
-> The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined insection 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
+> The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
 
 #### (b) Violations of this subchapter deemed violations of pre-existing statutory requirements; additional agency powers
 
@@ -54,7 +54,7 @@ The authority of the Board to issue regulations under this subchapter does not i
 
 (3) Notwithstanding paragraph (2), no adjustment shall be ordered—
 
-&emsp;(A) if it would have a significantly adverse impact upon the safety or soundness of the creditor, but in any such case, the agency may—
+&emsp;(A) if it would have a significantly adverse impact upon the safety or soundness of thecreditor, but in any such case, the agency may—
 
 &emsp;&emsp;(i) require a partial adjustment in an amount which does not have such an impact; or
 
@@ -86,7 +86,7 @@ The authority of the Board to issue regulations under this subchapter does not i
 
 Section 25(a) of the Federal Reserve Act, referred to in subsec. (a)(1)(B), which is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281. Section 25 of the Federal Reserve Act is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12.
 
-The Federal Credit Union Act, referred to in subsec. (a)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14\(§1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (a)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
 The Packers and Stockyards Act, 1921, referred to in subsec. (a)(5), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, as amended, which is classified to chapter 9 (§181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 

@@ -14,11 +14,11 @@ Notwithstanding any other provision of this chapter (and under regulations presc
 
 An application for exemption filed by an employer (or a partner) under subsection (a)(1) or by an employee under subsection (a)(2) shall be approved only if—
 
-&emsp;(1) such application contains or is accompanied by the evidence described in section1402(g)(1)(A) and a waiver described in section 1402(g)(1)(B),
+&emsp;(1) such application contains or is accompanied by the evidence described in section 1402(g)(1)(A) and a waiver described in section 1402(g)(1)(B),
 
 &emsp;(2) the Commissioner of Social Security makes the findings (with respect to such sect or division) described in section 1402(g)(1)(C), (D), and (E), and
 
-&emsp;(3) no benefit or other payment referred to in section 1402(g)(1)(B) became payable (or, but for section 203 or 222(b) of the Social Security Act, would have become payable) to the individual filing the application at or before the time of such filing.
+&emsp;(3) no benefit or other payment referred to in section 1402(g)(1)(B) became payable (or, but for section 203 or 222(b) <sup>1</sup> of the Social Security Act, would have become payable) to the individual filing the application at or before the time of such filing.
 
 #### (c) Effective period of exemption
 
@@ -32,7 +32,7 @@ An exemption granted under this section to any employer with respect to wages pa
 
 #### References in Text
 
-Sections 203 and 222(b) of the Social Security Act, referred to in subsec. (b)(3), are classified to sections 403 and 422(b), respectively, of Title 42, The Public Health and Welfare.
+Sections 203 and 222(b) of the Social Security Act, referred to in subsec. (b)(3), are classified to sections 403 and 422(b), respectively, of Title 42, The Public Health and Welfare. Section 222(b) was repealed by Pub. L. 106–170, title I, §101(b)(1)(C), Dec. 17, 1999, 113 Stat. 1873.
 
 #### Prior Provisions
 
@@ -69,4 +69,6 @@ Section applicable to wages paid after Dec. 31, 1988, see section 8007(d) of Pub
 #### Section Referred to in Other Sections
 
 This section is referred to in title 42 section 402.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -40,7 +40,7 @@ Section 2529 of Pub. L. 97–35 provided that:
 
 “(a) Subject to subsection (b), the amendments made by this subtitle \[subtitle B (§§2521–2529) of title XXV of Pub. L. 97–35, enacting section 2355 of this title, amending this section and sections 2344 to 2347 of this title, and repealing section 2353 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\].
 
-“(b) Applications for adjustment assistance under chapter 3 of title II of the Trade Act of 1974 \[this part\] which the Secretary of Commerce accepted for processing before the date of the enactment of this Act \[Aug. 13, 1981\] shall continue to be processed in accordance with the requirements of such chapter as in effect before such date of enactment.”
+“(b) Applications for adjustment assistance under chapter 3 of title II of the Trade Act of 1974 \[this part\]which the Secretary of Commerce accepted for processing before the date of the enactment of this Act \[Aug. 13, 1981\] shall continue to be processed in accordance with the requirements of such chapter as in effect before such date of enactment.”
 
 #### Section Referred to in Other Sections
 

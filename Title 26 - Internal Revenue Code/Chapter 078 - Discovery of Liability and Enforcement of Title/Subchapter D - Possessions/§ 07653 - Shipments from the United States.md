@@ -8,7 +8,7 @@
 
 #### (2) Virgin Islands
 
-&emsp;There shall be imposed in the Virgin Islands upon articles imported from the United States a tax equal to the internal revenue tax imposed in such islands upon like articles there manufactured.
+&emsp;There shall be imposed in the Virgin Islands upon articles imported from the United Statesa tax equal to the internal revenue tax imposed in such islands upon like articles there manufactured.
 
 #### (b) Exemption from tax imposed in the United States
 

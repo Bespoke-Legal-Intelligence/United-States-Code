@@ -30,6 +30,8 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, §1611(a) (less “nonprofit”), (
 
 36:5501(a) (related to private), (b)(1).
 
+&nbsp;
+
 Subsection (a) is substituted for the source provision for consistency in the revised title.
 
 In subsection (b), the words “is not” are substituted for “shall not be considered to be” for clarity and to eliminate unnecessary words.

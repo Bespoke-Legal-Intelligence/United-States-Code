@@ -30,7 +30,7 @@ Funds made available for adult education and literacy activities under this part
 
 #### (4) Waiver
 
-&emsp;The Secretary may waive the requirements of this subsection for 1 fiscal year only, if the Secretary determines that a waiver would be equitable due to exceptional or uncontrollable circumstances, such as a natural disaster or an unforeseen and precipitous decline in the financial resources of the State or outlying area of the eligible agency. If the Secretary grants a waiver under the preceding sentence for a fiscal year, the level of effort required under paragraph (1) shall not be reduced in the subsequent fiscal year because of the waiver.
+&emsp;The Secretary may waive the requirements of this subsection for 1 fiscal year only, if theSecretary determines that a waiver would be equitable due to exceptional or uncontrollable circumstances, such as a natural disaster or an unforeseen and precipitous decline in the financial resources of the State or outlying area of the eligible agency. If the Secretary grants a waiver under the preceding sentence for a fiscal year, the level of effort required under paragraph (1) shall not be reduced in the subsequent fiscal year because of the waiver.
 
 (Pub. L. 105–220, title II, §241, Aug. 7, 1998, 112 Stat. 1072.)
 

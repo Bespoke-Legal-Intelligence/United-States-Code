@@ -30,7 +30,7 @@ The civil-service laws, referred to in text, are set forth in Title 5, Governmen
 
 1980—Pub. L. 96–465 substituted reference to section 4085 of this title for reference to section 1131 of this title.
 
-1960—Pub. L. 86–707 substituted “and unusual expenses similar to those authorized by section 5913 of title 5, incident to the operation and maintenance of such living quarters” for “and the allotment of funds, similar to the allotment authorized by section 1132 of this title, for unusual expenses incident to the operation and maintenance of such living quarters, to be accounted for in accordance with section 1133 of this title.”
+1960—Pub. L. 86–707 substituted “and unusual expenses similar to those authorized by section 5913 oftitle 5, incident to the operation and maintenance of such living quarters” for “and the allotment of funds, similar to the allotment authorized by section 1132 of this title, for unusual expenses incident to the operation and maintenance of such living quarters, to be accounted for in accordance with section 1133 of this title.”
 
 1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
@@ -52,6 +52,10 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under section 269a of this title.
 
+#### Refund of Excess Contributions
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title I, §106(g)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–416, provided that: “The United States shall continue to insist that the United Nations and its specialized and affiliated agencies shall credit or refund to each member of the agency concerned its proportionate share of the amount by which the total contributions to the agency exceed the expenditures of the regular assessed budgets of these agencies.”
+
 #### Reduction in Appropriations for Contributions to International Organizations If Official Status, Accreditation, or Recognition Is Granted to Organization Seeking Legalization of Pedophilia
 
 Pub. L. 103–236, title I, §102(g), Apr. 30, 1994, 108 Stat. 389, as amended by Pub. L. 103–415, §1(<i>o</i>), Oct. 25, 1994, 108 Stat. 4301, provided that: “Notwithstanding any other provision of law, the funds authorized to be appropriated for the United Nations and its affiliated agencies in ‘Contributions for International Organizations’ shall be reduced in the amount of $118,875,000 for fiscal year 1995, and for each year thereafter, until the President certifies to the Speaker of the House of Representatives and the President of the Senate that no United Nations agency or United Nations affiliated agency grants any official status, accreditation, or recognition to any organization which promotes and condones or seeks the legalization of pedophilia, or which includes as a subsidiary or member any such organization.”
@@ -68,7 +72,7 @@ Prohibition.—No funds authorized to be appropriated by this Act or any other A
 
 “(b)
 
-Transfer or Reprogramming.—Funds subject to the prohibition contained in subsection (a) which would be available for the United Nations or any specialized agency thereof (but for that prohibition) are authorizedto remain available until expended and may be reprogrammed or transferred to any other account of the Department of State or the Agency for International Development to carry out the general purposes for which such funds were authorized.”
+Transfer or Reprogramming.—Funds subject to the prohibition contained in subsection (a) which would be available for the United Nations or any specialized agency thereof (but for that prohibition) are authorized to remain available until expended and may be reprogrammed or transferred to any other account of the Department of State or the Agency for International Development to carry out the general purposes for which such funds were authorized.”
 
 #### Probable Exemptions to United Nations Employee Hiring Freeze
 
@@ -98,7 +102,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;“(10) Article 100 of the United Nations Charter calls for the establishment of an international civil service whose members are neutral and loyal only to the United Nations.
 
-&emsp;“(11) Section 3 of Article 101 of the United Nations Charter calls for the appointment of individuals who are professionally qualified for the positions they are to fill and maintains that due regard shall be paid to the importance of recruiting the staff on as wide a geographical basis as possible.
+&emsp;“(11) Section 3 of Article 101 of the United Nations Charter calls for the appointment of individuals who are professionally qualified for the positions they are to fill and maintains that due regard shall be paid tothe importance of recruiting the staff on as wide a geographical basis as possible.
 
 &emsp;“(12) As of September 1985, 442 of 446 Soviet nationals employed throughout the United Nations system are ‘seconded’, that is, serve on short, fixed-term contracts.
 
@@ -220,7 +224,7 @@ Pub. L. 98–164, title I, §114, Nov. 22, 1983, 97 Stat. 1020, as amended by Pu
 
 &emsp;“(6) 25 percent of the amount budgeted for any other United Nations agency or conference whose sole or partial purpose is to implement the provisions of General Assembly Resolution 33/79; and
 
-&emsp;“(7) 25 percent of the amount budgeted for the General Assembly-approved $73,500,000 conference centerto be constructed for the Economic Commission for Africa (ECA) in the Ethiopian capital of Addis Ababa.
+&emsp;“(7) 25 percent of the amount budgeted for the General Assembly-approved $73,500,000 conference center to be constructed for the Economic Commission for Africa (ECA) in the Ethiopian capital of Addis Ababa.
 
 “(b) Funds appropriated for any fiscal year for the Department of State for ‘International Organizations and Conferences’ may not be used for payment by the United States, as its contribution toward the assessed budget of any specialized agency of the United Nations for any year, of any amount which would cause the total amount paid by the United States as its assessed contribution for that year to exceed the amount assessed as the United States contribution for that year less 25 per centum of the amount budgeted by such agency for that year for projects whose primary purpose is to provide benefits to the Palestine Liberation Organization or entities associated with it or to the South West Africa People's Organization.
 
@@ -244,7 +248,7 @@ Fiscal years 1994 and 1995.—Funds authorized to be appropriated for ‘Contrib
 
 “(2)
 
-Subsequent fiscal years.—Funds authorized to be appropriated for ‘Contributions for International Peacekeeping Activities’ for any fiscal year after fiscal year 1995 shall not be available for the payment of the United States assessed contribution for a United Nations peacekeeping operation in an amount which is greater than 25 percent of the total of all assessed contributions for that operation.”
+Subsequent fiscal years.—Funds authorized to be appropriated for ‘Contributions for InternationalPeacekeeping Activities’ for any fiscal year after fiscal year 1995 shall not be available for the payment of the United States assessed contribution for a United Nations peacekeeping operation in an amount which is greater than 25 percent of the total of all assessed contributions for that operation.”
 
 Pub. L. 103–236, title IV, §410, Apr. 30, 1994, 108 Stat. 454, provided that: “The United States shall not make any voluntary or assessed contribution—
 

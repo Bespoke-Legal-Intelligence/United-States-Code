@@ -14,7 +14,7 @@
 
 &emsp;(ii) include restrictive provisions or conditions only to the extent necessary to satisfy the needs of the agency or as authorized by law.
 
-(C) For the purposes of subparagraphs (A) and (B), the type of specification included in a solicitation shall depend on the nature of the needs ofthe agency and the market available to satisfy such needs. Subject to such needs, specifications may be stated in terms of—
+(C) For the purposes of subparagraphs (A) and (B), the type of specification included in a solicitation shall depend on the nature of the needs of the agency and the market available to satisfy such needs. Subject to such needs, specifications may be stated in terms of—
 
 &emsp;(i) function, so that a variety of products or services may qualify;
 
@@ -162,7 +162,7 @@
 
 &emsp;(ii) proposals by the original supplier of such item to meet the mobilization requirements are insufficient to meet the agency's mobilization needs.
 
-(B) In considering offers in response to a solicitation requiring proposals described in paragraph (1)(B) or (2)(B), the head of an agency shall base any evaluation of items developed exclusively at private expense on an analysis of the total value, in terms of innovative design, life-cycle costs, and other pertinent factors, of incorporating such items in the system.
+(B) In considering offers in response to a solicitation requiring proposals described in paragraph (1)(B) or (2)(B), the head of an agencyshall base any evaluation of items developed exclusively at private expense on an analysis of the total value, in terms of innovative design, life-cycle costs, and other pertinent factors, of incorporating such items in the system.
 
 (e)
 
@@ -180,13 +180,13 @@ Agency Actions on Protests.—If, in connection with a protest, the head of an a
 
 (g)
 
-Prohibition on Release of Contractor Proposals.—(1) Except as provided in paragraph (2), a proposal in the possession or control of the Department of Defense may not be made available to any person under section 552 of title 5.
+Prohibition on Release of Contractor Proposals.—(1) Except as provided in paragraph (2), a proposal in the possession or control of an agency named in section 2303 of this title may not be made available to any person under section 552 of title 5.
 
 (2) Paragraph (1) does not apply to any proposal that is set forth or incorporated by reference in a contract entered into between the Department and the contractor that submitted the proposal.
 
 (3) In this subsection, the term “proposal” means any proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 85–861, §1(44), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 90–268, §3, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2723(b), July 18, 1984, 98 Stat. 1191; Pub. L. 98–525, title XII, §1213(a), Oct. 19, 1984, 98 Stat. 2591; Pub. L. 99–145, title XIII, §1303(a)(14), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §924(a), (b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §924(a), (b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title III, §313(b), title IX, formerly title IV, §924(a), (b), Nov. 14, 1986, 100 Stat. 3853, 3932, 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §806, Sept. 29, 1988, 102 Stat. 2010; Pub. L. 101–189, div. A, title VIII, §853(f), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 101–510, div. A, title VIII, §802(a)–(d), Nov. 5, 1990, 104 Stat. 1588, 1589; Pub. L. 103–160, div. A, title XI, §1182(a)(5), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 103–355, title I, §§1011–1016, title IV, §4401(b), Oct. 13, 1994, 108 Stat. 3254–3257, 3347; Pub. L. 104–106, div. D, title XLI, §§4103(a), 4104(a), title XLII, §4202(a)(2), div. E, title LVI, §5601(a), Feb. 10, 1996, 110 Stat. 643, 644, 653, 699; Pub. L. 104–201, div. A, title VIII, §821(a), title X, §1074(a)(11), (b)(4)(A), Sept. 23, 1996, 110 Stat. 2609, 2659, 2660.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 85–861, §1(44), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 90–268, §3, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2723(b), July 18, 1984, 98 Stat. 1191; Pub. L. 98–525, title XII, §1213(a), Oct. 19, 1984, 98 Stat. 2591; Pub. L. 99–145, title XIII, §1303(a)(14), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §924(a), (b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §924(a), (b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title III, §313(b), title IX, formerly title IV, §924(a), (b), Nov. 14, 1986, 100 Stat. 3853, 3932, 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §806, Sept. 29, 1988, 102 Stat. 2010; Pub. L. 101–189, div. A, title VIII, §853(f), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 101–510, div. A, title VIII, §802(a)–(d), Nov. 5, 1990, 104 Stat. 1588, 1589; Pub. L. 103–160, div. A, title XI, §1182(a)(5), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 103–355, title I, §§1011–1016, title IV, §4401(b), Oct. 13, 1994, 108 Stat. 3254–3257, 3347; Pub. L. 104–106, div. D, title XLI, §§4103(a), 4104(a), title XLII, §4202(a)(2), div. E, title LVI, §5601(a), Feb. 10, 1996, 110 Stat. 643, 644, 653, 699; Pub. L. 104–201, div. A, title VIII, §821(a), title X, §1074(a)(11), (b)(4)(A), Sept. 23, 1996, 110 Stat. 2609, 2659, 2660; Pub. L. 106–65, div. A, title VIII, §821, Oct. 5, 1999, 113 Stat. 714.)
 
 Historical and Revision Notes<br>1956
 
@@ -239,6 +239,8 @@ Reference to bids is omitted as surplusage (see opinion of the Judge Advocate Ge
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+1999—Subsec. (g)(1). Pub. L. 106–65 substituted “an agency named in section 2303 of this title” for “the Department of Defense”.
 
 1996—Subsec. (a)(2). Pub. L. 104–106, §4202(a)(2), inserted “a procurement for commercial items using special simplified procedures or” after “(other than for”.
 
@@ -364,7 +366,7 @@ Section 802(e) of Pub. L. 101–510 provided that:
 
 #### Effective Date of 1986 Amendment
 
-Section 101(c) \[title X, §924(c)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 924(c) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The amendments made by this section \[amending thissection\] shall apply with respect to solicitations for sealed bids or competitive proposals issued after the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
+Section 101(c) \[title X, §924(c)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 924(c) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to solicitations for sealed bids or competitive proposals issued after the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
 
 #### Effective Date of 1984 Amendments
 

@@ -94,7 +94,7 @@ Amendment by section 511(d) of Pub. L. 101–189 applicable to persons who are f
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–145 (other than with respect to the authority of the Secretary of the Air Force to prescribe regulations) effective on the date on which regulations prescribed by the Secretary take effect and applicable to agreements entered into under this section on or after the effective date of such regulations and also with respect to each such agreement that was entered into before the effective date of such regulations by an individual who is a cadet on such date, see section 512(e) of Pub. L. 99–145, set out as a note under section 4348 of this title.
+Amendment by Pub. L. 99–145 (other than with respect to the authority of the Secretary of the Air Force to prescribe regulations) effective on the date on whichregulations prescribed by the Secretary take effect and applicable to agreements entered into under this section on or after the effective date of such regulations and also with respect to each such agreement that was entered into before the effective date of such regulations by an individual who is a cadet on such date, see section 512(e) of Pub. L. 99–145, set out as a note under section 4348 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -106,7 +106,7 @@ For effective date of amendment by Pub. L. 88–276, see section 5(c) of Pub. L.
 
 #### Regulations Implementing 1985 Amendment
 
-Secretary of the Air Force to prescribe regulations required by subsec. (c) of this section as added by Pub.L. 99–145 not later than the end of the 90-day period beginning on Nov. 8, 1985, see section 512(d) of Pub. L. 99–145, set out as a note under section 4348 of this title.
+Secretary of the Air Force to prescribe regulations required by subsec. (c) of this section as added by Pub. L. 99–145 not later than the end of the 90-day period beginning on Nov. 8, 1985, see section 512(d) of Pub. L. 99–145, set out as a note under section 4348 of this title.
 
 #### Cross References
 

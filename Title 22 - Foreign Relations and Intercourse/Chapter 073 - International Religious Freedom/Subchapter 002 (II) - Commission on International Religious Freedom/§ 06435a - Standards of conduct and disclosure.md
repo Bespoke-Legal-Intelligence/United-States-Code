@@ -1,0 +1,80 @@
+### §6435a. Standards of conduct and disclosure
+
+#### (a) Cooperation with nongovernmental organizations, the Department of State, and Congress
+
+The Commission shall seek to effectively and freely cooperate with all entities engaged in the promotion of religious freedom abroad, governmental and nongovernmental, in the performance of the Commission's duties under this subchapter.
+
+#### (b) Conflict of interest and antinepotism
+
+#### (1) Member affiliations
+
+&emsp;Except as provided in paragraph (3), in order to ensure the independence and integrity of the Commission, the Commission may not compensate any nongovernmental agency, project, or person related to or affiliated with any member of the Commission, whether in that member's direct employ or not. Staff employed by the Commission may not serve in the employ of any nongovernmental agency, project, or person related to or affiliated with any member of the Commission while employed by the Commission.
+
+#### (2) Staff compensation
+
+&emsp;Staff of the Commission may not receive compensation from any other source for work performed in carrying out the duties of the Commission while employed by the Commission.
+
+#### (3) Exception
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), paragraph (1) shall not apply to payments made for items such as conference fees or the purchase of periodicals or other similar expenses, if such payments would not cause the aggregate value paid to any agency, project, or person for a fiscal year to exceed $250.
+
+#### (B) Limitation
+
+&emsp;&emsp;Notwithstanding subparagraph (A), the Commission shall not give special preference to any agency, project, or person related to or affiliated with any member of the Commission.
+
+#### (4) Definitions
+
+&emsp;In this subsection, the term “affiliated” means the relationship between a member of the Commission and—
+
+&emsp;&emsp;(A) an individual who holds the position of officer, trustee, partner, director, or employee of an agency, project, or person of which that member, or relative of that member of,<sup>1</sup> the Commission is an officer, trustee, partner, director, or employee; or
+
+&emsp;&emsp;(B) a nongovernmental agency or project of which that member, or a relative of that member, of the Commission is an officer, trustee, partner, director, or employee.
+
+#### (c) Contract authority
+
+#### (1) In general
+
+&emsp;Subject to the availability of appropriations, the Commission may contract with and compensate Government agencies or persons for the conduct of activities necessary to the discharge of its functions under this subchapter. Any such person shall be hired without interruption or loss of civil service or Foreign Service status or privilege. The Commission may not procure temporary and intermittent services under section 3109(b) of title 5 or under other contracting authority other than that allowed under this subchapter.
+
+#### (2) Expert study
+
+&emsp;In the case of a study requested under section 6474 of this title, the Commission may, subject to the availability of appropriations, contract with experts and shall provide the funds for such a study. The Commission shall not be required to provide the funds for that part of the study conducted by the Comptroller General of the United States.
+
+#### (d) Gifts
+
+#### (1) In general
+
+&emsp;In order to preserve its independence, the Commission may not accept, use, or dispose of gifts or donations of services or property. An individual Commissioner or employee of the Commission may not, in his or her capacity as a Commissioner or employee, knowingly accept, use or dispose of gifts or donations of services or property, unless he or she in good faith believes such gifts or donations to have a value of less than $50 and a cumulative value during a calendar year of less than $100.
+
+#### (2) Exceptions
+
+&emsp;This subsection shall not apply to the following:
+
+&emsp;&emsp;(A) Gifts provided on the basis of a personal friendship with a Commissioner or employee, unless the Commissioner or employee has reason to believe that the gift was provided because of the Commissioner's position and not because of the personal friendship.
+
+&emsp;&emsp;(B) Gifts provided on the basis of a family relationship.
+
+&emsp;&emsp;(C) The acceptance of training, invitations to attend or participate in conferences or such other events as are related to the conduct of the duties of the Commission, or food or refreshment associated with such activities.
+
+&emsp;&emsp;(D) Items of nominal value or gifts of estimated value of $10 or less.
+
+&emsp;&emsp;(E) De minimis gifts provided by a foreign leader or state, not exceeding a value of $260. Gifts believed by Commissioners to be in excess of $260, but which would create offense or embarrassment to the United States Government if refused, shall be accepted and turned over to the United States Government in accordance with the Foreign Gifts and Decorations Act of 1966 and the rules and regulations governing such gifts provided to Members of Congress.
+
+&emsp;&emsp;(F) Informational materials such as documents, books, videotapes, periodicals, or other forms of communications.
+
+&emsp;&emsp;(G) Goods or services provided by any agency or component of the Government of the United States, including any commission established under the authority of such Government.
+
+#### (e) Annual financial report
+
+In addition to providing the reports required under section 6432 of this title, the Commission shall provide, each year no later than January 1, to the Committees on International Relations and Appropriations of the House of Representatives, and to the Committees on Foreign Relations and Appropriations of the Senate, a financial report detailing and identifying its expenditures for the preceding fiscal year.
+
+(Pub. L. 105–292, title II, §208, as added Pub. L. 106–55, §1(b)(5), Aug. 17, 1999, 113 Stat. 403.)
+
+#### References in Text
+
+The Foreign Gifts and Decorations Act of 1966, referred to in subsec. (d)(2)(E), is Pub. L. 89–673, Oct. 15, 1966, 80 Stat. 952, as amended, which was classified principally to chapter 37 (§2621 et seq.) of this title. The Act was substantially repealed, except for provisions which are classified to section 2625 of this title, and with limited applicability, to section 2621 of this title, and was restated in section 7342 of Title 5, Government Organization and Employees, by Pub. L. 90–83, §10(b), Sept. 11, 1967, 91 Stat. 224. For complete classification of this Act to the Code, see Tables.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should follow “member”.</i>
+

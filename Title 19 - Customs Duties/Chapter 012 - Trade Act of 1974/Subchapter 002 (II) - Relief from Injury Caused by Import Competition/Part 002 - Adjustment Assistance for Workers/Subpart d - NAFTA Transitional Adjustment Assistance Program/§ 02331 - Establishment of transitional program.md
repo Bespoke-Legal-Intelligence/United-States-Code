@@ -48,7 +48,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, within 30 days after receiving a petition under subsection (b) of this section, shall determine whether the petition meets the criteria described in subsection (a)(1) of this section. Upon a determination that the petition meets such criteria, the Secretary shall issue to workers covered by the petition a certification of eligibility to apply for assistance described in subsection (d) of this section.
+&emsp;The Secretary, within 30 days after receiving a petition under subsection (b) of this section,shall determine whether the petition meets the criteria described in subsection (a)(1) of this section. Upon a determination that the petition meets such criteria, the Secretary shall issue to workers covered by the petition a certification of eligibility to apply for assistance described in subsection (d) of this section.
 
 #### (2) Denial of certification
 
@@ -60,7 +60,7 @@ Workers covered by certification issued by the Secretary under subsection (c) of
 
 &emsp;(1) Employment services described in section 2295 of this title.
 
-&emsp;(2) Training described in section 2296 of this title, except that notwithstanding the provisions of section 2296(a)(2)(A) of this title, the total amount of payments for training under this subpart for the period beginning October 1, 1998, and ending June 30, 1999, shall not exceed $15,000,000.
+&emsp;(2) Training described in section 2296 of this title, except that notwithstanding the provisions of section 2296(a)(2)(A) of this title, the total amount of payments for training under this subpart for the period beginning October 1, 1998, and ending September 30, 2001, shall not exceed $30,000,000 for any fiscal year.
 
 &emsp;(3) Trade readjustment allowances described in sections 2291 through 2294 of this title, except that—
 
@@ -82,7 +82,7 @@ Workers covered by certification issued by the Secretary under subsection (c) of
 
 The provisions of subpart C of this part shall apply to the administration of the program under this subpart in the same manner and to the same extent as such provisions apply to the administration of the program under subparts A and B of this part, except that the agreement between the Secretary and the States described in section 2311 of this title shall specify the procedures that will be used to carry out the certification process under subsection (c) of this section and the procedures for providing relevant data by the Secretary to assist the States in making preliminary findings under subsection (b) of this section.
 
-(Pub. L. 93–618, title II, §250, as added Pub. L. 103–182, title V, §502, Dec. 8, 1993, 107 Stat. 2149; amended Pub. L. 105–277, div. J, title I, §1012(b), Oct. 21, 1998, 112 Stat. 2681–901.)
+(Pub. L. 93–618, title II, §250, as added Pub. L. 103–182, title V, §502, Dec. 8, 1993, 107 Stat. 2149; amended Pub. L. 105–277, div. J, title I, §1012(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319.)
 
 #### Termination of Section
 
@@ -94,7 +94,13 @@ A prior section 250 of Pub. L. 93–618, title II, Jan. 3, 1975, 88 Stat. 2029, 
 
 #### Amendments
 
+1999—Subsec. (d)(2). Pub. L. 106–113 substituted “the period beginning October 1, 1998, and ending September 30, 2001, shall not exceed $30,000,000 for any fiscal year” for “the period beginning October 1, 1998, and ending June 30, 1999, shall not exceed $15,000,000”.
+
 1998—Subsec. (d)(2). Pub. L. 105–277 substituted “for the period beginning October 1, 1998, and ending June 30, 1999, shall not exceed $15,000,000” for “for any fiscal year shall not exceed $30,000,000”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective as of July 1, 1999, see section 1000(a)(5) \[title VII, §702(e)\] of Pub. L. 106–113, set out as a note under section 2317 of this title.
 
 #### Effective Date
 

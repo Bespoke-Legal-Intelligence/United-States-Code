@@ -10,11 +10,15 @@ Within 1 year after October 24, 1992, and annually thereafter, the Secretary sha
 
 #### (c) Savings provision
 
-This section may not be construed to authorize the Secretary to take any action in violation of the General Agreement on Tariffs and Trade or the United States-Canada Free Trade Agreement.
+This section may not be construed to authorize the Secretary to take any action in violation of the multilateral trade agreements (as defined in section 3501(4) of title 19) or the North American Free Trade Agreement.
 
-(Pub. L. 102–486, title X, §1017, Oct. 24, 1992, 106 Stat. 2950.)
+(Pub. L. 102–486, title X, §1017, Oct. 24, 1992, 106 Stat. 2950; Pub. L. 106–36, title I, §1002(g)(2), June 25, 1999, 113 Stat. 133.)
 
 #### Codification
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+#### Amendments
+
+1999—Subsec. (c). Pub. L. 106–36 substituted “multilateral trade agreements (as defined in section 3501(4) of title 19) or the North American Free Trade Agreement” for “General Agreement on Tariffs and Trade or the United States-Canada Free Trade Agreement”.
 

@@ -54,21 +54,31 @@ Dec. 22, 1987, Pub. L. 100–202, §101(g) \[title II (4th, 5th provisos in par.
 
 36:1404(a) (last sentence).
 
+&nbsp;
+
 2307(c)
 
 36:1404(b).
+
+&nbsp;
 
 2307(d)
 
 36:1404(c).
 
+&nbsp;
+
 2307(e)
 
 36:1404(d).
 
+&nbsp;
+
 2307(f)
 
 36:1404(e).
+
+&nbsp;
 
 In subsection (c), the words “temporary or intermittent” are added for clarity and consistency with 5:3109. The reference to section 5376 of title 5 is substituted for the reference to grade GS–18 of the General Schedule because of section 529 \[101(c)(1)\] of the Treasury, Postal Service and General Government Appropriations Act, 1991 (Public Law 101–509, 104 Stat. 1442).
 

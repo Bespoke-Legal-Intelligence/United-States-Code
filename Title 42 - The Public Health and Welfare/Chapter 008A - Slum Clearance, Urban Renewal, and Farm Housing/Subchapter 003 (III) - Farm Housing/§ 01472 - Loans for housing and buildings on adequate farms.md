@@ -28,7 +28,7 @@
 
 The instruments under which the loan is made and the security given shall—
 
-&emsp;(1) provide for security upon the applicant's equity in the farm or such other security or collateral, if any, as may be found necessaryby the Secretary reasonably to assure repayment of the indebtedness;
+&emsp;(1) provide for security upon the applicant's equity in the farm or such other security or collateral, if any, as may be found necessary by the Secretary reasonably to assure repayment of the indebtedness;
 
 &emsp;(2) provide for the repayment of principal and interest in accordance with schedules and repayment plans prescribed by the Secretary, except that any prepayment of a loan made or insured under section 1484 or 1485 of this title shall be subject to the provisions of subsection (c) of this section;
 
@@ -102,7 +102,7 @@ Qualified nonprofit organizations and public agencies.—
 
 Local nonprofit organization or public agency.—A local nonprofit organization or public agency may purchase housing and related facilities under this paragraph only if—
 
-&emsp;&emsp;(I) the organization or agency is determined by the Secretary to be capable of managing the housing and related facilities (either directly or through a contract) for the remaining useful life of the housing and related facilities; and
+&emsp;&emsp;(I) the organization or agency is determined by the Secretary to be capable of managing the housing and related facilities (either directly or through a contract) forthe remaining useful life of the housing and related facilities; and
 
 &emsp;&emsp;(II) the organization or agency has entered into an agreement that obligates it (and successors in interest thereof) to maintain the housing and related facilities as affordable for very low-income families or persons and low income families or persons for the remaining useful life of the housing and related facilities.
 
@@ -132,7 +132,7 @@ Rent limitation and assistance.—The Secretary shall, to the extent provided in
 
 (E)
 
-Restriction on subsequent transfers.—Except as provided in subparagraph (B)(ii), the Secretary may not approve the transfer of any housing and related facilities purchased underthis paragraph during the remaining useful life of the housing and related facilities, unless the Secretary determines that—
+Restriction on subsequent transfers.—Except as provided in subparagraph (B)(ii), the Secretary may not approve the transfer of any housing and related facilities purchased under this paragraph during the remaining useful life of the housing and related facilities, unless the Secretary determines that—
 
 &emsp;(i) the transfer will further the provision of housing and related facilities for low income families or persons; or
 
@@ -206,7 +206,7 @@ On and after November 30, 1983—
 
 #### (e) Manufactured homes; qualifications for loans made or insured; energy conservation requirements
 
-(1) A loan which may be made or insured under this section with respect to housing shall bemade or insured with respect to a manufactured home or with respect to a manufactured home and lot, whether such home or such home and lot is real property, personal property, or mixed real and personal property, if—
+(1) A loan which may be made or insured under this section with respect to housing shall be made or insured with respect to a manufactured home or with respect to a manufactured home and lot, whether such home or such home and lot is real property, personal property, or mixed real and personal property, if—
 
 &emsp;(A) the manufactured home meets the standards prescribed pursuant to title VI of the Housing and Community Development Act of 1974 \[42 U.S.C. 5401 et seq.\];
 
@@ -300,7 +300,7 @@ On and after November 30, 1983—
 
 #### (9) Nonassumption
 
-&emsp;Notwithstanding the transfer of property for which a guaranteed loan under this subsection was made, the borrower of a guaranteed loan under this subsection may not be relieved of liability with respect to the loan.
+&emsp;Notwithstanding the transfer of property for which a guaranteed loan under this subsectionwas made, the borrower of a guaranteed loan under this subsection may not be relieved of liability with respect to the loan.
 
 #### (10) Geographical targeting
 
@@ -338,7 +338,7 @@ On and after November 30, 1983—
 
 &emsp;&emsp;(D) The term “State” means the States of the United States, the Commonwealth of Puerto Rico, the District of Columbia, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territories of the Pacific, and any other possession of the United States.
 
-(July 15, 1949, ch. 338, title V, §502, 63 Stat. 433; Pub. L. 87–70, title VIII, §801(b), June 30, 1961, 75 Stat. 186; Pub. L. 87–723, §4(a)(2), Sept. 28, 1962, 76 Stat. 671; Pub. L. 89–117, title X, §1002, Aug. 10, 1965, 79 Stat. 497; Pub. L. 89–754, title VIII, §802, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 93–383, title V, §505(b), Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–128, title V, §502(a), Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §503, Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–399, title V, §514(a), Oct. 8, 1980, 94Stat. 1671; Pub. L. 98–181, title V, §503(a), (d), Nov. 30, 1983, 97 Stat. 1240, 1241; Pub. L. 98–479, title I, §105(b)(1), Oct. 17, 1984, 98 Stat. 2226; Pub. L. 100–242, title II, §241, title III, §314, Feb. 5, 1988, 101 Stat. 1886, 1897; Pub. L. 100–628, title X, §1028, Nov. 7, 1988, 102 Stat. 3271; Pub. L. 101–235, title II, §206, Dec. 15, 1989, 103 Stat. 2041; Pub. L. 101–625, title VII, §§704(a), 705(a), 706(b), 719(b), Nov. 28, 1990, 104 Stat. 4283, 4284, 4297; Pub. L. 102–142, title VII, §743(b), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–550, title VII, §§701(g), 702(a), 703, 704, 712(a), (b), Oct. 28, 1992, 106 Stat. 3834, 3835, 3841; Pub. L. 104–180, title VII, §734(c)(3)(A), (B), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–276, title V, §599C(e)(2)(A), (f), Oct. 21, 1998, 112 Stat. 2662, 2663.)
+(July 15, 1949, ch. 338, title V, §502, 63 Stat. 433; Pub. L. 87–70, title VIII, §801(b), June 30, 1961, 75 Stat. 186; Pub. L. 87–723, §4(a)(2), Sept. 28, 1962, 76 Stat. 671; Pub. L. 89–117, title X, §1002, Aug. 10, 1965, 79 Stat. 497; Pub. L. 89–754, title VIII, §802, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 93–383, title V, §505(b), Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–128, title V, §502(a), Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §503, Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–399, title V, §514(a), Oct. 8, 1980, 94 Stat. 1671; Pub. L. 98–181, title V, §503(a), (d), Nov. 30, 1983, 97 Stat. 1240, 1241; Pub. L. 98–479, title I, §105(b)(1), Oct. 17, 1984, 98 Stat. 2226; Pub. L. 100–242, title II, §241, title III, §314, Feb. 5, 1988, 101 Stat. 1886, 1897; Pub. L. 100–628, title X, §1028, Nov. 7, 1988, 102 Stat. 3271; Pub. L. 101–235, title II, §206, Dec. 15, 1989, 103 Stat. 2041; Pub. L. 101–625, title VII, §§704(a), 705(a), 706(b), 719(b), Nov. 28, 1990, 104 Stat. 4283, 4284, 4297; Pub. L. 102–142, title VII, §743(b), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–550, title VII, §§701(g), 702(a), 703, 704, 712(a), (b), Oct. 28, 1992, 106 Stat. 3834, 3835, 3841; Pub. L. 104–180, title VII, §734(c)(3)(A), (B), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–276, title V, §599C(e)(2)(A), (f), Oct. 21, 1998, 112 Stat. 2662, 2663.)
 
 #### References in Text
 
@@ -360,7 +360,7 @@ Subsec. (c)(5)(C)(iii). Pub. L. 105–276, §599C(e)(2)(A)(v), struck out comma 
 
 Subsec. (c)(5)(D). Pub. L. 105–276, §599C(e)(2)(A)(vi), inserted before period at end “or, in the case of housing assisted under section 1490a(a)(5) of this title, does not exceed the rents established for the project under such section”.
 
-Subsec. (h)(6)(C). Pub. L. 105–276, §599C(f), which directed the striking out of “, subject to the maximum dollar amount limitation of section 203(b)(2) of the National Housing Act” each place it appeared, was executed by striking out “, subject to the maximum dollar limitation of section 203(b)(2) of the National Housing Act” after “whichever is less” in cl. (i) and after “Secretary shall determine” in cl. (ii), to reflect the probable intent of Congress.
+Subsec. (h)(6)(C). Pub. L. 105–276, §599C(f), which directed the striking out of “, subject to the maximumdollar amount limitation of section 203(b)(2) of the National Housing Act” each place it appeared, was executed by striking out “, subject to the maximum dollar limitation of section 203(b)(2) of the National Housing Act” after “whichever is less” in cl. (i) and after “Secretary shall determine” in cl. (ii), to reflect the probable intent of Congress.
 
 1996—Subsec. (c)(4)(B)(iv). Pub. L. 104–180, §734(c)(3)(A), inserted before period at end “or under paragraphs (1) and (2) of section 1484(j) of this title, except that an equity loan referred to in this clause may not be made available after August 6, 1996, unless the Secretary determines that the other incentives available under this subparagraph are not adequate to provide a fair return on the investment of the borrower, to prevent prepayment of the loan insured under section 1484 or 1485 of this title, or to prevent the displacement of tenants of the housing for which the loan was made”.
 
@@ -412,7 +412,7 @@ Subsec. (e)(3). Pub. L. 100–242, §314, added par. (3).
 
 1984—Subsec. (d)(1). Pub. L. 98–479 substituted “percent of the funds approved in appropriation Acts for use under this section shall be set aside and made available only for very low-income families or persons” for “per centum of the dwelling units financed under this section shall be available only for occupancy by very low-income families or persons”.
 
-Subsec. (d)(2). Pub. L. 98–479 substituted “percent of the funds allocated to each State under this section shall be available only for very low-income families or persons” for “per centum of the dwelling units in eachState financed under this section shall be available only for occupancy by very low-income families or persons”.
+Subsec. (d)(2). Pub. L. 98–479 substituted “percent of the funds allocated to each State under this section shall be available only for very low-income families or persons” for “per centum of the dwelling units in each State financed under this section shall be available only for occupancy by very low-income families or persons”.
 
 1983—Subsec. (a)(1). Pub. L. 98–181, §503(d)(1), (2), designated existing provisions as par. (1) and substituted “The Secretary may accept the personal liability of any person with adequate repayment ability who will cosign the applicant's note to compensate for any deficiency in the applicant's repayment ability. At the borrower's option, the borrower may prepay to the Secretary as escrow agent, on terms and conditions prescribed by him, such taxes, insurance, and other expenses as the Secretary may require in accordance with section 1471(e) of this title” for “in the case of applicants described in clauses (1) and (2) of section 1471(a) of this title, at a rate not to exceed 5 per centum per annum on the unpaid balance of principal, and, in the case of applicants described in clause (3) of section 1471(a) of this title and applicants under sections 1473 and 1474 of this title, at a rate not to exceed 4 per centum per annum on such unpaid balance. Loans made or insured under this subchapter shall be conditioned on the borrower paying such fees and other charges as the Secretary may require and on the borrower prepaying to the Secretary as escrow agent, on terms and conditions prescribed by him, such taxes, insurance, and other expenses as the Secretary may require in accordance with section 1471(e) of this title. The Secretary may accept the personal liability of any person with adequate repayment ability who will cosign the applicant's note to compensate for any deficiency in the applicant's repayment ability”.
 

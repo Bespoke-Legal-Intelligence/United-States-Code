@@ -14,7 +14,7 @@ In the case of a perishable agricultural commodity (as defined under the Perisha
 
 #### (b) Penalties
 
-A violation of this section shall be considered a violation of paragraphs (4) and (5) of section 2 of the Perishable Agricultural Commodities Act (7 U.S.C. 499b(4) and (5)).
+A violation of this section shall be considered a violation of paragraphs (4) and (5) of section 2of the Perishable Agricultural Commodities Act (7 U.S.C. 499b(4) and (5)).
 
 #### (c) Reimbursement
 

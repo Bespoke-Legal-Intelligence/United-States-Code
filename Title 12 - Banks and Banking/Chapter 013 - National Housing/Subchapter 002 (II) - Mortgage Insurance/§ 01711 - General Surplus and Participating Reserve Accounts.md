@@ -14,7 +14,7 @@ Upon termination of the insurance obligation of the Mutual Mortgage Insurance Fu
 
 #### (d) Rights and liabilities
 
-No mortgagor or mortgagee of any mortgage insured under section 1709 of this title shall have any vested right in a credit balance in any such account or be subject to any liability arising out of the mutuality of the Fund and the determination of the Secretary as to the amount to be paid by him to any mortgagor shall be final and conclusive.
+No mortgagor or mortgagee of any mortgage insured under section 1709 of this title shall haveany vested right in a credit balance in any such account or be subject to any liability arising out of the mutuality of the Fund and the determination of the Secretary as to the amount to be paid by him to any mortgagor shall be final and conclusive.
 
 #### (e) Actuarial status of entire Fund
 
@@ -26,7 +26,7 @@ In determining whether there is a surplus for distribution to mortgagors under t
 
 (2) The Secretary shall endeavor to ensure that the Mutual Mortgage Insurance Fund attains a capital ratio of not less than 2.0 percent within 10 years after November 5, 1990, and shall ensure that the Fund maintains at least such capital ratio at all times thereafter.
 
-(3) Upon the expiration of the 24-month period beginning on November 5, 1990, the Secretary shall submit to the Congress a report describing the actions the Secretary will take to ensurethat the Mutual Mortgage Insurance Fund attains the capital ratio required under paragraph (2).
+(3) Upon the expiration of the 24-month period beginning on November 5, 1990, the Secretary shall submit to the Congress a report describing the actions the Secretary will take to ensure that the Mutual Mortgage Insurance Fund attains the capital ratio required under paragraph (2).
 
 (4) For purposes of this subsection:
 

@@ -2,7 +2,7 @@
 
 #### (a) Number of commissioners; appointment
 
-The Federal Communications Commission (in this chapter referred to as the “Commission”) shall be composed of five commissioners appointed by the President, by and with the adviceand consent of the Senate, one of whom the President shall designate as chairman.
+The Federal Communications Commission (in this chapter referred to as the “Commission”) shall be composed of five commissioners appointed by the President, by and with the advice and consent of the Senate, one of whom the President shall designate as chairman.
 
 #### (b) Qualifications
 
@@ -44,7 +44,7 @@ commissioners <sup>1</sup> shall be appointed for terms of five years and until
 
 #### (d) Compensation of Commission members
 
-Each Commissioner shall receive an annual salary at the annual rate payable from time to time for level IV of the Executive Schedule, payable in monthly installments. The Chairman of the Commission, during the period of his service as Chairman, shall receive an annual salary at the annual rate payable from time to time for level III of the Executive Schedule.
+Each Commissioner shall receive an annual salary at the annual rate payable from time to time for level IV of the Executive Schedule, payable in monthly installments. The Chairman ofthe Commission, during the period of his service as Chairman, shall receive an annual salary at the annual rate payable from time to time for level III of the Executive Schedule.
 
 #### (e) Principal office; special sessions
 
@@ -320,7 +320,7 @@ All offices of collector of customs, referred to in subsec. (f)(3), in Bureau of
 
 Section 6 of Pub. L. 100–594, as amended by Pub. L. 101–396, §5, Sept. 28, 1990, 104 Stat. 849; Pub. L. 102–538, title II, §212, Oct. 27, 1992, 106 Stat. 3545, provided that:
 
-“(a) During fiscal years 1992 and 1993, the Federal Communications Commission is authorized to make grants to, or enter into cooperative agreements with, private nonprofit organizations designated by the Secretary of Labor under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.) to utilize the talents of older Americans in programs authorized by other provisions of law administered by the Commission (and consistent with such provisions of law) in providing technical and administrative assistance for projects related to the implementation, promotion, or enforcement of the regulations of the Commission.
+“(a) During fiscal years 1992 and 1993, the Federal Communications Commission is authorized to make grants to, or enter into cooperative agreements with, private nonprofit organizations designated by the Secretary of Labor under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.) to utilize the talents of older Americans in programs authorized by otherprovisions of law administered by the Commission (and consistent with such provisions of law) in providing technical and administrative assistance for projects related to the implementation, promotion, or enforcement of the regulations of the Commission.
 
 “(b) Prior to awarding any grant or entering into any agreement under subsection (a), the Office of the Managing Director of the Commission shall certify to the Commission that such grant or agreement will not—
 
@@ -344,7 +344,7 @@ Section 6 of Pub. L. 100–594, as amended by Pub. L. 101–396, §5, Sept. 28, 
 
 #### Expiration of Commissioners’ Terms
 
-Pub. L. 97–253, title V, §501(a), Sept. 8, 1982, 96 Stat. 805, provided that: “Upon expiration of the term of office as a member of the Federal Communications Commission, which is prescribed by law to occur on June 30, 1982, any member appointed to fill such office aftersuch date shall be appointed for a term which ends on June 30, 1983, and such office shall be abolished on July 1, 1983. Upon expiration of the term of office as a member of such Commission, which—
+Pub. L. 97–253, title V, §501(a), Sept. 8, 1982, 96 Stat. 805, provided that: “Upon expiration of the term of office as a member of the Federal Communications Commission, which is prescribed by law to occur on June 30, 1982, any member appointed to fill such office after such date shall be appointed for a term which ends on June 30, 1983, and such office shall be abolished on July 1, 1983. Upon expiration of the term of office as a member of such Commission, which—
 
 &emsp;“(1) is prescribed by law;
 

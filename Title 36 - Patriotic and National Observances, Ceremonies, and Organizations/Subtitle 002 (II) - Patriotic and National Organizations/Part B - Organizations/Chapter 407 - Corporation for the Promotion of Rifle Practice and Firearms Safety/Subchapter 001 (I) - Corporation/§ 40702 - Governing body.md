@@ -42,21 +42,31 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, §1611(c)(1)–(4), (d), 110 Stat. 
 
 36:5501(c)(1).
 
+&nbsp;
+
 40702(a)(3)
 
 36:5501(c)(3).
+
+&nbsp;
 
 40702(a)(4)
 
 36:5501(c)(4).
 
+&nbsp;
+
 40702(b)(1)
 
 36:5501(d)(1).
 
+&nbsp;
+
 40702(b)(2)
 
 36:5501(d)(2).
+
+&nbsp;
 
 In subsection (a)(1), the words “The board of directors is the governing body of the corporation” are added for consistency in the revised title.
 

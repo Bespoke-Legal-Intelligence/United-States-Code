@@ -40,7 +40,7 @@ Annual appropriations to meet the obligations of membership in various internati
 
 #### European Security
 
-Pub. L. 105–277, div. G, subdiv. B, title XXVII, Oct. 21, 1998, 112 Stat. 2681–839, provided that:
+Pub. L. 105–277, div. G, subdiv. B, title XXVII, Oct. 21, 1998, 112 Stat. 2681–839, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, provided that:
 
 #### “SEC. 2701. SHORT TITLE.
 
@@ -224,7 +224,7 @@ Preservation of united states theater ballistic missile defense potential.—It 
 
 “(d)
 
-Report on Cooperative Projects With Russia.—Not later than January 1, 1999, and January 1, 2000, the President shall submit to the Committees on International Relations, National Security, and Appropriations of the House of Representatives and the Committees on Foreign Relations, Armed Services, and Appropriations of the Senate a report on cooperative projects with Russia in the area of ballistic missile defense, including in the area of early warning. Each such report shall include the following:
+Report on Cooperative Projects With Russia.—Not later than January 1, 1999, January 1, 2000, and January 1, 2001, the President shall submit to the Committees on International Relations, National Security \[now Armed Services\], and Appropriations of the House of Representatives and the Committees on Foreign Relations, Armed Services, and Appropriations of the Senate a report on cooperative projects with Russia in the area of ballistic missile defense, including in the area of early warning. Each such report shall include the following:
 
 &emsp;“(1)
 
@@ -268,11 +268,11 @@ Defined NATO Expansion Costs.—For purposes of subsection (a), the term ‘defi
 
 #### Reports on Development of European Security and Defense Identity
 
-Pub. L. 105–261, div. A, title XII, §1223, Oct. 17, 1998, 112 Stat. 2154, provided that:
+Pub. L. 105–261, div. A, title XII, §1223, Oct. 17, 1998, 112 Stat. 2154, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, provided that:
 
 “(a)
 
-Requirement for Reports.—The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives in accordance with this section reports on the development of the European Security and Defense Identity (ESDI) within the NATO Alliance that would enable the Western European Union (WEU), with the consent of the NATO Alliance, to assume the political control and strategic direction of NATO assets and capabilities made available by the Alliance.
+Requirement for Reports.—The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives in accordance with this section reports on the development of the European Security and Defense Identity (ESDI) within the NATO Alliance that would enable the Western European Union (WEU), with the consent of the NATO Alliance, to assume the political control and strategic direction of NATO assets and capabilities made available by the Alliance.
 
 “(b)
 
@@ -298,7 +298,7 @@ Content of Reports.—The Secretary shall include in each report under this sect
 
 &emsp;“(6) Identification within the NATO Alliance of the types of separable but not separate capabilities, assets, and support assets for Western European Union-led operations.
 
-&emsp;“(7) Identification of separable but not separate headquarters, headquarters elements, and command positions for command and conduct of Western European Union-led operations.
+&emsp;“(7) Identification of separable but not separate headquarters, headquarters elements, and commandpositions for command and conduct of Western European Union-led operations.
 
 &emsp;“(8) The conduct by NATO, at the request of and in coordination with the Western European Union, of military planning and exercises for illustrative missions.
 
@@ -444,7 +444,7 @@ Availability.—Of the funds authorized to be appropriated by subsection (a)—
 
 &emsp;“(1) not less than $20,000,000 shall be available for the cost, as defined in section 502(5) of the \[Federal\] Credit Reform Act of 1990 \[2 U.S.C. 661a(5)\], of direct loans pursuant to the authority of section 203(c)(4) of the NATO Participation Act of 1994 (relating to the ‘Foreign Military Financing Program’);
 
-&emsp;“(2) not less than $30,000,000 shall be available for assistance on a grant basis pursuant to the authority of section 203(c)(4) of the NATO Participation Act of 1994 (relating to the ‘Foreign Military Financing Program’); and
+&emsp;“(2) not less than $30,000,000 shall be available for assistance on a grant basis pursuant to the authorityof section 203(c)(4) of the NATO Participation Act of 1994 (relating to the ‘Foreign Military Financing Program’); and
 
 &emsp;“(3) not more than $10,000,000 shall be available for assistance pursuant to the authority of section 203(c)(3) of the NATO Participation Act of 1994 (relating to international military education and training).
 
@@ -556,7 +556,7 @@ Report on National Security Bases for Forward Deployment and Burdensharing Relat
 
 &emsp;“(E) The costs and force structure configurations associated with such alternatives to forward deployment.
 
-&emsp;“(F) The financial contributions that allies of the United States make to common defense efforts (topromote democratization, economic stabilization, transparency arrangements, defense economic conversion, respect for the rule of law, and internationally recognized human rights).
+&emsp;“(F) The financial contributions that allies of the United States make to common defense efforts (to promote democratization, economic stabilization, transparency arrangements, defense economic conversion, respect for the rule of law, and internationally recognized human rights).
 
 &emsp;“(G) The contributions that allies of the United States make to meeting the stationing costs associated with the forward deployment of elements of the United States Armed Forces.
 
@@ -734,7 +734,7 @@ Pub. L. 103–236, title V, §514, Apr. 30, 1994, 108 Stat. 467, provided that:
 
 “(a)
 
-Report to Congress.—The President shall submit annually, beginning 90 days after the date of enactment of this Act \[Apr. 30, 1994\], a detailed report to the Committee on Foreign Relations of the Senate and theCommittee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives on the implementation of the ‘Partnership for Peace’ initiative, including an assessment of the progress made by former members of the Warsaw Treaty Organization in meeting the criteria for full membership articulated in Article 10 of the North Atlantic Treaty, wherein any other European state may, by unanimous agreement, be invited to accede to the North Atlantic Treaty if it is in a position to further the principles of the Treaty and to contribute to the security of the North Atlantic area.
+Report to Congress.—The President shall submit annually, beginning 90 days after the date of enactment of this Act \[Apr. 30, 1994\], a detailed report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives on the implementation of the ‘Partnership for Peace’ initiative, including an assessment of the progress made by former members of the Warsaw Treaty Organization in meeting the criteria for full membership articulated in Article 10 of the North Atlantic Treaty, wherein any other European state may, by unanimous agreement, be invited to accede to the North Atlantic Treaty if it is in a position to further the principles of the Treaty and to contribute to the security of the North Atlantic area.
 
 “(b)
 
@@ -876,13 +876,13 @@ Similar provisions were contained in Pub. L. 98–473, title I, §101(e) \[§127
 
 #### Improvements to NATO Conventional Capability
 
-Pub. L. 98–525, title X, §1002, Oct. 19, 1984, 98 Stat. 2574, as amended by Pub. L. 99–145, title XI, §1101, Nov. 8, 1985, 99 Stat. 707; Pub. L. 101–189, div. A, title IX, §911(a), Nov. 29, 1989, 103 Stat. 1523; Pub. L. 101–510, div. A, title IV, §406, title XIII, §1312(c)(1), (2), Nov. 5, 1990, 104 Stat. 1546, 1670; Pub. L. 102–25, title VII, §704(a)(2), Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–190, div. A, title X, §1042, Dec. 5, 1991, 105 Stat. 1462; Pub. L. 102–484, div. A, title XIII, §1303(a), Oct. 23, 1992, 106 Stat. 2546; Pub. L. 103–160, div. A, title XIV, §1412(a), Nov. 30, 1993, 107 Stat. 1828; Pub. L. 103–337, div. A, title XIII, §1303(a)–(c), Oct. 5, 1994, 108 Stat. 2889, 2890; Pub. L. 104–106, div. A, title XIII, §1334(a), title XV, §1502(c)(7), Feb. 10, 1996, 110 Stat. 484, 508, provided that:
+Pub. L. 98–525, title X, §1002, Oct. 19, 1984, 98 Stat. 2574, as amended by Pub. L. 99–145, title XI, §1101, Nov. 8, 1985, 99 Stat. 707; Pub. L. 101–189, div. A, title IX, §911(a), Nov. 29, 1989, 103 Stat. 1523; Pub. L. 101–510, div. A, title IV, §406, title XIII, §1312(c)(1), (2), Nov. 5, 1990, 104 Stat. 1546, 1670; Pub. L. 102–25, title VII, §704(a)(2), Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–190, div. A, title X, §1042, Dec. 5, 1991, 105 Stat. 1462; Pub. L. 102–484, div. A, title XIII, §1303(a), Oct. 23, 1992, 106 Stat. 2546; Pub. L. 103–160, div. A, title XIV, §1412(a), Nov. 30, 1993, 107 Stat. 1828; Pub. L. 103–337, div. A, title XIII, §1303(a)–(c), Oct. 5, 1994, 108 Stat. 2889, 2890; Pub. L. 104–106, div. A, title XIII, §1334(a), title XV, §1502(c)(7), Feb. 10, 1996, 110 Stat. 484, 508; Pub. L. 106–65, div. A, title X, §§1032(b)(4), 1067(12), Oct. 5, 1999, 113 Stat. 751, 775, provided that:
 
 “(a) The Congress finds—
 
 &emsp;“(1) that the North Atlantic Treaty Organization (NATO) should improve its conventional defense capability so as to lengthen the period of time that Western Europe can be defended by conventional forces without the necessity of resorting to the early use of nuclear weapons in the event of a non-nuclear attack on any NATO member country;
 
-&emsp;“(2) that fulfillment by NATO member nations of their goals and commitments to increase defensespending, improve conventional sustainability, and provide support facilities in Western Europe for rapid reinforcements from the United States is crucial to accomplishing that objective; and
+&emsp;“(2) that fulfillment by NATO member nations of their goals and commitments to increase defense spending, improve conventional sustainability, and provide support facilities in Western Europe for rapid reinforcements from the United States is crucial to accomplishing that objective; and
 
 &emsp;“(3) that an increase over current United States military personnel levels in European member nations of NATO can be justified only if these goals and commitments are substantially met by NATO member nations (other than the United States).
 
@@ -904,11 +904,7 @@ Pub. L. 98–525, title X, §1002, Oct. 19, 1984, 98 Stat. 2574, as amended by P
 
 &emsp;“(B) Members performing duties in Europe for more than 179 days under a military-to-military contact program under section 168 of title 10, United States Code.
 
-“(d) Not later than April 1 of each even-numbered year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate, \[sic\] the Committee on National Security \[now Committee on Armed Services\] of the House of Representatives a report on the status, as of January 1 of the year in which the report is submitted, of the following matters:
-
-&emsp;“(1) The number of days of supply of the ground and aerial munitions in hand or on order of the member nations of NATO (other than the United States) which have committed forces to the Northern, Center, and Southern Regions.
-
-&emsp;“(2) The number of facilities and semihardened aircraft shelters completed or under construction as they relate to the United States commitment of reinforcing aircraft in the United States Defense Planning Questionnaire (DPQ) Response of the previous year.
+“\[(d) Repealed. Pub. L. 106–65, div. A, title X, §1032(b)(4), Oct. 5, 1999, 113 Stat. 751.\]
 
 “(e)(1) The Congress finds that a viable ‘two-way street’ of defense procurement improves NATO interoperability and therefore is important to overall improvements in conventional defense.
 
@@ -928,7 +924,7 @@ Pub. L. 98–525, title X, §1002, Oct. 19, 1984, 98 Stat. 2574, as amended by P
 
 Pub. L. 98–525, title X, §1003, Oct. 19, 1984, 98 Stat. 2576, as amended by Pub. L. 101–510, div. A, title XIII, §1312(c)(3), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 104–201, div. A, title X, §1084(e), Sept. 23, 1996, 110 Stat. 2675, provided that:
 
-“(a) In recognition of the increasing military threat faced by the Western World and in view of the growth, relative to the United States, in the economic strength of Japan, Canada, and a number of Western European countries which has occurred since the signing of the North Atlantic Treaty on April 4, 1949, and the Mutual Cooperation and Security Treaty between Japan and the United States on January 19, 1960, it is the sense of the Congress that—
+“(a) In recognition of the increasing military threat faced by the Western World and in view of the growth, relative to the United States, in the economic strength of Japan, Canada, and a number of Western Europeancountries which has occurred since the signing of the North Atlantic Treaty on April 4, 1949, and the Mutual Cooperation and Security Treaty between Japan and the United States on January 19, 1960, it is the sense of the Congress that—
 
 &emsp;“(1) the burdens of mutual defense now assumed by some of the countries allied with the United States under those agreements are not commensurate with their economic resources;
 

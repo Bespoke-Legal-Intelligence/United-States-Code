@@ -10,7 +10,7 @@ Activities for which assistance may be provided under this section are activitie
 
 &emsp;(1) Activities carried out by international organizations that are designed to ensure more effective safeguards against proliferation and more effective verification of compliance with international agreements on nonproliferation.
 
-&emsp;(2) Activities of the Department of Defense in support of the United Nations Special Commission on Iraq.
+&emsp;(2) Activities of the Department of Defense in support of the United Nations Special Commission on Iraq (or any successor organization).
 
 &emsp;(3) Collaborative international nuclear security and nuclear safety projects to combat the threat of nuclear theft, terrorism, or accidents, including joint emergency response exercises, technical assistance, and training.
 
@@ -34,15 +34,15 @@ Activities for which assistance may be provided under this section are activitie
 
 #### (d) Sources of assistance
 
-(1) Funds provided as assistance under this section for any fiscal year shall be derived from amounts made available to the Department of Defense for that fiscal year. Funds provided as assistance under this section for a fiscal year may also be derived from balances in working capital accounts of the Department of Defense.
+(1) Funds provided as assistance under this section for any fiscal year shall be derived from amounts made available to the Department ofDefense for that fiscal year. Funds provided as assistance under this section for a fiscal year may also be derived from balances in working capital accounts of the Department of Defense.
 
 (2) Supplies and equipment provided as assistance under this section may be provided, by loan or donation, from existing stocks of the Department of Defense and the Department of Energy.
 
 (3) The total amount of the assistance provided in the form of funds under this section, including funds used for activities of the Department of Defense in support of the United Nations Special Commission on Iraq, may not exceed $25,000,000 for fiscal year 1994, $20,000,000 for fiscal year 1995, $15,000,000 for fiscal year 1996, $15,000,000 for fiscal year 1997, or $15,000,000 for fiscal year 1998.
 
-(4)(A) In the event of a significant unforeseen development related to the activities of the United Nations Special Commission on Iraq for which the Secretary of Defense determines that financial assistance under this section is required at a level which would result in the total amount of assistance provided under this section during the then-current fiscal year exceeding the amount specified with respect to that year under paragraph (3), the Secretary of Defense may provide such assistance notwithstanding the limitation with respect to that fiscal year under paragraph (3). Funds for such purpose may be derived from any funds available to the Department of Defense for that fiscal year.
+(4)(A) In the event of a significant unforeseen development related to the activities of the United Nations Special Commission on Iraq (or any successor organization) for which the Secretary of Defense determines that financial assistance under this section is required at a level which would result in the total amount of assistance provided under this section during the then-current fiscal year exceeding the amount of any limitation provided by law on the total amount of such assistance for that fiscal year, the Secretary of Defense may provide such assistance with respect to that fiscal year notwithstanding that limitation. Funds for such purpose may be derived from any funds available to the Department of Defense for that fiscal year.
 
-(B) Financial assistance may be provided under subparagraph (A) only after the Secretary of Defense provides notice in writing to the committees of Congress named in subsection (e)(2) of this section of the significant unforeseen development and of the Secretary's intent to provide assistance in excess of the limitation for that fiscal year under paragraph (3). However, if the Secretary determines in any case that under the specific circumstances of that case advance notice is not possible, such notice shall be provided as soon as possible and not later than 15 days after the date on which the assistance is provided. Any notice under this subparagraph shall include a description of the development, the amount of assistance provided or to be provided, and the source of the funds for that assistance.
+(B) Financial assistance may be provided under subparagraph (A) only after the Secretary of Defense provides notice in writing to the committees of Congress named in subsection (e)(2) of this section of the significant unforeseen development and of the Secretary's intent to provide assistance in excess of the limitation for that fiscal year. However, if the Secretary determines in any case that under the specific circumstances of that case advance notice is not possible, such notice shall be provided as soon as possible and not later than 15 days after the date on which the assistance is provided. Any notice under this subparagraph shall include a description of the development, the amount of assistance provided or to be provided, and the source of the funds for that assistance.
 
 #### (e) Quarterly report
 
@@ -58,19 +58,29 @@ Activities for which assistance may be provided under this section are activitie
 
 &emsp;(A) the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate; and
 
-&emsp;(B) the Committee on National Security, the Committee on Appropriations, the Committee on International Relations, and the Committee on Commerce of the House of Representatives.
+&emsp;(B) the Committee on Armed Services, the Committee on Appropriations, the Committee on International Relations, and the Committee on Commerce of the House of Representatives.
 
 #### (f) Termination of authority
 
-The authority of the Secretary of Defense to provide assistance under this section terminates at the close of fiscal year 1999.
+The authority of the Secretary of Defense to provide assistance under this section terminates at the close of fiscal year 2000.
 
-(Pub. L. 102–484, div. A, title XV, §1505, Oct. 23, 1992, 106 Stat. 2569; Pub. L. 103–160, div. A, title XI, §1182(c)(5), title XVI, §1602, Nov. 30, 1993, 107 Stat. 1772, 1843; Pub. L. 103–337, div. A, title X, §1070(c)(1), title XV, §1501, Oct. 5, 1994, 108 Stat. 2857, 2914; Pub. L. 104–106, div. A, title XIV, §1403, title XV, §1502(c)(2)(B), Feb. 10, 1996, 110 Stat. 489, 507; Pub. L. 104–201, div. A, title XIII, §1301, Sept. 23, 1996, 110 Stat. 2700; Pub. L. 105–85, div. A, title XIII, §1308, Nov. 18, 1997, 111 Stat. 1956; Pub. L. 105–261, div. A, title XV, §1531(b), Oct. 17, 1998, 112 Stat. 2180.)
+(Pub. L. 102–484, div. A, title XV, §1505, Oct. 23, 1992, 106 Stat. 2569; Pub. L. 103–160, div. A, title XI, §1182(c)(5), title XVI, §1602, Nov. 30, 1993, 107 Stat. 1772, 1843; Pub. L. 103–337, div. A, title X, §1070(c)(1), title XV, §1501, Oct. 5, 1994, 108 Stat. 2857, 2914; Pub. L. 104–106, div. A, title XIV, §1403, title XV, §1502(c)(2)(B), Feb. 10, 1996, 110 Stat. 489, 507; Pub. L. 104–201, div. A, title XIII, §1301, Sept. 23, 1996, 110 Stat. 2700; Pub. L. 105–85, div. A, title XIII, §1308, Nov. 18, 1997, 111 Stat. 1956; Pub. L. 105–261, div. A, title XV, §1531(b), Oct. 17, 1998, 112 Stat. 2180; Pub. L. 106–65, div. A, title X, §1067(8), title XV, §1505(b), (c), Oct. 5, 1999, 113 Stat. 774, 808.)
 
 #### Codification
 
 Section was enacted as part of the Weapons of Mass Destruction Control Act of 1992 and also as part of the National Defense Authorization Act for Fiscal Year 1993, and not as part of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 or Freedom Support Act which comprises this chapter.
 
 #### Amendments
+
+1999—Subsec. (b)(2). Pub. L. 106–65, §1505(c)(1), inserted “(or any successor organization)” after “United Nations Special Commission on Iraq”.
+
+Subsec. (d)(4)(A). Pub. L. 106–65, §1505(c)(2)(A), in first sentence, inserted “(or any successor organization)” after “United Nations Special Commission on Iraq” and substituted “the amount of any limitation provided by law on the total amount of such assistance for that fiscal year, the Secretary of Defense may provide such assistance with respect to that fiscal year notwithstanding that limitation.” for “the amount specified with respect to that year under paragraph (3), the Secretary of Defense may provide such assistance notwithstanding the limitation with respect to that fiscal year under paragraph (3).”
+
+Subsec. (d)(4)(B). Pub. L. 106–65, §1505(c)(2)(B), struck out “under paragraph (3)” after “for that fiscal year”.
+
+Subsec. (e)(2)(B). Pub. L. 106–65, §1067(8), substituted “Committee on Armed Services” for “Committee on National Security”.
+
+Subsec. (f). Pub. L. 106–65, §1505(b), substituted “2000” for “1999”.
 
 1998—Subsec. (f). Pub. L. 105–261 substituted “1999” for “1998”.
 

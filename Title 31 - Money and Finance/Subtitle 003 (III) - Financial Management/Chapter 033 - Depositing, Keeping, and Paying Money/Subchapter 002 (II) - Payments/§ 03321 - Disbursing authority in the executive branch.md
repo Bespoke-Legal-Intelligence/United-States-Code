@@ -48,7 +48,7 @@ Exec. Order No. 6728, May 29, 1934.
 
 The section uses the defined term “executive agency” in section 102 of the revised title because the source provisions of this section are from a reorganization plan and executive orders that apply only to departments, agencies, and instrumentalities of the executive branch of the United States Government.
 
-In subsections (a) and (b), the words “Secretary of the Treasury” and “Secretary” are substituted for references to the Division of Disbursement and a Chief Disbursing Officer because of the source provisions restated in section 321(c) of the revised title. The words “public money” are substituted for “moneys of the United States” for consistency with the other source provisions restated in the section and for consistency in the chapter.
+In subsections (a) and (b), the words “Secretary of the Treasury” and “Secretary” are substituted for references to the Division of Disbursement and a ChiefDisbursing Officer because of the source provisions restated in section 321(c) of the revised title. The words “public money” are substituted for “moneys of the United States” for consistency with the other source provisions restated in the section and for consistency in the chapter.
 
 Subsection (a) is substituted for section 4(1st paragraph) of Executive Order No. 6166 to omit executed words.
 

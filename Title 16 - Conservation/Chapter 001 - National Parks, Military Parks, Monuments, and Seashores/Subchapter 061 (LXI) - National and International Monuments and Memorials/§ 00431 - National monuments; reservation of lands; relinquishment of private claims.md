@@ -10,7 +10,7 @@ Act June 8, 1906, ch. 3060, 34 Stat. 225, which is classified generally to secti
 
 #### National Monument Commission
 
-Act Aug. 31, 1954, ch. 1160, 68 Stat. 1029, provided for a Commission to obtain plans and designs for a useful monument to the nation symbolizing to the United States and the world the ideals of a democracy as embodied in the five freedoms (speech, religion, press, assembly, and petition) and to submit such plans to Congress for legislative authorization after approval by the Secretary of the Interior, the National Capital Planning Commission, and the Commission of Fine Arts, The Commission terminated 30 days after submission ofrequired report which was submitted in 1957 but audit of business was not completed until September 1964.
+Act Aug. 31, 1954, ch. 1160, 68 Stat. 1029, provided for a Commission to obtain plans and designs for a useful monument to the nation symbolizing to the United States and the world the ideals of a democracy as embodied in the five freedoms (speech, religion, press, assembly, and petition) and to submit such plans to Congress for legislative authorization after approval by the Secretary of the Interior, the National Capital Planning Commission, and the Commission of Fine Arts, The Commission terminated 30 days after submission of required report which was submitted in 1957 but audit of business was not completed until September 1964.
 
 National Monuments Established Under Presidential Proclamation
 
@@ -19,6 +19,8 @@ National Monuments Established Under Presidential Proclamation
 Ackia Battleground National Monument, Mississippi \[see section 450r of this title\].—Proc. No. 2307, Oct. 25, 1938, 53 Stat. 2494.
 
 Admiralty Island National Monument, Alaska \[Monument established within Tongass National Forest by Pub. L. 96–487, title V, §503(b), Dec. 2, 1980, 94 Stat. 2399; Pub. L. 104–123, Apr. 1, 1996, 110 Stat. 879; Pub. L. 105–60, Oct. 10, 1997, 111 Stat. 1269\].—Proc. No. 4611, Dec. 1, 1978, 93 Stat. 1446.
+
+Agua Fria National Monument, Arizona.—Proc. No. 7263, Jan. 11, 2000, 65 F.R. 2817.
 
 Andrew Johnson National Monument, Tennessee \[Monument redesignated Andrew Johnson National Historical Site, see section 450<i>o</i> of this title\].—Proc. No. 2554, Apr. 27, 1942, 56 Stat. 1955.
 
@@ -40,7 +42,7 @@ Bering Land Bridge National Monument, Alaska.—Proc. No. 4614, Dec. 1, 1978, 93
 
 Big Hole Battlefield National Monument, Montana \[Monument redesignated Big Hole National Battlefield, see section 430uu of this title\].—Ex. Ord. No. 1216, June 23, 1910; Proc. No. 2339, June 29, 1939, 53 Stat. 2544.
 
-Black Canyon of the Gunnison National Monument, Colorado.—Proc. No. 2033, Mar. 2, 1933, 47 Stat. 2558; Proc. No. 2286, May 16, 1938, 52 Stat. 1548; Proc. No. 2372, Oct. 28, 1939, 54 Stat. 2669; Proc. No. 3344, Apr. 8, 1960, 74 Stat.
+Black Canyon of the Gunnison National Monument, Colorado \[Monument abolished and lands incorporated in, and funds made available for, Black Canyon of the Gunnison National Park, see section 410fff–2 of this title\].—Proc. No. 2033, Mar. 2, 1933, 47 Stat. 2558; Proc. No. 2286, May 16, 1938, 52 Stat. 1548; Proc. No. 2372, Oct. 28, 1939, 54 Stat. 2669; Proc. No. 3344, Apr. 8, 1960, 74 Stat.
 
 c56; Pub. L. 98–357, July 13, 1984, 98 Stat. 397.
 
@@ -51,6 +53,8 @@ Buck Island Reef National Monument, Virgin Islands.—Proc. No. 3443, Dec. 28, 1
 Cabrillo National Monument, California.—Proc. No. 1255, Oct. 14, 1913, 38 Stat. 1965; Proc. No. 3273, Feb. 2, 1959, 73 Stat.
 
 c19; Proc. No. 4319, Sept. 28, 1974, 88 Stat. 2514.
+
+California Coastal National Monument, California.—Proc. No. 7264, Jan. 11, 2000, 65 F.R. 2821.
 
 Canyon De Chelly National Monument, Arizona \[see section 445 of this title\].—Proc. No. 1945, Apr. 1, 1931, 47 Stat. 2448; Proc. No. 2036, Mar. 3, 1933, 47 Stat. 2562.
 
@@ -140,6 +144,8 @@ Gran Quivira National Monument, New Mexico \[Monument abolished and funds made a
 
 Grand Canyon National Monument, Arizona.—Proc. No. 794, Jan. 11, 1908, 35 Stat. 2175; Proc. No. 2022, Dec. 22, 1932, 47 Stat. 2547; Proc. No. 2393, Apr. 4, 1940, 54 Stat. 2692.
 
+Grand Canyon-Parashant National Monument, Arizona.—Proc. No. 7265, Jan. 11, 2000, 65 F.R. 2825.
+
 Grand Staircase-Escalante National Monument, Utah.—Proc. No. 6920, Sept. 18, 1996, 110 Stat. 4561; Pub. L. 105–335, Oct. 31, 1998, 112 Stat. 3139; Pub. L. 105–355, title II, §201, Nov. 6, 1998, 112 Stat. 3252.
 
 Great Sand Dunes National Monument, Colorado.—Proc. No. 1994, Mar. 17, 1932, 47 Stat. 2506; Proc. No. 2681, Mar. 12, 1946, 60 Stat. 1339; Proc. No. 3138, June 7, 1956, 70 Stat.
@@ -220,7 +226,7 @@ Perry's Victory and International Peace Memorial National Monument, Ohio.—Proc
 
 Petrified Forest National Monument \[Monument disestablished on establishment of Petrified Forest National Park, see sections 119 and 444 of this title\].—Proc. No. 697, Dec. 8, 1906, 34 Stat. 3266; Proc. No. 1167, July 31, 1911, 37 Stat. 1716; Proc. No. 1927, Nov. 14, 1930, 46 Stat. 3040; Proc. No. 1975, Nov. 30, 1931, 47 Stat. 2486; Proc. No. 2011, Sept. 23, 1932, 47 Stat. 2532.
 
-Pinnacles National Monument, California.—Proc. No. 796, Jan. 16, 1908, 35 Stat. 2177; Proc. No. 1660, May 7, 1923, 43 Stat. 1911; Proc. No. 1704, July 2, 1924, 43 Stat. 1961; Proc. No. 1948, Apr. 13, 1931, 47 Stat. 2451; Proc. No. 2050, July 11, 1933, 48 Stat. 1701; Proc. No. 2528, Dec. 5, 1941, 55 Stat. 1709.
+Pinnacles National Monument, California.—Proc. No. 796, Jan. 16, 1908, 35 Stat. 2177; Proc. No. 1660, May 7, 1923, 43 Stat. 1911; Proc. No. 1704, July 2, 1924, 43 Stat. 1961; Proc. No. 1948, Apr. 13, 1931, 47 Stat. 2451; Proc. No. 2050, July 11, 1933, 48 Stat. 1701; Proc. No. 2528, Dec. 5, 1941, 55 Stat. 1709; Proc. No. 7266, Jan. 11, 2000, 65 F.R. 2831.
 
 Pipe Spring National Monument, Arizona.—Proc. No. 1663, May 31, 1923, 43 Stat. 1913.
 
@@ -328,6 +334,8 @@ Arkansas Post National Memorial, Arkansas.—Pub. L. 86–595, July 6, 1960, 74 
 
 Astronauts Memorial, John F. Kennedy Space Center, Florida.—Recognized as national memorial to astronauts who die in line of duty by Pub. L. 102–41, May 8, 1991, 105 Stat. 242.
 
+Battle of Midway National Memorial, Midway Atoll.—Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §126\], Nov. 29, 1999, 113 Stat. 1535, 1501A–164.
+
 Benjamin Franklin National Memorial, Pennsylvania.—Designation of Benjamin Franklin Memorial Hall as National Memorial by Pub. L. 92–551, Oct. 25, 1972, 86 Stat. 1164.
 
 Chamizal National Memorial, Texas.—Pub. L. 89–479, June 30, 1966, 80 Stat. 232.
@@ -341,6 +349,8 @@ Custis-Lee Mansion National Memorial, Virginia.—Act Mar. 4, 1925, ch. 562, 43 
 David Berger Memorial, Ohio.—Pub. L. 96–199, title I, §116, Mar. 5, 1980, 94 Stat. 71.
 
 Disabled American Veterans Vietnam Veterans National Memorial, New Mexico.—Recognized as a memorial of national significance by Pub. L. 100–164, Nov. 13, 1987, 101 Stat. 905.
+
+Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, §8162, Oct. 25, 1999, 113 Stat. 1274.
 
 Father Marquette National Memorial, Michigan.—Pub. L. 94–160, Dec. 20, 1975, 89 Stat. 848.
 
@@ -370,6 +380,8 @@ National Fallen Firefighters’ Memorial, Maryland.—Pub. L. 101–347, Aug. 9,
 
 National Law Enforcement Officers Memorial, District of Columbia.—Establishment of Maintenance Fund by Pub. L. 104–329, title II, §201, Oct. 20, 1996, 110 Stat. 4011.
 
+National Medal of Honor Sites.—Pub. L. 106–83, Oct. 28, 1999, 113 Stat. 1293.
+
 Patrick Henry National Memorial, Virginia.—Pub. L. 99–296, May 12, 1986, 100 Stat. 429.
 
 Seabees of the United States Navy Memorial.—Pub. L. 92–422, Sept. 18, 1972, 86 Stat. 678.
@@ -379,6 +391,8 @@ Signers of the Declaration of Independence Memorial, District of Columbia.—Pub
 Thomas Jefferson National Memorial, District of Columbia.—Act June 26, 1934, ch. 763, 48 Stat. 1243.
 
 United States Marine Corps Memorial, Virginia.—Act July 1, 1947, ch. 196, 61 Stat. 242, as amended July 7, 1952, ch. 585, 66 Stat. 441; June 16, 1953, ch. 120, 67 Stat. 64.
+
+United States National Civil Defense Monument, Maryland.—Authorized by Pub. L. 106–103, Nov. 13, 1999, 113 Stat. 1482.
 
 United States Navy Memorial, District of Columbia.—Pub. L. 96–199, title I, §113, Mar. 5, 1980, 94 Stat. 70.
 

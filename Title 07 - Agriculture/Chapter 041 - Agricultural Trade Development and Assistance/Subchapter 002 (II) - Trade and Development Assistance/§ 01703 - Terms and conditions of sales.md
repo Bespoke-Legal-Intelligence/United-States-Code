@@ -22,7 +22,7 @@ Such agreements shall provide that interest accrue on the payment deferred under
 
 #### (c) Duration
 
-Payments required under such agreements may be made in reasonable annual amounts over the period (not more than 30 years from the date of the last delivery of commodities in each year under such agreement) specified in the agreement.
+Payments required under such agreements may be made in reasonable annual amounts over the period (not more than 30 years from the date of the last delivery of commodities in each yearunder such agreement) specified in the agreement.
 
 #### (d) Deferral of payments
 
@@ -70,7 +70,7 @@ Subsec. (<i>l</i>). Pub. L. 97–113, §401(4), struck out requirement that Pres
 
 1977—Subsec. (b). Pub. L. 95–88, §211(b)(1), substituted “and in subchapters I and III–A of this chapter” for “and in section 1706(b)(2) of this title” after “uses specified in subsections (a), (b), (c), (e), and (h) of section 1704”.
 
-Subsec. (d). Pub. L. 95–88, §201(b), struck out provisions that “friendly country” not include, for the purpose only of sales of agricultural commodities under this subchapter, any nation which sold or furnished or permitted ships or aircraft under its registry to transport to or from Cuba or North Vietnam (excluding United States installations in Cuba) any equipment, materials, or commodities so long as they were governed by a Communist regime: <i>Provided</i>, That this exclusion from the definition of “friendly country” could be waived by the President if he determined that such waiver was in the national interest and reported such determination to the Congress within 10 days of the date of such determination, and struck out provisions that “friendly country” also not include, for the purposes only of sales under this subchapter, the United Arab Republic, unless the President determined that such sale was in the national interest of the United States, that no sales to the United Arab Republic be based upon the requirements of that nation for more than one fiscal year, and that the President keep the President of the Senate and the Speaker of the House of Representatives fully and currently informed with respect to sales made to the United Arab Republic under this subchapter.
+Subsec. (d). Pub. L. 95–88, §201(b), struck out provisions that “friendly country” not include, for the purpose only of sales of agricultural commodities under this subchapter, any nation which sold or furnished or permitted ships or aircraft under its registry to transport to or from Cuba or North Vietnam (excluding United States installations in Cuba) any equipment, materials, or commodities so long as they were governed by a Communist regime: <i>Provided</i>, That this exclusion from the definition of “friendly country” could be waived by the President if he determined that such waiver was in the national interest and reported such determination to the Congress within 10 days of the date of such determination, and struck out provisions that “friendly country” also not include, for the purposes only of sales under this subchapter, the United Arab Republic, unless the President determined thatsuch sale was in the national interest of the United States, that no sales to the United Arab Republic be based upon the requirements of that nation for more than one fiscal year, and that the President keep the President of the Senate and the Speaker of the House of Representatives fully and currently informed with respect to sales made to the United Arab Republic under this subchapter.
 
 1975—Subsec. (a). Pub. L. 94–161, §203(1), substituted “efforts to increase their own agricultural production, especially through small, family farm agriculture, to improve their facilities for transportation, storage, and distribution of food commodities, and to reduce their rate of population growth” for “efforts to meet their problems of food production and population growth”.
 
@@ -86,7 +86,7 @@ Pub. L. 91–524, §703, as added by Pub. L. 93–86 as amended by Pub. L. 93–
 
 Subsecs. (<i>o</i>) to (q). Pub. L. 90–436, §5, added subsecs. (<i>o</i>) to (q).
 
-1966—Subsec. (a). Pub. L. 89–808 substituted provisions respecting self-help measures for meeting problems of food production and population growth forformer provisions for appropriations for reimbursement of Commodity Credit Corporation, advance use of other funds, and classification of expenditures, now provided for in part by section 1733 of this title.
+1966—Subsec. (a). Pub. L. 89–808 substituted provisions respecting self-help measures for meeting problems of food production and population growth for former provisions for appropriations for reimbursement of Commodity Credit Corporation, advance use of other funds, and classification of expenditures, now provided for in part by section 1733 of this title.
 
 Subsec. (b). Pub. L. 89–808 substituted provisions respecting taking steps to assure a progressive transition from sales for foreign currencies to sales for dollars (such transition to be completed by December 31, 1971) but authorizing payment in foreign currencies for purposes of section 1704(a) to (c), (e), and (h) of this title for former limitation on transactions, now provided for by section 1710 of this title.
 

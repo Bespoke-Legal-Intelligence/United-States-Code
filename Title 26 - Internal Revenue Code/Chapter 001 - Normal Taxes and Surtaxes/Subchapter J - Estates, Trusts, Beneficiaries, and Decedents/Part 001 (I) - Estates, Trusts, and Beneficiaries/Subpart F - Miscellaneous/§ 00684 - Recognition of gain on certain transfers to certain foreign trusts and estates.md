@@ -14,7 +14,7 @@ Subsection (a) shall not apply to a transfer to a trust by a United States perso
 
 #### (c) Treatment of trusts which become foreign trusts
 
-If a trust which is not a foreign trust becomes a foreign trust, such trust shall be treated for purposes of this section as having transferred, immediately before becoming a foreign trust, all of its assets to a foreign trust.
+If a trust which is not a foreign trust becomes a foreign trust, such trust shall be treated forpurposes of this section as having transferred, immediately before becoming a foreign trust, all of its assets to a foreign trust.
 
 (Added Pub. L. 105–34, title XI, §1131(b), Aug. 5, 1997, 111 Stat. 978.)
 

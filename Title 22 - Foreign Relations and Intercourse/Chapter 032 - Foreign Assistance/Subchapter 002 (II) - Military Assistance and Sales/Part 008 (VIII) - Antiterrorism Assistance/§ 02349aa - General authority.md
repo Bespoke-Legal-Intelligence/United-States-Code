@@ -1,6 +1,6 @@
 ### §2349aa. General authority
 
-Notwithstanding any other provision of law that restricts assistance to foreign countries (other than sections 2304 and 2371 of this title), the President is authorized to furnish, on such terms and conditions as the President may determine, assistance to foreign countries in order to enhance the ability of their law enforcement personnel to deter terrorists and terrorist groups from engaging in international terrorist acts such as bombing, kidnapping, assassination, hostage taking, and hijacking. Such assistance may include training services and the provision of equipment and other commodities related to bomb detection and disposal, management of hostage situations, physical security, and other matters relating to the detection, deterrence, and prevention of acts of terrorism, the resolution of terrorist incidents, and the apprehension of those involved in such acts.
+Notwithstanding any other provision of law that restricts assistance to foreign countries\(other than sections 2304 and 2371 of this title), the President is authorized to furnish, on such terms and conditions as the President may determine, assistance to foreign countries in order to enhance the ability of their law enforcement personnel to deter terrorists and terrorist groups from engaging in international terrorist acts such as bombing, kidnapping, assassination, hostage taking, and hijacking. Such assistance may include training services and the provision of equipment and other commodities related to bomb detection and disposal, management of hostage situations, physical security, and other matters relating to the detection, deterrence, and prevention of acts of terrorism, the resolution of terrorist incidents, and the apprehension of those involved in such acts.
 
 (Pub. L. 87–195, pt. II, §571, as added Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; amended Pub. L. 104–164, title I, §121(a), July 21, 1996, 110 Stat. 1428.)
 
@@ -18,5 +18,5 @@ Section 203 of title II of H.R. 2992, as enacted into permanent law by section 1
 
 #### Delegation of Functions
 
-Functions of President under this part, except sections 2349aa–8 and 2349aa–9, delegated to Secretary of State by sections 1–201(a)(24), 1–701(g) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56674, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

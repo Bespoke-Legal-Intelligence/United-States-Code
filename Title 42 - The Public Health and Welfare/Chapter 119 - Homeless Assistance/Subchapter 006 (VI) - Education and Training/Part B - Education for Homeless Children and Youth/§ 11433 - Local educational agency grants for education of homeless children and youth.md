@@ -52,7 +52,7 @@ A local educational agency that desires to receive a grant under this section sh
 
 A local educational agency may use funds awarded under this section for activities to carry out the purpose of this part, including—
 
-&emsp;(1) the provision of tutoring, supplemental instruction, and enriched educational services that are linked to the achievement of the same challenging State content standards andchallenging State student performance standards the State establishes for other children or youth;
+&emsp;(1) the provision of tutoring, supplemental instruction, and enriched educational services that are linked to the achievement of the same challenging State content standards and challenging State student performance standards the State establishes for other children or youth;
 
 &emsp;(2) the provision of expedited evaluations of the strengths and needs of homeless children and youth, including needs and eligibility for programs and services (such as educational programs for gifted and talented students, children with disabilities, and students with limited-English proficiency, services provided under title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] or similar State or local programs, programs in vocational education, and school meals programs);
 

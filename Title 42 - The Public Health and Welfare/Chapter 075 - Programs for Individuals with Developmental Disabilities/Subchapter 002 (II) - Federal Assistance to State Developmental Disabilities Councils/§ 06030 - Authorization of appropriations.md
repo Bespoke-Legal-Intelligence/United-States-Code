@@ -22,7 +22,7 @@ Section 6033, Pub. L. 88–164, title I, §123, as added Pub. L. 94–103, title
 
 1990—Pub. L. 101–496 substituted “$77,400,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993” for “$62,200,000 for fiscal year 1988, $69,900,000 for fiscal year 1989, and $77,400,000 for fiscal year 1990”.
 
-1987—Pub. L. 100–146 amended section generally. Prior to amendment, section read as follows: “For allotments under section 6025 of this title, there are authorized to be appropriated $50,250,000 for fiscal year 1985, $53,400,000 for fiscal year 1986, and $56,500,000 for fiscal year 1987.”
+1987—Pub. L. 100–146 amended section generally. Prior to amendment, section read as follows: “For allotmentsunder section 6025 of this title, there are authorized to be appropriated $50,250,000 for fiscal year 1985, $53,400,000 for fiscal year 1986, and $56,500,000 for fiscal year 1987.”
 
 #### Effective Date of 1987 Amendment
 

@@ -287,7 +287,7 @@ I74subpart a—general provisions
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 7 sections 1308–3, 1308–4, 1463, 6932, 6962, 7334.
+This chapter is referred to in title 7 sections 1308–3, 1308–4, 6932, 6962, 7334.
 
 
 ---

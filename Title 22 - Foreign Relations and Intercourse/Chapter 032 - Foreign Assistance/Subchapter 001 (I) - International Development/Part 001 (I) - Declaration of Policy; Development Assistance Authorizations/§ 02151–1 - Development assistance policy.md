@@ -4,7 +4,7 @@
 
 The Congress finds that the efforts of developing countries to build and maintain the social and economic institutions necessary to achieve self-sustaining growth and to provide opportunities to improve the quality of life for their people depend primarily upon successfully marshalling their own economic and human resources. The Congress recognizes that the magnitude of these efforts exceeds the resources of developing countries and therefore accepts that there will be a long-term need for wealthy countries to contribute additional resources for development purposes. The United States should take the lead in concert with other nations to mobilize such resources from public and private sources.
 
-Provision of development resources must be adapted to the needs and capabilities of specific developing countries. United States assistance to countries with low per capita incomes which have limited access to private external resources should primarily be provided on concessional terms. Assistance to other developing countries should generally consist of programs which facilitate their access to private capital markets, investment, and technical skills, whether directly through guarantee or reimbursable programs by the United States Government or indirectly through callable capital provided to the international financial institutions.
+Provision of development resources must be adapted to the needs and capabilities of specific developing countries. United States assistance to countries with low per capita incomes whichhave limited access to private external resources should primarily be provided on concessional terms. Assistance to other developing countries should generally consist of programs which facilitate their access to private capital markets, investment, and technical skills, whether directly through guarantee or reimbursable programs by the United States Government or indirectly through callable capital provided to the international financial institutions.
 
 Bilateral assistance and United States participation in multilateral institutions shall emphasize programs in support of countries which pursue development strategies designed to meet basic human needs and achieve self-sustaining growth with equity.
 
@@ -91,6 +91,10 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 #### Effective Date
 
 Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as an Effective Date of 1978 Amendment note under section 2151 of this title.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

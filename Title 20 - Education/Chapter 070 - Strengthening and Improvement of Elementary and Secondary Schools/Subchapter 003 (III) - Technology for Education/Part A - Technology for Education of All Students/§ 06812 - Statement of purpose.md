@@ -14,7 +14,7 @@ The purpose of this part is to support a comprehensive system for the acquisitio
 
 &emsp;(6) development and evaluation of new and emerging educational technologies, telecommunications networks, and state-of-the-art educational technology products that promote the use of advanced technologies in the classroom and school library media center;
 
-&emsp;(7) assessment data regarding state-of-the-art uses of technologies in United States education upon which commercial and noncommercial telecommunications entities, andgovernments can rely for decisionmaking about the need for, and provision of, appropriate technologies for education in the United States;
+&emsp;(7) assessment data regarding state-of-the-art uses of technologies in United States education upon which commercial and noncommercial telecommunications entities, and governments can rely for decisionmaking about the need for, and provision of, appropriate technologies for education in the United States;
 
 &emsp;(8) ensuring that uses of educational technology are consistent with the overall national technology policy established by the President, and ensuring that Federal technology-related policies and programs will facilitate the use of technology in education;
 

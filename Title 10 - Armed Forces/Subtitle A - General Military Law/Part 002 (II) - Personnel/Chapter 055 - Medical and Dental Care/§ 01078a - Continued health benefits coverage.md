@@ -20,7 +20,7 @@ Eligible Persons.—The persons referred to in subsection (a) are the following:
 
 &emsp;&emsp;(A) ceases to meet the requirements for being considered an unmarried dependent child of a member or former member of the armed forces under section 1072(2)(D) of this title or ceases to meet the requirements for being considered an unmarried dependent under section 1072(2)(I) of this title;
 
-&emsp;&emsp;(B) on the day before ceasing to meet those requirements, was covered under a health benefits plan under this chapter or transitional health care under section 1145(a) of this title as a dependent of the member or former member; and
+&emsp;&emsp;(B) on the day before ceasing to meet those requirements, was covered under a health benefits plan under this chapter or transitional health care under section1145(a) of this title as a dependent of the member or former member; and
 
 &emsp;&emsp;(C) would not otherwise be eligible for any benefits under this chapter.
 
@@ -28,7 +28,7 @@ Eligible Persons.—The persons referred to in subsection (a) are the following:
 
 &emsp;&emsp;(A) is an unremarried former spouse of a member or former member of the armed forces; and
 
-&emsp;&emsp;(B) on the day before the date of the final decree of divorce, dissolution, or annulmentwas covered under a health benefits plan under this chapter or transitional health care under section 1145(a) of this title as a dependent of the member or former member; and
+&emsp;&emsp;(B) on the day before the date of the final decree of divorce, dissolution, or annulment was covered under a health benefits plan under this chapter or transitional health care under section 1145(a) of this title as a dependent of the member or former member; and
 
 &emsp;&emsp;(C) is not a dependent of the member or former member under subparagraph (F) or (G) of section 1072(2) of this title or ends a one-year period of dependency under subparagraph (H) of such section.
 
@@ -90,7 +90,7 @@ Charges.—(1) Under arrangements satisfactory to the Secretary of Defense, a pe
 
 Period of Continued Coverage.—(1) Continued coverage under this section may not extend beyond—
 
-&emsp;(A) in the case of a member described in subsection (b)(1), the date which is 18 months after the date the member ceases to be entitled to care under section 1074(a) of this title and any transitional care under section 1145 of this title, as the case may be;
+&emsp;(A) in the case of a member described in subsection (b)(1), the date which is 18 monthsafter the date the member ceases to be entitled to care under section 1074(a) of this title and any transitional care under section 1145 of this title, as the case may be;
 
 &emsp;(B) in the case of a person described in subsection (b)(2), the date which is 36 months after the date on which the person first ceases to meet the requirements for being considered a dependent under subparagraph (D) or (I) of section 1072(2) of this title; and
 

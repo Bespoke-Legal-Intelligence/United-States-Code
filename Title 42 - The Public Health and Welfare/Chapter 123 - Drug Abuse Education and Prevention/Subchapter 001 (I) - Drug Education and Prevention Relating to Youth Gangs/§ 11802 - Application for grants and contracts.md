@@ -2,7 +2,7 @@
 
 #### (a) Submission of applications
 
-Any agency, organization, institution, or individual desiring to receive a grant, or to enter into a contract, under section 11801 of this title shall submit to the Secretary an application atsuch time, in such manner, and containing or accompanied by such information as the Secretary may require by rule.
+Any agency, organization, institution, or individual desiring to receive a grant, or to enter into a contract, under section 11801 of this title shall submit to the Secretary an application at such time, in such manner, and containing or accompanied by such information as the Secretary may require by rule.
 
 #### (b) Contents of application
 

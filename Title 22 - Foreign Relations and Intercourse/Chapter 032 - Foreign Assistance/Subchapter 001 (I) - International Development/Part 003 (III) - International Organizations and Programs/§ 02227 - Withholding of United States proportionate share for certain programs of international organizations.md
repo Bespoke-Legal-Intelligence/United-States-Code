@@ -28,7 +28,7 @@ The Secretary of State—
 
 &emsp;(III) incorporates internationally accepted nuclear safety standards.
 
-(Pub. L. 87–195, pt. I, §307, as added Pub. L. 99–83, title IV, §403, Aug. 8, 1985, 99 Stat. 219; amended Pub. L. 103–236, title IV, §431(a), Apr. 30, 1994, 108 Stat. 459; Pub. L. 105–277, div. A, §101(d) \[title V, §516\], div. G, subdiv. B, title XXVIII, §2809(a), Oct. 21, 1998, 112 Stat. 2681–150, 2681–174, 2681–849.)
+(Pub. L. 87–195, pt. I, §307, as added Pub. L. 99–83, title IV, §403, Aug. 8, 1985, 99 Stat. 219; amendedPub. L. 103–236, title IV, §431(a), Apr. 30, 1994, 108 Stat. 459; Pub. L. 105–277, div. A, §101(d) \[title V, §516\], div. G, subdiv. B, title XXVIII, §2809(a), Oct. 21, 1998, 112 Stat. 2681–150, 2681–174, 2681–849.)
 
 #### Amendments
 
@@ -43,6 +43,10 @@ Subsec. (c). Pub. L. 103–236, §431(a)(2), added subsec. (c).
 #### Effective Date
 
 Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under section 2151–1 of this title.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

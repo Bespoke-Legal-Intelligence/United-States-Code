@@ -32,7 +32,7 @@ Such appeal shall be taken by filing a notice of appeal with the court within th
 
 #### (d) Notice to interested parties; filing of record
 
-Upon the filing of any such notice of appeal the appellant shall, not later than five days after the filing of such notice, notify each person shown by the records of the Commission to be interested in said appeal of the filing and pendency of the same. The Commission shall file with the court the record upon which the order complained of was entered, as provided in section 2112 of title 28.
+Upon the filing of any such notice of appeal the appellant shall, not later than five days after the filing of such notice, notify each person shown by the records of the Commission to be interested in said appeal of the filing andpendency of the same. The Commission shall file with the court the record upon which the order complained of was entered, as provided in section 2112 of title 28.
 
 #### (e) Intervention
 
@@ -48,7 +48,7 @@ The court shall hear and determine the appeal upon the record before it in the m
 
 #### (h) Remand
 
-In the event that the court shall render a decision and enter an order reversing the order of the Commission, it shall remand the case to the Commission to carry out the judgment of the court and it shall be the duty of the Commission, in the absence of the proceedings to review such judgment, to forthwith give effect thereto, and unless otherwise ordered by the court, to doso upon the basis of the proceedings already had and the record upon which said appeal was heard and determined.
+In the event that the court shall render a decision and enter an order reversing the order of the Commission, it shall remand the case to the Commission to carry out the judgment of the court and it shall be the duty of the Commission, in the absence of the proceedings to review such judgment, to forthwith give effect thereto, and unless otherwise ordered by the court, to do so upon the basis of the proceedings already had and the record upon which said appeal was heard and determined.
 
 #### (i) Judgment for costs
 

@@ -52,7 +52,7 @@ A distribution of property to a shareholder by a corporation in redemption of pa
 
 If—
 
-&emsp;(1) a shareholder owns stock of a corporation (referred to in this subsection as “new stock”)the basis of which is determined by reference to the basis of stock of a corporation (referred to in this subsection as “old stock”),
+&emsp;(1) a shareholder owns stock of a corporation (referred to in this subsection as “new stock”) the basis of which is determined by reference to the basis of stock of a corporation (referred to in this subsection as “old stock”),
 
 &emsp;(2) the old stock was included (for Federal estate tax purposes) in determining the gross estate of a decedent, and
 

@@ -38,7 +38,7 @@
 
 &emsp;(1) premium pay under section 5545(c)(1) of this title; and
 
-&emsp;(2) with respect to a law enforcement officer as defined in section 8331(20) or 8401(17) of this title, premium pay under section 5545(c)(2) of this title.
+&emsp;(2) with respect to a law enforcement officer as defined in section 8331(20) or 8401(17) of thistitle, premium pay under section 5545(c)(2) of this title.
 
 (d) In determining the amount of insurance to which an employee is entitled—
 
@@ -147,7 +147,7 @@ Amendment by section 906(a)(2), (3) of Pub. L. 95–454 effective 90 days after 
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of this title.
+Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L.92–392, set out as an Effective Date note under section 5341 of this title.
 
 #### Effective Date of 1967 Amendment
 

@@ -76,7 +76,7 @@ Footprint extension: Beginning at the northeast corner of this tract of land, at
 
 9\. Two hundred and thirty-nine degrees and thirty minutes exactly three hundred and fifteen feet along stone wall to a pipe at end of wall and on the south side of the old Peter Lee Road;
 
-10\. One hundred and eighty-five degrees and thirty minutes exactly three hundred and eighty feet crossing old Peter Lee Road and along fence to a pipe at fence corner on the west bank of a ravine; thence
+10\. One hundred and eighty-five degrees and thirty minutes exactly three hundred and eighty feet crossing old Peter Lee Road and along fenceto a pipe at fence corner on the west bank of a ravine; thence
 
 11\. Following along the west bank of ravine, the direct azimuth and distance being: two hundred and three degrees and twenty-three minutes four hundred seventy-five and seven-tenths feet to a pipe on the west bank of the ravine;
 

@@ -36,7 +36,7 @@ Information and research facilities.—In carrying out this subchapter, the Admi
 
 (6) The Administrator shall carry out a study of methods of preventing, detecting, and dealing with surface spills of contaminants which may degrade underground water sources for public water systems.
 
-(7) The Administrator shall carry out a study of virus contamination of drinking watersources and means of control of such contamination.
+(7) The Administrator shall carry out a study of virus contamination of drinking water sources and means of control of such contamination.
 
 (8) The Administrator shall carry out a study of the nature and extent of the impact on underground water which supplies or can reasonably be expected to supply public water systems of (A) abandoned injection or extraction wells; (B) intensive application of pesticides and fertilizers in underground water recharge areas; and (C) ponds, pools, lagoons, pits, or other surface disposal of contaminants in underground water recharge areas.
 
@@ -96,7 +96,7 @@ There are authorized to be appropriated to carry out the provisions of this sect
 
 The Administrator may provide technical assistance to small public water systems to enable such systems to achieve and maintain compliance with applicable national primary drinking water regulations. Such assistance may include circuit-rider and multi-State regional technical assistance programs, training, and preliminary engineering evaluations. The Administrator shall ensure that technical assistance pursuant to this subsection is available in each State. Each nonprofit organization receiving assistance under this subsection shall consult with the State in which the assistance is to be expended or otherwise made available before using assistance to undertake activities to carry out this subsection. There are authorized to be appropriated to the Administrator to be used for such technical assistance $15,000,000 for each of the fiscal years 1997 through 2003. No portion of any State loan fund established under section 300j–12 of this title (relating to State loan funds) and no portion of any funds made available under this subsection may be used for lobbying expenses. Of the total amount appropriated under this subsection, 3 percent shall be used for technical assistance to public water systems owned or operated by Indian Tribes.
 
-(July 1, 1944, ch. 373, title XIV, §1442, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1682; amended Pub. L. 95–190, §§2(a), 3(a), (b), (e)(1), 4, 9, 10(b), 13, Nov. 16, 1977, 91 Stat. 1393–1395, 1397–1399; Pub. L. 96–63, §1, Sept. 6, 1979, 93 Stat. 411; Pub. L. 96–502, §5, Dec. 5, 1980, 94 Stat. 2738; Pub. L. 99–339, title I, §107, title III, §§301(a), (g), 304(a), June 19, 1986, 100 Stat. 651, 663, 665, 667; Pub. L. 104–66, title II, §2021(h), Dec. 21, 1995, 109 Stat. 727; Pub. L. 104–182, title I, §§121, 122, Aug. 6, 1996, 110 Stat. 1651.)
+(July 1, 1944, ch. 373, title XIV, §1442, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1682; amended Pub. L. 95–190, §§2(a), 3(a), (b), (e)(1), 4, 9, 10(b), 13, Nov. 16, 1977, 91 Stat. 1393–1395,1397–1399; Pub. L. 96–63, §1, Sept. 6, 1979, 93 Stat. 411; Pub. L. 96–502, §5, Dec. 5, 1980, 94 Stat. 2738; Pub. L. 99–339, title I, §107, title III, §§301(a), (g), 304(a), June 19, 1986, 100 Stat. 651, 663, 665, 667; Pub. L. 104–66, title II, §2021(h), Dec. 21, 1995, 109 Stat. 727; Pub. L. 104–182, title I, §§121, 122, Aug. 6, 1996, 110 Stat. 1651.)
 
 #### References in Text
 
@@ -172,7 +172,7 @@ In General.—The Administrator shall—
 
 “(b)
 
-Plan.—The Administrator shall transmit the plan to the Committees on Commerce and Science of the House of Representatives and the Committee on Environment and Public Works of the Senate and the plan shall be made available to the public.”
+Plan.—The Administrator shall transmit the plan to the Committees on Commerce and Science ofthe House of Representatives and the Committee on Environment and Public Works of the Senate and the plan shall be made available to the public.”
 
 #### National Center for Ground Water Research
 

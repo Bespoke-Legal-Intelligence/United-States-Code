@@ -32,7 +32,7 @@ Definitions.—As used in this clause—
 
 &emsp;“(1) the term ‘foreign person’ means any person other than a United States person as defined in paragraph (2); and
 
-&emsp;“(2) the term ‘United States person’ means any United States resident or national (other than an individual resident outside the United States and employed by other than a United States person), any domestic concern (including any permanent domestic establishment of any foreign concern), and any foreign subsidiary or affiliate (including any permanent foreign establishment) of any domestic concernwhich is controlled in fact by such domestic concern, as determined under regulations of the President.
+&emsp;“(2) the term ‘United States person’ means any United States resident or national (other than an individual resident outside the United States and employed by other than a United States person), any domestic concern (including any permanent domestic establishment of any foreign concern), and any foreign subsidiary or affiliate (including any permanent foreign establishment) of any domestic concern which is controlled in fact by such domestic concern, as determined under regulations of the President.
 
 “(b)
 
@@ -60,7 +60,7 @@ Certification.—By submitting this offer, the Offeror certifies that it is not�
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
 #### Short Title
 

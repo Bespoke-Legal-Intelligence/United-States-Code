@@ -19,10 +19,13 @@
 | [14515\.](%C2%A7%2014515%20-%20Discharge%20or%20retirement%20for%20age.md) | Discharge or retirement for age. |
 | [14516\.](%C2%A7%2014516%20-%20Separation%20to%20be%20considered%20involuntary.md) | Separation to be considered involuntary. |
 | [14517\.](%C2%A7%2014517%20-%20Entitlement%20of%20officers%20discharged%20under%20this%20chapter%20to%20separation%20pay.md) | Entitlement of officers discharged under this chapter to separation pay. |
+| [14518\.](%C2%A7%2014518%20-%20Continuation%20of%20officers%20to%20complete%20disciplinary%20action.md) | Continuation of officers to complete disciplinary action. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title V, §511(b), Oct. 5, 1999, 113 Stat. 592, added item 14518.
 
 1996—Pub. L. 104–106, div. A, title XV, §1501(b)(27), Feb. 10, 1996, 110 Stat. 497, inserted “reserve” after “Marine Corps and” in item 14506, “reserve” after “Removal from the” in item 14507, and “in grades” after “reserve officers” in item 14509.
 
@@ -56,3 +59,4 @@ This chapter is referred to in sections 12645, 12646, 12647, 14001, 14006, 14703
 - [&sect; 14515 - Discharge or retirement for age](%C2%A7%2014515%20-%20Discharge%20or%20retirement%20for%20age.md)
 - [&sect; 14516 - Separation to be considered involuntary](%C2%A7%2014516%20-%20Separation%20to%20be%20considered%20involuntary.md)
 - [&sect; 14517 - Entitlement of officers discharged under this chapter to separation pay](%C2%A7%2014517%20-%20Entitlement%20of%20officers%20discharged%20under%20this%20chapter%20to%20separation%20pay.md)
+- [&sect; 14518 - Continuation of officers to complete disciplinary action](%C2%A7%2014518%20-%20Continuation%20of%20officers%20to%20complete%20disciplinary%20action.md)

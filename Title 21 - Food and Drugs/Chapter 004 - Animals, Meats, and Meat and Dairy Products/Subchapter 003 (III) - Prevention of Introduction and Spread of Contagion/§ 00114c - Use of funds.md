@@ -10,7 +10,7 @@ Section 607(g) of the Federal Employees Pay Act of 1945, as amended \[former 5 U
 
 #### Codification
 
-“Section 501 of title 44” substituted in text for “section 87 of the Act of January 12, 1895, or section 11 ofthe Act of March 1, 1919 (U.S.C., title 44, sec. 111)” on authority of Pub. L. 90–620, §2(b), Oct. 22, 1968, 82 Stat. 1305, the first section of which enacted Title 44, Public Printing and Documents.
+“Section 501 of title 44” substituted in text for “section 87 of the Act of January 12, 1895, or section 11 of the Act of March 1, 1919 (U.S.C., title 44, sec. 111)” on authority of Pub. L. 90–620, §2(b), Oct. 22, 1968, 82 Stat. 1305, the first section of which enacted Title 44, Public Printing and Documents.
 
 #### Amendments
 

@@ -142,7 +142,7 @@ For purposes of this chapter:
 
 #### (17) Other organizations
 
-&emsp;The term “other organizations” means those organizations that are not State agencies or nonprofit agencies, except such organizations may be consulting firms, independent proprietary businesses and providers, and local community groups not organizationally incorporated, and that are interested in supporting individuals with developmental disabilities.
+&emsp;The term “other organizations” means those organizations that are not State agencies or nonprofit agencies, except such organizationsmay be consulting firms, independent proprietary businesses and providers, and local community groups not organizationally incorporated, and that are interested in supporting individuals with developmental disabilities.
 
 #### (18) Personal assistance services
 
@@ -154,7 +154,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(A) eliminate or reduce the factors that cause or predispose individuals to developmental disabilities or that increase the prevalence of developmental disabilities;
 
-&emsp;&emsp;(B) increase the early identification of existing problems to eliminate circumstancesthat create or increase functional limitations; and
+&emsp;&emsp;(B) increase the early identification of existing problems to eliminate circumstances that create or increase functional limitations; and
 
 &emsp;&emsp;(C) mitigate against the effects of developmental disabilities throughout the individual's lifespan.
 
@@ -222,7 +222,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(C) enhance individual, family, and citizen participation and involvement; and
 
-&emsp;&emsp;(D) develop and support coalitions and individuals through training in self-advocacy, educating policymakers, and citizen leadership skills.
+&emsp;&emsp;(D) develop and support coalitions and individuals through training in self-advocacy,educating policymakers, and citizen leadership skills.
 
 #### (30) University affiliated program
 

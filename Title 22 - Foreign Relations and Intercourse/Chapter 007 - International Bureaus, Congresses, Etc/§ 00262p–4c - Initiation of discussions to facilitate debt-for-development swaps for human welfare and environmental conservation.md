@@ -4,7 +4,7 @@
 
 The Congress finds that—
 
-&emsp;(1) voluntary debt-for-development swaps in heavily indebted developing nations can simultaneously facilitate reduction of the burden of external indebtedness and increase theresources available within the country for charitable, educational, and scientific purposes, including environmental conservation, education, human welfare, health, agricultural research and development, microenterprise credit, and development of indigenous nonprofit organizations; and
+&emsp;(1) voluntary debt-for-development swaps in heavily indebted developing nations can simultaneously facilitate reduction of the burden of external indebtedness and increase the resources available within the country for charitable, educational, and scientific purposes, including environmental conservation, education, human welfare, health, agricultural research and development, microenterprise credit, and development of indigenous nonprofit organizations; and
 
 &emsp;(2) heavily indebted developing countries may desire to facilitate such swaps to the maximum extent consistent with sound domestic economic management and minimization of inflationary impact.
 

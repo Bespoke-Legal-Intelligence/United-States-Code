@@ -6,11 +6,11 @@ For purposes of this title and titles XIV and XV—
 
 &emsp;(2) the term “regional multilateral development bank” means the Inter-American Development Bank, the African Development Bank, the African Development Fund, and the Asian Development Bank.
 
-(Pub. L. 95–118, title XVI, §1622, formerly §1606, as added Pub. L. 100–202, §101(e) \[title I\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–134; renumbered §1612, Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; renumbered §1613, renumbered §1614, renumbered §1617, Pub. L. 101–240, title II, §206, title V, §§501, 512, Dec. 19, 1989, 103 Stat. 2499, 2505, 2508; renumbered §1619, renumbered §1620, Pub. L. 101–513, title V, §562(a)(2), (b)(1), Nov. 5, 1990, 104 Stat. 2032, 2033; renumbered §1622, Pub. L. 103–306, title V, §526(e), Aug. 23, 1994, 108 Stat. 1633.)
+(Pub. L. 95–118, title XVI, §1622, formerly §1606, as added Pub. L. 100–202, §101(e) \[title I\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–134; renumbered §1612, Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; renumbered §1613, renumbered §1614, renumbered §1617, Pub. L. 101–240, title II, §206, title V, §§501, 512, Dec. 19, 1989, 103 Stat. 2499, 2505, 2508; renumbered §1619, renumbered §1620, Pub. L. 101–513, title V, §562(a)(2), (b)(1),Nov. 5, 1990, 104 Stat. 2032, 2033; renumbered §1622, Pub. L. 103–306, title V, §526(e), Aug. 23, 1994, 108 Stat. 1633.)
 
 #### References in Text
 
-This title and titles XIV and XV, referred to in text, are titles XVI, XIV, and XV, respectively, of Pub. L. 95–118. Title XIV is classified to sections 262n to 262n–3 of this title, title XV is classified to sections 262<i>o</i> to 262<i>o</i>–2 of this title, and title XVI is classified to sections 262p to 262p–5 of this title. For complete classification of these titles to the Code, see Tables.
+This title and titles XIV and XV, referred to in text, are titles XVI, XIV, and XV, respectively, of Pub. L. 95–118. Title XIV is classified to sections 262n to 262n–3 of this title, title XV is classified to sections 262<i>o</i> to 262<i>o</i>–2 of this title, and title XVI is classified to sections 262p to 262p–7 of this title. For complete classification of these titles to the Code, see Tables.
 
 #### Codification
 

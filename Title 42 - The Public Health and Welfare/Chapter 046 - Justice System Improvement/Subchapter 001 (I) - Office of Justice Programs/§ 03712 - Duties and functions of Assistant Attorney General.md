@@ -24,7 +24,7 @@ The Assistant Attorney General shall submit an annual report to the President an
 
 #### Prior Provisions
 
-A prior section 3712, Pub. L. 90–351, title I, §102, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1170, described duties and functions of Administrator of Law Enforcement Assistance Administration, prior to the general amendment of this subchapter by Pub. L. 98–473.
+A prior section 3712, Pub. L. 90–351, title I, §102, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1170, described duties and functions of Administrator of Law Enforcement Assistance Administration, prior to thegeneral amendment of this subchapter by Pub. L. 98–473.
 
 A prior section 3713, Pub. L. 90–351, title I, §103, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1170, provided for an Office of Community Anti-Crime Programs, prior to the general amendment of this subchapter by Pub. L. 98–473.
 

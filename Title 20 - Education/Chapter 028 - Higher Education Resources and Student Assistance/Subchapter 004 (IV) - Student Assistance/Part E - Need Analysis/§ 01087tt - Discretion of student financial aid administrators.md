@@ -8,7 +8,7 @@ Nothing in this part shall be interpreted as limiting the authority of the finan
 
 A student financial aid administrator shall be considered to be making a necessary adjustment in accordance with subsection (a) of this section if—
 
-&emsp;(1) the administrator makes adjustments excluding from family income any proceeds of a sale of farm or business assets of a family if such sale results from a voluntary or involuntary foreclosure, forfeiture, or bankruptcy or an involuntary liquidation; or
+&emsp;(1) the administrator makes adjustments excluding from family income any proceeds of asale of farm or business assets of a family if such sale results from a voluntary or involuntary foreclosure, forfeiture, or bankruptcy or an involuntary liquidation; or
 
 &emsp;(2) the administrator makes adjustments in the award level of a student with a disability so as to take into consideration the additional costs such student incurs as a result of such student's disability.
 

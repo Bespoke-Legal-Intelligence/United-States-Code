@@ -60,7 +60,7 @@ Small Insurer Exemptions.—(1) In this subsection, “small insurer” means an
 
 &emsp;(B) less than 10 percent of the total premiums for all forms of motor vehicle insurance issued by insurers in any State.
 
-(2) The Secretary shall exempt by regulation a small insurer from this section if the Secretary finds that the exemption will not significantly affect the validity or usefulness of the information collected and compiled under this section, nationally or State-by-State. However, the Secretary may not exempt an insurer under this paragraph that is considered an insurer only because of subsection (b)(1) of this section.
+(2) The Secretary shall exempt by regulation a small insurer from this section if the Secretary finds that the exemption will not significantly affect the validity or usefulness of the information collected and compiled under this section, nationally or State-by-State. However, the Secretary may not exempt an insurer under thisparagraph that is considered an insurer only because of subsection (b)(1) of this section.
 
 (3) Regulations under this subsection shall provide that eligibility as a small insurer shall be based on the most recent calendar year for which adequate information is available, and that, once attained, the eligibility shall continue without further demonstration of eligibility for one or more years, as the Secretary considers appropriate.
 

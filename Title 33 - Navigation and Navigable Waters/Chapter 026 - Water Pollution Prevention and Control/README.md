@@ -595,7 +595,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 59n–1, 1272, 1293a, 1402, 1414b, 1502, 1503, 2317, 2601, 2602, 2801 of this title; title 7 section 1926a; title 10 section 2704; title 16 sections 460zz–2, 460<i>lll</i>, 471i, 1456, 3830, 4711; title 18 section 1956; title 26 section 169; title 30 sections 201, 1242,1251, 1253, 1292, 1303, 1419; title 40 App. sections 212, 214; title 42 sections 300h–6, 300h–7, 300j–13, 300j–14, 2022, 4363a, 4365, 4370c, 4905, 5153, 6901, 6905, 6907, 6949, 7412, 8302, 9603, 9621, 10341; title 43 sections 421h, 1474b–1, 1577, 1595, 1597; title 49 section 47102.
+This chapter is referred to in sections 59n–1, 1272, 1293a, 1402, 1414b, 1502, 1503, 2317, 2601, 2602, 2801 of this title; title 7 section 1926a; title 10 section 2704; title 16 sections 460zz–2, 460<i>lll</i>, 471i, 1456, 3830, 4711; title 18 section 1956; title 26 section 169; title 30 sections 201, 1242, 1251, 1253, 1292, 1303, 1419; title 40 App. section 214; title 42 sections 300h–6, 300h–7, 300j–13, 300j–14, 2022, 4363a, 4365, 4370c, 4905, 5153, 6901, 6905, 6907, 6949, 7412, 8302, 9603, 9621, 10341; title 43 sections 421h, 1474b–1, 1577, 1595, 1597; title 49 section 47102.
 
 
 ---

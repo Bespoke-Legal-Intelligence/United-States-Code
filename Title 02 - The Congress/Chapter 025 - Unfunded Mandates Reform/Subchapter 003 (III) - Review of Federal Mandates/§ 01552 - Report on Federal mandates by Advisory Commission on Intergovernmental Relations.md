@@ -16,7 +16,7 @@ The Advisory Commission on Intergovernmental Relations shall in accordance with 
 
 &emsp;&emsp;(C) terminating Federal mandates which are duplicative, obsolete, or lacking in practical utility;
 
-&emsp;&emsp;(D) suspending, on a temporary basis, Federal mandates which are not vital to public health and safety and which compound thefiscal difficulties of State, local, and tribal governments, including recommendations for triggering such suspension;
+&emsp;&emsp;(D) suspending, on a temporary basis, Federal mandates which are not vital to public health and safety and which compound the fiscal difficulties of State, local, and tribal governments, including recommendations for triggering such suspension;
 
 &emsp;&emsp;(E) consolidating or simplifying Federal mandates, or the planning or reporting requirements of such mandates, in order to reduce duplication and facilitate compliance by State, local, and tribal governments with those mandates;
 

@@ -22,7 +22,7 @@
 
 &emsp;(10) for any other special services requiring a substantial amount of time or expense, such fees as the Register of Copyrights may fix on the basis of the cost of providing the service.
 
-> The Register of Copyrights is authorized to fix the fees for preparing copies of Copyright Officerecords, whether or not such copies are certified, on the basis of the cost of such preparation.
+> The Register of Copyrights is authorized to fix the fees for preparing copies of Copyright Office records, whether or not such copies are certified, on the basis of the cost of such preparation.
 
 (b) In calendar year 1997 and in any subsequent calendar year, the Register of Copyrights, by regulation, may increase the fees specified in subsection (a) in the following manner:
 
@@ -72,7 +72,7 @@ Subsec. (d). Pub. L. 105–80, §7(b), amended subsec. (d) generally. Prior to a
 
 &emsp;“(8) for the issuance, under section 706, of an additional certificate of registration, $4;
 
-&emsp;“(9) for the issuance of any other certification, $4; the Register of Copyrights has discretion, on thebasis of their cost, to fix the fees for preparing copies of Copyright Office records, whether they are to be certified or not;
+&emsp;“(9) for the issuance of any other certification, $4; the Register of Copyrights has discretion, on the basis of their cost, to fix the fees for preparing copies of Copyright Office records, whether they are to be certified or not;
 
 &emsp;“(10) for the making and reporting of a search as provided by section 705, and for any related services, $10 for each hour or fraction of an hour consumed;
 
@@ -80,7 +80,7 @@ Subsec. (d). Pub. L. 105–80, §7(b), amended subsec. (d) generally. Prior to a
 
 Subsecs. (b) to (d). Pub. L. 101–318, §2(b), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-1982—Subsec. (a)(1). Pub. L. 97–366, §1(1), substituted provision for a $10 fee on filing each application for registration of a copyright claim or a supplementary registration under section 408, including the issuance of a certificate of registration if registration is made, for provision for a $10 fee for the registration of a copyright claim or a supplementary registration under section 408, including the issuance of a certificate of registration.
+1982—Subsec. (a)(1). Pub. L. 97–366, §1(1), substituted provision for a $10 fee on filing each application for registration of a copyright claim or a supplementary registration under section 408, including the issuance of acertificate of registration if registration is made, for provision for a $10 fee for the registration of a copyright claim or a supplementary registration under section 408, including the issuance of a certificate of registration.
 
 Subsec. (a)(2). Pub. L. 97–366, §1(1), substituted provision for a $6 fee on filing each application for registration of a claim to renewal of a subsisting copyright in its first term under section 304(a), including the issuance of a certificate of registration if registration is made, for provision for a $6 fee for the registration of a claim to renewal of a subsisting copyright in its first term under section 304(a), including the issuance of a certificate of registration.
 

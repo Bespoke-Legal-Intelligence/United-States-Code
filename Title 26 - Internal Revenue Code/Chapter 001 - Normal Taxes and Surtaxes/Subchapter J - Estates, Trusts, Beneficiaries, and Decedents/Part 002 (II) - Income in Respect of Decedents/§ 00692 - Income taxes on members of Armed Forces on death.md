@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of any individual who dies while in active service as a member of the Armed Forcesof the United States, if such death occurred while serving in a combat zone (as determined under section 112) or as a result of wounds, disease, or injury incurred while so serving—
+In the case of any individual who dies while in active service as a member of the Armed Forces of the United States, if such death occurred while serving in a combat zone (as determined under section 112) or as a result of wounds, disease, or injury incurred while so serving—
 
 &emsp;(1) any tax imposed by this subtitle shall not apply with respect to the taxable year in which falls the date of his death, or with respect to any prior taxable year ending on or after the first day he so served in a combat zone after June 24, 1950; and
 
@@ -76,7 +76,7 @@ In general.—The amendments made by this subsection \[amending this section and
 
 “(B)
 
-Statute of limitations waived.—Notwithstanding section 6511 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the time for filing a claim forcredit or refund of any overpayment of tax resulting from the amendments made by this subsection shall not expire before the date 1 year after the date of the enactment of this Act \[July 18, 1984\].”
+Statute of limitations waived.—Notwithstanding section 6511 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the time for filing a claim for credit or refund of any overpayment of tax resulting from the amendments made by this subsection shall not expire before the date 1 year after the date of the enactment of this Act \[July 18, 1984\].”
 
 Section 1(b) of Pub. L. 98–259 as amended by Pub. L. 98–369, div. A, title VII, §722(g)(1), July 18, 1984, 98 Stat. 974; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 

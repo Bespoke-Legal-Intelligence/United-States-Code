@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Within 1 year after the effective date of this section, and triennially thereafter, the Secretary of the department in which the Coast Guard is operating, in consultation with the Secretary of Agriculture and the Secretary ofCommerce, shall report to the Congress regarding compliance with Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, in United States waters and, not later than 1 year after October 19, 1996, and annually thereafter, shall publish in the Federal Register a list of the enforcement actions taken against any domestic or foreign ship (including any commercial or recreational ship) pursuant to the Act to Prevent Pollution from Ships (33 U.S.C. 1901 et seq.).
+Within 1 year after the effective date of this section, and triennially thereafter, the Secretary of the department in which the Coast Guard is operating, in consultation with the Secretary of Agriculture and the Secretary of Commerce, shall report to the Congress regarding compliance with Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, in United States waters and, not later than 1 year after October 19, 1996, and annually thereafter, shall publish in the Federal Register a list of the enforcement actions taken against any domestic or foreign ship (including any commercial or recreational ship) pursuant to the Act to Prevent Pollution from Ships (33 U.S.C. 1901 et seq.).
 
 #### (b) Report on inability to comply
 
@@ -26,7 +26,7 @@ Upon receipt of the compliance report under subsection (b) of this section, the 
 
 For effective date of this section, referred to in subsecs. (a) and (b), see section 2002 of Pub. L. 100–220, set out as an Effective Date of 1987 Amendment note under section 1901 of this title.
 
-The Act to Prevent Pollution from Ships, referred to in subsec. (a), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, as amended, which is classified principally to this chapter (§1901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+The Act to Prevent Pollution from Ships, referred to in subsec. (a), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, as amended, which is classified principally to thischapter (§1901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
 #### Codification
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Congressional Notification.—Whenever an official of an Executive agency takes or proposes to take an administrative action that, as determined by the Secretary of Defense in consultation with the Chairman of the Joint Chiefs of Staff, affects training or any other readiness activity in a manner that has or would have a significant adverse effect on the military readiness of any of the armed forces or a critical component thereof, the Secretary shall submit a written notification of the action and each significant adverse effect to the head of the Executive agency taking or proposing to take the administrative action. At the same time, the Secretary shall transmit a copy of the notification to the President, the Committee on Armed Services of the Senate, and the Committee on National Security of the House of Representatives.
+Congressional Notification.—Whenever an official of an Executive agency takes or proposes to take an administrative action that, as determined by the Secretary of Defense in consultation with the Chairman of the Joint Chiefs of Staff, affects training or any other readiness activity in a manner that has or would have a significant adverse effect on the military readiness of any of the armed forces or a critical component thereof, the Secretary shall submit a written notification of the action and each significant adverse effect to the head of the Executive agency taking or proposing to take the administrative action. At the same time, the Secretary shall transmit a copy of the notification to the President, the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives.
 
 (b)
 
@@ -42,9 +42,9 @@ Limitation on Delegation of Authority.—The head of an Executive agency may not
 
 Definition.—In this section, the term “Executive agency” has the meaning given such term in section 105 of title 5, except that the term does not include the General Accounting Office.
 
-(Added Pub. L. 105–85, div. A, title III, §325(a), Nov. 18, 1997, 111 Stat. 1678.)
+(Added Pub. L. 105–85, div. A, title III, §325(a), Nov. 18, 1997, 111 Stat. 1678; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
-#### Change of Name
+#### Amendments
 
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+1999—Subsec. (a). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 

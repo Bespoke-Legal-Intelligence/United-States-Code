@@ -16,7 +16,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) the United States owns Federal property described in section 7713(5) <sup>1</sup> of this title, that has an assessed value (determined as of the time or times when acquired) aggregating 90 percent or more of the assessed value of all real property in such agency (determined as of the time or times when so acquired); and
 
-&emsp;&emsp;(C) demonstrates in the application submitted under section 8506 of this title that such agency has urgent repair, renovation, alteration and construction needs for its public elementary or secondary schools used for academic or vocational instruction.
+&emsp;&emsp;(C) demonstrates in the application submitted under section 8506 of this title thatsuch agency has urgent repair, renovation, alteration and construction needs for its public elementary or secondary schools used for academic or vocational instruction.
 
 (Pub. L. 89–10, title XII, §12012, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3875.)
 

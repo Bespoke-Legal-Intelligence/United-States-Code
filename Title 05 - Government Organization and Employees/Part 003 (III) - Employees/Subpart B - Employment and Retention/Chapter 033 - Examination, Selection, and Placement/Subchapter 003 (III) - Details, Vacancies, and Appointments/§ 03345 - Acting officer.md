@@ -258,7 +258,7 @@ Section 1. <i>Succession to Act as the Secretary of Defense</i>. (a) In the even
 
 (4) Secretary of the Air Force.
 
-(5) Under Secretary of Defense for Acquisition and Technology.
+(5) Under Secretary of Defense for Acquisition and Technology \[now Under Secretary of Defense for Acquisition, Technology, and Logistics\].
 
 (6) Under Secretary of Defense for Policy.
 

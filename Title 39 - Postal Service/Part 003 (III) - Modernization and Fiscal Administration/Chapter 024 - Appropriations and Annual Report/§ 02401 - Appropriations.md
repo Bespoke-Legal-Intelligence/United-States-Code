@@ -40,11 +40,11 @@
 
 (g) The rates established under chapter 36 of this title for zone-rated parcels formerly entered under former chapter 67 of this title shall not be more than 10 percent less than the rates for such mail would be if the funds authorized under subsection (b) were not appropriated.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 743; Pub. L. 94–421, §2(a), (b), Sept. 24, 1976, 90 Stat. 1303; Pub. L. 95–593, §11(a), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 96–499, title IV, §§411, 414(a), Dec. 5, 1980, 94 Stat. 2607; Pub. L. 97–35, title XVII, §1721, Aug. 13, 1981, 95 Stat. 759; Pub. L. 99–410, title II, §201(b)(2), Aug. 28, 1986, 100 Stat. 928; Pub. L. 99–509, title VI, §6003(b), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §1(b), Nov. 5, 1990, 104 Stat. 1398; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842; Pub. L. 103–31, §8(h)(2), May 20, 1993, 107 Stat. 86; Pub. L. 103–123, title VII, §§703(a), 704(b)(1), Oct. 28, 1993, 107 Stat. 1267, 1270; Pub. L. 103–437, §13, Nov. 2, 1994, 108 Stat. 4590.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 743; Pub. L. 94–421, §2(a), (b), Sept. 24, 1976, 90 Stat. 1303; Pub. L. 95–593, §11(a), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 96–499, title IV, §§411, 414(a), Dec. 5, 1980, 94 Stat. 2607; Pub. L. 97–35, title XVII, §1721, Aug. 13, 1981, 95 Stat. 759; Pub. L. 99–410, title II, §201(b)(2), Aug. 28, 1986, 100 Stat. 928; Pub. L. 99–509, title VI, §6003(b), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §1(b), Nov. 5, 1990, 104 Stat. 1398; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842; Pub. L. 103–31, §8(h)(2), May 20, 1993, 107 Stat. 86; Pub. L. 103–123, title VII, §§703(a), 704(b)(1), Oct. 28, 1993, 107 Stat. 1267,1270; Pub. L. 103–437, §13, Nov. 2, 1994, 108 Stat. 4590.)
 
 #### References in Text
 
-Former chapter 67 of title 39, referred to in subsec. (g), means chapter 67 (§4551 et seq.) of former Title 39,The Postal Service, prior to the general revision and reenactment of Title 39 by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
+Former chapter 67 of title 39, referred to in subsec. (g), means chapter 67 (§4551 et seq.) of former Title 39, The Postal Service, prior to the general revision and reenactment of Title 39 by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
 
 #### Amendments
 
@@ -102,7 +102,7 @@ Section 1(c) of Pub. L. 101–509 provided that: “The amendment enacted by thi
 
 #### Effective Date of 1986 Amendments
 
-Amendment by Pub. L. 99–509 effective Jan. 1, 1989, or effective date of next general change in rates and feesunder sections 3622 and 3625 of this title \[Apr. 3, 1988\], whichever is sooner, see section 6003(c) of Pub. L. 99–509 set out as a note under section 3626 of this title.
+Amendment by Pub. L. 99–509 effective Jan. 1, 1989, or effective date of next general change in rates and fees under sections 3622 and 3625 of this title \[Apr. 3, 1988\], whichever is sooner, see section 6003(c) of Pub. L. 99–509 set out as a note under section 3626 of this title.
 
 Amendment by Pub. L. 99–410 applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as an Effective Date note under section 1973ff of Title 42, The Public Health and Welfare.
 

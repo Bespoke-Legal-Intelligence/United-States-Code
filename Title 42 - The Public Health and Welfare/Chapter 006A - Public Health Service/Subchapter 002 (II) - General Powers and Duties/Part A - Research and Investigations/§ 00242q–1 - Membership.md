@@ -24,7 +24,7 @@ The Task Force shall be composed of—
 
 &emsp;(10) the Commissioner of Social Security;
 
-&emsp;(11) the Administrator for Health Care Policy and Research;
+&emsp;(11) the Director of the Agency for Healthcare Research and Quality;
 
 &emsp;(12) two Members of the House of Representatives appointed by the Speaker of the House in consultation with the Minority Leader, and two members of the Senate appointed by the Majority Leader in consultation with the Minority Leader, not more than one of whom from each body shall be members of the same political party; and
 
@@ -58,13 +58,15 @@ The Task Force shall meet periodically at the call of the Chair, but in no event
 
 &emsp;While away from their homes or regular places of business on the business of the Task Force, members of such Task Force may be allowed travel expenses, including per diem in lieu of subsistence, as is authorized under section 5703 of title 5 for persons employed intermittently in the Government service.
 
-(Pub. L. 101–557, title III, §302, Nov. 15, 1990, 104 Stat. 2769; Pub. L. 102–321, title I, §161, July 10, 1992, 106 Stat. 375; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985.)
+(Pub. L. 101–557, title III, §302, Nov. 15, 1990, 104 Stat. 2769; Pub. L. 102–321, title I, §161, July 10, 1992, 106 Stat. 375; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670.)
 
 #### Codification
 
 Section was enacted as part of the Home Health Care and Alzheimer's Disease Amendments of 1990, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments
+
+1999—Subsec. (a)(11). Pub. L. 106–129 substituted “Director of the Agency for Healthcare Research and Quality” for “Administrator for Health Care Policy and Research”.
 
 1992—Subsec. (a)(7). Pub. L. 102–405 substituted “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”.
 

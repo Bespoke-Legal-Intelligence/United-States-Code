@@ -22,7 +22,7 @@ For purposes of part VI of subchapter A of this chapter—
 
 &emsp;(1) the reference in section 55(b)(2) to taxable income shall be treated as a reference to taxable income determined without regard to this section,
 
-&emsp;(2) the alternative minimum taxable income of any holder of the ownership interest or a high-yield interest in a FASIT for any taxable year shall in no event be less than such holder's taxable income determined solely with respect to such interests, and
+&emsp;(2) the alternative minimum taxable income of any holder of the ownership interest or a high-yield interest in a FASIT for any taxableyear shall in no event be less than such holder's taxable income determined solely with respect to such interests, and
 
 &emsp;(3) any increase in taxable income under this section shall be disregarded for purposes of computing the alternative tax net operating loss deduction.
 

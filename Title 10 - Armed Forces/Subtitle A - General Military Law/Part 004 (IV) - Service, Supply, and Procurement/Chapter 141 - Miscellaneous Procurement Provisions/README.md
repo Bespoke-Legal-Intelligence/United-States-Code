@@ -27,7 +27,7 @@
 | [2401a.](%C2%A7%2002401a%20-%20Lease%20of%20vehicles%2C%20equipment%2C%20vessels%2C%20and%20aircraft.md) | Lease of vehicles, equipment, vessels, and aircraft. |
 | [2402\.](%C2%A7%2002402%20-%20Prohibition%20of%20contractors%20limiting%20subcontractor%20sales%20directly%20to%20the%20United%20States.md) | Prohibition of contractors limiting subcontractor sales directly to the United States. |
 | \[2403. | Repealed.\] |
-| [2404\.](%C2%A7%2002404%20-%20Acquisition%20of%20petroleum%20and%20natural%20gas%20authority%20to%20waive%20contract%20procedures%3B%20acquisition%20by%20exchange%3B%20sales%20authority.md) | Acquisition of petroleum and natural gas: authority to waive contract procedures; acquisition by exchange; sales authority. |
+| [2404\.](%C2%A7%2002404%20-%20Acquisition%20of%20certain%20fuel%20sources%20authority%20to%20waive%20contract%20procedures%3B%20acquisition%20by%20exchange%3B%20sales%20authority.md) | Acquisition of certain fuel sources: authority to waive contract procedures; acquisition by exchange; sales authority. |
 | \[2405 to 2407. Repealed or Renumbered.\] |  |
 | [2408\.](%C2%A7%2002408%20-%20Prohibition%20on%20persons%20convicted%20of%20defense-contract%20related%20felonies%20and%20related%20criminal%20penalty%20on%20defense%20contractors.md) | Prohibition on persons convicted of defense-contract related felonies and related criminal penalty on defense contractors. |
 | [2409\.](%C2%A7%2002409%20-%20Contractor%20employees%20protection%20from%20reprisal%20for%20disclosure%20of%20certain%20information.md) | Contractor employees: protection from reprisal for disclosure of certain information. |
@@ -50,6 +50,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title VIII, §803(b)(2), Oct. 5, 1999, 113 Stat. 704, substituted “Acquisition of certain fuel sources” for “Acquisition of petroleum and natural gas” in item 2404.
 
 1997—Pub. L. 105–85, div. A, title VIII, §§801(b), 810(a)(2), 831(b), 847(b)(1), title X, §1014(b)(2), Nov. 18, 1997, 111 Stat. 1831, 1839, 1842, 1845, 1875, inserted “public utility services,” after “tuition,” in item 2396, struck out items 2403 “Major weapon systems: contractor guarantees” and 2405 “Limitation on adjustment of shipbuilding contracts”, substituted “Severable service contracts for periods crossing fiscal years” for “Appropriated funds: availability for certain contracts for 12 months” in item 2410a, and added item 2410m.
 
@@ -87,7 +89,7 @@ Pub. L. 99–500, §101(c) \[title X, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a
 
 1985—Pub. L. 99–145, title IX, §§917(b), 923(a)(2), title XI, §1102(b)(2), Nov. 8, 1985, 99 Stat. 690, 697, 712, added items 2397a, 2406, and 2407.
 
-1984—Pub. L. 98–525, title X, §1005(b), title XII, §1235(1), (2), Oct. 19, 1984, 98 Stat. 2579, 2604, substituted in item 2384 “identification of supplier and sources” for “marking with name of contractor” and added items 2401a, 2384a, and 2402 to 2405.
+1984—Pub. L. 98–525, title X, §1005(b), title XII, §1235(1), (2), Oct. 19, 1984, 98 Stat. 2579, 2604, substitutedin item 2384 “identification of supplier and sources” for “marking with name of contractor” and added items 2401a, 2384a, and 2402 to 2405.
 
 1983—Pub. L. 98–94, title XII, §§1202(a)(2), 1259(b), Sept. 24, 1983, 97 Stat. 681, 703, struck out item 2390 “Suggestions for improving procurement policies”, and added item 2401.
 
@@ -148,7 +150,7 @@ Procurement—
 - [&sect; 02401a - Lease of vehicles, equipment, vessels, and aircraft](%C2%A7%2002401a%20-%20Lease%20of%20vehicles%2C%20equipment%2C%20vessels%2C%20and%20aircraft.md)
 - [&sect; 02402 - Prohibition of contractors limiting subcontractor sales directly to the United States](%C2%A7%2002402%20-%20Prohibition%20of%20contractors%20limiting%20subcontractor%20sales%20directly%20to%20the%20United%20States.md)
 - [&sect; 02403 - Repealed. Pub. L. 105&#8211;85, div. A, title VIII, &sect;847(a), Nov. 18, 1997, 111 Stat. 1845](%C2%A7%2002403%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7847%28a%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%201845.md)
-- [&sect; 02404 - Acquisition of petroleum and natural gas authority to waive contract procedures; acquisition by exchange; sales authority](%C2%A7%2002404%20-%20Acquisition%20of%20petroleum%20and%20natural%20gas%20authority%20to%20waive%20contract%20procedures%3B%20acquisition%20by%20exchange%3B%20sales%20authority.md)
+- [&sect; 02404 - Acquisition of certain fuel sources authority to waive contract procedures; acquisition by exchange; sales authority](%C2%A7%2002404%20-%20Acquisition%20of%20certain%20fuel%20sources%20authority%20to%20waive%20contract%20procedures%3B%20acquisition%20by%20exchange%3B%20sales%20authority.md)
 - [&sect; 02405 - Repealed. Pub. L. 105&#8211;85, div. A, title VIII, &sect;810(a)(1), Nov. 18, 1997, 111 Stat. 1839](%C2%A7%2002405%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7810%28a%29%281%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%201839.md)
 - [&sect; 02406 - Repealed. Pub. L. 103&#8211;355, title II, &sect;2201(b)(1), Oct. 13, 1994, 108 Stat. 3318](%C2%A7%2002406%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20II%2C%20%C2%A72201%28b%29%281%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203318.md)
 - [&sect; 02407 - Renumbered &sect;2350b](%C2%A7%2002407%20-%20Renumbered%20%C2%A72350b.md)

@@ -2,11 +2,11 @@
 
 #### (a) Approval of commission bylaws and rules; action on reports, requests, and recommendations
 
-The Secretary of State is authorized to approve or disapprove, on behalf of the United States Government, bylaws and rules, or amendments thereof, adopted by each commission and submitted for approval of the United States Government in accordance with the provisions of the conventions, and, with the concurrence of the Secretary of Commerce, to approve or disapprove the general annual programs of the commissions. The Secretary of State is further authorized to receive, on behalf of the United States Government, reports, requests, recommendations, and other communications of the commissions, and to take appropriate action thereon either directly or by reference to the appropriate authority.
+The Secretary of State is authorized to approve or disapprove, on behalf of the United States Government, bylaws and rules, or amendments thereof, adopted by each commission and submitted for approval of the United States Government in accordance with the provisions of the conventions, and, with the concurrence ofthe Secretary of Commerce, to approve or disapprove the general annual programs of the commissions. The Secretary of State is further authorized to receive, on behalf of the United States Government, reports, requests, recommendations, and other communications of the commissions, and to take appropriate action thereon either directly or by reference to the appropriate authority.
 
 #### (b) Regulations
 
-Regulations recommended by each commission pursuant to the convention requiring thesubmission to the commission of records of operations by boat captains or other persons who participate in the fisheries covered by the convention, upon the concurrent approval of the Secretary of State and the Secretary of Commerce, shall be promulgated by the latter and upon publication in the Federal Register, shall be applicable to all vessels and persons subject to the jurisdiction of the United States.
+Regulations recommended by each commission pursuant to the convention requiring the submission to the commission of records of operations by boat captains or other persons who participate in the fisheries covered by the convention, upon the concurrent approval of the Secretary of State and the Secretary of Commerce, shall be promulgated by the latter and upon publication in the Federal Register, shall be applicable to all vessels and persons subject to the jurisdiction of the United States.
 
 #### (c) Rulemaking procedures; prohibitions
 

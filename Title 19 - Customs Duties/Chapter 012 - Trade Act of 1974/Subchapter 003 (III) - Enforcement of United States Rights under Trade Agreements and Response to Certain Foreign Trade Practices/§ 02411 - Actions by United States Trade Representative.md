@@ -148,7 +148,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(V) fails to provide standards for minimum wages, hours of work, and occupational safety and health of workers.
 
-&emsp;(C)(i) Acts, policies, and practices of a foreign country described in subparagraph (B)(iii)shall not be treated as being unreasonable if the Trade Representative determines that—
+&emsp;(C)(i) Acts, policies, and practices of a foreign country described in subparagraph (B)(iii) shall not be treated as being unreasonable if the Trade Representative determines that—
 
 &emsp;&emsp;(I) the foreign country has taken, or is taking, actions that demonstrate a significant and tangible overall advancement in providing throughout the foreign country (including any designated zone within the foreign country) the rights and other standards described in the subclauses of subparagraph (B)(iii), or
 

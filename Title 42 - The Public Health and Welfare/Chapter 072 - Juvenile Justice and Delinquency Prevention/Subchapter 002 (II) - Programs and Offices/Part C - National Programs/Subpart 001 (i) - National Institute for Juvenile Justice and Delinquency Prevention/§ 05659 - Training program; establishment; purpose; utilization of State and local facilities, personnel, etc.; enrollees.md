@@ -8,7 +8,7 @@
 
 #### Prior Provisions
 
-A prior section 245 of Pub. L. 93–415 was classified to section 5656 of this title prior to repeal by Pub. L.100–690, title VII, §7263(a)(2)(C), Nov. 18, 1988, 102 Stat. 4443.
+A prior section 245 of Pub. L. 93–415 was classified to section 5656 of this title prior to repeal by Pub. L. 100–690, title VII, §7263(a)(2)(C), Nov. 18, 1988, 102 Stat. 4443.
 
 Another prior section 245 of Pub. L. 93–415 was classified to section 5655 of this title prior to repeal by Pub. L. 98–473, title II, §634, Oct. 12, 1984, 98 Stat. 2119.
 

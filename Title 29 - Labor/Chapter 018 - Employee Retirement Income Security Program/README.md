@@ -882,7 +882,7 @@ I74part 1—employer withdrawals
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 441 of this title; title 7 section 1a; title 15 sections 77b, 631b, 662; title 18 section 1027; title 20 section 1085; title 26 sections 412, 414; title 26 section 404; title 31 section 9502; title 42 sections 1395w–22, 1396s, 1396u–2, 3035r; title 45 section 743.
+This chapter is referred to in section 441 of this title; title 7 section 1a; title 15 sections 77b, 78c, 631b, 662; title 18 section 1027; title 20 section 1085; title 26 sections 412, 414; title 26 section 404; title 31 section 9502; title 42 sections 1395w–22, 1396s, 1396u–2, 3035r; title 45 section 743.
 
 
 ---

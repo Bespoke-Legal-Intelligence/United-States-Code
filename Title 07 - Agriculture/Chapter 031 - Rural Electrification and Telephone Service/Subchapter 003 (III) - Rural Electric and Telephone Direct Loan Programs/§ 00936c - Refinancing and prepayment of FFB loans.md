@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A borrower of a loan made by the Federal Financing Bank and guaranteed under section 936 of this title may, at the option of the borrower, refinance or prepay the loan or an advance on the loan, or any portion of the loan or advance.
+A borrower of a loan made by the Federal Financing Bank and guaranteed under section 936of this title may, at the option of the borrower, refinance or prepay the loan or an advance on the loan, or any portion of the loan or advance.
 
 #### (b) Penalty
 
@@ -24,7 +24,7 @@ A borrower of a loan made by the Federal Financing Bank and guaranteed under sec
 
 &emsp;&emsp;&emsp;(I) each payment scheduled for the interval on the loan amount being refinanced or prepaid; and
 
-&emsp;&emsp;&emsp;(II) the payment amounts that would be required during the interval on the amounts being refinanced or prepaid if theinterest rate on the loan were equal to the then current cost of funds to the Department of the Treasury for obligations of comparable maturity to the loan being refinanced or prepaid.
+&emsp;&emsp;&emsp;(II) the payment amounts that would be required during the interval on the amounts being refinanced or prepaid if the interest rate on the loan were equal to the then current cost of funds to the Department of the Treasury for obligations of comparable maturity to the loan being refinanced or prepaid.
 
 #### (2) Limitation
 

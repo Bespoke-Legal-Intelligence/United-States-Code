@@ -2,7 +2,7 @@
 
 #### (a) Waiver provisions
 
-Any condition, stipulation, or provision binding any person to waive compliance with any provision of this chapter or with any rule, regulation, or order thereunder shall be void.
+Any condition, stipulation, or provision binding any person to waive compliance with anyprovision of this chapter or with any rule, regulation, or order thereunder shall be void.
 
 #### (b) Contract provisions in violation of chapter; actual knowledge of violations
 

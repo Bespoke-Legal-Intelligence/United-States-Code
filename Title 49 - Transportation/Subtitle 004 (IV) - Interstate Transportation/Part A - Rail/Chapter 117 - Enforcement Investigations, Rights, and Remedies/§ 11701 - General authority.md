@@ -10,7 +10,7 @@
 
 #### Prior Provisions
 
-A prior section 11701, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1449; Pub. L. 96–296, §26(a), July 1, 1980, 94 Stat.818; Pub. L. 98–554, title II, §226(c)(4), Oct. 30, 1984, 98 Stat. 2851; Pub. L. 99–521, §12(a), Oct. 22, 1986, 100 Stat. 2998; Pub. L. 100–690, title IX, §9111(i), Nov. 18, 1988, 102 Stat. 4534; Pub. L. 103–272, §5(m)(34), July 5, 1994, 108 Stat. 1378, related to general authority of Interstate Commerce Commission to enforce this subtitle, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See sections 11701, 14701, and 15901 of this title.
+A prior section 11701, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1449; Pub. L. 96–296, §26(a), July 1, 1980, 94 Stat. 818; Pub. L. 98–554, title II, §226(c)(4), Oct. 30, 1984, 98 Stat. 2851; Pub. L. 99–521, §12(a), Oct. 22, 1986, 100 Stat. 2998; Pub. L. 100–690, title IX, §9111(i), Nov. 18, 1988, 102 Stat. 4534; Pub. L. 103–272, §5(m)(34), July 5, 1994, 108 Stat. 1378, related to general authority of Interstate Commerce Commission to enforce this subtitle, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See sections 11701, 14701, and 15901 of this title.
 
 #### Effective Date
 

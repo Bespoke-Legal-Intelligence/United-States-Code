@@ -1,6 +1,6 @@
 ### §1235c. Applications
 
-Each eligible entity desiring a contract, cooperative agreement, or grant under section 1235 or 1235b of this title shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require.
+Each eligible entity desiring a contract, cooperative agreement, or grant under section 1235or 1235b of this title shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require.
 
 (Pub. L. 90–247, title IV, §474, formerly Pub. L. 89–10, title IV, §4704, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3588; renumbered §474 of Pub. L. 90–247 and amended Pub. L. 103–252, title I, §121(a)(1), (2)(B), May 18, 1994, 108 Stat. 649.)
 

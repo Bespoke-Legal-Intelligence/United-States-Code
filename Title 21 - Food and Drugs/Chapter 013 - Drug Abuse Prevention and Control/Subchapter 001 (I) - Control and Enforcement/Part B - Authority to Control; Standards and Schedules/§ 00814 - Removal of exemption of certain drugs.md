@@ -58,7 +58,7 @@ The Attorney General shall limit the designation of a drug or a group of drugs r
 
 Pursuant to subsection (d)(1) of this section, the Attorney General shall by regulation reinstate the exemption with respect to a particular ephedrine, pseudoephedrine, or phenylpropanolamine drug product if the Attorney General determines that the drug product is manufactured and distributed in a manner that prevents diversion. In making this determination the Attorney General shall consider the factors listed in subsection (d)(2) of this section. Any regulation issued pursuant to this subsection may be amended or revoked based on the factors listed in subsection (d)(4) of this section.
 
-(Pub. L. 91–513, title II, §204, as added Pub. L. 103–200, §2(b)(1), Dec. 17, 1993, 107 Stat. 2334; amended Pub. L. 104–237, title IV, §401(c), Oct. 3, 1996, 110 Stat. 3108.)
+(Pub. L. 91–513, title II, §204, as added Pub. L. 103–200, §2(b)(1), Dec. 17, 1993, 107 Stat. 2334;amended Pub. L. 104–237, title IV, §401(c), Oct. 3, 1996, 110 Stat. 3108.)
 
 #### Amendments
 

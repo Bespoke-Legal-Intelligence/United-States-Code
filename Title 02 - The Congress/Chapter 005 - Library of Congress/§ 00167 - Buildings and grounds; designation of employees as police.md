@@ -40,7 +40,7 @@ Section 3 of Pub. L. 100–135 provided that: “The amendments made by section 
 
 #### Effective Date of 1973 Amendment
 
-Section 2 of Pub. L. 93–175 provided that: “The amendment made by this Act \[amending this section\] shall take effect on the first day of the first pay period which begins on or after the date of enactment of this Act \[Dec. 5, 1973\].”
+Section 2 of Pub. L. 93–175 provided that: “The amendment made by this Act \[amending this section\]shall take effect on the first day of the first pay period which begins on or after the date of enactment of this Act \[Dec. 5, 1973\].”
 
 #### Effective Date of 1968 Amendment
 

@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) Any amounts remaining shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
-> &emsp;If at the end of any fiscal year the total of the Federal contribution made under subparagraph (A) with respect to the four calendar quarters immediately preceding the beginning of that fiscal year has not been obligated or expended for an approved purpose, the balance shall continue available for expenditure during any succeeding fiscal year, but only for emergency relief purposes and essential public projects. The aggregate amount of moneys available for expenditure for emergency relief purposes and essential public projects only shall not exceed the sum of $5,000,000 at the end of any fiscal year. Any unobligated or unexpended balance of the Federal contribution remaining at the end of a fiscal year which would cause the moneys available for emergency relief purposes and essential public projects only to exceed the sum of $5,000,000 shall thereupon be transferred and paid over to the Treasury of the United States as miscellaneous receipts.
+> &emsp;If at the end of any fiscal year the total of the Federal contribution made under subparagraph (A) with respect to the four calendar quarters immediately preceding the beginning of that fiscal year has not been obligated or expended for an approved purpose, the balance shall continue available for expenditure during any succeeding fiscal year, but only for emergency relief purposes and essential public projects. The aggregate amount of moneysavailable for expenditure for emergency relief purposes and essential public projects only shall not exceed the sum of $5,000,000 at the end of any fiscal year. Any unobligated or unexpended balance of the Federal contribution remaining at the end of a fiscal year which would cause the moneys available for emergency relief purposes and essential public projects only to exceed the sum of $5,000,000 shall thereupon be transferred and paid over to the Treasury of the United States as miscellaneous receipts.
 
 #### (c) Articles containing distilled spirits
 
@@ -56,7 +56,7 @@ For purposes of subsections (a)(3) and (b)(3)—
 
 #### (A) In general
 
-&emsp;&emsp;No amount shall be transferred under subsection (a)(3) or (b)(3) in respect of taxes imposed on any article, other than an article containing distilled spirits, if the Secretary determines that a Federal excise tax subsidy was provided by Puerto Rico or the VirginIslands (as the case may be) with respect to such article.
+&emsp;&emsp;No amount shall be transferred under subsection (a)(3) or (b)(3) in respect of taxes imposed on any article, other than an article containing distilled spirits, if the Secretary determines that a Federal excise tax subsidy was provided by Puerto Rico or the Virgin Islands (as the case may be) with respect to such article.
 
 #### (B) Federal excise tax subsidy
 
@@ -94,7 +94,7 @@ For purposes of subsections (a)(3) and (b)(3)—
 
 For purposes of this section, with respect to taxes imposed under section 5001 or this section on distilled spirits, the amount covered into the treasuries of Puerto Rico and the Virgin Islands shall not exceed the lesser of the rate of—
 
-&emsp;(1) $10.50 ($11.30 in the case of distilled spirits brought into the United States during the 5-year period beginning on October 1, 1993), or.<sup>1</sup>
+&emsp;(1) $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999, and before January 1, 2002), or
 
 &emsp;(2) the tax imposed under section 5001(a)(1), on each proof gallon.
 
@@ -110,7 +110,7 @@ In the case of medicines, medicinal preparations, food products, flavors, flavor
 
 &emsp;(2) no amount shall be covered into the treasuries of Puerto Rico or the Virgin Islands.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 907; Pub. L. 85–859, title II, §204(17), (18), Sept. 2, 1958, 72 Stat. 1430; Pub. L. 89–44, title VIII, §808(b)(3), June 21, 1965, 79 Stat. 164; Pub. L. 94–202, §10(a), Jan. 2, 1976, 89 Stat. 1141; Pub. L. 94–455, title XIX, §1906(a)(55), (b) (13)(A), Oct. 4, 1976, 90 Stat. 1832, 1834; Pub. L. 98–67, title II, §221(a), Aug. 5, 1983, 97 Stat. 395; Pub. L. 98–213, §5(c), Dec. 8, 1983, 97 Stat. 1460; Pub. L. 98–369, div. B, title VI, §§2681(a), 2682(a), July 18, 1984, 98 Stat. 1172, 1174; Pub. L. 99–514, title XVIII, §1879(i)(1), Oct. 22, 1986, 100 Stat. 2907; Pub. L. 100–418, title I, §1214(p)(1), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 103–66, title XIII, §13227(e), Aug. 10, 1993, 107 Stat. 494; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 907; Pub. L. 85–859, title II, §204(17), (18), Sept. 2, 1958, 72 Stat. 1430; Pub. L. 89–44, title VIII, §808(b)(3), June 21, 1965, 79 Stat. 164; Pub. L. 94–202, §10(a), Jan. 2, 1976, 89 Stat. 1141; Pub. L. 94–455, title XIX, §1906(a)(55), (b) (13)(A), Oct. 4, 1976, 90 Stat. 1832, 1834; Pub. L. 98–67, title II, §221(a), Aug. 5, 1983, 97 Stat. 395; Pub. L. 98–213, §5(c), Dec. 8, 1983, 97 Stat. 1460; Pub. L. 98–369, div. B, title VI, §§2681(a), 2682(a), July 18, 1984, 98 Stat. 1172, 1174; Pub. L. 99–514, title XVIII, §1879(i)(1), Oct. 22, 1986, 100 Stat. 2907; Pub. L. 100–418, title I, §1214(p)(1), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 103–66, title XIII, §13227(e), Aug. 10, 1993, 107 Stat. 494; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 106–170, title V, §512(a), Dec. 17, 1999, 113 Stat. 1924.)
 
 #### References in Text
 
@@ -121,6 +121,8 @@ Section 213 of the Caribbean Basin Economic Recovery Act, referred to in subsec.
 The Harmonized Tariff Schedule of the United States (19 U.S.C. 1202), referred to in subsec. (e)(3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19.
 
 #### Amendments
+
+1999—Subsec. (f)(1). Pub. L. 106–170 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “$10.50 ($11.30 in the case of distilled spirits brought into the United States during the 5-year period beginning on October 1, 1993), or.”
 
 1994—Subsec. (g). Pub. L. 103–465 substituted “flavoring extracts, or perfume” for “or flavoring extracts” in introductory provisions.
 
@@ -157,6 +159,10 @@ Pub. L. 94–202 substituted “calendar quarter ending September 30, 1975, and 
 1958—Subsec. (a)(1). Pub. L. 85–859, §204(17), substituted “section 5314” for “section 5318”.
 
 Subsec. (b)(1). Pub. L. 85–859, §204(18), substituted “section 5314” for “section 5318”.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–170, title V, §512(c), Dec. 17, 1999, 113 Stat. 1925, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 1999.”
 
 #### Effective Date of 1994 Amendment
 
@@ -270,6 +276,26 @@ Amendment by Pub. L. 89–44 effective July 1, 1965, see section 808(d)(1) of Pu
 
 Amendment by Pub. L. 85–859 effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as an Effective Date note under section 5001 of this title.
 
+#### Special Cover Over Transfer Rules
+
+Pub. L. 106–170, title V, §512(b), Dec. 17, 1999, 113 Stat. 1924, provided that: “Notwithstanding section 7652 of the Internal Revenue Code of 1986, the following rules shall apply with respect to any transfer before October 1, 2000, of amounts relating to the increase in the cover over of taxes by reason of the amendment made by subsection (a) \[amending this section\]:
+
+&emsp;“(1)
+
+Initial transfer of incremental increase in cover over.—The Secretary of the Treasury shall, within 15 days after the date of the enactment of this Act \[Dec. 17, 1999\], transfer an amount equal to the lesser of—
+
+&emsp;&emsp;“(A) the amount of such increase otherwise required to be covered over after June 30, 1999, and before the date of the enactment of this Act; or
+
+&emsp;&emsp;“(B) $20,000,000.
+
+&emsp;“(2)
+
+Transfer of incremental increase for fiscal year 2001.—The Secretary of the Treasury shall on October 1, 2000, transfer an amount equal to the excess of—
+
+&emsp;&emsp;“(A) the amount of such increase otherwise required to be covered over after June 30, 1999, and before October 1, 2000, over
+
+&emsp;&emsp;“(B) the amount of the transfer described in paragraph (1).”
+
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
@@ -289,6 +315,4 @@ Ex. Ord. No. 10602, Mar. 24, 1955, 20 F.R. 1795, provided: “By virtue of the a
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4132, 4612, 4662, 4672, 4682, 5001, 5008, 5010, 5061, 5314, 5702, 5703, 5705, 7809 of this title; title 48 sections 1574a, 1574b, 1574c, 1644.
-
-<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 

@@ -54,3 +54,5 @@ Section 5(b) of Pub. L. 102–82, as amended by Pub. L. 102–198, §7(c)(4)(C),
 
 This section is referred to in title 38 sections 7296, 7297.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

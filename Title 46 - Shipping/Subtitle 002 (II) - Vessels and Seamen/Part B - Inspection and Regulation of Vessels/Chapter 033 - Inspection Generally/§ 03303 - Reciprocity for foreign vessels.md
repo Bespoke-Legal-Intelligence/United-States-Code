@@ -22,13 +22,17 @@ Section 3303 acknowledges the international concept of comity with respect to re
 
 #### Amendments
 
-1996—Pub. L. 104–324 struck out subsec. (a) designation and subsec. (b) which read as follows: “The Secretary shall collect and pay to the Treasury the same fees for the inspection of foreign vessels carrying passengers from the United States that a foreign countrycharges vessels of the United States trading to the ports of that country. The Secretary may waive at any time the collection of the fees on notice of the proper authorities of any country concerned that the collection of fees for the inspection of vessels of the United States has been discontinued.”
+1996—Pub. L. 104–324 struck out subsec. (a) designation and subsec. (b) which read as follows: “The Secretary shall collect and pay to the Treasury the same fees for the inspection of foreign vessels carrying passengers from the United States that a foreign country charges vessels of the United States trading to the ports of that country. The Secretary may waive at any time the collection of the fees on notice of the proper authorities of any country concerned that the collection of fees for the inspection of vessels of the United States has been discontinued.”
 
 1992—Subsec. (a). Pub. L. 102–587, in first sentence, struck out “only” after “is subject” and substituted “the condition of the vessel is” for “the condition of the vessel's propulsion equipment and lifesaving equipment are”.
 
 #### International Convention for Safety of Life at Sea
 
 For International Conventions for the Safety of Life at Sea to which the United States has been a party, see section 1602 of Title 33, Navigation and Navigable Waters, and notes thereunder.
+
+#### Contiguous Zone of United States
+
+For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 ### §2566. Hubert H. Humphrey Institute of Public Affairs; grants for development
 
-In recognition of the public service of Senator Hubert H. Humphrey, the Secretary of Education (hereafter in sections 2566 to 2569 of this title referred to as the “Secretary”) is authorized to make grants in accordance with the provisions of sections 2566 to 2569 of this title to assist in the development of the Hubert H. Humphrey Institute of Public Affairs, located at the University of Minnesota, Minneapolis-Saint Paul.
+In recognition of the public service of Senator Hubert H. Humphrey, the Secretary of Education (hereafter in sections 2566 to 2569 of thistitle referred to as the “Secretary”) is authorized to make grants in accordance with the provisions of sections 2566 to 2569 of this title to assist in the development of the Hubert H. Humphrey Institute of Public Affairs, located at the University of Minnesota, Minneapolis-Saint Paul.
 
 (Pub. L. 95–270, §2(a), Apr. 27, 1978, 92 Stat. 220; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
 

@@ -12,7 +12,7 @@ Congress makes the following findings:
 
 &emsp;(4) Section 1436(b) of the National Defense Authorization Act, Fiscal Year 1989 (Public Law 100–456; 42 U.S.C. 2121 note) requires the Secretary of Energy to “establish and support a program to assure that the United States is in a position to maintain the reliability, safety, and continued deterrent effect of its stockpile of existing nuclear weapons designs in the event that a low-threshold or comprehensive test ban on nuclear explosive testing is negotiated and ratified.”.
 
-&emsp;(5) Section 3138(d) of the National Defense Authorization Act for Fiscal Year 1994 <sup>1</sup> (Public Law 103–160; 42 U.S.C. 2121 note) required the President to submit an annual report to Congress which sets forth “any concerns with respect to the safety, security, effectiveness, or reliability of existing United States nuclearweapons raised by the Stockpile Stewardship Program of the Department of Energy”.
+&emsp;(5) Section 3138(d) of the National Defense Authorization Act for Fiscal Year 1994 <sup>1</sup> (Public Law 103–160; 42 U.S.C. 2121 note) required the President to submit an annual report to Congress which sets forth “any concerns with respect to the safety, security, effectiveness, or reliability of existing United States nuclear weapons raised by the Stockpile Stewardship Program of the Department of Energy”.
 
 &emsp;(6) President Clinton declared in July 1993 that “to assure that our nuclear deterrent remains unquestioned under a test ban, we will explore other means of maintaining our confidence in the safety, reliability, and the performance of our weapons”. This decision was incorporated in a Presidential Directive.
 
@@ -108,9 +108,13 @@ Section is comprised of section 1305 of Pub. L. 105–85. Subsecs. (c) and (d) o
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1998, and not as part of the Department of Energy Organization Act which comprises this chapter.
 
+#### Transfer of Functions
+
+All national security functions and activities performed immediately before Oct. 5, 1999, by nuclear weapons laboratories and production plants defined in this section, transferred to the Administrator for Nuclear Security of the National Nuclear Security Administration of the Department of Energy, see section 2481 of Title 50, War and National Defense.
+
 #### “Congressional Defense Committees” Defined
 
-Congressional defense committees means the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security (now Committee on Armed Services) and the Committee on Appropriations of the House of Representatives, see section 3 of Pub. L. 105–85, 111 Stat. 1645.
+Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 105–85, 111 Stat. 1645, as amended by Pub. L. 106–65, div. A, title X, §1067(4), Oct. 5, 1999, 113 Stat. 774.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

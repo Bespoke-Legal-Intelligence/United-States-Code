@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-(1) The purpose of the standards developed under this section shall be to afford Indian students being served by a Bureau funded school with the same opportunities as all other students to achieve the National Education Goals embodied in the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\]. Consistent with the provisions of this section and section 2011 of this title, the Secretary shall take such actions as are necessary to coordinate standards developed and implemented under this section with those in the State improvement plans developed and implemented pursuant to the Goals 2000: Educate America Act for the States in which each Bureau funded school operates. In developing and reviewing such standards and coordination, the Secretary shall utilize the findings and recommendations of the panel established in section 315(b)(4) <sup>1</sup> of such Act.
+(1) The purpose of the standards developed under this section shall be to afford Indian students being served by a Bureau funded school with the same opportunities as all other students to achieve the National Education Goals embodied in the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\]. Consistent with the provisions of this section and section 2011 of this title, the Secretary shall take such actions as are necessary to coordinate standards developed and implemented under this section with those in the State improvement plans developed and implemented pursuant to the Goals 2000: Educate America Act for the States in which each Bureau funded school operates. In developingand reviewing such standards and coordination, the Secretary shall utilize the findings and recommendations of the panel established in section 315(b)(4) <sup>1</sup> of such Act.
 
 (2) The Secretary shall take immediate steps to encourage school boards of Bureau funded schools to engage their communities in adopting declarations of purposes of education in their communities, analyzing the implications of such purposes for their schools, and determining how such purposes may be made to motivate students and faculties and otherwise animate their schools by May 1, 1995. Such declarations shall represent the aspirations of a community for the kinds of persons such community wants its children to increasingly become, and shall include such purposes as assuring that all learners are becoming accomplished in ways important to themselves and respected by their parents and communities, shaping worthwhile and satisfying lives for themselves, exemplifying the best values of the community and humankind, and becoming increasingly effective in shaping the character and quality of the world all learners share.
 
@@ -22,7 +22,7 @@ The Secretary shall provide alternative or modified standards in lieu of the sta
 
 #### (e) Waiver of standards
 
-A tribal governing body, or the local school board so designated by the tribal governing body, shall have the local authority to waive, in part or in whole, the standards established under subsection <sup>2</sup> (c) and (d) of this section, where such standards are deemed by such body to be inappropriate. The tribal governing body or designated school board shall, within 60 days thereafter, submit to the Secretary a proposal for alternative standards that take into account the specific needs of the tribe's children. Such revised standards shall be established by theSecretary unless specifically rejected by the Secretary for good cause and in writing to the affected tribes or local school board, which rejection shall be final and unreviewable.
+A tribal governing body, or the local school board so designated by the tribal governing body, shall have the local authority to waive, in part or in whole, the standards established under subsection <sup>2</sup> (c) and (d) of this section, where such standards are deemed by such body to be inappropriate. The tribal governing body or designated school board shall, within 60 days thereafter, submit to the Secretary a proposal for alternative standards that take into account the specific needs of the tribe's children. Such revised standards shall be established by the Secretary unless specifically rejected by the Secretary for good cause and in writing to the affected tribes or local school board, which rejection shall be final and unreviewable.
 
 #### (f) Implementation of standards
 
@@ -32,7 +32,7 @@ A tribal governing body, or the local school board so designated by the tribal g
 
 #### (g) Annual plan for meeting of standards
 
-Subject to subsections (e) and (f) of this section, the Secretary shall begin to implement the standards established under this section immediately upon the date of their establishment. Not later than January 1, 1995, and at each time thereafter that the annual budget request for Bureau educational services is presented, the Secretary shall submit to the appropriate committees of Congress a detailed plan to bring all Bureau schools and contract or grant schools up to the level required by the applicable standards established under this section. Such plan shall include detailed information on the status of each school's educational program in relation to the applicable standards established under this section, specific cost estimates for meeting such standards at each school, and specific time lines for bringing each school up to the level required by such standards.
+Subject to subsections (e) and (f) of this section, the Secretary shall begin to implement the standards established under this section immediately upon the date of their establishment. Not later than January 1, 1995, and at each time thereafter that the annual budget request for Bureau educational services is presented, the Secretary shall submit to the appropriate committees of Congress a detailed plan to bring allBureau schools and contract or grant schools up to the level required by the applicable standards established under this section. Such plan shall include detailed information on the status of each school's educational program in relation to the applicable standards established under this section, specific cost estimates for meeting such standards at each school, and specific time lines for bringing each school up to the level required by such standards.
 
 #### (h) Closure or consolidation of schools
 
@@ -74,7 +74,7 @@ There are authorized to be appropriated such sums as may be necessary, for acade
 
 (3) The programs requested under paragraph (1) shall be developed in consultation with the Indian tribe that is to be served by such program and health personnel in the local community of such tribe.
 
-(4) Schools requesting program assistance under this subsection are encouraged to involvefamily units and, where appropriate, tribal elders and Native healers in such instructions.
+(4) Schools requesting program assistance under this subsection are encouraged to involve family units and, where appropriate, tribal elders and Native healers in such instructions.
 
 #### (k) “Tribal governing body” defined
 
@@ -150,7 +150,7 @@ For purposes of this section, the term “tribal governing body” means, with r
 
 The Goals 2000: Educate America Act, referred to in subsec. (a)(1), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), which is classified principally to chapter 68 (§5801 et seq.) of Title 20, Education (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 20 and Tables.
 
-Section 315(b)(4) of the Goals 2000: Educate America Act, referred to in subsec. (a)(1), was redesignated section 315(b)(3) of the Act, which is classified to section 5895(b)(3) of Title 20, Education, by Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(14)(A)(iii)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–253; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+Section 315 of the Goals 2000: Educate America Act, referred to in subsec. (a)(1), was classified to section 5895 of Title 20, Education, and was repealed by Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §310(i)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–265.
 
 The Tribally Controlled Schools Act of 1988, referred to in subsecs. (h)(4)(C) and (j)(1)(C), is part B (§§5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
@@ -248,7 +248,7 @@ Assistance.—The Secretary is authorized to enter into agreements with other or
 
 “(g)
 
-Report.—Not later than July 31 of each year, the Secretary of the Interior shall submit a report to the Committee on Indian Affairs of the Senate and theCommittee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives on the progress of the Department of the Interior in the development of the demonstration schools.”
+Report.—Not later than July 31 of each year, the Secretary of the Interior shall submit a report to the Committee on Indian Affairs of the Senate and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives on the progress of the Department of the Interior in the development of the demonstration schools.”
 
 #### Native Americans Educational Assistance Act
 

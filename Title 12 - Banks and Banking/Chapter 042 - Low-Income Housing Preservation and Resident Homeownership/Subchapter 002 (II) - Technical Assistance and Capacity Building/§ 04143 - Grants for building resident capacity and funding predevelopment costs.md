@@ -6,7 +6,7 @@ Assistance made available under this section shall be used for direct assistance
 
 #### (b) Allocation
 
-30 percent of the assistance made available under this section shall be used for resident capacity grants in accordance with subsection (d) of this section. The remainder shall be used for predevelopment grants in connection with specific projects in accordance with subsection (e) of this section.
+30 percent of the assistance made available under this section shall be used for resident capacity grants in accordance with subsection (d)of this section. The remainder shall be used for predevelopment grants in connection with specific projects in accordance with subsection (e) of this section.
 
 #### (c) Limitation on grant amounts
 

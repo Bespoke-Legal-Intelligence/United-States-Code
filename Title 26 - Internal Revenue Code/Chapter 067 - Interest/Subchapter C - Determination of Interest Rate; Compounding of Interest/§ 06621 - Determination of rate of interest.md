@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) 3 percentage points (2 percentage points in the case of a corporation).
 
-> &emsp;To the extent that an overpayment of tax by a corporation for any taxable period (as defined in subsection (c)(3), applied by substituting “overpayment” for “underpayment”) exceeds $10,000, subparagraph (B) shall be applied by substituting “0.5 percentage point” for “2 percentage points”.
+> &emsp;To the extent that an overpayment of tax by a corporation for any taxable period (as defined in subsection (c)(3), applied by substituting “overpayment” for “underpayment”) exceeds $10,000, subparagraph (B) shall be appliedby substituting “0.5 percentage point” for “2 percentage points”.
 
 #### (2) Underpayment rate
 
@@ -174,7 +174,7 @@ Section 11341(b) of Pub. L. 101–508 provided that: “The amendment made by su
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as a note under section 461 of this title.
+Amendment by Pub. L. 101–239 applicable to returns the due date for which (determined without regard toextensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as a note under section 461 of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -24,7 +24,7 @@
 
 #### (3) Consultation
 
-&emsp;(A) In developing and implementing a management plan, the State or interstate organization should, to the maximum extent practicable, involve local governments and regional entities, Indian tribes, and public andprivate organizations that have expertise in the control of aquatic nuisance species.
+&emsp;(A) In developing and implementing a management plan, the State or interstate organization should, to the maximum extent practicable, involve local governments and regional entities, Indian tribes, and public and private organizations that have expertise in the control of aquatic nuisance species.
 
 &emsp;(B) Upon the request of a State or the appropriate official of an interstate organization, the Task Force or the Assistant Secretary, as appropriate under paragraph (1), may provide technical assistance in developing and implementing a management plan.
 
@@ -58,7 +58,7 @@
 
 #### (c) Enforcement assistance
 
-Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extent allowable by law and in a manner consistent with section 141 of title 14, may provide assistance to a State or Indian tribe in enforcing an approved State or interstate invasive species management plan.
+Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extentallowable by law and in a manner consistent with section 141 of title 14, may provide assistance to a State or Indian tribe in enforcing an approved State or interstate invasive species management plan.
 
 (Pub. L. 101–646, title I, §1204, Nov. 29, 1990, 104 Stat. 4770; Pub. L. 104–332, §2(e)(6), (h)(1), Oct. 26, 1996, 110 Stat. 4089, 4091.)
 

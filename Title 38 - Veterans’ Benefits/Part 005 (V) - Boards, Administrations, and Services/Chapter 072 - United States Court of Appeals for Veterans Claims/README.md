@@ -10,6 +10,7 @@
 | [7254\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Jurisdiction/%C2%A7%2007254%20-%20Organization.md) | Organization. |
 | [7255\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Jurisdiction/%C2%A7%2007255%20-%20Offices.md) | Offices. |
 | [7256\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Jurisdiction/%C2%A7%2007256%20-%20Times%20and%20places%20of%20sessions.md) | Times and places of sessions. |
+| [7257\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Jurisdiction/%C2%A7%2007257%20-%20Recall%20of%20retired%20judges.md) | Recall of retired judges. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -58,10 +59,13 @@
 | [7296\.](Subchapter%20005%20%28V%29%20-%20Retirement%20and%20Survivors%20Annuities/%C2%A7%2007296%20-%20Retirement%20of%20judges.md) | Retirement of judges. |
 | [7297\.](Subchapter%20005%20%28V%29%20-%20Retirement%20and%20Survivors%20Annuities/%C2%A7%2007297%20-%20Survivor%20annuities.md) | Survivor annuities. |
 | [7298\.](Subchapter%20005%20%28V%29%20-%20Retirement%20and%20Survivors%20Annuities/%C2%A7%2007298%20-%20Retirement%20Fund.md) | Retirement Fund. |
+| [7299\.](Subchapter%20005%20%28V%29%20-%20Retirement%20and%20Survivors%20Annuities/%C2%A7%2007299%20-%20Limitation%20on%20activities%20of%20retired%20judges.md) | Limitation on activities of retired judges. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–117, title X, §§1021(b), 1024(b), Nov. 30, 1999, 113 Stat. 1592, 1594, added items 7257 and 7299.
 
 1998—Pub. L. 105–368, title V, §512(a)(3), (4)(A), Nov. 11, 1998, 112 Stat. 3341, substituted “APPEALS FOR VETERANS CLAIMS” for “VETERANS APPEALS” in chapter heading, struck out “of Veterans Appeals” after “Court” in item 7286, substituted “Court decision” for “United States Court of Veterans Appeals decision” in item 7291, and struck out “Court of Veterans Appeals” before “Retirement Fund” in item 7298.
 

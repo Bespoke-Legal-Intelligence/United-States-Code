@@ -24,7 +24,7 @@ In addition to the credit allowed under subsection (a), a taxpayer may credit ag
 
 &emsp;(A)(i) in the case of a taxable year beginning with the second consecutive January 1 as of the beginning of which there is a balance of such advances, by 5 percent of the tax imposed by section 3301 with respect to the wages paid by such taxpayer during such taxable year which are attributable to such State; and
 
-&emsp;(ii) in the case of any succeeding taxable year beginning with a consecutive January 1 as of the beginning of which there is a balance of such advances, by an additional 5 percent, for each such succeeding taxable year, of the tax imposed by section 3301 with respect to the wages paid by such taxpayer during such taxable year which are attributable to such State;
+&emsp;(ii) in the case of any succeeding taxable year beginning with a consecutive January 1 as of the beginning of which there is a balance of such advances, by an additional 5 percent, for each such succeeding taxable year, of the tax imposed by section 3301 with respect to thewages paid by such taxpayer during such taxable year which are attributable to such State;
 
 &emsp;(B) in the case of a taxable year beginning with the third or fourth consecutive January 1 as of the beginning of which there is a balance of such advances, by the amount determined by multiplying the wages paid by such taxpayer during such taxable year which are attributable to such State by the percentage (if any), multiplied by a fraction, the numerator of which is the State's average annual wage in covered employment for the calendar year in which the determination is made and the denominator of which is the wage base under this chapter, by which—
 
@@ -46,7 +46,7 @@ In addition to the credit allowed under subsection (a), a taxpayer may credit ag
 
 &emsp;(B) fulfilled its commitments under an agreement with the Secretary of Labor as described in section 239 of the Trade Act of 1974,
 
-> then, in the case of a taxpayer subject to the unemployment compensation law of such State, the total credits (after applying subsections (a) and (b) and paragraphs (1) and (2) of this section) otherwise allowable under this section for a year during which such State or agency does notenter into or fulfill such an agreement shall be reduced by 71/2 percent of the tax imposed with respect to wages paid by such taxpayer during such year which are attributable to such State.
+> then, in the case of a taxpayer subject to the unemployment compensation law of such State, the total credits (after applying subsections (a) and (b) and paragraphs (1) and (2) of this section) otherwise allowable under this section for a year during which such State or agency does not enter into or fulfill such an agreement shall be reduced by 71/2 percent of the tax imposed with respect to wages paid by such taxpayer during such year which are attributable to such State.
 
 #### (d) Definitions and special rules relating to subsection (c)
 
@@ -178,7 +178,7 @@ Subject to the limits provided by subsection (c), if—
 
 #### (i) Taxable year 1983
 
-&emsp;&emsp;&emsp;For purposes of determining whether a State meets the requirements of paragraph (2)(C) for taxable year 1983, only regular compensation (as defined in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970) shall betaken into account for purposes of determining the benefit ratio for any preceding calendar year before 1982.
+&emsp;&emsp;&emsp;For purposes of determining whether a State meets the requirements of paragraph (2)(C) for taxable year 1983, only regular compensation (as defined in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970) shall be taken into account for purposes of determining the benefit ratio for any preceding calendar year before 1982.
 
 #### (ii) Taxable year 1984
 
@@ -208,7 +208,7 @@ Subject to the limits provided by subsection (c), if—
 
 #### (1) In general
 
-&emsp;In the case of any State which meets requirements of paragraph (2) with respect to any taxable year, subsection (c)(2) shall not apply to such taxable year; except that such taxable year (and January 1 of such taxable year) shall (except as provided in subsection (f)(3)) be taken into account for purposes of applying subsection (c)(2) to succeeding taxable years.
+&emsp;In the case of any State which meets requirements of paragraph (2) with respect to any taxable year, subsection (c)(2) shall not apply to such taxable year; except that suchtaxable year (and January 1 of such taxable year) shall (except as provided in subsection (f)(3)) be taken into account for purposes of applying subsection (c)(2) to succeeding taxable years.
 
 #### (2) Requirements
 
@@ -240,7 +240,7 @@ Subject to the limits provided by subsection (c), if—
 
 &emsp;The Secretary of Labor may require a State to furnish such information at such time and in such manner as may be necessary for purposes of paragraph (2).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 439; Pub. L. 86–778, title V, §523(b), Sept. 13, 1960, 74 Stat. 980; Pub. L. 87–6, §14(b), Mar. 24, 1961, 75 Stat. 16; Pub. L. 87–321, §1(a), Sept. 26, 1961, 75 Stat. 683; Pub. L. 88–31, §2(b), May 29, 1963, 77 Stat. 51; Pub. L. 88–173, §1(a)–(c), Nov. 7, 1963, 77 Stat. 305; Pub. L. 91–373, title I, §142(a), (b), Aug. 10, 1970, 84 Stat. 707; Pub. L. 93–618, title II, §239(e), Jan. 3, 1975, 88 Stat. 2025; Pub. L. 94–45, title I, §110(a), title III, §302, June 30, 1975, 89 Stat. 239, 243; Pub.L. 94–455, title XIX, §§1903(a)(12), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1808, 1834; Pub. L. 95–19, title II, §201(a), Apr. 12, 1977, 91 Stat. 43; Pub. L. 96–589, §6(f), Dec. 24, 1980, 94 Stat. 3409; Pub. L. 97–35, title XXIV, §2406(a), Aug. 13, 1981, 95 Stat. 876; Pub. L. 97–248, title II, §§271(c)(2), (3)(A), (B), 272(a), 273(a), Sept. 3, 1982, 96 Stat. 555–557; Pub. L. 98–21, title V, §§512(a)(1), (b), 513(a)–(c), Apr. 20, 1983, 97 Stat. 146, 147; Pub. L. 99–514, title XVIII, §1884(1), (2), Oct. 22, 1986, 100 Stat. 2919.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 439; Pub. L. 86–778, title V, §523(b), Sept. 13, 1960, 74 Stat. 980; Pub. L. 87–6, §14(b), Mar. 24, 1961, 75 Stat. 16; Pub. L. 87–321, §1(a), Sept. 26, 1961, 75 Stat. 683; Pub. L. 88–31, §2(b), May 29, 1963, 77 Stat. 51; Pub. L. 88–173, §1(a)–(c), Nov. 7, 1963, 77 Stat. 305; Pub. L. 91–373, title I, §142(a), (b), Aug. 10, 1970, 84 Stat. 707; Pub. L. 93–618, title II, §239(e), Jan. 3, 1975, 88 Stat. 2025; Pub. L. 94–45, title I, §110(a), title III, §302, June 30, 1975, 89 Stat. 239, 243; Pub. L. 94–455, title XIX, §§1903(a)(12), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1808, 1834; Pub. L. 95–19, title II, §201(a), Apr. 12, 1977, 91 Stat. 43; Pub. L. 96–589, §6(f), Dec. 24, 1980, 94 Stat. 3409; Pub. L. 97–35, title XXIV, §2406(a), Aug. 13, 1981, 95 Stat. 876; Pub. L. 97–248, title II, §§271(c)(2), (3)(A), (B), 272(a), 273(a), Sept. 3, 1982, 96 Stat. 555–557; Pub. L. 98–21, title V, §§512(a)(1), (b), 513(a)–(c), Apr. 20, 1983, 97 Stat. 146, 147; Pub. L. 99–514, title XVIII, §1884(1), (2), Oct. 22, 1986, 100 Stat. 2919.)
 
 #### References in Text
 
@@ -478,7 +478,7 @@ Section 201(b) of Pub. L. 95–19 provided that extension under section 201(a) o
 
 Section 110(b) of Pub. L. 94–45 provided that:
 
-“(1) The amendment made by subsection (a) \[amending this section\] shall not be applicable in the case of any State unless the Secretary of Labor finds that such State has studied and taken appropriate action with respect to the financing of its unemployment programs so as substantially to accomplish the purpose of restoring the fiscal soundness of the State's unemployment account in the Unemployment Trust Fund and permitting the repayment within a reasonable time of any advances made to such account under title XII of the Social Security Act \[section 1321 et seq. of Title 42, The Public Health and Welfare\]. For purposes of the preceding sentence, appropriate action with respect to the financing of a State's unemployment programs means an increase in the State's unemployment tax rate, an increase in the State's unemployment tax base, a change in the experience rating formulas, or a combination thereof.
+“(1) The amendment made by subsection (a) \[amending this section\] shall not be applicable in the case of any State unless the Secretary of Labor finds that suchState has studied and taken appropriate action with respect to the financing of its unemployment programs so as substantially to accomplish the purpose of restoring the fiscal soundness of the State's unemployment account in the Unemployment Trust Fund and permitting the repayment within a reasonable time of any advances made to such account under title XII of the Social Security Act \[section 1321 et seq. of Title 42, The Public Health and Welfare\]. For purposes of the preceding sentence, appropriate action with respect to the financing of a State's unemployment programs means an increase in the State's unemployment tax rate, an increase in the State's unemployment tax base, a change in the experience rating formulas, or a combination thereof.
 
 “(2) The Secretary of Labor shall promptly prescribe and publish in the Federal Register regulations setting forth the criteria according to which he will determine the requirements of the preceding paragraph.
 

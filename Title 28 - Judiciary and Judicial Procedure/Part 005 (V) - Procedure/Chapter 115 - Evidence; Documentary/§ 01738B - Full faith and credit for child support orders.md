@@ -154,7 +154,7 @@ Subsec. (i). Pub. L. 104–193, §322(13), added subsec. (i).
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 effective as if included in enactment of title III of the Personal Responsibilityand Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5557 of Pub. L. 105–33, set out as a note under section 608 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 105–33 effective as if included in enactment of title III of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5557 of Pub. L. 105–33, set out as a note under section 608 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1996 Amendment
 

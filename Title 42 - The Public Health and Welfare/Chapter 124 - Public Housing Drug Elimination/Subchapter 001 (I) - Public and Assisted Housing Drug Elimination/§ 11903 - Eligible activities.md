@@ -16,7 +16,7 @@ Grants under this subchapter may be used in public housing or other federally as
 
 &emsp;&emsp;(B) to provide evidence relating to such crime in any administrative or judicial proceeding;
 
-&emsp;(5) the provision of training, communications equipment, and other related equipmentfor use by voluntary tenant patrols acting in cooperation with local law enforcement officials;
+&emsp;(5) the provision of training, communications equipment, and other related equipment for use by voluntary tenant patrols acting in cooperation with local law enforcement officials;
 
 &emsp;(6) programs designed to reduce use of drugs in and around public or other federally assisted low-income housing projects, including drug-abuse prevention, intervention, referral, and treatment programs;
 

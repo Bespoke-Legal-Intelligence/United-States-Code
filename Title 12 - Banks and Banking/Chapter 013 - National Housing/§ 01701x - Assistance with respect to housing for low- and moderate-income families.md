@@ -4,7 +4,7 @@
 
 (1) The Secretary is authorized to provide, or contract with public or private organizations to provide, information, advice, and technical assistance, including but not limited to—
 
-&emsp;(i) the assembly, correlation, publication, and dissemination of information with respect to the construction, rehabilitation, and operation of low- and moderate-income housing;
+&emsp;(i) the assembly, correlation, publication, and dissemination of information with respectto the construction, rehabilitation, and operation of low- and moderate-income housing;
 
 &emsp;(ii) the provision of advice and technical assistance to public bodies or to nonprofit or cooperative organizations with respect to the construction, rehabilitation, and operation of low- and moderate-income housing, including assistance with respect to self-help and mutual self-help programs;
 
@@ -38,7 +38,7 @@
 
 #### (2) Program requirements
 
-&emsp;(A) Applications for grants under this subsection shall be submitted in the form, and inaccordance with the procedures, that the Secretary requires.
+&emsp;(A) Applications for grants under this subsection shall be submitted in the form, and in accordance with the procedures, that the Secretary requires.
 
 &emsp;(B) The homeownership counseling organizations receiving assistance under this subsection shall use the assistance only to provide homeownership counseling to eligible homeowners.
 
@@ -262,7 +262,7 @@
 
 #### (8) Evaluation
 
-&emsp;Each organization providing counseling under the demonstration program under this subsection shall maintain records with respectto each eligible homebuyer and eligible homeowner counseled and shall provide information with respect to such counseling as the Secretary or the Comptroller General may require.
+&emsp;Each organization providing counseling under the demonstration program under this subsection shall maintain records with respect to each eligible homebuyer and eligible homeowner counseled and shall provide information with respect to such counseling as the Secretary or the Comptroller General may require.
 
 #### (9) Definitions
 
@@ -364,7 +364,7 @@
 
 #### (B) Selection
 
-&emsp;&emsp;The Secretary shall provide for entities meeting the requirements of subparagraph (A) to submit applications to provide the training and certification program under this subsection. The Secretary shall select an application based on the ability of the entity to—
+&emsp;&emsp;The Secretary shall provide for entities meeting the requirements of subparagraph\(A) to submit applications to provide the training and certification program under this subsection. The Secretary shall select an application based on the ability of the entity to—
 
 &emsp;&emsp;&emsp;(i) establish the program as soon as possible on a national basis, but not later than the date under paragraph (6);
 
@@ -398,7 +398,7 @@
 
 The Housing and Community Development Act of 1974, referred to in subsec. (a)(1)(iv), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
 
-Section 152 of the Housing and Community Development Act of 1992, referred to in subsec. (a)(3), is section 152 of Pub. L. 102–550, which is set out as a note under section 1437f of Title 42.
+Section 152 of the Housing and Community Development Act of 1992, referred to in subsec. (a)(3), is section 152 of Pub. L. 102–550, which was set out as a note under section 1437f of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 105–276, title V, §550(f), Oct. 21, 1998, 112 Stat. 2610.
 
 The National Housing Act, referred to in subsecs. (a)(2) and (d)(9)(K), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
@@ -422,7 +422,7 @@ Subsec. (c)(9). Pub. L. 105–276, §594(a), substituted “2000” for “1994�
 
 Subsec. (d)(8). Pub. L. 104–316, §106(a)(3), struck out “(for purposes of the study and report under paragraph (9))” before “may require”.
 
-Subsec. (d)(9) to (13). Pub. L. 104–316, §106(a)(1), (4), redesignated pars. (10) to (13) as (9) to (12), respectively,and struck out former par. (9) which related to GAO study and report on demonstration program.
+Subsec. (d)(9) to (13). Pub. L. 104–316, §106(a)(1), (4), redesignated pars. (10) to (13) as (9) to (12), respectively, and struck out former par. (9) which related to GAO study and report on demonstration program.
 
 1992—Subsec. (a)(3). Pub. L. 102–550, §162(a), substituted “except that for such purposes there are authorized to be appropriated $6,025,000 for fiscal year 1993 and $6,278,050 for fiscal year 1994. Of the amounts appropriated for each of fiscal years 1993 and 1994, up to $500,000 shall be available for use for counseling and other activities in connection with the demonstration program under section 152 of the Housing and Community Development Act of 1992.” for “except that for such purposes there are authorized to be appropriated $3,600,000 for fiscal year 1991 and $3,700,000 for fiscal year 1992.”
 
@@ -504,7 +504,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Regulations
 
-Section 162(e) of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Development shall issue any regulations necessary to carry out theamendments made by subsection (d) \[amending this section\], not later than the expiration of the 6-month period beginning on the date of the enactment of this Act \[Oct. 28, 1992\].”
+Section 162(e) of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Development shall issue any regulations necessary to carry out the amendments made by subsection (d) \[amending this section\], not later than the expiration of the 6-month period beginning on the date of the enactment of this Act \[Oct. 28, 1992\].”
 
 #### Section Referred to in Other Sections
 

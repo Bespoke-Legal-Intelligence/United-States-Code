@@ -30,7 +30,7 @@ Based on title 28, U.S.C., 1940 ed., §§111, 112 (Mar. 3, 1911, ch. 231, §§50
 
 Section consolidates section 111 of title 28, U.S.C., 1940 ed., with part of section 112 of such title.
 
-The portion of section 112 of title 28, U.S.C., 1940 ed., relating to venue generally constitutes this section and the parts relating to arrest of the defendant, venue and process in stockholders’ actions constitute sections 1401, 1693, and 1695 of this title.
+The portion of section 112 of title 28, U.S.C., 1940 ed., relating to venue generally constitutes this section andthe parts relating to arrest of the defendant, venue and process in stockholders’ actions constitute sections 1401, 1693, and 1695 of this title.
 
 Provision in section 111 of title 28, U.S.C., 1940 ed., that a district court may proceed as to parties before it although one or more defendants do not reside in the district, and that its judgment shall be without prejudice to such absent defendants, was omitted as covered by rule 19(b) of the Federal Rules of Civil Procedure.
 

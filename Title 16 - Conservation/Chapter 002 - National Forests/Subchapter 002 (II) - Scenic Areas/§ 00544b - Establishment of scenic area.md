@@ -60,7 +60,7 @@ The Secretary, in consultation with the Commission, may make minor revisions in 
 
 &emsp;(D) revision of urban area boundaries would not result in the significant reduction of agricultural lands, forest lands, or open spaces.
 
-(Pub. L. 99–663, §4, Nov. 17, 1986, 100 Stat. 4276; Pub. L. 103–437, §6(d)(34), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 105–277, div. A, §101(e) \[title III, §354(a)\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–303.)
+(Pub. L. 99–663, §4, Nov. 17, 1986, 100 Stat. 4276; Pub. L. 103–437, §6(d)(34), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 105–277, div. A, §101(e) \[title III, §354(a)\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–303; Pub. L. 106–31, title V, §5004(3), May 21, 1999, 113 Stat. 110.)
 
 #### References in Text
 
@@ -68,13 +68,19 @@ The Second Supplemental Appropriations Act, 1984, referred to in subsec. (a)(2)(
 
 #### Amendments
 
-1998—Subsec. (a)(2). Pub. L. 105–277 inserted par. (2) heading, designated existing provisions as subpar. (A), inserted heading, and substituted “Except as provided in subparagraph (B), the boundaries” for “The boundaries”, and added subpar. (B).
+1999—Subsec. (a)(2). Pub. L. 106–31 made technical correction to directory language of Pub. L. 105–277. See 1998 Amendment note below.
+
+1998—Subsec. (a)(2). Pub. L. 105–277, as amended by Pub. L. 106–31, inserted par. (2) heading, designated existing provisions as subpar. (A), inserted heading, and substituted “Except as provided in subparagraph (B), the boundaries” for “The boundaries”, and added subpar. (B).
 
 1994—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committees on Agriculture and”.
 
 #### Change of Name
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–31, title V, §5004(4), May 21, 1999, 113 Stat. 110, provided that: “The amendments made by paragraphs (1), (2), and (3) of this section \[amending this section and section 1374 of this title\], shall take effect as if included in Public Law 105–277 on the date of its enactment \[Oct. 21, 1998\].”
 
 #### Congressional Intent of 1998 Amendment
 

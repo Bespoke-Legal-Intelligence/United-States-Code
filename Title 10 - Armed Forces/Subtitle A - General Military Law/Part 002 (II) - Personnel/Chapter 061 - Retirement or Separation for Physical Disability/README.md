@@ -9,6 +9,7 @@
 | [1205\.](%C2%A7%2001205%20-%20Members%20on%20active%20duty%20for%2030%20days%20or%20less%20temporary%20disability%20retired%20list.md) | Members on active duty for 30 days or less: temporary disability retired list. |
 | [1206\.](%C2%A7%2001206%20-%20Members%20on%20active%20duty%20for%2030%20days%20or%20less%20or%20on%20inactive-duty%20training%20separation.md) | Members on active duty for 30 days or less or on inactive-duty training: separation. |
 | [1207\.](%C2%A7%2001207%20-%20Disability%20from%20intentional%20misconduct%20or%20willful%20neglect%20separation.md) | Disability from intentional misconduct or willful neglect: separation. |
+| [1207a.](%C2%A7%2001207a%20-%20Members%20with%20over%20eight%20years%20of%20active%20service%20eligibility%20for%20disability%20retirement%20for%20pre-existing%20conditions.md) | Members with over eight years of active service: eligibility for disability retirement for pre-existing conditions. |
 | [1208\.](%C2%A7%2001208%20-%20Computation%20of%20service.md) | Computation of service. |
 | [1209\.](%C2%A7%2001209%20-%20Transfer%20to%20inactive%20status%20list%20instead%20of%20separation.md) | Transfer to inactive status list instead of separation. |
 | [1210\.](%C2%A7%2001210%20-%20Members%20on%20temporary%20disability%20retired%20list%20periodic%20physical%20examination%3B%20final%20determination%20of%20status.md) | Members on temporary disability retired list: periodic physical examination; final determination of status. |
@@ -27,6 +28,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title VI, §653(a)(2), Oct. 5, 1999, 113 Stat. 666, added item 1207a.
 
 1997—Pub. L. 105–85, div. A, title V, §513(d)(3), Nov. 18, 1997, 111 Stat. 1731, inserted “or on inactive-duty training” after “Members on active duty for 30 days or less” in items 1204 and 1206.
 
@@ -50,7 +53,7 @@ Uniform date for retirement of Federal personnel, see section 8301 of Title 5, G
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1142, 1370, 1401a, 1402, 1402a, 1408, 1409, 1431, 1452, 1481 of this title; title 14 section 294; title 33 section 857a; title 37 sections 404, 406; title 42 sections 212, 213a.
+This chapter is referred to in sections 1142, 1370, 1402, 1402a, 1408, 1409, 1413, 1431, 1452, 1471, 1481 of this title; title 14 section 294; title 33 section 857a; title 37 sections 404, 406; title 42 sections 212, 213a.
 
 
 ---
@@ -64,6 +67,7 @@ This chapter is referred to in sections 1142, 1370, 1401a, 1402, 1402a, 1408, 14
 - [&sect; 01205 - Members on active duty for 30 days or less temporary disability retired list](%C2%A7%2001205%20-%20Members%20on%20active%20duty%20for%2030%20days%20or%20less%20temporary%20disability%20retired%20list.md)
 - [&sect; 01206 - Members on active duty for 30 days or less or on inactive-duty training separation](%C2%A7%2001206%20-%20Members%20on%20active%20duty%20for%2030%20days%20or%20less%20or%20on%20inactive-duty%20training%20separation.md)
 - [&sect; 01207 - Disability from intentional misconduct or willful neglect separation](%C2%A7%2001207%20-%20Disability%20from%20intentional%20misconduct%20or%20willful%20neglect%20separation.md)
+- [&sect; 01207a - Members with over eight years of active service eligibility for disability retirement for pre-existing conditions](%C2%A7%2001207a%20-%20Members%20with%20over%20eight%20years%20of%20active%20service%20eligibility%20for%20disability%20retirement%20for%20pre-existing%20conditions.md)
 - [&sect; 01208 - Computation of service](%C2%A7%2001208%20-%20Computation%20of%20service.md)
 - [&sect; 01209 - Transfer to inactive status list instead of separation](%C2%A7%2001209%20-%20Transfer%20to%20inactive%20status%20list%20instead%20of%20separation.md)
 - [&sect; 01210 - Members on temporary disability retired list periodic physical examination; final determination of status](%C2%A7%2001210%20-%20Members%20on%20temporary%20disability%20retired%20list%20periodic%20physical%20examination%3B%20final%20determination%20of%20status.md)

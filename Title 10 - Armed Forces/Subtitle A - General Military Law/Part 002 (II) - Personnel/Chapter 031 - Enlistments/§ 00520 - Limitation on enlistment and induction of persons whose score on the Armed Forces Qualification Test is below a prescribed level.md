@@ -28,7 +28,7 @@ Section 402(b)(2) of Pub. L. 97–86 provided that: “The amendments made by pa
 
 #### Pilot Program for Treating GED and Home School Diploma Recipients as High School Graduates for Determinations of Eligibility for Enlistment in Armed Forces
 
-Pub. L. 105–261, div. A, title V, §571, Oct. 17, 1998, 112 Stat. 2033, provided that:
+Pub. L. 105–261, div. A, title V, §571, Oct. 17, 1998, 112 Stat. 2033, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, provided that:
 
 “(a)
 
@@ -60,11 +60,11 @@ Duration of Pilot Program.—The pilot program shall be in effect during the per
 
 “(f)
 
-Report.—Not later than February 1, 2004, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the pilot program. The report shall include the following, set forth separately for GED recipients and home school diploma recipients:
+Report.—Not later than February 1, 2004, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the pilot program. The report shall include the following, set forth separately for GED recipients and home school diploma recipients:
 
 &emsp;“(1) The assessment of the Secretary of Defense, and any assessment of any of the Secretaries of the military departments, regarding the value of, and any necessity for, authority to treat GED recipients and home school diploma recipients as having graduated from high school with a high school diploma for the purpose of determining the eligibility of those persons to enlist in the Armed Forces.
 
-&emsp;“(2) A comparison (shown by armed force and by each fiscal year of the pilot program) of the performance of the persons who enlisted during the fiscal year as GED or home school diploma recipients treated under the pilot program as having graduated fromhigh school with a high school diploma with the performance of the persons who enlisted in that armed force during the same fiscal year after having graduated from high school with a high school diploma, with respect to the following:
+&emsp;“(2) A comparison (shown by armed force and by each fiscal year of the pilot program) of the performance of the persons who enlisted during the fiscal year as GED or home school diploma recipients treated under the pilot program as having graduated from high school with a high school diploma with the performance of the persons who enlisted in that armed force during the same fiscal year after having graduated from high school with a high school diploma, with respect to the following:
 
 &emsp;&emsp;“(A) Attrition.
 
@@ -78,7 +78,7 @@ Report.—Not later than February 1, 2004, the Secretary of Defense shall submit
 
 “(g)
 
-State Defined.—For purposes of this section, the term ‘State’ includes the District of Columbia, the Commonwealth of Puerto Rico, and the territories of the United States.”
+State Defined.—For purposes of this section, the term ‘State’ includes the District of Columbia, theCommonwealth of Puerto Rico, and the territories of the United States.”
 
 #### Maximum Number of Army Enlistees and Inductees Who Are Not High School Graduates
 

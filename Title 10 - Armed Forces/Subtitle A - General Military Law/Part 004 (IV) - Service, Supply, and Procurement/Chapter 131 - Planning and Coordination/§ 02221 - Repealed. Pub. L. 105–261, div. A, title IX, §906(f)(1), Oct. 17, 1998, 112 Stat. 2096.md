@@ -4,5 +4,5 @@ Section, added Pub. L. 104–106, div. A, title IX, §914(a)(1), Feb. 10, 1996, 
 
 #### Effective Date of Repeal
 
-Repeal effective 90 days after Oct. 17, 1998, see section 906(f)(3) of Pub. L. 105–261, set out as an Effective Date of 1998 Amendment note under section 1321 of Title 31, Money and Finance.
+Repeal effective 90 days after Oct. 17, 1998, see section 906(f)(3) of Pub. L. 105–261, set out as an Effective Dateof 1998 Amendment note under section 1321 of Title 31, Money and Finance.
 

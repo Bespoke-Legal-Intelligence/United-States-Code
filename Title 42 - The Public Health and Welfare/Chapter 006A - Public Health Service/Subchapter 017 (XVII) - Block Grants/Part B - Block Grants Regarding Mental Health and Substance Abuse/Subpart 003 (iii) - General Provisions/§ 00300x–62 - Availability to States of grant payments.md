@@ -10,7 +10,7 @@ If a State has in accordance with subsection (a) of this section obligated amoun
 
 &emsp;(1) the amounts involved shall be available for reobligation by the State through September 30 of the fiscal year following the fiscal year for which the amounts were paid to the State; and
 
-&emsp;(2) any of such amounts that are obligated by the State in accordance with paragraph (1) shall be available for expenditure through such date.
+&emsp;(2) any of such amounts that are obligated by the State in accordance with paragraph (1)shall be available for expenditure through such date.
 
 (July 1, 1944, ch. 373, title XIX, §1952, as added Pub. L. 102–321, title II, §203(a), July 10, 1992, 106 Stat. 409.)
 

@@ -6,7 +6,7 @@ In order to preserve for public use and enjoyment certain areas of Marin and San
 
 #### The Presidio of San Francisco
 
-Pub. L. 104–333, div. I, title I, Nov. 12, 1996, 110 Stat. 4097, as amended by Pub. L. 105–83, title III, §351, Nov. 14, 1997, 111 Stat. 1607, provided that:
+Pub. L. 104–333, div. I, title I, Nov. 12, 1996, 110 Stat. 4097, as amended by Pub. L. 105–83, title III, §351, Nov.14, 1997, 111 Stat. 1607; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §334\], Nov. 29, 1999, 113 Stat. 1535, 1501A–198, provided that:
 
 #### “SEC. 101. FINDINGS.
 
@@ -126,7 +126,7 @@ Authorities.—The Trust may participate in the development of programs and acti
 
 Management Program.—The Trust shall develop a comprehensive program for management of those lands and facilities within the Presidio which are transferred to the administrative jurisdiction of the Trust. Such program shall be designed to reduce expenditures by the National Park Service and increase revenues to the Federal Government to the maximum extent possible. In carrying out this program, the Trust shall be treated as a successor in interest to the National Park Service with respect to compliance with the National Environmental Policy Act \[of 1969\] \[42 U.S.C. 4321 et seq.\] and other environmental compliance statutes. Such program shall consist of—
 
-&emsp;“(1) demolition of structures which in the opinion of the Trust, cannot be cost-effectively rehabilitated, and which are identified in the management plan for demolition,
+&emsp;“(1) demolition of structures which in the opinion of the Trust, cannot be cost-effectively rehabilitated,and which are identified in the management plan for demolition,
 
 &emsp;“(2) evaluation for possible demolition or replacement those buildings identified as categories 2 through 5 in the Presidio of San Francisco Historic Landmark District Historic American Buildings Survey Report, dated 1985,
 
@@ -150,9 +150,9 @@ Financial Authorities.—To augment or encourage the use of non-Federal funds to
 
 &emsp;“(2) The authority, subject to appropriations, to make loans to the occupants of property managed by the Trust for the preservation, restoration, maintenance, or repair of such property.
 
-&emsp;“(3) The authority to issue obligations to the Secretary of the Treasury, but only if the Secretary of the Treasury agrees to purchase such obligations after determining that the projects to be funded from the proceeds thereof are credit worthy and that a repayment schedule is established and only to the extent authorized in advance in appropriations acts. The Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, United States Code, and the purposes for which securities may be issued under such chapter are extended to include any purchase of such notes or obligations acquired by the Secretary of the Treasury under this subsection. Obligations issued under this subparagraph shall be in such forms and denominations, bearing such maturities, and subject to such terms and conditions, as may be prescribed by the Secretary of the Treasury, and shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. No funds appropriated to the Trust may be used for repayment of principal or interest on, or redemption of, obligations issued under this paragraph.
+&emsp;“(3) The authority to issue obligations to the Secretary of the Treasury, but only if the Secretary of the Treasury agrees to purchase such obligations to the extent authorized in advance in appropriations acts. The Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, United States Code, and the purposes for which securities may be issued under such chapter are extended to include any purchase of such notes or obligations acquired by the Secretary of the Treasury under this subsection. Obligations issued under this subparagraph shall be in such forms and denominations, bearing such maturities, and subject to such terms and conditions, including a review of the creditworthiness of the loan and establishment of a repayment schedule, as may be prescribed by the Secretary of the Treasury, and shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. No funds appropriated to the Trust may be used for repayment of principal or interest on, or redemption of, obligations issued under this paragraph.
 
-&emsp;“(4) The aggregate amount of obligations issued under this subsection which are outstanding at any one time may not exceed $50,000,000.
+&emsp;“(4) The aggregate amount of obligations issued under paragraph (3) of this subsection which are outstanding at any one time may not exceed $50,000,000.
 
 “(e)
 
@@ -196,7 +196,7 @@ Leasing.—In managing and leasing the properties transferred to it, the Trust s
 
 “(<i>o</i>)
 
-Reversion.—If, at the expiration of 15 years, the Trust has not accomplished the goals and objectives of the plan required in section 105(b) of this title, then all property under the administrative jurisdiction of the Trust pursuant to section 103(b) of this title shall be transferred to the Administrator of the General Services Administration to be disposed of in accordance with the procedures outlined in the Defense Authorization Act of 1990 (104 Stat. 1809) \[probably means part Aof title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, set out as a note under section 2687 of Title 10, Armed Forces\], and any real property so transferred shall be deleted from the boundary of the Golden Gate National Recreation Area. In the event of such transfer, the terms and conditions of all agreements and loans regarding such lands and facilities entered into by the Trust shall be binding on any successor in interest.
+Reversion.—If, at the expiration of 15 years, the Trust has not accomplished the goals and objectives of the plan required in section 105(b) of this title, then all property under the administrative jurisdiction of the Trust pursuant to section 103(b) of this title shall be transferred to the Administrator of the General Services Administration to be disposed of in accordance with the procedures outlined in the Defense Authorization Act of 1990 (104 Stat. 1809) \[probably means part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, set out as a note under section 2687 of Title 10, Armed Forces\], and any real property so transferred shall be deleted from the boundary of the Golden Gate National Recreation Area. In the event of such transfer, the terms and conditions of all agreements and loans regarding such lands and facilities entered into by the Trust shall be binding on any successor in interest.
 
 #### “SEC. 105. LIMITATIONS ON FUNDING.
 

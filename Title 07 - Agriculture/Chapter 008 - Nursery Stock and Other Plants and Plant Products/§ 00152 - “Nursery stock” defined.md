@@ -1,6 +1,6 @@
 ### §152. “Nursery stock” defined
 
-For the purpose of this chapter the term “nursery stock” shall include all field-grown florists’ stock, trees, shrubs, vines, cuttings, grafts, scions, buds, fruit pits, and other seeds of fruit and ornamental trees or shrubs, and other plants and plant products for propagation, except field, vegetable, and flower seeds, bedding plants, and other herbaceous plants, bulbs, and roots.
+For the purpose of this chapter the term “nursery stock” shall include all field-grown florists’ stock, trees, shrubs, vines, cuttings, grafts, scions, buds, fruit pits, and other seeds of fruit and ornamental trees or shrubs, and other plants and plant products for propagation, except field, vegetable, and flower seeds, beddingplants, and other herbaceous plants, bulbs, and roots.
 
 (Aug. 20, 1912, ch. 308, §6, 37 Stat. 317.)
 

@@ -20,7 +20,7 @@ A taxpayer shall be allowed an additional credit under section 3302(b) with resp
 
 &emsp;&emsp;(B) the balance of such account amounts to not less than five times the largest amount of compensation paid from such account within any 1 of the 3 years preceding such date, and
 
-&emsp;&emsp;(C) the balance of such account amounts to not less than 21/2 percent of that part of thepayroll or payrolls for the 3 years preceding such date by which contributions to such account were measured, and
+&emsp;&emsp;(C) the balance of such account amounts to not less than 21/2 percent of that part of the payroll or payrolls for the 3 years preceding such date by which contributions to such account were measured, and
 
 &emsp;&emsp;(D) such contributions were payable to such account with respect to the 3 years preceding the computation date.
 
@@ -54,7 +54,7 @@ As used in this section—
 
 &emsp;The term “guaranteed employment account” means a separate account, in an unemployment fund, maintained with respect to a person (or group of persons) having individuals in his (or their) employ who, in accordance with the provisions of the State law or of a plan thereunder approved by the State agency,
 
-&emsp;&emsp;(A) guarantees in advance at least 30 hours of work, for which remuneration will be paid at not less than stated rates, for each of 40 weeks (or if more, 1 weekly hour may be deducted for each added week guaranteed) in a year, to all the individuals who are in his (or their) employ in, and who continue to be available for suitable work in, one or more distinct establishments, except that anysuch individual's guaranty may commence after a probationary period (included within the 11 or less consecutive weeks immediately following the first week in which the individual renders services), and
+&emsp;&emsp;(A) guarantees in advance at least 30 hours of work, for which remuneration will be paid at not less than stated rates, for each of 40 weeks (or if more, 1 weekly hour may be deducted for each added week guaranteed) in a year, to all the individuals who are in his (or their) employ in, and who continue to be available for suitable work in, one or more distinct establishments, except that any such individual's guaranty may commence after a probationary period (included within the 11 or less consecutive weeks immediately following the first week in which the individual renders services), and
 
 &emsp;&emsp;(B) gives security or assurance, satisfactory to the State agency, for the fulfillment of such guaranties, from which account, unless such account is exhausted or terminated, is paid all and only compensation, payable on the basis of services performed for such person (or for one or more of the persons comprising the group), to any such individual whose guaranteed remuneration has not been paid (either pursuant to the guaranty or from the security or assurance provided for the fulfillment of the guaranty), or whose guaranty is not renewed and who is otherwise eligible for compensation under the State law.
 
@@ -80,7 +80,7 @@ A State law may, without being deemed to violate the standards set forth in subs
 
 #### (e) Payments by certain nonprofit organizations
 
-A State may, without being deemed to violate the standards set forth in subsection (a), permit an organization (or a group of organizations) described in section 501(c)(3) which is exempt from income tax under section 501(a) to elect (in lieu of paying contributions) to pay into the State unemployment fund amounts equal to the amounts of compensation attributable under the State law to service performed in the employ of such organization (or group).
+A State may, without being deemed to violate the standards set forth in subsection (a), permit an organization (or a group of organizations) described in section 501(c)(3) which is exempt from income tax under section 501(a) to elect (in lieu of paying contributions) to pay into the State unemployment fund amounts equal to the amounts of compensation attributable under theState law to service performed in the employ of such organization (or group).
 
 #### (f) Transition
 
@@ -144,7 +144,7 @@ Section 2 of act Sept. 1, 1954, provided that the amendment made by that section
 
 Pub. L. 98–21, title V, §524, Apr. 20, 1983, 97 Stat. 149, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If—
 
-&emsp;“(1) an organization did not make an election to make payments (in lieu of contributions) as provided in section 3309(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] before April 1, 1972, because such organization, as of such date, was treated as an organization described in section 501(c)(4) of such Code,
+&emsp;“(1) an organization did not make an election to make payments (in lieu of contributions) as providedin section 3309(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] before April 1, 1972, because such organization, as of such date, was treated as an organization described in section 501(c)(4) of such Code,
 
 &emsp;“(2) the Internal Revenue Service subsequently determined that such organization was described in section 501(c)(3) of such Code, and
 

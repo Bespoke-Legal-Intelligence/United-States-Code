@@ -8,7 +8,7 @@ Arrangements With Foreign Countries.—The President is requested to make the ne
 
 Transfer of Administrative Duties and Powers and Supplies, Material, and Equipment to Commission.—(1) The President by executive order may transfer to the Commission—
 
-&emsp;(A) the same administrative duties and powers related to a permanent military cemeterylocated outside the United States and the territories and possessions of the United States that were transferred to the Commission by Executive Order 6614, February 26, 1934, and Executive Order 10057, May 14, 1949, as amended by Executive Order 10087, December 3, 1949; and
+&emsp;(A) the same administrative duties and powers related to a permanent military cemetery located outside the United States and the territories and possessions of the United States that were transferred to the Commission by Executive Order 6614, February 26, 1934, and Executive Order 10057, May 14, 1949, as amended by Executive Order 10087, December 3, 1949; and
 
 &emsp;(B) supplies, material, and equipment located in the permanent military cemetery or in a military depot overseas that—
 
@@ -80,7 +80,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 1–101. The Secretary of State shall take all appropriate steps to complete, prior to the date of entry into force of the Treaty Concerning the Permanent Neutrality and Operation of the Panama Canal, hereinafter referred to as the Neutrality Treaty, the negotiations which have begun with the Republic of Panama for an agreement under which the United States of America would, upon the date of entry into force of such agreement and thereafter, administer as a permanent American cemetery such part of Corozal Cemetery as encompasses the remains of citizens of the United States of America.
 
-1–102. Subject to the conclusion of the agreement referred to in Section 1–101 of this Order, the American Battle Monuments Commission shall administer that part of Corozal Cemetery which encompasses the remains of citizens of the United States of America, inaccordance with the terms of the agreement with the Republic of Panama.
+1–102. Subject to the conclusion of the agreement referred to in Section 1–101 of this Order, the American Battle Monuments Commission shall administer that part of Corozal Cemetery which encompasses the remains of citizens of the United States of America, in accordance with the terms of the agreement with the Republic of Panama.
 
 1–103. The Governor of the Canal Zone shall, to the extent funds are available, disinter from Mount Hope Cemetery, before entry into force of the Neutrality Treaty, and reinter in Corozal Cemetery the remains of United States citizens, and the remains of members of their immediate family that are buried with them. The Governor shall not remove from Mount Hope Cemetery the remains of any such person whose next of kin timely requests in writing that such remains not be disinterred. The Governor shall transport to the United States for reinterment the remains of any such person whose next of kin timely requests in writing that such remains be transported to the United States for reinterment.
 

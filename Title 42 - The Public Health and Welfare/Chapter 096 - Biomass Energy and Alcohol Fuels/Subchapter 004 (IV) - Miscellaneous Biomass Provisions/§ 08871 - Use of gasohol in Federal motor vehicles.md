@@ -36,7 +36,7 @@ By the authority vested in me as President of the United States of America by Se
 
 1–102. Agencies may procure the components of gasohol and do their own blending.
 
-1–103. In determining the feasibility of specifying gasohol as a substitute motor fuel in procurement actionsfor unleaded gasoline, agencies shall include in their considerations such factors as the availability of storage facilities for bulk purchases and the number of vehicles capable of operating on gasohol.
+1–103. In determining the feasibility of specifying gasohol as a substitute motor fuel in procurement actions for unleaded gasoline, agencies shall include in their considerations such factors as the availability of storage facilities for bulk purchases and the number of vehicles capable of operating on gasohol.
 
 1–104. Agencies shall designate those vehicles which are capable of using gasohol, consistent with overall agency needs and sound vehicle management practices. Agencies shall specify the conditions governing the use of gasohol, including when gasohol shall be purchased from normal retail outlets by vehicle operators.
 

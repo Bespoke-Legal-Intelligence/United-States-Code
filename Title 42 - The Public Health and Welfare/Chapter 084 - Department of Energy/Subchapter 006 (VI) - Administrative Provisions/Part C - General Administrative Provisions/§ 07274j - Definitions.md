@@ -36,6 +36,10 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 1996—Par. (1)(E). Pub. L. 104–106 substituted “subparagraphs (A) through (D)” for “paragraphs (1) through (4)”.
 
+#### Transfer of Functions
+
+All national security functions and activities performed immediately before Oct. 5, 1999, by Department of Energy defense nuclear facilities described in this section, transferred to the Administrator for Nuclear Security of the National Nuclear Security Administration of the Department of Energy, see section 2481 of Title 50, War and National Defense.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 7274h of this title.

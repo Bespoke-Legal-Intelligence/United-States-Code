@@ -172,9 +172,11 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;For purposes of clause (i)(III), the term “eligible foster child” means an individual not described in clause (i)(I) or (II) who—
 
-&emsp;&emsp;&emsp;&emsp;(I) the taxpayer cares for as the taxpayer's own child, and
+&emsp;&emsp;&emsp;&emsp;(I) is a brother, sister, stepbrother, or stepsister of the taxpayer (or a descendant of any such relative) or is placed with the taxpayer by an authorized placement agency,
 
-&emsp;&emsp;&emsp;&emsp;(II) has the same principal place of abode as the taxpayer for the taxpayer's entire taxable year.
+&emsp;&emsp;&emsp;&emsp;(II) the taxpayer cares for as the taxpayer's own child, and
+
+&emsp;&emsp;&emsp;&emsp;(III) has the same principal place of abode as the taxpayer for the taxpayer's entire taxable year.
 
 #### (iv) Adoption
 
@@ -322,7 +324,7 @@ The credit allowed under this section for the taxable year shall be reduced by t
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendaryear in which the taxable year begins, determined by substituting “calendar year 1995” for “calendar year 1992” in subparagraph (B) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 1995” for “calendar year 1992” in subparagraph (B) thereof.
 
 #### (2) Rounding
 
@@ -372,7 +374,7 @@ For purposes of—
 
 #### (m) Identification numbers
 
-Solely for purposes of subsections (c)(1)(F) and (c)(3)(D), a taxpayer identification number means a social security number issued to an individual by the Social Security Administration (other than a social security number issued pursuant to clause (II) (or that portion of clause (III) that relates to clause (II)) of section 205(c)(2)(B)(i) of the Social Security Act).
+Solely for purposes of subsections (c)(1)(F) and (c)(3)(D), a taxpayer identification numbermeans a social security number issued to an individual by the Social Security Administration (other than a social security number issued pursuant to clause (II) (or that portion of clause (III) that relates to clause (II)) of section 205(c)(2)(B)(i) of the Social Security Act).
 
 #### (n) Supplemental child credit
 
@@ -398,11 +400,11 @@ Solely for purposes of subsections (c)(1)(F) and (c)(3)(D), a taxpayer identific
 
 &emsp;The amount of the credit under this subsection shall reduce the amount of the credits otherwise allowable under subpart A for the taxable year (determined after the application of section 26), but the amount of the credit under this subsection (and such reduction) shall not be taken into account in determining the amount of any other credit allowable under this part.
 
-(Added Pub. L. 94–12, title II, §204(a), Mar. 29, 1975, 89 Stat. 30, §43; amended Pub. L. 94–164, §2(c), Dec. 23, 1975, 89 Stat. 971; Pub. L. 94–455, title IV, §401(c)(1)(B), (2), Oct. 4, 1976, 90 Stat. 1557; Pub. L. 95–600, title I, §§104(a)–(e), 105(a), Nov. 6, 1978, 92 Stat. 2772, 2773; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5) and amended Pub. L. 96–222, title I, §§101(a)(1), (2)(E), 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 194, 195, 223; Pub. L. 97–34, title I, §§111(b)(2), 112(b)(3), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 98–21, title I, §124(c)(4)(B), Apr. 20, 1983, 97 Stat. 91; renumbered §32 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(3), 471(c), title X, §1042(a)–(d)(2), July 18, 1984, 98 Stat. 801, 826, 1043; Pub. L. 99–514, title I, §§104(b)(1)(B), 111(a)–(d)(1), title XII, §1272(d)(4), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2107, 2594, 2658; Pub. L. 100–647, title I, §§1001(c), 1007(g)(12), Nov. 10, 1988, 102 Stat. 3350, 3436; Pub. L. 101–508, title XI, §§11101(d)(1)(B), 11111(a), (b), (e), Nov. 5, 1990, 104 Stat. 1388–405, 1388–408, 1388–412, 1388–413; Pub. L. 103–66, title XIII, §13131(a)–(d)(1), Aug. 10, 1993, 107 Stat.433–435; Pub. L. 103–465, title VII, §§721(a), 722(a), 723(a), 742(a), Dec. 8, 1994, 108 Stat. 5002, 5003, 5010; Pub. L. 104–7, §4(a), Apr. 11, 1995, 109 Stat. 95; Pub. L. 104–193, title IV, §451(a), (b), title IX, §§909(a), (b), 910(a), (b), Aug. 22, 1996, 110 Stat. 2276, 2277, 2351, 2352; Pub. L. 105–34, title I, §101(b), title III, §312(d)(2), title X, §1085(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 798, 840, 955, 956; Pub. L. 105–206, title VI, §§6003(b), 6010(p)(1), (2), 6021(a), (b), July 22, 1998, 112 Stat. 791, 816, 817, 823, 824.)
+(Added Pub. L. 94–12, title II, §204(a), Mar. 29, 1975, 89 Stat. 30, §43; amended Pub. L. 94–164, §2(c), Dec. 23, 1975, 89 Stat. 971; Pub. L. 94–455, title IV, §401(c)(1)(B), (2), Oct. 4, 1976, 90 Stat. 1557; Pub. L. 95–600, title I, §§104(a)–(e), 105(a), Nov. 6, 1978, 92 Stat. 2772, 2773; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5) and amended Pub. L. 96–222, title I, §§101(a)(1), (2)(E), 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 194, 195, 223; Pub. L. 97–34, title I, §§111(b)(2), 112(b)(3), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 98–21, title I, §124(c)(4)(B), Apr. 20, 1983, 97 Stat. 91; renumbered §32 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(3), 471(c), title X, §1042(a)–(d)(2), July 18, 1984, 98 Stat. 801, 826, 1043; Pub. L. 99–514, title I, §§104(b)(1)(B), 111(a)–(d)(1), title XII, §1272(d)(4), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2107, 2594, 2658; Pub. L. 100–647, title I, §§1001(c), 1007(g)(12), Nov. 10, 1988, 102 Stat. 3350, 3436; Pub. L. 101–508, title XI, §§11101(d)(1)(B), 11111(a), (b), (e), Nov. 5, 1990, 104 Stat. 1388–405, 1388–408, 1388–412, 1388–413; Pub. L. 103–66, title XIII, §13131(a)–(d)(1), Aug. 10, 1993, 107 Stat. 433–435; Pub. L. 103–465, title VII, §§721(a), 722(a), 723(a), 742(a), Dec. 8, 1994, 108 Stat. 5002, 5003, 5010; Pub. L. 104–7, §4(a), Apr. 11, 1995, 109 Stat. 95; Pub. L. 104–193, title IV, §451(a), (b), title IX, §§909(a), (b), 910(a), (b), Aug. 22, 1996, 110 Stat. 2276, 2277, 2351, 2352; Pub. L. 105–34, title I, §101(b), title III, §312(d)(2), title X, §1085(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 798, 840, 955, 956; Pub. L. 105–206, title VI, §§6003(b), 6010(p)(1), (2), 6021(a), (b), July 22, 1998, 112 Stat. 791, 816, 817, 823, 824; Pub. L. 106–170, title IV, §412(a), Dec. 17, 1999, 113 Stat. 1917.)
 
-#### Earned Income Credit Adjustment for Tax Years Beginning in 1999
+#### Earned Income Credit Adjustment for Tax Years Beginning in 2000
 
-<i>For adjustment of earned income credit under this section for tax years beginning in 1999, see section 3.03 of Revenue Procedure 98–61, set out as a note under section 1 of this title.</i>
+<i>For adjustment of earned income credit under this section for tax years beginning in 2000, see section 3.03 of Revenue Procedure 99–42, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -423,6 +425,8 @@ The Food Stamp Act of 1977, referred to in subsec. (<i>l</i>)(5), is Pub. L. 88�
 A prior section 32 was renumbered section 33 of this title.
 
 #### Amendments
+
+1999—Subsec. (c)(3)(B)(iii). Pub. L. 106–170 added subcl. (I) and redesignated former subcls. (I) and (II) as (II) and (III), respectively.
 
 1998—Subsec. (c)(1)(F). Pub. L. 105–206, §6021(a), added introductory provisions and struck out former introductory provisions which read as follows: “The term ‘eligible individual’ does not include any individual who does not include on the return of tax for the taxable year—”.
 
@@ -580,7 +584,7 @@ Subsec. (j). Pub. L. 101–508, §11111(b), added subsec. (j).
 
 1988—Subsec. (h). Pub. L. 100–647, §1007(g)(12), struck out “for taxpayers other than corporations” after “alternative minimum tax”.
 
-Subsec. (i)(3). Pub. L. 100–647, §1001(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “If any increase determined under paragraph (1) is not a multiple of $10, such increase shall be roundedto the nearest multiple of $10 (or, if such increase is a multiple of $5, such increase shall be increased to the next higher multiple of $10).”
+Subsec. (i)(3). Pub. L. 100–647, §1001(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “If any increase determined under paragraph (1) is not a multiple of $10, such increase shall be rounded to the nearest multiple of $10 (or, if such increase is a multiple of $5, such increase shall be increased to the next higher multiple of $10).”
 
 1986—Subsec. (a). Pub. L. 99–514, §111(a), substituted “14 percent” for “11 percent” and “$5,714” for “$5,000”.
 
@@ -660,6 +664,10 @@ Subsec. (c)(1)(A). Pub. L. 94–455, §401(c)(2), among other changes, substitut
 
 Subsec. (b). Pub. L. 94–164 designated existing provisions as par. (1) and added par. (2).
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–170, title IV, §412(b), Dec. 17, 1999, 113 Stat. 1917, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1999.”
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–206, title VI, §6021(c), July 22, 1998, 112 Stat. 824, provided that:
@@ -676,7 +684,7 @@ Amendment by sections 6003(b) and 6010(p)(1), (2) of Pub. L. 105–206 effective
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 101(b) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, seesection 101(e) of Pub. L. 105–34, set out as an Effective Date note under section 24 of this title.
+Amendment by section 101(b) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 101(e) of Pub. L. 105–34, set out as an Effective Date note under section 24 of this title.
 
 Amendment by section 312(d)(2) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
 
@@ -726,7 +734,7 @@ Section 742(c) of Pub. L. 103–465 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 6109 of this title\] shall apply to returns for taxable years beginning after December 31, 1994.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and section 6109 of this title\] shall apply to returns for taxable years beginning after December 31, 1994.
 
 “(2)
 
@@ -782,7 +790,7 @@ Section 201 of Pub. L. 96–222 provided that: “Except as otherwise provided i
 
 Section 104(f) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1978.”
 
-Section 105(g)(1) of Pub. L. 95–600 provided that: “The amendments made by subsections (a) and (d) \[amendingthis section and section 6012 of this title\] shall apply to taxable years beginning after December 31, 1978.”
+Section 105(g)(1) of Pub. L. 95–600 provided that: “The amendments made by subsections (a) and (d) \[amending this section and section 6012 of this title\] shall apply to taxable years beginning after December 31, 1978.”
 
 #### Effective Date of 1978 Amendment; Election of Prior Law
 
@@ -804,7 +812,7 @@ Secretary of the Treasury, or Secretary's delegate, to establish taxpayer awaren
 
 #### Employee Notification
 
-Section 111(e) of Pub. L. 99–514 provided that: “The Secretary of the Treasury is directed to require, under regulations, employers to notify any employee who has not had any tax withheld from wages (other than an employee whose wages are exempt from withholding pursuant to section 3402(n) of the Internal Revenue Code of 1986) that such employee may be eligible for a refund because of the earned income credit.”
+Section 111(e) of Pub. L. 99–514 provided that: “The Secretary of the Treasury is directed to require, under regulations, employers to notify any employee who hasnot had any tax withheld from wages (other than an employee whose wages are exempt from withholding pursuant to section 3402(n) of the Internal Revenue Code of 1986) that such employee may be eligible for a refund because of the earned income credit.”
 
 #### Disregard of Refund for Determination of Eligibility for Federal Benefits or Assistance
 

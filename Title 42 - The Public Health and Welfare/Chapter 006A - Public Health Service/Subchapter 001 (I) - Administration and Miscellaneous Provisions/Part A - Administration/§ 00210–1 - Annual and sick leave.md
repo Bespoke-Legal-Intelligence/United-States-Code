@@ -16,7 +16,7 @@ For purposes of this section the term “accumulated annual leave” means unuse
 
 #### Partial Repeal of Subsection (d)
 
-<i>Subsection (d) of this section was repealed by Pub. L. 87–649, §14b, Sept. 7, 1962, 76 Stat. 499,</i><i>insofar as it was applicable to the last sentence of subsection (c) of this section which authorized a lump-sum payment to an officer credited with unused accumulated and accrued annual leave. See section 501 of Title 37, Pay and Allowances of the Uniformed Services.</i>
+<i>Subsection (d) of this section was repealed by Pub. L. 87–649, §14b, Sept. 7, 1962, 76 Stat. 499, insofar as it was applicable to the last sentence of subsection (c) of this section which authorized a lump-sum payment to an officer credited with unused accumulated and accrued annual leave. See section 501 of Title 37, Pay and Allowances of the Uniformed Services.</i>
 
 #### Amendments
 
@@ -52,5 +52,5 @@ Section 4 of act Aug. 9, 1950, provided for the availability of funds for paymen
 
 #### Leave Regulations
 
-Section 5 of act Aug. 9, 1950, provided that: “Except insofar as the provisions of this Act \[enacting this section, amending section 210 of this title, and enacting provisions set out as notes under this section and section 210 of this title\] are inconsistent therewith, leave regulations adopted prior to the enactment of this Act \[Aug. 9, 1950\], pursuant to the Public Health Service Act \[this chapter\], shall remain in effect until repealed, amended, or superseded.”
+Section 5 of act Aug. 9, 1950, provided that: “Except insofar as the provisions of this Act \[enacting this section, amending section 210 of this title, and enacting provisions set out as notes under this section and section 210 of this title\] are inconsistent therewith, leave regulations adopted prior to the enactment of this Act\[Aug. 9, 1950\], pursuant to the Public Health Service Act \[this chapter\], shall remain in effect until repealed, amended, or superseded.”
 

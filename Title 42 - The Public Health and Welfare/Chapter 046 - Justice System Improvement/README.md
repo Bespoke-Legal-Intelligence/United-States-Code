@@ -469,6 +469,14 @@ General authority of Attorney General over Director.
 
 Training programs for State and local personnel at Federal Training Center.
 
+(d)
+
+Rail carrier costs.
+
+(e)
+
+Definitions.
+
 #### SUBCHAPTER VIII—ADMINISTRATIVE PROVISIONS
 
 |  |  |
@@ -1731,7 +1739,7 @@ Title I of the Omnibus Crime Control and Safe Streets Act of 1968, comprising th
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 5119b, 5751, 10501 of this title.
+This chapter is referred to in sections 5119b, 10501 of this title.
 
 
 ---

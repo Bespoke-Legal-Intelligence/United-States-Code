@@ -12,7 +12,7 @@ Duties and Powers.—The Executive Director may—
 
 &emsp;(2) appoint and fix the compensation (at a rate that is not more than the maximum rate of basic pay payable under section 5376 of title 5, United States Code) of not more than three employees, notwithstanding any other law; and
 
-&emsp;(3) implement decisions of the Council, in the manner the Council directs, and carry out other functions the Council, the ExecutiveCommittee of the Council, or the Chairperson assigns.
+&emsp;(3) implement decisions of the Council, in the manner the Council directs, and carry out other functions the Council, the Executive Committee of the Council, or the Chairperson assigns.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1278.)
 
@@ -35,6 +35,8 @@ Oct. 7, 1980, Pub. L. 96–388, §5, 94 Stat. 1549; Nov. 20, 1981, Pub. L. 97–
 2303(b)
 
 36:1405(b).
+
+&nbsp;
 
 In this section, the reference to section 5376 of title 5 is substituted for the reference to grade GS–18 of the General Schedule because of section 529 \[101(c)(1)\] of the Treasury, Postal Service and General Government Appropriations Act, 1991 (Public Law 101–509, 104 Stat. 1442).
 

@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (B) Foreign personal holding companies
 
-&emsp;&emsp;In the case of any foreign personal holding company (as defined in section 552) which is not a specified foreign corporation by reason of paragraph (1)(A)(i), the term “United States shareholder” means any person who is treated as a United States shareholder under section 551.
+&emsp;&emsp;In the case of any foreign personal holding company (as defined in section 552) which is not a specified foreign corporation by reason of paragraph (1)(A)(i), the term “UnitedStates shareholder” means any person who is treated as a United States shareholder under section 551.
 
 #### (c) Determination of required year
 

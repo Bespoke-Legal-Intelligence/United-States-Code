@@ -2,7 +2,7 @@
 
 #### (a) Register of marks communicated by international bureaus
 
-The Commissioner shall keep a register of all marks communicated to him by the international bureaus provided for by the conventions for the protection of industrial property, trade-marks,<sup>1</sup> trade and commercial names, and the repression of unfair competition to which the United States is or may become a party, and upon the payment of the fees required by such conventions and the fees required in this chapter may place the marks so communicated upon such register. This register shall show a facsimile of the mark or trade or commercial name; the name, citizenship, and address of the registrant; the number, date, and place of the first registration of the mark, including the dates on which application for such registration was filed and granted and the term of such registration; a list of goods or services to which the mark is applied as shown by the registration in the country of origin, and such other data as may be useful concerning the mark. This register shall be a continuation of the register provided in section 1(a) of the Act of March 19, 1920.
+The Director shall keep a register of all marks communicated to him by the international bureaus provided for by the conventions for the protection of industrial property, trademarks, trade and commercial names, and the repression of unfair competition to which the United States is or may become a party, and upon the payment of the fees required by such conventions and the fees required in this chapter may place the marks so communicated upon such register. This register shall show a facsimile of the mark or trade or commercial name; the name, citizenship, and address of the registrant; the number, date, and place of the first registration of the mark, including the dates on which application for such registration was filed and granted and the term of such registration; a list of goods or services to which the mark is applied as shown by the registration in the country of origin, and such other data as may be useful concerning the mark. This register shall be a continuation of the register provided in section 1(a) of the Act of March 19, 1920.
 
 #### (b) Benefits of section to persons whose country of origin is party to convention or treaty
 
@@ -30,11 +30,11 @@ In like manner and subject to the same conditions and requirements, the right pr
 
 #### (e) Registration on principal or supplemental register; copy of foreign registration
 
-A mark duly registered in the country of origin of the foreign applicant may be registered on the principal register if eligible, otherwise on the supplemental register in this chapter provided. Such applicant shall submit, within such time period as may be prescribed by the Commissioner, a certification or a certified copy of the registration in the country of origin of the applicant. The application must state the applicant's bona fide intention to use the mark in commerce, but use in commerce shall not be required prior to registration.
+A mark duly registered in the country of origin of the foreign applicant may be registered on the principal register if eligible, otherwise on the supplemental register in this chapter provided. Such applicant shall submit, within such time period as may be prescribed by the Director, a certification or a certified copy of the registration in the country of origin of the applicant. The application must state the applicant's bona fide intention to use the mark in commerce, but use in commerce shall not be required prior to registration.
 
 #### (f) Domestic registration independent of foreign registration
 
-The registration of a mark under the provisions of subsections (c), (d), and (e) of this section by a person described in subsection (b) of this section shall be independent of the registration in the country of origin and the duration,validity, or transfer in the United States of such registration shall be governed by the provisions of this chapter.
+The registration of a mark under the provisions of subsections (c), (d), and (e) of this section by a person described in subsection (b) of this section shall be independent of the registration in the country of origin and the duration, validity, or transfer in the United States of such registration shall be governed by the provisions of this chapter.
 
 #### (g) Trade or commercial names of foreign nationals protected without registration
 
@@ -48,7 +48,7 @@ Any person designated in subsection (b) of this section as entitled to the benef
 
 Citizens or residents of the United States shall have the same benefits as are granted by this section to persons described in subsection (b) of this section.
 
-(July 5, 1946, ch. 540, title IX, §44, 60 Stat. 441; Pub. L. 87–333, §2, Oct. 3, 1961, 75 Stat. 748; Pub. L. 87–772, §20, Oct. 9, 1962, 76 Stat. 774; Pub. L. 100–667, title I, §133, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 105–330, title I, §108, Oct. 30, 1998, 112 Stat. 3068.)
+(July 5, 1946, ch. 540, title IX, §44, 60 Stat. 441; Pub. L. 87–333, §2, Oct. 3, 1961, 75 Stat. 748; Pub. L. 87–772, §20, Oct. 9, 1962, 76 Stat. 774; Pub. L. 100–667, title I, §133, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 105–330, title I, §108, Oct. 30, 1998, 112 Stat. 3068; Pub. L. 106–43, §6(b), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
 #### References in Text
 
@@ -59,6 +59,12 @@ Section 1(a) of the Act of March 19, 1920, referred to in subsec. (a), is sectio
 Acts Feb. 20, 1905, ch. 592, §§1, 2, 4, 33 Stat. 724, 725; May 4, 1906, ch. 2081, §§1, 3, 34 Stat. 168, 169; Feb. 18, 1909, ch. 144, 35 Stat. 628; Mar. 19, 1920, ch. 104, §§1, 6, 41 Stat. 533, 535; Apr. 11, 1930, ch. 132, §4, 46 Stat. 155; June 20, 1936, ch. 617, 49 Stat. 1539; June 10, 1938, ch. 332, §§1, 2, 3, 52 Stat. 638, 639.
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–113 substituted “Director” for “Commissioner”.
+
+Pub. L. 106–43 substituted “trademarks” for “trade-marks”.
+
+Subsec. (e). Pub. L. 106–113 substituted “Director” for “Commissioner”.
 
 1998—Subsec. (d). Pub. L. 105–330, §108(1)(A), in introductory provisions, substituted “or 1091 of this title or under subsection (e) of this section” for “1091 of this title, or subsection (e) of this section”.
 
@@ -78,15 +84,19 @@ Subsec. (f). Pub. L. 100–667, §133(1), (7), made technical amendment to refer
 
 Subsecs. (g) to (i). Pub. L. 100–667, §133(1), (8), made technical amendment to references in the original act to subsection (b) of this section, resulting in no change in text.
 
-1962—Subsec. (b). Pub. L. 87–772 inserted “or extends reciprocal rights to nationals of the United States by law,” and substituted provisions requiring the person's country of origin to be a party to any convention or treaty, for provisions which required such persons to be nationals of, domiciled in, or have a bona fide and effective business or commercial establishment in a foreign country which was a party to the International Convention for the Protection of Industrial Property, or the General Inter-American Convention for Trade Mark and Commercial Protection, or any other convention or treaty relating to trademarks, trade, or commercial names.
+1962—Subsec. (b). Pub. L. 87–772 inserted “or extends reciprocal rights to nationals of the United States bylaw,” and substituted provisions requiring the person's country of origin to be a party to any convention or treaty, for provisions which required such persons to be nationals of, domiciled in, or have a bona fide and effective business or commercial establishment in a foreign country which was a party to the International Convention for the Protection of Industrial Property, or the General Inter-American Convention for Trade Mark and Commercial Protection, or any other convention or treaty relating to trademarks, trade, or commercial names.
 
 Subsec. (e). Pub. L. 87–772 inserted “certification or a” after “accompanied by a” and struck out “application for or” before “registration”.
 
 1961—Subsec. (d). Pub. L. 87–333 inserted par. at end authorizing the right provided by this section to be based upon a subsequent application in the same foreign country, instead of the first application, provided that any foreign application filed prior to such subsequent one was withdrawn, or otherwise disposed of, without having been open to public inspection and without leaving any rights outstanding, nor any basis for claiming priority.
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–330 effective on the date that is 1 year after Oct. 30, 1998, or upon the entry into force of the Trademark Law Treaty with respect to the United States, whichever occurs first, see section 110 of Pub. L. 105–330, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 105–330 effective on the date that is 1 year after Oct. 30, 1998, see section 110 of Pub. L. 105–330, set out as a note under section 1051 of this title.
 
 For provisions relating to applicability of amendment by Pub. L. 105–330 to applications for registration of trademarks, see section 109(b) of Pub. L. 105–330, set out as a note under section 1051 of this title.
 
@@ -100,7 +110,7 @@ Section 3 of Pub. L. 87–333 provided that: “This Act \[amending this section
 
 #### Repeal and Effect on Existing Rights
 
-Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrationsand rights under prior acts, see notes set out under section 1051 of this title.
+Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
 #### Transfer of Functions
 
@@ -109,6 +119,4 @@ For transfer of functions of other officers, employees, and agencies of Departme
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1051, 1057, 1063 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “trademarks,”.</i>
 

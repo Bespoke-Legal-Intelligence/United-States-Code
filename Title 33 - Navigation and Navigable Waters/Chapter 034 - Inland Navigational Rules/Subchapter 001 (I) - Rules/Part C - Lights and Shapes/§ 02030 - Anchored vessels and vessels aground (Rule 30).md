@@ -34,7 +34,7 @@ A vessel of less than 12 meters in length when aground shall not be required to 
 
 #### (g) Vessels of less than 20 meters in length while at anchor in special anchorage
 
-A vessel of less than 20 meters in length, when at anchor in a special anchorage area designatedby the Secretary, shall not be required to exhibit the anchor lights and shapes required by this Rule.
+A vessel of less than 20 meters in length, when at anchor in a special anchorage area designated by the Secretary, shall not be required to exhibit the anchor lights and shapes required by this Rule.
 
 (Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3429.)
 

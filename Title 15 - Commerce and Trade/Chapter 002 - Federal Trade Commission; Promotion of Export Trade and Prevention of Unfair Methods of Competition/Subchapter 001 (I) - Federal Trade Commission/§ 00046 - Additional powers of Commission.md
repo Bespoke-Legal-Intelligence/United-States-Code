@@ -46,7 +46,7 @@ No officer or employee of the Commission or any Commissioner may publish or disc
 
 Nothing in this section (other than the provisions of clause (c) and clause (d)) shall apply to the business of insurance, except that the Commission shall have authority to conduct studies and prepare reports relating to the business of insurance. The Commission may exercise such authority only upon receiving a request which is agreed to by a majority of the members of the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Energy and Commerce of the House of Representatives. The authority to conduct any such study shall expire at the end of the Congress during which the request for such study was made.
 
-(Sept. 26, 1914, ch. 311, §6, 38 Stat. 721; Pub. L. 93–153, title IV, §408(e), Nov. 16, 1973, 87 Stat. 592; Pub. L. 93–637, title II, §§201(b), 202(b), 203(a), Jan. 4, 1975, 88 Stat. 2193, 2198; Pub. L. 96–37, §1(b), July 23, 1979, 93 Stat. 95; Pub. L. 96–252, §§3–5(a), May 28, 1980, 94 Stat. 374, 375; Pub. L. 100–86, title VII, §715(a), (b), Aug. 10, 1987, 101 Stat. 655; Pub. L. 103–437, §5(a), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 103–438, §3(e)(2)(A), Nov. 2, 1994, 108 Stat. 4598.)
+(Sept. 26, 1914, ch. 311, §6, 38 Stat. 721; Pub. L. 93–153, title IV, §408(e), Nov. 16, 1973, 87 Stat. 592; Pub. L. 93–637, title II, §§201(b), 202(b), 203(a), Jan. 4, 1975, 88 Stat. 2193, 2198; Pub. L. 96–37, §1(b), July 23, 1979, 93 Stat. 95; Pub. L. 96–252, §§3–5(a), May 28, 1980, 94 Stat. 374, 375; Pub. L.100–86, title VII, §715(a), (b), Aug. 10, 1987, 101 Stat. 655; Pub. L. 103–437, §5(a), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 103–438, §3(e)(2)(A), Nov. 2, 1994, 108 Stat. 4598.)
 
 #### References in Text
 
@@ -72,7 +72,7 @@ Pub. L. 96–252, §§3(b)–5(a), inserted three undesignated paragraphs follow
 
 1979—Subsecs. (a), (b). Pub. L. 96–37, §1(b)(1), (2), inserted reference to savings and loan institutions described in section 57a(f)(3) of this title.
 
-Pub. L. 96–37, §1(b)(3), in proviso following subsec. (h), inserted references to savings and loan institutions and to persons, partnerships, corporations, groups of persons, partnerships, or corporations or industries thatare not engaged or are engaged only incidentally in business as savings and loan institutions.
+Pub. L. 96–37, §1(b)(3), in proviso following subsec. (h), inserted references to savings and loan institutions and to persons, partnerships, corporations, groups of persons, partnerships, or corporations or industries that are not engaged or are engaged only incidentally in business as savings and loan institutions.
 
 1975—Subsec. (a). Pub. L. 93–637, §§201(b), 203(a)(1), substituted “in or whose business affects commerce” for “in commerce”, “person, partnership, or corporation” for “corporation”, and “persons, partnerships, and corporations” for “corporations and to individuals, associations, and partnerships”.
 
@@ -122,5 +122,5 @@ Jurisdiction, powers and duties of Secretary of Agriculture in enforcing the pro
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 57b–1, 57b–2, 57b–3, 6205 of this title; title 7 sections 222, 2146, 3807; title 13 section 91; title 21 sections 467d, 677, 1051.
+This section is referred to in sections 57b–1, 57b–2, 57b–3, 6205 of this title; title 7 sections 198b, 222, 2146, 3807; title 13 section 91; title 21 sections 467d, 677, 1051.
 

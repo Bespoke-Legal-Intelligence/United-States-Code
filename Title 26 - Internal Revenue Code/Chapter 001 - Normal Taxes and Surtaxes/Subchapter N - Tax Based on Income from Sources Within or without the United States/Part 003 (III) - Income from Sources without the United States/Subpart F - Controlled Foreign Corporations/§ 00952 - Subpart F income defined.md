@@ -36,7 +36,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 #### (A) Subpart F income limited to current earnings and profits
 
-&emsp;&emsp;For purposes of subsection (a), the subpart F income of any controlled foreign corporation for any taxable year shall not exceed the earnings and profits of such corporation for such taxable year.
+&emsp;&emsp;For purposes of subsection (a), the subpart F income of any controlled foreign corporation for any taxable year shall not exceedthe earnings and profits of such corporation for such taxable year.
 
 #### (B) Certain prior year deficits may be taken into account
 
@@ -80,7 +80,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 #### (v) Qualified insurance company
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “qualified insurance company”means any controlled foreign corporation predominantly engaged in the active conduct of an insurance business in the taxable year and in the prior taxable years in which the deficit arose.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “qualified insurance company” means any controlled foreign corporation predominantly engaged in the active conduct of an insurance business in the taxable year and in the prior taxable years in which the deficit arose.
 
 #### (vi) Qualified financial institution
 
@@ -130,7 +130,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### References in Text
 
-The Foreign Corrupt Practices Act of 1977, referred to in subsec. (a), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, as amended, which enacted sections 78dd–1and 78dd–2 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 78a of Title 15 and Tables.
+The Foreign Corrupt Practices Act of 1977, referred to in subsec. (a), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, as amended, which enacted sections 78dd–1 and 78dd–2 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 78a of Title 15 and Tables.
 
 #### Amendments
 
@@ -210,7 +210,7 @@ Amendment by Pub. L. 97–248 applicable to payments made after Sept. 3, 1982, s
 
 Amendment by section 1062 of Pub. L. 94–455 applicable to participation in or cooperation with an international boycott more than 30 days after Oct. 4, 1976, see section 1066(a) of Pub. L. 94–455, set out as a note under section 908 of this title.
 
-Section 1066(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendments made by section 1065 \[amending this section and sections 995 and 964 of this title\] apply to payments described in section 162(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] made more than 30 days after the date of enactment of this Act \[Oct. 4, 1976\].”
+Section 1066(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by section 1065 \[amending this section and sections 995 and 964 of this title\] apply to payments described in section 162(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] made more than 30 days after the date of enactment of this Act \[Oct. 4, 1976\].”
 
 #### Effective Date of 1966 Amendment
 

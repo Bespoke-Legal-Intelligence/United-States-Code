@@ -92,7 +92,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 104(b), (e)(2)(H) of Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
+Amendment by section 104(b), (e)(2)(H) of Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.103–82, set out as a note under section 1701 of Title 16, Conservation.
 
 Amendment by section 402(b)(2) of Pub. L. 103–82 effective Oct. 1, 1993, see section 406(a) of Pub. L. 103–82, set out as a note under section 5061 of this title.
 

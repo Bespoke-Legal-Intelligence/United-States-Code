@@ -60,7 +60,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 &emsp;(1) to prevent abuse through manipulation of the provisions of this subchapter, and
 
-&emsp;(2) providing that this subchapter shall not apply to any case described in section 6231(c)(1) (or the regulations prescribed thereunder) where the application of this subchapter to such a case would interfere with the effective and efficient enforcement of this title.
+&emsp;(2) providing that this subchapter shall not apply to any case described in section6231(c)(1) (or the regulations prescribed thereunder) where the application of this subchapter to such a case would interfere with the effective and efficient enforcement of this title.
 
 > In any case to which this subchapter does not apply by reason of paragraph (2), rules similar to the rules of sections 6229(f) and 6255(f) shall apply.
 

@@ -22,7 +22,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (1) Imposition of tax on regulated investment companies
 
-&emsp;There is hereby imposed for each taxable year upon the investment company taxable income of every regulated investment company a tax computed as provided in section 11, as though the investment company taxable income were the taxable income referred to in section 11. In the case of a regulated investment company which is a personal holding company (as defined in section 542) or which fails to comply for the taxable year with regulations prescribed by the Secretary for thepurpose of ascertaining the actual ownership of its stock, such tax shall be computed at the highest rate of tax specified in section 11(b).
+&emsp;There is hereby imposed for each taxable year upon the investment company taxable income of every regulated investment company a tax computed as provided in section 11, as though the investment company taxable income were the taxable income referred to in section 11. In the case of a regulated investment company which is a personal holding company (as defined in section 542) or which fails to comply for the taxable year with regulations prescribed by the Secretary for the purpose of ascertaining the actual ownership of its stock, such tax shall be computed at the highest rate of tax specified in section 11(b).
 
 #### (2) Investment company taxable income
 
@@ -52,7 +52,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (C) Definition of capital gain dividend
 
-&emsp;&emsp;For purposes of this part, a capital gain dividend is any dividend, or part thereof, which is designated by the company as a capital gain dividend in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year; except that, if there is an increase in the excess described in subparagraph (A) of this paragraph for such year which results from a determination (as defined in section 860(e)), such designation may be made with respect to such increase at any time before the expiration of 120 days after the date of such determination. If the aggregate amount so designated with respect to a taxable year of the company (including capital gains dividends paid after the close of the taxable year described in section 855) is greater than the net capital gain of the taxable year, the portion of each distribution which shall be a capital gain dividend shall be only that proportion of the amount so designated which such net capital gain bears to the aggregate amount so designated. For purposes of this subparagraph, the amount of the net capital gain for a taxable year (to which an election under section 4982(e)(4) does not apply) shall be determined without regard to any net capital loss or net long-term capital loss attributable to transactions after October 31 of such year, and any such net capital loss or net long-term capital loss shall be treated as arising on the 1st day of the next taxable year. To the extent provided in regulations, the preceding sentence shall apply also for purposes of computing the taxable income of the regulated investment company.
+&emsp;&emsp;For purposes of this part, a capital gain dividend is any dividend, or part thereof, which is designated by the company as a capital gain dividend in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year; except that, if there is an increase in the excess described in subparagraph (A) of this paragraph for such year which results from a determination (as defined in section 860(e)), such designation may be made with respect to such increase at any time before the expiration of 120 days after the date of such determination. If the aggregate amount so designated with respect to a taxable year of the company (including capital gains dividends paid after the close of the taxable year described in section 855) is greater than the net capital gain of the taxable year, the portion of each distribution which shall be a capital gain dividend shall be only that proportion of the amount so designated which such net capital gain bears to the aggregate amount so designated. For purposes of this subparagraph, the amount of the net capital gain for a taxable year (to which an election under section 4982(e)(4) does not apply) shall be determined without regard to any net capital loss or net long-term capital loss attributable to transactions after October 31 of such year, and any such net capital loss ornet long-term capital loss shall be treated as arising on the 1st day of the next taxable year. To the extent provided in regulations, the preceding sentence shall apply also for purposes of computing the taxable income of the regulated investment company.
 
 #### (D) Treatment by shareholders of undistributed capital gains
 
@@ -142,7 +142,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (8) Special rule for treatment of certain foreign currency losses
 
-&emsp;To the extent provided in regulations, the taxable income of a regulated investmentcompany (other than a company to which an election under section 4982(e)(4) applies) shall be computed without regard to any net foreign currency loss attributable to transactions after October 31 of such year, and any such net foreign currency loss shall be treated as arising on the 1st day of the following taxable year.
+&emsp;To the extent provided in regulations, the taxable income of a regulated investment company (other than a company to which an election under section 4982(e)(4) applies) shall be computed without regard to any net foreign currency loss attributable to transactions after October 31 of such year, and any such net foreign currency loss shall be treated as arising on the 1st day of the following taxable year.
 
 #### (9) Dividends treated as received by company on ex-dividend date
 
@@ -170,6 +170,14 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 &emsp;&emsp;(B) except as provided in regulations, only if an election under section 4982(e)(4) is not in effect with respect to such company.
 
+#### (3) Distributions to meet requirements of subsection (a)(2)(B)
+
+&emsp;Any distribution which is made in order to comply with the requirements of subsection (a)(2)(B)—
+
+&emsp;&emsp;(A) shall be treated for purposes of this subsection and subsection (a)(2)(B) as madefrom earnings and profits which, but for the distribution, would result in a failure to meet such requirements (and allocated to such earnings on a first-in, first-out basis), and
+
+&emsp;&emsp;(B) to the extent treated under subparagraph (A) as made from accumulated earnings and profits, shall not be treated as a distribution for purposes of subsection (b)(2)(D) and section 855.
+
 #### (d) Distributions in redemption of interests in unit investment trusts
 
 In the case of a unit investment trust—
@@ -190,7 +198,7 @@ In the case of a unit investment trust—
 
 &emsp;&emsp;(B) such investment company meets the distribution requirements of paragraph (2) with respect to the non-RIC year,
 
-> &emsp;for purposes of applying subsection (a)(2) to subsequent taxable years, the provisions of this part shall be treated as applying to such investment company for the non-RIC year.
+> &emsp;for purposes of applying subsection (a)(2) to subsequent taxable years, the provisions of this part shall be treated as applying to such investment company for the non-RIC year. If the determination under subparagraph (A) is solely as a result of the failure to meet the requirements of subsection (a)(2), the preceding sentence shall also apply for purposes of applying subsection (a)(2) to the non-RIC year and the amount referred to in paragraph (2)(A)(i) shall be the portion of the accumulated earnings and profits which resulted in such failure.
 
 #### (2) Distribution requirements
 
@@ -270,7 +278,7 @@ In the case of a unit investment trust—
 
 &emsp;&emsp;If the taxpayer acquires stock in a regulated investment company from another person in a transaction in which gain or loss is not recognized, the taxpayer shall succeed to the treatment of such other person under this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 271; July 11, 1956, ch. 573, §2(a), 70 Stat. 530; Pub. L. 85–866, title I, §§39(a), 101(a), (b), Sept. 2, 1958, 72 Stat. 1638, 1674; Pub. L. 86–779, §10(b)(2), (3), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 88–272, title II, §229(a)(1), (2), (b), Feb. 26, 1964, 78 Stat. 99; Pub. L. 91–172, title V, §511(c)(2), Dec. 30, 1969, 83 Stat. 637; Pub. L. 94–455, title XIV, §1402(b)(1)(N), (2), title XIX, §§1901(a)(110)(A), (B)(i), (C), (b)(1)(V), (6)(B), (33)(I), (J), (N), 1906(b)(13)(A), title XXI, §2137(a)–(c), Oct. 4, 1976, 90 Stat. 1732, 1783, 1792, 1794, 1801, 1802, 1834, 1930, 1931; Pub. L. 95–600, title III, §§301(b)(11), 362(c), title VII, §701(s)(2), Nov. 6, 1978, 92 Stat. 2822, 2851, 2911; Pub. L. 96–222, title I, §104(a)(3)(B), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–424, title V, §547(b)(2), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title I, §55(a), title X, §§1001(b)(11), (e), 1071(a)(2)–(4), (b)(1), July 18, 1984, 98 Stat. 571, 1011, 1012, 1049, 1050, 1052; Pub. L. 99–514, title III, §311(b)(1), title VI, §§631(e)(11), 651(b)(1)(A), (2), (3), 655(a)(1), (2), title XI, §1173(b)(1)(B), title XV, §1511(c)(6), title XVIII, §§1804(c)(1)–(5), 1878(j), Oct. 22, 1986, 100 Stat. 2219, 2274, 2296, 2298, 2299, 2515, 2745, 2799, 2800, 2905; Pub. L. 100–647, title I, §§1006(<i>l</i>)(1)(A), (3), (4), (7)–(10), 1011B(h)(4), 1018(p), Nov. 10, 1988, 102 Stat. 3413–3415, 3491, 3585; Pub. L. 101–239, title VII, §7204(b)(1), (c)(1), Dec. 19, 1989, 103 Stat. 2334, 2335; Pub. L. 103–66, title XIII, §13221(c)(1), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1602(b)(3), Aug. 20, 1996, 110 Stat. 1833; Pub. L. 105–34, title XI, §1122(c)(2), (3), title XII, §1254(b)(2), Aug. 5, 1997, 111 Stat. 977, 1033.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 271; July 11, 1956, ch. 573, §2(a), 70 Stat. 530; Pub. L. 85–866, title I, §§39(a), 101(a), (b), Sept. 2, 1958, 72 Stat. 1638, 1674; Pub. L. 86–779, §10(b)(2), (3), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 88–272, title II, §229(a)(1), (2), (b), Feb. 26, 1964, 78 Stat. 99; Pub. L. 91–172, title V, §511(c)(2), Dec. 30, 1969, 83 Stat. 637; Pub. L. 94–455, title XIV, §1402(b)(1)(N), (2), title XIX, §§1901(a)(110)(A), (B)(i), (C), (b)(1)(V), (6)(B), (33)(I), (J), (N), 1906(b)(13)(A), title XXI, §2137(a)–(c), Oct. 4, 1976, 90 Stat. 1732, 1783, 1792, 1794, 1801, 1802, 1834, 1930, 1931; Pub. L. 95–600, title III, §§301(b)(11), 362(c), title VII, §701(s)(2), Nov. 6, 1978, 92 Stat. 2822, 2851, 2911; Pub. L. 96–222, title I, §104(a)(3)(B), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–424, title V, §547(b)(2), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title I, §55(a), title X, §§1001(b)(11), (e), 1071(a)(2)–(4), (b)(1), July 18, 1984, 98 Stat. 571, 1011, 1012, 1049, 1050, 1052; Pub. L. 99–514, title III, §311(b)(1), title VI, §§631(e)(11), 651(b)(1)(A), (2), (3), 655(a)(1), (2), title XI, §1173(b)(1)(B), title XV, §1511(c)(6), title XVIII, §§1804(c)(1)–(5), 1878(j), Oct. 22, 1986, 100 Stat. 2219, 2274, 2296, 2298, 2299, 2515, 2745, 2799, 2800, 2905; Pub. L. 100–647, title I, §§1006(<i>l</i>)(1)(A), (3), (4), (7)–(10), 1011B(h)(4), 1018(p), Nov. 10, 1988, 102 Stat. 3413–3415, 3491, 3585; Pub. L. 101–239, title VII, §7204(b)(1), (c)(1), Dec. 19, 1989, 103 Stat. 2334, 2335; Pub. L. 103–66, title XIII, §13221(c)(1), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1602(b)(3), Aug. 20, 1996, 110 Stat. 1833; Pub. L. 105–34, title XI, §1122(c)(2), (3), title XII, §1254(b)(2), Aug. 5, 1997, 111 Stat. 977, 1033; Pub. L. 106–170, title V, §566(a)(1), (c), Dec. 17, 1999, 113 Stat. 1950.)
 
 #### References in Text
 
@@ -279,6 +287,10 @@ Section 246(c)(3) of this title, referred to in subsec. (b)(4)(C), was amended b
 The Investment Company Act of 1940, referred to in subsec. (d), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 #### Amendments
+
+1999—Subsec. (c)(3). Pub. L. 106–170, §566(a)(1), added par. (3).
+
+Subsec. (e)(1). Pub. L. 106–170, §566(c), inserted at end “If the determination under subparagraph (A) is solely as a result of the failure to meet the requirements of subsection (a)(2), the preceding sentence shall also apply for purposes of applying subsection (a)(2) to the non-RIC year and the amount referred to in paragraph (2)(A)(i) shall be the portion of the accumulated earnings and profits which resulted in such failure.”
 
 1997—Subsec. (b)(3)(D)(iii). Pub. L. 105–34, §1254(b)(2), substituted “by the difference between the amount of such includible gains and the tax deemed paid by such shareholder in respect of such shares under clause (ii).” for “by 65 percent of so much of such amounts as equals the amount subject to tax in accordance with section 1201(a).”
 
@@ -366,7 +378,7 @@ Subsec. (b)(2)(F). Pub. L. 98–369, §1071(b)(1), added subpar. (F).
 
 Subsec. (b)(3)(B). Pub. L. 98–369, §1001(b)(11), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-Subsec. (b)(4)(A)(i). Pub. L. 98–369, §55(a)(1), substituted “subparagraph (B) or (D) of paragraph (3) provides that any amount with respect to any share is tobe treated as long-term capital gain” for “under subparagraph (B) or (D) of paragraph (3) a shareholder of a regulated investment company is required, with respect to any share, to treat any amount as a long-term capital gain”.
+Subsec. (b)(4)(A)(i). Pub. L. 98–369, §55(a)(1), substituted “subparagraph (B) or (D) of paragraph (3) provides that any amount with respect to any share is to be treated as long-term capital gain” for “under subparagraph (B) or (D) of paragraph (3) a shareholder of a regulated investment company is required, with respect to any share, to treat any amount as a long-term capital gain”.
 
 Subsec. (b)(4)(A)(ii). Pub. L. 98–369, §55(a)(1), substituted “6 months or less” for “less than 31 days”.
 
@@ -392,7 +404,7 @@ Subsec. (a)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegat
 
 Subsec. (b)(1). Pub. L. 94–455, §1901(b)(1)(V), struck out provision relating to the computation of the normal tax under section 11 of this title.
 
-Subsec. (b)(2)(A). Pub. L. 94–455, §1901(b)(33)(I), substituted “the amount of the net capital gain, if any” for “the excess, if any, of the net long-term capital gain over the short-term capital loss”.
+Subsec. (b)(2)(A). Pub. L. 94–455, §1901(b)(33)(I), substituted “the amount of the net capital gain, if any”for “the excess, if any, of the net long-term capital gain over the short-term capital loss”.
 
 Subsec. (b)(2)(D). Pub. L. 94–455, §2137(b), inserted reference to exempt-interest dividends.
 
@@ -438,6 +450,10 @@ Subsec. (c). Pub. L. 85–866, §101(b), inserted sentence defining regulated in
 
 1956—Subsec. (b)(3)(D). Act July 11, 1956, added subpar. (D).
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–170, title V, §566(d), Dec. 17, 1999, 113 Stat. 1950, provided that: “The amendments made by this section \[amending this section and section 857 of this title\] shall apply to distributions after December 31, 2000.”
+
 #### Effective Date of 1997 Amendment
 
 Amendment by section 1122(c)(2), (3) of Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31, 1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
@@ -446,7 +462,7 @@ Section 1263 of title XII of Pub. L. 105–34 provided that: “The amendments m
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1602(b)(1) of Pub. L. 104–188 applicable to loans made after Aug. 20, 1996, with exception and provisions relating to certain refinancings, seesection 1602(c) of Pub. L. 104–188, set out as an Effective Date of Repeal note under former section 133 of this title.
+Amendment by section 1602(b)(1) of Pub. L. 104–188 applicable to loans made after Aug. 20, 1996, with exception and provisions relating to certain refinancings, see section 1602(c) of Pub. L. 104–188, set out as an Effective Date of Repeal note under former section 133 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -468,7 +484,7 @@ Amendment by sections 1006(<i>l</i>)(1)(A), (3), (4), (7), (8), (10), 1011B(h)(4
 
 Amendment by section 311(b)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 311(c) of Pub. L. 99–514, set out as a note under section 1201 of this title.
 
-Amendment by section 631(e)(11) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
+Amendment by section 631(e)(11) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not incomplete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
 Amendment by section 651(b)(1)(A), (2), (3) of Pub. L. 99–514 applicable to calendar years beginning after Dec. 31, 1986, see section 651(d) of Pub. L. 99–514, set out as an Effective Date note under section 4982 of this title.
 
@@ -526,7 +542,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 301(b)(11) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978,see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
+Amendment by section 301(b)(11) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
 
 Amendment by section 362(c) of Pub. L. 95–600 applicable with respect to determinations (as defined in section 860(e) of this title) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under section 860 of this title.
 

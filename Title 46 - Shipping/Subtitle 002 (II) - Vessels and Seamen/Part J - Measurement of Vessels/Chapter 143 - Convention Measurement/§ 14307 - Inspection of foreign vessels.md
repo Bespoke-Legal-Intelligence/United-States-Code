@@ -28,7 +28,7 @@ Section 14307(a) authorizes the Secretary to inspect a vessel of a foreign count
 
 Section 14307(b) requires that if the Secretary inspects a vessel of a country that is a party to the Convention and finds that the vessel does not have an International Tonnage Certificate or that the main characteristics of the vessel differ from those stated on the certificate or other records in a way that increases the gross or net tonnage of the vessel, the Secretary must inform the country whose flag the vessel is flying.
 
-Section 14307(c) provides that if the Secretary finds that a vessel of a country not a party to the Convention has been measured under laws and regulations similar to those of this chapter, that the vessel shall be deemed to have been issued an International Tonnage Certificate. It also provides that the Secretary may measure the vessel if the Secretary finds that the vessel has not been measured under laws and regulations similar to those of this chapter.
+Section 14307(c) provides that if the Secretary finds that a vessel of a country not a party to the Convention has been measured under laws and regulations similar to those of this chapter, that the vessel shall be deemed to have been issued an International Tonnage Certificate. It also provides that the Secretary maymeasure the vessel if the Secretary finds that the vessel has not been measured under laws and regulations similar to those of this chapter.
 
 Section 14307(d) provides that an inspection under this section shall be conducted in a way that does not delay a vessel of a country that is a party to the Convention.
 

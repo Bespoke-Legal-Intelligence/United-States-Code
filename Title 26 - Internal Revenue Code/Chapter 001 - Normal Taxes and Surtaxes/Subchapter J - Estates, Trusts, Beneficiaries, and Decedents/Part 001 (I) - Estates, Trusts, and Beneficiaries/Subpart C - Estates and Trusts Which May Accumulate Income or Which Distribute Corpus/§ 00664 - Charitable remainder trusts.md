@@ -32,7 +32,7 @@ A charitable remainder annuity trust and a charitable remainder unitrust shall, 
 
 &emsp;&emsp;(B) from which no amount other than the payments described in subparagraph (A) and other than qualified gratuitous transfers described in subparagraph (C) may be paid to or for the use of any person other than an organization described in section 170(c),
 
-&emsp;&emsp;(C) following the termination of the payments described in subparagraph (A), the remainder interest in the trust is to be transferred to, or for the use of, an organization described in section 170(c) or is to be retained by the trust for such a use or, to the extent the remainder interest is in qualified employer securities (as defined in subsection\(g)(4)), all or part of such securities are to be transferred to an employee stock ownership plan (as defined in section 4975(e)(7)) in a qualified gratuitous transfer (as defined by subsection (g)).,<sup>1</sup> and
+&emsp;&emsp;(C) following the termination of the payments described in subparagraph (A), the remainder interest in the trust is to be transferred to, or for the use of, an organization described in section 170(c) or is to be retained by the trust for such a use or, to the extent the remainder interest is in qualified employer securities (as defined in subsection (g)(4)), all or part of such securities are to be transferred to an employee stock ownership plan (as defined in section 4975(e)(7)) in a qualified gratuitous transfer (as defined by subsection (g)).,<sup>1</sup> and
 
 &emsp;&emsp;(D) the value (determined under section 7520) of such remainder interest is at least 10 percent of the initial net fair market value of all property placed in the trust.
 
@@ -78,7 +78,7 @@ For purposes of determining the amount of any charitable contribution, the remai
 
 #### (2) Value determined without regard to qualified contingency
 
-&emsp;For purposes of determining the amount of any charitable contribution (or the actuarial value of any interest), a qualified contingency shall not be taken into account.
+&emsp;For purposes of determining the amount of any charitable contribution (or the actuarialvalue of any interest), a qualified contingency shall not be taken into account.
 
 #### (3) Qualified contingency
 
@@ -98,7 +98,7 @@ For purposes of determining the amount of any charitable contribution, the remai
 
 &emsp;&emsp;(D) such plan treats such securities as being attributable to employer contributions but without regard to the limitations otherwise applicable to such contributions under section 404, and
 
-&emsp;&emsp;(E) the employer whose employees are covered by the plan described in this paragraph files with the Secretary a verified written statement consenting to the application ofsections 4978 and 4979A with respect to such employer.
+&emsp;&emsp;(E) the employer whose employees are covered by the plan described in this paragraph files with the Secretary a verified written statement consenting to the application of sections 4978 and 4979A with respect to such employer.
 
 #### (2) Exception
 
@@ -122,7 +122,7 @@ For purposes of determining the amount of any charitable contribution, the remai
 
 &emsp;&emsp;(D) each participant who is entitled to a distribution from the plan has the rights described in subparagraphs (A) and (B) of section 409(h)(1),
 
-&emsp;&emsp;(E) such securities are held in a suspense account under the plan to be allocated each year, up to the limitations under section 415(c), after first allocating all other annual additions for the limitation year, up to the limitations under sections 415(c) and (e), and
+&emsp;&emsp;(E) such securities are held in a suspense account under the plan to be allocated each year, up to the limitations under section 415(c), after first allocating all other annual additions for the limitation year, up to the limitations under sections 415(c) and (e),<sup>2</sup> and
 
 &emsp;&emsp;(F) on termination of the plan, all securities so transferred which are not allocated to plan participants as of such termination are to be transferred to, or for the use of, an organization described in section 170(c).
 
@@ -165,6 +165,10 @@ For purposes of determining the amount of any charitable contribution, the remai
 &emsp;&emsp;(B) interest on such amount at the underpayment rate under section 6621 (and compounded daily) from the due date for filing the return of the tax imposed by chapter 11.
 
 (Added Pub. L. 91–172, title II, §201(e)(1), Dec. 30, 1969, 83 Stat. 562; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title X, §1022(d), July 18, 1984, 98 Stat. 1029; Pub. L. 105–34, title X, §1089(a)(1), (b)(1), (2), (4), title XV, §1530(a), (b), (c)(5), 111 Stat. 960, 1075, 1078; Pub. L. 105–206, title VI, §6010(r), July 22, 1998, 112 Stat. 817.)
+
+#### References in Text
+
+Section 415(e) of this title, referred to in subsec. (g)(3)(E), was repealed by Pub. L. 104–188, title I, §1452(a), Aug. 20, 1996, 110 Stat. 1816.
 
 #### Amendments
 

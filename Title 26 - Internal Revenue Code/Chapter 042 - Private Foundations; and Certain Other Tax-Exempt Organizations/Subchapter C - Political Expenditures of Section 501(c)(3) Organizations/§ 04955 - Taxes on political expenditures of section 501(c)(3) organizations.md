@@ -18,7 +18,7 @@
 
 #### (2) On the management
 
-&emsp;In any case in which an additional tax is imposed by paragraph (1), if an organization manager refused to agree to part or all of the correction, there is hereby imposed a tax equal to 50 percent of the amount of the political expenditure. The tax imposed by this paragraph shall be paid by any organization manager who refused to agree to part or all of the correction.
+&emsp;In any case in which an additional tax is imposed by paragraph (1), if an organizationmanager refused to agree to part or all of the correction, there is hereby imposed a tax equal to 50 percent of the amount of the political expenditure. The tax imposed by this paragraph shall be paid by any organization manager who refused to agree to part or all of the correction.
 
 #### (c) Special rules
 

@@ -56,7 +56,7 @@ In making awards under this subpart the Secretary shall take into consideration 
 
 #### (1) Outreach and technical assistance
 
-&emsp;The Secretary shall provide for outreach and technical assistance to institutions of higher education eligible for assistance under title III of the Higher Education Act of 1965 \[20 U.S.C.1051 et seq.\] and institutions of higher education that are operated or funded by the Bureau of Indian Affairs to facilitate the participation of such institutions in activities under this part.
+&emsp;The Secretary shall provide for outreach and technical assistance to institutions of higher education eligible for assistance under title III of the Higher Education Act of 1965 \[20 U.S.C. 1051 et seq.\] and institutions of higher education that are operated or funded by the Bureau of Indian Affairs to facilitate the participation of such institutions in activities under this part.
 
 #### (2) Distribution rule
 

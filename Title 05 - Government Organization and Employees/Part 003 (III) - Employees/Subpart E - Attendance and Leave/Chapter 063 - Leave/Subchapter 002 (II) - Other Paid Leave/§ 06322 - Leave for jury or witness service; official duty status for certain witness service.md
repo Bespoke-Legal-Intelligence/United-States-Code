@@ -36,7 +36,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–201, in concluding provisions, substituted “Puerto Rico or” for “Puerto Rico,” and struck out “, or the Republic of Panama” after “Pacific Islands”.
+1996—Subsec. (a). Pub. L. 104–201, in concluding provisions, substituted “Puerto Rico or” for “Puerto Rico,”and struck out “, or the Republic of Panama” after “Pacific Islands”.
 
 Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk” in introductory provisions.
 

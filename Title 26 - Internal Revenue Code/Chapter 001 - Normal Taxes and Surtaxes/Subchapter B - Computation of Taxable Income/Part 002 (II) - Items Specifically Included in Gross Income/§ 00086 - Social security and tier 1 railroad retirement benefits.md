@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (5) Effect of early delivery of benefit checks
 
-&emsp;For purposes of subsection (a), in any case where section 708 of the Social Security Act causes social security benefit checks to be delivered before the end of the calendar month for which they are issued, the benefits involved shall be deemed to have been received in the succeeding calendar month.
+&emsp;For purposes of subsection (a), in any case where section 708 of the Social Security Actcauses social security benefit checks to be delivered before the end of the calendar month for which they are issued, the benefits involved shall be deemed to have been received in the succeeding calendar month.
 
 #### (e) Limitation on amount included where taxpayer receives lump-sum payment
 

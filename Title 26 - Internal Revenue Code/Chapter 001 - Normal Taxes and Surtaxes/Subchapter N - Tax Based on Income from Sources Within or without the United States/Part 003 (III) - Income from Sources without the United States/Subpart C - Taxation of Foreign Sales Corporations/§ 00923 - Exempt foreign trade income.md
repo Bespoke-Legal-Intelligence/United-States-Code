@@ -42,7 +42,7 @@ For purposes of this subpart—
 
 For purposes of this subpart, the term “foreign trade income” means the gross income of a FSC attributable to foreign trading gross receipts.
 
-(Added Pub. L. 98–369, div. A, title VIII, §801(a), July 18, 1984, 98 Stat. 986; amended Pub. L.99–514, title XVIII, §1876(b)(3), Oct. 22, 1986, 100 Stat. 2898.)
+(Added Pub. L. 98–369, div. A, title VIII, §801(a), July 18, 1984, 98 Stat. 986; amended Pub. L. 99–514, title XVIII, §1876(b)(3), Oct. 22, 1986, 100 Stat. 2898.)
 
 #### Amendments
 

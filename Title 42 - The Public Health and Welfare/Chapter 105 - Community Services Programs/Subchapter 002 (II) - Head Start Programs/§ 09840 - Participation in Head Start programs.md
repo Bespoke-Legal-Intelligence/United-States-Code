@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) a child who has been determined to meet the low-income criteria and who is participating in a Head Start program in a program year shall be considered to continue to meet the low-income criteria through the end of the succeeding program year.
 
-> In determining, for purposes of this paragraph, whether a child who has applied for enrollment in a Head Start program meets the low-income criteria, an entity may consider evidence of family income during the 12 months preceding the month in which the application is submitted, or during the calendar year preceding the calendar year in which the application is submitted, whichever more accurately reflects the needs of the family at the time of application.
+> In determining, for purposes of this paragraph, whether a child who has applied for enrollmentin a Head Start program meets the low-income criteria, an entity may consider evidence of family income during the 12 months preceding the month in which the application is submitted, or during the calendar year preceding the calendar year in which the application is submitted, whichever more accurately reflects the needs of the family at the time of application.
 
 (2) Whenever a Head Start program is operated in a community with a population of 1,000 or less individuals and—
 
@@ -50,7 +50,7 @@ Each Head Start program operated in a community shall be permitted to provide mo
 
 (3) In providing services through a Head Start program to such children, the Indian tribe may not use funds that the Secretary has determined, in accordance with section 9835(g)(3) of this title, are to be used for expanding Head Start programs under this subchapter.
 
-(Pub. L. 97–35, title VI, §645, Aug. 13, 1981, 95 Stat. 504; Pub. L. 98–558, title I, §105, Oct. 30,1984, 98 Stat. 2879; Pub. L. 99–425, title I, §104, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–501, title I, §§113, 114, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 101–597, title IV, §401(e), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–252, title I, §111, May 18, 1994, 108 Stat. 637; Pub. L. 105–285, title I, §112, Oct. 27, 1998, 112 Stat. 2718.)
+(Pub. L. 97–35, title VI, §645, Aug. 13, 1981, 95 Stat. 504; Pub. L. 98–558, title I, §105, Oct. 30, 1984, 98 Stat. 2879; Pub. L. 99–425, title I, §104, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–501, title I, §§113, 114, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 101–597, title IV, §401(e), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–252, title I, §111, May 18, 1994, 108 Stat. 637; Pub. L. 105–285, title I, §112, Oct. 27, 1998, 112 Stat. 2718.)
 
 #### References in Text
 

@@ -38,7 +38,7 @@ The purposes and policies of this chapter are—
 
 &emsp;(9) to maintain, restore, and enhance living resources by providing places for species that depend upon these marine areas to survive and propagate.
 
-(Pub. L. 92–532, title III, §301, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 96–332, §1, Aug. 29, 1980, 94Stat. 1057; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2296; Pub. L. 102–587, title II, §2101, Nov. 4, 1992, 106 Stat. 5039; Pub. L. 104–283, §9(a), Oct. 11, 1996, 110 Stat. 3367.)
+(Pub. L. 92–532, title III, §301, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 96–332, §1, Aug. 29, 1980, 94 Stat. 1057; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2296; Pub. L. 102–587, title II, §2101, Nov. 4, 1992, 106 Stat. 5039; Pub. L. 104–283, §9(a), Oct. 11, 1996, 110 Stat. 3367.)
 
 #### Amendments
 

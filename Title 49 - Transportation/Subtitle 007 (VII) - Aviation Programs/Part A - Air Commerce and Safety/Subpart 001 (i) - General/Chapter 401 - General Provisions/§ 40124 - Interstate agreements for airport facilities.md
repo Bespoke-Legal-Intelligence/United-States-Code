@@ -1,6 +1,6 @@
 ### §40124. Interstate agreements for airport facilities
 
-Congress consents to a State making an agreement, not in conflict with a law of the United States, with another State to develop or operate an airport facility.
+Congress consents to a State making an agreement, not in conflict with a law of the UnitedStates, with another State to develop or operate an airport facility.
 
 (Added Pub. L. 104–287, §5(69)(A), Oct. 11, 1996, 110 Stat. 3395, §40121; renumbered §40124, Pub. L. 105–102, §3(d)(1)(B), Nov. 20, 1997, 111 Stat. 2215.)
 

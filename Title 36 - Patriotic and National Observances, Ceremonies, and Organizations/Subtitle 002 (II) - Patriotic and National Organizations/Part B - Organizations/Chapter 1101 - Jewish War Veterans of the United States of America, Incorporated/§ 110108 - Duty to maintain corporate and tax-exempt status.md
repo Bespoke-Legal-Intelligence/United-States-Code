@@ -30,5 +30,7 @@ Aug. 21, 1984, Pub. L. 98–391, §§1(b), 15 (1st sentence), 98 Stat. 1358, 136
 
 36:2714 (1st sentence).
 
+&nbsp;
+
 In subsection (a), the words “retain and” and “organized and” are omitted as unnecessary.
 

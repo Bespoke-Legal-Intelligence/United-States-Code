@@ -202,9 +202,9 @@ In general.—Funds from eligible loans (including proceeds from the sale of bon
 
 &emsp;&emsp;“(C) to pay the costs of enforcing easements or land use restrictions;
 
-&emsp;&emsp;“(D) to cover the costs of complying with any regulations issued by the Secretary under this program and the costs of implementing the farmland plan of operation, except that the guaranteed loanproceeds shall not be used to pay overhead expenses of the State trust fund (rent, utilities, salaries, wages, insurance premiums, and the like); and
+&emsp;&emsp;“(D) to cover the costs of complying with any regulations issued by the Secretary under this program and the costs of implementing the farmland plan of operation, except that the guaranteed loan proceeds shall not be used to pay overhead expenses of the State trust fund (rent, utilities, salaries, wages, insurance premiums, and the like); and
 
-&emsp;&emsp;“(E) to generate earnings (including through investments not exceeding 10 years in duration for each eligible loan), to be used for future farmland preservation efforts, through investments in direct obligations of the United States or obligations guaranteed by the United States or an agency thereof or by depositing funds in any member bank of the Federal Reserve System or any federally insured State nonmember bank.
+&emsp;&emsp;“(E) to generate earnings (including through investments not exceeding 10 years in duration foreach eligible loan), to be used for future farmland preservation efforts, through investments in direct obligations of the United States or obligations guaranteed by the United States or an agency thereof or by depositing funds in any member bank of the Federal Reserve System or any federally insured State nonmember bank.
 
 &emsp;“(2)
 
@@ -290,7 +290,7 @@ Obligations.—Proceeds from the sale of tax-exempt general obligation bonds, or
 
 &emsp;“(4)
 
-Land.—The fair market value of any donation of an interest in land to the State trust fund, or acharitable organization working with the State trust fund, may be considered as matching funds, for the same fiscal year, if—
+Land.—The fair market value of any donation of an interest in land to the State trust fund, or a charitable organization working with the State trust fund, may be considered as matching funds, for the same fiscal year, if—
 
 &emsp;&emsp;“(i) the fair market value is based on an appraisal determined to be adequate by the State trust fund; and
 

@@ -1,6 +1,6 @@
 ### §§431 to 434. Repealed. Aug. 14, 1946, ch. 964, §2(a)(1), 60 Stat. 1062
 
-Section 431, act June 29, 1936, ch. 868, §1, 49 Stat. 2035, related to jurisdiction of State or political subdivisionssubsequent to acquisition by United States of any real property for resettlement or rural rehabilitation projects.
+Section 431, act June 29, 1936, ch. 868, §1, 49 Stat. 2035, related to jurisdiction of State or political subdivisions subsequent to acquisition by United States of any real property for resettlement or rural rehabilitation projects.
 
 Section 432, act June 29, 1936, ch. 868, §2, 49 Stat. 2036, related to certain payments to State or political subdivisions in lieu of taxes.
 

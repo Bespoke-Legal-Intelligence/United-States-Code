@@ -4,5 +4,5 @@ Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 70; Apr. 2, 1963, Pub. L. 88–4
 
 #### Effective Date of Repeal
 
-Repeal applicable to taxable years beginning after Dec. 31, 1975, see section 508 of Pub. L. 94–455, set out asan Effective Date of 1976 Amendment note under section 3 of this title.
+Repeal applicable to taxable years beginning after Dec. 31, 1975, see section 508 of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 3 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Offense
 
-A person subject to section 1461 of this title is guilty of an offense if such person willfully andknowingly commits any act prohibited by section 1461 of this title.
+A person subject to section 1461 of this title is guilty of an offense if such person willfully and knowingly commits any act prohibited by section 1461 of this title.
 
 #### (b) Punishment
 

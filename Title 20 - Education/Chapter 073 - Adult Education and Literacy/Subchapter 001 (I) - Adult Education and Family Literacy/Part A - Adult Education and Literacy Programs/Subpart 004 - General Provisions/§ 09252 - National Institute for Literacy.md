@@ -52,7 +52,7 @@ The purpose of this section is to establish a National Institute for Literacy th
 
 &emsp;&emsp;(C) to coordinate the support of reliable and replicable research and development on literacy and basic skills in families and adults across Federal agencies, especially with the Office of Educational Research and Improvement in the Department of Education, and to carry out basic and applied research and development on topics that are not being investigated by other organizations or agencies, such as the special literacy needs of individuals with learning disabilities;
 
-&emsp;&emsp;(D) to collect and disseminate information on methods of advancing literacy that show great promise, including phonemic awareness, systematic phonics, fluency, and reading comprehension based on the work of the National Institute of Child Health and Human Development;
+&emsp;&emsp;(D) to collect and disseminate information on methods of advancing literacy that show great promise, including phonemic awareness, systematic phonics, fluency, and reading comprehension based on the work of theNational Institute of Child Health and Human Development;
 
 &emsp;&emsp;(E) to provide policy and technical assistance to Federal, State, and local entities for the improvement of policy and programs relating to literacy;
 
@@ -140,7 +140,7 @@ The purpose of this section is to establish a National Institute for Literacy th
 
 #### (5) Quorum
 
-&emsp;A majority of the members of the Board shall constitute a quorum but a lesser number may hold hearings. Any recommendation of the Board may be passed only by a majority of the Board's members present.
+&emsp;A majority of the members of the Board shall constitute a quorum but a lesser numbermay hold hearings. Any recommendation of the Board may be passed only by a majority of the Board's members present.
 
 #### (6) Election of officers
 
@@ -214,7 +214,7 @@ Provisions similar to this section were contained in section 1213c of this title
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the Presidentor an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

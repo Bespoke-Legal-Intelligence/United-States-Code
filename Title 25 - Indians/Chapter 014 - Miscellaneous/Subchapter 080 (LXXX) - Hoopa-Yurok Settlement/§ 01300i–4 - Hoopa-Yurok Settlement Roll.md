@@ -10,7 +10,7 @@
 
 &emsp;(C) who were not, on August 8, 1988, enrolled members of the Hoopa Valley Tribe.
 
-(2) The Secretary's determination of eligibility under this subsection shall be final except that any Short plaintiff determined by the United States Court of Federal Claims to be an Indian of the Reservation shall be included on the Settlement Roll if they meet the other requirements of this subsection and any Short plaintiff determined by the United States Court of Federal Claims not to be an Indian of the Reservation shall not be eligible for inclusion on such roll. Children under age 10 on the date they applied for the Settlement Roll who have lived all their lives on the Joint Reservation or the Hoopa Valley or Yurok Reservations, and who otherwise meet the requirements of this sectionexcept they lack 10 years of Reservation residence, shall be included on the Settlement Roll.
+(2) The Secretary's determination of eligibility under this subsection shall be final except that any Short plaintiff determined by the United States Court of Federal Claims to be an Indian of the Reservation shall be included on the Settlement Roll if they meet the other requirements of this subsection and any Short plaintiff determined by the United States Court of Federal Claims not to be an Indian of the Reservation shall not be eligible for inclusion on such roll. Children under age 10 on the date they applied for the Settlement Roll who have lived all their lives on the Joint Reservation or the Hoopa Valley or Yurok Reservations, and who otherwise meet the requirements of this section except they lack 10 years of Reservation residence, shall be included on the Settlement Roll.
 
 #### (b) Right to apply; notice
 
@@ -32,7 +32,7 @@ The deadline for application pursuant to this section shall be established at on
 
 (1) The Secretary shall make determinations of eligibility of applicants under this section and publish in the Federal Register the final Settlement Roll of such persons one hundred and eighty days after the date established pursuant to subsection (c) of this section.
 
-(2) The Secretary shall develop such procedures and times as may be necessary for the consideration of appeals from applicants not included on the roll published pursuant to paragraph (1). Successful appellants shall be added to the Settlement Roll and shall be afforded the right to elect options as provided in section 1300i–5 of this title, with any payments to be made to such successful appellants out of the remainder of the Settlement Fund after payments have been made pursuant to section 1300i–5(d) of this title and prior to division pursuant to section 1300i–6 of this title.
+(2) The Secretary shall develop such procedures and times as may be necessary for the consideration of appeals from applicants not included on the roll published pursuant to paragraph (1). Successful appellants shall be added to the Settlement Roll and shall be afforded the right to elect options as provided in section1300i–5 of this title, with any payments to be made to such successful appellants out of the remainder of the Settlement Fund after payments have been made pursuant to section 1300i–5(d) of this title and prior to division pursuant to section 1300i–6 of this title.
 
 (3) Persons added to the Settlement Roll pursuant to appeals under this subsection shall not be considered in the calculations made pursuant to section 1300i–3 of this title.
 

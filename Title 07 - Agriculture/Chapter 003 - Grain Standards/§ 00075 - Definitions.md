@@ -14,7 +14,7 @@ When used in this chapter, except where the context requires otherwise—
 
 &emsp;(f) the term “interstate or foreign commerce” means commerce from any State to or through any other State, or to or through any foreign country;
 
-&emsp;(g) the term “grain” means corn, wheat, rye, oats, barley, flaxseed, sorghum, soybeans, mixed grain, and any other food grains, feed grains, and oilseeds for which standards are established under section 76 of this title;
+&emsp;(g) the term “grain” means corn, wheat, rye, oats, barley, flaxseed, sorghum, soybeans,mixed grain, and any other food grains, feed grains, and oilseeds for which standards are established under section 76 of this title;
 
 &emsp;(h) the term “export grain” means grain for shipment from the United States to any place outside thereof;
 
@@ -58,7 +58,7 @@ When used in this chapter, except where the context requires otherwise—
 
 #### Amendments
 
-1994—Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing in subsecs. (i) to (k), (m), (n), (u) to (w), and (y), redesignated subsec. (bb) as (z), and struck out former subsecs. (z) and (aa) which read as follows:
+1994—Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing in subsecs. (i) to (k),\(m), (n), (u) to (w), and (y), redesignated subsec. (bb) as (z), and struck out former subsecs. (z) and (aa) which read as follows:
 
 “(z) the term ‘Administrator’ means the Administrator of the Federal Grain Inspection Service or delegates of the Administrator;
 
@@ -78,7 +78,7 @@ Subsec. (z). Pub. L. 103–156, §12(a)(2), substituted “delegates of the Admi
 
 Subsec. (i). Pub. L. 95–113, §1606(a), struck out reference to the determination of the quantity of sacks of grain upon the request of the interested party applying for inspection.
 
-Subsec. (m). Pub. L. 95–113, §1604(a)(2), substituted “or subsection (c) of section 79a of this title for theconduct of official weighing or supervision of weighing (other than appeal weighing)” for “or subsection (b) of section 79a of this title for the conduct of supervision of weighing”.
+Subsec. (m). Pub. L. 95–113, §1604(a)(2), substituted “or subsection (c) of section 79a of this title for the conduct of official weighing or supervision of weighing (other than appeal weighing)” for “or subsection (b) of section 79a of this title for the conduct of supervision of weighing”.
 
 Subsec. (x). Pub. L. 95–113, §1604(a)(3), substituted “under standards provided for in this chapter” for “under standards provided in this chapter”.
 

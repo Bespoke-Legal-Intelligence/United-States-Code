@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(2) a trade surplus in services could offset the deficit in manufactured goods and help lower the overall trade deficit significantly;
 
-&emsp;(3) in contrast to the barriers faced by United States firms in Japan, Japanese firms generally have enjoyed access to UnitedStates financial markets on the same terms as United States firms; and
+&emsp;(3) in contrast to the barriers faced by United States firms in Japan, Japanese firms generally have enjoyed access to United States financial markets on the same terms as United States firms; and
 
 &emsp;(4) United States firms seeking to compete in Japan face or have faced a variety of discriminatory barriers effectively precluding such firms from fairly competing for Japanese business, including—
 

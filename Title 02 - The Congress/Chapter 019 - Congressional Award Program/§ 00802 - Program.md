@@ -30,7 +30,7 @@ The Board may award scholarships in such amounts as the Board determines to be a
 
 #### (e) Annual reporting requirements
 
-The Board shall prepare and submit an annual report to the Congress before April 1 of each year summarizing the activities of the Congressional Award Program during the previous year and making appropriate recommendations. Any minority views and recommendations of members of the Board shall be included in such reports. The annual report shall contain the following items:
+The Board shall prepare and submit an annual report to the Congress before June 1 of each year summarizing the activities of the Congressional Award Program during the previous year and making appropriate recommendations. Any minority views and recommendations of members of the Board shall be included in such reports. The annual report shall contain the following items:
 
 &emsp;(1) Specific information regarding the methods used to raise funds for the Congressional Award Program and a list of the sources of all money raised by the Board.
 
@@ -62,13 +62,15 @@ The Board shall prepare and submit an annual report to the Congress before April
 
 &emsp;There are authorized to be charged against the Numismatic Public Enterprise Fund such amounts as may be necessary to pay for the cost of the medals struck pursuant to this chapter.
 
-(Pub. L. 96–114, §3, Nov. 16, 1979, 93 Stat. 851; Pub. L. 99–161, §4(a)–(c), Nov. 25, 1985, 99 Stat.934; Pub. L. 100–674, §2(a), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §3, Nov. 6, 1990, 104 Stat. 2305; Pub. L. 103–329, title VI, §637, Sept. 30, 1994, 108 Stat. 2431.)
+(Pub. L. 96–114, §3, Nov. 16, 1979, 93 Stat. 851; Pub. L. 99–161, §4(a)–(c), Nov. 25, 1985, 99 Stat. 934; Pub. L. 100–674, §2(a), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §3, Nov. 6, 1990, 104 Stat. 2305; Pub. L. 103–329, title VI, §637, Sept. 30, 1994, 108 Stat. 2431; Pub. L. 106–63, §1(a), Oct. 1, 1999, 113 Stat. 510.)
 
 #### References in Text
 
 Section 806(g)(1) of this title, referred to in subsec. (e)(4), was redesignated section 806(h)(1) of this title by Pub. L. 100–674, §2(c)(2)(A), Nov. 17, 1988, 102 Stat. 3997, and section 806(i)(1) of this title by Pub. L. 101–525, §7(b)(2), Nov. 6, 1990, 104 Stat. 2307.
 
 #### Amendments
+
+1999—Subsec. (e). Pub. L. 106–63 substituted “June 1” for “April 1” in introductory provisions.
 
 1994—Subsec. (a). Pub. L. 103–329, §637(1), struck out “gold, silver, and bronze” after “Under the program” and substituted last sentence for former last sentence which read as follows: “The medals shall be of such design and materials as the Board may determine.”
 

@@ -6,5 +6,5 @@ The shareholders of every Federal reserve bank shall be held individually respon
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 377, 481 of this title.
+This section is referred to in section 481 of this title.
 

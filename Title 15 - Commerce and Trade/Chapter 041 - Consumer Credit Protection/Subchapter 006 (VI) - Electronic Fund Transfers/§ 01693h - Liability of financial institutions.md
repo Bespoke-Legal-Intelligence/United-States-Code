@@ -32,7 +32,15 @@ A financial institution shall not be liable under subsection (a)(1) or (2) of th
 
 In the case of a failure described in subsection (a) of this section which was not intentional and which resulted from a bona fide error, notwithstanding the maintenance of procedures reasonably adapted to avoid any such error, the financial institution shall be liable for actual damages proved.
 
-(Pub. L. 90–321, title IX, §910, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3735.)
+#### (d) Exception for damaged notices
+
+If the notice required to be posted pursuant to section 1693b(d)(3)(B)(i) of this title by an automated teller machine operator has been posted by such operator in compliance with such section and the notice is subsequently removed, damaged, or altered by any person other than the operator of the automated teller machine, the operator shall have no liability under this section for failure to comply with section 1693b(d)(3)(B)(i) of this title.
+
+(Pub. L. 90–321, title IX, §910, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3735; amended Pub. L. 106–102, title VII, §705, Nov. 12, 1999, 113 Stat. 1465.)
+
+#### Amendments
+
+1999—Subsec. (d). Pub. L. 106–102 added subsec. (d).
 
 #### Section Referred to in Other Sections
 

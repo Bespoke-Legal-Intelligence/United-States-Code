@@ -16,7 +16,7 @@ The Secretary may not enter into an insurance agreement described in subsection 
 
 &emsp;&emsp;(B) to refinance an obligation the proceeds of which were used to finance the repair, renovation, and, in exceptional cases, construction or acquisition, of a capital project;
 
-&emsp;(3)(A) charge such interest on loans, and provide for such a schedule of repayments of loans, as will, upon the timely repayment of the loans, provide adequate and timely fundsfor the payment of principal and interest on the bonds; and
+&emsp;(3)(A) charge such interest on loans, and provide for such a schedule of repayments of loans, as will, upon the timely repayment of the loans, provide adequate and timely funds for the payment of principal and interest on the bonds; and
 
 &emsp;(B) require that any payment on a loan expected to be necessary to make a payment of principal and interest on the bonds be due not less than 60 days prior to the date of the payment on the bonds for which such loan payment is expected to be needed;
 
@@ -72,7 +72,7 @@ Subject to subsection (c)(1) of this section the full faith and credit of the Un
 
 Notwithstanding any other provision of law, a qualified bond guaranteed under this part may be sold to any party that offers terms that the Secretary determines are in the best interest of the eligible institution.
 
-(Pub. L. 89–329, title III, §343, formerly title VII, §723, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 743; amended Pub. L. 103–382, title III, §360C, Oct. 20, 1994, 108 Stat. 3972; renumbered title III, §343, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), (c)(5), 306(b), Oct. 7, 1998, 112 Stat. 1636, 1637, 1646.)
+(Pub. L. 89–329, title III, §343, formerly title VII, §723, as added Pub. L. 102–325, title VII, §704,July 23, 1992, 106 Stat. 743; amended Pub. L. 103–382, title III, §360C, Oct. 20, 1994, 108 Stat. 3972; renumbered title III, §343, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), (c)(5), 306(b), Oct. 7, 1998, 112 Stat. 1636, 1637, 1646.)
 
 #### References in Text
 

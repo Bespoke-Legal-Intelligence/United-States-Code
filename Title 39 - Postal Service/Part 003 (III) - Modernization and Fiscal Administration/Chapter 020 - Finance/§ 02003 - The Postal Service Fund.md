@@ -30,7 +30,7 @@
 
 (f) Notwithstanding any other provision of this section, any amounts appropriated to the Postal Service under subsection (d) of section 2401 of this title and deposited into the Fund shall be expended by the Postal Service only for the purposes provided in such subsection.
 
-(g) Notwithstanding any provision of section 8147 of title 5, whenever the Secretary of Labor furnishes a statement to the Postal Service indicating an amount due from the Postal Service under subsection (b) of that section, the Postal Service shall make the deposit required pursuant to that statement (and any additional payment under subsection (c) of that section, to the extent that it relates to the period covered by such statement) not later than 30 days after the date on which such statement is so furnished. Any deposit (and any additional payment) which is subject to the preceding sentence shall, once made, remain available without fiscal year limitation.
+(g) Notwithstanding any provision of section 8147 of title 5, whenever the Secretary of Labor furnishes a statement to the Postal Service indicating an amount due from the Postal Service under subsection (b) of that section, the Postal Service shall make the deposit required pursuant to that statement (and any additional payment under subsection (c) of that section, to the extent that it relates to the period covered bysuch statement) not later than 30 days after the date on which such statement is so furnished. Any deposit (and any additional payment) which is subject to the preceding sentence shall, once made, remain available without fiscal year limitation.
 
 (h) Liabilities of the former Post Office Department to the Employees’ Compensation Fund (appropriations for which were authorized by former section 2004, as in effect before the effective date of this subsection) shall be liabilities of the Postal Service payable out of the Fund.
 
@@ -132,7 +132,7 @@ Capital Limitations for Fiscal Years 1988
 
 and 1989.—
 
-&emsp;“(1) The United States Postal Service may not make any commitment or obligation to expend any monies deposited in the Postal Service Fund established under section 2003 of title 39, United States Code, for the capital investment program—
+&emsp;“(1) The United States Postal Service may not make any commitment or obligation to expend anymonies deposited in the Postal Service Fund established under section 2003 of title 39, United States Code, for the capital investment program—
 
 &emsp;&emsp;“(A) in excess of $625,000,000 in fiscal year 1988; and
 

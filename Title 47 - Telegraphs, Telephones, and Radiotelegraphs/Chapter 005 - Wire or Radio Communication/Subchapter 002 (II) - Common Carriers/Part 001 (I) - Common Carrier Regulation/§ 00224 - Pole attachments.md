@@ -4,7 +4,7 @@
 
 As used in this section:
 
-(1) The term “utility” means any person who is a local exchange carrier or an electric, gas, water, steam, or other public utility, and who owns or controls poles, ducts, conduits, or rights-of-way used, in whole or in part, for any wire communications. Such term does not include any railroad, any person who is cooperatively organized, or any person owned by the Federal Government or any State.
+(1) The term “utility” means any person who is a local exchange carrier or an electric, gas, water, steam, or other public utility, and who owns or controls poles, ducts, conduits, orrights-of-way used, in whole or in part, for any wire communications. Such term does not include any railroad, any person who is cooperatively organized, or any person owned by the Federal Government or any State.
 
 (2) The term “Federal Government” means the Government of the United States or any agency or instrumentality thereof.
 

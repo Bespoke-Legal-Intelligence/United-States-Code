@@ -46,7 +46,7 @@ Pub. L. 102–395, title I, §111(a), Oct. 6, 1992, 106 Stat. 1842, provided tha
 
 “(4) The Attorney General shall not collect such fee from any person with respect to whom a fine was imposed or waived by a judge of a United States District Court pursuant to section 5E1.2(f) and (i) of the United States Sentencing Guidelines, or any successor provisions.
 
-“(5) In cases in which the Attorney General has authority to collect the fee, the Attorney General shall have discretion to waive the fee or impose a lesser fee if the person under confinement establishes that (1) he or she is not able and, even with the use of a reasonable installment schedule, is not likely to become able to pay all or part of the fee, or (2) imposition of a fine would unduly burden the defendant's dependents.
+“(5) In cases in which the Attorney General has authority to collect the fee, the Attorney General shallhave discretion to waive the fee or impose a lesser fee if the person under confinement establishes that (1) he or she is not able and, even with the use of a reasonable installment schedule, is not likely to become able to pay all or part of the fee, or (2) imposition of a fine would unduly burden the defendant's dependents.
 
 “(6) For fiscal year 1993 only, fees collected in accordance with this section shall be deposited as offsetting receipts to the Treasury.
 

@@ -1,6 +1,6 @@
 ### §7431. Requirements as to consultation and approval
 
-(a) The Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives must be consulted and the President's approval must be obtained before any condemnation proceedings may be started under this chapter and before any of the following transactions authorized by this chapter may be effective:
+(a) The Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives must be consulted and the President's approval must be obtained before any condemnation proceedings may be started under this chapter and before any of the following transactions authorized by this chapter may be effective:
 
 &emsp;(1) A lease of any part of the naval petroleum reserves.
 
@@ -12,11 +12,11 @@
 
 &emsp;(5) An agreement to exchange land, the right to royalty production, or the right to any money due the United States.
 
-(b)(1) During the period of production authorized by section 7422(c) of this title, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives any new plans or substantial amendments to ongoing plans for the exploration, development, and production of the naval petroleum reserves.
+(b)(1) During the period of production authorized by section 7422(c) of this title, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives any new plans or substantial amendments to ongoing plans for the exploration, development, and production of the naval petroleum reserves.
 
-(2) All plans or substantial amendments submitted to the Congress pursuant to this section shall contain a report by the Attorney Generalof the United States with respect to the anticipated effects of such plans or amendments on competition. Such plans or amendments shall not be implemented until sixty days after such plans or amendments have been submitted to such committees.
+(2) All plans or substantial amendments submitted to the Congress pursuant to this sectionshall contain a report by the Attorney General of the United States with respect to the anticipated effects of such plans or amendments on competition. Such plans or amendments shall not be implemented until sixty days after such plans or amendments have been submitted to such committees.
 
-(c) During the period of production authorized by section 7422(c) of this title, the Secretary shall submit annual reports as of the first day of the fiscal year to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives, and such committees shall cause such reports to be printed as a Senate or House document, as appropriate. The Secretary shall include in such reports, with respect to each naval petroleum reserve, an explanation in detail of the following:
+(c) During the period of production authorized by section 7422(c) of this title, the Secretary shall submit annual reports as of the first day of the fiscal year to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, and such committees shall cause such reports to be printed as a Senate or House document, as appropriate. The Secretary shall include in such reports, with respect to each naval petroleum reserve, an explanation in detail of the following:
 
 &emsp;(1) The status of the exploration, development, and production programs.
 
@@ -28,7 +28,7 @@
 
 &emsp;(5) Such other information regarding the reserve as the Secretary deems appropriate.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 460; Pub. L. 87–796, §1(7), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, §201(12), Apr. 5, 1976, 90 Stat. 311; Pub. L. 98–525, title XIV, §1405(52), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–145, title XIII, §1303(a)(25), Nov. 8, 1985, 99 Stat. 740; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 460; Pub. L. 87–796, §1(7), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, §201(12), Apr. 5, 1976, 90 Stat. 311; Pub. L. 98–525, title XIV, §1405(52), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–145, title XIII, §1303(a)(25), Nov. 8, 1985, 99 Stat. 740; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 Historical and Revision Notes
 
@@ -46,6 +46,8 @@ June 4, 1920, ch. 228 (4th par., 1st proviso, of amended 3d and 4th provisos), 4
 
 #### Amendments
 
+1999—Subsecs. (a), (b)(1), (c). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+
 1996—Subsecs. (a), (b)(1), (c). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
 
 1985—Subsec. (c). Pub. L. 99–145 in pars. (1) to (3) substituted “The” for “the” at beginning and periods for the semicolons at end, in par. (4) substituted “A summary” for “a summary” and a period for “; and”, and in par. (5) substituted “Such” for “such”.
@@ -55,10 +57,6 @@ June 4, 1920, ch. 228 (4th par., 1st proviso, of amended 3d and 4th provisos), 4
 1976—Pub. L. 94–258 designated existing provisions as subsec. (a), struck out “or oil shale” in pars. (1) and (2) before “reserves”, struck out “and oil shale” in pars. (2) and (3), before “reserves” substituted “petroleum (other than royalty oil and gas)” for “oil and gas (other than royalty oil and gas), oil shale, and products therefrom” in par. (3), and added subsecs. (b) and (c).
 
 1962—Pub. L. 87–796 included oil shale reserves in cls. (1) and (2), inserted provisions in cl. (2) excepting consultation and Presidential approval in connection with issuance of permits, licenses, easements, grazing and agricultural leases, rights-of-way, and similar contracts pertaining to use of surface area of naval petroleum and oil shale reserves, and included oil shale, and products therefrom produced from any part of oil shale reserves.
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Contract for Studies of Potential Transfer Out of Federal Control of Facilities and Functions at Elk Hills and Teapot Dome; Restrictions
 

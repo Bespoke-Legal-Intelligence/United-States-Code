@@ -22,7 +22,7 @@ For purposes of this subchapter, the term—
 
 &emsp;(j) “self-determination contract” means a contract (or grant or cooperative agreement utilized under section 450e–1 of this title) entered into under part A of this subchapter between a tribal organization and the appropriate Secretary for the planning, conduct and administration of programs or services which are otherwise provided to Indian tribes and their members pursuant to Federal law: <i>Provided</i>, That except as provided <sup>1</sup> the last proviso in section 450j(a) <sup>2</sup> of this title, no contract (or grant or cooperative agreement utilized under section 450e–1 of this title) entered into under part A of this subchapter shall be construed to be a procurement contract;
 
-&emsp;(k) “State education agency” means the State board of education or other agency or officer primarily responsible for supervision by the State of public elementary and secondary schools, or, if there is no such officer or agency, an officer or agency designated by the Governor or by State law;
+&emsp;(k) “State education agency” means the State board of education or other agency orofficer primarily responsible for supervision by the State of public elementary and secondary schools, or, if there is no such officer or agency, an officer or agency designated by the Governor or by State law;
 
 &emsp;(<i>l</i>) “tribal organization” means the recognized governing body of any Indian tribe; any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body or which is democratically elected by the adult members of the Indian community to be served by such organization and which includes the maximum participation of Indians in all phases of its activities: <i>Provided</i>, That in any case where a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant; and
 
@@ -70,7 +70,7 @@ Subsec. (j). Pub. L. 100–581, §208(b), substituted “the Secretary for the p
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1665c, 2902, 3202, 3307, 3322, 3402, 3602 of this title; title 2 section 1602; title 5 section 3371; title 7 sections 1471, 2012; title 8 section 1612; title 10 sections 2323a, 2411; title 15 sections 632, 6312; title 16 section 1002; title 20 sections 80q–14, 1411, 1443, 1461, 2326, 6362; title 21 section 1532; title 22 section 2124c; title 31 section 1352; title 38 section 3764; title 42 sections 290ff, 300n, 300w–1, 300x–33, 619, 622, 628, 654, 3057c, 9858n, 10402, 10407, 10408, 10410, 10414, 10601, 12340; title 49 section 5102.
+This section is referred to in sections 1665c, 2902, 3202, 3307, 3322, 3402, 3602 of this title; title 2 section 1602; title 5 section 3371; title 7 sections 1471, 2012; title 8 section 1612; title 10 sections 2323a, 2411; title 15 sections 632, 6312; title 16 section 1002; title 20 sections 80q–14, 1411, 1443, 1461, 2326, 6362; title 21 section 1532; title 22 section 2124c; title 29 sections 2887, 2911; title 31 section 1352; title 38 section 3764; title 42 sections 290ff, 300n, 300w–1, 300x–33, 619, 622, 628, 654, 3057c, 3796<i>ll</i>–2, 9858n, 10402, 10407, 10408, 10410, 10414, 10601, 12340; title 49 section 5102.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “provided in”.</i>
 

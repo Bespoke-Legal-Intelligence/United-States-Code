@@ -6,7 +6,7 @@ Stock and Dividends.—The corporation may not issue stock or declare or pay a d
 
 (b)
 
-Distribution of Income or Assets.—The income or assets of the corporation may not inure to the benefit of, or be distributed to, a director, officer, or member during the life of the charter granted by this chapter. This subsection does not prevent the payment of reasonable compensation to an officer or employee or reimbursement for actual necessary expenses in amounts approved by the board of directors.
+Distribution of Income or Assets.—The income or assets of the corporation may not inure to the benefit of, or be distributed to, a director, officer, or member during the life of the charter granted by this chapter. This subsection does not prevent the payment of reasonablecompensation to an officer or employee or reimbursement for actual necessary expenses in amounts approved by the board of directors.
 
 (c)
 
@@ -38,13 +38,19 @@ Sept. 23, 1996, Pub. L. 104–201, title XVIII, §1808(a)–(d), 110 Stat. 2761.
 
 36:5608(a).
 
+&nbsp;
+
 70107(c)
 
 36:5608(b).
 
+&nbsp;
+
 70107(d)
 
 36:5608(d).
+
+&nbsp;
 
 In subsection (a), the words “any shares of” are omitted as unnecessary.
 

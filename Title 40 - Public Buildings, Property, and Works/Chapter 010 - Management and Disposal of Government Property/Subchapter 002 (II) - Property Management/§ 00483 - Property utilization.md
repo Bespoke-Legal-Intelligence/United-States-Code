@@ -16,13 +16,13 @@ Each executive agency shall, as far as practicable, (1) make reassignments of pr
 
 #### (d) Acquisition of excess personal property by Federal agencies for grantees prohibited; exceptions
 
-Notwithstanding any other provisions of law, Federal agencies are prohibited from obtainingexcess personal property for purposes of furnishing such property to grantees of such agencies, except as follows:
+Notwithstanding any other provisions of law, Federal agencies are prohibited from obtaining excess personal property for purposes of furnishing such property to grantees of such agencies, except as follows:
 
 &emsp;(1) Under such regulations as the Administrator may prescribe, any Federal agency may obtain excess personal property for purposes of furnishing it to any institution or organization which is a public agency or is nonprofit and exempt from taxation under section 501 of title 26, and which is conducting a federally sponsored project pursuant to a grant made for a specific purpose with a specific termination made: <i>Provided</i>, That—
 
 &emsp;&emsp;(A) such property is to be furnished for use in connection with the grant; and
 
-&emsp;&emsp;(B) the sponsoring Federal agency pays an amount equal to 25 per centum of the original acquisition cost (except for costs of care and handling) of the excess property furnished, such funds to be covered into the Treasury as miscellaneous receipts.
+&emsp;&emsp;(B) the sponsoring Federal agency pays an amount equal to 25 per centum of the original acquisition cost (except for costs of careand handling) of the excess property furnished, such funds to be covered into the Treasury as miscellaneous receipts.
 
 > &emsp;Title to excess property obtained under this paragraph shall vest in the grantees and shall be accounted for and disposed of in accordance with procedures governing the accountability of personal property acquired under grant agreements.
 
@@ -64,13 +64,13 @@ The Administrator may authorize the abandonment, destruction, or donation to pub
 
 #### References in Text
 
-Such Act, referred to in subsec. (d)(2)(A), is the Foreign Assistance Act of 1961, Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification ofthis Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+Such Act, referred to in subsec. (d)(2)(A), is the Foreign Assistance Act of 1961, Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 Act of May 8, 1914 (7 U.S.C. 341 et seq.), referred to in subsec. (d)(2)(E), is act May 8, 1914, ch. 79, 38 Stat. 372, as amended, popularly known as the Smith-Lever Act, which is classified generally to subchapter IV (§341 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 341 of Title 7 and Tables.
 
 Act of March 2, 1887 (7 U.S.C. 361a et seq.), referred to in subsec. (d)(2)(E), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 361a of Title 7 and Tables.
 
-Act of October 10, 1962 (16 U.S.C. 582a et seq.), referred to in subsec. (d)(2)(E), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, as amended, popularly known as the McIntire-Stennis Act of 1962, which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
+Act of October 10, 1962 (16 U.S.C. 582a et seq.), referred to in subsec. (d)(2)(E), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, as amended, popularly known as the McIntire-Stennis Act of 1962, which is classified generally to subchapter III (§582a et seq.) of chapter 3 ofTitle 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
 
 #### Codification
 
@@ -116,7 +116,7 @@ All functions with respect to acquiring space in buildings by lease, all functio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 475, 481, 483c, 483d, 512 of this title; title 25 section 1812; title 38 section 8162; title 42 section 11411.
+This section is referred to in sections 475, 481, 483c, 483d, 512 of this title; title 10 section 2814; title 25 section 1812; title 38 section 8162; title 42 section 11411.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “at”.</i>
 

@@ -42,6 +42,8 @@ Dec. 29, 1979, Pub. L. 96–165, §5(b)–(d), 93 Stat. 1270.
 
 36:1305(d).
 
+&nbsp;
+
 In subsection (a)(1), the words “The board of governors is the governing body of the corporation” are substituted for “The management of the corporation shall be entrusted to a board of governors” for consistency in the revised title.
 
 In subsection (a)(2), the text of 36:1305(b) (2d sentence) and the word “Thereafter” are omitted as executed and obsolete.

@@ -20,7 +20,7 @@ The Commission shall—
 
 #### (d) Membership
 
-(1) The Commission shall consist of 21 members appointed by the President, 7 of whom shallbe appointed after consultation with the Speaker of the House of Representatives and 7 of whom shall be appointed after consultation with the President pro tempore of the Senate.
+(1) The Commission shall consist of 21 members appointed by the President, 7 of whom shall be appointed after consultation with the Speaker of the House of Representatives and 7 of whom shall be appointed after consultation with the President pro tempore of the Senate.
 
 (2)(A) Except as provided in subparagraphs (B) and (C), members of the Commission shall be appointed for terms of 3 years.
 

@@ -14,7 +14,7 @@ If the Administrator finds that there is a reasonable basis to conclude that the
 
 &emsp;(3) A requirement that such substance or mixture or any article containing such substance or mixture be marked with or accompanied by clear and adequate warnings and instructions with respect to its use, distribution in commerce, or disposal or with respect to any combination of such activities. The form and content of such warnings and instructions shall be prescribed by the Administrator.
 
-&emsp;(4) A requirement that manufacturers and processors of such substance or mixture make and retain records of the processes used to manufacture or process such substance or mixture and monitor or conduct tests which are reasonable and necessary to assure compliancewith the requirements of any rule applicable under this subsection.
+&emsp;(4) A requirement that manufacturers and processors of such substance or mixture make and retain records of the processes used to manufacture or process such substance or mixture and monitor or conduct tests which are reasonable and necessary to assure compliance with the requirements of any rule applicable under this subsection.
 
 &emsp;(5) A requirement prohibiting or otherwise regulating any manner or method of commercial use of such substance or mixture.
 
@@ -54,7 +54,7 @@ If the Administrator has a reasonable basis to conclude that a particular manufa
 
 > If the Administrator determines that a risk of injury to health or the environment could be eliminated or reduced to a sufficient extent by actions taken under another Federal law (or laws) administered in whole or in part by the Administrator, the Administrator may not promulgate a rule under subsection (a) of this section to protect against such risk of injury unless the Administrator finds, in the Administrator's discretion, that it is in the public interest to protect against such risk under this chapter. In making such a finding the Administrator shall consider (i) all relevant aspects of the risk, as determined by the Administrator in the Administrator's discretion, (ii) a comparison of the estimated costs of complying with actions taken under this chapter and under such law (or laws), and (iii) the relative efficiency of actions under this chapter and under such law (or laws) to protect against such risk of injury.
 
-(2) When prescribing a rule under subsection (a) the Administrator shall proceed in accordance with section 553 of title 5 (without regard to any reference in such section to sections 556 and 557 of such title), and shall also (A) publish a notice of proposed rulemaking stating with particularity the reason for the proposed rule; (B) allow interested persons to submit written data, views, and arguments, and make all such submissions publicly available; (C) provide an opportunity for an informal hearing in accordance with paragraph (3); (D) promulgate, if appropriate, a final rule based on the matter in therulemaking record (as defined in section 2618(a) of this title), and (E) make and publish with the rule the finding described in subsection (a) of this section.
+(2) When prescribing a rule under subsection (a) the Administrator shall proceed in accordance with section 553 of title 5 (without regard to any reference in such section to sections 556 and 557 of such title), and shall also (A) publish a notice of proposed rulemaking stating with particularity the reason for the proposed rule; (B) allow interested persons to submit written data, views, and arguments, and make all such submissions publicly available; (C) provide an opportunity for an informal hearing in accordance with paragraph (3); (D) promulgate, if appropriate, a final rule based on the matter in the rulemaking record (as defined in section 2618(a) of this title), and (E) make and publish with the rule the finding described in subsection (a) of this section.
 
 (3) Informal hearings required by paragraph (2)(C) shall be conducted by the Administrator in accordance with the following requirements:
 
@@ -102,7 +102,7 @@ If the Administrator has a reasonable basis to conclude that a particular manufa
 
 &emsp;(i) the Administrator determines that—
 
-&emsp;&emsp;(I) the manufacture, processing, distribution in commerce, use, or disposal of thechemical substance or mixture subject to such proposed rule or any combination of such activities is likely to result in an unreasonable risk of serious or widespread injury to health or the environment before such effective date; and
+&emsp;&emsp;(I) the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance or mixture subject to such proposed rule or any combination of such activities is likely to result in an unreasonable risk of serious or widespread injury to health or the environment before such effective date; and
 
 &emsp;&emsp;(II) making such proposed rule so effective is necessary to protect the public interest; and
 
@@ -126,7 +126,7 @@ If the Administrator has a reasonable basis to conclude that a particular manufa
 
 (B) The Administrator may by rule authorize the manufacture, processing, distribution in commerce or use (or any combination of such activities) of any polychlorinated biphenyl in a manner other than in a totally enclosed manner if the Administrator finds that such manufacture, processing, distribution in commerce, or use (or combination of such activities) will not present an unreasonable risk of injury to health or the environment.
 
-(C) For the purposes of this paragraph, the term “totally enclosed manner” means any manner which will ensure that any exposure of human beings or the environment to a polychlorinated biphenyl will be insignificant as determined by the Administrator by rule.
+(C) For the purposes of this paragraph, the term “totally enclosed manner” means anymanner which will ensure that any exposure of human beings or the environment to a polychlorinated biphenyl will be insignificant as determined by the Administrator by rule.
 
 (3)(A) Except as provided in subparagraphs (B) and (C)—
 

@@ -12,7 +12,7 @@
 
 #### (3) Membership
 
-&emsp;The Interagency Committee shall include representatives from the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the United States Coast Guard, the Maritime Administration, and the Research and Special Projects Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Environmental Protection Agency, the National Aeronautics and Space Administration, and the United States Fire Administration in the Federal Emergency Management Agency, as well as such other Federal agencies as the President may designate.
+&emsp;The Interagency Committee shall include representatives from the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the United States Coast Guard, the Maritime Administration, and the Research and Special Projects Administration), the Department of Defense (includingthe Army Corps of Engineers and the Navy), the Environmental Protection Agency, the National Aeronautics and Space Administration, and the United States Fire Administration in the Federal Emergency Management Agency, as well as such other Federal agencies as the President may designate.
 
 > A representative of the Department of Transportation shall serve as Chairman.
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(i) The development of improved models and capabilities for predicting the environmental fate, transport, and effects of oil discharges.
 
-&emsp;&emsp;(ii) The development of methods, including economic methods, to assess damages tonatural resources resulting from oil discharges.
+&emsp;&emsp;(ii) The development of methods, including economic methods, to assess damages to natural resources resulting from oil discharges.
 
 &emsp;&emsp;(iii) The identification of types of ecologically sensitive areas at particular risk to oil discharges and the preparation of scientific monitoring and evaluation plans, one for each of several types of ecological conditions, to be implemented in the event of major oil discharges in such areas.
 
@@ -174,7 +174,7 @@ The Chairman of the Interagency Committee shall submit to Congress every 2 years
 
 Not to exceed $22,000,000 of amounts in the Fund shall be available annually to carry out this section except for subsection (c)(8) of this section. Of such sums—
 
-&emsp;(1) funds authorized to be appropriated to carry out the activities under subsection (c)(4) of this section shall not exceed $5,000,000 for fiscal year 1991 or $3,500,000 for any subsequent fiscal year; and
+&emsp;(1) funds authorized to be appropriated to carry out the activities under subsection (c)(4) of this section shall not exceed $5,000,000 forfiscal year 1991 or $3,500,000 for any subsequent fiscal year; and
 
 &emsp;(2) not less than $3,000,000 shall be available for carrying out the activities in subsection (c)(6) of this section for fiscal years 1992, 1993, 1994, and 1995.
 
@@ -184,7 +184,7 @@ Not to exceed $22,000,000 of amounts in the Fund shall be available annually to 
 
 #### References in Text
 
-This Act, referred to in subsec. (c)(8)(G), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, knownas the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsec. (c)(8)(G), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Amendments
 

@@ -18,9 +18,15 @@ The terms and conditions of electronic fund transfers involving a consumer's acc
 
 &emsp;(7) a summary, in a form prescribed by regulations of the Board, of the error resolution provisions of section 1693f of this title and the consumer's rights thereunder. The financial institution shall thereafter transmit such summary at least once per calendar year;
 
-&emsp;(8) the financial institution's liability to the consumer under section 1693h of this title; and
+&emsp;(8) the financial institution's liability to the consumer under section 1693h of this title;
 
-&emsp;(9) under what circumstances the financial institution will in the ordinary course of business disclose information concerning the consumer's account to third persons.
+&emsp;(9) under what circumstances the financial institution will in the ordinary course of business disclose information concerning the consumer's account to third persons; and
+
+&emsp;(10) a notice to the consumer that a fee may be imposed by—
+
+&emsp;&emsp;(A) an automated teller machine operator (as defined in section 1693b(d)(3)(D)(i) of this title) if the consumer initiates a transfer from an automated teller machine that is not operated by the person issuing the card or other means of access; and
+
+&emsp;&emsp;(B) any national, regional, or local network utilized to effect the transaction.
 
 #### (b) Notification of changes to consumer
 
@@ -34,11 +40,15 @@ For any account of a consumer made accessible to electronic fund transfers prior
 
 &emsp;(2) thirty days after the effective date of this subchapter.
 
-(Pub. L. 90–321, title IX, §905, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3730.)
+(Pub. L. 90–321, title IX, §905, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3730; amended Pub. L. 106–102, title VII, §703, Nov. 12, 1999, 113 Stat. 1464.)
 
 #### References in Text
 
 For effective date of this subchapter, referred to in subsec. (c), see section 921 of Pub. L. 90–321, set out as an Effective Date note under section 1693 of this title.
+
+#### Amendments
+
+1999—Subsec. (a)(10). Pub. L. 106–102 added par. (10).
 
 #### Section Referred to in Other Sections
 

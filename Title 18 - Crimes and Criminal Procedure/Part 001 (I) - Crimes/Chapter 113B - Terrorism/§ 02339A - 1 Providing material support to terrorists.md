@@ -2,7 +2,7 @@
 
 (a)
 
-Offense.—Whoever, within the United States, provides material support or resources or conceals or disguises the nature, location, source, or ownership of material support or resources, knowing or intending that they are to be used in preparation for, or in carrying out, a violation of section 32, 37, 81, 175, 351, 831, 842(m) or (n), 844(f) or (i), 930(c), 956, 1114, 1116, 1203, 1361, 1362, 1363, 1366, 1751, 1992, 2155, 2156, 2280, 2281, 2332, 2332a, 2332b, 2332c,<sup>2</sup> or 2340A of this title orsection 46502 of title 49, or in preparation for, or in carrying out, the concealment or an escape from the commission of any such violation, shall be fined under this title, imprisoned not more than 10 years, or both.
+Offense.—Whoever, within the United States, provides material support or resources or conceals or disguises the nature, location, source, or ownership of material support or resources, knowing or intending that they are to be used in preparation for, or in carrying out, a violation of section 32, 37, 81, 175, 351, 831, 842(m) or (n), 844(f) or (i), 930(c), 956, 1114, 1116, 1203, 1361, 1362, 1363, 1366, 1751, 1992, 2155, 2156, 2280, 2281, 2332, 2332a, 2332b, 2332c,<sup>2</sup> or 2340A of this title or section 46502 of title 49, or in preparation for, or in carrying out, the concealment or an escape from the commission of any such violation, shall be fined under this title, imprisoned not more than 10 years, or both.
 
 (b)
 

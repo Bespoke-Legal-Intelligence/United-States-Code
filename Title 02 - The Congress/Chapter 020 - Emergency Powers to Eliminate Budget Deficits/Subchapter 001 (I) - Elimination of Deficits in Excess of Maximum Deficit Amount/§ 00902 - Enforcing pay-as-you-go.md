@@ -108,7 +108,7 @@ Subsec. (e). Pub. L. 103–66, §14003(a)(3), substituted “for any fiscal year
 
 1990—Pub. L. 101–508 amended section generally, substituting subsecs. (a) to (e) relating to enforcement of pay-as-you-go for former subsecs. (a) to (g) relating to Presidential order.
 
-1987—Pub. L. 100–119 amended section generally to reflect substitution of Director of OMB for ComptrollerGeneral as official submitting reports under section 901 of this title and to revise provisions relating to content of Presidential orders issued in accordance with those reports.
+1987—Pub. L. 100–119 amended section generally to reflect substitution of Director of OMB for Comptroller General as official submitting reports under section 901 of this title and to revise provisions relating to content of Presidential orders issued in accordance with those reports.
 
 Subsec. (c)(2)(F)(ii). Pub. L. 100–203, §8003(e), substituted “proposed” for “made”.
 

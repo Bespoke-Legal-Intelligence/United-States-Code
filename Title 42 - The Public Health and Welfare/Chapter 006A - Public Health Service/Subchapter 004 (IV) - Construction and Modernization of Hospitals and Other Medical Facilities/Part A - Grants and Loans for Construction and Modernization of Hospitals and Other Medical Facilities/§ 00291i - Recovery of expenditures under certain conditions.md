@@ -16,7 +16,7 @@ The transferor of a facility which is sold or transferred as described in subsec
 
 #### (c) Amount of recovery; interest; interest period
 
-(1) Except as provided in paragraph (2), the amount the United States shall be entitled to recover under subsection (a) of this section is an amount bearing the same ratio to the then value (as determined by the agreement of the parties or in an action brought in the district court of the United States for the district for which the facility involved is situated) of so much of the facility as constituted an approved project or projects as the amount of the Federal participation bore to the cost of the construction or modernization of such project or projects.
+(1) Except as provided in paragraph (2), the amount the United States shall be entitled torecover under subsection (a) of this section is an amount bearing the same ratio to the then value (as determined by the agreement of the parties or in an action brought in the district court of the United States for the district for which the facility involved is situated) of so much of the facility as constituted an approved project or projects as the amount of the Federal participation bore to the cost of the construction or modernization of such project or projects.
 
 (2)(A) After the expiration of—
 
@@ -48,7 +48,7 @@ The transferor of a facility which is sold or transferred as described in subsec
 
 &emsp;(B) will meet the obligation of the facility under clause (1) of section 291c(e) of this title.
 
-(2) The Secretary may waive the recovery rights of the United States under subsection (a)(2) of this section with respect to a facility in any State if the Secretary determines, in accordance with regulations, that there is goodcause for waiving such rights with respect to such facility.
+(2) The Secretary may waive the recovery rights of the United States under subsection (a)(2) of this section with respect to a facility in any State if the Secretary determines, in accordance with regulations, that there is good cause for waiving such rights with respect to such facility.
 
 #### (e) Lien
 

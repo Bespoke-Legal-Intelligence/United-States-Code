@@ -8,9 +8,9 @@
 
 &emsp;(3) failure of the debtor in a voluntary case to file, within fifteen days or such additional time as the court may allow after the filing of the petition commencing such case, the information required by paragraph (1) of section 521, but only on a motion by the United States trustee.
 
-(b) After notice and a hearing, the court, on its own motion or on a motion by the United States trustee, but not at the request or suggestion of any party in interest, may dismiss a case filed by an individual debtor under this chapter whose debts are primarily consumer debts if it finds that the granting of relief would be a substantial abuse of the provisions of this chapter. There shall be a presumption in favor of granting the relief requested by the debtor.
+(b) After notice and a hearing, the court, on its own motion or on a motion by the United States trustee, but not at the request or suggestion of any party in interest, may dismiss a case filed by an individual debtor under this chapter whose debts are primarily consumer debts if it finds that the granting of relief would be a substantial abuse of the provisions of this chapter. There shall be a presumption in favor of granting the relief requested by the debtor. In making a determination whether to dismiss a case under this section, the court may not take into consideration whether a debtor has made, or continues to make, charitable contributions (that meet the definition of “charitable contribution” under section 548(d)(3)) to any qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 98–353, title III, §§312, 475, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, §219, Oct. 27, 1986, 100 Stat. 3100.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 98–353, title III, §§312, 475, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, §219, Oct. 27, 1986, 100 Stat. 3100; Pub. L. 105–183, §4(b), June 19, 1998, 112 Stat. 518.)
 
 #### Historical and Revision Notes
 
@@ -24,11 +24,17 @@ This section authorizes the court to dismiss a liquidation case only for cause, 
 
 #### Amendments
 
+1998—Subsec. (b). Pub. L. 105–183 inserted at end “In making a determination whether to dismiss a case under this section, the court may not take into consideration whether a debtor has made, or continues to make, charitable contributions (that meet the definition of ‘charitable contribution’ under section 548(d)(3)) to any qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)).”
+
 1986—Subsec. (a)(3). Pub. L. 99–554, §219(a), added par. (3).
 
 Subsec. (b). Pub. L. 99–554, §219(b), substituted “motion or on a motion by the United States trustee, but” for “motion and”.
 
 1984—Pub. L. 98–353 designated existing provisions as subsec. (a) and in pars. (1) and (2) substituted “or” for “and”, and added subsec. (b).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–183 applicable to any case brought under an applicable provision of this title that is pending or commenced on or after June 19, 1998, see section 5 of Pub. L. 105–183, set out as a note under section 544 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -36,7 +42,7 @@ Effective date and applicability of amendment by Pub. L. 99–554 dependent upon
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
 #### Rules Promulgated by Supreme Court
 

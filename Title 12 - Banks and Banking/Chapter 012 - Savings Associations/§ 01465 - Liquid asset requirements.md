@@ -18,7 +18,7 @@ The purpose of this section is to provide a means for creating effective and fle
 
 &emsp;&emsp;&emsp;(i) time and savings deposits in Federal home loan banks, institutions which are, or are eligible to become, members thereof, and commercial banks;
 
-&emsp;&emsp;&emsp;(ii) such obligations, including such special obligations, of the United States, a State, any territory or possession of the United States, or a political subdivision, agency, or instrumentality of any one or more of the foregoing, and bankers’ acceptances, as the Director may approve;
+&emsp;&emsp;&emsp;(ii) such obligations, including such special obligations, of the United States, a State, any territory or possession of theUnited States, or a political subdivision, agency, or instrumentality of any one or more of the foregoing, and bankers’ acceptances, as the Director may approve;
 
 &emsp;&emsp;&emsp;(iii) shares or certificates of any open-end management investment company which is registered with the Securities and Exchange Commission under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] and the portfolio of which is restricted by such investment company's investment policy, changeable only if authorized by shareholder vote, solely to any of the obligations or other investments enumerated in subparagraph (A) and in clauses (i), (ii), (iv), (v), (vi), and (vii) of this subparagraph;
 
@@ -30,7 +30,7 @@ The purpose of this section is to provide a means for creating effective and fle
 
 &emsp;&emsp;&emsp;&emsp;(I) that have one year or less remaining until maturity; or
 
-&emsp;&emsp;&emsp;&emsp;(II) that are subject to an agreement (including a repurchase agreement, putoption, right of redemption, or takeout commitment) that requires another person to purchase the securities within a period that does not exceed one year, and that person is an insured depository institution (as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]) that is in compliance with applicable capital standards, a primary dealer in United States Government securities, or a broker or dealer registered under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\]; and
+&emsp;&emsp;&emsp;&emsp;(II) that are subject to an agreement (including a repurchase agreement, put option, right of redemption, or takeout commitment) that requires another person to purchase the securities within a period that does not exceed one year, and that person is an insured depository institution (as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]) that is in compliance with applicable capital standards, a primary dealer in United States Government securities, or a broker or dealer registered under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\]; and
 
 &emsp;&emsp;&emsp;(vii) mortgage loans on the security of a first lien on residential real property, if the mortgage loans qualify as backing for mortgage-backed securities issued by the Federal National Mortgage Association or the Federal Home Loan Mortgage Association or guaranteed by the Government National Mortgage Association, and either—
 

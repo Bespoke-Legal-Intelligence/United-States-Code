@@ -14,7 +14,7 @@ The Director is directed to accelerate the identification of risk zones within f
 
 #### (c) Priority in allocation of manpower and other available resources for identification and mapping of flood hazard areas and flood-risk zones
 
-The Secretary of Defense (through the Army Corps of Engineers), the Secretary of the Interior (through the United States Geological Survey), the Secretary of Agriculture (through the Soil Conservation Service), the Secretary of Commerce (through the National Oceanic and Atmospheric Administration), the head of the Tennessee Valley Authority, and the heads of all other Federal agencies engaged in the identification or delineation of flood-risk zones within the several States shall, in consultation with the Director, give the highest practicable priority in the allocation of available manpower and other available resources to the identification and mapping of flood hazard areas and flood-risk zones, in order to assist the Director to meet the deadline established by this section.
+The Secretary of Defense (through the Army Corps of Engineers), the Secretary of the Interior (through the United States Geological Survey), the Secretary of Agriculture (through the Soil Conservation Service), the Secretary of Commerce (through the National Oceanic and Atmospheric Administration), the head of the Tennessee Valley Authority, and the heads of all other Federal agencies engaged in the identification or delineation of flood-risk zones within the several States shall, in consultation with the Director, give the highest practicable priority in the allocation of available manpower andother available resources to the identification and mapping of flood hazard areas and flood-risk zones, in order to assist the Director to meet the deadline established by this section.
 
 #### (d) Plan for bringing communities with flood-risk zones into full program status
 
@@ -144,7 +144,7 @@ Qualifications.—Members of the Council shall be appointed based on their demon
 
 Duties.—The Council shall—
 
-&emsp;“(1) make recommendations to the Director on how to improve in a cost-effective manner the accuracy,general quality, ease of use, and distribution and dissemination of flood insurance rate maps;
+&emsp;“(1) make recommendations to the Director on how to improve in a cost-effective manner the accuracy, general quality, ease of use, and distribution and dissemination of flood insurance rate maps;
 
 &emsp;“(2) recommend to the Director mapping standards and guidelines for flood insurance rate maps; and
 

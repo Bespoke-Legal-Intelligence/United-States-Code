@@ -19,13 +19,13 @@
 | [<b>165.</b>](Chapter%20165%20-%20United%20States%20Court%20of%20Federal%20Claims%20Procedure/README.md) | <b>United States Court of Federal Claims Procedure</b> | <b>2501</b> |
 | <b>\[167.</b> | <b>Repealed.\]</b> |  |
 | [<b>169.</b>](Chapter%20169%20-%20Court%20of%20International%20Trade%20Procedure/README.md) | <b>Court of International Trade Procedure</b> | <b>2631</b> |
-| [<b>171.</b>](Chapter%20171%20-%20Tort%20Claims%20Procedure/README.md) | <b>Tort Claims Procedure</b> | <b>2671</b> |
-| [<b>173.</b>](Chapter%20173%20-%20Attachment%20in%20Postal%20Suits/README.md) | <b>Attachment in Postal Suits</b> | <b>2710</b> |
-| [<b>175.</b>](Chapter%20175%20-%20Civil%20Commitment%20and%20Rehabilitation%20of%20Narcotic%20Addicts/README.md) | <b>Civil Commitment and Rehabilitation of Narcotic Addicts</b> | <b>2901</b> |
-| [<b>176.</b>](Chapter%20176%20-%20Federal%20Debt%20Collection%20Procedure/README.md) | <b>Federal Debt Collection Procedure</b> | <b>3001</b> |
-| [<b>178.</b>](Chapter%20178%20-%20Professional%20and%20Amateur%20Sports%20Protection/README.md) | <b>Professional and Amateur Sports Protection</b> | <b>3701</b> |
-| [<b>179.</b>](Chapter%20179%20-%20Judicial%20Review%20of%20Certain%20Actions%20by%20Presidential%20Offices/README.md) | <b>Judicial Review of Certain Actions by Presidential Offices</b> | <b>3901</b> |
-| [<b>180.</b>](Chapter%20180%20-%20Assumption%20of%20Certain%20Contractual%20Obligations/README.md) | <b>Assumption of Certain Contractual Obligations</b> | <b>4001</b> |
+| <b>171.</b> | <b>Tort Claims Procedure</b> | <b>2671</b> |
+| <b>173.</b> | <b>Attachment in Postal Suits</b> | <b>2710</b> |
+| <b>175.</b> | <b>Civil Commitment and Rehabilitation of Narcotic Addicts</b> | <b>2901</b> |
+| <b>176.</b> | <b>Federal Debt Collection Procedure</b> | <b>3001</b> |
+| <b>178.</b> | <b>Professional and Amateur Sports Protection</b> | <b>3701</b> |
+| <b>179.</b> | <b>Judicial Review of Certain Actions by Presidential Offices</b> | <b>3901</b> |
+| <b>180.</b> | <b>Assumption of Certain Contractual Obligations</b> | <b>4001</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -88,10 +88,3 @@ See, also, rule 81 of the Federal Rules of Civil Procedure, Appendix to this tit
 - [Chapter 165 - United States Court of Federal Claims Procedure](Chapter%20165%20-%20United%20States%20Court%20of%20Federal%20Claims%20Procedure/README.md)
 - [Chapter 167 - Repealed](Chapter%20167%20-%20Repealed/README.md)
 - [Chapter 169 - Court of International Trade Procedure](Chapter%20169%20-%20Court%20of%20International%20Trade%20Procedure/README.md)
-- [Chapter 171 - Tort Claims Procedure](Chapter%20171%20-%20Tort%20Claims%20Procedure/README.md)
-- [Chapter 173 - Attachment in Postal Suits](Chapter%20173%20-%20Attachment%20in%20Postal%20Suits/README.md)
-- [Chapter 175 - Civil Commitment and Rehabilitation of Narcotic Addicts](Chapter%20175%20-%20Civil%20Commitment%20and%20Rehabilitation%20of%20Narcotic%20Addicts/README.md)
-- [Chapter 176 - Federal Debt Collection Procedure](Chapter%20176%20-%20Federal%20Debt%20Collection%20Procedure/README.md)
-- [Chapter 178 - Professional and Amateur Sports Protection](Chapter%20178%20-%20Professional%20and%20Amateur%20Sports%20Protection/README.md)
-- [Chapter 179 - Judicial Review of Certain Actions by Presidential Offices](Chapter%20179%20-%20Judicial%20Review%20of%20Certain%20Actions%20by%20Presidential%20Offices/README.md)
-- [Chapter 180 - Assumption of Certain Contractual Obligations](Chapter%20180%20-%20Assumption%20of%20Certain%20Contractual%20Obligations/README.md)

@@ -40,7 +40,7 @@ Terms and conditions.—The Federal share payable of the costs described in para
 
 &emsp;&emsp;(E) the alternative for which the right-of-way is acquired is selected by the State pursuant to regulations to be issued by the Secretary which provide for the consideration of the environmental impacts of various alternatives;
 
-&emsp;&emsp;(F) before the time that the cost incurred by a State is approved for Federal participation, environmental compliance pursuant to the National Environmental Policy Act has been completed for the project for which the right-of-way was acquired by the State, andthe acquisition has been approved by the Secretary under this Act,<sup>1</sup> and in compliance with section 303 of title 49, section 7 of the Endangered Species Act, and all other applicable environmental laws shall be identified by the Secretary in regulations; and
+&emsp;&emsp;(F) before the time that the cost incurred by a State is approved for Federal participation, environmental compliance pursuant to the National Environmental Policy Act has been completed for the project for which the right-of-way was acquired by the State, and the acquisition has been approved by the Secretary under this Act,<sup>1</sup> and in compliance with section 303 of title 49, section 7 of the Endangered Species Act, and all other applicable environmental laws shall be identified by the Secretary in regulations; and
 
 &emsp;&emsp;(G) before the time that the cost incurred by a State is approved for Federal participation, both the Secretary and the Administrator of the Environmental Protection Agency have concurred that the property acquired in advance of Federal approval or authorization did not influence the environmental assessment of the project, the decision relative to the need to construct the project, or the selection of the project design or location.
 
@@ -68,7 +68,7 @@ Subsecs. (c), (d). Pub. L. 105–178, §1211(e)(1), redesignated subsec. (d) as 
 
 1994—Subsec. (d)(2)(F). Pub. L. 103–429 substituted “section 303 of title 49” for “section 4(f) of the Department of Transportation Act”.
 
-1992—Subsec. (a). Pub. L. 102–388, §346(1), (2), substituted “Federal-aid highway” for “of the Federal-aid highway systems, including the Interstate System,” and “which may be expended on such highway” for “for expenditure on any of the Federal-aid highway systems, including the Interstate System,”.
+1992—Subsec. (a). Pub. L. 102–388, §346(1), (2), substituted “Federal-aid highway” for “of the Federal-aidhighway systems, including the Interstate System,” and “which may be expended on such highway” for “for expenditure on any of the Federal-aid highway systems, including the Interstate System,”.
 
 Subsec. (c)(2). Pub. L. 102–388, §346(3), inserted “and passenger transit facilities”.
 

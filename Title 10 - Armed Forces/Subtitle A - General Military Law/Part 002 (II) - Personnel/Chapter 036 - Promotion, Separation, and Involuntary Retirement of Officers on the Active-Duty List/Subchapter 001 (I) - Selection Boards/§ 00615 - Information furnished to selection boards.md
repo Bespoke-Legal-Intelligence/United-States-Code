@@ -38,7 +38,7 @@
 
 &emsp;(3) the pertinent records (as determined by the Secretary) of each officer whose name is furnished to the board;
 
-&emsp;(4) information or guidelines relating to the needs of the armed force concerned for officers having particular skills, including guidelinesor information relating to the need for either a minimum number or a maximum number of officers with particular skills within a competitive category;
+&emsp;(4) information or guidelines relating to the needs of the armed force concerned for officers having particular skills, including guidelines or information relating to the need for either a minimum number or a maximum number of officers with particular skills within a competitive category;
 
 &emsp;(5) guidelines, based upon guidelines received by the Secretary from the Secretary of Defense under subsection (c), for the purpose of ensuring that the board gives appropriate consideration to the performance in joint duty assignments of officers who are serving, or have served, in such assignments; and
 

@@ -42,7 +42,7 @@ The Congress finds the following:
 
 #### (1) Report
 
-&emsp;The Under Secretary for Technology Administration of the Department of Commerce (inthis subsection referred to as the “Under Secretary”) shall conduct a comprehensive study of the revised “Procedures to Introduce Supercomputers” and the accompanying exchange of letters between the United States and Japan dated June 15, 1990 (commonly referred to as the “Supercomputer Agreement”) to determine whether the goals and objectives of such Agreement have been met and to analyze the effects of such Agreement on United States and Japanese supercomputer manufacturers. Within 180 days after December 9, 1991, the Under Secretary shall submit a report to Congress containing the results of such study.
+&emsp;The Under Secretary for Technology Administration of the Department of Commerce (in this subsection referred to as the “Under Secretary”) shall conduct a comprehensive study of the revised “Procedures to Introduce Supercomputers” and the accompanying exchange of letters between the United States and Japan dated June 15, 1990 (commonly referred to as the “Supercomputer Agreement”) to determine whether the goals and objectives of such Agreement have been met and to analyze the effects of such Agreement on United States and Japanese supercomputer manufacturers. Within 180 days after December 9, 1991, the Under Secretary shall submit a report to Congress containing the results of such study.
 
 #### (2) Consultation
 

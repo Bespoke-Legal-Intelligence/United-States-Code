@@ -42,7 +42,7 @@ The Secretary may apply the rule of approximation with respect to the acreage li
 
 #### (e) Surface and/or subsurface estates to Regional Corporations
 
-Immediately after selection by a Regional Corporation, the Secretary shall convey to the Regional Corporation title to the surface and/orthe subsurface estates, as is appropriate, in the lands selected.
+Immediately after selection by a Regional Corporation, the Secretary shall convey to the Regional Corporation title to the surface and/or the subsurface estates, as is appropriate, in the lands selected.
 
 #### (f) Patents to Village Corporations for surface estates and to Regional Corporations for subsurface estates; excepted lands; mineral rights, consent of Village Corporations
 
@@ -70,7 +70,7 @@ The Secretary is authorized to withdraw and convey 2 million acres of unreserved
 
 &emsp;(7) The Secretary may withdraw and convey lands out of the National Wildlife Refuge System and out of the National Forests, for the purposes set forth in paragraphs (1), (2), (3), and (5) of this subsection; and
 
-&emsp;(8)(A) Any portion of the 2 million acres not conveyed by this subsection shall be allocatedand conveyed to the Regional Corporations on the basis of population.
+&emsp;(8)(A) Any portion of the 2 million acres not conveyed by this subsection shall be allocated and conveyed to the Regional Corporations on the basis of population.
 
 &emsp;(B) Such allocation as the Regional Corporation for southeastern Alaska shall receive under this paragraph shall be selected and conveyed from lands that were withdrawn by sections 1615(a) and 1615(d) of this title and not selected by the Village Corporations in southeastern Alaska; except lands on Admiralty Island in the Angoon withdrawal area and, without the consent of the Governor of the State of Alaska or his delegate, lands in the Saxman and Yakutat withdrawal areas are not available for selection or conveyance under this paragraph.
 

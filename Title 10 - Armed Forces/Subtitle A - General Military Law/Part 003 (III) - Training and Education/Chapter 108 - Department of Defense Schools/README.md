@@ -22,6 +22,18 @@ Pub. L. 105–85, div. A, title IX, §921(a)(2), Nov. 18, 1997, 111 Stat. 1862, 
 
 1990—Pub. L. 101–510, div. A, title IX, §911(b)(1), (2), Nov. 5, 1990, 104 Stat. 1626, substituted “DEPARTMENT OF DEFENSE SCHOOLS” for “GRANTING OF ADVANCED DEGREES AT DEPARTMENT OF DEFENSE SCHOOLS” as chapter heading and added item 2162.
 
+#### Attendance at Professional Military Education Schools by Military Personnel of the New Member Nations of NATO
+
+Pub. L. 106–65, div. A, title XII, §1223, Oct. 5, 1999, 113 Stat. 787, provided that:
+
+“(a)
+
+Finding.—Congress finds that it is in the national interest of the United States to fully integrate Poland, Hungary, and the Czech Republic (the new member nations of the North Atlantic Treaty Organization) into the NATO alliance as quickly as possible.
+
+“(b)
+
+Military Education and Training Programs.—The Secretary of each military department shall give due consideration to according a high priority to the attendance of military personnel of Poland, Hungary, and the Czech Republic at professional military education schools and training programs in the United States, including the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, the National Defense University, the war colleges of the Armed Forces, the command and general staff officer courses of the Armed Forces, and other schools and training programs of the Armed Forces that admit personnel of foreign armed forces.”
+
 #### Sense of Congress on Grade of Heads of Senior Professional Military Education Schools
 
 Pub. L. 103–337, div. A, title IX, §914, Oct. 5, 1994, 108 Stat. 2829, provided that: “It is the sense of Congress that an officer serving in a position as the head of one of the senior professional military education schools of the Department of Defense (or of the separate military departments) should, while so serving, hold a grade not less than the grade (or its equivalent) held by the officer serving in that position on the date of the enactment of this Act \[Oct. 5, 1994\].”

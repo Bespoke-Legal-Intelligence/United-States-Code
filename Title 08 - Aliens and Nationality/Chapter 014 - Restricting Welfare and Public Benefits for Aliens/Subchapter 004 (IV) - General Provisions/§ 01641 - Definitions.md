@@ -6,7 +6,7 @@ Except as otherwise provided in this chapter, the terms used in this chapter hav
 
 #### (b) Qualified alien
 
-For purposes of this chapter, the term “qualified alien” means an alien who, at the time the alien applies for, receives, or attempts to receive a Federal public benefit, is—
+For purposes of this chapter, the term “qualified alien” means an alien who, at the time thealien applies for, receives, or attempts to receive a Federal public benefit, is—
 
 &emsp;(1) an alien who is lawfully admitted for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\],
 

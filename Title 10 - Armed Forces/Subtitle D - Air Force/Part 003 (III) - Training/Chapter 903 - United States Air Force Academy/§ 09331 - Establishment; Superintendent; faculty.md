@@ -16,7 +16,7 @@
 
 &emsp;(6) A director of admissions.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 561; Pub. L. 85–600, §1(19), Aug. 6, 1958, 72 Stat. 523; Pub. L. 96–513, title V, §514(10), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 101–189, div. A, title V, §515(a)(1), Nov. 29, 1989, 103 Stat. 1441; Pub. L. 102–484, div. A, title V, §523(b), Oct. 23, 1992, 106 Stat. 2410; Pub. L. 103–160, div. A, title V, §533(b)(3), Nov. 30, 1993, 107 Stat. 1658.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 561; Pub. L. 85–600, §1(19), Aug. 6, 1958, 72 Stat. 523; Pub. L. 96–513, title V, §514(10), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 101–189, div. A, title V, §515(a)(1), Nov. 29, 1989, 103 Stat. 1441; Pub. L. 102–484, div. A, title V, §523(b), Oct. 23, 1992, 106 Stat. 2410;Pub. L. 103–160, div. A, title V, §533(b)(3), Nov. 30, 1993, 107 Stat. 1658.)
 
 Historical and Revision Notes
 
@@ -84,7 +84,7 @@ Pub. L. 88–390, title VI, §608, Aug. 1, 1964, 78 Stat. 364, provided that: �
 
 #### Appropriations for Air Force Academy
 
-Act Apr. 1, 1954, ch. 127, 68 Stat. 47, which established the Air Force Academy, provided by section 9 of suchact, as amended by act Aug. 3, 1956, ch. 939, title IV, §413(b), 70 Stat. 1018, and by Pub. L. 85–241, title V, §508, Aug. 30, 1957, 71 Stat. 559; Pub. L. 85–685, title III, §309, Aug. 20, 1958, 72 Stat. 659; Pub. L. 87–57, title III, §304, June 27, 1961, 75 Stat. 108; Pub. L. 90–408, title III, §304, July 21, 1968, 82 Stat. 385, that there was authorized to be appropriated not to exceed the sum of $141,978,000 to carry out the provisions of that Act, of which not to exceed $26,000,000 was to be the amount so appropriated for any such period, not to exceed $1,858,000 might be utilized for the purpose of section 4 of this Act \[set out below\].
+Act Apr. 1, 1954, ch. 127, 68 Stat. 47, which established the Air Force Academy, provided by section 9 of such act, as amended by act Aug. 3, 1956, ch. 939, title IV, §413(b), 70 Stat. 1018, and by Pub. L. 85–241, title V, §508, Aug. 30, 1957, 71 Stat. 559; Pub. L. 85–685, title III, §309, Aug. 20, 1958, 72 Stat. 659; Pub. L. 87–57, title III, §304, June 27, 1961, 75 Stat. 108; Pub. L. 90–408, title III, §304, July 21, 1968, 82 Stat. 385, that there was authorized to be appropriated not to exceed the sum of $141,978,000 to carry out the provisions of that Act, of which not to exceed $26,000,000 was to be the amount so appropriated for any such period, not to exceed $1,858,000 might be utilized for the purpose of section 4 of this Act \[set out below\].
 
 #### Temporary Buildings and Facilities
 

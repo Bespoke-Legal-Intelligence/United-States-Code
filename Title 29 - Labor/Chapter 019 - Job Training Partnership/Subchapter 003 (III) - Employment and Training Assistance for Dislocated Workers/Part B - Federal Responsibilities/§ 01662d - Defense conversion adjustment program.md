@@ -16,7 +16,7 @@ Grants under subsection (a) of this section may be used for any purpose for whic
 
 In carrying out the grant program established under subsection (a) of this section, the Secretary may make grants to entities referred to in that subsection for the purpose of developing demonstration projects to encourage and promote innovative responses to the dislocation resulting from reductions in expenditures by the United States for defense, by closures of United States military facilities, or by reductions in the export of defense articles and defense services as a result of United States policy, including reductions in the amount of defense articles and defense services under agreements to provide such articles or services or through termination or completion of any such agreements. Such demonstration projects may include—
 
-&emsp;(1) projects to facilitate the placement of eligible employees in occupations experiencingskill shortages that will make use of the skills acquired by the eligible employees during their employment;
+&emsp;(1) projects to facilitate the placement of eligible employees in occupations experiencing skill shortages that will make use of the skills acquired by the eligible employees during their employment;
 
 &emsp;(2) projects to assist in retraining and reorganization efforts designed to avert layoffs that would otherwise occur as a result of such reductions or closures; and
 
@@ -69,8 +69,4 @@ Subsec. (d). Pub. L. 103–337, §1137(a)(2), substituted “, by closures of U
 Subsec. (f). Pub. L. 103–337, §1137(a)(3), added subsec. (f).
 
 1992—Subsec. (e). Pub. L. 102–484 added subsec. (e).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 12653c.
 

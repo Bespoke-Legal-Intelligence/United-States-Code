@@ -22,7 +22,7 @@ The Foundation shall be subject to the supervision and direction of the Board of
 
 &emsp;(A) the members first taking office shall serve as designated by the President, four for terms of two years, five for terms of four years, and four for terms of six years;
 
-&emsp;(B) a member appointed to fill a vacancy shall serve for the remainder of the term forwhich his predecessor was appointed and shall be appointed in the same manner as the original appointment for that vacancy was made; and
+&emsp;(B) a member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed and shall be appointed in the same manner as the original appointment for that vacancy was made; and
 
 &emsp;(C) notwithstanding the term limitation provided for under this paragraph, a member appointed under subsection (b) of this section may continue to serve under such appointment until the successor to the member is appointed.
 

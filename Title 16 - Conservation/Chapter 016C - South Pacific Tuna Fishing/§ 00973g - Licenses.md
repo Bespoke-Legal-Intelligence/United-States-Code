@@ -36,7 +36,7 @@ The Secretary, in consultation with the Secretary of State, may determine that a
 
 &emsp;(3) where the owner or charterer has not established to the satisfaction of the Secretary that the fishing vessel is fully insured against all risks and liabilities normally provided in maritime liability insurance;
 
-&emsp;(4) where the owner or charterer has not paid any penalty which has become final, assessedby the Secretary in accordance with this chapter.
+&emsp;(4) where the owner or charterer has not paid any penalty which has become final, assessed by the Secretary in accordance with this chapter.
 
 #### (h) Grandfathering of vessels documented before November 3, 1995
 

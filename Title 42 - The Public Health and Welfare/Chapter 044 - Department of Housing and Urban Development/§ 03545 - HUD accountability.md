@@ -54,7 +54,7 @@ The Secretary shall require the disclosure of information with respect to any ap
 
 #### (1) Other government assistance
 
-&emsp;Information regarding any related assistance from the Federal Government, a State, ora unit of general local government, or any agency or instrumentality thereof, that is expected to be made available with respect to the project or activities for which the applicant is seeking assistance. Such related assistance shall include but not be limited to any loan, grant, guarantee, insurance, payment, rebate, subsidy, credit, tax benefit, or any other form of direct or indirect assistance.
+&emsp;Information regarding any related assistance from the Federal Government, a State, or a unit of general local government, or any agency or instrumentality thereof, that is expected to be made available with respect to the project or activities for which the applicant is seeking assistance. Such related assistance shall include but not be limited to any loan, grant, guarantee, insurance, payment, rebate, subsidy, credit, tax benefit, or any other form of direct or indirect assistance.
 
 #### (2) Interested parties
 
@@ -128,7 +128,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (1) In general
 
-&emsp;After exhausting all administrative remedies established by the Secretary under subsection (g)(1) of this section, a person against whom the Secretary has imposed a civilmoney penalty under subsection (f) of this section may obtain a review of the penalty and such ancillary issues as may be addressed in the notice of determination to impose a penalty under subsection (g)(1)(A) of this section in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the order or determination of the Secretary be modified or be set aside in whole or in part.
+&emsp;After exhausting all administrative remedies established by the Secretary under subsection (g)(1) of this section, a person against whom the Secretary has imposed a civil money penalty under subsection (f) of this section may obtain a review of the penalty and such ancillary issues as may be addressed in the notice of determination to impose a penalty under subsection (g)(1)(A) of this section in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the order or determination of the Secretary be modified or be set aside in whole or in part.
 
 #### (2) Objections not raised in hearing
 
@@ -204,7 +204,7 @@ Revocation by Secretary.—If the Secretary determines that a housing credit age
 
 &emsp;“(1) may inform the housing credit agency that the agency may no longer submit certification of subsidy layering compliance under this section; and
 
-&emsp;“(2) shall carry out section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 \[42 U.S.C. 3545(d)\] relating to affected projects allocated a low-income housing tax credit pursuant to section 42 of the Internal Revenue Code of 1986 \[26 U.S.C. 42\].
+&emsp;“(2) shall carry out section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 \[42 U.S.C. 3545(d)\] relating to affected projects allocated a low-income housing tax credit pursuantto section 42 of the Internal Revenue Code of 1986 \[26 U.S.C. 42\].
 
 “(d)
 

@@ -68,7 +68,7 @@
 
 (i) If the court finds that more than 1 victim has sustained a loss requiring restitution by a defendant, the court may provide for a different payment schedule for each victim based on the type and amount of each victim's loss and accounting for the economic circumstances of each victim. In any case in which the United States is a victim, the court shall ensure that all other victims receive full restitution before the United States receives any restitution.
 
-(j)(1) If a victim has received compensation from insurance or any other source with respect to a loss, the court shall order that restitution be paid to the person who provided or is obligated to provide the compensation, but the restitution order shall provide that all restitution of victims required by the order be paid to the victims before any restitution is paid to such a provider of compensation.
+(j)(1) If a victim has received compensation from insurance or any other source with respectto a loss, the court shall order that restitution be paid to the person who provided or is obligated to provide the compensation, but the restitution order shall provide that all restitution of victims required by the order be paid to the victims before any restitution is paid to such a provider of compensation.
 
 (2) Any amount paid to a victim under an order of restitution shall be reduced by any amount later recovered as compensatory damages for the same loss by the victim in—
 
@@ -114,7 +114,7 @@ The Federal Rules of Criminal Procedure, referred to in subsecs. (c) and (<i>o</
 
 #### Amendments
 
-1996—Pub. L. 104–132 amended section generally, substituting provisions relating to procedure for issuanceand enforcement of orders of restitution for provisions relating to procedure for issuing orders of restitution.
+1996—Pub. L. 104–132 amended section generally, substituting provisions relating to procedure for issuance and enforcement of orders of restitution for provisions relating to procedure for issuing orders of restitution.
 
 1990—Subsec. (a). Pub. L. 101–647 substituted “3663” for “3579”.
 

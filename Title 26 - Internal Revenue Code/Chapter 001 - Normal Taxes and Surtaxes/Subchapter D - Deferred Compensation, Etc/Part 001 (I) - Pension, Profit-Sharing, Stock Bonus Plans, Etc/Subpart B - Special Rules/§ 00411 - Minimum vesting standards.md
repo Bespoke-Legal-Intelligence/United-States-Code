@@ -55,9 +55,9 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (D) Withdrawal of mandatory contribution
 
-&emsp;&emsp;&emsp;(i) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that, in the case of a participant who does not have a nonforfeitable right to at least 50 percent of his accrued benefit derived from employer contributions, such accrued benefit may be forfeited on account of the withdrawal by the participant of any amount attributable to the benefit derived from mandatory contributions (as defined in subsection (c)(2)(C)) made by such participant.
+&emsp;&emsp;&emsp;(i) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that, in the case of a participant who does not have a nonforfeitable right to at least 50 percent of his accruedbenefit derived from employer contributions, such accrued benefit may be forfeited on account of the withdrawal by the participant of any amount attributable to the benefit derived from mandatory contributions (as defined in subsection (c)(2)(C)) made by such participant.
 
-&emsp;&emsp;&emsp;(ii) Clause (i) shall not apply to a plan unless the plan provides that any accrued benefit forfeited under a plan provision described in such clause shall be restored upon repayment by the participant of the full amount of the withdrawal described in such clause plus, in the case of a definedbenefit plan, interest. Such interest shall be computed on such amount at the rate determined for purposes of subsection (c)(2)(C) on the date of such repayment (computed annually from the date of such withdrawal). The plan provision required under this clause may provide that such repayment must be made (I) in the case of a withdrawal on account of separation from service, before the earlier of 5 years after the first date on which the participant is subsequently re-employed by the employer, or the close of the first period of 5 consecutive 1-year breaks in service commencing after the withdrawal; or (II) in the case of any other withdrawal, 5 years after the date of the withdrawal.
+&emsp;&emsp;&emsp;(ii) Clause (i) shall not apply to a plan unless the plan provides that any accrued benefit forfeited under a plan provision described in such clause shall be restored upon repayment by the participant of the full amount of the withdrawal described in such clause plus, in the case of a defined benefit plan, interest. Such interest shall be computed on such amount at the rate determined for purposes of subsection (c)(2)(C) on the date of such repayment (computed annually from the date of such withdrawal). The plan provision required under this clause may provide that such repayment must be made (I) in the case of a withdrawal on account of separation from service, before the earlier of 5 years after the first date on which the participant is subsequently re-employed by the employer, or the close of the first period of 5 consecutive 1-year breaks in service commencing after the withdrawal; or (II) in the case of any other withdrawal, 5 years after the date of the withdrawal.
 
 &emsp;&emsp;&emsp;(iii) In the case of accrued benefits derived from employer contributions which accrued before September 2, 1974, a right to such accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that an amount of such accrued benefit may be forfeited on account of the withdrawal by the participant of an amount attributable to the benefit derived from mandatory contributions (as defined in subsection (c)(2)(C)) made by such participant before September 2, 1974 if such amount forfeited is proportional to such amount withdrawn. This clause shall not apply to any plan to which any mandatory contribution is made after September 2, 1974. The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this clause.
 
@@ -259,7 +259,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;(B) disability benefits not in excess of the qualified disability benefit.
 
-> &emsp;For purposes of this paragraph, a qualified disability benefit is a disability benefit provided by a plan which does not exceed the benefit which would be provided for the participant if he separated from the service at normal retirement age. For purposes of this paragraph, the early retirement benefit under a plan shall be determined without regard to any benefits commencing before benefits payable under title II of the Social Security Act become payable which—
+> &emsp;For purposes of this paragraph, a qualified disability benefit is a disability benefit provided by a plan which does not exceed the benefit which would be provided for the participant if he separated from the service at normal retirement age. For purposes of this paragraph, the early retirement benefit under a plan shall be determined without regard to any benefitscommencing before benefits payable under title II of the Social Security Act become payable which—
 
 &emsp;&emsp;(i) do not exceed such social security benefits, and
 
@@ -317,7 +317,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (C) Fractional rule
 
-&emsp;&emsp;A defined benefits plan satisfies the requirements of this paragraph if the accrued benefit to which any participant is entitled upon his separation from the service is not less than a fraction of the annual benefit commencing at normal retirement age to which he would be entitled under the plan as in effect on the date of his separation if he continued to earn annually until normal retirement age the same rate of compensation upon which his normal retirement benefit would be computed under the plan, determined as if he had attained normal retirement age on the date on which any such determination is made (but taking into account no more than the 10 years of service immediately preceding his separation from service). Such fraction shall be a fraction, not exceeding 1, the numerator of which is the total number of his years of participation in the plan (as of the date of his separation from the service) and the denominator of which is the total number of years he would have participated in the plan if he separated from the service at the normal retirement age. For purposes of this subparagraph, social security benefits and all other relevant factors used to compute benefits shall be treated as remaining constant as of the current year for all years after such current year.
+&emsp;&emsp;A defined benefits plan satisfies the requirements of this paragraph if the accrued benefit to which any participant is entitled upon his separation from the service is not less than a fraction of the annual benefit commencing at normal retirement age to which he would be entitled under the plan as in effect on the date of his separation if he continued to earn annually until normal retirement age the same rate of compensation upon which his normal retirement benefit would be computed under the plan, determined as if he had attained normal retirement age on the date on which any such determination is made (but taking into account no more than the 10 years of service immediately preceding his separation from service). Such fraction shall be a fraction, not exceeding 1, the numerator of which is the total number of his years of participation in the plan (as of the date of his separation from the service) and the denominatorof which is the total number of years he would have participated in the plan if he separated from the service at the normal retirement age. For purposes of this subparagraph, social security benefits and all other relevant factors used to compute benefits shall be treated as remaining constant as of the current year for all years after such current year.
 
 #### (D) Accrual for service before effective date
 
@@ -371,7 +371,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (iv) Disregard of subsidized portion of early retirement benefit
 
-&emsp;&emsp;&emsp;A plan shall not be treated as failing to meet the requirements of clause (i) solely because the subsidized portion of any early retirement benefit is disregarded in determining benefit accruals.
+&emsp;&emsp;&emsp;A plan shall not be treated as failing to meet the requirements of clause (i) solelybecause the subsidized portion of any early retirement benefit is disregarded in determining benefit accruals.
 
 #### (v) Coordination with other requirements
 
@@ -439,7 +439,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (B) Defined benefit plans
 
-&emsp;&emsp;In the case of a defined benefit plan, the accrued benefit derived from contributions made by an employee as of any applicable date is the amount equal to the employee's accumulated contributions expressed as an annual benefit commencing at normal retirement age, using an interest rate which would be used under the plan under section 417(e)(3) (as of the determination date).
+&emsp;&emsp;In the case of a defined benefit plan, the accrued benefit derived from contributionsmade by an employee as of any applicable date is the amount equal to the employee's accumulated contributions expressed as an annual benefit commencing at normal retirement age, using an interest rate which would be used under the plan under section 417(e)(3) (as of the determination date).
 
 #### (C) Definition of accumulated contributions
 
@@ -499,7 +499,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (A) In general
 
-&emsp;&emsp;A plan shall be treated as not satisfying the requirements of this section if the accrued benefit of a participant is decreased by an amendment of the plan, other than anamendment described in section 412(c)(8), or section 4281 of the Employee Retirement Income Security Act of 1974.
+&emsp;&emsp;A plan shall be treated as not satisfying the requirements of this section if the accrued benefit of a participant is decreased by an amendment of the plan, other than an amendment described in section 412(c)(8), or section 4281 of the Employee Retirement Income Security Act of 1974.
 
 #### (B) Treatment of certain plan amendments
 
@@ -581,7 +581,7 @@ In general.—For purposes of subparagraph (A), the present value shall be calcu
 
 “(ii)
 
-Applicable interest rate.—For purposes of clause (i), the term ‘applicable interest rate’ means theinterest rate which would be used (as of the date of the distribution) by the Pension Benefit Guaranty Corporation for purposes of determining the present value of a lump sum distribution on plan termination.”
+Applicable interest rate.—For purposes of clause (i), the term ‘applicable interest rate’ means the interest rate which would be used (as of the date of the distribution) by the Pension Benefit Guaranty Corporation for purposes of determining the present value of a lump sum distribution on plan termination.”
 
 1992—Subsec. (d)(3). Pub. L. 102–318 inserted at end “For purposes of this paragraph, in the case of the complete discontinuance of contributions under a profit-sharing or stock bonus plan, such plan shall be treated as having terminated on the day on which the plan administrator notifies the Secretary (in accordance with regulations) of the discontinuance.”
 
@@ -649,7 +649,7 @@ Subsec. (a)(8)(B). Pub. L. 99–509, §9203(b)(2), amended subpar. (B) generally
 
 Subsec. (a)(10)(B). Pub. L. 99–514, §1113(d)(B), substituted “3 years” for “5 years”.
 
-Subsec. (a)(11)(A). Pub. L. 99–514, §1898(d)(1)(A)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If the present value of any accrued benefit exceeds $3,500, such benefit shall not be treated as nonforfeitable if the plan provides that the present value of such benefit could be immediately distributed without the consent of the participant.”
+Subsec. (a)(11)(A). Pub. L. 99–514, §1898(d)(1)(A)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If the present value of any accrued benefit exceeds $3,500, such benefit shall not be treated as nonforfeitable if the plan provides that thepresent value of such benefit could be immediately distributed without the consent of the participant.”
 
 Subsec. (a)(11)(B). Pub. L. 99–514, §1139(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “For purposes of subparagraph (A), the present value shall be calculated by using an interest rate not greater than the interest rate which would be used (as of the date of the distribution) by the Pension Benefit Guaranty Corporation for purposes of determining the present value of a lump sum distribution on plan termination.”
 
@@ -835,7 +835,7 @@ Special rule.—In the case of a plan maintained by a corporation incorporated o
 
 &emsp;&emsp;&emsp;“(II) is not effective until 2 years after the employees are notified of such amendment, and
 
-&emsp;&emsp;“(ii) the present value of any vested accrued benefit of such plan determined during the 3-year period beginning on the date of the enactment of this Act shall be determined under the applicable interest rate (within the meaning of section 411(a)(11)(B)(ii) of such Code), except that if such value (as so determined) exceeds $50,000, then the value of any excessover $50,000 shall be determined by using the interest rate specified in the plan as of August 16, 1986.”
+&emsp;&emsp;“(ii) the present value of any vested accrued benefit of such plan determined during the 3-year period beginning on the date of the enactment of this Act shall be determined under the applicable interest rate (within the meaning of section 411(a)(11)(B)(ii) of such Code), except that if such value (as so determined) exceeds $50,000, then the value of any excess over $50,000 shall be determined by using the interest rate specified in the plan as of August 16, 1986.”
 
 Section 1898(a)(1)(C) of Pub. L. 99–514 provided that: “The amendments made by this paragraph \[amending this section and section 1053 of Title 29, Labor\] shall apply to contributions made for plan years beginning after the date of the enactment of this Act \[Oct. 22, 1986\]; except that, in the case of a plan described in section 302(b) of the Retirement Equity Act of 1984 \[section 302(b) of Pub. L. 98–397, set out as a note under section 1001 of Title 29\], such amendments shall not apply to any plan year to which the amendments made by such Act \[see Short Title of 1984 Amendment note set out under section 1001 of Title 29\] do not apply by reason of such section 302(b).”
 
@@ -917,7 +917,7 @@ Section 1449(d) of Pub. L. 104–188 provided that: “In the case of a plan tha
 
 #### Plan Amendments Reflecting Amendments by Section 7881(m) of Pub. L. 101–239 Not Treated as Reducing Accrued Benefits
 
-For provisions directing that if during the period beginning Dec. 22, 1987, and ending June 21, 1988, a plan was amended to reflect the amendments by section 9346 of Pub. L. 100–203 and such plan is amended to reflectthe amendments by section 7881(m) of Pub. L. 101–239, any plan amendments made to reflect the amendments by section 7881(m) of Pub. L. 101–239 shall not be treated as reducing accrued benefits for purposes of subsection (d)(6) of this section or section 1054(g) of Title 29, Labor, see section 7881(m)(3) of Pub. L. 101–239, set out as a note under section 1054 of Title 29.
+For provisions directing that if during the period beginning Dec. 22, 1987, and ending June 21, 1988, a planwas amended to reflect the amendments by section 9346 of Pub. L. 100–203 and such plan is amended to reflect the amendments by section 7881(m) of Pub. L. 101–239, any plan amendments made to reflect the amendments by section 7881(m) of Pub. L. 101–239 shall not be treated as reducing accrued benefits for purposes of subsection (d)(6) of this section or section 1054(g) of Title 29, Labor, see section 7881(m)(3) of Pub. L. 101–239, set out as a note under section 1054 of Title 29.
 
 #### Plan Amendments Not Required Until January 1, 1998
 

@@ -14,7 +14,7 @@ Nothing in subsection (a) of this section shall be construed to exclude as a qua
 
 &emsp;(3) is erroneously regarded as engaging in such use, but is not engaging in such use;
 
-> except that it shall not be a violation of this chapter for a covered entity to adopt or administer reasonable policies or procedures, including but not limited to drug testing, designed to ensure that an individual described in paragraph (1) or (2) is no longer engaging in the illegal use of drugs.
+> except that it shall not be a violation of this chapter for a covered entity to adopt or administer reasonable policies or procedures, including but not limited to drug testing, designed toensure that an individual described in paragraph (1) or (2) is no longer engaging in the illegal use of drugs.
 
 #### (c) Authority of covered entity
 
@@ -26,7 +26,7 @@ A covered entity—
 
 &emsp;(3) may require that employees behave in conformance with the requirements established under the Drug-Free Workplace Act of 1988 (41 U.S.C. 701 et seq.);
 
-&emsp;(4) may hold an employee who engages in the illegal use of drugs or who is an alcoholic tothe same qualification standards for employment or job performance and behavior that such entity holds other employees, even if any unsatisfactory performance or behavior is related to the drug use or alcoholism of such employee; and
+&emsp;(4) may hold an employee who engages in the illegal use of drugs or who is an alcoholic to the same qualification standards for employment or job performance and behavior that such entity holds other employees, even if any unsatisfactory performance or behavior is related to the drug use or alcoholism of such employee; and
 
 &emsp;(5) may, with respect to Federal regulations regarding alcohol and the illegal use of drugs, require that—
 

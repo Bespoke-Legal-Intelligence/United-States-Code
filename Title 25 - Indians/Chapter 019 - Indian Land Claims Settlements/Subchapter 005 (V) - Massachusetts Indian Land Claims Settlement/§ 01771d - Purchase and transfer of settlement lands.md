@@ -2,7 +2,7 @@
 
 #### (a) Purchase of private settlement lands
 
-The Secretary is authorized and directed to expend, at the request of the Wampanoag Tribal Council of Gay Head, Inc., $2,125,000 to acquire the private settlement lands. At the request of the Wampanoag Tribal Council of Gay Head, Inc., the Secretary shall not purchase lots 705, 222, and 528 of the private settlement lands, but, at the request of the Wampanoag Tribal Councilof Gay Head, Inc., the Secretary shall acquire in lieu thereof such other lands that are contiguous to the remaining private settlement lands. Upon the purchase of such contiguous lands, those lands shall be subject to the same restrictions and benefits as the private settlement lands.
+The Secretary is authorized and directed to expend, at the request of the Wampanoag Tribal Council of Gay Head, Inc., $2,125,000 to acquire the private settlement lands. At the request of the Wampanoag Tribal Council of Gay Head, Inc., the Secretary shall not purchase lots 705, 222, and 528 of the private settlement lands, but, at the request of the Wampanoag Tribal Council of Gay Head, Inc., the Secretary shall acquire in lieu thereof such other lands that are contiguous to the remaining private settlement lands. Upon the purchase of such contiguous lands, those lands shall be subject to the same restrictions and benefits as the private settlement lands.
 
 #### (b) Payment for survey and appraisal
 
@@ -14,7 +14,7 @@ The Secretary shall expend, at the request of the Wampanoag Tribal Council of Ga
 
 #### (d) Transfer and survey of land to Wampanoag Tribal Council
 
-Any right, title, or interest to lands acquired by the Secretary under this section, and the title to public settlement lands conveyed by the town of Gay Head, shall be held in trust for the Wampanoag Tribal Council of Gay Head, Inc. and shall be subject to this subchapter, the Settlement Agreement, and other applicable laws.
+Any right, title, or interest to lands acquired by the Secretary under this section, and thetitle to public settlement lands conveyed by the town of Gay Head, shall be held in trust for the Wampanoag Tribal Council of Gay Head, Inc. and shall be subject to this subchapter, the Settlement Agreement, and other applicable laws.
 
 #### (e) Proceedings authorized to acquire or to perfect title
 

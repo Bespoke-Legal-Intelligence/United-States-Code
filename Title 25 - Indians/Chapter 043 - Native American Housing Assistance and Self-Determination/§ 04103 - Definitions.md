@@ -158,7 +158,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (18) Recipient
 
-&emsp;The term “recipient” means an Indian tribe or the entity for one or more Indian tribesthat is authorized to receive grant amounts under this chapter on behalf of the tribe or tribes.
+&emsp;The term “recipient” means an Indian tribe or the entity for one or more Indian tribes that is authorized to receive grant amounts under this chapter on behalf of the tribe or tribes.
 
 #### (19) Secretary
 

@@ -64,13 +64,19 @@ Sept. 21, 1950, ch. 975, title I, §110, as added Nov. 8, 1978, Pub. L. 95–606
 
 36:380(b).
 
+&nbsp;
+
 220506(c)
 
 36:380(a) (1st sentence).
 
+&nbsp;
+
 220506(d)
 
 36:380(a) (2d, last sentences).
+
+&nbsp;
 
 Subsection (a)(2) and (3) is substituted for “the symbol described in subsection (a)(1) of this section; the emblem described in subsection (a)(2) of this section” because of the reorganization of the section.
 
@@ -82,7 +88,7 @@ In subsection (d)(2), the words “the words or any combination of the words des
 
 #### References in Text
 
-The Trademark Act of 1946, referred to in subsec. (c), is act July 5, 1946, ch. 540, 60 Stat. 427, as amended, alsopopularly known as the Lanham Act, which is classified generally to chapter 22 (§1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
+The Trademark Act of 1946, referred to in subsec. (c), is act July 5, 1946, ch. 540, 60 Stat. 427, as amended, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
 
 #### Amendments
 
@@ -106,7 +112,7 @@ Subsec. (d)(3). Pub. L. 105–277, §142(g)(8), added par. (3).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 15 sections 1116, 1117.
+This section is referred to in title 15 sections 1116, 1117, 1125.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

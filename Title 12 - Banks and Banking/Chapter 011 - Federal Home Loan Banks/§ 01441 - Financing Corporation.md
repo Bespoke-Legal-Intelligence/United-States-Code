@@ -132,7 +132,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (4) Pro rata distribution of 1st $1,000,000,000 invested in Financing Corporation by Home Loan Banks
 
-&emsp;Of the first $1,000,000,000 in the aggregate which the Thrift Depositor Protection Oversight Board pursuant to section 1441b of thistitle or the Federal Housing Finance Board under this section (as the case may be) may require the Federal Home Loan Banks collectively to invest in the stock of the Funding Corporation or invest in the capital stock of the Financing Corporation, respectively, the amount which each Federal Home Loan Bank (or any successor to such Bank) shall invest shall be determined by the Thrift Depositor Protection Oversight Board or the Federal Housing Finance Board (as the case may be) by multiplying the aggregate amount of such payment or investment by all Banks by the percentage appearing in the following table for each such Bank:
+&emsp;Of the first $1,000,000,000 in the aggregate which the Thrift Depositor Protection Oversight Board pursuant to section 1441b of this title or the Federal Housing Finance Board under this section (as the case may be) may require the Federal Home Loan Banks collectively to invest in the stock of the Funding Corporation or invest in the capital stock of the Financing Corporation, respectively, the amount which each Federal Home Loan Bank (or any successor to such Bank) shall invest shall be determined by the Thrift Depositor Protection Oversight Board or the Federal Housing Finance Board (as the case may be) by multiplying the aggregate amount of such payment or investment by all Banks by the percentage appearing in the following table for each such Bank:
 
 &nbsp;
 
@@ -198,7 +198,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 &emsp;&emsp;(A) that portion required to be added to reserves maintained pursuant to the first two sentences of section 1436 of this title; and
 
-&emsp;&emsp;(B) the dollar amounts held by the respective Federal Home Loan Banks in specialdividend stabilization reserves on December 31, 1985, as determined under the following table:
+&emsp;&emsp;(B) the dollar amounts held by the respective Federal Home Loan Banks in special dividend stabilization reserves on December 31, 1985, as determined under the following table:
 
 &nbsp;
 
@@ -268,7 +268,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (8) Obligations are exempt securities
 
-&emsp;Notwithstanding paragraph (7),<sup>1</sup> obligations of the Financing Corporation shall be deemed to be exempt securities (within the meaning of laws administered by the Securities and Exchange Commission) to the same extent as securities which are direct obligations of the United States or are guaranteed as to principal or interest by the United States.
+&emsp;Notwithstanding paragraph (7),<sup>1</sup> obligations of the Financing Corporation shall be deemedto be exempt securities (within the meaning of laws administered by the Securities and Exchange Commission) to the same extent as securities which are direct obligations of the United States or are guaranteed as to principal or interest by the United States.
 
 #### (9) Minority participation in public offerings
 
@@ -284,7 +284,7 @@ The Financing Corporation shall obtain funds for anticipated interest payments, 
 
 #### (2) New assessment authority
 
-&emsp;In addition to the amounts obtained pursuant to paragraph (1), the Financing Corporation, with the approval of the Board of Directors of the Federal Deposit Insurance Corporation, shall assess against each insured depository institution an assessment (in the same manner as assessments are assessed against such institutions by the Federal Deposit Insurance Corporation under section 7 of theFederal Deposit Insurance Act \[12 U.S.C. 1817\]), except that—
+&emsp;In addition to the amounts obtained pursuant to paragraph (1), the Financing Corporation, with the approval of the Board of Directors of the Federal Deposit Insurance Corporation, shall assess against each insured depository institution an assessment (in the same manner as assessments are assessed against such institutions by the Federal Deposit Insurance Corporation under section 7 of the Federal Deposit Insurance Act \[12 U.S.C. 1817\]), except that—
 
 &emsp;&emsp;(A) the assessments imposed on insured depository institutions with respect to any BIF-assessable deposit shall be assessed at a rate equal to 1/5 of the rate of the assessments imposed on insured depository institutions with respect to any SAIF-assessable deposit; and
 
@@ -416,7 +416,7 @@ For purposes of this section, the following definitions shall apply:
 
 Section 1725 of this title, referred to in subsecs. (c)(2), (e)(2)(A), and (g)(1), was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 
-Section 9105 of title 31, referred to in subsec. (h)(3), was amended generally by Pub. L. 101–576, title III, §305, Nov. 15, 1990, 104 Stat. 2853, and, as so amended, no longer contains provisions relating to mixed-ownership Government corporations having capital of the Government.
+Section 9105 of title 31, referred to in subsec. (h)(3), was amended generally by Pub. L. 101–576, title III, §305, Nov. 15, 1990, 104 Stat. 2853, and, as so amended, nolonger contains provisions relating to mixed-ownership Government corporations having capital of the Government.
 
 The Federal Deposit Insurance Act, referred to in subsec. (k)(4)(A), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
@@ -506,7 +506,7 @@ Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for 
 
 Subsec. (e)(3). Pub. L. 101–73, §512(12)(A), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-Subsec. (e)(4). Pub. L. 101–73, §512(2), (12)(A), redesignated par. (5) as (4) and substituted “Federal Housing Finance Board” for “Board”. Former par. (4) redesignated (3).
+Subsec. (e)(4). Pub. L. 101–73, §512(2), (12)(A), redesignated par. (5) as (4) and substituted “Federal HousingFinance Board” for “Board”. Former par. (4) redesignated (3).
 
 Subsec. (e)(5). Pub. L. 101–73, §512(12)(A), redesignated par. (6) as (5). Former par. (5) redesignated (4).
 
@@ -526,7 +526,7 @@ Subsec. (g)(2). Pub. L. 101–73, §512(15), inserted at end “For purposes of 
 
 Subsec. (i). Pub. L. 101–73, §713, redesignated subsec. (j) as (i) and struck out former subsec. (i) which related to Federal Savings and Loan Insurance Corporation Industry Advisory Committee.
 
-Subsec. (i)(1)(A). Pub. L. 101–73, §512(16), added subpar. (A) and struck out former subpar. (A) which readas follows: “the date by which all stock purchased by the Financing Corporation in the Federal Savings and Loan Insurance Corporation has been retired; or”.
+Subsec. (i)(1)(A). Pub. L. 101–73, §512(16), added subpar. (A) and struck out former subpar. (A) which read as follows: “the date by which all stock purchased by the Financing Corporation in the Federal Savings and Loan Insurance Corporation has been retired; or”.
 
 Subsec. (i)(2). Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for “Board” wherever appearing.
 
@@ -586,7 +586,7 @@ In general.—Effective as of the date of the enactment of this Act \[Sept. 30, 
 
 “(2)
 
-Regulations.—The Board of Directors of the Federal Deposit Insurance Corporation may issue regulations, including regulations defining terms used in paragraph (1), to prevent the shifting of deposits described in such paragraph.
+Regulations.—The Board of Directors of the Federal Deposit Insurance Corporation may issue regulations, including regulations defining terms used inparagraph (1), to prevent the shifting of deposits described in such paragraph.
 
 “(3)
 

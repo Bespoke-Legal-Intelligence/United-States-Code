@@ -10,7 +10,7 @@ The lien imposed by this section shall arise at the time an election is filed un
 
 &emsp;(1) until the liability for tax under subsection (c) of section 2032A with respect to such interest has been satisfied or has become unenforceable by reason of lapse of time, or
 
-&emsp;(2) until it is established to the satisfaction of the Secretary that no further tax liabilitymay arise under section 2032A(c) with respect to such interest.
+&emsp;(2) until it is established to the satisfaction of the Secretary that no further tax liability may arise under section 2032A(c) with respect to such interest.
 
 #### (c) Certain rules and definitions made applicable
 

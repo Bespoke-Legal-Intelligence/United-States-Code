@@ -44,7 +44,7 @@ After January 3, 1975, (A) products of a nonmarket economy country may be eligib
 
 > If the President recommends the further extension of such authority, such authority shall continue in effect until the end of the 12-month period following the end of the previous 12-month extension with respect to any country (except for any country with respect to which such authority has not been extended under this subsection), unless a joint resolution described in section 2193(a) of this title is enacted into law pursuant to the provisions of paragraph (2).
 
-(2)(A) The requirements of this paragraph are met if the joint resolution is enacted under theprocedures set forth in section 2193 of this title, and—
+(2)(A) The requirements of this paragraph are met if the joint resolution is enacted under the procedures set forth in section 2193 of this title, and—
 
 &emsp;(i) the Congress adopts and transmits the joint resolution to the President before the end of the 60-day period beginning on the date the waiver authority would expire but for an extension under paragraph (1), and
 
@@ -225,6 +225,12 @@ Determination No. 98–26, June 3, 1998, 63 F.R. 32705.—People's Republic of C
 Determination No. 98–27, June 3, 1998, 63 F.R. 32707.—Vietnam.
 
 Determination No. 98–28, June 3, 1998, 63 F.R. 32709.—Republic of Belarus.
+
+Determination No. 99–26, June 3, 1999, 64 F.R. 31109.—Republic of Belarus.
+
+Determination No. 99–27, June 3, 1999, 64 F.R. 31111.—Vietnam.
+
+Determination No. 99–28, June 3, 1999, 64 F.R. 31113.—People's Republic of China.
 
 #### Section Referred to in Other Sections
 

@@ -34,7 +34,7 @@ In recognizing the District of Columbia as a separate circuit, the Supreme Court
 
 See section 17 of title 28, U.S.C., 1940 ed., providing, “For the purposes of sections 17–23 of this title, the District of Columbia shall be deemed to be a judicial circuit \* \* \*”, and act Dec. 23, 1944, ch. 724, 58 Stat. 925, which amended section 215 of title 28, U.S.C., 1940 ed., incorporated in section 42 of this title. Such amendment provided that for the purposes of said section 215 “the District of Columbia shall be deemed to be a judicial circuit.”
 
-Many other acts of Congress have recognized the District of Columbia as a separate circuit. (See the following acts; Aug. 24, 1937, ch. 754, 50 Stat. 751; Feb. 11, 1938, ch. 25, 52 Stat. 28; Aug. 5, 1939, ch. 433, 53 Stat. 1204; Aug. 7, 1939, ch. 501, 53 Stat. 1223; Dec. 29, 1942, ch. 835, 56 Stat. 1094; May 11, 1944, ch. 192, 58 Stat. 218; Dec. 23, 1944, ch. 724, 58 Stat. 925.)
+Many other acts of Congress have recognized the District of Columbia as a separate circuit. (See the following acts; Aug. 24, 1937, ch. 754, 50 Stat. 751; Feb. 11, 1938, ch. 25, 52 Stat. 28; Aug. 5, 1939, ch. 433, 53 Stat. 1204; Aug. 7, 1939, ch. 501, 53 Stat. 1223; Dec. 29, 1942, ch. 835,56 Stat. 1094; May 11, 1944, ch. 192, 58 Stat. 218; Dec. 23, 1944, ch. 724, 58 Stat. 925.)
 
 See also the following acts recognizing the Court of Appeals for the District of Columbia as a circuit court of appeals: Aug. 15, 1921, ch. 64, 42 Stat. 162; July 5, 1935, ch. 372, 49 Stat. 454; Aug. 24, 1937, ch. 754, 50 Stat. 751; Apr. 6, 1942, ch. 210, 56 Stat. 198; May 9, 1942, ch. 295, 56 Stat. 271. See also Rule 81(d) Federal Rules of Civil Procedure.
 

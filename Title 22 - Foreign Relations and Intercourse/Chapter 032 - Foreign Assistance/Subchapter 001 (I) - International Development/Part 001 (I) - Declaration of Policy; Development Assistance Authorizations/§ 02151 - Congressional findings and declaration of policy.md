@@ -56,7 +56,7 @@ Subsec. (e). Pub. L. 95–88, §101(b), added subsec. (e).
 
 1963—Pub. L. 88–205 declared that institution of full investment guaranty programs with all recipient countries would be regarded as a significant measure of self-help by such countries improving investment climate, that assistance to maintain freedom from communism “shall” rather than “should” emphasize long-range development, that in the administration of programs of assistance, every precaution be taken to assure that assistance is not diverted to any short-term emergency purpose or any purpose not essential to long-range economic development, that other industrialized free-world countries increase their contributions and assistance to more equitably share the burden, and the President should in his discretion, extend or withhold assistance from South Vietnam to further victory and the return home of Americans involved in the struggle there.
 
-1962—Pub. L. 87–565 declared distinctions made by foreign nations between American citizens because of race, color, or religion, relating to rights available to such citizens, to be repugnant to our principals, required in the administration of these funds, that consideration be given those countries sharing our world views and which do not divert their resources to military or propaganda efforts, supported by the Soviet Union or Communist China, against the United States or countries receiving aid under this chapter, that the highest emphasis be given to programs for loans or loan guarantees for use by organizations in making low-interest loans to individuals in friendly countries for the purchase of small farms, purchase of homes, aiding or establishing small businesses, purchase of tools and equipment for an occupation or trade, or to obtain practical education in vocational skills, and to programs of technical assistance and development, each assisted country should be encouraged to recognize needs of the people in the preparation of national development programs, and declared that friendly nations are to be invited, where possible, to join in missions to consult with countries receiving assistance on the possibilities of joint action to assure effective development of economic development plans and effective use of assistance provided them, and that the President may request international financial institutions to assist in establishing such missions.
+1962—Pub. L. 87–565 declared distinctions made by foreign nations between American citizens because ofrace, color, or religion, relating to rights available to such citizens, to be repugnant to our principals, required in the administration of these funds, that consideration be given those countries sharing our world views and which do not divert their resources to military or propaganda efforts, supported by the Soviet Union or Communist China, against the United States or countries receiving aid under this chapter, that the highest emphasis be given to programs for loans or loan guarantees for use by organizations in making low-interest loans to individuals in friendly countries for the purchase of small farms, purchase of homes, aiding or establishing small businesses, purchase of tools and equipment for an occupation or trade, or to obtain practical education in vocational skills, and to programs of technical assistance and development, each assisted country should be encouraged to recognize needs of the people in the preparation of national development programs, and declared that friendly nations are to be invited, where possible, to join in missions to consult with countries receiving assistance on the possibilities of joint action to assure effective development of economic development plans and effective use of assistance provided them, and that the President may request international financial institutions to assist in establishing such missions.
 
 #### Effective Date of 1979 Amendment
 
@@ -69,6 +69,16 @@ Pub. L. 96–53, title V, §512, Aug. 14, 1979, 93 Stat. 380, provided that:
 #### Effective Date of 1978 Amendment
 
 Section 605 of Pub. L. 95–424 provided that: “The amendments made by this Act \[see Short Title of 1978 Amendment note below\] shall take effect on October 1, 1978.”
+
+#### Short Title of 1999 Amendments
+
+Pub. L. 106–158, §1, Dec. 9, 1999, 113 Stat. 1745, provided that: “This Act \[enacting section 4727a of Title 15, Commerce and Trade, amending sections 2191a, 2193, 2195, and 2421 of this title and section 4727 of Title 15, and enacting provisions set out as a note under section 2191a of this title\] may be cited as the ‘Export Enhancement Act of 1999’.”
+
+Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §596(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–123, provided that: “This section \[enacting part XII of subchapter I of this chapter and amending sections 5812 and 5814 of this title\] may be cited as the ‘Silk Road Strategy Act of 1999’.”
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1201\], Nov. 29, 1999, 113 Stat. 1536, 1501A–497, provided that: “This title \[amending sections 2321h, 2321j, 2367, 2753, 2761, 2762, 2776, and 2779a of this title and section 301 of Title 13, Census, and enacting provisions set out as notes under section 2551 of this title, sections 1 and 301 of Title 13, and section 2099 of Title 50, Appendix, War and National Defense\] may be cited as the ‘Security Assistance Act of 1999’.”
+
+Pub. L. 106–87, §1, Nov. 3, 1999, 113 Stat. 1301, provided that: “This Act \[amending section 2152 of this title and provisions set out as a note under section 2152 of this title\] may be cited as the ‘Torture Victims Relief Reauthorization Act of 1999’.”
 
 #### Short Title of 1996 Amendment
 
@@ -90,11 +100,11 @@ Pub. L. 102–549, title VI, §601, Oct. 28, 1992, 106 Stat. 3664, provided that
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–623, §1(a), Nov. 21, 1990, 104 Stat. 3350, provided that: “This Act \[enacting section 2151x–1 of thistitle and section 3196 of Title 18, Crimes and Criminal Procedure, amending sections 2291c, 2321k, 2346c, and 2360 of this title and section 635 of Title 12, Banks and Banking, and enacting provisions set out as notes under sections 2291, 2291h, and 2360 of this title\] may be cited as the ‘International Narcotics Control Act of 1990’.”
+Pub. L. 101–623, §1(a), Nov. 21, 1990, 104 Stat. 3350, provided that: “This Act \[enacting section 2151x–1 of this title and section 3196 of Title 18, Crimes and Criminal Procedure, amending sections 2291c, 2321k, 2346c, and 2360 of this title and section 635 of Title 12, Banks and Banking, and enacting provisions set out as notes under sections 2291, 2291h, and 2360 of this title\] may be cited as the ‘International Narcotics Control Act of 1990’.”
 
 #### Short Title of 1989 Amendments
 
-Pub. L. 101–240, §1(a), Dec. 19, 1989, 103 Stat. 2492, provided that: “This Act \[enacting sections 262m–7, 262p–4g to 262p–4k, 262r to 262r–2, 262s–1, 262t, 283z–5 to 283z–8, 286e–12, 286kk, and 2281 to 2286 of this title and section 3904a of Title 12, Banks and Banking, amending sections 262d, 262m–7, 262p–1, 262p–5, 262s–2, 282b, 283b, 283cc, 284b, 285b, 286b, 286e–9, 286k–1, 286s, 290g–2, 290i–3, and 290k–5 of this title and sections 635 and 635i–3 of Title 12, transferring former section 262q of this title to section 262s of this title, and former section 4722 of Title 15, Commerce and Trade, to section 262s–2 of this title, repealing sections 262i, 262m–6, 276c–3, 283i, 286b–1, and 286b–2 of this title, enacting provisions set out as notes under this section, sections 262d, 283z–6, and 2291 of this title, and sections 635, 3901, and 3904a of Title 12, amending provisions set out as a note under section 262<i>l</i> of this title, and repealing provisions set out as notes under sections 262g–2 and 283 of this title\] may be cited as the ‘International Development and Finance Act of 1989’.”
+Pub. L. 101–240, §1(a), Dec. 19, 1989, 103 Stat. 2492, provided that: “This Act \[enacting sections 262m–7, 262p–4g to 262p–4k, 262r to 262r–2, 262s–1, 262t, 283z–5 to 283z–8, 286e–12, 286kk, and 2281 to 2286 of this title and section 3904a of Title 12, Banks and Banking, amending sections 262d, 262m–7, 262p–1, 262p–5, 262s–2, 282b, 283b,283cc, 284b, 285b, 286b, 286e–9, 286k–1, 286s, 290g–2, 290i–3, and 290k–5 of this title and sections 635 and 635i–3 of Title 12, transferring former section 262q of this title to section 262s of this title, and former section 4722 of Title 15, Commerce and Trade, to section 262s–2 of this title, repealing sections 262i, 262m–6, 276c–3, 283i, 286b–1, and 286b–2 of this title, enacting provisions set out as notes under this section, sections 262d, 283z–6, and 2291 of this title, and sections 635, 3901, and 3904a of Title 12, amending provisions set out as a note under section 262<i>l</i> of this title, and repealing provisions set out as notes under sections 262g–2 and 283 of this title\] may be cited as the ‘International Development and Finance Act of 1989’.”
 
 Pub. L. 101–240, title VII, §701, Dec. 19, 1989, 103 Stat. 2521, provided that: “This title \[enacting sections 2281 to 2286 of this title\] may be cited as the ‘Global Environmental Protection Assistance Act of 1989’.”
 
@@ -138,7 +148,7 @@ Pub. L. 97–65, §1, Oct. 16, 1981, 95 Stat. 1021, provided that: “This Act \
 
 #### Short Title of 1980 Amendments
 
-Pub. L. 96–533, §1, Dec. 16, 1980, 94 Stat. 3131, provided: “This Act \[enacting sections 290h to 290h–9, 2226, 2346a, 2346b, 2769, and 2778a of this title, amending sections 2151a to 2151d, 2151n, 2151s, 2151u, 2151v, 2174, 2221, 2222, 2291a, 2292, 2292a, 2292<i>l</i>, 2304, 2311, 2312, 2318, 2321h to2321j, 2346, 2347a, 2348a, 2354, 2364, 2367, 2370, 2384, 2394, 2399d, 2403, 2411, 2421, 2427, 2502, 2514, 2753, 2761 to 2765, 2771, 2776 to 2779, 2791, 2794, and 3510 of this title, sections 1712 and 1733 of Title 7, Agriculture, sections 5041 and 5045 of Title 42, The Public Health and Welfare, and section 2405 of Title 50, Appendix, War and National Defense, repealing sections 2151q, 2346c to 2346e, and 2348b of this title, enacting provisions set out as notes under this section and sections 290h, 2151a, 2291a, 2293, 2370, and 3401 of this title, section 1522 of Title 8, Aliens and Nationality, and section 2667 of Title 10, Armed Forces, and repealing a provision set out as a note under section 2293 of this title\] may be cited as the ‘International Security and Development Cooperation Act of 1980’.”
+Pub. L. 96–533, §1, Dec. 16, 1980, 94 Stat. 3131, provided: “This Act \[enacting sections 290h to 290h–9, 2226, 2346a, 2346b, 2769, and 2778a of this title, amending sections 2151a to 2151d, 2151n, 2151s, 2151u, 2151v, 2174, 2221, 2222, 2291a, 2292, 2292a, 2292<i>l</i>, 2304, 2311, 2312, 2318, 2321h to 2321j, 2346, 2347a, 2348a, 2354, 2364, 2367, 2370, 2384, 2394, 2399d, 2403, 2411, 2421, 2427, 2502, 2514, 2753, 2761 to 2765, 2771, 2776 to 2779, 2791, 2794, and 3510 of this title, sections 1712 and 1733 of Title 7, Agriculture, sections 5041 and 5045 of Title 42, The Public Health and Welfare, and section 2405 of Title 50, Appendix, War and National Defense, repealing sections 2151q, 2346c to 2346e, and 2348b of this title, enacting provisions set out as notes under this section and sections 290h, 2151a, 2291a, 2293, 2370, and 3401 of this title, section 1522 of Title 8, Aliens and Nationality, and section 2667 of Title 10, Armed Forces, and repealing a provision set out as a note under section 2293 of this title\] may be cited as the ‘International Security and Development Cooperation Act of 1980’.”
 
 Pub. L. 96–257, §1, May 31, 1980, 94 Stat. 422, provided: “That this Act \[enacting section 2346e of this title\] may be cited as the ‘Special Central American Assistance Act of 1979’.”
 
@@ -174,13 +184,13 @@ Section 1 of Pub. L. 94–161 provided: “That this Act \[redesignating as sect
 
 Pub. L. 93–559, §1, Dec. 30, 1974, 88 Stat. 1795, provided: “That this Act \[enacting sections 2151m, 2175a, 2182a, 2225, 2293, 2304, 2321h, 2321i, 2419 to 2424, 2435, and 2441 to 2443 of this title, amending sections 278, 2151a to 2151c, 2163, 2181, 2183, 2219a, 2222, 2261, 2312, 2318, 2321b, 2321f, 2346a, 2360, 2364, 2370, 2394, 2399, 2413, 2415, 2416, 2753, 2763, 2764, 2771, 2773, 2775, and 2776 of this title, repealing sections 2151j and 2200 of this title, enacting provisions set out as notes under sections 2166, 2175, 2311, 2370, 2399, 2406, 2415, 2431 to 2433, 2551, and 2764 of this title, and repealing provisions set out as a note under this section\] may be cited as the ‘Foreign Assistance Act of 1974’.”
 
-Pub. L. 93–390, §1, Aug. 27, 1974, 88 Stat. 763, provided: “That this Act \[amending sections 2191, 2194, 2195, 2197,2199, 2200 and 2200a of this title\] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 1974’.”
+Pub. L. 93–390, §1, Aug. 27, 1974, 88 Stat. 763, provided: “That this Act \[amending sections 2191, 2194, 2195, 2197, 2199, 2200 and 2200a of this title\] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 1974’.”
 
 Pub. L. 93–333, §1, July 8, 1974, 88 Stat. 290, provided: “That this Act \[enacting section 2292c of this title, amending section 2292d of this title, and enacting provisions set out as notes under this section and section 2395 of this title\] may be cited as the ‘Foreign Disaster Assistance Act of 1974’.”
 
 #### Short Title of 1973 Amendment
 
-Section 1 of Pub. L. 93–189 provided: “That this Act \[enacting sections 2151a to 2151<i>l</i>, 2303, 2399–1a, 2399–1b, 2399c, 2399d, 2431 to 2434 and 2794 of this title, amending this section and sections 285n, 1934, 2163, 2171, 2174, 2181, 2183, 2195, 2199, 2200, 2212, 2219a, 2221, 2222, 2261, 2291, 2291a, 2311, 2312, 2314, 2318, 2321b, 2321f, 2346a, 2367, 2370, 2385, 2394, and section 2397 of this title, repealing sections 2314a, 2319 to 2321, 2321e, 2321g, and 2346a, of this title, and enacting provisions set out as notes under this section and sections 1942, 2163, 2220, 2415, and 2431 of this title\] may be cited as the ‘Foreign Assistance Act of 1973’.”
+Section 1 of Pub. L. 93–189 provided: “That this Act \[enacting sections 2151a to 2151<i>l</i>, 2303, 2399–1a, 2399–1b, 2399c, 2399d, 2431 to 2434 and 2794 of this title, amending this section and sections 285n, 1934, 2163, 2171, 2174, 2181,2183, 2195, 2199, 2200, 2212, 2219a, 2221, 2222, 2261, 2291, 2291a, 2311, 2312, 2314, 2318, 2321b, 2321f, 2346a, 2367, 2370, 2385, 2394, and section 2397 of this title, repealing sections 2314a, 2319 to 2321, 2321e, 2321g, and 2346a, of this title, and enacting provisions set out as notes under this section and sections 1942, 2163, 2220, 2415, and 2431 of this title\] may be cited as the ‘Foreign Assistance Act of 1973’.”
 
 #### Short Title of 1972 Amendment
 
@@ -224,7 +234,7 @@ Section 1 of Pub. L. 87–565 provided: “That this Act \[enacting sections 221
 
 #### Short Title
 
-Section 1 of Pub. L. 87–195, as added by Pub. L. 87–329, title I, §111, Sept. 30, 1961, 75 Stat. 719, provided: “That this Act \[enacting this chapter and sections 1613d and 1945 of this title, amending sections 276, 279a, 1041, 1112, 1136, 1148, 1157, 1754, 1783, 1925, 1951 and 1964 of this title, section 1704 of Title 7, Agriculture, and sections 1651 and 1701 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 276, 1613d, and 1925 of this title, and repealing sections 1750, 1750a, 1750b to 1753a, 1755 to 1759, 1760, 1761 to 1765, 1766a to 1766c, 1767a, 1768, 1781, 1782, 1784 to 1795, 1797, 1811, 1812 to 1817, 1841, 1851, 1852, 1854, 1870, 1871 to 1876, 1891 to 1896, 1897, 1920, 1921, 1923, 1924, 1926, 1927, 1929, 1931, 1933, 1935, 1936, 1939 to 1940a, 1941, 2051 to2053, 2071 and 2072 of this title, Reorganization Plan No. 7 of 1953, and provisions set out as notes under sections 1753, 1783, 1922, 1928b, 1939 and 1951 of this title\] may be cited as ‘The Foreign Assistance Act of 1961’.”
+Section 1 of Pub. L. 87–195, as added by Pub. L. 87–329, title I, §111, Sept. 30, 1961, 75 Stat. 719, provided: “That this Act \[enacting this chapter and sections 1613d and 1945 of this title, amending sections 276, 279a, 1041, 1112, 1136, 1148, 1157, 1754, 1783, 1925, 1951 and 1964 of this title, section 1704 of Title 7, Agriculture, and sections 1651 and 1701 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 276, 1613d, and 1925 of this title, and repealing sections 1750, 1750a, 1750b to 1753a, 1755 to 1759, 1760, 1761 to 1765, 1766a to 1766c, 1767a, 1768, 1781, 1782, 1784 to 1795, 1797, 1811, 1812 to 1817, 1841, 1851, 1852, 1854, 1870, 1871 to 1876, 1891 to 1896, 1897, 1920, 1921, 1923, 1924, 1926, 1927, 1929, 1931, 1933, 1935, 1936, 1939 to 1940a, 1941, 2051 to 2053, 2071 and 2072 of this title, Reorganization Plan No. 7 of 1953, and provisions set out as notes under sections 1753, 1783, 1922, 1928b, 1939 and 1951 of this title\] may be cited as ‘The Foreign Assistance Act of 1961’.”
 
 Section 101 of Pub. L. 87–195 which provided that this subchapter should be cited as the “Act for International Development of 1961” was repealed by section 101(b) of Pub. L. 88–205.
 
@@ -255,6 +265,24 @@ Section 642 of Pub. L. 87–195, as amended by Pub. L. 89–171, pt. III, §303(
 “(b) References in law to the Acts, or provisions of such Acts, repealed by subsection (a) of this section shall hereafter be deemed to be references to this Act \[see Short Title note for the Foreign Assistance Act of 1961 above\] or appropriate provisions of this Act.
 
 “(c) The repeal of the Acts listed in subsection (a) of this section shall not be deemed to affect amendments contained in such Acts to Acts not named in that subsection.”
+
+#### United States Agency for International Development Deemed Agency Primarily Responsible for Administering This Subchapter
+
+Any reference in this chapter to the agency primarily responsible for administering this subchapter, or to the Administrator of such agency, deemed reference to the United States Agency for International Development or to the Administrator of that agency, as appropriate, see section 1–200(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
+#### Report on Relations With Vietnam
+
+Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2805, Oct. 21, 1998, 112 Stat. 2681–846, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, provided that: “In order to provide Congress with the necessary information by which to evaluate the relationship between the United States and Vietnam, the Secretary of State shall submit a report to the appropriate congressional committees \[Committee on International Relations of House of Representatives and Committee on Foreign Relations of Senate\], not later than 90 days after the date of enactment of this Act \[Oct. 21, 1998\] and every 180 days thereafter during the period ending September 30, 2001, on the extent to which—
+
+&emsp;“(1) the Government of the Socialist Republic of Vietnam is cooperating with the United States in providing the fullest possible accounting of all unresolved cases of prisoners of war (POWs) or persons missing-in-action (MIAs) through the provision of records and the unilateral and joint recovery and repatriation of American remains;
+
+&emsp;“(2) the Government of the Socialist Republic of Vietnam has made progress toward the release of all political and religious prisoners, including Catholic, Protestant, and Buddhist clergy;
+
+&emsp;“(3) the Government of the Socialist Republic of Vietnam is cooperating with requests by the United States to obtain full and free access to persons of humanitarian interest to the United States for interviews under the Orderly Departure (ODP) and Resettlement Opportunities for Vietnamese Refugees (ROVR) programs, and in providing exit visas for such persons;
+
+&emsp;“(4) the Government of the Socialist Republic of Vietnam has taken vigorous action to end extortion, bribery, and other corrupt practices in connection with such exit visas; and
+
+&emsp;“(5) the Government of the United States is making vigorous efforts to interview and resettle former reeducation camp victims, their immediate families including unmarried sons and daughters, former United States Government employees, and other persons eligible for the ODP program, and to give such persons the full benefit of all applicable United States laws including sections 599D and 599E of the Foreign Operations, Export Financing, and Related Programs Appropriations Act of 1990 (Public Law 101–167) \[8 U.S.C. 1157 note, 1255 note\].”
 
 #### Iraq Liberation
 
@@ -380,7 +408,7 @@ Notification Requirement.—At least 15 days in advance of designating an Iraqi 
 
 #### “SEC. 8. RULE OF CONSTRUCTION.
 
-“Nothing in this Act shall be construed to authorize or otherwise speak to the use of United States Armed Forces (except as provided in section 4(a)(2)) in carrying out this Act.”
+“Nothing in this Act shall be construed to authorize or otherwise speak to the use of United States ArmedForces (except as provided in section 4(a)(2)) in carrying out this Act.”
 
 #### Designations Under the Iraq Liberation Act of 1998
 
@@ -412,7 +440,7 @@ Definitions.—For purposes of this section, the following definitions apply:
 
 &emsp;“(1)
 
-Economic assistance.—The term ‘economic assistance’ means any assistance under part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.),except that such term does not include humanitarian assistance.
+Economic assistance.—The term ‘economic assistance’ means any assistance under part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.), except that such term does not include humanitarian assistance.
 
 &emsp;“(2)
 
@@ -484,7 +512,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;“(8) Conflict prevention, mediation, and demobilization are prerequisites to the success of development assistance programs. Nutrition and education programs, for example, cannot succeed in a nation at war. Billions of dollars of development assistance have been virtually wasted in war-ravaged countries such as Liberia, Somalia, and Sudan.
 
-&emsp;“(9) Africans have a long tradition of informal mediation. This tradition should be built upon to create effective institutions through which Africans can resolve African conflicts.
+&emsp;“(9) Africans have a long tradition of informal mediation. This tradition should be built upon to createeffective institutions through which Africans can resolve African conflicts.
 
 &emsp;“(10) The effectiveness of U.S. support for conflict resolution programs requires coordination and collaboration with multilateral institutions and other bilateral donors.
 
@@ -508,7 +536,7 @@ Authorization of Assistance.—The President is authorized to provide assistance
 
 “(b)
 
-Funding.—Of the foreign assistance funds that are allocated for sub-Saharan Africa, not less than$1,500,000 for each of the fiscal years 1995 through 1998 should be used to carry out subsection (a).
+Funding.—Of the foreign assistance funds that are allocated for sub-Saharan Africa, not less than $1,500,000 for each of the fiscal years 1995 through 1998 should be used to carry out subsection (a).
 
 #### “SEC. 4. IMPROVING CONFLICT RESOLUTION CAPABILITIES OF MULTILATERAL SUBREGIONAL ORGANIZATIONS IN AFRICA.
 
@@ -676,7 +704,7 @@ Overseas private investment corporation.—The Overseas Private Investment Corpo
 
 &emsp;“(2)
 
-Trade and development agency.—The President shall suspend the obligation of funds under the Foreign Assistance Act of 1961 \[see Short Title note above\] for any new activities of the Trade and Development Agency with respect to the People's Republic of China, unless the President makes a report under subsection (b)(1) or (2) of this section.
+Trade and development agency.—The President shall suspend the obligation of funds under the Foreign Assistance Act of 1961 \[see Short Title noteabove\] for any new activities of the Trade and Development Agency with respect to the People's Republic of China, unless the President makes a report under subsection (b)(1) or (2) of this section.
 
 &emsp;“(3)
 
@@ -844,7 +872,7 @@ Pub. L. 101–167, title V, §561, Nov. 21, 1989, 103 Stat. 1239, provided that:
 
 &emsp;“(4) freedom of the press and other constitutional guarantees, including due process of law, are being restored to the Panamanian people;
 
-> then no United States assistance (including any such assistance appropriated and previously obligated) shall be obligated or expended for programs, projects, or activities which assist or lend support for the Noriega regime, or ministries of government under the control of the Noriega regime, or any successor regime that does not meet the criteria specified in subsection (a) of this section in this fiscal year and any fiscal year thereafter, and none of the funds appropriated or otherwise made available in this Act, or any other Act, shall be used to finance any participation of the United States in joint military exercises conducted in Panama during the fiscal year 1990.
+> then no United States assistance (including any such assistance appropriated and previously obligated) shall be obligated or expended for programs, projects, or activities which assist or lend support for the Noriega regime, or ministries of government under the control of the Noriega regime, or any successor regime that does not meet the criteria specified in subsection (a) of this section in this fiscal year and any fiscal year thereafter, and none of the funds appropriated or otherwisemade available in this Act, or any other Act, shall be used to finance any participation of the United States in joint military exercises conducted in Panama during the fiscal year 1990.
 
 “(b) It is the sense of the Congress that if the conditions described in paragraphs (1) through (4) of subsection (a) have been certified as having been met, then not only will United States assistance be restored, but increased levels of such assistance should be considered for Panama.
 
@@ -862,11 +890,9 @@ Pub. L. 101–167, title V, §561, Nov. 21, 1989, 103 Stat. 1239, provided that:
 
 &emsp;“(6) assistance provided by the Central Intelligence Agency or assistance provided by any other entity or component of the United States Government if such assistance is carried out in connection with, or for purposes of conducting, intelligence or intelligence-related activities except that this shall not include activities undertaken solely to collect necessary intelligence;
 
-> except that the term ‘United States assistance’ does not include (A) assistance under chapter 1 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] insofar as such assistance is provided through private and voluntary organizations or other nongovernmental agencies, (B) assistance which involves the donations of food or medicine, (C) disaster relief assistance (including any assistance under chapter 9 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2292 et seq.\]), (D) assistance for refugees, (E) assistance underthe Inter-American Foundation Act \[22 U.S.C. 290f\], (F) assistance necessary for the purpose of continuing participant training programs (including scholarships) already being supported as of the date of any prohibition of assistance otherwise applicable to Panama, or (G) assistance made available for termination costs arising from the requirements of this section.
+> except that the term ‘United States assistance’ does not include (A) assistance under chapter 1 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] insofar as such assistance is provided through private and voluntary organizations or other nongovernmental agencies, (B) assistance which involves the donations of food or medicine, (C) disaster relief assistance (including any assistance under chapter 9 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2292 et seq.\]), (D) assistance for refugees, (E) assistance under the Inter-American Foundation Act \[22 U.S.C. 290f\], (F) assistance necessary for the purpose of continuing participant training programs (including scholarships) already being supported as of the date of any prohibition of assistance otherwise applicable to Panama, or (G) assistance made available for termination costs arising from the requirements of this section.
 
 “(d) The Secretary of the Treasury shall instruct the United States Executive Directors to the International Financial Institutions (the International Bank for Reconstruction and Development, the International Finance Corporation, and the Inter-American Development Bank) to vote against any loan to Panama, unless the President has certified in advance that the conditions set forth in subsection (a) of this section have been met.”
-
-\[Functions of President under this note were delegated to Secretary of State by section 1–201(a)(29) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.\]
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -930,7 +956,7 @@ Section 133 of Pub. L. 95–88, as amended by Pub. L. 96–53, title I, §123, A
 
 “(B) Socially disadvantaged individuals are those who have been subjected to racial or ethnic prejudice or cultural bias because of their identity as a member of a group without regard to their individual qualities.
 
-“(C) Economically disadvantaged individuals are those socially disadvantaged individuals whose abilityto compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same business area who are not socially disadvantaged. In determining the degree of diminished credit and capital opportunities, the Administrator of the agency shall consider, but not be limited to, the assets and net worth of the socially disadvantaged individual.
+“(C) Economically disadvantaged individuals are those socially disadvantaged individuals whose ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same business area who are not socially disadvantaged. In determining the degree of diminished credit and capital opportunities, the Administrator of the agency shall consider, but not be limited to, the assets and net worth of the socially disadvantaged individual.
 
 “(6) \[Repealed. Pub. L. 97–113, title VII, §734(a)(6), Dec. 29, 1981, 95 Stat. 1560.\]
 

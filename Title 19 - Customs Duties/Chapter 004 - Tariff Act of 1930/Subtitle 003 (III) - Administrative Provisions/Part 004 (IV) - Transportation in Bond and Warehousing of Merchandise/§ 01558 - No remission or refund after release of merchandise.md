@@ -12,19 +12,21 @@ No remission, abatement, refund, or drawback of estimated or liquidated duty sha
 
 #### (b) Payment of duties required notwithstanding export or destruction of articles; exception
 
-When articles are exported or destroyed under customs supervision after once having been released from customs custody, as provided for in subsection (c) <sup>1</sup> of section 1304 of this title, such exportation or destruction shall not exempt such articles from the payment of duties other than the marking duty provided for in such subsection (c).
+When articles are exported or destroyed under customs supervision after once having been released from customs custody, as provided for in subsection (h) <sup>1</sup> of section 1304 of this title, such exportation or destruction shall not exempt such articles from the payment of duties other than the marking duty provided for in such subsection (h).
 
-(June 17, 1930, ch. 497, title IV, §558, 46 Stat. 744; June 25, 1938, ch. 679, §24, 52 Stat. 1088.)
+(June 17, 1930, ch. 497, title IV, §558, 46 Stat. 744; June 25, 1938, ch. 679, §24, 52 Stat. 1088; Pub. L. 106–36, title I, §1001(b)(9), June 25, 1999, 113 Stat. 132.)
 
 #### References in Text
 
-Subsection (c) of section 1304 of this title, referred to in subsec. (b), was redesignated subsection (f) and a newsubsection (c) of section 1304 was added by Pub. L. 98–573, title II, §207(1), (2), Oct. 30, 1984, 98 Stat. 2976. Subsection (f) was subsequently redesignated (h) and a new subsection (f) was added by Pub. L. 104–295, §14(a), Oct. 11, 1996, 110 Stat. 3521.
+Subsection (h) of section 1304 of this title, referred to in subsec. (b), was redesignated subsection (i) and a new subsection (h) of section 1304 was added by Pub. L. 106–36, title II, §2423(a), June 25, 1999, 113 Stat. 180.
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in R.S. §2978, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, and in R.S. §3025, both of which were superseded by act Sept. 21, 1922, ch. 356, title IV, §558, 42 Stat. 977, and were repealed by section 642 thereof. Section 558 of the 1922 act was superseded by section 558 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–36 substituted “subsection (h)” for “subsection (c)” in two places.
 
 1938—Act June 25, 1938, designated existing provisions as subsecs. (a) and (b).
 

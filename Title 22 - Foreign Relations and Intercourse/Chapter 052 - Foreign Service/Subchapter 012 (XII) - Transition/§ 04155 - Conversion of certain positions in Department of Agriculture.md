@@ -20,7 +20,7 @@ Each employee serving in a position at the time it is designated under subsectio
 
 (1) The Secretary of Agriculture shall recommend to the President for appointment to the appropriate class (as determined under paragraph (2)), by and with the advice and consent of the Senate, those employees who elect conversion under subsection (a)(1) of this section.
 
-(2) The Secretary of Agriculture shall appoint as Foreign Service personnel those employeeswho elect to accept conversion and who are not eligible for appointment under paragraph (1).
+(2) The Secretary of Agriculture shall appoint as Foreign Service personnel those employees who elect to accept conversion and who are not eligible for appointment under paragraph (1).
 
 #### (d) Results of declining to convert
 

@@ -38,13 +38,19 @@ Aug. 13, 1953, ch. 427, §§9, 10, 12, 67 Stat. 564, 565.
 
 36:440.
 
+&nbsp;
+
 150708(c)
 
 36:439(a).
 
+&nbsp;
+
 150708(d)
 
 36:439(b).
+
+&nbsp;
 
 In subsection (a), the words “any shares of” and “its objects and purposes being solely patriotic and educational” are omitted as unnecessary.
 

@@ -28,7 +28,7 @@ The Congress finds that—
 
 1998—Par. (1). Pub. L. 105–277, §1223(17)(A), substituted “Department of State” for “United States Arms Control and Disarmament Agency”.
 
-Par. (2). Pub. L. 105–277, §1223(17)(B), (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “as defined in this chapter, the terms ‘arms control’ and ‘disarmament’ mean ‘the identification, verification, inspection, limitation, control, reduction,or elimination, of armed forces and armaments of all kinds under international agreement to establish an effective system of international control’;”.
+Par. (2). Pub. L. 105–277, §1223(17)(B), (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “as defined in this chapter, the terms ‘arms control’ and ‘disarmament’ mean ‘the identification, verification, inspection, limitation, control, reduction, or elimination, of armed forces and armaments of all kinds under international agreement to establish an effective system of international control’;”.
 
 Par. (3). Pub. L. 105–277, §1223(17)(C), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
@@ -50,7 +50,7 @@ Par. (4)(D). Pub. L. 103–199, §401(d)(4), struck out “Soviet” before “i
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
 
 #### Accounting for Reimbursable Expenses Incurred by Department of Defense on Behalf of Soviet Union or Successor Entities in Monitoring INF Treaty
 

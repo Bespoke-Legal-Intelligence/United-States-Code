@@ -34,7 +34,7 @@
 
 &emsp;(E) the proceeds of any subsequent resale, disposal, or use of the imported merchandise that accrue, directly or indirectly, to the seller.
 
-> The price actually paid or payable for imported merchandise shall be increased by the amounts attributable to the items (and no others) described in subparagraphs (A) through (E) only to the extent that each such amount (i) is not otherwise included within the price actually paid or payable; and (ii) is based on sufficient information. If sufficient information is not available, for any reason, with respect to any amount referred to in the preceding sentence, the transaction value of the imported merchandise concerned shall be treated, for purposes of this section, as one that cannot be determined.
+> The price actually paid or payable for imported merchandise shall be increased by the amounts attributable to the items (and no others) described in subparagraphs (A) through (E) only tothe extent that each such amount (i) is not otherwise included within the price actually paid or payable; and (ii) is based on sufficient information. If sufficient information is not available, for any reason, with respect to any amount referred to in the preceding sentence, the transaction value of the imported merchandise concerned shall be treated, for purposes of this section, as one that cannot be determined.
 
 (2)(A) The transaction value of imported merchandise determined under paragraph (1) shall be the appraised value of that merchandise for the purposes of this chapter only if—
 
@@ -74,7 +74,7 @@
 
 &emsp;(A) Any reasonable cost or charge that is incurred for—
 
-&emsp;&emsp;(i) the construction, erection, assembly, or maintenance of, or the technical assistanceprovided with respect to, the merchandise after its importation into the United States; or
+&emsp;&emsp;(i) the construction, erection, assembly, or maintenance of, or the technical assistance provided with respect to, the merchandise after its importation into the United States; or
 
 &emsp;&emsp;(ii) the transportation of the merchandise after such importation.
 
@@ -118,7 +118,7 @@
 
 &emsp;(iii) the usual costs and associated costs of transportation and insurance incurred with respect to shipments of such merchandise from the place of importation to the place of delivery in the United States, if such costs are not included as a general expense under clause (i);
 
-&emsp;(iv) the customs duties and other Federal taxes currently payable on the merchandise concerned by reason of its importation, and any Federal excise tax on, or measured by thevalue of, such merchandise for which vendors in the United States are ordinarily liable; and
+&emsp;(iv) the customs duties and other Federal taxes currently payable on the merchandise concerned by reason of its importation, and any Federal excise tax on, or measured by the value of, such merchandise for which vendors in the United States are ordinarily liable; and
 
 &emsp;(v) (but only in the case of a price determined under paragraph (2)(A)(iii)) the value added by the processing of the merchandise after importation to the extent that the value is based on sufficient information relating to cost of such processing.
 
@@ -354,7 +354,7 @@ Special Treatment for Certain Rubber Footwear.—The amendments made by section 
 
 Definition.—For purposes of this section, the term ‘rubber footwear’ means articles described in item 700.60 of the Tariff Schedules of the United States (as in effect on the day before the day on which the amendments made by section 223(b) \[amending schedule 7, part 1, subpart A of the Tariff Schedules of the United States\] take effect).”
 
-\[For Presidential proclamation specifying in accordance with subsec. (a)(2), above, that the amendments bytitle II of Pub. L. 96–39 are effective July 1, 1980, see sections 5(b) and 2(a) of Proc. No. 4768, June 28, 1980, 45 F.R. 45136, 45137, set out as a note under section 2111 of this title.\]
+\[For Presidential proclamation specifying in accordance with subsec. (a)(2), above, that the amendments by title II of Pub. L. 96–39 are effective July 1, 1980, see sections 5(b) and 2(a) of Proc. No. 4768, June 28, 1980, 45 F.R. 45136, 45137, set out as a note under section 2111 of this title.\]
 
 #### Effective Date
 
@@ -370,7 +370,7 @@ Section 6 of act Aug. 2, 1956, provided that:
 
 “(a) The Secretary of the Treasury shall determine and make public a list of the articles which shall be valued in accordance with section 402a, Tariff Act of 1930, as amended by this Act \[former section 1402 of this title\], as follows:
 
-“As soon as practicable after the enactment of this Act \[Aug. 2, 1956\] the Secretary shall make public a preliminary list of the imported articles which he shall have determined, after such investigation as he deems necessary, would have been appraised in accordance with section 402 of the Tariff Act of 1930, as amended by this Act \[this section\], at average values for each article which are 95 (or less) per centum of the average values at which such article was actually appraised during the fiscal year 1954. If within sixty days after the publication of such preliminary list any manufacturer, producer, or wholesaler in the United States presents to the Secretary his reason for belief that any imported articles not specified in such list and like or similar to articles manufactured, produced, or sold at wholesale by him would have been appraised in accordance with such section 402 \[section 1401a of this title\] at average values which are 95 (or less) per centum of the average values at which they were or would have been appraised under section 402a, Tariff Act of 1930, as amended by this Act, the Secretary shall cause such investigation of the matter to be made as he deems necessary. If in the opinion of the Secretary the reason for belief is substantiated by the investigation, the articles involved shall be added to the preliminary list and such list, including any additions so made thereto, shall be published as a final list. Every article so specified in the final list which is entered, or withdrawn from warehouse, for consumption on or after the thirtieth day following the date of publication of the final list shall be appraised in accordance with the provisions of section 402a, Tariff Act of 1930, as amended by this Act.
+“As soon as practicable after the enactment of this Act \[Aug. 2, 1956\] the Secretary shall make public a preliminary list of the imported articles which he shall have determined, after such investigation as he deems necessary, would have been appraised in accordance with section 402 of the Tariff Act of 1930, as amended by this Act \[this section\], at average values for each article which are 95 (or less) per centum of the average values at which such article was actually appraised during the fiscal year 1954. If within sixty days after the publication of such preliminary list any manufacturer, producer, or wholesaler in the United States presents to the Secretary his reason for belief that any importedarticles not specified in such list and like or similar to articles manufactured, produced, or sold at wholesale by him would have been appraised in accordance with such section 402 \[section 1401a of this title\] at average values which are 95 (or less) per centum of the average values at which they were or would have been appraised under section 402a, Tariff Act of 1930, as amended by this Act, the Secretary shall cause such investigation of the matter to be made as he deems necessary. If in the opinion of the Secretary the reason for belief is substantiated by the investigation, the articles involved shall be added to the preliminary list and such list, including any additions so made thereto, shall be published as a final list. Every article so specified in the final list which is entered, or withdrawn from warehouse, for consumption on or after the thirtieth day following the date of publication of the final list shall be appraised in accordance with the provisions of section 402a, Tariff Act of 1930, as amended by this Act.
 
 “(b) The final list published in accordance with the provisions of subsection (a), together with explanatory data, shall be transmitted promptly to the chairmen of the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.”
 

@@ -4,12 +4,7 @@
 | :--- | ---: |
 | [12001\.](%C2%A7%2012001%20-%20Authorized%20strengths%20reserve%20components.md) | Authorized strengths: reserve components. |
 | [12002\.](%C2%A7%2012002%20-%20Authorized%20strengths%20Army%20and%20Air%20Force%20reserve%20components%2C%20exclusive%20of%20members%20on%20active%20duty.md) | Authorized strengths: Army and Air Force reserve components, exclusive of members on active duty. |
-| [12003\.](%C2%A7%2012003%20-%20Authorized%20strengths%20commissioned%20officers%20in%20an%20active%20status.md) | Authorized strengths: commissioned officers active status.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [12003\.](%C2%A7%2012003%20-%20Authorized%20strengths%20commissioned%20officers%20in%20an%20active%20status.md) | Authorized strengths: commissioned officers in an active status. |
 | [12004\.](%C2%A7%2012004%20-%20Strength%20in%20grade%20reserve%20general%20and%20flag%20officers%20in%20an%20active%20status.md) | Strength in grade: reserve general and flag officers in an active status. |
 | [12005\.](%C2%A7%2012005%20-%20Strength%20in%20grade%20commissioned%20officers%20in%20grades%20below%20brigadier%20general%20or%20rear%20admiral%20%28lower%20half%29%20in%20an%20active%20status.md) | Strength in grade: commissioned officers in grades below brigadier general or rear admiral (lower half) in an active status. |
 | [12006\.](%C2%A7%2012006%20-%20Strength%20limitations%20authority%20to%20waive%20in%20time%20of%20war%20or%20national%20emergency.md) | Strength limitations: authority to waive in time of war or national emergency. |
@@ -22,7 +17,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+#### Amendments
+
+1999—Pub. L. 106–65, div. A, title X, §1066(a)(31), Oct. 5, 1999, 113 Stat. 772, inserted “in an” after “officers” in item 12003.
 
 
 ---

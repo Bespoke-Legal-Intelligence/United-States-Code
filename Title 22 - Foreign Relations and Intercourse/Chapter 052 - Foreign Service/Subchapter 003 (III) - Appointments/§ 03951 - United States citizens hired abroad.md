@@ -2,7 +2,7 @@
 
 #### (a) Appointment of family members
 
-The Secretary, under section 3943 of this title, may appoint United States citizens, who are family members of government employees assigned abroad or are hired for service at their post of residence, for employment in positions customarily filled by Foreign Service officers, Foreign Service personnel, and foreign national employees.
+The Secretary, under section 3943 of this title, may appoint United States citizens, who arefamily members of government employees assigned abroad or are hired for service at their post of residence, for employment in positions customarily filled by Foreign Service officers, Foreign Service personnel, and foreign national employees.
 
 #### (b) Family nexus as affirmative hiring factor
 
@@ -38,7 +38,7 @@ Compensation plans for employees who are family members of Government personnel,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3949, 3968, 3984, 4010, 4024, 4083, 4102, 4131 of this title.
+This section is referred to in sections 3922, 3949, 3968, 3984, 4010, 4024, 4083, 4102, 4131 of this title; title 5 section 5927.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “chapter”.</i>
 

@@ -6,7 +6,7 @@ Acceptance of Research Grants.—The Secretary of the Army may authorize the Sup
 
 (b)
 
-Qualifying Grants.—A qualifying research grant under this section is a grant that isawarded on a competitive basis by an entity referred to in subsection (c) for a research project with a scientific, literary, or educational purpose.
+Qualifying Grants.—A qualifying research grant under this section is a grant that is awarded on a competitive basis by an entity referred to in subsection (c) for a research project with a scientific, literary, or educational purpose.
 
 (c)
 

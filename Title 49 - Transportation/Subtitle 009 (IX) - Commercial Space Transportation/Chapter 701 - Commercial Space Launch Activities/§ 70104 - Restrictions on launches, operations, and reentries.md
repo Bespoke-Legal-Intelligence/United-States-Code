@@ -6,7 +6,7 @@ License Requirement.—A license issued or transferred under this chapter is req
 
 &emsp;(1) for a person to launch a launch vehicle or to operate a launch site or reentry site, or to reenter a reentry vehicle, in the United States.
 
-&emsp;(2) for a citizen of the United States (as defined in section 70102(1)(A) or (B) of this title) to launch a launch vehicle or to operate a launch site or reentry site, or to reenter a reentry vehicle, outside the United States.
+&emsp;(2) for a citizen of the United States (as defined in section 70102(1)(A) or (B) of this title)to launch a launch vehicle or to operate a launch site or reentry site, or to reenter a reentry vehicle, outside the United States.
 
 &emsp;(3) for a citizen of the United States (as defined in section 70102(1)(C) of this title) to launch a launch vehicle or to operate a launch site or reentry site, or to reenter a reentry vehicle, outside the United States and outside the territory of a foreign country unless there is an agreement between the United States Government and the government of the foreign country providing that the government of the foreign country has jurisdiction over the launch or operation or reentry.
 

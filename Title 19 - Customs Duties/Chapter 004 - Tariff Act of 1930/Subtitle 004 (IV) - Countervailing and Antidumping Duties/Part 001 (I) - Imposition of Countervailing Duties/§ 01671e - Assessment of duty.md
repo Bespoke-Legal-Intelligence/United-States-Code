@@ -8,13 +8,13 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 &emsp;(2) includes a description of the subject merchandise, in such detail as the administering authority deems necessary, and
 
-&emsp;(3) requires the deposit of estimated countervailing duties pending liquidation of entries ofmerchandise at the same time as estimated normal customs duties on that merchandise are deposited.
+&emsp;(3) requires the deposit of estimated countervailing duties pending liquidation of entries of merchandise at the same time as estimated normal customs duties on that merchandise are deposited.
 
 #### (b) Imposition of duties
 
 #### (1) General rule
 
-&emsp;If the Commission, in its final determination under section 1671d(b) of this title, finds material injury or threat of material injury which, but for the suspension of liquidation under section 1671b(d)(2) of this title, would have led to a finding of material injury, then entries of the merchandise subject to the countervailing duty order, the liquidation of which has been suspended under section 1671b(d)(2) of this title, shall be subject to the imposition of countervailing duties under section 1671(a) of this title.
+&emsp;If the Commission, in its final determination under section 1671d(b) of this title, finds material injury or threat of material injury which, but for the suspension of liquidation under section 1671b(d)(2) of this title, would have led to a finding of material injury, then entries ofthe merchandise subject to the countervailing duty order, the liquidation of which has been suspended under section 1671b(d)(2) of this title, shall be subject to the imposition of countervailing duties under section 1671(a) of this title.
 
 #### (2) Special rule
 

@@ -2,7 +2,7 @@
 
 #### (a) Cost-benefit analysis
 
-The Administrator, in consultation with the Secretary of Commerce, the Secretary of Labor,and the Council on Clean Air Compliance Analysis (as established under subsection (f) of this section), shall conduct a comprehensive analysis of the impact of this chapter on the public health, economy, and environment of the United States. In performing such analysis, the Administrator should consider the costs, benefits and other effects associated with compliance with each standard issued for—
+The Administrator, in consultation with the Secretary of Commerce, the Secretary of Labor, and the Council on Clean Air Compliance Analysis (as established under subsection (f) of this section), shall conduct a comprehensive analysis of the impact of this chapter on the public health, economy, and environment of the United States. In performing such analysis, the Administrator should consider the costs, benefits and other effects associated with compliance with each standard issued for—
 
 &emsp;(1) a criteria air pollutant subject to a standard issued under section 7409 of this title;
 
@@ -70,7 +70,7 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of acouncil established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Equivalent Air Quality Controls Among Trading Nations
 

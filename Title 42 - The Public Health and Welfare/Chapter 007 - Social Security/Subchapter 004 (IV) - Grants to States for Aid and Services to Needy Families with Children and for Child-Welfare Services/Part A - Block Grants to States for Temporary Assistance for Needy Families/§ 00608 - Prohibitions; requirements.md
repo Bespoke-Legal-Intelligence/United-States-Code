@@ -44,7 +44,7 @@
 
 #### (i) Requirement
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (B), a State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to an individual described in clause (ii) of this subparagraph if the individual and the minor child referred to in clause (ii)(II) donot reside in a place of residence maintained by a parent, legal guardian, or other adult relative of the individual as such parent's, guardian's, or adult relative's own home.
+&emsp;&emsp;&emsp;Except as provided in subparagraph (B), a State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to an individual described in clause (ii) ofthis subparagraph if the individual and the minor child referred to in clause (ii)(II) do not reside in a place of residence maintained by a parent, legal guardian, or other adult relative of the individual as such parent's, guardian's, or adult relative's own home.
 
 #### (ii) Individual described
 
@@ -112,7 +112,7 @@
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;The average monthly number of families with respect to which an exemption made by a State under clause (i) is in effect for a fiscal year shall not exceed 20 percent of the average monthly number of families to which assistance is provided under theState program funded under this part during the fiscal year or the immediately preceding fiscal year (but not both), as the State may elect.
+&emsp;&emsp;&emsp;The average monthly number of families with respect to which an exemption made by a State under clause (i) is in effect for a fiscal year shall not exceed 20 percent ofthe average monthly number of families to which assistance is provided under the State program funded under this part during the fiscal year or the immediately preceding fiscal year (but not both), as the State may elect.
 
 #### (iii) Battered or subject to extreme cruelty defined
 
@@ -302,7 +302,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 #### (2) Ineligibility of non-213A aliens sponsored by agencies; exception
 
-&emsp;A non-213A alien whose sponsor is or was a public or private agency shall be ineligible for assistance under a State program funded under this part, during a period of 3 years after the alien enters the United States, unless the State agency administering the program determines that the sponsor either no longer exists or has become unable to meet the alien's needs.
+&emsp;A non-213A alien whose sponsor is or was a public or private agency shall be ineligible for assistance under a State program funded under this part, during a period of 3 years after the alien enters the United States, unlessthe State agency administering the program determines that the sponsor either no longer exists or has become unable to meet the alien's needs.
 
 #### (3) Information provisions
 
@@ -376,7 +376,7 @@ Subsec. (a)(1). Pub. L. 105–33, §5505(a), amended heading and text of par. (1
 
 &emsp;&emsp;“(ii) a pregnant individual; and
 
-&emsp;“(B) if the family includes an adult who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government, for 60 months (whether or notconsecutive) after the date the State program funded under this part commences (unless an exception described in subparagraph (B), (C), or (D) of paragraph (7) applies).”
+&emsp;“(B) if the family includes an adult who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government, for 60 months (whether or not consecutive) after the date the State program funded under this part commences (unless an exception described in subparagraph (B), (C), or (D) of paragraph (7) applies).”
 
 Subsec. (a)(3). Pub. L. 105–33, §5505(b), substituted “ceases to receive assistance under” for “leaves” in introductory provisions and cl. (ii) of subpar. (A) and in subpar. (B) and substituted “after such date” for “after the date the family leaves the program” in introductory provisions of subpar. (A).
 

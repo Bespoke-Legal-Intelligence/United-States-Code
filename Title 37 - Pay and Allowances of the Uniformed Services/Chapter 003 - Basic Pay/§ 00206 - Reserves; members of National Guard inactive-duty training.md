@@ -64,7 +64,7 @@ Oct. 12, 1949, ch. 681, §501(a) (less 45 words before proviso), (b) (less 1st s
 
 37:301(b) (less 1st sentence).
 
-In subsection (a), the words “National Guard” are substituted for the words “National Guard, Air National Guard”, in section 301(a) of existing title 37, to conform to the definition of “National Guard” in section 101(6) of this revised title. The words “member of a reserve component of a uniformed service” are substituted for the words “National Guard of the United States, Air National Guard of the United States, Organized Reserve Corps, Naval Reserve, Air Force Reserve, Marine Corps Reserve, Coast Guard Reserve, and theReserve Corps of the Public Health Service,” since all of those organizations, or their successors, are the reserve components of the uniformed services. The words “who is not entitled to basic pay under section 204 of this title” are substituted for section 301(e) as (applicable to basic pay) of existing title 37. The words “of a corresponding grade” are inserted for clarity.
+In subsection (a), the words “National Guard” are substituted for the words “National Guard, Air National Guard”, in section 301(a) of existing title 37, to conform to the definition of “National Guard” in section 101(6) of this revised title. The words “member of a reserve component of a uniformed service” are substituted for the words “National Guard of the United States, Air National Guard of the United States, Organized Reserve Corps, Naval Reserve, Air Force Reserve, Marine Corps Reserve, Coast Guard Reserve, and the Reserve Corps of the Public Health Service,” since all of those organizations, or their successors, are the reserve components of the uniformed services. The words “who is not entitled to basic pay under section 204 of this title” are substituted for section 301(e) as (applicable to basic pay) of existing title 37. The words “of a corresponding grade” are inserted for clarity.
 
 In subsection (b), the words “National Guard or reserve components” are substituted for the listing of organizations for the reasons set forth above. Reference to “classes of organization,” so far as they relate to the National Guard, are omitted, since there are no classes of organization of the National Guard.
 
@@ -118,5 +118,5 @@ Rations in kind when instruction or duty periods total at least 8 hours in calen
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 101, 204, 301, 301a, 301c, 304, 308d, 316, 402, 433, 707, 1012 of this title; title 10 sections 101, 1465, 1466, 12319; title 26 section 3121; title 31 section 698a; title 32 section 715; title 38 section 101; title 42 section 409.
+This section is referred to in sections 101, 204, 301, 301a, 301c, 304, 308d, 316, 320, 402, 433, 707, 1012 of this title; title 5 section 8440e; title 10 sections 101, 1076a, 1465, 1466, 12319; title 26 section 3121; title 31 section 698a; title 32 section 715; title 38 section 101; title 42 section 409.
 

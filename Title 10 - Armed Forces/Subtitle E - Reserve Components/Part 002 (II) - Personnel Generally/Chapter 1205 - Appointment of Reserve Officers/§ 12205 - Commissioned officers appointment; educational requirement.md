@@ -58,7 +58,7 @@ Pub. L. 105–261, div. A, title V, §516, Oct. 17, 1998, 112 Stat. 2008, provid
 
 “(a)
 
-Waiver Authority for Army OCS Graduates.—The Secretary of the Army may waive the applicability of section 12205(a) of title 10, United States Code, to any officer who before the date of the enactment of thisAct \[Oct. 17, 1998\] was commissioned through the Army Officer Candidate School. Any such waiver shall be made on a case-by-case basis, considering the individual circumstances of the officer involved, and may continue in effect for no more than 2 years after the waiver is granted. The Secretary may provide for such a waiver to be effective before the date of the waiver, as appropriate in an individual case.
+Waiver Authority for Army OCS Graduates.—The Secretary of the Army may waive the applicability of section 12205(a) of title 10, United States Code, to any officer who before the date of the enactment of this Act \[Oct. 17, 1998\] was commissioned through the Army Officer Candidate School. Any such waiver shall be made on a case-by-case basis, considering the individual circumstances of the officer involved, and may continue in effect for no more than 2 years after the waiver is granted. The Secretary may provide for such a waiver to be effective before the date of the waiver, as appropriate in an individual case.
 
 “(b)
 

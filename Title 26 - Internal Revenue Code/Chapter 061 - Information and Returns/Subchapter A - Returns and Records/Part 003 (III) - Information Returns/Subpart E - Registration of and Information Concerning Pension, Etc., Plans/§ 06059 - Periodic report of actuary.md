@@ -28,7 +28,7 @@ The actuarial report and statement required by this section shall be filed at th
 
 #### (d) Cross reference
 
-&emsp;&emsp;<b>For coordination between the Department of the Treasury and the Department of Labor with respect to the report required to be filed under this section, see section 3004 of title III of the Employee Retirement Income Security Act of 1974.</b>
+&emsp;&emsp;<b>For coordination between the Department of the Treasury and the Department of Labor with respect</b><b>to the report required to be filed under this section, see section 3004 of title III of the Employee Retirement Income Security Act of 1974.</b>
 
 (Added Pub. L. 93–406, title II, §1033(a), Sept. 2, 1974, 88 Stat. 947; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
@@ -42,7 +42,7 @@ Section 3004 of title III of the Employee Retirement Income Security Act of 1974
 
 #### Effective Date
 
-Requirements of section applicable only with respect to plan years to which part I of subtitle A of title II ofPub. L. 93–406 applies, see section 1034(1) of Pub. L. 93–406, set out as an note under section 6057 of this title. For a description of the plan years to which part 1 applies, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
+Requirements of section applicable only with respect to plan years to which part I of subtitle A of title II of Pub. L. 93–406 applies, see section 1034(1) of Pub. L. 93–406, set out as an note under section 6057 of this title. For a description of the plan years to which part 1 applies, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
 
 #### Consolidation of Actuarial Reports
 

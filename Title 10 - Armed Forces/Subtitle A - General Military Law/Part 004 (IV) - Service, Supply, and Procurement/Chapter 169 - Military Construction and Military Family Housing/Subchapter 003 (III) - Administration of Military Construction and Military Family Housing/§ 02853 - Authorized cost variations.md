@@ -26,7 +26,7 @@
 
 Pub. L. 100–26, §7(f)(2)(A), substituted “the minor project ceiling (as defined in subsection (f))” for “the amount specified by law as the maximum amount for a minor military construction project”.
 
-Pub. L. 100–26, §7(f)(2)(B), substituted “the minor project ceiling” for “the amount specified by law as themaximum amount for a minor military construction project”.
+Pub. L. 100–26, §7(f)(2)(B), substituted “the minor project ceiling” for “the amount specified by law as the maximum amount for a minor military construction project”.
 
 Subsec. (a)(2). Pub. L. 100–26, §7(f)(2)(B), substituted “the minor project ceiling” for “the amount specified by law as the maximum amount for a minor military construction project” in two places.
 

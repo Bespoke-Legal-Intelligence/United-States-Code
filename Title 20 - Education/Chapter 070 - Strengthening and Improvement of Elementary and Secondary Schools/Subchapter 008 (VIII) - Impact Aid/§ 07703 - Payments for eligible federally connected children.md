@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(i) at least 400 such children; or
 
-&emsp;&emsp;&emsp;(ii) a number of such children which equals at least 3 percent of the total number of children who were in average dailyattendance, during such year, at the schools of such agency and for whom such agency provided free public education.
+&emsp;&emsp;&emsp;(ii) a number of such children which equals at least 3 percent of the total number of children who were in average daily attendance, during such year, at the schools of such agency and for whom such agency provided free public education.
 
 #### (C) Maximum amount
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;(I) the percentage of federally connected children for each local educational agency determined by calculating the fraction, the numerator of which is the total number of children described under subsection (a)(1) of this section and the denominator of which is the total number of children in average daily attendance at the schools served by such agency; and
 
-&emsp;&emsp;&emsp;(II) the percentage that funds under paragraph (1)(C) represent of the total budget of the local educational agency, determined by calculating the fraction, the numerator of which is the total amount of funds calculated for each local educational agency under this paragraph (not including amounts received under subsection (f) of this section), and the denominator of which is the total current expenditures for such agency in the second preceding fiscal year for which the determination is made.
+&emsp;&emsp;&emsp;(II) the percentage that funds under paragraph (1)(C) represent of the total budget of the local educational agency, determined by calculating the fraction, the numerator of which is the total amount offunds calculated for each local educational agency under this paragraph (not including amounts received under subsection (f) of this section), and the denominator of which is the total current expenditures for such agency in the second preceding fiscal year for which the determination is made.
 
 &emsp;&emsp;(ii) Such total percentage used to calculate threshold payments under paragraph (1) shall not exceed 100.
 
@@ -190,7 +190,7 @@
 
 &emsp;&emsp;(II) has a tax rate for general fund purposes which is at least 95 percent of the average tax rate for general fund purposes of comparable local educational agencies in the State;
 
-&emsp;&emsp;(ii)(I) has an enrollment of federally connected children described in subsection (a)(1) of this section which constitutes at least 25percent of the total student enrollment of such agency. For purposes of this subclause, all students described in subsection (a)(1) of this section are used to determine eligibility, regardless of whether or not a local educational agency receives funds for these children from subsection (b) of this section; and
+&emsp;&emsp;(ii)(I) has an enrollment of federally connected children described in subsection (a)(1) of this section which constitutes at least 25 percent of the total student enrollment of such agency. For purposes of this subclause, all students described in subsection (a)(1) of this section are used to determine eligibility, regardless of whether or not a local educational agency receives funds for these children from subsection (b) of this section; and
 
 &emsp;&emsp;(II) has a tax rate for general fund purposes which is at least 125 percent of the average tax rate for general fund purposes of comparable local educational agencies in the State; or
 
@@ -210,7 +210,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Secretary shall determine the maximum amount that a local educational agency may receive under this subsection (other than any amount received under paragraph (2)(B)) in accordance with the following computations:
+&emsp;&emsp;Subject to subparagraph (B), the Secretary shall determine the maximum amount that a local educational agency may receive under this subsection (other than anyamount received under paragraph (2)(B)) in accordance with the following computations:
 
 &emsp;&emsp;&emsp;(i) The Secretary, in conjunction with the local educational agency, shall first determine each of the following:
 
@@ -244,7 +244,7 @@
 
 &emsp;&emsp;&emsp;(i) the product of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the average per-pupil expenditure in all States multiplied by 0.7, except thatsuch amount may not exceed 125 percent of the average per-pupil expenditure in all local educational agencies in the State; multiplied by
+&emsp;&emsp;&emsp;&emsp;(I) the average per-pupil expenditure in all States multiplied by 0.7, except that such amount may not exceed 125 percent of the average per-pupil expenditure in all local educational agencies in the State; multiplied by
 
 &emsp;&emsp;&emsp;&emsp;(II) the number of students described in subparagraph (A) or (B) of subsection (a)(1) of this section for such agency; minus
 
@@ -296,7 +296,7 @@ A local educational agency may receive funds under subsection (b) of this sectio
 
 #### References in Text
 
-Act of September 30, 1950, referred to in subsecs. (b)(1)(C)(iii), (e)(1), (3), and (h), is act Sept. 30, 1950, ch.1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§236 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. Sections 3 and 6 of the Act (as such Act was in effect on the day preceding October 20, 1994) were classified to sections 238 and 241, respectively, of this title. For complete classification of this Act to the Code, see Tables.
+Act of September 30, 1950, referred to in subsecs. (b)(1)(C)(iii), (e)(1), (3), and (h), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§236 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. Sections 3 and 6 of the Act (as such Act was in effect on the day preceding October 20, 1994) were classified to sections 238 and 241, respectively, of this title. For complete classification of this Act to the Code, see Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (d), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
@@ -372,7 +372,7 @@ Section 5(c) of Pub. L. 104–195 provided that: “The amendments made by subse
 
 #### Assistance to Local Educational Agencies That Benefit Dependents of Members of Armed Forces and Department of Defense Civilian Employees
 
-Pub. L. 102–484, div. A, title III, §386, Oct. 23, 1992, 106 Stat. 2394, as amended by Pub. L. 103–160, div. A, title III, §373(a), (b), Nov. 30, 1993, 107 Stat. 1635, 1636; Pub. L. 103–382, title III, §391(d), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 104–106, div. A, title X, §1074(c)–(e), (h), Feb. 10, 1996, 110 Stat. 448, 449; Pub. L. 105–85, div. A, title III, §381(e), Nov. 18, 1997, 111 Stat. 1709, provided that:
+Pub. L. 102–484, div. A, title III, §386, Oct. 23, 1992, 106 Stat. 2394, as amended by Pub. L. 103–160, div. A, title III, §373(a), (b), Nov. 30, 1993, 107 Stat. 1635, 1636; Pub. L. 103–382, title III, §391(d), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 104–106, div. A, title X, §1074(c)–(e), (h), Feb. 10, 1996, 110 Stat. 448, 449; Pub. L. 105–85, div. A, title III, §381(e), Nov. 18, 1997, 111 Stat. 1709; Pub. L. 106–65, div. A, title III, §351(e), Oct. 5, 1999, 113 Stat. 572, provided that:
 
 “(a)
 
@@ -386,7 +386,7 @@ Schools With Significant Numbers of Military Dependent Students.—The Secretary
 
 Eligible Local Educational Agencies.—A local educational agency is eligible for assistance under subsection (b) for a fiscal year if—
 
-&emsp;“(1) at least 20 percent (as rounded to the nearest whole percent) of the students in average daily attendance in the schools of that agency in that fiscal year are military dependent students counted under section 8003(a)(1) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7703(a)(1));
+&emsp;“(1) at least 20 percent (as rounded to the nearest whole percent) of the students in average daily attendance in the schools of that agency during the preceding school year were military dependent students counted under section 8003(a)(1) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7703(a)(1));
 
 &emsp;“(2) there has been a significant increase, as determined by the Secretary of Defense, in the number of military dependent students in average daily attendance in the schools of that agency as a result of a relocation of Armed Forces personnel or civilian employees of the Department of Defense or as a result of a realignment of one or more military installations; or
 
@@ -398,7 +398,7 @@ Eligible Local Educational Agencies.—A local educational agency is eligible fo
 
 “(d)
 
-Adjustments Related to Base Closures and Realignments.—To assist communities in making adjustments resulting from reductions in the size of the Armed Forces, the Secretary of Defense shall, in consultation with the Secretary of Education, make payments to local educational agencies that, during the period between the end of the school year preceding the fiscal year for which the payments are authorized and the beginning of the school year immediately preceding that school year, had an overall reduction of not less than 20 percent in the number of military dependent students as a result of the closure or realignment of military installations.
+Adjustments Related to Base Closures and Realignments.—To assist communities in making adjustments resulting from reductions in the size of the Armed Forces, the Secretary of Defense shall, in consultation with the Secretary of Education, make payments to local educational agencies that, during the period between the end of the school year preceding the fiscal year for which the payments are authorized andthe beginning of the school year immediately preceding that school year, had an overall reduction of not less than 20 percent in the number of military dependent students as a result of the closure or realignment of military installations.
 
 “(e)
 
@@ -432,7 +432,7 @@ Funding.—Of the amounts appropriated for the Department of Defense for operati
 
 Limitation on Transfer and Obligation of Funds.—(1) The amount made available pursuant to subsection (f)(2) for adjustment assistance related to base closures and realignments under subsection (d) may be obligated for such adjustment assistance only if expenditures for that adjustment assistance for fiscal year 1993 have been determined by the Director of the Office of Management and Budget to be counted against the defense category of the discretionary spending limits for fiscal year 1993 (as defined in section 601(a)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 665(a)(2)\]) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\].
 
-“(2) Not later than the third day after the date of the enactment of this Act \[Oct. 23, 1992\], the Director of the Office of Management and Budget shall make a determination as to the classification by discretionary spending limit category for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 \[see Short Title note set out under section 900 of Title 2, The Congress\] of the amount appropriated for adjustment assistance related to base closures and realignments under subsection (d). If the Director determines that the amount shall not classify against the defensecategory (as described in paragraph (1)), then the President shall submit to Congress a report stating that the Director has made such a determination and the amount that will not classify against the defense category and containing an explanation for the determination.
+“(2) Not later than the third day after the date of the enactment of this Act \[Oct. 23, 1992\], the Director of the Office of Management and Budget shall make a determination as to the classification by discretionary spending limit category for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 \[see Short Title note set out under section 900 of Title 2, The Congress\] of the amount appropriated for adjustment assistance related to base closures and realignments under subsection (d). If the Director determines that the amount shall not classify against the defense category (as described in paragraph (1)), then the President shall submit to Congress a report stating that the Director has made such a determination and the amount that will not classify against the defense category and containing an explanation for the determination.
 
 “(3) The amount listed in the report under paragraph (2) may be transferred only to the programs under title III \[see Tables for classification\] other than the program under subsection (d) pursuant to amounts specified in appropriation Acts. Any such transfer shall be taken into account for purposes of calculating all reports under section 254 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 904\].
 

@@ -26,7 +26,7 @@ The Secretary is authorized to issue such regulations as the Secretary determine
 
 The Secretary shall carry out the special program through the Commodity Credit Corporation.
 
-(Oct. 31, 1949, ch. 792, title I, §109, as added Pub. L. 95–113, title X, §1004, Sept. 29, 1977, 91 Stat. 950; amended Pub. L. 97–98, title XI, §1110, Dec.22, 1981, 95 Stat. 1267; Pub. L. 99–198, title X, §1015, Dec. 23, 1985, 99 Stat. 1457.)
+(Oct. 31, 1949, ch. 792, title I, §109, as added Pub. L. 95–113, title X, §1004, Sept. 29, 1977, 91 Stat. 950; amended Pub. L. 97–98, title XI, §1110, Dec. 22, 1981, 95 Stat. 1267; Pub. L. 99–198, title X, §1015, Dec. 23, 1985, 99 Stat. 1457.)
 
 #### Amendments
 

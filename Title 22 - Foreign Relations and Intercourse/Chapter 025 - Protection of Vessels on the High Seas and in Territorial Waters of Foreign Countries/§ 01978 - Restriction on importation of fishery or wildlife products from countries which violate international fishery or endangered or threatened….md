@@ -14,7 +14,7 @@
 
 &emsp;(C) promptly conclude; and reach a decision with respect to; any investigation commenced under subparagraph (B).
 
-(4) Upon receipt of any certification made under paragraph (1) or (2), the President may direct the Secretary of the Treasury to prohibit the bringing or the importation into the United States of any products from the offending country for any duration as the President determines appropriate and to the extent that such prohibition is sanctioned by the General Agreement on Tariffs and Trade.
+(4) Upon receipt of any certification made under paragraph (1) or (2), the President may direct the Secretary of the Treasury to prohibit the bringing or the importation into the United States of any products from the offending country for any duration as the President determines appropriate and to the extent that such prohibition is sanctioned by the World Trade Organization (as defined in section 3501(8) of title 19) or the multilateral trade agreements (as defined in section 3501(4) of title 19).
 
 #### (b) Notification to Congress
 
@@ -66,7 +66,7 @@ As used in this section—
 
 &emsp;(3) The term “international fishery conservation program” means any ban, restriction, regulation, or other measure in effect pursuant to a bilateral or multilateral agreement which is in force with respect to the United States, the purpose of which is to conserve or protect the living resources of the sea, including marine mammals.
 
-&emsp;(4) The term “international program for endangered or threatened species” means any ban, restriction, regulation, or other measure in effect pursuant to a multilateral agreement which is in force with respect to the United States, the purpose of which is to protect endangered or threatened species of animals.
+&emsp;(4) The term “international program for endangered or threatened species” means any ban, restriction, regulation, or other measure in effect pursuant to a multilateral agreementwhich is in force with respect to the United States, the purpose of which is to protect endangered or threatened species of animals.
 
 &emsp;(5) The term “taking”, as used with respect to animals to which an international program for endangered or threatened species applies, means to—
 
@@ -74,13 +74,15 @@ As used in this section—
 
 &emsp;&emsp;(B) attempt to harass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect.
 
-(Aug. 27, 1954, ch. 1018, §8, as added Pub. L. 92–219, Dec. 23, 1971, 85 Stat. 786; amended Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 95–376, §2, Sept. 18, 1978, 92 Stat. 714; Pub. L. 96–61, §3(b), Aug. 15, 1979, 93 Stat. 408; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–711, §8, Nov. 23, 1988, 102 Stat. 4772; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–582, title II, §201, Nov. 2, 1992, 106 Stat. 4904.)
+(Aug. 27, 1954, ch. 1018, §8, as added Pub. L. 92–219, Dec. 23, 1971, 85 Stat. 786; amended Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 95–376, §2, Sept. 18, 1978, 92 Stat. 714; Pub. L. 96–61, §3(b), Aug. 15, 1979, 93 Stat. 408; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–711, §8, Nov. 23, 1988, 102 Stat. 4772; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–582, title II, §201, Nov. 2, 1992, 106 Stat. 4904; Pub. L. 106–36, title I, §1002(d), June 25, 1999, 113 Stat. 133.)
 
 #### References in Text
 
 The customs laws, referred to in subsec. (e)(3), are classified generally to Title 19, Customs Duties.
 
 #### Amendments
+
+1999—Subsec. (a)(4). Pub. L. 106–36 substituted “World Trade Organization (as defined in section 3501(8) of title 19) or the multilateral trade agreements (as defined in section 3501(4) of title 19)” for “General Agreement on Tariffs and Trade”.
 
 1992—Subsec. (a)(4). Pub. L. 102–582, §201(a)(1), substituted “any products from the offending country for any duration” for “fish products (if the certification is made under paragraph (1)) or wildlife products (if the certification is made under paragraph (2)) from the offending country for such duration”.
 

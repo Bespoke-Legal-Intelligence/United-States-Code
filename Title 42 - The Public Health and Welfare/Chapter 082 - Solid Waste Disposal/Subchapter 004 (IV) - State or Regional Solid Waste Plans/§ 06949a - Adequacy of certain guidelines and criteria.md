@@ -22,7 +22,7 @@ Not later than thirty-six months after November 8, 1984, the Administrator shall
 
 &emsp;&emsp;(B) the municipal solid waste landfill unit or expansion serves—
 
-&emsp;&emsp;&emsp;(i) a community that experiences an annual interruption of at least 3 consecutive months of surface transportation that prevents access to a regional waste management facility; or
+&emsp;&emsp;&emsp;(i) a community that experiences an annual interruption of at least 3 consecutivemonths of surface transportation that prevents access to a regional waste management facility; or
 
 &emsp;&emsp;&emsp;(ii) a community that has no practicable waste management alternative and the landfill unit is located in an area that annually receives less than or equal to 25 inches of precipitation.
 
@@ -30,7 +30,7 @@ Not later than thirty-six months after November 8, 1984, the Administrator shall
 
 #### (A) Monitoring requirement
 
-&emsp;&emsp;A State may require ground water monitoring of a solid waste landfill unit thatwould otherwise be exempt under paragraph (2) if necessary to protect ground water resources and ensure compliance with a State ground water protection plan, where applicable.
+&emsp;&emsp;A State may require ground water monitoring of a solid waste landfill unit that would otherwise be exempt under paragraph (2) if necessary to protect ground water resources and ensure compliance with a State ground water protection plan, where applicable.
 
 #### (B) Methods
 

@@ -4,7 +4,7 @@
 
 (1) Each insured State nonmember bank (except a District bank) and each foreign bank having an insured branch which is not a Federal branch shall make to the Corporation reports of condition which shall be in such form and shall contain such information as the Board of Directors may require. Such reports shall be made to the Corporation on the dates selected as provided in paragraph (3) of this subsection and the deposit liabilities shall be reported therein in accordance with and pursuant to paragraphs (4) and (5) of this subsection. The Board of Directors may call for additional reports of condition on dates to be fixed by it and may call for such other reports as the Board may from time to time require. Any such bank which (A) maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such an error, fails to make or publish any report required under this paragraph, within the period of time specified by the Corporation, or submits or publishes any false or misleading report or information, or (B) inadvertently transmits or publishes any report which is minimally late, shall be subject to a penalty of not more than $2,000 for each day during which such failure continues or such false or misleading information is not corrected. Such bank shall have the burden of proving that an error was inadvertent and that a report was inadvertently transmitted or published late. Any such bank which fails to make or publish any report required under this paragraph, within the period of time specified by the Corporation, or submits or publishes any false or misleading report or information, in a manner not described in the 2nd preceding sentence shall be subject to a penalty of not more than $20,000 for each day during which such failure continues or such false or misleading information is not corrected. Notwithstanding the preceding sentence, if any such bank knowingly or with reckless disregard for the accuracy of any information or report described in such sentence submits or publishes any false or misleading report or information, the Corporation may assess a penalty of not more than $1,000,000 or 1 percent of total assets of such bank, whichever is less, per day for each day during which such failure continues or such false or misleading information is not corrected. Any penalty imposed under any of the 4 preceding sentences shall be assessed and collected by the Corporation in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title (for penalties imposed under such section) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such section. Any such bank against which any penalty is assessed under this subsection shall be afforded an agency hearing if such bank submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1818(h) of this title shall apply to any proceeding under this paragraph.
 
-(2)(A) The Corporation and, with respect to any State depository institution, any appropriate State bank supervisor for such institution, shall have access to reports of examination made by, and reports of condition made to, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Federal Housing Finance Board, any Federal home loan bank, or any Federal Reserve bank and to all revisions of reports of condition made to any of them, and they shall promptly advise the Corporation of any revisions or changes in respect to deposit liabilities made or required to be made in any report of condition. The Corporation may acceptany report made by or to any commission, board, or authority having supervision of a depository institution, and may furnish to the Comptroller of the Currency, the <sup>1</sup> Director of the Office of Thrift Supervision, the <sup>1</sup> Federal Housing Finance Board, any <sup>1</sup> Federal home loan bank, to any Federal Reserve bank, and to any such commission, board, or authority, reports of examinations made on behalf of, and reports of condition made to, the Corporation.
+(2)(A) The Corporation and, with respect to any State depository institution, any appropriate State bank supervisor for such institution, shall have access to reports of examination made by, and reports of condition made to, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Federal Housing Finance Board, any Federal home loan bank, or any Federal Reserve bank and to all revisions of reports of condition made to any of them, and they shall promptly advise the Corporation of any revisions or changes in respect to deposit liabilities made or required to be made in any report of condition. The Corporation may accept any report made by or to any commission, board, or authority having supervision of a depository institution, and may furnish to the Comptroller of the Currency, the <sup>1</sup> Director of the Office of Thrift Supervision, the <sup>1</sup> Federal Housing Finance Board, any <sup>1</sup> Federal home loan bank, to any Federal Reserve bank, and to any such commission, board, or authority, reports of examinations made on behalf of, and reports of condition made to, the Corporation.
 
 (B)
 
@@ -14,7 +14,7 @@ Additional reports.—The Board of Directors may from time to time require any i
 
 (4) In the reports of condition required to be made by paragraph (3) of this subsection, each insured depository institution shall report the total amount of the liability of the depository institution for deposits in the main office and in any branch located in any State of the United States, the District of Columbia, any Territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Virgin Islands, according to the definition of the term “deposit” in and pursuant to subsection (<i>l</i>) of section 1813 of this title without any deduction for indebtedness of depositors or creditors or any deduction for cash items in the process of collection drawn on others than the reporting depository institution: <i>Provided</i>, That the depository institution in reporting such deposits may (i) subtract from the deposit balance due to any depository institution the deposit balance due from the same depository institution (other than trust funds deposited by either depository institution) and any cash items in the process of collection due from or due to such depository institutions shall be included in determining such net balance, except that balances of time deposits of any depository institution and any balances standing to the credit of private depository institutions, of depository institutions in foreign countries, of foreign branches of other American depository institutions, and of American branches of foreign banks shall be reported gross without any such subtraction, and (ii) exclude any deposits received in any office of the depository institution for deposit in any other office of the depository institution: <i>And provided further</i>, That outstanding drafts (including advices and authorizations to charge depository institution's balance in another depository institution) drawn in the regular course of business by the reporting depository institution on depository institutions need not be reported as deposit liabilities. The amount of trust funds held in the depository institution's own trust department, which the reporting depository institution keeps segregated and apart from its general assets and does not use in the conduct of its business, shall not be included in the total deposits in such reports, but shall be separately stated in such reports. Deposits which are accumulated for the payment of personal loans and are assigned or pledged to assure payment of loans at maturity shall not be included in the total deposits in such reports, but shall be deducted from the loans for which such deposits are assigned or pledged to assure repayment.
 
-(5) The deposits to be reported on such reports of condition shall be segregated between (i) time and savings deposits and (ii) demand deposits. For this purpose, the time and savings deposits shall consist of time certificates of deposit, time deposits-open account, and savings deposits; and demand deposits shall consist of all deposits other than time and savings deposits.
+(5) The deposits to be reported on such reports of condition shall be segregated between (i) time and savings deposits and (ii) demand deposits. For this purpose, the time and savings depositsshall consist of time certificates of deposit, time deposits-open account, and savings deposits; and demand deposits shall consist of all deposits other than time and savings deposits.
 
 (6)
 
@@ -168,7 +168,7 @@ Data collections.—In addition to or in connection with any other report requir
 
 #### (B) Recapitalization schedules
 
-&emsp;&emsp;For purposes of subparagraph (A)(ii), the Corporation shall by regulation promulgate a schedule that specifies, at semiannual intervals, target reserve ratios for that fund, culminating in a reserve ratio that is equal to the designated reserve ratio not later than 15 years after the date on which the schedule is implemented.
+&emsp;&emsp;For purposes of subparagraph (A)(ii), the Corporation shall by regulation promulgate a schedule that specifies, at semiannual intervals, target reserve ratios for that fund, culminating in a reserve ratio that is equalto the designated reserve ratio not later than 15 years after the date on which the schedule is implemented.
 
 #### (C) Amending schedule
 
@@ -244,7 +244,7 @@ Data collections.—In addition to or in connection with any other report requir
 
 &emsp;&emsp;&emsp;(ii) submits the statement at a time which is minimally after the time required in such paragraph,
 
-> &emsp;&emsp;shall be subject to a penalty of not more than $2,000 for each day during which such failure continues or such false and misleading information is not corrected. The institution shall have the burden of proving that an error was inadvertent or that a statement was inadvertently submitted late.
+> &emsp;&emsp;shall be subject to a penalty of not more than $2,000 for each day during which suchfailure continues or such false and misleading information is not corrected. The institution shall have the burden of proving that an error was inadvertent or that a statement was inadvertently submitted late.
 
 #### (B) Second tier
 
@@ -252,7 +252,7 @@ Data collections.—In addition to or in connection with any other report requir
 
 #### (C) Third tier
 
-&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), if any insured depository institutionknowingly or with reckless disregard for the accuracy of any certified statement described in paragraph (1) submits a false or misleading certified statement under paragraph (1), the Corporation may assess a penalty of not more than $1,000,000 or not more than 1 percent of the total assets of the institution, whichever is less, per day for each day during which the failure continues or the false or misleading information in such statement is not corrected.
+&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), if any insured depository institution knowingly or with reckless disregard for the accuracy of any certified statement described in paragraph (1) submits a false or misleading certified statement under paragraph (1), the Corporation may assess a penalty of not more than $1,000,000 or not more than 1 percent of the total assets of the institution, whichever is less, per day for each day during which the failure continues or the false or misleading information in such statement is not corrected.
 
 #### (D) Assessment procedure
 
@@ -302,7 +302,7 @@ Any insured depository institution which fails to make any report of condition u
 
 #### (g) Action by Corporation to recover assessments
 
-The Corporation, in a suit brought at law or in equity in any court of competent jurisdiction, shall be entitled to recover from any insured depository institution the amount of any unpaid assessment lawfully payable by such insured depository institution to the Corporation, whether or not such depository institution shall have made any such report of condition under subsection (a) of this section or filed any such certified statement and whether or not suit shall have been brought to compel the depository institution to make any such report or file any such statement. No action or proceeding shall be brought for the recovery of any assessment due to the Corporation, or for the recovery of any amount paid to the Corporation in excess of the amount due to it, unless such action or proceeding shall have been brought within five years after the right accrued for which the claim is made, except where the insured depository institution has made or filed with the Corporation a false or fraudulent certified statement with the intent to evade, in whole or in part, the payment of assessment, in which case the claim shall not be deemed to have accrued until the discovery by the Corporation that the certified statement is false or fraudulent: <i>Provided, however</i>, That where a cause of action has already accrued, and the period herein prescribed within which an action may be brought has expired, orwill expire within one year from September 21, 1950, an action may be brought on such cause of action within one year from September 21, 1950: <i>And provided further</i>, That no action or proceeding shall be brought for the recovery of any assessment on deposits alleged to have been omitted from the assessment base of any insured depository institution for any year prior to 1945 except that any claim of the Corporation for the payment of any assessment may be offset by it against any claim of the depository institution for the overpayment of any assessment.
+The Corporation, in a suit brought at law or in equity in any court of competent jurisdiction, shall be entitled to recover from any insured depository institution the amount of any unpaid assessment lawfully payable by such insured depository institution to the Corporation, whether or not such depository institution shall have made any such report of condition under subsection (a) of this section or filed any such certified statement and whether or not suit shall have been brought to compel the depository institution to make any such report or file any such statement. No action or proceeding shall be brought for the recovery of any assessment due to the Corporation, or for the recovery of any amount paid to the Corporation in excess of the amount due to it, unless such action or proceeding shall have been brought within five years after the right accrued for which the claim is made, except where the insured depository institution has made or filed with the Corporation a false or fraudulent certified statement with the intent to evade, in whole or in part, the payment of assessment, in which case the claim shall not be deemed to have accrued until the discovery by the Corporation that the certified statement is false or fraudulent: <i>Provided, however</i>, That where a cause of action has already accrued, and the period herein prescribed within which an action may be brought has expired, or will expire within one year from September 21, 1950, an action may be brought on such cause of action within one year from September 21, 1950: <i>And provided further</i>, That no action or proceeding shall be brought for the recovery of any assessment on deposits alleged to have been omitted from the assessment base of any insured depository institution for any year prior to 1945 except that any claim of the Corporation for the payment of any assessment may be offset by it against any claim of the depository institution for the overpayment of any assessment.
 
 #### (h) Forfeiture of rights for failure to comply with law
 
@@ -342,7 +342,7 @@ Should any national member bank or any insured national nonmember bank fail to m
 
 (2)(A)
 
-Notice to State Agency.—Upon receiving any notice under this subsection, the appropriate Federal banking agency shall forward a copy thereof to the appropriate State depository institution supervisory agency if the depository institution the voting shares of which are sought to be acquired is a State depository institution, and shall allow thirty days within which the views and recommendations of such State depository institution supervisory agency may be submitted. The appropriate Federal banking agency shall give due consideration to the views and recommendations of such State agency in determining whether to disapprove any proposed acquisition. Notwithstanding the provisions of this paragraph, if the appropriate Federal banking agency determines that it must act immediately upon any notice of a proposed acquisition in order to prevent the probable default of the depository institution involved in the proposed acquisition, such Federal banking agency may dispense with the requirements of this paragraph or, if a copy of the notice is forwarded to the State depository institution supervisory agency, such Federal banking agency may request that the views and recommendations of such State depository institution supervisory agency be submitted immediately in anyform or by any means acceptable to such Federal banking agency.
+Notice to State Agency.—Upon receiving any notice under this subsection, the appropriate Federal banking agency shall forward a copy thereof to the appropriate State depository institution supervisory agency if the depository institution the voting shares of which are sought to be acquired is a State depository institution, and shall allow thirty days withinwhich the views and recommendations of such State depository institution supervisory agency may be submitted. The appropriate Federal banking agency shall give due consideration to the views and recommendations of such State agency in determining whether to disapprove any proposed acquisition. Notwithstanding the provisions of this paragraph, if the appropriate Federal banking agency determines that it must act immediately upon any notice of a proposed acquisition in order to prevent the probable default of the depository institution involved in the proposed acquisition, such Federal banking agency may dispense with the requirements of this paragraph or, if a copy of the notice is forwarded to the State depository institution supervisory agency, such Federal banking agency may request that the views and recommendations of such State depository institution supervisory agency be submitted immediately in any form or by any means acceptable to such Federal banking agency.
 
 (B)
 
@@ -382,7 +382,7 @@ Public Comment.—Upon receiving notice of a proposed acquisition, the appropria
 
 &emsp;(D) The identity, source and amount of the funds or other consideration used or to be used in making the acquisition, and if any part of these funds or other consideration has been or is to be borrowed or otherwise obtained for the purpose of making the acquisition, a description of the transaction, the names of the parties, and any arrangements, agreements, or understandings with such persons.
 
-&emsp;(E) Any plans or proposals which any acquiring party making the acquisition may have to liquidate the bank,<sup>3</sup> to sell its assets or merge it with any company or to make any other major change in its business or corporate structure or management.
+&emsp;(E) Any plans or proposals which any acquiring party making the acquisition may have to liquidate the bank,<sup>3</sup> to sell its assets or mergeit with any company or to make any other major change in its business or corporate structure or management.
 
 &emsp;(F) The identification of any person employed, retained, or to be compensated by the acquiring party, or by any person on his behalf, to make solicitations or recommendations to stockholders for the purpose of assisting in the acquisition, and a brief description of the terms of such employment, retainer, or arrangement for compensation.
 
@@ -704,7 +704,7 @@ For purposes of this section:
 
 #### (7) Savings association's pro rata amount
 
-&emsp;For purposes of this subsection, any savings association's pro rata share of the statutorily prescribed amount is the percentage which is equal to such association's share of the secondary reserve as determined under section 404(e) <sup>4</sup> of the National Housing Act on the day before the date on which the Federal Savings and Loan Insurance Corporation ceased to recognize the secondary reserve (as such Act \[12 U.S.C. 1701 et seq.\] was in effect on the day before such date).
+&emsp;For purposes of this subsection, any savings association's pro rata share of the statutorily prescribed amount is the percentage which is equal to such association's share of the secondary reserve as determined under section 404(e) <sup>4</sup> of the National Housing Act on the day before the date on which the Federal Savings and Loan Insurance Corporation ceased to recognize the secondary reserve (as such Act \[12U.S.C. 1701 et seq.\] was in effect on the day before such date).
 
 #### (8) Year of enactment rule
 
@@ -910,7 +910,7 @@ Deadline for announcing rate changes.—The Corporation shall announce any chang
 
 &emsp;“(II) for the semiannual period beginning on July 1 and ending on December 31, not later than the preceding May 1.”
 
-Subsec. (b)(1)(C). Pub. L. 102–242, §104(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “
+Subsec. (b)(1)(C). Pub. L. 102–242, §104(a), amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: “
 
 Assessment rate for bank insurance fund members.—
 
@@ -930,7 +930,7 @@ Factors to be considered.—In making any determination under clause (i), the Bo
 
 Minimum assessment.—Notwithstanding clause (i), the assessment shall not be less than $1,000 for each member in each year.”
 
-Subsec. (b)(2)(A)(i)(II). Pub. L. 102–242, §232(b)(3)(A), added subcl. (II) and struck out former subcl. (II) whichread as follows: “such Bank Insurance Fund member's average assessment base for the immediately preceding semiannual period; and”.
+Subsec. (b)(2)(A)(i)(II). Pub. L. 102–242, §232(b)(3)(A), added subcl. (II) and struck out former subcl. (II) which read as follows: “such Bank Insurance Fund member's average assessment base for the immediately preceding semiannual period; and”.
 
 Subsec. (b)(2)(A)(ii)(II). Pub. L. 102–242, §232(b)(3)(B), added subcl. (II) and struck out former subcl. (II) which read as follows: “such Savings Association Insurance Fund member's average assessment base for the immediately preceding semiannual period.”
 
@@ -1128,7 +1128,7 @@ Subsec. (a)(3). Pub. L. 95–630, §302, substituted “the signatures of at lea
 
 Pub. L. 95–369, §6(c)(9), inserted “and each foreign bank having an insured branch (other than a Federal branch)” after “(except a District Bank)” and “each foreign bank having an insured branch which is a Federal branch” after “each insured national bank”.
 
-Subsec. (a)(4). Pub. L. 95–630, §310(a), inserted provision that deposits which are accumulated for payment of personal loans and are assigned or pledged to assure payment of loans at maturity not be included in total deposits in such reports, but shall be deducted from loans for which such deposits are assigned or pledged to assure repayment.
+Subsec. (a)(4). Pub. L. 95–630, §310(a), inserted provision that deposits which are accumulated for payment of personal loans and are assigned or pledged to assure payment of loans at maturity not be included in totaldeposits in such reports, but shall be deducted from loans for which such deposits are assigned or pledged to assure repayment.
 
 Subsec. (a)(5). Pub. L. 95–630, §310(b), struck out “deposits accumulated for the payment of personal loans,” after “deposit-open account,”.
 
@@ -1138,7 +1138,7 @@ Subsec. (b)(4). Pub. L. 95–369, §6(c)(11), designated existing provisions as 
 
 Subsec. (b)(6). Pub. L. 95–630, §310(c), redesignated subpars. (C) and (D) as (B) and (C) and struck out former subpar. (B) which related to deposits included in reported deposit liabilities which are accumulated for the payment of personal loans and are assigned or pledged to assure repayment of the loans at maturity.
 
-Subsec. (j). Pub. L. 95–630, §602, amended subsec. (j) generally, substituting provisions relating to the requirement that no person shall acquire control of any insured bank unless the appropriate Federal agency is notified 60 days prior to such transfer and authorizing the appropriate Federal agency to approve or disapprove such transfer for provisions relating to the requirement that notification of a transfer of control ofan insured bank be given to the appropriate Federal agency after such transfer.
+Subsec. (j). Pub. L. 95–630, §602, amended subsec. (j) generally, substituting provisions relating to the requirement that no person shall acquire control of any insured bank unless the appropriate Federal agency is notified 60 days prior to such transfer and authorizing the appropriate Federal agency to approve or disapprove such transfer for provisions relating to the requirement that notification of a transfer of control of an insured bank be given to the appropriate Federal agency after such transfer.
 
 Subsec. (j)(1). Pub. L. 95–369, §6(c)(12), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B) of this paragraph, whenever” for “Whenever”, and added subpar. (B).
 
@@ -1198,7 +1198,7 @@ Sections 1603(a)(3) and 1605(a)(6) of Pub. L. 102–550, which provided effectiv
 
 Section 1605(b)(2) of Pub. L. 102–550 provided that the amendment made by that section is effective on the effective date of the amendment made by section 302(b) of Pub. L. 102–242. See Effective Date of 1991 Amendment note below.
 
-Amendment by sections 1603(a)(1), 1604(b)(1), (3), 1605(a)(2), (5)(A), (b)(1), 1606(i)(1) of Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, except that where amendment is to any provision of law added or amended by Pub. L. 102–242 effective after Dec. 19, 1992, then amendment by Pub. L. 102–550 effective on effective date of amendment by Pub. L. 102–242, see section 1609 of Pub. L. 102–550, set out as a note under section 191 of this title.
+Amendment by sections 1603(a)(1), 1604(b)(1), (3), 1605(a)(2), (5)(A), (b)(1), 1606(i)(1) of Pub. L. 102–550 effective as if included in the Federal Deposit InsuranceCorporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, except that where amendment is to any provision of law added or amended by Pub. L. 102–242 effective after Dec. 19, 1992, then amendment by Pub. L. 102–550 effective on effective date of amendment by Pub. L. 102–242, see section 1609 of Pub. L. 102–550, set out as a note under section 191 of this title.
 
 #### Effective Date of 1991 Amendment
 
@@ -1294,7 +1294,7 @@ Factors To Be Considered.—In carrying out subsection (a), the Board of Directo
 
 “(c)
 
-Date of Determination.—For purposes of subsection (a), the amount of the SAIF-assessable depositsof an insured depository institution shall be determined as of March 31, 1995.
+Date of Determination.—For purposes of subsection (a), the amount of the SAIF-assessable deposits of an insured depository institution shall be determined as of March 31, 1995.
 
 “(d)
 
@@ -1394,7 +1394,7 @@ Election authorized.—If—
 
 &emsp;“(2) 1
 
-st assessment.—An insured depository institution which makes an election under paragraph (1) shall pay an assessment in an amount equal to 50 percent of the amount of the special assessment that would otherwise apply under subsection (a), by the date on which such special assessment is payable under subsection (d).
+st assessment.—An insured depository institution which makes an election under paragraph (1) shall pay an assessment in an amount equal to 50 percent of the amount of the special assessment thatwould otherwise apply under subsection (a), by the date on which such special assessment is payable under subsection (d).
 
 &emsp;“(3) 2
 
@@ -1406,7 +1406,7 @@ Due date of 2d assessment.—The date established by the Board of Directors for 
 
 &emsp;“(5)
 
-Supplemental special assessment.—An insured depository institution which makes an electionunder paragraph (1) shall pay a supplemental special assessment, at the same time the payment under paragraph (3) is made, in an amount equal to the product of—
+Supplemental special assessment.—An insured depository institution which makes an election under paragraph (1) shall pay a supplemental special assessment, at the same time the payment under paragraph (3) is made, in an amount equal to the product of—
 
 &emsp;&emsp;“(A) 50 percent of the rate determined by the Board of Directors under subsection (a) for determining the amount of the special assessment; and
 
@@ -1500,7 +1500,7 @@ Nothing contained in section 201 of Pub. L. 89–695, which amended this section
 
 #### Cross References
 
-Penalties for making or inviting reliance on false, forged, or counterfeit statement, document, or thing, to influence action of Federal Deposit Insurance Corporation, see section 1007 of Title 18, Crimes and Criminal Procedure.
+Penalties for making or inviting reliance on false, forged, or counterfeit statement, document, or thing,to influence action of Federal Deposit Insurance Corporation, see section 1007 of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

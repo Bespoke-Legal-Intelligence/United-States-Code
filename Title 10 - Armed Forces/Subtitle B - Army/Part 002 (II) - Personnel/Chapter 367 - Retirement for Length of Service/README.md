@@ -10,7 +10,8 @@
 | [3918\.](%C2%A7%2003918%20-%20Thirty%20years%20or%20more%20regular%20commissioned%20officers.md) | Thirty years or more: regular commissioned officers. |
 | \[3919. | Repealed.\] |
 | [3920\.](%C2%A7%2003920%20-%20More%20than%20thirty%20years%20permanent%20professors%20and%20the%20Director%20of%20Admissions%20of%20the%20United%20States%20Military%20Academy.md) | More than thirty years: permanent professors and the Director of Admissions of the United States Military Academy. |
-| \[3921 to 3923. Repealed.\] |  |
+| [3921\.](%C2%A7%2003921%20-%20Mandatory%20retirement%20Superintendent%20of%20the%20United%20States%20Military%20Academy.md) | Mandatory retirement: Superintendent of the United States Military Academy. |
+| \[3922, 3923. Repealed.\] |  |
 | [3924\.](%C2%A7%2003924%20-%20Forty%20years%20or%20more%20Army%20officers.md) | Forty years or more: Army officers. |
 | [3925\.](%C2%A7%2003925%20-%20Computation%20of%20years%20of%20service%20voluntary%20retirement%3B%20enlisted%20members.md) | Computation of years of service: voluntary retirement; enlisted members. |
 | [3926\.](%C2%A7%2003926%20-%20Computation%20of%20years%20of%20service%20voluntary%20retirement%3B%20regular%20and%20reserve%20commissioned%20officers.md) | Computation of years of service: voluntary retirement; regular and reserve commissioned officers. |
@@ -20,6 +21,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title V, §532(a)(4)(A), Oct. 5, 1999, 113 Stat. 603, added item 3921.
 
 1996—Pub. L. 104–106, div. A, title V, §509(a)(2), Feb. 10, 1996, 110 Stat. 298, substituted “permanent professors and the Director of Admissions of the United States Military Academy” for “permanent professors of United States Military Academy” in item 3920.
 
@@ -48,7 +51,8 @@ Pub. L. 96–343, §9(a)(3), Sept. 8, 1980, 94 Stat. 1128, struck out “regular
 - [&sect; 03918 - Thirty years or more regular commissioned officers](%C2%A7%2003918%20-%20Thirty%20years%20or%20more%20regular%20commissioned%20officers.md)
 - [&sect; 03919 - Repealed. Pub. L. 96&#8211;513, title II, &sect;217(a), Dec. 12, 1980, 94 Stat. 2886](%C2%A7%2003919%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20II%2C%20%C2%A7217%28a%29%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202886.md)
 - [&sect; 03920 - More than thirty years permanent professors and the Director of Admissions of the United States Military Academy](%C2%A7%2003920%20-%20More%20than%20thirty%20years%20permanent%20professors%20and%20the%20Director%20of%20Admissions%20of%20the%20United%20States%20Military%20Academy.md)
-- [&sect; 03921 to 3923 - Repealed. Pub. L. 96&#8211;513, title II, &sect;217(a), Dec. 12, 1980, 94 Stat. 2886](%C2%A7%2003921%20to%203923%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20II%2C%20%C2%A7217%28a%29%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202886.md)
+- [&sect; 03921 - Mandatory retirement Superintendent of the United States Military Academy](%C2%A7%2003921%20-%20Mandatory%20retirement%20Superintendent%20of%20the%20United%20States%20Military%20Academy.md)
+- [&sect; 03922, 3923 - Repealed. Pub. L. 96&#8211;513, title II, &sect;217(a), Dec. 12, 1980, 94 Stat. 2886](%C2%A7%2003922%2C%203923%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20II%2C%20%C2%A7217%28a%29%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202886.md)
 - [&sect; 03924 - Forty years or more Army officers](%C2%A7%2003924%20-%20Forty%20years%20or%20more%20Army%20officers.md)
 - [&sect; 03925 - Computation of years of service voluntary retirement; enlisted members](%C2%A7%2003925%20-%20Computation%20of%20years%20of%20service%20voluntary%20retirement%3B%20enlisted%20members.md)
 - [&sect; 03926 - Computation of years of service voluntary retirement; regular and reserve commissioned officers](%C2%A7%2003926%20-%20Computation%20of%20years%20of%20service%20voluntary%20retirement%3B%20regular%20and%20reserve%20commissioned%20officers.md)

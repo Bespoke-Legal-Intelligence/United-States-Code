@@ -1,5 +1,5 @@
 
-28 U.S.C.<br>United States Code, 1998 Edition<br>Title 28 - JUDICIARY AND JUDICIAL PROCEDURE<br>From the U.S. Government Publishing Office, www.gpo.gov
+28 U.S.C.<br>United States Code, 1999 Edition<br>Title 28 - JUDICIARY AND JUDICIAL PROCEDURE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 28—JUDICIARY AND JUDICIAL PROCEDURE
 
@@ -2850,7 +2850,7 @@ United States Tax Court, see section 7441 et seq. of Title 26, Internal Revenue 
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 5 section 8477; title 9 section 4; title 10 section 1054; title 11 section 105; title 12 section 2244; title 16 sections 18i, 558c, 742<i>l</i>, 823b, 3375; title 22 sections 2702, 4606, 6082; title 29 section 1706; title 38 section 7316; title 42 sections 233, 300g–3, 300i–1, 300j–23, 3789h, 5055, 8433; title 43 section 1737; title 48 sections 1424–4, 1614, 1821, 1824.
+This title is referred to in title 5 section 8477; title 9 section 4; title 10 section 1054; title 11 section 105; title 12 section 2244; title 16 sections 18i, 558c, 742<i>l</i>, 823b, 3375; title 22 sections 2702, 4606, 6082; title 29 sections 1706, 2897; title 38 section 7316; title 42 sections 233, 300g–3, 300i–1, 300j–23, 3789h, 5055, 8433; title 43 section 1737; title 48 sections 1424–4, 1614, 1821, 1824.
 
 
 ---

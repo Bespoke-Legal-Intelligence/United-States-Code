@@ -48,7 +48,7 @@ In par. (6), “section 5703 of title 5” substituted for “section 5 of the A
 
 1979—Par. (1). Pub. L. 96–60, §204(a), struck out “within the limitation of such appropriations as the Congress may provide,” after “chapter,”.
 
-Par. (3). Pub. L. 96–60, §203(e), substituted “leasing of associated real property (either within or outside theUnited States)” for “leasing of real property both within and without the continental limits of the United States” and provided for alteration, improvement, and repair of such property, without regard to section 278a of title 40, and for acquisition of such property or interests therein which are outside the United States without regard to section 255 of title 40 if the sufficiency of the title to such property or interests therein is approved by the Director.
+Par. (3). Pub. L. 96–60, §203(e), substituted “leasing of associated real property (either within or outside the United States)” for “leasing of real property both within and without the continental limits of the United States” and provided for alteration, improvement, and repair of such property, without regard to section 278a of title 40, and for acquisition of such property or interests therein which are outside the United States without regard to section 255 of title 40 if the sufficiency of the title to such property or interests therein is approved by the Director.
 
 Par. (5). Pub. L. 96–60, §203(b)(1), struck out provision for employment of aliens within the United States limited to services related to the translation or narration of colloquial speech in foreign languages when suitably qualified United States citizens were not available, now covered in section 1474(1) of this title, and inserted “pertinent” before “appropriation”.
 
@@ -56,11 +56,11 @@ Par. (5). Pub. L. 96–60, §203(b)(1), struck out provision for employment of a
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
 #### Effective Date of 1979 Amendment
 
-Section 209 of Pub. L. 96–60 provided that: “The amendments made by sections 203 and 204 \[enacting former section 1469 and section 1477b of this title, amending this section, sections 1474, 1475a, 2454, 2458, and 2458a of this title, section 1304 of Title 5, Government Organization and Employees, and section 474 of Title 40, Public Buildings, Property, and Works, and repealing section 1434 of this title\] shall take effect on October 1, 1979, and to the extent that they provide new authorities involving the expenditure of appropriated funds, shall apply only with respect to funds appropriated after the date of enactment of this Act \[Aug. 15, 1979\].”
+Section 209 of Pub. L. 96–60 provided that: “The amendments made by sections 203 and 204 \[enacting section 1469 and section 1477b of this title, amending this section, sections 1474, 1475a, 2454, 2458, and 2458a of this title, section 1304 of Title 5, Government Organization and Employees, and section 474 of Title 40, Public Buildings, Property, and Works, and repealing section 1434 of this title\] shall take effect on October 1, 1979, and to the extent that they provide new authorities involving the expenditure of appropriated funds, shall apply only with respect to funds appropriated after the date of enactment of this Act \[Aug. 15, 1979\].”
 
 #### Transfer of Functions
 
@@ -120,7 +120,7 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;“(C) has been incorporated or otherwise legally organized in the United States for more than 5 years before the issuance date of the Invitation For Bids or the Request For Proposals with respect to a modernization project under subsection (b);
 
-&emsp;&emsp;“(D) has proven, as indicated by prior contracting experience, to possess the technical, managerial,and financial capability to successfully complete a project similar in nature and technical complexity to that being contracted for;
+&emsp;&emsp;“(D) has proven, as indicated by prior contracting experience, to possess the technical, managerial, and financial capability to successfully complete a project similar in nature and technical complexity to that being contracted for;
 
 &emsp;&emsp;“(E)(i) employs United States citizens in at least 80 percent of its principal management positions in the United States;
 

@@ -2,7 +2,7 @@
 
 #### (a) Power of Commission
 
-The Commission shall have authority from time to time to make, issue, amend, and rescind such rules and regulations and such orders as are necessary or appropriate to the exercise of the functions and powers conferred upon the Commission elsewhere in this subchapter. For the purposes of its rules or regulations the Commission may classify persons and matters within its jurisdiction and prescribe different requirements for different classes of persons or matters.
+The Commission shall have authority from time to time to make, issue, amend, and rescindsuch rules and regulations and such orders as are necessary or appropriate to the exercise of the functions and powers conferred upon the Commission elsewhere in this subchapter. For the purposes of its rules or regulations the Commission may classify persons and matters within its jurisdiction and prescribe different requirements for different classes of persons or matters.
 
 #### (b) Effective date of regulations
 

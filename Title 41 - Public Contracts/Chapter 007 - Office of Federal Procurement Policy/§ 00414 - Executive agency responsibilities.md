@@ -14,7 +14,7 @@ To further achieve effective, efficient, and economic administration of the Fede
 
 &emsp;(4) develop and maintain a procurement career management program in the executive agency to assure an adequate professional work force.
 
-(Pub. L. 93–400, §16, as added Pub. L. 98–191, §7, Dec. 1, 1983, 97 Stat. 1330; amended Pub. L.98–369, div. B, title VII, §2732(b)(2), July 18, 1984, 98 Stat. 1199.)
+(Pub. L. 93–400, §16, as added Pub. L. 98–191, §7, Dec. 1, 1983, 97 Stat. 1330; amended Pub. L. 98–369, div. B, title VII, §2732(b)(2), July 18, 1984, 98 Stat. 1199.)
 
 #### Amendments
 
@@ -22,5 +22,5 @@ To further achieve effective, efficient, and economic administration of the Fede
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 252c, 253, 418, 421 of this title; title 10 sections 133, 2302c, 2304, 2435; title 15 section 637; title 49 section 40110.
+This section is referred to in sections 252c, 253, 418, 421 of this title; title 10 sections 133, 2302c, 2304, 2435; title 15 section 637; title 49 section 40110; title 50 section 2402.
 

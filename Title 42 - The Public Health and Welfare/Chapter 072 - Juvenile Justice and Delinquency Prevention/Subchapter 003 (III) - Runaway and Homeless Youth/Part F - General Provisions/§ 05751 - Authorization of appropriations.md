@@ -1,0 +1,84 @@
+### §5751. Authorization of appropriations
+
+#### (a) In general
+
+#### (1) Authorization
+
+&emsp;There is authorized to be appropriated to carry out this subchapter (other than part E ofthis subchapter) such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003.
+
+#### (2) Allocation
+
+#### (A) Parts A and B of this subchapter
+
+&emsp;&emsp;From the amount appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not less than 90 percent to carry out parts A and B of this subchapter.
+
+#### (B) Part B of this subchapter
+
+&emsp;&emsp;Of the amount reserved under subparagraph (A), not less than 20 percent, and not more than 30 percent, shall be reserved to carry out part B of this subchapter.
+
+#### (3) Parts C and D of this subchapter
+
+&emsp;In each fiscal year, after reserving the amounts required by paragraph (2), the Secretary shall use the remaining amount (if any) to carry out parts C and D of this subchapter.
+
+#### (4) Part E of this subchapter
+
+&emsp;There is authorized to be appropriated to carry out part E of this subchapter such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003.
+
+#### (b) Separate identification required
+
+No funds appropriated to carry out this subchapter may be combined with funds appropriated under any other Act if the purpose of combining such funds is to make a single discretionary grant, or a single discretionary payment, unless such funds are separately identified in all grants and contracts and are used for the purposes specified in this subchapter.
+
+(Pub. L. 93–415, title III, §388, formerly §331, Sept. 7, 1974, 88 Stat. 1132; Pub. L. 94–273, §32(c), Apr. 21, 1976, 90 Stat. 380; renumbered §341 and amended Pub. L. 95–115, §7(c), (d), Oct. 3, 1977, 91 Stat. 1059, 1060; Pub. L. 96–509, §2(b), Dec. 8, 1980, 94 Stat. 2750; renumbered §331 and amended Pub. L. 98–473, title II, §657(a)–(d), (f), Oct. 12, 1984, 98 Stat. 2124, 2125; renumbered §366 and amended Pub. L. 100–690, title VII, §§7273(d), (e)(2), 7280, Nov. 18, 1988, 102 Stat. 4455, 4459; Pub. L. 101–204, title X, §§1001(e)(2), 1003(3), Dec. 7, 1989, 103 Stat. 1827; renumbered §385 and amended Pub. L. 102–586, §3(g)(1)(A)(ii), (i), Nov. 4, 1992, 106 Stat. 5022, 5026; renumbered §388 and amended Pub. L. 106–71, §3(m), (n)(2), Oct. 12, 1999, 113 Stat. 1040, 1041.)
+
+#### Amendments
+
+1999—Pub. L. 106–71, §3(m), amended section catchline and text generally, substituting provisions relating to appropriations for fiscal years 2000 to 2003 for provisions relating to appropriations for fiscal years 1993 to 1996.
+
+Subsec. (a)(4). Pub. L. 106–71, §3(n)(2), added par. (4).
+
+1992—Pub. L. 102–586, §3(i), which directed the amendment of section “366 of the Juvenile Justice and Delinquency Act of 1974 (42 U.S.C. 5751)”, was executed to this section, which is section 385 of the Juvenile Justice and Delinquency Prevention Act of 1974 (Pub. L. 93–415), to reflect the probable intent of Congress and the intervening renumbering of section 366 of Pub. L. 93–415 as section 385 by section 3(g)(1)(A)(ii) of Pub. L. 102–586. See notes below.
+
+Subsec. (a)(1). Pub. L. 102–586, §3(i)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “To carry out the purposes of part A of this subchapter there are authorized to be appropriated such sums as may be necessary for fiscal years 1989, 1990, 1991, and 1992.”
+
+Subsec. (a)(3) to (5). Pub. L. 102–586, §3(i)(1)(B), added pars. (3) to (5).
+
+Subsec. (b)(1). Pub. L. 102–586, §3(i)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraph (2), to carry out the purposes of part B of this subchapter, there are authorized to be appropriated $5,000,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990, 1991, and 1992.”
+
+Subsecs. (c) to (e). Pub. L. 102–586, §3(i)(3), (4), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+1989—Subsec. (a). Pub. L. 101–204, §1001(e)(2), amended directory language of Pub. L. 100–690, §7280(2), see 1988 Amendment note below.
+
+Subsec. (a)(1). Pub. L. 101–204, §1003(3), substituted “are authorized” for “is authorized”.
+
+1988—Subsec. (a). Pub. L. 100–690, §7280, as amended by Pub. L. 101–204, §1001(e)(2), designated existing provisions as par. (1), struck out “1985, 1986, 1987, and 1988” after “fiscal years”, inserted “1989, 1990, 1991, and 1992”, and added par. (2).
+
+Subsecs. (b) to (d). Pub. L. 100–690, §7273(d), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+
+1984—Pub. L. 98–473, §657(a), amended section catchline.
+
+Subsec. (a). Pub. L. 98–473, §657(b), substituted “such sums as may be necessary for fiscal years 1985, 1986, 1987, and 1988” for “for each of the fiscal years ending September 30, 1981, September 30, 1982, September 30, 1983, and September 30, 1984 the sum of $25,000,000”.
+
+Subsec. (b). Pub. L. 98–473, §657(c), struck out “Associate” before “Administrator”.
+
+Subsec. (c). Pub. L. 98–473, §657(d), added subsec. (c).
+
+1980—Subsec. (a). Pub. L. 96–509 substituted provisions authorizing appropriations of $25,000,000 for each of fiscal years ending Sept. 30, 1981, 1982, 1983, and 1984, for provisions that had authorized appropriations of $10,000,000 for each of fiscal years ending Sept. 30, 1975, 1976, and 1977, and $25,000,000 for each of fiscal years ending Sept. 30, 1978, 1979, and 1980.
+
+1977—Subsec. (a). Pub. L. 95–115, §7(d)(1), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1978, 1979, and 1980.
+
+Subsec. (b). Pub. L. 95–115, §7(d)(2), substituted provisions relating to consultative and coordinating requirements for funded programs and activities, for provisions relating to authorization for funding surveys under part B of this subchapter.
+
+1976—Pub. L. 94–273 substituted “June 30, 1975, and 1976, and September 30, 1977” for “June 30, 1975, 1976, and 1977”.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as a note under section 5601 of this title.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–473 effective Oct. 12, 1984, except that subsec. (c)(2), as enacted by section 657(d) of Pub. L. 98–473, not applicable with respect to any grant or payment made before Oct. 12, 1984, see section 670 of Pub. L. 98–473, set out as a note under section 5601 of this title.
+
+#### Effective Date of 1977 Amendment
+
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, set out as a note under section 5601 of this title.
+

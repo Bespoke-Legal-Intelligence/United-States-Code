@@ -30,7 +30,7 @@ Studies required under subsection (a) of this section shall be based on design c
 
 &emsp;(C) Technical guidance and related information concerning methods for reducing radon levels.
 
-(2) In addition to the assistance required by paragraph (1), the Administrator is authorized to make available, on a cost reimbursable basis, to the departments or agencies conducting studies under subsection (a) of this section devices suitable for use by such departments or agencies in conducting tests for radon within Federal buildings. For the purpose of assisting such departments or agencies in evaluating any such devices for the presence of radon levels, the Administrator is authorized to recommend laboratories or to make available to such departments or agencies, on a cost reimbursable basis, the use of laboratories of the Environmental Protection Agency.
+(2) In addition to the assistance required by paragraph (1), the Administrator is authorized to make available, on a cost reimbursable basis, to the departments or agencies conducting studies under subsection (a) of this section devicessuitable for use by such departments or agencies in conducting tests for radon within Federal buildings. For the purpose of assisting such departments or agencies in evaluating any such devices for the presence of radon levels, the Administrator is authorized to recommend laboratories or to make available to such departments or agencies, on a cost reimbursable basis, the use of laboratories of the Environmental Protection Agency.
 
 #### (e) Study deadline
 

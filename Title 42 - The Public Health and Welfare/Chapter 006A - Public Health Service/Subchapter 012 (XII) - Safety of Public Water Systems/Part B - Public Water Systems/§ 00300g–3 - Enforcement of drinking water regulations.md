@@ -142,7 +142,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 #### (B) Annual report by Administrator
 
-&emsp;&emsp;Not later than July 1, 1998, and annually thereafter, the Administrator shall prepare and make available to the public an annual report summarizing and evaluating reports submitted by States pursuant to subparagraph (A) and notices submitted by public water systems serving Indian Tribes provided to the Administrator pursuant to subparagraph (C) or (D) of paragraph (2) and making recommendations concerning the resources needed to improve compliance with this subchapter. The report shall include information about public water system compliance on Indian reservations and about enforcement activities undertaken and financial assistance provided by the Administrator on Indian reservations, and shall make specific recommendations concerning the resources needed to improve compliance with this subchapter on Indian reservations.
+&emsp;&emsp;Not later than July 1, 1998, and annually thereafter, the Administrator shall prepare and make available to the public an annualreport summarizing and evaluating reports submitted by States pursuant to subparagraph (A) and notices submitted by public water systems serving Indian Tribes provided to the Administrator pursuant to subparagraph (C) or (D) of paragraph (2) and making recommendations concerning the resources needed to improve compliance with this subchapter. The report shall include information about public water system compliance on Indian reservations and about enforcement activities undertaken and financial assistance provided by the Administrator on Indian reservations, and shall make specific recommendations concerning the resources needed to improve compliance with this subchapter on Indian reservations.
 
 #### (4) Consumer confidence reports by community water systems
 
@@ -212,7 +212,7 @@ If the Administrator makes a finding of noncompliance (described in subparagraph
 
 (1) In any case in which the Administrator is authorized to bring a civil action under this section or under section 300j–4 of this title with respect to any applicable requirement, the Administrator also may issue an order to require compliance with such applicable requirement.
 
-(2) An order issued under this subsection shall not take effect, in the case of a State having primary enforcement responsibility for public water systems in that State, until after the Administrator has provided the State with an opportunity to confer with the Administrator regarding the order. A copy of any order issued under this subsection shall be sent to the appropriate State agency of the State involved if the State has primary enforcement responsibility for public water systems in that State. Any order issued under this subsection shall statewith reasonable specificity the nature of the violation. In any case in which an order under this subsection is issued to a corporation, a copy of such order shall be issued to appropriate corporate officers.
+(2) An order issued under this subsection shall not take effect, in the case of a State having primary enforcement responsibility for public water systems in that State, until after the Administrator has provided the State with an opportunity to confer with the Administrator regarding the order. A copy of any order issued under this subsection shall be sent to the appropriate State agency of the State involved if the State has primary enforcement responsibility for public water systems in that State. Any order issued under this subsection shall state with reasonable specificity the nature of the violation. In any case in which an order under this subsection is issued to a corporation, a copy of such order shall be issued to appropriate corporate officers.
 
 (3)(A) Any person who violates, or fails or refuses to comply with, an order under this subsection shall be liable to the United States for a civil penalty of not more than $25,000 per day of violation.
 
@@ -276,7 +276,7 @@ Subsec. (g)(1). Pub. L. 104–182, §113(a)(3)(A), substituted “applicable req
 
 Subsec. (g)(2). Pub. L. 104–182, §113(a)(3)(B), substituted “effect, in the case” for “effect until after notice and opportunity for public hearing and, in the case” and “regarding the order” for “regarding the proposed order” and struck out “proposed to be” after “A copy of any order”.
 
-Subsec. (g)(3)(B). Pub. L. 104–182, §113(a)(3)(C)(i), added subpar. (B) and struck out former subpar. (B) which read as follows: “Whenever any civil penalty sought by the Administrator under this paragraph doesnot exceed a total of $5,000, the penalty shall be assessed by the Administrator after notice and opportunity for a hearing on the record in accordance with section 554 of title 5.”
+Subsec. (g)(3)(B). Pub. L. 104–182, §113(a)(3)(C)(i), added subpar. (B) and struck out former subpar. (B) which read as follows: “Whenever any civil penalty sought by the Administrator under this paragraph does not exceed a total of $5,000, the penalty shall be assessed by the Administrator after notice and opportunity for a hearing on the record in accordance with section 554 of title 5.”
 
 Subsec. (g)(3)(C). Pub. L. 104–182, §113(a)(3)(C)(ii), substituted “subsection for a violation of an applicable requirement exceeds $25,000” for “paragraph exceeds $5,000”.
 

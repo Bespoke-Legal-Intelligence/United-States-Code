@@ -54,7 +54,7 @@ With respect to any funds reallocated under section 1070b–3(e) <sup>1</sup> o
 
 (1) Except as provided in paragraph (2), any regulatory changes initiated by the Secretary affecting the programs under this subchapter and part C of subchapter I of chapter 34 of title 42 that have not been published in final form by November 1 prior to the start of the award year shall not become effective until the beginning of the second award year after such November 1 date.
 
-(2)(A) The Secretary may designate any regulatory provision that affects the programs under this subchapter and part C of subchapter I of chapter 34 of title 42 and is published in final form after November 1 as one that an entity subject to the provision may, in the entity's discretion, choose to implement prior to the effective date described in paragraph (1). The Secretary may specify in the designation when, and under what conditions, an entity may implement the provision prior to that effective date. The Secretary shall publish any designation under this subparagraph in the Federal Register.
+(2)(A) The Secretary may designate any regulatory provision that affects the programs under this subchapter and part C of subchapter I of chapter 34 of title 42 and is published in final form after November 1 as one that an entity subject to the provision may, in the entity's discretion, choose to implement prior to the effective date described in paragraph (1). The Secretary may specify in the designation when, and underwhat conditions, an entity may implement the provision prior to that effective date. The Secretary shall publish any designation under this subparagraph in the Federal Register.
 
 (B) If an entity chooses to implement a regulatory provision prior to the effective date described in paragraph (1), as permitted by subparagraph (A), the provision shall be effective with respect to that entity in accordance with the terms of the Secretary's designation.
 
@@ -74,7 +74,7 @@ Section 1087bb(j) of this title, referred to in subsec. (b), was redesignated se
 
 #### Prior Provisions
 
-A prior section 1089, Pub. L. 89–329, title IV, §482, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1445; amended Pub. L. 97–35, title V, §533(a)(1), (2), (b), Aug. 13, 1981, 95 Stat. 453; Pub. L. 99–272, title XVI, §16031, Apr. 7, 1986, 100 Stat. 354, related to analysis ofstudent's need for financial assistance, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1089, Pub. L. 89–329, title IV, §482, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1445; amended Pub. L. 97–35, title V, §533(a)(1), (2), (b), Aug. 13, 1981, 95 Stat. 453; Pub. L. 99–272, title XVI, §16031, Apr. 7, 1986, 100 Stat. 354, related to analysis of student's need for financial assistance, prior to the general revision of this part by Pub. L. 99–498.
 
 Another prior section 1089, Pub. L. 89–329, title IV, §499, formerly §469, as added Pub. L. 90–575, title I, §151, Oct. 16, 1968, 82 Stat. 1032; amended Pub. L. 91–230, title IV, §401(h)(4), Apr. 13, 1970, 84 Stat. 174; renumbered Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 272, related to the Advisory Council on Financial Aid to Students, prior to the general revision of this part by Pub. L. 96–374.
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Establishment of Separate Systems of Need Analysis for Academic Years 1983–1984 Through 1987–1988
 
-Pub. L. 97–301, §4, Oct. 13, 1982, 96 Stat. 1400, as amended by Pub. L. 98–79, §4(a), Aug. 15, 1983, 97 Stat. 480; Pub. L. 98–511, title VII, §707(3), Oct. 19, 1984, 98 Stat. 2407; Pub. L. 99–498, title IV, §408(a)(1), Oct. 17, 1986, 100 Stat. 1495, which required Secretary of Education to establish or approve separate systems of need analysis for the academic years 1983–1984, 1984–1985, 1985–1986, 1986–1987, and 1987–1988 for the programs authorized under subpart 2 \[now 3\] of part A \[20 U.S.C. 1070b et seq.\], part C \[42 U.S.C. 2751 et seq.\], and part E \[20 U.S.C. 1087aa et seq.\] of title IV of the Higher Education Act of 1965, was repealed by Pub. L. 99–498, title IV, §408(b), Oct. 17, 1986, 100 Stat. 1495, eff. with respect to any academic year beginning on or after July 1, 1988.
+Pub. L. 97–301, §4, Oct. 13, 1982, 96 Stat. 1400, as amended by Pub. L. 98–79, §4(a), Aug. 15, 1983, 97 Stat. 480; Pub. L. 98–511, title VII, §707(3), Oct. 19, 1984, 98 Stat. 2407; Pub. L. 99–498, title IV, §408(a)(1), Oct. 17,1986, 100 Stat. 1495, which required Secretary of Education to establish or approve separate systems of need analysis for the academic years 1983–1984, 1984–1985, 1985–1986, 1986–1987, and 1987–1988 for the programs authorized under subpart 2 \[now 3\] of part A \[20 U.S.C. 1070b et seq.\], part C \[42 U.S.C. 2751 et seq.\], and part E \[20 U.S.C. 1087aa et seq.\] of title IV of the Higher Education Act of 1965, was repealed by Pub. L. 99–498, title IV, §408(b), Oct. 17, 1986, 100 Stat. 1495, eff. with respect to any academic year beginning on or after July 1, 1988.
 
 #### Determination of Independent Student Status for Academic Years 1982–1983 Through 1987–1988
 

@@ -10,7 +10,7 @@ It is the purpose of this subpart to provide financial assistance to rural publi
 
 &emsp;(4) improve the educational and social well-being of rural public school children;
 
-&emsp;(5) close the achievement gap between children attending rural public schools and other children, while improving the achievement level of all children nationally;
+&emsp;(5) close the achievement gap between children attending rural public schools and otherchildren, while improving the achievement level of all children nationally;
 
 &emsp;(6) conduct coordinated research on rural education problems, solutions, promising practices, and distance learning technologies;
 

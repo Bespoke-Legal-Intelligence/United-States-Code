@@ -1,6 +1,6 @@
 ### §504. Direct purchase of printing, binding, and blank-book work by Government agencies
 
-The Joint Committee on Printing may permit the Public Printer to authorize an executive department, independent office, or establishment of the Government to purchase direct for its use such printing, binding, and blank-book work, otherwise authorized by law, as the Government Printing Office is not able or suitably equippedto execute or as may be more economically or in the better interest of the Government executed elsewhere.
+The Joint Committee on Printing may permit the Public Printer to authorize an executive department, independent office, or establishment of the Government to purchase direct for its use such printing, binding, and blank-book work, otherwise authorized by law, as the Government Printing Office is not able or suitably equipped to execute or as may be more economically or in the better interest of the Government executed elsewhere.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1243.)
 
@@ -10,5 +10,5 @@ Based on 44 U.S. Code, 1964 ed., §14 (Jan. 12, 1895, ch. 23, §12, 28 Stat. 602
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b; title 42 section 5197.
+This section is referred to in title 22 section 3714b; title 35 section 2; title 42 section 5197.
 

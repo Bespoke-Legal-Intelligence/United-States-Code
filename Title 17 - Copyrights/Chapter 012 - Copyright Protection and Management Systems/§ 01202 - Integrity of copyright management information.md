@@ -42,7 +42,7 @@ Definition.—As used in this section, the term “copyright management informat
 
 (d)
 
-Law Enforcement, Intelligence, and Other Government Activities.—This section does not prohibit any lawfully authorized investigative, protective, information security, or intelligence activity of an officer, agent, or employee of the United States, a State, or a political subdivision of a State, or a person acting pursuant to a contract with the United States, a State, or a political subdivision of a State. Forpurposes of this subsection, the term “information security” means activities carried out in order to identify and address the vulnerabilities of a government computer, computer system, or computer network.
+Law Enforcement, Intelligence, and Other Government Activities.—This section does not prohibit any lawfully authorized investigative, protective, information security, or intelligence activity of an officer, agent, or employee of the United States, a State, or a political subdivision of a State, or a person acting pursuant to a contract with the United States, a State, or a political subdivision of a State. For purposes of this subsection, the term “information security” means activities carried out inorder to identify and address the vulnerabilities of a government computer, computer system, or computer network.
 
 (e)
 
@@ -66,7 +66,7 @@ Digital transmissions.—
 
 &emsp;&emsp;&emsp;(ii) the activity that constitutes such violation is not intended to induce, enable, facilitate, or conceal infringement of a right under this title.
 
-&emsp;&emsp;(B) Until a digital transmission standard has been set pursuant to subparagraph (A) with respect to the placement of copyright management information for a category or works, a person identified in paragraph (1) shall not be liable for a violation of subsection (b) with respect to such copyright management information, if the activity that constitutes such violation is not intended to induce, enable, facilitate, or conceal infringement of a right under this title, and if—
+&emsp;&emsp;(B) Until a digital transmission standard has been set pursuant to subparagraph (A) with respect to the placement of copyright management information for a category of works, a person identified in paragraph (1) shall not be liable for a violation of subsection (b) with respect to such copyright management information, if the activity that constitutes such violation is not intended to induce, enable, facilitate, or conceal infringement of a right under this title, and if—
 
 &emsp;&emsp;&emsp;(i) the transmission of such information by such person would result in a perceptible visual or aural degradation of the digital signal; or
 
@@ -86,11 +86,15 @@ Definitions.—As used in this subsection—
 
 &emsp;&emsp;(B) the term “cable system” has the meaning given that term in section 602 of the Communications Act of 1934 (47 U.S.C. 522).
 
-(Added Pub. L. 105–304, title I, §103(a), Oct. 28, 1998, 112 Stat. 2872.)
+(Added Pub. L. 105–304, title I, §103(a), Oct. 28, 1998, 112 Stat. 2872; amended Pub. L. 106–44, §1(e), Aug. 5, 1999, 113 Stat. 222.)
 
 #### References in Text
 
 The effective date of this chapter, referred to in subsec. (e)(2)(B)(ii)(II), is Oct. 28, 1998. See section 105 of Pub. L. 105–304, set out as an Effective Date of 1998 Amendment note under section 101 of this title.
+
+#### Amendments
+
+1999—Subsec. (e)(2)(B). Pub. L. 106–44 substituted “category of works” for “category or works” in introductory provisions.
 
 #### Section Referred to in Other Sections
 

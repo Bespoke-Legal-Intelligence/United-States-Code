@@ -44,17 +44,25 @@ Aug. 24, 1954, ch. 911, §§9, 10, 12, 68 Stat. 799.
 
 36:580.
 
+&nbsp;
+
 70507(c)
 
 36:579(a) (words before last comma).
+
+&nbsp;
 
 70507(d)
 
 36:579(b).
 
+&nbsp;
+
 70507(e)
 
 36:579(a) (words after last comma).
+
+&nbsp;
 
 In subsection (a), the words “any shares of” are omitted as unnecessary.
 

@@ -1,6 +1,6 @@
 ### §3624. Recommended decisions of Commission
 
-(a) The Postal Rate Commission shall promptly consider a request made under section 3622 or 3623 of this title, except that the Commission shall not recommend a decision until the opportunity for a hearing on the record under sections 556 and 557 of title 5 has been accorded to the Postal Service, users of the mails, and an officer of the Commission who shall be required to represent the interests of the general public.
+(a) The Postal Rate Commission shall promptly consider a request made under section 3622 or3623 of this title, except that the Commission shall not recommend a decision until the opportunity for a hearing on the record under sections 556 and 557 of title 5 has been accorded to the Postal Service, users of the mails, and an officer of the Commission who shall be required to represent the interests of the general public.
 
 (b) In order to conduct its proceedings with utmost expedition consistent with procedural fairness to the parties, the Commission may (without limitation) adopt rules which provide for—
 

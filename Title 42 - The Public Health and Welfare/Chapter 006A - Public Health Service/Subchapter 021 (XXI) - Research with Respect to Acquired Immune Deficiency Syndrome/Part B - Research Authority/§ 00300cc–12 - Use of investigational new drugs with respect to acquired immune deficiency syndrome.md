@@ -28,7 +28,7 @@
 
 #### (c) Technical assistance with respect to treatment use
 
-In the case of a new drug with respect to which the Secretary has made a determination described in subsection (a) of this section, the Secretary may, directly or through grants or contracts, provide technical assistance with respect to the process of—
+In the case of a new drug with respect to which the Secretary has made a determination described in subsection (a) of this section, theSecretary may, directly or through grants or contracts, provide technical assistance with respect to the process of—
 
 &emsp;(1) submitting to the Secretary applications for exemptions described in paragraph (1)(B) of such subsection;
 

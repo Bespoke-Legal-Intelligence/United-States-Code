@@ -24,5 +24,5 @@ The training program shall at a minimum include instruction in the following are
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Years 1990 and 1991, andnot as part of the Department of Energy Organization Act which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Years 1990 and 1991, and not as part of the Department of Energy Organization Act which comprises this chapter.
 

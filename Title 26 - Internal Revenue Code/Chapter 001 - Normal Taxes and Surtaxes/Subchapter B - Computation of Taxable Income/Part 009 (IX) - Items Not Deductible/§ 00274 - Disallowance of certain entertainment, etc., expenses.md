@@ -34,7 +34,7 @@
 
 #### (1) Limitation
 
-&emsp;No deduction shall be allowed under section 162 or section 212 for any expense for gifts made directly or indirectly to any individual to the extent that such expense, when added to prior expenses of the taxpayer for gifts made to such individual during the same taxable year, exceeds $25. For purposes of this section, the term “gift” means any item excludable from gross income of the recipient under section 102 which is not excludable from his gross income under any other provision of this chapter, but such term does not include—
+&emsp;No deduction shall be allowed under section 162 or section 212 for any expense for gifts made directly or indirectly to any individual to the extent that such expense, when added to prior expenses of the taxpayer for gifts made to such individual during the same taxable year, exceeds $25. For purposes of this section, the term “gift” means any item excludablefrom gross income of the recipient under section 102 which is not excludable from his gross income under any other provision of this chapter, but such term does not include—
 
 &emsp;&emsp;(A) an item having a cost to the taxpayer not in excess of $4.00 on which the name of the taxpayer is clearly and permanently imprinted and which is one of a number of identical items distributed generally by the taxpayer, or
 
@@ -150,7 +150,7 @@ For purposes of this chapter, if deductions are disallowed under subsection (a) 
 
 #### (2) Conventions on cruise ships
 
-&emsp;In the case of any individual who attends a convention, seminar, or other meeting whichis held on any cruise ship, no deduction shall be allowed under section 162 for expenses allocable to such meeting, unless the taxpayer meets the requirements of paragraph (5) and establishes that the meeting is directly related to the active conduct of his trade or business and that—
+&emsp;In the case of any individual who attends a convention, seminar, or other meeting which is held on any cruise ship, no deduction shall be allowed under section 162 for expenses allocable to such meeting, unless the taxpayer meets the requirements of paragraph (5) and establishes that the meeting is directly related to the active conduct of his trade or business and that—
 
 &emsp;&emsp;(A) the cruise ship is a vessel registered in the United States; and
 
@@ -178,7 +178,7 @@ For purposes of this chapter, if deductions are disallowed under subsection (a) 
 
 #### (5) Reporting requirements
 
-&emsp;No deduction shall be allowed under section 162 for expenses allocable to attendance at a convention, seminar, or similar meeting on any cruise ship unless the taxpayer claiming the deduction attaches to the return of tax on which the deduction is claimed—
+&emsp;No deduction shall be allowed under section 162 for expenses allocable to attendance at aconvention, seminar, or similar meeting on any cruise ship unless the taxpayer claiming the deduction attaches to the return of tax on which the deduction is claimed—
 
 &emsp;&emsp;(A) a written statement signed by the individual attending the meeting which includes—
 
@@ -298,7 +298,7 @@ For purposes of subsection (d), the term “qualified nonpersonal use vehicle”
 
 #### (A) Partnerships
 
-&emsp;&emsp;In the case of an employee achievement award made by a partnership, the deductionlimitations contained in paragraph (2) shall apply to the partnership as well as to each member thereof.
+&emsp;&emsp;In the case of an employee achievement award made by a partnership, the deduction limitations contained in paragraph (2) shall apply to the partnership as well as to each member thereof.
 
 #### (B) Length of service awards
 
@@ -336,7 +336,7 @@ For purposes of subsection (d), the term “qualified nonpersonal use vehicle”
 
 #### (A) In general
 
-&emsp;&emsp;In determining the amount allowable as a deduction under this chapter for any ticket for any activity or facility described in subsection (d)(2), the amount taken into account shall not exceed the face value of such ticket.
+&emsp;&emsp;In determining the amount allowable as a deduction under this chapter for any ticketfor any activity or facility described in subsection (d)(2), the amount taken into account shall not exceed the face value of such ticket.
 
 #### (B) Exception for certain charitable sports events
 
@@ -392,7 +392,7 @@ For purposes of subsection (d), the term “qualified nonpersonal use vehicle”
 
 &emsp;&emsp;(B) any item with respect to an activity which is of a type generally considered to constitute entertainment, amusement, or recreation, or with respect to a facility used in connection with such activity,
 
-> &emsp;shall not exceed 50 percent of the amount of such expense or item which would (but for thisparagraph) be allowable as a deduction under this chapter.
+> &emsp;shall not exceed 50 percent of the amount of such expense or item which would (but for this paragraph) be allowable as a deduction under this chapter.
 
 #### (2) Exceptions
 
@@ -426,7 +426,7 @@ For purposes of subsection (d), the term “qualified nonpersonal use vehicle”
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any expenses for food or beverages consumed while away from home (within the meaning of section 162(a)(2)) by an individual during, or incident to, the period of duty subject to the hours of service limitations of the Department of Transportation, paragraph (1) shall be applied by substituting “the applicable percentage” for “50 percent”.
+&emsp;&emsp;In the case of any expenses for food or beverages consumed while away from home\(within the meaning of section 162(a)(2)) by an individual during, or incident to, the period of duty subject to the hours of service limitations of the Department of Transportation, paragraph (1) shall be applied by substituting “the applicable percentage” for “50 percent”.
 
 #### (B) Applicable percentage
 
@@ -492,7 +492,7 @@ Subsec. (n). Pub. L. 103–66, §13209(a), (b), substituted “50” for “80�
 
 Subsec. (n)(2). Pub. L. 101–508, §11802(b)(2)(A)(ii), (iii), substituted “described in subparagraph (D)” for “described in subparagraph (E)” and “of subparagraph (E)” for “of subparagraph (F)” in concluding provisions.
 
-Subsec. (n)(2)(D) to (F). Pub. L. 101–508, §11802(b)(2)(A)(i), redesignated subpars. (E) and (F) as\(D) and (E), respectively, and struck out former subpar. (D) which read as follows: “in the case of an expense for food or beverages before January 1, 1989, such expense is an integral part of a qualified meeting,”.
+Subsec. (n)(2)(D) to (F). Pub. L. 101–508, §11802(b)(2)(A)(i), redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: “in the case of an expense for food or beverages before January 1, 1989, such expense is an integral part of a qualified meeting,”.
 
 Subsec. (n)(3). Pub. L. 101–508, §11802(b)(2)(B), struck out par. (3) “Qualified meeting” which read as follows: “For purposes of paragraph (2)(D), the term ‘qualified meeting’ means any convention, seminar, annual meeting, or similar business program with respect to which—
 
@@ -528,7 +528,7 @@ Pub. L. 100–647, §1001(g)(1), amended subpar. (A) generally. Prior to amendme
 
 &emsp;“(ii) such item is a qualified plan award.”
 
-Subsec. (b)(3). Pub. L. 99–514, §122(c)(4), struck out par. (3) relating to qualified plan award, defining such term in subpar. (A), and providing for average amount of awards in subpar. (B) and maximum amount per item in subpar. (C).
+Subsec. (b)(3). Pub. L. 99–514, §122(c)(4), struck out par. (3) relating to qualified plan award, defining suchterm in subpar. (A), and providing for average amount of awards in subpar. (B) and maximum amount per item in subpar. (C).
 
 Subsec. (e)(1). Pub. L. 99–514, §142(a)(2)(A), redesignated par. (2) as (1) and struck out former par. (1), business meals, which read as follows: “Expenses for food and beverages furnished to any individual under circumstances which (taking into account the surroundings in which furnished, the taxpayer's trade, business, or income-producing activity and the relationship to such trade, business, or activity of the persons to whom the food and beverages are furnished) are of a type generally considered to be conducive to a business discussion.”
 
@@ -690,7 +690,7 @@ Section 217(b) of Pub. L. 88–272 provided that: “The amendment made by subse
 
 #### Effective Date
 
-Section applicable with respect to taxable years ending after Dec. 31, 1962, but only in respect of periods after such date, see section 4(c) of Pub. L. 87–834, set out as an Effective Date of 1962 Amendment note under section 162 of this title.
+Section applicable with respect to taxable years ending after Dec. 31, 1962, but only in respect of periodsafter such date, see section 4(c) of Pub. L. 87–834, set out as an Effective Date of 1962 Amendment note under section 162 of this title.
 
 #### Regulations
 

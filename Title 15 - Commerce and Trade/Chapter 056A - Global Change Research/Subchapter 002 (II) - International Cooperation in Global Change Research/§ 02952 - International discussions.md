@@ -26,7 +26,7 @@ The President should direct the Secretary of State, in cooperation with the Comm
 
 #### (b) Energy research
 
-The President should direct the Secretary of State (in cooperation with the Secretary of Energy, the Secretary of Commerce, the United States Trade Representative, and other appropriate members of the Committee) to initiate discussions with other nations leading toward an international research protocol for cooperation on the development of energy technologies which have minimally adverse effects on the environment. Such discussions should include, but not be limited to, the following issues:
+The President should direct the Secretary of State (in cooperation with the Secretary of Energy, the Secretary of Commerce, the United States Trade Representative, and other appropriate members of the Committee) to initiatediscussions with other nations leading toward an international research protocol for cooperation on the development of energy technologies which have minimally adverse effects on the environment. Such discussions should include, but not be limited to, the following issues:
 
 &emsp;(1) Creation of an international cooperative program to fund research related to energy efficiency, solar and other renewable energy sources, and passively safe and diversion-resistant nuclear reactors.
 

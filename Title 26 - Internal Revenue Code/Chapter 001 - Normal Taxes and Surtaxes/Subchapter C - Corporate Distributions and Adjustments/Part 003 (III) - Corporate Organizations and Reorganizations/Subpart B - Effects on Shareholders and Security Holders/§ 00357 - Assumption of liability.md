@@ -6,25 +6,25 @@ Except as provided in subsections (b) and (c), if—
 
 &emsp;(1) the taxpayer receives property which would be permitted to be received under section 351 or 361 without the recognition of gain if it were the sole consideration, and
 
-&emsp;(2) as part of the consideration, another party to the exchange assumes a liability of the taxpayer, or acquires from the taxpayer property subject to a liability,
+&emsp;(2) as part of the consideration, another party to the exchange assumes a liability of the taxpayer,
 
-> then such assumption or acquisition shall not be treated as money or other property, and shall not prevent the exchange from being within the provisions of section 351 or 361, as the case may be.
+> then such assumption shall not be treated as money or other property, and shall not prevent the exchange from being within the provisions of section 351 or 361, as the case may be.
 
 #### (b) Tax avoidance purpose
 
 #### (1) In general
 
-&emsp;If, taking into consideration the nature of the liability and the circumstances in the light of which the arrangement for the assumption or acquisition was made, it appears that the principal purpose of the taxpayer with respect to the assumption or acquisition described in subsection (a)—
+&emsp;If, taking into consideration the nature of the liability and the circumstances in the light of which the arrangement for the assumption was made, it appears that the principal purpose of the taxpayer with respect to the assumption described in subsection (a)—
 
 &emsp;&emsp;(A) was a purpose to avoid Federal income tax on the exchange, or
 
 &emsp;&emsp;(B) if not such purpose, was not a bona fide business purpose,
 
-> &emsp;then such assumption or acquisition (in the total amount of the liability assumed or acquired pursuant to such exchange) shall, for purposes of section 351 or 361 (as the case maybe), be considered as money received by the taxpayer on the exchange.
+> &emsp;then such assumption (in the total amount of the liability assumed pursuant to such exchange) shall, for purposes of section 351 or 361 (as the case may be), be considered as money received by the taxpayer on the exchange.
 
 #### (2) Burden of proof
 
-&emsp;In any suit or proceeding where the burden is on the taxpayer to prove such assumption or acquisition is not to be treated as money received by the taxpayer, such burden shall not be considered as sustained unless the taxpayer sustains such burden by the clear preponderance of the evidence.
+&emsp;In any suit or proceeding where the burden is on the taxpayer to prove such assumption is not to be treated as money received by the taxpayer, such burden shall not be considered as sustained unless the taxpayer sustains such burden by the clear preponderance of the evidence.
 
 #### (c) Liabilities in excess of basis
 
@@ -36,7 +36,7 @@ Except as provided in subsections (b) and (c), if—
 
 &emsp;&emsp;(B) to which section 361 applies by reason of a plan of reorganization within the meaning of section 368(a)(1)(D),
 
-> &emsp;if the sum of the amount of the liabilities assumed, plus the amount of the liabilities to which the property is subject, exceeds the total of the adjusted basis of the property transferred pursuant to such exchange, then such excess shall be considered as a gain from the sale or exchange of a capital asset or of property which is not a capital asset, as the case may be.
+> &emsp;if the sum of the amount of the liabilities assumed exceeds the total of the adjusted basis of the property transferred pursuant to such exchange, then such excess shall be considered as a gain from the sale or exchange of a capital asset or of property which is not a capital asset, as the case may be.
 
 #### (2) Exceptions
 
@@ -56,15 +56,49 @@ Except as provided in subsections (b) and (c), if—
 
 &emsp;&emsp;&emsp;(ii) would be described in section 736(a),
 
-> &emsp;&emsp;then, for purposes of paragraph (1), the amount of such liability shall be excluded in determining the amount of liabilities assumed or to which the property transferred is subject.
+> &emsp;&emsp;then, for purposes of paragraph (1), the amount of such liability shall be excluded in determining the amount of liabilities assumed.
 
 #### (B) Exception
 
 &emsp;&emsp;Subparagraph (A) shall not apply to any liability to the extent that the incurrence of the liability resulted in the creation of, or an increase in, the basis of any property.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 116; June 29, 1956, ch. 463, §2, 70 Stat. 403; Pub. L. 95–600, title III, §365(a), Nov. 6, 1978, 92 Stat. 2854; Pub. L. 96–222, title I, §103(a)(12), Apr. 1, 1980, 94 Stat. 213; Pub. L. 96–589, §4(h)(2), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 101–508, title XI, §11801(c)(8)(F), Nov. 5, 1990, 104 Stat. 1388–524.)
+#### (d) Determination of amount of liability assumed
+
+#### (1) In general
+
+&emsp;For purposes of this section, section 358(d), section 362(d), section 368(a)(1)(C), and section 368(a)(2)(B), except as provided in regulations—
+
+&emsp;&emsp;(A) a recourse liability (or portion thereof) shall be treated as having been assumed if, as determined on the basis of all facts and circumstances, the transferee has agreed to, and is expected to, satisfy such liability (or portion), whether or not the transferor has been relieved of such liability; and
+
+&emsp;&emsp;(B) except to the extent provided in paragraph (2), a nonrecourse liability shall be treated as having been assumed by the transferee of any asset subject to such liability.
+
+#### (2) Exception for nonrecourse liability
+
+&emsp;The amount of the nonrecourse liability treated as described in paragraph (1)(B) shall be reduced by the lesser of—
+
+&emsp;&emsp;(A) the amount of such liability which an owner of other assets not transferred to the transferee and also subject to such liability has agreed with the transferee to, and is expected to, satisfy; or
+
+&emsp;&emsp;(B) the fair market value of such other assets (determined without regard to section 7701(g)).
+
+#### (3) Regulations
+
+&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection and section 362(d). The Secretary may also prescribe regulations which provide that the manner in which a liability is treated as assumed under this subsection is applied, where appropriate, elsewhere in this title.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 116; June 29, 1956, ch. 463, §2, 70 Stat. 403; Pub. L. 95–600, title III, §365(a), Nov. 6, 1978, 92 Stat. 2854; Pub. L. 96–222, title I, §103(a)(12), Apr. 1, 1980, 94 Stat. 213; Pub. L. 96–589, §4(h)(2), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 101–508, title XI, §11801(c)(8)(F), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 106–36, title III, §3001(a)(1), (b)(1), (d)(2)–(5), June 25, 1999, 113 Stat. 181–184.)
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–36, §3001(d)(2), struck out “or acquisition” after “assumption” in concluding provisions.
+
+Subsec. (a)(2). Pub. L. 106–36, §3001(a)(1), struck out “, or acquires from the taxpayer property subject to a liability” before comma at end.
+
+Subsec. (b). Pub. L. 106–36, §3001(d)(2), (3), struck out “or acquisition” after “assumption” wherever appearing and struck out “or acquired” after “liability assumed” in concluding provisions of par. (1).
+
+Subsec. (c)(1). Pub. L. 106–36, §3001(d)(4), struck out “, plus the amount of the liabilities to which the property is subject,” after “liabilities assumed” in concluding provisions.
+
+Subsec. (c)(3)(A). Pub. L. 106–36, §3001(d)(5), struck out “or to which the property transferred is subject” after “liabilities assumed” in concluding provisions.
+
+Subsec. (d). Pub. L. 106–36, §3001(b)(1), added subsec. (d).
 
 1990—Subsecs. (a), (b)(1). Pub. L. 101–508, §11801(c)(8)(F)(i), substituted “351 or 361” for “351, 361, 371, or 374” wherever appearing.
 
@@ -82,6 +116,10 @@ Subsec. (b). Act June 29, 1956, §2(1), substituted “371, or 374” for “or 
 
 Subsec. (c)(2)(B). Act June 29, 1956, §2(2), substituted “371 or 374” for “371”.
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–36 applicable to transfers after Oct. 18, 1998, see section 3001(e) of Pub. L. 106–36, set out as a note under section 351 of this title.
+
 #### Effective Date of 1980 Amendments
 
 Amendment by Pub. L. 96–589 applicable to bankruptcy cases or similar judicial proceedings commencing after Dec. 31, 1980, with exception permitting the debtor to make the amendment applicable to such cases or proceedings commencing after Sept. 30, 1979, see section 7(c)(1), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
@@ -94,9 +132,9 @@ Section 365(c) of Pub. L. 95–600 provided that: “The amendments made by subs
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 304, 351, 358, 368 of this title.
+This section is referred to in sections 304, 351, 358, 368, 584, 1031 of this title.
 

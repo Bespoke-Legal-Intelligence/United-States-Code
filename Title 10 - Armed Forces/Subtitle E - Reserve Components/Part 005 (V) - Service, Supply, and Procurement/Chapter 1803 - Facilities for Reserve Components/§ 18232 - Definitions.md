@@ -26,7 +26,7 @@ Act
 
 Sept. 11, 1950, ch. 945, §7, 64 Stat. 831.
 
-Clause (1) is substituted for 50:886(b). The words “(2) Puerto Rico; and (3) the District of Columbia” are omitted, since they are specifically included, where applicable, in the revised chapter. The words “together with any improvement thereto” and “of the United States” are omitted as surplusage. 50:886(c) is omitted, since the reserve components of the armed forces are named in section 261 of this title. 50:886(d) is omitted, since its subject matter is covered by other relevant sections of the revised chapter.
+Clause (1) is substituted for 50:886(b). The words “(2) Puerto Rico; and (3) the District of Columbia” are omitted, since they are specifically included, where applicable, in the revised chapter. The words “together with any improvement thereto” and “of the UnitedStates” are omitted as surplusage. 50:886(c) is omitted, since the reserve components of the armed forces are named in section 261 of this title. 50:886(d) is omitted, since its subject matter is covered by other relevant sections of the revised chapter.
 
 1958
 

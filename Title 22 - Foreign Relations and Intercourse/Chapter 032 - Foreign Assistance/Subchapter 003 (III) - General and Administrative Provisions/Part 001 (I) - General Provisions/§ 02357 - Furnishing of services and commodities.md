@@ -10,7 +10,7 @@ Whenever the President determines it to be consistent with and in furtherance of
 
 #### (b) Agency contracts with individuals to perform services
 
-When any agency of the United States Government provides services on an advance-of-funds or reimbursable basis under this section, such agency may contract with individuals for personal service abroad or in the United States to perform such services or to replace officers or employees of the United States Government who are assigned by the agency to provide such services. Such individuals shall not be regarded as employees of the United States Government for the purpose of any law administered by the Director of the Office of Personnel Management.
+When any agency of the United States Government provides services on an advance-of-funds or reimbursable basis under this section, such agency may contract with individuals for personal service abroad or in the United States toperform such services or to replace officers or employees of the United States Government who are assigned by the agency to provide such services. Such individuals shall not be regarded as employees of the United States Government for the purpose of any law administered by the Director of the Office of Personnel Management.
 
 #### (c) Excess property
 
@@ -86,6 +86,10 @@ Section 122(b) of Pub. L. 95–88 provided that: “For purposes of implementing
 
 Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
 #### Delegation of Authority
 
 Memorandum of President of the United States, Feb. 16, 1995, 60 F.R. 10793, provided:
@@ -116,5 +120,5 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2358 of this title; title 40 section 512.
+This section is referred to in sections 287e–2, 2358 of this title; title 40 section 512.
 

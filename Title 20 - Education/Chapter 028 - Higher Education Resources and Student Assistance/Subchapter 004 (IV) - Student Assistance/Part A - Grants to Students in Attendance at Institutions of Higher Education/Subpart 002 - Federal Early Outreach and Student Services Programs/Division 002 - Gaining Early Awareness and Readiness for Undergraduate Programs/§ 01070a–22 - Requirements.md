@@ -4,7 +4,7 @@
 
 #### (1) Continuation awards
 
-&emsp;From the amount appropriated under section 1070a–28 of this title for a fiscal year, theSecretary shall continue to award grants to States under this division (as this division was in effect on the day before October 7, 1998) in accordance with the terms and conditions of such grants.
+&emsp;From the amount appropriated under section 1070a–28 of this title for a fiscal year, the Secretary shall continue to award grants to States under this division (as this division was in effect on the day before October 7, 1998) in accordance with the terms and conditions of such grants.
 
 #### (2) Distribution
 
@@ -52,7 +52,7 @@ An eligible entity described in <sup>1</sup> 1070a–21(c)(2) of this title sha
 
 &emsp;The Secretary shall require that eligible entities described in section 1070a–21(c)(2) of this title—
 
-&emsp;&emsp;(A) provide services under this division to at least one grade level of students, beginning not later than 7th grade, in a participating school that has a 7th grade and in which at least 50 percent of the students enrolled are eligible for free or reduced-price lunch under the National School Lunch Act \[42 U.S.C. 1751 et seq.\] (or, if an eligible entity determines that it would promote the effectiveness of a program, an entire grade level of students, beginning not later than the 7th grade, who reside in public housing as defined in section 1437a(b)(1) of title 42); and
+&emsp;&emsp;(A) provide services under this division to at least one grade level of students, beginning not later than 7th grade, in a participating school that has a 7th grade and in which at least 50 percent of the students enrolled are eligible for free or reduced-price lunch under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] (or, if an eligible entity determines that it would promote the effectiveness of a program, an entire grade level of students, beginning not later than the 7th grade, who reside in public housing as defined in section 1437a(b)(1) of title 42); and
 
 &emsp;&emsp;(B) ensure that the services are provided through the 12th grade to students in the participating grade level.
 
@@ -60,15 +60,19 @@ An eligible entity described in <sup>1</sup> 1070a–21(c)(2) of this title sha
 
 &emsp;In order for the Secretary to require the cohort approach described in paragraph (1), the Secretary shall, where applicable, ensure that the cohort approach is done in coordination and collaboration with existing early intervention programs and does not duplicate the services already provided to a school or community.
 
-(Pub. L. 89–329, title IV, §404B, as added Pub. L. 105–244, title IV, §403, Oct. 7, 1998, 112 Stat. 1657.)
+(Pub. L. 89–329, title IV, §404B, as added Pub. L. 105–244, title IV, §403, Oct. 7, 1998, 112 Stat. 1657; amended Pub. L. 106–78, title VII, §752(b)(8), Oct. 22, 1999, 113 Stat. 1169.)
 
 #### References in Text
 
-The National School Lunch Act, referred to in subsec. (g)(1)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (g)(1)(A), is act June 4, 1946, ch.281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 #### Prior Provisions
 
 A prior section 1070a–22, Pub. L. 89–329, title IV, §404B, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 492; amended Pub. L. 103–208, §2(b)(13), (14), Dec. 20, 1993, 107 Stat. 2459, related to State eligibility and State plan, prior to the general amendment of this division by Pub. L. 105–244.
+
+#### Amendments
+
+1999—Subsec. (g)(1)(A). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “section”.</i>
 

@@ -166,7 +166,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 &emsp;&emsp;&emsp;(ii) which is not transferred from the Highway Trust Fund under subparagraph (A) or (B),
 
-> &emsp;&emsp;shall be transferred by the Secretary from the Highway Trust Fund into the Sport FishRestoration Account in the Aquatic Resources Trust Fund.
+> &emsp;&emsp;shall be transferred by the Secretary from the Highway Trust Fund into the Sport Fish Restoration Account in the Aquatic Resources Trust Fund.
 
 #### (D) Motorboat fuel taxes
 
@@ -304,7 +304,7 @@ For purposes of determining the balances of the Highway Trust Fund and the Mass 
 
 > The Secretary shall cancel obligations held by the Highway Trust Fund to reflect the reduction in the balance under this subsection.
 
-(Added Pub. L. 97–424, title V, §531(a), Jan. 6, 1983, 96 Stat. 2187; amended Pub. L. 98–369, div. A, title IV, §474(r)(43), title IX, §911(d)(1), title X, §1016(b), July 18, 1984, 98 Stat. 847, 1006, 1020; Pub. L. 99–499, title V, §521(b)(1), Oct. 17, 1986, 100 Stat. 1777; Pub. L. 99–640, §7(a), Nov. 10, 1986, 100 Stat. 3547; Pub. L. 100–17, title V, §§503(a), (b), 504, Apr. 2, 1987, 101 Stat. 257, 258; Pub. L. 100–203, title X, §10502(d)(13)–(15), Dec. 22, 1987, 101 Stat. 1330–444, 1330–445; Pub. L. 100–448, §6(a)(1), (3), Sept. 28, 1988, 102 Stat. 1839; Pub. L. 101–239, title VII, §7822(b)(6), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 101–508, title XI, §11211(a)(5)(D)–(F), (b)(6)(H), (g)(1), (h)(1), (i)(1), Nov. 5, 1990, 104 Stat. 1388–424, 1388–426, 1388–427; Pub. L. 102–240, title VIII, §§8002(d)(1), (2)(A), (e), (f), 8003(b), Dec. 18, 1991, 105 Stat. 2204, 2205; Pub. L. 103–66, title XIII, §§13242(d)(34)–(41), 13244(a), Aug. 10, 1993, 107 Stat. 527, 529; Pub. L. 103–429, §4, Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–34, title IX, §901(a)–(d), title X, §1032(e)(13), (14), title XVI, §1601(f)(2), Aug. 5, 1997, 111 Stat. 871, 872, 935, 1090; Pub. L. 105–102, §1, Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–130, §9(a), Dec. 1, 1997, 111 Stat. 2560; Pub. L. 105–178, title IX, §§9002(c)(1), (2)(A), (3)–(e)(1), (f), 9004(a)(1), (b)(1), (c), (d), 9005(a), 9011(b)(1), (2),June 9, 1998, 112 Stat. 500, 501, 503, 504, 508; Pub. L. 105–206, title IX, §9015(a), July 22, 1998, 112 Stat. 867; Pub. L. 105–225, §7(a), Aug. 12, 1998, 112 Stat. 1511; Pub. L. 105–277, div. A, title IV, §4006(b)(1), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 105–354, §2(c)(2), Nov. 3, 1998, 112 Stat. 3244.)
+(Added Pub. L. 97–424, title V, §531(a), Jan. 6, 1983, 96 Stat. 2187; amended Pub. L. 98–369, div. A, title IV, §474(r)(43), title IX, §911(d)(1), title X, §1016(b), July 18, 1984, 98 Stat. 847, 1006, 1020; Pub. L. 99–499, title V, §521(b)(1), Oct. 17, 1986, 100 Stat. 1777; Pub. L. 99–640, §7(a), Nov. 10, 1986, 100 Stat. 3547; Pub. L. 100–17, title V, §§503(a), (b), 504, Apr. 2, 1987, 101 Stat. 257, 258; Pub. L. 100–203, title X, §10502(d)(13)–(15), Dec. 22, 1987, 101 Stat. 1330–444, 1330–445; Pub. L. 100–448, §6(a)(1), (3), Sept. 28, 1988, 102 Stat. 1839; Pub. L. 101–239, title VII, §7822(b)(6), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 101–508, title XI, §11211(a)(5)(D)–(F), (b)(6)(H), (g)(1), (h)(1), (i)(1), Nov. 5, 1990, 104 Stat. 1388–424, 1388–426, 1388–427; Pub. L. 102–240, title VIII, §§8002(d)(1), (2)(A), (e), (f), 8003(b), Dec. 18, 1991, 105 Stat. 2204, 2205; Pub. L. 103–66, title XIII, §§13242(d)(34)–(41), 13244(a), Aug. 10, 1993, 107Stat. 527, 529; Pub. L. 103–429, §4, Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–34, title IX, §901(a)–(d), title X, §1032(e)(13), (14), title XVI, §1601(f)(2), Aug. 5, 1997, 111 Stat. 871, 872, 935, 1090; Pub. L. 105–102, §1, Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–130, §9(a), Dec. 1, 1997, 111 Stat. 2560; Pub. L. 105–178, title IX, §§9002(c)(1), (2)(A), (3)–(e)(1), (f), 9004(a)(1), (b)(1), (c), (d), 9005(a), 9011(b)(1), (2), June 9, 1998, 112 Stat. 500, 501, 503, 504, 508; Pub. L. 105–206, title IX, §9015(a), July 22, 1998, 112 Stat. 867; Pub. L. 105–225, §7(a), Aug. 12, 1998, 112 Stat. 1511; Pub. L. 105–277, div. A, title IV, §4006(b)(1), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 105–354, §2(c)(2), Nov. 3, 1998, 112 Stat. 3244.)
 
 #### References in Text
 
@@ -372,7 +372,7 @@ Subsec. (c)(6). Pub. L. 105–178, §9011(b)(1), struck out heading and text of 
 
 Subsec. (c)(7). Pub. L. 105–178, §9004(b)(1), struck out heading and text of par. (7). Prior to amendment, text read as follows: “Notwithstanding any other provision of law, in calculating amounts under section 157(a) of title 23, United States Code, and sections 1013(c), 1015(a), and 1015(b) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240; 105 Stat. 1914), deposits in the Highway Trust Fund resulting from the amendments made by the Taxpayer Relief Act of 1997 shall not be taken into account.”
 
-Subsec. (e)(2). Pub. L. 105–178, §9002(e)(1), substituted “For purposes of the preceding sentence, the term ‘mass transit portion’ means, for any fuel with respect to which tax was imposed under section 4041 or 4081 and otherwise deposited into the Highway Trust Fund, the amount determined at the rate of—
+Subsec. (e)(2). Pub. L. 105–178, §9002(e)(1), substituted “For purposes of the preceding sentence, the term ‘mass transit portion’ means, for any fuel with respect to which tax was imposed under section 4041 or 4081 andotherwise deposited into the Highway Trust Fund, the amount determined at the rate of—
 
 &emsp;“(A) except as otherwise provided in this sentence, 2.86 cents per gallon,
 
@@ -462,7 +462,7 @@ Subsec. (f). Pub. L. 103–66, §13242(d)(41), added subsec. (f).
 
 1991—Subsec. (b)(1), (2). Pub. L. 102–240, §8002(d)(1), substituted “1999” for “1995” and “2000” for “1996” wherever appearing.
 
-Subsec. (c)(1). Pub. L. 102–240, §8002(e), substituted “1997” for “1993” in introductory provisions, added subpar. (D) and concluding provisions, and struck out former subpar. (D) which read as follows: “hereafter authorized by a law which does not authorize the expenditure out of the Highway Trust Fund of any amount for a general purpose not covered by subparagraph (A), (B), or (C) as in effect on the date of the enactment of theSurface Transportation and Uniform Relocation Assistance Act of 1987.”
+Subsec. (c)(1). Pub. L. 102–240, §8002(e), substituted “1997” for “1993” in introductory provisions, added subpar. (D) and concluding provisions, and struck out former subpar. (D) which read as follows: “hereafter authorized by a law which does not authorize the expenditure out of the Highway Trust Fund of any amount for a general purpose not covered by subparagraph (A), (B), or (C) as in effect on the date of the enactment of the Surface Transportation and Uniform Relocation Assistance Act of 1987.”
 
 Subsec. (c)(2)(A), (3). Pub. L. 102–240, §8002(d)(1), substituted “1999” for “1995” and “2000” for “1996” wherever appearing.
 

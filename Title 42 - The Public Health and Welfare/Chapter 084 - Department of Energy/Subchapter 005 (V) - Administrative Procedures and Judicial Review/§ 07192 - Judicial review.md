@@ -10,7 +10,7 @@ Notwithstanding the amount in controversy, the district courts of the United Sta
 
 #### (c) Litigation supervision by Attorney General
 
-Subject to the provisions of section 7171(i) of this title and notwithstanding any other law, the litigation of the Department shall be subject to the supervision of the Attorney General pursuant to chapter 31 of title 28. The Attorney General may authorize any attorney of the Department to conduct any civil litigation of the Department in any Federal court except the Supreme Court.
+Subject to the provisions of section 7171(i) of this title and notwithstanding any other law, the litigation of the Department shall be subject to the supervision of the Attorney General pursuant to chapter 31 of title 28. The AttorneyGeneral may authorize any attorney of the Department to conduct any civil litigation of the Department in any Federal court except the Supreme Court.
 
 (Pub. L. 95–91, title V, §502, Aug. 4, 1977, 91 Stat. 589.)
 

@@ -24,7 +24,7 @@ Pub. L. 92–313, §1, June 16, 1972, 86 Stat. 216, provided: “That this Act \
 
 #### Short Title
 
-Section 1 of Pub. L. 86–249 provided: “That this Act \[enacting this chapter, amending section 490 of this title, and repealing sections 23, 24, 32, 33, 59, 254, 259, 260, 262 to 265, 267, 268, 274 to 276, 277, 278, 282, 297 to 298, 298c, 341 to 342a, 344, 345, 346 to 350a, and 352 to 354 of this title\] may be cited as the ‘Public Buildings Act of 1959’.”
+Section 1 of Pub. L. 86–249 provided: “That this Act \[enacting this chapter, amending section 490 of this title, and repealing sections 23, 24, 32, 33, 59, 254, 259,260, 262 to 265, 267, 268, 274 to 276, 277, 278, 282, 297 to 298, 298c, 341 to 342a, 344, 345, 346 to 350a, and 352 to 354 of this title\] may be cited as the ‘Public Buildings Act of 1959’.”
 
 #### Central Intelligence Agency Authorities
 

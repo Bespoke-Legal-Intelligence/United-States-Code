@@ -72,7 +72,7 @@ For purposes of this part, the term “subsidiary corporation” means any corpo
 
 #### (g) Special rule for applying subsections (e) and (f)
 
-In applying subsections (e) and (f) for purposes of section <sup>1</sup> 422(a)(2) and 423(a)(2), there shall besubstituted for the term “employer corporation” wherever it appears in subsection (e) and (f) the term “grantor corporation” or the term “corporation issuing or assuming a stock option in a transaction to which section 424(a) applies” as the case may be.
+In applying subsections (e) and (f) for purposes of section <sup>1</sup> 422(a)(2) and 423(a)(2), there shall be substituted for the term “employer corporation” wherever it appears in subsection (e) and (f) the term “grantor corporation” or the term “corporation issuing or assuming a stock option in a transaction to which section 424(a) applies” as the case may be.
 
 #### (h) Modification, extension, or renewal of option
 
@@ -156,7 +156,7 @@ Subsec. (h)(3)(B). Pub. L. 97–34, §251(b)(4), inserted reference to section 4
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub.L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 97–34 applicable with respect to options granted on or af
 
 #### Effective Date
 
-Section applicable to taxable years ending after Dec. 31, 1963, except in cases of options granted after Dec. 31, 1963, and before Jan. 1, 1965, in which case par. (1) of subsec. (h) shall not apply to any change in the terms of such option made before Jan. 1, 1965, to permit such option to qualify under pars. (3), (4), and (5) of section 422(b), see section 221(e) of Pub. L. 88–272, set out as an Effective Date of 1964 Amendment note under section 421 of this title.
+Section applicable to taxable years ending after Dec. 31, 1963, except in cases of options granted after Dec. 31,1963, and before Jan. 1, 1965, in which case par. (1) of subsec. (h) shall not apply to any change in the terms of such option made before Jan. 1, 1965, to permit such option to qualify under pars. (3), (4), and (5) of section 422(b), see section 221(e) of Pub. L. 88–272, set out as an Effective Date of 1964 Amendment note under section 421 of this title.
 
 #### Savings Provision
 

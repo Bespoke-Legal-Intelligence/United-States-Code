@@ -6,7 +6,7 @@ Each consortium that desires to receive a grant under this subchapter shall subm
 
 #### (b) Plan
 
-Each application submitted under this section shall contain a 5-year plan for the development and implementation of tech-prep programs under this subchapter, which plan shall be reviewed after the second year of the plan.
+Each application submitted under this section shall contain a 5-year plan for the developmentand implementation of tech-prep programs under this subchapter, which plan shall be reviewed after the second year of the plan.
 
 #### (c) Approval
 

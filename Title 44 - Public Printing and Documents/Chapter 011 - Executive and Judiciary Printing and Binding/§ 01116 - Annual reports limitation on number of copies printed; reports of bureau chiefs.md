@@ -14,5 +14,5 @@ This section incorporates only the first sentence of the second paragraph of for
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 

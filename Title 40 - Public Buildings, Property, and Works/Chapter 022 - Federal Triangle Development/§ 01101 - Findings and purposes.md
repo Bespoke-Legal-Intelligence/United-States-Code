@@ -8,7 +8,7 @@ The Congress finds and declares that—
 
 &emsp;(2) development of such a Federal building complex will permit consolidation of a number of Federal agencies which are currently housed in numerous, scattered locations and will enable more economical and efficient use of building space and environs;
 
-&emsp;(3) inclusion of an international cultural and trade center within the Federal building complex will create and enhance opportunities for American trade, commerce, communications, and cultural exchanges with other nations and complement the work of Federal, State, and local agencies in the areas of international trade and cultural exchange; and
+&emsp;(3) inclusion of an international cultural and trade center within the Federal building complex will create and enhance opportunities forAmerican trade, commerce, communications, and cultural exchanges with other nations and complement the work of Federal, State, and local agencies in the areas of international trade and cultural exchange; and
 
 &emsp;(4) the appropriate development, maintenance, and use of the Federal Triangle property should be a joint development effort of the General Services Administration, the Pennsylvania Avenue Development Corporation, and the International Cultural and Trade Center Commission.
 

@@ -42,7 +42,7 @@ Amendment by Pub. L. 90–448 effective from and after a date, no more than 120 
 
 #### Transfer of Functions
 
-Pub. L. 89–174, §9(c), Sept. 9, 1965, 79 Stat. 670, set out as a note under section 3531 of this title, provides thatreferences to the Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean the Secretary of Housing and Urban Development, pursuant to the transfer of functions under this section, and that the Housing and Home Finance Agency and the Public Housing Administration, a constituent agency therein, have lapsed.
+Pub. L. 89–174, §9(c), Sept. 9, 1965, 79 Stat. 670, set out as a note under section 3531 of this title, provides that references to the Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean the Secretary of Housing and Urban Development, pursuant to the transfer of functions under this section, and that the Housing and Home Finance Agency and the Public Housing Administration, a constituent agency therein, have lapsed.
 
 #### Section Referred to in Other Sections
 

@@ -16,13 +16,13 @@ The reporter or other individual designated to produce the record shall attach h
 
 The reporter or other individual designated to produce the record shall transcribe and certify such parts of the record of proceedings as may be required by any rule or order of court, including all arraignments, pleas, and proceedings in connection with the imposition of sentence in criminal cases unless they have been recorded by electronic sound recording as provided in this subsection and the original records so taken have been certified by him and filed with the clerk as provided in this subsection. He shall also transcribe and certify such other parts of the record of proceedings as may be required by rule or order of court. Upon the request of any party to any proceeding which has been so recorded who has agreed to pay the fee therefor, or of a judge of the court, the reporter or other individual designated to produce the record shall promptly transcribe the original records of the requested parts of the proceedings and attach to the transcript his official certificate, and deliver the same to the party or judge making the request.
 
-The reporter or other designated individual shall promptly delivery to the clerk for the records of the court a certified copy of any transcript so made.
+The reporter or other designated individual shall promptly delivery to the clerk for therecords of the court a certified copy of any transcript so made.
 
 The transcript in any case certified by the reporter or other individual designated to produce the record shall be deemed prima facie a correct statement of the testimony taken and proceedings had. No transcripts of the proceedings of the court shall be considered as official except those made from the records certified by the reporter or other individual designated to produce the record.
 
 The original notes or other original records and the copy of the transcript in the office of the clerk shall be open during office hours to inspection by any person without charge.
 
-(c) The reporters shall be subject to the supervision of the appointing court and the JudicialConference in the performance of their duties, including dealings with parties requesting transcripts.
+(c) The reporters shall be subject to the supervision of the appointing court and the Judicial Conference in the performance of their duties, including dealings with parties requesting transcripts.
 
 (d) The Judicial Conference shall prescribe records which shall be maintained and reports which shall be filed by the reporters. Such records shall be inspected and audited in the same manner as the records and accounts of clerks of the district courts, and may include records showing:
 
@@ -52,13 +52,13 @@ Section consolidates section 9a(a), (b), (c), (d) of title 28, U.S.C., 1940 ed.,
 
 The provisions of section 644 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, relating to clerks and deputy clerks, were incorporated in section 751 of this title. The provision of said section 644 fixing the salary of the reporter at $1,200 per annum was omitted as inconsistent with this section. Certain other provisions of said section 644 were also omitted. (See reviser's note under section 751 of this title.)
 
-Words “including the District Court of the United States for the District of Columbia, and the district courts in the territories and insular possessions” were omitted as covered by “Each district court in the United States, the District Court for the Territory of Alaska, the United States District Court for the District of the Canal Zone, and the District Court of the Virgin Islands.” (See reviser's note under section 88 of this title.) The courts in Hawaii and Puerto Rico are district courts of the United States under definitive section 451 of this title.
+Words “including the District Court of the United States for the District of Columbia, and the district courts in the territories and insular possessions” were omitted as covered by “Each district court in theUnited States, the District Court for the Territory of Alaska, the United States District Court for the District of the Canal Zone, and the District Court of the Virgin Islands.” (See reviser's note under section 88 of this title.) The courts in Hawaii and Puerto Rico are district courts of the United States under definitive section 451 of this title.
 
 Words “for the performance of the duties combined” were substituted for “therefor, as provided by subsection (c) hereof, any provision of law to the contrary notwithstanding”.
 
 Subsections (e) and (f) of this section incorporate part of the provisions of subsection 9a(c) of title 28, U.S.C., 1940 ed. The other provisions of said subsection are incorporated in sections 550 \[see Prior Provisions note under that section\] and 1915 of this title.
 
-The last paragraph of subsection (b) of this section was revised to conform with the language of section 556 of title 28, U.S.C., 1940 ed., providing for inspection ofbooks in the offices of clerks of district courts. Such section 556 will be omitted, however, as more properly coverable by rule of court.
+The last paragraph of subsection (b) of this section was revised to conform with the language of section 556 of title 28, U.S.C., 1940 ed., providing for inspection of books in the offices of clerks of district courts. Such section 556 will be omitted, however, as more properly coverable by rule of court.
 
 #### References in Text
 

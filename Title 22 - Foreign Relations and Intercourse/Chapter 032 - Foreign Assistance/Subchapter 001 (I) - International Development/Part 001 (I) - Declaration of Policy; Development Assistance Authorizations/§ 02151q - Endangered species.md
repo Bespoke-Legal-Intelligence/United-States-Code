@@ -6,7 +6,7 @@ The Congress finds the survival of many animal and plant species is endangered b
 
 #### (b) Remedial measures
 
-In order to preserve biological diversity, the President is authorized to furnish assistanceunder subchapter I of this chapter, notwithstanding section 2420 of this title, to assist countries in protecting and maintaining wildlife habitats and in developing sound wildlife management and plant conservation programs. Special efforts should be made to establish and maintain wildlife sanctuaries, reserves, and parks; to enact and enforce anti-poaching measures; and to identify, study, and catalog animal and plant species, especially in tropical environments.
+In order to preserve biological diversity, the President is authorized to furnish assistance under subchapter I of this chapter, notwithstanding section 2420 of this title, to assist countries in protecting and maintaining wildlife habitats and in developing sound wildlife management and plant conservation programs. Special efforts should be made to establish and maintain wildlife sanctuaries, reserves, and parks; to enact and enforce anti-poaching measures; and to identify, study, and catalog animal and plant species, especially in tropical environments.
 
 #### (c) Funding level
 
@@ -79,6 +79,10 @@ Subsecs. (e) to (h). Pub. L. 99–529 added subsecs. (e) to (h).
 #### Short Title
 
 For short title of title VII of Pub. L. 98–164, which enacted this section and amended section 2452 of this title, as the “International Environment Protection Act of 1983”, see section 701 of Pub. L. 98–164, set out as a Short Title of 1983 Amendment note under section 2151 of this title.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Increased International Cooperation To Protect Biological Diversity
 

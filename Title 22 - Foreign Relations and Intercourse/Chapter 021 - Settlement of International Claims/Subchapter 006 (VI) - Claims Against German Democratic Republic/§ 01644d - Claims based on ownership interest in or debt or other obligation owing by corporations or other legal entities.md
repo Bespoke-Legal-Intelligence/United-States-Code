@@ -2,7 +2,7 @@
 
 #### (a) Nationals of the United States; charge on property
 
-A claim under section 1644b of this title based upon an ownership interest in any corporation, association, or other entity which is a national of the United States, shall not be considered. A claim under section 1644b of this title based upon a debt or other obligation owing by any corporation, association, or other entity organized under the laws of the United States, or of any State, the District of Columbia, or the Commonwealth of Puerto Rico shall be considered only when such debt or other obligation is a charge on property which has been nationalized, expropriated, or taken by the German Democratic Republic.
+A claim under section 1644b of this title based upon an ownership interest in any corporation, association, or other entity which is a national of the United States, shall not be considered. A claim under section 1644b of this title basedupon a debt or other obligation owing by any corporation, association, or other entity organized under the laws of the United States, or of any State, the District of Columbia, or the Commonwealth of Puerto Rico shall be considered only when such debt or other obligation is a charge on property which has been nationalized, expropriated, or taken by the German Democratic Republic.
 
 #### (b) Direct ownership
 
@@ -10,7 +10,7 @@ A claim under section 1644b of this title based upon a direct ownership interest
 
 #### (c) Indirect ownership
 
-A claim under section 1644b of this title for losses based upon an indirect ownership interestin a corporation, association, or other entity, shall be considered, subject to the other provisions of this subchapter, only if at least 25 per centum of the entire ownership interest thereof, at the time of such loss, was vested in nationals of the United States.
+A claim under section 1644b of this title for losses based upon an indirect ownership interest in a corporation, association, or other entity, shall be considered, subject to the other provisions of this subchapter, only if at least 25 per centum of the entire ownership interest thereof, at the time of such loss, was vested in nationals of the United States.
 
 #### (d) Computation of award
 

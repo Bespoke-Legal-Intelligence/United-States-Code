@@ -14,7 +14,7 @@ A certificate of review shall be issued to any applicant that establishes that i
 
 #### (b) Time for determination; specification in certificate
 
-Within ninety days after the Secretary receives an application for a certificate of review, the Secretary shall determine whether the applicant's export trade, export trade activities,and methods of operation meet the standards of subsection (a) of this section. If the Secretary, with the concurrence of the Attorney General, determines that such standards are met, the Secretary shall issue to the applicant a certificate of review. The certificate of review shall specify—
+Within ninety days after the Secretary receives an application for a certificate of review, the Secretary shall determine whether the applicant's export trade, export trade activities, and methods of operation meet the standards of subsection (a) of this section. If the Secretary, with the concurrence of the Attorney General, determines that such standards are met, the Secretary shall issue to the applicant a certificate of review. The certificate of review shall specify—
 
 &emsp;(1) the export trade, export trade activities, and methods of operation to which the certificate applies,
 

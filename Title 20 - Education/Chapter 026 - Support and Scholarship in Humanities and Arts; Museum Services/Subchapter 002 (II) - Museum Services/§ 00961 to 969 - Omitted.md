@@ -26,7 +26,7 @@ Section 966, Pub. L. 94–462, title II, §207, Oct. 8, 1976, 90 Stat. 1977, rel
 
 Section 967, Pub. L. 94–462, title II, §209, Oct. 8, 1976, 90 Stat. 1978; Pub. L. 96–496, title I, §201(e), Dec. 4, 1980, 94 Stat. 2593; Pub. L. 98–306, §11, May 31, 1984, 98 Stat. 225; Pub. L. 99–194, title II, §203, Dec. 20, 1985, 99 Stat. 1344; Pub. L. 101–512, title III, §318 \[title II, §§204, 205(b)\], Nov. 5, 1990, 104 Stat. 1960, 1975, 1976, authorized appropriations for purpose of making grants under section 965(a) of this title and for administering provisions of this subchapter. See section 9176 of this title.
 
-Section 968, Pub. L. 94–462, title II, §210, Oct. 8, 1976, 90 Stat. 1978, defined “Board”, “Director”, “Institute”, and “museum” for purposes of this subchapter. See sections 9101 and 9172 of this title.
+Section 968, Pub. L. 94–462, title II, §210, Oct. 8, 1976, 90 Stat. 1978, defined “Board”, “Director”, “Institute”,and “museum” for purposes of this subchapter. See sections 9101 and 9172 of this title.
 
 Section 969, Pub. L. 94–462, title II, §211, as added Pub. L. 101–512, title III, §318 \[title II, §205 \[(a)\]\], Nov. 5, 1990, 104 Stat. 1960, 1975, related to assessment of needs of small, emerging, minority, and rural museums.
 

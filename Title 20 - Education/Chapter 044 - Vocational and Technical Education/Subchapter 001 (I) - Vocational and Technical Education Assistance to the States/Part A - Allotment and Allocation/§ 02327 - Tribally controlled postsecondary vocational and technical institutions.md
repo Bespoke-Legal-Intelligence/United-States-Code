@@ -16,7 +16,7 @@ Amounts made available pursuant to this section shall be used for vocational and
 
 #### (2) Per capita determination
 
-&emsp;For the purposes of paragraph (1), the per capita payment for any fiscal year shall be determined by dividing the amount available for grants to tribally controlled postsecondary vocational and technical institutions under this section for such program year by the sum of the Indian student counts of such institutions for such program year. The Secretary shall, on the basis of the most accurate data available from the institutions, compute the Indian student count for any fiscal year for which such count was not used for the purpose of making allocations under this section.
+&emsp;For the purposes of paragraph (1), the per capita payment for any fiscal year shall be determined by dividing the amount available for grants to tribally controlled postsecondary vocational and technical institutions under thissection for such program year by the sum of the Indian student counts of such institutions for such program year. The Secretary shall, on the basis of the most accurate data available from the institutions, compute the Indian student count for any fiscal year for which such count was not used for the purpose of making allocations under this section.
 
 #### (d) Applications
 
@@ -86,7 +86,7 @@ Any tribally controlled postsecondary vocational and technical institution that 
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall provide for the conduct of a long-term study of the facilities of each institution eligible for assistance under this section.
+&emsp;&emsp;The Secretary shall provide for the conduct of a long-term study of the facilities ofeach institution eligible for assistance under this section.
 
 #### (B) Contents
 

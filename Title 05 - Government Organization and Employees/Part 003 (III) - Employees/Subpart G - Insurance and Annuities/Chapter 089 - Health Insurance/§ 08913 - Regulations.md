@@ -72,7 +72,7 @@ Section 1501 of title 31, District of Columbia Code, referred to in subsec. (b)(
 
 1985—Subsec. (b). Pub. L. 99–53 inserted reference to section 8903a of this title.
 
-1984—Subsec. (c). Pub. L. 98–615, §3(7), substituted “employees, annuitants, members of their families, and former spouses” for “employees and annuitants and members of their families”, and “in which an annuitant or former spouse” for “in which an annuitant”.
+1984—Subsec. (c). Pub. L. 98–615, §3(7), substituted “employees, annuitants, members of their families, andformer spouses” for “employees and annuitants and members of their families”, and “in which an annuitant or former spouse” for “in which an annuitant”.
 
 1978—Subsecs. (a), (b). Pub. L. 95–454, §906(a)(2), (3), substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 

@@ -10,3 +10,7 @@
 
 For prior sections 401 of Pub. L. 90–351 and prior sections 3741 of this title, see note set out preceding this section.
 
+#### Transfer of Functions
+
+Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §108(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that: “Notwithstanding any other provision of law, effective August 1, 2000, all functions of the Director of the Bureau of Justice Assistance, other than those enumerated in the Omnibus Crime Control and Safe Streets Act, as amended, 42 U.S.C. 3742(3) through (6), are transferred to the Assistant Attorney General for the Office of Justice Programs.”
+

@@ -20,7 +20,7 @@
 
 &emsp;(A) in line of duty while performing active duty;
 
-&emsp;(B) in line of duty while performing inactive-duty training (other than work or study in connection with a correspondence course of an armed force or attendance in an inactive status at an educational institution under the sponsorship of an armed force or the Public Health Service);
+&emsp;(B) in line of duty while performing inactive-duty training (other than work or study in connection with a correspondence course of an armed force or attendance in an inactive status at an educational institution under thesponsorship of an armed force or the Public Health Service);
 
 &emsp;(C) while traveling directly to or from such duty or training; or
 
@@ -132,7 +132,7 @@ Dec. 20, 1886, ch. 2, 24 Stat. 351; June 2, 1950, ch. 217, §2, 64 Stat. 195.
 
 \[The citations to section 232(d) of existing title 37, above, are to the language of subsection (d) set forth in the codification note under section 232, rather than that erroneously set forth in the text of the section.\]
 
-In subsection (a), the last 27 words are substituted for the words “or performance of the duties provided for by sections 5, 81, 94, 97 and 99 of the National Defense Act, as amended,” to reflect the current citations. So much of the introductory clause as follows the exception is substituted for the 36 words preceding 1st proviso of 1st sentence of section 232(d) of existing title 37. The words “on the active list” are omitted as covered by the words “active duty” as defined in section 101(18) of this revised title. The words “(provided for or authorized in the National Defense Act, as amended, or in the Naval Reserve Act of 1938, as amended)” are omitted as covered by the words “provided by law”.
+In subsection (a), the last 27 words are substituted for the words “or performance of the duties provided for by sections 5, 81, 94, 97 and 99 of the National Defense Act, as amended,” to reflect the current citations. So muchof the introductory clause as follows the exception is substituted for the 36 words preceding 1st proviso of 1st sentence of section 232(d) of existing title 37. The words “on the active list” are omitted as covered by the words “active duty” as defined in section 101(18) of this revised title. The words “(provided for or authorized in the National Defense Act, as amended, or in the Naval Reserve Act of 1938, as amended)” are omitted as covered by the words “provided by law”.
 
 In subsection (b), the words “For the purposes of subsection (a)” are inserted for clarity. The words “active duty for a period of more than 30 days” are substituted for the words “extended active duty in excess of thirty days”. The words “call or” are inserted to conform to the words “called or”.
 
@@ -210,5 +210,5 @@ No increase in allowances while dependent entitled to basic pay, see section 421
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 206, 301, 301a, 304, 316, 402, 411h, 421, 707 of this title; title 5 sections 4102, 8334, 8422; title 22 section 4045; title 50 section 2082.
+This section is referred to in sections 206, 301, 301a, 304, 316, 320, 402, 411h, 421, 707 of this title; title 5 sections 4102, 8334, 8422, 8440e; title 22 section 4045; title 50 section 2082.
 

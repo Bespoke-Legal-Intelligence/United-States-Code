@@ -32,7 +32,7 @@ Subsec. (b). Pub. L. 91–604, §§4(b)(3), (4), (5), 15(c)(2), redesignated for
 
 Subsec. (c). Pub. L. 91–604, §§4(b)(3), (6), 15(c)(2), redesignated former subsec. (d)(1)(D) as (c) and substituted “Administrator” for “Secretary” and “Secretary of Health, Education, and Welfare” wherever appearing and “subsection” for “subparagraph” wherever appearing. Former subsec. (c), which related to the procedure for the promulgation of State air quality standards, was struck out.
 
-Subsec. (d). Pub. L. 91–604, §§4(b)(4), (6), (7), (8), 15(c)(2), redesignated former subsec. (d)(2) and (3) as (d)(1) and (2), in (d)(1) substituted “Administrator” for “Secretary” wherever appearing and “any conferenceunder this section” for “such conference”, and in (d)(2) substituted “Administrator” for “Secretary”. Former subsec. (d)(1)(A), (B), and (C) were redesignated as (b)(1), (2), and (3), respectively, and subsec. (d)(1)(D) was redesignated as (c).
+Subsec. (d). Pub. L. 91–604, §§4(b)(4), (6), (7), (8), 15(c)(2), redesignated former subsec. (d)(2) and (3) as (d)(1) and (2), in (d)(1) substituted “Administrator” for “Secretary” wherever appearing and “any conference under this section” for “such conference”, and in (d)(2) substituted “Administrator” for “Secretary”. Former subsec. (d)(1)(A), (B), and (C) were redesignated as (b)(1), (2), and (3), respectively, and subsec. (d)(1)(D) was redesignated as (c).
 
 Subsec. (e). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary” wherever appearing.
 

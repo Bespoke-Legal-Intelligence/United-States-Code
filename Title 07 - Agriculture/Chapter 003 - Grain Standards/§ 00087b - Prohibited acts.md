@@ -128,7 +128,7 @@ Subsec. (a)(3). Pub. L. 94–582, §15(a)(2), prohibited deceptive weighing of g
 
 Subsec. (a)(5). Pub. L. 94–582, §15(a)(3), substituted “official mark” for “official inspection mark” and inserted “or officially weighed, respectively,” after “such container”.
 
-Subsecs. (a)(7), (8). Pub. L. 94–582, §15(a)(4), inserted “or personnel of agencies delegated authority or of agencies or other persons designated under this chapter” after “personnel”.
+Subsecs. (a)(7), (8). Pub. L. 94–582, §15(a)(4), inserted “or personnel of agencies delegated authority or ofagencies or other persons designated under this chapter” after “personnel”.
 
 Subsec. (a)(9). Pub. L. 94–582, §15(a)(5), inserted “or official weighing or supervision of weighing” after “official inspection”.
 

@@ -112,5 +112,5 @@ Section applicable to excess benefit transactions occurring on or after Sept. 14
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4955, 4963, 6033, 6213, 7422, 7454 of this title.
+This section is referred to in sections 4955, 4963, 6033, 6213, 7422, 7454 of this title; title 47 section 396.
 

@@ -213,7 +213,7 @@
 | [1666c.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666c%20-%20Prompt%20crediting%20of%20payments%3B%20imposition%20of%20finance%20charge.md) | Prompt crediting of payments; imposition of finance charge. |
 | [1666d.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666d%20-%20Treatment%20of%20credit%20balances.md) | Treatment of credit balances. |
 | [1666e.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666e%20-%20Notification%20of%20credit%20card%20issuer%20by%20seller%20of%20return%20of%20goods%2C%20etc.%2C%20by%20obligor%3B%20credit%20for%20account%20of%20obligor.md) | Notification of credit card issuer by seller of return of goods, etc., by obligor; credit for account of obligor. |
-| [1666f.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666f%20-%20Inducements%20to%20cardholders%20by%20sellers%20of%20cash%20discounts%20for%20payments%20by%20cash%2C%20check%20or%20similar%20means%3B%20credit%20card%20surcharge%20prohibition%E2%80%A6.md) | Inducements to cardholders by sellers of cash discounts for payments by cash, check or similar means; credit card surcharge prohibition; finance charge for sales transactions involving cash discounts. |
+| [1666f.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666f%20-%20Inducements%20to%20cardholders%20by%20sellers%20of%20cash%20discounts%20for%20payments%20by%20cash%2C%20check%20or%20similar%20means%3B%20finance%20charge%20for%20sales%E2%80%A6.md) | Inducements to cardholders by sellers of cash discounts for payments by cash, check or similar means; finance charge for sales transactions involving cash discounts. |
 | (a) | Cash discounts. |
 | (b) | Finance charge. |
 | [1666g.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20D%20-%20Credit%20Billing/%C2%A7%2001666g%20-%20Tie-in%20services%20prohibited%20for%20issuance%20of%20credit%20card.md) | Tie-in services prohibited for issuance of credit card. |
@@ -393,7 +393,7 @@
 | (b) | Enforcement by other agencies. |
 | (c) | State action for violations. |
 | (d) | Enforcement under other authority. |
-| (e) | Interpretive authority. |
+| (e) | Regulatory authority. |
 | 1681s–1. | Information on overdue child support obligations. |
 | 1681s–2. | Responsibilities of furnishers of information to consumer reporting agencies. |
 | (a) | Duty of furnishers of information to provide accurate information. |
@@ -557,6 +557,7 @@
 | (a) | Action or failure to act proximately causing damages. |
 | (b) | Acts of God and technical malfunctions. |
 | (c) | Intent. |
+| (d) | Exception for damaged notices. |
 | [1693i.](Subchapter%20006%20%28VI%29%20-%20Electronic%20Fund%20Transfers/%C2%A7%2001693i%20-%20Issuance%20of%20cards%20or%20other%20means%20of%20access.md) | Issuance of cards or other means of access. |
 | (a) | Prohibition; proper issuance. |
 | (b) | Exceptions. |

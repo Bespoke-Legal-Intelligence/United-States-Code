@@ -24,7 +24,7 @@ As used in this chapter—
 
 The content of Pub. L. 93–516, including provisions of sections 206 and 207 thereof which amended and renumbered this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974. See 1974 Amendment note below.
 
-Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L.93–651. Therefore, for purposes of codification, this section should be deemed to have been amended and renumbered by Pub. L. 93–651, title II, §§206, 207, Nov. 21, 1974, 89 Stat. 2–11, 2–13, in exactly the same manner as it was amended and renumbered by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been amended and renumbered by Pub. L. 93–651, title II, §§206, 207, Nov. 21, 1974, 89 Stat. 2–11, 2–13, in exactly the same manner as it was amended and renumbered by Pub. L. 93–516.
 
 #### Amendments
 

@@ -12,7 +12,7 @@ If the Comptroller General finds that the President, the Director of the Office 
 
 #### (b) Incorrect classification of special message
 
-If the President has transmitted a special message to both Houses of Congress in accordance with section 683 or 684 of this title, and the Comptroller General believes that the President so transmitted the special message in accordance with one of those sections when the special message should have been transmitted in accordance with the other of those sections, the Comptroller General shall make a report to both Houses of the Congress setting forth his reasons.
+If the President has transmitted a special message to both Houses of Congress in accordancewith section 683 or 684 of this title, and the Comptroller General believes that the President so transmitted the special message in accordance with one of those sections when the special message should have been transmitted in accordance with the other of those sections, the Comptroller General shall make a report to both Houses of the Congress setting forth his reasons.
 
 (Pub. L. 93–344, title X, §1015, July 12, 1974, 88 Stat. 336.)
 

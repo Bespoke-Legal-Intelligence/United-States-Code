@@ -60,7 +60,7 @@ If more than the correct amount of tax imposed by section 3101, 3111, 3201, 3221
 
 #### (G) Employees of States and political subdivisions
 
-&emsp;&emsp;In the case of remuneration received from a State or any political subdivision thereof (or any instrumentality of any one or more of the foregoing which is wholly owned thereby) during any calendar year, each head of an agency or instrumentality, and each agent designated by either, who makesa return pursuant to section 3125(a) shall, for purposes of this subsection, be deemed a separate employer.
+&emsp;&emsp;In the case of remuneration received from a State or any political subdivision thereof (or any instrumentality of any one or more of the foregoing which is wholly owned thereby) during any calendar year, each head of an agency or instrumentality, and each agent designated by either, who makes a return pursuant to section 3125(a) shall, for purposes of this subsection, be deemed a separate employer.
 
 #### (d) Refund or credit of Federal unemployment tax
 
@@ -207,7 +207,7 @@ Section 1906(a)(23)(B)(iii) of Pub. L. 94–455 provided that: “The amendments
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–445 effective Jan. 1, 1975, and applicable only with respect to compensation paid for services rendered on or after that date, see section604 of Pub. L. 93–445, set out as a note under section 3221 of this title.
+Amendment by Pub. L. 93–445 effective Jan. 1, 1975, and applicable only with respect to compensation paid for services rendered on or after that date, see section 604 of Pub. L. 93–445, set out as a note under section 3221 of this title.
 
 #### Effective Date of 1973 Amendments
 

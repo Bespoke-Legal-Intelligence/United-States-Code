@@ -16,7 +16,7 @@ The Board shall be composed of eleven members, as follows:
 
 #### (c) Term of office; vacancies
 
-Members of the Board appointed by the President shall be appointed to serve for a period of six years; except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term and the terms of office of the members first appointed shall expire, as designated by the President at the time of appointment, three at the end of two years, three at the end of four years, and three at the end of six years.
+Members of the Board appointed by the President shall be appointed to serve for a period of six years; except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term and the terms of office of the members first appointed shall expire, as designatedby the President at the time of appointment, three at the end of two years, three at the end of four years, and three at the end of six years.
 
 #### (d) Quorum
 
@@ -24,7 +24,7 @@ Five members of the Board shall constitute a quorum and any vacancy in the Board
 
 #### (e) Compensation, travel and other expenses
 
-The members of the Board shall serve without compensation but shall be reimbursed for travel,subsistence, and other necessary expenses incurred by them in the performance of their duties as members of the Board.
+The members of the Board shall serve without compensation but shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties as members of the Board.
 
 #### (f) Biennial organization; rules and regulations
 

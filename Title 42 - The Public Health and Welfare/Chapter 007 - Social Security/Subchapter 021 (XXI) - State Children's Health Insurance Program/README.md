@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1301, 1320a–7, 1396d of this title.
+This subchapter is referred to in sections 247b–4a, 299a, 299b–6, 299c–2, 603, 706, 1301, 1320a–7, 1396d of this title.
 
 
 ---

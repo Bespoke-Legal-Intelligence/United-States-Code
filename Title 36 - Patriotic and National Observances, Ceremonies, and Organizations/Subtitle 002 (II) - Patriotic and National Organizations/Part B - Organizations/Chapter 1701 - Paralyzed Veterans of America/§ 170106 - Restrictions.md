@@ -42,13 +42,19 @@ Aug. 11, 1971, Pub. L. 92–93, §§5, 6, 14, 85 Stat. 318, 319.
 
 36:1156.
 
+&nbsp;
+
 170106(d)
 
 36:1164(a).
 
+&nbsp;
+
 170106(e)
 
 36:1164(b).
+
+&nbsp;
 
 In subsection (a), the words “pecuniary” and “or gain” are omitted as unnecessary.
 

@@ -74,7 +74,7 @@ Subsec. (d). Pub. L. 101–231, §17(g), inserted “Contribution by recipient c
 
 1988—Subsec. (a). Pub. L. 100–690 added par. (1) and struck out former pars. (1) and (3) which related to authorization for fiscal years 1986 and 1987, and to contribution to United Nations Fund for Drug Abuse Control.
 
-1986—Subsec. (a)(1). Pub. L. 99–570, §2002(1), which directed that “$75,445,000 for the fiscal year 1987” be substituted for “$57,529,000 for the fiscal year 1987”, was executed by making the substitution for “$65,445,000 for the fiscal year 1987” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 99–529. See Amendment note for Pub. L. 99–529 below.
+1986—Subsec. (a)(1). Pub. L. 99–570, §2002(1), which directed that “$75,445,000 for the fiscal year 1987” be substituted for “$57,529,000 for the fiscal year 1987”, was executed by making the substitution for “$65,445,000 forthe fiscal year 1987” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 99–529. See Amendment note for Pub. L. 99–529 below.
 
 Pub. L. 99–570, §2002(2), inserted provisions that if the President submits a detailed plan for use of the money, an additional $45,000,000 may be appropriated to carry out the purpose of section 2291 of this title, of which at least $10,000,000 shall be used primarily for helicopters or other aircraft based in Latin America for use for narcotics control, eradication, and interdiction efforts throughout the region.
 
@@ -109,6 +109,10 @@ Subsec. (a)(4). Pub. L. 96–92 designated existing provision respecting availab
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Colombian Anti-Narcotics Enforcement Program
 

@@ -26,7 +26,7 @@ As soon as practicable after the end of every 3 fiscal years, the Secretary shal
 
 #### (f) Utilization of capabilities of Department of Commerce
 
-In executing his responsibilities under this section, the Secretary shall, to the maximum extent practicable, enter into appropriate arrangements to utilize on a reimbursable basis the capabilities of the Department of Commerce. In carrying out such arrangements, the Secretary of Commerce is authorized to enter into contracts or grants with any person, organization, or entity with funds appropriated to the Secretary of the Interior pursuant to this subchapter.
+In executing his responsibilities under this section, the Secretary shall, to the maximum extent practicable, enter into appropriate arrangements to utilize on a reimbursable basisthe capabilities of the Department of Commerce. In carrying out such arrangements, the Secretary of Commerce is authorized to enter into contracts or grants with any person, organization, or entity with funds appropriated to the Secretary of the Interior pursuant to this subchapter.
 
 (Aug. 7, 1953, ch. 345, §20, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 653; amended Pub. L. 103–426, §1(b), Oct. 31, 1994, 108 Stat. 4371; Pub. L. 104–66, title I, §1082(b), Dec. 21, 1995, 109 Stat. 722.)
 

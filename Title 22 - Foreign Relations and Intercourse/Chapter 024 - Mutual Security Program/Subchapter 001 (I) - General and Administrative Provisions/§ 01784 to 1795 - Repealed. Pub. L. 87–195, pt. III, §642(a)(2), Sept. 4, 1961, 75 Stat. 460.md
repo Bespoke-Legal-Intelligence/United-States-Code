@@ -20,7 +20,7 @@ Section 1792, acts Aug. 26, 1954, ch. 937, ch. IV, §532, 68 Stat. 859; July 18,
 
 Section 1793, act Aug. 26, 1954, ch. 937, ch. IV, §533, 68 Stat. 860, provided for waiver of certain Federal laws. See section 2393 of this title.
 
-Section 1793a, act Aug. 26, 1954, ch. 937, ch. IV, §533A, as added July 24, 1959, Pub. L. 86–108, ch. IV, §401(h), 73 Stat. 253; amended May 14, 1960, Pub. L. 86–472, ch. IV, §401(i), 74 Stat. 140, established Office of Inspector General and Comptroller and transferred certain functions thereto. See section 2384 of this title.
+Section 1793a, act Aug. 26, 1954, ch. 937, ch. IV, §533A, as added July 24, 1959, Pub. L. 86–108, ch. IV, §401(h), 73 Stat. 253; amended May 14, 1960, Pub. L. 86–472, ch. IV,§401(i), 74 Stat. 140, established Office of Inspector General and Comptroller and transferred certain functions thereto. See section 2384 of this title.
 
 Section 1794, acts Aug. 26, 1954, ch. 937, ch. V, §534, 68 Stat. 860; July 8, 1955, ch. 301, §10(e), 69 Stat. 289; Aug. 14, 1957, Pub. L. 85–141, §10(f), 71 Stat. 364; July 24, 1959, Pub. L. 86–108, ch. IV, §401(i), 73 Stat. 254; May 14, 1960, Pub. L. 86–472, ch. IV, §401(j), 74 Stat. 140, provided for reports to Congress and for furnishing documents and other material to General Accounting Office and committees of Congress. See section 2394 of this title.
 

@@ -26,8 +26,6 @@ DCAA Subpoena Authority.—(1) The Director of the Defense Contract Audit Agency
 
 (3) The authority provided by paragraph (1) may not be redelegated.
 
-(4) The Director (or any successor official) shall submit an annual report to the Secretary of Defense on the exercise of such authority during the preceding year and the reasons why such authority was exercised in any instance. The Secretary shall forward a copy of each such report to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives.
-
 (c)
 
 Comptroller General Authority.—(1) Except as provided in paragraph (2), each contract awarded after using procedures other than sealed bid procedures shall provide that the Comptroller General and his representatives are authorized to examine any records of the contractor, or any of its subcontractors, that directly pertain to, and involve transactions relating to, the contract or subcontract.
@@ -58,7 +56,7 @@ Inapplicability to Certain Contracts.—This section does not apply to the follo
 
 (g)
 
-Forms of Original Record Storage.—Nothing in this section shall be construed topreclude a contractor from duplicating or storing original records in electronic form.
+Forms of Original Record Storage.—Nothing in this section shall be construed to preclude a contractor from duplicating or storing original records in electronic form.
 
 (h)
 
@@ -74,7 +72,7 @@ Use of Images of Original Records.—The head of an agency shall not require a c
 
 Records Defined.—In this section, the term “records” includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Pub. L. 89–607, §1(2), Sept. 27, 1966, 80 Stat. 850; Pub. L. 98–369, div. B, title VII, §2727(c), July 18, 1984, 98 Stat. 1195; Pub. L. 99–145, title IX, §935, Nov. 8, 1985, 99 Stat. 700; Pub. L. 100–26, §7(g)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 101–510, div. A, title XIII, §1301(9), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 103–355, title II, §2201(a)(1), title IV, §4102(c), Oct. 13, 1994, 108 Stat. 3316, 3340; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §808(a), Sept. 23, 1996, 110 Stat. 2607.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Pub. L. 89–607, §1(2), Sept. 27, 1966, 80 Stat. 850; Pub. L. 98–369, div. B, title VII, §2727(c), July 18, 1984, 98 Stat. 1195; Pub. L. 99–145, title IX, §935, Nov. 8, 1985, 99 Stat. 700; Pub. L. 100–26, §7(g)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 101–510, div. A, title XIII, §1301(9), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 103–355, title II, §2201(a)(1), title IV, §4102(c), Oct. 13, 1994, 108 Stat. 3316, 3340; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §808(a), Sept. 23, 1996, 110 Stat. 2607; Pub. L. 106–65, div. A, title X, §1032(a)(2), Oct. 5, 1999, 113 Stat. 751.)
 
 Historical and Revision Notes
 
@@ -102,6 +100,8 @@ In subsection (b), the word “under” is substituted for the words “pursuant
 
 #### Amendments
 
+1999—Subsec. (b)(4). Pub. L. 106–65 struck out par. (4) which read as follows: “The Director (or any successor official) shall submit an annual report to the Secretary of Defense on the exercise of such authority during the preceding year and the reasons why such authority was exercised in any instance. The Secretary shall forward a copy of each such report to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives.”
+
 1996—Subsec. (b)(4). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
 Subsec. (d). Pub. L. 104–201 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “
@@ -123,10 +123,6 @@ Subsec. (f)(2). Pub. L. 103–355, §4102(c), added par. (2).
 1966—Subsec. (b). Pub. L. 89–607, §1(2)(A), substituted “Except as provided in subsection (c), each” for “Each”.
 
 Subsec. (c). Pub. L. 89–607, §1(2)(B), added subsec. (c).
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1994 Amendment
 

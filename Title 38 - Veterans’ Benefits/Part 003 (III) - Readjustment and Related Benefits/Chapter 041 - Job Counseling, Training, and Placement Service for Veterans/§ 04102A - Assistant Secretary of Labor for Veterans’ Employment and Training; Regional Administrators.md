@@ -2,7 +2,7 @@
 
 (a)(1) There is established within the Department of Labor an Assistant Secretary of Labor for Veterans’ Employment and Training, appointed by the President by and with the advice and consent of the Senate, who shall be the principal advisor to the Secretary with respect to the formulation and implementation of all departmental policies and procedures to carry out (A) the purposes of this chapter, chapter 42, and chapter 43 of this title, and (B) all other Department of Labor employment, unemployment, and training programs to the extent they affect veterans. The employees of the Department of Labor administering chapter 43 of this title shall be administratively and functionally responsible to the Assistant Secretary of Labor for Veterans’ Employment and Training.
 
-(2) There shall be within the Department of Labor a Deputy Assistant Secretary of Labor for Veterans’ Employment and Training. The Deputy Assistant Secretary shall perform such functions as the Assistant Secretary of Labor for Veterans’ Employment and Training prescribes. The Deputy Assistant Secretary shall be a veteran.
+(2) There shall be within the Department of Labor a Deputy Assistant Secretary of Labor forVeterans’ Employment and Training. The Deputy Assistant Secretary shall perform such functions as the Assistant Secretary of Labor for Veterans’ Employment and Training prescribes. The Deputy Assistant Secretary shall be a veteran.
 
 (b) The Secretary shall—
 
@@ -40,7 +40,7 @@
 
 &emsp;(D) coordinating, monitoring, and providing technical assistance on veterans’ employment and training programs with respect to all entities receiving funds under grants from or contracts with the Department of Labor within the region.
 
-(Added Pub. L. 94–502, title VI, §601(b)(1), Oct. 15, 1976, 90 Stat. 2404, §2002A; amended Pub. L. 96–466, title V, §504(a)(3), (4), Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–306, title III, §303, Oct. 14, 1982, 96 Stat. 1437; Pub. L. 98–160, title VII, §702(15), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 100–323, §§2(a), (e)(3)(A), 15(a)(2), (b)(1), May 20, 1988, 102 Stat. 556, 559, 574; Pub. L. 101–237, title IV, §423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; renumbered §4102A and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title VII, §701(a), title XII, §1201(a)(4), Nov. 2, 1994, 108 Stat. 4674, 4682; Pub. L. 104–275, title III, §301, Oct. 9, 1996, 110 Stat. 3332; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(A), (f)(21)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, §1005(b)(13), Nov. 11, 1998, 112 Stat. 3365.)
+(Added Pub. L. 94–502, title VI, §601(b)(1), Oct. 15, 1976, 90 Stat. 2404, §2002A; amended Pub. L. 96–466, title V, §504(a)(3), (4), Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–306, title III, §303, Oct. 14, 1982, 96 Stat. 1437; Pub. L. 98–160, title VII, §702(15), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 100–323, §§2(a), (e)(3)(A), 15(a)(2), (b)(1), May 20, 1988, 102 Stat. 556, 559, 574; Pub. L. 101–237, title IV, §423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; renumbered §4102A and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title VII, §701(a), title XII, §1201(a)(4), Nov. 2, 1994, 108 Stat. 4674, 4682; Pub. L. 104–275, title III, §301, Oct. 9, 1996, 110Stat. 3332; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(A), (f)(21)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, §1005(b)(13), Nov. 11, 1998, 112 Stat. 3365.)
 
 #### Amendment of Subsection (d)
 
@@ -132,7 +132,7 @@ Section 504(b), (c) of Pub. L. 96–466 provided that:
 
 #### Cross References
 
-Administration by Assistant Secretary for Veterans’ Employment and Training of workforce investment programs for veterans under the Workforce Investment Act of 1998, see section 2913 of Title 29, Labor.
+Administration by Assistant Secretary for Veterans’ Employment and Training of workforce investmentprograms for veterans under the Workforce Investment Act of 1998, see section 2913 of Title 29, Labor.
 
 Assistant Secretaries of Labor, generally, see section 553 of Title 29.
 

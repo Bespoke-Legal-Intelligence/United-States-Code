@@ -23,7 +23,7 @@ Part IX—Miscellaneous
 - [&sect; 01362 - Right to counsel](%C2%A7%2001362%20-%20Right%20to%20counsel.md)
 - [&sect; 01363 - Deposit of and interest on cash received to secure immigration bonds](%C2%A7%2001363%20-%20Deposit%20of%20and%20interest%20on%20cash%20received%20to%20secure%20immigration%20bonds.md)
 - [&sect; 01363a - Undercover investigation authority](%C2%A7%2001363a%20-%20Undercover%20investigation%20authority.md)
-- [&sect; 01363b - Repealed. Pub. L. 105&#8211;277, div. A, title I, &sect;101(b) \[title I, &sect;109(b)\], Oct. 21, 1998, 112 Stat. 2681&#8211;50, 2681&#8211;67](%C2%A7%2001363b%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20A%2C%20title%20I%2C%20%C2%A7101%28b%29%20%5Btitle%20I%2C%20%C2%A7109%28b%29%5D%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%9350%2C%202681%E2%80%9367.md)
+- [&sect; 01363b - Repealed. Pub. L. 105&#8211;277, div. A, &sect;101(b) \[title I, &sect;109(b)\], Oct. 21, 1998, 112 Stat. 2681&#8211;50, 2681&#8211;67](%C2%A7%2001363b%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20A%2C%20%C2%A7101%28b%29%20%5Btitle%20I%2C%20%C2%A7109%28b%29%5D%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%9350%2C%202681%E2%80%9367.md)
 - [&sect; 01364 - Triennial comprehensive report on immigration](%C2%A7%2001364%20-%20Triennial%20comprehensive%20report%20on%20immigration.md)
 - [&sect; 01365 - Reimbursement of States for costs of incarcerating illegal aliens and certain Cuban nationals](%C2%A7%2001365%20-%20Reimbursement%20of%20States%20for%20costs%20of%20incarcerating%20illegal%20aliens%20and%20certain%20Cuban%20nationals.md)
 - [&sect; 01366 - Annual report on criminal aliens](%C2%A7%2001366%20-%20Annual%20report%20on%20criminal%20aliens.md)

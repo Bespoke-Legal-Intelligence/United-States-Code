@@ -8,11 +8,11 @@
 
 &emsp;(3) other benefits administered by the Department of Veterans Affairs unless such benefits are payable for the same injury or the same death; and
 
-&emsp;(4) retired pay, retirement pay, retainer pay, or equivalent pay for service in the Armed Forces or other uniformed services, subject to the reduction of such pay in accordance with section 5532(b) of title 5, United States Code.
+&emsp;(4) retired pay, retirement pay, retainer pay, or equivalent pay for service in the Armed Forces or other uniformed services, subject to the reduction of such pay in accordance with section 5532(b) <sup>1</sup> of title 5, United States Code.
 
 > However, eligibility for or receipt of benefits under subchapter III of chapter 83 of this title, or another retirement system for employees of the Government, does not impair the right of the employee to compensation for scheduled disabilities specified by section 8107(c) of this title.
 
-(b) An individual entitled to benefits under this subchapter because of his injury, or because of the death of an employee, who also is entitled to receive from the United States under a provision of statute other than this subchapter payments or benefits for that injury or death (except proceeds of an insurance policy), because of service by him (or in the case of death, by the deceased) as an employee or in the armed forces, shall elect which benefits he will receive. The individual shall make the election within 1 year after the injury or death or within a further time allowed for good cause by the Secretary of Labor. The election when made is irrevocable, except as otherwise provided by statute.
+(b) An individual entitled to benefits under this subchapter because of his injury, or becauseof the death of an employee, who also is entitled to receive from the United States under a provision of statute other than this subchapter payments or benefits for that injury or death (except proceeds of an insurance policy), because of service by him (or in the case of death, by the deceased) as an employee or in the armed forces, shall elect which benefits he will receive. The individual shall make the election within 1 year after the injury or death or within a further time allowed for good cause by the Secretary of Labor. The election when made is irrevocable, except as otherwise provided by statute.
 
 (c) The liability of the United States or an instrumentality thereof under this subchapter or any extension thereof with respect to the injury or death of an employee is exclusive and instead of all other liability of the United States or the instrumentality to the employee, his legal representative, spouse, dependents, next of kin, and any other person otherwise entitled to recover damages from the United States or the instrumentality because of the injury or death in a direct judicial proceeding, in a civil action, or in admiralty, or by an administrative or judicial proceeding under a workmen's compensation statute or under a Federal tort liability statute. However, this subsection does not apply to a master or a member of a crew of a vessel.
 
@@ -92,6 +92,8 @@ The words “another retirement system for employees of the Government” are su
 
 #### References in Text
 
+Section 5532 of title 5, referred to in subsec. (a)(4), was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
+
 The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 223 and 224 are classified to sections 423 and 424a, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
@@ -108,7 +110,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 #### Effective Date of 1974 Amendment
 
-Section 9(b) of Pub. L. 93–416 provided that: “The amendment made by this section \[amending this section\] shall be effective with respect to disability or death occurring before or after the date of enactment of this Act \[Sept. 7, 1974\] and without regard to any election under section 8116(b) of the Act \[subsec. (b) of this section\]; but no payment shall be made by reason of such amendment for any period prior to the date of enactment of this Act.”
+Section 9(b) of Pub. L. 93–416 provided that: “The amendment made by this section \[amending this section\] shall be effective with respect to disability ordeath occurring before or after the date of enactment of this Act \[Sept. 7, 1974\] and without regard to any election under section 8116(b) of the Act \[subsec. (b) of this section\]; but no payment shall be made by reason of such amendment for any period prior to the date of enactment of this Act.”
 
 #### Personnel Not Affected by 1967 Increase
 
@@ -117,4 +119,6 @@ Increases authorized under amendment by section 1(56) of Pub. L. 90–83 not app
 #### Section Referred to in Other Sections
 
 This section is referred to in title 22 section 3715d.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

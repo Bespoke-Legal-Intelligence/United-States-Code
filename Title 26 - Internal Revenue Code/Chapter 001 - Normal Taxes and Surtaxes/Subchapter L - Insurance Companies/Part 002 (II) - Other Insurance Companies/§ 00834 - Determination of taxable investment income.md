@@ -46,7 +46,7 @@ In computing taxable investment income, the following deductions shall be allowe
 
 #### (6) Capital losses
 
-&emsp;Capital losses to the extent provided in subchapter P (sec. 1201 and following) plus lossesfrom capital assets sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders. Capital assets shall be considered as sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders to the extent that the gross receipts from their sale or exchange are not greater than the excess, if any, for the taxable year of the sum of dividends and similar distributions paid to policyholders, losses paid, and expenses paid over the sum of the items described in subsection (b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212 for purposes of this section, the net capital loss for the taxable year shall be the amount by which losses for such year from sales or exchanges of capital assets exceeds the sum of the gains from such sales or exchanges and whichever of the following amounts is the lesser:
+&emsp;Capital losses to the extent provided in subchapter P (sec. 1201 and following) plus losses from capital assets sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders. Capital assets shall be considered as sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders to the extent that the gross receipts from their sale or exchange are not greater than the excess, if any, for the taxable year of the sum of dividends and similar distributions paid to policyholders, losses paid, and expenses paid over the sum of the items described in subsection (b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212 for purposes of this section, the net capital loss for the taxable year shall be the amount by which losses for such year from sales or exchanges of capital assets exceeds the sum of the gains from such sales or exchanges and whichever of the following amounts is the lesser:
 
 &emsp;&emsp;(A) the taxable investment income (computed without regard to gains or losses from sales or exchanges of capital assets); or
 
@@ -76,7 +76,7 @@ In computing taxable investment income, the following deductions shall be allowe
 
 #### (2) Amortization of premium and accrual of discount
 
-&emsp;The gross amount of income during the taxable year from interest and the deduction provided in subsection (c)(1) shall each be decreased to reflect the appropriate amortization of premium and increased to reflect the appropriate accrual of discount attributable to the taxable year on bonds, notes, debentures, or other evidences of indebtedness held by a mutual insurance company subject to the tax imposed by section 831. Such amortization and accrual shall be determined—
+&emsp;The gross amount of income during the taxable year from interest and the deduction provided in subsection (c)(1) shall each be decreased to reflect the appropriate amortization of premium and increased to reflect the appropriate accrual of discount attributable to the taxable year on bonds, notes, debentures, or other evidences of indebtedness held by amutual insurance company subject to the tax imposed by section 831. Such amortization and accrual shall be determined—
 
 &emsp;&emsp;(A) in accordance with the method regularly employed by such company, if such method is reasonable, and
 
@@ -152,7 +152,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(105), (b)(1)(P)–(S) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(105), (b)(1)(P)–(S) of Pub. L. 94–455 effective for taxable years beginningafter Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date of 1966 Amendment
 

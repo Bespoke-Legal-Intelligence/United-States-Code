@@ -58,7 +58,7 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(c) of Pub.
 
 #### Federal Rules of Civil Procedure
 
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Appendix to this title.
+Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courtswere unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Appendix to this title.
 
 Application of, see rule 81.
 

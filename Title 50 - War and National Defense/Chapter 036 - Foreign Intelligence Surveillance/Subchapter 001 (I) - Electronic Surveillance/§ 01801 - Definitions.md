@@ -28,11 +28,13 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(A) knowingly engages in clandestine intelligence gathering activities for or on behalf of a foreign power, which activities involve or may involve a violation of the criminal statutes of the United States;
 
-&emsp;&emsp;&emsp;(B) pursuant to the direction of an intelligence service or network of a foreign power, knowingly engages in any other clandestine intelligence activities for or on behalf of such foreign power, which activities involve or are about to involve a violation of the criminal statutes of the United States;
+&emsp;&emsp;&emsp;(B) pursuant to the direction of an intelligence service or network of a foreign power, knowingly engages in any other clandestine intelligence activities for oron behalf of such foreign power, which activities involve or are about to involve a violation of the criminal statutes of the United States;
 
-&emsp;&emsp;&emsp;(C) knowingly engages in sabotage or international terrorism, or activities that are in preparation therefor, for or on behalf of a foreign power; or
+&emsp;&emsp;&emsp;(C) knowingly engages in sabotage or international terrorism, or activities that are in preparation therefor, for or on behalf of a foreign power;
 
-&emsp;&emsp;&emsp;(D) knowingly aids or abets any person in the conduct of activities described in subparagraph (A), (B), or (C) or knowingly conspires with any person to engage in activities described in subparagraph (A), (B), or (C).
+&emsp;&emsp;&emsp;(D) knowingly enters the United States under a false or fraudulent identity for or on behalf of a foreign power or, while in the United States, knowingly assumes a false or fraudulent identity for or on behalf of a foreign power; or
+
+&emsp;&emsp;&emsp;(E) knowingly aids or abets any person in the conduct of activities described in subparagraph (A), (B), or (C) or knowingly conspires with any person to engage in activities described in subparagraph (A), (B), or (C).
 
 &emsp;(c) “International terrorism” means activities that—
 
@@ -86,7 +88,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(3) notwithstanding paragraphs (1) and (2), procedures that allow for the retention and dissemination of information that is evidence of a crime which has been, is being, or is about to be committed and that is to be retained or disseminated for law enforcement purposes; and
 
-&emsp;&emsp;(4) notwithstanding paragraphs (1), (2), and (3), with respect to any electronic surveillance approved pursuant to section 1802(a) of this title, procedures that require that no contents of any communication to which a United States person is a party shall be disclosed, disseminated, or used for any purpose or retained for longer than twenty-four hours unless a court order under section 1805 of this title is obtained or unless the Attorney General determines that the information indicates a threat of death or serious bodily harm to any person.
+&emsp;&emsp;(4) notwithstanding paragraphs (1), (2), and (3), with respect to any electronic surveillance approved pursuant to section 1802(a) of this title, procedures that require that nocontents of any communication to which a United States person is a party shall be disclosed, disseminated, or used for any purpose or retained for longer than twenty-four hours unless a court order under section 1805 of this title is obtained or unless the Attorney General determines that the information indicates a threat of death or serious bodily harm to any person.
 
 &emsp;(i) “United States person” means a citizen of the United States, an alien lawfully admitted for permanent residence (as defined in section 1101(a)(20) of title 8), an unincorporated association a substantial number of members of which are citizens of the United States or aliens lawfully admitted for permanent residence, or a corporation which is incorporated in the United States, but does not include a corporation or an association which is a foreign power, as defined in subsection (a)(1), (2), or (3) of this section.
 
@@ -102,7 +104,11 @@ As used in this subchapter:
 
 &emsp;(<i>o</i>) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and any territory or possession of the United States.
 
-(Pub. L. 95–511, title I, §101, Oct. 25, 1978, 92 Stat. 1783.)
+(Pub. L. 95–511, title I, §101, Oct. 25, 1978, 92 Stat. 1783; Pub. L. 106–120, title VI, §601, Dec. 3, 1999, 113 Stat. 1619.)
+
+#### Amendments
+
+1999—Subsec. (b)(2)(D), (E). Pub. L. 106–120 added subpar. (D) and redesignated former subpar. (D) as (E).
 
 #### Effective Date; Exception
 
@@ -118,5 +124,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 402a, 438, 1802, 1804, 1805, 1810, 1821, 1822, 1823, 1824, 1828, 1841, 1861 of this title; title 12 section 3414; title 15 section 1681u; title 18 sections 794, 2511, 2709.
+This section is referred to in sections 402a, 438, 1802, 1804, 1805, 1810, 1821, 1822, 1823, 1824, 1828, 1841, 1861 of this title; title 12 section 3414; title 15 section 1681u; title 18 sections 794, 2511, 2709; title 22 section 1442a.
 

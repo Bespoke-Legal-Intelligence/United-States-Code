@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(3) the California desert environment and its resources, including certain rare and endangered species of wildlife, plants, and fishes, and numerous archeological and historic sites, are seriously threatened by air pollution, inadequate Federal management authority, and pressures of increased use, particularly recreational use, which are certain to intensify because of the rapidly growing population of southern California;
 
-&emsp;(4) the use of all California desert resources can and should be provided for in a multipleuse and sustained yield management plant to conserve these resources for future generations, and to provide present and future use and enjoyment, particularly outdoor recreation uses, including the use, where appropriate, of off-road recreational vehicles;
+&emsp;(4) the use of all California desert resources can and should be provided for in a multiple use and sustained yield management plant to conserve these resources for future generations, and to provide present and future use and enjoyment, particularly outdoor recreation uses, including the use, where appropriate, of off-road recreational vehicles;
 
 &emsp;(5) the Secretary has initiated a comprehensive planning process and established an interim management program for the public lands in the California desert; and
 
@@ -32,7 +32,7 @@ The Secretary, in accordance with section 1712 of this title, shall prepare and 
 
 #### (e) Interim program for management, use, etc.
 
-During the period beginning on October 21, 1976, and ending on the effective date of implementation of the comprehensive, long-range plan, the Secretary shall execute an interim program to manage, use, and protect the public lands, and their resources now in danger of destruction, in the California Desert Conservation Area, to provide for the public use of such lands in an orderly and reasonable manner such as through the development of campgrounds and visitor centers, and to provide for a uniformed desert ranger force.
+During the period beginning on October 21, 1976, and ending on the effective date of implementation of the comprehensive, long-rangeplan, the Secretary shall execute an interim program to manage, use, and protect the public lands, and their resources now in danger of destruction, in the California Desert Conservation Area, to provide for the public use of such lands in an orderly and reasonable manner such as through the development of campgrounds and visitor centers, and to provide for a uniformed desert ranger force.
 
 #### (f) Applicability of mining laws
 

@@ -49,7 +49,7 @@ Pub. L. 104–106, div. A, title X, §1061(b)(2), Feb. 10, 1996, 110 Stat. 442, 
 
 1993—Pub. L. 103–160, div. A, title VIII, §828(b)(1), Nov. 30, 1993, 107 Stat. 1713, struck out item for chapter 135 “Encouragement of Aviation”.
 
-1992—Pub. L. 102–484, div. D, title XLII, §4271(b)(1), Oct. 23, 1992, 106 Stat. 2695, added item for chapter 148 and struck out former items for chapters 148 “DefenseIndustrial Base”, 149 “Manufacturing Technology”, and 150 “Development of Dual-Use Critical Technologies”.
+1992—Pub. L. 102–484, div. D, title XLII, §4271(b)(1), Oct. 23, 1992, 106 Stat. 2695, added item for chapter 148 and struck out former items for chapters 148 “Defense Industrial Base”, 149 “Manufacturing Technology”, and 150 “Development of Dual-Use Critical Technologies”.
 
 1991—Pub. L. 102–190, div. A, title VIII, §821(f), title X, §1061(a)(27)(A), Dec. 5, 1991, 105 Stat. 1432, 1474, substituted “Manufacturing” for “Maufacturing” in item for chapter 149, substituted “Development of Dual-Use Critical Technologies” for “Issue to Armed Forces” in item for chapter 150, struck out item for chapter 151 “Issue of Serviceable Material Other Than to Armed Forces”, and added item for chapter 152.
 

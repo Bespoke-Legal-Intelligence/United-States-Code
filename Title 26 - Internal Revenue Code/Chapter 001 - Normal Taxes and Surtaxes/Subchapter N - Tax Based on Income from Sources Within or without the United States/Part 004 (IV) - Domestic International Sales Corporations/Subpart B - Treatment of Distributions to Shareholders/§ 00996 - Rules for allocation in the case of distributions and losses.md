@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(C) finally, out of previously taxed income.
 
-> &emsp;In the case of any amount of any actual distribution to a C corporation made pursuant to section 992(c) which is required to satisfy thecondition of section 992(a)(1)(A), the preceding sentence shall apply to 16/17ths of such amount and paragraph (1) shall apply to the remaining 1/17th of such amount.
+> &emsp;In the case of any amount of any actual distribution to a C corporation made pursuant to section 992(c) which is required to satisfy the condition of section 992(a)(1)(A), the preceding sentence shall apply to 16/17ths of such amount and paragraph (1) shall apply to the remaining 1/17th of such amount.
 
 #### (3) Exclusion from gross income
 
@@ -88,7 +88,7 @@ For purposes of this part:
 
 In the case of a shareholder who is a nonresident alien individual or a foreign corporation, trust, or estate, gains referred to in section 995(c) and all distributions out of accumulated DISC income including deemed distributions shall be treated as gains and distributions which are effectively connected with the conduct of a trade or business conducted through a permanent establishment of such shareholder within the United States and which are derived from sources within the United States.
 
-(Added Pub. L. 92–178, title V, §501 Dec. 10, 1971, 85 Stat. 547; amended Pub. L. 94–455, title XI, §1101(e), title XIX, §§1901(b)(3)(I), Oct. 4, 1976, 90 Stat. 1659, 1793; Pub. L. 95–600, title VII, §703(i)(3), Nov. 6, 1978, 92 Stat. 2940; Pub. L.98–369, div. A, title VIII, §801(d)(10), July 18, 1984, 98 Stat. 997; Pub. L. 99–514, title XVIII, §1876(k), Oct. 22, 1986, 100 Stat. 2900.)
+(Added Pub. L. 92–178, title V, §501 Dec. 10, 1971, 85 Stat. 547; amended Pub. L. 94–455, title XI, §1101(e), title XIX, §§1901(b)(3)(I), Oct. 4, 1976, 90 Stat. 1659, 1793; Pub. L. 95–600, title VII, §703(i)(3), Nov. 6, 1978, 92 Stat. 2940; Pub. L. 98–369, div. A, title VIII, §801(d)(10), July 18, 1984, 98 Stat. 997; Pub. L. 99–514, title XVIII, §1876(k), Oct. 22, 1986, 100 Stat. 2900.)
 
 #### Amendments
 

@@ -12,7 +12,7 @@ Except as provided in subsections (e) and (g) of this section, an individual who
 
 &emsp;(B) is participating in a compensatory education program under title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\]; or
 
-&emsp;(C) has been determined to meet the eligibility requirements for free meals under the National School Lunch Act (42 U.S.C. 1751 et seq.) during the most recent school year.
+&emsp;(C) has been determined to meet the eligibility requirements for free meals under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) during the most recent school year.
 
 #### (b) Hard-to-serve individuals who are in-school youth
 
@@ -70,13 +70,13 @@ Not more than 10 percent of participants in a program assisted under this part i
 
 #### (2) Counting of in-school individuals
 
-&emsp;In-school individuals served as a part of a schoolwide project under subsection (g) of this section shall not be counted as a part of the ratio of in-school individuals to out-of-school individuals.
+&emsp;In-school individuals served as a part of a schoolwide project under subsection (g) of thissection shall not be counted as a part of the ratio of in-school individuals to out-of-school individuals.
 
 #### (g) Schoolwide projects for low-income schools
 
 #### (1) In general
 
-&emsp;In addition to the individuals described in subsection (e) of this section, an individual who does not meet the requirements of subsection (a)(2) of this section may participatein the programs assisted under this part if such individual is enrolled in a public school—
+&emsp;In addition to the individuals described in subsection (e) of this section, an individual who does not meet the requirements of subsection (a)(2) of this section may participate in the programs assisted under this part if such individual is enrolled in a public school—
 
 &emsp;&emsp;(A) that is located in a poverty area;
 
@@ -104,7 +104,7 @@ A service delivery area conducting a program assisted under this part may add on
 
 &emsp;(3) the Governor approves the request submitted under paragraph (1) and transmits a description of the approved request to the Secretary, as part of the Governor's coordination and special services plan under section 1531 of this title.
 
-(Pub. L. 97–300, title II, §263, as added Pub. L. 102–367, title II, §208, Sept. 7, 1992, 106 Stat. 1066; amended Pub. L. 103–382, title III, §391(n)(2), (3), Oct. 20, 1994, 108 Stat. 4024.)
+(Pub. L. 97–300, title II, §263, as added Pub. L. 102–367, title II, §208, Sept. 7, 1992, 106 Stat. 1066; amended Pub. L. 103–382, title III, §391(n)(2), (3), Oct. 20, 1994, 108 Stat. 4024; Pub. L. 106–78, title VII, §752(b)(12), Oct. 22, 1999, 113 Stat. 1169.)
 
 #### Repeal of Section
 
@@ -114,9 +114,11 @@ A service delivery area conducting a program assisted under this part may add on
 
 The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(2)(B) and (g)(1)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-The National School Lunch Act, referred to in subsec. (a)(2)(C), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (a)(2)(C), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 #### Amendments
+
+1999—Subsec. (a)(2)(C). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
 1994—Subsecs. (a)(2)(B), (g)(1)(B). Pub. L. 103–382 substituted “title I” for “chapter I of title I”.
 

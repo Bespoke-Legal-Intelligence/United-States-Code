@@ -8,7 +8,7 @@
 
 &emsp;(B) the conversion of unneeded hospital services and facilities to needed health services and medical facilities, including outpatient medical facilities and facilities for long-term care;
 
-&emsp;(C) the renovation and modernization of medical facilities, particularly projects for theprevention or elimination of safety hazards, projects to avoid noncompliance with licensure or accreditation standards, or projects to replace obsolete facilities;
+&emsp;(C) the renovation and modernization of medical facilities, particularly projects for the prevention or elimination of safety hazards, projects to avoid noncompliance with licensure or accreditation standards, or projects to replace obsolete facilities;
 
 &emsp;(D) the construction of new outpatient medical facilities; and
 

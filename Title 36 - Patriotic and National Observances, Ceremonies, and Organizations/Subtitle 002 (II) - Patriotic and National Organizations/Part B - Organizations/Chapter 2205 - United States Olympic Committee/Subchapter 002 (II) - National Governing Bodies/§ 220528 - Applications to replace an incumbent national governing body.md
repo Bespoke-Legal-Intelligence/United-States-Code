@@ -74,29 +74,43 @@ Sept. 21, 1950, ch. 975, title II, §205(b)(1)–(4), as added Nov. 8, 1978, Pub
 
 36:395(b)(1) (last sentence), (2) (2d sentence).
 
+&nbsp;
+
 220528(c)(1)
 
 36:395(b)(1) (2d sentence).
+
+&nbsp;
 
 220528(c)(2)
 
 36:395(b)(2) (1st, 3d, last sentences).
 
+&nbsp;
+
 220528(d)
 
 36:395(b)(3) (1st–3d sentences).
+
+&nbsp;
 
 220528(e)
 
 36:395(b)(3) (last sentence).
 
+&nbsp;
+
 220528(f)
 
 36:395(b)(4) (1st sentence).
 
+&nbsp;
+
 220528(g)
 
 36:395(b)(4) (last sentence).
+
+&nbsp;
 
 In subsection (c)(2), the word “also” is omitted as unnecessary.
 

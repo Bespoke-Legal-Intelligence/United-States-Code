@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The Director shall issue any regulations and orders necessary to carry out the duties of the Director and to carry out this chapter before the expiration of the 18-month period beginning on the appointment of the Director under section 4512 of this title. Such regulations and orders shall be subject to the approval of the Secretary only to the extent provided in subsections (b) and (c) of section 4513 of this title.
+The Director shall issue any regulations and orders necessary to carry out the duties of the Director and to carry out this chapter before theexpiration of the 18-month period beginning on the appointment of the Director under section 4512 of this title. Such regulations and orders shall be subject to the approval of the Secretary only to the extent provided in subsections (b) and (c) of section 4513 of this title.
 
 #### (b) Notice and comment
 

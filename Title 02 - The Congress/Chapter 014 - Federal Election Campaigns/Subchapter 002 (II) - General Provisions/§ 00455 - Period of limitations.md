@@ -4,7 +4,7 @@
 
 (b) Notwithstanding any other provision of law—
 
-&emsp;(1) the period of limitations referred to in subsection (a) of this section shall apply withrespect to violations referred to in such subsection committed before, on, or after the effective date of this section; and
+&emsp;(1) the period of limitations referred to in subsection (a) of this section shall apply with respect to violations referred to in such subsection committed before, on, or after the effective date of this section; and
 
 &emsp;(2) no criminal proceeding shall be instituted against any person for any act or omission which was a violation of any provision of subchapter I of this chapter, as in effect on December 31, 1974, if such act or omission does not constitute a violation of any such provision, as amended by the Federal Election Campaign Act Amendments of 1974.
 

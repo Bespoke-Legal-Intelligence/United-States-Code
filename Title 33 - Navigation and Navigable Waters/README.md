@@ -1,5 +1,5 @@
 
-33 U.S.C.<br>United States Code, 1998 Edition<br>Title 33 - NAVIGATION AND NAVIGABLE WATERS<br>From the U.S. Government Publishing Office, www.gpo.gov
+33 U.S.C.<br>United States Code, 1999 Edition<br>Title 33 - NAVIGATION AND NAVIGABLE WATERS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 33—NAVIGATION AND NAVIGABLE WATERS
 
@@ -52,7 +52,7 @@
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 42 section 9607.
+This title is referred to in title 42 section 9607; title 46 App. section 1273a.
 
 
 ---

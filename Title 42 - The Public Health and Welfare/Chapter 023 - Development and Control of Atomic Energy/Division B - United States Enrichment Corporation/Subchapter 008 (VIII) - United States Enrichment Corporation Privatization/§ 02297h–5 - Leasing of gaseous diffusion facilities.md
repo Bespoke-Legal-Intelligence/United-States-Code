@@ -2,7 +2,7 @@
 
 #### (a) Transfer of lease
 
-Concurrent with privatization, the Corporation shall transfer to the private corporation the lease of the gaseous diffusion plants and related property for the remainder of the term ofsuch lease in accordance with the terms of such lease.
+Concurrent with privatization, the Corporation shall transfer to the private corporation the lease of the gaseous diffusion plants and related property for the remainder of the term of such lease in accordance with the terms of such lease.
 
 #### (b) Renewal
 
@@ -32,7 +32,7 @@ The execution or transfer of the lease between the Secretary and the Corporation
 
 #### (1) In general
 
-&emsp;With respect to the Paducah Gaseous Diffusion Plant, Kentucky, and the Portsmouth Gaseous Diffusion Plant, Ohio, the guidelines relating to the authority of the Department of Energy's contractors (including any Federal agency, or private entity operating a gaseous diffusion plant under a contract or lease with the Department of Energy) and any subcontractor (at any tier) to carry firearms and make arrests in providing security at Federal installations, issued under section 2201(k) of this title shall require, at a minimum, the presence of all security police officers carrying sidearms at all times to ensure maintenance of security at the gaseous diffusion plants (whether a gaseous diffusion plant is operated directly by a Federal agency or by a private entity under a contract or lease with a Federal agency).
+&emsp;With respect to the Paducah Gaseous Diffusion Plant, Kentucky, and the Portsmouth Gaseous Diffusion Plant, Ohio, the guidelines relating to the authority of the Department ofEnergy's contractors (including any Federal agency, or private entity operating a gaseous diffusion plant under a contract or lease with the Department of Energy) and any subcontractor (at any tier) to carry firearms and make arrests in providing security at Federal installations, issued under section 2201(k) of this title shall require, at a minimum, the presence of all security police officers carrying sidearms at all times to ensure maintenance of security at the gaseous diffusion plants (whether a gaseous diffusion plant is operated directly by a Federal agency or by a private entity under a contract or lease with a Federal agency).
 
 #### (2) Funding
 

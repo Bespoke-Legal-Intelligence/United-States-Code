@@ -38,9 +38,9 @@ In obtaining assistance pursuant to subsection (c) of this section in training p
 
 #### References in Text
 
-Public Law 96–517, referred to in subsec. (a)(3)(A), is Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3015, which enacted sections 200 to 211 and 301 to 307 of Title 35, Patents, amended section 1113 of Title 15, Commerce and Trade, sections 101 and 117 of Title 17, Copyrights, sections 41, 42, and 154 of Title 35, and sections 2186, 2457, and 5908 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 14 and 41 of Title 35. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 41 of Title 35 and Tables.
+Public Law 96–517, referred to in subsec. (a)(3)(A), is Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3015, which enacted sections 200 to 211 and 301 to 307 of Title 35, Patents, amended section 1113 of Title 15, Commerce and Trade, sections 101 and 117 of Title 17, Copyrights, sections 41, 42, and 154 of Title 35, and sections 2186, 2457, and 5908 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 13 and 41 of Title 35. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 41 of Title 35 and Tables.
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (a)(3)(A), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (a)(3)(A), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15,Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 #### Amendments
 

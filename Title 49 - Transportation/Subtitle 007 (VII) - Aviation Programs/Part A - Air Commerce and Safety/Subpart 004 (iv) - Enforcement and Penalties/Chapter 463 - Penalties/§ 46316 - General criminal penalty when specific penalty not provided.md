@@ -52,7 +52,7 @@ This amends 49:46316(b) to make it easier to include future sections in the cros
 
 1997—Subsec. (b). Pub. L. 105–102 amended directory language of Pub. L. 104–287. See 1996 Amendment note below.
 
-1996—Subsec. (b). Pub. L. 104–287, as amended by Pub. L. 105–102, substituted “chapter 447 (except section 44718(a)), and chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909)” for “and sections 44701(a) and\(b), 44702–44716, 44901, 44903(b) and (c), 44905, 44906, 44912–44915, and 44932–44938”.
+1996—Subsec. (b). Pub. L. 104–287, as amended by Pub. L. 105–102, substituted “chapter 447 (except section 44718(a)), and chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909)” for “and sections 44701(a) and (b), 44702–44716, 44901, 44903(b) and (c), 44905, 44906, 44912–44915, and 44932–44938”.
 
 #### Effective Date of 1997 Amendment
 

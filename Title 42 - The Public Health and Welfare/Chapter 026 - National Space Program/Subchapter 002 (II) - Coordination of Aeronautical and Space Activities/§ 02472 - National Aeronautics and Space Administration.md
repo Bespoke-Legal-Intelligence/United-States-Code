@@ -26,11 +26,11 @@ Amendment by Pub. L. 88–426 effective on the first day of the first pay period
 
 #### Emergency Preparedness Functions
 
-For assignment of certain emergency preparedness functions to Administrator of National Aeronautics and Space Administration, see Parts 1, 2, and 19 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of this title.
+For assignment of certain emergency preparedness functions to Administrator of National Aeronauticsand Space Administration, see Parts 1, 2, and 19 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of this title.
 
 #### Termination of National Advisory Committee for Aeronautics; Transfer of Functions
 
-Section 301(a) of Pub. L. 85–568 provided that: “The National Advisory Committee for Aeronautics, on the effective date of this section \[see note set out under section 2302 of Title 10, Armed Forces\], shall cease to exist. On such date all functions, powers, duties, andobligations, and all real and personal property, personnel (other than members of the Committee), funds, and records of that organization, shall be transferred to the Administration.”
+Section 301(a) of Pub. L. 85–568 provided that: “The National Advisory Committee for Aeronautics, on the effective date of this section \[see note set out under section 2302 of Title 10, Armed Forces\], shall cease to exist. On such date all functions, powers, duties, and obligations, and all real and personal property, personnel (other than members of the Committee), funds, and records of that organization, shall be transferred to the Administration.”
 
 #### Appointment of Retired Military Officer as Administrator
 

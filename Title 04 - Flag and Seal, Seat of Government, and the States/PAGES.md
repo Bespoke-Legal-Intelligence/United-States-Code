@@ -1,6 +1,6 @@
 # Printed pages - Title 04 - Flag and Seal, Seat of Government, and the States
 
-GPO's 1998 edition (laws in effect as of 1999-01-05), from its printed page marks. The exact position of
+GPO's 1999 edition (laws in effect as of 2000-01-23), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title4.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -16,15 +16,15 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00006 - Time and occasions for display](Chapter%20001%20-%20The%20Flag/%C2%A7%2000006%20-%20Time%20and%20occasions%20for%20display.md) | 4 |
 | [&sect; 00007 - Position and manner of display](Chapter%20001%20-%20The%20Flag/%C2%A7%2000007%20-%20Position%20and%20manner%20of%20display.md) | 4–6 |
 | [&sect; 00008 - Respect for flag](Chapter%20001%20-%20The%20Flag/%C2%A7%2000008%20-%20Respect%20for%20flag.md) | 6 |
-| [&sect; 00009 - Conduct during hoisting, lowering or passing of flag](Chapter%20001%20-%20The%20Flag/%C2%A7%2000009%20-%20Conduct%20during%20hoisting%2C%20lowering%20or%20passing%20of%20flag.md) | 6 |
-| [&sect; 00010 - Modification of rules and customs by President](Chapter%20001%20-%20The%20Flag/%C2%A7%2000010%20-%20Modification%20of%20rules%20and%20customs%20by%20President.md) | 6–7 |
+| [&sect; 00009 - Conduct during hoisting, lowering or passing of flag](Chapter%20001%20-%20The%20Flag/%C2%A7%2000009%20-%20Conduct%20during%20hoisting%2C%20lowering%20or%20passing%20of%20flag.md) | 6–7 |
+| [&sect; 00010 - Modification of rules and customs by President](Chapter%20001%20-%20The%20Flag/%C2%A7%2000010%20-%20Modification%20of%20rules%20and%20customs%20by%20President.md) | 7 |
 | [Chapter 002 - The Seal](Chapter%20002%20-%20The%20Seal/README.md) | 7 |
 | [&sect; 00041 - Seal of the United States](Chapter%20002%20-%20The%20Seal/%C2%A7%2000041%20-%20Seal%20of%20the%20United%20States.md) | 7 |
 | [&sect; 00042 - Same; custody and use of](Chapter%20002%20-%20The%20Seal/%C2%A7%2000042%20-%20Same%3B%20custody%20and%20use%20of.md) | 7 |
 | [Chapter 003 - Seat of the Government](Chapter%20003%20-%20Seat%20of%20the%20Government/README.md) | 7 |
-| [&sect; 00071 - Permanent seat of Government](Chapter%20003%20-%20Seat%20of%20the%20Government/%C2%A7%2000071%20-%20Permanent%20seat%20of%20Government.md) | 7 |
-| [&sect; 00072 - Public offices; at seat of Government](Chapter%20003%20-%20Seat%20of%20the%20Government/%C2%A7%2000072%20-%20Public%20offices%3B%20at%20seat%20of%20Government.md) | 7 |
-| [&sect; 00073 - Same; removal from seat of Government](Chapter%20003%20-%20Seat%20of%20the%20Government/%C2%A7%2000073%20-%20Same%3B%20removal%20from%20seat%20of%20Government.md) | 7–8 |
+| [&sect; 00071 - Permanent seat of Government](Chapter%20003%20-%20Seat%20of%20the%20Government/%C2%A7%2000071%20-%20Permanent%20seat%20of%20Government.md) | 7–8 |
+| [&sect; 00072 - Public offices; at seat of Government](Chapter%20003%20-%20Seat%20of%20the%20Government/%C2%A7%2000072%20-%20Public%20offices%3B%20at%20seat%20of%20Government.md) | 8 |
+| [&sect; 00073 - Same; removal from seat of Government](Chapter%20003%20-%20Seat%20of%20the%20Government/%C2%A7%2000073%20-%20Same%3B%20removal%20from%20seat%20of%20Government.md) | 8 |
 | [Chapter 004 - The States](Chapter%20004%20-%20The%20States/README.md) | 8 |
 | [&sect; 00101 - Oath by members of legislatures and officers](Chapter%20004%20-%20The%20States/%C2%A7%2000101%20-%20Oath%20by%20members%20of%20legislatures%20and%20officers.md) | 8 |
 | [&sect; 00102 - Same; by whom administered](Chapter%20004%20-%20The%20States/%C2%A7%2000102%20-%20Same%3B%20by%20whom%20administered.md) | 8 |

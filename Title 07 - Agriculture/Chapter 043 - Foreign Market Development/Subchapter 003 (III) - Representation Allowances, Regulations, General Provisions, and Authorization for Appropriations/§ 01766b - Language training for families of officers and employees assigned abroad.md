@@ -6,7 +6,7 @@ Effective October 1, 1976, the Secretary of Agriculture is authorized to provide
 
 #### References in Text
 
-The Agricultural Trade Development and Assistance Act of 1954, as amended, referred to in text, is act July10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to chapter 41 (§1691 et seq.) of this title. Title I of the Act is classified to subchapter II (§1701 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Agricultural Trade Development and Assistance Act of 1954, as amended, referred to in text, is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to chapter 41 (§1691 et seq.) of this title. Title I of the Act is classified to subchapter II (§1701 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
 #### Codification
 

@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (5) Requirement of matching funds
 
-&emsp;A low-income taxpayer clinic must provide matching funds on a dollar-for-dollar basis for all grants provided under this section. Matching funds may include—
+&emsp;A low-income taxpayer clinic must provide matching funds on a dollar-for-dollar basis forall grants provided under this section. Matching funds may include—
 
 &emsp;&emsp;(A) the salary (including fringe benefits) of individuals performing services for the clinic; and
 

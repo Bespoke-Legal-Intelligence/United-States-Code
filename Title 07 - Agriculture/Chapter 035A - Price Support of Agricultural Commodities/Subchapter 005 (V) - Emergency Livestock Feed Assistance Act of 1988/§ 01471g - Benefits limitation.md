@@ -26,7 +26,7 @@ Each person otherwise eligible for a livestock emergency benefit under this subc
 
 #### References in Text
 
-The Disaster Assistance Act of 1988, referred to in subsecs. (c) and (d), is Pub. L. 100–387, Aug. 11, 1988, 102 Stat. 924. Section 211(c) of that act is set out as a noteunder section 1421 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 1421 of this title and Tables.
+The Disaster Assistance Act of 1988, referred to in subsecs. (c) and (d), is Pub. L. 100–387, Aug. 11, 1988, 102 Stat. 924. Section 211(c) of that act is set out as a note under section 1421 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 1421 of this title and Tables.
 
 #### Effective Date
 

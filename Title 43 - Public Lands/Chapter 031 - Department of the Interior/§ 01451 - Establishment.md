@@ -14,6 +14,12 @@ Section was formerly classified to section 481 of Title 5 prior to the general r
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out below.
 
+#### Charges for Use of Property at Main and South Interior Building Complex, Washington, D.C.
+
+Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §115\], Nov. 29, 1999, 113 Stat. 1535, 1501A-158, provided that: “Notwithstanding any other provision of law, in fiscal year 2000 and thereafter, the Secretary is authorized to permit persons, firms or organizations engaged in commercial, cultural, educational, or recreational activities (as defined in section 612a of title 40, United States Code) not currently occupying such space to use courtyards, auditoriums, meeting rooms, and other space of the main and south Interior building complex, Washington, D.C., the maintenance, operation, and protection of which has been delegated to the Secretary from the Administrator of General Services pursuant to the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 471 et seq.\], and to assess reasonable charges therefore, subject to such procedures as the Secretary deems appropriate for such uses. Charges may be for the space, utilities, maintenance, repair, and other services. Charges for such space and services may be at rates equivalent to the prevailing commercial rate for comparable space and services devoted to a similar purpose in the vicinity of the main and south Interior building complex, Washington, D.C., for which charges are being assessed. The Secretary may without further appropriation hold, administer, and use such proceeds within the Departmental Management Working Capital Fund to offset the operation of the buildings under his jurisdiction, whether delegated or otherwise, and for related purposes, until expended.”
+
+Similar provisions were contained in Pub. L. 105–277, div. A, §101(e) \[title I, §117\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–256.
+
 #### Compensation of Secretary
 
 Compensation of Secretary, see section 5312 of Title 5, Government Organization and Employees.

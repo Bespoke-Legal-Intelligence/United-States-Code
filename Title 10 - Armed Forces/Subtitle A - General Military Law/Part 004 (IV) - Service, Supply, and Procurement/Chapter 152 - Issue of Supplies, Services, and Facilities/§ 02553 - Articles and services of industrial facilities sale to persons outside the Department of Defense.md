@@ -14,19 +14,21 @@ Designation of Participating Industrial Facilities.—The Secretary may designat
 
 (c)
 
-Conditions for Sales.—A sale of articles or services may be made under this section only if—
+Conditions for Sales.—(1) A sale of articles or services may be made under this section only if—
 
-&emsp;(1) the Secretary of Defense determines that the articles or services are not available from a commercial source in the United States;
+&emsp;(A) the Secretary of Defense determines that the articles or services are not available from a commercial source in the United States;
 
-&emsp;(2) the purchaser agrees to hold harmless and indemnify the United States, except in any case of willful misconduct or gross negligence, from any claim for damages or injury to any person or property arising out of the articles or services;
+&emsp;(B) the purchaser agrees to hold harmless and indemnify the United States, except in any case of willful misconduct or gross negligence, from any claim for damages or injury to any person or property arising out of the articles or services;
 
-&emsp;(3) the articles or services can be substantially manufactured or performed by the industrial facility concerned with only incidental subcontracting;
+&emsp;(C) the articles or services can be substantially manufactured or performed by the industrial facility concerned with only incidental subcontracting;
 
-&emsp;(4) it is in the public interest to manufacture the articles or perform the services;
+&emsp;(D) it is in the public interest to manufacture the articles or perform the services;
 
-&emsp;(5) the Secretary determines that the sale of the articles or services will not interfere with the military mission of the industrial facility concerned; and
+&emsp;(E) the Secretary determines that the sale of the articles or services will not interfere with the military mission of the industrial facility concerned; and
 
-&emsp;(6) the sale of the goods and services is made on the basis that it will not interfere with performance of work by the industrial facility concerned for the Department of Defense.
+&emsp;(F) the sale of the goods and services is made on the basis that it will not interfere with performance of work by the industrial facility concerned for the Department of Defense.
+
+(2) The Secretary of Defense may waive the condition in paragraph (1)(A) and subsection (a)(1) that an article or service must be not available from a United States commercial source in the case of a particular sale if the Secretary determines that the waiver is necessary for reasons of national security and notifies Congress regarding the reasons for the waiver.
 
 (d)
 
@@ -58,15 +60,27 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) subsequent progress payments that result in full payment being completed as the required work is being completed.
 
-&emsp;(2) The term “variable costs”, with respect to sales of articles or services, means the costs that are expected to fluctuate directly with the volume of sales and—
+&emsp;(2) The term “not available”, with respect to an article or service proposed to be sold under this section, means that the article or service is unavailable from a commercial source in the required quantity and quality or within the time required.
+
+&emsp;(3) The term “variable costs”, with respect to sales of articles or services, means the costs that are expected to fluctuate directly with the volume of sales and—
 
 &emsp;&emsp;(A) in the case of articles, the volume of production necessary to satisfy the sales orders; or
 
 &emsp;&emsp;(B) in the case of services, the extent of the services sold.
 
-(Added Pub. L. 103–337, div. A, title III, §339(a)(1), Oct. 5, 1994, 108 Stat. 2718.)
+(Added Pub. L. 103–337, div. A, title III, §339(a)(1), Oct. 5, 1994, 108 Stat. 2718; amended Pub. L. 106–65, div. A, title III, §331(a)(2), (b), Oct. 5, 1999, 113 Stat. 566, 567.)
+
+#### Amendments
+
+1999—Subsec. (c). Pub. L. 106–65, §331(a)(2), designated existing provisions as par. (1), redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), and added par. (2).
+
+Subsec. (g)(2), (3). Pub. L. 106–65, §331(b), added par. (2) and redesignated former par. (2) as (3).
 
 #### Effective Date
 
 Section 339(b) of Pub. L. 103–337 provided that: “Section 2553 of title 10, United States Code, as added by subsection (a), shall take effect on April 1, 1995.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7300 of this title.
 

@@ -46,7 +46,7 @@ Pub. L. 101–239, §7401(b)(1), redesignated former subsec. (c) as (d).
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 applicable to taxable years of foreign corporations beginning after July 10, 1989, with special rules for any foreign corporation required by the amendments made by section 7401 of Pub. L. 101–239 to change its taxable year for its first taxable year beginning after July 10, 1989, see section 7401(d) of Pub. L. 101–239, set out as an Effective Date note under section 898 of this title.
+Amendment by Pub. L. 101–239 applicable to taxable years of foreign corporations beginning after July 10,1989, with special rules for any foreign corporation required by the amendments made by section 7401 of Pub. L. 101–239 to change its taxable year for its first taxable year beginning after July 10, 1989, see section 7401(d) of Pub. L. 101–239, set out as an Effective Date note under section 898 of this title.
 
 #### Effective Date of 1969 Amendment
 
@@ -54,7 +54,7 @@ Section 914(b) of Pub. L. 91–172 provided that: “The amendment made by subse
 
 #### Cross References
 
-Accumulated earnings credit reduced under certain circumstances by dividends paid after close of taxableyear but considered as paid during taxable year, see section 535 of this title.
+Accumulated earnings credit reduced under certain circumstances by dividends paid after close of taxable year but considered as paid during taxable year, see section 535 of this title.
 
 Deficiency dividend deduction of personal holding companies, see section 547 of this title. Personal holding company dividend defined, see section 316 of this title.
 

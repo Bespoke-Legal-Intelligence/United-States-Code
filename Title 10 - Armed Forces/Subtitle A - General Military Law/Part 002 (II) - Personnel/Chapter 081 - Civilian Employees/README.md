@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| \[1580. | Repealed.\] |
+| [1580\.](%C2%A7%2001580%20-%20Emergency%20essential%20employees%20designation.md) | Emergency essential employees: designation. |
 | [1581\.](%C2%A7%2001581%20-%20Foreign%20National%20Employees%20Separation%20Pay%20Account.md) | Foreign National Employees Separation Pay Account. |
 | \[1582. | Repealed.\] |
 | [1583\.](%C2%A7%2001583%20-%20Employment%20of%20certain%20persons%20without%20pay.md) | Employment of certain persons without pay. |
@@ -30,6 +30,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title XI, §1103(b)(2), Oct. 5, 1999, 113 Stat. 777, added item 1580.
 
 1998—Pub. L. 105–339, §6(c)(1)(B), Oct. 31, 1998, 112 Stat. 3188, struck out item 1599c “Veterans’ preference requirements: Department of Defense failure to comply treated as a prohibited personnel practice”.
 
@@ -84,7 +86,7 @@ This chapter is referred to in section 1552 of this title.
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01580 - Repealed. Pub. L. 89&#8211;554, &sect;8(a), Sept. 6, 1966, 80 Stat. 663](%C2%A7%2001580%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93554%2C%20%C2%A78%28a%29%2C%20Sept.%206%2C%201966%2C%2080%20Stat.%20663.md)
+- [&sect; 01580 - Emergency essential employees designation](%C2%A7%2001580%20-%20Emergency%20essential%20employees%20designation.md)
 - [&sect; 01581 - Foreign National Employees Separation Pay Account](%C2%A7%2001581%20-%20Foreign%20National%20Employees%20Separation%20Pay%20Account.md)
 - [&sect; 01582 - Repealed. Pub. L. 97&#8211;295, &sect;1(19)(A), Oct. 12, 1982, 96 Stat. 1290](%C2%A7%2001582%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93295%2C%20%C2%A71%2819%29%28A%29%2C%20Oct.%2012%2C%201982%2C%2096%20Stat.%201290.md)
 - [&sect; 01583 - Employment of certain persons without pay](%C2%A7%2001583%20-%20Employment%20of%20certain%20persons%20without%20pay.md)

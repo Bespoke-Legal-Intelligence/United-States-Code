@@ -42,7 +42,7 @@ For purposes of subsection (a) of this section, the “enhanced FMAP”, for a S
 
 &emsp;&emsp;&emsp;(i) coverage provided to targeted low-income children through such expenditures meets the requirements of section 1397cc of this title;
 
-&emsp;&emsp;&emsp;(ii) the cost of such coverage is not greater, on an average per child basis, than the cost of coverage that would otherwise be provided under section 1397cc of this title; and
+&emsp;&emsp;&emsp;(ii) the cost of such coverage is not greater, on an average per child basis, than the cost of coverage that would otherwisebe provided under section 1397cc of this title; and
 
 &emsp;&emsp;&emsp;(iii) such coverage is provided through the use of a community-based health delivery system, such as through contracts with health centers receiving funds under section 254b of this title or with hospitals such as those that receive disproportionate share payment adjustments under section 1395ww(d)(5)(F) or 1396r–4 of this title.
 
@@ -110,7 +110,7 @@ For purposes of subsection (a) of this section, the “enhanced FMAP”, for a S
 
 &emsp;&emsp;&emsp;(ii) The State share of expenditures under subchapter XIX of this chapter that are attributable to an enhanced FMAP under section 1396d(u) of this title.
 
-&emsp;&emsp;&emsp;(iii) State expenditures under health benefits coverage under an existing comprehensive State-based program, described <sup>1</sup> section 1397cc(d) of this title.
+&emsp;&emsp;&emsp;(iii) State expenditures under health benefits coverage under an existing comprehensive State-based program, described in section 1397cc(d) of this title.
 
 #### (e) Advance payment; retrospective adjustment
 
@@ -120,9 +120,11 @@ The Secretary may make payments under this section for each quarter on the basis
 
 Nothing in this section or subsections (e) and (f) of section 1397dd of this title shall be construed as preventing a State from claiming as expenditures in the quarter expenditures that were incurred in a previous quarter.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2105, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 560; amended Pub. L. 105–100, title I, §162(5), (7), Nov. 19, 1997, 111 Stat. 2189, 2190.)
+(Aug. 14, 1935, ch. 531, title XXI, §2105, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 560; amended Pub. L. 105–100, title I, §162(5), (7), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §705(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402.)
 
 #### Amendments
+
+1999—Subsec. (d)(2)(B)(iii). Pub. L. 106–113 inserted “in” after “described”.
 
 1997—Subsec. (c)(2)(A). Pub. L. 105–100, §162(5), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in this paragraph, payment shall not be made under subsection (a) of this section for expenditures for items described in subsection (a) of this section (other than paragraph (1)) for a quarter in a fiscal year to the extent the total of such expenditures exceeds 10 percent of the sum of—
 
@@ -139,6 +141,4 @@ Section 162 of Pub. L. 105–100 provided in part that the amendment made by tha
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1396d, 1397aa, 1397ff, 1397ii, 1397jj of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “in”.</i>
 

@@ -8,7 +8,7 @@ Whenever funds made available for use under subchapter II of this chapter have b
 
 (1) The special fund account established under subsection (a) of this section shall terminate as of the end of June 30, 1968, or on such earlier date as may be selected by the President.
 
-(2) Upon the termination of such fund account pursuant to paragraph (1), all of the assets of such fund account (including loans and other payments receivable) shall be transferred to a special account in the Treasury, which special account shall be available solely for the purpose of discharging outstanding liabilities and obligations of the United States arising out of credit sales agreements entered into, and guaranties issued, under subchapter II of this chapter prior to June 30, 1968. Any moneys in such special account in excess of the aggregate United States dollar amount of such liabilities and obligations shall be transferred from time to time to the general fund of the Treasury.
+(2) Upon the termination of such fund account pursuant to paragraph (1), all of the assets of such fund account (including loans and other payments receivable) shall be transferred to a special account in the Treasury, which special account shall be available solely for the purposeof discharging outstanding liabilities and obligations of the United States arising out of credit sales agreements entered into, and guaranties issued, under subchapter II of this chapter prior to June 30, 1968. Any moneys in such special account in excess of the aggregate United States dollar amount of such liabilities and obligations shall be transferred from time to time to the general fund of the Treasury.
 
 (Pub. L. 87–195, pt. II, §524, formerly §508, Sept. 4, 1961, 75 Stat. 437; Pub. L. 89–171, pt. II, §201(e), Sept. 6, 1965, 79 Stat. 657; Pub. L. 89–583, pt. II, §201(c), Sept. 19, 1966, 80 Stat. 803; renumbered §524 and amended Pub. L. 90–137, pt. II, §201(h), Nov. 14, 1967, 81 Stat. 456; Pub. L. 90–629, ch. 4, §45(a), Oct. 22, 1968, 82 Stat. 1327.)
 
@@ -40,7 +40,7 @@ Determinations, authorizations, regulations, orders, contracts, agreements, and 
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Defense pursuant to section 1–301(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56675, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Increases in Military Assistance Programs; Reports to Congress on Presidential Determinations
 

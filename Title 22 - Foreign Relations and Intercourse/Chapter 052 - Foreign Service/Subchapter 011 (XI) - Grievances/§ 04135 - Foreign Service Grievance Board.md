@@ -18,9 +18,31 @@ The Secretary of State may, upon written notice, remove a Board member for corru
 
 #### (e) Administrative services; payment of expenses; assignment as staff employees of Board; performance evaluation reports; records
 
-The Board may obtain facilities, services, and supplies through the general administrative services of the Department of State. All expenses of the Board, including necessary costs of the travel and travel-related expenses of a grievant, shall be paid out of funds appropriated to the Department for obligation and expenditure by the Board. At the request of the Board, employees of the Department and members of the Service may be assigned as staff employees for the Board. Within the limits of appropriated funds, the Board may appoint and fix the compensation of such other employees as the Board considers necessary to carry out its functions. The individuals so appointed or assigned shall be responsible solely to the Board, and the Boardshall prepare the performance evaluation reports for such individuals. The records of the Board shall be maintained by the Board and shall be separate from all other records of the Department of State under appropriate safeguards to preserve confidentiality.
+The Board may obtain facilities, services, and supplies through the general administrativeservices of the Department of State. All expenses of the Board, including necessary costs of the travel and travel-related expenses of a grievant, shall be paid out of funds appropriated to the Department for obligation and expenditure by the Board. At the request of the Board, employees of the Department and members of the Service may be assigned as staff employees for the Board. Within the limits of appropriated funds, the Board may appoint and fix the compensation of such other employees as the Board considers necessary to carry out its functions. The individuals so appointed or assigned shall be responsible solely to the Board, and the Board shall prepare the performance evaluation reports for such individuals. The records of the Board shall be maintained by the Board and shall be separate from all other records of the Department of State under appropriate safeguards to preserve confidentiality.
 
-(Pub. L. 96–465, title I, §1105, Oct. 17, 1980, 94 Stat. 2144.)
+#### (f) Report
+
+(1) Not later than March 1 of each year, the Chairman of the Foreign Service Grievance Board shall prepare a report summarizing the activities of the Board during the previous calendar year. The report shall include—
+
+&emsp;(A) the number of cases filed;
+
+&emsp;(B) the types of cases filed;
+
+&emsp;(C) the number of cases on which a final decision was reached, as well as data on the outcome of cases, whether affirmed, reversed, settled, withdrawn, or dismissed;
+
+&emsp;(D) the number of oral hearings conducted and the length of each such hearing;
+
+&emsp;(E) the number of instances in which interim relief was granted by the Board; and
+
+&emsp;(F) data on the average time for consideration of a grievance, from the time of filing to a decision of the Board.
+
+(2) The report required under paragraph (1) shall be submitted to the Director General of the Foreign Service and the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives.
+
+(Pub. L. 96–465, title I, §1105, Oct. 17, 1980, 94 Stat. 2144; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §331\], Nov. 29, 1999, 113 Stat. 1536, 1501A–439.)
+
+#### Amendments
+
+1999—Subsec. (f). Pub. L. 106–113 added subsec. (f).
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

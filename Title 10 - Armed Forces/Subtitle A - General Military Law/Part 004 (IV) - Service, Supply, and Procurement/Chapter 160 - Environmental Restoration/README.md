@@ -10,10 +10,13 @@
 | [2706\.](%C2%A7%2002706%20-%20Annual%20reports%20to%20Congress.md) | Annual reports to Congress. |
 | [2707\.](%C2%A7%2002707%20-%20Definitions.md) | Definitions. |
 | [2708\.](%C2%A7%2002708%20-%20Contracts%20for%20handling%20hazardous%20waste%20from%20defense%20facilities.md) | Contracts for handling hazardous waste from defense facilities. |
+| [2709\.](%C2%A7%2002709%20-%20Investment%20control%20process%20for%20environmental%20technologies.md) | Investment control process for environmental technologies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title III, §323(b)(2), Oct. 5, 1999, 113 Stat. 563, added item 2709.
 
 1996—Pub. L. 104–201, div. A, title III, §322(a)(2), Sept. 23, 1996, 110 Stat. 2478, substituted “accounts” for “transfer account” in item 2703.
 
@@ -26,8 +29,6 @@ Pub. L. 102–25, title VII, §701(e)(6), Apr. 6, 1991, 105 Stat. 114, substitut
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 2810 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection (a)”.</i>
 
 
 ---
@@ -42,3 +43,4 @@ This chapter is referred to in section 2810 of this title.
 - [&sect; 02706 - Annual reports to Congress](%C2%A7%2002706%20-%20Annual%20reports%20to%20Congress.md)
 - [&sect; 02707 - Definitions](%C2%A7%2002707%20-%20Definitions.md)
 - [&sect; 02708 - Contracts for handling hazardous waste from defense facilities](%C2%A7%2002708%20-%20Contracts%20for%20handling%20hazardous%20waste%20from%20defense%20facilities.md)
+- [&sect; 02709 - Investment control process for environmental technologies](%C2%A7%2002709%20-%20Investment%20control%20process%20for%20environmental%20technologies.md)

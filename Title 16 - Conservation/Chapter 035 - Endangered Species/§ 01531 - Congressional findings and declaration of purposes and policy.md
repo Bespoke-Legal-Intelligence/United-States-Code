@@ -62,7 +62,7 @@ Section 1 of Pub. L. 97–304 provided: “That this Act \[amending this section
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–632, §1, Nov. 10, 1978, 92 Stat. 3751, provided: “That this Act \[amending sections 1532 to 1536, 1538 to1540, and 1542 of this title\] may be cited as the ‘Endangered Species Act Amendments of 1978’.”
+Pub. L. 95–632, §1, Nov. 10, 1978, 92 Stat. 3751, provided: “That this Act \[amending sections 1532 to 1536, 1538 to 1540, and 1542 of this title\] may be cited as the ‘Endangered Species Act Amendments of 1978’.”
 
 #### Short Title
 

@@ -46,7 +46,7 @@ Pub. L. 102–325, title XIV, §1406, July 22, 1992, 106 Stat. 818, required Sec
 
 #### Data Study Required
 
-Pub. L. 99–498, title XIII, §1303, Oct. 17, 1986, 100 Stat. 1580, as amended by Pub. L. 100–50, §23(3), June 3, 1987,101 Stat. 362, required Secretary of Education, through Office of Educational Research and Improvement, to conduct studies of escalating cost of higher education, student aid recipients, current and future supply and demand of teachers, and certain financial aid formulas for students in postsecondary education institutions and to submit reports to Congress not later than Sept. 30, 1990, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
+Pub. L. 99–498, title XIII, §1303, Oct. 17, 1986, 100 Stat. 1580, as amended by Pub. L. 100–50, §23(3), June 3, 1987, 101 Stat. 362, required Secretary of Education, through Office of Educational Research and Improvement, to conduct studies of escalating cost of higher education, student aid recipients, current and future supply and demand of teachers, and certain financial aid formulas for students in postsecondary education institutions and to submit reports to Congress not later than Sept. 30, 1990, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
 
 #### Study by National Center for Education Statistics Respecting Condition of Education for Hispanic Americans
 

@@ -414,7 +414,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 6861, 8624, 9902, 9912 of this title; title 2 section 452; title 5 section 8332; title 12 section 1766; title 38 section 4213.
+This chapter is referred to in sections 6861, 8624 of this title; title 2 section 452; title 5 section 8332; title 12 section 1766; title 38 section 4213.
 
 
 ---

@@ -12,5 +12,5 @@ This section incorporates only the first sentence of former section 212. The bal
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 

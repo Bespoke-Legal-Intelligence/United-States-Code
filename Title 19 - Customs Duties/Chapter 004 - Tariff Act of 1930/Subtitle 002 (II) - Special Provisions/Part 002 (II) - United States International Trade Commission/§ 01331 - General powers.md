@@ -28,7 +28,7 @@ Except for employees excepted under civil service rules, all employees of the co
 
 #### (c) Expenses
 
-All of the expenses of the commission, including all necessary expenses for transportation incurred by the commissioners or by their employees under their orders in making any investigation or upon official business in any other places than at their respective headquarters, shall be allowed and paid on the presentation of itemized vouchers therefor approved by the chairman (except that in the case of a commissioner, or the personal staff of any commissioner, such vouchers may be approved by that commissioner).
+All of the expenses of the commission, including all necessary expenses for transportation incurred by the commissioners or by their employees under their orders in making any investigation or upon official business in any other places than at their respective headquarters, shall beallowed and paid on the presentation of itemized vouchers therefor approved by the chairman (except that in the case of a commissioner, or the personal staff of any commissioner, such vouchers may be approved by that commissioner).
 
 #### (d) Principal office at Washington
 
@@ -58,7 +58,7 @@ In subsec. (b), the words “Except for employees excepted under the civil servi
 
 Provisions similar to subsecs. (a) to (e) of this section were contained in act Sept. 8, 1916, ch. 463, §701, 39 Stat. 975. That section was superseded by section 331 of act June 17, 1930, comprising this section.
 
-Provisions similar to those in subsecs. (f) and (g) of this section were contained in act Sept. 21, 1922, ch. 356, title III, §318, 42 Stat. 947. That section was supersededby section 331 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in subsecs. (f) and (g) of this section were contained in act Sept. 21, 1922, ch. 356, title III, §318, 42 Stat. 947. That section was superseded by section 331 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 

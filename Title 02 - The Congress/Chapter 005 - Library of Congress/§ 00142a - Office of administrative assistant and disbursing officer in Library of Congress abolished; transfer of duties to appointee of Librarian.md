@@ -16,5 +16,5 @@ Section 142 of this title, referred to in text, was omitted from the Code.
 
 Disbursement functions of all Government agencies, except Departments of the Army, Navy, and Air Force and Panama Canal transferred to Division of Disbursements, Treasury Department, by Ex. Ord. No. 6166, §4, June 10, 1933, and Ex. Ord. No. 6728, May 29, 1934.
 
-Division subsequently consolidated with other agencies into Fiscal Service in Treasury Department by Reorg. Plan No. III of 1940, §1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231. See section 306 of Title 31, Money and Finance.
+Division subsequently consolidated with other agencies into Fiscal Service in Treasury Department by Reorg. Plan No. III of 1940, §1(a)(1), eff. June 30, 1940, 5F.R. 2107, 54 Stat. 1231. See section 306 of Title 31, Money and Finance.
 

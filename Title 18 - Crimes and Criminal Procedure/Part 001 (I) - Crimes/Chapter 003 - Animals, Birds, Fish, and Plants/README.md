@@ -8,6 +8,7 @@
 | \[44, 45. | Repealed.\] |
 | [46\.](%C2%A7%2000046%20-%20Transportation%20of%20water%20hyacinths.md) | Transportation of water hyacinths. |
 | [47\.](%C2%A7%2000047%20-%20Use%20of%20aircraft%20or%20motor%20vehicles%20to%20hunt%20certain%20wild%20horses%20or%20burros%3B%20pollution%20of%20watering%20holes.md) | Use of aircraft or motor vehicles to hunt certain wild horses or burros; pollution of watering holes. |
+| [48\.](%C2%A7%2000048%20-%20Depiction%20of%20animal%20cruelty.md) | Depiction of animal cruelty. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -16,6 +17,8 @@
 The criminal provisions of the Migratory Bird Treaty Act, sections 703–711 of title 16, U.S.C., 1940 ed., Conservation, and the Migratory Bird Conservation Act, sections 715–715r of title 16, U.S.C., 1940 ed., Conservation, were considered for inclusion in this chapter. Since these provisions, except parts of sections 704–707 of said title 16, are so inextricably interwoven with the Migratory Bird Acts, it was found advisable to exclude them.
 
 #### Amendments
+
+1999—Pub. L. 106–152, §1(b), Dec. 9, 1999, 113 Stat. 1732, added item 48.
 
 1992—Pub. L. 102–346, §2(b), Aug. 26, 1992, 106 Stat. 929, which directed the general amendment of item 43, was executed by adding item 43 to reflect the probable intent of Congress, because item 43 had been previously struck out by Pub. L. 101–647. See 1990 Amendment note below.
 
@@ -39,3 +42,4 @@ The criminal provisions of the Migratory Bird Treaty Act, sections 703–711 of 
 - [&sect; 00045 - Repealed. Pub. L. 101&#8211;647, title XII, &sect;1206(a), Nov. 29, 1990, 104 Stat. 4832](%C2%A7%2000045%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93647%2C%20title%20XII%2C%20%C2%A71206%28a%29%2C%20Nov.%2029%2C%201990%2C%20104%20Stat.%204832.md)
 - [&sect; 00046 - Transportation of water hyacinths](%C2%A7%2000046%20-%20Transportation%20of%20water%20hyacinths.md)
 - [&sect; 00047 - Use of aircraft or motor vehicles to hunt certain wild horses or burros; pollution of watering holes](%C2%A7%2000047%20-%20Use%20of%20aircraft%20or%20motor%20vehicles%20to%20hunt%20certain%20wild%20horses%20or%20burros%3B%20pollution%20of%20watering%20holes.md)
+- [&sect; 00048 - Depiction of animal cruelty](%C2%A7%2000048%20-%20Depiction%20of%20animal%20cruelty.md)

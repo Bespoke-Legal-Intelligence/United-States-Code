@@ -1,6 +1,6 @@
 ### §474. Anchorage and general regulations for St. Marys River
 
-The Commandant of the Coast Guard is authorized and directed to adopt and prescribe suitable rules and regulations governing the movements and anchorage of vessels and rafts in Saint Marys River from Point Iroquois, on Lake Superior, to Point Detour, on Lake Huron, and for the purpose of enforcing the observance ofsuch regulations the Secretary of Transportation is authorized to detail one or more Coast Guard vessels for duty upon the request of the Commandant of the Coast Guard on said river.
+The Commandant of the Coast Guard is authorized and directed to adopt and prescribe suitable rules and regulations governing the movements and anchorage of vessels and rafts in Saint Marys River from Point Iroquois, on Lake Superior, to Point Detour, on Lake Huron, and for the purpose of enforcing the observance of such regulations the Secretary of Transportation is authorized to detail one or more Coast Guard vessels for duty upon the request of the Commandant of the Coast Guard on said river.
 
 All officers of the Coast Guard who are directed to enforce the regulations prescribed by the above rules are empowered and directed, in case of necessity, or when a proper notice has been disregarded, to use the force at their command to remove from channels or stop any vessel found violating the prescribed rules.
 

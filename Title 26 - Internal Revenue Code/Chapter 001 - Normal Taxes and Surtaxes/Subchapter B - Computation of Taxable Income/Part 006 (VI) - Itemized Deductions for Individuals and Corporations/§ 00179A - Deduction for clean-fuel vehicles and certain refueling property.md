@@ -48,7 +48,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The aggregate cost which may be taken into account under subsection (a)(1)(B) withrespect to qualified clean-fuel vehicle refueling property placed in service during the taxable year at a location shall not exceed the excess (if any) of—
+&emsp;&emsp;The aggregate cost which may be taken into account under subsection (a)(1)(B) with respect to qualified clean-fuel vehicle refueling property placed in service during the taxable year at a location shall not exceed the excess (if any) of—
 
 &emsp;&emsp;&emsp;(i) $100,000, over
 
@@ -86,7 +86,7 @@ For purposes of this section—
 
 &emsp;Property shall not be treated as qualified clean-fuel vehicle property unless—
 
-&emsp;&emsp;(A) the motor vehicle of which it is a part meets any applicable Federal or State emissions standards with respect to each fuel by which such vehicle is designed to be propelled, or
+&emsp;&emsp;(A) the motor vehicle of which it is a part meets any applicable Federal or State emissions standards with respect to each fuel bywhich such vehicle is designed to be propelled, or
 
 &emsp;&emsp;(B) in the case of property described in paragraph (1)(A), such property meets applicable Federal and State emissions-related certification, testing, and warranty requirements.
 

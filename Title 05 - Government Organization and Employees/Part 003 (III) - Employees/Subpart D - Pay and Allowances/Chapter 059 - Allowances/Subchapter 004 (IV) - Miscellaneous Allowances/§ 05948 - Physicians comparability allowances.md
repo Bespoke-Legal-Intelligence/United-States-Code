@@ -22,7 +22,7 @@
 
 (d) Any agreement entered into by a physician under this section shall be for a period of one year of service in the agency involved unless the physician requests an agreement for a longer period of service. No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.
 
-(e) Unless otherwise provided for in the agreement under subsection (f) of this section, an agreement under this section shall provide that the physician, in the event that such physician voluntarily, or because of misconduct, fails to complete at least one year of service pursuantto such agreement, shall be required to refund the total amount received under this section, unless the head of the agency, pursuant to such regulations as may be prescribed under this section by the President or his designee, determines that such failure is necessitated by circumstances beyond the control of the physician.
+(e) Unless otherwise provided for in the agreement under subsection (f) of this section, an agreement under this section shall provide that the physician, in the event that such physician voluntarily, or because of misconduct, fails to complete at least one year of service pursuant to such agreement, shall be required to refund the total amount received under this section, unless the head of the agency, pursuant to such regulations as may be prescribed under this section by the President or his designee, determines that such failure is necessitated by circumstances beyond the control of the physician.
 
 (f) Any agreement under this section shall specify, subject to such regulations as the President or his designee may prescribe, the terms under which the head of the agency and the physician may elect to terminate such agreement, and the amounts, if any, required to be refunded by the physician for each reason for termination.
 
@@ -172,7 +172,7 @@ Section 1 of Pub. L. 97–141 provided: “That this Act \[amending this section
 
 #### Short Title of 1979 Amendment
 
-Section 1 of Pub. L. 96–166 provided: “That this Act \[amending this section and section 5383 of this title and provisions set out as a note under this section, and enacting provisions set out below\] may be cited as the‘Federal Physicians Comparability Allowance Amendments of 1979’.”
+Section 1 of Pub. L. 96–166 provided: “That this Act \[amending this section and section 5383 of this title and provisions set out as a note under this section, and enacting provisions set out below\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1979’.”
 
 #### Short Title
 

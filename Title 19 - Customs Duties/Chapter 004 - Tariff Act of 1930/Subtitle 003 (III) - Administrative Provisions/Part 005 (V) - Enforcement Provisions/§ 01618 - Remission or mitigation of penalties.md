@@ -12,7 +12,7 @@ The navigation laws, referred to in text, are classified generally to Title 33, 
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §618, 42 Stat. 987. That section was superseded by section 618 ofact June 17, 1930, comprising this section, and was repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §618, 42 Stat. 987. That section was superseded by section 618 of act June 17, 1930, comprising this section, and was repealed by section 651(a)(1) of the 1930 act.
 
 Provisions for a petition to the judge of the district, a summary investigation before the judge or a United States Commissioner, and transmission of the facts appearing thereon, with a certified copy of the evidence, to the Secretary of the Treasury, and provisions authorizing the Secretary to remit fines and penalties, etc., were contained in act June 22, 1874, ch. 391, §§17, 18, 20, 18 Stat. 189, 190, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 

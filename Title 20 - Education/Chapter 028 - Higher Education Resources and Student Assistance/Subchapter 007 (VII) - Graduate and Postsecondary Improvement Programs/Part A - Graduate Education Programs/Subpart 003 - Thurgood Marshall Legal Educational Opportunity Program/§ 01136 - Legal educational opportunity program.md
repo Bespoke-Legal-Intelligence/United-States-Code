@@ -48,7 +48,7 @@ In carrying out the purposes described in subsection (c) of this section, the co
 
 &emsp;(4) assistance in identifying preparatory courses and material for the law school aptitude or admissions tests;
 
-&emsp;(5) summer institutes for Thurgood Marshall Fellows that expose the Fellows to a rigorouscurriculum that emphasizes abstract thinking, legal analysis, research, writing, and examination techniques; and
+&emsp;(5) summer institutes for Thurgood Marshall Fellows that expose the Fellows to a rigorous curriculum that emphasizes abstract thinking, legal analysis, research, writing, and examination techniques; and
 
 &emsp;(6) midyear seminars and other educational activities that are designed to reinforce reading, writing, and studying skills of Thurgood Marshall Fellows.
 
@@ -120,7 +120,7 @@ Section 1136d, Pub. L. 89–329, title XI, §1105, as added Pub. L. 102–325, t
 
 Another prior section 1136d, Pub. L. 89–329, title XI, §1105, as added Pub. L. 96–374, title XI, §1101, Oct. 3, 1980, 94 Stat. 1492, defined terms, prior to the general amendment of subchapter XI of this chapter by Pub. L. 99–498.
 
-Section 1136e, Pub. L. 89–329, title XI, §1106, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat.786; amended Pub. L. 103–208, §2(j)(46), Dec. 20, 1993, 107 Stat. 2485, related to disbursement of funds. See section 1139e of this title.
+Section 1136e, Pub. L. 89–329, title XI, §1106, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 786; amended Pub. L. 103–208, §2(j)(46), Dec. 20, 1993, 107 Stat. 2485, related to disbursement of funds. See section 1139e of this title.
 
 Section 1136f, Pub. L. 89–329, title XI, §1107, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 787, related to designation of Urban Grant Institutions. See section 1139f of this title.
 

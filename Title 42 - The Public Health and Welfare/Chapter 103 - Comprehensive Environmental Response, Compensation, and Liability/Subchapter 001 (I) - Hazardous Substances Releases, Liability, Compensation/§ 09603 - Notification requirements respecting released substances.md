@@ -14,7 +14,7 @@ Any person—
 
 &emsp;(3) in charge of a facility from which a hazardous substance is released, other than a federally permitted release,
 
-> in a quantity equal to or greater than that determined pursuant to section 9602 of this titlewho fails to notify immediately the appropriate agency of the United States Government as soon as he has knowledge of such release or who submits in such a notification any information which he knows to be false or misleading shall, upon conviction, be fined in accordance with the applicable provisions of title 18 or imprisoned for not more than 3 years (or not more than 5 years in the case of a second or subsequent conviction), or both. Notification received pursuant to this subsection or information obtained by the exploitation of such notification shall not be used against any such person in any criminal case, except a prosecution for perjury or for giving a false statement.
+> in a quantity equal to or greater than that determined pursuant to section 9602 of this title who fails to notify immediately the appropriate agency of the United States Government as soon as he has knowledge of such release or who submits in such a notification any information which he knows to be false or misleading shall, upon conviction, be fined in accordance with the applicable provisions of title 18 or imprisoned for not more than 3 years (or not more than 5 years in the case of a second or subsequent conviction), or both. Notification received pursuant to this subsection or information obtained by the exploitation of such notification shall not be used against any such person in any criminal case, except a prosecution for perjury or for giving a false statement.
 
 #### (c) Notice to Administrator of EPA of existence of storage, etc., facility by owner or operator; exception; time, manner, and form of notice; penalties for failure to notify; use of notice or information pursuant to notice in criminal case
 
@@ -60,7 +60,7 @@ No notification shall be required under subsection (a) or (b) of this section fo
 
 The Clean Water Act, referred to in subsec. (a), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) ofTitle 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
 The Solid Waste Disposal Act, referred to in subsecs. (c) and (f)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
@@ -83,6 +83,10 @@ Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided th
 #### Effective Date of 1980 Amendment
 
 Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+
+#### Contiguous Zone of United States
+
+For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 

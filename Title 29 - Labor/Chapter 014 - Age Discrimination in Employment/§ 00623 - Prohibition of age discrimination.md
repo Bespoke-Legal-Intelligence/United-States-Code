@@ -20,7 +20,7 @@ It shall be unlawful for a labor organization—
 
 &emsp;(1) to exclude or to expel from its membership, or otherwise to discriminate against, any individual because of his age;
 
-&emsp;(2) to limit, segregate, or classify its membership, or to classify or fail or refuse to refer for employment any individual, in any way which would deprive or tend to deprive any individual of employment opportunities, orwould limit such employment opportunities or otherwise adversely affect his status as an employee or as an applicant for employment, because of such individual's age;
+&emsp;(2) to limit, segregate, or classify its membership, or to classify or fail or refuse to refer for employment any individual, in any way which would deprive or tend to deprive any individual of employment opportunities, or would limit such employment opportunities or otherwise adversely affect his status as an employee or as an applicant for employment, because of such individual's age;
 
 &emsp;(3) to cause or attempt to cause an employer to discriminate against an individual in violation of this section.
 
@@ -180,7 +180,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
 
 &emsp;(F) If an employer that has implemented a deduction pursuant to subparagraph (A) fails to fulfill the obligation described in subparagraph (E), any aggrieved individual may bring an action for specific performance of the obligation described in subparagraph (E). The relief shall be in addition to any other remedies provided under Federal or State law.
 
-&emsp;(3) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because an employer provides a bona fide employee benefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
+&emsp;(3) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because an employer provides a bona fide employeebenefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
 
 &emsp;&emsp;(A) paid to the individual that the individual voluntarily elects to receive; or
 
@@ -188,7 +188,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
 
 #### (m) Voluntary retirement incentive plans
 
-Notwithstanding subsection (f)(2)(B) of this section, it shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because a plan of an institution of higher education (as defined in section 1001 of title 20) offers employees who are serving under a contract of unlimited tenure (or similar arrangement providingfor unlimited tenure) supplemental benefits upon voluntary retirement that are reduced or eliminated on the basis of age, if—
+Notwithstanding subsection (f)(2)(B) of this section, it shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because a plan of an institution of higher education (as defined in section 1001 of title 20) offers employees who are serving under a contract of unlimited tenure (or similar arrangement providing for unlimited tenure) supplemental benefits upon voluntary retirement that are reduced or eliminated on the basis of age, if—
 
 &emsp;(1) such institution does not implement with respect to such employees any age-based reduction or cessation of benefits that are not such supplemental benefits, except as permitted by other provisions of this chapter;
 
@@ -244,7 +244,7 @@ Pub. L. 101–433, §103(3), added subsec. (<i>l</i>).
 
 1986—Subsec. (g)(1). Pub. L. 99–272, §9201(b)(1), and Pub. L. 99–592, §2(a), made identical amendments, substituting “or older” for “through 69” in two places.
 
-Subsec. (g)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (g)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (h). Pub. L. 99–272, §9201(b)(3), and Pub. L. 99–592, §2(b), made identical amendments, redesignating subsec. (g), relating to practices of foreign corporations controlled by American employers, as (h).
 
@@ -358,7 +358,7 @@ Abrogation of right to receive benefits.—An election of coverage under the new
 
 &emsp;“(3)
 
-State assistance.—The Equal Employment Opportunity Commission, the Secretary of Labor, and the Secretary of the Treasury shall, on request, provide to States assistance in identifying and securingindependent technical advice to assist in complying with this subsection.
+State assistance.—The Equal Employment Opportunity Commission, the Secretary of Labor, and the Secretary of the Treasury shall, on request, provide to States assistance in identifying and securing independent technical advice to assist in complying with this subsection.
 
 &emsp;“(4)
 
@@ -458,7 +458,7 @@ Interagency Coordination.—The regulations and rulings issued by the Secretary 
 
 “(e)
 
-Final Regulations.—The Secretary of Labor, the Secretary of the Treasury, and the Equal Employment Opportunity Commission shall each issue beforeFebruary 1, 1988, such final regulations as may be necessary to carry out the amendments made by this subtitle.”
+Final Regulations.—The Secretary of Labor, the Secretary of the Treasury, and the Equal Employment Opportunity Commission shall each issue before February 1, 1988, such final regulations as may be necessary to carry out the amendments made by this subtitle.”
 
 Amendment by Pub. L. 99–272 effective May 1, 1986, see section 9201(d)(2) of Pub. L. 99–272, set out as an Effective Date of 1986 Amendment note under section 1395p of Title 42, The Public Health and Welfare.
 

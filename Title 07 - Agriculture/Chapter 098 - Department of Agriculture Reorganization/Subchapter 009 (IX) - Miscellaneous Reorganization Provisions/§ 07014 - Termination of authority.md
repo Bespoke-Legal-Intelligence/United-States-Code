@@ -16,7 +16,7 @@ Subsection (a) of this section shall not affect—
 
 &emsp;(4) the authority of the Secretary to establish in the Department the position of Under Secretary of Agriculture for Marketing and Regulatory Programs under section 7005 of this title.
 
-(Pub. L. 103–354, title II, §296, Oct. 13, 1994, 108 Stat. 3238; Pub. L. 105–277, div. A, title I, §101(a) \[title X, §1001(4)\], Oct. 21, 1998, 112 Stat. 2681, 2681–42.)
+(Pub. L. 103–354, title II, §296, Oct. 13, 1994, 108 Stat. 3238; Pub. L. 105–277, div. A, §101(a) \[title X, §1001(4)\], Oct. 21, 1998, 112 Stat. 2681, 2681–42.)
 
 #### References in Text
 

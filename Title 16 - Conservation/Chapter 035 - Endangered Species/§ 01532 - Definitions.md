@@ -40,7 +40,7 @@ For the purpose of this chapter—
 
 &emsp;(11) Repealed. Pub. L. 97–304, §4(b), Oct. 13, 1982, 96 Stat. 1420.
 
-&emsp;(12) The term “permit or license applicant” means, when used with respect to an action of a Federal agency for which exemption is sought under section 1536 of this title, any person whose application to such agency for a permit or license has been denied primarilybecause of the application of section 1536(a) of this title to such agency action.
+&emsp;(12) The term “permit or license applicant” means, when used with respect to an action of a Federal agency for which exemption is sought under section 1536 of this title, any person whose application to such agency for a permit or license has been denied primarily because of the application of section 1536(a) of this title to such agency action.
 
 &emsp;(13) The term “person” means an individual, corporation, partnership, trust, association, or any other private entity; or any officer, employee, agent, department, or instrumentality of the Federal Government, of any State, municipality, or political subdivision of a State, or of any foreign government; any State, municipality, or political subdivision of a State; or any other entity subject to the jurisdiction of the United States.
 

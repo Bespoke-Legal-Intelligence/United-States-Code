@@ -22,7 +22,7 @@ Management of Easement.—The Secretary shall enter into a cooperative agreement
 
 “(c)
 
-Resource Study.—Not later than 18 months after the date on which funds are made available to carry out this section, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives a resource study of the property described in subsection (a). The study shall—
+Resource Study.—Not later than 18 months after the date on which funds are made available to carry out this section, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives a resourcestudy of the property described in subsection (a). The study shall—
 
 &emsp;“(1) identify the full range of resources and historic themes associated with Ferry Farm, including those associated with George Washington's tenure at the property and those associated with the Civil War period;
 

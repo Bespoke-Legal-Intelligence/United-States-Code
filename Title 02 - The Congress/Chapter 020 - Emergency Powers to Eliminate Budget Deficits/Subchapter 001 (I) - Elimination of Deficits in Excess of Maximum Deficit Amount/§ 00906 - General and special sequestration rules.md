@@ -12,7 +12,7 @@ Automatic spending increases are increases in outlays due to changes in indexes 
 
 #### (b) Student loans
 
-For all student loans under part B or D of title IV of the Higher Education Act of 1965 \[20 U.S.C.1071 et seq., 1087a et seq.\] made during the period when a sequestration order under section 904 of this title is in effect as required by section 902 or 903 of this title, origination fees under sections 438(c)(2) and 455(c) of that Act \[20 U.S.C. 1087–1(c)(2), 1087e(c)\] shall each be increased by 0.50 percentage point.
+For all student loans under part B or D of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq., 1087a et seq.\] made during the period when a sequestration order under section 904 of this title is in effect as required by section 902 or 903 of this title, origination fees under sections 438(c)(2) and 455(c) of that Act \[20 U.S.C. 1087–1(c)(2), 1087e(c)\] shall each be increased by 0.50 percentage point.
 
 #### (c) Treatment of foster care and adoption assistance programs
 
@@ -28,7 +28,7 @@ Any order issued by the President under section 904 of this title shall make the
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), if a reduction is made under paragraph (1) in payment amounts pursuant to a sequestration order, the reduction shall be applied to payment for services furnished during the effective period of the order. For purposes of the previous sentence, in the case of inpatient services furnished for an individual, the services shall be considered to be furnished on the date of the individual's discharge from the inpatient facility.
+&emsp;&emsp;Except as provided in subparagraph (B), if a reduction is made under paragraph (1) in payment amounts pursuant to a sequestration order, the reduction shall be applied to payment for services furnished during the effective period of the order. For purposes of the previous sentence, in the case of inpatient services furnished for an individual,the services shall be considered to be furnished on the date of the individual's discharge from the inpatient facility.
 
 #### (B) Payment on the basis of cost reporting periods
 
@@ -94,7 +94,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 #### (h) Treatment of Federal administrative expenses
 
-(1) Notwithstanding any other provision of this title,<sup>1</sup> administrative expenses incurred by the departments and agencies, including independent agencies, of the Federal Government in connection with any program, project, activity, or account shall be subject to reduction pursuant to an order issued under section 904 of this title, without regard to any exemption, exception, limitation, or special rule which is otherwise applicable with respect to such program, project, activity, or account under this subchapter.
+(1) Notwithstanding any other provision of this title,<sup>1</sup> administrative expenses incurred by the departments and agencies, including independent agencies, of the Federal Government in connection with any program, project, activity, or account shall be subject to reduction pursuant to an order issued under section 904 of this title, without regard to any exemption, exception, limitation, or special rule which is otherwise applicable with respect to such program,project, activity, or account under this subchapter.
 
 (2) Notwithstanding any other provision of law, administrative expenses of any program, project, activity, or account which is self-supporting and does not receive appropriations shall be subject to reduction under a sequester order, unless specifically exempted in this subchapter.
 
@@ -130,7 +130,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 > shall not be subject to reduction.
 
-(2)(A) A State may reduce each weekly benefit payment made under the Federal-State Extended Unemployment Compensation Act of 1970for any week of unemployment occurring during any period with respect to which payments are reduced under an order issued under section 904 of this title by a percentage not to exceed the percentage by which the Federal payment to the State under section 204 of such Act is to be reduced for such week as a result of such order.
+(2)(A) A State may reduce each weekly benefit payment made under the Federal-State Extended Unemployment Compensation Act of 1970 for any week of unemployment occurring during any period with respect to which payments are reduced under an order issued under section 904 of this title by a percentage not to exceed the percentage by which the Federal payment to the State under section 204 of such Act is to be reduced for such week as a result of such order.
 
 (B) A reduction by a State in accordance with subparagraph (A) shall not be considered as a failure to fulfill the requirements of section 3304(a)(11) of title 26.
 
@@ -196,7 +196,7 @@ This title, referred to in subsecs. (h)(1) and (j)(1), (3), means title II (§20
 
 This joint resolution, referred to in subsec. (j)(6), means Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, as amended, which enacted this chapter and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106, 1109, and 3101 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of this title, enacted provisions set out as notes under section 900 of this title and section 911 of Title 42, and amended provisions set out as a note under section 621 of this title. For complete classification of this Act to the Code, see Tables.
 
-Subsec. (h)(1) of this section, referred to in subsec. (h)(3), was redesignated subsec. (i)(1) of this section by Pub. L. 101–508, title XIII, §13101(d)(2), Nov. 5, 1990, 104 Stat. 1388–589.
+Subsec. (h)(1) of this section, referred to in subsec. (h)(3), was redesignated subsec. (i)(1) of this section byPub. L. 101–508, title XIII, §13101(d)(2), Nov. 5, 1990, 104 Stat. 1388–589.
 
 The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (i)(2)(A), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, as amended, which is classified generally as a note under section 3304 of Title 26, Internal Revenue Code. Section 204 of such Act is set out in the note under section 3304 of Title 26. For complete classification of this Act to the Code, see Tables.
 

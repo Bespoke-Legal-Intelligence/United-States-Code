@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) the agency in which the employee is serving is undergoing a major reorganization, a major reduction in force, or a major transfer of function; and
 
-&emsp;&emsp;(B) a significant percent of the employees serving in such agency will be separated or subject to an immediate reduction in therate of basic pay (without regard to subchapter VI of chapter 53 of this title or comparable provisions);
+&emsp;&emsp;(B) a significant percent of the employees serving in such agency will be separated or subject to an immediate reduction in the rate of basic pay (without regard to subchapter VI of chapter 53 of this title or comparable provisions);
 
 > after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity. For purposes of paragraph (1) of this subsection, separation for failure to accept a directed reassignment to a position outside the commuting area of the employee concerned or to accompany a position outside of such area pursuant to a transfer of function shall not be considered to be a removal for cause on charges of misconduct or delinquency. Notwithstanding the first sentence of this subsection, an employee described in paragraph (1) of this subsection is not entitled to an annuity under this subsection if the employee has declined a reasonable offer of another position in the employee's agency for which the employee is qualified, which is not lower than 2 grades (or pay levels) below the employee's grade (or pay level), and which is within the employee's commuting area.
 
@@ -108,43 +108,11 @@
 
 (n) An annuity or reduced annuity authorized by this section is computed under section 8339 of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 571; Pub. L. 90–83, §1(75), Sept. 11, 1967, 81 Stat. 214; Pub. L. 92–297, §5, May 16, 1972, 86 Stat. 144; Pub. L. 92–382, Aug. 14, 1972, 86 Stat. 539; Pub. L. 93–39, June 12, 1973, 87 Stat. 73; Pub. L. 93–350, §5, July 12, 1974, 88 Stat. 356; Pub. L. 94–183, §2(40), (41), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 95–454, title III, §306, title IV, §412(a), Oct. 13, 1978, 92 Stat. 1147, 1175; Pub. L. 96–70, title I, §1241(a), Sept. 27, 1979, 93 Stat. 471; Pub. L. 96–135, §1(a), Dec. 5, 1979, 93 Stat. 1056; Pub. L. 97–89, title VIII, §803, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 97–253, title III, §308(a), Sept. 8, 1982, 96 Stat. 798; Pub. L. 98–94, title XII, §1256(b), Sept. 24, 1983, 97 Stat. 701; Pub. L. 98–353, title I, §116(c), July 10, 1984, 98 Stat. 344; Pub. L. 98–531, §2(b), Oct. 19, 1984, 98 Stat. 2704; Pub. L. 98–615, title III, §304(d), Nov. 8, 1984, 98 Stat. 3219; Pub. L. 99–190, §101(d) \[title III, §315\], Dec. 19, 1985, 99 Stat. 1224, 1266; Pub. L. 100–53, §2(c), June 18, 1987, 101 Stat. 368; Pub. L. 100–325, §2(<i>l</i>), May 30, 1988, 102 Stat. 582; Pub. L. 101–194, title V, §506(b)(7), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–428, §2(a), Oct. 15, 1990, 104 Stat. 928; Pub. L. 101–510, div. C, title XXXV, §3506(a), Nov. 5, 1990, 104 Stat. 1846; Pub. L. 101–650, title III, §306(c)(3), Dec. 1, 1990, 104 Stat. 5110; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat.4516; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 105–261, div. A, title XI, §1109(a), div. C, title XXXI, §3154(e), Oct. 17, 1998, 112 Stat. 2143, 2255.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 571; Pub. L. 90–83, §1(75), Sept. 11, 1967, 81 Stat. 214; Pub. L. 92–297, §5, May 16, 1972, 86 Stat. 144; Pub. L. 92–382, Aug. 14, 1972, 86 Stat. 539; Pub. L. 93–39, June 12, 1973, 87 Stat. 73; Pub. L. 93–350, §5, July 12, 1974, 88 Stat. 356; Pub. L. 94–183, §2(40), (41), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 95–454, title III, §306, title IV, §412(a), Oct. 13, 1978, 92 Stat. 1147, 1175; Pub. L. 96–70, title I, §1241(a), Sept. 27, 1979, 93 Stat. 471; Pub. L. 96–135, §1(a), Dec. 5, 1979, 93 Stat. 1056; Pub. L. 97–89, title VIII, §803, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 97–253, title III, §308(a), Sept. 8, 1982, 96 Stat. 798; Pub. L. 98–94, title XII, §1256(b), Sept. 24, 1983, 97 Stat. 701; Pub. L. 98–353, title I, §116(c), July 10, 1984, 98 Stat. 344; Pub. L. 98–531, §2(b), Oct. 19, 1984, 98 Stat. 2704; Pub. L. 98–615, title III, §304(d), Nov. 8, 1984, 98 Stat. 3219; Pub. L. 99–190, §101(d) \[title III, §315\], Dec. 19, 1985, 99 Stat. 1224, 1266; Pub. L. 100–53, §2(c), June 18, 1987, 101 Stat. 368; Pub. L. 100–325, §2(<i>l</i>), May 30, 1988, 102 Stat. 582; Pub. L. 101–194, title V, §506(b)(7), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–428, §2(a), Oct. 15, 1990, 104 Stat. 928; Pub. L. 101–510, div. C, title XXXV, §3506(a), Nov. 5, 1990, 104 Stat. 1846; Pub. L. 101–650, title III, §306(c)(3), Dec. 1, 1990, 104 Stat. 5110; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 105–261, div. A, title XI, §1109(a), div. C, title XXXI, §3154(e), Oct. 17, 1998, 112 Stat. 2143, 2255; Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480.)
 
-#### Amendment of Section
+#### Application of Subsection (d)(2)
 
-<i>Pub. L. 105–261, div. A, title XI, §1109(a), (d), Oct. 17, 1998, 112 Stat. 2143, 2145, provided that, effective Oct. 1, 2000, and applicable with respect to an approval for voluntary early retirement made on or after that date, this section is amended—</i>
-
-<i>(1) in subsection (d)(2), by inserting “except in the case of an employee described in subsection (o)(1),” after “(2)”; and</i>
-
-<i>(2) by adding at the end the following:</i>
-
-(<i>o</i>)(1) An employee of the Department of Defense who is separated from the service under conditions described in paragraph (2) after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity.
-
-(2) Paragraph (1) applies to an employee who—
-
-&emsp;(A) has been employed continuously by the Department of Defense for more than 30 days before the date on which the Secretary concerned requests the determinations required under subparagraph (D)(i);
-
-&emsp;(B) is serving under an appointment that is not limited by time;
-
-&emsp;(C) has not received a decision notice of involuntary separation for misconduct or unacceptable performance that is pending decision; and
-
-&emsp;(D) is separated from the service voluntarily during a period in which—
-
-&emsp;&emsp;(i) the Department of Defense or the military department or subordinate organization within the Department of Defense or military department in which the employee is serving is undergoing a major reorganization, a major reduction in force, or a major transfer of function, and employees comprising a significant percentage of the employees serving in that department or organization are to be separated or subject to an immediate reduction in the rate of basic pay (without regard to subchapter VI of chapter 53, or comparable provisions of law), as determined by the Office of Personnel Management (under regulations prescribed by the Office) upon the request of the Secretary concerned; and
-
-&emsp;&emsp;(ii) the employee is within the scope of an offer of voluntary early retirement (as defined by organizational unit, occupational series or level, geographical location, any other similar factor that the Office of Personnel Management determines appropriate, or any combination of such definitions of scope), as determined by the Secretary concerned under regulations prescribed by the Office.
-
-(3) In this subsection, the term “Secretary concerned” means—
-
-&emsp;(A) the Secretary of Defense, with respect to an employee of the Department of Defense not employed in a position in a military department;
-
-&emsp;(B) the Secretary of the Army, with respect to an employee of the Department of the Army;
-
-&emsp;(C) the Secretary of the Navy, with respect to an employee of the Department of the Navy; and
-
-&emsp;(D) the Secretary of the Air Force, with respect to an employee of the Department of the Air Force.
-
-<i>Pub. L. 105–174, title III, §7001(a), May 1, 1998, 112 Stat. 91, provided that, effective for purposes of the period beginning May 1, 1998, and ending Sept. 30, 1999, subsection (d)(2) of this section shall be applied as if it had been amended to read as follows:</i>
+<i>Pub. L. 105–174, title III, §7001(a), May 1, 1998, 112 Stat. 91, as amended by Pub. L. 106–58, title VI, §651(a), Sept. 29, 1999, 113 Stat. 480, provided that, effective May 1, 1998, subsection (d)(2) of this section shall be applied as if it had been amended to read as follows:</i>
 
 (2)(A) has been employed continuously, by the agency in which the employee is serving, for at least the 31-day period ending on the date on which such agency requests the determination referred to in subparagraph (D);
 
@@ -226,7 +194,13 @@ The date of the enactment of this paragraph, referred to in subsec. (j)(3)(A)(ii
 
 #### Amendments
 
+1999—Subsecs. (d)(2), (<i>o</i>). Pub. L. 106–58 repealed Pub. L. 105–261, §1109(a). See 1998 Amendment notes below.
+
 1998—Subsec. (c)(1). Pub. L. 105–261, §3154(e), substituted “, firefighter, or nuclear materials courier” for “or firefighter”.
+
+Subsec. (d)(2). Pub. L. 105–261, §1109(a)(1), which directed insertion of “except in the case of an employee described in subsection (<i>o</i>)(1),” after “(2)”, was repealed by Pub. L. 106–58.
+
+Subsec. (<i>o</i>). Pub. L. 105–261, §1109(a)(2), which directed addition of subsec. (<i>o</i>), relating to authority of Department of Defense to offer employees voluntary early retirement, was repealed by Pub. L. 106–58.
 
 1994—Subsec. (<i>l</i>). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
 
@@ -296,11 +270,7 @@ Secretary and Department of Health, Education, and Welfare redesignated Secretar
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title XI, §1109(d), Oct. 17, 1998, 112 Stat. 2145, provided that: “The amendments made by this section \[amending this section and sections 8339, 8414, and 8464 of this title\]—
-
-&emsp;“(1) shall take effect on October 1, 2000; and
-
-&emsp;“(2) shall apply with respect to an approval for voluntary early retirement made on or after that date.”
+Pub. L. 105–261, div. A, title XI, §1109(d), Oct. 17, 1998, 112 Stat. 2145, as amended by Pub. L. 106–65, div. A, title XI, §1101, Oct. 5, 1999, 113 Stat. 775, which provided that the amendments made by section 1109 of Pub. L. 105–261 (amending this section and sections 8339, 8414, and 8464 of this title) were to be effective Oct. 1, 2000, and applicable with respect to an approval for voluntary early retirement made on or after that date, was repealed byPub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480.
 
 Amendment by section 3154(e) of Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
 

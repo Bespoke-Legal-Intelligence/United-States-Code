@@ -36,7 +36,7 @@ Eligibility Criteria.—To be eligible to receive assistance under this section,
 
 (e)
 
-Proposals.—The Secretary shall prescribe such terms and conditions as the Secretary determines to be appropriate for the content and structure of proposals submitted for assistance under this section.
+Proposals.—The Secretary shall prescribe such terms and conditions as the Secretary determines to be appropriate for the content andstructure of proposals submitted for assistance under this section.
 
 (f)
 

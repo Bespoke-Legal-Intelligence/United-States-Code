@@ -2,7 +2,7 @@
 
 #### (a) Basic freedom of choice
 
-Any individual entitled to insurance benefits under this subchapter may obtain health services from any institution, agency, or personqualified to participate under this subchapter if such institution, agency, or person undertakes to provide him such services.
+Any individual entitled to insurance benefits under this subchapter may obtain health services from any institution, agency, or person qualified to participate under this subchapter if such institution, agency, or person undertakes to provide him such services.
 
 #### (b) Use of private contracts by medicare beneficiaries
 
@@ -80,7 +80,7 @@ Any individual entitled to insurance benefits under this subchapter may obtain h
 
 #### (A) Medicare beneficiary
 
-&emsp;&emsp;The term “medicare beneficiary” means an individual who is entitled to benefitsunder part A of this subchapter or enrolled under part B of this subchapter.
+&emsp;&emsp;The term “medicare beneficiary” means an individual who is entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter.
 
 #### (B) Physician
 

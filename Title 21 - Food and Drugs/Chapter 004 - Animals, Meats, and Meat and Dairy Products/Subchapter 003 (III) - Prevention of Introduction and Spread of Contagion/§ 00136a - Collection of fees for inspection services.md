@@ -62,7 +62,7 @@
 
 #### (4) Liability
 
-&emsp;Any person for whom an activity related to the importation, entry, or exportation of an animal, article, or means of conveyance or relating to veterinary diagnostics, is performedpursuant to the section, shall be liable for payment of fees assessed. Upon failure to pay such fees when due, the Secretary shall assess a late payment penalty, and such overdue fees shall accrue interest, as required by section 3717 of title 31. All fees, late payment penalties, and accrued interest collected shall be credited to such accounts that incur the costs and shall remain available until expended without fiscal year limitation.
+&emsp;Any person for whom an activity related to the importation, entry, or exportation of an animal, article, or means of conveyance or relating to veterinary diagnostics, is performed pursuant to the section, shall be liable for payment of fees assessed. Upon failure to pay such fees when due, the Secretary shall assess a late payment penalty, and such overdue fees shall accrue interest, as required by section 3717 of title 31. All fees, late payment penalties, and accrued interest collected shall be credited to such accounts that incur the costs and shall remain available until expended without fiscal year limitation.
 
 #### (5) Leins <sup>1</sup>
 
@@ -130,7 +130,7 @@ An action may be brought for the recovery of fees, late payment penalties, and a
 
 #### (2) Customs territory
 
-&emsp;For the purposes of subsection (a) of this section, the term “customs territory of the United States” means the 50 States, the District of Columbia, and Puerto Rico.
+&emsp;For the purposes of subsection (a) of this section, the term “customs territory of theUnited States” means the 50 States, the District of Columbia, and Puerto Rico.
 
 #### (3) Person
 

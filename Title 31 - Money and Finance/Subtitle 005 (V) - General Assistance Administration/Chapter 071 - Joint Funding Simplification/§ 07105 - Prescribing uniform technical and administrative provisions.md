@@ -1,6 +1,6 @@
 ### §7105. Prescribing uniform technical and administrative provisions
 
-(a) To make participation in a project easier than would be possible because of varying orconflicting technical or administrative regulations and procedures not required by law, the head of an executive agency may prescribe uniform provisions about inconsistent or conflicting requirements on—
+(a) To make participation in a project easier than would be possible because of varying or conflicting technical or administrative regulations and procedures not required by law, the head of an executive agency may prescribe uniform provisions about inconsistent or conflicting requirements on—
 
 &emsp;(1) financial administration of the project (including accounting, reporting and auditing, and maintaining a separate bank account), to the extent consistent with section 7108 of this title;
 

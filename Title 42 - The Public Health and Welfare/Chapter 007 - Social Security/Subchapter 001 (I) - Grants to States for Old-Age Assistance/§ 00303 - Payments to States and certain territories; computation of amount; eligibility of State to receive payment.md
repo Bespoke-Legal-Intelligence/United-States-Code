@@ -80,7 +80,7 @@ Subsec. (a)(5). Pub. L. 87–543, §101(b)(1)(B), added par. (5).
 
 Subsec. (c). Pub. L. 87–543, §101(b)(1)(C), added subsec. (c).
 
-1961—Subsec. (a)(1). Pub. L. 87–64, §303(a)(1), substituted “$31” for “$30” in subpar. (A), “$66” for “$65” in subpar. (B), and “$81” for “$80” and “$66” for “$65” in subpar. (C).
+1961—Subsec. (a)(1). Pub. L. 87–64, §303(a)(1), substituted “$31” for “$30” in subpar. (A), “$66” for “$65”in subpar. (B), and “$81” for “$80” and “$66” for “$65” in subpar. (C).
 
 Pub. L. 87–31, §5(a), substituted “$80” and “$15” for “$77” and “$12”, respectively, in subpar. (C).
 
@@ -106,7 +106,7 @@ Subsec. (b)(1). Act Sept. 1, 1954, §303(a), substituted “the State's proporti
 
 1952—Subsec. (a). Act July 18, 1952, increased Federal share of State's average monthly payment to four-fifths of the first $25 plus one-half of the remainder within individual maximums of $55, and changed formulas for computing Federal share of public assistance for Puerto Rico and Virgin Islands.
 
-1950—Act Aug. 28, 1950, substituted “Administrator” for “Board”, and “he”, “him” or “his” for “it”, or“its” wherever appearing and in subsec. (a) changed basis for computation of Federal portion of old-age assistance.
+1950—Act Aug. 28, 1950, substituted “Administrator” for “Board”, and “he”, “him” or “his” for “it”, or “its” wherever appearing and in subsec. (a) changed basis for computation of Federal portion of old-age assistance.
 
 1948—Subsec. (a). Act June 14, 1948, substituted $50 for $45 and $20 for $15.
 
@@ -148,7 +148,7 @@ Section 7 of Pub. L. 93–647, as amended by Pub. L. 94–120, §3, Oct. 21, 197
 
 &emsp;“(B) the day in the twelve-month period beginning October 1, 1976,
 
-> which is the last day of the twelve-month period established by the State as its services program year under that section. Notwithstanding the provisions of subsection (b) of section 2003 of the Social Security Act, as amended by this Act \[section 1397b(b) of this title\], the aggregate expenditures required by that subsection with respect to the first services program year of each State shall be the amount which bears the same ratio to the amount that would otherwise be required under that subsection as the number of months in the State's first services program year bears to twelve.
+> which is the last day of the twelve-month period established by the State as its services program year underthat section. Notwithstanding the provisions of subsection (b) of section 2003 of the Social Security Act, as amended by this Act \[section 1397b(b) of this title\], the aggregate expenditures required by that subsection with respect to the first services program year of each State shall be the amount which bears the same ratio to the amount that would otherwise be required under that subsection as the number of months in the State's first services program year bears to twelve.
 
 “(3) Notwithstanding paragraph (1) of this subsection or section 3(f) \[set out as a note under section 1397a of this title\], payments under title IV \[subchapter IV of this chapter\] or section 2002(a)(1) of the Social Security Act \[section 1397a(a)(1) of this title\] with respect to expenditures made prior to October 1, 1978, in connection with the provision of child day care services in day care centers and group day care homes, in the case of children between the ages of six weeks and six years, may be made without regard to the requirements relating to staffing standards which are imposed by or under section 2002(a)(9)(A)(ii) of such Act \[section 1397a(a)(9)(A)(ii) of this title\], so long as the staffing standards actually being applied in the provision of the services involved (A) comply with applicable State law (as in effect at the time the services are provided), (B) are no lower than the corresponding staffing standards which were imposed or required by applicable State law on September 15, 1975, and (C) are no lower, in the case of any day care center or group day care home, than the corresponding standards actually being applied in such center or home on September 15, 1975.
 
@@ -170,7 +170,7 @@ Section 401(f) of Pub. L. 89–97 provided that: “The amendments made by this 
 
 #### Effective Date of 1962 Amendment
 
-Section 202(d) of Pub. L. 87–543 provided that: “The amendments made by sections 109 and 132 (other than subsections (d) and (e) thereof) \[amending this sectionand sections 606, 1203, and 1353 of this title\] shall be applicable in the case of expenditures, under a State plan approved under title I, IV, X, or XIV of the Social Security Act \[subchapter I, IV, X, or XIV of this chapter\], as the case may be, made after September 30, 1962.”
+Section 202(d) of Pub. L. 87–543 provided that: “The amendments made by sections 109 and 132 (other than subsections (d) and (e) thereof) \[amending this section and sections 606, 1203, and 1353 of this title\] shall be applicable in the case of expenditures, under a State plan approved under title I, IV, X, or XIV of the Social Security Act \[subchapter I, IV, X, or XIV of this chapter\], as the case may be, made after September 30, 1962.”
 
 Section 202(f) of Pub. L. 87–543 provided that: “The amendments made by section 101(a) \[amending this section and sections 603, 1203, and 1353 of this title\] shall be applicable in the case of expenditures, under a State plan approved under title I, IV, X, or XIV of the Social Security Act \[subchapter I, IV, X, or XIV of this chapter\], as the case may be, made after August 31, 1962. The amendments made by section 101(b) \[amending this section and sections 603, 608, 609, 1203, and 1353 of this title\] shall be applicable in the case of expenditures, under a State plan approved under title I, IV, X, or XIV of the Social Security Act, as the case may be, made after June 30, 1963.”
 
@@ -228,7 +228,7 @@ Section 102 of act Aug. 10, 1939, provided that the amendment made by that secti
 
 #### Transfer of Functions
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department ofHealth, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 “Fiscal Service” substituted for “Division of Disbursement” in subsec. (b)(3) on authority of section 1(a)(1) of Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees, which consolidated such division into Fiscal Service of Treasury Department. See section 306 of Title 31, Money and Finance.
 

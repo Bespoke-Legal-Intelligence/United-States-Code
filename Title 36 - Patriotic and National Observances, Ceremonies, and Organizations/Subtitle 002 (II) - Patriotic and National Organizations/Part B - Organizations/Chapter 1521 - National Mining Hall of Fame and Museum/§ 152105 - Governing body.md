@@ -26,5 +26,7 @@ Historical and Revision Notes
 
 36:4106.
 
+&nbsp;
+
 The words “and in conformity with the laws of the State or States in which it is incorporated” in 36:4105 and “and in conformity with the laws of the State or States wherein it is incorporated” in 36:4106 are omitted as unnecessary.
 

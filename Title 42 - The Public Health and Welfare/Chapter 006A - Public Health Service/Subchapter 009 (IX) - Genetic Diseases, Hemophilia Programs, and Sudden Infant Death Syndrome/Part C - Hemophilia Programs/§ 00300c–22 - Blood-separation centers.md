@@ -28,7 +28,7 @@ For the purpose of making payments under grants and contracts under subsections 
 
 #### Codification
 
-In subsec. (d), “section 3324(a) and (b) of title 31” substituted for reference to section 3648 of the Revised Statutes (31 U.S.C. 529) on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (d), “section 3324(a) and (b) of title 31” substituted for reference to section 3648 of the RevisedStatutes (31 U.S.C. 529) on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
@@ -160,7 +160,7 @@ Definitions.—For purposes of this paragraph:
 
 &emsp;“(3)
 
-Timing of payment.—The Secretary may not make a payment on a petition under this title before the expiration of the 120-day period beginning on the date of the enactment of this Act \[Nov. 12, 1998\] or after the expiration of the 5-year period beginning on the date of the enactment of this Act.
+Timing of payment.—The Secretary may not make a payment on a petition under this title before the expiration of the 120-day period beginning on thedate of the enactment of this Act \[Nov. 12, 1998\] or after the expiration of the 5-year period beginning on the date of the enactment of this Act.
 
 “(d)
 

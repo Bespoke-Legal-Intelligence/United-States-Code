@@ -28,7 +28,7 @@ For purposes of this chapter:
 
 &emsp;(9) The term “Secretary” means the Secretary of the Navy.
 
-&emsp;(10) The term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or any territory or possession of the United States.
+&emsp;(10) The term “State” means a State of the United States, the District of Columbia, theCommonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or any territory or possession of the United States.
 
 &emsp;(11) The term “vessel” includes every description of watercraft or other artificial contrivance used, or capable of being used, as a means of transportation on water.
 

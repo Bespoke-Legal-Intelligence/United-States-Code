@@ -24,7 +24,7 @@ For the purposes of this subchapter, the term—
 
 &emsp;&emsp;(G) “Klamath River Fisheries, account number 5628000001”;
 
-&emsp;(2) “Hoopa Indian blood” means that degree of ancestry derived from an Indian of theHunstang, Hupa, Miskut, Redwood, Saiaz, Sermalton, Tish-Tang-Atan, South Fork, or Grouse Creek Bands of Indians;
+&emsp;(2) “Hoopa Indian blood” means that degree of ancestry derived from an Indian of the Hunstang, Hupa, Miskut, Redwood, Saiaz, Sermalton, Tish-Tang-Atan, South Fork, or Grouse Creek Bands of Indians;
 
 &emsp;(3) “Hoopa Valley Reservation” means the reservation described in section 1300i–1(b) of this title;
 

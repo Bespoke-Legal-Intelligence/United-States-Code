@@ -1,6 +1,6 @@
 ### §7314. Overhaul of naval vessels: competition between public and private shipyards
 
-The Secretary of the Navy should ensure, in any case in which the Secretary awards a project for repair, alteration, overhaul, or conversion of a naval vessel following competition between public and private shipyards, that each of the following criteria is met:
+The Secretary of the Navy should ensure, in any case in which the Secretary awards aproject for repair, alteration, overhaul, or conversion of a naval vessel following competition between public and private shipyards, that each of the following criteria is met:
 
 &emsp;(1) The bid of any public shipyard for the award includes—
 

@@ -10,7 +10,7 @@ Subject to the provisions of chapter 15 of title 44 and regulations prescribed u
 
 #### (c) Exemption from liability for any acts taken in good faith in conformity with rules, etc.
 
-No provision of this subchapter imposing any liability shall apply to any act done or omittedin good faith in conformity with any rule, regulation, or order of the Commission, notwithstanding that such rule, regulation, or order may, after such act or omission, be amended or rescinded or be determined by judicial or other authority to be invalid for any reason.
+No provision of this subchapter imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule, regulation, or order of the Commission, notwithstanding that such rule, regulation, or order may, after such act or omission, be amended or rescinded or be determined by judicial or other authority to be invalid for any reason.
 
 (May 27, 1933, ch. 38, title III, §319, as added Aug. 3, 1939, ch. 411, 53 Stat. 1173; Pub. L. 105–353, title III, §301(e)(4), Nov. 3, 1998, 112 Stat. 3237.)
 

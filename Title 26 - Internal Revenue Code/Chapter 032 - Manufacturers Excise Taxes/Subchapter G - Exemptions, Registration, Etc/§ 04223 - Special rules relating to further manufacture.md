@@ -6,7 +6,7 @@ For purposes of this chapter, a manufacturer or producer to whom an article is s
 
 #### (b) Computation of tax
 
-If the manufacturer or producer referred to in subsection (a) incurs liability for tax under this chapter on his sale or use of an article referredto in subsection (a) and the tax is based on the price for which the article is sold, the article shall be treated as having been sold by him—
+If the manufacturer or producer referred to in subsection (a) incurs liability for tax under this chapter on his sale or use of an article referred to in subsection (a) and the tax is based on the price for which the article is sold, the article shall be treated as having been sold by him—
 
 &emsp;(1) at the price for which the article was sold by him (or, where the tax is on his use of the article, at the price referred to in section 4218(c)); or
 
@@ -34,7 +34,7 @@ A prior section 4223, act Aug. 16, 1954, ch. 736, 68A Stat. 495, related to exem
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
+Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions ofthe Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
 
 #### Effective Date of 1960 Amendment
 

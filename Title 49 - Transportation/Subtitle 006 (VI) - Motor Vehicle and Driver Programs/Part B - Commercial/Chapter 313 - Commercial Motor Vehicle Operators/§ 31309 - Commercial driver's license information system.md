@@ -146,5 +146,5 @@ Rulemaking.—After completion of the pilot program, the Secretary shall initiat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 31106, 31107, 31311 of this title.
+This section is referred to in sections 30304, 31106, 31107, 31311 of this title.
 

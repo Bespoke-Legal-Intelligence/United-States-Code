@@ -22,7 +22,7 @@
 
 (2)(A) A standard prescribed or established under section 6313(a) of this title shall, beginning on the effective date of such standard, supersede any State or local regulation concerning the energy efficiency or energy use of a product for which a standard is prescribed or established pursuant to such section.
 
-(B) Notwithstanding subparagraph (A), a standard prescribed or established under section 6313(a) of this title shall not supersede a standard for such a product contained in a State or local building code for new construction if—
+(B) Notwithstanding subparagraph (A), a standard prescribed or established under section6313(a) of this title shall not supersede a standard for such a product contained in a State or local building code for new construction if—
 
 &emsp;(i) the standard in the building code does not require that the energy efficiency of such product exceed the applicable minimum energy efficiency requirement in amended ASHRAE/IES Standard 90.1; and
 

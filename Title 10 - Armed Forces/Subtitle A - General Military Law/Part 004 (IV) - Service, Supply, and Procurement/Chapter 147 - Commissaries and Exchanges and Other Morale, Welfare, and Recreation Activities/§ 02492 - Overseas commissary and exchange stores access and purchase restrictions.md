@@ -12,15 +12,15 @@ General Authority.—(1) The Secretary of Defense may establish restrictions on 
 
 (b)
 
-Controlled Item Lists.—For each location outside the United States that is served by the commissary system or the exchange system, the Secretary of Defense may maintain a list of controlled merchandise items, except that, after the date of the enactment of this section, the Secretary may not change the list to add a merchandise item unless, before making the change, the Secretary submits to Congress a notice of the proposed addition and the reasons for the addition of the item.
+Controlled Item Lists.—For each location outside the United States that is served by the commissary system or the exchange system, the Secretary of Defense may maintain a list of controlled merchandise items, except that, after October 17, 1998, the Secretary may not change the list to add a merchandise item unless, before making the change, the Secretary submits to Congress a notice of the proposed addition and the reasons for the addition of the item.
 
 (c)
 
 Annual Report.—The Secretary of Defense shall submit to Congress an annual report describing the host nation laws and the treaty obligations of the United States, and the conditions within host nations, that necessitate the use of quantity or other restrictions on purchases in commissary and exchange stores located outside the United States.
 
-(Added Pub. L. 105–261, div. A, title III, §365(a), Oct. 17, 1998, 112 Stat. 1986.)
+(Added Pub. L. 105–261, div. A, title III, §365(a), Oct. 17, 1998, 112 Stat. 1986; amended Pub. L. 106–65, div. A, title X, §1066(a)(22), Oct. 5, 1999, 113 Stat. 771.)
 
-#### References in Text
+#### Amendments
 
-The date of the enactment of this section, referred to in subsec. (b), is the date of enactment of Pub. L. 105–261, which was approved Oct. 17, 1998.
+1999—Subsec. (b). Pub. L. 106–65 substituted “October 17, 1998” for “the date of the enactment of this section”.
 

@@ -16,7 +16,7 @@ For purposes of this section, the inflation percentage applicable to a fiscal ye
 
 &emsp;(2) the average of such index (as so defined) for the 12-month period ending on August 31, 1996.
 
-(Pub. L. 87–128, title III, §313, Aug. 8, 1961, 75 Stat. 310; Pub. L. 90–488, §9, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, §122, Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–334, title I, §116, Aug. 4, 1978, 92 Stat. 426; Pub. L. 98–258, title VI, §604(a), Apr. 10, 1984, 98 Stat. 139; Pub. L. 105–277, div. A, title I, §101(a) \[title VIII, §806(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39.)
+(Pub. L. 87–128, title III, §313, Aug. 8, 1961, 75 Stat. 310; Pub. L. 90–488, §9, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, §122, Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–334, title I, §116, Aug. 4, 1978, 92 Stat. 426; Pub. L. 98–258, title VI, §604(a), Apr. 10, 1984, 98 Stat. 139; Pub. L. 105–277, div. A, §101(a) \[title VIII, §806(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39.)
 
 #### Amendments
 

@@ -6,5 +6,5 @@ Section 1547, acts June 5, 1950, ch. 220, title II, §202, 64 Stat. 202; Oct. 10
 
 #### Additional Appropriations
 
-Section 12 of act Apr. 19, 1949, ch. 77, 63 Stat. 55, as amended by act Feb. 14, 1950, ch. 16, §2, 64 Stat. 5, made available additional appropriations for assistance in China.
+Section 12 of act Apr. 19, 1949, ch. 77, 63 Stat. 55, as amended by act Feb. 14, 1950, ch. 16, §2, 64 Stat. 5, madeavailable additional appropriations for assistance in China.
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary of the Interior; fair market value; State-owned land; Federal property located within park
 
-Within the boundaries of the park as established in section 410ff of this title, the Secretaryof the Interior (hereinafter referred to as the “Secretary”) is authorized to acquire lands, waters, or interests therein (including but not limited to scenic easements) by donation, purchase with donated or appropriated funds, transfer from any Federal agency, exchange, or otherwise. Unless the property is wholly or partially donated, the Secretary shall pay to the owner the fair market value of the property on the date of its acquisition, less the fair market value on that date of any right retained by the owner. Any lands, waters, or interests therein owned by the State of California or any political subdivision thereof shall not be acquired. Notwithstanding any other provision of law, Federal property located within the boundaries of the park shall with the concurrence of the head of the agency having custody thereof, be transferred to the administrative jurisdiction of the Secretary for the purposes of the park: <i>Provided</i>, That the Secretary shall permit the use of federally owned park lands and waters which (i) have been transferred from another Federal agency pursuant to this section or which (ii) were the subject of a lease or permit issued by a Federal agency as of March 5, 1980, for essential national security missions and for navigational aids, subject to such terms and conditions as the Secretary deems necessary to protect park resources.
+Within the boundaries of the park as established in section 410ff of this title, the Secretary of the Interior (hereinafter referred to as the “Secretary”) is authorized to acquire lands, waters, or interests therein (including but not limited to scenic easements) by donation, purchase with donated or appropriated funds, transfer from any Federal agency, exchange, or otherwise. Unless the property is wholly or partially donated, the Secretary shall pay to the owner the fair market value of the property on the date of its acquisition, less the fair market value on that date of any right retained by the owner. Any lands, waters, or interests therein owned by the State of California or any political subdivision thereof shall not be acquired. Notwithstanding any other provision of law, Federal property located within the boundaries of the park shall with the concurrence of the head of the agency having custody thereof, be transferred to the administrative jurisdiction of the Secretary for the purposes of the park: <i>Provided</i>, That the Secretary shall permit the use of federally owned park lands and waters which (i) have been transferred from another Federal agency pursuant to this section or which (ii) were the subject of a lease or permit issued by a Federal agency as of March 5, 1980, for essential national security missions and for navigational aids, subject to such terms and conditions as the Secretary deems necessary to protect park resources.
 
 #### (b) Lands owned, or under option to, National Park Foundation, The Nature Conservancy, or similar organizations
 
@@ -10,7 +10,7 @@ Notwithstanding the acquisition authority contained in subsection (a) of this se
 
 #### (c) Privately owned lands on Santa Rosa Island
 
-With respect to the privately owned lands on Santa Rosa Island, the Secretary shall acquire such lands as expeditiously as possible after March 5, 1980. The acquisition of these lands shall take priority over the acquisition of other privately owned lands within the park.
+With respect to the privately owned lands on Santa Rosa Island, the Secretary shall acquire such lands as expeditiously as possible afterMarch 5, 1980. The acquisition of these lands shall take priority over the acquisition of other privately owned lands within the park.
 
 #### (d) Retention of rights by owners; compatible use under lease
 
@@ -28,7 +28,7 @@ With respect to the privately owned lands on Santa Rosa Island, the Secretary sh
 
 (3) In the absence of a negotiated settlement, or an action by the owner, within 1 year after November 12, 1996, the Secretary shall initiate a proceeding, seeking in a court of competent jurisdiction a determination of just compensation with respect to the taking of such property.
 
-(4) The Secretary shall not allow any unauthorized use of the lands to be acquired underthis subsection, except that the Secretary shall permit the orderly termination of all current activities and the removal of any equipment, facilities, or personal property.
+(4) The Secretary shall not allow any unauthorized use of the lands to be acquired under this subsection, except that the Secretary shall permit the orderly termination of all current activities and the removal of any equipment, facilities, or personal property.
 
 (Pub. L. 96–199, title II, §202, Mar. 5, 1980, 94 Stat. 74; Pub. L. 104–333, div. I, title VIII, §817, Nov. 12, 1996, 110 Stat. 4200.)
 

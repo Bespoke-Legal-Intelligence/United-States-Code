@@ -1,14 +1,14 @@
 ### §616. Administration
 
-The programs under this part and part D of this subchapter shall be administered by an Assistant Secretary for Family Support within the Department of Health and Human Services, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be in addition to any other Assistant Secretary of Health and Human Services provided for by law, and the Secretary shall reduce the Federal workforce within the Department of Health and Human Services by an amount equal to the sum of 75 percent of the full-time equivalent positions at such Department that relate to any direct spending program, or any program funded through discretionary spending, that has been converted into a block grant program under the Personal Responsibility and Work Opportunity Act of 1996 and the amendments made by such Act, and by an amount equal to 75 percent of that portion of the total full-time equivalent departmental management positions at such Department that bears the same relationship to the amount appropriated for any direct spending program, or any program funded through discretionary spending, that has been converted into a block grant program under the Personal Responsibility and Work Opportunity Act of 1996 and the amendments made by such Act, as such amount relates to the total amount appropriated for use by such Department, and, notwithstanding any other provision of law, the Secretary shall take such actions as may be necessary, including reductions in force actions, consistent with sections 3502 and 3595 of title 5, to reduce the full-time equivalent positions within the Department of Health and Human Services by 245 full-time equivalent positions related to the program converted into a block grant under the amendments made by section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, and by 60 full-time equivalent managerial positions in the Department.
+The programs under this part and part D of this subchapter shall be administered by an Assistant Secretary for Family Support within the Department of Health and Human Services, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be in addition to any other Assistant Secretary of Health and Human Services provided for by law, and the Secretary shall reduce the Federal workforce within the Department of Health and Human Services by an amount equal to the sum of 75 percent of the full-time equivalent positions at such Department that relate to any direct spending program, or any program funded through discretionary spending, that has been converted into a block grant program under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 and the amendments made by such Act, and by an amount equal to 75 percent of that portion of the total full-time equivalent departmental management positions at such Department that bears the same relationship to the amount appropriated for any direct spending program, or any program funded through discretionary spending, that has been converted into a block grant program under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 and the amendments made by such Act, as such amount relates to the total amount appropriated for use by such Department, and, notwithstanding any other provision of law, theSecretary shall take such actions as may be necessary, including reductions in force actions, consistent with sections 3502 and 3595 of title 5, to reduce the full-time equivalent positions within the Department of Health and Human Services by 245 full-time equivalent positions related to the program converted into a block grant under the amendments made by section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, and by 60 full-time equivalent managerial positions in the Department.
 
-(Aug. 14, 1935, ch. 531, title IV, §416, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2158; amended Pub. L. 105–33, title V, §5514(c), (d), Aug. 5, 1997, 111 Stat. 620.)
+(Aug. 14, 1935, ch. 531, title IV, §416, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2158; amended Pub. L. 105–33, title V, §5514(c), (d), Aug. 5, 1997, 111 Stat. 620; Pub. L. 106–169, title IV, §401(d), Dec. 14, 1999, 113 Stat. 1858.)
 
 #### References in Text
 
 Part D of this subchapter, referred to in text, is classified to section 651 et seq. of this title.
 
-The Personal Responsibility and Work Opportunity Act of 1996, referred to in text, probably means the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1305 of this title and Tables.
+The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in text, is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1305 of this title and Tables.
 
 Section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in text, is section 103 of Pub. L. 104–193, which enacted this part, amended sections 602, 603, and 1308 of this title, and repealed provisions formerly set out as this part. For complete classification of section 103 to the Code, see Tables.
 
@@ -18,9 +18,15 @@ A prior section 616, act Aug. 14, 1935, ch. 531, title IV, §416, as added Dec. 
 
 #### Amendments
 
+1999—Pub. L. 106–169 substituted “Opportunity Reconciliation Act” for “Opportunity Act” the first two places appearing.
+
 1997—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
 Pub. L. 105–33, §5514(d), substituted “amendments made by section 103 of the Personal Responsibility and Work Opportunity Reconciliation” for “amendment made by section 2103 of the Personal Responsibility and Work Opportunity”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–169 effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 401(q) of Pub. L. 106–169, set out as a note under section 602 of this title.
 
 #### Effective Date of 1997 Amendment
 

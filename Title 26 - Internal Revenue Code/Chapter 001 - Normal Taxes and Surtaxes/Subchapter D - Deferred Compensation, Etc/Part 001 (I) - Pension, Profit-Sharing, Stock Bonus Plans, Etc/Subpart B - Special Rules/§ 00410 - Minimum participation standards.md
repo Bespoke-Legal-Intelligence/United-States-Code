@@ -14,9 +14,9 @@
 
 #### (B) Special rules for certain plans
 
-&emsp;&emsp;&emsp;(i) In the case of any plan which provides that after not more than 2 years of service each participant has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable (within the meaning of section 411) at the time such benefit accrues, clause (ii) of subparagraph (A) shall be applied by substituting “2 years of service” for “1 year of service”.
+&emsp;&emsp;&emsp;(i) In the case of any plan which provides that after not more than 2 years of service each participant has a right to 100 percent of his accrued benefit under the plan whichis nonforfeitable (within the meaning of section 411) at the time such benefit accrues, clause (ii) of subparagraph (A) shall be applied by substituting “2 years of service” for “1 year of service”.
 
-&emsp;&emsp;&emsp;(ii) In the case of any plan maintained exclusively for employees of an educational institution (as defined in section 170(b)(1)(A)(ii) by an employer which is exempt from tax under section 501(a) which provides that each participant having at least 1 year of service has a right to 100 percent of his accrued benefit under theplan which is nonforfeitable (within the meaning of section 411) at the time such benefit accrues, clause (i) of subparagraph (A) shall be applied by substituting “26” for “21”. This clause shall not apply to any plan to which clause (i) applies.
+&emsp;&emsp;&emsp;(ii) In the case of any plan maintained exclusively for employees of an educational institution (as defined in section 170(b)(1)(A)(ii) by an employer which is exempt from tax under section 501(a) which provides that each participant having at least 1 year of service has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable (within the meaning of section 411) at the time such benefit accrues, clause (i) of subparagraph (A) shall be applied by substituting “26” for “21”. This clause shall not apply to any plan to which clause (i) applies.
 
 #### (2) Maximum age conditions
 
@@ -182,7 +182,7 @@
 
 &emsp;&emsp;&emsp;(i) except as provided in clause (ii), paragraph (4)(A) shall not apply, or
 
-&emsp;&emsp;&emsp;(ii) if the employer elects, paragraph (4)(A) shall be applied by using the lowest age and service requirements of all qualified plans maintained by the employer.
+&emsp;&emsp;&emsp;(ii) if the employer elects, paragraph (4)(A) shall be applied by using the lowestage and service requirements of all qualified plans maintained by the employer.
 
 #### (E) Qualified plan
 
@@ -192,7 +192,7 @@
 
 &emsp;For purposes of this subsection, there shall be excluded from consideration—
 
-&emsp;&emsp;(A) employees who are included in a unit of employees covered by an agreement whichthe Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that retirement benefits were the subject of good faith bargaining between such employee representatives and such employer or employers,
+&emsp;&emsp;(A) employees who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that retirement benefits were the subject of good faith bargaining between such employee representatives and such employer or employers,
 
 &emsp;&emsp;(B) in the case of a trust established or maintained pursuant to an agreement which the Secretary of Labor finds to be a collective bargaining agreement between air pilots represented in accordance with title II of the Railway Labor Act and one or more employers, all employees not covered by such agreement, and
 
@@ -524,7 +524,7 @@ Year Delay for Certain Provisions.—Subparagraphs (B) and (C) of section 404(a)
 
 Contributions to H.R. 10
 
-Plans.—Notwithstanding subsections (b) and (c)(2), in the case of a plan in existence on January 1, 1974, the amendment made by section 1013(c)(2) of this Act \[amending section 404(a)(6) of this title\] shall apply, with respect to a plan which provides contributions or benefits for employees some or all of whom are employees within the meaning of section 401(c)(1) of the Internal Revenue Code of 1986, for plan years beginning after December 31, 1974, but only if the employer (within the meaning of section 401(c)(4) of such Code) elects in such manner and at such time as the Secretary of the Treasury or his delegate shall by regulations prescribe, to have such amendment so apply. Any election made under this subsection, once made, shall be irrevocable.”
+Plans.—Notwithstanding subsections (b) and (c)(2), in the case of a plan in existence on January 1, 1974, the amendment made by section 1013(c)(2) of this Act \[amending section 404(a)(6) of this title\] shall apply, with respect to a plan whichprovides contributions or benefits for employees some or all of whom are employees within the meaning of section 401(c)(1) of the Internal Revenue Code of 1986, for plan years beginning after December 31, 1974, but only if the employer (within the meaning of section 401(c)(4) of such Code) elects in such manner and at such time as the Secretary of the Treasury or his delegate shall by regulations prescribe, to have such amendment so apply. Any election made under this subsection, once made, shall be irrevocable.”
 
 #### Regulations
 

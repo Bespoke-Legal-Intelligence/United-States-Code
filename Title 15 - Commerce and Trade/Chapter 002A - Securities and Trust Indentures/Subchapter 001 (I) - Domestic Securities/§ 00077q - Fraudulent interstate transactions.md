@@ -2,7 +2,7 @@
 
 #### (a) Use of interstate commerce for purpose of fraud or deceit
 
-It shall be unlawful for any person in the offer or sale of any securities by the use of any means or instruments of transportation or communication in interstate commerce or by the use of the mails, directly or indirectly—
+It shall be unlawful for any person in the offer or sale of any securities by the use of any meansor instruments of transportation or communication in interstate commerce or by the use of the mails, directly or indirectly—
 
 &emsp;(1) to employ any device, scheme, or artifice to defraud, or
 

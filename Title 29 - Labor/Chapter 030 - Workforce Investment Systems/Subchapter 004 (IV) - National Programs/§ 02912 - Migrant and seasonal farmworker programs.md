@@ -40,7 +40,7 @@ To be eligible to receive a grant or enter into a contract under this section, a
 
 #### (d) Authorized activities
 
-Funds made available under this section and section 2852(b)(1)(A)(iii) of this title shall be used to carry out workforce investment activities (including youth activities) and provide related assistance for eligible migrant and seasonal farmworkers, which may include employment, training, educational assistance, literacy assistance, an English language program, worker safety training, housing, supportive services, dropout prevention activities, followup services for those individuals placed in employment, self-employment and related business enterprise development education as needed by eligible migrant and seasonal farmworkers and identified pursuant to the plan required by subsection (c) of this section, and technical assistance relating to capacity enhancement in such areas as management information technology.
+Funds made available under this section and section 2852(b)(1)(A)(iii) of this title shall beused to carry out workforce investment activities (including youth activities) and provide related assistance for eligible migrant and seasonal farmworkers, which may include employment, training, educational assistance, literacy assistance, an English language program, worker safety training, housing, supportive services, dropout prevention activities, followup services for those individuals placed in employment, self-employment and related business enterprise development education as needed by eligible migrant and seasonal farmworkers and identified pursuant to the plan required by subsection (c) of this section, and technical assistance relating to capacity enhancement in such areas as management information technology.
 
 #### (e) Consultation with Governors and local boards
 
@@ -48,7 +48,7 @@ In making grants and entering into contracts under this section, the Secretary s
 
 #### (f) Regulations
 
-The Secretary shall consult with eligible migrant and seasonal farmworkers groups andStates in establishing regulations to carry out this section, including performance measures for eligible entities that take into account the economic circumstances and demographics of eligible migrant and seasonal farmworkers.
+The Secretary shall consult with eligible migrant and seasonal farmworkers groups and States in establishing regulations to carry out this section, including performance measures for eligible entities that take into account the economic circumstances and demographics of eligible migrant and seasonal farmworkers.
 
 #### (g) Compliance with single audit requirements; related requirement
 

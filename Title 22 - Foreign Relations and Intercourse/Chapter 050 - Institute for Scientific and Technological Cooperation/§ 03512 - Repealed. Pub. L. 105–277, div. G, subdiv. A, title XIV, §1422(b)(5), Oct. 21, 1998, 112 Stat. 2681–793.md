@@ -4,5 +4,5 @@ Section, Pub. L. 96–53, title IV, §413, Aug. 14, 1979, 93 Stat. 377, related 
 
 #### Effective Date of Repeal
 
-Repeal effective on earlier of Apr. 1, 1999, or date of abolition of the United States International Development Cooperation Agency pursuant to reorganization plan described in section 6601 of this title, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of this title.
+Repeal effective Apr. 1, 1999, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of this title.
 

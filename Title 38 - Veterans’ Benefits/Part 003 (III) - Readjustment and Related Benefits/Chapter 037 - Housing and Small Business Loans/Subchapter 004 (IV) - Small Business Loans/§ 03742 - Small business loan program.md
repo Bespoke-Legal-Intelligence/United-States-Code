@@ -12,7 +12,7 @@
 
 (b) The availability of financial assistance under subsection (a) of this section is subject to the following limitations:
 
-&emsp;(1) The Secretary may not make a direct loan under this section unless the veterans’ small business concern applying for the loan shows to the satisfaction of the Secretary that the concern is unable to obtain a loan guaranteed by the Department under this section or made or guaranteed by the Small Business Administration.
+&emsp;(1) The Secretary may not make a direct loan under this section unless the veterans’small business concern applying for the loan shows to the satisfaction of the Secretary that the concern is unable to obtain a loan guaranteed by the Department under this section or made or guaranteed by the Small Business Administration.
 
 &emsp;(2) The Secretary may not guarantee a loan under this section if the loan bears a rate of interest in excess of the maximum rate of interest prescribed under section 3745 of this title.
 

@@ -10,7 +10,7 @@ Except as otherwise provided in this subchapter, no assessment of a deficiency a
 
 #### (b) Premature action may be enjoined
 
-Notwithstanding section 7421(a), any action which violates subsection (a) may be enjoined in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction to enjoin any action or proceeding under this subsection unless a timely petition for a readjustment of the partnership items for the taxable year has been filed and then only in respect of the adjustments that are the subject of such petition.
+Notwithstanding section 7421(a), any action which violates subsection (a) may be enjoined in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction to enjoin any action or proceeding under this subsection unless a timely petition for a readjustment ofthe partnership items for the taxable year has been filed and then only in respect of the adjustments that are the subject of such petition.
 
 #### (c) Limit where no proceeding begun
 

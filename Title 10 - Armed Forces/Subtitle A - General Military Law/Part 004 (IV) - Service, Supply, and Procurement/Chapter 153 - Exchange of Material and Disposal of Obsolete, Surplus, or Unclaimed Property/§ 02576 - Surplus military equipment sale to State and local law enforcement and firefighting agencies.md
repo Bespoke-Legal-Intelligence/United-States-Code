@@ -20,7 +20,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Sale of Aircraft for Wildfire Suppression Purposes
 
-Pub. L. 104–307, Oct. 14, 1996, 110 Stat. 3811, provided that:
+Pub. L. 104–307, Oct. 14, 1996, 110 Stat. 3811, as amended by Pub. L. 106–65, div. A, title X, §1067(23), Oct. 5, 1999, 113 Stat. 775, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -70,7 +70,7 @@ Additional Terms and Conditions.—The Secretary of Defense may require such oth
 
 “(f)
 
-Report.—Not later than March 31, 2000, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the Secretary's exercise of authority under this section. The report shall set forth—
+Report.—Not later than March 31, 2000, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the Secretary's exercise of authority under this section. The report shall set forth—
 
 &emsp;“(1) the number and type of aircraft sold under the authority, and the terms and conditions under which the aircraft were sold;
 

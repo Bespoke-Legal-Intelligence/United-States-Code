@@ -56,7 +56,7 @@ In the case of any Indian who—
 
 #### Change of Name
 
-“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (d)(1) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining.
+“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (d)(1) pursuant to section10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining.
 
 #### Nuclear Resource Development Health Hazards; Study and Report
 

@@ -26,7 +26,7 @@ It shall be unlawful for a cable operator, a satellite cable programming vendor 
 
 &emsp;&emsp;&emsp;(ii) establishing different prices, terms, and conditions to take into account actual and reasonable differences in the cost of creation, sale, delivery, or transmission of satellite cable programming or satellite broadcast programming;
 
-&emsp;&emsp;&emsp;(iii) establishing different prices, terms, and conditions which take into account economies of scale, cost savings, or other direct and legitimate economic benefits reasonably attributable to the number of subscribers served by the distributor; or
+&emsp;&emsp;&emsp;(iii) establishing different prices, terms, and conditions which take into account economies of scale, cost savings, or other direct and legitimate economic benefitsreasonably attributable to the number of subscribers served by the distributor; or
 
 &emsp;&emsp;&emsp;(iv) entering into an exclusive contract that is permitted under subparagraph (D);
 
@@ -46,7 +46,7 @@ It shall be unlawful for a cable operator, a satellite cable programming vendor 
 
 #### (4) Public interest determinations on exclusive contracts
 
-&emsp;In determining whether an exclusive contract is in the public interest for purposes ofparagraph (2)(D), the Commission shall consider each of the following factors with respect to the effect of such contract on the distribution of video programming in areas that are served by a cable operator:
+&emsp;In determining whether an exclusive contract is in the public interest for purposes of paragraph (2)(D), the Commission shall consider each of the following factors with respect to the effect of such contract on the distribution of video programming in areas that are served by a cable operator:
 
 &emsp;&emsp;(A) the effect of such exclusive contract on the development of competition in local and national multichannel video programming distribution markets;
 
@@ -94,7 +94,7 @@ The Commission shall, beginning not later than 18 months after promulgation of t
 
 #### (1) In general
 
-&emsp;Nothing in this section shall affect any contract that grants exclusive distribution rights to any person with respect to satellite cable programming and that was entered into on or before June 1, 1990, except that the provisions of subsection (c)(2)(C) of this section shall apply for distribution to persons in areas not served by a cable operator.
+&emsp;Nothing in this section shall affect any contract that grants exclusive distribution rightsto any person with respect to satellite cable programming and that was entered into on or before June 1, 1990, except that the provisions of subsection (c)(2)(C) of this section shall apply for distribution to persons in areas not served by a cable operator.
 
 #### (2) Limitation on renewals
 

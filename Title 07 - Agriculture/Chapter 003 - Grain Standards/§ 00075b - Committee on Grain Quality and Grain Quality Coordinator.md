@@ -4,7 +4,7 @@
 
 #### (1) Committee
 
-&emsp;The Secretary of Agriculture (hereafter referred to in this title <sup>1</sup> as the “Secretary”) shall establish, within the Department of Agriculture, a Committee on Grain Quality (hereafter referred to in this section as the “Committee”).
+&emsp;The Secretary of Agriculture (hereafter referred to in this title <sup>1</sup> as the “Secretary”)shall establish, within the Department of Agriculture, a Committee on Grain Quality (hereafter referred to in this section as the “Committee”).
 
 #### (2) Coordinator
 
@@ -16,7 +16,7 @@ The Coordinator shall be responsible for—
 
 &emsp;(1) assembling and evaluating, in a systematic manner, concerns and problems with the quality of United States grain, expressed by foreign and domestic buyers and end-users;
 
-&emsp;(2) developing and implementing a coordinated effort to inform and educate foreignbuyers concerning the proper specifications of grain purchase contracts to obtain the quality of grain they desire;
+&emsp;(2) developing and implementing a coordinated effort to inform and educate foreign buyers concerning the proper specifications of grain purchase contracts to obtain the quality of grain they desire;
 
 &emsp;(3) reviewing the programs and activities of the Department of Agriculture with respect to United States grain to determine whether the activities are consistent with the provisions of this title <sup>1</sup> (and other provisions of law) as such provisions relate to grain quality and grain quality competitiveness;
 

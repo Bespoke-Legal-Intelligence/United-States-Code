@@ -34,7 +34,7 @@ The Secretary may reimburse applicants for positions in the Corps (including ind
 
 #### (d) Monthly pay adjustments of members directly engaged in delivery of health services in health professional shortage area; “monthly pay” defined; monthly pay adjustment of member with service obligation incurred under Scholarship Program or Loan Repayment Program; personnel system applicable
 
-(1) The Secretary may, under regulations promulgated by the Secretary, adjust the monthlypay of each member of the Corps (other than a member described in subsection (a)(1)(C) of this section) who is directly engaged in the delivery of health services in a health professional shortage area as follows:
+(1) The Secretary may, under regulations promulgated by the Secretary, adjust the monthly pay of each member of the Corps (other than amember described in subsection (a)(1)(C) of this section) who is directly engaged in the delivery of health services in a health professional shortage area as follows:
 
 &emsp;(A) During the first 36 months in which such a member is so engaged in the delivery of health services, his monthly pay may be increased by an amount which when added to the member's monthly pay and allowances will provide a monthly income competitive with the average monthly income from a practice of an individual who is a member of the profession of the Corps member, who has equivalent training, and who has been in practice for a period equivalent to the period during which the Corps member has been in practice.
 

@@ -18,7 +18,7 @@
 
 (f) Officers of the Naval Reserve and the Marine Corps Reserve who were transferred to the Retired Reserve from an honorary retired list under section 213(b) of the Armed Forces Reserve Act of 1952 (66 Stat. 485), or are transferred to the Retired Reserve under section 6327 of this title, may be retired under this section, notwithstanding their retired status, if they are otherwise eligible.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 394; Pub. L. 85–861, §1(142), Sept. 2, 1958, 72 Stat. 1509; Pub. L. 88–132, §5(h)(4), Oct. 2, 1963, 77 Stat. 214; Pub. L. 96–342, title VIII, §813(d)(2), Sept. 8, 1980, 94 Stat. 1104; Pub. L. 96–513, title V, §§503(47)(A), 513(17), Dec. 12, 1980, 94 Stat. 2914, 2932; Pub. L. 99–348, title II, §203(b)(2), July 1, 1986, 100 Stat. 696; Pub. L. 101–510, div. A, title V, §523(b), Nov. 5, 1990, 104 Stat. 1562; Pub. L. 103–160, div. A, title V, §561(c), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §561(e), Oct. 17, 1998, 112 Stat. 2025.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 394; Pub. L. 85–861, §1(142), Sept. 2, 1958, 72 Stat. 1509; Pub. L.88–132, §5(h)(4), Oct. 2, 1963, 77 Stat. 214; Pub. L. 96–342, title VIII, §813(d)(2), Sept. 8, 1980, 94 Stat. 1104; Pub. L. 96–513, title V, §§503(47)(A), 513(17), Dec. 12, 1980, 94 Stat. 2914, 2932; Pub. L. 99–348, title II, §203(b)(2), July 1, 1986, 100 Stat. 696; Pub. L. 101–510, div. A, title V, §523(b), Nov. 5, 1990, 104 Stat. 1562; Pub. L. 103–160, div. A, title V, §561(c), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §561(e), Oct. 17, 1998, 112 Stat. 2025.)
 
 Historical and Revision Notes<br>1956
 
@@ -122,7 +122,7 @@ Subsecs. (c) to (f). Pub. L. 85–861 added subsecs. (c) to (e) and redesignated
 
 #### Effective Date of 1980 Amendment
 
-Amendment by section 503(47) of Pub. L. 96–513 effective Sept. 15, 1981, and amendment by section 513(17) of Pub. L. 96–513 effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+Amendment by section 503(47) of Pub. L. 96–513 effective Sept. 15, 1981, and amendment by section 513(17) ofPub. L. 96–513 effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
 #### Effective Date of 1963 Amendment
 

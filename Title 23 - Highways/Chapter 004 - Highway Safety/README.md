@@ -38,7 +38,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 49 sections 104, 105.
+This chapter is referred to in section 110 of this title; title 49 sections 104, 105.
 
 
 ---

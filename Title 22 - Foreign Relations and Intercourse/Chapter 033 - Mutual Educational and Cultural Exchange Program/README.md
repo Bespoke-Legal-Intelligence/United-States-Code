@@ -10,6 +10,11 @@
 | [2452a.](%C2%A7%2002452a%20-%20Exchange%20program%20with%20countries%20in%20transition%20from%20totalitarianism%20to%20democracy.md) | Exchange program with countries in transition from totalitarianism to democracy. |
 | (a) | Authorization of activities; grants or contracts for exchanges with foreign countries. |
 | (b) | Transfer of funds. |
+| [2452b.](%C2%A7%2002452b%20-%20International%20expositions.md) | International expositions. |
+| (a) | Limitation. |
+| (b) | Exceptions. |
+| (c) | Notification. |
+| (d) | Reports. |
 | [2453\.](%C2%A7%2002453%20-%20Agreements%20with%20foreign%20governments%20and%20international%20organizations.md) | Agreements with foreign governments and international organizations. |
 | (a) | Authorization. |
 | (b) | Creation or continuation of binational or multinational educational and cultural foundations and commissions. |
@@ -77,6 +82,7 @@ This chapter is referred to in sections 1461–1a, 1475d, 1475e, 1475h, 2075, 22
 - [&sect; 02451a - Repealed. Pub. L. 91&#8211;269, &sect;7, May 27, 1970, 84 Stat. 272](%C2%A7%2002451a%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93269%2C%20%C2%A77%2C%20May%2027%2C%201970%2C%2084%20Stat.%20272.md)
 - [&sect; 02452 - Authorization of activities](%C2%A7%2002452%20-%20Authorization%20of%20activities.md)
 - [&sect; 02452a - Exchange program with countries in transition from totalitarianism to democracy](%C2%A7%2002452a%20-%20Exchange%20program%20with%20countries%20in%20transition%20from%20totalitarianism%20to%20democracy.md)
+- [&sect; 02452b - International expositions](%C2%A7%2002452b%20-%20International%20expositions.md)
 - [&sect; 02453 - Agreements with foreign governments and international organizations](%C2%A7%2002453%20-%20Agreements%20with%20foreign%20governments%20and%20international%20organizations.md)
 - [&sect; 02454 - Administration](%C2%A7%2002454%20-%20Administration.md)
 - [&sect; 02455 - Appropriations](%C2%A7%2002455%20-%20Appropriations.md)

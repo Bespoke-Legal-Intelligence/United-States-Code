@@ -2,7 +2,7 @@
 
 (a)(1) A member of a uniformed service who—
 
-&emsp;(A) has completed at least twenty-one months of continuous active duty (other than for training) but not more than fourteen years of active duty;
+&emsp;(A) has completed at least 17 months of continuous active duty (other than for training) but not more than fourteen years of active duty;
 
 &emsp;(B) is qualified in a military skill designated as critical by the Secretary of Defense, or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as service in the Navy;
 
@@ -20,11 +20,11 @@
 
 &emsp;(A) The amount equal to the product of—
 
-&emsp;&emsp;(i) ten times the monthly rate of basic pay to which the member was entitled at the time of the discharge or release of the member; and
+&emsp;&emsp;(i) 15 times the monthly rate of basic pay to which the member was entitled at the time of the discharge or release of the member; and
 
 &emsp;&emsp;(ii) the number of years (or the monthly fractions thereof) of the term of reenlistment or extension of enlistment, not to exceed six.
 
-&emsp;(B) $45,000.
+&emsp;(B) $60,000.
 
 (3) Any portion of a term of reenlistment or extension of enlistment of a member that, when added to the total years of service of the member at the time of discharge or release, exceeds 16 years may not be used in computing a bonus under paragraph (2)(A).
 
@@ -48,9 +48,9 @@
 
 (f) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction, and by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-(g) No bonus shall be paid under this section with respect to any reenlistment, or voluntary extension of an active-duty enlistment, in the armed forces entered into after December 31, 1999.
+(g) No bonus shall be paid under this section with respect to any reenlistment, or voluntary extension of an active-duty enlistment, in the armed forces entered into after December 31, 2000.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 467; Pub. L. 89–132, §3, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 93–277, §2(1), May 10, 1974, 88 Stat. 119; Pub. L. 95–57, §1, June 29, 1977, 91 Stat. 253; Pub. L. 95–485, title VIII, §802(a)(1), (b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–342, title VIII, §804(a), Sept. 8, 1980, 94 Stat. 1092; Pub. L. 96–579, §3(f), Dec. 23, 1980, 94 Stat. 3364; Pub. L. 97–60, title I, §117(a), Oct. 14, 1981, 95 Stat. 996; Pub. L. 97–276, title I, §131, Oct. 2, 1982, 96 Stat. 1197; Pub. L. 97–377, title I, §101(c) \[title VII, §798\], Dec. 21, 1982, 96 Stat. 1833, 1865; Pub. L. 98–14, §1, Mar. 30, 1983, 97 Stat. 55; Pub. L. 98–525, title VI, §621, Oct. 19, 1984, 98 Stat. 2540; Pub. L. 99–145, title VI, §631(a), Nov. 8, 1985, 99 Stat. 643; Pub. L. 100–180, div. A, title VI, §§625(a), 626(a), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §611(a), Nov. 29, 1989, 103 Stat. 1445; Pub. L. 101–510, div. A, title VI, §615(a), Nov. 5, 1990, 104 Stat. 1578; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(a), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §613(b), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(b), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(b), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §613(b), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §613(b), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §§613(b), 618, 619, Oct. 17, 1998, 112 Stat. 2039, 2042.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 467; Pub. L. 89–132, §3, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 93–277, §2(1), May 10, 1974, 88 Stat. 119; Pub. L. 95–57, §1, June 29, 1977, 91 Stat. 253; Pub. L. 95–485, title VIII, §802(a)(1), (b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–342, title VIII, §804(a), Sept. 8, 1980, 94 Stat. 1092; Pub. L. 96–579, §3(f), Dec. 23, 1980, 94 Stat. 3364; Pub. L. 97–60, title I, §117(a), Oct. 14, 1981, 95 Stat. 996; Pub. L. 97–276, title I, §131, Oct. 2, 1982, 96 Stat. 1197; Pub. L. 97–377, title I, §101(c) \[title VII, §798\], Dec. 21, 1982, 96 Stat. 1833, 1865; Pub. L. 98–14, §1, Mar. 30, 1983, 97 Stat. 55; Pub. L. 98–525, title VI, §621, Oct. 19, 1984, 98 Stat. 2540; Pub. L. 99–145, title VI, §631(a), Nov. 8, 1985, 99 Stat. 643; Pub. L. 100–180, div. A, title VI, §§625(a), 626(a), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §611(a), Nov. 29, 1989, 103 Stat. 1445; Pub. L. 101–510, div. A, title VI, §615(a), Nov. 5, 1990, 104 Stat. 1578; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(a), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §613(b), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(b), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(b), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §613(b), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §613(b), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §§613(b), 618, 619, Oct. 17, 1998, 112 Stat. 2039, 2042; Pub. L. 106–65, div. A, title VI, §§613(b), 618(a), (b), Oct. 5, 1999, 113 Stat. 650, 652.)
 
 Historical and Revision Notes
 
@@ -95,6 +95,14 @@ In subsection (a), the words “reenlists . . . after . . . compulsory or vo
 In subsection (b), the words “a total of” are omitted as surplusage.
 
 #### Amendments
+
+1999—Subsec. (a)(1)(A). Pub. L. 106–65, §618(a), substituted “17 months” for “twenty-one months”.
+
+Subsec. (a)(2)(A)(i). Pub. L. 106–65, §618(b)(1), substituted “15” for “ten”.
+
+Subsec. (a)(2)(B). Pub. L. 106–65, §618(b)(2), substituted “$60,000” for “$45,000”.
+
+Subsec. (g). Pub. L. 106–65, §613(b), substituted “December 31, 2000” for “December 31, 1999”.
 
 1998—Subsec. (a)(1)(D). Pub. L. 105–261, §618, amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “reenlists or voluntarily extends his enlistment in a regular component of the service concerned for a period of at least three years;”.
 
@@ -168,6 +176,10 @@ Subsec. (f). Pub. L. 95–57, §1(b), substituted “September 30, 1978” for �
 
 1965—Subsec. (g). Pub. L. 89–132 added subsec. (g).
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–65, div. A, title VI, §618(c), Oct. 5, 1999, 113 Stat. 652, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on October 1, 1999, and shall apply with respect to reenlistments and extensions of enlistments taking effect on or after that date.”
+
 #### Effective Date of 1993 Amendment
 
 Section 613(h)(1) of Pub. L. 103–160 provided that: “The amendments made by subsections (b) and (c) \[amending this section and section 308a of this title\] shall take effect as of September 30, 1993, and shall apply with respect to an enlistment, reenlistment, or extension of an enlistment described in section 308 or 308a of title 37, United States Code, occurring on or after that date.”
@@ -212,7 +224,7 @@ Section 4 of Pub. L. 93–277 provided that: “The amendments made by this Act 
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a noteunder section 5334 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1965 Amendment
 

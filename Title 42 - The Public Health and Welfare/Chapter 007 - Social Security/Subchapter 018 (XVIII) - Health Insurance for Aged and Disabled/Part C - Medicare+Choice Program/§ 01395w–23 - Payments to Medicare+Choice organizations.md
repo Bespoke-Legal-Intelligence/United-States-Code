@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Under a contract under section 1395w–27 of this title and subject to subsections (e) and (f) of this section and section 1395w–28(e)(4) of this title, the Secretary shall make monthly payments under this section in advance to each Medicare+Choice organization, with respect to coverage of an individual under this part in a Medicare+Choice payment area for a month, in an amount equal to 1/12 of the annual Medicare+Choice capitation rate (as calculated under subsection (c) of this section) with respect to that individual for that area, adjusted for such risk factors as age, disability status, gender, institutional status, and such other factors as the Secretary determines to be appropriate, so as to ensure actuarial equivalence. The Secretary may add to, modify, or substitute for such factors, if such changes will improve the determination of actuarial equivalence.
+&emsp;&emsp;Under a contract under section 1395w–27 of this title and subject to subsections (e), (g), and (i) of this section and section 1395w–28(e)(4) of this title, the Secretary shall make monthly payments under this section in advance to each Medicare+Choice organization, with respect to coverage of an individual under this part in a Medicare+Choice payment area for a month, in an amount equal to 1/12 of the annual Medicare+Choice capitation rate (as calculated under subsection (c) of this section)with respect to that individual for that area, adjusted for such risk factors as age, disability status, gender, institutional status, and such other factors as the Secretary determines to be appropriate, so as to ensure actuarial equivalence. The Secretary may add to, modify, or substitute for such factors, if such changes will improve the determination of actuarial equivalence.
 
 #### (B) Special rule for end-stage renal disease
 
@@ -40,7 +40,17 @@
 
 #### (C) Initial implementation
 
-&emsp;&emsp;The Secretary shall first provide for implementation of a risk adjustment methodology that accounts for variations in per capita costs based on health status and other demographic factors for payments by no later than January 1, 2000.
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary shall first provide for implementation of a risk adjustment methodology that accounts for variations in per capita costs based on health status and other demographic factors for payments by no later than January 1, 2000.
+
+#### (ii) Phase-in
+
+&emsp;&emsp;&emsp;Such risk adjustment methodology shall be implemented in a phased-in manner so that the methodology insofar as it makes adjustments to capitation rates for health status applies to—
+
+&emsp;&emsp;&emsp;&emsp;(I) 10 percent of 1/12 of the annual Medicare+Choice capitation rate in 2000 and 2001; and
+
+&emsp;&emsp;&emsp;&emsp;(II) not more than 20 percent of such capitation rate in 2002.
 
 #### (D) Uniform application to all types of plans
 
@@ -58,11 +68,23 @@
 
 #### (2) Advance notice of methodological changes
 
-&emsp;At least 45 days before making the announcement under paragraph (1) for a year, the Secretary shall provide for notice to Medicare+Choice organizations of proposed changes to be made in the methodology from the methodology and assumptions used in the previous announcement and shall provide such organizations an opportunity to comment on such proposed changes.
+&emsp;At least 45 days before making the announcement under paragraph (1) for a year, the Secretary shall provide for notice to Medicare+Choice organizations of proposed changes to be made in the methodology from the methodology and assumptions used in the previous announcement and shall provide suchorganizations an opportunity to comment on such proposed changes.
 
 #### (3) Explanation of assumptions
 
 &emsp;In each announcement made under paragraph (1), the Secretary shall include an explanation of the assumptions and changes in methodology used in the announcement in sufficient detail so that Medicare+Choice organizations can compute monthly adjusted Medicare+Choice capitation rates for individuals in each Medicare+Choice payment area which is in whole or in part within the service area of such an organization.
+
+#### (4) Continued computation and publication of county-specific per capita fee-for-service expenditure information
+
+&emsp;The Secretary, through the Chief Actuary of the Health Care Financing Administration, shall provide for the computation and publication, on an annual basis beginning with 2001 at the time of publication of the annual Medicare+Choice capitation rates under paragraph (1), of the following information for the original medicare fee-for-service program under parts A and B of this subchapter (exclusive of individuals eligible for coverage under section 426–1 of this title) for each Medicare+Choice payment area for the second calendar year ending before the date of publication:
+
+&emsp;&emsp;(A) Total expenditures per capita per month, computed separately for part A of this subchapter and for part B of this subchapter.
+
+&emsp;&emsp;(B) The expenditures described in subparagraph (A) reduced by the best estimate of the expenditures (such as graduate medical education and disproportionate share hospital payments) not related to the payment of claims.
+
+&emsp;&emsp;(C) The average risk factor for the covered population based on diagnoses reported for medicare inpatient services, using the same methodology as is expected to be applied in making payments under subsection (a) of this section.
+
+&emsp;&emsp;(D) Such average risk factor based on diagnoses for inpatient and other sites of service, using the same methodology as is expected to be applied in making payments under subsection (a) of this section.
 
 #### (c) Calculation of annual Medicare+Choice capitation rates
 
@@ -200,7 +222,7 @@
 
 &emsp;&emsp;&emsp;(iv) for part B services—
 
-&emsp;&emsp;&emsp;&emsp;(I) 66 percent of payments attributable to such services shall be adjusted by the index of the geographic area factors under section 1395w–4(e) of this title used to adjust payment rates for physicians’ services furnished in the payment area, and
+&emsp;&emsp;&emsp;&emsp;(I) 66 percent of payments attributable to such services shall be adjusted by theindex of the geographic area factors under section 1395w–4(e) of this title used to adjust payment rates for physicians’ services furnished in the payment area, and
 
 &emsp;&emsp;&emsp;&emsp;(II) of the remaining 34 percent of the amount of such payments, 40 percent shall be adjusted by the index described in clause (iii); and
 
@@ -210,7 +232,7 @@
 
 #### (5) Payment adjustment budget neutrality factor
 
-&emsp;For purposes of paragraph (1)(A), for each year, the Secretary shall determine a budget neutrality adjustment factor so that the aggregate of the payments under this part shall equal the aggregate payments that would have been made under this part if payment were based entirely on area-specific capitation rates.
+&emsp;For purposes of paragraph (1)(A), for each year, the Secretary shall determine a budget neutrality adjustment factor so that the aggregate of the payments under this part (other than those attributable to subsection (i) of this section) shall equal the aggregate payments that would have been made under this part if payment were based entirely on area-specific capitation rates.
 
 #### (6) “National per capita Medicare+Choice growth percentage” defined
 
@@ -230,7 +252,7 @@
 
 &emsp;&emsp;&emsp;(iv) for 2001, 0.5 percentage points,
 
-&emsp;&emsp;&emsp;(v) for 2002, 0.5 percentage points, and
+&emsp;&emsp;&emsp;(v) for 2002, 0.3 percentage points, and
 
 &emsp;&emsp;&emsp;(vi) for a year after 2002, 0 percentage points.
 
@@ -274,7 +296,7 @@
 
 &emsp;&emsp;The metropolitan based system described in this subparagraph is one in which—
 
-&emsp;&emsp;&emsp;(i) all the portions of each metropolitan statistical area in the State or in the case of a consolidated metropolitan statistical area, all of the portions of each primary metropolitan statistical area within the consolidated area within the State, are treated as a single Medicare+Choice payment area, and
+&emsp;&emsp;&emsp;(i) all the portions of each metropolitan statistical area in the State or in the caseof a consolidated metropolitan statistical area, all of the portions of each primary metropolitan statistical area within the consolidated area within the State, are treated as a single Medicare+Choice payment area, and
 
 &emsp;&emsp;&emsp;(ii) all areas in the State that do not fall within a metropolitan statistical area are treated as a single Medicare+Choice payment area.
 
@@ -286,7 +308,7 @@
 
 #### (1) In general
 
-&emsp;If the amount of the Medicare+Choice monthly MSA premium (as defined in section 1395w–24(b)(2)(C) of this title) for an MSA plan for a year is less than 1/12 of the annualMedicare+Choice capitation rate applied under this section for the area and year involved, the Secretary shall deposit an amount equal to 100 percent of such difference in a Medicare+�Choice MSA established (and, if applicable, designated) by the individual under paragraph (2).
+&emsp;If the amount of the Medicare+Choice monthly MSA premium (as defined in section 1395w–24(b)(2)(C) of this title) for an MSA plan for a year is less than 1/12 of the annual Medicare+Choice capitation rate applied under this section for the area and year involved, the Secretary shall deposit an amount equal to 100 percent of such difference in a Medicare+�Choice MSA established (and, if applicable, designated) by the individual under paragraph (2).
 
 #### (2) Establishment and designation of Medicare+Choice medical savings account as requirement for payment of contribution
 
@@ -346,13 +368,125 @@ In the case of an individual who is receiving inpatient hospital services from a
 
 &emsp;&emsp;(C) the Secretary shall continue to make monthly payments to the Medicare+Choice organization in an amount equal to the value of the additional benefits required under section 1395w–24(f)(1)(A) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1853, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 299.)
+#### (i) New entry bonus
+
+#### (1) In general
+
+&emsp;Subject to paragraphs (2) and (3), in the case of Medicare+Choice payment area in which a Medicare+Choice plan has not been offered since 1997 (or in which all organizations that offered a plan since such date have filed notice with the Secretary, as of October 13, 1999, that they will not be offering such a plan as of January 1, 2000), the amount of the monthly payment otherwise made under this section shall be increased—
+
+&emsp;&emsp;(A) only for the first 12 months in which any Medicare+Choice plan is offered in the area, by 5 percent of the total monthly payment otherwise computed for such payment area; and
+
+&emsp;&emsp;(B) only for the subsequent 12 months, by 3 percent of the total monthly payment otherwise computed for such payment area.
+
+#### (2) Period of application
+
+&emsp;Paragraph (1) shall only apply to payment for Medicare+Choice plans which are first offered in a Medicare+Choice payment area during the 2-year period beginning on January 1, 2000.
+
+#### (3) Limitation to organization offering first plan in an area
+
+&emsp;Paragraph (1) shall only apply to payment to the first Medicare+Choice organization that offers a Medicare+Choice plan in each Medicare+Choice payment area, except that if more than one such organization first offers such a plan in an area on the same date, paragraph (1) shall apply to payment for such organizations.
+
+#### (4) Construction
+
+&emsp;Nothing in paragraph (1) shall be construed as affecting the calculation of the annual Medicare+Choice capitation rate under subsection (c) of this section for any payment area or as applying to payment for any period not described in such paragraph and paragraph (2).
+
+#### (5) Offered defined
+
+&emsp;In this subsection, the term “offered” means, with respect to a Medicare+Choice plan as of a date, that a Medicare+Choice eligible individual may enroll with the plan on that date, regardless of when the enrollment takes effect or when the individual obtains benefits under the plan.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1853, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 299; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§511(a), 512, 514(a), 517\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380, 1501A–382 to 1501A–384.)
 
 #### References in Text
 
-Parts A and B of this subchapter, referred to in subsecs. (c)(4)(C), (6)(A), and (f), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
+Parts A and B of this subchapter, referred to in subsecs. (b)(4), (c)(4)(C), (6)(A), and (f), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
 
 The Internal Revenue Code of 1986, referred to in subsec. (e)(2)(A), is classified generally to Title 26, Internal Revenue Code.
+
+#### Amendments
+
+1999—Subsec. (a)(1)(A). Pub. L. 106–113, §1000(a)(6) \[title V, §512(1)\], substituted “subsections (e), (g), and (i) of this section” for “subsections (e) and (f) of this section”.
+
+Subsec. (a)(3)(C). Pub. L. 106–113, §1000(a)(6) \[title V, §511(a)\], designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+
+Subsec. (b)(4). Pub. L. 106–113, §1000(a)(6) \[title V, §514(a)\], added par. (4).
+
+Subsec. (c)(5). Pub. L. 106–113, §1000(a)(6) \[title V, §512(2)\], inserted “(other than those attributable to subsection (i) of this section)” after “payments under this part”.
+
+Subsec. (c)(6)(B)(v). Pub. L. 106–113, §1000(a)(6) \[title V, §517\], substituted “0.3 percentage points” for “0.5 percentage points”.
+
+Subsec. (i). Pub. L. 106–113, §1000(a)(6) \[title V, §512(3)\], added subsec. (i).
+
+#### MedPAC Study and Report
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §511(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380, provided that:
+
+“(1)
+
+Study.—The Medicare Payment Advisory Commission shall conduct a study that evaluates the methodology used by the Secretary of Health and Human Services in developing the risk factors used in adjusting the Medicare+Choice capitation rate paid to Medicare+Choice organizations under section 1853 of the Social Security Act (42 U.S.C. 1395w–23) and includes the issues described in paragraph (2).
+
+“(2)
+
+Issues to be studied.—The issues described in this paragraph are the following:
+
+&emsp;“(A) The ability of the average risk adjustment factor applied to a Medicare+Choice plan to explain variations in plans’ average per capita medicare costs, as reported by Medicare+Choice plans in the plans’ adjusted community rate filings.
+
+&emsp;“(B) The year-to-year stability of the risk factors applied to each Medicare+Choice plan and the potential for substantial changes in payment for small Medicare+Choice plans.
+
+&emsp;“(C) For medicare beneficiaries newly enrolled in Medicare+Choice plans in a given year, the correspondence between the average risk factor calculated from medicare fee-for-service data for thoseindividuals from the period prior to their enrollment in a Medicare+Choice plan and the average risk factor calculated for such individuals during their initial year of enrollment in a Medicare+Choice plan.
+
+&emsp;“(D) For medicare beneficiaries disenrolling from or switching among Medicare+Choice plans in a given year, the correspondence between the average risk factor calculated from data pertaining to the period prior to their disenrollment from a Medicare+Choice plan and the average risk factor calculated from data pertaining to the period after disenrollment.
+
+&emsp;“(E) An evaluation of the exclusion of ‘discretionary’ hospitalizations from consideration in the risk adjustment methodology.
+
+&emsp;“(F) Suggestions for changes or improvements in the risk adjustment methodology.
+
+“(3)
+
+Report.—Not later than December 1, 2000, the Commission shall submit a report to Congress on the study conducted under paragraph (1), together with any recommendations for legislation that the Commission determines to be appropriate as a result of such study.”
+
+#### Study and Report Regarding Reporting of Encounter Data
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §511(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–381, provided that:
+
+“(1)
+
+Study.—The Secretary of Health and Human Services shall conduct a study on how to reduce the costs and burdens on Medicare+Choice organizations of their complying with reporting requirements for encounter data imposed by the Secretary in establishing and implementing a risk adjustment methodology used in making payments to such organizations under section 1853 of the Social Security Act (42 U.S.C. 1395w–23). The Secretary shall consult with representatives of Medicare+Choice organizations in conducting the study. The study shall address the following issues:
+
+&emsp;“(A) Limiting the number and types of sites of services (that are in addition to inpatient sites) for which encounter data must be reported.
+
+&emsp;“(B) Establishing alternative risk adjustment methods that would require submission of less data.
+
+&emsp;“(C) The potential for Medicare+Choice organizations to misreport, overreport, or underreport prevalence of diagnoses in outpatient sites of care, the potential for increases in payments to Medicare+Choice organizations from changes in Medicare+Choice plan coding practices (commonly known as ‘coding creep’) and proposed methods for detecting and adjusting for such variations in diagnosis coding as part of the risk adjustment methodology using encounter data from multiple sites of care.
+
+&emsp;“(D) The impact of such requirements on the willingness of insurers to offer Medicare+Choice MSA plans and options for modifying encounter data reporting requirements to accommodate such plans.
+
+&emsp;“(E) Differences in the ability of Medicare+Choice organizations to report encounter data, and the potential for adverse competitive impacts on group and staff model health maintenance organizations or other integrated providers of care based on data reporting capabilities.
+
+“(2)
+
+Report.—Not later than January 1, 2001, the Secretary shall submit a report to Congress on the study conducted under this subsection, together with any recommendations for legislation that the Secretary determines to be appropriate as a result of such study.”
+
+#### Special Rule for 2001
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §514(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–384, provided that: “In providing for the publication of information under section 1853(b)(4) of the Social Security Act (42 U.S.C. 1395w–23(b)(4)), as added by subsection (a), in 2001, the Secretary of Health and Human Services shall also include the information described in such section for 1998, as well as for 1999.”
+
+#### Development of Special Payment Rules Under Medicare+Choice Program for Frail Elderly Enrolled in Specialized Programs
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §552(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–392, provided that:
+
+“(1)
+
+Study.—The Medicare Payment Advisory Commission shall conduct a study on the development of a payment methodology under the Medicare+Choice program for frail elderly Medicare+Choice beneficiaries enrolled in a Medicare+Choice plan under a specialized program for the frail elderly that—
+
+&emsp;“(A) accounts for the prevalence, mix, and severity of chronic conditions among such frail elderly Medicare+Choice beneficiaries;
+
+&emsp;“(B) includes medical diagnostic factors from all provider settings (including hospital and nursing facility settings); and
+
+&emsp;“(C) includes functional indicators of health status and such other factors as may be necessary to achieve appropriate payments for plans serving such beneficiaries.
+
+“(2)
+
+Report.—Not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1999\], the Commission shall submit a report to Congress on the study conducted under paragraph (1), together with any recommendations for legislation that the Commission determines to be appropriate as a result of such study.”
 
 #### Publication of New Capitation Rates
 
@@ -360,13 +494,41 @@ Section 4002(i) of Pub. L. 105–33 provided that: “Not later than 4 weeks aft
 
 #### Medicare+Choice Competitive Pricing Demonstration Project
 
-Sections 4011 and 4012 of title IV of Pub. L. 105–33 provided that:
+Pub. L. 105–33, title IV, §§4011, 4012, Aug. 5, 1997, 111 Stat. 334–336, as amended by Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §533\], Nov. 29, 1999, 113 Stat. 1536, 1501A–389, provided that:
 
 #### “SEC. 4011. MEDICARE PREPAID COMPETITIVE PRICING DEMONSTRATION PROJECT.
 
 “(a)
 
-Establishment of Project.—The Secretary of Health and Human Services (in this subchapter \[subchapter A (§§4011–4012) of chapter 2 of subtitle A of title IV of Pub. L. 105–33\] referred to as the ‘Secretary’) shall establish a demonstration project (in this subchapter referred to as the ‘project’) under which payments to Medicare+Choice organizations in medicare payment areas in which the project is being conducted are determined in accordance with a competitive pricing methodology established under this subchapter.
+Establishment of Project.—
+
+&emsp;“(1)
+
+In general.—Subject to the succeeding provisions of this subsection, the Secretary of Health and Human Services (in this subchapter \[subchapter A (§§4011–4012) of chapter 2 of subtitle A of title IV of Pub. L. 105–33\] referred to as the ‘Secretary’) shall establish a demonstration project (in this subchapter referred to as the ‘project’) under which payments to Medicare+Choice organizations in medicare payment areas in which the project is being conducted are determined in accordance with a competitive pricing methodology established under this subchapter.
+
+&emsp;“(2)
+
+Delay in implementation.—The Secretary shall not implement the project until January 1, 2002, or, if later, 6 months after the date the Competitive Pricing Advisory Committee has submitted to Congress a report on each of the following topics:
+
+&emsp;&emsp;“(A)
+
+Incorporation of original medicare fee-for-service program into project.—What changes would be required in the project to feasibly incorporate the original medicare fee-for-service program into the project in the areas in which the project is operational.
+
+&emsp;&emsp;“(B)
+
+Quality activities.—The nature and extent of the quality reporting and monitoring activities that should be required of plans participating in the project, the estimated costs that plans will incur as a result of these requirements, and the current ability of the Health Care Financing Administration to collect and report comparable data, sufficient tosupport comparable quality reporting and monitoring activities with respect to beneficiaries enrolled in the original medicare fee-for-service program generally.
+
+&emsp;&emsp;“(C)
+
+Rural project.—The current viability of initiating a project site in a rural area, given the site specific budget neutrality requirements of the project under subsection (g), and insofar as the Committee decides that the addition of such a site is not viable, recommendations on how the project might best be changed so that such a site is viable.
+
+&emsp;&emsp;“(D)
+
+Benefit structure.—The nature and extent of the benefit structure that should be required of plans participating in the project, the rationale for such benefit structure, the potential implications that any benefit standardization requirement may have on the number of plan choices available to a beneficiary in an area designated under the project, the potential implications of requiring participating plans to offer variations on any standardized benefit package the committee might recommend, such that a beneficiary could elect to pay a higher percentage of out-of-pocket costs in exchange for a lower premium (or premium rebate as the case may be), and the potential implications of expanding the project (in conjunction with the potential inclusion of the original medicare fee-for-service program) to require medicare supplemental insurance plans operating in an area designated under the project to offer a coordinated and comparable standardized benefit package.
+
+&emsp;“(3)
+
+Conforming deadlines.—Any dates specified in the succeeding provisions of this section shall be delayed (as specified by the Secretary) in a manner consistent with the delay effected under paragraph (2).
 
 “(b)
 
@@ -404,9 +566,11 @@ In general.—Subject to paragraph (2), the Secretary shall for each medicare pa
 
 &emsp;&emsp;“(A) in accordance with the recommendations of the Competitive Pricing Advisory Committee—
 
-&emsp;&emsp;&emsp;“(i) establish the benefit design among plans offered in such area, and
+&emsp;&emsp;&emsp;“(i) establish the benefit design among plans offered in such area,
 
 &emsp;&emsp;&emsp;“(ii) structure the method for selecting plans offered in such area; and
+
+&emsp;&emsp;&emsp;“(iii) establish beneficiary premiums for plans offered in such area in a manner such that a beneficiary who enrolls in an offered plan the per capita bid for which is less than the standard per capita government contribution (as established by the competitive pricing methodology established for such area) may, at the plan's election, be offered a rebate of some or all of the medicare part B premium that such individual must otherwise pay in order to participate in a Medicare+Choice plan under the Medicare+Choice program; and
 
 &emsp;&emsp;“(B) in consultation with such Committee—
 
@@ -454,7 +618,7 @@ Competitive Pricing Advisory Committee.—
 
 &emsp;“(1)
 
-In general.—Before implementing the project under this subchapter \[subchapter A (§§4011–4012) of chapter 2 of subtitle A of title IV of Pub. L. 105–33\], the Secretary shall appoint the Competitive Pricing Advisory Committee, including independent actuaries, individuals with expertise in competitive health plan pricing, and an employee of the Office of Personnel Management with expertise in the administration of the Federal Employees Health Benefit Program, tomake recommendations to the Secretary concerning the designation of areas for inclusion in the project and appropriate research design for implementing the project.
+In general.—Before implementing the project under this subchapter \[subchapter A (§§4011–4012) of chapter 2 of subtitle A of title IV of Pub. L. 105–33\], the Secretary shall appoint the Competitive Pricing Advisory Committee, including independent actuaries, individuals with expertise in competitive health plan pricing, and an employee of the Office of Personnel Management with expertise in the administration of the Federal Employees Health Benefit Program, to make recommendations to the Secretary concerning the designation of areas for inclusion in the project and appropriate research design for implementing the project.
 
 &emsp;“(2)
 

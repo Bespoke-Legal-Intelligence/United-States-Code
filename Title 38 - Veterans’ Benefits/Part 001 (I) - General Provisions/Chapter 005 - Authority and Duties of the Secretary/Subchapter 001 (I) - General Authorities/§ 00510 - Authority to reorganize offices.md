@@ -20,7 +20,7 @@
 
 (2) Paragraph (1) applies to an administrative reorganization of any unit of the Central Office that is the duty station for 30 or more employees if the reorganization involves a reduction in any fiscal year in the number of full-time equivalent employees with permanent duty station in such unit by 50 percent or more.
 
-(e) For purposes of this section, the term “administrative reorganization” does not include a consolidation or redistribution of functions at a covered field office or facility, or between components of the Veterans Benefits Administration and the Veterans Health Administration at aDepartment medical and regional office center, if after the consolidation or redistribution the same number of full-time equivalent employees continues to perform the affected functions at that field office, facility, or center.
+(e) For purposes of this section, the term “administrative reorganization” does not include a consolidation or redistribution of functions at a covered field office or facility, or between components of the Veterans Benefits Administration and the Veterans Health Administration at a Department medical and regional office center, if after the consolidation or redistribution the same number of full-time equivalent employees continues to perform the affected functions at that field office, facility, or center.
 
 (f) For purposes of this section:
 

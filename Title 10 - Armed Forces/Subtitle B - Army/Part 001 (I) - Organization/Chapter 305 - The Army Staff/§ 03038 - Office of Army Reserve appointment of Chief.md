@@ -10,7 +10,7 @@
 
 &emsp;(3) have been recommended by the Secretary of the Army.
 
-(c) The Chief of Army Reserve holds office for four years but may be removed for cause at any time. He is eligible to succeed himself. If he holds a lower reserve grade, he shall be appointed in the grade of major general for service in the Army Reserve.
+(c) The Chief of Army Reserve holds office for four years but may be removed for cause at any time. He is eligible to succeed himself. If he holds a lower reserve grade, he shall be appointed in the grade of major general for service in the Army Reserve. However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.
 
 (d)
 
@@ -26,13 +26,15 @@ Annual Report.—(1) The Chief of Army Reserve shall submit to the Secretary of 
 
 (2) The Secretary of Defense shall transmit the annual report of the Chief of Army Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.
 
-(Added Pub. L. 90–168, §2(16), Dec. 1, 1967, 81 Stat. 523, §3019; renumbered §3038 and amended Pub. L. 99–433, title V, §§501(a)(4), 502(g)(1), Oct. 1, 1986, 100 Stat. 1034, 1042; Pub. L. 103–337, div. A, title XVI, §1672(c)(1), Oct. 5, 1994, 108 Stat. 3015; Pub. L. 104–201, div. A, title XII, §1212(a), Sept. 23, 1996, 110 Stat. 2691.)
+(Added Pub. L. 90–168, §2(16), Dec. 1, 1967, 81 Stat. 523, §3019; renumbered §3038 and amended Pub. L. 99–433, title V, §§501(a)(4), 502(g)(1), Oct. 1, 1986, 100 Stat. 1034, 1042; Pub. L. 103–337, div. A, title XVI, §1672(c)(1), Oct. 5, 1994, 108 Stat. 3015; Pub. L. 104–201, div. A, title XII, §1212(a), Sept. 23, 1996, 110 Stat. 2691; Pub. L. 106–65, div. A, title V, §554(b), Oct. 5, 1999, 113 Stat. 617.)
 
 #### Prior Provisions
 
 A prior section 3038, act Aug. 10, 1956, ch. 1041, 70A Stat. 164, charged Chief of Engineers with responsibility for Army construction, real estate acquisition and management, and the operation of water, gas, electric, and sewer utilities, prior to repeal by Pub. L. 89–718, §25(a), Nov. 2, 1966, 80 Stat. 1119.
 
 #### Amendments
+
+1999—Subsec. (c). Pub. L. 106–65 inserted at end “However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
 
 1996—Subsecs. (d) to (f). Pub. L. 104–201 added subsecs. (d) to (f).
 
@@ -41,6 +43,10 @@ A prior section 3038, act Aug. 10, 1956, ch. 1041, 70A Stat. 164, charged Chief 
 1986—Pub. L. 99–433, §501(a)(4), renumbered section 3019 of this title as this section.
 
 Subsec. (c). Pub. L. 99–433, §502(g)(1), substituted “service” for “services”.
+
+#### Effective Date of 1999 Amendment; Applicability to Incumbents
+
+Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who is a covered position incumbent who is appointed under that amendment to the grade of lieutenant general orvice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as an Effective Date note under section 12505 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -52,5 +58,5 @@ Section effective on first day of first calendar month following date of enactme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 641 of this title.
+This section is referred to in sections 641, 12505 of this title.
 

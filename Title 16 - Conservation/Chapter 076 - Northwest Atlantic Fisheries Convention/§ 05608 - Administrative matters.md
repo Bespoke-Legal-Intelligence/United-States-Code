@@ -16,7 +16,7 @@ The Secretary of State shall, subject to the availability of appropriations, pay
 
 #### (c) Status as Federal employees
 
-A person shall not be considered to be a Federal employee by reason of any service of the person in a capacity described in subsection (a) of this section, except for purposes of injury compensation and tort claims liability under chapter 81 of title 5 and chapter 171 of title 28, respectively.
+A person shall not be considered to be a Federal employee by reason of any service of the person in a capacity described in subsection (a)of this section, except for purposes of injury compensation and tort claims liability under chapter 81 of title 5 and chapter 171 of title 28, respectively.
 
 (Pub. L. 104–43, title II, §209, Nov. 3, 1995, 109 Stat. 381; Pub. L. 105–384, title II, §201(b)(2), Nov. 13, 1998, 112 Stat. 3451.)
 

@@ -26,7 +26,7 @@ In the performance of their functions, the members, employees, or other personne
 
 #### (e) Designation of Acting Chairman; quorum; seal
 
-The Chairman of the Commission may designate any other member of the Commission as Acting Chairman to act in the place and stead of the Chairman during his absence. The Chairman (or the Acting Chairman in the absence of the Chairman) shall preside at all sessions of the Commission and a quorum for the transaction of business shall consist of at least three members present. Each member of the Commission, including the Chairman, shall have one vote. Actions of the Commission shall be determined by a majority vote of the members present. The Commission shall have an official seal which shall be judicially noticed.
+The Chairman of the Commission may designate any other member of the Commission as Acting Chairman to act in the place and stead ofthe Chairman during his absence. The Chairman (or the Acting Chairman in the absence of the Chairman) shall preside at all sessions of the Commission and a quorum for the transaction of business shall consist of at least three members present. Each member of the Commission, including the Chairman, shall have one vote. Actions of the Commission shall be determined by a majority vote of the members present. The Commission shall have an official seal which shall be judicially noticed.
 
 #### (f) Rules
 
@@ -56,7 +56,7 @@ This chapter, referred to in subsecs. (i) and (j), was in the original “this A
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–271 designated existing provisions as par. (1), substituted “5 years” for “fouryears”, struck out after third sentence “The terms of the members first taking office shall expire (as designated by the President at the time of appointment), two at the end of two years, two at the end of three years, and one at the end of four years.”, substituted “A Commissioner may continue to serve after the expiration of his term until his successor is appointed and has been confirmed and taken the oath of Office, except that such Commissioner shall not serve beyond the end of the session of the Congress in which such term expires.” for “A Commissioner may continue to serve after the expiration of his term until his successor has taken office, except that he may not so continue to serve for more than one year after the date on which his term would otherwise expire under this subsection.”, and added par. (2).
+1990—Subsec. (b). Pub. L. 101–271 designated existing provisions as par. (1), substituted “5 years” for “four years”, struck out after third sentence “The terms of the members first taking office shall expire (as designated by the President at the time of appointment), two at the end of two years, two at the end of three years, and one at the end of four years.”, substituted “A Commissioner may continue to serve after the expiration of his term until his successor is appointed and has been confirmed and taken the oath of Office, except that such Commissioner shall not serve beyond the end of the session of the Congress in which such term expires.” for “A Commissioner may continue to serve after the expiration of his term until his successor has taken office, except that he may not so continue to serve for more than one year after the date on which his term would otherwise expire under this subsection.”, and added par. (2).
 
 #### Effective Date of 1990 Amendment
 
@@ -84,9 +84,11 @@ Report.—The Commission shall transmit the study and the model regulations to C
 
 #### Retention and Use of Revenues From Licensing Fees, Inspection Services, and Other Services and Collections; Reduction To Achieve Final Fiscal Year Appropriation
 
-Pub. L. 105–245, title III, Oct. 7, 1998, 112 Stat. 1851, provided in part: “That notwithstanding any other provision of law, not to exceed $167,500,000 of revenues from fees and annual charges, and other services and collections in fiscal year 1999 shall be retained and used for necessary expenses in this account, and shall remain available until expended: <i>Provided further</i>, That the sum herein appropriated from the General Fund shall be reduced as revenues are received during fiscal year 1999 so as to result in a final fiscal year 1999 appropriation from the General Fund estimated at not more than $0.”
+Pub. L. 106–60, title III, Sept. 29, 1999, 113 Stat. 494, provided in part: “That notwithstanding any other provision of law, not to exceed $174,950,000 of revenues from fees and annual charges, and other services and collections in fiscal year 2000 shall be retained and used for necessary expenses in this account, and shall remain available until expended: <i>Provided further</i>, That the sum herein appropriated from the General Fund shall be reduced as revenues are received during fiscal year 2000 so as to result in a final fiscal year 2000 appropriation from the General Fund estimated at not more than $0.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–245, title III, Oct. 7, 1998, 112 Stat. 1851.
 
 Pub. L. 105–62, title III, Oct. 13, 1997, 111 Stat. 1334.
 

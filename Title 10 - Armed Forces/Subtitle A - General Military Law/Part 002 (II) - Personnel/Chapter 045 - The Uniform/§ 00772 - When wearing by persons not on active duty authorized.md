@@ -6,7 +6,7 @@
 
 (c) A retired officer of the Army, Navy, Air Force, or Marine Corps may bear the title and wear the uniform of his retired grade.
 
-(d) A person who is discharged honorably or under honorable conditions from the Army, Navy, Air Force, or Marine Corps may wear his uniform while going from the place of discharge to his home, within three months after his discharge.
+(d) A person who is discharged honorably or under honorable conditions from the Army, Navy, Air Force, or Marine Corps may wear his uniform while going from the place of dischargeto his home, within three months after his discharge.
 
 (e) A person not on active duty who served honorably in time of war in the Army, Navy, Air Force, or Marine Corps may bear the title, and, when authorized by regulations prescribed by the President, wear the uniform, of the highest grade held by him during that war.
 
@@ -150,7 +150,7 @@ In subsection (i), the words “Air Force school” are substituted for the word
 
 Ex. Ord. No. 10554, Aug. 18, 1954, 19 F.R. 5295, provided:
 
-The authority vested in the President (1) by section 125 of the act of June 3, 1916, 39 Stat. 216, as amended by the first section of the act of July 6, 1953, 67 Stat. 140, and (2) by section 2 of the act of June 21, 1930, 46 Stat. 793, as amended by section 2 of said act of July 6, 1953, to prescribe regulations authorizing occasions upon which the uniform may be worn by persons who have served honorably in the armed forces of the United States in time of war is hereby delegated to the Secretary of Defense so far as it pertains to the uniforms of the Army, Navy, Air Force, and Marine Corps, and to the Secretary of the Treasury so far as it pertains to the uniform of the Coast Guard.
+The authority vested in the President (1) by section 125 of the act of June 3, 1916, 39 Stat. 216, as amended by the first section of the act of July 6, 1953, 67 Stat.140, and (2) by section 2 of the act of June 21, 1930, 46 Stat. 793, as amended by section 2 of said act of July 6, 1953, to prescribe regulations authorizing occasions upon which the uniform may be worn by persons who have served honorably in the armed forces of the United States in time of war is hereby delegated to the Secretary of Defense so far as it pertains to the uniforms of the Army, Navy, Air Force, and Marine Corps, and to the Secretary of the Treasury so far as it pertains to the uniform of the Coast Guard.
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -12,5 +12,5 @@ The term “executive department, independent office, or establishment of the Go
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 

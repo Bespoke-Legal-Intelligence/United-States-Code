@@ -146,7 +146,7 @@
 
 #### (4) Continuation of eligibility
 
-&emsp;An individual who is a PACE program eligible individual may be deemed to continue to be such an individual notwithstanding a determination that the individual no longer meets the requirement of subsection (a)(5)(B) of this section if, in accordance with regulations, in the absence of continued coverage under a PACE program the individual reasonably would be expected to meet such requirement within the succeeding 6-month period.
+&emsp;An individual who is a PACE program eligible individual may be deemed to continue tobe such an individual notwithstanding a determination that the individual no longer meets the requirement of subsection (a)(5)(B) of this section if, in accordance with regulations, in the absence of continued coverage under a PACE program the individual reasonably would be expected to meet such requirement within the succeeding 6-month period.
 
 #### (5) Enrollment; disenrollment
 
@@ -180,7 +180,7 @@
 
 #### (2) Capitation amount
 
-&emsp;The capitation amount to be applied under this subsection for a provider for a contractyear shall be an amount specified in the PACE program agreement for the year. Such amount shall be based upon payment rates established for purposes of payment under section 1395w–23 of this title (or, for periods before January 1, 1999, for purposes of risk-sharing contracts under section 1395mm of this title) and shall be adjusted to take into account the comparative frailty of PACE enrollees and such other factors as the Secretary determines to be appropriate. Such amount under such an agreement shall be computed in a manner so that the total payment level for all PACE program eligible individuals enrolled under a program is less than the projected payment under this subchapter for a comparable population not enrolled under a PACE program.
+&emsp;The capitation amount to be applied under this subsection for a provider for a contract year shall be an amount specified in the PACE program agreement for the year. Such amount shall be based upon payment rates established for purposes of payment under section 1395w–23 of this title (or, for periods before January 1, 1999, for purposes of risk-sharing contracts under section 1395mm of this title) and shall be adjusted to take into account the comparative frailty of PACE enrollees and such other factors as the Secretary determines to be appropriate. Such amount under such an agreement shall be computed in a manner so that the total payment level for all PACE program eligible individuals enrolled under a program is less than the projected payment under this subchapter for a comparable population not enrolled under a PACE program.
 
 #### (e) PACE program agreement
 
@@ -356,7 +356,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In issuing such regulations and subject to subparagraph (B), the Secretary may apply with respect to PACE programs, providers, and agreements such requirements of part C of this subchapter (or, for periods before January 1, 1999, section 1395mm of this title) and sections 1396b(m) and 1396u–2 of this title relating to protection of beneficiaries and program integrity as would apply to Medicare+Choice organizations under part C of this subchapter (or for such periods eligible organizations under risk-sharing contracts under section 1395mm of this title) and to medicaid managed care organizations under prepaid capitation agreements under section 1396b(m) of this title.
+&emsp;&emsp;In issuing such regulations and subject to subparagraph (B), the Secretary may apply with respect to PACE programs, providers, and agreements such requirements of part C of this subchapter (or, for periods before January 1, 1999, section 1395mm of this title) and sections 1396b(m) and 1396u–2 of this title relating to protection of beneficiaries and program integrity as would apply to Medicare+Choice organizations under part Cof this subchapter (or for such periods eligible organizations under risk-sharing contracts under section 1395mm of this title) and to medicaid managed care organizations under prepaid capitation agreements under section 1396b(m) of this title.
 
 #### (B) Considerations
 
@@ -404,7 +404,7 @@ With respect to carrying out a PACE program under this section, the following re
 
 #### (i) Miscellaneous provisions
 
-Nothing in this section or section 1396u–4 of this title shall be construed as preventing aPACE provider from entering into contracts with other governmental or nongovernmental payers for the care of PACE program eligible individuals who are not eligible for benefits under part A of this subchapter, or enrolled under part B of this subchapter, or eligible for medical assistance under subchapter XIX of this title.
+Nothing in this section or section 1396u–4 of this title shall be construed as preventing a PACE provider from entering into contracts with other governmental or nongovernmental payers for the care of PACE program eligible individuals who are not eligible for benefits under part A of this subchapter, or enrolled under part B of this subchapter, or eligible for medical assistance under subchapter XIX of this title.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1894, as added Pub. L. 105–33, title IV, §4801, Aug. 5, 1997, 111 Stat. 528.)
 
@@ -500,7 +500,7 @@ Delay in application to current waivers.—
 
 &emsp;&emsp;“(A)
 
-In general.—Subject to subparagraph (B), in the case of waivers granted with respect to a PACEprogram before the initial effective date of regulations described in subsection (a), the repeals made by paragraph (1) shall not apply until the end of a transition period (of up to 24 months) that begins on the initial effective date of such regulations, and that allows sufficient time for an orderly transition from demonstration project authority to general authority provided under the amendments made by this subtitle \[subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title and amending sections 1396b, 1396d, 1396r–5, and 1396v of this title\].
+In general.—Subject to subparagraph (B), in the case of waivers granted with respect to a PACE program before the initial effective date of regulations described in subsection (a), the repeals made by paragraph (1) shall not apply until the end of a transition period (of up to 24 months) that begins on the initial effective date of such regulations, and that allows sufficient time for an orderly transition from demonstration project authority to general authority provided under the amendments made by this subtitle \[subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title and amending sections 1396b, 1396d, 1396r–5, and 1396v of this title\].
 
 &emsp;&emsp;“(B)
 
@@ -544,5 +544,5 @@ Treatment of private, for-profit providers.—The report shall include specific 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1396r–5, 1396u–4 of this title.
+This section is referred to in sections 1395ss, 1396r–5, 1396u–4 of this title.
 

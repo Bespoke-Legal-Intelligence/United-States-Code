@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Exempt.—(1) As provided under procedures prescribed by regulation, the Secretary of Transportation may issue an exemption from this chapter or a regulation prescribed under section 5103(b), 5104, 5110, or 5112 of this title to a person transporting, or causing to be transported, hazardous material in a way that achieves a safety level—
+Authority To Exempt.—(1) As provided under procedures prescribed by regulation, theSecretary of Transportation may issue an exemption from this chapter or a regulation prescribed under section 5103(b), 5104, 5110, or 5112 of this title to a person transporting, or causing to be transported, hazardous material in a way that achieves a safety level—
 
 &emsp;(A) at least equal to the safety level required under this chapter; or
 

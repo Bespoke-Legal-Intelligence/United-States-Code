@@ -34,7 +34,7 @@ Section 293e, act July 1, 1944, ch. 373, title VII, §725, formerly §728, as ad
 
 A prior section 293e, act July 1, 1944, ch. 373, title VII, §702, formerly §725, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 169; amended Sept. 4, 1964, Pub. L. 88–581, §3(c), 78 Stat. 919; Nov. 2, 1966, Pub. L. 89–709, §2(d), 80 Stat. 1103; Nov. 3, 1966, Pub. L. 89–751, §3(a), 80 Stat. 1230; Dec. 5, 1967, Pub. L. 90–174, §12(c), 81 Stat. 541; Oct. 30, 1970, Pub. L. 91–515, title VI, §601(b)(2), 84 Stat. 1311; Nov. 18, 1971, Pub. L. 92–157, title I, §108(a), 85 Stat. 460, was renumbered §702 of act July 1, 1944, by Pub. L. 94–484 and transferred to section 292b of this title.
 
-Section 293f, act July 1, 1944, ch. 373, title VII, §726, formerly §729, as added Nov. 18, 1971, Pub. L. 92–157,title I, §102(d), 85 Stat. 432; renumbered §726 and amended Oct. 12, 1976, Pub. L. 94–484, title I, §101(d), title III, §§306, 308(d), 90 Stat. 2244, 2256, 2257; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2725, 95 Stat. 916, related to loan guarantees and interest subsidies.
+Section 293f, act July 1, 1944, ch. 373, title VII, §726, formerly §729, as added Nov. 18, 1971, Pub. L. 92–157, title I, §102(d), 85 Stat. 432; renumbered §726 and amended Oct. 12, 1976, Pub. L. 94–484, title I, §101(d), title III, §§306, 308(d), 90 Stat. 2244, 2256, 2257; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2725, 95 Stat. 916, related to loan guarantees and interest subsidies.
 
 A prior section 293f, act July 1, 1944, ch. 373, title VII, §726, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 170, provided for noninterference with administration of institutions, prior to repeal by Pub. L. 94–484, title III, §308(b), Oct. 12, 1976, 90 Stat. 2257.
 

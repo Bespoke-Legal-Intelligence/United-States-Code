@@ -40,7 +40,7 @@
 
 &emsp;(B) transferring the research and basic generic technologies described in subparagraph (A) to industry in order to help create a viable commercial high-speed ground transportation industry within the United States.
 
-(2) In a cooperative agreement or funding agreement under paragraph (1), the Secretarymay agree to provide not more than 80 percent of the cost of any project under the agreement. Not less than 5 percent of the non-Federal entity's share of the cost of any such project shall be paid in cash.
+(2) In a cooperative agreement or funding agreement under paragraph (1), the Secretary may agree to provide not more than 80 percent of the cost of any project under the agreement. Not less than 5 percent of the non-Federal entity's share of the cost of any such project shall be paid in cash.
 
 (3) The research, development, or utilization of any technology pursuant to a cooperative agreement under paragraph (1), including the terms under which such technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.).
 
@@ -128,7 +128,7 @@ Section 7 of the Rail Safety Improvement Act of 1988, referred to in subsec. (d)
 
 #### Effective Date
 
-Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of Title 23, Highways.
+Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available afterSept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of Title 23, Highways.
 
 #### National Magnetic Levitation Prototype Development Program
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The boundaries of the park are hereby modified to reflect the addition of approximately 3,460 acres of land and interests therein as generally depicted on the map entitled “Saguaro National Monument Additions” and dated April, 1994.
+The boundaries of the park are hereby modified to reflect the addition of approximately3,460 acres of land and interests therein as generally depicted on the map entitled “Saguaro National Monument Additions” and dated April, 1994.
 
 #### (b) Land acquisition
 

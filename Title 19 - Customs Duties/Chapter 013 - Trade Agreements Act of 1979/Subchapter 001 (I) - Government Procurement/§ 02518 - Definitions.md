@@ -48,7 +48,7 @@ As used in this subchapter—
 
 #### (D) Lowered threshold for certain products as a consequence of United States-Canada Free-Trade Agreement
 
-&emsp;&emsp;Except as otherwise agreed by the United States and Canada under paragraph 3 of article 1304 of the United States-Canada Free-Trade Agreement, the term “eligible product” includes a product or service of Canada having a contract value of $25,000 or more that would be covered for procurement bythe United States under the Agreement (as defined in paragraph (1)), but for the thresholds provided for in the Agreement.
+&emsp;&emsp;Except as otherwise agreed by the United States and Canada under paragraph 3 of article 1304 of the United States-Canada Free-Trade Agreement, the term “eligible product” includes a product or service of Canada having a contract value of $25,000 or more that would be covered for procurement by the United States under the Agreement (as defined in paragraph (1)), but for the thresholds provided for in the Agreement.
 
 #### (5) Instrumentality
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 103–465 effective on the date on which the Agreement on G
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 381(e) of Pub. L. 103–182, set out as a note under section 2511 of this title.
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters intoforce with respect to the United States \[Jan. 1, 1994\], see section 381(e) of Pub. L. 103–182, set out as a note under section 2511 of this title.
 
 #### Effective and Termination Dates of 1988 Amendment
 

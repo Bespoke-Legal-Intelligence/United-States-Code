@@ -114,7 +114,7 @@ There shall be allowed as a deduction for the taxable year an amount equal to th
 
 #### (c) Net operating loss defined
 
-For purposes of this section, the term “net operating loss” means the excess of the deductions allowed by this chapter over the gross income. Such excess shall be computed with the modifications specified in subsection (d).
+For purposes of this section, the term “net operating loss” means the excess of the deductionsallowed by this chapter over the gross income. Such excess shall be computed with the modifications specified in subsection (d).
 
 #### (d) Modifications
 
@@ -156,7 +156,7 @@ The modifications referred to in this section are as follows:
 
 #### (5) Computation of deduction for dividends received, etc.
 
-&emsp;The deductions allowed by sections 243 (relating to dividends received by corporations), 244 (relating to dividends received on certain preferred stock of public utilities), and 245 (relating to dividends received from certain foreign corporations) shall be computed without regard to section 246(b) (relating to limitationon aggregate amount of deductions); and the deduction allowed by section 247 (relating to dividends paid on certain preferred stock of public utilities) shall be computed without regard to subsection (a)(1)(B) of such section.
+&emsp;The deductions allowed by sections 243 (relating to dividends received by corporations), 244 (relating to dividends received on certain preferred stock of public utilities), and 245 (relating to dividends received from certain foreign corporations) shall be computed without regard to section 246(b) (relating to limitation on aggregate amount of deductions); and the deduction allowed by section 247 (relating to dividends paid on certain preferred stock of public utilities) shall be computed without regard to subsection (a)(1)(B) of such section.
 
 #### (6) Modifications related to real estate investment trusts
 
@@ -244,7 +244,7 @@ For purposes of this section—
 
 #### (2) Coordination with subsection (b)(2)
 
-&emsp;For purposes of subsection (b)(2), the portion of a net operating loss for any taxable yearwhich is attributable to the deduction allowed under section 166(a) shall be treated in a manner similar to the manner in which a specified liability loss is treated.
+&emsp;For purposes of subsection (b)(2), the portion of a net operating loss for any taxable year which is attributable to the deduction allowed under section 166(a) shall be treated in a manner similar to the manner in which a specified liability loss is treated.
 
 #### (h) Corporate equity reduction interest losses
 
@@ -290,7 +290,7 @@ For purposes of this section—
 
 #### (F) Transition rule
 
-&emsp;&emsp;If any of the 3 taxable years described in subparagraph (C)(ii) end on or before August 2, 1989, the taxpayer may substitute for the amount determined under such subparagraph an amount equal to the interest paid or accrued (determined on an annualized basis) during the taxpayer's taxable year which includes August 3, 1989, on indebtedness of the taxpayer outstanding on August 2, 1989.
+&emsp;&emsp;If any of the 3 taxable years described in subparagraph (C)(ii) end on or before August2, 1989, the taxpayer may substitute for the amount determined under such subparagraph an amount equal to the interest paid or accrued (determined on an annualized basis) during the taxpayer's taxable year which includes August 3, 1989, on indebtedness of the taxpayer outstanding on August 2, 1989.
 
 #### (3) Corporate equity reduction transaction
 
@@ -346,7 +346,7 @@ For purposes of this section—
 
 #### (ii) Issuance of stock
 
-&emsp;&emsp;&emsp;The amounts determined under clauses (i) and (ii)(I) of subparagraph (C) shall bereduced by the aggregate amount of stock issued by the corporation during the applicable period in exchange for money or property other than stock in the corporation.
+&emsp;&emsp;&emsp;The amounts determined under clauses (i) and (ii)(I) of subparagraph (C) shall be reduced by the aggregate amount of stock issued by the corporation during the applicable period in exchange for money or property other than stock in the corporation.
 
 #### (4) Other rules
 
@@ -534,7 +534,7 @@ Subsec. (d)(6) to (8). Pub. L. 98–369, §722(a)(4)(B), redesignated pars. (7) 
 
 Subsec. (h). Pub. L. 98–369, §91(d)(3)(B), substituted “this section” for “subsection (b)” in introductory provisions.
 
-Subsec. (i). Pub. L. 98–369, §177(c)(2), substituted “Mortgage disposition loss of the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation” for “FNMA mortgage disposition loss” in heading and struck out “FNMA” before “mortgage disposition loss” wherever appearing in text.
+Subsec. (i). Pub. L. 98–369, §177(c)(2), substituted “Mortgage disposition loss of the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation” for “FNMA mortgage dispositionloss” in heading and struck out “FNMA” before “mortgage disposition loss” wherever appearing in text.
 
 Subsec. (j). Pub. L. 98–369, §91(d)(3)(B), substituted “this section” for “subsection (b)” in introductory provisions.
 
@@ -664,7 +664,7 @@ Subsecs. (k), (<i>l</i>). Pub. L. 88–272, §210(a)(5), added subsec. (k) and r
 
 1962—Subsec. (b)(1). Pub. L. 87–794 designated existing provisions as cl. (A)(i) and struck out provisions therefrom which authorized a net operating loss for any taxable year ending after Dec. 31, 1957, to be a net operating loss carryover to each of the 5 taxable years following the taxable year of such loss, and added cls. (A)(ii), (B), and (C).
 
-Subsec. (b)(2). Pub. L. 87–794 inserted reference to subsection (j), and substituted “shall be carried to the earliest of the taxable years to which (by reason ofparagraph (1))” for “shall be carried to the earliest of the 8 taxable years to which (by reason of subparagraphs (A) and (B) of paragraph (1))”, and “each of the other taxable years” for “each of the other 7 taxable years”.
+Subsec. (b)(2). Pub. L. 87–794 inserted reference to subsection (j), and substituted “shall be carried to the earliest of the taxable years to which (by reason of paragraph (1))” for “shall be carried to the earliest of the 8 taxable years to which (by reason of subparagraphs (A) and (B) of paragraph (1))”, and “each of the other taxable years” for “each of the other 7 taxable years”.
 
 Subsec. (b)(3). Pub. L. 87–794 added par. (3).
 
@@ -762,7 +762,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Additional carryforward period for losses of thrift institutions.—Subparagraph (M) of section 172(b)(1) of the Internal Revenue Code of 1986 (as added by this section) shall apply to losses incurred in taxable years beginning after December 31, 1981.”
 
-Amendment by section 1303(b)(1), (2) of Pub. L. 99–514 effective Oct. 22, 1986, see section 1311(f) of Pub. L.99–514, as amended, set out as an Effective Date; Transitional Rules note under section 141 of this title.
+Amendment by section 1303(b)(1), (2) of Pub. L. 99–514 effective Oct. 22, 1986, see section 1311(f) of Pub. L. 99–514, as amended, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
 #### Effective Date of 1984 Amendment
 

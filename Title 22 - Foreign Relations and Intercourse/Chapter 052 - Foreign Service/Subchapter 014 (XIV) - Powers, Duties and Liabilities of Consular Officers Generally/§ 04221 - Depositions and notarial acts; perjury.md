@@ -36,5 +36,5 @@ Perjury, see sections 1621, 1622, and 3185 of Title 18.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4191 of this title; title 18 section 3492.
+This section is referred to in section 4191 of this title; title 18 section 3492; title 35 section 115.
 

@@ -12,3 +12,5 @@ Section 1005, act Oct. 14, 1940, ch. 876, title III, §705, as added Mar. 27, 19
 
 Section 1006, act Oct. 14, 1940, ch. 876, title III, §706, as added Dec. 28, 1945, ch. 590, §1(c)(2), 59 Stat. 658, related to time of service limitation. See section 1440 of this title.
 
+&nbsp;
+

@@ -2,7 +2,7 @@
 
 #### (a) Promulgation, contents, etc., of regulations
 
-The Board shall prescribe regulations to carry out the purposes of this subchapter. Except inthe case of a mortgage referred to in section 1602(aa) of this title, these regulations may contain such classifications, differentiations, or other provisions, and may provide for such adjustments and exceptions for any class of transactions, as in the judgment of the Board are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion thereof, or to facilitate compliance therewith.
+The Board shall prescribe regulations to carry out the purposes of this subchapter. Except in the case of a mortgage referred to in section 1602(aa) of this title, these regulations may contain such classifications, differentiations, or other provisions, and may provide for such adjustments and exceptions for any class of transactions, as in the judgment of the Board are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion thereof, or to facilitate compliance therewith.
 
 #### (b) Model disclosure forms and clauses; publication, criteria, compliance, etc.
 

@@ -12,15 +12,21 @@ For purposes of this subchapter—
 
 &emsp;(5) the terms “financial agency” and “financial institution” have the meanings given to such terms in section 5312(a) of title 31 and the term “holding company” has the meaning given to such term in section 3401(6) of title 12;
 
-&emsp;(6) the terms “foreign power” and “agent of a foreign power” have the same meanings as set forth in sections <sup>1</sup> 1801(a) and (b), respectively, of this title; and
+&emsp;(6) the terms “foreign power” and “agent of a foreign power” have the same meanings as set forth in sections <sup>1</sup> 1801(a) and (b), respectively, of this title;
 
-&emsp;(7) the term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, and any other possession of the United States.
+&emsp;(7) the term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, and any other possession of the United States; and
 
-(July 26, 1947, ch. 343, title VIII, §804, as added Pub. L. 103–359, title VIII, §802(a), Oct. 14, 1994, 108 Stat. 3438.)
+&emsp;(8) the term “computer” means any electronic, magnetic, optical, electrochemical, or other high speed data processing device performing logical, arithmetic, or storage functions, and includes any data storage facility or communications facility directly related to or operating in conjunction with such device and any data or other information stored or contained in such device.
+
+(July 26, 1947, ch. 343, title VIII, §804, as added Pub. L. 103–359, title VIII, §802(a), Oct. 14, 1994, 108 Stat. 3438; amended Pub. L. 106–120, title III, §305(b), Dec. 3, 1999, 113 Stat. 1611.)
 
 #### References in Text
 
 Executive Order No. 12356, referred to in par. (2), is set out as a note under section 435 of this title.
 
 The Atomic Energy Act of 1954, referred to in par. (2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+
+#### Amendments
+
+1999—Par. (8). Pub. L. 106–120 added par. (8).
 

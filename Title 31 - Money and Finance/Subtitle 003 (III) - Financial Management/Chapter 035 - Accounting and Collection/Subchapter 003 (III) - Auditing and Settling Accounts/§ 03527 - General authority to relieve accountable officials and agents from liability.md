@@ -12,7 +12,7 @@
 
 &emsp;(3) the Comptroller General agrees with the decision of the head of the agency.
 
-(b)(1) The Comptroller General shall relieve an official of the armed forces referred to in subsection (a) responsible for the physical loss or deficiency of public money, vouchers, or records, or a payment described in section 3528(a)(4)(A) of this title, or shall authorize reimbursement, from an appropriation or fund available for reimbursement, of the amount of the loss or deficiency paid by or for the official as restitution, when—
+(b)(1) The Comptroller General shall relieve an official of the armed forces referred to in subsection (a) responsible for the physical loss or deficiency of public money, vouchers, or records, or a payment described in section 3528(a)(4)(A) ofthis title, or shall authorize reimbursement, from an appropriation or fund available for reimbursement, of the amount of the loss or deficiency paid by or for the official as restitution, when—
 
 &emsp;(A) in the case of a physical loss or deficiency—
 

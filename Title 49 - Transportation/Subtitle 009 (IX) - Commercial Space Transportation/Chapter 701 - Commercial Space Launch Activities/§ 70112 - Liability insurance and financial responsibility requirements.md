@@ -46,7 +46,7 @@ Annual Report.—(1) Not later than November 15 of each year, the Secretary of T
 
 (e)
 
-Launches or Reentries Involving Government Facilities and Personnel.—The Secretary of Transportation shall establish requirements consistent with this chapter for proof of financial responsibility and other assurances necessary to protect the Government and its executive agencies and personnel from liability, death, bodily injury, or property damage or loss as a result of a launch or operation of a launchsite or reentry site or a reentry involving a facility or personnel of the Government. The Secretary may not relieve the Government of liability under this subsection for death, bodily injury, or property damage or loss resulting from the willful misconduct of the Government or its agents.
+Launches or Reentries Involving Government Facilities and Personnel.—The Secretary of Transportation shall establish requirements consistent with this chapter for proof of financial responsibility and other assurances necessary to protect the Government and its executive agencies and personnel from liability, death, bodily injury, or property damage or loss as a result of a launch or operation of a launch site or reentry site or a reentry involving a facility or personnel of the Government. The Secretary may not relieve the Government of liability under this subsection for death, bodily injury, or property damage or loss resulting from the willful misconduct of the Government or its agents.
 
 (f)
 
@@ -152,5 +152,5 @@ Amendment by section 5(93) of Pub. L. 104–287 effective July 5, 1994, see sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 70113 of this title.
+This section is referred to in section 70113 of this title; title 42 section 2458c.
 

@@ -22,7 +22,7 @@ The basis of property (other than money) distributed by a partnership to a partn
 
 &emsp;&emsp;(A)(i) first to any unrealized receivables (as defined in section 751(c)) and inventory items (as defined in section 751(d)) in an amount equal to the adjusted basis of each such property to the partnership, and
 
-&emsp;&emsp;(ii) if the basis to be allocated is less than the sum of the adjusted bases of such properties to the partnership, then, to the extent any decrease is required in order to have the adjusted bases of such properties equal thebasis to be allocated, in the manner provided in paragraph (3), and
+&emsp;&emsp;(ii) if the basis to be allocated is less than the sum of the adjusted bases of such properties to the partnership, then, to the extent any decrease is required in order to have the adjusted bases of such properties equal the basis to be allocated, in the manner provided in paragraph (3), and
 
 &emsp;&emsp;(B) to the extent of any basis remaining after the allocation under subparagraph (A), to other distributed properties—
 
@@ -54,9 +54,67 @@ For purposes of subsections (a), (b), and (c), a partner who acquired all or a p
 
 This section shall not apply to the extent that a distribution is treated as a sale or exchange of property under section 751(b) (relating to unrealized receivables and inventory items).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 246; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title X, §§1061(a), 1062(b)(3), Aug. 5, 1997, 111 Stat. 945, 947.)
+#### (f) Corresponding adjustment to basis of assets of a distributed corporation controlled by a corporate partner
+
+#### (1) In general
+
+&emsp;If—
+
+&emsp;&emsp;(A) a corporation (hereafter in this subsection referred to as the “corporate partner”) receives a distribution from a partnership of stock in another corporation (hereafter in this subsection referred to as the “distributed corporation”),
+
+&emsp;&emsp;(B) the corporate partner has control of the distributed corporation immediately after the distribution or at any time thereafter, and
+
+&emsp;&emsp;(C) the partnership's adjusted basis in such stock immediately before the distribution exceeded the corporate partner's adjusted basis in such stock immediately after the distribution,
+
+> &emsp;then an amount equal to such excess shall be applied to reduce (in accordance with subsection (c)) the basis of property held by the distributed corporation at such time (or, if the corporate partner does not control the distributed corporation at such time, at the time the corporate partner first has such control).
+
+#### (2) Exception for certain distributions before control acquired
+
+&emsp;Paragraph (1) shall not apply to any distribution of stock in the distributed corporation if—
+
+&emsp;&emsp;(A) the corporate partner does not have control of such corporation immediately after such distribution, and
+
+&emsp;&emsp;(B) the corporate partner establishes to the satisfaction of the Secretary that such distribution was not part of a plan or arrangement to acquire control of the distributed corporation.
+
+#### (3) Limitations on basis reduction
+
+#### (A) In general
+
+&emsp;&emsp;The amount of the reduction under paragraph (1) shall not exceed the amount by which the sum of the aggregate adjusted bases of the property and the amount of money of the distributed corporation exceeds the corporate partner's adjusted basis in the stock of the distributed corporation.
+
+#### (B) Reduction not to exceed adjusted basis of property
+
+&emsp;&emsp;No reduction under paragraph (1) in the basis of any property shall exceed the adjusted basis of such property (determined without regard to such reduction).
+
+#### (4) Gain recognition where reduction limited
+
+&emsp;If the amount of any reduction under paragraph (1) (determined after the application of paragraph (3)(A)) exceeds the aggregate adjusted bases of the property of the distributed corporation—
+
+&emsp;&emsp;(A) such excess shall be recognized by the corporate partner as long-term capital gain, and
+
+&emsp;&emsp;(B) the corporate partner's adjusted basis in the stock of the distributed corporation shall be increased by such excess.
+
+#### (5) Control
+
+&emsp;For purposes of this subsection, the term “control” means ownership of stock meeting the requirements of section 1504(a)(2).
+
+#### (6) Indirect distributions
+
+&emsp;For purposes of paragraph (1), if a corporation acquires (other than in a distribution from a partnership) stock the basis of which is determined (by reason of being distributed from a partnership) in whole or in part by reference to subsection (a)(2) or (b), the corporation shall be treated as receiving a distribution of such stock from a partnership.
+
+#### (7) Special rule for stock in controlled corporation
+
+&emsp;If the property held by a distributed corporation is stock in a corporation which the distributed corporation controls, this subsection shall be applied to reduce the basis of the property of such controlled corporation. This subsection shall be reapplied to any property of any controlled corporation which is stock in a corporation which it controls.
+
+#### (8) Regulations
+
+&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations to avoid double counting and to prevent the abuse of such purposes.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 246; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title X, §§1061(a), 1062(b)(3), Aug. 5, 1997, 111 Stat. 945, 947; Pub. L. 106–170, title V, §538(a), Dec. 17, 1999, 113 Stat. 1939.)
 
 #### Amendments
+
+1999—Subsec. (f). Pub. L. 106–170 added subsec. (f).
 
 1997—Subsec. (c). Pub. L. 105–34, §1061(a), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The basis of distributed properties to which subsection (a)(2) or subsection (b) is applicable shall be allocated—
 
@@ -67,6 +125,18 @@ This section shall not apply to the extent that a distribution is treated as a s
 Subsec. (c)(1)(A)(i). Pub. L. 105–34, §1062(b)(3), substituted “section 751(d)” for “section 751(d)(2)”.
 
 1976—Subsec. (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–170, title V, §538(b), Dec. 17, 1999, 113 Stat. 1940, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendment made by this section \[amending this section\] shall apply to distributions made after July 14, 1999.
+
+“(2)
+
+Partnerships in existence on July 14, 1999.—In the case of a corporation which is a partner in a partnership as of July 14, 1999, the amendment made by this section shall apply to any distribution made (or treated as made) to such partner from such partnership after June 30, 2001, except that this paragraph shall not apply to any distribution after the date of the enactment of this Act \[Dec. 17, 1999\] unless the partner makes an election to have this paragraph apply to such distribution on the partner's return of Federal income tax for the taxable year in which such distribution occurs.”
 
 #### Effective Date of 1997 Amendment
 

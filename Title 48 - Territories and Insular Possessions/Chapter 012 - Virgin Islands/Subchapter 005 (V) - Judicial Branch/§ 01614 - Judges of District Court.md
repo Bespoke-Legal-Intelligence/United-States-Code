@@ -12,7 +12,7 @@ Where appropriate, the provisions of part II of title 18 and of title 28 and, no
 
 The Attorney General shall appoint a United States marshal for the Virgin Islands, to whose office the provisions of chapter 37 of title 28 shall apply.
 
-(July 22, 1954, ch. 558, §24, 68 Stat. 506; Pub. L. 85–851, §7, Aug. 28, 1958, 72 Stat. 1095; Pub. L. 91–272, §3(b), June 2, 1970, 84 Stat. 296; Pub. L.98–454, title VII, §706(a), (b), Oct. 5, 1984, 98 Stat. 1740.)
+(July 22, 1954, ch. 558, §24, 68 Stat. 506; Pub. L. 85–851, §7, Aug. 28, 1958, 72 Stat. 1095; Pub. L. 91–272, §3(b), June 2, 1970, 84 Stat. 296; Pub. L. 98–454, title VII, §706(a), (b), Oct. 5, 1984, 98 Stat. 1740.)
 
 #### References in Text
 

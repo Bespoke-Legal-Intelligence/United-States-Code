@@ -10,7 +10,7 @@ For purposes of this chapter, the following terms have the following meanings:
 
 &emsp;&emsp;(C) a member of a uniformed service who is not under the command of an area military commander; or
 
-&emsp;&emsp;(D) an expert or consultant as authorized pursuant to section 3109 of title 5 with the United States or any agency, department, or establishment thereof; but is not a national or permanent resident of the foreign country in which employed.
+&emsp;&emsp;(D) an expert or consultant as authorized pursuant to section 3109 of title 5 with theUnited States or any agency, department, or establishment thereof; but is not a national or permanent resident of the foreign country in which employed.
 
 &emsp;(2) The term “contractor” means—
 

@@ -26,7 +26,7 @@ For purposes of this section, there are authorized to be appropriated not to exc
 
 #### Codification
 
-In subsec. (a), “Secretary of Commerce” substituted for “Secretary” pursuant to section 4(6) of the FederalFire Prevention and Control Act of 1974, Pub. L. 93–498, which is classified to section 2203(6) of Title 15, Commerce and Trade.
+In subsec. (a), “Secretary of Commerce” substituted for “Secretary” pursuant to section 4(6) of the Federal Fire Prevention and Control Act of 1974, Pub. L. 93–498, which is classified to section 2203(6) of Title 15, Commerce and Trade.
 
 Section was enacted as part of the Federal Fire Prevention and Control Act of 1974 (which is classified principally to chapter 49 (§2201 et seq.) of Title 15), and not as a part of the Public Health Service Act which comprises this chapter.
 

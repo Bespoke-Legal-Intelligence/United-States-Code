@@ -2,7 +2,7 @@
 
 (a) The debtor may file a plan with a petition commencing a voluntary case, or at any time in a voluntary case or an involuntary case.
 
-(b) Except as otherwise provided in this section, only the debtor may file a plan until after120 days after the date of the order for relief under this chapter.
+(b) Except as otherwise provided in this section, only the debtor may file a plan until after 120 days after the date of the order for relief under this chapter.
 
 (c) Any party in interest, including the debtor, the trustee, a creditors’ committee, an equity security holders’ committee, a creditor, an equity security holder, or any indenture trustee, may file a plan if and only if—
 
@@ -32,7 +32,7 @@
 
 I74legislative statements
 
-Section 1121 of the House amendment is derived from section 1121 of the House bill; section 1121(c)(1) will be satisfied automatically in a case under subchapter IV of title 11.
+Section 1121 of the House amendment is derived from section 1121 of the House bill; section 1121(c)(1) will besatisfied automatically in a case under subchapter IV of title 11.
 
 #### senate report no. 95–989
 

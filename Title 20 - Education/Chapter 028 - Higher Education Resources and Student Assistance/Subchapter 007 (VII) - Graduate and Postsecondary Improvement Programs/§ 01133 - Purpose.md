@@ -34,7 +34,7 @@ Another prior section 1133a, Pub. L. 89–329, title VIII, §802, as added Pub. 
 
 Section 1133b, Pub. L. 89–329, title VIII, §803, as added Pub. L. 99–498, title VIII, §801, Oct. 17, 1986, 100 Stat. 1548; amended Pub. L. 102–325, title VIII, §801, July 23, 1992, 106 Stat. 756; Pub. L. 103–208, §2(j)(25), (26), Dec. 20, 1993, 107 Stat. 2482, authorized grants for cooperative education.
 
-Another prior section 1133b, Pub. L. 89–329, title VIII, §803, as added Pub. L. 94–482, title I, §129(b), Oct. 12, 1976, 90 Stat. 2146; amended Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, authorized grants and contracts for training and research related to cooperative education, prior to the general amendment of subchapter VIII of this chapter by Pub. L. 99–498.
+Another prior section 1133b, Pub. L. 89–329, title VIII, §803, as added Pub. L. 94–482, title I, §129(b), Oct. 12, 1976, 90 Stat. 2146; amended Pub. L. 96–374, title XIII,§1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, authorized grants and contracts for training and research related to cooperative education, prior to the general amendment of subchapter VIII of this chapter by Pub. L. 99–498.
 
 Another prior section 1133b, Pub. L. 89–329, title VIII, §803, as added Pub. L. 90–575, title II, §251, Oct. 16, 1968, 82 Stat. 1043, authorized free or reduced rates for sharing educational or related resources by institutions of higher education, prior to the general amendment of subchapter VIII of this chapter by Pub. L. 94–482.
 

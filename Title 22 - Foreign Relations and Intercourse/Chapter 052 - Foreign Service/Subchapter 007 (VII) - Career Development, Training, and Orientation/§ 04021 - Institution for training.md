@@ -26,7 +26,7 @@ Training and instruction may be provided at the Institute <sup>1</sup> for not 
 
 (2) The Secretary may provide job-related training or related services, including foreign language training, through the institution to a United States person under contract to provide services to the United States Government or to any employee thereof that is performing such services.
 
-(3) Training under this subsection may be provided only to the extent that space is available and only on a reimbursable or advance-of-funds basis. Reimbursements and advances shall becredited to the currently available applicable appropriation account.
+(3) Training under this subsection may be provided only to the extent that space is available and only on a reimbursable or advance-of-funds basis. Reimbursements and advances shall be credited to the currently available applicable appropriation account.
 
 (4) Training and related services under this subsection is authorized only to the extent that it will not interfere with the institution's primary mission of training employees of the Department and of other agencies in the field of foreign relations.
 
@@ -124,7 +124,7 @@ Pub. L. 99–93, title I, §123, Aug. 16, 1985, 99 Stat. 413, as amended by Pub.
 
 “(a)
 
-Purpose.—The purpose of this section is to promote comprehensive training to meet the foreign relations and national security objectives of the UnitedStates and to provide facilities designed for that purpose to assure cost efficient training.
+Purpose.—The purpose of this section is to promote comprehensive training to meet the foreign relations and national security objectives of the United States and to provide facilities designed for that purpose to assure cost efficient training.
 
 “(b)
 

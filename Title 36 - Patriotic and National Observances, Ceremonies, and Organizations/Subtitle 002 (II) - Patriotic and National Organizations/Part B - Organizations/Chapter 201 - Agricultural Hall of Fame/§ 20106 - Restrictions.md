@@ -46,17 +46,25 @@ Aug. 31, 1960, Pub. L. 86–680, §§3(A) (1st sentence proviso), 9, 10, 12, 74 
 
 36:980.
 
+&nbsp;
+
 20106(c)
 
 36:979(a).
+
+&nbsp;
 
 20106(d)
 
 36:979(b).
 
+&nbsp;
+
 20106(e)
 
 36:973(A) (proviso).
+
+&nbsp;
 
 In subsection (a), the words “any shares of” are omitted as unnecessary.
 

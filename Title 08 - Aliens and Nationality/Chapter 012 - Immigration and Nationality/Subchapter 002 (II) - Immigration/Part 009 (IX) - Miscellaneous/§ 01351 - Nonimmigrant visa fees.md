@@ -30,9 +30,11 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 
 #### Surcharge for Processing Machine Readable Nonimmigrant Visas
 
-Pub. L. 105–277, div. A, title I, §101(b) \[title IV\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–93, provided in part: “That notwithstanding section 140(a)(5), and the second sentence of section 140(a)(3), of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (PublicLaw 103–236) \[set out below\], fees may be collected during fiscal years 1999 and 2000 under the authority of section 140(a)(1) of that Act: <i>Provided further</i>, That all fees collected under the preceding proviso shall be deposited in fiscal years 1999 and 2000 as an offsetting collection to appropriations made under this heading to recover costs as set forth under section 140(a)(2) of that Act and shall remain available until expended.”
+Pub. L. 106–113, div. B, §1000(a)(1) \[title IV\], Nov. 29, 1999, 113 Stat. 1535, 1501A–39, provided in part: “That notwithstanding section 140(a)(5), and the second sentence of section 140(a)(3), of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 \[Pub. L. 103–236, set out below\], fees may be collected during fiscal years 2000 and 2001, under the authority of section 140(a)(1) of that Act: <i>Provided further</i>, That all fees collected under the preceding proviso shall be deposited in fiscal years 2000 and 2001 as an offsetting collection to appropriations made under this heading to recover costs as set forth under section 140(a)(2) of that Act and shall remain available until expended”.
 
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 105–277, div. A, §101(b) \[title IV\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–93.
 
 Pub. L. 105–119, title IV, Nov. 26, 1997, 111 Stat. 2494.
 
@@ -42,17 +44,35 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title IV\], Sept. 30, 1996, 110 S
 
 Pub. L. 104–134, title I, §101\[(a)\] \[title IV\], Apr. 26, 1996, 110 Stat. 1321, 1321–36; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
-Pub. L. 103–236, title I, §140(a), Apr. 30, 1994, 108 Stat. 399, as amended by Pub. L. 103–415, §1(bb), Oct. 25, 1994, 108 Stat. 4302, provided that:
+Pub. L. 105–277, div. A, §101(b) \[title IV, §410(a)\], Oct. 21, 1998, 112 Stat. 2681–50, 1681–102, provided that:
+
+“(1)(A) Notwithstanding any other provision of law and subject to subparagraph (B), the Secretary of State and the Attorney General shall impose, for the processing of any application for the issuance of a machine readable combined border crossing card and nonimmigrant visa under section 101(a)(15)(B) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(B)\], a fee of $13 (for recovery of the costs of manufacturing the combined card and visa) in the case of any alien under 15 years of age where the application for the machine readable combined border crossing card and nonimmigrant visa is made in Mexico by a citizen of Mexico who has at least one parent or guardian who has a visa under such section or is applying for a machine readable combined border crossing card and nonimmigrant visa under such section as well.
+
+“(B) The Secretary of State and the Attorney General may not commence implementation of the requirement in subparagraph (A) until the later of—
+
+&emsp;“(i) the date that is 6 months after the date of enactment of this Act \[Oct. 21, 1998\]; or
+
+&emsp;“(ii) the date on which the Secretary sets the amount of the fee or surcharge in accordance with paragraph (3).
+
+“(2)(A) Except as provided in subparagraph (B), if the fee for a machine readable combined border crossing card and nonimmigrant visa issued under section 101(a)(15)(B) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(B)\] has been reduced under paragraph (1) for a child under 15 years of age, the machine readable combined border crossing card and nonimmigrant visa shall be issued to expire on the earlier of—
+
+&emsp;“(i) the date on which the child attains the age of 15; or
+
+&emsp;“(ii) ten years after its date of issue.
+
+“(B) At the request of the parent or guardian of any alien under 15 years of age otherwise covered by subparagraph (A), the Secretary of State and the Attorney General may charge the non-reduced fee for the processing of an application for the issuance of a machine readable combined border crossing card and nonimmigrant visa under section 101(a)(15)(B) of the Immigration and Nationality Act provided that the machine readable combined border crossing card and nonimmigrant visa is issued to expire as of the same date as is usually provided for visas issued under that section.
+
+“(3) Notwithstanding any other provision of law, the Secretary of State shall set the amount of the fee or surcharge authorized pursuant to section 140(a) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236; 8 U.S.C. 1351 note \[set out below\]) for the processing of machine readable nonimmigrant visas and machine readable combined border crossing cards and nonimmigrant visas at a level that will ensure the full recovery by the Department of State of the costs of processing such machine readable nonimmigrant visas and machine readable combined border crossing cards and nonimmigrant visas, including the costs of processing the machine readable combined border crossing cards and nonimmigrant visas for which the fee is reduced pursuant to this subsection.”
+
+\[Pub. L. 106–113, div. B, §1000(a)(1) \[title IV, §404\], Nov. 29, 1999, 113 Stat. 1535, 1501A–45, provided that: “Beginning in fiscal year 2000 and thereafter, section 410(a) of the Department of State and Related Agencies Appropriations Act, 1999, as included in Public Law 105–277 \[set out above\], shall be in effect.”\]
+
+Pub. L. 103–236, title I, §140(a), Apr. 30, 1994, 108 Stat. 399, as amended by Pub. L. 103–415, §1(bb), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §231\], Nov. 29, 1999, 113 Stat. 1536, 1501A–425, provided that:
 
 “(1) Notwithstanding any other provision of law, the Secretary of State is authorized to charge a fee or surcharge for processing machine readable nonimmigrant visas and machine readable combined border crossing identification cards and nonimmigrant visas.
 
 “(2) Fees collected under the authority of paragraph (1) shall be deposited as an offsetting collection to any Department of State appropriation, to recover the costs of providing consular services. Such fees shall remain available for obligation until expended.
 
-“(3) For fiscal years 1994 and 1995, fees deposited under the authority of paragraph (2) may not exceed a total of $107,500,000. For subsequent fiscal years, fees may be collected under the authority of paragraph (1) only in such amounts as shall be prescribed in subsequent authorization Acts.
-
-“(4) The provisions of the Act of August 18, 1856 (Revised Statutes 1726–28; 22 U.S.C. 4212–14), concerning accounting for consular fees shall not apply to fees collected under this subsection.
-
-“(5) No fee or surcharge authorized under paragraph (1) may be charged to a citizen of a country that is a signatory as of the date of enactment of this Act \[Apr. 30, 1994\] to the North American Free Trade Agreement, except that the Secretary of State may charge such fee or surcharge to a citizen of such a country if the Secretary determines that such country charges a visa application or issuance fee to citizens of the United States.”
+“(3) For each of the fiscal years 2000, 2001, and 2002, any amount collected under paragraph (1) that exceeds $316,715,000 for fiscal year 2000, $316,715,000 for fiscal year 2001, and $316,715,000 for fiscal year 2002 may be made available only if a notification is submitted to Congress in accordance with the procedures applicable to reprogramming notifications under section 34 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 2706\]. For subsequent fiscal years, fees may be collected under the authority of paragraph (1) only in such amounts as shall be prescribed in subsequent authorization Acts.”
 
 Provisions directing the continuing effect for specific periods of authorities provided under section 140(a) of Pub. L. 103–236, set out above, were contained in the following appropriation acts:
 

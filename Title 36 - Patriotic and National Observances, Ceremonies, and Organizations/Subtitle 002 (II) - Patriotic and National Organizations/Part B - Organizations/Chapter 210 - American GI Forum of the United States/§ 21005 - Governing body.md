@@ -34,9 +34,13 @@ Aug. 13, 1998, Pub. L. 105–231, §§6, 7, 8(g) (related to directors and offic
 
 36 App.:5907.
 
+&nbsp;
+
 21005(c)
 
 36 App.:5908(g) (related to directors and officers).
+
+&nbsp;
 
 In subsections (a) and (b), the words “Except as provided in section 5908(g) of this title” and “and in conformity with the laws of the State of Texas” are omitted as unnecessary.
 

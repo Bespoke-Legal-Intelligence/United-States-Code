@@ -87,7 +87,7 @@ Except as provided in section 4263(a), the taxes imposed by this section shall b
 
 #### (2) Amounts paid outside the United States
 
-&emsp;In the case of amounts paid outside the United States for taxable transportation, the taxes imposed by subsections (a) and (b) shall apply only if such transportation begins and ends in the United States.
+&emsp;In the case of amounts paid outside the United States for taxable transportation, thetaxes imposed by subsections (a) and (b) shall apply only if such transportation begins and ends in the United States.
 
 #### (3) Amounts paid for right to award free or reduced rate air transportation
 
@@ -175,11 +175,11 @@ No tax shall be imposed by this section or section 4271 on any air transportatio
 
 &emsp;If, as of the date any transportation begins, the taxes imposed by this section would not have applied to such transportation if paid for on such date, any tax paid under paragraph (1)(B) with respect to such transportation shall be treated as an overpayment.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 506; July 25, 1956, ch. 725, §§1, 4(b), 70 Stat. 644, 646; Pub. L. 86–75, §4, June 30, 1959, 73 Stat. 158; Pub. L. 86–564, title II, §202(a)(3), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(3), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §5(a), (b), June 28, 1962, 76 Stat. 115; Pub. L. 88–52, §3(a)(3), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(3), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title III, §303(a), June 21, 1965, 79 Stat. 148; Pub. L. 91–258, title II, §203(a), May 21, 1970, 84 Stat. 238; Pub. L. 94–455, title XIX, §1904(a)(7), Oct. 4, 1976, 90 Stat. 1812; Pub. L. 96–298, §1(b), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, §280(a), Sept. 3, 1982, 96 Stat. 564; Pub. L. 98–369, div. A, title X, §1018(b), July 18, 1984, 98 Stat. 1021; Pub. L. 99–514, title XVIII, §1878(c)(2), Oct. 22, 1986, 100 Stat. 2903; Pub. L. 100–223, title IV, §§402(a)(1), 404(a), (c), Dec. 30, 1987, 101 Stat. 1532, 1533; Pub. L. 101–239, title VII, §7503(a), Dec. 19, 1989, 103 Stat. 2362; Pub. L. 101–508, title XI, §11213(a)(1), (d)(1), Nov. 5, 1990, 104 Stat. 1388–432, 1388–435; Pub. L. 103–272, §5(g)(2), July 5, 1994, 108 Stat. 1374; Pub. L. 104–188, title I, §1609(b), (d), (e), Aug. 20, 1996, 110 Stat. 1841, 1842; Pub. L. 105–2, §2(b)(1), Feb. 28, 1997, 111 Stat. 5; Pub. L. 105–34, title X, §1031(b)(1), (c)(1), (2), title XIV, §1435(a), title XVI, §1601(f)(4)(D), Aug. 5, 1997, 111 Stat. 929, 930, 1052, 1091.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 506; July 25, 1956, ch. 725, §§1, 4(b), 70 Stat. 644, 646; Pub. L. 86–75, §4, June 30, 1959, 73 Stat. 158; Pub. L. 86–564, title II, §202(a)(3), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(3), June 30, 1961, 75 Stat. 193; Pub. L.87–508, §5(a), (b), June 28, 1962, 76 Stat. 115; Pub. L. 88–52, §3(a)(3), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(3), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title III, §303(a), June 21, 1965, 79 Stat. 148; Pub. L. 91–258, title II, §203(a), May 21, 1970, 84 Stat. 238; Pub. L. 94–455, title XIX, §1904(a)(7), Oct. 4, 1976, 90 Stat. 1812; Pub. L. 96–298, §1(b), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, §280(a), Sept. 3, 1982, 96 Stat. 564; Pub. L. 98–369, div. A, title X, §1018(b), July 18, 1984, 98 Stat. 1021; Pub. L. 99–514, title XVIII, §1878(c)(2), Oct. 22, 1986, 100 Stat. 2903; Pub. L. 100–223, title IV, §§402(a)(1), 404(a), (c), Dec. 30, 1987, 101 Stat. 1532, 1533; Pub. L. 101–239, title VII, §7503(a), Dec. 19, 1989, 103 Stat. 2362; Pub. L. 101–508, title XI, §11213(a)(1), (d)(1), Nov. 5, 1990, 104 Stat. 1388–432, 1388–435; Pub. L. 103–272, §5(g)(2), July 5, 1994, 108 Stat. 1374; Pub. L. 104–188, title I, §1609(b), (d), (e), Aug. 20, 1996, 110 Stat. 1841, 1842; Pub. L. 105–2, §2(b)(1), Feb. 28, 1997, 111 Stat. 5; Pub. L. 105–34, title X, §1031(b)(1), (c)(1), (2), title XIV, §1435(a), title XVI, §1601(f)(4)(D), Aug. 5, 1997, 111 Stat. 929, 930, 1052, 1091.)
 
-#### Adjustment of Passenger Air Transportation Excise Tax for Calendar Year 1999
+#### Adjustment of Passenger Air Transportation Excise Tax for Calendar Year 2000
 
-<i>For adjustment of passenger air transportation excise tax under subsec. (c) of this section for calendar year 1999, see section 3.19 of Revenue Procedure 98–61, set out as a note under section 1 of this title.</i>
+<i>For adjustment of passenger air transportation excise tax under subsec. (c) of this section for calendar year 2000, see section 3.20 of Revenue Procedure 99–42, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -341,7 +341,7 @@ Exception for certain payments.—Except as provided in subparagraph (C), the am
 
 “(C)
 
-Payments of property transportation tax within controlled group.—In the case of the tax imposed by section 4271 of the Internal Revenue Code of 1986, subparagraph (B) shall not apply to any amount paid by 1 member of a controlled group for transportation furnished by another member of such group. For purposes of the preceding sentence, all persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986 shall be treated as members of a controlled group.”
+Payments of property transportation tax within controlled group.—In the case of the tax imposed by section 4271 of the Internal Revenue Code of 1986, subparagraph (B) shall not apply to any amountpaid by 1 member of a controlled group for transportation furnished by another member of such group. For purposes of the preceding sentence, all persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986 shall be treated as members of a controlled group.”
 
 #### Effective Date of 1996 Amendment
 
@@ -393,7 +393,7 @@ Section 6 of act July 25, 1956, provided that: “The amendments made by this Ac
 
 #### Delayed Deposits of Airport Trust Fund Tax Revenues
 
-Due date for deposits of taxes imposed by this section which would be required to be made after Aug. 14, 1997, and before Oct. 1, 1997, to be Oct. 10, 1997, and due date for deposits of taxes imposed by this section which would be required to be made after Aug. 14, 1998, and before Oct. 1, 1998, to be Oct. 5, 1998, see section 1031(g)of Pub. L. 105–34, set out as a note under section 6302 of this title.
+Due date for deposits of taxes imposed by this section which would be required to be made after Aug. 14, 1997, and before Oct. 1, 1997, to be Oct. 10, 1997, and due date for deposits of taxes imposed by this section which would be required to be made after Aug. 14, 1998, and before Oct. 1, 1998, to be Oct. 5, 1998, see section 1031(g) of Pub. L. 105–34, set out as a note under section 6302 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

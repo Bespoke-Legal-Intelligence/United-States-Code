@@ -26,7 +26,7 @@ The President may provide debt relief under subsection (a) of this section only 
 
 #### (c) Appropriations action required
 
-The aggregate amount of principal and interest waived under this section may not exceed the amount approved for such purpose in an Act appropriating funds to carry out this chapter.
+The aggregate amount of principal and interest waived under this section may not exceedthe amount approved for such purpose in an Act appropriating funds to carry out this chapter.
 
 #### (d) Limitation on new credit assistance
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Agriculture, in consultation with FoodAssistance Policy Council and Department of the Treasury, by section 4(d) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
+Functions of President under this section delegated to Secretary of Agriculture, in consultation with Food Assistance Policy Council and Department of the Treasury, by section 4(d) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
 
 #### Renegotiation of Payment Terms of Loans for Sale of Agricultural Commodities
 

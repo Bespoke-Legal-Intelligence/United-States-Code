@@ -90,7 +90,7 @@ A State which has adopted the certification program may use accreditation organi
 
 #### (3) Results
 
-&emsp;The specific findings, including deficiencies, identified in an inspection carried out under paragraph (1) and any subsequent corrections to those deficiencies shall be announced and made available to the public upon request beginning no later than 60 days after the date of the inspection.
+&emsp;The specific findings, including deficiencies, identified in an inspection carried out under paragraph (1) and any subsequent correctionsto those deficiencies shall be announced and made available to the public upon request beginning no later than 60 days after the date of the inspection.
 
 #### (h) Validation inspections
 

@@ -91,5 +91,5 @@ Reserve cities unaffected by organization of reserve districts and Federal reser
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 377, 481 of this title.
+This section is referred to in section 481 of this title.
 

@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A merger transaction may be approved pursuant to paragraph (1) before June 1, 1997,if the home State of each bank involved in the transaction has in effect, as of the date of the approval of such transaction, a law that—
+&emsp;&emsp;A merger transaction may be approved pursuant to paragraph (1) before June 1, 1997, if the home State of each bank involved in the transaction has in effect, as of the date of the approval of such transaction, a law that—
 
 &emsp;&emsp;&emsp;(i) applies equally to all out-of-State banks; and
 
@@ -72,7 +72,7 @@
 
 &emsp;&emsp;Any bank which files an application for an interstate merger transaction shall—
 
-&emsp;&emsp;&emsp;(i) comply with the filing requirements of any host State of the bank which will result from such transaction to the extent that the requirement—
+&emsp;&emsp;&emsp;(i) comply with the filing requirements of any host State of the bank which willresult from such transaction to the extent that the requirement—
 
 &emsp;&emsp;&emsp;&emsp;(I) does not have the effect of discriminating against out-of-State banks or out-of-State bank holding companies or subsidiaries of such banks or bank holding companies; and
 
@@ -100,7 +100,7 @@
 
 #### (C) Effectiveness of State deposit caps
 
-&emsp;&emsp;No provision of this subsection shall be construed as affecting the authority of any State to limit, by statute, regulation, ororder, the percentage of the total amount of deposits of insured depository institutions in the State which may be held or controlled by any bank or bank holding company (including all insured depository institutions which are affiliates of the bank or bank holding company) to the extent the application of such limitation does not discriminate against out-of-State banks, out-of-State bank holding companies, or subsidiaries of such banks or holding companies.
+&emsp;&emsp;No provision of this subsection shall be construed as affecting the authority of any State to limit, by statute, regulation, or order, the percentage of the total amount of deposits of insured depository institutions in the State which may be held or controlled by any bank or bank holding company (including all insured depository institutions which are affiliates of the bank or bank holding company) to the extent the application of such limitation does not discriminate against out-of-State banks, out-of-State bank holding companies, or subsidiaries of such banks or holding companies.
 
 #### (D) Exceptions to subparagraph (B)
 
@@ -176,7 +176,7 @@
 
 #### (1) Continued operations
 
-&emsp;A resulting bank may, subject to the approval of the appropriate Federal bankingagency, retain and operate, as a main office or a branch, any office that any bank involved in an interstate merger transaction was operating as a main office or a branch immediately before the merger transaction.
+&emsp;A resulting bank may, subject to the approval of the appropriate Federal banking agency, retain and operate, as a main office or a branch, any office that any bank involved in an interstate merger transaction was operating as a main office or a branch immediately before the merger transaction.
 
 #### (2) Additional branches
 
@@ -196,7 +196,25 @@
 
 If an application under subsection (a)(1) of this section for approval of a merger transaction which involves 1 or more banks in default or in danger of default or with respect to which the Corporation provides assistance under section 1823(c) of this title, the responsible agency may approve such application without regard to subsection (b) of this section, or paragraph (2), (4), or (5) of subsection (a) of this section.
 
-#### (f) Definitions
+#### (f) Applicable rate and other charge limitations
+
+#### (1) In general
+
+&emsp;In the case of any State that has a constitutional provision that sets a maximum lawful annual percentage rate of interest on any contract at not more than 5 percent above the discount rate for 90-day commercial paper in effect at the Federal reserve bank for the Federal reserve district in which such State is located, except as provided in paragraph (2), upon the establishment in such State of a branch of any out-of-State insured depository institution in such State under this section, the maximum interest rate or amount of interest, discount points, finance charges, or other similar charges that may be charged, taken, received, or reserved from time to time in any loan or discount made or upon any note, bill of exchange, financing transaction, or other evidence of debt by any insured depository institution whose home State is such State shall be equal to not more than the greater of—
+
+&emsp;&emsp;(A) the maximum interest rate or amount of interest, discount points, finance charges, or other similar charges that may be charged, taken, received, or reserved in a similar transaction under the constitution or any statute or other law of the home State of the out-of-State insured depository institution establishing any such branch, without reference to this section, as such maximum interest rate or amount of interest may change from time to time; or
+
+&emsp;&emsp;(B) the maximum rate or amount of interest, discount points, finance charges, or other similar charges that may be charged, taken, received, or reserved in a similar transaction by a State insured depository institution chartered under the laws of such State or a national bank or Federal savings association whose main office is located in such State without reference to this section.
+
+#### (2) Rule of construction
+
+&emsp;No provision of this subsection shall be construed as superseding or affecting—
+
+&emsp;&emsp;(A) the authority of any insured depository institution to take, receive, reserve, and charge interest on any loan made in any State other than the State referred to in paragraph (1); or
+
+&emsp;&emsp;(B) the applicability of section 1735f–7a of this title, section 85 of this title, or section 1831d of this title.
+
+#### (g) Definitions
 
 For purposes of this section, the following definitions shall apply:
 
@@ -256,7 +274,11 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The term “resulting bank” means a bank that has resulted from an interstate merger transaction under this section.
 
-(Sept. 21, 1950, ch. 967, §2\[44\], as added Pub. L. 103–328, title I, §102(a), Sept. 29, 1994, 108 Stat. 2343.)
+(Sept. 21, 1950, ch. 967, §2\[44\], as added Pub. L. 103–328, title I, §102(a), Sept. 29, 1994, 108 Stat. 2343; amended Pub. L. 106–102, title VII, §731, Nov. 12, 1999, 113 Stat. 1477.)
+
+#### Amendments
+
+1999—Subsecs. (f), (g). Pub. L. 106–102 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 #### Section Referred to in Other Sections
 

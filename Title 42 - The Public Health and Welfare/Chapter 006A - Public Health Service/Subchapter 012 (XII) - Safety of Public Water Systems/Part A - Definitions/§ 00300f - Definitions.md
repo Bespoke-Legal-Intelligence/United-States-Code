@@ -50,7 +50,7 @@ Irrigation districts.—An irrigation district in existence prior to May 18, 199
 
 &emsp;&emsp;(C)
 
-Transition period.—A water supplier that would be a public water system only as a result of modifications made to this paragraph by the Safe Drinking Water Act Amendments of 1996 shall not be considered a public water system for purposes of the Act until the date that is two years after August 6, 1996. If a water supplier does not serve 15 service connections (as defined in subparagraphs (A) and (B)) or 25 people at any time after the conclusion of the 2-year period, the water supplier shall not be considered a public water system.
+Transition period.—A water supplier that would be a public water system only as a result of modifications made to this paragraph by the Safe Drinking Water Act Amendments of 1996 shall not be considereda public water system for purposes of the Act until the date that is two years after August 6, 1996. If a water supplier does not serve 15 service connections (as defined in subparagraphs (A) and (B)) or 25 people at any time after the conclusion of the 2-year period, the water supplier shall not be considered a public water system.
 
 &emsp;(5) The term “supplier of water” means any person who owns or operates a public water system.
 
@@ -174,7 +174,7 @@ Section 3 of Pub. L. 104–182 provided that: “The Congress finds that—
 
 Section 101(b)(2) of Pub. L. 104–182 provided that: “The Comptroller General of the United States shall undertake a study to—
 
-&emsp;“(A) ascertain the numbers and locations of individuals and households relying for their residential water needs, including drinking, bathing, and cooking (or other similar uses) on irrigation water systems, mining water systems, industrial water systems, or other water systems covered by section 1401(4)(B) of the Safe Drinking Water Act \[par. (4)(B)of this section\] that are not public water systems subject to the Safe Drinking Water Act \[this subchapter\];
+&emsp;“(A) ascertain the numbers and locations of individuals and households relying for their residential water needs, including drinking, bathing, and cooking (or other similar uses) on irrigation water systems, mining water systems, industrial water systems, or other water systems covered by section 1401(4)(B) of the Safe Drinking Water Act \[par. (4)(B) of this section\] that are not public water systems subject to the Safe Drinking Water Act \[this subchapter\];
 
 &emsp;“(B) determine the sources and costs and affordability (to users and systems) of water used by such populations for their residential water needs; and
 

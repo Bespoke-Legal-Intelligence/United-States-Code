@@ -100,7 +100,7 @@ Except as otherwise provided, for purposes of this subchapter—
 
 &emsp;&emsp;(A) utilizes specially designed English language curricula and services but does not use the student's native language for instructional purposes;
 
-&emsp;&emsp;(B) enables limited English proficient students to achieve English proficiency and academic mastery of subject matter content and higher order skills, including critical thinking so as to meet age-appropriate grade-promotion and graduation standards in concert with the National Education Goals; and
+&emsp;&emsp;(B) enables limited English proficient students to achieve English proficiency and academic mastery of subject matter content and higher order skills, including critical thinking so as to meet age-appropriate grade-promotion and graduation standardsin concert with the National Education Goals; and
 
 &emsp;&emsp;(C) is particularly appropriate for schools where the diversity of the limited English proficient students’ native languages and the small number of students speaking each respective language makes bilingual education impractical and where there is a critical shortage of bilingual education teachers.
 

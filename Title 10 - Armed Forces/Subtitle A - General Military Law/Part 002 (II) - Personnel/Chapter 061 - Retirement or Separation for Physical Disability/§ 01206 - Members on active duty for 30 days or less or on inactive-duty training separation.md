@@ -1,26 +1,36 @@
 ### §1206. Members on active duty for 30 days or less or on inactive-duty training: separation
 
-Upon a determination by the Secretary concerned that a member of the armed forces not covered by section 1201, 1202, or 1203 of this title is unfit to perform the duties of his office, grade, rank, or rating because of physical disability, the member may be separated from his armed force, with severance pay computed under section 1212 of this title, if the Secretary also determines that—
+Upon a determination by the Secretary concerned that a member of the armed forces not covered by section 1201, 1202, or 1203 of this title is unfit to perform the duties of his office, grade,rank, or rating because of physical disability, the member may be separated from his armed force, with severance pay computed under section 1212 of this title, if the Secretary also determines that—
 
 &emsp;(1) the member has less than 20 years of service computed under section 1208 of this title;
 
-&emsp;(2) the disability is a result of an injury, illness, or disease incurred or aggravated in line of duty while—
+&emsp;(2) the disability is a result of an injury, illness, or disease incurred or aggravated in line of duty—
 
-&emsp;&emsp;(A) performing active duty or inactive-duty training;
+&emsp;&emsp;(A) while—
 
-&emsp;&emsp;(B) traveling directly to or from the place at which such duty is performed; or
+&emsp;&emsp;&emsp;(i) performing active duty or inactive-duty training;
 
-&emsp;&emsp;(C) while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance of the member's residence;
+&emsp;&emsp;&emsp;(ii) traveling directly to or from the place at which such duty is performed; or
+
+&emsp;&emsp;&emsp;(iii) remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance of the member's residence; or
+
+&emsp;&emsp;(B) while the member—
+
+&emsp;&emsp;&emsp;(i) was serving on funeral honors duty under section 12503 of this title or section 115 of title 32;
+
+&emsp;&emsp;&emsp;(ii) was traveling to or from the place at which the member was to so serve; or
+
+&emsp;&emsp;&emsp;(iii) remained overnight at or in the vicinity of that place immediately before so serving, if the place is outside reasonable commuting distance from the member's residence;
 
 &emsp;(3) the disability is not the result of the member's intentional misconduct or willful neglect, and was not incurred during a period of unauthorized absence;
 
 &emsp;(4) based upon accepted medical principles, the disability is or may be of a permanent nature; and
 
-&emsp;(5) the disability is less than 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, and was the proximate result of performing active duty or inactive-duty training or of traveling directly to or from the place at which such duty is performed.
+&emsp;(5) the disability is less than 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, and, in the case of a disability incurred before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2000, was the proximate result of performing active duty or inactive-duty training or of traveling directly to or from the place at which such duty is performed.
 
 > However, if the member is eligible for transfer to the inactive status list under section 1209 of this title, and so elects, he shall be transferred to that list instead of being separated.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 94; Pub. L. 99–661, div. A, title VI, §604(d)(1), (3), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 102–484, div. A, title V, §516(a), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 105–85, div. A, title V, §513(c)(2), (d)(2), Nov. 18, 1997, 111 Stat. 1731.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 94; Pub. L. 99–661, div. A, title VI, §604(d)(1), (3), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 102–484, div. A, title V, §516(a), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 105–85, div. A, title V, §513(c)(2), (d)(2), Nov. 18, 1997, 111 Stat. 1731; Pub. L. 106–65, div. A, title V, §578(i)(4), title VI, §653(c), Oct. 5, 1999, 113 Stat. 629, 667.)
 
 Historical and Revision Notes
 
@@ -42,7 +52,21 @@ Clause (1) is inserted for clarity, since a member who had over 20 years of serv
 
 The last sentence of the revised section, relating to transfer to the inactive status list, is inserted for clarity because of section 1209 of this title.
 
+#### References in Text
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2000, referred to in par. (5), is the date of enactment of Pub. L. 106–65, which was approved Oct. 5, 1999.
+
 #### Amendments
+
+1999—Par. (2). Pub. L. 106–65, §578(i)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the disability is a result of an injury, illness, or disease incurred or aggravated in line of duty while—
+
+&emsp;“(A) performing active duty or inactive-duty training;
+
+&emsp;“(B) traveling directly to or from the place at which such duty is performed; or
+
+&emsp;“(C) while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance of the member's residence;”.
+
+Par. (5). Pub. L. 106–65, §653(c), inserted “, in the case of a disability incurred before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2000,” after “determination, and”.
 
 1997—Pub. L. 105–85, §513(d)(2), amended section catchline generally, inserting “or on inactive-duty training” after “30 days or less”.
 
@@ -60,7 +84,7 @@ Amendment by Pub. L. 102–484 effective with respect to disabilities incurred o
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
+Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravatean injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
 
 #### Cross References
 

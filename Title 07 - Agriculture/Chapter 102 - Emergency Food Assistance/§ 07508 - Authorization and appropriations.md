@@ -66,7 +66,7 @@ Amendment by section 1772(c) of Pub. L. 101–624 effective Oct. 1, 1990, and am
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 103(a)–(c) of Pub. L. 100–435 to be effective and implemented on Sept. 19, 1988, andamendment by section 105(a) of Pub. L. 100–435 to be effective and implemented on Oct. 1, 1988, see section 701(a), (b)(1) of Pub. L. 100–435, set out as a note under section 2012 of this title.
+Amendment by section 103(a)–(c) of Pub. L. 100–435 to be effective and implemented on Sept. 19, 1988, and amendment by section 105(a) of Pub. L. 100–435 to be effective and implemented on Oct. 1, 1988, see section 701(a), (b)(1) of Pub. L. 100–435, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1983 Amendment
 

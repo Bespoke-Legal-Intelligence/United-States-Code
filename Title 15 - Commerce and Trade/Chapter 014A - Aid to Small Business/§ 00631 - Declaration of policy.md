@@ -78,7 +78,7 @@ Further, it is the declared policy of the Congress that the Government should ai
 
 &emsp;(B) promote the competitive viability of such concerns in the marketplace by providing such available contract, financial, technical, and mangement <sup>3</sup> assistance as may be necessary; and
 
-&emsp;(C) clarify and expand the program for the procurement by the United States of articles, supplies, services, materials, and construction work from small business concerns owned by socially and economically disadvantaged individuals.
+&emsp;(C) clarify and expand the program for the procurement by the United States of articles,supplies, services, materials, and construction work from small business concerns owned by socially and economically disadvantaged individuals.
 
 #### (g) Assistance to disaster victims under disaster loan program
 
@@ -186,7 +186,7 @@ Subsec. (b). Pub. L. 87–70 included small-business concerns which are displace
 
 #### Effective Date of 1997 Amendment
 
-Section 3 of Pub. L. 105–135 provided that: “This Act \[see Short Title of 1997 Amendment note below\] and theamendments made by this Act shall take effect on October 1, 1997.”
+Section 3 of Pub. L. 105–135 provided that: “This Act \[see Short Title of 1997 Amendment note below\] and the amendments made by this Act shall take effect on October 1, 1997.”
 
 #### Effective Date of 1989 Amendment
 
@@ -256,6 +256,18 @@ Section 1918 of Pub. L. 97–35 provided that: “Sections 1908, 1909, and 1913 
 
 Section 507 of Pub. L. 96–302 provided that: “This Act \[enacting sections 631a, 631b, 648, and 697 of this title, amending this section, sections 632, 633, 634, 634d, 636, 637, 644, 647, 694–2, 694b, and 694c of this title, section 5315 of Title 5, Government Organization and Employees, and sections 1961 and 1964 of Title 7, Agriculture, enacting provisions set out as notes under this section and sections 636, 637, and 648 of this title, and amending provisions set out as a note under this section\] shall take effect October 1, 1980.”
 
+#### Short Title of 1999 Amendments
+
+Pub. L. 106–165, §1, Dec. 9, 1999, 113 Stat. 1795, provided that: “This Act \[amending section 656 of this title and enacting provisions set out as notes under section 656 of this title\] may be cited as the ‘Women's Business Centers Sustainability Act of 1999’.”
+
+Pub. L. 106–50, §1, Aug. 17, 1999, 113 Stat. 233, provided that: “This Act \[enacting sections 657b and 657c of this title, amending sections 631b, 632, 633, 634b, 636, 637, 644, and 695 of this title, enacting provisions set out as notes under sections 633, 636, 637, 657b, and 657c of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Veterans Entrepreneurship and Small Business Development Act of 1999’.”
+
+Pub. L. 106–22, §1, Apr. 27, 1999, 113 Stat. 36, provided that: “This Act \[amending section 636 of this title\] may be cited as the ‘Microloan Program Technical Corrections Act of 1999’.”
+
+Pub. L. 106–17, §1, Apr. 6, 1999, 113 Stat. 27, provided that: “This Act \[amending section 656 of this title and enacting provisions set out as a note under section 656 of this title\] may be cited as the ‘Women's Business Center Amendments Act of 1999’.”
+
+Pub. L. 106–8, §1, Apr. 2, 1999, 113 Stat. 13, provided that: “This Act \[amending section 636 of this title, enacting provisions set out as notes under section 636 of this title, and repealing provisions set out as a note under section 636 of this title\] may be cited as the ‘Small Business Year 2000 Readiness Act’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–277, div. C, title IX, §901, Oct. 21, 1998, 112 Stat. 2681–707, provided that: “This title \[enacting section 654 of this title, amending section 648 of this title, and enacting provisions set out as notes under section 654 of this title\] may be cited as the ‘Drug-Free Workplace Act of 1998’.”
@@ -264,7 +276,7 @@ Pub. L. 105–277, div. C, title IX, §901, Oct. 21, 1998, 112 Stat. 2681–707,
 
 Section 1(a) of Pub. L. 105–135 provided that: “This Act \[enacting section 657a of this title, amending this section, sections 631b, 632, 636, 637, 638, 644, 645, 648, 656, 662, 681 to 683, 687b, 687m, 694b, 696, 697, and 697e of this title, section 2323 of Title 10, Armed Forces, section 1441a of Title 12, Banks and Banking, sections 3718, 6701, and 7505 of Title 31, Money and Finance, sections 405 and 417a of Title 41, Public Contracts, section 13556 of Title 42, The Public Health and Welfare, and sections 47107 and 47113 of Title 49, Transportation, enacting provisions set out as notes under this section, sections 632 to 634, 636, 637, 638, 656, 657a, and 697e of this title, and section 405 of Title 41, and amending provisions set out as notes under this section and sections 637, 644, 694b, and 697e of this title\] may be cited as the ‘Small Business Reauthorization Act of 1997’.”
 
-Section 601 of title VI of Pub. L. 105–135 provided that: “This title \[enacting section 657a of this title, amending sections 631b, 632, 637, 644, 645, and 694b of thistitle, section 2323 of Title 10, Armed Forces, section 1441a of Title 12, Banks and Banking, sections 3718, 6701, and 7505 of Title 31, Money and Finance, sections 405 and 417a of Title 41, Public Contracts, section 13556 of Title 42, The Public Health and Welfare, and sections 47107 and 47113 of Title 49, Transportation, enacting provisions set out as notes under this section and sections 632 and 657a of this title, and amending provisions set out as notes under this section\] may be cited as the ‘HUBZone Act of 1997’.”
+Section 601 of title VI of Pub. L. 105–135 provided that: “This title \[enacting section 657a of this title, amending sections 631b, 632, 637, 644, 645, and 694b of this title, section 2323 of Title 10, Armed Forces, section 1441a of Title 12, Banks and Banking, sections 3718, 6701, and 7505 of Title 31, Money and Finance, sections 405 and 417a of Title 41, Public Contracts, section 13556 of Title 42, The Public Health and Welfare, and sections 47107 and 47113 of Title 49, Transportation, enacting provisions set out as notes under this section and sections 632 and 657a of this title, and amending provisions set out as notes under this section\] may be cited as the ‘HUBZone Act of 1997’.”
 
 #### Short Title of 1996 Amendment
 
@@ -368,7 +380,7 @@ Section 2\[1\] of Pub. L. 85–536 provided that this chapter should be known as
 
 #### Repeal of Inconsistent Laws
 
-Section 2\[32\], formerly section 2\[21\], of Pub. L. 85–536, renumbered §2\[30\] by Pub. L. 96–302, title II, §202, July 2, 1980, 94 Stat. 843; renumbered §2\[31\] by Pub. L. 104–121, title II, §222(1), Mar. 29, 1996, 110 Stat. 860; renumbered §2\[32\] by Pub. L. 105–135, title VI, §602(b)(1)(A), Dec. 2, 1997, 111 Stat. 2629, provided that: “All laws and parts of laws inconsistent with this Act \[this chapter\] are hereby repealed to the extent of such inconsistency.”
+Section 2\[34\], formerly section 2\[21\], of Pub. L. 85–536, renumbered §2\[30\] by Pub. L. 96–302, title II, §202, July 2, 1980, 94 Stat. 843; renumbered §2\[31\] by Pub. L. 104–121, title II, §222(1), Mar. 29, 1996, 110 Stat. 860; renumbered §2\[32\] by Pub. L. 105–135, title VI, §602(b)(1)(A), Dec. 2, 1997, 111 Stat. 2629; renumbered §2\[34\] by Pub. L. 106–50, title II, §201(b)(1), Aug. 17, 1999, 113 Stat. 235, provided that: “All laws and parts of laws inconsistent with this Act \[this chapter\] are hereby repealed to the extent of such inconsistency.”
 
 #### Regulations
 
@@ -382,7 +394,7 @@ Proposed Regulations.—Proposed amendments to the Federal Acquisition Regulatio
 
 Final Regulations.—Final regulations shall be published not later than 270 days after the date of enactment of this Act. The effective date for such final regulations shall be not less than 30 days after the date of publication.”
 
-Section 136 of title I of Pub. L. 100–590 provided that: “Notwithstanding any law, rule or regulation, theSmall Business Administration shall promulgate final regulations to be effective on publication to carry out the provisions of this title \[see Effective Date of 1988 Amendments note above\] within six months after the date of enactment \[Nov. 3, 1988\].”
+Section 136 of title I of Pub. L. 100–590 provided that: “Notwithstanding any law, rule or regulation, the Small Business Administration shall promulgate final regulations to be effective on publication to carry out the provisions of this title \[see Effective Date of 1988 Amendments note above\] within six months after the date of enactment \[Nov. 3, 1988\].”
 
 Section 8013 of title VIII of Pub. L. 100–418 provided that: “Notwithstanding any law, rule, or regulation, the Small Business Administration shall promulgate final regulations to carry out the provisions of this title \[see Short Title of 1988 Amendments note above\] within six months after the date of enactment of this title \[Aug. 23, 1988\].”
 
@@ -392,7 +404,7 @@ Section 2\[19\] of Pub. L. 85–536 provided that: “If any provision of this A
 
 #### Authorization of Appropriations
 
-Section 2\[20\] of Pub. L. 85–536, as amended by Pub. L. 87–341, §11(h)(2), Oct. 3, 1961, 75 Stat. 757; Pub. L. 95–89, title I, §102, Aug. 4, 1977, 91 Stat. 553; Pub. L. 95–315, §§5, 7, July 4, 1978, 92 Stat. 379; Pub. L. 96–302, title I, §§101, 110, July 2, 1980, 94 Stat. 833, 837; Pub. L. 97–35, title XIX, §§1905, 1906, Aug. 13, 1981, 95 Stat. 772–777; Pub. L. 98–270, title III, §§302, 305, Apr. 18, 1984, 98 Stat. 160, 161; Pub. L. 98–395, §3, Aug. 21, 1984, 98 Stat. 1367; Pub. L. 99–272, title XVIII, §§18001, 18002, 18012, Apr. 7, 1986, 100 Stat. 361, 363, 369; Pub. L. 100–72, §1, July 11, 1987, 101 Stat. 477; Pub. L. 100–418, title VIII, §§8004, 8006(a), Aug. 23, 1988, 102 Stat. 1556, 1557; Pub. L. 100–590, title I, §§101, 135(1), (2), Nov. 3, 1988, 102 Stat. 2990, 3007; Pub. L. 101–574, title I, §§101, 102, Nov. 15, 1990, 104 Stat. 2815, 2817; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–366, title I, §§102, 115(a), title IV, §§405, 414, Sept. 4, 1992, 106 Stat. 987, 993, 1014, 1018; Pub. L. 103–81, §2, Aug. 13, 1993, 107 Stat. 780; Pub. L. 103–282, §1, July 22, 1994, 108 Stat. 1422; Pub. L. 103–403, title I, §101, Oct. 22, 1994, 108 Stat. 4176; Pub. L. 104–208, div. D, title II, §208(i)(2), Sept. 30, 1996, 110 Stat. 3009–747; Pub. L. 105–135, title I, §101, title II, §211, title VI, §607, Dec. 2, 1997, 111 Stat. 2594, 2600, 2635, provided that:
+Section 2\[20\] of Pub. L. 85–536, as amended by Pub. L. 87–341, §11(h)(2), Oct. 3, 1961, 75 Stat. 757; Pub. L. 95–89, title I, §102, Aug. 4, 1977, 91 Stat. 553; Pub. L. 95–315, §§5, 7, July 4, 1978, 92 Stat. 379; Pub. L. 96–302, title I, §§101, 110, July 2, 1980, 94 Stat. 833, 837; Pub. L. 97–35, title XIX, §§1905, 1906, Aug. 13, 1981, 95 Stat. 772–777; Pub. L. 98–270, title III, §§302, 305, Apr. 18, 1984, 98 Stat. 160, 161; Pub. L. 98–395, §3, Aug. 21, 1984, 98 Stat. 1367; Pub. L. 99–272, title XVIII, §§18001, 18002, 18012, Apr. 7, 1986, 100 Stat. 361, 363, 369; Pub. L. 100–72, §1, July 11, 1987, 101 Stat. 477; Pub. L. 100–418, title VIII, §§8004, 8006(a), Aug. 23, 1988, 102 Stat. 1556, 1557; Pub. L. 100–590, title I, §§101, 135(1), (2), Nov. 3, 1988, 102 Stat. 2990, 3007; Pub. L. 101–574, title I, §§101, 102, Nov. 15, 1990, 104 Stat. 2815, 2817; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–366, title I, §§102, 115(a), title IV, §§405, 414, Sept. 4, 1992, 106 Stat. 987, 993, 1014, 1018; Pub. L. 103–81, §2, Aug. 13, 1993, 107 Stat. 780; Pub. L. 103–282, §1, July 22, 1994, 108 Stat. 1422; Pub. L. 103–403, title I, §101, Oct. 22, 1994, 108 Stat. 4176; Pub. L. 104–208, div. D, title II, §208(i)(2), Sept. 30, 1996, 110 Stat. 3009–747; Pub. L. 105–135, title I, §101, title II, §211, title VI, §607, Dec. 2, 1997, 111 Stat. 2594, 2600, 2635; Pub. L. 106–9, §2(b), Apr. 5, 1999, 113 Stat. 17; Pub. L. 106–24, §1(b), Apr. 27, 1999, 113 Stat. 39, provided that:
 
 “(a)(1) For fiscal year 1985 and every year thereafter, there are hereby authorized to be appropriated such sums as may be necessary and appropriate to carry out the provisions and purposes of this Act other than those for which appropriations are specifically authorized. For fiscal year 1986 and every year thereafter, there are hereby authorized to be appropriated such sums as may be necessary and appropriate to be available solely (1) to carry out the provisions and purposes of the Small Business Development Center Program in section 21 \[section 648 of this title\], but not to exceed the level as specified in subsection (a) of such section, (2) to pay the expenses of the National Small Business Development Center Advisory Board as provided in section 21(h) \[section 648(h) of this title\], and (3) to reimburse centers for participation in evaluations as provided in section 21(j) \[section 648(j) of this title\]. All appropriations whether specifically or generally authorized shall remain available until expended.
 
@@ -488,7 +500,7 @@ Program levels.—The following program levels are authorized for fiscal year 19
 
 &emsp;&emsp;“(C) For the programs authorized by title III of the Small Business Investment Act of 1958 \[subchapter III of chapter 14B of this title\], the Administration is authorized to make—
 
-&emsp;&emsp;&emsp;“(i) $800,000,000 in purchases of participating securities; and
+&emsp;&emsp;&emsp;“(i) $1,200,000,000 in purchases of participating securities; and
 
 &emsp;&emsp;&emsp;“(ii) $700,000,000 in guarantees of debentures.
 
@@ -542,11 +554,11 @@ Program levels.—The following program levels are authorized for fiscal year 20
 
 &emsp;&emsp;“(C) For the programs authorized by title III of the Small Business Investment Act of 1958 \[subchapter III of chapter 14B of this title\], the Administration is authorized to make—
 
-&emsp;&emsp;&emsp;“(i) $900,000,000 in purchases of participating securities; and
+&emsp;&emsp;&emsp;“(i) $1,500,000,000 in purchases of participating securities; and
 
 &emsp;&emsp;&emsp;“(ii) $800,000,000 in guarantees of debentures.
 
-&emsp;&emsp;“(D) For the programs authorized by part B of title IV of the Small Business Investment Act of 1958 \[part B of subchapter IV–A of chapter 14B of this title\], the Administration is authorized to enter into guarantees not to exceed $2,000,000,000, ofwhich not more than $650,000,000 may be in bonds approved pursuant to section 411(a)(3) of that Act \[section 694b(a)(3) of this title\].
+&emsp;&emsp;“(D) For the programs authorized by part B of title IV of the Small Business Investment Act of 1958 \[part B of subchapter IV–A of chapter 14B of this title\], the Administration is authorized to enter into guarantees not to exceed $2,000,000,000, of which not more than $650,000,000 may be in bonds approved pursuant to section 411(a)(3) of that Act \[section 694b(a)(3) of this title\].
 
 &emsp;&emsp;“(E) The Administration is authorized to make grants or enter cooperative agreements—
 
@@ -568,7 +580,21 @@ Additional authorizations.—
 
 &emsp;“(3)
 
-HUBZone program.—There are authorized to be appropriated to the Administration to carry out the program under section 31 \[section 657a of this title\], $5,000,000 for fiscal year 2000.”
+HUBZone program.—There are authorized to be appropriated to the Administration to carry out the program under section 31 \[section 657a of this title\], $5,000,000 for fiscal year 2000.
+
+“(f)
+
+Disaster Mitigation Pilot Program.—The following program levels are authorized for loans under section 7(b)(1)(C) \[section 636(b)(1)(C) of this title\]:
+
+&emsp;“(1) $15,000,000 for fiscal year 2000.
+
+&emsp;“(2) $15,000,000 for fiscal year 2001.
+
+&emsp;“(3) $15,000,000 for fiscal year 2002.
+
+&emsp;“(4) $15,000,000 for fiscal year 2003.
+
+&emsp;“(5) $15,000,000 for fiscal year 2004.”
 
 #### Service Disabled Veterans
 
@@ -766,7 +792,7 @@ Detail of Federal Employees.—Upon request by the chairperson of the Interagenc
 
 &emsp;“(2) the findings and conclusions of the Interagency Committee; and
 
-&emsp;“(3) the Interagency Committee's recommendations for such legislation and administrative actions as the Interagency Committee considers appropriate to promote the development of small business concerns owned and controlled by women.
+&emsp;“(3) the Interagency Committee's recommendations for such legislation and administrative actions as theInteragency Committee considers appropriate to promote the development of small business concerns owned and controlled by women.
 
 #### “SEC. 405. ESTABLISHMENT OF THE NATIONAL WOMEN'S BUSINESS COUNCIL.
 
@@ -872,7 +898,7 @@ Reimbursements.—Members of the Council shall serve without pay for such member
 
 “(h)
 
-Executive Director.—Not later than 60 days after the date of enactment of the Small Business Administration Reauthorization Act of 1994 \[Oct. 22, 1994\], the Administrator, in consultation with the chairperson of the Council, shall appoint an executive director of the Council. Upon the recommendation by the executive director, the chairperson of the Council may appoint and fix the pay of 4 additional employees of the Council, at a rate of pay not to exceed the maximum rate of pay payable for a position at GS–15 of the General Schedule. All such appointments shall be subject to the appropriation of funds.
+Executive Director.—Not later than 60 days after the date of enactment of the Small Business Administration Reauthorization Act of 1994 \[Oct. 22, 1994\], the Administrator, in consultation with the chairperson of the Council, shall appoint an executive director of the Council. Upon the recommendation by theexecutive director, the chairperson of the Council may appoint and fix the pay of 4 additional employees of the Council, at a rate of pay not to exceed the maximum rate of pay payable for a position at GS–15 of the General Schedule. All such appointments shall be subject to the appropriation of funds.
 
 “(i)
 
@@ -966,7 +992,7 @@ Budget Review.—No amount made available under this section for any fiscal year
 
 #### Disadvantaged Small Businesses
 
-Section 504 of Pub. L. 100–533 provided that: “Nothing contained in this Act \[see Short Title of 1988 Amendment note above\] is intended to reduce or limit any programs, benefit, or activity that is authorized by law to assist small business concerns owned and controlled by socially and economically disadvantaged individualsas defined pursuant to section 8(d)(3) of the Small Business Act (15 U.S.C. 637(d)(3)).”
+Section 504 of Pub. L. 100–533 provided that: “Nothing contained in this Act \[see Short Title of 1988 Amendment note above\] is intended to reduce or limit any programs, benefit, or activity that is authorized by law to assist small business concerns owned and controlled by socially and economically disadvantaged individuals as defined pursuant to section 8(d)(3) of the Small Business Act (15 U.S.C. 637(d)(3)).”
 
 #### Globalization of Production; Report to Congress
 
@@ -974,7 +1000,7 @@ Section 8009 of Pub. L. 100–418 directed Administrator of Small Business Admin
 
 #### National Seminar on Small Business Exports
 
-Section 8011 of Pub. L. 100–418 directed Small Business Administration to conduct a National Seminar on Small Business Exports within one year after Aug. 23, 1988, in order to develop recommendations designed to stimulate exports from small companies.
+Section 8011 of Pub. L. 100–418 directed Small Business Administration to conduct a National Seminar on Small Business Exports within one year after Aug. 23,1988, in order to develop recommendations designed to stimulate exports from small companies.
 
 #### Appointment of Administrator of Small Business Administration to Trade Policy Committee; Special Trade Assistant for Small Business in Office of United States Trade Representative
 
@@ -1152,7 +1178,7 @@ Other Responsibilities of the Federal Departments and Agencies
 
 1–401. The head of each department and agency shall designate a high level official to have the responsibility for the participation and cooperation of that department or agency in carrying out this Executive order. This person may be the same person who is the department or agency's representative to the Committee.
 
-1–402. To the extent permitted by law, each department and agency upon request by the Chairperson shall furnish information, assistance and reports and otherwise cooperate with the Chairperson and the Committee in the performance of their functions hereunder. Each department or agency shall ensure that systematic data collection processes are capable of providing the Committee current data helpful in evaluating and promoting the efforts herein described.
+1–402. To the extent permitted by law, each department and agency upon request by the Chairperson shallfurnish information, assistance and reports and otherwise cooperate with the Chairperson and the Committee in the performance of their functions hereunder. Each department or agency shall ensure that systematic data collection processes are capable of providing the Committee current data helpful in evaluating and promoting the efforts herein described.
 
 1–403. The officials designated under Section 1–401, when so requested, shall review the policies and programs of the women's business enterprise program, and shall keep the Chairperson informed of proposed budget, plans and programs of their departments or agencies affecting women's business enterprise.
 
@@ -1204,7 +1230,7 @@ Section 1. <i>Minority Business Development Plans</i>. (a) Minority business ent
 
 (e) The Secretary of Commerce shall provide an annual report to the President, through the Cabinet Council on Commerce and Trade, on activities under this Order and agency implementation of minority business development programs.
 
-Sec. 2. <i>Minority Business Development Responsibilities of Federal Agencies</i>. (a) To the extent permitted by lawand consistent with its primary mission, each Federal agency which is required to develop a minority business development plan under Section 1 of this Order shall, to accomplish the objectives set forth in its plan, establish programs concerning provision of direct assistance, procurement assistance, and management and technical assistance to minority business enterprises.
+Sec. 2. <i>Minority Business Development Responsibilities of Federal Agencies</i>. (a) To the extent permitted by law and consistent with its primary mission, each Federal agency which is required to develop a minority business development plan under Section 1 of this Order shall, to accomplish the objectives set forth in its plan, establish programs concerning provision of direct assistance, procurement assistance, and management and technical assistance to minority business enterprises.
 
 (b) Each Federal agency shall, to the extent permitted by law and consistent with its primary mission, establish minority business development programs, consistent with Section 211 of Public Law 95–507 \[amending 15 U.S.C. 637(d)\] to develop and implement incentive techniques to encourage greater minority business subcontracting by Federal prime contractors.
 
@@ -1218,7 +1244,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12523, June 27, 1985, 50 F.R. 26963, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, and in order to implement the White House Conference on Small Business Authorization Act (Public Law 98–276) \[set out above\] it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, and in order to implement the White House Conferenceon Small Business Authorization Act (Public Law 98–276) \[set out above\] it is hereby ordered as follows:
 
 Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act \[5 U.S.C. App.\] applicable to the White House Conference on Small Business Authorization Act, except that of reporting annually to the Congress, shall be performed by the Administrator of the Small Business Administration in accordance with the guidelines and procedures established by the Administrator of General Services.
 

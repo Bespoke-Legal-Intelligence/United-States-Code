@@ -10,7 +10,7 @@ As used in this subchapter, the term—
 
 &emsp;(4) “Indian tribe” or “tribe” means an Indian tribe, band, nation, or other organized group or community, including a Native village, Regional Corporation or Village Corporation, as those terms are defined in section 1602 of title 43, which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-&emsp;(5) “Historic property” or “historic resource” means any prehistoric or historic district, site, building, structure, or object included in, or eligible for inclusion on the National Register, including artifacts, records, and material remains related to such a property or resource.
+&emsp;(5) “Historic property” or “historic resource” means any prehistoric or historic district, site, building, structure, or object included in, or eligible for inclusion on the National Register, including artifacts, records,and material remains related to such a property or resource.
 
 &emsp;(6) “National Register” or “Register” means the National Register of Historic Places established under section 470a of this title.
 
@@ -84,7 +84,7 @@ As used in this subchapter, the term—
 
 Par. (2). Pub. L. 102–575, §4019(a)(2), substituted “the Trust Territory of the Pacific Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and, upon termination of the Trusteeship Agreement for the Trust Territory of the Pacific Islands, the Republic of Palau” for “the Trust Territories of the Pacific Islands”.
 
-Par. (4). Pub. L. 102–575, §4019(a)(3), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “ ‘Indian tribe’ means the governing body of any Indian tribe, band, nation, or other group which is recognized as an Indian tribe by the Secretary of the Interior and for which the United States holds land in trust or restricted status for that entity or its members. Such term also includes any Native village corporation, regional corporation, and Native Group established pursuant to the Alaska Native Claims Settlement Act.”
+Par. (4). Pub. L. 102–575, §4019(a)(3), amended par. (4) generally. Prior to amendment, par. (4) read as follows:“ ‘Indian tribe’ means the governing body of any Indian tribe, band, nation, or other group which is recognized as an Indian tribe by the Secretary of the Interior and for which the United States holds land in trust or restricted status for that entity or its members. Such term also includes any Native village corporation, regional corporation, and Native Group established pursuant to the Alaska Native Claims Settlement Act.”
 
 Par. (5). Pub. L. 102–575, §4019(a)(4), substituted “Register, including artifacts, records, and material remains related to such a property or resource.” for “Register; such term includes artifacts, records, and remains which are related to such a district, site, building, structure, or object.”
 

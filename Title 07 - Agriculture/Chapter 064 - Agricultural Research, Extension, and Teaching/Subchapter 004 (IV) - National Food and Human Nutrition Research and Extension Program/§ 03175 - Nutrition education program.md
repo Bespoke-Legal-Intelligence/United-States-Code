@@ -16,13 +16,13 @@ Beginning with the fiscal year ending September 30, 1982—
 
 &emsp;(2) Any funds appropriated annually under section 343(d) of this title, for the conduct of the expanded food and nutrition education program in excess of the amount appropriated under such section for the conduct of the program for the fiscal year ending September 30, 1981, shall be allocated as follows:
 
-&emsp;&emsp;(A) 4 per centum shall be available to the Secretary for administrative, technical, andother services necessary for the administration of the program.
+&emsp;&emsp;(A) 4 per centum shall be available to the Secretary for administrative, technical, and other services necessary for the administration of the program.
 
 &emsp;&emsp;(B) The remainder shall be allocated among the States as follows:
 
 &emsp;&emsp;&emsp;(i) 10 per centum shall be distributed equally among all States; and
 
-&emsp;&emsp;&emsp;(ii) the remainder shall be allocated to each State in an amount which bears the same ratio to the total amount to be allocated under this subparagraph as the population of the State living at or below 125 per centum of the income poverty guidelines prescribed by the Office of Management and Budget (adjusted pursuant to section 9902(2) of title 42), bears to the total population of all the States living at or below 125 per centum of the income poverty guidelines, as determined by the last preceding decennial census at the time each such additional amount is first appropriated. The provisions of this subparagraph shall not preclude the Secretary from developing educational materials and programs for persons in income ranges above the level designated in this subparagraph.
+&emsp;&emsp;&emsp;(ii) the remainder shall be allocated to each State in an amount which bears the same ratio to the total amount to be allocated under this subparagraph as the population of the State living at or below 125 per centum of the income poverty guidelines prescribed by the Office of Management and Budget (adjusted pursuant tosection 9902(2) of title 42), bears to the total population of all the States living at or below 125 per centum of the income poverty guidelines, as determined by the last preceding decennial census at the time each such additional amount is first appropriated. The provisions of this subparagraph shall not preclude the Secretary from developing educational materials and programs for persons in income ranges above the level designated in this subparagraph.
 
 &emsp;(3) There is authorized to be appropriated to carry out the expanded food and nutrition education program established under section 343(d) of this title and this section, $83,000,000 for each of fiscal years 1996 through 2002.
 

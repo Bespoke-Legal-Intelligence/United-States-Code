@@ -26,7 +26,7 @@ Notice and Wait Requirements.—A contract may not be entered into for the acqui
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees onArmed Services and the Committees on Appropriations of the Senate and House of Representatives”.
+1996—Subsec. (c). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives”.
 
 #### Effective Date
 

@@ -14,7 +14,7 @@ The Secretary of State may establish health care facilities and provide for the 
 
 #### (d) Costs of treatment
 
-If an individual eligible for health care under this section incurs an illness, injury, or medicalcondition which requires treatment while assigned to a post abroad or located overseas pursuant to Government authorization, the Secretary may pay the cost of such treatment.
+If an individual eligible for health care under this section incurs an illness, injury, or medical condition which requires treatment while assigned to a post abroad or located overseas pursuant to Government authorization, the Secretary may pay the cost of such treatment.
 
 #### (e) Death or separation of member
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The President shall develop a plan for providing economic assistance to Cuba at such time as the President determines that a transition government or a democratically elected government in Cuba (as determined under section 6063(c) of this title) is in power.
+&emsp;The President shall develop a plan for providing economic assistance to Cuba at suchtime as the President determines that a transition government or a democratically elected government in Cuba (as determined under section 6063(c) of this title) is in power.
 
 #### (2) Effect on other laws
 
@@ -64,7 +64,7 @@ The plan developed under subsection (b) of this section shall include a strategy
 
 #### (d) Distribution
 
-Assistance under the plan developed under subsection (b) of this section shall be provided through United States Government organizations and nongovernmental organizations and private and voluntary organizations, whether within or outside the United States, includinghumanitarian, educational, labor, and private sector organizations.
+Assistance under the plan developed under subsection (b) of this section shall be provided through United States Government organizations and nongovernmental organizations and private and voluntary organizations, whether within or outside the United States, including humanitarian, educational, labor, and private sector organizations.
 
 #### (e) International efforts
 
@@ -88,7 +88,7 @@ Not later than 180 days after March 12, 1996, the President shall transmit to th
 
 &emsp;The President, following the transmittal to the Congress of a determination under section 6063(c)(3) of this title that a democratically elected government in Cuba is in power, shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate and the appropriate congressional committees a report that describes—
 
-&emsp;&emsp;(A) acts, policies, and practices which constitute significant barriers to, or distortions of, United States trade in goods or services or foreign direct investment with respect to Cuba;
+&emsp;&emsp;(A) acts, policies, and practices which constitute significant barriers to, or distortionsof, United States trade in goods or services or foreign direct investment with respect to Cuba;
 
 &emsp;&emsp;(B) policy objectives of the United States regarding trade relations with a democratically elected government in Cuba, and the reasons therefor, including possible—
 

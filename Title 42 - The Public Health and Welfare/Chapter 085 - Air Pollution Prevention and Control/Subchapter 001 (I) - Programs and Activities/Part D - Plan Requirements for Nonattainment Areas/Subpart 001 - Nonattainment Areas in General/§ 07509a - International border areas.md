@@ -4,13 +4,13 @@
 
 Notwithstanding any other provision of law, an implementation plan or plan revision required under this chapter shall be approved by the Administrator if—
 
-&emsp;(1) such plan or revision meets all the requirements applicable to it under the <sup>1</sup> chapter other than a requirement that such plan or revision demonstrate attainment and maintenance of the relevant national ambient air quality standards by the attainment datespecified under the applicable provision of this chapter, or in a regulation promulgated under such provision, and
+&emsp;(1) such plan or revision meets all the requirements applicable to it under the <sup>1</sup> chapter other than a requirement that such plan or revision demonstrate attainment and maintenance of the relevant national ambient air quality standards by the attainment date specified under the applicable provision of this chapter, or in a regulation promulgated under such provision, and
 
 &emsp;(2) the submitting State establishes to the satisfaction of the Administrator that the implementation plan of such State would be adequate to attain and maintain the relevant national ambient air quality standards by the attainment date specified under the applicable provision of this chapter, or in a regulation promulgated under such provision, but for emissions emanating from outside of the United States.
 
 #### (b) Attainment of ozone levels
 
-Notwithstanding any other provision of law, any State that establishes to the satisfaction of the Administrator that, with respect to an ozone nonattainment area in such State, such State would have attained the national ambient air quality standard for ozone by the applicable attainment date, but for emissions emanating from outside of the United States, shall not be subject to the provisions of section 7511(a)(2) or (5) of this title or section 7511d of this title.
+Notwithstanding any other provision of law, any State that establishes to the satisfaction of the Administrator that, with respect to an ozone nonattainment area in such State, such State would have attained the national ambient air quality standard for ozone by the applicable attainment date, but for emissions emanating from outside of the United States, shall not besubject to the provisions of section 7511(a)(2) or (5) of this title or section 7511d of this title.
 
 #### (c) Attainment of carbon monoxide levels
 

@@ -38,7 +38,7 @@ The recipient shall agree to maintain and provide the grantee or the Secretary w
 
 #### References in Text
 
-Under this chapter, referred to in subsec. (g)(2), was in the original “under this title”, and was translated as reading “under this subtitle”, meaning under subtitle D (§§851–863) of title VIII of Pub. L. 101–625, to reflect the probable intent of Congress.
+Under this chapter, referred to in subsec. (g)(2), was in the original “under this title”, and was translated asreading “under this subtitle”, meaning under subtitle D (§§851–863) of title VIII of Pub. L. 101–625, to reflect the probable intent of Congress.
 
 #### Amendments
 

@@ -144,7 +144,7 @@ Except as provided in regulations prescribed by the Pension Benefit Guaranty Cor
 
 #### (d) Terminated plans
 
-Any multiemployer plan which terminates under section 4041A(a)(2) of the Employee Retirement Income Security Act of 1974 shall notbe considered in reorganization after the last day of the plan year in which the plan is treated as having terminated.
+Any multiemployer plan which terminates under section 4041A(a)(2) of the Employee Retirement Income Security Act of 1974 shall not be considered in reorganization after the last day of the plan year in which the plan is treated as having terminated.
 
 (Added Pub. L. 96–364, title II, §202(a), Sept. 26, 1980, 94 Stat. 1271.)
 

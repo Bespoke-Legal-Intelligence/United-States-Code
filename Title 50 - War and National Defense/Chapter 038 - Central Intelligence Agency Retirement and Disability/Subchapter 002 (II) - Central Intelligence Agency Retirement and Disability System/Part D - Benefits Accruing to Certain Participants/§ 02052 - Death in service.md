@@ -8,7 +8,7 @@ If a participant dies and no claim for an annuity is payable under this subchapt
 
 #### (1) In general
 
-&emsp;If a participant dies before separation or retirement from the Agency and is survived by a spouse or by a former spouse qualifying for a survivor annuity under section 2032(b) of this title, such surviving spouse shall be entitled to an annuity equal to 55 percent of the annuity computed in accordance with paragraphs (2) and (3) of this subsection and section 2031(a) of this title, and any such surviving former spouse shall be entitled to an annuity computed in accordance with section 2032(b) of this title and paragraph (2) of this subsection as if the participant died after being entitled to an annuity under this subchapter. The annuity of such surviving spouse or former spouse shall commence on the day after the participant dies and shall terminate on the last day of the month before the death or remarriage before attaining age 55 of the surviving spouse or former spouse (subject to thepayment and restoration provisions of sections 2031(b)(3)(C), 2031(h), and 2032(b)(3) of this title).
+&emsp;If a participant dies before separation or retirement from the Agency and is survived by a spouse or by a former spouse qualifying for a survivor annuity under section 2032(b) of this title, such surviving spouse shall be entitled to an annuity equal to 55 percent of the annuity computed in accordance with paragraphs (2) and (3) of this subsection and section 2031(a) of this title, and any such surviving former spouse shall be entitled to an annuity computed in accordance with section 2032(b) of this title and paragraph (2) of this subsection as if the participant died after being entitled to an annuity under this subchapter. The annuity of such surviving spouse or former spouse shall commence on the day after the participant dies and shall terminate on the last day of the month before the death or remarriage before attaining age 55 of the surviving spouse or former spouse (subject to the payment and restoration provisions of sections 2031(b)(3)(C), 2031(h), and 2032(b)(3) of this title).
 
 #### (2) Computation
 
@@ -36,7 +36,7 @@ If a participant dies and no claim for an annuity is payable under this subchapt
 
 &emsp;In the case of a participant who on or after April 1, 1992, dies before separation or retirement from the Agency and who is survived by a child or children—
 
-&emsp;&emsp;(A) if the participant is survived by a spouse or former spouse who is the natural or adoptive parent of a surviving child of the participant, there shall be paid from the fund to or on behalf of each such surviving child an annuity determined under section 2031(d)(3)(A) of this title; and
+&emsp;&emsp;(A) if the participant is survived by a spouse or former spouse who is the natural or adoptive parent of a surviving child of the participant, there shall be paid from thefund to or on behalf of each such surviving child an annuity determined under section 2031(d)(3)(A) of this title; and
 
 &emsp;&emsp;(B) if the participant is not survived by a spouse or former spouse who is the natural or adoptive parent of a surviving child of the participant, there shall be paid to or on behalf of each such surviving child an annuity determined under section 2031(d)(3)(B) of this title.
 

@@ -74,7 +74,7 @@ Acres
 
 &emsp;&emsp;Haystack
 
-565  
+565&nbsp;&nbsp;
 
 &emsp;&emsp;Hogback
 
@@ -170,7 +170,7 @@ Acres
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(2) The map referred to in paragraph (1) shall be kept on file and available for public inspection in the appropriate offices of the National Park Service, the office of the State Director of the Bureau of Land Management located in Santa Fe, New Mexico, the office of the Area Director of the Bureau of Indian Affairs located in Window Rock, Arizona, and the offices of the Arizona and New Mexico State Historic Preservation Officers.
+(2) The map referred to in paragraph (1) shall be kept on file and available for public inspection in the appropriate offices of the National Park Service, the office of the State Director ofthe Bureau of Land Management located in Santa Fe, New Mexico, the office of the Area Director of the Bureau of Indian Affairs located in Window Rock, Arizona, and the offices of the Arizona and New Mexico State Historic Preservation Officers.
 
 (Pub. L. 96–550, title V, §502, Dec. 19, 1980, 94 Stat. 3227; Pub. L. 104–11, §3, May 18, 1995, 109 Stat. 158.)
 

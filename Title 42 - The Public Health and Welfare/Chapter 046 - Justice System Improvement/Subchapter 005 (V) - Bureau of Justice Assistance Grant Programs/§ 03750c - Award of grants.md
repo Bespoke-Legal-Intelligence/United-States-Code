@@ -6,7 +6,7 @@ The Director shall allocate to each State a proportion of the total funds availa
 
 #### (b) Grant amounts
 
-If one Anti Car Theft Committee within a State submits an application in compliance withsection 3750b of this title, the Director shall award to such Anti Car Theft Committee a grant equal to the total amount of funds allocated to such State under this section. In no case shall the Anti Car Theft Committee receive a grant that is more than 50 percent of the preaward budget for such Anti Car Theft Committee.
+If one Anti Car Theft Committee within a State submits an application in compliance with section 3750b of this title, the Director shall award to such Anti Car Theft Committee a grant equal to the total amount of funds allocated to such State under this section. In no case shall the Anti Car Theft Committee receive a grant that is more than 50 percent of the preaward budget for such Anti Car Theft Committee.
 
 #### (c) Multiple committees
 
@@ -23,6 +23,10 @@ Subject to the availability of funds, a grant under sections 3750a to 3750d of t
 Section was enacted as part of the Anti Car Theft Act of 1992, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
 
 In subsection (a), “section 30503 of title 49” substituted for “section 203 of this Act”, meaning section 203 of Pub. L. 102–519, on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -4,7 +4,7 @@
 
 Promoting Safety.—The Administrator of the Federal Aviation Administration shall promote safe flight of civil aircraft in air commerce by prescribing—
 
-&emsp;(1) minimum standards required in the interest of safety for appliances and for the design,material, construction, quality of work, and performance of aircraft, aircraft engines, and propellers;
+&emsp;(1) minimum standards required in the interest of safety for appliances and for the design, material, construction, quality of work, and performance of aircraft, aircraft engines, and propellers;
 
 &emsp;(2) regulations and minimum standards in the interest of safety for—
 

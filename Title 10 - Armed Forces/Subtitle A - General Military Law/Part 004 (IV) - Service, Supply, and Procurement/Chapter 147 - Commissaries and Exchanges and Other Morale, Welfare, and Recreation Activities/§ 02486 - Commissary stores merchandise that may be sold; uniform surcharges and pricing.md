@@ -36,7 +36,7 @@ Authorized Commissary Merchandise Categories.—Merchandise sold in, at, or by c
 
 (c)
 
-Uniform Sales Price Surcharge or Adjustment.—An adjustment of or surcharge on sales prices in commissary stores under section 2484(b) or 2685(a) of this title or for any other purpose shall be applied as a uniform percentage of the sales price of all merchandise sold in, at, or by commissary stores. Effective on the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, the uniform percentage shall be equal to five percent and may not be changed except by a law enacted after such date.
+Uniform Sales Price Surcharge or Adjustment.—An adjustment of or surcharge on sales prices in commissary stores under section 2484(b) or 2685(a) of this title or for any other purpose shall be applied as a uniform percentage of the sales price of all merchandise sold in, at, or by commissary stores. Effective on November 18, 1997, the uniform percentage shall be equal to five percent and may not be changed except by a law enacted after such date.
 
 (d)
 
@@ -60,7 +60,7 @@ Special Rules for Certain Merchandise.—(1) Notwithstanding the general require
 
 (g)
 
-Collection of Dishonored Checks.—(1) The Secretary of Defense may impose a charge for the collection of a check accepted at a commissary store that is not honored by the financial institution on which the check is drawn.The imposition and amounts of charges shall be consistent with practices of commercial grocery stores regarding dishonored checks.
+Collection of Dishonored Checks.—(1) The Secretary of Defense may impose a charge for the collection of a check accepted at a commissary store that is not honored by the financial institution on which the check is drawn. The imposition and amounts of charges shall be consistent with practices of commercial grocery stores regarding dishonored checks.
 
 (2)(A) The following persons are liable to the United States for the amount of a check referred to in paragraph (1) that is returned unpaid to the United States, together with any charge imposed under that paragraph:
 
@@ -76,13 +76,11 @@ Collection of Dishonored Checks.—(1) The Secretary of Defense may impose a cha
 
 (5) In this subsection, the term “commissary trust revolving fund” means the trust revolving fund maintained by the Department of Defense for surcharge collections and proceeds of sales of commissary stores.
 
-(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3852; amended Pub. L. 100–180, div. A, title III, §313(a)(1), (2), Dec. 4, 1987, 101 Stat. 1073, 1074; Pub. L. 104–201, div. A, title III, §342(a), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–85, div. A, title III, §§372(a)–(e), 373, Nov. 18, 1997, 111 Stat. 1706, 1707; Pub. L. 105–261, div. A, title III, §364, Oct. 17, 1998, 112 Stat. 1986.)
-
-#### References in Text
-
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (c), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
+(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3852; amended Pub. L. 100–180, div. A, title III, §313(a)(1), (2), Dec. 4, 1987, 101 Stat. 1073, 1074; Pub. L. 104–201, div. A, title III, §342(a), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–85, div. A, title III, §§372(a)–(e), 373, Nov. 18, 1997, 111 Stat. 1706, 1707; Pub. L. 105–261, div. A, title III, §364, Oct. 17, 1998, 112 Stat. 1986; Pub. L. 106–65, div. A, title X, §1066(a)(21), Oct. 5, 1999, 113 Stat. 771.)
 
 #### Amendments
+
+1999—Subsec. (c). Pub. L. 106–65 substituted “November 18, 1997,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998,” in second sentence.
 
 1998—Subsec. (g). Pub. L. 105–261 added subsec. (g).
 

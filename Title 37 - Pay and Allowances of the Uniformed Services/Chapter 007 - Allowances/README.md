@@ -56,10 +56,21 @@
 | [432\.](%C2%A7%2000432%20-%20Travel%20and%20transportation%20members%20escorting%20certain%20dependents.md) | Travel and transportation: members escorting certain dependents. |
 | [433\.](%C2%A7%2000433%20-%20Allowance%20for%20muster%20duty.md) | Allowance for muster duty. |
 | [434\.](%C2%A7%2000434%20-%20Subsistence%20reimbursement%20relating%20to%20escorts%20of%20foreign%20arms%20control%20inspection%20teams.md) | Subsistence reimbursement relating to escorts of foreign arms control inspection teams. |
+| 435\.<sup>2</sup> | Per diem allowance for lengthy or numerous deployments. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 435\.<sup>2</sup> | Funeral honors duty: allowance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title V, §586(c)(2), Oct. 5, 1999, 113 Stat. 639, added item 435 “Per diem allowance for lengthy or numerous deployments”.
+
+Pub. L. 106–65, div. A, title V, §578(k)(4), Oct. 5, 1999, 113 Stat. 631, which directed amendment of the table of sections at the beginning of chapter 4 of this title by adding item 435 “Funeral honors duty: allowance”, was executed by adding that item 435 to the table of sections of this chapter to reflect the probable intent of Congress.
 
 1998—Pub. L. 105–261, div. A, title VI, §633(b)(2), Oct. 17, 1998, 112 Stat. 2044, substituted “rest and recuperative leave from certain stations” for “leave from certain stations” in item 411c.
 
@@ -73,7 +84,7 @@
 
 1989—Pub. L. 101–189, div. A, title V, §502(b)(2), title VI, §624(a)(2), Nov. 29, 1989, 103 Stat. 1437, 1448, added items 406c and 433.
 
-1987—Pub. L. 100–180, div. A, title VI, §§611(a)(2), 614(a)(2), (d)(3), 615(a)(2), title XIII, §1314(c)(2), Dec. 4,1987, 101 Stat. 1093–1096, 1176, substituted “leave between consecutive overseas tours” for “certain leave” in item 411b, added items 411g and 411h, inserted “and Vice Chairman” in item 413, added item 419, and redesignated former items 419 and 420 as 420 and 421, respectively.
+1987—Pub. L. 100–180, div. A, title VI, §§611(a)(2), 614(a)(2), (d)(3), 615(a)(2), title XIII, §1314(c)(2), Dec. 4, 1987, 101 Stat. 1093–1096, 1176, substituted “leave between consecutive overseas tours” for “certain leave” in item 411b, added items 411g and 411h, inserted “and Vice Chairman” in item 413, added item 419, and redesignated former items 419 and 420 as 420 and 421, respectively.
 
 Pub. L. 100–26, §8(b)(1), Apr. 21, 1987, 101 Stat. 285, redesignated item 431 “Travel and transportation: members escorting certain dependents” as item 432.
 
@@ -117,9 +128,11 @@ Pub. L. 88–132, §11(2), Oct. 2, 1963, 77 Stat. 217, added item 427.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 907 of this title; title 10 section 1051; title 42 section 659.
+This chapter is referred to in section 907 of this title; title 10 sections 1051, 12503; title 32 section 115; title 42 section 659.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
+<i><sup>2</sup></i><i> So in original. Two sections 435 have been enacted and appear in a different order in this chapter.</i>
 
 
 ---
@@ -175,3 +188,5 @@ This chapter is referred to in section 907 of this title; title 10 section 1051;
 - [&sect; 00432 - Travel and transportation members escorting certain dependents](%C2%A7%2000432%20-%20Travel%20and%20transportation%20members%20escorting%20certain%20dependents.md)
 - [&sect; 00433 - Allowance for muster duty](%C2%A7%2000433%20-%20Allowance%20for%20muster%20duty.md)
 - [&sect; 00434 - Subsistence reimbursement relating to escorts of foreign arms control inspection teams](%C2%A7%2000434%20-%20Subsistence%20reimbursement%20relating%20to%20escorts%20of%20foreign%20arms%20control%20inspection%20teams.md)
+- [&sect; 00435 - 1 Funeral honors duty allowance](%C2%A7%2000435%20-%201%20Funeral%20honors%20duty%20allowance.md)
+- [&sect; 00435 - 1 Per diem allowance for lengthy or numerous deployments](%C2%A7%2000435%20-%201%20Per%20diem%20allowance%20for%20lengthy%20or%20numerous%20deployments.md)

@@ -30,7 +30,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §223 and §11–205 District of Columbia Code, 1940 ed. (Feb. 9, 1893, ch. 74, §6, 27 Stat. 435; July 30, 1894, ch. 172, §2, 28 Stat. 161; Mar. 3, 1901, ch. 854, §225, 31 Stat. 1225; Mar. 3, 1911, ch. 231, §126, 36 Stat. 1132; July 17, 1916, ch. 246, 39 Stat. 385; Jan. 8, 1925, ch. 57, 43 Stat. 729; July 3, 1926, ch. 735, 44 Stat. 809; Feb. 28, 1929, ch. 363, §3, 45 Stat. 1347; May 17, 1932, ch. 190, 47 Stat. 158).
+Based on title 28, U.S.C., 1940 ed., §223 and §11–205 District of Columbia Code, 1940 ed. (Feb. 9, 1893, ch. 74, §6,27 Stat. 435; July 30, 1894, ch. 172, §2, 28 Stat. 161; Mar. 3, 1901, ch. 854, §225, 31 Stat. 1225; Mar. 3, 1911, ch. 231, §126, 36 Stat. 1132; July 17, 1916, ch. 246, 39 Stat. 385; Jan. 8, 1925, ch. 57, 43 Stat. 729; July 3, 1926, ch. 735, 44 Stat. 809; Feb. 28, 1929, ch. 363, §3, 45 Stat. 1347; May 17, 1932, ch. 190, 47 Stat. 158).
 
 This section consolidates section 223 of title 28, U.S.C., 1940 ed., with part of section 11–205 of the District of Columbia Code.
 

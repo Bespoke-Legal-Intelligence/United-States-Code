@@ -20,7 +20,7 @@ General Requirements.—The Secretary of Transportation shall designate current 
 
 (b)
 
-Survey.—Not later than September 30, 1991, the Secretary shall complete a survey of current and former military airports to identify which airports have the greatest potential to improve the capacity of the national air transportation system. The survey shall identify the capital development needs of those airports to make them part of the system and which of those qualify for grants under section 47104 of this title.
+Survey.—Not later than September 30, 1991, the Secretary shall complete a survey of current and former military airports to identify which airports have the greatest potential to improve the capacity of the national air transportation system. The survey shall identify the capital development needs of those airports to make them part of the system and which ofthose qualify for grants under section 47104 of this title.
 
 (c)
 
@@ -100,7 +100,7 @@ This makes a clarifying amendment to 49:47118(e) because 49:47109(c) was struck 
 
 #### References in Text
 
-Section 201 of the Defense Authorization Amendments and Base Closure and Realignment Act, referredto in subsec. (a)(1)(B), is section 201 of Pub. L. 100–526, which is set out in a note under section 2687 of Title 10, Armed Forces.
+Section 201 of the Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (a)(1)(B), is section 201 of Pub. L. 100–526, which is set out in a note under section 2687 of Title 10, Armed Forces.
 
 Section 2905 of the Defense Base Closure and Realignment Act of 1990, referred to in subsec. (a)(1)(C), is section 2905 of Pub. L. 101–510, which is set out in a note under section 2687 of Title 10.
 

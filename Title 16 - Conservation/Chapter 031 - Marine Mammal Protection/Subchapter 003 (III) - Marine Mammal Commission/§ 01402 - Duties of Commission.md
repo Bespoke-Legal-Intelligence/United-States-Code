@@ -28,7 +28,7 @@ The reports and recommendations which the Commission makes shall be matters of p
 
 #### (d) Recommendations; explanation for nonadoption
 
-Any recommendations made by the Commission to the Secretary and other Federal officials shall be responded to by those individuals within one hundred and twenty days after receipt thereof. Any recommendations which are not followed or adopted shall be referred to the Commission together with a detailed explanation of the reasons why those recommendations were not followed or adopted.
+Any recommendations made by the Commission to the Secretary and other Federal officials shall be responded to by those individuals within one hundred and twenty days after receipt thereof. Any recommendations which are notfollowed or adopted shall be referred to the Commission together with a detailed explanation of the reasons why those recommendations were not followed or adopted.
 
 (Pub. L. 92–522, title II, §202, Oct. 21, 1972, 86 Stat. 1044; Pub. L. 93–205, §13(e)(4), Dec. 28, 1973, 87 Stat. 903; Pub. L. 97–58, §6(1), Oct. 9, 1981, 95 Stat. 987; Pub. L. 100–711, §5(e)(4), Nov. 23, 1988, 102 Stat. 4771.)
 

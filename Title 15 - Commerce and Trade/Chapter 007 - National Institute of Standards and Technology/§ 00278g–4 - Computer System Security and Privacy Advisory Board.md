@@ -14,7 +14,7 @@ There is hereby established a Computer System Security and Privacy Advisory Boar
 
 The duties of the Board shall be—
 
-&emsp;(1) to identify emerging managerial, technical, administrative, and physical safeguard issues relative to computer systems security and privacy;
+&emsp;(1) to identify emerging managerial, technical, administrative, and physical safeguardissues relative to computer systems security and privacy;
 
 &emsp;(2) to advise the Institute and the Secretary of Commerce on security and privacy issues pertaining to Federal computer systems; and
 

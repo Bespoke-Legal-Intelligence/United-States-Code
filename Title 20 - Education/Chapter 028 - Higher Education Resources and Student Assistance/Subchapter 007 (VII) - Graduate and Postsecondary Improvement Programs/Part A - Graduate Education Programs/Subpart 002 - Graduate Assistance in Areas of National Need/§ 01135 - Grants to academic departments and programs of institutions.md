@@ -8,7 +8,7 @@
 
 #### (2) Additional grants
 
-&emsp;The Secretary may also make grants to such departments, programs and other academic units of institutions of higher education granting graduate degrees which submit joint proposals involving nondegree granting institutions which have formal arrangements for the support of doctoral dissertation research with degree-granting institutions. Nondegree granting institutions eligible for awards as part of such joint proposals include any organization which—
+&emsp;The Secretary may also make grants to such departments, programs and other academic units of institutions of higher educationgranting graduate degrees which submit joint proposals involving nondegree granting institutions which have formal arrangements for the support of doctoral dissertation research with degree-granting institutions. Nondegree granting institutions eligible for awards as part of such joint proposals include any organization which—
 
 &emsp;&emsp;(A) is described in section 501(c)(3) of title 26, and is exempt from tax under section 501(a) of such title;
 
@@ -48,7 +48,7 @@
 
 #### (2) Ratable reduction
 
-&emsp;To the extent that appropriations under this subpart are insufficient to comply with paragraph (1), available funds shall be distributedby ratably reducing the amounts required to be awarded under subsection (b)(2)(A) of this section.
+&emsp;To the extent that appropriations under this subpart are insufficient to comply with paragraph (1), available funds shall be distributed by ratably reducing the amounts required to be awarded under subsection (b)(2)(A) of this section.
 
 (Pub. L. 89–329, title VII, §711, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1790.)
 

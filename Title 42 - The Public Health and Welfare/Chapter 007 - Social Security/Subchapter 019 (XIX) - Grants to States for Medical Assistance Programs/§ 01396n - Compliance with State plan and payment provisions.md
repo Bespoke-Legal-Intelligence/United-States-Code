@@ -2,7 +2,7 @@
 
 #### (a) Activities deemed as compliance
 
-A State shall not be deemed to be out of compliance with the requirements of paragraphs (1), (10), or (23) of section 1396a(a) of this title solely by reason of the fact that the State (or any political subdivision thereof)—
+A State shall not be deemed to be out of compliance with the requirements of paragraphs (1), (10), or (23) of section 1396a(a) of this title solelyby reason of the fact that the State (or any political subdivision thereof)—
 
 &emsp;(1) has entered into—
 
@@ -26,7 +26,7 @@ A State shall not be deemed to be out of compliance with the requirements of par
 
 #### (b) Waivers to promote cost-effectiveness and efficiency
 
-The Secretary, to the extent he finds it to be cost-effective and efficient and not inconsistent with the purposes of this subchapter, may waive such requirements of section 1396a of this title (other than subsection (s)) (other than sections 1396a(a)(13)(E) <sup>1</sup> and 1396a(a)(10)(A) of this title insofar as it requires provision of the care and services described in section 1396d(a)(2)(C) of this title) as may be necessary for a State—
+The Secretary, to the extent he finds it to be cost-effective and efficient and not inconsistent with the purposes of this subchapter, may waive such requirements of section 1396a of this title (other than subsection (s)) (other than sections 1396a(a)(13)(C) and 1396a(a)(10)(A) of this title insofar as it requires provision of the care and services described in section 1396d(a)(2)(C) of this title) as may be necessary for a State—
 
 &emsp;(1) to implement a primary care case-management system or a specialty physician services arrangement which restricts the provider from (or through) whom an individual (eligible for medical assistance under this subchapter) can obtain medical care services (other than in emergency circumstances), if such restriction does not substantially impair access to such services of adequate quality where medically necessary,
 
@@ -152,7 +152,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 &emsp;&emsp;(III) a method for projecting, on a State specific basis, the percentage increase in the number of residents in each State who are over 65 years of age for any period.
 
-> &emsp;The Secretary shall develop (by not later than October 1, 1989) a method for projecting, on a State-specific basis, the percentage increase in the number of residents in each State who are over 75 years of age for any period. Effective on and after the date the Secretary promulgates the regulation under clause (iii), any reference in this subparagraph to the “lesser of 7 percent” shall be deemed to be a reference to the “greater of 7 percent”.
+> &emsp;The Secretary shall develop (by not later than October 1, 1989) a method for projecting, on a State-specific basis, the percentage increase in the number of residents in each State who are over 65 years of age for any period. Effective on and after the date the Secretary promulgates the regulation under clause (iii), any reference in this subparagraph to the “lesser of 7 percent” shall be deemed to be a reference to the “greater of 7 percent”.
 
 &emsp;(iv) If there is enacted after December 22, 1987, an Act which amends this subchapter whose provisions become effective on or after such date and which results in an increase in the aggregate amount of medical assistance under this subchapter for nursing facility services and home and community-based services for individuals who have attained the age of 65 years, the Secretary, at the request of a State with a waiver under this subsection for a waiver year or years and in close consultation with the State, shall adjust the projected amount computed under this subparagraph for the waiver year or years to take into account such increase.
 
@@ -210,21 +210,29 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 #### (h) Period of waivers; continuations
 
-No waiver under this section (other than a waiver under subsection (c), (d), or (e) of this section) may extend over a period of longer than two years unless the State requests continuation of such waiver, and such request shall be deemed granted unless the Secretary, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the State agency in writing with respect to any additional information which is needed in order to make a final determination with respect to the request. After the date the Secretary receives such additional information, the request shall be deemed granted unless the Secretary, within 90 day <sup>2</sup> of such date, denies such request.
+No waiver under this section (other than a waiver under subsection (c), (d), or (e) of this section) may extend over a period of longer than two years unless the State requests continuation of such waiver, and such request shall be deemed granted unless the Secretary, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the State agency in writing with respect to any additional information which is needed in order to make a final determination with respect to the request. After the date the Secretary receives such additional information, the request shall be deemed granted unless the Secretary, within 90 days of such date, denies such request.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1915, as added Pub. L. 97–35, title XXI, §2175(b), Aug. 13, 1981, 95 Stat. 809; amended Pub. L. 97–35, title XXI, §§2176, 2177(a), Aug. 13, 1981, 95 Stat. 812, 813; Pub. L. 97–248, title I, §137(b)(19)(A), (20)–(25), Sept. 3, 1982, 96 Stat. 380; Pub. L. 97–448, title III, §309(b)(17), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–369, div. B, title III, §2373(b)(21), July 18, 1984, 98 Stat. 1112; Pub. L. 99–272, title IX, §§9502(a)–(e), (g)–(i), 9508(a), Apr. 7, 1986, 100 Stat. 202–204, 210; Pub. L. 99–509, title IX, §§9320(h)(3), 9411(a)–(d), Oct. 21, 1986, 100 Stat. 2016, 2061, 2062; Pub. L. 100–93, §8(h)(2), Aug. 18, 1987, 101 Stat. 694; Pub. L. 100–203, title IV, §§4072(d), 4102(a)(1), (b)(2), 4118(a)(1), (b), (i)(1), (k), (<i>l</i>)(1), (p)(10), 4211(h)(10), Dec. 22, 1987, 101 Stat. 1330–117, 1330–143, 1330–146, 1330–154 to 1330–157, 1330–160, 1330–206; Pub. L. 100–360, title II, §204(d)(3), title IV, §411(k)(3), (10)(A), (H), (I), (17)(A), (<i>l</i>)(3)(G), July 1, 1988, 102 Stat. 729, 791, 794, 796, 799, 803; Pub. L. 100–485, title VI, §608(d)(26)(M), (f)(2), Oct. 13, 1988, 102 Stat. 2422, 2424; Pub. L. 100–647, title VIII, §§8432(a), (b), 8437(a), Nov. 10, 1988, 102 Stat. 3804, 3806; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6115(c), 6411(c)(2), Dec. 19, 1989, 103 Stat. 2219, 2270; Pub. L. 101–508, title IV, §§4604(c), 4704(b)(3), 4741, 4742(a), (c)(1), (d)(1), Nov. 5, 1990, 104 Stat. 1388–169, 1388–172, 1388–197, 1388–198; Pub. L. 102–119, §26(i)(2), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–66, title XIII, §13603(d), Aug. 10, 1993, 107 Stat. 620; Pub. L. 105–33, title IV, §§4106(c), 4743(a), Aug. 5, 1997, 111 Stat. 368, 524.)
+(Aug. 14, 1935, ch. 531, title XIX, §1915, as added Pub. L. 97–35, title XXI, §2175(b), Aug. 13, 1981, 95 Stat. 809; amended Pub. L. 97–35, title XXI, §§2176, 2177(a), Aug. 13, 1981, 95 Stat. 812, 813; Pub. L. 97–248, title I, §137(b)(19)(A), (20)–(25), Sept. 3, 1982, 96 Stat. 380; Pub. L. 97–448, title III, §309(b)(17), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–369, div. B, title III, §2373(b)(21), July 18, 1984, 98 Stat. 1112; Pub. L. 99–272, title IX, §§9502(a)–(e), (g)–(i), 9508(a), Apr. 7, 1986, 100 Stat. 202–204, 210; Pub. L. 99–509, title IX, §§9320(h)(3), 9411(a)–(d), Oct. 21, 1986, 100 Stat. 2016, 2061, 2062; Pub. L. 100–93, §8(h)(2), Aug. 18, 1987, 101 Stat. 694; Pub. L. 100–203, title IV, §§4072(d), 4102(a)(1), (b)(2), 4118(a)(1), (b), (i)(1), (k), (<i>l</i>)(1), (p)(10), 4211(h)(10), Dec. 22, 1987, 101 Stat. 1330–117, 1330–143, 1330–146, 1330–154 to 1330–157, 1330–160, 1330–206; Pub. L. 100–360, title II, §204(d)(3), title IV, §411(k)(3), (10)(A), (H), (I), (17)(A), (<i>l</i>)(3)(G), July 1, 1988, 102 Stat. 729, 791, 794, 796, 799, 803; Pub. L. 100–485, title VI, §608(d)(26)(M), (f)(2), Oct. 13, 1988, 102 Stat. 2422, 2424; Pub. L. 100–647, title VIII, §§8432(a), (b), 8437(a), Nov. 10, 1988, 102 Stat. 3804, 3806; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6115(c), 6411(c)(2), Dec. 19, 1989, 103 Stat. 2219, 2270; Pub. L. 101–508, title IV, §§4604(c), 4704(b)(3), 4741, 4742(a), (c)(1), (d)(1), Nov. 5, 1990, 104 Stat. 1388–169, 1388–172, 1388–197, 1388–198; Pub. L. 102–119, §26(i)(2), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–66, title XIII, §13603(d), Aug. 10, 1993, 107 Stat. 620; Pub. L. 105–33, title IV, §§4106(c), 4743(a), Aug. 5, 1997, 111 Stat. 368, 524; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(<i>o</i>), (z)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–397, 1501A–398.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(z)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398, provided that, effective Oct. 1, 2004, subsection (b) of this section is amended, in the matter preceding paragraph (1), by striking “sections 1396a(a)(13)(C) and” and inserting “section”.</i>
 
 #### References in Text
 
 Parts A and B of subchapter XVIII of this chapter, referred to in subsec. (a)(1)(B)(ii)(II), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
-
-Section 1396a(a)(13)(E) of this title, referred to in subsec. (b), was redesignated section 1396a(a)(13)(C) of this title and amended by Pub. L. 105–33, title IV, §§4711(a)(2), (4), 4712(a), (b)(1), Aug. 5, 1997, 111 Stat. 508, and is repealed, effective for services furnished on or after Oct. 1, 2003, by Pub. L. 105–33, title IV, §4712(c)(1), Aug. 5, 1997, 111 Stat. 509.
 
 Section 1401 of title 20, referred to in subsec. (c)(5)(C)(i), was in the original a reference to section 602 of the Individuals with Disabilities Education Act, Pub. L. 91–230, title VI. Section 602 of Pub. L. 91–230 was omitted in the general amendment of subchapter I of chapter 33 of Title 20, Education, by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602 of Pub. L. 91–230, which is classified to section 1401 of Title 20, and which contains provisions defining “special education” and “related services”.
 
 Part E of subchapter IV of this chapter, referred to in subsec. (e)(1)(B), is classified to section 670 et seq. of this title.
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(<i>o</i>)(1)\], substituted “1396a(a)(13)(C)” for “1396a(a)(13)(E)” in introductory provisions.
+
+Subsec. (d)(5)(B)(iii). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(<i>o</i>)(2)\], which directed substitution of “65” for “75” in last sentence of cl. (iii), was executed by making the substitution in the penultimate sentence to reflect the probable intent of Congress.
+
+Subsec. (h). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(<i>o</i>)(3)\], substituted “90 days of such date” for “90 day of such date”.
 
 1997—Subsec. (a)(1)(B)(ii)(I). Pub. L. 105–33, §4106(c), substituted “paragraphs (16) and (17)” for “paragraphs (15) and (16)”.
 
@@ -246,7 +254,7 @@ Subsec. (c)(4). Pub. L. 101–508, §4742(d)(1), inserted at end “Except as pr
 
 Subsec. (c)(7)(C). Pub. L. 101–508, §4742(c)(1), added subpar. (C).
 
-Subsec. (d)(1). Pub. L. 101–508, §4741(a), inserted at end “For purposes of this subsection, the term ‘room and board’ shall not include an amount established under a method determined by the State to reflect the portion of costs of rent and food attributable to an unrelated personal caregiver who is residing in the same household with an individual who, but for the assistance of such caregiver, would require admission to ahospital, nursing facility, or intermediate care facility for the mentally retarded.”
+Subsec. (d)(1). Pub. L. 101–508, §4741(a), inserted at end “For purposes of this subsection, the term ‘room and board’ shall not include an amount established under a method determined by the State to reflect the portion of costs of rent and food attributable to an unrelated personal caregiver who is residing in the same household with an individual who, but for the assistance of such caregiver, would require admission to a hospital, nursing facility, or intermediate care facility for the mentally retarded.”
 
 Subsec. (d)(5)(B)(iv). Pub. L. 101–508, §4741(b), substituted “this subchapter whose provisions become effective on or after such date” for first reference to “this subchapter”.
 
@@ -308,7 +316,7 @@ Subsec. (c)(2)(B)(i). Pub. L. 100–203, §4211(h)(10)(B), substituted “servic
 
 Subsec. (c)(2)(C). Pub. L. 100–203, §4211(h)(10)(D), (E), substituted “, nursing facility, or intermediate care facility for the mentally retarded” for “or skilled nursing facility or intermediate care facility” and “, nursing facility services, or services in an intermediate care facility for the mentally retarded” for “or skilled nursing facility or intermediate care facility services”.
 
-Subsec. (c)(3). Pub. L. 100–203, §4118(a)(1), substituted “, section 1396a(a)(10)(B) of this title (relating to comparability), and section 1396a(a)(10)(C)(i)(III) of this title (relating to income and resource rules applicable in the community)” for “and section 1396a(a)(10)(B) of this title (relating to comparability)”.
+Subsec. (c)(3). Pub. L. 100–203, §4118(a)(1), substituted “, section 1396a(a)(10)(B) of this title (relating to comparability), and section 1396a(a)(10)(C)(i)(III) of this title (relating to income and resource rules applicablein the community)” for “and section 1396a(a)(10)(B) of this title (relating to comparability)”.
 
 Subsec. (c)(5). Pub. L. 100–203, §4211(h)(10)(F), substituted “nursing facility or intermediate care facility for the mentally retarded” for “skilled nursing facility or intermediate care facility”.
 
@@ -388,6 +396,12 @@ Subsec. (f). Pub. L. 97–248, §137(b)(25), inserted “approval of” before �
 
 Subsec. (f). Pub. L. 97–35, §2177(a), added subsec. (f).
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(z)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398, provided that the amendment made by section 1000(a)(6) \[title VI, §608(z)\] is effective Oct. 1, 2004.
+
+Amendment by section 1000(a)(6) \[title VI, §608<i>o</i>\] of Pub. L. 106–113 effective Nov. 29, 1999, see section 1000(a)(6) \[title VI, §608(bb)\] of Pub. L. 106–113, set out as a note under section 1396a of this title.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by section 4106(c) of Pub. L. 105–33 applicable to bone mass measurements performed on or after July 1, 1998, see section 4106(d) of Pub. L. 105–33, set out as a note under section 1395x of this title.
@@ -400,7 +414,7 @@ Amendment by Pub. L. 103–66 applicable to medical assistance furnished on or a
 
 #### Effective Date of 1990 Amendments
 
-Amendment by section 4604(c) of Pub. L. 101–508 effective with respect to payments under this subchapter for calendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out the amendments by section 4604 of Pub. L.101–508 have been promulgated by such date, see section 4604(d) of Pub. L. 101–508, set out as a note under section 1396a of this title.
+Amendment by section 4604(c) of Pub. L. 101–508 effective with respect to payments under this subchapter for calendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out the amendments by section 4604 of Pub. L. 101–508 have been promulgated by such date, see section 4604(d) of Pub. L. 101–508, set out as a note under section 1396a of this title.
 
 Amendment by section 4704(b)(3) of Pub. L. 101–508 effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1989, Pub. L. 101–239, see section 4704(f) of Pub. L. 101–508, set out as a note under section 1396a of this title.
 
@@ -517,8 +531,4 @@ Section 9502(f) of Pub. L. 99–272 provided that: “The Secretary of Health an
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1320a–7, 1382c, 1396a, 1396b, 1396d, 1396p, 1396r–4, 1396s, 1396t, 1396u–2, 1396u–4, 1786 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “days”.</i>
 

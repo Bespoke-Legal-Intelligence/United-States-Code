@@ -1,6 +1,6 @@
 ### §4153. Standards for design, construction, and alteration of buildings; Secretary of Housing and Urban Development
 
-The Secretary of Housing and Urban Development, in consultation with the Secretary ofHealth and Human Services, shall prescribe standards for the design, construction, and alteration of buildings which are residential structures subject to this chapter to insure whenever possible that physically handicapped persons will have ready access to, and use of, such buildings.
+The Secretary of Housing and Urban Development, in consultation with the Secretary of Health and Human Services, shall prescribe standards for the design, construction, and alteration of buildings which are residential structures subject to this chapter to insure whenever possible that physically handicapped persons will have ready access to, and use of, such buildings.
 
 (Pub. L. 90–480, §3, Aug. 12, 1968, 82 Stat. 719; Pub. L. 94–541, title II, §201(3), Oct. 18, 1976, 90 Stat. 2507; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 

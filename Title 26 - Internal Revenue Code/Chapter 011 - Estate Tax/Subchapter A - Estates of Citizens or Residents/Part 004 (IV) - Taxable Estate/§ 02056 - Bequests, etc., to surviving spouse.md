@@ -108,7 +108,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (C) Treatment of survivor annuities
 
-&emsp;&emsp;In the case of an annuity included in the gross estate of the decedent under section2039 (or, in the case of an interest in an annuity arising under the community property laws of a State, included in the gross estate of the decedent under section 2033) where only the surviving spouse has the right to receive payments before the death of such surviving spouse—
+&emsp;&emsp;In the case of an annuity included in the gross estate of the decedent under section 2039 (or, in the case of an interest in an annuity arising under the community property laws of a State, included in the gross estate of the decedent under section 2033) where only the surviving spouse has the right to receive payments before the death of such surviving spouse—
 
 &emsp;&emsp;&emsp;(i) the interest of such surviving spouse shall be treated as a qualifying income interest for life, and
 
@@ -284,7 +284,7 @@ Subsec. (b)(7), (8). Pub. L. 97–34, §403(d)(1), added pars. (7) and (8).
 
 Subsecs. (c), (d). Pub. L. 97–34, §403(a)(1)(A), redesignated subsec. (d) as (c) and struck out former subsec. (c) relating to limitation on aggregate of deductions.
 
-1978—Subsec. (c)(1)(B). Pub. L. 95–600 inserted in cl. (ii) “required to be included in a gift tax return” after“with respect to any gift” and inserted following cl. (ii) “For purposes of this subparagraph, a gift which is includible in the gross estate of the donor by reason of section 2035 shall not be taken into account”.
+1978—Subsec. (c)(1)(B). Pub. L. 95–600 inserted in cl. (ii) “required to be included in a gift tax return” after “with respect to any gift” and inserted following cl. (ii) “For purposes of this subparagraph, a gift which is includible in the gross estate of the donor by reason of section 2035 shall not be taken into account”.
 
 1976—Subsec. (a). Pub. L. 94–455, §2009(b)(4)(E), substituted “subsections (b) and (c)” for “subsections (b), (c), and (d)”.
 
@@ -372,7 +372,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1981 Amendment
 
-Section 403(e) of Pub. L. 97–34, as amended by Pub. L. 97–448, title I, §104(a)(10), Jan. 12, 1983, 96 Stat. 2381;Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Section 403(e) of Pub. L. 97–34, as amended by Pub. L. 97–448, title I, §104(a)(10), Jan. 12, 1983, 96 Stat. 2381; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1) Except as otherwise provided in this subsection, the amendments made by this section \[enacting sections 2044 and 2207A of this title, amending this section and sections 691, 2012, 2035, 2040, 2045, 2046, 2519, 2523, 2602, and 6019 of this title, and repealing sections 2515 and 2515A of this title\] shall apply to the estates of decedents dying after December 31, 1981.
 

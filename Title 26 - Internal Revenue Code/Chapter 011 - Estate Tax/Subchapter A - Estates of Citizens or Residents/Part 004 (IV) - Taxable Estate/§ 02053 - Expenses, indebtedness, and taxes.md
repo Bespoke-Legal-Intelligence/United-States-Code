@@ -40,7 +40,7 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 #### (2) Limitations applicable only to subsection (a)
 
-&emsp;In the case of the amounts described in subsection (a), there shall be disallowed the amount by which the deductions specified therein exceed the value, at the time of the decedent's death, of property subject to claims, except to the extent that such deductions represent amounts paid before the date prescribed for the filing of the estate tax return. For purposes of this section, the term “property subject to claims” means property includible inthe gross estate of the decedent which, or the avails of which, would under the applicable law, bear the burden of the payment of such deductions in the final adjustment and settlement of the estate, except that the value of the property shall be reduced by the amount of the deduction under section 2054 attributable to such property.
+&emsp;In the case of the amounts described in subsection (a), there shall be disallowed the amount by which the deductions specified therein exceed the value, at the time of the decedent's death, of property subject to claims, except to the extent that such deductions represent amounts paid before the date prescribed for the filing of the estate tax return. For purposes of this section, the term “property subject to claims” means property includible in the gross estate of the decedent which, or the avails of which, would under the applicable law, bear the burden of the payment of such deductions in the final adjustment and settlement of the estate, except that the value of the property shall be reduced by the amount of the deduction under section 2054 attributable to such property.
 
 #### (d) Certain State and foreign death taxes
 
@@ -66,7 +66,7 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 #### (B) Cross references
 
-&emsp;&emsp;<b>See section 2011(e) for the effect of a deduction taken under this subsection on the credit for State death taxes, and see section 2014(f) for the effect of a deduction taken under this subsection on the credit for foreign death taxes.</b>
+&emsp;&emsp;<b>See section 2011(e) for the effect of a deduction taken under this subsection on the credit for State</b><b>death taxes, and see section 2014(f) for the effect of a deduction taken under this subsection on the credit for foreign death taxes.</b>
 
 #### (e) Marital rights
 
@@ -98,7 +98,7 @@ Subsec. (e). Pub. L. 98–369, §425(a)(2), substituted “For provisions treati
 
 Amendment by section 503(b)(1) of Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1997, with special rule in case of estate of any decedent dying before Jan. 1, 1998, with respect to which there is an election under section 6166 of this title, see section 503(d) of Pub. L. 105–34, set out as a note under section 163 of this title.
 
-Amendment by section 1073(b)(3) of Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31,1996, see section 1073(c) of Pub. L. 105–34, set out as an Effective Date of Repeal note under section 4980A of this title.
+Amendment by section 1073(b)(3) of Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1996, see section 1073(c) of Pub. L. 105–34, set out as an Effective Date of Repeal note under section 4980A of this title.
 
 #### Effective Date of 1988 Amendment
 

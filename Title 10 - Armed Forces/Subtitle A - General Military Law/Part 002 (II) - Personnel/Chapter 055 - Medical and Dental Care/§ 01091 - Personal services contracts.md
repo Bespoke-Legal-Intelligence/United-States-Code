@@ -52,7 +52,7 @@ Section 932(f) of Pub. L. 98–94 provided that: “The amendments made by this 
 
 #### Test of Alternative Process for Conducting Medical Screenings for Enlistment Qualification
 
-Pub. L. 105–261, div. A, title VII, §733(b), Oct. 17, 1998, 112 Stat. 2072, provided that:
+Pub. L. 105–261, div. A, title VII, §733(b), Oct. 17, 1998, 112 Stat. 2072, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, provided that:
 
 “(1) The Secretary of Defense shall conduct a test to—
 
@@ -64,7 +64,7 @@ Pub. L. 105–261, div. A, title VII, §733(b), Oct. 17, 1998, 112 Stat. 2072, p
 
 “(2) The alternative system described in paragraph (1) may include the system used under the TRICARE system, the health-care system of the Department of Veterans Affairs, or any other system, or combination of systems, considered appropriate by the Secretary.
 
-“(3) Not later than March 1, 2000, the Secretary shall submit to the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] and the Committee on Armed Services of the Senate a report on the results and findings of the test conducted under paragraph (1).”
+“(3) Not later than March 1, 2000, the Secretary shall submit to the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate a report on the results and findings of the test conducted under paragraph (1).”
 
 #### Ratification of Existing Contracts
 

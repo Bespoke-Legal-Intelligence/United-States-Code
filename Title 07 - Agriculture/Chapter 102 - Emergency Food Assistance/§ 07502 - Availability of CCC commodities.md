@@ -42,7 +42,7 @@ Notwithstanding any other provision of law, the programs authorized by section 7
 
 #### References in Text
 
-The Agricultural Adjustment Act of 1938, referred to in subsec. (a)(4), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in subsec. (a)(4), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter35 (§1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
 The Agricultural Act of 1949, referred to in subsec. (a)(4), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 

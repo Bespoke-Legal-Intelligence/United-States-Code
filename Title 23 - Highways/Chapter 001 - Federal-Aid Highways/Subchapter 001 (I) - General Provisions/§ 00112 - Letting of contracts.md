@@ -8,7 +8,7 @@ Bidding Requirements.—
 
 &emsp;(1)
 
-In general.—Subject to paragraph (2), construction of each project, subject to the provisions of subsection (a) of this section, shall be performed by contract awarded by competitive bidding, unless the State transportation department demonstrates, to the satisfaction of the Secretary, that some other method is more cost effective or that an emergency exists. Contracts for the construction of each project shall be awarded only on the basis of the lowest responsive bid submitted by a bidder meeting established criteria of responsibility. No requirement or obligation shall be imposed as a condition precedent to the award of a contract to such bidder for a project, or to the Secretary's concurrence in the award of a contract to such bidder, unless such requirement or obligation is otherwiselawful and is specifically set forth in the advertised specifications.
+In general.—Subject to paragraph (2), construction of each project, subject to the provisions of subsection (a) of this section, shall be performed by contract awarded by competitive bidding, unless the State transportation department demonstrates, to the satisfaction of the Secretary, that some other method is more cost effective or that an emergency exists. Contracts for the construction of each project shall be awarded only on the basis of the lowest responsive bid submitted by a bidder meeting established criteria of responsibility. No requirement or obligation shall be imposed as a condition precedent to the award of a contract to such bidder for a project, or to the Secretary's concurrence in the award of a contract to such bidder, unless such requirement or obligation is otherwise lawful and is specifically set forth in the advertised specifications.
 
 &emsp;(2)
 
@@ -50,7 +50,7 @@ Prenotification; confidentiality of data.—A recipient of funds requesting or u
 
 State option.—Subparagraphs (C), (D), (E), and (F) shall take effect 1 year after the date of the enactment of this subparagraph; except that if a State, during such 1-year period, adopts by statute an alternative process intended to promote engineering and design quality and ensure maximum competition by professional companies of all sizes providing engineering and design services, such subparagraphs shall not apply with respect to the State. If the Secretary determines that the legislature of the State did not convene and adjourn a full regular session during such 1-year period, the Secretary may extend such 1-year period until the adjournment of the next regular session of the legislature.
 
-(c) The Secretary shall require as a condition precedent to his approval of each contract awarded by competitive bidding pursuant to subsection (b) of this section, and subject to the provisions of this section, a sworn statement, executed by, or on behalf of, the person, firm, association, or corporation to whom such contract is to be awarded, certifying that such person, firm, association, or corporation has not, either directly or indirectly, entered into any agreement, participated in any collusion, or otherwise taken any action in restraint of free competitive bidding in connection with such contract.
+(c) The Secretary shall require as a condition precedent to his approval of each contractawarded by competitive bidding pursuant to subsection (b) of this section, and subject to the provisions of this section, a sworn statement, executed by, or on behalf of, the person, firm, association, or corporation to whom such contract is to be awarded, certifying that such person, firm, association, or corporation has not, either directly or indirectly, entered into any agreement, participated in any collusion, or otherwise taken any action in restraint of free competitive bidding in connection with such contract.
 
 (d) No contract awarded by competitive bidding pursuant to subsection (b) of this section, and subject to the provisions of this section, shall be entered into by any State transportation department or local subdivision of the State without compliance with the provisions of this section, and without the prior concurrence of the Secretary in the award thereof.
 
@@ -74,7 +74,7 @@ General rule.—The Secretary shall issue regulations establishing and requiring
 
 Limitation on applicability.—Paragraph (1) shall apply in a State except to the extent that such State adopts or has adopted by statute a formal procedure for the development of a contract clause described in paragraph (1) or adopts or has adopted a statute which does not permit inclusion of such a contract clause.
 
-(f) The provisions of this section shall not be applicable to contracts for projects on the Federal-aid secondary system in those States wherethe Secretary has discharged his responsibility pursuant to section 117 <sup>1</sup> of this title, except where employees of a political subdivision of a State are working on a project outside of such political subdivision.
+(f) The provisions of this section shall not be applicable to contracts for projects on the Federal-aid secondary system in those States where the Secretary has discharged his responsibility pursuant to section 117 <sup>1</sup> of this title, except where employees of a political subdivision of a State are working on a project outside of such political subdivision.
 
 (g)
 
@@ -126,7 +126,7 @@ Selection Process.—A State may procure, under a single contract, the services 
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(2)(A), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of the Federal Property and Administrative Services Act is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(2)(A), is act June30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of the Federal Property and Administrative Services Act is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 The date of the enactment of this paragraph, referred to in subsec. (b)(2)(B), is the date of enactment of Pub. L. 100–17, which was approved Apr. 2, 1987.
 
@@ -154,7 +154,7 @@ Subsecs. (e), (f). Pub. L. 100–17, §111(c), added subsec. (e) and redesignate
 
 1983—Subsec. (b). Pub. L. 97–424, §112(1), substituted “unless the State highway department demonstrates, to the satisfaction of the Secretary, that some other method is more cost effective” for “unless the Secretary shall affirmatively find that, under the circumstances relating to such project, some other method is in the public interest” after “by competitive bidding,”.
 
-Subsec. (e). Pub. L. 97–424, §112(2), inserted exception relating to a situation where employees of a politicalsubdivision of a State are working on a project outside of such political subdivision.
+Subsec. (e). Pub. L. 97–424, §112(2), inserted exception relating to a situation where employees of a political subdivision of a State are working on a project outside of such political subdivision.
 
 1980—Subsec. (b). Pub. L. 96–470 struck out provision that all findings by the Secretary that a method other than competitive bidding is in the public interest be reported in writing to the Committees on Public Works of the Senate and the House of Representatives.
 
@@ -272,7 +272,7 @@ Regulations.—Not later than 180 days after the date of the enactment of this A
 
 #### Pilot Program for Uniform Audit Procedures
 
-Pub. L. 102–240, title I, §1092, Dec. 18, 1991, 105 Stat. 2024, directed Secretary to establish pilot program toinclude no more than 10 States under which any contract or subcontract awarded in accordance with subsec. (b)(2)(A) of this section was to be performed and audited in compliance with cost principles contained in Federal acquisition regulations of part 41 of title 48 of Code of Federal Regulations, provided for indirect cost rates in lieu of performing audits, and required each State participating in pilot program to report to Secretary not later than 3 years after Dec. 18, 1991, on results of program, prior to repeal by Pub. L. 104–59, title III, §307(b), Nov. 28, 1995, 109 Stat. 582. See subsec. (b)(2)(C) to (F) of this section.
+Pub. L. 102–240, title I, §1092, Dec. 18, 1991, 105 Stat. 2024, directed Secretary to establish pilot program to include no more than 10 States under which any contract or subcontract awarded in accordance with subsec. (b)(2)(A) of this section was to be performed and audited in compliance with cost principles contained in Federal acquisition regulations of part 41 of title 48 of Code of Federal Regulations, provided for indirect cost rates in lieu of performing audits, and required each State participating in pilot program to report to Secretary not later than 3 years after Dec. 18, 1991, on results of program, prior to repeal by Pub. L. 104–59, title III, §307(b), Nov. 28, 1995, 109 Stat. 582. See subsec. (b)(2)(C) to (F) of this section.
 
 #### Evaluation of State Procurement Practices
 

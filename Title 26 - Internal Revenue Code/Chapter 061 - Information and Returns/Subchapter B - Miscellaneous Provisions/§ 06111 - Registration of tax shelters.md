@@ -158,7 +158,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) if the requirements of subsection (a) are not met by a person described in subparagraph (A) at the time prescribed therefor, any other person who participated in the organization of the tax shelter, and
 
-&emsp;&emsp;(C) if the requirements of subsection (a) are not met by a person described in subparagraph (A) or (B) at the time prescribedtherefor, any person participating in the sale or management of the investment at a time when the tax shelter was not registered under subsection (a).
+&emsp;&emsp;(C) if the requirements of subsection (a) are not met by a person described in subparagraph (A) or (B) at the time prescribed therefor, any person participating in the sale or management of the investment at a time when the tax shelter was not registered under subsection (a).
 
 #### (2) Year
 

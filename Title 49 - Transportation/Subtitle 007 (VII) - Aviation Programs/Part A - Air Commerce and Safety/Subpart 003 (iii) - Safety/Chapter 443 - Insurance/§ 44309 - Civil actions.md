@@ -34,7 +34,7 @@ Time Requirements.—When an insurance claim is made under this chapter, the per
 
 (d)
 
-Interpleader.—(1) If the Secretary admits the Government owes money under an insurance claim under this chapter and there is a dispute about the person that is entitled to payment, the Government may bring a civil action of interpleader in a district court of the United States against the persons that may be entitled to payment. The action may be brought in the judicial district for the District of Columbia or in the judicial district in which any party resides.
+Interpleader.—(1) If the Secretary admits the Government owes money under an insurance claim under this chapter and there is a dispute about the person that is entitled to payment, the Government may bring a civil action of interpleader in a district court of the United States against the persons that may be entitled to payment. The action may be brought in the judicial district for the District of Columbia orin the judicial district in which any party resides.
 
 (2) The district court may order a party not residing or found in the judicial district in which the action is brought to appear in a civil action under this subsection. The order shall be served in a reasonable manner decided by the district court. If the court decides an unknown person might assert a claim under the insurance that is the subject of the action, the court may order service on that person by publication in the Federal Register.
 
@@ -80,7 +80,7 @@ In subsection (b)(1), the words “A civil action under subsection (a) of this s
 
 In subsection (b)(2), the words “interested person” are substituted for “All persons having or claiming or who might have an interest in such insurance” to eliminate unnecessary words. The word “either” is omitted as surplus. The words “to a civil action brought under subsection (a) of this section” are added for clarity.
 
-In subsection (c), the words “during which, under section 2401 of title 28, a civil action must be brought under subsection (a) of this section” are substituted for “within which suits may be commenced contained insection 2401 of title 28 providing for bringing of suits against the United States” for clarity. The words “from such time of filing” are omitted as surplus. The words “60 days after the Secretary of Transportation denies the claim” are substituted for “the claim shall have been administratively denied by the Secretary and for sixty days thereafter” for clarity.
+In subsection (c), the words “during which, under section 2401 of title 28, a civil action must be brought under subsection (a) of this section” are substituted for “within which suits may be commenced contained in section 2401 of title 28 providing for bringing of suits against the United States” for clarity. The words “from such time of filing” are omitted as surplus. The words “60 days after the Secretary of Transportation denies the claim” are substituted for “the claim shall have been administratively denied by the Secretary and for sixty days thereafter” for clarity.
 
 In subsection (d)(1), the words “a civil action of interpleader” are substituted for “an action in the nature of a bill of interpleader” because of the Federal Rules of Civil Procedure (28 App. U.S.C.). The words “persons that may be entitled to payment” are substituted for “such parties” for clarity.
 

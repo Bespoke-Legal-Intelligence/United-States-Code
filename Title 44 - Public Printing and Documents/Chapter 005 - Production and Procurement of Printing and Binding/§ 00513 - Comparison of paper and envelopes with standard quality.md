@@ -1,6 +1,6 @@
 ### §513. Comparison of paper and envelopes with standard quality
 
-The Public Printer shall compare every lot of paper and envelopes delivered by a contractor with the standard of quality fixed upon by the Joint Committee on Printing, and may not accept paper or envelopes which do not conform toit in every particular. A lot of delivered paper or envelopes which does not conform to the standard of quality may be accepted by the Committee at a discount that in its opinion is sufficient to protect the interests of the Government.
+The Public Printer shall compare every lot of paper and envelopes delivered by a contractor with the standard of quality fixed upon by the Joint Committee on Printing, and may not accept paper or envelopes which do not conform to it in every particular. A lot of delivered paper or envelopes which does not conform to the standard of quality may be accepted by the Committee at a discount that in its opinion is sufficient to protect the interests of the Government.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1245.)
 
@@ -10,5 +10,5 @@ Based on 44 U.S. Code, 1964 ed., §9 (Jan. 12, 1895, ch. 23, §7, 28 Stat. 602; 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 515, 1121 of this title; title 22 section 3714b.
+This section is referred to in sections 515, 1121 of this title; title 22 section 3714b; title 35 section 2.
 

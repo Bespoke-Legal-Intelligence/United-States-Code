@@ -14,7 +14,3 @@ The President may establish up to two additional positions in the Institute to b
 
 (Pub. L. 96–53, title IV, §406, Aug. 14, 1979, 93 Stat. 374.)
 
-#### Additional Institute Positions; Establishment
-
-The two additional positions in the Institute authorized by subsec. (c) of this section were established by section 1–403 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56675, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
-

@@ -116,7 +116,7 @@ For purposes of this subpart—
 
 The Secretary may prescribe regulations providing that where, by reason of varying rates of interest, put or call options, indefinite maturities, contingent payments, assumptions of debt instruments, or other circumstances, the tax treatment under this subpart (or section 163(e)) does not carry out the purposes of this subpart (or section 163(e)), such treatment shall be modified to the extent appropriate to carry out the purposes of this subpart (or section 163(e)).
 
-(Added and amended Pub. L. 98–369, div. A, title I, §§41(a), 61(c)(2), July 18, 1984, 98 Stat. 540, 581; Pub. L. 99–514, title XVIII, §1804(f)(2)(A), Oct. 22, 1986, 100 Stat. 2805; Pub. L. 100–647, title I, §1006(u)(4), Nov. 10, 1988, 102 Stat. 3427; Pub. L. 101–508, title XI, §11325(a)(2), Nov. 5, 1990, 104 Stat. 1388–466.)
+(Added and amended Pub. L. 98–369, div. A, title I, §§41(a), 61(c)(2), July 18, 1984, 98 Stat. 540, 581;Pub. L. 99–514, title XVIII, §1804(f)(2)(A), Oct. 22, 1986, 100 Stat. 2805; Pub. L. 100–647, title I, §1006(u)(4), Nov. 10, 1988, 102 Stat. 3427; Pub. L. 101–508, title XI, §11325(a)(2), Nov. 5, 1990, 104 Stat. 1388–466.)
 
 #### Amendments
 

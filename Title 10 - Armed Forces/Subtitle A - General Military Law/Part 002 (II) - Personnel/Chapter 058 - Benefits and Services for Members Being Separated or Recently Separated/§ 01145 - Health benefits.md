@@ -40,7 +40,7 @@ Conversion Health Policies.—(1) The Secretary of Defense shall inform each mem
 
 Health Care For Certain Separated Members Not Otherwise Eligible.—(1) Consistent with the authority of the Secretary concerned to designate certain classes of persons as eligible to receive health care at a military medical facility, the Secretary concerned should consider authorizing, on an individual basis in cases of hardship, the provision of that care for a member who is separated from the armed forces during the period beginning on October 1, 1990, and ending on September 30, 2001, and is ineligible for transitional health care under subsection (a) or does not obtain a conversion health policy (or a dependent of the member).
 
-(2) The Secretary concerned shall give special consideration to requests for such care in cases in which the condition for which treatment is required was incurred or aggravated by the member or the dependent before the date of the separation of the member, particularly if the condition is a result of the particular circumstances of the service of the member.
+(2) The Secretary concerned shall give special consideration to requests for such care in cases in which the condition for which treatment is required was incurred or aggravated by the member or the dependent before the date of theseparation of the member, particularly if the condition is a result of the particular circumstances of the service of the member.
 
 (d)
 
@@ -54,7 +54,7 @@ Coast Guard.—The provisions of this section shall apply to members of the Coas
 
 #### Amendments
 
-1998—Subsecs. (a)(1), (c)(1). Pub. L. 105–261, §561(h)(1), substituted “during the period beginning on October 1,1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
+1998—Subsecs. (a)(1), (c)(1). Pub. L. 105–261, §561(h)(1), substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
 Subsec. (e). Pub. L. 105–261, §561(h)(2), substituted “during the period beginning on October 1, 1994, and ending on September 30, 2001” for “during the five-year period beginning on October 1, 1994”.
 

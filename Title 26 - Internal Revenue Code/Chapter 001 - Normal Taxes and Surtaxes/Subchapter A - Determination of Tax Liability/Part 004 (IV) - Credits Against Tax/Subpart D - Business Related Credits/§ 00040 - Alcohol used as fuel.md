@@ -204,7 +204,7 @@ For purposes of this section—
 
 #### (1) Eligible small ethanol producer
 
-&emsp;The term “eligible small ethanol producer” means a person who, at all times during the taxable year, has a productive capacity for alcohol (as defined in subsection (d)(1)(A) without regard to clauses (i) and (ii)) not in excess of 30,000,000 gallons.
+&emsp;The term “eligible small ethanol producer” means a person who, at all times during thetaxable year, has a productive capacity for alcohol (as defined in subsection (d)(1)(A) without regard to clauses (i) and (ii)) not in excess of 30,000,000 gallons.
 
 #### (2) Aggregration <sup>1</sup> rule
 

@@ -22,7 +22,7 @@
 
 > the Commission shall have exclusive authority to commence or defend, and supervise the litigation of, such action and any appeal of such action in its own name by any of its attorneys designated by it for such purpose, unless the Commission authorizes the Attorney General to do so. The Commission shall inform the Attorney General of the exercise of such authority and such exercise shall not preclude the Attorney General from intervening on behalf of the United States in such action and any appeal of such action as may be otherwise provided by law.
 
-(3)(A) If the Commission makes a written request to the Attorney General, within the 10-day period which begins on the date of the entry of the judgment in any civil action in which theCommission represented itself pursuant to paragraph (1) or (2), to represent itself through any of its attorneys designated by it for such purpose before the Supreme Court in such action, it may do so, if—
+(3)(A) If the Commission makes a written request to the Attorney General, within the 10-day period which begins on the date of the entry of the judgment in any civil action in which the Commission represented itself pursuant to paragraph (1) or (2), to represent itself through any of its attorneys designated by it for such purpose before the Supreme Court in such action, it may do so, if—
 
 &emsp;(i) the Attorney General concurs with such request; or
 

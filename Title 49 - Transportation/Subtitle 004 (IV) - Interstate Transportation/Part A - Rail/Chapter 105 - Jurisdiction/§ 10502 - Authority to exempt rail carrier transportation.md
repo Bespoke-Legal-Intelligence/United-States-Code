@@ -66,7 +66,7 @@ Section 10542, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1366; Pub. L. 98–89, 
 
 Section 10543, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1367, related to exemption of certain incidental water transportation from jurisdiction of Commission.
 
-Section 10544, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1368; Pub. L. 96–258, §1(6), June 3, 1980, 94 Stat. 425; Pub. L. 97–449, §5(g)(2), Jan. 12, 1983, 96 Stat. 2443; Pub. L.98–216, §2(11), Feb. 14, 1984, 98 Stat. 5; Pub. L. 103–272, §5(m)(19), July 5, 1994, 108 Stat. 1377, related to exemption of certain miscellaneous water carrier transportation from Commission jurisdiction.
+Section 10544, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1368; Pub. L. 96–258, §1(6), June 3, 1980, 94 Stat. 425; Pub. L. 97–449, §5(g)(2), Jan. 12, 1983, 96 Stat. 2443; Pub. L. 98–216, §2(11), Feb. 14, 1984, 98 Stat. 5; Pub. L. 103–272, §5(m)(19), July 5, 1994, 108 Stat. 1377, related to exemption of certain miscellaneous water carrier transportation from Commission jurisdiction.
 
 Section 10561, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1369; Pub. L. 99–521, §6(c), Oct. 22, 1986, 100 Stat. 2994; Pub. L. 103–272, §5(m)(20), July 5, 1994, 108 Stat. 1377, related to jurisdiction of Commission over services of household goods freight forwarders. See section 13531 of this title.
 

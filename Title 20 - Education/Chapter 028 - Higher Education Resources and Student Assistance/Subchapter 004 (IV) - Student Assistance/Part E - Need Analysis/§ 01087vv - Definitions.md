@@ -132,7 +132,7 @@ The term “current balance of checking and savings accounts” does not include
 
 (B) If the institutional expense covered by the prepayment must be part of the student's cost of attendance for accounting purposes, the prepayment shall be considered estimated financial assistance.
 
-(3) Notwithstanding paragraph (1), a tax credit taken under section 25A of title 26 shall not be treated as estimated financial assistance for purposes of section 1087kk(3) of this title.
+(3) Notwithstanding paragraph (1), a tax credit taken under section 25A of title 26 shall not betreated as estimated financial assistance for purposes of section 1087kk(3) of this title.
 
 #### (k) Dependents
 
@@ -190,7 +190,7 @@ Public Law 96–342, section 903, referred to in subsec. (c)(2)(J), is set out a
 
 #### Codification
 
-Amendment by section 2(g)(19) of Pub. L. 103–208 (which was effective as if included in Pub. L. 102–325) was executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–82, to reflect the probable intent of Congress.
+Amendment by section 2(g)(19) of Pub. L. 103–208 (which was effective as if included in Pub. L. 102–325)was executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–82, to reflect the probable intent of Congress.
 
 #### Amendments
 

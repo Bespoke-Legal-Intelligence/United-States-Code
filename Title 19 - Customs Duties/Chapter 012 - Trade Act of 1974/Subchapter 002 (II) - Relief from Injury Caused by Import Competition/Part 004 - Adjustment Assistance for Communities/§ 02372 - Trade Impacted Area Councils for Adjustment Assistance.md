@@ -12,7 +12,7 @@ Within 60 days after a community is certified under section 2371 of this title, 
 
 &emsp;(B) coordinate community action under the adjustment assistance plan, as approved by the Secretary.
 
-> If an appropriate entity for purposes of performing the functions specified in subparagraphs (A) and (B) already exists in such area, then the Secretary may designate such entity as the Council for such area.
+> If an appropriate entity for purposes of performing the functions specified in subparagraphs (A)and (B) already exists in such area, then the Secretary may designate such entity as the Council for such area.
 
 (2) Such Council shall include representatives of certified communities, industry, labor, and the general public located in the trade impacted area covered by the Council.
 

@@ -8,7 +8,7 @@ The Secretary of the Treasury shall establish and promulgate such rules and regu
 
 It shall be the duty of all officers of the customs to execute and carry into effect all instructions of the Secretary of the Treasury relative to the execution of the revenue laws; and in case any difficulty arises as to the true construction or meaning of any part of the revenue laws, the decision of the Secretary shall be binding upon all officers of the customs.
 
-(June 17, 1930, ch. 497, title IV, §502, 46 Stat. 731; Pub. L. 91–271, title III, §301(<i>l</i>), June 2, 1970, 84 Stat. 289; Pub. L. 96–417, title VI, §601(3), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 100–449, title IV, §403(a), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title IV, §412(a), title VI, §640, Dec. 8, 1993, 107 Stat. 2146, 2203.)
+(June 17, 1930, ch. 497, title IV, §502, 46 Stat. 731; Pub. L. 91–271, title III, §301(<i>l</i>), June 2, 1970, 84Stat. 289; Pub. L. 96–417, title VI, §601(3), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 100–449, title IV, §403(a), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title IV, §412(a), title VI, §640, Dec. 8, 1993, 107 Stat. 2146, 2203.)
 
 #### Prior Provisions
 

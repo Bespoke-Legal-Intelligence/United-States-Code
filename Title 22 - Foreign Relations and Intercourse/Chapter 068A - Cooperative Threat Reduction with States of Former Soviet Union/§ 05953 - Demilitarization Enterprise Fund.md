@@ -74,7 +74,7 @@ The Board of Directors of the Demilitarization Enterprise Fund shall publish the
 
 #### (j) Termination of designation
 
-A designation of an organization as the Demilitarization Enterprise Fund under subsection (a) of this section shall be temporary. When making the designation, the President shall provide for the eventual termination of the designation.
+A designation of an organization as the Demilitarization Enterprise Fund under subsection (a) of this section shall be temporary. Whenmaking the designation, the President shall provide for the eventual termination of the designation.
 
 (Pub. L. 103–160, div. A, title XII, §1204, Nov. 30, 1993, 107 Stat. 1779.)
 

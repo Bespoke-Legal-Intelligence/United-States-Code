@@ -28,7 +28,7 @@ Pub. L. 102–367, title VII, §701, Sept. 7, 1992, 106 Stat. 1103, provided the
 
 Pub. L. 102–235, §11, Dec. 12, 1991, 105 Stat. 1811, provided that:
 
-“(a) For purposes of this legislation, nothing in this Act \[see Short Title of 1991 Amendment note above\]shall be construed to mean that Congress is taking a position on the issue of comparable worth.
+“(a) For purposes of this legislation, nothing in this Act \[see Short Title of 1991 Amendment note above\] shall be construed to mean that Congress is taking a position on the issue of comparable worth.
 
 “(b) Nothing in this Act shall be construed to require, sanction or authorize discrimination in violation of title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\] or any other Federal law prohibiting discrimination on the basis of race, color, religion, sex, national origin, handicap, or age. No individual shall be excluded from participation in, denied the benefits of, subjected to discrimination under, or denied employment in any program under this Act because of race, color, religion, sex, national origin, age, handicap, political affiliation or belief. Failure to meet the goals in the Act shall not itself constitute a violation of title VII of the Civil Rights Act of 1964 or any other Federal law prohibiting discrimination on the basis of race, color, religion, sex, national origin, handicap, or age.”
 
@@ -96,7 +96,7 @@ Findings.—The Congress finds that—
 
 Statement of Purpose.—The purposes of this Act \[see Short Title of 1991 Amendment note above\] are—
 
-&emsp;“(1) to encourage efforts by the Federal, State, and local levels of government aimed at providing a wider range of opportunities for women under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\];
+&emsp;“(1) to encourage efforts by the Federal, State, and local levels of government aimed at providing a widerrange of opportunities for women under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\];
 
 &emsp;“(2) to provide incentives to establish programs that will train, place, and retain women in nontraditional fields; and
 

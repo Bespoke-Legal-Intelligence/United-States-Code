@@ -4,7 +4,7 @@ It is the purpose of the Foundation to—
 
 &emsp;(1) increase awareness of the importance of and promote the benefit and enjoyment of the Nation's natural resources;
 
-&emsp;(2) foster among the American population greater recognition and understanding of the role of the environment, public lands and resources in the development of the United States;
+&emsp;(2) foster among the American population greater recognition and understanding of therole of the environment, public lands and resources in the development of the United States;
 
 &emsp;(3) identify critical environmental issues;
 

@@ -2,7 +2,7 @@
 
 #### (a) Assessments by Water Resources Council of water resource requirements and water supply availability for nonnuclear energy technologies; preparation requirements
 
-The Water Resources Council shall undertake assessments of water resource requirements and water supply availability for any nonnuclear energy technology and any probable combinations of technologies which are the subject of Federal research and development efforts authorized by this chapter, and the commercial developmentof which could have significant impacts on water resources. In the preparation of its assessment, the Council shall—
+The Water Resources Council shall undertake assessments of water resource requirements and water supply availability for any nonnuclear energy technology and any probable combinations of technologies which are the subject of Federal research and development efforts authorized by this chapter, and the commercial development of which could have significant impacts on water resources. In the preparation of its assessment, the Council shall—
 
 &emsp;(1) utilize to the maximum extent practicable data on water supply and demand available in the files of member agencies of the Council;
 

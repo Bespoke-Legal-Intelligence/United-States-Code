@@ -22,7 +22,7 @@ The term of office of each member of the Council appointed under subsection (a)(
 
 &emsp;(1) of the members first appointed under such paragraph, four shall serve for a term of one year, four shall serve for a term of two years, and four shall serve for a term of three years, as determined by the Secretary of Defense and the Secretary of Education at the time of their appointment, and
 
-&emsp;(2) any member appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.
+&emsp;(2) any member appointed to fill a vacancy occurring before the expiration of the term forwhich his predecessor was appointed shall be appointed for the remainder of such term.
 
 > No member appointed under subsection (a)(2) of this section shall serve more than two full terms on the Council.
 
@@ -40,15 +40,17 @@ The Council shall meet at least two times each year. The functions of the Counci
 
 #### (d) Compensation, etc., of members
 
-Members of the Council who are not in the regular full-time employ of the United States shall, while attending meetings or conferences of the Council or otherwise engaged in the business of the Council, be entitled to receive compensation at the daily equivalent of the rate specified at the time of such service for grade GS–18 in section 5332 of title 5, including traveltime, and while so serving on the business of the Council away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons employed intermittently in the Government service.
+Members of the Council who are not in the regular full-time employ of the United States shall, while attending meetings or conferences of the Council or otherwise engaged in the business of the Council, be entitled to receive compensation at the daily equivalent of the rate specified at the time of such service for level IV of the Executive Schedule under section 5315 of title 5, including traveltime, and while so serving on the business of the Council away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons employed intermittently in the Government service.
 
 #### (e) Termination
 
 The Council shall continue in existence until terminated by law.
 
-(Pub. L. 95–561, title XIV, §1411, Nov. 1, 1978, 92 Stat. 2370; Pub. L. 96–88, title V, §508(j)(3)–(8), Oct. 17, 1979, 93 Stat. 693, 694; Pub. L. 99–145, title XII, §1204(b)(3)–(5), Nov. 8, 1985, 99 Stat. 720, 721.)
+(Pub. L. 95–561, title XIV, §1411, Nov. 1, 1978, 92 Stat. 2370; Pub. L. 96–88, title V, §508(j)(3)–(8), Oct. 17, 1979, 93 Stat. 693, 694; Pub. L. 99–145, title XII, §1204(b)(3)–(5), Nov. 8, 1985, 99 Stat. 720, 721; Pub. L. 106–65, div. A, title III, §354(4), Oct. 5, 1999, 113 Stat. 573.)
 
 #### Amendments
+
+1999—Subsec. (d). Pub. L. 106–65 substituted “level IV of the Executive Schedule under section 5315 of title 5” for “grade GS–18 in section 5332 of title 5”.
 
 1985—Subsec. (a). Pub. L. 99–145, §1204(b)(3)(A), amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “There is established in the Department of Education an Advisory Council on Dependents’ Education (hereinafter in this section referred to as the ‘Council’). The Council shall be composed of—
 
@@ -83,10 +85,6 @@ Subsec. (c)(2) to (5). Pub. L. 96–88, §508(j)(7), (8), added par. (2), redesi
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, see section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
-
-#### References in Other Laws to GS–16, 17, or 18 Pay Rates
-
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Applications from State agencies
 
-Each State educational agency desiring a grant from the Secretary under this part shall submit to the Secretary an application at such time, in such manner, and containing or accompanied by such information as the Secretary may require.
+Each State educational agency desiring a grant from the Secretary under this part shallsubmit to the Secretary an application at such time, in such manner, and containing or accompanied by such information as the Secretary may require.
 
 #### (b) Contents of State educational agency application
 

@@ -12,7 +12,7 @@
 
 &emsp;(B) those standards are being enforced.
 
-(3) If the Secretary determines under this subsection that a country has failed to maintain orenforce standards at least equivalent to United States law or international standards accepted by the United States, the Secretary shall prohibit vessels issued documentation by that country from entering the United States until the Secretary determines those standards have been established and are being enforced.
+(3) If the Secretary determines under this subsection that a country has failed to maintain or enforce standards at least equivalent to United States law or international standards accepted by the United States, the Secretary shall prohibit vessels issued documentation by that country from entering the United States until the Secretary determines those standards have been established and are being enforced.
 
 (4) The Secretary may allow provisional entry of a vessel prohibited from entering the United States under paragraph (3) of this subsection if—
 

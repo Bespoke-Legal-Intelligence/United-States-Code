@@ -2,7 +2,7 @@
 
 The Congress finds that—
 
-&emsp;(1) the commercial fishing industry of the United States significantly contributes to thenational economy, and could make a greater contribution if fish resources within the United States Exclusive Economic Zone were more fully utilized;
+&emsp;(1) the commercial fishing industry of the United States significantly contributes to the national economy, and could make a greater contribution if fish resources within the United States Exclusive Economic Zone were more fully utilized;
 
 &emsp;(2) the commercial fisheries of the United States provide significant employment in coastal areas and in processing and distribution centers;
 

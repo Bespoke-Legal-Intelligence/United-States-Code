@@ -24,7 +24,7 @@ The President shall act to encourage the establishment of “sister institution�
 
 #### (e) Authorization of appropriations
 
-To enable the United States Information Agency to support the activities described in this section, there are authorized to be appropriated $12,000,000 for the 3-year period beginning October 1, 1989, in addition to amounts otherwise available for such purposes.
+To enable the United States Information Agency to support the activities described inthis section, there are authorized to be appropriated $12,000,000 for the 3-year period beginning October 1, 1989, in addition to amounts otherwise available for such purposes.
 
 (Pub. L. 101–179, title IV, §401, Nov. 28, 1989, 103 Stat. 1314.)
 

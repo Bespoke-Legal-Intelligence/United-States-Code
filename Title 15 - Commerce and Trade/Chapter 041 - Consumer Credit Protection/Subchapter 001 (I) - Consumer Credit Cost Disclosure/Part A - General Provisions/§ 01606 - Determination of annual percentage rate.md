@@ -10,7 +10,7 @@ The annual percentage rate applicable to any extension of consumer credit shall 
 
 &emsp;&emsp;(B) the rate determined by any method prescribed by the Board as a method which materially simplifies computation while retaining reasonable accuracy as compared with the rate determined under subparagraph (A).
 
-&emsp;(2) in the case of any extension of credit under an open end credit plan, as the quotient (expressed as a percentage) of the total finance charge for the period to which it relates divided by the amount upon which the finance charge for that period is based, multiplied by the number of such periods in a year.
+&emsp;(2) in the case of any extension of credit under an open end credit plan, as the quotient (expressed as a percentage) of the total financecharge for the period to which it relates divided by the amount upon which the finance charge for that period is based, multiplied by the number of such periods in a year.
 
 #### (b) Computation of rate of finance charges for balances within a specified range
 

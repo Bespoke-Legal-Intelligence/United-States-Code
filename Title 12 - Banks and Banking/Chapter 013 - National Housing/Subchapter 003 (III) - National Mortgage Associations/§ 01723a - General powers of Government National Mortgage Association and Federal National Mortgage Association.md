@@ -28,7 +28,7 @@ Except as may be otherwise provided in this subchapter, in chapter 91 of title 3
 
 #### (e) Prohibition against use of names; injunction; damages
 
-No individual, association, partnership, or corporation, except the bodies corporate named in section 1717(a)(2) of this title, shall hereafter usethe words “Federal National Mortgage Association,” “Government National Mortgage Association,” or any combination of such words, as the name or a part thereof under which the individual, association, partnership, or corporation shall do business. Violations of the foregoing sentence may be enjoined by any court of general jurisdiction at the suit of the proper body corporate. In any such suit, the plaintiff may recover any actual damages flowing from such violation, and, in addition, shall be entitled to punitive damages (regardless of the existence or nonexistence of actual damages) of not exceeding $100 for each day during which such violation is committed or repeated.
+No individual, association, partnership, or corporation, except the bodies corporate named in section 1717(a)(2) of this title, shall hereafter use the words “Federal National Mortgage Association,” “Government National Mortgage Association,” or any combination of such words, as the name or a part thereof under which the individual, association, partnership, or corporation shall do business. Violations of the foregoing sentence may be enjoined by any court of general jurisdiction at the suit of the proper body corporate. In any such suit, the plaintiff may recover any actual damages flowing from such violation, and, in addition, shall be entitled to punitive damages (regardless of the existence or nonexistence of actual damages) of not exceeding $100 for each day during which such violation is committed or repeated.
 
 #### (f) Preparation of forms of obligations and certificates
 
@@ -140,7 +140,7 @@ The Federal Reserve banks are authorized and directed to act as depositaries, cu
 
 (3)(A) The corporation shall make each report under this subsection available to the public at the principal and regional offices of the corporation.
 
-(B) Before making a report under this subsection available to the public, the corporation may exclude from the report information that the Secretary has determined is proprietary information under section 1326 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[12 U.S.C. 4546\].
+(B) Before making a report under this subsection available to the public, the corporationmay exclude from the report information that the Secretary has determined is proprietary information under section 1326 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[12 U.S.C. 4546\].
 
 #### (<i>o</i>) Affordable Housing Advisory Council
 

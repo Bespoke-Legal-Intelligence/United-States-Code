@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—For purposes of this chapter, an alternative dispute resolution process includes any process or procedure, other than an adjudication by a presiding judge, in which a neutral third party participates to assist in the resolution of issues in controversy, through processes such as early neutral evaluation, mediation, minitrial, and arbitration as provided in sections 654 through 658.
+Definition.—For purposes of this chapter, an alternative dispute resolution process includes any process or procedure, other than anadjudication by a presiding judge, in which a neutral third party participates to assist in the resolution of issues in controversy, through processes such as early neutral evaluation, mediation, minitrial, and arbitration as provided in sections 654 through 658.
 
 (b)
 
@@ -86,7 +86,7 @@ Section 904 of title IX of Pub. L. 100–702 provided that: “Nothing in this t
 
 #### Authorization of Appropriations
 
-Pub. L. 105–315, §11, Oct. 30, 1998, 112 Stat. 2998, provided that: “There are authorized to be appropriatedfor each fiscal year such sums as may be necessary to carry out chapter 44 of title 28, United States Code, as amended by this Act.”
+Pub. L. 105–315, §11, Oct. 30, 1998, 112 Stat. 2998, provided that: “There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out chapter 44 of title 28, United States Code, as amended by this Act.”
 
 Section 905 of Pub. L. 100–702, as amended by Pub. L. 103–192, §1(b), Dec. 14, 1993, 107 Stat. 2292; Pub. L. 103–420, §3(a), Oct. 25, 1994, 108 Stat. 4345; Pub. L. 105–53, §1, Oct. 6, 1997, 111 Stat. 1173, provided that: “There are authorized to be appropriated for each fiscal year to the judicial branch such sums as may be necessary to carry out the purposes of chapter 44, as added by section 901 of this Act. Funds appropriated under this section shall be allocated by the Administrative Office of the United States Courts to Federal judicial districts and the Federal Judicial Center. The funds so appropriated are authorized to remain available until expended.”
 

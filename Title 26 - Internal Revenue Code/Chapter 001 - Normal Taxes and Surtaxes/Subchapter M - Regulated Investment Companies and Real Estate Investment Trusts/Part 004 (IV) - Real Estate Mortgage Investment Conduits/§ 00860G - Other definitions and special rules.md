@@ -36,7 +36,7 @@ For purposes of this part—
 
 &emsp;&emsp;(C) any regular interest in another REMIC transferred to the REMIC on the startup day in exchange for regular or residual interests in the REMIC, and
 
-&emsp;&emsp;(D) any regular interest in a FASIT which is transferred to, or purchased by, the REMIC as described in clauses (i) and (ii) of subparagraph (A) but only if 95 percent or more of the value of the assets of suchFASIT is at all times attributable to obligations described in subparagraph (A) (without regard to such clauses).
+&emsp;&emsp;(D) any regular interest in a FASIT which is transferred to, or purchased by, the REMIC as described in clauses (i) and (ii) of subparagraph (A) but only if 95 percent or more of the value of the assets of such FASIT is at all times attributable to obligations described in subparagraph (A) (without regard to such clauses).
 
 > &emsp;For purposes of subparagraph (A), any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property.
 
@@ -186,7 +186,7 @@ Subsec. (a)(4)(A). Pub. L. 100–647, §1006(t)(5)(D), amended subpar. (A) gener
 
 Subsec. (a)(7)(B). Pub. L. 100–647, §1006(t)(7), inserted before period at end of first sentence “or lower than expected returns on cash flow investments”.
 
-Subsec. (a)(8). Pub. L. 100–647, §1006(t)(8)(A), substituted “section 856(e) (without regard to paragraph (5) thereof)” for “section 856(e)” in subpar. (A) and amended last sentence generally. Prior to amendment, last sentence read as follows: “Property shall cease to be foreclosure property with respect to the REMIC on the date which is 1 year after the date such real estate mortgage pool acquired such property.”
+Subsec. (a)(8). Pub. L. 100–647, §1006(t)(8)(A), substituted “section 856(e) (without regard to paragraph (5) thereof)” for “section 856(e)” in subpar. (A) and amended last sentence generally. Prior to amendment, last sentence read as follows: “Property shall cease to be foreclosure property with respect to the REMIC onthe date which is 1 year after the date such real estate mortgage pool acquired such property.”
 
 Subsec. (a)(9). Pub. L. 100–647, §1006(t)(5)(E), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘startup day’ means any day selected by a REMIC which is on or before the 1st day on which interests in such REMIC are issued.”
 
@@ -206,7 +206,7 @@ Amendment by Pub. L. 104–188 effective Sept. 1, 1997, see section 1621(d) of P
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988,Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

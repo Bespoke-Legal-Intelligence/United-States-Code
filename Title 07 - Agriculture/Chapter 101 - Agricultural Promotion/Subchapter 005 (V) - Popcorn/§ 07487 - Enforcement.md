@@ -6,7 +6,7 @@ The Secretary may issue an enforcement order to restrain or prevent any person f
 
 #### (b) Jurisdiction
 
-The district courts of the United States are vested with jurisdiction specifically to enforce, and to prevent and restrain any person from violating, an order or regulation issued under this subchapter.
+The district courts of the United States are vested with jurisdiction specifically to enforce,and to prevent and restrain any person from violating, an order or regulation issued under this subchapter.
 
 #### (c) Referral to Attorney General
 

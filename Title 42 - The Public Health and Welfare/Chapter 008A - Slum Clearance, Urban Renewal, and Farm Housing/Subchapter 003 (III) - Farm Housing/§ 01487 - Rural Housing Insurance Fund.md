@@ -2,7 +2,7 @@
 
 #### (a) Authority to make and insure loans for housing and buildings on adequate farms; amounts
 
-The Secretary may insure loans meeting the requirements of section 1472 of this title, and may make loans in accordance with the requirements of such section to be sold and insured. The amount of such a loan to a low income person or family shall not exceed the amount necessary to provide adequate housing which is modest in size, design, and cost (as determined by the Secretary).
+The Secretary may insure loans meeting the requirements of section 1472 of this title, andmay make loans in accordance with the requirements of such section to be sold and insured. The amount of such a loan to a low income person or family shall not exceed the amount necessary to provide adequate housing which is modest in size, design, and cost (as determined by the Secretary).
 
 #### (b) Authority to make and insure loans for housing and related facilities for domestic farm labor and elderly persons; transfer of notes, contracts, and mortgages from Agricultural Credit Insurance Fund; compensation
 
@@ -16,7 +16,7 @@ The Secretary may use the Rural Housing Insurance Fund for the purpose of making
 
 (1) The Secretary may, in conformity with subsections (a), (b), and (m) of this section, insure the payment of principal and interest on loans made by lenders other than the United States, and on loans made from or otherwise acquired by the Rural Housing Insurance Fund which are sold by the Secretary. Any contract of insurance executed by the Secretary hereunder shall be an obligation supported by the full faith and credit of the United States, and shall be incontestable except for fraud or material misrepresentation of which the holder has actual knowledge. In connection with loans insured under this section, the Secretary may take liens running to the United States notwithstanding the fact that the notes evidencing such loans may be held by lenders other than the United States. Notes evidencing such loans shall be freely assignable, but the Secretary shall not be bound by any such assignment until notice thereof is given to and acknowledged by him.
 
-(2) Each loan made by the Secretary or other lenders under this subchapter that is insured orguaranteed in accordance with this subsection shall, when offered for sale to the public, be accompanied by an agreement by the Secretary to pay to the holder of such loan (through an agreement to purchase such loan or through such other means as the Secretary determines to be appropriate) the difference between the rate of interest paid by the borrower of such loan and the market rate of interest (as determined by the Secretary) on obligations having comparable periods to maturity on the date of such sale.
+(2) Each loan made by the Secretary or other lenders under this subchapter that is insured or guaranteed in accordance with this subsection shall, when offered for sale to the public, be accompanied by an agreement by the Secretary to pay to the holder of such loan (through an agreement to purchase such loan or through such other means as the Secretary determines to be appropriate) the difference between the rate of interest paid by the borrower of such loan and the market rate of interest (as determined by the Secretary) on obligations having comparable periods to maturity on the date of such sale.
 
 (3) Each loan made by the Secretary or other lenders under this subchapter that is insured or guaranteed in accordance with this subsection shall, when offered for sale to the public, be accompanied by agreements for the benefit of the borrower under the loan that provide that—
 
@@ -52,7 +52,7 @@ The Secretary may retain out of interest payments by the borrower an annual char
 
 The Secretary may also utilize the Fund—
 
-&emsp;(1) to pay amounts to which the holder of the note is entitled in accordance with an insurance or sale agreement under this section accruing between the date of any payment bythe borrower to the Secretary and the date of transmittal of any such payments to the holder of the note; and in the discretion of the Secretary, payments other than final payments need not be remitted to the holder until due or until the next agreed annual or semiannual remittance date;
+&emsp;(1) to pay amounts to which the holder of the note is entitled in accordance with an insurance or sale agreement under this section accruing between the date of any payment by the borrower to the Secretary and the date of transmittal of any such payments to the holder of the note; and in the discretion of the Secretary, payments other than final payments need not be remitted to the holder until due or until the next agreed annual or semiannual remittance date;
 
 &emsp;(2) to pay the holder of any note insured under this section any defaulted installment or, upon assignment of the note to the Secretary at the Secretary's request, or pursuant to a purchase agreement, the entire balance outstanding on the note;
 

@@ -10,7 +10,7 @@ A parent who is a citizen of the United States may apply to the Attorney General
 
 &emsp;(3) The child is under the age of 18 years and in the legal custody of the citizen parent.
 
-&emsp;(4) If the citizen parent is an adoptive parent of the child, the child was adopted by the citizen parent before the child reached the age of 16 years and the child meets the requirements for being a child under subparagraph (E) or (F) of section 1101(b)(1) of this title.
+&emsp;(4) If the citizen parent is an adoptive parent of the child, the child was adopted by the citizen parent before the child reached the age of 16 years (except to the extent that the child is described in clause (ii) of subparagraph (E) or (F) of section 1101(b)(1) of this title) and the child meets the requirements for being a child under either of such subparagraphs.
 
 &emsp;(5) If the citizen parent has not been physically present in the United States or its outlying possessions for a period or periods totaling not less than five years, at least two of which were after attaining the age of fourteen years—
 
@@ -26,9 +26,11 @@ Upon approval of the application (which may be filed abroad) and, except as prov
 
 Subsection (a) of this section shall apply to the adopted child of a United States citizen adoptive parent if the conditions specified in such subsection have been fulfilled.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §322, 66 Stat. 246; Pub. L. 95–417, §6, Oct. 5, 1978, 92 Stat. 918; Pub. L. 97–116, §18(m), (n), Dec. 29, 1981, 95 Stat. 1620, 1621; Pub. L. 99–653, §16, Nov. 14, 1986, 100 Stat. 3658; Pub. L. 100–525, §8(<i>l</i>), Oct. 24, 1988, 102 Stat. 2618; Pub. L. 101–649, title IV, §407(b)(2), (c)(6), (d)(5), Nov. 29, 1990, 104 Stat. 5040–5042; Pub. L. 102–232, title III, §305(m)(3), Dec. 12, 1991, 105 Stat. 1750; Pub. L. 103–416, title I, §102(a), Oct. 25, 1994, 108 Stat. 4306.)
+(June 27, 1952, ch. 477, title III, ch. 2, §322, 66 Stat. 246; Pub. L. 95–417, §6, Oct. 5, 1978, 92 Stat. 918; Pub. L. 97–116, §18(m), (n), Dec. 29, 1981, 95 Stat. 1620, 1621; Pub. L. 99–653, §16, Nov. 14, 1986, 100 Stat. 3658; Pub. L. 100–525, §8(<i>l</i>), Oct. 24, 1988, 102 Stat. 2618; Pub. L. 101–649, title IV, §407(b)(2), (c)(6), (d)(5), Nov. 29, 1990, 104 Stat. 5040–5042; Pub. L. 102–232, title III, §305(m)(3), Dec. 12, 1991, 105 Stat. 1750; Pub. L. 103–416, title I, §102(a), Oct. 25, 1994, 108 Stat. 4306; Pub. L. 106–139, §1(b)(2), Dec. 7, 1999, 113 Stat. 1697.)
 
 #### Amendments
+
+1999—Subsec. (a)(4). Pub. L. 106–139 substituted “16 years (except to the extent that the child is described in clause (ii) of subparagraph (E) or (F) of section 1101(b)(1) of this title)” for “16 years” and “either of such subparagraphs” for “subparagraph (E) or (F) of section 1101(b)(1) of this title”.
 
 1994—Pub. L. 103–416 amended section generally, substituting present provisions for former provisions which related to: in subsec. (a) naturalization on application of citizen parents; in subsec. (b) adopted children; and subsec. (c) specified period of residence for adopted children.
 

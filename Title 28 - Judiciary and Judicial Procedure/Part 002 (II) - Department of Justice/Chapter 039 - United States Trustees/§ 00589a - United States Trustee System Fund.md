@@ -22,7 +22,7 @@
 
 (b) For the purpose of recovering the cost of services of the United States Trustee System, there shall be deposited as offsetting collections to the appropriation “United States Trustee System Fund”, to remain available until expended, the following—
 
-&emsp;(1) 23.08 percent of the fees collected under section 1930(a)(1) of this title;
+&emsp;(1) 27.42 percent of the fees collected under section 1930(a)(1) of this title;
 
 &emsp;(2) one-half of the fees collected under section 1930(a)(3) of this title;
 
@@ -34,9 +34,11 @@
 
 &emsp;(6) three-fourths of the fees collected under the last sentence of section 1930(a) of this title;
 
-&emsp;(7) the compensation of trustees received under section 330(d) of title 11 by the clerks of the bankruptcy courts; and
+&emsp;(7) the compensation of trustees received under section 330(d) of title 11 by the clerks of the bankruptcy courts;
 
-&emsp;(8) excess fees collected under section 586(e)(2) of this title.
+&emsp;(8) excess fees collected under section 586(e)(2) of this title; and
+
+&emsp;(9) interest earned on Fund investment.
 
 (c) Amounts in the Fund which are not currently needed for the purposes specified in subsection (a) shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
@@ -44,13 +46,17 @@
 
 (e) There are authorized to be appropriated to the Fund for any fiscal year such sums as may be necessary to supplement amounts deposited under subsection (b) for the purposes specified in subsection (a).
 
-(Added Pub. L. 99–554, title I, §115(a), Oct. 27, 1986, 100 Stat. 3094; amended Pub. L. 101–162, title IV, §406(c), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(b), (c), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(2), (b)(2), (3), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–18.)
+(Added Pub. L. 99–554, title I, §115(a), Oct. 27, 1986, 100 Stat. 3094; amended Pub. L. 101–162, title IV, §406(c), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(b), (c), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(2), (b)(2), (3), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–6, 1501A–20.)
 
 #### Codification
 
 Amendment by Pub. L. 104–91 is based on section 111(b) and (c) of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, which was enacted into law by Pub. L. 104–91.
 
 #### Amendments
+
+1999—Subsec. (b)(1). Pub. L. 106–113, §1000(a)(1) \[title I, §113\], substituted “27.42 percent” for “23.08 percent”.
+
+Subsec. (b)(9). Pub. L. 106–113, §1000(a)(1) \[title I\], added par. (9).
 
 1996—Pub. L. 104–208 reenacted section catchline without change and amended text generally, revising and restating as subsecs. (a) to (e) provisions of former subsecs. (a) to (f).
 
@@ -73,6 +79,10 @@ Subsec. (b)(5). Pub. L. 102–140, §111(b)(2), substituted “60 per centum” 
 Subsec. (f). Pub. L. 102–140, §111(c), added subsec. (f).
 
 1989—Subsec. (b)(1). Pub. L. 101–162 substituted “one-fourth” for “one-third”.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that the amendment made by section 1000(a)(1) \[title I, §113\] is effective 30 days after Nov. 29, 1999.
 
 #### Effective Date of 1996 Amendment
 

@@ -24,7 +24,7 @@
 
 (d) Upon satisfactorily completing the academic and military requirements of the program, a cadet may be appointed as a reserve officer in the Army in the grade of second lieutenant, even though he is under 21 years of age.
 
-(e) The date of rank of officers appointed under this section in May or June of any year is the date of graduation of cadets from the United States Military Academy in that year. The Secretary of the Army shall establish the date ofrank of all other officers appointed under this section.
+(e) The date of rank of officers appointed under this section in May or June of any year is the date of graduation of cadets from the United States Military Academy in that year. The Secretary of the Army shall establish the date of rank of all other officers appointed under this section.
 
 (f) A cadet who does not complete the course of instruction, or who completes the course but declines to accept a commission when offered, or who does not complete a baccalaureate degree within five years after appointment as a cadet under this section, may be ordered to active duty by the Secretary of the Army to serve in his enlisted grade for such period of time as the Secretary prescribes but not for more than four years.
 
@@ -66,5 +66,5 @@ No increase in pay or retired or retainer pay to accrue for periods before Sept.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2005, 2108 of this title.
+This section is referred to in sections 2005, 2108, 2111b of this title.
 

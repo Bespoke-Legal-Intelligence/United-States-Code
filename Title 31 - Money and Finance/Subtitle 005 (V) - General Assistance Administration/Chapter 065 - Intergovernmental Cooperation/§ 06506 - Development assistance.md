@@ -24,7 +24,7 @@
 
 (e) To the maximum extent practicable, each executive agency carrying out a development assistance program shall consult with and seek advice from all other significantly affected executive agencies in an effort to ensure completely coordinated programs. To the extent possible, systematic planning required by individual United States Government programs (such as highway construction, urban renewal, and open space) shall be coordinated with and, to the extent authorized by law, made part of comprehensive local and areawide development planning.
 
-(f) When a law of the United States provides that both a special-purpose unit of local government and a unit of general local government are eligible to receive a loan or grant, the head of an executive agency shall make the loan or grant to the unit of general local government insteadof the special-purpose unit of local government in the absence of substantial reasons to the contrary.
+(f) When a law of the United States provides that both a special-purpose unit of local government and a unit of general local government are eligible to receive a loan or grant, the head of an executive agency shall make the loan or grant to the unit of general local government instead of the special-purpose unit of local government in the absence of substantial reasons to the contrary.
 
 (g) The President may designate an executive agency to prescribe regulations to carry out this section.
 
@@ -124,5 +124,5 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 16 sections 460u–21, 1456; title 40 section 601a; title 42 section 3151a; title 43 section 1721.
+This section is referred to in title 16 sections 460u–21, 1456; title 40 section 601a; title 43 section 1721.
 

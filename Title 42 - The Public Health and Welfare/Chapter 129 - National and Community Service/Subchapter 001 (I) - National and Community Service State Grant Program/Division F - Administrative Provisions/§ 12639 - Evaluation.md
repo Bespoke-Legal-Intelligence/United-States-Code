@@ -34,7 +34,7 @@ The Corporation shall develop and publish general standards for the evaluation o
 
 #### (e) Community participation
 
-In evaluating a program receiving assistance under the national service laws, the Corporation shall consider the opinions of participants and members of the communities where services are delivered concerning the strengths and weaknesses of such program.
+In evaluating a program receiving assistance under the national service laws, the Corporation shall consider the opinions of participants andmembers of the communities where services are delivered concerning the strengths and weaknesses of such program.
 
 #### (f) Comparison of program models
 
@@ -108,7 +108,7 @@ The Corporation shall ensure that programs that receive assistance under divisio
 
 #### (C) Communities
 
-&emsp;&emsp;In conducting the evaluation, the entity shall determine the amount of assistance provided under section 12571 of this title during the year that has been expended for projects conducted under the programs in areas described in section 12585(c)(6) of this title.
+&emsp;&emsp;In conducting the evaluation, the entity shall determine the amount of assistanceprovided under section 12571 of this title during the year that has been expended for projects conducted under the programs in areas described in section 12585(c)(6) of this title.
 
 #### (2) Report
 

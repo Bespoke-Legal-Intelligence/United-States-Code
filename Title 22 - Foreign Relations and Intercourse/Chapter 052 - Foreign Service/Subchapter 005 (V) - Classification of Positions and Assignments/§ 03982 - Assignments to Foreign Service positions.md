@@ -34,7 +34,7 @@ Section 3902(a)(3) of this title, referred to in subsec. (c), was redesignated s
 
 #### Delegation of Functions
 
-Functions of President under subsec. (c) delegated to Secretary of State, see section 1 of Ex. Ord. No. 12293,Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
+Functions of President under subsec. (c) delegated to Secretary of State, see section 1 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
 
 #### Report Respecting Policies and Procedures Adopted To Improve Competitive Ability of Personnel
 

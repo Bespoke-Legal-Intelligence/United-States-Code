@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In applying this section, there shall be disregarded any transaction (which would otherwise be treated as a constructive sale) during the taxable year if—
+&emsp;&emsp;In applying this section, there shall be disregarded any transaction (which wouldotherwise be treated as a constructive sale) during the taxable year if—
 
 &emsp;&emsp;&emsp;(i) such transaction is closed before the end of the 30th day after the close of such taxable year,
 

@@ -2,9 +2,7 @@
 
 #### (a) Authorization; research concerning yellowfin tuna; annual report
 
-(1) The Secretary is authorized to make grants, or to provide financial assistance in such other form as he deems appropriate, to any Federal or State agency, public or private institution, or other person for the purpose of assisting such agency, institution, or person to undertake research in subjects which are relevant to the protection and conservation of marine mammals. In carrying out this subsection, the Secretary shall undertake a program of, and shall provide financial assistance for, research into new methods of locating and catching yellowfin tuna without the incidental taking of marine mammals. The Secretary shall include a description of the annual results of research carried out under this section in the report required under section 1373(f) of this title.
-
-(2) For purposes of identifying appropriate research into promising new methods of locating and catching yellowfin tuna without the incidental taking of marine mammals, the Secretary shall contract for an independent review of information pertaining to such potential alternative methods to be conducted by the National Academy of Sciences with individuals having scientific, technical, or other expertise that may be relevant to the identification of promising alternative fishing techniques. The Secretary shall request that the independent review be submitted to the Secretary on or before September 8, 1989, and the Secretary shall submit the report of the independent review, together with a proposed plan for research, development, and implementation of alternative fishing techniques, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives on or before December 5, 1989.
+The Secretary is authorized to make grants, or to provide financial assistance in such other form as he deems appropriate, to any Federal or State agency, public or private institution, or other person for the purpose of assisting such agency, institution, or person to undertake research in subjects which are relevant to the protection and conservation of marine mammals. In carrying out this subsection, the Secretary shallundertake a program of, and shall provide financial assistance for, research into new methods of locating and catching yellowfin tuna without the incidental taking of marine mammals. The Secretary shall include a description of the annual results of research carried out under this section in the report required under section 1373(f) of this title.
 
 #### (b) Terms and conditions
 
@@ -34,11 +32,9 @@ Any grant or other financial assistance provided by the Secretary pursuant to th
 
 (Pub. L. 92–522, title I, §110, Oct. 21, 1972, 86 Stat. 1041; Pub. L. 95–136, §1, Oct. 18, 1977, 91 Stat. 1167; Pub. L. 95–316, §2, July 10, 1978, 92 Stat. 380; Pub. L. 97–58, §5, Oct. 9, 1981, 95 Stat. 986; Pub. L. 100–711, §4(e), Nov. 23, 1988, 102 Stat. 4768; Pub. L. 103–238, §20, Apr. 30, 1994, 108 Stat. 560; Pub. L. 105–42, §4(f), Aug. 15, 1997, 111 Stat. 1125.)
 
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 105–42, §§4(f), 8, Aug. 15, 1997, 111 Stat. 1125, 1139, provided that, effective as provided by section 8 of Pub. L. 105–42, see Effective Date of 1997 Amendment note below, subsection (a) of this section is amended by striking “(1)” in paragraph (1) and by striking paragraph (2).</i>
-
 #### Amendments
+
+1997—Subsec. (a). Pub. L. 105–42 struck out “(1)” before “The Secretary is authorized” and struck out par. (2) which read as follows: “For purposes of identifying appropriate research into promising new methods of locating and catching yellowfin tuna without the incidental taking of marine mammals, the Secretary shall contract for an independent review of information pertaining to such potential alternative methods to be conducted by the National Academy of Sciences with individuals having scientific, technical, or other expertise that may be relevant to the identification of promising alternative fishing techniques. The Secretary shall request that the independent review be submitted to the Secretary on or before September 8, 1989, and the Secretary shall submit the report of the independent review, together with a proposed plan for research, development, and implementation of alternative fishing techniques, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives on or before December 5, 1989.”
 
 1994—Subsecs. (c), (d). Pub. L. 103–238 added subsecs. (c) and (d) and struck out former subsec. (c) which authorized appropriations to be made available to the Secretary of Commerce and the Secretary of the Interior for purposes of carrying out this section for fiscal year ending June 30, 1973, to fiscal year ending Sept. 30, 1981.
 
@@ -52,7 +48,7 @@ Any grant or other financial assistance provided by the Secretary pursuant to th
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–42, effective upon certification by Secretary of Commerce that sufficient funding is available to complete first year of study required by section 1414a(a) of this title and that study has commenced, and certification by Secretary of State to Congress that binding resolution of Inter-American Tropical Tuna Commission or other legally binding instrument establishing International Dolphin Conservation Program has been adopted and is in force, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
+For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

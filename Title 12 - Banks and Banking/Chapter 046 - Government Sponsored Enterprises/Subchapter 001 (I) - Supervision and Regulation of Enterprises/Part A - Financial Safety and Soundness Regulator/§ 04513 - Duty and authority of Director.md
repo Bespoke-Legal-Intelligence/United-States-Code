@@ -12,7 +12,7 @@ The Director is authorized, without the review or approval of the Secretary, to 
 
 &emsp;(2) examinations of the enterprises under section 4517 of this title;
 
-&emsp;(3) determining the capital levels of the enterprises and classification of the enterprises within capital classifications established under subchapter II of this chapter;
+&emsp;(3) determining the capital levels of the enterprises and classification of the enterpriseswithin capital classifications established under subchapter II of this chapter;
 
 &emsp;(4) decisions to appoint conservators for the enterprises;
 

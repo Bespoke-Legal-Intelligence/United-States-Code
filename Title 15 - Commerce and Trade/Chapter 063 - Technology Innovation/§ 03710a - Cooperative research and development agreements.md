@@ -12,7 +12,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 (1) Under an agreement entered into pursuant to subsection (a)(1) of this section, the laboratory may grant, or agree to grant in advance, to a collaborating party patent licenses or assignments, or options thereto, in any invention made in whole or in part by a laboratory employee under the agreement, for reasonable compensation when appropriate. The laboratory shall ensure, through such agreement, that the collaborating party has the option to choose an exclusive license for a pre-negotiated field of use for any such invention under the agreement or, if there is more than one collaborating party, that the collaborating parties are offered the option to hold licensing rights that collectively encompass the rights that would be held under such an exclusive license by one party. In consideration for the Government's contribution under the agreement, grants under this paragraph shall be subject to the following explicit conditions:
 
-&emsp;(A) A nonexclusive, nontransferable, irrevocable, paid-up license from the collaboratingparty to the laboratory to practice the invention or have the invention practiced throughout the world by or on behalf of the Government. In the exercise of such license, the Government shall not publicly disclose trade secrets or commercial or financial information that is privileged or confidential within the meaning of section 552(b)(4) of title 5 or which would be considered as such if it had been obtained from a non-Federal party.
+&emsp;(A) A nonexclusive, nontransferable, irrevocable, paid-up license from the collaborating party to the laboratory to practice the invention or have the invention practiced throughout the world by or on behalf of the Government. In the exercise of such license, the Government shall not publicly disclose trade secrets or commercial or financial information that is privileged or confidential within the meaning of section 552(b)(4) of title 5 or which would be considered as such if it had been obtained from a non-Federal party.
 
 &emsp;(B) If a laboratory assigns title or grants an exclusive license to such an invention, the Government shall retain the right—
 
@@ -66,7 +66,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 &emsp;(A) give special consideration to small business firms, and consortia involving small business firms; and
 
-&emsp;(B) give preference to business units located in the United States which agree that products embodying inventions made under the cooperative research and development agreement or produced through the use of such inventions will be manufactured substantially inthe United States and, in the case of any industrial organization or other person subject to the control of a foreign company or government, as appropriate, take into consideration whether or not such foreign government permits United States agencies, organizations, or other persons to enter into cooperative research and development agreements and licensing agreements.
+&emsp;(B) give preference to business units located in the United States which agree that products embodying inventions made under the cooperative research and development agreement or produced through the use of such inventions will be manufactured substantially in the United States and, in the case of any industrial organization or other person subject to the control of a foreign company or government, as appropriate, take into consideration whether or not such foreign government permits United States agencies, organizations, or other persons to enter into cooperative research and development agreements and licensing agreements.
 
 (5)(A) If the head of the agency or his designee desires an opportunity to disapprove or require the modification of any such agreement presented by the director of a Government-operated laboratory, the agreement shall provide a 30-day period within which such action must be taken beginning on the date the agreement is presented to him or her by the head of the laboratory concerned.
 
@@ -156,7 +156,7 @@ Subsec. (d)(1). Pub. L. 102–245 inserted “intellectual property,” after �
 
 1991—Subsec. (d)(2). Pub. L. 102–25 substituted “naval” for “Naval” in concluding provisions.
 
-1989—Subsec. (a). Pub. L. 101–189, §3133(a)(1)(A), inserted “, and, to the extent provided in an agency-approved joint work statement, the director of any of itsGovernment-owned, contractor-operated laboratories” after “Government-operated Federal laboratories” in introductory provisions.
+1989—Subsec. (a). Pub. L. 101–189, §3133(a)(1)(A), inserted “, and, to the extent provided in an agency-approved joint work statement, the director of any of its Government-owned, contractor-operated laboratories” after “Government-operated Federal laboratories” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 101–189, §3133(a)(1)(B), (C), substituted “(in the case of a Government-owned, contractor-operated laboratory, subject to subsection (c) of this section) for” for “for Government-owned” and struck out “of Federal employees” before “that may be voluntarily”.
 
@@ -232,5 +232,5 @@ Section 3133(d) of Pub. L. 101–189, as amended by Pub. L. 101–510, div. A, t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 278n, 3710c, 3714, 3715, 5528 of this title; title 7 section 7624; title 10 sections 2371a, 2500, 2519; title 23 sections 307, 403; title 33 section 2313; title 42 sections 2123, 13541; title 49 section 309.
+This section is referred to in sections 278n, 3710c, 3714, 3715, 5528 of this title; title 7 section 7624; title 10 sections 2371a, 2500, 2519; title 23 sections 403, 502; title 33 section 2313; title 42 sections 2123, 13541; title 49 section 309.
 

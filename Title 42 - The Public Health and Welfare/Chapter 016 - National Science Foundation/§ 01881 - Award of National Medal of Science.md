@@ -46,7 +46,7 @@ Section 1. <i>Award of Medal</i>. (a) The President shall award the National Med
 
 (A) is a citizen or other national of the United States; or
 
-(B) is an alien lawfully admitted to the United States for permanent residence who (i) has filed a petition for naturalization in the manner prescribed by Section 334(b) of the Immigration and Nationality Act \[8 U.S.C. 1445(b)\], and (ii) is not permanently ineligible to become a citizen of the United States.
+(B) is an alien lawfully admitted to the United States for permanent residence who (i) has filed a petition for naturalization in the manner prescribed by Section334(b) of the Immigration and Nationality Act \[8 U.S.C. 1445(b)\], and (ii) is not permanently ineligible to become a citizen of the United States.
 
 (3) Notwithstanding the provisions of paragraph (2) of this subsection, the Medal may be awarded posthumously, but only to individuals who, at the time of their death, met the conditions set forth in paragraph (2). The Medal shall not be awarded to any individual after the fifth anniversary of the day of his death.
 
@@ -88,7 +88,7 @@ Sec. 6. <i>Prior Orders</i>. (a) Subject to the provisions of this Order, the Pr
 
 #### Extension of Term of President's Committee on the National Medal of Science
 
-Term of the President's Committee on the National Medal of Science extended until Dec. 31, 1978, by Ex.Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of the President's Committee on the National Medal of Science extended until Dec. 31, 1978, by Ex. Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Term of the President's Committee on the National Medal of Science extended until Dec. 31, 1982, by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
@@ -108,5 +108,7 @@ Term of the President's Committee on the National Medal of Science extended unti
 
 Term of the President's Committee on the National Medal of Science extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee on the National Medal of Science extended until Sept. 30, 1999, by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee on the National Medal of Science extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(j), Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Committee on the National Medal of Science extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

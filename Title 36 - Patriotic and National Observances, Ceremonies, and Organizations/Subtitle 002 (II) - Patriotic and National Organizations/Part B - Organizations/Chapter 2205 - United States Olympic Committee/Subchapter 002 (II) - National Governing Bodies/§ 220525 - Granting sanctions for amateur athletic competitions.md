@@ -66,37 +66,55 @@ Sept. 21, 1950, ch. 975, title II, §202(a)(4), (b), as added Nov. 8, 1978, Pub.
 
 36:392(b) (words before cl. (1)).
 
+&nbsp;
+
 220525(a) (2)(B)
 
 (no source).
+
+&nbsp;
 
 220525(b) (words before par. (1))
 
 36:392(b)(1) (words before subcl. (A)), (2) (words before subcl. (A)).
 
+&nbsp;
+
 220525(b)(1)
 
 36:392(b)(1)(A), (2)(A).
+
+&nbsp;
 
 220525(b) (2)(A)
 
 36:392(b)(1)(C).
 
+&nbsp;
+
 220525(b) (2)(B)
 
 36:392(b)(1)(B) (words before subcl. (i)).
+
+&nbsp;
 
 220525(b) (3)(A)
 
 36:392(b)(2)(C).
 
+&nbsp;
+
 220525(b) (3)(B)
 
 36:392(b)(2)(B) (words before subcl. (i)).
 
+&nbsp;
+
 220525(b)(4)
 
 36:392(b)(1)(B)(i)– (vi), (2)(B)(i)–(vi).
+
+&nbsp;
 
 In subsection (a), the words “and determine whether to grant such sanction, in accordance with the provisions of subsection (b) of this section” and “As a result of its review under subsection (a)(4) of this section” are omitted as unnecessary. Clause (2)(B) is added because of the reorganization of the section.
 

@@ -14,7 +14,7 @@ Upon proclamation by the President that there exists war or a threat of war, or 
 
 #### (d) Suspension or amendment of rules and regulations applicable to wire communications; closing of facilities; Government use of facilities
 
-Upon proclamation by the President that there exists a state or threat of war involving the United States, the President, if he deems it necessary in the interest of the national security and defense, may, during a period ending not later than six months after the termination of such state or threat of war and not later than such earlier date as the Congress by concurrent resolution may designate, (1) suspend or amend the rules and regulations applicable to any or all facilities or stations for wire communication within the jurisdiction of the United States as prescribed by the Commission, (2) cause the closing of any facility or station for wire communication and the removal therefrom of its apparatus and equipment, or (3) authorize the use or control of any such facility or station and its apparatus and equipment by any department of the Government under such regulations as he may prescribe, upon just compensation to the owners.
+Upon proclamation by the President that there exists a state or threat of war involvingthe United States, the President, if he deems it necessary in the interest of the national security and defense, may, during a period ending not later than six months after the termination of such state or threat of war and not later than such earlier date as the Congress by concurrent resolution may designate, (1) suspend or amend the rules and regulations applicable to any or all facilities or stations for wire communication within the jurisdiction of the United States as prescribed by the Commission, (2) cause the closing of any facility or station for wire communication and the removal therefrom of its apparatus and equipment, or (3) authorize the use or control of any such facility or station and its apparatus and equipment by any department of the Government under such regulations as he may prescribe, upon just compensation to the owners.
 
 #### (e) Compensation
 
@@ -70,7 +70,7 @@ Ex. Ord. No. 9831, eff. Feb. 24, 1947, 12 F.R. 1363, provided:
 
 By virtue of the authority vested in me by the Constitution and statutes, including the Communications Act of 1934 (48 Stat. 1104, as amended; 47 U.S.C. 606) and as President of the United States, and in the interest of the internal management of the Government, it is hereby ordered as follows:
 
-1\. The Board of War Communications, established as the Defense Communications Board by Executive Order No. 8546 of September 24, 1940, is abolished, and all property and records thereof are transferred to the Federal Communications Commission.
+1\. The Board of War Communications, established as the Defense Communications Board by Executive OrderNo. 8546 of September 24, 1940, is abolished, and all property and records thereof are transferred to the Federal Communications Commission.
 
 2\. Executive Orders Nos. 8546 of September 24, 1940, 8960 of December 6, 1941, 8964 of December 10, 1941, 9089 of March 6, 1942, and 9183 of June 15, 1942, are revoked.
 

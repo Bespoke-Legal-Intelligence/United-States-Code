@@ -32,7 +32,7 @@ In accordance with the regulations or guidelines established by the Attorney Gen
 
 &emsp;(10) explain how the grant will be utilized to reorient the affected law enforcement agency's mission toward community-oriented policing or enhance its involvement in or commitment to community-oriented policing; and
 
-&emsp;(11) provide assurances that the applicant will, to the extent practicable, seek, recruit, and hire members of racial and ethnic minority groups and women in order to increasetheir ranks within the sworn positions in the law enforcement agency.
+&emsp;(11) provide assurances that the applicant will, to the extent practicable, seek, recruit, and hire members of racial and ethnic minority groups and women in order to increase their ranks within the sworn positions in the law enforcement agency.
 
 #### (d) Special provisions
 

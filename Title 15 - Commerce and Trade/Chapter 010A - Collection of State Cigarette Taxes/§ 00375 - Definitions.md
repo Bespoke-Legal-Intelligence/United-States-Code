@@ -20,7 +20,7 @@ For the purposes of this chapter—
 
 &emsp;(6) The term “State” includes the District of Columbia, Alaska, Hawaii, and the Commonwealth of Puerto Rico.
 
-&emsp;(7) The term “transfers for profit” means any transfer for profit or other disposition forprofit, including any transfer or disposition by an agent to his principal in connection with which the agent receives anything of value.
+&emsp;(7) The term “transfers for profit” means any transfer for profit or other disposition for profit, including any transfer or disposition by an agent to his principal in connection with which the agent receives anything of value.
 
 (Oct. 19, 1949, ch. 699, §1, 63 Stat. 884; Aug. 9, 1955, ch. 695, §1, 69 Stat. 627.)
 

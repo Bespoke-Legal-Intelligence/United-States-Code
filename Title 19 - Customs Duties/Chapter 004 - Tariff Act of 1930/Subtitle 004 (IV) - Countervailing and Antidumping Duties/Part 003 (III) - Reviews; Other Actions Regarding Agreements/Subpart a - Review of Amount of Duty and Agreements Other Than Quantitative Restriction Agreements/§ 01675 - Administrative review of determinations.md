@@ -230,6 +230,16 @@
 
 &emsp;&emsp;For purposes of this subsection, a transition order shall be treated as issued on the date the WTO Agreement enters into force with respect to the United States, if such order is based on an investigation conducted by both the administering authority and the Commission.
 
+#### (7) Exclusions from computations
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), there shall be excluded from the computation of the 5-year period described in paragraph (1) and the periods described in paragraph (6) any period during which the importation of the subject merchandise is prohibited on account of the imposition, under the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\] or other provision of law, of sanctions by the United States against the country in which the subject merchandise originates.
+
+#### (B) Application of exclusion
+
+&emsp;&emsp;Subparagraph (A) shall apply only with respect to subject merchandise which originates in a country that is not a WTO member.
+
 #### (d) Revocation of order or finding; termination of suspended investigation
 
 #### (1) In general
@@ -262,7 +272,7 @@ If the determination of the Commission under subsection (b)(2)(B) of this sectio
 
 &emsp;If—
 
-&emsp;&emsp;(A) the administering authority receives notice from the Trade Representative of aviolation of Article 8 of the Subsidies Agreement,
+&emsp;&emsp;(A) the administering authority receives notice from the Trade Representative of a violation of Article 8 of the Subsidies Agreement,
 
 &emsp;&emsp;(B) the administering authority has reason to believe that merchandise subject to an existing countervailing duty order or suspended investigation is benefiting from the subsidy or subsidy program found to have been in violation of Article 8 of the Subsidies Agreement, and
 
@@ -290,7 +300,7 @@ If the determination of the Commission under subsection (b)(2)(B) of this sectio
 
 The administering authority shall establish procedures for the correction of ministerial errors in final determinations within a reasonable time after the determinations are issued under this section. Such procedures shall ensure opportunity for interested parties to present their views regarding any such errors. As used in this subsection, the term “ministerial error” includes errors in addition, subtraction, or other arithmetic function, clerical errors resulting from inaccurate copying, duplication, or the like, and any other type of unintentional error which the administering authority considers ministerial.
 
-(June 17, 1930, ch. 497, title VII, §751, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 175; amended Pub. L. 98–573, title VI, §611(a)(2), (3), Oct. 30, 1984, 98 Stat. 3031; Pub. L. 99–514, title XVIII, §1886(a)(8), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 100–418, title I, §1333(b), Aug. 23, 1988, 102 Stat. 1209; Pub. L. 103–465, title II, §§220(a), 283(c), Dec. 8, 1994, 108 Stat. 4857, 4930.)
+(June 17, 1930, ch. 497, title VII, §751, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 175; amended Pub. L. 98–573, title VI, §611(a)(2), (3), Oct. 30, 1984, 98 Stat. 3031; Pub. L. 99–514, title XVIII, §1886(a)(8), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 100–418, title I, §1333(b), Aug. 23, 1988, 102 Stat. 1209; Pub. L. 103–465, title II, §§220(a), 283(c), Dec. 8, 1994, 108 Stat. 4857, 4930; Pub. L. 106–36, title II, §2410, June 25, 1999, 113 Stat. 171.)
 
 #### References in Text
 
@@ -298,7 +308,11 @@ Section 1303 of this title, referred to in subsecs. (a)(1), (b)(1)(A), and (c)(1
 
 The Antidumping Act, 1921, referred to in subsecs. (a)(1), (b)(1)(A), and (c)(6)(C)(ii), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, as amended, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, §106(a), July 26, 1979, 93 Stat. 193.
 
+The International Emergency Economic Powers Act, referred to in subsec. (c)(7)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+
 #### Amendments
+
+1999—Subsec. (c)(7). Pub. L. 106–36 added par. (7).
 
 1994—Pub. L. 103–465, §283(c), added subsec. (g) and redesignated former subsec. (g) as (h).
 
@@ -310,7 +324,7 @@ Pub. L. 103–465, §220(a), amended section generally, substituting present pro
 
 1984—Subsec. (a)(1). Pub. L. 98–573, §611(a)(2)(A), inserted “if a request for such a review has been received and” in provisions preceding subpar. (A).
 
-Subsec. (b)(1). Pub. L. 98–573, §611(a)(2)(B), substituted “1671c of this title (other than a quantitative restriction agreement described in subsection (a)(2) or (c)(3)) or 1673c of this title (other than a quantitative restriction agreement described in subsection (a)(2))” for “1671c or 1673c of this title”, inserted reference to section 1676a(a)(1) or 1676a(a)(2) of this title, and inserted provision that during an investigation by the Commission, the party seeking revocation of an antidumping order shall have the burden of persuasion with respect to whether there are changed circumstances sufficient to warrant revocation of the antidumping order.
+Subsec. (b)(1). Pub. L. 98–573, §611(a)(2)(B), substituted “1671c of this title (other than a quantitative restriction agreement described in subsection (a)(2) or (c)(3)) or 1673c of this title (other than a quantitative restriction agreement described in subsection (a)(2))” for “1671c or 1673c of this title”, inserted reference to section 1676a(a)(1) or 1676a(a)(2) of this title, and inserted provision that during an investigation by the Commission, the party seeking revocation of an antidumpingorder shall have the burden of persuasion with respect to whether there are changed circumstances sufficient to warrant revocation of the antidumping order.
 
 Subsec. (c). Pub. L. 98–573, §611(a)(3), inserted provision that the administering authority shall not revoke, in whole or in part, a countervailing duty order or terminate a suspended investigation on the basis of any export taxes, duties, or other charges levied on the export of merchandise to the United States specifically intended to offset the subsidy received.
 

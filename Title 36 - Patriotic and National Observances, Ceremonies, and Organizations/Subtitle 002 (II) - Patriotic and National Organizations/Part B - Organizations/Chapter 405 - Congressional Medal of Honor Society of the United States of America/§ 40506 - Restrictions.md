@@ -42,13 +42,19 @@ Aug. 14, 1958, Pub. L. 85–642, §§9(a) (1st sentence words before last comma,
 
 36:800.
 
+&nbsp;
+
 40506(c)
 
 36:799(a) (1st sentence words before last comma, last sentence).
 
+&nbsp;
+
 40506(d)
 
 36:799(b).
+
+&nbsp;
 
 In subsection (a), the words “any shares of” are omitted as unnecessary.
 

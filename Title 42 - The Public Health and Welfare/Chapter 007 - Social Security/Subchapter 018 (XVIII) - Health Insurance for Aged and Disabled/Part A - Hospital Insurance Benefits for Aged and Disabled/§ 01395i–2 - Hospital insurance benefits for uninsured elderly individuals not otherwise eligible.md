@@ -20,11 +20,11 @@ An individual may enroll under this section only in such manner and form as may 
 
 #### (c) Period of enrollment; scope of coverage
 
-The provisions of section 1395p of this title (except subsection (f) thereof), section 1395q of this title, subsection (b) of section 1395r of this title, and subsections (f) and (h) of section 1395s of this title shall apply to persons authorized to enroll under this section except that—
+The provisions of section 1395p of this title (except subsection (f) thereof), section 1395q ofthis title, subsection (b) of section 1395r of this title, and subsections (f) and (h) of section 1395s of this title shall apply to persons authorized to enroll under this section except that—
 
 &emsp;(1) individuals who meet the conditions of subsection (a)(1), (3), and (4) of this section on or before the last day of the seventh month after October 1972 may enroll under this part and (if not already so enrolled) may also enroll under part B of this subchapter during an initial general enrollment period which shall begin on the first day of the second month which begins after October 30, 1972, and shall end on the last day of the tenth month after October 1972;
 
-&emsp;(2) in the case of an individual who first meets the conditions of eligibility under this section on or after the first day of the eighth month after October 1972, the initial enrollment period shall begin on the first day of thethird month before the month in which he first becomes eligible and shall end 7 months later;
+&emsp;(2) in the case of an individual who first meets the conditions of eligibility under this section on or after the first day of the eighth month after October 1972, the initial enrollment period shall begin on the first day of the third month before the month in which he first becomes eligible and shall end 7 months later;
 
 &emsp;(3) in the case of an individual who enrolls pursuant to paragraph (1) of this subsection, entitlement to benefits shall begin on—
 
@@ -96,7 +96,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(B) An individual described in this subparagraph with respect to a month is an individual who establishes to the satisfaction of the Secretary that, as of the last day of the previous month, the individual—
+(B) An individual described in this subparagraph with respect to a month is an individualwho establishes to the satisfaction of the Secretary that, as of the last day of the previous month, the individual—
 
 &emsp;(i) had at least 30 quarters of coverage under subchapter II of this chapter;
 
@@ -106,7 +106,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &emsp;(iv) is divorced from an individual and had been married to the individual for a period of at least 10 years (at the time of the divorce) if at such time the individual had at least 30 quarters of coverage under such subchapter.
 
-(5)(A) The amount of the monthly premium shall be zero in the case of an individual who isa person described in subparagraph (B) for a month, if—
+(5)(A) The amount of the monthly premium shall be zero in the case of an individual who is a person described in subparagraph (B) for a month, if—
 
 &emsp;(i) the individual's premium under this section for the month is not (and will not be) paid for, in whole or in part, by a State (under subchapter XIX of this chapter or otherwise), a political subdivision of a State, or an agency or instrumentality of one or more States or political subdivisions thereof; and
 
@@ -232,7 +232,7 @@ Section 9124(b) of Pub. L. 99–272 provided that:
 
 Amendment by section 2315(e) of Pub. L. 98–369 effective as though included in the enactment of the Social Security Amendments of 1983, Pub. L. 98–21, see section 2315(g) of Pub. L. 98–369, set out as an Effective and Termination Dates of 1984 Amendments note under section 1395ww of this title.
 
-Amendment by section 2354(b)(3), (4) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L.98–369, set out as a note under section 1320a–1 of this title.
+Amendment by section 2354(b)(3), (4) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
 
 #### Effective Date of 1983 Amendment; Transitional Rule
 

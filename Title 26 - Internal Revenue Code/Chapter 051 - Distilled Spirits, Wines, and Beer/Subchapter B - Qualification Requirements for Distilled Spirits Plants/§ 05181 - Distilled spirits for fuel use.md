@@ -24,7 +24,7 @@
 
 #### (b) Authority to exempt
 
-The Secretary may by regulation provide for the waiver of any provision of this chapter (other than this section or any provision requiring the payment of tax) for any distilled spirits plant described in subsection (a) if the Secretaryfinds it necessary to carry out the provisions of this section.
+The Secretary may by regulation provide for the waiver of any provision of this chapter (other than this section or any provision requiring the payment of tax) for any distilled spirits plant described in subsection (a) if the Secretary finds it necessary to carry out the provisions of this section.
 
 #### (c) Special rules for small plant production
 
@@ -40,7 +40,7 @@ The Secretary may by regulation provide for the waiver of any provision of this 
 
 #### (C) Multiple applications
 
-&emsp;&emsp;If more than one application is submitted with respect to any eligible distilled spirits plant in any calendar quarter, the provisions of this section shall apply only to the first application submitted with respect to such plant during such quarter. For purposes of the preceding sentence, if a corrected or amended first application is filed, such application shall not be considered as a separate application, and the 15-day period referred to in subparagraph (A) shall commence with receipt of the corrected or amended application.
+&emsp;&emsp;If more than one application is submitted with respect to any eligible distilled spiritsplant in any calendar quarter, the provisions of this section shall apply only to the first application submitted with respect to such plant during such quarter. For purposes of the preceding sentence, if a corrected or amended first application is filed, such application shall not be considered as a separate application, and the 15-day period referred to in subparagraph (A) shall commence with receipt of the corrected or amended application.
 
 #### (2) Determination
 

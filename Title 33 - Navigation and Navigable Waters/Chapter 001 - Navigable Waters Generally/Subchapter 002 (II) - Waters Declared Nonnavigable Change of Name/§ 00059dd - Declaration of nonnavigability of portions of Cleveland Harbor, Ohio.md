@@ -20,7 +20,7 @@ Unless the Secretary of the Army finds, after consultation with local and region
 
 &emsp;&emsp;Thence south 29°–06–52 west on the northwesterly right-of-way line of relocated Erieside Avenue, N.E., a distance of 119.39 feet to a 5/8 inch re-bar set;
 
-&emsp;&emsp;Thence southwesterly on the northwesterly right-of-way of relocated Erieside Avenue, N.E., along the arc of a curve to the right with a radius of 665.00 feet, and whose chord bears south 32°–22–08 west 75.50 feet, an arc distance of 75.54 feet to a 5/8 inch re-bar set;
+&emsp;&emsp;Thence southwesterly on the northwesterly right-of-way of relocated Erieside Avenue, N.E., along the arc of a curve to the right with a radius of 665.00 feet, and whosechord bears south 32°–22–08 west 75.50 feet, an arc distance of 75.54 feet to a 5/8 inch re-bar set;
 
 &emsp;&emsp;Thence north 33°–53–08 west a distance of 279.31 feet to a drill hole set;
 

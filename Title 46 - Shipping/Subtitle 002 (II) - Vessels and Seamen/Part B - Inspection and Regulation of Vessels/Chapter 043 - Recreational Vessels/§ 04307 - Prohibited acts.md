@@ -2,7 +2,7 @@
 
 (a) A person may not—
 
-&emsp;(1) manufacture, construct, assemble, sell or offer for sale, introduce or deliver for introduction into interstate commerce, or import into the United States, a recreational vessel,associated equipment, or component of the vessel or equipment unless—
+&emsp;(1) manufacture, construct, assemble, sell or offer for sale, introduce or deliver for introduction into interstate commerce, or import into the United States, a recreational vessel, associated equipment, or component of the vessel or equipment unless—
 
 &emsp;&emsp;(A)(i) it conforms with this chapter or a regulation prescribed under this chapter; and
 

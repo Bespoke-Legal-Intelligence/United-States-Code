@@ -34,7 +34,7 @@
 
 &emsp;(i) the loan is not approved for assumption under subparagraph (B) of this paragraph or paragraph (1) of this subsection; or
 
-&emsp;(ii) no appeal is made by the transferor under subparagraph (A) of this paragraph within 30 days after the holder informs the transferor of its determination under paragraph (3) of this subsection,
+&emsp;(ii) no appeal is made by the transferor under subparagraph (A) of this paragraphwithin 30 days after the holder informs the transferor of its determination under paragraph (3) of this subsection,
 
 > the holder may demand immediate, full payment of the principal, and all interest earned thereon, of such loan if the transferor disposes of the property.
 

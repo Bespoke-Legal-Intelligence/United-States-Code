@@ -18,17 +18,15 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) a central nonprofit agency designated by the Committee for Purchase from People Who Are Blind or Severely Disabled under section 2(c) of such Act (41 U.S.C. 47(c)).
 
-(c)
-
-Termination.—Subsection (a) shall cease to be effective at the end of September 30, 1999.
-
-(Added Pub. L. 102–484, div. A, title VIII, §808(b)(1), Oct. 23, 1992, 106 Stat. 2449; amended Pub. L. 103–337, div. A, title VIII, §804, Oct. 5, 1994, 108 Stat. 2815; Pub. L. 104–106, div. D, title XLIII, §4321(b)(15), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title VIII, §835, Nov. 18, 1997, 111 Stat. 1843.)
+(Added Pub. L. 102–484, div. A, title VIII, §808(b)(1), Oct. 23, 1992, 106 Stat. 2449; amended Pub. L. 103–337, div. A, title VIII, §804, Oct. 5, 1994, 108 Stat. 2815; Pub. L. 104–106, div. D, title XLIII, §4321(b)(15), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title VIII, §835, Nov. 18, 1997, 111 Stat. 1843; Pub. L. 106–65, div. A, title VIII, §807, Oct. 5, 1999, 113 Stat. 705.)
 
 #### Codification
 
 Another section 2410d was renumbered section 2410k of this title.
 
 #### Amendments
+
+1999—Subsec. (c). Pub. L. 106–65 struck out heading and text of subsec. (c). Text read as follows: “Subsection (a) shall cease to be effective at the end of September 30, 1999.”
 
 1997—Subsec. (c). Pub. L. 105–85 substituted “September 30, 1999” for “September 30, 1997”.
 

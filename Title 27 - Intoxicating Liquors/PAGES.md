@@ -1,6 +1,6 @@
 # Printed pages - Title 27 - Intoxicating Liquors
 
-GPO's 1998 edition (laws in effect as of 1999-01-05), from its printed page marks. The exact position of
+GPO's 1999 edition (laws in effect as of 2000-01-23), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title27.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -53,8 +53,8 @@ from edition to edition; the section files hold the text only.
 | [Subchapter 002 (II) - Alcoholic Beverage Labeling](Chapter%20008%20-%20Federal%20Alcohol%20Administration%20Act/Subchapter%20002%20%28II%29%20-%20Alcoholic%20Beverage%20Labeling/README.md) | 16 |
 | [&sect; 00213 - Declaration of policy and purpose](Chapter%20008%20-%20Federal%20Alcohol%20Administration%20Act/Subchapter%20002%20%28II%29%20-%20Alcoholic%20Beverage%20Labeling/%C2%A7%2000213%20-%20Declaration%20of%20policy%20and%20purpose.md) | 16 |
 | [&sect; 00214 - Definitions](Chapter%20008%20-%20Federal%20Alcohol%20Administration%20Act/Subchapter%20002%20%28II%29%20-%20Alcoholic%20Beverage%20Labeling/%C2%A7%2000214%20-%20Definitions.md) | 16–17 |
-| [&sect; 00215 - Labeling requirement](Chapter%20008%20-%20Federal%20Alcohol%20Administration%20Act/Subchapter%20002%20%28II%29%20-%20Alcoholic%20Beverage%20Labeling/%C2%A7%2000215%20-%20Labeling%20requirement.md) | 17 |
-| [&sect; 00216 - Preemption](Chapter%20008%20-%20Federal%20Alcohol%20Administration%20Act/Subchapter%20002%20%28II%29%20-%20Alcoholic%20Beverage%20Labeling/%C2%A7%2000216%20-%20Preemption.md) | 17–18 |
+| [&sect; 00215 - Labeling requirement](Chapter%20008%20-%20Federal%20Alcohol%20Administration%20Act/Subchapter%20002%20%28II%29%20-%20Alcoholic%20Beverage%20Labeling/%C2%A7%2000215%20-%20Labeling%20requirement.md) | 17–18 |
+| [&sect; 00216 - Preemption](Chapter%20008%20-%20Federal%20Alcohol%20Administration%20Act/Subchapter%20002%20%28II%29%20-%20Alcoholic%20Beverage%20Labeling/%C2%A7%2000216%20-%20Preemption.md) | 18 |
 | [&sect; 00217 - Report to Congress](Chapter%20008%20-%20Federal%20Alcohol%20Administration%20Act/Subchapter%20002%20%28II%29%20-%20Alcoholic%20Beverage%20Labeling/%C2%A7%2000217%20-%20Report%20to%20Congress.md) | 18 |
 | [&sect; 00218 - Civil penalties](Chapter%20008%20-%20Federal%20Alcohol%20Administration%20Act/Subchapter%20002%20%28II%29%20-%20Alcoholic%20Beverage%20Labeling/%C2%A7%2000218%20-%20Civil%20penalties.md) | 18 |
 | [&sect; 00219 - Injunction proceedings; compromise of liability](Chapter%20008%20-%20Federal%20Alcohol%20Administration%20Act/Subchapter%20002%20%28II%29%20-%20Alcoholic%20Beverage%20Labeling/%C2%A7%2000219%20-%20Injunction%20proceedings%3B%20compromise%20of%20liability.md) | 18 |

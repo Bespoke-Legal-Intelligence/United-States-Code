@@ -1,6 +1,6 @@
 ### §116. Female genital mutilation
 
-(a) Except as provided in subsection (b), whoever knowingly circumcises, excises, or infibulates the whole or any part of the labia majora or labia minora or clitoris of another person who has not attained the age of 18 years shall be fined under this title or imprisoned not more than 5 years, or both.
+(a) Except as provided in subsection (b), whoever knowingly circumcises, excises, or infibulates the whole or any part of the labia majoraor labia minora or clitoris of another person who has not attained the age of 18 years shall be fined under this title or imprisoned not more than 5 years, or both.
 
 (b) A surgical operation is not a violation of this section if the operation is—
 

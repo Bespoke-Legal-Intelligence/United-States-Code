@@ -48,7 +48,7 @@ The Secretary shall make allotments to each State on the basis of the population
 
 #### Codification
 
-Section 40151 of Pub. L. 103–322, which directed that this section be added at the end of part A of title XIX of the “Public Health and Human Services Act”, wasexecuted by adding this section at the end of part A of title XIX of the Public Health Service Act, to reflect the probable intent of Congress.
+Section 40151 of Pub. L. 103–322, which directed that this section be added at the end of part A of title XIX of the “Public Health and Human Services Act”, was executed by adding this section at the end of part A of title XIX of the Public Health Service Act, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 

@@ -40,7 +40,7 @@ Each funding agreement shall—
 
 &emsp;&emsp;(B) shall be responsible for the administration of programs, services, functions, and activities pursuant to agreements entered into under this section; and
 
-&emsp;(9) prohibit the Secretary from waiving, modifying, or diminishing in any way the trust responsibility of the United States with respect to Indian tribes and individual Indians that exists under treaties, Executive orders, and other laws.
+&emsp;(9) prohibit the Secretary from waiving, modifying, or diminishing in any way the trust responsibility of the United States withrespect to Indian tribes and individual Indians that exists under treaties, Executive orders, and other laws.
 
 #### (c) Additional activities
 
@@ -76,7 +76,7 @@ Not later than 90 days before the proposed effective date of an agreement entere
 
 (2) The funding agreements authorized by this part and title III of this Act shall provide for advance payments to the tribes in the form of annual or semi-annual installments at the discretion of the tribes.
 
-(3) Subject to paragraph (4) of this subsection and paragraphs (1) through (3) of subsection (b) of this section, the Secretary shall provide funds to the tribe under an agreement under this part for programs, services, functions, and activities,or portions thereof, in an amount equal to the amount that the tribe would have been eligible to receive under contracts and grants under this subchapter, including amounts for direct program and contract support costs and, in addition, any funds that are specifically or functionally related to the provision by the Secretary of services and benefits to the tribe or its members, without regard to the organization level within the Department where such functions are carried out.
+(3) Subject to paragraph (4) of this subsection and paragraphs (1) through (3) of subsection (b) of this section, the Secretary shall provide funds to the tribe under an agreement under this part for programs, services, functions, and activities, or portions thereof, in an amount equal to the amount that the tribe would have been eligible to receive under contracts and grants under this subchapter, including amounts for direct program and contract support costs and, in addition, any funds that are specifically or functionally related to the provision by the Secretary of services and benefits to the tribe or its members, without regard to the organization level within the Department where such functions are carried out.
 
 (4) Funds for trust services to individual Indians shall be available under an agreement entered into under this section only to the extent that the same services that would have been provided by the Secretary are provided to individual Indians by the tribe.
 

@@ -14,7 +14,7 @@ As used in this chapter:
 
 #### (2) Approved insurance provider
 
-&emsp;The term “approved insurance provider” means a private insurance provider that hasbeen approved by the Corporation to provide insurance coverage to producers participating in the Federal crop insurance program established under this chapter.
+&emsp;The term “approved insurance provider” means a private insurance provider that has been approved by the Corporation to provide insurance coverage to producers participating in the Federal crop insurance program established under this chapter.
 
 #### (3) Board
 

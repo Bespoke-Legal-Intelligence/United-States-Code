@@ -1,6 +1,6 @@
 ### §6904. Additional payments
 
-(a) In addition to payments the Secretary of the Interior makes under section 6902 of thistitle, the Secretary shall make a payment for each fiscal year to a unit of general local government collecting and distributing real property taxes (including a unit in Alaska outside the boundaries of an organized borough) in which is located an interest in land that—
+(a) In addition to payments the Secretary of the Interior makes under section 6902 of this title, the Secretary shall make a payment for each fiscal year to a unit of general local government collecting and distributing real property taxes (including a unit in Alaska outside the boundaries of an organized borough) in which is located an interest in land that—
 
 &emsp;(1) the United States Government acquires for—
 

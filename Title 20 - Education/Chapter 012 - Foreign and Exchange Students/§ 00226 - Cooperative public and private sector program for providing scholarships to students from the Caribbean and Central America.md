@@ -22,11 +22,11 @@ The Administrator of the Agency for International Development shall establish an
 
 #### (c) Grants to States
 
-In carrying out this section, the Administrator may make grants to States to provide scholarship assistance for undergraduate degree programs and for training programs of one year or longer in study areas related to the critical development needs of the students’ respective countries.
+In carrying out this section, the Administrator may make grants to States to provide scholarship assistance for undergraduate degree programs and for training programs of one year or longer in study areas related to the criticaldevelopment needs of the students’ respective countries.
 
 #### (d) Agreement with States
 
-The Administrator and each participating State shall agree on a program regarding theeducational opportunities available within the State, the selection and assignment of scholarship recipients, and related issues. To the maximum extent practicable, each State shall be given flexibility in designing its program.
+The Administrator and each participating State shall agree on a program regarding the educational opportunities available within the State, the selection and assignment of scholarship recipients, and related issues. To the maximum extent practicable, each State shall be given flexibility in designing its program.
 
 #### (e) Federal share
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) ordered to or retained on active duty (other than for training) under any provision of law because of a war or national emergency declared by the President or the Congress, as determined by the Secretary concerned;
 
-&emsp;&emsp;(C) ordered to active duty (other than for training) in support, as determined by the Secretary concerned, of an operational mission for which personnel have been ordered to active duty under section 12304 of title 10;
+&emsp;&emsp;(C) ordered to active duty (other than for training) in support, as determined by theSecretary concerned, of an operational mission for which personnel have been ordered to active duty under section 12304 of title 10;
 
 &emsp;&emsp;(D) ordered to active duty in support, as determined by the Secretary concerned, of a critical mission or requirement of the uniformed services; or
 

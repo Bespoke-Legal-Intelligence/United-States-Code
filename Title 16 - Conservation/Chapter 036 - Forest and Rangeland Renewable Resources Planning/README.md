@@ -106,6 +106,12 @@
 | (b) | Student grants. |
 | (c) | Eligibility. |
 | (d) | Authorization of appropriations. |
+| [1650\.](Subchapter%20002%20%28II%29%20-%20Research/%C2%A7%2001650%20-%20Hardwood%20technology%20transfer%20and%20applied%20research.md) | Hardwood technology transfer and applied research. |
+| (a) | Authority of Secretary. |
+| (b) | Grants, contracts, and cooperative agreements; gifts and donations. |
+| (c) | Use of assets of Wood Education and Resource Center; establishment of Institute of Hardwood Technology Transfer and Applied Research. |
+| (d) | Generation of revenue; deposit into Hardwood Technology Transfer and Applied Research Fund. |
+| (e) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

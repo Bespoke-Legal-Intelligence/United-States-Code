@@ -32,5 +32,5 @@ Minor offenses tried by United States magistrate judges as excluding offenses pu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 14 of this title; title 28 section 656.
+This section is referred to in section 14 of this title.
 

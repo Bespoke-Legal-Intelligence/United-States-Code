@@ -54,5 +54,5 @@ Use of mails for purchase or sale of securities before a registration statement 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 24, 225, 981, 982, 1342, 1510, 1961, 2326, 2516, 3059A, 3293, 3322 of this title; title 7 section 12a; title 12 sections 1785, 1786, 1787, 1821, 1828, 1829, 1831k, 1833a, 2277a–10b; title 15 sections 78<i>o</i>, 80b–3; title 39 sections 3001, 3003.
+This section is referred to in sections 24, 225, 981, 982, 1342, 1510, 1961, 2326, 2516, 3059A, 3293, 3322 of this title;title 7 section 12a; title 12 sections 1785, 1786, 1787, 1821, 1828, 1829, 1831k, 1833a, 2277a–10b; title 15 sections 78<i>o</i>, 80b–3; title 39 sections 3001, 3003.
 

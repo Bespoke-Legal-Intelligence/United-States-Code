@@ -62,7 +62,7 @@ The Secretary, acting through the Substance Abuse and Mental Health Services Adm
 
 (1) There are authorized to be appropriated to carry out this section $22,000,000 for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
 
-(2) Ten percent of the funds appropriated pursuant to this section shall be used to makegrants to urban Indian organizations funded under subchapter IV of this chapter.
+(2) Ten percent of the funds appropriated pursuant to this section shall be used to make grants to urban Indian organizations funded under subchapter IV of this chapter.
 
 (Pub. L. 94–437, title VII, §708, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106 Stat. 4578.)
 

@@ -2,7 +2,11 @@
 
 The Secretary, in carrying out programs under section 612c of this title and section 1755 of title 42, may utilize the services and facilities of the Commodity Credit Corporation (including but not limited to procurement by contract), and make advance payments to it.
 
-(Oct. 31, 1949, ch. 792, title IV, §404, 63 Stat. 1054.)
+(Oct. 31, 1949, ch. 792, title IV, §404, 63 Stat. 1054; Pub. L. 106–78, title VII, §752(b)(2), Oct. 22, 1999, 113 Stat. 1169.)
+
+#### Amendments
+
+1999—Pub. L. 106–78 made technical amendment to reference in original act which appears in text as reference to section 1755 of title 42.
 
 #### Exceptions From Transfer of Functions
 

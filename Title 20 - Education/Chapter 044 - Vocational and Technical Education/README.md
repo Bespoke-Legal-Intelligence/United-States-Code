@@ -210,7 +210,7 @@ The Carl D. Perkins Vocational and Technical Education Act of 1998, comprising t
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2308, 5886, 5891, 6122, 6143, 6212, 6314, 7815, 8857, 9271, 9273 of this title; title 8 section 1255a; title 29 sections 49<i>l</i>–2, 1531, 1532, 1533, 1535, 1605, 1645, 1661c, 1697, 1735, 1751, 1754, 1792, 1792b, 2308; title 31 section 6703; title 40 App. sections 211, 214; title 42 sections 3056a, 3056c.
+This chapter is referred to in sections 2308, 5891b, 6122, 6143, 6212, 6314, 7815, 8857, 9271, 9273 of this title; title 8 section 1255a; title 29 sections 49<i>l</i>–2, 1531, 1532, 1533, 1535, 1605, 1645, 1661c, 1697, 1735, 1751, 1754, 1792, 1792b, 2822, 2841, 2864; title 31 section 6703; title 40 App. section 214; title 42 sections 3056a, 3056c.
 
 
 ---

@@ -18,7 +18,7 @@
 
 #### (2) Leaking Underground Storage Tank Trust Fund tax
 
-&emsp;The rate of tax specified in paragraph (1) shall be increased by 0.1 cent per gallon. Theincrease in tax under this paragraph shall in this title be referred to as the Leaking Underground Storage Tank Trust Fund financing rate.
+&emsp;The rate of tax specified in paragraph (1) shall be increased by 0.1 cent per gallon. The increase in tax under this paragraph shall in this title be referred to as the Leaking Underground Storage Tank Trust Fund financing rate.
 
 #### (3) Termination
 
@@ -194,7 +194,7 @@ Section 2001(d)(6)(D) of Pub. L. 100–647 provided that: “The amendments made
 
 #### Effective Date of 1987 Amendment
 
-Section 10502(g) of Pub. L. 100–203 provided that: “If the Airport and Airway Safety and Capacity ExpansionAct of 1987 is enacted \[enacted as Pub. L. 100–223\], effective on December 31, 1987, sections 4091(b)(5)(B) and 9502(b)(3) of such Code \[this title\] (as added by this section) are each amended by striking out ‘January 1, 1988’ and inserting in lieu thereof ‘January 1, 1991’.”
+Section 10502(g) of Pub. L. 100–203 provided that: “If the Airport and Airway Safety and Capacity Expansion Act of 1987 is enacted \[enacted as Pub. L. 100–223\], effective on December 31, 1987, sections 4091(b)(5)(B) and 9502(b)(3) of such Code \[this title\] (as added by this section) are each amended by striking out ‘January 1, 1988’ and inserting in lieu thereof ‘January 1, 1991’.”
 
 #### Effective Date
 
@@ -258,7 +258,7 @@ Exception for certain amounts of fuel.—
 
 &emsp;“(A)
 
-In general.—No tax shall be imposed by paragraph (1) on aviation fuel held on any tax-increase date by any person if the aggregate amount of aviation fuel held by such person on such date does not exceed 2,000 gallons. The preceding sentence shall apply only if such person submits to the Secretary (at the time and in the manner required by the Secretary) such information as the Secretary shall require for purposes of this paragraph.
+In general.—No tax shall be imposed by paragraph (1) on aviation fuel held on any tax-increase date by any person if the aggregate amount of aviation fuel held by such person on such date does notexceed 2,000 gallons. The preceding sentence shall apply only if such person submits to the Secretary (at the time and in the manner required by the Secretary) such information as the Secretary shall require for purposes of this paragraph.
 
 &emsp;“(B)
 
@@ -356,7 +356,7 @@ In general.—All persons treated as a controlled group shall be treated as 1 pe
 
 &emsp;&emsp;&emsp;“(ii)
 
-Controlled group.—The term ‘controlled group’ has the meaning given to such term by subsection (a) of section 1563 of such Code; exceptthat for such purposes the phrase ‘more than 50 percent’ shall be substituted for the phrase ‘at least 80 percent’ each place it appears in such subsection.
+Controlled group.—The term ‘controlled group’ has the meaning given to such term by subsection (a) of section 1563 of such Code; except that for such purposes the phrase ‘more than 50 percent’ shall be substituted for the phrase ‘at least 80 percent’ each place it appears in such subsection.
 
 &emsp;&emsp;“(B)
 

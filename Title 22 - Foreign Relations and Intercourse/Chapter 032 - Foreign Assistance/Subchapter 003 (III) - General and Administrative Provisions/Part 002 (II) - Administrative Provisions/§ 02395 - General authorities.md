@@ -42,7 +42,7 @@ In making loans under this chapter, the President—
 
 #### (h) Term of contracts and agreements
 
-A contract or agreement which entails commitments for the expenditure of funds made available under part I (except developmentloans) and subpart II of part II of subchapter I and under subchapter II of this chapter, may, subject to any future action of the Congress, extend at any time for not more than five years.
+A contract or agreement which entails commitments for the expenditure of funds made available under part I (except development loans) and subpart II of part II of subchapter I and under subchapter II of this chapter, may, subject to any future action of the Congress, extend at any time for not more than five years.
 
 #### (i) Settlement and arbitration of claims arising under investment guaranty operations
 
@@ -106,7 +106,7 @@ Section 302(i)(2) of Pub. L. 90–137 provided in part that amendment of subsec.
 
 #### Delegation of Functions
 
-Functions of President, to extent they relate to other functions under this chapter administered by Department of Defense, under subsec. (b) (except with respect to negotiation, conclusion, and termination of international agreements) and under subsecs. (d) and (g) delegated to Secretary of Defense by section 1–301(b) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### International Agreements
 
@@ -118,5 +118,5 @@ Pub. L. 93–333, §4, July 8, 1974, 88 Stat. 290, relating to cancellation, ren
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

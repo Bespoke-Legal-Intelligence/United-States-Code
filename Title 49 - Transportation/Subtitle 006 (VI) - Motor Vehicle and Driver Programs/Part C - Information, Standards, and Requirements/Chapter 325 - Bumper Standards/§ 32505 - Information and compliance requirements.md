@@ -26,7 +26,7 @@ Powers of Secretary and Civil Actions To Enforce.—(1) In carrying out this cha
 
 (2) A witness summoned under this subsection is entitled to the same fee and mileage the witness would have been paid in a court of the United States.
 
-(3) A civil action to enforce a subpena or order of the Secretary under this subsection may be brought in the United States district court for any judicial district in which the proceeding by the Secretary is conducted. The court may punish a failure to obey an order of the court to comply with the subpena or order of the Secretary as a contempt of court.
+(3) A civil action to enforce a subpena or order of the Secretary under this subsection may be brought in the United States district court for any judicial district in which the proceeding bythe Secretary is conducted. The court may punish a failure to obey an order of the court to comply with the subpena or order of the Secretary as a contempt of court.
 
 (c)
 
@@ -92,7 +92,7 @@ In subsection (b)(1), before clause (A), the words “In carrying out this chapt
 
 In subsection (b)(3), the words “A civil action to enforce a subpena or order of the Secretary under this subsection may be brought in the United States district court for the judicial district in which the proceeding by the Secretary was conducted” are substituted for 15:1914(a)(4) (words before semicolon) for consistency in the revised title and to eliminate unnecessary words.
 
-In subsection (c)(1), before clause (A), the words “reported to or otherwise” are omitted as surplus. The words “or his representative” are omitted for consistency with subsection (b) of this section. The words “related to a confidential matter referred to” are substituted for “contains or relates to a trade secret or other matter referred to” to eliminate unnecessary words. The words “shall be considered confidential forthe purpose of that section” are omitted as surplus. In clause (A), the words “of the United States Government” are added for clarity. In clause (B) the words “when relevant” are omitted as surplus.
+In subsection (c)(1), before clause (A), the words “reported to or otherwise” are omitted as surplus. The words “or his representative” are omitted for consistency with subsection (b) of this section. The words “related to a confidential matter referred to” are substituted for “contains or relates to a trade secret or other matter referred to” to eliminate unnecessary words. The words “shall be considered confidential for the purpose of that section” are omitted as surplus. In clause (A), the words “of the United States Government” are added for clarity. In clause (B) the words “when relevant” are omitted as surplus.
 
 In subsection (c)(2), the words “a committee of Congress authorized to have the information” are substituted for “the duly authorized committees of the Congress” for clarity.
 

@@ -2,7 +2,7 @@
 
 (a) To carry out this part other than section 300aa–2(9) of this title there are authorized to be appropriated $4,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995.
 
-(b) To carry out section 300aa–2(9) of this title there are authorized to be appropriated $30,000,000 for fiscal year 1991, and such sums asmay be necessary for each of the fiscal years 1992 through 1995.
+(b) To carry out section 300aa–2(9) of this title there are authorized to be appropriated $30,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995.
 
 (July 1, 1944, ch. 373, title XXI, §2106, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3758; amended Pub. L. 101–502, §4, Nov. 3, 1990, 104 Stat. 1286.)
 

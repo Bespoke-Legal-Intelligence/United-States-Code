@@ -16,12 +16,15 @@
 | (b) | Congressional termination of national emergencies by concurrent resolution. |
 | (c) | Supplemental savings provisions; supersedure of inconsistent provisions. |
 | (d) | Periodic reports to Congress. |
+| [1707\.](%C2%A7%2001707%20-%20Multinational%20economic%20embargoes%20against%20governments%20in%20armed%20conflict%20with%20the%20United%20States.md) | Multinational economic embargoes against governments in armed conflict with the United States. |
+| (a) | Policy on the establishment of embargoes. |
+| (b) | Reports to Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 2332 of this title; sections 2170, 2405, 2410 of the Appendix to this title;title 12 sections 3409, 3413, 4407; title 19 section 2581; title 22 section 6004; title 26 section 911; title 30 section 185.
+This chapter is referred to in section 2332 of this title; sections 2170, 2405, 2410 of the Appendix to this title; title 12 sections 3409, 3413, 4407; title 19 sections 1675, 2581; title 21 section 1901; title 22 section 6004; title 26 section 911; title 30 section 185.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
@@ -38,3 +41,4 @@ This chapter is referred to in section 2332 of this title; sections 2170, 2405, 
 - [&sect; 01704 - Authority to issue regulations](%C2%A7%2001704%20-%20Authority%20to%20issue%20regulations.md)
 - [&sect; 01705 - Penalties](%C2%A7%2001705%20-%20Penalties.md)
 - [&sect; 01706 - Savings provisions](%C2%A7%2001706%20-%20Savings%20provisions.md)
+- [&sect; 01707 - Multinational economic embargoes against governments in armed conflict with the United States](%C2%A7%2001707%20-%20Multinational%20economic%20embargoes%20against%20governments%20in%20armed%20conflict%20with%20the%20United%20States.md)

@@ -24,7 +24,7 @@
 
 &emsp;(D) supplemental student services, including student housing, food service, and the provision of access to books and services.
 
-(2) The Secretary shall make payments, pursuant to grants under this subsection, in advance installments of not less than 40 per centum of the funds available for allotment, based on anticipated or actual numbers of full-time equivalent Indian students or such other factors as determined by the Secretary. Adjustments foroverpayments and underpayments shall be applied to the remainder of such funds and such remainder shall be delivered no later than July 1 of each year.
+(2) The Secretary shall make payments, pursuant to grants under this subsection, in advance installments of not less than 40 per centum of the funds available for allotment, based on anticipated or actual numbers of full-time equivalent Indian students or such other factors as determined by the Secretary. Adjustments for overpayments and underpayments shall be applied to the remainder of such funds and such remainder shall be delivered no later than July 1 of each year.
 
 #### (c) Funding requirements
 

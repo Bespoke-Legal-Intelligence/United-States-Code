@@ -84,7 +84,7 @@ There are hereby appropriated to the Superfund amounts equivalent to—
 
 #### (2) Coordination with other provisions
 
-&emsp;Nothing in CERCLA or the Superfund Amendments and Reauthorization Act of 1986 (or in any amendment made by either of such Acts) shall authorize the payment by theUnited States Government of any amount with respect to any such claim out of any source other than the Superfund.
+&emsp;Nothing in CERCLA or the Superfund Amendments and Reauthorization Act of 1986 (or in any amendment made by either of such Acts) shall authorize the payment by the United States Government of any amount with respect to any such claim out of any source other than the Superfund.
 
 #### (3) Order in which unpaid claims are to be paid
 

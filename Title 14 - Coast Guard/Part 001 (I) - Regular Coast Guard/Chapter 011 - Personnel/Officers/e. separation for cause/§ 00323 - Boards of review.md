@@ -4,7 +4,7 @@
 
 (b) If, after reviewing the record of the case, a board of review determines that the officer has failed to establish that he should be retained, it shall send its recommendation to the Secretary for his action.
 
-(c) If, after reviewing the record of the case, a board of review determines that the officer has established that he should be retained on active duty, his case is closed. However, at any time after one year from the date of the determination in a case arising under clause (1) of section 321 of this title and at any time after the date of the determination in a case arising under clause (2) of that section, an officer may again be required to show cause for retention.
+(c) If, after reviewing the record of the case, a board of review determines that the officer has established that he should be retained on active duty, his case is closed. However, at any time after one year from the date of the determination in a case arising under clause (1) of section 321 of this title and at any time after the date of the determination in a case arising underclause (2) of that section, an officer may again be required to show cause for retention.
 
 (Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 188; amended Pub. L. 97–295, §2(10), Oct. 12, 1982, 96 Stat. 1302.)
 

@@ -50,7 +50,7 @@ The determination of the amount of a loan by an eligible institution under subse
 
 &emsp;&emsp;&emsp;(ii) in the case of a student who has obtained a baccalaureate degree, $5,000 for coursework necessary for a professional credential or certification from a State required for employment as a teacher in an elementary or secondary school;
 
-> &emsp;except in cases where the Secretary determines,<sup>1</sup> that a higher amount is warranted inorder to carry out the purpose of this part with respect to students engaged in specialized training requiring exceptionally high costs of education, but the annual insurable limit per student shall not be deemed to be exceeded by a line of credit under which actual payments by the lender to the borrower will not be made in any years in excess of the annual limit.
+> &emsp;except in cases where the Secretary determines,<sup>1</sup> that a higher amount is warranted in order to carry out the purpose of this part with respect to students engaged in specialized training requiring exceptionally high costs of education, but the annual insurable limit per student shall not be deemed to be exceeded by a line of credit under which actual payments by the lender to the borrower will not be made in any years in excess of the annual limit.
 
 #### (3) Aggregate limits for independent, graduate, and professional students
 
@@ -110,7 +110,7 @@ The determination of the amount of a loan by an eligible institution under subse
 
 #### (g) Single application form and loan repayment schedule
 
-A guaranty agency shall use a single application form and a single repayment schedule for subsidized Federal Stafford loans made pursuant to section 1078 of this title and for unsubsidized Federal Stafford loans made pursuant to this section.
+A guaranty agency shall use a single application form and a single repayment schedule forsubsidized Federal Stafford loans made pursuant to section 1078 of this title and for unsubsidized Federal Stafford loans made pursuant to this section.
 
 #### (h) Insurance premium
 
@@ -196,7 +196,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1996 Amendment
 
-Section 101(d) \[title V, §514(b)\] of Pub. L. 104–134 provided that: “The amendments made by subsection (a)\[amending this section\] shall be effective for loans made to cover the cost of instruction for periods of enrollment beginning on or after July 1, 1996.”
+Section 101(d) \[title V, §514(b)\] of Pub. L. 104–134 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective for loans made to cover the cost of instruction for periods of enrollment beginning on or after July 1, 1996.”
 
 #### Effective Date of 1993 Amendments
 

@@ -10,7 +10,7 @@ Upon agreement by the Government of Israel to provide to the Government of the U
 
 #### (c) Crediting of funds to proper appropriation account
 
-Funds made available by the Government of Israel pursuant to subsection (b) of this sectionmay be credited to the appropriation account established to carry out the purposes of this section for the payment of obligations incurred and for refund to the Government of Israel if they are unnecessary for that purpose, as determined by the President. Credits and the proceeds of guaranteed loans made available to the Government of Israel pursuant to the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], as well as any other source of financing available to it, may be used by Israel to carry out its undertaking to provide such additional funds.
+Funds made available by the Government of Israel pursuant to subsection (b) of this section may be credited to the appropriation account established to carry out the purposes of this section for the payment of obligations incurred and for refund to the Government of Israel if they are unnecessary for that purpose, as determined by the President. Credits and the proceeds of guaranteed loans made available to the Government of Israel pursuant to the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], as well as any other source of financing available to it, may be used by Israel to carry out its undertaking to provide such additional funds.
 
 (Pub. L. 87–195, pt. II, §562, as added Pub. L. 96–35, §3, July 20, 1979, 93 Stat. 90.)
 
@@ -18,9 +18,9 @@ Funds made available by the Government of Israel pursuant to subsection (b) of t
 
 The Arms Export Control Act, referred to in subsec. (c), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-#### Delegation of Functions; Allocation of Funds
+#### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Defense and funds available to President for carrying out this subchapter, with specified exceptions, allocated to Secretary by sections 1–301(a) and 1–801(b) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56675, 56678, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

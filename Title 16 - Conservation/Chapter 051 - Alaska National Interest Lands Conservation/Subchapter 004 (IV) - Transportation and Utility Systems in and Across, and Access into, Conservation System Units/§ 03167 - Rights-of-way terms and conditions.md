@@ -28,7 +28,7 @@ Any transportation or utility system approved pursuant to this subchapter which 
 
 #### (c) Pipeline rights-of-way
 
-In the case of a pipeline described in section 185(a) of title 30, a right-of-way issued pursuant to this subchapter shall be issued in the same manner as a right-of-way is granted under section 185 of title 30, and the provisions of subsections (c) through (j), (<i>l</i>) through (q), and (u) through (y) of section 185 of title 30 shall apply to rights-of-way issued pursuant to this subchapter.
+In the case of a pipeline described in section 185(a) of title 30, a right-of-way issued pursuantto this subchapter shall be issued in the same manner as a right-of-way is granted under section 185 of title 30, and the provisions of subsections (c) through (j), (<i>l</i>) through (q), and (u) through (y) of section 185 of title 30 shall apply to rights-of-way issued pursuant to this subchapter.
 
 (Pub. L. 96–487, title XI, §1107, Dec. 2, 1980, 94 Stat. 2463.)
 

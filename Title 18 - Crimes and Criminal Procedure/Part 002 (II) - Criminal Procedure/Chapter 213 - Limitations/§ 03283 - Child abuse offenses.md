@@ -26,5 +26,5 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “Child abuse offenses” for “Customs and slave trade violations” assection catchline and amended text generally. Prior to amendment, text read as follows: “No person shall be prosecuted, tried or punished for any violation of the customs laws or the slave trade laws of the United States unless the indictment is found or the information is instituted within five years next after the commission of the offense.”
+1994—Pub. L. 103–322 substituted “Child abuse offenses” for “Customs and slave trade violations” as section catchline and amended text generally. Prior to amendment, text read as follows: “No person shall be prosecuted, tried or punished for any violation of the customs laws or the slave trade laws of the United States unless the indictment is found or the information is instituted within five years next after the commission of the offense.”
 

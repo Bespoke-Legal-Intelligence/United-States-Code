@@ -2,7 +2,7 @@
 
 (a) Under the conditions, directives, and terms specified in sections 8709–8712 of this title, the Office of Personnel Management, without regard to section 5 of title 41, may purchase a policy which shall make available to each insured employee equal amounts of optional life insurance and accidental death and dismemberment insurance in addition to the amounts provided in section 8704(a) of this title.
 
-(b) The optional life insurance and accidental death and dismemberment insurance shall be made available to each insured employee under such conditions as the Office shall prescribe and in amounts approved by the Office but not more than the greater of $10,000 or an amount which, when added to the amount provided in section 8704(a) of this title, makes the sum of his insurance equal to his annual pay.
+(b) The optional life insurance and accidental death and dismemberment insurance shall bemade available to each insured employee under such conditions as the Office shall prescribe and in amounts approved by the Office but not more than the greater of $10,000 or an amount which, when added to the amount provided in section 8704(a) of this title, makes the sum of his insurance equal to his annual pay.
 
 (c)(1) Except as otherwise provided in this subsection, the optional insurance on an employee stops on his separation from service or 12 months after discontinuance of his pay, whichever is earlier, subject to a provision for temporary extension of life insurance coverage and for conversion to an individual policy of life insurance under conditions approved by the Office.
 
@@ -36,7 +36,7 @@
 
 (f) The amount of optional life, or life and accidental death, insurance in force on an employee at the date of his death shall be paid as provided in section 8705 of this title.
 
-(Added Pub. L. 90–206, title IV, §404(1), Dec. 16, 1967, 81 Stat. 647; amended Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §1(c), Nov. 2, 1978, 92 Stat. 2481; Pub. L. 96–427, §6, Oct. 10, 1980, 94 Stat. 1834; Pub. L. 98–353, title II, §206, July 10, 1984, 98 Stat. 351, as amended by Pub. L. 99–336, §7(1), June 19, 1986,100 Stat. 639; Pub. L. 99–335, title II, §207(k)(3), June 6, 1986, 100 Stat. 597; Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 105–311, §6(2), Oct. 30, 1998, 112 Stat. 2951.)
+(Added Pub. L. 90–206, title IV, §404(1), Dec. 16, 1967, 81 Stat. 647; amended Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §1(c), Nov. 2, 1978, 92 Stat. 2481; Pub. L. 96–427, §6, Oct. 10, 1980, 94 Stat. 1834; Pub. L. 98–353, title II, §206, July 10, 1984, 98 Stat. 351, as amended by Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 99–335, title II, §207(k)(3), June 6, 1986, 100 Stat. 597; Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 105–311, §6(2), Oct. 30, 1998, 112 Stat. 2951.)
 
 #### Amendments
 
@@ -44,7 +44,7 @@
 
 1986—Subsec. (c)(1). Pub. L. 99–336 amended Pub. L. 98–353, §206, generally. See 1984 Amendment note below.
 
-Pub. L. 99–335 amended par. (1) generally, effective Jan. 1, 1987. Prior to such effective date, par. (1) read as follows: “The optional insurance on an employee stops on his separation from service, 12 months after discontinuance of his pay, or on his entry on active duty or active duty for training, as provided in sections 8706(a) and 8706(c) of this title. Justices and judges of the United States described in section 8701(a)(5)(ii) and (iii) of this chapter are deemed to continue in active employment for purposes of this chapter.”
+Pub. L. 99–335 amended par. (1) generally, effective Jan. 1, 1987. Prior to such effective date, par. (1) read as follows: “The optional insurance on an employee stops on his separation from service, 12 months after discontinuance of his pay, or on his entry on active dutyor active duty for training, as provided in sections 8706(a) and 8706(c) of this title. Justices and judges of the United States described in section 8701(a)(5)(ii) and (iii) of this chapter are deemed to continue in active employment for purposes of this chapter.”
 
 1984—Subsec. (c)(1). Pub. L. 98–353, §206, as amended generally by Pub. L. 99–336, inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
 
@@ -112,7 +112,7 @@ Enactment of this section by Pub. L. 90–206 to have no effect in the case of a
 
 #### Availability of Certain Funds in Employees’ Life Insurance Fund
 
-Section 11 of Pub. L. 96–427 provided that: “Amounts credited to the Employees’ Life Insurance Fund undersection 8714a(d) of title 5, United States Code shall be available for expenses incurred by the Office of Personnel Management in implementing the amendments made by sections 7 and 8 of this Act \[enacting sections 8714b, 8714c, and 8701(d) of this title\].”
+Section 11 of Pub. L. 96–427 provided that: “Amounts credited to the Employees’ Life Insurance Fund under section 8714a(d) of title 5, United States Code shall be available for expenses incurred by the Office of Personnel Management in implementing the amendments made by sections 7 and 8 of this Act \[enacting sections 8714b, 8714c, and 8701(d) of this title\].”
 
 #### Section Referred to in Other Sections
 

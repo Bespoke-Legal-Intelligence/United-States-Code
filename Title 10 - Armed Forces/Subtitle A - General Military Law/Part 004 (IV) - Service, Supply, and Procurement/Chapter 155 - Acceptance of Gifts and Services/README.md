@@ -12,10 +12,13 @@
 | [2608\.](%C2%A7%2002608%20-%20Acceptance%20of%20contributions%20for%20defense%20programs%2C%20projects%2C%20and%20activities%3B%20Defense%20Cooperation%20Account.md) | Acceptance of contributions for defense programs, projects, and activities; Defense Cooperation Account. |
 | \[2609. | Repealed.\] |
 | [2610\.](%C2%A7%2002610%20-%20Competitions%20for%20excellence%20acceptance%20of%20monetary%20awards.md) | Competitions for excellence: acceptance of monetary awards. |
+| [2611\.](%C2%A7%2002611%20-%20Asia-Pacific%20Center%20for%20Security%20Studies%20acceptance%20of%20foreign%20gifts%20and%20donations.md) | Asia-Pacific Center for Security Studies: acceptance of foreign gifts and donations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title IX, §915(b), Oct. 5, 1999, 113 Stat. 722, added item 2611.
 
 1996—Pub. L. 104–201, div. A, title X, §1074(a)(15), Sept. 23, 1996, 110 Stat. 2659, struck out item 2609 “Theater Missile Defense: acceptance of contributions from allies; Theater Missile Defense Cooperation Account”.
 
@@ -54,3 +57,4 @@ Pub. L. 104–106, div. A, title III, §377(b), Feb. 10, 1996, 110 Stat. 284, ad
 - [&sect; 02608 - Acceptance of contributions for defense programs, projects, and activities; Defense Cooperation Account](%C2%A7%2002608%20-%20Acceptance%20of%20contributions%20for%20defense%20programs%2C%20projects%2C%20and%20activities%3B%20Defense%20Cooperation%20Account.md)
 - [&sect; 02609 - Repealed. Pub. L. 104&#8211;106, div. A, title II, &sect;253(9), Feb. 10, 1996, 110 Stat. 235](%C2%A7%2002609%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20II%2C%20%C2%A7253%289%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20235.md)
 - [&sect; 02610 - Competitions for excellence acceptance of monetary awards](%C2%A7%2002610%20-%20Competitions%20for%20excellence%20acceptance%20of%20monetary%20awards.md)
+- [&sect; 02611 - Asia-Pacific Center for Security Studies acceptance of foreign gifts and donations](%C2%A7%2002611%20-%20Asia-Pacific%20Center%20for%20Security%20Studies%20acceptance%20of%20foreign%20gifts%20and%20donations.md)

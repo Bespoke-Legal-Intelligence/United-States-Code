@@ -6,7 +6,7 @@ A wool product shall be misbranded—
 
 &emsp;(1) If it is falsely or deceptively stamped, tagged, labeled, or otherwise identified.
 
-&emsp;(2) If a stamp, tag, label, or other means of identification, or substitute therefor under section 68c of this title, is not on or affixed to the wool product and does not show—
+&emsp;(2) If a stamp, tag, label, or other means of identification, or substitute therefor undersection 68c of this title, is not on or affixed to the wool product and does not show—
 
 &emsp;&emsp;(A) the percentage of the total fiber weight of the wool product, exclusive of ornamentation not exceeding 5 per centum of said total fiber weight, of (1) wool; (2) recycled wool; (3) each fiber other than wool if said percentage by weight of such fiber is 5 per centum or more; and (4) the aggregate of all other fibers: <i>Provided</i>, That deviation of the fiber contents of the wool product from percentages stated on the stamp, tag, label, or other means of identification, shall not be misbranding under this section if the person charged with misbranding proves such deviation resulted from unavoidable variations in manufacture and despite the exercise of due care to make accurate the statements on such stamp, tag, label, or other means of identification.
 
@@ -22,7 +22,7 @@ A wool product shall be misbranded—
 
 #### (b) Additional information
 
-In addition to information required in this section, the stamp, tag, label, or other means ofidentification, or substitute therefor under section 68c of this title, may contain other information not violating the provisions of this subchapter or the rules and regulations of the Commission.
+In addition to information required in this section, the stamp, tag, label, or other means of identification, or substitute therefor under section 68c of this title, may contain other information not violating the provisions of this subchapter or the rules and regulations of the Commission.
 
 #### (c) Substitute identification
 

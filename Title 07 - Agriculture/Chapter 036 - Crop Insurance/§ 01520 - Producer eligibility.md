@@ -4,9 +4,9 @@ Except as otherwise provided in this chapter, a producer shall not be denied ins
 
 &emsp;(1) for purposes of catastrophic risk protection coverage, the producer is a “person” (as defined by the Secretary); and
 
-&emsp;(2) for purposes of any other plan of insurance, the producer is 18 years of age and has abona fide insurable interest in a crop as an owner-operator, landlord, tenant, or sharecropper.
+&emsp;(2) for purposes of any other plan of insurance, the producer is 18 years of age and has a bona fide insurable interest in a crop as an owner-operator, landlord, tenant, or sharecropper.
 
-(Feb. 16, 1938, ch. 30, title V, §520, as added Pub. L. 92–357, July 28, 1972, 86 Stat. 501; amended Pub. L. 103–354, title I, §113, Oct. 13, 1994, 108 Stat. 3203.)
+(Feb. 16, 1938, ch. 30, title V, §520, as added Pub. L. 92–357, July 28, 1972, 86 Stat. 501; amendedPub. L. 103–354, title I, §113, Oct. 13, 1994, 108 Stat. 3203.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 707 of this title; title 16 sections 460mm–1, 4804; title 42 section 6502; title 43 sections 299, 1783.
+This subchapter is referred to in section 707 of this title; title 16 section 460mm–1; title 42 section 6502; title 43 sections 299, 1783.
 
 
 ---

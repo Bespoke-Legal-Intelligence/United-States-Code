@@ -8,5 +8,5 @@ On and after May 10, 1939, no individual of less than one-quarter degree of Indi
 
 Act of June 18, 1934, referred to in text, popularly known as the Indian Reorganization Act, is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 
-Act of June 26, 1936, referred to in text, popularly known as the Oklahoma Welfare Act, is classified generally to subchapter VIII (§501 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 501 of this title and Tables.
+Act of June 26, 1936, referred to in text, popularly known as the Oklahoma Welfare Act, is classified generally to subchapter VIII (§501 et seq.) of this chapter. For complete classification of this Act to the Code, seeShort Title note set out under section 501 of this title and Tables.
 

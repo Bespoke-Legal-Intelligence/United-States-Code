@@ -114,7 +114,7 @@
 
 &emsp;(22) “teachers” and “teaching positions” as defined by section 901 of title 20;
 
-&emsp;(23) examiners-in-chief and designated examiners-in-chief in the Patent and Trademark Office, Department of Commerce;
+&emsp;(23) administrative patent judges and designated administrative patent judges in the United States Patent and Trademark Office;
 
 &emsp;(24) temporary positions in the Bureau of the Census established under section 23 of title 13, and enumerator positions in the Bureau of the Census;
 
@@ -132,7 +132,7 @@
 
 (d) This chapter does not apply to an employee of the Office of the Architect of the Capitol whose pay is fixed by other statute. Subsection (c) of this section, except paragraph (7), does not apply to the Office of the Architect of the Capitol.
 
-(Pub. L 89–554, Sept. 6, 1966, 80 Stat. 444; Pub. L. 90–83, §1(11), Sept. 11, 1967, 81 Stat. 197; Pub. L. 90–610, §2, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 91–34, §2(a), June 30, 1969, 83 Stat. 41; Pub. L. 91–358, title I, §172(f), July 29, 1970, 84 Stat. 591; Pub. L. 91–375, §6(c)(9), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–176, §1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 94–183, §2(12), (13), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title VIII, §801(a)(3)(D), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 96–54, §2(a)(22), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, §3302(e)(1), (6), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(b), Feb. 15, 1980, 94 Stat. 33; Pub. L. 96–465, title II, §2314(b), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 97–468, title VI, §615(b)(1)(C), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(a), Nov. 8, 1984, 98 Stat. 3302; Pub. L. 99–145, title V, §504(b), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–335, title II, §207(n), June 6, 1986, 100 Stat. 598; Pub. L. 100–135, §1(b)(2), Oct. 16, 1987, 101 Stat. 811; Pub. L. 101–189, div. A, title XI, §1124(e), Nov. 29, 1989, 103 Stat. 1560; Pub. L. 101–474, §5(h), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §§101(b)(9)(F), 104(d)(1), 109(a)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1441, 1447, 1451; Pub. L. 101–510, div. A, title XII, §1209(h)(2), Nov. 5, 1990, 104 Stat. 1667; Pub. L. 102–40, title IV, §403(c)(1), May 7, 1991, 105 Stat. 240; Pub. L. 102–54, §13(b)(1), (2), June 13, 1991, 105 Stat. 274; Pub. L. 103–160, div. A, title V, §533(c), title IX, §923(b), Nov. 30, 1993, 107 Stat. 1658, 1731; Pub. L. 103–359, title V, §501(g), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–446, title XII, §1203(b), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(2), Sept. 23, 1996, 110 Stat. 2687, 2868.)
+(Pub. L 89–554, Sept. 6, 1966, 80 Stat. 444; Pub. L. 90–83, §1(11), Sept. 11, 1967, 81 Stat. 197; Pub. L. 90–610, §2, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 91–34, §2(a), June 30, 1969, 83 Stat. 41; Pub. L. 91–358, title I, §172(f), July 29, 1970, 84 Stat. 591; Pub. L. 91–375, §6(c)(9), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–176, §1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 94–183, §2(12), (13), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title VIII, §801(a)(3)(D), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 96–54, §2(a)(22), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, §3302(e)(1), (6), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(b), Feb. 15, 1980, 94 Stat. 33; Pub. L. 96–465, title II, §2314(b), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 97–468, title VI, §615(b)(1)(C), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(a), Nov. 8, 1984, 98 Stat. 3302; Pub. L. 99–145, title V, §504(b), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–335, title II, §207(n), June 6, 1986, 100 Stat. 598; Pub. L. 100–135, §1(b)(2), Oct. 16, 1987, 101 Stat. 811; Pub. L. 101–189, div. A, title XI, §1124(e), Nov. 29, 1989, 103 Stat. 1560; Pub. L. 101–474, §5(h), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §§101(b)(9)(F), 104(d)(1), 109(a)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1441, 1447, 1451; Pub. L. 101–510, div. A, title XII, §1209(h)(2), Nov. 5, 1990, 104 Stat. 1667; Pub. L. 102–40, title IV, §403(c)(1), May 7, 1991, 105 Stat. 240; Pub. L. 102–54, §13(b)(1), (2), June 13, 1991, 105 Stat. 274; Pub. L. 103–160, div. A, title V, §533(c), title IX, §923(b), Nov. 30, 1993, 107 Stat. 1658, 1731; Pub. L. 103–359, title V, §501(g), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–446, title XII, §1203(b), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(2), Sept. 23, 1996, 110 Stat. 2687, 2868; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
 Historical and Revision Notes<br>1966
 
@@ -288,6 +288,8 @@ Section 8 of the Contract Disputes Act of 1978, referred to in subsec. (c)(30), 
 
 #### Amendments
 
+1999—Subsec. (c)(23). Pub. L. 106–113 amended par. (23) generally. Prior to amendment, par. (23) read as follows: “examiners-in-chief and designated examiners-in-chief in the Patent and Trademark Office, Department of Commerce;”.
+
 1996—Subsec. (a)(1)(vi), (vii). Pub. L. 104–201, §3548(a)(2)(A), redesignated cls. (vii) and (viii) as (vi) and (vii), respectively, and struck out former cl. (vi) which read as follows: “the Panama Canal Commission;”.
 
 Subsec. (a)(1)(viii). Pub. L. 104–201, §3548(a)(2)(A)(ii), which directed redesignation of cl. (ix) as (viii) could not be executed because subsec. (a)(1) did not contain a cl. (ix). See 1983 Amendment note below. Former cl. (viii) redesignated (vii).
@@ -300,7 +302,7 @@ Pub. L. 104–201, §1122(a)(1), substituted “National Imagery and Mapping Age
 
 Subsec. (c)(12). Pub. L. 104–201, §3548(a)(2)(B), struck out par. (12) which read as follows: “any Executive agency to the extent of any election under section 1212(b)(2) (relating to the Panama Canal Employment System) of the Panama Canal Act of 1979;”.
 
-1994—Subsec. (a)(1)(ix) to (xi). Pub. L. 103–359 directed the amendment of cl. (ix) by striking “or” at end whichcould not be executed because par. (1) does not contain a cl. (ix), directed the substitution of “; or” for period at end of cl. (x) which was executed by inserting “or” at end of cl. (x) to reflect the probable intent of Congress because a semicolon already exists at end of cl. (x), and added cl. (xi).
+1994—Subsec. (a)(1)(ix) to (xi). Pub. L. 103–359 directed the amendment of cl. (ix) by striking “or” at end which could not be executed because par. (1) does not contain a cl. (ix), directed the substitution of “; or” for period at end of cl. (x) which was executed by inserting “or” at end of cl. (x) to reflect the probable intent of Congress because a semicolon already exists at end of cl. (x), and added cl. (xi).
 
 Subsec. (c)(3). Pub. L. 103–446 struck out comma after “Department of Veterans Affairs”.
 
@@ -370,6 +372,10 @@ Subsec. (c)(4). Pub. L. 91–358 expanded reference to include chief judges, sub
 
 Reference to Executive Protective Service held to refer to United States Secret Service Uniformed Division pursuant to Pub. L. 95–179, set out as a note under section 202 of Title 3, The President.
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by section 1122(a)(1) of Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of Title 10, Armed Forces.
@@ -378,7 +384,7 @@ Amendment by section 1122(a)(1) of Pub. L. 104–201 effective Oct. 1, 1996, see
 
 Amendment by section 529 \[title I, §§101(b)(9)(F), 104(d)(1)\] of Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
-Amendment by section 529 \[title I, §109(a)(2)\] of Pub. L. 101–509 effective on first day of first applicable pay period beginning on or after the 30th day following Nov. 5, 1990, see section 529 \[title I, §109(c)\] of Pub. L. 101–509, set out as an Effective Date note under section 5378 of this title.
+Amendment by section 529 \[title I, §109(a)(2)\] of Pub. L. 101–509 effective on first day of first applicable pay period beginning on or after the 30th day following Nov.5, 1990, see section 529 \[title I, §109(c)\] of Pub. L. 101–509, set out as an Effective Date note under section 5378 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -464,7 +470,7 @@ Rate of basic pay not to be reduced by reason of the enactment of Pub. L. 91–3
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3327, 5101, 5103, 5331, 5342, 5348, 5349, 5361, 5377, 5380, 5391, 5753, 5754, 5755, 7511 of this title; title 20 section 903; title 29 section 218.
+This section is referred to in sections 3327, 5101, 5103, 5331, 5342, 5348, 5349, 5361, 5377, 5391, 5753, 5754, 5755, 7511 of this title; title 20 section 903; title 29 section 218.
 
 <i><sup>1</sup></i><i> So in original. The word “or” probably should not appear.</i>
 

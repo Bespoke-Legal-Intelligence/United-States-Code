@@ -23,14 +23,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER III—NORTH/SOUTH CENTER
+#### SUBCHAPTER III—DANTE B. FASCELL NORTH-SOUTH CENTER
 
 |  |  |
 | :--- | ---: |
-| [2075\.](Subchapter%20003%20%28III%29%20-%20North-South%20Center/%C2%A7%2002075%20-%20Center%20for%20Cultural%20and%20Technical%20Interchange%20Between%20North%20and%20South.md) | Center for Cultural and Technical Interchange Between North and South. |
+| [2075\.](Subchapter%20003%20%28III%29%20-%20Dante%20B.%20Fascell%20North-South%20Center/%C2%A7%2002075%20-%20Center%20for%20Cultural%20and%20Technical%20Interchange%20Between%20North%20and%20South.md) | Center for Cultural and Technical Interchange Between North and South. |
 | (a) | Short title. |
 | (b) | Purpose. |
-| (c) | North/South Center. |
+| (c) | Dante B. Fascell North-South Center. |
 | (d) | Authorities. |
 | (e) | Authorization of appropriations. |
 
@@ -56,5 +56,5 @@
 
 - [Subchapter 001 (I) - Center Between East and West](Subchapter%20001%20%28I%29%20-%20Center%20Between%20East%20and%20West/README.md)
 - [Subchapter 002 (II) - Western Hemispheric Center](Subchapter%20002%20%28II%29%20-%20Western%20Hemispheric%20Center/README.md)
-- [Subchapter 003 (III) - North-South Center](Subchapter%20003%20%28III%29%20-%20North-South%20Center/README.md)
+- [Subchapter 003 (III) - Dante B. Fascell North-South Center](Subchapter%20003%20%28III%29%20-%20Dante%20B.%20Fascell%20North-South%20Center/README.md)
 - [Subchapter 004 (IV) - International University](Subchapter%20004%20%28IV%29%20-%20International%20University/README.md)

@@ -152,7 +152,7 @@ Subsec. (b). Pub. L. 103–230, §403(b)(2), amended subsec. (b) generally, inse
 
 Subsec. (c). Pub. L. 103–230, §403(b)(3)(A), inserted heading and in text substituted “section 6066(a) of this title” for “section 6064(b) of this title” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 103–230, §403(b)(3)(B), substituted “interdisciplinary training, community training and technical assistance, community services, or dissemination of information to individuals” for “service-related training to persons”, “individuals” for “persons” in two places, and “integration and inclusion into the community of individuals with developmental disabilities and not otherwise specified in subsection (b) of this section” for “integration into the community of persons with developmental disabilities”.
+Subsec. (c)(1). Pub. L. 103–230, §403(b)(3)(B), substituted “interdisciplinary training, community training and technical assistance, community services, or dissemination of information to individuals” for “service-related training to persons”, “individuals” for “persons” in two places, and “integration and inclusion into the community of individuals with developmentaldisabilities and not otherwise specified in subsection (b) of this section” for “integration into the community of persons with developmental disabilities”.
 
 Subsec. (c)(2). Pub. L. 103–230, §403(b)(3)(C), substituted “individuals” for “persons” and “family members” for “parents” and struck out “(A)” before “the delivery of services” and “(B)” before “the training of professionals”.
 

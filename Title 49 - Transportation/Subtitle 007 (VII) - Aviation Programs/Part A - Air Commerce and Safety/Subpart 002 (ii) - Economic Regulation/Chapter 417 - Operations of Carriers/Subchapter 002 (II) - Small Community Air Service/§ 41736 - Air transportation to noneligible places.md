@@ -34,7 +34,7 @@ Approval for Certain Air Transportation.—Notwithstanding subsection (a)(1)(B) 
 
 Level of Air Transportation.—(1) If the Secretary designates a place under subsection (a)(1) of this section as eligible for compensation under this section, the Secretary shall decide, not later than 6 months after the date of the designation, on the level of air transportation to be provided under this section. Before making a decision, the Secretary shall consider the views of any interested community, the appropriate State authority of the State in which the place is located, and the State or local government or person agreeing to pay compensation for the transportation under subsection (b)(4) of this section.
 
-(2) After making the decision under paragraph (1) of this subsection, the Secretary shall provide notice that any air carrier that is willing to provide the level of air transportation established under paragraph (1) for a place may submit an application to provide the transportation. In selecting an applicant, the Secretary shall consider, among other factors—
+(2) After making the decision under paragraph (1) of this subsection, the Secretary shall provide notice that any air carrier that is willing toprovide the level of air transportation established under paragraph (1) for a place may submit an application to provide the transportation. In selecting an applicant, the Secretary shall consider, among other factors—
 
 &emsp;(A) the factors listed in section 41733(c)(1) of this title; and
 
@@ -62,7 +62,7 @@ Withdrawal of Eligibility Designations.—After providing notice and an opportun
 
 (g)
 
-Ending, Suspending, and Reducing Air Transportation.—An air carrier providing airtransportation for compensation under this section may end, suspend, or reduce that transportation below the level of transportation established by the Secretary under this section only after giving the Secretary, the affected community, and the State or local government or person paying compensation under this section at least 30 days’ notice before ending, suspending, or reducing the transportation.
+Ending, Suspending, and Reducing Air Transportation.—An air carrier providing air transportation for compensation under this section may end, suspend, or reduce that transportation below the level of transportation established by the Secretary under this section only after giving the Secretary, the affected community, and the State or local government or person paying compensation under this section at least 30 days’ notice before ending, suspending, or reducing the transportation.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1149.)
 

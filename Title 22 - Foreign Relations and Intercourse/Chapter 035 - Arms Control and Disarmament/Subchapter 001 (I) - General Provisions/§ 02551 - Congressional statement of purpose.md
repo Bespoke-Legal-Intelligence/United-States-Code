@@ -38,15 +38,19 @@ Pub. L. 103–236, §703, substituted subpars. (1) to (5) for former subpars. (a
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1101\], Nov. 29, 1999, 113 Stat. 1536, 1501A–485, provided that: “This title \[enacting sections 2652c and 2797b–2 of this title and section 1526 of Title 50, War and National Defense, amending sections 2577, 2593a, 2797b, 2797b–1, 2797c, and 3282 of this title, enacting provisions set out as notes under sections 2593a, 2652c, 3282, 5601, 5853, and 6723 of this title and section 7704 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 2155 of Title 42\] may be cited as the ‘Arms Control and Nonproliferation Act of 1999’.”
 
 #### Short Title of 1994 Amendment
 
-Section 701(a) of Pub. L. 103–236 provided that: “This part \[part A (§§701–719) of title VII of Pub. L. 103–236, enacting sections 2578 and 2593a to 2593d of this title, amending this section, sections 2562, 2565 to 2568, 2571, 2573 to 2577, 2579, 2581, 2585, 2591, 2593, 2791, 2797, and 2797b of this title, section 5315 of Title 5, Government Organization and Employees, and section 2139a of Title 42, The Public Health and Welfare, repealing sections 2578, 2589, 2590, and 2592 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as notes under this section\] may be cited as the ‘Arms Control and Nonproliferation Act of 1994’.”
+Section 701(a) of Pub. L. 103–236 provided that: “This part \[part A (§§701–719) of title VII of Pub. L. 103–236, enacting sections 2578 and 2593a to 2593d of this title, amending this section, sections 2562, 2565 to 2568, 2571, 2573 to 2577, 2579, 2581, 2585, 2591, 2593, 2791, 2797, and 2797b of this title, section 5315 of Title 5, Government Organization and Employees, and section 2139a of Title42, The Public Health and Welfare, repealing sections 2578, 2589, 2590, and 2592 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as notes under this section\] may be cited as the ‘Arms Control and Nonproliferation Act of 1994’.”
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–216, §1, Dec. 11, 1989, 103 Stat. 1853, provided that: “This Act \[enacting sections 2577a and 2595to 2595c of this title, amending sections 2563, 2567, 2588, and 2589 of this title, and enacting provisions set out as notes under sections 2565 and 2567 of this title\] may be cited as the ‘Arms Control and Disarmament Amendments Act of 1989’.”
+Pub. L. 101–216, §1, Dec. 11, 1989, 103 Stat. 1853, provided that: “This Act \[enacting sections 2577a and 2595 to 2595c of this title, amending sections 2563, 2567, 2588, and 2589 of this title, and enacting provisions set out as notes under sections 2565 and 2567 of this title\] may be cited as the ‘Arms Control and Disarmament Amendments Act of 1989’.”
 
 #### Short Title of 1987 Amendment
 
@@ -64,9 +68,95 @@ Pub. L. 95–108, §1, Aug. 17, 1977, 91 Stat. 871, provided that: “This Act \
 
 Pub. L. 87–297, title I, §101, formerly §1, Sept. 26, 1961, 75 Stat. 631, as renumbered §101 by Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(21), Oct. 21, 1998, 112 Stat. 2681–772, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Arms Control and Disarmament Act’.”
 
+#### International Arms Sales Code of Conduct
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, subtitle F\], Nov. 29, 1999, 113 Stat. 1536, 1501A–508, provided that:
+
+#### “SEC. 1261. SHORT TITLE.
+
+“This subtitle may be cited as the ‘International Arms Sales Code of Conduct Act of 1999’.
+
+#### “SEC. 1262. INTERNATIONAL ARMS SALES CODE OF CONDUCT.
+
+“(a)
+
+Negotiations.—The President shall attempt to achieve the foreign policy goal of an international arms sales code of conduct. The President shall take the necessary steps to begin negotiations within appropriate international fora not later than 120 days after the date of the enactment of this Act \[Nov. 29, 1999\]. The purpose of these negotiations shall be to establish an international regime to promote global transparency with respect to arms transfers, including participation by countries in the United Nations Register of Conventional Arms, and to limit, restrict, or prohibit arms transfers to countries that do not observe certain fundamental values of human liberty, peace, and international stability.
+
+“(b)
+
+Criteria.—The President shall consider the following criteria in the negotiations referred to in subsection (a):
+
+&emsp;“(1)
+
+Promotes democracy.—The government of the country—
+
+&emsp;&emsp;“(A) was chosen by and permits free and fair elections;
+
+&emsp;&emsp;“(B) promotes civilian control of the military and security forces and has civilian institutions controlling the policy, operation, and spending of all law enforcement and security institutions, as well as the armed forces;
+
+&emsp;&emsp;“(C) promotes the rule of law and provides its nationals the same rights that they would be afforded under the United States Constitution if they were United States citizens; and
+
+&emsp;&emsp;“(D) promotes the strengthening of political, legislative, and civil institutions of democracy, as well as autonomous institutions to monitor the conduct of public officials and to combat corruption.
+
+&emsp;“(2)
+
+Respects human rights.—The government of the country—
+
+&emsp;&emsp;“(A) does not persistently engage in gross violations of internationally recognized human rights, including—
+
+&emsp;&emsp;&emsp;“(i) extrajudicial or arbitrary executions;
+
+&emsp;&emsp;&emsp;“(ii) disappearances;
+
+&emsp;&emsp;&emsp;“(iii) torture or severe mistreatment;
+
+&emsp;&emsp;&emsp;“(iv) prolonged arbitrary imprisonment;
+
+&emsp;&emsp;&emsp;“(v) systematic official discrimination on the basis of race, ethnicity, religion, gender, national origin, or political affiliation; and
+
+&emsp;&emsp;&emsp;“(vi) grave breaches of international laws of war or equivalent violations of the laws of war in internal armed conflicts;
+
+&emsp;&emsp;“(B) vigorously investigates, disciplines, and prosecutes those responsible for gross violations of internationally recognized human rights;
+
+&emsp;&emsp;“(C) permits access on a regular basis to political prisoners by international humanitarian organizations;
+
+&emsp;&emsp;“(D) promotes the independence of the judiciary and other official bodies that oversee the protection of human rights;
+
+&emsp;&emsp;“(E) does not impede the free functioning of domestic and international human rights organizations; and
+
+&emsp;&emsp;“(F) provides access on a regular basis to humanitarian organizations in situations of conflict or famine.
+
+&emsp;“(3)
+
+Not engaged in certain acts of armed aggression.—The government of the country is not engaged in acts of armed aggression in violation of international law.
+
+&emsp;“(4)
+
+Not supporting terrorism.—The government of the country does not provide support for international terrorism.
+
+&emsp;“(5)
+
+Not contributing to proliferation of weapons of mass destruction.—The government of the country does not contribute to the proliferation of weapons of mass destruction.
+
+&emsp;“(6)
+
+Regional location of country.—The country is not located in a region in which arms transfers would exacerbate regional arms races or international tensions that present a danger to international peace and stability.
+
+“(c)
+
+Reports to Congress.—
+
+&emsp;“(1)
+
+Report relating to negotiations.—Not later than 6 months after the commencement of the negotiations under subsection (a), and not later than the end of every 6-month period thereafter until an agreement described in subsection (a) is concluded, the President shall report to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate on the progress made during these negotiations.
+
+&emsp;“(2)
+
+Human rights reports.—In the report required in sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n(b) and 2304(b)), the Secretary of State shall describe the extent to which the practices of each country evaluated meet the criteria in paragraphs (1)(A) and (2) of subsection (a).”
+
 #### Congressional Declarations; Purposes of 1994 Amendment
 
-Section 702 of Pub. L. 103–236 stated congressional declarations and purposes of amendments by part A of title VII of Pub. L. 103–236 (see Short Title of 1994 Amendment note above) to strengthen United States Arms Control and Disarmament Agency, and to improve congressional oversight of arms control, nonproliferation, and disarmament activities of United States Arms Control and Disarmament Agency, and of Agency's operating budget.
+Section 702 of Pub. L. 103–236 stated congressional declarations and purposes of amendments by part A of title VII of Pub. L. 103–236 (see Short Title of 1994 Amendment note above) to strengthen United StatesArms Control and Disarmament Agency, and to improve congressional oversight of arms control, nonproliferation, and disarmament activities of United States Arms Control and Disarmament Agency, and of Agency's operating budget.
 
 #### Report on Revitalization of ACDA
 
@@ -210,7 +300,7 @@ Pub. L. 93–559, §51, Dec. 30, 1974, 88 Stat. 1817, as amended by Pub. L. 97�
 
 #### Executive Order No. 12946
 
-Ex. Ord. No. 12946, Jan. 20, 1995, 60 F.R. 4829, which established within Department of Defense the President's Advisory Board on Arms Proliferation Policy, was revoked by Ex. Ord. No. 13062, §3(c), Sept. 29, 1997, 62 F.R. 51756, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12946, Jan. 20, 1995, 60 F.R. 4829, which established within Department of Defense the President's Advisory Board on Arms Proliferation Policy, was revoked by Ex. Ord. No. 13062, §3(c), Sept. 29, 1997, 62 F.R. 51756, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

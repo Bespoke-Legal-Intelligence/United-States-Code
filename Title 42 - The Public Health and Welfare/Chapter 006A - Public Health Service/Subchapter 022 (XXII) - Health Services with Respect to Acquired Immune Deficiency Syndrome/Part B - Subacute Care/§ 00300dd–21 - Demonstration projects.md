@@ -10,7 +10,7 @@ As used in this section:
 
 #### (b) Authorization to conduct three projects
 
-The Secretary shall conduct three demonstration projects to determine the effectiveness and cost of providing the subacute-care services described in subsection (b) of this section to individuals infected with the etiologic agent for acquired immune deficiency syndrome, and the impact of such services on the health status of such individuals.
+The Secretary shall conduct three demonstration projects to determine the effectiveness and cost of providing the subacute-care services described in subsection (b) of this section to individuals infected with the etiologic agent for acquired immune deficiency syndrome, and theimpact of such services on the health status of such individuals.
 
 #### (c) Services
 
@@ -80,7 +80,7 @@ Each demonstration project shall provide for other research to be carried out at
 
 The Secretary shall enter into an agreement with the Secretary of the Department of Veterans Affairs to ensure that appropriate provision will be made for the furnishing, through demonstration projects, of services to eligible veterans, under contract with the Department of Veterans Affairs pursuant to section 1720 of title 38.
 
-(July 1, 1944, ch. 373, title XXIV, §2421, as added Pub. L. 100–607, title II, §211, Nov. 4, 1988, 102Stat. 3088; amended Pub. L. 100–527, §10(1), (2), Oct. 25, 1988, 102 Stat. 2640, 2641; Pub. L. 100–690, title II, §2618(h), Nov. 18, 1988, 102 Stat. 4241; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406.)
+(July 1, 1944, ch. 373, title XXIV, §2421, as added Pub. L. 100–607, title II, §211, Nov. 4, 1988, 102 Stat. 3088; amended Pub. L. 100–527, §10(1), (2), Oct. 25, 1988, 102 Stat. 2640, 2641; Pub. L. 100–690, title II, §2618(h), Nov. 18, 1988, 102 Stat. 4241; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 
@@ -96,7 +96,7 @@ Subsec. (c)(1). Pub. L. 100–690, §2618(h)(4)(A), in introductory provisions s
 
 Subsec. (c)(1)(A). Pub. L. 100–690, §2618(h)(4)(B), substituted in introductory provisions “such individuals” for “such patients”, in cl. (ii) “individuals with acquired immune deficiency syndrome” for “AIDS patients”, and in cl. (iii) “such individuals” for “patients”.
 
-Subsec. (c)(1)(B), (2)(C). Pub. L. 100–690, §2618(h)(4)(C), (5), substituted “individuals infected with the etiologic agent for acquired immune deficiency syndrome” for “patients infected with the human immunodeficiency virus”.
+Subsec. (c)(1)(B), (2)(C). Pub. L. 100–690, §2618(h)(4)(C), (5), substituted “individuals infected with the etiologicagent for acquired immune deficiency syndrome” for “patients infected with the human immunodeficiency virus”.
 
 Subsec. (d)(2)(B). Pub. L. 100–690, §2618(h)(6), substituted “cases of acquired immune deficiency syndrome” for “AIDS cases”.
 

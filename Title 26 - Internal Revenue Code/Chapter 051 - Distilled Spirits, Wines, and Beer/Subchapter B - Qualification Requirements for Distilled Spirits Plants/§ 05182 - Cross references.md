@@ -2,7 +2,7 @@
 
 &emsp;&emsp;<b>For provisions requiring payment of special (occupational) tax as wholesale liquor dealer, see section 5111, or as retail liquor dealer, see section 5121.</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1356, §5181; amended Pub. L. 96–39, titleVIII, §807(a)(20), July 26, 1979, 93 Stat. 283; renumbered §5182, Pub. L. 96–223, title II, §232(e)(1), Apr. 2, 1980, 94 Stat. 278.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1356, §5181; amended Pub. L. 96–39, title VIII, §807(a)(20), July 26, 1979, 93 Stat. 283; renumbered §5182, Pub. L. 96–223, title II, §232(e)(1), Apr. 2, 1980, 94 Stat. 278.)
 
 #### Prior Provisions
 

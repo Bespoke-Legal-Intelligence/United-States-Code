@@ -1,16 +1,16 @@
 ### §5409. Recordkeeping requirements
 
-#### (a) Laboratories
+Manufacturers and importers shall retain the record of conformance for fasteners for 5 years, on paper or in photographic or electronic format in a manner that allows for verification of authenticity. Upon request of a distributor who has purchased a fastener, or a person who has purchased a fastener for use in the production of a commercial product, the manufacturer or importer of the fastener shall make available information in the record of conformance to the requester.
 
-Laboratories which perform inspections and testing under section 5404(b) of this title shall retain for 5 years all records concerning the inspection and testing, and certification, of fasteners under section 5404 of this title.
+(Pub. L. 101–592, §7, formerly §10, Nov. 16, 1990, 104 Stat. 2951; Pub. L. 104–113, §11(h), Mar. 7, 1996, 110 Stat. 782; renumbered §7 and amended Pub. L. 106–34, §7, June 8, 1999, 113 Stat. 123.)
 
-#### (b) Manufacturers, importers, private label distributors, and persons who make significant alterations
+#### Prior Provisions
 
-Manufacturers, importers, private label distributors, and persons who make significant alterations shall retain for 5 years all records concerning the inspection and testing, and certification, of fasteners under section 5404 of this title, and shall provide copies of any applicable laboratory testing report or manufacturer's certificate upon request to the subsequent purchaser of fasteners taken from the lot to which such testing report or manufacturer's certificate relates.
-
-(Pub. L. 101–592, §10, Nov. 16, 1990, 104 Stat. 2951; Pub. L. 104–113, §11(h), Mar. 7, 1996, 110 Stat. 782.)
+A prior section 7 of Pub. L. 101–592 was classified to section 5406 of this title, prior to repeal by Pub. L. 106–34.
 
 #### Amendments
+
+1999—Pub. L. 106–34 substituted present provisions for former provisions which consisted of subsecs. (a) and (b) relating to retention and availability of records concerning inspections, testing, and certifications of fasteners under section 5404 of this title by laboratories, manufacturers, importers, private label distributors and persons who make significant alterations.
 
 1996—Subsec. (a). Pub. L. 104–113, §11(h)(1), substituted “5 years” for “10 years”.
 

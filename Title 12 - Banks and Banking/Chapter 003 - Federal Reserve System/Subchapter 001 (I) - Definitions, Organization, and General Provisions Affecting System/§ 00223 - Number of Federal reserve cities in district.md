@@ -6,5 +6,5 @@ A Federal reserve district shall contain only one Federal reserve city.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 377, 481 of this title.
+This section is referred to in section 481 of this title.
 

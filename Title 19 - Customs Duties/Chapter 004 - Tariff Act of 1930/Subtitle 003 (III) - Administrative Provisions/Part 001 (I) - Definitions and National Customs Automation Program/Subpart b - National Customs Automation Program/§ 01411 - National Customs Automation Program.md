@@ -40,7 +40,15 @@ The Secretary shall establish the National Customs Automation Program (hereinaft
 
 The Secretary shall by regulation prescribe the eligibility criteria for participation in the Program. Participation in the Program is voluntary.
 
-(June 17, 1930, ch. 497, title IV, §411, as added Pub. L. 103–182, title VI, §631(2), Dec. 8, 1993, 107 Stat. 2188.)
+#### (c) Foreign-trade zones
+
+Not later than January 1, 2000, the Secretary shall provide for the inclusion of commercial importation data from foreign-trade zones under the Program.
+
+(June 17, 1930, ch. 497, title IV, §411, as added Pub. L. 103–182, title VI, §631(2), Dec. 8, 1993, 107 Stat. 2188; amended Pub. L. 106–36, title II, §2405, June 25, 1999, 113 Stat. 169.)
+
+#### Amendments
+
+1999—Subsec. (c). Pub. L. 106–36 added subsec. (c).
 
 #### Section Referred to in Other Sections
 

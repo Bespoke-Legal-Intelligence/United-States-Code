@@ -5,7 +5,7 @@
 | [151\.](%C2%A7%2000151%20-%20Issue%20of%20patent.md) | Issue of patent. |
 | [152\.](%C2%A7%2000152%20-%20Issue%20of%20patent%20to%20assignee.md) | Issue of patent to assignee. |
 | [153\.](%C2%A7%2000153%20-%20How%20issued.md) | How issued. |
-| [154\.](%C2%A7%2000154%20-%20Contents%20and%20term%20of%20patent.md) | Contents and term of patent. |
+| [154\.](%C2%A7%2000154%20-%20Contents%20and%20term%20of%20patent%3B%20provisional%20rights.md) | Contents and term of patent; provisional rights. |
 | [155\.](%C2%A7%2000155%20-%20Patent%20term%20extension.md) | Patent term extension. |
 | [155A.](%C2%A7%2000155A%20-%20Patent%20term%20restoration.md) | Patent term restoration. |
 | [156\.](%C2%A7%2000156%20-%20Extension%20of%20patent%20term.md) | Extension of patent term. |
@@ -14,6 +14,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4507(6)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, inserted “; provisional rights” after “patent” in item 154.
 
 1984—Pub. L. 98–622, title I, §102(b), Nov. 8, 1984, 98 Stat. 3384, added item 157.
 
@@ -33,7 +35,7 @@ Pub. L. 97–414, §11(b), Jan. 4, 1983, 96 Stat. 2066, added item 155.
 - [&sect; 00151 - Issue of patent](%C2%A7%2000151%20-%20Issue%20of%20patent.md)
 - [&sect; 00152 - Issue of patent to assignee](%C2%A7%2000152%20-%20Issue%20of%20patent%20to%20assignee.md)
 - [&sect; 00153 - How issued](%C2%A7%2000153%20-%20How%20issued.md)
-- [&sect; 00154 - Contents and term of patent](%C2%A7%2000154%20-%20Contents%20and%20term%20of%20patent.md)
+- [&sect; 00154 - Contents and term of patent; provisional rights](%C2%A7%2000154%20-%20Contents%20and%20term%20of%20patent%3B%20provisional%20rights.md)
 - [&sect; 00155 - Patent term extension](%C2%A7%2000155%20-%20Patent%20term%20extension.md)
 - [&sect; 00155A - Patent term restoration](%C2%A7%2000155A%20-%20Patent%20term%20restoration.md)
 - [&sect; 00156 - Extension of patent term](%C2%A7%2000156%20-%20Extension%20of%20patent%20term.md)

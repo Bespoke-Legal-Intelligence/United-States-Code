@@ -24,7 +24,7 @@
 
 &emsp;(ii) in the case of a violation of subparagraph (A)(ii), (iii), (iv), or (v)(II), be fined under title 18, imprisoned not more than 5 years, or both;
 
-&emsp;(iii) in the case of a violation of subparagraph (A)(i), (ii), (iii), (iv), or (v) during and in relation to which the person causes serious bodily injury (as defined in section 1365 of title18) to, or places in jeopardy the life of, any person, be fined under title 18, imprisoned not more than 20 years, or both; and
+&emsp;(iii) in the case of a violation of subparagraph (A)(i), (ii), (iii), (iv), or (v) during and in relation to which the person causes serious bodily injury (as defined in section 1365 of title 18) to, or places in jeopardy the life of, any person, be fined under title 18, imprisoned not more than 20 years, or both; and
 
 &emsp;(iv) in the case of a violation of subparagraph (A)(i), (ii), (iii), (iv), or (v) resulting in the death of any person, be punished by death or imprisoned for any term of years or for life, fined under title 18, or both.
 
@@ -74,7 +74,7 @@
 
 (5) In all suits or actions brought for the forfeiture of any conveyance seized under this section, where the conveyance is claimed by any person, the burden of proof shall lie upon such claimant, except that probable cause shall be first shown for the institution of such suit or action. In determining whether probable cause exists, any of the following shall be prima facie evidence that an alien involved in the alleged violation had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law:
 
-&emsp;(A) Records of any judicial or administrative proceeding in which that alien's status was anissue and in which it was determined that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
+&emsp;(A) Records of any judicial or administrative proceeding in which that alien's status was an issue and in which it was determined that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
 
 &emsp;(B) Official records of the Service or of the Department of State showing that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
 
@@ -136,7 +136,7 @@ Subsec. (b)(4)(C), (5). Pub. L. 100–525, §2(d)(2), amended Pub. L. 99–603, 
 
 &emsp;“(4) willfully or knowingly encourages or induces, or attempts to encourage or induce, either directly or indirectly, the entry into the United States of—
 
-> any alien, including an alien crewman, not duly admitted by an immigration officer or not lawfully entitled to enter or reside within the United States under theterms of this chapter or any other law relating to the immigration or expulsion of aliens, shall be guilty of a felony, and upon conviction thereof shall be punished by a fine not exceeding $2,000 or by imprisonment for a term not exceeding five years, or both, for each alien in respect to whom any violation of this subsection occurs: <i>Provided, however</i>, That for the purposes of this section, employment (including the usual and normal practices incident to employment) shall not be deemed to constitute harboring.”
+> any alien, including an alien crewman, not duly admitted by an immigration officer or not lawfully entitled to enter or reside within the United States under the terms of this chapter or any other law relating to the immigration or expulsion of aliens, shall be guilty of a felony, and upon conviction thereof shall be punished by a fine not exceeding $2,000 or by imprisonment for a term not exceeding five years, or both, for each alien in respect to whom any violation of this subsection occurs: <i>Provided, however</i>, That for the purposes of this section, employment (including the usual and normal practices incident to employment) shall not be deemed to constitute harboring.”
 
 Subsec. (b)(1). Pub. L. 99–603, §112(b)(1), (2), substituted “has been or is being used” for “is used” and “seized and subject to” for “subject to seizure and” in provisions preceding subpar. (A).
 

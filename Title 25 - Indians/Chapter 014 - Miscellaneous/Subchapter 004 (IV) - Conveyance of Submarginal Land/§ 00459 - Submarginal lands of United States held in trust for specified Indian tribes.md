@@ -26,7 +26,7 @@ Section 203 of the Act of July 3, 1958, referred to in subsec. (b), is section 2
 
 Section 5 of the Emergency Relief Appropriation Act of 1939, referred to in subsec. (c), is act June 30, 1939, ch. 252, §5, 53 Stat. 930, which was not classified to the Code.
 
-Section 4 of the Emergency Relief Appropriation Act, fiscal year 1941, referred to in subsec. (c), is act June 26,1940, ch. 432, §4, 54 Stat. 617, which was not classified to the Code.
+Section 4 of the Emergency Relief Appropriation Act, fiscal year 1941, referred to in subsec. (c), is act June 26, 1940, ch. 432, §4, 54 Stat. 617, which was not classified to the Code.
 
 Act of June 21, 1939, referred to in subsec. (c), is act June 21, 1939, ch. 235, 53 Stat. 851, which was not classified to the Code.
 

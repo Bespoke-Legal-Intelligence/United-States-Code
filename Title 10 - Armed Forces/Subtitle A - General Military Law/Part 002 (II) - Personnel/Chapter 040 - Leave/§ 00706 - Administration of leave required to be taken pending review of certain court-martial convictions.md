@@ -1,6 +1,6 @@
 ### §706. Administration of leave required to be taken pending review of certain court-martial convictions
 
-(a) A period of leave required to be taken under section 876a of this title shall be charged against any accrued leave to the member's credit on the day before the day such leave begins unless the member elects to be paid for such accrued leave under subsection (b). If the member does not elect to be paid for such accrued leave under subsection (b), or does not have sufficient accrued leave to his credit to cover the total period of leave required to be taken, the leave not covered by accrued leave shall be charged as excess leave. If the member elects to be paid foraccrued leave under subsection (b), the total period of leave required to be taken shall be charged as excess leave.
+(a) A period of leave required to be taken under section 876a of this title shall be charged against any accrued leave to the member's credit on the day before the day such leave begins unless the member elects to be paid for such accrued leave under subsection (b). If the member does not elect to be paid for such accrued leave under subsection (b), or does not have sufficient accrued leave to his credit to cover the total period of leave required to be taken, the leave not covered by accrued leave shall be charged as excess leave. If the member elects to be paid for accrued leave under subsection (b), the total period of leave required to be taken shall be charged as excess leave.
 
 (b)(1) A member who is required to take leave under section 876a of this title and who has accrued leave to his credit on the day before the day such leave begins may elect to be paid for such accrued leave. Any such payment shall be based on the rate of basic pay to which the member was entitled on the day before the day such leave began. If the member does not elect to be paid for such accrued leave, the member is entitled to pay and allowances during the period of accrued leave required to be taken.
 
@@ -10,7 +10,7 @@
 
 (2) Section 974 <sup>1</sup> of this title does not apply to a member required to take leave under section 876a of this title during the period of such leave.
 
-(Added Pub. L. 97–81, §2(b)(1), Nov. 20, 1981, 95 Stat. 1085; amended Pub. L. 102–568, title V, §506(c)(5), Oct. 29, 1992, 106 Stat. 4341; Pub. L. 103–337, div. A, title X, §1070(e)(1), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 103–353, §2(b)(3), Oct. 13, 1994, 108 Stat. 3169; Pub. L. 104–106, div. A, title XV, §1503(a)(7), Feb. 10, 1996, 110 Stat. 511.)
+(Added Pub. L. 97–81, §2(b)(1), Nov. 20, 1981, 95 Stat. 1085; amended Pub. L. 102–568, title V,§506(c)(5), Oct. 29, 1992, 106 Stat. 4341; Pub. L. 103–337, div. A, title X, §1070(e)(1), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 103–353, §2(b)(3), Oct. 13, 1994, 108 Stat. 3169; Pub. L. 104–106, div. A, title XV, §1503(a)(7), Feb. 10, 1996, 110 Stat. 511.)
 
 #### References in Text
 

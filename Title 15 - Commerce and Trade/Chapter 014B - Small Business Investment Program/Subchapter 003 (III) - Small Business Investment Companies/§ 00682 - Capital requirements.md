@@ -12,7 +12,7 @@
 
 #### (2) Exception
 
-&emsp;The Administrator may, in the discretion of the Administrator and based on a showing of special circumstances and good cause, permit the private capital of a licensee authorized or seeking authorization to issue participating securities to be purchased or guaranteed by the Administration to be less than $10,000,000,but not less than $5,000,000, if the Administrator determines that such action would not create or otherwise contribute to an unreasonable risk of default or loss to the Federal Government.
+&emsp;The Administrator may, in the discretion of the Administrator and based on a showing of special circumstances and good cause, permit the private capital of a licensee authorized or seeking authorization to issue participating securities to be purchased or guaranteed by the Administration to be less than $10,000,000, but not less than $5,000,000, if the Administrator determines that such action would not create or otherwise contribute to an unreasonable risk of default or loss to the Federal Government.
 
 #### (3) Adequacy
 

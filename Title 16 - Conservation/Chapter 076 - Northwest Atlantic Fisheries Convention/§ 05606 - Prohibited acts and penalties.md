@@ -28,7 +28,7 @@ Any person who commits an act that is unlawful under paragraph (2), (3), (4), or
 
 #### (1) In general
 
-&emsp;Any vessel (including its gear, furniture, appurtenances, stores, and cargo) used in the commission of an act that is unlawful undersubsection (a) of this section, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with or as a result of the commission of any act that is unlawful under subsection (a) of this section, shall be subject to seizure and forfeiture as provided in section 1860 of this title.
+&emsp;Any vessel (including its gear, furniture, appurtenances, stores, and cargo) used in the commission of an act that is unlawful under subsection (a) of this section, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with or as a result of the commission of any act that is unlawful under subsection (a) of this section, shall be subject to seizure and forfeiture as provided in section 1860 of this title.
 
 #### (2) Disposal of fish
 

@@ -19,8 +19,6 @@
 
 This chapter is referred to in section 3704b of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “trademarks,”.</i>
-
 
 ---
 

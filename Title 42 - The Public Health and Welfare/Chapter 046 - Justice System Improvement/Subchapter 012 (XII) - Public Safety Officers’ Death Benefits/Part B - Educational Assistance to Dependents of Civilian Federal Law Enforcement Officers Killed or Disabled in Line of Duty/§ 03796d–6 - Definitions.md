@@ -4,7 +4,7 @@ For purposes of this part:
 
 &emsp;(1) The term “Attorney General” means the Attorney General of the United States.
 
-&emsp;(2) The term “program of education” means any curriculum or any combination of unitcourses or subjects pursued at an eligible educational institution, which generally is accepted as necessary to fulfill requirements for the attainment of a predetermined and identified educational, professional, or vocational objective. It includes course work for the attainment of more than one objective if in addition to the previous requirements, all the objectives generally are recognized as reasonably related to a single career field.
+&emsp;(2) The term “program of education” means any curriculum or any combination of unit courses or subjects pursued at an eligible educational institution, which generally is accepted as necessary to fulfill requirements for the attainment of a predetermined and identified educational, professional, or vocational objective. It includes course work for the attainment of more than one objective if in addition to the previous requirements, all the objectives generally are recognized as reasonably related to a single career field.
 
 &emsp;(3) The term “eligible educational institution” means an institution which—
 

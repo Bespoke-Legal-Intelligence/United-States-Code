@@ -2,17 +2,15 @@
 
 #### (a) Scope of authority; limitation on enactments and taxation
 
-The legislative authority and power of the Virgin Islands shall extend to all rightful subjects of legislation not inconsistent with this chapter or the laws of the United States made applicable to the Virgin Islands, but no law shall be enacted which would impair rights existing or arising by virtue of any treaty or international agreement entered into by the United States, nor shall the lands or other property ofnonresidents be taxed at a higher rate than the lands or other property of residents.
+The legislative authority and power of the Virgin Islands shall extend to all rightful subjects of legislation not inconsistent with this chapter or the laws of the United States made applicable to the Virgin Islands, but no law shall be enacted which would impair rights existing or arising by virtue of any treaty or international agreement entered into by the United States, nor shall the lands or other property of nonresidents be taxed at a higher rate than the lands or other property of residents.
 
 #### (b) Government bonds; maximum amount; sale, interest, etc.
 
 (i) The legislature of the government of the Virgin Islands may cause to be issued on behalf of said government bonds or other obligations for a public improvement or public undertaking authorized by an act of the legislature. Such bonds or obligations shall be payable solely from the revenues directly derived from and attributable to such public improvement, public undertaking, or other project. Bonds issued pursuant to paragraph (i) may bear such date or dates, may be in such denominations, may mature in such amounts and at such time or times, not exceeding thirty years from the date thereof, may be payable at such place or places, may carry such registration privileges as to either principal and interest, or principal only, and may be executed by such officers and in such manner as shall be prescribed by the government of the Virgin Islands. Said bonds may be redeemable (either with or without premium) or nonredeemable. In case any of the officers whose signatures appear on the bonds or coupons shall cease to be such officers before delivery of such bonds, such signature, whether manual or facsimile shall, nevertheless, be valid and sufficient for all purposes, the same as if such officers had remained in office until such delivery. The bonds so issued shall bear interest at a rate not to exceed that specified by the legislature, payable semiannually. All such bonds issued by the government of the Virgin Islands or by its authority shall be exempt as to principal and interest from taxation by the Government of the United States, or by the government of the Virgin Islands, or by any State, Territory, or possession or by any political subdivision of any State, Territory or possession, or by the District of Columbia. Such bonds shall under no circumstances constitute a general obligation of the Virgin Islands or of the United States.
 
-(ii)(A) Subject to the provisions of this paragraph (ii), the legislature of the government of the Virgin Islands may cause to be issued such negotiable general obligation bonds or other evidence of indebtedness as it may deem necessary and advisable to construct, improve, extend, better, repair, reconstruct, acquire, and equip hospitals, schools, libraries, gymnasia, athletic fields, sewers, sewage-disposal plants, and water systems: <i>Provided</i>, That no public indebtedness of the Virgin Islands shall be incurred in excess of 10 per centum of the aggregate assessed valuation of the taxable real property in the Virgin Islands. Bonds issued pursuant to this paragraph (ii) shall bear such date or dates, may be in such denominations, may mature in such amounts and at such time or times, not exceeding thirty years from the date thereof, may be payable at such place or places, may be sold at either public or private sale, may be redeemable (either with or without premium) or nonredeemable, may carry such registration privileges as to either principal and interest, or principal only, and may be executed by such officers and in such manner, as shall be prescribed by the legislature of the government of the Virgin Islands. In case any of the officers whose signatures appear on the bonds or coupons shall cease to be such officers before delivery of such bonds, such signature, whether manual or facsimile, shall nevertheless be valid and sufficient for all purposes, the same as if such officers had remained in office until such delivery. The bonds so issued shall bear interest at a rate not to exceed that specified by the legislature and payable semiannually. All such bonds shall be sold for not less than the principal amount thereof plus accrued interest. All bonds issued by the government of the Virgin Islands, including specifically interest thereon, shall be exempt from taxation by the Government of the United States, or by the government of the Virgin Islands or any political subdivision thereof, or by any State, territory, or possession or by any political subdivision of any State, territory, or possession, or by the District of Columbia.
+(ii)(A) Subject to the provisions of this paragraph (ii), the legislature of the government of the Virgin Islands may cause to be issued such negotiable general obligation bonds or other evidence of indebtedness, including but not limited to notes in anticipation of the collection of taxes or revenues, as it may deem necessary and advisable for any public purpose authorized by the legislature: <i>Provided</i>, That no such indebtedness of the Virgin Islands shall be incurred in excess of 10 per centum of the aggregate assessed valuation of the taxable real property in the Virgin Islands. Bonds issued pursuant to this paragraph (ii) shall bear such date or dates, may be in such denominations, may mature in such amounts and at such time or times, not exceeding thirty years from the date thereof, may be payable at such place or places, may be sold at either public or private sale, may be redeemable (either with or without premium) or nonredeemable, may carry such registration privileges as to either principal and interest, or principal only, and may be executed by such officers and in such manner, as shall be prescribed by the legislature of the government of the Virgin Islands. In case any of the officers whose signatures appear on the bonds or coupons shall cease to be such officers before delivery of such bonds, such signature, whether manual or facsimile, shall nevertheless be valid and sufficient for all purposes, the same as if such officers had remained in office until such delivery. The bonds so issued shall bear interest at a rate not to exceed that specified by the legislature. All bonds issued by the government of the Virgin Islands, including specifically interest thereon, shall be exempt from taxation by the Government of the United States, or by the government of the Virgin Islands or any political subdivision thereof, or by any State, territory, or possession or by any political subdivision of any State, territory, or possession, or by the District of Columbia.
 
-(B) The proceeds of the bond issues or other obligations herein authorized shall be expended only for the public improvements set forth in the preceding subparagraph, or for the reduction of the debt created by such bond issue or obligation, unless otherwise authorized by the Congress.
-
-(C) Bonds or other obligations issued pursuant to this paragraph (ii) shall not be a debt of the United States, nor shall the United States be liable thereon.
+(B) Bonds or other obligations issued pursuant to this paragraph (ii) shall not be a debt of the United States, nor shall the United States be liable thereon.
 
 (iii)(A) The legislature of the government of the Virgin Islands may cause to be issued after September 30, 1984, industrial development bonds (within the meaning of section 103(b)(2) <sup>1</sup> of title 26).
 
@@ -30,7 +28,7 @@ The legislative authority and power of the Virgin Islands shall extend to all ri
 
 #### (c) Applicability of laws and ordinances; amendment or repeal
 
-The laws of the United States applicable to the Virgin Islands on July 22, 1954, including laws made applicable to the Virgin Islands by or pursuant to the provisions of the Act of June 22, 1936 (49 Stat. 1807), and all local laws and ordinances in force in the Virgin Islands, or any part thereof, on July 22, 1954 shall, to the extent they are not inconsistent with this chapter, continue in force and effect until otherwise provided by the Congress: <i>Provided</i>, That the legislature shall have power, when within its jurisdictionand not inconsistent with the other provisions of this chapter, to amend, alter, modify, or repeal any local law or ordinance, public or private, civil or criminal, continued in force and effect by this chapter, except as herein otherwise provided, and to enact new laws not inconsistent with any law of the United States applicable to the Virgin Islands, subject to the power of Congress to annul any such Act of the legislature.
+The laws of the United States applicable to the Virgin Islands on July 22, 1954, including laws made applicable to the Virgin Islands by or pursuant to the provisions of the Act of June 22, 1936 (49 Stat. 1807), and all local laws and ordinances in force in the Virgin Islands, or any part thereof, on July 22, 1954 shall, to the extent they are not inconsistent with this chapter, continue in force and effect until otherwise provided by the Congress: <i>Provided</i>, That the legislature shall have power, when within its jurisdiction and not inconsistent with the other provisions of this chapter, to amend, alter, modify, or repeal any local law or ordinance, public or private, civil or criminal, continued in force and effect by this chapter, except as herein otherwise provided, and to enact new laws not inconsistent with any law of the United States applicable to the Virgin Islands, subject to the power of Congress to annul any such Act of the legislature.
 
 #### (d), (e) Repealed. Pub. L. 97–357, title III, §305, Oct. 19, 1982, 96 Stat. 1709
 
@@ -46,7 +44,7 @@ The laws of the United States applicable to the Virgin Islands on July 22, 1954,
 
 (3) Nothing in this subsection shall be construed as empowering the Legislature of the Virgin Islands to repeal or amend any provision in law in effect on the day before October 15, 1977, which pertains to the customs valuation or customs classification of articles imported into the Virgin Islands.
 
-(July 22, 1954, ch. 558, §8, 68 Stat. 500; Pub. L. 85–851, §§2, 3, 10, Aug. 28, 1958, 72 Stat. 1094, 1095; Pub. L. 88–180, Nov. 19, 1963, 77 Stat. 335; Pub. L. 89–643, Oct. 13, 1966, 80 Stat. 890; Pub. L. 90–496, §15, Aug. 23, 1968, 82 Stat. 842; Pub. L. 95–134, title III, §301(c), Oct. 15, 1977, 91 Stat. 1163; Pub. L. 97–357, title III, §305, Oct. 19, 1982, 96 Stat. 1709; Pub. L. 98–454, title II, §201, Oct. 5, 1984, 98 Stat. 1732; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(July 22, 1954, ch. 558, §8, 68 Stat. 500; Pub. L. 85–851, §§2, 3, 10, Aug. 28, 1958, 72 Stat. 1094, 1095; Pub. L. 88–180, Nov. 19, 1963, 77 Stat. 335; Pub. L. 89–643, Oct. 13, 1966, 80 Stat. 890; Pub. L. 90–496, §15, Aug. 23, 1968, 82 Stat. 842; Pub. L. 95–134, title III, §301(c), Oct. 15, 1977, 91 Stat. 1163; Pub. L. 97–357, title III, §305, Oct. 19, 1982, 96 Stat. 1709; Pub. L. 98–454, title II, §201, Oct. 5, 1984, 98 Stat. 1732; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 106–84, §1(a), (b)(1), (2), Oct. 28, 1999, 113 Stat. 1295.)
 
 #### References in Text
 
@@ -55,6 +53,10 @@ Section 103, referred to in subsec. (b)(iii)(A), which related to interest on ce
 Act of June 22, 1936 (49 Stat. 1807), referred to in subsec. (c), is act June 22, 1936, ch. 699, 49 Stat. 1807, as amended, known as the Organic Act of the Virgin Islands of the United States, which is classified generally to subchapter II (§1405 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1406m of this title and Tables.
 
 #### Amendments
+
+1999—Subsec. (b)(ii)(A). Pub. L. 106–84, §1(a), inserted “, including but not limited to notes in anticipation of the collection of taxes or revenues,” after “other evidence of indebtedness”, substituted “for any public purpose authorized by the legislature: <i>Provided</i>, That no such” for “to construct, improve, extend, better, repair, reconstruct, acquire, and equip hospitals, schools, libraries, gymnasia, athletic fields, sewers, sewage-disposal plants, and water systems: <i>Provided</i>, That no public”, and struck out “and payable semiannually. All such bonds shall be sold for not less than the principal amount thereof plus accrued interest” after “specified by the legislature”.
+
+Subsec. (b)(ii)(B), (C). Pub. L. 106–84, §1(b)(1), (2), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The proceeds of the bond issues or other obligations herein authorized shall be expended only for the public improvements set forth in the preceding subparagraph, or for the reduction of the debt created by such bond issue or obligation, unless otherwise authorized by the Congress.”
 
 1986—Subsec. (b)(iii)(E). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -78,9 +80,29 @@ Subsec. (b). Pub. L. 85–851, §10, authorized issuance of bonds for establishm
 
 Subsec. (e). Pub. L. 85–851, §3, struck out “and any supplements to it” after “Upon the enactment of the Virgin Islands Code it”.
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–84, §3, Oct. 28, 1999, 113 Stat. 1295, provided that:
+
+“(a)
+
+In General.—Except as provided by subsection (b), the amendments made by section 1 \[amending this section and section 1574a of this title\] shall apply to those instruments of indebtedness issued by the Government of the Virgin Islands after the date of the enactment of this Act \[Oct. 28, 1999\].
+
+“(b)
+
+Effect of Failure To Reach Agreement.—If the agreement authorized in section 2(a) \[set out as a note under section 1631 of this title\] is not ratified by both parties on or before December 31, 1999, the amendments made by section 1—
+
+&emsp;“(A) shall not apply to instruments of indebtedness issued by the Government of the Virgin Islands on or after December 31, 1999; and
+
+&emsp;“(B) shall continue to apply to those instruments of indebtedness issued by the Government of the Virgin Islands after the date of the enactment of this Act and before December 31, 1999.”
+
 #### Effective Date of 1968 Amendment
 
 Section 15 of Pub. L. 90–496 provided that the amendment made by that section is effective on date of enactment of Pub. L. 90–496, which was approved Aug. 23, 1968.
+
+#### Construction
+
+Pub. L. 106–84, §4, Oct. 28, 1999, 113 Stat. 1296, provided that: “These amendments to the Revised Organic Act of the Virgin Islands \[amending this section\] are not intended to modify the internal revenue laws. Thus, the bonds authorized by this bill must comply with subsection (c) of section 149 of the Internal Revenue Code of 1986 \[26 U.S.C. 149(c)\] (which requires the new bonds comply with the appropriate requirements of the Internal Revenue Code).”
 
 #### Levying and Collection of Excise Taxes by Legislature of the Virgin Islands
 

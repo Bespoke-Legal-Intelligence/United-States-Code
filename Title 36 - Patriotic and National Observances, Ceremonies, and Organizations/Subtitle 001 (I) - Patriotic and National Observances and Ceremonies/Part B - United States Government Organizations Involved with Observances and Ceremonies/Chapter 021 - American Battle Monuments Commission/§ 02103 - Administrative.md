@@ -20,15 +20,21 @@ Disposition of Land.—Under conditions and in the manner the Commission decides
 
 (c)
 
-Contracting Out.—Notwithstanding the requirements of existing laws or regulations, theCommission, under conditions the Commission decides are necessary and proper, may contract for work, supplies, materials, and equipment outside or for use outside the United States and engage the services of architects and other technical and professional personnel.
+Contracting Out.—Notwithstanding the requirements of existing laws or regulations, the Commission, under conditions the Commission decides are necessary and proper, may contract for work, supplies, materials, and equipment outside or for use outside the United States and engage the services of architects and other technical and professional personnel.
 
 (d)
 
-Delegation.—Under conditions the Commission may prescribe, the Commission may delegate to its chairman, secretary, or officials in charge of any of its offices any of its authority it considers necessary and proper.
+Delegation.—Under conditions the Commission may prescribe, the Commission may delegate to its Chairman, secretary, or officials in charge of any of its offices any of its authority it considers necessary and proper.
 
 (e)
 
-Authority To Receive State, Local, or Private Amounts.—The Commission may receive State, local, or private amounts to carry out this chapter. The Commission shall deposit the amounts with the Treasurer of the United States. The Treasurer shall keep the amounts in separate accounts and shall disburse the amounts on vouchers approved by the chairman.
+Solicitation and Receipt of Contributions.—(1) The Commission may solicit and receive funds and in-kind donations and gifts from any State, municipal, or private source to carry out the purposes of this chapter. The Commission shall deposit such funds in a separate account in the Treasury. Funds from that account shall be disbursed upon vouchers approved by the Chairman of the Commission.
+
+(2) The Commission shall establish written guidelines setting forth the criteria to be used in determining whether the acceptance of funds and in-kind donations and gifts under paragraph (1) would—
+
+&emsp;(A) reflect unfavorably on the ability of the Commission, or any member or employee of the Commission, to carry out the responsibilities or official duties of the Commission in a fair and objective manner; or
+
+&emsp;(B) compromise the integrity or the appearance of the integrity of the programs of the Commission or any official involved in those programs.
 
 (f)
 
@@ -46,15 +52,15 @@ Financial Statements and Audits.—(1) The Commission shall have a system of fin
 
 &emsp;(A) by March 1 of each year (beginning with 1998)—
 
-&emsp;&emsp;(i) prepare a financial statement which covers all accounts and associated activities of the Commission for the prior fiscal year and is consistent with the requirements of section 3515 of title 31, United States Code; and
+&emsp;&emsp;(i) prepare a financial statement which covers all accounts and associated activities of the Commission for the prior fiscal year and is consistent with the requirements of section 3515 of title 31; and
 
 &emsp;&emsp;(ii) submit the financial statement, together with a narrative summary, to the Committees on Veterans’ Affairs of the Senate and House of Representatives; and
 
-&emsp;(B) obtain an audit by the Comptroller General of each financial statement prepared under subparagraph (A) of this paragraph, which shall be conducted in accordance with applicable generally accepted government auditing standards and shall be in lieu of any audit otherwise required by law.
+&emsp;(B) obtain an audit by the Comptroller General of each financial statement prepared under subparagraph (A) of this paragraph, which shall be conducted in accordance withapplicable generally accepted government auditing standards and shall be in lieu of any audit otherwise required by law.
 
 (i)
 
-Disposition of Records and Archives.—When no longer required by the Commission, the records and archives of the Commission shall be deposited with the National Archives in accordance with section 2107 of title 44, United States Code.
+Disposition of Records and Archives.—When no longer required by the Commission, the records and archives of the Commission shall be deposited with the National Archives in accordance with section 2107 of title 44.
 
 (j)
 
@@ -64,7 +70,7 @@ Seal.—The Commission shall have a seal that shall be judicially noticed.
 
 Disbursements Outside Continental United States.—Disbursements for expenditures outside the continental United States may be made by a special disbursing agent designated by the Commission under regulations it prescribes.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1270.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1270; Pub. L. 106–117, title VI, §§602, 604(3), Nov. 30, 1999, 113 Stat. 1578, 1580.)
 
 Historical and Revision Notes
 
@@ -88,13 +94,19 @@ Mar. 4, 1923, ch. 283, §12 (1st–3d, last pars.), 42 Stat. 1509; June 26, 1946
 
 36:138b (3d par.).
 
+&nbsp;
+
 2103(c)
 
 36:138b (2d par.).
 
+&nbsp;
+
 2103(d)
 
 36:138b (last par.).
+
+&nbsp;
 
 2103(e)
 
@@ -117,6 +129,8 @@ Mar. 4, 1923, ch. 283, §8, 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317;
 2103(h)
 
 36:138d(a), (b).
+
+&nbsp;
 
 2103(i)
 
@@ -144,7 +158,17 @@ In subsection (b), the text of 36:137 is omitted as superseded. The words “whi
 
 In subsection (c), the words “in its discretion”, “by contract or otherwise”, and “firms of architects” are omitted as unnecessary.
 
+#### Amendments
+
+1999—Subsec. (d). Pub. L. 106–117, §604(3)(C), substituted “Chairman” for “chairman”.
+
+Subsec. (e). Pub. L. 106–117, §602, amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Commission may receive State, local, or private amounts to carry out this chapter. The Commission shall deposit the amounts with the Treasurer of the United States. The Treasurer shall keep the amounts in separate accounts and shall disburse the amounts on vouchers approved by the chairman.”
+
+Subsec. (h)(2)(A)(i). Pub. L. 106–117, §604(3)(A), struck out “, United States Code” after “title 31”.
+
+Subsec. (i). Pub. L. 106–117, §604(3)(B), struck out “, United States Code” after “title 44”.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2106 of this title.
+This section is referred to in sections 2106, 2113 of this title.
 

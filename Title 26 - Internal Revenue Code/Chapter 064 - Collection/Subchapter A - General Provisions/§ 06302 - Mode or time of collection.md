@@ -84,7 +84,7 @@ If, under regulations prescribed by the Secretary, a person is required to make 
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary for the development and implementation of an electronicfund transfer system which is required to be used for the collection of depository taxes. Such system shall be designed in such manner as may be necessary to ensure that such taxes are credited to the general account of the Treasury on the date on which such taxes would otherwise have been required to be deposited under the Federal tax deposit system.
+&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary for the development and implementation of an electronic fund transfer system which is required to be used for the collection of depository taxes. Such system shall be designed in such manner as may be necessary to ensure that such taxes are credited to the general account of the Treasury on the date on which such taxes would otherwise have been required to be deposited under the Federal tax deposit system.
 
 #### (B) Exemptions
 
@@ -168,7 +168,7 @@ If, under regulations prescribed by the Secretary, a person is required to make 
 
 Subsec. (g). Pub. L. 104–188, §1702(c)(3), inserted “, 22,” after “chapters 21”.
 
-1994—Subsec. (e). Pub. L. 103–465, §712(d), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If, under regulations prescribed by the Secretary, a person is required to make deposits of any tax imposed by section4251 or subsection (a) or (b) of section 4261 with respect to amounts considered collected by such person during any semimonthly period, such deposit shall be made not later than the 3rd day (not including Saturdays, Sundays, or legal holidays) after the close of the 1st week of the 2nd semimonthly period following the period to which such amounts relate.”
+1994—Subsec. (e). Pub. L. 103–465, §712(d), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If, under regulations prescribed by the Secretary, a person is required to make deposits of any tax imposed by section 4251 or subsection (a) or (b) of section 4261 with respect to amounts considered collected by such person during any semimonthly period, such deposit shall be made not later than the 3rd day (not including Saturdays, Sundays, or legal holidays) after the close of the 1st week of the 2nd semimonthly period following the period to which such amounts relate.”
 
 Subsec. (f). Pub. L. 103–465, §712(a), substituted “certain excise taxes” for “taxes on gasoline and diesel fuel” in heading and amended text generally. Prior to amendment, text read as follows:
 
@@ -188,7 +188,7 @@ Subsecs. (h), (i). Pub. L. 103–182 added subsec. (h) and redesignated former s
 
 Subsec. (e). Pub. L. 101–508, §11217(b)(1), inserted “communications services and” before “airline” in heading and “section 4251 or” after “imposed by” in text.
 
-Subsec. (g). Pub. L. 101–508, §11334(a), amended subsec. (g) generally, striking out par. (1) designation and striking heading, striking out “, for the years specified in paragraph (2),” after “such person shall”, substituting “on the 1st banking day” for “on the applicable banking day”, and striking out par. (2), which provided that for purposes of par. (1) the applicable banking day for 1990 is the 1st, for 1991 the 2nd, for 1992 the 3rd, for 1993 the 1st, and for 1994 the 1st.
+Subsec. (g). Pub. L. 101–508, §11334(a), amended subsec. (g) generally, striking out par. (1) designation and striking heading, striking out “, for the years specifiedin paragraph (2),” after “such person shall”, substituting “on the 1st banking day” for “on the applicable banking day”, and striking out par. (2), which provided that for purposes of par. (1) the applicable banking day for 1990 is the 1st, for 1991 the 2nd, for 1992 the 3rd, for 1993 the 1st, and for 1994 the 1st.
 
 1989—Subsec. (e). Pub. L. 101–239, §7502(a), added subsec. (e). Former subsec. (e) redesignated (f).
 
@@ -258,7 +258,7 @@ General rule.—Except as provided in paragraph (2), the amendment made by subse
 
 #### Effective Date of 1988 Amendments
 
-Section 6107(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to articles sold by themanufacturer, producer, or importer after December 31, 1988.”
+Section 6107(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer after December 31, 1988.”
 
 Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, see section 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
 
@@ -284,7 +284,7 @@ Section 523(b)(2) of Pub. L. 103–182 provided that: “Not later than 210 days
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11801(c)(22)(A) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by section 11801(c)(22)(A) of Pub. L. 101–508 be construed to affecttreatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Delayed Deposits of Highway Motor Fuel Tax Revenues
 

@@ -2,7 +2,7 @@
 
 No payments shall be made or contracts shall be entered into pursuant to the provisions of this chapter (other than sections 3710a, 3710b, and 3710c <sup>1</sup> of this title) except to such extent or in such amounts as are provided in advance in appropriation Acts.
 
-(Pub. L. 96–480, §22, formerly §15, Oct. 21, 1980, 94 Stat. 2320; renumbered §19, Pub. L. 99–502, §2, Oct. 20, 1986, 100 Stat. 1785; renumbered §18, and amended Pub. L. 99–502, §9(b)(13), (e)(1), (4), Oct. 20, 1986, 100 Stat. 1796, 1797; renumbered §19, Pub. L. 100–107, §3(a), Aug. 20, 1987, 101 Stat. 725; renumbered §20, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; renumbered §22, Pub. L. 102–240, title VI, §6019, Dec. 18, 1991, 105 Stat. 2183.)
+(Pub. L. 96–480, §22, formerly §15, Oct. 21, 1980, 94 Stat. 2320; renumbered §19, Pub. L. 99–502, §2,Oct. 20, 1986, 100 Stat. 1785; renumbered §18, and amended Pub. L. 99–502, §9(b)(13), (e)(1), (4), Oct. 20, 1986, 100 Stat. 1796, 1797; renumbered §19, Pub. L. 100–107, §3(a), Aug. 20, 1987, 101 Stat. 725; renumbered §20, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; renumbered §22, Pub. L. 102–240, title VI, §6019, Dec. 18, 1991, 105 Stat. 2183.)
 
 #### References in Text
 

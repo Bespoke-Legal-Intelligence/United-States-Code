@@ -24,7 +24,7 @@
 
 #### (1) Plan provisions
 
-&emsp;In addition to the provisions submitted to meet the requirements of paragraph <sup>1</sup> (a)(1) (relating to Moderate Areas), each State in which all or part of a Serious Area is located shall submit an implementation plan for such area that includes each of the following:
+&emsp;In addition to the provisions submitted to meet the requirements of paragraph <sup>1</sup> (a)(1) (relating to Moderate Areas), each State in whichall or part of a Serious Area is located shall submit an implementation plan for such area that includes each of the following:
 
 &emsp;&emsp;(A) A demonstration (including air quality modeling)—
 

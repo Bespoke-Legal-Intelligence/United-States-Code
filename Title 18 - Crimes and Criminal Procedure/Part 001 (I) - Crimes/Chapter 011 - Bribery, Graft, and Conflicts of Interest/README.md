@@ -52,7 +52,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 10 section 1588; title 15 section 2625; title 16 section 450ss–3; title 22 section 3622; title 42 sections 280d–11, 9843a, 12651b, 12651g; title 48 section 1907; title 49 section 32306.
+This chapter is referred to in title 10 section 1588; title 15 section 2625; title 16 section 450ss–3; title 22 section 3622; title 26 section 7802; title 42 sections 280d–11, 9843a, 12651b, 12651g; title 48 section 1907; title 49 section 32306.
 
 
 ---

@@ -26,7 +26,7 @@ Hereafter, referred to in subsec. (a), means hereafter in title XVI of Pub. L. 1
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–321, §1(a), Oct. 30, 1998, 112 Stat. 3020, provided that: “This Act \[enacting section 390h–16 of thistitle, amending section 564w–1 of Title 25, Indians, and enacting and amending provisions listed in a table of National Wildlife Refuges set out under section 668dd of Title 16, Conservation\] may be cited as the ‘Oregon Public Lands Transfer and Protection Act of 1998’.”
+Pub. L. 105–321, §1(a), Oct. 30, 1998, 112 Stat. 3020, provided that: “This Act \[enacting section 390h–16 of this title, amending section 564w–1 of Title 25, Indians, and enacting and amending provisions listed in a table of National Wildlife Refuges set out under section 668dd of Title 16, Conservation\] may be cited as the ‘Oregon Public Lands Transfer and Protection Act of 1998’.”
 
 #### Short Title of 1996 Amendment
 
@@ -34,9 +34,9 @@ Pub. L. 104–266, §1, Oct. 9, 1996, 110 Stat. 3290, provided that: “This Act
 
 #### Short Title
 
-Section 1601 of title XVI of Pub. L. 102–575 provided that: “This title \[enacting sections 390h to 390h–15 of this title\] may be referred to as the ‘Reclamation Wastewater and Groundwater Study and Facilities Act’.”
+Section 1601 of title XVI of Pub. L. 102–575 provided that: “This title \[enacting sections 390h to 390h–15 ofthis title\] may be referred to as the ‘Reclamation Wastewater and Groundwater Study and Facilities Act’.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 390h–1, 390h–2, 390h–4, 390h–6, 390h–7, 390h–8, 390h–9, 390h–13 of this title.
+This section is referred to in sections 390h–1, 390h–2, 390h–4, 390h–7, 390h–8, 390h–9, 390h–13 of this title.
 

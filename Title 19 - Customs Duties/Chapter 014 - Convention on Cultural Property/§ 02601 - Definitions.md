@@ -72,7 +72,7 @@ Section 1483 of this title, referred to in par. (4), was repealed by Pub. L. 97�
 
 #### Codification
 
-Section 2605 of this title, referred to in par. (3), was in original “section 206” and was translated as section2605 of this title, which is section 306 of Pub. L. 97–446, as the probable intent of Congress.
+Section 2605 of this title, referred to in par. (3), was in original “section 206” and was translated as section 2605 of this title, which is section 306 of Pub. L. 97–446, as the probable intent of Congress.
 
 #### Effective Date
 

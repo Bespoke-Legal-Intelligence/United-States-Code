@@ -16,6 +16,30 @@
 
 Section 801 of title VIII of Pub. L. 95–128 provided that: “This title \[enacting this chapter\] may be cited as the ‘Community Reinvestment Act of 1977’.”
 
+#### Responsiveness to Community Needs for Financial Services
+
+Pub. L. 106–102, title VII, §715, Nov. 12, 1999, 113 Stat. 1470, provided that:
+
+“(a)
+
+Study.—The Secretary of the Treasury, in consultation with the Federal banking agencies (as defined in section 3(z) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(z)\]), shall conduct a study of the extent to which adequate services are being provided as intended by the Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\], including services in low- and moderate-income neighborhoods and for persons of modest means, as a result of the enactment of this Act \[see Tables for classification\].
+
+“(b)
+
+Reports.—
+
+&emsp;“(1)
+
+In general.—The Secretary of the Treasury shall—
+
+&emsp;&emsp;“(A) before March 15, 2000, submit a baseline report to the Congress on the study conducted pursuant to subsection (a); and
+
+&emsp;&emsp;“(B) before the end of the 2-year period beginning on the date of the enactment of this Act \[Nov. 12, 1999\], in consultation with the Federal banking agencies, submit a final report to the Congress on the study conducted pursuant to subsection (a).
+
+&emsp;“(2)
+
+Recommendations.—The final report submitted under paragraph (1)(B) shall include such recommendations as the Secretary determines to be appropriate for administrative and legislative action with respect to institutions covered under the Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\].”
+
 #### Report on Community Development Lending
 
 Pub. L. 102–550, title IX, §910, Oct. 28, 1992, 106 Stat. 3874, provided that:

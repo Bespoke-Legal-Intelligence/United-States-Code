@@ -78,7 +78,7 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 &emsp;&emsp;&emsp;(i) in the case of a stock savings association, an affiliate other than a subsidiary or an insured depository institution; and
 
-&emsp;&emsp;&emsp;(ii) in the case of a mutual savings association, a subsidiary other than an insured depository institution, so long as all of the savings association's investments in and extensions of credit to the subsidiary are deducted from the savings association's capital.
+&emsp;&emsp;&emsp;(ii) in the case of a mutual savings association, a subsidiary other than an insureddepository institution, so long as all of the savings association's investments in and extensions of credit to the subsidiary are deducted from the savings association's capital.
 
 #### (C) Certain securities not included
 

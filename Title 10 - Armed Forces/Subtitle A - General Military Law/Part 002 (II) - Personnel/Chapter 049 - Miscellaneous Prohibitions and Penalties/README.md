@@ -13,12 +13,14 @@
 | [980\.](%C2%A7%2000980%20-%20Limitation%20on%20use%20of%20humans%20as%20experimental%20subjects.md) | Limitation on use of humans as experimental subjects. |
 | [981\.](%C2%A7%2000981%20-%20Limitation%20on%20number%20of%20enlisted%20aides.md) | Limitation on number of enlisted aides. |
 | [982\.](%C2%A7%2000982%20-%20Members%20service%20on%20State%20and%20local%20juries.md) | Members: service on State and local juries. |
-| [983\.](%C2%A7%2000983%20-%20Institutions%20of%20higher%20education%20that%20prohibit%20Senior%20ROTC%20units%20denial%20of%20Department%20of%20Defense%20grants%20and%20contracts.md) | Institutions of higher education that prohibit Senior ROTC units: denial of Department of Defense grants and contracts. |
+| [983\.](%C2%A7%2000983%20-%20Institutions%20of%20higher%20education%20that%20prevent%20ROTC%20access%20or%20military%20recruiting%20on%20campus%20denial%20of%20grants%20and%20contracts%20from%20Department%E2%80%A6.md) | Institutions of higher education that prevent ROTC access or military recruiting on campus: denial of grants and contracts from Department of Defense, Department of Education, and certain other departments and agencies. |
 | [985\.](%C2%A7%2000985%20-%20Persons%20convicted%20of%20capital%20crimes%20denial%20of%20certain%20burial-related%20benefits.md) | Persons convicted of capital crimes: denial of certain burial-related benefits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title V, §549(a)(2), Oct. 5, 1999, 113 Stat. 611, which directed the general amendment of item 983 in the table of sections at the beginning of “such chapter” without specifying the chapter or title, was executed to item 983 in the analysis for this chapter to reflect the probable intent of Congress. Prior to amendment, item 983 read as follows: “Institutions of higher education that prohibit Senior ROTC units: denial of Department of Defense grants and contracts”.
 
 1998—Pub. L. 105–261, div. A, title V, §569(b), Oct. 17, 1998, 112 Stat. 2032, struck out item 974 “Civilian employment: enlisted members”.
 
@@ -75,5 +77,5 @@ Pub. L. 95–485, title VIII, §815(b), Oct. 20, 1978, 92 Stat. 1626, added item
 - [&sect; 00980 - Limitation on use of humans as experimental subjects](%C2%A7%2000980%20-%20Limitation%20on%20use%20of%20humans%20as%20experimental%20subjects.md)
 - [&sect; 00981 - Limitation on number of enlisted aides](%C2%A7%2000981%20-%20Limitation%20on%20number%20of%20enlisted%20aides.md)
 - [&sect; 00982 - Members service on State and local juries](%C2%A7%2000982%20-%20Members%20service%20on%20State%20and%20local%20juries.md)
-- [&sect; 00983 - Institutions of higher education that prohibit Senior ROTC units denial of Department of Defense grants and contracts](%C2%A7%2000983%20-%20Institutions%20of%20higher%20education%20that%20prohibit%20Senior%20ROTC%20units%20denial%20of%20Department%20of%20Defense%20grants%20and%20contracts.md)
+- [&sect; 00983 - Institutions of higher education that prevent ROTC access or military recruiting on campus denial of grants and contracts from Department&#8230;](%C2%A7%2000983%20-%20Institutions%20of%20higher%20education%20that%20prevent%20ROTC%20access%20or%20military%20recruiting%20on%20campus%20denial%20of%20grants%20and%20contracts%20from%20Department%E2%80%A6.md)
 - [&sect; 00985 - Persons convicted of capital crimes denial of certain burial-related benefits](%C2%A7%2000985%20-%20Persons%20convicted%20of%20capital%20crimes%20denial%20of%20certain%20burial-related%20benefits.md)

@@ -24,7 +24,7 @@ In order to carry out its functions under this chapter, the Commission is author
 
 &emsp;(11) transmit its official mail as penalty mail in the same manner and upon the same conditions as an officer of the United States other than a Member of Congress is permitted to transmit official mail as penalty mail under section 3202 of title 39.
 
-(Pub. L. 94–118, §6, Oct. 20, 1975, 89 Stat. 605; Pub. L. 94–350, title IV, §401(1), July 12, 1976, 90 Stat. 833; Pub. L. 95–426, title VII, §703(a), Oct. 7, 1978, 92 Stat. 992; Pub. L. 97–241, title V, §503(a), Aug. 24, 1982, 96 Stat. 298; Pub. L. 102–138, title I, §167, Oct. 28, 1991, 105 Stat. 676; Pub. L. 105–277, div. A, §101(b) \[title IV, §404(a)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–101.)
+(Pub. L. 94–118, §6, Oct. 20, 1975, 89 Stat. 605; Pub. L. 94–350, title IV, §401(1), July 12, 1976, 90 Stat. 833; Pub. L. 95–426, title VII, §703(a), Oct. 7, 1978,92 Stat. 992; Pub. L. 97–241, title V, §503(a), Aug. 24, 1982, 96 Stat. 298; Pub. L. 102–138, title I, §167, Oct. 28, 1991, 105 Stat. 676; Pub. L. 105–277, div. A, §101(b) \[title IV, §404(a)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–101.)
 
 #### References In Text
 

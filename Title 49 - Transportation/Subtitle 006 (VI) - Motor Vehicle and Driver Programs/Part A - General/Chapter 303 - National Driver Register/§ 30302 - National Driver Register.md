@@ -94,7 +94,7 @@ Act of July 14, 1960, referred to in subsec. (c)(1), (2)(A), is set out below.
 
 #### Register of Revocations of Motor Vehicle Operator's Licenses
 
-Pub. L. 86–660, July 14, 1960, 74 Stat. 526, as amended by Pub. L. 87–359, Oct. 4, 1961, 75 Stat. 779; Pub. L. 89–563, title IV, §401, Sept. 9, 1966, 80 Stat. 730, provided: “That the Secretary of Commerce shall establish and maintain a register identifying each individual reported to him by a State, or political subdivision thereof, as an individual with respect to whom such State or political subdivision has denied, terminated, or temporarily withdrawn (except a withdrawal for less than six months based on a series of nonmoving violations) an individual's license or privilege to operate a motor vehicle.
+Pub. L. 86–660, July 14, 1960, 74 Stat. 526, as amended by Pub. L. 87–359, Oct. 4, 1961, 75 Stat. 779; Pub. L. 89–563, title IV, §401, Sept. 9, 1966, 80 Stat. 730, provided: “That the Secretary of Commerce shall establish and maintain a register identifying each individual reported to him by a State, or political subdivision thereof, as an individual with respect to whom such State or political subdivision has denied, terminated, or temporarily withdrawn (except a withdrawal for less than sixmonths based on a series of nonmoving violations) an individual's license or privilege to operate a motor vehicle.
 
 “
 
@@ -103,4 +103,8 @@ Sec. 2. Only at the request of a State, a political subdivision thereof, or a Fe
 “
 
 Sec. 3. As used in this Act, the term ‘State’ includes each of the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Virgin Islands, the Canal Zone, and American Samoa.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 30304 of this title.
 

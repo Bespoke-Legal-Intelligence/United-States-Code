@@ -12,7 +12,7 @@ The application of subsection (a) of this section shall include, but shall not b
 
 &emsp;(2) Whenever authorized by or pursuant to the laws of the United States to conduct or carry out programs, transactions, or other relations with respect to foreign countries, nations, states, governments, or similar entities, the President or any agency of the United States Government is authorized to conduct and carry out, in accordance with section 3305 of this title, such programs, transactions, and other relations with respect to Taiwan (including, but not limited to, the performance of services for the United States through contracts with commercial entities on Taiwan), in accordance with the applicable laws of the United States.
 
-&emsp;(3)(A) The absence of diplomatic relations and recognition with respect to Taiwan shall not abrogate, infringe, modify, deny, or otherwise affect in any way any rights or obligations (including but not limited to those involving contracts, debts, or property interests of any kind) under the laws of the United States heretofore or hereafter acquired by or with respect to Taiwan.
+&emsp;(3)(A) The absence of diplomatic relations and recognition with respect to Taiwan shallnot abrogate, infringe, modify, deny, or otherwise affect in any way any rights or obligations (including but not limited to those involving contracts, debts, or property interests of any kind) under the laws of the United States heretofore or hereafter acquired by or with respect to Taiwan.
 
 &emsp;(B) For all purposes under the laws of the United States, including actions in any court in the United States, recognition of the People's Republic of China shall not affect in any way the ownership of or other rights or interests in properties, tangible and intangible, and other things of value, owned or held on or prior to December 31, 1978, or thereafter acquired or earned by the governing authorities on Taiwan.
 
@@ -43,4 +43,26 @@ The Atomic Energy Act of 1954, referred to in subsec. (b)(5), is act Aug. 1, 194
 The Nuclear Non-Proliferation Act of 1978, referred to in subsec. (b)(5), is Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, which is classified principally to chapter 47 (§3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
 The Immigration and Nationality Act, referred to in subsec. (b)(6), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+
+#### Semiannual Reports on United States Support for Membership or Participation of Taiwan in International Organizations
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §704\], Nov. 29, 1999, 113 Stat. 1536, 1501A–460, provided that:
+
+“(a)
+
+Reports Required.—Not later than 60 days after the date of enactment of this Act \[Nov. 29, 1999\], and every 6 months thereafter for fiscal years 2000 and 2001, the Secretary of State shall submit to Congress a report in a classified and unclassified manner on the status of efforts by the United States Government to support—
+
+&emsp;“(1) the membership of Taiwan in international organizations that do not require statehood as a prerequisite to such membership; and
+
+&emsp;“(2) the appropriate level of participation by Taiwan in international organizations that may require statehood as a prerequisite to full membership.
+
+“(b)
+
+Report Elements.—Each report under subsection (a) shall—
+
+&emsp;“(1) set forth a comprehensive list of the international organizations in which the United States Government supports the membership or participation of Taiwan;
+
+&emsp;“(2) describe in detail the efforts of the United States Government to achieve the membership or participation of Taiwan in each organization listed; and
+
+&emsp;“(3) identify the obstacles to the membership or participation of Taiwan in each organization listed, including a list of any governments that do not support the membership or participation of Taiwan in each such organization.”
 

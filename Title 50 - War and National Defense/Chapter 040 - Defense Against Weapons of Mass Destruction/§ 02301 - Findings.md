@@ -6,7 +6,7 @@ Congress makes the following findings:
 
 &emsp;(2) The former Soviet Union produced and maintained a vast array of nuclear, biological, and chemical weapons of mass destruction.
 
-&emsp;(3) Many of the states of the former Soviet Union retain the facilities, materials, and technologies capable of producing additional quantities of weapons of mass destruction.
+&emsp;(3) Many of the states of the former Soviet Union retain the facilities, materials, andtechnologies capable of producing additional quantities of weapons of mass destruction.
 
 &emsp;(4) The disintegration of the former Soviet Union was accompanied by disruptions of command and control systems, deficiencies in accountability for weapons, weapons-related materials and technologies, economic hardships, and significant gaps in border control among the states of the former Soviet Union. The problems of organized crime and corruption in the states of the former Soviet Union increase the potential for proliferation of nuclear, radiological, biological, and chemical weapons and related materials.
 
@@ -66,7 +66,7 @@ Section 1401 of title XIV of div. A of Pub. L. 104–201 provided that: “This 
 
 #### Domestic Preparedness for Defense Against Weapons of Mass Destruction
 
-Pub. L. 105–261, div. A, title XIV, Oct. 17, 1998, 112 Stat. 2167, provided that:
+Pub. L. 105–261, div. A, title XIV, Oct. 17, 1998, 112 Stat. 2167, as amended by Pub. L. 106–65, div. A, title X, §1064, Oct. 5, 1999, 113 Stat. 769, provided that:
 
 #### “SEC. 1401. SHORT TITLE.
 
@@ -90,11 +90,15 @@ Report.—Not later than January 31, 1999, the President shall submit to Congres
 
 “(a)
 
-Requirement To Develop Methodologies.—The Attorney General, in consultation with the Director of the Federal Bureau of Investigation and representatives of appropriate Federal, State, and local agencies, shall develop and test methodologies for assessing the threat and risk of terrorist employment of weapons of mass destruction against cities and other local areas. The results of the tests may be used to determine the training and equipment requirements under the program developed under section 1402. The methodologies required by this subsection shall be developed using cities or local areas selected by the Attorney General, acting in consultation with the Director of the Federal Bureau of Investigation and appropriate representatives of Federal, State, and local agencies.
+Threat and Risk Assessments.—Assistance to Federal, State, and local agencies provided under the program under section 1402 shall include the performance of assessments of the threat and risk of terrorist employment of weapons of mass destruction against cities and other local areas. Such assessments shall be used by Federal, State, and local agencies to determine the training and equipment requirements under this program and shall be performed as a collaborative effort with State and local agencies.
 
 “(b)
 
-Required Completion Date.—The requirements in subsection (a) shall be completed not later than 1 year after the date of the enactment of this Act \[Oct. 17, 1998\].
+Conduct of Assessments.—The Department of Justice, as lead Federal agency for domestic crisis management in response to terrorism involving weapons of mass destruction, shall—
+
+&emsp;“(1) conduct any threat and risk assessment performed under subsection (a) in coordination with appropriate Federal, State, and local agencies; and
+
+&emsp;“(2) develop procedures and guidance for conduct of the threat and risk assessment in consultation with officials from the intelligence community.
 
 #### “SEC. 1405. ADVISORY PANEL TO ASSESS DOMESTIC RESPONSE CAPABILITIES FOR TERRORISM INVOLVING WEAPONS OF MASS DESTRUCTION.
 

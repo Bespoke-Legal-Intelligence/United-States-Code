@@ -74,9 +74,5 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 
 #### Prior Provisions
 
-A prior section 2124, Pub. L. 87–63, title III, §301, formerly §4, June 29, 1961, 75 Stat. 130; Pub. L. 88–426, title III, §305(29), Aug. 14, 1964, 78 Stat. 426; Pub. L. 91–477, §3(a), Oct. 21, 1970, 84 Stat. 1072; renumbered and amended Pub. L. 97–63, §4(a)(1)–(3), (b), (c)(2), Oct. 16, 1981, 95 Stat. 1014, 1015; Pub. L. 102–372, §§12–14, Sept. 30, 1992, 106 Stat. 1180, related to establishment of United States Travel and Tourism Administration, prior to repeal by Pub. L. 104–288, §9(a), Oct. 11, 1996, 110 Stat. 3407. See section 2141 et seq. of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2141b of this title.
+A prior section 2124, Pub. L. 87–63, title III, §301, formerly §4, June 29, 1961, 75 Stat. 130; Pub. L. 88–426, title III, §305(29), Aug. 14, 1964, 78 Stat. 426; Pub. L. 91–477, §3(a), Oct. 21, 1970, 84 Stat. 1072; renumbered and amended Pub. L. 97–63, §4(a)(1)–(3), (b), (c)(2), Oct. 16, 1981, 95 Stat. 1014, 1015; Pub. L. 102–372, §§12–14, Sept. 30, 1992, 106 Stat. 1180, related to establishment of United States Travel and Tourism Administration, prior to repeal by Pub. L. 104–288, §9(a), Oct. 11, 1996, 110 Stat. 3407.
 

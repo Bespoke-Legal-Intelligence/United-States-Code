@@ -40,7 +40,7 @@ Years of service:
 
 (d) The President shall appoint, by and with the advice and consent of the Senate, a successor to a justice or judge who retires under this section.
 
-(e) Notwithstanding subsection (c) of section 5532 of title 5, if a regular or reserve member or former member of a uniformed service who is receiving retired or retainer pay becomes employed as a justice or judge of the United States, as defined by section 451, or becomes eligible therefor while so employed, such retired or retainer pay shall not be paid during regular active service as a justice or judge, but shall be resumed or commenced without reduction upon retirement from the judicial office or from regular active service (into senior status) as such justice or judge.
+(e) Notwithstanding subsection (c) of section 5532 <sup>1</sup> of title 5, if a regular or reserve member or former member of a uniformed service who is receiving retired or retainer pay becomes employed as a justice or judge of the United States, as defined by section 451, or becomes eligible therefor while so employed, such retired or retainer pay shall not be paid during regular active service as a justice or judge, but shall be resumed or commenced without reduction upon retirement from the judicial office or from regular active service (into senior status) as such justice or judge.
 
 (f)(1) In order to continue receiving the salary of the office under subsection (b), a justice must be certified in each calendar year by the Chief Justice, and a judge must be certified by the chief judge of the circuit in which the judge sits, as having met the requirements set forth in at least one of the following subparagraphs:
 
@@ -60,7 +60,7 @@ Years of service:
 
 (4) In the case of any justice or judge who retires under subsection (b) during a calendar year, there shall be included in the determination under this subsection of work performed during that calendar year all work performed by that justice or judge (as described in subparagraphs (A), (B), (C), and (D) of paragraph (1)) during that calendar year before such retirement.
 
-(June 25, 1948, ch. 646, 62 Stat. 903; Oct. 31, 1951, ch. 655, §39, 65 Stat. 724; Feb. 10, 1954, ch. 6, §4(a), 68 Stat. 12; Pub. L. 98–353, title II, §204(a), July 10, 1984, 98 Stat. 350; Pub. L. 100–702, title X, §1005(a), Nov. 19, 1988, 102 Stat. 4666; Pub. L. 101–194, title VII, §705(a), Nov. 30, 1989, 103 Stat.1770; Pub. L. 104–317, title III, §301, Oct. 19, 1996, 110 Stat. 3851.)
+(June 25, 1948, ch. 646, 62 Stat. 903; Oct. 31, 1951, ch. 655, §39, 65 Stat. 724; Feb. 10, 1954, ch. 6, §4(a), 68 Stat. 12; Pub. L. 98–353, title II, §204(a), July 10, 1984, 98 Stat. 350; Pub. L. 100–702, title X, §1005(a), Nov. 19, 1988, 102 Stat. 4666; Pub. L. 101–194, title VII, §705(a), Nov. 30, 1989, 103 Stat. 1770; Pub. L. 104–317, title III, §301, Oct. 19, 1996, 110 Stat. 3851.)
 
 #### Historical and Revision Notes
 
@@ -73,6 +73,10 @@ Words “may resign, or may retain his office but retire from regular active ser
 Terms “judge of the United States” and “justice of the United States” are defined in section 451 of this title.
 
 The revised section continues the provision respecting the salary of a resigned judge but changes such provision for retired judges and makes them eligible to receive any increases provided by Congress for the office from which they retired. This change is in harmony with the clear line of distinction drawn by Congress between retirement and resignation.
+
+#### References in Text
+
+Section 5532 of title 5, referred to in subsec. (e), was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
 #### Amendments
 
@@ -124,7 +128,7 @@ Calendar year 1990.—In the case of certifications required by section 371(f) o
 
 #### Effective Date of 1988 Amendment
 
-Section 1005(b) of Pub. L. 100–702 provided that: “The amendment made by this section \[amending this section\] shall apply to a justice or judge who retires, or has retired, from the judicial office or from regular active service (into senior status) as such justice or judge of the United States on or after the effective date of section 5532(c) of title 5 \[effective 90 days after Oct. 13, 1978, see Effective Date of 1978 Amendment note under section 5532 of Title 5, Government Organization and Employees\], and to whom section 5532(c) would otherwise be applicable.”
+Section 1005(b) of Pub. L. 100–702 provided that: “The amendment made by this section \[amending this section\] shall apply to a justice or judge who retires, or has retired, from the judicial office or from regular active service (into senior status) as such justice or judge of the United States on or after the effective date of section 5532(c) of title 5 \[effective 90 days after Oct. 13, 1978, see Effective Date of 1978 Amendment note under section 1101 of Title 5, Government Organization and Employees\], and to whom section 5532(c) would otherwise be applicable.”
 
 #### Effective Date of 1984 Amendment
 
@@ -157,4 +161,6 @@ Tax court judges, retirement, see section 7447 of Title 26, Internal Revenue Cod
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 178, 180, 294, 331, 372, 375, 376, 377, 458, 621 of this title; title 5 sections 8440a, 8701, 8714a, 8714b; title 26 section 3121; title 42 section 409.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -34,6 +34,18 @@ The studies required by this section shall not increase the regulatory or paperw
 
 Section was enacted as part of the Economic Growth and Regulatory Paperwork Reduction Act of 1996, and also as part of the Omnibus Consolidated Appropriations Act, 1997, and not as part of the Federal Reserve Act which comprises this chapter.
 
+#### Study of Financial Modernization's Effect on the Accessibility of Small Business and Farm Loans
+
+Pub. L. 106–102, title I, §109, Nov. 12, 1999, 113 Stat. 1362, provided that:
+
+“(a)
+
+Study.—The Secretary of the Treasury, in consultation with the Federal banking agencies (as defined in section 3(z) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(z)\]), shall conduct a study of the extent to which credit is being provided to and for small businesses and farms, as a result of this Act \[see Tables for classification\] and the amendments made by this Act.
+
+“(b)
+
+Report.—Before the end of the 5-year period beginning on the date of the enactment of this Act \[Nov. 12, 1999\], the Secretary, in consultation with the Federal banking agencies, shall submit a report to the Congress on the study conducted pursuant to subsection (a) and shall include such recommendations as the Secretary determines to be appropriate for administrative and legislative action.”
+
 #### Definitions
 
 Section 2001(c) of title II of div. A of Pub. L. 104–208, provided that: “Except as otherwise specified in this title \[see Tables for classification\], the following definitions shall apply for purposes of this title:

@@ -54,7 +54,7 @@
 
 (7) In a case described in paragraph (4) of this subsection, if the holder of the defaulted loan acquires the property securing the loan at the liquidation sale for an amount that exceeds the lesser of the total indebtedness under the loan or the net value and—
 
-&emsp;(A)(i) the amount was the minimum amount for which, under applicable State law, the property was permitted to be sold at the liquidation sale, the holder shall have the option to convey the property to the United States in return for payment by the Secretary of an amount equal to the lesser of the amount for which the holder acquired the property or the total indebtedness under the loan; or
+&emsp;(A)(i) the amount was the minimum amount for which, under applicable State law, the property was permitted to be sold at the liquidation sale, the holder shall have the option to convey the property to the United States inreturn for payment by the Secretary of an amount equal to the lesser of the amount for which the holder acquired the property or the total indebtedness under the loan; or
 
 &emsp;(ii) there was no minimum amount for which the property had to be sold at the liquidation sale under applicable State law, the holder shall have the option to convey the property to the United States in return for payment by the Secretary of an amount equal to the lesser of such net value or total indebtedness; and
 

@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(B) by insurance.
 
-(d)(1) Except as provided in paragraph (3), the President shall make a cash payment, computedunder paragraph (2), to any individual who became or becomes a captive commencing on or after November 4, 1979. Such payment shall be made before the end of the one-year period beginning on the date on which the captive status of such individual terminates or, in the case of any individual whose status as a captive terminated before the date of the enactment of the Victims of Terrorism Compensation Act, before the end of the one-year period beginning on such date.
+(d)(1) Except as provided in paragraph (3), the President shall make a cash payment, computed under paragraph (2), to any individual who became or becomes a captive commencing on or after November 4, 1979. Such payment shall be made before the end of the one-year period beginning on the date on which the captive status of such individual terminates or, in the case of any individual whose status as a captive terminated before the date of the enactment of the Victims of Terrorism Compensation Act, before the end of the one-year period beginning on such date.
 
 (2) Except as provided in section 802 of the Victims of Terrorism Compensation Act, the amount of the payment under this subsection with respect to an individual held as a captive shall be not less than one-half of the amount of the world-wide average per diem rate under section 5702 of this title which was in effect for each day that individual was so held.
 
@@ -194,7 +194,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 Section 1. The functions vested in the President by that part of section 803(a) of the Act to be codified at 5 U.S.C. 5569 are delegated to the Secretary of State.
 
-Sec. 2. The functions vested in the President by that part of section 803(a) of the Act to be codified at 5U.S.C. 5570 are delegated to the Secretary of State, to be exercised in consultation with the Secretary of Labor.
+Sec. 2. The functions vested in the President by that part of section 803(a) of the Act to be codified at 5 U.S.C. 5570 are delegated to the Secretary of State, to be exercised in consultation with the Secretary of Labor.
 
 Sec. 3. The functions vested in the President by section 806(a) (to be codified at 37 U.S.C. 559), section 806(c) (to be codified at 10 U.S.C. 1095 \[now 10 U.S.C. 1095a\]), and section 806(d) (to be codified at 10 U.S.C. 2181–2185) are delegated to the Secretary of Defense.
 

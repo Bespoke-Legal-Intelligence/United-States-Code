@@ -1,6 +1,6 @@
 ### §404f. Collection tasking authority
 
-Unless otherwise directed by the President, the Director of Central Intelligence shall have authority (except as otherwise agreed by the Director and the Secretary of Defense) to—
+Unless otherwise directed by the President, the Director of Central Intelligence shall haveauthority (except as otherwise agreed by the Director and the Secretary of Defense) to—
 
 &emsp;(1) approve collection requirements levied on national imagery collection assets;
 

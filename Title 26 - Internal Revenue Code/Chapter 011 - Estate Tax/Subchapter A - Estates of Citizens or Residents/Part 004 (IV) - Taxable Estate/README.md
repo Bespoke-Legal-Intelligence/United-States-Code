@@ -17,7 +17,7 @@
 
 1998—Pub. L. 105–206, title VI, §6006(b)(1)(F), July 22, 1998, 112 Stat. 808, added item 2057.
 
-1990—Pub. L. 101–508, title XI, §11704(a)(39), Nov. 5, 1990, 104 Stat. 1388–520, amended directory language ofsection 5033(a)(3) of Pub. L. 100–647. See 1988 Amendment note below.
+1990—Pub. L. 101–508, title XI, §11704(a)(39), Nov. 5, 1990, 104 Stat. 1388–520, amended directory language of section 5033(a)(3) of Pub. L. 100–647. See 1988 Amendment note below.
 
 Pub. L. 101–508, title XI, §11704(a)(16), Nov. 5, 1990, 104 Stat. 1388–518, substituted “trust” for “trusts” in item 2056A.
 

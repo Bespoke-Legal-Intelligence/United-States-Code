@@ -82,6 +82,8 @@ In addition to these acts the following House Resolutions affected the salary of
 
 The following acts have provided for funds for the operation of Congress:
 
+Pub. L. 106–57, title I, Sept. 29, 1999, 113 Stat. 408.
+
 Pub. L. 105–275, title I, Oct. 21, 1998, 112 Stat. 2430.
 
 Pub. L. 105–55, title I, Oct. 7, 1997, 111 Stat. 1177.

@@ -18,7 +18,7 @@ An individual shall be eligible to participate in the program assisted under thi
 
 &emsp;(2)(A) is economically disadvantaged; or
 
-&emsp;(B) has been determined to meet the eligibility requirements for free meals under the National School Lunch Act (42 U.S.C. 1751 et seq.) during the most recent school year.
+&emsp;(B) has been determined to meet the eligibility requirements for free meals under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) during the most recent school year.
 
 #### (c) Concurrent enrollment
 
@@ -34,7 +34,7 @@ An individual shall be eligible to participate in the program assisted under thi
 
 Nothing in this part shall be construed to establish a right for a participant to bring an action to obtain services described in the assessment or service strategy developed under section 1632(c) of this title.
 
-(Pub. L. 97–300, title II, §254, as added Pub. L. 102–367, title II, §204, Sept. 7, 1992, 106 Stat. 1062; amended Pub. L. 103–227, title X, §1016(a)(2)(C), Mar. 31, 1994, 108 Stat. 268.)
+(Pub. L. 97–300, title II, §254, as added Pub. L. 102–367, title II, §204, Sept. 7, 1992, 106 Stat. 1062; amended Pub. L. 103–227, title X, §1016(a)(2)(C), Mar. 31, 1994, 108 Stat. 268; Pub. L. 106–78, title VII, §752(b)(12), Oct. 22, 1999, 113 Stat. 1169.)
 
 #### Repeal of Section
 
@@ -42,7 +42,7 @@ Nothing in this part shall be construed to establish a right for a participant t
 
 #### References in Text
 
-The National School Lunch Act, referred to in subsec. (b)(2)(B), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(2)(B), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -51,6 +51,8 @@ A prior section 1633, Pub. L. 97–300, title II, §254, formerly §253, Oct. 13
 A prior section 254 of Pub. L. 97–300 was renumbered section 255 and classified to section 1634 of this title, prior to repeal by Pub. L. 102–367, title II, §201, Sept. 7, 1992, 106 Stat. 1052.
 
 #### Amendments
+
+1999—Subsec. (b)(2)(B). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
 1994—Subsec. (c). Pub. L. 103–227 added subsec. (c) relating to prohibition on private actions.
 

@@ -131,7 +131,9 @@
 | (c) | Confidentiality of customer proprietary network information. |
 | (d) | Exceptions. |
 | (e) | Subscriber list information. |
-| (f) | Definitions. |
+| (f) | Authority to use wireless location information. |
+| (g) | Subscriber listed and unlisted information for emergency services. |
+| (h) | Definitions. |
 | [223\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20001%20%28I%29%20-%20Common%20Carrier%20Regulation/%C2%A7%2000223%20-%20Obscene%20or%20harassing%20telephone%20calls%20in%20the%20District%20of%20Columbia%20or%20in%20interstate%20or%20foreign%20communications.md) | Obscene or harassing telephone calls in the District of Columbia or in interstate or foreign communications. |
 | (a) | Prohibited acts generally. |
 | (b) | Prohibited acts for commercial purposes; defense to prosecution. |
@@ -452,6 +454,7 @@
 | (b) | Consent to retransmission of broadcasting station signals. |
 | (c) | Broadcast to foreign countries for rebroadcast to United States; permit. |
 | (d) | Application for permit. |
+| (e) | Enforcement proceedings against satellite carriers concerning retransmissions of television broadcast stations in the respective local markets of such carriers. |
 | [326\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000326%20-%20Censorship.md) | Censorship. |
 | [327\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000327%20-%20Naval%20stations%3B%20use%20for%20commercial%20messages%3B%20rates.md) | Naval stations; use for commercial messages; rates. |
 | [328\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000328%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93414%2C%20title%20III%2C%20%C2%A7304%28a%29%2810%29%2C%20Oct.%2025%2C%201994%2C%20108%20Stat.%204297.md) | Repealed. |
@@ -479,8 +482,9 @@
 | (c) | Recovery of license. |
 | (d) | Public interest requirement. |
 | (e) | Fees. |
-| (f) | Evaluation. |
-| (g) | Definitions. |
+| (f) | Preservation of low-power community television broadcasting. |
+| (g) | Evaluation. |
+| (h) | Definitions. |
 | [337\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000337%20-%20Allocation%20and%20assignment%20of%20new%20public%20safety%20services%20licenses%20and%20commercial%20licenses.md) | Allocation and assignment of new public safety services licenses and commercial licenses. |
 | (a) | In general. |
 | (b) | Assignment. |
@@ -488,6 +492,20 @@
 | (d) | Conditions on licenses. |
 | (e) | Removal and relocation of incumbent broadcast licensees. |
 | (f) | Definitions. |
+| [338\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000338%20-%20Carriage%20of%20local%20television%20signals%20by%20satellite%20carriers.md) | Carriage of local television signals by satellite carriers. |
+| (a) | Carriage obligations. |
+| (b) | Good signal required. |
+| (c) | Duplication not required. |
+| (d) | Channel positioning. |
+| (e) | Compensation for carriage. |
+| (f) | Remedies. |
+| (g) | Regulations by Commission. |
+| (h) | Definitions. |
+| [339\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000339%20-%20Carriage%20of%20distant%20television%20stations%20by%20satellite%20carriers.md) | Carriage of distant television stations by satellite carriers. |
+| (a) | Provisions relating to carriage of distant signals. |
+| (b) | Extension of network nonduplication, syndicated exclusivity, and sports blackout to satellite retransmission. |
+| (c) | Eligibility for retransmission. |
+| (d) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1048,6 +1066,13 @@ I74subpart a—assistance for planning and construction of public telecommunicat
 | (i) | Accounting, auditing, and reporting. |
 | (j) | Report on audits by Treasury. |
 | (k) | Definitions. |
+| [615\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000615%20-%20Support%20for%20universal%20emergency%20telephone%20number.md) | Support for universal emergency telephone number. |
+| [615a.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000615a%20-%20Parity%20of%20protection%20for%20provision%20or%20use%20of%20wireless%20service.md) | Parity of protection for provision or use of wireless service. |
+| (a) | Provider parity. |
+| (b) | User parity. |
+| (c) | PSAP parity. |
+| (d) | Basis for enactment. |
+| [615b.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000615b%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

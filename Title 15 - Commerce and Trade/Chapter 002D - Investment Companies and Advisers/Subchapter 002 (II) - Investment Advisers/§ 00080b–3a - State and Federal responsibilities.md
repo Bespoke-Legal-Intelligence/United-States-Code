@@ -76,5 +76,5 @@ Delays.—For purposes of this subsection, delays in payment of fees or underpay
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 80b–3 of this title; title 29 section 1002.
+This section is referred to in sections 80b–3, 6701 of this title; title 29 section 1002.
 

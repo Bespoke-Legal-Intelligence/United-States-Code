@@ -28,7 +28,7 @@ The term “generation-skipping transfer” does not include—
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–647, §§1014(g)(1), 1018(u)(43), substituted “generation-skipping transfer”for “generation-skipping transfers” and “means” for “mean”.
+1988—Subsec. (a). Pub. L. 100–647, §§1014(g)(1), 1018(u)(43), substituted “generation-skipping transfer” for “generation-skipping transfers” and “means” for “mean”.
 
 Subsec. (b). Pub. L. 100–647, §1014(g)(2), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “any transfer (other than a direct skip) from a trust, to the extent such transfer is subject to a tax imposed by chapter 11 or 12 with respect to a person in the 1st generation below that of the grantor, and”.
 

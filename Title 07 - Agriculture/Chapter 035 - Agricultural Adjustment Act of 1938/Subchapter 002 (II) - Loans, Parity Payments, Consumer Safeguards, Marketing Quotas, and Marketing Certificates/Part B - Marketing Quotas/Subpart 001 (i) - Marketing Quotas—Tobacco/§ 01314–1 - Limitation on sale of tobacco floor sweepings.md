@@ -16,7 +16,7 @@ The provisions of section 1376 of this title shall apply to penalties under this
 
 As used in this section—
 
-&emsp;(1) the term “floor sweepings” means the scraps or leaves of tobacco which accumulate on the warehouse floor in the regular course of business; and
+&emsp;(1) the term “floor sweepings” means the scraps or leaves of tobacco which accumulateon the warehouse floor in the regular course of business; and
 
 &emsp;(2) the term “allowable floor sweepings” means the quantity of floor sweepings determined by multiplying 0.24 per centum times the total first sales of tobacco at auction for the season for the warehouse involved.
 

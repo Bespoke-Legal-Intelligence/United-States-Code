@@ -18,6 +18,22 @@ Subsection (a) shall not apply for the purpose of determining interest on any ov
 
 Section 911(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to any period for performing an act that has not expired before the date of the enactment of this Act \[Aug. 5, 1997\].”
 
+#### Authority To Postpone Certain Tax-Related Deadlines by Reason of Y2K Failures
+
+Pub. L. 106–170, title V, §522, Dec. 17, 1999, 113 Stat. 1927, provided that:
+
+“(a)
+
+In General.—In the case of a taxpayer determined by the Secretary of the Treasury (or the Secretary's delegate) to be affected by a Y2K failure, the Secretary may disregard a period of up to 90 days in determining, under the internal revenue laws, in respect of any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such taxpayer—
+
+&emsp;“(1) whether any of the acts described in paragraph (1) of section 7508(a) of the Internal Revenue Code of 1986 (without regard to the exceptions in parentheses in subparagraphs (A) and (B)) were performed within the time prescribed therefor; and
+
+&emsp;“(2) the amount of any credit or refund.
+
+“(b)
+
+Applicability of Certain Rules.—For purposes of this section, rules similar to the rules of subsections (b) and (e) of section 7508 of the Internal Revenue Code of 1986 shall apply.”
+
 #### Abatement of Interest on Underpayments by Taxpayers in Presidentially Declared Disaster Areas
 
 Section 915 of Pub. L. 105–34, as amended by Pub. L. 105–277, div. J, title IV, §4003(e)(1), Oct. 21, 1998, 112 Stat. 2681–909, provided that:

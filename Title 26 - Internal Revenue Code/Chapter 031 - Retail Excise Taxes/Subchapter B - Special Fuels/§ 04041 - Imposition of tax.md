@@ -36,7 +36,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), in the case of fuel sold for use or used in a use described in section 6427(b)(1) (after the application of section 6427(b)(3)), the rate of tax imposed by this paragraph shall be 7.3 cents per gallon (4.3 cents per gallon after September 30, 2005).
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), in the case of fuel sold for use or used in a use described in section 6427(b)(1) (after the application of section 6427(b)(3)), therate of tax imposed by this paragraph shall be 7.3 cents per gallon (4.3 cents per gallon after September 30, 2005).
 
 #### (II) School bus and intracity transportation
 
@@ -82,7 +82,7 @@
 
 #### (C) Administrative provisions
 
-&emsp;&emsp;For purposes of applying this title with respect to the taxes imposed by this subsection, references to any liquid subject to tax under this subsection shall be treated asincluding references to compressed natural gas subject to tax under this paragraph, and references to gallons shall be treated as including references to MCF with respect to such gas.
+&emsp;&emsp;For purposes of applying this title with respect to the taxes imposed by this subsection, references to any liquid subject to tax under this subsection shall be treated as including references to compressed natural gas subject to tax under this paragraph, and references to gallons shall be treated as including references to MCF with respect to such gas.
 
 #### (b) Exemption for off-highway business use; reduction in tax for qualified methanol and ethanol fuel
 
@@ -128,7 +128,7 @@
 
 &emsp;&emsp;(B) used by any person as a fuel in an aircraft in noncommercial aviation, unless there was a taxable sale of such liquid under this section.
 
-> &emsp;The rate of the tax imposed by this paragraph shall be the rate of tax specified in section 4091(b)(1) which is in effect at the time of such sale or use. No tax shall be imposed by this paragraph on the sale or use of any liquid if there was a taxable sale of such liquid under section 4091.
+> &emsp;The rate of the tax imposed by this paragraph shall be the rate of tax specified in section4091(b)(1) which is in effect at the time of such sale or use. No tax shall be imposed by this paragraph on the sale or use of any liquid if there was a taxable sale of such liquid under section 4091.
 
 #### (2) Definition of noncommercial aviation
 
@@ -208,7 +208,7 @@ Under regulations prescribed by the Secretary, no tax shall be imposed under thi
 
 #### (i) Registration
 
-If any liquid is sold by any person for use as a fuel in an aircraft, it shall be presumed for purposes of this section that a tax imposed by this section applies to the sale of such liquid unless the purchaser is registered in such manner (and furnished such information in respect of the use of the liquid) as the Secretary shall by regulations provide.
+If any liquid is sold by any person for use as a fuel in an aircraft, it shall be presumed for purposes of this section that a tax imposed by this section applies to the sale of such liquid unless the purchaser is registered in such manner\(and furnished such information in respect of the use of the liquid) as the Secretary shall by regulations provide.
 
 #### (j) Sales by United States, etc.
 
@@ -404,7 +404,7 @@ Subsec. (c)(5). Pub. L. 103–66, §13242(d)(8), inserted at end “The terminat
 
 Subsec. (d)(1). Pub. L. 103–66, §13241(e)(2), substituted “subsection (a)(1) or (2)” for “subsection (a)” before “on such sale or use”.
 
-Subsec. (d)(2). Pub. L. 103–66, §13242(d)(9), (10), redesignated par. (3) as (2), substituted “(other than gasoline\(as defined in section 4083))” for “(other than any product taxable under section 4081)”, and struck out heading and text of former par. (2). Text read as follows: “There is hereby imposed a tax of 0.1 cent a gallon on any liquid (other than a product taxable under section 4081)—
+Subsec. (d)(2). Pub. L. 103–66, §13242(d)(9), (10), redesignated par. (3) as (2), substituted “(other than gasoline (as defined in section 4083))” for “(other than any product taxable under section 4081)”, and struck out heading and text of former par. (2). Text read as follows: “There is hereby imposed a tax of 0.1 cent a gallon on any liquid (other than a product taxable under section 4081)—
 
 &emsp;“(A) sold by any person to an owner, lessee, or other operator of a diesel-powered train for use as a fuel in such train, or
 
@@ -494,7 +494,7 @@ Subsec. (c)(5). Pub. L. 100–223, §402(b), substituted “1990” for “1987�
 
 Subsec. (c)(6). Pub. L. 100–223, §405(b)(3), added par. (6).
 
-Subsec. (d)(1). Pub. L. 100–203, §10502(b)(3), added par. (1), substituting new heading for “Liquids other than gasoline, etc., used in motor vehicles, motorboats, or trains”, and struck out text of former par. (1) whichread as follows: “In addition to the taxes imposed by subsection (a), there is hereby imposed a tax of 0.1 cents a gallon on benzol, benzene, naphtha, casing head and natural gasoline, or any other liquid (other than kerosene, gas oil, liquefied petroleum gas, or fuel oil, or any product taxable under section 4081)—
+Subsec. (d)(1). Pub. L. 100–203, §10502(b)(3), added par. (1), substituting new heading for “Liquids other than gasoline, etc., used in motor vehicles, motorboats, or trains”, and struck out text of former par. (1) which read as follows: “In addition to the taxes imposed by subsection (a), there is hereby imposed a tax of 0.1 cents a gallon on benzol, benzene, naphtha, casing head and natural gasoline, or any other liquid (other than kerosene, gas oil, liquefied petroleum gas, or fuel oil, or any product taxable under section 4081)—
 
 &emsp;“(A) sold by any person to an owner, lessee, or other operator of a motor vehicle, motorboat, or train for use as a fuel in such motor vehicle, motorboat, or train, or
 
@@ -664,17 +664,17 @@ Section 907(c) of Pub. L. 105–34 provided that: “The amendments made by this
 
 Section 1031(e)(1) of Pub. L. 105–34 provided that: “The amendments made by subsection (a) \[amending this section and sections 4081 and 4091 of this title\] shall apply take effect \[sic\] on October 1, 1997.”
 
-Pub. L. 105–34, title X, §1032(f), Aug. 5, 1997, 111 Stat. 935, as amended by Pub. L. 105–178, title IX, §9008, June 9, 1998, 112 Stat. 506, provided that:
+Pub. L. 105–34, title X, §1032(f), Aug. 5, 1997, 111 Stat. 935, as amended by Pub. L. 105–178, title IX, §9008, June 9, 1998, 112 Stat. 506; Pub. L. 106–170, title V, §524, Dec. 17, 1999, 113 Stat. 1928, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 4081 to 4083, 4093, 4101, 6416, 6427, 6715, 7232, 9503, and 9508 of this title\] shall take effect on July 1, 1998.
 
-“(2) The amendment made by subsection (d) \[amending section 4101 of this title\] shall take effect on July 1, 2000.”
+“(2) The amendment made by subsection (d) \[amending section 4101 of this title\] shall take effect on January 1, 2002.”
 
 Section 1435(c)(2) of Pub. L. 105–34 provided that: “The amendment made by subsection (b) \[amending this section\] shall take effect on October 1, 1997.”
 
 Amendment by section 1601(f)(4)(A), (B) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
-Section 2(e)(1) of Pub. L. 105–2 provided that: “The amendments made by subsection (a) \[amending thissection and sections 4081 and 4091 of this title\] shall apply to periods beginning on or after the 7th day after the date of the enactment of this Act \[Feb. 28, 1997\].”
+Section 2(e)(1) of Pub. L. 105–2 provided that: “The amendments made by subsection (a) \[amending this section and sections 4081 and 4091 of this title\] shall apply to periods beginning on or after the 7th day after the date of the enactment of this Act \[Feb. 28, 1997\].”
 
 #### Effective Date of 1996 Amendment
 
@@ -762,7 +762,7 @@ Section 221(b)(2) of Pub. L. 95–618, as amended by Pub. L. 96–223, title II,
 
 Section 222(b) of Pub. L. 95–618 provided that: “The amendments made by subsection (a) \[amending this section and sections 6421 and 6424 of this title\] shall apply with respect to uses after December 31, 1978.”
 
-Amendment by section 233(a)(3)(B) of Pub. L. 95–618 effective on first day of first calendar month which begins more than 10 days after Nov. 9, 1978, see section233(d) of Pub. L. 95–618, set out as a note under section 34 of this title.
+Amendment by section 233(a)(3)(B) of Pub. L. 95–618 effective on first day of first calendar month which begins more than 10 days after Nov. 9, 1978, see section 233(d) of Pub. L. 95–618, set out as a note under section 34 of this title.
 
 Amendment by Pub. L. 95–600 effective Oct. 4, 1976, see section 703(r) of Pub. L. 95–600, set out as a note under section 46 of this title.
 

@@ -96,7 +96,7 @@ Any separated affiliate under this section shall file with the Commission annual
 
 #### (1) In general
 
-&emsp;The term “electronic publishing” means the dissemination, provision, publication, or saleto an unaffiliated entity or person, of any one or more of the following: news (including sports); entertainment (other than interactive games); business, financial, legal, consumer, or credit materials; editorials, columns, or features; advertising; photos or images; archival or research material; legal notices or public records; scientific, educational, instructional, technical, professional, trade, or other literary materials; or other like or similar information.
+&emsp;The term “electronic publishing” means the dissemination, provision, publication, or sale to an unaffiliated entity or person, of any one or more of the following: news (including sports); entertainment (other than interactive games); business, financial, legal, consumer, or credit materials; editorials, columns, or features; advertising; photos or images; archival or research material; legal notices or public records; scientific, educational, instructional, technical, professional, trade, or other literary materials; or other like or similar information.
 
 #### (2) Exceptions
 
@@ -164,7 +164,7 @@ As used in this section—
 
 #### References in Text
 
-The Securities Exchange Act of 1934, referred to in subsec. (i)(4), is act June 6, 1934, ch. 404, 48 Stat. 881, asamended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (i)(4), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@
 
 In addition to any other authority conferred by law, the Secretary of the Interior is authorized to designate, pursuant to standards prescribed in regulations by the Secretary, certain officers or employees of the Department of the Interior who shall maintain law and order and protect persons and property within areas of the National Park System. In the performance of such duties, the officers or employees, so designated, may—
 
-&emsp;(1) carry firearms and make arrests without warrant for any offense against the United States committed in his presence, or for any felony cognizable under the laws of the United States if he has reasonable grounds to believe that the person to be arrested has committed or is committing such felony, provided such arrests occur within that system or the person to be arrested is fleeing therefrom to avoid arrest;
+&emsp;(1) carry firearms and make arrests without warrant for any offense against the United States committed in his presence, or for anyfelony cognizable under the laws of the United States if he has reasonable grounds to believe that the person to be arrested has committed or is committing such felony, provided such arrests occur within that system or the person to be arrested is fleeing therefrom to avoid arrest;
 
 &emsp;(2) execute any warrant or other process issued by a court or officer of competent jurisdiction for the enforcement of the provisions of any Federal law or regulation issued pursuant to law arising out of an offense committed in that system or, where the person subject to the warrant or process is in that system, in connection with any Federal offense; and
 

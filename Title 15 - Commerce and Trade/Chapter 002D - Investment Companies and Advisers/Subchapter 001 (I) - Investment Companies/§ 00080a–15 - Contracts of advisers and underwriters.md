@@ -26,7 +26,7 @@ In addition to the requirements of subsections (a) and (b) of this section, it s
 
 #### (d) Equivalent of vote of majority of outstanding voting securities in case of common-law trust
 
-In the case of a common-law trust of the character described in section 80a–16(c) of this title, either written approval by holders of a majority of the outstanding shares of beneficial interest or the vote of a majority of such outstanding shares cast in person or by proxy at a meeting called for the purpose shall for the purposes of this section be deemed the equivalent of the vote of a majority of the outstanding voting securities, and the provisions of paragraph (42) of section 80a–2(a) of this title as to a majority shall be applicable to the vote cast at such a meeting.
+In the case of a common-law trust of the character described in section 80a–16(c) of this title,either written approval by holders of a majority of the outstanding shares of beneficial interest or the vote of a majority of such outstanding shares cast in person or by proxy at a meeting called for the purpose shall for the purposes of this section be deemed the equivalent of the vote of a majority of the outstanding voting securities, and the provisions of paragraph (42) of section 80a–2(a) of this title as to a majority shall be applicable to the vote cast at such a meeting.
 
 #### (e) Exemption of advisory boards or members from provisions of this section
 
@@ -46,7 +46,7 @@ Nothing contained in this section shall be deemed to require or contemplate any 
 
 (3) If—
 
-&emsp;(A) an assignment of an investment advisory contract with a registered investment company results in a successor investment adviser to such company, or if there is a change in control of or identity of a corporate trustee ofa registered investment company, and such adviser or trustee is then an investment adviser or corporate trustee with respect to other assets substantially greater in amount than the amount of assets of such company, or
+&emsp;(A) an assignment of an investment advisory contract with a registered investment company results in a successor investment adviser to such company, or if there is a change in control of or identity of a corporate trustee of a registered investment company, and such adviser or trustee is then an investment adviser or corporate trustee with respect to other assets substantially greater in amount than the amount of assets of such company, or
 
 &emsp;(B) as a result of a merger of, or a sale of substantially all the assets by, a registered investment company with or to another registered investment company with assets substantially greater in amount, a transaction occurs which would be subject to paragraph (1)(A) of this subsection,
 

@@ -1,6 +1,6 @@
 ### §§18 to 27. Repealed. Pub. L. 105–33, title VI, §6201, Aug. 5, 1997, 111 Stat. 653
 
-Section 18, acts Feb. 23, 1917, ch. 114, §8, 39 Stat. 933; Ex. Ord. No. 6166, §15, June 10, 1933; 1939 Reorg. Plan No.I, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title III, §301, title V, §507, 93 Stat. 677, 692, required State boards to submit plans and reports to Department of Education.
+Section 18, acts Feb. 23, 1917, ch. 114, §8, 39 Stat. 933; Ex. Ord. No. 6166, §15, June 10, 1933; 1939 Reorg. Plan No. I, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title III, §301, title V, §507, 93 Stat. 677, 692, required State boards to submit plans and reports to Department of Education.
 
 Section 19, acts Feb. 23, 1917, ch. 114, §9, 39 Stat. 933; Ex. Ord. No. 6166, §15, June 10, 1933; 1939 Reorg. Plan No. I, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title III, §301, title V, §507, 93 Stat. 677, 692, related to use of appropriations for salaries of teachers, supervisors, and directors of agricultural subjects and of teachers of trade, home economics, and industrial subjects and to requirement for State and local matching funds.
 

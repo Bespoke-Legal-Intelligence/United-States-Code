@@ -18,7 +18,7 @@ Administration of Grant Funds.—The Secretary shall establish an account for ad
 
 (e)
 
-Related Expenses.—Subject to such limitations as may be provided in appropriations Acts, appropriations available for the Academy may be used to pay expenses incurred by theAcademy in applying for, and otherwise pursuing, award of a qualifying research grant.
+Related Expenses.—Subject to such limitations as may be provided in appropriations Acts, appropriations available for the Academy may be used to pay expenses incurred by the Academy in applying for, and otherwise pursuing, award of a qualifying research grant.
 
 (f)
 

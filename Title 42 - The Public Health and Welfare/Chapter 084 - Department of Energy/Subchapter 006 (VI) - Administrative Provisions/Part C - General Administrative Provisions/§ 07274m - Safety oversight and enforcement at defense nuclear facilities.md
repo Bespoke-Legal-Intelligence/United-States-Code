@@ -48,43 +48,9 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Report and Plan for External Oversight of National Laboratories
 
-Pub. L. 105–85, div. C, title XXXI, §3154, Nov. 18, 1997, 111 Stat. 2044, provided that:
-
-“(a)
-
-Report.—Not later than July 1, 1999, the Secretary of Energy shall submit to Congress a report on the external oversight of the national laboratories.
-
-“(b)
-
-Matters Covered.—The report shall contain the following:
-
-&emsp;“(1) A description of the external oversight practices at the national laboratories and an analysis of the effectiveness of such practices, including the effect of such practices on the productivity of the laboratories and the research conducted by the laboratories.
-
-&emsp;“(2) Recommendations regarding the continuation, consolidation, or discontinuation of the external oversight practices described in paragraph (1), and the rationale for the recommendations.
-
-&emsp;“(3) Recommendations for any new external oversight practices that should be implemented, and the rationale for the recommendations.
-
-&emsp;“(4) A plan for carrying out the recommendations.
-
-“(c)
-
-National Laboratories Covered.—For purposes of this section, the national laboratories are—
-
-&emsp;“(1) the Lawrence Livermore National Laboratory, Livermore, California;
-
-&emsp;“(2) the Los Alamos National Laboratory, Los Alamos, New Mexico; and
-
-&emsp;“(3) the Sandia National Laboratories, Albuquerque, New Mexico.”
+Pub. L. 105–85, div. C, title XXXI, §3154, Nov. 18, 1997, 111 Stat. 2044, directed Secretary of Energy to submit to Congress, not later than July 1, 1999, a report on the external oversight of the Lawrence Livermore National Laboratory, Livermore, California, the Los Alamos National Laboratory, Los Alamos, New Mexico, and the Sandia National Laboratories, Albuquerque, New Mexico.
 
 #### Submittal of Annual Report on Status of Security Functions at Nuclear Weapons Facilities
 
-Pub. L. 105–85, div. C, title XXXI, §3162, Nov. 18, 1997, 111 Stat. 2049, provided that:
-
-“(a)
-
-In General.—Not later than September 1 each year, the Secretary of Energy shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] the report entitled ‘Annual Report to the President on the Status of Safeguards and Security of Domestic Nuclear Weapons Facilities’, or any successor report to such report.
-
-“(b)
-
-Requirement Relating to Reports Through Fiscal Year 2000.—The Secretary shall include with each report submitted under subsection (a) in fiscal years 1998 through 2000 any comments on such report by the members of the Department of Energy Security Management Board established under section 3161 \[42 U.S.C. 7251 note\] that such members consider appropriate.”
+Pub. L. 105–85, div. C, title XXXI, §3162, Nov. 18, 1997, 111 Stat. 2049, as amended by Pub. L. 106–65, div. C, title XXXI, §3142(h)(2), Oct. 5, 1999, 113 Stat. 934, provided that: “Not later than September 1 each year, the Secretary of Energy shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] the report entitled ‘Annual Report to the President on the Status of Safeguards and Security of Domestic Nuclear Weapons Facilities’, or any successor report to such report.”
 

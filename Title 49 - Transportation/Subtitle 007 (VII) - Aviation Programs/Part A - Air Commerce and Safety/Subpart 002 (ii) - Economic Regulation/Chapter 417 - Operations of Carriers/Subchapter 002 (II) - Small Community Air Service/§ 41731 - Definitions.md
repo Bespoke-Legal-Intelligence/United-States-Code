@@ -76,7 +76,17 @@ In subsection (a)(3)–(5), the word “boardings” is substituted for “enpla
 
 Section 419 of the Federal Aviation Act of 1958, referred to in subsec. (a)(1)(A), is section 419 of Pub. L. 85–726, which was classified to section 1389 of former Title 49, Transportation, and was repealed and reenacted as this subchapter by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1143, 1379.
 
+#### Restrictions on Essential Air Service Subsidies
+
+Pub. L. 106–69, title III, §332, Oct. 9, 1999, 113 Stat. 1022, provided that: “Hereafter, notwithstanding 49 U.S.C. 41742, no essential air service subsidies shall be provided to communities in the 48 contiguous States that are located fewer than 70 highway miles from the nearest large or medium hub airport, or that require a rate of subsidy per passenger in excess of $200 unless such point is greater than 210 miles from the nearest large or medium hub airport.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 105–277, div. A, §101(g) \[title III, §334\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–471.
+
+Pub. L. 105–66, title III, §336, Oct. 27, 1997, 111 Stat. 1447.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 41110, 41714, 41715, 47115 of this title.
+This section is referred to in sections 41110, 41714, 41715, 47116 of this title.
 

@@ -6,7 +6,7 @@ Designs Protected.—
 
 &emsp;(1)
 
-In general.—The designer or other owner of an original design of a useful article which makes the article attractive or distinctive in appearance to the purchasing or using publicmay secure the protection provided by this chapter upon complying with and subject to this chapter.
+In general.—The designer or other owner of an original design of a useful article which makes the article attractive or distinctive in appearance to the purchasing or using public may secure the protection provided by this chapter upon complying with and subject to this chapter.
 
 &emsp;(2)
 
@@ -20,7 +20,11 @@ Definitions.—For the purpose of this chapter, the following terms have the fol
 
 &emsp;(2) A “useful article” is a vessel hull, including a plug or mold, which in normal use has an intrinsic utilitarian function that is not merely to portray the appearance of the article or to convey information. An article which normally is part of a useful article shall be deemed to be a useful article.
 
-&emsp;(3) A “vessel” is a craft, especially one larger than a rowboat, designed to navigate on water, but does not include any such craft that exceeds 200 feet in length.
+&emsp;(3) A “vessel” is a craft—
+
+&emsp;&emsp;(A) that is designed and capable of independently steering a course on or through water through its own means of propulsion; and
+
+&emsp;&emsp;(B) that is designed and capable of carrying and transporting one or more passengers.
 
 &emsp;(4) A “hull” is the frame or body of a vessel, including the deck of a vessel, exclusive of masts, sails, yards, and rigging.
 
@@ -28,27 +32,27 @@ Definitions.—For the purpose of this chapter, the following terms have the fol
 
 &emsp;(6) A “mold” means a matrix or form in which a substance for material is used, regardless of whether the matrix or form has an intrinsic utilitarian function that is not only to portray the appearance of the product or to convey information.
 
-(Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2905.)
+(Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2905; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5005(a)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–593.)
 
-#### Termination of Section
+#### Amendments
 
-<i>For termination of section by section 505 of Pub. L. 105–304, see Effective and Termination Dates note below.</i>
+1999—Subsec. (b)(3). Pub. L. 106–113 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A ‘vessel’ is a craft, especially one larger than a rowboat, designed to navigate on water, but does not include any such craft that exceeds 200 feet in length.”
 
-#### Effective and Termination Dates
+#### Effective Date
 
-Pub. L. 105–304, title V, §505, Oct. 28, 1998, 112 Stat. 2918, provided that: “The amendments made by sections 502 and 503 \[enacting this chapter and amending sections 1338, 1400, and 1498 of Title 28, Judiciary and Judicial Procedure\] shall take effect on the date of the enactment of this Act \[Oct. 28, 1998\] and shall remain in effect until the end of the 2-year period beginning on such date of enactment. No cause of action based on chapter 13 of title 17, United States Code, as added by this title, may be filed after the end of that 2-year period.”
+Pub. L. 105–304, title V, §505, Oct. 28, 1998, 112 Stat. 2918, as amended by Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5005(a)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–593, provided that: “The amendments made by sections 502 and 503 \[enacting this chapter and amending sections 1338, 1400, and 1498 of Title 28, Judiciary and Judicial Procedure\] shall take effect on the date of the enactment of this Act \[Oct. 28, 1998\].”
 
 #### Joint Study of Effect of This Chapter
 
-Pub. L. 105–304, title V, §504, Oct. 28, 1998, 112 Stat. 2917, provided that:
+Pub. L. 105–304, title V, §504, Oct. 28, 1998, 112 Stat. 2917, as amended by Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4741(b)(1), title V, §5005(a)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–586, 1501A–593, provided that:
 
 “(a)
 
-In General.—Not later than 1 year after the date of the enactment of this Act \[Oct. 28, 1998\], and not later than 2 years after such date of enactment, the Register of Copyrights and the Commissioner of Patents and Trademarks shall submit to the Committees on the Judiciary of the Senate and the House of Representatives a joint report evaluating the effect of the amendments made by this title \[enacting this chapter, amending sections 1338, 1400, and 1498 of Title 28, Judiciary and Judicial Procedure\].
+In General.—Not later than November 1, 2003, the Register of Copyrights and the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall submit to the Committees on the Judiciary of the Senate and the House of Representatives a joint report evaluating the effect of the amendments made by this title \[enacting this chapter and amending sections 1338, 1400, and 1498 of Title 28, Judiciary and Judicial Procedure\].
 
 “(b)
 
-Elements for Consideration.—In carrying out subsection (a), the Register of Copyrights and the Commissioner of Patents and Trademarks shall consider—
+Elements for Consideration.—In carrying out subsection (a), the Register of Copyrights and the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall consider—
 
 &emsp;“(1) the extent to which the amendments made by this title has been effective in suppressing infringement of the design of vessel hulls;
 
@@ -58,5 +62,5 @@ Elements for Consideration.—In carrying out subsection (a), the Register of Co
 
 &emsp;“(4) the effect, if any, of the amendments made by this title on the price of vessels with hulls protected under such amendments; and
 
-&emsp;“(5) such other considerations as the Register and the Commissioner may deem relevant to accomplish the purposes of the evaluation conducted under subsection (a).”
+&emsp;“(5) such other considerations as the Register and the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office may deem relevant to accomplish the purposes of the evaluation conducted under subsection (a).”
 

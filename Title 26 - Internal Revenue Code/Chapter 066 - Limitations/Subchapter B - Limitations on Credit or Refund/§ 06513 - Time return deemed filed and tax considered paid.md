@@ -28,7 +28,7 @@ If any overpayment of income tax is, in accordance with section 6402(b), claimed
 
 #### (e) Payments of Federal unemployment tax
 
-Notwithstanding subsection (a), for purposes of section 6511 any payment of tax imposed by chapter 23 which, pursuant to section 6157, is made for a calendar quarter or other period within a calendar year shall, if made before the last day prescribed for filing the return for the calendar year (determined without regard toany extension of time for filing), be considered made on such last day.
+Notwithstanding subsection (a), for purposes of section 6511 any payment of tax imposed by chapter 23 which, pursuant to section 6157, is made for a calendar quarter or other period within a calendar year shall, if made before the last day prescribed for filing the return for the calendar year (determined without regard to any extension of time for filing), be considered made on such last day.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 812; Pub. L. 89–809, title I, §105(f)(1), (2), Nov. 13, 1966, 80 Stat. 1567, 1568; Pub. L. 91–53, §2(d), Aug. 7, 1969, 83 Stat. 92; Pub. L. 98–76, title II, §231(b)(2)(C), Aug. 12, 1983, 97 Stat. 429; Pub. L. 100–647, title VII, §7106(c)(4), Nov. 10, 1988, 102 Stat. 3774.)
 

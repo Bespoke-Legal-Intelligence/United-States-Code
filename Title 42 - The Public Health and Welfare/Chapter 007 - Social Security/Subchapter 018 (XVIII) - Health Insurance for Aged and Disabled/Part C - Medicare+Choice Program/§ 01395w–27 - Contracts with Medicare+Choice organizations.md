@@ -44,7 +44,13 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (4) Previous terminations
 
-&emsp;The Secretary may not enter into a contract with a Medicare+Choice organization if a previous contract with that organization under this section was terminated at the request of the organization within the preceding 5-year period, except in circumstances which warrant special consideration, as determined by the Secretary.
+#### (A) In general
+
+&emsp;&emsp;The Secretary may not enter into a contract with a Medicare+Choice organization if a previous contract with that organization under this section was terminated at the request of the organization within the preceding 2-year period, except as provided in subparagraph (B) and except in such other circumstances which warrant special consideration, as determined by the Secretary.
+
+#### (B) Earlier re-entry permitted where change in payment policy
+
+&emsp;&emsp;Subparagraph (A) shall not apply with respect to the offering by a Medicare+Choice organization of a Medicare+Choice plan in a Medicare+Choice payment area if during the 6-month period beginning on the date the organization notified the Secretary of the intention to terminate the most recent previous contract, there was a legislative change enacted (or a regulatory change adopted) that has the effect of increasing payment amounts under section 1395w–23 of this title for that Medicare+Choice payment area.
 
 #### (5) Contracting authority
 
@@ -130,11 +136,11 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (B) Authorization
 
-&emsp;&emsp;The Secretary is authorized to charge a fee to each Medicare+Choice organization with a contract under this part that is equal to the organization's pro rata share (as determined by the Secretary) of the aggregate amount of fees which the Secretary is directed to collect in a fiscal year. Any amounts collected are authorized to be appropriated only for the purpose of carrying out section 1395w–21 of this title (relating to enrollment and dissemination of information) and section 1395b–4 of this title (relating to the health insurance counseling and assistance program).
+&emsp;&emsp;The Secretary is authorized to charge a fee to each Medicare+Choice organization with a contract under this part that is equal to the organization's pro rata share (as determined by the Secretary) of the aggregate amount of fees which the Secretary is directed to collect in a fiscal year. Any amounts collected shall be available without further appropriation to the Secretary for the purpose of carrying out section 1395w–21 of this title (relating to enrollment and dissemination of information) and section 1395b–4 of this title (relating to the health insurance counseling and assistance program).
 
-#### (C) Contingency
+#### (C) Authorization of appropriations
 
-&emsp;&emsp;For any fiscal year, the fees authorized under subparagraph (B) are contingent upon enactment in an appropriations act of a provision specifying the aggregate amount of fees the Secretary is directed to collect in a fiscal year. Fees collected during any fiscal year under this paragraph shall be deposited and credited as offsetting collections.
+&emsp;&emsp;There are authorized to be appropriated for the purposes described in subparagraph (B) for each fiscal year beginning with fiscal year 2001 an amount equal to $100,000,000, reduced by the amount of fees authorized to be collected under this paragraph for the fiscal year.
 
 #### (D) Limitation
 
@@ -144,15 +150,25 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;&emsp;(ii)(I) $200,000,000 in fiscal year 1998;
 
-&emsp;&emsp;&emsp;(II) $150,000,000 in fiscal year 1999; and
+&emsp;&emsp;&emsp;(II) $150,000,000 in fiscal year 1999;
 
-&emsp;&emsp;&emsp;(III) $100,000,000 in fiscal year 2000 and each subsequent fiscal year.
+&emsp;&emsp;&emsp;(III) $100,000,000 in fiscal year 2000; and
+
+&emsp;&emsp;&emsp;(IV) the Medicare+Choice portion (as defined in subparagraph (E)) of $100,000,000 in fiscal year 2001 and each succeeding fiscal year.
+
+#### (E) Medicare+Choice portion defined
+
+&emsp;&emsp;In this paragraph, the term “Medicare+Choice portion” means, for a fiscal year, the ratio, as estimated by the Secretary, of—
+
+&emsp;&emsp;&emsp;(i) the average number of individuals enrolled in Medicare+Choice plans during the fiscal year, to
+
+&emsp;&emsp;&emsp;(ii) the average number of individuals entitled to benefits under part A of this subchapter, and enrolled under part B of this subchapter, during the fiscal year.
 
 #### (f) Prompt payment by Medicare+Choice organization
 
 #### (1) Requirement
 
-&emsp;A contract under this part shall require a Medicare+Choice organization to provideprompt payment (consistent with the provisions of sections 1395h(c)(2) and 1395u(c)(2) of this title) of claims submitted for services and supplies furnished to enrollees pursuant to the contract, if the services or supplies are not furnished under a contract between the organization and the provider or supplier (or in the case of a Medicare+Choice private fee-for-service plan, if a claim is submitted to such organization by an enrollee).
+&emsp;A contract under this part shall require a Medicare+Choice organization to provide prompt payment (consistent with the provisions of sections 1395h(c)(2) and 1395u(c)(2) of this title) of claims submitted for services and supplies furnished to enrollees pursuant to the contract, if the services or supplies are not furnished under a contract between the organization and the provider or supplier (or in the case of a Medicare+Choice private fee-for-service plan, if a claim is submitted to such organization by an enrollee).
 
 #### (2) Secretary's option to bypass noncomplying organization
 
@@ -222,7 +238,39 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;Paragraph (1) shall not apply if the Secretary determines that a delay in termination, resulting from compliance with the procedures specified in such paragraph prior to termination, would pose an imminent and serious risk to the health of individuals enrolled under this part with the organization.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387.)
+
+#### References in Text
+
+Parts A and B of this subchapter, referred to in subsec. (e)(2)(E)(ii), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
+
+#### Amendments
+
+1999—Subsec. (c)(4). Pub. L. 106–113, §1000(a)(6) \[title V, §513(b)(1)(B), (C)\], designated existing provisions as subpar. (A), inserted heading, realigned margins, and added subpar. (B).
+
+Pub. L. 106–113, §1000(a)(6) \[title V, §513(a), (b)(1)(A)\], substituted “2-year period” for “5-year period” and “except as provided in subparagraph (B) and except in such other circumstances” for “except in circumstances”.
+
+Subsec. (e)(2)(B). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(1)\], substituted “Any amounts collected shall be available without further appropriation to the Secretary for” for “Any amounts collected are authorized to be appropriated only for”.
+
+Subsec. (e)(2)(C). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(2)\], amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “For any fiscal year, the fees authorized under subparagraph (B) are contingent upon enactment in an appropriations act of a provision specifying the aggregate amount of fees the Secretary is directed to collect in a fiscal year. Fees collected during any fiscal year under this paragraph shall be deposited and credited as offsetting collections.”
+
+Subsec. (e)(2)(D)(ii)(II). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(3)(A)\], struck out “and” after semicolon.
+
+Subsec. (e)(2)(D)(ii)(III). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(3)(B)\], substituted “; and” for “and each subsequent fiscal year.”
+
+Subsec. (e)(2)(D)(ii)(IV). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(3)(C)\], added subcl. (IV).
+
+Subsec. (e)(2)(E). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(4)\], added subpar. (E).
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §513(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, provided that: “The amendments made by this section \[amending this section\] apply to contract terminations occurring before, on, or after the date of the enactment of this Act \[Nov. 29, 1999\].”
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §522(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387, provided that: “The amendments made by subsection (a) \[amending this section\] apply to fees charged on or after January 1, 2001. The Secretary of Health and Human Services may not increase the fees charged under section 1857(e)(2) of the Social Security Act (42 U.S.C. 1395w–27(e)(2)) for the 3-month period beginning with October 2000 above the level in effect during the previous 9-month period.”
+
+#### Construction Relating to Additional Exceptions
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §513(b)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, provided that: “Nothing in the amendment made by paragraph (1)(C) \[amending this section\] shall be construed to affect the authority of the Secretary of Health and Human Services to provide for exceptions in addition to the exception provided in such amendment, including exceptions provided under Operational Policy Letter \#103 (OPL99.103).”
 
 #### Immediate Effective Date for Certain Requirements for Demonstrations
 

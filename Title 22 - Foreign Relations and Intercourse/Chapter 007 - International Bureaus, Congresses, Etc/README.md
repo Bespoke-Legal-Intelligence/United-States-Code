@@ -144,6 +144,11 @@
 | (a) | In general. |
 | (b) | “International financial institution” defined. |
 | 262p–5. | Definitions. |
+| 262p–6. | Improvement of the Heavily Indebted Poor Countries Initiative. |
+| (a) | Improvement of the HIPC Initiative. |
+| (b) | Heavily Indebted Poor Countries review. |
+| (c) | Definition. |
+| 262p–7. | Reform of the Enhanced Structural Adjustment Facility. |
 | [262q.](%C2%A7%2000262q%20-%20Transferred.md) | Transferred. |
 | [262r.](%C2%A7%2000262r%20-%20Annual%20report%20by%20Chairman%20of%20National%20Advisory%20Council%20on%20International%20Monetary%20and%20Financial%20Policies.md) | Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies. |
 | (a) | In general. |
@@ -211,13 +216,7 @@
 | (b) | Authorization for transfers of funds. |
 | [275\.](%C2%A7%2000275%20-%20International%20Hydrographic%20Bureau.md) | International Hydrographic Bureau. |
 | [275a.](%C2%A7%2000275a%20-%20Permanent%20International%20Commission%20of%20the%20Congresses%20of%20Navigation%3B%20authorization%20of%20appropriations.md) | Permanent International Commission of the Congresses of Navigation; authorization of appropriations. |
-| [276\.](%C2%A7%2000276%20-%20Bureau%20of%20Interparliamentary%20Union%3B%20authorization%20of%20appropriations.md) | Bureau of Interparliamentary Union; authorization of appropriations. |
-| [276a.](%C2%A7%2000276a%20-%20Reports%20to%20Congress%20by%20American%20group.md) | Reports to Congress by American group. |
-| 276a–1. | Conference of the Interparliamentary Union; appointment of delegates from House of Representatives; Chairman; Vice Chairman. |
-| 276a–2. | Conference of the Interparliamentary Union and all other parliamentary conferences; appointment of delegates from Senate; Chairman; Vice Chairman. |
-| 276a–3. | Executive secretary of American group of Interparliamentary Union. |
-| 276a–4. | Auditing of accounts of House and Senate delegations to the Interparliamentary Union; finality and conclusiveness of certificate of Chairman. |
-| [276b.](%C2%A7%2000276b%20-%20Repealed.%20Pub.%20L.%2095%E2%80%9345%2C%20%C2%A74%28d%29%284%29%2C%20June%2015%2C%201977%2C%2091%20Stat.%20223.md) | Repealed. |
+| 276a to 276b. | Repealed. |
 | [276c.](%C2%A7%2000276c%20-%20Designation%20of%20Senate%20delegates%20to%20Conferences%20of%20the%20Interparliamentary%20Union.md) | Designation of Senate delegates to Conferences of the Interparliamentary Union. |
 | 276c–1. | Reports of expenditures by members of American groups or delegations and employees; consolidated reports by Congressional committees; public inspection. |
 | 276c–2. | Employee benefits for United States citizen-representatives to international financial institutions; Treasury Department as collecting, accounting, and depositing agency for employee payments; contributions from appropriated funds. |
@@ -353,6 +352,9 @@
 | 277g–1. | Authority of Secretary of State to plan, construct, operate, and maintain facilities. |
 | 277g–2. | Consultation with Administrator of Environmental Protection Agency and other authorities. |
 | 277g–3. | Authorization of appropriations. |
+| [277h.](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/%C2%A7%2000277h%20-%20Authority%20of%20the%20International%20Boundary%20and%20Water%20Commission%20to%20assist%20State%20and%20local%20governments.md) | Authority of the International Boundary and Water Commission to assist State and local governments. |
+| (a) | Authority. |
+| (b) | Reimbursements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -752,6 +754,7 @@
 | (a) | Development by Fund of means to measure military spending. |
 | (b) | Annual reports by Fund on levels of military spending. |
 | (c) | Analysis and assessment of military spending to be included in article IV consultations by Fund. |
+| [286nn.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286nn%20-%20Approval%20of%20contributions%20for%20debt%20reductions%20for%20the%20poorest%20countries.md) | Approval of contributions for debt reductions for the poorest countries. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -774,7 +777,9 @@
 | (b) | Transmittal of Security Council resolutions. |
 | (c) | Reports on peacekeeping operations. |
 | (d) | Annual report. |
-| (e) | “Designated congressional committees” defined. |
+| (e) | Consultations and reports on United Nations peacekeeping operations. |
+| (f) | Designated congressional committees. |
+| (g) | Relationship to other notification requirements. |
 | [287c.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287c%20-%20Economic%20and%20communication%20sanctions%20pursuant%20to%20United%20Nations%20Security%20Council%20Resolution.md) | Economic and communication sanctions pursuant to United Nations Security Council Resolution. |
 | (a) | Enforcement measures; importation of Rhodesian chromium. |
 | (b) | Penalties. |
@@ -787,6 +792,13 @@
 | (d) | Disclosure of information. |
 | [287e.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287e%20-%20Authorization%20of%20appropriations%3B%20payment%20of%20expenses.md) | Authorization of appropriations; payment of expenses. |
 | 287e–1. | Housing supplement for certain employees assigned to the United States Mission to the United Nations. |
+| 287e–2. | Reimbursement for goods and services provided by the United States to the United Nations. |
+| (a) | Requirement to obtain reimbursement. |
+| (b) | Treatment of reimbursements. |
+| (c) | Covered assistance. |
+| (d) | Waiver. |
+| (e) | Relationship to other reimbursement authority. |
+| (f) | Definition. |
 | [287f.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287f%20-%20Omitted.md) | Omitted. |
 | [287g.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287g%20-%20Authorization%20of%20appropriations%20for%20loan%20to%20United%20Nations%3B%20restrictions%20on%20use%20of%20proceeds%20of%20loan.md) | Authorization of appropriations for loan to United Nations; restrictions on use of proceeds of loan. |
 | [287h.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287h%20-%20Limitation%20on%20loan.md) | Limitation on loan. |
@@ -1074,7 +1086,7 @@
 
 |  |  |
 | :--- | ---: |
-| [290n.](Subchapter%20029%20%28XXIX%29%20-%20United%20States-Mexico%20Border%20Health%20Commission/%C2%A7%2000290n%20-%20Establishment%20of%20Border%20Health%20Commission.md) | Establishment of Border Health Commission. |
+| [290n.](Subchapter%20029%20%28XXIX%29%20-%20United%20States-Mexico%20Border%20Health%20Commission/%C2%A7%2000290n%20-%20Appointment%20of%20members%20of%20Border%20Health%20Commission.md) | Appointment of members of Border Health Commission. |
 | 290n–1. | Duties. |
 | 290n–2. | Other authorized functions. |
 | 290n–3. | Membership. |
@@ -1176,6 +1188,8 @@
 - [&sect; 00262p&#8211;4p - Encouragement of fair labor practices](%C2%A7%2000262p%E2%80%934p%20-%20Encouragement%20of%20fair%20labor%20practices.md)
 - [&sect; 00262p&#8211;4q - Opposition to assistance by international financial institutions to terrorist states](%C2%A7%2000262p%E2%80%934q%20-%20Opposition%20to%20assistance%20by%20international%20financial%20institutions%20to%20terrorist%20states.md)
 - [&sect; 00262p&#8211;5 - Definitions](%C2%A7%2000262p%E2%80%935%20-%20Definitions.md)
+- [&sect; 00262p&#8211;6 - Improvement of the Heavily Indebted Poor Countries Initiative](%C2%A7%2000262p%E2%80%936%20-%20Improvement%20of%20the%20Heavily%20Indebted%20Poor%20Countries%20Initiative.md)
+- [&sect; 00262p&#8211;7 - Reform of the Enhanced Structural Adjustment Facility](%C2%A7%2000262p%E2%80%937%20-%20Reform%20of%20the%20Enhanced%20Structural%20Adjustment%20Facility.md)
 - [&sect; 00262q - Transferred](%C2%A7%2000262q%20-%20Transferred.md)
 - [&sect; 00262r - Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies](%C2%A7%2000262r%20-%20Annual%20report%20by%20Chairman%20of%20National%20Advisory%20Council%20on%20International%20Monetary%20and%20Financial%20Policies.md)
 - [&sect; 00262r&#8211;1 - Transmission to the Congress of operating summaries of the multilateral development banks](%C2%A7%2000262r%E2%80%931%20-%20Transmission%20to%20the%20Congress%20of%20operating%20summaries%20of%20the%20multilateral%20development%20banks.md)
@@ -1221,12 +1235,7 @@
 - [&sect; 00274b - Cooperation of Federal and non-Federal departments, agencies, and organizations; transfers of funds](%C2%A7%2000274b%20-%20Cooperation%20of%20Federal%20and%20non-Federal%20departments%2C%20agencies%2C%20and%20organizations%3B%20transfers%20of%20funds.md)
 - [&sect; 00275 - International Hydrographic Bureau](%C2%A7%2000275%20-%20International%20Hydrographic%20Bureau.md)
 - [&sect; 00275a - Permanent International Commission of the Congresses of Navigation; authorization of appropriations](%C2%A7%2000275a%20-%20Permanent%20International%20Commission%20of%20the%20Congresses%20of%20Navigation%3B%20authorization%20of%20appropriations.md)
-- [&sect; 00276 - Bureau of Interparliamentary Union; authorization of appropriations](%C2%A7%2000276%20-%20Bureau%20of%20Interparliamentary%20Union%3B%20authorization%20of%20appropriations.md)
-- [&sect; 00276a - Reports to Congress by American group](%C2%A7%2000276a%20-%20Reports%20to%20Congress%20by%20American%20group.md)
-- [&sect; 00276a&#8211;1 - Conference of the Interparliamentary Union; appointment of delegates from House of Representatives; Chairman; Vice Chairman](%C2%A7%2000276a%E2%80%931%20-%20Conference%20of%20the%20Interparliamentary%20Union%3B%20appointment%20of%20delegates%20from%20House%20of%20Representatives%3B%20Chairman%3B%20Vice%20Chairman.md)
-- [&sect; 00276a&#8211;2 - Conference of the Interparliamentary Union and all other parliamentary conferences; appointment of delegates from Senate; Chairman&#8230;](%C2%A7%2000276a%E2%80%932%20-%20Conference%20of%20the%20Interparliamentary%20Union%20and%20all%20other%20parliamentary%20conferences%3B%20appointment%20of%20delegates%20from%20Senate%3B%20Chairman%E2%80%A6.md)
-- [&sect; 00276a&#8211;3 - Executive secretary of American group of Interparliamentary Union](%C2%A7%2000276a%E2%80%933%20-%20Executive%20secretary%20of%20American%20group%20of%20Interparliamentary%20Union.md)
-- [&sect; 00276a&#8211;4 - Auditing of accounts of House and Senate delegations to the Interparliamentary Union; finality and conclusiveness of certificate of&#8230;](%C2%A7%2000276a%E2%80%934%20-%20Auditing%20of%20accounts%20of%20House%20and%20Senate%20delegations%20to%20the%20Interparliamentary%20Union%3B%20finality%20and%20conclusiveness%20of%20certificate%20of%E2%80%A6.md)
+- [&sect; 00276 to 276a&#8211;4 - Repealed. Pub. L. 105&#8211;277, div. G, subdiv. B, title XXV, &sect;2503(d), Oct. 21, 1998, 112 Stat. 2681&#8211;837](%C2%A7%2000276%20to%20276a%E2%80%934%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20G%2C%20subdiv.%20B%2C%20title%20XXV%2C%20%C2%A72503%28d%29%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93837.md)
 - [&sect; 00276b - Repealed. Pub. L. 95&#8211;45, &sect;4(d)(4), June 15, 1977, 91 Stat. 223](%C2%A7%2000276b%20-%20Repealed.%20Pub.%20L.%2095%E2%80%9345%2C%20%C2%A74%28d%29%284%29%2C%20June%2015%2C%201977%2C%2091%20Stat.%20223.md)
 - [&sect; 00276c - Designation of Senate delegates to Conferences of the Interparliamentary Union](%C2%A7%2000276c%20-%20Designation%20of%20Senate%20delegates%20to%20Conferences%20of%20the%20Interparliamentary%20Union.md)
 - [&sect; 00276c&#8211;1 - Reports of expenditures by members of American groups or delegations and employees; consolidated reports by Congressional committees&#8230;](%C2%A7%2000276c%E2%80%931%20-%20Reports%20of%20expenditures%20by%20members%20of%20American%20groups%20or%20delegations%20and%20employees%3B%20consolidated%20reports%20by%20Congressional%20committees%E2%80%A6.md)

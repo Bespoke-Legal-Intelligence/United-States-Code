@@ -54,7 +54,7 @@ An entity that receives a grant under this section shall annually prepare and su
 
 #### (d) Reports and updates to State agencies
 
-An entity that receives a grant under this section shall prepare and submit to the lead agency the report described in subsection (c) of this section and quarterly updates concerning the activities described in subsection (c) of this section.
+An entity that receives a grant under this section shall prepare and submit to the lead agencythe report described in subsection (c) of this section and quarterly updates concerning the activities described in subsection (c) of this section.
 
 #### (e) Coordination
 

@@ -20,7 +20,7 @@ As used in this chapter—
 
 #### Amendments
 
-1980—Subsec. (b)(2). Pub. L. 96–501 substituted “(2) any contiguous areas, not in excess of seventy-five airline miles from said region, which are a part of the service area of a rural electric cooperative served by the Administrator on December 5, 1980, which has a distribution system from which it serves both within and without said region” for “(2) any contiguous areas, not in excess of seventy-five airline miles from said region, which are a part of the service area of a distribution cooperative which has (i) no generating facilities, and (ii) a distribution system from which it serves both within and without said region”.
+1980—Subsec. (b)(2). Pub. L. 96–501 substituted “(2) any contiguous areas, not in excess of seventy-five airline miles from said region, which are a part of the service area of a rural electric cooperative served by the Administrator on December 5, 1980, which has a distribution system from which it serves both within and without said region” for “(2) any contiguous areas, notin excess of seventy-five airline miles from said region, which are a part of the service area of a distribution cooperative which has (i) no generating facilities, and (ii) a distribution system from which it serves both within and without said region”.
 
 #### Effective Date of 1980 Amendment
 

@@ -15,7 +15,7 @@
 
 1996—Pub. L. 104–331, §3(a)(2), Oct. 26, 1996, 110 Stat. 4069, added item 1296.
 
-1984—Pub. L. 98–620, title IV, §402(29)(C), Nov. 8, 1984, 98 Stat. 3359, struck out item 1296 “Precedence of cases in the United States Court of Appeals for the Federal Circuit”.
+1984—Pub. L. 98–620, title IV, §402(29)(C), Nov. 8, 1984, 98 Stat. 3359, struck out item 1296 “Precedence of casesin the United States Court of Appeals for the Federal Circuit”.
 
 1982—Pub. L. 97–164, title I, §127(b), Apr. 2, 1982, 96 Stat. 39, added items 1295 and 1296.
 

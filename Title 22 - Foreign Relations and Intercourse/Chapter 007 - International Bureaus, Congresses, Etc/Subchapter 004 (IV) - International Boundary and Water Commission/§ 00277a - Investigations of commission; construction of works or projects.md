@@ -4,7 +4,7 @@ The Secretary of State, acting through the American Commissioner, International 
 
 The President is authorized and empowered to construct, operate, and maintain on the Rio Grande River below Fort Quitman, Texas, any and all works or projects which are recommended to the President as the result of such investigations and by the President are deemed necessary and proper.
 
-(May 13, 1924, ch. 153, §2, 43 Stat. 118; Mar. 3, 1927, ch. 381, §2, 44 Stat. 1403; Aug. 19, 1935, ch.561, 49 Stat. 660; Pub. L. 101–246, title IV, §412(b)(2), Feb. 16, 1990, 104 Stat. 70.)
+(May 13, 1924, ch. 153, §2, 43 Stat. 118; Mar. 3, 1927, ch. 381, §2, 44 Stat. 1403; Aug. 19, 1935, ch. 561, 49 Stat. 660; Pub. L. 101–246, title IV, §412(b)(2), Feb. 16, 1990, 104 Stat. 70.)
 
 #### Amendments
 

@@ -188,7 +188,7 @@ Scope of Planning Process.—
 
 &emsp;(1)
 
-In general.—The metropolitan transportation planning process for a metropolitan area under this section shall provide for consideration of projects and strategies that will—
+In general.—The metropolitan transportation planning process for a metropolitanarea under this section shall provide for consideration of projects and strategies that will—
 
 &emsp;&emsp;(A) support the economic vitality of the metropolitan area, especially by enabling global competitiveness, productivity, and efficiency;
 
@@ -238,7 +238,7 @@ Coordination with clean air act agencies.—In metropolitan areas which are in n
 
 &emsp;(4)
 
-Participation by interested parties.—Before approving a long-range transportation plan, each metropolitan planning organization shall provide citizens, affected public agencies, representatives of transportation agency employees, freight shippers, providers of freight transportation services, private providers of transportation, representatives of users of public transit, and other interested partieswith a reasonable opportunity to comment on the long-range transportation plan, in a manner that the Secretary deems appropriate.
+Participation by interested parties.—Before approving a long-range transportation plan, each metropolitan planning organization shall provide citizens, affected public agencies, representatives of transportation agency employees, freight shippers, providers of freight transportation services, private providers of transportation, representatives of users of public transit, and other interested parties with a reasonable opportunity to comment on the long-range transportation plan, in a manner that the Secretary deems appropriate.
 
 &emsp;(5)
 
@@ -362,7 +362,7 @@ Publication.—
 
 &emsp;&emsp;(A)
 
-Publication of transportation improvement programs.—A transportation improvement program involving Government participation shall be published or otherwise made readily available by the metropolitan planning organization for public review.
+Publication of transportation improvement programs.—A transportation improvement program involving Government participation shall be published or otherwise made readily available by themetropolitan planning organization for public review.
 
 &emsp;&emsp;(B)
 
@@ -568,7 +568,7 @@ Subsec. (h)(5)(A). Pub. L. 105–178, §1203(<i>o</i>), as added by Pub. L. 105�
 
 Subsec. (i)(1). Pub. L. 105–178, §1203(i)(1), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “The Secretary shall designate as transportation management areas all urbanized areas over 200,000 population. The Secretary shall designate any additional area as a transportation management area upon the request of the Governor and the metropolitan planning organization designated for such area or the affected local officials. Such additional areas shall include upon such a request the Lake Tahoe Basin as defined by Public Law 96–551.”
 
-Subsec. (i)(4). Pub. L. 105–178, §1203(i)(2), reenacted heading without change and amended text of par. (4) generally. Prior to amendment, text read as follows: “All projects carried out within the boundaries of a transportation management area with Federal participation pursuant to this title (excluding projects undertaken on the National Highway System and pursuant to the bridge and Interstate maintenance programs) or pursuant to chapter 53 of title 49 shall be selected by the metropolitan planning organization designated for such area in consultation with the State and in conformance with the transportation improvement program for such area and priorities established therein. Projects undertaken within the boundaries of a transportation management area on the National Highway System or pursuant to the bridge and Interstate maintenance programs shall be selected by the State in cooperation with the metropolitan planning organization designated for such area and shall be in conformance with the transportation improvement program for such area.”
+Subsec. (i)(4). Pub. L. 105–178, §1203(i)(2), reenacted heading without change and amended text of par. (4) generally. Prior to amendment, text read as follows: “All projects carried out within the boundaries of a transportation management area with Federal participation pursuant to this title (excluding projects undertaken on the National Highway System and pursuant to the bridge and Interstate maintenance programs) or pursuant to chapter 53 of title 49 shall be selected by the metropolitan planning organization designated for such area in consultation with the State and in conformance with the transportation improvement program for such area and priorities established therein. Projects undertaken within the boundaries of a transportation management area on the National Highway System or pursuant to the bridge and Interstate maintenance programs shall be selected by the State in cooperation with the metropolitan planning organizationdesignated for such area and shall be in conformance with the transportation improvement program for such area.”
 
 Subsec. (i)(5). Pub. L. 105–178, §1203(i)(3), reenacted heading without change and amended text of par. (5) generally. Prior to amendment, text read as follows: “The Secretary shall assure that each metropolitan planning organization in each transportation management area is carrying out its responsibilities under applicable provisions of Federal law, and shall so certify at least once every 3 years. The Secretary may make such certification only if (1) a metropolitan planning organization is complying with the requirements of this section and other applicable requirements of Federal law, and (2) there is a transportation improvement program for the area that has been approved by the metropolitan planning organization and the Governor. If after September 30, 1993, a metropolitan planning organization is not certified by the Secretary, the Secretary may withhold, in whole or in part, the apportionment under section 104(b)(3) attributed to the relevant metropolitan area pursuant to section 133(d)(3) and capital funds apportioned under the formula program under section 5336 of title 49. If a metropolitan planning organization remains uncertified for more than 2 consecutive years after September 30, 1994, 20 percent of the apportionment attributed to that metropolitan area under section 133(d)(3) and capital funds apportioned under the formula program under section 5336 of title 49 shall be withheld. The withheld apportionments shall be restored to the metropolitan area at such time as the metropolitan planning organization is certified by the Secretary. The Secretary shall not withhold certification under this section based upon the policies and criteria established by a metropolitan planning organization or transit grant recipient for determining the feasibility of private enterprise participation in accordance with section 5306(a) of title 49.”
 
@@ -606,7 +606,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriatedor made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
 
 #### Demonstration Project for Restricted Access to Central Business District of Metropolitan Areas
 

@@ -16,7 +16,7 @@ For purposes of subsection (a) of this section—
 
 &emsp;(1) the term “credit union” means a member-owned, nonprofit, cooperative depository institution—
 
-&emsp;&emsp;(A) which is formed to permit individuals in the field of membership specified in suchinstitution's charter to pool their savings, lend the savings to one another, and own the organization where they save, borrow, and obtain related financial services; and
+&emsp;&emsp;(A) which is formed to permit individuals in the field of membership specified in such institution's charter to pool their savings, lend the savings to one another, and own the organization where they save, borrow, and obtain related financial services; and
 
 &emsp;&emsp;(B) whose members are united by a common bond and democratically operate the institution; and
 

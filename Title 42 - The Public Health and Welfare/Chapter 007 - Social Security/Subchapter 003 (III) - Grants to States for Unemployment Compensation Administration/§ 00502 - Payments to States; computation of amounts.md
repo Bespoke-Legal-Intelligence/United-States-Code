@@ -24,7 +24,7 @@ For provision deeming a reference in other laws to a provision of the 1939 Code 
 
 1992—Subsec. (c). Pub. L. 102–318 added subsec. (c).
 
-1986—Subsec. (a). Pub. L. 99–603 inserted at end of first sentence “, including 100 percent of so much of the reasonable expenditures of the State as are attributable to the costs of the implementation and operation of the immigration status verification system described in section 1320b–7(d) of this title”.
+1986—Subsec. (a). Pub. L. 99–603 inserted at end of first sentence “, including 100 percent of so much of thereasonable expenditures of the State as are attributable to the costs of the implementation and operation of the immigration status verification system described in section 1320b–7(d) of this title”.
 
 1984—Subsec. (b). Pub. L. 98–369 substituted “the Fiscal Service of the Department of the Treasury” for “the Division of Disbursement of the Treasury Department”.
 

@@ -8,7 +8,7 @@ The Secretary and the Governor of the telephone bank shall—
 
 &emsp;(2) in evaluating the feasibility of a telephone loan to be made to a borrower for telephone services, use—
 
-&emsp;&emsp;(A) with respect to items for which the regulatory authority with jurisdiction over the provision of such services has approved the depreciation rates used by the borrower, such approved rates; and
+&emsp;&emsp;(A) with respect to items for which the regulatory authority with jurisdiction overthe provision of such services has approved the depreciation rates used by the borrower, such approved rates; and
 
 &emsp;&emsp;(B) with respect to other items, the average of the depreciation rates used by borrowers of telephone loans made under this chapter;
 

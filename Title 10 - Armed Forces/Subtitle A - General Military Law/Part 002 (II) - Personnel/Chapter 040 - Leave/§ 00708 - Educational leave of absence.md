@@ -14,7 +14,7 @@
 
 (2) A period during which a member is on a leave of absence under this section shall be counted for the purposes of computing the amount of the member's basic pay, for the purpose of determining the member's eligibility for retired pay, and for the purpose of determining the member's time in grade for promotion purposes, but may not be counted for the purposes of completion of the term of enlistment of the member (in the case of an enlisted member) or for purposes of section 3021 of title 38, relating to entitlement to supplemental educational assistance.
 
-(d)(1) In time of war, or of national emergency declared by the President or the Congress afterOctober 19, 1984, the Secretary concerned may cancel any leave of absence granted under this section.
+(d)(1) In time of war, or of national emergency declared by the President or the Congress after October 19, 1984, the Secretary concerned may cancel any leave of absence granted under this section.
 
 (2) The Secretary concerned may cancel a leave of absence granted to a member under this section if the Secretary determines that the member is not satisfactorily pursuing the program of education for which the leave was granted.
 

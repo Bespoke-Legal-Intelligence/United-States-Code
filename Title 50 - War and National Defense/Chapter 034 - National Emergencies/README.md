@@ -50,7 +50,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 1706 of this title; title 10 sections 2662, 2808; title 30 section 185; title 33 section 2293.
+This chapter is referred to in section 1706 of this title; title 10 sections 2350j, 2662, 2808; title 30 section 185; title 33 section 2293.
 
 
 ---

@@ -18,7 +18,7 @@
 
 The date of enactment of this section, referred to in subsec. (a)(2)(A), is Sept. 9, 1966.
 
-Section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2), referred to in subsec. (a)(2)(B), was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632. Section 7(b) of Pub. L. 89–554 provided that references to sections of former Title 5, Executive Departmentsand Government Officers and Employees, are to be deemed to be references to corresponding provisions of Title 5, Government Organization and Employees. Provisions similar to section 73b–2 of former title 5 are now contained in section 5703 of Title 5, Government Organization and Employees.
+Section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2), referred to in subsec. (a)(2)(B), was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632. Section 7(b) of Pub. L. 89–554 provided that references to sections of former Title 5, Executive Departments and Government Officers and Employees, are to be deemed to be references to corresponding provisions of Title 5, Government Organization and Employees. Provisions similar to section 73b–2 of former title 5 are now contained in section 5703 of Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -26,7 +26,7 @@ Section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2), referre
 
 1973—Subsec. (a)(1). Pub. L. 93–87 added the National Highway Traffic Safety Administrator to the membership of the National Highway Safety Advisory Committee.
 
-1967—Subsec. (a)(1). Pub. L. 90–150, §1(1), substituted “Department of Transportation” for “Department of Commerce”, increased number of Committee appointees from twenty-nine to thirty-five, and provided for selection of members from representatives of national organizations of passenger car, bus, and truck owners.
+1967—Subsec. (a)(1). Pub. L. 90–150, §1(1), substituted “Department of Transportation” for “Department of Commerce”, increased number of Committee appointees from twenty-nine to thirty-five, and providedfor selection of members from representatives of national organizations of passenger car, bus, and truck owners.
 
 Subsec. (a)(2)(A). Pub. L. 90–150, §1(2), substituted provisions for expirations of term of office of initial appointees one, two, and three years after date of appointment for twelve, twelve, and eleven members, respectively, for former provisions for such expiration one, two, and three years following enactment date of Sept. 9, 1966, for ten, ten, and nine members, respectively, and prohibited reappointment within one year after end of preceding term of member serving a three-year term of office.
 

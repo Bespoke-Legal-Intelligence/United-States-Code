@@ -60,7 +60,7 @@ Subsec. (c)(3). Pub. L. 90–19, §5(d)(10), (11), substituted “Secretary of H
 
 Subsec. (d). Pub. L. 90–19, §5(d)(12), (13), substituted “Secretary of Housing and Urban Development may utilize funds made available to him” for “Housing and Home Finance Administrator, the Federal Housing Commissioner and the Public Housing Commissioner, respectively, may utilize funds made available to them” and struck out “of the respective agencies” after “librarians”.
 
-1961—Subsec. (c)(3). Pub. L. 87–70, §909(1), struck out provisions which made section 5 of title 41 inapplicableto any purchase or contract by officers (or their agencies) for services or supplies if the amount thereof does not exceed $300.
+1961—Subsec. (c)(3). Pub. L. 87–70, §909(1), struck out provisions which made section 5 of title 41 inapplicable to any purchase or contract by officers (or their agencies) for services or supplies if the amount thereof does not exceed $300.
 
 Subsec. (d). Pub. L. 87–70, §909(2), added subsec. (d).
 

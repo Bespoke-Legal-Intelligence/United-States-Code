@@ -6,7 +6,7 @@
 
 &emsp;(2) resolve questions of common interest to those States and local governments before making application.
 
-(b) Subject to regulations prescribed under subsection (a) of this section and other law, the head of an executive agency may do the following by an order of the agency head or by agreement with another executive agency:
+(b) Subject to regulations prescribed under subsection (a) of this section and other law, thehead of an executive agency may do the following by an order of the agency head or by agreement with another executive agency:
 
 &emsp;(1) identify related programs likely to be particularly suitable in providing joint financing for specific kinds of projects.
 

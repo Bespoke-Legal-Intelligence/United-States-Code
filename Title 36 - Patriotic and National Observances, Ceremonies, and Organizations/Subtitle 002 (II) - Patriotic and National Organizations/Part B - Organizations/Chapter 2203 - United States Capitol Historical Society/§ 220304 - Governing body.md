@@ -46,33 +46,49 @@ Oct. 20, 1978, Pub. L. 95–493, §§7, 8, 92 Stat. 1645.
 
 36:1207(a) (22d–last words), (b), (d).
 
+&nbsp;
+
 220304(a)(3)
 
 36:1208(b) (1st sentence).
+
+&nbsp;
 
 220304(a)(4)
 
 36:1207(c).
 
+&nbsp;
+
 220304(b)(1)
 
 36:1208(a).
+
+&nbsp;
 
 220304(b)(2)
 
 36:1208(c).
 
+&nbsp;
+
 220304(b)(3)
 
 36:1208(d).
+
+&nbsp;
 
 220304(b)(4)
 
 36:1208(b) (last sentence).
 
+&nbsp;
+
 220304(c)
 
 36:1208(e).
+
+&nbsp;
 
 In this section, the word “active” is omitted as unnecessary.
 

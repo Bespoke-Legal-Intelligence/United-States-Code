@@ -44,7 +44,7 @@ Unless otherwise defined by an Act amended by this title,<sup>1</sup> for purpos
 
 This title, referred to in introductory provisions, means title III of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4244, which enacted this chapter and sections 3156–1, 3201, and 3227 of Title 20, Education, and amended sections 1786, 4994, and 5081 of this title and sections 3156a, 3181, 3191 to 3195, 3197, 3212, and 3222 of Title 20. For complete classification of title III to the Code, see Tables.
 
-Subtitle A (other than section 3201), referred to in par. (9)(A), is subtitle A (§§3101–3402) of title III of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4245, which enacted former sections 3156–1, 3201, and 3227 of Title 20, and amended sections 4994 and 5081 of this title and formersections 3156a, 3181, 3191 to 3195, 3197, 3212, and 3222 of Title 20. For complete classification of subtitle A to the Code, see Tables.
+Subtitle A (other than section 3201), referred to in par. (9)(A), is subtitle A (§§3101–3402) of title III of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4245, which enacted former sections 3156–1, 3201, and 3227 of Title 20, and amended sections 4994 and 5081 of this title and former sections 3156a, 3181, 3191 to 3195, 3197, 3212, and 3222 of Title 20. For complete classification of subtitle A to the Code, see Tables.
 
 Section 3201, referred to in par. (9)(A), (B), is section 3201 of Pub. L. 100–690, title III, Nov. 18, 1988, 102 Stat. 4246, which amended section 1786 of this title.
 

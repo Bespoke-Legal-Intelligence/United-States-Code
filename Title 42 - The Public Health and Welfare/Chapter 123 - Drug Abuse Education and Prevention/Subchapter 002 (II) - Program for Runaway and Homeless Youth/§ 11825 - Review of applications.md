@@ -18,7 +18,7 @@ In reviewing applications submitted under this subchapter, the appropriate Feder
 
 #### (b) Competitive process
 
-(1) Applications submitted under this subchapter shall be selected for approval through a competitive process to be established by rule by the appropriate Federal officer. As part of such a process, such officer shall publish a notice in the Federal Register—
+(1) Applications submitted under this subchapter shall be selected for approval through acompetitive process to be established by rule by the appropriate Federal officer. As part of such a process, such officer shall publish a notice in the Federal Register—
 
 &emsp;(A) announcing the availability of funds to carry out this subchapter,
 

@@ -76,7 +76,7 @@ The flag shall also be flown at half-staff for such period at all United States 
 
 (c) An Associate Justice of the Supreme Court, a member of the Cabinet, a former Vice President, the President pro tempore of the Senate, the Majority Leader of the Senate, the Minority Leader of the Senate, the Majority Leader of the House of Representatives, or the Minority Leader of the House of Representatives: from the day of death until interment.
 
-2\. The flag of the United States shall be flown at half-staff on all buildings, grounds, and naval vessels of the Federal Government in the metropolitan area of the District of Columbia on the day of death and on the following day upon the death of a United States Senator,Representative, Territorial Delegate, or the Resident Commissioner from the Commonwealth of Puerto Rico, and it shall also be flown at half-staff on all buildings, grounds, and naval vessels of the Federal Government in the State, Congressional District, Territory, or Commonwealth of such Senator, Representative, Delegate, or Commissioner, respectively, from the day of death until interment.
+2\. The flag of the United States shall be flown at half-staff on all buildings, grounds, and naval vessels of the Federal Government in the metropolitan area of the District of Columbia on the day of death and on the following day upon the death of a United States Senator, Representative, Territorial Delegate, or the Resident Commissioner from the Commonwealth of Puerto Rico, and it shall also be flown at half-staff on all buildings, grounds, and naval vessels of the Federal Government in the State, Congressional District, Territory, or Commonwealth of such Senator, Representative, Delegate, or Commissioner, respectively, from the day of death until interment.
 
 3\. The flag of the United States shall be flown at half-staff on all buildings and grounds of the Federal Government in a State, Territory, or possession of the United States upon the death of the Governor of such State, Territory, or possession from the day of death until interment.
 
@@ -91,4 +91,8 @@ IN WITNESS WHEREOF, I have hereunto set my hand and caused the Seal of the Unite
 \[seal\]
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 10 section 2249b; title 36 section 136.
 

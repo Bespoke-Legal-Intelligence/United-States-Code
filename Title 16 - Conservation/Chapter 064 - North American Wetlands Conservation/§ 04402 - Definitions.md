@@ -2,7 +2,7 @@
 
 For the purposes of this chapter:
 
-&emsp;(1) The term “Agreement” means the Tripartite Agreement signed in March 1988, by the Director General for Ecological Conservation of Natural Resources of Mexico, the Director of the Canadian Wildlife Service, and the Director of the United States Fish and Wildlife Service.
+&emsp;(1) The term “Agreement” means the Tripartite Agreement signed in March 1988, by the Director General for Ecological Conservation of Natural Resources of Mexico, the Director of the Canadian Wildlife Service, andthe Director of the United States Fish and Wildlife Service.
 
 &emsp;(2) The term “appropriate Committees” means the Committee on Environment and Public Works of the United States Senate and the Committee on Merchant Marine and Fisheries of the United States House of Representatives.
 
@@ -30,7 +30,7 @@ For the purposes of this chapter:
 
 #### References in Text
 
-The Migratory Bird Treaty Act, referred to in par. (5), is act July 3, 1918, ch. 128, 40 Stat. 755, as amended,which is classified generally to subchapter II (§703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
+The Migratory Bird Treaty Act, referred to in par. (5), is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II (§703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
 
 The Endangered Species Act, referred to in par. (5), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 

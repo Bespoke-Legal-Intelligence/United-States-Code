@@ -6,15 +6,17 @@ Policies and Procedures.—The Secretary of Defense shall establish policies and
 
 (b)
 
-Funding Levels.—The Under Secretary of Defense for Acquisition and Technology each year shall recommend to the Secretary of Defense the funding levels to be requested in the defense budget to implement the education and training programs under this subchapter. The Secretary of Defense shall set forth separately the funding levels requested for such programs in the Department of Defense budget justification documents submitted in support of the President's budget submitted to Congress under section 1105 of title 31.
+Funding Levels.—The Under Secretary of Defense for Acquisition, Technology, and Logistics each year shall recommend to the Secretary of Defense the funding levels to be requested in the defense budget to implement the education and training programs under this subchapter. The Secretary of Defense shall set forth separately the funding levels requested for such programs in the Department of Defense budget justification documents submitted in support of the President's budget submitted to Congress under section 1105 of title 31.
 
 (c)
 
 Programs.—The Secretary of each military department, acting through the service acquisition executive for that department, shall establish and implement the education and training programs authorized by this subchapter. In carrying out such requirement, the Secretary concerned shall ensure that such programs are established and implemented throughout the military department concerned and, to the maximum extent practicable, uniformly with the programs of the other military departments.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1651; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1651; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717.)
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 1993—Subsec. (b). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 

@@ -34,9 +34,13 @@ Oct. 26, 1992, Pub. L. 102–522, title II, §§202(a), 204(a)(1), 106 Stat. 341
 
 36:5201(a) (last sentence).
 
+&nbsp;
+
 151301(c)
 
 36:5203(a)(1).
+
+&nbsp;
 
 Subsection (a) is substituted for “There is established the National Fallen Firefighters Foundation (hereafter in this chapter referred to as the ‘Foundation’)” for consistency in the revised title.
 

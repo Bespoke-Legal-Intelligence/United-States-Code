@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(B) Such country is a party to an arrangement of countries and participates in any action pursuant to such arrangement, the effect of which is—
 
-&emsp;&emsp;&emsp;(i) to withhold supplies of vital commodity resources from international trade orto raise the price of such commodities to an unreasonable level, and
+&emsp;&emsp;&emsp;(i) to withhold supplies of vital commodity resources from international trade or to raise the price of such commodities to an unreasonable level, and
 
 &emsp;&emsp;&emsp;(ii) to cause serious disruption of the world economy.
 
@@ -112,7 +112,7 @@ In determining whether to designate any country as a beneficiary developing coun
 
 #### (2) Changed circumstances
 
-&emsp;The President shall, after complying with the requirements of subsection (f)(2) of this section, withdraw or suspend the designation of any country as a beneficiary developing country if, after such designation, the President determines that as the result of changed circumstances such country would be barred from designation as a beneficiary developing country under subsection (b)(2) of this section. Such country shall cease to be a beneficiary developing country on the day on which the President issues an Executive order or Presidential proclamation revoking the designation of such country under this subchapter.
+&emsp;The President shall, after complying with the requirements of subsection (f)(2) of this section, withdraw or suspend the designation of any country as a beneficiary developing country if, after such designation, the President determines that as the result of changed circumstances such country would be barred from designation as a beneficiary developingcountry under subsection (b)(2) of this section. Such country shall cease to be a beneficiary developing country on the day on which the President issues an Executive order or Presidential proclamation revoking the designation of such country under this subchapter.
 
 #### (3) Advice to Congress
 

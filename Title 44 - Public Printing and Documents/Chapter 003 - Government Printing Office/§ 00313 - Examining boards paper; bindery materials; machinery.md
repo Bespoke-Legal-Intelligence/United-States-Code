@@ -4,7 +4,7 @@ The Deputy Public Printer, the superintendent of printing, and a person designat
 
 The Deputy Public Printer, the superintendent of binding, and a person designated by the Joint Committee on Printing shall constitute a board to examine and report in writing on material, except paper, for the use of the bindery.
 
-The Deputy Public Printer, the superintendent of printing, and a person designated by the Joint Committee on Printing shall constitute a board of condemnation, who, upon the call of the Public Printer, shall determine the condition of presses and other machinery and material used in the Government Printing Office, with a view to condemnation.
+The Deputy Public Printer, the superintendent of printing, and a person designated by the Joint Committee on Printing shall constitute a boardof condemnation, who, upon the call of the Public Printer, shall determine the condition of presses and other machinery and material used in the Government Printing Office, with a view to condemnation.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1242.)
 

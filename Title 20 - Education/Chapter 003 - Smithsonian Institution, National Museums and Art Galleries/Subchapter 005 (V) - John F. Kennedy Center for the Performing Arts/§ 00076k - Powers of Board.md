@@ -58,7 +58,7 @@ The actions of the Board relating to performing arts and to payments made or dir
 
 #### (A) In general
 
-&emsp;&emsp;For the purposes of the National Labor Relations Act (29 U.S.C. 151 et seq.) and theLabor-Management Relations Act, 1947 (29 U.S.C. 141 et seq.)—
+&emsp;&emsp;For the purposes of the National Labor Relations Act (29 U.S.C. 151 et seq.) and the Labor-Management Relations Act, 1947 (29 U.S.C. 141 et seq.)—
 
 &emsp;&emsp;&emsp;(i) each theatrical employee shall be considered to be an “employee” within the meaning of section 2(3) of the National Labor Relations Act (29 U.S.C. 152(3)); and
 

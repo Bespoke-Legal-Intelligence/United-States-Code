@@ -30,7 +30,7 @@
 
 #### Amendments
 
-1975—Subsec. (j). Pub. L. 93–643 substituted provision that compensation shall be paid the owner for the relocation, removal, or disposal of junkyards lawfully established under State law, for provision relating topayment of just compensation for relocation, removal, or disposal of junkyards (1) lawfully in existence on Oct. 22, 1965, (2) lawfully along any highway made a part of the interstate or primary system on or after Oct. 22, 1965, and before Jan. 1, 1968, and (3) lawfully established on or after Jan. 1, 1968.
+1975—Subsec. (j). Pub. L. 93–643 substituted provision that compensation shall be paid the owner for the relocation, removal, or disposal of junkyards lawfully established under State law, for provision relating to payment of just compensation for relocation, removal, or disposal of junkyards (1) lawfully in existence on Oct. 22, 1965, (2) lawfully along any highway made a part of the interstate or primary system on or after Oct. 22, 1965, and before Jan. 1, 1968, and (3) lawfully established on or after Jan. 1, 1968.
 
 1970—Subsec. (m). Pub. L. 91–605 authorized to be appropriated not to exceed $3,000,000, $3,000,000, and $5,000,000, for the fiscal years ending June 30, 1971, 1972, and 1973, respectively.
 

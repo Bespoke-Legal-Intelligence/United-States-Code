@@ -12,7 +12,7 @@ The President is authorized to issue guarantees in furtherance of the purposes o
 
 &emsp;(2) subject to subsection (d) of this section, in fiscal years 1994 through 1997, up to $2,000,000,000 in each fiscal year may be issued on October 1 or thereafter.
 
-&emsp;(3) If less than the full amount of guarantees authorized to be made available in a fiscal year pursuant to paragraphs (1) and (2) of this subsection is issued to Israel during that fiscal year, the authority to issue the balance of such guarantees shall extend to any subsequent fiscal year ending on or before September 30, 1998.
+&emsp;(3) If less than the full amount of guarantees authorized to be made available in a fiscalyear pursuant to paragraphs (1) and (2) of this subsection is issued to Israel during that fiscal year, the authority to issue the balance of such guarantees shall extend to any subsequent fiscal year ending on or before September 30, 1998.
 
 &emsp;(4)(A) Not later than September 1 of each year during the period in which the President is authorized to issue loan guarantees under subsection (a) of this section, beginning in fiscal year 1993, the President shall notify the appropriate congressional committees in writing of his intentions regarding the exercise of that authority for the fiscal year beginning on October 1 of that year, including a statement of the total principal amount of guarantees, if any, that the President proposes to issue for that fiscal year.
 
@@ -52,7 +52,7 @@ Any suspension or termination pursuant to subsection (f) of this section shall b
 
 #### (h) Economic context
 
-The effective absorption of immigrants into Israel from the republics of the former Soviet Union and Ethiopia within the private sector requires large investment and economic restructuring to promote market efficiency and thereby contribute to productive employment and sustainable growth. Congress recognizes that the Government of Israel is developing an economic strategy designed to achieve these goals, and that the Government of Israel intends to adopt a comprehensive, multi-year economic strategy based on prudent macroeconomic policies and structural reforms. Congress also recognizes that these policies are being designed to reduce direct involvement of the government in the economic system and to promote private enterprise, important prerequisites for economic stability and sustainable growth.
+The effective absorption of immigrants into Israel from the republics of the former Soviet Union and Ethiopia within the private sector requires large investment and economic restructuring to promote market efficiency and thereby contribute to productive employment and sustainable growth. Congress recognizes that the Government of Israel is developing an economic strategy designed to achieve these goals, and that the Government of Israel intends toadopt a comprehensive, multi-year economic strategy based on prudent macroeconomic policies and structural reforms. Congress also recognizes that these policies are being designed to reduce direct involvement of the government in the economic system and to promote private enterprise, important prerequisites for economic stability and sustainable growth.
 
 #### (i) Consultations
 
@@ -91,6 +91,10 @@ Section 601(b) of the International Security Assistance and Arms Export Control 
 #### Change of Name
 
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### subpart iv—overseas private investment corporation
 

@@ -2,27 +2,29 @@
 
 The following named bureaus, administrations, services, offices, and programs of the public service, and all that pertains thereto, shall be under the jurisdiction and subject to the control of the Secretary of Commerce:
 
-(a) National Oceanic and Atmospheric Administration;
+&emsp;(1) National Oceanic and Atmospheric Administration;
 
-(b) United States Travel and Tourism Administration;
+&emsp;(2) United States Travel and Tourism Administration;
 
-(c) National Institute of Standards and Technology;
+&emsp;(3) National Institute of Standards and Technology;
 
-(d) Patent and Trademark Office;
+&emsp;(4) United States Patent and Trademark Office <sup>1</sup>
 
-(e) Bureau of the Census;
+&emsp;(5) Bureau of the Census;
 
-(f) United States Fire Administration; and
+&emsp;(6) United States Fire Administration; and
 
-(g) such other bureaus or other organizational units as the Secretary of Commerce may from time to time establish in accordance with law.
+&emsp;(7) such other bureaus or other organizational units as the Secretary of Commerce may from time to time establish in accordance with law.
 
-(Feb. 14, 1903, ch. 552, §§4, 12, 32 Stat. 826, 830; June 17, 1910, ch. 301, §4, 36 Stat. 537; Aug. 23, 1912, ch. 350, §1, 37 Stat. 407; Mar. 4, 1913, ch. 141, §3, 37 Stat. 737; Jan. 5, 1923, ch. 23, §1, 42 Stat. 1109; June 30, 1932, ch. 314, §501, 47 Stat. 415; Feb. 22, 1934, Ex. Ord. 6611; May 27, 1936, ch. 463, §1, 49 Stat. 1380; 1939 Reorg. Plan No. II, §§2(a), 4(e), 6, eff. July 1, 1936, 4 F.R. 2731, 53 Stat. 1432; 1940 Reorg. Plan No. IV, §§7, 8, eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1235, 1236; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380; Aug. 4, 1949, ch. 393, §20, 63 Stat. 561; 1949 Reorg. Plan No. 7, §1, eff. Aug. 19, 1949, 14 F.R. 5228, 63 Stat. 1070; 1950 Reorg. Plan No. 21, §§101, 106, 201, 15 F.R. 3178, 64 Stat. 1273; Pub. L. 93–498, §23, Oct. 29, 1974, 88 Stat. 1549; Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 95–422, §2(c), Oct. 5, 1978, 92 Stat. 932; Pub. L. 97–31, §12(6), Aug. 6, 1981, 95 Stat. 154; Pub. L. 97–63, §4(a)(1), Oct. 16, 1981, 95 Stat. 1014; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
+(Feb. 14, 1903, ch. 552, §§4, 12, 32 Stat. 826, 830; June 17, 1910, ch. 301, §4, 36 Stat. 537; Aug. 23, 1912, ch. 350, §1, 37 Stat. 407; Mar. 4, 1913, ch. 141, §3, 37 Stat. 737; Jan. 5, 1923, ch. 23, §1, 42 Stat. 1109; June 30, 1932, ch. 314, §501, 47 Stat. 415; Feb. 22, 1934, Ex. Ord. 6611; May 27, 1936, ch. 463, §1, 49 Stat. 1380; 1939 Reorg. Plan No. II, §§2(a), 4(e), 6, eff. July 1, 1936, 4 F.R. 2731, 53 Stat. 1432; 1940 Reorg. Plan No. IV, §§7, 8, eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1235, 1236; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380; Aug. 4, 1949, ch. 393, §20, 63 Stat. 561; 1949 Reorg. Plan No. 7, §1, eff. Aug. 19, 1949, 14 F.R. 5228, 63 Stat. 1070; 1950 Reorg. Plan No. 21, §§101, 106, 201, 15 F.R. 3178, 64 Stat. 1273; Pub. L. 93–498, §23, Oct. 29, 1974, 88 Stat. 1549; Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 95–422, §2(c), Oct. 5, 1978, 92 Stat. 932; Pub. L. 97–31, §12(6), Aug. 6, 1981, 95 Stat. 154; Pub. L. 97–63, §4(a)(1), Oct. 16, 1981, 95 Stat. 1014; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV,§4732(b)(6)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
 #### Codification
 
 Section was formerly classified to section 597 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+
+1999—Pub. L. 106–113 redesignated pars. (a) to (g) as (1) to (7), respectively, realigned margins, and in par. (4) substituted “United States Patent and Trademark Office” for “Patent and Trademark Office;”.
 
 1988—Subsec. (c). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
@@ -39,6 +41,10 @@ Section was formerly classified to section 597 of Title 5 prior to the general r
 “Patent and Trademark Office” substituted for “Patent Office”, in par. (d) pursuant to section 3 of Pub. L. 93–596, set out as a note under section 1 of Title 35, Patents.
 
 In order to implement the provisions of Reorganization Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, as amended, set out below, the following organizational names appearing in chapter IX of subtitle B of Title 15, Code of Federal Regulations, which covers the administration of the National Oceanic and Atmospheric Administration, were changed by order of the Acting Associate Administrator, 35 F.R. 19249, Dec. 19, 1970, as follows: Environmental Science Services Administration to National Oceanic and Atmospheric Administration (ESSA to NOAA); Coast and Geodetic Survey to National Ocean Survey; and Weather Bureau to National Weather Service.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Repeals
 
@@ -110,7 +116,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 The following are hereby transferred to the Secretary of Commerce:
 
-(a) All functions vested by law in the Bureau of Commercial Fisheries of the Department of the Interior or in its head, together with all functions vested by law in the Secretary of the Interior or the Department of the Interior which are administered through that Bureau or are primarily related to the Bureau, exclusive of functions with respect to (1) Great Lakes fishery research and activities related to the Great Lakes Fisheries Commission, (2) Missouri River Reservoir research, (3) the Gulf Breeze Biological Laboratory of the said Bureau at Gulf Breeze, Florida, and (4) Trans-Alaska pipeline investigations.
+(a) All functions vested by law in the Bureau of Commercial Fisheries of the Department of the Interior or in its head, together with all functions vested by law in the Secretary of the Interior or the Department of the Interior which are administered through that Bureau or are primarily related to the Bureau, exclusive offunctions with respect to (1) Great Lakes fishery research and activities related to the Great Lakes Fisheries Commission, (2) Missouri River Reservoir research, (3) the Gulf Breeze Biological Laboratory of the said Bureau at Gulf Breeze, Florida, and (4) Trans-Alaska pipeline investigations.
 
 (b) The functions vested in the Secretary of the Interior by the Act of September 22, 1959 (Public Law 86–359, 73 Stat. 642, 16 U.S.C. 760c–760g; relating to migratory marine species of game fish).
 
@@ -142,7 +148,7 @@ The following are hereby transferred to the Secretary of Commerce:
 
 (f) The President may appoint in the Administration, by and with the advice and consent of the Senate, two commissioned officers to serve at any one time as the designated heads of two principal constituent organizational entities of the Administration, or the President may designate one such officer as the head of such an organizational entity and the other as the head of the commissioned corps of the Administration. Any such designation shall create a vacancy on the active list and the officer while serving under this subsection shall have the rank, pay, and allowances of a rear admiral (upper half).
 
-(g) Any commissioned officer of the Administration who has served under (d) or (f) and is retired while soserving or is retired after the completion of such service while serving in a lower rank or grade, shall be retired with the rank, pay, and allowances authorized by law for the highest grade and rank held by him; but any such officer, upon termination of his appointment in a rank above that of captain, shall, unless appointed or assigned to some other position for which a higher rank or grade is provided, revert to the grade and number he would have occupied had he not served in a rank above that of captain and such officer shall be an extra number in that grade.
+(g) Any commissioned officer of the Administration who has served under (d) or (f) and is retired while so serving or is retired after the completion of such service while serving in a lower rank or grade, shall be retired with the rank, pay, and allowances authorized by law for the highest grade and rank held by him; but any such officer, upon termination of his appointment in a rank above that of captain, shall, unless appointed or assigned to some other position for which a higher rank or grade is provided, revert to the grade and number he would have occupied had he not served in a rank above that of captain and such officer shall be an extra number in that grade.
 
 #### Sec. 3. Performance of Transferred Functions
 
@@ -207,6 +213,8 @@ Ex. Ord. No. 11759, Jan. 15, 1974, 39 F.R. 2077, which related to compensation o
 #### Executive Order No. 12096
 
 Ex. Ord. No. 12096, Nov. 2, 1978, 43 F.R. 51597, which related to compensation of certain officials in the Industry and Trade Administration, was revoked by Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 989, set out as a note under section 2171 of Title 19, Customs Duties.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 
 <i><sup>1</sup></i><i> For additional Message of the President see Reorganization Plan No. 3 of 1970, Title 5, Appendix, Government Officers and Employees.</i>
 

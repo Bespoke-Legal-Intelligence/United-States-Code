@@ -70,7 +70,7 @@ Period of Appointment; Vacancies.—Members shall be appointed for the life of t
 
 “(e)
 
-Initial Meeting.—Not later than 30 days after the date of enactment of an Act making appropriations for the Departments of Labor, Health and Human Services, and Education, and related agencies, for the fiscal year ending September 30, 1999 \[Oct. 21, 1998\], regardlessof whether all the members of the Commission have been appointed as of that date,,\[sic\] the Commission shall hold its first meeting.
+Initial Meeting.—Not later than 30 days after the date of enactment of an Act making appropriations for the Departments of Labor, Health and Human Services, and Education, and related agencies, for the fiscal year ending September 30, 1999 \[Oct. 21, 1998\], regardless of whether all the members of the Commission have been appointed as of that date,,\[sic\] the Commission shall hold its first meeting.
 
 “(f)
 

@@ -46,7 +46,7 @@ delegate, as appropriate, to the Under Secretary for Arms Control and Internatio
 
 make, promulgate, issue, rescind, and amend such rules and regulations as may be necessary or desirable to the exercise of any authority conferred upon the Secretary of State by the provisions of this chapter.
 
-(Pub. L. 87–297, title IV, §401, formerly §41, Sept. 26, 1961, 75 Stat. 635; Pub. L. 93–332, §1(a), July 8, 1974, 88 Stat. 289; Pub. L. 95–108, §5, Aug. 17, 1977, 91 Stat. 872; Pub. L. 102–228, title IV, §401(b), Dec. 12, 1991, 105 Stat. 1698; Pub. L. 103–236, title VII, §715, Apr. 30, 1994, 108 Stat. 498; renumbered §401 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(13), (21), Oct. 21, 1998, 112 Stat. 2681–770, 2681–772.)
+(Pub. L. 87–297, title IV, §401, formerly §41, Sept. 26, 1961, 75 Stat. 635; Pub. L. 93–332, §1(a), July 8,1974, 88 Stat. 289; Pub. L. 95–108, §5, Aug. 17, 1977, 91 Stat. 872; Pub. L. 102–228, title IV, §401(b), Dec. 12, 1991, 105 Stat. 1698; Pub. L. 103–236, title VII, §715, Apr. 30, 1994, 108 Stat. 498; renumbered §401 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(13), (21), Oct. 21, 1998, 112 Stat. 2681–770, 2681–772.)
 
 #### References in Text
 
@@ -82,7 +82,7 @@ Subsec. (j). Pub. L. 105–277, §1223(13)(F), redesignated subsec. (j) as (i).
 
 1994—Subsec. (b). Pub. L. 103–236 substituted “except that the Director may, to the extent the Director determines necessary to the discharge of his responsibilities, appoint and fix the compensation of employees possessing specialized technical expertise without regard to the provisions of title 5 governing appointments in the competitive service and the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, if the Director ensures that—” for “except that during the 2-year period beginning on August 17, 1977, the Director may, to the extent he deems necessary to the discharge of his responsibilities, appoint and fix the compensation of officers and employees for the Agency without regard to such provisions, subject to the following requirements:”, added pars. (1) and (2), and struck out former pars. (1) to (3) which read as follows:
 
-“(1) an officer or employee whose compensation is fixed under the foregoing exception may not be paid asalary at a rate in excess of the rate payable under such chapter 51 and such subchapter III for positions of equivalent difficulty or responsibility except for (A) those officers and employees whose compensation is fixed by law, and (B) scientific and technical personnel who may be compensated at a rate not to exceed the rate in effect for grade GS–18 of the General Schedule;
+“(1) an officer or employee whose compensation is fixed under the foregoing exception may not be paid a salary at a rate in excess of the rate payable under such chapter 51 and such subchapter III for positions of equivalent difficulty or responsibility except for (A) those officers and employees whose compensation is fixed by law, and (B) scientific and technical personnel who may be compensated at a rate not to exceed the rate in effect for grade GS–18 of the General Schedule;
 
 “(2) the Director shall make adequate provision for administrative review of any determination to suspend or dismiss any officer or employee appointed under the foregoing exception; and
 
@@ -98,7 +98,7 @@ Subsecs. (g) to (i). Pub. L. 95–108, §5(b), added subsec. (g) and redesignate
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
 
 #### Delegation of Authority To Make Certifications Under Section 41(d) of the Arms Control and Disarmament Act
 

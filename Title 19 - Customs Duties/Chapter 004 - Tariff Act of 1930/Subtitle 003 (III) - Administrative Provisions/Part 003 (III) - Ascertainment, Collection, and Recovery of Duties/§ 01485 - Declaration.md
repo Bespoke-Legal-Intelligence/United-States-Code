@@ -30,7 +30,7 @@ The Secretary of the Treasury shall prescribe separate forms for the declaration
 
 #### (f) Deceased or insolvent persons; partnerships and corporations
 
-Whenever such merchandise is consigned to a deceased person, or to an insolvent person who has assigned the same for the benefit of his creditors, the executor or administrator, or the assignee of such person or trustee in a caseunder title 11, shall be considered as the importer of record; when consigned to a partnership the declaration of one of the partners only shall be required, and when consigned to a corporation such declaration may be made by any officer of such corporation. Whether the importer of record is an individual, a partnership, or a corporation, the declaration may be made by any person who has knowledge of the facts and who is specifically authorized by such individual, a member of such partnership, or an officer of such corporation to make such declaration.
+Whenever such merchandise is consigned to a deceased person, or to an insolvent person who has assigned the same for the benefit of his creditors, the executor or administrator, or the assignee of such person or trustee in a case under title 11, shall be considered as the importer of record; when consigned to a partnership the declaration of one of the partners only shall be required, and when consigned to a corporation such declaration may be made by any officer of such corporation. Whether the importer of record is an individual, a partnership, or a corporation, the declaration may be made by any person who has knowledge of the facts and who is specifically authorized by such individual, a member of such partnership, or an officer of such corporation to make such declaration.
 
 #### (g) Exported merchandise returned as undeliverable
 
@@ -82,7 +82,7 @@ Subsecs. (d), (f). Pub. L. 97–446 substituted “importer of record” for “
 
 1970—Subsec. (a). Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
 
-1938—Subsec. (f). Act June 25, 1938, changed the comma to a period after “such declaration may bemade by any officer of such corporation”, struck out “or by any other person specifically authorized by any officer of such corporation to make the same” after said comma, and inserted in lieu thereof a new sentence providing that whether the consignee is an individual, a partnership, or a corporation, the declaration may be made by any person having knowledge of the facts and authorized to make such declaration.
+1938—Subsec. (f). Act June 25, 1938, changed the comma to a period after “such declaration may be made by any officer of such corporation”, struck out “or by any other person specifically authorized by any officer of such corporation to make the same” after said comma, and inserted in lieu thereof a new sentence providing that whether the consignee is an individual, a partnership, or a corporation, the declaration may be made by any person having knowledge of the facts and authorized to make such declaration.
 
 #### Effective Date of 1983 Amendment
 

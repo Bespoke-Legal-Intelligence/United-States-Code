@@ -198,7 +198,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If this paragraph applies to any stock or securities for any period, the running of any 5-year period set forth in subparagraph (A) or (B) of paragraph (3) (whichever applies) shall be suspended during such period.
+&emsp;&emsp;If this paragraph applies to any stock or securities for any period, the running of any5-year period set forth in subparagraph (A) or (B) of paragraph (3) (whichever applies) shall be suspended during such period.
 
 #### (B) Property to which suspension applies
 
@@ -372,7 +372,7 @@ Subsec. (f). Pub. L. 105–34, §1012(b)(1), added subsec. (f).
 
 “(1)
 
-In general.—Except as provided in paragraph (2), no gain or loss shall be recognized to a corporation on any distribution to which this section (or so much of section 356 as relates to this section) applies and which is not in pursuance of a plan of reorganization.
+In general.—Except as provided in paragraph (2), no gain or loss shall be recognized to a corporation onany distribution to which this section (or so much of section 356 as relates to this section) applies and which is not in pursuance of a plan of reorganization.
 
 “(2)
 

@@ -1,10 +1,10 @@
 ### §8412. Immediate retirement
 
-(a) An employee or Member who is separated from the service after attaining the applicable minimum retirement age under subsection (h) and completing 30 years of service is entitled to an annuity.
+(a) An employee or Member who is separated from the service after attaining the applicableminimum retirement age under subsection (h) and completing 30 years of service is entitled to an annuity.
 
 (b) An employee or Member who is separated from the service after becoming 60 years of age and completing 20 years of service is entitled to an annuity.
 
-(c) An employee or Member who is separated from the service after becoming 62 years of ageand completing 5 years of service is entitled to an annuity.
+(c) An employee or Member who is separated from the service after becoming 62 years of age and completing 5 years of service is entitled to an annuity.
 
 (d) An employee who is separated from the service, except by removal for cause on charges of misconduct or delinquency—
 

@@ -8,7 +8,7 @@ A drug or device—
 
 &emsp;&emsp;(A)(i) requires approval by the Secretary under section 355 of this title before such drug may be introduced or delivered for introduction into interstate commerce; or
 
-&emsp;&emsp;(ii) requires licensing by the Secretary under section 262 of title 42 or by the Secretary of Agriculture under the Act of March 4, 1913 \[21 U.S.C. 151 et seq.\] (known as theVirus-Serum Toxin Act) before it may be introduced or delivered for introduction into interstate commerce;
+&emsp;&emsp;(ii) requires licensing by the Secretary under section 262 of title 42 or by the Secretary of Agriculture under the Act of March 4, 1913 \[21 U.S.C. 151 et seq.\] (known as the Virus-Serum Toxin Act) before it may be introduced or delivered for introduction into interstate commerce;
 
 &emsp;&emsp;(B) does not have such approval or license; and
 
@@ -60,7 +60,7 @@ A drug or device—
 
 &emsp;&emsp;(ii) Statutory or regulatory requirements that the methods used in, and the facilities and controls used for the manufacture, processing, and packing of drugs in the country are adequate to preserve their identity, quality, purity, and strength.
 
-&emsp;&emsp;(iii) Statutory or regulatory requirements for the reporting of adverse reactions to drugs and procedures to withdraw approvaland remove drugs found not to be safe or effective.
+&emsp;&emsp;(iii) Statutory or regulatory requirements for the reporting of adverse reactions to drugs and procedures to withdraw approval and remove drugs found not to be safe or effective.
 
 &emsp;&emsp;(iv) Statutory or regulatory requirements that the labeling and promotion of drugs must be in accordance with the approval of the drug.
 
@@ -108,7 +108,7 @@ A drug or device intended for formulation, filling, packaging, labeling, or furt
 
 > the Secretary may, after providing the holder of the application an opportunity for an informal hearing, withdraw the approved application.
 
-(B) If the Secretary determines that the holder of an approved application under paragraph (1) or an importer is exporting a drug or device from the United States to an importer and such importer is exporting the drug or device to a country for which the Secretary cannot make a finding under paragraph (1) and such export presents an imminent hazard, the Secretary shall immediately prohibit the export of the drug or device to such importer, provide the person exporting the drug or device from the United States prompt notice of the prohibition, and afford such person an opportunity for an expedited hearing.
+(B) If the Secretary determines that the holder of an approved application under paragraph (1) or an importer is exporting a drug or device from the United States to an importer and suchimporter is exporting the drug or device to a country for which the Secretary cannot make a finding under paragraph (1) and such export presents an imminent hazard, the Secretary shall immediately prohibit the export of the drug or device to such importer, provide the person exporting the drug or device from the United States prompt notice of the prohibition, and afford such person an opportunity for an expedited hearing.
 
 #### (f) Prohibition of export of drug or device
 

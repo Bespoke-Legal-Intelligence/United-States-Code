@@ -54,5 +54,5 @@ Chapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2302, 4107, 4313, 5379 of this title; title 10 sections 1612, 1722; title 22 section 3902; title 31 section 732; title 41 section 433; title 42 section 2297b–4.
+This section is referred to in sections 2302, 4107, 4313, 5379 of this title; title 10 sections 1612, 1722; title 22 section 3902; title 31 section 732; title 41 section 433.
 

@@ -22,11 +22,11 @@ Covered Depot-Level Maintenance and Repair Workloads.—Except as provided in su
 
 Exceptions.—This section shall not apply with respect to—
 
-&emsp;(1) a depot-level maintenance and repair workload that is to be consolidated to another military installation (other than a closed or realigned military installation) as a result ofa base closure or realignment action or a decision made by the Secretary concerned or the Defense Depot Maintenance Council;
+&emsp;(1) a depot-level maintenance and repair workload that is to be consolidated to another military installation (other than a closed or realigned military installation) as a result of a base closure or realignment action or a decision made by the Secretary concerned or the Defense Depot Maintenance Council;
 
 &emsp;(2) a workload necessary to maintain a core logistics capability identified under section 2464 of this title; or
 
-&emsp;(3) any contract originally entered into before the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998.
+&emsp;(3) any contract originally entered into before November 18, 1997.
 
 (d)
 
@@ -88,11 +88,17 @@ Reviews of Competitive Procedures.—If a solicitation of offers for a contract 
 
 Resolution of Workload Award Objections.—Any public or private entity may, pursuant to procedures established by the Secretary, object to a solicitation of offers under this section for the performance of any depot-level maintenance and repair workload, or the award or proposed award of any workload pursuant to such a solicitation. The Secretary may designate a qualified individual or entity to review the objection; however, the Secretary shall not designate the Source Selection Authority or any individual from the same military department as the Source Selection Authority to review the objection. The Secretary shall take appropriate action to address any defect in the solicitation or award in the event that the objection is sustained.
 
-(Added Pub. L. 105–85, div. A, title III, §359(a)(1), Nov. 18, 1997, 111 Stat. 1696.)
+(i)
 
-#### References in Text
+Oversight of Contracts Awarded Public Entities.—The Secretary of Defense or the Secretary concerned may not impose on a public sector entity awarded a contract for the performance of any depot-level maintenance and repair workload described in subsection (b) any requirements regarding management systems, reviews, oversight, or reporting that are significantly different from the requirements used in the performance and management of other similar or identical depot-level maintenance and repair workloads by the entity, unless the requirements are specifically provided in the solicitation for the contract or are necessary to ensure compliance with the terms of the contract.
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (c)(3), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
+(Added Pub. L. 105–85, div. A, title III, §359(a)(1), Nov. 18, 1997, 111 Stat. 1696; amended Pub. L. 106–65, div. A, title III, §335, title X, §1066(a)(20), Oct. 5, 1999, 113 Stat. 568, 771.)
+
+#### Amendments
+
+1999—Subsec. (c)(3). Pub. L. 106–65, §1066(a)(20), substituted “November 18, 1997” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998”.
+
+Subsec. (i). Pub. L. 106–65, §335, added subsec. (i).
 
 #### Limitation Relating to Timing of Solicitation
 

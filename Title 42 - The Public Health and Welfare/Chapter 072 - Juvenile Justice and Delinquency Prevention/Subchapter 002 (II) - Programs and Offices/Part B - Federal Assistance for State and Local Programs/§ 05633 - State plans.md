@@ -90,7 +90,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;(ii) a plan for providing needed mental health services to juveniles in the juvenile justice system;
 
-&emsp;(9) provide for the active consultation with and participation of private agencies in the development and execution of the State plan; and provide for coordination and maximum utilization of existing juvenile delinquency programs and other related programs, such as education, special education, recreation, health, and welfare within the State;
+&emsp;(9) provide for the active consultation with and participation of private agencies in the development and execution of the State plan; and provide for coordination and maximumutilization of existing juvenile delinquency programs and other related programs, such as education, special education, recreation, health, and welfare within the State;
 
 &emsp;(10) provide that not less than 75 percent of the funds available to the State under section 5632 of this title, other than funds made available to the State advisory group under section 5632(d) of this title, whether expended directly by the State, by the unit of local government, or by a combination thereof, or through grants and contracts with public or private nonprofit agencies, shall be used for—
 
@@ -186,7 +186,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;(C) are located where conditions of safety exist (such as severely adverse, life-threatening weather conditions that do not allow for reasonably safe travel), in which case the time for an appearance may be delayed until 24 hours after the time that such conditions allow for reasonably safe travel;
 
-&emsp;(15) provide for an adequate system of monitoring jails, detention facilities, correctional facilities, and non-secure facilities to insure that the requirements of paragraph (12)(A), paragraph (13), and paragraph (14) are met, and for annual reporting of the results of such monitoring to the Administrator, except that such reporting requirements shall not apply in the case of a State which is in compliance with the other requirements of this paragraph,which is in compliance with the requirements in paragraph (12)(A) and paragraph (13), and which has enacted legislation which conforms to such requirements and which contains, in the opinion of the Administrator, sufficient enforcement mechanisms to ensure that such legislation will be administered effectively;
+&emsp;(15) provide for an adequate system of monitoring jails, detention facilities, correctional facilities, and non-secure facilities to insure that the requirements of paragraph (12)(A), paragraph (13), and paragraph (14) are met, and for annual reporting of the results of such monitoring to the Administrator, except that such reporting requirements shall not apply in the case of a State which is in compliance with the other requirements of this paragraph, which is in compliance with the requirements in paragraph (12)(A) and paragraph (13), and which has enacted legislation which conforms to such requirements and which contains, in the opinion of the Administrator, sufficient enforcement mechanisms to ensure that such legislation will be administered effectively;
 
 &emsp;(16) provide assurance that youth in the juvenile justice system are treated equitably on the basis of gender, race, family income, and mentally, emotionally, or physically handicapping conditions;
 
@@ -234,7 +234,7 @@ The State agency designated under subsection (a)(1) of this section, after recei
 
 &emsp;(B) the State shall be ineligible to receive any allotment under that section for such fiscal year unless—
 
-&emsp;&emsp;(i) the State agrees to expend all the remaining funds the State receives under thispart (excluding funds required to be expended to comply with section 5632(c) and (d) of this title and with subsection (a)(5)(C) of this section) for that fiscal year only to achieve compliance with any such paragraph with respect to which the State is in noncompliance; or
+&emsp;&emsp;(i) the State agrees to expend all the remaining funds the State receives under this part (excluding funds required to be expended to comply with section 5632(c) and (d) of this title and with subsection (a)(5)(C) of this section) for that fiscal year only to achieve compliance with any such paragraph with respect to which the State is in noncompliance; or
 
 &emsp;&emsp;(ii) the Administrator determines, in the discretion of the Administrator, that the State—
 
@@ -354,7 +354,7 @@ Subsec. (a)(17), (18). Pub. L. 98–473, §626(a)(11), (12), added par. (17) and
 
 Subsec. (a)(19). Pub. L. 98–473, §626(a)(11), redesignated par. (18) as (19). Former par. (19) redesignated (20).
 
-Pub. L. 98–473, §626(a)(7), in provisions preceding (A), substituted “shall be” for “are” after “arrangements”and substituted “chapter and shall provide for the terms and conditions of such protective arrangements established pursuant to this section, and such” for “chapter. Such”, inserted “and” at end of subpar. (D), substituted a semicolon for the period at end of subpar. (E), and struck out last sentence, which read as follows: “The State plan shall provide for the terms and conditions of the protection arrangements established pursuant to this section;”.
+Pub. L. 98–473, §626(a)(7), in provisions preceding (A), substituted “shall be” for “are” after “arrangements” and substituted “chapter and shall provide for the terms and conditions of such protective arrangements established pursuant to this section, and such” for “chapter. Such”, inserted “and” at end of subpar. (D), substituted a semicolon for the period at end of subpar. (E), and struck out last sentence, which read as follows: “The State plan shall provide for the terms and conditions of the protection arrangements established pursuant to this section;”.
 
 Subsec. (a)(20), (21). Pub. L. 98–473, §626(a)(11), redesignated pars. (19) and (20) as (20) and (21), respectively. Former par. (21) redesignated (22).
 
@@ -422,7 +422,7 @@ Subsec. (a)(22). Pub. L. 96–509, §§11(a)(15)(A), 19(g)(10), redesignated for
 
 Subsec. (b). Pub. L. 96–509, §19(g)(12), substituted “criminal justice council” for “planning agency”.
 
-Subsec. (c). Pub. L. 96–509, §11(b), made conforming amendment, redefined “substantial compliance” with regard to subsection (a)(12)(A) of this section to include either 75 percent deinstitutionalization of juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult, or such nonoffenders as dependent or neglected children or the removal of 100 percent of such juveniles from secure correctional facilities, and inserted provision at end defining substantial compliance with regard to subsec. (a)(14) of this section.
+Subsec. (c). Pub. L. 96–509, §11(b), made conforming amendment, redefined “substantial compliance” with regard to subsection (a)(12)(A) of this section to include either 75 percent deinstitutionalization of juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult,or such nonoffenders as dependent or neglected children or the removal of 100 percent of such juveniles from secure correctional facilities, and inserted provision at end defining substantial compliance with regard to subsec. (a)(14) of this section.
 
 Subsec. (d). Pub. L. 96–509, §§11(c), 19(g)(13), substituted reference to sections 3783, 3784, and 3785 of this title for reference to sections 3757, 3758, and 3759 of this title and provided that redistributed allotments be used for the purposes of subsections (a)(12)(A), (a)(13) or (a)(14) of this section, and further provided that the Administrator shall make such reallocated funds available on an equitable basis to States that have achieved full compliance with the requirements under subsecs. (a)(12)(A) and (a)(13) of this section.
 
@@ -488,13 +488,13 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, set out as a note under section 5601 of this title.
 
-Section 4(c)(3)(B) of Pub. L. 95–115 provided in part that the amendment of subsec. (a)(5) of this section,which substituted “5632(d)” for “5632(e)”, by section 4(c)(3)(B) of Pub. L. 95–115 is effective Oct. 1, 1978.
+Section 4(c)(3)(B) of Pub. L. 95–115 provided in part that the amendment of subsec. (a)(5) of this section, which substituted “5632(d)” for “5632(e)”, by section 4(c)(3)(B) of Pub. L. 95–115 is effective Oct. 1, 1978.
 
 Section 4(c)(6)(B) of Pub. L. 95–115 provided in part that the amendment of subsec. (a)(10) of this section, which substituted “5632(d)” for “5632(e)”, by section 4(c)(6)(B) of Pub. L. 95–115 is effective Oct. 1, 1978.
 
 #### Savings Provision
 
-Section 2(f)(3)(B) of Pub. L. 102–586 provided that: “Notwithstanding the amendment made by subparagraph (A)(ii) \[amending this section\], section 223(c)(3) of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5633(c)(3)), as in effect on the day prior to the date of enactment of this Act \[Nov. 4, 1992\], shall remain in effect to the extent that it provides the Administrator authority to grant a waiver with respect to a fiscal year prior to a fiscal year beginning before January 1, 1993.” On the day prior to Nov. 4, 1992, subsec. (c)(3) of this section read as follows: “Except as provided in paragraph (2), failure to achieve compliance with the requirements of subsection (a)(14) of this section after December 8, 1985, shall terminate any State's eligibility for funding under this part unless the Administrator waives the termination of the State's eligibility on the condition that the State agrees to expend all of the funds to be received under this part by the State (excluding funds required to be expended to comply with subsections (c) and (d) of section 5632 of this title and with subsection (a)(5)(C) of this section), only to achieve compliance with subsection (a)(14) of this section.”
+Section 2(f)(3)(B) of Pub. L. 102–586 provided that: “Notwithstanding the amendment made by subparagraph (A)(ii) \[amending this section\], section 223(c)(3) of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5633(c)(3)), as in effect on the day prior to the date of enactment of this Act \[Nov. 4, 1992\], shall remain in effect to the extent that it provides the Administrator authority to grant a waiver with respect to a fiscal year prior to a fiscal year beginning before January 1, 1993.” On the day prior to Nov. 4, 1992, subsec. (c)(3) of this section read as follows: “Except asprovided in paragraph (2), failure to achieve compliance with the requirements of subsection (a)(14) of this section after December 8, 1985, shall terminate any State's eligibility for funding under this part unless the Administrator waives the termination of the State's eligibility on the condition that the State agrees to expend all of the funds to be received under this part by the State (excluding funds required to be expended to comply with subsections (c) and (d) of section 5632 of this title and with subsection (a)(5)(C) of this section), only to achieve compliance with subsection (a)(14) of this section.”
 
 #### Termination of Advisory Committees
 

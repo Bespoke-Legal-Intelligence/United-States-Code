@@ -6,7 +6,7 @@ The Commission may make such investigations as it deems necessary to determine w
 
 #### (b) Administration of oaths and affirmations, subpena of witnesses, etc.
 
-For the purpose of any investigation or any other proceeding under this subchapter, any member of the Commission, or any officer thereof designated by it, is empowered to administeroaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records which are relevant or material to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in any State or in any Territory or other place subject to the jurisdiction of the United States at any designated place of hearing.
+For the purpose of any investigation or any other proceeding under this subchapter, any member of the Commission, or any officer thereof designated by it, is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records which are relevant or material to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in any State or in any Territory or other place subject to the jurisdiction of the United States at any designated place of hearing.
 
 #### (c) Jurisdiction of courts of United States
 
@@ -20,7 +20,7 @@ Whenever it shall appear to the Commission that any person has engaged or is abo
 
 #### (1) Authority of Commission
 
-&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this subchapter, the rules or regulations thereunder, or a cease-and-desist order entered by the Commission pursuant to section 80a–9(f) of this title, the Commission may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, upon a proper showing, a civil penalty to be paid by the person who committed such violation.
+&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this subchapter, the rules or regulations thereunder, or a cease-and-desist order entered by the Commission pursuant to section 80a–9(f) ofthis title, the Commission may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, upon a proper showing, a civil penalty to be paid by the person who committed such violation.
 
 #### (2) Amount of penalty
 

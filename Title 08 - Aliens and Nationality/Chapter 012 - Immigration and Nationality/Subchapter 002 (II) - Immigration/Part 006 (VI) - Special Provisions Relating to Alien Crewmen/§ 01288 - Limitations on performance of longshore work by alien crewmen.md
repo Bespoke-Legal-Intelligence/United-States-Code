@@ -52,7 +52,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal oper
 
 (4)(A) The Secretary of Labor shall compile and make available for public examination in a timely manner in Washington, D.C., a list identifying owners, agents, consignees, masters, or commanding officers which have filed lists for nonimmigrants described in section 1101(a)(15)(D)(i) of this title with respect to whom an attestation under paragraph (1) or subsection (d)(1) of this section is made and, for each such entity, a copy of the entity's attestation under paragraph (1) or subsection (d)(1) of this section (and accompanying documentation) and each such list filed by the entity.
 
-(B)(i) The Secretary of Labor shall establish a process for the receipt, investigation, and disposition of complaints respecting an entity's failure to meet conditions attested to, an entity's misrepresentation of a material fact in an attestation, or, in the case described in the last sentence of paragraph (1), whether the performance of the particular activity is or is not described in paragraph (1)(B)(i).
+(B)(i) The Secretary of Labor shall establish a process for the receipt, investigation, and disposition of complaints respecting an entity's failure to meet conditions attested to, an entity's misrepresentation of a material fact in an attestation, or, in the case described in the lastsentence of paragraph (1), whether the performance of the particular activity is or is not described in paragraph (1)(B)(i).
 
 (ii) Complaints may be filed by any aggrieved person or organization (including bargaining representatives, associations deemed appropriate by the Secretary, and other aggrieved parties as determined under regulations of the Secretary).
 
@@ -74,7 +74,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal oper
 
 #### (d) State of Alaska exception
 
-(1) Subsection (a) of this section shall not apply to a particular activity of longshore work at a particular location in the State of Alaska if an employer of alien crewmen has filed an attestation with the Secretary of Labor at least 30 days before the date of the first performance ofthe activity (or anytime up to 24 hours before the first performance of the activity, upon a showing that the employer could not have reasonably anticipated the need to file an attestation for that location at that time) setting forth facts and evidence to show that—
+(1) Subsection (a) of this section shall not apply to a particular activity of longshore work at a particular location in the State of Alaska if an employer of alien crewmen has filed an attestation with the Secretary of Labor at least 30 days before the date of the first performance of the activity (or anytime up to 24 hours before the first performance of the activity, upon a showing that the employer could not have reasonably anticipated the need to file an attestation for that location at that time) setting forth facts and evidence to show that—
 
 &emsp;(A) the employer will make a bona fide request for United States longshore workers who are qualified and available in sufficient numbers to perform the activity at the particular time and location from the parties to whom notice has been provided under clauses (ii) and (iii) of subparagraph (D), except that—
 

@@ -46,7 +46,7 @@
 
 (d)(1) The parties may agree to alternative confidential procedures for disclosures by a neutral. Upon such agreement the parties shall inform the neutral before the commencement of the dispute resolution proceeding of any modifications to the provisions of subsection (a) that will govern the confidentiality of the dispute resolution proceeding. If the parties do not so inform the neutral, subsection (a) shall apply.
 
-(2) To qualify for the exemption established under subsection (j), an alternative confidential procedure under this subsection may not provide for less disclosure than the confidential procedures otherwise provided under this section.
+(2) To qualify for the exemption established under subsection (j), an alternative confidentialprocedure under this subsection may not provide for less disclosure than the confidential procedures otherwise provided under this section.
 
 (e) If a demand for disclosure, by way of discovery request or other legal process, is made upon a neutral regarding a dispute resolution communication, the neutral shall make reasonable efforts to notify the parties and any affected nonparty participants of the demand. Any party or affected nonparty participant who receives such notice and within 15 calendar days does not offer to defend a refusal of the neutral to disclose the requested information shall have waived any objection to such disclosure.
 

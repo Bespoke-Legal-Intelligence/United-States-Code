@@ -60,7 +60,7 @@ For purposes of this chapter, the term “wages” means all remuneration for em
 
 &emsp;&emsp;(E) under or to an exempt governmental deferred compensation plan (as defined in section 3121(v)(3)),
 
-&emsp;&emsp;(F) to supplement pension benefits under a plan or trust described in any of the foregoing provisions of this paragraph to take into account some portion or all of the increase in the cost of living (as determined by the Secretary of Labor) since retirement but only if such supplemental payments are under a plan which is treated as a welfareplan under section 3(2)(B)(ii) of the Employee Retirement Income Security Act of 1974; <sup>1</sup>
+&emsp;&emsp;(F) to supplement pension benefits under a plan or trust described in any of the foregoing provisions of this paragraph to take into account some portion or all of the increase in the cost of living (as determined by the Secretary of Labor) since retirement but only if such supplemental payments are under a plan which is treated as a welfare plan under section 3(2)(B)(ii) of the Employee Retirement Income Security Act of 1974; <sup>1</sup>
 
 &emsp;&emsp;(G) under a cafeteria plan (within the meaning of section 125) if such payment would not be treated as wages without regard to such plan and it is reasonable to believe that (if section 125 applied for purposes of this section) section 125 would not treat any wages as constructively received, or
 
@@ -94,7 +94,7 @@ For purposes of this chapter, the term “wages” means all remuneration for em
 
 &emsp;(13) any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127 or 129;
 
-&emsp;(14) the value of any meals or lodging furnished by or on behalf of the employer if at the time of such furnishing it is reasonable to believe that the employee will be able to exclude such items from income under section 119;
+&emsp;(14) the value of any meals or lodging furnished by or on behalf of the employer if atthe time of such furnishing it is reasonable to believe that the employee will be able to exclude such items from income under section 119;
 
 &emsp;(15) any payment made by an employer to a survivor or the estate of a former employee after the calendar year in which such employee died;
 
@@ -158,7 +158,7 @@ For purposes of this chapter, the term “employment” means any service perfor
 
 &emsp;&emsp;(B) if the Secretary of State shall certify to the Secretary of the Treasury that the foreign government, with respect to whose instrumentality exemption is claimed, grants an equivalent exemption with respect to similar service performed in the foreign country by employees of the United States Government and of instrumentalities thereof;
 
-&emsp;(13) service performed as a student nurse in the employ of a hospital or a nurses’ trainingschool by an individual who is enrolled and is regularly attending classes in a nurses’ training school chartered or approved pursuant to State law; and service performed as an intern in the employ of a hospital by an individual who has completed a 4 years’ course in a medical school chartered or approved pursuant to State law;
+&emsp;(13) service performed as a student nurse in the employ of a hospital or a nurses’ training school by an individual who is enrolled and is regularly attending classes in a nurses’ training school chartered or approved pursuant to State law; and service performed as an intern in the employ of a hospital by an individual who has completed a 4 years’ course in a medical school chartered or approved pursuant to State law;
 
 &emsp;(14) service performed by an individual for a person as an insurance agent or as an insurance solicitor, if all such service performed by such individual for such person is performed for remuneration solely by way of commission;
 
@@ -182,7 +182,7 @@ For purposes of this chapter, the term “employment” means any service perfor
 
 &emsp;&emsp;(A) if such camp—
 
-&emsp;&emsp;&emsp;(i) did not operate for more than 7 months in the calendar year and did not operate for more than 7 months in the preceding calendar year, or
+&emsp;&emsp;&emsp;(i) did not operate for more than 7 months in the calendar year and did notoperate for more than 7 months in the preceding calendar year, or
 
 &emsp;&emsp;&emsp;(ii) had average gross receipts for any 6 months in the preceding calendar year which were not more than 331/3 percent of its average gross receipts for the other 6 months in the preceding calendar year; and
 
@@ -202,7 +202,7 @@ For purposes of this chapter, the term “State agency” means any State office
 
 For purposes of this chapter, the term “unemployment fund” means a special fund, established under a State law and administered by a State agency, for the payment of compensation. Any sums standing to the account of the State agency in the Unemployment Trust Fund established by section 904 of the Social Security Act, as amended (42 U.S.C. 1104), shall be deemed to be a part of the unemployment fund of the State, and no sums paid out of the Unemployment Trust Fund to such State agency shall cease to be a part of the unemployment fund of the State until expended by such State agency. An unemployment fund shall be deemed to be maintained during a taxable year only if throughout such year, or such portion of the year as the unemployment fund was in existence, no part of the moneys of such fund was expended for any purpose other than the payment of compensation (exclusive of expenses of administration) and for refunds of sums erroneously paid into such fund and refunds paid in accordance with the provisions of section 3305(b); except that—
 
-&emsp;(1) an amount equal to the amount of employee payments into the unemployment fundof a State may be used in the payment of cash benefits to individuals with respect to their disability, exclusive of expenses of administration;
+&emsp;(1) an amount equal to the amount of employee payments into the unemployment fund of a State may be used in the payment of cash benefits to individuals with respect to their disability, exclusive of expenses of administration;
 
 &emsp;(2) the amounts specified by section 903(c)(2) of the Social Security Act may, subject to the conditions prescribed in such section, be used for expenses incurred by the State for administration of its unemployment compensation law and public employment offices,<sup>4</sup>
 
@@ -308,7 +308,7 @@ Notwithstanding the provisions of subsection (c)(6), service performed by office
 
 #### (p) Concurrent employment by two or more employers
 
-For purposes of sections 3301, 3302, and 3306(b)(1), if two or more related corporations concurrently employ the same individual and compensate such individual through a common paymaster which is one of such corporations, each such corporation shall be considered to have paid as remuneration to such individual only the amounts actually disbursed by it to such individual and shall not be considered to have paid as remuneration to such individual amounts actually disbursed to such individual by another of such corporations.
+For purposes of sections 3301, 3302, and 3306(b)(1), if two or more related corporations concurrently employ the same individual and compensate such individual through a common paymaster which is one of such corporations, each such corporation shall be considered tohave paid as remuneration to such individual only the amounts actually disbursed by it to such individual and shall not be considered to have paid as remuneration to such individual amounts actually disbursed to such individual by another of such corporations.
 
 #### (q) Full time student
 
@@ -390,7 +390,7 @@ For the purposes of this chapter, the term “self-employment assistance program
 
 &emsp;(4) the aggregate number of individuals receiving the allowance under the program does not at any time exceed 5 percent of the number of individuals receiving regular unemployment compensation under the State law at such time;
 
-&emsp;(5) the program does not result in any cost to the Unemployment Trust Fund (established by section 904(a) of the Social Security Act) in excess of the cost that would be incurred by such State and charged to such Fund if the State had not participated in such program; and
+&emsp;(5) the program does not result in any cost to the Unemployment Trust Fund (established by section 904(a) of the Social Security Act) in excess of the cost that would be incurred by such State and charged to such Fund if theState had not participated in such program; and
 
 &emsp;(6) the program meets such other requirements as the Secretary of Labor determines to be appropriate.
 
@@ -400,7 +400,7 @@ For the purposes of this chapter, the term “self-employment assistance program
 
 Section 3(2)(B)(ii) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(5)(F), is classified to section 1002(2)(B)(ii) of Title 29, Labor.
 
-Subchapter C of chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (c), was comprised ofsections 1600 to 1611 of former Title 26, Internal Revenue Code. Subchapter C of chapter 9 was repealed by section 7851(a)(3) of this title. For table of comparisons of the 1939 Code to the 1986 Code, see table I preceding section 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
+Subchapter C of chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (c), was comprised of sections 1600 to 1611 of former Title 26, Internal Revenue Code. Subchapter C of chapter 9 was repealed by section 7851(a)(3) of this title. For table of comparisons of the 1939 Code to the 1986 Code, see table I preceding section 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
 Sections 214(c) and 101(a)(15)(H) of the Immigration and Nationality Act, referred to in subsec. (c)(1)(B), are classified to sections 1184(c) and 1101(a)(15)(H), respectively, of Title 8, Aliens and Nationality.
 
@@ -588,7 +588,7 @@ Subsec. (c)(6). Pub. L. 86–778, §531(c), substituted “wholly or partially o
 
 Subsec. (c)(8). Pub. L. 86–778, §533, substituted “service performed in the employ of a religious, charitable, educational, or other organization described in section 501(c)(3) which is exempt from income tax under section 501(a)” for “service performed in the employ of a corporation, community chest, fund, or foundation, organized and operated exclusively for religious, charitable, scientific, testing for public safety, literary, or educational purposes, or for the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private shareholder or individual, and no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation.”
 
-Subsec. (c)(10). Pub. L. 86–778, §534, struck out provisions which excepted from definition of “employment”service in connection with the collection of dues or premiums for a fraternal beneficiary society, order, or association which is preformed away from the home office or is ritualistic service in connection with any such society, order, or association, service performed in the employ of an agricultural or horticultural organization described in section 501(c)(5) of this title, service performed in the employ of a voluntary employees’ beneficiary association providing for the payment of life, sick, accident, or other benefits to members or their dependents or designated beneficiaries, and service performed in the employ of a school, college, or university, not exempt from income tax under section 501(a) of this title if such service is performed by a student who is enrolled and regularly attending classes.
+Subsec. (c)(10). Pub. L. 86–778, §534, struck out provisions which excepted from definition of “employment” service in connection with the collection of dues or premiums for a fraternal beneficiary society, order, or association which is preformed away from the home office or is ritualistic service in connection with any such society, order, or association, service performed in the employ of an agricultural or horticultural organization described in section 501(c)(5) of this title, service performed in the employ of a voluntary employees’ beneficiary association providing for the payment of life, sick, accident, or other benefits to members or their dependents or designated beneficiaries, and service performed in the employ of a school, college, or university, not exempt from income tax under section 501(a) of this title if such service is performed by a student who is enrolled and regularly attending classes.
 
 Subsec. (j). Pub. L. 86–778, §543(a), included the Commonwealth of Puerto Rico and struck out “Hawaii” from definition of “State”, defined “United States”, and inserted provisions requiring an individual who is a citizen of the Commonwealth of Puerto Rico (but not otherwise a citizen of the United States) to be considered for purposes of this section, as a citizen of the United States.
 
@@ -672,7 +672,7 @@ Exception for certain states.—In the case of any State the legislature of whic
 
 &emsp;“(A) did not meet in a regular session which begins during 1984 and after the date of the enactment of this Act \[July 18, 1984\], and
 
-&emsp;“(B) did not meet in a session which began before the date of the enactment of this Act and remainedin session for at least 25 calendar days after such date of enactment,
+&emsp;“(B) did not meet in a session which began before the date of the enactment of this Act and remained in session for at least 25 calendar days after such date of enactment,
 
 > the amendment made by subsection (a) shall take effect on January 1, 1987.”
 

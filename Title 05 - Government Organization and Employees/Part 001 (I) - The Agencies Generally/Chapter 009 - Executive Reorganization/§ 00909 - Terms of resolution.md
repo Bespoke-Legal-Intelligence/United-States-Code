@@ -32,5 +32,5 @@ Section 903(c) of this chapter, referred to in text, means section 903(c) of thi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 903, 906, 908, 910 of this title; title 22 section 2587.
+This section is referred to in sections 903, 906, 908, 910 of this title.
 

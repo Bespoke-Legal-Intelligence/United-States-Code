@@ -44,7 +44,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 902(h) of Pub. 
 
 Section 5(a) of Pub. L. 89–749 provided that subsec. (b) of this section is effective July 1, 1966.
 
-Section 5(b) of Pub. L. 89–749 provided that the amendment of subsec. (b) of this section, permittingthe Surgeon General to train personnel for State and local health work, is effective July 1, 1967.
+Section 5(b) of Pub. L. 89–749 provided that the amendment of subsec. (b) of this section, permitting the Surgeon General to train personnel for State and local health work, is effective July 1, 1967.
 
 #### Training of Private Persons Subject to Reimbursement or Advances to Appropriations
 

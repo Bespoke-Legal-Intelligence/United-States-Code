@@ -18,9 +18,9 @@ For purposes of this chapter, other than subchapter IV, the term “institution 
 
 For purposes of this chapter, other than subchapter IV, the term “institution of higher education” also includes—
 
-&emsp;(1) any school that provides not less than a 1-year program of training to prepare students for gainful employment in a recognized occupation and that meets the provision of paragraphs (1), (2), (4), and (5) of subsection (a) of this section; and
+&emsp;(1) any school that provides not less than a 1-year program of training to prepare studentsfor gainful employment in a recognized occupation and that meets the provision of paragraphs (1), (2), (4), and (5) of subsection (a) of this section; and
 
-&emsp;(2) a public or nonprofit private educational institution in any State that, in lieu of the requirement in subsection (a)(1) of this section, admits as regular students persons who are beyond the age of compulsory school attendancein the State in which the institution is located.
+&emsp;(2) a public or nonprofit private educational institution in any State that, in lieu of the requirement in subsection (a)(1) of this section, admits as regular students persons who are beyond the age of compulsory school attendance in the State in which the institution is located.
 
 #### (c) List of accrediting agencies
 
@@ -94,7 +94,7 @@ Pub. L. 105–244, §1(a), Oct. 7, 1998, 112 Stat. 1581, provided that: “This 
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–78, title VI, §609(a), Nov. 13, 1997, 111 Stat. 1522, provided in part that: “This section \[amendingsections 1078–3, 1087h, 1087<i>oo</i> to 1087qq, and 1087vv of this title and enacting provisions set out as notes under sections 1078–3 and 1087h of this title\] may be cited as the ‘Emergency Student Loan Consolidation Act of 1997’.”
+Pub. L. 105–78, title VI, §609(a), Nov. 13, 1997, 111 Stat. 1522, provided in part that: “This section \[amending sections 1078–3, 1087h, 1087<i>oo</i> to 1087qq, and 1087vv of this title and enacting provisions set out as notes under sections 1078–3 and 1087h of this title\] may be cited as the ‘Emergency Student Loan Consolidation Act of 1997’.”
 
 #### Short Title of 1996 Amendment
 
@@ -146,7 +146,7 @@ Pub. L. 99–272, title XVI, §16001(a), Apr. 7, 1986, 100 Stat. 339, provided t
 
 #### Short Title of 1983 Amendments
 
-Pub. L. 98–95, §1, Sept. 26, 1983, 97 Stat. 708, provided: “That this Act \[enacting section 1065a of this title, amending section 1069c of this title, enacting provisions set out as a note under section 1132a–1 of this title, and amending provisions set out as notes under sections 123 and 1069c of this title\] may be cited as the ‘Challenge Grant Amendments of 1983’.”
+Pub. L. 98–95, §1, Sept. 26, 1983, 97 Stat. 708, provided: “That this Act \[enacting section 1065a of this title, amending section 1069c of this title, enacting provisions set out as a note under section 1132a–1 of this title, andamending provisions set out as notes under sections 123 and 1069c of this title\] may be cited as the ‘Challenge Grant Amendments of 1983’.”
 
 Pub. L. 98–79, §1, Aug. 15, 1983, 97 Stat. 476, provided: “That this Act \[amending sections 1071, 1077, 1077a, 1078, 1078–2, 1083a, 1087–1, 1087–2, 1087cc–1, and 1098 of this title, repealing section 1087–1a of this title, enacting provisions set out as notes under sections 1077, 1077a, 1078, and 1087–1 of this title, and amending provisions set out as notes under sections 1070a, 1078, and 1089 of this title\] may be cited as the ‘Student Loan Consolidation and Technical Amendments Act of 1983’.”
 
@@ -280,11 +280,11 @@ Pub. L. 92–318, §2, June 23, 1972, 86 Stat. 236, provided that:
 
 “(2) Unless otherwise specified, in any case where an amendment made by this Act is to become effective after a date set herein, it shall be effective with the beginning of the day which immediately follows the date after which such amendment is effective.
 
-“(3) In any case where the effective date for an amendment made by this Act is expressly stated to be effective after June 30, 1971, such amendment shall be deemed to have been enacted on July 1, 1971.”
+“(3) In any case where the effective date for an amendment made by this Act is expressly stated to beeffective after June 30, 1971, such amendment shall be deemed to have been enacted on July 1, 1971.”
 
 #### Rulemaking Requirements; Publication in Federal Register
 
-Pub. L. 90–575, title V, §505, Oct. 16, 1968, 82 Stat. 1063, provided for publication of rules and regulations inFederal Register, prior to repeal by Pub. L. 91–230, title IV, §401(e)(2), Apr. 13, 1970, 84 Stat. 173.
+Pub. L. 90–575, title V, §505, Oct. 16, 1968, 82 Stat. 1063, provided for publication of rules and regulations in Federal Register, prior to repeal by Pub. L. 91–230, title IV, §401(e)(2), Apr. 13, 1970, 84 Stat. 173.
 
 #### Presidential Recommendations by December 31, 1969, With Respect to Post-Secondary Education for All
 
@@ -292,5 +292,5 @@ Pub. L. 90–575, title V, §508, Oct. 16, 1968, 82 Stat. 1063, authorized the P
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1002, 1059c, 1078–11, 1099c, 1132, 1228c, 2002, 2302, 2324, 2371, 3902, 4514, 4702, 5602, 7601, 8801, 9001, 9202 of this title; title 7 sections 2279c, 3152; title 8 section 1182; title 10 sections 2193, 2199; title 16 section 698u–5; title 18 section 207; title 22 sections 2460, 4502, 4703; title 25 sections 13, 1801, 1813; title 29 section 623; title 30 section 1291; title 33 section 1262; title 39 section 3626; title 42 sections 1862i, 3002, 3791, 6322, 7274e, 9844, 9877, 11851, 12511, 12626, 12899f, 13791, 14092, 14111; title 47 section 223; title 50 section 1908.
+This section is referred to in sections 1002, 1059c, 1078–11, 1099c, 1132, 1228c, 2002, 2302, 2324, 2371, 3902, 4514, 4702, 5602, 7601, 8801, 9001, 9202 of this title; title 7 sections 2279c, 3152; title 8 section 1182; title 10 sections 2193, 2199, 16401; title 15 section 6604; title 16 section 698u–5; title 18 section 207; title 22 sections 2460, 4502, 4703; title 25 sections 13, 1801, 1813; title 29 sections 623, 705; title 30 section 1291; title 33 section 1262; title 39 section 3626; title 42 sections 1862i, 1869c, 3002, 3791, 6322, 7274e, 9844, 9877, 11851, 12511, 12626, 12899f, 13791, 14092, 14111; title 47 section 223; title 50 section 1908.
 

@@ -4,11 +4,11 @@
 
 In General.—(1) For purposes of this section and any other provision of law, a military technician (dual status) is a Federal civilian employee who—
 
-&emsp;(A) is employed under section 3101 of title 5 or section 709 of title 32;
+&emsp;(A) is employed under section 3101 of title 5 or section 709(b) of title 32;
 
 &emsp;(B) is required as a condition of that employment to maintain membership in the Selected Reserve; and
 
-&emsp;(C) is assigned to a position as a technician in the administration and training of the Selected Reserve or in the maintenance and repair of supplies or equipment issued to the Selected Reserve or the armed forces.
+&emsp;(C) is assigned to a civilian position as a technician in the administration and training of the Selected Reserve or in the maintenance and repair of supplies or equipment issued to the Selected Reserve or the armed forces.
 
 (2) Military technicians (dual status) shall be authorized and accounted for as a separate category of civilian employees.
 
@@ -54,13 +54,21 @@ Unit Membership Requirement.—(1) Unless specifically exempted by law, each ind
 
 (e)
 
-Dual Status Requirement.—(1) Funds appropriated for the Department of Defense may not (except as provided in paragraph (2)) be used for compensation as a military technician of any individual hired as a military technician after February 10, 1996, who is no longer a member of the Selected Reserve.
+Dual Status Requirement.—(1) Funds appropriated for the Department of Defense may not (except as provided in paragraph (2)) be used for compensation as a military technician of any individual hired as a military technician (dual status) after February 10, 1996, who is no longer a member of the Selected Reserve.
 
-(2) The Secretary concerned may pay compensation described in paragraph (1) to an individual described in that paragraph who is no longer a member of the Selected Reserve for a period not to exceed six months following the individual's loss of membership in the Selected Reserve if the Secretary determines that such loss of membership was not due to the failure of that individual to meet military standards.
+(2) Except as otherwise provided by law, the Secretary concerned may pay compensation described in paragraph (1) to an individual described in that paragraph who is no longer a member of the Selected Reserve for a period up to 12 months following the individual's loss of membership in the Selected Reserve if the Secretary determines that such loss of membership was not due to the failure of that individual to meet military standards.
 
-(Added Pub. L. 104–106, div. A, title V, §513(c)(1), Feb. 10, 1996, 110 Stat. 306; amended Pub. L. 104–201, div. A, title IV, §413(b), (c), title XII, §1214, Sept. 23, 1996, 110 Stat. 2507, 2508, 2695; Pub. L. 105–85, div. A, title V, §522(a), (b), (f)–(h)(1), Nov. 18, 1997, 111 Stat. 1734–1736.)
+(Added Pub. L. 104–106, div. A, title V, §513(c)(1), Feb. 10, 1996, 110 Stat. 306; amended Pub. L. 104–201, div. A, title IV, §413(b), (c), title XII, §1214, Sept. 23, 1996, 110 Stat. 2507, 2508, 2695; Pub. L. 105–85, div. A, title V, §522(a), (b), (f)–(h)(1), Nov. 18, 1997, 111 Stat. 1734–1736; Pub. L. 106–65, div. A, title V, §521, Oct. 5, 1999, 113 Stat. 595.)
 
 #### Amendments
+
+1999—Subsec. (a)(1)(A). Pub. L. 106–65, §521(a)(1), substituted “section 709(b)” for “section 709”.
+
+Subsec. (a)(1)(C). Pub. L. 106–65, §521(a)(2), inserted “civilian” after “is assigned to a”.
+
+Subsec. (e)(1). Pub. L. 106–65, §521(b)(1), inserted “(dual status)” after “military technician” the second place it appeared.
+
+Subsec. (e)(2). Pub. L. 106–65, §521(b)(2), substituted “Except as otherwise provided by law, the Secretary” for “The Secretary” and “up to 12 months” for “not to exceed six months”.
 
 1997—Pub. L. 105–85, §522(h), inserted “(dual status)” after “military technicians” in section catchline.
 
@@ -118,5 +126,5 @@ Subsec. (d). Pub. L. 104–201, §1214(1), redesignated subsec. (c) as (d).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 115a, 10217 of this title.
+This section is referred to in sections 115a, 10217 of this title; title 5 sections 8337, 8401; title 32 section 709; title 37 section 1002.
 

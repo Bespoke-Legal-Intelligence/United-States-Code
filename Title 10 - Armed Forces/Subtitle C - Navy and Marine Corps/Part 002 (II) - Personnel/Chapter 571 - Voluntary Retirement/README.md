@@ -39,6 +39,10 @@ Pub. L. 104–106, div. A, title V, §561(d)(3)(B), Feb. 10, 1996, 110 Stat. 323
 
 General military law provisions, see section 1201 et seq. of this title.
 
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 6371 of this title.
+
 
 ---
 

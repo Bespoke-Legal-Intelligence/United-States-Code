@@ -6,7 +6,7 @@ It is unlawful for the pilot of any aircraft to transport, or for any individual
 
 #### (b) Sea transfers
 
-It is unlawful for any person to transfer merchandise between an aircraft and a vessel on the high seas or in the customs waters of the UnitedStates if such person has not been authorized by the Secretary to make such transfer and—
+It is unlawful for any person to transfer merchandise between an aircraft and a vessel on the high seas or in the customs waters of the United States if such person has not been authorized by the Secretary to make such transfer and—
 
 &emsp;(1) either—
 
@@ -24,7 +24,7 @@ Any person who violates any provision of this section is liable for a civil pena
 
 In addition to being liable for a civil penalty under subsection (c) of this section, any person who intentionally commits a violation of any provision of this section is, upon conviction—
 
-&emsp;(1) liable for a fine of not more than $10,000 or imprisonment for not more than 5 years, or both, if none of the merchandise involved was a controlled substance; or
+&emsp;(1) liable for a fine of not more than $10,000 or imprisonment for not more than 5 years, orboth, if none of the merchandise involved was a controlled substance; or
 
 &emsp;(2) liable for a fine of not more than $250,000 or imprisonment for not more than 20 years, or both, if any of the merchandise involved was a controlled substance.
 
@@ -77,6 +77,10 @@ A prior section 1590, act June 17, 1930, ch. 497, title IV, §590, 46 Stat. 750,
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
+
+#### Contiguous Zone of United States
+
+For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 

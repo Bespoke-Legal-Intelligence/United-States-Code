@@ -10,5 +10,5 @@ Section effective thirty days after Dec. 16, 1967, see section 220(a)(4) of Pub.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 16 section 2443; title 46 App. section 1717.
+This section is referred to in title 16 section 2443.
 

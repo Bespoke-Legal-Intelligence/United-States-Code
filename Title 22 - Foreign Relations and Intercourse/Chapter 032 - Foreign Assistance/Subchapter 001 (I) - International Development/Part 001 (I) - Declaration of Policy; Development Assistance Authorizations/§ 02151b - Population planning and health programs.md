@@ -14,7 +14,7 @@ In order to increase the opportunities and motivation for family planning and to
 
 #### (c) Assistance for health programs; special health needs of children and mothers; Child Survival Fund; promotion of immunization and oral rehydration
 
-(1) In order to contribute to improvements in the health of the greatest number of poor people in developing countries, the President is authorized to furnish assistance, on such terms and conditions as he may determine, for health programs. Assistance under this subsection shall be used primarily for basic integrated health services, safe water and sanitation, disease prevention and control, and related health planning and research. This assistance shall emphasize self-sustaining community-based health programs by means such as training of health auxiliary and other appropriate personnel, support for the establishment and evaluation of projects that can be replicated on a broader scale, measures to improve management of health programs, and other services and supplies to support health and disease prevention programs.
+(1) In order to contribute to improvements in the health of the greatest number of poor people in developing countries, the President is authorized to furnish assistance, on such terms andconditions as he may determine, for health programs. Assistance under this subsection shall be used primarily for basic integrated health services, safe water and sanitation, disease prevention and control, and related health planning and research. This assistance shall emphasize self-sustaining community-based health programs by means such as training of health auxiliary and other appropriate personnel, support for the establishment and evaluation of projects that can be replicated on a broader scale, measures to improve management of health programs, and other services and supplies to support health and disease prevention programs.
 
 (2)(A) In carrying out the purposes of this subsection, the President shall promote, encourage, and undertake activities designed to deal directly with the special health needs of children and mothers. Such activities should utilize simple, available technologies which can significantly reduce childhood mortality, such as improved and expanded immunization programs, oral rehydration to combat diarrhoeal diseases, and education programs aimed at improving nutrition and sanitation and at promoting child spacing. In carrying out this paragraph, guidance shall be sought from knowledgeable health professionals from outside the agency primarily responsible for administering subchapter I of this chapter. In addition to government-to-government programs, activities pursuant to this paragraph should include support for appropriate activities of the types described in this paragraph which are carried out by international organizations (which may include international organizations receiving funds under part III of this subchapter) and by private and voluntary organizations, and should include encouragement to other donors to support such types of activities.
 
@@ -70,7 +70,7 @@ This chapter, referred to in subsec. (e)(1), was in the original “this Act”,
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), andVIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Codification
 
@@ -110,7 +110,7 @@ Subsec. (g)(2). Pub. L. 96–53, §102(a), substituted provisions authorizing ap
 
 1977—Subsec. (a). Pub. L. 95–88, §103(a), transferred to subsec. (b) provisions covering the President's authority to furnish assistance for health purpose and, in the provisions covering population planning remaining in subsec. (a), struck out provisions authorizing the appropriations of $145,000,000 for fiscal year 1974, $165,000,000 for fiscal year 1975, $243,100,000 for fiscal year 1976, and $275,600,000 for fiscal year 1977, struck out provisions requiring that not less than 67 percent of the funds made available under this section be used for population planning, and inserted provisions authorizing an appropriation of $167,000,000 for fiscal year 1978.
 
-Subsec. (b). Pub. L. 95–88, §103(a), added subsec. (b), consisting of provisions transferred from subsec. (a) covering the President's authority to furnish assistance for health purposes, inserted references to disease prevention and environmental sanitation, and inserted provisions authorizing an appropriation of $107,700,000 for fiscal year 1978. Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 95–88, §103(a), added subsec. (b), consisting of provisions transferred from subsec. (a)covering the President's authority to furnish assistance for health purposes, inserted references to disease prevention and environmental sanitation, and inserted provisions authorizing an appropriation of $107,700,000 for fiscal year 1978. Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 95–88, §103(b), redesignated former subsec. (b) as (c).
 
@@ -137,6 +137,10 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 #### Effective Date of 1977 Amendment
 
 Section 103(d) of Pub. L. 95–88 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect on October 1, 1977.”
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Progress Report on Implementation of Immunization and Oral Rehydration Promotion Programs
 

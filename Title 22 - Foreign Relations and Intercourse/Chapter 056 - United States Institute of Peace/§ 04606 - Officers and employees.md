@@ -10,7 +10,7 @@ Subject to the provisions of section 4604(h)(3) of this title, the Board shall a
 
 #### (c) Appointment, compensation and status of personnel
 
-The president, subject to Institute's bylaws and general policies established by the Board,may appoint, fix the compensation of, and remove such employees of the Institute as the president determines necessary to carry out the purposes of the Institute. In determining employee rates of compensation, the president shall be governed by the provisions of title 5 relating to classification and General Schedule pay rates.
+The president, subject to Institute's bylaws and general policies established by the Board, may appoint, fix the compensation of, and remove such employees of the Institute as the president determines necessary to carry out the purposes of the Institute. In determining employee rates of compensation, the president shall be governed by the provisions of title 5 relating to classification and General Schedule pay rates.
 
 #### (d) Assignment of Federal officers or employees to the Institute
 
@@ -56,5 +56,5 @@ The provisions of title 28 which relate to Federal tort claims liability, referr
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
 

@@ -4,11 +4,11 @@
 
 The Director of the Federal Bureau of Investigation is authorized to—
 
-&emsp;(1) establish and conduct training programs at the Federal Bureau of Investigation National Academy at Quantico, Virginia, to provide, at the request of a State or unit of local government, training for State and local criminal justice personnel;
+&emsp;(1) establish and conduct training programs at the Federal Bureau of Investigation National Academy at Quantico, Virginia, to provide, at the request of a State, unit of local government, or rail carrier, training for State and local criminal justice personnel, including railroad police officers;
 
 &emsp;(2) develop new or improved approaches, techniques, systems, equipment, and devices to improve and strengthen criminal justice; and
 
-&emsp;(3) assist in conducting, at the request of a State or unit of local government, local and regional training programs for the training of State and local criminal justice personnel engaged in the investigation of crime and the apprehension of criminals. Training for rural criminal justice personnel shall include, when appropriate, effective use of regional resources and methods to improve coordination among criminal justice personnel in different areas and in different levels of government. Such training shall be provided only for persons actually employed as State police or highway patrol, police of a unit of local government, sheriffs, and their deputies, and other persons as the State or such unit may nominate for police training while such persons are actually employed as officers of such State or unit.
+&emsp;(3) assist in conducting, at the request of a State, unit of local government, or rail carrier, local and regional training programs for the training of State and local criminal justice personnel engaged in the investigation of crime and the apprehension of criminals. Training for rural criminal justice personnel shall include, when appropriate, effective use of regional resources and methods to improve coordination among criminal justice personnel in different areas and in different levels of government. Such training shall be provided only for persons actually employed as State police or highway patrol, police of a unit of local government, sheriffs, and their deputies, railroad police officer,<sup>1</sup> and other persons as the State, unit of local government, or rail carrier may nominate for police training while such persons are actually employed as officers of such State, unit of local government, or rail carrier.
 
 #### (b) General authority of Attorney General over Director
 
@@ -18,7 +18,19 @@ In the exercise of the functions, powers, and duties established under this sect
 
 Notwithstanding the provisions of subsection (a) of this section, the Secretary of the Treasury is authorized to establish, develop, and conduct training programs at the Federal Law Enforcement Training Center at Glynco, Georgia, to provide, at the request of a State or unit of local government, training for State and local criminal justice personnel provided that such training does not interfere with the Center's mission to train Federal law enforcement personnel.
 
-(Pub. L. 90–351, title I, §701, as added Pub. L. 98–473, title II, §609A(a), Oct. 12, 1984, 98 Stat. 2090.)
+#### (d) Rail carrier costs
+
+No Federal funds may be used for any travel, transportation, or subsistence expenses incurred in connection with the participation of a railroad police officer in a training program conducted under subsection (a) of this section.
+
+#### (e) Definitions
+
+In this section—
+
+&emsp;(1) the terms “rail carrier” and “railroad” have the meanings given such terms in section 20102 of title 49; and
+
+&emsp;(2) the term “railroad police officer” means a peace officer who is commissioned in his or her State of legal residence or State of primary employment and employed by a rail carrier to enforce State laws for the protection of railroad property, personnel, passengers, or cargo.
+
+(Pub. L. 90–351, title I, §701, as added Pub. L. 98–473, title II, §609A(a), Oct. 12, 1984, 98 Stat. 2090; amended Pub. L. 106–110, §1, Nov. 24, 1999, 113 Stat. 1497.)
 
 #### Prior Provisions
 
@@ -48,15 +60,25 @@ Section 3775, Pub. L. 90–351, title I, §705, as added Pub. L. 96–157, §2, 
 
 For other prior sections 3772 to 3774, see note set out preceding section 3750 of this title.
 
+#### Amendments
+
+1999—Subsec. (a)(1). Pub. L. 106–110, §1(a)(1), substituted “State, unit of local government, or rail carrier” for “State or unit of local government” and inserted “, including railroad police officers” before semicolon at end.
+
+Subsec. (a)(3). Pub. L. 106–110, §1(a)(2), substituted “State, unit of local government, or rail carrier” for “State or unit of local government”, “State or such unit”, and “State or unit” and inserted “railroad police officer,” after “deputies,”.
+
+Subsecs. (d), (e). Pub. L. 106–110, §1(b), (c), added subsecs. (d) and (e).
+
 #### Effective Date
 
 Section effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as a note under section 3711 of this title.
 
 #### Annual Outstanding Student Award
 
-Pub. L. 105–277, div. A, §101(h) \[title I\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–483, provided in part: “That the \[Federal Law Enforcement Training\] Center is authorized to accept and use gifts of property, both real and personal, and to accept services, for authorized purposes, including funding of a gift of intrinsic value which shall be awarded annually by the Director of the Center to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, which shall be funded only by gifts received through the Center's gift authority”.
+Pub. L. 106–58, title I, Sept. 29, 1999, 113 Stat. 432, provided in part: “That the \[Federal Law Enforcement Training\] Center is authorized to accept and use gifts of property, both real and personal, and to accept services, for authorized purposes, including funding of a gift of intrinsic value which shall be awarded annually by the Director of the Center to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, which shall be funded only by gifts received through the Center's gift authority”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–277, div. A, §101(h) \[title I\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–483.
 
 Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1275.
 

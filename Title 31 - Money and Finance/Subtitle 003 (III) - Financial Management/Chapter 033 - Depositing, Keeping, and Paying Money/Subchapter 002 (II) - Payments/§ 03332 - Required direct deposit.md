@@ -16,7 +16,7 @@
 
 (e)(1) Notwithstanding subsections (a) through (d) of this section, sections 5120(a) and (d) of title 38, and any other provision of law, all Federal payments to a recipient who becomes eligible for that type of payment after 90 days after the date of the enactment of the Debt Collection Improvement Act of 1996 shall be made by electronic funds transfer.
 
-(2) The head of a Federal agency shall, with respect to Federal payments made or authorizedby the agency, waive the application of paragraph (1) to a recipient of those payments upon receipt of written certification from the recipient that the recipient does not have an account with a financial institution or an authorized payment agent.
+(2) The head of a Federal agency shall, with respect to Federal payments made or authorized by the agency, waive the application of paragraph (1) to a recipient of those payments upon receipt of written certification from the recipient that the recipient does not have an account with a financial institution or an authorized payment agent.
 
 (f)(1) Notwithstanding any other provision of law (including subsections (a) through (e) of this section and sections 5120(a) and (d) of title 38), except as provided in paragraph (2) all Federal payments made after January 1, 1999, shall be made by electronic funds transfer.
 
@@ -40,7 +40,7 @@
 
 (i)(1) The Secretary of the Treasury may prescribe regulations that the Secretary considers necessary to carry out this section.
 
-(2) Regulations under this subsection shall ensure that individuals required under subsection (g) to have an account at a financial institution because of the application of subsection (f)(1)—
+(2) Regulations under this subsection shall ensure that individuals required under subsection\(g) to have an account at a financial institution because of the application of subsection (f)(1)—
 
 &emsp;(A) will have access to such an account at a reasonable cost; and
 
@@ -130,7 +130,7 @@ In subsections (b)–(f), the words “officer or employee” are substituted fo
 
 In subsections (b) and (d), the word “official” is substituted for “officer” for consistency in the revised title and with other titles of the Code. The words “issue a check payable to” are substituted for “make the payment . . . by sending to . . . a check that is drawn in favor of the organization” for clarity and consistency and to eliminate unnecessary words.
 
-In subsection (b), before clause (1), the words “Notwithstanding subsection (a) of this section or any other provision of law” are omitted as unnecessary. The words “may designate in writing not more than 3 financial organizations to which a payment of pay of the officer or employee shall be sent and the amount to be sent to each organization” are substituted for “upon the written request of an employee of the agency to whom a payment for wages or salary is to be made . . . in the form of one, two, or three checks (the number ofchecks . . . if more than one . . . designated by such employee” for clarity, consistency in the revised title and with other titles of the Code, and to eliminate unnecessary words.
+In subsection (b), before clause (1), the words “Notwithstanding subsection (a) of this section or any other provision of law” are omitted as unnecessary. The words “may designate in writing not more than 3 financial organizations to which a payment of pay of the officer or employee shall be sent and the amount to be sent to each organization” are substituted for “upon the written request of an employee of the agency to whom a payment for wages or salary is to be made . . . in the form of one, two, or three checks (the number of checks . . . if more than one . . . designated by such employee” for clarity, consistency in the revised title and with other titles of the Code, and to eliminate unnecessary words.
 
 In subsection (c), the words “(except for a financial organization designated by an officer or employee of either House of Congress)” are substituted for section 1(b)(last sentence) and (c)(last sentence) of the Act of July 19, 1975 (Pub. L. 94–57, 89 Stat. 265), because of the restatement. The words “to which such check is sent” are omitted because of the restatement.
 
@@ -158,7 +158,11 @@ The Internal Revenue Code of 1986, referred to in subsec. (j)(3), is classified 
 
 Subsecs. (c) to (g). Pub. L. 98–369, §2814(b), struck out subsec. (c) which related to reimbursement of an agency for issuing additional checks, and redesignated subsecs. (d) to (g) as (c) to (f), respectively.
 
+#### Savings Provision
+
+Any waiver in effect on Oct. 5, 1999, under subsec. (f)(2)(A)(i) of this section to remain in effect until otherwise provided by the Secretary of Defense under section 2786 of Title 10, Armed Forces, see section 1008(a)(3) of Pub. L. 106–65, set out as a note under section 2786 of Title 10.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 1594.
+This section is referred to in title 10 sections 1594, 2786.
 

@@ -60,7 +60,7 @@ As used in this subchapter—
 
 #### Amendment of Section
 
-<i>Pub. L. 102–251, title III, §§307(a), 308, Mar. 9, 1992, 106 Stat. 66, provided that, effective on the date on which the Agreement between the</i><i>United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, paragraph (6) of this section is amended:</i>
+<i>Pub. L. 102–251, title III, §§307(a), 308, Mar. 9, 1992, 106 Stat. 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, paragraph (6) of this section is amended:</i>
 
 <i>(1) by striking “and” at the end of subparagraph (E);</i>
 
@@ -141,6 +141,10 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between the 
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
+
+#### Contiguous Zone of United States
+
+For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -68,7 +68,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c)(1), is
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–202 and Pub. L. 100–203, §5011(e)(2), which contained identical amendments directing that “at the Yucca Mountain site” be substituted for “beginning” and all that follows through“geological media”, were executed by substituting “at the Yucca Mountain site” for “beginning with the candidate sites that have been approved under section 10132 of this title and are located in various geologic media” as the probable intent of Congress.
+1987—Subsec. (a). Pub. L. 100–202 and Pub. L. 100–203, §5011(e)(2), which contained identical amendments directing that “at the Yucca Mountain site” be substituted for “beginning” and all that follows through “geological media”, were executed by substituting “at the Yucca Mountain site” for “beginning with the candidate sites that have been approved under section 10132 of this title and are located in various geologic media” as the probable intent of Congress.
 
 Pub. L. 100–202 and Pub. L. 100–203, §5011(e)(1), amended subsec. (a) identically, substituting “State of Nevada” for “State involved or the governing body of the affected Indian tribe involved”.
 
@@ -76,7 +76,7 @@ Subsec. (b)(1). Pub. L. 100–202 and Pub. L. 100–203, §5011(f)(1), amended p
 
 Subsec. (b)(2). Pub. L. 100–202 and Pub. L. 100–203, §5011(f)(2), amended par. (2) identically, substituting “the Yucca Mountain site” for “any candidate site”.
 
-Subsec. (b)(3). Pub. L. 100–202 and Pub. L. 100–203, §5011(f)(3), amended par. (3) identically, substituting “the Yucca Mountain site” for “a candidate site”, striking “either” before “the Governor”, and substituting “the State of Nevada” for “the State in which such candidate site is located, or the governing body of the affected Indian tribe where such candidate site is located, as the case may be”.
+Subsec. (b)(3). Pub. L. 100–202 and Pub. L. 100–203, §5011(f)(3), amended par. (3) identically, substituting “the Yucca Mountain site” for “a candidate site”, striking “either” before “the Governor”, and substituting “the State of Nevada” for “the State in which suchcandidate site is located, or the governing body of the affected Indian tribe where such candidate site is located, as the case may be”.
 
 Subsec. (c)(1). Pub. L. 100–202 and Pub. L. 100–203, §5011(g)(1), amended par. (1) identically, substituting “the Yucca Mountain site” for “any candidate site”, “suitability of such site” for “suitability of such candidate site”, and “repository at such site” for “repository at such candidate site”.
 

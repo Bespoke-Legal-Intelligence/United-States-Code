@@ -6,7 +6,7 @@ Sections were omitted in the general amendment of the Elementary and Secondary E
 
 Section 3221, Pub. L. 89–10, title V, §5141, as added Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 262; amended Pub. L. 101–226, §16, Dec. 12, 1989, 103 Stat. 1935, defined terms used in this subchapter.
 
-A prior section 3221, Pub. L. 89–10, title VII, §701, as added Pub. L. 95–561, title VII, §701, Nov. 1, 1978, 92 Stat. 2268; amended Pub. L. 98–511, title II, §201, Oct. 19, 1984, 98 Stat. 2369, provided short title of Bilingual Education Act, prior to the general amendment of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, by Pub. L. 100–297.
+A prior section 3221, Pub. L. 89–10, title VII, §701, as added Pub. L. 95–561, title VII, §701, Nov. 1, 1978, 92 Stat.2268; amended Pub. L. 98–511, title II, §201, Oct. 19, 1984, 98 Stat. 2369, provided short title of Bilingual Education Act, prior to the general amendment of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, by Pub. L. 100–297.
 
 Section 3222, Pub. L. 89–10, title V, §5142, as added Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 263; amended Pub. L. 100–690, title III, §3310, Nov. 18, 1988, 102 Stat. 4251, related to functions of Secretary of Education.
 

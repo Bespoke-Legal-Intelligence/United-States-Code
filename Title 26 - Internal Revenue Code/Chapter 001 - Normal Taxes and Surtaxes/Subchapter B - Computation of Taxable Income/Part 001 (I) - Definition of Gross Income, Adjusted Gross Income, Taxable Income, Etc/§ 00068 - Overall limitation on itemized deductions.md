@@ -42,9 +42,9 @@ This section shall not apply to any estate or trust.
 
 (Added Pub. L. 101–508, title XI, §11103(a), Nov. 5, 1990, 104 Stat. 1388–406; amended Pub. L. 103–66, title XIII, §§13201(b)(3)(E), 13204, Aug. 10, 1993, 107 Stat. 459, 462; Pub. L. 105–277, div. J, title IV, §4004(b)(2), Oct. 21, 1998, 112 Stat. 2681–911.)
 
-#### Adjustment of Applicable Amount Under This Section for Tax Years Beginning in 1999
+#### Adjustment of Applicable Amount Under This Section for Tax Years Beginning in 2000
 
-<i>For adjustment of “applicable amount” for determining limitation on itemized deductions under this section for tax years beginning in 1999, see section 3.06 of Revenue Procedure 98–61, set out as a note under section 1 of this title.</i>
+<i>For adjustment of “applicable amount” for determining limitation on itemized deductions under this section for tax years beginning in 2000, see section 3.06 of Revenue Procedure 99–42, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 

@@ -14,7 +14,7 @@ Section was not enacted as part of the Bankhead-Jones Farm Tenant Act which cons
 
 #### Authorization of Appropriations
 
-Section 8 of act Sept. 6, 1950, ch. 897, 64 Stat. 770, provided that: “There is authorized to be appropriated tothe Secretary such sums as Congress may from time to time determine to be necessary to enable the Secretary to carry out the provisions of this Act \[sections 1033 to 1039 of this title\].”
+Section 8 of act Sept. 6, 1950, ch. 897, 64 Stat. 770, provided that: “There is authorized to be appropriated to the Secretary such sums as Congress may from time to time determine to be necessary to enable the Secretary to carry out the provisions of this Act \[sections 1033 to 1039 of this title\].”
 
 #### Cross References
 

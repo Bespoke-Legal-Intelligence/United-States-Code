@@ -4,7 +4,7 @@
 
 (b) The Archivist is authorized to obtain the services of experts and consultants under section 3109 of title 5.
 
-(c) Notwithstanding the provisions of section 973 of title 10 or any other provision of law, theArchivist, in carrying out the functions of the Archivist or the Administration, is authorized to utilize in the Administration the services of officials, officers, and other personnel in other Federal agencies, including personnel of the armed services, with the consent of the head of the agency concerned.
+(c) Notwithstanding the provisions of section 973 of title 10 or any other provision of law, the Archivist, in carrying out the functions of the Archivist or the Administration, is authorized to utilize in the Administration the services of officials, officers, and other personnel in other Federal agencies, including personnel of the armed services, with the consent of the head of the agency concerned.
 
 (d) Notwithstanding section 1342 of title 31, United States Code, the Archivist is authorized to accept and utilize voluntary and uncompensated services.
 

@@ -46,7 +46,7 @@ As used in this part:
 
 &emsp;&emsp;(C) is an institution whose cohort default rate equals or exceeds 20 percent for the most recent year for which data are available;
 
-> &emsp;may include in its appeal of such loss or rate a defense based on improper loan servicing (in addition to other defenses). In any such appeal, the Secretary shall take whatever stepsare necessary to ensure that such institution has access for a reasonable period of time, not to exceed 30 days, to a representative sample (as determined by the Secretary) of the relevant loan servicing and collection records used by a guaranty agency in determining whether to pay a claim on a defaulted loan or by the Department in determining an institution's default rate in the loan program under part C of this subchapter. The Secretary shall reduce the institution's cohort default rate to reflect the percentage of defaulted loans in the representative sample that are required to be excluded pursuant to subsection (m)(1)(B) of this section.
+> &emsp;may include in its appeal of such loss or rate a defense based on improper loan servicing (in addition to other defenses). In any such appeal, the Secretary shall take whatever steps are necessary to ensure that such institution has access for a reasonable period of time, not to exceed 30 days, to a representative sample (as determined by the Secretary) of the relevant loan servicing and collection records used by a guaranty agency in determining whether to pay a claim on a defaulted loan or by the Department in determining an institution's default rate in the loan program under part C of this subchapter. The Secretary shall reduce the institution's cohort default rate to reflect the percentage of defaulted loans in the representative sample that are required to be excluded pursuant to subsection (m)(1)(B) of this section.
 
 #### (4) Definition of mitigating circumstances
 
@@ -96,7 +96,7 @@ As used in this part:
 
 &emsp;&emsp;After July 1, 1999, any institution that has a cohort default rate that equals or exceeds 25 percent for each of the three most recent fiscal years for which data are available and that relies on the exception in subparagraph (B) to continue to be an eligible institution shall—
 
-&emsp;&emsp;&emsp;(i) submit to the Secretary a default management plan which the Secretary, in the Secretary's discretion, after consideration of the institution's history, resources, dollars in default, and targets for default reduction, determines is acceptable and provides reasonable assurance that theinstitution will, by July 1, 2002, have a cohort default rate that is less than 25 percent;
+&emsp;&emsp;&emsp;(i) submit to the Secretary a default management plan which the Secretary, in the Secretary's discretion, after consideration of the institution's history, resources, dollars in default, and targets for default reduction, determines is acceptable and provides reasonable assurance that the institution will, by July 1, 2002, have a cohort default rate that is less than 25 percent;
 
 &emsp;&emsp;&emsp;(ii) engage an independent third party (which may be paid with funds received under section 1059d of this title or part B of subchapter III of this chapter) to provide technical assistance in implementing such default management plan; and
 
@@ -136,7 +136,7 @@ As used in this part:
 
 &emsp;&emsp;&emsp;(i) is subject to examination and supervision by an agency of the United States or of the State in which its principal place of operation is established, and
 
-&emsp;&emsp;&emsp;(ii) does not have as its primary consumer credit function the making or holding of loans made to students under this part unless (I) it is a bank which is wholly owned by a State, or a bank which is subject to examination and supervision by an agency of the United States, makes student loans as a trustee pursuant to an express trust, operated as a lender under this part prior to January 1, 1975, and which meets the requirements of this provision prior to July 23, 1992, (II) it is a single wholly owned subsidiary of a bank holding company which does not have as its primary consumer credit function the making or holding of loans made to students under this part, or (III) it is a bank (as defined in section 1813(a)(1) of title 12) that is a wholly owned subsidiary of a nonprofit foundation, the foundation is described in section 501(c)(3) of title 26 and exempt from taxation under section 501(1) of such title, and the bank makes loans under this part only to undergraduate students who are age 22 or younger and has a portfolio of such loans that is not more than $5,000,000;
+&emsp;&emsp;&emsp;(ii) does not have as its primary consumer credit function the making or holding of loans made to students under this part unless (I) it is a bank which is wholly owned by a State, or a bank which is subject to examination and supervision by an agency of the United States, makes student loans as a trustee pursuant to an express trust, operated as a lender under this part prior to January 1, 1975, and which meets the requirements of this provision prior to July 23, 1992, (II) it is a single wholly owned subsidiary of a bank holding company which does not have as its primary consumer credit function the making or holding of loans made to students under this part, or (III) it is a bank (as defined in section 1813(a)(1) of title 12) that is a wholly owned subsidiary of a nonprofit foundation, the foundation is described in section 501(c)(3) of title 26 and exempt from taxation under section 501(1) of such title, and the bank makes loans under thispart only to undergraduate students who are age 22 or younger and has a portfolio of such loans that is not more than $5,000,000;
 
 &emsp;&emsp;(B) a pension fund as defined in the Employee Retirement Income Security Act \[29 U.S.C. 1001 et seq.\];
 
@@ -194,7 +194,7 @@ As used in this part:
 
 &emsp;The term “eligible lender” does not include any lender that the Secretary determines, after notice and opportunity for a hearing, has after October 17, 1986—
 
-&emsp;&emsp;(A) offered, directly or indirectly, points, premiums, payments, or other inducements, to any educational institution or individual in order to secure applicants for loans under this part;
+&emsp;&emsp;(A) offered, directly or indirectly, points, premiums, payments, or other inducements, to any educational institution or individualin order to secure applicants for loans under this part;
 
 &emsp;&emsp;(B) conducted unsolicited mailings to students of student loan application forms, except to students who have previously received loans under this part from such lender;
 
@@ -250,7 +250,7 @@ Except as provided in subsection (m) of this section, the term “default” inc
 
 &emsp;(B) A loan on which a payment is made by the school, such school's owner, agent, contractor, employee, or any other entity or individual affiliated with such school, in order to avoid default by the borrower, is considered as in default for purposes of this subsection.
 
-&emsp;(C) Any loan which has been rehabilitated before the end of such following fiscal year is not considered as in default for the purposes of this subsection. The Secretary may require guaranty agencies to collect data with respect to defaulted loans in a manner that will permit the identification of any defaulted loan for which (i) the borrower is currently making payments and has made not less than 6 consecutive on-time payments by the end of such following fiscal year, and (ii) a guaranty agency has renewed the borrower's title IV eligibility as provided in section 1078–6(b) of this title.
+&emsp;(C) Any loan which has been rehabilitated before the end of such following fiscal year is not considered as in default for the purposes of this subsection. The Secretary may require guaranty agencies to collect data with respectto defaulted loans in a manner that will permit the identification of any defaulted loan for which (i) the borrower is currently making payments and has made not less than 6 consecutive on-time payments by the end of such following fiscal year, and (ii) a guaranty agency has renewed the borrower's title IV eligibility as provided in section 1078–6(b) of this title.
 
 &emsp;(D) For the purposes of this subsection, a loan made in accordance with section 1078–1 <sup>2</sup> of this title (or the portion of a loan made under section 1078–3 of this title that is used to repay a loan made under section 1078–1 <sup>2</sup> of this title) shall not be considered to enter repayment until after the borrower has ceased to be enrolled in a course of study leading to a degree or certificate at an eligible institution on at least a half-time basis (as determined by the institution) and ceased to be in a period of forbearance based on such enrollment. Each eligible lender of a loan made under section 1078–1 <sup>2</sup> of this title (or a loan made under section 1078–3 of this title a portion of which is used to repay a loan made under section 1078–1 <sup>2</sup> of this title) shall provide the guaranty agency with the information necessary to determine when the loan entered repayment for purposes of this subsection, and the guaranty agency shall provide such information to the Secretary.
 
@@ -302,7 +302,7 @@ Section 1801(a)(4) of title 25, referred to in subsec. (a)(2)(C)(ii), was amende
 
 The Navajo Community College Act, referred to in subsec. (a)(2)(C)(iii), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 640a of Title 25 and Tables.
 
-The Employee Retirement Income Security Act, referred to in subsec. (d)(1)(B), probably means the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act, referred to in subsec. (d)(1)(B), probably means the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) ofTitle 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 Section 1078–1 of this title, referred to in subsecs. (a)(3)(B), (d)(1)(G), and (m)(1)(A), (2)(D), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
@@ -312,7 +312,7 @@ Title IV, referred to in subsec. (m)(2)(C), means title IV of the Higher Educati
 
 #### Prior Provisions
 
-A prior section 1085, Pub. L. 89–329, title IV, §435, Nov. 8, 1965, 79 Stat. 1247; Pub. L. 89–698, title II, §204, Oct. 29, 1966, 80 Stat. 1072; Pub. L. 90–575, title I, §§116(a), 118(a), Oct. 16, 1968, 82 Stat. 1023, 1026; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2130; Pub. L. 95–43, §1(a)(35), (36), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title IV, §§413(e), 421(e)(2), title XIII, §1391(a)(1), Oct. 3,1980, 94 Stat. 1418, 1432, 1503; Pub. L. 99–272, title XVI, §§16017(b)(2), 16020, Apr. 7, 1986, 100 Stat. 347, 349, defined terms used in this part, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1085, Pub. L. 89–329, title IV, §435, Nov. 8, 1965, 79 Stat. 1247; Pub. L. 89–698, title II, §204, Oct. 29, 1966, 80 Stat. 1072; Pub. L. 90–575, title I, §§116(a), 118(a), Oct. 16, 1968, 82 Stat. 1023, 1026; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2130; Pub. L. 95–43, §1(a)(35), (36), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title IV, §§413(e), 421(e)(2), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1418, 1432, 1503; Pub. L. 99–272, title XVI, §§16017(b)(2), 16020, Apr. 7, 1986, 100 Stat. 347, 349, defined terms used in this part, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -448,7 +448,7 @@ Pub. L. 105–244, title IV, §429(c)(2), Oct. 7, 1998, 112 Stat. 1708, provided
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective on reorganization effective date as defined in section 1087–3(h) of this title, see section 101(e) \[title VI, §602(b)(1)(B)\] of Pub. L. 104–208, set out as a note under section 1078–3 of this title.
+Amendment by Pub. L. 104–208 effective on reorganization effective date as defined in section 1087–3(h) of this title, see section 101(e) \[title VI, §602(b)(1)(B)\] ofPub. L. 104–208, set out as a note under section 1078–3 of this title.
 
 #### Effective Date of 1993 Amendments
 
@@ -462,7 +462,7 @@ Section 2(d)(1) of Pub. L. 102–26 provided that: “The amendments made by thi
 
 #### Effective Date of 1990 Amendment
 
-Section 3004(d) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section, section 1078 of this title, and provisions set out as a note under section 1078–1 of this title\] shall be effective July 1, 1991, except that the amendment made bysubsection (b) \[amending section 1078 of this title\] shall be effective upon enactment.”
+Section 3004(d) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section, section 1078 of this title, and provisions set out as a note under section 1078–1 of this title\] shall be effective July 1, 1991, except that the amendment made by subsection (b) \[amending section 1078 of this title\] shall be effective upon enactment.”
 
 #### Effective Date of 1987 Amendment
 

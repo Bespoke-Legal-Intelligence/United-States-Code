@@ -32,7 +32,7 @@ The plan transmitted under subsection (a) of this section shall contain, consist
 
 &emsp;(1) identify the functions of each covered agency that will be transferred to the Department under the plan;
 
-&emsp;(2) specify the steps to be taken by the Secretary of State to reorganize internally the functions of the Department, including the consolidation of offices and functions, that will be required under the plan in order to permit the Department to carry out the functions transferred to it under the plan;
+&emsp;(2) specify the steps to be taken by the Secretary of State to reorganize internally thefunctions of the Department, including the consolidation of offices and functions, that will be required under the plan in order to permit the Department to carry out the functions transferred to it under the plan;
 
 &emsp;(3) specify the funds available to each covered agency that will be transferred to the Department as a result of the transfer of functions of such agency to the Department;
 
@@ -74,7 +74,7 @@ The report accompanying the reorganization plan for the Department and the cover
 
 &emsp;&emsp;(C) any preliminary actions which have been taken in the implementation process;
 
-&emsp;(2) the number of personnel and positions of each covered agency (including civil service personnel, Foreign Service personnel, and detailees) that are expected to be transferredto the Department, separated from service with such agency, or eliminated under the plan, and a projected schedule for such transfers, separations, and terminations;
+&emsp;(2) the number of personnel and positions of each covered agency (including civil service personnel, Foreign Service personnel, and detailees) that are expected to be transferred to the Department, separated from service with such agency, or eliminated under the plan, and a projected schedule for such transfers, separations, and terminations;
 
 &emsp;(3) the number of personnel and positions of the Department (including civil service personnel, Foreign Service personnel, and detailees) that are expected to be transferred within the Department, separated from service with the Department, or eliminated under the plan, and a projected schedule for such transfers, separations, and terminations;
 
@@ -112,13 +112,27 @@ The report accompanying the reorganization plan for the Department and the cover
 
 #### (h) Publication
 
-The reorganization plan described in this section shall be printed in the Federal Register after the date upon which it first becomes effective.
+The reorganization plan described in this section shall be printed in the Federal Registerafter the date upon which it first becomes effective.
 
 (Pub. L. 105–277, div. G, subdiv. A, title XVI, §1601, Oct. 21, 1998, 112 Stat. 2681–795.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1), (3), (4), (c), and (f)(5), was in the original “this subdivision”, meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, known as the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under section 6501 of this title and Tables.
+
+#### Delegation of the Functions Vested in the President by Sections 1601(e) and 1601(g) of the Foreign Affairs Reform and Restructuring Act of 1998, as Enacted in Public Law 105–277
+
+Memorandum of President of the United States, Mar. 31, 1999, 64 F.R. 17079, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me by the Constitution and laws of the United States, including section 301 of title 3 of the United States Code, I hereby delegate to you the functions vested in the President by sections 1601(e) and 1601(g) of the Foreign Affairs Reform and Restructuring Act of 1998, as enacted in Public Law 105–277 \[22 U.S.C. 6601(e), (g)\].
+
+The functions delegated by this memorandum may be redelegated as appropriate.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

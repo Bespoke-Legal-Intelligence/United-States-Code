@@ -34,6 +34,8 @@ July 14, 1960, Pub. L. 86–653, §§6, 7, 74 Stat. 516.
 
 36:947.
 
+&nbsp;
+
 In subsection (a)(2), the words “several”, “always”, and “thereof . . . the hands of” are omitted as unnecessary.
 
 In subsection (a)(3), the words “State, territory, or possession of the United States” are substituted for “State or Territory” for consistency in the revised title and with other titles of the United States Code.

@@ -14,7 +14,7 @@ For the purposes of this chapter—
 
 (f) “Employee” means any individual employed by an employer, and includes any individual whose work has ceased as a consequence of, or in connection with, any current labor dispute or because of any unfair labor practice or because of exclusion or expulsion from a labor organization in any manner or for any reason inconsistent with the requirements of this chapter.
 
-(g) “Labor dispute” includes any controversy concerning terms, tenure, or conditions of employment, or concerning the association or representation of persons in negotiating, fixing, maintaining, changing, or seeking to arrange terms or conditions of employment, regardless of whether the disputants stand in the proximate relation of employer and employee.
+(g) “Labor dispute” includes any controversy concerning terms, tenure, or conditions of employment, or concerning the association or representation of persons in negotiating, fixing, maintaining, changing, or seeking to arrangeterms or conditions of employment, regardless of whether the disputants stand in the proximate relation of employer and employee.
 
 (h) “Trusteeship” means any receivership, trusteeship, or other method of supervision or control whereby a labor organization suspends the autonomy otherwise available to a subordinate body under its constitution or bylaws.
 
@@ -22,7 +22,7 @@ For the purposes of this chapter—
 
 (j) A labor organization shall be deemed to be engaged in an industry affecting commerce if it—
 
-&emsp;(1) is the certified representative of employees under the provisions of the National LaborRelations Act, as amended \[29 U.S.C. 151 et seq.\], or the Railway Labor Act, as amended \[45 U.S.C. 151 et seq.\]; or
+&emsp;(1) is the certified representative of employees under the provisions of the National Labor Relations Act, as amended \[29 U.S.C. 151 et seq.\], or the Railway Labor Act, as amended \[45 U.S.C. 151 et seq.\]; or
 
 &emsp;(2) although not certified, is a national or international labor organization or a local labor organization recognized or acting as the representative of employees of an employer or employers engaged in an industry affecting commerce; or
 

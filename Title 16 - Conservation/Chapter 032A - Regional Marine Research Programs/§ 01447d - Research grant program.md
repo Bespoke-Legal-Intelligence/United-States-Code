@@ -56,7 +56,7 @@ The Administrator of the National Oceanic and Atmospheric Administration shall a
 
 #### (d) Reporting
 
-Any recipient of a grant under this section shall report to the appropriate Board, not later than 18 months after award of the grant, on the activities of such recipient conducted pursuant to this subsection. Such report shall include narrative summaries and technical data in suchform as the Administrator of the National Oceanic and Atmospheric Administration may require.
+Any recipient of a grant under this section shall report to the appropriate Board, not later than 18 months after award of the grant, on the activities of such recipient conducted pursuant to this subsection. Such report shall include narrative summaries and technical data in such form as the Administrator of the National Oceanic and Atmospheric Administration may require.
 
 (Pub. L. 92–532, title IV, §405, as added Pub. L. 101–593, title III, §301, Nov. 16, 1990, 104 Stat. 2967.)
 

@@ -496,7 +496,7 @@ Not later than June 1 of each year, the Secretary shall submit to the Congress a
 
 The National Housing Act, referred to in subsecs. (a)(1), (b)(1), (e)(3)(A), and (f)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
-Section 183(c) of the Housing and Community Development Act of 1987, referred to in subsec. (b)(2)(D), is section 183(c) of Pub. L. 100–242, which is set out as a note under section 1437f of Title 42, The Public Health and Welfare.
+Section 183(c) of the Housing and Community Development Act of 1987, referred to in subsec. (b)(2)(D), is section 183(c) of Pub. L. 100–242, which was set out as a note under section 1437f of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 105–276, title V, §582(a)(2), Oct. 21, 1998, 112 Stat. 2643.
 
 Section 101 of the Housing and Urban Development Act of 1965, referred to in subsecs. (b)(2)(D)(i) and (e)(1)(D)(i)(VI), (VII), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, as amended, which enacted section 1701s of this title and amended sections 1451 and 1465 of Title 42.
 
@@ -520,7 +520,7 @@ Section was enacted as part of the Housing and Community Development Amendments 
 
 1998—Subsec. (g)(2). Pub. L. 105–276 substituted “any system of preferences established pursuant to section 6(c)(4)(A), 8(d)(1)(A), or 8(<i>o</i>)(6)(A)” for “the preferences for assistance under sections 6(c)(4)(A)(i), 8(d)(1)(A)(i), and 8(<i>o</i>)(3)(B)”.
 
-1994—Pub. L. 103–233 amended section generally, substituting present provisions for former provisions which related, in subsec. (a) to goals, in subsec. (b) to management or disposal of property by negotiated competitive bids, in subsec. (c) to maintenance of housing projects, in subsec. (d) to financial assistance to owner, in subsec. (e) to right of first refusal, in subsec. (f) to displacement of tenants and relocation assistance, in subsec. (g) to assignment or partial payment of mortgages, in subsec. (h) to limitations on certain project, loan, and mortgage sales, in subsec. (i) to definition of multifamily housing project, in subsec. (j) torules and regulations, in subsec. (k) to annual report describing status of projects, and in subsec. (<i>l</i>) to project-based assistance.
+1994—Pub. L. 103–233 amended section generally, substituting present provisions for former provisions which related, in subsec. (a) to goals, in subsec. (b) to management or disposal of property by negotiated competitive bids, in subsec. (c) to maintenance of housing projects, in subsec. (d) to financial assistance to owner, in subsec. (e) to right of first refusal, in subsec. (f) to displacement of tenants and relocation assistance, in subsec. (g) to assignment or partial payment of mortgages, in subsec. (h) to limitations on certainproject, loan, and mortgage sales, in subsec. (i) to definition of multifamily housing project, in subsec. (j) to rules and regulations, in subsec. (k) to annual report describing status of projects, and in subsec. (<i>l</i>) to project-based assistance.
 
 1993—Subsec. (<i>l</i>). Pub. L. 103–120 added subsec. (<i>l</i>).
 
@@ -582,7 +582,7 @@ Subsec. (d)(2)(B), (C). Pub. L. 96–399, §213(d), inserted exception for tenan
 
 Subsec. (f). Pub. L. 96–399, §213(e), substituted provisions respecting applicability to projects assisted or insured under this chapter, or subject to loans under section 1701q of this title or section 1452b of title 42, or projects acquired by the Secretary pursuant to any other provision of law, for provisions respecting applicability to assistance under section 1715z-1 of this title, the proviso of section 1715<i>l</i>(d)(5) of this title, or section 101 of the Housing and Urban Development Act of 1965, and projects insured under this chapter.
 
-1979—Subsec. (d)(2). Pub. L. 96–153 substituted “assure for any such tenant (who continues to meet applicablequalification standards) the right” for “seek to assure the maximum opportunity for any such tenant”.
+1979—Subsec. (d)(2). Pub. L. 96–153 substituted “assure for any such tenant (who continues to meet applicable qualification standards) the right” for “seek to assure the maximum opportunity for any such tenant”.
 
 #### Regulations
 

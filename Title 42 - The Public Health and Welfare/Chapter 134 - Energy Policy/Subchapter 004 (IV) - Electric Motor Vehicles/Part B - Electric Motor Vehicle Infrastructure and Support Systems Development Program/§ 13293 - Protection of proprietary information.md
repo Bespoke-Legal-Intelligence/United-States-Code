@@ -8,7 +8,7 @@ In the case of activities, including joint venture activities, under this subcha
 
 &emsp;(2) would be a trade secret or commercial or financial information that is privileged or confidential if the information had been obtained from a participant,
 
-> shall, notwithstanding any other provision of law, provide appropriate protections against the dissemination of such information to the public, and the provisions of section 1905 of title 18 shall apply to such information. Nothing in this subsection provides protections against the dissemination of such information to Congress.
+> shall, notwithstanding any other provision of law, provide appropriate protections against thedissemination of such information to the public, and the provisions of section 1905 of title 18 shall apply to such information. Nothing in this subsection provides protections against the dissemination of such information to Congress.
 
 #### (b) “Domestic companies” defined
 

@@ -160,7 +160,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13023, Nov. 6, 1996, 61 F.R. 57767, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, and in order to change the name of the “President's Council on Counter-Narcotics” to the “President's Drug Policy Council” and to make the Secretaries of the Interior, Agriculture, Health and Human Services, Housing and Urban Development, Education,Veterans Affairs, and the Assistant to the President for Domestic Policy, permanent members of the Council, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, and in order to change the name of the “President's Council on Counter-Narcotics” to the “President's Drug Policy Council” and to make the Secretaries of the Interior, Agriculture, Health and Human Services, Housing and Urban Development, Education, Veterans Affairs, and the Assistant to the President for Domestic Policy, permanent members of the Council, it is hereby ordered as follows:
 
 Section 1. The Council established by Executive Order 12992 \[set out above\] shall henceforth be called the “President's Drug Policy Council.”
 

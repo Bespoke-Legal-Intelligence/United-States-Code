@@ -12,7 +12,7 @@ For purposes of this part:
 
 &emsp;&emsp;(B) is a first-time homebuyer.
 
-&emsp;(4) The term “eligible property” means a single family property, containing no more than four units, that is owned or held by the Secretary, the Secretary of Veterans Affairs, the Secretary of Agriculture, the ResolutionTrust Corporation, the Federal Deposit Insurance Corporation, the Secretary of Defense, the Secretary of Transportation, the General Services Administration, any other Federal agency, a State or local government (including any in rem property), or a public housing agency or an Indian housing authority (excluding public or Indian housing under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] and including properties held by institutions within the jurisdiction of the Resolution Trust Corporation).
+&emsp;(4) The term “eligible property” means a single family property, containing no more than four units, that is owned or held by the Secretary, the Secretary of Veterans Affairs, the Secretary of Agriculture, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, the Secretary of Defense, the Secretary of Transportation, the General Services Administration, any other Federal agency, a State or local government (including any in rem property), or a public housing agency or an Indian housing authority (excluding public or Indian housing under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] and including properties held by institutions within the jurisdiction of the Resolution Trust Corporation).
 
 &emsp;(5) The term “first-time homebuyer” has the same meaning as in section 12704 of this title.
 

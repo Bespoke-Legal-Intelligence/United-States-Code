@@ -8,7 +8,7 @@ Board of Governors.—(1) The board of governors is the governing body of the co
 
 &emsp;(B) The chapters shall elect 30 governors at the national convention under procedures for nomination and election that ensure equitable representation of all chapters, with regard to geographical considerations, the size of the chapters, and the size of the populations served by the chapters.
 
-&emsp;(C) The board shall elect 12 governors as members-at-large. Those governors shall be individuals who are representative of the national interests that the corporation serves,and with which it is desirable that the corporation have close association.
+&emsp;(C) The board shall elect 12 governors as members-at-large. Those governors shall be individuals who are representative of the national interests that the corporation serves, and with which it is desirable that the corporation have close association.
 
 (2) One-third of the members elected to the board shall be elected at each national convention, and take office at that time or as soon as practicable after the convention.
 
@@ -52,13 +52,19 @@ Jan. 5, 1905, ch. 23, §5 (matter before (a)), (a), (b), (c) (1st–5th pars., l
 
 36:5(c) (2d, 4th pars.).
 
+&nbsp;
+
 300104(c)
 
 36:5(c) (5th par.).
 
+&nbsp;
+
 300104(d)
 
 36:5(c) (last par.).
+
+&nbsp;
 
 In subsection (a)(1), before clause (A), the word “direction” is omitted as included in “governing and managing”. In clause (A), the words “of the United States” and “as may from time to time be” are omitted as unnecessary.
 

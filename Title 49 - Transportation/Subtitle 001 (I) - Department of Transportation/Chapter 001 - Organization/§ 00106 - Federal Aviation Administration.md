@@ -16,7 +16,7 @@
 
 (2) An officer on active duty or a retired officer serving as Deputy Administrator is entitled to hold a rank and grade not lower than that held when appointed as Deputy Administrator. The Deputy Administrator may elect to receive (A) the pay provided by law for the Deputy Administrator, or (B) the pay and allowances or the retired pay of the military grade held. If the Deputy Administrator elects to receive the military pay and allowances or retired pay, the Administration shall reimburse the appropriate military department from funds available for the expenses of the Administration.
 
-(3) The appointment and service of a member of the armed forces as a Deputy Administrator does not affect the status, office, rank, or grade held by that member, or a right or benefit arising from the status, office, rank, or grade. The Secretary of a military department does notcontrol the member when the member is carrying out duties and powers of the Deputy Administrator.
+(3) The appointment and service of a member of the armed forces as a Deputy Administrator does not affect the status, office, rank, or grade held by that member, or a right or benefit arising from the status, office, rank, or grade. The Secretary of a military department does not control the member when the member is carrying out duties and powers of the Deputy Administrator.
 
 (e) The Administrator and the Deputy Administrator may not have a pecuniary interest in, or own stock in or bonds of, an aeronautical enterprise, or engage in another business, vocation, or employment.
 
@@ -68,11 +68,11 @@ Approval of secretary of transportation.—(i) The Administrator may not issue a
 
 &emsp;&emsp;&emsp;(IV) raise novel legal or policy issues arising out of legal mandates.
 
-&emsp;&emsp;(ii) In an emergency, the Administrator may issue a regulation described in clause (i) without prior approval by the Secretary, but any such emergency regulation is subject to ratification by the Secretary after it is issued and shall be rescinded by the Administrator within 5 days (excluding Saturdays, Sundays, and legal public holidays) after issuance if the Secretary fails to ratify its issuance.
+&emsp;&emsp;(ii) In an emergency, the Administrator may issue a regulation described in clause (i)without prior approval by the Secretary, but any such emergency regulation is subject to ratification by the Secretary after it is issued and shall be rescinded by the Administrator within 5 days (excluding Saturdays, Sundays, and legal public holidays) after issuance if the Secretary fails to ratify its issuance.
 
 &emsp;&emsp;(iii) Any regulation that does not meet the criteria of clause (i), and any regulation or other action that is a routine or frequent action or a procedural action, may be issued by the Administrator without review or approval by the Secretary.
 
-&emsp;&emsp;(iv) The Administrator shall submit a copy of any regulation requiring approval by the Secretary under clause (i) to the Secretary, who shall either approve it or return it tothe Administrator with comments within 45 days after receiving it.
+&emsp;&emsp;(iv) The Administrator shall submit a copy of any regulation requiring approval by the Secretary under clause (i) to the Secretary, who shall either approve it or return it to the Administrator with comments within 45 days after receiving it.
 
 &emsp;&emsp;(C)
 
@@ -112,7 +112,7 @@ Duties and Powers of Administrator.—(1) Except as provided in paragraph (2) of
 
 (k)
 
-Authorization of Appropriations for Operations.—There is authorized to be appropriated to the Secretary of Transportation for operations of the Administration $5,158,000,000 for fiscal year 1997 and $5,344,000,000 for fiscal year 1998.
+Authorization of Appropriations for Operations.—There is authorized to be appropriated to the Secretary of Transportation for operations of the Administration $5,632,000,000 for fiscal year 1999.
 
 (<i>l</i>)
 
@@ -286,7 +286,7 @@ General duties and responsibilities.—The Ombudsman shall—
 
 Number of full-time equivalent employees.—The appointment of an Ombudsman under this subsection shall not result in an increase in the number of full-time equivalent employees in the Administration.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272, §§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, 276(c), title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–102, §3(c)(3), Nov. 20, 1997, 111 Stat. 2215.)
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272, §§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, 276(c), title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–102, §3(c)(3), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §4, Mar. 31, 1999, 113 Stat. 10.)
 
 Historical and Revision Notes
 
@@ -420,6 +420,8 @@ The Federal Advisory Committee Act, referred to in subsec. (p)(5), is Pub. L. 92
 
 #### Amendments
 
+1999—Subsec. (k). Pub. L. 106–6 substituted “$5,632,000,000 for fiscal year 1999.” for “$5,158,000,000 for fiscal year 1997 and $5,344,000,000 for fiscal year 1998.”
+
 1997—Subsec. (g)(1)(A). Pub. L. 105–102 added Pub. L. 104–264, §276(c). See 1996 Amendment note below.
 
 1996—Subsec. (b). Pub. L. 104–287 substituted “August 23, 1994,” for “the date of the enactment of this sentence”.
@@ -520,7 +522,7 @@ Section 221 of Pub. L. 104–264 provided that: “Congress finds the following:
 
 &emsp;“(9) The Administration must have a new way of doing business.
 
-&emsp;“(10) There is widespread agreement within government and the aviation industry that reform of the Administration is essential to safely and efficiently accommodate the projected growth of aviation within the next decade.
+&emsp;“(10) There is widespread agreement within government and the aviation industry that reform of theAdministration is essential to safely and efficiently accommodate the projected growth of aviation within the next decade.
 
 &emsp;“(11) To the extent that Congress determines that certain segments of the aviation community are not required to pay all of the costs of the government services which they require and benefits which they receive, Congress should appropriate the difference between such costs and any receipts received from such segment.
 
@@ -581,6 +583,8 @@ Pub. L. 104–50, title III, §347, Nov. 15, 1995, 109 Stat. 460, as amended by 
 #### Dependents of Federal Aviation Administration Personnel
 
 Provisions authorizing the expenditure of certain funds appropriated for the Federal Aviation Administration for (1) except as otherwise authorized by title VIII of the Elementary and Secondary Education Act of 1965, see 20 U.S.C. 7701 et seq., expenses of primary and secondary schooling for dependents of Federal Aviation Administration personnel stationed outside the continental United States at costs for any given area not in excess of those of the Department of Defense for the same area, when it is determined by the Secretary that the schools, if any, available in the locality are unable to provide adequately for the education of such dependents, and (2) transportation of said dependents between schools serving the area which they attend and their places of residence when the Secretary, under such regulations as may be prescribed, determines that such schools are not accessible by public means of transportation on a regular basis, were contained in the following appropriation acts:
+
+Pub. L. 106–69, title III, §303, Oct. 9, 1999, 113 Stat. 1015.
 
 Pub. L. 105–277, div. A, §101(g) \[title III, §303\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–464.
 

@@ -4,7 +4,7 @@
 
 (b) The following provisions shall apply to the Postal Service:
 
-&emsp;(1) section 552 (public information), section 552a (records about individuals), section 552b (open meetings), section 3102 (employment of personal assistants for blind, deaf, or otherwise handicapped employees), section 3110 (restrictions on employment of relatives), section 3333 and chapters 72 (antidiscrimination; right to petition Congress) and 73 (suitability, security, and conduct of employees), section 5520 (withholding city income or employment taxes), and section 5532 (dual pay) of title 5, except that no regulation issued under such chapters or section shall apply to the Postal Service unless expressly made applicable;
+&emsp;(1) section 552 (public information), section 552a (records about individuals), section 552b (open meetings), section 3102 (employment of personal assistants for blind, deaf, or otherwise handicapped employees), section 3110 (restrictions on employment of relatives), section 3333 and chapters 72 (antidiscrimination; right to petition Congress) and 73 (suitability, security, and conduct of employees), section 5520 (withholding city income or employment taxes), and section 5532 <sup>1</sup> (dual pay) of title 5, except that no regulation issued under such chapters or section shall apply to the Postal Service unless expressly made applicable;
 
 &emsp;(2) all provisions of title 18 dealing with the Postal Service, the mails, and officers or employees of the Government of the United States;
 
@@ -66,6 +66,8 @@
 
 #### References in Text
 
+Section 5532 of title 5, referred to in subsec. (b)(1), was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
+
 Section 107 of title 20, known as the Randolph-Sheppard Act, referred to in subsec. (b)(3), is section 1 of act June 20, 1936, ch. 638, 49 Stat. 1559, as amended. The act of June 20, 1936, popularly known as the Randolph-Sheppard Act and also as the Randolph-Sheppard Vending Stand Act, is classified generally to chapter 6A (§107 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 107 of Title 20 and Tables.
 
 Sections 258a–258e of title 40, referred to in subsec. (b)(4)(A), are based on act Feb. 26, 1931, ch. 307, 46 Stat. 1421, as amended, known as the “Declaration of Taking Act”, which is classified to section 258a et seq. of Title 40, Public Buildings, Property, and Works. Pub. L. 99–656, §1(2), Nov. 14, 1986, 100 Stat. 3668, amended act Feb. 26, 1931 by adding section 6, which is classified to section 258e–1 of Title 40.
@@ -88,7 +90,7 @@ Section 19 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 668), re
 
 The provisions of the Act of August 12, 1968 (42 U.S.C. 4151–4156), referred to in subsec. (b)(8), probably means Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, as amended, popularly known as the Architectural Barriers Act of 1968, which is classified generally to chapter 51 (§4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
 
-The Inspector General Act of 1978, referred to in subsec. (b)(10), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (b)(10), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 Reorganization Plan numbered 14 of 1950 (title 5, appendix), referred to in subsec. (d)(2), is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5.
 
@@ -172,7 +174,7 @@ Subsecs. (a), (b)(2) to (6), and (c)(1) to (3), (5), (6) of this section effecti
 
 #### Applicability of Hatch Act Reform Amendments of 1993 to Postal Employees
 
-Section 7 of Pub. L. 103–94 provided that: “The amendments made by this Act \[enacting sections 5520a and 7321 to 7326 of Title 5, Government Organization and Employees, and section 610 of Title 18, Crimes and Criminal Procedure, amending this section, sections 1216, 2302, 3302, and 3303 of Title 5, sections 602 and 603of Title 18, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, and omitting former sections 7321 to 7328 of Title 5\] (except for the amendments made by section 8 \[amending sections 2302 and 3303 of Title 5\]), and any regulations thereunder, shall apply with respect to employees of the United States Postal Service and the Postal Rate Commission, pursuant to sections 410(b) and 3604(e) of title 39, United States Code.”
+Section 7 of Pub. L. 103–94 provided that: “The amendments made by this Act \[enacting sections 5520a and 7321 to 7326 of Title 5, Government Organization and Employees, and section 610 of Title 18, Crimes andCriminal Procedure, amending this section, sections 1216, 2302, 3302, and 3303 of Title 5, sections 602 and 603 of Title 18, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, and omitting former sections 7321 to 7328 of Title 5\] (except for the amendments made by section 8 \[amending sections 2302 and 3303 of Title 5\]), and any regulations thereunder, shall apply with respect to employees of the United States Postal Service and the Postal Rate Commission, pursuant to sections 410(b) and 3604(e) of title 39, United States Code.”
 
 #### Section Referred to in Other Sections
 

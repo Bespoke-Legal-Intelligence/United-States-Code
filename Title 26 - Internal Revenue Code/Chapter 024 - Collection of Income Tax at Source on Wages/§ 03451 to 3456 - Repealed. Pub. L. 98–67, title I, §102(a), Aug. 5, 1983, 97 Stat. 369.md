@@ -22,7 +22,7 @@ Pub. L. 98–67, title I, §102(a)–(d), Aug. 5, 1983, 97 Stat. 369, as amended
 
 “(a)
 
-In General.—Subtitle A of title III of the Tax Equity and Fiscal Responsibility Act of 1982 (relatingto withholding of tax from interest and dividends) \[subtitle A (§§301–308) of title III of Pub. L. 97–248, which enacted this section and sections 3452 to 3456 of this title, amended sections 31, 274, 275, 643, 661, 3403, 3502, 3507, 6013, 6015, 6042, 6044, 6051, 6365, 6401, 6413, 6654, 6682, 7205, 7215, 7654, and 7701 of this title and enacted provisions set out as a note above\] is hereby repealed as of the close of June 30, 1983.
+In General.—Subtitle A of title III of the Tax Equity and Fiscal Responsibility Act of 1982 (relating to withholding of tax from interest and dividends) \[subtitle A (§§301–308) of title III of Pub. L. 97–248, which enacted this section and sections 3452 to 3456 of this title, amended sections 31, 274, 275, 643, 661, 3403, 3502, 3507, 6013, 6015, 6042, 6044, 6051, 6365, 6401, 6413, 6654, 6682, 7205, 7215, 7654, and 7701 of this title and enacted provisions set out as a note above\] is hereby repealed as of the close of June 30, 1983.
 
 “(b)
 

@@ -6,7 +6,7 @@ The National Science Foundation, the Department of Energy, the National Institut
 
 &emsp;(1) support research, development, and demonstration of advanced networking technologies to increase the capabilities and improve the performance of the Internet;
 
-&emsp;(2) develop an advanced testbed network connecting a significant number of research sites, including universities, Federal research institutions, and other appropriate research partner institutions, to support networking research and to demonstrate new networking technologies; and
+&emsp;(2) develop an advanced testbed network connecting a significant number of research sites, including universities, Federal research institutions, and other appropriate researchpartner institutions, to support networking research and to demonstrate new networking technologies; and
 
 &emsp;(3) develop and demonstrate advanced Internet applications that meet important national goals or agency mission needs, and that are supported by the activities described in paragraphs (1) and (2).
 
@@ -34,7 +34,7 @@ The President's Information Technology Advisory Committee (established pursuant 
 
 #### (c) Reports
 
-The Advisory Committee shall review implementation of the Next Generation Internet program and shall report, not less frequently than annually, to the President, the Committee on Commerce, Science, and Transportation, the Committee on Appropriations, and the Committee on Armed Services of the Senate, and the Committee on Science, the Committee on Appropriations, and the Committee on National Security of the House of Representatives on its findings and recommendations for the preceding fiscal year. The first such report shall be submitted 6 months after October 28, 1998, and the last report shall be submitted by September 30, 2000.
+The Advisory Committee shall review implementation of the Next Generation Internet program and shall report, not less frequently than annually, to the President, the Committee on Commerce, Science, and Transportation, the Committee on Appropriations, and the Committee on Armed Services of the Senate, and the Committee on Science, the Committee on Appropriations, and the Committee on Armed Services of the House of Representatives on its findings and recommendations for the preceding fiscal year. The first such report shall be submitted 6 months after October 28, 1998, and the last report shall be submitted by September 30, 2000.
 
 #### (d) Authorization of appropriations
 
@@ -52,7 +52,7 @@ There are authorized to be appropriated for the purposes of this section—
 
 > Such funds may not be used for routine upgrades to existing federally funded communication networks.
 
-(Pub. L. 102–194, title I, §103, as added Pub. L. 105–305, §5, Oct. 28, 1998, 112 Stat. 2921.)
+(Pub. L. 102–194, title I, §103, as added Pub. L. 105–305, §5, Oct. 28, 1998, 112 Stat. 2921; amended Pub. L. 106–65, div. A, title X, §1067(20), Oct. 5, 1999, 113 Stat. 775.)
 
 #### References in Text
 
@@ -62,7 +62,7 @@ Section 7(1) of the Next Generation Internet Research Act of 1998, referred to i
 
 The National Science Foundation Authorization Act of 1998, referred to in subsec. (d)(2), is Pub. L. 105–207, July 29, 1998, 112 Stat. 869. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 1861 of Title 42, The Public Health and Welfare, and Tables.
 
-#### Change of Name
+#### Amendments
 
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+1999—Subsec. (c). Pub. L. 106–65 substituted “Committee on Armed Services of the House” for “Committee on National Security of the House”.
 

@@ -74,7 +74,7 @@ The conservation plan authorized by this section shall include—
 
 #### (1) Noncompliance
 
-&emsp;If the Secretary, the Director, and the Administrator determine that a conservation plan submitted by the Governor does not comply with the requirements of subsection (d) of this section, they shall submit to the Governor a statement explaining why the plan is not in compliance and how the plan should be changed to be in compliance.
+&emsp;If the Secretary, the Director, and the Administrator determine that a conservation plan submitted by the Governor does not comply with the requirements of subsection (d) ofthis section, they shall submit to the Governor a statement explaining why the plan is not in compliance and how the plan should be changed to be in compliance.
 
 #### (2) Reconsideration
 

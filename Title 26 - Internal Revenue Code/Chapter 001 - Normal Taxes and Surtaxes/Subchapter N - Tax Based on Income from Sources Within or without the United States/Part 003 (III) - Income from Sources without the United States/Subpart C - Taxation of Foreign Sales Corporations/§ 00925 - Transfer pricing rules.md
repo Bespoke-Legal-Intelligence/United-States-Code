@@ -32,7 +32,7 @@ A sale by a FSC meets the requirements of this subsection if—
 
 #### (d) Limitation on gross receipts pricing rule
 
-The amount determined under subsection (a)(1) with respect to any transaction shall not exceed 2 times the amount which would be determined under subsection (a)(2) with respect to such transaction.
+The amount determined under subsection (a)(1) with respect to any transaction shall notexceed 2 times the amount which would be determined under subsection (a)(2) with respect to such transaction.
 
 #### (e) Taxable income
 

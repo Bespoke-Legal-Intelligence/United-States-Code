@@ -14,7 +14,7 @@
 
 (b) A charge outstanding in an account of advances of a military department shall be removed by crediting the account of advances of the department and deducting the amount of the charge from an appropriation made available for advances to the department when—
 
-&emsp;(1) relief has been granted or may be granted later to a disbursing official or agent of the department operating under an account of advances and under a law having no provision forremoving charges outstanding in an account of advances; or
+&emsp;(1) relief has been granted or may be granted later to a disbursing official or agent of the department operating under an account of advances and under a law having no provision for removing charges outstanding in an account of advances; or
 
 &emsp;(2) the charge has been—
 

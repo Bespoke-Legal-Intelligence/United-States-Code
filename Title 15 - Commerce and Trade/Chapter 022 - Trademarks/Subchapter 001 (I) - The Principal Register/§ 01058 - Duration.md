@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each registration shall remain in force for 10 years, except that the registration of any mark shall be canceled by the Commissioner for failure to comply with the provisions of subsection (b) of this section, upon the expiration of the following time periods, as applicable:
+Each registration shall remain in force for 10 years, except that the registration of any mark shall be canceled by the Director for failure to comply with the provisions of subsection (b) of this section, upon the expiration of the following time periods, as applicable:
 
 &emsp;(1) For registrations issued pursuant to the provisions of this chapter, at the end of 6 years following the date of registration.
 
@@ -14,15 +14,15 @@ Each registration shall remain in force for 10 years, except that the registrati
 
 During the 1-year period immediately preceding the end of the applicable time period set forth in subsection (a) of this section, the owner of the registration shall pay the prescribed fee and file in the Patent and Trademark Office—
 
-&emsp;(1) an affidavit setting forth those goods or services recited in the registration on or in connection with which the mark is in use in commerce and such number of specimens or facsimiles showing current use of the mark as may be required by the Commissioner; or
+&emsp;(1) an affidavit setting forth those goods or services recited in the registration on or in connection with which the mark is in use in commerce and such number of specimens or facsimiles showing current use of the mark as may be required by the Director; or
 
 &emsp;(2) an affidavit setting forth those goods or services recited in the registration on or in connection with which the mark is not in use in commerce and showing that any such nonuse is due to special circumstances which excuse such nonuse and is not due to any intention to abandon the mark.
 
 #### (c) Grace period for submissions; deficiency
 
-(1) The owner of the registration may make the submissions required under this section within a grace period of 6 months after the end of the applicable time period set forth in subsection (a) of this section. Such submission is required to be accompanied by a surcharge prescribed by the Commissioner.
+(1) The owner of the registration may make the submissions required under this section within a grace period of 6 months after the end of the applicable time period set forth in subsection (a) of this section. Such submission is required to be accompanied by a surcharge prescribed by the Director.
 
-(2) If any submission filed under this section is deficient, the deficiency may be corrected after the statutory time period and within the time prescribed after notification of the deficiency. Such submission is required to be accompanied by a surcharge prescribed by the Commissioner.
+(2) If any submission filed under this section is deficient, the deficiency may be corrected after the statutory time period and within the time prescribed after notification of the deficiency. Such submission is required to be accompanied by a surcharge prescribed by the Director.
 
 #### (d) Notice of affidavit requirement
 
@@ -30,19 +30,25 @@ Special notice of the requirement for affidavits under this section shall be att
 
 #### (e) Notification of acceptance or refusal of affidavits
 
-The Commissioner shall notify any owner who files 1 of the affidavits required by this section of the Commissioner's acceptance or refusal thereof and, in the case of a refusal, the reasons therefor.
+The Director shall notify any owner who files 1 of the affidavits required by this section of the Commissioner's <sup>1</sup> acceptance or refusal thereof and, in the case of a refusal, the reasons therefor.
 
 #### (f) Designation of resident for service of process and notices
 
-If the registrant is not domiciled in the United States, the registrant shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Commissioner.
+If the registrant is not domiciled in the United States, the registrant shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Director.
 
-(July 5, 1946, ch. 540, title I, §8, 60 Stat. 431; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §8, Aug. 27, 1982, 96 Stat. 320; Pub. L. 100–667, title I, §110, Nov. 16, 1988, 102 Stat. 3939; Pub. L. 105–330, title I, §105, Oct. 30, 1998, 112 Stat. 3066.)
+(July 5, 1946, ch. 540, title I, §8, 60 Stat. 431; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §8, Aug. 27, 1982, 96 Stat. 320; Pub. L. 100–667, title I, §110, Nov. 16, 1988, 102 Stat. 3939; Pub. L. 105–330, title I, §105, Oct. 30, 1998, 112 Stat. 3066; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B), (C)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
 #### Prior Provisions
 
 Act Feb. 20, 1905, ch. 592, §12, 33 Stat. 727.
 
 #### Amendments
+
+1999—Subsecs. (a) to (c). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], substituted “Director” for “Commissioner” wherever appearing.
+
+Subsec. (e). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B), (C)\], amended subsec. (e) identically, substituting “Director” for “Commissioner”.
+
+Subsec. (f). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], substituted “Director” for “Commissioner”.
 
 1998—Pub. L. 105–330 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (c) relating to affidavits of continuing use, registrations published under other provisions of law, and notification of acceptance or refusal of affidavits.
 
@@ -52,9 +58,13 @@ Act Feb. 20, 1905, ch. 592, §12, 33 Stat. 727.
 
 1975—Subsecs. (a), (b). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–330 effective on the date that is 1 year after Oct. 30, 1998, or upon the entry into force of the Trademark Law Treaty with respect to the United States, whichever occurs first, see section 110 of Pub. L. 105–330, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 105–330 effective on the date that is 1 year after Oct. 30, 1998, see section 110 of Pub. L. 105–330, set out as a note under section 1051 of this title.
 
 Pub. L. 105–330, title I, §109(a), Oct. 30, 1998, 112 Stat. 3069, provided that: “The provisions of section 8 of the Trademark Act of 1946 \[15 U.S.C. 1058\], as amended by section 105 of this Act, shall apply to a registration for trademark issued or renewed for a 20-year term, if the expiration date of the registration is on or after the effective date of this Act \[probably should be “this title”, see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note under section 1051 of this title\].”
 
@@ -93,4 +103,6 @@ Act July 5, 1946, ch. 540, title XI, §51, as added Nov. 16, 1988, Pub. L. 100�
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1059 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Director's”.</i>
 

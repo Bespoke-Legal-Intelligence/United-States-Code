@@ -4,7 +4,7 @@
 
 Any participant who has at least 5 years of service credit toward retirement under the System (excluding military and naval service) and who becomes totally disabled or incapacitated for useful and efficient service by reason of disease, illness, or injury (not due to vicious habits, intemperance, or willful conduct of the participant) shall, upon his or her own application or upon order of the Secretary, be retired on an annuity computed as prescribed in section 4046 of this title. If the disabled or incapacitated participant has less than 20 years of service credit toward retirement under the System at the time of retirement, his or her annuity shall be computed on the assumption that the participant has had 20 years of service, except that the additional service credit that may accrue to a participant under this sentence shall in no case exceed the difference between his or her age at the time of retirement and age 60.
 
-However, if a participant retiring under this section is receiving retired pay or retainer pay for military service (except that specified in section 8332(c)(1) or (2) of title 5) or Department of Veterans Affairs pension or compensation in lieu of such retired or retainer pay, the annuity of that participant shall be computed under this part excluding extra credit authorized by this subsection and excluding credit for military service from that computation. If the amount of the annuity so computed, plus the retired or retainer pay which is received, or which would be received but for the application of the limitation in section 5532 of title 5 or the Department of Veterans Affairs pension or compensation in lieu of such retired pay or retainer pay, is less than the annuity that would be payable under this part in the absence of the previous sentence, an amount equal to the difference shall be added to the annuity computed under this part.
+However, if a participant retiring under this section is receiving retired pay or retainer pay for military service (except that specified in section 8332(c)(1) or (2) of title 5) or Department of Veterans Affairs pension or compensation in lieu of such retired or retainer pay, the annuity of that participant shall be computed under this part excluding extra credit authorized by this subsection and excluding credit for military service from that computation. If the amount of the annuity so computed, plus the retired or retainer pay which is received, or which would be received but for the application of the limitation in section 5532 <sup>1</sup> of title 5 or the Department of Veterans Affairs pension or compensation in lieu of such retired pay or retainer pay, is less than the annuity that would be payable under this part in the absence of the previous sentence, an amount equal to the difference shall be added to the annuity computed under this part.
 
 #### (b) Physical examination; reinstatement or reappointment upon recovery; fees and expenses; duration and suspension of annuity
 
@@ -12,11 +12,11 @@ Before being retired under this section, the participant shall be given a physic
 
 #### (c) Benefits upon discontinuance of annuity
 
-If a recovered annuitant whose annuity is discontinued is for any reason not reinstated or reappointed in the Service, he or she shall be considered to have been separated within the meaning of section 4050 of this title as of the date ofretirement for disability or incapacity and shall, after the discontinuance of the annuity, be entitled to the benefits of that section or of section 4055 of this title, except that he or she may elect voluntary retirement if eligible under section 4051 of this title.
+If a recovered annuitant whose annuity is discontinued is for any reason not reinstated or reappointed in the Service, he or she shall be considered to have been separated within the meaning of section 4050 of this title as of the date of retirement for disability or incapacity and shall, after the discontinuance of the annuity, be entitled to the benefits of that section or of section 4055 of this title, except that he or she may elect voluntary retirement if eligible under section 4051 of this title.
 
 #### (d) Election of benefits; concurrent benefits allowed
 
-No participant shall be entitled to receive an annuity under this part and compensation for injury or disability to himself or herself under subchapter I of chapter 81 of title 5, covering the same period of time, except that a participant may simultaneously receive both an annuity under this section and scheduled disability payments under section 8107 of title 5. This subsection shall not bar the right of any claimant to the greater benefit conferred by either this part or subchapter I of such chapter 8 <sup>1</sup> for any part of the same period of time. Neither this subsection nor any provision of subchapter I of such chapter 8 <sup>1</sup> shall be construed to deny the right of any participant to receive an annuity under this part and to receive concurrently any payment under subchapter I of such chapter 8 <sup>1</sup> by reason of the death of any other individual.
+No participant shall be entitled to receive an annuity under this part and compensation for injury or disability to himself or herself under subchapter I of chapter 81 of title 5, covering the same period of time, except that a participant may simultaneously receive both an annuity under this section and scheduled disability payments under section 8107 of title 5. This subsection shall not bar the right of any claimant to the greater benefit conferred by either this part or subchapter I of such chapter 8 <sup>2</sup> for anypart of the same period of time. Neither this subsection nor any provision of subchapter I of such chapter 8 <sup>2</sup> shall be construed to deny the right of any participant to receive an annuity under this part and to receive concurrently any payment under subchapter I of such chapter 8 <sup>2</sup> by reason of the death of any other individual.
 
 #### (e) Lump sum disability payments
 
@@ -33,6 +33,10 @@ Notwithstanding any other law, the right of any individual entitled to an annuit
 A claim may be allowed under this section only if the application is filed with the Secretary of State before the participant is separated from the Service or within one year thereafter. This time limitation may be waived by the Secretary of State for a participant who at the date of separation from the Service or within one year thereafter is mentally incompetent, if the application is filed with the Secretary of State within one year from the date of restoration of the participant to competency or the appointment of a fiduciary, whichever is earlier.
 
 (Pub. L. 96–465, title I, §808, Oct. 17, 1980, 94 Stat. 2110; Ex. Ord. No. 12289, §2, Feb. 14, 1981, 46 F.R. 12693; Pub. L. 99–335, title IV, §402(a)(2), (b), June 6, 1986, 100 Stat. 609; Pub. L. 100–238, title II, §215(a), Jan. 8, 1988, 101 Stat. 1774; Pub. L. 102–54, §13(h)(2), June 13, 1991, 105 Stat. 275.)
+
+#### References in Text
+
+Section 5532 of title 5, referred to in subsec. (a), was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
 #### Amendments
 
@@ -64,5 +68,7 @@ Amendment by Ex. Ord. No. 12289 effective Feb. 15, 1981, see section 3 of Ex. Or
 
 This section is referred to in sections 4046, 4047, 4056, 4071h of this title; title 26 section 104.
 
-<i><sup>1</sup></i><i> So in original. Probably should be chapter “81”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be chapter “81”.</i>
 

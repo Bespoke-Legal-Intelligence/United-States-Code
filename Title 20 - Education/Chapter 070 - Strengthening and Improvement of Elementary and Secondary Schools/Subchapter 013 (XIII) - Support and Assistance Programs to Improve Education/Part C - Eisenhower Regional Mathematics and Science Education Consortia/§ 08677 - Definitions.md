@@ -24,7 +24,7 @@ For purposes of this part:
 
 &emsp;(4) The term “regional consortium” means each regional mathematics and science education consortium established pursuant to section 8671 of this title.
 
-&emsp;(5) The term “State agency for higher education” means the State board of higher education or other agency or officer primarily responsible for the State supervision of higher education, or, if there is no such officer or agency, an officer or agency designated for the purpose of carrying out this part by the Governor or by State law.
+&emsp;(5) The term “State agency for higher education” means the State board of higher education or other agency or officer primarily responsible for the State supervision of highereducation, or, if there is no such officer or agency, an officer or agency designated for the purpose of carrying out this part by the Governor or by State law.
 
 (Pub. L. 89–10, title XIII, §13307, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3886.)
 

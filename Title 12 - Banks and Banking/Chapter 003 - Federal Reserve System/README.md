@@ -42,7 +42,7 @@
 | (j) | Exercising supervision over reserve banks. |
 | (k) | Delegation of certain functions; power to delegate; review of delegated activities. |
 | (<i>l</i>) | Employing attorneys, experts, assistants, and clerks; salaries and fees. |
-| (m) | Percentage of capital and surplus represented by loans; determination by Board. |
+| (m) | Repealed. |
 | (n) | Board's authority to examine depository institutions and affiliates. |
 | (<i>o</i>) | Authority to appoint conservator or receiver. |
 | (p) | Authority. |
@@ -53,6 +53,7 @@
 | (c) | Criteria applicable. |
 | (d) | Budgetary consequences of decline in volume of services. |
 | (e) | Parity in clearing. |
+| [248b.](Subchapter%20002%20%28II%29%20-%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System/%C2%A7%2000248b%20-%20Annual%20independent%20audits%20of%20Federal%20reserve%20banks%20and%20Board.md) | Annual independent audits of Federal reserve banks and Board. |
 | [249\.](Subchapter%20002%20%28II%29%20-%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System/%C2%A7%2000249%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93412%2C%20title%20V%2C%20%C2%A7501%28c%29%2C%20Sept.%2014%2C%201976%2C%2090%20Stat.%201258.md) | Repealed. |
 | [250\.](Subchapter%20002%20%28II%29%20-%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System/%C2%A7%2000250%20-%20Independence%20of%20financial%20regulatory%20agencies.md) | Independence of financial regulatory agencies. |
 | [251\.](Subchapter%20002%20%28II%29%20-%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System/%C2%A7%2000251%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93208%2C%20div.%20A%2C%20title%20II%2C%20%C2%A72224%28a%29%2C%20Sept.%2030%2C%201996%2C%20110%20Stat.%203009%E2%80%93415.md) | Repealed. |
@@ -101,10 +102,9 @@
 | [286\.](Subchapter%20006%20%28VI%29%20-%20Capital%20and%20Stock%20of%20Federal%20Reserve%20Banks%3B%20Dividends%20and%20Earnings/%C2%A7%2000286%20-%20Transfers%20of%20stock%3B%20rules%20and%20regulations.md) | Transfers of stock; rules and regulations. |
 | [287\.](Subchapter%20006%20%28VI%29%20-%20Capital%20and%20Stock%20of%20Federal%20Reserve%20Banks%3B%20Dividends%20and%20Earnings/%C2%A7%2000287%20-%20Value%20of%20shares%20of%20stock%3B%20increase%20and%20decrease%20of%20stock%3B%20member%20banks%20as%20shareholders%3B%20surrender%20of%20shares.md) | Value of shares of stock; increase and decrease of stock; member banks as shareholders; surrender of shares. |
 | [288\.](Subchapter%20006%20%28VI%29%20-%20Capital%20and%20Stock%20of%20Federal%20Reserve%20Banks%3B%20Dividends%20and%20Earnings/%C2%A7%2000288%20-%20Cancellation%20of%20stock%20held%20by%20member%20bank%20on%20insolvency%20or%20discontinuance%20of%20banking%20operations%20for%20sixty%20days%3B%20repayment%20of%20cash-paid%E2%80%A6.md) | Cancellation of stock held by member bank on insolvency or discontinuance of banking operations for sixty days; repayment of cash-paid subscriptions. |
-| [289\.](Subchapter%20006%20%28VI%29%20-%20Capital%20and%20Stock%20of%20Federal%20Reserve%20Banks%3B%20Dividends%20and%20Earnings/%C2%A7%2000289%20-%20Dividends%20and%20surplus%20funds%20of%20reserve%20banks.md) | Dividends and surplus funds of reserve banks. |
-| (1) | Stockholder dividends. |
-| (2) | Deposit of net earnings in surplus fund. |
-| (3) | Payment to Treasury. |
+| [289\.](Subchapter%20006%20%28VI%29%20-%20Capital%20and%20Stock%20of%20Federal%20Reserve%20Banks%3B%20Dividends%20and%20Earnings/%C2%A7%2000289%20-%20Dividends%20and%20surplus%20funds%20of%20reserve%20banks%3B%20transfer%20for%20fiscal%20year%202000.md) | Dividends and surplus funds of reserve banks; transfer for fiscal year 2000. |
+| (a) | Dividends and surplus funds of reserve banks. |
+| (b) | Transfer for fiscal year 2000. |
 | [290\.](Subchapter%20006%20%28VI%29%20-%20Capital%20and%20Stock%20of%20Federal%20Reserve%20Banks%3B%20Dividends%20and%20Earnings/%C2%A7%2000290%20-%20Use%20of%20earnings%20transferred%20to%20Treasury.md) | Use of earnings transferred to Treasury. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -216,7 +216,8 @@
 | (b) | Definitions. |
 | (c) | Collateral for certain transactions with affiliates. |
 | (d) | Exemptions. |
-| (e) | Rulemaking and additional exemptions. |
+| (e) | Rules relating to banks with financial subsidiaries. |
+| (f) | Rulemaking and additional exemptions. |
 | 371c–1. | Restrictions on transactions with affiliates. |
 | (a) | In general. |
 | (b) | Prohibited transactions. |
@@ -262,7 +263,7 @@
 | (9) | Definitions. |
 | (10) | Board's rulemaking authority. |
 | [376\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000376%20-%20Rate%20of%20interest%20paid%20to%20directors%2C%20etc.md) | Rate of interest paid to directors, etc. |
-| [377\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000377%20-%20Affiliation%20with%20organization%20dealing%20in%20securities%3B%20penalties.md) | Affiliation with organization dealing in securities; penalties. |
+| [377\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000377%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93102%2C%20title%20I%2C%20%C2%A7101%28a%29%2C%20Nov.%2012%2C%201999%2C%20113%20Stat.%201341.md) | Repealed. |
 | [378\.](Subchapter%20010%20%28X%29%20-%20Powers%20and%20Duties%20of%20Member%20Banks/%C2%A7%2000378%20-%20Dealers%20in%20securities%20engaging%20in%20banking%20business%3B%20individuals%20or%20associations%20engaging%20in%20banking%20business%3B%20examinations%20and%20reports%E2%80%A6.md) | Dealers in securities engaging in banking business; individuals or associations engaging in banking business; examinations and reports; penalties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -381,7 +382,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 35, 1440, 1465, 1468, 1468b, 1813, 1817, 1831k, 1831r, 2254, 3108 of this title.
+This chapter is referred to in sections 35, 1440, 1465, 1468, 1468b, 1813, 1817, 1828a, 1831k, 1831r, 2254, 3108 of this title.
 
 
 ---

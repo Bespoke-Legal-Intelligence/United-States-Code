@@ -131,7 +131,7 @@ Joint Res. June 16, 1938, ch. 456, 52 Stat. 705, created a Temporary National Ec
 
 #### Executive Order No. 12022
 
-Ex. Ord. No. 12022, Dec. 1, 1977, 42 F.R. 61441, as amended by Ex. Ord. No. 12052, Apr. 7, 1978, 43 F.R. 15133, which related to the National Commission for the Review of Antitrust Laws and Procedures, was revoked by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12022, Dec. 1, 1977, 42 F.R. 61441, as amended by Ex. Ord. No. 12052, Apr. 7, 1978, 43 F.R. 15133, which related to the National Commission for the Review of Antitrust Laws and Procedures, was revokedby Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
 #### Cross References
 

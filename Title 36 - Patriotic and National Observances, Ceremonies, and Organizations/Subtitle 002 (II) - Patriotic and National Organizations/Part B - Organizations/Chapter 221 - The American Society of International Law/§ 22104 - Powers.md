@@ -38,6 +38,8 @@ Historical and Revision Notes
 
 36:351.
 
+&nbsp;
+
 In this section, the text of 36:351 is omitted as executed and obsolete.
 
 In clause (1), the words “apply, and administer” are omitted as unnecessary. The words “not inconsistent with the laws of the United States of America or any State in which the corporation is to operate” are omitted as unnecessary.

@@ -2,7 +2,7 @@
 
 #### (a) Notification of States and affected tribes
 
-The Secretary shall identify the States with one or more potentially acceptable sites for a repository within 90 days after January 7, 1983. Within 90 days of such identification, the Secretary shall notify the Governor, the State legislature, and the tribal council of any affected Indian tribe in any State of the potentially acceptable sites within such State. For the purposes of this subchapter, the term “potentially acceptable site” means any site at which, after geologic studies and field mapping but before detailed geologic data gathering, the Department undertakes preliminary drilling and geophysical testing for the definition of site location.
+The Secretary shall identify the States with one or more potentially acceptable sites for a repository within 90 days after January 7, 1983. Within 90 days of such identification, the Secretary shall notify the Governor, the State legislature, and the tribal council of any affected Indian tribe in any State of the potentially acceptable sites within such State. For the purposes of this subchapter, the term “potentially acceptable site” means any site at which, aftergeologic studies and field mapping but before detailed geologic data gathering, the Department undertakes preliminary drilling and geophysical testing for the definition of site location.
 
 #### (b) State participation in repository siting decisions
 
@@ -44,7 +44,7 @@ The Secretary shall identify the States with one or more potentially acceptable 
 
 &emsp;(ii) the procedures to be followed in providing such assistance.
 
-(3)(A) In addition to financial assistance provided under paragraphs (1) and (2), the Secretaryshall grant to the State of Nevada and any affected unit of local government an amount each fiscal year equal to the amount such State or affected unit of local government, respectively, would receive if authorized to tax site characterization activities at such site, and the development and operation of such repository, as such State or affected unit of local government taxes the non-Federal real property and industrial activities occurring within such State or affected unit of local government.
+(3)(A) In addition to financial assistance provided under paragraphs (1) and (2), the Secretary shall grant to the State of Nevada and any affected unit of local government an amount each fiscal year equal to the amount such State or affected unit of local government, respectively, would receive if authorized to tax site characterization activities at such site, and the development and operation of such repository, as such State or affected unit of local government taxes the non-Federal real property and industrial activities occurring within such State or affected unit of local government.
 
 (B) Such grants shall continue until such time as all such activities, development, and operation are terminated at such site.
 

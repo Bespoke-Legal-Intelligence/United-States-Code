@@ -20,7 +20,7 @@ Any permit issued under this section shall—
 
 &emsp;&emsp;(D) any other terms or conditions which the Secretary deems appropriate.
 
-> In any case in which an application for a permit cites as a reason for the proposed taking the overpopulation of a particular species or population stock, the Secretary shall first consider whether or not it would be more desirable to transplant a number of animals (but not to exceed the number requested for taking in the application) of that species or stock to a locationnot then inhabited by such species or stock but previously inhabited by such species or stock.
+> In any case in which an application for a permit cites as a reason for the proposed taking the overpopulation of a particular species or population stock, the Secretary shall first consider whether or not it would be more desirable to transplant a number of animals (but not to exceed the number requested for taking in the application) of that species or stock to a location not then inhabited by such species or stock but previously inhabited by such species or stock.
 
 #### (c) Importation for scientific research, public display, or enhancing survival or recovery of species or stock
 
@@ -68,7 +68,7 @@ Any permit issued under this section shall—
 
 (B) No permit issued for purposes of scientific research shall authorize the lethal taking of a marine mammal unless the applicant demonstrates that a nonlethal method of conducting the research is not feasible. The Secretary shall not issue a permit for research which involves the lethal taking of a marine mammal from a species or stock that is depleted, unless the Secretary determines that the results of such research will directly benefit that species or stock, or that such research fulfills a critically important research need.
 
-(C) Not later than 120 days after April 30, 1994, the Secretary shall issue a general authorization and implementing regulations allowingbona fide scientific research that may result only in taking by Level B harassment of a marine mammal. Such authorization shall apply to persons which submit, by 60 days before commencement of such research, a letter of intent via certified mail to the Secretary containing the following:
+(C) Not later than 120 days after April 30, 1994, the Secretary shall issue a general authorization and implementing regulations allowing bona fide scientific research that may result only in taking by Level B harassment of a marine mammal. Such authorization shall apply to persons which submit, by 60 days before commencement of such research, a letter of intent via certified mail to the Secretary containing the following:
 
 &emsp;(i) The species or stocks of marine mammals which may be harassed.
 
@@ -174,7 +174,7 @@ Any permit issued under this section shall—
 
 (4) If within thirty days after the date of publication of notice pursuant to paragraph (2) of this subsection with respect to any application for a permit any interested party or parties request a hearing in connection therewith, the Secretary may, within sixty days following such date of publication, afford to such party or parties an opportunity for such a hearing.
 
-(5) As soon as practicable (but not later than thirty days) after the close of the hearing or, if no hearing is held, after the last day on which data, or views, may be submitted pursuant to paragraph (2) of this subsection, the Secretaryshall (A) issue a permit containing such terms and conditions as he deems appropriate, or (B) shall deny issuance of a permit. Notice of the decision of the Secretary to issue or to deny any permit under this paragraph must be published in the Federal Register within ten days after the date of issuance or denial.
+(5) As soon as practicable (but not later than thirty days) after the close of the hearing or, if no hearing is held, after the last day on which data, or views, may be submitted pursuant to paragraph (2) of this subsection, the Secretary shall (A) issue a permit containing such terms and conditions as he deems appropriate, or (B) shall deny issuance of a permit. Notice of the decision of the Secretary to issue or to deny any permit under this paragraph must be published in the Federal Register within ten days after the date of issuance or denial.
 
 (6) Any applicant for a permit, or any party opposed to such permit, may obtain judicial review of the terms and conditions of any permit issued by the Secretary under this section or of his refusal to issue such a permit. Such review, which shall be pursuant to chapter 7 of title 5, may be initiated by filing a petition for review in the United States district court for the district wherein the applicant for a permit resides, or has his principal place of business, or in the United States District Court for the District of Columbia, within sixty days after the date on which such permit is issued or denied.
 
@@ -208,67 +208,13 @@ Any permit issued under this section must be in the possession of the person to 
 
 The Secretary shall establish and charge a reasonable fee for permits issued under this section.
 
-#### (h) General permits; extension of general permit to American Tunaboat Association; monitoring of incidental taking of marine mammals
-
-(1) Consistent with the regulations prescribed pursuant to section 1373 of this title and to the requirements of section 1371 of this title, the Secretary may issue general permits for the taking of such marine mammals, together with regulations to cover the use of such general permits.
-
-(2)(A) Subject to subparagraph (B), the general permit issued under paragraph (1) on December 1, 1980 to the American Tunaboat Association is extended to authorize and govern the taking of marine mammals incidental to commercial purse seine fishing for yellowfin tuna during each year after December 31, 1984.
-
-(B) The extension granted under subparagraph (A) is subject to the following conditions:
-
-&emsp;(i) The extension shall cease to have force and effect at the time the general permit is surrendered or terminated.
-
-&emsp;(ii) The permittee and certificate holders shall use the best marine mammal safety techniques and equipment that are economically and technologically practicable.
-
-&emsp;(iii) During the period of the extension, the terms and conditions of the general permit that are in effect on July 17, 1984, shall apply, except that—
-
-&emsp;&emsp;(I) the Secretary may make such adjustments as may be appropriate to those terms and conditions that pertain to fishing gear and fishing practice requirements and to permit administration;
-
-&emsp;&emsp;(II) any such term and condition may be amended or terminated if the amendment or termination is based on the best scientific information available, including that obtained under the monitoring program required under paragraph (3)(A); and
-
-&emsp;&emsp;(III) during each year of the extension, not to exceed 250 coastal spotted dolphin (Stenella attenuata) and not to exceed 2,750 eastern spinner dolphin (Stenella longirostris) may be incidentally taken under the general permit, and no accidental taking of either species is authorized at any time when incidental taking of that species is permitted.
-
-&emsp;(iv) The Secretary shall, by January 1, 1989, prescribe regulations to ensure that the backdown procedure during sets of the purse seine net on marine mammals is completed and rolling of the net to sack up has begun no later than thirty minutes after sundown. The Secretary may waive or otherwise modify such regulations for—
-
-&emsp;&emsp;(I) a designated certificate holder on an observed trip if the Secretary determines,based on observer reports, that such restriction is not necessary because the certificate holder has consistently utilized fishing techniques and equipment so as to result in an incidental marine mammal mortality rate during sundown sets that is no higher than the average such rate for the fleet during daylight sets; or
-
-&emsp;&emsp;(II) all certificate holders on observed trips if the Secretary determines that such restriction is not necessary because all certificate holders have developed and are utilizing fishing techniques and equipment that assure that the incidental marine mammal mortality rate during sundown sets will be no higher than such rate during daylight sets.
-
-&emsp;(v) The Secretary may authorize, after public notice and opportunity for comment, designated certificate holders to conduct experimental fishing operations on observed trips, under such terms and conditions as the Secretary may prescribe, for the purpose of testing proposed improvements in fishing techniques and equipment that may reduce the incidental mortality of marine mammals in the course of commercial yellowfin tuna fishing operations, and the Secretary may waive such terms and conditions of the general permit and this section, other than the quotas on incidental taking of marine mammals and the prohibition against encircling pure schools of certain species of marine mammals, as the Secretary determines to be necessary and appropriate for the conduct of such experimental fishing.
-
-&emsp;(vi) The Secretary, after public notice and opportunity for comment and consultation with the skippers’ panel of experts established pursuant to the general permit, shall develop and implement by not later than the beginning of the 1990 fishing season a system of performance standards to maintain the diligence and proficiency of certificate holders in the use of the best marine mammal safety techniques and equipment that are economically and technologically practicable. The system shall include such arrangements as are necessary for the identification of certificate holders whose incidental marine mammal mortality rate is consistently and substantially higher than the average rate of the fleet, and for the supplemental training and observation of such certificate holders, and provisions for suspension or revocation of certificates of inclusion of those certificate holders whose unacceptably high rate of incidental taking reflects a lack of diligence or proficiency in the use of the best marine mammal safety techniques and equipment.
-
-&emsp;(vii) It shall be unlawful to use any explosive devices other than class C explosive pest control devices in the course of commercial yellowfin tuna fishing subject to the general permit. The Secretary shall prescribe regulations, effective April 1, 1990, to prohibit or restrict the use of class C explosive pest control devices in the course of commercial yellowfin tuna fishing unless the Secretary determines, based on a study which the Secretary shall undertake, that the use of such devices does not result in physical impairment or increased mortality of marine mammals.
-
-&emsp;(viii) During the 1989 and subsequent fishing seasons, each certificated vessel shall carry on every fishing trip subject to this subsection an official observer certified by the Secretary or by the Inter-American Tropical Tuna Commission for the purpose of conducting research and observing fishing operations unless, for reasons beyond the control of the Secretary, an observer is not available for such purpose. The Secretary may waive this requirement after the 1991 fishing season and establish a less extensive observer program if the Secretary, after notice and opportunity for comment, determines that such an alternative program will provide sufficiently reliable information.
-
-&emsp;(ix) The Secretary shall annually convene meetings with representatives of conservation and environmental organizations, the commercial tuna fishing industry, and other interested persons for the purpose of discussing the results of efforts to reduce the incidental mortality and serious injury of marine mammals under this subsection as well as throughout the international fleet as a whole and developing plans for such efforts during the next year. On or before April 1, 1992, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives a comprehensive report on the results of such efforts. The report shall discuss the results of the scientific research programs, performance standards, observer program, prohibition on sundown sets, development of alternative fishing techniques, and other efforts required by this section, and shall include recommendations for such action as the Secretary considers necessary and desirable to reduce further the total mortality and serious injury of marine mammals in the course of commercial yellowfin tuna fishing throughout the international fleet.
-
-(C) The quota on the incidental taking of coastal spotted dolphin and eastern spinner dolphin under paragraph (2)(B)(iii)(III) shall be treated—
-
-&emsp;(i) as within, and not in addition to, the overall annual quota under the general permit on the incidental taking of marine mammals; and
-
-&emsp;(ii) for purposes of paragraph (2)(B)(iii)(II), as a term of the general permit in effect on July 17, 1984.
-
-(3)(A) The Secretary shall, commencing on January 1, 1985, undertake a scientific research program to monitor for at least five consecutive years, and periodically as necessary thereafter, the indices of abundance and trends of marine mammal population stocks which are incidentally taken in the course of commercial purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean.
-
-(B) If the Secretary determines, on the basis of the best scientific information available (including that obtained under the monitoring program), that the incidental taking of marinemammals permitted under the general permit referred to in paragraph (2) is having a significant adverse effect on a marine mammal population stock, the Secretary shall take such action as is necessary, after notice and an opportunity for an agency hearing on the record, to modify the applicable incidental take quotas or requirements for gear and fishing practices (or both such quotas and requirements) for such fishing so as to ensure that the marine mammal population stock is not significantly adversely affected by the incidental taking.
-
-(C) For each year after 1984, the Secretary shall include in his annual report to the public and the Congress under section 1373(f) of this title a discussion of the proposed activities to be conducted each year as part of the monitoring program required by subparagraph (A).
-
-(D) There are authorized to be appropriated to the Department of Commerce for purposes of carrying out the monitoring program required under this paragraph not to exceed $4,000,000 for the period beginning October 1, 1984, and ending September 30, 1988.
-
-(Pub. L. 92–522, title I, §104, Oct. 21, 1972, 86 Stat. 1034; Pub. L. 98–364, title I, §102, July 17, 1984, 98 Stat. 440; Pub. L. 100–711, §§4(d), 5(d), Nov. 23, 1988, 102 Stat. 4767, 4769; Pub. L. 103–238, §5(b), Apr. 30, 1994, 108 Stat. 537; Pub. L. 105–18, title V, §5004, June 12, 1997, 111 Stat. 187; Pub. L. 105–42, §4(d), Aug. 15, 1997, 111 Stat. 1125; Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–238.)
-
-#### Amendment of Subsection (h)
-
-<i>Pub. L. 105–42, §§4(d), 8, Aug. 15, 1997, 111 Stat. 1125, 1139, provided that, effective as provided by section 8 of Pub. L. 105–42, see Effective Date of 1997 Amendment note below, subsection (h) of this section is amended to read as follows:</i>
-
 #### (h) General permits
 
 (1) Consistent with the regulations prescribed pursuant to section 1373 of this title and to the requirements of section 1371 of this title, the Secretary may issue an annual permit to a United States purse seine fishing vessel for the taking of such marine mammals, and shall issue regulations to cover the use of any such annual permits.
 
-(2) Such annual permits for the incidental taking of marine mammals in the course of commercial purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean shall be governed by section 1416 of this title, subject to the regulations issued pursuant to section 1413 of this title.
+(2) Such annual permits for the incidental taking of marine mammals in the course of commercial purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean shall be governed by section 1416 of this title, subject to theregulations issued pursuant to section 1413 of this title.
+
+(Pub. L. 92–522, title I, §104, Oct. 21, 1972, 86 Stat. 1034; Pub. L. 98–364, title I, §102, July 17, 1984, 98 Stat. 440; Pub. L. 100–711, §§4(d), 5(d), Nov. 23, 1988, 102 Stat. 4767, 4769; Pub. L. 103–238, §5(b), Apr. 30, 1994, 108 Stat. 537; Pub. L. 105–18, title V, §5004, June 12, 1997, 111 Stat. 187; Pub. L. 105–42, §4(d), Aug. 15, 1997, 111 Stat. 1125; Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–238; Pub. L. 106–31, title V, §5004(1), May 21, 1999, 113 Stat. 110.)
 
 #### References in Text
 
@@ -276,11 +222,15 @@ The Secretary shall establish and charge a reasonable fee for permits issued und
 
 #### Amendments
 
-1998—Subsec. (c)(5)(B). Pub. L. 105–277, which directed the amendment of subsec. (c)(50)(B) of this section by inserting “until expended” after “Secretary” in second sentence, was executed by making the insertion in subsec. (c)(5)(B), to reflect the probable intent of Congress.
+1999—Subsec. (c)(5)(B). Pub. L. 106–31 made technical correction to directory language of Pub. L. 105–277. See 1998 Amendment note below.
+
+1998—Subsec. (c)(5)(B). Pub. L. 105–277, as amended by Pub. L. 106–31, inserted “until expended” after “Secretary” in second sentence.
 
 1997—Subsec. (c)(5)(A). Pub. L. 105–18, §5004(1), struck out “, including polar bears taken but not imported prior to April 30, 1994,” after “sport hunts in Canada”.
 
 Subsec. (c)(5)(D). Pub. L. 105–18, §5004(2), added subpar. (D).
+
+Subsec. (h). Pub. L. 105–42 amended subsec. (h) generally. Prior to amendment, subsec. (h) related to general permits, extension of general permit to American Tunaboat Association, and monitoring of incidental taking of marine mammals.
 
 1994—Subsec. (a). Pub. L. 103–238, §5(b)(1), inserted at end “Permits for the incidental taking of marine mammals in the course of commercial fishing operations may only be issued as specifically provided for in sections 1371(a)(5) or 1416 of this title, or subsection (h) of this section.”
 
@@ -302,11 +252,11 @@ Subsec. (h)(2)(B). Pub. L. 100–711, §4(d), added cls. (iv) to (ix).
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–42, effective upon certification by Secretary of Commerce that sufficient funding is available to complete first year of study required by section 1414a(a) of this title and that study has commenced, and certification by Secretary of State to Congress that binding resolution of Inter-American Tropical Tuna Commission or other legally binding instrument establishing International Dolphin Conservation Program has been adopted and is in force, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
+For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House ofRepresentatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Modification of Permits Existing Prior to April 30, 1994
 

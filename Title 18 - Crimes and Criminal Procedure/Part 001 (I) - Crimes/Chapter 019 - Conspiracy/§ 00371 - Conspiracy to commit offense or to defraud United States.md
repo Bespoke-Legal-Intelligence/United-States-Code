@@ -14,7 +14,7 @@ This section consolidates said sections 88 and 294 of title 18, U.S.C., 1940 ed.
 
 To reflect the construction placed upon said section 88 by the courts the words “or any agency thereof” were inserted. (See <i>Haas v. Henkel</i>, 1909, 30 S. Ct. 249, 216 U. S. 462, 54 L. Ed. 569, 17 Ann. Cas. 1112, where court said: “The statute is broad enough in its terms to include any conspiracy for the purpose of impairing, obstructing, or defeating the lawful functions of any department of government.” Also, see <i>United States v. Walter</i>, 1923, 44 S. Ct. 10, 263 U. S. 15, 68 L. Ed. 137, and definitions of department and agency in section 6 of this title.)
 
-The punishment provision is completely rewritten to increase the penalty from 2 years to 5 years exceptwhere the object of the conspiracy is a misdemeanor. If the object is a misdemeanor, the maximum imprisonment for a conspiracy to commit that offense, under the revised section, cannot exceed 1 year.
+The punishment provision is completely rewritten to increase the penalty from 2 years to 5 years except where the object of the conspiracy is a misdemeanor. If the object is a misdemeanor, the maximum imprisonment for a conspiracy to commit that offense, under the revised section, cannot exceed 1 year.
 
 The injustice of permitting a felony punishment on conviction for conspiracy to commit a misdemeanor is described by the late Hon. Grover M. Moscowitz, United States district judge for the eastern district of New York, in an address delivered March 14, 1944, before the section on Federal Practice of the New York Bar Association, reported in 3 Federal Rules Decisions, pages 380–392.
 

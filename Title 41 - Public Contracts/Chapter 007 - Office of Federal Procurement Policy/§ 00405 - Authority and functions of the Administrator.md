@@ -46,7 +46,7 @@ The functions of the Administrator shall include—
 
 &emsp;&emsp;(A) foster and promote the development of a professional acquisition workforce Government-wide;
 
-&emsp;&emsp;(B) promote and coordinate Government-wide research and studies to improve the procurement process and the laws, policies, methods, regulations, procedures, and forms relating to acquisition by the executive agencies;
+&emsp;&emsp;(B) promote and coordinate Government-wide research and studies to improve theprocurement process and the laws, policies, methods, regulations, procedures, and forms relating to acquisition by the executive agencies;
 
 &emsp;&emsp;(C) collect data and analyze acquisition workforce data from the Office of Personnel Management, the heads of executive agencies, and, through periodic surveys, from individual employees;
 
@@ -142,7 +142,7 @@ The Administrator shall submit to Congress, on an annual basis, an assessment of
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (h)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of theAct relating to contracts are classified generally to subchapter IV (§251 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (h)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the Act relating to contracts are classified generally to subchapter IV (§251 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
 
 #### Amendments
 
@@ -218,7 +218,7 @@ Subsec. (f). Pub. L. 100–679, §3(a)(4), substituted “The Administrator, wit
 
 Subsec. (c). Pub. L. 96–83, §4(b), substituted provisions relating to development and proposal of a central management system, for provisions setting forth limitation of authority to procurement from appropriated funds and provisions relating to a study and report of procurement from nonappropriated funds.
 
-Subsec. (d). Pub. L. 96–83, §4(c), substituted provisions setting forth the review, development, etc., functions of the Administrator with respect to procurement policies, regulations, procedures, and forms, procurement data, procurement personnel, and procurement contracts, for provisions setting forth the establishment, monitoring, etc., functions of the Administratorwith respect to uniform procurement regulations, procurement policies, regulations, procedures, and forms, procurement data, and procurement personnel.
+Subsec. (d). Pub. L. 96–83, §4(c), substituted provisions setting forth the review, development, etc., functions of the Administrator with respect to procurement policies, regulations, procedures, and forms, procurement data, procurement personnel, and procurement contracts, for provisions setting forth the establishment, monitoring, etc., functions of the Administrator with respect to uniform procurement regulations, procurement policies, regulations, procedures, and forms, procurement data, and procurement personnel.
 
 Subsec. (e). Pub. L. 96–83, §4(d), substituted provisions relating to consultation functions of the Administrator with respect to the development and implementation of the uniform procurement system, for provisions relating to the consultation functions of the Administrator with respect to the development of policies, regulations, procedures and forms to be authorized or prescribed by such Administrator.
 

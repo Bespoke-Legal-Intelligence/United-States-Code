@@ -22,7 +22,7 @@ In the performance of, and with respect to, the functions, powers, and duties un
 
 &emsp;(3) foreclose on any property or commence any action to protect or enforce any right conferred upon the Secretary by any law, contract, or other agreement, and bid for and purchase at any foreclosure or any other sale any property in connection with which the Secretary has made a loan pursuant to this subchapter; <sup>1</sup>
 
-&emsp;(4) in the event of any such acquisition, notwithstanding any other provision of law relating to the acquisition, handling, or disposal of real property by the United States, complete, administer, remodel and convert, dispose of, lease, and otherwise deal with, such property, but any such acquisition of real property shallnot deprive any State or political subdivision of such State civil or criminal jurisdiction in and over such property or impair the civil rights under the State or local laws of the inhabitants on such property;
+&emsp;(4) in the event of any such acquisition, notwithstanding any other provision of law relating to the acquisition, handling, or disposal of real property by the United States, complete, administer, remodel and convert, dispose of, lease, and otherwise deal with, such property, but any such acquisition of real property shall not deprive any State or political subdivision of such State civil or criminal jurisdiction in and over such property or impair the civil rights under the State or local laws of the inhabitants on such property;
 
 &emsp;(5) sell or exchange at public or private sale, or lease, real or personal property, and sell or exchange any securities or obligations, upon such terms as the Secretary may fix;
 

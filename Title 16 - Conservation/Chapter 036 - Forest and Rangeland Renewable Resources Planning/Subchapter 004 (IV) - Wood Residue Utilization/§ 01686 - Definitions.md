@@ -2,7 +2,7 @@
 
 For purposes of this subchapter, the term:
 
-&emsp;(1) “Anticipated cost of removal” means the projected cost of removal of wood residues from timber sales areas to points of prospective use, as determined by the Secretary at the time of advertisement of the timber sales contract in accordance with appropriate appraisal and sale procedures.
+&emsp;(1) “Anticipated cost of removal” means the projected cost of removal of wood residuesfrom timber sales areas to points of prospective use, as determined by the Secretary at the time of advertisement of the timber sales contract in accordance with appropriate appraisal and sale procedures.
 
 &emsp;(2) “Anticipated value” means the projected value of wood residues as fuel or other merchantable wood products, as determined by the Secretary at the time of advertisement of the timber sales contract in accordance with appropriate appraisal and sale procedures.
 

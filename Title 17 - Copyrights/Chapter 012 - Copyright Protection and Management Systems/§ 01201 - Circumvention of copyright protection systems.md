@@ -6,7 +6,7 @@ Violations Regarding Circumvention of Technological Measures.—(1)(A) No person
 
 (B) The prohibition contained in subparagraph (A) shall not apply to persons who are users of a copyrighted work which is in a particular class of works, if such persons are, or are likely to be in the succeeding 3-year period, adversely affected by virtue of such prohibition in their ability to make noninfringing uses of that particular class of works under this title, as determined under subparagraph (C).
 
-(C) During the 2-year period described in subparagraph (A), and during each succeeding 3-year period, the Librarian of Congress, upon the recommendation of the Register of Copyrights, who shall consult with the Assistant Secretary for Communications and Information of the Department of Commerce and report and comment on his or her views in making such recommendation, shall make the determination in a rulemaking proceeding on the record for purposes of subparagraph (B) of whether persons who are users of a copyrighted work are, or are likely to be in the succeeding 3-year period, adversely affected by the prohibition under subparagraph (A) in their ability to make noninfringing uses under this title of a particular class of copyrighted works. In conducting such rulemaking, the Librarian shall examine—
+(C) During the 2-year period described in subparagraph (A), and during each succeeding 3-year period, the Librarian of Congress, upon the recommendation of the Register of Copyrights, who shall consult with the Assistant Secretary for Communications and Information of the Department of Commerce and report and comment on his or her views in making such recommendation, shall make the determination in a rulemaking proceeding for purposes of subparagraph (B) of whether persons who are users of a copyrighted work are, or are likely to be in the succeeding 3-year period, adversely affected by the prohibition under subparagraph (A) in their ability to make noninfringing uses under this title of a particular class of copyrighted works. In conducting such rulemaking, the Librarian shall examine—
 
 &emsp;(i) the availability for use of copyrighted works;
 
@@ -78,7 +78,7 @@ Exemption for Nonprofit Libraries, Archives, and Educational Institutions.—(1)
 
 &emsp;(B) shall, for repeated or subsequent offenses, in addition to the civil remedies under section 1203, forfeit the exemption provided under paragraph (1).
 
-(4) This subsection may not be used as a defense to a claim under subsection (a)(2) or (b), nor may this subsection permit a nonprofit library, archives, or educational institution to manufacture, import, offer to the public, provide, or otherwise traffic in any technology, product, service, component, or part thereof, which circumvents a technological measure.
+(4) This subsection may not be used as a defense to a claim under subsection (a)(2) or (b),nor may this subsection permit a nonprofit library, archives, or educational institution to manufacture, import, offer to the public, provide, or otherwise traffic in any technology, product, service, component, or part thereof, which circumvents a technological measure.
 
 (5) In order for a library or archives to qualify for the exemption under this subsection, the collections of that library or archives shall be—
 
@@ -214,7 +214,7 @@ Certain Analog Devices and Certain Technological Measures.—
 
 Certain analog devices.—
 
-&emsp;&emsp;(A) Effective 18 months after the date of the enactment of this chapter, no personshall manufacture, import, offer to the public, provide or otherwise traffic in any—
+&emsp;&emsp;(A) Effective 18 months after the date of the enactment of this chapter, no person shall manufacture, import, offer to the public, provide or otherwise traffic in any—
 
 &emsp;&emsp;&emsp;(i) VHS format analog video cassette recorder unless such recorder conforms to the automatic gain control copy control technology;
 
@@ -264,11 +264,11 @@ Definitions.—For purposes of this subsection:
 
 &emsp;&emsp;(A) An “analog video cassette recorder” means a device that records, or a device that includes a function that records, on electromagnetic tape in an analog format the electronic impulses produced by the video and audio portions of a television program, motion picture, or other form of audiovisual work.
 
-&emsp;&emsp;(B) An “analog video cassette camcorder” means an analog video cassette recorderthat contains a recording function that operates through a camera lens and through a video input that may be connected with a television or other video playback device.
+&emsp;&emsp;(B) An “analog video cassette camcorder” means an analog video cassette recorder that contains a recording function that operates through a camera lens and through a video input that may be connected with a television or other video playback device.
 
 &emsp;&emsp;(C) An analog video cassette recorder “conforms” to the automatic gain control copy control technology if it—
 
-&emsp;&emsp;&emsp;(i) detects one or more of the elements of such technology and does not record the motion picture or transmission protected by such technology; or
+&emsp;&emsp;&emsp;(i) detects one or more of the elements of such technology and does not record themotion picture or transmission protected by such technology; or
 
 &emsp;&emsp;&emsp;(ii) records a signal that, when played back, exhibits a meaningfully distorted or degraded display.
 
@@ -280,13 +280,17 @@ Definitions.—For purposes of this subsection:
 
 Violations.—Any violation of paragraph (1) of this subsection shall be treated as a violation of subsection (b)(1) of this section. Any violation of paragraph (2) of this subsection shall be deemed an “act of circumvention” for the purposes of section 1203(c)(3)(A) of this chapter.
 
-(Added Pub. L. 105–304, title I, §103(a), Oct. 28, 1998, 112 Stat. 2863.)
+(Added Pub. L. 105–304, title I, §103(a), Oct. 28, 1998, 112 Stat. 2863; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5006\], Nov. 29, 1999, 113 Stat. 1536, 1501A–594.)
 
 #### References in Text
 
 The date of the enactment of this chapter, referred to in subsecs. (a)(1)(A), (g)(5), and (k)(1), (4)(E), is the date of enactment of Pub. L. 105–304, which was approved Oct. 28, 1998.
 
 The Computer Fraud and Abuse Act of 1986, referred to in subsecs. (g)(2)(D) and (j)(2), is Pub. L. 99–474, Oct. 16, 1986, 100 Stat. 1213, which amended section 1030 of Title 18, Crimes and Criminal Procedure, and enacted provisions set out as a note under section 1001 of Title 18. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 1001 of Title 18 and Tables.
+
+#### Amendments
+
+1999—Subsec. (a)(1)(C). Pub. L. 106–113 struck out “on the record” after “determination in a rulemaking proceeding” in first sentence.
 
 #### Section Referred to in Other Sections
 

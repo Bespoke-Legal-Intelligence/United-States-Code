@@ -10,7 +10,7 @@ A Government employee shall have the right to bring suit against the Government 
 
 (b) Hereafter, whenever the copyright in any work protected under the copyright laws of the United States shall be infringed by the United States, by a corporation owned or controlled by the United States, or by a contractor, subcontractor, or any person, firm, or corporation acting for the Government and with the authorization or consent of the Government, the exclusive action which may be brought for such infringement shall be an action by the copyright owner against the United States in the Court of Federal Claims for the recovery of his reasonable and entire compensation as damages for such infringement, including the minimum statutory damages as set forth in section 504(c) of title 17, United States Code: <i>Provided</i>, That a Government employee shall have a right of action against the Government under this subsection except where he was in a position to order, influence, or induce use of the copyrighted work by the Government: <i>Provided, however</i>, That this subsection shall not confer a right of action on any copyright owner or any assignee of such owner with respect to any copyrighted work prepared by a person while in the employment or service of the United States, where the copyrighted work was prepared as a part of the official functions of the employee, or in the preparation of which Government time, material, or facilities were used: <i>And provided further</i>, That before such action against the United States has been instituted the appropriate corporation owned or controlled by the United States or the head of the appropriate department or agency of the Government, as the case may be, is authorized to enter into an agreement with the copyright owner in full settlement and compromise for the damages accruing to him by reason of such infringement and to settle the claim administratively out of available appropriations.
 
-Except as otherwise provided by law, no recovery shall be had for any infringement of a copyright covered by this subsection committed more than three years prior to the filing of the complaint or counterclaim for infringement in the action, except that the period between the date of receipt of a written claim for compensation by the Department or agency of the Government or corporation owned or controlled by the United States, as the case may be, having authority to settle such claim and the date of mailing by the Government of a notice to the claimant that his claim has been denied shall not be counted as a part of the three years, unless suit is brought before the last-mentioned date.
+Except as otherwise provided by law, no recovery shall be had for any infringement of a copyright covered by this subsection committed more than three years prior to the filing of the complaint or counterclaim for infringement in the action, except that the period between the date of receipt of a written claim for compensation by the Department or agency of the Government or corporation owned or controlled by the United States, as the case may be, having authority to settle such claim and the date ofmailing by the Government of a notice to the claimant that his claim has been denied shall not be counted as a part of the three years, unless suit is brought before the last-mentioned date.
 
 (c) The provisions of this section shall not apply to any claim arising in a foreign country.
 
@@ -19,10 +19,6 @@ Except as otherwise provided by law, no recovery shall be had for any infringeme
 (e) Subsections (b) and (c) of this section apply to exclusive rights in mask works under chapter 9 of title 17, and to exclusive rights in designs under chapter 13 of title 17, to the same extent as such subsections apply to copyrights.
 
 (June 25, 1948, ch. 646, 62 Stat. 941; May 24, 1949, ch. 139, §87, 63 Stat. 102; Oct. 31, 1951, ch. 655, §50(c), 65 Stat. 727; July 17, 1952, ch. 930, 66 Stat. 757; Pub. L. 86–726, §§1, 4, Sept. 8, 1960, 74 Stat. 855, 856; Pub. L. 91–577, title III, §143(d), Dec. 24, 1970, 84 Stat. 1559; Pub. L. 94–553, title I, §105(c), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 97–164, title I, §133(d), Apr. 2, 1982, 96 Stat. 40; Pub. L. 100–702, title X, §1020(a)(6), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 102–572, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–308, §1(a), Oct. 19, 1996, 110 Stat. 3814; Pub. L. 105–147, §3, Dec. 16, 1997, 111 Stat. 2680; Pub. L. 105–304, title V, §503(d), Oct. 28, 1998, 112 Stat. 2917.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 505 of Pub. L. 105–304, see Effective and Termination Dates of 1998 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -48,7 +44,7 @@ Hereafter, referred to in subsec. (d), probably means after the date of enactmen
 
 #### Amendments
 
-1998—Subsec. (e). Pub. L. 105–304, §§503(d), 505, temporarily inserted “, and to exclusive rights in designs under chapter 13 of title 17,” after “title 17”. See Effective and Termination Dates of 1998 Amendment note below.
+1998—Subsec. (e). Pub. L. 105–304 inserted “, and to exclusive rights in designs under chapter 13 of title 17,” after “title 17”.
 
 1997—Subsec. (b). Pub. L. 105–147, §3, substituted “action which may be brought for such infringement shall be an action by the copyright owner” for “remedy of the owner of such copyright shall be by action”.
 
@@ -78,13 +74,9 @@ Pub. L. 86–726, §1, designated existing provisions as subsec. (a) and added s
 
 1949—Act May 29, 1949, conformed first par. of section to original law.
 
-#### Effective and Termination Dates of 1998 Amendment
-
-Amendment by Pub. L. 105–304 effective Oct. 28, 1998, and to remain in effect until the end of the 2-year period beginning on such date, see section 505 of Pub. L. 105–304, set out as an Effective and Termination Dates note under section 1301 of Title 17, Copyrights.
-
 #### Effective Date of 1996 Amendment
 
-Section 1(b) of Pub. L. 104–308 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to actions under section 1498(a) of title 28, United States Code, that are pending on, or brought on or after, the date of the enactment of this Act \[Oct. 19, 1996\].”
+Section 1(b) of Pub. L. 104–308 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to actions under section 1498(a) of title 28, United States Code, that are pending on, or broughton or after, the date of the enactment of this Act \[Oct. 19, 1996\].”
 
 #### Effective Date of 1992 Amendment
 

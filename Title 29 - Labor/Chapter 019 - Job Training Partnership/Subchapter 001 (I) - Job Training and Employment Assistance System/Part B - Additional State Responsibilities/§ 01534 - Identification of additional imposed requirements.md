@@ -20,5 +20,5 @@ Amendment by Pub. L. 102–367 effective July 1, 1993, see section 701(a) of Pub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1602 of this title; title 42 section 3056.
+This section is referred to in section 1602 of this title.
 

@@ -34,7 +34,7 @@
 
 &emsp;(4) shall not be taken into account for purposes of determining the amount of any severance pay to which an individual may be entitled under section 5595 based on any other separation.
 
-(e) No amount shall be payable under this section based on any separation occurring after September 30, 2001.
+(e) No amount shall be payable under this section based on any separation occurring after September 30, 2003.
 
 (f) The Secretary shall prescribe such regulations as may be necessary to carry out this section.
 
@@ -60,7 +60,7 @@
 
 &emsp;(B) the term “final basic pay” has the meaning given such term in section 4(a)(2) of the Federal Workforce Restructuring Act of 1994.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4436(a)(1), Oct. 23, 1992, 106 Stat. 2723; amended Pub. L. 103–226, §8(a), Mar. 30, 1994, 108 Stat. 118; Pub. L. 103–337, div. A, title III, §341(b)(1), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–201, div. A, title XVI, §1612(a), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 105–85, div. A, title XI, §1106(a), (b)(1), Nov. 18, 1997, 111 Stat. 1923, 1924.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4436(a)(1), Oct. 23, 1992, 106 Stat. 2723; amended Pub. L. 103–226, §8(a), Mar. 30, 1994, 108 Stat. 118; Pub. L. 103–337, div. A, title III, §341(b)(1), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–201, div. A, title XVI, §1612(a), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 105–85, div. A, title XI, §1106(a), (b)(1), Nov. 18, 1997, 111 Stat. 1923, 1924; Pub. L. 106–65, div. A, title XI, §1104(b), Oct. 5, 1999, 113 Stat. 777.)
 
 #### References in Text
 
@@ -69,6 +69,8 @@ The date of the enactment of the Federal Workforce Restructuring Act of 1994, re
 Section 4(a) of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (h)(1)(B), (3)(B), is section 4(a) of Pub. L. 103–226, as amended, which is set out as a note under section 8331 of this title.
 
 #### Amendments
+
+1999—Subsec. (e). Pub. L. 106–65 substituted “September 30, 2003” for “September 30, 2001”.
 
 1997—Subsec. (e). Pub. L. 105–85, §1106(b)(1), substituted “September 30, 2001” for “September 30, 1999”.
 
@@ -85,6 +87,16 @@ Subsec. (g). Pub. L. 103–226 added subsec. (g).
 Section 1612(b) of Pub. L. 104–201 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to employment accepted on or after the date of the enactment of this Act \[Sept. 23, 1996\].”
 
 #### Voluntary Separation Incentives
+
+Pub. L. 106–117, title XI, Nov. 30, 1999, 113 Stat. 1595, known as the “Department of Veterans Affairs Employment Reduction Assistance Act of 1999”, authorized the Secretary of Veterans Affairs to submit a plan to the Director of the Office of Management and Budget for the payment of voluntary separation incentive payments, and upon approval thereof to pay voluntary separation incentive payments to eligible employees of the Department of Veterans Affairs only to the extent necessary to reduce or restructure the positions and functions identified by the plan, provided that the employees separate from service with the Department through Dec. 31, 2000, whether by retirement or resignation, defined “employee” for separation incentive purposes, and provided for additional contributions to the Retirement Fund, effect of subsequent employment with the Federal Government, and effect on agency employment levels.
+
+Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §579\], Nov. 29, 1999, 113 Stat. 1535, 1501A–113, authorized voluntary separation incentives for employees of the United States Agency for International Development who voluntarily separated (whether by retirement or resignation) on or before Dec. 31, 2000, and defined pertinent terms, provided for the development of an agency strategic plan and the approval of such plan by the Director of the Office of Management and Budget, required additional agency contributions to the Retirement Fund, specified the effect of subsequent employment with the Federal Government, mandated a reduction of agency employment levels, and authorized the Office of Personnel Management to prescribe regulations to implement these provisions.
+
+Pub. L. 106–58, title I, §116, Sept. 29, 1999, 113 Stat. 439, authorized the Treasury Inspector General for Tax Administration, during the period from Oct. 1, 1999 through Jan. 1, 2003, to offer voluntary separation incentives in order to provide the necessary flexibility to carry out the plan to establish and reorganize the Office of the Treasury Inspector General for Tax Administration, defined “employee” for separation incentive purposes, and provided for authority to provide separation incentive payments, additional contributions to the Retirement Fund, effect of subsequent employment with the Federal Government, and effect on agency employment levels.
+
+Pub. L. 106–58, title I, §119, Sept. 29, 1999, 113 Stat. 441, authorized the Commissioner of the Financial Management Services of the Department of the Treasury, during the period from Oct. 1, 1999 through Jan. 31, 2000, to offer voluntary separation incentives in order to provide the necessary flexibility to carry out the closure of the Chicago Financial Center (CFC) in a manner which the Commissioner deemed most efficient, equitable to employees, and cost effective to the Government, defined “employee” for separation incentive purposes, and provided for an agency plan, authority to provide separation incentive payments, eligibility requirements, effect on subsequent employment with the Federal Government, contributions to the Retirement Fund, and reduction of agency employment levels.
+
+Pub. L. 106–58, title IV, §411, Sept. 29, 1999, 113 Stat. 456, authorized the Administrator of General Services, during the period Oct. 1, 1999 through Apr. 30, 2001, to offer a voluntary separation incentive in order to provide the necessary flexibility to carry out the closing of the Federal Supply Service distribution centers, forward supply points, and associated programs in a manner which the Administrator deemed most efficient, equitable to all employees, and cost effective for the Government, defined “employee” for separation incentive purposes, and provided for agency strategic plan, authority to provide incentive payments, eligibility requirements, effect of subsequent employment with the Federal Government, contributions to the Retirement Fund, and reduction of agency employment levels.
 
 Pub. L. 105–206, title I, §1202, July 22, 1998, 112 Stat. 719, provided that:
 
@@ -162,7 +174,7 @@ Intended effect.—Voluntary separations under this section are not intended to 
 
 Use of voluntary separations.—The Internal Revenue Service may redeploy or use the full-time equivalent positions vacated by voluntary separations under this section to make other positions available to more critical locations or more critical occupations.”
 
-Pub. L. 104–208, div. A, title I, §101(e) \[title V, §520\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–272, as amended by Pub. L. 105–78, title V, §517, Nov. 13, 1997, 111 Stat. 1519, provided that:
+Pub. L. 104–208, div. A, title I, §101(e) \[title V, §520\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–272, as amended by Pub. L. 105–78, title V, §517, Nov. 13, 1997, 111 Stat. 1519; Pub. L. 106–113, div. B, §1000(a)(4) \[title V, §515\], Nov. 29, 1999, 113 Stat. 1535, 1501A–276, provided that:
 
 “(a)
 
@@ -226,7 +238,7 @@ Amount and treatment of payments.—A voluntary separation incentive payment—
 
 &emsp;&emsp;&emsp;“(ii) an amount determined by the agency head not to exceed $25,000;
 
-&emsp;&emsp;“(D) may not be made except in the case of any qualifying employee who voluntarily separates (whether by retirement or resignation) before December 31, 1997;
+&emsp;&emsp;“(D) may not be made except in the case of any qualifying employee who voluntarily separates (whether by retirement or resignation) before March 31, 2000;
 
 &emsp;&emsp;“(E) shall not be a basis for payment, and shall not be included in the computation, of any other type of Government benefit; and
 
@@ -246,7 +258,7 @@ Definition.—For the purpose of paragraph (1), the term ‘final basic pay’, 
 
 “\[(\]e)
 
-Effect of Subsequent Employment With the Government.—An individual who has received a voluntary separation incentive payment under this section and accepts any employment for compensation with the Government of the United States, or who works for any agency of the United States Government through a personal services contract, within 5 years after the date of the separation on which the payment is based shall be required to pay, prior to the individual's first day of employment, the entire amount of the incentive payment to the agency that paid the incentive payment.
+Effect of Subsequent Employment With the Government.—An individual who has received a voluntary separation incentive payment under this section and accepts any employment for compensation with the Government of the United States, or who works for any agency of the United States Government through a personal services contract, within 5 years after the date of the separation on which the payment is based shall be required to pay, prior to the individual's first day of employment, the entire amount of theincentive payment to the agency that paid the incentive payment.
 
 “(f)
 
@@ -263,6 +275,28 @@ Enforcement.—The President, through the Office of Management and Budget, shall
 “(g)
 
 Effective Date.—This section shall take effect October 1, 1996.”
+
+Pub. L. 106–65, div. C, title XXXI, §3161, Oct. 5, 1999, 113 Stat. 942, provided that:
+
+“(a)
+
+Extension.—Notwithstanding subsection (c)(2)(D) of section 663 of the Treasury, Postal Service, and General Government Appropriations Act, 1997 (as contained in section 101(f) of division A of Public Law 104–208; 110 Stat. 3009–383; 5 U.S.C. 5597 note), the Department of Energy may pay voluntary separation incentive payments under such section 663 to qualifying employees who voluntarily separate (whether by retirement or resignation) before January 1, 2003.
+
+“(b)
+
+Report.—(1) Not later than March 15, 2000, the Secretary of Energy shall submit to the Director of the Office of Personnel Management and the specified congressional committees a report describing how the Department has, by reason of the provisions of subsection (a), paid voluntary separation payments under such section 663.
+
+“(2) The report under paragraph (1) shall—
+
+&emsp;“(A) include the occupations and grade levels of each employee with respect to whom the Department has, by reason of the provisions of subsection (a), paid voluntary separation payments under such section 663; and
+
+&emsp;“(B) describe how the paying of such payments by reason of the provisions of subsection (a) relates to the restructuring plans of the Department.
+
+“(3) For purposes of this subsection, the term ‘specified congressional committees’ means the following:
+
+&emsp;“(A) The Committee on Armed Services, the Committee on Government Reform, and the Committee on Commerce of the House of Representatives.
+
+&emsp;“(B) The Committee on Armed Services and the Committee on Governmental Affairs of the Senate.”
 
 Pub. L. 105–261, div. C, title XXXI, §3156, Oct. 17, 1998, 112 Stat. 2257, provided that:
 
@@ -338,11 +372,11 @@ Amount and treatment of payments.—A voluntary separation incentive payment—
 
 &emsp;&emsp;&emsp;“(ii) an amount determined by the agency head not to exceed $25,000;
 
-&emsp;&emsp;“(D) may not be made except in the case of any qualifying employee who voluntarily separates (whether by retirement or resignation) before December 31, 1997;
+&emsp;&emsp;“(D) may not be made except in the case of any qualifying employee who voluntarily separates\(whether by retirement or resignation) before December 31, 1997;
 
 &emsp;&emsp;“(E) shall not be a basis for payment, and shall not be included in the computation, of any other type of Government benefit; and
 
-&emsp;&emsp;“(F) shall not be taken into account in determining the amount of any severance pay to which theemployee may be entitled under section 5595 of title 5, United States Code, based on any other separation.
+&emsp;&emsp;“(F) shall not be taken into account in determining the amount of any severance pay to which the employee may be entitled under section 5595 of title 5, United States Code, based on any other separation.
 
 “(d)
 
@@ -454,7 +488,7 @@ Amount and treatment of payments.—A voluntary separation incentive payment—
 
 &emsp;&emsp;“(D) shall not be a basis for payment, and shall not be included in the computation, of any other type of Government benefit; and
 
-&emsp;&emsp;“(E) shall not be taken into account in determining the amount of any severance pay to which the employee may be entitled under section 5595 of title 5, United States Code, based on any other separation.
+&emsp;&emsp;“(E) shall not be taken into account in determining the amount of any severance pay to which the employee may be entitled under section 5595 of title5, United States Code, based on any other separation.
 
 &emsp;“(3)
 

@@ -34,7 +34,7 @@ Any insured depository institution which, under subsection (c) or (d) of this se
 
 #### (f) Additional restrictions
 
-The Corporation may impose, by regulation or order, such additional restrictions on the acceptance of brokered deposits by any institution as the Corporation may determine to be appropriate.
+The Corporation may impose, by regulation or order, such additional restrictions on the acceptance of brokered deposits by any institutionas the Corporation may determine to be appropriate.
 
 #### (g) Definitions relating to deposit broker
 

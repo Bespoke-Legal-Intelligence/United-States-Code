@@ -60,7 +60,7 @@
 
 (D) The Select Committee on Ethics of the Senate and the House Commission on Congressional Mailing Standards shall prescribe for their respective Houses rules and regulations, and shall take other action as the Committee or the Commission considers necessary and proper for Members and Members-elect to comply with the provisions of this paragraph and applicable rules and regulations. The rules and regulations shall include provisions prescribing the time within which mailings shall be mailed at or delivered to any postal facility and the time when the mailings shall be deemed to have been mailed or delivered to comply with the provisions of this paragraph.
 
-(E) As used in this section, the term “mass mailing” means, with respect to a session of Congress, any mailing of newsletters or other pieces of mail with substantially identical content (whether such mail is deposited singly or inbulk, or at the same time or different times), totaling more than 500 pieces in that session, except that such term does not include any mailing—
+(E) As used in this section, the term “mass mailing” means, with respect to a session of Congress, any mailing of newsletters or other pieces of mail with substantially identical content (whether such mail is deposited singly or in bulk, or at the same time or different times), totaling more than 500 pieces in that session, except that such term does not include any mailing—
 
 &emsp;(i) of matter in direct response to a communication from a person to whom the matter is mailed;
 
@@ -90,7 +90,7 @@
 
 (5) The Senate Committee on Rules and Administration and the House Commission on Congressional Mailing Standards shall prescribe for their respective Houses rules and regulations governing any franked mail which is mailed under this subsection and shall by regulation limit the number of such mailings allowed under this subsection
 
-(6)(A) Any Member of, or Member-elect to, the House of Representatives entitled to make any mailing as franked mail under this subsection shall, before making any mailing, submit a sample or description of the mail matter involved to the House Commission on Congressional Mailing Standards for an advisory opinion as to whether the proposed mailing is in compliance with the provisions of this subsection.
+(6)(A) Any Member of, or Member-elect to, the House of Representatives entitled to make anymailing as franked mail under this subsection shall, before making any mailing, submit a sample or description of the mail matter involved to the House Commission on Congressional Mailing Standards for an advisory opinion as to whether the proposed mailing is in compliance with the provisions of this subsection.
 
 (B) The Senate Select Committee on Ethics may require any Member of, or Member-elect to, the Senate entitled to make any mailings as franked mail under this subsection to submit a sample or description of the mail matter to the Committee for an advisory opinion as to whether the proposed mailing is in compliance with the provisions of this subsection.
 

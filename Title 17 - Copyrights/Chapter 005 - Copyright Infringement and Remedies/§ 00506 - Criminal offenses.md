@@ -54,7 +54,7 @@ Criminal Infringement.—Any person who infringes a copyright willfully and for 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, setout as an Effective Date note under section 106A of this title.
+Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
 
 #### Cross References
 
@@ -72,5 +72,5 @@ Works consisting of sounds, images, or both, the first fixation of which is made
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 101, 109, 111, 115, 119, 411, 501, 509 of this title; title 18 section 2319; title 19 section 1595a.
+This section is referred to in sections 101, 109, 111, 115, 119, 122, 411, 501, 509 of this title; title 18 section 2319; title 19 section 1595a.
 

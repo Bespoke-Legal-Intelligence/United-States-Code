@@ -22,7 +22,7 @@ The Board of Trustees shall—
 
 Subject to the general policies of the Board of Regents, the Board of Trustees shall have the sole authority to—
 
-&emsp;(1) lend, exchange, sell, or otherwise dispose of any part of the collections of the National Museum, with the proceeds of such transactions to be used for additions to the collections of the National Museum or additions tothe endowment of the National Museum, as the case may be;
+&emsp;(1) lend, exchange, sell, or otherwise dispose of any part of the collections of the National Museum, with the proceeds of such transactions to be used for additions to the collections of the National Museum or additions to the endowment of the National Museum, as the case may be;
 
 &emsp;(2) purchase, accept, borrow, or otherwise acquire artifacts and other objects for addition to the collections of the Natural Museum; and
 

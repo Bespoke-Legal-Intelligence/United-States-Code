@@ -54,5 +54,5 @@ Sec. 3. The Librarian of Congress, the Archivist of the United States, and the P
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 515, 1121 of this title; title 22 section 3714b.
+This section is referred to in sections 515, 1121 of this title; title 22 section 3714b; title 35 section 2.
 

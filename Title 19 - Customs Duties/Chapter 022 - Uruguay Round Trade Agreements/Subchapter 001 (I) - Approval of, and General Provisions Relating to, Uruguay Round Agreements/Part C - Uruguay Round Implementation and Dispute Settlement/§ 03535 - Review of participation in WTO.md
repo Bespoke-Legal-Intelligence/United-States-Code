@@ -14,7 +14,7 @@ The first annual report submitted to the Congress under section 3534 of this tit
 
 #### (1) General rule
 
-&emsp;The approval of the Congress, provided under section 3511(a) of this title, of the WTO Agreement shall cease to be effective if, and only if, a joint resolution described in subsection (c) of this section is enacted into law pursuant to the provisions of paragraph (2).
+&emsp;The approval of the Congress, provided under section 3511(a) of this title, of the WTOAgreement shall cease to be effective if, and only if, a joint resolution described in subsection (c) of this section is enacted into law pursuant to the provisions of paragraph (2).
 
 #### (2) Procedural provisions
 

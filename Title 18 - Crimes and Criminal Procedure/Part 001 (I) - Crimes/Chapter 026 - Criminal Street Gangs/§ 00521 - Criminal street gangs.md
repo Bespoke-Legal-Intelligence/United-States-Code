@@ -4,7 +4,7 @@
 
 Definitions.—
 
-&emsp;“conviction” includes a finding, under State or Federal law, that a person has committedan act of juvenile delinquency involving a violent or controlled substances felony.
+&emsp;“conviction” includes a finding, under State or Federal law, that a person has committed an act of juvenile delinquency involving a violent or controlled substances felony.
 
 &emsp;“criminal street gang” means an ongoing group, club, organization, or association of 5 or more persons—
 

@@ -20,7 +20,7 @@ In the case of an individual who pays qualified higher education expenses during
 
 #### (B) Applicable fraction
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “applicable fraction” means the fraction thenumerator of which is the amount described in subparagraph (A)(ii) and the denominator of which is the amount described in subparagraph (A)(i).
+&emsp;&emsp;For purposes of subparagraph (A), the term “applicable fraction” means the fraction the numerator of which is the amount described in subparagraph (A)(ii) and the denominator of which is the amount described in subparagraph (A)(i).
 
 #### (2) Limitation based on modified adjusted gross income
 
@@ -118,11 +118,11 @@ For purposes of this section—
 
 &emsp;The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations requiring record keeping and information reporting.
 
-(Added Pub. L. 100–647, title VI, §6009(a), Nov. 10, 1988, 102 Stat. 3688; amended Pub. L. 101–239, title VII, §7816(c)(2), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 101–508, title XI, §§11101(d)(1)(E), 11702(h), Nov. 5, 1990, 104 Stat. 1388–405, 1388–516; Pub. L. 104–188, title I, §§1703(d), 1806(b)(1), 1807(c)(2), Aug. 20, 1996, 110 Stat. 1875, 1898, 1902; Pub. L. 105–34, title II, §§201(d), 211(c), 213(e)(2), Aug. 5, 1997, 111 Stat. 805, 811, 817; Pub. L. 105–206, title VI, §6004(c)(1), (d)(4), (9), July 22, 1998, 112 Stat. 793–795; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908.)
+(Added Pub. L. 100–647, title VI, §6009(a), Nov. 10, 1988, 102 Stat. 3688; amended Pub. L. 101–239, title VII, §7816(c)(2), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 101–508, title XI, §§11101(d)(1)(E), 11702(h), Nov. 5, 1990, 104 Stat. 1388–405, 1388–516; Pub. L. 104–188, title I, §§1703(d), 1806(b)(1), 1807(c)(2),Aug. 20, 1996, 110 Stat. 1875, 1898, 1902; Pub. L. 105–34, title II, §§201(d), 211(c), 213(e)(2), Aug. 5, 1997, 111 Stat. 805, 811, 817; Pub. L. 105–206, title VI, §6004(c)(1), (d)(4), (9), July 22, 1998, 112 Stat. 793–795; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908.)
 
-#### Adjustment of Limitation on Exclusion of Income Under This Section for Tax Years Beginning in 1999
+#### Adjustment of Limitation on Exclusion of Income Under This Section for Tax Years Beginning in 2000
 
-<i>For adjustment of limitation on exclusion for income from redemption of United States savings bonds for taxpayers who pay qualified higher education expenses under this section for tax years beginning in 1999, see section 3.07 of Revenue Procedure 98–61, set out as a note under section 1 of this title.</i>
+<i>For adjustment of limitation on exclusion for income from redemption of United States savings bonds for taxpayers who pay qualified higher education expenses under this section for tax years beginning in 2000, see section 3.08 of Revenue Procedure 99–42, set out as a note under section 1 of this title.</i>
 
 #### Prior Provisions
 
@@ -186,7 +186,7 @@ Amendment by section 1807(c)(2) of Pub. L. 104–188 applicable to taxable years
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11101(d)(1)(E) of Pub. L. 101–508 applicable to taxable years beginning after Dec.31, 1990, see section 11101(e) of Pub. L. 101–508, set out as a note under section 1 of this title.
+Amendment by section 11101(d)(1)(E) of Pub. L. 101–508 applicable to taxable years beginning after Dec. 31, 1990, see section 11101(e) of Pub. L. 101–508, set out as a note under section 1 of this title.
 
 Amendment by section 11702(h) of Pub. L. 101–508 effective as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 11702(j) of Pub. L. 101–508, set out as a note under section 59 of this title.
 
@@ -196,7 +196,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 1989, see section 6009(d) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note under section 86 of this title.
+Section applicable to taxable years beginning after Dec. 31, 1989, see section 6009(d) of Pub. L. 100–647, setout as an Effective Date of 1988 Amendment note under section 86 of this title.
 
 #### Promotion of Public Awareness of Program
 

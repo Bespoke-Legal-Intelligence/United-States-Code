@@ -14,7 +14,7 @@
 
 &emsp;(4) to support programs that, in recognition of varying degrees of the seriousness of delinquent behavior and the corresponding gradations in the responses of the juvenile justice system in response to that behavior, are designed to—
 
-&emsp;&emsp;(A) encourage courts to develop and implement a continuum of post-adjudication restraints that bridge the gap between traditional probation and confinement in a correctional setting (including expanded use of probation, mediation, restitution, community service, treatment, home detention, intensive supervision, electronic monitoring, boot camps and similar programs, and secure community-based treatment facilities linked to other support services such as health, mental health, education (remedial and special), job training, and recreation); and
+&emsp;&emsp;(A) encourage courts to develop and implement a continuum of post-adjudication restraints that bridge the gap between traditional probation and confinement in a correctional setting (including expanded use of probation, mediation, restitution, community service, treatment, home detention, intensive supervision, electronic monitoring, boot camps and similar programs, and secure community-based treatment facilitieslinked to other support services such as health, mental health, education (remedial and special), job training, and recreation); and
 
 &emsp;&emsp;(B) assist in the provision by the provision <sup>1</sup> by the Administrator of information and technical assistance, including technology transfer, to States in the design and utilization of risk assessment mechanisms to aid juvenile justice personnel in determining appropriate sanctions for delinquent behavior.
 

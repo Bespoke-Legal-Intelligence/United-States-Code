@@ -126,7 +126,7 @@ In general.—Each annual financial statement prepared under paragraph (1) shall
 
 &emsp;&emsp;(B)
 
-Auditor's report required.—The auditor designated to audit any financial statement of the Fund pursuant to subparagraph (A) shall submit a report—
+Auditor's report required.—The auditor designated to audit any financialstatement of the Fund pursuant to subparagraph (A) shall submit a report—
 
 &emsp;&emsp;&emsp;(i) to the Secretary by March 31 of the year beginning after the end of the fiscal year covered by such financial statement; and
 
@@ -212,7 +212,7 @@ Minimum requirements for annual audits.—At a minimum, each audit of a designat
 
 &emsp;&emsp;(C)
 
-Responsibility of organization to account for expenditures of surcharges.—Each designated recipient organization that receives any payment from the fund <sup>2</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall take appropriate steps, as a condition for receiving any such payment, to ensure that the receipt of the payment and the expenditure of the proceeds of such surcharge by the organization in each fiscal year of the organization can be accounted for separately from all other revenues and expenditures of the organization.
+Responsibility of organization to account for expenditures of surcharges.—Each designated recipient organization that receives any payment from the fund <sup>2</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall take appropriate steps, as a condition for receiving any such payment, to ensure that the receipt of the payment andthe expenditure of the proceeds of such surcharge by the organization in each fiscal year of the organization can be accounted for separately from all other revenues and expenditures of the organization.
 
 &emsp;&emsp;(D)
 
@@ -252,7 +252,7 @@ Quarterly Financial Reports.—
 
 &emsp;(1)
 
-In general.—Not later than the 30th day of each month following each calendar quarter through and including the final period of sales with respect to any commemorative coin program authorized on or after the date of enactment of the Treasury, Postal Service, and General Government Appropriations Act, 1997,the Mint shall submit to the Congress a quarterly financial report in accordance with this subsection.
+In general.—Not later than the 30th day of each month following each calendar quarter through and including the final period of sales with respect to any commemorative coin program authorized on or after the date of enactment of the Treasury, Postal Service, and General Government Appropriations Act, 1997, the Mint shall submit to the Congress a quarterly financial report in accordance with this subsection.
 
 &emsp;(2)
 
@@ -294,7 +294,7 @@ Subsec. (g). Pub. L. 104–208, §101(f) \[title V, §529(c)\], added subsec. (g
 
 #### Effective Date of 1996 Amendment
 
-Section 101(f) \[title V, §529(b)(3)\] of Pub. L. 104–208 provided that: “The amendments made by this section \[probably should be this subsection, amending this section\] shall apply with respect to the proceeds of any surcharge imposed on the sale of any numismatic item that are deposited in the Numismatic Public Enterprise Fund after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Section 101(f) \[title V, §529(b)(3)\] of Pub. L. 104–208 provided that: “The amendments made by this section \[probably should be this subsection, amending this section\] shall apply with respect to the proceeds of anysurcharge imposed on the sale of any numismatic item that are deposited in the Numismatic Public Enterprise Fund after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
 #### Effective Date
 

@@ -28,7 +28,7 @@
 
 (d) During the employee's period of service with the international organization, the agency from which the employee is transferred shall make contributions for retirement and insurance purposes from the appropriations or funds of that agency so long as contributions are made by the employee.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 430; Pub. L. 91–175, pt. V, §502(c)–(f), Dec. 30, 1969, 83 Stat. 825, 826; Pub. L. 94–183, §2(10), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 105–277, div. G, title XXV, §2504(a), Oct. 21, 1998, 112 Stat. 2681–837.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 430; Pub. L. 91–175, pt. V, §502(c)–(f), Dec. 30, 1969, 83 Stat. 825, 826; Pub. L. 94–183, §2(10), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 105–277, div. G, subdiv. B, title XXV, §2504(a), Oct. 21, 1998, 112 Stat. 2681–837.)
 
 Historical and Revision Notes
 
@@ -64,7 +64,7 @@ Subsec. (d). Pub. L. 91–175, §502(f), made contributions for retirement and i
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. G, title XXV, §2504(b), Oct. 21, 1998, 112 Stat. 2681–837, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to transfers that take effect on or after the date of enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–277, div. G, subdiv. B, title XXV, §2504(b), Oct. 21, 1998, 112 Stat. 2681–837, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to transfers that take effect on or after the date of enactment of this Act \[Oct. 21, 1998\].”
 
 #### Delegation of Authority
 
@@ -72,5 +72,5 @@ Authority of President under subsec. (b) of this section delegated to Office of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3581 of this title; title 22 section 6103; title 26 section 3121; title 42 section 410.
+This section is referred to in sections 3581, 8432c of this title; title 22 section 6103; title 26 section 3121; title 42 section 410.
 

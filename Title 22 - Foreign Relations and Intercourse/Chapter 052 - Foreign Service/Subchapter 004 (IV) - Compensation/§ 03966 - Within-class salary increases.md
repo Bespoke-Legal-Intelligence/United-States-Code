@@ -2,7 +2,7 @@
 
 #### (a) Time period; limitation
 
-Any member of the Service receiving a salary under the Foreign Service Schedule shall be advanced to the next higher salary step in themember's class at the beginning of the first applicable pay period following the completion by that member of a period of—
+Any member of the Service receiving a salary under the Foreign Service Schedule shall be advanced to the next higher salary step in the member's class at the beginning of the first applicable pay period following the completion by that member of a period of—
 
 &emsp;(1) 52 calendar weeks of service in each of salary steps 1 through 9, and
 

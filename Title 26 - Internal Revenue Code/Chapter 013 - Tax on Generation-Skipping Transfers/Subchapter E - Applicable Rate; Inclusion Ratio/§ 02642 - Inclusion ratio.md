@@ -52,7 +52,7 @@ Except as provided in subsection (f)—
 
 #### (3) Allocations to inter vivos transfers not made on timely filed gift tax return
 
-&emsp;If any allocation of the GST exemption to any property not transferred as a result of thedeath of the transferor is not made on a gift tax return filed on or before the date prescribed by section 6075(b) and is not deemed to be made under section 2632(b)(1)—
+&emsp;If any allocation of the GST exemption to any property not transferred as a result of the death of the transferor is not made on a gift tax return filed on or before the date prescribed by section 6075(b) and is not deemed to be made under section 2632(b)(1)—
 
 &emsp;&emsp;(A) the value of such property for purposes of subsection (a) shall be determined as of the time such allocation is filed with the Secretary, and
 
@@ -202,7 +202,7 @@ Except as provided in regulations—
 
 &emsp;Under regulations, appropriate adjustments shall be made in the application of subsection (d) to take into account the provisions of this subsection.
 
-(Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2722; amended Pub. L. 100–647, title I, §1014(g)(3)(A), (4), (17)(A), (B), (18), Nov. 10, 1988, 102 Stat. 3563, 3566, 3567; Pub. L. 101–239, title VII, §7811(j)(4), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 101–508, title XI, §§11703(c)(1), (2), 11704(a)(17), (36), Nov. 5, 1990, 104 Stat. 1388–517, 1388–519.)
+(Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2722; amended Pub. L. 100–647, title I, §1014(g)(3)(A), (4), (17)(A), (B), (18), Nov. 10, 1988, 102 Stat. 3563, 3566, 3567; Pub. L. 101–239, title VII, §7811(j)(4), Dec. 19, 1989, 103 Stat. 2411;Pub. L. 101–508, title XI, §§11703(c)(1), (2), 11704(a)(17), (36), Nov. 5, 1990, 104 Stat. 1388–517, 1388–519.)
 
 #### Amendments
 
@@ -256,7 +256,7 @@ Nontaxable gift.—For purposes of this section, the term ‘nontaxable gift’ 
 
 Subsec. (d)(1). Pub. L. 100–647, §1014(g)(17)(B), struck out “(other than a nontaxable gift)” after “transfer of property”.
 
-Subsec. (d)(2)(B)(i). Pub. L. 100–647, §1014(g)(18), amended cl. (i) generally. Prior to amendment, cl. (i)read as follows: “the value of the property involved in such transfer, reduced by any charitable deduction allowed under section 2055 or 2522 with respect to such property, and”.
+Subsec. (d)(2)(B)(i). Pub. L. 100–647, §1014(g)(18), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the value of the property involved in such transfer, reduced by any charitable deduction allowed under section 2055 or 2522 with respect to such property, and”.
 
 Subsec. (e). Pub. L. 100–647, §1014(g)(3)(A), added subsec. (e).
 

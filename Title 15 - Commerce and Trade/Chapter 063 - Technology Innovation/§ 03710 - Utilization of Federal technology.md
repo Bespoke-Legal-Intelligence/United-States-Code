@@ -2,7 +2,7 @@
 
 #### (a) Policy
 
-(1) It is the continuing responsibility of the Federal Government to ensure the full use of the results of the Nation's Federal investment in research and development. To this end the Federal Government shall strive where appropriate to transfer federally owned or originated technology to State and local governments and to the private sector.
+(1) It is the continuing responsibility of the Federal Government to ensure the full use of theresults of the Nation's Federal investment in research and development. To this end the Federal Government shall strive where appropriate to transfer federally owned or originated technology to State and local governments and to the private sector.
 
 (2) Technology transfer, consistent with mission responsibilities, is a responsibility of each laboratory science and engineering professional.
 
@@ -46,7 +46,7 @@ The National Technical Information Service shall—
 
 #### (e) Establishment of Federal Laboratory Consortium for Technology Transfer
 
-(1) There is hereby established the Federal Laboratory Consortium for Technology Transfer (hereinafter referred to as the “Consortium”) which, in cooperation with Federal Laboratories <sup>1</sup> and the private sector, shall—
+(1) There is hereby established the Federal Laboratory Consortium for Technology Transfer (hereinafter referred to as the “Consortium”)which, in cooperation with Federal Laboratories <sup>1</sup> and the private sector, shall—
 
 &emsp;(A) develop and (with the consent of the Federal laboratory concerned) administer techniques, training courses, and materials concerning technology transfer to increase the awareness of Federal laboratory employees regarding the commercial potential of laboratory technology and innovations;
 
@@ -86,7 +86,7 @@ The National Technical Information Service shall—
 
 (7)(A) Subject to subparagraph (B), an amount equal to 0.008 percent of the budget of each Federal agency from any Federal source, including related overhead, that is to be utilized by or on behalf of the laboratories of such agency for a fiscal year referred to in subparagraph (B)(ii) shall be transferred by such agency to the National Institute of Standards and Technology at the beginning of the fiscal year involved. Amounts so transferred shall be provided by the Institute to the Consortium for the purpose of carrying out activities of the Consortium under this subsection.
 
-(B) A transfer shall be made by any Federal agency under subparagraph (A), for any fiscal year, only if the amount so transferred by that agency (as determined under such subparagraph) would exceed $10,000.
+(B) A transfer shall be made by any Federal agency under subparagraph (A), for any fiscal year, only if the amount so transferred by thatagency (as determined under such subparagraph) would exceed $10,000.
 
 (C) The heads of Federal agencies and their designees, and the directors of Federal laboratories, may provide such additional support for operations of the Consortium as they deem appropriate.
 
@@ -116,7 +116,7 @@ The National Technical Information Service shall—
 
 The Director of a laboratory, or the head of any Federal agency or department, may loan, lease, or give research equipment that is excess to the needs of the laboratory, agency, or department to an educational institution or nonprofit organization for the conduct of technical and scientific education and research activities. Title of ownership shall transfer with a gift under the <sup>2</sup> section.
 
-(Pub. L. 96–480, §11, Oct. 21, 1980, 94 Stat. 2318; renumbered §10 and amended Pub. L. 99–502, §§3–5, 9(e)(1), Oct. 20, 1986, 100 Stat. 1787, 1789, 1791, 1797; renumbered §11 and amended Pub. L. 100–418,title V, §§5115(b)(2), 5122(a)(1), 5162(b), 5163(c)(1), (3), Aug. 23, 1988, 102 Stat. 1433, 1438, 1450, 1451; Pub. L. 100–519, title II, §§201(d)(3), 212(a)(4), Oct. 24, 1988, 102 Stat. 2594, 2595; Pub. L. 101–189, div. C, title XXXI, §3133(e), Nov. 29, 1989, 103 Stat. 1679; Pub. L. 102–245, title III, §§301, 303, Feb. 14, 1992, 106 Stat. 19, 20; Pub. L. 104–66, title III, §3001(f), Dec. 21, 1995, 109 Stat. 734; Pub. L. 104–113, §§3, 9, Mar. 7, 1996, 110 Stat. 775, 779; Pub. L. 105–394, title II, §212(d), Nov. 13, 1998, 112 Stat. 3655.)
+(Pub. L. 96–480, §11, Oct. 21, 1980, 94 Stat. 2318; renumbered §10 and amended Pub. L. 99–502, §§3–5, 9(e)(1), Oct. 20, 1986, 100 Stat. 1787, 1789, 1791, 1797; renumbered §11 and amended Pub. L. 100–418, title V, §§5115(b)(2), 5122(a)(1), 5162(b), 5163(c)(1), (3), Aug. 23, 1988, 102 Stat. 1433, 1438, 1450, 1451; Pub. L. 100–519, title II, §§201(d)(3), 212(a)(4), Oct. 24, 1988, 102 Stat. 2594, 2595; Pub. L. 101–189, div. C, title XXXI, §3133(e), Nov. 29, 1989, 103 Stat. 1679; Pub. L. 102–245, title III, §§301, 303, Feb. 14, 1992, 106 Stat. 19, 20; Pub. L. 104–66, title III, §3001(f), Dec. 21, 1995, 109 Stat. 734; Pub. L. 104–113, §§3, 9, Mar. 7, 1996, 110 Stat. 775, 779; Pub. L. 105–394, title II, §212(d), Nov. 13, 1998, 112 Stat. 3655.)
 
 #### Amendments
 
@@ -174,7 +174,7 @@ Subsec. (c)(1). Pub. L. 99–502, §4(b)(2)(A), added par. (1) and struck out fo
 
 Subsec. (c)(3). Pub. L. 99–502, §4(b)(2)(B), substituted “the National Technical Information Service, the Federal Laboratory Consortium for Technology Transfer,” for “the Center for the Utilization of Federal Technology” and struck out “and” after the semicolon.
 
-Subsec. (c)(4). Pub. L. 99–502, §4(b)(2)(C), substituted “to State and local government officials; and” for “inresponse to requests from State and local government officials.”.
+Subsec. (c)(4). Pub. L. 99–502, §4(b)(2)(C), substituted “to State and local government officials; and” for “in response to requests from State and local government officials.”.
 
 Subsec. (c)(5). Pub. L. 99–502, §4(b)(2)(D), added par. (5).
 
@@ -210,7 +210,7 @@ Section 1. <i>Transfer of Federally Funded Technology.</i>
 
 (B) to license, assign, or waive rights to intellectual property developed by the laboratory either under such cooperative research or development agreements and from within individual laboratories.
 
-(2) identify and encourage persons to act as conduits between and among Federal laboratories, universities, and the private sector for the transfer of technology developed from federally funded research and development efforts;
+(2) identify and encourage persons to act as conduits between and among Federal laboratories, universities,and the private sector for the transfer of technology developed from federally funded research and development efforts;
 
 (3) ensure that State and local governments, universities, and the private sector are provided with information on the technology, expertise, and facilities available in Federal laboratories;
 
@@ -232,7 +232,7 @@ Sec. 2. <i>Establishment of the Technology Share Program</i>. The Secretaries of
 
 Sec. 3. <i>Technology Exchange—Scientists and Engineers</i>. The Executive Director of the President's Commission on Executive Exchange shall assist Federal agencies, where appropriate, by developing and implementing an exchange program whereby scientists and engineers in the private sector may take temporary assignments in Federal laboratories, and scientists and engineers in Federal laboratories may take temporary assignments in the private sector.
 
-Sec. 4. <i>International Science and Technology</i>. In order to ensure that the United States benefits from andfully exploits scientific research and technology developed abroad,
+Sec. 4. <i>International Science and Technology</i>. In order to ensure that the United States benefits from and fully exploits scientific research and technology developed abroad,
 
 (a) The head of each Executive department and agency, when negotiating or entering into cooperative research and development agreements and licensing arrangements with foreign persons or industrial organizations (where these entities are directly or indirectly controlled by a foreign company or government), shall, in consultation with the United States Trade Representative, give appropriate consideration:
 
@@ -268,7 +268,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3704b–2, 3708, 3713, 3715 of this title; title 10 section 2371a.
+This section is referred to in sections 3704b–2, 3708, 3713, 3715 of this title; title 10 section 2371a; title 29 section 3032.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

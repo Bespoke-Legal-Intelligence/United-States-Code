@@ -6,7 +6,7 @@ There is established in the Executive Office of the President an office to be kn
 
 #### (b) Compensation of Deputy Director
 
-The compensation of the Deputy Director shall be fixed by the President at a rate not inexcess of the annual rate of compensation payable to the Deputy Director of the Office of Management and Budget.
+The compensation of the Deputy Director shall be fixed by the President at a rate not in excess of the annual rate of compensation payable to the Deputy Director of the Office of Management and Budget.
 
 #### (c) Employment of personnel, experts, and consultants; compensation
 

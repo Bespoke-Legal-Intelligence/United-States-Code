@@ -1,6 +1,16 @@
 ### §5961. Special rule for transportation contracting services
 
+#### (a) In general
+
 Notwithstanding any other provision of law, a service contract entered into by the Secretary for the provision solely of transportation services in a unit of the National Park System shall be no more than 10 years in length, including a base period of 5 years and annual extensions for an additional 5-year period based on satisfactory performance and approval by the Secretary.
 
-(Pub. L. 105–391, title IV, §412, Nov. 13, 1998, 112 Stat. 3515.)
+#### (b) Obligation of funds
+
+Notwithstanding any other provision of law, with respect to a service contract for the provision solely of transportation services at Zion National Park, the Secretary may obligate the expenditure of fees received in fiscal year 2000 under section 5981 of this title before the fees are received.
+
+(Pub. L. 105–391, title IV, §412, Nov. 13, 1998, 112 Stat. 3515; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §143\], Nov. 29, 1999, 113 Stat. 1535, 1501A–171.)
+
+#### Amendments
+
+1999—Pub. L. 106–113 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

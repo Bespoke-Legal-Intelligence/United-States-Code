@@ -46,7 +46,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2), (3), and (4) with respect to each country of particular concern for religious freedom designated under subsection (b)(1)(A) of this section, the President shall, after the requirements of sections 6443 and 6444 of this title have been satisfied, but not later than 90 days (or 180 days in case of adelay under paragraph (3)) after the date of designation of the country under that subsection, carry out one or more of the following actions under subparagraph (A) or subparagraph (B):
+&emsp;Subject to paragraphs (2), (3), (4), and (5) with respect to each country of particular concern for religious freedom designated under subsection (b)(1)(A) of this section, the President shall, after the requirements of sections 6443 and 6444 of this title have been satisfied, but not later than 90 days (or 180 days in case of a delay under paragraph (3)) after the date of designation of the country under that subsection, carry out one or more of the following actions under subparagraph (A) or subparagraph (B):
 
 #### (A) Presidential actions
 
@@ -80,29 +80,39 @@
 
 > &emsp;then the President shall not be required to take action until the expiration of that period of time.
 
-#### (4) Exception for ongoing Presidential action
+#### (4) Exception for ongoing Presidential action under this chapter
 
 &emsp;The President shall not be required to take action pursuant to this subsection in the case of a country of particular concern for religious freedom, if with respect to such country—
 
 &emsp;&emsp;(A) the President has taken action pursuant to this chapter in a preceding year;
 
-&emsp;&emsp;(B) such action is in effect at the time the country is designated as a country of particular concern for religious freedom under this section;
+&emsp;&emsp;(B) such action is in effect at the time the country is designated as a country of particular concern for religious freedom under this section; and
 
-&emsp;&emsp;(C) the President reports to Congress the information described in section 6444(a)(1), (2), (3), and (4) of this title regarding the actions in effect with respect to the country; and
+&emsp;&emsp;(C) the President reports to Congress the information described in section 6444(a)(1), (2), (3), and (4) of this title regarding the actions in effect with respect to the country.
 
-&emsp;&emsp;(D) at the time the President determines a country to be a country of particular concern, if that country is already subject to multiple, broad-based sanctions imposed in significant part in response to human rights abuses, and such sanctions are ongoing, the President may determine that one or more of these sanctions also satisfies the requirements of this subsection. In a report to Congress pursuant to section 6444(a)(1), (2), (3), and (4) of this title, and, as applicable, to section 6448 of this title, the President must designate the specific sanction or sanctions which he determines satisfy the requirements of this subsection. The sanctions so designated shall remain in effect subject to section 6449 of this title.
+#### (5) Exception for ongoing, multiple, broad-based sanctions in response to human rights violations
+
+&emsp;At the time the President determines a country to be a country of particular concern, if that country is already subject to multiple, broad-based sanctions imposed in significant part in response to human rights abuses, and such sanctions are ongoing, the President may determine that one or more of these sanctions also satisfies the requirements of this subsection. In a report to Congress pursuant to section 6444(a)(1), (2), (3), and (4) of this title, and, as applicable, to section 6448 of this title, the President must designate the specific sanction or sanctions which he determines satisfy the requirements of this subsection. The sanctions so designated shall remain in effect subject to section 6449 of this title.
 
 #### (d) Statutory construction
 
 A determination under this chapter, or any amendment made by this chapter, that a foreign country has engaged in or tolerated particularly severe violations of religious freedom shall not be construed to require the termination of assistance or other activities with respect to that country under any other provision of law, including section 2151n or 2304 of this title.
 
-(Pub. L. 105–292, title IV, §402, Oct. 27, 1998, 112 Stat. 2802.)
+(Pub. L. 105–292, title IV, §402, Oct. 27, 1998, 112 Stat. 2802; Pub. L. 106–55, §2(a), Aug. 17, 1999, 113 Stat. 405.)
 
 #### References in Text
 
 This subchapter, referred to in subsec. (c)(2)(A), was in the original “this title”, meaning title IV of Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2800, which is classified principally to this subchapter. For complete classification of title IV to the Code, see Tables.
 
-This chapter, referred to in subsecs. (c)(4)(A) and (d), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
+This chapter, referred to in subsecs. (c)(4) and (d), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
+
+#### Amendments
+
+1999—Subsec. (c)(1). Pub. L. 106–55, §2(a)(1), substituted “(4), and (5)” for “and (4)” in introductory provisions.
+
+Subsec. (c)(4). Pub. L. 106–55, §2(a)(2)(A), inserted “under this chapter” after “Exception for ongoing Presidential action” in heading.
+
+Subsec. (c)(4)(B) to (D), (5). Pub. L. 106–55, §2(a)(2)(B)–(D), inserted “and” at end of subpar. (B), substituted period for “; and” at end of subpar. (C), redesignated subpar. (D) as par. (5), inserted par. heading, and substituted “At the time” for “at the time”.
 
 #### Section Referred to in Other Sections
 

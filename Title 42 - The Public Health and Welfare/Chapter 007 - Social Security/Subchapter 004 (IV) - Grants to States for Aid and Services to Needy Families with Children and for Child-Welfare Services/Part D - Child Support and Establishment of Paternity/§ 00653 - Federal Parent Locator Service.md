@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(iv) who has or may have parental rights with respect to a child,
 
-> &emsp;including the individual's social security number (or numbers), most recent address, and thename, address, and employer identification number of the individual's employer;
+> &emsp;including the individual's social security number (or numbers), most recent address, and the name, address, and employer identification number of the individual's employer;
 
 &emsp;(B) information on the individual's wages (or other income) from, and benefits of, employment (including rights to or enrollment in group health care coverage); and
 
@@ -66,7 +66,7 @@ A request for information under this section shall be filed in such manner and f
 
 (1) Whenever the Secretary receives a request submitted under subsection (b) of this section which he is reasonably satisfied meets the criteria established by subsections (a), (b), and (c) of this section, he shall promptly undertake to provide the information requested from the files and records maintained by any of the departments, agencies, or instrumentalities of the United States or of any State.
 
-(2) Notwithstanding any other provision of law, whenever the individual who is the head of any department, agency, or instrumentality of the United States receives a request from the Secretary for information authorized to be provided by the Secretary under this section, suchindividual shall promptly cause a search to be made of the files and records maintained by such department, agency, or instrumentality with a view to determining whether the information requested is contained in any such files or records. If such search discloses the information requested, such individual shall immediately transmit such information to the Secretary, except that if any information is obtained the disclosure of which would contravene national policy or security interests of the United States or the confidentiality of census data, such information shall not be transmitted and such individual shall immediately notify the Secretary. If such search fails to disclose the information requested, such individual shall immediately so notify the Secretary. The costs incurred by any such department, agency, or instrumentality of the United States or of any State in providing such information to the Secretary shall be reimbursed by him in an amount which the Secretary determines to be reasonable payment for the information exchange (which amount shall not include payment for the costs of obtaining, compiling, or maintaining the information). Whenever such services are furnished to an individual specified in subsection (c)(3) of this section, a fee shall be charged such individual. The fee so charged shall be used to reimburse the Secretary or his delegate for the expense of providing such services.
+(2) Notwithstanding any other provision of law, whenever the individual who is the head of any department, agency, or instrumentality of the United States receives a request from the Secretary for information authorized to be provided by the Secretary under this section, such individual shall promptly cause a search to be made of the files and records maintained by such department, agency, or instrumentality with a view to determining whether the information requested is contained in any such files or records. If such search discloses the information requested, such individual shall immediately transmit such information to the Secretary, except that if any information is obtained the disclosure of which would contravene national policy or security interests of the United States or the confidentiality of census data, such information shall not be transmitted and such individual shall immediately notify the Secretary. If such search fails to disclose the information requested, such individual shall immediately so notify the Secretary. The costs incurred by any such department, agency, or instrumentality of the United States or of any State in providing such information to the Secretary shall be reimbursed by him in an amount which the Secretary determines to be reasonable payment for the information exchange (which amount shall not include payment for the costs of obtaining, compiling, or maintaining the information). Whenever such services are furnished to an individual specified in subsection (c)(3) of this section, a fee shall be charged such individual. The fee so charged shall be used to reimburse the Secretary or his delegate for the expense of providing such services.
 
 (3) The Secretary of Labor shall enter into an agreement with the Secretary to provide prompt access for the Secretary (in accordance with this subsection) to the wage and unemployment compensation claims information and data maintained by or for the Department of Labor or State employment security agencies.
 
@@ -98,9 +98,19 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 &emsp;In order to assist States in administering programs under State plans approved under this part and programs funded under part A of this subchapter, and for the other purposes specified in this section, the Secretary shall, not later than October 1, 1997, establish and maintain in the Federal Parent Locator Service an automated directory to be known as the National Directory of New Hires, which shall contain the information supplied pursuant to section 653a(g)(2) of this title.
 
-#### (2) Entry of data
+#### (2) Data entry and deletion requirements
 
-&emsp;Information shall be entered into the data base maintained by the National Directory of New Hires within 2 business days of receipt pursuant to section 653a(g)(2) of this title.
+#### (A) In general
+
+&emsp;&emsp;Information provided pursuant to section 653a(g)(2) of this title shall be entered into the data base maintained by the National Directory of New Hires within two business days after receipt, and shall be deleted from the data base 24 months after the date of entry.
+
+#### (B) 12-month limit on access to wage and unemployment compensation information
+
+&emsp;&emsp;The Secretary shall not have access for child support enforcement purposes to information in the National Directory of New Hires that is provided pursuant to section 653a(g)(2)(B) of this title, if 12 months has elapsed since the date the information is so provided and there has not been a match resulting from the use of such information in any information comparison under this subsection.
+
+#### (C) Retention of data for research purposes
+
+&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the Secretary may retain such samples of data entered in the National Directory of New Hires as the Secretary may find necessary to assist in carrying out subsection (j)(5) of this section.
 
 #### (3) Administration of Federal tax laws
 
@@ -150,6 +160,64 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 &emsp;The Secretary may provide access to data in each component of the Federal Parent Locator Service maintained under this section and to information reported by employers pursuant to section 653a(b) of this title for research purposes found by the Secretary to be likely to contribute to achieving the purposes of part A of this subchapter or this part, but without personal identifiers.
 
+#### (6) Information comparisons and disclosure for enforcement of obligations on Higher Education Act loans and grants
+
+#### (A) Furnishing of information by the Secretary of Education
+
+&emsp;&emsp;The Secretary of Education shall furnish to the Secretary, on a quarterly basis or at such less frequent intervals as may be determined by the Secretary of Education, information in the custody of the Secretary of Education for comparison with information in the National Directory of New Hires, in order to obtain the information in such directory with respect to individuals who—
+
+&emsp;&emsp;&emsp;(i) are borrowers of loans made under title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\] that are in default; or
+
+&emsp;&emsp;&emsp;(ii) owe an obligation to refund an overpayment of a grant awarded under such title.
+
+#### (B) Requirement to seek minimum information necessary
+
+&emsp;&emsp;The Secretary of Education shall seek information pursuant to this section only to the extent essential to improving collection of the debt described in subparagraph (A).
+
+#### (C) Duties of the Secretary
+
+#### (i) Information comparison; disclosure to the Secretary of Education
+
+&emsp;&emsp;&emsp;The Secretary, in cooperation with the Secretary of Education, shall compare information in the National Directory of New Hires with information in the custody of the Secretary of Education, and disclose information in that Directory to the Secretary of Education, in accordance with this paragraph, for the purposes specified in this paragraph.
+
+#### (ii) Condition on disclosure
+
+&emsp;&emsp;&emsp;The Secretary shall make disclosures in accordance with clause (i) only to the extent that the Secretary determines that such disclosures do not interfere with the effective operation of the program under this part. Support collection under section 666(b) of this title shall be given priority over collection of any defaulted student loan or grant overpayment against the same income.
+
+#### (D) Use of information by the Secretary of Education
+
+&emsp;&emsp;The Secretary of Education may use information resulting from a data match pursuant to this paragraph only—
+
+&emsp;&emsp;&emsp;(i) for the purpose of collection of the debt described in subparagraph (A) owed by an individual whose annualized wage level (determined by taking into consideration information from the National Directory of New Hires) exceeds $16,000; and
+
+&emsp;&emsp;&emsp;(ii) after removal of personal identifiers, to conduct analyses of student loan defaults.
+
+#### (E) Disclosure of information by the Secretary of Education
+
+#### (i) Disclosures permitted
+
+&emsp;&emsp;&emsp;The Secretary of Education may disclose information resulting from a data match pursuant to this paragraph only to—
+
+&emsp;&emsp;&emsp;&emsp;(I) a guaranty agency holding a loan made under part B of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq.\] on which the individual is obligated;
+
+&emsp;&emsp;&emsp;&emsp;(II) a contractor or agent of the guaranty agency described in subclause (I);
+
+&emsp;&emsp;&emsp;&emsp;(III) a contractor or agent of the Secretary; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) the Attorney General.
+
+#### (ii) Purpose of disclosure
+
+&emsp;&emsp;&emsp;The Secretary of Education may make a disclosure under clause (i) only for the purpose of collection of the debts owed on defaulted student loans, or overpayments of grants, made under title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\].
+
+#### (iii) Restriction on redisclosure
+
+&emsp;&emsp;&emsp;An entity to which information is disclosed under clause (i) may use or disclose such information only as needed for the purpose of collecting on defaulted student loans, or overpayments of grants, made under title IV of the Higher Education Act of 1965.
+
+#### (F) Reimbursement of HHS costs
+
+&emsp;&emsp;The Secretary of Education shall reimburse the Secretary, in accordance with subsection (k)(3) of this section, for the additional costs incurred by the Secretary in furnishing the information requested under this subparagraph.
+
 #### (k) Fees
 
 #### (1) For SSA verification
@@ -166,7 +234,13 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (<i>l</i>) Restriction on disclosure and use
 
-Information in the Federal Parent Locator Service, and information resulting from comparisons using such information, shall not be used or disclosed except as expressly provided in this section, subject to section 6103 of the Internal Revenue Code of 1986.
+#### (1) In general
+
+&emsp;Information in the Federal Parent Locator Service, and information resulting from comparisons using such information, shall not be used or disclosed except as expressly provided in this section, subject to section 6103 of the Internal Revenue Code of 1986.
+
+#### (2) Penalty for misuse of information in the National Directory of New Hires
+
+&emsp;The Secretary shall require the imposition of an administrative penalty (up to and including dismissal from employment), and a fine of $1,000, for each act of unauthorized access to, disclosure of, or use of, information in the National Directory of New Hires established under subsection (i) of this section by any officer or employee of the United States or any other person who knowingly and willfully violates this paragraph.
 
 #### (m) Information integrity and security
 
@@ -188,37 +262,7 @@ Out of any money in the Treasury of the United States not otherwise appropriated
 
 As used in this part, the term “support order” means a judgment, decree, or order, whether temporary, final, or subject to modification, issued by a court or an administrative agency of competent jurisdiction, for the support and maintenance of a child, including a child who has attained the age of majority under the law of the issuing State, or of the parent with whom the child is living, which provides for monetary support, health care, arrearages, or reimbursement, and which may include related costs and fees, interest and penalties, income withholding, attorneys’ fees, and other relief.
 
-(Aug. 14, 1935, ch. 531, title IV, §453, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2353; amended Pub. L. 97–35, title XXIII, §2332(c), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2663(c)(13), (j)(2)(B)(ix), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§17, 19(a), Aug. 16, 1984, 98 Stat. 1321, 1322; Pub. L. 100–485, title I, §124(a), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 104–193, title I, §108(c)(10), title III, §§316(a)–(f), 345(b), 366, 395(d)(1)(C), (2)(A), Aug. 22, 1996, 110 Stat. 2166, 2214–2216, 2237, 2250, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5534(a), 5535, 5541(b), 5543, 5553, 5556(c), Aug. 5, 1997, 111 Stat. 627, 629–631, 636, 637; Pub. L. 105–34, title X, §1090(a)(2), Aug. 5, 1997, 111 Stat. 961; Pub. L. 105–89, title I, §105, Nov. 19, 1997, 111 Stat. 2120; Pub. L. 105–200, title IV, §§402(a), (b), 410(d), July 16, 1998, 112 Stat. 668, 669, 673.)
-
-#### Amendment of Subsections (i)(2) and (<i>l)</i>
-
-<i>Pub. L. 105–200, title IV, §402(a), (b), (e), July 16, 1998, 112 Stat. 668, 669, provided that, effective Oct. 1, 2000, this section is amended as follows:</i>
-
-<i>Subsection (i)(2) of this section is amended to read as follows:</i>
-
-#### (2) Data entry and deletion requirements
-
-#### (A) In general
-
-&emsp;Information provided pursuant to section 653a(g)(2) of this title shall be entered into the data base maintained by the National Directory of New Hires within two business days after receipt, and shall be deleted from the data base 24 months after the date of entry.
-
-#### (B) 12-month limit on access to wage and unemployment compensation information
-
-&emsp;The Secretary shall not have access for child support enforcement purposes to information in the National Directory of New Hires that is provided pursuant to section 653a(g)(2)(B) of this title, if 12 months has elapsed since the date the information is so provided and there has not been a match resulting from the use of such information in any information comparison under this subsection.
-
-#### (C) Retention of data for research purposes
-
-&emsp;Notwithstanding subparagraphs (A) and (B), the Secretary may retain such samples of data entered in the National Directory of New Hires as the Secretary may find necessary to assist in carrying out subsection (j)(5) of this section.
-
-<i>Subsection (l) of this section is amended—</i>
-
-<i>(1) by designating existing provisions as paragraph (1) and inserting the following heading: “In general”, and</i>
-
-<i>(2) by adding at the end the following:</i>
-
-#### (2) Penalty for misuse of information in the National Directory of New Hires
-
-The Secretary shall require the imposition of an administrative penalty (up to and including dismissal from employment), and a fine of $1,000, for each act of unauthorized access to, disclosure of, or use of, information in the National Directory of New Hires established under subsection (i) of this section by any officer or employee of the United States who knowingly and willfully violates this paragraph.
+(Aug. 14, 1935, ch. 531, title IV, §453, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2353; amended Pub. L. 97–35, title XXIII, §2332(c), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2663(c)(13), (j)(2)(B)(ix), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§17, 19(a), Aug. 16, 1984, 98 Stat. 1321, 1322; Pub. L. 100–485, title I, §124(a), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 104–193, title I, §108(c)(10), title III, §§316(a)–(f), 345(b), 366, 395(d)(1)(C), (2)(A), Aug. 22, 1996, 110 Stat. 2166, 2214–2216, 2237, 2250, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5534(a), 5535, 5541(b), 5543, 5553, 5556(c), Aug. 5, 1997, 111 Stat. 627, 629–631, 636, 637; Pub. L. 105–34, title X, §1090(a)(2), Aug. 5, 1997, 111 Stat. 961; Pub. L. 105–89, title I, §105, Nov. 19, 1997, 111 Stat. 2120; Pub. L. 105–200, title IV, §§402(a), (b), 410(d), July 16, 1998, 112 Stat. 668, 669, 673; Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §303(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304, 1501A–306.)
 
 #### References in Text
 
@@ -226,11 +270,21 @@ Parts A, B, and E of this subchapter, referred to in subsecs. (c)(3), (4), (h)(1
 
 The Internal Revenue Code of 1986, referred to in subsecs. (h)(3), (i)(3), and (<i>l</i>), is classified generally to Title 26, Internal Revenue Code.
 
+The Higher Education Act of 1965, referred to in subsec. (j)(6)(A), (E), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of this title. Part B of title IV of the Act is classified generally to part B (§1071 et seq.) of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+
 #### Amendments
+
+1999—Subsec. (j)(6). Pub. L. 106–113, §1000(a)(5) \[title III, §303(a)\], added par. (6).
+
+Subsec. (<i>l</i>)(2). Pub. L. 106–113, §1000(a)(5) \[title III, §303(b)\], amended Pub. L. 105–200, §402(a), by inserting “or any other person” after “employee of the United States” in new par. (2). See 1998 Amendment note below.
 
 1998—Subsec. (a)(2). Pub. L. 105–200, §410(d)(1), (2), in introductory provisions, substituted “parentage or” for “parentage,” and struck out “or making or enforcing child custody or visitation orders,” after “obligations,”.
 
 Subsec. (a)(2)(A)(iv). Pub. L. 105–200, §410(d)(3), realigned margins.
+
+Subsec. (i)(2). Pub. L. 106–200, §402(b), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Information shall be entered into the data base maintained by the National Directory of New Hires within 2 business days of receipt pursuant to section 653a(g)(2) of this title.”
+
+Subsec. (<i>l</i>). Pub. L. 105–200, §402(a), as amended by Pub. L. 106–113, §1000(a)(5) \[title III, §303(b)\], designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 1997—Subsec. (a). Pub. L. 105–33, §5534(a)(1), designated existing provisions as par. (1), substituted “for the purposes specified in paragraphs (2) and (3).” for “to obtain and transmit to any authorized person (as defined in subsection (c) of this section), for the purpose of establishing parentage, establishing, setting the amount of, modifying, or enforcing child support obligations, or enforcing child custody or visitation orders—”, added pars. (2) and (3), and struck out former pars. (1) to (3) which read as follows:
 
@@ -319,6 +373,10 @@ Subsec. (b)(2). Pub. L. 98–369, §2663(c)(13), substituted “of the United St
 Subsec. (f). Pub. L. 98–378, §17, struck out “, after determining that the absent parent cannot be located through the procedures under the control of such State agencies,” before “to transmit to the Secretary”.
 
 1981—Subsec. (c)(1). Pub. L. 97–35 substituted “child and spousal support” for “child support”.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §303(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–306, provided that: “The amendments made by this section \[amending this section\] shall become effective October 1, 1999.”
 
 #### Effective Date of 1998 Amendment
 

@@ -12,7 +12,7 @@ Notwithstanding any other provision of this chapter—
 
 #### (B) Special rule for forward contracts, etc.
 
-&emsp;&emsp;Except as provided in regulations, a taxpayer may elect to treat any foreign currency gain or loss attributable to a forward contract, a futures contract, or option described in subsection (c)(1)(B)(iii) which is a capital asset in the hands of the taxpayer and which is not a part of a straddle (within the meaning of section 1092(c), without regard to paragraph (4) thereof) as capital gain or loss (as the case may be) if the taxpayer makes such election and identifies such transaction before the close of the day on which such transaction is entered into (or such earlier time as the Secretary may prescribe).
+&emsp;&emsp;Except as provided in regulations, a taxpayer may elect to treat any foreign currency gain or loss attributable to a forward contract, a futures contract, or option described in subsection (c)(1)(B)(iii) which is a capital asset in the hands of the taxpayer and which is not a part of a straddle (within the meaning of section 1092(c), without regard to paragraph (4) thereof) as capital gainor loss (as the case may be) if the taxpayer makes such election and identifies such transaction before the close of the day on which such transaction is entered into (or such earlier time as the Secretary may prescribe).
 
 #### (2) Gain or loss treated as interest for certain purposes
 
@@ -240,7 +240,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;To the extent provided in regulations, if any section 988 transaction is part of a 988 hedgingtransaction, all transactions which are part of such 988 hedging transaction shall be integrated and treated as a single transaction or otherwise treated consistently for purposes of this subtitle. For purposes of the preceding sentence, the determination of whether any transaction is a section 988 transaction shall be determined without regard to whether such transaction would otherwise be marked-to-market under section 475 or 1256 and such term shall not include any transaction with respect to which an election is made under subsection (a)(1)(B). Sections 475, 1092, and 1256 shall not apply to a transaction covered by this subsection.
+&emsp;To the extent provided in regulations, if any section 988 transaction is part of a 988 hedging transaction, all transactions which are part of such 988 hedging transaction shall be integrated and treated as a single transaction or otherwise treated consistently for purposes of this subtitle. For purposes of the preceding sentence, the determination of whether any transaction is a section 988 transaction shall be determined without regard to whether such transaction would otherwise be marked-to-market under section 475 or 1256 and such term shall not include any transaction with respect to which an election is made under subsection (a)(1)(B). Sections 475, 1092, and 1256 shall not apply to a transaction covered by this subsection.
 
 #### (2) 988 hedging transaction
 
@@ -248,9 +248,9 @@ For purposes of this section—
 
 &emsp;&emsp;(A) entered into by the taxpayer primarily—
 
-&emsp;&emsp;&emsp;(i) to reduce risk of currency fluctuations with respect to property which is held or to be held by the taxpayer, or
+&emsp;&emsp;&emsp;(i) to manage risk of currency fluctuations with respect to property which is held or to be held by the taxpayer, or
 
-&emsp;&emsp;&emsp;(ii) to reduce risk of currency fluctuations with respect to borrowings made or to be made, or obligations incurred or to be incurred, by the taxpayer, and
+&emsp;&emsp;&emsp;(ii) to manage risk of currency fluctuations with respect to borrowings made or to be made, or obligations incurred or to be incurred, by the taxpayer, and
 
 &emsp;&emsp;(B) identified by the Secretary or the taxpayer as being a 988 hedging transaction.
 
@@ -278,9 +278,11 @@ For purposes of this section—
 
 &emsp;&emsp;(B) section 212 (other than that part of section 212 dealing with expenses incurred in connection with taxes).
 
-(Added Pub. L. 99–514, title XII, §1261(a), Oct. 22, 1986, 100 Stat. 2587; amended Pub. L. 100–647, title I, §1012(v)(2)(A), (3), (4), (6)–(8), title VI, §6130(a), (b), Nov. 10, 1988, 102 Stat. 3529, 3530, 3717; Pub. L. 101–239, title VII, §7811(i)(7), Dec. 19, 1989, 103 Stat. 2410; Pub. L. 103–66, title XIII, §13223(b)(1), Aug. 10, 1993, 107 Stat. 484; Pub. L. 105–34, title XI, §1104(a), Aug. 5, 1997, 111 Stat. 967.)
+(Added Pub. L. 99–514, title XII, §1261(a), Oct. 22, 1986, 100 Stat. 2587; amended Pub. L. 100–647, title I, §1012(v)(2)(A), (3), (4), (6)–(8), title VI, §6130(a), (b), Nov. 10, 1988, 102 Stat. 3529, 3530, 3717; Pub. L. 101–239, title VII, §7811(i)(7), Dec. 19, 1989, 103 Stat. 2410; Pub. L. 103–66, title XIII, §13223(b)(1), Aug. 10, 1993, 107 Stat. 484; Pub. L. 105–34, title XI, §1104(a), Aug. 5, 1997, 111 Stat. 967; Pub. L. 106–170, title V, §532(b)(3), Dec. 17, 1999, 113 Stat. 1930.)
 
 #### Amendments
+
+1999—Subsec. (d)(2)(A)(i), (ii). Pub. L. 106–170 substituted “to manage” for “to reduce”.
 
 1997—Subsec. (e). Pub. L. 105–34 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “This section shall apply to section 988 transactions entered into by an individual only to the extent expenses properly allocable to such transactions meet the requirements of section 162 or 212 (other than that part of section 212 dealing with expenses incurred in connection with taxes).”
 
@@ -314,6 +316,10 @@ Subsec. (c)(5). Pub. L. 100–647, §1012(v)(2)(A), added par. (5).
 
 Subsec. (d)(1). Pub. L. 100–647, §1012(v)(4), substituted “this subtitle” for “this section”.
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Section 1104(b) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
@@ -328,7 +334,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Section 1012(v)(2)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall not apply in any case in which the taxpayer takes or makes delivery before June 11, 1987.”
+Section 1012(v)(2)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall not apply in any case in which the taxpayer takes or makes delivery before June 11, 1987.”
 
 Amendment by section 1012(v)(3), (4), (6)–(8) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Acquisition of property in Emergency Declaration Area
 
-The Administrator of the Environmental Protection Agency (hereinafter referred to as the “Administrator”) may make grants not to exceed $2,500,000 to the State of New York (or to any duly constituted public agency or authority thereof) for purposes of acquisition of private property in the Love Canal Emergency Declaration Area. Such acquisition shall include (but shall not be limited to) all private property within the Emergency Declaration Area, including non-owner occupied residential properties, commercial, industrial, public, religious, non-profit, and vacant properties.
+The Administrator of the Environmental Protection Agency (hereinafter referred to as the“Administrator”) may make grants not to exceed $2,500,000 to the State of New York (or to any duly constituted public agency or authority thereof) for purposes of acquisition of private property in the Love Canal Emergency Declaration Area. Such acquisition shall include (but shall not be limited to) all private property within the Emergency Declaration Area, including non-owner occupied residential properties, commercial, industrial, public, religious, non-profit, and vacant properties.
 
 #### (b) Procedures for acquisition
 
@@ -68,7 +68,7 @@ Section 213(a) of Pub. L. 99–499 provided that:
 
 #### Coordination of Titles I to IV of Pub. L. 99–499
 
-Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, or fee; establishing any trust fund; or authorizing expenditures from any trust fund, to have no force or effect, see section 531 of Pub. L. 99–499, set out as a note under section 1 of Title 26, Internal Revenue Code.
+Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, or fee; establishing any trustfund; or authorizing expenditures from any trust fund, to have no force or effect, see section 531 of Pub. L. 99–499, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

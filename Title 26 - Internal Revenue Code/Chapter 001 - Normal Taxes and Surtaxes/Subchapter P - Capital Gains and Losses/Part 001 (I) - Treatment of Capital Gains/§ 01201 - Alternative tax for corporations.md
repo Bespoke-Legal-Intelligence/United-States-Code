@@ -34,7 +34,7 @@ Pub. L. 100–647, §1003(c)(1), substituted “section 831(a) or (b)” for “
 
 1986—Subsec. (a). Pub. L. 99–514, §1024(c)(14), which directed the amendment of subsec. (a) by substituting “831(a) or (b)” for “821(a) or (c) and 831(a)” could not be executed in view of amendment by section 311(a) of Pub. L. 99–514.
 
-Pub. L. 99–514, §311(a), amended subsec. (a) generally. Prior to amendment, subsec. (a), corporations, read as follows: “If for any taxable year a corporation has a netcapital gain, then, in lieu of the tax imposed by sections 11, 511, 821(a) or (c) and 831(a), there is hereby imposed a tax (if such tax is less than the tax imposed by such sections) which shall consist of the sum of—
+Pub. L. 99–514, §311(a), amended subsec. (a) generally. Prior to amendment, subsec. (a), corporations, read as follows: “If for any taxable year a corporation has a net capital gain, then, in lieu of the tax imposed by sections 11, 511, 821(a) or (c) and 831(a), there is hereby imposed a tax (if such tax is less than the tax imposed by such sections) which shall consist of the sum of—
 
 &emsp;“(1) a tax computed on the taxable income reduced by the amount of the net capital gain, at the rates and in the manner as if this subsection had not been enacted, plus
 

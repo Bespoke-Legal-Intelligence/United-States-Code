@@ -26,7 +26,7 @@ The Secretary shall, in cooperation with the Secretary of the department in whic
 
 &emsp;&emsp;(A) the confidentiality of information collected under this section in accordance with section 1881a(b) of this title; and
 
-&emsp;&emsp;(B) the timely release or availability to the public of information collected underthis section consistent with section 1881a(b) of this title.
+&emsp;&emsp;(B) the timely release or availability to the public of information collected under this section consistent with section 1881a(b) of this title.
 
 #### (b) Fishing vessel registration
 

@@ -42,5 +42,5 @@ Section 13108 sets forth the manner that the Secretary shall compute the amounts
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective Oct. 1, 1984, to apply with respect to fiscal years beginning after Sept.30, 1984, see section 1013 of Pub. L. 98–369, set out as a note under section 13101 of this title.
+Amendment by Pub. L. 98–369 effective Oct. 1, 1984, to apply with respect to fiscal years beginning after Sept. 30, 1984, see section 1013 of Pub. L. 98–369, set out as a note under section 13101 of this title.
 

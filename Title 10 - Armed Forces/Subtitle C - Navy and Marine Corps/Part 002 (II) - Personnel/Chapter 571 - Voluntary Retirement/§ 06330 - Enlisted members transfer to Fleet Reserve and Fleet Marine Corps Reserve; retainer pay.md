@@ -24,7 +24,7 @@
 
 &emsp;(ii) an enlistment of the member terminated within three months before the end of the term of enlistment is counted as active service for the full term.
 
-(B) In the case of a member who is transferred to the Fleet Reserve or the Fleet Marine Corps Reserve under this section after December 30, 1977, service attributable under subparagraph (A) to time which, after December 31, 1977, is not actually served by the member may not be counted.
+(B) In the case of a member who is transferred to the Fleet Reserve or the Fleet Marine CorpsReserve under this section after December 30, 1977, service attributable under subparagraph (A) to time which, after December 31, 1977, is not actually served by the member may not be counted.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 396; Pub. L. 85–583, §1(2), (3), Aug. 1, 1958, 72 Stat. 480; Pub. L. 90–207, §3(4), Dec. 16, 1967, 81 Stat. 653; Pub. L. 96–342, title VIII, §813(d)(5), Sept. 8, 1980, 94 Stat. 1105; Pub. L. 96–513, title V, §513(17), (19), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 98–94, title IX, §923(c)(3), Sept. 24, 1983, 97 Stat. 643; Pub. L. 99–348, title II, §203(b)(6), title III, §305(a)(1), July 1, 1986, 100 Stat. 696, 704; Pub. L. 101–189, div. A, title VI, §652(a)(5), Nov. 29, 1989, 103 Stat. 1461.)
 
@@ -60,7 +60,7 @@ June 25, 1938, ch. 690, §204 (less 4th, 5th, 6th (as applicable to §203 of the
 
 June 25, 1938, ch. 690, §202 (less provisos), 52 Stat. 1178.
 
-In subsection (a) the words “officers” and “assigned” are omitted, since they are applicable only to the proviso in 34 U.S.C. 854, which is recommended for repeal as obsolete. (See Table 2A.) The words “including (a)those former members of the Fleet Reserve who were transferred \* \* \* but before the expiration of three months following discharge”, appearing in §803 of the Armed Forces Reserve Act of 1952, 66 Stat. 505 (34 U.S.C. 854 (note)) are omitted as surplusage. These words merely illustrate the class of persons transferred to the Fleet Reserve under the Naval Reserve Act of 1938, 52 Stat. 1178, as referred to in the section from which these words were taken, and in no way limit that class or impose a citizenship requirement for membership in it. (See the opinion of the Judge Advocate General of the Navy, JAG:II:1:JFG:imz of February 17, 1953.)
+In subsection (a) the words “officers” and “assigned” are omitted, since they are applicable only to the proviso in 34 U.S.C. 854, which is recommended for repeal as obsolete. (See Table 2A.) The words “including (a) those former members of the Fleet Reserve who were transferred \* \* \* but before the expiration of three months following discharge”, appearing in §803 of the Armed Forces Reserve Act of 1952, 66 Stat. 505 (34 U.S.C. 854 (note)) are omitted as surplusage. These words merely illustrate the class of persons transferred to the Fleet Reserve under the Naval Reserve Act of 1938, 52 Stat. 1178, as referred to in the section from which these words were taken, and in no way limit that class or impose a citizenship requirement for membership in it. (See the opinion of the Judge Advocate General of the Navy, JAG:II:1:JFG:imz of February 17, 1953.)
 
 In subsection (b) reference to the date July 1, 1925, is omitted, since members who were in the naval service on or before that date may, if they are qualified and so elect, be transferred to the Fleet Reserve or to the Fleet Marine Corps Reserve under 34 U.S.C. 854c instead of under 34 U.S.C. 854b, as provided in the fifth proviso of 34 U.S.C. 854c. That proviso and the provisions of 34 U.S.C. 854b, which are applicable only to persons who were in the naval service in 1925, are not codified because they relate to a small closed class and are therefore of limited interest. They are not repealed, however. (See Table 2D.)
 
@@ -114,7 +114,7 @@ For provisions authorizing the Secretary of the Navy, during the period beginnin
 
 #### Retainer Pay of Enlisted Members of Regular Navy, Naval Reserve, Regular Marine Corps, or Marine Corps Reserve Transferred to Fleet Reserve or Fleet Marine Corps Reserve
 
-Pub. L. 98–473, title I, §101(h) \[title VIII, §8039\], Oct. 12, 1984, 98 Stat. 1904, 1930, limited the use of assets of the Department of Defense Military Retirement Fund to pay the retainer pay of enlisted members of the Regular Navy, the Naval Reserve, the Regular Marine Corps, or the Marine Corps Reserve who were transferred to the Fleet Reserve or the Fleet Marine Corps Reserve under this section on or after Dec. 31, 1977,prior to repeal by Pub. L. 99–348, title III, §305(a)(2), July 1, 1986, 100 Stat. 704. See section 6330(d)(2) and (3) of this title.
+Pub. L. 98–473, title I, §101(h) \[title VIII, §8039\], Oct. 12, 1984, 98 Stat. 1904, 1930, limited the use of assets of the Department of Defense Military Retirement Fund to pay the retainer pay of enlisted members of the Regular Navy, the Naval Reserve, the Regular Marine Corps, or the Marine Corps Reserve who were transferred to the Fleet Reserve or the Fleet Marine Corps Reserve under this section on or after Dec. 31, 1977, prior to repeal by Pub. L. 99–348, title III, §305(a)(2), July 1, 1986, 100 Stat. 704. See section 6330(d)(2) and (3) of this title.
 
 #### Transfer of Former Members of Navy or Marine Corps to Fleet Reserve or Fleet Marine Corps Reserve; Transfer to Retired List
 

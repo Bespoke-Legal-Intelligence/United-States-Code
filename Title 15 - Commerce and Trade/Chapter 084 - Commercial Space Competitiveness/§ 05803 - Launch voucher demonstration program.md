@@ -2,7 +2,7 @@
 
 #### (a) Commercial space voucher demonstration program; effective period
 
-The Administrator shall establish a demonstration program to award vouchers for thepayment of commercial launch services and payload integration services for the purpose of launching payloads funded by the National Aeronautics and Space Administration to become effective October 1, 1993.
+The Administrator shall establish a demonstration program to award vouchers for the payment of commercial launch services and payload integration services for the purpose of launching payloads funded by the National Aeronautics and Space Administration to become effective October 1, 1993.
 
 #### (b) Award of vouchers
 

@@ -1,12 +1,12 @@
 ### §116. Inventors
 
-When an invention is made by two or more persons jointly, they shall apply for patent jointly and each make the required oath, except as otherwise provided in this title. Inventors may apply for a patent jointly even though (1) they did not physically work together or at the same time, (2) each did not make the same typeor amount of contribution, or (3) each did not make a contribution to the subject matter of every claim of the patent.
+When an invention is made by two or more persons jointly, they shall apply for patent jointly and each make the required oath, except as otherwise provided in this title. Inventors may apply for a patent jointly even though (1) they did not physically work together or at the same time, (2) each did not make the same type or amount of contribution, or (3) each did not make a contribution to the subject matter of every claim of the patent.
 
-If a joint inventor refuses to join in an application for patent or cannot be found or reached after diligent effort, the application may be made by the other inventor on behalf of himself and the omitted inventor. The Commissioner, on proof of the pertinent facts and after such notice to the omitted inventor as he prescribes, may grant a patent to the inventor making the application, subject to the same rights which the omitted inventor would have had if he had been joined. The omitted inventor may subsequently join in the application.
+If a joint inventor refuses to join in an application for patent or cannot be found or reached after diligent effort, the application may be made by the other inventor on behalf of himself and the omitted inventor. The Director, on proof of the pertinent facts and after such notice to the omitted inventor as he prescribes, may grant a patent to the inventor making the application, subject to the same rights which the omitted inventor would have had if he had been joined. The omitted inventor may subsequently join in the application.
 
-Whenever through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application, and such error arose without any deceptive intention on his part, the Commissioner may permit the application to be amended accordingly, under such terms as he prescribes.
+Whenever through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application, and such error arose without any deceptive intention on his part, the Director may permit the application to be amended accordingly, under such terms as he prescribes.
 
-(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 97–247, §6(a), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–622, title I, §104(a), Nov. 8, 1984, 98 Stat. 3384.)
+(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 97–247, §6(a), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–622, title I, §104(a), Nov. 8, 1984, 98 Stat. 3384; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
 
 #### Historical and Revision Notes
 
@@ -14,9 +14,15 @@ The first paragraph is implied in the present statutes, and the part of the last
 
 #### Amendments
 
+1999—Pub. L. 106–113 substituted “Director” for “Commissioner” in two places.
+
 1984—Pub. L. 98–622 amended first par. generally, striking out “and each sign the application” after “patent jointly” and inserting sentence beginning “Inventors may apply”.
 
 1982—Pub. L. 97–247 substituted “Inventors” for “Joint inventors” as section catchline, and substituted “through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application” for “a person is joined in an application for patent as joint inventor through error, or a joint inventor is not included in an application through error”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -6,7 +6,7 @@ Articles of foreign or domestic origin may be withdrawn, under such regulations 
 
 &emsp;(1) for supplies (not including equipment) of (A) vessels or aircraft operated by the United States, (B) vessels of the United States employed in the fisheries or in the whaling business, or actually engaged in foreign trade or trade between the Atlantic and Pacific ports of the United States or between the United States and any of its possessions, or between Hawaii and any other part of the United States, or between Alaska and any other part of the United States, or (C) aircraft registered in the United States and actually engaged in foreign trade or trade between the United States and any of its possessions, or between Hawaii and any other part of the United States or between Alaska and any other part of the United States; or
 
-&emsp;(2) for supplies (including equipment) or repair of (A) vessels of war of any foreign nation, or (B) foreign vessels employed in the fisheriesor in the whaling business, or actually engaged in foreign trade or trade between the United States and any of its possessions, or between Hawaii and any other part of the United States or between Alaska and any other part of the United States, where such trade by foreign vessels is permitted; or
+&emsp;(2) for supplies (including equipment) or repair of (A) vessels of war of any foreign nation, or (B) foreign vessels employed in the fisheries or in the whaling business, or actually engaged in foreign trade or trade between the United States and any of its possessions, or between Hawaii and any other part of the United States or between Alaska and any other part of the United States, where such trade by foreign vessels is permitted; or
 
 &emsp;(3) for supplies (including equipment), ground equipment, maintenance, or repair of aircraft registered in any foreign country and actually engaged in foreign trade or trade between the United States and any of its possessions, or between Hawaii and any other part of the United States or between Alaska and any other part of the United States, where trade by foreign aircraft is permitted. With respect to articles for ground equipment, the exemption hereunder shall apply only to duties and to taxes imposed upon or by reason of importation.
 
@@ -14,7 +14,7 @@ The provisions for free withdrawals made by this subsection shall not apply to p
 
 #### (b) Drawback
 
-Articles withdrawn from bonded warehouses, bonded manufacturing warehouses, continuous customs custody elsewhere than in a bonded warehouse, or from a foreign-trade zone, imported articles, and articles of domestic manufacture or production, laden as supplies upon any such vessel or aircraft of the United States or laden as supplies (including equipment) upon, or used in the maintenance or repair of, any such foreign vessel or aircraft, shall be considered to be exported within the meaning of the drawback provisions of this chapter.
+Articles withdrawn from bonded warehouses, bonded manufacturing warehouses, continuous customs custody elsewhere than in a bonded warehouse, or from a foreign-trade zone, imported articles, and articles of domestic manufacture or production, laden as supplies upon any such vessel or aircraft of the United States or laden as supplies (including equipment) upon,or used in the maintenance or repair of, any such foreign vessel or aircraft, shall be considered to be exported within the meaning of the drawback provisions of this chapter.
 
 #### (c) Articles removed in, or returned to, the United States
 

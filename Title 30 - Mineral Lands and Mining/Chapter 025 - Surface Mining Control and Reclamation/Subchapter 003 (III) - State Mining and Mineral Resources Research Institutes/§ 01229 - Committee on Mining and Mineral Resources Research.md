@@ -16,7 +16,7 @@ The Secretary shall appoint a Committee on Mining and Mineral Resources Research
 
 &emsp;(6) the President, National Academy of Engineering, or his delegate; and
 
-&emsp;(7) not more than 7 other persons who are knowledgeable in the fields of mining and mineral resources research, including two university administrators involved in the conduct of programs authorized by this subchapter, 3 representatives from the mining industry, aworking miner, and a representative from the conservation community. In making these 7 appointments, the Secretary shall consult with interested groups.
+&emsp;(7) not more than 7 other persons who are knowledgeable in the fields of mining and mineral resources research, including two university administrators involved in the conduct of programs authorized by this subchapter, 3 representatives from the mining industry, a working miner, and a representative from the conservation community. In making these 7 appointments, the Secretary shall consult with interested groups.
 
 #### (b) Consultation and recommendations
 

@@ -26,7 +26,7 @@ For purposes of this chapter—
 
 #### (A) General rule
 
-&emsp;&emsp;The term “marker well” means any well from which natural gas was produced in commercial quantities at any time after January 1, 1970, and before April 20, 1977.
+&emsp;&emsp;The term “marker well” means any well from which natural gas was produced incommercial quantities at any time after January 1, 1970, and before April 20, 1977.
 
 #### (B) New wells
 
@@ -104,7 +104,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;&emsp;(i) natural gas which is from the Outer Continental Shelf; and
 
-&emsp;&emsp;&emsp;(ii) natural gas which, if sold, would be required to be sold in interstate commerce (within the meaning of the Natural Gas Act \[15 U.S.C. 717 et seq.\]) under the terms of any contract, any certificate under the Natural Gas Act, or any provision of such Act.
+&emsp;&emsp;&emsp;(ii) natural gas which, if sold, would be required to be sold in interstate commerce (within the meaning of the Natural Gas Act \[15 U.S.C. 717 et seq.\]) under the terms of any contract, any certificate under theNatural Gas Act, or any provision of such Act.
 
 #### (B) Exclusion
 

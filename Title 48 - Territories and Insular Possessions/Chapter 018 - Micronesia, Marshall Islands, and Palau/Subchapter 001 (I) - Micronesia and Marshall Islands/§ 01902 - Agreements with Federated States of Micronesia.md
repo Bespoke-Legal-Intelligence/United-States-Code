@@ -54,7 +54,7 @@
 
 #### (c) Agreement on audits
 
-In accordance with section 233 of the Compact, the President of the United States, in consultation with the Comptroller General of the United States, shall negotiate with the Government ofthe Federated States of Micronesia modifications to the “Agreement Concerning Procedures for the Implementation of United States Economic Assistance, Programs and Services Provided in the Compact of Free Association”, which shall provide as follows:
+In accordance with section 233 of the Compact, the President of the United States, in consultation with the Comptroller General of the United States, shall negotiate with the Government of the Federated States of Micronesia modifications to the “Agreement Concerning Procedures for the Implementation of United States Economic Assistance, Programs and Services Provided in the Compact of Free Association”, which shall provide as follows:
 
 #### (1) General authority of the GAO to audit
 

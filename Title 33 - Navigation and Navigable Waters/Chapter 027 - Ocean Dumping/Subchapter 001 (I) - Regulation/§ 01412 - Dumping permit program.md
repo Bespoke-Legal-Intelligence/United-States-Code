@@ -62,7 +62,7 @@ The Administrator may establish and issue various categories of permits, includi
 
 #### (4) General site management plan requirement; prohibitions
 
-&emsp;After January 1, 1995, no site shall receive a final designation unless a management plan has been developed pursuant to this section. Beginning on January 1, 1997, no permit for dumping pursuant to this Act or authorization for dumping under section 1413(e) of this title shall be issued for a site (other than the site located off the coast of Newport Beach, California, which is known as “LA–3”) unless such site has received a final designation pursuant to this subsection or an alternative site has been selected pursuant to section 1413(b) of this title. Beginning January 1, 2000, no permit for dumping pursuant to this Act or authorization for dumping under section 1413(e) of this title shall be issued for the site located off the coast of Newport Beach, California, which is known as “LA–3”, unless such site has received a final designation pursuant to this subsection or an alternative site has been selected pursuant to section 1413(b) of this title.
+&emsp;After January 1, 1995, no site shall receive a final designation unless a management plan has been developed pursuant to this section. Beginning on January 1, 1997, no permit for dumping pursuant to this Act or authorization for dumping under section 1413(e) of this title shall be issued for a site (other than the site located off the coast of Newport Beach, California, which is known as “LA–3”) unless such site has received a final designation pursuant to this subsection or an alternative site has been selected pursuant to section 1413(b) of this title. Beginning January 1, 2003, no permit for dumping pursuant to this Act or authorization for dumping under section 1413(e) of this title shall be issued for the site located off the coast of Newport Beach, California, which is known as “LA–3”, unless such site has received a final designation pursuant to this subsection or an alternative site has been selected pursuant to section 1413(b) of this title.
 
 #### (5) Management plans for previously designated sites
 
@@ -76,13 +76,15 @@ No permit is required under this subchapter for the transportation for dumping o
 
 In the case of transportation of material, by an agency or instrumentality of the United States or by a vessel or aircraft registered in the United States or flying the United States flag, from a location in a foreign State Party to the Convention, a permit issued pursuant to the authority of that foreign State Party, in accordance with Convention requirements, and which otherwise could have been issued pursuant to subsection (a) of this section, shall be accepted, for the purposes of this subchapter, as if it were issued by the Administrator under the authority of this section: <i>Provided</i>, That in the case of an agency or instrumentality of the United States, no application shall be made for a permit to be issued pursuant to the authority of a foreign State Party to the Convention unless the Administrator concurs in the filing of such application.
 
-(Pub. L. 92–532, title I, §102, Oct. 23, 1972, 86 Stat. 1054; Pub. L. 93–254, §1(4), Mar. 22, 1974, 88 Stat. 51; Pub. L. 96–572, §3, Dec. 22, 1980, 94 Stat. 3345; Pub. L. 100–688, title III, §3201(b), Nov. 18, 1988, 102 Stat. 4153; Pub. L. 102–580, title V, §506(a), Oct. 31, 1992, 106 Stat. 4868; Pub. L. 104–303, title V, §582, Oct. 12, 1996, 110 Stat. 3791.)
+(Pub. L. 92–532, title I, §102, Oct. 23, 1972, 86 Stat. 1054; Pub. L. 93–254, §1(4), Mar. 22, 1974, 88 Stat. 51; Pub. L. 96–572, §3, Dec. 22, 1980, 94 Stat. 3345; Pub. L. 100–688, title III, §3201(b), Nov. 18, 1988, 102 Stat. 4153; Pub. L. 102–580, title V, §506(a), Oct. 31, 1992, 106 Stat. 4868; Pub. L. 104–303, title V, §582, Oct. 12, 1996, 110 Stat. 3791; Pub. L. 106–53, title V, §562, Aug. 17, 1999, 113 Stat. 355.)
 
 #### References in Text
 
 This Act, referred to in subsec. (c)(4), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation.
 
 #### Amendments
+
+1999—Subsec. (c)(4). Pub. L. 106–53 substituted “January 1, 2003” for “January 1, 2000” in third sentence.
 
 1996—Subsec. (e)(4). Pub. L. 104–303 inserted “(other than the site located off the coast of Newport Beach, California, which is known as ‘LA–3’)” after “for a site” and inserted at end “Beginning January 1, 2000, no permit for dumping pursuant to this Act or authorization for dumping under section 1413(e) of this title shall be issued for the site located off the coast of Newport Beach, California, which is known as ‘LA–3’, unless such site has received a final designation pursuant to this subsection or an alternative site has been selected pursuant to section 1413(b) of this title.”
 
@@ -98,7 +100,7 @@ Subsec. (e). Pub. L. 93–254, §1(4)(B), added subsec. (e).
 
 #### Effective Date of 1974 Amendment
 
-Section 2 of Pub. L. 93–254 provided in part that: “The amendments made by subparagraph 1(4)(A)(iii) and paragraph 1(4)(B) of this Act \[enacting provision of subsec. (a) respecting application of standards by Administrator and subsec. (e) of this section\] shall become effective on the date that the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matters enters into force for the United States.” \[The Convention entered into force for the United States Aug. 30, 1975.\]
+Section 2 of Pub. L. 93–254 provided in part that: “The amendments made by subparagraph 1(4)(A)(iii) and paragraph 1(4)(B) of this Act \[enacting provision of subsec. (a) respecting application of standards by Administrator and subsec. (e) of this section\] shall become effective on the date that the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matters enters into force for the United States.”\[The Convention entered into force for the United States Aug. 30, 1975.\]
 
 Amendment of subsec. (a) of this section, other than last sentence, by Pub. L. 93–254 effective Mar. 22, 1974, see section 2 of Pub. L. 93–254, set out in part as a note under section 1401 of this title.
 

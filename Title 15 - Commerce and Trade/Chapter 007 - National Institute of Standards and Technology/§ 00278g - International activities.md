@@ -2,7 +2,7 @@
 
 #### (a) Financial assistance to foreign nationals
 
-The Secretary is authorized, notwithstanding any other provision of law, to expend such sums,within the limit of appropriated funds, as the Secretary may deem desirable, through the grant of fellowships or any other form of financial assistance, to defray the expenses of foreign nationals not in service to the Government of the United States while they are performing scientific or engineering work at the Institute or participating in the exchange of scientific or technical information at the Institute.
+The Secretary is authorized, notwithstanding any other provision of law, to expend such sums, within the limit of appropriated funds, as the Secretary may deem desirable, through the grant of fellowships or any other form of financial assistance, to defray the expenses of foreign nationals not in service to the Government of the United States while they are performing scientific or engineering work at the Institute or participating in the exchange of scientific or technical information at the Institute.
 
 #### (b) Foreign assistance and compensation to Institute employees
 
@@ -26,7 +26,7 @@ The provisions of title 5 governing employment in the competitive service, refer
 
 #### Prior Provisions
 
-A prior section 278g, act Mar. 3, 1901, ch. 872, §17, as added Mar. 1, 1968, Pub. L. 90–259, title I, §102, 82 Stat. 35, related to grants to States, local governments, other non-Federal public agencies, and non-profit institutions, reimbursement of Federal agencies, delegation of powers, advance of public moneys, cooperation of Federal agencies, and issuance of rules and regulations, prior to repeal by Pub. L. 93–498, §18, Oct. 29, 1974, 88 Stat. 1545.
+A prior section 278g, act Mar. 3, 1901, ch. 872, §17, as added Mar. 1, 1968, Pub. L. 90–259, title I, §102, 82 Stat. 35, related to grants to States, local governments, other non-Federal public agencies, and non-profit institutions, reimbursement of Federal agencies, delegationof powers, advance of public moneys, cooperation of Federal agencies, and issuance of rules and regulations, prior to repeal by Pub. L. 93–498, §18, Oct. 29, 1974, 88 Stat. 1545.
 
 #### Amendments
 

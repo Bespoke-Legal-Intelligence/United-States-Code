@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Taxes computed as provided in section 11 shall be imposed for each taxable year on the taxableincome of every insurance company other than a life insurance company.
+Taxes computed as provided in section 11 shall be imposed for each taxable year on the taxable income of every insurance company other than a life insurance company.
 
 #### (b) Alternative tax for certain small companies
 
@@ -52,7 +52,7 @@ Taxes computed as provided in section 11 shall be imposed for each taxable year 
 
 &emsp;&emsp;<b>(3) For exemption from tax for certain insurance companies other than life, see section 501(c)(15).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 264; Pub. L. 87–834, §8(e)(1), (f), (g)(4)(B), Oct. 16, 1962, 76 Stat. 997–999; Pub. L. 89–809, title I, §104(i)(6), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title XIX, §§1901(a)(107), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1834; Pub. L. 99–514, title X, §1024(a)(4), Oct. 22, 1986, 100 Stat. 2405; Pub. L. 100–647, title I, §1010(f)(1), (9), Nov. 10, 1988, 102 Stat. 3454, 3455.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 264; Pub. L. 87–834, §8(e)(1), (f), (g)(4)(B), Oct. 16, 1962, 76 Stat.997–999; Pub. L. 89–809, title I, §104(i)(6), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title XIX, §§1901(a)(107), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1834; Pub. L. 99–514, title X, §1024(a)(4), Oct. 22, 1986, 100 Stat. 2405; Pub. L. 100–647, title I, §1010(f)(1), (9), Nov. 10, 1988, 102 Stat. 3454, 3455.)
 
 #### Amendments
 
@@ -78,7 +78,7 @@ Subsecs. (c), (d). Pub. L. 87–834, §8(f), added subsec. (c) and redesignated 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -126,5 +126,5 @@ Doubling of tax rates on citizens and corporations of certain foreign countries,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 56, 501, 816, 832, 834, 835, 841, 847, 891, 904, 1201 of this title.
+This section is referred to in sections 56, 501, 816, 832, 834, 835, 841, 847, 891, 904, 1201 of this title; title 15 section 6712.
 

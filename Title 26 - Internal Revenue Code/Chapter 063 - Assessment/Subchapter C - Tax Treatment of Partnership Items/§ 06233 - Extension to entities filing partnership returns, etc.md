@@ -22,7 +22,7 @@ If a partnership return is filed for any taxable year but it is determined that 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) ofPub. L. 104–188, set out as a note under section 641 of this title.
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) of Pub. L. 104–188, set out as a note under section 641 of this title.
 
 #### Effective Date
 

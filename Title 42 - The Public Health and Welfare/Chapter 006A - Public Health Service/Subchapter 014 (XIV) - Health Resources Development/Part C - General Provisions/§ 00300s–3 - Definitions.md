@@ -2,7 +2,7 @@
 
 Except as provided in section 300t–12(e) of this title, for purposes of this subchapter—
 
-(1) The term “hospital” includes general, tuberculosis, and other types of hospitals, and related facilities, such as laboratories, outpatientdepartments, nurses’ home facilities, extended care facilities, facilities related to programs for home health services, self-care units, and central service facilities, operated in connection with hospitals, and also includes education or training facilities for health professonal <sup>1</sup> personnel operated as an integral part of a hospital, but does not include any hospital furnishing primarily domiciliary care.
+(1) The term “hospital” includes general, tuberculosis, and other types of hospitals, and related facilities, such as laboratories, outpatient departments, nurses’ home facilities, extended care facilities, facilities related to programs for home health services, self-care units, and central service facilities, operated in connection with hospitals, and also includes education or training facilities for health professonal <sup>1</sup> personnel operated as an integral part of a hospital, but does not include any hospital furnishing primarily domiciliary care.
 
 (2) The term “public health center” means a publicly owned facility for the provision of public health services, including related publicly owned facilities such as laboratories, clinics, and administrative offices operated in connection with such a facility.
 

@@ -46,19 +46,27 @@ Aug. 27, 1958, Pub. L. 85–769, §§3(4) (words between 1st comma and semicolon
 
 36:860.
 
-30307(c)D36:853(4) (words between 1st comma and semicolon).
+&nbsp;
+
+30307(c)D36:853(4) (words between 1st comma and semicolon).D&nbsp;
 
 &nbsp;
 
 36:859(a) (1st sentence words before last comma, last sentence).
 
+&nbsp;
+
 30307(d)
 
 36:859(b).
 
+&nbsp;
+
 30307(e)
 
 36:859(a) (1st sentence words after last comma).
+
+&nbsp;
 
 In subsection (a), the words “any shares of” are omitted as unnecessary.
 

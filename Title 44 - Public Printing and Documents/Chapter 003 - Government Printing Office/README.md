@@ -12,7 +12,7 @@
 | [308\.](%C2%A7%2000308%20-%20Disbursing%20officer%3B%20deputy%20disbursing%20officer%3B%20certifying%20officers%20and%20employees.md) | Disbursing officer; deputy disbursing officer; certifying officers and employees. |
 | [309\.](%C2%A7%2000309%20-%20Revolving%20fund%20for%20operation%20and%20maintenance%20of%20Government%20Printing%20Office%20capitalization%3B%20reimbursements%20and%20credits%3B%20accounting%20and%E2%80%A6.md) | Revolving fund for operation and maintenance of Government Printing Office: capitalization; reimbursements and credits; accounting and budgeting; reports. |
 | [310\.](%C2%A7%2000310%20-%20Payments%20for%20printing%2C%20binding%2C%20blank%20paper%2C%20and%20supplies.md) | Payments for printing, binding, blank paper, and supplies. |
-| [311\.](%C2%A7%2000311%20-%20Purchases%20exempt%20from%20the%20Federal%20Property%20and%20Administrative%20Services%20Act%3B%20contract%20negotiation%20authority.md) | Purchases exempt from the Federal Property and Administrative Services Act; contract negotiation authority. |
+| [311\.](%C2%A7%2000311%20-%20Purchases%20exempt%20from%20the%20Federal%20Property%20and%20Administrative%20Services%20Act%3B%20contract%20negotiation%20authority%3B%20small%20purchase%20threshold.md) | Purchases exempt from the Federal Property and Administrative Services Act; contract negotiation authority; small purchase threshold. |
 | [312\.](%C2%A7%2000312%20-%20Machinery%2C%20material%2C%20equipment%2C%20or%20supplies%20from%20other%20Government%20agencies.md) | Machinery, material, equipment, or supplies from other Government agencies. |
 | [313\.](%C2%A7%2000313%20-%20Examining%20boards%20paper%3B%20bindery%20materials%3B%20machinery.md) | Examining boards: paper; bindery materials; machinery. |
 | [314\.](%C2%A7%2000314%20-%20Inks%2C%20glues%2C%20and%20other%20supplies%20furnished%20to%20other%20Government%20agencies%20payment.md) | Inks, glues, and other supplies furnished to other Government agencies: payment. |
@@ -23,6 +23,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–57, title II, §210(c), Sept. 29, 1999, 113 Stat. 425, inserted “; small purchase threshold” after “authority” in item 311.
 
 1985—Pub. L. 99–151, title III, §305(b)(2), Nov. 13, 1985, 99 Stat. 808, inserted “; contract negotiation authority” in item 311.
 
@@ -53,7 +55,7 @@ Authority and responsibilities under chapter not limited or repealed by Federal 
 - [&sect; 00308 - Disbursing officer; deputy disbursing officer; certifying officers and employees](%C2%A7%2000308%20-%20Disbursing%20officer%3B%20deputy%20disbursing%20officer%3B%20certifying%20officers%20and%20employees.md)
 - [&sect; 00309 - Revolving fund for operation and maintenance of Government Printing Office capitalization; reimbursements and credits; accounting and&#8230;](%C2%A7%2000309%20-%20Revolving%20fund%20for%20operation%20and%20maintenance%20of%20Government%20Printing%20Office%20capitalization%3B%20reimbursements%20and%20credits%3B%20accounting%20and%E2%80%A6.md)
 - [&sect; 00310 - Payments for printing, binding, blank paper, and supplies](%C2%A7%2000310%20-%20Payments%20for%20printing%2C%20binding%2C%20blank%20paper%2C%20and%20supplies.md)
-- [&sect; 00311 - Purchases exempt from the Federal Property and Administrative Services Act; contract negotiation authority](%C2%A7%2000311%20-%20Purchases%20exempt%20from%20the%20Federal%20Property%20and%20Administrative%20Services%20Act%3B%20contract%20negotiation%20authority.md)
+- [&sect; 00311 - Purchases exempt from the Federal Property and Administrative Services Act; contract negotiation authority; small purchase threshold](%C2%A7%2000311%20-%20Purchases%20exempt%20from%20the%20Federal%20Property%20and%20Administrative%20Services%20Act%3B%20contract%20negotiation%20authority%3B%20small%20purchase%20threshold.md)
 - [&sect; 00312 - Machinery, material, equipment, or supplies from other Government agencies](%C2%A7%2000312%20-%20Machinery%2C%20material%2C%20equipment%2C%20or%20supplies%20from%20other%20Government%20agencies.md)
 - [&sect; 00313 - Examining boards paper; bindery materials; machinery](%C2%A7%2000313%20-%20Examining%20boards%20paper%3B%20bindery%20materials%3B%20machinery.md)
 - [&sect; 00314 - Inks, glues, and other supplies furnished to other Government agencies payment](%C2%A7%2000314%20-%20Inks%2C%20glues%2C%20and%20other%20supplies%20furnished%20to%20other%20Government%20agencies%20payment.md)

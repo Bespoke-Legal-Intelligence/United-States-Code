@@ -46,10 +46,6 @@ Subsec. (d). Pub. L. 102–40, §403(a)(1), substituted “Secretary” for “A
 
 1982—Subsec. (a). Pub. L. 97–295 substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing, and substituted “the President (or the delegate of the President)” for “the Director of the Office of Drug Abuse Policy (or any successor authority)”.
 
-#### Termination of Commission
-
-For provisions as to termination of the National Commission for the Protection of Human Subjects of Biochemical and Behavioral Research, see section 204(d) and (e) set out as a note under section 289<i>l</i>–1 of Title 42, The Public Health and Welfare.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 7331, 7332, 7333 of this title.

@@ -40,5 +40,7 @@ July 23, 1947, ch. 298, §7(1) (1st sentence), 61 Stat. 407.
 
 36:67e (words after 3d comma related to discrimination in membership).
 
+&nbsp;
+
 In subsection (b), the words “the right to” are omitted as unnecessary.
 

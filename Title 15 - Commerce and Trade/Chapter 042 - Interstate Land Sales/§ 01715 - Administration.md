@@ -12,7 +12,7 @@ All hearings shall be public and appropriate records thereof shall be kept, and 
 
 The Secretary shall conduct all actions with respect to rulemaking or adjudication under this chapter in accordance with the provisions of chapter 5 of title 5. Notice shall be given of any adverse action or final disposition and such notice and the entry of any order shall be accompanied by a written statement of supporting facts and legal authority.
 
-(Pub. L. 90–448, title XIV, §1416, Aug. 1, 1968, 82 Stat. 597; Pub. L. 95–251, §2(a)(5), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–454, title VIII, §801(a)(3)(J), Oct. 13, 1978, 92 Stat. 1222; Pub. L. 96–153, title IV, §407, Dec. 21, 1979, 93 Stat. 1131; Pub. L.98–479, title II, §202(d), Oct. 17, 1984, 98 Stat. 2228.)
+(Pub. L. 90–448, title XIV, §1416, Aug. 1, 1968, 82 Stat. 597; Pub. L. 95–251, §2(a)(5), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–454, title VIII, §801(a)(3)(J), Oct. 13, 1978, 92 Stat. 1222; Pub. L. 96–153, title IV, §407, Dec. 21, 1979, 93 Stat. 1131; Pub. L. 98–479, title II, §202(d), Oct. 17, 1984, 98 Stat. 2228.)
 
 #### Amendments
 
@@ -30,5 +30,5 @@ Amendment by Pub. L. 96–153 effective on effective date of regulations impleme
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as a note under section 5361 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90thday after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as a note under section 5361 of Title 5, Government Organization and Employees.
 

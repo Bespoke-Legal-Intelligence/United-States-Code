@@ -74,7 +74,7 @@ For purposes of this section, the term “net investment income” means—
 
 &emsp;(1) except as provided in paragraph (2), 90 percent of gross investment income; or
 
-&emsp;(2) in the case of gross investment income attributable to assets held in segregated asset accounts under variable contracts, 95 percent of gross investment income.
+&emsp;(2) in the case of gross investment income attributable to assets held in segregated assetaccounts under variable contracts, 95 percent of gross investment income.
 
 #### (d) Gross investment income
 
@@ -176,7 +176,7 @@ Amendment by section 2004(p)(2) of Pub. L. 100–647 effective, except as otherw
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to contracts issued in taxable years beginning after Dec. 31, 1987, seesection 10241(c) of Pub. L. 100–203, set out as a note under section 807 of this title.
+Amendment by Pub. L. 100–203 applicable to contracts issued in taxable years beginning after Dec. 31, 1987, see section 10241(c) of Pub. L. 100–203, set out as a note under section 807 of this title.
 
 #### Effective Date of 1986 Amendment
 

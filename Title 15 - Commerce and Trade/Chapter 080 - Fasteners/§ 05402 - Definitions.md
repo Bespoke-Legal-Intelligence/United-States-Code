@@ -2,57 +2,117 @@
 
 As used in this chapter, the term—
 
-&emsp;(1) “alter” means to alter—
+&emsp;(1) “accredited laboratory” means a fastener testing facility used to perform end-of-line testing required by a consensus standard or standards to verify that a lot of fasteners conforms to the grade identification marking called for in the consensus standard or standards to which the lot of fasteners has been manufactured, and which—
 
-&emsp;&emsp;(A) by through-hardening,
+&emsp;&emsp;(A) meets the requirements of ISO/IEC Guide 25 (or another document approved by the Director under section 5411a(c) of this title), including revisions from time-to-time; and
 
-&emsp;&emsp;(B) by electroplating of fasteners, or
+&emsp;&emsp;(B) has been accredited by a laboratory accreditation body that meets the requirements of ISO/IEC Guide 58 (or another document approved by the Director under section 5411a(d) of this title), including revisions from time-to-time;
 
-&emsp;&emsp;(C) by machining;
+&emsp;(2) “consensus standard” means the provisions of a document that describes fastener characteristics published by a consensus standards organization or a Federal agency, and does not include a proprietary standard;
 
-&emsp;(2) “consensus standards organization” means the American Society for Testing andMaterials, American National Standards Institute, American Society of Mechanical Engineers, Society of Automotive Engineers, or any other consensus standard-setting organization determined by the Secretary to have comparable knowledge, expertise, and concern for health and safety in the field for which such organization purports to set standards;
-
-&emsp;(3) “container” means any package of fasteners traded in commerce;
+&emsp;(3) “consensus standards organization” means the American Society for Testing and Materials, the American National Standards Institute, the American Society of Mechanical Engineers, the Society of Automotive Engineers, the International Organization for Standardization, any other organization identified as a United States consensus standards organization or a foreign and international consensus standards organization in the Federal Register at 61 Fed. Reg. 50582–83 (September 26, 1996), and any successor organizations thereto;
 
 &emsp;(4) “Director” means the Director of the National Institute of Standards and Technology;
 
-&emsp;(5) “fastener” means—
+&emsp;(5) “distributor” means a person who purchases fasteners for the purpose of reselling them at wholesale to unaffiliated persons within the United States (an original equipment manufacturer and its dealers shall be considered affiliated persons for purposes of this chapter);
 
-&emsp;&emsp;(A) a—
+&emsp;(6) “fastener” means a metallic screw, nut, bolt, or stud having internal or external threads, with a nominal diameter of 6 millimeters or greater, in the case of such items described in metric terms, or 1/4 inch or greater, in the case of such items described in terms of the English system of measurement, or a load-indicating washer, that is through-hardened or represented as meeting a consensus standard that calls for through-hardening, and that is grade identification marked or represented as meeting a consensus standard that requires grade identification marking, except that such term does not include any screw, nut, bolt, stud, or load-indicating washer that is—
 
-&emsp;&emsp;&emsp;(i) screw, nut, bolt, or stud having internal or external threads, or
+&emsp;&emsp;(A) part of an assembly;
 
-&emsp;&emsp;&emsp;(ii) a load-indicating washer,
+&emsp;&emsp;(B) a part that is ordered for use as a spare, substitute, service, or replacement part, unless that part is in a package containing more than 75 of any such part at the time of sale, or a part that is contained in an assembly kit;
 
-> &emsp;&emsp;with a nominal diameter of 5 millimeters or greater, in the case of such items described in metric terms, or 1/4 inch or greater, in the case of such items described in terms of the English system of measurement, which contains any quantity of metal and is held out as meeting a standard or specification which requires through-hardening,
+&emsp;&emsp;(C) produced and marked as ASTM A 307 Grade A, or a successor standard thereto;
 
-&emsp;&emsp;(B) a screw, nut, bolt, or stud having internal or external threads which bears a grade identification marking required by a standard or specification, or
+&emsp;&emsp;(D) produced in accordance with ASTM F 432, or a successor standard thereto;
 
-&emsp;&emsp;(C) a washer to the extent that it is subject to a standard or specification applicable to a screw, nut, bolt, or stud described in subparagraph (B),
+&emsp;&emsp;(E) specifically manufactured for use on an aircraft if the quality and suitability of those fasteners for that use has been approved—
 
-> &emsp;except that such term does not include any screw, nut, bolt, or stud that is produced and marked as ASTM A 307 Grade A or produced in accordance with ASTM F 432;
+&emsp;&emsp;&emsp;(i) by the Federal Aviation Administration; or
 
-&emsp;(6) “grade identification marking” means any symbol appearing on a fastener purporting to indicate that the fastener's base material, strength properties, or performance capabilities conform to a specific standard of a consensus standards organization or government agency;
+&emsp;&emsp;&emsp;(ii) by a foreign airworthiness authority as described in part 21.29, 21.500, 21.502, or 21.617 of title 14 of the Code of Federal Regulations;
 
-&emsp;(7) “importer” means a person located within the United States who contracts for the initial purchase of fasteners manufactured outside the United States for resale or such person's use within the United States;
+&emsp;&emsp;(F) manufactured in accordance with a fastener quality assurance system; or
 
-&emsp;(8) “Institute” means the National Institute of Standards and Technology;
+&emsp;&emsp;(G) manufactured to a proprietary standard, whether or not such proprietary standard directly or indirectly references a consensus standard or any portion thereof;
 
-&emsp;(9) “lot” means a quantity of fasteners of one part number fabricated by the same production process from the same coil or heat number of metal as provided by the metal manufacturer and submitted for inspection and testing at one time;
+&emsp;(7) “fastener quality assurance system” means—
 
-&emsp;(10) “manufacturer” means a person who fabricates fasteners, or who alters any item so that it becomes a fastener;
+&emsp;&emsp;(A) a system that meets the requirements, including revisions from time-to-time, of—
 
-&emsp;(11) “private label distributor” means a person who contracts with a manufacturer for the fabrication of fasteners bearing the distributor's distinguishing insignia;
+&emsp;&emsp;&emsp;(i) International Organization for Standardization (ISO) Standard 9000, 9001, 9002, or TS16949;
 
-&emsp;(12) “Secretary” means the Secretary of Commerce;
+&emsp;&emsp;&emsp;(ii) Quality System (QS) 9000 Standard;
 
-&emsp;(13) “standards and specifications” means the provisions of a document published by a consensus standards organization or a government agency; and
+&emsp;&emsp;&emsp;(iii) Verband der Automobilindustrie e. V. (VDA) 6.1 Standard; or
 
-&emsp;(14) “through-harden” means heating above the transformation temperature followed by quenching and tempering for the purpose of achieving a uniform hardness.
+&emsp;&emsp;&emsp;(iv) Aerospace Basic Quality System Standard AS9000; or
 
-(Pub. L. 101–592, §3, Nov. 16, 1990, 104 Stat. 2944; Pub. L. 104–113, §11(b), Mar. 7, 1996, 110 Stat. 780.)
+&emsp;&emsp;(B) any fastener manufacturing system—
+
+&emsp;&emsp;&emsp;(i) that has as a stated goal the prevention of defects through continuous improvement;
+
+&emsp;&emsp;&emsp;(ii) that seeks to attain the goal stated in clause (i) by incorporating—
+
+&emsp;&emsp;&emsp;&emsp;(I) advanced quality planning;
+
+&emsp;&emsp;&emsp;&emsp;(II) monitoring and control of the manufacturing process;
+
+&emsp;&emsp;&emsp;&emsp;(III) product verification embodied in a comprehensive written control plan for product and process characteristics, and process controls (including process influence factors and statistical process control), tests, and measurement systems to be used in production; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) the creation, maintenance, and retention of electronic, photographic, or paper records required by the control plan regarding the inspections, tests, and measurements performed pursuant to the control plan; and
+
+&emsp;&emsp;&emsp;(iii) that—
+
+&emsp;&emsp;&emsp;&emsp;(I) is subject to certification in accordance with the requirements of ISO/IEC Guide 62 (or another document approved by the Director under section 5411a(a) of this title), including revisions from time-to-time, by a third party who is accredited by an accreditation body in accordance with the requirements of ISO/IEC Guide 61 (or another document approved by the Director under section 5411a(b) of this title), including revisions from time-to-time; or
+
+&emsp;&emsp;&emsp;&emsp;(II) undergoes regular or random evaluation and assessment by the end user or end users of the screws, nuts, bolts, studs, or load-indicating washers produced under such fastener manufacturing system to ensure that such system meets the requirements of clauses (i) and (ii);
+
+&emsp;(8) “grade identification marking” means any grade-mark or property class symbol appearing on a fastener purporting to indicate that the lot of fasteners conforms to a specific consensus standard, but such term does not include a manufacturer's insignia or part number;
+
+&emsp;(9) “importer” means a distributor located within the United States who contracts for the initial purchase of fasteners manufactured outside the United States;
+
+&emsp;(10) “lot” means a quantity of fasteners of one part number fabricated by the same production process from the same coil or heat number of metal as provided by the metal manufacturer;
+
+&emsp;(11) “manufacturer” means a person who fabricates fasteners for sale in commerce;
+
+&emsp;(12) “proprietary standard” means the provisions of a document that describes characteristics of a screw, nut, bolt, stud, or load-indicating washer and is issued by a person who—
+
+&emsp;&emsp;(A) uses screws, nuts, bolts, studs, or load-indicating washers in the manufacture, assembly, or servicing of its products; and
+
+&emsp;&emsp;(B) with respect to such screws, nuts, bolts, studs, or washers, is a developer and issuer of descriptions that have characteristics similar to consensus standards and that bear such user's identification;
+
+&emsp;(13) “record of conformance” means a record or records for each lot of fasteners sold or offered for sale that contains—
+
+&emsp;&emsp;(A) the name and address of the manufacturer;
+
+&emsp;&emsp;(B) a description of the type of fastener;
+
+&emsp;&emsp;(C) the lot number;
+
+&emsp;&emsp;(D) the nominal dimensions of the fastener (including diameter and length of bolts or screws), thread form, and class of fit;
+
+&emsp;&emsp;(E) the consensus standard or specifications to which the lot of fasteners has been manufactured, including the date, number, revision, and other information sufficient to identify the particular consensus standard or specifications being referenced;
+
+&emsp;&emsp;(F) the chemistry and grade of material;
+
+&emsp;&emsp;(G) the coating material and characteristics and the applicable consensus standard or specifications for such coating; and
+
+&emsp;&emsp;(H) the results or a summary of results of any tests performed for the purpose of verifying that a lot of fasteners conforms to its grade identification marking or to the grade identification marking the lot of fasteners is represented to meet;
+
+&emsp;(14) “represent” means to describe one or more of a fastener's purported characteristics in a document or statement that is transmitted to a purchaser through any medium;
+
+&emsp;(15) “Secretary” means the Secretary of Commerce;
+
+&emsp;(16) “specifications” means the required characteristics identified in the contractualagreement with the manufacturer or to which a fastener is otherwise produced, except that the term does not include proprietary standards; and
+
+&emsp;(17) “through-harden” means heating above the transformation temperature followed by quenching and tempering for the purpose of achieving uniform hardness.
+
+(Pub. L. 101–592, §3, Nov. 16, 1990, 104 Stat. 2944; Pub. L. 104–113, §11(b), Mar. 7, 1996, 110 Stat. 780; Pub. L. 106–34, §3, June 8, 1999, 113 Stat. 118.)
 
 #### Amendments
+
+1999—Pub. L. 106–34 amended section catchline and text generally, restating certain definitions, adding new definitions, and striking out definitions of “alter”, “container”, “institute”, “original equipment manufacturer”, “private label distributor”, and “standards and specifications”.
 
 1996—Par. (1)(B). Pub. L. 104–113, §11(b)(1), struck out “having a minimum tensile strength of 150,000 pounds per square inch” after “fasteners”.
 
@@ -75,4 +135,12 @@ Par. (14). Pub. L. 104–113, §11(b)(8), inserted “for the purpose of achievi
 Pub. L. 104–113, §11(b)(6), redesignated par. (15) as (14). Former par. (14) redesignated (13).
 
 Par. (15). Pub. L. 104–113, §11(b)(6), redesignated par. (15) as (14).
+
+#### Comptroller General Report
+
+Pub. L. 106–34, §12, June 8, 1999, 113 Stat. 125, provided that: “Not later than 2 years after the date of the enactment of this Act \[June 8, 1999\], the Comptroller General shall transmit to the Congress a report describing any changes in industry practice resulting from or apparently resulting from the enactment of section 3(6)(B) of the Fastener Quality Act \[15 U.S.C. §5402(6)(B)\], as added by section 3 of this Act.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5411a of this title.
 

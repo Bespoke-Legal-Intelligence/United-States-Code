@@ -66,7 +66,7 @@ July 31, 1977, Pub. L. 95–81, §100(par. under heading “Bureau of Engraving 
 
 31:181a(f).
 
-In subsection (a), before clause (1), the words “as of July 1, 1951” are omitted as executed. In clause (1), thewords “subsequent to June 30, 1951” are omitted as executed. In clause (2), the words “remain available until expended” are substituted for “shall be available without fiscal year limitation” for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), before clause (1), the words “as of July 1, 1951” are omitted as executed. In clause (1), the words “subsequent to June 30, 1951” are omitted as executed. In clause (2), the words “remain available until expended” are substituted for “shall be available without fiscal year limitation” for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (b)(2), the words “amounts received by the Bureau” are substituted for “all amounts recoverable as provided in section 181 of this title for the costs of work and services performed by the Bureau, and all other amounts receivable by the Bureau from whatever sources derived” to eliminate unnecessary words.
 

@@ -138,9 +138,9 @@ Subsec. (a)(2). Pub. L. 103–415 inserted “and the Deputy Secretary of State�
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 1213 of Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+Amendment by section 1213 of Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
 
-Amendment by section 1313 of Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+Amendment by section 1313 of Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -149,6 +149,26 @@ Section 161(b) of Pub. L. 103–236, as amended by Pub. L. 103–415, §1(f)(2),
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–241, effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as an Effective Date note under section 4301 of this title.
+
+#### State Department Official for Northeastern Europe
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §302\], Nov. 29, 1999, 113 Stat. 1536, 1501A–434, provided that: “The Secretary of State shall designate a senior-level official of the Department of State with responsibility for promoting regional cooperation in and coordinating United States policy toward Northeastern Europe.”
+
+#### Science and Technology Adviser to Secretary of State
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §303\], Nov. 29, 1999, 113 Stat. 1536, 1501A–434, provided that:
+
+“(a)
+
+Designation.—The Secretary of State shall designate a senior-level official of the Department of State as the Science and Technology Adviser to the Secretary of State (in this section referred to as the ‘Adviser’). The Adviser shall have substantial experience in the area of science and technology. The Adviser shall report to the Secretary of State through the appropriate Under Secretary of State.
+
+“(b)
+
+Duties.—The Adviser shall—
+
+&emsp;“(1) advise the Secretary of State, through the appropriate Under Secretary of State, on international science and technology matters affecting the foreign policy of the United States; and
+
+&emsp;“(2) perform such duties, exercise such powers, and have such rank and status as the Secretary of State shall prescribe.”
 
 #### Transition; Reappointment of Officers Holding Office as of April 30, 1994, Not Required
 
@@ -162,7 +182,7 @@ Section 161(d) of Pub. L. 103–236 provided that: “Except as specifically pro
 
 #### Office of Coordinator for Counterterrorism
 
-Section 161(e) of Pub. L. 103–236, which established for not less than one year after Apr. 30, 1994, an Office of the Coordinator for Counterterrorism in the Department of State having the same responsibilities and functions as such office had as of Jan. 20, 1993, was repealed by Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2301(b), Oct. 21, 1998, 112 Stat. 2681–824.
+Section 161(e) of Pub. L. 103–236, which established for not less than one year after Apr. 30, 1994, an Office ofthe Coordinator for Counterterrorism in the Department of State having the same responsibilities and functions as such office had as of Jan. 20, 1993, was repealed by Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2301(b), Oct. 21, 1998, 112 Stat. 2681–824.
 
 #### Deputy Assistant Secretary for Burdensharing
 
@@ -181,6 +201,10 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2652c of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “under”.</i>
 

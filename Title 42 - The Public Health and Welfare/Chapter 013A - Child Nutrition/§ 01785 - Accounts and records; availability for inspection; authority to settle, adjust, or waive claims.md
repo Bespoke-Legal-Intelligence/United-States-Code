@@ -2,15 +2,17 @@
 
 (a) States, State educational agencies, schools, and nonprofit institutions participating in programs under this chapter shall keep such accounts and records as may be necessary to enable the Secretary to determine whether there has been compliance with this chapter and the regulations hereunder. Such accounts and records shall be available at any reasonable time for inspection and audit by representatives of the Secretary and shall be preserved for such period of time, not in excess of three years, as the Secretary determines is necessary.
 
-(b) With regard to any claim arising under this chapter or under the National School Lunch Act \[42 U.S.C. 1751 et seq.\], the Secretary shall have the authority to determine the amount of, to settle and to adjust any such claim, and to compromise or deny such claim or any part thereof. The Secretary shall also have the authority to waive such claims if the Secretary determines that to do so would serve the purposes of either this chapter or the National School Lunch Act. Nothing contained in this subsection shall be construed to diminish the authority of the Attorney General of the United States under section 516 of title 28 to conduct litigation on behalf of the United States.
+(b) With regard to any claim arising under this chapter or under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\], the Secretary shall have the authority to determine the amount of, to settle and to adjust any such claim, and to compromise or deny such claim or any part thereof. The Secretary shall also have the authority to waive such claims if the Secretary determines that to do so would serve the purposes of either this chapter or the Richard B. Russell National School Lunch Act. Nothing contained in this subsection shall be construed to diminish the authority of the Attorney General of the United States under section 516 of title 28 to conduct litigation on behalf of the United States.
 
-(Pub. L. 89–642, §16, Oct. 11, 1966, 80 Stat. 890; Pub. L. 97–35, title VIII, §816, Aug. 13, 1981, 95 Stat. 531; Pub. L. 104–193, title VII, §728, Aug. 22, 1996, 110 Stat. 2302.)
+(Pub. L. 89–642, §16, Oct. 11, 1966, 80 Stat. 890; Pub. L. 97–35, title VIII, §816, Aug. 13, 1981, 95 Stat. 531; Pub. L. 104–193, title VII, §728, Aug. 22, 1996, 110 Stat. 2302; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170.)
 
 #### References in Text
 
-The National School Lunch Act, referred to in subsec. (b), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (b), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act” in two places.
 
 1996—Subsec. (a). Pub. L. 104–193 substituted “be available at any reasonable time” for “at all times be available”.
 

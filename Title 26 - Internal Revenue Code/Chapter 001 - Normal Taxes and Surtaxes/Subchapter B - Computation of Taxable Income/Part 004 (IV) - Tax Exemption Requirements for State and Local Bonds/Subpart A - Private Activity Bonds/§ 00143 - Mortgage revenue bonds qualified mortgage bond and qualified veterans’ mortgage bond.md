@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(iv) except as provided in subparagraph (D)(ii), repayments of principal on financing provided by the issue are used not later than the close of the 1st semiannual period beginning after the date the prepayment (or complete repayment) is received to redeem bonds which are part of such issue.
 
-> &emsp;&emsp;Clause (iv) shall not apply to amounts received within 10 years after the date of issuance of the issue (or, in the case of refundingbond, the date of issuance of the original bond).
+> &emsp;&emsp;Clause (iv) shall not apply to amounts received within 10 years after the date of issuance of the issue (or, in the case of refunding bond, the date of issuance of the original bond).
 
 #### (B) Good faith effort to comply with mortgage eligibility requirements
 
@@ -204,7 +204,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 #### (iv) Existing housing price ratio
 
-&emsp;&emsp;&emsp;The existing housing price ratio for any area is the ratio determined in accordancewith clause (iii) but with respect to residences described in subsection (e)(3)(B).
+&emsp;&emsp;&emsp;The existing housing price ratio for any area is the ratio determined in accordance with clause (iii) but with respect to residences described in subsection (e)(3)(B).
 
 #### (6) Adjustment to income requirements based on family size
 
@@ -302,7 +302,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 #### (ii) Unused paragraph (2) amount
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the unused paragraph (2) amount is the amount which (if it were treated as an interest payment made by mortgagors) would result in the excess referred to in paragraph (2)(A) being equal to 1.125 percentage points. Such amount shall be fixed and determined as of the yield determination date.
+&emsp;&emsp;&emsp;For purposes of clause (i), the unused paragraph (2) amount is the amount which\(if it were treated as an interest payment made by mortgagors) would result in the excess referred to in paragraph (2)(A) being equal to 1.125 percentage points. Such amount shall be fixed and determined as of the yield determination date.
 
 #### (D) Election to pay United States
 
@@ -388,7 +388,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), the term “qualified census tract” means a censustract in which 70 percent or more of the families have income which is 80 percent or less of the statewide median family income.
+&emsp;&emsp;For purposes of paragraph (1), the term “qualified census tract” means a census tract in which 70 percent or more of the families have income which is 80 percent or less of the statewide median family income.
 
 #### (B) Data used
 
@@ -502,7 +502,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) the expenditures for such rehabilitation are 25 percent or more of the mortgagor's adjusted basis in the residence.
 
-> &emsp;&emsp;For purposes of clause (iii), the mortgagor's adjusted basis shall be determined as of the completion of the rehabilitation or, if later, the date on which the mortgagor acquires the residence.
+> &emsp;&emsp;For purposes of clause (iii), the mortgagor's adjusted basis shall be determined as of thecompletion of the rehabilitation or, if later, the date on which the mortgagor acquires the residence.
 
 #### (6) Determinations on actuarial basis
 
@@ -806,7 +806,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 &emsp;&emsp;&emsp;(ii) $5,000.
 
-> &emsp;&emsp;The percentage determined under the preceding sentence shall be rounded to thenearest whole percentage point (or, if it includes a half of a percentage point, shall be increased to the nearest whole percentage point).
+> &emsp;&emsp;The percentage determined under the preceding sentence shall be rounded to the nearest whole percentage point (or, if it includes a half of a percentage point, shall be increased to the nearest whole percentage point).
 
 #### (5) Adjusted qualifying income; modified adjusted gross income
 
@@ -1070,7 +1070,7 @@ Section 1013(a)(27) of Pub. L. 100–647 provided that: “The date contained in
 
 #### Study of Recapture Provisions
 
-Section 4005(i) of Pub. L. 100–647 provided that: “The Comptroller General of the United States shall conduct a study of section 143(m) of the 1986 Code (as added by this section) and of alternatives to accomplish the purposes of such section. A report of such study shall be submitted not later than July 1, 1990, to the Committeeon Ways and Means of the House of Representatives and the Committee on Finance of the Senate.”
+Section 4005(i) of Pub. L. 100–647 provided that: “The Comptroller General of the United States shall conduct a study of section 143(m) of the 1986 Code (as added by this section) and of alternatives to accomplish the purposes of such section. A report of such study shall be submitted not later than July 1, 1990, to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.”
 
 #### Section Referred to in Other Sections
 

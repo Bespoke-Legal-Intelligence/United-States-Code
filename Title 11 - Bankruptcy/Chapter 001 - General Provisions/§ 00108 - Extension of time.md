@@ -12,7 +12,7 @@
 
 &emsp;(2) 60 days after the order for relief.
 
-(c) Except as provided in section 524 of this title, if applicable nonbankruptcy law, an order entered in a nonbankruptcy proceeding, or an agreement fixes a period for commencing or continuing a civil action in a court other than a bankruptcy court on a claim against the debtor, or against an individual with respect to which such individual is protected under section 1201 or 1301 of this title, and such period has not expired before the date of the filing of the petition, then such period does not expire until the later of—
+(c) Except as provided in section 524 of this title, if applicable nonbankruptcy law, an order entered in a nonbankruptcy proceeding, or anagreement fixes a period for commencing or continuing a civil action in a court other than a bankruptcy court on a claim against the debtor, or against an individual with respect to which such individual is protected under section 1201 or 1301 of this title, and such period has not expired before the date of the filing of the petition, then such period does not expire until the later of—
 
 &emsp;(1) the end of such period, including any suspension of such period occurring on or after the commencement of the case; or
 

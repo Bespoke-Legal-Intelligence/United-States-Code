@@ -54,7 +54,7 @@ The following sanctions shall be imposed pursuant to any order issued under subs
 
 #### (B) Coordination with activities of foreign government
 
-&emsp;&emsp;Following consultations described in paragraph (1), the order issued by the President under subsection (c) of this section imposing any sanction on a foreign person shall take effect unless the President determines, and certifies in writing to the Congress, that the government referred to in paragraph (1) has taken specific and effective actions, including the imposition of appropriate penalties, to terminate the involvement of the foreign person in any prohibited activity.
+&emsp;&emsp;Following consultations described in paragraph (1), the order issued by the Presidentunder subsection (c) of this section imposing any sanction on a foreign person shall take effect unless the President determines, and certifies in writing to the Congress, that the government referred to in paragraph (1) has taken specific and effective actions, including the imposition of appropriate penalties, to terminate the involvement of the foreign person in any prohibited activity.
 
 #### (C) Extension of period
 

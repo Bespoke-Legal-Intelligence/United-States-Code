@@ -82,7 +82,7 @@ The Foreign Service Act of 1980, referred to in subsec. (b)(1)(A)(ii), is Pub. L
 
 Section 6621(a)(1) of the Internal Revenue Code of 1986, referred to in subsec. (b)(2)(B)(ii), is classified to section 6621(a)(1) of Title 26, Internal Revenue Code.
 
-Sections 1101, 1002, and 1015 of the Foreign Service Act of 1980, referred to in subsec. (b)(4), are classified to sections 4131, 4102, and 4115, respectively, of Title 22, Foreign Relations and Intercourse.
+Sections 1101, 1002, and 1015 of the Foreign Service Act of 1980, referred to in subsec. (b)(5), are classified to sections 4131, 4102, and 4115, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
 
@@ -166,5 +166,5 @@ Section 3 of Pub. L. 94–172 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5307, 7118, 7122 of this title; title 22 sections 4116, 4137.
+This section is referred to in sections 5307, 7118, 7121, 7122 of this title; title 22 sections 4116, 4137.
 

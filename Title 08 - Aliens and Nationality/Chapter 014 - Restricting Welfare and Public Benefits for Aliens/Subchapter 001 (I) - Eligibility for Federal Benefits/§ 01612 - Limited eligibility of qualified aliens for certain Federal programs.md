@@ -70,7 +70,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (II) Recertification criteria
 
-&emsp;&emsp;&emsp;&emsp;With respect to any recertification under subclause (I), the State agency shall apply the eligibility criteria for applicants for benefits under such program.
+&emsp;&emsp;&emsp;&emsp;With respect to any recertification under subclause (I), the State agencyshall apply the eligibility criteria for applicants for benefits under such program.
 
 #### (III) Grandfather provision
 
@@ -224,7 +224,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (A) Temporary assistance for needy families
 
-&emsp;&emsp;The program of block grants to States for temporary assistance for needy families under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\].
+&emsp;&emsp;The program of block grants to States for temporary assistance for needy familiesunder part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\].
 
 #### (B) Social services block grant
 
@@ -260,7 +260,7 @@ Subsection (a)(2)(A)(i)(V) of this section, referred to in subsec. (b)(2)(A)(i)(
 
 #### Amendments
 
-1998—Subsec. (a)(2)(A). Pub. L. 105–185, §503, struck out cl. (i) designation and heading after subpar. (A) heading, substituted “programs described in paragraph (3)” for “program described in paragraph (3)(A)” in introductory provisions, redesignated subcls. (I) to (V) as cls. (i) to (v), respectively, and realigned their margins, and struck out heading and text of former cl. (ii) whichrelated to eligibility of certain aliens for the food stamp program.
+1998—Subsec. (a)(2)(A). Pub. L. 105–185, §503, struck out cl. (i) designation and heading after subpar. (A) heading, substituted “programs described in paragraph (3)” for “program described in paragraph (3)(A)” in introductory provisions, redesignated subcls. (I) to (V) as cls. (i) to (v), respectively, and realigned their margins, and struck out heading and text of former cl. (ii) which related to eligibility of certain aliens for the food stamp program.
 
 Subsec. (a)(2)(F). Pub. L. 105–185, §504(1), substituted “specified Federal programs described in paragraph (3)” for “program defined in paragraph (3)(A) (relating to the supplemental security income program)” in introductory provisions.
 

@@ -58,7 +58,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Consistent with existing memoranda of understanding between the Department of State and other departments and agencies of the United States, including the Department of Justice, the chief of mission of every diplomatic mission of the United States shall designate an officer or officers within themission to carry out the responsibility of the mission under paragraph (1), including the coordination of counterdrug, law enforcement, rule of law, and administration of justice programs, policy, and assistance. Such officer or officers shall report to the chief of mission, or the designee of the chief of mission, on a regular basis regarding activities undertaken in carrying out such responsibility.
+&emsp;&emsp;Consistent with existing memoranda of understanding between the Department of State and other departments and agencies of the United States, including the Department of Justice, the chief of mission of every diplomatic mission of the United States shall designate an officer or officers within the mission to carry out the responsibility of the mission under paragraph (1), including the coordination of counterdrug, law enforcement, rule of law, and administration of justice programs, policy, and assistance. Such officer or officers shall report to the chief of mission, or the designee of the chief of mission, on a regular basis regarding activities undertaken in carrying out such responsibility.
 
 #### (B) Reports
 

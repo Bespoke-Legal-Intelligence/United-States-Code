@@ -10,11 +10,13 @@ The term “principal register” refers to the register provided for by section
 
 The term “person” and any other word or term used to designate the applicant or other entitled to a benefit or privilege or rendered liable under the provisions of this chapter includes a juristic person as well as a natural person. The term “juristic person” includes a firm, corporation, union, association, or other organization capable of suing and being sued in a court of law.
 
+The term “person” also includes the United States, any agency or instrumentality thereof, or any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States. The United States, any agency or instrumentality thereof, and any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
+
 The term “person” also includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
 
 The terms “applicant” and “registrant” embrace the legal representatives, predecessors, successors and assigns of such applicant or registrant.
 
-The term “Commissioner” means the Commissioner of Patents and Trademarks.
+The term “Director” means the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.
 
 The term “related company” means any person whose use of a mark is controlled by the owner of the mark with respect to the nature and quality of the goods or services on or in connection with which the mark is used.
 
@@ -62,7 +64,7 @@ The term “use in commerce” means the bona fide use of a mark in the ordinary
 
 &emsp;&emsp;(B) the goods are sold or transported in commerce, and
 
-&emsp;(2) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one Stateor in the United States and a foreign country and the person rendering the services is engaged in commerce in connection with the services.
+&emsp;(2) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in the United States and a foreign country and the person rendering the services is engaged in commerce in connection with the services.
 
 A mark shall be deemed to be “abandoned” if either of the following occurs:
 
@@ -84,11 +86,15 @@ The term “Act of March 3, 1881”, “Act of February 20, 1905”, or “Act o
 
 A “counterfeit” is a spurious mark which is identical with, or substantially indistinguishable from, a registered mark.
 
+The term “domain name” means any alphanumeric designation which is registered with or assigned by any domain name registrar, domain name registry, or other domain name registration authority as part of an electronic address on the Internet.
+
+The term “Internet” has the meaning given that term in section 230(f)(1) of title 47.
+
 Words used in the singular include the plural and vice versa.
 
-The intent of this chapter is to regulate commerce within the control of Congress by making actionable the deceptive and misleading use of marks in such commerce; to protect registered marks used in such commerce from interference by State, or territorial legislation; to protect persons engaged in such commerce against unfair competition; to prevent fraud and deception in such commerce by the use of reproductions, copies, counterfeits, or colorable imitations of registered marks; and to provide rights and remedies stipulated by treaties and conventions respecting trade-marks,<sup>1</sup> trade names, and unfair competition entered into between the United States and foreign nations.
+The intent of this chapter is to regulate commerce within the control of Congress by making actionable the deceptive and misleading use of marks in such commerce; to protect registered marks used in such commerce from interference by State, or territorial legislation; to protect persons engaged in such commerce against unfair competition; to prevent fraud and deception in such commerce by the use of reproductions, copies, counterfeits, or colorable imitations of registered marks; and to provide rights and remedies stipulated by treaties and conventions respecting trademarks, trade names, and unfair competition entered into between the United States and foreign nations.
 
-(July 5, 1946, ch. 540, title X, §45, 60 Stat. 443; Pub. L. 87–772, §21, Oct. 9, 1962, 76 Stat. 774; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–620, title I, §103, Nov. 8, 1984, 98 Stat. 3335; Pub. L. 100–667, title I, §134, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 102–542, §3(d), Oct. 27, 1992, 106 Stat. 3568; Pub. L. 103–465, title V, §521, Dec. 8, 1994, 108 Stat. 4981; Pub. L. 104–98, §4, Jan. 16, 1996, 109 Stat. 986.)
+(July 5, 1946, ch. 540, title X, §45, 60 Stat. 443; Pub. L. 87–772, §21, Oct. 9, 1962, 76 Stat. 774; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–620, title I, §103, Nov. 8, 1984, 98 Stat. 3335;Pub. L. 100–667, title I, §134, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 102–542, §3(d), Oct. 27, 1992, 106 Stat. 3568; Pub. L. 103–465, title V, §521, Dec. 8, 1994, 108 Stat. 4981; Pub. L. 104–98, §4, Jan. 16, 1996, 109 Stat. 986; Pub. L. 106–43, §§4(c), 6(b), Aug. 5, 1999, 113 Stat. 219, 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3005, title IV, §4732(b)(1)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–550, 1501A–583.)
 
 #### References in Text
 
@@ -99,6 +105,14 @@ Acts March 3, 1881, February 20, 1905, and March 19, 1920, referred to in text, 
 Acts Feb. 20, 1905, ch. 592, §29, 33 Stat. 731; June 10, 1938, ch. 332, §5, 52 Stat. 639.
 
 #### Amendments
+
+1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(A)\], substituted par. defining “Director” for par. which read as follows: “The term ‘Commissioner’ means the Commissioner of Patents and Trademarks.”
+
+Pub. L. 106–113, §1000(a)(9) \[title III, §3005\], inserted pars. defining “domain name” and “Internet” after par. defining “counterfeit”.
+
+Pub. L. 106–43, §6(b), substituted “trademarks” for “trade-marks” in last undesignated par.
+
+Pub. L. 106–43, §4(c), between pars. defining “person” inserted: “The term ‘person’ also includes the United States, any agency or instrumentality thereof, or any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States. The United States, any agency or instrumentality thereof, and any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.”
 
 1996—Pub. L. 104–98 inserted par. defining “dilution” after par. defining “abandoned”.
 
@@ -114,7 +128,7 @@ Acts Feb. 20, 1905, ch. 592, §29, 33 Stat. 731; June 10, 1938, ch. 332, §5, 52
 
 Pub. L. 100–667, §134(2), amended par. defining “trade name” and “commercial name” generally. Prior to amendment, par. read as follows: “The terms ‘trade name’ and ‘commercial name’ include individual names and surnames, firm names and trade names used by manufacturers, industrialists, merchants, agriculturists, and others to identify their businesses, vocations, or occupations; the names or titles lawfully adopted and used by persons, firms, associations, corporations, companies, unions, and any manufacturing, industrial, commercial, agricultural, or other organizations engaged in trade or commerce and capable of suing and being sued in a court of law.”
 
-Pub. L. 100–667, §134(3), amended par. defining “trademark” generally. Prior to amendment, par. read as follows: “The term ‘trademark’ includes any word, name, symbol, or device or any combination thereof adopted and used by a manufacturer or merchant to identify and distinguish his goods, including a unique product,from those manufactured or sold by others and to indicate the source of the goods, even if that source is unknown.”
+Pub. L. 100–667, §134(3), amended par. defining “trademark” generally. Prior to amendment, par. read as follows: “The term ‘trademark’ includes any word, name, symbol, or device or any combination thereof adopted and used by a manufacturer or merchant to identify and distinguish his goods, including a unique product, from those manufactured or sold by others and to indicate the source of the goods, even if that source is unknown.”
 
 Pub. L. 100–667, §134(4), amended par. defining “service mark” generally. Prior to amendment, par. read as follows: “The term ‘service mark’ means a mark used in the sale or advertising of services to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown. Titles, character names and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor.”
 
@@ -139,6 +153,12 @@ Pub. L. 98–620, §103(3), in subpar. (b) of par. relating to when a mark shall
 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” in two places and “Commissioner of Patents and Trademarks” for “Commissioner of Patents” in definition of “Commissioner”.
 
 1962—Pub. L. 87–772 substituted, “predecessors,” for “and” in definition of “applicant” and “registrant”, “Titles, character names and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor” for “and includes without limitation the marks, names, symbols, titles, designations, slogans, character names, and distinctive features of radio or other advertising used in commerce”, in definition of “service mark”, inserted “or the services are rendered in more than one State or in this and a foreign country and the person rendering the services is engaged in commerce in connection therewith” in fifteenth paragraph relating to use in commerce, struck out “purchasers” after “deceive” in definition of “colorable imitation”, and substituted “commerce” for “commence” in last par. relating to the intent of the chapter.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by section 1000(a)(9) \[title III, §3005\] of Pub. L. 106–113 applicable to all domain names registered before, on, or after Nov. 29, 1999, see section 1000(a)(9) \[title III, §3010\] of Pub. L. 106–113, set out as a note under section 1117 of this title.
+
+Amendment by section 1000(a)(9) \[title IV, §4732(b)(1)(A)\] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1994 Amendment
 
@@ -166,5 +186,5 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 19 sections 1526, 1595a.
+This section is referred to in section 1129 of this title; title 19 sections 1526, 1595a.
 

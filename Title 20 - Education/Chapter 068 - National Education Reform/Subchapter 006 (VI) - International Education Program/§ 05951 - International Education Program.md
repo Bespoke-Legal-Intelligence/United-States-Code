@@ -88,7 +88,7 @@ The Secretary, with the concurrence and the foreign policy guidance of the Secre
 
 &emsp;&emsp;&emsp;(iii) home stays in United States communities;
 
-&emsp;&emsp;&emsp;(iv) translations and adaptations regarding United States civics and governmenteducation and economic education curricular programs for students and teachers, and in the case of training programs for teachers translations and adaptations into forms useful in schools in eligible countries, and joint research projects in such areas;
+&emsp;&emsp;&emsp;(iv) translations and adaptations regarding United States civics and government education and economic education curricular programs for students and teachers, and in the case of training programs for teachers translations and adaptations into forms useful in schools in eligible countries, and joint research projects in such areas;
 
 &emsp;&emsp;&emsp;(v) translation of basic documents of United States constitutional government for use in eligible countries, such as The Federalist Papers, selected writings of Presidents Adams and Jefferson and the Anti-Federalists, and more recent works on political theory, constitutional law and economics; and
 
@@ -150,5 +150,9 @@ Subsec. (d)(1). Pub. L. 105–277, §101(f) \[title VIII, §301(e)\], struck out
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 1335(e) of Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of Title 22.
+Amendment by section 1335(e) of Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of Title 22.
+
+#### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22, Foreign Relations and Intercourse.
 

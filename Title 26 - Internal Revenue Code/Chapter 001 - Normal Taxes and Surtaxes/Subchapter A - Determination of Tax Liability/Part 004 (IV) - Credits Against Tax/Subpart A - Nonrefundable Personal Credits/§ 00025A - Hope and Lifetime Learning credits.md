@@ -94,7 +94,7 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 #### (2) Coordination with exclusions
 
-&emsp;An election under this subsection shall not take effect with respect to an individual forany taxable year if any portion of any distribution during such taxable year from an education individual retirement account is excluded from gross income under section 530(d)(2).
+&emsp;An election under this subsection shall not take effect with respect to an individual for any taxable year if any portion of any distribution during such taxable year from an education individual retirement account is excluded from gross income under section 530(d)(2).
 
 #### (f) Definitions
 
@@ -184,7 +184,7 @@ For purposes of this section—
 
 #### (B) Rounding
 
-&emsp;&emsp;If any amount as adjusted under subparagraph (A) is not a multiple of $100, suchamount shall be rounded to the next lowest multiple of $100.
+&emsp;&emsp;If any amount as adjusted under subparagraph (A) is not a multiple of $100, such amount shall be rounded to the next lowest multiple of $100.
 
 #### (2) Income limits
 

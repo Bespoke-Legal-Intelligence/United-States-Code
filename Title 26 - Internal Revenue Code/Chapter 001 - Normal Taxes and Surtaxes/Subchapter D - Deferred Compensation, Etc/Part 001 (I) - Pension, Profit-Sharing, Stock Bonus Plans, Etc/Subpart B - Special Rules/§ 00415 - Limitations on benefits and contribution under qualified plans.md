@@ -6,11 +6,9 @@
 
 &emsp;A trust which is a part of a pension, profitsharing, or stock bonus plan shall not constitute a qualified trust under section 401(a) if—
 
-&emsp;&emsp;(A) in the case of a defined benefit plan, the plan provides for the payment of benefits with respect to a participant which exceed the limitation of subsection (b),
+&emsp;&emsp;(A) in the case of a defined benefit plan, the plan provides for the payment of benefits with respect to a participant which exceed the limitation of subsection (b), or
 
-&emsp;&emsp;(B) in the case of a defined contribution plan, contributions and other additions under the plan with respect to any participant for any taxable year exceed the limitation of subsection (c), or
-
-&emsp;&emsp;(C) in any case in which an individual is a participant in both a defined benefit plan and a defined contribution plan maintained by the employer, the trust has been disqualified under subsection (g).
+&emsp;&emsp;(B) in the case of a defined contribution plan, contributions and other additions under the plan with respect to any participant for any taxable year exceed the limitation of subsection (c).
 
 #### (2) Section applies to certain annuities and accounts
 
@@ -118,7 +116,7 @@
 
 #### (A) Dollar limitation
 
-&emsp;&emsp;In the case of an employee who has less than 10 years of participation in a definedbenefit plan, the limitation referred to in paragraph (1)(A) shall be the limitation determined under such paragraph (without regard to this paragraph) multiplied by a fraction—
+&emsp;&emsp;In the case of an employee who has less than 10 years of participation in a defined benefit plan, the limitation referred to in paragraph (1)(A) shall be the limitation determined under such paragraph (without regard to this paragraph) multiplied by a fraction—
 
 &emsp;&emsp;&emsp;(i) the numerator of which is the number of years (or part thereof) of participation in the defined benefit plan of the employer, and
 
@@ -126,7 +124,7 @@
 
 #### (B) Compensation and benefits limitations
 
-&emsp;&emsp;The provisions of subparagraph (A) shall apply to the limitations under paragraphs (1)(B) and (4) and subsection (e), except that such subparagraph shall be applied with respect to years of service with an employer rather than years of participation in a plan.
+&emsp;&emsp;The provisions of subparagraph (A) shall apply to the limitations under paragraphs (1)(B) and (4), except that such subparagraph shall be applied with respect to years of service with an employer rather than years of participation in a plan.
 
 #### (C) Limitation on reduction
 
@@ -194,13 +192,13 @@
 
 #### (B) Qualified participant
 
-&emsp;&emsp;For purposes of this paragraph, the term “qualified participant” means a participant who first became a participant in the planmaintained by the employer before January 1, 1990.
+&emsp;&emsp;For purposes of this paragraph, the term “qualified participant” means a participant who first became a participant in the plan maintained by the employer before January 1, 1990.
 
 #### (C) Election
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;This paragraph shall not apply to any plan unless each employer maintaining the plan elects before the close of the 1st plan year beginning after December 31, 1989, to have this subsection (other than paragraph (2)(G)) applied without regard to paragraph (2)(F).
+&emsp;&emsp;&emsp;This paragraph shall not apply to any plan unless each employer maintaining theplan elects before the close of the 1st plan year beginning after December 31, 1989, to have this subsection (other than paragraph (2)(G)) applied without regard to paragraph (2)(F).
 
 #### (ii) Revocation of election
 
@@ -266,7 +264,7 @@
 
 #### (4) Special election for section 403(b) contracts purchased by educational organizations, hospitals,,<sup>1</sup> home health service agencies, and certain churches, etc.
 
-&emsp;&emsp;(A) In the case of amounts contributed for an annuity contract described in section 403(b) for the year in which occurs a participant's separation from the service with an educational organization, a hospital, a home health service agency, a health and welfare service agency, or a church, convention or association of churches, or an organization described in section 414(e)(3)(B)(ii), at theelection of the participant there is substituted for the amount specified in paragraph (1)(B) the amount of the exclusion allowance which would be determined under section 403(b)(2) (without regard to this section) for the participant's taxable year in which such separation occurs if the participant's years of service were computed only by taking into account his service for the employer (as determined for purposes of section 403(b)(2)) during the period of years (not exceeding ten) ending on the date of such separation.
+&emsp;&emsp;(A) In the case of amounts contributed for an annuity contract described in section 403(b) for the year in which occurs a participant's separation from the service with an educational organization, a hospital, a home health service agency, a health and welfare service agency, or a church, convention or association of churches, or an organization described in section 414(e)(3)(B)(ii), at the election of the participant there is substituted for the amount specified in paragraph (1)(B) the amount of the exclusion allowance which would be determined under section 403(b)(2) (without regard to this section) for the participant's taxable year in which such separation occurs if the participant's years of service were computed onlyby taking into account his service for the employer (as determined for purposes of section 403(b)(2)) during the period of years (not exceeding ten) ending on the date of such separation.
 
 &emsp;&emsp;(B) In the case of amounts contributed for an annuity contract described in section 403(b) for any year in the case of a participant who is an employee of an educational organization, a hospital, a home health service agency, a health and welfare service agency, or a church, convention or association of churches, or an organization described in section 414(e)(3)(B)(ii), at the election of the participant there is substituted for the amount specified in paragraph (1)(B) the least of—
 
@@ -368,101 +366,13 @@
 
 &emsp;Any increase under subparagraph (A) or (C) of paragraph (1) which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000.
 
-#### (e) Limitation in case of defined benefit plan and defined contribution plan for same employee
-
-#### (1) In general
-
-&emsp;In any case in which an individual is a participant in both a defined benefit plan and a defined contribution plan maintained by the same employer, the sum of the defined benefit plan fraction and the defined contribution plan fraction for any year may not exceed 1.0.
-
-#### (2) Defined benefit plan fraction
-
-&emsp;For purposes of this subsection, the defined benefit plan fraction for any year is a fraction—
-
-&emsp;&emsp;(A) the numerator of which is the projected annual benefit of the participant under the plan (determined as of the close of the year), and
-
-&emsp;&emsp;(B) the denominator of which is the lesser of—
-
-&emsp;&emsp;&emsp;(i) the product of 1.25, multiplied by the dollar limitation in effect under subsection (b)(1)(A) for such year, or
-
-&emsp;&emsp;&emsp;(ii) the product of—
-
-&emsp;&emsp;&emsp;&emsp;(I) 1.4, multiplied by
-
-&emsp;&emsp;&emsp;&emsp;(II) the amount which may be taken into account under subsection (b)(1)(B) with respect to such individual under the plan for such year.
-
-#### (3) Defined contribution plan fraction
-
-&emsp;For purposes of this subsection, the defined contribution plan fraction for any year is a fraction—
-
-&emsp;&emsp;(A) the numerator of which is the sum of the annual additions to the participant's account as of the close of the year, and
-
-&emsp;&emsp;(B) the denominator of which is the sum of the lesser of the following amounts determined for such year and for each prior year of service with the employer:
-
-&emsp;&emsp;&emsp;(i) the product of 1.25, multiplied by the dollar limitation in effect under subsection (c)(1)(A) for such year (determined without regard to subsection (c)(6)), or
-
-&emsp;&emsp;&emsp;(ii) the product of—
-
-&emsp;&emsp;&emsp;&emsp;(I) 1.4, multiplied by—
-
-&emsp;&emsp;&emsp;&emsp;(II) the amount which may be taken into account under subsection (c)(1)(B) (or subsection (c)(7), if applicable) with respect to such individual under such plan for such year.
-
-#### (4) Special transition rules for defined contribution fraction
-
-&emsp;In applying paragraph (3) with respect to years beginning before January 1, 1976—
-
-&emsp;&emsp;(A) the aggregate amount taken into account under paragraph (3)(A) may not exceed the aggregate amount taken into account under paragraph (3)(B), and
-
-&emsp;&emsp;(B) the amount taken into account under subsection (c)(2)(B)(i) for any year concerned is an amount equal to—
-
-&emsp;&emsp;&emsp;(i) the excess of the aggregate amount of employee contributions for all years beginning before January 1, 1976, during which the employee was an active participant of the plan, over 10 percent of the employee's aggregate compensation for all such years, multiplied by
-
-&emsp;&emsp;&emsp;(ii) a fraction the numerator of which is 1 and the denominator of which is the number of years beginning before January 1, 1976, during which the employee was an active participant in the plan.
-
-> &emsp;Employee contributions made on or after October 2, 1973, shall be taken into account undersubparagraph (B) of the preceding sentence only to the extent that the amount of such contributions does not exceed the maximum amount of contributions permissible under the plan as in effect on October 2, 1973.
-
-#### (5) Special rules for sections 403(b) and 408
-
-&emsp;For purposes of this section, any annuity contract described in section 403(b) (except in the case of a participant who has elected under subsection (c)(4)(D) to have the provisions of subsection (c)(4)(C) apply) for the benefit of a participant shall be treated as a defined contribution plan maintained by each employer with respect to which the participant has the control required under subsection (b) or (c) of section 414 (as modified by subsection (h)). For purposes of this section, any contribution by an employer to a simplified employee pension for an individual for a taxable year shall be treated as an employer contribution to a defined contribution plan for such individual for such year. In the case of any annuity contract described in section 403(b), the amount of the contribution disqualified by reason of subsection (g) shall reduce the exclusion allowance as provided in section 403(b)(2).
-
-#### (6) Special rule for qualified gratuitous transfers
-
-&emsp;Any qualified gratuitous transfer of qualified employer securities (as defined by section 664(g)) shall not be taken into account in calculating, and shall not be subject to, the limitations provided in this subsection.
-
-#### (7) Special transition rule for defined contribution fraction for years ending after December 31, 1982
-
-#### (A) In general
-
-&emsp;&emsp;At the election of the plan administrator, in applying paragraph (3) with respect to any year ending after December 31, 1982, the amount taken into account under paragraph (3)(B) with respect to each participant for all years ending before January 1, 1983, shall be an amount equal to the product of—
-
-&emsp;&emsp;&emsp;(i) the amount determined under paragraph (3)(B) (as in effect for the year ending in 1982) for the year ending in 1982, multiplied by
-
-&emsp;&emsp;&emsp;(ii) the transition fraction.
-
-#### (B) Transition fraction
-
-&emsp;&emsp;The term “transition fraction” means a fraction—
-
-&emsp;&emsp;&emsp;(i) the numerator of which is the lesser of—
-
-&emsp;&emsp;&emsp;&emsp;(I) $51,875, or
-
-&emsp;&emsp;&emsp;&emsp;(II) 1.4, multiplied by 25 percent of the compensation of the participant for the year ending in 1981, and
-
-&emsp;&emsp;&emsp;(ii) the denominator of which is the lesser of—
-
-&emsp;&emsp;&emsp;&emsp;(I) $41,500, or
-
-&emsp;&emsp;&emsp;&emsp;(II) 25 percent of the compensation of the participant for the year ending in 1981.
-
-#### (C) Plan must have been in existence on or before July 1, 1982
-
-&emsp;&emsp;This paragraph shall apply only to plans which were in existence on or before July 1, 1982.
+#### \[(e) Repealed. Pub. L. 104–188, title I, §1452(a), Aug. 20, 1996, 110 Stat. 1816\]
 
 #### (f) Combining of plans
 
 #### (1) In general
 
-&emsp;For purposes of applying the limitations of subsections (b), (c), and (e)—
+&emsp;For purposes of applying the limitations of subsections (b) and (c)—
 
 &emsp;&emsp;(A) all defined benefit plans (whether or not terminated) of an employer are to be treated as one defined benefit plan, and
 
@@ -478,7 +388,7 @@
 
 #### (g) Aggregation of plans
 
-The Secretary, in applying the provisions of this section to benefits or contributions under more than one plan maintained by the same employer, and to any trusts, contracts, accounts, or bonds referred to in subsection (a)(2), with respect to which the participant has the control required under section 414(b) or (c), as modified by subsection (h), shall, under regulations prescribed by the Secretary, disqualify one or more trusts, plans, contracts, accounts, or bonds, or any combination thereof until such benefits or contributions do not exceed the limitations contained in this section. In addition to taking into account such other factors as may be necessary to carry out the purposes of subsections (e) and (f), the regulations prescribed under this paragraph shall provide that no plan which has been terminated shall be disqualified until all other trusts, plans, contracts, accounts, or bonds have been disqualified.
+The Secretary, in applying the provisions of this section to benefits or contributions under more than one plan maintained by the same employer, and to any trusts, contracts, accounts, or bonds referred to in subsection (a)(2), with respect to which the participant has the control required under section 414(b) or (c), as modified by subsection (h), shall, under regulations prescribed by the Secretary, disqualify one or more trusts, plans, contracts, accounts, or bonds, or any combination thereof until such benefits or contributions do not exceed the limitations contained in this section. In addition to taking into account such other factors as may be necessary to carry out the purposes of subsection (f), the regulations prescribed under this paragraph shall provide that no plan which has been terminated shall be disqualified until all other trusts, plans, contracts, accounts, or bonds have been disqualified.
 
 #### (h) 50 percent control
 
@@ -490,7 +400,7 @@ Where for the period before January 1, 1976, or (if later) the first day of the 
 
 #### (j) Regulations; definition of year
 
-The Secretary shall prescribe such regulations as may be necessary to carry out the purposes ofthis section, including, but not limited to, regulations defining the term “year” for purposes of any provision of this section.
+The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including, but not limited to, regulations defining the term “year” for purposes of any provision of this section.
 
 #### (k) Special rules
 
@@ -512,13 +422,9 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 &emsp;&emsp;In the case of a defined benefit plan which maintains a qualified cost-of-living arrangement—
 
-&emsp;&emsp;&emsp;(i) any contribution made directly by an employee under such arrangement—
+&emsp;&emsp;&emsp;(i) any contribution made directly by an employee under such an arrangement shall not be treated as an annual addition for purposes of subsection (c), and
 
-&emsp;&emsp;&emsp;&emsp;(I) shall not be treated as an annual addition for purposes of subsection (c), but
-
-&emsp;&emsp;&emsp;&emsp;(II) shall be so treated for purposes of subsection (e), and
-
-&emsp;&emsp;&emsp;(ii) any benefit under such arrangement which is allocable to an employer contribution which was transferred from a defined contribution plan and to which the requirements of subsection (c) were applied shall, for purposes of subsection (b), be treated as a benefit derived from an employee contribution (and subsections (c) and (e) shall not again apply to such contribution by reason of such transfer).
+&emsp;&emsp;&emsp;(ii) any benefit under such arrangement which is allocable to an employer contribution which was transferred from a defined contribution plan and to which the requirements of subsection (c) were applied shall, for purposes of subsection (b), be treated as a benefit derived from an employee contribution (and subsection (c) shall not again apply to such contribution by reason of such transfer).
 
 #### (B) Qualified cost-of-living arrangement defined
 
@@ -580,7 +486,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### (1) Governmental plan not affected
 
-&emsp;In determining whether a governmental plan (as defined in section 414(d)) meets the requirements of this section, benefits provided under a qualified governmental excess benefit arrangement shall not be taken into account. Income accruing to a governmental plan (or to a trust that is maintained solely for the purpose of providing benefits under a qualified governmental excess benefit arrangement) in respect of a qualified governmental excess benefit arrangement shall constitute income derived from the exercise of an essential governmental function upon which such governmental plan (or trust) shall be exempt from tax under section 115.
+&emsp;In determining whether a governmental plan (as defined in section 414(d)) meets the requirements of this section, benefits provided under a qualified governmental excess benefit arrangement shall not be taken into account. Income accruing to a governmental plan (or to a trust that is maintained solely for the purpose of providing benefits under a qualified governmental excess benefit arrangement) in respect of a qualified governmental excess benefit arrangement shall constitute income derived from the exercise of an essential governmental function upon which such governmental plan\(or trust) shall be exempt from tax under section 115.
 
 #### (2) Taxation of participant
 
@@ -656,27 +562,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 > &emsp;&emsp;In the case of service described in clauses <sup>2</sup> (i), (ii), or (iii), such service will be nonqualified service if recognition of such service would cause a participant to receive a retirement benefit for the same service under more than one plan.
 
-(Added Pub. L. 93–406, title II, §2004(a)(2), Sept. 2, 1974, 88 Stat. 979; amended Pub. L. 94–455, title VIII, §803(b)(4), (f), title XV, §§1501(b)(3), 1502(a)(1), 1511(a), title XIX, §§1901(a)(65), (b)(8)(D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1584, 1589, 1735–1737, 1741, 1775, 1794, 1834; Pub. L. 95–600, title I, §§141(f)(7), 152(g), 153(a), Nov. 6, 1978, 92 Stat. 2795, 2800; Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VII), (iv)(I), (10)(I), (J)(iii), (11), 94 Stat. 199, 200, 203, 204; Pub. L. 96–605, title II, §222(a), Dec. 28, 1980, 94 Stat. 3528; Pub. L. 97–34, title III, §§311(g)(4), (h)(3), 333(b)(1), Aug. 13, 1981, 95 Stat. 281, 282, 297; Pub. L. 97–248, title II, §§235(a)–(e), 238(d)(5), 251(c)(1), (2), 253(a), Sept. 3, 1982, 96 Stat. 505–507, 513, 530, 532; Pub. L. 98–21, title I, §122(c)(5), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title I, §15, title IV, §491(d)(28)–(32), (e)(6), title (V), §528(a), title VII, §713(a)(1), (3), (d)(4)(B), (7), (k), July 18, 1984, 98 Stat. 505, 850, 853, 876, 955, 956, 958, 960; Pub. L. 99–514, title XI, §§1106(a)–(c)(1), (e)–(g), 1108(g)(5), 1114(b)(12), 1174(d)(1), (2), title XVIII, §§1847(b)(4), 1852(h)(2), (3), 1875(c)(9), (11), 1898(b)(15)(C), 1899A(13), Oct. 22, 1986, 100 Stat. 2420, 2422, 2424, 2425, 2434, 2451, 2518, 2856, 2869, 2895, 2951, 2958; Pub. L. 100–647, title I, §§1011(d)(2), (3), (6), (7), 1018(t)(3)(B), (8)(D), title VI, §§6054(a), 6059(a), Nov. 10, 1988, 102 Stat. 3459, 3460, 3588, 3589, 3696, 3699; Pub. L. 101–239, title VII, §7304(c)(1), Dec. 19, 1989, 103 Stat. 2353; Pub. L. 102–318, title V, §521(b)(23)–(25), July 3, 1992, 106 Stat. 311, 312; Pub. L. 103–465, title VII, §§732(b), 767(b), Dec. 8, 1994, 108 Stat. 5004, 5038; Pub. L. 104–188, title I, §§1434(a), 1444(a), (b)(1), (c), (d), 1446(a), 1449(b), 1452(a), (c)(1)–(6), 1704(t)(75), Aug. 20, 1996, 110 Stat. 1807, 1809–1811, 1814, 1816, 1891; Pub. L. 105–34, title XV, §§1526(a), (b), 1527(a), 1530(c)(3), (4), Aug. 5, 1997, 111 Stat. 1072–1074, 1078.)
-
-#### Amendment of Section
-
-<i>Pub. L. 104–188, title I, §1452(a), (c)(1)–(6), (d), Nov. 20, 1996, 110 Stat. 1816, provided that, applicable to limitation years beginning after Dec. 31, 1999, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)(1) by adding “or” at the end of subpar. (A), by striking “, or” at the end of subpar. (B) and inserting a period, and by striking subpar. (C);</i>
-
-<i>(2) in subsection (b)(5)(B) by striking “and subsection (e)”;</i>
-
-<i>(3) by repealing subsection (e);</i>
-
-<i>(4) in subsection (f)(1) by striking “subsections (b), (c), and (e)” and inserting “subsections (b) and (c)”;</i>
-
-<i>(5) in subsection (g) by striking “subsections (e) and (f)” in last sentence and inserting “subsection (f)”;</i>
-
-<i>(6) in subsection (k)(2)(A) by amending clause (i) to read as follows:</i>
-
-“(i) any contribution made directly by an employee under such an arrangement shall not be treated as an annual addition for purposes of subsection (c), and”; and
-
-<i>(7) in subsection (k)(2)(A)(ii) by striking “subsections (c) and (e)” and inserting “subsection (c)”.</i>
+(Added Pub. L. 93–406, title II, §2004(a)(2), Sept. 2, 1974, 88 Stat. 979; amended Pub. L. 94–455, title VIII, §803(b)(4), (f), title XV, §§1501(b)(3), 1502(a)(1), 1511(a), title XIX, §§1901(a)(65),\(b)(8)(D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1584, 1589, 1735–1737, 1741, 1775, 1794, 1834; Pub. L. 95–600, title I, §§141(f)(7), 152(g), 153(a), Nov. 6, 1978, 92 Stat. 2795, 2800; Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VII), (iv)(I), (10)(I), (J)(iii), (11), 94 Stat. 199, 200, 203, 204; Pub. L. 96–605, title II, §222(a), Dec. 28, 1980, 94 Stat. 3528; Pub. L. 97–34, title III, §§311(g)(4), (h)(3), 333(b)(1), Aug. 13, 1981, 95 Stat. 281, 282, 297; Pub. L. 97–248, title II, §§235(a)–(e), 238(d)(5), 251(c)(1), (2), 253(a), Sept. 3, 1982, 96 Stat. 505–507, 513, 530, 532; Pub. L. 98–21, title I, §122(c)(5), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title I, §15, title IV, §491(d)(28)–(32), (e)(6), title (V), §528(a), title VII, §713(a)(1), (3), (d)(4)(B), (7), (k), July 18, 1984, 98 Stat. 505, 850, 853, 876, 955, 956, 958, 960; Pub. L. 99–514, title XI, §§1106(a)–(c)(1), (e)–(g), 1108(g)(5), 1114(b)(12), 1174(d)(1), (2), title XVIII, §§1847(b)(4), 1852(h)(2), (3), 1875(c)(9), (11), 1898(b)(15)(C), 1899A(13), Oct. 22, 1986, 100 Stat. 2420, 2422, 2424, 2425, 2434, 2451, 2518, 2856, 2869, 2895, 2951, 2958; Pub. L. 100–647, title I, §§1011(d)(2), (3), (6), (7), 1018(t)(3)(B), (8)(D), title VI, §§6054(a), 6059(a), Nov. 10, 1988, 102 Stat. 3459, 3460, 3588, 3589, 3696, 3699; Pub. L. 101–239, title VII, §7304(c)(1), Dec. 19, 1989, 103 Stat. 2353; Pub. L. 102–318, title V, §521(b)(23)–(25), July 3, 1992, 106 Stat. 311, 312; Pub. L. 103–465, title VII, §§732(b), 767(b), Dec. 8, 1994, 108 Stat. 5004, 5038; Pub. L. 104–188, title I, §§1434(a), 1444(a), (b)(1), (c), (d), 1446(a), 1449(b), 1452(a), (c)(1)–(6), 1704(t)(75), Aug. 20, 1996, 110 Stat. 1807, 1809–1811, 1814, 1816, 1891; Pub. L. 105–34, title XV, §§1526(a), (b), 1527(a), 1530(c)(3), (4), Aug. 5, 1997, 111 Stat. 1072–1074, 1078.)
 
 #### References in Text
 
@@ -702,11 +588,15 @@ Subsec. (k)(3). Pub. L. 105–34, §1526(b), added par. (3).
 
 Subsec. (n). Pub. L. 105–34, §1526(a), added subsec. (n).
 
-1996—Subsec. (b)(2)(E)(i). Pub. L. 104–188, §1449(b)(1), substituted “For purposes of adjusting any limitation under subparagraph (C) and, except as provided in clause (ii), for purposes of adjusting any benefit under subparagraph (B),” for “Except as provided in clause (ii), for purposes of adjusting any benefit or limitation under subparagraph (B) or (C),”.
+1996—Subsec. (a)(1). Pub. L. 104–188, §1452(c)(1), inserted “or” at end of subpar. (A), struck out “, or” at end of subpar. (B), and struck out subpar. (C) which read as follows: “in any case in which an individual is a participant in both a defined benefit plan and a defined contribution plan maintained by the employer, the trust has been disqualified under subsection (g).”
+
+Subsec. (b)(2)(E)(i). Pub. L. 104–188, §1449(b)(1), substituted “For purposes of adjusting any limitation under subparagraph (C) and, except as provided in clause (ii), for purposes of adjusting any benefit under subparagraph (B),” for “Except as provided in clause (ii), for purposes of adjusting any benefit or limitation under subparagraph (B) or (C),”.
 
 Subsec. (b)(2)(E)(ii). Pub. L. 104–188, §1449(b)(2), substituted “For purposes of adjusting any benefit under subparagraph (B) for any form of benefit subject to section 417(e)(3),” for “For purposes of adjusting the benefit or limitation of any form of benefit subject to section 417(e)(3),”.
 
 Subsec. (b)(2)(I). Pub. L. 104–188, §1444(c), added subpar. (I).
+
+Subsec. (b)(5)(B). Pub. L. 104–188, §1452(c)(2), struck out “and subsection (e)” after “and (4)”.
 
 Subsec. (b)(10)(C). Pub. L. 104–188, §1444(d), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
@@ -716,11 +606,25 @@ Subsec. (c)(3)(C). Pub. L. 104–188, §1446(a), inserted at end “If a defined
 
 Subsec. (c)(3)(D). Pub. L. 104–188, §1434(a), added subpar. (D).
 
+Subsec. (e). Pub. L. 104–188, §1452(a), struck out subsec. (e) which related to limitation in case of a defined benefit plan and a defined contribution plan for same employee.
+
+Subsec. (f)(1). Pub. L. 104–188, §1452(c)(3), in introductory provisions, substituted “subsections (b) and (c)” for “subsections (b), (c), and (e)”.
+
+Subsec. (g). Pub. L. 104–188, §1452(c)(4), in last sentence, substituted “subsection (f)” for “subsections (e) and (f)”.
+
 Subsec. (k)(1)(C) to (F). Pub. L. 104–188, §1704(t)(75), inserted “or” at end of subpar. (C), redesignated subpar. (F) as (D), and struck out former subpars. (D) and (E) which read as follows:
 
 “(D) an individual retirement account described in section 408(a),
 
 “(E) an individual retirement annuity described in section 408(b), or”.
+
+Subsec. (k)(2)(A)(i). Pub. L. 104–188, §1452(c)(5), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “any contribution made directly by an employee under such arrangement—
+
+&emsp;“(I) shall not be treated as an annual addition for purposes of subsection (c), but
+
+&emsp;“(II) shall be so treated for purposes of subsection (e), and”.
+
+Subsec. (k)(2)(A)(ii). Pub. L. 104–188, §1452(c)(6), substituted “subsection (c)” for “subsections (c) and (e)” before “shall not again”.
 
 Subsec. (m). Pub. L. 104–188, §1444(b)(1), added subsec. (m).
 
@@ -808,7 +712,7 @@ Subsec. (c)(6)(B)(iii), (iv). Pub. L. 99–514, §1174(d)(2)(A), struck out cls.
 
 &emsp;“(iv) an individual shall be considered to own more than 10 percent of the employer's stock if, without regard to stock held under the employee stock ownership plan, he owns (after application of section 1563(e)) more than 10 percent of the total combined voting power of all classes of stock entitled to vote or more than 10 percent of the total value of shares of all classes of stock.”
 
-Subsec. (c)(6)(C). Pub. L. 99–514, §1174(d)(2)(B), substituted “highly compensated employees (within the meaning of section 414(q))” for “the group of employees consisting of officers, shareholders owning more than10 percent of the employer's stock (determined under subparagraph (B)(iv)), or employees described in subparagraph (B)(iii)”.
+Subsec. (c)(6)(C). Pub. L. 99–514, §1174(d)(2)(B), substituted “highly compensated employees (within the meaning of section 414(q))” for “the group of employees consisting of officers, shareholders owning more than 10 percent of the employer's stock (determined under subparagraph (B)(iv)), or employees described in subparagraph (B)(iii)”.
 
 Subsec. (d)(1)(B), (C). Pub. L. 99–514, §1106(g)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B), which related to the $30,000 amount in subsection (c)(1)(A).
 
@@ -890,7 +794,7 @@ Subsec. (e)(1). Pub. L. 97–248, §235(c)(1), substituted “1.0” for “1.4�
 
 Subsec. (e)(2)(B). Pub. L. 97–248, §235(c)(2)(A), substituted provisions that for purposes of this subsection, the defined benefit plan fraction for any year has a denominator which is the lesser of the product of 1.25 multiplied by the dollar limitation in effect under subsec. (b)(1)(A) for such year, or the product of 1.4 multiplied by the amount which may be taken into account under subsec. (b)(1)(B) with respect to such individual under the plan for such year, for provisions that such benefit plan fraction had a denominator which was the projected annual benefit of the participant under the plan (determined as of the close of the year) if the plan provided the maximum benefit allowable under subsec. (b).
 
-Subsec. (e)(3)(B). Pub. L. 97–248, §235(c)(2)(B), substituted provision that the defined contribution plan fraction for any year has a denominator which, determined for such year and for each prior year of service with the employer, is the lesser of either the product of1.25 multiplied by the dollar limitation in effect under subsec. (c)(1)(A) for such year (determined without regard to subsec. (c)(6)), or the product of 1.4 multiplied by the amount which may be taken into account under subsec. (c)(1)(B) (or subsec. (c)(7) or (8), if applicable) with respect to such individual under such plan for such year, for provision that the denominator of such fraction was the sum of the maximum amount of annual additions to the participant's account which could have been made under subsec. (c) for such year and for each prior year of service with the employer (determined without regard to subsec. (c)(6)).
+Subsec. (e)(3)(B). Pub. L. 97–248, §235(c)(2)(B), substituted provision that the defined contribution plan fraction for any year has a denominator which, determined for such year and for each prior year of service with the employer, is the lesser of either the product of 1.25 multiplied by the dollar limitation in effect under subsec. (c)(1)(A) for such year (determined without regard to subsec. (c)(6)), or the product of 1.4 multiplied by the amount which may be taken into account under subsec. (c)(1)(B) (or subsec. (c)(7) or (8), if applicable) with respect to such individual under such plan for such year, for provision that the denominator of such fraction was the sum of the maximum amount of annual additions to the participant's account which could have been made under subsec. (c) for such year and for each prior year of service with the employer (determined without regard to subsec. (c)(6)).
 
 Subsec. (e)(6). Pub. L. 97–248, §235(d), added par. (6).
 
@@ -968,7 +872,7 @@ Transition rule.—
 
 &emsp;“(A)
 
-In general.—In the case of an eligible participant in a governmental plan (within the meaning of section 414(d) of the Internal Revenue Code of 1986), the limitations of section 415(c)(1) of such Code shall not be applied to reduce the amount of permissiveservice credit which may be purchased to an amount less than the amount which was allowed to be purchased under the terms of the plan as in effect on the date of the enactment of this Act \[Aug. 5, 1997\].
+In general.—In the case of an eligible participant in a governmental plan (within the meaning of section 414(d) of the Internal Revenue Code of 1986), the limitations of section 415(c)(1) of such Code shall not be applied to reduce the amount of permissive service credit which may be purchased to an amount less than the amount which was allowed to be purchased under the terms of the plan as in effect on the date of the enactment of this Act \[Aug. 5, 1997\].
 
 &emsp;“(B)
 
@@ -976,7 +880,7 @@ Eligible participant.—For purposes of subparagraph (A), an eligible participan
 
 Section 1527(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to years beginning after December 31, 1996.”
 
-Amendment by section 1530(c)(3), (4) of Pub. L. 105–34 applicable to transfers made by trusts to, or for the use of, an employee stock ownership plan after Aug. 5, 1997, see section 1530(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
+Amendment by section 1530(c)(3), (4) of Pub. L. 105–34 applicable to transfers made by trusts to, or for the use of, an employee stock ownership plan after Aug. 5, 1997,see section 1530(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -1076,7 +980,7 @@ Special rule.—For purposes of determining the amount of any individual's curre
 
 “(4)
 
-Transition rule where the sum of defined contribution and defined benefit plan fractions exceeds 1.0.—In the case of a plan which satisfied the requirements of section 415 of the Internal Revenue Code of 1986 for its last year beginning before January 1, 1987, the Secretary of the Treasury or his delegate shall prescribe regulations under which an amount is subtracted from the numerator of the defined contribution plan fraction (not exceeding such numerator) so that the sum of the defined benefit plan fraction and the defined contribution plan fraction computed under section 415(e)(1) of such Code does not exceed 1.0 for such year (determined as if the amendments made by this section were in effect for such year).
+Transition rule where the sum of defined contribution and defined benefit plan fractions exceeds 1.0.—In the case of a plan which satisfied the requirements of section 415 of the Internal Revenue Code of 1986 for its last year beginning before January 1, 1987, the Secretary of the Treasury or his delegate shall prescribe regulations under which an amount is subtracted from the numerator of the defined contribution plan fraction (not exceeding such numerator) so that the sum of the defined benefit plan fraction and the defined contribution plan fraction computed under section415(e)(1) of such Code does not exceed 1.0 for such year (determined as if the amendments made by this section were in effect for such year).
 
 “(5)
 

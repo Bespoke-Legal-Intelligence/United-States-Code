@@ -54,7 +54,7 @@ Subsection (b)(1) is substituted for the words “proceed to contract with some 
 
 In subsection (b)(2) the word “charge” is substituted for the words “forthwith cause \* \* \* to be charged”. The words “a contract is made with the other person” are substituted for the words “he may have contracted with another party to furnish the supplies or perform the service for the whole period of the proposal”. The words “guarantor or” are omitted as surplusage. The words “this difference being” are substituted for the words “and the sum may be”. The words “of debt” are omitted, since that action no longer exists. The words “the bidder and his guarantors, jointly or severally” are substituted for the words “either or all of such persons”.
 
-In subsection (c), the words “Proceedings under this section are” are inserted for clarity. The words “unless exempted therefrom under section 481(a) of that title”are inserted to preserve the possibility of exemption of proceedings under the revised section from the provisions of the Federal Property and Administrative Services Act of 1949, as amended.
+In subsection (c), the words “Proceedings under this section are” are inserted for clarity. The words “unless exempted therefrom under section 481(a) of that title” are inserted to preserve the possibility of exemption of proceedings under the revised section from the provisions of the Federal Property and Administrative Services Act of 1949, as amended.
 
 #### Amendments
 

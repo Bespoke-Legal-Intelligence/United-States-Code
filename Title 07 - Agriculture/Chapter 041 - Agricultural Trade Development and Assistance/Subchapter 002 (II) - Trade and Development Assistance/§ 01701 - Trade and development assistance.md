@@ -16,7 +16,7 @@ To carry out the policies and accomplish the objectives described in section 169
 
 Subsec. (b). Pub. L. 104–127 inserted “and private entities” after “developing countries” and “and entities” after “such countries”.
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing President to negotiate agreements with friendly countries for sales of commodities for dollars on creditterms, or for foreign currencies, on credit or on terms permitting conversion to dollars, setting minimum level for sales in foreign currencies, limiting extent of sales for foreign currency to amounts that can be productively used in private sector of foreign country, and requiring that sales for foreign currency through financial intermediaries be on terms and conditions specified in agreements.
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing President to negotiate agreements with friendly countries for sales of commodities for dollars on credit terms, or for foreign currencies, on credit or on terms permitting conversion to dollars, setting minimum level for sales in foreign currencies, limiting extent of sales for foreign currency to amounts that can be productively used in private sector of foreign country, and requiring that sales for foreign currency through financial intermediaries be on terms and conditions specified in agreements.
 
 1987—Subsec. (b)(1). Pub. L. 100–202, §8(1), inserted provisions which required for each of fiscal years 1988 through 1990 that each agreement provide for some sale of foreign currencies for use under section 1708 of this title unless the President determines that the level of agricultural commodities furnished under this subchapter will be significantly reduced as a result of this sentence.
 
@@ -76,7 +76,7 @@ Section 3 of act Aug. 3, 1956, ch. 933, 70 Stat. 988, provided that: “Sales of
 
 #### Implementation of Program
 
-Program under this subchapter to provide for sale of agricultural commodities to developing countries to be implemented by Secretary of Agriculture, see Ex. Ord.No. 12752, §1(a), Feb. 25, 1991, 56 F.R. 8255, set out as a note under section 1691 of this title.
+Program under this subchapter to provide for sale of agricultural commodities to developing countries to be implemented by Secretary of Agriculture, see Ex. Ord. No. 12752, §1(a), Feb. 25, 1991, 56 F.R. 8255, set out as a note under section 1691 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@ This section closely parallels title 34, U.S.C., 1946 ed., §§600a, 600b, which
 
 1984—Pub. L. 98–557 substituted “$100,000” for “$25,000”.
 
-1976—Pub. L. 94–546 struck out subsection designation “(a)” and substituted “Secretary” for “Secretary of the Treasury” wherever appearing, “deposited in the Treasury of the United States” for “covered into the Treasury of the United States”, and “authorized by this section” for “authorized by this title”.
+1976—Pub. L. 94–546 struck out subsection designation “(a)” and substituted “Secretary” for “Secretary ofthe Treasury” wherever appearing, “deposited in the Treasury of the United States” for “covered into the Treasury of the United States”, and “authorized by this section” for “authorized by this title”.
 
 1960—Pub. L. 86–533 repealed subsec. (b) which required the Secretary of the Treasury to report to Congress with respect to payments received by the United States in excess of $3,000.
 

@@ -30,5 +30,7 @@ Nov. 5, 1990, Pub. L. 101–510, title XVI, §1605(a), (b) (related to discrimin
 
 36:4805(b) (related to discrimination in membership).
 
+&nbsp;
+
 In subsection (a), the words “Except as provided in this chapter” are substituted for “Subject to subsection (b) of this section” for consistency in the revised title.
 

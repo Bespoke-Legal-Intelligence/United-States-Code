@@ -122,7 +122,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of determining whether merchandise developed after an investigation is initiated under this subtitle or section 1303 <sup>2</sup> of this title (hereafter in this paragraph referred to as the “later-developed merchandise”) is within the scope of an outstanding antidumping or countervailing duty order issued under this subtitle or section 1303 <sup>2</sup> of this title as a result of such investigation, the administering authority shall consider whether—
+&emsp;For purposes of determining whether merchandise developed after an investigation is initiated under this subtitle or section 1303 <sup>2</sup> of this title (hereafter in this paragraph referred to as the “later-developed merchandise”) iswithin the scope of an outstanding antidumping or countervailing duty order issued under this subtitle or section 1303 <sup>2</sup> of this title as a result of such investigation, the administering authority shall consider whether—
 
 &emsp;&emsp;(A) the later-developed merchandise has the same general physical characteristics as the merchandise with respect to which the order was originally issued (hereafter in this paragraph referred to as the “earlier product”),
 
@@ -186,7 +186,7 @@ Subsec. (f). Pub. L. 103–465, §230(b), added subsec. (f).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTOAgreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
 #### Effective Date
 

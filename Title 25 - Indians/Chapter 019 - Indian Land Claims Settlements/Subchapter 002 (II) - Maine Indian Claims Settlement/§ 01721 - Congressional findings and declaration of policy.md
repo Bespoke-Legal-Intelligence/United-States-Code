@@ -12,7 +12,7 @@ Congress hereby finds and declares that:
 
 &emsp;(4) The Passamaquoddy Tribe, as represented as of the time of passage of this subchapter by the Joint Tribal Council of the Passamaquoddy Tribe, is the sole successor in interest to the aboriginal entity generally known as the Passamaquoddy Tribe which years ago claimed aboriginal title to certain lands in the State of Maine.
 
-&emsp;(5) The Houlton Band of Maliseet Indians, as represented as of the time of passage of this subchapter by the Houlton Band Council, isthe sole successor in interest, as to lands within the United States, to the aboriginal entity generally known as the Maliseet Tribe which years ago claimed aboriginal title to certain lands in the State of Maine.
+&emsp;(5) The Houlton Band of Maliseet Indians, as represented as of the time of passage of this subchapter by the Houlton Band Council, is the sole successor in interest, as to lands within the United States, to the aboriginal entity generally known as the Maliseet Tribe which years ago claimed aboriginal title to certain lands in the State of Maine.
 
 &emsp;(6) Substantial economic and social hardship to a large number of landowners, citizens, and communities in the State of Maine, and therefore to the economy of the State of Maine as a whole, will result if the aforementioned claims are not resolved promptly.
 
@@ -20,7 +20,7 @@ Congress hereby finds and declares that:
 
 &emsp;(8) The State of Maine, with the agreement of the Passamaquoddy Tribe and the Penobscot Nation, has enacted legislation defining the relationship between the Passamaquoddy Tribe, the Penobscot Nation, and their members, and the State of Maine.
 
-&emsp;(9) Since 1820, the State of Maine has provided special services to the Indians residing within its borders, including the members of the Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians. During this same period, the United States provided few special services to the respective tribe, nation, or band, and repeatedly denied that it had jurisdiction over or responsibility for the said tribe, nation, and band. In view of this provision of special services by the State of Maine, requiring substantial expenditures by the State of Maine and made by the State of Maine without being required to do so by Federal law, it is the intent of Congress that the State of Maine not be required further to contribute directly to this claims settlement.
+&emsp;(9) Since 1820, the State of Maine has provided special services to the Indians residing within its borders, including the members of the Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians. During this same period, the United States provided few special services to the respective tribe, nation, or band, and repeatedly denied that it had jurisdiction over or responsibility for the said tribe, nation, and band. Inview of this provision of special services by the State of Maine, requiring substantial expenditures by the State of Maine and made by the State of Maine without being required to do so by Federal law, it is the intent of Congress that the State of Maine not be required further to contribute directly to this claims settlement.
 
 #### (b) Purposes
 
@@ -86,7 +86,7 @@ Purpose.—It is the purpose of this Act to—
 
 “For the purposes of this Act:
 
-&emsp;“(1) The term ‘Band’ means the Aroostook Band of Micmacs, the sole successor to the Micmac Nation asconstituted in aboriginal times in what is now the State of Maine, and all its predecessors and successors in interest. The Aroostook Band of Micmacs is represented, as of the date of enactment of this Act \[Nov. 26, 1991\], as to lands within the United States, by the Aroostook Micmac Council.
+&emsp;“(1) The term ‘Band’ means the Aroostook Band of Micmacs, the sole successor to the Micmac Nation as constituted in aboriginal times in what is now the State of Maine, and all its predecessors and successors in interest. The Aroostook Band of Micmacs is represented, as of the date of enactment of this Act \[Nov. 26, 1991\], as to lands within the United States, by the Aroostook Micmac Council.
 
 &emsp;“(2) The term ‘Band Tax Fund’ means the fund established under section 4(b) of this Act.
 
@@ -108,7 +108,7 @@ Purpose.—It is the purpose of this Act to—
 
 “(a)
 
-Land Acquisition Fund.—There is hereby established in the Treasury of the United States a fund to be known as the Aroostook Band of Micmacs Land Acquisition Fund, into which $900,000 shall be deposited by the Secretary following the appropriation of sums authorized by section 10.
+Land Acquisition Fund.—There is hereby established in the Treasury of the United States a fund to be known as the Aroostook Band of Micmacs Land Acquisition Fund, into which $900,000 shall be deposited bythe Secretary following the appropriation of sums authorized by section 10.
 
 “(b)
 
@@ -178,7 +178,7 @@ Alienation.—(1) Land or natural resources acquired with funds expended under t
 
 “(c)
 
-Condemnation by State of Maine and Political Subdivisions Thereof.—(1) Land or natural resources acquired with funds expended under the authority of subsection (a) and held in trust for the benefit of the Band may be condemned for public purposes by theState of Maine, or any political subdivision thereof, only upon such terms and conditions as shall be agreed upon in writing between the State and such Band after the date of enactment of this Act \[Nov. 26, 1991\].
+Condemnation by State of Maine and Political Subdivisions Thereof.—(1) Land or natural resources acquired with funds expended under the authority of subsection (a) and held in trust for the benefit of the Band may be condemned for public purposes by the State of Maine, or any political subdivision thereof, only upon such terms and conditions as shall be agreed upon in writing between the State and such Band after the date of enactment of this Act \[Nov. 26, 1991\].
 
 “(2) The consent of the United States is hereby given to the State of Maine to further amend the Micmac Settlement Act for the purpose of embodying the agreement described in paragraph (1).
 

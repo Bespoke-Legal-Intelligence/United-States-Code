@@ -16,7 +16,7 @@
 
 #### (b) Review factors
 
-(1) In conducting reviews under subsection (a) of this section, the Trade Representative shall consider any evidence of actual patterns of trade (including United States exports to a foreign country of telecommunications products and services, including sales and services related to those products) that do not reflect patterns of trade which would reasonably be anticipated toflow from the concessions or commitments of such country based on the international competitive position and export potential of such products and services.
+(1) In conducting reviews under subsection (a) of this section, the Trade Representative shall consider any evidence of actual patterns of trade (including United States exports to a foreign country of telecommunications products and services, including sales and services related to those products) that do not reflect patterns of trade which would reasonably be anticipated to flow from the concessions or commitments of such country based on the international competitive position and export potential of such products and services.
 
 (2) The Trade Representative shall consult with the United States International Trade Commission with regard to the actual patterns of trade described in paragraph (1).
 

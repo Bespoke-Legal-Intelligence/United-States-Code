@@ -2,7 +2,7 @@
 
 #### (a) False statements; overvaluation of securities
 
-Whoever makes any statement knowing it to be false, or whoever willfully overvalues any security, for the purpose of obtaining for himself or for any applicant any loan, or extension thereof by renewal, deferment of action, or otherwise, or the acceptance, release, or substitution of security therefor, or for the purpose of influencing in any way the action of the Administration, or for the purpose of obtaining money, property, or anything of value, under this chapter, shall be punished by a fine of not more than $5,000 or by imprisonment for not more than two years, or both.
+Whoever makes any statement knowing it to be false, or whoever willfully overvalues any security, for the purpose of obtaining for himselfor for any applicant any loan, or extension thereof by renewal, deferment of action, or otherwise, or the acceptance, release, or substitution of security therefor, or for the purpose of influencing in any way the action of the Administration, or for the purpose of obtaining money, property, or anything of value, under this chapter, shall be punished by a fine of not more than $5,000 or by imprisonment for not more than two years, or both.
 
 #### (b) Embezzlement, etc.
 
@@ -40,7 +40,7 @@ Any representation of the status of any concern or person as a “small business
 
 #### (f) Misrepresentation of compliance with section 636(j)(10)(I)
 
-Whoever falsely certifies past compliance with the requirements of section 636(j)(10)(I) of thistitle shall be subject to the penalties prescribed in subsection (d) of this section.
+Whoever falsely certifies past compliance with the requirements of section 636(j)(10)(I) of this title shall be subject to the penalties prescribed in subsection (d) of this section.
 
 (Pub. L. 85–536, §2\[16\], July 18, 1958, 72 Stat. 395; Pub. L. 88–264, §2, Feb. 5, 1964, 78 Stat. 8; Pub. L. 99–272, title XVIII, §18009, Apr. 7, 1986, 100 Stat. 368; Pub. L. 100–656, title IV, §405, Nov. 15, 1988, 102 Stat. 3875; Pub. L. 103–355, title VII, §7106(c), Oct. 13, 1994, 108 Stat. 3376; Pub. L. 105–85, div. A, title X, §1073(g)(4), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 105–135, title VI, §603(c), Dec. 2, 1997, 111 Stat. 2632.)
 
@@ -48,7 +48,7 @@ Whoever falsely certifies past compliance with the requirements of section 636(j
 
 The Program Fraud Civil Remedies Act of 1986 (31 U.S.C. 3801–3812), referred to in subsec. (d)(2)(B), is subtitle B of title VI of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1934, as amended, which is classified generally to chapter 38 (§3801 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 3801 of Title 31 and Tables.
 
-The Small Business Investment Act of 1958, referred to in subsec. (d)(2)(D), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (d)(2)(D), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 #### Prior Provisions
 

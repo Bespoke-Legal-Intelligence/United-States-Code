@@ -12,5 +12,5 @@ This section incorporates only the first clause of former section 115. The balan
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 

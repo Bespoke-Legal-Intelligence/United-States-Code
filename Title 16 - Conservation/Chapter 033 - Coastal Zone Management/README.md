@@ -5,7 +5,7 @@
 | [1451\.](%C2%A7%2001451%20-%20Congressional%20findings.md) | Congressional findings. |
 | [1452\.](%C2%A7%2001452%20-%20Congressional%20declaration%20of%20policy.md) | Congressional declaration of policy. |
 | [1453\.](%C2%A7%2001453%20-%20Definitions.md) | Definitions. |
-| [1454\.](%C2%A7%2001454%20-%20Management%20program%20development%20grants.md) | Management program development grants. |
+| [1454\.](%C2%A7%2001454%20-%20Submittal%20of%20State%20program%20for%20approval.md) | Submittal of State program for approval. |
 | [1455\.](%C2%A7%2001455%20-%20Administrative%20grants.md) | Administrative grants. |
 | (a) | Authorization; matching funds. |
 | (b) | Grants to coastal states; requirements. |
@@ -113,7 +113,7 @@ This chapter is referred to in sections 544<i>l</i>, 1455b, 3505, 3509 of this t
 - [&sect; 01451 - Congressional findings](%C2%A7%2001451%20-%20Congressional%20findings.md)
 - [&sect; 01452 - Congressional declaration of policy](%C2%A7%2001452%20-%20Congressional%20declaration%20of%20policy.md)
 - [&sect; 01453 - Definitions](%C2%A7%2001453%20-%20Definitions.md)
-- [&sect; 01454 - Management program development grants](%C2%A7%2001454%20-%20Management%20program%20development%20grants.md)
+- [&sect; 01454 - Submittal of State program for approval](%C2%A7%2001454%20-%20Submittal%20of%20State%20program%20for%20approval.md)
 - [&sect; 01455 - Administrative grants](%C2%A7%2001455%20-%20Administrative%20grants.md)
 - [&sect; 01455a - Coastal resource improvement program](%C2%A7%2001455a%20-%20Coastal%20resource%20improvement%20program.md)
 - [&sect; 01455b - Protecting coastal waters](%C2%A7%2001455b%20-%20Protecting%20coastal%20waters.md)

@@ -22,7 +22,7 @@ Missouri is divided into two judicial districts to be known as the Eastern and W
 
 (b) The Western District comprises five divisions.
 
-&emsp;&emsp;(1) The Western Division comprises the counties of Bates, Carroll, Cass, Clay, Henry, Jackson, Johnson, Lafayette, Ray, Saint Clair, and Saline.
+&emsp;&emsp;(1) The Western Division comprises the counties of Bates, Carroll, Cass, Clay,Henry, Jackson, Johnson, Lafayette, Ray, Saint Clair, and Saline.
 
 &emsp;&emsp;Court for the Western Division shall be held at Kansas City.
 
@@ -30,7 +30,7 @@ Missouri is divided into two judicial districts to be known as the Eastern and W
 
 &emsp;&emsp;Court for the Southwestern Division shall be held at Joplin.
 
-&emsp;&emsp;(3) The Saint Joseph Division comprises the counties of Andrew, Atchison, Buchanan,Caldwell, Clinton, Daviess, De Kalb, Gentry, Grundy, Harrison, Holt, Livingston, Mercer, Nodaway, Platte, Putnam, Sullivan, and Worth.
+&emsp;&emsp;(3) The Saint Joseph Division comprises the counties of Andrew, Atchison, Buchanan, Caldwell, Clinton, Daviess, De Kalb, Gentry, Grundy, Harrison, Holt, Livingston, Mercer, Nodaway, Platte, Putnam, Sullivan, and Worth.
 
 &emsp;&emsp;Court for the Saint Joseph Division shall be held at Saint Joseph.
 

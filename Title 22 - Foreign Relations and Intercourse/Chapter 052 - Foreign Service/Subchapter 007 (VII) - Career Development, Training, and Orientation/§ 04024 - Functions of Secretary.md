@@ -42,7 +42,7 @@ The Secretary may provide to family members of members of the Service or of empl
 
 &emsp;(B) be certified by an appropriate official of the Department of State to be qualified by knowledge and experience to perform such function.
 
-(2) As used in this subsection, the term “consular function” includes the issuance of visas,the performance of notarial and other legalization functions, the adjudication of passport applications, the adjudication of nationality, and the issuance of citizenship documentation.
+(2) As used in this subsection, the term “consular function” includes the issuance of visas, the performance of notarial and other legalization functions, the adjudication of passport applications, the adjudication of nationality, and the issuance of citizenship documentation.
 
 (Pub. L. 96–465, title I, §704, Oct. 17, 1980, 94 Stat. 2100; Pub. L. 97–241, title I, §125(1), Aug. 24, 1982, 96 Stat. 281; Pub. L. 103–236, title I, §126(3), Apr. 30, 1994, 108 Stat. 394; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2222(f), Oct. 21, 1998, 112 Stat. 2681–819.)
 

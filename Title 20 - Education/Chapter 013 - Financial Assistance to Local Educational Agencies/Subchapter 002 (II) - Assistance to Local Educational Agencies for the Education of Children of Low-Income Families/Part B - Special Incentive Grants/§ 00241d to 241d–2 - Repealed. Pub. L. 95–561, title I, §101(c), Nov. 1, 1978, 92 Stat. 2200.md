@@ -1,6 +1,6 @@
 ### §§241d to 241d–2. Repealed. Pub. L. 95–561, title I, §101(c), Nov. 1, 1978, 92 Stat. 2200
 
-Section 241d, act Sept. 30, 1950, ch. 1124, title II, §126, formerly §121, as added Apr. 13, 1970, Pub. L. 91–230,title I, §113(b)(6), 84 Stat. 126, renumbered Aug. 21, 1974, Pub. L. 93–380, title I, §101(a)(3), 88 Stat. 495, and amended Oct. 12, 1976, Pub. L. 94–482, title V, §501(b)(1)(B), 90 Stat. 2236, related to maximum entitlement for special incentive grants.
+Section 241d, act Sept. 30, 1950, ch. 1124, title II, §126, formerly §121, as added Apr. 13, 1970, Pub. L. 91–230, title I, §113(b)(6), 84 Stat. 126, renumbered Aug. 21, 1974, Pub. L. 93–380, title I, §101(a)(3), 88 Stat. 495, and amended Oct. 12, 1976, Pub. L. 94–482, title V, §501(b)(1)(B), 90 Stat. 2236, related to maximum entitlement for special incentive grants.
 
 A prior section 241d, act Sept. 30, 1950, ch. 1124, title I, §104, formerly §204, as added by Pub. L. 89–10, title I, §2, Apr. 11, 1965, 79 Stat. 30, and renumbered by Pub. L. 90–247, title I, §110, Jan. 2, 1968, 81 Stat. 787, making provision for special incentive grants to local educational agencies, was repealed by Pub. L. 89–750, title I, §108(a), Nov. 3, 1966, 80 Stat. 1195. Such repeal, pursuant to section 191 of Pub. L. 89–750, was effective with respect to fiscal years beginning after June 30, 1966.
 

@@ -16,7 +16,7 @@ Approval Required for Downgrading or Disposal.—A facility of a rail carrier or
 
 Notification and Analysis.—(1) A rail carrier intending to downgrade or dispose of a facility Amtrak currently is not using to provide transportation shall notify Amtrak of its intention. If, not later than 60 days after Amtrak receives the notice, Amtrak and the carrier do not agree to retain or maintain the facility or to convey an interest in the facility to Amtrak, the carrier may apply to the Secretary for approval to downgrade or dispose of the facility.
 
-(2) After a rail carrier notifies Amtrak of its intention to downgrade or dispose of a facility, Amtrak shall survey population centers with rail passenger transportation facilities to assist in preparing a valid and timely analysis of the need for the facility and shall update the survey as appropriate. Amtrak also shall maintain a system for collecting information gathered inthe survey. The system shall collect the information based on geographic regions and on whether the facility would be part of a short haul or long haul route. The survey should facilitate an analysis of—
+(2) After a rail carrier notifies Amtrak of its intention to downgrade or dispose of a facility, Amtrak shall survey population centers with rail passenger transportation facilities to assist in preparing a valid and timely analysis of the need for the facility and shall update the survey as appropriate. Amtrak also shall maintain a system for collecting information gathered in the survey. The system shall collect the information based on geographic regions and on whether the facility would be part of a short haul or long haul route. The survey should facilitate an analysis of—
 
 &emsp;(A) ridership potential by ascertaining existing and changing travel patterns that would provide maximum efficient rail passenger transportation;
 
@@ -34,7 +34,7 @@ Notification and Analysis.—(1) A rail carrier intending to downgrade or dispos
 
 Approval of Application and Payment of Avoidable Costs.—(1) If Amtrak does not object to an application not later than 30 days after it is submitted, the Secretary shall approve the application promptly.
 
-(2) If Amtrak objects to an application, the Secretary shall decide by not later than 180 days after the objection those costs the rail carrier may avoid if it does not have to retain or maintain a facility in the condition Amtrak requests. If Amtrak does not agree by not later than 60 days after the decision to pay the carrier these avoidable costs, the Secretary shall approve the application. When deciding whether to pay a carrier the avoidable costs of retaining or maintaining a facility, Amtrak shall consider—
+(2) If Amtrak objects to an application, the Secretary shall decide by not later than 180 days after the objection those costs the rail carrier may avoid if it does not have to retain or maintain a facility in the condition Amtrak requests. If Amtrak does not agree by not later than 60 days after the decision to pay the carrier these avoidable costs, the Secretary shall approve the application. When deciding whether to pay acarrier the avoidable costs of retaining or maintaining a facility, Amtrak shall consider—
 
 &emsp;(A) the potential importance of restoring rail passenger transportation on the route on which the facility is located;
 

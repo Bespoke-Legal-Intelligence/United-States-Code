@@ -104,7 +104,7 @@ In the case of an installment obligation to which this section applies—
 
 #### (4) Secured indebtedness
 
-&emsp;For purposes of this subsection indebtedness is secured by an installment obligation to the extent that payment of principal or interest on such indebtedness is directly secured (under the terms of the indebtedness or any underlying arrangements) by any interest in such installment obligation.
+&emsp;For purposes of this subsection indebtedness is secured by an installment obligation to the extent that payment of principal or interest on such indebtedness is directly secured (under the terms of the indebtedness or any underlying arrangements) by any interest in such installment obligation. A payment shall be treated as directly secured by an interest in an installment obligation to the extent an arrangement allows the taxpayer to satisfy all or a portion of the indebtedness with the installment obligation.
 
 #### (e) Regulations
 
@@ -114,13 +114,15 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 &emsp;(2) providing that the sale of an interest in a partnership or other pass-thru entity will be treated as a sale of the proportionate share of the assets of the partnership or other entity.
 
-(Added Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2251; amended Pub. L. 99–514, title VIII, §812(b), Oct. 22, 1986, 100 Stat. 2371; Pub. L. 100–203, title X, §10202(c)\[(1)\], Dec. 22, 1987, 101 Stat. 1330–390; Pub. L. 100–647, title I, §1008(g)(2), title II, §2004(d)(2), (7), (8), title V, §5076(a), (b)(1), Nov. 10, 1988, 102 Stat. 3442, 3599, 3600, 3682; Pub. L. 101–239, title VII, §§7812(c)(2), 7815(g), 7821(a)(1)–(3), (4)(B), Dec. 19, 1989, 103 Stat. 2412,2420, 2423, 2424; Pub. L. 103–66, title XIII, §13201(b)(4), Aug. 10, 1993, 107 Stat. 459.)
+(Added Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2251; amended Pub. L. 99–514, title VIII, §812(b), Oct. 22, 1986, 100 Stat. 2371; Pub. L. 100–203, title X, §10202(c)\[(1)\], Dec. 22, 1987, 101 Stat. 1330–390; Pub. L. 100–647, title I, §1008(g)(2), title II, §2004(d)(2), (7), (8), title V, §5076(a), (b)(1), Nov. 10, 1988, 102 Stat. 3442, 3599, 3600, 3682; Pub. L. 101–239, title VII, §§7812(c)(2), 7815(g), 7821(a)(1)–(3), (4)(B), Dec. 19, 1989, 103 Stat. 2412, 2420, 2423, 2424; Pub. L. 103–66, title XIII, §13201(b)(4), Aug. 10, 1993, 107 Stat. 459; Pub. L. 106–170, title V, §536(b), Dec. 17, 1999, 113 Stat. 1936.)
 
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in former section 453 of this title.
 
 #### Amendments
+
+1999—Subsec. (d)(4). Pub. L. 106–170 inserted at end “A payment shall be treated as directly secured by an interest in an installment obligation to the extent an arrangement allows the taxpayer to satisfy all or a portion of the indebtedness with the installment obligation.”
 
 1993—Subsec. (c)(3). Pub. L. 103–66 inserted at end “For purposes of applying the preceding sentence with respect to so much of the gain which, when recognized, will be treated as long-term capital gain, the maximum rate on net capital gain under section 1(h) or 1201 (whichever is appropriate) shall be taken into account.”
 
@@ -157,6 +159,10 @@ Subsec. (e). Pub. L. 100–647, §2004(d)(2), added subsec. (e).
 1986—Subsec. (a)(2). Pub. L. 99–514, §812(b)(1), struck out last sentence which read as follows: “This paragraph shall not apply with respect to sales of personal property under a revolving credit type plan.”
 
 Subsec. (c). Pub. L. 99–514, §812(b)(2), added subsec. (c).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to sales or other dispositions occurring on or after Dec. 17, 1999, see section 536(c) of Pub. L. 106–170, set out as a note under section 453 of this title.
 
 #### Effective Date of 1993 Amendment
 

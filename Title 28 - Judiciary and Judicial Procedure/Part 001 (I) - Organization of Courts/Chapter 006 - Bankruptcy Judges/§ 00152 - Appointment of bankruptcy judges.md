@@ -136,7 +136,7 @@
 
 (c) Each bankruptcy judge may hold court at such places within the judicial district, in addition to the official duty station of such judge, as the business of the court may require.
 
-(d) With the approval of the Judicial Conference and of each of the judicial councils involved, a bankruptcy judge may be designated to serve in any district adjacent to or near the district for which such bankruptcy judge was appointed.
+(d) With the approval of the Judicial Conference and of each of the judicial councils involved, a bankruptcy judge may be designatedto serve in any district adjacent to or near the district for which such bankruptcy judge was appointed.
 
 (e) A bankruptcy judge may be removed during the term for which such bankruptcy judge is appointed, only for incompetence, misconduct, neglect of duty, or physical or mental disability and only by the judicial council of the circuit in which the judge's official duty station is located. Removal may not occur unless a majority of all of the judges of such council concur in the order of removal. Before any order of removal may be entered, a full specification of charges shall be furnished to such bankruptcy judge who shall be accorded an opportunity to be heard on such charges.
 
@@ -144,7 +144,7 @@
 
 #### Amendments
 
-1992—Subsec. (a)(2). Pub. L. 102–361, §2, in item relating to district of Arizona substituted “7” for “5”, initem relating to central district of California substituted “21” for “19”, in item relating to district of Connecticut substituted “3” for “2”, in item relating to middle district of Florida substituted “8” for “4”, in item relating to southern district of Florida substituted “5” for “3”, in item relating to northern district of Georgia substituted “8” for “6”, inserted item relating to middle and southern districts of Georgia, in item relating to district of Maryland substituted “4” for “3”, in item relating to district of Massachusetts substituted “5” for “4”, in item relating to district of New Jersey substituted “8” for “7”, in item relating to southern district of New York substituted “9” for “7”, in item relating to eastern district of Pennsylvania substituted “5” for “3”, in item relating to middle district of Tennessee substituted “3” for “2”, in item relating to western district of Tennessee substituted “4” for “3”, in item relating to northern district of Texas substituted “6” for “5”, and in item relating to eastern district of Virginia substituted “5” for “4”.
+1992—Subsec. (a)(2). Pub. L. 102–361, §2, in item relating to district of Arizona substituted “7” for “5”, in item relating to central district of California substituted “21” for “19”, in item relating to district of Connecticut substituted “3” for “2”, in item relating to middle district of Florida substituted “8” for “4”, in item relating to southern district of Florida substituted “5” for “3”, in item relating to northern district of Georgia substituted “8” for “6”, inserted item relating to middle and southern districts of Georgia, in item relating to district of Maryland substituted “4” for “3”, in item relating to district of Massachusetts substituted “5” for “4”, in item relating to district of New Jersey substituted “8” for “7”, in item relating to southern district of New York substituted “9” for “7”, in item relating to eastern district of Pennsylvania substituted “5” for “3”, in item relating to middle district of Tennessee substituted “3” for “2”, in item relating to western district of Tennessee substituted “4” for “3”, in item relating to northern district of Texas substituted “6” for “5”, and in item relating to eastern district of Virginia substituted “5” for “4”.
 
 Subsec. (b)(3). Pub. L. 102–361, §4, added par. (3).
 
@@ -188,7 +188,7 @@ Appointments.—The following bankruptcy judges shall be appointed in the manner
 
 “(b)
 
-Vacancies.—The first vacancy in the office of bankruptcy judge in each of the judicial districts set forth in subsection (a), resulting from the death, retirement, resignation, or removal of a bankruptcy judge, and occurring 5 years or more after the appointment date of the judge named to fill the temporary judgeship position, shall not be filled. In the case of a vacancy resulting from the expiration of the term of a bankruptcy judge not described in the preceding sentence, that judge shall be eligible for reappointment as a bankruptcy judge in that district.”
+Vacancies.—The first vacancy in the office of bankruptcy judge in each of the judicial districts set forth in subsection (a), resulting from the death, retirement, resignation, or removal of a bankruptcy judge, and occurring 5 years or more after the appointment date of the judge named to fill the temporary judgeshipposition, shall not be filled. In the case of a vacancy resulting from the expiration of the term of a bankruptcy judge not described in the preceding sentence, that judge shall be eligible for reappointment as a bankruptcy judge in that district.”
 
 #### Extension and Termination of Term of Office of Part-Time Bankruptcy Judge Serving on July 2, 1986, in District of Oregon, Western District of Michigan, and Eastern District of Oklahoma
 
@@ -198,7 +198,7 @@ Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 718, provided that: “Notwit
 
 Section 106 of Pub. L. 98–353 provided that:
 
-“(a) Notwithstanding section 152 of title 28, United States Code, as added by this Act, the term of office ofa bankruptcy judge who is serving on the date of enactment of this Act \[July 10, 1984\] is extended to and expires four years after the date such bankruptcy judge was last appointed to such office or on October 1, 1986, whichever is later.
+“(a) Notwithstanding section 152 of title 28, United States Code, as added by this Act, the term of office of a bankruptcy judge who is serving on the date of enactment of this Act \[July 10, 1984\] is extended to and expires four years after the date such bankruptcy judge was last appointed to such office or on October 1, 1986, whichever is later.
 
 “(b)(1) Notwithstanding section 153(a) of title 28, United States Code, as added by this Act, and notwithstanding subsection (a) of this section, a bankruptcy judge serving on a part-time basis on the date of enactment of this Act \[July 10, 1984\] may continue to serve on such basis for a period not to exceed two years from the date of enactment of this Act \[July 10, 1984\].
 

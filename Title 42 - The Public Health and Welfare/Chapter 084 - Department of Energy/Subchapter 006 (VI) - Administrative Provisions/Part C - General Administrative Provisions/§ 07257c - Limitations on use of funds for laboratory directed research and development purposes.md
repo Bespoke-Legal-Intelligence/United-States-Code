@@ -14,7 +14,7 @@ Not more than 30 percent of the funds authorized to be appropriated or otherwise
 
 #### (d) Assessment of funding level for laboratory directed research and development
 
-The Secretary shall include in the report submitted under such section 7257b(1) of this title in 1998 an assessment of the funding required to carry out laboratory directed research and development, including a recommendation for the percentage of the funds provided to Government-owned, contractor-operated laboratories for national security activities that should be made available for such research and development under section 7257a(c) of this title.
+The Secretary shall include in the report submitted under such section 7257b(1) of this title in 1998 an assessment of the funding required tocarry out laboratory directed research and development, including a recommendation for the percentage of the funds provided to Government-owned, contractor-operated laboratories for national security activities that should be made available for such research and development under section 7257a(c) of this title.
 
 #### (e) “Laboratory directed research and development” defined
 
@@ -30,5 +30,5 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### “Congressional Defense Committees” Defined
 
-Congressional defense committees means the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security (now Committee on Armed Services) and the Committee on Appropriations of the House of Representatives, see section 3 of Pub. L. 105–85, 111 Stat. 1645.
+Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 105–85, 111 Stat. 1645, as amended by Pub. L. 106–65, div. A, title X, §1067(4), Oct. 5, 1999, 113 Stat. 774.
 

@@ -106,7 +106,7 @@
 
 &emsp;(B) The steamship Lane Victory (United States official number 248094), owned by the United States Merchant Marine Veterans of World War II, located in San Pedro, California.
 
-&emsp;(C) The steamship Jeremiah O'Brien (United States official number 243622), owned by the United States Maritime Administration.
+&emsp;(C) The steamship Jeremiah O'Brien (United States official number 243622), owned by the National Liberty Ship Memorial, Inc..<sup>2</sup>
 
 (2) The Secretary may issue a permit for a specific voyage or for not more than one year. The Secretary may impose specific requirements about the number of passengers to be carried, manning, the areas or specific routes over which the vessel may operate, or other similar matters.
 
@@ -118,7 +118,7 @@
 
 &emsp;(2) a flammable or combustible liquid, including oil, in bulk.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(3), July 17, 1984, 98 Stat. 445; Pub. L. 99–307, §1(3), (4), May 19, 1986, 100 Stat. 444; Pub. L. 101–595, title III, §303(a), title VI, §§602(b), 603(2), Nov. 16, 1990, 104 Stat. 2983, 2990, 2993; Pub. L. 103–206, title III, §311, Dec. 20, 1993, 107 Stat. 2426; Pub. L. 104–324, title VII, §711, title XI, §1110, Oct. 19, 1996, 110 Stat. 3935, 3969.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(3), July 17, 1984, 98 Stat. 445; Pub. L. 99–307, §1(3), (4), May 19, 1986, 100 Stat. 444; Pub. L. 101–595, title III, §303(a), title VI, §§602(b), 603(2), Nov. 16, 1990, 104 Stat. 2983, 2990, 2993; Pub. L. 103–206, title III, §311, Dec. 20, 1993, 107 Stat. 2426; Pub. L. 104–324, title VII, §711, title XI, §1110, Oct. 19, 1996, 110 Stat. 3935, 3969; Pub. L. 106–65, div. C, title XXXVI, §3604, Oct. 5, 1999, 113 Stat. 976.)
 
 Historical and Revision Notes
 
@@ -143,6 +143,8 @@ Historical and Revision Notes
 Section 3302 does three things. It makes clear that a vessel included in one of the ten categories of vessels subject to inspection is not necessarily excluded from another category of vessel that is subject to inspection. For example, a vessel inspected and certified as a small passenger vessel would, when carrying oil or hazardous materials in bulk as cargo or cargo residue, also have to be inspected as a tank vessel. It makes it clear that a vessel excluded by section 3302 from the requirements of inspection in any one of the ten categories is not necessarily excluded from inspection as a vessel in another category. This section also contains a number of exemptions for certain classes of vessels and for those vessels engaged in a specific trade that have been considered to be of a special circumstance.
 
 #### Amendments
+
+1999—Subsec. (<i>l</i>)(1)(C). Pub. L. 106–65 substituted “owned by the National Liberty Ship Memorial, Inc.” for “owned by the United States Maritime Administration”.
 
 1996—Subsec. (b). Pub. L. 104–324, §1110(1), substituted “Except as provided in subsection (c)(3) of this section, a fishing vessel” for “A fishing vessel,”.
 
@@ -215,4 +217,6 @@ Section 403 of Pub. L. 98–364, as amended by Pub. L. 99–36, §3, May 15, 198
 Section 2(i) of Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 599, provided that: “Each offshore supply vessel described in section 3302(g) of title 46 (as enacted by section 1 of this Act), that was registered with the Secretary of Transportation under section 4426a(7) of the Revised Statutes \[former 46 U.S.C. 404–1(7)\] but that has not been inspected by the Secretary shall be held to be in compliance with all applicable vessel inspection laws pending verification by actual inspection or until one year after the date of enactment of this Act \[Aug. 26, 1983\], whichever is earlier.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

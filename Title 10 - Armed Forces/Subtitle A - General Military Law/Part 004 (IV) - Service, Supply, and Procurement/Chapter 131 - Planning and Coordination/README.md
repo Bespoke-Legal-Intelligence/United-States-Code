@@ -26,10 +26,13 @@
 | \[2221. | Repealed.\] |
 | [2222\.](%C2%A7%2002222%20-%20Biennial%20financial%20management%20improvement%20plan.md) | Biennial financial management improvement plan. |
 | [2223\.](%C2%A7%2002223%20-%20Information%20technology%20additional%20responsibilities%20of%20Chief%20Information%20Officers.md) | Information technology: additional responsibilities of Chief Information Officers. |
+| [2224\.](%C2%A7%2002224%20-%20Defense%20Information%20Assurance%20Program.md) | Defense Information Assurance Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title X, §1043(b), Oct. 5, 1999, 113 Stat. 761, added item 2224.
 
 1998—Pub. L. 105–261, div. A, title III, §331(a)(2), title IX, §§906(f)(1), 911(a)(2), title X, §1008(b), Oct. 17, 1998, 112 Stat. 1968, 2096, 2099, 2117, added item 2212, struck out items 2216a “Defense Business Operations Fund” and 2221 “Fisher House trust funds”, and added item 2223.
 
@@ -94,3 +97,4 @@ Pub. L. 97–214, §10(a)(1), July 12, 1982, 96 Stat. 174, struck out item 2212 
 - [&sect; 02221 - Repealed. Pub. L. 105&#8211;261, div. A, title IX, &sect;906(f)(1), Oct. 17, 1998, 112 Stat. 2096](%C2%A7%2002221%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93261%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7906%28f%29%281%29%2C%20Oct.%2017%2C%201998%2C%20112%20Stat.%202096.md)
 - [&sect; 02222 - Biennial financial management improvement plan](%C2%A7%2002222%20-%20Biennial%20financial%20management%20improvement%20plan.md)
 - [&sect; 02223 - Information technology additional responsibilities of Chief Information Officers](%C2%A7%2002223%20-%20Information%20technology%20additional%20responsibilities%20of%20Chief%20Information%20Officers.md)
+- [&sect; 02224 - Defense Information Assurance Program](%C2%A7%2002224%20-%20Defense%20Information%20Assurance%20Program.md)

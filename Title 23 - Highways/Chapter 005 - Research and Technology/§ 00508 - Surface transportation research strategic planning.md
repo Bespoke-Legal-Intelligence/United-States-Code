@@ -74,7 +74,7 @@ Performance plans and reports.—In reports submitted under sections 1115 and 11
 
 (d)
 
-Merit Review and Performance Measurement.—Not later than 1 year after the date of enactment of this section, the Secretary shalltransmit to Congress a report describing competitive merit review procedures for use in selecting grantees and contractors in the programs covered by the plan developed under subsection (c) and performance measurement procedures for evaluating the programs.
+Merit Review and Performance Measurement.—Not later than 1 year after the date of enactment of this section, the Secretary shall transmit to Congress a report describing competitive merit review procedures for use in selecting grantees and contractors in the programs covered by the plan developed under subsection (c) and performance measurement procedures for evaluating the programs.
 
 (e)
 

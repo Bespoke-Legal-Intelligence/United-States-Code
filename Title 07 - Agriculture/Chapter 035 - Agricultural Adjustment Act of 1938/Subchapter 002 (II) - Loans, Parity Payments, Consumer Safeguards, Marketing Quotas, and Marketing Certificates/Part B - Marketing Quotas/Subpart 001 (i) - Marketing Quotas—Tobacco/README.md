@@ -21,5 +21,6 @@ subpart i—marketing quotas—tobacco
 - [&sect; 01314g - Submission of purchase intentions by cigarette manufacturers](%C2%A7%2001314g%20-%20Submission%20of%20purchase%20intentions%20by%20cigarette%20manufacturers.md)
 - [&sect; 01314h - Purchase requirements; penalty](%C2%A7%2001314h%20-%20Purchase%20requirements%3B%20penalty.md)
 - [&sect; 01314i - Domestic marketing assessment](%C2%A7%2001314i%20-%20Domestic%20marketing%20assessment.md)
+- [&sect; 01314j - Tobacco production and marketing information](%C2%A7%2001314j%20-%20Tobacco%20production%20and%20marketing%20information.md)
 - [&sect; 01315 - Burley tobacco acreage allotments](%C2%A7%2001315%20-%20Burley%20tobacco%20acreage%20allotments.md)
 - [&sect; 01316 - Transfer of allotments subsequent to 1965](%C2%A7%2001316%20-%20Transfer%20of%20allotments%20subsequent%20to%201965.md)

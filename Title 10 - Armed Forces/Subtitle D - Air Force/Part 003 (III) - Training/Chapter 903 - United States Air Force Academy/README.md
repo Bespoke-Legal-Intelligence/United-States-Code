@@ -5,6 +5,7 @@
 | [9331\.](%C2%A7%2009331%20-%20Establishment%3B%20Superintendent%3B%20faculty.md) | Establishment; Superintendent; faculty. |
 | [9332\.](%C2%A7%2009332%20-%20Departments%20and%20professors%20titles.md) | Departments and professors: titles. |
 | [9333\.](%C2%A7%2009333%20-%20Superintendent%3B%20faculty%20appointment%20and%20detail.md) | Superintendent; faculty: appointment and detail. |
+| [9333a.](%C2%A7%2009333a%20-%20Superintendent%20condition%20for%20detail%20to%20position.md) | Superintendent: condition for detail to position. |
 | [9334\.](%C2%A7%2009334%20-%20Command%20and%20supervision.md) | Command and supervision. |
 | [9335\.](%C2%A7%2009335%20-%20Dean%20of%20the%20Faculty.md) | Dean of the Faculty. |
 | [9336\.](%C2%A7%2009336%20-%20Permanent%20professors%3B%20director%20of%20admissions.md) | Permanent professors; director of admissions. |
@@ -26,12 +27,14 @@
 | [9353\.](%C2%A7%2009353%20-%20Cadets%20degree%20and%20commission%20on%20graduation.md) | Cadets: degree and commission on graduation. |
 | [9354\.](%C2%A7%2009354%20-%20Buildings%20and%20grounds%20buildings%20for%20religious%20worship.md) | Buildings and grounds: buildings for religious worship. |
 | [9355\.](%C2%A7%2009355%20-%20Board%20of%20Visitors.md) | Board of Visitors. |
-| \[9356. | Repealed.\] |
+| [9356\.](%C2%A7%2009356%20-%20Acceptance%20of%20guarantees%20with%20gifts%20for%20major%20projects.md) | Acceptance of guarantees with gifts for major projects. |
 | [9357\.](%C2%A7%2009357%20-%20Grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes%20acceptance%3B%20authorized%20grantees.md) | Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title V, §532(a)(4)(F), div. B, title XXVIII, §2871(c)(2), Oct. 5, 1999, 113 Stat. 604, 877, added items 9333a and 9356.
 
 1998—Pub. L. 105–261, div. A, title X, §1063(c)(2), Oct. 17, 1998, 112 Stat. 2132, added item 9357.
 
@@ -63,6 +66,7 @@ This chapter is referred to in title 37 section 209.
 - [&sect; 09331 - Establishment; Superintendent; faculty](%C2%A7%2009331%20-%20Establishment%3B%20Superintendent%3B%20faculty.md)
 - [&sect; 09332 - Departments and professors titles](%C2%A7%2009332%20-%20Departments%20and%20professors%20titles.md)
 - [&sect; 09333 - Superintendent; faculty appointment and detail](%C2%A7%2009333%20-%20Superintendent%3B%20faculty%20appointment%20and%20detail.md)
+- [&sect; 09333a - Superintendent condition for detail to position](%C2%A7%2009333a%20-%20Superintendent%20condition%20for%20detail%20to%20position.md)
 - [&sect; 09334 - Command and supervision](%C2%A7%2009334%20-%20Command%20and%20supervision.md)
 - [&sect; 09335 - Dean of the Faculty](%C2%A7%2009335%20-%20Dean%20of%20the%20Faculty.md)
 - [&sect; 09336 - Permanent professors; director of admissions](%C2%A7%2009336%20-%20Permanent%20professors%3B%20director%20of%20admissions.md)
@@ -84,5 +88,5 @@ This chapter is referred to in title 37 section 209.
 - [&sect; 09353 - Cadets degree and commission on graduation](%C2%A7%2009353%20-%20Cadets%20degree%20and%20commission%20on%20graduation.md)
 - [&sect; 09354 - Buildings and grounds buildings for religious worship](%C2%A7%2009354%20-%20Buildings%20and%20grounds%20buildings%20for%20religious%20worship.md)
 - [&sect; 09355 - Board of Visitors](%C2%A7%2009355%20-%20Board%20of%20Visitors.md)
-- [&sect; 09356 - Repealed. Pub. L. 104&#8211;106, div. A, title V, &sect;533(c)(1), Feb. 10, 1996, 110 Stat. 315](%C2%A7%2009356%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7533%28c%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20315.md)
+- [&sect; 09356 - Acceptance of guarantees with gifts for major projects](%C2%A7%2009356%20-%20Acceptance%20of%20guarantees%20with%20gifts%20for%20major%20projects.md)
 - [&sect; 09357 - Grants for faculty research for scientific, literary, and educational purposes acceptance; authorized grantees](%C2%A7%2009357%20-%20Grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes%20acceptance%3B%20authorized%20grantees.md)

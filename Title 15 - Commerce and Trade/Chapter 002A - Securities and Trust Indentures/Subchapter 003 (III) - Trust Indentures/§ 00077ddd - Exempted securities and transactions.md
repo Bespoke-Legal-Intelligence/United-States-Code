@@ -14,7 +14,7 @@ The provisions of this subchapter shall not apply to any of the following securi
 
 &emsp;(B) any security exempted from the provisions of the Securities Act of 1933, as amended \[15 U.S.C. 77a et seq.\], by paragraph (2) of subsection 3(a) thereof, as amended by section 401 of the Employment Security Amendments of 1970 \[15 U.S.C. 77c(a)(2)\];
 
-&emsp;(5) any security issued under a mortgage indenture as to which a contract of insurance under the National Housing Act \[12 U.S.C. 1701 et seq.\] is in effect; and any such security shall be deemed to be exempt from the provisions of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\]to the same extent as though such security were specifically enumerated in section 3(a)(2) of such Act \[15 U.S.C. §77c(a)(2)\];
+&emsp;(5) any security issued under a mortgage indenture as to which a contract of insurance under the National Housing Act \[12 U.S.C. 1701 et seq.\] is in effect; and any such security shall be deemed to be exempt from the provisions of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] to the same extent as though such security were specifically enumerated in section 3(a)(2) of such Act \[15 U.S.C. §77c(a)(2)\];
 
 &emsp;(6) any note, bond, debenture, or evidence of indebtedness issued or guaranteed by a foreign government or by a subdivision, department, municipality, agency, or instrumentality thereof;
 

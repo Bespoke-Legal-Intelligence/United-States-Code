@@ -58,5 +58,5 @@ A prior section 735 of act July 1, 1944, was classified to section 294h of this 
 
 #### Effective Date of 1992 Amendment
 
-Section 313(c) of Pub. L. 102–531 provided that: “The amendments described in this section \[amending this section and sections 293j, 293<i>l</i>, 294n, 295j, 295<i>l</i>, 295n, 295<i>o</i>, 296k, and 298b–7 of this title, repealing section 297j of this title, redesignating subpart IV of part B of subchapter VI of this chapter as subpart III, and amending provisions set out as a note under section 295k of this title\] are made, and take effect, immediately after the enactment of the bill, H.R. 3508, of the One Hundred Second Congress \[Pub. L. 102–408, approved Oct. 13, 1992\].”
+Section 313(c) of Pub. L. 102–531 provided that: “The amendments described in this section \[amending this section and sections 293j, 293<i>l</i>, 294n, 295j, 295<i>l</i>, 295n, 295<i>o</i>,296k, and 298b–7 of this title, repealing section 297j of this title, redesignating subpart IV of part B of subchapter VI of this chapter as subpart III, and amending provisions set out as a note under section 295k of this title\] are made, and take effect, immediately after the enactment of the bill, H.R. 3508, of the One Hundred Second Congress \[Pub. L. 102–408, approved Oct. 13, 1992\].”
 

@@ -38,7 +38,7 @@ Except as provided in section 960(a)(3), any distribution excluded from gross in
 
 #### (e) Coordination with amounts previously taxed under section 1248
 
-For purposes of this section and section 960(b), any amount included in the gross income of any person as a dividend by reason of subsection (a)or (f) of section 1248 shall be treated as an amount included in the gross income of such person (or, in any case to which section 1248(e) applies, of the domestic corporation referred to in section 1248(e)(2)) under section 951(a)(1)(A).
+For purposes of this section and section 960(b), any amount included in the gross income of any person as a dividend by reason of subsection (a) or (f) of section 1248 shall be treated as an amount included in the gross income of such person (or, in any case to which section 1248(e) applies, of the domestic corporation referred to in section 1248(e)(2)) under section 951(a)(1)(A).
 
 #### (f) Allocation rules for certain inclusions
 
@@ -48,7 +48,7 @@ For purposes of this section and section 960(b), any amount included in the gros
 
 #### (2) Treatment of distributions
 
-&emsp;In applying this section, actual distributions shall be taken into account before amounts that would be included under section 951(a)(1)(B) (determined without regard to this section).
+&emsp;In applying this section, actual distributions shall be taken into account before amountsthat would be included under section 951(a)(1)(B) (determined without regard to this section).
 
 (Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1019; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, §133(b)(1), July 18, 1984, 98 Stat. 668; Pub. L. 99–514, title XII, §1226(b), Oct. 22, 1986, 100 Stat. 2560; Pub. L. 100–647, title I, §1012(bb)(7)(A), Nov. 10, 1988, 102 Stat. 3536; Pub. L. 103–66, title XIII, §13231(c)(1), (2), (4)(A), (B), Aug. 10, 1993, 107 Stat. 497, 498; Pub. L. 104–188, title I, §1501(b)(4)–(8), Aug. 20, 1996, 110 Stat. 1826.)
 
@@ -114,7 +114,7 @@ Section 133(d)(2), (3) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2,
 
 Subsections (b)
 
-and (c).—Except as provided in paragraph (3), the amendments made by subsections (b) and (c) \[amending this section and section 1248 of this title\] shall apply with respect to transactions to which subsection (a) or (f) of section 1248 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies occurringafter the date of the enactment of this Act \[July 18, 1984\].
+and (c).—Except as provided in paragraph (3), the amendments made by subsections (b) and (c) \[amending this section and section 1248 of this title\] shall apply with respect to transactions to which subsection (a) or (f) of section 1248 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies occurring after the date of the enactment of this Act \[July 18, 1984\].
 
 “(3)
 

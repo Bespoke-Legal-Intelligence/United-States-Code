@@ -56,7 +56,7 @@ Upon a determination by the Administrator (or by a State, in the case of a State
 
 &emsp;(B) certifies that such facility is in compliance with all applicable groundwater monitoring and financial responsibility requirements.
 
-(3) In the case of each land disposal facility which is in existence on the effective date of statutory or regulatory changes under this chapter that render the facility subject to therequirement to have a permit under this section and which is granted interim status under this subsection, interim status shall terminate on the date twelve months after the date on which the facility first becomes subject to such permit requirement unless the owner or operator of such facility—
+(3) In the case of each land disposal facility which is in existence on the effective date of statutory or regulatory changes under this chapter that render the facility subject to the requirement to have a permit under this section and which is granted interim status under this subsection, interim status shall terminate on the date twelve months after the date on which the facility first becomes subject to such permit requirement unless the owner or operator of such facility—
 
 &emsp;(A) applies for a final determination regarding the issuance of a permit under subsection (c) of this section for such facility before the date twelve months after the date on which the facility first becomes subject to such permit requirement; and
 
@@ -126,7 +126,7 @@ The standards concerning ground water monitoring, unsaturated zone monitoring, a
 
 (B) In any case in which a surface impoundment is initially determined to be excluded from the requirements of paragraph (1) but due to a change in condition (including the existence of a leak) no longer satisfies the provisions of paragraph (2), (3), or (4) and therefore becomes subject to paragraph (1), the period for compliance in paragraph (1) shall be two years after the date of discovery of such change of condition, or in the case of a surface impoundment excluded under paragraph (3) three years after such date of discovery.
 
-(7)(A) The Administrator shall study and report to the Congress on the number, range of size, construction, likelihood of hazardous constituents migrating into ground water, and potential threat to human health and the environment of existing surface impoundments excludedby paragraph (3) from the requirements of paragraph (1). Such report shall address the need, feasibility, and estimated costs of subjecting such existing surface impoundments to the requirements of paragraph (1).
+(7)(A) The Administrator shall study and report to the Congress on the number, range of size, construction, likelihood of hazardous constituents migrating into ground water, and potential threat to human health and the environment of existing surface impoundments excluded by paragraph (3) from the requirements of paragraph (1). Such report shall address the need, feasibility, and estimated costs of subjecting such existing surface impoundments to the requirements of paragraph (1).
 
 (B) In the case of any existing surface impoundment or class of surface impoundments from which the Administrator (or the State, in the case of a State with an authorized program) determines hazardous constituents are likely to migrate into ground water, the Administrator (or if appropriate, the State) is authorized to impose such requirements as may be necessary to protect human health and the environment, including the requirements of section 6924(<i>o</i>) of this title which would apply to such impoundments if they were new.
 
@@ -160,7 +160,7 @@ The standards concerning ground water monitoring, unsaturated zone monitoring, a
 
 &emsp;(iii) such system utilizes activated sludge treatment in the first portion of secondary treatment.
 
-(C) For the purposes of this subsection, the term “underground source or <sup>3</sup> drinking water” has the same meaning as provided in regulations under the Safe Drinking Water Act (title XIV of the Public Health Service Act \[42 U.S.C. 300f et seq.\]).
+(C) For the purposes of this subsection, the term “underground source or <sup>3</sup> drinking water”has the same meaning as provided in regulations under the Safe Drinking Water Act (title XIV of the Public Health Service Act \[42 U.S.C. 300f et seq.\]).
 
 (13) The Administrator may modify the requirements of paragraph (1) in the case of a surface impoundment for which the owner or operator, prior to October 1, 1984, has entered into, and is in compliance with, a consent order, decree, or agreement with the Administrator or a State with an authorized program mandating corrective action with respect to such surface impoundment that provides a degree of protection of human health and the environment which is at a minimum equivalent to that provided by paragraph (1).
 

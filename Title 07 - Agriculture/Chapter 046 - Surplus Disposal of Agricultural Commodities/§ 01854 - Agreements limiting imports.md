@@ -34,7 +34,7 @@ Sec. 2. The Secretary of Agriculture, with the concurrence of the Secretary of S
 
 Sec. 3. The Commissioner of Customs shall take such actions and supply such information to the Secretary of Agriculture with respect to entry or withdrawal from warehouse for consumption in the United States of such meats as the Secretary of Agriculture, with the Concurrence of the Secretary of State and the Special Representative for Trade Negotiations \[United States Trade Representative\], may request to carry out any such agreements or regulations.
 
-Sec. 4. Heads of departments and heads of agencies are hereby authorized to redelegate within their respective departments or agencies the functions herein assigned to them, except that the function of negotiating agreements delegated to the United States Trade Representative by section 1 and the function of issuing regulations delegated to the Secretary of Agriculture by section 2 of this order may be redelegated only to officials required to be appointed by and with the advice and consent of the Senate, as provided by 3 U.S.C. 301.
+Sec. 4. Heads of departments and heads of agencies are hereby authorized to redelegate within their respective departments or agencies the functions herein assigned to them, except that the function of negotiating agreements delegated to the United States Trade Representative by section 1 and the function of issuing regulations delegated to the Secretary of Agricultureby section 2 of this order may be redelegated only to officials required to be appointed by and with the advice and consent of the Senate, as provided by 3 U.S.C. 301.
 
 #### Ex. Ord. No. 11651. Textile Trade Agreements
 
@@ -68,7 +68,7 @@ Section 1. The Secretary of the Treasury, with the concurrence of the Secretary 
 
 (a) to prevent the importation into the Customs Territory of the United States, except for the Commonwealth of Puerto Rico, of certain cheeses, originating in member states of the European Communities, upon which restitution payments have been made for export to (1) Puerto Rico, the Virgin Islands, other United States possessions and territories or (2) any country other than the United States;
 
-(b) to prevent the importation of such cheeses into the Commonwealth of Puerto Rico if such cheeses areimported into the Commonwealth of Puerto Rico for transshipment to other areas of the Customs Territory of the United States.
+(b) to prevent the importation of such cheeses into the Commonwealth of Puerto Rico if such cheeses are imported into the Commonwealth of Puerto Rico for transshipment to other areas of the Customs Territory of the United States.
 
 Sec. 2. Heads of departments and heads of agencies are hereby authorized to redelegate within their respective departments or agencies the functions herein assigned to them, except that the function of issuing regulations delegated to the Secretary of the Treasury by Section 1 of this order may be redelegated only to officials required to be appointed by and with the advice and consent of the Senate, as provided by 3 U.S.C. 301.
 

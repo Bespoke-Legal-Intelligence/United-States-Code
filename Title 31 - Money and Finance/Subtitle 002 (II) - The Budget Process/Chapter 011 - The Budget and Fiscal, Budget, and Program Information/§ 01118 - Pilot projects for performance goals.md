@@ -10,7 +10,7 @@
 
 &emsp;(2) identify any significant difficulties experienced by the pilot agencies in preparing plans and reports; and
 
-&emsp;(3) set forth any recommended changes in the requirements of the provisions of Government Performance and Results Act of 1993, section 306 of title 5, sections 1105, 1115, 1116, 1117, 1119 and 9703 <sup>1</sup> of this title, and this section.
+&emsp;(3) set forth any recommended changes in the requirements of the provisions of Government Performance and Results Act of 1993, section 306 of title 5, sections 1105, 1115, 1116,1117, 1119 and 9703 <sup>1</sup> of this title, and this section.
 
 (Added Pub. L. 103–62, §6(a), Aug. 3, 1993, 107 Stat. 290.)
 

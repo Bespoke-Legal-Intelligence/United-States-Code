@@ -14,7 +14,7 @@
 
 &emsp;(2) allowed sixty days from the date on which counsel is provided under paragraph (3) to submit any matters in rebuttal;
 
-&emsp;(3) provided counsel, certified under section 827(b) of title 10, to help prepare the rebuttal submitted under paragraph (2) and to represent the member before the Board under paragraph (5);
+&emsp;(3) provided counsel, certified under section 827(b) of title 10, to help prepare the rebuttalsubmitted under paragraph (2) and to represent the member before the Board under paragraph (5);
 
 &emsp;(4) allowed full access to and be furnished with copies of records relevant to the consideration for involuntary retirement prior to submission of the rebuttal submitted under paragraph (2); and
 
@@ -50,7 +50,7 @@
 
 &emsp;(2) the member's retired pay base under section 1407 of title 10, when a member's retired pay is computed under section 423(b) of this title.
 
-(j) When the Secretary orders a reduction in force, enlisted personnel may be involuntarilyseparated from the service without the Board's action.
+(j) When the Secretary orders a reduction in force, enlisted personnel may be involuntarily separated from the service without the Board's action.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 521; Aug. 3, 1950, ch. 536, §17, 64 Stat. 407; Pub. L. 88–114, §1(1), Sept. 6, 1963, 77 Stat. 144; Pub. L. 98–557, §15(a)(3)(A), (B), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 99–348, title II, §205(b)(9), July 1, 1986, 100 Stat. 700; Pub. L. 102–241, §6, Dec. 19, 1991, 105 Stat. 2210.)
 

@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(3) Environmental problems represent as significant a threat to the quality of life and the economic vitality of urban areas as they do the natural balance of rural areas.
 
-&emsp;(4) Effective response to complex environmental problems requires understanding of the natural and built environment, awareness of environmental problems and their origins (including those in urban areas), and the skills to solve these problems.
+&emsp;(4) Effective response to complex environmental problems requires understanding of thenatural and built environment, awareness of environmental problems and their origins (including those in urban areas), and the skills to solve these problems.
 
 &emsp;(5) Development of effective solutions to environmental problems and effective implementation of environmental programs requires a well educated and trained, professional work force.
 

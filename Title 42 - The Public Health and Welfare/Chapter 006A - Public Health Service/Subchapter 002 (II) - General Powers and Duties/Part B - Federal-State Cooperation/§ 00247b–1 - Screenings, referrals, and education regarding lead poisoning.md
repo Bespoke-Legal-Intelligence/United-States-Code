@@ -46,13 +46,13 @@ In making grants under subsection (a) of this section, the Secretary shall give 
 
 #### (d) Grant application
 
-No grant may be made under subsection (a) of this section, unless an application therefor has been submitted to, and approved by, the Secretary. Such an application shall be in such form and shall be submitted in such manner as the Secretary shall prescribe and shall include each of the following:
+No grant may be made under subsection (a) of this section, unless an application therefor has been submitted to, and approved by, the Secretary. Such an application shall be in suchform and shall be submitted in such manner as the Secretary shall prescribe and shall include each of the following:
 
 &emsp;(1) A complete description of the program which is to be provided by or through the applicant.
 
 &emsp;(2) Assurances satisfactory to the Secretary that the program to be provided under the grant applied for will include educational programs designed to—
 
-&emsp;&emsp;(A) communicate to parents, educators, and local health officials the significanceand prevalence of lead poisoning in infants and children (including the sources of lead exposure, the importance of screening young children for lead, and the preventive steps that parents can take in reducing the risk of lead poisoning) which the program is designed to detect and prevent; and
+&emsp;&emsp;(A) communicate to parents, educators, and local health officials the significance and prevalence of lead poisoning in infants and children (including the sources of lead exposure, the importance of screening young children for lead, and the preventive steps that parents can take in reducing the risk of lead poisoning) which the program is designed to detect and prevent; and
 
 &emsp;&emsp;(B) communicate to health professionals and paraprofessionals updated knowledge concerning lead poisoning and research (including the health consequences, if any, of low-level lead burden; the prevalence of lead poisoning among all socioeconomic groupings; the benefits of expanded lead screening; and the therapeutic and other interventions available to prevent and combat lead poisoning in affected children and families).
 
@@ -100,13 +100,13 @@ Each recipient of a grant under subsection (a) of this section shall keep such r
 
 #### (i) Audit and examination of records
 
-The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient of a grant under subsection (a) of this section, that are pertinent to such grant.
+The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for thepurpose of audit and examination to any books, documents, papers, and records of the recipient of a grant under subsection (a) of this section, that are pertinent to such grant.
 
 #### (j) Annual report
 
 #### (1) In general
 
-&emsp;Not later than May 1 of each year, the Secretary shall submit to the Congress a report on the effectiveness during the preceding fiscal year of programs carried out with grantsunder subsection (a) of this section and of any programs that are carried out by the Secretary pursuant to subsection (<i>l</i>)(2) of this section.
+&emsp;Not later than May 1 of each year, the Secretary shall submit to the Congress a report on the effectiveness during the preceding fiscal year of programs carried out with grants under subsection (a) of this section and of any programs that are carried out by the Secretary pursuant to subsection (<i>l</i>)(2) of this section.
 
 #### (2) Certain requirements
 

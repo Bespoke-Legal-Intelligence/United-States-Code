@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in title 12 sections 1464, 1786, 1817, 1818, 1829b, 3401, 3413; title 18 sections 1952, 1956, 1961; title 22 section 2714.
+This subchapter is referred to in title 12 sections 1464, 1786, 1817, 1818, 1829b, 3401, 3413; title 15 sections 78q, 6802; title 18 sections 1952, 1956, 1961; title 22 section 2714.
 
 
 ---

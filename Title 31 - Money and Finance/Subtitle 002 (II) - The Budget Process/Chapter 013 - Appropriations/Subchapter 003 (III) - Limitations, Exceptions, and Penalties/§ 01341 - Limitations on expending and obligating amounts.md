@@ -4,7 +4,7 @@
 
 &emsp;(A) make or authorize an expenditure or obligation exceeding an amount available in an appropriation or fund for the expenditure or obligation;
 
-&emsp;(B) involve either government in a contract or obligation for the payment of money beforean appropriation is made unless authorized by law;
+&emsp;(B) involve either government in a contract or obligation for the payment of money before an appropriation is made unless authorized by law;
 
 &emsp;(C) make or authorize an expenditure or obligation of funds required to be sequestered under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985; or
 
@@ -48,5 +48,5 @@ Section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985, re
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1349, 1350, 1351 of this title; title 2 section 60a–2; title 5 section 5306; title 8 section 1363a; title 12 section 1749bbb–8; title 16 section 450ss–4; title 19 section 2081; title 20 section 1225; title 22 sections 277d–3, 1461b, 2295b, 5857; title 26 section 7608; title 33 section 891d; title 40 section 490e; title 42 sections 2204, 2204a, 2210, 2295, 2394, 9619; title 43 section 377b; title 49 sections 40110, 40111, 40112; title 50 section 403f.
+This section is referred to in sections 1349, 1350, 1351 of this title; title 2 section 60a–2; title 5 section 5306; title 8 section 1363a; title 12 section 1749bbb–8; title 16 sections 450ss–4, 754c; title 19 section 2081; title 20 section 1225; title 22 sections 277d–3, 1461b, 2295b, 5857; title 26 section 7608; title 33 section 891d; title 40 section 490e; title 42 sections 2204, 2204a, 2210, 2295, 2394, 9619; title 43 section 377b; title 49 sections 40110, 40111, 40112; title 50 section 403f.
 

@@ -32,7 +32,7 @@ In developing strategies under subsection (a) of this section, the Secretary sha
 
 #### (1) In general
 
-&emsp;In consultation and coordination with the Great Lakes States, the Secretary shall develop a tributary sediment transport model for each major river system or set of major river systems depositing sediment into aGreat Lakes federally authorized commercial harbor, channel maintenance project site, or Area of Concern identified under the Great Lakes Water Quality Agreement of 1978. Such model may be developed as a part of a strategy developed under subsection (a) of this section.
+&emsp;In consultation and coordination with the Great Lakes States, the Secretary shall develop a tributary sediment transport model for each major river system or set of major river systems depositing sediment into a Great Lakes federally authorized commercial harbor, channel maintenance project site, or Area of Concern identified under the Great Lakes Water Quality Agreement of 1978. Such model may be developed as a part of a strategy developed under subsection (a) of this section.
 
 #### (2) Requirements for models
 
@@ -51,6 +51,18 @@ There is authorized to be appropriated to the Secretary to carry out this sectio
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### New York-New Jersey Harbor, New York and New Jersey
+
+Pub. L. 106–53, title V, §540, Aug. 17, 1999, 113 Stat. 350, provided that:
+
+“(a)
+
+In General.—The Secretary shall conduct a study to analyze the economic and environmental benefits and costs of potential sediment management and contaminant reduction measures.
+
+“(b)
+
+Cooperative Agreements.—In conducting the study, the Secretary may enter into cooperative agreements with non-Federal interests to investigate, develop, and support measures for sediment management and reduction of sources of contaminant that affect navigation in the Port of New York-New Jersey and the environmental conditions of the New York-New Jersey Harbor estuary.”
 
 #### “Secretary” Defined
 

@@ -10,7 +10,9 @@
 
 #### (b) Budgetary matters
 
-(1) The Commissioner shall prepare an annual budget for the Administration, which shall be submitted by the President to the Congress without revision, together with the President's annual budget for the Administration.
+(1)(A) The Commissioner shall prepare an annual budget for the Administration, which shall be submitted by the President to the Congress without revision, together with the President's annual budget for the Administration.
+
+(B) The Commissioner shall include in the annual budget prepared pursuant to subparagraph (A) an itemization of the amount of funds required by the Social Security Administration for the fiscal year covered by the budget to support efforts to combat fraud committed by applicants and beneficiaries.
 
 (2)(A) Appropriations requests for staffing and personnel of the Administration shall be based upon a comprehensive work force plan, which shall be established and revised from time to time by the Commissioner.
 
@@ -38,7 +40,7 @@ The Commissioner shall cause a seal of office to be made for the Administration 
 
 &emsp;(B) the Commissioner shall disclose to the Secretary or to any State any record or information requested in writing by the Secretary to be so disclosed for the purpose of administering any program administered by the Secretary, if records or information of such type were so disclosed under applicable rules, regulations, and procedures in effect before August 15, 1994.
 
-(2) The Commissioner and the Secretary shall enter into an agreement under which the Commissioner provides the Secretary data concerning the quality of the services and informationprovided to beneficiaries of the programs under subchapters XVIII and XIX of this chapter and the administrative services provided by the Social Security Administration in support of such programs. Such agreement shall stipulate the type of data to be provided and the terms and conditions under which the data are to be provided.
+(2) The Commissioner and the Secretary shall enter into an agreement under which the Commissioner provides the Secretary data concerning the quality of the services and information provided to beneficiaries of the programs under subchapters XVIII and XIX of this chapter and the administrative services provided by the Social Security Administration in support of such programs. Such agreement shall stipulate the type of data to be provided and the terms and conditions under which the data are to be provided.
 
 (3) The Commissioner and the Secretary shall periodically review the need for exchanges of information not referred to in paragraph (1) or (2) and shall enter into such agreements as may be necessary and appropriate to provide information to each other or to States in order to meet the programmatic needs of the requesting agencies.
 
@@ -48,13 +50,15 @@ The Commissioner shall cause a seal of office to be made for the Administration 
 
 (5) The Commissioner and the Secretary shall each ensure that timely action is taken to establish any necessary routine uses for disclosures required under paragraph (1) or agreed to pursuant to paragraph (3).
 
-(Aug. 14, 1935, ch. 531, title VII, §704, 49 Stat. 636; Aug. 28, 1950, ch. 809, title IV, §402(b), 64 Stat. 558; Pub. L. 94–273, §33, Apr. 21, 1976, 90 Stat. 380; Pub. L. 98–369, div. B, title VI, §2663(<i>l</i>)(1), July 18, 1984, 98 Stat. 1171; Pub. L. 103–296, title I, §104(a), Aug. 15, 1994, 108 Stat. 1470.)
+(Aug. 14, 1935, ch. 531, title VII, §704, 49 Stat. 636; Aug. 28, 1950, ch. 809, title IV, §402(b), 64 Stat. 558; Pub. L. 94–273, §33, Apr. 21, 1976, 90 Stat. 380; Pub. L. 98–369, div. B, title VI, §2663(<i>l</i>)(1), July 18, 1984, 98 Stat. 1171; Pub. L. 103–296, title I, §104(a), Aug. 15, 1994, 108 Stat. 1470; Pub. L. 106–169, title II, §211(a), Dec. 14, 1999, 113 Stat. 1842.)
 
 #### References in Text
 
 The civil service laws, referred to in subsec. (a)(1), are classified generally to Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
 
 #### Amendments
+
+1999—Subsec. (b)(1). Pub. L. 106–169 designated existing provisions as subpar. (A) and added subpar. (B).
 
 1994—Pub. L. 103–296 amended section generally. Prior to amendment, section read as follows: “The Secretary shall make a full report to Congress, within one hundred and twenty days after the beginning of each regular session, of the administration of the functions with which he is charged under this chapter. In addition to the number of copies of such report authorized by other law to be printed, there is hereby authorized to be printed not more than five thousand copies of such report for use by the Secretary for distribution to Members of Congress and to State and other public or private agencies or organizations participating in or concerned with the social security program.”
 
@@ -63,6 +67,10 @@ The civil service laws, referred to in subsec. (a)(1), are classified generally 
 1976—Pub. L. 94–273 substituted “within one hundred and twenty days after the beginning” for “at the beginning”.
 
 1950—Act Aug. 28, 1950, substituted “Administrator” for “Board” in first sentence and added second sentence.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–169, title II, §211(b), Dec. 14, 1999, 113 Stat. 1842, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to annual budgets prepared for fiscal years after fiscal year 1999.”
 
 #### Effective Date of 1994 Amendment
 

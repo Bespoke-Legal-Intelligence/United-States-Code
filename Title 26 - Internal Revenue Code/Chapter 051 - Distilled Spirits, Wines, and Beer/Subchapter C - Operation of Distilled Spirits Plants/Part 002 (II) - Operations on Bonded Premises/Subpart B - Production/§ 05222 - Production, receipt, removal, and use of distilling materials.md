@@ -26,7 +26,7 @@ Under such regulations as the Secretary may prescribe, fermented materials to be
 
 #### (c) Processing of distilled spirits containing extraneous substances
 
-The Secretary may by regulations provide for the removal from the distilling system, and theaddition to the fermented or unfermented distilling material, of distilled spirits containing substantial quantities of fusel oil or aldehydes, or other extraneous substances.
+The Secretary may by regulations provide for the removal from the distilling system, and the addition to the fermented or unfermented distilling material, of distilled spirits containing substantial quantities of fusel oil or aldehydes, or other extraneous substances.
 
 #### (d) Penalty
 
@@ -50,7 +50,7 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 640, 64
 
 #### Amendments
 
-1997—Subsec. (b)(2). Pub. L. 105–34 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “conveyed without payment of tax from contiguous brewery premises where produced; or”.
+1997—Subsec. (b)(2). Pub. L. 105–34 amended par. (2) generally. Prior to amendment, par. (2) read as follows:“conveyed without payment of tax from contiguous brewery premises where produced; or”.
 
 1979—Subsec. (c). Pub. L. 96–39 struck out “, in the production facilities of a distilled spirits plant” after “distilling material”.
 

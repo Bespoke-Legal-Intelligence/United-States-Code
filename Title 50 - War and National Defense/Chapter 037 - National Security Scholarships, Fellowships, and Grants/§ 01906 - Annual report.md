@@ -14,7 +14,7 @@ Each such report shall contain—
 
 &emsp;(3) an analysis of the assistance provided under the program for the previous fiscal year, to include the subject areas being addressed and the nature of the assistance provided;
 
-&emsp;(4) an analysis of the performance of the individuals who received assistance under the program during the previous fiscal year, to include the degree to which assistance was terminated under the program and the extent to which individual recipients failed to meet their obligations under the program;
+&emsp;(4) an analysis of the performance of the individuals who received assistance under the program during the previous fiscal year, to include the degree to which assistance was terminated under the program and the extent towhich individual recipients failed to meet their obligations under the program;
 
 &emsp;(5) an analysis of the results of the program for the previous fiscal year, and cumulatively, to include, at a minimum—
 

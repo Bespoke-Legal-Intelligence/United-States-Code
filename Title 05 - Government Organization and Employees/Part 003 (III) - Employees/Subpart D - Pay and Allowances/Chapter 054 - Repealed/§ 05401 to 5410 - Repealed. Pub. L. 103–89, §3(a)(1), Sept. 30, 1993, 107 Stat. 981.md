@@ -68,7 +68,7 @@ Deem rates and positions to be under the general schedule.—For purposes of app
 
 &emsp;&emsp;&emsp;“(i) the rate of basic pay determined under this section for an employee shall be treated as a rate of basic pay described in section 5302(8) of such title;
 
-&emsp;&emsp;&emsp;“(ii) the position then currently occupied by an employee who is subject to this section shall be deemed to be a ‘General Schedule position’ within the meaning of section 5302(9) of such title; and
+&emsp;&emsp;&emsp;“(ii) the position then currently occupied by an employee who is subject to this section shall bedeemed to be a ‘General Schedule position’ within the meaning of section 5302(9) of such title; and
 
 &emsp;&emsp;&emsp;“(iii) any employee who is subject to this section shall be considered to be a ‘General Schedule employee’ (as referred to in section 302(b) of FEPCA).
 

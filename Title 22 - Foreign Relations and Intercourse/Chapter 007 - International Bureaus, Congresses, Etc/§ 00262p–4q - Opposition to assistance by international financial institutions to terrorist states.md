@@ -20,3 +20,7 @@ For purposes of this section, the term “international financial institution”
 
 Another section 1621 of Pub. L. 95–118 is classified to section 262p–4p of this title.
 
+#### Definitions
+
+The definitions in section 262p–5 of this title apply to this section.
+

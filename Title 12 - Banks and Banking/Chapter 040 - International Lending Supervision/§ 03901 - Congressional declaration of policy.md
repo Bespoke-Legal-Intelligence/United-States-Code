@@ -24,7 +24,7 @@ Pub. L. 101–240, title V, §531, Dec. 19, 1989, 103 Stat. 2513, provided that:
 
 Statement of Policy.—It is the sense of the Congress that—
 
-&emsp;“(1) debt-for-development swaps, where payment is made in local currency at the free market rate, serve a useful purpose by providing banking institutionswith constructive opportunities for the reduction of the external debt of highly indebted developing countries in a process that involves the participation of private, nonprofit groups in providing a stimulus to the economic and social development of such developing countries;
+&emsp;“(1) debt-for-development swaps, where payment is made in local currency at the free market rate, serve a useful purpose by providing banking institutions with constructive opportunities for the reduction of the external debt of highly indebted developing countries in a process that involves the participation of private, nonprofit groups in providing a stimulus to the economic and social development of such developing countries;
 
 &emsp;“(2) debt-for-development swaps provide highly indebted developing countries with a creative method of reducing external debt burdens, while promoting their economic growth and restructuring objectives;
 

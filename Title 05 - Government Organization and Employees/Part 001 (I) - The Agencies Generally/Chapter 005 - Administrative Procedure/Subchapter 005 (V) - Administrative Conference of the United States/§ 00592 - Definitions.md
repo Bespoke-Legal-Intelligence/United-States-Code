@@ -6,7 +6,7 @@ For the purpose of this subchapter—
 
 &emsp;(2) “administrative agency” means an authority as defined by section 551(1) of this title; and
 
-&emsp;(3) “administrative procedure” means procedure used in carrying out an administrative program and is to be broadly construed to include any aspect of agency organization, procedure, or management which may affect the equitable consideration of public and private interests, the fairness of agency decisions, the speed of agency action, and the relationship of operating methods to later judicial review, but does not include the scope of agency responsibility as established by law or matters ofsubstantive policy committed by law to agency discretion.
+&emsp;(3) “administrative procedure” means procedure used in carrying out an administrative program and is to be broadly construed to include any aspect of agency organization, procedure, or management which may affect the equitable consideration of public and private interests, the fairness of agency decisions, the speed of agency action, and the relationship of operating methods to later judicial review, but does not include the scope of agency responsibility as established by law or matters of substantive policy committed by law to agency discretion.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 388, §572; renumbered §592, Pub. L. 102–354, §2(2), Aug. 26, 1992, 106 Stat. 944.)
 

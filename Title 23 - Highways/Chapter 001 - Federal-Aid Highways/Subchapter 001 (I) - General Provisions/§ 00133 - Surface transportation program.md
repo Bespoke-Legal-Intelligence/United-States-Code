@@ -56,7 +56,7 @@ Division between urbanized areas of over 200,000 population and other areas.—
 
 &emsp;&emsp;(A)
 
-General rule.—Except as provided in subparagraphs (C) and (D), 62.5 percent of the remaining 80 percent of the funds apportioned to a State under section 104(b)(3) for a fiscal year shall be obligated under this section—
+General rule.—Except as provided in subparagraphs (C) and (D), 62.5 percent of the remaining 80 percent of the funds apportioned to a State under section 104(b)(3) fora fiscal year shall be obligated under this section—
 
 &emsp;&emsp;&emsp;(i) in urbanized areas of the State with an urbanized area population of over 200,000, and
 
@@ -220,7 +220,7 @@ Joint responsibility.—Each State, each affected metropolitan planning organiza
 
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(3), is Pub. L. 101–336, July 26, 1990, 104Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 The Water Resources Development Act of 1990, referred to in subsec. (b)(11), is Pub. L. 101–640, Nov. 28, 1990, 104 Stat. 4604. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 2201 of Title 33, Navigation and Navigable Waters, and Tables.
 
@@ -302,7 +302,7 @@ Pub. L. 105–178, title I, §1108(g), June 9, 1998, 112 Stat. 141, provided tha
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 103, 104, 105, 106, 110, 149, 157, 160, 322 of this title.
+This section is referred to in sections 103, 104, 105, 106, 126, 149, 157, 160, 322 of this title.
 
 <i><sup>1</sup></i><i> So in original. No par. (12) has been enacted.</i>
 

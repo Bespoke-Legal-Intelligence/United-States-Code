@@ -82,7 +82,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 &emsp;&emsp;(B) develop appropriate student performance levels as provided in section 9010(e) of this title;
 
-&emsp;&emsp;(C) develop assessment objectives and test specifications through a national consensus approach which includes the active participation of teachers, curriculum specialists, local school administrators, parents, and concerned members of the public;
+&emsp;&emsp;(C) develop assessment objectives and test specifications through a national consensus approach which includes the active participation of teachers, curriculum specialists,local school administrators, parents, and concerned members of the public;
 
 &emsp;&emsp;(D) design the methodology of the assessment, in consultation with appropriate technical experts, including the Advisory Council established under section 9006 of this title;
 

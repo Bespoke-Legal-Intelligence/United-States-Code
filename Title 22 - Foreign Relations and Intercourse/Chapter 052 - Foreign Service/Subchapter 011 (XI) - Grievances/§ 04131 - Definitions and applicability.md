@@ -66,9 +66,9 @@ Subsec. (b). Pub. L. 102–138, §153(a)(2), in par. (4), substituted “section
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 1335(k)(4) of Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+Amendment by section 1335(k)(4) of Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-Amendment by section 1422(b)(4)(D) of Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States International Development Cooperation Agency pursuant to reorganization plan described in section 6601 of this title, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of this title.
+Amendment by section 1422(b)(4)(D) of Pub. L. 105–277 effective Apr. 1, 1999, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of this title.
 
 #### Effective Date of 1991 Amendment
 

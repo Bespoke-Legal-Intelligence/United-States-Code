@@ -30,7 +30,7 @@ Subsec. (e). Pub. L. 105–178, §1302(3), redesignated subsec. (e) as (c).
 
 Pub. L. 105–178, §1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
 
-1991—Subsec. (d). Pub. L. 102–240 substituted “106(c), 120,” for “120” and struck out at end “Payments for construction engineering on any project financed with Federal-aid highway funds shall not exceed 15 percent of the Federal share of the cost of construction of such project after excluding from the cost of construction the costs of rights-of-way, preliminary engineering, and construction engineering.”
+1991—Subsec. (d). Pub. L. 102–240 substituted “106(c), 120,” for “120” and struck out at end “Payments forconstruction engineering on any project financed with Federal-aid highway funds shall not exceed 15 percent of the Federal share of the cost of construction of such project after excluding from the cost of construction the costs of rights-of-way, preliminary engineering, and construction engineering.”
 
 1987—Subsec. (d). Pub. L. 100–17 substituted “15 percent” for “10 per centum” and struck out at end “However, this limitation shall be 15 per centum in any State with respect to which the Secretary finds such higher limitation to be necessary.”
 

@@ -58,9 +58,9 @@ The following classes of transactions are exempt from the requirements of this s
 
 &emsp;(6) transactions specifically exempted from the antitrust laws by Federal statute if approved by a Federal agency, if copies of all information and documentary material filed with such agency are contemporaneously filed with the Federal Trade Commission and the Assistant Attorney General;
 
-&emsp;(7) transactions which require agency approval under section 1467a(e) of title 12, section 1828(c) of title 12, or section 1842 of title 12;
+&emsp;(7) transactions which require agency approval under section 1467a(e) of title 12, section 1828(c) of title 12, or section 1842 of title 12, except that a portion of a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to section 1843(k) of title 12; and (B) does not require agency approval under section 1842 of title 12;
 
-&emsp;(8) transactions which require agency approval under section 1843 of title 12 or section 1464 of title 12, if copies of all information and documentary material filed with any such agency are contemporaneously filed with the Federal Trade Commission and the Assistant Attorney General at least 30 days prior to consummation of the proposed transaction;
+&emsp;(8) transactions which require agency approval under section 1843 of title 12 or section 1464 of title 12, if copies of all information and documentary material filed with any such agency are contemporaneously filed with the Federal Trade Commission and the Assistant Attorney General at least 30 days prior to consummation of the proposed transaction, except that a portion of a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to section 1843(k) of title 12; and (B) does not require agency approval under section 1843 of title 12;
 
 &emsp;(9) acquisitions, solely for the purpose of investment, of voting securities, if, as a result of such acquisition, the securities acquired or held do not exceed 10 per centum of the outstanding voting securities of the issuer;
 
@@ -92,7 +92,7 @@ The Federal Trade Commission, with the concurrence of the Assistant Attorney Gen
 
 #### (f) Preliminary injunctions; hearings
 
-If a proceeding is instituted or an action is filed by the Federal Trade Commission, allegingthat a proposed acquisition violates section 18 of this title, or section 45 of this title, or an action is filed by the United States, alleging that a proposed acquisition violates such section 18 of this title, or section 1 or 2 of this title, and the Federal Trade Commission or the Assistant Attorney General (1) files a motion for a preliminary injunction against consummation of such acquisition pendente lite, and (2) certifies the United States district court for the judicial district within which the respondent resides or carries on business, or in which the action is brought, that it or he believes that the public interest requires relief pendente lite pursuant to this subsection, then upon the filing of such motion and certification, the chief judge of such district court shall immediately notify the chief judge of the United States court of appeals for the circuit in which such district court is located, who shall designate a United States district judge to whom such action shall be assigned for all purposes.
+If a proceeding is instituted or an action is filed by the Federal Trade Commission, alleging that a proposed acquisition violates section 18 of this title, or section 45 of this title, or an action is filed by the United States, alleging that a proposed acquisition violates such section 18 of this title, or section 1 or 2 of this title, and the Federal Trade Commission or the Assistant Attorney General (1) files a motion for a preliminary injunction against consummation of such acquisition pendente lite, and (2) certifies the United States district court for the judicial district within which the respondent resides or carries on business, or in which the action is brought, that it or he believes that the public interest requires relief pendente lite pursuant to this subsection, then upon the filing of such motion and certification, the chief judge of such district court shall immediately notify the chief judge of the United States court of appeals for the circuit in which such district court is located, who shall designate a United States district judge to whom such action shall be assigned for all purposes.
 
 #### (g) Civil penalty; compliance; power of court
 
@@ -122,7 +122,7 @@ Any information or documentary material filed with the Assistant Attorney Genera
 
 Beginning not later than January 1, 1978, the Federal Trade Commission, with the concurrence of the Assistant Attorney General, shall annually report to the Congress on the operation of this section. Such report shall include an assessment of the effects of this section, of the effects, purpose, and need for any rules promulgated pursuant thereto, and any recommendations for revisions of this section.
 
-(Oct. 15, 1914, ch. 323, §7A, as added Pub. L. 94–435, title II, §201, Sept. 30, 1976, 90 Stat. 1390; amended Pub. L. 98–620, title IV, §402(10)(A), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 101–73, title XII, §1214, Aug. 9, 1989, 103 Stat. 529.)
+(Oct. 15, 1914, ch. 323, §7A, as added Pub. L. 94–435, title II, §201, Sept. 30, 1976, 90 Stat. 1390; amended Pub. L. 98–620, title IV, §402(10)(A), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 101–73, title XII, §1214, Aug. 9, 1989, 103 Stat. 529; Pub. L. 106–102, title I, §133(c), Nov. 12, 1999, 113 Stat. 1383.)
 
 #### References in Text
 
@@ -136,11 +136,19 @@ The Antitrust Civil Process Act, referred to in subsec. (i)(2), is Pub. L. 87–
 
 #### Amendments
 
+1999—Subsec. (c)(7). Pub. L. 106–102, §133(c)(1), inserted before semicolon at end “, except that a portionof a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to section 1843(k) of title 12; and (B) does not require agency approval under section 1842 of title 12”.
+
+Subsec. (c)(8). Pub. L. 106–102, §133(c)(2), inserted before semicolon at end “, except that a portion of a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to section 1843(k) of title 12; and (B) does not require agency approval under section 1843 of title 12”.
+
 1989—Subsec. (c)(7). Pub. L. 101–73, §1214(1), inserted reference to section 1467a(e) of title 12.
 
 Subsec. (c)(8). Pub. L. 101–73, §1214(2), struck out reference to section 1726 or 1730a(e) of title 12.
 
-1984—Subsec. (f)(2). Pub. L. 98–620 struck out designation “(A)” before “upon the filing”, and struck out subpar. (B) which had provided that if the Federal Trade Commission or the Assistant Attorney General certified that he or it believed that the public interest required relief pendente lite pursuant to this subsection, the motion for a preliminary injunction had to be set down for hearing by the district judge so designated at the earliest practicable time, would take precedenceover all matters except older matters of the same character and trials pursuant to section 3161 of title 18, and had to be in every way expedited.
+1984—Subsec. (f)(2). Pub. L. 98–620 struck out designation “(A)” before “upon the filing”, and struck out subpar. (B) which had provided that if the Federal Trade Commission or the Assistant Attorney General certified that he or it believed that the public interest required relief pendente lite pursuant to this subsection, the motion for a preliminary injunction had to be set down for hearing by the district judge so designated at the earliest practicable time, would take precedence over all matters except older matters of the same character and trials pursuant to section 3161 of title 18, and had to be in every way expedited.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as a note under section 24 of Title 12, Banks and Banking.
 
 #### Effective Date of 1984 Amendment
 

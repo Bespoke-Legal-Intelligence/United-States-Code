@@ -36,6 +36,8 @@ Sept. 2, 1958, Pub. L. 85–870, §1, 72 Stat. 1691; Nov. 11, 1977, Pub. L. 95�
 
 36:884(1).
 
+&nbsp;
+
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words. The text of 36:881(b) is omitted as unnecessary because of the restatement.
 
 The text of 36:882 is omitted as executed and obsolete.

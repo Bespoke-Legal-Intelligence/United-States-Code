@@ -30,6 +30,8 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(K) Any vaccine against rotavirus gastroenteritis.
 
+&emsp;&emsp;(L) Any conjugate vaccine against streptococcus pneumoniae.
+
 #### (2) Vaccine
 
 &emsp;The term “vaccine” means any substance designed to be administered to a human being for the prevention of 1 or more diseases.
@@ -88,11 +90,17 @@ For purposes of this subchapter—
 
 &emsp;The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply to any tax imposed by section 4131.
 
-(Added Pub. L. 100–203, title IX, §9201(a), Dec. 22, 1987, 101 Stat. 1330–329; amended Pub. L. 100–647, title II, §2006(a), Nov. 10, 1988, 102 Stat. 3612; Pub. L. 105–34, title IX, §904(b), (c), Aug. 5, 1997, 111 Stat. 873, 874; Pub. L. 105–277, div. C, title XV, §1503(a), div. J, title III, §3002(a), Oct. 21, 1998, 112 Stat. 2681–741, 2681–905.)
+(Added Pub. L. 100–203, title IX, §9201(a), Dec. 22, 1987, 101 Stat. 1330–329; amended Pub. L. 100–647, title II, §2006(a), Nov. 10, 1988, 102 Stat. 3612; Pub. L. 105–34, title IX, §904(b), (c), Aug. 5, 1997, 111 Stat. 873, 874; Pub. L. 105–277, div. C, title XV, §1503(a), div. J, title III, §3002(a), Oct. 21, 1998, 112 Stat. 2681–741, 2681–905; Pub. L. 106–170, title V, §523(a)(1), (b)(1), Dec. 17, 1999, 113 Stat. 1927.)
 
 #### Amendments
 
-1998—Subsec. (a)(1)(K). Pub. L. 105–277, §§1503(a) and 3002(a), amended par. (1) identically, adding subpar. (K), except that section 1503(a) directed adding subpar. (K) at the end of section 4132(1).
+1999—Subsec. (a)(1)(K). Pub. L. 106–170, §523(b)(1), repealed Pub. L. 105–277, §1503(a). See 1998 Amendment note below.
+
+Subsec. (a)(1)(L). Pub. L. 106–170, §523(a)(1), added subpar. (L).
+
+1998—Subsec. (a)(1)(K). Pub. L. 105–277, §3002(a), added a subpar. (K) identical to that added by Pub. L. 105–277, §1503(a). See below.
+
+Pub. L. 105–277, §1503(a), which directed amendment of section 4132(1) by adding a new subpar. (K) at the end, was repealed by Pub. L. 106–170, §523(b)(1).
 
 1997—Subsec. (a)(1). Pub. L. 105–34, §904(b), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The term ‘taxable vaccine’ means any vaccine—
 
@@ -120,17 +128,23 @@ Polio vaccine.—The term ‘polio vaccine’ means any vaccine containing polio
 
 1988—Subsec. (c). Pub. L. 100–647 added pars. (1) and (2) and redesignated former pars. (1) and (2) as (3) and (4), respectively.
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–170, title V, §523(a)(2), Dec. 17, 1999, 113 Stat. 1927, provided that:
+
+“(A)
+
+Sales.—The amendment made by this subsection \[amending this section\] shall apply to vaccine sales after the date of the enactment of this Act \[Dec. 17, 1999\], but shall not take effect if subsection (b) \[see note below\] does not take effect.
+
+“(B)
+
+Deliveries.—For purposes of subparagraph (A), in the case of sales on or before the date described in such subparagraph for which delivery is made after such date, the delivery date shall be considered the sale date.”
+
+Pub. L. 106–170, title V, §523(b)(3), Dec. 17, 1999, 113 Stat. 1928, provided that: “The amendments made by this subsection \[amending this section and section 9510 of this title and repealing provisions set out as notes under this section and section 9510 of this title\] shall take effect as if included in the provisions of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 \[Pub. L. 105–277\] to which they relate.”
+
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. C, title XV, §1503(b), div. I, title III, §3002(b), Oct. 21, 1998, 112 Stat. 2681–741, 2681–905, provided that:
-
-“(1)
-
-Sales.—The amendment made by this section \[amending this section\] shall apply to sales after the date of the enactment of this Act \[Oct. 21, 1998\].
-
-“(2)
-
-Deliveries.—For purposes of paragraph (1), in the case of sales on or before the date of the enactment of this Act for which delivery is made after such date, the delivery date shall be considered the sale date.”
+Pub. L. 105–277, div. C, title XV, §1503(b), div. I, title III, §3002(b), Oct. 21, 1998, 112 Stat. 2681–741, 2681–905, which provided that amendment of this section by Pub. L. 105–277 was applicable to sales after Oct. 21, 1998, and that delivery date would be considered sale date in the case of sales on or before Oct. 21, 1998, was repealed by Pub. L. 106–170, title V, §523(b)(1), Dec. 17, 1999, 113 Stat. 1927.
 
 #### Effective Date of 1997 Amendment
 

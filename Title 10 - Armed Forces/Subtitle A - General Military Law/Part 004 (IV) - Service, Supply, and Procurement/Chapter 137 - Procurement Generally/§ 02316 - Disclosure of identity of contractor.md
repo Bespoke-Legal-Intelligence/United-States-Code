@@ -1,6 +1,6 @@
 ### §2316. Disclosure of identity of contractor
 
-The Secretary of Defense may disclose the identity or location of a person awarded a contract by the Department of Defense to any individual, including a Member of Congress, only after the Secretary makes a public announcement identifying the contractor. When the identity of a contractor is to be made public, the Secretary shall announce publicly that the contract has been awarded and the identity of the contractor.
+The Secretary of Defense may disclose the identity or location of a person awarded a contract by the Department of Defense to any individual, including a Member of Congress, onlyafter the Secretary makes a public announcement identifying the contractor. When the identity of a contractor is to be made public, the Secretary shall announce publicly that the contract has been awarded and the identity of the contractor.
 
 (Added Pub. L. 97–295, §1(26)(A), Oct. 12, 1982, 96 Stat. 1291.)
 

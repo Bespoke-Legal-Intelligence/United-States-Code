@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(A) the acreage of the corn or grain sorghum in a high moisture state harvested on the producer's farm; by
 
-&emsp;&emsp;(B) the lower of the farm program payment yield or the actual yield on a field, as determined by the Secretary, that is similarto the field from which the corn or grain sorghum was obtained.
+&emsp;&emsp;(B) the lower of the farm program payment yield or the actual yield on a field, as determined by the Secretary, that is similar to the field from which the corn or grain sorghum was obtained.
 
 #### (3) “High moisture state” defined
 
@@ -62,7 +62,7 @@
 
 Repayment of a recourse loan made under this section shall be at the loan rate established for the commodity by the Secretary, plus interest (as determined by the Secretary).
 
-(Pub. L. 104–127, title I, §137, Apr. 4, 1996, 110 Stat. 912; Pub. L. 105–277, div. A, title I, §101(a) \[title XI, §1126\], Oct. 21, 1998, 112 Stat. 2681, 2681–46.)
+(Pub. L. 104–127, title I, §137, Apr. 4, 1996, 110 Stat. 912; Pub. L. 105–277, div. A, §101(a) \[title XI, §1126\], Oct. 21, 1998, 112 Stat. 2681, 2681–46.)
 
 #### Amendments
 

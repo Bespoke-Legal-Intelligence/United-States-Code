@@ -62,9 +62,11 @@ The location of the Office in the Executive Office of the President shall not be
 
 #### Gifts to Office of National Drug Control Policy
 
-Pub. L. 105–277, div. A, §101(h) \[title III\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–496, provided: “That the Office \[of National Drug Control Policy\] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office.”
+Pub. L. 106–58, title III, Sept. 29, 1999, 113 Stat. 447, provided in part: “That the Office \[of National Drug Control Policy\] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–277, div. A, §101(h) \[title III\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–496.
 
 Pub. L. 105–61, title III, Oct. 10, 1997, 111 Stat. 1293.
 

@@ -2,7 +2,7 @@
 
 #### (a) Transmission of annual financial statement
 
-Upon receipt of the annual financial statement described in sections 1902(c)(4) and1903(m)(4) of this title, the President shall promptly transmit a copy of such statement to the Congress.
+Upon receipt of the annual financial statement described in sections 1902(c)(4) and 1903(m)(4) of this title, the President shall promptly transmit a copy of such statement to the Congress.
 
 #### (b) Annual audits by President
 

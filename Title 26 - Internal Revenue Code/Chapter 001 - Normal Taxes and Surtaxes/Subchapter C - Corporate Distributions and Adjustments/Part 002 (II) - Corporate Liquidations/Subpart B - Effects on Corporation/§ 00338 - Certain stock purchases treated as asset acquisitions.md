@@ -20,7 +20,7 @@ For purposes of this subtitle, if a purchasing corporation makes an election und
 
 #### (2) Adjustment for liabilities and other relevant items
 
-&emsp;The amount described in paragraph (1) shall be adjusted under regulations prescribed by the Secretary for liabilities of the target corporation and other relevant items.
+&emsp;The amount described in paragraph (1) shall be adjusted under regulations prescribed bythe Secretary for liabilities of the target corporation and other relevant items.
 
 #### (3) Election to step-up the basis of certain target stock
 
@@ -166,7 +166,7 @@ For purposes of this section—
 
 #### (iii) Related corporation defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, a corporation is a related corporation if stock owned by such corporation is treated (under section 318(a) other than paragraph\(4) thereof) as owned by the corporation acquiring the stock.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, a corporation is a related corporation if stock owned by such corporation is treated (under section 318(a) other than paragraph (4) thereof) as owned by the corporation acquiring the stock.
 
 #### (4) Consistency period
 
@@ -256,7 +256,7 @@ For purposes of this section—
 
 #### (14) Coordination with section 341
 
-&emsp;For purposes of determining whether section 341 applies to a disposition within 1 year afterthe acquisition date of stock by a shareholder (other than the acquiring corporation) who held stock in the target corporation on the acquisition date, section 341 shall be applied without regard to this section.
+&emsp;For purposes of determining whether section 341 applies to a disposition within 1 year after the acquisition date of stock by a shareholder (other than the acquiring corporation) who held stock in the target corporation on the acquisition date, section 341 shall be applied without regard to this section.
 
 #### (15) Combined deemed sale return
 
@@ -330,7 +330,7 @@ Subsec. (b)(2). Pub. L. 98–369, §712(k)(1)(B), amended par. (2) generally, in
 
 Subsec. (b)(3). Pub. L. 98–369, §712(k)(1)(B), added par. (3). Former par. (3) redesignated (5).
 
-Subsec. (b)(4). Pub. L. 98–369, §712(k)(1)(B), redesignated former par. (2) as (4), substituted in introductory text “corporation's recently purchased stock,” for “purchasing corporation's stock in the target corporation on the acquisition date”, inserted in subpar. (A) “minus the percentage of stock (by value) in the targetcorporation attributable to the purchasing corporation's nonrecently purchased stock”, and substituted in subpar. (B) “in the target corporation attributable to the purchasing corporation's recently purchased stock” for “of the target corporation held by the purchasing corporation on the acquisition date”.
+Subsec. (b)(4). Pub. L. 98–369, §712(k)(1)(B), redesignated former par. (2) as (4), substituted in introductory text “corporation's recently purchased stock,” for “purchasing corporation's stock in the target corporation on the acquisition date”, inserted in subpar. (A) “minus the percentage of stock (by value) in the target corporation attributable to the purchasing corporation's nonrecently purchased stock”, and substituted in subpar. (B) “in the target corporation attributable to the purchasing corporation's recently purchased stock” for “of the target corporation held by the purchasing corporation on the acquisition date”.
 
 Subsec. (b)(5). Pub. L. 98–369, §712(k)(1)(B), redesignated former par. (3) as (5) and inserted reference to par. (2).
 
@@ -346,7 +346,7 @@ Subsec. (h)(1). Pub. L. 98–369, §712(k)(5)(C), included within 12-month acqui
 
 Subsec. (h)(3)(A)(ii). Pub. L. 98–369, §712(k)(5)(D), included references to sections 354, 355, and 356 and in defining “purchase” provided that the stock not be acquired in any other transaction described in regulations in which the transferor does not recognize the entire amount of the gain or loss realized on the transaction.
 
-Subsec. (h)(3)(B). Pub. L. 98–369, §712(k)(5)(A), substituted in heading “under subsection (a)” for “of stock of subsidiaries” and in text “The term ‘purchase’ includes any deemed purchase under subsection (a)(2). The acquisition date for a corporation which is deemed purchased under subsection (a)(2) shall be determined under regulations prescribed by the Secretary” for “If stock in a corporation is acquired by purchase (within the meaning of subparagraph (A)) and, as a result of such acquisition, the corporation making such purchase is treated (by reason of section 318(a)) as owning stock in a 3rd corporation, the corporation making such purchase shall be treated as having purchased such stock in such 3rd corporation. The corporation making such purchase shall be treated as purchasing stock in the 3rd corporation by reason of the preceding sentence on the first day on which the purchasing corporation is considered under section 318(a) as owning such stock”.
+Subsec. (h)(3)(B). Pub. L. 98–369, §712(k)(5)(A), substituted in heading “under subsection (a)” for “of stock of subsidiaries” and in text “The term ‘purchase’ includes any deemed purchase under subsection (a)(2). The acquisition date for a corporation which is deemedpurchased under subsection (a)(2) shall be determined under regulations prescribed by the Secretary” for “If stock in a corporation is acquired by purchase (within the meaning of subparagraph (A)) and, as a result of such acquisition, the corporation making such purchase is treated (by reason of section 318(a)) as owning stock in a 3rd corporation, the corporation making such purchase shall be treated as having purchased such stock in such 3rd corporation. The corporation making such purchase shall be treated as purchasing stock in the 3rd corporation by reason of the preceding sentence on the first day on which the purchasing corporation is considered under section 318(a) as owning such stock”.
 
 Subsec. (h)(3)(C). Pub. L. 98–369, §712(k)(5)(B), added subpar. (C).
 
@@ -400,7 +400,7 @@ In general.—The amendments made by this subsection \[amending this section and
 
 “(B)
 
-Extension of time for making election.—In the case of any qualified stock purchase described in subparagraph (A), the time for making an election undersection 338 of such Code shall not expire before the close of the 60th day after the date of the enactment of this Act \[July 18, 1984\].”
+Extension of time for making election.—In the case of any qualified stock purchase described in subparagraph (A), the time for making an election under section 338 of such Code shall not expire before the close of the 60th day after the date of the enactment of this Act \[July 18, 1984\].”
 
 Amendment by section 712(k) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 

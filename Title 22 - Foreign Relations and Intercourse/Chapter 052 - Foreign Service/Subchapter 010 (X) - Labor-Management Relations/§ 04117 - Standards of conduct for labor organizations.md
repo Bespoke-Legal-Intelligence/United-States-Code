@@ -30,7 +30,7 @@ A labor organization which has or seeks recognition as a representative of emplo
 
 #### (d) Regulations; filing of complaints; cease and desist orders
 
-The Assistant Secretary of Labor shall prescribe such regulations as are necessary to carry out this section. Such regulations shall conform generally to the principles applied to labor organizations in the private sector. Complaints of violations of this section shall be filed with the Assistant Secretary. In any matter arising under this section, the Assistant Secretary may require a labor organization to cease and desist from violations of this section and require it to take such actions as the Assistant Secretary considers appropriate to carry out the policies of this section.
+The Assistant Secretary of Labor shall prescribe such regulations as are necessary to carry out this section. Such regulations shall conform generally to the principles applied to labor organizations in the private sector. Complaints of violations of this section shall be filed with the Assistant Secretary. In any matter arising under this section, the Assistant Secretary may require a labor organization to cease and desistfrom violations of this section and require it to take such actions as the Assistant Secretary considers appropriate to carry out the policies of this section.
 
 #### (e) Participation in labor organizations restricted
 
@@ -54,7 +54,7 @@ The Assistant Secretary of Labor shall prescribe such regulations as are necessa
 
 &emsp;(C) any administrative or personnel officer abroad; or
 
-&emsp;(D) any individual described in section 4103(12)(B), (C), or (D) of this title who is not involved in the administration of this subchapter or in the formulation of the personnel policies and programs of the Department.
+&emsp;(D) any individual described in section 4102(12)(B), (C), or (D) of this title who is not involved in the administration of this subchapter or in the formulation of the personnel policies and programs of the Department.
 
 #### (f) Willful and intentional violations
 

@@ -10,13 +10,13 @@ The Commission shall be composed of 8 members. Not more than 4 of the members sh
 
 &emsp;(1) 4 members of the Commission shall be appointed by the President.
 
-&emsp;(2) 2 members of the Commission shall be appointed by the President pro tempore of the Senate, upon the recommendations of the majority leader and the minority leader, and of the members appointed not more than one shall be appointed from the same political party.
+&emsp;(2) 2 members of the Commission shall be appointed by the President pro tempore of theSenate, upon the recommendations of the majority leader and the minority leader, and of the members appointed not more than one shall be appointed from the same political party.
 
 &emsp;(3) 2 members of the Commission shall be appointed by the Speaker of the House of Representatives upon the recommendations of the majority leader and the minority leader, and of the members appointed not more than one shall be appointed from the same political party.
 
 #### (c) Terms
 
-The term of office of each member of the Commission shall be 6 years. The term of each member of the Commission in the initial membership of the Commission shall expire on the date suchterm would have expired as of September 30, 1994.
+The term of office of each member of the Commission shall be 6 years. The term of each member of the Commission in the initial membership of the Commission shall expire on the date such term would have expired as of September 30, 1994.
 
 #### (d) Chairperson
 

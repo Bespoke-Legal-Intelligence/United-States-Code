@@ -90,5 +90,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5890, 8894, 8895, 8896 of this title.
+This section is referred to in sections 8894, 8895, 8896 of this title.
 

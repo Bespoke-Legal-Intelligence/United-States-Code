@@ -50,7 +50,7 @@ Amendment by section 5556(d) of Pub. L. 105–33 effective as if included in the
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 108(c)(13) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
+Amendment by section 108(c)(13) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts forterminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
 Amendment by section 374(b) of Pub. L. 104–193 applicable only with respect to cases commenced under Title 11, Bankruptcy, after Aug. 22, 1996, see section 374(c) of Pub. L. 104–193, set out as a note under section 523 of Title 11.
 

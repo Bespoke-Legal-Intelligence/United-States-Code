@@ -30,7 +30,7 @@ The Commission shall, within 180 days after October 5, 1992, initiate a rulemaki
 
 &emsp;&emsp;&emsp;(i) marketing costs, general administrative costs, and similar overhead costs of the provider of direct broadcast satellite service; and
 
-&emsp;&emsp;&emsp;(ii) the revenue that such provider might have obtained by making such channelavailable to a commercial provider of video programming.
+&emsp;&emsp;&emsp;(ii) the revenue that such provider might have obtained by making such channel available to a commercial provider of video programming.
 
 #### (5) Definitions
 

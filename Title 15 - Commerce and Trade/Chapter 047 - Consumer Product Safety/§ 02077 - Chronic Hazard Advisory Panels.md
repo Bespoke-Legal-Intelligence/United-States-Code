@@ -2,7 +2,7 @@
 
 #### (a) Appointment; purposes
 
-The Commission shall appoint Chronic Hazard Advisory Panels (hereinafter referred to as thePanel or Panels) to advise the Commission in accordance with the provisions of section 2080(b) of this title respecting the chronic hazards of cancer, birth defects, and gene mutations associated with consumer products.
+The Commission shall appoint Chronic Hazard Advisory Panels (hereinafter referred to as the Panel or Panels) to advise the Commission in accordance with the provisions of section 2080(b) of this title respecting the chronic hazards of cancer, birth defects, and gene mutations associated with consumer products.
 
 #### (b) Composition; membership
 
@@ -36,7 +36,7 @@ Each Panel shall request information and disclose information to the public, as 
 
 #### (h) Information from other Federal departments and agencies
 
-(1) Notwithstanding any statutory restriction on the authority of agencies and departments of the Federal Government to share information, such agencies and departments shall provide the Panel with such information and data as each Panel, through the Commission, may request to carry out its duties under section 2080 of this title. Each Panel may request information, through the Commission, from States, industry and other private sources as it may require to carry out its responsibilities.
+(1) Notwithstanding any statutory restriction on the authority of agencies and departments of the Federal Government to share information, such agencies and departments shall provide the Panel with such information and data as each Panel, through the Commission, may request to carry out its duties under section 2080 of this title. Each Panel may request information, through the Commission, from States, industryand other private sources as it may require to carry out its responsibilities.
 
 (2) Section 2055 of this title shall apply to the disclosure of information by the Panel but shall not apply to the disclosure of information to the Panel.
 

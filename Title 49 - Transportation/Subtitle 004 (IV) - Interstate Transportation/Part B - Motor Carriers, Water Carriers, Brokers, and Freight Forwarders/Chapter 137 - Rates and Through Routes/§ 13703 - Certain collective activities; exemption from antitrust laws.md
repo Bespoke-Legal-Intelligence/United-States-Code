@@ -42,7 +42,7 @@ Investigations.—
 
 &emsp;&emsp;(A)
 
-Reasonableness.—The Board may suspend and investigate the reasonableness ofany rate, rule, classification, or rate adjustment of general application made pursuant to an agreement under this section.
+Reasonableness.—The Board may suspend and investigate the reasonableness of any rate, rule, classification, or rate adjustment of general application made pursuant to an agreement under this section.
 
 &emsp;&emsp;(B)
 
@@ -58,25 +58,41 @@ Records.—The Board may require an organization established or continued under 
 
 (c)
 
-Review.—The Board may review an agreement approved under this section, on its own initiative or on request, and shall change the conditions of approval or terminate it when necessary to protect the public interest. Action of the Board under this section—
+Review.—
 
-&emsp;(1) approving an agreement,
+&emsp;(1)
 
-&emsp;(2) denying, ending, or changing approval,
+In general.—The Board may review an agreement approved under this section, on its own initiative or on request, and shall change the conditions of approval or terminate it when necessary to protect the public interest. Action of the Board under this section—
 
-&emsp;(3) prescribing the conditions on which approval is granted, or
+&emsp;&emsp;(A) approving an agreement,
 
-&emsp;(4) changing those conditions,
+&emsp;&emsp;(B) denying, ending, or changing approval,
 
-> has effect only as related to application of the antitrust laws referred to in subsection (a).
+&emsp;&emsp;(C) prescribing the conditions on which approval is granted, or
+
+&emsp;&emsp;(D) changing those conditions,
+
+> &emsp;has effect only as related to application of the antitrust laws referred to in subsection (a).
+
+&emsp;(2)
+
+Periodic review of approvals.—Subject to this section, in the 5-year period beginning on the date of the enactment of this paragraph and in each 5-year period thereafter, the Board shall initiate a proceeding to review anyagreement approved pursuant to this section. Any such agreement shall be continued unless the Board determines otherwise.
 
 (d)
 
-Expiration of Approvals; Renewals.—Subject to subsection (c), approval of an agreement under subsection (a) shall expire 3 years after the date of approval unless renewed under this subsection. The approval may be renewed upon request of the parties to the agreement if such parties resubmit the agreement to the Board, the agreement is unchanged, and the Board approves such renewal. The Board shall approve the renewal unless it finds that the renewal is not in the public interest. Parties to the agreement may continue to undertake activities pursuant to the previously approved agreement while the renewal request is pending.
+Limitation.—The Board shall not take any action that would permit the establishment of nationwide collective ratemaking authority.
 
 (e)
 
-Existing Agreements.—Agreements approved under former section 10706(b) and in effect on December 31, 1995, shall be treated for purposes of this section as approved by the Board under this section beginning on January 1, 1996.
+Existing Agreements.—
+
+&emsp;(1)
+
+Agreements existing as of December 31, 1995.—Agreements approved under former section 10706(b) and in effect on December 31, 1995, shall be treated for purposes of this section as approved by the Board under this section beginning on January 1, 1996.
+
+&emsp;(2)
+
+Cases pending as of date of the enactment.—Nothing in section 227 (other than subsection (b)) of the Motor Carrier Safety Improvement Act of 1999, including the amendments made by such section, shall be construed to affect any case brought under this section that is pending before the Board as of the date of the enactment of this paragraph.
 
 (f)
 
@@ -126,7 +142,7 @@ Mileage limitation.—No carrier subject to jurisdiction under subchapter I or I
 
 Single Line Rate Defined.—In this section, the term “single line rate” means a rate, charge, or allowance proposed by a single motor carrier that is applicable only over its line and for which the transportation can be provided by that carrier.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 869; amended Pub. L. 104–287, §5(28), Oct. 11, 1996, 110 Stat. 3391; Pub. L. 105–102, §2(9), Nov. 20, 1997, 111 Stat. 2204.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 869; amended Pub. L. 104–287, §5(28), Oct. 11, 1996, 110 Stat. 3391; Pub. L. 105–102, §2(9), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 106–159, title II, §227, Dec. 9, 1999, 113 Stat. 1772.)
 
 #### Historical and Revision Notes
 
@@ -136,7 +152,11 @@ This amends 49:13703(a)(2) to correct an erroneous cross-reference.
 
 #### References in Text
 
-Former section 10706(b), referred to in subsec. (e), probably means section 10706(b) of this title as in effect before that section was omitted and a new section 10706 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 812.
+The date of the enactment of this paragraph, referred to in subsecs. (c)(2) and (e)(2), is the date of enactment of Pub. L. 106–159, which was approved Dec. 9, 1999.
+
+Former section 10706(b), referred to in subsec. (e)(1), probably means section 10706(b) of this title as in effect before that section was omitted and a new section 10706 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 812.
+
+Section 227 of the Motor Carrier Safety Improvement Act of 1999, referred to in subsec. (e)(2), is section 227 of Pub. L. 106–159, which amended this section. See 1999 Amendment notes below.
 
 The ICC Termination Act of 1995, referred to in subsec. (f)(2), is Pub. L. 104–88, Dec. 29, 1995, 109 Stat. 803. For complete classification of this Act to the Code, see Short Title of 1995 Amendment note set out under section 101 of this title and Tables.
 
@@ -145,6 +165,12 @@ The ICC Termination Act of 1995, referred to in subsec. (f)(2), is Pub. L. 104�
 Provisions similar to those in this section were contained in section 10706 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 #### Amendments
+
+1999—Subsec. (c). Pub. L. 106–159, §227(a), designated introductory provisions as par. (1) and inserted heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned their margins, and added par. (2).
+
+Subsec. (d). Pub. L. 106–159, §227(b), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “Subject to subsection (c), approval of an agreement under subsection (a) shall expire 3 years after the date of approval unless renewed under this subsection. The approval may be renewed upon request of the parties to the agreement if such parties resubmit the agreement to the Board, the agreement is unchanged, and the Board approves such renewal. The Board shall approve the renewal unless it finds that the renewal is not in the public interest. Parties to the agreement may continue to undertake activities pursuant to the previously approved agreement while the renewal request is pending.”
+
+Subsec. (e). Pub. L. 106–159, §227(c), designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
 1997—Subsec. (a)(2). Pub. L. 105–102 substituted “paragraph (1)” for “subsection (a)”.
 

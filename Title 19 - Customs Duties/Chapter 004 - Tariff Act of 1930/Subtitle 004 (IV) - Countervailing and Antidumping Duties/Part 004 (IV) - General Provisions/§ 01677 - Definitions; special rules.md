@@ -12,7 +12,7 @@ For purposes of this subtitle—
 
 #### (3) Country
 
-&emsp;The term “country” means a foreign country, a political subdivision, dependent territory, or possession of a foreign country, and, except for the purpose of antidumping proceedings, may include an association of 2 or more foreign countries, political subdivisions, dependent territories, or possessions of countries into a customs union outside the United States.
+&emsp;The term “country” means a foreign country, a political subdivision, dependent territory, or possession of a foreign country, and, except for the purpose of antidumping proceedings, may include an association of 2 ormore foreign countries, political subdivisions, dependent territories, or possessions of countries into a customs union outside the United States.
 
 #### (4) Industry
 
@@ -156,7 +156,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(i) Where the authority providing the subsidy, or the legislation pursuant to which the authority operates, expressly limits access to the subsidy to an enterprise or industry, the subsidy is specific as a matter of law.
 
-&emsp;&emsp;&emsp;(ii) Where the authority providing the subsidy, or the legislation pursuant towhich the authority operates, establishes objective criteria or conditions governing the eligibility for, and the amount of, a subsidy, the subsidy is not specific as a matter of law, if—
+&emsp;&emsp;&emsp;(ii) Where the authority providing the subsidy, or the legislation pursuant to which the authority operates, establishes objective criteria or conditions governing the eligibility for, and the amount of, a subsidy, the subsidy is not specific as a matter of law, if—
 
 &emsp;&emsp;&emsp;&emsp;(I) eligibility is automatic,
 
@@ -210,7 +210,7 @@ For purposes of this subtitle—
 
 #### (I) Industrial research
 
-&emsp;&emsp;&emsp;&emsp;The term “industrial research” means planned search or critical investigation aimed at the discovery of new knowledge, with the objective that such knowledge may be useful in developing new products, processes, or services, or in bringing about a significant improvement to existing products, processes, or services.
+&emsp;&emsp;&emsp;&emsp;The term “industrial research” means planned search or critical investigation aimed at the discovery of new knowledge, with the objective that suchknowledge may be useful in developing new products, processes, or services, or in bringing about a significant improvement to existing products, processes, or services.
 
 #### (II) Precompetitive development activity
 
@@ -286,7 +286,7 @@ For purposes of this subtitle—
 
 #### (i) General rule
 
-&emsp;&emsp;&emsp;If a subsidy is provided pursuant to a program that has been notified in accordance with Article 8.3 of the SubsidiesAgreement, the subsidy shall be treated as noncountervailable and shall not be subject to investigation or review under this subtitle.
+&emsp;&emsp;&emsp;If a subsidy is provided pursuant to a program that has been notified in accordance with Article 8.3 of the Subsidies Agreement, the subsidy shall be treated as noncountervailable and shall not be subject to investigation or review under this subtitle.
 
 #### (ii) Exception
 
@@ -364,7 +364,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;&emsp;(III) actual and potential negative effects on cash flow, inventories, employment, wages, growth, ability to raise capital, and investment,
 
-&emsp;&emsp;&emsp;&emsp;(IV) actual and potential negative effects on the existing development andproduction efforts of the domestic industry, including efforts to develop a derivative or more advanced version of the domestic like product, and
+&emsp;&emsp;&emsp;&emsp;(IV) actual and potential negative effects on the existing development and production efforts of the domestic industry, including efforts to develop a derivative or more advanced version of the domestic like product, and
 
 &emsp;&emsp;&emsp;&emsp;(V) in a proceeding under part II of this subtitle, the magnitude of the margin of dumping.
 
@@ -470,7 +470,7 @@ For purposes of this subtitle—
 
 #### (iii) Records in final investigations
 
-&emsp;&emsp;&emsp;In each final determination in which it cumulatively assesses the volume and effect of imports under clause (i), the Commission shall make its determinations based on the record compiled in the first investigation in which it makes a final determination, except that when the administering authority issues its final determination in a subsequently completed investigation, the Commission shall permit the parties in the subsequent investigation to submit comments concerning the significance of the administering authority's final determination, and shall include such comments and the administering authority's final determination in the record for the subsequent investigation.
+&emsp;&emsp;&emsp;In each final determination in which it cumulatively assesses the volume and effect of imports under clause (i), the Commission shall make its determinationsbased on the record compiled in the first investigation in which it makes a final determination, except that when the administering authority issues its final determination in a subsequently completed investigation, the Commission shall permit the parties in the subsequent investigation to submit comments concerning the significance of the administering authority's final determination, and shall include such comments and the administering authority's final determination in the record for the subsequent investigation.
 
 #### (iv) Regional industry determinations
 
@@ -478,7 +478,7 @@ For purposes of this subtitle—
 
 #### (H) Cumulation for determining threat of material injury
 
-&emsp;&emsp;To the extent practicable and subject to subparagraph (G)(ii), for purposes of clause\(i)(III) and (IV) of subparagraph (F), the Commission may cumulatively assess the volume and price effects of imports of the subject merchandise from all countries with respect to which—
+&emsp;&emsp;To the extent practicable and subject to subparagraph (G)(ii), for purposes of clause (i)(III) and (IV) of subparagraph (F), the Commission may cumulatively assess the volume and price effects of imports of the subject merchandise from all countries with respect to which—
 
 &emsp;&emsp;&emsp;(i) petitions were filed under section 1671a(b) or 1673a(b) of this title on the same day,
 
@@ -710,7 +710,7 @@ For purposes of this subtitle—
 
 #### (D) Regional industries
 
-&emsp;&emsp;In an investigation in which the Commission makes a regional industry determination under paragraph (4)(C), the Commission's examination under subparagraphs (A) and (B) shall be based upon the volume of subject merchandise exported for sale in the regional market in lieu of the volume of allsubject merchandise imported into the United States.
+&emsp;&emsp;In an investigation in which the Commission makes a regional industry determination under paragraph (4)(C), the Commission's examination under subparagraphs (A) and (B) shall be based upon the volume of subject merchandise exported for sale in the regional market in lieu of the volume of all subject merchandise imported into the United States.
 
 #### (25) Subject merchandise
 

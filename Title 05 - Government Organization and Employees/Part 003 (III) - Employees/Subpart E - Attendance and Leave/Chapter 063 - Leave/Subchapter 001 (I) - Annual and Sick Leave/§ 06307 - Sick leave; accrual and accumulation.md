@@ -28,7 +28,7 @@
 
 (B) Not later than 6 months before the date on which this subsection is scheduled to cease to be effective, the Office shall submit a report to Congress in which it shall evaluate the operation of this subsection and make recommendations as to whether or not this subsection should be continued beyond such date.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 520; Pub. L. 103–329, title VI, §629(b)(1), Sept. 30, 1994, 108 Stat. 2423; Pub. L. 103–388, §2, Oct. 22, 1994, 108 Stat. 4079.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 520; Pub. L. 103–329, title VI, §629(b)(1), Sept. 30, 1994, 108Stat. 2423; Pub. L. 103–388, §2, Oct. 22, 1994, 108 Stat. 4079.)
 
 Historical and Revision Notes
 

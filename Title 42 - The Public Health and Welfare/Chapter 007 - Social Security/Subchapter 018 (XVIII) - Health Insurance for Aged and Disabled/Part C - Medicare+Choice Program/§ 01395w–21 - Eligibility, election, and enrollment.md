@@ -42,21 +42,29 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as the Secretary may otherwise provide, an individual is eligible to elect a Medicare+Choice plan offered by a Medicare+Choice organization only if the plan serves the geographic area in which the individual resides.
+&emsp;&emsp;Except as the Secretary may otherwise provide and except as provided in subparagraph (C), an individual is eligible to elect a Medicare+Choice plan offered by a Medicare+Choice organization only if the plan serves the geographic area in which the individual resides.
 
 #### (B) Continuation of enrollment permitted
 
 &emsp;&emsp;Pursuant to rules specified by the Secretary, the Secretary shall provide that a plan may offer to all individuals residing in a geographic area the option to continue enrollment in the plan, notwithstanding that the individual no longer resides in the service area of the plan, so long as the plan provides that individuals exercising this option have, as part of the basic benefits described in section 1395w–22(a)(1)(A) of this title, reasonable access within that geographic area to the full range of basic benefits, subject to reasonable cost sharing liability in obtaining such benefits.
 
+#### (C) Continuation of enrollment permitted where service changed
+
+&emsp;&emsp;Notwithstanding subparagraph (A) and in addition to subparagraph (B), if a Medicare+Choice organization eliminates from its service area a Medicare+Choice payment area that was previously within its service area, the organization may elect to offer individuals residing in all or portions of the affected area who would otherwise be ineligible to continue enrollment the option to continue enrollment in a Medicare+Choice plan it offers so long as—
+
+&emsp;&emsp;&emsp;(i) the enrollee agrees to receive the full range of basic benefits (excluding emergency and urgently needed care) exclusively at facilities designated by the organization within the plan service area; and
+
+&emsp;&emsp;&emsp;(ii) there is no other Medicare+Choice plan offered in the area in which the enrollee resides at the time of the organization's election.
+
 #### (2) Special rule for certain individuals covered under FEHBP or eligible for veterans or military health benefits
 
 #### (A) FEHBP
 
-&emsp;&emsp;An individual who is enrolled in a health benefit plan under chapter 89 of title 5 is not eligible to enroll in an MSA plan until such time as the Director of the Office of Management and Budget certifies to the Secretary that the Office of Personnel Management has adopted policies which will ensure that the enrollment of such individuals in such plans will not result in increased expenditures for the Federal Government for health benefit plans under such chapter.
+&emsp;&emsp;An individual who is enrolled in a health benefit plan under chapter 89 of title 5 is noteligible to enroll in an MSA plan until such time as the Director of the Office of Management and Budget certifies to the Secretary that the Office of Personnel Management has adopted policies which will ensure that the enrollment of such individuals in such plans will not result in increased expenditures for the Federal Government for health benefit plans under such chapter.
 
 #### (B) VA and DOD
 
-&emsp;&emsp;The Secretary may apply rules similar to the rules described in subparagraph (A) inthe case of individuals who are eligible for health care benefits under chapter 55 of title 10 or under chapter 17 of title 38.
+&emsp;&emsp;The Secretary may apply rules similar to the rules described in subparagraph (A) in the case of individuals who are eligible for health care benefits under chapter 55 of title 10 or under chapter 17 of title 38.
 
 #### (3) Limitation on eligibility of qualified medicare beneficiaries and other medicaid beneficiaries to enroll in an MSA plan
 
@@ -122,7 +130,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall provide for activities under this subsection to broadly disseminate information to medicare beneficiaries (and prospective medicare beneficiaries) on the coverage options provided under this section in order to promote an active, informed selection among such options.
+&emsp;The Secretary shall provide for activities under this subsection to broadly disseminate information to medicare beneficiaries (andprospective medicare beneficiaries) on the coverage options provided under this section in order to promote an active, informed selection among such options.
 
 #### (2) Provision of notice
 
@@ -212,7 +220,7 @@
 
 #### (B) Premiums
 
-&emsp;&emsp;The Medicare+Choice monthly basic beneficiary premium and Medicare+Choice monthly supplemental beneficiary premium, if any, for the plan or, in the case of an MSA plan, the Medicare+Choice monthly MSA premium.
+&emsp;&emsp;The Medicare+Choice monthly basic beneficiary premium and Medicare+Choicemonthly supplemental beneficiary premium, if any, for the plan or, in the case of an MSA plan, the Medicare+Choice monthly MSA premium.
 
 #### (C) Service area
 
@@ -222,7 +230,7 @@
 
 &emsp;&emsp;To the extent available, plan quality and performance indicators for the benefits under the plan (and how they compare to such indicators under the original medicare fee-for-service program under parts A and B of this subchapter in the area involved), including—
 
-&emsp;&emsp;&emsp;(i) disenrollment rates for medicare enrollees electing to receive benefits throughthe plan for the previous 2 years (excluding disenrollment due to death or moving outside the plan's service area),
+&emsp;&emsp;&emsp;(i) disenrollment rates for medicare enrollees electing to receive benefits through the plan for the previous 2 years (excluding disenrollment due to death or moving outside the plan's service area),
 
 &emsp;&emsp;&emsp;(ii) information on medicare enrollee satisfaction,
 
@@ -264,7 +272,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), at any time during the first 6 months of 2002, or, if the individual first becomes a Medicare+Choice eligible individual during 2002, during the first 6 months during 2002 in which the individual is a Medicare+Choice eligible individual, a Medicare+Choice eligible individual may change the election under subsection (a)(1) of this section.
+&emsp;&emsp;&emsp;Subject to clause (ii) and subparagraph (D), at any time during the first 6 months of 2002, or, if the individual first becomes a Medicare+Choice eligible individual during 2002, during the first 6 months during 2002 in which the individual is a Medicare+Choice eligible individual, a Medicare+Choice eligible individual may change the election under subsection (a)(1) of this section.
 
 #### (ii) Limitation of one change
 
@@ -274,11 +282,19 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), at any time during the first 3 months of a year after 2002, or, if the individual first becomes a Medicare+Choice eligible individual during a year after 2002, during the first 3 months of such year in which the individual is a Medicare+Choice eligible individual, a Medicare+Choice eligible individual may change the election under subsection (a)(1) of this section.
+&emsp;&emsp;&emsp;Subject to clause (ii) and subparagraph (D), at any time during the first 3 months of a year after 2002, or, if the individual first becomes a Medicare+Choice eligible individual during a year after 2002, during the first 3 months of such year in which the individual is a Medicare+Choice eligible individual, a Medicare+Choice eligible individual may change the election under subsection (a)(1) of this section.
 
 #### (ii) Limitation of one change during open enrollment period each year
 
 &emsp;&emsp;&emsp;An individual may exercise the right under clause (i) only once during the applicable 3-month period described in such clause in each year. The limitation under this clause shall not apply to changes in elections effected during an annual, coordinated election period under paragraph (3) or during a special enrollment period under paragraph (4).
+
+#### (D) Continuous open enrollment for institutionalized individuals
+
+&emsp;&emsp;At any time after 2001 in the case of a Medicare+Choice eligible individual who is institutionalized (as defined by the Secretary), the individual may elect under subsection (a)(1) of this section—
+
+&emsp;&emsp;&emsp;(i) to enroll in a Medicare+Choice plan; or
+
+&emsp;&emsp;&emsp;(ii) to change the Medicare+Choice plan in which the individual is enrolled.
 
 #### (3) Annual, coordinated election period
 
@@ -292,17 +308,19 @@
 
 #### (C) Medicare+Choice health information fairs
 
-&emsp;&emsp;In the month of November of each year (beginning with 1999), in conjunction with the annual coordinated election period defined in subparagraph (B), the Secretary shall provide for a nationally coordinated educational and publicity campaign to inform Medicare+Choice eligible individuals about Medicare+Choice plans and the election process provided under this section.
+&emsp;&emsp;During the fall season of each year (beginning with 1999), in conjunction with the annual coordinated election period defined in subparagraph (B), the Secretary shall provide for a nationally coordinated educational and publicity campaign to inform Medicare+Choice eligible individuals about Medicare+Choice plans and the election process provided under this section.
 
 #### (D) Special information campaign in 1998
 
-&emsp;&emsp;During November 1998 the Secretary shall provide for an educational and publicitycampaign to inform Medicare+Choice eligible individuals about the availability of Medicare+Choice plans, and eligible organizations with risk-sharing contracts under section 1395mm of this title, offered in different areas and the election process provided under this section.
+&emsp;&emsp;During November 1998 the Secretary shall provide for an educational and publicity campaign to inform Medicare+Choice eligible individuals about the availability of Medicare+Choice plans, and eligible organizations with risk-sharing contracts under section 1395mm of this title, offered in different areas and the election process provided under this section.
 
 #### (4) Special election periods
 
 &emsp;Effective as of January 1, 2002, an individual may discontinue an election of a Medicare+�Choice plan offered by a Medicare+Choice organization other than during an annual, coordinated election period and make a new election under this section if—
 
-&emsp;&emsp;(A) the organization's or plan's certification under this part has been terminated or the organization has terminated or otherwise discontinued providing the plan in the area in which the individual resides;
+&emsp;&emsp;(A)(i) the certification of the organization or plan under this part has been terminated, or the organization or plan has notified the individual of an impending termination of such certification; or
+
+&emsp;&emsp;(ii) the organization has terminated or otherwise discontinued providing the plan in the area in which the individual resides, or has notified the individual of an impending termination or discontinuation of such plan;
 
 &emsp;&emsp;(B) the individual is no longer eligible to elect the plan because of a change in the individual's place of residence or other change in circumstances (specified by the Secretary, but not including termination of the individual's enrollment on the basis described in clause (i) or (ii) of subsection (g)(3)(B) of this section);
 
@@ -348,7 +366,7 @@
 
 #### (2) During continuous open enrollment periods
 
-&emsp;An election or change of coverage made under subsection (e)(2) of this section shall take effect with the first day of the first calendar month following the date on which the election is made.
+&emsp;An election or change of coverage made under subsection (e)(2) of this section shall take effect with the first day of the first calendar month following the date on which the election or change is made, except that if such election or change is made after the 10th day of any calendar month, then the election or change shall not take effect until the first day of the second calendar month following the date on which the election or change is made.
 
 #### (3) Annual, coordinated election period
 
@@ -366,7 +384,7 @@
 
 #### (2) Priority
 
-&emsp;If the Secretary determines that a Medicare+Choice organization, in relation to aMedicare+Choice plan it offers, has a capacity limit and the number of Medicare+Choice eligible individuals who elect the plan under this section exceeds the capacity limit, the organization may limit the election of individuals of the plan under this section but only if priority in election is provided—
+&emsp;If the Secretary determines that a Medicare+Choice organization, in relation to a Medicare+Choice plan it offers, has a capacity limit and the number of Medicare+Choice eligible individuals who elect the plan under this section exceeds the capacity limit, the organization may limit the election of individuals of the plan under this section but only if priority in election is provided—
 
 &emsp;&emsp;(A) first to such individuals as have elected the plan at the time of the determination, and
 
@@ -416,7 +434,7 @@
 
 #### (2) Review
 
-&emsp;The standards established under section 1395w–26 of this title shall include guidelines for the review of any material or form submitted and under such guidelines the Secretary shall disapprove (or later require the correction of) such material or form if the material or form is materially inaccurate or misleading or otherwise makes a material misrepresentation.
+&emsp;The standards established under section 1395w–26 of this title shall include guidelinesfor the review of any material or form submitted and under such guidelines the Secretary shall disapprove (or later require the correction of) such material or form if the material or form is materially inaccurate or misleading or otherwise makes a material misrepresentation.
 
 #### (3) Deemed approval (1-stop shopping)
 
@@ -438,13 +456,67 @@
 
 #### (2) Only organization entitled to payment
 
-&emsp;Subject to sections 1395w–23(e), 1395w–23(g), 1395w–23(h), 1395w–27(f)(2), and <sup>1</sup> 1395ww(d)(11), and 1395ww(h)(3)(D) of this title, only the Medicare+Choice organization shall be entitled to receive payments from the Secretary under this subchapter for services furnished to the individual.
+&emsp;Subject to sections 1395w–23(e), 1395w–23(g), 1395w–23(h), 1395w–27(f)(2), 1395ww(d)(11), and 1395ww(h)(3)(D) of this title, only the Medicare+Choice organization shall be entitled to receive payments from the Secretary under this subchapter for services furnished to the individual.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(A), title V, §§501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–378 to 1501A–380, 1501A–385.)
 
 #### References in Text
 
 Parts A and B of this subchapter, referred to in text, are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
+
+#### Amendments
+
+1999—Subsec. (b)(1)(A). Pub. L. 106–113, §1000(a)(6) \[title V, §501(c)(1)\], inserted “and except as provided in subparagraph (C)” after “may otherwise provide”.
+
+Subsec. (b)(1)(C). Pub. L. 106–113, §1000(a)(6) \[title V, §501(c)(2)\], added subpar. (C).
+
+Subsec. (e)(2)(B)(i). Pub. L. 106–113, §1000(a)(6) \[title V, §501(b)(1)\], inserted “and subparagraph (D)” after “clause (ii)”.
+
+Subsec. (e)(2)(C)(i). Pub. L. 106–113, §1000(a)(6) \[title V, §501(b)(2)\], inserted “and subparagraph (D)” after “clause (ii)”.
+
+Subsec. (e)(2)(D). Pub. L. 106–113, §1000(a)(6) \[title V, §501(b)(3)\], added subpar. (D).
+
+Subsec. (e)(3)(C). Pub. L. 106–113, §1000(a)(6) \[title V, §519(a)\], substituted “During the fall season” for “In the month of November”.
+
+Subsec. (e)(4)(A). Pub. L. 106–113, §1000(a)(6) \[title V, §501(a)(1)\], added subpar. (A) and struck out former subpar. (A) which read as follows: “the organization's or plan's certification under this part has been terminated or the organization has terminated or otherwise discontinued providing the plan in the area in which the individual resides;”.
+
+Subsec. (f)(2). Pub. L. 106–113, §1000(a)(6) \[title V, §502(a)\], inserted “or change” before “is made” and “, except that if such election or change is made after the 10th day of any calendar month, then the election or change shall not take effect until the first day of the second calendar month following the date on which the election or change is made” before the period at end.
+
+Subsec. (i)(2). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(A)\], struck out “and” after “1395w–27(f)(2),”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by section 1000(a)(6) \[title III, §321(k)(6)(A)\] of Pub. L. 106–113 effective as if included in the enactment of the Balanced Budget Act of 1997, Pub. L. 105–33, except as otherwise provided, see section 1000(a)(6) \[title III, §321(m)\] of Pub. L. 106–113, set out as a note under section 1395d of this title.
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §501(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–379, provided that:
+
+“(1) The amendments made by subsection (a) \[amending this section and section 1395ss of this title\] apply to notices of impending terminations or discontinuances made on or after the date of the enactment of this Act \[Nov. 29, 1999\].
+
+“(2) The amendments made by subsection (c) \[amending this section\] apply to elections made on or after the date of the enactment of this Act \[Nov. 29, 1999\] with respect to eliminations of Medicare+Choice payment areas from a service area that occur before, on, or after the date of the enactment of this Act.”
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §502(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380, provided that: “The amendments made by this section \[amending this section\] apply to elections and changes of coverage made on or after January 1, 2000.”
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §519(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–385, provided that: “The amendment made by subsection (a) \[amending this section\] first applies to campaigns conducted beginning in 2000.”
+
+#### Report on Accounting for VA and DOD Expenditures for Medicare Beneficiaries
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §551\], Nov. 29, 1999, 113 Stat. 1536, 1501A–392, provided that: “Not later \[than\] April 1, 2001, the Secretary of Health and Human Services, jointly with the Secretaries of Defense and of Veterans Affairs, shall submit to Congress a report on the estimated use of health care services furnished by the Departments of Defense and of Veterans Affairs to medicare beneficiaries, including both beneficiaries under the original medicare fee-for-service program and under the Medicare+Choice program. The report shall include an analysis of how best to properly account for expenditures for such services in the computation of Medicare+Choice capitation rates.”
+
+#### Report on Medicare MSA (Medical Savings Account) Plans
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §552(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–393, provided that: “Not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1999\], the Medicare Payment Assessment Commission shall submit to Congress a report on specific legislative changes that should be made to make MSA plans (as defined in section 1859(b)(3) of the Social Security Act, 42 U.S.C. 1395w–29(b)(3) \[1395w–28(b)(3)\]) a viable option under the Medicare+Choice program.”
+
+#### GAO Audit and Reports on Provision of Medicare+Choice Health Information to Beneficiaries
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §553(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–393, provided that:
+
+“(1)
+
+In general.—Beginning in 2000, the Comptroller General shall conduct an annual audit of the expenditures by the Secretary of Health and Human Services during the preceding year in providing information regarding the Medicare+Choice program under part C of title XVIII of the Social Security Act (42 U.S.C. 1395w–21 et seq.) to eligible medicare beneficiaries.
+
+“(3) \[(2)\]
+
+Reports.—Not later than March 31 of 2001, 2004, 2007, and 2010, the Comptroller General shall submit a report to Congress on the results of the audit of the expenditures of the preceding 3 years conducted pursuant to subsection (a) \[enacting provisions set out as a note under section 1395ss of this title\], together with an evaluation of the effectiveness of the means used by the Secretary of Health and Human Services in providing information regarding the Medicare+Choice program under part C of title XVIII of the Social Security Act (42 U.S.C. 1395w–21 et seq.) to eligible medicare beneficiaries.”
 
 #### Enrollment Transition Rule
 
@@ -522,7 +594,5 @@ Separate From Other Demonstration Projects.—A project implemented by the Secre
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395w–22, 1395w–23, 1395w–24, 1395w–27, 1395w–28, 1395mm, 1395ss, 1395ggg of this title.
-
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+This section is referred to in sections 1395w–22, 1395w–23, 1395w–24, 1395w–27, 1395w–28, 1395mm, 1395nn, 1395ss, 1395ggg of this title.
 

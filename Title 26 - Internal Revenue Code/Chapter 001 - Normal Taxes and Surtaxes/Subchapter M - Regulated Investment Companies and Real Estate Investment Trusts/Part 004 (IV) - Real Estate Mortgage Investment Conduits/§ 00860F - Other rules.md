@@ -114,7 +114,7 @@ For purposes of section 1091—
 
 &emsp;(1) any residual interest in a REMIC shall be treated as a security, and
 
-&emsp;(2) in applying such section to any loss claimed to have been sustained on the sale orother disposition of a residual interest in a REMIC—
+&emsp;(2) in applying such section to any loss claimed to have been sustained on the sale or other disposition of a residual interest in a REMIC—
 
 &emsp;&emsp;(A) except as provided in regulations, any residual interest in any REMIC and any interest in a taxable mortgage pool (as defined in section 7701(i)) comparable to a residual interest in a REMIC shall be treated as substantially identical stock or securities, and
 

@@ -6,7 +6,7 @@ Nonapplication.—Except as provided in the International Navigational Rules Act
 
 (b)
 
-Extending Application Outside United States.—The President may extend (in the wayand for periods the President considers necessary) the application of this part to outside the United States when—
+Extending Application Outside United States.—The President may extend (in the way and for periods the President considers necessary) the application of this part to outside the United States when—
 
 &emsp;(1) an international arrangement gives the United States Government authority to make the extension; and
 
@@ -42,7 +42,7 @@ Aug. 23, 1958, Pub. L. 85–726, §§1106, 1109(a), 1110, 72 Stat. 798, 799, 800
 
 49 App.:1506.
 
-In subsection (a), the words “International Navigational Rules Act of 1977 (33 U.S.C. 1601 et seq.)” are substituted for “sections 143 to 147d of title 33” because those sections were repealed by section 3 of the Act of September 24, 1963 (Public Law 88–131, 77 Stat. 194), and replaced by 33:ch. 21. Chapter 21 was repealed by section 10 of the International Navigational Rules Act of 1977 (Public Law 95–75, 91 Stat. 311) and replaced by 33:1601–1608. The words “including any definition of ‘vessel’ or ‘vehicle’ found therein” and “be construed to” are omitted as surplus.
+In subsection (a), the words “International Navigational Rules Act of 1977 (33 U.S.C. 1601 et seq.)” are substituted for “sections 143 to 147d of title 33” becausethose sections were repealed by section 3 of the Act of September 24, 1963 (Public Law 88–131, 77 Stat. 194), and replaced by 33:ch. 21. Chapter 21 was repealed by section 10 of the International Navigational Rules Act of 1977 (Public Law 95–75, 91 Stat. 311) and replaced by 33:1601–1608. The words “including any definition of ‘vessel’ or ‘vehicle’ found therein” and “be construed to” are omitted as surplus.
 
 In subsection (b), before clause (1), the words “to the extent”, “of time”, and “any areas of land or water” are omitted as surplus. The words “and the overlying airspace thereof” are omitted as being included in “outside the United States”. In clause (1), the words “treaty, agreement or other lawful” and “necessary legal” are omitted as surplus.
 

@@ -6,7 +6,7 @@ Where any parent or Indian custodian voluntarily consents to a foster care place
 
 #### (b) Foster care placement; withdrawal of consent
 
-Any parent or Indian custodian may withdraw consent to a foster care placement under State law at any time and, upon such withdrawal, the child shall be returned to the parent or Indian custodian.
+Any parent or Indian custodian may withdraw consent to a foster care placement under Statelaw at any time and, upon such withdrawal, the child shall be returned to the parent or Indian custodian.
 
 #### (c) Voluntary termination of parental rights or adoptive placement; withdrawal of consent; return of custody
 

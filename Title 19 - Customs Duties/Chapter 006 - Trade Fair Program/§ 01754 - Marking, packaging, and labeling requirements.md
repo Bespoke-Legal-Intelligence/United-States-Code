@@ -12,7 +12,7 @@ Articles entered under section 1752 of this title shall not be subject to the pa
 
 &emsp;(2) when entered for consumption under section 1753 of this title, shall not be released from customs custody until such packaging, marking, and labeling requirements have been complied with.
 
-> The application of the permit requirements of the Federal Alcohol Administration Act and the occupational taxes prescribed by chapter 51 of the Internal Revenue Code of 1986 shall be determined without regard to this chapter.
+> The application of the permit requirements of the Federal Alcohol Administration Act and theoccupational taxes prescribed by chapter 51 of the Internal Revenue Code of 1986 shall be determined without regard to this chapter.
 
 (Pub. L. 86–14, §5, Apr. 22, 1959, 73 Stat. 19; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 

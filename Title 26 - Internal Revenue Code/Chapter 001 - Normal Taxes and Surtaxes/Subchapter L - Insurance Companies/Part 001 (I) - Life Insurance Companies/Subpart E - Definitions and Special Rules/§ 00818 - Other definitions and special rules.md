@@ -30,7 +30,7 @@ In the case of a life insurance company—
 
 &emsp;&emsp;(B) property described in section 1231(b)(2), and
 
-&emsp;(2) in applying section 1221(2), the reference to property used in trade or business shall be treated as including only property used in carrying on an insurance business.
+&emsp;(2) in applying section 1221(a)(2), the reference to property used in trade or business shall be treated as including only property used in carrying on an insurance business.
 
 #### (c) Gain on property held on December 31, 1958 and certain substituted property acquired after 1958
 
@@ -60,7 +60,7 @@ In the case of a life insurance company—
 
 #### (3) Property defined
 
-&emsp;For purposes of paragraphs (1) and (2), the term “property” does not include insurance and annuity contracts and property described in paragraph (1) of section 1221.
+&emsp;For purposes of paragraphs (1) and (2), the term “property” does not include insuranceand annuity contracts and property described in paragraph (1) of section 1221(a).
 
 #### (d) Insurance or annuity contract includes contracts supplementary thereto
 
@@ -86,7 +86,7 @@ For purposes of this part, the term “insurance or annuity contract” includes
 
 #### (A) In general
 
-&emsp;&emsp;On or before September 15, 1985, any life insurance company may elect to treat itemsdescribed in paragraph (1) as properly apportioned or allocated among items of gross income to the extent (and in the manner) prescribed in regulations.
+&emsp;&emsp;On or before September 15, 1985, any life insurance company may elect to treat items described in paragraph (1) as properly apportioned or allocated among items of gross income to the extent (and in the manner) prescribed in regulations.
 
 #### (B) Election irrevocable
 
@@ -112,7 +112,7 @@ For purposes of this part—
 
 &emsp;Paragraph (1) shall not apply to any rider which is treated as a long-term care insurance contract under section 7702B.
 
-(Added and amended Pub. L. 98–369, div. A, title II, §211(a), title X, §1001(b)(10), (e), July 18, 1984, 98 Stat. 752, 1011, 1012; Pub. L. 99–514, title XI, §§1106(d)(3)(C), 1112(d)(4), 1136(b), title XVIII, §1821(n), (<i>o</i>), Oct. 22, 1986, 100 Stat. 2424, 2445, 2486, 2842; Pub. L. 100–647, title I, §§1010(k), 1011(e)(5)(A), Nov. 10, 1988, 102 Stat. 3456, 3461; Pub. L. 104–191, title III, §332(a), Aug. 21, 1996, 110 Stat. 2069.)
+(Added and amended Pub. L. 98–369, div. A, title II, §211(a), title X, §1001(b)(10), (e), July 18, 1984, 98 Stat. 752, 1011, 1012; Pub. L. 99–514, title XI, §§1106(d)(3)(C), 1112(d)(4), 1136(b), title XVIII, §1821(n), (<i>o</i>), Oct. 22, 1986, 100 Stat. 2424, 2445, 2486, 2842; Pub. L. 100–647, title I, §§1010(k), 1011(e)(5)(A), Nov. 10, 1988, 102 Stat. 3456, 3461; Pub. L. 104–191, title III, §332(a), Aug. 21, 1996, 110 Stat. 2069; Pub. L. 106–170, title V, §532(c)(1)(D), (3), Dec. 17, 1999, 113 Stat. 1930, 1931.)
 
 #### References in Text
 
@@ -130,7 +130,7 @@ A prior section 819A, added Pub. L. 94–455, title X, §1043(a), Oct. 4, 1976, 
 
 A prior section 820, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 137; amended Pub. L. 94–455, title XIX, §§1901(a)(103), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1834, related to optional treatment of policies reinsured under modified coinsurance contracts, prior to repeal by Pub. L. 97–248, title II, §255(a), (c), Sept. 3, 1982, 96 Stat. 533, 534, applicable to taxable years beginning after Dec. 31, 1981, with exception.
 
-A prior section 821, acts Aug. 16, 1954, ch. 736, 68A Stat. 260; Mar. 30, 1955, ch. 18, §2, 69 Stat. 14; Mar. 13, 1956, ch. 83, §3(a)(1), (2), 70 Stat. 47; Mar. 29, 1956, ch. 115, §2, 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §2, 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §2, 72 Stat. 259; June 30, 1959, Pub. L. 86–75, §2, 73 Stat. 157; June 30, 1960, Pub. L. 86–564, title II, §201, 74 Stat. 290; June 30, 1961, Pub. L. 87–72, §2, 75 Stat. 193; June 28, 1962, Pub. L. 87–508, §2, 76 Stat. 114; Oct. 16, 1962, Pub. L. 87–834, §8(a), 76 Stat. 989; June 29, 1963 Pub. L. 88–52, §2, 77 Stat. 72; Feb. 26, 1964, Pub. L. 88–272, title I, §123(a), 78 Stat. 29; Nov. 13, 1966, Pub. L. 89–809, title I, §104(i)(4), 80 Stat. 1562; Oct. 4, 1976, Pub. L. 94–455, title IX, §901(b), title XV, §1507(b)(1), title XIX, §§1901(a)(104), 1906(b)(13)(A), 90 Stat. 1607, 1739, 1782, 1834; May 23, 1977, Pub. L. 95–30, title II, §201(3), (4), 91 Stat. 141; Nov. 6, 1978, Pub. L. 95–600, title III, §301(b)(9), 92 Stat. 2821; Aug. 13, 1981, Pub. L. 97–34, title II, §231(b)(1), (2), 95 Stat. 249, related to tax on mutual insurance companies to which former part II applied, prior to repeal by Pub. L. 99–514, title X, §1024(a)(1), Oct. 22, 1986, 100 Stat. 2405, effective for taxable years beginning after Dec. 31, 1986.
+A prior section 821, acts Aug. 16, 1954, ch. 736, 68A Stat. 260; Mar. 30, 1955, ch. 18, §2, 69 Stat. 14; Mar. 13, 1956, ch. 83, §3(a)(1), (2), 70 Stat. 47; Mar. 29, 1956, ch. 115,§2, 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §2, 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §2, 72 Stat. 259; June 30, 1959, Pub. L. 86–75, §2, 73 Stat. 157; June 30, 1960, Pub. L. 86–564, title II, §201, 74 Stat. 290; June 30, 1961, Pub. L. 87–72, §2, 75 Stat. 193; June 28, 1962, Pub. L. 87–508, §2, 76 Stat. 114; Oct. 16, 1962, Pub. L. 87–834, §8(a), 76 Stat. 989; June 29, 1963 Pub. L. 88–52, §2, 77 Stat. 72; Feb. 26, 1964, Pub. L. 88–272, title I, §123(a), 78 Stat. 29; Nov. 13, 1966, Pub. L. 89–809, title I, §104(i)(4), 80 Stat. 1562; Oct. 4, 1976, Pub. L. 94–455, title IX, §901(b), title XV, §1507(b)(1), title XIX, §§1901(a)(104), 1906(b)(13)(A), 90 Stat. 1607, 1739, 1782, 1834; May 23, 1977, Pub. L. 95–30, title II, §201(3), (4), 91 Stat. 141; Nov. 6, 1978, Pub. L. 95–600, title III, §301(b)(9), 92 Stat. 2821; Aug. 13, 1981, Pub. L. 97–34, title II, §231(b)(1), (2), 95 Stat. 249, related to tax on mutual insurance companies to which former part II applied, prior to repeal by Pub. L. 99–514, title X, §1024(a)(1), Oct. 22, 1986, 100 Stat. 2405, effective for taxable years beginning after Dec. 31, 1986.
 
 A prior section 822 was renumbered section 834 of this title by Pub. L. 99–514, title X, §1024(a)(3), Oct. 22, 1986, 100 Stat. 2405.
 
@@ -145,6 +145,10 @@ A prior section 825, added Pub. L. 87–834, §8(c), Oct. 16, 1962, 76 Stat. 995
 A prior section 826 was renumbered section 835 of this title by Pub. L. 99–514, title X, §1024(a)(3), Oct. 22, 1986, 100 Stat. 2405.
 
 #### Amendments
+
+1999—Subsec. (b)(2). Pub. L. 106–170, §532(c)(3), substituted “section 1221(a)(2)” for “section 1221(2)”.
+
+Subsec. (c)(3). Pub. L. 106–170, §532(c)(1)(D), substituted “section 1221(a)” for “section 1221”.
 
 1996—Subsec. (g). Pub. L. 104–191 added subsec. (g).
 
@@ -163,6 +167,10 @@ Subsec. (a)(6)(A). Pub. L. 99–514, §1821(n), in amending subpar. (A) generall
 Subsec. (e). Pub. L. 99–514, §1821(<i>o</i>), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “If an election under section 1504(c)(2) is in effect with respect to an affiliated group for the taxable year, all items of the members of such group which are not life insurance companies shall not be taken into account in determining the amount of the tentative LICTI of members of such group which are life insurance companies.”
 
 1984—Subsec. (b)(1)(A). Pub. L. 98–369, §1001(b)(10), (e), substituted “6 months” for “1 year” in two places, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
 
 #### Effective Date of 1996 Amendment
 

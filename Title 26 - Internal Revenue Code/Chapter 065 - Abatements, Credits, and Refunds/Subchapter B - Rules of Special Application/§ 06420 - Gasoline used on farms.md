@@ -118,7 +118,7 @@ A prior section 6420 was renumbered section 6422 of this title.
 
 1993—Subsec. (c)(5). Pub. L. 103–66, §13242(d)(20), substituted “section 4083(a)” for “section 4082(b)”.
 
-Subsec. (h). Pub. L. 103–66, §13241(f)(5), struck out heading and text of subsec. (h). Text read as follows:“Except with respect to taxes imposed by section 4081 at the Leaking Underground Storage Tank Trust Fund financing rate, this section shall apply only with respect to gasoline purchased before October 1, 1999.”
+Subsec. (h). Pub. L. 103–66, §13241(f)(5), struck out heading and text of subsec. (h). Text read as follows: “Except with respect to taxes imposed by section 4081 at the Leaking Underground Storage Tank Trust Fund financing rate, this section shall apply only with respect to gasoline purchased before October 1, 1999.”
 
 1991—Subsec. (h). Pub. L. 102–240 substituted “1999” for “1995”.
 
@@ -202,7 +202,7 @@ Section 3(d) of Pub. L. 95–458 provided that: “The amendments made by this s
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1906(a)(26), (b)(13)(A) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
+Amendment by section 1906(a)(26), (b)(13)(A) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
 Section 1906(b)(6)(B) of Pub. L. 94–455 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall apply with respect to the use of liquids after December 31, 1970.”
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 91–258 effective July 1, 1970, and applicable with respec
 
 #### Effective Date of 1965 Amendment
 
-Section 809(f) of Pub. L. 89–44 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 6421 of this title\] shall apply with respect to gasoline used on or after July 1, 1965. The amendments made by subsections (c) and (d) \[renumbering section 39 as 40, enacting section 39 and amending sections 72, 874, 1314, 1481, 6201, 6211, 6213, and 6401 of this title\] shall apply to taxable years beginning on or after July 1, 1965.”
+Section 809(f) of Pub. L. 89–44 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 6421 of this title\] shall apply with respect to gasoline used on or after July 1, 1965.The amendments made by subsections (c) and (d) \[renumbering section 39 as 40, enacting section 39 and amending sections 72, 874, 1314, 1481, 6201, 6211, 6213, and 6401 of this title\] shall apply to taxable years beginning on or after July 1, 1965.”
 
 #### Effective Date of 1958 Amendment
 

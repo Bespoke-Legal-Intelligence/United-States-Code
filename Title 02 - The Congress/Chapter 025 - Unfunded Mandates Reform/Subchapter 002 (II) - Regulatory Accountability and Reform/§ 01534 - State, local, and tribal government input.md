@@ -28,7 +28,7 @@ Memorandum of President of the United States, Aug. 25, 1995, 60 F.R. 45039, prov
 
 Memorandum for the Director of the Office of Management and Budget
 
-By the authority vested in me as President by the Constitution and laws of the United States, including section 204(c) of the Unfunded Mandates Reform Act of 1995 (Public Law 104–4) \[2 U.S.C. 1534(c)\] and section 301 of title 3 of the United States Code, I hereby delegate to the Director of the Office of Management and Budget the authority vested in the President to issue the guidelines and instructions to Federal agencies required by section 204(c) of that Act.
+By the authority vested in me as President by the Constitution and laws of the United States, including section 204(c) of the Unfunded Mandates Reform Act of 1995 (Public Law 104–4) \[2 U.S.C. 1534(c)\] and section 301 of title 3 of the United States Code, I hereby delegateto the Director of the Office of Management and Budget the authority vested in the President to issue the guidelines and instructions to Federal agencies required by section 204(c) of that Act.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

@@ -28,7 +28,7 @@
 
 #### (b) Section not to apply to communications regarding corporate tax shelters
 
-The privilege under subsection (a) shall not apply to any written communication between a federally authorized tax practitioner and a director, shareholder, officer, or employee, agent, or representative of a corporation in connectionwith the promotion of the direct or indirect participation of such corporation in any tax shelter (as defined in section 6662(d)(2)(C)(iii)).
+The privilege under subsection (a) shall not apply to any written communication between a federally authorized tax practitioner and a director, shareholder, officer, or employee, agent, or representative of a corporation in connection with the promotion of the direct or indirect participation of such corporation in any tax shelter (as defined in section 6662(d)(2)(C)(iii)).
 
 (Added Pub. L. 105–206, title III, §3411(a), July 22, 1998, 112 Stat. 750.)
 

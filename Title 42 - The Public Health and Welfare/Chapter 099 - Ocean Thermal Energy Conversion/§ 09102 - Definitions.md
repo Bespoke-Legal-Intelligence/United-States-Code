@@ -22,7 +22,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(10) “licensee” means the holder of a valid license for the ownership, construction, and operation of an ocean thermal energy conversion facility or plantship that was issued, transferred, or renewed pursuant to this chapter;
 
-&emsp;(11) “ocean thermal energy conversion facility” means any facility which is standing, fixed or moored in whole or in part seaward of the highwater mark and which is designed to use temperature differences in ocean water to produce electricity or another form of energycapable of being used directly to perform work, and includes any equipment installed on such facility to use such electricity or other form of energy to produce, process, refine, or manufacture a product, and any cable or pipeline used to deliver such electricity, fresh water, or product to shore, and all other associated equipment and appurtenances of such facility, to the extent they are located seaward of the highwater mark;
+&emsp;(11) “ocean thermal energy conversion facility” means any facility which is standing, fixed or moored in whole or in part seaward of the highwater mark and which is designed to use temperature differences in ocean water to produce electricity or another form of energy capable of being used directly to perform work, and includes any equipment installed on such facility to use such electricity or other form of energy to produce, process, refine, or manufacture a product, and any cable or pipeline used to deliver such electricity, fresh water, or product to shore, and all other associated equipment and appurtenances of such facility, to the extent they are located seaward of the highwater mark;
 
 &emsp;(12) “ocean thermal energy conversion plantship” means any vessel which is designed to use temperature differences in ocean water while floating unmoored or moving through such water, to produce electricity or another form of energy capable of being used directly to perform work, and includes any equipment installed on such vessel to use such electricity or other form of energy to produce, process, refine, or manufacture a product, and any equipment used to transfer such product to other vessels for transportation to users, and all other associated equipment and appurtenances of such vessel;
 
@@ -57,4 +57,8 @@ Pub. L. 98–623, §602(e)(7), substituted “fresh water” for “freshwater�
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
+
+#### Contiguous Zone of United States
+
+For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
 

@@ -70,7 +70,7 @@ The Secretary shall establish and conduct a national shoreline erosion control d
 
 &emsp;&emsp;Projects under the erosion control program shall be carried out at not fewer than—
 
-&emsp;&emsp;&emsp;(i) 2 sites on each of the shorelines of the Atlantic and Pacific coasts;
+&emsp;&emsp;&emsp;(i) 2 sites on each of the shorelines of the Atlantic and Pacific coasts, including the city of Miami Beach, Florida;
 
 &emsp;&emsp;&emsp;(ii) 2 sites on the shoreline of the Great Lakes; and
 
@@ -114,7 +114,7 @@ Not later than 60 days after the conclusion of the erosion control program, the 
 
 &emsp;There is authorized to be appropriated $21,000,000 to carry out this section.
 
-(Aug. 13, 1946, ch. 960, §5, as added Pub. L. 104–303, title II, §227(e)(1), Oct. 12, 1996, 110 Stat. 3700.)
+(Aug. 13, 1946, ch. 960, §5, as added Pub. L. 104–303, title II, §227(e)(1), Oct. 12, 1996, 110 Stat. 3700; amended Pub. L. 106–53, title V, §581, Aug. 17, 1999, 113 Stat. 375.)
 
 #### References in Text
 
@@ -123,6 +123,10 @@ The Shoreline Erosion Control Demonstration Act of 1974, referred to in subsec. 
 #### Prior Provisions
 
 A prior section 426h, acts Aug. 13, 1946, ch. 960, §5, formerly §4, 60 Stat. 1057; July 28, 1956, ch. 768, 70 Stat. 703; renumbered §5, Oct. 12, 1996, Pub. L. 104–303, title II, §227(d)(1), 110 Stat. 3700, defined the word “shores” as used in sections 426e to 426h of this title, prior to repeal by Pub. L. 104–303, title II, §227(e)(1), Oct. 12, 1996, 110 Stat. 3700.
+
+#### Amendments
+
+1999—Subsec. (b)(3)(C)(i). Pub. L. 106–53 inserted “, including the city of Miami Beach, Florida” after “Pacific coasts”.
 
 #### Section Referred to in Other Sections
 

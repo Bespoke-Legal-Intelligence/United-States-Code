@@ -36,7 +36,7 @@ The Advisory Committee shall—
 
 &emsp;(2) monitor, apprise, and evaluate the effectiveness of student aid delivery and recommend improvements;
 
-&emsp;(3) recommend data collection needs and student information requirements which would improve access and choice for eligible students under this subchapter and part C of subchapter I of chapter 34 of title 42 and assist the Department of Education in improving the delivery of student aid;
+&emsp;(3) recommend data collection needs and student information requirements which would improve access and choice for eligible students under this subchapter and part C of subchapterI of chapter 34 of title 42 and assist the Department of Education in improving the delivery of student aid;
 
 &emsp;(4) assess the impact of legislative and administrative policy proposals;
 
@@ -104,7 +104,7 @@ In each fiscal year not less than $800,000, shall be available from the amount a
 
 The Advisory Committee shall—
 
-&emsp;(1) monitor and evaluate the modernization of student financial aid systems and delivery processes, including the implementation of a performance-based organization within the Department, and report to Congress regarding such modernization on not less than an annual basis, including recommendations for improvement;
+&emsp;(1) monitor and evaluate the modernization of student financial aid systems and delivery processes, including the implementation of aperformance-based organization within the Department, and report to Congress regarding such modernization on not less than an annual basis, including recommendations for improvement;
 
 &emsp;(2) assess the adequacy of current methods for disseminating information about programs under this subchapter and part C of subchapter I of chapter 34 of title 42 and recommend improvements, as appropriate, regarding early needs assessment and information for first-year secondary school students;
 

@@ -34,5 +34,5 @@ Committee on Government Operations of House of Representatives treated as referr
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 908, 909, 911 of this title; title 22 section 2587.
+This section is referred to in sections 908, 909, 911 of this title.
 

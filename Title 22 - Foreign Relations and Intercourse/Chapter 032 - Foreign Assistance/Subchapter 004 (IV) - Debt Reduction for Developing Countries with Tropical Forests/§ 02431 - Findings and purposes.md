@@ -8,7 +8,7 @@ The Congress finds the following:
 
 &emsp;(2) Tropical forests provide a wide range of benefits to humankind by—
 
-&emsp;&emsp;(A) harboring a major share of the Earth's biological and terrestrial resources, which are the basis for developing pharmaceutical products and revitalizing agricultural crops;
+&emsp;&emsp;(A) harboring a major share of the Earth's biological and terrestrial resources, whichare the basis for developing pharmaceutical products and revitalizing agricultural crops;
 
 &emsp;&emsp;(B) playing a critical role as carbon sinks in reducing greenhouse gases in the atmosphere, thus moderating potential global climate change; and
 

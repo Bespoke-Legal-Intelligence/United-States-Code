@@ -1,6 +1,6 @@
 ### §6803. Development of electric utility rate design proposals by Secretary; contents; submission to Congress; supporting analysis
 
-(a) The Secretary shall develop proposals to improve electric utility rate design. Such proposals shall be designed to encourage energy conservation, minimize the need for new electrical generating capacity, and minimize costs of electric energy to consumers, and shall include (but not be limited to) proposals which provide for the development and implementation of—
+(a) The Secretary shall develop proposals to improve electric utility rate design. Such proposals shall be designed to encourage energy conservation, minimize the need for new electrical generating capacity, and minimize costs of electric energy to consumers, and shall include (but not be limited to) proposals whichprovide for the development and implementation of—
 
 &emsp;(1) load management techniques which are cost effective;
 

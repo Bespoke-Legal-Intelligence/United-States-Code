@@ -104,7 +104,7 @@ The activities conducted and assistance provided as required by subsection (a)(1
 
 #### (C) Funding for education, training, or applied research or studies
 
-&emsp;&emsp;In addition to amounts made available under subparagraphs (A) and (B), from amounts otherwise appropriated to the Secretary in discretionary appropriations, the Secretary may provide funds to any food service management institute establishedunder subsection (a)(2) of this section for projects specified by the Secretary that will contribute to implementing dietary or nutrition initiatives. Any additional funding under this subparagraph shall be provided noncompetitively in a separate cooperative agreement.
+&emsp;&emsp;In addition to amounts made available under subparagraphs (A) and (B), from amounts otherwise appropriated to the Secretary in discretionary appropriations, the Secretary may provide funds to any food service management institute established under subsection (a)(2) of this section for projects specified by the Secretary that will contribute to implementing dietary or nutrition initiatives. Any additional funding under this subparagraph shall be provided noncompetitively in a separate cooperative agreement.
 
 (June 4, 1946, ch. 281, §21, as added Pub. L. 101–147, title I, §109, Nov. 10, 1989, 103 Stat. 887; amended Pub. L. 102–337, §1, Aug. 7, 1992, 106 Stat. 865; Pub. L. 103–448, title I, §120, Nov. 2, 1994, 108 Stat. 4726; Pub. L. 105–336, title I, §§103(c)(2), 110, Oct. 31, 1998, 112 Stat. 3147, 3157.)
 

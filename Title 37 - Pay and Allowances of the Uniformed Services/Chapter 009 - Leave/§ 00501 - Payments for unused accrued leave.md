@@ -2,7 +2,7 @@
 
 (a) In this section, the term “discharge” means—
 
-&emsp;(1) in the case of an enlisted member, separation or release from active duty under honorable conditions or appointment as an officer;
+&emsp;(1) in the case of an enlisted member, separation or release from active duty under honorable conditions, termination of an enlistment in conjunction with the commencement of a successive enlistment (without regard to the date of the expiration of the term of the enlistment being terminated), or appointment as an officer;
 
 &emsp;(2) in the case of an officer, separation or release from active duty under honorable conditions; and
 
@@ -10,11 +10,11 @@
 
 (b)(1) A member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration, who has accrued leave to his credit at the time of his discharge, is entitled to be paid in cash or by a check on the Treasurer of the United States for such leave on the basis of the basic pay to which he was entitled on the date of discharge.
 
-(2) Payment may not be made under this subsection to a member who is discharged for the purpose of accepting an appointment or a warrant, or entering into an enlistment, in any uniformed service.
+(2) Payment may not be made under this subsection to a member who is discharged for the purpose of accepting an appointment or a warrant in any uniformed service.
 
 (3) Payment may not be made to a member for any leave he elects to have carried over to a new enlistment in any uniformed service on the day after the date of his discharge; but payment may be made to a member for any leave he elects not to carry over to a new enlistment. However, the number of days of leave for which payment is made may not exceed sixty, less the number of days for which payment was previously made under this section after February 9, 1976.
 
-(4) A member to whom a payment may not be made under this subsection, or a member who reverts from officer to enlisted status, carriesthe accrued leave standing to his credit from the one status to the other within any uniformed service.
+(4) A member to whom a payment may not be made under this subsection, or a member who reverts from officer to enlisted status, carries the accrued leave standing to his credit from the one status to the other within any uniformed service.
 
 (5) The limitation in the second sentence of paragraph (3) and in subsection (f) shall not apply with respect to leave accrued—
 
@@ -48,7 +48,7 @@
 
 (h) Payment shall be made for all leave accumulated under section 701(g) of title 10 as soon as possible after the name of the person concerned is removed from a missing status, as defined in section 551(2) of this title.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480; Pub. L. 89–151, §§1, 2, Aug. 28, 1965, 79 Stat. 586; Pub. L. 89–718, §§49(a)(1), 65, Nov. 2, 1966, 80 Stat. 1121, 1123; Pub. L. 92–596, §2, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 94–361, title III, §304(a)–(g), July 14, 1976, 90 Stat. 925, 926; Pub. L. 96–513, title V, §516(14), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 98–525, title VI, §606(a), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, §682, Nov. 8, 1985, 99 Stat. 665; Pub. L. 100–26, §8(e)(6), (9), Apr. 21, 1987, 101 Stat. 286, 287; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §637, Dec. 5, 1991, 105 Stat. 1383; Pub. L. 104–106, div. A, title VI, §641, Feb. 10, 1996, 110 Stat. 368.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480; Pub. L. 89–151, §§1, 2, Aug. 28, 1965, 79 Stat. 586; Pub. L. 89–718, §§49(a)(1), 65, Nov. 2, 1966, 80 Stat. 1121, 1123; Pub. L. 92–596, §2, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 94–361, title III, §304(a)–(g), July 14, 1976, 90 Stat. 925, 926; Pub. L. 96–513, title V, §516(14), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 98–525, title VI, §606(a), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, §682, Nov. 8, 1985, 99 Stat. 665; Pub. L. 100–26, §8(e)(6), (9), Apr. 21, 1987, 101 Stat. 286, 287; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §637, Dec. 5, 1991, 105 Stat. 1383; Pub. L. 104–106, div. A, title VI, §641, Feb. 10, 1996, 110 Stat. 368; Pub. L. 106–65, div. A, title VI, §671, Oct. 5, 1999, 113 Stat. 674.)
 
 Historical and Revision Notes
 
@@ -119,6 +119,10 @@ In subsection (f), the words “cash” and “unused or accumulated” are omit
 In subsection (g), the word “retirement” is omitted as covered by the words “separation or release from active duty”. The words “under this subsection” are substituted for the words “for such unused leave”. The word “appointment” is substituted for the word “commission”.
 
 #### Amendments
+
+1999—Subsec. (a)(1). Pub. L. 106–65, §671(1), inserted “, termination of an enlistment in conjunction with the commencement of a successive enlistment (without regard to the date of the expiration of the term of the enlistment being terminated),” after “honorable conditions”.
+
+Subsec. (b)(2). Pub. L. 106–65, §671(2), struck out “, or entering into an enlistment,” after “or a warrant”.
 
 1996—Subsec. (d)(1). Pub. L. 104–106, §641(a)(1), struck out at end “Except as provided in paragraph (2), the number of days upon which payment is based is subject to subsection (f).”
 
@@ -208,7 +212,7 @@ Inapplicability of Eligibility Limitation.—The limitation in the second senten
 
 &emsp;“(3) Leave accrued by a retired member of the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps, a member of the Retired Reserve, or a member of the Fleet Reserve or Fleet Marine Corps Reserve while such retired member or member, as the case may be, is serving on active duty in connection with the Persian Gulf conflict pursuant to an order to active duty authorized by section 688 of title 10, United States Code.
 
-&emsp;“(4) Leave accrued by a member referred to in paragraph (1), (2), or (3) while serving on active duty (other than for training) in connection with the Persian Gulf conflict pursuant to an order to such active duty issued with the consent of the member during a period in which members of the Armed Forces are being ordered to active duty in connection with such operation pursuant to a provision of title 10, United States Code, referred to in such paragraph.
+&emsp;“(4) Leave accrued by a member referred to in paragraph (1), (2), or (3) while serving on active duty (other than for training) in connection with the Persian Gulf conflict pursuant to an order to such active duty issued with the consent of the member during a period in which members of the Armed Forces are being ordered to active duty in connection with suchoperation pursuant to a provision of title 10, United States Code, referred to in such paragraph.
 
 “(b)
 

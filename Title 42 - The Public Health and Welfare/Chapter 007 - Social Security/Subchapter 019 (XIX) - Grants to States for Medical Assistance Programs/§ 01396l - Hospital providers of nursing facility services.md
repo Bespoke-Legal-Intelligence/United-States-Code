@@ -14,7 +14,7 @@
 
 1987—Pub. L. 100–203, §4211(h)(9)(A), substituted “nursing facility services” for “skilled nursing and intermediate care services” in section catchline.
 
-Subsec. (a). Pub. L. 100–203, §4211(h)(9)(B), substituted “nursing facility services” for “skilled nursing facility services and intermediate care facility services” and inserted “and which, with respect to the provision of such services, meets the requirements of subsections (b) through (d) of section 1396r of this title” before period at end.
+Subsec. (a). Pub. L. 100–203, §4211(h)(9)(B), substituted “nursing facility services” for “skilled nursing facility services and intermediate care facility services” and inserted “and which, with respect to the provision ofsuch services, meets the requirements of subsections (b) through (d) of section 1396r of this title” before period at end.
 
 Subsec. (b)(1). Pub. L. 100–203, §4211(h)(9)(C), substituted “nursing facility services” for “skilled nursing or intermediate care facility services” and “nursing facilities” for “skilled nursing and intermediate care facilities”.
 

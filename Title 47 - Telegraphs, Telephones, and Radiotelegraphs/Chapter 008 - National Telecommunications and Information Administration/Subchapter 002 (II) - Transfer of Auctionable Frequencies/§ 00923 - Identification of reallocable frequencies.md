@@ -34,7 +34,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 &emsp;In accordance with the provisions of this section, the Secretary shall recommend for reallocation in the second report required by subsection (a) of this section, for use other than by Federal Government stations under section 305 of the 1934 Act (47 U.S.C. 305), a band or bands of frequencies that—
 
-&emsp;&emsp;(A) in the aggregate span not less than 20 megahertz;
+&emsp;&emsp;(A) in the aggregate span not less than 12 megahertz;
 
 &emsp;&emsp;(B) are located below 3 gigahertz; and
 
@@ -112,7 +112,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 #### (1) Submission of preliminary identification to Congress
 
-&emsp;Within 6 months after August 10, 1993, the Secretary shall prepare, make publicly available, and submit to the President, the Congress, and the Commission a report whichmakes a preliminary identification of reallocable bands of frequencies which meet the criteria established by this section.
+&emsp;Within 6 months after August 10, 1993, the Secretary shall prepare, make publicly available, and submit to the President, the Congress, and the Commission a report which makes a preliminary identification of reallocable bands of frequencies which meet the criteria established by this section.
 
 #### (2) Public comment
 
@@ -178,7 +178,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (ii) Availability
 
-&emsp;&emsp;&emsp;Subject to the provisions of authorization Acts and appropriations Acts, amounts deposited under this subparagraph shall be available to the Federal entity concerned to pay directly the costs of relocation under this paragraph, to repay or make advances to appropriations or funds which do or will initially bear all or part of such costs, or to refund excess sums when necessary.
+&emsp;&emsp;&emsp;Subject to the provisions of authorization Acts and appropriations Acts,amounts deposited under this subparagraph shall be available to the Federal entity concerned to pay directly the costs of relocation under this paragraph, to repay or make advances to appropriations or funds which do or will initially bear all or part of such costs, or to refund excess sums when necessary.
 
 #### (D) Application to certain other relocations
 
@@ -220,9 +220,9 @@ Any Federal Government station which operates on electromagnetic spectrum that h
 
 #### (i) “Federal entity” defined
 
-For purposes of this section, the term “Federal entity” means any department, agency, orother instrumentality of the Federal Government that utilizes a Government station license obtained under section 305 of the 1934 Act (47 U.S.C. 305).
+For purposes of this section, the term “Federal entity” means any department, agency, or other instrumentality of the Federal Government that utilizes a Government station license obtained under section 305 of the 1934 Act (47 U.S.C. 305).
 
-(Pub. L. 102–538, title I, §113, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 380; amended Pub. L. 105–33, title III, §3002(d)(1), (e)(1)–(3), Aug. 5, 1997, 111 Stat. 262, 264, 265; Pub. L. 105–261, div. A, title X, §1064(c), Oct. 17, 1998, 112 Stat. 2132.)
+(Pub. L. 102–538, title I, §113, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 380; amended Pub. L. 105–33, title III, §3002(d)(1), (e)(1)–(3), Aug. 5, 1997, 111 Stat. 262, 264, 265; Pub. L. 105–261, div. A, title X, §1064(c), Oct. 17, 1998, 112 Stat. 2132; Pub. L. 106–65, div. A, title X, §1062(c)(2), Oct. 5, 1999, 113 Stat. 768.)
 
 #### References in Text
 
@@ -231,6 +231,8 @@ For definition of the 1934 Act, referred to in subsecs. (a)(3), (5), (b)(2), and
 Section 3002(c)(5) of the Balanced Budget Act of 1997, referred to in subsec. (f), is section 3002(c)(5) of Pub. L. 105–33, which is set out as a note under section 925 of this title.
 
 #### Amendments
+
+1999—Subsec. (b)(3)(A). Pub. L. 106–65 substituted “12 megahertz” for “20 megahertz”.
 
 1998—Subsec. (g)(1). Pub. L. 105–261 designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Any such Federal entity which proposes to so relocate shall notify the NTIA, which in turn shall notify the Commission, before the auction concerned of the marginal costs anticipated to be associated with such relocation or with modifications necessary to accommodate prospective licensees. The Commission in turn shall notify potential bidders of the estimated relocation or modification costs based on the geographic area covered by the proposed licenses before the auction.” for “Such payments may be in advance of relocation and may be in cash or in kind. Any such payment in cash shall be deposited in the account of such Federal entity in the Treasury of the United States or in a separate account authorized by law. Funds deposited according to this paragraph shall be available, without appropriation or fiscal year limitation, only for such expenses of the Federal entity for which such funds were deposited under this paragraph.”, and added subpars. (B) to (F).
 

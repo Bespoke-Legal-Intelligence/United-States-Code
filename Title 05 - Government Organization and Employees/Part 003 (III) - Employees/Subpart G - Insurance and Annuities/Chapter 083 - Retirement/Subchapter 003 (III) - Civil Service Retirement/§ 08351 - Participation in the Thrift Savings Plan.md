@@ -24,7 +24,7 @@
 
 (7) For the purpose of this section, the term “nonforfeitable account balance” has the same meaning as under section 8401(32).
 
-(11) <sup>1</sup> In applying section 8432b to an employee contributing to the Thrift Savings Fund after being restored to or reemployed in a position subject to this subchapter, pursuant to chapter 43 of title 38—
+(8) In applying section 8432b to an employee contributing to the Thrift Savings Fund after being restored to or reemployed in a position subject to this subchapter, pursuant to chapter 43 of title 38—
 
 &emsp;(A) any reference in such section to contributions under section 8432(a) shall be considered a reference to employee contributions under this section;
 
@@ -32,19 +32,31 @@
 
 &emsp;(C) subsections (c) and (d) of section 8432b shall be disregarded.
 
+(9) For the purpose of this section, separation from Government employment includes a transfer described in section 8431.
+
 (c) A member of the Foreign Service described in section 103(6) of the Foreign Service Act of 1980 shall be ineligible to make any election under this section.
 
 (d) A foreign national employee of the Central Intelligence Agency whose services are performed outside the United States shall be ineligible to make an election under this section.
 
 (e) The Executive Director of the Federal Retirement Thrift Investment Board may prescribe regulations to carry out this section.
 
-(Added Pub. L. 99–335, title II, §206(a)(1), June 6, 1986, 100 Stat. 593; amended Pub. L. 100–238, title I, §111(a), Jan. 8, 1988, 101 Stat. 1750; Pub. L. 101–335, §§3(b)(1), 6(b)(1), July 17, 1990, 104 Stat. 320, 323; Pub. L. 102–183, title III, §308(a), Dec. 4, 1991, 105 Stat. 1265; Pub. L. 102–484, div. D, title XLIV, §4437(c), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(a), (i)(1), (2), Mar. 30, 1994, 108 Stat. 118, 121; Pub. L. 103–353, §4(d), Oct. 13, 1994, 108 Stat. 3172; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §202\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374.)
+(Added Pub. L. 99–335, title II, §206(a)(1), June 6, 1986, 100 Stat. 593; amended Pub. L. 100–238, title I, §111(a), Jan. 8, 1988, 101 Stat. 1750; Pub. L. 101–335, §§3(b)(1), 6(b)(1), July 17, 1990, 104 Stat. 320, 323; Pub. L. 102–183, title III, §308(a), Dec. 4, 1991, 105 Stat. 1265; Pub. L. 102–484, div. D, title XLIV, §4437(c), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(a), (i)(1), (2), Mar. 30, 1994, 108 Stat. 118, 121; Pub. L. 103–353, §4(d), Oct. 13, 1994, 108 Stat. 3172; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §202\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374; Pub. L. 106–65, div. A, title VI, §661(a)(3)(B), Oct. 5, 1999, 113 Stat. 671; Pub. L. 106–168, title II, §203(b), Dec. 12, 1999, 113 Stat. 1820.)
+
+#### Contingent Amendment of Subsection (b)(8)(A)
+
+<i>Pub. L. 106–65, div. A, title VI, §§661(a)(3)(B)(ii), 663, Oct. 5, 1999, 113 Stat. 671, 673, provided that effective only if the President proposes in the 2001 fiscal year budget and there is enacted in the second session of the One Hundred Sixth Congress qualifying offsetting legislation, subsection (b)(8)(A) of this section is amended by striking the semicolon and inserting the following: “, except that the reference in section 8432b(b)(2)(B) to employee contributions under section 8432(a) shall be considered a reference to employee contributions under this subchapter and section 8440e;”.</i>
 
 #### References in Text
 
 Section 103(6) of the Foreign Service Act of 1980, referred to in subsec. (c), is classified to section 3903(6) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+1999—Subsec. (b)(8). Pub. L. 106–65, §661(a)(3)(B)(i), and Pub. L. 106–168, amended subsec. (b) identically, redesignating par. (11) as (8).
+
+Subsec. (b)(9). Pub. L. 106–168 added par. (9).
+
+Subsec. (b)(11). Pub. L. 106–65, §661(a)(3)(B)(i), and Pub. L. 106–168, amended subsec. (b) identically, redesignating par. (11) as (8).
 
 1996—Subsec. (b)(5)(B). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §202(1)(A)\]\], substituted “An election or change of election” for “An election, change of election, or modification (relating to the commencement date of a deferred annuity)”, inserted “or withdrawal” after “and a loan” and “and (h)” after “8433(g)”, substituted “the election or change of election” for “the election, change of election, or modification”, and inserted “or withdrawal” after “for such loan”.
 
@@ -85,6 +97,12 @@ Pub. L. 101–335, §3(b)(1), struck out par. (8) which read as follows: “Sums
 Subsec. (b)(9), (10). Pub. L. 101–335, §6(b)(1)(A), added pars. (9) and (10).
 
 1988—Subsecs. (c), (d). Pub. L. 100–238 added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Effective Date of 1999 Amendments
+
+Amendment by Pub. L. 106–168 applicable with respect to transfers occurring before, on, or after Dec. 12, 1999, with special rule for applying amendment with respect to transfers occurring before Dec. 12, 1999, see section 203(c) of Pub. L. 106–168, set out as an Effective Date note under section 8431 of this title.
+
+Amendment by section 661(a)(3)(B)(ii) of Pub. L. 106–65 effective only if the President proposes in the 2001 fiscal year budget and there is enacted in the second session of the One Hundred Sixth Congress qualifying offsetting legislation, see section 663 of Pub. L. 106–65, set out as an Effective Date note under section 8440e of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -128,5 +146,5 @@ Section 206(b) of Pub. L. 99–335, as amended by Pub. L. 99–509, title VI, §
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8432, 8439, 8440, 8440a, 8440d of this title; title 10 section 945; title 22 section 4069; title 42 section 2297h–8; title 50 section 2142.
+This section is referred to in sections 8432, 8432c, 8439, 8440, 8440a, 8440d of this title; title 10 section 945; title 22 section 4069; title 42 section 2297h–8; title 50 section 2142.
 

@@ -22,7 +22,7 @@ The Congress finds that:
 
 #### (b) Purpose
 
-The purpose of this subchapter is to preserve and protect the tropical forest and archaeological and cultural resources of American Samoa, and of associated reefs, to maintain the habitat of flying foxes, preserve the ecological balanceof the Samoan tropical forest, and, consistent with the preservation of these resources, to provide for the enjoyment of the unique resources of the Samoan tropical forest by visitors from around the world.
+The purpose of this subchapter is to preserve and protect the tropical forest and archaeological and cultural resources of American Samoa, and of associated reefs, to maintain the habitat of flying foxes, preserve the ecological balance of the Samoan tropical forest, and, consistent with the preservation of these resources, to provide for the enjoyment of the unique resources of the Samoan tropical forest by visitors from around the world.
 
 (Pub. L. 100–571, §1, Oct. 31, 1988, 102 Stat. 2879.)
 

@@ -10,7 +10,7 @@ Based on title 18, U.S.C., 1940 ed., §145 and §§676, 682, 683, 685, 688, 689b
 
 This revised section condenses, consolidates, and simplifies similar provisions of sections 676, 682, 683, 685, 688, 689b, 692a, and 694a of title 16, U.S.C., 1940 ed., with section 145 of title 18, U.S.C., 1940 ed., with such changes of phraseology as make clear the intent of Congress to protect all wildlife within Federal sanctuaries, refuges, fish hatcheries, and breeding grounds. Irrelevant provisions of such sections in title 16 are to be retained in that title.
 
-Because of the general nature of this consolidated section, no specific reference is made to rules and regulations issued by the Secretary of the Interior or anyother personage, but only to rules and regulations “promulgated by authority of law”.
+Because of the general nature of this consolidated section, no specific reference is made to rules and regulations issued by the Secretary of the Interior or any other personage, but only to rules and regulations “promulgated by authority of law”.
 
 The punishment provided by the sections consolidated varied from a fine not exceeding $100 or imprisonment not exceeding 6 months, or both, in section 694a of title 16, U.S.C., 1940 ed., to a fine not exceeding $1,000 or imprisonment not exceeding 1 year, or both, in sections 676, 685, and 688 of such title 16. The revised section adopts the punishment provisions of the other five sections.
 

@@ -100,7 +100,7 @@ Each State, each local board, and each recipient (other than a subrecipient, sub
 
 #### (1) In general
 
-&emsp;Each local board in the State shall submit quarterly financial reports to the Governorwith respect to programs and activities carried out under this chapter. Such reports shall include information identifying all program and activity costs by cost category in accordance with generally accepted accounting principles and by year of the appropriation involved.
+&emsp;Each local board in the State shall submit quarterly financial reports to the Governor with respect to programs and activities carried out under this chapter. Such reports shall include information identifying all program and activity costs by cost category in accordance with generally accepted accounting principles and by year of the appropriation involved.
 
 #### (2) Additional requirement
 

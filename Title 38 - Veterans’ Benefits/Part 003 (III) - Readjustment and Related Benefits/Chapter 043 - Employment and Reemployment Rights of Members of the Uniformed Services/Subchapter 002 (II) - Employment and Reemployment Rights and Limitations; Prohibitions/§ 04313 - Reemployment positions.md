@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) in the position of employment in which the person would have been employed if the continuous employment of such person with the employer had not been interrupted by such service, or a position of like seniority, status and pay, the duties of which the person is qualified to perform; or
 
-&emsp;&emsp;(B) in the position of employment in which the person was employed on the date of the commencement of the service in the uniformed services, or a position of like seniority, status and pay, the duties of which the person is qualified to perform, only if the person is not qualified to perform the duties of a position referred to in subparagraph (A) after reasonable efforts by the employer to qualify the person.
+&emsp;&emsp;(B) in the position of employment in which the person was employed on the date of the commencement of the service in the uniformed services, or a position of like seniority, status and pay, the duties of which the person is qualified to perform, only if the person is not qualified to perform the dutiesof a position referred to in subparagraph (A) after reasonable efforts by the employer to qualify the person.
 
 &emsp;(3) In the case of a person who has a disability incurred in, or aggravated during, such service, and who (after reasonable efforts by the employer to accommodate the disability) is not qualified due to such disability to be employed in the position of employment in which the person would have been employed if the continuous employment of such person with the employer had not been interrupted by such service—
 

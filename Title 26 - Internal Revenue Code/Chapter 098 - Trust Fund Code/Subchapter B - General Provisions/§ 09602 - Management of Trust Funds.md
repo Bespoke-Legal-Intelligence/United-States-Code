@@ -20,7 +20,7 @@ It shall be the duty of the Secretary of the Treasury to hold each Trust Fund es
 
 #### (3) Interest on certain proceeds
 
-&emsp;The interest on, and the proceeds from the sale or redemption of, any obligations held ina Trust Fund established by subchapter A shall be credited to and form a part of the Trust Fund.
+&emsp;The interest on, and the proceeds from the sale or redemption of, any obligations held in a Trust Fund established by subchapter A shall be credited to and form a part of the Trust Fund.
 
 (Added Pub. L. 97–119, title I, §103(a), Dec. 29, 1981, 95 Stat. 1638.)
 

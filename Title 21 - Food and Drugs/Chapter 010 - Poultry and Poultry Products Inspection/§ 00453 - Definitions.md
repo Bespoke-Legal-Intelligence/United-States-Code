@@ -52,7 +52,7 @@ For purposes of this chapter—
 
 &emsp;(6) if any word, statement, or other information required by or under authority of this chapter to appear on the label or other labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
 
-&emsp;(7) if it purports to be or is represented as a food for which a definition and standard of identity or composition has been prescribed by regulations of the Secretary under section 457 of this title unless (A) it conforms to such definition and standard, and (B) its label bears the name of the food specified in the definition and standard and, insofar as may be requiredby such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food;
+&emsp;(7) if it purports to be or is represented as a food for which a definition and standard of identity or composition has been prescribed by regulations of the Secretary under section 457 of this title unless (A) it conforms to such definition and standard, and (B) its label bears the name of the food specified in the definition and standard and, insofar as may be required by such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food;
 
 &emsp;(8) if it purports to be or is represented as a food for which a standard or standards of fill of container have been prescribed by regulations of the Secretary under section 457 of this title, and it falls below the standard to fill of container applicable thereto, unless its label bears, in such manner and form as such regulations specify, a statement that it falls below such standard;
 
@@ -80,7 +80,7 @@ For purposes of this chapter—
 
 (p) The term “official establishment” means any establishment as determined by the Secretary at which inspection of the slaughter of poultry, or the processing of poultry products, is maintained under the authority of this chapter.
 
-(q) The term “inspection service” means the official Government service within the Department of Agriculture designated by the Secretary as having the responsibility for carrying out the provisions of this chapter.
+(q) The term “inspection service” means the official Government service within the Department of Agriculture designated by the Secretaryas having the responsibility for carrying out the provisions of this chapter.
 
 (r) The term “container” or “package” includes any box, can, tin, cloth, plastic, or other receptacle, wrapper, or cover.
 
@@ -98,7 +98,7 @@ For purposes of this chapter—
 
 (y) The terms “pesticide chemical,” “food additive”, “color additive”, and “raw agricultural commodity” shall have the same meanings for purposes of this chapter as under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
 
-(z) The term “poultry products broker” means any person engaged in the business of buying orselling poultry products on commission, or otherwise negotiating purchases or sales of such articles other than for his own account or as an employee of another person.
+(z) The term “poultry products broker” means any person engaged in the business of buying or selling poultry products on commission, or otherwise negotiating purchases or sales of such articles other than for his own account or as an employee of another person.
 
 (aa) The term “renderer” means any person engaged in the business of rendering carcasses, or parts or products of the carcasses, of poultry, except rendering conducted under inspection or exemption under this chapter.
 

@@ -110,7 +110,7 @@ Section 601(b) of Pub. L. 99–576 provided that: “Section 113 of title 38, Un
 
 Section 411(a) of Pub. L. 100–322 provided that:
 
-“(1) Notwithstanding section 601(b) of the Veterans’ Benefits Improvement and Health-Care Authorization Act of 1986 (Public Law 99–576) \[set out as a note above\], section 113(b)(2) of title 38, United States Code, shall apply with respect to a sequestration order issued, or a sequestration law enacted, for any fiscal year after fiscal year 1985.
+“(1) Notwithstanding section 601(b) of the Veterans’ Benefits Improvement and Health-Care Authorization Act of 1986 (Public Law 99–576) \[set out as a note above\],section 113(b)(2) of title 38, United States Code, shall apply with respect to a sequestration order issued, or a sequestration law enacted, for any fiscal year after fiscal year 1985.
 
 “(2) The Secretary of the Treasury shall take such action as is necessary to implement paragraph (1). Not later than 60 days after the date of the enactment of this Act \[May 20, 1988\], the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the action taken by the Secretary pursuant to that paragraph.”
 

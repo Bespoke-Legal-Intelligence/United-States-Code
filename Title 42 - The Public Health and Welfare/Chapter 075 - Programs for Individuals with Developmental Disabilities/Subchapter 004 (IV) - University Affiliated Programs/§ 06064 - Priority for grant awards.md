@@ -10,7 +10,7 @@ In awarding and distributing grant funds under this subchapter, the Secretary, s
 
 #### (2) Unserved States
 
-&emsp;Second priority shall be given, with respect to the provision of grant awards under section 6062(a) of this title in the amount of $200,000, to a university or public or nonprofit entity associated with a college or university that desires to establish a university affiliated program in a State that is unserved by a university affiliated program as of April 6, 1994.
+&emsp;Second priority shall be given, with respect to the provision of grant awards under section 6062(a) of this title in the amount of $200,000, to a university or public or nonprofit entity associated with a college or university thatdesires to establish a university affiliated program in a State that is unserved by a university affiliated program as of April 6, 1994.
 
 #### (3) Training projects in all university affiliated programs
 
@@ -22,7 +22,7 @@ In awarding and distributing grant funds under this subchapter, the Secretary, s
 
 #### (5) Increased funding for university affiliated programs
 
-&emsp;Fifth priority shall be given, with respect to the provision of grant awards, to the provision of an increase in the amount of a universityaffiliated program grant award under section 6062(a) of this title to $250,000.
+&emsp;Fifth priority shall be given, with respect to the provision of grant awards, to the provision of an increase in the amount of a university affiliated program grant award under section 6062(a) of this title to $250,000.
 
 #### (6) Additional training
 

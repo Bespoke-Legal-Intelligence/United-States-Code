@@ -34,7 +34,7 @@ Subsec. (b). Pub. L. 103–325, §152(e)(2)(C), substituted “Except as provide
 
 Subsec. (e). Pub. L. 100–583, §4(2), added subsec. (e).
 
-1980—Subsec. (a). Pub. L. 96–221 designated existing provisions as par. (1), substituted provisions respecting the effect of this part and parts B and C of this subchapter, and procedures applicable for determination,for provisions respecting the effect of this subchapter, and added par. (2).
+1980—Subsec. (a). Pub. L. 96–221 designated existing provisions as par. (1), substituted provisions respecting the effect of this part and parts B and C of this subchapter, and procedures applicable for determination, for provisions respecting the effect of this subchapter, and added par. (2).
 
 1974—Subsec. (d). Pub. L. 93–495 inserted reference to section 1666e of this title.
 

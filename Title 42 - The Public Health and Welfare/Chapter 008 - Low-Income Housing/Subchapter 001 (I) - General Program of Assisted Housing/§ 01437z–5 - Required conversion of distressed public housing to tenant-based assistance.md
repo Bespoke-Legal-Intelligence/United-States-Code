@@ -46,7 +46,7 @@ Each public housing agency shall consult with the appropriate public housing res
 
 #### (B) Erroneous identification of projects
 
-&emsp;&emsp;If the Secretary determines, based on a plan submitted under this subsection, that apublic housing agency has identified 1 or more public housing projects that should not have been identified pursuant to subsection (a) of this section, the Secretary shall—
+&emsp;&emsp;If the Secretary determines, based on a plan submitted under this subsection, that a public housing agency has identified 1 or more public housing projects that should not have been identified pursuant to subsection (a) of this section, the Secretary shall—
 
 &emsp;&emsp;&emsp;(i) require the public housing agency to revise the plan of the public housing agency under this subsection; and
 

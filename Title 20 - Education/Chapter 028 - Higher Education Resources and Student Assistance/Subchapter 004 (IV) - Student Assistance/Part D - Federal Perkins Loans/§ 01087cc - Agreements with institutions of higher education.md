@@ -152,7 +152,7 @@ Subsec. (c)(3)(B). Pub. L. 102–325, §463(b)(1), struck out “, if that acco
 
 Subsec. (c)(4). Pub. L. 102–325, §463(b)(2), added par. (4).
 
-1987—Subsec. (a)(4). Pub. L. 100–50, §13(e), substituted “in an annual report” for “in a report” and struck out“, and made to the Secretary at least semiannually” after “in such default”.
+1987—Subsec. (a)(4). Pub. L. 100–50, §13(e), substituted “in an annual report” for “in a report” and struck out “, and made to the Secretary at least semiannually” after “in such default”.
 
 Subsec. (b). Pub. L. 100–50, §13(f), substituted “section 1096 of this title” for “section 1092 of this title”.
 

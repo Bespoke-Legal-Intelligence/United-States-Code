@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(B) an individual who is legally separated from his spouse under a decree of divorce or of separate maintenance shall not be considered as married;
 
-&emsp;&emsp;(C) a taxpayer shall be considered as not married at the close of his taxable year if atany time during the taxable year his spouse is a nonresident alien; and
+&emsp;&emsp;(C) a taxpayer shall be considered as not married at the close of his taxable year if at any time during the taxable year his spouse is a nonresident alien; and
 
 &emsp;&emsp;(D) a taxpayer shall be considered as married at the close of his taxable year if his spouse (other than a spouse described in subparagraph (C)) died during the taxable year.
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–272, except for purposes of section 21 of this title, effective with respect to taxable years beginning after Dec. 31, 1963, see section 131 ofPub. L. 88–272, set out as a note under section 1 of this title.
+Amendment by Pub. L. 88–272, except for purposes of section 21 of this title, effective with respect to taxable years beginning after Dec. 31, 1963, see section 131 of Pub. L. 88–272, set out as a note under section 1 of this title.
 
 #### Cross References
 

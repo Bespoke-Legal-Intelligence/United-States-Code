@@ -10,7 +10,7 @@ Use of Amounts for Construction Barred.—Amounts authorized under this chapter 
 
 (c)
 
-Prior Authority Required.—Authority to make contracts and to make payments underthis chapter, using amounts authorized to be appropriated under this section, are effective only to the extent, and in amounts, provided in advance in an appropriations law.
+Prior Authority Required.—Authority to make contracts and to make payments under this chapter, using amounts authorized to be appropriated under this section, are effective only to the extent, and in amounts, provided in advance in an appropriations law.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1280.)
 
@@ -34,9 +34,13 @@ Oct. 7, 1980, Pub. L. 96–388, §8, 94 Stat. 1549; Oct. 27, 1992, Pub. L. 102�
 
 36:1408 (3d sentence).
 
+&nbsp;
+
 2309(c)
 
 36:1408 (last sentence).
+
+&nbsp;
 
 In subsection (a), authorizations of appropriations for fiscal years 1993–1996 are omitted as obsolete.
 

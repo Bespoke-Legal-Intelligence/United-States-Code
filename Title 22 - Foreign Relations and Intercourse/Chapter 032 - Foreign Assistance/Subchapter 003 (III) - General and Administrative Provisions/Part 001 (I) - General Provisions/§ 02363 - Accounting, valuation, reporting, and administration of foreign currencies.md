@@ -2,7 +2,7 @@
 
 #### (a) Responsibility of Secretary of the Treasury; regulations
 
-Under the direction of the President, the Secretary of the Treasury shall have responsibility for valuation and central accounting with respect to foreign credits (including currencies) owed to or owned by the United States. In orderto carry out such responsibility the Secretary shall issue regulations binding upon all agencies of the Government.
+Under the direction of the President, the Secretary of the Treasury shall have responsibility for valuation and central accounting with respect to foreign credits (including currencies) owed to or owned by the United States. In order to carry out such responsibility the Secretary shall issue regulations binding upon all agencies of the Government.
 
 #### (b) Establishment of exchange rates
 
@@ -27,4 +27,8 @@ This chapter, referred to in subsec. (d), was in the original “this Act”, me
 1976—Subsec. (c). Pub. L. 94–273 inserted provision relating to reports after Dec. 31, 1975.
 
 1965—Subsec. (d). Pub. L. 89–171 added subsec. (d).
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

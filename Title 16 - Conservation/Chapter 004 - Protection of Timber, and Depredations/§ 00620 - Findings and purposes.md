@@ -24,17 +24,17 @@ The Congress makes the following findings:
 
 The purposes of sections 620 to 620j of this title are—
 
-&emsp;(1) to promote the conservation of forest resources in conjunction with State and Federalresources management plans, and other actions or decisions, affecting the use of forest resources;
+&emsp;(1) to promote the conservation of forest resources in conjunction with State and Federal resources management plans, and other actions or decisions, affecting the use of forest resources;
 
 &emsp;(2) to take action essential for the acquisition and distribution of forest resources or products in short supply in the western United States;
 
-&emsp;(3) to take action necessary, to meet the goals of Article XI 2.(a) of the General Agreement on Tariffs and Trade, to ensure sufficient supplies of certain forest resources or products which are essential to the United States;
+&emsp;(3) to take action necessary, to meet the goals of Article XI 2.(a) of the GATT 1994 (as defined in section 3501(1)(B) of title 19), to ensure sufficient supplies of certain forest resources or products which are essential to the United States;
 
 &emsp;(4) to continue and refine the existing Federal policy of restricting the export of unprocessed timber harvested from Federal lands in the western United States; and
 
-&emsp;(5) to effect measures aimed at meeting these objectives in conformity with the obligations of the United States under the General Agreement on Tariffs and Trade.
+&emsp;(5) to effect measures aimed at meeting these objectives in conformity with the obligations of the United States under the WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of title 19).
 
-(Pub. L. 101–382, title IV, §488, Aug. 20, 1990, 104 Stat. 714.)
+(Pub. L. 101–382, title IV, §488, Aug. 20, 1990, 104 Stat. 714; Pub. L. 106–36, title I, §1002(a)(1), June 25, 1999, 113 Stat. 132.)
 
 #### References in Text
 
@@ -44,13 +44,19 @@ The National Forest Management Act of 1976, referred to in subsec. (a)(5), is Pu
 
 Sections 620 to 620j of this title, referred to in subsec. (b), was in the original “this title”, meaning title IV of Pub. L. 101–382, Aug. 20, 1990, 104 Stat. 714, which enacted sections 620 to 620j of this title and provisions set out as notes below. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
+#### Amendments
+
+1999—Subsec. (b)(3). Pub. L. 106–36, §1002(a)(1)(A), substituted “GATT 1994 (as defined in section 3501(1)(B) of title 19)” for “General Agreement on Tariffs and Trade”.
+
+Subsec. (b)(5). Pub. L. 106–36, §1002(a)(1)(B), substituted “WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of title 19)” for “General Agreement on Tariffs and Trade”.
+
 #### Effective Date
 
 Section 494 of title IV of Pub. L. 101–382 provided that: “Except as otherwise provided in this title, the provisions of this title \[enacting this section and sections 620a to 620j of this title and provisions set out as a note below\] take effect on the date of the enactment of this Act \[Aug. 20, 1990\].”
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–83, title VI, §601, Nov. 14, 1997, 111 Stat. 1617, provided that: “This title \[amending sections 620b to 620f of this title\] may be cited as the ‘Forest Resources Conservation and Shortage Relief Act of 1997’.”
+Pub. L. 105–83, title VI, §601, Nov. 14, 1997, 111 Stat. 1617, provided that: “This title \[amending sections 620bto 620f of this title\] may be cited as the ‘Forest Resources Conservation and Shortage Relief Act of 1997’.”
 
 #### Short Title of 1993 Amendment
 

@@ -1,6 +1,6 @@
 ### §2102. Establishment of standards
 
-Based on the best scientific information available, artificial reefs in waters covered under this chapter shall be sited and constructed, and subsequently monitored and managed in a manner which will—
+Based on the best scientific information available, artificial reefs in waters covered under thischapter shall be sited and constructed, and subsequently monitored and managed in a manner which will—
 
 &emsp;(1) enhance fishery resources to the maximum extent practicable;
 

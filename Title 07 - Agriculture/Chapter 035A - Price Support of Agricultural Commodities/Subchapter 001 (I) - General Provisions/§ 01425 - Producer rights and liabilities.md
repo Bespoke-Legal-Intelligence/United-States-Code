@@ -8,7 +8,7 @@ Except as otherwise provided in section 1425a of this title, no producer shall b
 
 The security interests obtained by the Commodity Credit Corporation as a result of the execution of security agreements by the processors of sugarcane and sugar beets shall be superior to all statutory and common law liens on raw cane sugar and refined beet sugar in favor of the producers of sugarcane and sugar beets and all prior recorded and unrecorded liens on the crops of sugarcane and sugar beets from which the sugar was derived. The preceding sentence shall not affect the application of section 1421(e)(2) of this title.
 
-(Oct. 31, 1949, ch. 792, title IV, §405, 63 Stat. 1054; Pub. L. 85–835, title V, §502, Aug. 28, 1958, 72 Stat. 996; Pub. L. 99–198, title X, §1004, Dec. 23, 1985, 99 Stat. 1447; Pub. L. 100–460, title VI, §634(a), Oct. 1, 1988, 102 Stat. 2263; Pub. L. 102–237, title I, §111(b), Dec. 13, 1991, 105 Stat. 1830.)
+(Oct. 31, 1949, ch. 792, title IV, §405, 63 Stat. 1054; Pub. L. 85–835, title V, §502, Aug. 28, 1958, 72 Stat. 996; Pub. L. 99–198, title X, §1004, Dec. 23, 1985, 99 Stat. 1447; Pub. L. 100–460, title VI, §634(a), Oct. 1, 1988, 102 Stat. 2263; Pub. L.102–237, title I, §111(b), Dec. 13, 1991, 105 Stat. 1830.)
 
 #### References in Text
 

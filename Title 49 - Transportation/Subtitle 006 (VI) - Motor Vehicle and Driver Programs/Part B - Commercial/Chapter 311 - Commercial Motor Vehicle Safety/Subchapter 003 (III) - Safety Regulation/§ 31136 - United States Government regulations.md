@@ -2,7 +2,7 @@
 
 (a)
 
-Minimum Safety Standards.—Subject to section 30103(a) of this title, the Secretary ofTransportation shall prescribe regulations on commercial motor vehicle safety. The regulations shall prescribe minimum safety standards for commercial motor vehicles. At a minimum, the regulations shall ensure that—
+Minimum Safety Standards.—Subject to section 30103(a) of this title, the Secretary of Transportation shall prescribe regulations on commercial motor vehicle safety. The regulations shall prescribe minimum safety standards for commercial motor vehicles. At a minimum, the regulations shall ensure that—
 
 &emsp;(1) commercial motor vehicles are maintained, equipped, loaded, and operated safely;
 
@@ -116,9 +116,13 @@ In subsection (f)(2)(C)(i), the words “an operator” are substituted for “s
 
 1995—Subsec. (e)(1) to (3). Pub. L. 104–59 designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
 
+#### Authority To Promulgate Safety Standards for Retrofitting
+
+Pub. L. 106–159, title I, §101(f), Dec. 9, 1999, 113 Stat. 1752, provided that: “The authority under title 49, United States Code, to promulgate safety standards for commercial motor vehicles and equipment subsequent to initial manufacture is vested in the Secretary and may be delegated.”
+
 #### Protection of Existing Exemptions
 
-Pub. L. 105–178, title IV, §4007(d), June 9, 1998, 112 Stat. 404, provided that: “The amendments made bythis section \[amending this section and section 31315 of this title\] shall not apply to or otherwise affect a waiver, exemption, or pilot program in effect on the day before the date of enactment of this Act \[June 9, 1998\] under chapter 313 or section 31136(e) of title 49, United States Code.”
+Pub. L. 105–178, title IV, §4007(d), June 9, 1998, 112 Stat. 404, provided that: “The amendments made by this section \[amending this section and section 31315 of this title\] shall not apply to or otherwise affect a waiver, exemption, or pilot program in effect on the day before the date of enactment of this Act \[June 9, 1998\] under chapter 313 or section 31136(e) of title 49, United States Code.”
 
 #### Application of Regulations to Certain Commercial Motor Vehicles
 
@@ -224,7 +228,7 @@ Pub. L. 104–59, title III, §346, Nov. 28, 1995, 109 Stat. 615, as amended by 
 
 “(a)
 
-In General.—After notice and opportunity for comment, the Secretary shall develop and implement a pilot program for the purpose of evaluating waivers of the regulations issued by the Secretary pursuant to sections 31136 and 31502 of title 49, United States Code, relating to maximum on-duty time, and sections 31102 and 31104(j) of such title, relating to the Motor Carrier Safety Assistance Program, to permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum on-duty time for drivers of motor vehicles making intrastate home heating oil deliveries that occur within 100 air miles of a central terminal or distribution point of the delivery of such oil. The Secretary may approve up to 5 States to participate in the pilot program during the winter heating season in the 6-month period beginning on November 1, 1996.
+In General.—After notice and opportunity for comment, the Secretary shall develop and implement a pilot program for the purpose of evaluating waivers of the regulations issued by the Secretary pursuant to sections 31136 and 31502 of title 49, United States Code,relating to maximum on-duty time, and sections 31102 and 31104(j) of such title, relating to the Motor Carrier Safety Assistance Program, to permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum on-duty time for drivers of motor vehicles making intrastate home heating oil deliveries that occur within 100 air miles of a central terminal or distribution point of the delivery of such oil. The Secretary may approve up to 5 States to participate in the pilot program during the winter heating season in the 6-month period beginning on November 1, 1996.
 
 “(b)
 

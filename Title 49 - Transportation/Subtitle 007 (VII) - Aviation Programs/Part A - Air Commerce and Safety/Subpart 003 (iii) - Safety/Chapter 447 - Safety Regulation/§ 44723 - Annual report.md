@@ -2,7 +2,7 @@
 
 Not later than January 1 of each year, the Secretary of Transportation shall submit to Congress a comprehensive report on the safety enforcement activities of the Federal Aviation Administration during the fiscal year ending the prior September 30th. The report shall include—
 
-&emsp;(1) a comparison of end-of-year staffing levels by operations, maintenance, and avionicsinspector categories to staffing goals and a statement on how staffing standards were applied to make allocations between air carrier and general aviation operations, maintenance, and avionics inspectors;
+&emsp;(1) a comparison of end-of-year staffing levels by operations, maintenance, and avionics inspector categories to staffing goals and a statement on how staffing standards were applied to make allocations between air carrier and general aviation operations, maintenance, and avionics inspectors;
 
 &emsp;(2) schedules showing the range of inspector experience by various inspector work force categories, and the number of inspectors in each of the categories who are considered fully qualified;
 

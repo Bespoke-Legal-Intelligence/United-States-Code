@@ -2,7 +2,7 @@
 
 #### (a) Authorized disclosure
 
-In the case of information furnished under a provision of law referred to in subsection (d) ofthis section, neither the Secretary of Agriculture, any other officer or employee of the Department of Agriculture or agency thereof, nor any other person may—
+In the case of information furnished under a provision of law referred to in subsection (d) of this section, neither the Secretary of Agriculture, any other officer or employee of the Department of Agriculture or agency thereof, nor any other person may—
 
 &emsp;(1) use such information for a purpose other than the development or reporting of aggregate data in a manner such that the identity of the person who supplied such information is not discernible and is not material to the intended uses of such information; or
 
@@ -20,7 +20,7 @@ In the case of information furnished under a provision of law referred to in sub
 
 #### (c) Violations; penalties
 
-Any person who shall publish, cause to be published, or otherwise publicly release information collected pursuant to a provision of law referred to in subsection (d) of this section, in any manner or for any purpose prohibited in section <sup>1</sup> (a) of this section, shall be fined not more than $10,000 or imprisoned for not more than 1 year, or both.
+Any person who shall publish, cause to be published, or otherwise publicly release informationcollected pursuant to a provision of law referred to in subsection (d) of this section, in any manner or for any purpose prohibited in section <sup>1</sup> (a) of this section, shall be fined not more than $10,000 or imprisoned for not more than 1 year, or both.
 
 #### (d) Specific provisions for collection of information
 
@@ -42,21 +42,27 @@ For purposes of this section, a provision of law referred to in this subsection 
 
 &emsp;(8) section 4 of the Act entitled “An Act to establish the Department of Commerce and Labor”, approved February 14, 1903 (15 U.S.C. 1516);
 
-&emsp;(9) section 2 of the joint resolution entitled “Joint resolution relating to the publication of economic and social statistics for Americans of Spanish origin or descent”, approved June 16, 1976 (15 U.S.C. 1516a); or
+&emsp;(9) section 2 of the joint resolution entitled “Joint resolution relating to the publication of economic and social statistics for Americans of Spanish origin or descent”, approved June 16, 1976 (15 U.S.C. 1516a); or <sup>2</sup>
 
-&emsp;(10) section 2204g of this title.
+&emsp;(10) section 3(e) of the Forest and Rangeland Renewable Resources Research Act of 1978 (16 U.S.C. 1642(e)); <sup>2</sup>
+
+&emsp;(11) section 2204g of this title.
 
 #### (e) Information provided to Secretary of Commerce
 
 This section shall not prohibit the release of information under section 2204g(f)(2) of this title.
 
-(Pub. L. 99–198, title XVII, §1770, Dec. 23, 1985, 99 Stat. 1657; Pub. L. 105–113, §4(a)(2), (b), Nov. 21, 1997, 111 Stat. 2276.)
+(Pub. L. 99–198, title XVII, §1770, Dec. 23, 1985, 99 Stat. 1657; Pub. L. 105–113, §4(a)(2), (b), Nov. 21, 1997, 111 Stat. 2276; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §348\], Nov. 29, 1999, 113 Stat. 1535, 1501A–207.)
 
 #### Amendments
+
+1999—Subsec. (d)(10), (11). Pub. L. 106–113 added par. (10) and redesignated former par. (10) as (11).
 
 1997—Subsec. (d)(10). Pub. L. 105–113, §4(a)(2), added par. (10).
 
 Subsec. (e). Pub. L. 105–113, §4(b), added subsec. (e).
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “or” probably should appear at end of par. (10).</i>
 

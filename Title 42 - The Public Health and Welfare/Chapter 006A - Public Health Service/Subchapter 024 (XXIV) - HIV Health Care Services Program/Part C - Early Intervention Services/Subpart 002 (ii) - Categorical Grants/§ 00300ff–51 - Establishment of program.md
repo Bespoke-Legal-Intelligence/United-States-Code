@@ -56,7 +56,7 @@ For the purposes described in subsection (b) of this section, the Secretary, act
 
 &emsp;&emsp;(B) may, in the case of individuals who seek early intervention services from the grantee, expend the grant—
 
-&emsp;&emsp;&emsp;(i) for case management to provide coordination in the provision of health careservices to the individuals and to review the extent of utilization of the services by the individuals; and
+&emsp;&emsp;&emsp;(i) for case management to provide coordination in the provision of health care services to the individuals and to review the extent of utilization of the services by the individuals; and
 
 &emsp;&emsp;&emsp;(ii) to provide assistance to the individuals regarding establishing the eligibility of the individuals for financial assistance and services under Federal, State, or local programs providing for health services, mental health services, social services, or other appropriate services.
 
@@ -72,7 +72,7 @@ Section 300ff–22 of this title, referred to in subsec. (c), was amended by Pub
 
 #### Amendments
 
-1996—Subsec. (b)(1). Pub. L. 104–146, §3(d)(1)(A), inserted before period “, and unless the applicant agrees to expend not less than 50 percent of the grant for such services that are specified in subparagraphs (B) through (E) of such paragraph for individuals with HIV disease”.
+1996—Subsec. (b)(1). Pub. L. 104–146, §3(d)(1)(A), inserted before period “, and unless the applicant agreesto expend not less than 50 percent of the grant for such services that are specified in subparagraphs (B) through (E) of such paragraph for individuals with HIV disease”.
 
 Subsec. (b)(3)(B). Pub. L. 104–146, §12(c)(7)(A), substituted “facilities” for “facility”.
 

@@ -82,5 +82,5 @@ Subsec. (d). Pub. L. 95–426, §206(b)(2), substituted “(9)” for “(8)”.
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of Title 22.
+Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of Title 22.
 

@@ -10,7 +10,7 @@
 
 &emsp;(4) “financial assistance for acquisition or construction purposes” means any form of financial assistance which is intended in whole or in part for the acquisition, construction, reconstruction, repair, or improvement of any publicly or privately owned building or mobile home, and for any machinery, equipment, fixtures, and furnishings contained or to be contained therein, and shall include the purchase or subsidization of mortgages or mortgage loans but shall exclude assistance pursuant to the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\] (other than assistance under such Act in connection with a flood);
 
-&emsp;(5) “Federal entity for lending regulation” means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Office of Thrift Supervision, the National Credit Union Administration, and the Farm Credit Administration, and with respect to a particular regulated lending institution means the entity primarily responsible for the supervision of the institution;
+&emsp;(5) “Federal entity for lending regulation” means the Board of Governors of the FederalReserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Office of Thrift Supervision, the National Credit Union Administration, and the Farm Credit Administration, and with respect to a particular regulated lending institution means the entity primarily responsible for the supervision of the institution;
 
 &emsp;(6) “Director” means the Director of the Federal Emergency Management Agency;
 
@@ -40,7 +40,7 @@ Section was enacted as part of Flood Disaster Protection Act of 1973, and not as
 
 #### Amendments
 
-1994—Subsec. (a)(5). Pub. L. 103–325, §511(a)(1), added par. (5) and struck out former par. (5) which read as follows: “ ‘Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks,savings and loan associations, or similar institutions’ means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Federal Home Loan Bank Board, the Federal Savings and Loan Insurance Corporation, and the National Credit Union Administration; and”.
+1994—Subsec. (a)(5). Pub. L. 103–325, §511(a)(1), added par. (5) and struck out former par. (5) which read as follows: “ ‘Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions’ means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Federal Home Loan Bank Board, the Federal Savings and Loan Insurance Corporation, and the National Credit Union Administration; and”.
 
 Subsec. (a)(7) to (11). Pub. L. 103–325, §511(a)(2), (3), added pars. (7) to (11).
 

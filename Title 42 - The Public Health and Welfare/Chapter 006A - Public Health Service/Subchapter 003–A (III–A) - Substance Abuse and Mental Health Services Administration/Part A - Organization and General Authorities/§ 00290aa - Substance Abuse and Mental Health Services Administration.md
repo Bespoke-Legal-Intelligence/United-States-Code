@@ -18,7 +18,7 @@ The following entities are agencies of the Administration:
 
 #### (1) Administrator
 
-&emsp;The Administration shall be headed by an Administrator (hereinafter in this subchapterreferred to as the “Administrator”) who shall be appointed by the President, by and with the advice and consent of the Senate.
+&emsp;The Administration shall be headed by an Administrator (hereinafter in this subchapter referred to as the “Administrator”) who shall be appointed by the President, by and with the advice and consent of the Senate.
 
 #### (2) Deputy Administrator
 
@@ -42,9 +42,9 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;(7) coordinate Federal policy with respect to the provision of treatment services for substance abuse utilizing anti-addiction medications, including methadone;
 
-&emsp;(8) conduct programs, and assure the coordination of such programs with activities of the National Institutes of Health and the Agency for Health Care Policy Research, as appropriate, to evaluate the process, outcomes and community impact of treatment and prevention services and systems of care in order to identify the manner in which such services can most effectively be provided;
+&emsp;(8) conduct programs, and assure the coordination of such programs with activities of the National Institutes of Health and the Agency for Healthcare Research and Quality, as appropriate, to evaluate the process, outcomes and community impact of treatment and prevention services and systems of care in order to identify the manner in which such services can most effectively be provided;
 
-&emsp;(9) collaborate with the Director of the National Institutes of Health in the development of a system by which the relevant research findings of the National Institute on Drug Abuse, the National Institute on Alcohol Abuse and Alcoholism, the National Institute of Mental Health, and, as appropriate, the Agency for Health Care Policy Research are disseminated to service providers in a manner designed to improve the delivery and effectiveness of treatment and prevention services;
+&emsp;(9) collaborate with the Director of the National Institutes of Health in the development of a system by which the relevant research findings of the National Institute on Drug Abuse, the National Institute on Alcohol Abuse and Alcoholism, the National Institute of Mental Health, and, as appropriate, the Agency for Healthcare Research and Quality are disseminated to service providers in a manner designed to improve the delivery and effectiveness of treatment and prevention services;
 
 &emsp;(10) encourage public and private entities that provide health insurance to provide benefits for substance abuse and mental health services;
 
@@ -156,7 +156,7 @@ The Secretary, acting through the Administrator, shall—
 
 #### (1) In general
 
-&emsp;The Administrator may obtain (in accordance with section 3109 of title 5, but without regard to the limitation in such section on the number of days or the period of service) the services of not more than 20 experts or consultants who have professional qualifications. Such experts and consultants shall be obtained for the Administration and for each of its agencies.
+&emsp;The Administrator may obtain (in accordance with section 3109 of title 5, but withoutregard to the limitation in such section on the number of days or the period of service) the services of not more than 20 experts or consultants who have professional qualifications. Such experts and consultants shall be obtained for the Administration and for each of its agencies.
 
 #### (2) Compensation and expenses
 
@@ -202,7 +202,7 @@ With respect to awards of grants, cooperative agreements, and contracts under th
 
 For the purpose of providing grants, cooperative agreements, and contracts under this section, there are authorized to be appropriated $25,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
 
-(July 1, 1944, ch. 373, title V, §501, formerly Pub. L. 93–282, title II, §201, May 14, 1974, 88 Stat. 134, as amended Pub. L. 94–371, §8, July 26, 1976, 90 Stat. 1040; renumbered §501 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(2), Apr. 26, 1983, 97 Stat. 176; Pub. L. 98–509, title II, §201, title III, §301(c)(1), Oct. 19, 1984, 98 Stat. 2359, 2364; Pub. L. 99–570, title IV, §4003, Oct. 27, 1986, 100 Stat. 3207–106; Pub. L. 100–690, title II, §2058(a)(2), Nov. 18, 1988, 102 Stat. 4213; Pub. L. 101–93, §3(f), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–321, title I, §101(a), July 10, 1992, 106 Stat. 324; Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(A), Sept. 23, 1996, 110 Stat. 2759.)
+(July 1, 1944, ch. 373, title V, §501, formerly Pub. L. 93–282, title II, §201, May 14, 1974, 88 Stat. 134, as amended Pub. L. 94–371, §8, July 26, 1976, 90 Stat. 1040; renumbered §501 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(2), Apr. 26, 1983, 97 Stat. 176; Pub. L. 98–509, title II, §201, title III, §301(c)(1), Oct. 19, 1984, 98 Stat. 2359, 2364; Pub. L. 99–570, title IV, §4003, Oct. 27, 1986, 100 Stat. 3207–106; Pub. L. 100–690, title II, §2058(a)(2), Nov. 18, 1988, 102 Stat. 4213; Pub. L. 101–93, §3(f), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–321, title I, §101(a), July 10, 1992, 106 Stat. 324; Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(A), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670.)
 
 #### References in Text
 
@@ -219,6 +219,8 @@ Section was formerly classified to section 3511 of this title prior to renumberi
 A prior section 501 of act July 1, 1944, which was classified to section 219 of this title, was successively renumbered by subsequent acts and transferred, see section 238 of this title.
 
 #### Amendments
+
+1999—Subsec. (d)(8), (9). Pub. L. 106–129, which directed the substitution of “Agency for Healthcare Research and Quality” for “Agency for Health Care Policy and Research”, was executed by making the substitution for “Agency for Health Care Policy Research”, to reflect the probable intent of Congress.
 
 1996—Subsec. (g)(2)(A). Pub. L. 104–201 substituted “5724a(a), 5724a(c)” for “5724a(a)(1), 5724a(a)(3)”.
 
@@ -294,7 +296,7 @@ Adequate Personnel and Resources.—The transfers required under this subtitle s
 
 “(a)
 
-Substance Abuse and Mental Health Services Administration.—Except as otherwise provided in the Public Health Service Act \[this chapter\], all personnel employed in connection with, and all assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred to the Administrator of the Substance Abuse and Mental Health Services Administration by this subtitle, subject to section 1531 of title 31, United States Code, shall be transferred to the Substance Abuse and Mental Health Services Administration. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
+Substance Abuse and Mental Health Services Administration.—Except as otherwise provided in thePublic Health Service Act \[this chapter\], all personnel employed in connection with, and all assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred to the Administrator of the Substance Abuse and Mental Health Services Administration by this subtitle, subject to section 1531 of title 31, United States Code, shall be transferred to the Substance Abuse and Mental Health Services Administration. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
 
 “(b)
 
@@ -336,7 +338,7 @@ Continuation of Proceedings.—
 
 &emsp;“(1)
 
-In general.—The provisions of this subtitle shall not affect any proceedings, including notices of proposed rule making, or any application for any license, permit, certificate, or financial assistancepending on the date of enactment of this Act before the Department of Health and Human Services, which relates to the Alcohol, Drug Abuse and Mental Health Administration or the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, or the National Institute of Mental Health, or any office thereof with respect to functions transferred by this subtitle. Such proceedings or applications, to the extent that they relate to functions transferred, shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made under such orders, as if this Act \[see Tables for classification\] had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health by a court of competent jurisdiction, or by operation of law. Nothing in this subsection prohibits the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this subtitle had not been enacted.
+In general.—The provisions of this subtitle shall not affect any proceedings, including notices of proposed rule making, or any application for any license, permit, certificate, or financial assistance pending on the date of enactment of this Act before the Department of Health and Human Services, which relates to the Alcohol, Drug Abuse and Mental Health Administration or the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, or the National Institute of Mental Health, or any office thereof with respect to functions transferred by this subtitle. Such proceedings or applications, to the extent that they relate to functions transferred, shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made under such orders, as if this Act \[see Tables for classification\] had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health by a court of competent jurisdiction, or by operation of law. Nothing in this subsection prohibits the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this subtitle had not been enacted.
 
 &emsp;“(2)
 
@@ -352,7 +354,7 @@ Effect on Legal Actions.—Except as provided in subsection (e)—
 
 “(d)
 
-No Abatement of Actions or Proceedings.—No action or other proceeding commenced by or against any officer in his official capacity as an officer of the Department of Health and Human Services with respect to functions transferred by this subtitle shall abate by reason of the enactment of this Act \[see Tables for classification\]. No cause of action by or against the Department of Health and Human Services with respect to functions transferred by this subtitle, or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this Act. Causes of action and actions with respect to a function transferred by this subtitle, or other proceedings may be asserted by or against the United States or the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, as may be appropriate, and, in an action pending when this Act takes effect \[see Effective Date of 1992 Amendment note set out under section 236 of this title\], the court may at any time, on its own motion or that of any party, enter an order which will give effect to the provisions of this subsection.
+No Abatement of Actions or Proceedings.—No action or other proceeding commenced by or against any officer in his official capacity as an officer of the Department of Health and Human Services with respect to functions transferred by this subtitle shall abate by reason of the enactment of this Act \[see Tables for classification\]. No cause of action by or against the Department of Health and Human Services with respect to functions transferred by this subtitle, or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this Act. Causes of action and actions with respect to a function transferred by this subtitle, or other proceedings may be asserted by or against the United States or the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, as may be appropriate, and, in an action pending when this Act takes effect \[see Effective Date of 1992 Amendment note set out under section 236 of this title\], the court may at any time, on its own motion orthat of any party, enter an order which will give effect to the provisions of this subsection.
 
 “(e)
 
@@ -384,7 +386,7 @@ Judicial Review.—Orders and actions of the Administrator of the Substance Abus
 
 #### “SEC. 150. SEPARABILITY.
 
-“If a provision of this subtitle or its application to any person or circumstance is held invalid, neither theremainder of this Act \[see Tables for classification\] nor the application of the provision to other persons or circumstances shall be affected.
+“If a provision of this subtitle or its application to any person or circumstance is held invalid, neither the remainder of this Act \[see Tables for classification\] nor the application of the provision to other persons or circumstances shall be affected.
 
 #### “SEC. 151. BUDGETARY AUTHORITY.
 

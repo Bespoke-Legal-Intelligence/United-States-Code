@@ -6,9 +6,9 @@ Upon payment of this sum the patent shall issue, but if payment is not timely ma
 
 Any remaining balance of the issue fee shall be paid within three months from the sending of a notice thereof and, if not paid, the patent shall lapse at the termination of this three-month period. In calculating the amount of a remaining balance, charges for a page or less may be disregarded.
 
-If any payment required by this section is not timely made, but is submitted with the fee for delayed payment and the delay in payment is shown to have been unavoidable, it may be accepted by the Commissioner as though no abandonment or lapse had ever occurred.
+If any payment required by this section is not timely made, but is submitted with the fee for delayed payment and the delay in payment is shown to have been unavoidable, it may be accepted by the Director as though no abandonment or lapse had ever occurred.
 
-(July 19, 1952, ch. 950, 66 Stat. 803; Pub. L. 89–83, §4, July 24, 1965, 79 Stat. 260; Pub. L. 93–601, §3, Jan. 2, 1975, 88 Stat. 1956.)
+(July 19, 1952, ch. 950, 66 Stat. 803; Pub. L. 89–83, §4, July 24, 1965, 79 Stat. 260; Pub. L. 93–601, §3, Jan. 2, 1975, 88 Stat. 1956; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
 
 #### Historical and Revision Notes
 
@@ -18,9 +18,15 @@ Language is changed.
 
 #### Amendments
 
+1999—Pub. L. 106–113 substituted “Director” for “Commissioner” in last par.
+
 1975—Pub. L. 93–601 substituted “and the delay in payment is shown to have been unavoidable,” for “within three months after the due date and sufficient cause is shown for the late payment,” in last par.
 
 1965—Pub. L. 89–83 substituted provisions requiring a notice of allowance to be sent to the applicant, the notice of allowance to specify a sum, constituting the issue fee or a portion thereof, which shall be paid within 3 months thereafter, the patent to issue upon payment of this sum, the application to be deemed abandoned if the sum is not paid, and any remaining balance of the fee to be paid within 3 months after issuance of the patent shall lapse, and permitting the Commissioner within 3 months after the due date of an unpaid fee on a showing of sufficient cause to accept late payment as though no abandonment or lapse had occurred, for provisions which required a notice of allowance to be sent to the applicant, the final fee to be paid within 6 months after the notice, the patent to be issued within 3 months from the date of the payment, and which permitted delayed payment of the issue fee up to 1 year.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 #### Effective Date of 1975 Amendment
 
@@ -32,7 +38,7 @@ Amendment by Pub. L. 89–83 effective three months after July 24, 1965, see sec
 
 #### Acceptance of Late Payment of Issue Fees by Commissioner
 
-Section 4(a) of Pub. L. 93–601 provided that: “The Commissioner of Patents \[now Patents and Trademarks\] may, in accordance with Section 3 of this Act \[amending this section\], accept late payment of issue fees, the payment of which was governed by the provisions of Public Law 89–93 \[probably should refer to Public Law 89–83, which amended sections 41, 112, and 151 of this title and section 1113 of Title 15, Commerce andTrade\]; <i>Provided</i>: the term of the patent for which late payment of such an issue fee is accepted shall expire earlier than the time specified in Section 154 of Title 35, United States Code by a period equal to the delay between the time the application became abandoned or the patent lapsed for failure to pay the issue fee and the time the late payment is accepted after enactment of this Act \[Jan. 2, 1975\]; <i>Further Provided</i>: no patent with respect to which the issue fee was governed by the provisions of PL 89–83 and for which a late payment of the issue fee is accepted under the authority created by Section 3 of this Act, shall abridge or affect the right of any person or his successors in business who made, purchased or used anything covered by the patent, after the date of the application became abandoned or patent lapsed for failure to pay the issue fee but prior to the grant or restoration of the patent, to continue the use of or to sell to others to be used or sold, the specific thing so made, purchased, or used. A court before which such matter is in question may provide for the continued manufacture, use or sale of the thing made, purchased or used as specified, or for the manufacture, use or sale of which substantial preparation was made after the date the application became abandoned or patent lapsed for failure to pay the fee but prior to the grant or restoration of the patent, and it may also provide for the continued practice of any process covered by the patent, practiced, or for the practice of which substantial preparation was made, after the date the application became abandoned or patent lapsed for failure to pay the issue fee but prior to the grant or restoration of the patent, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced before the grant or restoration of the patent.”
+Section 4(a) of Pub. L. 93–601 provided that: “The Commissioner of Patents \[now Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] may, in accordance with Section 3 of this Act \[amending this section\], accept late payment of issue fees, the payment of which was governed by the provisions of Public Law 89–93 \[probably should refer to Public Law 89–83, which amended sections 41, 112, and 151 of this title and section 1113 of Title 15, Commerce and Trade\]; <i>Provided</i>: the term of the patent for which late payment of such an issue fee is accepted shall expire earlier than the time specified in Section 154 of Title 35, United States Code by a period equal to the delay between the time the application became abandoned or the patent lapsed for failure to pay the issue fee and the time the late payment is accepted after enactment of this Act \[Jan. 2, 1975\]; <i>Further Provided</i>: no patent with respect to which the issue fee was governed by the provisions of PL 89–83 and for which a late payment of the issue fee is accepted under the authority created by Section 3 of this Act, shall abridge or affect the right of any person or his successors in business who made, purchased or used anything covered by the patent, after the date of the application became abandoned or patent lapsed for failure to pay the issue fee but prior to the grant or restoration of the patent, to continue the use of or to sell to others to be used or sold, the specific thing so made, purchased, or used. A court before which such matter is in question may provide for the continued manufacture, use or sale of the thing made, purchased or used as specified, or for the manufacture, use or sale of which substantial preparation was made after the date the application became abandoned or patent lapsed for failure to pay the fee but prior to the grant or restoration of the patent, and it may also provide for the continued practice of any process covered by the patent, practiced, or for the practice of which substantial preparation was made, after the date the application became abandoned or patent lapsed for failure to pay the issue fee but prior to the grant or restoration of the patent, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced before the grant or restoration of the patent.”
 
 #### Cross References
 
@@ -42,5 +48,5 @@ Payment of fees, see section 42 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 41, 267 of this title.
+This section is referred to in sections 41, 154, 267 of this title.
 

@@ -1,6 +1,6 @@
 ### §871. Clerk, chief deputy clerk, assistant clerk, deputies, assistants, and other employees
 
-The Court of International Trade may appoint a clerk, a chief deputy clerk, an assistant clerk,deputy clerks, and such deputies, assistants, and other employees as may be necessary for the effective dispatch of the business of the court, who shall be subject to removal by the court.
+The Court of International Trade may appoint a clerk, a chief deputy clerk, an assistant clerk, deputy clerks, and such deputies, assistants, and other employees as may be necessary for the effective dispatch of the business of the court, who shall be subject to removal by the court.
 
 (June 25, 1948, ch. 646, 62 Stat. 925; Pub. L. 86–243, §1, Sept. 9, 1959, 73 Stat. 474; Pub. L. 96–417, title V, §501(17), Oct. 10, 1980, 94 Stat. 1742.)
 

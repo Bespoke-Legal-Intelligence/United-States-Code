@@ -122,7 +122,7 @@ The Administrator shall require use of a process with the following aspects for 
 
 &emsp;(B) In order for an acquisition project to satisfy the requirement in subparagraph (A), the solution for attainment of the executive agency's objectives under the project should not be obvious, but rather shall involve a need for some innovative development and systems integration.
 
-&emsp;(C) An acquisition project should not be so extensive or lengthy as to result in undue delay in the evaluation of the use of solutions-based contracting.
+&emsp;(C) An acquisition project should not be so extensive or lengthy as to result in unduedelay in the evaluation of the use of solutions-based contracting.
 
 #### (e) Monitoring by GAO
 

@@ -46,5 +46,5 @@ Subsec. (c). Pub. L. 105–277, §2243(2), added subsec. (c).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2684a, 2696, 2710, 2720, 4855, 6612 of this title.
+This section is referred to in sections 287b, 2684a, 2696, 2710, 2720, 4855, 6612 of this title.
 

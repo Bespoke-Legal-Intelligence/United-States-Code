@@ -2,7 +2,7 @@
 
 #### (a) Compliance orders
 
-(1) Except as provided in paragraph (2), whenever on the basis of any information the Administrator determines that any person has violated or is in violation of any requirement of this subchapter, the Administrator may issue an order assessing a civil penalty for any past or current violation, requiring compliance immediately or within a specified time period, or both, or theAdministrator may commence a civil action in the United States district court in the district in which the violation occurred for appropriate relief, including a temporary or permanent injunction.
+(1) Except as provided in paragraph (2), whenever on the basis of any information the Administrator determines that any person has violated or is in violation of any requirement of this subchapter, the Administrator may issue an order assessing a civil penalty for any past or current violation, requiring compliance immediately or within a specified time period, or both, or the Administrator may commence a civil action in the United States district court in the district in which the violation occurred for appropriate relief, including a temporary or permanent injunction.
 
 (2) In the case of a violation of any requirement of this subchapter where such violation occurs in a State which is authorized to carry out a hazardous waste program under section 6926 of this title, the Administrator shall give notice to the State in which such violation has occurred prior to issuing an order or commencing a civil action under this section.
 
@@ -48,7 +48,7 @@ Any person who—
 
 #### (e) Knowing endangerment
 
-Any person who knowingly transports, treats, stores, disposes of, or exports any hazardous waste identified or listed under this subchapter or used oil not identified or listed as a hazardous waste under this subchapter in violation of paragraph (1), (2), (3), (4), (5), (6), or (7) of subsection (d) of this section who knows at that time thathe thereby places another person in imminent danger of death or serious bodily injury, shall, upon conviction, be subject to a fine of not more than $250,000 or imprisonment for not more than fifteen years, or both. A defendant that is an organization shall, upon conviction of violating this subsection, be subject to a fine of not more than $1,000,000.
+Any person who knowingly transports, treats, stores, disposes of, or exports any hazardous waste identified or listed under this subchapter or used oil not identified or listed as a hazardous waste under this subchapter in violation of paragraph (1), (2), (3), (4), (5), (6), or (7) of subsection (d) of this section who knows at that time that he thereby places another person in imminent danger of death or serious bodily injury, shall, upon conviction, be subject to a fine of not more than $250,000 or imprisonment for not more than fifteen years, or both. A defendant that is an organization shall, upon conviction of violating this subsection, be subject to a fine of not more than $1,000,000.
 
 #### (f) Special rules
 
@@ -108,13 +108,13 @@ Any person who violates any requirement of this subchapter shall be liable to th
 
 #### References in Text
 
-The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (d)(1), (2)(A), probably means the Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended. Title I of the Marine Protection, Research, and Sanctuaries Act of 1972 is classified generally to subchapter I (§1411 et seq.) of chapter 27 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 33 and Tables.
+The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (d)(1), (2)(A), probably meansthe Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended. Title I of the Marine Protection, Research, and Sanctuaries Act of 1972 is classified generally to subchapter I (§1411 et seq.) of chapter 27 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 33 and Tables.
 
 #### Amendments
 
 1986—Subsec. (d)(4). Pub. L. 99–499, §205(i)(1), inserted “or any used oil not identified or listed as a hazardous waste under this subchapter”.
 
-Subsec. (d)(5). Pub. L. 99–499, §205(i)(1), (2), inserted “or any used oil not identified or listed as a hazardouswaste under this subchapter” and struck out “; or” after “accompanied by a manifest;”.
+Subsec. (d)(5). Pub. L. 99–499, §205(i)(1), (2), inserted “or any used oil not identified or listed as a hazardous waste under this subchapter” and struck out “; or” after “accompanied by a manifest;”.
 
 Subsec. (d)(6). Pub. L. 99–499, §205(i)(3), inserted at end “; or”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Determination of excess; amount transferred
 
-Whenever the Secretary of the Treasury determines pursuant to section 1101(f) of this title that there is an excess in the employment security administration account as of the close of any fiscal year and the entire amount of such excess is not retained in the employment security administration account or transferred to the extended unemployment compensation account as provided in section 1101(f)(3) of this title, there shall be transferred (as of the beginning of the succeeding fiscal year) to the Federal unemployment account the balance of such excess or so much thereof as is required to increase the amount in the Federal unemployment account to whichever of the following is the greater:
+Whenever the Secretary of the Treasury determines pursuant to section 1101(f) of this titlethat there is an excess in the employment security administration account as of the close of any fiscal year and the entire amount of such excess is not retained in the employment security administration account or transferred to the extended unemployment compensation account as provided in section 1101(f)(3) of this title, there shall be transferred (as of the beginning of the succeeding fiscal year) to the Federal unemployment account the balance of such excess or so much thereof as is required to increase the amount in the Federal unemployment account to whichever of the following is the greater:
 
 &emsp;(1) $550 million, or
 

@@ -88,6 +88,10 @@ Subsec. (f). Pub. L. 101–647, §1804(2), (3), which directed the addition of s
 
 Subsec. (a)(1). Pub. L. 101–162, title II, inserted “or 0.25 percent, whichever is greater,” after “$500,000”.
 
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3754, 3758, 3759, 3766, 3766b, 3791, 3796bb–1, 14071 of this title.

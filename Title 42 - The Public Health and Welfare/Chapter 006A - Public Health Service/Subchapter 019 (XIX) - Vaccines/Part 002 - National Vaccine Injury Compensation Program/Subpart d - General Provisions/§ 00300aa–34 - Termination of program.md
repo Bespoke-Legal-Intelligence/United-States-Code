@@ -50,7 +50,7 @@ The Secretary shall review the number of awards of compensation made under the p
 
 22nd through the 24th month after December 22, 1987
 
-300  
+300&nbsp;&nbsp;
 
 25th through the 27th month after December 22, 1987
 

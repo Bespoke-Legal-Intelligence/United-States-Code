@@ -10,7 +10,7 @@ Political Activities.—The corporation or a director or officer as such may not
 
 (c)
 
-Distribution of Income or Assets.—The income or assets of the corporation may not inure to the benefit of, or be distributed to, a director, officer, or member during the life of the charter granted by this chapter. This subsection does not prevent the payment of reasonable compensation to an officer or reimbursement foractual necessary expenses in amounts approved by the board of directors.
+Distribution of Income or Assets.—The income or assets of the corporation may not inure to the benefit of, or be distributed to, a director, officer, or member during the life of the charter granted by this chapter. This subsection does not prevent the payment of reasonable compensation to an officer or reimbursement for actual necessary expenses in amounts approved by the board of directors.
 
 (d)
 
@@ -42,17 +42,25 @@ June 1, 1982, Pub. L. 97–192, §8, 96 Stat. 110.
 
 36:1908(c).
 
+&nbsp;
+
 20707(c)
 
 36:1908(a).
+
+&nbsp;
 
 20707(d)
 
 36:1908(b).
 
+&nbsp;
+
 20707(e)
 
 36:1908(e).
+
+&nbsp;
 
 In subsection (a), the words “any shares of” are omitted as unnecessary.
 

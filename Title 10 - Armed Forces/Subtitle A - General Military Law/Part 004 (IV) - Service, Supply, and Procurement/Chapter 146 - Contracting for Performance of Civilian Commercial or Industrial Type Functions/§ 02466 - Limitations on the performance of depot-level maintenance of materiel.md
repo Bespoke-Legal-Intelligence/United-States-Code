@@ -16,13 +16,25 @@ Exception.—Subsection (a) shall not apply with respect to the Sacramento Army 
 
 (e)
 
-Report.—(1) Not later than February 1 of each year, the Secretary of Defense shall submit to Congress a report identifying, for each military department and Defense Agency, the percentage of the funds referred to in subsection (a) that were expended during the preceding fiscal year for performance of depot-level maintenance and repair workloads by the public and private sectors as required by section 2466 of this title.
+Annual Reports.—(1) Not later than February 1 of each year, the Secretary of Defense shall submit to Congress a report identifying, for each of the armed forces (other than the Coast Guard) and each Defense Agency, the percentage of the funds referred to in subsection (a) that were expended during the preceding two fiscal years for performance of depot-level maintenance and repair workloads by the public and private sectors, as required by this section.
 
-(2) Not later than 90 days after the date on which the Secretary submits the annual report under paragraph (1), the Comptroller General shall submit to Congress the Comptroller General's views on whether the Department of Defense has complied with the requirements of subsection (a) for the fiscal year covered by the report.
+(2) Not later than April 1 of each year, the Secretary of Defense shall submit to Congress a report identifying, for each of the armed forces (other than the Coast Guard) and each Defense Agency, the percentage of the funds referred to in subsection (a) that are projected to be expended during each of the next five fiscal years for performance of depot-level maintenance and repair workloads by the public and private sectors, as required by this section.
 
-(Added Pub. L. 100–456, div. A, title III, §326(a), Sept. 29, 1988, 102 Stat. 1955; amended Pub. L. 101–189, div. A, title III, §313, Nov. 29, 1989, 103 Stat. 1412; Pub. L. 102–190, div. A, title III, §314(a)(1), Dec. 5, 1991, 105 Stat. 1336; Pub. L. 102–484, div. A, title III, §352(a)–(c), Oct. 23, 1992, 106 Stat. 2378; Pub. L. 103–337, div. A, title III, §332, Oct. 5, 1994, 108 Stat. 2715; Pub. L. 104–106, div. A, title III, §§311(f)(1), 312(b), Feb. 10, 1996, 110 Stat. 248, 250; Pub. L. 105–85, div. A, title III, §§357, 358, 363, Nov. 18, 1997, 111 Stat. 1695, 1702.)
+(3) Not later than 60 days after the date on which the Secretary submits a report under this subsection, the Comptroller General shall submit to Congress the Comptroller General's views on whether—
+
+&emsp;(A) in the case of a report under paragraph (1), the Department of Defense has complied with the requirements of subsection (a) for the fiscal years covered by the report; and
+
+&emsp;(B) in the case of a report under paragraph (2), the expenditure projections for future fiscal years are reasonable.
+
+(Added Pub. L. 100–456, div. A, title III, §326(a), Sept. 29, 1988, 102 Stat. 1955; amended Pub. L. 101–189, div. A, title III, §313, Nov. 29, 1989, 103 Stat. 1412; Pub. L. 102–190, div. A, title III, §314(a)(1), Dec. 5, 1991, 105 Stat. 1336; Pub. L. 102–484, div. A, title III, §352(a)–(c), Oct. 23, 1992, 106 Stat. 2378; Pub. L. 103–337, div. A, title III, §332, Oct. 5, 1994, 108 Stat. 2715; Pub. L. 104–106, div. A, title III, §§311(f)(1), 312(b), Feb. 10, 1996, 110 Stat. 248, 250; Pub. L. 105–85, div. A, title III, §§357, 358, 363, Nov. 18, 1997, 111 Stat. 1695, 1702; Pub. L. 106–65, div. A, title III, §333, Oct. 5, 1999, 113 Stat. 567.)
 
 #### Amendments
+
+1999—Subsec. (e). Pub. L. 106–65 amended heading and text of subsec. (e) generally. Text read as follows:
+
+“(1) Not later than February 1 of each year, the Secretary of Defense shall submit to Congress a report identifying, for each military department and Defense Agency, the percentage of the funds referred to in subsection (a) that were expended during the preceding fiscal year for performance of depot-level maintenance and repair workloads by the public and private sectors as required by section 2466 of this title.
+
+“(2) Not later than 90 days after the date on which the Secretary submits the annual report under paragraph (1), the Comptroller General shall submit to Congress the Comptroller General's views on whether the Department of Defense has complied with the requirements of subsection (a) for the fiscal year covered by the report.”
 
 1997—Pub. L. 105–85, §363, repealed Pub. L. 104–106, §311(f)(1). See 1996 Amendment note below.
 

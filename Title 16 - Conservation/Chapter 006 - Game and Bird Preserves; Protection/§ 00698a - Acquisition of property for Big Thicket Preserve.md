@@ -2,7 +2,7 @@
 
 #### (a) Mineral rights; easements; improved properties
 
-The Secretary shall, immediately after the publication of the boundaries of the preserve,commence negotiations for the acquisition of the lands located therein: <i>Provided</i>, That he shall not acquire the mineral estate in any property or existing easements for public utilities, pipelines or railroads without the consent of the owner unless, in his judgment, he first determines that such property or estate is subject to, or threatened with, uses which are, or would be, detrimental to the purposes and objectives of sections 698 to 698e of this title: <i>Provided further</i>, That the Secretary, insofar as is reasonably possible, may avoid the acquisition of improved properties, as defined in sections 698 to 698e of this title, and shall make every effort to minimize the acquisition of land where he finds it necessary to acquire properties containing improvements.
+The Secretary shall, immediately after the publication of the boundaries of the preserve, commence negotiations for the acquisition of the lands located therein: <i>Provided</i>, That he shall not acquire the mineral estate in any property or existing easements for public utilities, pipelines or railroads without the consent of the owner unless, in his judgment, he first determines that such property or estate is subject to, or threatened with, uses which are, or would be, detrimental to the purposes and objectives of sections 698 to 698e of this title: <i>Provided further</i>, That the Secretary, insofar as is reasonably possible, may avoid the acquisition of improved properties, as defined in sections 698 to 698e of this title, and shall make every effort to minimize the acquisition of land where he finds it necessary to acquire properties containing improvements.
 
 #### (b) Plan to Congressional committees; time; contents
 
@@ -16,7 +16,7 @@ Within one year after October 11, 1974, the Secretary shall submit, in writing, 
 
 #### (c) Completion of land acquisition program; time
 
-It is the express intent of the Congress that the Secretary should substantially complete the land acquisition program contemplated by sections 698 to 698e of this title within six years after October 11, 1974.
+It is the express intent of the Congress that the Secretary should substantially complete theland acquisition program contemplated by sections 698 to 698e of this title within six years after October 11, 1974.
 
 (Pub. L. 93–439, §2, Oct. 11, 1974, 88 Stat. 1256.)
 

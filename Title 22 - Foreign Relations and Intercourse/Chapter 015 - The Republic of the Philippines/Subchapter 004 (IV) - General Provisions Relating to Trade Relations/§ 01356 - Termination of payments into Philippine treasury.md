@@ -16,7 +16,7 @@ Section 19 of the Act of March 24, 1934 (48 Stat. 456, ch. 84), as added to such
 
 Act of November 8, 1945 (59 Stat. 577, ch. 454), referred to in text, was classified to section 1249 of Title 48, Territories and Insular Possessions, which was omitted from the Code.
 
-This Act, referred to in text, is act Apr. 30, 1946, ch. 244, 60 Stat. 141, known as the Philippine Trade Act of 1946, which is classified principally to subchapters I to IV of this chapter. Subchapters I, II, and III of this chapter were omitted from the Code. For complete classification of this Act to the Code, see Short Title note set out under section 1354 of this title and Tables.
+This Act, referred to in text, is act Apr. 30, 1946, ch. 244, 60 Stat. 141, known as the Philippine Trade Act of1946, which is classified principally to subchapters I to IV of this chapter. Subchapters I, II, and III of this chapter were omitted from the Code. For complete classification of this Act to the Code, see Short Title note set out under section 1354 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -164,11 +164,19 @@ The Internal Revenue Code of 1954, referred to in subsec. (d)(3), was redesignat
 
 All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transferred to United States Mint Public Enterprise Fund and both coinage funds to cease to exist as separate funds as their activities and functions are subsumed under and subject to United States Mint Public Enterprise Fund, see section 5136 of this title.
 
-#### Award of Congressional Gold Medal to Little Rock Nine
+#### Award of Gold Medal to Father Theodore M. Hesburgh
+
+Pub. L. 106–153, Dec. 9, 1999, 113 Stat. 1733, authorized President to present, on behalf of Congress, a gold medal to Father Theodore M. Hesburgh in recognition of his outstanding and enduring contributions to civil rights, higher education, the Catholic Church, the Nation, and the global community, directed Secretary of the Treasury to strike a gold medal with suitable emblems, devices, and inscriptions, authorized Secretary to have bronze duplicates of the medal coined and sold as prescribed by regulation, and provided that the medals are national medals for purposes of chapter 51 of this title.
+
+#### Award of Gold Medal to Rosa Parks
+
+Pub. L. 106–26, May 4, 1999, 113 Stat. 50, authorized President to present, on behalf of Congress, a gold medal to Rosa Parks in recognition of her contributions to the Nation, directed Secretary of the Treasury to strike a gold medal with suitable emblems, devices, and inscriptions, authorized Secretary to have bronze duplicates of the medal coined and sold as prescribed by regulation, and provided that the medals are national medals for purposes of chapter 51 of this title.
+
+#### Award of Gold Medal to Little Rock Nine
 
 Pub. L. 105–277, div. C, title I, §139(a), Oct. 21, 1998, 112 Stat. 2681–597, authorized President to present, on behalf of Congress, gold medals to Jean Brown Trickey, Carlotta Walls LaNier, Melba Patillo Beals, Terrence Roberts, Gloria Ray Karlmark, Thelma Mothershed Wair, Ernest Green, Elizabeth Eckford, and Jefferson Thomas, commonly referred to as the “Little Rock Nine”, in recognition of the selfless heroism such individuals exhibited and the pain they suffered in the cause of civil rights by integrating Central High School in Little Rock, Arkansas, directed Secretary of the Treasury to strike a gold medal with suitable emblems, devices, and inscriptions, authorized Secretary to have bronze duplicates of the medal coined and sold as prescribed by regulation, and provided that the medals are national medals for purposes of chapter 51 of this title.
 
-#### Award of Congressional Gold Medal to Gerald R. and Betty Ford
+#### Award of Gold Medal to Gerald R. and Betty Ford
 
 Pub. L. 105–277, div. C, title I, §139(b), Oct. 21, 1998, 112 Stat. 2681–598, authorized President to present, on behalf of Congress, a gold medal to Gerald R. and Betty Ford in recognition of their dedicated public service and outstanding humanitarian contributions to the people of the United States and in commemoration of specific anniversary events in 1988, directed Secretary of the Treasury to strike a gold medal with suitable emblems, devices, and inscriptions, authorized Secretary to have bronze duplicates of the medal coined and sold as prescribed by regulation, and provided that the medals are national medals for purposes of chapter 51 of this title.
 
@@ -194,7 +202,7 @@ Pub. L. 104–201, div. A, title X, §1066, Sept. 23, 1996, 110 Stat. 2654, auth
 
 #### Award of Gold Medal to Billy and Ruth Graham
 
-Pub. L. 104–111, Feb. 13, 1996, 110 Stat. 772, authorized design and striking of gold medal for presentation by Congress to Billy and Ruth Graham, in recognition of their outstanding and enduring contributions toward faith, morality, and charity, authorized Secretary of the Treasury to accept gifts or donations to finance such medal in lieu of congressional appropriation and to strike and sell bronze duplicates of gold medal as prescribed by regulation, and provided that gold and bronze medals are national medals for purposes of this chapter and numismatic items for purposes of section 5134 of this title.
+Pub. L. 104–111, Feb. 13, 1996, 110 Stat. 772, authorized design and striking of gold medal for presentation by Congress to Billy and Ruth Graham, in recognition of their outstanding and enduring contributions towardfaith, morality, and charity, authorized Secretary of the Treasury to accept gifts or donations to finance such medal in lieu of congressional appropriation and to strike and sell bronze duplicates of gold medal as prescribed by regulation, and provided that gold and bronze medals are national medals for purposes of this chapter and numismatic items for purposes of section 5134 of this title.
 
 #### Award of Gold Medal to Rabbi Menachem Mendel Schneerson
 

@@ -16,7 +16,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(7) “Supporting agency” means either the Department of Commerce or the National Science Foundation, as appropriate.
 
-&emsp;(8) “Federal agency” means any executive agency as defined in section 105 of title 5 and the military departments as defined in section 102 of such title, as well as any agency of the legislative branch of the Federal Government.
+&emsp;(8) “Federal agency” means any executive agency as defined in section 105 of title 5 and the military departments as defined in section102 of such title, as well as any agency of the legislative branch of the Federal Government.
 
 &emsp;(9) “Invention” means any invention or discovery which is or may be patentable or otherwise protected under title 35 or any novel variety of plant which is or may be protectable under the Plant Variety Protection Act (7 U.S.C. 2321 et seq.).
 
@@ -52,13 +52,13 @@ Par. (3). Pub. L. 99–502, §9(b)(2)(B), substituted “ ‘Assistant Secretar
 
 Par. (4). Pub. L. 99–502, §9(b)(2)(C), substituted “Cooperative Research Centers” for “Centers for Industrial Technology”.
 
-Par. (6). Pub. L. 99–502, §9(b)(2)(D), (E), redesignated par. (7) as (6), substituted “owned, leased, or otherwise used by a Federal agency and funded” for “owned andfunded”, and struck out former par. (6) which defined “Board” to mean the National Industrial Technology Board established pursuant to section 3709 of this title.
+Par. (6). Pub. L. 99–502, §9(b)(2)(D), (E), redesignated par. (7) as (6), substituted “owned, leased, or otherwise used by a Federal agency and funded” for “owned and funded”, and struck out former par. (6) which defined “Board” to mean the National Industrial Technology Board established pursuant to section 3709 of this title.
 
 Pars. (7) to (12). Pub. L. 99–502, §9(b)(2)(D), (d), redesignated pars. (7) and (8) as (6) and (7), respectively, and added pars. (8) to (12).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 638 of this title; title 29 section 2242.
+This section is referred to in section 638 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

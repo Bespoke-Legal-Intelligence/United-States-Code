@@ -196,7 +196,7 @@ Every organization described in section 501(c)(4) which is subject to the requir
 
 #### Adjustment of Exception Amount for Reporting Exception for Certain Exempt Organizations
 
-<i>For adjustment of “$50 exception” amount for tax years beginning in 1999 for determining applicability of subsec. (e) of this section to certain exempt organizations, see section 3.20 of Revenue Procedure 98–61, set out as a note under section 1 of this title.</i>
+<i>For adjustment of “$50 exception” amount for tax years beginning in 2000 for determining applicability of subsec. (e) of this section to certain exempt organizations, see section 3.21 of Revenue Procedure 99–42, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -308,5 +308,5 @@ Publicity of information, see section 6104 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 162, 6104, 6501, 6652 of this title; title 2 sections 1602, 1610.
+This section is referred to in sections 162, 170, 6104, 6501, 6652 of this title; title 2 sections 1602, 1610; title 42 section 9907.
 

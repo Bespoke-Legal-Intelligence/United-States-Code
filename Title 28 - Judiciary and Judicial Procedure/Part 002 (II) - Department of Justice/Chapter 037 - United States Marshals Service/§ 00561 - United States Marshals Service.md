@@ -2,7 +2,7 @@
 
 (a) There is hereby established a United States Marshals Service as a bureau within the Department of Justice under the authority and direction of the Attorney General. There shall be at the head of the United States Marshals Service (hereafter in this chapter referred to as the “Service”) a Director who shall be appointed by the President, by and with the advice and consent of the Senate.
 
-(b) The Director of the United States Marshals Service (hereafter in this chapter referred to asthe “Director”) shall, in addition to the powers and duties set forth in this chapter, exercise such other functions as may be delegated by the Attorney General.
+(b) The Director of the United States Marshals Service (hereafter in this chapter referred to as the “Director”) shall, in addition to the powers and duties set forth in this chapter, exercise such other functions as may be delegated by the Attorney General.
 
 (c) The President shall appoint, by and with the advice and consent of the Senate, a United States marshal for each judicial district of the United States and for the Superior Court of the District of Columbia, except that any marshal appointed for the Northern Mariana Islands may at the same time serve as marshal in another judicial district. Each United States marshal shall be an official of the Service and shall serve under the direction of the Director.
 

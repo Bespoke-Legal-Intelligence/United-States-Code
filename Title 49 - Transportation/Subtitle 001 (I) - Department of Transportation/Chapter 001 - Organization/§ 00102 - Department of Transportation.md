@@ -96,13 +96,13 @@ Report.—The Secretary shall report to Congress on the findings of the study co
 
 #### Person Holding Position of Associate Deputy Secretary Until April 15, 1985
 
-Section 26(c) of Pub. L. 98–557 provided that: “Notwithstanding any other provision of law, until April 15, 1985, the position created by subsection (a) of this section \[adding subsec. (d) of this section\] may be held by a person named by the President alone from among qualified individuals.”
+Section 26(c) of Pub. L. 98–557 provided that: “Notwithstanding any other provision of law, until April 15,1985, the position created by subsection (a) of this section \[adding subsec. (d) of this section\] may be held by a person named by the President alone from among qualified individuals.”
 
 #### Ex. Ord. No. 11340. Effective Date
 
 Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453, provided:
 
-By virtue of the authority vested in me as President of the United States by Section 15 \[renumbered section16\] of the Department of Transportation Act (Public Law 89–670, approved October 15, 1966; 80 Stat. 950) April 1, 1967, is hereby prescribed as the date on which the Department of Transportation Act shall take effect.
+By virtue of the authority vested in me as President of the United States by Section 15 \[renumbered section 16\] of the Department of Transportation Act (Public Law 89–670, approved October 15, 1966; 80 Stat. 950) April 1, 1967, is hereby prescribed as the date on which the Department of Transportation Act shall take effect.
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

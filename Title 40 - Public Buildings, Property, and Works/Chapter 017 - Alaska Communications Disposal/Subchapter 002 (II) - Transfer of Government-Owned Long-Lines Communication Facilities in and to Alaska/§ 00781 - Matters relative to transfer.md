@@ -2,7 +2,7 @@
 
 #### (1) Authorization, Executive approval, adequate consideration, scope of transfer, qualification of transferee, necessary or appropriate actions and powers
 
-Subject to the provisions of section 782 of this title, and notwithstanding provisions of any other law, the Secretary of Defense or his designee, with the advice, assistance, and, in the case of any agency not under the jurisdiction of the Secretary of Defense, the consent of the agency concerned, and after approval of the President, is authorized to and shall transfer foradequate consideration any or all long-lines communication facilities in or to Alaska under the jurisdiction of the Federal Government to any person qualifying under the provisions of section 782 of this title, and may take such action and exercise such powers as may be necessary or appropriate to effectuate the purposes of this chapter.
+Subject to the provisions of section 782 of this title, and notwithstanding provisions of any other law, the Secretary of Defense or his designee, with the advice, assistance, and, in the case of any agency not under the jurisdiction of the Secretary of Defense, the consent of the agency concerned, and after approval of the President, is authorized to and shall transfer for adequate consideration any or all long-lines communication facilities in or to Alaska under the jurisdiction of the Federal Government to any person qualifying under the provisions of section 782 of this title, and may take such action and exercise such powers as may be necessary or appropriate to effectuate the purposes of this chapter.
 
 #### (2) Procedures and methods
 

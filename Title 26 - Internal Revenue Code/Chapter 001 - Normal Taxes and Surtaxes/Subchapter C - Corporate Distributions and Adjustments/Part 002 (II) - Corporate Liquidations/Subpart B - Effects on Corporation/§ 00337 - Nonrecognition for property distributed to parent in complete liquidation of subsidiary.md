@@ -34,7 +34,7 @@ No gain or loss shall be recognized to the liquidating corporation on the distri
 
 #### (c) 80-percent distributee
 
-For purposes of this section, the term “80-percent distributee” means only the corporation which meets the 80-percent stock ownership requirements specified in section 332(b). For purposes of this section, the determination of whether any corporation is an 80-percent distributee shall be made without regard to any consolidated return regulation.
+For purposes of this section, the term “80-percent distributee” means only the corporationwhich meets the 80-percent stock ownership requirements specified in section 332(b). For purposes of this section, the determination of whether any corporation is an 80-percent distributee shall be made without regard to any consolidated return regulation.
 
 #### (d) Regulations
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 100–203 applicable to distributions or transfers after De
 
 #### Effective Date
 
-Section applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for whichthe acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as a note under section 336 of this title.
+Section applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as a note under section 336 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ Except as provided under subsection (d) of this section or in accordance with th
 
 #### (b) Post closing notification
 
-Not less than 45 days before the closing of any United States consular or diplomatic post abroad, the Secretary of State shall notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
+Not less than 45 days before the closing of any United States consular or diplomatic postabroad, the Secretary of State shall notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
 #### (c) Reprogramming treatment
 

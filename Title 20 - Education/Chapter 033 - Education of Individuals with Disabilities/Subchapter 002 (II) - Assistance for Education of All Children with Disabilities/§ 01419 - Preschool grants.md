@@ -118,7 +118,7 @@ Each State shall use any funds it retains under subsection (d) of this section a
 
 &emsp;(3) to develop a State improvement plan under part A of subchapter IV of this chapter;
 
-&emsp;(4) for activities at the State and local levels to meet the performance goals established by the State under section 1412(a)(16) of this titleand to support implementation of the State improvement plan under part A of subchapter IV of this chapter if the State receives funds under that part; or
+&emsp;(4) for activities at the State and local levels to meet the performance goals established by the State under section 1412(a)(16) of this title and to support implementation of the State improvement plan under part A of subchapter IV of this chapter if the State receives funds under that part; or
 
 &emsp;(5) to supplement other funds used to develop and implement a Statewide coordinated services system designed to improve results for children and families, including children with disabilities and their families, but not to exceed one percent of the amount received by the State under this section for a fiscal year.
 
@@ -196,5 +196,5 @@ Section 110 of Pub. L. 100–630, as amended by Pub. L. 101–476, title IX, §9
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1411, 1453, 1461 of this title.
+This section is referred to in sections 1411, 1453, 1461 of this title; title 42 sections 9835, 9836, 9837.
 

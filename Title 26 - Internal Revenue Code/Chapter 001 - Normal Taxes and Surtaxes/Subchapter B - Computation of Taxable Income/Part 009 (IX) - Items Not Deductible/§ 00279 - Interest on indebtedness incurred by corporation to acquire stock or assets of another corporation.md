@@ -22,7 +22,7 @@ For purposes of this section, the term “corporate acquisition indebtedness” 
 
 &emsp;&emsp;(A) subordinated to the claims of trade creditors of the issuing corporation generally, or
 
-&emsp;&emsp;(B) expressly subordinated in right of payment to the payment of any substantialamount of unsecured indebtedness, whether outstanding or subsequently issued, of the issuing corporation,
+&emsp;&emsp;(B) expressly subordinated in right of payment to the payment of any substantial amount of unsecured indebtedness, whether outstanding or subsequently issued, of the issuing corporation,
 
 &emsp;(3) the bond or other evidence of indebtedness is either—
 
@@ -54,7 +54,7 @@ For purposes of subsection (b)(4)—
 
 &emsp;&emsp;&emsp;(i) the issuing corporation only, if clause (ii) does not apply, or
 
-&emsp;&emsp;&emsp;(ii) both the issuing corporation and the acquired corporation, in any case where the issuing corporation has acquired control (as defined in section 368(c)), or has acquired substantially all of the properties, of the acquired corporation.
+&emsp;&emsp;&emsp;(ii) both the issuing corporation and the acquired corporation, in any case where the issuing corporation has acquired control (as defined in section 368(c)), or hasacquired substantially all of the properties, of the acquired corporation.
 
 &emsp;&emsp;(B) The average annual earnings referred to in subparagraph (A) is, for any corporation, the amount of its earnings and profits for any 3-year period ending with the last day of a taxable year of the issuing corporation described in paragraph (1), computed without reduction for—
 
@@ -114,7 +114,7 @@ In applying this section—
 
 #### (e) Certain nontaxable transactions
 
-An acquisition of stock of a corporation of which the issuing corporation is in control (as defined in section 368(c)) in a transaction in which gain or loss is not recognized shall be deemed an acquisition described in paragraph (1) of subsection (b) only if immediately before such transaction (1) the acquired corporation was in existence, and (2) the issuing corporation was not in control (as defined in section 368(c)) of such corporation.
+An acquisition of stock of a corporation of which the issuing corporation is in control (asdefined in section 368(c)) in a transaction in which gain or loss is not recognized shall be deemed an acquisition described in paragraph (1) of subsection (b) only if immediately before such transaction (1) the acquired corporation was in existence, and (2) the issuing corporation was not in control (as defined in section 368(c)) of such corporation.
 
 #### (f) Exemption for certain acquisitions of foreign corporations
 

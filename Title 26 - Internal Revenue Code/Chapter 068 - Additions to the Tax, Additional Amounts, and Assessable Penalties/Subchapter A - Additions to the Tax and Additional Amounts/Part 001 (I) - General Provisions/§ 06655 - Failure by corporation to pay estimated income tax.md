@@ -48,7 +48,7 @@ For purposes of this section—
 
 | <b> In the case of the following   required installments:</b> | <b>The due date is:</b> |
 | :--- | ---: |
-| &nbsp;&nbsp;&nbsp;1st | April 15&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;1st | April 15   |
 | &nbsp;&nbsp;&nbsp;2nd | June 15&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;3rd | September 15&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;4th | December 15. |
@@ -241,6 +241,16 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the term “noncontrolling shareholder” means, with respect to any corporation, a shareholder which (as of the beginning of the taxable year for which the installment is being made) does not own (within the meaning of section 958(a)), and is not treated as owning (within the meaning of section 958(b)), more than 50 percent (by vote or value) of the stock in the corporation.
 
+#### (5) Treatment of certain REIT dividends
+
+#### (A) In general
+
+&emsp;&emsp;Any dividend received from a closely held real estate investment trust by any person which owns (after application of subsections (d)(5) and (<i>l</i>)(3)(B) of section 856) 10 percent or more (by vote or value) of the stock or beneficial interests in the trust shall be taken into account in computing annualized income installments under paragraph (2) in a manner similar to the manner under which partnership income inclusions are taken into account.
+
+#### (B) Closely held REIT
+
+&emsp;&emsp;For purposes of subparagraph (A), the term “closely held real estate investment trust”means a real estate investment trust with respect to which 5 or fewer persons own (after application of subsections (d)(5) and (<i>l</i>)(3)(B) of section 856) 50 percent or more (by vote or value) of the stock or beneficial interests in the trust.
+
 #### (f) Exception where tax is small amount
 
 No addition to tax shall be imposed under subsection (a) for any taxable year if the tax shown on the return for such taxable year (or, if no return is filed, the tax) is less than $500.
@@ -351,9 +361,11 @@ No addition to tax shall be imposed under subsection (a) for any taxable year if
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 825; Pub. L. 88–272, title I, §122(c), Feb. 26, 1964, 78 Stat. 28; Pub. L. 90–364, title I, §103(c), (d)(2), (e)(1), June 28, 1968, 82 Stat. 262, 264; Pub. L. 93–625, §7(c), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(b)(3)(A)–(C)(i), (13)(A), Oct. 4, 1976, 90 Stat. 1833, 1834; Pub. L. 95–600, title III, §301(b)(20)(B), Nov. 6, 1978, 92 Stat. 2824; Pub. L. 96–499, title XI, §1111(a), (b), Dec. 5, 1980, 94 Stat. 2681, 2682; Pub. L. 97–34, title VI, §601(a)(6)(B), title VII, §731(a), (b), Aug. 13, 1981, 95 Stat. 336, 346, 347; Pub. L. 97–248, title II, §234(a), (c), (d), Sept. 3, 1982, 96 Stat. 503, 504; Pub. L. 97–448, title II, §201(j)(4), Jan. 12, 1983, 96 Stat. 2396; Pub. L. 99–499, title V, §516(b)(4)(D), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 99–514, title VII, §701(d)(3), title XV, §1511(c)(15), Oct. 22, 1986, 100 Stat. 2342, 2745; Pub. L. 100–203, title X, §10301(a), Dec. 22, 1987, 101 Stat. 1330–424; Pub. L. 100–418, title I, §1941(b)(6)(B), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title II, §2004(r), title V, §5001(a), Nov. 10, 1988, 102 Stat. 3609, 3660; Pub. L. 101–239, title VII, §§7209(a), 7822(a), Dec. 19, 1989, 103 Stat. 2338, 2424; Pub. L. 101–508, title XI, §11704(a)(28), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 102–227, title II, §201(a), (b), Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–244, §3(a), Feb. 7, 1992, 106 Stat. 4; Pub. L. 102–318, title V, §512(a), (b), July 3, 1992, 106 Stat. 300; Pub. L. 103–66, title XIII, §13225(a), (b), Aug. 10, 1993, 107 Stat. 486; Pub. L. 103–465, title VII, §711(a), Dec. 8, 1994, 108 Stat. 4998; Pub. L. 104–188, title I, §1703(h), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title XIV, §1461(a), Aug. 5, 1997, 111 Stat. 1057.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 825; Pub. L. 88–272, title I, §122(c), Feb. 26, 1964, 78 Stat. 28; Pub. L. 90–364, title I, §103(c), (d)(2), (e)(1), June 28, 1968, 82 Stat. 262, 264; Pub. L. 93–625, §7(c), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(b)(3)(A)–(C)(i), (13)(A), Oct. 4, 1976, 90 Stat. 1833, 1834; Pub. L. 95–600, title III, §301(b)(20)(B), Nov. 6, 1978, 92 Stat. 2824; Pub. L. 96–499, title XI, §1111(a), (b), Dec. 5, 1980, 94 Stat. 2681, 2682; Pub. L. 97–34, title VI, §601(a)(6)(B), title VII, §731(a), (b), Aug. 13, 1981, 95 Stat. 336, 346, 347; Pub. L. 97–248, title II, §234(a), (c), (d), Sept. 3, 1982, 96 Stat. 503, 504; Pub. L. 97–448, title II, §201(j)(4), Jan. 12, 1983, 96 Stat. 2396; Pub. L. 99–499, title V, §516(b)(4)(D), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 99–514, title VII, §701(d)(3), title XV, §1511(c)(15), Oct. 22, 1986, 100 Stat. 2342, 2745; Pub. L. 100–203, title X, §10301(a), Dec. 22, 1987, 101 Stat. 1330–424; Pub. L. 100–418, title I, §1941(b)(6)(B), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title II, §2004(r), title V, §5001(a), Nov. 10, 1988, 102 Stat. 3609, 3660; Pub. L. 101–239, title VII, §§7209(a), 7822(a), Dec. 19, 1989, 103 Stat. 2338, 2424; Pub. L. 101–508, title XI, §11704(a)(28), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 102–227, title II, §201(a), (b), Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–244, §3(a), Feb. 7, 1992, 106 Stat. 4; Pub. L. 102–318, title V, §512(a), (b), July 3, 1992, 106 Stat. 300; Pub. L. 103–66, title XIII, §13225(a), (b), Aug. 10, 1993, 107 Stat. 486; Pub. L. 103–465, title VII, §711(a), Dec. 8, 1994, 108 Stat. 4998; Pub. L. 104–188, title I, §1703(h), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title XIV, §1461(a), Aug. 5, 1997, 111 Stat. 1057; Pub. L. 106–170, title V, §571(a), Dec. 17, 1999, 113 Stat. 1950.)
 
 #### Amendments
+
+1999—Subsec. (e)(5). Pub. L. 106–170 added par. (5).
 
 1997—Subsec. (g)(3). Pub. L. 105–34 inserted at end “In the case of a private foundation, subsection (c)(2) shall be applied by substituting ‘May 15’ for ‘April 15’.”
 
@@ -407,7 +419,7 @@ Subsec. (e)(1). Pub. L. 102–227, §201(b), substituted “paragraphs (2) and (
 
 Subsec. (g)(4). Pub. L. 101–239, §7209(a), added par. (4).
 
-1988—Subsec. (e)(1). Pub. L. 100–647, §5001(a), struck out at end “A reduction shall be treated as recaptured for purposes of subparagraph (B) if 90 percent of the reduction is recaptured.”
+1988—Subsec. (e)(1). Pub. L. 100–647, §5001(a), struck out at end “A reduction shall be treated as recapturedfor purposes of subparagraph (B) if 90 percent of the reduction is recaptured.”
 
 Subsec. (g)(1)(B). Pub. L. 100–418 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the sum of—
 
@@ -472,6 +484,10 @@ Subsec. (g). Pub. L. 90–364, §103(d)(2), added subsec. (g).
 1964—Subsec. (c)(2). Pub. L. 88–272, §122(c)(1), substituted “any installment date” and “such installment date” for “the 15th day of the 12th month”.
 
 Subsec. (d)(3). Pub. L. 88–272, §122(c)(2), redesignated cls. (A)(i) and (ii) as (A)(iii) and (iv), respectively, added cls. (A)(i) and (ii), and substituted “(3, 5, 6, 8, 9,)” for “(6 or 8, or 9)” in subpar. (B)(ii).
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–170, title V, §571(b), Dec. 17, 1999, 113 Stat. 1951, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to estimated tax payments due on or after December 15, 1999.”
 
 #### Effective Date of 1997 Amendment
 

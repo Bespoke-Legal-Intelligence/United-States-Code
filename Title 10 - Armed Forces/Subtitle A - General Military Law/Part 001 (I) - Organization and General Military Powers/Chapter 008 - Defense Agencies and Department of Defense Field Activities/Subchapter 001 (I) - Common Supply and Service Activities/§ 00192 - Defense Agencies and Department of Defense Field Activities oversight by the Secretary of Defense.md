@@ -8,7 +8,7 @@ Overall Supervision.—(1) The Secretary of Defense shall assign responsibility 
 
 &emsp;(B) to the Chairman of the Joint Chiefs of Staff.
 
-(2) An official assigned such a responsibility with respect to a Defense Agency or Department of Defense Field Activity shall advise the Secretary of Defense on the extent to which the program recommendations and budget proposals of such agency or activity conform with the requirements of the military departments and of the unified and specified combatant commands.
+(2) An official assigned such a responsibility with respect to a Defense Agency or Departmentof Defense Field Activity shall advise the Secretary of Defense on the extent to which the program recommendations and budget proposals of such agency or activity conform with the requirements of the military departments and of the unified and specified combatant commands.
 
 (3) This subsection does not apply to the Defense Intelligence Agency or the National Security Agency.
 
@@ -28,19 +28,17 @@ Periodic Review.—(1) Periodically (and not less often than every two years), t
 
 (d)
 
-Special Rule for Defense Commissary Agency.—Notwithstanding the results of any periodic review under subsection (c) with regard to the Defense Commissary Agency, the Secretary of Defense may not transfer to the Secretary of a military department the responsibility to manage and fund the provision of services and supplies provided by the Defense Commissary Agency unless the transfer of the management and funding responsibility is specifically authorized by a law enacted after the date of the enactment of this subsection.
+Special Rule for Defense Commissary Agency.—Notwithstanding the results of any periodic review under subsection (c) with regard to the Defense Commissary Agency, the Secretary of Defense may not transfer to the Secretary of a military department the responsibility to manage and fund the provision of services and supplies provided by the Defense Commissary Agency unless the transfer of the management and funding responsibility is specifically authorized by a law enacted after October 17, 1998.
 
-(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 105–261, div. A, title III, §361(a), Oct. 17, 1998, 112 Stat. 1984.)
-
-#### References in Text
-
-The date of the enactment of this subsection, referred to in subsec. (d), is the date of enactment of Pub. L. 105–261 which was approved Oct. 17, 1998.
+(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 105–261, div. A, title III, §361(a), Oct. 17, 1998, 112 Stat. 1984; Pub. L. 106–65, div. A, title X, §1066(a)(3), Oct. 5, 1999, 113 Stat. 770.)
 
 #### Prior Provisions
 
 A prior section 192, Pub. L. 98–215, title V, §501(a), Dec. 9, 1983, 97 Stat. 1478, which related to benefits for certain personnel of the Defense Intelligence Agency, was redesignated as section 1605 of this title and amended by Pub. L. 99–145, title XIII, §1302(a)(1), Nov. 8, 1985, 99 Stat. 737. Provisions of prior section 192 as related to members of the armed forces were enacted as section 431 of Title 37, Pay and Allowances of the Uniformed Services, by section 1302(b)(1) of Pub. L. 99–145.
 
 #### Amendments
+
+1999—Subsec. (d). Pub. L. 106–65 substituted “October 17, 1998” for “the date of the enactment of this subsection”.
 
 1998—Subsec. (d). Pub. L. 105–261 added subsec. (d).
 

@@ -50,5 +50,5 @@ In general.—The amendments made by this section \[enacting this section and re
 
 “(2)
 
-Inland waterways trust fund treated as continuation of old trust fund.—The Inland Waterways Trust Fund established by the amendments made bythis section shall be treated for all purposes of law as a continuation of the Inland Waterways Trust Fund established by section 203 of the Inland Waterways Revenue Act of 1978 \[former 33 U.S.C. 1801\]. Any reference in any law to the Inland Waterways Trust Fund established by such section 203 shall be deemed to include (wherever appropriate) a reference to the Inland Waterways Trust Fund established by this section.”
+Inland waterways trust fund treated as continuation of old trust fund.—The Inland Waterways Trust Fund established by the amendments made by this section shall be treated for all purposes of law as a continuation of the Inland Waterways Trust Fund established by section 203 of the Inland Waterways Revenue Act of 1978 \[former 33 U.S.C. 1801\]. Any reference in any law to the Inland Waterways Trust Fund established by such section 203 shall be deemed to include (wherever appropriate) a reference to the Inland Waterways Trust Fund established by this section.”
 

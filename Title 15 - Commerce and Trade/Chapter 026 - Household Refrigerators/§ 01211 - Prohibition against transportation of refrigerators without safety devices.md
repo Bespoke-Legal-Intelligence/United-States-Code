@@ -1,6 +1,6 @@
 ### §1211. Prohibition against transportation of refrigerators without safety devices
 
-It shall be unlawful for any person to introduce or deliver for introduction into interstatecommerce any household refrigerator manufactured on or after the date this section takes effect unless it is equipped with a device, enabling the door thereof to be opened from the inside, which conforms with standards prescribed pursuant to section 1213 of this title.
+It shall be unlawful for any person to introduce or deliver for introduction into interstate commerce any household refrigerator manufactured on or after the date this section takes effect unless it is equipped with a device, enabling the door thereof to be opened from the inside, which conforms with standards prescribed pursuant to section 1213 of this title.
 
 (Aug. 2, 1956, ch. 890, §1, 70 Stat. 953.)
 
@@ -14,7 +14,7 @@ Section 5 of act Aug. 2, 1956, provided that: “This Act \[this chapter\] shall
 
 #### Transfer of Functions
 
-Functions of Secretary of Commerce and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, see section 2079 of this title.
+Functions of Secretary of Commerce and Federal Trade Commission under this chapter transferred toConsumer Product Safety Commission, see section 2079 of this title.
 
 #### Cross References
 

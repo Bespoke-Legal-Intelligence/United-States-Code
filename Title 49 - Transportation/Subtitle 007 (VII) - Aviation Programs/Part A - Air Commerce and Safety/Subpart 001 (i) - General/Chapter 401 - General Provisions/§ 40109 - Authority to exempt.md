@@ -20,7 +20,7 @@ Other Economic Regulation.—Except as provided in this section, the Secretary m
 
 (d)
 
-Labor Requirements.—The Secretary may not exempt an air carrier from section 42112 of this title. However, the Secretary may exempt from section 42112(b)(1) and (2) an air carrier not providing scheduled air transportation, and the operations conducted during daylight hours by an air carrier providing scheduled air transportation, when the Secretary decides that—
+Labor Requirements.—The Secretary may not exempt an air carrier from section 42112 of this title. However, the Secretary may exempt from section 42112(b)(1) and (2) an air carrier notproviding scheduled air transportation, and the operations conducted during daylight hours by an air carrier providing scheduled air transportation, when the Secretary decides that—
 
 &emsp;(1) because of the limited extent of, or unusual circumstances affecting, the operation of the air carrier, the enforcement of section 42112(b)(1) and (2) of this title is or would be an unreasonable burden on the air carrier that would obstruct its development and prevent it from beginning or continuing operations; and
 

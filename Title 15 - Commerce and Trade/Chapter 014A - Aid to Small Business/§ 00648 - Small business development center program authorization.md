@@ -6,7 +6,7 @@
 
 (2) The Small Business Development Centers shall work in close cooperation with the Administration's regional and local offices, the Department of Commerce, appropriate Federal, State and local agencies and the small business community to serve as an active information dissemination and service delivery mechanism for existing trade promotion, trade finance, trade adjustment, trade remedy and trade data collection programs of particular utility for small businesses.
 
-(3) The Small Business Development Center Program shall be under the general management and oversight of the Administration for the delivery of programs and services to the small business community. Such programs and services shall be jointly developed, negotiated, andagreed upon, with full participation of both parties, pursuant to an executed cooperative agreement between the Small Business Development Center applicant and the Administration.
+(3) The Small Business Development Center Program shall be under the general management and oversight of the Administration for the delivery of programs and services to the small business community. Such programs and services shall be jointly developed, negotiated, and agreed upon, with full participation of both parties, pursuant to an executed cooperative agreement between the Small Business Development Center applicant and the Administration.
 
 (A) Small business development centers are authorized to form an association to pursue matters of common concern. If more than a majority of the small business development centers which are operating pursuant to agreements with the Administration are members of such an association, the Administration is authorized and directed to recognize the existence and activities of such an association and to consult with it and develop documents (i) announcing the annual scope of activities pursuant to this section, (ii) requesting proposals to deliver assistance as provided in this section and (iii) governing the general operations and administration of the Small Business Development Center Program, specifically including the development of regulations and a uniform negotiated cooperative agreement for use on an annual basis when entering into individual negotiated agreements with small business development centers.
 
@@ -86,7 +86,7 @@ Exemption from matching requirement.—A contract under this paragraph shall not
 
 Additional provision.—Notwithstanding any other provision of law, a contract for assistance under this paragraph shall not be applied to any Federal department or agency's small business, woman-owned business, or socially and economically disadvantaged business contracting goal under section 644(g) of this title.
 
-(6) Any applicant which is funded by the Administration as a Small Business DevelopmentCenter may apply for an additional grant to be used solely to assist—
+(6) Any applicant which is funded by the Administration as a Small Business Development Center may apply for an additional grant to be used solely to assist—
 
 &emsp;(A) with the development and enhancement of exports by small business concerns;
 
@@ -276,7 +276,7 @@ The National Aeronautics and Space Administration and regional technology transf
 
 #### (A) In general
 
-&emsp;&emsp;In extending or renewing a cooperative agreement of a small business developmentcenter, the Administration shall consider the results of the examination and certification program conducted pursuant to paragraphs (1) and (2).
+&emsp;&emsp;In extending or renewing a cooperative agreement of a small business development center, the Administration shall consider the results of the examination and certification program conducted pursuant to paragraphs (1) and (2).
 
 #### (B) Certification requirement
 
@@ -284,7 +284,7 @@ The National Aeronautics and Space Administration and regional technology transf
 
 #### (<i>l</i>) Contract authority
 
-The authority to enter into contracts shall be in effect for each fiscal year only to the extent and in the amounts as are provided in advance in appropriations Acts. After the administration has entered a contract, either as a grant or a cooperative agreement, with any applicant under this section, it shall not suspend, terminate, or fail to renew or extend any such contract unless the Administration provides the applicant with written notification setting forth the reasons therefore and affording the applicant an opportunity for a hearing, appeal, or other administrative proceeding under the provisions of chapter 5 of title 5. If any contract or cooperative agreement under this section with an entity that is covered by this section is not renewed or extended, any award of a successor contract or cooperative agreement under this section to another entity shall be made on a competitive basis.
+The authority to enter into contracts shall be in effect for each fiscal year only to the extent and in the amounts as are provided in advancein appropriations Acts. After the administration has entered a contract, either as a grant or a cooperative agreement, with any applicant under this section, it shall not suspend, terminate, or fail to renew or extend any such contract unless the Administration provides the applicant with written notification setting forth the reasons therefore and affording the applicant an opportunity for a hearing, appeal, or other administrative proceeding under the provisions of chapter 5 of title 5. If any contract or cooperative agreement under this section with an entity that is covered by this section is not renewed or extended, any award of a successor contract or cooperative agreement under this section to another entity shall be made on a competitive basis.
 
 #### (m) Prohibition on certain fees
 
@@ -462,7 +462,7 @@ Section 5(c) of Pub. L. 101–515 provided that: “The amendments to the second
 
 #### Effective and Termination Dates
 
-Section 204 of Pub. L. 96–302, as amended by Pub. L. 98–177, Nov. 29, 1983, 97 Stat. 1125; Pub. L. 98–395, §4, Aug. 21, 1984, 98 Stat. 1368; Pub. L. 101–162, title V, (6), Nov. 21, 1989, 103 Stat. 1028, which provided for the repeal, effective Oct. 1, 1991, of sections 201 and 202 of Pub. L. 96–302, which enacted this section and provisions set out as a note under section 631 of this title and redesignated section 2\[21\] as 2\[30\] of Pub. L. 85–536, set out as a note under section 631 of this title, was repealed by Pub. L. 101–515, §5(b), Nov. 5, 1990, 104 Stat. 2142, and Pub. L. 101–574, title II, §201(b), Nov. 15, 1990, 104 Stat. 2818.
+Section 204 of Pub. L. 96–302, as amended by Pub. L. 98–177, Nov. 29, 1983, 97 Stat. 1125; Pub. L. 98–395, §4, Aug. 21, 1984, 98 Stat. 1368; Pub. L. 101–162, title V, (6),Nov. 21, 1989, 103 Stat. 1028, which provided for the repeal, effective Oct. 1, 1991, of sections 201 and 202 of Pub. L. 96–302, which enacted this section and provisions set out as a note under section 631 of this title and redesignated section 2\[21\] as 2\[30\] of Pub. L. 85–536, set out as a note under section 631 of this title, was repealed by Pub. L. 101–515, §5(b), Nov. 5, 1990, 104 Stat. 2142, and Pub. L. 101–574, title II, §201(b), Nov. 15, 1990, 104 Stat. 2818.
 
 Section effective Oct. 1, 1980, see section 507 of Pub. L. 96–302, set out as an Effective Date of 1980 Amendment note under section 631 of this title.
 
@@ -548,7 +548,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 636, 654 of this title.
+This section is referred to in sections 636, 654, 657c of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -14,5 +14,5 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 15 sections 1607, 1681s, 1691c, 1692<i>l.</i>
+This section is referred to in title 15 sections 1607, 1681s, 1691c, 1692<i>l</i>, 6505.
 

@@ -82,7 +82,7 @@ The Secretary may waive the application of subsection (b) of this section in the
 
 #### (3) Appeals procedure
 
-&emsp;The eligible agency shall establish an appeals procedure for resolution of any dispute arising between a local educational agency and an area vocational and technical education school or an educational service agency with respect to the allocation procedures described in this section, including the decision of a local educational agency to leave a consortium or terminate a cooperative arrangement.
+&emsp;The eligible agency shall establish an appeals procedure for resolution of any dispute arising between a local educational agency and an area vocational and technical education school or an educational service agencywith respect to the allocation procedures described in this section, including the decision of a local educational agency to leave a consortium or terminate a cooperative arrangement.
 
 #### (g) Consortium requirements
 

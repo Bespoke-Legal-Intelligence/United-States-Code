@@ -34,7 +34,7 @@
 
 #### (2) Actions by government of jurisdiction
 
-&emsp;In order to pursue such consultations with that government, the President may delay imposition of the sanction pursuant to this section for up to 90 days. Following these consultations, the President shall impose the sanction unless the President determines and certifies in writing to the Congress that that government has taken specific and effective actions, including appropriate penalties, to terminate the involvement of the foreign person in the activities described in subsection (a)(1) of this section. The President may delay the imposition of the sanction for up to an additional 90 days if the President determines and certifies in writing to the Congress that that government is in the process of taking the actions described in the preceding sentence.
+&emsp;In order to pursue such consultations with that government, the President may delay imposition of the sanction pursuant to this section for up to 90 days. Following these consultations, the President shall impose the sanction unless the President determines and certifies in writing to the Congress that that government has taken specific and effective actions, including appropriate penalties, to terminate the involvement of the foreign person in the activities described in subsection (a)(1) of this section. The President may delay the imposition of the sanction for up to an additional 90 days if the President determinesand certifies in writing to the Congress that that government is in the process of taking the actions described in the preceding sentence.
 
 #### (3) Report to Congress
 
@@ -92,7 +92,7 @@ The sanction imposed pursuant to this section shall apply for a period of at lea
 
 #### (2) Notification of and report to Congress
 
-&emsp;If the President decides to exercise the waiver authority provided in paragraph (1), thePresident shall so notify the Congress not less than 20 days before the waiver takes effect. Such notification shall include a report fully articulating the rationale and circumstances which led the President to exercise the waiver authority.
+&emsp;If the President decides to exercise the waiver authority provided in paragraph (1), the President shall so notify the Congress not less than 20 days before the waiver takes effect. Such notification shall include a report fully articulating the rationale and circumstances which led the President to exercise the waiver authority.
 
 (Pub. L. 103–236, title VIII, §821, Apr. 30, 1994, 108 Stat. 508.)
 

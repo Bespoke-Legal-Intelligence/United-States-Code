@@ -92,7 +92,7 @@ Evaluation of project.—In evaluating a project under paragraph (1)(C), the Sec
 
 &emsp;&emsp;&emsp;(i) the proposed project plan provides for the availability of contingency amounts that the Secretary determines to be reasonable to cover unanticipated cost increases;
 
-&emsp;&emsp;&emsp;(ii) each proposed local source of capital and operating financing is stable, reliable,and available within the proposed project timetable; and
+&emsp;&emsp;&emsp;(ii) each proposed local source of capital and operating financing is stable, reliable, and available within the proposed project timetable; and
 
 &emsp;&emsp;&emsp;(iii) local resources are available to operate the overall proposed mass transportation system (including essential feeder bus and other services necessary to achieve the projected ridership levels) without requiring a reduction in existing mass transportation services to operate the proposed project.
 
@@ -152,7 +152,7 @@ Previously issued letter of intent or full funding grant agreement.—This subse
 
 Letters of Intent, Full Funding Grant Agreements, and Early Systems Work Agreements.—(1)(A) The Secretary of Transportation may issue a letter of intent to an applicant announcing an intention to obligate, for a project under this section, an amount from future available budget authority specified in law that is not more than the amount stipulated as the financial participation of the Secretary in the project. The amount shall be sufficient to complete at least an operable segment when a letter is issued for a fixed guideway project.
 
-(B) At least 60 days before issuing a letter under subparagraph (A) of this paragraph or entering into a full funding grant agreement, the Secretary of Transportation shall notify in writing the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of the proposed letter or agreement. The Secretary shall include with the notification a copy of the proposed letter or agreement as well as the evaluations and ratings for the project.
+(B) At least 60 days before issuing a letter under subparagraph (A) of this paragraph or entering into a full funding grant agreement, the Secretary of Transportation shall notify in writing the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate and the House and Senate Committees on Appropriations of the proposed letter or agreement. The Secretary shall include with the notification a copy of the proposed letter or agreement as well as the evaluations and ratings for the project.
 
 (C) The issuance of a letter is deemed not to be an obligation under sections 1108(c) and (d), 1501, and 1502(a) of title 31 or an administrative commitment.
 
@@ -178,7 +178,7 @@ Letters of Intent, Full Funding Grant Agreements, and Early Systems Work Agreeme
 
 (B) A work agreement under this paragraph obligates an amount of available budget authority specified in law and shall provide for reimbursement of preliminary costs of carrying out the project, including land acquisition, timely procurement of system elements for which specifications are decided, and other activities the Secretary of Transportation decides are appropriate to make efficient, long-term project management easier. A work agreement shall cover the period of time the Secretary considers appropriate. The period may extend beyond the period of current authorization. Interest and other financing costs of efficiently carrying out the work agreement within a reasonable time are a cost of carrying out the agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms. If an applicant does not carry out the project for reasons within the control of the applicant, the applicant shall repay all Government payments made under the work agreement plus reasonable interest and penalty charges the Secretary establishes in the agreement.
 
-(4) The total estimated amount of future obligations of the Government and contingent commitments to incur obligations covered by all outstanding letters of intent, full funding grant agreements, and early systems work agreements may be not more than the greater of the amount authorized under section 5338(b) of this title for new fixed guideway systems and extensions to existing fixed guideway systems and the amount appropriated under section 5338(h)(5) or an amount equivalent to the last 2 fiscal years of funding authorized under section 5338(b) for new fixed guideway systems and extensions to existing fixed guideway systems, less an amount the Secretary of Transportation reasonably estimates is necessary for grants under this section not covered by a letter. The total amount covered by new letters and contingent commitments included in full funding grant agreements and early systems work agreements may be not more than a limitation specified in law.
+(4) The total estimated amount of future obligations of the Government and contingent commitments to incur obligations covered by all outstanding letters of intent, full funding grant agreements, and early systems work agreements may be not more than the greater of the amount authorized under section 5338(b) of this title for new fixed guideway systems and extensions to existing fixed guideway systems and the amount appropriated under section 5338(h)(5) or anamount equivalent to the last 2 fiscal years of funding authorized under section 5338(b) for new fixed guideway systems and extensions to existing fixed guideway systems, less an amount the Secretary of Transportation reasonably estimates is necessary for grants under this section not covered by a letter. The total amount covered by new letters and contingent commitments included in full funding grant agreements and early systems work agreements may be not more than a limitation specified in law.
 
 (h)
 
@@ -316,7 +316,7 @@ Annual gao review.—The General Accounting Office shall—
 
 Project Defined.—In this section, the term “project” means, with respect to a new fixed guideway system or extension to an existing fixed guideway system, a minimum operable segment of the project.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 102–240, title III, §3049(a), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3009(a), (c)–(h)(1), (3)(D), (i)–(k), June 9, 1998, 112 Stat. 352–357; Pub. L. 105–206, title IX, §9009(g), (h)(3), July 22, 1998, 112 Stat. 855, 856.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 102–240, title III, §3049(a), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3009(a), (c)–(h)(1), (3)(D), (i)–(k), June 9, 1998, 112 Stat. 352–357; Pub. L. 105–206, title IX, §9009(g), (h)(3), July 22, 1998, 112 Stat. 855, 856; Pub. L. 106–69, title III, §347, Oct. 9, 1999, 113 Stat. 1024.)
 
 Historical and Revision Notes
 
@@ -548,9 +548,11 @@ Section 103 of title 23, referred to in subsec. (n)(1), was amended generally by
 
 #### Amendments
 
+1999—Subsec. (g)(1)(B). Pub. L. 106–69 inserted “and the House and Senate Committees on Appropriations” after “Committee on Banking, Housing, and Urban Affairs of the Senate”.
+
 1998—Pub. L. 105–178, §3009(a), substituted “Capital investment” for “Discretionary” in section catchline.
 
-Subsec. (a)(1)(E) to (H). Pub. L. 105–178, §3009(c), added subpars. (E) and (F), redesignated former subpars. (F) and (G) as (G) and (H), respectively, and struck out former subpar. (E) which read as follows: “transportation projects that enhance urban economic development or incorporate private investment, including commercial and residential development, because the projects—
+Subsec. (a)(1)(E) to (H). Pub. L. 105–178, §3009(c), added subpars. (E) and (F), redesignated former subpars. (F) and (G) as (G) and (H), respectively, and struck out former subpar. (E) which read as follows: “transportation projects that enhance urban economicdevelopment or incorporate private investment, including commercial and residential development, because the projects—
 
 &emsp;“(i) enhance the effectiveness of a mass transportation project and are related physically or functionally to that mass transportation project; or
 
@@ -624,7 +626,7 @@ Amendment by section 5(12) of Pub. L. 104–287 effective July 5, 1994, see sect
 
 #### Report to Congress on Use of Funds Under Pub. L. 105–178
 
-Pub. L. 105–200, title IV, §403(b), July 16, 1998, 112 Stat. 670, provided that: “Not later than 2 years after the date of the enactment of this Act \[July 16, 1998\], the Secretary of Transportation, in consultation with the Secretary of Health and Human Services, shall submit to the Committees on Ways and Means and on Transportation and Infrastructure of the House of Representatives and the Committees on Finance and on Environment and Public Works of the Senate a report that—
+Pub. L. 105–200, title IV, §403(b), July 16, 1998, 112 Stat. 670, provided that: “Not later than 2 years after the date of the enactment of this Act \[July 16, 1998\], the Secretary of Transportation, in consultation with theSecretary of Health and Human Services, shall submit to the Committees on Ways and Means and on Transportation and Infrastructure of the House of Representatives and the Committees on Finance and on Environment and Public Works of the Senate a report that—
 
 &emsp;“(1) describes the manner in which funds made available under section 3037 of the Transportation Equity Act for the 21st Century \[Pub. L. 105–178, set out as a note below\] have been used;
 

@@ -180,5 +180,5 @@ Section 663 of Pub. L. 102–190 directed Secretary, not later than 180 days aft
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1151, 1152, 1153, 1175 of this title; title 29 section 1662d–1; title 33 section 857a; title 38 section 3018B.
+This section is referred to in sections 1152, 1153, 1175 of this title; title 29 sections 1662d–1, 2918; title 33 section 857a; title 38 section 3018B.
 

@@ -22,7 +22,7 @@
 
 (2) Receipt by a career appointee of the rank of Distinguished Executive entitles the individual to a lump-sum payment of an amount equal to 35 percent of annual basic pay, which shall be in addition to the basic pay paid under section 5382 of this title or any award paid under section 5384 of this title.
 
-(Added Pub. L. 95–454, title IV, §406(a), Oct. 13, 1978, 92 Stat. 1170; amended Pub. L. 105–277, div. A, title I, §101(h) \[title VI, §631(a), (b)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523.)
+(Added Pub. L. 95–454, title IV, §406(a), Oct. 13, 1978, 92 Stat. 1170; amended Pub. L. 105–277, div. A, §101(h) \[title VI, §631(a), (b)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523.)
 
 #### Amendments
 
@@ -32,7 +32,7 @@ Subsec. (e)(2). Pub. L. 105–277, §101(h) \[title VI, §631(b)\], substituted 
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. A, title I, §101(h) \[title VI, §631(c)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1998, or the date of enactment of this Act \[Oct. 21, 1998\], whichever is later.”
+Pub. L. 105–277, div. A, §101(h) \[title VI, §631(c)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1998, or the date of enactment of this Act \[Oct. 21, 1998\], whichever is later.”
 
 #### Effective Date
 

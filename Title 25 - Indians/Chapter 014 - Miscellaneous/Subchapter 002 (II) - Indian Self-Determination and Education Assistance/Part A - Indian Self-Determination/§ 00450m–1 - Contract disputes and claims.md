@@ -36,7 +36,7 @@ A prior section 110 of Pub. L. 93–638 was renumbered section 111 by Pub. L. 10
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–413, §104(2), inserted before period at end “(including immediate injunctive relief to reverse a declination finding under section450f(a)(2) of this title or to compel the Secretary to award and fund an approved self-determination contract)”.
+1994—Subsec. (a). Pub. L. 103–413, §104(2), inserted before period at end “(including immediate injunctive relief to reverse a declination finding under section 450f(a)(2) of this title or to compel the Secretary to award and fund an approved self-determination contract)”.
 
 Subsec. (d). Pub. L. 103–413, §104(3), inserted before period at end “, except that all administrative appeals relating to such contracts shall be heard by the Interior Board of Contract Appeals established pursuant to section 8 of such Act (41 U.S.C. 607)”.
 

@@ -38,6 +38,8 @@ Sept. 21, 1950, ch. 975, title II, §§201(a), (d), 204, 205(b)(5), as added Nov
 
 36:391(a) (3d–last sentences).
 
+&nbsp;
+
 220521(c)
 
 36:391(d).
@@ -47,6 +49,8 @@ Sept. 21, 1950, ch. 975, title II, §§201(a), (d), 204, 205(b)(5), as added Nov
 220521(d)
 
 36:394.
+
+&nbsp;
 
 In subsection (b), the words “under the authority granted under this subchapter and in accordance with the procedures and requirements of this section” are omitted as unnecessary. The words “public hearing” are substituted for “hearing open to the public”, and the words “for such recognition” are omitted, to eliminate unnecessary words.
 

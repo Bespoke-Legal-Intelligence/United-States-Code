@@ -336,6 +336,7 @@
 | (g) | Officers and employees. |
 | (h) | Consultation. |
 | (i) | Oversight. |
+| (j) | Privatization. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -401,7 +402,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 940, 2204f, 2279, 2279a of this title; title 12 sections 2219d, 2279aa; title 15 section 636; title 16 sections 590h, 3811, 3821; title 21 section 889; title 38 section 3711; title 40 App. sections 204, 214; title 42 sections 8813, 9817.
+This chapter is referred to in sections 940, 2204f, 2279, 2279a of this title; title 12 sections 2219d, 2279aa; title 15 section 636; title 16 sections 590h, 3811, 3821; title 21 section 889; title 38 section 3711; title 40 App. section 214; title 42 sections 8813, 9817.
 
 
 ---

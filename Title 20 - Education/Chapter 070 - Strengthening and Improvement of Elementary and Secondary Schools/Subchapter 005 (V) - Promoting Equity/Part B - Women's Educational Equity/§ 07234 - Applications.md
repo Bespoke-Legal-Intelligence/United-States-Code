@@ -4,7 +4,7 @@ An application under this part shall—
 
 &emsp;(1) set forth policies and procedures that will ensure a comprehensive evaluation of the activities assisted under this part, including an evaluation of the practices, policies, and materials used by the applicant and an evaluation or estimate of the continued significance of the work of the project following completion of the award period;
 
-&emsp;(2) where appropriate, demonstrate how funds received under this part will be used to promote the attainment of one or more of the National Education Goals;
+&emsp;(2) where appropriate, demonstrate how funds received under this part will be used topromote the attainment of one or more of the National Education Goals;
 
 &emsp;(3) demonstrate how the applicant will address perceptions of gender roles based on cultural differences or stereotypes;
 

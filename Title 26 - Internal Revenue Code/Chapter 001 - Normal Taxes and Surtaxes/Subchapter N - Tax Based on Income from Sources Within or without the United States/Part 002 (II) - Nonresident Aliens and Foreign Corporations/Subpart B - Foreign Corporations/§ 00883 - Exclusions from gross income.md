@@ -26,7 +26,7 @@ The following items shall not be included in gross income of a foreign corporati
 
 #### (b) Earnings derived from communications satellite system
 
-The earnings derived from the ownership or operation of a communications satellite systemby a foreign entity designated by a foreign government to participate in such ownership or operation shall be exempt from taxation under this subtitle, if the United States, through its designated entity, participates in such system pursuant to the Communications Satellite Act of 1962 (47 U.S.C. 701 and following).
+The earnings derived from the ownership or operation of a communications satellite system by a foreign entity designated by a foreign government to participate in such ownership or operation shall be exempt from taxation under this subtitle, if the United States, through its designated entity, participates in such system pursuant to the Communications Satellite Act of 1962 (47 U.S.C. 701 and following).
 
 #### (c) Treatment of certain foreign corporations
 

@@ -8,6 +8,10 @@ The purpose of this subchapter is to provide a system of emergency preparedness 
 
 Provisions similar to those in this section were contained in section 2251 of Title 50, Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
 
+#### Multihazard Preparedness and Mitigation
+
+Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1086, provided in part: “That beginning in fiscal year 2000 and each fiscal year thereafter, and notwithstanding any other provision of law, the Director of FEMA is authorized to provide assistance from funds appropriated under this heading \[EMERGENCY MANAGEMENT PLANNING AND ASSISTANCE\], subject to terms and conditions as the Director of FEMA shall establish, to any State for multi-hazard preparedness and mitigation through consolidated emergency management performance grants”.
+
 #### Multihazard Research, Planning, and Mitigation; Functions, Etc., of Federal Emergency Management Agency
 
 Pub. L. 96–472, title III, §§301, 302, Oct. 19, 1980, 94 Stat. 2260, as amended by Pub. L. 97–80, title III, §301, Nov. 20, 1981, 95 Stat. 1083; Pub. L. 97–464, title II, §201, Jan. 12, 1983, 96 Stat. 2533, provided that:
@@ -94,7 +98,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 6. Abolitions
 
-The offices of Federal Civil Defense Administrator and Deputy Administrator provided for in section 101 of the Federal Civil Defense Act (50 U.S.C. App. 2271) and the offices of the Director of the Office of Defense Mobilization and Deputy Director of the Office of Defense Mobilization provided for in section 1 of ReorganizationPlan Numbered 3 of 1953 (67 Stat. 634) are hereby abolished. The Director of the Office of Emergency Preparedness shall make such provisions as may be necessary in order to wind up any outstanding affairs of the offices abolished by this section which are not otherwise provided for in this reorganization plan. \[As amended Pub. L. 90–608, ch. IV, §402, Oct. 21, 1968, 82 Stat. 1194.\]
+The offices of Federal Civil Defense Administrator and Deputy Administrator provided for in section 101 of the Federal Civil Defense Act (50 U.S.C. App. 2271) and the offices of the Director of the Office of Defense Mobilization and Deputy Director of the Office of Defense Mobilization provided for in section 1 of Reorganization Plan Numbered 3 of 1953 (67 Stat. 634) are hereby abolished. The Director of the Office of Emergency Preparedness shall make such provisions as may be necessary in order to wind up any outstanding affairs of the offices abolished by this section which are not otherwise provided for in this reorganization plan. \[As amended Pub. L. 90–608, ch. IV, §402, Oct. 21, 1968, 82 Stat. 1194.\]
 
 #### Sec. 7. Records, Property, Personnel, and Funds
 
@@ -198,9 +202,9 @@ The third part of this program is a sharp reduction in the overall size of the E
 
 When the National Science Foundation was established by an act of the Congress in 1950, its statutory responsibilities included evaluation of the Government's scientific research programs and development of basic science policy. In the late 1950's, however, with the effectiveness of the U.S. science effort under serious scrutiny as a result of sputnik, the post of Science Advisor to the President was established. The White House became increasingly involved in the evaluation and coordination of research and development programs and in science policy matters, and that involvement was institutionalized in 1962 when a reorganization plan established the Office of Science and Technology within the Executive Office of the President, through transfer of authorities formerly vested in the National Science Foundation.
 
-With advice and assistance from OST during the past decade; the scientific and technological capability of the Government has been markedly strengthened. This administration is firmly committed to a sustained, broadbased national effort in science and technology, as I made plain last year in the first special message on the subject ever sent by a President to the Congress. The research and development capability of the various executive departments and agencies, civilian as well as defense, has been upgraded. The National Science Foundation has broadened from its earlier concentration on basic research support to take on a significant role in applied research as well. It has matured in its ability to play a coordinating and evaluative role within the Government and between the public and private sectors.
+With advice and assistance from OST during the past decade; the scientific and technological capability of the Government has been markedly strengthened. Thisadministration is firmly committed to a sustained, broadbased national effort in science and technology, as I made plain last year in the first special message on the subject ever sent by a President to the Congress. The research and development capability of the various executive departments and agencies, civilian as well as defense, has been upgraded. The National Science Foundation has broadened from its earlier concentration on basic research support to take on a significant role in applied research as well. It has matured in its ability to play a coordinating and evaluative role within the Government and between the public and private sectors.
 
-I have therefore concluded that it is timely and appropriate to transfer to the Director of the National Science Foundation all functions presently vested inthe Office of Science and Technology, and to abolish that office. Reorganization Plan No. 1 would effect these changes.
+I have therefore concluded that it is timely and appropriate to transfer to the Director of the National Science Foundation all functions presently vested in the Office of Science and Technology, and to abolish that office. Reorganization Plan No. 1 would effect these changes.
 
 The multi-disciplinary staff resources of the Foundation will provide analytic capabilities for performance of the transferred functions. In addition, the Director of the Foundation will be able to draw on expertise from all of the Federal agencies, as well as from outside the Government, for assistance in carrying out his new responsibilities.
 
@@ -394,7 +398,7 @@ Ex. Ord. No. 11746, Nov. 7, 1973, 38 F.R. 30991, which related to the assignment
 
 #### Ex. Ord. No. 12148. Federal Emergency Management
 
-Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, as amended by Ex. Ord. No. 12155, Sept. 10, 1979, 44 F.R.53071; Ex. Ord. No. 12156, Sept. 10, 1979, 44 F.R. 53073; Ex. Ord. No. 12381, Sept. 8, 1982, 47 F.R. 39795; Ex. Ord. No. 12673, Mar. 23, 1989, 54 F.R. 12571; Ex. Ord. No. 12919, §904(a)(8), June 3, 1994, 59 F.R. 29533, provided:
+Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, as amended by Ex. Ord. No. 12155, Sept. 10, 1979, 44 F.R. 53071; Ex. Ord. No. 12156, Sept. 10, 1979, 44 F.R. 53073; Ex. Ord. No. 12381, Sept. 8, 1982, 47 F.R. 39795; Ex. Ord. No. 12673, Mar. 23, 1989, 54 F.R. 12571; Ex. Ord. No. 12919, §904(a)(8), June 3, 1994, 59 F.R. 29533, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2251 et seq.), the Disaster Relief Act of 1970, as amended (42 U.S.C. Chapter 58 note), the Disaster Relief Act of 1974 (88 Stat. 143; 42 U.S.C. 5121 et seq.), the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7701 et seq.), Section 4 of Public Law 92–385 (86 Stat. 556), Section 43 of the Act of August 10, 1956, as amended (50 U.S.C. App. 2285), the National Security Act of 1947, as amended \[see Short Title note set out under 50 U.S.C. 401\], the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 et seq.), Reorganization Plan No. 1 of 1958 \[set out above\], Reorganization Plan No. 1 of 1973 \[set out above\], the Strategic and Critical Materials Stock Piling Act, as amended (50 U.S.C. 98 et seq.), Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], and Section 301 of Title 3 of the United States Code, and in order to transfer emergency functions to the Federal Emergency Management Agency, it is hereby ordered as follows:
 
@@ -580,7 +584,7 @@ This Order is effective July 15, 1979.
 
 Ex. Ord. No. 12472, Apr. 3, 1984, 49 F.R. 13471, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including the Communications Act of 1934, as amended (47 U.S.C. 151), the National Security Act of 1947, as amended, the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061), the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2251), the Disaster Relief Act of 1974 (42 U.S.C. 5121), Section 5 of Reorganization Plan No. 1 of 1977 (3 C.F.R. 197, 1978 Comp.) \[5 U.S.C. App.\], and Section 203 of Reorganization Plan No. 3 of 1978 (3 C.F.R. 389, 1978 Comp.) \[5 U.S.C. App.\], and in order to provide for the consolidation of assignment and responsibility for improved execution of national security and emergency preparedness telecommunications functions, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including the Communications Act of 1934, as amended (47 U.S.C. 151), the National Security Act of 1947, as amended, the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061), the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2251), the Disaster Relief Act of 1974 (42 U.S.C. 5121), Section 5 of Reorganization Plan No. 1 of 1977 (3 C.F.R. 197, 1978 Comp.) \[5 U.S.C. App.\], and Section 203 of Reorganization Plan No. 3 of 1978 (3 C.F.R. 389, 1978 Comp.) \[5 U.S.C. App.\],and in order to provide for the consolidation of assignment and responsibility for improved execution of national security and emergency preparedness telecommunications functions, it is hereby ordered as follows:
 
 Section 1. <i>The National Communications System</i>. (a) There is hereby established the National Communications System (NCS). The NCS shall consist of the telecommunications assets of the entities represented on the NCS Committee of Principals and an administrative structure consisting of the Executive Agent, the NCS Committee of Principals and the Manager. The NCS Committee of Principals shall consist of representatives from those Federal departments, agencies or entities, designated by the President, which lease or own telecommunications facilities or services of significance to national security or emergency preparedness, and, to the extent permitted by law, other Executive entities which bear policy, regulatory or enforcement responsibilities of importance to national security or emergency preparedness telecommunications capabilities.
 
@@ -662,7 +666,7 @@ e. Alternative mechanisms for funding, through the budget review process, nation
 
 (6) Pursuant to the Federal Standardization Program of the General Services Administration, and in consultation with other appropriate entities of the Federal government including the NCS Committee of Principals, manage the Federal Telecommunications Standards Program, ensuring wherever feasible that existing or evolving industry, national, and international standards are used as the basis for Federal telecommunications standards; and
 
-(7) Provide such reports and perform such other duties as are from time to time assigned by the President or his authorized designee, the Executive Agent, or theNCS Committee of Principals. Any such assignments of responsibility to, or reports made by, the Manager shall be transmitted through the Executive Agent.
+(7) Provide such reports and perform such other duties as are from time to time assigned by the President or his authorized designee, the Executive Agent, or the NCS Committee of Principals. Any such assignments of responsibility to, or reports made by, the Manager shall be transmitted through the Executive Agent.
 
 Sec. 2. <i>Executive Office Responsibilities</i>. (a) <i>Wartime Emergency Functions</i>. (1) The National Security Council shall provide policy direction for the exercise of the war power functions of the President under Section 606 of the Communications Act of 1934, as amended (47 U.S.C. 606), should the President issue implementing instructions in accordance with the National Emergencies Act (50 U.S.C. 1601).
 
@@ -700,7 +704,7 @@ c. Providing policy oversight and guidance for the execution of the responsibili
 
 (e) <i>Budgetary Guidelines</i>. The Director of the Office of Management and Budget, in consultation with the National Security Council and the NCS, will prescribe general guidelines and procedures for reviewing the financing of the NCS within the budgetary process and for preparation of budget estimates by participating agencies. These guidelines and procedures may provide for mechanisms for funding, through the budget review process, national security and emergency preparedness telecommunications initiatives which benefit multiple Federal departments, agencies, or entities.
 
-Sec. 3. <i>Assignment of Responsibilities to Other Departments and Agencies</i>. In order to support and enhance the capability to satisfy the national security and emergency preparedness telecommunications needs of the Federal government, State and local governments, private industry and volunteer organizations, under all circumstances including those of crisis or emergency, the Federal departments and agencies shall perform the following functions:
+Sec. 3. <i>Assignment of Responsibilities to Other Departments and Agencies</i>. In order to support and enhance the capability to satisfy the national security and emergency preparedness telecommunications needs of the Federal government, State and local governments, private industry and volunteer organizations, under all circumstances including those of crisis or emergency,the Federal departments and agencies shall perform the following functions:
 
 (a) <i>Department of Commerce</i>. The Secretary of Commerce shall, for all conditions of crisis or emergency: (1) Develop plans and procedures concerning radio spectrum assignments, priorities and allocations for use by Federal departments, agencies and entities; and
 
@@ -710,7 +714,7 @@ Sec. 3. <i>Assignment of Responsibilities to Other Departments and Agencies</i>.
 
 (1) Plan for and provide, operate and maintain telecommunications services and facilities, as part of its National Emergency Management System, adequate to support its assigned emergency management responsibilities;
 
-(2) Advise and assist State and local governments and volunteer organizations, upon request and to the extentconsistent with law, in developing plans and procedures for identifying and satisfying their national security or emergency preparedness telecommunications requirements;
+(2) Advise and assist State and local governments and volunteer organizations, upon request and to the extent consistent with law, in developing plans and procedures for identifying and satisfying their national security or emergency preparedness telecommunications requirements;
 
 (3) Ensure, to the maximum extent practicable, that national security and emergency preparedness telecommunications planning by State and local governments and volunteer organizations is mutually supportive and consistent with the planning of the Federal government; and
 
@@ -768,7 +772,7 @@ Sec. 4. <i>General Provisions</i>. (a) All Executive departments and agencies ma
 
 (3) Section 2–411 of Executive Order No. 12046, as amended \[47 U.S.C. 305\], is further amended by deleting the period and inserting “, except as otherwise provided by Executive Order No.” and inserting the number assigned to this Order.
 
-(c) Nothing in this Order shall be deemed to affect the authorities or responsibilities of the Director of the Office of Management and Budget, or any Office or official thereof; or reassign any function assigned any agency under the Federal Property and Administrative Services Act of 1949, as amended; or under any otherlaw; or any function vested by law in the Federal Communications Commission.
+(c) Nothing in this Order shall be deemed to affect the authorities or responsibilities of the Director of the Office of Management and Budget, or any Office or official thereof; or reassign any function assigned any agency under the Federal Property and Administrative Services Act of 1949, as amended; or under any other law; or any function vested by law in the Federal Communications Commission.
 
 Sec. 5. This Order shall be effective upon publication in the Federal Register.
 
@@ -1048,7 +1052,7 @@ Sec. 602. <i>Support Responsibilities</i>. The Secretary of Education shall:
 
 (1) Develop plans to support the Secretary of Labor in providing education and training to overcome shortages of critical skills;
 
-(2) Support the Secretary of Health and Human Services in the development of human services educational and training materials, including self-help programmaterials for use by human service organizations and professional schools.
+(2) Support the Secretary of Health and Human Services in the development of human services educational and training materials, including self-help program materials for use by human service organizations and professional schools.
 
 #### PART 7—Department of Energy
 
@@ -1114,7 +1118,7 @@ Sec. 801. <i>Lead Responsibilities</i>. In addition to the applicable responsibi
 
 (10) Develop plans and procedures, in coordination with the heads of Federal departments and agencies, for assistance to United States citizens or others evacuated from overseas areas.
 
-Sec. 802. <i>Support Responsibility</i>. The Secretary of Health and Human Services shall support the Secretary of Agriculture in the development of plans related to national security emergency agricultural health services.
+Sec. 802. <i>Support Responsibility</i>. The Secretary of Health and Human Services shall support the Secretaryof Agriculture in the development of plans related to national security emergency agricultural health services.
 
 #### PART 9—Department of Housing and Urban Development
 
@@ -1206,7 +1210,7 @@ Sec. 1301. <i>Lead Responsibilities</i>. In addition to the applicable responsib
 
 (1) Provide overall foreign policy coordination in the formulation and execution of continuity of government and other national security emergency preparedness activities that affect foreign relations;
 
-(2) Prepare to carry out Department of State responsibilities in the conduct of the foreign relations of the United States during national security emergencies, under the direction of the President and in consultation with the heads of other appropriate Federal departments and agencies, including, but not limited to:
+(2) Prepare to carry out Department of State responsibilities in the conduct of the foreign relations of theUnited States during national security emergencies, under the direction of the President and in consultation with the heads of other appropriate Federal departments and agencies, including, but not limited to:
 
 (a) Formulation and implementation of foreign policy and negotiation regarding contingency and post-emergency plans, intergovernmental agreements, and arrangements with United States’ allies;
 
@@ -1294,7 +1298,7 @@ Sec. 1501. <i>Lead Responsibilities</i>. In addition to the applicable responsib
 
 (6) Develop plans to protect the President, the Vice President, other officers in the order of presidential succession, and other persons designated by the President;
 
-(7) Develop plans for restoration of the economy following an attack; for the development of emergencymonetary, credit, and Federal benefit payment programs of those Federal departments and agencies that have responsibilities dependent on the policies or capabilities of the Department of the Treasury; and for the implementation of national policy on sharing war losses;
+(7) Develop plans for restoration of the economy following an attack; for the development of emergency monetary, credit, and Federal benefit payment programs of those Federal departments and agencies that have responsibilities dependent on the policies or capabilities of the Department of the Treasury; and for the implementation of national policy on sharing war losses;
 
 (8) Develop plans for initiating tax changes, waiving regulations, and, in conjunction with the Secretary of Commerce or other guaranteeing agency, granting or guaranteeing loans for the expansion of industrial capacity, the development of technological processes, or the production or acquisition of essential materials;
 
@@ -1436,7 +1440,7 @@ Sec. 2202. <i>Support Responsibilities</i>. The Director of the Office of Person
 
 (1) Assist the heads of other Federal departments and agencies with personnel management and staffing in national security emergencies, including facilitating transfers between agencies of employees with critical skills;
 
-(2) In consultation with the Secretary of Defense and the Director of Selective Service, develop plans and procedures for a system to control any conscription of Federal civilian employees during national security emergencies.
+(2) In consultation with the Secretary of Defense and the Director of Selective Service, develop plans and procedures for a system to control any conscription ofFederal civilian employees during national security emergencies.
 
 #### PART 23—Selective Service System
 
@@ -1448,7 +1452,7 @@ Sec. 2301. <i>Lead Responsibilities</i>. In addition to the applicable responsib
 
 #### PART 24—Tennessee Valley Authority
 
-Sec. 2401. <i>Lead Responsibility</i>. In addition to the applicable responsibilities covered in Parts 1 and 2, theBoard of Directors of the Tennessee Valley Authority shall develop plans and maintain river control operations for the prevention or control of floods affecting the Tennessee River System during national security emergencies.
+Sec. 2401. <i>Lead Responsibility</i>. In addition to the applicable responsibilities covered in Parts 1 and 2, the Board of Directors of the Tennessee Valley Authority shall develop plans and maintain river control operations for the prevention or control of floods affecting the Tennessee River System during national security emergencies.
 
 Sec. 2402. <i>Support Responsibilities</i>. The Board of Directors of the Tennessee Valley Authority shall:
 
@@ -1516,7 +1520,7 @@ Sec. 2901. Executive Order Nos. 10421 and 11490, as amended, are hereby revoked.
 
 Ex. Ord. No. 12657, Nov. 18, 1988, 53 F.R. 47513, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2251 <i>et seq</i>.), the Disaster Relief Act of 1974, as amended (42 U.S.C. 5121 <i>et seq</i>.), the Atomic Energy Act of 1954, as amended (42 U.S.C. 2011 <i>et seq</i>.), Reorganization Plan No. 1 of 1958 \[set out above\], Reorganization Plan No. 1 of 1973 \[set out above\], and Section 301 of Title 3 of the United States Code, and in order to ensure that plans and procedures are in place to respond to radiological emergencies at commercial nuclear power plants in operation or under construction, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2251 <i>et seq</i>.), the Disaster Relief Act of 1974, as amended (42 U.S.C. 5121 <i>et seq</i>.), the Atomic Energy Act of 1954, as amended (42 U.S.C. 2011 <i>et seq</i>.), Reorganization Plan No. 1 of 1958 \[set out above\], Reorganization Plan No. 1 of 1973 \[set out above\], and Section 301 of Title 3 of the United States Code, and in order to ensure that plans and procedures are in place to respond to radiological emergencies atcommercial nuclear power plants in operation or under construction, it is hereby ordered as follows:
 
 Section 1. <i>Scope</i>. (a) This Order applies whenever State or local governments, either individually or together, decline or fail to prepare commercial nuclear power plant radiological emergency preparedness plans that are sufficient to satisfy Nuclear Regulatory Commission (“NRC”) licensing requirements or to participate adequately in the preparation, demonstration, testing, exercise, or use of such plans.
 
@@ -1568,7 +1572,7 @@ Sec. 5. <i>Response to a Radiological Emergency</i>. (a) In the event of an actu
 
 (d) In any instance in which Federal personnel may be called upon to fill a command-and-control function during a radiological emergency, in addition to any other powers it may have, FEMA or its designee is authorized to accept volunteer assistance from utility employees and other nongovernmental personnel for any purpose necessary to implement the emergency response plan and facilitate off-site emergency response.
 
-Sec. 6. <i>Implementation of Order</i>. (a) FEMA shall issue interim and final directives and procedures implementing this Order as expeditiously as is feasible and in any event shall issue interim directives and procedures not more than 90 days following the effective date of this Order and shall issue final directives and procedures not more than 180 days following the effective date of this Order.
+Sec. 6. <i>Implementation of Order</i>. (a) FEMA shall issue interim and final directives and procedures implementing this Order as expeditiously as is feasible and in any event shall issue interim directives and procedures not more than 90 days following the effective date of thisOrder and shall issue final directives and procedures not more than 180 days following the effective date of this Order.
 
 (b) Immediately upon the effective date of this Order, FEMA shall review, and initiate necessary revisions of, all FEMA regulations, directives, and guidance to conform them to the terms and policies of this Order.
 
@@ -1608,7 +1612,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13010. Critical Infrastructure Protection
 
-Ex. Ord. No. 13010, July 15, 1996, 61 F.R. 37347, as amended by Ex. Ord. No. 13025, Nov. 13, 1996, 61 F.R. 58623; Ex. Ord. No. 13041, Apr. 3, 1997, 62 F.R. 17039; Ex. Ord. No. 13064, Oct. 11, 1997, 62 F.R. 53711; Ex. Ord. No. 13077, Mar. 10, 1998, 63 F.R. 12381, provided:
+Ex. Ord. No. 13010, July 15, 1996, 61 F.R. 37347, as amended by Ex. Ord. No. 13025, Nov. 13, 1996, 61 F.R. 58623; Ex. Ord. No. 13041, Apr. 3, 1997, 62 F.R. 17039; Ex. Ord. No. 13064, Oct. 11, 1997, 62 F.R. 53711; Ex. Ord. No. 13077, Mar. 10, 1998, 63 F.R. 12381; Ex. Ord. No. 13138, §3(c), Sept. 30, 1999, 64 F.R. 53880, provided:
 
 Certain national infrastructures are so vital that their incapacity or destruction would have a debilitating impact on the defense or economic security of the United States. These critical infrastructures include telecommunications, electrical power systems, gas and oil storage and transportation, banking and finance, transportation, water supply systems, emergency services (including medical, police, fire, and rescue), and continuity of government. Threats to these critical infrastructures fall into two categories: physical threats to tangible property (“physical threats”), and threats of electronic, radio-frequency, or computer-based attacks on the information or communications components that control critical infrastructures (“cyber threats”). Because many of these critical infrastructures are owned and operated by the private sector, it is essential that the government and private sector work together to develop a strategy for protecting them and assuring their continued operation.
 
@@ -1686,11 +1690,7 @@ Sec. 4. <i>Mission</i>. The Commission shall: (a) within 30 days of this order, 
 
 (g) produce reports and recommendations to the Steering Committee as they become available; it shall not limit itself to producing one final report.
 
-Sec. 5. <i>Advisory Committee to the President's Commission on Critical Infrastructure Protection</i>. (a) The Commission shall receive advice from an advisory committee (“Advisory Committee”) composed of no more than 20 individuals appointed by the President from the private and public sectors who are knowledgeable about critical infrastructures. The Advisory Committee shall advise the Commission on the subjects of the Commission's mission in whatever manner the Advisory Committee, the Commission Chair, and the Steering Committee deem appropriate.
-
-(b) A Chair or Co-Chairs shall be designated by the President from among the members of the Advisory Committee.
-
-(c) The Advisory Committee shall be established in compliance with the Federal Advisory Committee Act, as amended (5 U.S.C. App.). The Department of Defense shall perform the functions of the President under the Federal Advisory Committee Act for the Advisory Committee, except that of reporting to the Congress, in accordance with the guidelines and procedures established by the Administrator of General Services.
+Sec. 5. \[Revoked by Ex. Ord. No. 13138, §3(c), Sept. 30, 1999, 64 F.R. 53880.\]
 
 Sec. 6. <i>Administration</i>. (a) All executive departments and agencies shall cooperate with the Commission and provide such assistance, information, and advice to the Commission as it may request, to the extent permitted by law.
 
@@ -1720,7 +1720,7 @@ Sec. 8. <i>Interim Coordinating Mission</i>. (a) While the Commission is conduct
 
 (e) The IPTF's function is to identify and coordinate existing expertise, inside and outside of the Federal Government, to:
 
-(i) provide, or facilitate and coordinate the provision of, expert guidance to critical infrastructures to detect,prevent, halt, or confine an attack and to recover and restore service;
+(i) provide, or facilitate and coordinate the provision of, expert guidance to critical infrastructures to detect, prevent, halt, or confine an attack and to recover and restore service;
 
 (ii) issue threat and warning notices in the event advance information is obtained about a threat;
 
@@ -1739,6 +1739,56 @@ Sec. 8. <i>Interim Coordinating Mission</i>. (a) While the Commission is conduct
 Sec. 9. <i>General</i>. (a) This order is not intended to change any existing statutes or Executive orders.
 
 (b) This order is not intended to create any right, benefit, trust, or responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[Ex. Ord. No. 13138, §3(c), Sept. 30, 1999, 64 F.R. 53880, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees, revoked “Section 5 and that part of section 6(f) of Executive Order 13010, as amended by section 3 of Executive Order 13025, Executive Order 13041, sections 1, 2, and that part of section 3 of Executive Order 13064, and Executive Order 13077, establishing the Advisory Committee to the President's Commission on Critical Infrastructure Protection”.\]
+
+#### Ex. Ord. No. 13130. National Infrastructure Assurance Council
+
+Ex. Ord. No. 13130, July 14, 1999, 64 F.R. 38535, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to support a coordinated effort by both government and private sector entities to address threats to our Nation's critical infrastructure, it is hereby ordered as follows:
+
+Section 1. <i>Establishment</i>. (a) There is established the National Infrastructure Assurance Council (NIAC). The NIAC shall be composed of not more than 30 members appointed by the President. The members of the NIAC shall be selected from the private sector, including private sector entities representing the critical infrastructures identified in Executive Order 13010 \[set out above\], and from State and local government. The members of the NIAC shall have expertise relevant to the functions of the NIAC and shall not be full-time officials or employees of the executive branch of the Federal Government.
+
+(b) The President shall designate a Chairperson and Vice-Chairperson from among the members of the NIAC.
+
+(c) The National Coordinator for Security, Infrastructure Protection and Counter-Terrorism at the National Security Council (National Coordinator) will serve as the Executive Director of the NIAC.
+
+(d) The Senior Director for Critical Infrastructure Protection at the National Security Council will serve as the NIAC's liaison to other agencies.
+
+(e) Individuals appointed by the President will serve for a period of 2 years. Service shall be limited to no more than 3 consecutive terms.
+
+Section 2. <i>Functions</i>. (a) The NIAC will meet periodically to:
+
+(1) enhance the partnership of the public and private sectors in protecting our critical infrastructure and provide reports on this issue to the President as appropriate;
+
+(2) propose and develop ways to encourage private industry to perform periodic risk assessments of critical processes, including information and telecommunications systems; and
+
+(3) monitor the development of Private Sector Information Sharing and Analysis Centers (PSISACs) and provide recommendations to the National Coordinator and the National Economic Council on how these organizations can best foster improved cooperation among the PSISACs, the National Infrastructure Protection Center (NIPC), and other Federal Government entities.
+
+(b) The NIAC will report to the President through the Assistant to the President for National Security Affairs, who shall assure appropriate coordination with the Assistant to the President for Economic Policy.
+
+(c) The NIAC will advise the lead agencies with critical infrastructure responsibilities, sector coordinators, the NIPC, the PSISACs and the National Coordinator on the subjects of the NIAC's function in whatever manner the Chair of the NIAC, the National Coordinator, and the head of the affected entity deem appropriate.
+
+(d) Senior Federal Government officials will participate in the meetings of the NIAC as appropriate.
+
+(e) The Department of Commerce shall perform the functions of the President under the Federal Advisory Committee Act for the NIAC, except that of reporting to the Congress, in accordance with the guidelines and procedures established by the Administrator of General Services.
+
+Section 3. <i>Administration</i>. To the extent permitted by law:
+
+(a) The NIAC may hold open and closed hearings, conduct inquiries, and establish subcommittees as necessary.
+
+(b) All executive departments and agencies shall cooperate with the NIAC and provide such assistance, information, and advice to the NIAC as it may request, as appropriate.
+
+(c) Members of the NIAC shall serve without compensation for their work on the NIAC. While engaged in the work of the Council, members will be allowed travel expenses, including per diem in lieu of subsistence as authorized by law for persons serving intermittently in the Government service.
+
+(d) To the extent permitted by law, and subject to the availability of appropriations, the Department of Commerce, through the Critical Infrastructure Assurance Office, shall provide the NIAC with administrative services, staff, and other support services, and such funds as may be necessary for the performance of its functions.
+
+(e) The Council shall terminate 2 years from the date of this order, unless extended by the President prior to that date.
+
+Section 4. <i>Judicial Review</i>. This order is not intended to create any right, benefit, trust, or responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

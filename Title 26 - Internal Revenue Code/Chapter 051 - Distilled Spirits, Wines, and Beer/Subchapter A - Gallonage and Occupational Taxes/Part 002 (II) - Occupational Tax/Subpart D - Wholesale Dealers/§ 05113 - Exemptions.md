@@ -26,7 +26,7 @@ No liquor store engaged in the business of selling to persons other than dealers
 
 #### (1) Wholesale dealers in liquors
 
-&emsp;No wholesale dealer in liquors who has paid the special tax as such dealer shall again be required to pay special tax as such dealer on account of sales of wines or beer to wholesale or retail dealers in liquors, or to limited retail dealers, or of beer to wholesale or retail dealers in beer, consummated at the purchaser's place of business.
+&emsp;No wholesale dealer in liquors who has paid the special tax as such dealer shall again berequired to pay special tax as such dealer on account of sales of wines or beer to wholesale or retail dealers in liquors, or to limited retail dealers, or of beer to wholesale or retail dealers in beer, consummated at the purchaser's place of business.
 
 #### (2) Wholesale dealers in beer
 

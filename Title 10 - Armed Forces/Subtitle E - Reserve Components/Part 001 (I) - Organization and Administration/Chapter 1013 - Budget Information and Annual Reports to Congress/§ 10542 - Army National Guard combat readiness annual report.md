@@ -60,7 +60,7 @@ Matters To Be Included in Report.—Each presentation under subsection (a) shall
 
 &emsp;&emsp;(B) based on the information shown in the tables, the Secretary's overall assessment of the deployability of units of the Army National Guard, including a discussion of personnel deficiencies and equipment shortfalls in accordance with such section 1121.
 
-&emsp;(19) Summary tables, shown for each State, of the results of inspections of units of the Army National Guard by inspectors general or other commissioned officers of the RegularArmy under the provisions of section 105 of title 32, together with explanations of the information shown in the tables, and including display of—
+&emsp;(19) Summary tables, shown for each State, of the results of inspections of units of the Army National Guard by inspectors general or other commissioned officers of the Regular Army under the provisions of section 105 of title 32, together with explanations of the information shown in the tables, and including display of—
 
 &emsp;&emsp;(A) the number of such inspections;
 
@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 104–106 struck out subsec. (d) which read as follows: “
 
 Definition.—In this section, the term ‘State’ includes the District of Columbia, Puerto Rico, Guam, and the Virgin Islands.”
 
-1994—Pub. L. 103–337 renumbered section 3082 of this title as this section, struck out “reform” after “readiness” in section catchline, and struck out heading and text of subsec. (c). Text read as follows: “The requirement to include in a presentation required by subsection (a) information under any paragraph of subsection (b) shall take effect with respect to the year following the year in which the provision of ANGCRRA to which that paragraph pertains has taken effect. Before then, in the case of any such paragraph, the Secretary shall include any information that may be available concerning the topic covered by that paragraph.”
+1994—Pub. L. 103–337 renumbered section 3082 of this title as this section, struck out “reform” after “readiness” in section catchline, and struck out heading and text of subsec. (c). Text read as follows: “The requirement to include in a presentation required by subsection (a) information under any paragraph of subsection (b) shall take effect with respect to the yearfollowing the year in which the provision of ANGCRRA to which that paragraph pertains has taken effect. Before then, in the case of any such paragraph, the Secretary shall include any information that may be available concerning the topic covered by that paragraph.”
 
 #### Effective Date of 1996 Amendment
 

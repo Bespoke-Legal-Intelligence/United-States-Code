@@ -36,7 +36,7 @@ When a comparable program produced by United States public or commercial broadca
 
 (2) The Broadcasting Board of Governors shall prepare and submit to the Congress quarterly reports which contain a detailed explanation of expenditures for the United States International Television Service during the fiscal years 1990 and 1991. Such reports shall contain specific justification and supporting information pertaining to all programs, particularly those described in subsection (c)(4) of this section, that were produced in-house by the United States International Television Service. Each such report shall include a statement by the Broadcasting Board of Governors that, according to the best information available to the Broadcasting Board of Governors, no comparable United States commercially-produced or public television program is available at a cost which is equal to or less than the cost of production by the United States International Television Service.
 
-(3) Of the funds authorized to be appropriated to the Broadcasting Board of Governors, $1,500,000 for the fiscal year 1990 and $1,500,000 for the fiscal year 1991 shall be available only for the purchase or use of programs produced with grants from the Corporation for Public Broadcasting or produced by United States public broadcasters.
+(3) Of the funds authorized to be appropriated to the Broadcasting Board of Governors, $1,500,000 for the fiscal year 1990 and $1,500,000 forthe fiscal year 1991 shall be available only for the purchase or use of programs produced with grants from the Corporation for Public Broadcasting or produced by United States public broadcasters.
 
 (Jan. 27, 1948, ch. 36, title V, §505, as added Pub. L. 101–246, title II, §205(a), Feb. 16, 1990, 104 Stat. 50; amended Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(a)(1), Oct. 21, 1998, 112 Stat. 2681–786.)
 
@@ -62,7 +62,7 @@ Subsec. (e)(3). Pub. L. 105–277, §1335(a)(1)(B), substituted “Broadcasting 
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
 #### Television Service of USIA
 

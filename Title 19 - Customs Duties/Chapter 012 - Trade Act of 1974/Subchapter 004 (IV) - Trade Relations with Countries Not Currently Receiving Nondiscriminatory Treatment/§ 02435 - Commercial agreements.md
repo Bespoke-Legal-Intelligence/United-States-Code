@@ -20,7 +20,7 @@ Any such bilateral commercial agreement shall—
 
 &emsp;(4) if the other party to the bilateral agreement is not a party to the Paris Convention for the Protection of Industrial Property, provide rights for United States nationals with respect to patents and trademarks in such country not less than the rights specified in such convention;
 
-&emsp;(5) if the other party to the bilateral agreement is not a party to the Universal Copyright Convention, provide rights for United Statesnationals with respect to copyrights in such country not less than the rights specified in such convention;
+&emsp;(5) if the other party to the bilateral agreement is not a party to the Universal Copyright Convention, provide rights for United States nationals with respect to copyrights in such country not less than the rights specified in such convention;
 
 &emsp;(6) in the case of an agreement entered into or renewed after January 3, 1975, provide arrangements for the protection of industrial rights and processes;
 

@@ -2,7 +2,7 @@
 
 #### (a) Health care of the aged and disabled
 
-The Secretary shall carry on studies and develop recommendations to be submitted from time to time to the Congress relating to health care of the aged and the disabled, including studies and recommendations concerning (1) theadequacy of existing personnel and facilities for health care for purposes of the programs under parts A and B of this subchapter; (2) methods for encouraging the further development of efficient and economical forms of health care which are a constructive alternative to inpatient hospital care; and (3) the effects of the deductibles and coinsurance provisions upon beneficiaries, persons who provide health services, and the financing of the program.
+The Secretary shall carry on studies and develop recommendations to be submitted from time to time to the Congress relating to health care of the aged and the disabled, including studies and recommendations concerning (1) the adequacy of existing personnel and facilities for health care for purposes of the programs under parts A and B of this subchapter; (2) methods for encouraging the further development of efficient and economical forms of health care which are a constructive alternative to inpatient hospital care; and (3) the effects of the deductibles and coinsurance provisions upon beneficiaries, persons who provide health services, and the financing of the program.
 
 #### (b) Operation and administration of insurance programs
 
@@ -56,13 +56,51 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 Amendment by section 226(d) of Pub. L. 92–603 effective with respect to services provided on or after July 1, 1973, see section 226(f) of Pub. L. 92–603, set out as an Effective Date note under section 1395mm of this title.
 
+#### Study and Report Regarding Utilization of Physicians’ Services by Medicare Beneficiaries
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–349, provided that:
+
+“(1)
+
+Study by secretary.—The Secretary of Health and Human Services, acting through the Administrator of the Agency for Health Care Policy and Research, shall conduct a study of the issues specified in paragraph (2).
+
+“(2)
+
+Issues to be studied.—The issues specified in this paragraph are the following:
+
+&emsp;“(A) The various methods for accurately estimating the economic impact on expenditures for physicians’ services under the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) \[parts A and B of this subchapter\] resulting from—
+
+&emsp;&emsp;“(i) improvements in medical capabilities;
+
+&emsp;&emsp;“(ii) advancements in scientific technology;
+
+&emsp;&emsp;“(iii) demographic changes in the types of medicare beneficiaries that receive benefits under such program; and
+
+&emsp;&emsp;“(iv) geographic changes in locations where medicare beneficiaries receive benefits under such program.
+
+&emsp;“(B) The rate of usage of physicians’ services under the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) among beneficiaries between ages 65 and 74, 75 and 84, 85 and over, and disabled beneficiaries under age 65.
+
+&emsp;“(C) Other factors that may be reliable predictors of beneficiary utilization of physicians’ services under the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.).
+
+“(3)
+
+Report to congress.—Not later than 3 years after the date of the enactment of this Act \[Nov. 29, 1999\], the Secretary of Health and Human Services shall submit a report to Congress setting forth the results of the study conducted pursuant to paragraph (1), together with any recommendations the Secretary determines are appropriate.
+
+“(4)
+
+Medpac report to congress.—Not later than 180 days after the date of submission of the report under paragraph (3), the Medicare Payment Advisory Commission shall submit a report to Congress that includes—
+
+&emsp;“(A) an analysis and evaluation of the report submitted under paragraph (3); and
+
+&emsp;“(B) such recommendations as it determines are appropriate.”
+
 #### Study of Adult Day Care Services
 
 Pub. L. 100–360, title II, §208, July 1, 1988, 102 Stat. 732, as amended by Pub. L. 100–485, title VI, §608(d)(8), Oct. 13, 1988, 102 Stat. 2415, directed Secretary of Health and Human Services to conduct a survey of adult day care services in United States and to report to Congress, by not later than 1 year after July 1, 1988, on the information collected in the survey, prior to repeal by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
 
 #### Study To Develop a Strategy for Quality Review and Assurance
 
-Section 9313(d) of Pub. L. 99–509, as amended by Pub. L. 100–203, title IV, §4085(i)(21)(A), Dec. 22, 1987, 101 Stat. 1330–133, directed Secretary of Health and Human Services to arrange, with the National Academy of Sciences or other appropriate nonprofit private entity, for a study to design a strategy for reviewing and assuring the quality of care for which payment may be made under this subchapter, specified items to be included in the study, and directed Secretary to submit to Congress, not later than Jan. 1, 1990, a report on the study with recommendations with respect to strengtheningquality assurancees and review activities for services furnished under the medicare program.
+Section 9313(d) of Pub. L. 99–509, as amended by Pub. L. 100–203, title IV, §4085(i)(21)(A), Dec. 22, 1987, 101 Stat. 1330–133, directed Secretary of Health and Human Services to arrange, with the National Academy of Sciences or other appropriate nonprofit private entity, for a study to design a strategy for reviewing and assuring the quality of care for which payment may be made under this subchapter, specified items to be included in the study, and directed Secretary to submit to Congress, not later than Jan. 1, 1990, a report on the study with recommendations with respect to strengthening quality assurancees and review activities for services furnished under the medicare program.
 
 #### Special Treatment of States Formerly Under Waiver
 
@@ -78,7 +116,7 @@ Pub. L. 96–499, title IX, §937(b), Dec. 5, 1980, 94 Stat. 2640, provided that
 
 #### Demonstration Projects, Studies, and Reports: Nutritional Therapy, Second Opinion Cost-Sharing, Services of Registered Dietitians, Services of Clinical Social Workers, Orthopedic Shoes, Respiratory Therapy Services, and Foot Conditions; Grants, Payments, and Expenditures
 
-Pub. L. 96–499, title IX, §958, Dec. 5, 1980, 94 Stat. 2648, directed Secretary of Health and Human Services to carry out certain demonstration projects and conduct certain studies as follows: (a) a demonstration project to determine extent to which nutritional therapy in early renal failure could retard the disease with resultant substantive deferment of dialysis, and aspects of making such therapy available under this subchapter, report to Congress to be submitted within twenty-four months of Dec. 5, 1980; (b) demonstration projects with respect to waiving the applicable cost sharing amounts which beneficiaries under this subchapter had to pay for obtaining a second opinion on having surgery, report to be submitted within one year after Dec. 5, 1980; (c) a study of conditions under which services of registered dietitians could be covered as a home health benefit under this subchapter, report to be submitted within twenty-four months of Dec. 5, 1980; (d) demonstration projects to determine aspects of making services of clinical social workers more generally available under this subchapter, report to be submitted within twenty-four months of Dec. 5, 1980; (e) a study of methods for providing coverage under part B of this subchapter for orthopedic shoes for individuals with disabling or deforming conditions requiring special fitting considerations, or requiring special shoes in conjunction with the use of an orthosis or foot support, report to be submitted no later than July 1, 1981; (f) a study of conditions under which services with respect to respiratory therapy could be covered as a home health benefit under this subchapter, report to be submitted within twenty-four months of Dec. 5, 1980; and (g) a study analyzing cost effects of alternative approaches to improving coverage under this subchapter for treatment of various types of foot conditions, report to be submitted within twenty-four months of Dec. 5, 1980. Payments and expenditures for such studies and projects were to be made in appropriate part from the Federal Hospital Insurance Trust Fund established by section 1395i of this title, and the Federal Supplemental Medical Insurance Trust Fund established by section 1395t of this title.
+Pub. L. 96–499, title IX, §958, Dec. 5, 1980, 94 Stat. 2648, directed Secretary of Health and Human Services to carry out certain demonstration projects and conduct certain studies as follows: (a) a demonstration project to determine extent to which nutritional therapy in early renal failure could retard the disease with resultant substantive deferment of dialysis, and aspects of making such therapy available under this subchapter, report to Congress to be submitted within twenty-four months of Dec. 5, 1980; (b) demonstration projects with respect to waiving the applicable cost sharing amounts which beneficiaries under this subchapter had to pay for obtaining a second opinion on having surgery, report to be submitted within one year after Dec. 5, 1980; (c) a study of conditions under which services of registered dietitians could be covered as a home health benefit under this subchapter, report to be submitted within twenty-four months of Dec. 5, 1980; (d) demonstration projects to determine aspects of making services of clinical social workers more generally available under this subchapter, report to be submitted within twenty-four months of Dec. 5, 1980; (e) a study of methods for providing coverage under part B of thissubchapter for orthopedic shoes for individuals with disabling or deforming conditions requiring special fitting considerations, or requiring special shoes in conjunction with the use of an orthosis or foot support, report to be submitted no later than July 1, 1981; (f) a study of conditions under which services with respect to respiratory therapy could be covered as a home health benefit under this subchapter, report to be submitted within twenty-four months of Dec. 5, 1980; and (g) a study analyzing cost effects of alternative approaches to improving coverage under this subchapter for treatment of various types of foot conditions, report to be submitted within twenty-four months of Dec. 5, 1980. Payments and expenditures for such studies and projects were to be made in appropriate part from the Federal Hospital Insurance Trust Fund established by section 1395i of this title, and the Federal Supplemental Medical Insurance Trust Fund established by section 1395t of this title.
 
 #### Demonstration Project Relating to the Terminally Ill
 

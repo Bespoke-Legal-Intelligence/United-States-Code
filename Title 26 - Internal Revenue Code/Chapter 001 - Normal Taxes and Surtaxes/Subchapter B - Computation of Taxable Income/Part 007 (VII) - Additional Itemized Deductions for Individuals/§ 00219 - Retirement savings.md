@@ -348,7 +348,7 @@ $50,000.
 
 &emsp;&emsp;<b>For failure to provide required reports, see section 6652(g).</b>
 
-(Added Pub. L. 93–406, title II, §2002(a)(1), Sept. 2, 1974, 88 Stat. 958; amended Pub. L. 94–455, title XV, §§1501(b)(4), 1503(a), title XIX, §§ 1901(a)(32), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1736, 1738, 1769, 1834; Pub. L. 95–600, title I, §§152(c), 156(c)(3), 157(a)(1), (b)(1), title VII, §703(c)(1), Nov. 6, 1978, 92 Stat. 2798, 2803, 2939; Pub. L. 96–222, title I, §101(a)(10)(D), (14)(B), Apr. 1, 1980, 94 Stat. 202, 204; Pub. L. 97–34, title III, §§311(a), 312(c)(1), 313(b)(2), Aug. 13, 1981, 95 Stat. 274, 284, 286; Pub. L. 97–248, title II, §243(b)(2), Sept. 3, 1982, 96 Stat. 523; Pub. L. 97–448, title I, §103(c)(1), (2), (3)(A), (4), (5), (12)(A), Jan. 12, 1983, 96 Stat. 2375–2377; Pub. L. 98–369, div. A, title I, §147(c), title IV, §§422(d)(1), 491(d)(6)–(8), title V, §529(a), (b), title VII, §713(d)(2), July 18, 1984, 98 Stat. 687, 798, 849, 877, 957; Pub. L. 99–514, title III, §301(b)(4), title XI, §§1101(a), (b)(1), (2)(A), 1102(f), 1103(a), 1108(g)(2), (3), 1109(b), title XV, §1501(d)(1)(B), title XVIII, §1875(c)(4), (6)(B), Oct. 22, 1986, 100 Stat. 2217, 2411, 2413, 2417, 2434, 2435, 2740, 2894, 2895; Pub. L. 100–647, title I, §1011(a)(1), title VI, §6009(c)(2), Nov. 10, 1988, 102 Stat. 3456, 3690; Pub. L. 101–239, title VII, §§7816(c)(1), 7841(c)(1), Dec. 19, 1989, 103 Stat. 2420, 2428; Pub. L. 102–318, title V, §521(b)(4), July 3, 1992, 106 Stat. 310; Pub. L. 103–337, div. A, title XVI, §1677(c), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 104–188, title I, §§1421(b)(1), 1427(a)–(b)(2), 1807(c)(3), Aug. 20, 1996, 110 Stat. 1795, 1802, 1902; Pub. L. 105–34, title III, §§301(a), (b), 302(c), Aug. 5, 1997, 111 Stat. 824, 825, 829; Pub. L. 105–206, title VI, §§6005(a), 6018(f)(2), July 22, 1998, 112 Stat. 796, 823; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908.)
+(Added Pub. L. 93–406, title II, §2002(a)(1), Sept. 2, 1974, 88 Stat. 958; amended Pub. L. 94–455, title XV, §§1501(b)(4), 1503(a), title XIX, §§ 1901(a)(32), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1736, 1738, 1769, 1834; Pub. L. 95–600, title I, §§152(c), 156(c)(3), 157(a)(1), (b)(1), title VII, §703(c)(1), Nov. 6, 1978, 92 Stat. 2798, 2803, 2939; Pub. L. 96–222, title I, §101(a)(10)(D), (14)(B), Apr. 1, 1980, 94 Stat. 202, 204; Pub. L. 97–34, title III, §§311(a), 312(c)(1), 313(b)(2), Aug. 13, 1981, 95 Stat. 274, 284, 286; Pub. L. 97–248, title II, §243(b)(2), Sept. 3, 1982, 96 Stat.523; Pub. L. 97–448, title I, §103(c)(1), (2), (3)(A), (4), (5), (12)(A), Jan. 12, 1983, 96 Stat. 2375–2377; Pub. L. 98–369, div. A, title I, §147(c), title IV, §§422(d)(1), 491(d)(6)–(8), title V, §529(a), (b), title VII, §713(d)(2), July 18, 1984, 98 Stat. 687, 798, 849, 877, 957; Pub. L. 99–514, title III, §301(b)(4), title XI, §§1101(a), (b)(1), (2)(A), 1102(f), 1103(a), 1108(g)(2), (3), 1109(b), title XV, §1501(d)(1)(B), title XVIII, §1875(c)(4), (6)(B), Oct. 22, 1986, 100 Stat. 2217, 2411, 2413, 2417, 2434, 2435, 2740, 2894, 2895; Pub. L. 100–647, title I, §1011(a)(1), title VI, §6009(c)(2), Nov. 10, 1988, 102 Stat. 3456, 3690; Pub. L. 101–239, title VII, §§7816(c)(1), 7841(c)(1), Dec. 19, 1989, 103 Stat. 2420, 2428; Pub. L. 102–318, title V, §521(b)(4), July 3, 1992, 106 Stat. 310; Pub. L. 103–337, div. A, title XVI, §1677(c), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 104–188, title I, §§1421(b)(1), 1427(a)–(b)(2), 1807(c)(3), Aug. 20, 1996, 110 Stat. 1795, 1802, 1902; Pub. L. 105–34, title III, §§301(a), (b), 302(c), Aug. 5, 1997, 111 Stat. 824, 825, 829; Pub. L. 105–206, title VI, §§6005(a), 6018(f)(2), July 22, 1998, 112 Stat. 796, 823; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908.)
 
 #### Prior Provisions
 
@@ -428,7 +428,7 @@ Subsec. (c)(2)(B). Pub. L. 99–514, §1108(g)(3), struck out “(determined wit
 
 Subsec. (e). Pub. L. 99–514, §1101(b)(1), amended subsec. (e) generally, revising the definition of “qualified retirement contribution”.
 
-Subsec. (f)(1). Pub. L. 99–514, §301(b)(4), which directed that par. (1) be amended by substituting “paragraph (6)” for “paragraph (7)”, could not be executed because prior amendment by Pub. L. 99–514, §1875(c)(4), see below, struck out language which included phrase “paragraph (7)”.
+Subsec. (f)(1). Pub. L. 99–514, §301(b)(4), which directed that par. (1) be amended by substituting “paragraph\(6)” for “paragraph (7)”, could not be executed because prior amendment by Pub. L. 99–514, §1875(c)(4), see below, struck out language which included phrase “paragraph (7)”.
 
 Pub. L. 99–514, §1875(c)(4), struck out “reduced by any amount allowable as a deduction to the individual in computing adjusted gross income under paragraph (7) of section 62” after “(as defined in section 401(c)(2))”.
 
@@ -568,7 +568,7 @@ Amendment by section 1807(c)(3) of Pub. L. 104–188 applicable to taxable years
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
 
 #### Effective Date of 1992 Amendment
 
@@ -614,7 +614,7 @@ Section 1109(c) of Pub. L. 99–514 provided that: “The amendments made by thi
 
 Amendment by section 1501(d)(1)(B) of Pub. L. 99–514, applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
 
-Amendment by section 1875(c)(4), (6)(B) of Pub. L. 99–514 effective as if included in the amendments made by section 238 of Pub. L. 97–248, which amended sections401, 404, 408, 415, and 1379 of this title, see section 1875(c)(12) of Pub. L. 99–514, set out as a note under section 62 of this title.
+Amendment by section 1875(c)(4), (6)(B) of Pub. L. 99–514 effective as if included in the amendments made by section 238 of Pub. L. 97–248, which amended sections 401, 404, 408, 415, and 1379 of this title, see section 1875(c)(12) of Pub. L. 99–514, set out as a note under section 62 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -670,7 +670,7 @@ Estate and gift tax provisions.—
 
 &emsp;“(A)
 
-Estate tax.—The amendments made by subsections (d)(1) and (h)(4) \[amending section 2039 of this title\] shall apply to the estates of decedents dying after December 31, 1981.
+Estate tax.—The amendments made by subsections (d)(1) and (h)(4) \[amending section 2039 ofthis title\] shall apply to the estates of decedents dying after December 31, 1981.
 
 &emsp;“(B)
 

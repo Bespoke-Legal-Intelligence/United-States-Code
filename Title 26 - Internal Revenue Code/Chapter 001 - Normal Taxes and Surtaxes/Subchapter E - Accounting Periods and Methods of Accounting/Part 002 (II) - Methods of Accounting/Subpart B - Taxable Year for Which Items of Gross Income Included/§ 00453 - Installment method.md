@@ -1,8 +1,14 @@
 ### §453. Installment method
 
-#### (a) General rule
+#### (a) Use of installment method
 
-Except as otherwise provided in this section, income from an installment sale shall be taken into account for purposes of this title under the installment method.
+#### (1) In general
+
+&emsp;Except as otherwise provided in this section, income from an installment sale shall be taken into account for purposes of this title under the installment method.
+
+#### (2) Accrual method taxpayer
+
+&emsp;The installment method shall not apply to income from an installment sale if such income would be reported under an accrual method of accounting without regard to this section. The preceding sentence shall not apply to a disposition described in subparagraph (A) or (B) of subsection (<i>l</i>)(2).
 
 #### (b) Installment sale defined
 
@@ -26,13 +32,13 @@ For purposes of this section—
 
 #### (c) Installment method defined
 
-For purposes of this section, the term “installment method” means a method under which the income recognized for any taxable year from a disposition is that proportion of the payments received in that year which the gross profit (realized or to be realized when payment is completed) bears to the total contract price.
+For purposes of this section, the term “installment method” means a method under which theincome recognized for any taxable year from a disposition is that proportion of the payments received in that year which the gross profit (realized or to be realized when payment is completed) bears to the total contract price.
 
 #### (d) Election out
 
 #### (1) In general
 
-&emsp;Subsection (a) shall not apply to any disposition if the taxpayer elects to have subsection (a) not apply to such disposition.
+&emsp;Subsection (a)(1) shall not apply to any disposition if the taxpayer elects to have subsection (a)(1) not apply to such disposition.
 
 #### (2) Time and manner for making election
 
@@ -216,7 +222,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If, in a liquidation to which section 331 applies, the shareholder receives (in exchange for the shareholder's stock) an installment obligation acquired in respect of a sale or exchange by the corporation during the 12-month period beginning on the date a plan of complete liquidation is adopted and the liquidation is completed during such 12-month period, then, for purposes of this section, the receipt of payments under such obligation (but not the receipt of such obligation) by the shareholder shall be treated as the receipt of payment for the stock.
+&emsp;&emsp;If, in a liquidation to which section 331 applies, the shareholder receives (in exchangefor the shareholder's stock) an installment obligation acquired in respect of a sale or exchange by the corporation during the 12-month period beginning on the date a plan of complete liquidation is adopted and the liquidation is completed during such 12-month period, then, for purposes of this section, the receipt of payments under such obligation (but not the receipt of such obligation) by the shareholder shall be treated as the receipt of payment for the stock.
 
 #### (B) Obligations attributable to sale of inventory must result from bulk sale
 
@@ -260,9 +266,9 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;In the case of any installment sale of property to which subsection (a) applies—
+&emsp;In the case of any installment sale of property to which subsection (a)(1) applies—
 
-&emsp;&emsp;(A) notwithstanding subsection (a), any recapture income shall be recognized in the year of the disposition, and
+&emsp;&emsp;(A) notwithstanding subsection (a)(1), any recapture income shall be recognized in the year of the disposition, and
 
 &emsp;&emsp;(B) any gain in excess of the recapture income shall be taken into account under the installment method.
 
@@ -292,7 +298,7 @@ In the case of—
 
 &emsp;&emsp;(B) to the extent provided in regulations, property (other than stock or securities) of a kind regularly traded on an established market,
 
-> subsection (a) shall not apply, and, for purposes of this title, all payments to be received shall be treated as received in the year of disposition. The Secretary may provide for the application of this subsection in whole or in part for transactions in which the rules of this subsection otherwise would be avoided through the use of related parties, pass-thru entities, or intermediaries.
+> subsection (a)(1) shall not apply, and, for purposes of this title, all payments to be received shall be treated as received in the year of disposition. The Secretary may provide for the application of this subsection in whole or in part for transactions in which the rules of this subsection otherwise would be avoided through the use of related parties, pass-thru entities, or intermediaries.
 
 #### (<i>l</i>) Dealer dispositions
 
@@ -368,13 +374,17 @@ For purposes of subsection (b)(2)(A)—
 
 &emsp;&emsp;Any amount payable under this paragraph shall be taken into account in computing the amount of any deduction allowable to the taxpayer for interest paid or accrued during such taxable year.
 
-(Added Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247; amended Pub. L. 97–34, title II, §202(c), Aug. 13, 1981, 95 Stat. 221; Pub. L. 97–448, title III, §303, Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §112(a), title IV, §421(b)(6)(B), (C), July 18, 1984, 98 Stat. 635, 794; Pub. L. 99–514, title VI, §§631(e)(8), 642(a)(1)(D), (3), (b), title VIII, §812(a), title XVIII, §1809(c), Oct. 22, 1986, 100 Stat. 2274, 2284, 2371, 2821; Pub. L. 100–203, title X, §10202(b), Dec. 22, 1987, 101 Stat. 1330–388; Pub. L. 100–647, title I, §§1006(e)(7), (i)(1), (2), 1008(g)(1), 1018(u)(25), (26), title II, §2004(d)(1), (5), Nov. 10, 1988, 102 Stat. 3401, 3410, 3442, 3591, 3599.)
+(Added Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247; amended Pub. L. 97–34, title II, §202(c), Aug. 13, 1981, 95 Stat. 221; Pub. L. 97–448, title III, §303, Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §112(a), title IV, §421(b)(6)(B), (C), July 18, 1984, 98 Stat. 635, 794; Pub. L. 99–514, title VI, §§631(e)(8), 642(a)(1)(D), (3), (b), title VIII, §812(a), title XVIII, §1809(c), Oct. 22, 1986, 100 Stat. 2274, 2284, 2371, 2821; Pub. L. 100–203, title X, §10202(b), Dec. 22, 1987, 101 Stat. 1330–388; Pub. L. 100–647, title I, §§1006(e)(7), (i)(1), (2), 1008(g)(1), 1018(u)(25), (26), title II, §2004(d)(1), (5), Nov. 10, 1988, 102 Stat. 3401, 3410, 3442, 3591, 3599; Pub. L. 106–170, title V, §536(a), Dec. 17, 1999, 113 Stat. 1936.)
 
 #### Prior Provisions
 
-A prior section 453, acts Aug. 16, 1954, ch. 736, 68A Stat. 154; Sept. 2, 1958, Pub. L. 85–866, title I, §27(a), 72 Stat. 1624; Oct. 16, 1962, Pub. L. 87–834, §13(f)(5), 76 Stat. 1035; Feb. 26, 1964, Pub. L. 88–272, title II, §§222(a), 231(b)(5), 78 Stat. 75, 105; Aug. 22, 1964, Pub. L. 88–484, §1(b)(2), 78 Stat. 597; Aug. 31, 1964, Pub. L. 88–539, §3(a), (b), 78 Stat. 746; Sept. 12, 1966, Pub. L. 89–570, §1(b)(5), 80 Stat. 762; Nov. 13, 1966, Pub. L. 89–809, title II, §202(c), 80 Stat. 1576; Dec. 30, 1969, Pub. L. 91–172, title II, §211(b)(5), title III, §301(b)(7), title IV, §412(a), title IX, §916(a), 83 Stat. 570, 585, 608, 723; Oct. 4, 1976, Pub. L. 94–455, title II, §205(c)(1)(E), title XIX, §§1901(a)(66), 1906(b)(13)(A), 1951(b)(7)(A), 90 Stat. 1535, 1775, 1834, 1838; Nov. 6, 1978, Pub. L. 95–600, title VII, §703(j)(3), 92 Stat. 2941; Apr. 1, 1980, Pub. L. 96–222, title I, §104(a)(4)(H)(iv), 94 Stat. 217; Apr. 2, 1980, Pub. L. 96–223, title IV, §403(b)(2)(B), 94 Stat. 305; Oct. 19, 1980, Pub. L. 96–471, §2(c)(4), 94 Stat. 2254, related to installment method in general, installment method for dealers in personal property, and gain or loss dispositions of installment obligations, prior to repeal by Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247. See sections 453A and 453B of this title.
+A prior section 453, acts Aug. 16, 1954, ch. 736, 68A Stat. 154; Sept. 2, 1958, Pub. L. 85–866, title I, §27(a), 72 Stat. 1624; Oct. 16, 1962, Pub. L. 87–834, §13(f)(5), 76 Stat. 1035; Feb. 26, 1964, Pub. L. 88–272, title II, §§222(a), 231(b)(5), 78 Stat. 75, 105; Aug. 22, 1964, Pub. L. 88–484, §1(b)(2), 78 Stat. 597; Aug. 31, 1964, Pub. L. 88–539, §3(a), (b), 78 Stat. 746; Sept. 12, 1966, Pub. L. 89–570, §1(b)(5), 80 Stat. 762; Nov. 13, 1966, Pub. L. 89–809, title II, §202(c), 80 Stat. 1576; Dec. 30, 1969, Pub. L. 91–172, title II, §211(b)(5), title III, §301(b)(7), title IV, §412(a), title IX, §916(a), 83 Stat. 570, 585, 608, 723; Oct. 4, 1976, Pub. L. 94–455, title II, §205(c)(1)(E), title XIX, §§1901(a)(66),1906(b)(13)(A), 1951(b)(7)(A), 90 Stat. 1535, 1775, 1834, 1838; Nov. 6, 1978, Pub. L. 95–600, title VII, §703(j)(3), 92 Stat. 2941; Apr. 1, 1980, Pub. L. 96–222, title I, §104(a)(4)(H)(iv), 94 Stat. 217; Apr. 2, 1980, Pub. L. 96–223, title IV, §403(b)(2)(B), 94 Stat. 305; Oct. 19, 1980, Pub. L. 96–471, §2(c)(4), 94 Stat. 2254, related to installment method in general, installment method for dealers in personal property, and gain or loss dispositions of installment obligations, prior to repeal by Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247. See sections 453A and 453B of this title.
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–170, §536(a)(1), substituted “Use of installment method” for “General rule” in heading and amended text generally. Prior to amendment, text read as follows: “Except as otherwise provided in this section, income from an installment sale shall be taken into account for purposes of this title under the installment method.”
+
+Subsecs. (d)(1), (i)(1), (k). Pub. L. 106–170, §536(a)(2), substituted “(a)(1)” for “(a)” wherever appearing.
 
 1988—Subsec. (f)(1). Pub. L. 100–647, §1018(u)(25), substituted “subsections (g)” for “subsection (g)”.
 
@@ -444,11 +454,15 @@ Subsec. (i). Pub. L. 98–369, §112(a), amended subsec. (i) generally, substitu
 
 1981—Subsecs. (i), (j). Pub. L. 97–34 added subsec. (i) and redesignated former subsec. (i) as (j).
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–170, title V, §536(c), Dec. 17, 1999, 113 Stat. 1936, provided that: “The amendments made by this section \[amending this section and section 453A of this title\] shall apply to sales or other dispositions occurring on or after the date of the enactment of this Act \[Dec. 17, 1999\].”
+
 #### Effective Date of 1988 Amendment
 
 Amendment by sections 1006(e)(7), (i)(1), (2), 1008(g)(1), and 1018(u)(25), (26) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Amendment by section 2004(d)(1), (5) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
+Amendment by section 2004(d)(1), (5) of Pub. L. 100–647 effective, except as otherwise provided, as if included inthe provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -542,7 +556,7 @@ Sales of stock, etc.—Section 453(k)(2) of the Internal Revenue Code of 1986, a
 
 “(3)
 
-Change in method of accounting.—In the case of any taxpayer who made sales under a revolving creditplan and was on the installment method under section 453 or 453A of the Internal Revenue Code of 1986 for such taxpayer's last taxable year beginning before January 1, 1987, the amendments made by this section \[amending this section and section 453A of this title\] shall be treated as a change in method of accounting for its 1st taxable year beginning after December 31, 1986, and—
+Change in method of accounting.—In the case of any taxpayer who made sales under a revolving credit plan and was on the installment method under section 453 or 453A of the Internal Revenue Code of 1986 for such taxpayer's last taxable year beginning before January 1, 1987, the amendments made by this section \[amending this section and section 453A of this title\] shall be treated as a change in method of accounting for its 1st taxable year beginning after December 31, 1986, and—
 
 &emsp;“(A) such change shall be treated as initiated by the taxpayer,
 

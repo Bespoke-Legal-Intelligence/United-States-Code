@@ -60,7 +60,7 @@
 
 &emsp;(iv) comply with any applicable take reduction plan and emergency regulations issued under this section.
 
-(B) Any owner of a vessel receiving an authorization under this section for any fishery listed under paragraph (1)(A)(i) or (ii) shall, as a condition of that authorization, take on board an observer if requested to do so by the Secretary.
+(B) Any owner of a vessel receiving an authorization under this section for any fishery listedunder paragraph (1)(A)(i) or (ii) shall, as a condition of that authorization, take on board an observer if requested to do so by the Secretary.
 
 (C) An owner of a vessel engaged in a fishery listed under paragraph (1)(A)(i) or (ii) who—
 
@@ -80,7 +80,7 @@
 
 (B) The Secretary may suspend or revoke an authorization granted under this subsection, and may not issue a decal or other physical evidence of the authorization for any vessel which fails to comply with a take reduction plan or emergency regulations issued under this section.
 
-(C) The owner and master of a vessel which fails to comply with a take reduction plan shallbe subject to the penalties of sections 1375 and 1377 of this title, and may be subject to section 1376 of this title.
+(C) The owner and master of a vessel which fails to comply with a take reduction plan shall be subject to the penalties of sections 1375 and 1377 of this title, and may be subject to section 1376 of this title.
 
 (5)(A) The Secretary shall develop, in consultation with the appropriate States, affected Regional Fishery Management Councils, and other interested persons, the means by which the granting and administration of authorizations under this section shall be integrated and coordinated, to the maximum extent practicable, with existing fishery licenses, registrations, and related programs.
 
@@ -120,7 +120,7 @@
 
 &emsp;(A) The highest priority for allocation shall be for commercial fisheries that have incidental mortality or serious injury of marine mammals from stocks listed as endangered species or threatened species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.).
 
-&emsp;(B) The second highest priority for allocation shall be for commercial fisheries that have incidental mortality and serious injury of marine mammals from strategic stocks.
+&emsp;(B) The second highest priority for allocation shall be for commercial fisheries thathave incidental mortality and serious injury of marine mammals from strategic stocks.
 
 &emsp;(C) The third highest priority for allocation shall be for commercial fisheries that have incidental mortality or serious injury of marine mammals from stocks for which the level of incidental mortality and serious injury is uncertain.
 
@@ -190,7 +190,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 (B) The Secretary may request a take reduction team to address a stock that extends over one or more regions or fisheries, or multiple stocks within a region or fishery, if the Secretary determines that doing so would facilitate the development and implementation of plans required under this subsection.
 
-(C) Members of take reduction teams shall have expertise regarding the conservation or biology of the marine mammal species which the take reduction plan will address, or the fishing practices which result in the incidental mortality and serious injury of such species. Members shall include representatives of Federal agencies, each coastal State which has fisheries which interact with the species or stock, appropriate Regional Fishery Management Councils, interstate fisheries commissions, academic and scientific organizations, environmental groups,all commercial and recreational fisheries groups and gear types which incidentally take the species or stock, Alaska Native organizations or Indian tribal organizations, and others as the Secretary deems appropriate. Take reduction teams shall, to the maximum extent practicable, consist of an equitable balance among representatives of resource user interests and nonuser interests.
+(C) Members of take reduction teams shall have expertise regarding the conservation or biology of the marine mammal species which the take reduction plan will address, or the fishing practices which result in the incidental mortality and serious injury of such species. Members shall include representatives of Federal agencies, each coastal State which has fisheries which interact with the species or stock, appropriate Regional Fishery Management Councils, interstate fisheries commissions, academic and scientific organizations, environmental groups, all commercial and recreational fisheries groups and gear types which incidentally take the species or stock, Alaska Native organizations or Indian tribal organizations, and others as the Secretary deems appropriate. Take reduction teams shall, to the maximum extent practicable, consist of an equitable balance among representatives of resource user interests and nonuser interests.
 
 (D) Take reduction teams shall not be subject to the Federal Advisory Committee Act (5 App. U.S.C.). Meetings of take reduction teams shall be open to the public, and prior notice of meetings shall be made public in a timely fashion.
 
@@ -212,7 +212,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(E) The Secretary and the take reduction team shall meet every 6 months, or at such other intervals as the Secretary determines are necessary, to monitor the implementation of the final take reduction plan until such time that the Secretary determines that the objectives of such plan have been met.
 
-&emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations as necessary to meet the requirements of this section, in accordance with the procedures in this section for the issuance of such plans and regulations.
+&emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations asnecessary to meet the requirements of this section, in accordance with the procedures in this section for the issuance of such plans and regulations.
 
 (8) Where the human-caused mortality and serious injury from a strategic stock is estimated to be less than the potential biological removal level established under section 1386 of this title for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, or for any marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) of this section for which the Secretary has made a determination under paragraph (1), the following procedures shall apply in the development of the take reduction plan for such stock:
 
@@ -228,7 +228,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(D) The Secretary shall, during a period of 30 days after publication of a final take reduction plan, utilize newspapers of general circulation, fishery trade associations, electronic media, and other means of advising commercial fishermen of the requirements of the plan and how to comply with them.
 
-&emsp;(E) The Secretary and the take reduction team shall meet on an annual basis, or at suchother intervals as the Secretary determines are necessary, to monitor the implementation of the final take reduction plan until such time that the Secretary determines that the objectives of such plan have been met.
+&emsp;(E) The Secretary and the take reduction team shall meet on an annual basis, or at such other intervals as the Secretary determines are necessary, to monitor the implementation of the final take reduction plan until such time that the Secretary determines that the objectives of such plan have been met.
 
 &emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations as necessary to meet the requirements of this section, in accordance with the procedures in this section for the issuance of such plans and regulations.
 
@@ -276,7 +276,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;&emsp;(ii) immediately review the stock assessment for such stock or species and the classification of such commercial fishery under this section to determine if a take reduction team should be established; and
 
-&emsp;&emsp;(iii) may, where necessary to address such adverse impact on a species or stock listed as a threatened species or endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), place observers on vessels in a commercial fishery listed under subsection (c)(1)(A)(iii) of this section, if the Secretary has reason to believe suchvessels may be causing the incidental mortality and serious injury to marine mammals from such stock.
+&emsp;&emsp;(iii) may, where necessary to address such adverse impact on a species or stock listed as a threatened species or endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), place observers on vessels in a commercial fishery listed under subsection (c)(1)(A)(iii) of this section, if the Secretary has reason to believe such vessels may be causing the incidental mortality and serious injury to marine mammals from such stock.
 
 (2) Prior to taking action under paragraph (1)(A), (B), or (C), the Secretary shall consult with the Marine Mammal Commission, all appropriate Regional Fishery Management Councils, State fishery managers, and the appropriate take reduction team (if established).
 
@@ -316,7 +316,7 @@ As used in this section and section 1371(a)(5)(E) of this title, each of the ter
 
 The Endangered Species Act of 1973, referred to in subsecs. (a)(2), (d)(4)(A), (f)(11), and (g)(1)(C)(iii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-Act of November 7, 1986, referred to in subsec. (a)(4), is Pub. L. 99–625, Nov. 7, 1986, 100 Stat. 3500, which amended section 718b of this title and provisions set out as a table of National Wildlife Refuges under section 668dd of this title and enacted provisions set out as a note under section 1536 of this title. For complete classification of this Act to the Code, see Tables.
+Act of November 7, 1986, referred to in subsec. (a)(4), is Pub. L. 99–625, Nov. 7, 1986, 100 Stat. 3500, whichamended section 718b of this title and provisions set out as a table of National Wildlife Refuges under section 668dd of this title and enacted provisions set out as a note under section 1536 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (f)(6)(D), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

@@ -28,15 +28,15 @@ One half of the amounts awarded by the Supreme Court to the United States in the
 
 #### (c) Transfer and availability of amounts earned
 
-Each year, interest earned and covered into the Fund in the previous fiscal year shall be available for appropriation, to the extent provided in the subsequent appropriations Acts, as follows:
+Each year, interest earned and covered into the Fund in the previous fiscal year shall be made available as follows:
 
-&emsp;(1) 80 percent of such amounts shall be made available to be equally divided among the Directors of the National Park Service, the United States Fish and Wildlife Service, the Bureau of Land Management, and the Chief of the Forest Service for high priority deferred maintenance and modernization of facilities that directly enhance the experience of visitors, including natural, cultural, recreational, and historic resources protection projects in National Parks, National Wildlife Refuges, and the public lands respectively as provided in subsection (d) of this section and for payment to the State of Louisiana and its lessees for oil and gas drainage in the West Delta field. The Secretary shall submit with the annual budget submission to Congress a list of high priority maintenance and modernization projects for congressional consideration.
+&emsp;(1) To the extent provided in the subsequent appropriations Acts, 80 percent of such amounts shall be made available to be equally divided among the Directors of the National Park Service, the United States Fish and Wildlife Service, the Bureau of Land Management, and the Chief of the Forest Service for high priority deferred maintenance and modernization of facilities that directly enhance the experience of visitors, including natural, cultural, recreational, and historic resources protection projects in National Parks, National Wildlife Refuges, and the public lands respectively as provided in subsection (d) of this section and for payment to the State of Louisiana and its lessees for oil and gas drainage in the West Delta field. The Secretary shall submit with the annual budget submission to Congress a list of high priority maintenance and modernization projects for congressional consideration.
 
-&emsp;(2) 20 percent of such amounts shall be made available to the Secretary of Commerce for the purpose of carrying out marine research activities in the North Pacific in accordance with subsection (e) of this section.
+&emsp;(2) 20 percent of such amounts shall be made available without further appropriation to the Secretary of Commerce for the purpose of carrying out marine research activities in the North Pacific in accordance with subsection (e) of this section.
 
 #### (d) Projects
 
-A project referred to in subsection (c)(1) of this section shall be consistent with the laws governing the National Park System, the National Wildlife Refuge System, the public lands and Forest Service lands and management plan for such unit.
+A project referred to in subsection (c)(1) of this section shall be consistent with the lawsgoverning the National Park System, the National Wildlife Refuge System, the public lands and Forest Service lands and management plan for such unit.
 
 #### (e) Marine research activities
 
@@ -72,19 +72,19 @@ A project referred to in subsection (c)(1) of this section shall be consistent w
 
 &emsp;(M) one member nominated by the Governor of Oregon and appointed by the Secretary of Commerce.
 
-> The members of the Board shall be individuals knowledgeable by education, training, or experience regarding fisheries or marine ecosystems inthe north Pacific Ocean, Bering Sea, or Arctic Ocean. Three nominations shall be submitted for each member to be appointed under subparagraphs (K), (L), and (M). Board members appointed under subparagraphs (K), (L), and (M) shall serve for three-year terms, and may be reappointed.
+> The members of the Board shall be individuals knowledgeable by education, training, or experience regarding fisheries or marine ecosystems in the north Pacific Ocean, Bering Sea, or Arctic Ocean. Three nominations shall be submitted for each member to be appointed under subparagraphs (K), (L), and (M). Board members appointed under subparagraphs (K), (L), and (M) shall serve for three-year terms, and may be reappointed.
 
 (4)(A) The Secretary of Commerce shall review and administer grants recommended by the Board. If the Secretary does not approve a grant recommended by the Board, the Secretary shall explain in writing the reasons for not approving such grant, and the amount recommended to be used for such grant shall be available only for other grants recommended by the Board.
 
 (B) Grant recommendations and other decisions of the Board shall be by majority vote, with each member having one vote. The Board shall establish written criteria for the submission of grant requests through a competitive process and for deciding upon the award of grants. Grants shall be recommended by the Board on the basis of merit in accordance with the priorities established by the Board. The Secretary shall provide the Board such administrative and technical support as is necessary for the effective functioning of the Board. The Board shall be considered an advisory panel established under section 1852(g) of title 16 for the purposes of section 1852(i)(1) of title 16, and the other procedural matters applicable to advisory panels under section 1852(i) of title 16 shall apply to the Board to the extent practicable. Members of the Board may be reimbursed for actual expenses incurred in performance of their duties for the Board. Not more than 5 percent of the funds provided to the Secretary of Commerce under paragraph (1) may be used to provide support for the Board and administer grants under this subsection.
 
-#### (f) Sunset
-
-If amounts are not assumed by the concurrent budget resolution and appropriated from the Fund by December 15, 1999, the Fund shall terminate and the amounts in the Fund including the accrued interest shall be applied to reduce the Federal deficit.
-
-(Pub. L. 105–83, title IV, §401, Nov. 14, 1997, 111 Stat. 1607; Pub. L. 105–277, div. A, §101(e) \[title III, §331\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–293.)
+(Pub. L. 105–83, title IV, §401, Nov. 14, 1997, 111 Stat. 1607; Pub. L. 105–277, div. A, §101(e) \[title III, §331\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–293; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §352(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–209.)
 
 #### Amendments
+
+1999—Subsec. (c). Pub. L. 106–113, §1000(a)(3) \[title III, §352(a)(1)\], substituted “made available” for “available for appropriation, to the extent provided in the subsequent appropriations Acts,” in introductory provisions, inserted “To the extent provided in the subsequent appropriations Acts,” before “80 percent of such amounts” in par. (1), and “without further appropriation” after “20 percent of such amounts shall be made available” in par. (2).
+
+Subsec. (f). Pub. L. 106–113, §1000(a)(3) \[title III, §352(a)(2)\], struck out heading and text of subsec. (f). Text read as follows: “If amounts are not assumed by the concurrent budget resolution and appropriated from the Fund by December 15, 1999, the Fund shall terminate and the amounts in the Fund including the accrued interest shall be applied to reduce the Federal deficit.”
 
 1998—Subsec. (f). Pub. L. 105–277 substituted “1999” for “1998”.
 

@@ -70,7 +70,7 @@ The agreement referred to in this subsection is a written agreement signed by ea
 
 #### (5) Additional lien property required in certain cases
 
-&emsp;If at any time the value of the property covered by the agreement is less than the unpaid portion of the deferred amount and the required interest amount, the Secretary may require the addition of property to the agreement (but he may not require under this paragraph that the value of the property covered by the agreement exceed such unpaid portion). If property having the required value is not added to the property covered by the agreement (or if other security equal to the required value is not furnished) within 90 days after notice and demand therefor by the Secretary, the failure to comply with the preceding sentence shall be treated as an act accelerating payment of the installments under section 6166(g).
+&emsp;If at any time the value of the property covered by the agreement is less than the unpaid portion of the deferred amount and the required interest amount, the Secretary may require the addition of property to the agreement (but he may not require under this paragraph that the value of the property covered by the agreement exceed such unpaid portion). If property having the required value is not added to the property covered by the agreement (or if other security equal to the required value is not furnished) within 90 daysafter notice and demand therefor by the Secretary, the failure to comply with the preceding sentence shall be treated as an act accelerating payment of the installments under section 6166(g).
 
 #### (6) Lien to be in lieu of bond
 

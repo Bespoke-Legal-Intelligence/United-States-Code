@@ -188,7 +188,7 @@ For purposes of this section—
 
 #### (4) Reissuance of mortgage credit certificates
 
-&emsp;The Secretary may prescribe regulations which allow the administrator of a mortgage credit certificate program to reissue a mortgage credit certificate specifying a certifiedmortgage indebtedness that replaces the outstanding balance of the certified mortgage indebtedness specified on the original certificate to any taxpayer to whom the original certificate was issued, under such terms and conditions as the Secretary determines are necessary to ensure that the amount of the credit allowable under subsection (a) with respect to such reissued certificate is equal to or less than the amount of credit which would be allowable under subsection (a) with respect to the original certificate for any taxable year ending after such reissuance.
+&emsp;The Secretary may prescribe regulations which allow the administrator of a mortgage credit certificate program to reissue a mortgage credit certificate specifying a certified mortgage indebtedness that replaces the outstanding balance of the certified mortgage indebtedness specified on the original certificate to any taxpayer to whom the original certificate was issued, under such terms and conditions as the Secretary determines are necessary to ensure that the amount of the credit allowable under subsection (a) with respect to such reissued certificate is equal to or less than the amount of credit which would be allowable under subsection (a) with respect to the original certificate for any taxable year ending after such reissuance.
 
 #### (5) Public notice that certificates will be issued
 
@@ -246,7 +246,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the credit amount for any mortgage credit certificate program, over
 
-&emsp;&emsp;&emsp;&emsp;(II) the amount which would have been the credit amount for such program had such program met the requirements of paragraph (2) of subsection (d).
+&emsp;&emsp;&emsp;&emsp;(II) the amount which would have been the credit amount for such program hadsuch program met the requirements of paragraph (2) of subsection (d).
 
 #### (ii) Credit amount
 
@@ -430,7 +430,7 @@ Section 612(g) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22
 
 “(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and section 6708 of this title, redesignating former section 25 as 26, and amending sections 23, 28 to 30, 38, 55, 103A, 163, 168, and 901 of this title\] shall apply to interest paid or accrued after December 31, 1984, on indebtedness incurred after December 31, 1984.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section\[enacting this section and section 6708 of this title, redesignating former section 25 as 26, and amending sections 23, 28 to 30, 38, 55, 103A, 163, 168, and 901 of this title\] shall apply to interest paid or accrued after December 31, 1984, on indebtedness incurred after December 31, 1984.
 
 “(2)
 

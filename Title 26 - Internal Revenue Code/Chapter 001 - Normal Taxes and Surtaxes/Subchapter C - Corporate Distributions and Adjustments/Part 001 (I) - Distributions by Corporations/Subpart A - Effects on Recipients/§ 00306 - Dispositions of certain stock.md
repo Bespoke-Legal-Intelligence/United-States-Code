@@ -80,7 +80,7 @@ Subsection (a) shall not apply—
 
 &emsp;&emsp;Stock which is not common stock and—
 
-&emsp;&emsp;&emsp;(i) which was received, by the shareholder selling or otherwise disposing ofsuch stock, in pursuance of a plan of reorganization (within the meaning of section 368(a)), or in a distribution or exchange to which section 355 (or so much of section 356 as relates to section 355) applied, and
+&emsp;&emsp;&emsp;(i) which was received, by the shareholder selling or otherwise disposing of such stock, in pursuance of a plan of reorganization (within the meaning of section 368(a)), or in a distribution or exchange to which section 355 (or so much of section 356 as relates to section 355) applied, and
 
 &emsp;&emsp;&emsp;(ii) with respect to the receipt of which gain or loss to the shareholder was to any extent not recognized by reason of part III, but only to the extent that either the effect of the transaction was substantially the same as the receipt of a stock dividend, or the stock was received in exchange for section 306 stock.
 

@@ -10,7 +10,7 @@ Not later than April 30 and not later than October 30 of each year, the Presiden
 
 &emsp;(4) Such other information as the President considers appropriate to fully inform the Congress concerning the operation of the programs and activities carried out under this chapter, including, with respect to proposed demilitarization or conversion projects, additional information on the progress toward demilitarization of facilities and the conversion of the demilitarized facilities to civilian activities.
 
-&emsp;(5) A description of how all of the activities carried out under the authority of this chapter and other laws providing authority for cooperative threat reduction are coordinated with similar activities that are carried out under any other authority, including activities relating to military-to-military contacts, environmental restoration, and housing.
+&emsp;(5) A description of how all of the activities carried out under the authority of this chapterand other laws providing authority for cooperative threat reduction are coordinated with similar activities that are carried out under any other authority, including activities relating to military-to-military contacts, environmental restoration, and housing.
 
 (Pub. L. 103–160, div. A, title XII, §1207, Nov. 30, 1993, 107 Stat. 1782; Pub. L. 103–337, div. A, title XII, §§1202, 1208(b), Oct. 5, 1994, 108 Stat. 2882, 2887; Pub. L. 104–106, div. A, title XV, §1504(a)(7), Feb. 10, 1996, 110 Stat. 513.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Enrollment
 
-The Secretary shall ensure that women and men have an equal opportunity to participate inthe Job Corps program, consistent with section 2885 of this title.
+The Secretary shall ensure that women and men have an equal opportunity to participate in the Job Corps program, consistent with section 2885 of this title.
 
 #### (b) Studies, evaluations, proposals, and data
 

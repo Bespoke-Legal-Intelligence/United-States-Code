@@ -20,7 +20,7 @@
 
 No proclamation pursuant to subsection (a) of this section shall be made—
 
-&emsp;(1) increasing any rate of duty to a rate more than 50 percent above the rate existing on July 1, 1934, or, if the article is dutiable but no rate existed on July 1, 1934, the rate existing at the time of the proclamation.
+&emsp;(1) increasing any rate of duty to a rate more than 50 percent above the rate existingon July 1, 1934, or, if the article is dutiable but no rate existed on July 1, 1934, the rate existing at the time of the proclamation.
 
 &emsp;(2) in the case of an article not subject to duty, imposing a duty in excess of 50 percent ad valorem.
 
@@ -74,13 +74,13 @@ Subsec. (d)(3). Pub. L. 93–618, §602(d), struck out par. (3) which provided f
 
 #### Status of Certain Changes in Tariff Schedules
 
-Section 1(d) of Pub. L. 90–638, Oct. 24, 1968, 82 Stat. 1360, provided that: “The rates of duty in rate column numbered 1 \[of item 662.18\] of the Tariff Schedules ofthe United States (as amended by the subsections (a) and (c)) shall be treated as not having the status of statutory provisions enacted by the Congress, but as having been proclaimed by the President as being required or appropriate to carry out foreign trade agreements to which the United States is a party. The rate of duty in rate column numbered 1 of item 662.20 of the Tariff Schedules of the United States (as amended by subsection (a)) shall not supersede the staged rates of duty provided for such item in Annex III to Proclamation 3822, dated December 16, 1967 (32 Fed. Reg., No. 244, part II).”
+Section 1(d) of Pub. L. 90–638, Oct. 24, 1968, 82 Stat. 1360, provided that: “The rates of duty in rate column numbered 1 \[of item 662.18\] of the Tariff Schedules of the United States (as amended by the subsections (a) and (c)) shall be treated as not having the status of statutory provisions enacted by the Congress, but as having been proclaimed by the President as being required or appropriate to carry out foreign trade agreements to which the United States is a party. The rate of duty in rate column numbered 1 of item 662.20 of the Tariff Schedules of the United States (as amended by subsection (a)) shall not supersede the staged rates of duty provided for such item in Annex III to Proclamation 3822, dated December 16, 1967 (32 Fed. Reg., No. 244, part II).”
 
 Section 2(d) of Pub. L. 90–638, Oct. 24, 1968, 82 Stat. 1360, provided that:
 
 “(1) For purposes of applying sections 256(4) \[section 1886(4) of this title\], 256(d) \[section 1886(5) of this title\], and 351(b) of the Trade Expansion Act of 1962 \[subsec. (b) of this section\] and section 350(c)(2)(A) of the Tariff Act of 1930 \[section 1351(c)(2)(A) of this title\]—
 
-&emsp;“(A) the rates of duty in rate column numbered 1 of the Tariff Schedules of the United States \[items 355.70, 356.30, and 359.30\] (as changed by subsection (b)) shall be treated as the rates of duty existing on July 1, 1962; and
+&emsp;“(A) the rates of duty in rate column numbered 1 of the Tariff Schedules of the United States \[items355.70, 356.30, and 359.30\] (as changed by subsection (b)) shall be treated as the rates of duty existing on July 1, 1962; and
 
 &emsp;“(B) the rates of duty in rate column numbered 2 of such Schedules (as changed by subsection (b)) shall be treated as the rates of duty existing on July 1, 1934.
 

@@ -2,7 +2,7 @@
 
 As used in this chapter, the term—
 
-&emsp;(1) “Acquire” and “acquisition” shall not be construed as authorizing the Administrator to construct, or have ownership of, under this chapter or any other law, any electric generating facility.
+&emsp;(1) “Acquire” and “acquisition” shall not be construed as authorizing the Administrator to construct, or have ownership of, under thischapter or any other law, any electric generating facility.
 
 &emsp;(2) “Administrator” means the Administrator of the Bonneville Power Administration.
 
@@ -12,7 +12,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(i) to be reliable and available within the time it is needed, and
 
-&emsp;&emsp;(ii) to meet or reduce the electric power demand, as determined by the Council or theAdministrator, as appropriate, of the Consumers of the customers at an estimated incremental system cost no greater than that of the least-cost similarly reliable and available alternative measure or resource, or any combination thereof.
+&emsp;&emsp;(ii) to meet or reduce the electric power demand, as determined by the Council or the Administrator, as appropriate, of the Consumers of the customers at an estimated incremental system cost no greater than that of the least-cost similarly reliable and available alternative measure or resource, or any combination thereof.
 
 &emsp;(B) For purposes of this paragraph, the term “system cost” means an estimate of all direct costs of a measure or resource over its effective life, including, if applicable, the cost of distribution and transmission to the consumer and, among other factors, waste disposal costs, end-of-cycle costs, and fuel costs (including projected increases), and such quantifiable environmental costs and benefits as the Administrator determines, on the basis of a methodology developed by the Council as part of the plan, or in the absence of the plan by the Administrator, are directly attributable to such measure or resource.
 
@@ -64,7 +64,7 @@ As used in this chapter, the term—
 
 &emsp;(16) “Renewable resource” means a resource which utilizes solar, wind, hydro, geothermal, biomass, or similar sources of energy and which either is used for electric power generation or will reduce the electric power requirements of a consumer, including by direct application.
 
-&emsp;(17) “Reserves” means the electric power needed to avert particular planning or operating shortages for the benefit of firm power customers of the Administrator and available to the Administrator (A) from resources or (B) from rights to interrupt, curtail, or otherwise withdraw, as provided by specific contract provisions, portions of the electric power supplied to customers.
+&emsp;(17) “Reserves” means the electric power needed to avert particular planning or operating shortages for the benefit of firm power customers of the Administrator and available to the Administrator (A) from resources or (B)from rights to interrupt, curtail, or otherwise withdraw, as provided by specific contract provisions, portions of the electric power supplied to customers.
 
 &emsp;(18) “Residential use” or “residential load” means all usual residential, apartment, seasonal dwelling and farm electrical loads or uses, but only the first four hundred horsepower during any monthly billing period of farm irrigation and pumping for any farm.
 

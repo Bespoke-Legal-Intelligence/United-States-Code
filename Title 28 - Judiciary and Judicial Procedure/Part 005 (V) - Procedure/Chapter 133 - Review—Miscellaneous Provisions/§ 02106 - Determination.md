@@ -6,7 +6,7 @@ The Supreme Court or any other court of appellate jurisdiction may affirm, modif
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§344, 876, 877 (R.S. §701; Mar. 3, 1891, ch. 517, §§10, 11, 26 Stat. 829; Mar. 3, 1911, ch. 231, §§231, 236, 237, 291, 36 Stat. 1156, 1167; Dec. 23, 1914, ch. 2, 38 Stat. 790; Sept. 16, 1916, ch. 448, §2, 39 Stat. 726; Feb. 17, 1922, ch. 54, 42 Stat. 366; Feb. 13, 1925, ch. 229, §1, 43 Stat. 937; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54).
+Based on title 28, U.S.C., 1940 ed., §§344, 876, 877 (R.S. §701; Mar. 3, 1891, ch. 517, §§10, 11, 26 Stat. 829; Mar. 3, 1911, ch. 231, §§231, 236, 237, 291, 36 Stat. 1156, 1167; Dec. 23, 1914, ch. 2, 38 Stat. 790; Sept. 16, 1916, ch. 448, §2, 39Stat. 726; Feb. 17, 1922, ch. 54, 42 Stat. 366; Feb. 13, 1925, ch. 229, §1, 43 Stat. 937; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54).
 
 Section consolidates part of section 344 of title 28, U.S.C., 1940 ed., with sections 876 and 877 of said title. Other provisions of said section 344 are incorporated in sections 1257 and 2103 of this title.
 

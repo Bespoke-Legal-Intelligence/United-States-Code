@@ -34,7 +34,7 @@ Master Plan.—(1) The Secretary of Defense shall include in the materials submi
 
 &emsp;&emsp;(iv) Accessions and losses of civilian positions, shown in the aggregate and by the number of full-time employees, the number of part-time employees, and the number of temporary and on-call employees.
 
-&emsp;&emsp;(v) The number of losses of civilian positions, by appropriation account, due to reductions in force, furloughs, or functional transfers or other significant transfers of work away from the military department, Defense Agency, or other component.
+&emsp;&emsp;(v) The number of losses of civilian positions, by appropriation account, due to reductions in force, furloughs, or functionaltransfers or other significant transfers of work away from the military department, Defense Agency, or other component.
 
 &emsp;&emsp;(vi) The extent to which accessions and losses of civilian positions are due to functional transfers or competitive actions that are related to the Department of Defense management review initiatives of the Secretary of Defense.
 
@@ -102,7 +102,7 @@ Eligible Employees.—For purposes of this section, an eligible employee is an e
 
 “(c)
 
-Retraining Incentive.—(1) Under the pilot program, the Secretary may enter into an agreement with a non-Federal employer under which the non-Federal employer agrees—
+Retraining Incentive.—(1) Under the pilot program, the Secretary may enter into an agreement witha non-Federal employer under which the non-Federal employer agrees—
 
 &emsp;“(A) to employ a person referred to in subsection (a) for at least 12 months for a salary which is mutually agreeable to the employer and such person; and
 

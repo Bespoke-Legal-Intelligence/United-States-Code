@@ -50,7 +50,7 @@ For purposes of this subpart, dividends from a DISC or former DISC (as defined i
 
 &emsp;Notwithstanding subsection (b), the amount of any income, war profits, and excess profits taxes paid or accrued during the taxable year to any foreign country or possession of the United States with respect to foreign mineral income from sources within such country or possession which would (but for this paragraph) be allowed under such subsection shall be reduced by the amount (if any) by which—
 
-&emsp;&emsp;(A) the amount of such taxes (or, if smaller, the amount of the tax which would be computed under this chapter with respect to such income determined without the deduction allowed under section 613), exceeds
+&emsp;&emsp;(A) the amount of such taxes (or, if smaller, the amount of the tax which would be computed under this chapter with respect tosuch income determined without the deduction allowed under section 613), exceeds
 
 &emsp;&emsp;(B) the amount of the tax computed under this chapter with respect to such income.
 
@@ -162,7 +162,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 #### (2) Deemed paid taxes
 
-&emsp;In the case of income, war profits, or excess profits taxes deemed paid under section 853,902, or 960 through a chain of ownership of stock in 1 or more corporations, no credit shall be allowed under subsection (a) for such taxes if—
+&emsp;In the case of income, war profits, or excess profits taxes deemed paid under section 853, 902, or 960 through a chain of ownership of stock in 1 or more corporations, no credit shall be allowed under subsection (a) for such taxes if—
 
 &emsp;&emsp;(A) any stock of any corporation in such chain (the ownership of which is required to obtain credit under subsection (a) for such taxes) is held for less than the period described in paragraph (1)(A)(i), or
 
@@ -214,7 +214,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 #### (<i>l</i>) Cross reference
 
-&emsp;&emsp;<b>(1) For deductions of income, war profits, and excess profits taxes paid to a foreign country or a possession of the United States, see sections 164 and 275.</b>
+&emsp;&emsp;<b>(1) For deductions of income, war profits, and excess profits taxes paid to a foreign country or a pos</b><b>session of the United States, see sections 164 and 275.</b>
 
 &emsp;&emsp;<b>(2) For right of each partner to make election under this section, see section 703(b).</b>
 
@@ -284,7 +284,7 @@ Subsec. (k). Pub. L. 99–509 redesignated former subsec. (j) as (k).
 
 1984—Subsec. (a). Pub. L. 98–369, §612(e)(1), substituted “section 26(b)” for “section 25(b)”.
 
-Pub. L. 98–369, §474(r)(20), substituted “The credit shall not be allowed against any tax treated as a tax not imposed by this chapter under section 25(b)” for “The credit shall not be allowed against the tax imposed by section 56 (relating to corporate minimum tax), against the tax imposed for the taxable year under section 72(m)(5)(B) (relating to 10 percent tax on premature distributions to owner-employees) section 72(q)(1) (relating to 5-percent tax on premature distributions under annuity contracts),, against the tax imposed by section 402(e) (relating to tax on lump sum distributions), against the tax imposed for the taxable year by section 408(f) (relating to additional tax on income from certain retirement accounts), against the tax imposed by section 531 (relating to the tax on accumulated earnings), against the additional tax imposed for the taxable year under section 1351 (relating to recoveries of foreign expropriation losses), or against the personal holding company tax imposed by section 541”.
+Pub. L. 98–369, §474(r)(20), substituted “The credit shall not be allowed against any tax treated as a tax not imposed by this chapter under section 25(b)” for “The credit shall not be allowed against the tax imposed by section 56 (relating to corporate minimum tax), against the tax imposed for the taxable year under section 72(m)(5)(B) (relating to 10 percent tax on premature distributions to owner-employees) section 72(q)(1) (relating to 5-percent tax on premature distributions under annuity contracts),, against the tax imposed by section 402(e) (relating to tax on lump sum distributions), against the tax imposed for the taxableyear by section 408(f) (relating to additional tax on income from certain retirement accounts), against the tax imposed by section 531 (relating to the tax on accumulated earnings), against the additional tax imposed for the taxable year under section 1351 (relating to recoveries of foreign expropriation losses), or against the personal holding company tax imposed by section 541”.
 
 Pub. L. 98–369, §713(c)(1)(C), substituted “premature distributions to key employees” for “premature distributions to owner-employees”.
 
@@ -314,7 +314,7 @@ Subsecs. (g), (h). Pub. L. 94–455, §§1051(d)(2), 1901(b)(1)(H)(iii), added s
 
 Subsecs. (e), (f). Pub. L. 91–172, §506(a), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1966—Subsec. (a). Pub. L. 89–384 added the additional tax imposed under section 1351 (relating to recoveriesof foreign expropriation losses) to the list of taxes against which the foreign tax credit may not be allowed.
+1966—Subsec. (a). Pub. L. 89–384 added the additional tax imposed under section 1351 (relating to recoveries of foreign expropriation losses) to the list of taxes against which the foreign tax credit may not be allowed.
 
 Subsec. (b)(3). Pub. L. 89–809, §106(b)(1), struck out provisions which made the allowance of the credit dependent upon whether the foreign country of which the alien resident was a citizen or subject, in imposing such taxes, allowed a similar credit to citizens of the United States residing in such country.
 
@@ -368,7 +368,7 @@ Section 8041(c) of Pub. L. 99–509 provided that: “The amendments made by thi
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 474(r)(20) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by section 474(r)(20) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983,and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 Amendment by section 612(e)(1) of Pub. L. 98–369 applicable to interest paid or accrued after Dec. 31, 1984, on indebtedness incurred after Dec. 31, 1984, see section 612(g) of Pub. L. 98–369, set out as an Effective Date note under section 25 of this title.
 
@@ -438,7 +438,7 @@ Amendment by section 3(a) of Pub. L. 86–780 applicable to taxable years beginn
 
 #### Effect of Amendment by Pub. L. 103–149 on Revenue Ruling 92–62
 
-Amendment by section 4(b)(8)(A) of Pub. L. 103–149 not to be construed as affecting any of the transitional rules contained in Revenue Ruling 92–62 which apply by reason of the termination of the period for which subsec. (j) of this section was applicable to South Africa, see section 4(b)(8)(B) of Pub. L. 103–149 set out in a Repeal of Chapter; South African Democratic Transition Support note under section 5001 of Title 22, Foreign Relations and Intercourse.
+Amendment by section 4(b)(8)(A) of Pub. L. 103–149 not to be construed as affecting any of the transitionalrules contained in Revenue Ruling 92–62 which apply by reason of the termination of the period for which subsec. (j) of this section was applicable to South Africa, see section 4(b)(8)(B) of Pub. L. 103–149 set out in a Repeal of Chapter; South African Democratic Transition Support note under section 5001 of Title 22, Foreign Relations and Intercourse.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

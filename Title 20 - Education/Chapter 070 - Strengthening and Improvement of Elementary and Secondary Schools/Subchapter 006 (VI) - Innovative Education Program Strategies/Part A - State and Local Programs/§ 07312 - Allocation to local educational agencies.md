@@ -2,7 +2,7 @@
 
 #### (a) Distribution rule
 
-From the sums made available each year to carry out this subchapter, the State educationalagency shall distribute not less than 85 percent to local educational agencies within such State according to the relative enrollments in public and private, nonprofit schools within the school districts of such agencies, adjusted, in accordance with criteria approved by the Secretary, to provide higher per pupil allocations to local educational agencies which have the greatest numbers or percentages of children whose education imposes a higher than average cost per child, such as—
+From the sums made available each year to carry out this subchapter, the State educational agency shall distribute not less than 85 percent to local educational agencies within such State according to the relative enrollments in public and private, nonprofit schools within the school districts of such agencies, adjusted, in accordance with criteria approved by the Secretary, to provide higher per pupil allocations to local educational agencies which have the greatest numbers or percentages of children whose education imposes a higher than average cost per child, such as—
 
 &emsp;(1) children living in areas with high concentrations of low-income families;
 

@@ -6,7 +6,7 @@ The Secretary of Defense shall prescribe regulations establishing the maximum al
 
 #### Amendments
 
-1990—Pub. L. 101–510 struck out “(a)” before “The Secretary of Defense” and struck out subsec. (b) which read as follows: “Before taking effect, any regulationsunder this section, and any modifications to such regulations, shall be submitted to the appropriate committees of Congress. Such regulations (including any modifications to such regulations) may not then take effect until 21 days after being received by such committees.”
+1990—Pub. L. 101–510 struck out “(a)” before “The Secretary of Defense” and struck out subsec. (b) which read as follows: “Before taking effect, any regulations under this section, and any modifications to such regulations, shall be submitted to the appropriate committees of Congress. Such regulations (including any modifications to such regulations) may not then take effect until 21 days after being received by such committees.”
 
 #### Effective Date
 

@@ -1,6 +1,6 @@
 ### §§1401 to 1410. Repealed. Aug. 26, 1954, ch. 937, title V, §542(a)(1), (4), 68 Stat. 861
 
-Section 1401, acts May 22, 1947, ch. 81, §1, 61 Stat. 103; Apr. 5, 1952, ch. 159, §1, 66 Stat. 43, authorized President to furnish assistance and prescribed type of assistance to be furnished. See sections 1451 to 1453 and 2395 of this title.
+Section 1401, acts May 22, 1947, ch. 81, §1, 61 Stat. 103; Apr. 5, 1952, ch. 159, §1, 66 Stat. 43, authorized Presidentto furnish assistance and prescribed type of assistance to be furnished. See sections 1451 to 1453 and 2395 of this title.
 
 Section 1402, act May 22, 1947, ch. 81, §2, 61 Stat. 104, related to allocation of funds to Government agencies. See section 2392 of this title.
 

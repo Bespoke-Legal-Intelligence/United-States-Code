@@ -34,7 +34,7 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 #### (1) Services to which fees apply
 
-&emsp;If the regulations prescribed pursuant to subsection (a) of this section permit a licensee to offer ancillary or supplementary services on a designated frequency—
+&emsp;If the regulations prescribed pursuant to subsection (a) of this section permit a licenseeto offer ancillary or supplementary services on a designated frequency—
 
 &emsp;&emsp;(A) for which the payment of a subscription fee is required in order to receive such services, or
 
@@ -66,7 +66,107 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 &emsp;Within 5 years after February 8, 1996, the Commission shall report to the Congress on the implementation of the program required by this subsection, and shall annually thereafter advise the Congress on the amounts collected pursuant to such program.
 
-#### (f) Evaluation
+#### (f) Preservation of low-power community television broadcasting
+
+#### (1) Creation of class A licenses
+
+#### (A) Rulemaking required
+
+&emsp;&emsp;Within 120 days after November 29, 1999, the Commission shall prescribe regulations to establish a class A television license to be available to licensees of qualifying low-power television stations. Such regulations shall provide that—
+
+&emsp;&emsp;&emsp;(i) the license shall be subject to the same license terms and renewal standards as the licenses for full-power television stations except as provided in this subsection; and
+
+&emsp;&emsp;&emsp;(ii) each such class A licensee shall be accorded primary status as a television broadcaster as long as the station continues to meet the requirements for a qualifying low-power station in paragraph (2).
+
+#### (B) Notice to and certification by licensees
+
+&emsp;&emsp;Within 30 days after November 29, 1999, the Commission shall send a notice to the licensees of all low-power television licenses that describes the requirements for class A designation. Within 60 days after November 29, 1999, licensees intending to seek class A designation shall submit to the Commission a certification of eligibility based on the qualification requirements of this subsection. Absent a material deficiency, the Commission shall grant certification of eligibility to apply for class A status.
+
+#### (C) Application for and award of licenses
+
+&emsp;&emsp;Consistent with the requirements set forth in paragraph (2)(A) of this subsection, a licensee may submit an application for class A designation under this paragraph within 30 days after final regulations are adopted under subparagraph (A) of this paragraph. Except as provided in paragraphs (6) and (7), the Commission shall, within 30 days after receipt of an application of a licensee of a qualifying low-power television station that is acceptable for filing, award such a class A television station license to such licensee.
+
+#### (D) Resolution of technical problems
+
+&emsp;&emsp;The Commission shall act to preserve the service areas of low-power television licensees pending the final resolution of a class A application. If, after granting certification of eligibility for a class A license, technical problems arise requiring an engineering solution to a full-power station's allotted parameters or channel assignment in the digital television Table of Allotments, the Commission shall make such modifications as necessary—
+
+&emsp;&emsp;&emsp;(i) to ensure replication of the full-power digital television applicant's service area, as provided for in sections 73.622 and 73.623 of the Commission's regulations (47 CFR 73.622, 73.623); and
+
+&emsp;&emsp;&emsp;(ii) to permit maximization of a full-power digital television applicant's service area consistent with such sections 73.622 and 73.623,
+
+> &emsp;&emsp;if such applicant has filed an application for maximization or a notice of its intent to seek such maximization by December 31, 1999, and filed a bona fide application for maximization by May 1, 2000. Any such applicant shall comply with all applicable Commission rules regarding the construction of digital television facilities.
+
+#### (E) Change applications
+
+&emsp;&emsp;If a station that is awarded a construction permit to maximize or significantly enhance its digital television service area, later files a change application to reduce its digital television service area, the protected contour of that station shall be reduced in accordance with such change modification.
+
+#### (2) Qualifying low-power television stations
+
+&emsp;For purposes of this subsection, a station is a qualifying low-power television station if—
+
+&emsp;&emsp;(A)(i) during the 90 days preceding November 29, 1999—
+
+&emsp;&emsp;&emsp;(I) such station broadcast a minimum of 18 hours per day;
+
+&emsp;&emsp;&emsp;(II) such station broadcast an average of at least 3 hours per week of programming that was produced within the market area served by such station, or the market area served by a group of commonly controlled low-power stations that carry common local programming produced within the market area served by such group; and
+
+&emsp;&emsp;&emsp;(III) such station was in compliance with the Commission's requirements applicable to low-power television stations; and
+
+&emsp;&emsp;(ii) from and after the date of its application for a class A license, the station is in compliance with the Commission's operating rules for full-power television stations; or
+
+&emsp;&emsp;(B) the Commission determines that the public interest, convenience, and necessity would be served by treating the station as a qualifying low-power television station for purposes of this section, or for other reasons determined by the Commission.
+
+#### (3) Common ownership
+
+&emsp;No low-power television station authorized as of November 29, 1999, shall be disqualified for a class A license based on common ownership with any other medium of mass communication.
+
+#### (4) Issuance of licenses for advanced television services to television translator stations and qualifying low-power television stations
+
+&emsp;The Commission is not required to issue any additional license for advanced television services to the licensee of a class A television station under this subsection, or to any licensee of any television translator station, but shall accept a license application for such services proposing facilities that will not cause interference to the service area of any other broadcast facility applied for, protected, permitted, or authorized on the date of filing of the advanced television application. Such new license or the original license of the applicant shall be forfeited after the end of the digital television service transition period, as determined by the Commission. A licensee of a low-power television station or television translator station may, at the option of licensee, elect to convert to the provision of advanced television services on its analog channel, but shall not be required to convert to digital operation until the end of such transition period.
+
+#### (5) No preemption of section 337
+
+&emsp;Nothing in this subsection preempts or otherwise affects section 337 of this title.
+
+#### (6) Interim qualification
+
+#### (A) Stations operating within certain bandwidth
+
+&emsp;&emsp;The Commission may not grant a class A license to a low-power television station for operation between 698 and 806 megahertz, but the Commission shall provide to low-power television stations assigned to and temporarily operating in that bandwidth the opportunity to meet the qualification requirements for a class A license. If such a qualified applicant for a class A license is assigned a channel within the core spectrum (as such term is defined in MM Docket No. 87–286, February 17, 1998), the Commission shall issue a class A license simultaneously with the assignment of such channel.
+
+#### (B) Certain channels off-limits
+
+&emsp;&emsp;The Commission may not grant under this subsection a class A license to a low-power television station operating on a channel within the core spectrum that includes any of the 175 additional channels referenced in paragraph 45 of its February 23, 1998, Memorandum Opinion and Order on Reconsideration of the Sixth Report and Order (MM Docket No. 87–268). Within 18 months after November 29, 1999, the Commission shall identify by channel, location, and applicable technical parameters those 175 channels.
+
+#### (7) No interference requirement
+
+&emsp;The Commission may not grant a class A license, nor approve a modification of a class A license, unless the applicant or licensee shows that the class A station for which the license or modification is sought will not cause—
+
+&emsp;&emsp;(A) interference within—
+
+&emsp;&emsp;&emsp;(i) the predicted Grade B contour (as of the date of the enactment of the Community Broadcasters Protection Act of 1999 \[November 29, 1999\], or November 1, 1999, whichever is later, or as proposed in a change application filed on or before such date) of any television station transmitting in analog format; or
+
+&emsp;&emsp;&emsp;(ii)(I) the digital television service areas provided in the DTV Table of Allotments; (II) the areas protected in the Commission's digital television regulations (47 CFR 73.622(e) and (f)); (III) the digital television service areas of stations subsequently granted by the Commission prior to the filing of a class A application; and (IV) stations seeking to maximize power under the Commission's rules, if such station has complied with the notification requirements in paragraph (1)(D);
+
+&emsp;&emsp;(B) interference within the protected contour of any low-power television station or low-power television translator station that—
+
+&emsp;&emsp;&emsp;(i) was licensed prior to the date on which the application for a class A license, or for the modification of such a license, was filed;
+
+&emsp;&emsp;&emsp;(ii) was authorized by construction permit prior to such date; or
+
+&emsp;&emsp;&emsp;(iii) had a pending application that was submitted prior to such date; or
+
+&emsp;&emsp;(C) interference within the protected contour of 80 miles from the geographic center of the areas listed in section 22.625(b)(1) or 90.303 of the Commission's regulations (47 CFR 22.625(b)(1) and 90.303) for frequencies in—
+
+&emsp;&emsp;&emsp;(i) the 470–512 megahertz band identified in section 22.621 or 90.303 of such regulations; or
+
+&emsp;&emsp;&emsp;(ii) the 482–488 megahertz band in New York.
+
+#### (8) Priority for displaced low-power stations
+
+&emsp;Low-power stations that are displaced by an application filed under this section shall have priority over other low-power stations in the assignment of available channels.
+
+#### (g) Evaluation
 
 Within 10 years after the date the Commission first issues additional licenses for advanced television services, the Commission shall conduct an evaluation of the advanced television services program. Such evaluation shall include—
 
@@ -76,7 +176,7 @@ Within 10 years after the date the Commission first issues additional licenses f
 
 &emsp;(3) the extent to which the Commission has been or will be able to reduce the amount of spectrum assigned to licensees.
 
-#### (g) Definitions
+#### (h) Definitions
 
 As used in this section:
 
@@ -92,29 +192,27 @@ As used in this section:
 
 &emsp;The term “high definition television” refers to systems that offer approximately twice the vertical and horizontal resolution of receivers generally available on February 8, 1996, as further defined in the proceedings described in paragraph (1) of this subsection.
 
-(June 19, 1934, ch. 652, title III, §336, as added Pub. L. 104–104, title II, §201, Feb. 8, 1996, 110 Stat. 107.)
+(June 19, 1934, ch. 652, title III, §336, as added Pub. L. 104–104, title II, §201, Feb. 8, 1996, 110 Stat. 107; Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5008(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–595.)
 
-#### Ex. Ord. No. 13038. Advisory Committee on Public Interest Obligations of Digital Television Broadcasters
+#### Amendments
 
-Ex. Ord. No. 13038, Mar. 11, 1997, 62 F.R. 12065, as amended by Ex. Ord. No. 13062, §5, Sept. 29, 1997, 62 F.R. 51756; Ex. Ord. No. 13065, Oct. 22, 1997, 62 F.R. 55329; Ex. Ord. No. 13081, Apr. 30, 1998, 63 F.R. 24385; Ex. Ord. No. 13102, Sept. 25, 1998, 63 F.R. 52125, provided:
+1999—Subsecs. (f) to (h). Pub. L. 106–113 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the “Act”), and in order to establish an advisory committee on the public interest obligations of digital television broadcasters, it is hereby ordered as follows:
+#### Congressional Findings Regarding Low-Power Broadcasters
 
-Section 1. <i>Establishment</i>. There is established the “Advisory Committee on the Public Interest Obligations of Digital Television Broadcasters” (“Committee”). The Committee shall consist of up to 25 members appointed by the President. Members shall be chosen from the private sector, including members of the commercial and noncommercial broadcasting industry, computer industries, producers, academic institutions, public interest organizations, and the advertising community. The President shall designate a Chair or Co-Chairs from among the members of the Committee.
+Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5008(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–594, provided that: “Congress finds the following:
 
-Sec. 2. <i>Functions</i>. On or before December 31, 1998, the Committee shall report to the Vice President on the public interest obligations digital television broadcasters should assume. For the purpose of carrying out its functions the Committee may, in consultation with the Assistant Secretary of Commerce for Communications and Information, hold meetings at such times and places as the Committee may find advisable.
+&emsp;“(1) Since the creation of low-power television licenses by the Federal Communications Commission, a small number of license holders have operated their stations in a manner beneficial to the public good providing broadcasting to their communities that would not otherwise be available.
 
-Sec. 3. <i>Administration</i>. (a) To the extent permitted by law, the heads of executive departments, agencies, and independent instrumentalities shall provide the Committee, upon request, with such information as it may require for the purpose of carrying out its functions.
+&emsp;“(2) These low-power broadcasters have operated their stations in a manner consistent with the programming objectives and hours of operation of full-power broadcasters providing worthwhile services to their respective communities while under severe license limitations compared to their full-power counterparts.
 
-(b) Upon request of the Chair of the Committee, the head of any executive department, agency, or instrumentality shall, to the extent permitted by law and subject to the discretion of such head, (1) make any of the facilities and services of such department, agency, or instrumentality available to the Committee; and (2) detail any of the personnel of such department, agency, or instrumentality to the Committee to assist the Committee in carrying out its duties.
+&emsp;“(3) License limitations, particularly the temporary nature of the license, have blocked many low-power broadcasters from having access to capital, and have severely hampered their ability to continue to provide quality broadcasting, programming, or improvements.
 
-(c) Members of the Committee shall serve without compensation for their work on the Committee. While engaged in the work of the Committee, members appointed from the private sector may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law and as the Chair, in consultation with the Assistant Secretary of Commerce for Communications and Information, may allow as needed, forpersons serving intermittently in the Government service (5 U.S.C. 5701–5707), to the extent funds are available for such purposes.
+&emsp;“(4) The passage of the Telecommunications Act of 1996 \[Pub. L. 104–104, see Short Title of 1996 Amendment note set out under section 609 of this title\] has added to the uncertainty of the future status of these stations by the lack of specific provisions regarding the permanency of their licenses, or their treatment during the transition to high definition, digital television.
 
-(d) To the extent permitted by law and subject to the availability of appropriations, the Department of Commerce shall provide the Committee with administrative services, staff, and other support services necessary for performance of the Committee's functions.
+&emsp;“(5) It is in the public interest to promote diversity in television programming such as that currently provided by low-power television stations to foreign-language communities.”
 
-(e) The Assistant Secretary of Commerce for Communications and Information, or his designee, shall perform the functions of the President under the Act, except that of reporting to the Congress, in accordance with the guidelines and procedures established by the Administrator of General Services.
+#### Executive Order No. 13038
 
-Sec. 4. <i>General</i>. The Committee shall terminate 30 days after submitting its report, unless extended by the President.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13038, Mar. 11, 1997, 62 F.R. 12065, as amended by Ex. Ord. No. 13062, §5, Sept. 29, 1997, 62 F.R. 51756; Ex. Ord. No. 13065, Oct. 22, 1997, 62 F.R. 55329; Ex. Ord. No. 13081, Apr. 30, 1998, 63 F.R. 24385; Ex. Ord. No. 13102, Sept. 25, 1998, 63 F.R. 52125, which established the Advisory Committee on the Public Interest Obligations of Digital Television Broadcasters, was revoked by Ex. Ord. No. 13138, §3(b), Sept. 30, 1999, 64 F.R. 53880, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

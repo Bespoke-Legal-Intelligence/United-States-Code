@@ -7,16 +7,18 @@
 | [483\.](%C2%A7%2000483%20-%20Reports%20on%20transfers%20from%20high-priority%20readiness%20appropriations.md) | Reports on transfers from high-priority readiness appropriations. |
 | [484\.](%C2%A7%2000484%20-%20Annual%20report%20on%20aircraft%20inventory.md) | Annual report on aircraft inventory. |
 | [485\.](%C2%A7%2000485%20-%20Joint%20warfighting%20experimentation.md) | Joint warfighting experimentation. |
+| [486\.](%C2%A7%2000486%20-%20Quadrennial%20report%20on%20emerging%20operational%20concepts.md) | Quadrennial report on emerging operational concepts. |
+| [487\.](%C2%A7%2000487%20-%20Unit%20operations%20tempo%20and%20personnel%20tempo%20annual%20report.md) | Unit operations tempo and personnel tempo: annual report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>Pub. L. 105–261, div. A, title III, §373(d)(2), Oct. 17, 1998, 112 Stat. 1992, provided that, effective June 1, 2001, the table of sections for this chapter is amended by striking out item 482.</i>
-
 #### Amendments
 
+1999—Pub. L. 106–65, div. A, title II, §241(a)(2), title III, §361(d)(3), title IX, §923(b)(2), Oct. 5, 1999, 113 Stat. 550, 575, 725, added items 486 and 487 and repealed Pub. L. 105–261, §373(d)(2). See 1998 Amendment note below.
+
 1998—Pub. L. 105–261, div. A, title IX, §923(b)(2), title X, §1069(a)(1), Oct. 17, 1998, 112 Stat. 2105, 2135, substituted “Annual report” for “Report” in item 484 and added item 485.
+
+Pub. L. 105–261, div. A, title III, §373(d)(2), Oct. 17, 1998, 112 Stat. 1992, which directed amendment of analysis, effective June 1, 2001, by striking out item 482, was repealed by Pub. L. 106–65, div. A, title III, §361(d)(3), Oct. 5, 1999, 113 Stat. 575.
 
 1997—Pub. L. 105–85, div. A, title III, §§322(a)(2), 323(b), 324(a)(2), Nov. 18, 1997, 111 Stat. 1675, 1677, substituted “Quarterly reports: personnel and unit readiness” for “Quarterly readiness reports” in item 482 and added items 483 and 484.
 
@@ -34,3 +36,5 @@ Pub. L. 104–106, div. A, title III, §361(a)(2), Feb. 10, 1996, 110 Stat. 273,
 - [&sect; 00483 - Reports on transfers from high-priority readiness appropriations](%C2%A7%2000483%20-%20Reports%20on%20transfers%20from%20high-priority%20readiness%20appropriations.md)
 - [&sect; 00484 - Annual report on aircraft inventory](%C2%A7%2000484%20-%20Annual%20report%20on%20aircraft%20inventory.md)
 - [&sect; 00485 - Joint warfighting experimentation](%C2%A7%2000485%20-%20Joint%20warfighting%20experimentation.md)
+- [&sect; 00486 - Quadrennial report on emerging operational concepts](%C2%A7%2000486%20-%20Quadrennial%20report%20on%20emerging%20operational%20concepts.md)
+- [&sect; 00487 - Unit operations tempo and personnel tempo annual report](%C2%A7%2000487%20-%20Unit%20operations%20tempo%20and%20personnel%20tempo%20annual%20report.md)

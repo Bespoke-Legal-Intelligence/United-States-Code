@@ -18,7 +18,7 @@ Obligation of Authorized Amounts.—Funds authorized for deposit in an account u
 
 (c)
 
-Budget Reports.—In proposing the budget for any fiscal year pursuant to section 1105 of title 31, United States Code, the President shall set forth separately the amounts requested for environmental restoration programs of the Department of Defense and of each of the military departments under this chapter and under any other Act.
+Budget Reports.—In proposing the budget for any fiscal year pursuant to section 1105 of title 31, the President shall set forth separately the amounts requested for environmental restoration programs of the Department of Defense and of each of the military departments under this chapter and under any other Act.
 
 (d)
 
@@ -30,15 +30,19 @@ Credit of Amounts Recovered.—The following amounts shall be credited to the ap
 
 (e)
 
-Payments of Fines and Penalties.—None of the funds appropriated to the EnvironmentalRestoration Account, Defense, for fiscal years 1995 through 1999, or to any environmental restoration account of a military department for fiscal years 1997 through 1999, may be used for the payment of a fine or penalty (including any supplemental environmental project carried out as part of such penalty) imposed against the Department of Defense or a military department unless the act or omission for which the fine or penalty is imposed arises out of an activity funded by the environmental restoration account concerned and the payment of the fine or penalty has been specifically authorized by law.
+Payments of Fines and Penalties.—None of the funds appropriated to the Environmental Restoration Account, Defense, for fiscal years 1995 through 2010, or to any environmental restoration account of a military department for fiscal years 1997 through 2010, may be used for the payment of a fine or penalty (including any supplemental environmental project carried out as part of such penalty) imposed against the Department of Defense or a military department unless the act or omission for which the fine or penalty is imposed arises out of an activity funded by the environmental restoration account concerned and the payment of the fine or penalty has been specifically authorized by law.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1722; amended Pub. L. 103–337, div. A, title III, §321, Oct. 5, 1994, 108 Stat. 2710; Pub. L. 104–106, div. A, title III, §322, Feb. 10, 1996, 110 Stat. 252; Pub. L. 104–201, div. A, title III, §322(a)(1), Sept. 23, 1996, 110 Stat. 2477.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1722; amended Pub. L. 103–337, div. A, title III, §321, Oct. 5, 1994, 108 Stat. 2710; Pub. L. 104–106, div. A, title III, §322, Feb. 10, 1996, 110 Stat. 252; Pub. L. 104–201, div. A, title III, §322(a)(1), Sept. 23, 1996, 110 Stat. 2477; Pub. L. 106–65, div. A, title III, §321, title X, §1066(a)(27), Oct. 5, 1999, 113 Stat. 560, 772.)
 
 #### References in Text
 
-CERCLA, referred to in subsec. (d)(1), means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+CERCLA, referred to in subsec. (d)(1), means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11,1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 #### Amendments
+
+1999—Subsec. (c). Pub. L. 106–65, §1066(a)(27), struck out “United States Code,” after “title 31,”.
+
+Subsec. (e). Pub. L. 106–65, §321, substituted “through 2010,” for “through 1999,” in two places.
 
 1996—Pub. L. 104–201 substituted “accounts” for “transfer account” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (f) establishing the Defense Environmental Restoration Account and providing for deposits into and withdrawals from the Account.
 

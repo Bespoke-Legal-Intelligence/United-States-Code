@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The amount allowable as a credit under subsection (a) for any taxable year (determined without regard to subsection (c)) shall be reduced (but not below zero) by an amount which bears the same ratio to the amount so allowable (determined without regard to this paragraph but with regard to paragraph (1)) as—
+&emsp;&emsp;The amount allowable as a credit under subsection (a) for any taxable year (determined without regard to subsection (c)) shall be reduced (but not below zero) by anamount which bears the same ratio to the amount so allowable (determined without regard to this paragraph but with regard to paragraph (1)) as—
 
 &emsp;&emsp;&emsp;(i) the amount (if any) by which the taxpayer's adjusted gross income exceeds $75,000, bears to
 
@@ -46,7 +46,7 @@
 
 #### (c) Carryforwards of unused credit
 
-If the credit allowable under subsection (a) for any taxable year exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section and section 1400C),such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year. No credit may be carried forward under this subsection to any taxable year following the fifth taxable year after the taxable year in which the credit arose. For purposes of the preceding sentence, credits shall be treated as used on a first-in first-out basis.
+If the credit allowable under subsection (a) for any taxable year exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section and section 1400C), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year. No credit may be carried forward under this subsection to any taxable year following the fifth taxable year after the taxable year in which the credit arose. For purposes of the preceding sentence, credits shall be treated as used on a first-in first-out basis.
 
 #### (d) Definitions
 

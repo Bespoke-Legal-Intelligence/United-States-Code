@@ -2,7 +2,7 @@
 
 #### (a) Persons eligible; terms and conditions of service; Federal employee status; racial, sex, religious, or color discrimination
 
-The President may enroll in the Peace Corps for service abroad qualified citizens and nationals of the United States (referred to in thischapter as “volunteers”). The terms and conditions of the enrollment, training, compensation, hours of work, benefits, leave, termination, and all other terms and conditions of the service of volunteers shall be exclusively those set forth in this chapter and those consistent therewith which the President may prescribe; and, except as provided in this chapter, volunteers shall not be deemed officers or employees or otherwise in the service or employment of, or holding office under, the United States for any purpose. In carrying out this subsection, there shall be no discrimination against any person on account of race, sex, creed, or color.
+The President may enroll in the Peace Corps for service abroad qualified citizens and nationals of the United States (referred to in this chapter as “volunteers”). The terms and conditions of the enrollment, training, compensation, hours of work, benefits, leave, termination, and all other terms and conditions of the service of volunteers shall be exclusively those set forth in this chapter and those consistent therewith which the President may prescribe; and, except as provided in this chapter, volunteers shall not be deemed officers or employees or otherwise in the service or employment of, or holding office under, the United States for any purpose. In carrying out this subsection, there shall be no discrimination against any person on account of race, sex, creed, or color.
 
 #### (b) Living allowances, travel, leave and related items; transfers of supplies and equipment
 
@@ -24,7 +24,7 @@ Volunteers shall receive such health care during their service, applicants for e
 
 &emsp;(A) for the purposes of section 816(a) of the Foreign Service Act of 1980 \[22 U.S.C. 4056(a)\] and every other Act establishing a retirement system for civilian employees of any United States Government agency; and
 
-&emsp;(B) except as otherwise determined by the President, for the purposes of determining seniority, reduction in force, and layoff rights, leave entitlement, and other rights and privileges based upon length of service under the laws administered by the Director of the Office of Personnel Management, the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\], and every other Act establishing or governing terms and conditions of service of civilian employees of the United States Government: <i>Provided</i>, That service of a volunteer shall not be credited toward completion of any probationary or trial period or completion of any service requirement for career appointment.
+&emsp;(B) except as otherwise determined by the President, for the purposes of determining seniority, reduction in force, and layoff rights, leave entitlement, and other rights and privileges based upon length of service under the laws administered by the Office of Personnel Management, the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\], and every other Act establishing or governing terms and conditions of service of civilian employees of the United States Government: <i>Provided</i>, That service of a volunteer shall not be credited toward completion of any probationary or trial period or completion of any service requirement for career appointment.
 
 (2) For the purposes of paragraph (1)(A) of this subsection, volunteers and volunteer leaders shall be deemed to be receiving compensation during their service at the respective rates of readjustment allowances payable under subsection (c) of this section and section 2505(1) of this title.
 
@@ -34,7 +34,7 @@ The President may detail or assign volunteers or otherwise make them available t
 
 #### (h) Tort claims; absentee voting; general average contributions for transportation of baggage; check cashing and currency exchange; claims for overpayment of pay; passport fees
 
-Volunteers shall be deemed employees of the United States Government for the purposes of the Federal Tort Claims Act and any other Federal tort liability statute, the Federal Voting Assistance Act of 1955 <sup>1</sup> \[42 U.S.C. 1973cc et seq.\], section 3342(a), (b), and (c)(1) of title 31, section 5584 of title 5 (and readjustment allowances paid under this chapter shall be considered as pay for purposes of such section), and section 214 of this title.
+Volunteers shall be deemed employees of the United States Government for the purposes of the Federal Tort Claims Act and any other Federal tort liability statute, section 3342 of title 31, section 5732 and section 5584 of title 5 (and readjustment allowances paid under this chapter shall be considered as pay for purposes of such section), and section 214 of this title.
 
 #### (i) Termination of service
 
@@ -42,7 +42,7 @@ The service of a volunteer may be terminated at any time at the pleasure of the 
 
 #### (j) Oath of office
 
-Upon enrollment in the Peace Corps, every volunteer shall take the oath prescribed for persons appointed to any office of honor or profit by section 3331 of title 5, and shall swear (or affirm) that he does not advocate the overthrow of our constitutional form of government in the United States, and that he is not a member of an organization that advocates the overthrow of our constitutional form of government in the United States, knowing that such organization so advocates.
+Upon enrollment in the Peace Corps, every volunteer shall take the oath prescribed for persons appointed to any office of honor or profit by section 3331 of title 5.
 
 #### (k) Counseling programs for returned volunteers
 
@@ -68,7 +68,7 @@ The minor children of a volunteer living with the volunteer may receive—
 
 The costs of packing and unpacking, transporting to and from a place of storage, and storing the furniture and household and personal effects of a volunteer who has one or more minor children at the time of his entering a period of pre-enrollment training may be paid from the date of his departure from his place of residence to enter training until no later than three months after termination of his service.
 
-(Pub. L. 87–293, title I, §5, Sept. 22, 1961, 75 Stat. 613; Pub. L. 88–200, §2, Dec. 13, 1963, 77 Stat. 359; Pub. L. 89–134, §2, Aug. 24, 1965, 79 Stat. 549; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 661, 662; Pub. L. 89–572, §2(a), Sept. 13, 1966, 80 Stat. 765; Pub. L. 91–99, §2, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, §3, July 24, 1970, 84 Stat. 464; Pub. L. 94–130, §§4, 6, Nov. 14, 1975, 89 Stat. 684; Pub. L. 95–331, §4, Aug. 2, 1978, 92 Stat. 414; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–465, title II, §2202(a), Oct. 17, 1980, 94 Stat. 2157; Pub. L. 97–113, title VI, §§604(b), 606, Dec. 29, 1981, 95 Stat. 1543; Pub. L. 99–83, title XI, §1105(b), Aug. 8, 1985, 99 Stat. 276; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–12, §9(j), Apr. 30, 1997, 111 Stat. 27.)
+(Pub. L. 87–293, title I, §5, Sept. 22, 1961, 75 Stat. 613; Pub. L. 88–200, §2, Dec. 13, 1963, 77 Stat. 359; Pub. L. 89–134, §2, Aug. 24, 1965, 79 Stat. 549; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 661, 662; Pub. L. 89–572, §2(a), Sept. 13, 1966, 80 Stat. 765; Pub. L. 91–99, §2, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, §3, July 24, 1970, 84 Stat. 464; Pub. L. 94–130, §§4, 6, Nov. 14, 1975, 89 Stat. 684; Pub. L. 95–331, §4, Aug. 2, 1978, 92 Stat. 414; Pub. L. 96–465, title II, §2202(a), Oct. 17, 1980, 94 Stat. 2157; Pub. L. 97–113, title VI, §§604(b), 606, Dec. 29, 1981, 95 Stat. 1543; Pub. L. 99–83, title XI, §1105(b), Aug. 8, 1985, 99 Stat. 276; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–12, §9(j), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–30, §2(b)(1)–(3), May 21, 1999, 113 Stat. 55.)
 
 #### References in Text
 
@@ -82,15 +82,13 @@ The Foreign Service Act of 1980, referred to in subsec. (f)(1), is Pub. L. 96–
 
 The Federal Tort Claims Act, referred to in subsec. (h), is classified generally to section 1346(b) and chapter 171 (§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
 
-The Federal Voting Assistance Act of 1955, referred to in subsec. (h), is act Aug. 9, 1955, ch. 656, 69 Stat. 584, as amended, which was classified principally to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare, and which was repealed by Pub. L. 99–410, title II, §203, Aug. 28, 1986, 100 Stat. 930. See section 1973ff et seq. of Title 42.
-
-#### Codification
-
-In subsec. (h), “section 3342(a), (b), and (c)(1) of title 31” substituted for “the Act of December 23, 1944, chapter 716, section 1, as amended (31 U.S.C. 492a)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
-
-In subsec. (j), “section 3331 of title 5” substituted for “section 1757 of the Revised Statutes of the United States, as amended (5 U.S.C. 16)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
-
 #### Amendments
+
+1999—Subsec. (f)(1)(B). Pub. L. 106–30, §2(b)(1), substituted “Office of Personnel Management” for “Civil Service Commission”.
+
+Subsec. (h). Pub. L. 106–30, §2(b)(2), substituted “section 3342 of title 31, section 5732 and” for “the Federal Voting Assistance Act of 1955 (5 U.S.C. 2171 et seq.), the Act of June 4, 1954, chapter 264, section 4 (5 U.S.C. 73b–5), the Act of December 23, 1944, chapter 716, section 1, as amended (31 U.S.C. 492a),”.
+
+Subsec. (j). Pub. L. 106–30, §2(b)(3), substituted “section 3331 of title 5.” for “section 1757 of the Revised Statutes of the United States, as amended (5 U.S.C. 16), and shall swear (or affirm) that he does not advocate the overthrow of our constitutional form of government in the United States, and that he is not a member of an organization that advocates the overthrow of our constitutional form of government in the United States, knowing that such organization so advocates.”
 
 1997—Subsec. (e). Pub. L. 105–12 inserted at end “Health care may not be provided under this subsection in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997.”
 
@@ -162,10 +160,6 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
-#### Transfer of Functions
-
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (f)(1)(B), pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
-
 #### Delegation of Functions
 
 Functions of President under this section, except those under subsec. (f)(1)(B), delegated to Director of Peace Corps, with function of prescribing conditions in subsec. (e) to be exercised in consultation with head of agency responsible for facility, by sections 1–103, 1–106, and 1–301(c) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
@@ -224,7 +218,5 @@ Sec. 5. Any law, Executive Order, or regulation which would disqualify an applic
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2505, 2509 of this title; title 5 sections 8142, 8332, 8334, 8422; title 26 sections 912, 3401, 9801; title 29 section 1181; title 42 sections 300gg, 409, 14402.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 2505, 2509, 2715b of this title; title 5 sections 8142, 8332, 8334, 8422; title 26 sections 912, 3401, 9801; title 29 section 1181; title 42 sections 300gg, 409, 14402.
 

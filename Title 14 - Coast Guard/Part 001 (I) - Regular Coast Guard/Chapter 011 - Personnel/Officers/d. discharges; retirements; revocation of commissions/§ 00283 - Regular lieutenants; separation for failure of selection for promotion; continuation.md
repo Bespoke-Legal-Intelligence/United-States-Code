@@ -26,7 +26,7 @@
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–324 designated existing provisions as par. (1), struck out “Upon the completion of such a term he shall, unless selected for further continuation, be honorably discharged with severance pay computed under section 286 of this title, or, if eligible for retirement under any law, be retired.” at end of par. (1), and added par. (2).
+1996—Subsec. (b). Pub. L. 104–324 designated existing provisions as par. (1), struck out “Upon the completionof such a term he shall, unless selected for further continuation, be honorably discharged with severance pay computed under section 286 of this title, or, if eligible for retirement under any law, be retired.” at end of par. (1), and added par. (2).
 
 1982—Subsec. (b). Pub. L. 97–295 substituted “of this title” for “of this chapter” after “section 251”.
 

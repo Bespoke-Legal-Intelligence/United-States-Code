@@ -2,7 +2,7 @@
 
 #### (a) Policies, procedures, and recommendations
 
-The Secretary of the Interior, with such advice and assistance as he may require from the Assistant Secretary for Fish and Wildlife, shall consider and determine the policies and procedures that are necessary and desirable in carrying out efficiently and in the public interest the laws relating to fish and wildlife. The Secretary, with the assistance of the departmental staff herein authorized, shall—
+The Secretary of the Interior, with such advice and assistance as he may require from theAssistant Secretary for Fish and Wildlife, shall consider and determine the policies and procedures that are necessary and desirable in carrying out efficiently and in the public interest the laws relating to fish and wildlife. The Secretary, with the assistance of the departmental staff herein authorized, shall—
 
 &emsp;(1) develop and recommend measures which are appropriate to assure the maximum sustainable production of fish and fishery products and to prevent unnecessary and excessive fluctuations in such production;
 
@@ -102,7 +102,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (D) Treasury account
 
-&emsp;&emsp;Amounts received by the Secretary of the Interior as a result of projects and programsunder subparagraph (B) shall be deposited in a separate account in the Treasury. Amounts in the account that are attributable to activities at a particular refuge or complex of geographically related refuges shall be available to the Secretary of the Interior, without further appropriation, to pay the costs of incidental expenses related to volunteer activities, and to carry out cooperative agreements for the refuge or complex of refuges.
+&emsp;&emsp;Amounts received by the Secretary of the Interior as a result of projects and programs under subparagraph (B) shall be deposited in a separate account in the Treasury. Amounts in the account that are attributable to activities at a particular refuge or complex of geographically related refuges shall be available to the Secretary of the Interior, without further appropriation, to pay the costs of incidental expenses related to volunteer activities, and to carry out cooperative agreements for the refuge or complex of refuges.
 
 #### (e) Refuge education program enhancement
 

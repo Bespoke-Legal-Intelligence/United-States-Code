@@ -12,7 +12,7 @@ The purposes of the Center shall be—
 
 #### (b) Authority of Center
 
-The Center is authorized, consistent with this chapter, to develop such programs, activities,and services as it considers appropriate to carry out the purpose of this chapter. Such authority shall include the following:
+The Center is authorized, consistent with this chapter, to develop such programs, activities, and services as it considers appropriate to carry out the purpose of this chapter. Such authority shall include the following:
 
 &emsp;(1) The development and implementation of educational programs for secondary and post-secondary schools and colleges designed—
 

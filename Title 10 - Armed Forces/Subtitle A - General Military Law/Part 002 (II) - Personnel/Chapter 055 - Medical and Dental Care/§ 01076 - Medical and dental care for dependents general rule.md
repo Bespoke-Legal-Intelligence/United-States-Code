@@ -14,7 +14,15 @@
 
 &emsp;(C) A member who died from an injury, illness, or disease incurred or aggravated in the line of duty while the member remained overnight immediately before the commencement of inactive-duty training, or while the member remained overnight between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site was outside reasonable commuting distance from the member's residence.
 
-&emsp;(D) A member who incurred or aggravated an injury, illness, or disease in the line of duty while serving on active duty for a period of 30 days or less (or while traveling to or from the place of such duty) and the member's orders are modified or extended, while the member is being treated for (or recovering from) the injury, illness, or disease, so as to result in active duty for a period of more than 30 days. However, this subparagraph entitles the dependent to medical and dental care only while the member remains on active duty.
+&emsp;(D) A member on active duty who is entitled to benefits under subsection (e) of section 1074a of this title by reason of paragraph (1), (2), or (3) of subsection (a) of such section.
+
+&emsp;(E) A member who died from an injury, illness, or disease incurred or aggravated while the member—
+
+&emsp;&emsp;(i) was serving on funeral honors duty under section 12503 of this title or section 115 of title 32;
+
+&emsp;&emsp;(ii) was traveling to or from the place at which the member was to so serve; or
+
+&emsp;&emsp;(iii) remained overnight at or in the vicinity of that place immediately before so serving, if the place is outside reasonable commuting distance from the member's residence.
 
 (b) Under regulations to be prescribed jointly by the administering Secretaries, a dependent of a member or former member—
 
@@ -46,7 +54,7 @@
 
 (B) A determination of whether an offense involved abuse of a dependent of the member shall be made in accordance with regulations prescribed by the administering Secretary for such uniformed service.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(3), Sept. 30, 1966, 80 Stat. 862; Pub. L. 95–397, title III, §301, Sept. 30, 1978, 92 Stat. 849; Pub. L. 96–513, title V, §511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–252, title X, §1004(b), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–557, §19(5), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title VI, §652(a), Nov. 8, 1985, 99 Stat. 656; Pub. L. 99–661, div. A, title VI, §§604(f)(1)(C), 652(c), Nov. 14, 1986, 100 Stat. 3877, 3889; Pub. L. 100–456, div. A, title VI, §651(a), Sept. 29, 1988, 102 Stat. 1990; Pub. L. 101–189, div. A, title VI, §653(a)(4), title VII, §731(c)(1), Nov. 29, 1989, 103 Stat. 1462, 1482; Pub. L. 103–337, div. A, title VII, §§704(a), (b), title XVI, §1671(c)(7)(A), Oct. 5, 1994, 108 Stat. 2798, 2799, 3014; Pub. L. 104–106, div. A, title VII, §703, title XV, §1501(c)(11), Feb. 10, 1996, 110 Stat. 372, 499; Pub. L. 105–85, div. A, title V, §513(b), title X, §1073(d)(1)(D), Nov. 18, 1997, 111 Stat. 1730, 1905; Pub. L. 105–261, div. A, title VII, §732, Oct. 17, 1998, 112 Stat. 2071.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(3), Sept. 30, 1966, 80 Stat. 862; Pub. L. 95–397, title III, §301, Sept. 30, 1978, 92 Stat. 849; Pub. L. 96–513, title V, §511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–252, title X, §1004(b), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–557, §19(5), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title VI, §652(a), Nov. 8, 1985, 99 Stat. 656; Pub. L. 99–661, div. A, title VI, §§604(f)(1)(C), 652(c), Nov. 14, 1986, 100 Stat. 3877, 3889; Pub. L. 100–456, div. A, title VI, §651(a), Sept. 29, 1988, 102 Stat. 1990; Pub. L. 101–189, div. A, title VI, §653(a)(4), title VII, §731(c)(1), Nov. 29, 1989, 103 Stat. 1462, 1482; Pub. L. 103–337, div. A, title VII, §§704(a), (b), title XVI, §1671(c)(7)(A), Oct. 5, 1994, 108 Stat. 2798, 2799, 3014; Pub. L. 104–106, div. A, title VII, §703, title XV, §1501(c)(11), Feb. 10, 1996, 110 Stat. 372, 499; Pub. L. 105–85, div. A, title V, §513(b), title X, §1073(d)(1)(D), Nov. 18, 1997, 111 Stat. 1730, 1905; Pub. L. 105–261, div. A, title VII, §732, Oct. 17, 1998, 112 Stat. 2071; Pub. L. 106–65, div. A, title V, §578(i)(2), title VII, §705(c), Oct. 5, 1999, 113 Stat. 629, 684.)
 
 Historical and Revision Notes
 
@@ -105,6 +113,10 @@ Chapter 67 of this title as in effect before December 1, 1994, referred to in su
 A prior section 1076, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to use of post cards, waiver of registration, and voting by discharged persons, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+1999—Subsec. (a)(2)(D). Pub. L. 106–65, §705(c), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “A member who incurred or aggravated an injury, illness, or disease in the line of duty while serving on active duty for a period of 30 days or less (or while traveling to or from the place of such duty) and the member's orders are modified or extended, while the member is being treated for (or recovering from) the injury, illness, or disease, so as to result in active duty for a period of more than 30 days. However, this subparagraph entitles the dependent to medical and dental care only while the member remains on active duty.”
+
+Subsec. (a)(2)(E). Pub. L. 106–65, §578(i)(2), added subpar. (E).
 
 1998—Subsec. (e)(1). Pub. L. 105–261, §732(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraph (3), if an abused dependent of a former member of a uniformed service described in paragraph (4) needs medical or dental care for an injury or illness resulting from abuse by the member, the administering Secretary may, upon request of the abused dependent, furnish medical or dental care to the dependent for the treatment of such injury or illness in facilities of the uniformed services.”
 
@@ -168,7 +180,7 @@ Subsec. (e). Pub. L. 99–661, §652(c), added subsec. (e).
 
 1980—Subsecs. (b), (d). Pub. L. 96–513 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-1978—Subsec. (b). Pub. L. 95–397 substituted “Under regulations to be prescribed jointly by the Secretary of Defense and the Secretary of Health, Education, and Welfare, a dependent of a member or former member-” for “Under joint regulations to be prescribed by the Secretary of Defense and the Secretary of Health, Education, and Welfare, a dependent of a member or former member who is, or was at the time of his death, entitled to retired or retainer pay, or equivalent pay, may, upon request, be given the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff”, added pars. (1), (2), and provisions following par. (2) relating to medical and dental care on request in facilities of the uniformed services subject tothe availability of space, facilities and capabilities of staff, and excepting from such care provision a dependent of a member or former member until such member or former member would have attained age 60.
+1978—Subsec. (b). Pub. L. 95–397 substituted “Under regulations to be prescribed jointly by the Secretary of Defense and the Secretary of Health, Education, and Welfare, a dependent of a member or former member-” for “Under joint regulations to be prescribed by the Secretary of Defense and the Secretary of Health, Education, and Welfare, a dependent of a member or former member who is, or was at the time of his death, entitled to retired or retainer pay, or equivalent pay, may, upon request, be given the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff”, added pars. (1), (2), and provisions following par. (2) relating to medical and dental care on request in facilities of the uniformed services subject to the availability of space, facilities and capabilities of staff, and excepting from such care provision a dependent of a member or former member until such member or former member would have attained age 60.
 
 1966—Subsec. (b). Pub. L. 89–614 struck out provision which excepted from medical and dental care a member or former member who is, or was at the time of his death, entitled to retired pay under chapter 67 of this title and has served less than eight years on active duty (other than for training).
 

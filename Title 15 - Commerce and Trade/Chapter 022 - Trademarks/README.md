@@ -46,14 +46,14 @@
 | [1063\.](Subchapter%20001%20%28I%29%20-%20The%20Principal%20Register/%C2%A7%2001063%20-%20Opposition%20to%20registration.md) | Opposition to registration. |
 | [1064\.](Subchapter%20001%20%28I%29%20-%20The%20Principal%20Register/%C2%A7%2001064%20-%20Cancellation%20of%20registration.md) | Cancellation of registration. |
 | [1065\.](Subchapter%20001%20%28I%29%20-%20The%20Principal%20Register/%C2%A7%2001065%20-%20Incontestability%20of%20right%20to%20use%20mark%20under%20certain%20conditions.md) | Incontestability of right to use mark under certain conditions. |
-| [1066\.](Subchapter%20001%20%28I%29%20-%20The%20Principal%20Register/%C2%A7%2001066%20-%20Interference%3B%20declaration%20by%20Commissioner.md) | Interference; declaration by Commissioner. |
+| [1066\.](Subchapter%20001%20%28I%29%20-%20The%20Principal%20Register/%C2%A7%2001066%20-%20Interference%3B%20declaration%20by%20Director.md) | Interference; declaration by Director. |
 | [1067\.](Subchapter%20001%20%28I%29%20-%20The%20Principal%20Register/%C2%A7%2001067%20-%20Interference%2C%20opposition%2C%20and%20proceedings%20for%20concurrent%20use%20registration%20or%20for%20cancellation%3B%20notice%3B%20Trademark%20Trial%20and%20Appeal%20Board.md) | Interference, opposition, and proceedings for concurrent use registration or for cancellation; notice; Trademark Trial and Appeal Board. |
-| [1068\.](Subchapter%20001%20%28I%29%20-%20The%20Principal%20Register/%C2%A7%2001068%20-%20Action%20of%20Commissioner%20in%20interference%2C%20opposition%2C%20and%20proceedings%20for%20concurrent%20use%20registration%20or%20for%20cancellation.md) | Action of Commissioner in interference, opposition, and proceedings for concurrent use registration or for cancellation. |
+| [1068\.](Subchapter%20001%20%28I%29%20-%20The%20Principal%20Register/%C2%A7%2001068%20-%20Action%20of%20Director%20in%20interference%2C%20opposition%2C%20and%20proceedings%20for%20concurrent%20use%20registration%20or%20for%20cancellation.md) | Action of Director in interference, opposition, and proceedings for concurrent use registration or for cancellation. |
 | [1069\.](Subchapter%20001%20%28I%29%20-%20The%20Principal%20Register/%C2%A7%2001069%20-%20Application%20of%20equitable%20principles%20in%20inter%20partes%20proceedings.md) | Application of equitable principles in inter partes proceedings. |
 | [1070\.](Subchapter%20001%20%28I%29%20-%20The%20Principal%20Register/%C2%A7%2001070%20-%20Appeals%20to%20Trademark%20Trial%20and%20Appeal%20Board%20from%20decisions%20of%20examiners.md) | Appeals to Trademark Trial and Appeal Board from decisions of examiners. |
 | [1071\.](Subchapter%20001%20%28I%29%20-%20The%20Principal%20Register/%C2%A7%2001071%20-%20Appeal%20to%20courts.md) | Appeal to courts. |
 | (a) | Persons entitled to appeal; United States Court of Appeals for the Federal Circuit; waiver of civil action; election of civil action by adverse party; procedure. |
-| (b) | Civil action; persons entitled to; jurisdiction of court; status of Commissioner; procedure. |
+| (b) | Civil action; persons entitled to; jurisdiction of court; status of Director; procedure. |
 | [1072\.](Subchapter%20001%20%28I%29%20-%20The%20Principal%20Register/%C2%A7%2001072%20-%20Registration%20as%20constructive%20notice%20of%20claim%20of%20ownership.md) | Registration as constructive notice of claim of ownership. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -90,26 +90,29 @@
 | [1116\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001116%20-%20Injunctive%20relief.md) | Injunctive relief. |
 | (a) | Jurisdiction; service. |
 | (b) | Transfer of certified copies of court papers. |
-| (c) | Notice to Commissioner. |
+| (c) | Notice to Director. |
 | (d) | Civil actions arising out of use of counterfeit marks. |
 | [1117\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001117%20-%20Recovery%20for%20violation%20of%20rights.md) | Recovery for violation of rights. |
 | (a) | Profits; damages and costs; attorney fees. |
 | (b) | Treble damages for use of counterfeit mark. |
-| (c) | Election of award of statutory damages. |
+| (c) | Statutory damages for use of counterfeit marks. |
+| (d) | Statutory damages for violation of section 1125(d)(1). |
 | [1118\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001118%20-%20Destruction%20of%20infringing%20articles.md) | Destruction of infringing articles. |
 | [1119\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001119%20-%20Power%20of%20court%20over%20registration.md) | Power of court over registration. |
 | [1120\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001120%20-%20Civil%20liability%20for%20false%20or%20fraudulent%20registration.md) | Civil liability for false or fraudulent registration. |
 | [1121\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001121%20-%20Jurisdiction%20of%20Federal%20courts%3B%20State%20and%20local%20requirements%20that%20registered%20trademarks%20be%20altered%20or%20displayed%20differently%3B%20prohibition.md) | Jurisdiction of Federal courts; State and local requirements that registered trademarks be altered or displayed differently; prohibition. |
 | [1121a.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001121a%20-%20Transferred.md) | Transferred. |
-| [1122\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001122%20-%20Liability%20of%20States%2C%20instrumentalities%20of%20States%2C%20and%20State%20officials.md) | Liability of States, instrumentalities of States, and State officials. |
-| (a) | Waiver of sovereign immunity. |
-| (b) | Remedies. |
+| [1122\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001122%20-%20Liability%20of%20United%20States%20and%20States%2C%20and%20instrumentalities%20and%20officials%20thereof.md) | Liability of United States and States, and instrumentalities and officials thereof. |
+| (a) | Waiver of sovereign immunity by the United States. |
+| (b) | Waiver of sovereign immunity by States. |
+| (c) | Remedies. |
 | [1123\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001123%20-%20Rules%20and%20regulations%20for%20conduct%20of%20proceedings%20in%20Patent%20and%20Trademark%20Office.md) | Rules and regulations for conduct of proceedings in Patent and Trademark Office. |
 | [1124\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001124%20-%20Importation%20of%20goods%20bearing%20infringing%20marks%20or%20names%20forbidden.md) | Importation of goods bearing infringing marks or names forbidden. |
 | [1125\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001125%20-%20False%20designations%20of%20origin%2C%20false%20descriptions%2C%20and%20dilution%20forbidden.md) | False designations of origin, false descriptions, and dilution forbidden. |
 | (a) | Civil action. |
 | (b) | Importation. |
 | (c) | Remedies for dilution of famous marks. |
+| (d) | Cyberpiracy prevention. |
 | [1126\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001126%20-%20International%20conventions.md) | International conventions. |
 | (a) | Register of marks communicated by international bureaus. |
 | (b) | Benefits of section to persons whose country of origin is party to convention or treaty. |
@@ -121,6 +124,14 @@
 | (h) | Protection of foreign nationals against unfair competition. |
 | (i) | Citizens or residents of United States entitled to benefits of section. |
 | [1127\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001127%20-%20Construction%20and%20definitions%3B%20intent%20of%20chapter.md) | Construction and definitions; intent of chapter. |
+| [1128\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001128%20-%20National%20Intellectual%20Property%20Law%20Enforcement%20Coordination%20Council.md) | National Intellectual Property Law Enforcement Coordination Council. |
+| (a) | Establishment. |
+| (b) | Duties. |
+| (c) | Consultation required. |
+| (d) | Non-derogation. |
+| (e) | Report. |
+| (f) | Funding. |
+| [1129\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001129%20-%20Cyberpiracy%20protections%20for%20individuals.md) | Cyberpiracy protections for individuals. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -134,7 +145,7 @@ The Trade-Mark Act of 1905 superseded the Trade-Mark Act of Mar. 3, 1881, ch. 13
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 18 section 2320; title 19 section 1337; title 22 section 2141c; title 36 section 220506; title 48 section 1643.
+This chapter is referred to in section 1129 of this title; title 18 section 2320; title 19 section 1337; title 22 section 2141c; title 36 section 220506; title 48 section 1643.
 
 
 ---

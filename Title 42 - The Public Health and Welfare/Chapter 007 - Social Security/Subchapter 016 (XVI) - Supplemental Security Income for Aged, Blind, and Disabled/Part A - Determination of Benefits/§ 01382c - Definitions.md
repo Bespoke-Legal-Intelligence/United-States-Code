@@ -12,7 +12,7 @@
 
 (3)(A) Except as provided in subparagraph (C), an individual shall be considered to be disabled for purposes of this subchapter if he is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than twelve months.
 
-(B) For purposes of subparagraph (A), an individual shall be determined to be under a disability only if his physical or mental impairment or impairments are of such severity that he is not only unable to do his previous work but cannot, considering his age, education, and work experience, engage in any other kind of substantial gainful work which exists in the national economy, regardless of whether such work exists in the immediate area in which he lives, or whether a specific job vacancy exists for him, or whether he would be hired if he applied for work. For purposes of the preceding sentence (with respect to any individual), “work which exists in the national economy” means work which exists in significant numbers either in the region where such individual lives or in several regions of the country.
+(B) For purposes of subparagraph (A), an individual shall be determined to be under a disability only if his physical or mental impairment or impairments are of such severity that he is not only unable to do his previous work but cannot, considering his age, education, and work experience, engage in any other kind of substantial gainful work which exists in the national economy, regardless of whether such work exists in the immediate area in which he lives, or whether a specific job vacancy exists for him, or whether he would be hired if he applied for work. For purposes of the preceding sentence (with respect to any individual), “work whichexists in the national economy” means work which exists in significant numbers either in the region where such individual lives or in several regions of the country.
 
 (C)(i) An individual under the age of 18 shall be considered disabled for the purposes of this subchapter if that individual has a medically determinable physical or mental impairment, which results in marked and severe functional limitations, and which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than 12 months.
 
@@ -52,7 +52,7 @@
 
 (IV) If the representative payee refuses to comply without good cause with the requirements of subclause (III), the Commissioner of Social Security shall, if the Commissioner determines it is in the best interest of the individual, promptly suspend payment of benefits to the representative payee, and provide for payment of benefits to an alternative representative payee of the individual or, if the interest of the individual under this subchapter would be served thereby, to the individual.
 
-(V) Subclause (III) shall not apply to the representative payee of any individual with respect to whom the Commissioner determines such application would be inappropriate or unnecessary. In making such determination, the Commissioner shall take into consideration the nature of the individual's impairment (or combinationof impairments). Section 1383(c) of this title shall not apply to a finding by the Commissioner that the requirements of subclause (III) should not apply to an individual's representative payee.
+(V) Subclause (III) shall not apply to the representative payee of any individual with respect to whom the Commissioner determines such application would be inappropriate or unnecessary. In making such determination, the Commissioner shall take into consideration the nature of the individual's impairment (or combination of impairments). Section 1383(c) of this title shall not apply to a finding by the Commissioner that the requirements of subclause (III) should not apply to an individual's representative payee.
 
 (VI) Subclause (I) shall not apply in the case of an individual described in that subclause who, at the time of the individual's initial disability determination, the Commissioner determines has an impairment that is not expected to improve within 12 months after the birth of that individual, and who the Commissioner schedules for a continuing disability review at a date that is after the individual attains 1 year of age.
 
@@ -124,7 +124,7 @@
 
 (3) For purposes of determining eligibility for and the amount of benefits for any individual who is an alien, such individual's income and resources shall be deemed to include the income and resources of his sponsor and such sponsor's spouse (if such alien has a sponsor) as provided in section 1382j of this title. Any such income deemed to be income of such individual shall be treated as unearned income of such individual.
 
-(4) For purposes of paragraphs (1) and (2), a spouse or parent (or spouse of such a parent) who is absent from the household in which the individual lives due solely to a duty assignment as a member of the Armed Forces on active duty shall, in the absence of evidence to the contrary, be deemed to be living in the same household as the individual.
+(4) For purposes of paragraphs (1) and (2), a spouse or parent (or spouse of such a parent)who is absent from the household in which the individual lives due solely to a duty assignment as a member of the Armed Forces on active duty shall, in the absence of evidence to the contrary, be deemed to be living in the same household as the individual.
 
 (Aug. 14, 1935, ch. 531, title XVI, §1614, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1471; amended Pub. L. 93–233, §9, Dec. 31, 1973, 87 Stat. 957; Pub. L. 96–265, title II, §203(a), title III, §§302(a)(2), 303(c)(1), title V, §504(a), June 9, 1980, 94 Stat. 449, 450, 453, 471; Pub. L. 98–369, div. B, title VI, §2663(g)(6), (7), July 18, 1984, 98 Stat. 1168, 1169; Pub. L. 98–460, §§2(c), 3(a)(2), 4(b), 8(b), 10(b), Oct. 9, 1984, 98 Stat. 1796, 1799, 1800, 1804, 1805; Pub. L. 99–643, §4(d)(2), (3)(A), Nov. 10, 1986, 100 Stat. 3577; Pub. L. 101–239, title VIII, §§8009(b), 8010(a), 8012(a), Dec. 19, 1989, 103 Stat. 2463, 2464; Pub. L. 101–508, title V, §5036(a), Nov. 5, 1990, 104 Stat. 1388–225; Pub. L. 101–649, title I, §162(e)(5), Nov. 29, 1990, 104 Stat. 5011; Pub. L. 103–66, title XIII, §§13733(a), 13734(a), Aug. 10, 1993, 107 Stat. 662; Pub. L. 103–296, title I, §107(a)(4), title II, §201(b)(4)(A), Aug. 15, 1994, 108 Stat. 1478, 1505; Pub. L. 103–432, title II, §221(a), Oct. 31, 1994, 108 Stat. 4462; Pub. L. 104–121, title I, §105(b)(1), Mar. 29, 1996, 110 Stat. 853; Pub. L. 104–193, title II, §§204(c)(1), 211(a), (c), 212(a), (b)(1), (c), Aug. 22, 1996, 110 Stat. 2188, 2189, 2192, 2193; Pub. L. 105–33, title V, §5522(a), (d), Aug. 5, 1997, 111 Stat. 622, 623.)
 
@@ -206,7 +206,7 @@ Subsec. (a)(4), (5). Pub. L. 99–643, §4(d)(3)(A), redesignated par. (5) as (4
 
 “(B) The term ‘period of trial work’, with respect to an individual who is an aged, blind, or disabled individual solely by reason of disability (as determined under paragraph (3) of this subsection), means a period of months beginning and ending as provided in subparagraphs (C) and (D).
 
-“(C) A period of trial work for any individual shall begin with the month in which he becomes eligible for benefits under this subchapter on the basis of his disability; but no such period may begin for an individual who is eligible for benefits under this subchapter on thebasis of a disability if he has had a previous period of trial work while eligible for benefits on the basis of the same disability.
+“(C) A period of trial work for any individual shall begin with the month in which he becomes eligible for benefits under this subchapter on the basis of his disability; but no such period may begin for an individual who is eligible for benefits under this subchapter on the basis of a disability if he has had a previous period of trial work while eligible for benefits on the basis of the same disability.
 
 “(D) A period of trial work for any individual shall end with the close of whichever of the following months is the earlier:
 
@@ -280,7 +280,7 @@ Application to current recipients.—
 
 &emsp;“(A)
 
-Eligibility redeterminations.—During the period beginning on the date of the enactment of this Act \[Aug. 22, 1996\] and ending on the date which is 18 months after such date of enactment, the Commissioner of Social Security shall redetermine the eligibility of any individual under age 18 who is eligible for supplemental security income benefits by reason of disability under title XVI of the Social Security Act \[this subchapter\] as of the date of the enactment of this Act and whose eligibility for such benefits may terminate by reason of the provisions of, or amendments made by, subsections (a) and (b) of this section. Any redetermination required by the preceding sentence that is not performed before the end of the period described in the preceding sentence shall be performed as soon as is practicable thereafter. With respect to any redetermination under this subparagraph—
+Eligibility redeterminations.—During the period beginning on the date of the enactment of this Act \[Aug. 22, 1996\] and ending on the date which is 18 months after such date of enactment, the Commissioner of Social Security shall redetermine the eligibility of any individual under age 18 who is eligible for supplemental security income benefits by reasonof disability under title XVI of the Social Security Act \[this subchapter\] as of the date of the enactment of this Act and whose eligibility for such benefits may terminate by reason of the provisions of, or amendments made by, subsections (a) and (b) of this section. Any redetermination required by the preceding sentence that is not performed before the end of the period described in the preceding sentence shall be performed as soon as is practicable thereafter. With respect to any redetermination under this subparagraph—
 
 &emsp;&emsp;“(i) section 1614(a)(4) of the Social Security Act (42 U.S.C. 1382c(a)(4)) shall not apply;
 
@@ -300,7 +300,7 @@ Notice.—Not later than January 1, 1997, the Commissioner of Social Security sh
 
 “(3)
 
-Report.—The Commissioner of Social Security shall report to the Congress regarding the progressmade in implementing the provisions of, and amendments made by, this section \[amending this section, sections 665e and 901 of Title 2, The Congress, and provisions set out as a note under section 401 of this title\] on child disability evaluations not later than 180 days after the date of the enactment of this Act \[Aug. 22, 1996\].
+Report.—The Commissioner of Social Security shall report to the Congress regarding the progress made in implementing the provisions of, and amendments made by, this section \[amending this section, sections 665e and 901 of Title 2, The Congress, and provisions set out as a note under section 401 of this title\] on child disability evaluations not later than 180 days after the date of the enactment of this Act \[Aug. 22, 1996\].
 
 “(4)
 
@@ -364,7 +364,7 @@ Section 8012(b) of Pub. L. 101–239 provided that: “The amendment made by sub
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–643 effective July 1, 1987, except as otherwise provided, see section 10(b) of Pub. L. 99–643, set out as a note under section 1396a of this title.
+Amendment by Pub. L. 99–643 effective July 1, 1987, except as otherwise provided, see section 10(b) of Pub.L. 99–643, set out as a note under section 1396a of this title.
 
 #### Effective Date of 1984 Amendments
 
@@ -410,5 +410,5 @@ Enactment of provisions of Pub. L. 92–603, eff. Jan. 1, 1974, not applicable t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1382, 1382j, 1383, 1383b, 1396a, 1396d, 1396p, 1437j, 6862, 8624 of this title; title 8 sections 1255a, 1612.
+This section is referred to in sections 1320b–19, 1382, 1382j, 1383, 1383b, 1396a, 1396d, 1396p, 1437j, 6862, 8624 of this title; title 8 sections 1255a, 1612.
 

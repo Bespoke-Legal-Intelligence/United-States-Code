@@ -120,7 +120,7 @@ Section 1(b) of Pub. L. 97–412 provided that: “The authority granted in subs
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–60 effective Oct. 1, 1979, see section 209 of Pub. L. 96–60, set out as an Effective Datenote under section 1469 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–60 effective Oct. 1, 1979, see section 209 of Pub. L. 96–60, set out as a note under section 1471 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1978 Amendment
 

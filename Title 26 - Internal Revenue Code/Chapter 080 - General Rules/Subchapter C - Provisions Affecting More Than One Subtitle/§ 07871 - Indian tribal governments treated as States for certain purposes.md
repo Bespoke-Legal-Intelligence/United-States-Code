@@ -138,7 +138,7 @@ For the purposes specified in subsection (a), a subdivision of an Indian tribal 
 
 For purposes of this section, the term “essential governmental function” shall not include any function which is not customarily performed by State and local governments with general taxing powers.
 
-(Added Pub. L. 97–473, title II, §202(a), Jan. 14, 1983, 96 Stat. 2608; amended Pub. L. 98–21, title I, §122(c)(6), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title IV, §474(r)(41), title X, §1065(b), July 18, 1984, 98 Stat. 847, 1048; Pub. L. 99–514, title I, §§112(b)(4), 123(b)(3), title XIII, §1301(j)(6), (7), title XVIII, §§1878(i), 1899A(65), Oct. 22, 1986, 100 Stat. 2109, 2113, 2658, 2905, 2962; Pub. L. 100–203, title X, §10632(a), (b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 103–66, title XIII, §13222(d), Aug. 10, 1993, 107 Stat. 481.)
+(Added Pub. L. 97–473, title II, §202(a), Jan. 14, 1983, 96 Stat. 2608; amended Pub. L. 98–21, title I, §122(c)(6), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title IV, §474(r)(41), title X, §1065(b), July 18, 1984, 98 Stat. 847, 1048; Pub. L. 99–514, title I, §§112(b)(4), 123(b)(3), title XIII, §1301(j)(6), (7), title XVIII, §§1878(i), 1899A(65), Oct. 22, 1986, 100 Stat. 2109, 2113, 2658, 2905, 2962; Pub. L. 100–203,title X, §10632(a), (b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 103–66, title XIII, §13222(d), Aug. 10, 1993, 107 Stat. 481.)
 
 #### Amendments
 

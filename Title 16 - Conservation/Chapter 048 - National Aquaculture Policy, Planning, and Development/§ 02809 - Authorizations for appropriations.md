@@ -26,7 +26,7 @@ For purposes of carrying out the provisions of this chapter, there are authorize
 
 1985—Pars. (1) to (3). Pub. L. 99–198 inserted provisions authorizing appropriations of $1,000,000 for each of fiscal years 1986, 1987, and 1988.
 
-1984—Pars. (1), (2). Pub. L. 98–623 substituted provisions authorizing appropriations of $2,000,000 for each offiscal years 1984 and 1985 for provisions which had authorized appropriations of $7,000,000 for fiscal year 1981, $10,000,000 for fiscal year 1982, and $12,000,000 for fiscal year 1983.
+1984—Pars. (1), (2). Pub. L. 98–623 substituted provisions authorizing appropriations of $2,000,000 for each of fiscal years 1984 and 1985 for provisions which had authorized appropriations of $7,000,000 for fiscal year 1981, $10,000,000 for fiscal year 1982, and $12,000,000 for fiscal year 1983.
 
 Par. (3). Pub. L. 98–623 substituted provisions authorizing appropriations of $1,000,000 for each of fiscal years 1984 and 1985 for provisions which had authorized appropriations of $3,000,000 for fiscal year 1981, $4,000,000 for fiscal year 1982, and $5,000,000 for fiscal year 1983.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Board of Directors.—(1) The board of directors is the governing body of the corporation.Between meetings of the corporation, the board is responsible for the general policies and program of the corporation. The board is responsible for the control of all funds of the corporation.
+Board of Directors.—(1) The board of directors is the governing body of the corporation. Between meetings of the corporation, the board is responsible for the general policies and program of the corporation. The board is responsible for the control of all funds of the corporation.
 
 (2) The number of directors, their manner of selection (including the filling of vacancies), and their term of office are as provided in the constitution and bylaws of the corporation. However, the board shall have at least 36 directors.
 
@@ -34,9 +34,13 @@ Sept. 2, 1958, Pub. L. 85–903, §§6, 7, 72 Stat. 1739.
 
 36:916(a), (b).
 
+&nbsp;
+
 110303(b)
 
 36:917.
+
+&nbsp;
 
 In subsection (a)(1), the word “funds” is substituted for “finances” for consistency in the revised title.
 

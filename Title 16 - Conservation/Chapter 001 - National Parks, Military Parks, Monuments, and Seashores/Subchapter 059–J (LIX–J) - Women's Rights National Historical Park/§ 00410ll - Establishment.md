@@ -4,7 +4,7 @@
 
 The Congress finds that—
 
-&emsp;(1) The Women's Rights Convention held at the Wesleyan Methodist Chapel in SenecaFalls, New York, in 1848 was an event of major importance in the history of the United States because it marked the formal beginning of the struggle of women for their equal rights.
+&emsp;(1) The Women's Rights Convention held at the Wesleyan Methodist Chapel in Seneca Falls, New York, in 1848 was an event of major importance in the history of the United States because it marked the formal beginning of the struggle of women for their equal rights.
 
 &emsp;(2) The Declaration of Sentiments approved by the 1848 Women's Rights Convention is a document of enduring relevance, which expresses the goal that equality and justice should be extended to all people without regard to sex.
 
@@ -74,7 +74,7 @@ The Secretary shall administer the park in accordance with the provisions of thi
 
 &emsp;(E) One member appointed from recommendations submitted by the town of Seneca Falls; and
 
-&emsp;(F) Five members appointed by the Secretary, at least one of whom shall represent aninstitution of higher learning and at least two of whom shall represent national women's rights organizations.
+&emsp;(F) Five members appointed by the Secretary, at least one of whom shall represent an institution of higher learning and at least two of whom shall represent national women's rights organizations.
 
 (2) The Secretary shall designate one member to be the Chair of the Commission. Any vacancy on the Commission shall be filled in the same manner in which the original appointment was made.
 

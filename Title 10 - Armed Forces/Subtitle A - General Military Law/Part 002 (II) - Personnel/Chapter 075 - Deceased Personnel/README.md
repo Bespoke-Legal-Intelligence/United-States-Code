@@ -1,0 +1,16 @@
+### <b>CHAPTER 75—DECEASED PERSONNEL</b>
+
+| Subchapter |  | Sec. |
+| :--- | :---: | ---: |
+| [<b>I.</b>](Subchapter%20001%20%28I%29%20-%20Death%20Investigations/README.md) | <b>Death Investigations</b> | <b>1471</b> |
+| [<b>II.</b>](Subchapter%20002%20%28II%29%20-%20Death%20Benefits/README.md) | <b>Death Benefits</b> | <b>1475</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [Subchapter 001 (I) - Death Investigations](Subchapter%20001%20%28I%29%20-%20Death%20Investigations/README.md)
+- [Subchapter 002 (II) - Death Benefits](Subchapter%20002%20%28II%29%20-%20Death%20Benefits/README.md)

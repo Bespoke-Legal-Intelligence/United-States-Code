@@ -1,6 +1,6 @@
 ### §17n. “State” defined
 
-As used in sections 17k and 17<i>l</i> of this title the term “State” shall be deemed to include Hawaii, Alaska, Puerto Rico, Guam, the Virgin Islands, and the District of Columbia.
+As used in sections 17k and 17<i>l</i> of this title the term “State” shall be deemed to include Hawaii,Alaska, Puerto Rico, Guam, the Virgin Islands, and the District of Columbia.
 
 (June 23, 1936, ch. 735, §4, 49 Stat. 1895; Aug. 1, 1956, ch. 852, §6, 70 Stat. 908.)
 

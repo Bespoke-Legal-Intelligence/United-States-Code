@@ -46,7 +46,7 @@ Notwithstanding any other provision of this chapter, there are authorized to be 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (d), (f), and (g), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+This chapter, referred to in subsecs. (a) to (d), (f), and (g), was in the original “this Act”, meaning Pub. L.87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
 Section 3651 of the Revised Statutes (31 U.S.C. 543), referred to in subsec. (b), was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
 
@@ -64,7 +64,7 @@ The acts of February 25, 1919, and February 9, 1922, referred to in subsec. (e),
 
 #### Transfer of Functions
 
-United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (e), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. Previously, “Director of the International Communication Agency” substituted for “President” in subsec. (e),pursuant to Reorg. Plan No. 2 of 1977, §7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof, under this chapter, to Director of International Communication Agency, except (A) for such functions as are vested by subsecs. (a), (b), and (c) of this section, sections 2452(b)(6), (10), 2454(a), (e)(1), (2), (f), (g), 2456(a) and 2458 of this title, (B) for such functions as are vested by subsecs. (d)(2) and (f) of this section, sections 2454(b) and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare \[now Secretary of Education\] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (e), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. Previously, “Director of the International Communication Agency” substituted for “President” in subsec. (e), pursuant to Reorg. Plan No. 2 of 1977, §7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof, under this chapter, to Director of International Communication Agency, except (A) for such functions as are vested by subsecs. (a), (b), and (c) of this section, sections 2452(b)(6), (10), 2454(a), (e)(1), (2), (f), (g), 2456(a) and 2458 of this title, (B) for such functions as are vested by subsecs. (d)(2) and (f) of this section, sections 2454(b) and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare \[now Secretary of Education\] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
 
 #### Delegation of Functions
 
@@ -76,7 +76,7 @@ Pub. L. 97–241, title III, §305(c), (d), Aug. 24, 1982, 96 Stat. 294, provide
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2362 of this title.
+This section is referred to in sections 2362, 2452b of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

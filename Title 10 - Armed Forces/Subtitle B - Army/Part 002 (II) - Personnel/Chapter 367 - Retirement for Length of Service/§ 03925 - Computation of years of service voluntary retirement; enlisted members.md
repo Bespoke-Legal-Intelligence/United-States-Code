@@ -78,7 +78,7 @@ Subsec. (a). Pub. L. 96–343, §9(a)(2)(B), substituted “an enlisted” for �
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any period of time covered by section972 of this title that occurs after that date, see section 561(e) of Pub. L. 104–106, set out as a note under section 972 of this title.
+Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any period of time covered by section 972 of this title that occurs after that date, see section 561(e) of Pub. L. 104–106, set out as a note under section 972 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -12,7 +12,7 @@
 
 &emsp;(D) Providing services to victims of sex offenses and for prevention of sex offenses.
 
-&emsp;(E) With respect to activities described in any of subparagraphs (A) through (D), related planning, administration, and educational activities.
+&emsp;(E) With respect to activities described in any of subparagraphs (A) through (D), relatedplanning, administration, and educational activities.
 
 &emsp;(F) Monitoring and evaluation of activities carried out under any of subparagraphs (A) through (E) <sup>1</sup>
 
@@ -68,7 +68,7 @@ Subsec. (a)(1)(H). Pub. L. 100–607, §301(b)(5), added subpar. (H).
 
 1986—Subsec. (a)(1)(G). Pub. L. 99–646 and Pub. L. 99–654 amended subpar. (G) identically, substituting “victims of sex offenses and for prevention of sex offenses” for “rape victims and for rape prevention”.
 
-1983—Subsec. (a)(1)(F). Pub. L. 97–414 inserted “(other than systems with respect to which grants were madeas prescribed by section 300w–4(c)(2) of this title)” after “equipment for the systems”.
+1983—Subsec. (a)(1)(F). Pub. L. 97–414 inserted “(other than systems with respect to which grants were made as prescribed by section 300w–4(c)(2) of this title)” after “equipment for the systems”.
 
 #### Effective Date of 1986 Amendments
 

@@ -10,6 +10,8 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 01710 - Eligibility for hospital, nursing home, and domiciliary care](%C2%A7%2001710%20-%20Eligibility%20for%20hospital%2C%20nursing%20home%2C%20and%20domiciliary%20care.md)
+- [&sect; 01710A - Required nursing home care](%C2%A7%2001710A%20-%20Required%20nursing%20home%20care.md)
+- [&sect; 01710B - Extended care services](%C2%A7%2001710B%20-%20Extended%20care%20services.md)
 - [&sect; 01711 - Care during examinations and in emergencies](%C2%A7%2001711%20-%20Care%20during%20examinations%20and%20in%20emergencies.md)
 - [&sect; 01712 - Dental care; drugs and medicines for certain disabled veterans; vaccines](%C2%A7%2001712%20-%20Dental%20care%3B%20drugs%20and%20medicines%20for%20certain%20disabled%20veterans%3B%20vaccines.md)
 - [&sect; 01712A - Eligibility for readjustment counseling and related mental health services](%C2%A7%2001712A%20-%20Eligibility%20for%20readjustment%20counseling%20and%20related%20mental%20health%20services.md)

@@ -146,7 +146,11 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 For the purposes of this section, the term “investment adviser” includes a corporate or other trustee performing the functions of an investment adviser.
 
-(Aug. 22, 1940, ch. 686, title I, §9, 54 Stat. 805; Pub. L. 91–547, §4, Dec. 14, 1970, 84 Stat. 1415; Pub. L. 94–29, §28(6), June 4, 1975, 89 Stat. 166; Pub. L. 99–571, title I, §102(<i>l</i>), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 100–181, title VI, §609, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 101–429, title III, §301, Oct. 15, 1990, 104 Stat. 941; Pub. L. 101–550, title II, §205(a), Nov. 15, 1990, 104 Stat. 2718.)
+(Aug. 22, 1940, ch. 686, title I, §9, 54 Stat. 805; Pub. L. 91–547, §4, Dec. 14, 1970, 84 Stat. 1415; Pub. L. 94–29, §28(6), June 4, 1975, 89 Stat. 166; Pub. L. 99–571, title I, §102(<i>l</i>), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 100–181, title VI, §609, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 101–429, title III, §301, Oct. 15, 1990, 104 Stat. 941; Pub. L. 101–550, title II, §205(a), Nov. 15, 1990, 104 Stat. 2718; Pub. L. 106–102, title II, §222, Nov. 12, 1999, 113 Stat. 1401.)
+
+#### Amendment of Subsection (a)(1), (2)
+
+<i>Pub. L. 106–102, title II, §§222, 225, Nov. 12, 1999, 113 Stat. 1401, 1402, provided that, effective 18 months after Nov. 12, 1999, subsection (a) of this section is amended in paragraphs (1) and (2) by striking “securities dealer, transfer agent,” and inserting “securities dealer, bank, transfer agent,”.</i>
 
 #### References in Text
 
@@ -185,6 +189,10 @@ Subsec. (b)(2), (3). Pub. L. 99–571, §102(<i>l</i>)(2), (3), inserted referen
 1970—Subsec. (a). Pub. L. 91–547, §4(a), inserted “employee,” before “officer” in introductory text.
 
 Subsecs. (b), (c). Pub. L. 91–547, §4(b), added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–102 effective 18 months after Nov. 12, 1999, see section 225 of Pub. L. 106–102, set out as a note under section 77c of this title.
 
 #### Effective Date of 1990 Amendment
 

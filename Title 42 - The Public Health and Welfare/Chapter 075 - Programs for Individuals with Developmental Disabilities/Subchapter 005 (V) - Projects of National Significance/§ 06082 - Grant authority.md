@@ -42,7 +42,7 @@ The Secretary—
 
 No grant may be made under subsection (a) of this section unless—
 
-&emsp;(1) an application has been submitted to the Secretary in such form, in such manner, and containing such information as the Secretary shall by regulation prescribe and such application has been approved by the Secretary;
+&emsp;(1) an application has been submitted to the Secretary in such form, in such manner, andcontaining such information as the Secretary shall by regulation prescribe and such application has been approved by the Secretary;
 
 &emsp;(2) each State in which the applicant's project will be conducted has a State plan approved under section 6022 of this title;
 

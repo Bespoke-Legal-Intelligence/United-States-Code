@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsection (b) of this section, there are authorized to be appropriated such sums as are necessary for each of fiscal years 1996 through 2002 for the study, plan, design, structure, and related costs of agricultural research facilities under this subchapter.
+Subject to subsection (b) of this section, there are authorized to be appropriated such sums as are necessary for each of fiscal years 1996through 2002 for the study, plan, design, structure, and related costs of agricultural research facilities under this subchapter.
 
 #### (b) Allowable administrative costs
 
@@ -12,7 +12,7 @@ Not more than 3 percent of the funds made available for any project for an agric
 
 #### Prior Provisions
 
-A prior section 390d, Pub. L. 88–74, §5, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977,91 Stat. 995; Pub. L. 99–198, title XIV, §1411(e), Dec. 23, 1985, 99 Stat. 1548, related to payment eligibility and facility proposals, prior to the general amendment of this subchapter by Pub. L. 104–127.
+A prior section 390d, Pub. L. 88–74, §5, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977, 91 Stat. 995; Pub. L. 99–198, title XIV, §1411(e), Dec. 23, 1985, 99 Stat. 1548, related to payment eligibility and facility proposals, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 A prior section 6 of Pub. L. 88–74 was classified to section 390f of this title prior to the general amendment of this subchapter by Pub. L. 104–127.
 

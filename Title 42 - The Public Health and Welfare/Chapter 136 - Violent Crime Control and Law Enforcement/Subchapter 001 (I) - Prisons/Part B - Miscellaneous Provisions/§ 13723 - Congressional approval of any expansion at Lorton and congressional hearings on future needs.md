@@ -10,7 +10,7 @@ The Senate directs the Subcommittee on the District of Columbia of the Committee
 
 #### (c) “Expanded” and “expansion” defined
 
-For purposes of this section, the terms “expanded” and “expansion” mean any alteration of the physical structure of the prison complex that is made to increase the number of inmates incarcerated at the prison.
+For purposes of this section, the terms “expanded” and “expansion” mean any alterationof the physical structure of the prison complex that is made to increase the number of inmates incarcerated at the prison.
 
 (Pub. L. 103–322, title II, §20410, Sept. 13, 1994, 108 Stat. 1828; Pub. L. 105–33, title XI, §11717(b), Aug. 5, 1997, 111 Stat. 786.)
 

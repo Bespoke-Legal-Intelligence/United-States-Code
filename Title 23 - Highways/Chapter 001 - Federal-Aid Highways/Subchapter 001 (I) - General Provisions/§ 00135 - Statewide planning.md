@@ -82,7 +82,7 @@ Nonmetropolitan areas.—With respect to each nonmetropolitan area, the long-ran
 
 &emsp;&emsp;(C)
 
-Indian tribal areas.—With respect to each area of the State under the jurisdiction of an Indian tribal government, the long-range transportation plan shall be developed in consultation with the tribal government and the Secretary of the Interior.
+Indian tribal areas.—With respect to each area of the State under the jurisdictionof an Indian tribal government, the long-range transportation plan shall be developed in consultation with the tribal government and the Secretary of the Interior.
 
 &emsp;(3)
 
@@ -246,7 +246,7 @@ A prior section 135, Pub. L. 89–139, §4(a), Aug. 28, 1965, 79 Stat. 578, call
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–178, §1204(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “It is in the national interest to encourage and promote the development of transportation systems embracing various modes of transportation in a manner that will serve all areas of the State efficiently and effectively. Subject to section 134 of this title, the State shall develop transportation plans and programs for all areas of the State. Such plans and programs shall provide for development of transportation facilities (including pedestrian walkways and bicycle transportation facilities) which will function as an intermodal State transportation system. The process for developing such plans and programs shall provide for consideration of all modes of transportation and shall be continuing, cooperative, and comprehensive to the degree appropriate, based on the complexity of the transportation problems.”
+1998—Subsec. (a). Pub. L. 105–178, §1204(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “It is in the national interest to encourage and promote the development of transportation systems embracing various modes of transportation in a mannerthat will serve all areas of the State efficiently and effectively. Subject to section 134 of this title, the State shall develop transportation plans and programs for all areas of the State. Such plans and programs shall provide for development of transportation facilities (including pedestrian walkways and bicycle transportation facilities) which will function as an intermodal State transportation system. The process for developing such plans and programs shall provide for consideration of all modes of transportation and shall be continuing, cooperative, and comprehensive to the degree appropriate, based on the complexity of the transportation problems.”
 
 Subsec. (b). Pub. L. 105–178, §1204(b), inserted “and sections 5303 through 5305 of title 49” after “section 134 of this title”.
 
@@ -308,7 +308,7 @@ Study.—The Secretary shall conduct a study on the effectiveness of the partici
 
 “(2)
 
-Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report containing the results of the study with any recommendations the Secretary determines appropriate as a result of the study.”
+Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretaryshall transmit to Congress a report containing the results of the study with any recommendations the Secretary determines appropriate as a result of the study.”
 
 #### Advanced Travel Forecasting Procedures Program
 
@@ -382,7 +382,7 @@ Section 146 of Pub. L. 94–280 provided that:
 
 “(b) There is authorized to be appropriated to carry out this section of the Highway Trust Fund, not to exceed $40,000,000 for the fiscal year ending September 30, 1977, and $40,000,000 for the fiscal year ending September 30, 1978.
 
-“(c) Each participating State shall report to the Secretary of Transportation not later than September 30,1977, and not later than September 30 of each year thereafter, on the progress being made in implementing this section and the effectiveness of the improvements made under it. Each report shall include an analysis and evaluation of the benefits resulting from such projects comparing an adequate time period before and after treatment in order to properly assess the benefits occurring from such traffic control signalization. The Secretary of Transportation shall submit a report to the Congress not later than January 1, 1978, on the progress being made in implementing this section and an evaluation of the benefits resulting therefrom.”
+“(c) Each participating State shall report to the Secretary of Transportation not later than September 30, 1977, and not later than September 30 of each year thereafter, on the progress being made in implementing this section and the effectiveness of the improvements made under it. Each report shall include an analysis and evaluation of the benefits resulting from such projects comparing an adequate time period before and after treatment in order to properly assess the benefits occurring from such traffic control signalization. The Secretary of Transportation shall submit a report to the Congress not later than January 1, 1978, on the progress being made in implementing this section and an evaluation of the benefits resulting therefrom.”
 
 #### Authorization of Appropriations
 

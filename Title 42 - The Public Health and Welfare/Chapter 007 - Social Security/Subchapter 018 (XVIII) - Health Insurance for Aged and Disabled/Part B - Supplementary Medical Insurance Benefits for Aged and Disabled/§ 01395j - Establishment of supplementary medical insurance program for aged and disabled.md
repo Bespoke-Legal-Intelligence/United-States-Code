@@ -18,5 +18,5 @@ Pub. L. 90–248, title I, §141, Jan. 2, 1968, 81 Stat. 855, directed Secretary
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 38 section 1729.
+This section is referred to in title 38 sections 1725, 1729.
 

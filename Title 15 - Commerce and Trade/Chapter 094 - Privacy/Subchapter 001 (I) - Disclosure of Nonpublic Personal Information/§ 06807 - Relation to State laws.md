@@ -1,0 +1,16 @@
+### §6807. Relation to State laws
+
+#### (a) In general
+
+This subchapter and the amendments made by this subchapter shall not be construed as superseding, altering, or affecting any statute, regulation, order, or interpretation in effect in any State, except to the extent that such statute, regulation, order, or interpretation is inconsistent with the provisions of this subchapter, and then only to the extent of the inconsistency.
+
+#### (b) Greater protection under State law
+
+For purposes of this section, a State statute, regulation, order, or interpretation is not inconsistent with the provisions of this subchapter if the protection such statute, regulation, order, or interpretation affords any person is greater than the protection provided under this subchapter and the amendments made by this subchapter, as determined by the Federal Trade Commission, after consultation with the agency or authority with jurisdiction under section 6805(a) of this title of either the person that initiated the complaint or that is the subject of the complaint, on its own motion or upon the petition of any interested party.
+
+(Pub. L. 106–102, title V, §507, Nov. 12, 1999, 113 Stat. 1442.)
+
+#### References in Text
+
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which enacted this subchapter and amended section 1681s of this title. For complete classification of subtitle A to the Code, see Tables.
+

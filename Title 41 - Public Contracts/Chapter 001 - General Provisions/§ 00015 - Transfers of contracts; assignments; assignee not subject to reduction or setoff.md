@@ -34,7 +34,7 @@ Any contract of the Department of Defense, the General Services Administration, 
 
 #### (f) Assignor liability arising independent of contract
 
-If a provision described in subsection (e) of this section or a provision to the same general effect has been at any time heretofore or is hereafter included or inserted in any such contract, payments to be made thereafter to an assignee of any moneys due or to become due under such contract shall not be subject to reduction or setoff for any liability of any nature of the assignor to the United States or any department or agency thereof which arises independently of such contract, or hereafter for any liability of the assignor on account of—
+If a provision described in subsection (e) of this section or a provision to the same general effect has been at any time heretofore or is hereafter included or inserted in any such contract, payments to be made thereafter to an assigneeof any moneys due or to become due under such contract shall not be subject to reduction or setoff for any liability of any nature of the assignor to the United States or any department or agency thereof which arises independently of such contract, or hereafter for any liability of the assignor on account of—
 
 &emsp;(1) renegotiation under any renegotiation statute or under any statutory renegotiation article in the contract;
 
@@ -104,7 +104,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Non-Applicability of National Emergencies Act
 
-The provisions of the National Emergencies Act (Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255) not applicable to the powers and authorities conferred by this section and actions taken hereunder, see section 1651 of Title 50, War and National Defense.
+The provisions of the National Emergencies Act (Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255) not applicable to the powers and authorities conferred by this sectionand actions taken hereunder, see section 1651 of Title 50, War and National Defense.
 
 #### Moneys Due Under Letters of Commitment Issued in Connection With Disposition of Surplus Agricultural Commodities
 

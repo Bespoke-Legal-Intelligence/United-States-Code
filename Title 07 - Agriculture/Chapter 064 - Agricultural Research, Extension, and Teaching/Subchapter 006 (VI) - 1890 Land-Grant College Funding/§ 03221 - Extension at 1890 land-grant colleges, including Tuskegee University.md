@@ -66,9 +66,9 @@ If any portion of the moneys received by any eligible institution for the suppor
 
 #### (f) Mailing of correspondence, bulletins, and reports
 
-To the extent that the official mail consists of correspondence, bulletins, and reports for furtherance of the purposes of this section, it shall be transmitted in the mails of the United States under penalty indicia: <i>Provided</i>, That each item shall bear such indicia as are prescribed by the Postmaster General and shall be mailed undersuch regulations as the Postmaster General may from time to time prescribe. Such items may be mailed from a principal place of business of each eligible institution or from an established subunit of such institution.
+To the extent that the official mail consists of correspondence, bulletins, and reports for furtherance of the purposes of this section, it shall be transmitted in the mails of the United States under penalty indicia: <i>Provided</i>, That each item shall bear such indicia as are prescribed by the Postmaster General and shall be mailed under such regulations as the Postmaster General may from time to time prescribe. Such items may be mailed from a principal place of business of each eligible institution or from an established subunit of such institution.
 
-(Pub. L. 95–113, title XIV, §1444, Sept. 29, 1977, 91 Stat. 1007; Pub. L. 97–98, title XIV, §1431, Dec. 22, 1981, 95 Stat. 1310; Pub. L. 99–198, title XIV, §1415, Dec. 23, 1985, 99 Stat. 1549; Pub. L. 104–127, title VIII, §883(b), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, §103(f)(3)(A), title II, §§225(a), 226(c)(2), June 23, 1998, 112 Stat. 528, 540, 543.)
+(Pub. L. 95–113, title XIV, §1444, Sept. 29, 1977, 91 Stat. 1007; Pub. L. 97–98, title XIV, §1431, Dec. 22,1981, 95 Stat. 1310; Pub. L. 99–198, title XIV, §1415, Dec. 23, 1985, 99 Stat. 1549; Pub. L. 104–127, title VIII, §883(b), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, §103(f)(3)(A), title II, §§225(a), 226(c)(2), June 23, 1998, 112 Stat. 528, 540, 543.)
 
 #### References in Text
 
@@ -109,6 +109,10 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 #### Effective Date
 
 Subchapter effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
+
+#### West Virginia State College, Institute, West Virginia
+
+Pub. L. 106–78, title I, Oct. 22, 1999, 113 Stat. 1141, provided in part that West Virginia State College in Institute, West Virginia: “for fiscal year 2000 and thereafter shall be designated as an eligible institution under section 1444 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3221)”.
 
 #### Section Referred to in Other Sections
 

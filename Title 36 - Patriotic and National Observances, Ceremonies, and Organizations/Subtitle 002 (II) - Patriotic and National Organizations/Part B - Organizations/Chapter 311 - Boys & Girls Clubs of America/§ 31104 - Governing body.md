@@ -34,5 +34,7 @@ Aug. 6, 1956, ch. 976, §§7, 8, 70 Stat. 1053.
 
 36:698.
 
+&nbsp;
+
 In subsection (a)(1), the word “governing” is substituted for “managing” for consistency in the revised title. The text of 36:697(a) is omitted as executed and obsolete.
 

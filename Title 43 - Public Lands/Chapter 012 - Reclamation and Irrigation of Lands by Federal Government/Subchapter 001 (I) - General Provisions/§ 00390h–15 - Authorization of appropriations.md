@@ -10,5 +10,5 @@ There is authorized to be appropriated for fiscal years beginning after Septembe
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 390h, 390h–1, 390h–2, 390h–4, 390h–6, 390h–7, 390h–8, 390h–9, 390h–14 of this title.
+This section is referred to in sections 390h, 390h–1, 390h–2, 390h–4, 390h–7, 390h–8, 390h–9, 390h–14 of this title.
 

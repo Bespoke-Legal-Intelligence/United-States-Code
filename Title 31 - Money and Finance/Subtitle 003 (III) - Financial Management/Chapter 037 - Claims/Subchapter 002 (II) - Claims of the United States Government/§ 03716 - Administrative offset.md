@@ -48,11 +48,11 @@
 
 (B) The Secretary of the Treasury shall exempt from administrative offset under this subsection payments under means-tested programs when requested by the head of the respective agency. The Secretary may exempt other payments from administrative offset under this subsection upon the written request of the head of a payment certifying agency. A written request for exemption of other payments must provide justification for the exemption under standards prescribed by the Secretary. Such standards shall give due consideration to whether administrative offset would tend to interfere substantially with or defeat the purposes of the payment certifying agency's program. The Secretary shall report to the Congress annually on exemptions granted under this section.
 
-(C) The provisions of sections 205(b)(1) and 1631(c)(1) of the Social Security Act shall not apply to any administrative offset executed pursuant to this section against benefits authorized by either title II or title XVI of the Social Security Act, respectively.
+(C) The provisions of sections 205(b)(1), 809(a)(1), and 1631(c)(1) of the Social Security Act shall not apply to any administrative offset executed pursuant to this section against benefits authorized by title II, VIII, or title XVI of the Social Security Act, respectively.
 
 (4) The Secretary of the Treasury may charge a fee sufficient to cover the full cost of implementing this subsection. The fee may be collected either by the retention of a portion of amounts collected pursuant to this subsection, or by billing the agency referring or transferring a claim for those amounts. Fees charged to the agencies shall be based on actual administrative offsets completed. Amounts received by the United States as fees under this subsection shall be deposited into the account of the Department of the Treasury under section 3711(g)(7) of this title, and shall be collected and accounted for in accordance with the provisions of that section.
 
-(5) The Secretary of the Treasury in consultation with the Commissioner of Social Security and the Director of the Office of Management and Budget, may prescribe such rules, regulations, and procedures as the Secretary of the Treasury considers necessary to carry out this subsection. The Secretary shall consult with the heads of affected agencies in the development of such rules, regulations, and procedures.
+(5) The Secretary of the Treasury in consultation with the Commissioner of Social Securityand the Director of the Office of Management and Budget, may prescribe such rules, regulations, and procedures as the Secretary of the Treasury considers necessary to carry out this subsection. The Secretary shall consult with the heads of affected agencies in the development of such rules, regulations, and procedures.
 
 (6) Any Federal agency that is owed by a person a past due, legally enforceable nontax debt that is over 180 days delinquent, including nontax debt administered by a third party acting as an agent for the Federal Government, shall notify the Secretary of the Treasury of all such nontax debts for purposes of administrative offset under this subsection.
 
@@ -100,7 +100,7 @@
 
 (3) In applying this section with respect to any debt owed to a State, subsection (c)(3)(A) shall not apply.
 
-(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2471; amended Pub. L. 104–134, title III, §31001(c)(1), (d)(2), (e), (f), Apr. 26, 1996, 110 Stat. 1321–359, 1321–362.)
+(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2471; amended Pub. L. 104–134, title III, §31001(c)(1), (d)(2), (e), (f), Apr. 26, 1996, 110 Stat. 1321–359, 1321–362; Pub. L. 106–169, title II, §251(b)(10), Dec. 14, 1999, 113 Stat. 1856.)
 
 Historical and Revision Notes
 
@@ -140,15 +140,17 @@ In subsection (c)(2), the word “either” is omitted as surplus.
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (c)(1)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219,as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (c)(1)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Titles II and XVI of the Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42. Sections 205(b)(1) and 1631(c)(1) of the Act are classified to sections 405(b)(1) and 1383(c)(1), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health andWelfare. Titles II, VIII, and XVI of the Act are classified generally to subchapters II (§401 et seq.), VIII (§1001 et seq.), and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42. Sections 205(b)(1), 809(a)(1), and 1631(c)(1) of the Act are classified to sections 405(b)(1), 1009(a)(1), and 1383(c)(1), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Black Lung Benefits Act, referred to in subsec. (c)(3)(A)(i)(II), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792, as amended. Part B of the Act is classified generally to part B (§921 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see section 901(b) of Title 30 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (c)(8), is classified to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+1999—Subsec. (c)(3)(C). Pub. L. 106–169 substituted “sections 205(b)(1), 809(a)(1),” for “sections 205(b)(1)” and “title II, VIII,” for “either title II”.
 
 1996—Subsec. (a). Pub. L. 104–134, §31001(c)(1), substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” in introductory provisions.
 

@@ -2,7 +2,7 @@
 
 #### (a) Method of promotion
 
-Career members of the Senior Foreign Service are promoted by appointment under section3942(a) of this title to a higher salary class in the Senior Foreign Service. Members of the Senior Foreign Service serving under career candidate appointments or noncareer appointments are promoted by appointment under section 3943 of this title to a higher salary class in the Senior Foreign Service. Foreign Service officers, and Foreign Service personnel who are assigned to a class in the Foreign Service Schedule, are promoted by appointment under section 3942(a) of this title as career members of the Senior Foreign Service or by assignment under section 3964 of this title to a higher salary class in the Foreign Service Schedule.
+Career members of the Senior Foreign Service are promoted by appointment under section 3942(a) of this title to a higher salary class in the Senior Foreign Service. Members of the Senior Foreign Service serving under career candidate appointments or noncareer appointments are promoted by appointment under section 3943 of this title to a higher salary class in the Senior Foreign Service. Foreign Service officers, and Foreign Service personnel who are assigned to a class in the Foreign Service Schedule, are promoted by appointment under section 3942(a) of this title as career members of the Senior Foreign Service or by assignment under section 3964 of this title to a higher salary class in the Foreign Service Schedule.
 
 #### (b) Recommendations and rankings of selection boards
 
@@ -28,21 +28,23 @@ Except as provided in section 4006(a) of this title, promotions of—
 
 (3) The affidavit requirements of sections 3332 and 3333(a) of title 5 shall not apply with respect to a member of the Service who has previously complied with those requirements and who subsequently is promoted by appointment to any class in the Senior Foreign Service without a break in service.
 
-(4) Not later than March 1 of each year, the Secretary of State shall submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate which shall—
+(4) Not later than March 1, 2001, and every four years thereafter, the Secretary of State shall submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate which shall include the following:
 
-&emsp;(A) describe the steps taken and planned in furtherance of—
+&emsp;(A) A description of the steps taken and planned in furtherance of—
 
 &emsp;&emsp;(i) maximum compatibility among agencies utilizing the Foreign Service personnel system, as provided for in section 3923 of this title, and
 
-&emsp;&emsp;(ii) the development of uniform policies and procedures and consolidated personnel functions, as provided for in section 3924 of this title;
+&emsp;&emsp;(ii) the development of uniform policies and procedures and consolidated personnel functions, as provided for in section 3924 of this title.
 
-&emsp;(B) specify the upper and lower limits planned by each such agency for recruitment, advancement, and retention of members of the Service, as provided for in paragraph (2), including, with respect to each of the relevant promotion competition groups, the projected ranges of rates of appointment, promotion, and attrition over each of the next 5 fiscal years, as well as a comparison of such projections with the projections for the preceding year and with actual rates of appointment, promotion, and attrition, including a full explanation of any deviations from projections reported in the preceding year; and
+&emsp;(B) A workforce plan for the subsequent five years, including projected personnel needs, by grade and by skill. Each such plan shall include for each category the needs for foreign language proficiency, geographic and functional expertise, and specialist technicalskills. Each workforce plan shall specifically account for the training needs of Foreign Service personnel and shall delineate an intake program of generalist and specialist Foreign Service personnel to meet projected future requirements.
 
-&emsp;(C) specify the numbers of members of the Service who are assigned to positions classified under section 3981 of this title which are more than one grade higher or lower than the personal rank of the member.
+(5) If there are substantial modifications to any workforce plan under paragraph (4)(B) during any year in which a report under paragraph (4) is not required, a supplemental annual notification shall be submitted in the same manner as reports are required to be submitted under paragraph (4).
 
-(Pub. L. 96–465, title I, §601, Oct. 17, 1980, 94 Stat. 2094; Pub. L. 100–204, title I, §185(b), Dec. 22, 1987, 101 Stat. 1366; Pub. L. 103–236, title I, §180(a)(6), Apr. 30, 1994, 108 Stat. 416.)
+(Pub. L. 96–465, title I, §601, Oct. 17, 1980, 94 Stat. 2094; Pub. L. 100–204, title I, §185(b), Dec. 22, 1987, 101 Stat. 1366; Pub. L. 103–236, title I, §180(a)(6), Apr. 30, 1994, 108 Stat. 416; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §326\], Nov. 29, 1999, 113 Stat. 1536, 1501A–437.)
 
 #### Amendments
+
+1999—Subsec. (c)(4), (5). Pub. L. 106–113 added pars. (4) and (5) and struck out former par. (4), which required report not later than Mar. 1 of each year, describing steps taken and planned in furtherance of compatibility and development of uniform procedures and consolidated personnel functions, specifying upper and lower limits planned for recruitment, retention, and advancement of members, and specifying numbers of members assigned to positions more than one grade higher or lower than the member.
 
 1994—Subsec. (b). Pub. L. 103–236, which directed amendment of par. (2) by striking “and” the last place it appears and by inserting “and other members of the Service” after “categories of career candidates,”, was executed by striking “and” after “categories of career members,” and making the insertion in concluding provisions below par. (2), to reflect the probable intent of Congress.
 

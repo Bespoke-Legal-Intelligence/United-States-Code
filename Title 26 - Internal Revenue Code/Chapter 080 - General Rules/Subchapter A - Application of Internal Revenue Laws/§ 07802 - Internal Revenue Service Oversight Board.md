@@ -62,7 +62,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 #### (A) Financial disclosure
 
-&emsp;&emsp;During the entire period that an individual appointed under subparagraph (A) or (D) of paragraph (1) is a member of the Oversight Board, such individual shall be treated as serving as an officer or employee referred to in section 101(f) of the Ethics in Government Act of 1978 for purposes of title I of such Act, except that section 101(d) of such Act shall apply without regard to the number of days of service in the position.
+&emsp;&emsp;During the entire period that an individual appointed under subparagraph (A) or (D) ofparagraph (1) is a member of the Oversight Board, such individual shall be treated as serving as an officer or employee referred to in section 101(f) of the Ethics in Government Act of 1978 for purposes of title I of such Act, except that section 101(d) of such Act shall apply without regard to the number of days of service in the position.
 
 #### (B) Restrictions on post-employment
 
@@ -70,7 +70,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 #### (C) Members who are special Government employees
 
-&emsp;&emsp;If an individual appointed under subparagraph (A) or (D) of paragraph (1) is a specialGovernment employee, the following additional rules apply for purposes of chapter 11 of title 18, United States Code:
+&emsp;&emsp;If an individual appointed under subparagraph (A) or (D) of paragraph (1) is a special Government employee, the following additional rules apply for purposes of chapter 11 of title 18, United States Code:
 
 #### (i) Restriction on representation
 

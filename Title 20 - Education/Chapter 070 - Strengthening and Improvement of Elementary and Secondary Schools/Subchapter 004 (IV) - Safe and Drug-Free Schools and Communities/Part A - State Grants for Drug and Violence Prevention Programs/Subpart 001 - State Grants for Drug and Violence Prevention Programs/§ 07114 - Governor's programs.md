@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;A chief executive officer shall use funds made available under subsection (a)(1) of this section for grants to or contracts with parent groups, community action and job training agencies, community-based organizations, and other public entities and private nonprofit organizations and consortia thereof. In makingsuch grants and contracts, a chief executive officer shall give priority to programs and activities described in subsection (c) of this section for—
+&emsp;A chief executive officer shall use funds made available under subsection (a)(1) of this section for grants to or contracts with parent groups, community action and job training agencies, community-based organizations, and other public entities and private nonprofit organizations and consortia thereof. In making such grants and contracts, a chief executive officer shall give priority to programs and activities described in subsection (c) of this section for—
 
 &emsp;&emsp;(A) children and youth who are not normally served by State or local educational agencies; or
 

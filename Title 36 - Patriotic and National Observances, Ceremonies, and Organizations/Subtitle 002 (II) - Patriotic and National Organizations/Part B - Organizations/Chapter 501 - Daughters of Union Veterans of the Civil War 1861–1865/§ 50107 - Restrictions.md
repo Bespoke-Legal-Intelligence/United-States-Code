@@ -42,17 +42,25 @@ Dec. 9, 1985, Pub. L. 99–172, §8, 99 Stat. 1021.
 
 36:3708(c).
 
+&nbsp;
+
 50107(c)
 
 36:3708(a).
+
+&nbsp;
 
 50107(d)
 
 36:3708(b).
 
+&nbsp;
+
 50107(e)
 
 36:3708(e).
+
+&nbsp;
 
 This subsection is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary words.
 

@@ -46,7 +46,7 @@ Section 6010, Pub. L. 88–164, title I, §111, as added Pub. L. 94–103, title
 
 Section 6011, Pub. L. 88–164, title I, §112, as added Pub. L. 94–103, title II, §202, Oct. 4, 1975, 89 Stat. 503; amended Pub. L. 95–602, title V, §514(a), Nov. 6, 1978, 92 Stat. 3016, related to habilitation plans. See section 6023 of this title.
 
-Section 6012, Pub. L. 88–164, title I, §113, as added Pub. L. 94–103, title II, §203, Oct. 4, 1975, 89 Stat. 504;amended Pub. L. 95–602, title V, §508, Nov. 6, 1978, 92 Stat. 3007; Pub. L. 97–35, title IX, §911(a), Aug. 13, 1981, 95 Stat. 563; Pub. L. 98–221, title III, §302, Feb. 22, 1984, 98 Stat. 35, related to protection and advocacy of rights of persons with developmental disabilities. See section 6042(a) of this title.
+Section 6012, Pub. L. 88–164, title I, §113, as added Pub. L. 94–103, title II, §203, Oct. 4, 1975, 89 Stat. 504; amended Pub. L. 95–602, title V, §508, Nov. 6, 1978, 92 Stat. 3007; Pub. L. 97–35, title IX, §911(a), Aug. 13, 1981, 95 Stat. 563; Pub. L. 98–221, title III, §302, Feb. 22, 1984, 98 Stat. 35, related to protection and advocacy of rights of persons with developmental disabilities. See section 6042(a) of this title.
 
 #### Amendments
 

@@ -26,7 +26,7 @@
 
 (2) The President may exempt by order any specific grant, loan, contract, or other form of financial assistance from all or part of the provisions of this subsection if he determines such exemption is in the national interest. The President shall notify the Congress in writing of such exemption at least 60 days before it is effective.
 
-(3) The President or any Federal agency may not use the authority granted under paragraph (1) to require compliance, including the use ofcoal, by any person or facility with any prohibition under other sections of this chapter if such person or facility has been specifically determined by the Secretary as subject to such prohibition or has been exempted from the application of such prohibition.
+(3) The President or any Federal agency may not use the authority granted under paragraph (1) to require compliance, including the use of coal, by any person or facility with any prohibition under other sections of this chapter if such person or facility has been specifically determined by the Secretary as subject to such prohibition or has been exempted from the application of such prohibition.
 
 (Pub. L. 95–620, title IV, §403, Nov. 9, 1978, 92 Stat. 3317; Pub. L. 100–42, §1(c)(14), May 21, 1987, 101 Stat. 313; Pub. L. 102–486, title XXX, §3011, Oct. 24, 1992, 106 Stat. 3128.)
 

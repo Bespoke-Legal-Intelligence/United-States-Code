@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-All notes, debentures, bonds, or other such obligations issued by the Corporation shall be exempt, both as to principal and interest, from all taxation (except estate and inheritance taxes) now or hereafter imposed by the United States, by any Territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority: <i>Provided</i>, That interest upon or any income from any such obligations and gain from the sale or other disposition of such obligations shall not have any exemption, as such, and loss from the sale or other disposition of such obligations shall not have any special treatment, as such, under the Internal Revenue Code, or laws amendatory or supplementary thereto. The Corporation, including its franchise, its capital, reserves, and surplus, and its income, shall be exempt from all taxation now or hereafter imposed by the United States, by any Territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority, except that any real property of the Corporation shall be subject to State, Territorial, county, municipal, or localtaxation to the same extent according to its value as other real property is taxed.
+All notes, debentures, bonds, or other such obligations issued by the Corporation shall be exempt, both as to principal and interest, from all taxation (except estate and inheritance taxes) now or hereafter imposed by the United States, by any Territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority: <i>Provided</i>, That interest upon or any income from any such obligations and gain from the sale or other disposition of such obligations shall not have any exemption, as such, and loss from the sale or other disposition of such obligations shall not have any special treatment, as such, under the Internal Revenue Code, or laws amendatory or supplementary thereto. The Corporation, including its franchise, its capital, reserves, and surplus, and its income, shall be exempt from all taxation now or hereafter imposed by the United States, by any Territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority, except that any real property of the Corporation shall be subject to State, Territorial, county, municipal, or local taxation to the same extent according to its value as other real property is taxed.
 
 #### (b) Other exemptions
 
@@ -38,7 +38,7 @@ When acting as a receiver, the following provisions shall apply with respect to 
 
 &emsp;The Corporation shall—
 
-&emsp;&emsp;(A) estimate the market value of assets held by it as a result of case resolution activities, with a reduction for expenses expected to be incurred by the Corporation in connection with the management and sale of such assets;
+&emsp;&emsp;(A) estimate the market value of assets held by it as a result of case resolution activities, with a reduction for expenses expected to be incurred by the Corporation inconnection with the management and sale of such assets;
 
 &emsp;&emsp;(B) reflect the amounts so estimated in its financial statements; and
 
@@ -82,7 +82,7 @@ The full faith and credit of the United States is pledged to the payment of any 
 
 #### Amendment of Subsection (c)(5)
 
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(14)(R), Sept. 30, 1996, 110 Stat. 3009–487, 3009–493, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings</i><i>association on that date, subsection (c)(5) of this section is amended as follows:</i>
+<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(14)(R), Sept. 30, 1996, 110 Stat. 3009–487, 3009–493, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (c)(5) of this section is amended as follows:</i>
 
 <i>(1) By striking “the Bank Insurance Fund or Savings Association Insurance Fund, respectively” each place such term appears and inserting “the Deposit Insurance Fund”; and</i>
 

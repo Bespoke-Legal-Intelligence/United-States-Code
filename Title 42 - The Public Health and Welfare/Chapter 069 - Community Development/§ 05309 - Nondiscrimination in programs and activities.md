@@ -16,7 +16,7 @@ When a matter is referred to the Attorney General pursuant to subsection (b) of 
 
 The provisions of this section and section 5304(b)(2) of this title which relate to discrimination on the basis of race shall not apply to the provision of assistance by grantees under this chapter to the Hawaiian Home Lands.
 
-(Pub. L. 93–383, title I, §109, Aug. 22, 1974, 88 Stat. 649; Pub. L. 97–35, title III, §306, Aug. 13, 1981, 95 Stat. 392; Pub. L. 101–625, title IX, §§911, 912(a), Nov. 28, 1990, 104 Stat. 4392.)
+(Pub. L. 93–383, title I, §109, Aug. 22, 1974, 88 Stat. 649; Pub. L. 97–35, title III, §306, Aug. 13,1981, 95 Stat. 392; Pub. L. 101–625, title IX, §§911, 912(a), Nov. 28, 1990, 104 Stat. 4392.)
 
 #### References in Text
 

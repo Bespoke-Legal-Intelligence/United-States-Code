@@ -38,7 +38,7 @@ A prior section 2116 of act July 1, 1944, was successively renumbered by subsequ
 
 1991—Subsec. (c). Pub. L. 102–168 substituted “or (2)” for “, (2)” and struck out “, or (3) the petition is considered withdrawn under section 300aa–21(b) of this title.”
 
-1990—Subsec. (a)(1). Pub. L. 101–502, §5(e)(1), substituted “28 months” for “24 months” and inserted before comma at end “and no such petition may be filed if the first symptom or manifestation of onset or of the significant aggravation of such injury occurred morethan 36 months after the date of administration of the vaccine”.
+1990—Subsec. (a)(1). Pub. L. 101–502, §5(e)(1), substituted “28 months” for “24 months” and inserted before comma at end “and no such petition may be filed if the first symptom or manifestation of onset or of the significant aggravation of such injury occurred more than 36 months after the date of administration of the vaccine”.
 
 Subsec. (c). Pub. L. 101–502, §5(e)(2), substituted “and ending on the date (1) an election is made under section 300aa–21(a) of this title to file the civil action, (2) an election is made under section 300aa–21(b) of this title to withdraw the petition, or (3) the petition is considered withdrawn under section 300aa–21(b) of this title” for “and ending on the date a final judgment is entered on the petition”.
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 101–502 effective Sept. 30, 1990, see section 5(h) of Pub
 
 #### Effective Date of 1989 Amendment
 
-For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
+For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currentlypending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
 
 #### Section Referred to in Other Sections
 

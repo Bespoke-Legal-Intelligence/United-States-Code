@@ -100,7 +100,7 @@ The Corporation, in its discretion, may make loans on the security of, or may pu
 
 #### (2) Receipt of dividends
 
-&emsp;Subrogation under paragraph (1) shall include the right on the part of the Corporationto receive the same dividends from the proceeds of the assets of the bank as would have been payable to the owner on a claim for the insured obligation.
+&emsp;Subrogation under paragraph (1) shall include the right on the part of the Corporation to receive the same dividends from the proceeds of the assets of the bank as would have been payable to the owner on a claim for the insured obligation.
 
 #### (d) Right to assets
 

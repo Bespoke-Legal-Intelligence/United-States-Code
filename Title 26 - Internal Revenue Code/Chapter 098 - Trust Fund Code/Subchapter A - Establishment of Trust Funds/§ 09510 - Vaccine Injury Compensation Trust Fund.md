@@ -32,7 +32,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 &emsp;Amounts in the Vaccine Injury Compensation Trust Fund shall be available, as provided in appropriation Acts, only for—
 
-&emsp;&emsp;(A) the payment of compensation under subtitle 2 of title XXI of the Public Health Service Act (as in effect on August 5, 1997) for vaccine-related injury or death with respect to any vaccine—
+&emsp;&emsp;(A) the payment of compensation under subtitle 2 of title XXI of the Public Health Service Act (as in effect on December 31, 1999) for vaccine-related injury or death with respect to any vaccine—
 
 &emsp;&emsp;&emsp;(i) which is administered after September 30, 1988, and
 
@@ -64,29 +64,29 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 &emsp;If at any time the Vaccine Injury Compensation Trust Fund has insufficient funds to pay all of the claims out of such Trust Fund at such time, such claims shall, to the extent permitted under paragraph (1) be paid in full in the order in which they are finally determined.
 
-(Added Pub. L. 100–203, title IX, §9202(a), Dec. 22, 1987, 101 Stat. 1330–330; amended Pub. L. 100–647, title II, §2006(b), Nov. 10, 1988, 102 Stat. 3613; Pub. L. 101–239, title VII, §7841(g)(1), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 103–66, title XIII, §13421(b), Aug. 10, 1993, 107 Stat. 566; Pub. L. 105–277, div. C, title XV, §1504(a), div. J, title IV, §4003(d), Oct. 21, 1998, 112 Stat. 2681–741, 2681–909.)
+(Added Pub. L. 100–203, title IX, §9202(a), Dec. 22, 1987, 101 Stat. 1330–330; amended Pub. L. 100–647, title II, §2006(b), Nov. 10, 1988, 102 Stat. 3613; Pub. L. 101–239, title VII, §7841(g)(1), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 103–66, title XIII, §13421(b), Aug. 10, 1993, 107 Stat. 566; Pub. L. 105–277, div. C, title XV, §1504(a), div. J, title IV, §4003(d), Oct. 21, 1998, 112 Stat. 2681–741, 2681–909; Pub. L. 106–170, title V, §523(b)(1), (2), Dec. 17, 1999, 113 Stat. 1927.)
 
 #### References in Text
 
 The Public Health Service Act, referred to in subsec. (c)(1)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subtitle 2 of title XXI of the Public Health Service Act is classified generally to part 2 (§300aa–10 et seq.) of subchapter XIX of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The National Childhood Vaccine Injury Act of 1986, referred to in subsec. (d)(2), is title III of Pub. L. 99–660, Nov. 14, 1986, 100 Stat. 3755, as amended, which is classified principally to subchapter XIX (§300aa–1 et seq.) of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title of 1986 Amendments note set out under section 201 of Title 42 and Tables.
+The National Childhood Vaccine Injury Act of 1986, referred to in subsec. (d)(2), is title III of Pub. L. 99–660, Nov. 14, 1986, 100 Stat. 3755, as amended, which is classified principally to subchapter XIX (§300aa–1 et seq.) of chapter 6A of Title 42. For complete classification ofthis Act to the Code, see Short Title of 1986 Amendments note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
 
-1998—Subsec. (b)(3). Pub. L. 105–277, §§1504(a)(2) and 4003(d)(2), amended subsec. (b) identically, adding par. (3).
+1999—Subsec. (b)(3). Pub. L. 106–170, §523(b)(1), repealed Pub. L. 105–277, §1504(a)(2). See 1998 Amendment note below.
 
-Subsec. (c)(1). Pub. L. 105–277, §4003(d)(1), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Amounts in the Vaccine Injury Compensation Trust Fund shall be available, as provided in appropriation Acts, only for—
+Subsec. (c)(1). Pub. L. 106–170, §523(b)(1), repealed Pub. L. 105–277, §1504(a)(1). See 1998 Amendment note below.
 
-&emsp;“(A) the payment of compensation under subtitle 2 of title XXI of the Public Health Service Act (as in effect on August 6, 1997) for vaccine-related injury or death with respect to any vaccine—
+Subsec. (c)(1)(A). Pub. L. 106–170, §523(b)(2), substituted “December 31, 1999” for “August 5, 1997”.
 
-&emsp;&emsp;“(i) which is administered after September 30, 1988, and
+1998—Subsec. (b)(3). Pub. L. 105–277, §4003(d)(2), added par. (3).
 
-&emsp;&emsp;“(ii) which is a taxable vaccine (as defined in section 4132(a)(1)) at the time the vaccine was administered, or
+Pub. L. 105–277, §1504(a)(2), which directed amendment of subsec. (b) by adding a new par. (3) at the end, was repealed by Pub. L. 106–170, §523(b)(1).
 
-&emsp;“(B) the payment of all expenses of administration incurred by the Federal Government in administering such subtitle.”
+Subsec. (c)(1). Pub. L. 105–277, §4003(d)(1), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Amounts in the Vaccine Injury Compensation Trust Fund shall be available, as provided in appropriation Acts, only for the payment of compensation under subtitle 2 of title XXI of the Public Health Service Act (as in effect on the date of the enactment of this section) for vaccine-related injury or death with respect to vaccines administered after September 30, 1988, or for the payment of all expenses of administration (but not in excess of $6,000,000 for any fiscal year) incurred by the Federal Government in administering such subtitle.”
 
-Pub. L. 105–277, §1504(a)(1), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Amounts in the Vaccine Injury Compensation Trust Fund shall be available, as provided in appropriation Acts, only for the payment of compensation under subtitle 2 of title XXI of the Public Health Service Act (as in effect on the date of the enactment of this section) for vaccine-related injury or death with respect to vaccines administered after September 30, 1988, or for the payment of all expenses of administration (but not in excess of $6,000,000 for any fiscal year) incurred by the Federal Government in administering such subtitle.”
+Pub. L. 105–277, §1504(a)(1), which directed the general amendment of par. (1), was repealed by Pub. L. 106–170, §523(b)(1).
 
 1993—Subsec. (c)(1). Pub. L. 103–66 struck out “and before October 1, 1992,” after “September 30, 1988,”.
 
@@ -94,9 +94,13 @@ Pub. L. 105–277, §1504(a)(1), amended heading and text of par. (1) generally.
 
 1988—Subsec. (a). Pub. L. 100–647 inserted “appropriated or” before “credited” and “this section or” before “section 9602(b)”.
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 effective as if included in the provisions of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, Pub. L. 105–277, to which such amendment relates, see section 523(b)(3) of Pub. L. 106–170, set out as a note under section 4132 of this title.
+
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. C, title XV, §1504(b), Oct. 21, 1998, 112 Stat. 2681–742, provided that: “The amendments made by this section \[amending this section\] shall take effect as if included in the provisions of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34\] to which they relate.”
+Pub. L. 105–277, div. C, title XV, §1504(b), Oct. 21, 1998, 112 Stat. 2681–742, which provided that the amendments made to this section by Pub. L. 105–277, §1504, were to take effect as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which they related, was repealed by Pub. L. 106–170, title V, §523(b)(1), Dec. 17, 1999, 113 Stat. 1927.
 
 Amendment by section 4003(d) of Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
 

@@ -18,5 +18,5 @@ A proviso in the 1906 resolution, requiring annual estimates of probable costs f
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 717 of this title; title 22 section 3714b.
+This section is referred to in section 717 of this title; title 22 section 3714b; title 35 section 2.
 

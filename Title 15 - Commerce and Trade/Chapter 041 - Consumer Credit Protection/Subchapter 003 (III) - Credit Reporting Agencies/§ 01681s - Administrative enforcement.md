@@ -2,15 +2,13 @@
 
 #### (a) Enforcement by Federal Trade Commission
 
-(1) Compliance with the requirements imposed under this subchapter shall be enforced under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] by the Federal Trade Commission with respect to consumer reporting agencies and all other persons subject thereto, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other government agency under subsection (b) hereof. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement or prohibition imposed under this subchapter shall constitute an unfair or deceptive act or practice in commerce in violation of section 5(a) of the Federal Trade Commission Act \[15 U.S.C. 45(a)\] and shall be subject to enforcement by the Federal Trade Commission under section 5(b) thereof \[15 U.S.C. 45(b)\] with respect to any consumer reporting agency or person subject to enforcement by the Federal Trade Commission pursuant to this subsection, irrespective ofwhether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act. The Federal Trade Commission shall have such procedural, investigative, and enforcement powers, including the power to issue procedural rules in enforcing compliance with the requirements imposed under this subchapter and to require the filing of reports, the production of documents, and the appearance of witnesses as though the applicable terms and conditions of the Federal Trade Commission Act were part of this subchapter. Any person violating any of the provisions of this subchapter shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act as though the applicable terms and provisions thereof were part of this subchapter.
+(1) Compliance with the requirements imposed under this subchapter shall be enforced under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] by the Federal Trade Commission with respect to consumer reporting agencies and all other persons subject thereto, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other government agency under subsection (b) hereof. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement or prohibition imposed under this subchapter shall constitute an unfair or deceptive act or practice in commerce in violation of section 5(a) of the Federal Trade Commission Act \[15 U.S.C. 45(a)\] and shall be subject to enforcement by the Federal Trade Commission under section 5(b) thereof \[15 U.S.C. 45(b)\] with respect to any consumer reporting agency or person subject to enforcement by the Federal Trade Commission pursuant to this subsection, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act. The Federal Trade Commission shall have such procedural, investigative, and enforcement powers, including the power to issue procedural rules in enforcing compliance with the requirements imposed under this subchapter and to require the filing of reports, the production of documents, and the appearance of witnesses as though the applicable terms and conditions of the Federal Trade Commission Act were part of this subchapter. Any person violating any of the provisions of this subchapter shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act as though the applicable terms and provisions thereof were part of this subchapter.
 
 (2)(A) In the event of a knowing violation, which constitutes a pattern or practice of violations of this subchapter, the Commission may commence a civil action to recover a civil penalty in a district court of the United States against any person that violates this subchapter. In such action, such person shall be liable for a civil penalty of not more than $2,500 per violation.
 
 (B) In determining the amount of a civil penalty under subparagraph (A), the court shall take into account the degree of culpability, any history of prior such conduct, ability to pay, effect on ability to continue to do business, and such other matters as justice may require.
 
 (3) Notwithstanding paragraph (2), a court may not impose any civil penalty on a person for a violation of section 1681s–2(a)(1) of this title unless the person has been enjoined from committing the violation, or ordered not to commit the violation, in an action or proceeding brought by or on behalf of the Federal Trade Commission, and has violated the injunction or order, and the court may not impose any civil penalty for any violation occurring before the date of the violation of the injunction or order.
-
-(4) Neither the Commission nor any other agency referred to in subsection (b) of this section may prescribe trade regulation rules or other regulations with respect to this subchapter.
 
 #### (b) Enforcement by other agencies
 
@@ -52,7 +50,7 @@ Compliance with the requirements imposed under this subchapter with respect to c
 
 &emsp;&emsp;&emsp;(iii) damages of not more than $1,000 for each willful or negligent violation; and
 
-&emsp;&emsp;(C) in the case of any successful action under subparagraph (A) or (B), shall beawarded the costs of the action and reasonable attorney fees as determined by the court.
+&emsp;&emsp;(C) in the case of any successful action under subparagraph (A) or (B), shall be awarded the costs of the action and reasonable attorney fees as determined by the court.
 
 #### (2) Rights of Federal regulators
 
@@ -68,7 +66,7 @@ Compliance with the requirements imposed under this subchapter with respect to c
 
 #### (3) Investigatory powers
 
-&emsp;For purposes of bringing any action under this subsection, nothing in this subsection shall prevent the chief law enforcement officer, or an official or agency designated by a State, from exercising the powers conferred on the chief law enforcement officer or such official by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
+&emsp;For purposes of bringing any action under this subsection, nothing in this subsectionshall prevent the chief law enforcement officer, or an official or agency designated by a State, from exercising the powers conferred on the chief law enforcement officer or such official by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
 
 #### (4) Limitation on State action while Federal action pending
 
@@ -90,13 +88,15 @@ Compliance with the requirements imposed under this subchapter with respect to c
 
 #### (d) Enforcement under other authority
 
-For the purpose of the exercise by any agency referred to in subsection (b) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b) of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter any other authority conferred on it by law. Notwithstanding the preceding, no agency referred to in subsection (b) of this section may conduct an examination of a bank, savings association, or credit union regarding compliance with the provisions of this subchapter, except in response to a complaint (or if the agency otherwise has knowledge) that the bank, savings association, or credit union has violated a provision of this subchapter, in which case, the agency may conduct an examination as necessary to investigate the complaint. If an agency determines during an investigation in response to a complaint that a violation of this subchapter has occurred, the agency may, during its next 2 regularly scheduled examinations of the bank, savings association, or credit union, examine for compliance with this subchapter.
+For the purpose of the exercise by any agency referred to in subsection (b) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b) of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter any other authority conferred on it by law.
 
-#### (e) Interpretive authority
+#### (e) Regulatory authority
 
-The Board of Governors of the Federal Reserve System may issue interpretations of any provision of this subchapter as such provision may apply to any persons identified under paragraph <sup>2</sup> (1), (2), and (3) of subsection (b) of this section, or to the holding companies and affiliates of such persons, in consultation with Federal agencies identified in paragraphs (1), (2), and (3) of subsection (b) of this section.
+(1) The Federal banking agencies referred to in paragraphs (1) and (2) of subsection (b) of this section shall jointly prescribe such regulations as necessary to carry out the purposes of this subchapter with respect to any persons identified under paragraphs (1) and (2) of subsection (b) of this section, and the Board of Governors of the Federal Reserve System shall have authority to prescribe regulations consistent with such joint regulations with respect to bank holding companies and affiliates (other than depository institutions and consumer reporting agencies) of such holding companies.
 
-(Pub. L. 90–321, title VI, §621, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(<i>l</i>), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(c), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, §1604(a)(6), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §314, Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–208, div. A, title II, §§2416–2418, Sept. 30, 1996, 110 Stat. 3009–450 to 3009–452; Pub. L. 105–347, §6(6), Nov. 2, 1998, 112 Stat. 3211.)
+(2) The Board of the National Credit Union Administration shall prescribe such regulations as necessary to carry out the purposes of this subchapter with respect to any persons identified under paragraph (3) of subsection (b) of this section.
+
+(Pub. L. 90–321, title VI, §621, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(<i>l</i>), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(c), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, §1604(a)(6), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §314, Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–208, div. A, title II, §§2416–2418, Sept. 30, 1996, 110 Stat. 3009–450 to 3009–452; Pub. L. 105–347, §6(6), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 106–102, title V, §506(a), (b), Nov. 12, 1999, 113 Stat. 1441, 1442.)
 
 #### References in Text
 
@@ -108,6 +108,8 @@ The Federal Credit Union Act, referred to in subsec. (b)(3), is act June 26, 193
 
 The Packers and Stockyards Act, 1921, referred to in subsec. (b)(6), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, as amended, which is classified to chapter 9 (§181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
+This subchapter, referred to in subsec. (e), was in the original, “this Act” and was translated as reading “this title”, meaning title VI of Pub. L. 90–321, known as the Fair Credit Reporting Act, to reflect the probable intent of Congress.
+
 #### Codification
 
 In subsec. (b)(4), “subtitle IV of title 49” substituted for “the Acts to regulate commerce” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
@@ -115,6 +117,12 @@ In subsec. (b)(4), “subtitle IV of title 49” substituted for “the Acts to 
 In subsec. (b)(5), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301 et seq.\]” and “that part” substituted for “that Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
 
 #### Amendments
+
+1999—Subsec. (a)(4). Pub. L. 106–102, §506(b), struck out par. (4) which read as follows: “Neither the Commission nor any other agency referred to in subsection (b) of this section may prescribe trade regulation rules or other regulations with respect to this subchapter.”
+
+Subsec. (d). Pub. L. 106–102, §506(a)(1), struck out at the end “Notwithstanding the preceding, no agency referred to in subsection (b) of this section may conductan examination of a bank, savings association, or credit union regarding compliance with the provisions of this subchapter, except in response to a complaint (or if the agency otherwise has knowledge) that the bank, savings association, or credit union has violated a provision of this subchapter, in which case, the agency may conduct an examination as necessary to investigate the complaint. If an agency determines during an investigation in response to a complaint that a violation of this subchapter has occurred, the agency may, during its next 2 regularly scheduled examinations of the bank, savings association, or credit union, examine for compliance with this subchapter.”
+
+Subsec. (e). Pub. L. 106–102, §506(a)(2), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “The Board of Governors of the Federal Reserve System may issue interpretations of any provision of this subchapter as such provision may apply to any persons identified under paragraph (1), (2), and (3) of subsection (b) of this section, or to the holding companies and affiliates of such persons, in consultation with Federal agencies identified in paragraphs (1), (2), and (3) of subsection (b) of this section.”
 
 1998—Subsec. (b). Pub. L. 105–347 struck out “or (e)” after “subject to subsection (d)” in introductory provisions.
 
@@ -175,6 +183,4 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 This section is referred to in sections 1681g, 1681s–2 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “paragraphs”.</i>
 

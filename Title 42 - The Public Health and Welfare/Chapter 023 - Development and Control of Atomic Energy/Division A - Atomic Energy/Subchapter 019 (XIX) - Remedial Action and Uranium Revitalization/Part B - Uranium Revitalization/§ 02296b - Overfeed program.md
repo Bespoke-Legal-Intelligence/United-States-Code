@@ -6,11 +6,15 @@ To the maximum extent permitted by sound business practice, the Corporation shal
 
 #### (b) Use of domestic uranium
 
-Uranium purchased by the Corporation for purposes of this section shall be of domestic origin and purchased from domestic uranium producers to the extent permitted under the General Agreement on Tariffs and Trade and the United States-Canada Free Trade Agreement.
+Uranium purchased by the Corporation for purposes of this section shall be of domestic origin and purchased from domestic uranium producers to the extent permitted under the multilateral trade agreements (as defined in section 3501(4) of title 19) and the North American Free Trade Agreement.
 
-(Pub. L. 102–486, title X, §1011, Oct. 24, 1992, 106 Stat. 2948.)
+(Pub. L. 102–486, title X, §1011, Oct. 24, 1992, 106 Stat. 2948; Pub. L. 106–36, title I, §1002(g)(1), June 25, 1999, 113 Stat. 133.)
 
 #### Codification
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+#### Amendments
+
+1999—Subsec. (b). Pub. L. 106–36 substituted “multilateral trade agreements (as defined in section 3501(4) of title 19) and the “North American Free Trade Agreement” for “General Agreement on Tariffs and Trade and the United States-Canada Free Trade Agreement”.
 

@@ -12,7 +12,7 @@ Whoever kills any person who performs any inspections which—
 
 #### (b) Assault
 
-Whoever forcibly assaults, resists, opposes, impedes, intimidates, or interferes with any person who performs inspections as described under subsection (a) of this section, while such person is engaged in such inspection duties or on account of the performance of such duties, shall be punished as provided under section 111 of title 18.
+Whoever forcibly assaults, resists, opposes, impedes, intimidates, or interferes with any person who performs inspections as described under subsection (a) of this section, while such personis engaged in such inspection duties or on account of the performance of such duties, shall be punished as provided under section 111 of title 18.
 
 (Aug. 1, 1946, ch. 724, title I, §235, as added Pub. L. 96–295, title II, §202(a), June 30, 1980, 94 Stat. 786; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 

@@ -6,7 +6,7 @@ A prior section 351, act Sept. 16, 1942, ch. 561, title IV, §401, as added Apr.
 
 Section 352, act Sept. 16, 1942, ch. 561, title IV, §402, as added Apr. 19, 1946, ch. 142, 60 Stat. 102; amended Sept. 29, 1950, ch. 1112, §2, 64 Stat. 1083, related to free postage.
 
-A prior section 352, act Sept. 16, 1942, ch. 561, title IV, §402, as added Apr. 1, 1944, ch. 150, 58 Stat. 147, relatedto free postage and was repealed by act Apr. 19, 1946, ch. 142, 60 Stat. 96.
+A prior section 352, act Sept. 16, 1942, ch. 561, title IV, §402, as added Apr. 1, 1944, ch. 150, 58 Stat. 147, related to free postage and was repealed by act Apr. 19, 1946, ch. 142, 60 Stat. 96.
 
 Section 353, act Sept. 16, 1942, ch. 561, title IV, §403, as added Apr. 19, 1946, ch. 142, 60 Stat. 103, related to administration of this chapter.
 

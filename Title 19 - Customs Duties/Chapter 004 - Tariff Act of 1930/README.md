@@ -23,10 +23,11 @@
 | (e) | Marking of certain manhole rings or frames, covers, and assemblies thereof. |
 | (f) | Marking of certain coffee and tea products. |
 | (g) | Marking of spices. |
-| (h) | Additional duties for failure to mark. |
-| (i) | Delivery withheld until marked. |
-| (j) | Treatment of goods of NAFTA country. |
-| (k) | Penalties. |
+| (h) | Marking of certain silk products. |
+| (i) | Additional duties for failure to mark. |
+| (j) | Delivery withheld until marked. |
+| (k) | Treatment of goods of NAFTA country. |
+| (<i>l</i>) | Penalties. |
 | [1305\.](Subtitle%20002%20%28II%29%20-%20Special%20Provisions/Part%20001%20%28I%29%20-%20Miscellaneous/%C2%A7%2001305%20-%20Immoral%20articles%3B%20importation%20prohibited.md) | Immoral articles; importation prohibited. |
 | (a) | Prohibition of importation. |
 | (b) | Enforcement procedures. |
@@ -277,6 +278,7 @@ I74subpart a—definitions
 | [1411\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20Definitions%20and%20National%20Customs%20Automation%20Program/Subpart%20b%20-%20National%20Customs%20Automation%20Program/%C2%A7%2001411%20-%20National%20Customs%20Automation%20Program.md) | National Customs Automation Program. |
 | (a) | Establishment. |
 | (b) | Participation in Program. |
+| (c) | Foreign-trade zones. |
 | [1412\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20Definitions%20and%20National%20Customs%20Automation%20Program/Subpart%20b%20-%20National%20Customs%20Automation%20Program/%C2%A7%2001412%20-%20Program%20goals.md) | Program goals. |
 | [1413\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20Definitions%20and%20National%20Customs%20Automation%20Program/Subpart%20b%20-%20National%20Customs%20Automation%20Program/%C2%A7%2001413%20-%20Implementation%20and%20evaluation%20of%20Program.md) | Implementation and evaluation of Program. |
 | (a) | Overall Program plan. |
@@ -385,6 +387,13 @@ I74subpart a—definitions
 | (g) | Statement of cost of production. |
 | (h) | Admissibility of data electronically transmitted. |
 | [1484a.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001484a%20-%20Articles%20returned%20from%20space%20not%20to%20be%20construed%20as%20importation.md) | Articles returned from space not to be construed as importation. |
+| [1484b.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001484b%20-%20Deferral%20of%20duty%20on%20large%20yachts%20imported%20for%20sale%20at%20United%20States%20boat%20shows.md) | Deferral of duty on large yachts imported for sale at United States boat shows. |
+| (a) | In general. |
+| (b) | Definition. |
+| (c) | Deferral of duty. |
+| (d) | Procedures upon sale. |
+| (e) | Procedures upon expiration of bond period. |
+| (f) | Regulations. |
 | [1485\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001485%20-%20Declaration.md) | Declaration. |
 | (a) | Requirement; form and contents. |
 | (b) | Books and periodicals. |

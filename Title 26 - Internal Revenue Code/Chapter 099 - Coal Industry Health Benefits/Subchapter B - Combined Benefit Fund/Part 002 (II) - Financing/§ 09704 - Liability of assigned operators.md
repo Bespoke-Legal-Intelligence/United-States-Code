@@ -34,7 +34,7 @@ For purposes of this chapter—
 
 #### (3) Adjustments for medicare reductions
 
-&emsp;If, by reason of a reduction in benefits under title XVIII of the Social Security Act, the level of health benefits under the Combined Fund would be reduced, the trustees of theCombined Fund shall increase the per beneficiary premium for the plan year in which the reduction occurs and each subsequent plan year by the amount necessary to maintain the level of health benefits which would have been provided without such reduction.
+&emsp;If, by reason of a reduction in benefits under title XVIII of the Social Security Act, the level of health benefits under the Combined Fund would be reduced, the trustees of the Combined Fund shall increase the per beneficiary premium for the plan year in which the reduction occurs and each subsequent plan year by the amount necessary to maintain the level of health benefits which would have been provided without such reduction.
 
 #### (c) Death benefit premium
 
@@ -114,7 +114,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 #### (A) 1st year costs
 
-&emsp;&emsp;During the plan year of the Combined Fund beginning February 1, 1993, the 1988agreement operators shall make contributions to the Combined Fund in amounts necessary to pay benefits and administrative costs of the Combined Fund incurred during such year, reduced by the amount transferred to the Combined Fund under section 9705(a) on February 1, 1993.
+&emsp;&emsp;During the plan year of the Combined Fund beginning February 1, 1993, the 1988 agreement operators shall make contributions to the Combined Fund in amounts necessary to pay benefits and administrative costs of the Combined Fund incurred during such year, reduced by the amount transferred to the Combined Fund under section 9705(a) on February 1, 1993.
 
 #### (B) Deficits from merged plans
 

@@ -28,6 +28,8 @@ Credits to Funds.—(1) There shall be credited to the Department of Defense Fam
 
 &emsp;(D) Income derived from any activities under this subchapter with respect to military family housing, including interest on loans made under section 2873 of this title, income and gains realized from investments under section 2875 of this title, and any return of capital invested as part of such investments.
 
+&emsp;(E) Any amounts that the Secretary of the Navy transfers to that Fund pursuant to section 2814(i)(3) of this title, subject to the restrictions on the use of the transferred amounts specified in that section.
+
 (2) There shall be credited to the Department of Defense Military Unaccompanied Housing Improvement Fund the following:
 
 &emsp;(A) Amounts authorized for and appropriated to that Fund.
@@ -37,6 +39,8 @@ Credits to Funds.—(1) There shall be credited to the Department of Defense Fam
 &emsp;(C) Proceeds from the conveyance or lease of property or facilities under section 2878 of this title for the purpose of carrying out activities under this subchapter with respect to military unaccompanied housing.
 
 &emsp;(D) Income derived from any activities under this subchapter with respect to military unaccompanied housing, including interest on loans made under section 2873 of this title, income and gains realized from investments under section 2875 of this title, and any return of capital invested as part of such investments.
+
+&emsp;(E) Any amounts that the Secretary of the Navy transfers to that Fund pursuant to section 2814(i)(3) of this title, subject to the restrictions on the use of the transferred amounts specified in that section.
 
 (d)
 
@@ -62,13 +66,17 @@ Limitation on Amount of Budget Authority.—The total value in budget authority 
 
 &emsp;(2) $150,000,000 for the acquisition or construction of military unaccompanied housing.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 104–201, div. B, title XXVIII, §2804, Sept. 23, 1996, 110 Stat. 2788.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 104–201, div. B, title XXVIII, §2804, Sept. 23, 1996, 110 Stat. 2788; Pub. L. 106–65, div. B, title XXVIII, §2802(b), Oct. 5, 1999, 113 Stat. 848.)
 
 #### Amendments
+
+1999—Subsec. (c)(1)(E). Pub. L. 106–65, §2802(b)(1), added subpar. (E).
+
+Subsec. (c)(2)(E). Pub. L. 106–65, §2802(b)(2), added subpar. (E).
 
 1996—Subsec. (d)(1), (2). Pub. L. 104–201 inserted at end “The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that are otherwise available to the Department of Defense for such types of expenses.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2854a, 2871, 2884 of this title.
+This section is referred to in sections 2814, 2854a, 2871, 2884 of this title.
 

@@ -30,11 +30,11 @@ As used in this subchapter:
 
 #### (B) New programs
 
-&emsp;&emsp;A new program of nursing that, by reason of an insufficient period of operation, is not, at the time of the submission of an application for a grant or contract under this subchapter, eligible for accreditation by such a recognized body or bodies or State agency, shall be deemed accredited for purposes of this subchapter if the Secretary of Education finds, after consultation with the appropriate accreditation body or bodies, that there is reasonable assurance that the program will meet the accreditation standardsof such body or bodies prior to the beginning of the academic year following the normal graduation date of students of the first entering class in such a program.
+&emsp;&emsp;A new program of nursing that, by reason of an insufficient period of operation, is not, at the time of the submission of an application for a grant or contract under this subchapter, eligible for accreditation by such a recognized body or bodies or State agency, shall be deemed accredited for purposes of this subchapter if the Secretary of Education finds, after consultation with the appropriate accreditation body or bodies, that there is reasonable assurance that the program will meet the accreditation standards of such body or bodies prior to the beginning of the academic year following the normal graduation date of students of the first entering class in such a program.
 
 #### (7) Nonprofit
 
-&emsp;The term “nonprofit” as applied to any school, agency, organization, or institution means one which is a corporation or association, or is owned and operated by one or more corporations or associations, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
+&emsp;The term “nonprofit” as applied to any school, agency, organization, or institution means one which is a corporation or association, or is owned and operated by one or more corporations or associations, no part of the net earnings of which inures, or may lawfullyinure, to the benefit of any private shareholder or individual.
 
 #### (8) State
 

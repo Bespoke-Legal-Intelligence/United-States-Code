@@ -612,40 +612,7 @@ Sale, lease, or loan to other Nations of materials for military applications.
 |  |  |
 | :--- | ---: |
 | [2122\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20008%20%28VIII%29%20-%20Military%20Application%20of%20Atomic%20Energy/%C2%A7%2002122%20-%20Prohibitions%20governing%20atomic%20weapons.md) | Prohibitions governing atomic weapons. |
-| [2122a.](Division%20A%20-%20Atomic%20Energy/Subchapter%20008%20%28VIII%29%20-%20Military%20Application%20of%20Atomic%20Energy/%C2%A7%2002122a%20-%20Congressional%20oversight%20of%20special%20access%20programs.md) | Congressional oversight of special access programs. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Annual report on special access programs.
-
-(b)
-
-Annual report on new special access programs.
-
-(c)
-
-Reports on changes in classification of special access programs.
-
-(d)
-
-Notice of change in SAP designation criteria.
-
-(e)
-
-Waiver authority.
-
-(f)
-
-Report and wait for initiating new programs.
-
-(g)
-
-“Congressional defense committees” defined.
-
-|  |  |
-| :--- | ---: |
+| [2122a.](Division%20A%20-%20Atomic%20Energy/Subchapter%20008%20%28VIII%29%20-%20Military%20Application%20of%20Atomic%20Energy/%C2%A7%2002122a%20-%20Repealed.%20Pub.%20L.%20106%E2%80%9365%2C%20div.%20C%2C%20title%20XXXII%2C%20%C2%A73294%28e%29%281%29%28A%29%2C%20Oct.%205%2C%201999%2C%20113%20Stat.%20970.md) | Repealed. |
 | [2123\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20008%20%28VIII%29%20-%20Military%20Application%20of%20Atomic%20Energy/%C2%A7%2002123%20-%20Critical%20technology%20partnerships.md) | Critical technology partnerships. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1141,11 +1108,11 @@ Denial of rights; revocation of prior rights.
 
 (c)
 
-Report of invention to Commissioner of Patents and Trademarks.
+Report of invention to Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.
 
 (d)
 
-Report to Commission by Commissioner of Patents and Trademarks.
+Report to Commission by Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.
 
 (e)
 
@@ -1794,7 +1761,7 @@ Collection of penalties.
 
 |  |  |
 | :--- | ---: |
-| [2282a.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%20%28XVII%29%20-%20Enforcement%20of%20Chapter/%C2%A7%2002282a%20-%20Civil%20monetary%20penalties%20for%20violation%20of%20Department%20of%20Energy%20regulations.md) | Civil monetary penalties for violation of Department of Energy regulations. |
+| [2282a.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%20%28XVII%29%20-%20Enforcement%20of%20Chapter/%C2%A7%2002282a%20-%20Civil%20monetary%20penalties%20for%20violation%20of%20Department%20of%20Energy%20safety%20regulations.md) | Civil monetary penalties for violation of Department of Energy safety regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1813,6 +1780,28 @@ Assessment and payment.
 (d)
 
 Excepted institutions.
+
+|  |  |
+| :--- | ---: |
+| [2282b.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%20%28XVII%29%20-%20Enforcement%20of%20Chapter/%C2%A7%2002282b%20-%20Civil%20monetary%20penalties%20for%20violations%20of%20Department%20of%20Energy%20regulations%20regarding%20security%20of%20classified%20or%20sensitive%20information%20or%E2%80%A6.md) | Civil monetary penalties for violations of Department of Energy regulations regarding security of classified or sensitive information or data. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Persons subject to penalty.
+
+(b)
+
+Fee or payment reductions for violations.
+
+(c)
+
+Powers and limitations.
+
+(d)
+
+Application to certain entities.
 
 |  |  |
 | :--- | ---: |

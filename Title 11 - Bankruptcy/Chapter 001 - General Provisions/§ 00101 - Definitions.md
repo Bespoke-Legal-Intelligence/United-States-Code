@@ -216,7 +216,7 @@ In this title—
 
 &emsp;(33) “institution-affiliated party”—
 
-&emsp;&emsp;(A) with respect to an insured depository institution (as defined in section 3(c)(2) of the Federal Deposit Insurance Act), has the meaning given it in section 3(u) of the Federal Deposit Insurance Act; and
+&emsp;&emsp;(A) with respect to an insured depository institution (as defined in section 3(c)(2) ofthe Federal Deposit Insurance Act), has the meaning given it in section 3(u) of the Federal Deposit Insurance Act; and
 
 &emsp;&emsp;(B) with respect to an insured credit union, has the meaning given it in section 206(r) of the Federal Credit Union Act;
 
@@ -414,7 +414,7 @@ Section 101(17) defines “farmer,” as in the Senate amendment with an income 
 
 Section 101(18) contains a new definition of “farming operation” derived from present law and the definition of “farmer” in the Senate amendment. This definition gives a broad construction to the term “farming operation”.
 
-Section 101(20) contains a definition of “foreign representative”. It clarifies the House bill and Senateamendment by indicating that a foreign representative must be duly selected in a foreign proceeding.
+Section 101(20) contains a definition of “foreign representative”. It clarifies the House bill and Senate amendment by indicating that a foreign representative must be duly selected in a foreign proceeding.
 
 Section 101(35) defines “security” as contained in the Senate amendment. H.R. 8200 as adopted by the House excluded certain commercial notes from the definition of “security”, and that exclusion is deleted.
 
@@ -456,7 +456,7 @@ Paragraph (11) \[enacted as (10)\] defines “custodian.” There is no similar 
 
 Paragraph (13) \[enacted as (12)\] defines “debtor.” Debtor means person or municipality concerning which a case under title II has been commenced. This is a change in terminology from present law, which identifies the person by or against whom a petition is filed in a straight bankruptcy liquidation case as the “bankrupt”, and a person or municipality that is proceeding under a debtor rehabilitation chapter (chapters VIII through XIII of the Bankruptcy Act) \[chapters 8 through 13 of former title 11\] as a “debtor.” The term “debtor” is used for both kinds of cases in this bill, for ease of reference in chapters 1, 3, and 5 (which apply to straight bankruptcy and reorganization cases).
 
-Paragraph (14) \[enacted as (13)\] defines “disinterested person.” The definition is adapted from section 158 ofchapter X of current law \[section 558 of former title 11\], though it is expanded and modified in some respects. A person is a disinterested person if the person is not a creditor, equity security holder, or insider; is not and was not an investment banker of the debtor for any outstanding security of the debtor (the change from underwriter in current law to investment banker is to make the term more descriptive and to avoid conflict with the definition of underwriter in section 2(11) of the Securities Act of 1933 (15 U.S.C. 77b(11)); has not been an investment banker for a security of the debtor within 3 years before the date of the filing of the petition (the change from five years to three years here conforms the definition with the statute of limitations in the Securities Act of 1933) \[15 U.S.C. 77m\], or an attorney for such an investment banker; is not an insider of the debtor or of such an investment banker; and does not have an interest materially adverse to the estate.
+Paragraph (14) \[enacted as (13)\] defines “disinterested person.” The definition is adapted from section 158 of chapter X of current law \[section 558 of former title 11\], though it is expanded and modified in some respects. A person is a disinterested person if the person is not a creditor, equity security holder, or insider; is not and was not an investment banker of the debtor for any outstanding security of the debtor (the change from underwriter in current law to investment banker is to make the term more descriptive and to avoid conflict with the definition of underwriter in section 2(11) of the Securities Act of 1933 (15 U.S.C. 77b(11)); has not been an investment banker for a security of the debtor within 3 years before the date of the filing of the petition (the change from five years to three years here conforms the definition with the statute of limitations in the Securities Act of 1933) \[15 U.S.C. 77m\], or an attorney for such an investment banker; is not an insider of the debtor or of such an investment banker; and does not have an interest materially adverse to the estate.
 
 “Entity” is defined, for convenience, in paragraph (15) \[enacted as (14)\], to include person, estate, trust, and governmental unit. It is the most inclusive of the various defined terms relating to bodies or units.
 
@@ -494,7 +494,7 @@ Paragraph (29) defines “municipality.” The definition is adapted from the te
 
 Paragraph (32) defines purchaser as a transferee of a voluntary transfer, such as a sale or gift, and includes an immediate or mediate transferee of a purchaser.
 
-The definition of “railroad” in paragraph (33) is derived from section 77 of the Bankruptcy Act \[section205 of former title 11\]. A railroad is a common carrier by railroad engaged in the transportation of individuals or property, or an owner of trackage facilities leased by such a common carrier. The effect of the definition and the use of the term in section 109(d) is to eliminate the limitation now found in section 77 of the Bankruptcy Act that only railroads engaged in interstate commerce may proceed under the railroad reorganization provisions. The limitation may have been inserted because of a doubt that the commerce power could not reach intrastate railroads. Be that as it may, this bill is enacted under the bankruptcy power.
+The definition of “railroad” in paragraph (33) is derived from section 77 of the Bankruptcy Act \[section 205 of former title 11\]. A railroad is a common carrier by railroad engaged in the transportation of individuals or property, or an owner of trackage facilities leased by such a common carrier. The effect of the definition and the use of the term in section 109(d) is to eliminate the limitation now found in section 77 of the Bankruptcy Act that only railroads engaged in interstate commerce may proceed under the railroad reorganization provisions. The limitation may have been inserted because of a doubt that the commerce power could not reach intrastate railroads. Be that as it may, this bill is enacted under the bankruptcy power.
 
 Paragraph (34) defines “relative” as an individual related by affinity or consanguinity within the third degree as determined by the common law, and includes individuals in a step or adoptive relationship. The definition is similar to current law, but adds the latter phrase. This definition should be applied as of the time when the transaction that it concerns took place. Thus, a former spouse is not a relative, but if, for example, for purposes of the preference section, proposed 11 U.S.C. 547(b)(4)(B), the transferee was a spouse of the debtor at the time of the transfer sought to be avoided, then the transferee would be relative and subject to the insider rules, even if the transferee was no longer married to the debtor at the time of the commencement of the case or at the time of the commencement of the preference recovery proceeding.
 
@@ -544,7 +544,7 @@ Par. (35A). Pub. L. 103–394, §501(a)(4), redesignated par. (56) defining “i
 
 Par. (39). Pub. L. 103–394, §501(a)(5), redesignated par. (57) defining “mask work” as (39) and inserted it after par. (38). Former par. (39) redesignated (51A).
 
-Par. (41). Pub. L. 103–394, §106, amended par. (41) generally. Prior to amendment, par. (41) read as follows: “ ‘person’ includes individual, partnership, and corporation, but does not include governmental unit, <i>Provided, however</i>, That any governmental unit that acquires an asset from a person as a result of operation of a loan guarantee agreement, or as receiver or liquidating agent of a person, will be considered a person for purposes of section 1102 of this title.”
+Par. (41). Pub. L. 103–394, §106, amended par. (41) generally. Prior to amendment, par. (41) read as follows: “ ‘person’ includes individual, partnership, and corporation, but does not include governmental unit, <i>Provided, however</i>, That any governmental unit that acquires an asset from a person as a result of operation of a loanguarantee agreement, or as receiver or liquidating agent of a person, will be considered a person for purposes of section 1102 of this title.”
 
 Par. (42A). Pub. L. 103–394, §208(a)(1), added par. (42A).
 
@@ -821,6 +821,10 @@ Section 552, formerly §553, of title III (§§301–553) of Pub. L. 98–353, a
 “(b) The amendments made by section 426(b) \[amending section 303 of this title\] shall become effective upon the date of enactment of this Act.
 
 “(c) The amendments made by subtitle J \[enacting section 1113 of this title\], shall become effective as provided in section 541(c) \[set out as an Effective Date note under section 1113 of this title\].”
+
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–183, §1, June 19, 1998, 112 Stat. 517, provided that: “This Act \[amending sections 544, 546, 548, 707, and 1325 of this title and enacting provisions set out as notes under section 544 of this title\] may be cited as the ‘Religious Liberty and Charitable Donation Protection Act of 1998’.”
 
 #### Short Title of 1994 Amendment
 

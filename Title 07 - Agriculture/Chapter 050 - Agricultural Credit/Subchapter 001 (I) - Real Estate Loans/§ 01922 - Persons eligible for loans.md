@@ -38,7 +38,7 @@ The Secretary is authorized to make and insure loans under this subchapter to fa
 
 &emsp;&emsp;Beginning with fiscal year 2000 not later than 12 months before a borrower will become ineligible for direct loans under this subchapter by reason of this paragraph, the Secretary shall notify the borrower of such impending ineligibility.
 
-(Pub. L. 87–128, title III, §302, Aug. 8, 1961, 75 Stat. 307; Pub. L. 91–620, §2, Dec. 31, 1970, 84 Stat. 1862; Pub. L. 95–334, title I, §101, Aug. 4, 1978, 92 Stat. 420; Pub. L. 97–98, title XVI, §1601(a), Dec. 22, 1981, 95 Stat. 1346; Pub. L. 99–198, title XIII, §§1301(a), 1302(a), 1303, Dec. 23, 1985, 99 Stat. 1518, 1519; Pub. L. 104–127, title VI, §601, Apr. 4, 1996, 110 Stat. 1084; Pub. L. 105–277, div. A, title I, §101(a) \[title VIII, §§804, 805(1)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39.)
+(Pub. L. 87–128, title III, §302, Aug. 8, 1961, 75 Stat. 307; Pub. L. 91–620, §2, Dec. 31, 1970, 84 Stat. 1862; Pub. L. 95–334, title I, §101, Aug. 4, 1978, 92 Stat. 420; Pub. L. 97–98, title XVI, §1601(a), Dec. 22, 1981, 95 Stat. 1346; Pub. L. 99–198, title XIII, §§1301(a), 1302(a), 1303, Dec. 23, 1985, 99 Stat. 1518, 1519; Pub. L. 104–127, title VI, §601, Apr. 4, 1996, 110 Stat. 1084; Pub. L. 105–277, div. A, §101(a) \[title VIII, §§804, 805(1)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39.)
 
 #### Amendments
 
@@ -46,7 +46,7 @@ The Secretary is authorized to make and insure loans under this subchapter to fa
 
 Subsec. (b)(3)(D). Pub. L. 105–277, §101(a) \[title VIII, §804\], added subpar. (D).
 
-1996—Subsec. (b). Pub. L. 104–127 added subsec. (b) and struck out former subsec. (b) which read as follows: “The Secretary may not restrict eligibility for loans made or insured under this subchapter for purposes set forth in section 1923 of this title solely to borrowers of loans that are outstanding on December 23, 1985.”
+1996—Subsec. (b). Pub. L. 104–127 added subsec. (b) and struck out former subsec. (b) which read as follows:“The Secretary may not restrict eligibility for loans made or insured under this subchapter for purposes set forth in section 1923 of this title solely to borrowers of loans that are outstanding on December 23, 1985.”
 
 1985—Subsec. (a). Pub. L. 99–198, §§1301(a), 1302(a)(1), designated existing provisions as subsec. (a) and substituted—
 

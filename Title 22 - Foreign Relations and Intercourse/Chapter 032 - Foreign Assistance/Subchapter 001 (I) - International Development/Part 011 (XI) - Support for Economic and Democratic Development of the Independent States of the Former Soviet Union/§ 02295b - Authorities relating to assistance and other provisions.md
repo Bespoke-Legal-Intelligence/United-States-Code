@@ -92,7 +92,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 &emsp;&emsp;(C) exchange arrangements that include advance delivery of commodities, arrangements in which the Cuban Government is not held accountable for unfulfilled exchange contracts, and arrangements under which Cuba does not pay appropriate transportation, insurance, or finance costs; and
 
-&emsp;&emsp;(D) the exchange, reduction, or forgiveness of debt of the Cuban Government in return for a grant by the Cuban Government of an equity interest in a property, investment, or operation of the Cuban Government or of a Cuban national.
+&emsp;&emsp;(D) the exchange, reduction, or forgiveness of debt of the Cuban Government in return for a grant by the Cuban Government of anequity interest in a property, investment, or operation of the Cuban Government or of a Cuban national.
 
 #### (4) Cuban Government
 
@@ -129,6 +129,8 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
 #### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 Functions of President under subsecs. (c) and (g) of this section delegated to Coordinator by section 2(c) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, set out as a note under section 5812 of this title.
 

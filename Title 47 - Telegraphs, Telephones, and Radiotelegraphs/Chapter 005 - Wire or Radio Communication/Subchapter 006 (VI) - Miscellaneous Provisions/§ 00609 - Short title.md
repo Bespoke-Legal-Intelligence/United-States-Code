@@ -8,6 +8,12 @@ This chapter may be cited as the “Communications Act of 1934.”
 
 This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, known as the Communications Act of 1934, which enacted this chapter, amended section 35 of this title, section 21 of Title 15, Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
 
+#### Short Title of 1999 Amendments
+
+Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5008(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–594, provided that: “This section \[amending section 336 of this title and enacting provisions set out as a note under section 336 of this title\] may be cited as the ‘Community Broadcasters Protection Act of 1999’.”
+
+Pub. L. 106–81, §1, Oct. 26, 1999, 113 Stat. 1286, provided that: “This Act \[enacting sections 615 to 615b of this title, amending sections 222 and 251 of this title, and enacting provisions set out as a note under section 615 of this title\] may be cited as the ‘Wireless Communications and Public Safety Act of 1999’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–277, div. C, title XIV, §1401, Oct. 21, 1998, 112 Stat. 2681–736, provided that: “This title \[enacting section 231 of this title, amending sections 223 and 230 of this title, and enacting provisions set out as notes under sections 223 and 231 of this title\] may be cited as the ‘Child Online Protection Act’.”
@@ -26,7 +32,7 @@ Pub. L. 102–356, §1, Aug. 26, 1992, 106 Stat. 949, provided that: “This Act
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–243, §1, Dec. 20, 1991, 105 Stat. 2394, provided that: “This Act \[enacting section 227 of this title, amending sections 152 and 331 of this title, and enacting provisions set out as notes under section 227 of this title\] may be cited as the ‘Telephone Consumer Protection Act of 1991’.”
+Pub. L. 102–243, §1, Dec. 20, 1991, 105 Stat. 2394, provided that: “This Act \[enacting section 227 of this title,amending sections 152 and 331 of this title, and enacting provisions set out as notes under section 227 of this title\] may be cited as the ‘Telephone Consumer Protection Act of 1991’.”
 
 #### Short Title of 1990 Amendments
 
@@ -60,7 +66,7 @@ Pub. L. 97–410, §1, Jan. 3, 1983, 96 Stat. 2043, provided: “That this Act \
 
 #### Short Title of 1982 Amendment
 
-Pub. L. 97–259, title I, §101, Sept. 13, 1982, 96 Stat. 1087, provided that: “This title \[enacting sections 332 and 510 of this title, amending sections 153, 154, 155, 224, 301, 302a, 303, 304, 307, 309, 311, 312, 319, 402, 405, 408, 503, and605 of this title and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 302a of this title\] may be cited as the ‘Communications Amendments Act of 1982’.”
+Pub. L. 97–259, title I, §101, Sept. 13, 1982, 96 Stat. 1087, provided that: “This title \[enacting sections 332 and 510 of this title, amending sections 153, 154, 155, 224, 301, 302a, 303, 304, 307, 309, 311, 312, 319, 402, 405, 408, 503, and 605 of this title and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 302a of this title\] may be cited as the ‘Communications Amendments Act of 1982’.”
 
 #### Short Title of 1981 Amendments
 

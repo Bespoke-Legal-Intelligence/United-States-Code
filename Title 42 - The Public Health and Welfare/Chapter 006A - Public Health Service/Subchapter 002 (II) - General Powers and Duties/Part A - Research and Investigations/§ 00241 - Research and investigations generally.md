@@ -10,7 +10,7 @@ The Secretary shall conduct in the Service, and encourage, cooperate with, and r
 
 &emsp;(3) make grants-in-aid to universities, hospitals, laboratories, and other public or private institutions, and to individuals for such research projects as are recommended by the advisory council to the entity of the Department supporting such projects and make, upon recommendation of the advisory council to the appropriate entity of the Department, grants-in-aid to public or nonprofit universities, hospitals, laboratories, and other institutions for the general support of their research;
 
-&emsp;(4) secure from time to time and for such periods as he deems advisable, the assistance andadvice of experts, scholars, and consultants from the United States or abroad;
+&emsp;(4) secure from time to time and for such periods as he deems advisable, the assistance and advice of experts, scholars, and consultants from the United States or abroad;
 
 &emsp;(5) for purposes of study, admit and treat at institutions, hospitals, and stations of the Service, persons not otherwise eligible for such treatment;
 
@@ -20,7 +20,7 @@ The Secretary shall conduct in the Service, and encourage, cooperate with, and r
 
 &emsp;(8) adopt, upon recommendations of the advisory councils to the appropriate entities of the Department or, with respect to mental health, the National Advisory Mental Health Council, such additional means as the Secretary considers necessary or appropriate to carry out the purposes of this section.
 
-> The Secretary may make available to individuals and entities, for biomedical and behavioral research, substances and living organisms. Such substances and organisms shall be made available under such terms and conditions (including payment for them) as the Secretary determines appropriate.
+> The Secretary may make available to individuals and entities, for biomedical and behavioral research, substances and living organisms. Such substances and organisms shall be made available under such terms and conditions (includingpayment for them) as the Secretary determines appropriate.
 
 #### (b) Testing for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects; consultation
 
@@ -58,7 +58,7 @@ The Secretary may conduct biomedical research, directly or through grants or con
 
 The Secretary may authorize persons engaged in biomedical, behavioral, clinical, or other research (including research on mental health, including research on the use and effect of alcohol and other psychoactive drugs) to protect the privacy of individuals who are the subject of such research by withholding from all persons not connected with the conduct of such research the names or other identifying characteristics of such individuals. Persons so authorized to protect the privacy of such individuals may not be compelled in any Federal, State, or local civil, criminal, administrative, legislative, or other proceedings to identify such individuals.
 
-(July 1, 1944, ch. 373, title III, §301, 58 Stat. 691; July 3, 1946, ch. 538, §7(a), (b), 60 Stat. 423; June 16, 1948, ch. 481, §4(e), (f), 62 Stat. 467; June 24, 1948, ch. 621, §4(e), (f), 62 Stat. 601; June 25, 1948, ch. 654, §1, 62 Stat. 1017; July 3, 1956, ch. 510, §4, 70 Stat. 490; Pub. L. 86–798, Sept. 15, 1960, 74 Stat. 1053; Pub. L. 87–838, §2, Oct. 17, 1962, 76 Stat. 1073; Pub. L. 89–115, §3, Aug. 9, 1965, 79 Stat. 448; Pub. L. 90–174, §9, Dec. 5, 1967, 81 Stat. 540; Pub. L. 91–513, title I, §3(a), Oct. 27, 1970, 84 Stat. 1241; Pub. L. 91–515, title II, §292, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 92–218, §6(a)(2), Dec. 23, 1971, 85 Stat. 785; Pub. L. 92–423, §7(b), Sept. 19, 1972, 86 Stat. 687; Pub. L. 93–282, title I, §122(b), May 14, 1974, 88 Stat. 132; Pub. L. 93–348, title I, §104(a)(1), July 12, 1974, 88 Stat. 346; Pub. L. 93–352, title I, §111, July 23, 1974, 88 Stat. 360; Pub. L. 94–278, title I, §111, Apr. 22, 1976, 90 Stat. 405; Pub. L. 95–622, title II, §§261, 262, Nov. 9, 1978, 92 Stat. 3434; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–158, §3(a)(5), Nov. 20, 1985, 99 Stat. 879; Pub. L. 99–570, title IV, §4021(b)(2), Oct. 27, 1986, 100 Stat. 3207–124; Pub. L. 99–660, title I, §104, Nov. 14, 1986, 100 Stat. 3751; Pub. L. 100–607, title I, §163(1), (2), Nov. 4, 1988, 102 Stat. 3062; Pub. L. 103–43, title XX, §2009, June 10, 1993, 107 Stat. 213.)
+(July 1, 1944, ch. 373, title III, §301, 58 Stat. 691; July 3, 1946, ch. 538, §7(a), (b), 60 Stat. 423; June 16, 1948, ch. 481, §4(e), (f), 62 Stat. 467; June 24, 1948, ch. 621, §4(e), (f), 62 Stat. 601; June 25, 1948, ch. 654, §1, 62 Stat. 1017; July 3, 1956, ch. 510, §4, 70 Stat. 490; Pub. L. 86–798, Sept. 15, 1960, 74 Stat. 1053; Pub. L. 87–838, §2, Oct. 17, 1962, 76 Stat. 1073; Pub. L. 89–115, §3, Aug. 9, 1965, 79 Stat. 448; Pub. L. 90–174, §9, Dec. 5, 1967, 81 Stat. 540; Pub. L. 91–513, title I, §3(a), Oct. 27, 1970, 84 Stat. 1241; Pub. L. 91–515, title II, §292, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 92–218, §6(a)(2), Dec. 23, 1971, 85 Stat. 785; Pub. L. 92–423, §7(b), Sept. 19, 1972, 86 Stat. 687; Pub. L. 93–282, title I, §122(b), May 14, 1974, 88 Stat. 132; Pub. L. 93–348, title I, §104(a)(1), July 12, 1974, 88 Stat. 346; Pub. L. 93–352, title I, §111, July 23, 1974, 88 Stat. 360; Pub. L. 94–278, title I, §111, Apr. 22, 1976, 90 Stat. 405; Pub. L. 95–622, title II, §§261, 262, Nov. 9, 1978, 92 Stat. 3434; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–158, §3(a)(5), Nov. 20, 1985, 99 Stat. 879; Pub. L. 99–570, title IV, §4021(b)(2), Oct. 27, 1986, 100 Stat. 3207–124; Pub.L. 99–660, title I, §104, Nov. 14, 1986, 100 Stat. 3751; Pub. L. 100–607, title I, §163(1), (2), Nov. 4, 1988, 102 Stat. 3062; Pub. L. 103–43, title XX, §2009, June 10, 1993, 107 Stat. 213.)
 
 #### Amendments
 
@@ -140,6 +140,14 @@ Amendment by Pub. L. 92–423 effective 60 days after Sept. 19, 1972, or on such
 
 Amendment by Pub. L. 92–218 effective 60 days after Dec. 23, 1971, or on such prior date after Dec. 23, 1971, as the President shall prescribe and publish in the Federal Register, see section 7 of Pub. L. 92–218, set out as a note under section 218 of this title.
 
+#### Certain Technologies and Practices Regarding Survival Rates for Cardiac Arrest
+
+Pub. L. 106–129, §7, Dec. 6, 1999, 113 Stat. 1676, provided that: “The Secretary of Health and Human Services shall, in consultation with the Administrator of the General Services Administration and other appropriate public and private entities, develop recommendations regarding the placement of automatic external defibrillators in Federal buildings as a means of improving the survival rates of individuals who experience cardiac arrest in such buildings, including recommendations on training, maintenance, and medical oversight, and on coordinating with the system for emergency medical services.”
+
+#### Coordination of Data Surveys and Reports
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402, provided that: “The Secretary of Health and Human Services, through the Assistant Secretary for Planning and Evaluation, shall establish a clearinghouse for the consolidation and coordination of all Federal databases and reports regarding children's health.”
+
 #### Female Genital Mutilation
 
 Pub. L. 104–134, title I, §101(d) \[title V, §520\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–250; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that:
@@ -172,7 +180,7 @@ Section 161 of Pub. L. 100–607, as amended by Pub. L. 102–531, title III, §
 
 #### National Commission on Sleep Disorders Research
 
-Section 162 of Pub. L. 100–607 directed Secretary of Health and Human Services, after consultation withDirector of National Institutes of Health, to establish a National Commission on Sleep Disorders Research to conduct a comprehensive study of present state of knowledge of incidence, prevalence, morbidity, and mortality resulting from sleep disorders, and of social and economic impact of such disorders, evaluate public and private facilities and resources (including trained personnel and research activities) available for diagnosis, prevention, and treatment of, and research into, such disorders, and identify programs (including biological, physiological, behavioral, environmental, and social programs) by which improvement in management and research into sleep disorders could be accomplished and, not later than 18 months after initial meeting of Commission, to submit to appropriate Committees of Congress a final report, and provided for termination of the Commission 30 days after submission of final report.
+Section 162 of Pub. L. 100–607 directed Secretary of Health and Human Services, after consultation with Director of National Institutes of Health, to establish a National Commission on Sleep Disorders Research to conduct a comprehensive study of present state of knowledge of incidence, prevalence, morbidity, and mortality resulting from sleep disorders, and of social and economic impact of such disorders, evaluate public and private facilities and resources (including trainedpersonnel and research activities) available for diagnosis, prevention, and treatment of, and research into, such disorders, and identify programs (including biological, physiological, behavioral, environmental, and social programs) by which improvement in management and research into sleep disorders could be accomplished and, not later than 18 months after initial meeting of Commission, to submit to appropriate Committees of Congress a final report, and provided for termination of the Commission 30 days after submission of final report.
 
 #### Research With Respect to Health Resources and Services Administration
 

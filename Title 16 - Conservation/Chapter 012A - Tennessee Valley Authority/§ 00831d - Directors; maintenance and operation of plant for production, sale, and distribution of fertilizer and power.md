@@ -14,7 +14,7 @@ The board is authorized—
 
 (f) The board is authorized to make alterations, modifications, or improvements in existing plants and facilities, and to construct new plants.
 
-(g) In the event it is not used for the fixation of nitrogen for agricultural purposes or leased, then the board shall maintain in stand-by condition nitrate plant numbered 2, or its equivalent, for the fixation of atmospheric nitrogen, for the production of explosives in the event of war or a national emergency, until the Congress shall byjoint resolution release the board from this obligation, and if any part thereof be used by the board for the manufacture of phosphoric acid or potash, the balance of nitrate plant numbered 2 shall be kept in stand-by condition.
+(g) In the event it is not used for the fixation of nitrogen for agricultural purposes or leased, then the board shall maintain in stand-by condition nitrate plant numbered 2, or its equivalent, for the fixation of atmospheric nitrogen, for the production of explosives in the event of war or a national emergency, until the Congress shall by joint resolution release the board from this obligation, and if any part thereof be used by the board for the manufacture of phosphoric acid or potash, the balance of nitrate plant numbered 2 shall be kept in stand-by condition.
 
 (h) To establish, maintain, and operate laboratories and experimental plants, and to undertake experiments for the purpose of enabling the Corporation to furnish nitrogen products for military purposes, and nitrogen and other fertilizer products for agricultural purposes in the most economical manner and at the highest standard of efficiency.
 

@@ -40,11 +40,11 @@ The Secretary of Defense may appoint the Director referred to in subsection (a) 
 
 #### (e) Staff
 
-(1) A Director, subject to the approval of the Retirement Home Board, may appoint and fix the pay of such principal staff as the Director considers appropriate to assist the Director in operating the facility of the Retirement Home for which the Director is appointed.
+(1) A Director, subject to the approval of the Retirement Home Board, may appoint and fixthe pay of such principal staff as the Director considers appropriate to assist the Director in operating the facility of the Retirement Home for which the Director is appointed.
 
 (2) The staff shall include persons with experience and expertise in the operation and management of retirement homes and in the provision of long-term medical care for older persons.
 
-(3) The Director may exempt four physicians employed at the Retirement Home from the provisions of subsections (a), (b), and (c) of section 5532 of title 5, if the Director determines that the exemption is necessary to recruit or retain well-qualified physicians for the Retirement Home. An exemption granted under this section shall apply to the retired pay of the physician payable for the first month after the month in which the exemption is granted and shall terminate upon any break in employment with the Retirement Home of three days or more.
+(3) The Director may exempt four physicians employed at the Retirement Home from the provisions of subsections (a), (b), and (c) of section 5532 <sup>1</sup> of title 5, if the Director determines that the exemption is necessary to recruit or retain well-qualified physicians for the Retirement Home. An exemption granted under this section shall apply to the retired pay of the physician payable for the first month after the month in which the exemption is granted and shall terminate upon any break in employment with the Retirement Home of three days or more.
 
 #### (f) Annual evaluation of Directors
 
@@ -63,6 +63,8 @@ In this section:
 #### References in Text
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (b), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+
+Section 5532 of title 5, referred to in subsec. (e)(3), was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
 #### Amendments
 
@@ -95,4 +97,6 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 #### Section Referred to in Other Sections
 
 This section is referred to in section 401 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

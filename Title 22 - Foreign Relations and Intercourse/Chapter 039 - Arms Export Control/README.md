@@ -51,6 +51,10 @@ Transfers without consent of President; report to Congress.
 
 Sales and leases to countries in breach of nuclear nonproliferation agreements and treaties.
 
+(g)
+
+Unauthorized use of articles.
+
 |  |  |
 | :--- | ---: |
 | [2754\.](Subchapter%20001%20%28I%29%20-%20Foreign%20and%20National%20Security%20Policy%20Objectives%20and%20Restraints/%C2%A7%2002754%20-%20Purposes%20for%20which%20military%20sales%20or%20leases%20by%20the%20United%20States%20are%20authorized%3B%20report%20to%20Congress.md) | Purposes for which military sales or leases by the United States are authorized; report to Congress. |
@@ -414,19 +418,23 @@ Letter of offer to sell defense articles, services, design and construction serv
 
 (c)
 
-Application for export license; submission of numbered Presidential certification and statement to Congress; contents; emergency circumstances; joint resolution; exception.
+Application for export license; submission of numbered Presidential certification and statement to Congress; contents; emergency circumstances; joint resolution; exception; notification of upgrades.
 
 (d)
 
-Commercial technical assistance or manufacturing licensing agreements with non-North Atlantic Treaty Organization member countries; submission of Presidential certification; contents.
+Commercial technical assistance or manufacturing licensing agreements with non-North Atlantic Treaty Organization member countries; submission of Presidential certification; contents; notification of upgrades.
 
 (e)
 
 Definitions.
 
-(e)
+(f)
 
 Publication of arms sales certifications.
+
+(g)
+
+Confidentiality.
 
 |  |  |
 | :--- | ---: |
@@ -483,6 +491,10 @@ Identification of persons convicted or subject to indictment for violations of c
 (h)
 
 Judicial review of designation of items as defense articles or services.
+
+(i)
+
+Report to Department of State.
 
 |  |  |
 | :--- | ---: |
@@ -888,9 +900,31 @@ Exceptions.
 |  |  |
 | :--- | ---: |
 | 2797b–1. | Notification of admittance of MTCR adherents. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Policy report.
+
+(b)
+
+Intelligence assessment report.
+
+|  |  |
+| :--- | ---: |
+| 2797b–2. | Authority relating to MTCR adherents. |
 | [2797c.](Subchapter%20007%20%28VII%29%20-%20Control%20of%20Missiles%20and%20Missile%20Equipment%20or%20Technology/%C2%A7%2002797c%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+International understanding defined.
 
 #### SUBCHAPTER VIII—CHEMICAL OR BIOLOGICAL WEAPONS PROLIFERATION
 
@@ -1024,7 +1058,7 @@ Prohibitions on assistance to countries involved in transfer or use of nuclear e
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to sections 2272, 2291, 2291e, 2291f, 2304, 2311, 2318, 2321h, 2321i, 2321j, 2321k, 2349a, 2349aa–2, 2364, 2370a, 2373, 2378–1, 2394–1, 2403, 2413, 2414, 2423, 2778a, 3402, 5603, 5605, 6003, 6041, 6445, 6593, 6713 of this title; title 10 sections 130, 2344, 2350b, 2350c; title 12 section 635; title 15 section 4605; title 18 section 2516; title 26 section 901; title 29 sections 1662d, 1662d–1; title 49 section 44908; title 50 section 415.
+This chapter is referred to sections 2272, 2291, 2291e, 2291f, 2304, 2311, 2318, 2321h, 2321i, 2321j, 2321k, 2349a, 2349aa–2, 2364, 2367, 2370a, 2373, 2378–1, 2394–1, 2403, 2413, 2414, 2423, 2778a, 3402, 5603, 5605, 6003, 6041, 6445, 6593, 6713 of this title; title 10 sections 130, 2344, 2350b, 2350c; title 12 section 635; title 15 section 4605; title 18 section 2516;title 26 section 901; title 29 sections 1662d, 1662d–1; title 49 section 44908; title 50 section 415.
 
 
 ---

@@ -6,7 +6,7 @@ Except as provided in section 1461 of this title and this section, no funds auth
 
 #### References in Text
 
-The Mutual Educational and Cultural Exchange Act of 1961, referred to in text, is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, which is classified principally to chapter 33 (§2451 et seq.) of this title. Forcomplete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+The Mutual Educational and Cultural Exchange Act of 1961, referred to in text, is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, which is classified principally to chapter 33 (§2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
 #### Codification
 
@@ -19,4 +19,8 @@ Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Y
 #### Transfer of Functions
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6552 of this title.
 

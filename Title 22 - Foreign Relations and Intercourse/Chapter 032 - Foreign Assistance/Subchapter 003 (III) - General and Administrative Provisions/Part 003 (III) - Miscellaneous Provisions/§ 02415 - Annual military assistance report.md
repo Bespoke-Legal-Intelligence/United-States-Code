@@ -6,17 +6,23 @@ Not later than February 1 of each year, the President shall transmit to the Cong
 
 #### (b) Information relating to military assistance and military exports
 
-Each such report shall show the aggregate dollar value and quantity of defense articles (including excess defense articles), defense services, and international military education and training authorized by the United States, excluding that which is pursuant to activies <sup>1</sup> reportable under title V of the National Security Act of 1947 \[50 U.S.C. 413 et seq.\], to each foreign country and international organization. The report shall specify, by category, whether such defense articles—
+Each such report shall show the aggregate dollar value and quantity of defense articles (including excess defense articles), defense services, and international military education and training activities authorized by the United States and of such articles, services, and activities provided by the United States, excluding any activity that is reportable under title V of the National Security Act of 1947 \[50 U.S.C. 413 et seq.\], to each foreign country and international organization. The report shall specify, by category, whether such defense articles—
 
-&emsp;(1) were furnished by grant under part II or part V of subchapter II of this chapter orunder any other authority of law or by sale under chapter 2 of the Arms Export Control Act \[22 U.S.C. 2761 et seq.\]; or
+&emsp;(1) were furnished by grant under part II or part V of subchapter II of this chapter or under any other authority of law or by sale under chapter 2 of the Arms Export Control Act \[22 U.S.C. 2761 et seq.\];
 
-&emsp;(2) were licensed for export under section 38 of the Arms Export Control Act \[22 U.S.C. 2778\].
+&emsp;(2) were furnished with the financial assistance of the United States Government, including through loans and guarantees; or
+
+&emsp;(3) were licensed for export under section 38 of the Arms Export Control Act \[22 U.S.C. 2778\].
 
 #### (c) Information relating to military imports
 
 Each such report shall also include the total amount of military items manufactured outside the United States that were imported into the United States during the fiscal year covered by the report. For each country of origin the report shall show the type of item being imported and the total amount of the items.
 
-(Pub. L. 87–195, pt. III, §655, as added Pub. L. 104–106, div. A, title XIII, §1324(c), Feb. 10, 1996, 110 Stat. 481; amended Pub. L. 104–164, title I, §148, July 21, 1996, 110 Stat. 1435.)
+#### (d) Availability on Internet
+
+All unclassified portions of such report shall be made available to the public on the Internet through the Department of State.
+
+(Pub. L. 87–195, pt. III, §655, as added Pub. L. 104–106, div. A, title XIII, §1324(c), Feb. 10, 1996, 110 Stat. 481; amended Pub. L. 104–164, title I, §148, July 21, 1996, 110 Stat. 1435; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §1306\], Nov. 29, 1999, 113 Stat. 1536, 1501A–512.)
 
 #### References in Text
 
@@ -29,6 +35,14 @@ The Arms Export Control Act, referred to in subsec. (b)(1), is Pub. L. 90–629,
 A prior section 2415, Pub. L. 87–195, pt. III, §655, as added Pub. L. 92–226, pt. III, §304(b), Feb. 7, 1972, 86 Stat. 29; amended Pub. L. 93–559, §39(a), Dec. 30, 1974, 88 Stat. 1810; Pub. L. 94–329, title IV, §413(a), June 30, 1976, 90 Stat. 761, related to limitation in amounts to be expended for assistance to Cambodia, prior to repeal by Pub. L. 95–424, title VI, §§604, 605, Oct. 6, 1978, 92 Stat. 961, effective Oct. 1, 1978.
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–113, §1000(a)(7) \[title XIII, §1306(a)\], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each such report shall show the aggregate dollar value and quantity of defense articles (including excess defense articles), defense services, and international military education and training authorized by the United States, excluding that which is pursuant to activies reportable under title V of the National Security Act of 1947, to each foreign country and international organization. The report shall specify, by category, whether such defense articles—
+
+&emsp;“(1) were furnished by grant under part II or part V of subchapter II of this chapter or under any other authority of law or by sale under chapter 2 of the Arms Export Control Act; or
+
+&emsp;“(2) were licensed for export under section 38 of the Arms Export Control Act.”
+
+Subsec. (d). Pub. L. 106–113, §1000(a)(7) \[title XIII, §1306(b)\], added subsec. (d).
 
 1996—Pub. L. 104–164 substituted “Annual military assistance report” for “Annual report on military assistance, military exports, and military imports” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
@@ -46,7 +60,5 @@ Information Relating to Military Imports.—Each such report shall also include 
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of State insofar as they relate to defense articles and defense services licensed for export under section 2778 of this title and delegated to Secretary of Defense insofar as they relate to defense articles, defense services, and international military education and training furnished by grant or sale by Secretary of Defense, except to the extent otherwise delegated, and functions of President under subsec. (c) of this section delegated to Secretary of the Treasury, by sections 1–201(a)(18), 1–301(e), and 1–501(a)(4) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “activities”.</i>
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

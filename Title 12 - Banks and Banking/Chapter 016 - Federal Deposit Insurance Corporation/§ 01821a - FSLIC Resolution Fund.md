@@ -72,7 +72,7 @@ The FSLIC Resolution Fund shall transfer to the Resolution Funding Corporation a
 
 The FSLIC Resolution Fund shall be dissolved upon satisfaction of all debts and liabilities and sale of all assets. Upon dissolution any remaining funds shall be paid into the Treasury. Any administrative facilities and supplies, including offices and office supplies, shall be transferred to the Corporation for use by and to be held as assets of the Savings Association Insurance Fund.
 
-(Sept. 21, 1950, ch. 967, §2\[11A\], as added Pub. L. 101–73, title II, §215, Aug. 9, 1989, 103 Stat. 252;amended Pub. L. 102–233, title II, §202(c), (d), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–242, title I, §161(b), Dec. 19, 1991, 105 Stat. 2285; Pub. L. 104–208, div. A, title II, §2704(d)(14)(J)–(L), Sept. 30, 1996, 110 Stat. 3009–492.)
+(Sept. 21, 1950, ch. 967, §2\[11A\], as added Pub. L. 101–73, title II, §215, Aug. 9, 1989, 103 Stat. 252; amended Pub. L. 102–233, title II, §202(c), (d), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–242, title I, §161(b), Dec. 19, 1991, 105 Stat. 2285; Pub. L. 104–208, div. A, title II, §2704(d)(14)(J)–(L), Sept. 30, 1996, 110 Stat. 3009–492.)
 
 #### Amendment of Section
 
@@ -101,6 +101,12 @@ Subsec. (b)(4). Pub. L. 102–233, §202(d), substituted “1992” for “1991�
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+
+#### Payment of Judgments and Settlements of Claims Against United States
+
+Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §110\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that: “Hereafter, for payments of judgments against the United States and compromise settlements of claims in suits against the United States arising from the Financial Institutions Reform, Recovery and Enforcement Act \[Pub. L. 101–73, see Tables for classification\] and its implementation, such sums as may be necessary, to remain available until expended: <i>Provided</i>, That the foregoing authority is available solely for payment of judgments and compromise settlements: <i>Provided further</i>, That payment of litigation expenses is available under existing authority and will continue to be made available as set forth in the Memorandum of Understanding between the Federal Deposit Insurance Corporation and the Department of Justice, dated October 2, 1998.”
+
+Similar provisions were contained in Pub. L. 105–277, div. A, §101(b) \[title I, §130\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–77.
 
 #### Section Referred to in Other Sections
 

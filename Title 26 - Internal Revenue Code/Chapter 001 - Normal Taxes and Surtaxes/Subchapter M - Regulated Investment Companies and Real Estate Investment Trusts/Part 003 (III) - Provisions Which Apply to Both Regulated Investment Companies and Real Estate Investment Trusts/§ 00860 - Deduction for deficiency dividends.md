@@ -20,7 +20,7 @@ For purposes of this section, the term “qualified investment entity” means�
 
 &emsp;&emsp;(A) the tax imposed by this chapter (after taking into account the deduction allowed by subsection (a)) on the qualified investment entity for the taxable year with respect to which the determination is made shall be deemed to be increased by an amount equal to the deduction allowed by subsection (a) with respect to such taxable year,
 
-&emsp;&emsp;(B) the last date prescribed for payment of such increase in tax shall be deemed to have been the last date prescribed for the payment of tax (determined in the manner provided by section 6601(b)) for the taxable year with respect to which the determination is made, and
+&emsp;&emsp;(B) the last date prescribed for payment of such increase in tax shall be deemed to havebeen the last date prescribed for the payment of tax (determined in the manner provided by section 6601(b)) for the taxable year with respect to which the determination is made, and
 
 &emsp;&emsp;(C) such increase in tax shall be deemed to be paid as of the date the claim for the deficiency dividend deduction is filed.
 
@@ -90,7 +90,7 @@ For purposes of this section, the term “determination” means—
 
 #### (A) For taxable year in which paid
 
-&emsp;&emsp;Deficiency dividends paid in any taxable year shall not be included in the amount of dividends paid for such year for purposes of computing the dividends paid deduction for such year.
+&emsp;&emsp;Deficiency dividends paid in any taxable year shall not be included in the amount ofdividends paid for such year for purposes of computing the dividends paid deduction for such year.
 
 #### (B) For prior taxable year
 

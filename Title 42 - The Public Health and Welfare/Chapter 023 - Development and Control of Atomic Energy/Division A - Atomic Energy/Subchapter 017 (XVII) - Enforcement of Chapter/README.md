@@ -19,6 +19,7 @@
 - [&sect; 02280 - Injunction proceedings](%C2%A7%2002280%20-%20Injunction%20proceedings.md)
 - [&sect; 02281 - Contempt proceedings](%C2%A7%2002281%20-%20Contempt%20proceedings.md)
 - [&sect; 02282 - Civil penalties](%C2%A7%2002282%20-%20Civil%20penalties.md)
-- [&sect; 02282a - Civil monetary penalties for violation of Department of Energy regulations](%C2%A7%2002282a%20-%20Civil%20monetary%20penalties%20for%20violation%20of%20Department%20of%20Energy%20regulations.md)
+- [&sect; 02282a - Civil monetary penalties for violation of Department of Energy safety regulations](%C2%A7%2002282a%20-%20Civil%20monetary%20penalties%20for%20violation%20of%20Department%20of%20Energy%20safety%20regulations.md)
+- [&sect; 02282b - Civil monetary penalties for violations of Department of Energy regulations regarding security of classified or sensitive information or&#8230;](%C2%A7%2002282b%20-%20Civil%20monetary%20penalties%20for%20violations%20of%20Department%20of%20Energy%20regulations%20regarding%20security%20of%20classified%20or%20sensitive%20information%20or%E2%80%A6.md)
 - [&sect; 02283 - Protection of nuclear inspectors](%C2%A7%2002283%20-%20Protection%20of%20nuclear%20inspectors.md)
 - [&sect; 02284 - Sabotage of nuclear facilities or fuel](%C2%A7%2002284%20-%20Sabotage%20of%20nuclear%20facilities%20or%20fuel.md)

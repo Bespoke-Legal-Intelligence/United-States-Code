@@ -8,7 +8,7 @@ The tax imposed by section 4371 shall not apply to—
 
 #### (2) Indemnity bond
 
-&emsp;Any indemnity bond required to be filed by any person to secure payment of any pension,allowance, allotment, relief, or insurance by the United States, or to secure a duplicate for, or the payment of, any bond, note, certificate of indebtedness, war-saving certificate, warrant or check, issued by the United States.
+&emsp;Any indemnity bond required to be filed by any person to secure payment of any pension, allowance, allotment, relief, or insurance by the United States, or to secure a duplicate for, or the payment of, any bond, note, certificate of indebtedness, war-saving certificate, warrant or check, issued by the United States.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 522; Pub. L. 85–859, title I, §141(a), Sept. 2, 1958, 72 Stat. 1301; Pub. L. 94–455, title XIX, §1904(a)(12), Oct. 4, 1976, 90 Stat. 1813; Pub. L. 100–647, title I, §1012(q)(13)(A), Nov. 10, 1988, 102 Stat. 3525.)
 

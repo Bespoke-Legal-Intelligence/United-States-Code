@@ -42,17 +42,25 @@ Nov. 6, 1986, Pub. L. 99–604, §8(a)–(e), 100 Stat. 3447.
 
 36:3908(c).
 
+&nbsp;
+
 22907(c)
 
 36:3908(a).
+
+&nbsp;
 
 22907(d)
 
 36:3908(b).
 
+&nbsp;
+
 22907(e)
 
 36:3908(e).
+
+&nbsp;
 
 In subsection (a), the words “any shares of” are omitted as unnecessary.
 

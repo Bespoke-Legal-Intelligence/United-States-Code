@@ -28,7 +28,7 @@ Contents of Application.—The application for registration shall be made to the
 
 &emsp;(6) such other information as may be required by the Administrator.
 
-> The application for registration may include a description setting forth the salient features of the design, but the absence of such a description shall not prevent registration under this chapter.
+> The application for registration may include a description setting forth the salient features of the design, but the absence of such a descriptionshall not prevent registration under this chapter.
 
 (e)
 
@@ -65,10 +65,6 @@ Design in More Than One Useful Article.—If the distinguishing elements of a de
 Application for More Than One Design.—More than one design may be included in the same application under such conditions as may be prescribed by the Administrator. For each design included in an application the fee prescribed for a single design shall be paid.
 
 (Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2909.)
-
-#### Termination of Section
-
-<i>For termination of section by section 505 of Pub. L. 105–304, see Effective and Termination Dates note set out under section 1301 of this title.</i>
 
 #### Section Referred to in Other Sections
 

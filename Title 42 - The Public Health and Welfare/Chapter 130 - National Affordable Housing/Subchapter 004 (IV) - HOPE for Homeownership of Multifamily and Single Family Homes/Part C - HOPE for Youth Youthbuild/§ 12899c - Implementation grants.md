@@ -32,7 +32,7 @@ Implementation grants may be used to carry out Youthbuild programs, including th
 
 &emsp;&emsp;(D) activities designed to develop employment and leadership skills, including support for youth councils; and
 
-&emsp;&emsp;(E) support services and need-based stipends necessary to enable individuals to participate in the program and, for a period notto exceed 12 months after completion of training, to assist participants through support services in retaining employment.
+&emsp;&emsp;(E) support services and need-based stipends necessary to enable individuals to participate in the program and, for a period not to exceed 12 months after completion of training, to assist participants through support services in retaining employment.
 
 &emsp;(5) Wage stipends and benefits provided to participants.
 
@@ -88,7 +88,7 @@ Implementation grants may be used to carry out Youthbuild programs, including th
 
 &emsp;&emsp;(O) identification and description of the entity that will operate and manage the property;
 
-&emsp;&emsp;(P) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project is located; and
+&emsp;&emsp;(P) a certification by the public official responsible for submitting the comprehensivehousing affordability strategy under section 12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project is located; and
 
 &emsp;&emsp;(Q) a certification that the applicant will comply with the requirements of the Fair Housing Act \[42 U.S.C. 3601 et seq.\], title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], and will affirmatively further fair housing.
 
@@ -146,7 +146,7 @@ The Age Discrimination Act of 1975, referred to in subsec. (c)(2)(Q), is title I
 
 #### Amendments
 
-1998—Subsecs. (c)(2)(H), (M), (d)(7). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(43)(A)\], substituted “the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “the Job Training Partnership Act”.
+1998—Subsecs. (c)(2)(H), (M), (d)(7). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(43)(A)\], substituted “the JobTraining Partnership Act and title I of the Workforce Investment Act of 1998” for “the Job Training Partnership Act”.
 
 #### Effective Date of 1998 Amendment
 

@@ -8,7 +8,7 @@ Not later than 30 days after the end of the last fiscal year quarter of fiscal y
 
 &emsp;(3) A description of the participation of all United States Government departments and agencies and the United States private sector in such activities.
 
-&emsp;(4) A description of the activities carried out under this chapter and the forms of assistance provided under this chapter, including, with respect to proposed industrial demilitarization projects, additional information on the progress toward demilitarization of facilities and the conversion of the demilitarized facilities to civilian activities.
+&emsp;(4) A description of the activities carried out under this chapter and the forms of assistanceprovided under this chapter, including, with respect to proposed industrial demilitarization projects, additional information on the progress toward demilitarization of facilities and the conversion of the demilitarized facilities to civilian activities.
 
 &emsp;(5) Such other information as the President considers appropriate to fully inform the Congress concerning the operation of the programs authorized under this chapter.
 

@@ -34,7 +34,7 @@ The word “shall” is substituted for “it shall be the duty of”.
 
 #### 1948 Act
 
-<i>Prior section 507.—</i>Based on sections 312, 317, 323, 324, 327, 329, 330, 331 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees; second paragraph of section 305e of title 25, U.S.C., 1940 ed., Indians; and title 28, U.S.C., 1940 ed., §§485, 486, 487, 488, 489 (R.S. §§362, 363, 373, 374, 377, 379–381, 771–775, 838; Feb. 27, 1877, ch. 69, §1, 19 Stat. 241; Apr. 9, 1910, ch. 152, 36 Stat. 294; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; May 10, 1934, ch. 277, §512, 48 Stat. 758; Aug. 27, 1935, ch. 748, §6, 49 Stat. 893).
+<i>Prior section 507.—</i>Based on sections 312, 317, 323, 324, 327, 329, 330, 331 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees; second paragraph of section 305e of title 25, U.S.C., 1940 ed., Indians; and title 28, U.S.C., 1940 ed., §§485, 486, 487,488, 489 (R.S. §§362, 363, 373, 374, 377, 379–381, 771–775, 838; Feb. 27, 1877, ch. 69, §1, 19 Stat. 241; Apr. 9, 1910, ch. 152, 36 Stat. 294; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; May 10, 1934, ch. 277, §512, 48 Stat. 758; Aug. 27, 1935, ch. 748, §6, 49 Stat. 893).
 
 This section consolidates provisions of the sections enumerated above.
 

@@ -1,6 +1,6 @@
 ### §6194. Capacity Building and Information and Dissemination Network
 
-The Secretaries, acting through such mechanisms as the Capacity Building and Informationand Dissemination Network established under section 453(b) of the Job Training Partnership Act (29 U.S.C. 1733(b)),<sup>1</sup> the Educational Resources Information Center Clearinghouses referred to in the Educational Research, Development, Dissemination, and Improvement Act of 1994 \[20 U.S.C. 6001 et seq.\], and the National Network for Curriculum Coordination in Vocational and Technical Education under section 2402(c) <sup>1</sup> of this title, shall—
+The Secretaries, acting through such mechanisms as the Capacity Building and Information and Dissemination Network established under section 453(b) of the Job Training Partnership Act (29 U.S.C. 1733(b)),<sup>1</sup> the Educational Resources Information Center Clearinghouses referred to in the Educational Research, Development, Dissemination, and Improvement Act of 1994 \[20 U.S.C. 6001 et seq.\], and the National Network for Curriculum Coordination in Vocational and Technical Education under section 2402(c) <sup>1</sup> of this title, shall—
 
 &emsp;(1) collect and disseminate information—
 

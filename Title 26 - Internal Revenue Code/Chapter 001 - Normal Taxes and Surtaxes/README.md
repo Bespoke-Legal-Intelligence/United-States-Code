@@ -57,7 +57,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 408, 1501, 2031, 3402, 3406, 3510, 4977, 4980, 4990, 4994, 6012, 6013, 6033, 6039C, 6039E, 6039F, 6048, 6050E, 6096, 6103, 6161, 6166, 6166A, 6167, 6201, 6211, 6404, 6242, 6246, 6651, 6654, 6655, 6662, 6664, 6683, 6713, 7216, 7518, 7611, 7654, 7701, 7704, 9510 of this title; title 2 sections 632, 633, 642; title 7 sections 1926, 1929a; title 12 section 3018; title 22 section 277d–23; title 25 sections 941n, 1486; title 30 section 1141; title 42 sections 291j–7, 300e–7, 300q–2, 409, 411, 1382, 1440, 5308, 5919, 8833; title 46 App. sections 1177, 1279c; title 48 section 1574b.
+This chapter is referred to in sections 408, 1501, 2031, 3402, 3406, 3510, 4977, 4980, 4990, 4994, 6012, 6013, 6033, 6039C, 6039E, 6039F, 6048, 6050E, 6096, 6103, 6161, 6166, 6166A, 6167, 6201, 6211, 6404, 6242, 6246, 6651, 6654, 6655, 6662, 6664, 6683, 6713, 7216, 7518, 7611, 7654, 7701, 7704, 9510 of this title; title 2 sections 632, 633, 642; title 7 sections 1926, 1929a; title 12 section 3018; title 22 section 277d–23; title 25 sections 941n, 1486; title 30 section 1141; title 42 sections 291j–7, 300e–7, 300q–2, 409, 411, 1382, 1440, 1490p–2, 5308, 5919, 8833; title 46 App. sections 1177, 1279c; title 48 section 1574b.
 
 
 ---

@@ -328,7 +328,8 @@ Rebudgeting by tribal organization.
 
 |  |  |
 | :--- | ---: |
-| 450j–2. | Indian Health Service Funds; permissible uses. |
+| 450j–2. | Indian Health Service: availability of funds for Indian self-determination or self-governance contract or grant support costs. |
+| 450j–3. | Department of the Interior: availability of funds for Indian self-determination or self-governance contract or grant support costs. |
 | [450k.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20A%20-%20Indian%20Self-Determination/%C2%A7%2000450k%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

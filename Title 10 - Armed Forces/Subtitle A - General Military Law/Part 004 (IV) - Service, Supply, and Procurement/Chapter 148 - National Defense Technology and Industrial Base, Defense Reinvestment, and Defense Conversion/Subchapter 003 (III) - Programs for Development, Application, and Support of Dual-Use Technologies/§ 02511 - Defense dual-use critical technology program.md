@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Program.—The Secretary of Defense shall conduct a program tofurther the national security objectives set forth in section 2501(a) of this title by encouraging and providing for research, development, and application of dual-use critical technologies. The Secretary may make grants, enter into contracts, or enter into cooperative agreements and other transactions pursuant to section 2371 of this title in furtherance of the program. The Secretary shall identify projects to be conducted as part of the program.
+Establishment of Program.—The Secretary of Defense shall conduct a program to further the national security objectives set forth in section 2501(a) of this title by encouraging and providing for research, development, and application of dual-use critical technologies. The Secretary may make grants, enter into contracts, or enter into cooperative agreements and other transactions pursuant to section 2371 of this title in furtherance of the program. The Secretary shall identify projects to be conducted as part of the program.
 
 (b)
 
@@ -64,7 +64,7 @@ Subsec. (e). Pub. L. 103–160, §1317(c), struck out “, except that procedur
 
 #### Dual-Use Science and Technology Program
 
-Pub. L. 105–85, div. A, title II, §203, Nov. 18, 1997, 111 Stat. 1655, provided that:
+Pub. L. 105–85, div. A, title II, §203, Nov. 18, 1997, 111 Stat. 1655, as amended by Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that:
 
 “(a)
 
@@ -92,7 +92,7 @@ Goals.—(1) Subject to paragraph (3), it shall be the objective of the Secretar
 
 “(c)
 
-Designation of Official for Dual-Use Programs.—(1) The Secretary of Defense shall designate a senior official in the Office of the Secretary of Defense to carry out responsibilities for dual-use projects under this subsection. The designated official shall report directly to the Under Secretary of Defense for Acquisition and Technology.
+Designation of Official for Dual-Use Programs.—(1) The Secretary of Defense shall designate a senior official in the Office of the Secretary of Defense to carry out responsibilities for dual-use projects under this subsection. The designated official shall report directly to the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
 “(2) The primary responsibilities of the designated official shall include developing policy and overseeing the establishment of, and adherence to, procedures for ensuring that dual-use projects are initiated and administered effectively and that applicable commercial technologies are integrated into current and future military systems.
 

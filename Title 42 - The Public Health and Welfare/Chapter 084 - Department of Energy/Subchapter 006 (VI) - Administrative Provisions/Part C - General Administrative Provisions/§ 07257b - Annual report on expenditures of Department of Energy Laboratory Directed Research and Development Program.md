@@ -18,7 +18,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### “Congressional Defense Committees” defined
 
-Congressional defense committees means the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security (now Committee on Armed Services) and the Committee on Appropriations of the House of Representatives, see section 3 of Pub. L. 104–201, 110 Stat. 2439.
+Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 104–201, 110 Stat. 2439, as amended by Pub. L. 106–65, div. A, title X, §1067(5), Oct. 5, 1999, 113 Stat. 774.
 
 #### Section Referred to in Other Sections
 

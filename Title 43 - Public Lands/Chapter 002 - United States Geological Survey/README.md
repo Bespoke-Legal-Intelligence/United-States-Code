@@ -17,12 +17,16 @@
 | [31d.](%C2%A7%2000031d%20-%20Advisory%20committee.md) | Advisory committee. |
 | (a) | Establishment. |
 | (b) | Duties. |
-| [31e.](%C2%A7%2000031e%20-%20Geologic%20mapping%20program%20implementation%20plan.md) | Geologic mapping program implementation plan. |
-| [31f.](%C2%A7%2000031f%20-%20National%20geologic-map%20data%20base.md) | National geologic-map data base. |
+| [31e.](%C2%A7%2000031e%20-%20Geologic%20mapping%20program%205-year%20plan.md) | Geologic mapping program 5-year plan. |
+| (a) | In general. |
+| (b) | Requirements. |
+| [31f.](%C2%A7%2000031f%20-%20National%20geologic%20map%20database.md) | National geologic map database. |
 | (a) | Establishment. |
 | (b) | Standardization. |
 | [31g.](%C2%A7%2000031g%20-%20Biennial%20report.md) | Biennial report. |
 | [31h.](%C2%A7%2000031h%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| (a) | In general. |
+| (b) | Allocation of appropriations. |
 | [31i.](%C2%A7%2000031i%20-%20Report%20on%20resource%20research%20activities.md) | Report on resource research activities. |
 | [31j.](%C2%A7%2000031j%20-%20Biological%20research%20activity%20of%20Survey%3B%20review%20and%20report%20by%20National%20Academy%20of%20Sciences.md) | Biological research activity of Survey; review and report by National Academy of Sciences. |
 | [32\.](%C2%A7%2000032%20-%20Acting%20Director.md) | Acting Director. |
@@ -49,6 +53,7 @@
 | [50a.](%C2%A7%2000050a%20-%20Working%20capital%20fund%20for%20United%20States%20Geological%20Survey.md) | Working capital fund for United States Geological Survey. |
 | [50b.](%C2%A7%2000050b%20-%20Recording%20of%20obligations%20against%20accounts%20receivable%20and%20crediting%20of%20amounts%20received%3B%20work%20involving%20cooperation%20with%20State%2C%20Territory%E2%80%A6.md) | Recording of obligations against accounts receivable and crediting of amounts received; work involving cooperation with State, Territory, etc. |
 | [50c.](%C2%A7%2000050c%20-%20Payment%20of%20costs%20incidental%20to%20utilization%20of%20services%20of%20volunteers.md) | Payment of costs incidental to utilization of services of volunteers. |
+| [50d.](%C2%A7%2000050d%20-%20Services%20of%20students%20or%20recent%20graduates.md) | Services of students or recent graduates. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -62,8 +67,8 @@
 - [&sect; 00031b - Definitions](%C2%A7%2000031b%20-%20Definitions.md)
 - [&sect; 00031c - Geologic mapping program](%C2%A7%2000031c%20-%20Geologic%20mapping%20program.md)
 - [&sect; 00031d - Advisory committee](%C2%A7%2000031d%20-%20Advisory%20committee.md)
-- [&sect; 00031e - Geologic mapping program implementation plan](%C2%A7%2000031e%20-%20Geologic%20mapping%20program%20implementation%20plan.md)
-- [&sect; 00031f - National geologic-map data base](%C2%A7%2000031f%20-%20National%20geologic-map%20data%20base.md)
+- [&sect; 00031e - Geologic mapping program 5-year plan](%C2%A7%2000031e%20-%20Geologic%20mapping%20program%205-year%20plan.md)
+- [&sect; 00031f - National geologic map database](%C2%A7%2000031f%20-%20National%20geologic%20map%20database.md)
 - [&sect; 00031g - Biennial report](%C2%A7%2000031g%20-%20Biennial%20report.md)
 - [&sect; 00031h - Authorization of appropriations](%C2%A7%2000031h%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00031i - Report on resource research activities](%C2%A7%2000031i%20-%20Report%20on%20resource%20research%20activities.md)
@@ -94,3 +99,4 @@
 - [&sect; 00050a - Working capital fund for United States Geological Survey](%C2%A7%2000050a%20-%20Working%20capital%20fund%20for%20United%20States%20Geological%20Survey.md)
 - [&sect; 00050b - Recording of obligations against accounts receivable and crediting of amounts received; work involving cooperation with State, Territory&#8230;](%C2%A7%2000050b%20-%20Recording%20of%20obligations%20against%20accounts%20receivable%20and%20crediting%20of%20amounts%20received%3B%20work%20involving%20cooperation%20with%20State%2C%20Territory%E2%80%A6.md)
 - [&sect; 00050c - Payment of costs incidental to utilization of services of volunteers](%C2%A7%2000050c%20-%20Payment%20of%20costs%20incidental%20to%20utilization%20of%20services%20of%20volunteers.md)
+- [&sect; 00050d - Services of students or recent graduates](%C2%A7%2000050d%20-%20Services%20of%20students%20or%20recent%20graduates.md)

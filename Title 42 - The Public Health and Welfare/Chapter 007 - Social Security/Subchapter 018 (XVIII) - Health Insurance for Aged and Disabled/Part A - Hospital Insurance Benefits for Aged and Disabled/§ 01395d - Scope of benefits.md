@@ -2,7 +2,7 @@
 
 #### (a) Entitlement to payment for inpatient hospital services, post-hospital extended care services, home health services, and hospice care
 
-The benefits provided to an individual by the insurance program under this part shall consistof entitlement to have payment made on his behalf or, in the case of payments referred to in section 1395f(d)(2) of this title to him (subject to the provisions of this part) for—
+The benefits provided to an individual by the insurance program under this part shall consist of entitlement to have payment made on his behalf or, in the case of payments referred to in section 1395f(d)(2) of this title to him (subject to the provisions of this part) for—
 
 &emsp;(1) inpatient hospital services or inpatient critical access hospital services for up to 150 days during any spell of illness minus 1 day for each day of such services in excess of 90 received during any preceding spell of illness (if such individual was entitled to have payment for such services made under this part unless he specifies in accordance with regulations of the Secretary that he does not desire to have such payment made);
 
@@ -22,7 +22,7 @@ Payment under this part for services furnished an individual during a spell of i
 
 &emsp;(3) inpatient psychiatric hospital services furnished to him after such services have been furnished to him for a total of 190 days during his lifetime.
 
-> Payment under this part for post-institutional home health services furnished an individual during a home health spell of illness may not be made for such services beginning after such services have been furnished for a total of 100 visits <sup>1</sup> such spell.
+> Payment under this part for post-institutional home health services furnished an individual during a home health spell of illness may not be made for such services beginning after such services have been furnished for a total of 100 visits during such spell.
 
 #### (c) Inpatients of psychiatric hospitals
 
@@ -50,7 +50,7 @@ If an individual is an inpatient of a psychiatric hospital on the first day of t
 
 &emsp;(ii) the individual may at any time after the revocation execute a new election for a subsequent period, if the individual otherwise is entitled to hospice care benefits with respect to such a period.
 
-(C) An individual may, once in each such period, change the hospice program with respectto which the election is made and such change shall not be considered a revocation of an election under subparagraph (B).
+(C) An individual may, once in each such period, change the hospice program with respect to which the election is made and such change shall not be considered a revocation of an election under subparagraph (B).
 
 (D) For purposes of this subchapter, an individual's election with respect to a hospice program shall no longer be considered to be in effect with respect to that hospice program after the date the individual's revocation or change of election with respect to that election takes effect.
 
@@ -74,13 +74,15 @@ For purposes of subsections (b) and (c) of this section, inpatient hospital serv
 
 For definitions of “spell of illness”, and for definitions of other terms used in this part, see section 1395x of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1812, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 291; amended Pub. L. 90–248, title I, §§129(c)(2), 137(a), 138(a), 143(b), 146(a), Jan. 2, 1968, 81 Stat. 847, 853, 854, 857, 859; Pub. L. 96–499, title IX, §§930(b)–(d), 931(a), Dec. 5, 1980, 94 Stat. 2631, 2633; Pub. L. 97–35, title XXI, §2121(a), Aug. 13, 1981, 95 Stat. 796; Pub. L. 97–248, title I, §§122(b), 123, Sept. 3, 1982, 96 Stat. 356, 364; Pub. L. 97–448, title III, §309(b)(5), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 100–360, title I, §101, July 1, 1988, 102 Stat. 684; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–239, title VI, §6003(g)(3)(B)(i), Dec. 19, 1989, 103 Stat. 2152; Pub. L. 101–508, title IV, §4006(a), Nov. 5, 1990, 104 Stat. 1388–43; Pub. L. 103–432, title I, §102(g)(1), Oct. 31, 1994, 108 Stat. 4404; Pub. L. 105–33, title IV, §§4201(c)(1), 4443(a), (b)(1), 4611(a), Aug. 5, 1997, 111 Stat. 373, 423, 472.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1812, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 291; amended Pub. L. 90–248, title I, §§129(c)(2), 137(a), 138(a), 143(b), 146(a), Jan. 2, 1968, 81 Stat. 847, 853, 854, 857, 859; Pub. L. 96–499, title IX, §§930(b)–(d), 931(a), Dec. 5, 1980, 94 Stat. 2631, 2633; Pub. L. 97–35, title XXI, §2121(a), Aug. 13, 1981, 95 Stat. 796; Pub. L. 97–248, title I, §§122(b), 123, Sept. 3, 1982, 96 Stat. 356, 364; Pub. L. 97–448, title III, §309(b)(5), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 100–360, title I, §101, July 1, 1988, 102 Stat. 684; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–239, title VI, §6003(g)(3)(B)(i), Dec. 19, 1989, 103 Stat. 2152; Pub. L. 101–508, title IV, §4006(a), Nov. 5, 1990, 104 Stat. 1388–43; Pub. L. 103–432, title I, §102(g)(1), Oct. 31, 1994, 108 Stat. 4404; Pub. L. 105–33, title IV, §§4201(c)(1), 4443(a), (b)(1), 4611(a), Aug. 5, 1997, 111 Stat. 373, 423, 472; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366.)
 
 #### References in Text
 
 Part B of this subchapter, referred to in subsec. (a)(3), is classified to section 1395j et seq. of this title.
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–113 inserted “during” after “100 visits” in concluding provisions.
 
 1997—Subsec. (a)(1). Pub. L. 105–33, §4201(c)(1), substituted “critical access” for “rural primary care”.
 
@@ -150,7 +152,7 @@ Subsec. (a)(4). Pub. L. 96–499, §931(a), added par. (4).
 
 Subsec. (d). Pub. L. 96–499, §930(c), struck out subsec. (d) which authorized payment for post-hospital home health services furnished an individual only during the one year period described in section 1395x(n) of this title following his most recent hospital discharge which met the requirements of such section and only for the first 100 visits in such period.
 
-Subsec. (e). Pub. L. 96–499, §930(d), substituted “subsections (b) and (c)” for “subsections (b), (c), and (d)” and “and post-hospital extended care services” for “post-hospital extended care services, and post-hospital home health services”.
+Subsec. (e). Pub. L. 96–499, §930(d), substituted “subsections (b) and (c)” for “subsections (b), (c), and (d)”and “and post-hospital extended care services” for “post-hospital extended care services, and post-hospital home health services”.
 
 1968—Subsec. (a). Pub. L. 90–248, §143(b), inserted “or, in the case of payments referred to in section 1395f(d)(2) of this title to him” after “on his behalf” in text preceding par. (1).
 
@@ -163,6 +165,10 @@ Subsec. (b)(1). Pub. L. 90–248, §137(a)(2), changed the limitation on payment
 Subsec. (c). Pub. L. 90–248, §138(a), increased the limit from 90 to 150 days so that if an individual was an inpatient of a psychiatric or tuberculosis hospital on the first day of the first month for which he is entitled to benefits, the days he was an inpatient in the 150-day period immediately before such first day are included in determining the limit under subsec. (b)(1) insofar as such limit applies to (1) inpatient psychiatric hospital services and inpatient tuberculosis hospital services, or (2) inpatient hospital services for an individual who is an inpatient primarily for the diagnosis or treatment of mental illness or tuberculosis (but are not included in determining such limit as it applies to other inpatient hospital services or in determining the 190-day limit under subsec. (b)(3)).
 
 Pub. L. 90–248, §146(a), provided that the limitation of allowable days of inpatient hospital services will not apply to services provided to an inpatient of a tuberculosis hospital.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(m)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–368, provided that: “Except as otherwise provided, the amendments made by this section \[amending this section and sections 1395i, 1395i–4, 1395<i>l</i>, 1395m, 1395u, 1395w–3, 1395w–4, 1395w–21, 1395w–22, 1395w–24, 1395x, 1395y, 1395cc, 1395ss, 1395ww, 1395yy, and 1395fff of this title, repealing section 1320b–5 of this title, and amending provisions set out as notes under sections 1395f and 1395ww of this title\] shall take effect as if included in the enactment of BBA \[Balanced Budget Act of 1997, Pub. L. 105–33\].”
 
 #### Effective Date of 1997 Amendment
 
@@ -218,7 +224,7 @@ Section 2121(i) of Pub. L. 97–35 provided that: “The amendments made by this
 
 #### Effective Date of 1980 Amendment
 
-Amendment by section 930(b)–(d) of Pub. L. 96–499 effective with respect to services furnished on or after July 1, 1981, see section 930(s)(1) of Pub. L. 96–499, set out as a note under section 1395x of this title.
+Amendment by section 930(b)–(d) of Pub. L. 96–499 effective with respect to services furnished on or afterJuly 1, 1981, see section 930(s)(1) of Pub. L. 96–499, set out as a note under section 1395x of this title.
 
 Section 931(e) of Pub. L. 96–499 provided that: “The amendments made by subsections (a) through (d) of this section \[amending this section and sections 1395f and 1395x of this title\] shall become effective on April 1, 1981.”
 
@@ -287,6 +293,4 @@ For provisions repealing amendment by section 101 of Pub. L. 100–360, restorin
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1395e, 1395f, 1395w–23, 1395x, 1395eee, 1396b, 1396d, 1396r–8 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “during”.</i>
 

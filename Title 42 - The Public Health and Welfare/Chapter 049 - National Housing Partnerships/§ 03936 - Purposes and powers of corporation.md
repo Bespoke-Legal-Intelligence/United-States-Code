@@ -10,7 +10,7 @@ In order to achieve the objectives and carry out the purposes of this chapter, t
 
 &emsp;(3) provide such funds as may be necessary to accomplish the developments, projects, or undertakings referred to in paragraph (1); and
 
-&emsp;(4) for the purpose of generating income to support the building or rehabilitation of housing primarily for the benefit of families and individuals of low or moderate income (A) design, develop, manufacture and sell products and services for use in the construction, sale, or financing of housing, and (B) design and develop commercial, industrial, or retail facilities that are not directly related to housing, except that the development and preservation of housing for families and individuals of low or moderate income shall be the primary activity of the corporation.
+&emsp;(4) for the purpose of generating income to support the building or rehabilitation of housing primarily for the benefit of families and individuals of low or moderate income (A) design, develop, manufacture and sell products and services for use in the construction, sale, or financing of housing, and (B) design and develop commercial, industrial, or retail facilities that are not directly related to housing, except that the development and preservationof housing for families and individuals of low or moderate income shall be the primary activity of the corporation.
 
 #### (b) Authorization to enter into partnerships, limited partnerships, joint ventures, and other associations; manager or general partner of partnership, venture, or association; research and studies; technical assistance; loans or grants; hire or acceptance of services of consultants, experts, advisory boards and panels
 

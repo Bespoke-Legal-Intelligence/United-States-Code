@@ -4,7 +4,7 @@
 
 Transition for Involuntarily Separated Members.—(1) The Secretary of a military department may, pursuant to regulations prescribed by the Secretary of Defense, permit individuals who are involuntarily separated during the period beginning on October 1, 1990, and ending on September 30, 2001, to continue for not more than 180 days after the date of such separation to reside (along with other members of the individual's household) in military family housing provided or leased by the Department of Defense to such individual as a member of the armed forces.
 
-(2) The Secretary of Transportation may prescribe regulations to permit members of the Coast Guard who are involuntarily separated during the period beginning on October 1, 1994, and ending on September 30, 2001, to continue for not more than 180 days after the date of such separation to reside (along with others of the member's household) in military family housing provided or leased by the Coast Guard to the individual as a member of the armed forces.
+(2) The Secretary of Transportation may prescribe regulations to permit members of the Coast Guard who are involuntarily separatedduring the period beginning on October 1, 1994, and ending on September 30, 2001, to continue for not more than 180 days after the date of such separation to reside (along with others of the member's household) in military family housing provided or leased by the Coast Guard to the individual as a member of the armed forces.
 
 (b)
 

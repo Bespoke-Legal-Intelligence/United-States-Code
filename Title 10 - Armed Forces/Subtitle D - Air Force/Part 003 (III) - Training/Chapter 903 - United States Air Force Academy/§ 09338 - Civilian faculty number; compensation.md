@@ -4,7 +4,17 @@
 
 (b) The compensation of persons employed under this section is as prescribed by the Secretary.
 
-(Added Pub. L. 103–160, div. A, title V, §533(b)(1), Nov. 30, 1993, 107 Stat. 1658.)
+(c) The Secretary of the Air Force may, notwithstanding the provisions of subchapter V of chapter 55 of title 5 or section 6101 of such title, prescribe for persons employed under this section the following:
+
+&emsp;(1) The work schedule, including hours of work and tours of duty, set forth with such specificity and other characteristics as the Secretary determines appropriate.
+
+&emsp;(2) Any premium pay or compensatory time off for hours of work or tours of duty in excess of the regularly scheduled hours or tours of duty.
+
+(Added Pub. L. 103–160, div. A, title V, §533(b)(1), Nov. 30, 1993, 107 Stat. 1658; amended Pub. L. 106–65, div. A, title XI, §1107(c), Oct. 5, 1999, 113 Stat. 778.)
+
+#### Amendments
+
+1999—Subsec. (c). Pub. L. 106–65 added subsec. (c).
 
 #### Section Referred to in Other Sections
 

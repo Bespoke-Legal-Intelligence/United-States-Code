@@ -36,7 +36,7 @@ In this section:
 
 #### (3) Special authority relating to secondary schools operated or supported by the Bureau of Indian Affairs
 
-&emsp;An Indian tribe, a tribal organization, or an Alaska Native entity, that receives funds through a grant made or contract entered intounder paragraph (1) may use the funds to provide assistance to a secondary school operated or supported by the Bureau of Indian Affairs to enable such school to carry out vocational and technical education programs.
+&emsp;An Indian tribe, a tribal organization, or an Alaska Native entity, that receives funds through a grant made or contract entered into under paragraph (1) may use the funds to provide assistance to a secondary school operated or supported by the Bureau of Indian Affairs to enable such school to carry out vocational and technical education programs.
 
 #### (4) Matching
 
@@ -100,7 +100,7 @@ Nothing in this section shall be construed—
 
 #### (h) Native Hawaiian programs
 
-From the funds reserved pursuant to section 2321(a)(1)(B)(ii) of this title, the Secretary shallaward grants to or enter into contracts with organizations primarily serving and representing Native Hawaiians which are recognized by the Governor of the State of Hawaii to plan, conduct, and administer programs, or portions thereof, which are authorized by and consistent with the provisions of this section for the benefit of Native Hawaiians.
+From the funds reserved pursuant to section 2321(a)(1)(B)(ii) of this title, the Secretary shall award grants to or enter into contracts with organizations primarily serving and representing Native Hawaiians which are recognized by the Governor of the State of Hawaii to plan, conduct, and administer programs, or portions thereof, which are authorized by and consistent with the provisions of this section for the benefit of Native Hawaiians.
 
 (Pub. L. 88–210, title I, §116, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3094.)
 

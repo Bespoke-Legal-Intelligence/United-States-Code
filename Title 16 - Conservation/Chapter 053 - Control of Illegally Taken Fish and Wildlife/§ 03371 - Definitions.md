@@ -12,7 +12,7 @@ For the purposes of this chapter:
 
 (e) The term “person” includes any individual, partnership, association, corporation, trust, or any officer, employee, agent, department, or instrumentality of the Federal Government or of any State or political subdivision thereof, or any other entity subject to the jurisdiction of the United States.
 
-(f) The terms “plant” and “plants” mean any wild member of the plant kingdom, including roots, seeds, and other parts thereof (but excluding common food crops and cultivars) which is indigenous to any State and which is either (A) listed on an appendix to the Convention on International Trade in Endangered Species of Wild Fauna and Flora, or (B) listed pursuant toany State law that provides for the conservation of species threatened with extinction.
+(f) The terms “plant” and “plants” mean any wild member of the plant kingdom, including roots, seeds, and other parts thereof (but excluding common food crops and cultivars) which is indigenous to any State and which is either (A) listed on an appendix to the Convention on International Trade in Endangered Species of Wild Fauna and Flora, or (B) listed pursuant to any State law that provides for the conservation of species threatened with extinction.
 
 (g) The term “Secretary” means, except as otherwise provided in this chapter, the Secretary of the Interior or the Secretary of Commerce, as program responsibilities are vested pursuant to the provisions of Reorganization Plan Numbered 4 of 1970 (84 Stat. 2090); except that with respect to the provisions of this chapter which pertain to the importation or exportation of plants the term means the Secretary of Agriculture.
 

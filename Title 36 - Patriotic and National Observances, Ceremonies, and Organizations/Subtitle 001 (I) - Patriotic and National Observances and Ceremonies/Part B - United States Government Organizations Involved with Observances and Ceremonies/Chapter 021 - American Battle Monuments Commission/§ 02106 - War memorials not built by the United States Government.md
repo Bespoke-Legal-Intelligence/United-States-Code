@@ -2,7 +2,7 @@
 
 (a)
 
-Cooperation With Others.—The American Battle Monuments Commission may cooperate with citizens of the United States, States, municipalities, or associations desiring to buildwar memorials outside the continental limits of the United States in the way the Commission decides. An administrative agency of the United States Government may give assistance to build the memorial only if a plan for the memorial has been approved under this chapter.
+Cooperation With Others.—The American Battle Monuments Commission may cooperate with citizens of the United States, States, municipalities, or associations desiring to build war memorials outside the continental limits of the United States in the way the Commission decides. An administrative agency of the United States Government may give assistance to build the memorial only if a plan for the memorial has been approved under this chapter.
 
 (b)
 
@@ -12,7 +12,7 @@ Control, Administration, and Maintenance of War Memorials.—(1) The Commission 
 
 &emsp;(B) the sponsors of the memorial consent to the Commission assuming those responsibilities and transfer to the Commission all their rights and interests in the memorial.
 
-(2) If reasonable effort fails to locate the sponsors of a memorial, the Commission may assume responsibility for the memorial under this subsection by agreement with the appropriate foreign authorities. A decision of the Commission to assume responsibility for a war memorial under this subsection is final.
+(2) If reasonable effort fails to locate the sponsors of a memorial, the Commission may assumeresponsibility for the memorial under this subsection by agreement with the appropriate foreign authorities. A decision of the Commission to assume responsibility for a war memorial under this subsection is final.
 
 (3) Sponsors of a war memorial for which the Commission assumes responsibility under this subsection may transfer amounts accumulated to maintain and repair the memorial to the Commission for use in carrying out this chapter. Except as provided in subsection (c) of this section, the Commission shall deposit transferred amounts as provided in section 2103(e) of this title.
 
@@ -76,21 +76,31 @@ Mar. 4, 1923, ch. 283, §5(b)–(d), as added Jan. 2, 1974, Pub. L. 93–244, 87
 
 36:125(b)(1) (last sentence), (d).
 
+&nbsp;
+
 2106(b)(3)
 
 36:125(b)(2)(A), (d).
+
+&nbsp;
 
 2106(c)
 
 36:125(b)(2)(B), (d).
 
+&nbsp;
+
 2106(d)
 
 36:125(b)(3).
 
+&nbsp;
+
 2106(e)
 
 36:125(c), (d).
+
+&nbsp;
 
 In subsections (b), (c), and (e), the text of 36:125(d) is omitted as unnecessary.
 

@@ -38,11 +38,13 @@ Historical and Revision Notes
 
 Apr. 7, 1961, Pub. L. 87–20, 75 Stat. 43.
 
-113(b)D36:164 (1st par. last sentence).
+113(b)D36:164 (1st par. last sentence).D&nbsp;
 
 113(c)
 
 36:164 (last par.).
+
+&nbsp;
 
 In subsection (b)(1), the word “countries” is substituted for “nations” for consistency in the revised title and with other titles of the United States Code.
 

@@ -76,7 +76,7 @@ Interests stapled as of june 30, 1983.—Except as otherwise provided in this su
 
 “(3)
 
-Certain stapled entities which include real estate investment trust.—Paragraph (3) of section 269B(a) of such Code shall not apply in determining the application of the provisions of part II of subchapter M of chapter 1 of such Code to any real estate investment trust which is part of a group of stapled entities if—
+Certain stapled entities which include real estate investment trust.—Paragraph (3) of section 269B(a) of such Code shall not apply in determining theapplication of the provisions of part II of subchapter M of chapter 1 of such Code to any real estate investment trust which is part of a group of stapled entities if—
 
 &emsp;“(A) all members of such group were stapled entities as of June 30, 1983, and
 
@@ -142,7 +142,7 @@ Pub. L. 105–206, title VII, §7002, July 22, 1998, 112 Stat. 827, provided tha
 
 “(a)
 
-In General.—Notwithstanding paragraph (3) of section 136(c) of the Tax Reform Act of 1984 \[Pub. L. 98–369, set out above\] (relating to stapled stock; stapled entities), the REIT gross income provisions shall be applied by treating the activities and gross income of members of the stapled REIT group properly allocable to any nonqualified real property interest held by the exempt REIT or any stapled entity which is a member of such group (or treated under subsection (c) as heldby such REIT or stapled entity) as the activities and gross income of the exempt REIT in the same manner as if the exempt REIT and such group were one entity.
+In General.—Notwithstanding paragraph (3) of section 136(c) of the Tax Reform Act of 1984 \[Pub. L. 98–369, set out above\] (relating to stapled stock; stapled entities), the REIT gross income provisions shall be applied by treating the activities and gross income of members of the stapled REIT group properly allocable to any nonqualified real property interest held by the exempt REIT or any stapled entity which is a member of such group (or treated under subsection (c) as held by such REIT or stapled entity) as the activities and gross income of the exempt REIT in the same manner as if the exempt REIT and such group were one entity.
 
 “(b)
 
@@ -268,7 +268,7 @@ In general.—If, as of March 26, 1998—
 
 &emsp;&emsp;“(B)
 
-Limitation to one partnership.—If, as of January 1, 1999, more than one partnership ownedby any exempt REIT or stapled entity meets the requirements of subparagraph (A), only the largest such partnership on such date (determined by aggregate asset bases) shall be treated as meeting such requirements.
+Limitation to one partnership.—If, as of January 1, 1999, more than one partnership owned by any exempt REIT or stapled entity meets the requirements of subparagraph (A), only the largest such partnership on such date (determined by aggregate asset bases) shall be treated as meeting such requirements.
 
 &emsp;&emsp;“(C)
 
@@ -308,7 +308,7 @@ Exception for existing obligations.—Such term shall not include any obligation
 
 &emsp;&emsp;“(B) which is held on such date by the exempt REIT or any entity which is a member of the stapled REIT group on such date and at all times thereafter,
 
-> &emsp;but only so long as such obligation is secured by such interest, and the interest payable on such obligation is not changed to a rate which exceeds an arm's length rate unless such change is pursuant to the terms of the obligation in effect on March 26, 1998. The preceding sentence shall not cease to apply by reason of the refinancing of the obligation if (immediately after the refinancing) the principal amount of the obligation resulting from the refinancing does not exceed the principal amount of the refinanced obligation (immediately before the refinancing) and the interest payable on such refinanced obligation does not exceed an arm's length rate.
+> &emsp;but only so long as such obligation is secured by such interest, and the interest payable on such obligation is not changed to a rate which exceeds an arm's length rate unless such change is pursuant to the terms of the obligation in effect on March 26, 1998.The preceding sentence shall not cease to apply by reason of the refinancing of the obligation if (immediately after the refinancing) the principal amount of the obligation resulting from the refinancing does not exceed the principal amount of the refinanced obligation (immediately before the refinancing) and the interest payable on such refinanced obligation does not exceed an arm's length rate.
 
 &emsp;“(5)
 

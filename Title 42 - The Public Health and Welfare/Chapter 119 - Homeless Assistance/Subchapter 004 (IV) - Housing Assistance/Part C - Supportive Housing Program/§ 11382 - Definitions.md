@@ -70,5 +70,5 @@ Par. (3). Pub. L. 104–330, §506(a)(7)(B), struck out par. (3) which read as f
 
 Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
 
-Amendment by Pub. L. 104–330 applicable with respect to amounts made available for assistance under this subchapter for fiscal year 1998 and fiscal years thereafter, see section 506(c) of Pub. L. 104–330, set out as a note under section 11371 of this title.
+Amendment by Pub. L. 104–330 applicable with respect to amounts made available for assistance under this subchapter for fiscal year 1998 and fiscal yearsthereafter, see section 506(c) of Pub. L. 104–330, set out as a note under section 11371 of this title.
 

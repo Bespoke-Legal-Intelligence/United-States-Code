@@ -38,7 +38,7 @@ Amount under pre-flat-rate reduction.—An amount equal to 21/2 percent of the f
 
 &emsp;&emsp;(B)
 
-Reserve-component annuity.—If the annuity coverage being provided is a reserve-component annuity, the reduction shall be in whichever of the following amounts is more favorable to that person:
+Reserve-component annuity.—If the annuity coverage being provided is a reserve-component annuity, the reductionshall be in whichever of the following amounts is more favorable to that person:
 
 &emsp;&emsp;&emsp;(i)
 
@@ -174,7 +174,7 @@ Conditions.—Notwithstanding any other provision of this subchapter but subject
 
 &emsp;&emsp;(B)
 
-Effective date.—Participation in the Plan of a person who submits a request under subparagraph (A) shall be discontinued effective on the first day of the first month following the month in which the request under subparagraph (A) is received by the Secretary concerned. Effective on suchdate, the Secretary concerned shall discontinue the reduction being made in such person's retired pay on account of participation in the Plan or, in the case of a person who has been required to make deposits in the Treasury on account of participation in the Plan, such person may discontinue making such deposits effective on such date.
+Effective date.—Participation in the Plan of a person who submits a request under subparagraph (A) shall be discontinued effective on the first day of the first month following the month in which the request under subparagraph (A) is received by the Secretary concerned. Effective on such date, the Secretary concerned shall discontinue the reduction being made in such person's retired pay on account of participation in the Plan or, in the case of a person who has been required to make deposits in the Treasury on account of participation in the Plan, such person may discontinue making such deposits effective on such date.
 
 &emsp;&emsp;(C)
 
@@ -242,7 +242,7 @@ Delay not to affect computation of annuity.—Subparagraph (A) may not be constr
 
 (i)
 
-Recomputation of Reduction Upon Recomputation of Retired Pay.—When the retired pay of a person who first became a member of a uniformed service on or after August 1, 1986, and who is a participant in the Plan is recomputed under section 1410 of this title upon the person's becoming 62 years of age, the amount of the reduction in such retired pay under this section shall be recomputed (effective on the effective date of the recomputation of such retired pay under section 1410 of this title) so as to be the amount equal to the amount of such reduction that would be in effect on that date if increases in such retired pay under section 1401a(b) of this title, and increases in reductions in such retired pay under subsection (h), had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section).
+Recomputation of Reduction Upon Recomputation of Retired Pay.—Whenever the retired pay of a person who first became a member of a uniformed service on or after August 1, 1986, and who is a participant in the Plan is recomputed under section 1410 of this title upon the person's becoming 62 years of age, the amount of the reduction in such retired pay under this section shall be recomputed (effective on the effective date of the recomputation of such retired pay under section 1410 of this title) so as to be the amount equal to the amount of such reduction that would be in effect on that date if increases in such retired pay under section 1401a(b) of this title, and increases in reductions in such retired pay under subsection (h), had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section).
 
 (j)
 
@@ -254,13 +254,15 @@ Years and Age 70.—Effective October 1, 2008, no reduction may be made under th
 
 &emsp;(2) the month during which the participant attains 70 years of age.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 710; amended Pub. L. 94–496, §1(4), (5), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §205, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–402, §4, Oct. 9, 1980, 94 Stat. 1706; Pub. L. 97–22, §11(a)(3), (5), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VII, §§714(a), 719(7), (8), 723(b)(2), Nov. 8, 1985, 99 Stat. 672, 675–677; Pub. L. 99–348, title III, §301(a)(3), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(E), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–224, §3(b), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 101–189, div. A, title XIV, §§1402(a)–(c), 1407(a)(9), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1577, 1578, 1589, 1602; Pub. L. 101–510, div. A, title XIV, §1484(<i>l</i>)(4)(C)(ii), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title VI, §637(a), Oct. 5, 1994, 108 Stat. 2790; Pub. L. 104–201, div. A, title VI, §§634, 635(a), Sept. 23, 1996, 110 Stat. 2572, 2579; Pub. L. 105–85, div. A, title X, §1073(a)(29), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §641, Oct. 17, 1998, 112 Stat. 2045.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 710; amended Pub. L. 94–496, §1(4), (5), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §205, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–402, §4, Oct. 9, 1980, 94 Stat. 1706; Pub. L. 97–22, §11(a)(3), (5), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VII, §§714(a), 719(7), (8), 723(b)(2), Nov. 8, 1985, 99 Stat. 672, 675–677; Pub. L. 99–348, title III, §301(a)(3), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(E), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–224, §3(b), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 101–189, div. A, title XIV, §§1402(a)–(c), 1407(a)(9), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1577, 1578, 1589, 1602; Pub. L. 101–510, div. A, title XIV, §1484(<i>l</i>)(4)(C)(ii), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title VI, §637(a), Oct. 5, 1994, 108 Stat. 2790; Pub. L. 104–201, div. A, title VI, §§634, 635(a), Sept. 23, 1996, 110 Stat. 2572, 2579; Pub. L. 105–85, div. A, title X, §1073(a)(29), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §641, Oct. 17, 1998, 112 Stat. 2045; Pub. L. 106–65, div. A, title VI, §643(a)(2), Oct. 5, 1999, 113 Stat. 663.)
 
 #### References in Text
 
 Section 631(b) of Public Law 104–106 (110 Stat. 364), referred to in subsec. (h)(2)(A), was set out as a note under section 1401a of this title prior to repeal by Pub. L. 104–201, div. A, title VI, §631(b), Sept. 23, 1996, 110 Stat. 2549.
 
 #### Amendments
+
+1999—Subsec. (i). Pub. L. 106–65 substituted “Whenever the retired pay” for “When the retired pay”.
 
 1998—Subsec. (j). Pub. L. 105–261 added subsec. (j).
 
@@ -280,7 +282,7 @@ Subsec. (h)(2). Pub. L. 104–201, §635(a), added par. (2).
 
 Subsec. (a)(1). Pub. L. 101–189, §1402(a), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in subsection (b), the retired pay of a person to whom section 1448 of this title applies who has a spouse or former spouse, or who has a spouse or former spouse and a dependent child, and who has not elected to provide an annuity to a person designated by him under section 1450(a)(4) of this title, or who had elected to provide such an annuity to such a person but has changed his election in favor of his spouse under section 1450(f) of this title, shall be reduced each month—
 
-&emsp;“(A) by an amount equal to 21/2 percent of the first $300 (as adjusted from time to time under paragraph (4)) of the base amount plus 10 percent of the remainder of the base amount, if the person is providing a standard annuity; or
+&emsp;“(A) by an amount equal to 21/2 percent of the first $300 (as adjusted from time to time under paragraph\(4)) of the base amount plus 10 percent of the remainder of the base amount, if the person is providing a standard annuity; or
 
 &emsp;“(B) by an amount prescribed under regulations of the Secretary of Defense, if the person is providing a reserve-component annuity.”
 
@@ -330,13 +332,17 @@ Subsec. (g)(4). Pub. L. 97–22, §11(a)(5), substituted “this section” for 
 
 1978—Subsec. (a). Pub. L. 95–397, §205(a), substituted pars. (1) and (2) for “by an amount equal to 21/2 percent of the first $300 of the base amount plus 10 percent of the remainder of the base amount” after “shall be reduced each month”.
 
-Subsec. (c). Pub. L. 95–397, §205(b), substituted pars. (1) and (2) for “by 10 percent plus 5 percent for each full5 years the individual designated is younger than that person. However, the total reduction may not exceed 40 percent. The reduction in retired or retainer pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person receiving retired or retainer pay changes his election under section 1450(f)”, and inserted provision following par. (2) that the total reduction under clause (1) may not exceed 40 percent, and that the reduction in retired or retainer pay shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person changes his election under section 1450(f) of this title.
+Subsec. (c). Pub. L. 95–397, §205(b), substituted pars. (1) and (2) for “by 10 percent plus 5 percent for each full 5 years the individual designated is younger than that person. However, the total reduction may not exceed 40 percent. The reduction in retired or retainer pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person receiving retired or retainer pay changes his election under section 1450(f)”, and inserted provision following par. (2) that the total reduction under clause (1) may not exceed 40 percent, and that the reduction in retired or retainer pay shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person changes his election under section 1450(f) of this title.
 
 1976—Subsec. (a). Pub. L. 94–496, §1(4), (5)(A), substituted “Except as provided in subsection (b), the retired or retainer pay” for “The retired or retainer pay”, “(a)(4)” for “(a)(3)”, and inserted provision prohibiting a reduction in retired or retainer pay during any month in which there is no eligible spouse beneficiary.
 
 Subsec. (b). Pub. L. 94–496, §1(5)(B), inserted “or who has a spouse but has elected to provide an annuity for dependent children only,” after “spouse,”.
 
 Subsec. (c). Pub. L. 94–496, §1(4), (5)(C), substituted “(a)(4)” for “(a)(3)”, and inserted provision directing that reduction in retired or retainer pay continue during the lifetime of a beneficiary designated under section 1450(a)(4) of this title or until such person change his election pursuant to section 1450(f) of this title.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–65 effective Oct. 1, 1999, see section 644 of Pub. L. 106–65, set out as a note under section 1401a of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -358,7 +364,7 @@ Section 1484(<i>l</i>)(4)(C) of Pub. L. 101–510 provided that the amendment ma
 
 Section 714(b) of title VII of Pub. L. 99–145 provided that: “The amendments made by clause (5) of subsection (a) \[amending this section\] shall apply only with respect to persons who first participate in the Plan on or after the effective date of this title \[see note below\].”
 
-Amendment by title VII of Pub. L. 99–145 effective Mar. 1, 1986, except as otherwise provided, with prohibition against accrual of benefits to any person by reason of the enactment of such title VII for any period before Mar. 1, 1986, see section 731 of Pub. L. 99–145, set out as a note under section 1447 of this title.
+Amendment by title VII of Pub. L. 99–145 effective Mar. 1, 1986, except as otherwise provided, with prohibition against accrual of benefits to any person by reasonof the enactment of such title VII for any period before Mar. 1, 1986, see section 731 of Pub. L. 99–145, set out as a note under section 1447 of this title.
 
 #### Effective Date of 1980 Amendment
 

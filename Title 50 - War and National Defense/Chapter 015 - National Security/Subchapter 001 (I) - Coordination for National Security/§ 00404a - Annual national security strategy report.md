@@ -6,6 +6,8 @@
 
 (2) The national security strategy report for any year shall be transmitted on the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31.
 
+(3) Not later than 150 days after the date on which a new President takes office, the President shall transmit to Congress a national security strategy report under this section. That report shall be in addition to the report for that year transmitted at the time specified in paragraph (2).
+
 #### (b) Contents
 
 Each national security strategy report shall set forth the national security strategy of the United States and shall include a comprehensive description and discussion of the following:
@@ -24,7 +26,11 @@ Each national security strategy report shall set forth the national security str
 
 Each national security strategy report shall be transmitted in both a classified and an unclassified form.
 
-(July 26, 1947, ch. 343, title I, §108, formerly §104, as added Pub. L. 99–433, title VI, §603(a)(1), Oct. 1, 1986, 100 Stat. 1074; renumbered §108, Pub. L. 102–496, title VII, §705(a)(2), Oct. 24, 1992, 106 Stat. 3190.)
+(July 26, 1947, ch. 343, title I, §108, formerly §104, as added Pub. L. 99–433, title VI, §603(a)(1), Oct. 1, 1986, 100 Stat. 1074; renumbered §108, Pub. L. 102–496, title VII, §705(a)(2), Oct. 24, 1992, 106 Stat. 3190; amended Pub. L. 106–65, div. A, title IX, §901(b), Oct. 5, 1999, 113 Stat. 717.)
+
+#### Amendments
+
+1999—Subsec. (a)(3). Pub. L. 106–65 added par. (3).
 
 #### National Commission on the Future Role of United States Nuclear Weapons, Problems of Command, Control, and Safety of Soviet Nuclear Weapons, and Reduction of Nuclear Weapons
 
@@ -32,5 +38,5 @@ Pub. L. 102–172, title VIII, §8132, Nov. 26, 1991, 105 Stat. 1208, provided f
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 sections 113, 117, 2501.
+This section is referred to in title 10 sections 113, 117, 118, 2501.
 

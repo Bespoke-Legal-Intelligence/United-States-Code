@@ -36,7 +36,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;&emsp;(ii) violated section 8315(a)(2) of this title; and
 
-&emsp;(3) “retired pay” means retired pay, retirement pay, retainer pay, or equivalent pay, payable under a statute to a member or former member of a uniformed service, and an annuity payable to an eligible beneficiary of the member or former member under chapter 73 of title 10 or section 5 of the Uniformed Services Contingency Option Act of 1953 (67 Stat. 504), but does not include—
+&emsp;(3) “retired pay” means retired pay, retirement pay, retainer pay, or equivalent pay,payable under a statute to a member or former member of a uniformed service, and an annuity payable to an eligible beneficiary of the member or former member under chapter 73 of title 10 or section 5 of the Uniformed Services Contingency Option Act of 1953 (67 Stat. 504), but does not include—
 
 &emsp;&emsp;(A) a benefit provided under statutes administered by the Department of Veterans Affairs;
 
@@ -82,7 +82,7 @@ In paragraph (1)(B), the reference to “Resident Commissioner” is omitted as 
 
 In paragraph (1)(C), the words “uniformed service” are coextensive with and substituted for “armed forces, the Coast and Geodetic Survey, or the Public Health Service” in view of the definition of “uniformed services” in section 2101.
 
-In paragraph (3), the words “uniformed service” are coextensive with and substituted for “armed forces, theCoast and Geodetic Survey, and the Public Health Service” in view of the definition of “uniformed services” in section 2101.
+In paragraph (3), the words “uniformed service” are coextensive with and substituted for “armed forces, the Coast and Geodetic Survey, and the Public Health Service” in view of the definition of “uniformed services” in section 2101.
 
 The definition of “armed forces” in former section 2281(4) is omitted as unnecessary in view of the definition of “armed forces” in section 2101.
 

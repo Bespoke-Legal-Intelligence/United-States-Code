@@ -100,7 +100,7 @@ Sections 102 to 104 and 107 of the Americans with Disabilities Act of 1990, refe
 
 Sections 1977 and 1977A of the Revised Statutes, referred to in subsec. (b)(1)(B), (3)(B), are classified to sections 1981 and 1981a, respectively, of Title 42.
 
-Section 3(2) of the Federal Advisory Committee Act, referred to in subsec. (c)(1)(B), is section 3(2) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 3(2) of the Federal Advisory Committee Act, referred to in subsec. (c)(1)(B), is section 3(2) of Pub. L.92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The effective date of this chapter, referred to in subsec. (e), is Oct. 1, 1997, unless otherwise provided, see section 471 of this title.
 

@@ -88,7 +88,7 @@ Amendment by section 1901(a)(136) of Pub. L. 94–455 applicable with respect to
 
 #### Effective Date of 1969 Amendment
 
-Amendment by section 513(c) of Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 513(d) of Pub. L. 91–172, set out as a note under section 1211 of this title.
+Amendment by section 513(c) of Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, seesection 513(d) of Pub. L. 91–172, set out as a note under section 1211 of this title.
 
 #### Effective Date of 1964 Amendment
 

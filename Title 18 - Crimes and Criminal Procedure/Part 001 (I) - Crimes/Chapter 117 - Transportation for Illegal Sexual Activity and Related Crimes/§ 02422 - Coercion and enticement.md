@@ -10,7 +10,7 @@
 
 Based on title 18, U.S.C., 1940 ed., §399 (June 25, 1910, ch. 395, §3, 36 Stat. 825).
 
-Words “deemed guilty of a felony” were deleted as unnecessary in view of definition of felony in section 1 of this title. (See reviser's note under section 550 of this title.)
+Words “deemed guilty of a felony” were deleted as unnecessary in view of definition of felony in section 1of this title. (See reviser's note under section 550 of this title.)
 
 Words “and on conviction thereof shall be” were deleted as surplusage since punishment cannot be imposed until a conviction is secured.
 

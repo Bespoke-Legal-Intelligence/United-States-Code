@@ -38,13 +38,19 @@ Aug. 28, 1954, ch. 1036, §§9, 10, 12, 68 Stat. 894.
 
 36:610.
 
+&nbsp;
+
 151906(c)
 
 36:609(a).
 
+&nbsp;
+
 151906(d)
 
 36:609(b).
+
+&nbsp;
 
 In subsection (a), the words “any shares of” are omitted as unnecessary.
 

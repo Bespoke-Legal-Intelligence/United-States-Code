@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) to any position which is part of an identified straddle,
 
-&emsp;&emsp;&emsp;&emsp;(II) to any position which, with respect to the taxpayer, is property described in paragraph (1) or (2) of section 1221 or to any position which is part of a hedging transaction (as defined in section 1256(e)), or
+&emsp;&emsp;&emsp;&emsp;(II) to any position which, with respect to the taxpayer, is property described in paragraph (1) or (2) of section 1221(a) or to any position which is part of a hedging transaction (as defined in section 1256(e)), or
 
 &emsp;&emsp;&emsp;&emsp;(III) with respect to any taxable year if no loss on a position (including a regulated futures contract) has been sustained during such taxable year or if the only loss sustained on such position is a loss described in subclause (II).
 
@@ -354,13 +354,15 @@ If a taxpayer holds any stock and grants a qualified covered call option to purc
 
 &emsp;&emsp;<b>For provision requiring capitalization of certain interest and carrying charges where there is a straddle, see section 263(g).</b>
 
-(Added Pub. L. 97–34, title V, §501(a), Aug. 13, 1981, 95 Stat. 323; amended Pub. L. 97–448, title I, §105(a)(1)(A)–(C), (2)–(4), Jan. 12, 1983, 96 Stat. 2384, 2385; Pub. L. 98–369, div. A, title I, §§101(a)–(d), 102(e)(2), 103(a), 107(a), July 18, 1984, 98 Stat. 616–619, 624, 627, 629; Pub. L. 99–514, title III, §331(a), title XII, §1261(b), title XVIII, §§1808(c), 1899A(66), Oct. 22, 1986, 100 Stat. 2220, 2591, 2817, 2962; Pub. L. 100–647, title VI, §6130(c),Nov. 10, 1988, 102 Stat. 3719; Pub. L. 105–34, title XII, §1271(b)(9), Aug. 5, 1997, 111 Stat. 1037.)
+(Added Pub. L. 97–34, title V, §501(a), Aug. 13, 1981, 95 Stat. 323; amended Pub. L. 97–448, title I, §105(a)(1)(A)–(C), (2)–(4), Jan. 12, 1983, 96 Stat. 2384, 2385; Pub. L. 98–369, div. A, title I, §§101(a)–(d), 102(e)(2), 103(a), 107(a), July 18, 1984, 98 Stat. 616–619, 624, 627, 629; Pub. L. 99–514, title III, §331(a), title XII, §1261(b), title XVIII, §§1808(c), 1899A(66), Oct. 22, 1986, 100 Stat. 2220, 2591, 2817, 2962; Pub. L. 100–647, title VI, §6130(c),Nov. 10, 1988, 102 Stat. 3719; Pub. L. 105–34, title XII, §1271(b)(9), Aug. 5, 1997, 111 Stat. 1037; Pub. L. 106–170, title V, §532(c)(1)(F), Dec. 17, 1999, 113 Stat. 1930.)
 
 #### References in Text
 
 Section 246(c)(3) of this title, referred to in subsec. (c)(4)(E), was amended by Pub. L. 105–34, title X, §1015(b)(2), Aug. 5, 1997, 111 Stat. 922, by striking out subpar. (B) and redesignating subpar. (C) as (B).
 
 #### Amendments
+
+1999—Subsec. (a)(3)(B)(ii)(II). Pub. L. 106–170 substituted “1221(a)” for “1221”.
 
 1997—Subsec. (f)(2). Pub. L. 105–34 substituted “The” for “Except for purposes of section 851(b)(3), the”.
 
@@ -410,6 +412,10 @@ Subsec. (c)(2)(C). Pub. L. 97–448, §105(a)(4), substituted “subsection (a)(
 
 Subsec. (d)(4). Pub. L. 97–448, §105(a)(3), substituted “a straddle at least 1 (but not all) of the positions of which are regulated futures contracts, the provisions of this section shall apply” for “a straddle— (A) at lease 1 (but not all) of the positions of which are regulated futures contracts, and (B) with respect to which the taxpayer has elected not to have the provisions of section 1256 apply, the provisions of this section shall apply”.
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–34 applicable to taxable years beginning after Aug. 5, 1997, see section 1271(c) of Pub. L. 105–34, set out as a note under section 817 of this title.
@@ -446,7 +452,7 @@ Subsection (c).—The amendment made by subsection (c) \[amending this section\]
 
 Subsection (d).—The amendment made by subsection (d) \[amending this section\] shall apply to positions established after the date of the enactment of this Act in taxable years ending after such date.”
 
-Amendment by section 102(e)(2) of Pub. L. 98–369 applicable to positions established after July 18, 1984, intaxable years ending after that date, except as otherwise provided, see section 102(f), (g) of Pub. L. 98–369, set out as a note under section 1256 of this title.
+Amendment by section 102(e)(2) of Pub. L. 98–369 applicable to positions established after July 18, 1984, in taxable years ending after that date, except as otherwise provided, see section 102(f), (g) of Pub. L. 98–369, set out as a note under section 1256 of this title.
 
 Section 103(b), (c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 

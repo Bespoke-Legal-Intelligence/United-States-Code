@@ -96,5 +96,5 @@ Section 905(c) of Pub. L. 93–344 (formerly set out as a note under section 621
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 907c of this title; title 7 section 6617; title 15 section 4110; title 16 section 543h; title 25 sections 1300h–8, 1771d; title 33 section 2326a; title 42 sections 1962d–19, 10309, 11713; title 43 section 390g–7; title 45 section 829; title 50 App. section 1989b–9.
+This section is referred to in section 907c of this title; title 7 section 6617; title 15 section 4110; title 16 section 543h; title 25 sections 1300h–8, 1771d; title 33 section 2326a; title 42 sections 1962d–19, 10309, 11713; title 43 section 390g–7; title 50 App. section 1989b–9.
 

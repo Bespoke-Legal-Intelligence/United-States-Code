@@ -64,7 +64,7 @@ In subsection (d), the following substitutions are made: “In subsection (a) (1
 
 1990—Subsec. (c). Pub. L. 101–510 struck out at end “However, notwithstanding any other provision of this title or any other law, the Secretary of Defense shall not direct or approve a plan to initiate or effect a substantial reduction or elimination of a major weapons system until the Secretary of Defense has reported all the pertinent details of the proposed action to the Congress of the United States while the Congress is in session.”
 
-1986—Subsec. (a). Pub. L. 99–433, §103(1), struck out provision under which the Secretary of Defense couldsubstantially transfer, reassign, consolidate, or abolish functions, powers, or duties vested in the Department of Defense by law if the Secretary reported the details of the proposed transfer, reassignment, consolidation, or abolition to Congress and if Congress did not affirmatively reject the proposal.
+1986—Subsec. (a). Pub. L. 99–433, §103(1), struck out provision under which the Secretary of Defense could substantially transfer, reassign, consolidate, or abolish functions, powers, or duties vested in the Department of Defense by law if the Secretary reported the details of the proposed transfer, reassignment, consolidation, or abolition to Congress and if Congress did not affirmatively reject the proposal.
 
 Subsec. (b). Pub. L. 99–433, §§103(2), 514(c)(1), inserted “vested by law in the Department of Defense, or an officer, official, or agency thereof” and substituted “5062, 5063” for “5012, 5013”.
 
@@ -84,7 +84,7 @@ Section 303 of Pub. L. 87–651 provided that:
 
 &emsp;“(1) as an exercise of the rule-making power of the Senate and the House of Representatives, respectively, and as such they shall be considered as part of the rules of each House, respectively, and supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;“(2) with full recognition of the constitutional right of either House to change the rules (as far as relating to the procedure in that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.”
+&emsp;“(2) with full recognition of the constitutional right of either House to change the rules (as far as relating to the procedure in that House) at any time, inthe same manner and to the same extent as in the case of any other rule of that House.”
 
 #### Section Referred to in Other Sections
 

@@ -49,8 +49,9 @@
 | [2576\.](Subchapter%20003%20%28III%29%20-%20Functions/%C2%A7%2002576%20-%20Arms%20control%20information.md) | Arms control information. |
 | [2577\.](Subchapter%20003%20%28III%29%20-%20Functions/%C2%A7%2002577%20-%20Verification%20of%20compliance.md) | Verification of compliance. |
 | (a) | In general. |
-| (b) | Standard for verification of compliance. |
-| (c) | Rule of construction. |
+| (b) | Assessments upon request. |
+| (c) | Standard for verification of compliance. |
+| (d) | Rule of construction. |
 | [2577a.](Subchapter%20003%20%28III%29%20-%20Functions/%C2%A7%2002577a%20-%20Arms%20control%20verification.md) | Arms control verification. |
 | (a) | Establishment of working group. |
 | (b) | Information and data base. |
@@ -82,6 +83,7 @@
 | (a) | In general. |
 | (b) | Classification of report. |
 | (c) | Reporting consecutive noncompliance. |
+| (d) | Additional requirement. |
 | [2593b.](Subchapter%20004%20%28IV%29%20-%20Additional%20General%20Provisions/%C2%A7%2002593b%20-%20Public%20annual%20report%20on%20world%20military%20expenditures%20and%20arms%20transfers.md) | Public annual report on world military expenditures and arms transfers. |
 | 2593c, 2593d. Repealed. |  |
 

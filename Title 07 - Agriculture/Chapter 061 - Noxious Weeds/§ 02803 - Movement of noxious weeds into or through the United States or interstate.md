@@ -10,7 +10,7 @@ The regulations prescribed by the Secretary to implement subsection (a) of this 
 
 #### (c) Unlawful sale, purchase, and transportation, and advertisements for unlawful sale, purchase, and transportation
 
-No person shall knowingly sell, purchase, barter, exchange, give, or receive any such noxiousweed which has been moved in violation of subsection (a) of this section, or knowingly deliver or receive for transportation or transport, in interstate or foreign commerce, any advertisement to sell, purchase, barter, exchange, give, or receive any such noxious weed which is prohibited from movement in such commerce under this chapter.
+No person shall knowingly sell, purchase, barter, exchange, give, or receive any such noxious weed which has been moved in violation of subsection (a) of this section, or knowingly deliver or receive for transportation or transport, in interstate or foreign commerce, any advertisement to sell, purchase, barter, exchange, give, or receive any such noxious weed which is prohibited from movement in such commerce under this chapter.
 
 (Pub. L. 93–629, §4, Jan. 3, 1975, 88 Stat. 2149; Pub. L. 100–449, title III, §301(f)(4), Sept. 28, 1988, 102 Stat. 1869; Pub. L. 103–465, title IV, §431(f), Dec. 8, 1994, 108 Stat. 4968.)
 

@@ -14,7 +14,7 @@
 
 (B) Except as provided in section 3672(e) of this title, a State approving agency may utilize the accreditation of any accrediting association or agency listed pursuant to subparagraph (A) of this paragraph for approval of courses specifically accredited and approved by such accrediting association or agency.
 
-(3)(A) An educational institution shall submit an application for approval of courses to the appropriate State approving agency. In making application for approval, the institution (other than an elementary school or secondary school) shall transmit to the State approving agency copies of its catalog or bulletin which must be certified as true and correct in content and policy by an authorized representative of the institution.
+(3)(A) An educational institution shall submit an application for approval of courses to the appropriate State approving agency. In making application for approval, the institution (other than an elementary school or secondary school)shall transmit to the State approving agency copies of its catalog or bulletin which must be certified as true and correct in content and policy by an authorized representative of the institution.
 
 (B) Each catalog or bulletin transmitted by an institution under subparagraph (A) of this paragraph shall—
 

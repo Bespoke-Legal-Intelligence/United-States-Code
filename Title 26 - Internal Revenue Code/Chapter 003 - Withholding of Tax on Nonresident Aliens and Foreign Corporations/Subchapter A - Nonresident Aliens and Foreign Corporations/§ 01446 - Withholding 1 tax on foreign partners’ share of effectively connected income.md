@@ -22,7 +22,7 @@ If—
 
 &emsp;&emsp;(A) the highest rate of tax specified in section 1 in the case of the portion of the effectively connected taxable income which is allocable under section 704 to foreign partners who are not corporations, and
 
-&emsp;&emsp;(B) the highest rate of tax specified in section 11(b)(1) in the case of the portion of the effectively connected taxable income which is allocable under section 704 to foreign partners which are corporations.
+&emsp;&emsp;(B) the highest rate of tax specified in section 11(b)(1) in the case of the portion of the effectively connected taxable income whichis allocable under section 704 to foreign partners which are corporations.
 
 #### (c) Effectively connected taxable income
 

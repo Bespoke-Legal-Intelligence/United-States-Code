@@ -8,7 +8,7 @@
 
 &emsp;(2) describe the class or classes of documentary material produced thereunder with such definiteness and certainty as to permit such material to be fairly identified;
 
-&emsp;(3) state that the demand is returnable forthwith or prescribe a return date which willprovide a reasonable period of time within which the material so demanded may be assembled and made available for inspection and copying or reproduction; and
+&emsp;(3) state that the demand is returnable forthwith or prescribe a return date which will provide a reasonable period of time within which the material so demanded may be assembled and made available for inspection and copying or reproduction; and
 
 &emsp;(4) identify the custodian to whom such material shall be made available.
 
@@ -34,7 +34,7 @@
 
 (3) The custodian to whom any documentary material is so delivered shall take physical possession thereof, and shall be responsible for the use made thereof and for the return thereof pursuant to this chapter. The custodian may cause the preparation of such copies of such documentary material as may be required for official use under regulations which shall be promulgated by the Attorney General. While in the possession of the custodian, no material so produced shall be available for examination, without the consent of the person who produced such material, by any individual other than the Attorney General. Under such reasonable terms and conditions as the Attorney General shall prescribe, documentary material while in the possession of the custodian shall be available for examination by the person who produced such material or any duly authorized representatives of such person.
 
-(4) Whenever any attorney has been designated to appear on behalf of the United States before any court or grand jury in any case or proceeding involving any alleged violation of this chapter, the custodian may deliver to such attorney such documentary material in the possession of the custodian as such attorney determines to be required for use in the presentation of such case or proceeding on behalf of the United States. Upon the conclusion of any such case or proceeding, such attorney shall return to the custodian any documentary material so withdrawn which has not passed into the control of such court or grand jury through the introduction thereof into the record of such case or proceeding.
+(4) Whenever any attorney has been designated to appear on behalf of the United States before any court or grand jury in any case or proceeding involving any alleged violation of this chapter, the custodian may deliver to such attorney such documentary material in the possession of the custodian as such attorney determines to be required for use in the presentation of such case or proceeding on behalf of the United States. Upon the conclusion of any such case or proceeding, such attorney shall return to the custodian any documentary material so withdrawn which has not passed into the control of such court or grand jury through the introductionthereof into the record of such case or proceeding.
 
 (5) Upon the completion of—
 
@@ -50,7 +50,7 @@
 
 &emsp;(ii) transmit notice in writing to the person who produced such material as to the identity and address of the successor so designated.
 
-> Any successor so designated shall have with regard to such materials all duties and responsibilities imposed by this section upon his predecessor in office with regard thereto, except that he shall not be held responsible for any defaultor dereliction which occurred before his designation as custodian.
+> Any successor so designated shall have with regard to such materials all duties and responsibilities imposed by this section upon his predecessor in office with regard thereto, except that he shall not be held responsible for any default or dereliction which occurred before his designation as custodian.
 
 (g) Whenever any person fails to comply with any civil investigative demand duly served upon him under this section or whenever satisfactory copying or reproduction of any such material cannot be done and such person refuses to surrender such material, the Attorney General may file, in the district court of the United States for any judicial district in which such person resides, is found, or transacts business, and serve upon such person a petition for an order of such court for the enforcement of this section, except that if such person transacts business in more than one such district such petition shall be filed in the district in which such person maintains his principal place of business, or in such other district in which such person transacts business as may be agreed upon by the parties to such petition.
 

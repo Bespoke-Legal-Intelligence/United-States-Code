@@ -20,7 +20,7 @@ General.—Section 30112(a) of this title does not apply to a motor vehicle if�
 
 &emsp;(2) the vehicle is imported by a registered importer; and
 
-&emsp;(3) the registered importer pays the annual fee the Secretary of Transportation establishes under subsection (e) of this section topay for the costs of carrying out the registration program for importers under subsection (c) of this section and any other fees the Secretary of Transportation establishes to pay for the costs of—
+&emsp;(3) the registered importer pays the annual fee the Secretary of Transportation establishes under subsection (e) of this section to pay for the costs of carrying out the registration program for importers under subsection (c) of this section and any other fees the Secretary of Transportation establishes to pay for the costs of—
 
 &emsp;&emsp;(A) processing bonds provided to the Secretary of the Treasury under subsection (d) of this section; and
 
@@ -30,7 +30,7 @@ General.—Section 30112(a) of this title does not apply to a motor vehicle if�
 
 Procedures on Deciding on Motor Vehicle Capability.—(1) The Secretary of Transportation shall establish by regulation procedures for making a decision under subsection (a)(1) of this section and the information a petitioner must provide to show clearly that the motor vehicle is capable of being brought into compliance with applicable motor vehicle safety standards prescribed under this chapter. In establishing the procedures, the Secretary shall provide for a minimum period of public notice and written comment consistent with ensuring expeditious, but complete, consideration and avoiding delay by any person. In making a decision under those procedures, the Secretary shall consider test information and other information available to the Secretary, including any information provided by the manufacturer. If the Secretary makes a negative decision, the Secretary may not make another decision for the same model until at least 3 calendar months have elapsed after the negative decision.
 
-(2) The Secretary of Transportation shall publish each year in the Federal Register a list of all decisions made under subsection (a)(1) of this section. Each published decision applies to the model of the motor vehicle for which the decision was made. A positive decision permits another importer registered under subsection (c) of this section to import a vehicle of the same model under this section if the importer complies with all the terms of the decision.
+(2) The Secretary of Transportation shall publish each year in the Federal Register a list of all decisions made under subsection (a)(1) of thissection. Each published decision applies to the model of the motor vehicle for which the decision was made. A positive decision permits another importer registered under subsection (c) of this section to import a vehicle of the same model under this section if the importer complies with all the terms of the decision.
 
 (c)
 
@@ -110,7 +110,7 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §108(c)(2), (3)(A)–(D); added 
 
 In subsection (a)(1)(A)(iv), the words “prescribed under this chapter” are substituted for “Federal” for consistency in this chapter.
 
-In subsection (a)(3), before clause (A), the words “any other fees” are substituted for “such other annual feeor fees” to eliminate unnecessary words. In clause (B), the words “this subchapter” are substituted for “this section” for clarity. See H. Rept. No. 100–431, 100th Cong., 1st Sess., p. 19 (1987).
+In subsection (a)(3), before clause (A), the words “any other fees” are substituted for “such other annual fee or fees” to eliminate unnecessary words. In clause (B), the words “this subchapter” are substituted for “this section” for clarity. See H. Rept. No. 100–431, 100th Cong., 1st Sess., p. 19 (1987).
 
 In subsection (b)(1), the words “procedures for making a decision under subsection (a)(1) of this section” are substituted for “procedures for considering such petitions” and “procedures for determinations made on the Secretary's initiative” because of the restatement. The words “(whether or not confidential)” are omitted as unnecessary because of the restatement.
 

@@ -4,7 +4,7 @@
 
 (1) Except as otherwise provided in sections 543 to 543h of this title, the Secretary, acting through the Chief of the Forest Service, shall administer the Scenic Area as a separate unit within the boundary of the Inyo National Forest in accordance with the laws, rules, and regulations applicable to the National Forest System. All Bureau of Land Management administered lands that fall within the boundaries of the Scenic Area are hereby added to the Inyo National Forest and shall be administered in accordance with the laws, rules, and regulations applicable to the National Forest System.
 
-(2) In addition, the following parcels administered by the Bureau of Land Management are hereby added to the Inyo National Forest andshall be administered in accordance with the laws, rules, and regulations applicable to the National Forest System:
+(2) In addition, the following parcels administered by the Bureau of Land Management are hereby added to the Inyo National Forest and shall be administered in accordance with the laws, rules, and regulations applicable to the National Forest System:
 
 &emsp;township 1 south; range 26 east; Mount Diablo Meridian:
 

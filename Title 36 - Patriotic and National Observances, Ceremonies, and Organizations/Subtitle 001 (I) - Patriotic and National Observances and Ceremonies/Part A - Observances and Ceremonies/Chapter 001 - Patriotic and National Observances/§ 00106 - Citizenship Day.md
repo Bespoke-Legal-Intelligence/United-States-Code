@@ -38,13 +38,19 @@ Feb. 29, 1952, ch. 49, §1, 66 Stat. 9.
 
 36:153 (1st par. 14th word–words before “and the President”).
 
+&nbsp;
+
 106(c)
 
 36:153 (1st par. words after “of citizenship”).
 
+&nbsp;
+
 106(d)
 
 36:153 (2d, last pars.).
+
+&nbsp;
 
 In subsection (d), the text of 36:153 (last par.) is omitted as obsolete.
 

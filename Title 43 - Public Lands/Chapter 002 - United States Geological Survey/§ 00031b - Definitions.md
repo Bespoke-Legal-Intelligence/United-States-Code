@@ -14,25 +14,39 @@ In sections 31a to 31h of this title:
 
 &emsp;The term “Director” means the Director of the United States Geological Survey.
 
-#### (4) Geologic mapping program
+#### (4) Education component
+
+&emsp;The term “education component” means the education component of the geologic mapping program described in section 31e(d)(3) <sup>1</sup> of this title.
+
+#### (5) Federal component
+
+&emsp;The term “Federal component” means the Federal component of the geologic mapping program described in section 31e(d)(1) <sup>2</sup> of this title.
+
+#### (6) Geologic mapping program
 
 &emsp;The term “geologic mapping program” means the National Cooperative Geologic Mapping Program established by section 31c(a) of this title.
 
-#### (5) Secretary
+#### (7) Secretary
 
 &emsp;The term “Secretary” means the Secretary of the Interior.
 
-#### (6) State
+#### (8) State
 
 &emsp;The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and the Virgin Islands.
 
-#### (7) Survey
+#### (9) State component
+
+&emsp;The term “State component” means the State component of the geologic mapping program described in section 31e(d)(2) <sup>3</sup> of this title.
+
+#### (10) Survey
 
 &emsp;The term “Survey” means the United States Geological Survey.
 
-(Pub. L. 102–285, §3, May 18, 1992, 106 Stat. 167; Pub. L. 105–36, §3(a), Aug. 5, 1997, 111 Stat. 1107.)
+(Pub. L. 102–285, §3, May 18, 1992, 106 Stat. 167; Pub. L. 105–36, §3(a), Aug. 5, 1997, 111 Stat. 1107; Pub. L. 106–148, §3, Dec. 9, 1999, 113 Stat. 1719.)
 
 #### Amendments
+
+1999—Pars. (4) to (10). Pub. L. 106–148 added pars. (4), (5), and (9) and redesignated former pars. (4), (5), (6), and (7) as (6), (7), (8), and (10), respectively.
 
 1997—Pub. L. 105–36, §3(a)(1), substituted “In sections 31a to 31h of this title:” for “As used in sections 31a to 31h of this title:” in introductory provisions.
 
@@ -45,4 +59,14 @@ Pars. (3) to (5). Pub. L. 105–36, §3(a)(2), (5), redesignated pars. (2) to (4
 Par. (6). Pub. L. 105–36, §3(a)(4), added par. (6).
 
 Par. (7). Pub. L. 105–36, §3(a)(2), (5), redesignated par. (5) as (7) and inserted heading.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 31h of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be section “31c(d)(3)”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be section “31c(d)(1)”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be section “31c(d)(2)”.</i>
 

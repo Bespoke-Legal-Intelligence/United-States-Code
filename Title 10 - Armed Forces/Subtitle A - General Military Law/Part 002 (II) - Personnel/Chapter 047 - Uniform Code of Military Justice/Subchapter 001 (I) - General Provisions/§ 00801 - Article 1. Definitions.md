@@ -18,7 +18,7 @@ In this chapter:
 
 &emsp;(8) The term “military” refers to any or all of the armed forces.
 
-&emsp;(9) The term “accuser” means a person who signs and swears to charges, any person who directs that charges nominally be signed and sworn to by another, and any other person whohas an interest other than an official interest in the prosecution of the accused.
+&emsp;(9) The term “accuser” means a person who signs and swears to charges, any person who directs that charges nominally be signed and sworn to by another, and any other person who has an interest other than an official interest in the prosecution of the accused.
 
 &emsp;(10) The term “military judge” means an official of a general or special court-martial detailed in accordance with section 826 of this title (article 26).
 
@@ -116,7 +116,7 @@ Section 12(a) of Pub. L. 98–209 provided that:
 
 Section 4 of Pub. L. 90–632 provided that:
 
-“(a) Except for the amendments made by paragraphs (30) and (33) of section 2, this Act \[see Short Title of 1968 Amendment note below\] shall become effective on the first day of the tenth month following the month in which it is enacted \[October 1968\].
+“(a) Except for the amendments made by paragraphs (30) and (33) of section 2, this Act \[see Short Title of 1968 Amendment note below\] shall become effective onthe first day of the tenth month following the month in which it is enacted \[October 1968\].
 
 “(b) The amendment made by paragraph (30) of section 2 \[amending section 869 of this title\] shall become effective upon the date of enactment of this Act \[Oct. 24, 1968\].
 

@@ -234,5 +234,5 @@ Section 312 of Pub. L. 99–335 directed Executive Director of Federal Retiremen
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8351, 8401, 8432a, 8432b, 8433, 8437, 8439, 8440a, 8440b, 8440c, 8440d, 8479 of this title; title 10 section 942; title 40 section 214d; title 42 section 2297h–8.
+This section is referred to in sections 8351, 8401, 8432a, 8432b, 8432c, 8433, 8437, 8439, 8440a, 8440b, 8440c, 8440d, 8479 of this title; title 10 section 942; title 40 section 214d; title 42 section 2297h–8.
 

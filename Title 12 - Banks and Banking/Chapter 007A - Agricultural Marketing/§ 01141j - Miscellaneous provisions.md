@@ -22,7 +22,7 @@ It shall be unlawful (1) for any cooperative association, stabilization corporat
 
 #### (d) Governmental publications; predictions as to cotton prices prohibited
 
-The inclusion in any governmental report, bulletin, or other such publication hereafter issued or published of any prediction with respect to cotton prices is prohibited. Any officer or employee of the United States who authorizes or is responsible for the inclusion in any such report, bulletin, or other publication of any such prediction, or who knowingly causes the issuance or publication of any such report, bulletin, or other publication containing any such prediction, shall, upon conviction thereof, be fined not less than $500 or more than $5,000, or imprisoned for not more than five years, or both: <i>Provided</i>, That this subdivision shall not apply to the Governor of the Farm Credit Administration when engaged in the performance of his duties herein provided.
+The inclusion in any governmental report, bulletin, or other such publication hereafter issued or published of any prediction with respectto cotton prices is prohibited. Any officer or employee of the United States who authorizes or is responsible for the inclusion in any such report, bulletin, or other publication of any such prediction, or who knowingly causes the issuance or publication of any such report, bulletin, or other publication containing any such prediction, shall, upon conviction thereof, be fined not less than $500 or more than $5,000, or imprisoned for not more than five years, or both: <i>Provided</i>, That this subdivision shall not apply to the Governor of the Farm Credit Administration when engaged in the performance of his duties herein provided.
 
 #### (e) Separability clause
 

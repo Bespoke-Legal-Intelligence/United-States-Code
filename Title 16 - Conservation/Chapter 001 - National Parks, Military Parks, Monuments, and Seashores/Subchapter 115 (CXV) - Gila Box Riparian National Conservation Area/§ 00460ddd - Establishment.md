@@ -10,7 +10,7 @@ The conservation area shall consist of the public lands generally depicted on a 
 
 #### (c) Map
 
-As soon as practicable after November 28, 1990, a map and legal description of the conservation area shall be filed by the Secretary with the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate. Such map shall have the same force and effect as if included in this section. Copies of such map shall be on file andavailable for public inspection in the Office of the Director of the Bureau of Land Management, Department of the Interior, and in the appropriate office of the Bureau of Land Management in Arizona.
+As soon as practicable after November 28, 1990, a map and legal description of the conservation area shall be filed by the Secretary with the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate. Such map shall have the same force and effect as if included in this section. Copies of such map shall be on file and available for public inspection in the Office of the Director of the Bureau of Land Management, Department of the Interior, and in the appropriate office of the Bureau of Land Management in Arizona.
 
 #### (d) Management of conservation area
 
@@ -42,7 +42,7 @@ Subject to valid existing rights, all Federal lands within the conservation area
 
 (3) In order to better implement the management plan, the Secretary may enter into cooperative agreements with appropriate State and local agencies pursuant to section 307(b) of the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1737(b)\].
 
-(4) In order to assist in the development and implementation of the management plan, the Secretary may authorize appropriate research, including research concerning the environmental, biological, hydrological, cultural, and other characteristics, resources, and values of the conservation area, pursuant to section 307(a) of the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1737(a)\].
+(4) In order to assist in the development and implementation of the management plan, the Secretary may authorize appropriate research,including research concerning the environmental, biological, hydrological, cultural, and other characteristics, resources, and values of the conservation area, pursuant to section 307(a) of the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1737(a)\].
 
 #### (h) Acquisition and boundary adjustments
 
@@ -50,7 +50,7 @@ Subject to valid existing rights, all Federal lands within the conservation area
 
 (2) The Secretary is authorized to adjust the boundaries of the conservation area so as to incorporate within the conservation area any lands or interests within the Eagle Creek riparian area that may be acquired after November 28, 1990, as well as public lands within that portion of the Eagle Creek riparian area west of the centerline of Eagle Creek that the Secretary finds appropriate in order to properly manage such acquired lands as part of the conservation area. Any lands or interests so incorporated shall be managed as part of the conservation area.
 
-(3) No lands or interests therein owned by the State of Arizona or any political subdivision of such State shall be acquired pursuant to this subsection except through donation or exchange, and no lands or interests within the conservation area or the Eagle Creek riparian area shall be acquired from any other party or entityexcept by donation, exchange, or purchase with the consent of the owner of such lands or interests.
+(3) No lands or interests therein owned by the State of Arizona or any political subdivision of such State shall be acquired pursuant to this subsection except through donation or exchange, and no lands or interests within the conservation area or the Eagle Creek riparian area shall be acquired from any other party or entity except by donation, exchange, or purchase with the consent of the owner of such lands or interests.
 
 #### (i) No buffer zones
 
@@ -98,7 +98,7 @@ Committee on Natural Resources of House of Representatives treated as referring 
 
 #### Short Title
 
-Section 1 of Pub. L. 101–628 provided that: “Titles I through III of this Act \[enacting this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘Arizona Desert Wilderness Act of 1990’.”
+Section 1 of Pub. L. 101–628 provided that: “Titles I through III of this Act \[enacting this subchapter andprovisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘Arizona Desert Wilderness Act of 1990’.”
 
 #### Termination of Advisory Committees
 

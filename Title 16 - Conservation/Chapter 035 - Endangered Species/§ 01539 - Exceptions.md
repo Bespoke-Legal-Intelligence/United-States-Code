@@ -36,7 +36,7 @@
 
 #### (b) Hardship exemptions
 
-(1) If any person enters into a contract with respect to a species of fish or wildlife or plant before the date of the publication in the Federal Register of notice of consideration of that species as an endangered species and the subsequent listing of that species as an endangered species pursuant to section 1533 of this title will cause undue economic hardship to such person under the contract, the Secretary, in order to minimize such hardship, may exempt such person from the application of section 1538(a) of this title to the extent the Secretary deems appropriate if such person applies to him for such exemption and includes with such application such information as the Secretary may require to prove such hardship; except that (A) no such exemption shall be for a duration of more than one year from the date of publication in the Federal Register of notice of consideration of the species concerned, or shall apply to a quantity of fish or wildlife or plants in excess of that specified by the Secretary; (B) the one-year period for those species of fish or wildlife listed by the Secretary as endangered prior to December 28, 1973, shall expire in accordance with the terms of section 668cc–3 <sup>1</sup> of this title; and (C) no such exemption may be granted for the importation or exportation of a specimen listed in Appendix I of the Convention which is to be used in a commercial activity.
+(1) If any person enters into a contract with respect to a species of fish or wildlife or plant before the date of the publication in the Federal Register of notice of consideration of that species as an endangered species and the subsequent listing of that species as an endangered species pursuant to section 1533 of this title will cause undue economic hardship to such person under the contract, the Secretary, in order to minimize such hardship, may exempt such person from the application of section 1538(a) of this title to the extent the Secretary deems appropriate if such person applies to him for such exemption and includes with such application such information as the Secretary may require to prove such hardship; except that (A) no such exemption shall be for a duration of more than one year from the date of publication in the Federal Register of notice of consideration of the species concerned, or shall apply to a quantity of fish or wildlife or plants in excess of that specified by the Secretary; (B) the one-year period for those species of fish or wildlife listed by the Secretary as endangered prior to December28, 1973, shall expire in accordance with the terms of section 668cc–3 <sup>1</sup> of this title; and (C) no such exemption may be granted for the importation or exportation of a specimen listed in Appendix I of the Convention which is to be used in a commercial activity.
 
 (2) As used in this subsection, the term “undue economic hardship” shall include, but not be limited to:
 
@@ -50,7 +50,7 @@
 
 #### (c) Notice and review
 
-The Secretary shall publish notice in the Federal Register of each application for an exemption or permit which is made under this subsection. Each notice shall invite the submission from interested parties, within thirty days after the date of the notice, of written data, views, or arguments with respect to the application; except that such thirty-day period may be waived by the Secretary in an emergency situation where the health or life of an endangered animal is threatened and no reasonable alternative is available to the applicant, but notice of any such waiver shall be published by the Secretaryin the Federal Register within ten days following the issuance of the exemption or permit. Information received by the Secretary as a part of any application shall be available to the public as a matter of public record at every stage of the proceeding.
+The Secretary shall publish notice in the Federal Register of each application for an exemption or permit which is made under this subsection. Each notice shall invite the submission from interested parties, within thirty days after the date of the notice, of written data, views, or arguments with respect to the application; except that such thirty-day period may be waived by the Secretary in an emergency situation where the health or life of an endangered animal is threatened and no reasonable alternative is available to the applicant, but notice of any such waiver shall be published by the Secretary in the Federal Register within ten days following the issuance of the exemption or permit. Information received by the Secretary as a part of any application shall be available to the public as a matter of public record at every stage of the proceeding.
 
 #### (d) Permit and exemption policy
 
@@ -164,7 +164,7 @@ In connection with any action alleging a violation of section 1538 of this title
 
 &emsp;(A) was not repaired or modified after the date of importation with any part of any endangered species or threatened species listed under section 1533 of this title;
 
-&emsp;(B) was forfeited to the United States before November 10, 1978, or is subject to forfeiture tothe United States on such date of enactment, pursuant to the assessment of a civil penalty under section 1540 of this title; and
+&emsp;(B) was forfeited to the United States before November 10, 1978, or is subject to forfeiture to the United States on such date of enactment, pursuant to the assessment of a civil penalty under section 1540 of this title; and
 
 &emsp;(C) is in the custody of the United States on November 10, 1978;
 
@@ -198,7 +198,7 @@ Any importation into the United States of fish or wildlife shall, if—
 
 &emsp;(i) solely for purposes of section 1536 of this title (other than subsection (a)(1) thereof), an experimental population determined under subparagraph (B) to be not essential to the continued existence of a species shall be treated, except when it occurs in an area within the National Wildlife Refuge System or the National Park System, as a species proposed to be listed under section 1533 of this title; and
 
-&emsp;(ii) critical habitat shall not be designated under this chapter for any experimental population determined under subparagraph (B) to be not essential to the continued existence of a species.
+&emsp;(ii) critical habitat shall not be designated under this chapter for any experimental population determined under subparagraph (B) tobe not essential to the continued existence of a species.
 
 (3) The Secretary, with respect to populations of endangered species or threatened species that the Secretary authorized, before October 13, 1982, for release in geographical areas separate from the other populations of such species, shall determine by regulation which of such populations are an experimental population for the purposes of this subsection and whether or not each is essential to the continued existence of an endangered species or a threatened species.
 

@@ -40,7 +40,7 @@ No individual employed in the service of the Commission shall be paid compensati
 
 #### References in Text
 
-The civil service laws, referred to in subsecs. (c) and (d), are set out in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
+The civil service laws, referred to in subsecs. (c) and (d), are set out in Title 5, Government Organization andEmployees. See, particularly, section 3301 et seq. of Title 5.
 
 Annual and sick leave, referred to in subsec. (e)(3), is covered generally by section 6301 et seq. of Title 5.
 

@@ -10,11 +10,11 @@
 
 &emsp;&emsp;(II) after May 7, l975, in an area at a time during which hostilities occurred in that area.
 
-&emsp;(ii) Any veteran (other than a veteran covered by clause (i)) who served on active duty during the Vietnam era who seeks or is furnished such counseling before January 1, 2000.
+&emsp;(ii) Any veteran (other than a veteran covered by clause (i)) who served on active duty during the Vietnam era who seeks or is furnished such counseling before January 1, 2004.
 
 (2)(A) Upon the request of any veteran (other than a veteran covered by paragraph (1)) who served in the active military, naval, or air service in a theater of combat operations (as so determined) during a period of war, or in any other area during a period in which hostilities (as defined in subparagraph (B)) occurred in such area, the Secretary may furnish counseling to the veteran to assist the veteran in readjusting to civilian life.
 
-(B) For the purposes of subparagraph (A), the term “hostilities” means an armed conflict in which the members of the Armed Forces are subjected to danger comparable to the danger to which members of the Armed Forces have been subjected in combat with enemy armed forces during a period of war, as determined by the Secretary in consultation with the Secretary of Defense.
+(B) For the purposes of subparagraph (A), the term “hostilities” means an armed conflict in which the members of the Armed Forces aresubjected to danger comparable to the danger to which members of the Armed Forces have been subjected in combat with enemy armed forces during a period of war, as determined by the Secretary in consultation with the Secretary of Defense.
 
 (b)(1) If, on the basis of the assessment furnished under subsection (a) of this section, a physician or psychologist employed by the Department (or, in areas where no such physician or psychologist is available, a physician or psychologist carrying out such function under a contract or fee arrangement with the Secretary) determines that the provision of mental health services to such veteran is necessary to facilitate the successful readjustment of the veteran to civilian life, such veteran shall, within the limits of Department facilities, be furnished such services on an outpatient basis. For the purposes of furnishing such mental health services, the counseling furnished under subsection (a) of this section shall be considered to have been furnished by the Department as a part of hospital care. Any hospital care and other medical services considered necessary on the basis of the assessment furnished under subsection (a) of this section shall be furnished only in accordance with the eligibility criteria otherwise set forth in this chapter (including the eligibility criteria set forth in section 1711(b) of this title).
 
@@ -34,7 +34,7 @@
 
 (g)(1)(A) Except as provided in subparagraph (C) of this paragraph, the Secretary may close or relocate a center in existence on January 1, 1988, only as described in the national plan required by paragraph (3) of this subsection (or in a revision to such plan under paragraph (4) of this subsection in which the closure or relocation of that center is proposed).
 
-(B) A closure or relocation of a center which is proposed in such national plan may be carried out only after the end of the 120-day period beginning on the date on which the national planis submitted. A closure or relocation of a center not proposed in such plan may be carried out only after the end of the 60-day period beginning on the date the Secretary submits a revision to such plan in which the closure or relocation of that center is proposed.
+(B) A closure or relocation of a center which is proposed in such national plan may be carried out only after the end of the 120-day period beginning on the date on which the national plan is submitted. A closure or relocation of a center not proposed in such plan may be carried out only after the end of the 60-day period beginning on the date the Secretary submits a revision to such plan in which the closure or relocation of that center is proposed.
 
 (C) The Secretary may relocate a center in existence on January 1, 1988, without regard to the national plan (including any revision to such plan) if such relocation is to a new location away from a Department general health-care facility when such relocation is necessitated by circumstances beyond the control of the Department. Such a relocation may be carried out only after the end of the 30-day period beginning on the date on which the Secretary notifies the Committees on Veterans’ Affairs of the Senate and the House of Representatives of the proposed relocation, of the circumstances making it necessary, and of the reason for the selection of the new site for the center.
 
@@ -78,11 +78,11 @@
 
 (i) For the purposes of this section:
 
-&emsp;(1) The term “center” means a facility (including a Resource Center designated under subsection (h)(3)(A) of this section) which is operated by the Department for the provisionof services under this section and which (A) is situated apart from Department general health-care facilities, or (B) was so situated but has been relocated to a Department general health-care facility.
+&emsp;(1) The term “center” means a facility (including a Resource Center designated under subsection (h)(3)(A) of this section) which is operated by the Department for the provision of services under this section and which (A) is situated apart from Department general health-care facilities, or (B) was so situated but has been relocated to a Department general health-care facility.
 
 &emsp;(2) The term “Department general health-care facility” means a health-care facility which is operated by the Department for the furnishing of health-care services under this chapter, not limited to services provided through the program established under this section.
 
-(Added Pub. L. 96–22, title I, §103(a)(1), June 13, 1979, 93 Stat. 48, §612A; amended Pub. L. 96–128, title V, §501(b), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–72, title I, §104(a)(1), (b), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 98–160, title I, §101, Nov. 21, 1983, 97 Stat. 993; Pub. L. 99–166, title I, §§105, 106, Dec. 3, 1985, 99 Stat. 944, 945; Pub. L. 99–272, title XIX, §§19011(d)(4), 19012(c)(3), Apr. 7, 1986, 100 Stat. 379, 382; Pub. L. 99–576, title II, §204, title VII, §702(6), Oct. 28, 1986, 100 Stat. 3255, 3302; Pub. L. 100–322, title I, §107(a)–(e), May 20, 1988, 102 Stat. 494–496; Pub. L. 100–687, div. B, title XV, §1501(a), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–25, title III, §334(d), Apr. 6, 1991, 105 Stat. 89; Pub. L. 102–54, §14(b)(11), June 13, 1991, 105 Stat. 283; renumbered §1712A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), (6), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(5), title III, §331, Oct. 9, 1996, 110 Stat. 3180, 3197.)
+(Added Pub. L. 96–22, title I, §103(a)(1), June 13, 1979, 93 Stat. 48, §612A; amended Pub. L. 96–128, title V, §501(b), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–72, title I, §104(a)(1), (b), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 98–160, title I, §101, Nov. 21, 1983, 97 Stat. 993; Pub. L. 99–166, title I, §§105, 106, Dec. 3, 1985, 99 Stat. 944, 945; Pub. L. 99–272, title XIX, §§19011(d)(4), 19012(c)(3), Apr. 7, 1986, 100 Stat. 379, 382; Pub. L. 99–576, title II, §204, title VII, §702(6), Oct. 28, 1986, 100 Stat. 3255, 3302; Pub. L. 100–322, title I, §107(a)–(e), May 20, 1988, 102 Stat. 494–496; Pub. L. 100–687, div. B, title XV, §1501(a), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–25, title III, §334(d), Apr. 6, 1991, 105 Stat. 89; Pub. L. 102–54, §14(b)(11), June 13, 1991, 105 Stat. 283; renumbered §1712A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), (6), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(5), title III, §331, Oct. 9, 1996, 110 Stat. 3180, 3197; Pub. L. 106–117, title II, §205(a), Nov. 30, 1999, 113 Stat. 1563.)
 
 #### References in Text
 
@@ -90,9 +90,11 @@ Section 102 of the Veterans’ Health Care Amendments of 1983, referred to in su
 
 #### Amendments
 
+1999—Subsec. (a)(1)(B)(ii). Pub. L. 106–117 substituted “January 1, 2004” for “January 1, 2000”.
+
 1996—Subsec. (a). Pub. L. 104–262, §331(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
-“(a)(1) Upon the request of any veteran who served on active duty during the Vietnam era, the Secretary shall, within the limits of Department facilities, furnish counseling to such veteran to assist such veteran in readjusting to civilian life. Such counseling shall include a general mental and psychological assessment to ascertain whether such veteran has mental or psychological problems associated with readjustment to civilian life.
+“(a)(1) Upon the request of any veteran who served on active duty during the Vietnam era, the Secretary shall, within the limits of Department facilities, furnish counseling to such veteran to assist such veteran in readjusting to civilian life. Such counseling shall include a general mental and psychological assessment toascertain whether such veteran has mental or psychological problems associated with readjustment to civilian life.
 
 “(2)(A) The Secretary shall furnish counseling as described in paragraph (1), upon request, to any veteran who served on active duty after May 7, 1975, in an area at a time during which hostilities occurred in such area.
 
@@ -152,7 +154,7 @@ Subsec. (i). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for 
 
 &emsp;“(A) the orderly, gradual transition, by October 1, 1989, of that part of the program established under this section for the provision of readjustment counseling services by Veterans’ Administration personnel from a program providing such services primarily through centers located in facilities situated apart from the health-care facilities operated by the Veterans’ Administration for the provision of other health-care services under other provisions of this chapter to a program providing readjustment counseling services primarily through such health-care facilities; and
 
-&emsp;“(B) the continued availability after such date of readjustment counseling and related mental healthservices under this section to veterans eligible for the provision of such counseling and services who request such counseling.”
+&emsp;“(B) the continued availability after such date of readjustment counseling and related mental health services under this section to veterans eligible for the provision of such counseling and services who request such counseling.”
 
 Subsec. (g)(1)(A). Pub. L. 100–687, §1501(a)(1), substituted “Except as provided in subparagraph (C) of this paragraph, the” for “The”.
 
@@ -182,7 +184,7 @@ Subsec. (e)(1). Pub. L. 99–272, §19012(c)(3), substituted “603(a)(2)” for
 
 Pub. L. 99–272, §19011(d)(4)(B), substituted “612(a)(1)(B)” for “612(f)(2)”.
 
-Subsec. (g)(1). Pub. L. 99–576, §204(a), substituted “the 24-month period ending on September 30, 1989” for “the twelve-month period ending on September 30, 1988” in introductory provision, and substituted “orderly, gradual transition by October 1, 1989” for “orderly transition, by October 1, 1988” in subpar. (A).
+Subsec. (g)(1). Pub. L. 99–576, §204(a), substituted “the 24-month period ending on September 30, 1989” for “thetwelve-month period ending on September 30, 1988” in introductory provision, and substituted “orderly, gradual transition by October 1, 1989” for “orderly transition, by October 1, 1988” in subpar. (A).
 
 Subsec. (g)(2)(A). Pub. L. 99–576, §204(b)(1), inserted “(Pub. L. 98–160) (or, if the study is not then completed, whatever information from it is then available)” after “the Veterans’ Health Care Amendments of 1983”.
 
@@ -227,6 +229,38 @@ Amendment by Pub. L. 96–128 effective Nov. 28, 1979, see section 601(b) of Pub
 #### Effective Date
 
 Section effective Oct. 1, 1979, see section 107 of Pub. L. 96–22, set out as an Effective Date of 1979 Amendment note under section 1701 of this title.
+
+#### Specialized Mental Health Services
+
+Pub. L. 106–117, title I, §116, Nov. 30, 1999, 113 Stat. 1559, provided that:
+
+“(a)
+
+Improvement to Specialized Mental Health Services.—The Secretary \[of Veterans Affairs\], in furtherance of the responsibilities of the Secretary under section 1706(b) of title 38, United States Code, shall carry out a program to expand and improve the provision of specialized mental health services to veterans. The Secretary shall establish the program in consultation with the Committee on Care of Severely Chronically Mentally Ill Veterans established pursuant to section 7321 of title 38, United States Code.
+
+“(b)
+
+Covered Programs.—For purposes of this section, the term ‘specialized mental health services’ includes programs relating to—
+
+&emsp;“(1) the treatment of post-traumatic stress disorder; and
+
+&emsp;“(2) substance use disorders.
+
+“(c)
+
+Funding.—(1) In carrying out the program described in subsection (a), the Secretary shall identify, from funds available to the Department \[of Veterans Affairs\] for medical care, an amount of not less than $15,000,000 to be available to carry out the program and to be allocated to facilities of the Department pursuant to subsection (d).
+
+“(2) In identifying available amounts pursuant to paragraph (1), the Secretary shall ensure that, after the allocation of those funds under subsection (d), the total expenditure for programs relating to (A) the treatment of post-traumatic stress disorder, and (B) substance use disorders is not less than $15,000,000 in excess of the baseline amount.
+
+“(3) For purposes of paragraph (2), the baseline amount is the amount of the total expenditures on such programs for the most recent fiscal year for which final expenditure amounts are known, adjusted to reflect any subsequent increase in applicable costs to deliver such services in the Veterans Health Administration, as determined by the Committee on Care of Severely Chronically Mentally Ill Veterans.
+
+“(d)
+
+Allocation of Funds to Department Facilities.—The Secretary shall allocate funds identified pursuant to subsection (c)(1) to individual medical facilities of the Department as the Secretary determines appropriate based upon proposals submitted by those facilities for the use of those funds for improvements to specialized mental health services.
+
+“(e)
+
+Report.—Not later than 12 months after the date of the enactment of this Act \[Nov. 30, 1999\], the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report describing the implementation of this section. The Secretary shall include in the report information on the allocation of funds to facilities of the Department under the program and a description of the improvements made with those funds to specialized mental health services for veterans.”
 
 #### Marriage and Family Counseling for Persian Gulf War Veterans
 
@@ -384,19 +418,19 @@ Section 107(f) of Pub. L. 100–322, as amended by Pub. L. 100–527, §10(4), O
 
 #### Post-Traumatic-Stress Disorder; Diagnosis and Treatment; Education and Training of Health-Care Personnel; Coordination With Readjustment Counseling; Special Committee; National Center; Compilation and Publication of Research Results; Reports to Congressional Committees
 
-Pub. L. 98–528, title I, §110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pub. L. 100–527, §10(2), (4), (5), Oct. 25, 1988, 102 Stat. 2641; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
+Pub. L. 98–528, title I, §110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pub. L. 106–117, title II, §206, Nov. 30, 1999, 113 Stat. 1563, provided that:
 
-“(a)(1) The Chief Medical Director \[now Under Secretary for Health\] of the Department of Veterans Affairs may designate special programs within the Veterans Health Administration for the diagnosis and treatment of post-traumatic-stress disorder (hereinafter in this section referred to as ‘PTSD’).
+“(a)(1) The Under Secretary for Health of the Department of Veterans Affairs may designate special programs within the Veterans Health Administration for the diagnosis and treatment of post-traumatic-stress disorder (hereinafter in this section referred to as ‘PTSD’).
 
-“(2) The Chief Medical Director \[now Under Secretary for Health\] shall direct (A) that (in addition to providing diagnostic and treatment services for PTSD) Department of Veterans Affairs programs designated under paragraph (1) (hereinafter in this section referred to as ‘designated PTSD programs’) carry out activities to promote the education and training of health-care personnel (including health-care personnel not working for the Department of Veterans Affairs or the Federal Government) in the causes, diagnosis, and treatment of PTSD, and (B) that (when appropriate) the provision of treatment services under such program be coordinated with the provision of readjustment counseling services under section 1712A \[formerly 612A\] of title 38, United States Code.
+“(2) The Under Secretary for Health shall direct (A) that (in addition to providing diagnostic and treatment services for PTSD) Department programs designated under paragraph (1) (hereinafter in this section referred to as ‘designated PTSD programs’) carry out activities to promote the education and training of health-care personnel (including health-care personnel not working for the Department or the Federal Government) in the causes, diagnosis, and treatment of PTSD, and (B) that (when appropriate) the provision of treatment services under such program be coordinated with the provision of readjustment counseling services under section 1712A of title 38, United States Code.
 
-“(b)(1) The Chief Medical Director \[now Under Secretary for Health\] shall establish in the Veterans Health Administration a Special Committee on Post-Traumatic-Stress Disorder (hereinafter in this section referred to as the ‘Special Committee’). The Chief Medical Director shall appoint qualified employees of the Administration to serve on the Special Committee.
+“(b)(1) The Under Secretary for Health shall establish in the Veterans Health Administration a Special Committee on Post-Traumatic-Stress Disorder (hereinafter in this section referred to as the ‘Special Committee’). The Under Secretary for Health shall appoint qualified employees of the Veterans Health Administration to serve on the Special Committee.
 
-“(2) The Special Committee shall assess, and carry out a continuing assessment of, the capacity of the Department of Veterans Affairs to provide diagnostic and treatment services for PTSD to veterans eligible for health care furnished by the Department of Veterans Affairs.
+“(2) The Special Committee shall assess, and carry out a continuing assessment of, the capacity of the Department to provide diagnostic and treatment services for PTSD to veterans eligible for health care furnished by the Department.
 
-“(3) The Special Committee shall also advise the Chief Medical Director \[now Under Secretary for Health\] regarding the development of policies, the provision of guidance, and the coordination of services for the diagnosis and treatment of PTSD (A) in designatedPTSD programs, (B) in inpatient psychiatric programs and outpatient mental health programs other than designated PTSD programs, and (C) in readjustment counseling programs of the Department of Veterans Affairs.
+“(3) The Special Committee shall also advise the Under Secretary for Health regarding the development of policies, the provision of guidance, and the coordination of services for the diagnosis and treatment of PTSD (A) in designated PTSD programs, (B) in inpatient psychiatric programs and outpatient mental health programs other than designated PTSD programs, and (C) in readjustment counseling programs of the Department.
 
-“(4) The Special Committee shall also make recommendations to the Chief Medical Director \[now Under Secretary for Health\] for guidance with respect to PTSD regarding—
+“(4) The Special Committee shall also make recommendations to the Under Secretary for Health for guidance with respect to PTSD regarding—
 
 &emsp;“(A) appropriate diagnostic and treatment methods;
 
@@ -412,11 +446,29 @@ Pub. L. 98–528, title I, §110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pu
 
 &emsp;“(G) any specific steps that should be taken to improve such diagnosis and treatment and to correct any deficiencies in the operations of designated PTSD programs.
 
-“(c) The Chief Medical Director \[now Under Secretary for Health\] shall establish and operate in the Veterans Health Administration a National Center on Post-Traumatic-Stress Disorder. The National Center (1) shall carry out and promote the training of health care and related personnel in, and research into, the causes and diagnosis of PTSD and the treatment of veterans for PTSD, and (2) shall serve as a resource center for, and promote and seek to coordinate the exchange of information regarding, all research and training activities carried out by the Department of Veterans Affairs, and by other Federal and non-Federal entities, with respect to PTSD.
+“(c) The Under Secretary for Health shall establish and operate in the Veterans Health Administration a National Center on Post-Traumatic-Stress Disorder. The National Center (1) shall carry out and promote the training of health care and related personnel in, and research into, the causes and diagnosis of PTSD and the treatment of veterans for PTSD, and (2) shall serve as a resource center for, and promote and seek to coordinate the exchange of information regarding, all research and training activities carried out by the Department, and by other Federal and non-Federal entities, with respect to PTSD.
 
-“(d) The Chief Medical Director \[now Under Secretary for Health\] shall regularly compile and publish the results of research that has been conducted relating to PTSD.
+“(d) The Under Secretary for Health shall regularly compile and publish the results of research that has been conducted relating to PTSD.
 
-“(e) \[Omitted. Directed Administrator to submit, not later than Mar. 1, 1985, a report to congressional committees on implementation of this section, and, not later than Feb. 1, 1986, and Feb. 1 of each of the three following years, to submit a report updating the reports previously submitted.\].”
+“(e)(1) Not later than March 1, 2000, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the implementation of this section. The report shall include the following:
+
+&emsp;“(A) A list of the members of the Special Committee.
+
+&emsp;“(B) A list of all designated PTSD programs and other programs providing treatment for PTSD, together with a description of the resources that have been allocated for the development and operation of each such program, a description of the education and training that has been provided for Department health-care personnel in such programs and elsewhere within the Department in the diagnosis and treatment of PTSD, and specification of the funding that has been allocated to each such program and elsewhere within the Department to support research relating to PTSD.
+
+&emsp;“(C) The assessment of the Under Secretary for Health of the Department, after consultation with the Special Committee, regarding the capability of the Department to meet the needs for inpatient and outpatient PTSD diagnosis and treatment (both through designated PTSD programs and otherwise) of veterans who served in the Republic of Vietnam during the Vietnam era, former prisoners of war, and other veterans eligible for health care from the Department and the efficacy of the treatment so provided, as well as a description of the results of any evaluations that have been made of PTSD treatment programs.
+
+&emsp;“(D) The plans of the Special Committee for further assessments of the capability of the Department to diagnose and treat veterans with PTSD.
+
+&emsp;“(E) The recommendations made by the Special Committee to the Under Secretary for Health and the views of the Under Secretary for Health on such recommendations.
+
+&emsp;“(F) A summary of the results of research conducted by the Department relating to PTSD.
+
+&emsp;“(G) A description of the steps taken, plans made (and a timetable for their execution), and resources to be applied to implement subsections (b) and (c).
+
+&emsp;“(H) The assessment of the Administrator \[now Secretary\] of the capacity of the Department to meet in all geographic areas of the United States the needs described in subparagraph (C) and any plans and timetable for increasing that capacity (including the costs of such action).
+
+“(2) Not later than February 1, 2001, and February 1 of each of the three following years, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report containing information updating the reports submitted under this subsection since the enactment of the Veterans’ Millennium Health Care and Benefits Act \[Nov. 30, 1999\].”
 
 #### Study of Post-Traumatic Stress Disorder and Other Post-War Psychological Problems
 

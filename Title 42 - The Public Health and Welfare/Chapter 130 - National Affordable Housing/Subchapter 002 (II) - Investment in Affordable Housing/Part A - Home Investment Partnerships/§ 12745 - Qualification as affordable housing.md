@@ -6,9 +6,9 @@
 
 &emsp;Housing that is for rental shall qualify as affordable housing under this subchapter only if the housing—
 
-&emsp;&emsp;(A) bears rents not greater than the lesser of (i) the existing fair market rent for comparable units in the area as established by the Secretary under section 1437f of this title, or (ii) a rent that does not exceed 30 percent of the adjusted income of a family whose income equals 65 percent of the median income for the area, as determined by the Secretary, with adjustment for number of bedrooms in the unit, except that the Secretary may establish income ceilings higher or lower than 65 percent of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes;
+&emsp;&emsp;(A) bears rents not greater than the lesser of (i) the existing fair market rent for comparable units in the area as established by the Secretary under section 1437f of this title, or (ii) a rent that does not exceed 30percent of the adjusted income of a family whose income equals 65 percent of the median income for the area, as determined by the Secretary, with adjustment for number of bedrooms in the unit, except that the Secretary may establish income ceilings higher or lower than 65 percent of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes;
 
-&emsp;&emsp;(B) has not less than 20 percent of the units (i) occupied by very low-income families who pay as a contribution toward rent (excluding any Federal or State rental subsidy provided on behalf of the family) not more than 30 percent of the family's monthly adjusted income as determined by the Secretary, or (ii) occupied by very low-income families and bearing rents not greaterthan the gross rent for rent-restricted residential units as determined under section 42(g)(2) of title 26;
+&emsp;&emsp;(B) has not less than 20 percent of the units (i) occupied by very low-income families who pay as a contribution toward rent (excluding any Federal or State rental subsidy provided on behalf of the family) not more than 30 percent of the family's monthly adjusted income as determined by the Secretary, or (ii) occupied by very low-income families and bearing rents not greater than the gross rent for rent-restricted residential units as determined under section 42(g)(2) of title 26;
 
 &emsp;&emsp;(C) is occupied only by households that qualify as low-income families;
 
@@ -68,7 +68,7 @@ This Act, referred to in subsec. (a)(1)(E), (3), is Pub. L. 101–625, Nov. 28, 
 
 #### Amendments
 
-1998—Subsec. (b)(2). Pub. L. 105–276 amended par. (2) generally. Prior to amendment, par. (2) read as follows:“is the principal residence of an owner whose family qualifies as a low-income family at the time of purchase;”.
+1998—Subsec. (b)(2). Pub. L. 105–276 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “is the principal residence of an owner whose family qualifies as a low-income family at the time of purchase;”.
 
 1994—Subsec. (b)(3). Pub. L. 103–233, §203(a), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “is made available for initial purchase only to first-time homebuyers;”.
 

@@ -28,7 +28,7 @@ Special Apportionment Categories.—(1) The Secretary shall use amounts availabl
 
 &emsp;(A) At least 31 percent for grants for airport noise compatibility planning under section 47505(a)(2) of this title and for carrying out noise compatibility programs under section 47504(c) of this title. The Secretary may count the amount of grants made for such planning and programs with funds apportioned under section 47114 in that fiscal year in determining whether or not such 31 percent requirement is being met in that fiscal year.
 
-&emsp;(B) at <sup>1</sup> least 4 percent for each of fiscal years 1997 and 1998 to sponsors of current or former military airports designated by the Secretary under section 47118(a) of this title for grants for developing current and former military airports to improve the capacity of the national air transportation system and to sponsors of noncommercial service airports for grants for operational and maintenance expenses at any such airport if the amount of such grants to the sponsor of the airport doesnot exceed $30,000 in that fiscal year, if the Secretary determines that the airport is adversely affected by the closure or realignment of a military base, and if the sponsor of the airport certifies that the airport would otherwise close if the airport does not receive the grant.
+&emsp;(B) at <sup>1</sup> least 4 percent to sponsors of current or former military airports designated by the Secretary under section 47118(a) of this title for grants for developing current and former military airports to improve the capacity of the national air transportation system and to sponsors of noncommercial service airports for grants for operational and maintenance expenses at any such airport if the amount of such grants to the sponsor of the airport does not exceed $30,000 in that fiscal year, if the Secretary determines that the airport is adversely affected by the closure or realignment of a military base, and if the sponsor of the airport certifies that the airport would otherwise close if the airport does not receive the grant.
 
 (2) If the Secretary decides that an amount required to be used for grants under paragraph (1) of this subsection cannot be used for a fiscal year because there are insufficient qualified grant applications, the amount the Secretary determines cannot be used is available during the fiscal year for grants for other airports or for other purposes for which amounts are authorized for grants under section 48103 of this title.
 
@@ -50,7 +50,7 @@ Discretionary Use of Apportionments.—(1) Subject to paragraph (2) of this subs
 
 Limiting Authority of Secretary.—The authority of the Secretary to make grants during a fiscal year from amounts that were apportioned for a prior fiscal year and remain available for approved airport development project grants under subsection (b) of this section may be impaired only by a law enacted after September 3, 1982, that expressly limits that authority.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1271; Pub. L. 103–305, title I, §116(a), Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(68), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §§123, 124(d), Oct. 9, 1996, 110 Stat. 3219, 3220; Pub. L. 104–287, §5(82), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(c)(1), (2), Nov. 20, 1997, 111 Stat. 2215.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1271; Pub. L. 103–305, title I, §116(a), Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(68), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §§123, 124(d), Oct. 9, 1996, 110 Stat. 3219, 3220; Pub. L. 104–287, §5(82), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(c)(1), (2), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §7, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(d), May 21, 1999, 113 Stat. 113.)
 
 Historical and Revision Notes
 
@@ -174,6 +174,10 @@ This amends 49:47117(g)(1) because of the redesignation of 49:47105(e) as 49:471
 
 #### Amendments
 
+1999—Subsec. (e)(1)(B). Pub. L. 106–31 struck out “for each of fiscal years 1997 and 1998” after “4 percent”.
+
+Pub. L. 106–6 made amendment identical to that made by Pub. L. 105–102, §3(c)(2). See 1997 Amendment note below.
+
 1997—Subsec. (e)(1)(A). Pub. L. 105–102, §3(c)(1)(B), added Pub. L. 104–264, §123(d). See 1996 Amendment note below.
 
 Subsec. (e)(1)(B). Pub. L. 105–102, §3(c)(2), repealed Pub. L. 104–264, §124(d). See 1996 Amendment note below.
@@ -232,7 +236,7 @@ Amendment by Pub. L. 105–102 effective as if included in the provisions of the
 
 #### Effective Date of 1996 Amendments
 
-Section 8(2) of Pub. L. 104–287, as amended by Pub. L. 105–102, §3(d)(2)(B), Nov. 20, 1997, 111 Stat. 2215, provided that: “The amendments made by section 5(81)(B),\(82)(A), and (83)(A) \[amending this section and sections 47115 and 47118 of this title\] shall take effect on September 30, 1998.”
+Section 8(2) of Pub. L. 104–287, as amended by Pub. L. 105–102, §3(d)(2)(B), Nov. 20, 1997, 111 Stat. 2215, provided that: “The amendments made by section 5(81)(B), (82)(A), and (83)(A) \[amending this section and sections 47115 and 47118 of this title\] shall take effect on September 30, 1998.”
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 

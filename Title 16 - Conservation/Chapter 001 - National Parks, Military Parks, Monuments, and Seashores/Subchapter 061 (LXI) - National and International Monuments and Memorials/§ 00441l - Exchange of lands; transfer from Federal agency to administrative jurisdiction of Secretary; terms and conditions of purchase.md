@@ -6,7 +6,7 @@ Inasmuch as (A) most of the lands added to the Badlands National Park by section
 
 (b) Any former Indian or non-Indian owner of a tract of such land, whether title was held in trust or fee, may purchase such tract from the Secretary of the Interior under the following terms and conditions:
 
-&emsp;(1) The purchase price to a former Indian owner shall be the total amount paid by theUnited States to acquire such tract and all interests therein, plus interest thereon from the date of acquisition at a rate determined by the Secretary of the Treasury taking into consideration the average market yield of all outstanding marketable obligations of the United States at the time the tract was acquired by the United States, adjusted to the nearest one-eighth of 1 per centum. The purchase price to a former non-Indian owner shall be present fair market value of the tract as determined by the Secretary of the Interior.
+&emsp;(1) The purchase price to a former Indian owner shall be the total amount paid by the United States to acquire such tract and all interests therein, plus interest thereon from the date of acquisition at a rate determined by the Secretary of the Treasury taking into consideration the average market yield of all outstanding marketable obligations of the United States at the time the tract was acquired by the United States, adjusted to the nearest one-eighth of 1 per centum. The purchase price to a former non-Indian owner shall be present fair market value of the tract as determined by the Secretary of the Interior.
 
 &emsp;(2) Not less than $100 or 20 per centum of the purchase price, whichever is less, shall be paid at the time of purchase, and the balance shall be payable in not to exceed 20 years with interest at a rate determined by the Secretary of the Treasury taking into account the current average market yield on outstanding marketable obligations of the United States with twenty years remaining to date of maturity, adjusted to the nearest one-eighth of 1 per centum.
 
@@ -18,7 +18,7 @@ Inasmuch as (A) most of the lands added to the Badlands National Park by section
 
 &emsp;(6) No application may be filed by more than five of the former owners of an interest in the tract. If more than one such application is filed for a tract the applicants must agree on not more than five of the former owners who shall make the purchase, and failing such agreement all such applications for the tract shall be rejected by the Secretary.
 
-&emsp;(7) “Former owner” means, for the purposes of subsection (b) of this section, each person from whom the United States acquired an interest in the tract, or if such person is deceased, his spouse, or if such spouse is deceased, his children.
+&emsp;(7) “Former owner” means, for the purposes of subsection (b) of this section, each personfrom whom the United States acquired an interest in the tract, or if such person is deceased, his spouse, or if such spouse is deceased, his children.
 
 (Pub. L. 90–468, §3, Aug. 8, 1968, 82 Stat. 663; Pub. L. 95–625, title VI, §611, Nov. 10, 1978, 92 Stat. 3521.)
 

@@ -82,7 +82,7 @@ The Secretary may waive the requirements of subsection (b) of this section to pe
 
 #### (g) Period of restrictions
 
-A project that receives assistance under this part shall comply with the requirements of thissection for the remaining useful life of the property.
+A project that receives assistance under this part shall comply with the requirements of this section for the remaining useful life of the property.
 
 (Pub. L. 101–625, title IV, §455, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3728; amended Pub. L. 105–276, title V, §514(a)(2)(B), Oct. 21, 1998, 112 Stat. 2547.)
 

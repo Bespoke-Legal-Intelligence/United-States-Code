@@ -44,7 +44,7 @@ A manufacturer may disseminate information under subsection (a) of this section 
 
 &emsp;&emsp;&emsp;(ii) if applicable, that the information is being disseminated at the expense of the manufacturer;
 
-&emsp;&emsp;&emsp;(iii) if applicable, the name of any authors of the information who are employees of, consultants to, or have receivedcompensation from, the manufacturer, or who have a significant financial interest in the manufacturer;
+&emsp;&emsp;&emsp;(iii) if applicable, the name of any authors of the information who are employees of, consultants to, or have received compensation from, the manufacturer, or who have a significant financial interest in the manufacturer;
 
 &emsp;&emsp;&emsp;(iv) the official labeling for the drug or device and all updates with respect to the labeling;
 

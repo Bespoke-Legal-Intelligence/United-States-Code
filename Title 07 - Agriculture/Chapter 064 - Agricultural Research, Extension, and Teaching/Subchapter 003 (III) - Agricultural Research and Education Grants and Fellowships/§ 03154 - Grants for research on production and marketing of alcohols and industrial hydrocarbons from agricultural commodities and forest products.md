@@ -32,7 +32,7 @@ The Secretary may set aside a portion of funds appropriated for the award of gra
 
 There are authorized to be appropriated for the purposes of carrying out this section $20,000,000 for each of the fiscal years 1991 through 2002.
 
-(Pub. L. 95–113, title XIV, §1419, Sept. 29, 1977, 91 Stat. 997; Pub. L. 96–294, title II, §252, June 30, 1980, 94 Stat. 705; Pub. L. 97–98, title XIV, §1422,Dec. 22, 1981, 95 Stat. 1306; Pub. L. 101–624, title XVI, §1609(a), Nov. 28, 1990, 104 Stat. 3718; Pub. L. 102–237, title IV, §402(7), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §806, Apr. 4, 1996, 110 Stat. 1162; Pub. L. 105–185, title III, §301(a)(2), June 23, 1998, 112 Stat. 562.)
+(Pub. L. 95–113, title XIV, §1419, Sept. 29, 1977, 91 Stat. 997; Pub. L. 96–294, title II, §252, June 30, 1980, 94 Stat. 705; Pub. L. 97–98, title XIV, §1422, Dec. 22, 1981, 95 Stat. 1306; Pub. L. 101–624, title XVI, §1609(a), Nov. 28, 1990, 104 Stat. 3718; Pub. L. 102–237, title IV, §402(7), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §806, Apr. 4, 1996, 110 Stat. 1162; Pub. L. 105–185, title III, §301(a)(2), June 23, 1998, 112 Stat. 562.)
 
 #### Amendments
 

@@ -26,7 +26,7 @@ Section 2029, Pub. L. 92–513, title VI, §612, formerly §609, as added Pub. L
 
 Section 2030, Pub. L. 92–513, title VI, §613, formerly §610, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2763; renumbered §613, Pub. L. 102–519, title III, §306(a), Oct. 25, 1992, 106 Stat. 3397, related to judicial review for persons adversely affected by standards or other rules under this subchapter. See section 33117 of Title 49.
 
-Section 2031, Pub. L. 92–513, title VI, §614, formerly §611, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2763; renumbered §614, Pub. L. 102–519, title III, §306(a), Oct. 25, 1992, 106 Stat. 3397, prohibited State and local governments from establishing or continuing in effect a vehicle theft prevention standard not identical to that established under section 2022 of this title. See section 33118 of Title 49.
+Section 2031, Pub. L. 92–513, title VI, §614, formerly §611, as added Pub. L. 98–547, title I, §101(a), Oct. 25,1984, 98 Stat. 2763; renumbered §614, Pub. L. 102–519, title III, §306(a), Oct. 25, 1992, 106 Stat. 3397, prohibited State and local governments from establishing or continuing in effect a vehicle theft prevention standard not identical to that established under section 2022 of this title. See section 33118 of Title 49.
 
 Section 2032, Pub. L. 92–513, title VI, §615, formerly §612, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2763; renumbered §615, Pub. L. 102–519, title III, §306(a), Oct. 25, 1992, 106 Stat. 3397, related to insurance reports and information on theft of motor vehicles. See section 33112 of Title 49.
 

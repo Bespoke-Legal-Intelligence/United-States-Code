@@ -1,6 +1,6 @@
 ### §1609. Repealed. Pub. L. 94–239, §3(b)(1), Mar. 23, 1976, 90 Stat. 253
 
-Section, Pub. L. 90–321, title I, §110, May 29, 1968, 82 Stat. 151, provided for establishment of an advisorycommittee authorized to seek to achieve a fair representation of interests of sellers of merchandise on credit, lenders, and the public.
+Section, Pub. L. 90–321, title I, §110, May 29, 1968, 82 Stat. 151, provided for establishment of an advisory committee authorized to seek to achieve a fair representation of interests of sellers of merchandise on credit, lenders, and the public.
 
 #### Effective Date of Repeal
 

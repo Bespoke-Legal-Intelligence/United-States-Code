@@ -14,7 +14,7 @@
 
 Based on title 18, U.S.C., 1940 ed., §744g (May 27, 1930, ch. 340, §7, 46 Stat. 392).
 
-The revised section substituted the Director of the Bureau of Federal Supply of the Treasury Department for the General Supply Committee, the functions of thelatter having been transferred to the Procurement Division of the Treasury Department by Executive Order No. 6166, §1, June 10, 1933, and the name of that unit having been changed to Bureau of Federal Supply by order of the Secretary of the Treasury effective January 1, 1947, 11 Federal Register No. 13,638. The Bureau of the Budget was substituted for the Bureau of Efficiency which was abolished by Act of March 3, 1933, ch. 212, §17, 47 Stat. 1519, without transferring its functions elsewhere. However, the Bureau of the Budget performs similar duties and its Director logically should serve on the arbitration board.
+The revised section substituted the Director of the Bureau of Federal Supply of the Treasury Department for the General Supply Committee, the functions of the latter having been transferred to the Procurement Division of the Treasury Department by Executive Order No. 6166, §1, June 10, 1933, and the name of that unit having been changed to Bureau of Federal Supply by order of the Secretary of the Treasury effective January 1, 1947, 11 Federal Register No. 13,638. The Bureau of the Budget was substituted for the Bureau of Efficiency which was abolished by Act of March 3, 1933, ch. 212, §17, 47 Stat. 1519, without transferring its functions elsewhere. However, the Bureau of the Budget performs similar duties and its Director logically should serve on the arbitration board.
 
 Reference to authority for appropriations was omitted and words “by this chapter” substituted therefor.
 

@@ -48,7 +48,7 @@ In this part, the term “eligible individual” means an individual—
 
 #### (A) In general
 
-&emsp;&emsp;The requirement of this paragraph is met, for health insurance coverage policy formsoffered by an issuer in the individual market, if the issuer offers a lower-level coverage policy form (as defined in subparagraph (B)) and a higher-level coverage policy form (as defined in subparagraph (C)) each of which includes benefits substantially similar to other individual health insurance coverage offered by the issuer in that State and each of which is covered under a method described in section 300gg–44(c)(3)(A) of this title (relating to risk adjustment, risk spreading, or financial subsidization).
+&emsp;&emsp;The requirement of this paragraph is met, for health insurance coverage policy forms offered by an issuer in the individual market, if the issuer offers a lower-level coverage policy form (as defined in subparagraph (B)) and a higher-level coverage policy form (as defined in subparagraph (C)) each of which includes benefits substantially similar to other individual health insurance coverage offered by the issuer in that State and each of which is covered under a method described in section 300gg–44(c)(3)(A) of this title (relating to risk adjustment, risk spreading, or financial subsidization).
 
 #### (B) Lower-level of coverage described
 
@@ -58,7 +58,7 @@ In this part, the term “eligible individual” means an individual—
 
 &emsp;&emsp;A policy form is described in this subparagraph if—
 
-&emsp;&emsp;&emsp;(i) the actuarial value of the benefits under the coverage is at least 15 percent greater than the actuarial value of the coverage described in subparagraph (B) offered by the issuer in the area involved; and
+&emsp;&emsp;&emsp;(i) the actuarial value of the benefits under the coverage is at least 15 percent greater than the actuarial value of thecoverage described in subparagraph (B) offered by the issuer in the area involved; and
 
 &emsp;&emsp;&emsp;(ii) the actuarial value of the benefits under the coverage is at least 100 percent but not greater than 120 percent of a weighted average (described in subparagraph (D)).
 
@@ -114,7 +114,7 @@ In this part, the term “eligible individual” means an individual—
 
 #### (2) Conversion policies
 
-&emsp;A health insurance issuer offering health insurance coverage in connection with group health plans under this subchapter shall not be deemed to be a health insurance issuer offering individual health insurance coveragesolely because such issuer offers a conversion policy.
+&emsp;A health insurance issuer offering health insurance coverage in connection with group health plans under this subchapter shall not be deemed to be a health insurance issuer offering individual health insurance coverage solely because such issuer offers a conversion policy.
 
 #### (f) Construction
 
@@ -128,7 +128,7 @@ Nothing in this section shall be construed—
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII of chapter 7 of this title. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII of chapter 7 of this title. TitleXIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Effective Date
 

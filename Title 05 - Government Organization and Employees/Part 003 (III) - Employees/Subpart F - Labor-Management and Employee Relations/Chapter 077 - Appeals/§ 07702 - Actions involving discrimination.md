@@ -76,7 +76,7 @@
 
 (B) The special panel shall give due deference to the respective expertise of the Board and Commission in making its decision.
 
-(3) The special panel shall refer its decision under paragraph (2) of this subsection to the Board and the Board shall order any agency totake any action appropriate to carry out the decision.
+(3) The special panel shall refer its decision under paragraph (2) of this subsection to the Board and the Board shall order any agency to take any action appropriate to carry out the decision.
 
 (4) The special panel shall permit the employee or applicant who brought the complaint and the employing agency to appear before the panel to present oral arguments and to present written arguments with respect to the matter.
 

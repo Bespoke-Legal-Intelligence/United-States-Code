@@ -14,7 +14,7 @@ The Congress finds that barriers to (and other distortions of) international tra
 
 (C) Notwithstanding any other provision of this section, the requirements of subsections (c) and (e)(1) of this section shall not apply to any trade agreement entered into under paragraph (1) with Israel that provides for the elimination or reduction of any duty imposed by the United States.
 
-(3) Notwithstanding any other provision of law, no trade benefit shall be extended to anycountry by reason of the extension of any trade benefit to another country under a trade agreement entered into under paragraph (1) with such other country that provides for the elimination or reduction of any duty imposed by the United States.
+(3) Notwithstanding any other provision of law, no trade benefit shall be extended to any country by reason of the extension of any trade benefit to another country under a trade agreement entered into under paragraph (1) with such other country that provides for the elimination or reduction of any duty imposed by the United States.
 
 (4)(A) Notwithstanding paragraph (2), a trade agreement that provides for the elimination or reduction of any duty imposed by the United States may be entered into under paragraph (1) with any country other than Israel if—
 
@@ -70,7 +70,7 @@ Each trade agreement submitted to the Congress under this subsection shall enter
 
 #### (f) Obligations imposed upon foreign countries or instrumentalities receiving benefits under trade agreements
 
-To insure that a foreign country or instrumentality which receives benefits under a trade agreement entered into under this section is subject to the obligations imposed by such agreement, the President may recommend to Congress in the implementing bill and statement of administrative action submitted with respect to such agreement that the benefits andobligations of such agreement apply solely to the parties to such agreement, if such application is consistent with the terms of such agreement. The President may also recommend with respect to any such agreement that the benefits and obligations of such agreement not apply uniformly to all parties to such agreement, if such application is consistent with the terms of such agreement.
+To insure that a foreign country or instrumentality which receives benefits under a trade agreement entered into under this section is subject to the obligations imposed by such agreement, the President may recommend to Congress in the implementing bill and statement of administrative action submitted with respect to such agreement that the benefits and obligations of such agreement apply solely to the parties to such agreement, if such application is consistent with the terms of such agreement. The President may also recommend with respect to any such agreement that the benefits and obligations of such agreement not apply uniformly to all parties to such agreement, if such application is consistent with the terms of such agreement.
 
 #### (g) Definitions
 
@@ -264,7 +264,7 @@ Definition.—As used in this Act, the term ‘Harmonized System’ means the no
 
 Interim Application of TSUS.—The following apply if the International Convention, and the protocol thereto, referred to in subsection (a) are not implemented under United States law before the Agreement enters into force:
 
-&emsp;“(1) The President, subject to subsection (c), shall proclaim such modifications to the Tariff Schedules of the United States (19 U.S.C. 1202) as may be necessary to give effect, until such time as such Convention and protocol are so implemented, to the rules oforigin, schedule of rate reductions, and other provisions that would, but for the absence of such implementation, be proclaimed under the authority of this Act to, or in terms of, the Harmonized System to implement the obligations of the United States under the Agreement.
+&emsp;“(1) The President, subject to subsection (c), shall proclaim such modifications to the Tariff Schedules of the United States (19 U.S.C. 1202) as may be necessary to give effect, until such time as such Convention and protocol are so implemented, to the rules of origin, schedule of rate reductions, and other provisions that would, but for the absence of such implementation, be proclaimed under the authority of this Act to, or in terms of, the Harmonized System to implement the obligations of the United States under the Agreement.
 
 &emsp;“(2) Until such time as such Convention and protocol are so implemented, any reference in this Act to the nomenclature of such Convention and protocol shall be treated as a reference to the corresponding nomenclature of the Tariff Schedules of the United States as modified under paragraph (1).
 
@@ -366,7 +366,7 @@ Transshipment.—Goods exported from the territory of one Party originate in the
 
 Interpretation.—In interpreting this section, the following apply:
 
-&emsp;“(1) Whenever the processing or assembly of goods in the territory of either Party or both Parties results in one of the changes in tariff classification described in the Annex rules, such goods shall be considered to have been transformed in the territory ofthat Party and shall be treated as goods originating in the territory of that Party if—
+&emsp;“(1) Whenever the processing or assembly of goods in the territory of either Party or both Parties results in one of the changes in tariff classification described in the Annex rules, such goods shall be considered to have been transformed in the territory of that Party and shall be treated as goods originating in the territory of that Party if—
 
 &emsp;&emsp;“(A) such processing or assembly occurs entirely within the territory of either Party or both Parties; and
 
@@ -488,7 +488,7 @@ Definitions.—For purposes of this section:
 
 &emsp;&emsp;&emsp;“(ii) the foreign trade zones located in the United States, and the Commonwealth of Puerto Rico, and
 
-&emsp;&emsp;&emsp;“(iii) any area beyond the territorial seas of the United States within which, in accordance with international law and its domestic laws, the United States may exercise rights with respect to the seabed and subsoil and their natural resources.
+&emsp;&emsp;&emsp;“(iii) any area beyond the territorial seas of the United States within which, in accordance withinternational law and its domestic laws, the United States may exercise rights with respect to the seabed and subsoil and their natural resources.
 
 &emsp;“(8) The term ‘third country’ means any country other than Canada or the United States or any territory not a part of the territory of either.
 
@@ -588,7 +588,7 @@ Certifications of Origin.—
 
 &emsp;“(2) Any person that fails to provide a copy of a certification requested under paragraph (1) shall be liable to the United States for a civil penalty not to exceed $10,000.
 
-&emsp;“(3) Any person that certifies falsely that goods exported to Canada meet the rules of origin under such section 202 shall be liable to the United States for the same civil penalties provided under section 592 of the Tariff Act of 1930 (19 U.S.C. 1592) for a violation of section 592(a) of such Act by fraud, gross negligence, or negligence, as the case may be. The procedures andprovisions of section 592 of such Act that are applicable to a violation under section 592(a) of such Act shall apply with respect to such false certification.
+&emsp;“(3) Any person that certifies falsely that goods exported to Canada meet the rules of origin under such section 202 shall be liable to the United States for the same civil penalties provided under section 592 of the Tariff Act of 1930 (19 U.S.C. 1592) for a violation of section 592(a) of such Act by fraud, gross negligence, or negligence, as the case may be. The procedures and provisions of section 592 of such Act that are applicable to a violation under section 592(a) of such Act shall apply with respect to such false certification.
 
 “(b)
 
@@ -690,7 +690,7 @@ Special Tariff Provisions for Fresh Fruits and Vegetables.—
 
 &emsp;&emsp;&emsp;“(xiii) 08.10 (relating to other fruit (excluding cranberries and blueberries), fresh).
 
-&emsp;&emsp;“(B) The term ‘corresponding 5-year average monthly import price’ for a particular day meansthe average import price of a Canadian fresh fruit or vegetable, for the calendar month in which that day occurs, for that month in each of the preceding 5 years, excluding the years with the highest and lowest monthly averages.
+&emsp;&emsp;“(B) The term ‘corresponding 5-year average monthly import price’ for a particular day means the average import price of a Canadian fresh fruit or vegetable, for the calendar month in which that day occurs, for that month in each of the preceding 5 years, excluding the years with the highest and lowest monthly averages.
 
 &emsp;&emsp;“(C) The term ‘import price’ has the meaning given such term in article 711 of the Agreement.
 
@@ -854,7 +854,7 @@ In General.—
 
 &emsp;&emsp;“(E) liberalize government procurement practices, particularly with regard to telecommunications.
 
-&emsp;“(2) As an exercise of the foreign relations powers of the President under the Constitution, the President will enter into immediate consultations with the Government of Canada to obtain the exclusion from the transport rates established under Canada'sWestern Grain Transportation Act of agricultural goods that originate in Canada and are shipped via east coast ports for consumption in the United States.
+&emsp;“(2) As an exercise of the foreign relations powers of the President under the Constitution, the President will enter into immediate consultations with the Government of Canada to obtain the exclusion from the transport rates established under Canada's Western Grain Transportation Act of agricultural goods that originate in Canada and are shipped via east coast ports for consumption in the United States.
 
 “(b)
 
@@ -980,7 +980,7 @@ Nonimmigrant Professionals.—\[Amended section 1184 of Title 8, Aliens and Nati
 
 #### “SEC. 309. STEEL PRODUCTS.
 
-“Nothing in this Act shall preclude any discussion or negotiation between the United States and Canada in order to conclude voluntary restraint agreements or mutually agreed quantitative restrictions on the volume of steel products entering the United States from Canada.
+“Nothing in this Act shall preclude any discussion or negotiation between the United States and Canada inorder to conclude voluntary restraint agreements or mutually agreed quantitative restrictions on the volume of steel products entering the United States from Canada.
 
 #### “TITLE IV—BINATIONAL PANEL DISPUTE SETTLEMENT IN ANTIDUMPING AND COUNTERVAILING DUTY CASES.
 
@@ -1068,13 +1068,13 @@ Appointment of Individuals to Panels and Committees.—
 
 &emsp;“(C) For purposes of applying section 1001 of title 18, United States Code, the written or oral responses of individuals to inquiries of the interagency group established under paragraph (1) or the Trade Representative regarding their personal and professional qualifications, and financial and other relevant interests, that bear on their suitability for the placements and appointments described in subparagraph (B), shall be treated as matters within the jurisdiction of an agency of the United States.
 
-&emsp;“(3)(A) By no later than January 3 of each calendar year, the Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives (hereafter in this section referred to as the ‘appropriate Congressional Committees’) the preliminary candidate lists of those individuals selected by the Trade Representative under paragraph (2)(A) to be candidates eligible to serve on binational panels orextraordinary challenge committees convened pursuant to chapter 19 of the Agreement during the 1-year period beginning on April 1 of such calendar year.
+&emsp;“(3)(A) By no later than January 3 of each calendar year, the Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives (hereafter in this section referred to as the ‘appropriate Congressional Committees’) the preliminary candidate lists of those individuals selected by the Trade Representative under paragraph (2)(A) to be candidates eligible to serve on binational panels or extraordinary challenge committees convened pursuant to chapter 19 of the Agreement during the 1-year period beginning on April 1 of such calendar year.
 
 &emsp;“(B) Upon submission of the preliminary candidate lists under subparagraph (A) to the appropriate Congressional Committees, the Trade Representative shall consult with the appropriate Congressional Committees with regard to the individuals listed on the preliminary candidate lists.
 
 &emsp;“(C) The Trade Representative may add or delete individuals from the preliminary candidate lists submitted under subparagraph (A) after consulting the appropriate Congressional Committees with regard to such addition or deletion. The Trade Representative shall provide to the appropriate Congressional Committees written notice of any addition or deletion of an individual from the preliminary candidate lists.
 
-&emsp;“(4)(A) By no later than March 31 of each calendar year, the Trade Representative shall submit to the appropriate Congressional Committees the final candidate lists of those individuals selected by the Trade Representative to be candidates eligible to serve on binational panels and extraordinary challenge committees convened pursuant to chapter 19 of the Agreement during the 1-year period beginning on April 1 of such calendar year. An individual may be included on a final candidate list only if written notice of the addition of such individual to the preliminary candidate list was submitted to the appropriate Congressional Committees at least 15 days before the date on which that final candidate list is submitted to the appropriate Congressional Committees under this subparagraph.
+&emsp;“(4)(A) By no later than March 31 of each calendar year, the Trade Representative shall submit to the appropriate Congressional Committees the final candidate lists of those individuals selected by the Trade Representative to be candidates eligible to serve on binational panels and extraordinary challenge committees convened pursuant to chapter 19 of the Agreement during the 1-year period beginning on April 1 of such calendar year. An individual may be included on a final candidate list only if written notice of the addition of such individual to the preliminary candidate list was submitted to the appropriate Congressional Committees at least 15 days before the date on which that final candidate list is submittedto the appropriate Congressional Committees under this subparagraph.
 
 &emsp;“(B) Except as provided in paragraph (5), no additions may be made to the final candidate lists after the final candidate lists are submitted to the appropriate Congressional Committees under subparagraph (A).
 
@@ -1142,7 +1142,7 @@ Status of Panelists.—Notwithstanding any other provision of law, individuals a
 
 “(c)
 
-Immunity of Panelists.—With the exception of acts described in section 777f(d)(3) \[777(d)(3)\] of the Tariff Act of 1930, as added by this Act \[19 U.S.C. 1677f(d)(3)\], individuals serving on panels or committees convened pursuant to chapter 19 of the Agreement, and individuals designated to assist the individuals serving on such panels or committees, shall be immune from suit and legal process relating to acts performed by such individuals in their official capacity and within the scope of their functions as such panelists or committee members or assistants to such panelists or committee members.
+Immunity of Panelists.—With the exception of acts described in section 777f(d)(3) \[777(d)(3)\] of the Tariff Act of 1930, as added by this Act \[19 U.S.C. 1677f(d)(3)\], individuals serving on panels or committeesconvened pursuant to chapter 19 of the Agreement, and individuals designated to assist the individuals serving on such panels or committees, shall be immune from suit and legal process relating to acts performed by such individuals in their official capacity and within the scope of their functions as such panelists or committee members or assistants to such panelists or committee members.
 
 “(d)
 
@@ -1202,7 +1202,7 @@ Authority of Extraordinary Challenge Committee To Obtain Information.—If an ex
 
 “(b)
 
-Witnesses and Evidence.—The attendance of witnesses who are authorized to be summoned, and the production of documentary evidence authorized to be ordered, under subsection (a) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena authorized under subsection (a), the committee may request the Attorney General of the United States to invoke the aid of any district or territorial court of the United States in requiring the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization, or other entity, issue an order requiring such individualor entity to appear before the committee, or to produce documentary evidence if so ordered or to give evidence concerning the matter in question. Any failure to obey such order of the court may be punished by such court as a contempt thereof.
+Witnesses and Evidence.—The attendance of witnesses who are authorized to be summoned, and the production of documentary evidence authorized to be ordered, under subsection (a) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena authorized under subsection (a), the committee may request the Attorney General of the United States to invoke the aid of any district or territorial court of the United States in requiring the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization, or other entity, issue an order requiring such individual or entity to appear before the committee, or to produce documentary evidence if so ordered or to give evidence concerning the matter in question. Any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 “(c)
 
@@ -1286,7 +1286,7 @@ Identification of Industries Facing Subsidized Imports.—
 
 &emsp;“(4)(A) The Trade Representative and the Secretary of Commerce shall review information obtained under paragraph (3) and consult with the industry identified under paragraph (2) with a view to deciding whether any action is appropriate under section 301 of the Trade Act of 1974 \[19 U.S.C. 2411\], including the initiation of an investigation under section 302(c) of that Act \[19 U.S.C. 2412(c)\] (in the case of the Trade Representative), or under subtitle A of title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\], including the initiation of an investigation under section 702(a) of that Act \[19 U.S.C. 1671a(a)\] (in the case of the Secretary of Commerce).
 
-&emsp;“(B) In determining whether to initiate any investigation under section 301 of the Trade Act of 1974 \[19 U.S.C. 2411\] or any other trade law, other than title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\], the Trade Representative, after consultation with the Secretary of Commerce—
+&emsp;“(B) In determining whether to initiate any investigation under section 301 of the Trade Act of 1974 \[19U.S.C. 2411\] or any other trade law, other than title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\], the Trade Representative, after consultation with the Secretary of Commerce—
 
 &emsp;&emsp;“(i) shall seek the advice of the advisory committees established under section 135 of the Trade Act of 1974 \[19 U.S.C. 2155\];
 
@@ -1372,7 +1372,7 @@ Suspension resulting from nafta.—On the date the United States and Canada agre
 
 \[Section 308(b) of Pub. L. 103–182 provided that: “The amendments made by subsection (a) \[amending section 301(a) of Pub. L. 100–449, set out above\] take effect on the date of the enactment of this Act \[Dec. 8, 1993\].”\]
 
-\[Amendment by section 413 of Pub. L. 103–182 to section 410(a) of Pub. L. 100–449, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i) to (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of this title, notice of which is received by the Government of Canada before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or any extraordinary challenge arising out of such review, that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under section 3431 of this title.\]
+\[Amendment by section 413 of Pub. L. 103–182 to section 410(a) of Pub. L. 100–449, set out above, effective onthe date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i) to (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of this title, notice of which is received by the Government of Canada before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or any extraordinary challenge arising out of such review, that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under section 3431 of this title.\]
 
 \[For provisions relating to effect of termination of NAFTA country status on the provisions of sections 401 to 416 of Pub. L. 103–182, see section 3451 of this title.\]
 
@@ -1666,7 +1666,7 @@ Regulations.—The Secretary of the Treasury, after consultation with the United
 
 “(a)
 
-Suspension of Duty-Free Treatment.—The President may by proclamation suspend the reductionor elimination of any duty provided under any trade agreement provision entered into with Israel under the authority of section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] with respect to any article and may proclaim a duty rate for such article if such action is proclaimed under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] or section 232 of the Trade Expansion Act of 1962 \[19 U.S.C. 1862\].
+Suspension of Duty-Free Treatment.—The President may by proclamation suspend the reduction or elimination of any duty provided under any trade agreement provision entered into with Israel under the authority of section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] with respect to any article and may proclaim a duty rate for such article if such action is proclaimed under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] or section 232 of the Trade Expansion Act of 1962 \[19 U.S.C. 1862\].
 
 “(b)
 
@@ -1674,7 +1674,7 @@ ITC Reports.—In any report by the United States International Trade Commission
 
 “(c) For purposes of section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\], the suspension of the reduction or elimination of a duty under subsection (a) shall be treated as an increase in duty.
 
-“(d) No proclamation which provides solely for a suspension referred to in subsection (a) with respect to any article shall be made under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\], unless the Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the Trade Act of 1974 \[19 U.S.C. 2252(b)\], determines in the course of its investigation under that section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the reduction or elimination of any duty provided under any trade agreement provision entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\].
+“(d) No proclamation which provides solely for a suspension referred to in subsection (a) with respect toany article shall be made under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\], unless the Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the Trade Act of 1974 \[19 U.S.C. 2252(b)\], determines in the course of its investigation under that section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the reduction or elimination of any duty provided under any trade agreement provision entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\].
 
 “(e)(1) Any proclamation issued under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] that is in effect when an agreement with Israel is entered into under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] shall remain in effect until modified or terminated.
 
@@ -1745,6 +1745,56 @@ Sec. 3. <i>Acceptance by the President of Panel and Committee Decisions</i>. In 
 Sec. 4. <i>Judicial Review</i>. This Order does not create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
 Sec. 5. <i>Effective Date</i>. This Order shall take effect upon the entry into force of the Free-Trade Agreement.
+
+#### Ex. Ord. No. 13141. Environmental Review of Trade Agreements
+
+Ex. Ord. No. 13141, Nov. 16, 1999, 64 F.R. 63169, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to further the environmental and trade policy goals of the United States, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. The United States is committed to a policy of careful assessment and consideration of the environmental impacts of trade agreements. The United States will factor environmental considerations into the development of its trade negotiating objectives. Responsible agencies will accomplish these goals through a process of ongoing assessment and evaluation, and, in certain instances, written environmental reviews.
+
+Sec. 2. <i>Purpose and Need</i>. Trade agreements should contribute to the broader goal of sustainable development. Environmental reviews are an important tool to help identify potential environmental effects of trade agreements, both positive and negative, and to help facilitate consideration of appropriate responses to those effects whether in the course of negotiations, through other means, or both.
+
+Sec. 3. (a) <i>Implementation</i>. The United States Trade Representative (Trade Representative) and the Chair of the Council on Environmental Quality shall oversee the implementation of this order, including the development of procedures pursuant to this order, in consultation with appropriate foreign policy, environmental, and economic agencies.
+
+(b) <i>Conduct of Environmental Reviews</i>. The Trade Representative, through the interagency Trade Policy Staff Committee (TPSC), shall conduct the environmental reviews of the agreements under section 4 of this order.
+
+Sec. 4. <i>Trade Agreements.</i>
+
+(a) Certain agreements that the United States may negotiate shall require an environmental review. These include:
+
+(i) comprehensive multilateral trade rounds;
+
+(ii) bilateral or plurilateral free trade agreements; and
+
+(iii) major new trade liberalization agreements in natural resource sectors.
+
+(b) Agreements reached in connection with enforcement and dispute resolution actions are not covered by this order.
+
+(c) For trade agreements not covered under subsections 4(a) and (b), environmental reviews will generally not be required. Most sectoral liberalization agreements will not require an environmental review. The Trade Representative, through the TPSC, shall determine whether an environmental review of an agreement or category of agreements is warranted based on such factors as the significance of reasonably foreseeable environmental impacts.
+
+Sec. 5. <i>Environmental Reviews.</i>
+
+(a) Environmental reviews shall be:
+
+(i) written;
+
+(ii) initiated through a Federal Register notice, outlining the proposed agreement and soliciting public comment and information on the scope of the environmental review of the agreement;
+
+(iii) undertaken sufficiently early in the process to inform the development of negotiating positions, but shall not be a condition for the timely tabling of particular negotiating proposals;
+
+(iv) made available in draft form for public comment, where practicable; and
+
+(v) made available to the public in final form.
+
+(b) As a general matter, the focus of environmental reviews will be impacts in the United States. As appropriate and prudent, reviews may also examine global and transboundary impacts.
+
+Sec. 6. <i>Resources</i>. Upon request by the Trade Representative, with the concurrence of the Deputy Director for Management of the Office of Management and Budget, Federal agencies shall, to the extent permitted by law and subject to the availability of appropriations, provide analytical and financial resources and support, including the detail of appropriate personnel, to the Office of the United States Trade Representative to carry out the provisions of this order.
+
+Sec. 7. <i>General Provisions</i>. This order is intended only to improve the internal management of the executive branch and does not create any right, benefit, trust, or responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Delegation of Authority Under Section 103(a) of United States-Canada Free-Trade Agreement Implementation Act of 1988
 

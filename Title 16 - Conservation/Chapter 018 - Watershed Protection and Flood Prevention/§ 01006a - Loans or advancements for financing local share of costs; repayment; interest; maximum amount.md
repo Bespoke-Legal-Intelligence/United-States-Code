@@ -6,13 +6,13 @@ The Secretary is authorized to make loans or advancements (a) to local organizat
 
 #### References in Text
 
-Section 13 of the Act of December 22, 1944 (58 Stat. 887), as amended and supplemented, referred to in text, is section 13 of act Dec. 22, 1944, ch. 665, 58 Stat. 887, which was not classified to the Code.
+Section 13 of the Act of December 22, 1944 (58 Stat. 887), as amended and supplemented, referred to in text,is section 13 of act Dec. 22, 1944, ch. 665, 58 Stat. 887, which was not classified to the Code.
 
 #### Amendments
 
 1996—Pub. L. 104–127 added second sentence and struck out former second sentence which read as follows: “Such loans or advancements shall be made under contracts or agreements which will provide, under such terms and conditions as the Secretary deems appropriate, for the repayment thereof in not more than fifty years from the date when the principal benefits of the works of improvement first become available, with interest at the average rate, as determined by the Secretary of the Treasury, payable by the Treasury upon its marketable public obligations outstanding at the beginning of the fiscal year in which the loan or advancement is made, which are neither due nor callable for redemption for fifteen years from date of issue.”
 
-1977—Pub. L. 95–113 substituted “$10,000,000” for “five million dollars” as the maximum amount of a loan oradvancement for any single plan for works of improvement.
+1977—Pub. L. 95–113 substituted “$10,000,000” for “five million dollars” as the maximum amount of a loan or advancement for any single plan for works of improvement.
 
 1960—Pub. L. 86–468 authorized the Secretary to make loans or advancements to state and local agencies to finance the local share of costs of carrying out works of improvement in connection with the 11 watershed improvement programs authorized by section 13 of the act of Dec. 22, 1944.
 

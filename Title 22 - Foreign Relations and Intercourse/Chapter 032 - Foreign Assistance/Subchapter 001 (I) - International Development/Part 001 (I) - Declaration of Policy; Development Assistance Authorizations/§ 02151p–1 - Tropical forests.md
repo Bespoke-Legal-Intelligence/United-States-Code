@@ -46,7 +46,7 @@ In providing assistance to developing countries, the President shall do the foll
 
 &emsp;(8) To the fullest extent feasible, support training, research, and other actions which lead to sustainable and more environmentally sound practices for timber harvesting, removal, and processing, including reforestation, soil conservation, and other activities to rehabilitate degraded forest lands.
 
-&emsp;(9) To the fullest extent feasible, support research to expand knowledge of tropical forestsand identify alternatives which will prevent forest destruction, loss, or degradation, including research in agroforestry, sustainable management of natural forests, small-scale farms and gardens, small-scale animal husbandry, wider application of adopted traditional practices, and suitable crops and crop combinations.
+&emsp;(9) To the fullest extent feasible, support research to expand knowledge of tropical forests and identify alternatives which will prevent forest destruction, loss, or degradation, including research in agroforestry, sustainable management of natural forests, small-scale farms and gardens, small-scale animal husbandry, wider application of adopted traditional practices, and suitable crops and crop combinations.
 
 &emsp;(10) To the fullest extent feasible, conserve biological diversity in forest areas by—
 
@@ -105,6 +105,10 @@ Each annual report required by section 2394(a) of this title shall include a rep
 #### Prior Provisions
 
 A prior section 118 of Pub. L. 87–195, pt. I, was renumbered section 117 and is classified to section 2151p of this title.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

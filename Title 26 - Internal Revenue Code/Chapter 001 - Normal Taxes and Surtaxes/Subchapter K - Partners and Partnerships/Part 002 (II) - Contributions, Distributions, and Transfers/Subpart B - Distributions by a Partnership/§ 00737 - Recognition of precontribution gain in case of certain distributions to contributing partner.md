@@ -28,7 +28,7 @@ For purposes of this section, the term “net precontribution gain” means the 
 
 #### (2) Partnership's basis in contributed property
 
-&emsp;Appropriate adjustments shall be made to the adjusted basis of the partnership in thecontributed property referred to in subsection (b) to reflect gain recognized under subsection (a).
+&emsp;Appropriate adjustments shall be made to the adjusted basis of the partnership in the contributed property referred to in subsection (b) to reflect gain recognized under subsection (a).
 
 #### (d) Exceptions
 

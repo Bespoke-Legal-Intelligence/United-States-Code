@@ -42,7 +42,7 @@ Subsec. (f). Pub. L. 104–294 substituted “section 401 of the Controlled Subs
 
 1994—Subsec. (f). Pub. L. 103–322 inserted “or whenever a juvenille has been found guilty of committing an act after his 13th birthday which if committed by an adult would be an offense described in the second sentence of the fourth paragraph of section 5032 of this title,” after “title 21,”.
 
-1984—Pub. L. 98–473 amended section generally, striking out in subsec. (a) provisions that, upon completion of any delinquency proceedings the court shall order the entire record and file to be sealed, substituting a new subsec. (d) for a former subsec. (d) which provided that unless a juvenile is prosecuted as an adult neitherfingerprints nor photographs shall be taken without the consent of the judge and the juveniles name and picture shall not be made available to any public medium of communication and adding subsecs. (e) and (f).
+1984—Pub. L. 98–473 amended section generally, striking out in subsec. (a) provisions that, upon completion of any delinquency proceedings the court shall order the entire record and file to be sealed, substituting a new subsec. (d) for a former subsec. (d) which provided that unless a juvenile is prosecuted as an adult neither fingerprints nor photographs shall be taken without the consent of the judge and the juveniles name and picture shall not be made available to any public medium of communication and adding subsecs. (e) and (f).
 
 1977—Subsec. (a)(6). Pub. L. 95–115 added par. (6).
 

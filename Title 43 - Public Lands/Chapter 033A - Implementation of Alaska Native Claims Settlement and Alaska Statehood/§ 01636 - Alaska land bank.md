@@ -138,7 +138,7 @@ Exclusions, Reattachment of Exemptions.—(A) The exemptions listed in paragraph
 
 Tax Recapture Upon Subdivision Plat Recordation.—(A) Upon the recordation with an appropriate government authority of an approved subdivision plat submitted by, or on behalf of, a Native individual, Native Corporation, or Settlement Trust with respect to land described in paragraph (1), such individual, corporation, or trust shall pay in accordance with this paragraph all State and local property taxes on the smallest practicable tract integrally related to the subdivision project that would have been incurred by the individual, corporation, or trust on such land (excluding the value of subsurface resources and timber) in the absence of the exemption described in paragraph (1)(A)(ii) during the thirty months prior to the date of the recordation of the plat.
 
-(B) State and local property taxes specified in subparagraph (A) of this paragraph (togetherwith interest at the rate of 5 per centum per annum commencing on the date of recordation of the subdivision plat) shall be paid in equal semi-annual installments over a two-year period commencing on the date six months after the date of recordation of the subdivision plat.
+(B) State and local property taxes specified in subparagraph (A) of this paragraph (together with interest at the rate of 5 per centum per annum commencing on the date of recordation of the subdivision plat) shall be paid in equal semi-annual installments over a two-year period commencing on the date six months after the date of recordation of the subdivision plat.
 
 (C) At least thirty days prior to final approval of a plat of the type described in subparagraph (A), the government entity with jurisdiction over the plat shall notify the submitting individual, corporation, or trust of the estimated tax liability that would be incurred as a result of the recordation of the plat at the time of final approval.
 
@@ -170,7 +170,7 @@ This Act, referred to in subsec. (e), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat
 
 #### Amendments
 
-1998—Subsec. (d)(1)(A). Pub. L. 105–333, §1(a), in introductory provisions, inserted “or conveyed to a Native Corporation pursuant to an exchange authorized by section 22(f) of the Alaska Native Claims Settlement Act or section 3192(h) of title 16 or other applicable law” after “Settlement Trust”.
+1998—Subsec. (d)(1)(A). Pub. L. 105–333, §1(a), in introductory provisions, inserted “or conveyed to a Native Corporation pursuant to an exchange authorized by section 22(f) of the Alaska Native Claims SettlementAct or section 3192(h) of title 16 or other applicable law” after “Settlement Trust”.
 
 Subsec. (d)(2)(A)(i). Pub. L. 105–333, §2(3), which directed the amendment of cl. (i) by adding “Any lands previously developed by third-party trespassers shall not be considered to have been developed.” without specifying where the language was to be added, was executed by adding the language before the semicolon at the end to reflect the probable intent of Congress.
 

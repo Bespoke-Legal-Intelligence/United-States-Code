@@ -12,7 +12,7 @@ Any funds appropriated for the construction of facilities may be used for emerge
 
 Notwithstanding any other provision of law, the authorization of any appropriation to the Administration shall expire (unless an earlier expiration is specifically provided) at the close of the third fiscal year following the fiscal year in which the authorization was enacted, to the extent that such appropriation has not theretofore actually been made.
 
-(Pub. L. 85–568, title III, §309, formerly §307, July 29, 1958, 72 Stat. 438; Pub. L. 88–113, §6, Sept. 6,1963, 77 Stat. 144; renumbered §308, Pub. L. 94–464, §3, Oct. 8, 1976, 90 Stat. 1988; renumbered §309, Pub. L. 96–48, §6(b)(1), Aug. 8, 1979, 93 Stat. 348.)
+(Pub. L. 85–568, title III, §309, formerly §307, July 29, 1958, 72 Stat. 438; Pub. L. 88–113, §6, Sept. 6, 1963, 77 Stat. 144; renumbered §308, Pub. L. 94–464, §3, Oct. 8, 1976, 90 Stat. 1988; renumbered §309, Pub. L. 96–48, §6(b)(1), Aug. 8, 1979, 93 Stat. 348.)
 
 #### References in Text
 

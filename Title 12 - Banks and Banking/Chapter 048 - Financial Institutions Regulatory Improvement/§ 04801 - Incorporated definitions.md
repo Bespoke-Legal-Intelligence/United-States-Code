@@ -12,6 +12,64 @@ Unless otherwise specifically provided in this chapter, for purposes of this cha
 
 This chapter, referred to in text, was in original “this title” meaning title III of Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2214, which enacted this chapter, sections 633 and 2606 of this title, and section 5329 of Title 31, Money and Finance, amended sections 1, 24, 27, 72, 93, 161, 248, 250, 324, 375a, 375b, 482, 1462a, 1464, 1468, 1813, 1815, 1817, 1819 to 1821, 1823, 1828, 1831f, 1831m, 1831p–1, 1831t, 1842, 1843, 1849, 1865, 1953, 2605, 3201, 3205, 3207, 3351, and 4313 of this title and sections 77c, 78c, 1667c, and 1681g of Title 15, Commerce and Trade, enacted provisions set out as notes under this section, sections 24, 633, 1468, 1820, 1831p–1, and 1831t of this title, and sections 78c and 1667c of Title 15, and amended provisions set out as notes under sections 1825 and 1828 of this title. For complete classification of title III to the Code, see Tables.
 
+#### Use of Subordinated Debt To Protect Financial System and Deposit Funds From “Too Big To Fail” Institutions
+
+Pub. L. 106–102, title I, §108, Nov. 12, 1999, 113 Stat. 1361, provided that:
+
+“(a)
+
+Study Required.—The Board of Governors of the Federal Reserve System and the Secretary of the Treasury shall conduct a study of—
+
+&emsp;“(1) the feasibility and appropriateness of establishing a requirement that, with respect to large insured depository institutions and depository institution holding companies the failure of which could have serious adverse effects on economic conditions or financial stability, such institutions and holding companies maintain some portion of their capital in the form of subordinated debt in order to bring market forces and market discipline to bear on the operation of, and the assessment of the viability of, such institutions and companies and reduce the risk to economic conditions, financial stability, and any deposit insurance fund;
+
+&emsp;“(2) if such requirement is feasible and appropriate, the appropriate amount or percentage of capital that should be subordinated debt consistent with such purposes; and
+
+&emsp;“(3) the manner in which any such requirement could be incorporated into existing capital standards and other issues relating to the transition to such a requirement.
+
+“(b)
+
+Report.—Before the end of the 18-month period beginning on the date of the enactment of this Act \[Nov. 12, 1999\], the Board of Governors of the Federal Reserve System and the Secretary of the Treasury shall submit a report to the Congress containing the findings and conclusions of the Board and the Secretary in connection with the study required under subsection (a), together with such legislative and administrative proposals as the Board and the Secretary may determine to be appropriate.
+
+“(c)
+
+Definitions.—For purposes of subsection (a), the following definitions shall apply:
+
+&emsp;“(1)
+
+Bank holding company.—The term ‘bank holding company’ has the meaning given the term in section 2 of the Bank Holding Company Act of 1956 \[12 U.S.C. 1841\].
+
+&emsp;“(2)
+
+Insured depository institution.—The term ‘insured depository institution’ has the meaning given the term in section 3(c) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(c)\].
+
+&emsp;“(3)
+
+Subordinated debt.—The term ‘subordinated debt’ means unsecured debt that—
+
+&emsp;&emsp;“(A) has an original weighted average maturity of not less than 5 years;
+
+&emsp;&emsp;“(B) is subordinated as to payment of principal and interest to all other indebtedness of the bank, including deposits;
+
+&emsp;&emsp;“(C) is not supported by any form of credit enhancement, including a guarantee or standby letter of credit; and
+
+&emsp;&emsp;“(D) is not held in whole or in part by any affiliate or institution-affiliated party of the insured depository institution or bank holding company.”
+
+#### Study and Report on Adapting Existing Legislative Requirements to Online Banking and Lending
+
+Pub. L. 106–102, title VII, §729, Nov. 12, 1999, 113 Stat. 1476, provided that:
+
+“(a)
+
+Study Required.—The Federal banking agencies shall conduct a study of banking regulations regarding the delivery of financial services, including those regulations that may assume that there will be person-to-person contact during the course of a financial services transaction, and report their recommendations on adapting those existing requirements to online banking and lending.
+
+“(b)
+
+Report Required.—Before the end of the 2-year period beginning on the date of the enactment of this Act \[Nov. 12, 1999\], the Federal banking agencies shall submit a report to the Congress on the findings and conclusions of the agencies with respect to the study required under subsection (a), together with such recommendations for legislative or regulatory action as the agencies may determine to be appropriate.
+
+“(c)
+
+Definition.—For purposes of this section, the term ‘Federal banking agencies’ means each Federal banking agency (as defined in section 3(z) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(z)\]).”
+
 #### Treasury Report on Reduced Taxation and Viability of Small Banks
 
 Pub. L. 105–219, title IV, §403, Aug. 7, 1998, 112 Stat. 935, provided that: “The Secretary \[of the Treasury\] shall, not later than 1 year after the date of enactment of this Act \[Aug. 7, 1998\], submit a report to the Congress containing—

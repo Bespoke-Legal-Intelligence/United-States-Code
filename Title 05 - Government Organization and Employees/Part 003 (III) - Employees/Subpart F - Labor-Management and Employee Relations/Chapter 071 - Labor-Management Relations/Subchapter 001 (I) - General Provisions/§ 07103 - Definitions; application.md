@@ -122,7 +122,7 @@
 
 (2) The President may issue an order suspending any provision of this chapter with respect to any agency, installation, or activity located outside the 50 States and the District of Columbia, if the President determines that the suspension is necessary in the interest of national security.
 
-(Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, title II, §2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(j), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(a), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 105–220, title III, §341(e), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 105–277, div. G, title XIV, §1422(b)(1), Oct. 21, 1998, 112 Stat. 2681–792.)
+(Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, title II, §2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(j), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(a), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 105–220, title III, §341(e), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(b)(1), Oct. 21, 1998, 112 Stat. 2681–792.)
 
 #### Amendments
 
@@ -144,7 +144,7 @@ International Communication Agency, referred to in subsec. (a)(2)(B)(iv), redesi
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States International Development Cooperation Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of Title 22.
+Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1996 Amendment
 
@@ -162,7 +162,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b) of Title 5 of the United States Code, and in order to exempt certainagencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b) of Title 5 of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
 #### 1–1.
 
@@ -276,7 +276,7 @@ Exclusions
 
 a. The Office of Enforcement and the Office of Intelligence, including all domestic field offices and intelligence units, of the Drug Enforcement Administration.
 
-b. The Office of Special Operations, the Threat Analysis Group, the Enforcement Operations Division, the Witness Security Division and the Court Security Division in the Office of the Director and the Enforcement Division in Offices of the United States Marshals in the United States Marshals Service.
+b. The Office of Special Operations, the Threat Analysis Group, the Enforcement Operations Division, the Witness Security Division and the Court Security Division in the Office of the Director and the EnforcementDivision in Offices of the United States Marshals in the United States Marshals Service.
 
 1–210. Agencies or subdivisions of the Department of Energy.
 
@@ -422,7 +422,7 @@ Section 1. <i>Suspensions</i>. With regard to United States citizen employees of
 
 (d) The provisions of 5 U.S.C. 7121(b)(3)(C) are suspended with respect to any grievance involving the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation.
 
-Sec. 2. <i>Disputes</i>. Disputes between a labor organization and the United States Forces as to whether a particular matter is covered by one or more of the suspensions set forth in this Order shall be referred to the Secretary of Defense. The decision of the Secretary in such disputes shall be made after consultation with the Secretary of State and shall be final. The Secretary of Defense may delegate this authority, but only to the Deputy Secretary of Defense, an Under Secretary of Defense, or an Assistant Secretary of Defense. The functions assigned to the Secretary of State may not be delegated or assigned to anyone below the rank of an Assistant Secretary of State.
+Sec. 2. <i>Disputes</i>. Disputes between a labor organization and the United States Forces as to whether a particular matter is covered by one or more of the suspensions set forth in this Order shall be referred to the Secretary of Defense. The decision of the Secretary in such disputes shall be made after consultation with theSecretary of State and shall be final. The Secretary of Defense may delegate this authority, but only to the Deputy Secretary of Defense, an Under Secretary of Defense, or an Assistant Secretary of Defense. The functions assigned to the Secretary of State may not be delegated or assigned to anyone below the rank of an Assistant Secretary of State.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -434,7 +434,7 @@ By virtue of the authority vested in me as President by the Constitution and law
 
 Section 1. <i>Determinations</i>. The agencies or subdivisions thereof set forth in Section 3 of this Order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is also hereby determined that Chapter 71 of Title 5 of the United States Code cannot be applied to these agencies or subdivisions in a manner consistent with national security requirements and considerations. These agencies or subdivisions thereof are hereby excluded from coverage under Chapter 71 of Title 5 of the United States Code.
 
-Sec. 2. <i>Relationship to Executive Order No. 12559</i>. The determinations set forth in Section 1 of this Order are the same determinations that I made at the time of and as a predicate to my issuance on May 20, 1986, of Executive Order No. 12559 \[amending Ex. Ord. No. 12171, set out as a note above\], which was issued for the same purpose as this Order. On July 10, 1987, Executive Order No. 12559 was held by a United States District Court tobe incomplete as a matter of form, and therefore invalid, because it did not expressly set forth these determinations. <i>AFGE v. Reagan</i>, Civil No. 86–1587 (D.D.C.). These determinations were not expressly set forth in the text of Executive Order No. 12559 because all that Order did was amend Executive Order No. 12171 \[set out as a note above\] by adding the agencies or subdivisions referred to in Section 1 of this Order to the list in Executive Order No. 12171 of entities excluded from coverage of the Federal Labor-Management Relations Program, and these determinations were already expressly set forth in the text of Executive Order No. 12171, which remains in effect (as amended). This Order is not intended to reflect any belief that the form of Executive Order No. 12559 was invalid, but is intended solely to accomplish the purpose of that Order.
+Sec. 2. <i>Relationship to Executive Order No. 12559</i>. The determinations set forth in Section 1 of this Order are the same determinations that I made at the time of and as a predicate to my issuance on May 20, 1986, of Executive Order No. 12559 \[amending Ex. Ord. No. 12171, set out as a note above\], which was issued for the same purpose as this Order. On July 10, 1987, Executive Order No. 12559 was held by a United States District Court to be incomplete as a matter of form, and therefore invalid, because it did not expressly set forth these determinations. <i>AFGE v. Reagan</i>, Civil No. 86–1587 (D.D.C.). These determinations were not expressly set forth in the text of Executive Order No. 12559 because all that Order did was amend Executive Order No. 12171 \[set out as a note above\] by adding the agencies or subdivisions referred to in Section 1 of this Order to the list in Executive Order No. 12171 of entities excluded from coverage of the Federal Labor-Management Relations Program, and these determinations were already expressly set forth in the text of Executive Order No. 12171, which remains in effect (as amended). This Order is not intended to reflect any belief that the form of Executive Order No. 12559 was invalid, but is intended solely to accomplish the purpose of that Order.
 
 Sec. 3. <i>Amendment of Executive Order No. 12171</i>. Executive Order No. 12171 is amended by deleting Section 1–209 and inserting in its place:
 
@@ -446,7 +446,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4703, 5596, 6121, 7323, 8473 of this title; title 2 section 1351; title 7 section 7011; title 10 section 1614; title 22 section 3701; title 38 section 711.
+This section is referred to in sections 4703, 5596, 6121, 7323, 8473 of this title; title 2 section 1351; title 7 section 7011; title 10 section 1614; title 22 sections 3701, 6613; title 38 section 711.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

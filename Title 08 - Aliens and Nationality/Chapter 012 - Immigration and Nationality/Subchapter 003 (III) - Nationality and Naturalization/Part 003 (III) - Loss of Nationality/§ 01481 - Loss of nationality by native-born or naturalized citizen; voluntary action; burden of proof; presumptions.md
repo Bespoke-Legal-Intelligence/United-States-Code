@@ -8,7 +8,7 @@
 
 &emsp;(3) entering, or serving in, the armed forces of a foreign state if (A) such armed forces are engaged in hostilities against the United States, or (B) such persons serve as a commissioned or non-commissioned officer; or
 
-&emsp;(4)(A) accepting, serving in, or performing the duties of any office, post, or employment under the government of a foreign state or apolitical subdivision thereof, after attaining the age of eighteen years if he has or acquires the nationality of such foreign state; or (B) accepting, serving in, or performing the duties of any office, post, or employment under the government of a foreign state or a political subdivision thereof, after attaining the age of eighteen years for which office, post, or employment an oath, affirmation, or declaration of allegiance is required; or
+&emsp;(4)(A) accepting, serving in, or performing the duties of any office, post, or employment under the government of a foreign state or a political subdivision thereof, after attaining the age of eighteen years if he has or acquires the nationality of such foreign state; or (B) accepting, serving in, or performing the duties of any office, post, or employment under the government of a foreign state or a political subdivision thereof, after attaining the age of eighteen years for which office, post, or employment an oath, affirmation, or declaration of allegiance is required; or
 
 &emsp;(5) making a formal renunciation of nationality before a diplomatic or consular officer of the United States in a foreign state, in such form as may be prescribed by the Secretary of State; or
 

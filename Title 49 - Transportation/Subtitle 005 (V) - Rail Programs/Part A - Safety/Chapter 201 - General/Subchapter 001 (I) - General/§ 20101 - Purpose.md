@@ -28,7 +28,7 @@ Pub. L. 105–134, §1(a), Dec. 2, 1997, 111 Stat. 2570, provided that: “This 
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–440, title I, §101, Nov. 2, 1994, 108 Stat. 4615, provided that: “This title \[enacting sections 26101 to 26105 of this title, renumbering former sections 26101and 26102 of this title as 28101 and 28102 of this title, respectively, and enacting provisions set out as notes under section 26101 of this title and section 838 of Title 45, Railroads\] may be cited as the ‘Swift Rail Development Act of 1994’.”
+Pub. L. 103–440, title I, §101, Nov. 2, 1994, 108 Stat. 4615, provided that: “This title \[enacting sections 26101 to 26105 of this title, renumbering former sections 26101 and 26102 of this title as 28101 and 28102 of this title, respectively, and enacting provisions set out as notes under section 26101 of this title and section 838 of Title 45, Railroads\] may be cited as the ‘Swift Rail Development Act of 1994’.”
 
-Pub. L. 103–440, title II, §201, Nov. 2, 1994, 108 Stat. 4619, provided that: “This title \[enacting sections 20145 to 20151 and 21108 of this title, amending sections 103, 20103, 20111, 20116, 20117, 20133, 20142, and 21303 of this title, and enacting provisions set out as a note under section 11504 of this title\] may be cited as the ‘Federal Railroad Safety Authorization Act of 1994’.”
+Pub. L. 103–440, title II, §201, Nov. 2, 1994, 108 Stat. 4619, provided that: “This title \[enacting sections 20145 to 20151 and 21108 of this title, amending sections 103, 20103, 20111, 20116, 20117, 20133, 20142, and 21303 of thistitle, and enacting provisions set out as a note under section 11504 of this title\] may be cited as the ‘Federal Railroad Safety Authorization Act of 1994’.”
 

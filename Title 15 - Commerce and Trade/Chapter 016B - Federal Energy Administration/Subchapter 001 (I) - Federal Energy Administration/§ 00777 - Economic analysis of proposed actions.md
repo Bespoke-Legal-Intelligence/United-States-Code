@@ -2,7 +2,7 @@
 
 #### (a) Scope of analysis
 
-In carrying out the provisions of this chapter, the Administrator shall, to the greatest extent practicable, insure that the potential economic impacts of proposed regulatory and other actions are evaluated and considered, including but not limited to an analysis of the effect of such actions on—
+In carrying out the provisions of this chapter, the Administrator shall, to the greatest extentpracticable, insure that the potential economic impacts of proposed regulatory and other actions are evaluated and considered, including but not limited to an analysis of the effect of such actions on—
 
 &emsp;(1) the fiscal integrity of State and local governments;
 

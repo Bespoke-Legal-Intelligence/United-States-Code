@@ -24,7 +24,7 @@ Schedules I, II, III, and IV, referred to in subsecs. (c) and (d), are set out i
 
 #### Effective Date
 
-Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, but with AttorneyGeneral authorized to postpone such effective date for such period as he might determine to be necessary for the efficient administration of this subchapter, see section 704(c) of Pub. L. 91–513, set out as a note under section 801 of this title.
+Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, but with Attorney General authorized to postpone such effective date for such period as he might determine to be necessary for the efficient administration of this subchapter, see section 704(c) of Pub. L. 91–513, set out as a note under section 801 of this title.
 
 #### Section Referred to in Other Sections
 

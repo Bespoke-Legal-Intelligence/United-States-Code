@@ -36,7 +36,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 &emsp;&emsp;&emsp;(I) production, acquisition, or rehabilitation of vacant public housing units by the public housing agency; and
 
-&emsp;&emsp;&emsp;(II) acquisition by the resident management corporation of nonpublicly owned, decent, and affordable housing units, which the resident management corporation shall operate as rental housing subject to tenant income and rent limitationscomparable to the limitations applicable to public housing; and
+&emsp;&emsp;&emsp;(II) acquisition by the resident management corporation of nonpublicly owned, decent, and affordable housing units, which the resident management corporation shall operate as rental housing subject to tenant income and rent limitations comparable to the limitations applicable to public housing; and
 
 &emsp;&emsp;(v) the building or buildings meet the housing quality standards applicable under section 1437d(f) of this title, and the physical condition, management, and operation of the building or buildings are sufficient to permit affordable homeownership by the families residing in the project.
 
@@ -90,7 +90,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 #### (6) Financing
 
-&emsp;When financing for the purchase of the property is not otherwise available for purposes of assisting any purchase by a family or resident management corporation under this section,the public housing agency involved may make a loan on the security of the property involved to the family or resident management corporation at a rate of interest that shall not be lower than 70 percent of the market interest rate for conventional mortgages on the date on which the loan is made.
+&emsp;When financing for the purchase of the property is not otherwise available for purposes of assisting any purchase by a family or resident management corporation under this section, the public housing agency involved may make a loan on the security of the property involved to the family or resident management corporation at a rate of interest that shall not be lower than 70 percent of the market interest rate for conventional mortgages on the date on which the loan is made.
 
 #### (7) Capital and operating assistance
 
@@ -188,7 +188,7 @@ Subsec. (a)(2)(B). Pub. L. 101–625, §416(1), amended subpar. (B) generally. P
 
 Subsec. (a)(2)(C). Pub. L. 101–625, §416(2), substituted “the effective date of the regulations implementing subchapter II–A of this chapter. The Secretary may not provide financial assistance under subparagraph (B), after such effective date, unless the Secretary determines that such assistance is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990” for “September 30, 1990”.
 
-Subsec. (a)(3)(C). Pub. L. 101–625, §416(3), substituted “the effective date of the regulations implementing subchapter II–A of this chapter. The authority for a resident management corporation to purchase 1 or more multifamily buildings in a public housing project from a public housing agency shall terminate after such effective date, unless the Secretary determines that such purchase is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990” for “September 30, 1990”.
+Subsec. (a)(3)(C). Pub. L. 101–625, §416(3), substituted “the effective date of the regulations implementing subchapter II–A of this chapter. The authority for a resident management corporation to purchase 1 ormore multifamily buildings in a public housing project from a public housing agency shall terminate after such effective date, unless the Secretary determines that such purchase is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990” for “September 30, 1990”.
 
 Subsec. (f)(7). Pub. L. 101–625, §572(1), substituted “low-income families” for “lower income families”.
 

@@ -14,7 +14,7 @@ The declaration under subsection (a) of this section shall apply to those parts 
 
 #### (c) Expiration date
 
-If, 20 years from October 31, 1992, any area or part thereof described in subsection (a) of this section is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set forth in subsection (b) of this section, or if work in connection with any activity permitted in subsection (b) of this section is not commenced within 5 years after issuance of such permits, then the declaration of nonnavigability for such area or part thereof shall expire.
+If, 20 years from October 31, 1992, any area or part thereof described in subsection (a) of this section is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set forth in subsection (b) of this section, or if workin connection with any activity permitted in subsection (b) of this section is not commenced within 5 years after issuance of such permits, then the declaration of nonnavigability for such area or part thereof shall expire.
 
 (Pub. L. 102–580, title III, §335, Oct. 31, 1992, 106 Stat. 4853.)
 

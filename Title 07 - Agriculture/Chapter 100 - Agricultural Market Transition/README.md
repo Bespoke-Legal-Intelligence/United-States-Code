@@ -93,6 +93,12 @@
 | (a) | Cotton user marketing certificates. |
 | (b) | Special import quota. |
 | (c) | Limited global import quota for upland cotton. |
+| [7236a.](Subchapter%20003%20%28III%29%20-%20Nonrecourse%20Marketing%20Assistance%20Loans%20and%20Loan%20Deficiency%20Payments/%C2%A7%2007236a%20-%20Special%20competitive%20provisions%20for%20extra%20long%20staple%20cotton.md) | Special competitive provisions for extra long staple cotton. |
+| (a) | Competitiveness program. |
+| (b) | Payments under program; trigger. |
+| (c) | Eligible recipients. |
+| (d) | Payment amount. |
+| (e) | Form of payment. |
 | [7237\.](Subchapter%20003%20%28III%29%20-%20Nonrecourse%20Marketing%20Assistance%20Loans%20and%20Loan%20Deficiency%20Payments/%C2%A7%2007237%20-%20Availability%20of%20recourse%20loans%20for%20high%20moisture%20feed%20grains%20and%20seed%20cotton%20and%20other%20fibers.md) | Availability of recourse loans for high moisture feed grains and seed cotton and other fibers. |
 | (a) | High moisture feed grains. |
 | (b) | Recourse loans available for seed cotton. |
@@ -196,6 +202,10 @@
 | (b) | Nonapplication of sales price restrictions. |
 | (c) | Presidential disaster areas. |
 | (d) | Efficient operations. |
+| [7286\.](Subchapter%20005%20%28V%29%20-%20Administration/%C2%A7%2007286%20-%20Commodity%20certificates.md) | Commodity certificates. |
+| (a) | In general. |
+| (b) | Methods of payment. |
+| (c) | Administration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

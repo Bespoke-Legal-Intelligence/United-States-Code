@@ -10,7 +10,7 @@ The amount of the credit allowable under subsection (a) shall be reduced by an a
 
 #### (c) Applicable credit amount
 
-For purposes of this section, the applicable credit amount is the amount of the tentative tax which would be determined under the rate schedule set forth in section 2001(c) if the amount with respect to which such tentative tax is to be computed were the applicable exclusion amount determined in accordance with the following table:
+For purposes of this section, the applicable credit amount is the amount of the tentative tax which would be determined under the rate schedule set forth in section 2001(c) if the amount with respect to which such tentative taxis to be computed were the applicable exclusion amount determined in accordance with the following table:
 
 <b> In the case of estates of</b>
 
@@ -78,7 +78,7 @@ Subsec. (b). Pub. L. 97–34, §401(a)(2)(A), struck out “$47,000” before �
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to estates of decedents dying, and gifts made, after Dec. 31, 1997, seesection 501(f) of Pub. L. 105–34, set out as a note under section 2001 of this title.
+Amendment by Pub. L. 105–34 applicable to estates of decedents dying, and gifts made, after Dec. 31, 1997, see section 501(f) of Pub. L. 105–34, set out as a note under section 2001 of this title.
 
 #### Effective Date of 1981 Amendment
 

@@ -16,7 +16,7 @@ Implementing Entity.—The Secretary shall carry out each annual survey through 
 
 (c)
 
-Reports to Congress.—Upon completion of each annual survey under subsection (a), theSecretary shall submit to Congress a report containing the results of the survey.
+Reports to Congress.—Upon completion of each annual survey under subsection (a), the Secretary shall submit to Congress a report containing the results of the survey.
 
 (Added Pub. L. 103–337, div. A, title V, §554(a)(1), Oct. 5, 1994, 108 Stat. 2773, §451; renumbered §481 and amended Pub. L. 104–201, div. A, title V, §571(c)(1), title XI, §1121(a), Sept. 23, 1996, 110 Stat. 2532, 2687.)
 

@@ -12,7 +12,7 @@
 
 &emsp;(D) The minimum heating seasonal performance factor of air-cooled three-phase electric central air conditioning heat pumps less than 65,000 Btu per hour (cooling capacity), split systems, shall be 6.8.
 
-&emsp;(E) The minimum heating seasonal performance factor of air-cooled three-phase electric central air conditioning heat pumps less than 65,000 Btu per hour (cooling capacity), single package, shall be 6.6.
+&emsp;(E) The minimum heating seasonal performance factor of air-cooled three-phase electriccentral air conditioning heat pumps less than 65,000 Btu per hour (cooling capacity), single package, shall be 6.6.
 
 &emsp;(F) The minimum coefficient of performance in the heating mode of air-cooled central air conditioning heat pumps at or above 65,000 Btu per hour (cooling capacity) and less than 135,000 Btu per hour (cooling capacity) shall be 3.0 (at a high temperature rating of 47 degrees F db).
 
@@ -48,7 +48,7 @@
 
 (5) Each storage water heater, instantaneous water heater, and unfired water storage tank manufactured on or after January 1, 1994, shall meet the following standard levels:
 
-&emsp;(A) Except as provided in subparagraph (G), the maximum standby loss, in percent per hour, of electric storage water heaters shall be0.30 + (27/Measured Storage Volume \[in gallons\]).
+&emsp;(A) Except as provided in subparagraph (G), the maximum standby loss, in percent per hour, of electric storage water heaters shall be 0.30 + (27/Measured Storage Volume \[in gallons\]).
 
 &emsp;(B) Except as provided in subparagraph (G), the maximum standby loss, in percent per hour, of gas- and oil-fired storage water heaters with input ratings of 155,000 Btu per hour or less shall be 1.30 + (114/Measured Storage Volume \[in gallons\]). The minimum thermal efficiency of such units shall be 78 percent.
 

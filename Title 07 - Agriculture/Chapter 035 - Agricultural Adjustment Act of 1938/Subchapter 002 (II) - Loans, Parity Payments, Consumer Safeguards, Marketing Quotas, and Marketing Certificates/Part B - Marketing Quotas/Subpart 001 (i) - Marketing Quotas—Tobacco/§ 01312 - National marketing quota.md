@@ -96,7 +96,7 @@ Section 1 of act Mar. 31, 1955, ch. 21, 69 Stat. 23, provided for redeterminatio
 
 #### Quotas for Burley and Flue-Cured Tobacco for Marketing Years 1944–45 Through 1947–48
 
-Joint Res. July 7, 1943, ch. 195, 57 Stat. 387, as amended by Joint Res. Mar. 31, 1944, ch. 149, 58 Stat. 136; act Feb. 19, 1946, ch. 31, §1, 60 Stat. 21, provided for quotas for burley and flue-cured tobacco for marketing years 1944–45 through 1947–48. The second par. of section 1 of said act Feb. 19, 1946, provided that amendment made by such section to Joint Res. July 7, 1943, should not apply to flue-cured tobacco for 1946–47 marketing year.
+Joint Res. July 7, 1943, ch. 195, 57 Stat. 387, as amended by Joint Res. Mar. 31, 1944, ch. 149, 58 Stat. 136; actFeb. 19, 1946, ch. 31, §1, 60 Stat. 21, provided for quotas for burley and flue-cured tobacco for marketing years 1944–45 through 1947–48. The second par. of section 1 of said act Feb. 19, 1946, provided that amendment made by such section to Joint Res. July 7, 1943, should not apply to flue-cured tobacco for 1946–47 marketing year.
 
 #### Proclamations Affirmed
 

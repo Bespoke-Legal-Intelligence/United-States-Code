@@ -54,7 +54,7 @@
 
 #### (C) Residency starting date
 
-&emsp;&emsp;For purposes of this paragraph, an individual's residency starting date is the residencystarting date determined under section 7701(b)(2)(A).
+&emsp;&emsp;For purposes of this paragraph, an individual's residency starting date is the residency starting date determined under section 7701(b)(2)(A).
 
 #### (5) Outbound trust migrations
 

@@ -6,7 +6,7 @@ The owners or consignees of every armed vessel sailing out of the ports of, or u
 
 #### Codification
 
-Section was formerly classified to section 28 of title 18 prior to the general revision and enactment of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, §1, 62 Stat. 683.
+Section was formerly classified to section 28 of title 18 prior to the general revision and enactment of Title18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, §1, 62 Stat. 683.
 
 #### Prior Provisions
 

@@ -1,6 +1,6 @@
 ### §5357. Premises
 
-Bonded wine cellar premises, including noncontiguous portions thereof, shall be so located, constructed, and equipped, as to afford adequate protection to the revenue, as regulations prescribed by the Secretary may provide.
+Bonded wine cellar premises, including noncontiguous portions thereof, shall be so located, constructed, and equipped, as to afford adequateprotection to the revenue, as regulations prescribed by the Secretary may provide.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1379; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 

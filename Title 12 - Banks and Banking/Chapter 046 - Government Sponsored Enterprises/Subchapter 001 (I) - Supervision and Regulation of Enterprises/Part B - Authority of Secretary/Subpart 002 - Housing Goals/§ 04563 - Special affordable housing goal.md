@@ -46,7 +46,7 @@
 
 #### (C) RTC and FDIC loans
 
-&emsp;&emsp;The purchase of direct loans made by the Resolution Trust Corporation or the FederalDeposit Insurance Corporation, if such loans—
+&emsp;&emsp;The purchase of direct loans made by the Resolution Trust Corporation or the Federal Deposit Insurance Corporation, if such loans—
 
 &emsp;&emsp;&emsp;(i) are not guaranteed by such agencies themselves or other Federal agencies;
 
@@ -74,7 +74,7 @@
 
 #### (2) Affordability
 
-&emsp;For the purpose of paragraph (1)(B)(ii), a rent level shall be considered affordable if it does not exceed 30 percent of the maximum income level of the income categories referred to in this section, with appropriate adjustments for unit size as measured by the number of bedrooms.
+&emsp;For the purpose of paragraph (1)(B)(ii), a rent level shall be considered affordable if itdoes not exceed 30 percent of the maximum income level of the income categories referred to in this section, with appropriate adjustments for unit size as measured by the number of bedrooms.
 
 #### (d) Transition
 

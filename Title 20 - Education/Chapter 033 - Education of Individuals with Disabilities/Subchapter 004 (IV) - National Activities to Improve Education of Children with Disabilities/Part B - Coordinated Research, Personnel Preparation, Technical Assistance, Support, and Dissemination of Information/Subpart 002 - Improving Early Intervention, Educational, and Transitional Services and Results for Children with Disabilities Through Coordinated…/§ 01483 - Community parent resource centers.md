@@ -14,7 +14,7 @@ Each parent training and information center assisted under this section shall—
 
 &emsp;(1) provide training and information that meets the training and information needs of parents of children with disabilities proposed to be served by the grant, contract, or cooperative agreement;
 
-&emsp;(2) carry out the activities required of parent training and information centers underparagraphs (2) through (7) of section 1482(b) of this title;
+&emsp;(2) carry out the activities required of parent training and information centers under paragraphs (2) through (7) of section 1482(b) of this title;
 
 &emsp;(3) establish cooperative partnerships with the parent training and information centers funded under section 1482 of this title; and
 

@@ -53,7 +53,7 @@ Findings.—The Congress finds the following:
 
 &emsp;“(3) Military and civilian personnel of the Department of Defense, personnel in the intelligence community, members of the foreign service, and other officers and employees of the United States faithfully performed their duties during the Cold War.
 
-&emsp;“(4) Many such personnel performed their duties while isolated from family and friends and served overseas under frequently arduous conditions in order to protect the United States and achieve a lasting peace.
+&emsp;“(4) Many such personnel performed their duties while isolated from family and friends and served overseas under frequently arduous conditions in orderto protect the United States and achieve a lasting peace.
 
 &emsp;“(5) The discipline and dedication of those personnel were fundamental to the prevention of a superpower military conflict.
 
@@ -127,7 +127,7 @@ Ex. Ord. No. 11965, Jan. 19, 1977, 42 F.R. 4329, provided:
 
 By virtue of the authority vested in me as President of the United States of America, and as Commander in Chief of the Armed Forces, it is hereby ordered as follows:
 
-Section 1. There is hereby established a Humanitarian Service Medal with accompanying ribbons andappurtenances for award by the Secretary of Defense or the Secretary of Transportation with regard to the Coast Guard when not operating as a Service in the Navy. Individuals eligible for the medal are members of the Armed Forces of the United States (including Reserve Components) who, subsequent to April 1, 1975, distinguished themselves by meritorious participation in a military act or operation of a humanitarian nature. The Secretary of Defense and the Secretary of Transportation for the Coast Guard will determine types of acts or operations that warrant award of the medal.
+Section 1. There is hereby established a Humanitarian Service Medal with accompanying ribbons and appurtenances for award by the Secretary of Defense or the Secretary of Transportation with regard to the Coast Guard when not operating as a Service in the Navy. Individuals eligible for the medal are members of the Armed Forces of the United States (including Reserve Components) who, subsequent to April 1, 1975, distinguished themselves by meritorious participation in a military act or operation of a humanitarian nature. The Secretary of Defense and the Secretary of Transportation for the Coast Guard will determine types of acts or operations that warrant award of the medal.
 
 Sec. 2. The Humanitarian Service Medal and ribbons and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense and shall be awarded by the Secretary of Defense and the Secretary of Transportation for the Coast Guard under uniform regulations, as prescribed by the Secretary of Defense. The regulations shall place the Humanitarian Service Medal in an order of precedence immediately after the Vietnam Service Medal.
 
@@ -181,7 +181,7 @@ Section 1. There is hereby established a Military Outstanding Volunteer Service 
 
 Sec. 2. The Military Outstanding Volunteer Service Medal and ribbons and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense. The Secretary of Defense shall prescribe regulations to govern the award and wear of the Military Outstanding Volunteer Service Medal. The regulations shall place the Military Outstanding Volunteer Service Medal in order of precedence immediately after the Humanitarian Service Medal.
 
-Sec. 3. No more than one award of the Military Outstanding Volunteer Service Medal may be made to any one person, but for each subsequent act justifying such an award, a suitable device may be awarded to be worn with that medal as prescribed by appropriate regulations issued by the Secretary of Defense.
+Sec. 3. No more than one award of the Military Outstanding Volunteer Service Medal may be made to anyone person, but for each subsequent act justifying such an award, a suitable device may be awarded to be worn with that medal as prescribed by appropriate regulations issued by the Secretary of Defense.
 
 Sec. 4. The Military Outstanding Volunteer Service Medal may be awarded posthumously, and when so awarded, may be presented to such representatives of the deceased as may be deemed appropriate by the Secretary of Defense or, in the case of a member of the Coast Guard when it is not operating as a service in the Navy, the Secretary of Transportation.
 

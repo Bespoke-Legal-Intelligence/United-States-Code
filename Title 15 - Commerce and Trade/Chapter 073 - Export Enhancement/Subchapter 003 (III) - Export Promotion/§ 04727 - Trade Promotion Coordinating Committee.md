@@ -26,7 +26,7 @@ The TPCC shall—
 
 &emsp;(4) prevent unnecessary duplication in Federal export promotion and export financing activities;
 
-&emsp;(5) assess the appropriate levels and allocation of resources among agencies in support of export promotion and export financing andprovide recommendations to the President based on its assessment; and
+&emsp;(5) assess the appropriate levels and allocation of resources among agencies in support of export promotion and export financing and provide recommendations to the President based on its assessment; and
 
 &emsp;(6) carry out such other duties as are deemed to be appropriate, consistent with the purpose of the TPCC.
 
@@ -88,19 +88,21 @@ Members of the TPCC shall be appointed by the heads of their respective departme
 
 #### (f) Report to Congress
 
-The chairperson of the TPCC shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on International Relations of the House of Representatives, not later than September 30, 1995, and annually thereafter, a report describing—
+The chairperson of the TPCC shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on International Relations of the House of Representatives, not later than March 30 of each year, a report describing—
 
 &emsp;(1) the strategic plan developed by the TPCC pursuant to subsection (c) of this section, the implementation of such plan, and any revisions thereto; and
 
 &emsp;(2) the implementation of sections 5823 and 5824 of title 22 <sup>1</sup> concerning funding for export promotion activities and the interagency working groups on energy of the TPCC.
 
-(Pub. L. 100–418, title II, §2312, as added Pub. L. 102–429, title II, §201, Oct. 21, 1992, 106 Stat. 2199; amended Pub. L. 104–66, title I, §1022(a), Dec. 21, 1995, 109 Stat. 713; Pub. L. 104–288, §8, Oct. 11, 1996, 110 Stat. 3407.)
+(Pub. L. 100–418, title II, §2312, as added Pub. L. 102–429, title II, §201, Oct. 21, 1992, 106 Stat. 2199; amended Pub. L. 104–66, title I, §1022(a), Dec. 21, 1995, 109 Stat. 713; Pub. L. 104–288, §8, Oct. 11, 1996, 110 Stat. 3407; Pub. L. 106–158, §7, Dec. 9, 1999, 113 Stat. 1747.)
 
 #### References in Text
 
 Sections 5823 and 5824 of title 22, referred to in subsec. (f)(2), was, in the original, “sections 303 and 304 of the Freedom for Russia and Emerging Democracies and Open Markets Support Act of 1992 (22 U.S.C. 5823 and 5824)”, and was translated as meaning sections 303 and 304 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, Pub. L. 102–511, to reflect the probable intent of Congress.
 
 #### Amendments
+
+1999—Subsec. (f). Pub. L. 106–158 substituted “March 30 of each year,” for “September 30, 1995, and annually thereafter,” in introductory provisions.
 
 1996—Subsec. (c)(6). Pub. L. 104–288 added par. (6).
 
@@ -188,7 +190,7 @@ Sec. 5. <i>Strategic Plan</i>. To carry out section 4 of this order, the TPCC sh
 
 (a) establish a set of priorities for Federal activities in support of U.S. exports and explain the rationale for the priorities;
 
-(b) review current Federal programs designed to promote the sale of U.S. exports in light of the priorities established under paragraph (a) of this section and develop a plan to bring such activities into line with those priorities and to improve coordination of such activities;
+(b) review current Federal programs designed to promote the sale of U.S. exports in light of the prioritiesestablished under paragraph (a) of this section and develop a plan to bring such activities into line with those priorities and to improve coordination of such activities;
 
 (c) identify areas of overlap and duplication among Federal export promotion activities and propose means of eliminating them;
 
@@ -200,9 +202,11 @@ Sec. 6. <i>Report</i>. The chairperson of the TPCC, with the approval of the Pre
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.\]
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4728, 4729 of this title; title 12 section 635.
+This section is referred to in sections 4727a, 4728, 4729 of this title; title 12 section 635.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

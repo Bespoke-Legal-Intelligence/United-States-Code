@@ -4,7 +4,7 @@
 
 In the case of any State to which the criterion described in subsection (c) of this section applies, the Secretary may not make a grant under section 300ff–41 of this title unless the State agrees that, with respect to the costs to be incurred by the State in carrying out the purpose referred to in such subsection, the State will, subject to subsection (b)(2) of this section, make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount equal to—
 
-&emsp;(1) for the first fiscal year for which such criterion applies to the State, not less than 162/3 percent of such costs ($1 for each $5 of Federal funds provided in the grant);
+&emsp;(1) for the first fiscal year for which such criterion applies to the State, not less than162/3 percent of such costs ($1 for each $5 of Federal funds provided in the grant);
 
 &emsp;(2) for any second such fiscal year, not less than 20 percent of such costs ($1 for each $4 of Federal funds provided in the grant);
 

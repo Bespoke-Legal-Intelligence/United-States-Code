@@ -28,11 +28,11 @@ The Board shall have the following authorities:
 
 &emsp;(12) To obligate and expend, for official reception and representation expenses, such amount as may be made available through appropriations (which for each of the fiscal years 1998 and 1999 may not exceed the amount made available to the Board and the International Broadcasting Bureau for such purposes for fiscal year 1997).
 
-&emsp;(13) To make available in the annual report required by paragraph (9) information on funds expended on administrative and managerial services by the Bureau and by grantees and the steps the Board has taken to reduce unnecessary overhead costs for each of the broadcasting services.
+&emsp;(13) To make available in the annual report required by paragraph (9) information on fundsexpended on administrative and managerial services by the Bureau and by grantees and the steps the Board has taken to reduce unnecessary overhead costs for each of the broadcasting services.
 
 &emsp;(14) The Board may provide for the use of United States Government transmitter capacity for relay of Radio Free Asia.
 
-&emsp;(15)(A) To procure temporary and intermittent personal services to the same extent as is authorized by section 3109 of title 5, at ratesnot to exceed the daily equivalent of the rate provided for positions classified above grade GS–15 of the General Schedule under section 5108 of title 5.
+&emsp;(15)(A) To procure temporary and intermittent personal services to the same extent as is authorized by section 3109 of title 5, at rates not to exceed the daily equivalent of the rate provided for positions classified above grade GS–15 of the General Schedule under section 5108 of title 5.
 
 &emsp;(B) To allow those providing such services, while away from their homes or their regular places of business, travel expenses (including per diem in lieu of subsistence) as authorized by section 5703 of title 5 for persons in the Government service employed intermittently, while so employed.
 
@@ -102,7 +102,7 @@ Pub. L. 105–277, §1323(f)(1), redesignated subsec. (d) as (e). See Codificati
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
 #### Section Referred to in Other Sections
 

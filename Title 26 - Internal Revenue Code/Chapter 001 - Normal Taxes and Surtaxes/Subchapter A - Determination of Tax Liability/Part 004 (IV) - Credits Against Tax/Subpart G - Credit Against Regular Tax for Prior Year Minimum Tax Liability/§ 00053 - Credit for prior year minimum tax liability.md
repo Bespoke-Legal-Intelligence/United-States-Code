@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (iii) Special rule
 
-&emsp;&emsp;&emsp;The adjusted net minimum tax for the taxable year shall be increased by theamount of the credit not allowed under section 29 (relating to credit for producing fuel from a nonconventional source) solely by reason of the application of section 29(b)(6)(B), or not allowed under section 30 solely by reason of the application of section 30(b)(3)(B).
+&emsp;&emsp;&emsp;The adjusted net minimum tax for the taxable year shall be increased by the amount of the credit not allowed under section 29 (relating to credit for producing fuel from a nonconventional source) solely by reason of the application of section 29(b)(6)(B), or not allowed under section 30 solely by reason of the application of section 30(b)(3)(B).
 
 #### (iv) Credit allowable for exclusion preferences of corporations
 

@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(2) the writing problem has been magnified by the rapidly changing student populations and the growing number of at-risk students due to limited English proficiency;
 
-&emsp;(3) over the past two decades, universities and colleges across the country have reportedincreasing numbers of entering freshmen who are unable to write at a level equal to the demands of college work;
+&emsp;(3) over the past two decades, universities and colleges across the country have reported increasing numbers of entering freshmen who are unable to write at a level equal to the demands of college work;
 
 &emsp;(4) American businesses and corporations are concerned about the limited writing skills of entry-level workers, and a growing number of executives are reporting that advancement was denied to them due to inadequate writing abilities;
 
@@ -30,7 +30,7 @@ The Congress finds that—
 
 &emsp;(14) the National Writing Project programs offer career-long education to teachers, and teachers participating in the National Writing Project receive graduate academic credit;
 
-&emsp;(15) each year over 100,000 teachers voluntarily seek training in National Writing Project intensive summer institutes and workshops and school year in-service programs through one of the 154 regional sites located in 45 States, the Commonwealth of Puerto Rico, and in 4 sites that serve United States teachers in United States dependent and independent schools;
+&emsp;(15) each year over 100,000 teachers voluntarily seek training in National Writing Project intensive summer institutes and workshops and school year in-service programsthrough one of the 154 regional sites located in 45 States, the Commonwealth of Puerto Rico, and in 4 sites that serve United States teachers in United States dependent and independent schools;
 
 &emsp;(16) 250 National Writing Project sites are needed to establish regional sites to serve all teachers;
 

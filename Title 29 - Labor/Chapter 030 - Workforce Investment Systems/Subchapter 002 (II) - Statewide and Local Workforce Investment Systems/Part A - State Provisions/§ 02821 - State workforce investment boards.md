@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Governor of a State shall establish a State workforce investment board to assist in the development of the State plan described in section 2822 of this title and to carry out the other functions described in subsection (d) of this section.
+The Governor of a State shall establish a State workforce investment board to assist in the development of the State plan described insection 2822 of this title and to carry out the other functions described in subsection (d) of this section.
 
 #### (b) Membership
 

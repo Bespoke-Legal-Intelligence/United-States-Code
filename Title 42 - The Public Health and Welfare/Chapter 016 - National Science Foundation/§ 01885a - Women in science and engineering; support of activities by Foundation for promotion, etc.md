@@ -264,7 +264,7 @@ Contract Authority.—To the extent provided in advance in appropriations Acts, 
 
 #### “SEC. 8. REPORT.
 
-“Not later than 1 year after the date on which the initial appointments under section 5(a) are completed, the Commission shall submit to the President, the Congress, and the highest executive official of each State, a written report containing the findings, conclusions, and recommendations of the Commission resulting from the study conducted under section 4.
+“Not later than 1 year after the date on which the initial appointments under section 5(a) are completed,the Commission shall submit to the President, the Congress, and the highest executive official of each State, a written report containing the findings, conclusions, and recommendations of the Commission resulting from the study conducted under section 4.
 
 #### “SEC. 9. CONSTRUCTION; USE OF INFORMATION OBTAINED.
 
@@ -366,7 +366,7 @@ Pub. L. 99–383, §8, Aug. 21, 1986, 100 Stat. 815, provided that:
 
 “(f)(1) Members of the task force not otherwise employed by the Federal Government shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in carrying out the duties of the task force.
 
-“(2) The Director of the National Science Foundation shall make provision for administrative support of the task force, and may enter into agreements with the heads of other participating agencies to facilitate the work of the task force.
+“(2) The Director of the National Science Foundation shall make provision for administrative support of the task force, and may enter into agreements with theheads of other participating agencies to facilitate the work of the task force.
 
 “(g) The task force shall terminate on January 31, 1990.”
 

@@ -98,7 +98,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;(1) the applicant will not expend amounts received pursuant to this part for any purpose other than the purposes described in the subpart under which the grant involved is made;
 
-&emsp;(2) the applicant will establish such procedures for fiscal control and fund accounting asmay be necessary to ensure proper disbursement and accounting with respect to the grant;
+&emsp;(2) the applicant will establish such procedures for fiscal control and fund accounting as may be necessary to ensure proper disbursement and accounting with respect to the grant;
 
 &emsp;(3) the applicant will not expend more than 7.5 percent including planning and evaluation of the grant for administrative expenses with respect to the grant; and
 

@@ -30,7 +30,7 @@ Pub. L. 85–846, §1, Aug. 28, 1958, 72 Stat. 1084, provided: “That this Act 
 
 #### Short Title
 
-Section 291 of title I of act Aug. 1, 1946, as added by act Aug. 30, 1954, §1; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944, provided that: “This Act \[enacting this chapter and amending sections 1031(d) and 1032 of former Title 5, Executive Departments and Government Officers and Employees, and enacting provision set out as a note under section 2221 of this title\] may be cited as the ‘Atomic Energy Act of 1954’.”
+Section 291 of title I of act Aug. 1, 1946, as added by act Aug. 30, 1954, §1; renumbered title I, Oct. 24, 1992,Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944, provided that: “This Act \[enacting this chapter and amending sections 1031(d) and 1032 of former Title 5, Executive Departments and Government Officers and Employees, and enacting provision set out as a note under section 2221 of this title\] may be cited as the ‘Atomic Energy Act of 1954’.”
 
 #### Separability
 

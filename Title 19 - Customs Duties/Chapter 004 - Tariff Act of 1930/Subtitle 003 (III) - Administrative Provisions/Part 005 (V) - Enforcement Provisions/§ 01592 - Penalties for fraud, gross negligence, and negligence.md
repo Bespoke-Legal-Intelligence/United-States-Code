@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) may enter, introduce, or attempt to enter or introduce any merchandise into the commerce of the United States by means of—
 
-&emsp;&emsp;&emsp;(i) any document or electronically transmitted data or information, written ororal statement, or act which is material and false, or
+&emsp;&emsp;&emsp;(i) any document or electronically transmitted data or information, written or oral statement, or act which is material and false, or
 
 &emsp;&emsp;&emsp;(ii) any omission which is material, or
 
@@ -146,7 +146,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 &emsp;&emsp;(B) the person voluntarily and promptly provides written notice of the change to all persons to whom the person provided the Certificate of Origin.
 
-(June 17, 1930, ch. 497, title IV, §592, 46 Stat. 750; Aug. 5, 1935, ch. 438, title III, §304(b), 49 Stat. 527; Pub. L. 95–410, title I, §110(a), Oct. 3, 1978, 92 Stat. 893; Pub. L. 96–417, title VI, §609, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 99–514, §2, Oct. 22, 1986,100 Stat. 2095; Pub. L. 103–182, title II, §205(c), title VI, §621, Dec. 8, 1993, 107 Stat. 2095, 2180; Pub. L. 104–295, §§3(a)(4), (5), 21(e)(12), (13), Oct. 11, 1996, 110 Stat. 3515, 3531.)
+(June 17, 1930, ch. 497, title IV, §592, 46 Stat. 750; Aug. 5, 1935, ch. 438, title III, §304(b), 49 Stat. 527; Pub. L. 95–410, title I, §110(a), Oct. 3, 1978, 92 Stat. 893; Pub. L. 96–417, title VI, §609, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–182, title II, §205(c), title VI, §621, Dec. 8, 1993, 107 Stat. 2095, 2180; Pub. L. 104–295, §§3(a)(4), (5), 21(e)(12), (13), Oct. 11, 1996, 110 Stat. 3515, 3531; Pub. L. 106–36, title I, §1001(b)(8), June 25, 1999, 113 Stat. 132.)
 
 #### Prior Provisions
 
@@ -161,6 +161,8 @@ R.S. §2839 provided for forfeiture of merchandise entered, but not invoiced acc
 Act June 22, 1874, ch. 391, §16, 18 Stat. 189, required special findings as to fraud in actions, etc., to enforce forfeitures, etc., prior to repeal by Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141.
 
 #### Amendments
+
+1999—Subsec. (c)(4)(A)(i), (B). Pub. L. 106–36 amended Pub. L. 103–182, §621(4)(A). See 1993 Amendment notes below.
 
 1996—Subsec. (a)(1). Pub. L. 104–295, §3(a)(4)(A), substituted “lawful duty, tax, or fee” for “lawful duty”.
 
@@ -184,9 +186,9 @@ Subsec. (b)(2). Pub. L. 103–182, §621(3)(B), substituted “the Customs Servi
 
 Subsec. (c)(4). Pub. L. 103–182, §621(4)(B), inserted at end “For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) of this section existed.”
 
-Subsec. (c)(4)(A)(i). Pub. L. 103–182, §621(4)(A), as amended by Pub. L. 104–295, §21(e)(12), substituted “time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its” for “time of disclosure or within thirty days, or such longer period as the appropriate customs officer may provide, after notice by the appropriate customs officer of his”.
+Subsec. (c)(4)(A)(i). Pub. L. 103–182, §621(4)(A), as amended by Pub. L. 104–295, §21(e)(12); Pub. L. 106–36, §1001(b)(8), substituted “time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its” for “time of disclosure or within thirty days, or such longer period as the appropriate customs officer may provide, after notice by the appropriate customs officer of his”.
 
-Subsec. (c)(4)(B). Pub. L. 103–182, §621(4)(A), as amended by Pub. L. 104–295, §21(e)(12), which directed the substitution of “time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its” for “time of disclosure within 30 days, or such longer period as the appropriate customs officer may provide, after notice by the appropriate customs officer of his”, was executed by making the substitution for text which began “time of disclosure or within 30 days”, to reflect the probable intent of Congress.
+Subsec. (c)(4)(B). Pub. L. 103–182, §621(4)(A), as amended by Pub. L. 104–295, §21(e)(12); Pub. L. 106–36, §1001(b)(8), which directed the substitution of “time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its” for “time of disclosure, or within 30 days, or such longer period as the appropriate customs officer may provide, after notice by the appropriate customs officer of his”, was executed by making the substitution for text which began “time of disclosure or within 30 days”, to reflect the probable intent of Congress.
 
 Subsec. (c)(5), (6). Pub. L. 103–182, §205(c)(1), added par. (5) and redesignated former par. (5) as (6).
 

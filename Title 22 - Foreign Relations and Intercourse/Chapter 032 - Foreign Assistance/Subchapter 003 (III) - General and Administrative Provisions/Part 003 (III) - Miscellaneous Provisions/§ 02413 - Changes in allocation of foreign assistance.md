@@ -8,7 +8,7 @@ Not later than thirty days after the enactment of any law appropriating funds to
 
 The provisions of this section shall not apply in the case of any law making continuing appropriations and may not be waived under the provisions of section 2364(a) of this title.
 
-(Pub. L. 87–195, pt. III, §653, as added Pub. L. 92–226, pt. III, §304(b), Feb. 7, 1972, 86 Stat. 28; amended Pub. L. 93–559, §21, Dec. 30, 1974, 88 Stat. 1801; Pub. L. 95–384, §§10(b)(3), 12(c)(2), Sept. 26, 1978, 92 Stat. 735, 737; Pub. L. 99–83, title XII, §1209(b), Aug. 8, 1985, 99 Stat. 279.)
+(Pub. L. 87–195, pt. III, §653, as added Pub. L. 92–226, pt. III, §304(b), Feb. 7, 1972, 86 Stat. 28;amended Pub. L. 93–559, §21, Dec. 30, 1974, 88 Stat. 1801; Pub. L. 95–384, §§10(b)(3), 12(c)(2), Sept. 26, 1978, 92 Stat. 735, 737; Pub. L. 99–83, title XII, §1209(b), Aug. 8, 1985, 99 Stat. 279.)
 
 #### References in Text
 
@@ -34,7 +34,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Delegation of Functions
 
-Functions of President under this section, insofar as they relate to part VIII of subchapter I of this chapter (§2291 et seq. of this title) and subchapter II of this chapter (§2301 et seq. of this title) delegated to Secretary of State, to be exercised in consultation with Secretary of Defense (insofar as they relate to functions under this chapter administered by Department of Defense) and Director of Office of Management and Budget, by section 1–201(a)(17), (c) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

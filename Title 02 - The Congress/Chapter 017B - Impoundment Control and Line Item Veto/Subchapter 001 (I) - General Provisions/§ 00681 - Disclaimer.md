@@ -26,7 +26,7 @@ Chapter effective July 12, 1974, see section 905(a) of Pub. L. 93–344, formerl
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–130, §1, Apr. 9, 1996, 110 Stat. 1200, provided that: “This Act \[enacting subchapter III (§691 et seq.)of this chapter and provisions set out as a note under section 691 of this title and amending provisions set out as notes under section 621 of this title\] may be cited as the ‘Line Item Veto Act’.”
+Pub. L. 104–130, §1, Apr. 9, 1996, 110 Stat. 1200, provided that: “This Act \[enacting subchapter III (§691 et seq.) of this chapter and provisions set out as a note under section 691 of this title and amending provisions set out as notes under section 621 of this title\] may be cited as the ‘Line Item Veto Act’.”
 
 #### Short Title
 

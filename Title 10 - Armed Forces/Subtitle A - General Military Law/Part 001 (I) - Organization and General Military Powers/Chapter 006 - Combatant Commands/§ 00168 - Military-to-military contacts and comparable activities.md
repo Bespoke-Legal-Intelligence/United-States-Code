@@ -78,6 +78,86 @@ The Foreign Assistance Act of 1961, referred to in subsec. (e)(3), (4), is Pub. 
 
 1996—Subsecs. (f), (g). Pub. L. 104–106 added subsec. (f) and redesignated former subsec. (f) as (g).
 
+#### Limitation on Military-to-Military Exchanges and Contacts With Chinese People's Liberation Army
+
+Pub. L. 106–65, div. A, title XII, §1201, Oct. 5, 1999, 113 Stat. 779, provided that:
+
+“(a)
+
+Limitation.—The Secretary of Defense may not authorize any military-to-military exchange or contact described in subsection (b) to be conducted by the armed forces with representatives of the People's Liberation Army of the People's Republic of China if that exchange or contact would create a national security risk due to an inappropriate exposure specified in subsection (b).
+
+“(b)
+
+Covered Exchanges and Contacts.—Subsection (a) applies to any military-to-military exchange or contact that includes inappropriate exposure to any of the following:
+
+&emsp;“(1) Force projection operations.
+
+&emsp;“(2) Nuclear operations.
+
+&emsp;“(3) Advanced combined-arms and joint combat operations.
+
+&emsp;“(4) Advanced logistical operations.
+
+&emsp;“(5) Chemical and biological defense and other capabilities related to weapons of mass destruction.
+
+&emsp;“(6) Surveillance and reconnaissance operations.
+
+&emsp;“(7) Joint warfighting experiments and other activities related to a transformation in warfare.
+
+&emsp;“(8) Military space operations.
+
+&emsp;“(9) Other advanced capabilities of the Armed Forces.
+
+&emsp;“(10) Arms sales or military-related technology transfers.
+
+&emsp;“(11) Release of classified or restricted information.
+
+&emsp;“(12) Access to a Department of Defense laboratory.
+
+“(c)
+
+Exceptions.—Subsection (a) does not apply to any search-and-rescue or humanitarian operation or exercise.
+
+“(d)
+
+Annual Certification by Secretary.—The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, not later than December 31 each year, a certification in writing as to whether or not any military-to-military exchange or contact during that calendar year was conducted in violation of subsection (a).
+
+“(e)
+
+Annual Report.—Not later than March 31 each year beginning in 2001, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report providing the Secretary's assessment of the current state of military-to-military exchanges and contacts with the People's Liberation Army. The report shall include the following:
+
+&emsp;“(1) A summary of all such military-to-military contacts during the period since the last such report, including a summary of topics discussed and questions asked by the Chinese participants in those contacts.
+
+&emsp;“(2) A description of the military-to-military exchanges and contacts scheduled for the next 12-month period and a plan for future contacts and exchanges.
+
+&emsp;“(3) The Secretary's assessment of the benefits the Chinese expect to gain from those military-to-military exchanges and contacts.
+
+&emsp;“(4) The Secretary's assessment of the benefits the Department of Defense expects to gain from those military-to-military exchanges and contacts.
+
+&emsp;“(5) The Secretary's assessment of how military-to-military exchanges and contacts with the People's Liberation Army fit into the larger security relationship between the United States and the People's Republic of China.
+
+“(f)
+
+Report of Past Military-to-Military Exchanges and Contacts With the PRC.—Not later than March 31, 2000, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on past military-to-military exchanges and contacts between the United States and the People's Republic of China. The report shall be unclassified, but may contain a classified annex, and shall include the following:
+
+&emsp;“(1) A list of the general and flag grade officers of the People's Liberation Army who have visited United States military installations since January 1, 1993.
+
+&emsp;“(2) The itinerary of the visits referred to in paragraph (2)\[(1)\], including the installations visited, the duration of the visits, and the activities conducted during the visits.
+
+&emsp;“(3) The involvement, if any, of the general and flag officers referred to in paragraph (1) in the Tiananmen Square massacre of June 1989.
+
+&emsp;“(4) A list of the facilities in the People's Republic of China that United States military officers have visited as a result of any military-to-military exchange or contact program between the United States and the People's Republic of China since January 1, 1993.
+
+&emsp;“(5) A list of facilities in the People's Republic of China that have been the subject of a requested visit by the Department of Defense that has been denied by People's Republic of China authorities.
+
+&emsp;“(6) A list of facilities in the United States that have been the subject of a requested visit by the People's Liberation Army that has been denied by the United States.
+
+&emsp;“(7) Any official documentation (such as memoranda for the record, after-action reports, and final itineraries) and all receipts for expenses over $1,000, concerning military-to-military exchanges or contacts between the United States and the People's Republic of China in 1999.
+
+&emsp;“(8) A description of military-to-military exchanges or contacts between the United States and the People's Republic of China scheduled for 2000.
+
+&emsp;“(9) An assessment regarding whether or not any People's Republic of China military officials have been shown classified material as a result of military-to-military exchanges or contacts between the United States and the People's Republic of China.”
+
 #### Agreements for Exchange of Defense Personnel Between United States and Foreign Countries
 
 Pub. L. 104–201, div. A, title X, §1082, Sept. 23, 1996, 110 Stat. 2672, provided that:

@@ -26,7 +26,7 @@ The Mediator may retain the services of such staff assistants and consultants as
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–180, §1, Dec. 2, 1991, 105 Stat. 1230, provided that: “This Act \[amending sections 640d–11 and 640d–24of this title and section 5315 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 640d–11 of this title\] may be cited as the ‘Navajo-Hopi Relocation Housing Program Reauthorization Act of 1991’.”
+Pub. L. 102–180, §1, Dec. 2, 1991, 105 Stat. 1230, provided that: “This Act \[amending sections 640d–11 and 640d–24 of this title and section 5315 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 640d–11 of this title\] may be cited as the ‘Navajo-Hopi Relocation Housing Program Reauthorization Act of 1991’.”
 
 #### Short Title of 1988 Amendment
 
@@ -206,7 +206,7 @@ Payment.—The Secretary shall make a payment in the amount specified in subsect
 
 #### “SEC. 11. EFFECT OF THIS ACT ON CASES INVOLVING THE NAVAJO NATION AND THE HOPI TRIBE.
 
-“Nothing in this Act or the amendments made by this Act shall be interpreted or deemed to preclude, limit, or endorse, in any manner, actions by the Navajo Nation that seek, in court, an offset from judgments for payments received by the Hopi Tribe under the Settlement Agreement.
+“Nothing in this Act or the amendments made by this Act shall be interpreted or deemed to preclude,limit, or endorse, in any manner, actions by the Navajo Nation that seek, in court, an offset from judgments for payments received by the Hopi Tribe under the Settlement Agreement.
 
 #### “SEC. 12. WATER RIGHTS.
 

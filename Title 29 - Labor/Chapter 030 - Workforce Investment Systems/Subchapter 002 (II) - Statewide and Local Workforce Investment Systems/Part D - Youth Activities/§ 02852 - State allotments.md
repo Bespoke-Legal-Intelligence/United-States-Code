@@ -166,7 +166,7 @@ The Secretary shall—
 
 #### (3) Special rule
 
-&emsp;For the purpose of the formula specified in paragraph (1)(C), the Secretary shall, as appropriate and to the extent practicable, exclude college students and members of the ArmedForces from the determination of the number of disadvantaged youth.
+&emsp;For the purpose of the formula specified in paragraph (1)(C), the Secretary shall, as appropriate and to the extent practicable, exclude college students and members of the Armed Forces from the determination of the number of disadvantaged youth.
 
 #### (4) Definition
 

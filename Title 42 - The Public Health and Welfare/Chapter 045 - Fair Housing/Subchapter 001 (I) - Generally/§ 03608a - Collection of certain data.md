@@ -14,11 +14,11 @@ The Secretary of Agriculture shall include in the annual report of such Secretar
 
 Public Law 88–352, referred to in subsec. (a), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, known as the Civil Rights Act of 1964, title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-Title VIII of Public Law 90–284, referred to in subsec. (a), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat.81, as amended, known as the Fair Housing Act, which is classified principally to subchapter I (§3601 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+Title VIII of Public Law 90–284, referred to in subsec. (a), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, known as the Fair Housing Act, which is classified principally to subchapter I (§3601 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 #### Codification
 
-Section was enacted as part of the Housing and Community Development Act of 1987, and not as part of title VIII of Pub. L. 90–284, popularly known as the Fair Housing Act, which comprises this subchapter.
+Section was enacted as part of the Housing and Community Development Act of 1987, and not as part oftitle VIII of Pub. L. 90–284, popularly known as the Fair Housing Act, which comprises this subchapter.
 
 #### Amendments
 

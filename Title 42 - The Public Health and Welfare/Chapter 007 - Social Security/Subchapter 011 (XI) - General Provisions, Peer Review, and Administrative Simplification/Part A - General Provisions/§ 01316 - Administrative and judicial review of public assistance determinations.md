@@ -24,7 +24,7 @@ Action pursuant to an initial determination of the Secretary described in subsec
 
 Whenever the Secretary determines that any item or class of items on account of which Federal financial participation is claimed under subchapter I, X, XIV, XVI, or XIX of this chapter, shall be disallowed for such participation, the State shall be entitled to and upon request shall receive a reconsideration of the disallowance.
 
-(Aug. 14, 1935, ch. 531, title XI, §1116, as added Pub. L. 89–97, title IV, §404(a), July 30, 1965, 79 Stat. 419; amended Pub. L. 90–248, title II, §241(c)(5), Jan. 2, 1968, 81 Stat. 917; Pub. L. 93–233, §18(z–2)(1)(C), Dec. 31, 1973, 87 Stat. 974; Pub. L. 93–647, §3(d), Jan. 4, 1975, 88 Stat. 2349; Pub. L. 97–35, title XXIII, §2353(h), Aug. 13, 1981, 95 Stat. 872; Pub. L. 98–369, div. B, title III, §2354(c)(2), title VI, §2663(e)(6), July 18, 1984, 98 Stat. 1102, 1168; Pub. L. 104–193, title I, §108(g)(3), Aug. 22, 1996, 110 Stat. 2168.)
+(Aug. 14, 1935, ch. 531, title XI, §1116, as added Pub. L. 89–97, title IV, §404(a), July 30, 1965, 79Stat. 419; amended Pub. L. 90–248, title II, §241(c)(5), Jan. 2, 1968, 81 Stat. 917; Pub. L. 93–233, §18(z–2)(1)(C), Dec. 31, 1973, 87 Stat. 974; Pub. L. 93–647, §3(d), Jan. 4, 1975, 88 Stat. 2349; Pub. L. 97–35, title XXIII, §2353(h), Aug. 13, 1981, 95 Stat. 872; Pub. L. 98–369, div. B, title III, §2354(c)(2), title VI, §2663(e)(6), July 18, 1984, 98 Stat. 1102, 1168; Pub. L. 104–193, title I, §108(g)(3), Aug. 22, 1996, 110 Stat. 2168.)
 
 #### References in Text
 

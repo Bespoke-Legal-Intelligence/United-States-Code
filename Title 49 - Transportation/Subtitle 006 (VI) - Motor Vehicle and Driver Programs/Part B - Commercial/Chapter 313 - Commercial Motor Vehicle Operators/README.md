@@ -13,7 +13,8 @@
 | [31309\.](%C2%A7%2031309%20-%20Commercial%20driver%27s%20license%20information%20system.md) | Commercial driver's license information system. |
 | [31310\.](%C2%A7%2031310%20-%20Disqualifications.md) | Disqualifications. |
 | [31311\.](%C2%A7%2031311%20-%20Requirements%20for%20State%20participation.md) | Requirements for State participation. |
-| \[31312, 31313. Repealed.\] |  |
+| [31312\.](%C2%A7%2031312%20-%20Decertification%20authority.md) | Decertification authority. |
+| \[31313. | Repealed.\] |
 | [31314\.](%C2%A7%2031314%20-%20Withholding%20amounts%20for%20State%20noncompliance.md) | Withholding amounts for State noncompliance. |
 | [31315\.](%C2%A7%2031315%20-%20Waivers%2C%20exemptions%2C%20and%20pilot%20programs.md) | Waivers, exemptions, and pilot programs. |
 | [31316\.](%C2%A7%2031316%20-%20Limitation%20on%20statutory%20construction.md) | Limitation on statutory construction. |
@@ -23,11 +24,13 @@
 
 #### Amendments
 
+1999—Pub. L. 106–159, title II, §203(b), Dec. 9, 1999, 113 Stat. 1762, added item 31312.
+
 1998—Pub. L. 105–178, title IV, §§4007(b), 4011(b)(2), (f), June 9, 1998, 112 Stat. 403, 407, 408, substituted “Commercial driver's license requirement” for “Limitation on the number of driver's licenses” in item 31302 and “Waivers, exemptions, and pilot programs” for “Waiver authority” in item 31315 and struck out items 31312 “Grants for testing and ensuring the fitness of operators of commercial motor vehicles” and 31313 “Grants for issuing commercial drivers’ licenses and complying with State participation requirements”.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 11303 of this title; title 18 section 2721.
+This chapter is referred to in sections 113, 11303, 31148 of this title; title 18 section 2721.
 
 
 ---
@@ -45,7 +48,8 @@ This chapter is referred to in section 11303 of this title; title 18 section 272
 - [&sect; 31309 - Commercial driver's license information system](%C2%A7%2031309%20-%20Commercial%20driver%27s%20license%20information%20system.md)
 - [&sect; 31310 - Disqualifications](%C2%A7%2031310%20-%20Disqualifications.md)
 - [&sect; 31311 - Requirements for State participation](%C2%A7%2031311%20-%20Requirements%20for%20State%20participation.md)
-- [&sect; 31312, 31313 - Repealed. Pub. L. 105&#8211;178, title IV, &sect;4011(f), June 9, 1998, 112 Stat. 408](%C2%A7%2031312%2C%2031313%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93178%2C%20title%20IV%2C%20%C2%A74011%28f%29%2C%20June%209%2C%201998%2C%20112%20Stat.%20408.md)
+- [&sect; 31312 - Decertification authority](%C2%A7%2031312%20-%20Decertification%20authority.md)
+- [&sect; 31313 - Repealed. Pub. L. 105&#8211;178, title IV, &sect;4011(f), June 9, 1998, 112 Stat. 408](%C2%A7%2031313%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93178%2C%20title%20IV%2C%20%C2%A74011%28f%29%2C%20June%209%2C%201998%2C%20112%20Stat.%20408.md)
 - [&sect; 31314 - Withholding amounts for State noncompliance](%C2%A7%2031314%20-%20Withholding%20amounts%20for%20State%20noncompliance.md)
 - [&sect; 31315 - Waivers, exemptions, and pilot programs](%C2%A7%2031315%20-%20Waivers%2C%20exemptions%2C%20and%20pilot%20programs.md)
 - [&sect; 31316 - Limitation on statutory construction](%C2%A7%2031316%20-%20Limitation%20on%20statutory%20construction.md)

@@ -76,7 +76,7 @@ Subsec. (e)(2). Pub. L. 102–484, §812(a), inserted at end “Reviews under th
 
 #### Job Referral System Deadline
 
-Section 1209(e) of Pub. L. 101–510 provided that: “Not later than October 1, 1991, the Secretary of Defense shall prescribe regulations required under section 1734(f) of title 10, United States Code (as added by section 1202).”
+Section 1209(e) of Pub. L. 101–510 provided that: “Not later than October 1, 1991, the Secretary of Defenseshall prescribe regulations required under section 1734(f) of title 10, United States Code (as added by section 1202).”
 
 #### Section Referred to in Other Sections
 

@@ -114,7 +114,7 @@ Any severely distressed public housing disposed of pursuant to a revitalization 
 
 #### (h) Administration by other entities
 
-The Secretary may require a grantee under this section to make arrangements satisfactoryto the Secretary for use of an entity other than the public housing agency to carry out activities assisted under the revitalization plan, if the Secretary determines that such action will help to effectuate the purposes of this section.
+The Secretary may require a grantee under this section to make arrangements satisfactory to the Secretary for use of an entity other than the public housing agency to carry out activities assisted under the revitalization plan, if the Secretary determines that such action will help to effectuate the purposes of this section.
 
 #### (i) Withdrawal of funding
 
@@ -188,7 +188,7 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 #### (2) Technical assistance and program oversight
 
-&emsp;Of the amount appropriated pursuant to paragraph (1) for any fiscal year, the Secretary may use up to 2 percent for technical assistance or contract expertise. Such assistance or contract expertise may be provided directly or indirectly by grants, contracts, or cooperative agreements, and shall includetraining, and the cost of necessary travel for participants in such training, by or to officials of the Department of Housing and Urban Development, of public housing agencies, and of residents.
+&emsp;Of the amount appropriated pursuant to paragraph (1) for any fiscal year, the Secretary may use up to 2 percent for technical assistance or contract expertise. Such assistance or contract expertise may be provided directly or indirectly by grants, contracts, or cooperative agreements, and shall include training, and the cost of necessary travel for participants in such training, by or to officials of the Department of Housing and Urban Development, of public housing agencies, and of residents.
 
 #### (n) Sunset
 

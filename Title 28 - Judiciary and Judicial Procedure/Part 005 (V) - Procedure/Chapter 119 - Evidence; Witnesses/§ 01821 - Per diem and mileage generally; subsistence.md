@@ -1,6 +1,6 @@
 ### §1821. Per diem and mileage generally; subsistence
 
-(a)(1) Except as otherwise provided by law, a witness in attendance at any court of the UnitedStates, or before a United States Magistrate, or before any person authorized to take his deposition pursuant to any rule or order of a court of the United States, shall be paid the fees and allowances provided by this section.
+(a)(1) Except as otherwise provided by law, a witness in attendance at any court of the United States, or before a United States Magistrate, or before any person authorized to take his deposition pursuant to any rule or order of a court of the United States, shall be paid the fees and allowances provided by this section.
 
 (2) As used in this section, the term “court of the United States” includes, in addition to the courts listed in section 451 of this title, any court created by Act of Congress in a territory which is invested with any jurisdiction of a district court of the United States.
 
@@ -32,7 +32,7 @@
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §600c, section 1115(a) of title 26, U.S.C., 1940, Internal Revenue Code, and section 11–1514 of the D.C. Code, 1940 ed. (R.S. §§823, 848; Apr. 26, 1926, ch. 183, §3, 44 Stat. 324; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; Feb. 10, 1939, ch. 2, §1115(a), 53 Stat. 160; Dec. 24, 1942, ch. 825, §1, 56 Stat. 1088.
+Based on title 28, U.S.C., 1940 ed., §600c, section 1115(a) of title 26, U.S.C., 1940, Internal Revenue Code,and section 11–1514 of the D.C. Code, 1940 ed. (R.S. §§823, 848; Apr. 26, 1926, ch. 183, §3, 44 Stat. 324; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; Feb. 10, 1939, ch. 2, §1115(a), 53 Stat. 160; Dec. 24, 1942, ch. 825, §1, 56 Stat. 1088.
 
 Section consolidates part of section 600c of title 28, U.S.C., 1940 ed., with section 1115(a) of title 26, U.S.C., 1940 ed., and section 11–1514 of the D.C. Code, 1940 ed.
 

@@ -2,7 +2,7 @@
 
 Section 160, acts May 27, 1921, ch. 14, §201, 42 Stat. 11; Sept. 1, 1954, ch. 1213, title III, §301, 68 Stat. 1138; Aug. 14, 1958, Pub. L. 85–630, §§1, 4(b), 72 Stat. 583, 585; Jan. 3, 1975, Pub. L. 93–618, title III, §321(a), 88 Stat. 2043, related to initiation of a dumping investigation. See section 1673 et seq. of this title.
 
-Section 161, acts May 27, 1921, ch. 14, §202, 42 Stat. 11; Sept. 1, 1954, ch. 1213, title III, §302, 68 Stat. 1139; Aug.14, 1958, Pub. L. 85–630, §§2, 4(b), 72 Stat. 583, 585; June 2, 1970, Pub. L. 91–271, title III, §311, 84 Stat. 292, related to collection of a special dumping duty. See section 1673 et seq. of this title.
+Section 161, acts May 27, 1921, ch. 14, §202, 42 Stat. 11; Sept. 1, 1954, ch. 1213, title III, §302, 68 Stat. 1139; Aug. 14, 1958, Pub. L. 85–630, §§2, 4(b), 72 Stat. 583, 585; June 2, 1970, Pub. L. 91–271, title III, §311, 84 Stat. 292, related to collection of a special dumping duty. See section 1673 et seq. of this title.
 
 Section 162, acts May 27, 1921, ch. 14, §203, 42 Stat. 12; Jan. 3, 1975, Pub. L. 93–618, title III, §321(b), 88 Stat. 2045, related to determination of purchase price of merchandise for purposes of sections 160 to 171 of this title. See section 1673 et seq. of this title.
 

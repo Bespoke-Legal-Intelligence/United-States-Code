@@ -50,7 +50,7 @@ The Secretary shall use funds available to carry out this part for—
 
 #### (7) Application of copyright laws
 
-&emsp;Nothing in this subsection shall be construed to allow the use or copying, in any media, of any material collected by the Clearinghouse that is protected under the copyrightlaws of the United States unless the permission of the owner of the copyright is obtained. The Clearinghouse, in carrying out the provisions of this subsection, shall ensure compliance with title 17.
+&emsp;Nothing in this subsection shall be construed to allow the use or copying, in any media, of any material collected by the Clearinghouse that is protected under the copyright laws of the United States unless the permission of the owner of the copyright is obtained. The Clearinghouse, in carrying out the provisions of this subsection, shall ensure compliance with title 17.
 
 #### (8) Dissemination of information
 

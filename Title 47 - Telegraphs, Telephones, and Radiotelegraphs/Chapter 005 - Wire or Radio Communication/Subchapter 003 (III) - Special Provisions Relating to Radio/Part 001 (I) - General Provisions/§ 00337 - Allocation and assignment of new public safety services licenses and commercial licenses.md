@@ -10,11 +10,7 @@ Not later than January 1, 1998, the Commission shall allocate the electromagneti
 
 #### (b) Assignment
 
-The Commission shall—
-
-&emsp;(1) commence assignment of the licenses for public safety services created pursuant to subsection (a) of this section no later than September 30, 1998; and
-
-&emsp;(2) commence competitive bidding for the commercial licenses created pursuant to subsection (a) of this section after January 1, 2001.
+The Commission shall commence assignment of licenses for public safety services created pursuant to subsection (a) of this section no later than September 30, 1998.
 
 #### (c) Licensing of unused frequencies for public safety services
 
@@ -90,5 +86,85 @@ For purposes of this section:
 
 &emsp;&emsp;(C) such station was in compliance with the requirements applicable to low-power television stations.
 
-(June 19, 1934, ch. 652, title III, §337, as added Pub. L. 105–33, title III, §3004, Aug. 5, 1997, 111 Stat. 266.)
+(June 19, 1934, ch. 652, title III, §337, as added Pub. L. 105–33, title III, §3004, Aug. 5, 1997, 111 Stat. 266; amended Pub. L. 106–79, title VIII, §8124(a), Oct. 25, 1999, 113 Stat. 1262; Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §213(a)(1), (d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, 1501A–297.)
+
+#### Amendments
+
+1999—Subsec. (b). Pub. L. 106–113, §1000(a)(5) \[title II, §213(a)(1)\], substituted “The Commission shall commence assignment of licenses for public safety services created pursuant to subsection (a) of this section no later than September 30, 1998.” for “The Commission shall—
+
+&emsp;“(1) commence assignment of the licenses for public safety services created pursuant to subsection (a) of this section no later than September 30, 1998; and”.
+
+Subsec. (b)(2). Pub. L. 106–79, which struck out par. (2) reading “commence competitive bidding for the commercial licenses created pursuant to subsection (a) ofthis section after January 1, 2001.”, was repealed by Pub. L. 106–113, §1000(a)(5) \[title II, §213(d)\].
+
+#### Competitive Bidding Process for Commercial Licenses for Assigned Frequencies
+
+Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §213\], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, provided that:
+
+“(a)
+
+Revised Schedule for Competitive Bidding of Spectrum.—(1) \[Amended subsec. (b) of this section.\]
+
+“(2) Commencing on the date of the enactment of this Act \[Nov. 29, 1999\], the Federal Communications Commission shall initiate the competitive bidding process previously required under section 337(b)(2) of the Communications Act of 1934 (as repealed by the amendment made by paragraph (1) \[47 U.S.C. 337(b)(2)\]).
+
+“(3) The Federal Communications Commission shall conduct the competitive bidding process described in paragraph (2) in a manner that ensures that all proceeds of such bidding are deposited in accordance with section 309(j)(8) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)) not later than September 30, 2000.
+
+“(4)(A) To expedite the assignment by competitive bidding of the frequencies identified in section 337(a)(2) of the Communications Act of 1934 (47 U.S.C. 337(a)(2)), the rules governing such frequencies shall be effective immediately upon publication in the Federal Register without regard to sections 553(d), 801(a)(3), 804(2), and 806(a) of title 5, United States Code.
+
+“(B) Chapter 6 of title 5, United States Code, section 3 of the Small Business Act (15 U.S.C. 632), and sections 3507 and 3512 of title 44, United States Code, shall not apply to the rules and competitive bidding procedures governing the frequencies described in subparagraph (A).
+
+“(5) Notwithstanding section 309(b) of the Communications Act of 1934 (47 U.S.C. 309(b)), no application for an instrument of authorization for the frequencies described in paragraph (4) may be granted by the Federal Communications Commission earlier than 7 days following issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereto.
+
+“(6) Notwithstanding section 309(d)(1) of the Communications Act of 1934 (47 U.S.C. 309(d)(1)), the Federal Communications Commission may specify a period (which shall be not less than 5 days following issuance of the public notice described in paragraph (5)) for the filing of petitions to deny any application for an instrument of authorization for the frequencies described in paragraph (4).
+
+“(b)
+
+Reports.—(1) Not later than 30 days after the date of the enactment of this Act \[Nov. 29, 1999\], the Director of the Office of Management and Budget and the Federal Communications Commission shall each submit to the appropriate congressional committees a report which shall—
+
+&emsp;“(A) set forth the anticipated schedule (including specific dates) for—
+
+&emsp;&emsp;“(i) preparing and conducting the competitive bidding process required by subsection (a); and
+
+&emsp;&emsp;“(ii) depositing the receipts of the competitive bidding process;
+
+&emsp;“(B) set forth each significant milestone in the rulemaking process with respect to the competitive bidding process; and
+
+&emsp;“(C) include an explanation of the effect of each requirement in subsection (a) on the schedule for the competitive bidding process and any post-bidding activities (including the deposit of receipts) when compared with the schedule for the competitive bidding and any post-bidding activities (including the deposit of receipts) that would otherwise have occurred under section 337(b)(2) of the Communications Act of 1934 (47 U.S.C. 337(b)(2)) if not for the enactment of subsection (a).
+
+“(2) Not later than 60 days after the date of the enactment of this Act \[Nov. 29, 1999\], the Federal Communications Commission shall submit to the appropriate congressional committees a report which shall set forth for each spectrum auction held by the Commission since January 1, 1998, information on—
+
+&emsp;“(A) the time required for each stage of preparation for the auction;
+
+&emsp;“(B) the date of the commencement and of the completion of the auction;
+
+&emsp;“(C) the time which elapsed between the date of the completion of the auction and the date of the first deposit of receipts from the auction in the Treasury; and
+
+&emsp;“(D) the amounts, summarized by month, of all subsequent deposits in a Treasury receipt account from the auction.
+
+“(3) Not later than October 31, 2000, the Federal Communications Commission shall submit to the appropriate congressional committees a report which shall—
+
+&emsp;“(A) describe the course of the competitive bidding process required by subsection (a) through September 30, 2000, including the amount of any receipts from the competitive bidding process deposited in the Treasury as of September 30, 2000; and
+
+&emsp;“(B) if the course of the competitive bidding process has included any deviations from the schedule set forth under paragraph (1)(A), an explanation for such deviations from the schedule.
+
+“(4) Each report required by this subsection shall be prepared by the agency concerned without influence of any other Federal department or agency.
+
+“(5) In this subsection, the term “appropriate congressional committees” means the following:
+
+&emsp;“(A) The Committees on Appropriations, the Budget, and Commerce, Science, and Transportation of the Senate.
+
+&emsp;“(B) The Committees on Appropriations, the Budget, and Commerce of the House of Representatives.
+
+“(c)
+
+Construction.—Nothing in this section shall be construed to supersede the requirements placed on the Federal Communications Commission by section 337(d)(4) of the Communications Act of 1934 (47 U.S.C. 337(d)(4)).
+
+“(d)
+
+Repeal of Superseded Provisions.—Section 8124 of the Department of Defense Appropriations Act, 2000 \[Pub. L. 106–79, amending this section and enacting provisions formerly set out under this section\] is repealed.”
+
+Pub. L. 106–79, title VIII, §8124, Oct. 25, 1999, 113 Stat. 1262, related to the establishment of a competitive bidding process for commercial licenses and required reports to Congressional committees, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §213(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–297.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 336 of this title.
 

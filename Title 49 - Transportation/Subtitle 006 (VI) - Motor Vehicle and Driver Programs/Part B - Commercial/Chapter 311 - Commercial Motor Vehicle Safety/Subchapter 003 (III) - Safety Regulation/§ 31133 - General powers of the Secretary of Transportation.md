@@ -66,3 +66,35 @@ In subsection (b), the words “In conducting inspections and investigations” 
 
 1998—Subsec. (a)(1). Pub. L. 105–178 inserted “and make contracts for” after “conduct”.
 
+#### Border Staffing Standards
+
+Pub. L. 106–159, title II, §218, Dec. 9, 1999, 113 Stat. 1767, provided that:
+
+“(a)
+
+Development and Implementation.—Not later than 1 year after the date of the enactment of this Act \[Dec. 9, 1999\], the Secretary shall develop and implement appropriate staffing standards for Federal and State motor carrier safety inspectors in international border areas.
+
+“(b)
+
+Factors To Be Considered.—In developing standards under subsection (a), the Secretary shall consider volume of traffic, hours of operation of the border facility, types of commercial motor vehicles, types of cargo, delineation of responsibility between Federal and State inspectors, and such other factors as the Secretary determines appropriate.
+
+“(c)
+
+Maintenance of Effort.—The standards developed and implemented under subsection (a) shall ensure that the United States and each State will not reduce its respective level of staffing of motor carrier safety inspectors in international border areas from its average level staffing for fiscal year 2000.
+
+“(d)
+
+Border Commercial Motor Vehicle and Safety Enforcement Programs.—
+
+&emsp;“(1)
+
+Enforcement.—If, on October 1, 2001, and October 1 of each fiscal year thereafter, the Secretary has not ensured that the levels of staffing required by the standards developed under subsection (a) are deployed, the Secretary should designate the amount made available for allocation under section 31104(f)(2)(B) of title 49, United States Code, for such fiscal year for States, local governments, and other persons for carrying out border commercial motor vehicle safety programs and enforcement activities and projects.
+
+&emsp;“(2)
+
+Allocation.—If the Secretary makes a designation of an amount under paragraph (1), such amount shall be allocated by the Secretary to State agencies, local governments, and other persons that use and train qualified officers and employees in coordination with State motor vehicle safety agencies.
+
+&emsp;“(3)
+
+Limitation.—If the Secretary makes a designation pursuant to paragraph (1) for a fiscal year, the Secretary may not make a designation under section 31104(f)(2)(B) of title 49, United States Code, for such fiscal year.”
+

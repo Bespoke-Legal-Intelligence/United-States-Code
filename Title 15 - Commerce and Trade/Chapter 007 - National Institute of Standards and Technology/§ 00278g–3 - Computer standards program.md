@@ -20,7 +20,7 @@ The Institute shall—
 
 &emsp;(5) develop guidelines for use by operators of Federal computer systems that contain sensitive information in training their employees in security awareness and accepted security practice, as required by section 5 of the Computer Security Act of 1987; and
 
-&emsp;(6) develop validation procedures for, and evaluate the effectiveness of, standards andguidelines developed pursuant to paragraphs (1), (2), and (3) of this subsection through research and liaison with other government and private agencies.
+&emsp;(6) develop validation procedures for, and evaluate the effectiveness of, standards and guidelines developed pursuant to paragraphs (1), (2), and (3) of this subsection through research and liaison with other government and private agencies.
 
 #### (b) Technical assistance and implementation of standards developed
 

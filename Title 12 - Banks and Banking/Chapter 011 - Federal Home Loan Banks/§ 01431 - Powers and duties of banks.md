@@ -24,11 +24,11 @@ The Board shall have full power to require any Federal Home Loan Bank to deposit
 
 (B) A Federal Home Loan Bank shall make charges, to be determined and regulated by the Board consistent with the principles set forth in section 248a(c) of this title, or utilize the services of, or act as agent for, or be a member of, a Federal Reserve bank, clearinghouse, or any other public or private financial institution or other agency, in the exercise of any powers or functions pursuant to this paragraph.
 
-(C) The Board is authorized, with respect to participation in the collection and settlement of any items by Federal Home Loan Banks, and with respect to the collection and settlement (including payment by the payor institution) of items payable by Federal savings and loan associations and Federal mutual savings banks, to prescribe rules and regulations regarding the rights, powers, responsibilities, duties, and liabilities, including standards relating thereto, of such Federal Home Loan Banks, associations, or banks and other parties to any such items or their collection and settlement. In prescribing such rules and regulations, the Board may adopt or apply, in whole or in part, general banking usage and practices, and, in instances or respects in which they would otherwise not be applicable, Federal Reserve regulations and operating letters, the Uniform Commercial Code, and clearinghouse rules.
+(C) The Board is authorized, with respect to participation in the collection and settlement ofany items by Federal Home Loan Banks, and with respect to the collection and settlement (including payment by the payor institution) of items payable by Federal savings and loan associations and Federal mutual savings banks, to prescribe rules and regulations regarding the rights, powers, responsibilities, duties, and liabilities, including standards relating thereto, of such Federal Home Loan Banks, associations, or banks and other parties to any such items or their collection and settlement. In prescribing such rules and regulations, the Board may adopt or apply, in whole or in part, general banking usage and practices, and, in instances or respects in which they would otherwise not be applicable, Federal Reserve regulations and operating letters, the Uniform Commercial Code, and clearinghouse rules.
 
 #### (f) Rediscount of notes held by other banks; purchase of bonds of other banks
 
-The Board is authorized and empowered to permit,,<sup>1</sup> to require,<sup>1</sup> Federal Home Loan Banks, upon such terms and conditions as the Board may prescribe, to rediscount the discounted notes of members held by other Federal Home Loan Banks, or to make loans to, or make deposits with, such other Federal Home LoanBanks, or to purchase any bonds or debentures issued under this section.
+The Board is authorized and empowered to permit,,<sup>1</sup> to require,<sup>1</sup> Federal Home Loan Banks, upon such terms and conditions as the Board may prescribe, to rediscount the discounted notes of members held by other Federal Home Loan Banks, or to make loans to, or make deposits with, such other Federal Home Loan Banks, or to purchase any bonds or debentures issued under this section.
 
 #### (g) Reserves
 
@@ -48,7 +48,7 @@ Notwithstanding the foregoing, the authority provided in this subsection may be 
 
 #### (j) Audits
 
-Notwithstanding the provisions of section 9105(a)(1)(B) <sup>2</sup> of title 31, audits by the General Accounting Office of the financial transactions of a Federal Home Loan Bank shall not be limited to periods during which Government capital has been invested therein. The provisions of sections 9107(c)(2) and 9108(d)(1) of title 31 shall not apply to any Federal Home Loan Bank.
+Notwithstanding the provisions of section 9105(a)(1)(B) <sup>2</sup> of title 31, audits by the General Accounting Office of the financial transactionsof a Federal Home Loan Bank shall not be limited to periods during which Government capital has been invested therein. The provisions of sections 9107(c)(2) and 9108(d)(1) of title 31 shall not apply to any Federal Home Loan Bank.
 
 #### (k) Bank loans to SAIF
 
@@ -68,7 +68,7 @@ Notwithstanding the provisions of section 9105(a)(1)(B) <sup>2</sup> of title 3
 
 &emsp;&emsp;(B) be adequately secured.
 
-(July 22, 1932, ch. 522, §11, 47 Stat. 733; June 27, 1934, ch. 847, §503, 48 Stat. 1261; June 27, 1950, ch.369, §§3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Pub. L. 88–560, title VII, §701(d)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 90–448, title VIII, §807(k), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–151, title I, §3, Dec. 23, 1969, 83 Stat. 374; Pub. L. 91–609, title IX, §914, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 93–383, title VIII, §805(c)(2), Aug. 22, 1974, 88 Stat. 727; Pub. L. 93–495, title I, §112, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 96–153, title III, §324, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–221, title III, §311, Mar. 31, 1980, 94 Stat. 149; Pub. L. 97–320, title I, §125(c), Oct. 15, 1982, 96 Stat. 1485; Pub. L. 101–73, title VII, §§701(b)(1)–(3)(A), (c), 709, 710(b)(6), Aug. 9, 1989, 103 Stat. 412, 418; Pub. L. 104–208, div. A, title II, §2704(d)(11)(A), div. D, title II, §208(h)(2), Sept. 30, 1996, 110 Stat. 3009–489, 3009–747.)
+(July 22, 1932, ch. 522, §11, 47 Stat. 733; June 27, 1934, ch. 847, §503, 48 Stat. 1261; June 27, 1950, ch. 369, §§3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Pub. L. 88–560, title VII, §701(d)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 90–448, title VIII, §807(k), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–151, title I, §3, Dec. 23, 1969, 83 Stat. 374; Pub. L. 91–609, title IX, §914, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 93–383, title VIII, §805(c)(2), Aug. 22, 1974, 88 Stat. 727; Pub. L. 93–495, title I, §112, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 96–153, title III, §324, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–221, title III, §311, Mar. 31, 1980, 94 Stat. 149; Pub. L. 97–320, title I, §125(c), Oct. 15, 1982, 96 Stat. 1485; Pub. L. 101–73, title VII, §§701(b)(1)–(3)(A), (c), 709, 710(b)(6), Aug. 9, 1989, 103 Stat. 412, 418; Pub. L. 104–208, div. A, title II, §2704(d)(11)(A), div. D, title II, §208(h)(2), Sept. 30, 1996, 110 Stat. 3009–489, 3009–747.)
 
 #### Amendment of Subsection (k)
 

@@ -14,7 +14,7 @@ Except as provided by subsection (b) of this section, any information reported t
 
 &emsp;(3) shall be disclosed if the Administrator determines it necessary to protect health or the environment against an unreasonable risk of injury to health or the environment; or
 
-&emsp;(4) may be disclosed when relevant in any proceeding under this chapter, except that disclosure in such a proceeding shall be made in such manner as to preserve confidentiality tothe extent practicable without impairing the proceeding.
+&emsp;(4) may be disclosed when relevant in any proceeding under this chapter, except that disclosure in such a proceeding shall be made in such manner as to preserve confidentiality to the extent practicable without impairing the proceeding.
 
 > In any proceeding under section 552(a) of title 5 to obtain information the disclosure of which has been denied because of the provisions of this subsection, the Administrator may not rely on section 552(b)(3) of such title to sustain the Administrator's action.
 

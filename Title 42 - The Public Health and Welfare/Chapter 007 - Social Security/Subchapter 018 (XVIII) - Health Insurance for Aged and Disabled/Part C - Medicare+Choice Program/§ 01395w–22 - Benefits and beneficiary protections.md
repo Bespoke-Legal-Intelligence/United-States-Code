@@ -6,7 +6,7 @@
 
 &emsp;Except as provided in section 1395w–28(b)(3) of this title for MSA plans, each Medicare+�Choice plan shall provide to members enrolled under this part, through providers and other persons that meet the applicable requirements of this subchapter and part A of subchapter XI of this chapter—
 
-&emsp;&emsp;(A) those items and services (other than hospice care) for which benefits are available under parts A and B of this subchapter to individuals residing in the area served by the plan, and
+&emsp;&emsp;(A) those items and services (other than hospice care) for which benefits are availableunder parts A and B of this subchapter to individuals residing in the area served by the plan, and
 
 &emsp;&emsp;(B) additional benefits required under section 1395w–24(f)(1)(A) of this title.
 
@@ -32,7 +32,7 @@
 
 #### (A) Benefits included subject to Secretary's approval
 
-&emsp;&emsp;Each Medicare+Choice organization may provide to individuals enrolled under this part, other than under an MSA plan,<sup>1</sup> (without affording those individuals an option to decline the coverage) supplemental health care benefits that the Secretary may approve. The Secretary shall approve any such supplemental benefits unless the Secretary determines that including such supplemental benefits would substantially discourage enrollment by Medicare+Choice eligible individuals with the organization.
+&emsp;&emsp;Each Medicare+Choice organization may provide to individuals enrolled under this part, other than under an MSA plan (without affording those individuals an option to decline the coverage), supplemental health care benefits that the Secretary may approve. The Secretary shall approve any such supplemental benefits unless the Secretary determines that including such supplemental benefits would substantially discourage enrollment by Medicare+Choice eligible individuals with the organization.
 
 #### (B) At enrollees’ option
 
@@ -74,7 +74,7 @@
 
 #### (B) Construction
 
-&emsp;&emsp;Subparagraph (A) shall not be construed as requiring a Medicare+Choice organization toenroll individuals who are determined to have end-stage renal disease, except as provided under section 1395w–21(a)(3)(B) of this title.
+&emsp;&emsp;Subparagraph (A) shall not be construed as requiring a Medicare+Choice organization to enroll individuals who are determined to have end-stage renal disease, except as provided under section 1395w–21(a)(3)(B) of this title.
 
 #### (2) Providers
 
@@ -160,7 +160,7 @@
 
 &emsp;&emsp;&emsp;(i) the services were not emergency services (as defined in paragraph (3)), but (I) the services were medically necessary and immediately required because of an unforeseen illness, injury, or condition, and (II) it was not reasonable given the circumstances to obtain the services through the organization,
 
-&emsp;&emsp;&emsp;(ii) the services were renal dialysis services and were provided other than through the organization because the individual was temporarily out of the plan's service area, or
+&emsp;&emsp;&emsp;(ii) the services were renal dialysis services and were provided other than throughthe organization because the individual was temporarily out of the plan's service area, or
 
 &emsp;&emsp;&emsp;(iii) the services are maintenance care or post-stabilization care covered under the guidelines established under paragraph (2);
 
@@ -214,7 +214,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The quality assurance program of an organization with respect to a Medicare+Choice plan (other than a Medicare+Choice private fee-for-service plan or a non-network MSA plan) it offers shall—
+&emsp;&emsp;The quality assurance program of an organization with respect to a Medicare+Choice plan (other than a Medicare+Choice private fee-for-service plan, a non-network MSA plan, or a preferred provider organization plan) it offers shall—
 
 &emsp;&emsp;&emsp;(i) stress health outcomes and provide for the collection, analysis, and reporting of data (in accordance with a quality measurement system that the Secretary recognizes) that will permit measurement of outcomes and other indices of the quality of Medicare+Choice plans and organizations;
 
@@ -238,11 +238,11 @@
 
 &emsp;&emsp;&emsp;(xi) take action to improve quality and assesses the effectiveness of such action through systematic followup; and
 
-&emsp;&emsp;&emsp;(xii) make available information on quality and outcomes measures to facilitate beneficiary comparison and choice of health coverage options (in such form andon such quality and outcomes measures as the Secretary determines to be appropriate).
+&emsp;&emsp;&emsp;(xii) make available information on quality and outcomes measures to facilitate beneficiary comparison and choice of health coverage options (in such form and on such quality and outcomes measures as the Secretary determines to be appropriate).
 
-#### (B) Elements of program for organizations offering Medicare+Choice private fee-for-service plans and non-network MSA plans
+#### (B) Elements of program for organizations offering Medicare+Choice private fee-for-service plans, non-network MSA plans, and preferred provider organization plans
 
-&emsp;&emsp;The quality assurance program of an organization with respect to a Medicare+Choice private fee-for-service plan or a non-network MSA plan it offers shall—
+&emsp;&emsp;The quality assurance program of an organization with respect to a Medicare+Choice private fee-for-service plan, a non-network MSA plan, or a preferred provider organization plan it offers shall—
 
 &emsp;&emsp;&emsp;(i) meet the requirements of clauses (i) through (vi) of subparagraph (A);
 
@@ -253,6 +253,16 @@
 #### (C) “Non-network MSA plan” defined
 
 &emsp;&emsp;In this subsection, the term “non-network MSA plan” means an MSA plan offered by a Medicare+Choice organization that does not provide benefits required to be provided by this part, in whole or in part, through a defined set of providers under contract, or under another arrangement, with the organization.
+
+#### (D) Definition of preferred provider organization plan
+
+&emsp;&emsp;In this paragraph, the term “preferred provider organization plan” means a Medicare+Choice plan that—
+
+&emsp;&emsp;&emsp;(i) has a network of providers that have agreed to a contractually specified reimbursement for covered benefits with the organization offering the plan;
+
+&emsp;&emsp;&emsp;(ii) provides for reimbursement for all covered benefits regardless of whether such benefits are provided within such network of providers; and
+
+&emsp;&emsp;&emsp;(iii) is offered by an organization that is not licensed or organized under State law as a health maintenance organization.
 
 #### (3) External review
 
@@ -270,7 +280,33 @@
 
 #### (4) Treatment of accreditation
 
-&emsp;The Secretary shall provide that a Medicare+Choice organization is deemed to meet requirements of paragraphs (1) and (2) of this subsection and subsection (h) of this section (relating to confidentiality and accuracy of enrollee records) if the organization is accredited (and periodically reaccredited) by a private organization under a process that the Secretary has determined assures that the organization, as a condition of accreditation, applies and enforces standards with respect to the requirements involved that are no less stringent than the standards established under section 1395w–26 of this title to carry out the respective requirements.
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall provide that a Medicare+Choice organization is deemed to meet all the requirements described in any specific clause of subparagraph (B) if the organization is accredited (and periodically reaccredited) by a private accrediting organization under a process that the Secretary has determined assures that the accrediting organization applies and enforces standards that meet or exceed the standards established under section 1395w–26 of this title to carry out the requirements in such clause.
+
+#### (B) Requirements described
+
+&emsp;&emsp;The provisions described in this subparagraph are the following:
+
+&emsp;&emsp;&emsp;(i) Paragraphs (1) and (2) of this subsection (relating to quality assurance programs).
+
+&emsp;&emsp;&emsp;(ii) Subsection (b) of this section (relating to antidiscrimination).
+
+&emsp;&emsp;&emsp;(iii) Subsection (d) of this section (relating to access to services).
+
+&emsp;&emsp;&emsp;(iv) Subsection (h) of this section (relating to confidentiality and accuracy of enrollee records).
+
+&emsp;&emsp;&emsp;(v) Subsection (i) of this section (relating to information on advance directives).
+
+&emsp;&emsp;&emsp;(vi) Subsection (j) of this section (relating to provider participation rules).
+
+#### (C) Timely action on applications
+
+&emsp;&emsp;The Secretary shall determine, within 210 days after the date the Secretary receives an application by a private accrediting organization and using the criteria specified in section 1395bb(b)(2) of this title, whether the process of the private accrediting organization meets the requirements with respect to any specific clause in subparagraph (B) with respect to which the application is made. The Secretary may not deny such an application on the basis that it seeks to meet the requirements with respect to only one, or more than one, such specific clause.
+
+#### (D) Construction
+
+&emsp;&emsp;Nothing in this paragraph shall be construed as limiting the authority of the Secretary under section 1395w–27 of this title, including the authority to terminate contracts with Medicare+Choice organizations under subsection (c)(2) of such section.
 
 #### (f) Grievance mechanism
 
@@ -286,7 +322,7 @@ Each Medicare+Choice organization must provide meaningful procedures for hearing
 
 #### (B) Explanation of determination
 
-&emsp;&emsp;Such a determination that denies coverage, in whole <sup>2</sup> in part, shall be in writing and shall include a statement in understandable language of the reasons for the denial and a description of the reconsideration and appeals processes.
+&emsp;&emsp;Such a determination that denies coverage, in whole or in part, shall be in writing and shall include a statement in understandable language of the reasons for the denial and a description of the reconsideration and appeals processes.
 
 #### (2) Reconsiderations
 
@@ -304,7 +340,7 @@ Each Medicare+Choice organization must provide meaningful procedures for hearing
 
 #### (i) Enrollee requests
 
-&emsp;&emsp;&emsp;An enrollee in a Medicare+Choice plan may request, either in writing or orally,an expedited determination under paragraph (1) or an expedited reconsideration under paragraph (2) by the Medicare+�Choice organization.
+&emsp;&emsp;&emsp;An enrollee in a Medicare+Choice plan may request, either in writing or orally, an expedited determination under paragraph (1) or an expedited reconsideration under paragraph (2) by the Medicare+�Choice organization.
 
 #### (ii) Physician requests
 
@@ -318,7 +354,7 @@ Each Medicare+Choice organization must provide meaningful procedures for hearing
 
 #### (ii) Expedition required for physician requests
 
-&emsp;&emsp;&emsp;In the case of a request for an expedited determination or reconsideration made under subparagraph (A)(ii), the organization shall expedite the determination or reconsideration if the request indicates that the application of the normal time frame for making a determination (or a reconsideration involving a determination) could seriously jeopardize the life or health of the enrollee or the enrollee's ability to regain maximum function <sup>3</sup>
+&emsp;&emsp;&emsp;In the case of a request for an expedited determination or reconsideration made under subparagraph (A)(ii), the organization shall expedite the determination or reconsideration if the request indicates that the application of the normal time frame for making a determination (or a reconsideration involving a determination) could seriously jeopardize the life or health of the enrollee or the enrollee's ability to regain maximum function.
 
 #### (iii) Timely response
 
@@ -338,7 +374,7 @@ Insofar as a Medicare+Choice organization maintains medical records or other hea
 
 &emsp;(1) to safeguard the privacy of any individually identifiable enrollee information;
 
-&emsp;(2) to maintain such records and information in a manner that is accurate and timely,<sup>4</sup> and
+&emsp;(2) to maintain such records and information in a manner that is accurate and timely; and
 
 &emsp;(3) to assure timely access of enrollees to such records and information.
 
@@ -396,7 +432,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 &emsp;&emsp;&emsp;&emsp;(I) provides stop-loss protection for the physician or group that is adequate and appropriate, based on standards developed by the Secretary that take into account the number of physicians placed at such substantial financial risk in the group or under the plan and the number of individuals enrolled with the organization who receive services from the physician or group, and
 
-&emsp;&emsp;&emsp;&emsp;(II) conducts periodic surveys of both individuals enrolled and individuals previously enrolled with the organization to determine the degree of access of such individuals to services provided by the organization and satisfaction with the quality of such services.
+&emsp;&emsp;&emsp;&emsp;(II) conducts periodic surveys of both individuals enrolled and individuals previously enrolled with the organization todetermine the degree of access of such individuals to services provided by the organization and satisfaction with the quality of such services.
 
 &emsp;&emsp;&emsp;(iii) The organization provides the Secretary with descriptive information regarding the plan, sufficient to permit the Secretary to determine whether the plan is in compliance with the requirements of this subparagraph.
 
@@ -462,17 +498,17 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each Medicare+Choice organization that offers a Medicare+Choice private fee-for-service plan shall provide that enrollees under the plan who are furnished services for which payment is sought under the plan are provided an appropriate explanation of benefits (consistent with that provided under parts A and B of this subchapter and, if applicable, under medicare supplemental policies) that includes a clear statement of the amount of the enrollee's liability (including any liability for balance billing consistent with this subsection) with respect to payments for such services.
+&emsp;&emsp;&emsp;Each Medicare+Choice organization that offers a Medicare+Choice private fee-for-service plan shall provide that enrollees under the plan who are furnished servicesfor which payment is sought under the plan are provided an appropriate explanation of benefits (consistent with that provided under parts A and B of this subchapter and, if applicable, under medicare supplemental policies) that includes a clear statement of the amount of the enrollee's liability (including any liability for balance billing consistent with this subsection) with respect to payments for such services.
 
 #### (ii) Advance notice before receipt of inpatient hospital services and certain other services
 
-&emsp;&emsp;&emsp;In addition, such organization shall, in its terms and conditions of payments to hospitals for inpatient hospital services and for other services identified by the Secretary for which the amount of the balancing <sup>5</sup> billing under subparagraph (A) could be substantial, require the hospital to provide to the enrollee, before furnishing such services and if the hospital imposes balance billing under subparagraph (A)—
+&emsp;&emsp;&emsp;In addition, such organization shall, in its terms and conditions of payments to hospitals for inpatient hospital services and for other services identified by the Secretary for which the amount of the balance billing under subparagraph (A) could be substantial, require the hospital to provide to the enrollee, before furnishing such services and if the hospital imposes balance billing under subparagraph (A)—
 
 &emsp;&emsp;&emsp;&emsp;(I) notice of the fact that balance billing is permitted under such subparagraph for such services, and
 
 &emsp;&emsp;&emsp;&emsp;(II) a good faith estimate of the likely amount of such balance billing (if any), with respect to such services, based upon the presenting condition of the enrollee.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1852, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 286.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1852, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 286; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(B), title V, §§518, 520(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384, 1501A–385.)
 
 #### References in Text
 
@@ -480,19 +516,39 @@ Part A of subchapter XI of this chapter, referred to in subsec. (a)(1)(A), is cl
 
 Parts A and B of this subchapter, referred to in subsecs. (a)(1)(A), (2)(A)(ii), (d)(4)(A), and (k)(2)(C)(i), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (j)(3)(C), is Pub. L. 93–406,Sept. 2, 1974, 88 Stat. 832, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (j)(3)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+
+#### Amendments
+
+1999—Subsec. (a)(3)(A). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(B)(i)\], struck out comma after “MSA plan” and inserted comma after “the coverage)”.
+
+Subsec. (e)(2)(A). Pub. L. 106–113, §1000(a)(6) \[title V, §520(a)(1)\], substituted “, a non-network MSA plan, or a preferred provider organization plan” for “or a non-network MSA plan” in introductory provisions.
+
+Subsec. (e)(2)(B). Pub. L. 106–113, §1000(a)(6) \[title V, §520(a)(2)\], substituted “, non-network MSA plans, and preferred provider organization plans” for “and non-network MSA plans” in heading and “, a non-network MSA plan, or a preferred provider organization plan” for “or a non-network MSA plan” in introductory provisions.
+
+Subsec. (e)(2)(D). Pub. L. 106–113, §1000(a)(6) \[title V, §520(a)(3)\], added subpar. (D).
+
+Subsec. (e)(4). Pub. L. 106–113, §1000(a)(6) \[title V, §518\], amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “The Secretary shall provide that a Medicare+Choice organization is deemed to meet requirements of paragraphs (1) and (2) of this subsection and subsection (h) of this section (relating to confidentiality and accuracy of enrollee records) if the organization is accredited (and periodically reaccredited) by a private organization under a process that the Secretary has determined assures that the organization, as a condition of accreditation, applies and enforces standards with respect to the requirements involved that are no less stringent than the standards established under section 1395w–26 of this title to carry out the respective requirements.”
+
+Subsec. (g)(1)(B). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(B)(ii)(I)\], inserted “or” after “in whole”.
+
+Subsec. (g)(3)(B)(ii). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(B)(ii)(II)\], inserted period at end.
+
+Subsec. (h)(2). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(B)(iii)\], substituted a semicolon for a comma before “and”.
+
+Subsec. (k)(2)(C)(ii). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(B)(iv)\], substituted “balance” for “balancing” before “billing under subparagraph (A) could” in introductory provisions.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by section 1000(a)(6) \[title III, §321(k)(6)(B)\] of Pub. L. 106–113 effective as if included in the enactment of the Balanced Budget Act of 1997, Pub. L. 105–33, except as otherwise provided, see section 1000(a)(6) \[title III, §321(m)\] of Pub. L. 106–113, set out as a note under section 1395d of this title.
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §520(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–386, provided that: “The amendments made by subsection (a) \[amending this section\] apply to contract years beginning on or after January 1, 2000.”
+
+#### Transitional Pass-Through of Additional Costs Under Medicare+Choice Program for 2000
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §227(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–355, provided that: “The provisions of subparagraphs (A) and (B) of section 1852(a)(5) of the Social Security Act (42 U.S.C. 1395w–22(a)(5)) shall apply with respect to the coverage of additional benefits for immunosuppressive drugs under the amendments made by this section \[amending sections 1395k and 1395x of this title\] for drugs furnished in 2000 in the same manner as if such amendments constituted a national coverage determination described in the matter in such section before subparagraph (A).”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1395w–21, 1395w–23, 1395w–24, 1395w–25, 1395w–27, 1395w–28, 1396u–2 of this title.
-
-<i><sup>1</sup></i><i> So in original. The comma probably should appear after parenthetical.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “or”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be followed by a period.</i>
-
-<i><sup>4</sup></i><i> So in original. The comma probably should be a semicolon.</i>
-
-<i><sup>5</sup></i><i> So in original. Probably should be “balance”.</i>
 

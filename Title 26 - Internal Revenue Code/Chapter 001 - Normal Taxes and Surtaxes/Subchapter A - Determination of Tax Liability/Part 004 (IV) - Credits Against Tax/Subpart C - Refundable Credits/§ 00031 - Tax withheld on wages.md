@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may prescribe regulations providing for the crediting against the tax imposed by this subtitle of the amount determined by the taxpayer or the Secretary to be allowable under section 6413(c) as a special refund of tax imposed on wages. The amount allowed as a credit under such regulations shall, for purposes of this subtitle, be considered anamount withheld at source as tax under section 3402.
+&emsp;The Secretary may prescribe regulations providing for the crediting against the tax imposed by this subtitle of the amount determined by the taxpayer or the Secretary to be allowable under section 6413(c) as a special refund of tax imposed on wages. The amount allowed as a credit under such regulations shall, for purposes of this subtitle, be considered an amount withheld at source as tax under section 3402.
 
 #### (2) Year of credit
 

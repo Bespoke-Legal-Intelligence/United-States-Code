@@ -2,7 +2,7 @@
 
 (a)
 
-Bonus Authorized.—An aviation officer described in subsection (b) who, during the period beginning on January 1, 1989, and ending on December 31, 1999, executes a written agreement to remain on active duty in aviation service for at least one year may, upon the acceptance of the agreement by the Secretary concerned, be paid a retention bonus as provided in this section.
+Bonus Authorized.—An aviation officer described in subsection (b) who, during the period beginning on January 1, 1989, and ending on December 31, 2000, executes a written agreement to remain on active duty in aviation service for at least one year may, upon the acceptance of the agreement by the Secretary concerned, be paid a retention bonus as provided in this section.
 
 (b)
 
@@ -10,27 +10,19 @@ Covered Officers.—An aviation officer referred to in subsection (a) is an offi
 
 &emsp;(1) is entitled to aviation career incentive pay under section 301a of this title;
 
-&emsp;(2) is in an aviation specialty designated by the Secretary concerned (with the approval of the Secretary of Defense in the case of the Secretary of a military department) as a critical aviation specialty;
+&emsp;(2) is in a pay grade below pay grade O–7;
 
-&emsp;(3) is in a pay grade below pay grade O–6;
+&emsp;(3) is qualified to perform operational flying duty; and
 
-&emsp;(4) is qualified to perform operational flying duty;
-
-&emsp;(5) has completed at least six but less than 13 years of aviation service; and
-
-&emsp;(6) has completed any active duty service commitment incurred for undergraduate aviator training.
+&emsp;(4) has completed any active duty service commitment incurred for undergraduate aviator training.
 
 (c)
 
-Amount of Bonus.—The amount of a retention bonus paid under this section may not be more than—
-
-&emsp;(1) $25,000 for each year covered by the written agreement, if the officer agrees to remain on active duty to complete 14 years of commissioned service; or
-
-&emsp;(2) $12,000 for each year covered by the written agreement, if the officer agrees to remain on active duty for one, two, or three years.
+Amount of Bonus.—The amount of a retention bonus paid under this section may not be more than $25,000 for each year covered by the written agreement to remain on active duty.
 
 (d)
 
-Proration.—The term of an agreement under subsection (a) and the amount of the bonus under subsection (c) may be prorated as long as such agreement does not extend beyond the date on which the officer making such agreement would complete 14 years of commissioned service.
+Proration.—The term of an agreement under subsection (a) and the amount of the bonus under subsection (c) may be prorated as long as such agreement does not extend beyond the date on which the officer making such agreement would complete 25 years of aviation service.
 
 (e)
 
@@ -46,7 +38,7 @@ Repayment of Bonus.—(1) If an officer who has entered into a written agreement
 
 (2) An obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
 
-(3) A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of a written agreement entered into under subsection (a) does not discharge the officer signing the agreement from a debt arising under such agreement or under paragraph (1). This paragraph applies to any case commenced under title 11 after January 1, 1989.
+(3) A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of a written agreement entered into under subsection (a) does not discharge the officer signing the agreement from a debt arising under such agreement or under paragraph (1).
 
 (h)
 
@@ -54,13 +46,9 @@ Regulations.—The Secretaries concerned shall prescribe regulations to carry ou
 
 (i)
 
-Reports.—(1) Not later than February 15 of each year, the Secretaries concerned shall submit to the Secretary of Defense a report analyzing the effect of the provision of retention bonuses to aviation officers during the preceding fiscal year on the retention of qualified aviators. Each report shall include—
+Reports.—(1) Not later than February 15 of each year, the Secretaries concerned shall submit to the Secretary of Defense a report analyzing the effect of the provision of retention bonuses to aviation officers during the preceding fiscal year on the retention of qualified aviators.
 
-&emsp;(A) a comparison of the cost of paying bonuses to officers who enter into an agreement for the period referred to in subsection (c)(1) with the cost of paying bonuses to officers who enter into an agreement for a period referred to in subsection (c)(2); and
-
-&emsp;(B) a description of the increase in the retention of qualified aviators as a result of the program.
-
-(2) Not later than March 15 of each year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives copies of the reports submitted to the Secretary under paragraph (1) with regard to the preceding fiscal year, together with such comments and recommendations as the Secretary considers appropriate.
+(2) Not later than March 15 of each year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives copies of the reports submitted to the Secretary under paragraph (1) with regard to the preceding fiscal year, together with such comments and recommendations as the Secretary considers appropriate.
 
 (j)
 
@@ -68,19 +56,55 @@ Definitions.—In this section:
 
 &emsp;(1) The term “aviation service” means service performed by an officer (except a flight surgeon or other medical officer) while holding an aeronautical rating or designation or while in training to receive an aeronautical rating or designation.
 
-&emsp;(2) The term “aviation specialty” means a specific community of pilots identified by type of aircraft or weapon system or a specific community of other designated aeronautical officers so identified.
+&emsp;(2) The term “operational flying duty” has the meaning given such term in section 301a(a)(6)(A) <sup>1</sup> of this title.
 
-&emsp;(3) The term “critical aviation specialty” means an aviation specialty in which there exists a shortage of officers on the date of designation under subsection (b).
-
-&emsp;(4) The term “operational flying duty” has the meaning given such term in section 301a(a)(6)(A) <sup>1</sup> of this title.
-
-(Added Pub. L. 96–342, title VIII, §806(a)(i), Sept. 8, 1980, 94 Stat. 1095; amended Pub. L. 97–60, title I, §113, Oct. 14, 1981, 95 Stat. 995; Pub. L. 98–94, title IX, §904(a), Sept. 24, 1983, 97 Stat. 635; Pub. L. 98–525, title VI, §622(a), Oct. 19, 1984, 98 Stat. 2540; Pub. L. 99–145, title VI, §636, Nov. 8, 1985, 99 Stat. 648; Pub. L. 99–661, div. A, title VI, §631(a), Nov. 14, 1986, 100 Stat. 3883; Pub. L. 100–180, div. A, title VI, §622(a), Dec. 4, 1987, 101 Stat. 1100; Pub. L. 101–189, div. A, title VI, §632(a), Nov. 29,1989, 103 Stat. 1451; Pub. L. 102–190, div. A, title VI, §612(a)(1), Dec. 5, 1991, 105 Stat. 1376; Pub. L. 102–484, div. A, title VI, §612(c), title X, §1054(a)(1), Oct. 23, 1992, 106 Stat. 2421, 2502; Pub. L. 103–160, div. A, title VI, §613(a), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(a), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(a), title XV, §1502(b), Feb. 10, 1996, 110 Stat. 359, 506; Pub. L. 104–201, div. A, title VI, §613(a), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(a), 616(a)–(d), Nov. 18, 1997, 111 Stat. 1786, 1787; Pub. L. 105–261, div. A, title VI, §§613(a), 615(a)(2), (c)(2), Oct. 17, 1998, 112 Stat. 2039–2041.)
+(Added Pub. L. 96–342, title VIII, §806(a)(i), Sept. 8, 1980, 94 Stat. 1095; amended Pub. L. 97–60, title I, §113, Oct. 14, 1981, 95 Stat. 995; Pub. L. 98–94, title IX, §904(a), Sept. 24, 1983, 97 Stat. 635; Pub. L. 98–525, title VI, §622(a), Oct. 19, 1984, 98 Stat. 2540; Pub. L. 99–145, title VI, §636, Nov. 8, 1985, 99 Stat. 648; Pub. L. 99–661, div. A, title VI, §631(a), Nov. 14, 1986, 100 Stat. 3883; Pub. L. 100–180, div.A, title VI, §622(a), Dec. 4, 1987, 101 Stat. 1100; Pub. L. 101–189, div. A, title VI, §632(a), Nov. 29, 1989, 103 Stat. 1451; Pub. L. 102–190, div. A, title VI, §612(a)(1), Dec. 5, 1991, 105 Stat. 1376; Pub. L. 102–484, div. A, title VI, §612(c), title X, §1054(a)(1), Oct. 23, 1992, 106 Stat. 2421, 2502; Pub. L. 103–160, div. A, title VI, §613(a), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(a), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(a), title XV, §1502(b), Feb. 10, 1996, 110 Stat. 359, 506; Pub. L. 104–201, div. A, title VI, §613(a), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(a), 616(a)–(d), Nov. 18, 1997, 111 Stat. 1786, 1787; Pub. L. 105–261, div. A, title VI, §§613(a), 615(a)(2), (c)(2), Oct. 17, 1998, 112 Stat. 2039–2041; Pub. L. 106–65, div. A, title VI, §§613(a), 615(a)–(f), title X, §1067(2), Oct. 5, 1999, 113 Stat. 650, 651, 774.)
 
 #### References in Text
 
-Section 301a(a)(6)(A) of this title, referred to in subsec. (j)(4), was redesignated section 301a(a)(6)(B) by Pub. L. 105–261, div. A, title VI, §615(a)(1)(A), Oct. 17, 1998, 112 Stat. 2040.
+Section 301a(a)(6)(A) of this title, referred to in subsec. (j)(2), was redesignated section 301a(a)(6)(B) by Pub. L. 105–261, div. A, title VI, §615(a)(1)(A), Oct. 17, 1998, 112 Stat. 2040.
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–65, §613(a), substituted “December 31, 2000,” for “December 31, 1999,”.
+
+Subsec. (b)(2). Pub. L. 106–65, §615(a)(1), (4), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “is in an aviation specialty designated by the Secretary concerned (with the approval of the Secretary of Defense in the case of the Secretary of a military department) as a critical aviation specialty;”.
+
+Subsec. (b)(3). Pub. L. 106–65, §615(a)(4), redesignated par. (4) as (3). Former par. (3) redesignated (2).
+
+Pub. L. 106–65, §615(a)(2), substituted “grade O–7” for “grade O–6”.
+
+Subsec. (b)(4). Pub. L. 106–65, §615(a)(4), redesignated par. (6) as (4). Former par. (4) redesignated (3).
+
+Pub. L. 106–65, §615(a)(3), inserted “and” at end.
+
+Subsec. (b)(5). Pub. L. 106–65, §615(a)(1), struck out par. (5) which read as follows: “has completed at least six but less than 13 years of aviation service; and”.
+
+Subsec. (b)(6). Pub. L. 106–65, §615(a)(4), redesignated par. (6) as (4).
+
+Subsec. (c). Pub. L. 106–65, §615(b), substituted “may not be more than $25,000 for each year covered by the written agreement to remain on active duty.” for “may not be more than—” and struck out pars. (1) and (2) which read as follows:
+
+“(1) $25,000 for each year covered by the written agreement, if the officer agrees to remain on active duty to complete 14 years of commissioned service; or
+
+“(2) $12,000 for each year covered by the written agreement, if the officer agrees to remain on active duty for one, two, or three years.”
+
+Subsec. (d). Pub. L. 106–65, §615(c), substituted “25 years of aviation service” for “14 years of commissioned service”.
+
+Subsec. (g)(3). Pub. L. 106–65, §615(f), struck out at end “This paragraph applies to any case commenced under title 11 after January 1, 1989.”
+
+Subsec. (i)(1). Pub. L. 106–65, §615(d), struck out last sentence which read as follows: “Each report shall include—
+
+&emsp;“(A) a comparison of the cost of paying bonuses to officers who enter into an agreement for the period referred to in subsection (c)(1) with the cost of paying bonuses to officers who enter into an agreement for a period referred to in subsection (c)(2); and
+
+&emsp;“(B) a description of the increase in the retention of qualified aviators as a result of the program.”
+
+Subsec. (i)(2). Pub. L. 106–65, §1067(2), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+
+Subsec. (j)(2) to (4). Pub. L. 106–65, §615(e), redesignated par. (4) as (2) and struck out former pars. (2) and (3) which read as follows:
+
+“(2) The term ‘aviation specialty’ means a specific community of pilots identified by type of aircraft or weapon system or a specific community of other designated aeronautical officers so identified.
+
+“(3) The term ‘critical aviation specialty’ means an aviation specialty in which there exists a shortage of officers on the date of designation under subsection (b).”
 
 1998—Subsec. (a). Pub. L. 105–261, §613(a), substituted “December 31, 1999,” for “September 30, 1999,”.
 
@@ -154,9 +178,9 @@ Subsec. (f). Pub. L. 98–94, §904(a)(2), substituted “September 30, 1984” 
 
 1981—Subsecs. (e), (f). Pub. L. 97–60 added subsecs. (e) and (f).
 
-#### Change of Name
+#### Effective Date of 1999 Amendment
 
-Committee on National Security of House of Representatives changed to Committee on Armed Servicesof House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Pub. L. 106–65, div. A, title VI, §615(g), Oct. 5, 1999, 113 Stat. 651, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1999, and shall apply with respect to months beginning on or after that date.”
 
 #### Effective Date of 1997 Amendment
 
@@ -224,7 +248,7 @@ Section 613(i) of Pub. L. 103–160 provided that:
 
 Section 612(j)(2) of Pub. L. 102–484 provided that:
 
-“(A) In the case of a person described in subparagraph (B) who executes an agreement described in subparagraph (C) during the 90-day period beginning on the date of the enactment of this Act \[Oct. 23, 1992\], the Secretary concerned may treat such agreement for purposes of the bonus or special pay authorized under suchagreement as having been executed and accepted on the first date on which the person would have qualified for such an agreement had the amendments made by this section \[amending this section and sections 302d, 302e, 308 to 308e, 308h, and 308i of this title and sections 2130a and 2172 \[now 16302\] of Title 10, Armed Forces\] taken effect on October 1, 1992.
+“(A) In the case of a person described in subparagraph (B) who executes an agreement described in subparagraph (C) during the 90-day period beginning on the date of the enactment of this Act \[Oct. 23, 1992\], the Secretary concerned may treat such agreement for purposes of the bonus or special pay authorized under such agreement as having been executed and accepted on the first date on which the person would have qualified for such an agreement had the amendments made by this section \[amending this section and sections 302d, 302e, 308 to 308e, 308h, and 308i of this title and sections 2130a and 2172 \[now 16302\] of Title 10, Armed Forces\] taken effect on October 1, 1992.
 
 “(B) A person referred to in subparagraph (A) is a person who, during the period beginning on October 1, 1992, and ending on the date of the enactment of this Act, would have qualified for an agreement described in subparagraph (C) with the Secretary concerned had the amendments made by this section taken effect on October 1, 1992.
 
@@ -258,7 +282,7 @@ Section 904(b) of Pub. L. 98–94 provided that:
 
 “(1) It is the sense of the Congress that eligibility for special pay for aviation career officers under section 301b of title 37, United States Code, should be made available only to officers who will likely be induced to remain on active duty in aviation service by receipt of the special pay.
 
-“(2) The Secretary of the Navy shall submit to the Congress not later than July 1, 1984, a written report, approved by the Secretary of Defense, on the payment of special pay for aviation career officers under section 301b of title 37, United States Code, since the date of the enactment of this Act \[Sept. 24. 1983\]. Such report shall include—
+“(2) The Secretary of the Navy shall submit to the Congress not later than July 1, 1984, a written report,approved by the Secretary of Defense, on the payment of special pay for aviation career officers under section 301b of title 37, United States Code, since the date of the enactment of this Act \[Sept. 24. 1983\]. Such report shall include—
 
 &emsp;“(A) a list of the specific aviation specialties by aircraft type determined to be critical for purposes of the payment of special pay under such section since the date of the enactment of this Act;
 

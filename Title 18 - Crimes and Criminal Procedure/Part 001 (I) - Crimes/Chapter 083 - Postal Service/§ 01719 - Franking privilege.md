@@ -1,6 +1,6 @@
 ### §1719. Franking privilege
 
-Whoever makes use of any official envelope, label, or indorsement authorized by law, to avoid the payment of postage or registry fee on his private letter, packet, package, or other matter in the mail, shall be fined under this title.
+Whoever makes use of any official envelope, label, or indorsement authorized by law, to avoid the payment of postage or registry fee on his private letter, packet, package, or othermatter in the mail, shall be fined under this title.
 
 (June 25, 1948, ch. 645. 62 Stat. 783; Pub. L. 103–322, title XXXIII, §330016(1)(F), Sept. 13, 1994, 108 Stat. 2147.)
 

@@ -6,7 +6,7 @@ The Secretary shall, by notice published in the Federal Register, establish such
 
 #### (b) Consultation
 
-In establishing requirements to carry out the provisions of this part, and in considering applications under this part, the Secretary shall consult with officials of the appropriate agencies ofthe Department of Health and Human Services and with representative provider and public interest groups.
+In establishing requirements to carry out the provisions of this part, and in considering applications under this part, the Secretary shall consult with officials of the appropriate agencies of the Department of Health and Human Services and with representative provider and public interest groups.
 
 #### (c) Eligibility for SSI and medicaid
 

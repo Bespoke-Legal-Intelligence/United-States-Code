@@ -2,30 +2,23 @@
 
 (a) For the purposes of this section, the term “administrative law judge” means an administrative law judge appointed under section 3105.
 
-(b)(1) There shall be 3 levels of basic pay for administrative law judges (designated as AL–1, 2, and 3, respectively), and each such judge shall be paid at 1 of those levels, in accordance with the provisions of this section. The rates of basic pay for those levels shall be as follows:
+(b)(1)(A) There shall be 3 levels of basic pay for administrative law judges (designated as AL–1, 2, and 3, respectively), and each such judge shall be paid at 1 of those levels, in accordance with the provisions of this section.
 
-&nbsp;
+(B) Within level AL–3, there shall be 6 rates of basic pay, designated as AL–3, rates A through F, respectively. Level AL–2 and level AL–1 shall each have 1 rate of basic pay.
 
-| &nbsp; | &nbsp; |
-| :--- | ---: |
-| AL–3, rate A | 65 percent of the rate of basic pay for level IV of the Executive Schedule. |
-| AL–3, rate B | 70 percent of the rate of basic pay for level IV of the Executive Schedule. |
-| AL–3, rate C | 75 percent of the rate of basic pay for level IV of the Executive Schedule. |
-| AL–3, rate D | 80 percent of the rate of basic pay for level IV of the Executive Schedule. |
-| AL–3, rate E | 85 percent of the rate of basic pay for level IV of the Executive Schedule. |
-| AL–3, rate F | 90 percent of the rate of basic pay for level IV of the Executive Schedule. |
-| AL–2 | 95 percent of the rate of basic pay for level IV of the Executive Schedule. |
-| AL–1 | The rate of basic pay for level IV of the Executive Schedule. |
+(C) The rate of basic pay for AL–3, rate A, may not be less than 65 percent of the rate of basic pay for level IV of the Executive Schedule, and the rate of basic pay for AL–1 may not exceed the rate for level IV of the Executive Schedule.
 
 (2) The Office of Personnel Management shall determine, in accordance with procedures which the Office shall by regulation prescribe, the level in which each administrative-law-judge position shall be placed and the qualifications to be required for appointment to each level.
 
-(3)(A) Upon appointment to a position in AL–3, an administrative law judge shall be paid at rate A of AL–3, and shall be advanced successively to rates B, C, and D of that level upon completion of 52 weeks of service in the next lower rate, and to rates E and F of that level upon completion of 104 weeks of service in the next lower rate.
+(3)(A) Upon appointment to a position in AL–3, an administrative law judge shall be paid at rate A of AL–3, and shall be advanced successively to rates B, C, and D of that level at the beginning of the next pay period following completion of 52 weeks of service in the next lower rate, and to rates E and F of that level at the beginning of the next pay period following completion of 104 weeks of service in the next lower rate.
 
 (B) The Office of Personnel Management may provide for appointment of an administrative law judge in AL–3 at an advanced rate under such circumstances as the Office may determine appropriate.
 
+(4) Subject to paragraph (1), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 in the rates of basic pay under the General Schedule, each rate of basic pay for administrative law judges shall be adjusted by an amount determined by the President to be appropriate.
+
 (c) The Office of Personnel Management shall prescribe regulations necessary to administer this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, §5362; Pub. L. 95–251, §2(a)(1), (b)(1), Mar. 27, 1978, 92 Stat. 183; renumbered §5372 and amended Pub. L. 95–454, title VIII, §801(a)(3)(A)(ii), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 101–509, title V, §529 \[title I, §104(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1445; Pub. L. 102–378, §2(32), Oct. 2, 1992, 106 Stat. 1350.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, §5362; Pub. L. 95–251, §2(a)(1), (b)(1), Mar. 27, 1978, 92 Stat. 183; renumbered §5372 and amended Pub. L. 95–454, title VIII, §801(a)(3)(A)(ii), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 101–509, title V, §529 \[title I, §104(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1445; Pub. L. 102–378, §2(32), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 106–97, §1, Nov. 12, 1999, 113 Stat. 1322.)
 
 Historical and Revision Notes
 
@@ -47,9 +40,32 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### References in Text
 
-Level IV of the Executive Schedule, referred to in subsec. (b)(1), is set out in section 5315 of this title.
+Level IV of the Executive Schedule, referred to in subsec. (b)(1)(C), is set out in section 5315 of this title.
+
+The General Schedule, referred to in subsec. (b)(4), is set out under section 5332 of this title.
 
 #### Amendments
+
+1999—Subsec. (b)(1). Pub. L. 106–97, §1(1), designated first sentence as subpar. (A) and struck out after first sentence the following: “The rates of basic pay for those levels shall be as follows:
+
+&nbsp;
+
+| &nbsp; | &nbsp; |
+| :--- | ---: |
+| AL–3, rate A | 65 percent of the rate of basic pay for level IV of the Executive Schedule. |
+| AL–3, rate B | 70 percent of the rate of basic pay for level IV of the Executive Schedule. |
+| AL–3, rate C | 75 percent of the rate of basic pay for level IV of the Executive Schedule. |
+| AL–3, rate D | 80 percent of the rate of basic pay for level IV of the Executive Schedule. |
+| AL–3, rate E | 85 percent of the rate of basic pay for level IV of the Executive Schedule. |
+| AL–3, rate F | 90 percent of the rate of basic pay for level IV of the Executive Schedule. |
+| AL–2 | 95 percent of the rate of basic pay for level IV of the Executive Schedule. |
+| AL–1 | The rate of basic pay for level IV of the Executive Schedule.” |
+
+Subsec. (b)(1)(B), (C). Pub. L. 106–97, §1(1), added subpars. (B) and (C).
+
+Subsec. (b)(3)(A). Pub. L. 106–97, §1(2), substituted “at the beginning of the next pay period following” for “upon” in two places.
+
+Subsec. (b)(4). Pub. L. 106–97, §1(3), added par. (4).
 
 1992—Subsec. (c). Pub. L. 102–378 substituted “shall” for “shall,”.
 
@@ -70,6 +86,44 @@ Amendment by section 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 
 #### Conversion Rule for Administrative Law Judges
 
 Section 529 \[title I, §104(e)\] of Pub. L. 101–509 provided that: “In making initial pay adjustments for administrative law judges after this section and the amendments made by this section \[enacting section 5372a of this title, amending this section, sections 5102, 5311, and 5335 of this title, section 938 of Title 30, Mineral Lands and Mining, and section 607 of Title 41, Public Contracts\] take effect \[see Effective Date of 1990 Amendment note set out under section 5301 of this title\], the rate of basic pay for any such judge shall, upon conversion to the new pay system, be at least equal to the rate which was payable to that individual immediately before such conversion.”
+
+#### Pay Increases
+
+2000—The President, under Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, set out as a note under section 5332 of this title, adjusted the rates of basic pay for administrative law judges effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2000, as follows:
+
+AL–3/A
+
+$79,900
+
+AL–3/B
+
+86,000
+
+AL–3/C
+
+92,200
+
+AL–3/D
+
+98,300
+
+AL–3/E
+
+104,500
+
+AL–3/F
+
+110,600
+
+AL–2
+
+116,800
+
+AL–1
+
+122,400
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Cross References
 

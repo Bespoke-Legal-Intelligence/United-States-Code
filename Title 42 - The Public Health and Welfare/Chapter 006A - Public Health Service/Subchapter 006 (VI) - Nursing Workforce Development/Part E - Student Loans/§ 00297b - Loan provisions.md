@@ -12,13 +12,13 @@ Loans from any such student loan fund by any school shall be made on such terms 
 
 &emsp;(2) such a loan shall be repayable in equal or graduated periodic installments (with the right of the borrower to accelerate repayment) over the ten-year period which begins nine months after the student ceases to pursue a full-time or half-time course of study at a school of nursing, excluding from such 10-year period all (A) periods (up to three years) of (i) active duty performed by the borrower as a member of a uniformed service, or (ii) service as a volunteer under the Peace Corps Act \[22 U.S.C. 2501 et seq.\], (B) periods (up to ten years) during which the borrower is pursuing a full-time or half-time course of study at a collegiate school of nursing leading to baccalaureate degree in nursing or an equivalent degree, or to graduate degree in nursing, or is otherwise pursuing advanced professional training in nursing (or training to be a nurse anesthetist), and (C) such additional periods under the terms of paragraph (8) of this subsection;
 
-&emsp;(3) in the case of a student who received such a loan before September 29, 1979, an amount up to 85 per centum of any such loan made before such date (plus interest thereon) shall be canceled for full-time employment as a professional nurse (including teaching in any of the fields of nurse training and service as an administrator, supervisor, or consultant in anyof the fields of nursing) in any public or nonprofit private agency, institution, or organization (including neighborhood health centers), at the rate of 15 per centum of the amount of such loan (plus interest) unpaid on the first day of such service for each of the first, second, and third complete year of such service, and 20 per centum of such amount (plus interest) for each complete fourth and fifth year of such service;
+&emsp;(3) in the case of a student who received such a loan before September 29, 1979, an amount up to 85 per centum of any such loan made before such date (plus interest thereon) shall be canceled for full-time employment as a professional nurse (including teaching in any of the fields of nurse training and service as an administrator, supervisor, or consultant in any of the fields of nursing) in any public or nonprofit private agency, institution, or organization (including neighborhood health centers), at the rate of 15 per centum of the amount of such loan (plus interest) unpaid on the first day of such service for each of the first, second, and third complete year of such service, and 20 per centum of such amount (plus interest) for each complete fourth and fifth year of such service;
 
 &emsp;(4) the liability to repay the unpaid balance of such loan and accrued interest thereon shall be canceled upon the death of the borrower, or if the Secretary determines that he has become permanently and totally disabled;
 
 &emsp;(5) such a loan shall bear interest on the unpaid balance of the loan, computed only for periods during which the loan is repayable, at the rate of 5 percent per annum;
 
-&emsp;(6) such a loan shall be made without security or endorsement, except that if the borrower is a minor and the note or other evidence of obligation executed by him would not, under the applicable law, create a binding obligation, either security or endorsement may be required;
+&emsp;(6) such a loan shall be made without security or endorsement, except that if the borrower is a minor and the note or other evidence of obligation executed by him wouldnot, under the applicable law, create a binding obligation, either security or endorsement may be required;
 
 &emsp;(7) no note or other evidence of any such loan may be transferred or assigned by the school making the loan except that, if the borrower transfers to another school participating in the program under this subpart <sup>1</sup> such note or other evidence of a loan may be transferred to such other school; and
 
@@ -56,7 +56,7 @@ Notwithstanding the amendment made by section 6(b) of the Nurse Training Act of 
 
 #### (i) Loan repayment
 
-Upon application by a person who received, and is under an obligation to repay, any loan made to such person as a nursing student, theSecretary may undertake to repay (without liability to the applicant) all or any part of such loan, and any interest or portion thereof outstanding thereon, upon his determination, pursuant to regulations establishing criteria therefor, that the applicant—
+Upon application by a person who received, and is under an obligation to repay, any loan made to such person as a nursing student, the Secretary may undertake to repay (without liability to the applicant) all or any part of such loan, and any interest or portion thereof outstanding thereon, upon his determination, pursuant to regulations establishing criteria therefor, that the applicant—
 
 &emsp;(1) failed to complete the nursing studies with respect to which such loan was made;
 
@@ -66,7 +66,7 @@ Upon application by a person who received, and is under an obligation to repay, 
 
 #### (j) Collection by Secretary of loan in default; preconditions and procedures applicable
 
-The Secretary is authorized to attempt to collect any loan which was made under this subpart,<sup>1</sup> which is in default, and which was referred to the Secretary by a school of nursing with which the Secretary has an agreement under this subpart,<sup>1</sup> on behalf of that school under such terms and conditions as the Secretary may prescribe (including reimbursement from the school's student loan fund for expenses the Secretary may reasonably incur in attempting collection), but only if the school has complied with such requirements as the Secretary may specify by regulation with respect to the collection of loans under this subpart.<sup>1</sup> A loan so referred shall be treated as a debt subject to section 5514 of title 5. Amounts collected shall be deposited in the school's student loan fund. Whenever the Secretary desires the institution of a civil action regarding any such loan, the Secretary shall refer the matter to the Attorney General for appropriate action.
+The Secretary is authorized to attempt to collect any loan which was made under this subpart,<sup>1</sup> which is in default, and which was referred to the Secretary by a school of nursingwith which the Secretary has an agreement under this subpart,<sup>1</sup> on behalf of that school under such terms and conditions as the Secretary may prescribe (including reimbursement from the school's student loan fund for expenses the Secretary may reasonably incur in attempting collection), but only if the school has complied with such requirements as the Secretary may specify by regulation with respect to the collection of loans under this subpart.<sup>1</sup> A loan so referred shall be treated as a debt subject to section 5514 of title 5. Amounts collected shall be deposited in the school's student loan fund. Whenever the Secretary desires the institution of a civil action regarding any such loan, the Secretary shall refer the matter to the Attorney General for appropriate action.
 
 #### (k) Redesignated (j)
 
@@ -114,7 +114,7 @@ Subsec. (<i>l</i>). Pub. L. 105–392, §133(c)(1), added subsec. (<i>l</i>).
 
 1988—Subsec. (a). Pub. L. 100–607, §713(b), (c), inserted in first sentence “, except that for the final two academic years of the program involved, such total may not exceed $4,000”, substituted “$13,000” for “$10,000” in second sentence, and inserted “, to persons with exceptional financial need,” after “nurses” in third sentence.
 
-Subsec. (b)(1)(C). Pub. L. 100–607, §713(d), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “if a student who will enroll in theschool after June 30, 1986, is of exceptional financial need (as defined by regulations of the Secretary)”.
+Subsec. (b)(1)(C). Pub. L. 100–607, §713(d), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “if a student who will enroll in the school after June 30, 1986, is of exceptional financial need (as defined by regulations of the Secretary)”.
 
 Subsec. (b)(2)(B). Pub. L. 100–607, §713(e), substituted “ten” for “five” and inserted “or half-time” after “a full-time”.
 
@@ -196,7 +196,7 @@ Section 222(i) of Pub. L. 90–490 provided that: “The amendments made by subs
 
 #### Construction of 1992 Amendment
 
-Section 211(b) of Pub. L. 102–408 provided that: “With respect to section 836(h) of the Public Health Service Act \[former subsec. (h) of this section\], as in effect prior to the date of the enactment of this Act \[Oct. 13, 1992\], any agreement entered into under such section that is in effect on the day before such date remains in effect in accordance with the terms of the agreement, notwithstanding the amendment made by subsection (a) of this section \[enacting section 297n of this title, amending this section, and repealing section 297c–1 of this title\].”
+Section 211(b) of Pub. L. 102–408 provided that: “With respect to section 836(h) of the Public Health ServiceAct \[former subsec. (h) of this section\], as in effect prior to the date of the enactment of this Act \[Oct. 13, 1992\], any agreement entered into under such section that is in effect on the day before such date remains in effect in accordance with the terms of the agreement, notwithstanding the amendment made by subsection (a) of this section \[enacting section 297n of this title, amending this section, and repealing section 297c–1 of this title\].”
 
 #### Section Referred to in Other Sections
 

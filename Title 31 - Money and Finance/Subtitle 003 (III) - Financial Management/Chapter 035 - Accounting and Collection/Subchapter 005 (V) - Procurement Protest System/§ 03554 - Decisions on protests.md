@@ -26,7 +26,7 @@
 
 (2) If the head of the procuring activity responsible for a contract makes a finding under section 3553(d)(3)(C)(i)(I) of this title, the Comptroller General shall make recommendations under this subsection without regard to any cost or disruption from terminating, recompeting, or reawarding the contract.
 
-(3) If the Federal agency fails to implement fully the recommendations of the Comptroller General under this subsection with respect to a solicitation for a contract or an award or proposed award of a contract within 60 days after receiving the recommendations, the head of theprocuring activity responsible for that contract shall report such failure to the Comptroller General not later than 5 days after the end of such 60-day period.
+(3) If the Federal agency fails to implement fully the recommendations of the Comptroller General under this subsection with respect to a solicitation for a contract or an award or proposed award of a contract within 60 days after receiving the recommendations, the head of the procuring activity responsible for that contract shall report such failure to the Comptroller General not later than 5 days after the end of such 60-day period.
 
 (c)(1) If the Comptroller General determines that a solicitation for a contract or a proposed award or the award of a contract does not comply with a statute or regulation, the Comptroller General may recommend that the Federal agency conducting the procurement pay to an appropriate interested party the costs of—
 
@@ -40,7 +40,7 @@
 
 &emsp;(B) costs for attorneys’ fees that exceed $150 per hour unless the agency determines, based on the recommendation of the Comptroller General on a case by case basis, that an increase in the cost of living or a special factor, such as the limited availability of qualified attorneys for the proceedings involved, justifies a higher fee.
 
-(3) If the Comptroller General recommends under paragraph (1) that a Federal agency pay costs to an interested party, the Federal agency shall—
+(3) If the Comptroller General recommends under paragraph (1) that a Federal agency paycosts to an interested party, the Federal agency shall—
 
 &emsp;(A) pay the costs promptly; or
 

@@ -6,15 +6,17 @@
 
 | Grade | Army | Navy | Air Force | Marine Corps |
 | :--- | :---: | :---: | :---: | ---: |
-| Major or Lieutenant Commander | 3,219 | 1,071 | 791 | 140 |
-| Lieutenant Colonel or Commander | 1,524 | 520 | 713 | 90 |
-| Colonel or Navy Captain | 438 | 188 | 297 | 30 |
+| Major or Lieutenant Commander | 3,227 | 1,071 | 860 | 140 |
+| Lieutenant Colonel or Commander | 1,611 | 520 | 777 | 90 |
+| Colonel or Navy Captain | 471 | 188 | 297 | 30 |
 
 (b) Whenever the number of officers serving in any grade is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.
 
-(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844, §524; amended Pub. L. 97–86, title V, §503(b), Dec. 1, 1981, 95 Stat. 1108; Pub. L. 97–252, title V, §503(b), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, §503(b), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§413(b), 414(a)(4)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2518, 2519; Pub. L. 99–145, title IV, §413(b), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180, div. A, title IV, §413(b), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, §413(b), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, §413(b), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, §413(b), Nov. 30, 1993, 107 Stat. 1642; renumbered §12011 and amended Pub. L. 103–337, div. A, title XVI, §1662(a)(2), Oct. 5,1994, 108 Stat. 2988; Pub. L. 104–106, div. A, title IV, §414(a), Feb. 10, 1996, 110 Stat. 288; Pub. L. 105–261, div. A, title IV, §414(a), Oct. 17, 1998, 112 Stat. 1998.)
+(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844, §524; amended Pub. L. 97–86, title V, §503(b), Dec. 1, 1981, 95 Stat. 1108; Pub. L. 97–252, title V, §503(b), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, §503(b), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§413(b), 414(a)(4)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2518, 2519; Pub. L. 99–145, title IV, §413(b), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180, div. A, title IV, §413(b), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, §413(b), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, §413(b), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, §413(b), Nov. 30, 1993, 107 Stat. 1642; renumbered §12011 and amended Pub. L. 103–337, div. A, title XVI, §1662(a)(2), Oct. 5, 1994, 108 Stat. 2988; Pub. L. 104–106, div. A, title IV, §414(a), Feb. 10, 1996, 110 Stat. 288; Pub. L. 105–261, div. A, title IV, §414(a), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(a), Oct. 5, 1999, 113 Stat. 586.)
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–65 amended table generally, increasing the fiscal year limitation on number of reserve officers in the Army in grade of Major or Lieutenant Commander from 3,219 to 3,227, in grade of Lieutenant Colonel or Commander from 1,524 to 1,611, and in grade of Colonel or Navy Captain from 438 to 471, and in the Air Force in grade of Major or Lieutenant Commander from 791 to 860 and in grade of Lieutenant Colonel or Commander from 713 to 777.
 
 1998—Subsec. (a). Pub. L. 105–261, in table, increased fiscal year limitation on number of reserve officers in the Army in grade of Colonel or Navy Captain from 412 to 438 and in the Air Force in grade of Major or Lieutenant Commander from 643 to 791, in grade of Lieutenant Colonel or Commander from 672 to 713, and in grade of Colonel or Navy Captain from 274 to 297.
 

@@ -24,7 +24,7 @@ Composition.—(1) A board appointed under this section to inquire into the wher
 
 (d)
 
-Duties of Board.—A board appointed to conduct an inquiry into the whereabouts and status of a missing person under this section shall—
+Duties of Board.—A board appointed to conduct an inquiry into the whereabouts andstatus of a missing person under this section shall—
 
 &emsp;(1) collect, develop, and investigate all facts and evidence relating to the disappearance or whereabouts and status of the person;
 
@@ -98,7 +98,7 @@ Determination by Secretary.—(1) Not later than 30 days after receiving a repor
 
 (2) In reviewing a report under paragraph (1), the Secretary shall determine whether or not the report is complete and free of administrative error. If the Secretary determines that the report is incomplete, or that the report is not free of administrative error, the Secretary may return the report to the board for further action on the report by the board.
 
-(3) Upon a determination by the Secretary that a report reviewed under this subsection is complete and free of administrative error, the Secretary shall make a determination concerning the status of each person covered by the report, including whether the person shall—
+(3) Upon a determination by the Secretary that a report reviewed under this subsection is complete and free of administrative error, theSecretary shall make a determination concerning the status of each person covered by the report, including whether the person shall—
 
 &emsp;(A) be declared to be missing;
 

@@ -44,7 +44,7 @@
 
 (1) In any case in which the Secretary of Energy determines that the Secretary may be required to indemnify a person or entity under this section for any claim for injury to person or property referred to in subsection (b)(1) of this section, the Secretary may settle or defend the claim on behalf of that person or entity.
 
-(2) In any case described in paragraph (1), if the person or entity that the Secretary may be required to indemnify does not allow the Secretary to settle or defend the claim, the person or entity may not be indemnified with respect to that claim under this section.
+(2) In any case described in paragraph (1), if the person or entity that the Secretary may berequired to indemnify does not allow the Secretary to settle or defend the claim, the person or entity may not be indemnified with respect to that claim under this section.
 
 #### (e) Relationship to other law
 
@@ -66,5 +66,5 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### “Congressional Defense Committees” Defined
 
-Congressional defense committees means the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security (now Committee on Armed Services) and the Committee on Appropriations of the House of Representatives, see section 3 of Pub. L. 105–85, 111 Stat. 1645.
+Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 105–85, 111 Stat. 1645, as amended by Pub. L. 106–65, div. A, title X, §1067(4), Oct. 5, 1999, 113 Stat. 774.
 

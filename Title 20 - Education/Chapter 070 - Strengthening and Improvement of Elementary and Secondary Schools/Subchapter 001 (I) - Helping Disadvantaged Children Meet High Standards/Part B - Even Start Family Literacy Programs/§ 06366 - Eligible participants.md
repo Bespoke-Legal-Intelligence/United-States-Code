@@ -22,7 +22,7 @@ Except as provided in subsection (b) of this section, eligible participants in a
 
 &emsp;Any family participating in a program assisted under this part that becomes ineligible for such participation as a result of one or more members of the family becoming ineligible for such participation may continue to participate in the program until all members of the family become ineligible for such participation, which—
 
-&emsp;&emsp;(A) in the case of a family in which ineligibility was due to the child or children of such family attaining the age of eight, shall be in two years or when the parent or parents become ineligible due to educational advancement, whichever occurs first; and
+&emsp;&emsp;(A) in the case of a family in which ineligibility was due to the child or children ofsuch family attaining the age of eight, shall be in two years or when the parent or parents become ineligible due to educational advancement, whichever occurs first; and
 
 &emsp;&emsp;(B) in the case of a family in which ineligibility was due to the educational advancement of the parent or parents of such family, shall be when all children in the family attain the age of eight.
 

@@ -44,7 +44,7 @@ As used in this section, the term—
 
 #### Codification
 
-Another section 1908 of act Aug. 14, 1935, is classified to section 1396g–1 of this title.
+Another section 1908 of act Aug. 14, 1935, was renumbered section 1908A and is classified to section 1396g–1 of this title.
 
 #### Amendments
 

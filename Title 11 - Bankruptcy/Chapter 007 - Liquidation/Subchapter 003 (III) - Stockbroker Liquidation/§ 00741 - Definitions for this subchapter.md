@@ -62,7 +62,7 @@ In this subchapter—
 
 &emsp;&emsp;(B) any payment by such customer to the trustee, within 60 days after notice under section 342 of this title, of any business related claim of the debtor against such customer in such capacity;
 
-&emsp;(7) “securities contract” means contract for the purchase, sale, or loan of a security, including an option for the purchase or sale of a security, certificate of deposit, or group orindex of securities (including any interest therein or based on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies, or the guarantee of any settlement of cash or securities by or to a securities clearing agency;
+&emsp;(7) “securities contract” means contract for the purchase, sale, or loan of a security, including an option for the purchase or sale of a security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies, or the guarantee of any settlement of cash or securities by or to a securities clearing agency;
 
 &emsp;(8) “settlement payment” means a preliminary settlement payment, a partial settlement payment, an interim settlement payment, a settlement payment on account, a final settlement payment, or any other similar payment commonly used in the securities trade; and
 
@@ -130,7 +130,7 @@ Par. (9). Pub. L. 97–222, §8(2), (6), redesignated former par. (6) as (9) and
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

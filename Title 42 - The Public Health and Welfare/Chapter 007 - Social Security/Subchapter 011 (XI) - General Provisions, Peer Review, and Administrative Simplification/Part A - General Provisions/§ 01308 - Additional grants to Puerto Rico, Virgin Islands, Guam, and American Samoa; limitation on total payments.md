@@ -236,7 +236,7 @@ Subsec. (d). Pub. L. 92–603, §272(b), inserted “, American Samoa, and the 
 
 1961—Pub. L. 87–64, substituted “$9,500,000”, “$320,000”, and “$430,000” for “$9,425,000”, “$318,750”, and “$425,000”, respectively. See Repeals note below.
 
-Pub. L. 87–31 increased the grant to Puerto Rico for fiscal year ending June 30, 1961, from $9,000,000 to $9,075,000 and for fiscal year ending June 30, 1962, to $9,425,000; the grants to Virgin Islands and Guam from $315,000 and $420,000 to $318,750 and $425,000, respectively; and payments under section 303(a)(2)(B) of this title to Puerto Rico, Virgin Islands and Guam from$500,000, $15,000 and $20,000 to $625,000, $18,750 and $25,000, respectively. See also Limitation on Payments note below.
+Pub. L. 87–31 increased the grant to Puerto Rico for fiscal year ending June 30, 1961, from $9,000,000 to $9,075,000 and for fiscal year ending June 30, 1962, to $9,425,000; the grants to Virgin Islands and Guam from $315,000 and $420,000 to $318,750 and $425,000, respectively; and payments under section 303(a)(2)(B) of this title to Puerto Rico, Virgin Islands and Guam from $500,000, $15,000 and $20,000 to $625,000, $18,750 and $25,000, respectively. See also Limitation on Payments note below.
 
 1960—Pub. L. 86–778 substituted “$9,000,000, of which $500,000 may be used only for payments certified with respect to section 303(a)(2)(B) of this title” for “$8,500,000”, “$315,000, of which $15,000 may be used only for payments certified in respect to section 303(a)(2)(B) of this title” for “$300,000”, “$420,000, of which $20,000 may be used only for payments certified in respect to section 303(a)(2)(B) of this title” for “$400,000”, and “subchapters I (other than section 303(a)(3) thereof)” for “subchapters I”.
 

@@ -10,7 +10,7 @@ Any person in the service of the United States authorized by this section to mak
 
 Based on sections 246, 248, 252 of title 25, U.S.C., 1940 ed., Indians (R.S. §2140; Mar. 1, 1907, ch. 2285, 34 Stat. 1017; May 18, 1916, ch. 125, §1, 39 Stat. 124).
 
-Said sections 246, 248, and 252 were consolidated. References to Indian agent and subagent were deleted since those positions no longer exist. See section 64 of title 25, U.S.C., 1940 ed., Indians, and notes thereunder.
+Said sections 246, 248, and 252 were consolidated. References to Indian agent and subagent were deletedsince those positions no longer exist. See section 64 of title 25, U.S.C., 1940 ed., Indians, and notes thereunder.
 
 Words “except such as are kept or used for scientific, sacramental, medicinal or mechanical purposes” were inserted. See reviser's note under section 1154 of this title.
 

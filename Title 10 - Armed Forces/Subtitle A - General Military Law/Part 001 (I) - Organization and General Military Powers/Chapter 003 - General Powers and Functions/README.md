@@ -18,11 +18,14 @@
 | [129b.](%C2%A7%2000129b%20-%20Experts%20and%20consultants%20authority%20to%20procure%20services%20of.md) | Experts and consultants: authority to procure services of. |
 | [129c.](%C2%A7%2000129c%20-%20Medical%20personnel%20limitations%20on%20reductions.md) | Medical personnel: limitations on reductions. |
 | [130\.](%C2%A7%2000130%20-%20Authority%20to%20withhold%20from%20public%20disclosure%20certain%20technical%20data.md) | Authority to withhold from public disclosure certain technical data. |
-| [130a.](%C2%A7%2000130a%20-%20Management%20headquarters%20and%20headquarters%20support%20activities%20personnel%20limitation.md) | Management headquarters and headquarters support activities personnel: limitation. |
+| [130a.](%C2%A7%2000130a%20-%20Major%20Department%20of%20Defense%20headquarters%20activities%20personnel%20limitation.md) | Major Department of Defense headquarters activities personnel: limitation. |
+| [130b.](%C2%A7%2000130b%20-%20Personnel%20in%20overseas%2C%20sensitive%2C%20or%20routinely%20deployable%20units%20nondisclosure%20of%20personally%20identifying%20information.md) | Personnel in overseas, sensitive, or routinely deployable units: nondisclosure of personally identifying information. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title IX, §921(a)(2), title X, §1044(b), Oct. 5, 1999, 113 Stat. 723, 762, substituted “Major Department of Defense headquarters activities personnel: limitation” for “Management headquarters and headquarters support activities personnel: limitation” in item 130a and added item 130b.
 
 1997—Pub. L. 105–85, div. A, title IX, §911(a)(2), Nov. 18, 1997, 111 Stat. 1858, added item 130a.
 
@@ -71,4 +74,5 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 �
 - [&sect; 00129b - Experts and consultants authority to procure services of](%C2%A7%2000129b%20-%20Experts%20and%20consultants%20authority%20to%20procure%20services%20of.md)
 - [&sect; 00129c - Medical personnel limitations on reductions](%C2%A7%2000129c%20-%20Medical%20personnel%20limitations%20on%20reductions.md)
 - [&sect; 00130 - Authority to withhold from public disclosure certain technical data](%C2%A7%2000130%20-%20Authority%20to%20withhold%20from%20public%20disclosure%20certain%20technical%20data.md)
-- [&sect; 00130a - Management headquarters and headquarters support activities personnel limitation](%C2%A7%2000130a%20-%20Management%20headquarters%20and%20headquarters%20support%20activities%20personnel%20limitation.md)
+- [&sect; 00130a - Major Department of Defense headquarters activities personnel limitation](%C2%A7%2000130a%20-%20Major%20Department%20of%20Defense%20headquarters%20activities%20personnel%20limitation.md)
+- [&sect; 00130b - Personnel in overseas, sensitive, or routinely deployable units nondisclosure of personally identifying information](%C2%A7%2000130b%20-%20Personnel%20in%20overseas%2C%20sensitive%2C%20or%20routinely%20deployable%20units%20nondisclosure%20of%20personally%20identifying%20information.md)

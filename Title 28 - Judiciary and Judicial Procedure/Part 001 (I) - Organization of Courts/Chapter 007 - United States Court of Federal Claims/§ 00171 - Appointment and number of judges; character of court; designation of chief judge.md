@@ -34,7 +34,7 @@ Minor changes were made in arrangement and phraseology.
 
 #### Change of Name
 
-Section 902(b) of Pub. L. 102–572 provided that: “Reference in any other Federal law \[meaning any Federal law other than chapters 7, 51, 91, and 165 of this title\] or any document to—
+Section 902(b) of Pub. L. 102–572 provided that: “Reference in any other Federal law \[meaning any Federallaw other than chapters 7, 51, 91, and 165 of this title\] or any document to—
 
 &emsp;“(1) the ‘United States Claims Court’ shall be deemed to refer to the ‘United States Court of Federal Claims’; and
 
@@ -50,7 +50,7 @@ Section 402 of Pub. L. 97–164 provided that: “Unless otherwise specified, th
 
 #### Continued Service of Commissioners of Court of Claims as Judges
 
-Section 167 of Pub. L. 97–164 provided that Commissioners of United States Court of Claims serving immediately prior to Oct. 1, 1982, became judges of UnitedStates Claims Court \[now United States Court of Federal Claims\] on such date, with initial terms expiring 15 years after date of employment or on Oct. 1, 1986, whichever occurred earlier, and with salaries equal to salaries of Commissioners of Court of Claims.
+Section 167 of Pub. L. 97–164 provided that Commissioners of United States Court of Claims serving immediately prior to Oct. 1, 1982, became judges of United States Claims Court \[now United States Court of Federal Claims\] on such date, with initial terms expiring 15 years after date of employment or on Oct. 1, 1986, whichever occurred earlier, and with salaries equal to salaries of Commissioners of Court of Claims.
 
 #### Tennessee Valley Authority Legal Representation
 

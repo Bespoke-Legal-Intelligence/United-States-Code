@@ -44,7 +44,7 @@ Section inapplicable to 1978 through 1981 crops of upland cotton, see section 60
 
 Pub. L. 94–214, title III, §301, Feb. 16, 1976, 90 Stat. 187, provided that: “Section 377 of the Agricultural Adjustment Act of 1938 \[this section\] shall not be applicable to the 1976 and 1977 crops of rice.”
 
-Pub. L. 91–524, title VI, §601(1), Nov. 30, 1970, 84 Stat. 1371, as amended by Pub. L. 93–86, §1(19)(A), Aug. 10, 1973, 87 Stat. 233, provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
+Pub. L. 91–524, title VI, §601(1), Nov. 30, 1970, 84 Stat. 1371, as amended by Pub. L. 93–86, §1(19)(A), Aug. 10,1973, 87 Stat. 233, provided that this section is inapplicable to 1971 through 1977 crops of upland cotton.
 
 #### Section Referred to in Other Sections
 

@@ -44,7 +44,7 @@ The Secretary may make grants or contracts under this section to help entities f
 
 #### (C) Limitation
 
-&emsp;&emsp;An institution that receives a grant under this section shall use amounts received under such grant to supplement, not supplant, amounts made available by such institution for activities of the type described in subsection (b)(1) of this section in the fiscal year preceding the year for which the grant is received.
+&emsp;&emsp;An institution that receives a grant under this section shall use amounts receivedunder such grant to supplement, not supplant, amounts made available by such institution for activities of the type described in subsection (b)(1) of this section in the fiscal year preceding the year for which the grant is received.
 
 #### (c) Applications
 

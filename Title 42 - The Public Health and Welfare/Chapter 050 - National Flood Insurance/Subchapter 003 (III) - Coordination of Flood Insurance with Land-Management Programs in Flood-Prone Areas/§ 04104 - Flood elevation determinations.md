@@ -2,7 +2,7 @@
 
 #### (a) Publication or notification of proposed flood elevation determinations
 
-In establishing projected flood elevations for land use purposes with respect to any community pursuant to section 4102 of this title, the Director shall first propose such determinations by publication for comment in the Federal Register, by direct notification to the chief executive officer of the community, and by publication in a prominent local newspaper.
+In establishing projected flood elevations for land use purposes with respect to any community pursuant to section 4102 of this title, the Director shall first propose such determinationsby publication for comment in the Federal Register, by direct notification to the chief executive officer of the community, and by publication in a prominent local newspaper.
 
 #### (b) Publication of flood elevation determinations; appeal of owner or lessee to local government; scientific or technical knowledge or information as basis for appeal; modification of proposed determinations
 

@@ -70,7 +70,7 @@ Title IV, referred to in subsec. (c)(2)(D), (3), means title IV of Pub. L. 101�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 29 sections 762.
+This section is referred to in title 29 section 762.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
 

@@ -1,6 +1,6 @@
 ### §1551. Correction of name after separation from service under an assumed name
 
-The Secretary of the military department concerned shall issue a certificate of discharge or an order of acceptance of resignation in the true name of any person who was separated from the Army, Navy, Air Force, or Marine Corps honorably or under honorable conditions after serving under an assumed name during a war with another nation or people, upon application by, or on behalf of, that person, and upon proof of his identity. However, a certificate or order may not be issued under this section if the name was assumed to conceal a crime or to avoid its consequences.
+The Secretary of the military department concerned shall issue a certificate of discharge or an order of acceptance of resignation in the true name of any person who was separated from the Army, Navy, Air Force, or Marine Corps honorably or under honorable conditions after serving under an assumed name during a war with another nation or people, upon application by, or on behalf of, that person, and upon proof of his identity. However, a certificate or order maynot be issued under this section if the name was assumed to conceal a crime or to avoid its consequences.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 116.)
 
@@ -34,7 +34,7 @@ Pub. L. 105–261, div. A, title V, §541, Oct. 17, 1998, 112 Stat. 2019, provid
 
 Limitation.—During fiscal years 1999, 2000, and 2001, the Secretary of a military department may not carry out any reduction in the number of military and civilian personnel assigned to duty with the service review agency for that military department below the baseline number for that agency until—
 
-&emsp;“(1) the Secretary submits to Congress a report that describes the reduction proposed to be made,provides the Secretary's rationale for that reduction, and specifies the number of such personnel that would be assigned to duty with that agency after the reduction; and
+&emsp;“(1) the Secretary submits to Congress a report that describes the reduction proposed to be made, provides the Secretary's rationale for that reduction, and specifies the number of such personnel that would be assigned to duty with that agency after the reduction; and
 
 &emsp;“(2) a period of 90 days has elapsed after the date on which such report is submitted.
 

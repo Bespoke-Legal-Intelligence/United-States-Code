@@ -14,7 +14,7 @@
 
 &emsp;Written notification required under this subsection shall include—
 
-&emsp;&emsp;(A) a warning, in a form to be established by the Director, stating that the building on the improved real estate securing the loan is located, or the mobile home securing theloan is or is to be located, in an area having special flood hazards;
+&emsp;&emsp;(A) a warning, in a form to be established by the Director, stating that the building on the improved real estate securing the loan is located, or the mobile home securing the loan is or is to be located, in an area having special flood hazards;
 
 &emsp;&emsp;(B) a description of the flood insurance purchase requirements under section 102(b) of the Flood Disaster Protection Act of 1973 \[42 U.S.C. 4012a(b)\];
 
@@ -40,7 +40,7 @@ The Director (or the designee of the Director) shall, not less than 45 days befo
 
 #### References in Text
 
-The Flood Disaster Protection Act of 1973, referred to in subsec. (a)(1), (2), is Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, as amended, which enacted sections 4002, 4003, 4012a, 4104, 4104a, 4105 to 4107, and 4128 of this title, amended sections 4001, 4013 to 4016, 4026, 4054, 4056, 4101, and 4121 of this title and sections 24 and 1709–1 of Title 12, Banks and Banking, repealed section 4021 of this title, and enacted provision set out as a note under section 4001 of this title. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of this title and Tables.
+The Flood Disaster Protection Act of 1973, referred to in subsec. (a)(1), (2), is Pub. L. 93–234, Dec. 31, 1973, 87Stat. 975, as amended, which enacted sections 4002, 4003, 4012a, 4104, 4104a, 4105 to 4107, and 4128 of this title, amended sections 4001, 4013 to 4016, 4026, 4054, 4056, 4101, and 4121 of this title and sections 24 and 1709–1 of Title 12, Banks and Banking, repealed section 4021 of this title, and enacted provision set out as a note under section 4001 of this title. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of this title and Tables.
 
 #### Amendments
 

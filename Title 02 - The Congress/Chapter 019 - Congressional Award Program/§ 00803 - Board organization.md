@@ -4,13 +4,13 @@
 
 (1) The Board shall consist of 25 members, as follows:
 
-&emsp;(A) Six members appointed by the majority leader of the Senate, 1 of whom shall be a member of the Congressional Award Association.
+&emsp;(A) Six members appointed by the majority leader of the Senate, 1 of whom shall be a recipient of the Congressional Award.
 
-&emsp;(B) Six members appointed by the minority leader of the Senate, 1 of whom shall be a representative of a local Congressional Award Council.
+&emsp;(B) Six members appointed by the minority leader of the Senate, 1 of whom shall be a a <sup>1</sup> local Congressional Award program volunteer.
 
-&emsp;(C) Six members appointed by the Speaker of the House of Representatives, 1 of whom shall be a representative of a local Congressional Award Council.
+&emsp;(C) Six members appointed by the Speaker of the House of Representatives, 1 of whom shall be a a <sup>1</sup> local Congressional Award program volunteer.
 
-&emsp;(D) Six members appointed by the minority leader of the House of Representatives, 1 of whom shall be a member of the Congressional Award Association.
+&emsp;(D) Six members appointed by the minority leader of the House of Representatives, 1 of whom shall be a recipient of the Congressional Award.
 
 &emsp;(E) The Director of the Board, who shall serve as a nonvoting member.
 
@@ -34,7 +34,7 @@
 
 (3)(A) Subject to the limitations in subparagraphs (B) and (C) of this paragraph, members of the Board may be reappointed, provided that no member may serve more than 2 consecutive terms.
 
-(B) Members of the Board covered under paragraph (2)(A) of this section <sup>1</sup> shall not be eligible for reappointment to the Board. Members of the Board covered under subparagraphs (B) and (C) of paragraph (2) of this section <sup>1</sup> may be reappointed for 1 additional consecutive 4 year term.
+(B) Members of the Board covered under paragraph (2)(A) of this section <sup>2</sup> shall not be eligible for reappointment to the Board. Members of the Board covered under subparagraphs (B) and (C) of paragraph (2) of this section <sup>2</sup> may be reappointed for 1 additional consecutive 4 year term.
 
 (C) Members of the Board who serve as chairman of the Board shall not have the time during which they serve as chairman used in the computation of their period of service for purposes of this paragraph and paragraph (2).
 
@@ -82,9 +82,15 @@ The Board shall establish such bylaws and other regulations as may be appropriat
 
 Any member of the Board who fails to attend 4 consecutive Board meetings scheduled pursuant to the bylaws of the Board and for which proper notice has been given under such bylaws, or to send a designee of such member (approved in advance by the Board under provisions of its bylaws), is, by operation of this subsection, removed, for cause, from the Board as of the date of the last meeting from which they are absent. The Chairman of the Board shall take such steps as are necessary to inform members who have 3 absences of this subsection. The Chairman shall notify the House and the Senate, including the appropriate committees of each body, whenever there is a vacancy created by the operation of this subsection.
 
-(Pub. L. 96–114, §4, Nov. 16, 1979, 93 Stat. 852; Pub. L. 98–33, §1, May 25, 1983, 97 Stat. 194; Pub. L. 99–161, §§2, 4(d), (e), Nov. 25, 1985, 99 Stat. 934, 935; Pub. L. 100–674, §2(b), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §§4–6, Nov. 6, 1990, 104 Stat. 2305, 2306.)
+(Pub. L. 96–114, §4, Nov. 16, 1979, 93 Stat. 852; Pub. L. 98–33, §1, May 25, 1983, 97 Stat. 194; Pub. L. 99–161, §§2, 4(d), (e), Nov. 25, 1985, 99 Stat. 934, 935; Pub. L. 100–674, §2(b), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §§4–6, Nov. 6, 1990, 104 Stat. 2305, 2306; Pub. L. 106–63, §1(b), Oct. 1, 1999, 113 Stat. 510.)
 
 #### Amendments
+
+1999—Subsec. (a)(1)(A). Pub. L. 106–63, §1(b)(1), substituted “recipient of the Congressional Award” for “member of the Congressional Award Association”.
+
+Subsec. (a)(1)(B), (C). Pub. L. 106–63, §1(b)(2), substituted “a local Congressional Award program volunteer” for “representative of a local Congressional Award Council”.
+
+Subsec. (a)(1)(D). Pub. L. 106–63, §1(b)(1), substituted “recipient of the Congressional Award” for “member of the Congressional Award Association”.
 
 1990—Subsec. (a)(4). Pub. L. 101–525, §4, added par. (4).
 
@@ -120,5 +126,7 @@ Section 3 of Pub. L. 100–674 provided that: “Not later than 120 days after t
 
 Section 2 of Pub. L. 98–33, relating to exceptional terms for certain individuals appointed to the Congressional Award Board, was repealed by Pub. L. 99–161, §5, Nov. 25, 1985, 99 Stat. 936.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “subsection”.</i>
 

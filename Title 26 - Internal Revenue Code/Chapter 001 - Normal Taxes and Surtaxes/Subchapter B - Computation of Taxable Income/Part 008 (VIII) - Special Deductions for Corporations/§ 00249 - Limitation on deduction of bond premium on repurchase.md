@@ -26,7 +26,7 @@ For purposes of subsection (a)—
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, see section 44 of Pub.L. 98–369, set out as an Effective Date note under section 1271 of this title.
+Amendment by Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, see section 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
 
 #### Effective Date of 1976 Amendment
 

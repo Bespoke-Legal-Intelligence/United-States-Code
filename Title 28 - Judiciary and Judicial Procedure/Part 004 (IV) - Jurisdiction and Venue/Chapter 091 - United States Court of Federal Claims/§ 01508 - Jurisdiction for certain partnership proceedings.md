@@ -2,7 +2,7 @@
 
 The Court of Federal Claims shall have jurisdiction to hear and to render judgment upon any petition under section 6226 or 6228(a) of the Internal Revenue Code of 1986.
 
-(Added Pub. L. 97–248, title IV, §402(c)(18)(A), Sept. 3, 1982, 96 Stat. 669; amended Pub. L. 99–514,§2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title IX, §902(a)(2), Oct. 29, 1992, 106 Stat. 4516.)
+(Added Pub. L. 97–248, title IV, §402(c)(18)(A), Sept. 3, 1982, 96 Stat. 669; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title IX, §902(a)(2), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### References in Text
 

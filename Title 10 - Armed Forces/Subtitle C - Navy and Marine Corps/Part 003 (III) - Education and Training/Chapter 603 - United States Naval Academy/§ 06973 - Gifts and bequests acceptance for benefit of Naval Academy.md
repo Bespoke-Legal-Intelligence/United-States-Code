@@ -4,7 +4,7 @@
 
 (b) For the purpose of Federal income, estate, and gift taxes, property that is accepted under this section is considered as a gift or bequest to or for the use of the United States.
 
-(c) Upon the request of the Secretary of the Navy, the Secretary of the Treasury may invest, reinvest, or retain investments of money or securities comprising any part of the United States Naval Academy general gift fund in securities of the United States or in securities guaranteed as to principal and interest by the United States. The interest and benefits accruing from those securities shall be deposited to the credit of the United States Naval Academy general gift fund and may be disbursed as provided in this section.
+(c) Upon the request of the Secretary of the Navy, the Secretary of the Treasury may invest, reinvest, or retain investments of money or securities comprising any part of the United States Naval Academy general gift fund in securities of the United States or in securities guaranteed as to principal and interest by the UnitedStates. The interest and benefits accruing from those securities shall be deposited to the credit of the United States Naval Academy general gift fund and may be disbursed as provided in this section.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 436.)
 

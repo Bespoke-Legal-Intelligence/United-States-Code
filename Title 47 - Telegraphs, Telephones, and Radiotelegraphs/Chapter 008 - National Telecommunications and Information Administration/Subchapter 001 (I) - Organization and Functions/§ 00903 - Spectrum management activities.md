@@ -74,9 +74,11 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Authorization of Use of Spectrum By, and Provision of Spectrum Functions to, Federal Entity; Reimbursement
 
-Pub. L. 105–277, div. A, §101(b) \[title II\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–80, provided in part: “That hereafter, notwithstanding any other provision of law, NTIA \[National Telecommunications and Information Administration\] shall not authorize spectrum use or provide any spectrum functions pursuant to the NTIA Organization Act, 47 U.S.C. 902–903 \[47 U.S.C. 901 et seq.\], to any Federal entity without reimbursement asrequired by NTIA for such spectrum management costs, and Federal entities withholding payment of such cost shall not use spectrum”.
+Pub. L. 106–113, div. B, §1000(a)(1) \[title II\], Nov. 29, 1999, 113 Stat. 1535, 1501A–26, provided in part: “That hereafter, notwithstanding any other provision of law, NTIA \[National Telecommunications and Information Administration\] shall not authorize spectrum use or provide any spectrum functions pursuant to the National Telecommunications and Information Administration Organization Act, 47 U.S.C. 902–903 \[47 U.S.C. 901et seq.\], to any Federal entity without reimbursement as required by NTIA for such spectrum management costs, and Federal entities withholding payment of such cost shall not use spectrum”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–277, div. A, §101(b) \[title II\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–80.
 
 Pub. L. 105–119, title II, Nov. 26, 1997, 111 Stat. 2474.
 

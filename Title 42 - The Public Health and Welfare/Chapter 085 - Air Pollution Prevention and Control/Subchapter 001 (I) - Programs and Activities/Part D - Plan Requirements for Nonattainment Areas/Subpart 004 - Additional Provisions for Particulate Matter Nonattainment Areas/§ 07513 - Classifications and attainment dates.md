@@ -20,7 +20,7 @@ Every area designated nonattainment for PM–10 pursuant to section 7407(d) of t
 
 &emsp;&emsp;(A) the area shall be reclassified by operation of law as a Serious Area; and
 
-&emsp;&emsp;(B) the Administrator shall publish a notice in the Federal Register no later than 6 months following the attainment date, identifying the area as having failed to attainand identifying the reclassification described under subparagraph (A).
+&emsp;&emsp;(B) the Administrator shall publish a notice in the Federal Register no later than 6 months following the attainment date, identifying the area as having failed to attain and identifying the reclassification described under subparagraph (A).
 
 #### (c) Attainment dates
 

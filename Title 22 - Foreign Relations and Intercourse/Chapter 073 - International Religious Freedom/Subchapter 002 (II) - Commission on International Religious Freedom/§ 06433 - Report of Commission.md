@@ -12,5 +12,9 @@ The report may be submitted in classified form, together with a public summary o
 
 Each member of the Commission may include the individual or dissenting views of the member.
 
-(Pub. L. 105–292, title II, §203, Oct. 27, 1998, 112 Stat. 2799.)
+(Pub. L. 105–292, title II, §205, formerly §203, Oct. 27, 1998, 112 Stat. 2799; renumbered §205, Pub. L. 106–55, §1(b)(2), Aug. 17, 1999, 113 Stat. 401.)
+
+#### Prior Provisions
+
+A prior section 205 of Pub. L. 105–292 was renumbered section 207 and is classified to section 6435 of this title.
 

@@ -1,31 +1,13 @@
 ### SUBCHAPTER III—STATE AND LOCAL EDUCATION SYSTEMIC IMPROVEMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5802, 6041, 6065, 6066, 6311, 6314, 6320, 6649, 6702, 7207, 7814, 8821, 8857 of this title.
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 05881 - Findings](%C2%A7%2005881%20-%20Findings.md)
-- [&sect; 05882 - Purpose](%C2%A7%2005882%20-%20Purpose.md)
-- [&sect; 05883 - Authorization of appropriations](%C2%A7%2005883%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 05884 - Allotment of funds](%C2%A7%2005884%20-%20Allotment%20of%20funds.md)
-- [&sect; 05885 - State applications](%C2%A7%2005885%20-%20State%20applications.md)
-- [&sect; 05886 - State improvement plans](%C2%A7%2005886%20-%20State%20improvement%20plans.md)
-- [&sect; 05887 - Secretary's review of applications; payments](%C2%A7%2005887%20-%20Secretary%27s%20review%20of%20applications%3B%20payments.md)
-- [&sect; 05888 - State use of funds](%C2%A7%2005888%20-%20State%20use%20of%20funds.md)
-- [&sect; 05889 - Subgrants for local reform and professional development](%C2%A7%2005889%20-%20Subgrants%20for%20local%20reform%20and%20professional%20development.md)
-- [&sect; 05890 - Availability of information and training](%C2%A7%2005890%20-%20Availability%20of%20information%20and%20training.md)
-- [&sect; 05891 - Waivers of statutory and regulatory requirements](%C2%A7%2005891%20-%20Waivers%20of%20statutory%20and%20regulatory%20requirements.md)
-- [&sect; 05892 - Progress reports](%C2%A7%2005892%20-%20Progress%20reports.md)
-- [&sect; 05893 - Technical and other assistance regarding school finance equity](%C2%A7%2005893%20-%20Technical%20and%20other%20assistance%20regarding%20school%20finance%20equity.md)
-- [&sect; 05894 - National leadership](%C2%A7%2005894%20-%20National%20leadership.md)
-- [&sect; 05895 - Assistance to outlying areas and to Secretary of the Interior](%C2%A7%2005895%20-%20Assistance%20to%20outlying%20areas%20and%20to%20Secretary%20of%20the%20Interior.md)
+- [&sect; 05881 to 5891 - Repealed. Pub. L. 106&#8211;113, div. B, &sect;1000(a)(4) \[title III, &sect;310(i)\], Nov. 29, 1999, 113 Stat. 1535, 1501A&#8211;265](%C2%A7%2005881%20to%205891%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93113%2C%20div.%20B%2C%20%C2%A71000%28a%29%284%29%20%5Btitle%20III%2C%20%C2%A7310%28i%29%5D%2C%20Nov.%2029%2C%201999%2C%20113%20Stat.%201535%2C%201501A%E2%80%93265.md)
+- [&sect; 05891a - Definitions](%C2%A7%2005891a%20-%20Definitions.md)
+- [&sect; 05891b - Education flexibility partnership](%C2%A7%2005891b%20-%20Education%20flexibility%20partnership.md)
+- [&sect; 05892 to 5895 - Repealed. Pub. L. 106&#8211;113, div. B, &sect;1000(a)(4) \[title III, &sect;310(i)\], Nov. 29, 1999, 113 Stat. 1535, 1501A&#8211;265](%C2%A7%2005892%20to%205895%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93113%2C%20div.%20B%2C%20%C2%A71000%28a%29%284%29%20%5Btitle%20III%2C%20%C2%A7310%28i%29%5D%2C%20Nov.%2029%2C%201999%2C%20113%20Stat.%201535%2C%201501A%E2%80%93265.md)
 - [&sect; 05896 - Repealed. Pub. L. 104&#8211;134, title I, &sect;101(d) \[title VII, &sect;703(a)(15)(A)\], Apr. 26, 1996, 110 Stat. 1321&#8211;211, 1321&#8211;254; renumbered&#8230;](%C2%A7%2005896%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93134%2C%20title%20I%2C%20%C2%A7101%28d%29%20%5Btitle%20VII%2C%20%C2%A7703%28a%29%2815%29%28A%29%5D%2C%20Apr.%2026%2C%201996%2C%20110%20Stat.%201321%E2%80%93211%2C%201321%E2%80%93254%3B%20renumbered%E2%80%A6.md)
-- [&sect; 05897 - State planning for improving student achievement through integration of technology into curriculum](%C2%A7%2005897%20-%20State%20planning%20for%20improving%20student%20achievement%20through%20integration%20of%20technology%20into%20curriculum.md)
-- [&sect; 05898 - Prohibition on Federal mandates, direction, and control](%C2%A7%2005898%20-%20Prohibition%20on%20Federal%20mandates%2C%20direction%2C%20and%20control.md)
-- [&sect; 05899 - State and local government control of education](%C2%A7%2005899%20-%20State%20and%20local%20government%20control%20of%20education.md)
-- [&sect; 05900 - Limitations](%C2%A7%2005900%20-%20Limitations.md)
+- [&sect; 05897 to 5900 - Repealed. Pub. L. 106&#8211;113, div. B, &sect;1000(a)(4) \[title III, &sect;310(i)\], Nov. 29, 1999, 113 Stat. 1535, 1501A&#8211;265](%C2%A7%2005897%20to%205900%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93113%2C%20div.%20B%2C%20%C2%A71000%28a%29%284%29%20%5Btitle%20III%2C%20%C2%A7310%28i%29%5D%2C%20Nov.%2029%2C%201999%2C%20113%20Stat.%201535%2C%201501A%E2%80%93265.md)

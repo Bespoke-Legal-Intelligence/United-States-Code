@@ -6,7 +6,7 @@ The Secretary of Agriculture may pay a tort claim in the manner authorized by se
 
 #### (b) Period for presentation of claim
 
-A claim may not be allowed under this section unless the claim is presented in writing to the Secretary of Agriculture within 2 years after the date on which the claim accrues.
+A claim may not be allowed under this section unless the claim is presented in writing to theSecretary of Agriculture within 2 years after the date on which the claim accrues.
 
 #### (c) Finality
 

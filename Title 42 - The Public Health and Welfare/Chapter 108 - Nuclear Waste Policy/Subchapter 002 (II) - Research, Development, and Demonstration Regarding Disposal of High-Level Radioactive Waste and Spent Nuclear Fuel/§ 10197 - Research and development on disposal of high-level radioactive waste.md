@@ -24,7 +24,7 @@ Not later than 64 months after January 7, 1983, the Secretary is authorized to, 
 
 The Secretary shall design each test and evaluation facility—
 
-&emsp;(1) to be capable of receiving not more than 100 full-sized canisters of solidified high-level radioactive waste (which canisters shall notexceed an aggregate weight of 100 metric tons), except that spent nuclear fuel may be used instead of such waste if such waste cannot be obtained under reasonable conditions;
+&emsp;(1) to be capable of receiving not more than 100 full-sized canisters of solidified high-level radioactive waste (which canisters shall not exceed an aggregate weight of 100 metric tons), except that spent nuclear fuel may be used instead of such waste if such waste cannot be obtained under reasonable conditions;
 
 &emsp;(2) to permit full retrieval of solidified high-level radioactive waste, or other radioactive material used by the Secretary for testing, upon completion of the technology demonstration activities; and
 
@@ -36,7 +36,7 @@ The Secretary shall design each test and evaluation facility—
 
 &emsp;(A) conducting in situ tests of bore hole sealing, geologic media fracture sealing, and room closure to establish the techniques and performance for isolation of high-level radioactive waste, spent nuclear fuel, or other radioactive materials from the biosphere;
 
-&emsp;(B) conducting in situ tests with radioactive sources and materials to evaluate and improve reliable models for radionuclide migration, absorption, and containment within the engineered barriers and geologic media involved, if the Secretary finds there is reasonable assurance that such radioactive sources and materials will not threaten the use of such site as a repository;
+&emsp;(B) conducting in situ tests with radioactive sources and materials to evaluate and improvereliable models for radionuclide migration, absorption, and containment within the engineered barriers and geologic media involved, if the Secretary finds there is reasonable assurance that such radioactive sources and materials will not threaten the use of such site as a repository;
 
 &emsp;(C) conducting in situ tests to evaluate and improve models for ground water or brine flow through fractured geologic media;
 
@@ -76,7 +76,7 @@ The system of engineered barriers and selected geology used in a test and evalua
 
 (2) Subject to section 10225 of this title, the test and evaluation facility, and the facilities authorized in this section, shall be constructed and operated as research, development, and demonstration facilities, and shall not be subject to licensing under section 5842 of this title.
 
-(3)(A) The Commission shall carry out a continuing analysis of the activities undertaken under this section to evaluate the adequacy ofthe consideration of public health and safety issues.
+(3)(A) The Commission shall carry out a continuing analysis of the activities undertaken under this section to evaluate the adequacy of the consideration of public health and safety issues.
 
 (B) The Commission shall report to the President, the Secretary, and the Congress as the Commission considers appropriate with respect to the conduct of activities under this section.
 
@@ -88,7 +88,7 @@ The Secretary shall prepare an environmental impact statement under section 102(
 
 (1) If the test and evaluation facility is not located at the site of a repository, the Secretary shall obtain the concurrence of the Commission with respect to the decontamination and decommissioning of such facility.
 
-(2) If the test and evaluation facility is not located at a candidate site or repository site, the Secretary shall conduct only the portion of the in situ testing program required in subsection (c) of this section determined by the Secretary to be useful in carrying out the purposes of this chapter.
+(2) If the test and evaluation facility is not located at a candidate site or repository site, theSecretary shall conduct only the portion of the in situ testing program required in subsection (c) of this section determined by the Secretary to be useful in carrying out the purposes of this chapter.
 
 (3) The operation of the test and evaluation facility shall terminate not later than—
 

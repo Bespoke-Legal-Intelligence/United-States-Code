@@ -34,7 +34,7 @@ Term of Office.—The members of the Council shall be appointed for a term of of
 
 (c)
 
-Election and Duties of Officers.—The Council Chairman and Vice Chairman and other appropriate officers of the Council shall be elected by and from the voting members of the Council. The Council Chairman shall serve as the Council's executive officer and shall direct the administration of the Council, assign officer and committee duties, and shall be responsible for issuing and communicating the reports, policy positions and statements of the Council. In the event that the Council Chairman is unable to serve, the Vice Chairman shall act as Council Chairman.
+Election and Duties of Officers.—The Council Chairman and Vice Chairman and otherappropriate officers of the Council shall be elected by and from the voting members of the Council. The Council Chairman shall serve as the Council's executive officer and shall direct the administration of the Council, assign officer and committee duties, and shall be responsible for issuing and communicating the reports, policy positions and statements of the Council. In the event that the Council Chairman is unable to serve, the Vice Chairman shall act as Council Chairman.
 
 (d)
 

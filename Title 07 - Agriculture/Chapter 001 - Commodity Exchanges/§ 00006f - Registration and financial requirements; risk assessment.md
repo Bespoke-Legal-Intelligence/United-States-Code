@@ -6,7 +6,7 @@ Any person desiring to register as a futures commission merchant, introducing br
 
 #### (b) Financial requirements for futures commission merchants and introducing brokers
 
-Notwithstanding any other provisions of this chapter, no person desiring to register as futures commission merchant or as introducing broker shall be so registered unless he meets such minimum financial requirements as the Commission may by regulation prescribe as necessary to insure his meeting his obligation as a registrant, and each person so registered shall at all times continue to meet such prescribed minimum financial requirements: <i>Provided</i>, That such minimum financial requirements will be considered met if the applicant for registration or registrant is a member of a contract market and conforms to minimum financial standards and related reporting requirements set by such contract market in its bylaws, rules, regulations, or resolutions and approved by the Commission as adequate to effectuate the purposes of this subsection.
+Notwithstanding any other provisions of this chapter, no person desiring to register as futures commission merchant or as introducing broker shall be so registered unless he meets such minimum financial requirements as the Commission may by regulation prescribe as necessary to insure his meeting his obligation as a registrant, and each person so registered shall at all timescontinue to meet such prescribed minimum financial requirements: <i>Provided</i>, That such minimum financial requirements will be considered met if the applicant for registration or registrant is a member of a contract market and conforms to minimum financial standards and related reporting requirements set by such contract market in its bylaws, rules, regulations, or resolutions and approved by the Commission as adequate to effectuate the purposes of this subsection.
 
 #### (c) Risk assessment for holding company systems
 
@@ -38,7 +38,7 @@ Notwithstanding any other provisions of this chapter, no person desiring to regi
 
 &emsp;(B) consult with the agency to determine whether the information required is available from the agency and for other purposes, unless the Commission determines that any delay resulting from the consultation would be inconsistent with ensuring the financial and operational condition of the futures commission merchant or the stability or integrity of the futures markets.
 
-(6) Nothing in this subsection shall be construed to permit the Commission to require any futures commission merchant to obtain, maintain, or furnish any examination report of any Federal banking agency or any supervisory recommendations or analysis contained in the report.
+(6) Nothing in this subsection shall be construed to permit the Commission to require anyfutures commission merchant to obtain, maintain, or furnish any examination report of any Federal banking agency or any supervisory recommendations or analysis contained in the report.
 
 (7) No information provided to or obtained by the Commission from any Federal banking agency pursuant to a request under paragraph (5) regarding any affiliated person that is subject to examination by or reporting requirements of a Federal banking agency may be disclosed to any other person (other than as provided in section 12 of this title or section 12a(6) of this title), without the prior written approval of the Federal banking agency.
 

@@ -44,7 +44,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 #### (e) Payment of storage, care, and other costs
 
-(1) Notwithstanding any other provision of law, the Secretary or the Secretary of theTreasury may pay from sums received as fines, penalties, and forfeitures of property for violations of any provisions of this chapter or of any other marine resource law enforced by the Secretary, including the Lacey Act Amendments of 1981 (16 U.S.C. 3371 et seq.)—
+(1) Notwithstanding any other provision of law, the Secretary or the Secretary of the Treasury may pay from sums received as fines, penalties, and forfeitures of property for violations of any provisions of this chapter or of any other marine resource law enforced by the Secretary, including the Lacey Act Amendments of 1981 (16 U.S.C. 3371 et seq.)—
 
 &emsp;(A) the reasonable and necessary costs incurred in providing temporary storage, care, and maintenance of seized fish or other property pending disposition of any civil or criminal proceeding alleging a violation of any provision of this chapter or any other marine resource law enforced by the Secretary with respect to that fish or other property;
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 &emsp;(1) The term “provisions of this chapter” includes (A) any regulation or permit issued pursuant to this chapter, and (B) any provision of, or regulation issued pursuant to, any international fishery agreement under which foreign fishing is authorized by section 1821(b) or (c) of this title, or section 1824(d) of this title, with respect to fishing subject to the exclusive fishery management authority of the United States.
 
-&emsp;(2) The term “violation of any provision of this chapter” includes (A) the commission ofany act prohibited by section 1857 of this title, and (B) the violation of any regulation, permit, or agreement referred to in paragraph (1).
+&emsp;(2) The term “violation of any provision of this chapter” includes (A) the commission of any act prohibited by section 1857 of this title, and (B) the violation of any regulation, permit, or agreement referred to in paragraph (1).
 
 (Pub. L. 94–265, title III, §311, Apr. 13, 1976, 90 Stat. 358; Pub. L. 96–470, title II, §209(e), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–453, §§13, 15(c), Jan. 12, 1983, 96 Stat. 2491, 2493; Pub. L. 99–659, title I, §§101(c)(2), 109(b), Nov. 14, 1986, 100 Stat. 3707, 3714; Pub. L. 101–627, title I, §117, Nov. 28, 1990, 104 Stat. 4456; Pub. L. 102–251, title III, §301(i), Mar. 9, 1992, 106 Stat. 64; Pub. L. 102–567, title IX, §901, Oct. 29, 1992, 106 Stat. 4316; Pub. L. 104–297, title I, §115, Oct. 11, 1996, 110 Stat. 3599.)
 

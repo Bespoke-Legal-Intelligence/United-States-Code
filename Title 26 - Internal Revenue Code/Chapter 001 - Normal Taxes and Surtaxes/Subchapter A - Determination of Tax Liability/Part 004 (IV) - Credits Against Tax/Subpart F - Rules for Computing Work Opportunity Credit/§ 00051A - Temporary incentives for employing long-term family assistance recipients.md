@@ -90,13 +90,13 @@ For purposes of this section—
 
 #### (e) Coordination with work opportunity credit
 
-If a credit is allowed under this section to an employer with respect to an individual for any taxable year, then for purposes of applying section 51 to such employer, such individual shall not be treated as a member of a targeted group for such taxable year.
+If a credit is allowed under this section to an employer with respect to an individual for any taxable year, then for purposes of applying section 51 to such employer, such individual shallnot be treated as a member of a targeted group for such taxable year.
 
 #### (f) Termination
 
-This section shall not apply to individuals who begin work for the employer after June 30, 1999.
+This section shall not apply to individuals who begin work for the employer after December 31, 2001.
 
-(Added Pub. L. 105–34, title VIII, §801(a), Aug. 5, 1997, 111 Stat. 869; amended Pub. L. 105–277, div. J, title I, §1003, Oct. 21, 1998, 112 Stat. 2681–888.)
+(Added Pub. L. 105–34, title VIII, §801(a), Aug. 5, 1997, 111 Stat. 869; amended Pub. L. 105–277, div. J, title I, §1003, Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §505(a), Dec. 17, 1999, 113 Stat. 1921.)
 
 #### References in Text
 
@@ -106,7 +106,13 @@ The date of the enactment of the Taxpayer Relief Act of 1997, referred to in sub
 
 #### Amendments
 
+1999—Subsec. (f). Pub. L. 106–170 substituted “December 31, 2001” for “June 30, 1999”.
+
 1998—Subsec. (f). Pub. L. 105–277 substituted “June 30, 1999” for “April 30, 1999”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to individuals who begin work for the employer after June 30, 1999, see section 505(c) of Pub. L. 106–170, set out as a note under section 51 of this title.
 
 #### Effective Date
 

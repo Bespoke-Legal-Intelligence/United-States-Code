@@ -12,7 +12,7 @@ Section 2216d, Pub. L. 92–181, title IV, §4.28E, as added Pub. L. 99–205, t
 
 Section 2216e, Pub. L. 92–181, title IV, §4.28F, as added Pub. L. 99–205, title I, §103, Dec. 23, 1985, 99 Stat. 1682, provided for selection of chief executive officer of Capital Corporation. See sections 2278a–2 and 2278b–2 of this title.
 
-Section 2216f, Pub. L. 92–181, title IV, §4.28G, as added Pub. L. 99–205, title I, §103, Dec. 23, 1985, 99 Stat. 1682, enumerated corporate powers of Capital Corporation. See sections 2278a–3 and 2278b–4 of this title.
+Section 2216f, Pub. L. 92–181, title IV, §4.28G, as added Pub. L. 99–205, title I, §103, Dec. 23, 1985, 99 Stat. 1682,enumerated corporate powers of Capital Corporation. See sections 2278a–3 and 2278b–4 of this title.
 
 Section 2216g, Pub. L. 92–181, title IV, §4.28H, as added Pub. L. 99–205, title I, §103, Dec. 23, 1985, 99 Stat. 1685, provided for succession of Capital Corporation. See section 2278a–9 of this title.
 

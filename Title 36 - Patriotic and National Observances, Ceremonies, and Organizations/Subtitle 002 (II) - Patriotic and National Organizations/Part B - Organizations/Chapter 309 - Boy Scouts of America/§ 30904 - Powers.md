@@ -44,13 +44,19 @@ June 15, 1916, ch. 148, §§2 (words after 2d comma), 4 (words before semicolon)
 
 36:24 (words before semicolon).
 
+&nbsp;
+
 30904(b)(1)
 
 36:25 (6th sentence).
 
+&nbsp;
+
 30904(b)(2)
 
 36:25 (last sentence).
+
+&nbsp;
 
 In subsection (a)(1), the word “make” is omitted as included in “adopt”. The word “amend” is added for consistency in the revised title and because of 36:25 (6th sentence). The words “not inconsistent with the laws of the United States of America, or any State thereof” are omitted as unnecessary.
 

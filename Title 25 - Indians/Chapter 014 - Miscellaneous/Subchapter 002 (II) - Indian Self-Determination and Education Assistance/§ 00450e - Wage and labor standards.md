@@ -36,5 +36,5 @@ Subsec. (c). Pub. L. 103–413, §102(4), added subsec. (c).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2012, 2508, 3307 of this title; title 23 section 204; title 29 section 750; title 42 section 5662.
+This section is referred to in sections 2012, 2508, 3307 of this title; title 23 section 204; title 29 section 741; title 42 section 5662.
 

@@ -20,7 +20,7 @@ Except as limited by subsection (c) of this section, there shall be deposited in
 
 &emsp;&emsp;&emsp;(i) the railroad unemployment insurance account pursuant to the Railroad Unemployment Insurance Act (45 U.S.C. 351 et seq.);
 
-&emsp;&emsp;&emsp;(ii) the Postal Service Fund pursuant to sections 2601(a)(2) and 2003 of title 39 andfor the purposes set forth in section 404(a)(8) of title 39;
+&emsp;&emsp;&emsp;(ii) the Postal Service Fund pursuant to sections 2601(a)(2) and 2003 of title 39 and for the purposes set forth in section 404(a)(8) of title 39;
 
 &emsp;&emsp;&emsp;(iii) the navigable waters revolving fund pursuant to section 311 of the Federal Water Pollution Control Act (33 U.S.C. 1321); and
 
@@ -44,7 +44,9 @@ The Fund shall be available as follows:
 
 &emsp;(2) The first $10,000,000 deposited in the Fund shall be available for grants under section 10603a of this title.
 
-&emsp;(3) Of the remaining amount deposited in the Fund in a particular fiscal year—
+&emsp;(3) Of the sums remaining in the Fund in any particular fiscal year after compliance with paragraph (2), such sums as may be necessary shall be available for the United States Attorneys Offices to improve services for the benefit of crime victims in the Federal criminal justice system.
+
+&emsp;(4) Of the remaining amount deposited in the Fund in a particular fiscal year—
 
 &emsp;&emsp;(A) 48.5 percent shall be available for grants under section 10602 of this title;
 
@@ -52,11 +54,9 @@ The Fund shall be available as follows:
 
 &emsp;&emsp;(C) 3 percent shall be available for grants under section 10603(c) of this title.
 
-&emsp;(4)(A) If the sums available in the Fund are sufficient to fully provide grants to the States pursuant to section 10602(a)(1) of this title, the Director may retain any portion of the Fund that was deposited during a fiscal year that was in excess of 110 percent of the total amount deposited in the Fund during the preceding fiscal year as an emergency reserve. Such reserve shall not exceed $50,000,000.
+&emsp;(5)(A) If the sums available in the Fund are sufficient to fully provide grants to the States pursuant to section 10602(a)(1) of this title, the Director may retain any portion of the Fund that was deposited during a fiscal year that was in excess of 110 percent of the total amount deposited in the Fund during the preceding fiscal year as an emergency reserve. Such reserve shall not exceed $50,000,000.
 
 &emsp;(B) The emergency reserve referred to in subparagraph (A) may be used for supplemental grants under section 10603b of this title and to supplement the funds available to provide grants to States for compensation and assistance in accordance with sections 10602 and 10603 of this title in years in which supplemental grants are needed.
-
-&emsp;(5) The Director may set aside up to $500,000 of the reserve fund described in paragraph (4) to make supplemental grants to United States Attorneys Offices to provide necessary assistance to victims of the bombing of the Alfred P. Murrah Federal Building in Oklahoma City, to facilitate observation of and/or participation by such victims in trial proceedings arising therefrom, including, without limitation, provision of lodging and travel assistance, and to pay such other, related expenses determined to be necessary by the Director.
 
 #### (e) Amounts awarded and unspent
 
@@ -82,13 +82,13 @@ As used in this section, the term “offenses against the United States” does 
 
 (2) As used in this subsection, the term “tribe” <sup>2</sup> has the meaning given that term in section 450b(b) <sup>3</sup> of title 25.
 
-(Pub. L. 98–473, title II, §1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, §102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, §82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, §504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, §1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I, §110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, §230201, title XXXIII, §330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §112\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–119, title I, §109(a), Nov. 26, 1997, 111 Stat. 2457.)
+(Pub. L. 98–473, title II, §1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, §102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, §82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, §504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, §1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I, §110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, §230201, title XXXIII, §330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §112\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–119, title I, §109(a), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §119\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22.)
 
 #### References in Text
 
 The Railroad Unemployment Insurance Act, referred to in subsec. (b)(1)(B)(i), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
 
-Section 3613 of title 18, referred to in subsec. (b)(1)(B)(iv), was repealed effective on the first day of the first calendar month beginning 36 months after Oct.12, 1984 (Nov. 1, 1987), by Pub. L. 98–473, title II, §§212(a)(2), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2031, as amended.
+Section 3613 of title 18, referred to in subsec. (b)(1)(B)(iv), was repealed effective on the first day of the first calendar month beginning 36 months after Oct. 12, 1984 (Nov. 1, 1987), by Pub. L. 98–473, title II, §§212(a)(2), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2031, as amended.
 
 Section 3671(c)(2) of title 18, referred to in subsec. (b)(4), was renumbered section 3681(c)(2) by Pub. L. 99–646, §41(a), Nov. 10, 1986, 100 Stat. 3600.
 
@@ -97,6 +97,8 @@ The Uniform Code of Military Justice, referred to in subsec. (f)(1), is classifi
 Section 450b of title 25, referred to in subsec. (g)(2), has been amended, and subsec. (b) of section 450b no longer defines the term “Indian tribe”. However, such term is defined elsewhere in that section.
 
 #### Amendments
+
+1999—Subsec. (d)(3) to (5). Pub. L. 106–113 added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (5) which read as follows: “The Director may set aside up to $500,000 of the reserve fund described in paragraph (4) to make supplemental grants to United States Attorneys Offices to provide necessary assistance to victims of the bombing of the Alfred P. Murrah Federal Building in Oklahoma City, to facilitate observation of and/or participation by such victims in trial proceedings arising therefrom, including, without limitation, provision of lodging and travel assistance, and to pay such other, related expenses determined to be necessary by the Director.”
 
 1997—Subsec. (d)(1). Pub. L. 105–119, §109(a)(1), struck out par. (1) which read as follows: “The first $6,200,000 deposited in the Fund in each of the fiscal years 1992 through 1995 and the first $3,000,000 in each fiscal year thereafter shall be available to the judicial branch for administrative costs to carry out the functions of the judicial branch under sections 3611 and 3612 of title 18.”
 
@@ -194,7 +196,7 @@ Subsec. (d). Pub. L. 102–572, §1001(2), added subsec. (d) and struck out form
 
 1988—Subsec. (c). Pub. L. 100–690, §7121(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
-“(1) If the total deposited in the Fund during a particular fiscal year reaches the sum of $110 million, theexcess over that sum shall be deposited in the general fund of the Treasury and shall not be a part of the Fund.
+“(1) If the total deposited in the Fund during a particular fiscal year reaches the sum of $110 million, the excess over that sum shall be deposited in the general fund of the Treasury and shall not be a part of the Fund.
 
 “(2) No deposits shall be made in the Fund after September 30, 1988.”
 

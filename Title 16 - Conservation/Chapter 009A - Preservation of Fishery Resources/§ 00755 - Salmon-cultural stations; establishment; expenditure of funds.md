@@ -14,7 +14,7 @@ Secretary of Commerce substituted for Secretary of the Interior in view of: crea
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5.
 
-Reorg. Plan No. III of 1940, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232, set out in the Appendix to Title 5,consolidated Bureau of Fisheries and Bureau of Biological Survey with their respective functions into one agency in Department of the Interior to be known as Fish and Wildlife Service, and provided that functions of consolidated agency shall be administered under direction and supervision of Secretary of the Interior.
+Reorg. Plan No. III of 1940, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232, set out in the Appendix to Title 5, consolidated Bureau of Fisheries and Bureau of Biological Survey with their respective functions into one agency in Department of the Interior to be known as Fish and Wildlife Service, and provided that functions of consolidated agency shall be administered under direction and supervision of Secretary of the Interior.
 
 Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, transferred Bureau of Fisheries in Department of Commerce and its functions to Department of the Interior, to be administered under direction and supervision of Secretary of the Interior.
 

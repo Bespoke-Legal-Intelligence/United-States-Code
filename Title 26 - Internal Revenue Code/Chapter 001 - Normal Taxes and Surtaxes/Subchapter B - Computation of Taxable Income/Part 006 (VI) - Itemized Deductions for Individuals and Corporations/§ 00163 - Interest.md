@@ -565,13 +565,15 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;For purposes of this subsection, the term “disqualified interest” means—
 
-&emsp;&emsp;(A) any interest paid or accrued by the taxpayer (directly or indirectly) to a related person if no tax is imposed by this subtitle with respect to such interest, and
+&emsp;&emsp;(A) any interest paid or accrued by the taxpayer (directly or indirectly) to a related person if no tax is imposed by this subtitle with respect to such interest,
 
 &emsp;&emsp;(B) any interest paid or accrued by the taxpayer with respect to any indebtedness to a person who is not a related person if—
 
 &emsp;&emsp;&emsp;(i) there is a disqualified guarantee of such indebtedness, and
 
-&emsp;&emsp;&emsp;(ii) no gross basis tax is imposed by this subtitle with respect to such interest.
+&emsp;&emsp;&emsp;(ii) no gross basis tax is imposed by this subtitle with respect to such interest, and
+
+&emsp;&emsp;(C) any interest paid or accrued (directly or indirectly) by a taxable REIT subsidiary (as defined in section 856(<i>l</i>)) of a real estate investment trust to such trust.
 
 #### (4) Related person
 
@@ -731,9 +733,11 @@ No deduction shall be allowed under this section for any interest payable under 
 
 &emsp;&emsp;<b>(5) For treatment of redeemable ground rents and real property held subject to liabilities under redeemable ground rents, see section 1055.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 46; Pub. L. 88–9, §1(a), (c), Apr. 10, 1963, 77 Stat. 6, 7; Pub. L. 88–272, title II, §224(c), Feb. 26, 1964, 78 Stat. 79; Pub. L. 91–172, title II, §221(a), Dec. 30, 1969, 83 Stat. 574; Pub. L. 92–178, title III, §304(a)(2), (b)(2), (d), Dec. 10, 1971, 85 Stat. 523, 524; Pub. L. 94–455, title II, §§205(c)(3), 209(a), title XIX, §§1901(b)(3)(K), (8)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1542, 1793, 1794, 1834; Pub. L. 97–248, title II, §231(b), title III, §310(b)(2), Sept. 3, 1982, 96 Stat. 498, 596; Pub. L. 97–354, §5(a)(18), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title I, §§42(a)(3), 56(b), 127(f), 128(c), title VI, §612(c), July 18, 1984, 98 Stat. 556, 574, 652, 654, 911; Pub. L. 99–514, title V, §511(a), (b), title IX, §902(e)(1), title XIII, §1301(j)(3), title XVIII, §§1803(a)(4), 1810(e)(1), Oct. 22, 1986, 100 Stat. 2244, 2246, 2382, 2657, 2793, 2825; Pub. L. 100–203, title X, §§10102(a), (b), 10212(b), Dec. 22, 1987, 101 Stat. 1330–384, 1330–386, 1330–406; Pub. L. 100–647, title I, §§1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, §2004(b)(1), Nov. 10, 1988, 102 Stat. 3390–3392, 3427, 3449, 3598; Pub. L. 101–239, title VII, §§7202(a), (b), 7210(a), Dec. 19, 1989, 103 Stat. 2330, 2331, 2339; Pub. L. 101–508, title XI, §11701(b), (c), Nov. 5, 1990, 104 Stat. 1388–507; Pub. L. 103–66, title XIII, §§13206(d)(1), 13228(a)–(c), Aug. 10, 1993, 107 Stat. 467, 494, 495; Pub. L. 104–188, title I, §§1703(n)(4), 1704(f)(2)(A), (B), Aug. 20, 1996, 110 Stat. 1877, 1879; Pub. L. 105–34, title III, §312(d)(1), title V, §503(b)(2), title X, §1005(a), title XVI, §1604(g)(1), Aug. 5, 1997, 111 Stat. 839, 853, 911, 1099; Pub. L. 105–277, div. J, title IV, §4003(a)(1), Oct. 21, 1998, 112 Stat. 2681–908.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 46; Pub. L. 88–9, §1(a), (c), Apr. 10, 1963, 77 Stat. 6, 7; Pub. L. 88–272, title II, §224(c), Feb. 26, 1964, 78 Stat. 79; Pub. L. 91–172, title II, §221(a), Dec. 30, 1969, 83 Stat. 574; Pub. L. 92–178, title III, §304(a)(2), (b)(2), (d), Dec. 10, 1971, 85 Stat. 523, 524; Pub. L. 94–455, title II, §§205(c)(3), 209(a), title XIX, §§1901(b)(3)(K), (8)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1542, 1793, 1794, 1834; Pub. L. 97–248, title II, §231(b), title III, §310(b)(2), Sept. 3, 1982, 96 Stat. 498, 596; Pub. L. 97–354, §5(a)(18), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title I, §§42(a)(3), 56(b), 127(f), 128(c), title VI, §612(c), July 18, 1984, 98 Stat. 556, 574, 652, 654, 911; Pub. L. 99–514, title V, §511(a), (b), title IX, §902(e)(1), title XIII, §1301(j)(3), title XVIII, §§1803(a)(4), 1810(e)(1), Oct. 22, 1986, 100 Stat. 2244, 2246, 2382, 2657, 2793, 2825; Pub. L. 100–203, title X, §§10102(a), (b), 10212(b), Dec. 22, 1987, 101 Stat. 1330–384, 1330–386, 1330–406; Pub. L. 100–647, title I, §§1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, §2004(b)(1), Nov. 10, 1988, 102 Stat. 3390–3392, 3427, 3449, 3598; Pub. L. 101–239, title VII, §§7202(a), (b), 7210(a), Dec. 19, 1989, 103 Stat. 2330, 2331, 2339; Pub. L. 101–508, title XI, §11701(b), (c), Nov. 5, 1990, 104 Stat. 1388–507; Pub. L. 103–66, title XIII, §§13206(d)(1), 13228(a)–(c), Aug. 10, 1993, 107 Stat. 467, 494, 495; Pub. L. 104–188, title I, §§1703(n)(4), 1704(f)(2)(A), (B), Aug. 20, 1996, 110 Stat. 1877, 1879; Pub. L. 105–34, title III, §312(d)(1), title V, §503(b)(2), title X, §1005(a), title XVI, §1604(g)(1), Aug. 5, 1997, 111 Stat. 839, 853, 911, 1099; Pub. L. 105–277, div. J, title IV, §4003(a)(1), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–170, title V, §544, Dec. 17, 1999, 113 Stat. 1944.)
 
 #### Amendments
+
+1999—Subsec. (j)(3)(C). Pub. L. 106–170 added subpar. (C).
 
 1998—Subsec. (h)(2)(F). Pub. L. 105–277 added subpar. (F).
 
@@ -973,6 +977,10 @@ Subsec. (d)(7). Pub. L. 92–178, §304(a)(2)(B), added par. (7).
 
 1963—Subsecs. (c), (d). Pub. L. 88–9, §1(a), (c), added subsec. (c), redesignated former subsec. (c) as (d) and added par. (5).
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to taxable years beginning after Dec. 31, 2000, see section 546(a) of Pub. L. 106–170, set out as a note under section 856 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
@@ -1083,7 +1091,7 @@ Special rule for demand loans, etc.—In the case of any demand loan (or other l
 
 #### Effective Date of 1988 Amendment
 
-Section 1005(c)(13) of Pub. L. 100–647 provided that: “For purposes of applying the amendments made by this subsection \[amending this section and sections 467, 1255, and 7872 of this title\] and the amendments made by section 10102 of the Revenue Act of 1987 \[section 10102 of Pub. L. 100–203, amending this section\], the provisions of this subsection shall be treated as having been enacted immediately before the enactment of the Revenue Act of 1987.”
+Section 1005(c)(13) of Pub. L. 100–647 provided that: “For purposes of applying the amendments made bythis subsection \[amending this section and sections 467, 1255, and 7872 of this title\] and the amendments made by section 10102 of the Revenue Act of 1987 \[section 10102 of Pub. L. 100–203, amending this section\], the provisions of this subsection shall be treated as having been enacted immediately before the enactment of the Revenue Act of 1987.”
 
 Amendment by sections 1006(u)(1) and 1009(b)(6) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -1171,7 +1179,7 @@ Section 1005(c)(14) of Pub. L. 100–647 provided that:
 
 &emsp;“(ii) such individual incurs indebtedness which is secured by such qualified residence,
 
-> the amount determined under paragraph (3)(B)(ii)(I) of section 163(h) of the 1986 Code (as in effect before the amendments made by the Revenue Act of 1987 \[Pub. L.100–203, title X\]) with respect to such qualified residence shall be increased by the amount determined under subparagraph (B).
+> the amount determined under paragraph (3)(B)(ii)(I) of section 163(h) of the 1986 Code (as in effect before the amendments made by the Revenue Act of 1987 \[Pub. L. 100–203, title X\]) with respect to such qualified residence shall be increased by the amount determined under subparagraph (B).
 
 “(B) The amount determined under this subparagraph shall be equal to the excess (if any) of—
 

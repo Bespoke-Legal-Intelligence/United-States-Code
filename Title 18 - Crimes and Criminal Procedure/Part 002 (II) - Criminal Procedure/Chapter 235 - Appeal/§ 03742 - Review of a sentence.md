@@ -2,7 +2,7 @@
 
 (a)
 
-Appeal by a Defendant.—A defendant may file a notice of appeal in the district courtfor review of an otherwise final sentence if the sentence—
+Appeal by a Defendant.—A defendant may file a notice of appeal in the district court for review of an otherwise final sentence if the sentence—
 
 &emsp;(1) was imposed in violation of law;
 
@@ -20,7 +20,7 @@ Appeal by the Government.—The Government may file a notice of appeal in the di
 
 &emsp;(2) was imposed as a result of an incorrect application of the sentencing guidelines;
 
-&emsp;(3) is less than the sentence specified in the applicable guideline range to the extent that the sentence includes a lesser fine or term of imprisonment, probation, or supervised release than the minimum established in the guideline range, or includes a less limiting condition of probation or supervised release under section 3563(b)(6) or (b)(11) <sup>1</sup> than the minimum established in the guideline range; or
+&emsp;(3) is less than the sentence specified in the applicable guideline range to the extent that the sentence includes a lesser fine or term of imprisonment, probation, or supervised release than the minimum established in the guideline range, or includes a less limitingcondition of probation or supervised release under section 3563(b)(6) or (b)(11) <sup>1</sup> than the minimum established in the guideline range; or
 
 &emsp;(4) was imposed for an offense for which there is no sentencing guideline and is plainly unreasonable.
 
@@ -84,7 +84,7 @@ Application to a Sentence by a Magistrate.—An appeal of an otherwise final sen
 
 Guideline Not Expressed as a Range.—For the purpose of this section, the term “guideline range” includes a guideline range having the same upper and lower limits.
 
-(Added Pub. L. 98–473, title II, §213(a), Oct. 12, 1984, 98 Stat. 2011; amended Pub. L. 99–646, §73(a), Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–182, §§4–6, Dec. 7, 1987, 101 Stat. 1266, 1267; Pub. L. 100–690, title VII, §7103(a), Nov. 18, 1988, 102 Stat. 4416;Pub. L. 101–647, title XXXV, §§3501, 3503, Nov. 29, 1990, 104 Stat. 4921; Pub. L. 103–322, title XXXIII, §330002(k), Sept. 13, 1994, 108 Stat. 2140.)
+(Added Pub. L. 98–473, title II, §213(a), Oct. 12, 1984, 98 Stat. 2011; amended Pub. L. 99–646, §73(a), Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–182, §§4–6, Dec. 7, 1987, 101 Stat. 1266, 1267; Pub. L. 100–690, title VII, §7103(a), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–647, title XXXV, §§3501, 3503, Nov. 29, 1990, 104 Stat. 4921; Pub. L. 103–322, title XXXIII, §330002(k), Sept. 13, 1994, 108 Stat. 2140.)
 
 #### References in Text
 
@@ -158,7 +158,7 @@ Subsec. (e)(2)(B). Pub. L. 99–646, §73(a)(2), substituted provision directing
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistratejudge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1987 Amendment
 

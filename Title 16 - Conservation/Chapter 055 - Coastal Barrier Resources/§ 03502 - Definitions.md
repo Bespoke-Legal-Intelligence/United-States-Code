@@ -28,17 +28,19 @@ For purposes of this chapter—
 
 > &emsp;Effective October 1, 1983, such term includes flood insurance described in section 4028 of title 42.
 
-&emsp;(4) The term “Great Lakes” means Lake Ontario, Lake Erie, Lake Huron, Lake St. Clair,Lake Michigan, and Lake Superior, to the extent that those lakes are subject to the jurisdiction of the United States.
+&emsp;(4) The term “Great Lakes” means Lake Ontario, Lake Erie, Lake Huron, Lake St. Clair, Lake Michigan, and Lake Superior, to the extent that those lakes are subject to the jurisdiction of the United States.
 
 &emsp;(5) The term “Secretary” means the Secretary of the Interior.
 
-&emsp;(6) The term “System” means the Coastal Barrier Resources System established by section 3503(a) of this title.
+&emsp;(6) The term “System” means John H. Chafee Coastal Barrier Resources System established by section 3503(a) of this title.
 
-&emsp;(7) The term “System unit” means any undeveloped coastal barrier, or combination of closely-related undeveloped coastal barriers, included within the Coastal Barrier Resources System established by section 3503 of this title.
+&emsp;(7) The term “System unit” means any undeveloped coastal barrier, or combination of closely-related undeveloped coastal barriers, included within the John H. Chafee Coastal Barrier Resources System established by section 3503 of this title.
 
-(Pub. L. 97–348, §3, Oct. 18, 1982, 96 Stat. 1653; Pub. L. 99–272, title XIV, §14001(b)(5), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–707, title II, §204(c)(2), Nov. 23, 1988, 102 Stat. 4714; Pub. L. 101–591, §2(a), (b)(1), (c), Nov. 16, 1990, 104 Stat. 2931.)
+(Pub. L. 97–348, §3, Oct. 18, 1982, 96 Stat. 1653; Pub. L. 99–272, title XIV, §14001(b)(5), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–707, title II, §204(c)(2), Nov. 23, 1988, 102 Stat. 4714; Pub. L. 101–591, §2(a), (b)(1), (c), Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, §3(c)(2), Dec. 9, 1999, 113 Stat. 1804.)
 
 #### Amendments
+
+1999—Pars. (6), (7). Pub. L. 106–167 substituted “John H. Chafee Coastal Barrier Resources System” for “Coastal Barrier Resources System”.
 
 1990—Par. (1). Pub. L. 101–591, §2(c), in concluding provisions, struck out cl. (i) designation, inserted a period after “processes”, and struck out at end “, and (ii) are not included within the boundaries of an area established under Federal, State, or local law, or held by a qualified organization as defined in section 170(h)(3) of title 26, primarily for wildlife refuge, sanctuary, recreational, or natural resource conservation purposes.”
 

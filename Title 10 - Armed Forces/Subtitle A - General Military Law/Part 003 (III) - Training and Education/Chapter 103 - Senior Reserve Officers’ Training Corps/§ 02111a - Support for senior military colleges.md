@@ -22,7 +22,7 @@ Termination or Reduction of Program Prohibited.—The Secretary of Defense and t
 
 (e)
 
-Assignment to Active Duty.—(1) The Secretary of the Army shall ensure that a graduate of a senior military college who desires to serve as a commissioned officer on active duty upon graduation from the college, who is medically and physically qualified for active duty, and who is recommended for such duty by the professor of military science at the college, shall be assigned to active duty. This paragraph shall apply to a member of the program at a senior military college who graduates from the college after March 31, 1997.
+Assignment to Active Duty.—(1) The Secretary of the Army shall ensure that a graduate of a senior military college who desires to serve as a commissioned officer on active duty upon graduation from the college, who is medically and physically qualified for active duty, and who is recommended for such duty by the professor of military science at the college, shall be assigned to active duty.
 
 (2) Nothing in this section shall be construed to prohibit the Secretary of the Army from requiring a member of the program who graduates from a senior military college to serve on active duty.
 
@@ -42,9 +42,11 @@ Senior Military Colleges.—The senior military colleges are the following:
 
 &emsp;(6) North Georgia College and State University.
 
-(Added Pub. L. 104–106, div. A, title V, §545(a), Feb. 10, 1996, 110 Stat. 317; amended Pub. L. 105–85, div. A, title V, §544(d)–(f)(1), Nov. 18, 1997, 111 Stat. 1745, 1746.)
+(Added Pub. L. 104–106, div. A, title V, §545(a), Feb. 10, 1996, 110 Stat. 317; amended Pub. L. 105–85, div. A, title V, §544(d)–(f)(1), Nov. 18, 1997, 111 Stat. 1745, 1746; Pub. L. 106–65, div. A, title V, §541(c), Oct. 5, 1999, 113 Stat. 607.)
 
 #### Amendments
+
+1999—Subsec. (e)(1). Pub. L. 106–65 struck out at end “This paragraph shall apply to a member of the program at a senior military college who graduates from the college after March 31, 1997.”
 
 1997—Pub. L. 105–85, §544(f)(1), substituted “Support for” for “Detail of officers to” in section catchline.
 

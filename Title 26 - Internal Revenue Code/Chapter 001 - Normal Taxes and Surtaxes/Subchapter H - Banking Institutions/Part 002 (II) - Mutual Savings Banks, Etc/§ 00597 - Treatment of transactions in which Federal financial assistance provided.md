@@ -16,7 +16,7 @@ The treatment for purposes of this chapter of any transaction in which Federal f
 
 #### (2) Other transactions
 
-&emsp;In the case of any transaction not described in paragraph (1), the regulations prescribedunder subsection (a) shall provide for the proper treatment of Federal financial assistance and appropriate adjustments to basis or other tax attributes in connection with such assistance.
+&emsp;In the case of any transaction not described in paragraph (1), the regulations prescribed under subsection (a) shall provide for the proper treatment of Federal financial assistance and appropriate adjustments to basis or other tax attributes in connection with such assistance.
 
 #### (3) Denial of double benefit
 
@@ -98,7 +98,7 @@ Subsection (b)(2).—The amendment made by subsection (b)(2) \[amending provisio
 
 Section 4012(b)(2)(E) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amending this section\] shall apply to any transfer—
 
-&emsp;“(i) after the date of the enactment of this Act \[Nov. 10, 1988\], and before January 1, 1990, unless suchtransfer is pursuant to an acquisition occurring on or before such date of enactment, and
+&emsp;“(i) after the date of the enactment of this Act \[Nov. 10, 1988\], and before January 1, 1990, unless such transfer is pursuant to an acquisition occurring on or before such date of enactment, and
 
 &emsp;“(ii) after December 31, 1989, if such transfer is pursuant to an acquisition occurring after such date of enactment and before January 1, 1990.”
 

@@ -66,9 +66,9 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
 
-#### Development Coordination Committee
+#### Delegation of Functions
 
-For establishment, composition, and functions of the Development Coordination Committee required to be established by this section, see section 1–506 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56676, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Termination of Advisory Committees
 

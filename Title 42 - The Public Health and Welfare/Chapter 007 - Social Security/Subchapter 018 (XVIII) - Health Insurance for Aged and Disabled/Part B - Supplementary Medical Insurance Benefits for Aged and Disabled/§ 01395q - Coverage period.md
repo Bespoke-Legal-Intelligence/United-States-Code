@@ -10,7 +10,7 @@ The period during which an individual is entitled to benefits under the insuranc
 
 &emsp;(B) in the case of an individual who enrolls pursuant to such subsection (d) in the month in which he first satisfies such paragraph, the first day of the month following the month in which he so enrolls, or
 
-&emsp;(C) in the case of an individual who enrolls pursuant to such subsection (d) in the month following the month in which he first satisfies such paragraph, the first day of the second month following the month in which he so enrolls, or
+&emsp;(C) in the case of an individual who enrolls pursuant to such subsection (d) in the monthfollowing the month in which he first satisfies such paragraph, the first day of the second month following the month in which he so enrolls, or
 
 &emsp;(D) in the case of an individual who enrolls pursuant to such subsection (d) more than one month following the month in which he satisfies such paragraph, the first day of the third month following the month in which he so enrolls, or
 
@@ -30,7 +30,7 @@ An individual's coverage period shall continue until his enrollment has been ter
 
 > The termination of a coverage period under paragraph (1) shall (except as otherwise provided in section 1395v(e) of this title) take effect at the close of the month following the month in which the notice is filed. The termination of a coverage period under paragraph (2) shall take effect on a date determined under regulations, which may be determined so as to provide a grace period in which overdue premiums may be paid and coverage continued. The grace period determined under the preceding sentence shall not exceed 90 days; except that it may be extended to not to exceed 180 days in any case where the Secretary determines that there was good cause for failure to pay the overdue premiums within such 90-day period.
 
-Where an individual who is deemed to have enrolled for medical insurance pursuant to section 1395p(f) of this title files a notice before the first day of the month in which his coverage period begins advising that he does not wish to be so enrolled, the termination of the coverage period resulting from such deemed enrollment shalltake effect with the first day of the month the coverage would have been effective. Where an individual who is deemed enrolled for medical insurance benefits pursuant to section 1395p(f) of this title files a notice requesting termination of his deemed coverage in or after the month in which such coverage becomes effective, the termination of such coverage shall take effect at the close of the month following the month in which the notice is filed.
+Where an individual who is deemed to have enrolled for medical insurance pursuant to section 1395p(f) of this title files a notice before the first day of the month in which his coverage period begins advising that he does not wish to be so enrolled, the termination of the coverage period resulting from such deemed enrollment shall take effect with the first day of the month the coverage would have been effective. Where an individual who is deemed enrolled for medical insurance benefits pursuant to section 1395p(f) of this title files a notice requesting termination of his deemed coverage in or after the month in which such coverage becomes effective, the termination of such coverage shall take effect at the close of the month following the month in which the notice is filed.
 
 #### (c) Termination
 
@@ -100,7 +100,7 @@ Subsec. (b). Pub. L. 92–603, §§206(c), 257(a), inserted provisions relating 
 
 Subsecs. (c), (d). Pub. L. 92–603, §202(c)(3)(C), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1968—Subsec. (b). Pub. L. 90–248 struck out “, during a general enrollment period described in section 1395p(e) of this title,” after “notice” in par. (1), andsubstituted in first sentence following par. (2) “the calendar quarter following the calendar quarter” for “December 31 of the year”.
+1968—Subsec. (b). Pub. L. 90–248 struck out “, during a general enrollment period described in section 1395p(e) of this title,” after “notice” in par. (1), and substituted in first sentence following par. (2) “the calendar quarter following the calendar quarter” for “December 31 of the year”.
 
 #### Effective Date of 1997 Amendment
 
@@ -148,7 +148,7 @@ Pub. L. 90–97, §3(a), Sept. 30, 1967, 81 Stat. 249, provided that: “In the 
 
 &emsp;“(2) shall terminate at the close of March 31, 1968, if he filed his notice of termination after December 31, 1967, and before April 1, 1968.
 
-> An individual whose coverage period terminated pursuant to paragraph (1) at the close of December 31, 1967, may, notwithstanding section 1837(b)(2) of such Act \[section 1395p(b)(2) of this title\], enroll in such program before April 1, 1968, and for purposes of sections 1838(a)(2)(E) \[subsec. (a)(2)(E) of this section\] and 1837(b)(2) of such Act \[section 1395p(b)(2) of this title\] such enrollment shall be deemed an enrollment under section 1837(e) of such Act \[section 1395p(e) of this title\] and a second enrollment under such part.”
+> An individual whose coverage period terminated pursuant to paragraph (1) at the close of December 31, 1967, may, notwithstanding section 1837(b)(2) of such Act \[section 1395p(b)(2) of this title\], enroll in such program before April 1, 1968, and for purposes of sections 1838(a)(2)(E) \[subsec. (a)(2)(E) of this section\] and 1837(b)(2) of such Act \[section 1395p(b)(2) of this title\] such enrollment shall be deemed an enrollment undersection 1837(e) of such Act \[section 1395p(e) of this title\] and a second enrollment under such part.”
 
 #### Extension of 1967 General Enrollment Period Through March 31, 1968
 

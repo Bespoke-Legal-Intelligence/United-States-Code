@@ -6,7 +6,7 @@ Under regulations prescribed by the Secretary of Defense, a person who would be 
 
 #### Amendments
 
-1998—Pub. L. 105–261 substituted “stores: persons qualified for retired pay under chapter 1223 but under age 60” for “stores by certain members and former members” in section catchline and “for 24 days each calendar year” for “for 12 days each calendar year” in text.
+1998—Pub. L. 105–261 substituted “stores: persons qualified for retired pay under chapter 1223 but underage 60” for “stores by certain members and former members” in section catchline and “for 24 days each calendar year” for “for 12 days each calendar year” in text.
 
 1996—Pub. L. 104–106 substituted “chapter 1223” for “chapter 67”.
 

@@ -40,7 +40,7 @@
 
 #### (1) Formula
 
-&emsp;The Governor shall, in accordance with section 1572 of this title, allocate 82 percent of the allotment of the State under subsection (a) of this section for each fiscal year among service delivery areas within the State, and shall ensure that, subject to the provisions of paragraph (3), of the amount allocated under this subsection—
+&emsp;The Governor shall, in accordance with section 1572 of this title, allocate 82 percent of the allotment of the State under subsection\(a) of this section for each fiscal year among service delivery areas within the State, and shall ensure that, subject to the provisions of paragraph (3), of the amount allocated under this subsection—
 
 &emsp;&emsp;(A) 331/3 percent shall be allocated on the basis of the relative number of unemployed individuals residing in areas of substantial unemployment in each service delivery area as compared to the total number of such unemployed individuals in all such areas of substantial unemployment in the State;
 

@@ -12,7 +12,7 @@
 
 &emsp;(3) with respect to a member on inactive duty training scheduled in advance by competent authority insurance under this subchapter shall cease at the end of such scheduled training period, unless at such time the insured is suffering from a disability incurred, or aggravated during such period which, within one hundred and twenty days after the date of such training, (i) results in death, or (ii) renders the member uninsurable at standard premium rates according to the good health standards approved by the Secretary in which event the insurance shall continue in force to death, or for one hundred and twenty days after the date such training terminated, whichever is the earlier date; and
 
-&emsp;(4) with respect to a member of the Ready Reserve of a uniformed service who meets thequalifications set forth in section 1965(5)(B) of this title, 120 days after separation or release from such assignment, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease one year after the date of separation or release from such assignment, or on the date the insured ceases to be totally disabled, whichever is the earlier date, but in no event before the end of 120 days after separation or release from such assignment.
+&emsp;(4) with respect to a member of the Ready Reserve of a uniformed service who meets the qualifications set forth in section 1965(5)(B) of this title, 120 days after separation or release from such assignment, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease one year after the date of separation or release from such assignment, or on the date the insured ceases to be totally disabled, whichever is the earlier date, but in no event before the end of 120 days after separation or release from such assignment.
 
 (b)(1) Each policy purchased under this subchapter shall contain a provision, in terms approved by the Secretary, that, except as hereinafter provided, Servicemembers’ Group Life Insurance which is continued in force after expiration of the period of duty or travel under section 1967(b) or 1968(a) of this title, effective the day after the date such insurance would cease—
 
@@ -22,13 +22,15 @@
 
 (2) Automatic conversion to Veterans’ Group Life Insurance under paragraph (1) shall be effective only in the case of an otherwise eligible member or former member who is separated or released from a period of active duty or active duty for training or inactive duty training on or after the date on which the Veterans’ Group Life Insurance program (provided for under section 1977 of this title) becomes effective.
 
-(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §768; amended Pub. L. 91–291, §3, June 25, 1970, 84 Stat. 328; Pub. L. 93–289, §5(a), May 24, 1974, 88 Stat. 166; Pub. L. 97–295, §4(30), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, §701(38), Oct. 28, 1986, 100 Stat. 3293; renumbered §1968 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–337, div. A, title VI, §651(c), title XVI, §1677(d)(1), Oct. 5, 1994, 108 Stat. 2792, 3020; Pub. L. 104–106, div. A, title VI, §647(b), Feb. 10, 1996, 110 Stat. 370; Pub. L. 104–275, title IV, §§402(c), 403(a), 405(b)(1)(B), Oct. 9, 1996, 110 Stat. 3337–3339.)
+(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §768; amended Pub. L. 91–291, §3, June 25, 1970, 84 Stat. 328; Pub. L. 93–289, §5(a), May 24, 1974, 88 Stat. 166; Pub. L. 97–295, §4(30), Oct. 12,1982, 96 Stat. 1307; Pub. L. 99–576, title VII, §701(38), Oct. 28, 1986, 100 Stat. 3293; renumbered §1968 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–337, div. A, title VI, §651(c), title XVI, §1677(d)(1), Oct. 5, 1994, 108 Stat. 2792, 3020; Pub. L. 104–106, div. A, title VI, §647(b), Feb. 10, 1996, 110 Stat. 370; Pub. L. 104–275, title IV, §§402(c), 403(a), 405(b)(1)(B), Oct. 9, 1996, 110 Stat. 3337–3339; Pub. L. 106–65, div. A, title X, §1066(d)(1), Oct. 5, 1999, 113 Stat. 773.)
 
 #### Amendments
 
+1999—Subsec. (a). Pub. L. 106–65 made technical amendment to directory language of Pub. L. 104–106, §647(b). See 1996 Amendment note below.
+
 1996—Subsec. (a). Pub. L. 104–275, §402(c)(1)(A), substituted “section 1965(5)(B)” for “subparagraph (B), (C), or (D) of section 1965(5)” in introductory provisions.
 
-Pub. L. 104–106, §647(b), which directed amendment of “Section 1968(a)” by inserting “(or discontinued pursuant to section 1969(a)(2)(B) of this title)” in the matter preceding paragraph (1) after “upon the written request of the insured” without specifying the Act or Code title to be amended, was executed by making the insertion in subsec. (a) of this section to reflect the probable intent of Congress.
+Pub. L. 104–106, §647(b), as amended by Pub. L. 106–65, inserted “(or discontinued pursuant to section 1969(a)(2)(B) of this title)” after “upon the written request of the insured” in introductory provisions.
 
 Subsec. (a)(1) to (3). Pub. L. 104–275, §402(c)(1)(B), (C), substituted a semicolon for the period at end of pars. (1) and (2) and “; and” for the period at end of par. (3).
 
@@ -93,6 +95,10 @@ Subsec. (c). Pub. L. 93–289, §5(a)(5), repealed subsec. (c) which related to 
 1970—Subsec. (a). Pub. L. 91–291 designated existing provisions as subsec. (a) and substituted provisions covering the duration of coverage for provisions covering termination of coverage. For termination and conversion of insurance see subsecs. (b) and (c) of this section.
 
 Subsecs. (b), (c). Pub. L. 91–291 added subsecs. (b) and (c).
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–65, div. A, title X, §1066(d)(1), Oct. 5, 1999, 113 Stat. 773, provided that the amendment made by section 1066(d)(1) is effective Apr. 1, 1996.
 
 #### Effective Date of 1996 Amendment
 

@@ -6,7 +6,7 @@ Definitions.—In this section—
 
 &emsp;(1) “bus” means a motor vehicle with motive power (except a trailer) designed to carry more than 10 individuals.
 
-&emsp;(2) “multipurpose passenger vehicle” means a motor vehicle with motive power (except a trailer), designed to carry not more than 10 individuals, that is constructed either on a truck chassis or with special features for occasional off-road operation.
+&emsp;(2) “multipurpose passenger vehicle” means a motor vehicle with motive power (except atrailer), designed to carry not more than 10 individuals, that is constructed either on a truck chassis or with special features for occasional off-road operation.
 
 &emsp;(3) “passenger car” means a motor vehicle with motive power (except a multipurpose passenger vehicle, motorcycle, or trailer) designed to carry not more than 10 individuals.
 

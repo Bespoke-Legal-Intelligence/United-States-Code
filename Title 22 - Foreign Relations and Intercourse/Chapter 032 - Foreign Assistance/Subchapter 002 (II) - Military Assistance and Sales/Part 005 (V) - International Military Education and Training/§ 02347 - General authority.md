@@ -22,9 +22,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 1990—Pub. L. 101–513 inserted after first sentence “Such civilian personnel shall include foreign governmental personnel of ministries other than ministries of defense if the military education and training would (i) contribute to responsible defense resource management, (ii) foster greater respect for and understanding of the principle of civilian control of the military, or (iii) improve military justice systems and procedures in accordance with internationally recognized human rights.”
 
-#### Delegation of Functions; Allocation of Funds
+#### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Defense and funds available to President for carrying out this subchapter, with specified exceptions, allocated to Secretary by sections 1–301(a) and 1–801(b) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56675, 56678, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Funds Made Available Pursuant to Other Provisions of Law
 

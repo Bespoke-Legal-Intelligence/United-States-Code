@@ -72,7 +72,7 @@ Notice and Reports to Congress.—(1) The Secretary of the Army shall submit to 
 
 (h)
 
-Arsenal Defined.—In this section, the term “arsenal” means a Government-owned, Government-operated defense plant that manufactures large-caliber cannon.
+Arsenal Defined.—In this section, the term “arsenal” means a Government-owned,Government-operated defense plant that manufactures large-caliber cannon.
 
 (Added Pub. L. 99–500, §101(c) \[title IX, §9036(b)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–107, and Pub. L. 99–591, §101(c) \[title IX, §9036(b)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–107; Pub. L. 99–661, div. A, title XII, §1203(a)(1), Nov. 14, 1986, 100 Stat. 3968; amended Pub. L. 101–189, div. A, title VIII, §806, Nov. 29, 1989, 103 Stat. 1489; Pub. L. 102–190, div. A, title X, §§1061(a)(24), 1086, Dec. 5, 1991, 105 Stat. 1473, 1483.)
 

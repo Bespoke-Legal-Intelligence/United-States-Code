@@ -34,7 +34,7 @@
 
 “(B) Any amount paid under this paragraph during a fiscal year shall be taken into account for purposes of applying the limitation under paragraph (1) of this subsection with respect to such fiscal year.
 
-“(C) The Office of Personnel Management shall prescribe regulations, consistent with section 5582 of thistitle, under which payment under this paragraph shall be made in the case of any individual whose death precludes payment under subparagraph (A) of this paragraph.”
+“(C) The Office of Personnel Management shall prescribe regulations, consistent with section 5582 of this title, under which payment under this paragraph shall be made in the case of any individual whose death precludes payment under subparagraph (A) of this paragraph.”
 
 1991—Subsec. (e). Pub. L. 102–175 added subsec. (e).
 

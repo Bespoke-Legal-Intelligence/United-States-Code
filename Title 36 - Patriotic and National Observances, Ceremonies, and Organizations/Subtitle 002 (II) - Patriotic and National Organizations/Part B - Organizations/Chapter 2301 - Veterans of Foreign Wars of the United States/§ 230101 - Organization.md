@@ -36,6 +36,8 @@ May 28, 1936, ch. 471, §§2, 4 (words before 4th semicolon related to perpetual
 
 36:114 (words before 4th semicolon related to perpetual succession).
 
+&nbsp;
+
 Subsection (a) is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary and executed words.
 
 In subsection (b), the words “perpetual existence” are substituted for “perpetual succession” for consistency in the revised title.

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than May 1 of each year, each Medicare+Choice organization shall submit to the Secretary, in a form and manner specified by the Secretary and for each Medicare+�Choice plan for the service area in which it intends to be offered in the following year—
+&emsp;Not later than July 1 of each year, each Medicare+Choice organization shall submit to the Secretary, in a form and manner specified by the Secretary and for each Medicare+�Choice plan for the service area (or segment of such an area if permitted under subsection (h) of this section) in which it intends to be offered in the following year—
 
 &emsp;&emsp;(A) the information described in paragraph (2), (3), or (4) for the type of plan involved; and
 
@@ -16,7 +16,7 @@
 
 #### (A) Basic (and additional) benefits
 
-&emsp;&emsp;For benefits described in <sup>1</sup> 1395w–22(a)(1)(A) of this title—
+&emsp;&emsp;For benefits described in section 1395w–22(a)(1)(A) of this title—
 
 &emsp;&emsp;&emsp;(i) the adjusted community rate (as defined in subsection (f)(3) of this section);
 
@@ -28,7 +28,7 @@
 
 #### (B) Supplemental benefits
 
-&emsp;&emsp;For benefits described in <sup>1</sup> 1395w–22(a)(3) of this title—
+&emsp;&emsp;For benefits described in section 1395w–22(a)(3) of this title—
 
 &emsp;&emsp;&emsp;(i) the adjusted community rate (as defined in subsection (f)(3) of this section);
 
@@ -42,19 +42,19 @@
 
 #### (A) Basic (and additional) benefits
 
-&emsp;&emsp;For benefits described in <sup>1</sup> 1395w–22(a)(1)(A) of this title, the amount of the Medicare+�Choice monthly MSA premium.
+&emsp;&emsp;For benefits described in section 1395w–22(a)(1)(A) of this title, the amount of the Medicare+�Choice monthly MSA premium.
 
 #### (B) Supplemental benefits
 
-&emsp;&emsp;For benefits described in <sup>1</sup> 1395w–22(a)(3) of this title, the amount of the Medicare+�Choice monthly supplementary beneficiary premium.
+&emsp;&emsp;For benefits described in section 1395w–22(a)(3) of this title, the amount of the Medicare+�Choice monthly supplementary beneficiary premium.
 
 #### (4) Requirements for private fee-for-service plans
 
-&emsp;For a Medicare+Choice plan described in section 1395w–21(a)(2)(C) of this title for benefits described in <sup>1</sup> 1395w–22(a)(1)(A) of this title, the information described in this paragraph is as follows:
+&emsp;For a Medicare+Choice plan described in section 1395w–21(a)(2)(C) of this title for benefits described in section 1395w–22(a)(1)(A) of this title, the information described in this paragraph is as follows:
 
 #### (A) Basic (and additional) benefits
 
-&emsp;&emsp;For benefits described in <sup>1</sup> 1395w–22(a)(1)(A) of this title—
+&emsp;&emsp;For benefits described in section 1395w–22(a)(1)(A) of this title—
 
 &emsp;&emsp;&emsp;(i) the adjusted community rate (as defined in subsection (f)(3) of this section);
 
@@ -66,7 +66,7 @@
 
 #### (B) Supplemental benefits
 
-&emsp;&emsp;For benefits described in <sup>1</sup> 1395w–22(a)(3) of this title, the amount of the Medicare+�Choice monthly supplemental beneficiary premium (as defined in subsection (b)(2)(B) of this section).
+&emsp;&emsp;For benefits described in section 1395w–22(a)(3) of this title, the amount of the Medicare+�Choice monthly supplemental beneficiary premium (as defined in subsection (b)(2)(B) of this section).
 
 #### (5) Review
 
@@ -130,7 +130,7 @@ Each Medicare+Choice organization shall permit the payment of Medicare+Choice mo
 
 #### (3) Determination on other basis
 
-&emsp;If the Secretary determines that adequate data are not available to determine the actuarial value under paragraph (1)(A) or (2), the Secretary may determine such amount with respect to all individuals in same geographic area, the State, or in the United States, eligible to enroll in the Medicare+Choice plan involved under this part or on the basis of other appropriate data.
+&emsp;If the Secretary determines that adequate data are not available to determine the actuarial value under paragraph (1)(A) or (2), the Secretary may determine such amount withrespect to all individuals in same geographic area, the State, or in the United States, eligible to enroll in the Medicare+Choice plan involved under this part or on the basis of other appropriate data.
 
 #### (4) Special rule for private fee-for-service plans
 
@@ -184,21 +184,51 @@ Each Medicare+Choice organization shall permit the payment of Medicare+Choice mo
 
 #### (4) Determination based on insufficient data
 
-&emsp;For purposes of this subsection, if the Secretary finds that there is insufficient enrollment experience to determine an average of the capitation payments to be made under this part at the beginning of a contract period or to determine (in the case of a newly operated provider-sponsored organization or other neworganization) the adjusted community rate for the organization, the Secretary may determine such an average based on the enrollment experience of other contracts entered into under this part and may determine such a rate using data in the general commercial marketplace.
+&emsp;For purposes of this subsection, if the Secretary finds that there is insufficient enrollment experience to determine an average of the capitation payments to be made under this part at the beginning of a contract period or to determine (in the case of a newly operatedprovider-sponsored organization or other new organization) the adjusted community rate for the organization, the Secretary may determine such an average based on the enrollment experience of other contracts entered into under this part and may determine such a rate using data in the general commercial marketplace.
 
 #### (g) Prohibition of State imposition of premium taxes
 
 No State may impose a premium tax or similar tax with respect to payments to Medicare+Choice organizations under section 1395w–23 of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1854, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 308.)
+#### (h) Permitting use of segments of service areas
+
+The Secretary shall permit a Medicare+Choice organization to elect to apply the provisions of this section uniformly to separate segments of a service area (rather than uniformly to an entire service area) as long as such segments are composed of one or more Medicare+Choice payment areas.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1854, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 308; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(C), title V, §§515(a), 516(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384.)
 
 #### References in Text
 
 Parts A and B of this subchapter, referred to in subsecs. (e)(1)(B), (4)(B) and (f)(1)(B)(ii), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
 
+#### Amendments
+
+1999—Subsec. (a)(1). Pub. L. 106–113, §1000(a)(6) \[title V, §516(a)\], substituted “July 1” for “May 1” in introductory provisions.
+
+Pub. L. 106–113, §1000(a)(6) \[title V, §515(a)(1)\], inserted “(or segment of such an area if permitted under subsection (h) of this section)” after “service area” in introductory provisions.
+
+Subsec. (a)(2)(A). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(C)(i)(I)\], inserted “section” before “1395w–22(a)(1)(A) of this title” in introductory provisions.
+
+Subsec. (a)(2)(B). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(C)(i)(II)\], inserted “section” after “described in” in introductory provisions.
+
+Subsec. (a)(3)(A), (B). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(C)(ii)\], inserted “section” after “described in”.
+
+Subsec. (a)(4). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(C)(iii)(I)\], which directed insertion of “section” after “described in”, was executed by making the insertion after “described in” the second time appearing in introductory provisions to reflect the probable intent of Congress.
+
+Subsec. (a)(4)(A). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(C)(iii)(II)\], inserted “section” after “described in” in introductory provisions.
+
+Subsec. (a)(4)(B). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(C)(iii)(III)\], inserted “section” after “described in”.
+
+Subsec. (h). Pub. L. 106–113, §1000(a)(6) \[title V, §515(a)(2)\], added subsec. (h).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by section 1000(a)(6) \[title III, §321(k)(6)(C)\] of Pub. L. 106–113 effective as if included in the enactment of the Balanced Budget Act of 1997, Pub. L. 105–33, except as otherwise provided, see section 1000(a)(6) \[title III, §321(m)\] of Pub. L. 106–113, set out as a note under section 1395d of this title.
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §515(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–384, provided that: “The amendments made by this section \[amending this section\] apply to contract years beginning on or after January 1, 2001.”
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §516(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–384, provided that: “The amendment made by subsection (a) \[amending this section\] applies to information submitted by Medicare+Choice organizations for years beginning with 1999.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1395w–22, 1395w–23, 1395w–27, 1395w–28, 1395mm of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “section”.</i>
 

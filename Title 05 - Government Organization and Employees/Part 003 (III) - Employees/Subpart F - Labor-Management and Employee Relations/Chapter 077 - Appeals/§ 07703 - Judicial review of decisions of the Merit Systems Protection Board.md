@@ -4,7 +4,7 @@
 
 (2) The Board shall be named respondent in any proceeding brought pursuant to this subsection, unless the employee or applicant for employment seeks review of a final order or decision on the merits on the underlying personnel action or on a request for attorney fees, in which case the agency responsible for taking the personnel action shall be the respondent.
 
-(b)(1) Except as provided in paragraph (2) of this subsection, a petition to review a finalorder or final decision of the Board shall be filed in the United States Court of Appeals for the Federal Circuit. Notwithstanding any other provision of law, any petition for review must be filed within 60 days after the date the petitioner received notice of the final order or decision of the Board.
+(b)(1) Except as provided in paragraph (2) of this subsection, a petition to review a final order or final decision of the Board shall be filed in the United States Court of Appeals for the Federal Circuit. Notwithstanding any other provision of law, any petition for review must be filed within 60 days after the date the petitioner received notice of the final order or decision of the Board.
 
 (2) Cases of discrimination subject to the provisions of section 7702 of this title shall be filed under section 717(c) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–16(c)), section 15(c) of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 633a(c)), and section 16(b) of the Fair Labor Standards Act of 1938, as amended (29 U.S.C. 216(b)), as applicable. Notwithstanding any other provision of law, any such case filed under any such section must be filed within 30 days after the date the individual filing the case received notice of the judicially reviewable action under such section 7702.
 

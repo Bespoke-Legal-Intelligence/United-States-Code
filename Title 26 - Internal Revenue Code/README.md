@@ -1,5 +1,5 @@
 
-26 U.S.C.<br>United States Code, 1998 Edition<br>Title 26 - INTERNAL REVENUE CODE<br>From the U.S. Government Publishing Office, www.gpo.gov
+26 U.S.C.<br>United States Code, 1999 Edition<br>Title 26 - INTERNAL REVENUE CODE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 26—INTERNAL REVENUE CODE
 
@@ -15623,7 +15623,7 @@ References in Laws, Etc.—Except when inappropriate, any reference in any law, 
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 2 sections 31a–2, 31a–3, 60c–1, 65c, 632, 651, 691e, 691f, 1610; title 5 sections 5514, 8440; title 10 section 2401; title 11 sections 346, 745; title 12 sections 1825, 3413; title 15 sections 78c, 78kkk, 80a–3, 80b–3, 631b; title 16 sections 460<i>lll</i>–47, 470b, 1855; title 18 section 4043; title 20 sections 1087–1, 1087–2, 1087ee, 1087ss, 1087vv; title 22 sections 3307, 3968, 4071i, 4071j, 5401; title 25 sections 983f, 1716, 2719; title 29 sections 1002, 1061, 1083, 1146, 1301, 1453, 1706, 2231; title 30 section 1473; title 31 sections 1324, 3105, 3106, 3124, 3332, 3701, 3711, 3716, 3718, 3720B, 3729, 3801; title 33 section 2717; title 36 sections 20708, 20909, 21108, 22908, 40108, 50108, 60108, 70108, 70308, 80508, 100108, 110108, 140708, 150109, 151508, 152108, 152708, 152909, 154508, 154709, 170309, 170508, 190309, 210309, 220708, 230509, 240108; title 38 sections 7361, 7363; title 40 section 270a; title 42 sections 401, 405, 408, 416, 604, 1395b–5, 1395y, 1471, 4636, 5055, 8217, 10702; title 45 sections 231m, 1347; title 46 App. section 1177; title 49 section 326; title 50 section 2154.
+This title is referred to in title 2 sections 31a–2, 31a–3, 60c–1, 65c, 632, 651, 691e, 691f, 1610; title 5 sections 5514, 8440, 8440e; title 10 section 2401; title 11 sections 346, 745; title 12 sections 1825, 3413; title 15 sections 78c, 78kkk, 80a–3, 80b–3, 631b; title 16 sections 460<i>lll</i>–47, 470b, 1855; title 18 section 4043; title 20 sections 1087–1, 1087–2, 1087ee, 1087ss, 1087vv; title 22 sections 3307, 3968, 4071i, 4071j, 5401; title 25 sections 983f, 1716, 2719; title 29 sections 1002, 1061, 1083, 1146, 1301, 1453, 1706, 2897; title 30 section 1473; title 31 sections 1324, 3105, 3106, 3124, 3332, 3701, 3711, 3716, 3718, 3720B, 3729, 3801; title 33 section 2717; title 36 sections 20208, 20708, 20909, 21008, 21108, 22908, 40108, 50108, 60108, 70108, 70308, 80508, 100108, 110108, 140708, 150109, 151508, 152108, 152708, 152909, 154508, 154709, 170309, 170508, 190309, 210309, 220708, 230509, 240108; title 38 sections 7361, 7363; title 40 sections 207c–2, 270a; title 42 sections 401, 405, 408, 416, 604, 1007, 1395b–5, 1395y, 1471, 4636, 5055, 8217, 10702; title 45 sections 231m, 1347; title 46 App. section 1177; title 49 section 326; title 50 section 2154.
 
 #### Table of Contents
 

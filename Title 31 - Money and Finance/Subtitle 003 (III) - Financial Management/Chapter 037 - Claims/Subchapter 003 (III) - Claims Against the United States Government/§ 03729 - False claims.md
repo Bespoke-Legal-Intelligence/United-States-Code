@@ -20,11 +20,11 @@ Liability for Certain Acts.—Any person who—
 
 > is liable to the United States Government for a civil penalty of not less than $5,000 and not more than $10,000, plus 3 times the amount of damages which the Government sustains because of the act of that person, except that if the court finds that—
 
-&emsp;(A) the person committing the violation of this subsection furnished officials of the United States responsible for investigating false claims violations with all informationknown to such person about the violation within 30 days after the date on which the defendant first obtained the information;
+&emsp;(A) the person committing the violation of this subsection furnished officials of the United States responsible for investigating false claims violations with all information known to such person about the violation within 30 days after the date on which the defendant first obtained the information;
 
 &emsp;(B) such person fully cooperated with any Government investigation of such violation; and
 
-&emsp;(C) at the time such person furnished the United States with the information about the violation, no criminal prosecution, civil action, or administrative action had commenced under this title with respect to such violation, and the person did not have actual knowledge of the existence of an investigation into such violation;
+&emsp;(C) at the time such person furnished the United States with the information about theviolation, no criminal prosecution, civil action, or administrative action had commenced under this title with respect to such violation, and the person did not have actual knowledge of the existence of an investigation into such violation;
 
 > the court may assess not less than 2 times the amount of damages which the Government sustains because of the act of the person. A person violating this subsection shall also be liable to the United States Government for the costs of a civil action brought to recover any such penalty or damages.
 
@@ -96,7 +96,7 @@ Subsecs. (b) to (e). Pub. L. 99–562, §2(7), added subsecs. (b) to (e).
 
 #### Increased Penalties for False Claims in Defense Procurement
 
-Pub. L. 99–145, title IX, §931(b), Nov. 8, 1985, 99 Stat. 699, provided that: “Notwithstanding section 3729 of title 31, United States Code, the amount of the liability under that section in the case of a person who makes a false claim related to a contract with the Department of Defense shall be a civil penalty of $2,000, an amount equal to three times the amount of the damages the Government sustains because of the act of the person, and costs of the civil action.”
+Pub. L. 99–145, title IX, §931(b), Nov. 8, 1985, 99 Stat. 699, provided that: “Notwithstanding section 3729 of title 31, United States Code, the amount of the liability under that section in the case of a person who makesa false claim related to a contract with the Department of Defense shall be a civil penalty of $2,000, an amount equal to three times the amount of the damages the Government sustains because of the act of the person, and costs of the civil action.”
 
 \[Section 931(c) of Pub. L. 99–145 provided that section 931(b) is applicable to claims made or presented on or after Nov. 8, 1985.\]
 

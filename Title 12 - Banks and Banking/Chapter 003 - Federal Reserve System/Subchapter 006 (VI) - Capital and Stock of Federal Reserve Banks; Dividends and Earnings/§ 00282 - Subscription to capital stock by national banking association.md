@@ -14,5 +14,5 @@ Payment of obligations containing a gold clause, see section 5118 of Title 31, M
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 377, 481 of this title.
+This section is referred to in section 481 of this title.
 

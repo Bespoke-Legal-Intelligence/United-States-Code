@@ -1,5 +1,5 @@
 
-7 U.S.C.<br>United States Code, 1998 Edition<br>Title 7 - AGRICULTURE<br>From the U.S. Government Publishing Office, www.gpo.gov
+7 U.S.C.<br>United States Code, 1999 Edition<br>Title 7 - AGRICULTURE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 7—AGRICULTURE
 
@@ -36,7 +36,7 @@
 | [<b>22.</b>](Chapter%20022%20-%20Agricultural%20Marketing/README.md) | <b>Agricultural Marketing \[Omitted or Transferred\]</b> | <b>521</b> |
 | [<b>23.</b>](Chapter%20023%20-%20Foreign%20Agricultural%20Service/README.md) | <b>Foreign Agricultural Service \[Repealed\]</b> | <b>541</b> |
 | [<b>24.</b>](Chapter%20024%20-%20Perishable%20Agricultural%20Commodities/README.md) | <b>Perishable Agricultural Commodities \[Transferred to Chapter 20A\]</b> | <b>551</b> |
-| [<b>25.</b>](Chapter%20025%20-%20Export%20Standards%20for%20Apples%20and%20Pears/README.md) | <b>Export Standards for Apples and Pears</b> | <b>581</b> |
+| [<b>25.</b>](Chapter%20025%20-%20Export%20Standards%20for%20Apples/README.md) | <b>Export Standards for Apples</b> | <b>581</b> |
 | [<b>25A.</b>](Chapter%20025A%20-%20Export%20Standards%20for%20Grapes%20and%20Plums/README.md) | <b>Export Standards for Grapes and Plums</b> | <b>591</b> |
 | [<b>26.</b>](Chapter%20026%20-%20Agricultural%20Adjustment/README.md) | <b>Agricultural Adjustment</b> | <b>601</b> |
 | [<b>26A.</b>](Chapter%20026A%20-%20Agricultural%20Marketing%20Agreements/README.md) | <b>Agricultural Marketing Agreements</b> | <b>671</b> |
@@ -159,7 +159,7 @@
 - [Chapter 022 - Agricultural Marketing](Chapter%20022%20-%20Agricultural%20Marketing/README.md)
 - [Chapter 023 - Foreign Agricultural Service](Chapter%20023%20-%20Foreign%20Agricultural%20Service/README.md)
 - [Chapter 024 - Perishable Agricultural Commodities](Chapter%20024%20-%20Perishable%20Agricultural%20Commodities/README.md)
-- [Chapter 025 - Export Standards for Apples and Pears](Chapter%20025%20-%20Export%20Standards%20for%20Apples%20and%20Pears/README.md)
+- [Chapter 025 - Export Standards for Apples](Chapter%20025%20-%20Export%20Standards%20for%20Apples/README.md)
 - [Chapter 025A - Export Standards for Grapes and Plums](Chapter%20025A%20-%20Export%20Standards%20for%20Grapes%20and%20Plums/README.md)
 - [Chapter 026 - Agricultural Adjustment](Chapter%20026%20-%20Agricultural%20Adjustment/README.md)
 - [Chapter 026A - Agricultural Marketing Agreements](Chapter%20026A%20-%20Agricultural%20Marketing%20Agreements/README.md)

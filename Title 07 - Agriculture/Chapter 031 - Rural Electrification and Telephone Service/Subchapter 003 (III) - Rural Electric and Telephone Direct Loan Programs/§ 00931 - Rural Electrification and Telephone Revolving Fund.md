@@ -4,7 +4,7 @@ There is hereby established in the Treasury of the United States a fund, to be k
 
 &emsp;(1) all notes, bonds, obligations, liens, mortgages, and property delivered or assigned to the Secretary pursuant to loans heretofore or hereafter made under sections 904, 905,<sup>1</sup> and 922 of this title and under this subchapter, as of May 11, 1973, and all proceeds from the sales hereunder of such notes, bonds, obligations, liens, mortgages, and property, which shall be transferred to and be assets of the funds;
 
-&emsp;(2) undisbursed balances of electric and telephone loans made under sections 904, 905,<sup>1</sup> and 922 of this title, which as of May 11, 1973, shall be transferred to and be assets of the fund;
+&emsp;(2) undisbursed balances of electric and telephone loans made under sections 904, 905,<sup>1</sup> and922 of this title, which as of May 11, 1973, shall be transferred to and be assets of the fund;
 
 &emsp;(3) all collections of principal and interest received on and after July 1, 1972, on notes, bonds, judgments, or other obligations made or held under subchapters I and II of this chapter and under this subchapter, except for net collection proceeds previously appropriated for the purchase of class A stock in the Rural Telephone Bank, which shall be paid into and be assets of the fund;
 

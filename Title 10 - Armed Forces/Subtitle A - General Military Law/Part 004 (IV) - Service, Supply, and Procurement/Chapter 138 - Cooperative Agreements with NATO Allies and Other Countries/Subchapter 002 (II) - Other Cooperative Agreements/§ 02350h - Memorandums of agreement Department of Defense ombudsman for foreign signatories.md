@@ -6,5 +6,5 @@ The Secretary of Defense shall designate an official to act as ombudsman within 
 
 #### Deadline for Designation of Ombudsman
 
-Section 1452(b) of Pub. L. 101–510 provided that: “The official required to be designated under section 2350h of title 10, United States Code, as added by subsection (a), shall be designated by the Secretary of Defense not later than 90 days after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Section 1452(b) of Pub. L. 101–510 provided that: “The official required to be designated under section 2350h oftitle 10, United States Code, as added by subsection (a), shall be designated by the Secretary of Defense not later than 90 days after the date of the enactment of this Act \[Nov. 5, 1990\].”
 

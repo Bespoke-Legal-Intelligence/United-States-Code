@@ -50,13 +50,13 @@ A civil action may be brought—
 
 (5) The Secretary may assess a civil penalty against any person of up to $1,000 a day from the date of the person's failure or refusal to file the information required to be filed by such person with the Secretary under regulations prescribed pursuant to section 1021(g) of this title.
 
-(6) If, within 30 days of a request by the Secretary to a plan administrator for documents under section 1024(a)(6) of this title, the plan administrator fails to furnish the material requested to the Secretary, the Secretary may assess a civil penalty against the plan administrator of up to $100 a day from the date of such failure (but in no event in excess of $1,000 per request). No penalty shall be imposed under this paragraph for any failure resulting from matters reasonably beyond the control of the plan administrator.
+(6) If, within 30 days of a request by the Secretary to a plan administrator for documents under section 1024(a)(6) of this title, the plan administrator fails to furnish the material requested to the Secretary, the Secretary may assess a civil penalty against the plan administrator of up to $100 a day from the date of suchfailure (but in no event in excess of $1,000 per request). No penalty shall be imposed under this paragraph for any failure resulting from matters reasonably beyond the control of the plan administrator.
 
 (7) The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) <sup>2</sup> of title 42.
 
 #### (d) Status of employee benefit plan as entity
 
-(1) An employee benefit plan may sue or be sued under this subchapter as an entity. Serviceof summons, subpena, or other legal process of a court upon a trustee or an administrator of an employee benefit plan in his capacity as such shall constitute service upon the employee benefit plan. In a case where a plan has not designated in the summary plan description of the plan an individual as agent for the service of legal process, service upon the Secretary shall constitute such service. The Secretary, not later than 15 days after receipt of service under the preceding sentence, shall notify the administrator or any trustee of the plan of receipt of such service.
+(1) An employee benefit plan may sue or be sued under this subchapter as an entity. Service of summons, subpena, or other legal process of a court upon a trustee or an administrator of an employee benefit plan in his capacity as such shall constitute service upon the employee benefit plan. In a case where a plan has not designated in the summary plan description of the plan an individual as agent for the service of legal process, service upon the Secretary shall constitute such service. The Secretary, not later than 15 days after receipt of service under the preceding sentence, shall notify the administrator or any trustee of the plan of receipt of such service.
 
 (2) Any money judgment under this subchapter against an employee benefit plan shall be enforceable only against the plan as an entity and shall not be enforceable against any other person unless liability against such person is established in his individual capacity under this subchapter.
 
@@ -180,7 +180,7 @@ Subsec. (e)(1). Pub. L. 103–66, §4301(c)(3), substituted in first sentence �
 
 1990—Subsec. (c)(1). Pub. L. 101–508, §12012(d)(2)(A), inserted “or section 1021(e)(1) of this title” after “section 1166 of this title”.
 
-Subsec. (c)(3). Pub. L. 101–508, §12012(d)(2)(B), inserted “or who fails to meet the requirements of section 1021(e)(2) of this title with respect to any person” afterfirst reference to “beneficiary” and “or to such person” after second reference to “beneficiary”.
+Subsec. (c)(3). Pub. L. 101–508, §12012(d)(2)(B), inserted “or who fails to meet the requirements of section 1021(e)(2) of this title with respect to any person” after first reference to “beneficiary” and “or to such person” after second reference to “beneficiary”.
 
 1989—Subsec. (a)(6). Pub. L. 101–239, §7881(j)(2), substituted “subsection (c)(2) or (i)” for “subsection (i)”.
 

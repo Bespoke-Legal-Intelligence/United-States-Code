@@ -18,7 +18,7 @@ From the amount described in section 629(b) of this title for any fiscal year th
 
 #### (A) In general
 
-&emsp;&emsp;As used in paragraph (1) of this subsection, the term “food stamp percentage” means, with respect to a State and a fiscal year, the average monthly number of children receiving food stamp benefits in the State for months in the 3 fiscal years referred to in subparagraph (B) of this paragraph, as determined from sample surveys made under section 2025(c) of title 7, expressed as a percentage of the average monthly number of children receiving food stamp benefits in the States described in such paragraph (1) for months in such 3 fiscal years, as so determined.
+&emsp;&emsp;As used in paragraph (1) of this subsection, the term “food stamp percentage” means,with respect to a State and a fiscal year, the average monthly number of children receiving food stamp benefits in the State for months in the 3 fiscal years referred to in subparagraph (B) of this paragraph, as determined from sample surveys made under section 2025(c) of title 7, expressed as a percentage of the average monthly number of children receiving food stamp benefits in the States described in such paragraph (1) for months in such 3 fiscal years, as so determined.
 
 #### (B) Fiscal years used in calculation
 

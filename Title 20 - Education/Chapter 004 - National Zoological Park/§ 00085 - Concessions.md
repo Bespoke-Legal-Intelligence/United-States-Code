@@ -2,7 +2,7 @@
 
 #### (a) Authorization; use of proceeds for research and educational work
 
-The Board of Regents of the Smithsonian Institution, in furtherance of the mission of the National Zoological Park to provide for the advancement of science and instruction and recreation of the people, is authorized to negotiate agreements granting concessions at the National Zoological Park to nonprofit scientific, educational, or historic organizations. The net proceeds of such organizations gained from such concessions granted under this subsection shall be used exclusively for research and educational work for the benefit of the National Zoological Park.
+The Board of Regents of the Smithsonian Institution, in furtherance of the mission of the National Zoological Park to provide for the advancement of science and instruction and recreation of the people, is authorized to negotiate agreements granting concessions at the National Zoological Park to nonprofit scientific, educational, or historic organizations. The net proceeds of such organizations gained from such concessions granted under this subsection shall be used exclusively for research and educationalwork for the benefit of the National Zoological Park.
 
 #### (b) Voluntary services
 

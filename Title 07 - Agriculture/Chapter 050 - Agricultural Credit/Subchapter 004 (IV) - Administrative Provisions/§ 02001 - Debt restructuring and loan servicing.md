@@ -52,7 +52,7 @@ To be eligible to obtain assistance under subsection (a) of this section—
 
 &emsp;&emsp;&emsp;(i) the payment of prior liens;
 
-&emsp;&emsp;&emsp;(ii) taxes and assessments, depreciation, management costs, the yearly percentage decrease or increase in the value of the property, and lost interest income, each calculated for the average holding period for the type of property involved;
+&emsp;&emsp;&emsp;(ii) taxes and assessments, depreciation, management costs, the yearly percentage decrease or increase in the value of the property, and lost interest income, eachcalculated for the average holding period for the type of property involved;
 
 &emsp;&emsp;&emsp;(iii) resale expenses, such as repairs, commissions, and advertising; and
 
@@ -72,7 +72,7 @@ To be eligible to obtain assistance under subsection (a) of this section—
 
 #### (C) Cash flow margin
 
-&emsp;&emsp;For the purpose of assessing under subparagraph (A) the ability of a borrower to meet debt obligations and continue farming operations, the Secretary shall assume that the borrower needs up to 100 percent of the amount indicated for payment of farm operating expenses, debt service obligations, and family living expenses.
+&emsp;&emsp;For the purpose of assessing under subparagraph (A) the ability of a borrower to meet debt obligations and continue farming operations, the Secretary shall assume that the borrower needs up to 110 percent of the amount indicated for payment of farm operating expenses, debt service obligations, and family living expenses.
 
 #### (4) Notification
 
@@ -190,7 +190,7 @@ Once an appeal has been filed under section 1983b <sup>1</sup> of this title, a
 
 #### (j) Independent appraisals
 
-An appeal filed with the appeals division under section 1983b of this title may include a request by the borrower for an independent appraisal of any property securing the loan. On such request, the appeals division shall present the borrower with a list of three appraisers approved by the county supervisor, from which the borrower shall select an appraiser to conduct the appraisal, the cost of which shall be borne by the borrower. The results of such appraisal shall be considered in any final determination concerning the loan. A copy of any appraisal madeunder this paragraph shall be provided to the borrower.
+An appeal filed with the appeals division under section 1983b of this title may include a request by the borrower for an independent appraisal of any property securing the loan. On such request, the appeals division shall present the borrower with a list of three appraisers approved by the county supervisor, from which the borrower shall select an appraiser to conduct the appraisal, the cost of which shall be borne by the borrower. The results of such appraisal shall be considered in any final determination concerning the loan. A copy of any appraisal made under this paragraph shall be provided to the borrower.
 
 #### (k) Partial liquidations
 
@@ -228,7 +228,7 @@ The Secretary may not use the authority provided by this section to reduce or te
 
 The Secretary may provide not more than $300,000 in principal and interest forgiveness under this section per borrower.
 
-(Pub. L. 87–128, title III, §353, as added Pub. L. 100–233, title VI, §615(a), Jan. 6, 1988, 101 Stat. 1678; amended Pub. L. 101–624, title XVIII, §1816(a)–(d), (f)–(h), Nov. 28, 1990, 104 Stat. 3826–3828; Pub. L. 102–237, title V, §501(h), Dec. 13, 1991, 105 Stat. 1868; Pub. L. 104–127, title VI, §§645, 661(j), Apr. 4, 1996, 110 Stat. 1103, 1107; Pub. L. 105–277, div. A, title I, §101(a) \[title VIII, §§807, 808\], Oct. 21, 1998, 112 Stat. 2681, 2681–40.)
+(Pub. L. 87–128, title III, §353, as added Pub. L. 100–233, title VI, §615(a), Jan. 6, 1988, 101 Stat. 1678; amended Pub. L. 101–624, title XVIII, §1816(a)–(d), (f)–(h), Nov. 28, 1990, 104 Stat. 3826–3828; Pub. L. 102–237, title V, §501(h), Dec. 13, 1991, 105 Stat. 1868; Pub. L. 104–127, title VI, §§645, 661(j), Apr. 4, 1996, 110 Stat. 1103, 1107; Pub. L. 105–277, div. A, §101(a) \[title VIII, §§807, 808\], Oct. 21, 1998, 112 Stat. 2681, 2681–40; Pub. L. 106–31, title III, §3019(b), May 21, 1999, 113 Stat. 99.)
 
 #### References in Text
 
@@ -237,6 +237,8 @@ For definition of “this chapter”, referred to in subsecs. (a), (c)(5), and (
 Section 1983b of this title, referred to in subsec. (h), was repealed by Pub. L. 103–354, title II, §281(c), Oct. 13, 1994, 108 Stat. 3233.
 
 #### Amendments
+
+1999—Subsec. (c)(3)(C). Pub. L. 106–31 substituted “110 percent” for “100 percent”.
 
 1998—Subsec. (c)(3)(C). Pub. L. 105–277, §101(a) \[title VIII, §808\], substituted “100 percent” for “110 percent”.
 
@@ -278,7 +280,7 @@ Subsec. (c)(3)(C). Pub. L. 101–624, §1816(c), added subpar. (C).
 
 Subsec. (c)(4). Pub. L. 101–624, §1816(d), substituted “90” for “60” in introductory provisions.
 
-Subsec. (c)(6). Pub. L. 101–624, §1816(f), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “If the value of the restructured loan is less than the recovery value and if, within 45 days after receipt of the notification described in paragraph (4)(B), theborrower pays (or obtains third-party financing to pay) the Secretary an amount equal to the recovery value, the obligations of the borrower to the Secretary under the loan shall terminate, except that the Secretary may require, as a condition of such termination of loan obligations, that the borrower enter into an agreement with the Secretary if the borrower sells or otherwise conveys the real property used to secure such loan within 2 years after the date of such agreement. Any such agreement shall provide for the recapture of part or all of the difference between the recovery value of the loan and the fair market value (on the date of such agreement) of the property securing the loan if the borrower realizes a gain on the sale or conveyance over the amount of the recovery value of the loan. In no event shall any such agreement provide for recapture of an amount that exceeds the difference between such recovery value and the fair market value of the property securing the loan on the date of such agreement.”
+Subsec. (c)(6). Pub. L. 101–624, §1816(f), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “If the value of the restructured loan is less than the recovery value and if, within 45 days after receipt of the notification described in paragraph (4)(B), the borrower pays (or obtains third-party financing to pay) the Secretary an amount equal to the recovery value, the obligations of the borrower to the Secretary under the loan shall terminate, except that the Secretary may require, as a condition of such termination of loan obligations, that the borrower enter into an agreement with the Secretary if the borrower sells or otherwise conveys the real property used to secure such loan within 2 years after the date of such agreement. Any such agreement shall provide for the recapture of part or all of the difference between the recovery value of the loan and the fair market value (on the date of such agreement) of the property securing the loan if the borrower realizes a gain on the sale or conveyance over the amount of the recovery value of the loan. In no event shall any such agreement provide for recapture of an amount that exceeds the difference between such recovery value and the fair market value of the property securing the loan on the date of such agreement.”
 
 Subsec. (c)(7). Pub. L. 101–624, §1816(g), added par. (7).
 

@@ -113,16 +113,21 @@
 | (j) | Limitation on immigration of foreign medical graduates. |
 | (k) | Attorney General's discretion to admit otherwise inadmissible aliens who possess immigrant visas. |
 | (<i>l</i>) | Guam; waiver of requirements for nonimmigrant visitors; conditions of waiver; acceptance of funds from Guam. |
-| (m) | Requirements for admission of nonimmigrant nurses during five-year period. |
+| (m) | Requirements for admission of nonimmigrant nurses. |
 | (n) | Labor condition application. |
 | (<i>o</i>) | Omitted. |
 | (p) | Computation of prevailing wage level. |
 | (q) | Academic honoraria. |
+| (r) | Exception for certain alien nurses. |
 | 1182a to 1182c. Repealed. |  |
 | [1182d.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001182d%20-%20Denial%20of%20visas%20to%20confiscators%20of%20American%20property.md) | Denial of visas to confiscators of American property. |
 | (a) | Denial of visas. |
 | (b) | Exceptions. |
 | (c) | Reporting requirement. |
+| [1182e.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001182e%20-%20Denial%20of%20entry%20into%20United%20States%20of%20foreign%20nationals%20engaged%20in%20establishment%20or%20enforcement%20of%20forced%20abortion%20or%20sterilization%20policy.md) | Denial of entry into United States of foreign nationals engaged in establishment or enforcement of forced abortion or sterilization policy. |
+| (a) | Denial of entry. |
+| (b) | Exceptions. |
+| (c) | Waiver. |
 | [1183\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001183%20-%20Admission%20of%20aliens%20on%20giving%20bond%20or%20undertaking%3B%20return%20upon%20permanent%20departure.md) | Admission of aliens on giving bond or undertaking; return upon permanent departure. |
 | [1183a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001183a%20-%20Requirements%20for%20sponsor%27s%20affidavit%20of%20support.md) | Requirements for sponsor's affidavit of support. |
 | (a) | Enforceability. |
@@ -562,7 +567,7 @@
 | (b) | Disposition of proceeds no longer required. |
 | (c) | Disposition of certain corporations and business entities. |
 | (d) | Financial audits. |
-| [1363b.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001363b%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20A%2C%20title%20I%2C%20%C2%A7101%28b%29%20%5Btitle%20I%2C%20%C2%A7109%28b%29%5D%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%9350%2C%202681%E2%80%9367.md) | Repealed |
+| [1363b.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001363b%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20A%2C%20%C2%A7101%28b%29%20%5Btitle%20I%2C%20%C2%A7109%28b%29%5D%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%9350%2C%202681%E2%80%9367.md) | Repealed |
 | [1364\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001364%20-%20Triennial%20comprehensive%20report%20on%20immigration.md) | Triennial comprehensive report on immigration. |
 | (a) | Triennial report. |
 | (b) | Details in each report. |
@@ -874,7 +879,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1184a, 1255b, 1367, 1611, 1612, 1621, 1622, 1641, 1642, 1643 of this title; title 7 sections 1308–3, 1996, 2020, 3508; title 10 sections 1060a, 3253, 8253, 12102, 12201; title 15 section 278g; title 18 sections 1203, 1961; title 19 section 3401; title 22 sections 2454, 2778, 3303, 5711; title 25 section 1300b–13; title 42 section 6705; title 46 section 8103; title 50 sections 47c, 47f.
+This chapter is referred to in sections 1184a, 1255b, 1367, 1611, 1612, 1621, 1622, 1641, 1642, 1643 of this title; title 7 sections 1308–3, 1996, 2020, 3508; title 10 sections 1060a, 3253, 8253, 12102, 12201; title 15 section 278g; title 18 sections 1203, 1961; title 19 section 3401; title 22 sections 2454, 2778, 3303, 5711; title 25 section 1300b–13; title 42 sections 1437a, 6705; title 46 section 8103; title 50 sections 47c, 47f.
 
 
 ---

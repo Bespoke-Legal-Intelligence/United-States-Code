@@ -76,7 +76,7 @@ Subsec. (c)(6). Pub. L. 98–181, §404(b)(9), substituted provision that the in
 
 1979—Subsec. (c)(2). Pub. L. 96–153 substituted “75 per centum” for “50 per centum” and inserted exception that the dollar amount limitations may be exceeded by not be exceed 90 per centum where the Secretary determines it to be necessary.
 
-1976—Subsec. (c)(2). Pub. L. 94–375 substituted “50 per centum in any geographical area” for “75 per centum in any geographical area”, “$18,450” for “$12,300”, “$20,625” for “$17,188”, “$24,630” for “$20,525”, “$29,640” for “$24,700”, “$34,846” for “$29,038”, “$20,962” for “$13,975”, “$24,030” for “$20,025”, “$29,220” for “$24,350”, “$37,800” for “$31,500”, and “$41,494” for “$34,578”.
+1976—Subsec. (c)(2). Pub. L. 94–375 substituted “50 per centum in any geographical area” for “75 per centum in any geographical area”, “$18,450” for “$12,300”,“$20,625” for “$17,188”, “$24,630” for “$20,525”, “$29,640” for “$24,700”, “$34,846” for “$29,038”, “$20,962” for “$13,975”, “$24,030” for “$20,025”, “$29,220” for “$24,350”, “$37,800” for “$31,500”, and “$41,494” for “$34,578”.
 
 1975—Subsec. (c)(2). Pub. L. 94–173 raised from 45 per centum to 75 per centum the amount by which any dollar limitation may, by regulation, be increased.
 

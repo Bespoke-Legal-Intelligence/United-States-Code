@@ -10,7 +10,7 @@ Beginning in fiscal year 1994.—For each fiscal year the Secretary shall withho
 
 &emsp;(2)
 
-Beginning in fiscal year 1996.—The Secretary shall withhold 10 percent (including any amounts withheld under paragraph (1)) of the amount required to be apportioned to anyState under each of paragraphs (1), (3), and (5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) of section 104(b) on the first day of each fiscal year which begins after the fourth calendar year following the effective date of this section if the State does not meet the requirements of paragraph (3) on the first day of such fiscal year.
+Beginning in fiscal year 1996.—The Secretary shall withhold 10 percent (including any amounts withheld under paragraph (1)) of the amount required to be apportioned to any State under each of paragraphs (1), (3), and (5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) of section 104(b) on the first day of each fiscal year which begins after the fourth calendar year following the effective date of this section if the State does not meet the requirements of paragraph (3) on the first day of such fiscal year.
 
 &emsp;(3)
 
@@ -24,7 +24,7 @@ Requirements.—A State meets the requirements of this paragraph if—
 
 &emsp;&emsp;&emsp;&emsp;(II) any drug offense; and
 
-&emsp;&emsp;&emsp;(ii) a delay in the issuance or reinstatement of a driver's license to such an individual for at least 6 months after the individual applies for the issuance or reinstatement of a driver's license if the individual does not have a driver's license, or the driver's license of the individual is suspended, at the time the individual is so convicted; or
+&emsp;&emsp;&emsp;(ii) a delay in the issuance or reinstatement of a driver's license to such an individual for at least 6 months after the individual applies for the issuance or reinstatement of a driver's license if the individual does not have a driver's license, orthe driver's license of the individual is suspended, at the time the individual is so convicted; or
 
 &emsp;&emsp;(B) the Governor of the State—
 
@@ -96,7 +96,7 @@ Convicted.—The term “convicted” includes adjudicated under juvenile procee
 
 #### References in Text
 
-The date of enactment of the Transportation Equity Act for the 21st Century, referred to in subsecs. (a)(1), (2) and (b)(1)(A), (3), (4), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
+The date of enactment of the Transportation Equity Act for the 21st Century, referred to in subsecs. (a)(1),\(2) and (b)(1)(A), (3), (4), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
 The effective date of this section, referred to in subsec. (a)(1), (2), (3)(B)(i), is Nov. 5, 1990. See section 333(e) of Pub. L. 102–143, set out as a note below.
 

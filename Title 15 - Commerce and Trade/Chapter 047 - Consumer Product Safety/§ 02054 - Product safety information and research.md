@@ -166,7 +166,7 @@ Sec. 3. (a) There is established the Technical Study Group on Cigarette and Litt
 
 “(b) Subsection (a) does not authorize the withholding of any information from any duly authorized subcommittee or committee of the Congress, except that if a subcommittee or committee of the Congress requests the Interagency Committee to provide such information, the Chairman of the Interagency Committee shall notify the person who provided the information of such a request in writing.
 
-“(c) The Interagency Committee shall, on the vote of a majority of its members, adopt reasonable proceduresto protect the confidentiality of trade secret and confidential information, as defined in this section.
+“(c) The Interagency Committee shall, on the vote of a majority of its members, adopt reasonable procedures to protect the confidentiality of trade secret and confidential information, as defined in this section.
 
 “Sec. 7. As used in this Act, the terms ‘cigarettes’ and ‘little cigars’ have the meanings given such terms by section 3 of the Federal Cigarette Labeling and Advertising Act \[15 U.S.C. 1332\].”
 

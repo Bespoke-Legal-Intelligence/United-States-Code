@@ -14,7 +14,7 @@
 
 (d) This section shall not apply to bankruptcy matters or other proceedings under Title 11.
 
-(June 25, 1948, ch. 646, 62 Stat. 963; May 24, 1949, ch. 139, §§107, 108, 63 Stat. 104; Pub. L. 95–598,title II, §248, Nov. 6, 1978, 92 Stat. 2672; Pub. L. 102–198, §12, Dec. 9, 1991, 105 Stat. 1627.)
+(June 25, 1948, ch. 646, 62 Stat. 963; May 24, 1949, ch. 139, §§107, 108, 63 Stat. 104; Pub. L. 95–598, title II, §248, Nov. 6, 1978, 92 Stat. 2672; Pub. L. 102–198, §12, Dec. 9, 1991, 105 Stat. 1627.)
 
 #### Historical and Revision Notes
 

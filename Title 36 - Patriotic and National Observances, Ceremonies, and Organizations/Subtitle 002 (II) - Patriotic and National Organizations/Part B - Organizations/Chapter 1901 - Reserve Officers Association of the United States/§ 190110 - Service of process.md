@@ -30,5 +30,7 @@ June 30, 1950, ch. 431, §§16 (2d, last sentences), 17, 64 Stat. 315.
 
 36:237.
 
+&nbsp;
+
 In subsection (b), the words “precedent” and “or conferred” are omitted as unnecessary. The words “with the secretary of state or other designated official” are substituted for “in the office of the secretary of state, or similar officer” for consistency in the revised title. The words “post office” are omitted as unnecessary.
 

@@ -90,7 +90,7 @@ Par. (15). Pub. L. 105–285, §103(8), added par. (15).
 
 Par. (16). Pub. L. 105–285, §103(1), redesignated par. (1) as (16) and transferred it to appear after par. (15).
 
-Par. (17). Pub. L. 105–285, §103(9)(B), (C), substituted “Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, but for fiscalyears ending before October 1, 2001 (and fiscal year 2002, if the legislation described in section 9835(a)(2)(B)(iii) of this title has not been enacted before September 30, 2001), also means” for “Virgin Islands,” and “and the Republic of Palau” for “Palau, and the Commonwealth of the Northern Mariana Islands”.
+Par. (17). Pub. L. 105–285, §103(9)(B), (C), substituted “Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, but for fiscal years ending before October 1, 2001 (and fiscal year 2002, if the legislation described in section 9835(a)(2)(B)(iii) of this title has not been enacted before September 30, 2001), also means” for “Virgin Islands,” and “and the Republic of Palau” for “Palau, and the Commonwealth of the Northern Mariana Islands”.
 
 Pub. L. 105–285, §103(9)(A), which directed substitution of “term” for “Term”, could not be executed because “Term” does not appear in par. (17).
 

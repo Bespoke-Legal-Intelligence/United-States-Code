@@ -12,7 +12,7 @@ Ways To Remedy.—(1) Subject to subsections (f) and (g) of this section, when n
 
 &emsp;&emsp;(iii) by refunding the purchase price, less a reasonable allowance for depreciation.
 
-&emsp;(B) if replacement equipment, by repairing the equipment or replacing the equipmentwith identical or reasonably equivalent equipment.
+&emsp;(B) if replacement equipment, by repairing the equipment or replacing the equipment with identical or reasonably equivalent equipment.
 
 (2) The Secretary of Transportation may prescribe regulations to allow the manufacturer to impose conditions on the replacement of a motor vehicle or refund of its price.
 
@@ -164,7 +164,7 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §154(d); added Dec. 18, 1991, Pu
 
 In this section, the text of 15:1397(a)(1)(D) (related to 15:1414(a), (b)(1), (2) (1st sentence), and (c), and 1416) is omitted as surplus.
 
-In subsection (a)(1), before clause (A), the words “Subject to subsections (f) and (g) of this section” are added for clarity. The words “with an applicable Federal motor vehicle safety standard . . . which relates to motor vehicle safety” and “pursuant to such notification” are omitted as surplus. The words “shall remedy” are substituted for “shall cause such defect or failure to comply in such motor vehicle or such item of replacement equipment to be remedied” to eliminate unnecessary words. The words “the defect or noncompliance” are added for clarity. In clauses (A) and (B), the words “without charge” are omitted as unnecessary because of the words “without charge” in this subsection before this clause (A). In clause (A), the words “presented for remedy pursuant to such notification” and “of such motor vehicle in full” are omitted as surplus.
+In subsection (a)(1), before clause (A), the words “Subject to subsections (f) and (g) of this section” are added for clarity. The words “with an applicable Federal motor vehicle safety standard . . . which relates to motor vehicle safety” and “pursuant to such notification” are omitted as surplus. The words “shall remedy” are substituted for “shall cause such defect or failureto comply in such motor vehicle or such item of replacement equipment to be remedied” to eliminate unnecessary words. The words “the defect or noncompliance” are added for clarity. In clauses (A) and (B), the words “without charge” are omitted as unnecessary because of the words “without charge” in this subsection before this clause (A). In clause (A), the words “presented for remedy pursuant to such notification” and “of such motor vehicle in full” are omitted as surplus.
 
 Subsection (a)(2) is substituted for 15:1414(a)(2)(A) (last sentence) for clarity.
 

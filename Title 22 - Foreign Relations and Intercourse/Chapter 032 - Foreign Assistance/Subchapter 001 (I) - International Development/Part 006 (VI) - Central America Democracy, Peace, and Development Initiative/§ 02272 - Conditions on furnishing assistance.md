@@ -14,3 +14,7 @@ The Arms Export Control Act, referred to in text, is Pub. L. 90–629, Oct. 22, 
 
 Another section 462 of Pub. L. 87–195 is classified to section 2282 of this title.
 
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+

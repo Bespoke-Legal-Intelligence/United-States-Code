@@ -76,7 +76,7 @@ This chapter, referred to in subsecs. (a)(4)(B) and (e), was in the original “
 
 #### Amendments
 
-1988—Subsec. (a)(4). Pub. L. 100–628, §202(1), substituted “(by at least 2, but in no case more than 5, regional coordinators employed by the Council, each having responsibility for interaction and coordination of the activities of the Council within the 10 standard Federal regions)” for “, through personnel employed by the Council in each of the 10 standard Federal regions,” in introductory provisions.
+1988—Subsec. (a)(4). Pub. L. 100–628, §202(1), substituted “(by at least 2, but in no case more than 5, regional coordinators employed by the Council, each having responsibility for interaction and coordination of the activities of the Council within the 10 standard Federal regions)” for “, through personnel employed bythe Council in each of the 10 standard Federal regions,” in introductory provisions.
 
 Subsec. (a)(4)(A) to (D). Pub. L. 100–628, §202(2), added subpars. (A) to (D) and struck out former subpars. (A) and (B) which read as follows:
 

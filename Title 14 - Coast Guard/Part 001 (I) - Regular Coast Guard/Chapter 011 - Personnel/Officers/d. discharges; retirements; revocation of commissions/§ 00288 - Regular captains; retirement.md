@@ -26,7 +26,7 @@ Amendment by Pub. L. 93–283 effective Sept. 24, 1963, see section 2 of Pub. L.
 
 #### Retirement, Retired Pay, and Election of Annuity as Affected by Pub. L. 88–130
 
-Savings provisions in section 5(f)–(h) of Pub. L. 88–130 relating to retirement, retirement pay, and election,change or revocation of election of an annuity, are set out as a note under section 211 of this title.
+Savings provisions in section 5(f)–(h) of Pub. L. 88–130 relating to retirement, retirement pay, and election, change or revocation of election of an annuity, are set out as a note under section 211 of this title.
 
 #### Interim Authority for Selection of Commanders and Captains for Continuation on Active Duty
 

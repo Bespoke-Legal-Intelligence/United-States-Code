@@ -181,6 +181,19 @@
 | (b) | Community relocation. |
 | (c) | Study. |
 | (d) | Limitation. |
+| [9627\.](Subchapter%20001%20%28I%29%20-%20Hazardous%20Substances%20Releases%2C%20Liability%2C%20Compensation/%C2%A7%2009627%20-%20Recycling%20transactions.md) | Recycling transactions. |
+| (a) | Liability clarification. |
+| (b) | Recyclable material defined. |
+| (c) | Transactions involving scrap paper, plastic, glass, textiles, or rubber. |
+| (d) | Transactions involving scrap metal. |
+| (e) | Transactions involving batteries. |
+| (f) | Exclusions. |
+| (g) | Effect on other liability. |
+| (h) | Regulations. |
+| (i) | Effect on pending or concluded actions. |
+| (j) | Liability for attorney's fees for certain actions. |
+| (k) | Relationship to liability under other laws. |
+| (<i>l</i>) | Limitation on statutory construction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -22,7 +22,7 @@ Section 2394c, Pub. L. 88–210, title III, §345, as added Pub. L. 101–392, t
 
 Section 2394d, Pub. L. 88–210, title III, §346, as added Pub. L. 101–392, title III, §308, Sept. 25, 1990, 104 Stat. 792, related to reports.
 
-Section 2394e, Pub. L. 88–210, title III, §347, as added Pub. L. 101–392, title III, §308, Sept. 25, 1990, 104 Stat. 792; amended Pub. L. 105–244, title I, §102(a)(6)(E), Oct. 7, 1998, 112 Stat. 1618, defined terms for purposes oftech-prep education grant program. See section 2371 of this title.
+Section 2394e, Pub. L. 88–210, title III, §347, as added Pub. L. 101–392, title III, §308, Sept. 25, 1990, 104 Stat. 792; amended Pub. L. 105–244, title I, §102(a)(6)(E), Oct. 7, 1998, 112 Stat. 1618, defined terms for purposes of tech-prep education grant program. See section 2371 of this title.
 
 #### Short Title
 

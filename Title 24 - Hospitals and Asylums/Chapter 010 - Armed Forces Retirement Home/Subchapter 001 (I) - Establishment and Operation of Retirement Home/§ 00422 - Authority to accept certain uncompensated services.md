@@ -42,7 +42,7 @@ The Chairman of the Retirement Home Board or the Director of an establishment of
 
 #### (e) Reimbursement of incidental expenses
 
-The Chairman of the Retirement Board or the Director of the establishment accepting services under subsection (a) of this section may provide for reimbursement of a person for incidental expenses incurred by the person in providing the services accepted under subsection (a) of thissection. The Chairman or Director shall determine which expenses qualify for reimbursement under this subsection.
+The Chairman of the Retirement Board or the Director of the establishment accepting services under subsection (a) of this section may provide for reimbursement of a person for incidental expenses incurred by the person in providing the services accepted under subsection (a) of this section. The Chairman or Director shall determine which expenses qualify for reimbursement under this subsection.
 
 (Pub. L. 101–510, div. A, title XV, §1522, as added Pub. L. 104–201, div. A, title X, §1052(a), Sept. 23, 1996, 110 Stat. 2649.)
 

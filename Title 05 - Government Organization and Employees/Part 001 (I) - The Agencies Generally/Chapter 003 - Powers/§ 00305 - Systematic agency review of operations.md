@@ -26,7 +26,7 @@
 
 &emsp;(3) identifying the employees whose personal efforts have caused their units to be outstanding in efficiency and economy of operations.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 380; Pub. L. 96–54, §2(a)(2), Aug. 14, 1979, 93 Stat. 381; Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 97–468, title VI, §615(b)(1)(A), Jan. 14, 1983, 96 Stat. 2578.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 380; Pub. L. 96–54, §2(a)(2), Aug. 14, 1979, 93 Stat. 381; Pub. L.96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 97–468, title VI, §615(b)(1)(A), Jan. 14, 1983, 96 Stat. 2578.)
 
 Historical and Revision Notes
 
@@ -82,7 +82,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 #### Delegation of Functions
 
-Functions of President under subsec. (b) of this section delegated to Director of Office of Management andBudget, see Ex. Ord. No. 12152, Aug. 14, 1979, 44 F.R. 48143, set out as a note under section 301 of Title 3, The President.
+Functions of President under subsec. (b) of this section delegated to Director of Office of Management and Budget, see Ex. Ord. No. 12152, Aug. 14, 1979, 44 F.R. 48143, set out as a note under section 301 of Title 3, The President.
 
 #### Dissolution of Virgin Islands Corporation
 

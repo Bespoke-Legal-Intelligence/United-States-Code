@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;At the request of a fleet or covered person allocated a credit under subsection (a) of thissection, the Secretary shall, for the year in which the purchase of a qualifying volume is made, treat that purchase as the acquisition of one alternative fueled vehicle the fleet or covered person is required to acquire under this subchapter, subchapter II of this chapter, or subchapter III of this chapter.
+&emsp;At the request of a fleet or covered person allocated a credit under subsection (a) of this section, the Secretary shall, for the year in which the purchase of a qualifying volume is made, treat that purchase as the acquisition of one alternative fueled vehicle the fleet or covered person is required to acquire under this subchapter, subchapter II of this chapter, or subchapter III of this chapter.
 
 #### (2) Limitation
 

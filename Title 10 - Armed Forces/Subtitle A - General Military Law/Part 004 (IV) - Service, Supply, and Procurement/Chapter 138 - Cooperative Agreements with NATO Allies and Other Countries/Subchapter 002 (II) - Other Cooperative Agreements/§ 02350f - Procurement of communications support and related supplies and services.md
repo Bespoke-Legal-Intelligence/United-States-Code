@@ -8,7 +8,7 @@
 
 (3) Payments received by the United States shall be credited to the appropriation from which such communications support and related supplies and services have been provided.
 
-(c) The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives copies of all documents evidencing an arrangement entered into under subsection (a) not later than 45 days after entering into such an arrangement.
+(c) The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives copies of all documents evidencing an arrangement entered into under subsection (a) not later than 45 days after entering into such an arrangement.
 
 (d) In this section:
 
@@ -22,9 +22,11 @@
 
 &emsp;(2) The term “allied international organization” means the North Atlantic Treaty Organization (NATO) or any other international organization designated as an allied international organization for the purposes of this section by the Secretary of Defense with the concurrence of the Secretary of State.
 
-(Added Pub. L. 98–525, title X, §1005(a), Oct. 19, 1984, 98 Stat. 2578, §2401a; amended Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; renumbered §2350f and amended Pub. L. 101–189, div. A, title IX, §933(a)–(d), Nov. 29, 1989, 103 Stat. 1537; Pub. L. 101–510, div. A, title XIV, §1484(k)(8), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502.)
+(Added Pub. L. 98–525, title X, §1005(a), Oct. 19, 1984, 98 Stat. 2578, §2401a; amended Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; renumbered §2350f and amended Pub. L. 101–189, div. A, title IX, §933(a)–(d), Nov. 29, 1989, 103 Stat. 1537; Pub. L. 101–510, div. A, title XIV, §1484(k)(8), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Amendments
+
+1999—Subsec. (c). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 1996—Subsec. (c). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
 
@@ -45,8 +47,4 @@ Subsec. (d)(1)(B). Pub. L. 101–189, §933(d)(4), substituted “; or” for p
 Subsec. (d)(1)(C), (2). Pub. L. 101–189, §933(d)(5), added cl. (C) and par. (2).
 
 1987—Subsec. (d). Pub. L. 100–26 inserted “the term” after “In this section,”.
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 

@@ -34,9 +34,13 @@ Nov. 18, 1997, Pub. L. 105–85, title XV, §§1506, 1507, 1508(g) (related to d
 
 36 App.:5807.
 
+&nbsp;
+
 20205(c)
 
 36 App.:5808(g) (related to directors and officers).
+
+&nbsp;
 
 In subsections (a) and (b), the words “Except as provided in section 5808(g) of this title” and “and in conformity with the laws of the District of Columbia” are omitted as unnecessary.
 

@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title4",
- "package": "USCODE-1998-title4",
+ "package": "USCODE-1999-title4",
  "pieces": [
   {
    "id": "4_",
@@ -111,16 +111,16 @@
    "marks": [
     [
      "L",
-     22,
+     20,
      "[Page 5]",
      true
     ],
     [
      "I",
-     78,
+     76,
      [
       [
-       274,
+       203,
        "[Page 6]"
       ]
      ]
@@ -143,26 +143,26 @@
   },
   {
    "id": "4_9",
-   "marks": [],
-   "path": "Chapter 001 - The Flag/§ 00009 - Conduct during hoisting, lowering or passing of flag.md",
-   "printed_pages": [
-    6,
-    6
-   ]
-  },
-  {
-   "id": "4_10",
    "marks": [
     [
      "L",
-     4,
+     22,
      "[Page 7]",
      true
     ]
    ],
-   "path": "Chapter 001 - The Flag/§ 00010 - Modification of rules and customs by President.md",
+   "path": "Chapter 001 - The Flag/§ 00009 - Conduct during hoisting, lowering or passing of flag.md",
    "printed_pages": [
     6,
+    7
+   ]
+  },
+  {
+   "id": "4_10",
+   "marks": [],
+   "path": "Chapter 001 - The Flag/§ 00010 - Modification of rules and customs by President.md",
+   "printed_pages": [
+    7,
     7
    ]
   },
@@ -204,11 +204,22 @@
   },
   {
    "id": "4_71",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       93,
+       "[Page 8]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - Seat of the Government/§ 00071 - Permanent seat of Government.md",
    "printed_pages": [
     7,
-    7
+    8
    ]
   },
   {
@@ -216,27 +227,16 @@
    "marks": [],
    "path": "Chapter 003 - Seat of the Government/§ 00072 - Public offices; at seat of Government.md",
    "printed_pages": [
-    7,
-    7
+    8,
+    8
    ]
   },
   {
    "id": "4_73",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       92,
-       "[Page 8]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Seat of the Government/§ 00073 - Same; removal from seat of Government.md",
    "printed_pages": [
-    7,
+    8,
     8
    ]
   },
@@ -281,7 +281,7 @@
    "marks": [
     [
      "L",
-     24,
+     6,
      "[Page 9]",
      true
     ]
@@ -314,10 +314,14 @@
    "id": "4_107",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 10]",
-     true
+     "I",
+     4,
+     [
+      [
+       90,
+       "[Page 10]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - The States/§ 00107 - Same; exception of United States, its instrumentalities, and authorized purchases 1 therefrom.md",
@@ -358,10 +362,10 @@
    "marks": [
     [
      "I",
-     54,
+     46,
      [
       [
-       163,
+       102,
        "[Page 11]"
       ]
      ]
@@ -396,7 +400,7 @@
    "marks": [
     [
      "L",
-     28,
+     14,
      "[Page 12]",
      true
     ]
@@ -430,7 +434,7 @@
    "marks": [
     [
      "L",
-     18,
+     4,
      "[Page 13]",
      true
     ]
@@ -472,10 +476,14 @@
    "id": "4_145",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 14]",
-     true
+     "I",
+     8,
+     [
+      [
+       95,
+       "[Page 14]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Official Territorial Papers/§ 00145 - Printing and distribution.md",
@@ -494,6 +502,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1998-title4 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1999-title4 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 04 - Flag and Seal, Seat of Government, and the States"
 }

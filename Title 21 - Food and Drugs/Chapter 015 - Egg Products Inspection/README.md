@@ -10,6 +10,7 @@
 | (b) | Authority of Secretary to retain, segregate, and reinspect eggs and egg products. |
 | (c) | Condemnation of adulterated products; destruction or reprocessing; procedure upon appeal from determination of adulteration. |
 | (d) | Inspection of business premises, facilities, inventory, operations, and records of egg handlers; inspection of records and inventory of others required to keep records; authority of Secretary of Health and Human Services to inspect food manufacturing establishments, institutions, and restaurants; access to places of business. |
+| (e) | Refrigeration and labeling requirements. |
 | [1035\.](%C2%A7%2001035%20-%20Sanitary%20operating%20practices%20in%20official%20plants.md) | Sanitary operating practices in official plants. |
 | (a) | Premises, facilities, and equipment. |
 | (b) | Refusal by Secretary to inspect nonconforming plants. |
@@ -21,9 +22,11 @@
 | [1039\.](%C2%A7%2001039%20-%20Eggs%20and%20egg%20products%20not%20intended%20for%20use%20as%20human%20food%3B%20inspection%3B%20denaturing%20or%20otherwise%20identifying.md) | Eggs and egg products not intended for use as human food; inspection; denaturing or otherwise identifying. |
 | [1040\.](%C2%A7%2001040%20-%20Recordkeeping%20requirements%3B%20persons%20required%20to%20maintain%20records%3B%20scope%20of%20disclosure%3B%20access%20to%20records.md) | Recordkeeping requirements; persons required to maintain records; scope of disclosure; access to records. |
 | [1041\.](%C2%A7%2001041%20-%20Enforcement%20provisions.md) | Enforcement provisions. |
-| (a) | Violations of section 1037; term of imprisonment and fine; scope of liability. |
-| (b) | Penalties applicable to carriers or warehousemen. |
-| (c) | Persons preventing enforcement of chapter; term of imprisonment and fine. |
+| (a) | Violations of section 1037; term of imprisonment and fine. |
+| (b) | Persons preventing enforcement of chapter; term of imprisonment and fine. |
+| (c) | Civil penalty. |
+| (d) | Scope of liability for violations of section 1037. |
+| (e) | Penalties applicable to carriers or warehousemen. |
 | [1042\.](%C2%A7%2001042%20-%20Reporting%20of%20violation%20to%20United%20States%20attorney%20for%20institution%20of%20criminal%20proceedings%3B%20procedure%3B%20presentation%20of%20views.md) | Reporting of violation to United States attorney for institution of criminal proceedings; procedure; presentation of views. |
 | [1043\.](%C2%A7%2001043%20-%20Rules%20and%20regulations%3B%20administration%20and%20enforcement.md) | Rules and regulations; administration and enforcement. |
 | [1044\.](%C2%A7%2001044%20-%20Exemption%20of%20certain%20activities.md) | Exemption of certain activities. |

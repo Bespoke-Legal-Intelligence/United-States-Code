@@ -47,7 +47,7 @@ Each report required by this section shall be submitted, in the case of CBO, to 
 
 &emsp;&emsp;(A) The maximum deficit amount, the estimated deficit calculated under section 903(b) of this title, the excess deficit, and the margin.
 
-&emsp;&emsp;(B) The amount of reductions required under section 902 of this title, the excess deficit remaining after those reductions havebeen made, and the amount of reductions required from defense accounts and the reductions required from non-defense accounts.
+&emsp;&emsp;(B) The amount of reductions required under section 902 of this title, the excess deficit remaining after those reductions have been made, and the amount of reductions required from defense accounts and the reductions required from non-defense accounts.
 
 &emsp;&emsp;(C) The sequestration percentage necessary to achieve the required reduction in defense accounts under section 903(d) of this title.
 
@@ -147,7 +147,7 @@ Subsec. (f)(2)(A). Pub. L. 105–33, §10206(4)(A), substituted “2002” for �
 
 Subsec. (f)(3). Pub. L. 105–33, §10206(4)(B), struck out “through 1998” after “each outyear”.
 
-Subsec. (f)(4) to (6). Pub. L. 105–33, §10206(4)(C), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out heading and text of former par. (4). Text read as follows: “The final reports shall set forth for the budget year estimates for each of the following:
+Subsec. (f)(4) to (6). Pub. L. 105–33, §10206(4)(C), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out heading and text of former par. (4). Textread as follows: “The final reports shall set forth for the budget year estimates for each of the following:
 
 &emsp;“(A) The amount of budget authority appropriated from the Violent Crime Reduction Trust Fund and outlays resulting from those appropriations.
 
@@ -189,7 +189,7 @@ Amounts Restored.—Any action taken to implement the orders referred to in subs
 
 Furloughed Employees.—(1) Federal employees furloughed as a result of the lapse in appropriations from midnight October 5, 1990, until the enactment of House Joint Resolution 666 \[Pub. L. 101–412, which was approved Oct. 9, 1990\] shall be compensated at their standard rate of compensation for the period during which there was a lapse in appropriations.
 
-“(2) All obligations incurred in anticipation of the appropriations made and authority granted by House Joint Resolution 666 for the purposes of maintainingthe essential level of activity to protect life and property and bringing about orderly termination of government functions are hereby ratified and approved if otherwise in accord with the provisions of that Act \[Pub. L. 101–412, Oct. 9, 1990, 104 Stat. 894\].”
+“(2) All obligations incurred in anticipation of the appropriations made and authority granted by House Joint Resolution 666 for the purposes of maintaining the essential level of activity to protect life and property and bringing about orderly termination of government functions are hereby ratified and approved if otherwise in accord with the provisions of that Act \[Pub. L. 101–412, Oct. 9, 1990, 104 Stat. 894\].”
 
 Pub. L. 101–467, §105, Oct. 28, 1990, 104 Stat. 1087, provided that:
 
@@ -227,9 +227,9 @@ By the authority vested in me as President by the statutes of the United States 
 
 (1) Budgetary resources for each non-exempt account within the international category of discretionary spending shall be reduced as specified by the Director of the Office of Management and Budget in his report of November 9, 1990.
 
-(2) Pursuant to sections 250(c)(6) and 251 \[2 U.S.C. 900(c)(6), 901\], budgetary resources subject to sequestration shall be new budget authority; new loan guarantee commitments or limitations; new direct loan obligations, commitments, or limitations; and obligation limitations.
+(2) Pursuant to sections 250(c)(6) and 251 \[2 U.S.C. 900(c)(6), 901\], budgetary resources subject to sequestration shall be new budget authority; new loan guaranteecommitments or limitations; new direct loan obligations, commitments, or limitations; and obligation limitations.
 
-(3) For accounts making commitments for guaranteed loans as authorized by substantive law, the head of each Department or agency is directed to reduce the level of such commitments or obligations to the extent necessary to conform to the limitations established by the Act \[Pub. L. 99–177, title II, see Short Title note set out under 2 U.S.C. 901\] and specified by the Director of the Office of Management and Budget in his report of November 9, 1990.
+(3) For accounts making commitments for guaranteed loans as authorized by substantive law, the head of each Department or agency is directed to reduce the level of such commitments or obligations to the extent necessary to conform to the limitations established by the Act \[Pub. L. 99–177, title II, see Short Title note set out under 2 U.S.C. 900\] and specified by the Director of the Office of Management and Budget in his report of November 9, 1990.
 
 All sequestrations shall be made in strict accordance with the specifications of the November 9th report of the Director of the Office of Management and Budget and the requirements of sections 251 and 254.
 

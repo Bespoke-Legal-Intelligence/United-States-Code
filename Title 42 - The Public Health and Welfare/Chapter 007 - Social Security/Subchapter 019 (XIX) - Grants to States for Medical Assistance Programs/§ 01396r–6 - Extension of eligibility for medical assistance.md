@@ -4,7 +4,7 @@
 
 #### (1) Requirement
 
-&emsp;Notwithstanding any other provision of this subchapter, each State plan approved under this subchapter must provide that each family which was receiving aid pursuant to a plan of the State approved under part A of subchapter IV of this chapter in at least 3 of the 6 months immediately preceding the month in which such family becomes ineligible for such aid, because of hours of, or income from, employment of the caretaker relative (as defined in subsection (e) of this section) or because of section 602(a)(8)(B)(ii)(II) <sup>1</sup> of this title (providing for a time-limited earned income disregard), shall, subject to paragraph (3) and without any reapplication for benefits under the plan, remain eligible for assistance under the plan approved under this subchapter during the immediately succeeding 6-month period in accordance with this subsection.
+&emsp;Notwithstanding any other provision of this subchapter, each State plan approved under this subchapter must provide that each family which was receiving aid pursuant to a plan of the State approved under part A of subchapterIV of this chapter in at least 3 of the 6 months immediately preceding the month in which such family becomes ineligible for such aid, because of hours of, or income from, employment of the caretaker relative (as defined in subsection (e) of this section) or because of section 602(a)(8)(B)(ii)(II) <sup>1</sup> of this title (providing for a time-limited earned income disregard), shall, subject to paragraph (3) and without any reapplication for benefits under the plan, remain eligible for assistance under the plan approved under this subchapter during the immediately succeeding 6-month period in accordance with this subsection.
 
 #### (2) Notice of benefits
 
@@ -18,7 +18,7 @@
 
 #### (A) No dependent child
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), extension of assistance during the 6-month period described in paragraph (1) to a familyshall terminate (during such period) at the close of the first month in which the family ceases to include a child, whether or not the child is (or would if needy be) a dependent child under part A of subchapter IV of this chapter.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), extension of assistance during the 6-month period described in paragraph (1) to a family shall terminate (during such period) at the close of the first month in which the family ceases to include a child, whether or not the child is (or would if needy be) a dependent child under part A of subchapter IV of this chapter.
 
 #### (B) Notice before termination
 
@@ -26,7 +26,7 @@
 
 #### (C) Continuation in certain cases until redetermination
 
-&emsp;&emsp;With respect to a child who would cease to receive medical assistance because of subparagraph (A) but who may be eligible for assistance under the State plan because the child is described in clause (i) of section 1396d(a) of this title or clause (i)(IV), (i)(VI)(i)(VII),,<sup>2</sup> or (ii)(IX) of section 1396a(a)(10)(A) of this title, the State may not discontinue such assistance under such subparagraph until the State has determined that the child is not eligible for assistance under the plan.
+&emsp;&emsp;With respect to a child who would cease to receive medical assistance because of subparagraph (A) but who may be eligible for assistance under the State plan because the child is described in clause (i) of section 1396d(a) of this title or clause (i)(IV), (i)(VI), (i)(VII), or (ii)(IX) of section 1396a(a)(10)(A) of this title, the State may not discontinue such assistance under such subparagraph until the State has determined that the child is not eligible for assistance under the plan.
 
 #### (4) Scope of coverage
 
@@ -60,7 +60,7 @@
 
 #### (i) Notice during initial extension period of option and requirements
 
-&emsp;&emsp;&emsp;Each State, during the 3rd and 6th month of any extended assistance furnished to a family under subsection (a) of this section, shall notify the family of the family's option for additional extended assistance under this subsection. Each such notice shall include (I) in the 3rd month notice, a statement of the reporting requirement under subparagraph (B)(i), and, in the 6th month notice, a statement of the reporting requirement under subparagraph (B)(ii), (II) a statement as to whether any premiums are required for such additional extended assistance, and (III) a description of other out-of-pocket expenses, benefits, reporting and payment procedures, and any pre-existing condition limitations, waiting periods, or other coverage limitations imposed under any alternative coverage options offered under paragraph (4)(D). The 6th month notice under this subparagraph shall describe the amount of any premium required of a particular family for each of the first 3 months of additional extended assistance under this subsection.
+&emsp;&emsp;&emsp;Each State, during the 3rd and 6th month of any extended assistance furnished to a family under subsection (a) of this section, shall notify the family of the family's option for additional extended assistance under this subsection. Each such notice shall include (I) in the 3rd month notice, a statement of the reporting requirement under subparagraph (B)(i), and,in the 6th month notice, a statement of the reporting requirement under subparagraph (B)(ii), (II) a statement as to whether any premiums are required for such additional extended assistance, and (III) a description of other out-of-pocket expenses, benefits, reporting and payment procedures, and any pre-existing condition limitations, waiting periods, or other coverage limitations imposed under any alternative coverage options offered under paragraph (4)(D). The 6th month notice under this subparagraph shall describe the amount of any premium required of a particular family for each of the first 3 months of additional extended assistance under this subsection.
 
 #### (ii) Notice during additional extension period of reporting requirements and premiums
 
@@ -70,7 +70,7 @@
 
 #### (i) During initial extension period
 
-&emsp;&emsp;&emsp;Each State shall require (as a condition for additional extended assistance under this subsection) that a family receiving extended assistance under subsection (a) of this section report to the State, not later than the 21st day of the 4th month in theperiod of extended assistance under subsection (a) of this section, on the family's gross monthly earnings and on the family's costs for such child care as is necessary for the employment of the caretaker relative in each of the first 3 months of that period. A State may permit such additional extended assistance under this subsection notwithstanding a failure to report under this clause if the family has established, to the satisfaction of the State, good cause for the failure to report on a timely basis.
+&emsp;&emsp;&emsp;Each State shall require (as a condition for additional extended assistance under this subsection) that a family receiving extended assistance under subsection (a) of this section report to the State, not later than the 21st day of the 4th month in the period of extended assistance under subsection (a) of this section, on the family's gross monthly earnings and on the family's costs for such child care as is necessary for the employment of the caretaker relative in each of the first 3 months of that period. A State may permit such additional extended assistance under this subsection notwithstanding a failure to report under this clause if the family has established, to the satisfaction of the State, good cause for the failure to report on a timely basis.
 
 #### (ii) During additional extension period
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) the State determines that the family's average gross monthly earnings (less such costs for such child care as is necessary for the employment of the caretaker relative) during the immediately preceding 3-month period exceed 185 percent of the official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved.
 
-> &emsp;&emsp;Information described in clause (iii)(I) shall be subject to the restrictions on use and disclosure of information provided under section 602(a)(9) <sup>3</sup> of this title. Instead of terminating a family's extension under clause (iii)(I), a State, at its option, may provide for suspension of the extension until the month after the month in which the family reports information required under paragraph (2)(B)(ii), but only if the family's extension has not otherwise been terminated under subclause (II) or (III) of clause (iii). The State shall make determinations under clause (iii)(III) for a family each time a report under paragraph (2)(B)(ii) for the family is received.
+> &emsp;&emsp;Information described in clause (iii)(I) shall be subject to the restrictions on use and disclosure of information provided under section 602(a)(9) <sup>2</sup> of this title. Instead of terminating a family's extension under clause (iii)(I), a State, at its option, may provide for suspension of the extension until the month after the month in which the family reports information required under paragraph (2)(B)(ii), but only if the family's extension has not otherwise been terminated under subclause (II) or (III) of clause (iii). The State shall make determinations underclause (iii)(III) for a family each time a report under paragraph (2)(B)(ii) for the family is received.
 
 #### (B) Notice before termination
 
@@ -114,11 +114,11 @@
 
 #### (i) Dependent children
 
-&emsp;&emsp;&emsp;With respect to a child who would cease to receive medical assistance because of subparagraph (A)(i) but who may be eligible for assistance under the State plan because the child is described in clause (i) of section 1396d(a) of this title or clause (i)(IV), (i)(VI)(i)(VII),,<sup>4</sup> or (ii)(IX) of section 1396a(a)(10)(A) of this title, the State may not discontinue such assistance under such subparagraph until the State has determined that the child is not eligible for assistance under the plan.
+&emsp;&emsp;&emsp;With respect to a child who would cease to receive medical assistance because of subparagraph (A)(i) but who may be eligible for assistance under the State plan because the child is described in clause (i) of section 1396d(a) of this title or clause (i)(IV), (i)(VI), (i)(VII), or (ii)(IX) of section 1396a(a)(10)(A) of this title, the State may not discontinue such assistance under such subparagraph until the State has determined that the child is not eligible for assistance under the plan.
 
 #### (ii) Medically needy
 
-&emsp;&emsp;&emsp;With respect to an individual who would cease to receive medical assistance because of clause (ii) or (iii) of subparagraph\(A) but who may be eligible for assistance under the State plan because the individual is within a category of person for which medical assistance under the State plan is available under section 1396a(a)(10)(C) of this title (relating to medically needy individuals), the State may not discontinue such assistance under such subparagraph until the State has determined that the individual is not eligible for assistance under the plan.
+&emsp;&emsp;&emsp;With respect to an individual who would cease to receive medical assistance because of clause (ii) or (iii) of subparagraph (A) but who may be eligible for assistance under the State plan because the individual is within a category of person for which medical assistance under the State plan is available under section 1396a(a)(10)(C) of this title (relating to medically needy individuals), the State may not discontinue such assistance under such subparagraph until the State has determined that the individual is not eligible for assistance under the plan.
 
 #### (4) Coverage
 
@@ -132,7 +132,7 @@
 
 #### (B) Elimination of most non-acute care benefits
 
-&emsp;&emsp;At a State's option and notwithstanding any other provision of this subchapter, a State may choose not to provide medical assistance under this subsection with respect to any (or all) of the items and services described in paragraphs (4)(A), (6), (7), (8), (11), (13), (14), (15), (16), (18), (20), and (21) <sup>5</sup> of section 1396d(a) of this title.
+&emsp;&emsp;At a State's option and notwithstanding any other provision of this subchapter, a State may choose not to provide medical assistance under this subsection with respect to any (or all) of the items and services described in paragraphs (4)(A), (6), (7), (8), (11), (13), (14), (15), (16), (18), (20), and (21) <sup>3</sup> of section 1396d(a) of this title.
 
 #### (C) State medicaid “wrap-around” option
 
@@ -164,7 +164,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a State offers any alternative option under subparagraph (D) for families, under each such option the State must assure that care described in clause (ii) is available without charge to the families through—
+&emsp;&emsp;&emsp;If a State offers any alternative option under subparagraph (D) for families, undereach such option the State must assure that care described in clause (ii) is available without charge to the families through—
 
 &emsp;&emsp;&emsp;&emsp;(I) payment of any deductibles, coinsurance, and other cost-sharing respecting such care, or
 
@@ -184,7 +184,7 @@
 
 #### (A) Permitted
 
-&emsp;&emsp;Notwithstanding any other provision of this subchapter (including section 1396<i>o</i> of this title), a State may impose a premium for a family for additional extended coverage under this subsection for a premium payment period (as defined in subparagraph\(D)(i)), but only if the family's average gross monthly earnings (less the average monthly costs for such child care as is necessary for the employment of the caretaker relative) for the premium base period exceed 100 percent of the official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved.
+&emsp;&emsp;Notwithstanding any other provision of this subchapter (including section 1396<i>o</i> of this title), a State may impose a premium for a family for additional extended coverage under this subsection for a premium payment period (as defined in subparagraph (D)(i)), but only if the family's average gross monthly earnings (less the average monthly costs for such child care as is necessary for the employment of the caretaker relative) for the premium base period exceed 100 percent of the official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved.
 
 #### (B) Level may vary by option offered
 
@@ -230,7 +230,7 @@ In this section, the term “caretaker relative” has the meaning of such term 
 
 This section shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter after September 30, 2001.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1925, as added Pub. L. 100–485, title III, §303(a)(1), Oct. 13, 1988, 102 Stat. 2385; amended Pub. L. 100–647, title VIII, §8436(a), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–239, title VI, §6411(i)(1), (3), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 101–508, title IV, §§4601(a)(3)(B), 4716(a), Nov. 5, 1990, 104 Stat. 1388–167, 1388–192; Pub. L. 104–193, title I, §114(c), Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(ix), (D), 4703(b)(2), Aug. 5, 1997, 111 Stat. 493, 495.)
+(Aug. 14, 1935, ch. 531, title XIX, §1925, as added Pub. L. 100–485, title III, §303(a)(1), Oct. 13, 1988, 102 Stat. 2385; amended Pub. L. 100–647, title VIII, §8436(a), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–239, title VI, §6411(i)(1), (3), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 101–508, title IV, §§4601(a)(3)(B), 4716(a), Nov. 5, 1990, 104 Stat. 1388–167, 1388–192; Pub. L. 104–193, title I, §114(c), Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(ix), (D), 4703(b)(2), Aug. 5, 1997, 111 Stat. 493, 495; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(t)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398.)
 
 #### References in Text
 
@@ -246,6 +246,10 @@ A prior section 1925 of act Aug. 14, 1935, was renumbered section 1928 and is cl
 
 #### Amendments
 
+1999—Subsec. (a)(3)(C). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(t)(1)\], substituted “(i)(VI), (i)(VII),” for “(i)(VI)(i)(VII),,”.
+
+Subsec. (b)(3)(C)(i). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(t)(2)\], which directed substitution of “(i)(IV), (i)(VI), (i)(VII),” for “(i)(IV) (i)(VI) (i)(VII),,”, was executed by making the substitution for “(i)(IV), (i)(VI) (i)(VII),,” to reflect the probable intent of Congress.
+
 1997—Subsec. (b)(4)(D)(iv). Pub. L. 105–33, §4703(b)(2), struck out “less than 50 percent of the membership (enrolled on a prepaid basis) of which consists of individuals who are eligible to receive benefits under this subchapter (other than because of the option offered under this clause). The option of enrollment under this clause is in addition to, and not in lieu of, any enrollment option that the State might offer under subparagraph (A)(i) with respect to receiving services through a medicaid managed care organization in accordance with section 1396b(m) of this title and the applicable requirements of section 1396u–2 of this title” after “(as defined in section 1396b(m)(1)(A) of this title)”.
 
 Pub. L. 105–33, §4701(b)(2)(A)(ix), substituted “medicaid managed care organization” for “health maintenance organization” in two places.
@@ -256,7 +260,7 @@ Pub. L. 105–33, §4701(b)(2)(D), substituted “medicaid managed care organiza
 
 1990—Subsec. (a)(3)(C). Pub. L. 101–508, §4601(a)(3)(B), inserted “(i)(VII),” after “(i)(VI)”.
 
-Subsec. (b)(2)(B)(i). Pub. L. 101–508, §4716(a)(1), which directed amendment of subsection (f) of this section in subsection (b)(2)(B)(i) by inserting at the end “A State may permit such additional extended assistance under this subsection notwithstanding a failure to report under this clause if the family has established, to thesatisfaction of the State, good cause for the failure to report on a timely basis.”, was executed by making the insertion at the end of subsec. (b)(2)(B)(i) to reflect the probable intent of Congress.
+Subsec. (b)(2)(B)(i). Pub. L. 101–508, §4716(a)(1), which directed amendment of subsection (f) of this section in subsection (b)(2)(B)(i) by inserting at the end “A State may permit such additional extended assistance under this subsection notwithstanding a failure to report under this clause if the family has established, to the satisfaction of the State, good cause for the failure to report on a timely basis.”, was executed by making the insertion at the end of subsec. (b)(2)(B)(i) to reflect the probable intent of Congress.
 
 Subsec. (b)(2)(B)(iii). Pub. L. 101–508, §4716(a)(2), which directed amendment of subsection (f) of this section in subsection (b)(2)(B) by adding cl. (iii) at the end, was executed by adding cl. (iii) at the end of subsec. (b)(2)(B) to reflect the probable intent of Congress.
 
@@ -304,7 +308,7 @@ Section applicable to payments under this subchapter for calendar quarters begin
 
 #### References to Provisions of Part A of Subchapter IV Considered References to Such Provisions as in Effect July 16, 1996
 
-For provisions that certain references to provisions of part A (§601 et seq.) of subchapter IV of this chapter be considered references to such provisions of part A as in effect July 16, 1996, see section 1396u–1(a) of this title.
+For provisions that certain references to provisions of part A (§601 et seq.) of subchapter IV of this chapterbe considered references to such provisions of part A as in effect July 16, 1996, see section 1396u–1(a) of this title.
 
 #### Study and Report to Congress on Impact of Medicaid Extension Provisions
 
@@ -316,11 +320,7 @@ This section is referred to in sections 608, 1396a, 1396d, 1396u–1 of this tit
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “(i)(VI), (i)(VII),”.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 
 <i><sup>3</sup></i><i> See References in Text note below.</i>
-
-<i><sup>4</sup></i><i> So in original. Probably should be “(i)(VI), (i)(VII),”.</i>
-
-<i><sup>5</sup></i><i> See References in Text note below.</i>
 

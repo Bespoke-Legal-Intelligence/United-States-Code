@@ -6,7 +6,7 @@ The Secretary, subject to the availability of funds and in consultation with the
 
 #### (b) Project proposal
 
-Any relevant wildlife management authority of a nation within the range of Asian elephants whose activities directly or indirectly affect Asian elephant populations, the CITES Secretariat, or any person with demonstrated expertise in the conservation of Asian elephants, may submit to the Secretary a project proposal under this section. Each proposal shall include the following:
+Any relevant wildlife management authority of a nation within the range of Asian elephants whose activities directly or indirectly affect Asian elephant populations, the CITES Secretariat, or any person with demonstrated expertise in the conservation of Asian elephants, may submit to the Secretary a project proposalunder this section. Each proposal shall include the following:
 
 &emsp;(1) The name of the individual responsible for conducting the project.
 
@@ -54,7 +54,7 @@ The Secretary may approve a final project proposal under this section if the pro
 
 #### (e) Project sustainability
 
-To the maximum extent practical, in determining whether to approve project proposalsunder this section, the Secretary shall give consideration to projects which will enhance sustainable integrated conservation development programs to ensure effective, long-term conservation of Asian elephants.
+To the maximum extent practical, in determining whether to approve project proposals under this section, the Secretary shall give consideration to projects which will enhance sustainable integrated conservation development programs to ensure effective, long-term conservation of Asian elephants.
 
 #### (f) Project reporting
 

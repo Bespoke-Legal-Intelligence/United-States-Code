@@ -18,7 +18,7 @@ A State may use amounts provided under a grant awarded under this part to provid
 
 #### (1) Requirement
 
-&emsp;To receive assistance from a State under subsection (a) of this section, an applicantconsortium shall provide the State with assurances that—
+&emsp;To receive assistance from a State under subsection (a) of this section, an applicant consortium shall provide the State with assurances that—
 
 &emsp;&emsp;(A) within any locality in which such consortium is to operate, the populations and subpopulations of individuals and families with HIV disease have been identified by the consortium;
 
@@ -86,7 +86,7 @@ As used in this part, the term “family centered care” means the system of se
 
 #### (e) Priority
 
-In providing assistance under subsection (a) of this section, the State shall, among applicantsthat meet the requirements of this section, give priority—
+In providing assistance under subsection (a) of this section, the State shall, among applicants that meet the requirements of this section, give priority—
 
 &emsp;(1) first to consortia that are receiving assistance from the Health Resources and Services Administration for adult and pediatric HIV-related care demonstration projects; and then
 

@@ -1,6 +1,6 @@
 ### §118. Scope of exclusive rights: Use of certain works in connection with noncommercial broadcasting
 
-(a) The exclusive rights provided by section 106 shall, with respect to the works specified by subsection (b) and the activities specified by subsection (d), be subject to the conditions and limitations prescribed by this section.
+(a) The exclusive rights provided by section 106 shall, with respect to the works specified by subsection (b) and the activities specified bysubsection (d), be subject to the conditions and limitations prescribed by this section.
 
 (b) Notwithstanding any provision of the antitrust laws, any owners of copyright in published nondramatic musical works and published pictorial, graphic, and sculptural works and any public broadcasting entities, respectively, may negotiate and agree upon the terms and rates of royalty payments and the proportionate division of fees paid among various copyright owners, and may designate common agents to negotiate, agree to, pay, or receive payments.
 
@@ -20,17 +20,13 @@
 
 &emsp;(3) the making of reproductions by a governmental body or a nonprofit institution of a transmission program simultaneously with its transmission as specified in paragraph (1), and the performance or display of the contents of such program under the conditions specified by paragraph (1) of section 110, but only if the reproductions are used for performances or displays for a period of no more than seven days from the date of the transmission specified in paragraph (1), and are destroyed before or at the end of such period. No person supplying, in accordance with paragraph (2), a reproduction of a transmission program to governmental bodies or nonprofit institutions under this paragraph shall have any liability as a result of failure of such body or institution to destroy such reproduction: <i>Provided</i>, That it shall have notified such body or institution of the requirement for such destruction pursuant to this paragraph: <i>And provided further</i>, That if such body or institution itself fails to destroy such reproduction it shall be deemed to have infringed.
 
-(e) Except as expressly provided in this subsection, this section shall have no applicability to works other than those specified in subsection (b).
-
-&emsp;(1) Owners of copyright in nondramatic literary works and public broadcasting entities may, during the course of voluntary negotiations, agree among themselves, respectively, as to the terms and rates of royalty payments without liability under the antitrust laws. Any such terms and rates of royalty payments shall be effective upon filing in the Copyright Office, in accordance with regulations that the Register of Copyrights shall prescribe.
-
-&emsp;(2) On January 3, 1980, the Register of Copyrights, after consulting with authors and other owners of copyright in nondramatic literary works and their representatives, and with public broadcasting entities and their representatives, shall submit to the Congress a report setting forth the extent to which voluntary licensing arrangements have been reached with respect to the use of nondramatic literary works by such broadcast stations. The report should also describe any problems that may have arisen, and present legislative or other recommendations, if warranted.
+(e) Except as expressly provided in this subsection, this section shall have no applicability to works other than those specified in subsection (b). Owners of copyright in nondramatic literary works and public broadcasting entities may, during the course of voluntary negotiations, agree among themselves, respectively, as to the terms and rates of royalty payments without liability under the antitrust laws. Any such terms and rates of royalty payments shall be effective upon filing in the Copyright Office, in accordance with regulations that the Register of Copyrights shall prescribe.
 
 (f) Nothing in this section shall be construed to permit, beyond the limits of fair use as provided by section 107, the unauthorized dramatization of a nondramatic musical work, the production of a transmission program drawn to any substantial extent from a published compilation of pictorial, graphic, or sculptural works, or the unauthorized use of any portion of an audiovisual work.
 
 (g) As used in this section, the term “public broadcasting entity” means a noncommercial educational broadcast station as defined in section 397 of title 47 and any nonprofit institution or organization engaged in the activities described in paragraph (2) of subsection (d).
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2565; Pub. L. 103–198, §4, Dec. 17, 1993, 107 Stat. 2309.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2565; Pub. L. 103–198, §4, Dec. 17, 1993, 107 Stat. 2309; Pub. L. 106–44, §1(g)(3), Aug. 5, 1999, 113 Stat. 222.)
 
 #### Historical and Revision Notes
 
@@ -56,9 +52,9 @@ Under section 118(c), the procedures for the Commission's establishing such rate
 
 The Committee does not intend that owners of copyrighted material be required to subsidize public broadcasting. It is intended that the Commission assure a fair return to copyright owners without unfairly burdening public broadcasters. Section 118(b)(3) provides that “the Commission may consider the rates for comparable circumstances under voluntary license agreements.” The Commission is also expected to consider both the general public interest in encouraging the growth and development of public broadcasting, and the “promotion of science and the useful arts” through the encouragement of musical and artistic creation.
 
-The Committee anticipates that the “terms” established by the Commission shall include provisions as toacceptable methods of payment of royalties by public broadcasting entities to copyright owners. For example, where the whereabouts of the copyright owner may not be readily known, the terms should specify the nature of the obligation of the public broadcasting entity to locate the owner, or to set aside or otherwise assure payment of appropriate royalties, should he or she appear and make a claim. Section 118(b)(3) requires the Commission “to establish requirements by which copyright owners may receive reasonable notice of the use of their works.” The Committee intends that these requirements shall not impose undue hardships on public broadcasting entities and, in the above illustration, shall provide for the specific termination of any period during which the public broadcasting entity is required to set aside payments. It is expected that, in some cases, especially in the area of pictorial, graphic, and sculptural works, the whereabouts of the owners of copyright may not be known and they may never appear to claim payment of royalties.
+The Committee anticipates that the “terms” established by the Commission shall include provisions as to acceptable methods of payment of royalties by public broadcasting entities to copyright owners. For example, where the whereabouts of the copyright owner may not be readily known, the terms should specify the nature of the obligation of the public broadcasting entity to locate the owner, or to set aside or otherwise assure payment of appropriate royalties, should he or she appear and make a claim. Section 118(b)(3) requires the Commission “to establish requirements by which copyright owners may receive reasonable notice of the use of their works.” The Committee intends that these requirements shall not impose undue hardships on public broadcasting entities and, in the above illustration, shall provide for the specific termination of any period during which the public broadcasting entity is required to set aside payments. It is expected that, in some cases, especially in the area of pictorial, graphic, and sculptural works, the whereabouts of the owners of copyright may not be known and they may never appear to claim payment of royalties.
 
-The Commission is also to establish record keeping requirements for public broadcasting entities in order to facilitate the identification, calculation, allocation and payment of claims and royalties.
+The Commission is also to establish record keeping requirements for public broadcasting entities in orderto facilitate the identification, calculation, allocation and payment of claims and royalties.
 
 <b>Works Affected.</b> Under sections 118(b) and (e) of the Committee's amendment, the establishment of rates and terms by the Copyright Royalty Commission pertains only to the use of published nondramatic musical works, and published pictorial, graphic, and sculptural works. As under the Senate bill; rights in plays, operas, ballet and other stage presentations, motion pictures, and other audiovisual works are not affected.
 
@@ -82,9 +78,11 @@ Section 118(f) makes it clear that the rights of performance and other activitie
 
 #### References in Text
 
-The antitrust laws, referred to in subsecs. (b) and (e)(1), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
+The antitrust laws, referred to in subsecs. (b) and (e), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
 
 #### Amendments
+
+1999—Subsec. (e). Pub. L. 106–44 struck out “(1)” before “Owners of” and struck out par. (2) which read as follows: “On January 3, 1980, the Register of Copyrights, after consulting with authors and other owners of copyright in nondramatic literary works and their representatives, and with public broadcasting entities and their representatives, shall submit to the Congress a report setting forth the extent to which voluntary licensing arrangements have been reached with respect to the use of nondramatic literary works by such broadcast stations. The report should also describe any problems that may have arisen, and present legislative or other recommendations, if warranted.”
 
 1993—Subsec. (b). Pub. L. 103–198, §4(1)(A), (B), struck out first two sentences which read as follows: “Not later than thirty days after the Copyright Royalty Tribunal has been constituted in accordance with section 802, the Chairman of the Tribunal shall cause notice to be published in the Federal Register of the initiation of proceedings for the purpose of determining reasonable terms and rates of royalty payments for the activities specified by subsection (d) with respect to published nondramatic musical works and published pictorial, graphic, and sculptural works during a period beginning as provided in clause (3) of this subsection and ending on December 31, 1982. Copyright owners and public broadcasting entities shall negotiate in good faith and cooperate fully with the Tribunal in an effort to reach reasonable and expeditious results.”, and in third sentence substituted “published nondramatic musical works and published pictorial, graphic, and sculptural works” for “works specified by this subsection”.
 
@@ -94,7 +92,7 @@ Subsec. (b)(2). Pub. L. 103–198, §4(1)(D), substituted “Librarian of Congre
 
 Subsec. (b)(3). Pub. L. 103–198, §4(1)(E)(ii), (iii), in second sentence, substituted “copyright arbitration royalty panel” for “Copyright Royalty Tribunal” and “paragraph (2)” for “clause (2) of this subsection”, and in last sentence, substituted “Librarian of Congress” for “Copyright Royalty Tribunal”.
 
-Pub. L. 103–198, §4(1)(E)(i), substituted first sentence for former first sentence which read as follows: “Within six months, but not earlier than one hundred and twenty days, from the date of publication of the notice specified in this subsection the Copyright Royalty Tribunal shall make a determination and publish in the Federal Register a schedule of rates and terms which, subject to clause (2) of this subsection, shall be binding on all owners of copyright in works specified by this subsection and public broadcasting entities, regardless of whether or not such copyright owners and public broadcasting entities have submitted proposals to the Tribunal.”
+Pub. L. 103–198, §4(1)(E)(i), substituted first sentence for former first sentence which read as follows: “Within six months, but not earlier than one hundred and twenty days, from the date of publication of the notice specified in this subsection the Copyright Royalty Tribunalshall make a determination and publish in the Federal Register a schedule of rates and terms which, subject to clause (2) of this subsection, shall be binding on all owners of copyright in works specified by this subsection and public broadcasting entities, regardless of whether or not such copyright owners and public broadcasting entities have submitted proposals to the Tribunal.”
 
 Subsec. (b)(4). Pub. L. 103–198, §4(1)(F), struck out par. (4) which read as follows: “With respect to the period beginning on the effective date of this title and ending on the date of publication of such rates and terms, this title shall not afford to owners of copyright or public broadcasting entities any greater or lesser rights with respect to the activities specified in subsection (d) as applied to works specified in this subsection than those afforded under the law in effect on December 31, 1977, as held applicable and construed by a court in an action brought under this title.”
 
@@ -118,5 +116,5 @@ Institution and conclusion of proceedings concerning the determination of reason
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 114, 501, 504, 511, 801, 802, 803 of this title; title 18 section 2319.
+This section is referred to in sections 106, 114, 501, 504, 511, 801, 802, 803, 1203, 1204 of this title; title 18 section 2319.
 

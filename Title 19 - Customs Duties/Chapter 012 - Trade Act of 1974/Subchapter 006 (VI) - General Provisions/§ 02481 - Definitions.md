@@ -34,7 +34,7 @@ The Harmonized Tariff Schedule of the United States, referred to in par. (7), is
 
 #### Amendments
 
-1998—Par. (9). Pub. L. 105–206 substituted “trade treatment based on normal trade relations (knownunder international law as most-favored-nation treatment)” for “most-favored-nation treatment”.
+1998—Par. (9). Pub. L. 105–206 substituted “trade treatment based on normal trade relations (known under international law as most-favored-nation treatment)” for “most-favored-nation treatment”.
 
 1988—Par. (7). Pub. L. 100–418 substituted “chapters 1 through 97 of the Harmonized Tariff Schedule of the United States” for “schedules 1 through 7 of the Tariff Schedules of the United States”.
 

@@ -34,5 +34,7 @@ Oct. 15, 1962, Pub. L. 87–817, §§7, 8, 76 Stat. 931.
 
 36:3408.
 
+&nbsp;
+
 In subsection (a), the text of 36:3407(a) and the word “Thereafter” in 36:3407(b) are omitted as obsolete. The word “contributions” is substituted for “all contributed funds” to eliminate unnecessary words.
 

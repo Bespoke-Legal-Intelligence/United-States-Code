@@ -22,7 +22,7 @@ The United States International Trade Commission (hereinafter in this section re
 
 &emsp;(A) analyze the production, trade and consumption of United States products affected by this Act, taking into consideration employment, profit levels, and use of productive facilities with respect to the domestic industries concerned, and such other economic factors in such industries as it considers relevant, including prices, wages, sales, inventories, patterns of demand, capital investment, obsolescence of equipment, and diversification of production; and
 
-&emsp;(B) describe the nature and extent of any significant change in employment, profit levels, and use of productive facilities, and such other conditions as it deems relevant in the domestic industries concerned, which it believes are attributable to this Act.
+&emsp;(B) describe the nature and extent of any significant change in employment, profit levels, and use of productive facilities, and suchother conditions as it deems relevant in the domestic industries concerned, which it believes are attributable to this Act.
 
 #### (c) Time of submission of reports; public participation
 

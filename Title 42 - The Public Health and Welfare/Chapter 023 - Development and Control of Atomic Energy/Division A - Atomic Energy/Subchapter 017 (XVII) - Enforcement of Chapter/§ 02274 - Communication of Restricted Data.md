@@ -2,13 +2,17 @@
 
 Whoever, lawfully or unlawfully, having possession of, access to, control over, or being entrusted with any document, writing, sketch, photograph, plan, model, instrument, appliance, note, or information involving or incorporating Restricted Data—
 
-&emsp;(a) communicates, transmits, or discloses the same to any individual or person, or attempts or conspires to do any of the foregoing, with intent to injure the United States or with intent to secure an advantage to any foreign nation, upon conviction thereof, shall be punished by imprisonment for life, or by imprisonment for any term of years or a fine of not more than $20,000 or both;
+&emsp;(a) communicates, transmits, or discloses the same to any individual or person, or attempts or conspires to do any of the foregoing, with intent to injure the United States or with intent to secure an advantage to any foreign nation, upon conviction thereof, shall be punished by imprisonment for life, or by imprisonment for any term of years or a fine of not more than $100,000 or both;
 
-&emsp;(b) communicates, transmits, or discloses the same to any individual or person, or attempts or conspires to do any of the foregoing, with reason to believe such data will be utilized to injure the United States or to secure an advantage to any foreign nation, shall, upon conviction, be punished by a fine of not more than $10,000 or imprisonment for not more than ten years, or both.
+&emsp;(b) communicates, transmits, or discloses the same to any individual or person, or attempts or conspires to do any of the foregoing, with reason to believe such data will be utilized to injure the United States or to secure an advantage to any foreign nation, shall, upon conviction, be punished by a fine of not more than $500,000 or imprisonment for not more than ten years, or both.
 
-(Aug. 1, 1946, ch. 724, title I, §224, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 958; amended Pub. L. 91–161, §3(b), Dec. 24, 1969, 83 Stat. 444; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §224, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 958; amended Pub. L. 91–161, §3(b), Dec. 24, 1969, 83 Stat. 444; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 106–65, div. C, title XXXI, §3148(a), Oct. 5, 1999, 113 Stat. 938.)
 
 #### Amendments
+
+1999—Cl. (a). Pub. L. 106–65, §3148(a)(1), substituted “$100,000” for “$20,000”.
+
+Cl. (b). Pub. L. 106–65, §3148(a)(2), substituted “$500,000” for “$10,000”.
 
 1969—Pub. L. 91–161 made death penalty inapplicable for willful violation, or attempted violation of this section with intent to injure the United States, or secure an advantage for any foreign nation.
 

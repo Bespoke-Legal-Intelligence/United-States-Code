@@ -2,7 +2,7 @@
 
 #### (a) Awards
 
-The Secretary may make grants to, and enter into contracts and cooperative agreements with, State and local educational agencies, nonprofitorganizations, and institutions of higher education to promote the adoption and implementation of bilingual education, special alternative instruction programs, and professional development programs that demonstrate promise of assisting children and youth of limited English proficiency to meet challenging State standards.
+The Secretary may make grants to, and enter into contracts and cooperative agreements with, State and local educational agencies, nonprofit organizations, and institutions of higher education to promote the adoption and implementation of bilingual education, special alternative instruction programs, and professional development programs that demonstrate promise of assisting children and youth of limited English proficiency to meet challenging State standards.
 
 #### (b) Applications
 

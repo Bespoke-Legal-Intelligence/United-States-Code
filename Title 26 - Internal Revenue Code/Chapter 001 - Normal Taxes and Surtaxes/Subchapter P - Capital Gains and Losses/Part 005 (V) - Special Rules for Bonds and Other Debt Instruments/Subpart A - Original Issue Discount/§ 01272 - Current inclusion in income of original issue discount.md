@@ -146,7 +146,7 @@
 
 #### (B) Transfers during month
 
-&emsp;&emsp;In any case where a debt instrument is acquired on any day other than a day determined under subparagraph (A), the ratable monthly portion of original issue discount for the complete month (or partial month) in which such acquisition occurs shall be allocated between the transferor and the transferee in accordance with the number of days in such complete (or partial) month each held the debt instrument.
+&emsp;&emsp;In any case where a debt instrument is acquired on any day other than a day determined under subparagraph (A), the ratable monthly portion of original issue discountfor the complete month (or partial month) in which such acquisition occurs shall be allocated between the transferor and the transferee in accordance with the number of days in such complete (or partial) month each held the debt instrument.
 
 #### (4) Reduction where subsequent holder pays acquisition premium
 
@@ -210,7 +210,7 @@ Section applicable to taxable years ending after July 18, 1984, but not applicab
 
 #### Change in Method of Accounting
 
-Section 1004(b)(2) of Pub. L. 105–34 provided that: “In the case of any taxpayer required by this section\[amending this section and enacting provisions set out as a note above\] to change its method of accounting for its first taxable year beginning after the date of the enactment of this Act \[Aug. 5, 1997\]—
+Section 1004(b)(2) of Pub. L. 105–34 provided that: “In the case of any taxpayer required by this section \[amending this section and enacting provisions set out as a note above\] to change its method of accounting for its first taxable year beginning after the date of the enactment of this Act \[Aug. 5, 1997\]—
 
 &emsp;“(A) such change shall be treated as initiated by the taxpayer,
 

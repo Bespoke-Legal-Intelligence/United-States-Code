@@ -50,7 +50,7 @@
 
 #### (D) Limiting pass down for certain countries subject to subsection (e)
 
-&emsp;&emsp;In the case of a foreign state or dependent area to which subsection (e) of this section applies, if the total number of visas issued under section 1153(a)(2) of this title exceeds the maximum number of visas that may bemade available to immigrants of the state or area under section 1153(a)(2) of this title consistent with subsection (e) of this section (determined without regard to this paragraph), in applying paragraphs (3) and (4) of section 1153(a) of this title under subsection (e)(2) of this section all visas shall be deemed to have been required for the classes specified in paragraphs (1) and (2) of such section.
+&emsp;&emsp;In the case of a foreign state or dependent area to which subsection (e) of this section applies, if the total number of visas issued under section 1153(a)(2) of this title exceeds the maximum number of visas that may be made available to immigrants of the state or area under section 1153(a)(2) of this title consistent with subsection (e) of this section (determined without regard to this paragraph), in applying paragraphs (3) and (4) of section 1153(a) of this title under subsection (e)(2) of this section all visas shall be deemed to have been required for the classes specified in paragraphs (1) and (2) of such section.
 
 #### (b) Rules for chargeability
 
@@ -58,7 +58,7 @@ Each independent country, self-governing dominion, mandated territory, and terri
 
 #### (c) Chargeability for dependent areas
 
-Any immigrant born in a colony or other component or dependent area of a foreign state overseas from the foreign state, other than an alien described in section 1151(b) of this title, shall be chargeable for the purpose of the limitation set forth in subsection (a) of this section, to the foreign state.
+Any immigrant born in a colony or other component or dependent area of a foreign state overseas from the foreign state, other than an aliendescribed in section 1151(b) of this title, shall be chargeable for the purpose of the limitation set forth in subsection (a) of this section, to the foreign state.
 
 #### (d) Changes in territory
 
@@ -100,7 +100,7 @@ Subsec. (c). Pub. L. 100–525, §9(f)(1), substituted “subsection (a)” for 
 
 Subsec. (e). Pub. L. 100–525, §9(f)(2), substituted “this section” for “section 202” in original, which for purposes of codification had been translated as “this section”.
 
-1986—Subsec. (b). Pub. L. 99–653, as amended by Pub. L. 100–525, §8(c), amended subsec. (b) generally, substituting “outlying possessions, shall” for “outlying possessions shall”, in cl. (1) substituting “when accompanied by or following to join his alien” for “when accompanied by his alien”, “charged to the foreign state of either parent” for “charged to the same foreign state as the accompanying parent or of either accompanying parent”, “from the parent” for “from the accompanying parent”, “and if immigration charged to the foreign state to which such parent has been or would be chargeable has not reached the numerical” for “and if the foreign state to which such parent has been or would be chargeable has not exceeded the numerical”, in cl. (2) substituting “of his spouse” for “of his accompanying spouse”, “of the spouse he is accompanying or following to join” for “of the accompanying spouse”, “and if immigration charged to the foreign state to which such spouse has been or would be chargeable has not reached the numerical” for “and if the foreign state to which such spouse has been or would be chargeable has not exceeded the numerical”, and in cl. (3) substituting “subject, or, if” for “subject, or if” and “country, in” for “country then in”.
+1986—Subsec. (b). Pub. L. 99–653, as amended by Pub. L. 100–525, §8(c), amended subsec. (b) generally, substituting “outlying possessions, shall” for “outlying possessions shall”, in cl. (1) substituting “when accompanied by or following to join his alien” for “when accompanied by his alien”, “charged to the foreign state of either parent” for “charged to the same foreign state as the accompanying parent or of either accompanying parent”, “from the parent” for “from the accompanying parent”, “and if immigration charged to the foreign state to which such parent has been or would be chargeable has not reached the numerical” for “and if the foreign state to which such parent has been or would be chargeable has not exceeded the numerical”,in cl. (2) substituting “of his spouse” for “of his accompanying spouse”, “of the spouse he is accompanying or following to join” for “of the accompanying spouse”, “and if immigration charged to the foreign state to which such spouse has been or would be chargeable has not reached the numerical” for “and if the foreign state to which such spouse has been or would be chargeable has not exceeded the numerical”, and in cl. (3) substituting “subject, or, if” for “subject, or if” and “country, in” for “country then in”.
 
 Subsec. (c). Pub. L. 99–603, §311(a)(1), substituted “5,000” for “six hundred”.
 
@@ -150,7 +150,7 @@ Amendment by section 8(c) of Pub. L. 100–525 effective as if included in the e
 
 Amendment by Pub. L. 99–653 applicable to visas issued, and admissions occurring, on or after Nov. 14, 1986, see section 23(a) of Pub. L. 99–653, set out as a note under section 1101 of this title.
 
-Section 311(b) of Pub. L. 99–603 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to fiscal years beginning after the date of the enactment of this Act \[Nov. 6, 1986\].”
+Section 311(b) of Pub. L. 99–603 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply to fiscal years beginning after the date of the enactment of this Act \[Nov. 6, 1986\].”
 
 #### Effective Date of 1981 Amendment
 

@@ -40,7 +40,7 @@ In this subchapter:
 
 #### Prior Provisions
 
-A prior section 390, Pub. L. 88–74, §1, July 22, 1963, 77 Stat. 90; Pub. L. 95–113, title XIV, §1416(3), Sept. 29, 1977,91 Stat. 996; Pub. L. 99–198, title XIV, §1411(a), Dec. 23, 1985, 99 Stat. 1547, related to congressional declaration of policy, prior to the general amendment of this subchapter by Pub. L. 104–127.
+A prior section 390, Pub. L. 88–74, §1, July 22, 1963, 77 Stat. 90; Pub. L. 95–113, title XIV, §1416(3), Sept. 29, 1977, 91 Stat. 996; Pub. L. 99–198, title XIV, §1411(a), Dec. 23, 1985, 99 Stat. 1547, related to congressional declaration of policy, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 A prior section 2 of Pub. L. 88–74 was classified to section 390a of this title prior to the general amendment of this subchapter by Pub. L. 104–127.
 

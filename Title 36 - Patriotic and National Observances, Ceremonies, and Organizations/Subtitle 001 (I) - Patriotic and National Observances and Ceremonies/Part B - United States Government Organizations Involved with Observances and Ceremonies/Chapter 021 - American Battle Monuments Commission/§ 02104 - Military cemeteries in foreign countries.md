@@ -8,7 +8,7 @@ When, as a result of combat operations, the Armed Forces establish military ceme
 
 &emsp;(3) burials and reburials by the Armed Forces shall be carried out in accordance with plans prepared by the Commission; and
 
-(4) the Armed Forces have the right to re-enter a cemetery transferred to the Commission to exhume or re-inter a body if they decide it is necessary.
+&emsp;(4) the Armed Forces have the right to re-enter a cemetery transferred to the Commission to exhume or re-inter a body if they decide it is necessary.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1271.)
 

@@ -26,7 +26,7 @@ The Administrator is authorized to provide technical, financial and management a
 
 For the purpose of this section, the term “village” shall mean an incorporated or unincorporated community with a population of ten to six hundred people living within a two-mile radius. The term “sanitation services” shall mean water supply, sewage disposal, solid waste disposal and other services necessary to maintain generally accepted standards of personal hygiene and public health.
 
-(June 30, 1948, ch. 758, title I, §113, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 832; amended Pub. L. 95–217, §11, Dec. 27, 1977, 91 Stat. 1568; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
+(June 30, 1948, ch. 758, title I, §113, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 832; amendedPub. L. 95–217, §11, Dec. 27, 1977, 91 Stat. 1568; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### References in Text
 

@@ -22,7 +22,7 @@ The Congress finds that—
 
 &emsp;(9) without a program of information distribution, technical and scientific assistance, and financial support, many local educational agencies and States will not be able to mitigate the potential asbestos hazards in their schools; and
 
-&emsp;(10) the effective regulation of interstate commerce for the protection of the publichealth requires the establishment of programs under this subchapter to mitigate hazards from exposure to asbestos fibers and materials emitting such fibers.
+&emsp;(10) the effective regulation of interstate commerce for the protection of the public health requires the establishment of programs under this subchapter to mitigate hazards from exposure to asbestos fibers and materials emitting such fibers.
 
 #### (b) Purpose
 

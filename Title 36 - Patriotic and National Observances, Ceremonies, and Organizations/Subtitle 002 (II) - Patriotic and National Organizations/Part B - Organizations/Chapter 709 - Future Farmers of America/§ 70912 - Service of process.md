@@ -30,6 +30,8 @@ Aug. 30, 1950, ch. 823, §§5 (2d, last sentences), 17, 64 Stat. 565, 567.
 
 36:287.
 
+&nbsp;
+
 In subsection (a), the word “have” is substituted for “maintain” for consistency in the revised title. The words “at all times”, “authorized”, and “deemed sufficient” are omitted as unnecessary.
 
 In subsection (b), the word “precedent” is omitted as unnecessary. The words “with the secretary of state or other designated official” are substituted for “in the Office of the Secretary of State, or similar officer” for consistency in the revised title. The words “post office” and “authorized” are omitted as unnecessary.

@@ -36,5 +36,5 @@ Refunds.—(1) Refunds shall be required, on a pro rata basis, of sums paid unde
 
 #### References in Text
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (d)(3), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to insubsec. (d)(3), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
 

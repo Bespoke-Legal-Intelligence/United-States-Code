@@ -66,7 +66,7 @@ Nothing in this section or in section 4722 or 4723 of this title shall be constr
 
 &emsp;(4) require or request any State or local government employee to disclose his race, religion, or national origin, or the race, religion, or national origin, of any of his forebears;
 
-&emsp;(5) require or request any State or local government employee, or any person applying for employment as a State or local government employee, to submit to any interrogation or examination or to take any psychological testor any polygraph test which is designed to elicit from him information concerning his personal relationship with any person connected with him by blood or marriage, or concerning his religious beliefs or practices, or concerning his attitude or conduct with respect to sexual matters; or
+&emsp;(5) require or request any State or local government employee, or any person applying for employment as a State or local government employee, to submit to any interrogation or examination or to take any psychological test or any polygraph test which is designed to elicit from him information concerning his personal relationship with any person connected with him by blood or marriage, or concerning his religious beliefs or practices, or concerning his attitude or conduct with respect to sexual matters; or
 
 &emsp;(6) require or request any State or local government employee to participate in any way in any activities or undertakings unless such activities or undertakings are related to the performance of official duties to which he is or may be assigned or to the development of skills, knowledge, or abilities which qualify him for the performance of such duties.
 

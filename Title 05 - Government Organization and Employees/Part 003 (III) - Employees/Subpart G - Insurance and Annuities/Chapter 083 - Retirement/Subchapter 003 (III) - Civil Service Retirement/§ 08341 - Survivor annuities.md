@@ -170,7 +170,7 @@
 
 (7) As used in this subsection, “court” means any court of any State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court.
 
-(i) The requirement in subsections (a)(1)(A) and (a)(2)(A) of this section that the surviving spouse of an employee or Member have been married to such employee or Member for at least 9 months immediately before the employee or Member's death in order to qualify as the widow or widower of such employee or Member shall be deemed satisfied in any case in which the employee or Member dies within the applicable 9-month period, if—
+(i) The requirement in subsections (a)(1)(A) and (a)(2)(A) of this section that the surviving spouse of an employee or Member have been married to such employee or Member for at least 9 months immediately before the employee or Member's death in order to qualify as thewidow or widower of such employee or Member shall be deemed satisfied in any case in which the employee or Member dies within the applicable 9-month period, if—
 
 &emsp;(1) the death of the employee or Member was accidental; or
 
@@ -180,7 +180,7 @@
 
 (2) A remarriage described in paragraph (1) shall not be taken into account for purposes of section 8339(j)(5)(B) or (C) or any other provision of this chapter which the Office may by regulation identify in order to carry out the purposes of this subsection.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 577; Pub. L. 90–83, §1(80), Sept. 11, 1967, 81 Stat. 216; Pub. L. 91–93, title II, §206, Oct. 20, 1969, 83 Stat. 140; Pub. L. 91–658, §3, Jan. 8, 1971, 84 Stat. 1961; Pub. L. 92–243, §1, Mar. 9, 1972, 86 Stat. 56; Pub. L.92–297, §7(4), May 16, 1972, 86 Stat. 145; Pub. L. 93–260, §1(a), Apr. 9, 1974, 88 Stat. 76; Pub. L. 94–183, §2(36), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–317, §1(b), July 10, 1978, 92 Stat. 382; Pub. L. 95–318, §2, July 10, 1978, 92 Stat. 384; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–598, title III, §338(c), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–179, §1, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–353, title I, §112, July 10, 1984, 98 Stat. 343; Pub. L. 98–615, §2(4), Nov. 8, 1984, 98 Stat. 3199; Pub. L. 99–251, title II, §§205–207, Feb. 27, 1986, 100 Stat. 25; Pub. L. 99–272, title XV, §15204(a)(2), Apr. 7, 1986, 100 Stat. 335; Pub. L. 101–428, §2(d)(7), Oct. 15, 1990, 104 Stat. 929; Pub. L. 102–378, §2(63), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §633(a)(1)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362; Pub. L. 105–61, title V, §§516(a)(4), 518(a), Oct. 10, 1997, 111 Stat. 1306, 1307.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 577; Pub. L. 90–83, §1(80), Sept. 11, 1967, 81 Stat. 216; Pub. L. 91–93, title II, §206, Oct. 20, 1969, 83 Stat. 140; Pub. L. 91–658, §3, Jan. 8, 1971, 84 Stat. 1961; Pub. L. 92–243, §1, Mar. 9, 1972, 86 Stat. 56; Pub. L. 92–297, §7(4), May 16, 1972, 86 Stat. 145; Pub. L. 93–260, §1(a), Apr. 9, 1974, 88 Stat. 76; Pub. L. 94–183, §2(36), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–317, §1(b), July 10, 1978, 92 Stat. 382; Pub. L. 95–318, §2, July 10, 1978, 92 Stat. 384; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–598, title III, §338(c), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–179, §1, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–353, title I, §112, July 10, 1984, 98 Stat. 343; Pub. L. 98–615, §2(4), Nov. 8, 1984, 98 Stat. 3199; Pub. L. 99–251, title II, §§205–207, Feb. 27, 1986, 100 Stat. 25; Pub. L. 99–272, title XV, §15204(a)(2), Apr. 7, 1986, 100 Stat. 335; Pub. L. 101–428, §2(d)(7), Oct. 15, 1990, 104 Stat. 929; Pub. L. 102–378, §2(63), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §633(a)(1)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362; Pub. L. 105–61, title V, §§516(a)(4), 518(a), Oct. 10, 1997, 111 Stat. 1306, 1307.)
 
 Historical and Revision Notes<br>1966
 
@@ -384,7 +384,7 @@ Subsec. (e)(1). Pub. L. 91–93, §206(b), increased annuity of a surviving chil
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 516(a) of Pub. L. 105–61 applicable to any annuity commencing before, on, or after Oct. 10, 1997, and effective with regard to any payment made after the first month following Oct. 10, 1997, see section 516(b) of Pub. L. 105–61, set out as a note under section 8334 of this title.
+Amendment by section 516(a) of Pub. L. 105–61 applicable to any annuity commencing before, on, or after Oct. 10, 1997, and effective with regard to any paymentmade after the first month following Oct. 10, 1997, see section 516(b) of Pub. L. 105–61, set out as a note under section 8334 of this title.
 
 Section 518(c) of Pub. L. 105–61 provided that: “The amendments made by this section \[amending this section and sections 8442 and 8445 of this title\] shall apply with respect to remarriages occurring on or after January 1, 1995.”
 
@@ -398,7 +398,7 @@ Amendment by Pub. L. 99–272 effective with respect to service performed on or 
 
 #### Effective Date of 1984 Amendments
 
-Section 4 of Pub. L. 98–615, as amended by Pub. L. 99–251, title II, §201(a)–(c), Feb. 27, 1986, 100 Stat. 20, 22; Pub. L. 99–549, §9(a), Oct. 27, 1986, 100 Stat. 3065; Pub. L.99–556, title V, §501(a), Oct. 27, 1986, 100 Stat. 3139; Pub. L. 100–238, title I, §127, Jan. 8, 1988, 101 Stat. 1758, provided that:
+Section 4 of Pub. L. 98–615, as amended by Pub. L. 99–251, title II, §201(a)–(c), Feb. 27, 1986, 100 Stat. 20, 22; Pub. L. 99–549, §9(a), Oct. 27, 1986, 100 Stat. 3065; Pub. L. 99–556, title V, §501(a), Oct. 27, 1986, 100 Stat. 3139; Pub. L. 100–238, title I, §127, Jan. 8, 1988, 101 Stat. 1758, provided that:
 
 “(a)(1) Except as provided in paragraphs (3), (4), (5), and (6) and subsections (b) and (c), the amendments made by section 2 of this Act \[amending this section and sections 8331, 8334, 8339, 8342, 8345, and 8348 of this title\] shall take effect May 7, 1985, and shall apply—
 
@@ -564,7 +564,7 @@ Section 207(c) of Pub. L. 91–93 provided that:
 
 &emsp;“(1) The amendment made by section 206(b) of this Act \[amending this section\] shall become effective on the first day of the first month which begins on or after the date of enactment of this Act \[Oct. 20, 1969\].
 
-&emsp;“(2) The annuity of each surviving child who, immediately prior to the effective date of such amendment \[amending this section\] is receiving an annuity under section 8341(e) of title 5, United States Code, or under a comparable provision of any prior law, or who hereafter becomes entitled to receive annuity under the Act of May 29, 1930, as amended from and after February 28, 1948, shall be recomputed effective on such date, or computed from commencing date if later, in accordance with such amendment. No increase allowed and in force prior to such date shall be included in the computation or recomputation of any such annuity. This paragraph shall not operate to reduce any annuity.”
+&emsp;“(2) The annuity of each surviving child who, immediately prior to the effective date of such amendment \[amending this section\] is receiving an annuityunder section 8341(e) of title 5, United States Code, or under a comparable provision of any prior law, or who hereafter becomes entitled to receive annuity under the Act of May 29, 1930, as amended from and after February 28, 1948, shall be recomputed effective on such date, or computed from commencing date if later, in accordance with such amendment. No increase allowed and in force prior to such date shall be included in the computation or recomputation of any such annuity. This paragraph shall not operate to reduce any annuity.”
 
 #### Additional Elections Under Civil Service Retirement Spouse Equity Act of 1984
 

@@ -26,6 +26,10 @@ Another prior section 2346a, Pub. L. 87–195, pt. II, §532, as added Pub. L. 9
 
 Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under section 2151–1 of this title.
 
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
 #### Termination of Assistance Programs to Syria
 
 Pub. L. 98–164, title X, §1004, Nov. 22, 1983, 97 Stat. 1057, provided that:
@@ -40,7 +44,7 @@ Pub. L. 98–164, title X, §1004, Nov. 22, 1983, 97 Stat. 1057, provided that:
 
 &emsp;“(3) amounts certified pursuant to section 1311 of the Supplemental Appropriation Act, 1955 \[31 U.S.C. 1108(c), 1501, 1502(a)\], as having been obligated for Syria under chapter 4 of part II of the Foreign Assistance Act of 1961 \[this part\] shall continue to be available until expended to meet necessary expenses arising from the termination of assistance programs for Syria pursuant to this subsection.”
 
-Section 101(b)(1) of Pub. L. 98–151 provided that: “None of the funds heretofore appropriated or otherwise made available for Syria for the purposes of carrying out the provisions of chapter 4 of part II of the Foreign Assistance Act of 1961 \[this part\] shall be expended after the date of enactment of this joint resolution \[Nov. 14, 1983\]. The Administrator of the Agency for International Development is directed to terminate the economic assistance program to Syria and to deobligate all funds heretofore obligated for assistance to Syria, except that such funds may continue to be available to finance the training or studies outside of Syria of students whose course of study or training program began before enactment of this joint resolution. The Administrator of the Agency for International Development is authorized to adopt as a contract of the United States Government, and assume any liabilities arising thereunder (in whole or in part), any contract with a United States contractor which had been funded by the Agency for International Development prior to the date of enactment of this joint resolution. Amounts certified pursuant to section 1311 of the Supplemental Appropriations Act, 1955 \[31 U.S.C. 1108(c), 1501, 1502(a)\], as having been obligated against appropriations heretofore made pursuant to chapter 4 of part II of the Foreign Assistance Act of 1961 (and predecessor legislation) for Syria are hereby continued available until expended to meet necessary expenses arising from the termination under this subsection of assistance programs for Syria authorized by such chapter: <i>Provided</i>, That this shall not be construed as permitting payments or reimbursements of any kind to the Government of Syria.”
+Section 101(b)(1) of Pub. L. 98–151 provided that: “None of the funds heretofore appropriated or otherwise made available for Syria for the purposes of carrying out the provisions of chapter 4 of part II of the Foreign Assistance Act of 1961 \[this part\] shall be expended after the date of enactment of this joint resolution \[Nov. 14, 1983\]. The Administrator of the Agency for International Development is directed to terminate the economic assistance program to Syria and to deobligate all funds heretofore obligated for assistance toSyria, except that such funds may continue to be available to finance the training or studies outside of Syria of students whose course of study or training program began before enactment of this joint resolution. The Administrator of the Agency for International Development is authorized to adopt as a contract of the United States Government, and assume any liabilities arising thereunder (in whole or in part), any contract with a United States contractor which had been funded by the Agency for International Development prior to the date of enactment of this joint resolution. Amounts certified pursuant to section 1311 of the Supplemental Appropriations Act, 1955 \[31 U.S.C. 1108(c), 1501, 1502(a)\], as having been obligated against appropriations heretofore made pursuant to chapter 4 of part II of the Foreign Assistance Act of 1961 (and predecessor legislation) for Syria are hereby continued available until expended to meet necessary expenses arising from the termination under this subsection of assistance programs for Syria authorized by such chapter: <i>Provided</i>, That this shall not be construed as permitting payments or reimbursements of any kind to the Government of Syria.”
 
 #### Negotiations Between Israel and Egypt; Promotion, Etc.
 
@@ -56,7 +60,7 @@ Section 28 of Pub. L. 95–384 provided that:
 
 &emsp;“(4) the establishment of secure, recognized, and defensible borders between Israel and its neighbors will discourage hostilities; and
 
-&emsp;“(5) full, normalized relations between Israel and its Arab neighbors, including trade, travel, tourism,communications, and diplomatic relations are vital for peace.
+&emsp;“(5) full, normalized relations between Israel and its Arab neighbors, including trade, travel, tourism, communications, and diplomatic relations are vital for peace.
 
 “(b) It is the sense of the Congress that the Government of the United States should continue to promote direct negotiations between Israel and Egypt and to encourage other Arab countries to enter into negotiations leading to peace treaties with Israel.
 

@@ -1,6 +1,6 @@
 ### §2294. Authorizations of appropriations for Development Fund for Africa
 
-Funds appropriated to carry out this part are authorized to be made available until expended. It is the sense of the Congress that the authority of this subsection <sup>1</sup> should be used to extend the period of availability of those funds whenever appropriate to improve the quality of assistance provided under section 2293 of this title.
+Funds appropriated to carry out this part are authorized to be made available until expended. It is the sense of the Congress that the authority of this subsection <sup>1</sup> should be used to extendthe period of availability of those funds whenever appropriate to improve the quality of assistance provided under section 2293 of this title.
 
 (Pub. L. 87–195, pt. I, §497, as added Pub. L. 101–513, title V, §562(a), Nov. 5, 1990, 104 Stat. 2030.)
 

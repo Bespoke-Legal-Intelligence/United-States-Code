@@ -34,13 +34,17 @@ Dec. 17, 1963, Pub. L. 88–209, 77 Stat. 402.
 
 36:169 (1st sentence words after 1st comma).
 
+&nbsp;
+
 143(c)
 
 36:169 (last sentence).
 
+&nbsp;
+
 #### Centennial of Flight Commemoration Act
 
-Pub. L. 105–389, Nov. 13, 1998, 112 Stat. 3486, provided that:
+Pub. L. 105–389, Nov. 13, 1998, 112 Stat. 3486, as amended by Pub. L. 106–68, §1, Oct. 6, 1999, 113 Stat. 981, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -72,23 +76,27 @@ Pub. L. 105–389, Nov. 13, 1998, 112 Stat. 3486, provided that:
 
 Number and Appointment.—The Commission shall be composed of 6 members, as follows:
 
-&emsp;“(1) The Director of the National Air and Space Museum of the Smithsonian Institution or his designee.
+&emsp;“(1) The Director of the National Air and Space Museum of the Smithsonian Institution.
 
-&emsp;“(2) The Administrator of the National Aeronautics and Space Administration or his designee.
+&emsp;“(2) The Administrator of the National Aeronautics and Space Administration.
 
-&emsp;“(3) The chairman of the First Flight Centennial Foundation of North Carolina, or his designee.
+&emsp;“(3) The president of the First Flight Centennial Foundation of North Carolina to represent the interests of the Foundation.
 
-&emsp;“(4) The chairman of the 2003 Committee of Ohio, or his designee.
+&emsp;“(4) The chairman of the 2003 Committee of Ohio to represent the interests of the 2003 Committee.
 
-&emsp;“(5) As chosen by the Commission, the president or head of a United States aeronautical society, foundation, or organization of national stature or prominence who will be a person from a State other than Ohio or North Carolina.
+&emsp;“(5) As chosen by the Commission, the president or head of a United States aeronautical society, foundation, or organization of national stature or prominence who will be a person from a State other than Ohio or North Carolina and shall represent the interests of such aeronautical entities.
 
-&emsp;“(6) The Administrator of the Federal Aviation Administration, or his designee.
+&emsp;“(6) The Administrator of the Federal Aviation Administration.
 
 “(b)
 
-Vacancies.—Any vacancy in the Commission shall be filled in the same manner in which the original designation was made.
+Alternates.—Each member described under subsection (a) may designate an alternate who may act in lieu of the member to the extent authorized by the member, including attending meetings and voting.
 
 “(c)
+
+Vacancies.—Any vacancy in the Commission shall be filled in the same manner in which the original designation was made.
+
+“(d)
 
 Compensation.—
 
@@ -96,27 +104,21 @@ Compensation.—
 
 &emsp;“(2) Travel expenses.—The Commission may adopt a policy, only by unanimous vote, for members of the Commission and related advisory panels to receive travel expenses, including per diem in lieu of subsistence. The policy may not exceed the levels established under sections 5702 and 5703 of title 5, United States Code. Members who are Federal employees shall not receive travel expenses if otherwise reimbursed by the Federal Government.
 
-“(d)
+“(e)
 
 Quorum.—Three members of the Commission shall constitute a quorum.
 
-“(e)
-
-Chairperson.—The Commission shall select a Chairperson of the Commission from the members designated under subsection (a)(1), (2), or (5). The Chairperson may not vote on matters before the Commission except in the case of a tie vote. The Chairperson may be removed by a vote of a majority of the Commission's members.
-
 “(f)
 
-Organization.—No later than 90 days after the date of enactment of this Act \[Nov. 13, 1998\], the Commission shall meet and select a Chairperson, Vice Chairperson, and Executive Director.
+Chairperson.—The Commission shall select a Chairperson of the Commission from the members designated under subsection (a)(1), (2), or (5). The Chairperson may not vote on matters before the Commission except in the case of a tie vote. The Chairperson may be removed by a vote of a majority of the Commission's members.
 
 #### “SEC. 5. DUTIES.
 
 “(a)
 
-In General.—The Commission shall—
+In General.—The Commission shall provide recommendations and advice to the President, Congress, and Federal agencies on the most effective ways to—
 
-&emsp;“(1) represent the United States and take a leadership role with other nations in recognizing the importance of aviation history in general and the centennial of powered flight in particular, and promote participation by the United States in such activities;
-
-&emsp;“(2) encourage and promote national and international participation and sponsorships in commemoration of the centennial of powered flight by persons and entities such as—
+&emsp;“(1) encourage and promote national and international participation and sponsorships in commemoration of the centennial of powered flight by persons and entities such as—
 
 &emsp;&emsp;“(A) aerospace manufacturing companies;
 
@@ -138,19 +140,51 @@ In General.—The Commission shall—
 
 &emsp;&emsp;“(J) State and local governments;
 
-&emsp;“(3) plan and develop, in coordination with the First Flight Centennial Commission, the First Flight Centennial Foundation of North Carolina, and the 2003 Committee of Ohio, programs and activities that are appropriate to commemorate the 100th anniversary of powered flight;
+&emsp;“(2) plan and develop, in coordination with the First Flight Centennial Commission, the First Flight Centennial Foundation of North Carolina, and the 2003 Committee of Ohio, programs and activities that are appropriate to commemorate the 100th anniversary of powered flight;
 
-&emsp;“(4) maintain, publish, and distribute a calendar or register of national and international programs and projects concerning, and provide a central clearinghouse for, information and coordination regarding, dates, events, and places of historical and commemorative significance regarding aviation history in general and the centennial of powered flight in particular;
+&emsp;“(3) maintain, publish, and distribute a calendar or register of national and international programs and projects concerning, and provide a central clearinghouse for, information and coordination regarding, dates, events, and places of historical and commemorative significance regarding aviation history in general and the centennial of powered flight in particular;
 
-&emsp;“(5) provide national coordination for celebration dates to take place throughout the United States during the centennial year;
+&emsp;“(4) provide national coordination for celebration dates to take place throughout the United States during the centennial year;
 
-&emsp;“(6) assist in conducting educational, civic, and commemorative activities relating to the centennial of powered flight throughout the United States, especially activities that occur in the States of North Carolina and Ohio and that highlight the activities of the Wright brothers in such States; and
+&emsp;“(5) assist in conducting educational, civic, and commemorative activities relating to the centennial of powered flight throughout the United States, especially activities that occur in the States of North Carolina and Ohio and that highlight the activities of the Wright brothers in such States; and
 
-&emsp;“(7) encourage the publication of popular and scholarly works related to the history of aviation or the anniversary of the centennial of powered flight.
+&emsp;“(6) encourage the publication of popular and scholarly works related to the history of aviation or the anniversary of the centennial of powered flight.
 
 “(b)
 
+International Activities.—The Commission may—
+
+&emsp;“(1) advise the United States with regard to gaining support for and facilitating international recognition of the importance of aviation history in general and the centennial of powered flight in particular; and
+
+&emsp;“(2) attend international meetings regarding such activities as advisors to official United States representatives or to gain or provide information for or about the activities of the Commission.
+
+“(c)
+
 Nonduplication of Activities.—The Commission shall attempt to plan and conduct its activities in such a manner that activities conducted pursuant to this Act enhance, but do not duplicate, traditional and established activities of Ohio's 2003 Committee, North Carolina's First Flight Centennial Commission, the First Flight Centennial Foundation, or any other organization of national stature or prominence.
+
+“(d)
+
+Additional Duties.—The Commission may—
+
+&emsp;“(1)(A) assemble, write, and edit a calendar of events in the United States (and significant events in the world) dealing with the commemoration of the centennial of flight or the history of aviation;
+
+&emsp;“(B) actively solicit event information; and
+
+&emsp;“(C) disseminate the calendar by printing and distributing hard and electronic copies and making the calendar available on a web page on the Internet;
+
+&emsp;“(2) maintain a web page on the Internet for the public that includes activities related to the centennial of flight celebration and the history of aviation;
+
+&emsp;“(3) write and produce press releases about the centennial of flight celebration and the history of aviation;
+
+&emsp;“(4) solicit and respond to media inquiries and conduct media interviews on the centennial of flight celebration and the history of aviation;
+
+&emsp;“(5) initiate contact with individuals and organizations that have an interest in aviation to encourage such individuals and organizations to conduct their own activities in celebration of the centennial of flight;
+
+&emsp;“(6) provide advice and recommendations, through the Administrator of the National Aeronautics and Space Administration or the Administrator of the Federal Aviation Administration (or any employee of such an agency head under the direction of that agency head), to individuals and organizations that wish to conduct their own activities in celebration of the centennial of flight, and maintain files of information and lists of experts on related subjects that can be disseminated on request;
+
+&emsp;“(7) sponsor meetings of Federal agencies, State and local governments, and private individuals and organizations for the purpose of coordinating their activities in celebration of the centennial of flight; and
+
+&emsp;“(8) encourage organizations to publish works related to the history of aviation.
 
 #### “SEC. 6. POWERS.
 
@@ -160,9 +194,9 @@ Advisory Committees and Task Forces.—
 
 &emsp;“(1) In general.—The Commission may appoint any advisory committee or task force from among the membership of the Advisory Board in section 12.
 
-&emsp;“(2) Federal cooperation.—To ensure the overall success of the Commission's efforts, the Commission may call upon various Federal departments and agencies to assist in and give support to the programs of the Commission. The head of the Federal department or agency, where appropriate, shall furnish the information or assistance requested by the Commission, unless prohibited by law.
+&emsp;“(2) Federal cooperation.—The head of a Federal department or agency, where appropriate, shall furnish information or assistance requested by the Commission, unless prohibited by law.
 
-&emsp;“(3) Prohibition of pay other than travel expenses.—Members of an advisory committee or task force authorized under paragraph (1) shall not receive pay, but may receive travel expenses pursuant to the policy adopted by the Commission under section 4(c)(2).
+&emsp;“(3) Prohibition of pay other than travel expenses.—Members of an advisory committee or task force authorized under paragraph (1) shall not receive pay, but may receive travel expenses pursuant to the policy adopted by the Commission under section 4(d)(2).
 
 “(b)
 
@@ -172,7 +206,7 @@ Powers of Members and Agents.—Any member or agent of the Commission may, if au
 
 Authority To Procure and To Make Legal Agreements.—
 
-&emsp;“(1) In general.—Notwithstanding any other provision in this Act, only the Commission may procure supplies, services, and property, and make or enter into leases and other legal agreements in order to carry out this Act.
+&emsp;“(1) In general.—Notwithstanding any other provision in this Act, only the Administrator of the National Aeronautics and Space Administration or the Administrator of the Federal Aviation Administration (or an employee of the respective administration as designated by either Administrator) may, on behalf of the Commission, procure supplies, services, and property, and make or enter into leases and other legal agreements in order to carry out this Act.
 
 &emsp;“(2) Restriction.—
 
@@ -194,11 +228,11 @@ Mails.—The Commission may use the United States mails in the same manner and u
 
 “(a)
 
-Executive Director.—There shall be an Executive Director appointed by the Commission and chosen from among detailees from the agencies and organizations represented on the Commission. The Executive Director may be paid at a rate not to exceed the maximum rate of basic pay payable for the Senior Executive Service.
+Executive Director.—Subject to subsection (h), there shall be an Executive Director appointed by the Commission and chosen from among detailees from the agencies and organizations represented on the Commission or represented on the Advisory Board under section 12(b)(1)(A) through (E). The Executive Director may be paid at a rate not to exceed the maximum rate of basic pay payable for the Senior Executive Service.
 
 “(b)
 
-Staff.—The Commission may appoint and fix the pay of any additional personnel that it considers appropriate, except that an individual appointed under this subsection may not receive pay in excess of the maximum rate of basic pay payable for GS–14 of the General Schedule.
+Staff.—Subject to subsection (h), the Commission may appoint and fix the pay of any additional personnel that it considers appropriate, except that an individual appointed under this subsection may not receive pay in excess of the maximum rate of basic pay payable for GS–14 of the General Schedule.
 
 “(c)
 
@@ -222,11 +256,11 @@ Administrative Support Services.—
 
 “(g)
 
-Cooperative Agreements.—The Commission may enter into cooperative agreements with other Federal agencies, State and local governments, and private interests and organizations that will contribute to public awareness of and interest in the centennial of powered flight and toward furthering the goals and purposes of this Act.
+Program Support.—The Commission may receive program support from the nonprofit sector.
 
 “(h)
 
-Program Support.—The Commission may receive program support from the nonprofit sector.
+Limitation.—Each member of the Commission described under section 4(a)(3), (4), and (5) may not make personnel decisions, including hiring, termination, and setting terms and conditions of employment.
 
 #### “SEC. 8. CONTRIBUTIONS.
 
@@ -246,11 +280,11 @@ Remaining Funds.—Any funds (including funds received from licensing royalties)
 
 “(a)
 
-In General.—The Commission may devise any logo, emblem, seal, or descriptive or designating mark that is required to carry out its duties or that it determines is appropriate for use in connection with the commemoration of the centennial of powered flight.
+In General.—After consultation with the Commission, the Administrator of the National Aeronautics and Space Administration may devise any logo, emblem, seal, or descriptive or designating mark that is required to carry out the duties under this Act or that the Administrator of the National Aeronautics and Space Administration determines is appropriate for use in connection with the commemoration of the centennial of powered flight.
 
 “(b)
 
-Licensing.—The Commission shall have the sole and exclusive right to use, or to allow or refuse the use of, the name ‘Centennial of Flight Commission’ on any logo, emblem, seal, or descriptive or designating mark that the Commission lawfully adopts.
+Licensing.—After consultation with the Commission, the Administrator of the National Aeronautics and Space Administration may exercise the sole and exclusive right to use, or to allow or refuse the use of, the name ‘Centennial of Flight Commission’ on any logo, emblem, seal, or descriptive or designating mark adopted under subsection (a).
 
 “(c)
 
@@ -258,7 +292,15 @@ Effect on Other Rights.—No provision of this section may be construed to confl
 
 “(d)
 
-Use of Funds.—Funds from licensing royalties received pursuant to this section shall be used by the Commission to carry out the duties of the Commission specified by this Act.
+Use of Funds.—
+
+&emsp;“(1)
+
+In general.—Subject to paragraph (2), funds from licensing royalties received under this section shall be used by the Commission to carry out the duties of the Commission specified by this Act.
+
+&emsp;“(2)
+
+Excess funds.—The Commission shall transfer any portion of funds in excess of funds necessary to carry out the duties described under paragraph (1), to the National Aeronautics and Space Administration to be used for the sole purpose of commemorating the history of aviation or the centennial of powered flight.
 
 “(e)
 
@@ -268,7 +310,7 @@ Licensing Rights.—All exclusive licensing rights, unless otherwise specified, 
 
 “(a)
 
-Annual Report.—In each fiscal year in which the Commission is in existence, the Commission shall prepare and submit to Congress a report describing the activities of the Commission during the fiscal year. Each annual report shall also include—
+Annual Report.—In each fiscal year in which the Commission is in existence, the Commission shall prepare and submit to Congress a report describing the actions taken by the Commission in fulfillment of the Commission's duties under this Act during the fiscal year. Each annual report shall also include—
 
 &emsp;“(1) recommendations regarding appropriate activities to commemorate the centennial of powered flight, including—
 
@@ -288,17 +330,15 @@ Annual Report.—In each fiscal year in which the Commission is in existence, th
 
 &emsp;“(2) recommendations to appropriate agencies or advisory bodies regarding the issuance of commemorative coins, medals, and stamps by the United States relating to aviation or the centennial of powered flight;
 
-&emsp;“(3) recommendations for any legislation or administrative action that the Commission determines to be appropriate regarding the commemoration of the centennial of powered flight;
+&emsp;“(3) recommendations for any legislation or administrative action that the Commission determines to be appropriate regarding the commemoration of the centennial of powered flight; and
 
-&emsp;“(4) an accounting of funds received and expended by the Commission in the fiscal year that the report concerns, including a detailed description of the source and amount of any funds donated to the Commission in the fiscal year; and
-
-&emsp;“(5) an accounting of any cooperative agreements and contract agreements entered into by the Commission.
+&emsp;“(4) an accounting of funds received and expended by the Commission in the fiscal year that the report concerns, including a detailed description of the source and amount of any funds donated to the Commission in the fiscal year.
 
 “(b)
 
 Final Report.—Not later than June 30, 2004, the Commission shall submit to the President and Congress a final report. The final report shall contain—
 
-&emsp;“(1) a summary of the activities of the Commission;
+&emsp;“(1) a summary of the recommendations of the Commission;
 
 &emsp;“(2) a final accounting of funds received and expended by the Commission;
 
@@ -336,21 +376,25 @@ Number and Appointment.—
 
 &emsp;“(1) In general.—The Board shall be composed of 19 members as follows:
 
-&emsp;&emsp;“(A) The Secretary of the Interior, or the designee of the Secretary.
+&emsp;&emsp;“(A) The Secretary of the Interior.
 
-&emsp;&emsp;“(B) The Librarian of Congress, or the designee of the Librarian.
+&emsp;&emsp;“(B) The Librarian of Congress.
 
-&emsp;&emsp;“(C) The Secretary of the Air Force, or the designee of the Secretary.
+&emsp;&emsp;“(C) The Secretary of the Air Force.
 
-&emsp;&emsp;“(D) The Secretary of the Navy, or the designee of the Secretary.
+&emsp;&emsp;“(D) The Secretary of the Navy.
 
-&emsp;&emsp;“(E) The Secretary of Transportation, or the designee of the Secretary.
+&emsp;&emsp;“(E) The Secretary of Transportation.
 
 &emsp;&emsp;“(F) Six citizens of the United States, appointed by the President, who—
 
-&emsp;&emsp;&emsp;“(i) are not officers or employees of any government (except membership on the Board shall not be construed to apply to the limitation under this clause); and
+&emsp;&emsp;&emsp;“(i) are not officers or employees of any governmental entity (except membership on the Board shall not be construed to apply to the limitation under this clause); and
 
-&emsp;&emsp;&emsp;“(ii) shall be selected based on their experience in the fields of aerospace history, science, or education, or their ability to represent the entities enumerated under section 5(a)(2).
+&emsp;&emsp;&emsp;“(ii) shall be selected among individuals who—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) have earned an advanced degree related to aerospace history or science, or have actively and primarily worked in an aerospace related field during the 5-year period before appointment by the President; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) specifically represent 1 or more of the persons or groups enumerated under section 5(a)(1).
 
 &emsp;&emsp;“(G) Four citizens of the United States, appointed by the majority leader of the Senate in consultation with the minority leader of the Senate.
 
@@ -359,6 +403,10 @@ Number and Appointment.—
 &emsp;&emsp;&emsp;“(i) one shall be selected from among individuals recommended by the representative whose district encompasses the Wright Brothers National Memorial; and
 
 &emsp;&emsp;&emsp;“(ii) one shall be selected from among individuals recommended by the representatives whose districts encompass any part of the Dayton Aviation Heritage National Historical Park.
+
+&emsp;“(2)
+
+Alternates.—Each member described under paragraph (1)(A) through (E) may designate an alternate who may act in lieu of the member to the extent authorized by the member, including attending meetings and voting.
 
 “(c)
 
@@ -382,7 +430,7 @@ Duties.—The Advisory Board shall advise the Commission on matters related to t
 
 “(h)
 
-Prohibition of Compensation Other Than Travel Expenses.—Members of the Advisory Board shall not receive pay, but may receive travel expenses pursuant to the policy adopted by the Commission under section 4(e) \[4(c)(2)\].
+Prohibition of Compensation Other Than Travel Expenses.—Members of the Advisory Board shall not receive pay, but may receive travel expenses pursuant to the policy adopted by the Commission under section 4(d).
 
 “(i) Termination.—The Advisory Board shall terminate upon the termination of the Commission.
 
@@ -396,9 +444,7 @@ Prohibition of Compensation Other Than Travel Expenses.—Members of the Advisor
 
 &emsp;“(3) The term ‘Commission’ means the Centennial of Flight Commission.
 
-&emsp;“(4) The term ‘designee’ means a person from the respective entity of each entity represented on the Commission or Advisory Board.
-
-&emsp;“(5) The term ‘First Flight’ means the first four successful manned, free, controlled, and sustained flights by a power-driven, heavier-than-air machine, which were accomplished by Orville and Wilbur Wright of Dayton, Ohio on December 17, 1903 at Kitty Hawk, North Carolina.
+&emsp;“(4) The term ‘First Flight’ means the first four successful manned, free, controlled, and sustained flights by a power-driven, heavier-than-air machine, which were accomplished by Orville and Wilbur Wright of Dayton, Ohio on December 17, 1903 at Kitty Hawk, North Carolina.
 
 #### “SEC. 14. TERMINATION.
 

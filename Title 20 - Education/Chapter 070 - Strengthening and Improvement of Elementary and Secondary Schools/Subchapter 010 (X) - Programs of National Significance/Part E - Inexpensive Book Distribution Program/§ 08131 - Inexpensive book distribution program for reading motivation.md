@@ -8,7 +8,7 @@ The Secretary is authorized to enter into a contract with Reading is Fundamental
 
 Any contract entered into under subsection (a) of this section shall—
 
-&emsp;(1) provide that the contractor will enter into subcontracts with local private nonprofit groups or organizations, or with public agencies, under which each subcontractor will agree to establish, operate, and provide the non-Federal share of the cost of reading motivation programs that include the distributionof books, by gift, to the extent feasible, or loan, to children from birth through secondary school age, including those in family literacy programs;
+&emsp;(1) provide that the contractor will enter into subcontracts with local private nonprofit groups or organizations, or with public agencies, under which each subcontractor will agree to establish, operate, and provide the non-Federal share of the cost of reading motivation programs that include the distribution of books, by gift, to the extent feasible, or loan, to children from birth through secondary school age, including those in family literacy programs;
 
 &emsp;(2) provide that funds made available to subcontractors will be used only to pay the Federal share of the cost of such programs;
 
@@ -44,7 +44,7 @@ The Secretary shall make no payment of the Federal share of the cost of acquirin
 
 #### (d) “Federal share” defined
 
-For the purpose of this section, the term “Federal share” means, with respect to the cost to a subcontractor of purchasing books to be paid under this section, 75 percent of such costs to the subcontractor, except that the Federal share for programs serving children of migrant or seasonal farmworkers shall be 100 percent of such costs to the subcontractor.
+For the purpose of this section, the term “Federal share” means, with respect to the cost to a subcontractor of purchasing books to be paid under this section, 75 percent of such costs to the subcontractor, except that the Federal sharefor programs serving children of migrant or seasonal farmworkers shall be 100 percent of such costs to the subcontractor.
 
 #### (e) Authorization of appropriations
 

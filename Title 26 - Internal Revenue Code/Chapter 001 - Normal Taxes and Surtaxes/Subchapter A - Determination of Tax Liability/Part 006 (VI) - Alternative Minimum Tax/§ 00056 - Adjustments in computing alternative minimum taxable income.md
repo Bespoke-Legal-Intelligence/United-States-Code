@@ -124,11 +124,11 @@ In determining the amount of the alternative minimum taxable income of any taxpa
 
 #### (A) In general
 
-&emsp;&emsp;The amount allowable as a deduction under section 173 or 174(a) in computing the regular tax for amounts paid or incurred after December 31, 1986, shall be capitalized and—
+&emsp;&emsp;The amount allowable as a deduction under section 173 or 174(a) in computing theregular tax for amounts paid or incurred after December 31, 1986, shall be capitalized and—
 
 &emsp;&emsp;&emsp;(i) in the case of circulation expenditures described in section 173, shall be amortized ratably over the 3-year period beginning with the taxable year in which the expenditures were made, or
 
-&emsp;&emsp;&emsp;(ii) in the case of research and experimental expenditures described in section174(a), shall be amortized ratably over the 10-year period beginning with the taxable year in which the expenditures were made.
+&emsp;&emsp;&emsp;(ii) in the case of research and experimental expenditures described in section 174(a), shall be amortized ratably over the 10-year period beginning with the taxable year in which the expenditures were made.
 
 #### (B) Loss allowed
 
@@ -204,7 +204,7 @@ In determining the amount of the alternative minimum taxable income of a corpora
 
 #### (B) Pre-1987 years
 
-&emsp;&emsp;In the case of loss years beginning before January 1, 1987, the amount of the net operating loss which may be carried over to taxable years beginning after December 31, 1986, for purposes of paragraph (2), shall be equal to the amount which may be carried from the loss year to the first taxable year of the taxpayer beginning after December 31, 1986.
+&emsp;&emsp;In the case of loss years beginning before January 1, 1987, the amount of the net operating loss which may be carried over to taxable years beginning after December 31, 1986, for purposes of paragraph (2), shall be equalto the amount which may be carried from the loss year to the first taxable year of the taxpayer beginning after December 31, 1986.
 
 #### (e) Qualified housing interest
 
@@ -212,7 +212,7 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;The term “qualified housing interest” means interest which is qualified residence interest (as defined in section 163(h)(3)) and ispaid or accrued during the taxable year on indebtedness which is incurred in acquiring, constructing, or substantially improving any property which—
+&emsp;The term “qualified housing interest” means interest which is qualified residence interest (as defined in section 163(h)(3)) and is paid or accrued during the taxable year on indebtedness which is incurred in acquiring, constructing, or substantially improving any property which—
 
 &emsp;&emsp;(A) is the principal residence (within the meaning of section 121) of the taxpayer at the time such interest accrues, or
 
@@ -304,9 +304,9 @@ For purposes of this part—
 
 #### (iii) Property to which original ACRS system applies
 
-&emsp;&emsp;&emsp;In the case of any property to which section 168 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986 and without regard to subsection (d)(1)(A)(ii) thereof) applies and which is placed in service in a taxable year beginning before 1990, the depreciation deduction shall be determined—
+&emsp;&emsp;&emsp;In the case of any property to which section 168 (as in effect on the day before thedate of the enactment of the Tax Reform Act of 1986 and without regard to subsection (d)(1)(A)(ii) thereof) applies and which is placed in service in a taxable year beginning before 1990, the depreciation deduction shall be determined—
 
-&emsp;&emsp;&emsp;&emsp;(I) by taking into account the adjusted basis of such property (as determined forpurposes of computing the regular tax) as of the close of the last taxable year beginning before January 1, 1990, and
+&emsp;&emsp;&emsp;&emsp;(I) by taking into account the adjusted basis of such property (as determined for purposes of computing the regular tax) as of the close of the last taxable year beginning before January 1, 1990, and
 
 &emsp;&emsp;&emsp;&emsp;(II) by using the straight line method over the remainder of the recovery period which would apply to such property under the alternative system of section 168(g).
 
@@ -450,7 +450,7 @@ For purposes of this part—
 
 &emsp;This subsection shall not apply to any S corporation, regulated investment company, real estate investment trust, REMIC, or FASIT.
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2322; amended Pub. L. 100–203, title X, §§10202(d), 10243(a), Dec. 22, 1987, 101 Stat. 1330–392, 1330–423; Pub. L. 100–647, title I, §§1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II,§§2001(c)(3)(A), 2004(b)(2), (3), title V, §5041(b)(4), title VI, §§6079(a)(1), 6303(a), Nov. 10, 1988, 102 Stat. 3355, 3428–3432, 3594, 3599, 3674, 3709, 3755; Pub. L. 101–239, title VII, §§7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19, 1989, 103 Stat. 2335, 2371–2374, 2408, 2419; Pub. L. 101–508, title XI, §§11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, 104 Stat. 1388–406, 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; Pub. L. 102–486, title XIX, §1915(a)(2), (b)(2), (c)(1), (2), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13115(a), 13171(b), 13227(c), Aug. 10, 1993, 107 Stat. 432, 454, 493; Pub. L. 104–188, title I, §§1601(b)(2)(B), (C), 1621(b)(2), 1702(c)(1), (e)(1)(A), (g)(4), (h)(12), 1704(t)(1), (48), Aug. 20, 1996, 110 Stat. 1832, 1833, 1867, 1869, 1870, 1873, 1874, 1887, 1889; Pub. L. 105–34, title III, §312(d)(1), title IV, §§402, 403(a), title XII, §1212(a), Aug. 5, 1997, 111 Stat. 839, 844, 1000; Pub. L. 105–277, div. J, title IV, §4006(c)(2), Oct. 21, 1998, 112 Stat. 2681–912.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2322; amended Pub. L. 100–203, titleX, §§10202(d), 10243(a), Dec. 22, 1987, 101 Stat. 1330–392, 1330–423; Pub. L. 100–647, title I, §§1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§2001(c)(3)(A), 2004(b)(2), (3), title V, §5041(b)(4), title VI, §§6079(a)(1), 6303(a), Nov. 10, 1988, 102 Stat. 3355, 3428–3432, 3594, 3599, 3674, 3709, 3755; Pub. L. 101–239, title VII, §§7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19, 1989, 103 Stat. 2335, 2371–2374, 2408, 2419; Pub. L. 101–508, title XI, §§11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, 104 Stat. 1388–406, 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; Pub. L. 102–486, title XIX, §1915(a)(2), (b)(2), (c)(1), (2), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13115(a), 13171(b), 13227(c), Aug. 10, 1993, 107 Stat. 432, 454, 493; Pub. L. 104–188, title I, §§1601(b)(2)(B), (C), 1621(b)(2), 1702(c)(1), (e)(1)(A), (g)(4), (h)(12), 1704(t)(1), (48), Aug. 20, 1996, 110 Stat. 1832, 1833, 1867, 1869, 1870, 1873, 1874, 1887, 1889; Pub. L. 105–34, title III, §312(d)(1), title IV, §§402, 403(a), title XII, §1212(a), Aug. 5, 1997, 111 Stat. 839, 844, 1000; Pub. L. 105–277, div. J, title IV, §4006(c)(2), Oct. 21, 1998, 112 Stat. 2681–912.)
 
 #### References in Text
 
@@ -516,7 +516,7 @@ Subsec. (g)(4)(J). Pub. L. 103–66, §13171(b), added subpar. (J).
 
 Subsec. (g)(4)(D)(i). Pub. L. 102–486, §1915(b)(2), inserted at end “In the case of a taxpayer other than an integrated oil company (as defined in section 291(b)(4)), in the case of any oil or gas well, this clause shall not apply in the case of amounts paid or incurred in taxable years beginning after December 31, 1992.”
 
-Subsec. (g)(4)(F). Pub. L. 102–486, §1915(a)(2), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “The allowance for depletion with respect to any property placed in service in a taxableyear beginning after 1989 shall be cost depletion determined under section 611.”
+Subsec. (g)(4)(F). Pub. L. 102–486, §1915(a)(2), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “The allowance for depletion with respect to any property placed in service in a taxable year beginning after 1989 shall be cost depletion determined under section 611.”
 
 Subsec. (h). Pub. L. 102–486, §1915(c)(1), struck out subsec. (h) which related to adjustment based on energy preferences.
 
@@ -780,7 +780,7 @@ Section 7611(g) of Pub. L. 101–239 provided that:
 
 “(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section\[amending this section and sections 59 and 312 of this title\] shall apply to taxable years beginning after December 31, 1989.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 59 and 312 of this title\] shall apply to taxable years beginning after December 31, 1989.
 
 “(2)
 

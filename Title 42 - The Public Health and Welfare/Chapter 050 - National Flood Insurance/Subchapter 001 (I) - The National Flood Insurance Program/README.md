@@ -27,5 +27,5 @@ This subchapter is referred to in sections 4041, 4051, 4056, 4071 of this title.
 - [&sect; 04025 - Flood insurance advisory committee](%C2%A7%2004025%20-%20Flood%20insurance%20advisory%20committee.md)
 - [&sect; 04026 - Expiration of program](%C2%A7%2004026%20-%20Expiration%20of%20program.md)
 - [&sect; 04027 - Biennial report to President](%C2%A7%2004027%20-%20Biennial%20report%20to%20President.md)
-- [&sect; 04028 - Coastal Barrier Resources System](%C2%A7%2004028%20-%20Coastal%20Barrier%20Resources%20System.md)
+- [&sect; 04028 - John H. Chafee Coastal Barrier Resources System](%C2%A7%2004028%20-%20John%20H.%20Chafee%20Coastal%20Barrier%20Resources%20System.md)
 - [&sect; 04029 - Colorado River Floodway](%C2%A7%2004029%20-%20Colorado%20River%20Floodway.md)

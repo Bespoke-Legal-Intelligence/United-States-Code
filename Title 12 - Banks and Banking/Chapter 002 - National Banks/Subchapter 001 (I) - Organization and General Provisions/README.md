@@ -10,6 +10,7 @@
 - [&sect; 00022 - Organization certificate](%C2%A7%2000022%20-%20Organization%20certificate.md)
 - [&sect; 00023 - Acknowledgment and filing of certificate](%C2%A7%2000023%20-%20Acknowledgment%20and%20filing%20of%20certificate.md)
 - [&sect; 00024 - Corporate powers of associations](%C2%A7%2000024%20-%20Corporate%20powers%20of%20associations.md)
+- [&sect; 00024a - Financial subsidiaries of national banks](%C2%A7%2000024a%20-%20Financial%20subsidiaries%20of%20national%20banks.md)
 - [&sect; 00025 - Omitted](%C2%A7%2000025%20-%20Omitted.md)
 - [&sect; 00025a - Participation by national banks in lotteries and related activities](%C2%A7%2000025a%20-%20Participation%20by%20national%20banks%20in%20lotteries%20and%20related%20activities.md)
 - [&sect; 00026 - Comptroller to determine if association can commence business](%C2%A7%2000026%20-%20Comptroller%20to%20determine%20if%20association%20can%20commence%20business.md)

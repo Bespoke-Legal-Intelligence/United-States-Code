@@ -1,6 +1,6 @@
 ### §3005. False representations; lotteries
 
-(a) Upon evidence satisfactory to the Postal Service that any person is engaged in conducting a scheme or device for obtaining money or property through the mail by means of false representations, including the mailing of matter which is nonmailable under <sup>1</sup> 3001(d), (h), or (i) ofthis title, or is engaged in conducting a lottery, gift enterprise, or scheme for the distribution of money or of real or personal property, by lottery, chance, or drawing of any kind, the Postal Service may issue an order which—
+(a) Upon evidence satisfactory to the Postal Service that any person is engaged in conducting a scheme or device for obtaining money or property through the mail by means of false representations, including the mailing of matter which is nonmailable under <sup>1</sup> 3001(d), (h), (i), (j), or (k) of this title, or is engaged in conducting a lottery, gift enterprise, or scheme for the distribution of money or of real or personal property, by lottery, chance, or drawing of any kind, the Postal Service may issue an order which—
 
 &emsp;(1) directs the postmaster of the post office at which mail arrives, addressed to such a person or to his representative, to return such mail to the sender appropriately marked as in violation of this section, if the person, or his representative, is first notified and given reasonable opportunity to be present at the receiving post office to survey the mail before the postmaster returns the mail to the sender;
 
@@ -8,11 +8,11 @@
 
 &emsp;(3) requires the person or his representative to cease and desist from engaging in any such scheme, device, lottery, or gift enterprise.
 
-> For purposes of the preceding sentence, the mailing of matter which is nonmailable under such <sup>1</sup> 3001(d), (h), or (i) by any person shall constitute prima facie evidence that such person is engaged in conducting a scheme or device for obtaining money or property through the mail by false representations.
+> For purposes of the preceding sentence, the mailing of matter which is nonmailable under such <sup>1</sup> 3001(d), (h), (i), (j), or (k) by any person shall constitute prima facie evidence that such person is engaged in conducting a scheme or device for obtaining money or property through the mail by false representations.
 
 (b) The public advertisement by a person engaged in activities covered by subsection (a) of this section, that remittances may be made by mail to a person named in the advertisement, is prima facie evidence that the latter is the agent or representative of the advertiser for the receipt of remittances on behalf of the advertiser. The Postal Service may ascertain the existence of the agency in any other legal way satisfactory to it.
 
-(c) As used in this section and section 3006 of this title, the term “representative” includes an agent or representative acting as an individual or as a firm, bank, corporation, or association of any kind.
+(c) As used in this section, the term “representative” includes an agent or representative acting as an individual or as a firm, bank, corporation, or association of any kind.
 
 (d) Nothing in this section shall prohibit the mailing of (1) publications containing advertisements, lists of prizes, or information concerning a lottery, which are exempt, pursuant to section 1307 of title 18 of the United States Code, from the provisions of sections 1301, 1302, 1303, and 1304 of title 18 of the United States Code, (2) tickets or other materials concerning such a lottery within that State to addresses within that State, or (3) an advertisement promoting the sale of a book or other publication, or a solicitation to purchase, or a purchase order for any such publication, if (A) such advertisement, solicitation, or purchase order is not materially false or misleading in its description of the publication; (B) such advertisement, solicitation, or purchase order contains no material misrepresentation of fact: <i>Provided, however</i>, That no statement quoted or derived from the publication shall constitute a misrepresentation of fact as long as such statement complies with the requirements of subparagraphs (A) and (C); and (C) the advertisement, solicitation, or purchase order accurately discloses the source of any statements quoted or derived from the publication. Paragraph (3) shall not be applicable to any publication, advertisement, solicitation, or purchase order which is used to sell some other product in which the publisher or author has a financial interest as part of a commercial scheme. For the purposes of this subsection, “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
@@ -28,9 +28,13 @@
 
 &emsp;(C) inform such person that the failure to complete the transaction may be considered in a proceeding under section 3007 of this title to determine probable cause, in accordance with paragraph (2) of this subsection.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 747; Pub. L. 93–583, §4, Jan. 2, 1975, 88 Stat. 1916; Pub. L. 94–525, §2, Oct. 17, 1976, 90 Stat. 2478; Pub. L. 95–360, Sept. 9, 1978, 92 Stat. 594; Pub. L. 98–186, §2, Nov. 30, 1983, 97 Stat. 1315; Pub. L. 100–625, §2(c), Nov. 7, 1988, 102 Stat. 3205; Pub. L. 101–524, §2(b), Nov. 6, 1990, 104 Stat. 2302; Pub. L. 102–71, §2(2), July 10, 1991, 105 Stat. 330.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 747; Pub. L. 93–583, §4, Jan. 2, 1975, 88 Stat. 1916; Pub. L. 94–525, §2, Oct. 17, 1976, 90 Stat. 2478; Pub. L. 95–360, Sept. 9, 1978, 92 Stat. 594; Pub. L. 98–186, §2, Nov. 30, 1983, 97 Stat. 1315; Pub. L. 100–625, §2(c), Nov. 7, 1988, 102 Stat. 3205; Pub. L. 101–524, §2(b), Nov. 6, 1990, 104 Stat. 2302; Pub. L. 102–71, §2(2), July 10, 1991, 105 Stat. 330; Pub. L. 106–168, title I, §§104, 105(b)(2)(A), Dec. 12, 1999, 113 Stat. 1810, 1811.)
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–168, §104, in two places, struck out “or” after “(h),” and inserted “, (j), or (k)” after “(i)”.
+
+Subsec. (c). Pub. L. 106–168, §105(b)(2)(A), substituted “section,” for “section and section 3006 of this title,”.
 
 1991—Subsec. (a). Pub. L. 102–71 substituted “3001(d), (h), or (i)” for “section 3001(d), (f), or (g)” in two places.
 
@@ -46,9 +50,13 @@ Subsec. (e). Pub. L. 98–186, §2(c), added subsec. (e).
 
 1978—Subsec. (a). Pub. L. 95–360 inserted provisions relating to nonmailable matter under section 3001(d) of this title.
 
-1976—Subsec. (d). Pub. L. 94–525 substituted “a newspaper of general circulation containing advertisements,lists of prizes, or information concerning a lottery conducted by a State acting under authority of State law, published in that State, or in an adjacent State which conducts such a lottery,” for “a newspaper of general circulation published in a State containing advertisements, lists of prizes, or information concerning a lottery conducted by that State acting under authority of State law,”.
+1976—Subsec. (d). Pub. L. 94–525 substituted “a newspaper of general circulation containing advertisements, lists of prizes, or information concerning a lottery conducted by a State acting under authority of State law, published in that State, or in an adjacent State which conducts such a lottery,” for “a newspaper of general circulation published in a State containing advertisements, lists of prizes, or information concerning a lottery conducted by that State acting under authority of State law,”.
 
 1975—Subsec. (d). Pub. L. 93–583 added subsec. (d).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–168 effective 120 days after Dec. 12, 1999, see section 111 of Pub. L. 106–168, set out as a note under section 3001 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -68,7 +76,7 @@ Section 4 of Pub. L. 98–186, as amended by Pub. L. 104–66, title II, §2211(
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3007, 3012, 3013 of this title.
+This section is referred to in sections 3007, 3012, 3013, 3016 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “section”.</i>
 

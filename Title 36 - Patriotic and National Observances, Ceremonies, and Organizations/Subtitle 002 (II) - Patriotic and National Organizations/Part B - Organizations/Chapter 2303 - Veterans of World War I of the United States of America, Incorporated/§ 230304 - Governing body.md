@@ -42,13 +42,19 @@ July 18, 1958, Pub. L. 85–530, §§6(a), 7, 8, 72 Stat. 372.
 
 36:767(a).
 
+&nbsp;
+
 230304(b)(2)
 
 36:767(b), (c).
 
+&nbsp;
+
 230304(c)
 
 36:768.
+
+&nbsp;
 
 In subsection (a)(2), the words “always” and “the hands of” are omitted as unnecessary.
 

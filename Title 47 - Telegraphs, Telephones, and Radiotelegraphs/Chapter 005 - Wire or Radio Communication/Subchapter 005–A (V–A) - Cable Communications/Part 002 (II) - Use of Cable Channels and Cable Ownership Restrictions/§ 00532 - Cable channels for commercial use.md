@@ -34,7 +34,7 @@ The purpose of this section is to promote competition in the delivery of diverse
 
 (2) A cable operator shall not exercise any editorial control over any video programming provided pursuant to this section, or in any other way consider the content of such programming, except that a cable operator may refuse to transmit any leased access program or portion of a leased access program which contains obscenity, indecency, or nudity and may consider such content to the minimum extent necessary to establish a reasonable price for the commercial use of designated channel capacity by an unaffiliated person.
 
-(3) Any cable system channel designated in accordance with this section shall not be used to provide a cable service that is being provided over such system on October 30, 1984, if the provision of such programming is intended to avoid the purpose of this section.
+(3) Any cable system channel designated in accordance with this section shall not be used toprovide a cable service that is being provided over such system on October 30, 1984, if the provision of such programming is intended to avoid the purpose of this section.
 
 (4)(A) The Commission shall have the authority to—
 

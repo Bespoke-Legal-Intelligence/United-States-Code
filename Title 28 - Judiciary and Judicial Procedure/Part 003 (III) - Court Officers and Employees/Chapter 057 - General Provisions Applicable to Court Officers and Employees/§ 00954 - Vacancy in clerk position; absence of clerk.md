@@ -10,7 +10,7 @@ Based on title 28, U.S.C., 1940 ed., §§8, 222 and 327 (Mar. 3, 1911, ch. 231, 
 
 Section consolidates parts of sections 8, 222 and 327 of title 28, U.S.C., 1940 ed.
 
-Sections 8, 222 and 327 of title 28, U.S.C., 1940 ed., related only to district courts, courts of appeals and the Supreme Court, respectively. This section applies to all Federal courts and is in conformity with section 548 \[546\] of this title relating to death of a United States marshal.
+Sections 8, 222 and 327 of title 28, U.S.C., 1940 ed., related only to district courts, courts of appeals and theSupreme Court, respectively. This section applies to all Federal courts and is in conformity with section 548 \[546\] of this title relating to death of a United States marshal.
 
 The provision for continuance of the salary of the clerk of the Supreme Court until his successor is appointed and qualifies was inserted to preserve existing law as declared in the unpublished opinion of Chief Justice Taft, March 23, 1932 (filed in the Department of Justice), with respect to a deceased clerk of the Supreme Court.
 

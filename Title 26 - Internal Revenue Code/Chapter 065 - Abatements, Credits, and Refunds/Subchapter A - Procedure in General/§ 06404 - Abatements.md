@@ -16,11 +16,11 @@ No claim for abatement shall be filed by a taxpayer in respect of any assessment
 
 #### (c) Small tax balances
 
-The Secretary is authorized to abate the unpaid portion of the assessment of any tax, or anyliability in respect thereof, if the Secretary determines under uniform rules prescribed by the Secretary that the administration and collection costs involved would not warrant collection of the amount due.
+The Secretary is authorized to abate the unpaid portion of the assessment of any tax, or any liability in respect thereof, if the Secretary determines under uniform rules prescribed by the Secretary that the administration and collection costs involved would not warrant collection of the amount due.
 
 #### (d) Assessments attributable to certain mathematical errors by Internal Revenue Service
 
-In the case of an assessment of any tax imposed by chapter 1 attributable in whole or in part to a mathematical error described in section 6213(g)(2)(A), if the return was prepared by an officer or employee of the Internal Revenue Service acting in his official capacity to provide assistance to taxpayers in the preparation of income tax returns, the Secretary is authorized to abate the assessment of all or any part of any interest on such deficiency for any period ending on or before the 30th day following the date of notice and demand by the Secretary for payment of the deficiency.
+In the case of an assessment of any tax imposed by chapter 1 attributable in whole or in part to a mathematical error described in section 6213(g)(2)(A), if the return was prepared by an officer or employee of the Internal Revenue Service acting in his official capacity to provide assistance to taxpayers in the preparation of income tax returns, the Secretary is authorized to abate the assessment of all or any part of any interest on such deficiency for any period ending on or before the 30th day following the date ofnotice and demand by the Secretary for payment of the deficiency.
 
 #### (e) Abatement of interest attributable to unreasonable errors and delays by Internal Revenue Service
 
@@ -106,7 +106,7 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 #### (2) Presidentially declared disaster area
 
-&emsp;For purposes of paragraph (1), the term “Presidentially declared disaster area” means, with respect to any taxpayer, any area which the President has determined warrants assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+&emsp;For purposes of paragraph (1), the term “Presidentially declared disaster area” means,with respect to any taxpayer, any area which the President has determined warrants assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
 
 #### (i) Review of denial of request for abatement of interest
 
@@ -200,7 +200,7 @@ Section 701(d) of Pub. L. 104–168 provided that: “The amendments made by thi
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1015(n) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1015(n) of Pub. L. 100–647 effective, except as otherwise provided, as if included in theprovision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Section 6229(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to advice requested on or after January 1, 1989.”
 

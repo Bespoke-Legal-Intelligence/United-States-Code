@@ -2,7 +2,7 @@
 
 #### (a) Authorization; prerequisites
 
-The Secretary is authorized to enter into a contract or contracts with any State education agency or school district for the purpose of assisting such agency or district in the acquisition of sites for, or the construction, acquisition, or renovation of facilities (including all necessary equipment) in school districts on or adjacent to or in close proximity to any Indian reservation or other lands held in trust by the United States for Indians, if such facilities are necessary for the education of Indians residing on any such reservation or lands.
+The Secretary is authorized to enter into a contract or contracts with any State education agency or school district for the purpose of assisting such agency or district in the acquisitionof sites for, or the construction, acquisition, or renovation of facilities (including all necessary equipment) in school districts on or adjacent to or in close proximity to any Indian reservation or other lands held in trust by the United States for Indians, if such facilities are necessary for the education of Indians residing on any such reservation or lands.
 
 #### (b) Eligibility requirements for assistance in federally-affected areas; applicability to projects in determining maximum amount, allocation, of funds, etc.
 
@@ -22,7 +22,7 @@ Any contract entered into by the Secretary pursuant to this section shall contai
 
 #### (e) Advisory consultations by Secretary with affected entities and governing bodies prior to contracts; applicability
 
-The Secretary shall consult with the entity designated pursuant to section 456 of this title, and with the governing body of any Indian tribe or tribes the educational opportunity for the members of which will be significantly affected by any contract entered into pursuant to this section. Such consultation shall be advisory only, but shall occur prior to the entering intoof any such contract. The foregoing provisions of this subsection shall not be applicable where the application for a contract pursuant to this section is submitted by an elected school board of which a majority of its members are Indians.
+The Secretary shall consult with the entity designated pursuant to section 456 of this title, and with the governing body of any Indian tribe or tribes the educational opportunity for the members of which will be significantly affected by any contract entered into pursuant to this section. Such consultation shall be advisory only, but shall occur prior to the entering into of any such contract. The foregoing provisions of this subsection shall not be applicable where the application for a contract pursuant to this section is submitted by an elected school board of which a majority of its members are Indians.
 
 #### (f) Evaluation and report to Congress of effectiveness of construction, etc., programs; scope and content of report
 

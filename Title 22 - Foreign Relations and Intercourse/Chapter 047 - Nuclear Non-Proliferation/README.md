@@ -62,7 +62,7 @@
 | [3282\.](Subchapter%20004%20%28IV%29%20-%20Executive%20Reporting/%C2%A7%2003282%20-%20Reports%20by%20departments%20and%20agencies.md) | Reports by departments and agencies. |
 | (a) | Reports by Nuclear Regulatory Commission and Department of Energy. |
 | (b) | Additional reporting requirements. |
-| (c) | Committees on Foreign Relations and Governmental Affairs of Senate and Committee on Foreign Affairs of House of Representatives to be kept informed. |
+| (c) | Committees on Foreign Relations and Governmental Affairs of Senate and Committee on International Relations of House of Representatives to be kept informed. |
 | (d) | Classified portions of reports. |
 | (e) | Omitted. |
 | (f) | Access by Secretary of Defense to information regarding nuclear proliferation matters; applicability. |

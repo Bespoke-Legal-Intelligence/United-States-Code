@@ -38,7 +38,7 @@ Regulations under subsection (a)(4) of this section shall—
 
 (2) Paragraph (1) of this subsection shall not be applicable to any fossil-fuel fired powerplant with total design capacity of 750 megawatts or more, unless the owner or operator of any such plant demonstrates to the satisfaction of the Administrator that such powerplant is located at such distance from all areas listed by the Administrator under subsection (a)(2) of this section that such powerplant does not or will not, by itself or in combination with other sources, emit any air pollutant which may reasonably be anticipated to cause or contribute to significant impairment of visibility in any such area.
 
-(3) An exemption under this subsection shall be effective only upon concurrence by the appropriate Federal land manager or managers with the Administrator's determination under this subsection.
+(3) An exemption under this subsection shall be effective only upon concurrence by the appropriate Federal land manager or managers withthe Administrator's determination under this subsection.
 
 #### (d) Consultations with appropriate Federal land managers
 

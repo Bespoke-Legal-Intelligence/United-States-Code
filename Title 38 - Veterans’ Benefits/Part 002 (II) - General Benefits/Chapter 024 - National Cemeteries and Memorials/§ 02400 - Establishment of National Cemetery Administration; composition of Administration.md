@@ -10,7 +10,7 @@
 
 &emsp;(3) any other cemetery, memorial, or monument transferred to the Veterans’ Administration by the National Cemeteries Act of 1973, or later acquired or developed by the Secretary.
 
-(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1000; amended Pub. L. 99–576, title VII,§701(52), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 100–527, §13(i), Oct. 25, 1988, 102 Stat. 2644; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2400 and amended Pub. L. 102–83, §§4(a)(3), (4), 5(a), Aug. 6, 1991, 105 Stat. 404, 406; Pub. L. 105–368, title IV, §403(c)(3), Nov. 11, 1998, 112 Stat. 3338.)
+(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1000; amended Pub. L. 99–576, title VII, §701(52), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 100–527, §13(i), Oct. 25, 1988, 102 Stat. 2644; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2400 and amended Pub. L. 102–83, §§4(a)(3), (4), 5(a), Aug. 6, 1991, 105 Stat. 404, 406; Pub. L. 105–368, title IV, §403(c)(3), Nov. 11, 1998, 112 Stat. 3338.)
 
 #### References in Text
 
@@ -22,7 +22,7 @@ The date of enactment of this chapter, referred to in subsec. (b)(2), is the dat
 
 #### Amendments
 
-1998—Pub. L. 105–368, §403(c)(3)(C), substituted “Administration; composition of Administration” for “System; composition of such system; appointment of director” in section catchline.
+1998—Pub. L. 105–368, §403(c)(3)(C), substituted “Administration; composition of Administration” for“System; composition of such system; appointment of director” in section catchline.
 
 Subsec. (a). Pub. L. 105–368, §403(c)(3)(A), in first sentence, substituted “Administration responsible” for “System” and, in second sentence, substituted “The National Cemetery Administration shall be headed by the Under Secretary for Memorial Affairs” for “Such system shall be headed by the Director of the National Cemetery System”.
 
@@ -59,6 +59,32 @@ Section 10(a) of Pub. L. 93–43 provided that: “The first section \[set out a
 #### Short Title
 
 For short title of Pub. L. 93–43, June 18, 1973, 87 Stat. 75, which enacted this chapter, as the “National Cemeteries Act of 1973”, see section 1 of Pub. L. 93–43 set out as a Short Title of 1973 Amendment note under section 101 of this title.
+
+#### Establishment of Additional National Cemeteries
+
+Pub. L. 106–117, title VI, §611, Nov. 30, 1999, 113 Stat. 1580, provided that:
+
+“(a)
+
+Establishment.—The Secretary \[of Veterans Affairs\] shall establish, in accordance with chapter 24 of title 38, United States Code, a national cemetery in each of the six areas in the United States that the Secretary determines to be most in need of such a cemetery to serve the needs of veterans and their families.
+
+“(b)
+
+Obligation of Funds in Fiscal Year 2000.—The Secretary shall obligate, from the advance planning fund in the Construction, Major Projects account appropriated to the Department \[of Veterans Affairs\] for fiscal year 2000, such amounts for costs that the Secretary estimates are required for the planning and commencement of the establishment of national cemeteries under this section.
+
+“(c)
+
+Reports.—(1) Not later than 120 days after the date of the enactment of this Act \[Nov. 30, 1999\], the Secretary shall submit to Congress a report on the establishment of the national cemeteries under subsection (a). The report shall set forth the following:
+
+&emsp;“(A) The six areas of the United States determined by the Secretary to be most in need of the establishment of a new national cemetery.
+
+&emsp;“(B) A schedule for such establishment.
+
+&emsp;“(C) An estimate of the costs associated with such establishment.
+
+&emsp;“(D) The amount obligated from the advance planning fund under subsection (b).
+
+“(2) Not later than one year after the date on which the report described in paragraph (1) is submitted, and annually thereafter until the establishment of the national cemeteries under subsection (a) is complete, the Secretary shall submit to Congress a report that updates the information included in the report described in paragraph (1).”
 
 #### Reimbursement of Account
 

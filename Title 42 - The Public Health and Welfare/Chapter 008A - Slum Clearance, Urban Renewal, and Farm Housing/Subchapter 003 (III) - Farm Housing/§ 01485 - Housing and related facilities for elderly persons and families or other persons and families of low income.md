@@ -22,7 +22,7 @@ The Secretary is authorized to insure and make commitments to insure loans made 
 
 &emsp;(3) for insuring such loans, the Secretary shall utilize the Agricultural Credit Insurance Fund subject to all the provisions of section 1929 of title 7 and the second and third sentences of section 1928 <sup>1</sup> of title 7, including the authority in section 1929(f)(1) <sup>1</sup> of title 7 to utilize the insurance fund to make, sell, and insure loans which could be insured under this subsection; but the aggregate of the principal amounts of such loans made by the Secretary and not disposed of shall not exceed $10,000,000 outstanding at any one time; and the Secretary may take liens running to the United States though the notes may be held by other lenders;
 
-&emsp;(4) such a loan, when made to a consumer cooperative for cooperative housing purposes,may, notwithstanding any other provision of law, be made upon the condition that any person who is admitted as an eligible member and tenant of the cooperative may not subsequently be deprived of his membership or tenancy by reason of his no longer meeting the income eligibility requirements established by the Secretary;
+&emsp;(4) such a loan, when made to a consumer cooperative for cooperative housing purposes, may, notwithstanding any other provision of law, be made upon the condition that any person who is admitted as an eligible member and tenant of the cooperative may not subsequently be deprived of his membership or tenancy by reason of his no longer meeting the income eligibility requirements established by the Secretary;
 
 &emsp;(5) loans may be made to owners who are otherwise eligible under this section to purchase and convert single-family residences to rental units of two or more dwellings; and
 
@@ -72,7 +72,7 @@ Amounts made available pursuant to section 1483 of this title shall be available
 
 #### (g) Loans for financing transfers of memberships in cooperatives
 
-Notwithstanding the provisions of subsections (a) and (b) of this section, the Secretary may make and insure loans to consumer cooperatives to enable such cooperatives to finance the transfers of memberships in the cooperatives upon such terms and conditions as low- and moderate-income persons can reasonably afford, exceptthat such loans shall not be made upon terms more favorable than are authorized under section 1490a(a) of this title, and that the total loan to a cooperative under this section shall not exceed the value of the property.
+Notwithstanding the provisions of subsections (a) and (b) of this section, the Secretary may make and insure loans to consumer cooperatives to enable such cooperatives to finance the transfers of memberships in the cooperatives upon such terms and conditions as low- and moderate-income persons can reasonably afford, except that such loans shall not be made upon terms more favorable than are authorized under section 1490a(a) of this title, and that the total loan to a cooperative under this section shall not exceed the value of the property.
 
 #### (h) Project transfers
 
@@ -120,7 +120,7 @@ The Secretary may not (1) deny assistance under this section on the basis that r
 
 (1) To the extent assistance is available under section 1490a(a)(2) of this title, not more than 25 per centum of the dwelling units which were available for occupancy under this section prior to November 30, 1983, and which will be leased on or after November 30, 1983, shall be available for leasing by low income persons and families other than very low-income persons and families.
 
-(2) To the extent assistance is available under section 1490a(a)(2) of this title, not more than 5 per centum of the dwelling units which become available for occupancy under this section on orafter November 30, 1983, shall be available for leasing by low income persons and families other than very low-income persons and families.
+(2) To the extent assistance is available under section 1490a(a)(2) of this title, not more than 5 per centum of the dwelling units which become available for occupancy under this section on or after November 30, 1983, shall be available for leasing by low income persons and families other than very low-income persons and families.
 
 (3) Units in projects financed under this section which become available for occupancy after November 30, 1983, shall not be available for occupancy by persons and families other than very low-income persons and families if the authority to provide assistance for such persons is available.
 
@@ -226,7 +226,7 @@ The Secretary shall—
 
 &emsp;(2) require each State to establish a process for coordinating the selection of projects under this section with the housing needs and priorities as established in a State comprehensive housing affordability strategy under section 12705 of this title and a low-income housing tax credit allocation plan under section 42 of title 26; and
 
-&emsp;(3) develop, in consultation with housing credit agencies (as that term is defined under section 42 of title 26), uniform procedures for identifying and sharing information on project costs, builder profit, identity of interests relationships, and other factors, as appropriate, with the relevant housing credit agency for projects that are allocated a low-income housing tax credit pursuant to section 42(h) of title26 for the purpose of achieving compliance with section 3545(d) of this title.
+&emsp;(3) develop, in consultation with housing credit agencies (as that term is defined under section 42 of title 26), uniform procedures for identifying and sharing information on project costs, builder profit, identity of interests relationships, and other factors, as appropriate, with the relevant housing credit agency for projects that are allocated a low-income housing tax credit pursuant to section 42(h) of title 26 for the purpose of achieving compliance with section 3545(d) of this title.
 
 #### (y) Service coordinators
 
@@ -252,7 +252,7 @@ The Secretary shall—
 
 #### (3) Application and selection
 
-&emsp;The Secretary shall provide for the form and manner of applications for grants under this subsection and for the selection of applicants to receive the grants.
+&emsp;The Secretary shall provide for the form and manner of applications for grants under thissubsection and for the selection of applicants to receive the grants.
 
 #### (4) “Frail elderly” defined
 
@@ -266,7 +266,7 @@ Whoever, as an owner, agent, or manager, or who is otherwise in custody, control
 
 #### References in Text
 
-Section 1928 of title 7, referred to in subsec. (b)(3), was amended generally by Pub. L. 104–127, title VI, §605, Apr. 4, 1996, 110 Stat. 1086, and, as so amended, consists of subsecs. (a) and (b) which are substantially similarto provisions formerly contained in the third sentence of such section.
+Section 1928 of title 7, referred to in subsec. (b)(3), was amended generally by Pub. L. 104–127, title VI, §605, Apr. 4, 1996, 110 Stat. 1086, and, as so amended, consists of subsecs. (a) and (b) which are substantially similar to provisions formerly contained in the third sentence of such section.
 
 Section 1929(f)(1) of title 7, referred to in subsec. (b)(3), was repealed and section 1929(f)(2) was redesignated section 1929(f)(1) by Pub. L. 104–127, title VII, §744, Apr. 4, 1996, 110 Stat. 1125.
 
@@ -338,7 +338,7 @@ Subsec. (<i>l</i>)(1). Pub. L. 102–550, §707(b)(1), added par. (1) and struck
 
 Subsec. (p)(4). Pub. L. 102–550, §707(b)(2)(1), substituted period at end for “, except when the Secretary determines that the continued vacancy of units that have been unoccupied for at least 6 months threatens the financial viability of the project. The preceding sentence shall not be interpreted as authorizing the Secretary to—
 
-&emsp;“(A) limit the ability of a housing credit agency to require an owner of housing, in order to receive alow-income housing tax credit, to enter into a restrictive covenant, in such form and for such period as the housing credit agency deems appropriate, to maintain the occupancy characteristics of the project as prescribed in section 42(h)(6) of title 26; or
+&emsp;“(A) limit the ability of a housing credit agency to require an owner of housing, in order to receive a low-income housing tax credit, to enter into a restrictive covenant, in such form and for such period as the housing credit agency deems appropriate, to maintain the occupancy characteristics of the project as prescribed in section 42(h)(6) of title 26; or
 
 &emsp;“(B) deny or delay closing of financing under this section by reason of the existence, or occupancy terms, of any such restrictive covenant.”
 
@@ -488,7 +488,7 @@ Subsec. (c). Pub. L. 95–128, §508(a), provided that specifically designed equ
 
 Subsec. (d)(1). Pub. L. 95–128, §508(b), defined “housing” to also mean congregate housing facilities for elderly or handicapped persons or families who require some supervision and central services but are otherwise able to care for themselves and authorized such housing for the handicapped to be utilized in conjunction with educational and training facilities.
 
-Subsec. (d)(3). Pub. L. 95–128, §508(c), substituted definition of “congregate housing” for prior definition of “elderly persons” as persons 62 years of age or over and “elderly families” as families the head of which (or his spouse) is 62 years of age or over.
+Subsec. (d)(3). Pub. L. 95–128, §508(c), substituted definition of “congregate housing” for prior definition of “elderly persons” as persons 62 years of age or over and“elderly families” as families the head of which (or his spouse) is 62 years of age or over.
 
 1974—Subsec. (b)(1). Pub. L. 93–383, §510(a), struck out “$750,000 or” after “exceed” and substituted “less” for “least”.
 
@@ -536,7 +536,7 @@ Section 707(f)(2) of Pub. L. 102–550 provided that: “The Secretary of Agricu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1472, 1479, 1480, 1483, 1486, 1487, 1490a, 1490f, 1490j, 1490<i>l</i>, 1490p–1, 1490p–2, 1490r, 4851b, 8011, 13664 of this title; title 26 section 42; title 40 App. section 207.
+This section is referred to in sections 1472, 1479, 1480, 1483, 1486, 1487, 1490a, 1490f, 1490j, 1490<i>l</i>, 1490p–1, 1490p–2, 1490r, 4851b, 8011, 13664 of this title; title 12 section 1701q–2; title 26 section 42; title 40 App. section 207.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

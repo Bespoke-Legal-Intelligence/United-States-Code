@@ -30,7 +30,7 @@
 
 #### (2) Expansion to maximum capacity
 
-&emsp;After the date described in paragraph (1), a telecommunications carrier shall, subject to subsection (e) of this section, ensure that it can accommodate expeditiously any increase in the actual number of communication interceptions, pen registers, and trap and trace devices that authorized agencies may seek to conduct and use, up to the maximum capacity requirement set forth in the notice under subsection (a)(1)(B) of this section.
+&emsp;After the date described in paragraph (1), a telecommunications carrier shall, subject tosubsection (e) of this section, ensure that it can accommodate expeditiously any increase in the actual number of communication interceptions, pen registers, and trap and trace devices that authorized agencies may seek to conduct and use, up to the maximum capacity requirement set forth in the notice under subsection (a)(1)(B) of this section.
 
 #### (c) Notices of increased maximum capacity requirements
 

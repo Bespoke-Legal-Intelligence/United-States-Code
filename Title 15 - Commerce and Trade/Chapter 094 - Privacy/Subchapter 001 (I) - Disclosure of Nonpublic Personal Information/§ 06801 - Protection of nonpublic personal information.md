@@ -1,0 +1,30 @@
+### §6801. Protection of nonpublic personal information
+
+#### (a) Privacy obligation policy
+
+It is the policy of the Congress that each financial institution has an affirmative and continuing obligation to respect the privacy of its customers and to protect the security and confidentiality of those customers’ nonpublic personal information.
+
+#### (b) Financial institutions safeguards
+
+In furtherance of the policy in subsection (a) of this section, each agency or authority described in section 6805(a) of this title shall establish appropriate standards for the financial institutions subject to their jurisdiction relating to administrative, technical, and physical safeguards—
+
+&emsp;(1) to insure the security and confidentiality of customer records and information;
+
+&emsp;(2) to protect against any anticipated threats or hazards to the security or integrity of such records; and
+
+&emsp;(3) to protect against unauthorized access to or use of such records or information which could result in substantial harm or inconvenience to any customer.
+
+(Pub. L. 106–102, title V, §501, Nov. 12, 1999, 113 Stat. 1436.)
+
+#### Effective Date
+
+Pub. L. 106–102, title V, §510, Nov. 12, 1999, 113 Stat. 1445, provided that: “This subtitle \[subtitle A (§§501–510) of title V of Pub. L. 106–102, enacting this subchapter and amending section 1681s of this title\] shall take effect 6 months after the date on which rules are required to be prescribed under section 504(a)(3) \[15 U.S.C. 6804(a)(3)\], except—
+
+&emsp;“(1) to the extent that a later date is specified in the rules prescribed under section 504; and
+
+&emsp;“(2) that sections 504 \[15 U.S.C. 6804\] and 506 \[enacting section 6806 of this title and amending section 1681s of this title\] shall be effective upon enactment \[Nov. 12, 1999\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6803, 6805 of this title.
+

@@ -2178,13 +2178,21 @@ Amendment by section 102(1)–(8) of Pub. L. 99–308 effective 180 days after M
 
 Amendment by Pub. L. 90–618 effective Dec. 16, 1968, except subsec. (<i>l</i>) effective Oct. 22, 1968, see section 105 of Pub. L. 90–618, set out as a note under section 921 of this title.
 
+#### Criminal Background Checks for Persons Offering Firearm as Collateral
+
+Pub. L. 106–58, title VI, §634, Sept. 29, 1999, 113 Stat. 473, provided that: “None of the funds made available in this or any other Act with respect to any fiscal year may be used for any system to implement section 922(t) of title 18, United States Code, unless the system allows, in connection with a person's delivery of a firearm to a Federal firearms licensee as collateral for a loan, the background check to be performed at the time the collateral is offered for delivery to such licensee: <i>Provided</i>, That the licensee notifies local law enforcement within 48 hours of the licensee receiving a denial on the person offering the collateral: <i>Provided further</i>, That the provisions of section 922(t) shall apply at the time of the redemption of the firearm.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 105–277, div. A, §101(h) \[title VI, §655\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–530.
+
 #### Availability of Violent Crime Reduction Trust Fund To Fund Activities Authorized by Brady Handgun Violence Prevention Act and National Child Protection Act of 1993
 
 Section 210603(a) of Pub. L. 103–322 provided that: “Of the amounts authorized in Sections 103(k) and 106(b)(2) of the Brady Handgun Violence Prevention Act (18 U.S.C. 922 note) and in section 4(b) of the National Child Protection Act of 1993 (42 U.S.C. 5119b(b)), a total of $100,000,000 for fiscal year 1995, $25,000,000 for fiscal year 1996, and $25,000,000 for fiscal year 1997 may be appropriated from the Violent Crime Reduction Trust Fund established by this Act \[see 42 U.S.C. 14211\].”
 
 #### National Instant Criminal Background Check System
 
-Section 103 of Pub. L. 103–159, as amended by Pub. L. 103–322, title XXI, §210603(b), Sept. 13, 1994, 103 Stat.2074; Pub. L. 104–294, title VI, §603(h), (i)(1), Oct. 11, 1996, 110 Stat. 3504, provided that:
+Section 103 of Pub. L. 103–159, as amended by Pub. L. 103–322, title XXI, §210603(b), Sept. 13, 1994, 103 Stat. 2074; Pub. L. 104–294, title VI, §603(h), (i)(1), Oct. 11, 1996, 110 Stat. 3504, provided that:
 
 “(a)
 
@@ -2268,7 +2276,7 @@ Section 106(b) of Pub. L. 103–159, as amended by Pub. L. 103–322, title XXI,
 
 “(1)
 
-Grants for the improvement of criminal records.—The Attorney General, through the Bureau of Justice Statistics, shall, subject to appropriations and with preference to States that as of the date of enactment of this Act \[Nov. 30, 1993\] have the lowest percent currency of case dispositions in computerized criminal history files, make a grant to each State to be used—
+Grants for the improvement of criminal records.—The Attorney General, through the Bureau of Justice Statistics, shall, subject to appropriationsand with preference to States that as of the date of enactment of this Act \[Nov. 30, 1993\] have the lowest percent currency of case dispositions in computerized criminal history files, make a grant to each State to be used—
 
 &emsp;“(A) for the creation of a computerized criminal history record system or improvement of an existing system;
 
@@ -2282,7 +2290,7 @@ Authorization of appropriations.—There are authorized to be appropriated for g
 
 #### Gun-Free Zone Signs
 
-Section 1702(b)(5) of Pub. L. 101–647 provided that: “Federal, State, and local authorities are encouragedto cause signs to be posted around school zones giving warning of prohibition of the possession of firearms in a school zone.”
+Section 1702(b)(5) of Pub. L. 101–647 provided that: “Federal, State, and local authorities are encouraged to cause signs to be posted around school zones giving warning of prohibition of the possession of firearms in a school zone.”
 
 #### Identification of Felons and Other Persons Ineligible To Purchase Handguns
 
@@ -2310,7 +2318,7 @@ Section 2(e) of Pub. L. 100–649 provided that: “The Attorney General, the Se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 923, 924, 925, 925A, 926, 2516, 5031, 5032 of this title; title 8 section 1101; title 26 section 4182; title 36 sections 40723, 40732; title 42 section 5633.
+This section is referred to in sections 923, 924, 925, 925A, 926, 2516, 5031, 5032 of this title; title 8 section 1101; title 26 section 4182; title 36 sections 40723, 40732, 40733; title 42 section 5633.
 
 <i><sup>1</sup></i><i> So in original. The word “who” probably should not appear.</i>
 

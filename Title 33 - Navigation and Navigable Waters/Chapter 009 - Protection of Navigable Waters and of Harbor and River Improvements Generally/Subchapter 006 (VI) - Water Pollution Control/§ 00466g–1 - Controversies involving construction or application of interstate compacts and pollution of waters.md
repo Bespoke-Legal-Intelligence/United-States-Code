@@ -18,7 +18,7 @@ The district courts shall have original jurisdiction of a case or controversy su
 
 #### (c) Suits between States signatory to interstate compact
 
-The original jurisdiction conferred upon the district courts by this section shall include, but not be limited to, suits between States signatory to such interstate compact: <i>Provided</i>, That nothing in this section shall be construed as authorizing a State to sue another State which is not a signatory to such compact in said courts.
+The original jurisdiction conferred upon the district courts by this section shall include, but not be limited to, suits between States signatory to such interstate compact: <i>Provided</i>, Thatnothing in this section shall be construed as authorizing a State to sue another State which is not a signatory to such compact in said courts.
 
 #### (d) Venue
 

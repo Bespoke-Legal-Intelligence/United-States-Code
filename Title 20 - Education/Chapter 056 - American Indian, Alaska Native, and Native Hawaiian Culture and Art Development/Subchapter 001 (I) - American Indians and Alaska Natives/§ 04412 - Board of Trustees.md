@@ -30,7 +30,7 @@
 
 (3) The President shall carry out the activities described in subparagraphs (B) and (C) of paragraph (2) through the Board. The Board may make recommendations based upon the nominations received, may make recommendations of its own, and may review and make comments to the President or the President's appointed staff on individuals being considered by the President for whom no nominations have been received.
 
-(4) Members of Congress appointed under this section, or their designees, shall be entitled to attend all meetings of the Board and to provideadvice to the Board on any matter relating to the Institute.
+(4) Members of Congress appointed under this section, or their designees, shall be entitled to attend all meetings of the Board and to provide advice to the Board on any matter relating to the Institute.
 
 #### (b) Terms of office
 

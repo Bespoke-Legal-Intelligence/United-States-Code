@@ -24,7 +24,7 @@ In this subchapter:
 
 #### (3) Educational service agency
 
-&emsp;The term “educational service agency” means a regional public multiservice agency authorized by State statute to develop and manage a service or program, and to provide the service or program to a local educational agency.
+&emsp;The term “educational service agency” means a regional public multiservice agencyauthorized by State statute to develop and manage a service or program, and to provide the service or program to a local educational agency.
 
 #### (4) Eligible agency
 
@@ -142,5 +142,5 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6813, 7881, 9241, 9273 of this title.
+This section is referred to in sections 6813, 7881, 9241, 9273 of this title; title 29 section 2801.
 

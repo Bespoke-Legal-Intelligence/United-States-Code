@@ -18,5 +18,5 @@ Notwithstanding any other provision of existing law, the trust funds credited to
 
 #### Per Capita Payments After May 19, 1959
 
-Section 2 of act July 25, 1956, directed Secretary of the Interior to report to Congress before Jan. 1, 1958, in order to determine the conditions under which per capita payments could be authorized after May 19, 1959, (1)recommendations regarding any new authority, if any, needed to protect adequately the interests of minors and incompetent Indians, (2) results of a survey and reclassification of the lands that should be removed from the irrigation project, and (3) adequacy of tribal contribution to cost of administering the reservation.
+Section 2 of act July 25, 1956, directed Secretary of the Interior to report to Congress before Jan. 1, 1958, in order to determine the conditions under which per capita payments could be authorized after May 19, 1959, (1) recommendations regarding any new authority, if any, needed to protect adequately the interests of minors and incompetent Indians, (2) results of a survey and reclassification of the lands that should be removed from the irrigation project, and (3) adequacy of tribal contribution to cost of administering the reservation.
 

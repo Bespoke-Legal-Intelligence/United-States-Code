@@ -52,13 +52,19 @@ Oct. 11, 1996, Pub. L. 104–285, title II, §203(g)(1)(A), (2)(A) (1st, 2d sent
 
 36:5702(g)(1)(A).
 
+&nbsp;
+
 151704(c)
 
 36:5702(g)(2)(A) (1st sentence).
 
+&nbsp;
+
 151704(d)
 
 36:5702(g)(2)(A) (2d sentence, last sentence related to employees).
+
+&nbsp;
 
 In subsection (a)(1), the words “The first employee appointed shall be the Secretary of the Board” in 36:5702(g)(2)(B) are omitted as unnecessary. The words “executive director of the corporation” are substituted for “its executive director” in 36:5702(g)(2)(C)(i) for clarity.
 

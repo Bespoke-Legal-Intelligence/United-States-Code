@@ -34,13 +34,13 @@ Applicability.—(1) An agreement entered into with a shipbuilder under subsecti
 
 &emsp;(B) A contract that is awarded during the term of the agreement.
 
-(2) In a shipbuilding capability preservation agreement applicable to a shipbuilder, the Secretary may agree to apply the cost reimbursement rules set forth in subsection (b) to allocations of indirect costs to private sector work performed by the shipbuilder only with respect to costs that the shipbuilder incurred on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998 under a contract between the shipbuilder and a private sector customer of the shipbuilder that became effective on or after January 26, 1996.
+(2) In a shipbuilding capability preservation agreement applicable to a shipbuilder, the Secretary may agree to apply the cost reimbursement rules set forth in subsection (b) to allocations of indirect costs to private sector work performed by the shipbuilder only with respect to costs that the shipbuilder incurred on or after November 18, 1997, under a contract between the shipbuilder and a private sector customer of the shipbuilder that became effective on or after January 26, 1996.
 
-(Added Pub. L. 105–85, div. A, title X, §1027(a)(1), Nov. 18, 1997, 111 Stat. 1878.)
+(Added Pub. L. 105–85, div. A, title X, §1027(a)(1), Nov. 18, 1997, 111 Stat. 1878; amended Pub. L. 106–65, div. A, title X, §1066(a)(29), Oct. 5, 1999, 113 Stat. 772.)
 
-#### References in Text
+#### Amendments
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
+1999—Subsec. (d)(2). Pub. L. 106–65 substituted “November 18, 1997,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998”.
 
 #### Procedures for Applications and for Consideration of Agreements
 

@@ -56,7 +56,7 @@ The Administrator shall establish in the Environmental Protection Agency an iden
 
 #### (f) Statement of basis and purpose
 
-Any final order issued under this chapter shall be accompanied by a statement of its basis and purpose. The contents and adequacy of any such statement shall not be subject to judicial review in any respect.
+Any final order issued under this chapter shall be accompanied by a statement of its basis and purpose. The contents and adequacy of any suchstatement shall not be subject to judicial review in any respect.
 
 #### (g) Assistant Administrator
 

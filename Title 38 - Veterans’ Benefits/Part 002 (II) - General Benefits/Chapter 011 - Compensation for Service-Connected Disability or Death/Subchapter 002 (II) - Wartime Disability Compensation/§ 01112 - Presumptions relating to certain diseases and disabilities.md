@@ -82,21 +82,25 @@
 
 &emsp;(O) Cancer of the urinary tract.
 
+&emsp;(P) Bronchiolo-alveolar carcinoma.
+
 (3) For the purposes of this subsection:
 
 &emsp;(A) The term “radiation-exposed veteran” means (i) a veteran who, while serving on active duty, participated in a radiation-risk activity, or (ii) an individual who, while a member of a reserve component of the Armed Forces, participated in a radiation-risk activity during a period of active duty for training or inactive duty training.
 
 &emsp;(B) The term “radiation-risk activity” means any of the following:
 
-&emsp;&emsp;(i) Onsite participation in a test involving the atmospheric detonation of a nuclear device (without regard to whether the nationconducting the test was the United States or another nation).
+&emsp;&emsp;(i) Onsite participation in a test involving the atmospheric detonation of a nuclear device (without regard to whether the nation conducting the test was the United States or another nation).
 
 &emsp;&emsp;(ii) The occupation of Hiroshima or Nagasaki, Japan, by United States forces during the period beginning on August 6, 1945, and ending on July 1, 1946.
 
 &emsp;&emsp;(iii) Internment as prisoner of war in Japan (or service on active duty in Japan immediately following such internment) during World War II which (as determined by the Secretary) resulted in an opportunity for exposure to ionizing radiation comparable to that of veterans described in clause (ii) of this subparagraph.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, §312; Pub. L. 86–187, Aug. 25, 1959, 73 Stat. 418; Pub. L. 86–188, Aug. 25, 1959, 73 Stat. 418; Pub. L. 87–645, §3, Sept. 7, 1962, 76 Stat. 442; Pub. L. 91–376, §3(a), (b), Aug. 12, 1970, 84 Stat. 788, 789; Pub. L. 97–37, §4(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 98–223, title I, §§101(c), 111, Mar. 2, 1984, 98 Stat. 38, 40; Pub. L. 99–576, title I, §108(a), Oct. 28, 1986, 100 Stat. 3252; Pub. L. 100–321, §2(a), May 20, 1988, 102 Stat. 485; Pub. L. 100–322, title III, §312, May 20, 1988, 102 Stat. 534; renumbered §1112 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title I, §§104(a), 105, Aug. 14, 1991, 105 Stat. 415; Pub. L. 102–578, §2(a), Oct. 30, 1992, 106 Stat. 4774; Pub. L. 103–446, title V, §501(a), Nov. 2, 1994, 108 Stat. 4663.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, §312; Pub. L. 86–187, Aug. 25, 1959, 73 Stat. 418; Pub. L. 86–188, Aug. 25, 1959, 73 Stat. 418; Pub. L. 87–645, §3, Sept. 7, 1962, 76 Stat. 442; Pub. L. 91–376, §3(a), (b), Aug. 12, 1970, 84 Stat. 788, 789; Pub. L. 97–37, §4(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 98–223, title I, §§101(c), 111, Mar. 2, 1984, 98 Stat. 38, 40; Pub. L. 99–576, title I, §108(a), Oct. 28, 1986, 100 Stat. 3252; Pub. L. 100–321, §2(a), May 20, 1988, 102 Stat. 485; Pub. L. 100–322, title III, §312, May 20, 1988, 102 Stat. 534; renumbered §1112 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title I, §§104(a), 105, Aug. 14, 1991, 105 Stat. 415; Pub. L. 102–578, §2(a), Oct. 30, 1992, 106 Stat. 4774; Pub. L. 103–446, title V, §501(a), Nov. 2, 1994, 108 Stat. 4663; Pub. L. 106–117, title V, §503, Nov. 30, 1999, 113 Stat. 1575.)
 
 #### Amendments
+
+1999—Subsec. (c)(2)(P). Pub. L. 106–117 added subpar. (P).
 
 1994—Subsec. (c)(3)(B)(i). Pub. L. 103–446 inserted before period at end “(without regard to whether the nation conducting the test was the United States or another nation)”.
 
@@ -174,7 +178,7 @@ Section 4(b) of Pub. L. 97–37 provided that: “The amendments made by subsect
 
 #### Effective Date of 1962 Amendment
 
-Section 4 of Pub. L. 87–645 provided that: “This Act \[amending this section and sections 314 and 3203 \[now 1114 and 5503\] of this title and enacting provisions set out as a note under section 1114 of this title\] shall take effect on the first day of the first calendar month which begins after the date of enactment of this Act \[Sept. 7, 1962\] but no payments shall be made by reason of this Act for any period before such effective date.The increased rate of compensation payable to any veteran entitled thereto on such first day shall be further increased, for such month only, in an amount equal to three times the monthly increase provided for such veteran by the amendments made by this Act.”
+Section 4 of Pub. L. 87–645 provided that: “This Act \[amending this section and sections 314 and 3203 \[now 1114 and 5503\] of this title and enacting provisions set out as a note under section 1114 of this title\] shall take effect on the first day of the first calendar month which begins after the date of enactment of this Act \[Sept. 7, 1962\] but no payments shall be made by reason of this Act for any period before such effective date. The increased rate of compensation payable to any veteran entitled thereto on such first day shall be further increased, for such month only, in an amount equal to three times the monthly increase provided for such veteran by the amendments made by this Act.”
 
 #### Section Referred to in Other Sections
 

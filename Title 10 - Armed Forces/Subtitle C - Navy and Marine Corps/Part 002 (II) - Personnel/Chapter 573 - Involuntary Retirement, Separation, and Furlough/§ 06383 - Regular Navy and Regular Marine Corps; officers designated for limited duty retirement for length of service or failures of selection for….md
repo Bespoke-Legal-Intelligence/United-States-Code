@@ -42,7 +42,7 @@ Who Twice Fail of Selection for Promotion or Are Found Not Qualified for Promoti
 
 (f) 18-
 
-Year Retirement Sanctuary.—If an officer subject to discharge under subsection (b), (d), or (e) is (as of the date on which the officer is to be discharged) not eligible for retirement under any provision of law but is within two years of qualifying for retirement under section 6323 of this title, the officer shall be retained on active duty as an officer designated for limited duty until becoming qualified for retirement under that section and shall then be retired under that section, unless the officer is sooner retired or discharged under another provision of law or the officer reverts to a warrant officer grade pursuant to subsection (h).
+Year Retirement Sanctuary.—If an officer subject to discharge under subsection (b), (d), or (e) is (as of the date on which the officer is to be discharged) not eligible for retirementunder any provision of law but is within two years of qualifying for retirement under section 6323 of this title, the officer shall be retained on active duty as an officer designated for limited duty until becoming qualified for retirement under that section and shall then be retired under that section, unless the officer is sooner retired or discharged under another provision of law or the officer reverts to a warrant officer grade pursuant to subsection (h).
 
 (g)
 
@@ -168,7 +168,7 @@ In subsection (a) the words “if not otherwise retired pursuant to law” are o
 
 In subsection (c) the pay provisions are worded so as to conform to the terminology of the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.).
 
-The second proviso in §312(g) of the Officer Personnel Act of 1947 (34 U.S.C. 410j(g)), relating to the retired pay of officers commissioned in the Regular Navy under the Act of April 18, 1946, ch. 141, as amended (34 U.S.C. 15), and officers commissioned in the Regular Navy while serving on active duty as officers of the Naval Reserve, is not codified in this section because it is inapplicable to officers designated for limited duty. The only authority to appoint limited duty officers is §404(a) of the Officer Personnel Act of 1947 (34 U.S.C. 211c(a)). Naval Reserve officers are not eligible for such appointments. Hence there can be no limited duty officers in the categories mentioned in the proviso.
+The second proviso in §312(g) of the Officer Personnel Act of 1947 (34 U.S.C. 410j(g)), relating to the retired pay of officers commissioned in the Regular Navy under the Act of April 18, 1946, ch. 141, as amended (34 U.S.C. 15), and officers commissioned in the Regular Navy while serving on active duty as officers of the Naval Reserve, is not codified in this section because it is inapplicable to officers designated for limited duty. The only authority to appoint limited duty officers is §404(a) of the Officer Personnel Act of 1947 (34 U.S.C. 211c(a)). NavalReserve officers are not eligible for such appointments. Hence there can be no limited duty officers in the categories mentioned in the proviso.
 
 In subsection (f) the words “to which he would otherwise become entitled” are omitted as surplusage and the words “based on the service for which he has received payment” are substituted for the words “attributable to the active service in respect of which lump-sum payment shall have been made to him”.
 
@@ -262,7 +262,7 @@ Amendment by section 336 of Pub. L. 96–513 effective Sept. 15, 1981, but the a
 
 #### Effective Date of 1963 Amendment
 
-Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note undersection 201 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note under section 201 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1958 Amendment
 

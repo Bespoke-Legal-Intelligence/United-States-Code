@@ -68,7 +68,7 @@ Percentages for Computation of State and Other Tax Allowance
 
 #### (3) Allowance for social security taxes
 
-&emsp;The allowance for social security taxes is equal to the amount estimated to be earned by the student (and spouse, if appropriate) multiplied by the social security withholding rateappropriate to the tax year preceding the award year, up to the maximum statutory social security tax withholding amount for that same tax year.
+&emsp;The allowance for social security taxes is equal to the amount estimated to be earned by the student (and spouse, if appropriate) multiplied by the social security withholding rate appropriate to the tax year preceding the award year, up to the maximum statutory social security tax withholding amount for that same tax year.
 
 #### (4) Income protection allowance
 

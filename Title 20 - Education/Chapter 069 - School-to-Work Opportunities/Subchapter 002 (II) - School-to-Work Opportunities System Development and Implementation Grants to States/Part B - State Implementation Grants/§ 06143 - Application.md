@@ -8,7 +8,7 @@
 
 #### (2) Review and comment by certain individuals and entities
 
-&emsp;If, after a reasonable effort, the Governor is unable in accordance with subsection (d)(4) of this section to obtain the support of the individuals and entities described in subparagraphs (A) through (J) of subsection (b)(4) ofthis section for the State plan described in subsection (d) of this section, then the Governor shall—
+&emsp;If, after a reasonable effort, the Governor is unable in accordance with subsection (d)(4) of this section to obtain the support of the individuals and entities described in subparagraphs (A) through (J) of subsection (b)(4) of this section for the State plan described in subsection (d) of this section, then the Governor shall—
 
 &emsp;&emsp;(A) provide such individuals and entities with copies of such application;
 
@@ -142,7 +142,7 @@ A State plan referred to in subsection (b)(1) of this section shall—
 
 #### References in Text
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsecs. (b)(4)(I) and (d)(6)(B), was Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of this title, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L.105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsecs. (b)(4)(I) and (d)(6)(B), was Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of this title, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 The Job Training Partnership Act, referred to in subsecs. (b)(4)(J) and (d)(6)(I), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Title VII of the Act was classified to subchapter VI (§1792 et seq.) of chapter 19 of Title 29. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of this title and Tables.
 

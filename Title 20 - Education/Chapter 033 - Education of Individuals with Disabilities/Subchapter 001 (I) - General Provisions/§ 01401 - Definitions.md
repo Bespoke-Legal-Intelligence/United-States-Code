@@ -116,7 +116,7 @@ Except as otherwise provided, as used in this chapter:
 
 &emsp;&emsp;(A) has the meaning given that term in section 1141(a) <sup>1</sup> of this title; and
 
-&emsp;&emsp;(B) also includes any community college receiving funding from the Secretary of theInterior under the Tribally Controlled College or University Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\].
+&emsp;&emsp;(B) also includes any community college receiving funding from the Secretary of the Interior under the Tribally Controlled College or University Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\].
 
 #### (15) Local educational agency
 
@@ -140,7 +140,7 @@ Except as otherwise provided, as used in this chapter:
 
 #### (18) Outlying area
 
-&emsp;The term “outlying area” means the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term “outlying area” means the United States Virgin Islands, Guam, AmericanSamoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (19) Parent
 
@@ -240,7 +240,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1003, 1087ee, 1087ii, 1412, 1414, 1418, 5802, 6063, 6103, 6661b, 6661d, 8065c, 8801, 8923 of this title; title 10 section 2164; title 42 sections 290ff–2, 1396n, 9835, 12511.
+This section is referred to in sections 1003, 1087ee, 1087ii, 1412, 1414, 1418, 5802, 6063, 6103, 6661b, 6661d, 8065c, 8801, 8923 of this title; title 10 section 2164; title 42 sections 290ff–2, 1396n, 9832, 12511.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

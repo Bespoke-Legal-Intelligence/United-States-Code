@@ -10,7 +10,7 @@
 
 &emsp;(B) not assign such officers or employees any duties or responsibilities that are inconsistent with the duties and responsibilities of the advocates for competition; and
 
-&emsp;(C) provide such officers or employees with such staff or assistance as may be necessary to carry out the duties and responsibilities of the advocate for competition, such as persons who are specialists in engineering, technical operations, contract administration, financial management, supply management, and utilization of small and disadvantaged business concerns.
+&emsp;(C) provide such officers or employees with such staff or assistance as may be necessary to carry out the duties and responsibilities of the advocate for competition, such as persons who are specialists in engineering, technical operations, contract administration, financialmanagement, supply management, and utilization of small and disadvantaged business concerns.
 
 #### (b) Duties and functions
 
@@ -56,7 +56,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date
 
-Section applicable to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub.L. 98–369, set out as an Effective Date of 1984 Amendment note under section 251 of this title.
+Section applicable to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 251 of this title.
 
 #### Section Referred to in Other Sections
 

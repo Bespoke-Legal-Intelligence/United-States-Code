@@ -32,41 +32,59 @@ Report on Environmental Restoration Activities.—(1) The Secretary of Defense s
 
 (b)
 
-Report on Environmental Compliance Activities.—(1) The Secretary of Defense shallsubmit to the Congress each year, not later than 45 days after the date on which the President submits to the Congress the budget for a fiscal year, a report on the progress made by the Secretary in carrying out environmental compliance activities at military installations.
+Report on Environmental Quality Programs and Other Environmental Activities.—(1) The Secretary of Defense shall submit to Congress each year, not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year, a report on the progress made in carrying out activities under the environmental quality programs of the Department of Defense and the military departments.
 
-(2) Each such report shall include the following:
+(2) Each report shall include the following:
 
-&emsp;(A) A statement of the funding levels and full-time personnel required for the Department of Defense to comply with applicable environmental laws during the fiscal year for which the budget is submitted, setting forth separately the funding levels and personnel required for the Department of Defense as a whole and for each military installation.
+&emsp;(A) A description of the environmental quality program of the Department of Defense, and of each of the military departments, during the period consisting of the four fiscal years preceding the fiscal year in which the report is submitted, the fiscal year in which the report is submitted, and the fiscal year following the fiscal year in which the report is submitted.
 
-&emsp;(B) A statement of the funding levels and full-time personnel requested for such purposes in the budget submitted by the President at the same time as the report, including—
+&emsp;(B) For each of the major activities under the environmental quality programs:
 
-&emsp;&emsp;(i) an explanation of any differences between the funding level and personnel requirements and the funding level and personnel requests in the budget; and
+&emsp;&emsp;(i) A specification of the amount expended, or proposed to be expended, in each fiscal year of the period covered by the report.
 
-&emsp;&emsp;(ii) a statement setting forth separately the funding levels and full-time personnel requested for the Department of Defense as a whole and for each military installation.
+&emsp;&emsp;(ii) An explanation for any significant change in the aggregate amount to be expended in the fiscal year in which the report is submitted, and in the following fiscal year, when compared with the fiscal year preceding each such fiscal year.
 
-&emsp;(C) A projection of the funding levels and the number of full-time personnel that will be required over the five fiscal years following the fiscal year in which the report is submitted for the Department of Defense to comply with applicable environmental laws, setting forth separately such projections for the Department of Defense as a whole and for each military installation.
+&emsp;&emsp;(iii) An assessment of the manner in which the scope of the activities have changed over the course of the period covered by the report.
 
-&emsp;(D) An analysis of the effect that compliance with such environmental laws may have on the operations and mission capabilities of the Department of Defense as a whole and of each military installation.
+&emsp;(C) A summary of the major achievements of the environmental quality programs and of any major problems with the programs.
 
-&emsp;(E) A statement of the funding levels requested in the budget submitted by the President at the same time as the report for carrying out research, development, testing, and evaluation for environmental purposes or environmental activities of the Department of Defense. The statement shall set forth separately the funding levels requested for the Department of Defense as a whole and for each military department and Defense Agency.
+&emsp;(D) A list of the planned or ongoing projects necessary to support the environmental quality programs during the period covered by the report, the cost of which has exceeded or is anticipated to exceed $1,500,000. The list and accompanying material shall include the following:
 
-&emsp;(F) A description of the number and duties of all current full-time civilian and military personnel who carry out environmental activities (including research) for the Department of Defense, including a description of the organizational structure of such personnel from the Secretary of Defense down to the military installation level.
+&emsp;&emsp;(i) A separate listing of the projects inside the United States and of the projects outside the United States.
 
-&emsp;(G) A statement of the funding levels and personnel required for the Department of Defense to comply with applicable environmental requirements for military installations located outside the United States during the fiscal year for which the budget is submitted.
+&emsp;&emsp;(ii) For each project commenced during the first four fiscal years of the period covered by the report (other than a project that was reported as fully executed in the report for a previous fiscal year), a description of—
 
-&emsp;(H) A statement of the fines and penalties imposed or assessed against the Department of Defense under Federal, State, or local environmental law during the fiscal year preceding the fiscal year in which the report is submitted, setting forth each Federal environmental statute under which a fine or penalty was imposed or assessed during the fiscal year, and, with respect to each such statute—
+&emsp;&emsp;&emsp;(I) the amount specified in the initial budget request for the project;
 
-&emsp;&emsp;(i) the aggregate amount of fines and penalties imposed or assessed during the fiscal year;
+&emsp;&emsp;&emsp;(II) the aggregate amount allocated to the project through the fiscal year preceding the fiscal year for which the report is submitted; and
 
-&emsp;&emsp;(ii) the aggregate amount of fines and penalties paid during the fiscal year;
+&emsp;&emsp;&emsp;(III) the aggregate amount obligated for the project through that fiscal year.
 
-&emsp;&emsp;(iii) the total amount required for environmental projects to be carried out by the Department of Defense in lieu of the payment of fines or penalties; and
+&emsp;&emsp;(iii) For each project commenced or to be commenced in the fiscal year in which the report is submitted, a description of—
 
-&emsp;&emsp;(iv) the number of fines and penalties imposed or assessed during the fiscal year that were—
+&emsp;&emsp;&emsp;(I) the amount specified for the project in the budget for the fiscal year; and
 
-&emsp;&emsp;&emsp;(I) $100,000 or less; and
+&emsp;&emsp;&emsp;(II) the amount allocated to the project in the fiscal year.
 
-&emsp;&emsp;&emsp;(II) more than $100,000.
+&emsp;&emsp;(iv) For each project to be commenced in the last fiscal year of the period, a description of the amount, if any, specified for the project in the budget for the fiscal year.
+
+&emsp;&emsp;(v) If the anticipated aggregate cost of any project covered by the report will exceed by more than 25 percent the amount specified in the initial budget request for such project, a justification for that variance.
+
+&emsp;(E) A statement of the fines and penalties imposed or assessed against the Department of Defense and the military departments under Federal, State, or local environmental laws during the fiscal year in which the report is submitted and the four preceding fiscal years, which shall set forth the following:
+
+&emsp;&emsp;(i) Each Federal environmental statute under which a fine or penalty was imposed or assessed during each such fiscal year.
+
+&emsp;&emsp;(ii) With respect to each such Federal statute—
+
+&emsp;&emsp;&emsp;(I) the aggregate amount of fines and penalties imposed under the statute during each such fiscal year;
+
+&emsp;&emsp;&emsp;(II) the aggregate amount of fines and penalties paid under the statute during each such fiscal year; and
+
+&emsp;&emsp;&emsp;(III) the total amount required during such fiscal years for supplemental environmental projects in lieu of the payment of a fine or penalty under the statute and the extent to which the cost of such projects during such fiscal years has exceeded the original amount of the fine or penalty.
+
+&emsp;&emsp;(iii) A trend analysis of fines and penalties imposed or assessed during each such fiscal year for military installations inside and outside the United States.
+
+&emsp;(F) A statement of the amounts expended, and anticipated to be expended, during the period covered by the report for any activities overseas relating to the environment, including amounts for activities relating to environmental remediation, compliance, conservation, pollution prevention, and environmental technology and amounts for conferences, meetings, and studies for pilot programs, and for travel related to such activities.
 
 (c)
 
@@ -80,15 +98,19 @@ Report on Contractor Reimbursement Costs.—(1) The Secretary of Defense shall s
 
 (d)
 
-Report on Environmental Activities Overseas.—(1) The Secretary of Defense shall submit to Congress each year, not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year, a report on the environmental activities of the Department of Defense overseas.
+Report on Environmental Technology Program.—(1) The Secretary of Defense shall submit to Congress each year, not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year, a report on the progress made by the Department of Defense in achieving the objectives and goals of its environmental technology program during the preceding fiscal year and an overall trend analysis for the program covering the previous four fiscal years.
 
-(2) Each such report shall include a statement of the funding levels during such fiscal year for each of the following categories:
+(2) Each such report shall include, with respect to each project under the environmental technology program of the Department of Defense, the following:
 
-&emsp;(A) Compliance by the Department of Defense with requirements under a treaty, law, contract, or other agreement for environmental restoration or compliance activities.
+&emsp;(A) The performance objectives established for the project for the fiscal year and an assessment of the performance achieved with respect to the project in light of performance indicators for the project.
 
-&emsp;(B) Performance by the Department of Defense of other environmental restoration and compliance activities overseas.
+&emsp;(B) A description of the extent to which the project met the performance objectives established for the project for the fiscal year.
 
-&emsp;(C) Performance by the Department of Defense of any other overseas activities related to the environment, including conferences, meetings, and studies for pilot programs, and travel related to such activities.
+&emsp;(C) If a project did not meet the performance objectives for the project for the fiscal year—
+
+&emsp;&emsp;(i) an explanation for the failure of the project to meet the performance objectives; and
+
+&emsp;&emsp;(ii) a modified schedule for meeting the performance objectives or, if a performance objective is determined to be impracticable or infeasible to meet, a statement of alternative actions to be taken with respect to the project.
 
 (e)
 
@@ -110,9 +132,27 @@ Definitions.—In this section:
 
 &emsp;(3) The term “response action contractor” has the meaning given such term in section 119(e)(2) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9619(e)(2)).
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 101–189, div. A, title III, §357(a)(1), (2)(A), Nov. 29, 1989, 103 Stat. 1426, 1427; Pub. L. 101–510, div. A, title III, §§341, 342(a), Nov. 5, 1990, 104 Stat. 1536, 1537; Pub. L. 103–160, div. A, title X, §1001(a)–(d), Nov. 30, 1993, 107 Stat. 1742–1744; Pub. L. 103–337, div. A, title X, §1070(b)(9), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 104–106, div. A, title III, §324(f), Feb. 10, 1996, 110 Stat. 254; Pub. L. 104–201, div. A, title III, §321, Sept. 23, 1996, 110 Stat. 2477; Pub. L. 105–85, div. A, title III, §§344(a), 345, Nov. 18, 1997, 111 Stat. 1688; Pub. L. 105–261, div. A, title III, §325, Oct. 17, 1998, 112 Stat. 1965.)
+&emsp;(4) The term “environmental quality program” means a program of activities relating to environmental compliance, conservation, pollution prevention, and such other activities relating to environmental quality as the Secretary concerned may designate for purposes of the program.
+
+&emsp;(5) The term “major activities”, with respect to an environmental quality program, means the following activities under the program:
+
+&emsp;&emsp;(A) Environmental compliance activities.
+
+&emsp;&emsp;(B) Conservation activities.
+
+&emsp;&emsp;(C) Pollution prevention activities.
+
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 101–189, div. A, title III, §357(a)(1), (2)(A), Nov. 29, 1989, 103 Stat. 1426, 1427; Pub. L. 101–510, div. A, title III, §§341, 342(a), Nov. 5, 1990, 104 Stat. 1536, 1537; Pub. L. 103–160, div. A, title X, §1001(a)–(d), Nov. 30, 1993, 107 Stat. 1742–1744; Pub. L. 103–337, div. A, title X, §1070(b)(9), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 104–106, div. A, title III, §324(f), Feb. 10, 1996, 110 Stat. 254; Pub. L. 104–201, div. A, title III, §321, Sept. 23, 1996, 110 Stat. 2477; Pub. L. 105–85, div. A, title III, §§344(a), 345, Nov. 18, 1997, 111 Stat. 1688; Pub. L. 105–261, div. A, title III, §325, Oct. 17, 1998, 112 Stat. 1965; Pub. L. 106–65, div. A, title III, §§322, 323(c)(1), Oct. 5, 1999, 113 Stat. 560, 563.)
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–65, §322(a), amended heading and text of subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2) relating to reports on environmental compliance activities.
+
+Subsec. (d). Pub. L. 106–65, §323(c)(1), added subsec. (d).
+
+Pub. L. 106–65, §322(b), struck out subsec. (d) which required the Secretary of Defense to submit annual reports to Congress on environmental activities of Department of Defense overseas.
+
+Subsec. (e)(4), (5). Pub. L. 106–65, §322(c), added pars. (4) and (5).
 
 1998—Subsecs. (a)(1), (b)(1), (c)(1), (d)(1). Pub. L. 105–261 substituted “not later than 45 days” for “not later than 30 days”.
 
@@ -169,6 +209,10 @@ Section 1070(b) of Pub. L. 103–337 provided that the amendment made by that se
 #### Effective Date of 1989 Amendment
 
 Section 357(b) of Pub. L. 101–189 provided that: “The first environmental budget report under subsection (b) of section 2706 of such title \[10 U.S.C. 2706(b)\] (as added by subsection (a)) shall be submitted at the same time the President submits the budget for fiscal year 1992.”
+
+#### First Report on Environmental Technology Program
+
+Pub. L. 106–65, div. A, title III, §323(c)(2), Oct. 5, 1999, 113 Stat. 563, provided that: “The Secretary of Defense shall include in the first report submitted under section 2706(d) of title 10, United States Code, as added by this subsection, a description of the steps taken by the Secretary to ensure that the environmental technology investment control process for the Department of Defense satisfies the requirements of section 2709 of such title, as added by subsection (b).”
 
 #### Report in Fiscal Year 1998
 

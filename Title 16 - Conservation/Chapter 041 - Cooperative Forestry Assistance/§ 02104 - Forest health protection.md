@@ -72,7 +72,7 @@ There are authorized to be appropriated annually such sums as may be necessary t
 
 #### (1) In general
 
-&emsp;Subject to the provisions of subsections (c) and (e) of this section, the Secretary shall, incooperation with State foresters or equivalent State officials, subdivisions of States, or other entities on non-Federal lands (hereafter in this subsection referred to as the “cooperator”)—
+&emsp;Subject to the provisions of subsections (c) and (e) of this section, the Secretary shall, in cooperation with State foresters or equivalent State officials, subdivisions of States, or other entities on non-Federal lands (hereafter in this subsection referred to as the “cooperator”)—
 
 &emsp;&emsp;(A) provide cost-share assistance to such cooperators who have established an acceptable integrated pest management strategy, as determined by the Secretary, that will prevent, retard, control, or suppress gypsy moth, southern pine beetle, spruce budworm infestations, or other major insect infestations in an amount no less than 50 percent nor greater than 75 percent of the cost of implementing such strategy; and
 
@@ -94,15 +94,15 @@ A prior section 8 of Pub. L. 95–313 was renumbered section 11 and is classifie
 
 #### Stewardship End Result Contracting Demonstration Project
 
-Pub. L. 105–277, div. A, §101(e) \[title III, §347\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298, provided that:
+Pub. L. 105–277, div. A, §101(e) \[title III, §347\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298, as amended by Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §341\], Nov. 29, 1999, 113 Stat. 1535, 1501A–201, provided that:
 
 “(a)
 
-In General.—Until September 30, 2002, the Forest Service may enter into no more than twenty-eight (28) contracts with private persons and entities, of which Region One of the Forest Service shall have the authority to enter into nine (9) such contracts, to perform services to achieve land management goals for the national forests that meet local and rural community needs.
+In General.—Until September 30, 2002, the Forest Service, via agreement or contract as appropriate, may enter into no more than twenty-eight (28) stewardship contracting demonstration pilot projects with private persons or other public or private entities, of which Region One of the Forest Service shall have the authority to enter into nine (9) such contracts, to perform services to achieve land management goals for the national forests that meet local and rural community needs.
 
 “(b)
 
-Land Management Goals.—The land management goals of a contract under subsection (a) may include, among other things—
+Land Management Goals.—The land management goals of a project under subsection (a) may include, among other things—
 
 &emsp;“(1) road and trail maintenance or obliteration to restore or maintain water quality;
 
@@ -120,11 +120,11 @@ Land Management Goals.—The land management goals of a contract under subsectio
 
 “(c)
 
-Contracts.—
+Agreements or Contracts.—
 
 &emsp;“(1)
 
-Procurement procedure.—A source for performance of a contract under subsection (a) shall be selected on a best-value basis, including consideration of source under other public and private contracts.
+Procurement procedure.—A source for performance of an agreement or contract under subsection (a) shall be selected on a best-value basis, including consideration of source under other public and private agreements or contracts.
 
 &emsp;“(2)
 
@@ -136,7 +136,7 @@ Offsets.—
 
 &emsp;&emsp;“(A)
 
-In general.—In connection with contracts under subsection (a), the Forest Service may apply the value of timber or other forest products removed as an offset against the cost of services received.
+In general.—In connection with agreement or contracts under subsection (a), the Forest Service may apply the value of timber or other forest products removed as an offset against the cost of services received.
 
 &emsp;&emsp;“(B)
 
@@ -144,13 +144,13 @@ Methods of appraisal.—The value of timber or other forest products used as off
 
 &emsp;&emsp;&emsp;“(i) shall be determined using appropriate methods of appraisal commensurate with the quantity of products to be removed;
 
-&emsp;&emsp;&emsp;“(ii) may be determined using a unit of measure appropriate to the contracts; and
+&emsp;&emsp;&emsp;“(ii) may be determined using a unit of measure appropriate to the agreement or contracts; and
 
 &emsp;&emsp;&emsp;“(iii) may include valuing products on a per-acre basis.
 
 &emsp;“(4)
 
-Relation to other laws.—The Forest Service may enter into contracts under subsection (a), notwithstanding subsections (d) and (g) of section 14 of the National Forest Management Act of 1976 (16 U.S.C. 472a).
+Relation to other laws.—The Forest Service may enter into agreement or contracts under subsection (a), notwithstanding subsections (d) and (g) of section 14 of the National Forest Management Act of 1976 (16 U.S.C. 472a).
 
 “(d)
 
@@ -158,11 +158,11 @@ Receipts.—
 
 &emsp;“(1)
 
-In general.—The Forest Service may collect monies from a contract under subsection (a) so long as such collection is a secondary objective of negotiating contracts that will best achieve the purposes of this section.
+In general.—The Forest Service may collect monies from an agreement or contract under subsection (a) so long as such collection is a secondary objective of negotiating contracts that will best achieve the purposes of this section.
 
 &emsp;“(2)
 
-Use.—Monies from a contract under subsection (a) may be retained by the Forest Service and shall be available for expenditure without further appropriation at the demonstration project site from which the monies are collected or at another demonstration project site.
+Use.—Monies from an agreement or contract under subsection (a) may be retained by the Forest Service and shall be available for expenditure without further appropriation at the demonstration project site from which the monies are collected or at another demonstration project site.
 
 &emsp;“(3)
 
@@ -190,13 +190,13 @@ Excess offset value.—If the offset value of the forest products exceeds the va
 
 “(g)
 
-Monitoring, Evaluation and Reporting.—The Forest Service shall establish a multiparty monitoring and evaluation process that accesses each individual stewardship contract conducted under this section. Besides the Forest Service, participants in this process may include any cooperating governmental agencies, including tribal governments, and any interested groups or individuals. The Forest Service shall report annually to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate on—
+Monitoring, Evaluation and Reporting.—The Forest Service shall establish a multiparty monitoring and evaluation process that accesses each individual stewardship pilot project conducted under this section. Besides the Forest Service, participants in this process may include any cooperating governmental agencies, including tribal governments, and any interested groups or individuals. The Forest Service shall report annually to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate on—
 
-&emsp;“(1) the status of development, execution, and administration of contracts under subsection (a);
+&emsp;“(1) the status of development, execution, and administration of agreements or contracts under subsection (a);
 
 &emsp;“(2) the specific accomplishments that have resulted; and
 
-&emsp;“(3) the role of local communities in development of contract plans.”
+&emsp;“(3) the role of local communities in development of agreements or contract plans.”
 
 #### Herger-Feinstein Quincy Library Group Forest Recovery
 
@@ -236,7 +236,7 @@ Riparian protection.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Scientific Analysis Team guidelines for riparian system protection described in subparagraph (B) shall apply to all resource management activities conducted under subsection (d) and all timber harvesting activities that occur in the pilot project area during the term of the pilot project.
+In general.—The Scientific Analysis Team guidelines for riparian system protection described in subparagraph (B) shall apply to all resource management activities conducted under subsection (d)and all timber harvesting activities that occur in the pilot project area during the term of the pilot project.
 
 &emsp;&emsp;“(B)
 
@@ -344,7 +344,7 @@ Corresponding Forest Plan Amendments.—Within 2 years after the date of the ena
 
 &emsp;“(1) incorporates the pilot project and area designations made by subsection (b), the resource management activities described in subsection (d), and other aspects of the Quincy Library Group-Community Stability Proposal; and
 
-&emsp;“(2) makes other changes warranted by the analyses conducted in compliance with section 102(2) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)), section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604), and other applicable laws.
+&emsp;“(2) makes other changes warranted by the analyses conducted in compliance with section 102(2) of the National Environmental Policy Act of 1969 (42 U.S.C.4332(2)), section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604), and other applicable laws.
 
 “(j)
 

@@ -16,7 +16,7 @@ Section 5845, Pub. L. 103–227, title II, §215, Mar. 31, 1994, 108 Stat. 147; 
 
 Section 5846, Pub. L. 103–227, title II, §216, Mar. 31, 1994, 108 Stat. 148, related to publication in Federal Register for public comment of certain proposed procedures, standards, and criteria.
 
-Section 5847, Pub. L. 103–227, title II, §217, Mar. 31, 1994, 108 Stat. 148, contained administrative provisions relating to Council, including provisions relating to meetings, quorum, voting, and public access.
+Section 5847, Pub. L. 103–227, title II, §217, Mar. 31, 1994, 108 Stat. 148, contained administrative provisionsrelating to Council, including provisions relating to meetings, quorum, voting, and public access.
 
 Section 5848, Pub. L. 103–227, title II, §218, Mar. 31, 1994, 108 Stat. 149, related to Council Director and staff, and use of experts and consultants and staffs of Federal agencies.
 

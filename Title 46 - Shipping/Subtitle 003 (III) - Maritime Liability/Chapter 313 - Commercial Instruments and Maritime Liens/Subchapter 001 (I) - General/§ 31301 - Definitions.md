@@ -48,7 +48,7 @@ In this chapter—
 
 &emsp;&emsp;(A) means a mortgage that is a preferred mortgage under section 31322 of this title; and
 
-&emsp;&emsp;(B) also means in sections 31325 and 31326 of this title, a mortgage, hypothecation, or similar charge that is established as a security on a foreign vessel if the mortgage, hypothecation, or similar charge was executed under the laws of the foreign country under whose laws the ownership of the vessel is documented and has been registered under those laws in a public register at the port of registry of the vessel or at a central office.
+&emsp;&emsp;(B) also means in sections 31325 and 31326 of this title, a mortgage, hypothecation, orsimilar charge that is established as a security on a foreign vessel if the mortgage, hypothecation, or similar charge was executed under the laws of the foreign country under whose laws the ownership of the vessel is documented and has been registered under those laws in a public register at the port of registry of the vessel or at a central office.
 
 (Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4739.)
 
@@ -90,7 +90,7 @@ Section 31301(3) defines “mortgagee” as a person to whom property is mortgag
 
 Section 31301(4) defines “necessaries” to include repairs, supplies, towage, and the use of a drydock and marine railway for a vessel. As in all codifications, the term “includes” means “includes but is not limited to” and, therefore, is not intended to be an exclusive listing of those items that a court has determined or may determine as falling within the meaning of the term “other necessaries” as contained in current law. The definition is new, is based on 46 App. U.S.C. 971–974, and makes no substantive change to law.
 
-Section 31301(5) defines “preferred maritime lien” to mean a lien on a vessel that arises before a preferred mortgage was filed under section 31321 of this title fordamages arising out of maritime tort, stevedore wages, crew wages, general average, and salvage. The definition is new and is based on 46 App. U.S.C. 953(a). The only substantive change to law made by this paragraph is to change the effective date from the day the preferred mortgage is recorded and endorsed to when it is filed. This change is in keeping with other changes with regard to filing. The term “duly and validly” that is in existing law is not used because it is unnecessary. An instrument that is not “duly and validly” executed is not executed under the laws of the foreign country. This makes no substantive change to law.
+Section 31301(5) defines “preferred maritime lien” to mean a lien on a vessel that arises before a preferred mortgage was filed under section 31321 of this title for damages arising out of maritime tort, stevedore wages, crew wages, general average, and salvage. The definition is new and is based on 46 App. U.S.C. 953(a). The only substantive change to law made by this paragraph is to change the effective date from the day the preferred mortgage is recorded and endorsed to when it is filed. This change is in keeping with other changes with regard to filing. The term “duly and validly” that is in existing law is not used because it is unnecessary. An instrument that is not “duly and validly” executed is not executed under the laws of the foreign country. This makes no substantive change to law.
 
 Section 31301(6)(A) defines “preferred mortgage” to mean a mortgage that meets the requirements of section 31322. This clause makes no substantive change to law.
 

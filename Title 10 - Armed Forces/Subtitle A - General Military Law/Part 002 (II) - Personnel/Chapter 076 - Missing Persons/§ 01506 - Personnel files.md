@@ -22,7 +22,7 @@ Protection of Privacy.—The Secretary concerned shall maintain personnel files 
 
 Privileged Information.—(1) The Secretary concerned shall withhold from personnel files under this section, as privileged information, debriefing reports provided by missing persons returned to United States control which are obtained under a promise of confidentiality made for the purpose of ensuring the fullest possible disclosure of information.
 
-(2) If a debriefing report contains non-derogatory information about the status and whereabouts of a missing person other than the source of the debriefing report or about unnamed missing persons, the Secretary concerned shall prepare an extract of the non-derogatory information. That extract, following a review by the source of the debriefing report, shall be placed in the personnel file of each missing person named in the debriefing report in such a manner as to protect the identity of the source providing the information. Any information contained in the extract of the debriefing report that pertains to unnamed missing persons shall be made reasonably accessible to the primary next of kin, members of the immediate family, and the previously designated person.
+(2) If a debriefing report contains non-derogatory information about the status and whereabouts of a missing person other than the sourceof the debriefing report or about unnamed missing persons, the Secretary concerned shall prepare an extract of the non-derogatory information. That extract, following a review by the source of the debriefing report, shall be placed in the personnel file of each missing person named in the debriefing report in such a manner as to protect the identity of the source providing the information. Any information contained in the extract of the debriefing report that pertains to unnamed missing persons shall be made reasonably accessible to the primary next of kin, members of the immediate family, and the previously designated person.
 
 (3) Whenever the Secretary concerned withholds a debriefing report, or part of a debriefing report, from a personnel file under this subsection, the Secretary shall ensure that the file contains a notice that withheld information exists.
 
@@ -30,9 +30,15 @@ Privileged Information.—(1) The Secretary concerned shall withhold from person
 
 Availability of Information.—The Secretary concerned shall, upon request, make available the contents of the personnel file of a missing person to the primary next of kin, the other members of the immediate family, or any other previously designated person of the person.
 
-(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 346; amended Pub. L. 104–201, div. A, title V, §578(d), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title V, §599(f), (g), Nov. 18, 1997, 111 Stat. 1770.)
+(f)
+
+Nondisclosure of Certain Information.—A record of the content of a debriefing of a missing person returned to United States control during the period beginning on July 8, 1959, and ending on February 10, 1996, that was conducted by an official of the United States authorized to conduct the debriefing is privileged information and, notwithstanding sections 552 and 552a of title 5, may not be disclosed, in whole or in part, under either such section. However, this subsection does not limit the responsibility of the Secretary concerned under paragraphs (2) and (3) of subsection (d) to place extracts of non-derogatory information, or a notice of the existence of such information, in the personnel file of a missing person.
+
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 346; amended Pub. L. 104–201, div. A, title V, §578(d), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title V, §599(f), (g), Nov. 18, 1997, 111 Stat. 1770; Pub. L. 106–65, div. A, title V, §575, Oct. 5, 1999, 113 Stat. 624.)
 
 #### Amendments
+
+1999—Subsec. (f). Pub. L. 106–65 added subsec. (f).
 
 1997—Subsec. (b). Pub. L. 105–85, §599(f), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 

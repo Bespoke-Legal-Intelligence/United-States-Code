@@ -30,5 +30,7 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, §§1611(a) (related to nonprofit),
 
 36:5508(a)(3).
 
+&nbsp;
+
 In subsection (b), the words “ammunition, repair parts, and other supplies” are substituted for “ammunition, targets, and other supplies and appliances” for consistency in the revised title.
 

@@ -46,7 +46,7 @@
 
 &emsp;(B) ensure that each such office or entity provides the Chief of Naval Operations and the Commandant of the Marine Corps such staff support as each considers necessary to perform his duties and responsibilities.
 
-(4) The vesting in the Office of the Secretary of the Navy of the responsibility for the conduct of a function specified in paragraph (1) does not preclude other elements of the executive part of the Department of the Navy (including the Office of the Chief of Naval Operations and the Headquarters, Marine Corps) from providing advice or assistance to the Chief of Naval Operations and the Commandant of the Marine Corps or otherwise participating in that function within the executive part of the Department under the direction of the office assigned responsibility for that function in the Office of the Secretary of the Navy.
+(4) The vesting in the Office of the Secretary of the Navy of the responsibility for the conduct of a function specified in paragraph (1) does not preclude other elements of the executive part of the Department of the Navy (including the Office of the Chief of Naval Operations and the Headquarters, Marine Corps) from providing advice or assistance to the Chief of Naval Operations and the Commandant of the Marine Corpsor otherwise participating in that function within the executive part of the Department under the direction of the office assigned responsibility for that function in the Office of the Secretary of the Navy.
 
 (5)(A) The head of the office or other entity established or designated by the Secretary to conduct the auditing function shall have at least five years of professional experience in accounting or auditing. The position shall be considered to be a career reserved position as defined in section 3132(a)(8) of title 5.
 
@@ -76,7 +76,7 @@
 
 (3) The total number of general and flag officers assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, and the Headquarters, Marine Corps, may not exceed the number equal to 85 percent of the number of general and flag officers assigned or detailed to such duty on the date of the enactment of this subsection.
 
-(4) The limitations in paragraphs (1), (2), and (3) do not apply in time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) doesnot apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, or the Headquarters, Marine Corps.
+(4) The limitations in paragraphs (1), (2), and (3) do not apply in time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, or the Headquarters, Marine Corps.
 
 (Added Pub. L. 99–433, title V, §511(c)(4), Oct. 1, 1986, 100 Stat. 1045; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(7), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title III, §325(b), Sept. 29, 1988, 102 Stat. 1955; Pub. L. 101–189, div. A, title VI, §652(a)(4), Nov. 29, 1989, 103 Stat. 1461.)
 

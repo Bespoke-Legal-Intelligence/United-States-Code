@@ -8,7 +8,7 @@ A proceeding for the development of a consumer product safety rule shall be comm
 
 &emsp;(2) include a summary of each of the regulatory alternatives under consideration by the Commission (including voluntary consumer product safety standards);
 
-&emsp;(3) include information with respect to any existing standard known to the Commissionwhich may be relevant to the proceedings, together with a summary of the reasons why the Commission believes preliminarily that such standard does not eliminate or adequately reduce the risk of injury identified in paragraph (1);
+&emsp;(3) include information with respect to any existing standard known to the Commission which may be relevant to the proceedings, together with a summary of the reasons why the Commission believes preliminarily that such standard does not eliminate or adequately reduce the risk of injury identified in paragraph (1);
 
 &emsp;(4) invite interested persons to submit to the Commission, within such period as the Commission shall specify in the notice (which period shall not be less than 30 days or more than 60 days after the date of publication of the notice), comments with respect to the risk of injury identified by the Commission, the regulatory alternatives being considered, and other possible alternatives for addressing the risk;
 
@@ -28,7 +28,7 @@ A proceeding for the development of a consumer product safety rule shall be comm
 
 &emsp;(B) it is likely that there will be substantial compliance with such standard,
 
-> the Commission shall terminate any proceeding to promulgate a consumer product safety rule respecting such risk of injury and shall publish in the Federal Register a notice which includes the determination of the Commission and which notifies the public that the Commission will rely on the voluntary standard to eliminate or reduce the risk of injury, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary consumer product safety standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.
+> the Commission shall terminate any proceeding to promulgate a consumer product safety rule respecting such risk of injury and shall publish in the Federal Register a notice which includes the determination of the Commission and which notifies the public that the Commission will rely on the voluntary standard to eliminate or reduce the risk of injury, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relyingupon any voluntary consumer product safety standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.
 
 #### (c) Publication of proposed rule; preliminary regulatory analysis; contents; transmittal of notice
 
@@ -70,7 +70,7 @@ A consumer product safety rule shall express in the rule itself the risk of inju
 
 &emsp;(C) the need of the public for the consumer products subject to such rule, and the probable effect of such rule upon the utility, cost, or availability of such products to meet such need; and
 
-&emsp;(D) any means of achieving the objective of the order while minimizing adverse effects on competition or disruption or dislocation of manufacturing and other commercial practices consistent with the public health and safety.
+&emsp;(D) any means of achieving the objective of the order while minimizing adverse effects on competition or disruption or dislocation ofmanufacturing and other commercial practices consistent with the public health and safety.
 
 (2) The Commission shall not promulgate a consumer product safety rule unless it has prepared, on the basis of the findings of the Commission under paragraph (1) and on other information before the Commission, a final regulatory analysis of the rule containing the following information:
 

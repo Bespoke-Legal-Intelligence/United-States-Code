@@ -26,7 +26,7 @@ Pub. L. 101–382, §1(a), Aug. 20, 1990, 104 Stat. 629, provided that: “This 
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–221, §1, Dec. 12, 1989, 103 Stat. 1886, provided that: “This Act \[amending section 4611 of Title26, Internal Revenue Code, enacting provisions set out as notes under sections 2253 and 2703 of this title and section 4611 of Title 26, and amending provisions set out as notes under sections 2253 and 2703 of this title\] may be cited as the ‘Steel Trade Liberalization Program Implementation Act’.”
+Pub. L. 101–221, §1, Dec. 12, 1989, 103 Stat. 1886, provided that: “This Act \[amending section 4611 of Title 26, Internal Revenue Code, enacting provisions set out as notes under sections 2253 and 2703 of this title and section 4611 of Title 26, and amending provisions set out as notes under sections 2253 and 2703 of this title\] may be cited as the ‘Steel Trade Liberalization Program Implementation Act’.”
 
 #### Short Title of 1986 Amendment
 
@@ -34,7 +34,7 @@ Pub. L. 99–272, title XIII, §13001, Apr. 7, 1986, 100 Stat. 300, provided tha
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–573, title III, §301(a), Oct. 30, 1984, 98 Stat. 3000, provided that: “This title \[enacting sections 2114a to 2114e, 2138, and 2241 of this title, amending sections 2112, 2114, 2155, 2171, and 2411 to 2415 of this title and sections 3101 to 3104 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under section 2102 of this title and section 3101 of Title 22\] may be cited as the ‘International Trade and Investment Act’.”
+Pub. L. 98–573, title III, §301(a), Oct. 30, 1984, 98 Stat. 3000, provided that: “This title \[enacting sections 2114a to 2114e, 2138, and 2241 of this title, amending sections 2112, 2114, 2155, 2171, and 2411 to 2415 of this title and sections 3101 to 3104 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notesunder section 2102 of this title and section 3101 of Title 22\] may be cited as the ‘International Trade and Investment Act’.”
 
 Pub. L. 98–573, title V, §501(a), Oct. 30, 1984, 98 Stat. 3018, provided that: “This title \[enacting section 2466 of this title, amending sections 2461 to 2465 of this title, and enacting provisions set out as notes under section 2461 of this title\] may be cited as the ‘Generalized System of Preferences Renewal Act of 1984’.”
 

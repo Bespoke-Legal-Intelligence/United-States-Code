@@ -74,11 +74,11 @@ Eligible Former POWs.—A former prisoner of war referred to in subsection (a) i
 
 “(c)
 
-Savings Provision.—This section may not be construed to make ineligible for burial in Arlington National Cemetery a former prisoner of war who is eligible to be buried in that cemetery under another provision of law.
+Savings Provision.—This section may not be construed to make ineligible for burial in ArlingtonNational Cemetery a former prisoner of war who is eligible to be buried in that cemetery under another provision of law.
 
 “(d)
 
-Regulations.—This section shall be carried out under regulations prescribed by the Secretary of theArmy. Those regulations may prescribe a minimum period of internment as a prisoner of war for purposes of eligibility under this section for burial in Arlington National Cemetery.
+Regulations.—This section shall be carried out under regulations prescribed by the Secretary of the Army. Those regulations may prescribe a minimum period of internment as a prisoner of war for purposes of eligibility under this section for burial in Arlington National Cemetery.
 
 “(e)
 

@@ -20,3 +20,7 @@
 
 Provisions similar to those in this section were contained in section 4121 of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7362 of this title.
+

@@ -4,5 +4,5 @@ Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 905; Oct. 27, 1970, Pub. L. 91�
 
 #### Effective Date of Repeal
 
-Repeal effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 6013 of this title.
+Repeal effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section1906(d)(1) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 6013 of this title.
 

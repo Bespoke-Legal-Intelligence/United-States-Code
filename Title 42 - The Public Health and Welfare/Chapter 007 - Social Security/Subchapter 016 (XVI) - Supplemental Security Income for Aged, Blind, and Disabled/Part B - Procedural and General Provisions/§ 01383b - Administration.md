@@ -10,7 +10,9 @@ In determining, for purposes of this subchapter, whether an individual is blind,
 
 #### (c) Notification of review
 
-In any case in which the Commissioner of Social Security initiates a review under this subchapter, similar to the continuing disability reviews authorized for purposes of subchapter II of this chapter under section 421(i) of this title, the Commissioner of Social Security shall notify the individual whose case is to be reviewed in the same manner as required under section 421(i)(4) of this title.
+(1) In any case in which the Commissioner of Social Security initiates a review under this subchapter, similar to the continuing disability reviews authorized for purposes of subchapter IIof this chapter under section 421(i) of this title, the Commissioner of Social Security shall notify the individual whose case is to be reviewed in the same manner as required under section 421(i)(4) of this title.
+
+(2) For suspension of continuing disability reviews and other reviews under this subchapter similar to reviews under section 421 of this title in the case of an individual using a ticket to work and self-sufficiency, see section 1320b–19(i) of this title.
 
 #### (d) Regulations regarding completion of plans for achieving self-support
 
@@ -20,9 +22,11 @@ The Commissioner of Social Security shall establish by regulation criteria for t
 
 &emsp;(2) other factors determined by the Commissioner of Social Security to be appropriate.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1633, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1478; amended Pub. L. 93–66, title II, §214, July 9, 1973, 87 Stat. 158; Pub. L. 98–460, §6(b), Oct. 9, 1984, 98 Stat. 1802; Pub. L. 103–296, title I, §107(a)(4), title II, §203(a), Aug. 15, 1994, 108 Stat. 1478, 1508.)
+(Aug. 14, 1935, ch. 531, title XVI, §1633, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1478; amended Pub. L. 93–66, title II, §214, July 9, 1973, 87 Stat. 158; Pub. L. 98–460, §6(b), Oct. 9, 1984, 98 Stat. 1802; Pub. L. 103–296, title I, §107(a)(4), title II, §203(a), Aug. 15, 1994, 108 Stat. 1478, 1508; Pub. L. 106–170, title I, §101(b)(2)(D), Dec. 17, 1999, 113 Stat. 1874.)
 
 #### Amendments
+
+1999—Subsec. (c). Pub. L. 106–170 designated existing provisions as par. (1) and added par. (2).
 
 1994—Subsec. (a). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” and “the Commissioner's” for “his”.
 
@@ -37,6 +41,10 @@ Pub. L. 103–296, §107(a)(4), in subsec. (d) as added by Pub. L. 103–296, §
 1973—Subsec. (a). Pub. L. 93–66, §214(1), (2), designated existing provisions as subsec. (a) and made the authority of the Secretary subject to subsec. (b) of this section.
 
 Subsec. (b). Pub. L. 93–66, §214(3), added subsec. (b).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 effective with the first month following one year after Dec. 17, 1999, subject to section 101(d) of Pub. L. 106–170, see section 101(c) of Pub. L. 106–170, set out as an Effective Date note under section 1320b–19 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -63,4 +71,8 @@ For applicability of this section to the Northern Mariana Islands, see section 5
 #### Puerto Rico, Guam, and Virgin Islands
 
 Enactment of provisions of Pub. L. 92–603, eff. Jan. 1, 1974, not applicable to Puerto Rico, Guam, and the Virgin Islands, see section 303(b) of Pub. L. 92–603, set out as a note under section 301 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1320b–6 of this title.
 

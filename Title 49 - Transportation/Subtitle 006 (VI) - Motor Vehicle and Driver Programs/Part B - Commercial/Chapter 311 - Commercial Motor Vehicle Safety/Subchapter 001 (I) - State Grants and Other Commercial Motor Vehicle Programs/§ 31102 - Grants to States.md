@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—Subject to this section and the availability of amounts, the Secretary of Transportation may make grants to States for the development or implementation of programs for improving motor carrier safety and the enforcement of regulations, standards,and orders of the United States Government on commercial motor vehicle safety, hazardous materials transportation safety, and compatible State regulations, standards, and orders.
+General Authority.—Subject to this section and the availability of amounts, the Secretary of Transportation may make grants to States for the development or implementation of programs for improving motor carrier safety and the enforcement of regulations, standards, and orders of the United States Government on commercial motor vehicle safety, hazardous materials transportation safety, and compatible State regulations, standards, and orders.
 
 (b)
 
@@ -48,7 +48,7 @@ State Plan Procedures and Contents.—(1) The Secretary shall prescribe procedur
 
 &emsp;(Q) provides that the State will establish a program to ensure the proper and timely correction of commercial motor vehicle safety violations noted during an inspection carried out with funds authorized under section 31104;
 
-&emsp;(R) ensures that the State will cooperate in the enforcement of registration and financial responsibility requirements under sections 31138 and 31139, or regulations issued thereunder;
+&emsp;(R) ensures that the State will cooperate in the enforcement of registration requirements under section 13902 and financial responsibility requirements under sections 13906, 31138, and 31139 and regulations issued thereunder;
 
 &emsp;(S) ensures consistent, effective, and reasonable sanctions; and
 
@@ -64,7 +64,7 @@ State Plan Procedures and Contents.—(1) The Secretary shall prescribe procedur
 
 (c)
 
-Use of Grants to Enforce Other Laws.—A State may use amounts received under a grant under subsection (a) of this section for the following activities if the activities are carried outin conjunction with an appropriate inspection of the commercial motor vehicle to enforce Government or State commercial motor vehicle safety regulations:
+Use of Grants to Enforce Other Laws.—A State may use amounts received under a grant under subsection (a) of this section for the following activities if the activities are carried out in conjunction with an appropriate inspection of the commercial motor vehicle to enforce Government or State commercial motor vehicle safety regulations:
 
 &emsp;(1) enforcement of commercial motor vehicle size and weight limitations at locations other than fixed weight facilities, at specific locations such as steep grades or mountainous terrains where the weight of a commercial motor vehicle can significantly affect the safe operation of the vehicle, or at ports where intermodal shipping containers enter and leave the United States.
 
@@ -76,7 +76,7 @@ Use of Grants to Enforce Other Laws.—A State may use amounts received under a 
 
 Continuous Evaluation of Plans.—On the basis of reports submitted by a State motor vehicle safety agency of a State with a plan approved under this section and the Secretary's own investigations, the Secretary shall make a continuing evaluation of the way the State is carrying out the plan. If the Secretary finds, after notice and opportunity for comment, the State plan previously approved is not being followed or has become inadequate to ensure enforcement of the regulations, standards, or orders, the Secretary shall withdraw approval of the plan and notify the State. The plan stops being effective when the notice is received. A State adversely affected by the withdrawal may seek judicial review under chapter 7 of title 5. Notwithstanding the withdrawal, the State may retain jurisdiction in administrative or judicial proceedings begun before the withdrawal if the issues involved are not related directly to the reasons for the withdrawal.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 984; Pub. L. 104–88, title I, §104(a), Dec. 29, 1995, 109 Stat. 918; Pub. L. 105–178, title IV, §4003(b), (c), June 9, 1998, 112 Stat. 395, 396.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 984; Pub. L. 104–88, title I, §104(a), Dec. 29, 1995, 109 Stat. 918; Pub. L. 105–178, title IV, §4003(b), (c), June 9, 1998, 112 Stat. 395, 396; Pub. L. 106–159, title II, §207, Dec. 9, 1999, 113 Stat. 1764.)
 
 Historical and Revision Notes
 
@@ -128,6 +128,10 @@ Paragraph (1), referred to in subsec. (b)(3), was amended by Pub. L. 105–178, 
 
 #### Amendments
 
+1999—Subsec. (b)(1)(A). Pub. L. 106–159, §207(1), realigned subpar. (A) margins.
+
+Subsec. (b)(1)(R). Pub. L. 106–159, §207(2), added subpar. (R) and struck out former subpar. (R) which read as follows: “ensures that the State will cooperate in the enforcement of registration and financial responsibility requirements under sections 31138 and 31139, or regulations issued thereunder;”.
+
 1998—Subsec. (a). Pub. L. 105–178, §4003(b)(1), inserted “improving motor carrier safety and” after “implementation of programs for” and “, hazardous materials transportation safety,” after “commercial motor vehicle safety”.
 
 Subsec. (b)(1). Pub. L. 105–178, §4003(b)(2), in introductory provisions, substituted “assume responsibility for improving motor carrier safety and to adopt and enforce” for “adopt and assume responsibility for enforcing” and inserted “, hazardous materials transportation safety,” after “commercial motor vehicle safety”.
@@ -152,7 +156,7 @@ Subsec. (b)(1)(N). Pub. L. 105–178, §4003(c)(6), redesignated subpar. (M) as 
 
 Subsec. (b)(1)(O). Pub. L. 105–178, §4003(c)(6), redesignated subpar. (N) as (O). Former subpar. (O) redesignated (P).
 
-Pub. L. 105–178, §4003(c)(3), inserted “in support of national priorities and performance goals, including”after “activities” in introductory provisions, substituted “activities aimed at removing” for “to remove” in cl. (i), substituted “activities aimed at providing” for “to provide” and inserted “and” after semicolon in cl. (ii), added cl. (iii), and struck out former cls. (iii) and (iv) which read as follows:
+Pub. L. 105–178, §4003(c)(3), inserted “in support of national priorities and performance goals, including” after “activities” in introductory provisions, substituted “activities aimed at removing” for “to remove” in cl. (i), substituted “activities aimed at providing” for “to provide” and inserted “and” after semicolon in cl. (ii), added cl. (iii), and struck out former cls. (iii) and (iv) which read as follows:
 
 “(iii) to promote enforcement of the requirements related to the licensing of commercial motor vehicle drivers, including checking the status of commercial drivers’ licenses; and
 
@@ -179,6 +183,34 @@ Subsec. (b)(1)(S), (T). Pub. L. 105–178, §4003(c)(5)(B), (8), added subpars. 
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+
+#### Maintenance of Effort
+
+Pub. L. 106–159, title I, §103(c), Dec. 9, 1999, 113 Stat. 1753, provided that: “The Secretary may not make, from funds made available by or under this section\[amending section 31107 of this title, enacting provisions set out as notes under this section and section 31104 of this title, and amending a provision set out as a note under section 104 of Title 23, Highways\] (including any amendment made by this section), a grant to a State unless the State first enters into a binding agreement with the Secretary that provides that the total expenditures of amounts of the State and its political subdivisions (not including amounts of the United States) for the development or implementation of programs for improving motor carrier safety and enforcement of regulations, standards, and orders of the United States on commercial motor vehicle safety, hazardous materials transportation safety, and compatible State regulations, standards, and orders will be maintained at a level at least equal to the average level of such expenditures for fiscal years 1997, 1998, and 1999.”
+
+#### State Compliance With CDL Requirements
+
+Pub. L. 106–159, title I, §103(e), Dec. 9, 1999, 113 Stat. 1754, provided that:
+
+“(1)
+
+Withholding of allocation for noncompliance.—If a State is not in substantial compliance with each requirement of section 31311 of title 49, United States Code, the Secretary shall withhold all amounts that would be allocated, but for this paragraph, to the State from funds made available by or under this section (including any amendment made by this section).
+
+“(2)
+
+Period of availability of withheld funds.—Any funds withheld under paragraph (1) from any State shall remain available until June 30 of the fiscal year for which the funds are authorized to be appropriated.
+
+“(3)
+
+Allocation of withheld funds after compliance.—If, before the last day of the period for which funds are withheld under paragraph (1) from allocation are to remain available for allocation to a State under paragraph (2), the Secretary determines that the State is in substantial compliance with each requirement of section 31311 of title 49, United States Code, the Secretary shall allocate to the State the withheld funds.
+
+“(4)
+
+Period of availability of subsequently allocated funds.—Any funds allocated pursuant to paragraph (3) shall remain available for expenditure until the last day of the first fiscal year following the fiscal year in which the funds are so allocated. Sums not expended at the end of such period are released to the Secretary for reallocation.
+
+“(5)
+
+Effect of noncompliance.—If, on June 30 of the fiscal year in which funds are withheld from allocation under paragraph (1), the State is not substantially complying with each requirement of section 31311 of title 49, United States Code, the funds are released to the Secretary for reallocation.”
 
 #### Effects of MCSAP Grant Reductions
 

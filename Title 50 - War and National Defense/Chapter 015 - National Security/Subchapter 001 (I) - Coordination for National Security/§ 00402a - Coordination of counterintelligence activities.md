@@ -22,7 +22,7 @@ The Board shall serve as the principal mechanism for—
 
 &emsp;(C) where, after appropriate consultation with the department or agency concerned, the Federal Bureau of Investigation undertakes investigative activities to determine the source of the loss or compromise, the Federal Bureau of Investigation is given complete and timely access to the employees and records of the department or agency concerned for purposes of such investigative activities.
 
-(2) Except as provided in paragraph (3), the Director of the Federal Bureau of Investigation shall ensure that espionage information obtained by the Federal Bureau of Investigation pertaining to the personnel, operations, or information of departments or agencies of the executive branch, is provided through appropriate channels to the department or agency concerned, and that such departments or agencies are consulted with respect to espionage investigations undertaken by the Federal Bureau of Investigation which involve the personnel, operations, or information of such department or agency after a report has been provided pursuant to paragraph (1)(A).
+(2) Except as provided in paragraph (3), the Director of the Federal Bureau of Investigation shall ensure that espionage information obtained by the Federal Bureau of Investigation pertaining to the personnel, operations, or information of departments or agencies of the executive branch, is provided through appropriate channels to the department or agency concerned, and that such departments or agencies are consulted with respect to espionage investigations undertaken by the Federal Bureau of Investigation which involve the personnel, operations, or information of such department or agency.
 
 (3) Where essential to meet extraordinary circumstances affecting vital national security interests of the United States, the President may on a case-by-case basis waive the requirements of paragraph (1) or (2), as they apply to the head of a particular department or agency, or the Director of the Federal Bureau of Investigation. Such waiver shall be in writing and shall fully state the justification for such waiver. Within thirty days, the President shall notify the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives that such waiver has been issued, and at that time or as soon as national security considerations permit, provide these committees with a complete explanation of the circumstances which necessitated such waiver.
 
@@ -32,11 +32,15 @@ The Board shall serve as the principal mechanism for—
 
 (6) As used in this section, the terms “foreign power” and “agent of a foreign power” have the same meanings as set forth in sections <sup>1</sup> 1801(a) and (b), respectively, of this title.
 
-(Pub. L. 103–359, title VIII, §811, Oct. 14, 1994, 108 Stat. 3455.)
+(Pub. L. 103–359, title VIII, §811, Oct. 14, 1994, 108 Stat. 3455; Pub. L. 106–120, title VI, §602, Dec. 3, 1999, 113 Stat. 1620.)
 
 #### Codification
 
 Section was enacted as part of the Counterintelligence and Security Enhancements Act of 1994 and also as part of the Intelligence Authorization Act for Fiscal Year 1995, and not as part of the National Security Act of 1947 which comprises this chapter.
+
+#### Amendments
+
+1999—Subsec. (c)(2). Pub. L. 106–120 struck out “after a report has been provided pursuant to paragraph (1)(A)” before period at end.
 
 #### Annual Reports on Intelligence Activities of the People's Republic of China
 

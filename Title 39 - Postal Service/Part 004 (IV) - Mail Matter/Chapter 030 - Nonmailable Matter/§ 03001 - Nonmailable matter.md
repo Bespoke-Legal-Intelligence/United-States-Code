@@ -1,6 +1,6 @@
 ### §3001. Nonmailable matter
 
-(a) Matter the deposit of which in the mails is punishable under section 1302, 1341, 1342, 1461, 1463, 1714,<sup>1</sup> 1715, 1716, 1717, 1718,<sup>1</sup> or 1738 of title 18, or section 26 of the Animal Welfare Act is nonmailable.
+(a) Matter the deposit of which in the mails is punishable under section 1302, 1341, 1342, 1461, 1463, 1715, 1716, 1717, or 1738 of title 18, or section 26 of the Animal Welfare Act is nonmailable.
 
 (b) Except as provided in subsection (c) of this section, nonmailable matter which reaches the office of delivery, or which may be seized or detained for violation of law, shall be disposed of as the Postal Service shall direct.
 
@@ -12,7 +12,7 @@
 
 > is nonmailable.
 
-(2) Matter made nonmailable by this subsection which reaches the office of destination may be delivered in accordance with its address,if the party addressed furnishes the name and address of the sender.
+(2) Matter made nonmailable by this subsection which reaches the office of destination may be delivered in accordance with its address, if the party addressed furnishes the name and address of the sender.
 
 (d) Matter otherwise legally acceptable in the mails which—
 
@@ -42,41 +42,171 @@
 
 (2) The Postal Service shall by regulation establish the standards or requirements which a fragrance advertising sample must satisfy in order for the mail matter involved not to be considered nonmailable under this subsection.
 
-(h) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for the purchase of or payment for a product or service; and contains a seal, insignia, trade or brand name, or any other term or symbol that reasonably could be interpreted or construed as implying any Federal Government connection, approval or endorsement is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
+(h) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for the purchase of or payment for a product or service; and which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
 
 &emsp;(1) such nongovernmental entity has such expressed connection, approval or endorsement;
 
-&emsp;(2)(A) such matter bears on its face, in conspicuous and legible type in contrast by typography, layout, or color with other printing on its face, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS PRODUCT OR SERVICE HAS NOT BEEN APPROVED OR ENDORSED BY THE FEDERAL GOVERNMENT, AND THIS OFFER IS NOT BEING MADE BY AN AGENCY OF THE FEDERAL GOVERNMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe; and
+&emsp;(2)(A) such matter bears on its face, in conspicuous and legible type in contrast by typography, layout, or color with other printing on its face, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS PRODUCT OR SERVICE HAS NOT BEEN APPROVED OR ENDORSED BY THE FEDERAL GOVERNMENT, AND THIS OFFER IS NOT BEING MADE BY AN AGENCY OF THE FEDERAL GOVERNMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe;
 
-&emsp;(B) the envelope or outside cover or wrapper in which such matter is mailed bears on its face in capital letters and in conspicuous and legible type, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS IS NOT A GOVERNMENT DOCUMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe; or
+&emsp;(B) the envelope or outside cover or wrapper in which such matter is mailed bears on its face in capital letters and in conspicuous and legible type, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS IS NOT A GOVERNMENT DOCUMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe; and
 
-&emsp;(3) such matter is contained in a publication for which the addressee has paid or promised to pay a consideration or which he has otherwise indicated he desires to receive, except that this paragraph shall not apply if the solicitation is on behalf of the publisher of the publication.
+&emsp;(C) such matter does not contain a false representation stating or implying that Federal Government benefits or services will be affected by any purchase or nonpurchase; or
 
-(i) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for information or the contribution of funds or membership fees and contains a seal, insignia, trade or brand name, or any other term or symbol that reasonably could be interpreted or construed as implying any Federal Government connection, approval or endorsement is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
+&emsp;(3) such matter is contained in a publication for which the addressee has paid or promisedto pay a consideration or which he has otherwise indicated he desires to receive, except that this paragraph shall not apply if the solicitation is on behalf of the publisher of the publication.
+
+(i) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for information or the contribution of funds or membership fees and which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
 
 &emsp;(1) such nongovernmental entity has such expressed connection, approval or endorsement;
 
-&emsp;(2)(A) such matter bears on its face, in conspicuous and legible type in contrast by typography, layout, or color with other printing on its face, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS ORGANIZATION HAS NOT BEEN APPROVED OR ENDORSED BY THE FEDERAL GOVERNMENT, AND THIS OFFER IS NOT BEING MADE BY AN AGENCY OF THE FEDERAL GOVERNMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe; and
+&emsp;(2)(A) such matter bears on its face, in conspicuous and legible type in contrast by typography, layout, or color with other printing on its face, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS ORGANIZATION HAS NOT BEEN APPROVED OR ENDORSED BY THE FEDERAL GOVERNMENT, AND THIS OFFER IS NOT BEING MADE BY AN AGENCY OF THE FEDERAL GOVERNMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe;
 
-&emsp;(B) the envelope or outside cover or wrapper in which such matter is mailed bears on its face in capital letters and in conspicuous and legible type, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS IS NOT A GOVERNMENT DOCUMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe; or
+&emsp;(B) the envelope or outside cover or wrapper in which such matter is mailed bears on its face in capital letters and in conspicuous and legible type, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>“THIS IS NOT A GOVERNMENT DOCUMENT.”</b>, or a notice to the same effect in words which the Postal Service may prescribe; and
+
+&emsp;(C) such matter does not contain a false representation stating or implying that Federal Government benefits or services will be affected by any contribution or noncontribution; or
 
 &emsp;(3) such matter is contained in a publication for which the addressee has paid or promised to pay a consideration or which he has otherwise indicated he desires to receive, except that this paragraph shall not apply if the solicitation is on behalf of the publisher of the publication.
 
-(j) Except as otherwise provided by law, proceedings concerning the mailability of matter under this chapter and chapters 71 and 83 of title 18 shall be conducted in accordance with chapters 5 and 7 of title 5.
+(j)(1) Any matter otherwise legally acceptable in the mails which is described in paragraph (2) is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs.
 
-(k) The district courts, together with the District Court of the Virgin Islands and the District Court of Guam, shall have jurisdiction, upon cause shown, to enjoin violations of section 1716 of title 18.
+(2) Matter described in this paragraph is any matter that—
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 745; Pub. L. 91–662, §6(1), Jan. 8, 1971, 84 Stat. 1974; Pub. L. 92–191, §2, Dec. 15, 1971, 85 Stat. 647; Pub. L. 89–544, §26(h)(2), as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 423; Pub. L. 97–398, §5, Dec. 31, 1982, 96 Stat. 2011; Pub. L. 101–493, §2, Oct. 31, 1990, 104 Stat. 1184; Pub. L. 101–524, §2(a), Nov. 6, 1990, 104 Stat. 2301; Pub. L. 102–71, §2(1), July 10, 1991, 105 Stat. 330.)
+&emsp;(A) constitutes a solicitation for the purchase of or payment for any product or service that—
+
+&emsp;&emsp;(i) is provided by the Federal Government; and
+
+&emsp;&emsp;(ii) may be obtained without cost from the Federal Government; and
+
+&emsp;(B) does not contain a clear and conspicuous statement giving notice of the information set forth in clauses (i) and (ii) of subparagraph (A).
+
+(k)(1) In this subsection—
+
+&emsp;(A) the term “clearly and conspicuously displayed” means presented in a manner that is readily noticeable, readable, and understandable to the group to whom the applicable matter is disseminated;
+
+&emsp;(B) the term “facsimile check” means any matter that—
+
+&emsp;&emsp;(i) is designed to resemble a check or other negotiable instrument; but
+
+&emsp;&emsp;(ii) is not negotiable;
+
+&emsp;(C) the term “skill contest” means a puzzle, game, competition, or other contest in which—
+
+&emsp;&emsp;(i) a prize is awarded or offered;
+
+&emsp;&emsp;(ii) the outcome depends predominately on the skill of the contestant; and
+
+&emsp;&emsp;(iii) a purchase, payment, or donation is required or implied to be required to enter the contest; and
+
+&emsp;(D) the term “sweepstakes” means a game of chance for which no consideration is required to enter.
+
+(2) Except as provided in paragraph (4), any matter otherwise legally acceptable in the mails which is described in paragraph (3) is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs.
+
+(3) Matter described in this paragraph is any matter that—
+
+&emsp;(A)(i) includes entry materials for a sweepstakes or a promotion that purports to be a sweepstakes; and
+
+&emsp;(ii)(I) does not contain a statement that discloses in the mailing, in the rules, and on the order or entry form, that no purchase is necessary to enter such sweepstakes;
+
+&emsp;(II) does not contain a statement that discloses in the mailing, in the rules, and on the order or entry form, that a purchase will not improve an individual's chances of winning with such entry;
+
+&emsp;(III) does not state all terms and conditions of the sweepstakes promotion, including the rules and entry procedures for the sweepstakes;
+
+&emsp;(IV) does not disclose the sponsor or mailer of such matter and the principal place of business or an address at which the sponsor or mailer may be contacted;
+
+&emsp;(V) does not contain sweepstakes rules that state—
+
+&emsp;&emsp;(aa) the estimated odds of winning each prize;
+
+&emsp;&emsp;(bb) the quantity, estimated retail value, and nature of each prize; and
+
+&emsp;&emsp;(cc) the schedule of any payments made over time;
+
+&emsp;(VI) represents that individuals not purchasing products or services may be disqualified from receiving future sweepstakes mailings;
+
+&emsp;(VII) requires that a sweepstakes entry be accompanied by an order or payment for a product or service previously ordered;
+
+&emsp;(VIII) represents that an individual is a winner of a prize unless that individual has won such prize; or
+
+&emsp;(IX) contains a representation that contradicts, or is inconsistent with sweepstakes rules or any other disclosure required to be made under this subsection, including any statement qualifying, limiting, or explaining the rules or disclosures in a manner inconsistent with such rules or disclosures;
+
+&emsp;(B)(i) includes entry materials for a skill contest or a promotion that purports to be a skill contest; and
+
+&emsp;(ii)(I) does not state all terms and conditions of the skill contest, including the rules and entry procedures for the skill contest;
+
+&emsp;(II) does not disclose the sponsor or mailer of the skill contest and the principal place of business or an address at which the sponsor or mailer may be contacted; or
+
+&emsp;(III) does not contain skill contest rules that state, as applicable—
+
+&emsp;&emsp;(aa) the number of rounds or levels of the contest and the cost to enter each round or level;
+
+&emsp;&emsp;(bb) that subsequent rounds or levels will be more difficult to solve;
+
+&emsp;&emsp;(cc) the maximum cost to enter all rounds or levels;
+
+&emsp;&emsp;(dd) the estimated number or percentage of entrants who may correctly solve the skill contest or the approximate number or percentage of entrants correctly solving the past 3 skill contests conducted by the sponsor;
+
+&emsp;&emsp;(ee) the identity or description of the qualifications of the judges if the contest is judged by other than the sponsor;
+
+&emsp;&emsp;(ff) the method used in judging;
+
+&emsp;&emsp;(gg) the date by which the winner or winners will be determined and the date or process by which prizes will be awarded;
+
+&emsp;&emsp;(hh) the quantity, estimated retail value, and nature of each prize; and
+
+&emsp;&emsp;(ii) the schedule of any payments made over time; or
+
+&emsp;(C) includes any facsimile check that does not contain a statement on the check itself that such check is not a negotiable instrument and has no cash value.
+
+(4) Matter that appears in a magazine, newspaper, or other periodical shall be exempt from paragraph (2) if such matter—
+
+&emsp;(A) is not directed to a named individual; or
+
+&emsp;(B) does not include an opportunity to make a payment or order a product or service.
+
+(5) Any statement, notice, or disclaimer required under paragraph (3) shall be clearly and conspicuously displayed. Any statement, notice, or disclaimer required under subclause (I) or (II) of paragraph (3)(A)(ii) shall be displayed more conspicuously than would otherwise be required under the preceding sentence.
+
+(6) In the enforcement of paragraph (3), the Postal Service shall consider all of the materials included in the mailing and the material and language on and visible through the envelope or outside cover or wrapper in which those materials are mailed.
+
+(<i>l</i>)(1) Any person who uses the mails for any matter to which subsection (h), (i), (j), or (k) applies shall adopt reasonable practices and procedures to prevent the mailing of such matter to any person who, personally or through a conservator, guardian, or individual with power of attorney—
+
+&emsp;(A) submits to the mailer of such matter a written request that such matter should not be mailed to such person; or
+
+&emsp;(B)(i) submits such a written request to the attorney general of the appropriate State (or any State government officer who transmits the request to that attorney general); and
+
+&emsp;(ii) that attorney general transmits such request to the mailer.
+
+(2) Any person who mails matter to which subsection (h), (i), (j), or (k) applies shall maintain or cause to be maintained a record of all requests made under paragraph (1). The records shall be maintained in a form to permit the suppression of an applicable name at the applicable address for a 5-year period beginning on the date the written request under paragraph (1) is submitted to the mailer.
+
+(m) Except as otherwise provided by law, proceedings concerning the mailability of matter under this chapter and chapters 71 and 83 of title 18 shall be conducted in accordance with chapters 5 and 7 of title 5.
+
+(n) The district courts, together with the District Court of the Virgin Islands and the District Court of Guam, shall have jurisdiction, upon cause shown, to enjoin violations of section 1716 of title 18.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 745; Pub. L. 91–662, §6(1), Jan. 8, 1971, 84 Stat. 1974; Pub. L. 92–191, §2, Dec. 15, 1971, 85 Stat. 647; Pub. L. 89–544, §26(h)(2), as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 423; Pub. L. 97–398, §5, Dec. 31, 1982, 96 Stat. 2011; Pub. L. 101–493, §2, Oct. 31, 1990, 104 Stat. 1184; Pub. L. 101–524, §2(a), Nov. 6, 1990, 104 Stat. 2301; Pub. L. 102–71, §2(1), July 10, 1991, 105 Stat. 330; Pub. L. 106–168, title I, §§102, 103, 110(a), Dec. 12, 1999, 113 Stat. 1806, 1808, 1817.)
 
 #### References in Text
-
-Sections 1714 and 1718 of title 18, referred to in subsec. (a), were repealed by Pub. L. 101–647, title XII, §1210(b), (c), Nov. 29, 1990, 104 Stat. 4832.
 
 Section 26 of the Animal Welfare Act, referred to in subsec. (a), is section 26(a)–(h)(1) of Pub. L. 89–544 as added by Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 421, which is classified to section 2156 of Title 7, Agriculture.
 
 Section 2 of the Poison Prevention Packaging Act of 1970, referred to in subsec. (f), is classified to section 1471 of Title 15, Commerce and Trade.
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–168, §110(a), struck out “1714,” after “1463,” and “1718,” after “1717,”.
+
+Subsec. (h). Pub. L. 106–168, §102(1)(A), in introductory provisions, substituted “which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government” for “contains a seal, insignia, trade or brand name, or any other term or symbol that reasonably could be interpreted or construed as implying any Federal Government connection, approval or endorsement”.
+
+Subsec. (h)(2)(C). Pub. L. 106–168, §102(1)(B), added subpar. (C).
+
+Subsec. (i). Pub. L. 106–168, §102(2)(A), in introductory provisions, substituted “which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government” for “contains a seal, insignia, trade or brand name, or any other term or symbol that reasonably could be interpreted or construed as implying any Federal Government connection, approval or endorsement”.
+
+Subsec. (i)(2)(C). Pub. L. 106–168, §102(2)(B), added subpar. (C).
+
+Subsec. (j). Pub. L. 106–168, §102(3), (4), added subsec. (j). Former subsec. (j) redesignated (m).
+
+Subsec. (k). Pub. L. 106–168, §§102(3), 103, added subsec. (k). Former subsec. (k) redesignated (n).
+
+Subsec. (<i>l</i>). Pub. L. 106–168, §103, added subsec. (<i>l</i>).
+
+Subsecs. (m), (n). Pub. L. 106–168, §102(3), redesignated subsecs. (j) and (k) as (m) and (n), respectively.
 
 1991—Subsecs. (i) to (k). Pub. L. 102–71 redesignated subsec. (i), relating to conduct of proceedings concerning mailability of certain matter, as (j), and former subsec. (j), relating to jurisdiction of district courts, as (k).
 
@@ -104,6 +234,10 @@ Subsec. (j). Pub. L. 101–524 redesignated subsec. (g) as (j).
 
 Subsec. (g). Pub. L. 92–191 added subsec. (g).
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–168, title I, §111, Dec. 12, 1999, 113 Stat. 1817, provided that: “Except as provided in section 108 or 110(b) \[enacting section 3017 of this title, amending section 3013 of this title, and enacting provisions set out as notes under sections 3013 and 3017 of this title\], this title \[see Short Title of 1999 Amendment note below\] shall take effect 120 days after the date of the enactment of this Act \[Dec. 12, 1999\].”
+
 #### Effective Date of 1990 Amendments
 
 Section 6 of Pub. L. 101–524 provided that: “The provisions of this Act \[enacting section 413 of this title, amending this section and section 3005 of this title, and enacting provisions set out as notes below\] shall take effect on the date of the enactment of this Act \[Nov. 6, 1990\], except the amendments made by section 2 \[amending this section and section 3005 of this title\] shall apply to matter deposited for mailing and delivery on or after 180 days after the date of the enactment of this Act.”
@@ -120,6 +254,10 @@ Section 6 of Pub. L. 91–662 provided that the amendment made by that section i
 
 Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–168, title I, §101, Dec. 12, 1999, 113 Stat. 1806, provided that: “This title \[enacting sections 3016 and 3017 of this title, amending this section and sections 3005, 3007, 3011, 3012, and 3013 of this title, repealing section 3006 of this title, and enacting provisions set out as notes under this section and sections 3013, 3016, and 3017 of this title\] may be cited as the ‘Deceptive Mail Prevention and Enforcement Act’.”
+
 #### Short Title of 1990 Amendments
 
 Section 1 of Pub. L. 101–524 provided that: “This Act \[enacting section 413 of this title, amending this section and section 3005 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Deceptive Mailings Prevention Act of 1990’.”
@@ -129,6 +267,18 @@ Section 1 of Pub. L. 101–493 provided that: “This Act \[amending this sectio
 #### Short Title of 1983 Amendment
 
 Pub. L. 98–186, §1, Nov. 30, 1983, 97 Stat. 1315, provided: “That this Act \[enacting sections 3012 and 3013 of this title, amending section 3005 of this title, and enacting provisions set out as notes under sections 3005 and 3012 of this title\] may be cited as the ‘Mail Order Consumer Protection Amendments of 1983’.”
+
+#### State Law Not Preempted
+
+Pub. L. 106–168, title I, §109, Dec. 12, 1999, 113 Stat. 1816, provided that:
+
+“(a)
+
+In General.—Nothing in the provisions of this title \[see Short Title of 1999 Amendment note above\] (including the amendments made by this title) or in the regulations promulgated under such provisions shall be construed to preempt any provision of State or local law that imposes more restrictive requirements, regulations, damages, costs, or penalties. No determination by the Postal Service that any particular piece of mail or class of mail is in compliance with such provisions of this title shall be construed to preempt any provision of State or local law.
+
+“(b)
+
+Effect on State Court Proceedings.—Nothing contained in this section shall be construed to prohibit an authorized State official from proceeding in State court on the basis of an alleged violation of any general civil or criminal statute of such State or any specific civil or criminal statute of such State.”
 
 #### Coordination of Functions With Department of Health and Human Services
 
@@ -140,7 +290,5 @@ Pub. L. 87–793, §307, Oct. 11, 1962, 76 Stat. 841, provided that: “In order
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3005 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 3005, 3012, 3017 of this title.
 

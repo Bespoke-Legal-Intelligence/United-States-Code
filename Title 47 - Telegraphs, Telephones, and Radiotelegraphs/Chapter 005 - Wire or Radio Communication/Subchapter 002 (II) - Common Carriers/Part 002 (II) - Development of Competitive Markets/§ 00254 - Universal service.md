@@ -90,7 +90,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (B) Educational providers and libraries
 
-&emsp;&emsp;All telecommunications carriers serving a geographic area shall, upon a bona fide request for any of its services that are within the definition of universal service under subsection (c)(3) of this section, provide such services to elementary schools, secondary schools, and libraries for educational purposes at rates less than the amounts charged for similar services to other parties. The discount shall be an amount that the Commission, with respect to interstate services, and the States, with respect to intrastate services, determine is appropriate and necessary to ensure affordable access to and use of such services by such entities. A telecommunications carrier providing service under this paragraph shall—
+&emsp;&emsp;All telecommunications carriers serving a geographic area shall, upon a bona fide request for any of its services that are within the definition of universal service under subsection (c)(3) of this section, provide such services to elementary schools, secondary schools, and libraries for educational purposes at rates less than the amounts charged for similar services to other parties. The discount shall be an amount that the Commission, with respect to interstate services, andthe States, with respect to intrastate services, determine is appropriate and necessary to ensure affordable access to and use of such services by such entities. A telecommunications carrier providing service under this paragraph shall—
 
 &emsp;&emsp;&emsp;(i) have an amount equal to the amount of the discount treated as an offset to its obligation to contribute to the mechanisms to preserve and advance universal service, or
 
@@ -166,7 +166,7 @@ The Library Services and Technology Act, referred to in subsec. (h)(4), is subti
 
 #### Universal Service Fund Payment Schedule
 
-Pub. L. 105–33, title III, §3006, Aug. 5, 1997, 111 Stat. 269, related to appropriations to the Universal Service Fund in support of programs established pursuant to rules implementing this section and adjustment of payments by telecommunications carriers and other providers of interstate telecommunications prior to repeal by Pub. L. 105–119, title VI, §622, Nov. 26, 1997, 111 Stat. 2521. Section 622 of Pub. L. 105–119 provided further that: “This section shall be deemed a section of the Balanced Budget Act of 1997 \[Pub. L. 105–33, see Tables for classification\] for the purposes of section 10213 of that Act (111 Stat. 712) \[2 U.S.C. 902 note\], and shall be scored pursuant to paragraph (2) of such section.”
+Pub. L. 105–33, title III, §3006, Aug. 5, 1997, 111 Stat. 269, related to appropriations to the Universal Service Fund in support of programs established pursuant to rules implementing this section and adjustment of payments by telecommunications carriers and other providers of interstate telecommunications prior to repeal by Pub. L. 105–119, title VI, §622, Nov. 26, 1997, 111 Stat. 2521. Section 622 of Pub. L. 105–119 provided further that: “This section shall be deemed a section of the Balanced Budget Act of 1997 \[Pub. L. 105–33, see Tablesfor classification\] for the purposes of section 10213 of that Act (111 Stat. 712) \[2 U.S.C. 902 note\], and shall be scored pursuant to paragraph (2) of such section.”
 
 #### Section Referred to in Other Sections
 

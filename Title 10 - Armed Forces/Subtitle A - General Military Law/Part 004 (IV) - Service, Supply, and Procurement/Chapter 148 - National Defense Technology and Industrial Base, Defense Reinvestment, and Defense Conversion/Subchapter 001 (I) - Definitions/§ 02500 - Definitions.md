@@ -130,7 +130,7 @@ Section 4101 of Pub. L. 102–484 provided that: “Congress makes the following
 
 #### Purposes of Title XLII of Pub. L. 102–484
 
-Section 4201 of title XLII of div. D of Pub. L. 102–484 provided that: “The purposes of this title \[see Tables for classification\] are to consolidate, revise, clarify, and reenact policies and requirements, and to enact additional policies and requirements, relating to the national technology and industrial base, defense reinvestment, and defense conversion programs that further national security objectives.”
+Section 4201 of title XLII of div. D of Pub. L. 102–484 provided that: “The purposes of this title \[see Tablesfor classification\] are to consolidate, revise, clarify, and reenact policies and requirements, and to enact additional policies and requirements, relating to the national technology and industrial base, defense reinvestment, and defense conversion programs that further national security objectives.”
 
 #### Transition Provision; “Defense Critical Technology” Defined
 

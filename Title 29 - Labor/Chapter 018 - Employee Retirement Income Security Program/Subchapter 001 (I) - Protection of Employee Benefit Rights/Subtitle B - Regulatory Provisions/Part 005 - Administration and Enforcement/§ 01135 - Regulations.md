@@ -14,7 +14,7 @@ Regulatory Treatment of Assets of Real Estate Entities.—
 
 &emsp;“(1)
 
-In general.—Except as a defense, no rule or regulation adopted pursuant to the Secretary's proposed regulation defining ‘plan assets’ for purposes of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] (50 Fed. Reg. 961, January 8, 1985, as modified by 50 Fed. Reg. 6361, February 15,1985), or any reproposal thereof prior to the adoption of the regulations required to be issued in accordance with subsection (d), shall apply to any asset of a real estate entity in which a plan, account, or arrangement subject to such Act invests if—
+In general.—Except as a defense, no rule or regulation adopted pursuant to the Secretary's proposed regulation defining ‘plan assets’ for purposes of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] (50 Fed. Reg. 961, January 8, 1985, as modified by 50 Fed. Reg. 6361, February 15, 1985), or any reproposal thereof prior to the adoption of the regulations required to be issued in accordance with subsection (d), shall apply to any asset of a real estate entity in which a plan, account, or arrangement subject to such Act invests if—
 
 &emsp;&emsp;“(A) any interest in the entity is first offered to a plan, account, or arrangement subject to such Act investing in the entity (hereinafter in this section referred to as a ‘plan investor’) on or before the date which is 120 days after the date of publication of such rule or regulation as a final rule or regulation;
 
@@ -80,7 +80,7 @@ Definitions and Special Rules.—For purposes of this section—
 
 &emsp;&emsp;“(E) any requirement that advance notice of a transfer or assignment be given to the entity and any requirement regarding execution of documentation evidencing such transfer or assignment (including documentation setting forth representations from either or both of the transferor or transferee as to compliance with any restriction or requirement described in this section or requiring compliance with the entity's governing instruments);
 
-&emsp;&emsp;“(F) any restriction on substitution of an assignee as a limited partner of a partnership, including a general partner consent requirement: <i>Provided</i>, That the economic benefits of ownership of the assignor may be transferred or assigned without regard to such restriction or consent (other than compliance with any other restriction described in this section);
+&emsp;&emsp;“(F) any restriction on substitution of an assignee as a limited partner of a partnership, including a general partner consent requirement: <i>Pro</i><i>vided</i>, That the economic benefits of ownership of the assignor may be transferred or assigned without regard to such restriction or consent (other than compliance with any other restriction described in this section);
 
 &emsp;&emsp;“(G) any administrative procedure which establishes an effective date, or an event such as the completion of the offering, prior to which a transfer or assignment will not be effective; and
 
@@ -88,7 +88,7 @@ Definitions and Special Rules.—For purposes of this section—
 
 “(c)
 
-No Effect on Secretary's Authority Other Than As Provided.—Except as provided in subsection\(a), nothing in this section shall limit the authority of the Secretary of Labor to issue regulations or otherwise interpret section 3(21) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(21)\].
+No Effect on Secretary's Authority Other Than As Provided.—Except as provided in subsection (a), nothing in this section shall limit the authority of the Secretary of Labor to issue regulations or otherwise interpret section 3(21) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(21)\].
 
 “(d)
 

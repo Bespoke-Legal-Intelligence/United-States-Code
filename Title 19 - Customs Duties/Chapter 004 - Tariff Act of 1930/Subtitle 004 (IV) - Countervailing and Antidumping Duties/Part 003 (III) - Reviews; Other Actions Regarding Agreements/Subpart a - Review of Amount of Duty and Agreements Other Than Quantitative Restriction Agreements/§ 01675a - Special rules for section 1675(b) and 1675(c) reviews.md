@@ -52,7 +52,7 @@
 
 #### (6) Magnitude of margin of dumping and net countervailable subsidy; nature of countervailable subsidy
 
-&emsp;In making a determination under section 1675(b) or (c) of this title, the Commission mayconsider the magnitude of the margin of dumping or the magnitude of the net countervailable subsidy. If a countervailable subsidy is involved the Commission shall consider information regarding the nature of the countervailable subsidy and whether the subsidy is a subsidy described in Article 3 or 6.1 of the Subsidies Agreement.
+&emsp;In making a determination under section 1675(b) or (c) of this title, the Commission may consider the magnitude of the margin of dumping or the magnitude of the net countervailable subsidy. If a countervailable subsidy is involved the Commission shall consider information regarding the nature of the countervailable subsidy and whether the subsidy is a subsidy described in Article 3 or 6.1 of the Subsidies Agreement.
 
 #### (7) Cumulation
 
@@ -114,7 +114,7 @@
 
 #### (3) Magnitude of the margin of dumping
 
-&emsp;The administering authority shall provide to the Commission the magnitude of the margin of dumping that is likely to prevail if theorder is revoked or the suspended investigation is terminated. The administering authority shall normally choose a margin that was determined under section 1673d of this title or under subsection (a) or (b)(1) of section 1675 of this title.
+&emsp;The administering authority shall provide to the Commission the magnitude of the margin of dumping that is likely to prevail if the order is revoked or the suspended investigation is terminated. The administering authority shall normally choose a margin that was determined under section 1673d of this title or under subsection (a) or (b)(1) of section 1675 of this title.
 
 #### (4) Special rule
 

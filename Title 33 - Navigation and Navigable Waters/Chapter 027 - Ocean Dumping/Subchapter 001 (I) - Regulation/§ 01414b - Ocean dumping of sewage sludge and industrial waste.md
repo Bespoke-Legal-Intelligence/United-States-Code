@@ -48,7 +48,7 @@
 
 #### (4) Waiver of fees
 
-&emsp;(A) The Administrator shall waive all fees under this subsection, other than the portion of fees required to be paid to the Administrator under paragraph (2)(B) for agency activities, for any person who has entered into a compliance agreement which meets the requirements of subsection (c)(2) of this section.
+&emsp;(A) The Administrator shall waive all fees under this subsection, other than the portionof fees required to be paid to the Administrator under paragraph (2)(B) for agency activities, for any person who has entered into a compliance agreement which meets the requirements of subsection (c)(2) of this section.
 
 &emsp;(B) The Administrator shall reimpose fees under this subsection for a person for whom such fees are waived under subparagraph (A) if the Administrator determines that—
 
@@ -138,7 +138,7 @@
 
 &emsp;(A) Each State that is a party to a compliance agreement or an enforcement agreement under this subsection shall establish an interest bearing account, to be known as a Clean Oceans Fund, into which a person shall pay fees and penalties in accordance with subsections (b)(2)(C) and (d)(2)(C)(i) of this section, respectively.
 
-&emsp;(B) A State which establishes a Clean Oceans Fund pursuant to this paragraph shall allocateand pay from the fund each year, to each person in the State which has entered into a compliance agreement or enforcement agreement under this subsection, a portion of amounts in the fund on the last day of that year which is equal to the sum of—
+&emsp;(B) A State which establishes a Clean Oceans Fund pursuant to this paragraph shall allocate and pay from the fund each year, to each person in the State which has entered into a compliance agreement or enforcement agreement under this subsection, a portion of amounts in the fund on the last day of that year which is equal to the sum of—
 
 &emsp;&emsp;(i) amounts paid by the person into the fund in that year as fees pursuant to subsection (b)(2)(C) of this section and as penalties pursuant to subsection (d)(2)(C)(i) of this section;
 
@@ -258,7 +258,7 @@
 
 &emsp;&emsp;&emsp;(i) monitoring, research, and related activities consistent with the program developed pursuant to subsection (j)(1) of this section; and
 
-&emsp;&emsp;&emsp;(ii) preparing annual reports to the Congress pursuant to subsection (j)(4) of this section which describe the results of such monitoring, research, and activities.
+&emsp;&emsp;&emsp;(ii) preparing annual reports to the Congress pursuant to subsection (j)(4) of thissection which describe the results of such monitoring, research, and activities.
 
 #### (2) Deposits into State water pollution control revolving fund
 
@@ -282,7 +282,7 @@
 
 &emsp;&emsp;&emsp;(II) for developing and implementing a conservation and management plan under section 320 of such Act \[33 U.S.C. 1330\]; or
 
-&emsp;&emsp;&emsp;(III) for implementing technologies and management practices necessary for controlling pollutant inputs adversely affecting the New York Bight, as such inputs are identified in the New York Bight Restoration Plan prepared under section 2301 ofthe Marine Plastic Pollution Research and Control Act of 1987; and
+&emsp;&emsp;&emsp;(III) for implementing technologies and management practices necessary for controlling pollutant inputs adversely affecting the New York Bight, as such inputs are identified in the New York Bight Restoration Plan prepared under section 2301 of the Marine Plastic Pollution Research and Control Act of 1987; and
 
 &emsp;&emsp;(ii) for providing assistance to any person in the State who was not required to pay such penalties for construction of treatment works (as defined in section 212 of the Federal Water Pollution Control Act \[33 U.S.C. 1292\]) which are publicly owned.
 
@@ -330,7 +330,7 @@
 
 #### (1) In general
 
-&emsp;The Governor of each State that is a party to a compliance agreement or an enforcement agreement under subsection (c) of this section shall submit to the Administrator on September 30 of 1989 and of every year thereafter until the Administrator determines that ocean dumping of sewage sludge and industrial waste by persons located in that State has terminated, a report which describes—
+&emsp;The Governor of each State that is a party to a compliance agreement or an enforcement agreement under subsection (c) of this section shall submit to the Administrator on September 30 of 1989 and of every year thereafter until the Administrator determines that oceandumping of sewage sludge and industrial waste by persons located in that State has terminated, a report which describes—
 
 &emsp;&emsp;(A) the efforts of each person located in the State to comply with a compliance agreement or enforcement agreement entered into by the person pursuant to subsection (c) of this section, including the extent to which such person has complied with deadlines established by the schedule included in such agreement;
 
@@ -350,7 +350,7 @@
 
 &emsp;&emsp;(A) progress being made by persons issued permits under section 1412 of this title for transportation or dumping of sewage sludge or industrial waste in developing alternative systems for managing sewage sludge and industrial waste;
 
-&emsp;&emsp;(B) the efforts of each such person to comply with a compliance agreement or enforcement agreement entered into by the personpursuant to subsection (c) of this section, including the extent to which such person has complied with deadlines established by the schedule included in such agreement;
+&emsp;&emsp;(B) the efforts of each such person to comply with a compliance agreement or enforcement agreement entered into by the person pursuant to subsection (c) of this section, including the extent to which such person has complied with deadlines established by the schedule included in such agreement;
 
 &emsp;&emsp;(C) progress being made by the Administrator and others in identifying and implementing alternative systems for the management of sewage sludge and industrial waste; and
 

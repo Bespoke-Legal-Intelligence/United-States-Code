@@ -46,7 +46,7 @@ Effective Date.—The amendments made by this Act \[amending this section and se
 
 “(b)
 
-Budget Act.—Any new spending authority (within the meaning of section 401 of the Congressional Budget Act of 1974 \[2 U.S.C. 651\]) which is provided under this Act shall be effective for any fiscal year onlyto the extent or in such amounts as are provided in appropriations Acts.”
+Budget Act.—Any new spending authority (within the meaning of section 401 of the Congressional Budget Act of 1974 \[2 U.S.C. 651\]) which is provided under this Act shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriations Acts.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -54,7 +54,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### National Commission on New Technological Uses of Copyrighted Works
 
-Pub. L. 93–573, title II, §§201–208, Dec. 31, 1974, 88 Stat. 1873–1875, as amended by Pub. L. 94–314, June 21, 1976, 90 Stat. 692; Pub. L. 95–146, Oct. 28, 1977, 91 Stat. 1226, created in the Library of Congress a National Commission on New Technological Uses of Copyrighted Works to study and compile data on (1) the reproduction and use of copyrighted works of authorship (A) in conjunction with automatic systems capable of storing, processing, retrieving, and transferring information, and (B) by various forms of machine reproduction, not including reproduction by or at the request of instructors for use in face-to-face teaching activities, and (2) the creation of new works by the application or intervention of such automatic systems or machine reproduction, required the Commission to submit a final report to the President and Congress on or before July 31, 1978, and provided that the Commission terminated the sixtieth day after submitting the final report.
+Pub. L. 93–573, title II, §§201–208, Dec. 31, 1974, 88 Stat. 1873–1875, as amended by Pub. L. 94–314, June 21, 1976, 90Stat. 692; Pub. L. 95–146, Oct. 28, 1977, 91 Stat. 1226, created in the Library of Congress a National Commission on New Technological Uses of Copyrighted Works to study and compile data on (1) the reproduction and use of copyrighted works of authorship (A) in conjunction with automatic systems capable of storing, processing, retrieving, and transferring information, and (B) by various forms of machine reproduction, not including reproduction by or at the request of instructors for use in face-to-face teaching activities, and (2) the creation of new works by the application or intervention of such automatic systems or machine reproduction, required the Commission to submit a final report to the President and Congress on or before July 31, 1978, and provided that the Commission terminated the sixtieth day after submitting the final report.
 
 #### Federal Rules of Civil Procedure
 

@@ -4,7 +4,7 @@
 
 #### (1) Regulations required
 
-&emsp;Before the end of the 9-month period beginning on December 19, 1991, the Board, after consultation with each agency referred to in section 4309(a) of this title and public notice and opportunity for comment, shall prescribe regulations to carry out the purpose and provisions of this chapter.
+&emsp;Before the end of the 9-month period beginning on December 19, 1991, the Board, afterconsultation with each agency referred to in section 4309(a) of this title and public notice and opportunity for comment, shall prescribe regulations to carry out the purpose and provisions of this chapter.
 
 #### (2) Effective date of regulations
 

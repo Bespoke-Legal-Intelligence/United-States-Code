@@ -50,7 +50,7 @@ Amendment by Pub. L. 95–630 effective Nov. 10, 1978, see section 1505 of Pub. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3103 of this title.
+This section is referred to in sections 1831y, 3103 of this title.
 
 <i><sup>1</sup></i><i> So in original. Text reading “(2) section 1818 of this title, by the Director” probably should read “(D) the Director”.</i>
 

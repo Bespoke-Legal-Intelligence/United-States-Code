@@ -32,17 +32,25 @@ Historical and Revision Notes
 
 10:4313(a)(1) (words before “may be paid”).
 
+&nbsp;
+
 40726(a) (less words before cl. (1))
 
 10:4313(b).
+
+&nbsp;
 
 40726(b)
 
 10:4313(a)(1) (words beginning “may be paid”).
 
+&nbsp;
+
 40726(c)
 
 10:4313(a)(2).
+
+&nbsp;
 
 In this section, the provisions for a junior competitor to be paid a subsistence allowance and a travel allowance prescribed by “the Secretary of the Army” are retained notwithstanding section 1612(d) of The National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106, 110 Stat. 517) which transferred the Civilian Marksmanship Program, including the National Matches, from the Secretary of the Army to the corporation. The conforming amendments in section 1624 of the Act (110 Stat. 522) did not repeal the authority of the Secretary of the Army to prescribe National Matches under 10:4312 or to prescribe subsistence and travel allowances for competitors under 10:4313.
 

@@ -6,7 +6,7 @@ Motion To Determine Present Mental Condition of Convicted Defendant.—A defenda
 
 (b)
 
-Psychiatric or Psychological Examination and Report.—Prior to the date of the hearing, the court may order that a psychiatric or psychological examination of the defendant be conducted, and that a psychiatric or psychological report be filed with the court, pursuant to the provisions of section 4247(b) and (c). In addition to the information required to be included in the psychiatric or psychological report pursuant to the provisions of section 4247(c), if the report includes an opinion by the examiners that the defendant is presently suffering from a mental disease or defect but that it is not such as to require his custody for care or treatment in a suitable facility, the report shall also include an opinion by the examiner concerning the sentencing alternatives that could best accord the defendant the kind of treatment he does need.
+Psychiatric or Psychological Examination and Report.—Prior to the date of the hearing, the court may order that a psychiatric orpsychological examination of the defendant be conducted, and that a psychiatric or psychological report be filed with the court, pursuant to the provisions of section 4247(b) and (c). In addition to the information required to be included in the psychiatric or psychological report pursuant to the provisions of section 4247(c), if the report includes an opinion by the examiners that the defendant is presently suffering from a mental disease or defect but that it is not such as to require his custody for care or treatment in a suitable facility, the report shall also include an opinion by the examiner concerning the sentencing alternatives that could best accord the defendant the kind of treatment he does need.
 
 (c)
 
@@ -14,7 +14,7 @@ Hearing.—The hearing shall be conducted pursuant to the provisions of section 
 
 (d)
 
-Determination and Disposition.—If, after the hearing, the court finds by a preponderanceof the evidence that the defendant is presently suffering from a mental disease or defect and that he should, in lieu of being sentenced to imprisonment, be committed to a suitable facility for care or treatment, the court shall commit the defendant to the custody of the Attorney General. The Attorney General shall hospitalize the defendant for care or treatment in a suitable facility. Such a commitment constitutes a provisional sentence of imprisonment to the maximum term authorized by law for the offense for which the defendant was found guilty.
+Determination and Disposition.—If, after the hearing, the court finds by a preponderance of the evidence that the defendant is presently suffering from a mental disease or defect and that he should, in lieu of being sentenced to imprisonment, be committed to a suitable facility for care or treatment, the court shall commit the defendant to the custody of the Attorney General. The Attorney General shall hospitalize the defendant for care or treatment in a suitable facility. Such a commitment constitutes a provisional sentence of imprisonment to the maximum term authorized by law for the offense for which the defendant was found guilty.
 
 (e)
 

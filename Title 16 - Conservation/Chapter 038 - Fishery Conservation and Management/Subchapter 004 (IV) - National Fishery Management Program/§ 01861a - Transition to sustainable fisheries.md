@@ -110,7 +110,7 @@ Section 116(b) of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, ti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 15 section 713c–3; title 46 App. section 1279f.
+This section is referred to in title 15 section 713c–3; title 42 section 3149; title 46 App. section 1279f.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

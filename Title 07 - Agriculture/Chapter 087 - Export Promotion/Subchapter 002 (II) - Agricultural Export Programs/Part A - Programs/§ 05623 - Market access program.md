@@ -28,6 +28,8 @@ An eligible trade organization shall be—
 
 &emsp;(3) a private organization that promotes the export and sale of agricultural commodities if the Secretary determines that such organization would significantly contribute to United States export market development.
 
+#### (e) Approved marketing plan
+
 #### (1) In general
 
 &emsp;A marketing plan submitted by an eligible trade organization under this section shall describe the advertising or other market oriented export promotion activities to be carried out by the eligible trade organization with respect to which assistance under this section is being requested.
@@ -108,7 +110,7 @@ An eligible trade organization shall be—
 
 #### (3) Staged reduction in assistance
 
-&emsp;In the case of participants that received assistance under section 1736s of this title prior to November 28, 1990, and with respect to which assistance under this section would be limited under paragraph (2), any such reduction in assistance shall be phased down in equal increments over a 5-year period.
+&emsp;In the case of participants that received assistance under section 1736s of this title priorto November 28, 1990, and with respect to which assistance under this section would be limited under paragraph (2), any such reduction in assistance shall be phased down in equal increments over a 5-year period.
 
 (Pub. L. 95–501, title II, §203, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3674; amended Pub. L. 102–237, title III, §309, Dec. 13, 1991, 105 Stat. 1856; Pub. L. 103–66, title I, §1302(b)(1), Aug. 10, 1993, 107 Stat. 330; Pub. L. 103–465, title IV, §411(d), Dec. 8, 1994, 108 Stat. 4963; Pub. L. 104–127, title II, §244(a)(1), (b), Apr. 4, 1996, 110 Stat. 967, 968.)
 
@@ -139,6 +141,10 @@ Subsec. (f)(2)(C) to (E). Pub. L. 103–465, §411(d)(2), inserted “or” at e
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.
+
+#### Prohibition on Assistance to Mink Associations
+
+Pub. L. 105–277, div. A, §101(a) \[title VII, §718\], Oct. 21, 1998, 112 Stat. 2681, 2681–27, as amended by Pub. L. 106–31, title V, §5001(b), May 21, 1999, 113 Stat. 109, provided that: “Hereafter, none of the funds made available in annual appropriations Acts may be used to provide assistance to, or to pay the salaries of personnel to carry out a market promotion/market access program pursuant to section 203 of the Agricultural Trade Act of 1978 (7 U.S.C. 5623) that provides assistance to the United States Mink Export Development Council or any mink industry trade association.”
 
 #### Secretarial Actions To Achieve Savings in Market Access Program; Regulations
 
@@ -186,7 +192,7 @@ Independent audits.—If as a result of an evaluation or audit of activities of 
 
 &emsp;“(3)
 
-Tobacco.—No funds made available under the market access program may be used for activities todevelop, maintain, or expand foreign markets for tobacco.
+Tobacco.—No funds made available under the market access program may be used for activities to develop, maintain, or expand foreign markets for tobacco.
 
 “(c)
 

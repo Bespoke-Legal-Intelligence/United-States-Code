@@ -22,7 +22,7 @@ Pub. L. 100–418, title VI, §6401, Aug. 23, 1988, 102 Stat. 1542, which provid
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–383, §1, Aug. 21, 1986, 100 Stat. 813, provided: “That this Act \[amending sections 1862, 1864a, 1869, and 1870 of this title and section 5316 of Title 5, Government Organization and Employees, repealing sections 1876 to 1879 of this title, and enacting provisions set out asnotes under sections 1885a and 6614 of this title\] may be cited as the ‘National Science Foundation Authorization Act for Fiscal Year 1987’.”
+Pub. L. 99–383, §1, Aug. 21, 1986, 100 Stat. 813, provided: “That this Act \[amending sections 1862, 1864a, 1869, and 1870 of this title and section 5316 of Title 5, Government Organization and Employees, repealing sections 1876 to 1879 of this title, and enacting provisions set out as notes under sections 1885a and 6614 of this title\] may be cited as the ‘National Science Foundation Authorization Act for Fiscal Year 1987’.”
 
 #### Short Title of 1985 Amendment
 
@@ -90,7 +90,7 @@ I74Section 21. Executive Committee
 
 (a) There is hereby established in the National Science Foundation a new office with the title of Director of the National Science Foundation. The Director of the National Science Foundation, hereafter in this Part referred to as the Director, shall be appointed by the President by and with the advice and consent of the Senate. Before any person is appointed as Director the President shall afford the Board an opportunity to make recommendations to him with respect to such appointment. The Director shall serve for a term of six years unless sooner removed by the President. The Director shall not engage in any business, vocation or employment other than that of serving as such Director, nor shall he, except with the approval of the Board, hold any office in, or act in any capacity for, any organization, agency, or institution with which the Foundation makes any contract or other arrangement under the National Science Foundation Act of 1950 \[42 U.S.C. 1861 et seq.\].
 
-(b) Except to the extent inconsistent with the provisions of section 23(b)(2) of this reorganization plan, all functions of the office of Director of the National Science Foundation abolished by the provisions of 23(a)(2) hereof are hereby transferred to the office of Director established by the provisions of subsection (a) of this section.
+(b) Except to the extent inconsistent with the provisions of section 23(b)(2) of this reorganization plan, all functions of the office of Director of the National Science Foundation abolished by the provisions of23(a)(2) hereof are hereby transferred to the office of Director established by the provisions of subsection (a) of this section.
 
 (c) The Director, ex officio, shall be an additional member of the Board and, except in respect of compensation and tenure, shall be coordinate with other members of the Board. He shall be a voting member of the Board and shall be eligible for election by the Board as chairman or vice chairman of the Board. \[As amended Pub. L. 88–426, title III, §305(41)(C), Aug. 14, 1964, 78 Stat. 428.\]
 

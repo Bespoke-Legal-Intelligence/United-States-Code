@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(i) are at risk of being referred to special education based on these difficulties; or
 
-&emsp;&emsp;&emsp;(ii) have been evaluated under section 614 of the Individuals with DisabilitiesEducation Act \[20 U.S.C. 1414\] but, in accordance with section 614(b)(5) of such Act, have not been identified as being a child with a disability (as defined in section 602 of the such <sup>2</sup> Act \[20 U.S.C. 1401\]).
+&emsp;&emsp;&emsp;(ii) have been evaluated under section 614 of the Individuals with Disabilities Education Act \[20 U.S.C. 1414\] but, in accordance with section 614(b)(5) of such Act, have not been identified as being a child with a disability (as defined in section 602 of the such <sup>2</sup> Act \[20 U.S.C. 1401\]).
 
 &emsp;&emsp;(E) A description of how the State educational agency—
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;(ii) will promote reading and library programs that provide access to engaging reading material;
 
-&emsp;&emsp;&emsp;(iii) will make local educational agencies described in sections 6661d(a)(1) and 6661e(a)(1) of this title aware of the availability of subgrants under sections 6661d and 6661e of this title; and
+&emsp;&emsp;&emsp;(iii) will make local educational agencies described in sections 6661d(a)(1) and6661e(a)(1) of this title aware of the availability of subgrants under sections 6661d and 6661e of this title; and
 
 &emsp;&emsp;&emsp;(iv) will assess and evaluate, on a regular basis, local educational agency activities assisted under this part, with respect to whether they have been effective in achieving the purposes of this part.
 
@@ -146,7 +146,7 @@
 
 &emsp;&emsp;(D) A representative, selected jointly by the Governor and the chief State school officer, of at least one local educational agency that is eligible to receive a subgrant under section 6661d of this title.
 
-&emsp;&emsp;(E) A representative, selected jointly by the Governor and the chief State school officer, of a community-based organizationworking with children to improve their reading skills, particularly a community-based organization using tutors and scientifically based reading research.
+&emsp;&emsp;(E) A representative, selected jointly by the Governor and the chief State school officer, of a community-based organization working with children to improve their reading skills, particularly a community-based organization using tutors and scientifically based reading research.
 
 &emsp;&emsp;(F) State directors of appropriate Federal or State programs with a strong reading component.
 

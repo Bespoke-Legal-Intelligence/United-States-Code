@@ -38,7 +38,7 @@ Any licensee, permittee, or exemptee who violates or fails or refuses to comply 
 
 (6)(A) Notwithstanding the provisions of title 28 or of this chapter, the Commission may be represented by the general counsel of the Commission (or any attorney or attorneys within the Commission designated by the Chairman) who shall supervise, conduct, and argue any civil litigation to which paragraph (3) of this subsection applies (including any related collection action under paragraph (5)) in a court of the United States or in any other court, except the Supreme Court. However, the Commission or the general counsel shall consult with the Attorney General concerning such litigation, and the Attorney General shall provide, on request, such assistance in the conduct of such litigation as may be appropriate.
 
-(B) The Commission shall be represented by the Attorney General, or the Solicitor General, as appropriate, in actions under this subsection, except to the extent provided in subparagraph (A) of this paragraph.
+(B) The Commission shall be represented by the Attorney General, or the Solicitor General,as appropriate, in actions under this subsection, except to the extent provided in subparagraph (A) of this paragraph.
 
 (June 10, 1920, ch. 285, pt. I, §31, as added Pub. L. 99–495, §12, Oct. 16, 1986, 100 Stat. 1255.)
 

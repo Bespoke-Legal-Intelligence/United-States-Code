@@ -52,9 +52,11 @@ Similar provisions were contained in Pub. L. 99–662, title XI, §1147, Nov. 17
 
 #### Measurements of Lake Michigan Diversions
 
-Section 1142 of Pub. L. 99–662 provided that:
+Section 1142 of Pub. L. 99–662, as amended by Pub. L. 106–53, title V, §508, Aug. 17, 1999, 113 Stat. 339, provided that:
 
 “(a) Beginning October 1, 1987, the Secretary, in cooperation with the State of Illinois, shall carry out measurements and make necessary computations required by the decree of the United States Supreme Court (388 U.S. 426) relating to the diversion of water from Lake Michigan and shall coordinate the results with downstate interests. The measurements and computations shall consist of all flow measurements, gauge records, hydraulic and hydrologic computations, including periodic field investigations and measuring device calibrations, necessary to compute the amount of water diverted from Lake Michigan by the State of Illinois and its municipalities, political subdivisions, agencies, and instrumentalities, not including water diverted or used by Federal installations.
 
-“(b) There are authorized to be appropriated $250,000 per fiscal year for each fiscal year beginning after September 30, 1986, to carry out this section, including those funds necessary to maintain the measurements and computations, as well as necessary capital construction costs associated with the installation of new flow measurement devices or structures declared necessary and appropriate by the Secretary.”
+“(b) There are authorized to be appropriated $1,250,000 for each of fiscal years 1999 through 2003 to carry out this section, including those funds necessary to maintain the measurements and computations, as well as necessary capital construction costs associated with the installation of new flow measurement devices or structures declared necessary and appropriate by the Secretary.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Lakes”.</i>
 

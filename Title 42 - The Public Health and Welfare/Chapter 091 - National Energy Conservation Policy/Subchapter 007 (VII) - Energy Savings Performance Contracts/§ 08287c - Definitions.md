@@ -2,7 +2,7 @@
 
 For purposes of this subchapter, the following definitions apply:
 
-&emsp;(1) The term “Federal agency” means each authority of the Government of the UnitedStates, whether or not it is within or subject to review by another agency.
+&emsp;(1) The term “Federal agency” means each authority of the Government of the United States, whether or not it is within or subject to review by another agency.
 
 &emsp;(2) The term “energy savings” means a reduction in the cost of energy, from a base cost established through a methodology set forth in the contract, utilized in an existing federally owned building or buildings or other federally owned facilities as a result of—
 

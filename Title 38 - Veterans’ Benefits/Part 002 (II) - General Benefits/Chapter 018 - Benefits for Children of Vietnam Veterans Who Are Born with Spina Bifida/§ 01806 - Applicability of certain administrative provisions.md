@@ -8,7 +8,7 @@ The provisions of sections 5101(c), 5110(a), (b)(2), (g), and (i), 5111, and 511
 
 Prior section 1806 was renumbered section 3706 of this title.
 
-Prior section 1807, added Pub. L. 94–324, §2(a), June 30, 1976, 90 Stat. 720; amended Pub. L. 97–72, title III, §303(d), Nov. 3, 1981, 95 Stat. 1060, related to service after July 25, 1947, and prior to June 27, 1950, prior to repeal by Pub. L. 100–322, title IV, §415(a)(4), May 20, 1988, 102 Stat. 550.
+Prior section 1807, added Pub. L. 94–324, §2(a), June 30, 1976, 90 Stat. 720; amended Pub. L. 97–72, title III, §303(d), Nov. 3, 1981, 95 Stat. 1060, related to service after July 25, 1947, and prior to June 27, 1950, prior torepeal by Pub. L. 100–322, title IV, §415(a)(4), May 20, 1988, 102 Stat. 550.
 
 Prior sections 1810 to 1812 were renumbered sections 3710 to 3712 of this title, respectively.
 

@@ -4,8 +4,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [851\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000851%20-%20Commissioned%20officers%3B%20authorized%20number.md) | Commissioned officers; authorized number. |
-| 851a to 852b. Repealed or Omitted. |  |
+| 851 to 852b. Repealed or Omitted. |  |
 | [853\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853%20-%20Power%20to%20settle%20claims.md) | Power to settle claims. |
 | [853a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853a%20-%20Authorized%20numbers%20in%20permanent%20rank.md) | Authorized numbers in permanent rank. |
 | (a) | Fiscal year authorizations; reductions. |
@@ -59,6 +58,10 @@
 | (c) | Pay and allowances. |
 | (d) | Effect of appointment. |
 | (e) | Retirement rank, pay, and allowances. |
+| [853v.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853v%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md) | Presentation of United States flag upon retirement. |
+| (a) | Presentation of flag upon retirement. |
+| (b) | Multiple presentations not authorized. |
+| (c) | No cost to recipient. |
 | [854\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000854%20-%20Qualification%20of%20officers%20for%20appointment%20or%20promotion%20generally.md) | Qualification of officers for appointment or promotion generally. |
 | [854a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000854a%20-%20Service%20credit%20as%20deck%20officer%20or%20junior%20engineer%20for%20promotion%20purposes.md) | Service credit as deck officer or junior engineer for promotion purposes. |
 | 854a–1. | Temporary appointment or advancement of commissioned officers in time of war or national emergency. |

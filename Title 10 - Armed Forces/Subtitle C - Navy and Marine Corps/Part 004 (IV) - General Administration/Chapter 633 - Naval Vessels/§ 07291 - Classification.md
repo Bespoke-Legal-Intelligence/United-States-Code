@@ -126,7 +126,7 @@ Definitions.—For purposes of subsection (c):
 
 &emsp;&emsp;“(G) Any indirect support directly related, in law or in fact, to shipbuilding and repair at national yards, including any public assistance favoring shipowners with an indirect effect on shipbuilding or repair activities, and any assistance provided to suppliers of significant inputs to shipbuilding, which results in benefits to domestic shipbuilders.
 
-&emsp;&emsp;“(H) Any export subsidy identified in the Illustrative List of Export Subsidies in the Annex to the Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and Trade or any other export subsidythat may be prohibited as a result of the Uruguay Round of trade negotiations.
+&emsp;&emsp;“(H) Any export subsidy identified in the Illustrative List of Export Subsidies in the Annex to the Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and Trade or any other export subsidy that may be prohibited as a result of the Uruguay Round of trade negotiations.
 
 &emsp;“(3) The term ‘vessel’ means any self-propelled, sea-going vessel—
 
@@ -222,7 +222,7 @@ Applicability.—Subsection (a) shall apply only with respect to appropriations 
 
 #### Depot-Level Maintenance of Ships
 
-Pub. L. 101–189, div. A, title XVI, §1614(a), (b), Nov. 29, 1989, 103 Stat. 1601, directed Secretary of the Navy to require that, to the extent feasible and consistent with policies of the Navy regarding family separations, not less than one-half of the depot-level maintenance work for naval vessels that was scheduled as of Oct. 1, 1989, to be carried out in Japan during fiscal years 1990, 1991, and 1992, was to be carried out in shipyards in the United States. Similar provisions were contained inPub. L. 100–456, div. A, title XII, §1226, Sept. 29, 1988, 102 Stat. 2055, which was repealed by Pub. L. 101–189, div. A, title XVI, §1614(c), Nov. 29, 1989, 103 Stat. 1601.
+Pub. L. 101–189, div. A, title XVI, §1614(a), (b), Nov. 29, 1989, 103 Stat. 1601, directed Secretary of the Navy to require that, to the extent feasible and consistent with policies of the Navy regarding family separations, not less than one-half of the depot-level maintenance work for naval vessels that was scheduled as of Oct. 1, 1989, to be carried out in Japan during fiscal years 1990, 1991, and 1992, was to be carried out in shipyards in the United States. Similar provisions were contained in Pub. L. 100–456, div. A, title XII, §1226, Sept. 29, 1988, 102 Stat. 2055, which was repealed by Pub. L. 101–189, div. A, title XVI, §1614(c), Nov. 29, 1989, 103 Stat. 1601.
 
 #### Reports on Effects of Naval Shipbuilding Plans on Maritime Industries
 

@@ -54,7 +54,7 @@ For purposes of subsection (a) of this section, a person shall not be considered
 
 &emsp;&emsp;&emsp;(ii) the individual's parent or guardian, if the individual is under 17 years of age; and
 
-&emsp;&emsp;(B) shall take such actions as are necessary to prevent unauthorized access to such information by a person other than theperson making such communication and the recipient of such communication.
+&emsp;&emsp;(B) shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the person making such communication and the recipient of such communication.
 
 #### (2) Exceptions
 
@@ -70,7 +70,7 @@ For purposes of this subsection,<sup>1</sup> the following definitions shall app
 
 #### (1) By means of the World Wide Web
 
-&emsp;The term “by means of the World Wide Web” means by placement of material in a computer server-based file archive so that it is publicly accessible, over the Internet, using hypertext transfer protocol or any successor protocol.
+&emsp;The term “by means of the World Wide Web” means by placement of material in a computerserver-based file archive so that it is publicly accessible, over the Internet, using hypertext transfer protocol or any successor protocol.
 
 #### (2) Commercial purposes; engaged in the business
 
@@ -126,11 +126,11 @@ Pub. L. 105–277, div. C, title XIV, §1402, Oct. 21, 1998, 112 Stat. 2681–73
 
 &emsp;“(4) a prohibition on the distribution of material harmful to minors, combined with legitimate defenses, is currently the most effective and least restrictive means by which to satisfy the compelling government interest; and
 
-&emsp;“(5) notwithstanding the existence of protections that limit the distribution over the World Wide Webof material that is harmful to minors, parents, educators, and industry must continue efforts to find ways to protect children from being exposed to harmful material found on the Internet.”
+&emsp;“(5) notwithstanding the existence of protections that limit the distribution over the World Wide Web of material that is harmful to minors, parents, educators, and industry must continue efforts to find ways to protect children from being exposed to harmful material found on the Internet.”
 
 #### Study by Commission on Online Child Protection
 
-Pub. L. 105–277, div. C, title XIV, §1405, Oct. 21, 1998, 112 Stat. 2681–739, provided that:
+Pub. L. 105–277, div. C, title XIV, §1405, Oct. 21, 1998, 112 Stat. 2681–739, as amended by Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5001(b)–(f), Nov. 29, 1999, 113 Stat. 1536, 1501A–591, 1501–592, provided that:
 
 “(a)
 
@@ -142,23 +142,23 @@ Membership.—The Commission shall be composed of 19 members, as follows:
 
 &emsp;“(1)
 
-Industry members.—The Commission shall include—
+Industry members.—The Commission shall include 16 members who shall consist of representatives of—
 
-&emsp;&emsp;“(A) 2 members who are engaged in the business of providing Internet filtering or blocking services or software;
+&emsp;&emsp;“(A) providers of Internet filtering or blocking services or software;
 
-&emsp;&emsp;“(B) 2 members who are engaged in the business of providing Internet access services;
+&emsp;&emsp;“(B) Internet access services;
 
-&emsp;&emsp;“(C) 2 members who are engaged in the business of providing labeling or ratings services;
+&emsp;&emsp;“(C) labeling or ratings services;
 
-&emsp;&emsp;“(D) 2 members who are engaged in the business of providing Internet portal or search services;
+&emsp;&emsp;“(D) Internet portal or search services;
 
-&emsp;&emsp;“(E) 2 members who are engaged in the business of providing domain name registration services;
+&emsp;&emsp;“(E) domain name registration services;
 
-&emsp;&emsp;“(F) 2 members who are academic experts in the field of technology; and
+&emsp;&emsp;“(F) academic experts; and
 
-&emsp;&emsp;“(G) 4 members who are engaged in the business of making content available over the Internet.
+&emsp;&emsp;“(G) providers that make content available over the Internet.
 
-&emsp;“Of the members of the Commission by reason of each subparagraph of this paragraph, an equal number shall be appointed by the Speaker of the House of Representatives and by the Majority Leader of the Senate.
+> &emsp;Of the members of the Commission by reason of this paragraph, an equal number shall be appointed by the Speaker of the House of Representatives and by the Majority Leader of the Senate. Members of the Commission appointed on or before October 31, 1999, shall remain members.
 
 &emsp;“(2)
 
@@ -170,7 +170,19 @@ Ex officio members.—The Commission shall include the following officials:
 
 &emsp;&emsp;“(C) The Chairman of the Federal Trade Commission (or the Chairman's designee).
 
+&emsp;“(3)
+
+Prohibition of pay.—Members of the Commission shall not receive any pay by reason of their membership on the Commission.
+
 “(c)
+
+First Meeting.—The Commission shall hold its first meeting not later than March 31, 2000.
+
+“(d)
+
+Chairperson.—The chairperson of the Commission shall be elected by a vote of a majority of the members, which shall take place not later than 30 days after the first meeting of the Commission.
+
+“(e)
 
 Study.—
 
@@ -216,9 +228,9 @@ Analysis.—In analyzing technologies and other methods identified pursuant to p
 
 &emsp;&emsp;“(F) such other factors and issues as the Commission considers relevant and appropriate.
 
-“(d)
+“(f)
 
-Report.—Not later than 1 year after the enactment of this Act \[Oct. 21, 1998\], the Commission shall submit a report to the Congress containing the results of the study under this section, which shall include—
+Report.—Not later than 2 years after the enactment of this Act \[Oct. 21, 1998\], the Commission shall submit a report to the Congress containing the results of the study under this section, which shall include—
 
 &emsp;“(1) a description of the technologies and methods identified by the study and the results of the analysis of each such technology and method;
 
@@ -228,15 +240,31 @@ Report.—Not later than 1 year after the enactment of this Act \[Oct. 21, 1998\
 
 &emsp;“(4) a description of the technologies or methods identified by the study that may meet the requirements for use as affirmative defenses for purposes of section 231(c) of the Communications Act of 1934 \[47 U.S.C. 231(c)\] (as added by this title).
 
-“(e)
-
-Staff and Resources.—The Assistant Secretary for Communication and Information of the Department of Commerce shall provide to the Commission such staff and resources as the Assistant Secretary determines necessary for the Commission to perform its duty efficiently and in accordance with this section.
-
-“(f)
-
-Termination.—The Commission shall terminate 30 days after the submission of the report under subsection (d).
-
 “(g)
+
+Rules of the Commission.—
+
+&emsp;“(1)
+
+Quorum.—Nine members of the Commission shall constitute a quorum for conducting the business of the Commission.
+
+&emsp;“(2)
+
+Meetings.—Any meetings held by the Commission shall be duly noticed at least 14 days in advance and shall be open to the public.
+
+&emsp;“(3)
+
+Opportunities to testify.—The Commission shall provide opportunities for representatives of the general public to testify.
+
+&emsp;“(4)
+
+Additional rules.—The Commission may adopt other rules as necessary to carry out this section.
+
+“(<i>l</i>)\[h\]
+
+Termination.—The Commission shall terminate 30 days after the submission of the report under subsection (d) or November 30, 2000, whichever occurs earlier.
+
+“(m)\[i\]
 
 Inapplicability of Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.”
 

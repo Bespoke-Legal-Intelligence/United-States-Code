@@ -16,7 +16,7 @@
 
 &emsp;(C) such other person was entitled to a monthly benefit on the basis of the same wages and self-employment income as the deceased individual for the month preceding the month in which the deceased individual died,
 
-> the amount of such payment in excess of the correct amount shall be treated as a payment of more than the correct amount to such other person.
+> the amount of such payment in excess of the correct amount shall be treated as a payment of more than the correct amount to such other person. If any payment of more than the correct amount is made to a representative payee on behalf of an individual after the individual's death, the representative payee shall be liable for the repayment of the overpayment, and the Commissioner of Social Security shall establish an overpayment control record under the social security account number of the representative payee.
 
 #### (b) No recovery from persons without fault
 
@@ -30,13 +30,13 @@ No certifying or disbursing officer shall be held liable for any amount certifie
 
 If an individual dies before any payment due him under this subchapter is completed, payment of the amount due (including the amount of any unnegotiated checks) shall be made—
 
-&emsp;(1) to the person, if any, who is determined by the Commissioner of Social Security to be the surviving spouse of the deceased individual and who either (i) was living in the samehousehold with the deceased at the time of his death or (ii) was, for the month in which the deceased individual died, entitled to a monthly benefit on the basis of the same wages and self-employment income as was the deceased individual;
+&emsp;(1) to the person, if any, who is determined by the Commissioner of Social Security to be the surviving spouse of the deceased individual and who either (i) was living in the same household with the deceased at the time of his death or (ii) was, for the month in which the deceased individual died, entitled to a monthly benefit on the basis of the same wages and self-employment income as was the deceased individual;
 
 &emsp;(2) if there is no person who meets the requirements of paragraph (1), or if the person who meets such requirements dies before the payment due him under this subchapter is completed, to the child or children, if any, of the deceased individual who were, for the month in which the deceased individual died, entitled to monthly benefits on the basis of the same wages and self-employment income as was the deceased individual (and, in case there is more than one such child, in equal parts to each such child);
 
 &emsp;(3) if there is no person who meets the requirements of paragraph (1) or (2), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the parent or parents, if any, of the deceased individual who were, for the month in which the deceased individual died, entitled to monthly benefits on the basis of the same wages and self-employment income as was the deceased individual (and, in case there is more than one such parent, in equal parts to each such parent);
 
-&emsp;(4) if there is no person who meets the requirements of paragraph (1), (2), or (3), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the person, if any, determined by the Commissioner of Social Security to be the surviving spouse of the deceased individual;
+&emsp;(4) if there is no person who meets the requirements of paragraph (1), (2), or (3), or ifeach person who meets such requirements dies before the payment due him under this subchapter is completed, to the person, if any, determined by the Commissioner of Social Security to be the surviving spouse of the deceased individual;
 
 &emsp;(5) if there is no person who meets the requirements of paragraph (1), (2), (3), or (4), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the person or persons, if any, determined by the Commissioner of Social Security to be the child or children of the deceased individual (and, in case there is more than one such child, in equal parts to each such child);
 
@@ -50,7 +50,7 @@ For payments which are adjusted by reason of payment of benefits under the suppl
 
 #### (f) Collection of delinquent amounts
 
-(1) With respect to any deliquent <sup>1</sup> amount, the Commissioner of Social Security may use the collection practices described in sections 3711(e), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5, as in effect immediately after April 26, 1996.
+(1) With respect to any deliquent <sup>1</sup> amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5, all as in effect immediately after April 26, 1996.
 
 (2) For purposes of paragraph (1), the term “delinquent amount” means an amount—
 
@@ -64,13 +64,17 @@ For payments which are adjusted by reason of payment of benefits under the suppl
 
 For payments which are adjusted or withheld to recover an overpayment of supplemental security income benefits paid under subchapter XVI of this chapter (including State supplementary payments paid under an agreement pursuant to section 1382e(a) of this title or section 212(b) of Public Law 93–66), see section 1320b–17 of this title.
 
-(Aug. 14, 1935, ch. 531, title II, §204, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1368; Aug. 28, 1950, ch. 809, title I, §109(b)(1), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(a), 68 Stat. 1085; Pub. L. 89–97, title III, §329, July 30, 1965, 79 Stat. 401; Pub. L. 90–248, title I, §§152, 153(a), 154(a), Jan. 2, 1968, 81 Stat. 860, 861; Pub. L. 96–265, title V, §501(b), June 9, 1980, 94 Stat. 470; Pub. L. 99–272, title XII, §12113(a), Apr. 7, 1986, 100 Stat. 288; Pub. L. 101–239, title X, §10305(b), Dec. 19, 1989, 103 Stat. 2483; Pub. L. 101–508, title V, §5129(a), Nov. 5, 1990, 104 Stat. 1388–287; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 103–387, §5(a), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(z)(2)(A), Apr. 26, 1996, 110 Stat. 1321–379; Pub. L. 104–316, title I, §115(g)(2)(E), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–306, §8(b)(1), Oct. 28, 1998, 112 Stat. 2929.)
+(Aug. 14, 1935, ch. 531, title II, §204, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1368; Aug. 28, 1950, ch. 809, title I, §109(b)(1), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(a), 68 Stat. 1085; Pub. L. 89–97, title III, §329, July 30, 1965, 79 Stat. 401; Pub. L. 90–248, title I, §§152, 153(a), 154(a), Jan. 2, 1968, 81 Stat. 860, 861; Pub. L. 96–265, title V, §501(b), June 9, 1980, 94 Stat. 470; Pub. L. 99–272, title XII, §12113(a), Apr. 7, 1986, 100 Stat. 288; Pub. L. 101–239, title X, §10305(b), Dec. 19, 1989, 103 Stat. 2483; Pub. L. 101–508, title V, §5129(a), Nov. 5, 1990, 104 Stat. 1388–287; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 103–387, §5(a), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(z)(2)(A), Apr. 26, 1996, 110 Stat. 1321–379; Pub. L. 104–316, title I, §115(g)(2)(E), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–306, §8(b)(1), Oct. 28, 1998, 112 Stat. 2929; Pub. L. 106–169, title II, §§201(a), 203(c), Dec. 14, 1999, 113 Stat. 1831, 1832.)
 
 #### References in Text
 
 Section 212(b) of Public Law 93–66, referred to in subsec. (g), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 156, as amended, which is set out as a note under section 1382 of this title.
 
 #### Amendments
+
+1999—Subsec. (a)(2). Pub. L. 106–169, §201(a), inserted at end “If any payment of more than the correct amount is made to a representative payee on behalf of an individual after the individual's death, the representative payee shall be liable for the repayment of the overpayment, and the Commissioner of Social Security shall establish an overpayment control record under the social security account number of the representative payee.”
+
+Subsec. (f)(1). Pub. L. 106–169, §203(c), substituted “3711(f)” for “3711(e)” and inserted “all” before “as in effect”.
 
 1998—Subsec. (g). Pub. L. 105–306 added subsec. (g).
 
@@ -107,6 +111,12 @@ Subsec. (d). Pub. L. 90–248, §154(a), struck out, in text preceding par. (1),
 1950—Act Aug. 28, 1950, substituted “Administrator” for “board”.
 
 1939—Act Aug. 10, 1939, omitted former provisions relating to payments to aged individuals not qualified for benefits and substituted the present section relating to overpayments and underpayments.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–169, title II, §201(c), Dec. 14, 1999, 113 Stat. 1831, provided that: “The amendments made by this section \[amending this section and section 1383 of this title\] shall apply to overpayments made 12 months or more after the date of the enactment of this Act \[Dec. 14, 1999\].”
+
+Amendment by section 203(c) of Pub. L. 106–169 applicable to debt outstanding on or after Dec. 14, 1999, see section 203(d) of Pub. L. 106–169, set out as a note under section 3701 of Title 31, Money and Finance.
 
 #### Effective Date of 1998 Amendment
 

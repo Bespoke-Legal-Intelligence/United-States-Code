@@ -1,6 +1,6 @@
 ### §4316. Rights, benefits, and obligations of persons absent from employment for service in a uniformed service
 
-(a) A person who is reemployed under this chapter is entitled to the seniority and other rights and benefits determined by seniority that the person had on the date of the commencement of service in the uniformed services plus the additional seniority and rights and benefits that such person would have attained if the person had remained continuously employed.
+(a) A person who is reemployed under this chapter is entitled to the seniority and other rights and benefits determined by seniority that the person had on the date of the commencement of service in the uniformed services plusthe additional seniority and rights and benefits that such person would have attained if the person had remained continuously employed.
 
 (b)(1) Subject to paragraphs (2) through (6), a person who is absent from a position of employment by reason of service in the uniformed services shall be—
 

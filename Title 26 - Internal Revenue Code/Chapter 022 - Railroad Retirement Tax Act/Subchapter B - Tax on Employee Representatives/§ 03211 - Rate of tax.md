@@ -4,7 +4,7 @@
 
 #### (1) Tier 1 tax
 
-&emsp;In addition to other taxes, there is hereby imposed on the income of each employee representative a tax equal to the applicable percentage of the compensation received during any calendar year by such employee representative for services rendered by such employee representative. For purposes of the preceding sentence, the term “applicable percentage” means the percentage equal to the sum of the rates of tax in effect under subsections (a) and (b) of section 3101 and subsections (a) and (b) of section 3111 for the calendar year.
+&emsp;In addition to other taxes, there is hereby imposed on the income of each employee representative a tax equal to the applicable percentage of the compensation received during any calendar year by such employee representative for services rendered by such employee representative. For purposes of the preceding sentence, the term “applicable percentage” means the percentage equal to the sum of the rates of tax in effect under subsections (a) and\(b) of section 3101 and subsections (a) and (b) of section 3111 for the calendar year.
 
 #### (2) Tier 2 tax
 
@@ -60,7 +60,7 @@ Subsec. (b). Pub. L. 89–699, §301(d), added subsec. (b).
 
 1965—Pub. L. 89–212 substituted pars. (1) to (5) for former pars. (1) and (2) which imposed a tax equal to 131/2 percent of so much of the compensation paid to such employee representative for services rendered by him after the month in which this provision was amended in 1959, and before Jan. 1, 1962, and 141/2 percent of so much of the compensation paid to such employee representative for services rendered by him after Dec. 31, 1961, and inserted “and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable ‘wages’ as defined in section 3121, whichever is greater, for any month after the month in which this provision was so amended”.
 
-Pub. L. 89–97 substituted “the rate of the tax imposed with respect to wages by section 3101(a) at such time exceeds 23/4 percent (the rate provided by paragraph (2) of section 3101 as amended by the Social Security Amendments of 1956)” for “the rate of the tax imposed with respect to wages by section 3101 at such time exceeds the rate provided by paragraph (2) of such section 3101 as amended by the Social Security Amendments of 1956” and inserted “plus the rate imposed by section 3101(b)” after “section 3101(a)”, respectively.
+Pub. L. 89–97 substituted “the rate of the tax imposed with respect to wages by section 3101(a) at such time exceeds 23/4 percent (the rate provided by paragraph (2) of section 3101 as amended by the Social Security Amendments of 1956)” for “the rate of the tax imposedwith respect to wages by section 3101 at such time exceeds the rate provided by paragraph (2) of such section 3101 as amended by the Social Security Amendments of 1956” and inserted “plus the rate imposed by section 3101(b)” after “section 3101(a)”, respectively.
 
 1963—Pub. L. 88–133 limited the existing taxable compensation base of $400 to any calendar month before Nov. 1963 and increased such base to $450 for any calendar month after Oct. 1963.
 

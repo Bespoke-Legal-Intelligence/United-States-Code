@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-The United States shall not provide any assistance under this chapter, the AgriculturalTrade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\], the Peace Corps Act \[22 U.S.C. 2501 et seq.\], or the Export-Import Bank Act of 1945 \[12 U.S.C. 635 et seq.\] to any country if the Secretary of State determines that the government of that country has repeatedly provided support for acts of international terrorism.
+The United States shall not provide any assistance under this chapter, the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\], the Peace Corps Act \[22 U.S.C. 2501 et seq.\], or the Export-Import Bank Act of 1945 \[12 U.S.C. 635 et seq.\] to any country if the Secretary of State determines that the government of that country has repeatedly provided support for acts of international terrorism.
 
 #### (b) Publication of determinations
 
@@ -75,6 +75,10 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Self-Defense in Accordance With International Law
 

@@ -6,7 +6,7 @@ This chapter may be cited as the “Securities Exchange Act of 1934.”
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “This Act”. The act was divided into two titles as follows: “Title I—Regulation of Securities Exchanges” and “Title II—Amendments to Securities Act of 1933.” This section was section 1 of title I, which title is set out as sections 78a to 78d, 78e to 78<i>l</i>, 78m to 78<i>o</i>, and 78<i>o</i>–3 to 78hh of this title. Title II of the act amended or repealed sections 77b to 77e, 77j, 77k, 77m, 77<i>o</i>, and 77s, and added former sections 78ii and 78jj of this title. Although these latter provisions were set out as a separate title, they were part of the act; hence, they are technically a part of the “Securities Exchange Act of 1934”.
+This chapter, referred to in text, was in the original “This Act”. The act was divided into two titles as follows: “Title I—Regulation of Securities Exchanges” and “Title II—Amendments to Securities Act of 1933.” This section was section 1 of title I, which title is set out as sections 78a to 78h, 78i to 78<i>l</i>, 78m to 78<i>o</i>, 78<i>o</i>–3 to 78dd–1, and 78ee to 78mm of this title. Title II of the act amended or repealed sections 77b to 77e, 77j, 77k, 77m, 77<i>o</i>, and 77s, and added former sections 78ii and 78jj of this title. Although these latter provisions were set out as a separate title, they were part of the act; hence, they are technically a part of the “Securities Exchange Act of 1934”.
 
 #### Short Title of 1998 Amendments
 
@@ -56,7 +56,7 @@ Pub. L. 101–429, title V, §501, Oct. 15, 1990, 104 Stat. 951, provided that: 
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100–704, §1, Nov. 19, 1988, 102 Stat. 4677, provided that: “This Act \[enacting sections 78t–1, 78u–1, and 80b–4a of this title, amending sections 78c, 78<i>o</i>, 78u, 78ff, and 78kk of this title, and enacting provisions setout as notes under sections 78b, 78<i>o</i>, and 78u–1 of this title\] may be cited as the ‘Insider Trading and Securities Fraud Enforcement Act of 1988’.”
+Pub. L. 100–704, §1, Nov. 19, 1988, 102 Stat. 4677, provided that: “This Act \[enacting sections 78t–1, 78u–1, and 80b–4a of this title, amending sections 78c, 78<i>o</i>, 78u, 78ff, and 78kk of this title, and enacting provisions set out as notes under sections 78b, 78<i>o</i>, and 78u–1 of this title\] may be cited as the ‘Insider Trading and Securities Fraud Enforcement Act of 1988’.”
 
 Pub. L. 100–418, title V, §5001, Aug. 23, 1988, 102 Stat. 1415, provided that: “This part \[part I (§§5001–5003) of subtitle A of title I of Pub. L. 100–418, amending sections 78m, 78dd–1, 78dd–2, and 78ff of this title and enacting provisions set out as a note under section 78dd–1 of this title\] may be cited as the ‘Foreign Corrupt Practices Act Amendments of 1988’.”
 
@@ -88,7 +88,7 @@ Section 1 of Pub. L. 94–29, June 4, 1975, 89 Stat. 97, provided: “That this 
 
 #### Short Title of 1964 Amendment
 
-Section 1 of Pub. L. 88–467, Aug. 20, 1964, 78 Stat. 565, provided: “That this Act \[amending sections 77d, 78c, 78<i>l</i> to 78<i>o</i>, 78<i>o</i>–3, 78p, 78t, 78w, and 78ff of this title and enacting provisions set out as a note under section 78c of this title\] may be cited as the ‘Securities Acts Amendments of 1964’.”
+Section 1 of Pub. L. 88–467, Aug. 20, 1964, 78 Stat. 565, provided: “That this Act \[amending sections 77d, 78c,78<i>l</i> to 78<i>o</i>, 78<i>o</i>–3, 78p, 78t, 78w, and 78ff of this title and enacting provisions set out as a note under section 78c of this title\] may be cited as the ‘Securities Acts Amendments of 1964’.”
 
 #### Short Title of 1936 Amendment
 

@@ -36,7 +36,7 @@ The Secretary shall prescribe guidelines as appropriate for other advanced nurse
 
 #### (1) In general
 
-&emsp;The Secretary may not award a grant to an applicant under subsection (a) of this section unless the applicant involved agrees that traineeships provided with the grant will only pay all or part of the costs of—
+&emsp;The Secretary may not award a grant to an applicant under subsection (a) of this sectionunless the applicant involved agrees that traineeships provided with the grant will only pay all or part of the costs of—
 
 &emsp;&emsp;(A) the tuition, books, and fees of the program of advanced nurse education with respect to which the traineeship is provided; and
 

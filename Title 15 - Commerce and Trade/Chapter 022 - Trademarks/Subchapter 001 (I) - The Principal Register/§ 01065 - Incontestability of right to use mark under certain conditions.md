@@ -1,26 +1,28 @@
 ### §1065. Incontestability of right to use mark under certain conditions
 
-Except on a ground for which application to cancel may be filed at any time under paragraphs (3) and (5) of section 1064 of this title, and except to the extent, if any, to which the use of a mark registered on the principal register infringes a valid right acquired under the law of any State or Territory by use of a mark or trade name continuing from a date prior to the date of registration under this chapter of such registered mark, the right of the registrant to use such registered mark in commerce for the goods or services on or in connection with which such registered mark has been in continuous use for five consecutive years subsequent to the date of such registration and is still in use in commerce, shall be incontestable: <i>Provided</i>, That—
+Except on a ground for which application to cancel may be filed at any time under paragraphs (3) and (5) of section 1064 of this title, and except to the extent, if any, to which the use of a mark registered on the principal register infringes a valid right acquired under the law of any State or Territory by use of a mark or trade name continuing from a date prior to the date of registration under this chapter of such registered mark, the right of the registrant to usesuch registered mark in commerce for the goods or services on or in connection with which such registered mark has been in continuous use for five consecutive years subsequent to the date of such registration and is still in use in commerce, shall be incontestable: <i>Provided</i>, That—
 
 &emsp;(1) there has been no final decision adverse to registrant's claim of ownership of such mark for such goods or services, or to registrant's right to register the same or to keep the same on the register; and
 
 &emsp;(2) there is no proceeding involving said rights pending in the Patent and Trademark Office or in a court and not finally disposed of; and
 
-&emsp;(3) an affidavit is filed with the Commissioner within one year after the expiration of any such five-year period setting forth those goods or services stated in the registration on or in connection with which such mark has been in continuous use for such five consecutive years and is still in use in commerce, andother matters specified in paragraphs (1) and (2) of this section; and
+&emsp;(3) an affidavit is filed with the Director within one year after the expiration of any such five-year period setting forth those goods or services stated in the registration on or in connection with which such mark has been in continuous use for such five consecutive years and is still in use in commerce, and other matters specified in paragraphs (1) and (2) of this section; and
 
 &emsp;(4) no incontestable right shall be acquired in a mark which is the generic name for the goods or services or a portion thereof, for which it is registered.
 
-Subject to the conditions above specified in this section, the incontestable right with reference to a mark registered under this chapter shall apply to a mark registered under the Act of March 3, 1881, or the Act of February 20, 1905, upon the filing of the required affidavit with the Commissioner within one year after the expiration of any period of five consecutive years after the date of publication of a mark under the provisions of subsection (c) of section 1062 of this title.
+Subject to the conditions above specified in this section, the incontestable right with reference to a mark registered under this chapter shall apply to a mark registered under the Act of March 3, 1881, or the Act of February 20, 1905, upon the filing of the required affidavit with the Director within one year after the expiration of any period of five consecutive years after the date of publication of a mark under the provisions of subsection (c) of section 1062 of this title.
 
-The Commissioner shall notify any registrant who files the above-prescribed affidavit of the filing thereof.
+The Director shall notify any registrant who files the above-prescribed affidavit of the filing thereof.
 
-(July 5, 1946, ch. 540, title I, §15, 60 Stat. 433; Pub. L. 87–772, §10, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §10, Aug. 27, 1982, 96 Stat. 320; Pub. L. 100–667, title I, §116, Nov. 16, 1988, 102 Stat. 3941.)
+(July 5, 1946, ch. 540, title I, §15, 60 Stat. 433; Pub. L. 87–772, §10, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §10, Aug. 27, 1982, 96 Stat. 320; Pub. L. 100–667, title I, §116, Nov. 16, 1988, 102 Stat. 3941; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
 #### References in Text
 
 Acts March 3, 1881 and February 20, 1905, referred to in text, are acts Mar. 3, 1881, ch. 138, 21 Stat. 502 and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, §46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
 #### Amendments
+
+1999—Pub. L. 106–113 substituted “Director” for “Commissioner” in par. (3) and in two places in concluding provisions.
 
 1988—Pub. L. 100–667, in introductory provisions, substituted “paragraphs (3) and (5)” for “subsections (c) and (e)”, in par. (3) “paragraphs” for “subsections”, and in par. (4) “the generic name for the goods or services or a portion thereof, for which it is registered” for “the common descriptive name of any article or substance, patented or otherwise”.
 
@@ -29,6 +31,10 @@ Acts March 3, 1881 and February 20, 1905, referred to in text, are acts Mar. 3, 
 1975—Par. (2). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
 1962—Pub. L. 87–772 substituted “(c) and (e) of section 1064” for “(c) and (d) of section 1064” in provision preceding par. (1), and struck out “or trade name” after “in a mark” in par. (4).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1988 Amendment
 

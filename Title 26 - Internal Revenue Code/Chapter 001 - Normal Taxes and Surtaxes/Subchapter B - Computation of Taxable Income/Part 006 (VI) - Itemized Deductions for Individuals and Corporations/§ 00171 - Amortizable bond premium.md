@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of any bond, as defined in subsection (d), the following rules shall apply to the amortizable bond premium (determined under subsection (b)) on the bond:
+In the case of any bond, as defined in subsection (d), the following rules shall apply to theamortizable bond premium (determined under subsection (b)) on the bond:
 
 #### (1) Taxable bonds
 
@@ -40,7 +40,7 @@ In the case of any bond, as defined in subsection (d), the following rules shall
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in regulations prescribed by the Secretary, the determinationsrequired under paragraphs (1) and (2) shall be made on the basis of the taxpayer's yield to maturity determined by—
+&emsp;&emsp;Except as provided in regulations prescribed by the Secretary, the determinations required under paragraphs (1) and (2) shall be made on the basis of the taxpayer's yield to maturity determined by—
 
 &emsp;&emsp;&emsp;(i) using the taxpayer's basis (for purposes of determining loss on sale or exchange) of the obligation, and
 
@@ -74,7 +74,7 @@ In the case of any bond, as defined in subsection (d), the following rules shall
 
 #### (2) Manner and effect of election
 
-&emsp;The election authorized under this subsection shall be made in accordance with such regulations as the Secretary shall prescribe. If such election is made with respect to any bond (described in paragraph (1)) of the taxpayer, it shall also apply to all such bonds held by the taxpayer at the beginning of the first taxable year to which the election applies and to all such bonds thereafter acquired by him and shall be binding for all subsequent taxable years with respect to all such bonds of the taxpayer, unless, on application by the taxpayer, the Secretary permits him, subject to such conditions as the Secretary deems necessary, to revoke such election. In the case of bonds held by a common trust fund, as defined in section 584(a), or by a foreign personal holding company, as defined in section 552, the election authorized under this subsection shall be exercisable with respect to such bonds only by the common trust fund or foreign personal holding company. In case of bonds held by an estate or trust, the election authorized under this subsection shall be exercisable with respect to such bonds only by the fiduciary.
+&emsp;The election authorized under this subsection shall be made in accordance with such regulations as the Secretary shall prescribe. If such election is made with respect to any bond (described in paragraph (1)) of the taxpayer, it shall also apply to all such bonds held by the taxpayer at the beginning of the first taxable year to which the election applies and to all such bonds thereafter acquired by him andshall be binding for all subsequent taxable years with respect to all such bonds of the taxpayer, unless, on application by the taxpayer, the Secretary permits him, subject to such conditions as the Secretary deems necessary, to revoke such election. In the case of bonds held by a common trust fund, as defined in section 584(a), or by a foreign personal holding company, as defined in section 552, the election authorized under this subsection shall be exercisable with respect to such bonds only by the common trust fund or foreign personal holding company. In case of bonds held by an estate or trust, the election authorized under this subsection shall be exercisable with respect to such bonds only by the fiduciary.
 
 #### (d) Bond defined
 
@@ -184,7 +184,7 @@ Section 1951(b)(5)(B) of Pub. L. 94–455 provided that: “Notwithstanding the 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -36,11 +36,15 @@
 
 (d) Notwithstanding subsection (b)(2) of this section and sections 506(b) and 1225(a)(5) of this title, if it is proposed in a plan to cure a default, the amount necessary to cure the default, shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
 
-(Added Pub. L. 99–554, title II, §255, Oct. 27, 1986, 100 Stat. 3109; amended Pub. L. 103–394, title III, §305(b), Oct. 22, 1994, 108 Stat. 4134.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3109, 3124; Pub. L. 103–394, title III, §305(b), Oct. 22, 1994, 108 Stat. 4134; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031.)
 
-#### Repeal of Section
+#### Termination of Section
 
-<i>Section repealed effective Oct. 1, 1998, see note set out preceding section 1201 of this title.</i>
+<i>For termination of reenactment of this section by section 149(a) of Pub. L. 105–277, as amended, see Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.</i>
+
+#### Codification
+
+Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
 
 #### Amendments
 

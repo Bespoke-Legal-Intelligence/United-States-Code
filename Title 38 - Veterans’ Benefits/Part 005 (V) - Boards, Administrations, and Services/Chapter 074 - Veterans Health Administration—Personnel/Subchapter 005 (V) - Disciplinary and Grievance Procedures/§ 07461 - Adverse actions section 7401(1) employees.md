@@ -34,7 +34,7 @@
 
 (d) An issue of whether a matter or question concerns, or arises out of, professional conduct or competence is not itself subject to any grievance procedure provided by law, regulation, or collective bargaining and may not be reviewed by any other agency.
 
-(e) Whenever the Secretary proposes to prescribe regulations under this subchapter, the Secretary shall publish the proposed regulations in the Federal Register for notice-and-comment not less than 30 days before the day on which they take effect.
+(e) Whenever the Secretary proposes to prescribe regulations under this subchapter, the Secretary shall publish the proposed regulationsin the Federal Register for notice-and-comment not less than 30 days before the day on which they take effect.
 
 (Added Pub. L. 102–40, title II, §203(a), May 7, 1991, 105 Stat. 202; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
 

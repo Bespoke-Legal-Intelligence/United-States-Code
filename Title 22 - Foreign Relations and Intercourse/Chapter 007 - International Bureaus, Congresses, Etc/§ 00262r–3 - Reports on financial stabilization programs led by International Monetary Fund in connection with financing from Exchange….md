@@ -38,7 +38,7 @@ The Secretary of the Treasury, in consultation with the Secretary of Commerce an
 
 &emsp;(10) The amount, rate of interest, and disbursement and repayment schedules of any funds disbursed from the stabilization fund established under section 5302 of title 31, in the form of loans, credits, guarantees, or swaps, in support of the financial stabilization programs.
 
-&emsp;(11) The amount, rate of interest, and disbursement and repayment schedules of any funds disbursed by the International Monetary Fund to the countries in support of the financial stabilization programs.
+&emsp;(11) The amount, rate of interest, and disbursement and repayment schedules of anyfunds disbursed by the International Monetary Fund to the countries in support of the financial stabilization programs.
 
 #### (b) Timing
 

@@ -32,7 +32,7 @@ The Governor of each State shall prescribe uniform procedures for the expenditur
 
 &emsp;(A) which meets the requirement in subsection (c)(1) of this section, and
 
-&emsp;(B) which is among the States which has an unemployment rate greater than the national average unemployment for the most recent 12months for which satisfactory data are available.
+&emsp;(B) which is among the States which has an unemployment rate greater than the national average unemployment for the most recent 12 months for which satisfactory data are available.
 
 (3) For purposes of this section, funds awarded from discretionary funds of the Secretary shall not be included in calculating any of the reallotments described in this section.
 

@@ -6,7 +6,7 @@ Criminal Penalty for Offering, Granting, Giving, or Helping To Obtain Concession
 
 &emsp;(1) knowingly and willfully offers, grants, or gives, or causes to be offered, granted, or given, a rebate or other concession in violation of this part; or
 
-&emsp;(2) by any means knowingly and willfully assists, or willingly allows, a person to obtaintransportation or services subject to this part at less than the price lawfully in effect.
+&emsp;(2) by any means knowingly and willfully assists, or willingly allows, a person to obtain transportation or services subject to this part at less than the price lawfully in effect.
 
 (b)
 

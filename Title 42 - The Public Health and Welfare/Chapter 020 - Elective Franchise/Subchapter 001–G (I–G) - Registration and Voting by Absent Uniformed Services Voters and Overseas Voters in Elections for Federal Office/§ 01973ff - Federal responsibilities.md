@@ -38,7 +38,7 @@ The Presidential designee shall—
 
 #### Effective Date
 
-Section 204 of Pub. L. 99–410 provided that: “The amendments and repeals made by this Act \[see ShortTitle note below\] shall apply with respect to elections taking place after December 31, 1987.”
+Section 204 of Pub. L. 99–410 provided that: “The amendments and repeals made by this Act \[see Short Title note below\] shall apply with respect to elections taking place after December 31, 1987.”
 
 #### Short Title
 

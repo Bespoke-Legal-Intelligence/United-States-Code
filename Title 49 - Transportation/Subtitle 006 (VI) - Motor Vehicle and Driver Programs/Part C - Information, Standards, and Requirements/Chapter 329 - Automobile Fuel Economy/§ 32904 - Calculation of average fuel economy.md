@@ -76,7 +76,7 @@ Separate Calculations for Passenger Automobiles Manufactured Domestically and No
 
 &emsp;(ii) after April 30, 1980, if the manufacturer has engaged in the production or assembly in the United States for at least one model year ending before January 1, 1986.
 
-(B) The Secretary of Transportation shall grant the exemption unless the Secretary finds that the exemption would result in reduced employment in the United States related to motor vehicle manufacturing during the period of theexemption. An exemption under this paragraph is effective for 5 model years or, if requested by the manufacturer, a longer period provided by the Secretary in the order granting the exemption. The exemption applies to passenger automobiles manufactured by that manufacturer during the period of the exemption.
+(B) The Secretary of Transportation shall grant the exemption unless the Secretary finds that the exemption would result in reduced employment in the United States related to motor vehicle manufacturing during the period of the exemption. An exemption under this paragraph is effective for 5 model years or, if requested by the manufacturer, a longer period provided by the Secretary in the order granting the exemption. The exemption applies to passenger automobiles manufactured by that manufacturer during the period of the exemption.
 
 (C) Before granting an exemption, the Secretary of Transportation shall provide notice of, and reasonable opportunity for, written or oral comment about the petition. The period for comment shall end not later than 60 days after the petition is filed, except that the Secretary may extend the period for not more than another 30 days. The Secretary shall decide whether to grant or deny the exemption, and publish notice of the decision in the Federal Register, not later than 90 days after the petition is filed, except that the Secretary may extend the time for decision to a later date (not later than 150 days after the petition is filed) if the Secretary publishes notice of, and reasons for, the extension in the Federal Register. If the Secretary does not make a decision within the time provided in this subparagraph, the petition is deemed to have been granted. Not later than 30 days after the end of the decision period, the Secretary shall submit a written statement of the reasons for not making a decision to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Commerce of the House of Representatives.
 
@@ -84,7 +84,7 @@ Separate Calculations for Passenger Automobiles Manufactured Domestically and No
 
 (B) A judgment of the court under this subparagraph may be reviewed by the Supreme Court under section 1254 of title 28. Application for review by the Supreme Court must be made not later than 30 days after entry of the court's judgment.
 
-(C) A decision of the Secretary of Transportation on a petition for an exemption under this paragraph may be reviewed administratively or judicially only as provided in this paragraph.
+(C) A decision of the Secretary of Transportation on a petition for an exemption under thisparagraph may be reviewed administratively or judicially only as provided in this paragraph.
 
 (8) Notwithstanding section 32903 of this title, during a model year when an exemption under this paragraph is effective for a manufacturer—
 

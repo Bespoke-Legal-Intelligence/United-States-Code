@@ -10,7 +10,7 @@
 
 &emsp;(4) the term “Government Securities Investment Fund” means the Government Securities Investment Fund established under subsection (b)(1)(A);
 
-&emsp;(5) the term “International Stock Index Investment Fund” means the International Stock Index Investment Fund established under subsection (b)(1)(E);
+&emsp;(5) the term “International Stock Index Investment Fund” means the InternationalStock Index Investment Fund established under subsection (b)(1)(E);
 
 &emsp;(6) the term “net worth” means capital, paid-in and contributed surplus, unassigned surplus, contingency reserves, group contingency reserves, and special reserves;
 
@@ -76,7 +76,7 @@
 
 (2)(A) The Board shall select an index which is a commonly recognized index comprised of common stock the aggregate market value of which is a reasonably complete representation of the United States equity markets.
 
-(B) The Common Stock Index Investment Fund shall be invested in a portfolio designed to replicate the performance of the index selected under subparagraph (A). The portfolio shall be designed such that, to the extent practicable, the percentage of the Common Stock Index Investment Fund that is invested in each stock is the same as the percentage determined by dividing the aggregate market value of all shares of that stock by the aggregate market value of all shares of all stocks included in such index.
+(B) The Common Stock Index Investment Fund shall be invested in a portfolio designed to replicate the performance of the index selected under subparagraph (A). The portfolio shall be designed such that, to the extent practicable,the percentage of the Common Stock Index Investment Fund that is invested in each stock is the same as the percentage determined by dividing the aggregate market value of all shares of that stock by the aggregate market value of all shares of all stocks included in such index.
 
 (3)(A) The Board shall select an index which is a commonly recognized index comprised of common stock the aggregate market value of which represents the United States equity markets excluding the common stocks included in the Common Stock Index Investment Fund.
 
@@ -88,7 +88,7 @@
 
 (c)(1) The Executive Director shall invest the sums available in the Thrift Savings Fund for investment as provided in elections made under subsection (d).
 
-(2) If an election has not been made with respect to any sums in the Thrift Savings Fundavailable for investment, the Executive Director shall invest such sums in the Government Securities Investment Fund.
+(2) If an election has not been made with respect to any sums in the Thrift Savings Fund available for investment, the Executive Director shall invest such sums in the Government Securities Investment Fund.
 
 (d)(1) At least twice each year, an employee or Member (or former employee or Member) may elect the investment funds referred to in subsection (b) into which the sums in the Thrift Savings Fund credited to such individual's account are to be invested or reinvested.
 
@@ -114,7 +114,7 @@
 
 &emsp;(B) the net amount of interest actually earned by the Government Securities Investment Fund from obligations of the United States during such debt issuance suspension period.
 
-(5) On each business day during the debt limit suspension period, the Executive Director shall notify the Secretary of the Treasury of the amounts, by maturity, that would have been invested or redeemed each day had the debt issuance suspension period not occurred.
+(5) On each business day during the debt limit suspension period, the Executive Director shallnotify the Secretary of the Treasury of the amounts, by maturity, that would have been invested or redeemed each day had the debt issuance suspension period not occurred.
 
 (6) For purposes of this subsection and subsection (h) of this section—
 

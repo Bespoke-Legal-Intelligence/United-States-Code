@@ -20,7 +20,7 @@ The application under subsection (a) of this section shall be submitted in such 
 
 &emsp;(2)(A) the applicant's program is in full compliance with the standards established under subsection (b) of this section, or
 
-&emsp;(B)(i) the applicant will make substantial progress toward bringing the program into compliance with such standards, and (ii) the program will, not later than three years after the date of approval of the initial application or the date standards are promulgated under subsection (b) of this section, whichever is later, fully comply with such standards;
+&emsp;(B)(i) the applicant will make substantial progress toward bringing the program into compliance with such standards, and (ii) theprogram will, not later than three years after the date of approval of the initial application or the date standards are promulgated under subsection (b) of this section, whichever is later, fully comply with such standards;
 
 &emsp;(3) the human rights of all individuals with developmental disabilities (especially those individuals without familial protection) who are receiving services under programs assisted under this subchapter will be protected consistent with section 6009 of this title (relating to rights of individuals with developmental disabilities);
 
@@ -88,7 +88,7 @@ Provisions of title 5 governing appointments in competitive service, referred to
 
 #### Prior Provisions
 
-A prior section 6063, Pub. L. 88–164, title I, §133, formerly §134, as added Pub. L. 91–517, title I, §101(b), Oct. 30, 1970, 84 Stat. 1319; renumbered §133 and amended Pub. L. 94–103, title I, §§110(e)(2), 111, title III, §302(a), (b)(2), Oct. 4, 1975, 89 Stat. 490, 506; Pub. L. 95–602, title V, §511, Nov. 6, 1978, 92 Stat. 3011, related to State plans, prior to the general amendment of this chapter by Pub. L. 98–527. See section 6022 of this title.
+A prior section 6063, Pub. L. 88–164, title I, §133, formerly §134, as added Pub. L. 91–517, title I, §101(b), Oct.30, 1970, 84 Stat. 1319; renumbered §133 and amended Pub. L. 94–103, title I, §§110(e)(2), 111, title III, §302(a), (b)(2), Oct. 4, 1975, 89 Stat. 490, 506; Pub. L. 95–602, title V, §511, Nov. 6, 1978, 92 Stat. 3011, related to State plans, prior to the general amendment of this chapter by Pub. L. 98–527. See section 6022 of this title.
 
 #### Amendments
 

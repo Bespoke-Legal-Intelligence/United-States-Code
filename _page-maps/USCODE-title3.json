@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title3",
- "package": "USCODE-1998-title3",
+ "package": "USCODE-1999-title3",
  "pieces": [
   {
    "id": "3_",
@@ -334,50 +334,53 @@
    "marks": [
     [
      "I",
-     42,
+     34,
      [
       [
-       376,
+       107,
        "[Page 14]"
       ]
      ]
     ],
     [
-     "I",
+     "L",
      100,
+     "[Page 15]",
+     true
+    ],
+    [
+     "I",
+     158,
      [
       [
-       549,
-       "[Page 15]"
+       112,
+       "[Page 16]"
       ]
      ]
     ],
     [
-     "L",
-     160,
-     "[Page 16]",
-     true
+     "I",
+     244,
+     [
+      [
+       115,
+       "[Page 17]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 002 - Office and Compensation of President/§ 00102 - Compensation of the President.md",
    "printed_pages": [
     13,
-    16
+    17
    ]
   },
   {
    "id": "3_103",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 17]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Office and Compensation of President/§ 00103 - Traveling expenses.md",
    "printed_pages": [
-    16,
+    17,
     17
    ]
   },
@@ -385,20 +388,20 @@
    "id": "3_104",
    "marks": [
     [
-     "L",
-     70,
-     "[Page 18]",
-     true
-    ],
-    [
      "I",
-     126,
+     48,
      [
       [
-       219,
-       "[Page 19]"
+       105,
+       "[Page 18]"
       ]
      ]
+    ],
+    [
+     "L",
+     118,
+     "[Page 19]",
+     true
     ]
    ],
    "path": "Chapter 002 - Office and Compensation of President/§ 00104 - Salary of the Vice President.md",
@@ -411,20 +414,22 @@
    "id": "3_105",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       330,
-       "[Page 20]"
-      ]
-     ]
+     "L",
+     38,
+     "[Page 20]",
+     true
+    ],
+    [
+     "L",
+     102,
+     "[Page 21]",
+     true
     ]
    ],
    "path": "Chapter 002 - Office and Compensation of President/§ 00105 - Assistance and services for the President.md",
    "printed_pages": [
     19,
-    20
+    21
    ]
   },
   {
@@ -432,24 +437,14 @@
    "marks": [
     [
      "L",
-     10,
-     "[Page 21]",
+     58,
+     "[Page 22]",
      true
-    ],
-    [
-     "I",
-     72,
-     [
-      [
-       159,
-       "[Page 22]"
-      ]
-     ]
     ]
    ],
    "path": "Chapter 002 - Office and Compensation of President/§ 00106 - Assistance and services for the Vice President.md",
    "printed_pages": [
-    20,
+    21,
     22
    ]
   },
@@ -457,10 +452,14 @@
    "id": "3_107",
    "marks": [
     [
-     "L",
-     48,
-     "[Page 23]",
-     true
+     "I",
+     32,
+     [
+      [
+       111,
+       "[Page 23]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 002 - Office and Compensation of President/§ 00107 - Domestic Policy Staff and Office of Administration; personnel.md",
@@ -480,40 +479,33 @@
   },
   {
    "id": "3_109",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 24]",
+     true
+    ]
+   ],
    "path": "Chapter 002 - Office and Compensation of President/§ 00109 - Public property in and belonging to the Executive Residence at the White House.md",
    "printed_pages": [
     23,
-    23
+    24
    ]
   },
   {
    "id": "3_110",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       373,
-       "[Page 24]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     68,
-     [
-      [
-       106,
-       "[Page 25]"
-      ]
-     ]
+     "L",
+     62,
+     "[Page 25]",
+     true
     ]
    ],
    "path": "Chapter 002 - Office and Compensation of President/§ 00110 - Furniture for the Executive Residence at the White House.md",
    "printed_pages": [
-    23,
+    24,
     25
    ]
   },
@@ -522,10 +514,10 @@
    "marks": [
     [
      "I",
-     32,
+     20,
      [
       [
-       314,
+       117,
        "[Page 26]"
       ]
      ]
@@ -551,10 +543,10 @@
    "marks": [
     [
      "I",
-     14,
+     6,
      [
       [
-       95,
+       374,
        "[Page 27]"
       ]
      ]
@@ -579,10 +571,14 @@
    "id": "3_115",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 28]",
-     true
+     "I",
+     4,
+     [
+      [
+       93,
+       "[Page 28]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 002 - Office and Compensation of President/§ 00115 - Veterans’ preference.md",
@@ -613,10 +609,14 @@
    "id": "3_202",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 29]",
-     true
+     "I",
+     14,
+     [
+      [
+       108,
+       "[Page 29]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - Protection of the President; United States Secret Service Uniformed Division/§ 00202 - United States Secret Service Uniformed Division; establishment, control, and supervision; privileges, powers, and duties.md",
@@ -630,10 +630,10 @@
    "marks": [
     [
      "I",
-     6,
+     2,
      [
       [
-       107,
+       87,
        "[Page 30]"
       ]
      ]
@@ -650,7 +650,7 @@
    "marks": [
     [
      "L",
-     46,
+     32,
      "[Page 31]",
      true
     ]
@@ -681,11 +681,22 @@
   },
   {
    "id": "3_207",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       106,
+       "[Page 32]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - Protection of the President; United States Secret Service Uniformed Division/§ 00207 - Participation in police and firemen's relief fund.md",
    "printed_pages": [
     31,
-    31
+    32
    ]
   },
   {
@@ -693,34 +704,27 @@
    "marks": [
     [
      "I",
-     2,
+     58,
      [
       [
-       138,
-       "[Page 32]"
+       373,
+       "[Page 33]"
       ]
      ]
     ]
    ],
    "path": "Chapter 003 - Protection of the President; United States Secret Service Uniformed Division/§ 00208 - Reimbursement of State and local governments.md",
    "printed_pages": [
-    31,
-    32
+    32,
+    33
    ]
   },
   {
    "id": "3_209",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 33]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Protection of the President; United States Secret Service Uniformed Division/§ 00209 - Appropriation to carry out provisions.md",
    "printed_pages": [
-    32,
+    33,
     33
    ]
   },
@@ -737,112 +741,124 @@
    "id": "3_301",
    "marks": [
     [
-     "L",
-     44,
-     "[Page 34]",
-     true
+     "I",
+     32,
+     [
+      [
+       167,
+       "[Page 34]"
+      ]
+     ]
     ],
     [
      "I",
-     84,
+     80,
      [
       [
-       868,
+       219,
        "[Page 35]"
       ]
      ]
     ],
     [
      "L",
-     134,
+     122,
      "[Page 36]",
      true
     ],
     [
-     "L",
-     184,
-     "[Page 37]",
-     true
+     "I",
+     174,
+     [
+      [
+       212,
+       "[Page 37]"
+      ]
+     ]
     ],
     [
      "I",
-     226,
+     220,
      [
       [
-       164,
+       219,
        "[Page 38]"
       ]
      ]
     ],
     [
      "L",
-     280,
+     272,
      "[Page 39]",
      true
     ],
     [
      "I",
-     344,
+     342,
      [
       [
-       450,
+       274,
        "[Page 40]"
       ]
      ]
     ],
     [
      "I",
-     396,
+     390,
      [
       [
-       386,
+       172,
        "[Page 41]"
       ]
      ]
     ],
     [
      "L",
-     472,
+     462,
      "[Page 42]",
      true
     ],
     [
      "I",
-     516,
+     502,
      [
       [
-       108,
+       436,
        "[Page 43]"
       ]
      ]
     ],
     [
-     "L",
-     568,
-     "[Page 44]",
-     true
+     "I",
+     554,
+     [
+      [
+       223,
+       "[Page 44]"
+      ]
+     ]
     ],
     [
      "L",
-     618,
+     612,
      "[Page 45]",
      true
     ],
     [
-     "L",
-     692,
-     "[Page 46]",
-     true
-    ],
-    [
      "I",
-     766,
+     678,
      [
       [
-       103,
-       "[Page 47]"
+       450,
+       "[Page 46]"
       ]
      ]
+    ],
+    [
+     "L",
+     756,
+     "[Page 47]",
+     true
     ]
    ],
    "path": "Chapter 004 - Delegation of Functions/§ 00301 - General authorization to delegate functions; publication of delegations.md",
@@ -853,26 +869,26 @@
   },
   {
    "id": "3_302",
-   "marks": [],
-   "path": "Chapter 004 - Delegation of Functions/§ 00302 - Scope of delegation of functions.md",
-   "printed_pages": [
-    47,
-    47
-   ]
-  },
-  {
-   "id": "3_303",
    "marks": [
     [
      "L",
-     10,
+     6,
      "[Page 48]",
      true
     ]
    ],
-   "path": "Chapter 004 - Delegation of Functions/§ 00303 - Definitions.md",
+   "path": "Chapter 004 - Delegation of Functions/§ 00302 - Scope of delegation of functions.md",
    "printed_pages": [
     47,
+    48
+   ]
+  },
+  {
+   "id": "3_303",
+   "marks": [],
+   "path": "Chapter 004 - Delegation of Functions/§ 00303 - Definitions.md",
+   "printed_pages": [
+    48,
     48
    ]
   },
@@ -899,7 +915,7 @@
    "marks": [
     [
      "L",
-     70,
+     50,
      "[Page 49]",
      true
     ]
@@ -942,30 +958,33 @@
    "marks": [
     [
      "L",
-     28,
+     8,
      "[Page 50]",
      true
+    ],
+    [
+     "I",
+     102,
+     [
+      [
+       112,
+       "[Page 51]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part A - Employment Discrimination, Family and Medical Leave, Fair Labor Standards, Employee Polygraph Protection, Worker Adjustment and Retraining…/§ 00411 - Rights and protections under title VII of the Civil Rights Act of 1964, the Age Discrimination in Employment Act of 1967, the….md",
    "printed_pages": [
     49,
-    50
+    51
    ]
   },
   {
    "id": "3_412",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 51]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part A - Employment Discrimination, Family and Medical Leave, Fair Labor Standards, Employee Polygraph Protection, Worker Adjustment and Retraining…/§ 00412 - Rights and protections under the Family and Medical Leave Act of 1993.md",
    "printed_pages": [
-    50,
+    51,
     51
    ]
   },
@@ -974,10 +993,10 @@
    "marks": [
     [
      "I",
-     50,
+     32,
      [
       [
-       112,
+       347,
        "[Page 52]"
       ]
      ]
@@ -1003,7 +1022,7 @@
    "marks": [
     [
      "L",
-     56,
+     42,
      "[Page 53]",
      true
     ]
@@ -1025,11 +1044,18 @@
   },
   {
    "id": "3_417",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 54]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part A - Employment Discrimination, Family and Medical Leave, Fair Labor Standards, Employee Polygraph Protection, Worker Adjustment and Retraining…/§ 00417 - Prohibition of intimidation or reprisal.md",
    "printed_pages": [
     53,
-    53
+    54
    ]
   },
   {
@@ -1037,23 +1063,16 @@
    "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part B - Public Access Provisions under the Americans with Disabilities Act of 1990/README.md",
    "printed_pages": [
-    53,
-    53
+    54,
+    54
    ]
   },
   {
    "id": "3_421",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 54]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part B - Public Access Provisions under the Americans with Disabilities Act of 1990/§ 00421 - Rights and protections under the Americans with Disabilities Act of 1990.md",
    "printed_pages": [
-    53,
+    54,
     54
    ]
   },
@@ -1070,14 +1089,10 @@
    "id": "3_425",
    "marks": [
     [
-     "I",
-     36,
-     [
-      [
-       95,
-       "[Page 55]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 55]",
+     true
     ]
    ],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part C - Occupational Safety and Health Act of 1970/§ 00425 - Rights and protections under the Occupational Safety and Health Act of 1970; procedures for remedy of violations.md",
@@ -1088,30 +1103,26 @@
   },
   {
    "id": "3_-ch5-scII-Part_D",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 56]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part D - Labor-Management Relations/README.md",
    "printed_pages": [
     55,
-    55
+    56
    ]
   },
   {
    "id": "3_431",
-   "marks": [
-    [
-     "I",
-     20,
-     [
-      [
-       167,
-       "[Page 56]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part D - Labor-Management Relations/§ 00431 - Application of chapter 71 of title 5, relating to Federal service labor-management relations; procedures for remedy of violations.md",
    "printed_pages": [
-    55,
+    56,
     56
    ]
   },
@@ -1128,14 +1139,10 @@
    "id": "3_435",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       185,
-       "[Page 57]"
-      ]
-     ]
+     "L",
+     30,
+     "[Page 57]",
+     true
     ]
    ],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 002 (II) - Extension of Rights and Protections/Part E - General/§ 00435 - Generally applicable remedies and limitations.md",
@@ -1184,10 +1191,14 @@
    "id": "3_454",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 58]",
-     true
+     "I",
+     16,
+     [
+      [
+       571,
+       "[Page 58]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices/Subchapter 003 (III) - Administrative and Judicial Dispute Resolution Procedures/§ 00454 - Appropriate agencies.md",
@@ -1233,6 +1244,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1998-title3 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1999-title3 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 03 - The President"
 }

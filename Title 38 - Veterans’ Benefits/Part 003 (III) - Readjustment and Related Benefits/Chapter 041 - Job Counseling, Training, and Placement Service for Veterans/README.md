@@ -21,7 +21,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |
+| :--- | ---: |
+| [4111\.](%C2%A7%2004111%20-%20Homeless%20veterans%E2%80%99%20reintegration%20programs.md) | Homeless veterans’ reintegration programs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+1999—Pub. L. 106–117, title IX, §901(b), Nov. 30, 1999, 113 Stat. 1587, added item 4111.
 
 1991—Pub. L. 102–83, §5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 2000 to 2010A as 4100 to 4110A, respectively.
 
@@ -72,3 +80,4 @@ This chapter is referred to in title 20 section 9271; title 29 sections 2822, 28
 - [&sect; 04110 - Advisory Committee on Veterans Employment and Training](%C2%A7%2004110%20-%20Advisory%20Committee%20on%20Veterans%20Employment%20and%20Training.md)
 - [&sect; 04110A - Special unemployment study](%C2%A7%2004110A%20-%20Special%20unemployment%20study.md)
 - [&sect; 04110B - Coordination and nonduplication](%C2%A7%2004110B%20-%20Coordination%20and%20nonduplication.md)
+- [&sect; 04111 - Homeless veterans&#8217; reintegration programs](%C2%A7%2004111%20-%20Homeless%20veterans%E2%80%99%20reintegration%20programs.md)

@@ -26,7 +26,7 @@ The remedy for a violation of subsection (a) of this section shall be an order t
 
 #### (1) Requests for inspections
 
-&emsp;Upon written request of any employing office or covered employee, the General Counsel shall exercise the authorities granted to the Secretary of Labor by subsections (a), (d), (e), and (f) of section 8 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 657(a), (d), (e), and (f)) to inspect and investigate places of employment under the jurisdiction of employing offices.
+&emsp;Upon written request of any employing office or covered employee, the General Counselshall exercise the authorities granted to the Secretary of Labor by subsections (a), (d), (e), and (f) of section 8 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 657(a), (d), (e), and (f)) to inspect and investigate places of employment under the jurisdiction of employing offices.
 
 #### (2) Citations, notices, and notifications
 
@@ -86,7 +86,7 @@ The remedy for a violation of subsection (a) of this section shall be an order t
 
 #### (4) Detailed personnel
 
-&emsp;The Secretary of Labor may, on request of the Executive Director, detail to the Office such personnel as may be necessary to advise and assist the Office in carrying out its duties under this section.
+&emsp;The Secretary of Labor may, on request of the Executive Director, detail to the Officesuch personnel as may be necessary to advise and assist the Office in carrying out its duties under this section.
 
 #### (f) Initial period for study and corrective action
 

@@ -65,7 +65,7 @@
 | (18) | Milk prices. |
 | (19) | Producer or processor referendum for approving order. |
 | 608c–1. | Repealed. |
-| [608d.](Subchapter%20003%20%28III%29%20-%20Commodity%20Benefits/%C2%A7%2000608d%20-%20Books%20and%20records%3B%20disclosure%20of%20information%3B%20notification%20of%20Congressional%20committees.md) | Books and records; disclosure of information; notification of Congressional committees. |
+| [608d.](Subchapter%20003%20%28III%29%20-%20Commodity%20Benefits/%C2%A7%2000608d%20-%20Books%20and%20records.md) | Books and records. |
 | [608e.](Subchapter%20003%20%28III%29%20-%20Commodity%20Benefits/%C2%A7%2000608e%20-%20Repealed.%20July%203%2C%201948%2C%20ch.%20827%2C%20title%20III%2C%20%C2%A7302%28d%29%2C%2062%20Stat.%201258.md) | Repealed. |
 | 608e–1. | Import prohibitions on specified foreign produce. |
 | (a) | Import prohibitions on tomatoes, avocadoes, limes, etc. |
@@ -114,6 +114,12 @@
 | (a) | Compilation and report on imports. |
 | (b) | Compilation and report on consumption. |
 | (c) | Issuing of data. |
+| [627\.](Subchapter%20003%20%28III%29%20-%20Commodity%20Benefits/%C2%A7%2000627%20-%20Dairy%20forward%20pricing%20pilot%20program.md) | Dairy forward pricing pilot program. |
+| (a) | Pilot program required. |
+| (b) | Minimum milk price requirements. |
+| (c) | Milk covered by pilot program. |
+| (d) | Duration. |
+| (e) | Study and report on effect of pilot program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

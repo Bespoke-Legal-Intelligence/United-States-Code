@@ -14,7 +14,7 @@
 
 &emsp;(ii) if the Trade Representative determines that substantial progress is being made, or that a delay is necessary or desirable, to obtain United States rights or a satisfactory solution with respect to the acts, policies, or practices that are the subject of the action.
 
-(B) The Trade Representative may not delay under subparagraph (A) the implementation of any action that is to be taken under section 2411 of this title with respect to any investigation to which section 2414(a)(3)(A) of this title applies.
+(B) The Trade Representative may not delay under subparagraph (A) the implementation ofany action that is to be taken under section 2411 of this title with respect to any investigation to which section 2414(a)(3)(A) of this title applies.
 
 (C) The Trade Representative may not delay under subparagraph (A) the implementation of any action that is to be taken under section 2411 of this title with respect to any investigation to which section 2414(a)(3)(B) of this title applies by more than 90 days.
 

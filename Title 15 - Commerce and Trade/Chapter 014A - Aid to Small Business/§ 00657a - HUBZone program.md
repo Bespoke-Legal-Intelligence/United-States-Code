@@ -72,7 +72,7 @@ There is established within the Administration a program to be carried out by th
 
 #### References in Text
 
-The Javits-Wagner-O'Day Act, referred to in subsec. (b)(4), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
+The Javits-Wagner-O'Day Act, referred to in subsec. (b)(4), is act June 25, 1938, ch. 697, 52 Stat. 1196, asamended, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
@@ -84,7 +84,7 @@ Section effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a
 
 #### Initial Limited Applicability
 
-Section 602(b)(2) of Pub. L. 105–135 provided that: “During the period beginning on the date of enactment of this Act \[Dec. 2, 1997\] and ending on September 30, 2000, section 31 of the Small Business Act \[15 U.S.C. 657a\] (as added by paragraph (1) of this subsection) shall apply only to procurements by—
+Pub. L. 105–135, title VI, §602(b)(2), Dec. 2, 1997, 111 Stat. 2631, as amended by Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §212\], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, provided that: “During the period beginning on the date of enactment of this Act \[Dec. 2, 1997\] and ending on September 30, 2000, section 31 of the Small Business Act \[15 U.S.C. 657a\] (as added by paragraph (1) of this subsection) shall apply only to procurements by—
 
 &emsp;“(A) the Department of Defense;
 
@@ -102,9 +102,15 @@ Section 602(b)(2) of Pub. L. 105–135 provided that: “During the period begin
 
 &emsp;“(H) the National Aeronautics and Space Administration;
 
-&emsp;“(I) the General Services Administration; and
+&emsp;“(I) the General Services Administration;
 
-&emsp;“(J) the Department of Veterans Affairs.”
+&emsp;“(J) the Department of Veterans Affairs;
+
+&emsp;“(K) the Department of Commerce;
+
+&emsp;“(L) the Department of Justice; and
+
+&emsp;“(M) the Department of State.”
 
 #### Report
 

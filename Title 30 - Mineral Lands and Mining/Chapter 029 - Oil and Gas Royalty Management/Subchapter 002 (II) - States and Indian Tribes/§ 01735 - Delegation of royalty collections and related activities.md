@@ -40,7 +40,7 @@ After notice and opportunity for hearing, the Secretary shall issue a ruling as 
 
 #### (d) Promulgation of standards and regulations with respect to delegation
 
-After consultation with State authorities, the Secretary shall by rule promulgate, within 12 months after August 13, 1996, standards and regulations pertaining to the authorities and responsibilities to be delegated under subsection (a) of this section, including standards and regulations pertaining to—
+After consultation with State authorities, the Secretary shall by rule promulgate, within 12months after August 13, 1996, standards and regulations pertaining to the authorities and responsibilities to be delegated under subsection (a) of this section, including standards and regulations pertaining to—
 
 &emsp;(1) audits to be performed;
 

@@ -52,7 +52,7 @@ Subsec. (c). Pub. L. 104–106, §1062(d), struck out “(1)” before “With r
 
 Subsec. (a)(4). Pub. L. 103–355, §3015(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (a)(5). Pub. L. 103–355, §3015(2), redesignated par. (4) as (5) and inserted after first sentence “If thequantity exceeds 10 percent of the total number of articles to be produced, as determined at the milestone II decision with respect to that system, the Secretary shall include in the statement the reasons for such quantity.”
+Subsec. (a)(5). Pub. L. 103–355, §3015(2), redesignated par. (4) as (5) and inserted after first sentence “If the quantity exceeds 10 percent of the total number of articles to be produced, as determined at the milestone II decision with respect to that system, the Secretary shall include in the statement the reasons for such quantity.”
 
 #### Effective Date of 1996 Amendment
 

@@ -20,7 +20,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 10703, 10742 of this title.
+This chapter is referred to in sections 113, 10703, 10742 of this title.
 
 
 ---

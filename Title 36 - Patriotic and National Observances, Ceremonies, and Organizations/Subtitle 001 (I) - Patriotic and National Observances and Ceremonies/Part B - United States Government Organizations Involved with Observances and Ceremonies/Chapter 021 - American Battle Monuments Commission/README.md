@@ -14,8 +14,14 @@
 | [2110\.](%C2%A7%2002110%20-%20Claims%20against%20the%20Commission.md) | Claims against the Commission. |
 | [2111\.](%C2%A7%2002111%20-%20Presidential%20duties%20and%20powers.md) | Presidential duties and powers. |
 | [2112\.](%C2%A7%2002112%20-%20Care%20and%20maintenance%20of%20Surrender%20Tree%20site.md) | Care and maintenance of Surrender Tree site. |
+| [2113\.](%C2%A7%2002113%20-%20World%20War%20II%20memorial%20in%20the%20District%20of%20Columbia.md) | World War II memorial in the District of Columbia. |
+| [2114\.](%C2%A7%2002114%20-%20Intellectual%20property%20and%20related%20items.md) | Intellectual property and related items. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1999—Pub. L. 106–117, title VI, §§601(a)(2), 603(b), Nov. 30, 1999, 113 Stat. 1578, 1579, added items 2113 and 2114.
 
 
 ---
@@ -34,3 +40,5 @@
 - [&sect; 02110 - Claims against the Commission](%C2%A7%2002110%20-%20Claims%20against%20the%20Commission.md)
 - [&sect; 02111 - Presidential duties and powers](%C2%A7%2002111%20-%20Presidential%20duties%20and%20powers.md)
 - [&sect; 02112 - Care and maintenance of Surrender Tree site](%C2%A7%2002112%20-%20Care%20and%20maintenance%20of%20Surrender%20Tree%20site.md)
+- [&sect; 02113 - World War II memorial in the District of Columbia](%C2%A7%2002113%20-%20World%20War%20II%20memorial%20in%20the%20District%20of%20Columbia.md)
+- [&sect; 02114 - Intellectual property and related items](%C2%A7%2002114%20-%20Intellectual%20property%20and%20related%20items.md)

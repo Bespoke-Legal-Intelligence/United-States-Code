@@ -26,7 +26,7 @@ Fee System.—The Secretary may establish, under section 9701 of title 31, a fee
 
 (d)
 
-State Registration Programs.—If the Secretary determines that no State should require insurance filings or collect fees for suchfilings (including filings and fees authorized under section 14504), the Secretary may prevent any State or political subdivision thereof, or any political authority of 2 or more States, from imposing any insurance filing requirements or fees that are for the same purposes as filings or fees the Secretary requires under the new system under subsection (a). The Secretary may not take any action pursuant to this subsection unless—
+State Registration Programs.—If the Secretary determines that no State should require insurance filings or collect fees for such filings (including filings and fees authorized under section 14504), the Secretary may prevent any State or political subdivision thereof, or any political authority of 2 or more States, from imposing any insurance filing requirements or fees that are for the same purposes as filings or fees the Secretary requires under the new system under subsection (a). The Secretary may not take any action pursuant to this subsection unless—
 
 &emsp;(1) fees that will be collected by the Secretary under subsection (c) and distributed in each fiscal year to the States will provide each State with at least as much revenue as that State received in fiscal year 1995 under section 11506, as in effect on December 31, 1995; and
 

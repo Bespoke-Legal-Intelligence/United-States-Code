@@ -58,7 +58,7 @@ Number and appointment.—The Commission shall be composed of 17 members, of who
 
 &emsp;&emsp;“(A) four shall be appointed by the President;
 
-&emsp;&emsp;“(B) six shall be appointed by the Majority Leader of the Senate, in consultation with the MinorityLeader of the Senate, of whom not more than 4 shall be of the same political party;
+&emsp;&emsp;“(B) six shall be appointed by the Majority Leader of the Senate, in consultation with the Minority Leader of the Senate, of whom not more than 4 shall be of the same political party;
 
 &emsp;&emsp;“(C) six shall be appointed by the Speaker of the House of Representatives, in consultation with the Minority Leader of the House of Representatives, of whom not more than 4 shall be of the same political party; and
 
@@ -190,7 +190,7 @@ Old-Age, Survivors, and Disability, and Hospital Insurance Programs.—For purpo
 
 “(b)
 
-Railroad Retirement Program.—For purposes of chapter 22 of the Internal Revenue Code of 1986 \[26 U.S.C. 3201 et seq.\], the term ‘compensation’ shall notinclude the amount of any refund required under section 421 of the Medicare Catastrophic Coverage Act of 1988.
+Railroad Retirement Program.—For purposes of chapter 22 of the Internal Revenue Code of 1986 \[26 U.S.C. 3201 et seq.\], the term ‘compensation’ shall not include the amount of any refund required under section 421 of the Medicare Catastrophic Coverage Act of 1988.
 
 “(c)
 
@@ -340,7 +340,7 @@ Use of Mails.—The Commission may use the United States mails in the same manne
 
 “(g)
 
-Obtaining Information.—The Commission may secure directly from any Federal agency information necessary to enable it to carry out its duties, if the information may be disclosed under section 552 of title 5, United States Code. Upon request of the Chairman of the Commission, the head of such agency shall furnish such information to the Commission.
+Obtaining Information.—The Commission may secure directly from any Federal agency information necessary to enable it to carry out its duties, if the information may be disclosed under section 552 of title 5, United States Code. Upon request of the Chairman ofthe Commission, the head of such agency shall furnish such information to the Commission.
 
 “(h)
 

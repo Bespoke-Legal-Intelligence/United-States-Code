@@ -26,5 +26,5 @@ Standards for Award.—An award of the Purple Heart under subsection (a) shall b
 
 “(c)
 
-Eligible Former Prisoners of War.—A person shall be considered to be a former prisoner of war for purposes of this section if the person is eligible for the prisoner-of-war medal under section 1128 of title 10, United States Code.”
+Eligible Former Prisoners of War.—A person shall be considered to be a former prisoner of war for purposes of this section if the person is eligible for theprisoner-of-war medal under section 1128 of title 10, United States Code.”
 

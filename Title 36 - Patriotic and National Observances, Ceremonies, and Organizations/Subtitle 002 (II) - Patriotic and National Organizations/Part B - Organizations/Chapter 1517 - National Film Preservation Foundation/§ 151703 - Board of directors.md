@@ -62,29 +62,43 @@ Oct. 11, 1996, Pub. L. 104–285, title II, §§203(a)–(f), (g)(2)(A) (last se
 
 36:5702(a) (3d sentence), (b) (1st sentence).
 
+&nbsp;
+
 151703(b)(2)
 
 36:5702(a) (1st sentence words after 1st comma, 2d sentence).
+
+&nbsp;
 
 151703(b)(3)
 
 36:5702(a) (last sentence), (g)(2)(A) (last sentence related to board of directors).
 
+&nbsp;
+
 151703(b)(4)
 
 36:5702(b) (2d, last sentences).
+
+&nbsp;
 
 151703(b)(5)
 
 36:5702(b) (3d sentence).
 
+&nbsp;
+
 151703(c)–(f)
 
 36:5702(c)–(f).
 
+&nbsp;
+
 151703(g)
 
 36:5703(c)(5) (words after 2d comma).
+
+&nbsp;
 
 Subsection (a) is substituted for “The Foundation shall have a governing Board of Directors (hereafter in this title referred to as the ‘Board’)” for consistency in the revised title and to eliminate unnecessary words.
 

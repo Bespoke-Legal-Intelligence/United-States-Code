@@ -96,7 +96,7 @@ As used in this section—
 
 &emsp;The regulations prescribed under this section shall—
 
-&emsp;&emsp;(A) contain provisions to implement each of the requirements of this section, other than the requirements established by therulemaking under subsection (e) of this section on access and compensation; and
+&emsp;&emsp;(A) contain provisions to implement each of the requirements of this section, other than the requirements established by the rulemaking under subsection (e) of this section on access and compensation; and
 
 &emsp;&emsp;(B) contain such other provisions as the Commission determines necessary to carry out this section and the purposes and policies of this section.
 
@@ -104,7 +104,7 @@ As used in this section—
 
 &emsp;The regulations prescribed under this section shall, at a minimum—
 
-&emsp;&emsp;(A) establish minimum standards for providers of operator services and aggregators to use in the routing and handling of emergency telephone calls; and
+&emsp;&emsp;(A) establish minimum standards for providers of operator services and aggregatorsto use in the routing and handling of emergency telephone calls; and
 
 &emsp;&emsp;(B) establish a policy for requiring providers of operator services to make public information about recent changes in operator services and choices available to consumers in that market.
 
@@ -174,7 +174,7 @@ In any proceeding to carry out the provisions of this section, the Commission sh
 
 #### (B) Reports
 
-&emsp;&emsp;(i) The Commission shall, during the pendency of such proceeding and not later than 5months after its commencement, provide the Congress with an interim report on the Commission's activities and progress to date.
+&emsp;&emsp;(i) The Commission shall, during the pendency of such proceeding and not later than 5 months after its commencement, provide the Congress with an interim report on the Commission's activities and progress to date.
 
 &emsp;&emsp;(ii) Not later than 11 months after the commencement of such proceeding, the Commission shall report to the Congress on its interim findings as a result of the proceeding.
 

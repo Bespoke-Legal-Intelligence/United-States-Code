@@ -6,7 +6,7 @@ The cost of conducting examinations of savings associations pursuant to section 
 
 #### (b) Examination of affiliates
 
-The cost of conducting examinations of affiliates of savings associations pursuant to this chapter may be assessed by the Director against each affiliate that is examined as the Director deems necessary or appropriate.
+The cost of conducting examinations of affiliates of savings associations pursuant to thischapter may be assessed by the Director against each affiliate that is examined as the Director deems necessary or appropriate.
 
 #### (c) Assessment against association in case of affiliate's refusal to pay
 
@@ -102,7 +102,7 @@ The Director is authorized to use the combined resources retained through fees a
 
 #### Prior Provisions
 
-A prior section 1467, acts June 13, 1933, ch. 64, §8, 48 Stat. 134; Apr. 27, 1934, ch. 168, §12, 48 Stat. 647; May 28,1935, ch. 150, §§20, 21, 49 Stat. 298, related to penalties, prior to repeal by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948. See sections 223, 433, 493, 657, 1006, and 1014 of Title 18, Crimes and Criminal Procedure.
+A prior section 1467, acts June 13, 1933, ch. 64, §8, 48 Stat. 134; Apr. 27, 1934, ch. 168, §12, 48 Stat. 647; May 28, 1935, ch. 150, §§20, 21, 49 Stat. 298, related to penalties, prior to repeal by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948. See sections 223, 433, 493, 657, 1006, and 1014 of Title 18, Crimes and Criminal Procedure.
 
 A prior section 9 of act June 13, 1933, was renumbered section 11 and is classified to section 1468 of this title.
 

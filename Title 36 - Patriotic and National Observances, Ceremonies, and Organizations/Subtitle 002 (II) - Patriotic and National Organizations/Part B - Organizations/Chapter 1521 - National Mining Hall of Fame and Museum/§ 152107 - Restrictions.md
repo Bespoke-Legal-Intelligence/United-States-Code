@@ -42,15 +42,21 @@ Nov. 14, 1988, Pub. L. 100–655, §107(a)–(e), 102 Stat. 3850.
 
 36:4107(c).
 
+&nbsp;
+
 152107(c)
 
 36:4107(a).
 
-152107(d)D36:4107(b).
+&nbsp;
+
+152107(d)D36:4107(b).D&nbsp;
 
 152107(e)
 
 36:4107(e).
+
+&nbsp;
 
 In subsection (a), the words “any shares of” are omitted as unnecessary.
 

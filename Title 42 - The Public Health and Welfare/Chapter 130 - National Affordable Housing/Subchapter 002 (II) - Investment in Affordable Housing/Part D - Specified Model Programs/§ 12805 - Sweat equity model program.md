@@ -92,7 +92,7 @@ In general.—Any amounts from any grant made under this section shall be deposi
 
 &emsp;“(2)
 
-Assistance to affiliates.—Any organization or consortia that receives a grant under this section may use amounts in the fund established for such organization or consortia pursuant to paragraph (1) for the purposes under subsection (d) by providing assistance from the fund to local affiliates of such organization or consoria. \[sic\]
+Assistance to affiliates.—Any organization or consortia that receives a grant under this sectionmay use amounts in the fund established for such organization or consortia pursuant to paragraph (1) for the purposes under subsection (d) by providing assistance from the fund to local affiliates of such organization or consoria. \[sic\]
 
 “(f)
 

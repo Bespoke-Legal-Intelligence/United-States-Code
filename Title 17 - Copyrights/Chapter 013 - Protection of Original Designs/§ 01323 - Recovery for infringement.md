@@ -2,7 +2,7 @@
 
 (a)
 
-Damages.—Upon a finding for the claimant in an action for infringement under this chapter, the court shall award the claimant damages adequate to compensate for the infringement. In addition, the court may increase the damages to such amount, not exceeding $50,000 or $1 per copy, whichever is greater, as the court determines to be just. The damages awarded shall constitute compensation and not a penalty. The court may receive expert testimony as an aid to the determination of damages.
+Damages.—Upon a finding for the claimant in an action for infringement under this chapter, the court shall award the claimant damages adequate to compensate for the infringement. Inaddition, the court may increase the damages to such amount, not exceeding $50,000 or $1 per copy, whichever is greater, as the court determines to be just. The damages awarded shall constitute compensation and not a penalty. The court may receive expert testimony as an aid to the determination of damages.
 
 (b)
 
@@ -21,10 +21,6 @@ Attorney's Fees.—In an action for infringement under this chapter, the court m
 Disposition of Infringing and Other Articles.—The court may order that all infringing articles, and any plates, molds, patterns, models, or other means specifically adapted for making the articles, be delivered up for destruction or other disposition as the court may direct.
 
 (Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2914.)
-
-#### Termination of Section
-
-<i>For termination of section by section 505 of Pub. L. 105–304, see Effective and Termination Dates note set out under section 1301 of this title.</i>
 
 #### Section Referred to in Other Sections
 

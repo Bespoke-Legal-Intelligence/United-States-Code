@@ -8,7 +8,7 @@ For purposes of this title, in the case of any payment—
 
 &emsp;(2) to which this section applies,
 
-> there shall be treated as interest that portion of the total unstated interest under such contract which, as determined in a manner consistent with the method of computing interest under section 1272(a), is properly allocable to such payment.
+> there shall be treated as interest that portion of the total unstated interest under such contractwhich, as determined in a manner consistent with the method of computing interest under section 1272(a), is properly allocable to such payment.
 
 #### (b) Total unstated interest
 
@@ -158,7 +158,7 @@ Section 126(b) of Pub. L. 97–34 provided that: “The amendment made by subsec
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(b)(3)(B) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(b)(3)(B) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976,see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date
 

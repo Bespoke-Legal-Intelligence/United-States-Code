@@ -136,7 +136,7 @@ The Individuals with Disabilities Education Act, referred to in subsec. (d)(3)(B
 
 #### Effective Date
 
-Section effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
+Section effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c),\(d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -138,7 +138,7 @@
 
 &emsp;&emsp;&emsp;(i) Not less than 70 percent of the households living in the area have incomes below 80 percent of the median income of households of the local government (determined in the same manner as under section 5318 of this title).
 
-&emsp;&emsp;&emsp;(ii) The population of the area decreased by 20 percent or more between 1970 and 1980 (as determined from the most recent census available).
+&emsp;&emsp;&emsp;(ii) The population of the area decreased by 20 percent or more between 1970 and1980 (as determined from the most recent census available).
 
 #### (4) Eligibility requirements for rural areas
 
@@ -224,7 +224,7 @@ For purposes of this section:
 
 The date of the enactment of the Housing and Community Development Act of 1992, referred to in subsec. (a)(4)(B), is the date of enactment of Pub. L. 102–550, which was approved Oct. 28, 1992.
 
-The Housing Act of 1949, referred to in subsec. (d)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of thistitle. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
+The Housing Act of 1949, referred to in subsec. (d)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
 
 #### Amendments
 

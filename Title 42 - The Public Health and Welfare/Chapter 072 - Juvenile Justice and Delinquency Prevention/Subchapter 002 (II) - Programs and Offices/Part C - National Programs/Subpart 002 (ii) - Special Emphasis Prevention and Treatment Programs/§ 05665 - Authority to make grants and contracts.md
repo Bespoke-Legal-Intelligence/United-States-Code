@@ -80,7 +80,7 @@ Not less than 5 percent of the funds available for grants and contracts under th
 
 The Administrator shall not make a grant or a contract under subsection (a) or (b) of this section to the Department of Justice or to any administrative unit or other entity that is part of the Department of Justice.
 
-(Pub. L. 93–415, title II, §261, as added Pub. L. 100–690, title VII, §7263(a)(2)(F), Nov. 18, 1988, 102Stat. 4443; amended Pub. L. 102–586, §2(g)(7), Nov. 4, 1992, 106 Stat. 5000.)
+(Pub. L. 93–415, title II, §261, as added Pub. L. 100–690, title VII, §7263(a)(2)(F), Nov. 18, 1988, 102 Stat. 4443; amended Pub. L. 102–586, §2(g)(7), Nov. 4, 1992, 106 Stat. 5000.)
 
 #### Prior Provisions
 

@@ -36,7 +36,7 @@
 
 #### (4) Termination
 
-&emsp;If any entity ceases to be a FASIT at any time during the taxable year, such entity shallnot be treated as a FASIT after the date of such cessation.
+&emsp;If any entity ceases to be a FASIT at any time during the taxable year, such entity shall not be treated as a FASIT after the date of such cessation.
 
 #### (5) Inadvertent terminations, etc.
 
@@ -208,7 +208,7 @@ For purposes of this part—
 
 #### (2) Section 475
 
-&emsp;Except as provided by the Secretary by regulations, if any security which is sold or contributed to a FASIT by the holder of the ownership interest in such FASIT was required to be marked-to-market under section 475 by such holder, section 475 shall continue to apply to such security; except that in applying section 475 while such security is held by the FASIT, the fair market value of such security for purposes of section 475 shall not be less than its value under section 860I(d).
+&emsp;Except as provided by the Secretary by regulations, if any security which is sold or contributed to a FASIT by the holder of the ownership interest in such FASIT was required to be marked-to-market under section 475 bysuch holder, section 475 shall continue to apply to such security; except that in applying section 475 while such security is held by the FASIT, the fair market value of such security for purposes of section 475 shall not be less than its value under section 860I(d).
 
 #### (g) Related person
 
@@ -222,7 +222,7 @@ For purposes of this part, a person (hereinafter in this subsection referred to 
 
 #### (h) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry outthe purposes of this part, including regulations to prevent the abuse of the purposes of this part through transactions which are not primarily related to securitization of debt instruments by a FASIT.
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this part, including regulations to prevent the abuse of the purposes of this part through transactions which are not primarily related to securitization of debt instruments by a FASIT.
 
 (Added Pub. L. 104–188, title I, §1621(a), Aug. 20, 1996, 110 Stat. 1862; amended Pub. L. 105–34, title XVI, §1601(f)(6), Aug. 5, 1997, 111 Stat. 1091.)
 

@@ -38,7 +38,7 @@ For purposes of administering this section, the Commission shall prescribe, subj
 
 &emsp;(A) a portion of the amounts collected under this subsection in any fiscal year may be retained and used by the Commission to carry out this section; and
 
-&emsp;(B) the remaining portion of the amounts collected under this subsection in such fiscalyear may be transferred periodically to the Attorney General and used by the Attorney General to carry out this section.
+&emsp;(B) the remaining portion of the amounts collected under this subsection in such fiscal year may be transferred periodically to the Attorney General and used by the Attorney General to carry out this section.
 
 (3) Any amount made available for use under paragraph (2) shall remain available until expended.
 
@@ -47,4 +47,8 @@ For purposes of administering this section, the Commission shall prescribe, subj
 #### Effective Date
 
 Section 606(b) of Pub. L. 99–399 provided that: “The provisions of subsection a. of section 149 of the Atomic Energy Act of 1954 \[subsec. (a) of this section\], as added by this Act, shall take effect upon the promulgation of regulations by the Nuclear Regulatory Commission as set forth in subsection c. of such section \[subsec. (c) of this section\]. Such regulations shall be promulgated not later than 6 months after the date of the enactment of this Act \[Aug. 27, 1986\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5852 of this title.
 

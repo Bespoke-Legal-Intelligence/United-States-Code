@@ -106,5 +106,5 @@ A prior section 1392, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 198, 1391 of this title.
+This section is referred to in sections 198, 1391 of this title; title 29 section 2914.
 

@@ -12,7 +12,7 @@
 
 &emsp;(2) and minimum or maximum rate of pay (other than a maximum rate equal to or greater than the maximum rate then currently being paid under the General Schedule as a result of a pay adjustment under section 5303 (or prior corresponding provision of law)), and any monetary limitation on or monetary allowance for pay, applicable to employees described in subparagraphs (A), (B), and (C) of paragraph (1);
 
-> may be adjusted, by the appropriate authority concerned, effective at the beginning of the first applicable pay period commencing on or after the day on which a pay adjustment becomes effective under section 5303 (or prior provision of law), by whichever of the following methods the appropriate authority concerned considers appropriate—
+> may be adjusted, by the appropriate authority concerned, effective at the beginning of the first applicable pay period commencing on or after the day on which a pay adjustment becomes effective under section 5303 (or prior provision of law), by whichever of the following methods theappropriate authority concerned considers appropriate—
 
 &emsp;(i) by an amount or amounts not in excess of the pay adjustment provided under section 5303 for corresponding rates of pay in the appropriate schedule or scale of pay;
 
@@ -20,7 +20,7 @@
 
 &emsp;(iii) in the case of minimum or maximum rates of pay, or monetary limitations of allowances with respect to pay, by an amount rounded to the nearest $100 and computed on the basis of a percentage equal or equivalent, insofar as practicable and with such variations as may be appropriate, to the percentage of the pay adjustment provided under section 5303.
 
-(b) An adjustment under subsection (a) in rates of pay, minimum or maximum rates of pay, the monetary limitations or allowanceswith respect to pay, shall be made in such manner as the appropriate authority concerned considers appropriate.
+(b) An adjustment under subsection (a) in rates of pay, minimum or maximum rates of pay, the monetary limitations or allowances with respect to pay, shall be made in such manner as the appropriate authority concerned considers appropriate.
 
 (c) This section does not authorize any adjustment in the rates of pay of employees whose rates of pay are fixed and adjusted from time to time as nearly as is consistent with the public interest in accordance with prevailing rates or practices.
 
@@ -50,5 +50,5 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5376, 5382 of this title; title 10 sections 1602, 9314; title 40 section 174j–8.
+This section is referred to in sections 5376, 5382 of this title; title 10 section 1602; title 40 section 174j–8.
 

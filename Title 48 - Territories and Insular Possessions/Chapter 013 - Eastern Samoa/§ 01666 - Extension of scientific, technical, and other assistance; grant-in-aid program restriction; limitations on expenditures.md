@@ -4,21 +4,23 @@ Upon request of the Secretary of the Interior—
 
 &emsp;(a) the head of any Federal department, agency, or corporation may, notwithstanding any other provision of law, extend to American Samoa, without reimbursement, such scientific, technical, and other assistance under any program which it administers as, in the judgment of the Secretary of the Interior, will promote the welfare of American Samoa. The provisions of the preceding sentence shall not apply to financial assistance under any grant-in-aid program. The Secretary of the Interior shall not request assistance pursuant to this subsection which will involve nonreimbursable costs as estimated for him in advance by the heads of the departments, agencies, and corporations concerned in excess of an aggregate of $150,000 in any one fiscal year;
 
-&emsp;(b) the Secretary of Agriculture may extend to American Samoa the benefits of the National School Lunch Act, as amended \[42 U.S.C. 1751 et seq.\]; and
+&emsp;(b) the Secretary of Agriculture may extend to American Samoa the benefits of the Richard B. Russell National School Lunch Act, as amended \[42 U.S.C. 1751 et seq.\]; and
 
-&emsp;(c) the Secretary of Health, Education, and Welfare may extend to American Samoa the benefits of the Vocational Education Act of 1946, the Hospital Survey and Construction Act \[42 U.S.C. 291 et seq.\], and section 246 of title 42, all as amended.
+&emsp;(c) the Secretary of Health, Education, and Welfare may extend to American Samoa thebenefits of the Vocational Education Act of 1946, the Hospital Survey and Construction Act \[42 U.S.C. 291 et seq.\], and section 246 of title 42, all as amended.
 
-(Pub. L. 87–688, §1, Sept. 25, 1962, 76 Stat. 586; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(7)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.)
+(Pub. L. 87–688, §1, Sept. 25, 1962, 76 Stat. 586; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(7)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312; Pub. L. 106–78, title VII, §752(b)(18), Oct. 22, 1999, 113 Stat. 1170.)
 
 #### References in Text
 
-The National School Lunch Act, as amended, referred to in subsec. (b), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, as amended, referred to in subsec. (b), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 The Vocational Education Act of 1946, referred to in subsec. (c), is act June 8, 1936, ch. 541, 49 Stat. 1488, as amended, which was classified to sections 15h to 15q, 15aa to 15jj, and 15aaa to 15ggg of Title 20, Education, and was repealed by section 103 of Pub. L. 90–576, title I, Oct. 16, 1968, 82 Stat. 1091. See section 2301 et seq. of Title 20.
 
 The Hospital Survey and Construction Act, referred to in subsec. (c), is act Aug. 13, 1946, ch. 958, 60 Stat. 1041, as amended, which added a title VI to the Public Health Service Act, and was classified to subchapter IV (§291 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. Such title VI was amended generally by Pub. L. 88–443, §3(a) Aug. 18, 1964, 78 Stat. 447. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
 1996—Subsec. (c). Pub. L. 104–208 struck out “the Library Services Act,” after “the Vocational Education Act of 1946,”.
 

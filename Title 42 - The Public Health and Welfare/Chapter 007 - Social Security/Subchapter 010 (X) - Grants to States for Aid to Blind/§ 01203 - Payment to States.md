@@ -6,7 +6,7 @@ From the sums appropriated therefor, the Secretary of the Treasury shall pay to 
 
 &emsp;(1) Repealed. Pub. L. 97–35, title XXI, §2184(c)(2)(A), Aug. 13, 1981, 95 Stat. 817.
 
-&emsp;(2) in the case of Puerto Rico, the Virgin Islands, and Guam, an amount equal to one-halfof the total of the sums expended during such quarter as aid to the blind under the State plan, not counting so much of any expenditure with respect to any month as exceeds $37.50 multiplied by the total number of recipients of aid to the blind for such month; and
+&emsp;(2) in the case of Puerto Rico, the Virgin Islands, and Guam, an amount equal to one-half of the total of the sums expended during such quarter as aid to the blind under the State plan, not counting so much of any expenditure with respect to any month as exceeds $37.50 multiplied by the total number of recipients of aid to the blind for such month; and
 
 &emsp;(3) in the case of any State, an amount equal to 50 percent of the total amounts expended during such quarter as found necessary by the Secretary for the proper and efficient administration of the State plan.
 
@@ -32,7 +32,7 @@ The method of computing and paying such amounts shall be as follows:
 
 &emsp;“(A) 75 per centum of so much of such expenditures as are for the training (including both short- and long-term training at educational institutions through grants to such institutions or by direct financial assistance to students enrolled in such institutions) of personnel employed or preparing for employment by the State agency or by the local agency administering the plan in the political subdivision; plus
 
-&emsp;“(B) 100 percent of so much of such expenditures as are for the costs of the implementation and operation of the immigration status verification system described in section 1320b–7(d) of this title; plus
+&emsp;“(B) 100 percent of so much of such expenditures as are for the costs of the implementation and operationof the immigration status verification system described in section 1320b–7(d) of this title; plus
 
 &emsp;“(C) one-half of the remainder of such expenditures.”
 
@@ -80,7 +80,7 @@ Subsec. (c). Pub. L. 87–543, §101(b)(3)(C), added subsec. (c).
 
 Act Aug. 1, 1956, §313(c), struck out “, which shall be used exclusively as aid to the blind,” after “the Virgin Islands, an amount” in cls. (1) and (2), and substituted “including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of aid to the blind to help them attain self-support or self-care” for “which amount shall be used for paying the costs of administering the State plan or for aid to the blind, or both, and for no other purpose” in cl. (3).
 
-Act Aug. 1, 1956, §343, substituted “October 1, 1956” for “October 1, 1952”, struck out “, which shall be used exclusively as aid to the blind,” after “the Virgin Islands, an amount” in cls. (1) and (2), substituted “$60” for “$55,” “the product of $30” for “the product of $25”, “Secretary of Health, Education, and Welfare” for “Secretary”, and “including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of aid to the blind to help them attain self-support or self-care” for “which amount shall be used for paying the costs of administering the State plan or for aid to the blind, or both, and for no other purpose”.
+Act Aug. 1, 1956, §343, substituted “October 1, 1956” for “October 1, 1952”, struck out “, which shall be used exclusively as aid to the blind,” after “the Virgin Islands, an amount” in cls. (1) and (2), substituted “$60” for “$55,” “the product of $30” for “the product of $25”,“Secretary of Health, Education, and Welfare” for “Secretary”, and “including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of aid to the blind to help them attain self-support or self-care” for “which amount shall be used for paying the costs of administering the State plan or for aid to the blind, or both, and for no other purpose”.
 
 1954—Subsec. (b)(1). Act Sept. 1, 1954, substituted “the State's proportionate share” for “one-half”.
 
@@ -172,7 +172,7 @@ Section 702 of act Aug. 10, 1939, provided that the amendment made by that secti
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
-“Fiscal Service” substituted for “Division of Disbursement” in subsec. (b)(3), on authority of section 1(a)(1) of Reorg. Plan No. III of 1940, eff. June 30, 1940,5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees, which consolidated such division into the Fiscal Service of the Treasury Department. See section 306 of Title 31, Money and Finance.
+“Fiscal Service” substituted for “Division of Disbursement” in subsec. (b)(3), on authority of section 1(a)(1) of Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees, which consolidated such division into the Fiscal Service of the Treasury Department. See section 306 of Title 31, Money and Finance.
 
 #### Nonduplication of Payments to States, Prohibition of Payments After December 31, 1969
 

@@ -2,11 +2,11 @@
 
 #### (a) Distribution of agricultural commodities to community food banks for emergency distribution; availability of agricultural commodities; use of currently used distributorship systems; selection of food banks
 
-The Secretary of Agriculture shall carry out special nutrition projects to provide agricultural commodities and other foods that might not otherwise be used, or might be more effectively used by organizations assisted under this section, to community food banks for emergency food box distribution to needy individuals and families. Notwithstanding any other provisions of law, the Secretary shall make available for purposes of such special nutrition projects, agricultural commodities and other foods available to the Secretary under section 1431 of this title, section 1446a–1 of this title, and section 612c of this title. For purpose of distributing agricultural commodities and other foods to community food banks under this section, the Secretary may, in consultation with State agencies, use food distribution systems currently used to distribute agricultural commodities and other foods under the National School Lunch Act \[42 U.S.C. 1751 et seq.\] and Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\]. The Secretary shall select food banks, in consultation with the Director of the Community Services Administration, for participation in the special nutrition projects under this section. Food banks shall be selected for participation so as to ensure adequate geographic distribution of emergency food box programs in at least two but not more than seven Department of Agriculture regions.
+The Secretary of Agriculture shall carry out special nutrition projects to provide agricultural commodities and other foods that might not otherwise be used, or might be more effectively used by organizations assisted under this section, to community food banks for emergency food box distribution to needy individuals and families. Notwithstanding any other provisions of law, the Secretary shall make available for purposes of such special nutrition projects, agricultural commodities and other foods available to the Secretary under section 1431 of this title, section 1446a–1 of this title, and section 612c of this title. For purpose of distributing agricultural commodities and other foods to community food banks under this section, the Secretary may, in consultation with State agencies, use food distribution systems currently used to distribute agricultural commodities and other foods under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] and Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\]. The Secretary shall select food banks, in consultation with the Director of the Community Services Administration, for participation in the special nutrition projects under this section. Food banks shall be selected for participation so as to ensure adequate geographic distribution of emergency food box programs in at least two but not more than seven Department of Agriculture regions.
 
 #### (b) Application by food bank; recordkeeping and internal procedures
 
-(1) No food bank may participate in the special nutrition projects conducted under this section unless an application therefor is submitted to and approved by the Secretary. Such application shall be submitted in such form and manner and shall contain such information as the Secretary shall prescribe.
+(1) No food bank may participate in the special nutrition projects conducted under this section unless an application therefor is submitted to and approved by the Secretary. Such application shall be submitted in such form and manner andshall contain such information as the Secretary shall prescribe.
 
 (2) Each food bank participating in the special nutrition projects under this section shall establish a recordkeeping system and internal procedures to monitor the use of agricultural commodities and other foods provided under this section. The Secretary shall develop standards by which the feasibility and effectiveness of the projects shall be measured, and shall conduct an ongoing review of the effectiveness of the projects.
 
@@ -30,15 +30,17 @@ The Secretary shall minimize paperwork requirements placed on food banks which p
 
 There is authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 96–494, title II, §211, Dec. 3, 1980, 94 Stat. 2577; Pub. L. 97–98, title XI, §1114(b), Dec. 22, 1981, 95 Stat. 1269.)
+(Pub. L. 96–494, title II, §211, Dec. 3, 1980, 94 Stat. 2577; Pub. L. 97–98, title XI, §1114(b), Dec. 22, 1981, 95 Stat. 1269; Pub. L. 106–78, title VII, §752(b)(4), Oct. 22, 1999, 113 Stat. 1169.)
 
 #### References in Text
 
-The National School Lunch Act, referred to in subsec. (a), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (a), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 The Child Nutrition Act of 1966, referred to in subsec. (a), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
 1981—Subsecs. (a), (b). Pub. L. 97–98, §1114(b)(1), substituted “special nutrition projects” for “demonstration projects” wherever appearing.
 

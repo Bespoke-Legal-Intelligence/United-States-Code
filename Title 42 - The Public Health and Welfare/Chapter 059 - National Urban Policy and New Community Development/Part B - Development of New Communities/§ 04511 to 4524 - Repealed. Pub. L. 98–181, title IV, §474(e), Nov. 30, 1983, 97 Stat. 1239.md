@@ -10,7 +10,7 @@ Section 4513, Pub. L. 91–609, title VII, §712, Dec. 31, 1970, 84 Stat. 1796, 
 
 Section 4514, Pub. L. 91–609, title VII, §713, Dec. 31, 1970, 84 Stat. 1796; Pub. L. 93–117, §12, Oct. 2, 1973, 87 Stat. 423; Pub. L. 93–383, title VIII, §803(a)(1), (c), Aug. 22, 1974, 88 Stat. 725, authorized guarantee of bonds, notes, debentures, and other obligations in connection with approved new community developments.
 
-Section 4515, Pub. L. 91–609, title VII, §714, Dec. 31, 1970, 84 Stat. 1797; Pub. L. 93–383, title VIII, §803(a)(1),Aug. 22, 1974, 88 Stat. 725, authorized making of loans by Secretary in connection with new community developments.
+Section 4515, Pub. L. 91–609, title VII, §714, Dec. 31, 1970, 84 Stat. 1797; Pub. L. 93–383, title VIII, §803(a)(1), Aug. 22, 1974, 88 Stat. 725, authorized making of loans by Secretary in connection with new community developments.
 
 Section 4516, Pub. L. 91–609, title VII, §715, Dec. 31, 1970, 84 Stat. 1798; Pub. L. 93–383, title VIII, §803(a)(1), Aug. 22, 1974, 88 Stat. 725, provided for public service grants and authorized appropriations therefor.
 

@@ -4,7 +4,7 @@
 
 #### (1) United States law to prevail in conflict
 
-&emsp;No provision of any of the Uruguay Round Agreements, nor the application of any such provision to any person or circumstance, that is inconsistent with any law of the United States shall have effect.
+&emsp;No provision of any of the Uruguay Round Agreements, nor the application of any suchprovision to any person or circumstance, that is inconsistent with any law of the United States shall have effect.
 
 #### (2) Construction
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(i) When a WTO member requests consultations with the United States under Article 4 of the Understanding on Rules and Procedures Governing the Settlement of Disputes referred to in section 3511(d)(16) of this title (hereafter in this subsection referred to as the “Dispute Settlement Understanding”) concerning whether the law of a State is inconsistent with the obligations undertaken by the United States in any of the Uruguay Round Agreements, the Trade Representative shall notify the Governor of the State or the Governor's designee, and the chief legal officer of the jurisdiction whose law is the subject of the consultations, as soon as possible after the request is received, but in no event later than 7 days thereafter.
 
-&emsp;&emsp;(ii) Not later than 30 days after receiving such a request for consultations, the Trade Representative shall consult with representatives of the State concerned regarding the matter. If the consultations involve the lawsof a large number of States, the Trade Representative may consult with an appropriate group of representatives of the States concerned, as determined by those States.
+&emsp;&emsp;(ii) Not later than 30 days after receiving such a request for consultations, the Trade Representative shall consult with representatives of the State concerned regarding the matter. If the consultations involve the laws of a large number of States, the Trade Representative may consult with an appropriate group of representatives of the States concerned, as determined by those States.
 
 &emsp;&emsp;(iii) The Trade Representative shall make every effort to ensure that the State concerned is involved in the development of the position of the United States at each stage of the consultations and each subsequent stage of dispute settlement proceedings regarding the matter. In particular, the Trade Representative shall—
 

@@ -26,6 +26,10 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 Another section 620G of Pub. L. 87–195 is classified to section 2378a of this title.
 
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
 #### Congressional Findings
 
 Section 324 of Pub. L. 104–132 provided that: “The Congress finds that—
@@ -41,10 +45,6 @@ Section 324 of Pub. L. 104–132 provided that: “The Congress finds that—
 &emsp;“(5) the Congress deplores decisions to ease, evade, or end international sanctions on state sponsors of terrorism, including the recent decision by the United Nations Sanctions Committee to allow airline flights to and from Libya despite Libya's noncompliance with United Nations resolutions; and
 
 &emsp;“(6) the President should continue to undertake efforts to increase the international isolation of state sponsors of international terrorism, including efforts to strengthen international sanctions, and should oppose any future initiatives to ease sanctions on Libya or other state sponsors of terrorism.”
-
-#### Delegation of Functions
-
-Functions of President under subsec. (b) delegated to Secretary of State by section 1–201(a)(13) of Ex. Ord. No. 12163, as amended, set out as a note under section 2381 of this title.
 
 #### “Assistance” Defined
 

@@ -8,5 +8,5 @@ Section 1253, act Sept. 3, 1954, ch. 1257, title III, §321, 68 Stat. 1160, prov
 
 Section 1254, act Sept. 3, 1954, ch. 1257, title III, §322, 68 Stat. 1161, provided for promotion upon transfer to Army Reserve. See section 12213 of Title 10.
 
-Section 1255, act Sept. 3, 1954, ch. 1257, title III, §323, 68 Stat. 1161, provided for appointment of adjutantsgeneral and assistant adjutants general as Reserve officers. See section 12215(a) of Title 10.
+Section 1255, act Sept. 3, 1954, ch. 1257, title III, §323, 68 Stat. 1161, provided for appointment of adjutants general and assistant adjutants general as Reserve officers. See section 12215(a) of Title 10.
 

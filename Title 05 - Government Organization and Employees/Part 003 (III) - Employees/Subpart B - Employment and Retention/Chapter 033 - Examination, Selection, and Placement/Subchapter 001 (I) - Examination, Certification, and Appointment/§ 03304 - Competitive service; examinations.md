@@ -24,13 +24,15 @@
 
 (f)(1) Preference eligibles or veterans who have been separated from the armed forces under honorable conditions after 3 years or more of active service may not be denied the opportunity to compete for vacant positions for which the agency making the announcement will accept applications from individuals outside its own workforce under merit promotion procedures.
 
-(2) This subsection shall not be construed to confer an entitlement to veterans’ preference that is not otherwise required by law.
+(2) If selected, a preference eligible or veteran described in paragraph (1) shall receive a career or career-conditional appointment, as appropriate.
 
-(3) The area of consideration for all merit promotion announcements which include consideration of individuals of the Federal workforce shall indicate that preference eligibles and veterans who have been separated from the armed forces under honorable conditions after 3 years or more of active service are eligible to apply. The announcements shall be publicized in accordance with section 3327.
+(3) This subsection shall not be construed to confer an entitlement to veterans’ preference that is not otherwise required by law.
 
-(4) The Office of Personnel Management shall establish an appointing authority to appoint such preference eligibles and veterans.
+(4) The area of consideration for all merit promotion announcements which include consideration of individuals of the Federal workforce shall indicate that preference eligibles and veterans who have been separated from the armed forces under honorable conditions after 3 years or more of active service are eligible to apply. The announcements shall be publicized in accordance with section 3327.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–339, §2, Oct. 31, 1998, 112 Stat. 3182.)
+(5) The Office of Personnel Management shall prescribe regulations necessary for the administration of this subsection. The regulations shall ensure that an individual who has completed an initial tour of active duty is not excluded from the application of this subsection because of having been released from such tour of duty shortly before completing 3 years of active service, having been honorably released from such duty.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–339, §2, Oct. 31, 1998, 112 Stat. 3182; Pub. L. 106–117, title V, §511(c), Nov. 30, 1999, 113 Stat. 1575.)
 
 Historical and Revision Notes
 
@@ -94,11 +96,17 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+1999—Subsec. (f)(2), (3). Pub. L. 106–117, §511(c)(2), (3), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
+
+Subsec. (f)(4). Pub. L. 106–117, §511(c)(1), (2), redesignated par. (3) as (4) and struck out former par. (4) which read as follows: “The Office of Personnel Management shall establish an appointing authority to appoint such preference eligibles and veterans.”
+
+Subsec. (f)(5). Pub. L. 106–117, §511(c)(4), added par. (5).
+
 1998—Subsec. (f). Pub. L. 105–339 added subsec. (f).
 
 1996—Subsec. (c)(1). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
-1995—Subsec. (c). Pub. L. 104–65, §16(a), (b), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “Notwithstanding a contraryprovision of this title or of the rules and regulations prescribed under this title for the administration of the competitive service, an individual who served—
+1995—Subsec. (c). Pub. L. 104–65, §16(a), (b), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “Notwithstanding a contrary provision of this title or of the rules and regulations prescribed under this title for the administration of the competitive service, an individual who served—
 
 &emsp;“(1) for at least 3 years in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives; or
 
@@ -113,6 +121,10 @@ Pub. L. 104–65, §16(b), redesignated subsec. (d) as (c).
 1986—Subsecs. (d), (e). Pub. L. 99–586 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1978—Subsec. (d). Pub. L. 95–454 substituted “the Office of Personnel Management” for “a Civil Service Commission board of examiners”.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–117, title V, §511(d)(2), Nov. 30, 1999, 113 Stat. 1576, provided that: “If pursuant to subsection (a)\[113 Stat. 1575\] the amendments specified in subsection (c) \[amending this section\] are made, those amendments shall take effect as of October 31, 1998, as if included in subsection (f) of section 3304 of title 5, United States Code, as enacted by section 2 of the Veterans Employment Opportunities Act of 1998 (Public Law 105–339; 112 Stat. 3182).”
 
 #### Effective Date of 1995 Amendment
 

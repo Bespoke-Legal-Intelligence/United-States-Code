@@ -86,19 +86,21 @@ For purposes of this section—
 
 #### (d) Termination
 
-This section shall not apply to expenses paid with respect to courses beginning after May 31, 2000.
+This section shall not apply to expenses paid with respect to courses beginning after December 31, 2001.
 
 #### (e) Cross reference
 
 &emsp;&emsp;<b>For reporting and recordkeeping requirements, see section 6039D.</b>
 
-(Added Pub. L. 95–600, title I, §164(a), Nov. 6, 1978, 92 Stat. 2811; amended Pub. L. 98–611, §1(a)–(c), (d)(3)(B), (e), Oct. 31, 1984, 98 Stat. 3176–3178; Pub. L. 99–514, title XI, §§1114(b)(4), 1151(c)(4), (g)(3), 1162(a), Oct. 22, 1986, 100 Stat. 2450, 2503, 2507, 2510; Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4001(a), (b)(1), Nov. 10, 1988, 102 Stat. 3488, 3643; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(a)(1), 7814(a), Dec. 19, 1989, 103 Stat. 2304, 2413; Pub. L. 101–508, title XI, §11403(a), (b), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §103(a)(1), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13101(a)(1), Aug. 10, 1993, 107 Stat. 420; Pub. L. 104–188, title I, §1202(a), (b), Aug. 20, 1996, 110 Stat. 1772, 1773; Pub. L. 105–34, title II, §221(a), Aug. 5, 1997, 111 Stat. 818.)
+(Added Pub. L. 95–600, title I, §164(a), Nov. 6, 1978, 92 Stat. 2811; amended Pub. L. 98–611, §1(a)–(c), (d)(3)(B), (e), Oct. 31, 1984, 98 Stat. 3176–3178; Pub. L. 99–514, title XI, §§1114(b)(4), 1151(c)(4), (g)(3), 1162(a), Oct. 22, 1986, 100 Stat. 2450, 2503, 2507, 2510; Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4001(a), (b)(1), Nov. 10, 1988, 102 Stat. 3488, 3643; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(a)(1), 7814(a), Dec. 19, 1989, 103 Stat. 2304, 2413; Pub. L. 101–508, title XI, §11403(a), (b), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §103(a)(1), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13101(a)(1), Aug. 10, 1993, 107 Stat. 420; Pub. L. 104–188, title I, §1202(a), (b), Aug. 20, 1996, 110 Stat. 1772, 1773; Pub. L. 105–34, title II, §221(a), Aug. 5, 1997, 111 Stat. 818; Pub. L. 106–170, title V, §506(a), Dec. 17, 1999, 113 Stat. 1922.)
 
 #### Prior Provisions
 
 A prior section 127 was renumbered section 139 of this title.
 
 #### Amendments
+
+1999—Subsec. (d). Pub. L. 106–170 substituted “December 31, 2001” for “May 31, 2000”.
 
 1997—Subsec. (d). Pub. L. 105–34 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “This section shall not apply to taxable years beginning after May 31, 1997. In the case of any taxable year beginning in 1997, only expenses paid with respect to courses beginning before July 1, 1997, shall be taken into account in determining the amount excluded under this section.”
 
@@ -138,7 +140,7 @@ Subsec. (d). Pub. L. 100–647, §4001(a), substituted “1988” for “1987”
 
 Subsec. (b)(1). Pub. L. 99–514, §1151(c)(4)(A), added par. (1) and struck out former par (1) which read as follows: “For purposes of this section an educational assistance program is a separate written plan of an employer for the exclusive benefit of his employees to provide such employees with educational assistance. The program must meet the requirements of paragraphs (2) through (6) of this subsection.”
 
-Subsec. (b)(2). Pub. L. 99–514, §1151(g)(3), substituted “For purposes of this paragraph, there may be excluded from consideration employees who may be excluded from consideration under section 89(h).” for “For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that educational assistance benefits were thesubject of good faith bargaining between such employee representatives and such employer or employers.”
+Subsec. (b)(2). Pub. L. 99–514, §1151(g)(3), substituted “For purposes of this paragraph, there may be excluded from consideration employees who may be excluded from consideration under section 89(h).” for “For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that educational assistance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.”
 
 Pub. L. 99–514, §1114(b)(4), substituted “highly compensated employees (within the meaning of section 414(q))” for “officers, owners, or highly compensated,”.
 
@@ -157,6 +159,10 @@ Subsec. (c)(8). Pub. L. 98–611, §1(c), added par. (8).
 Subsec. (d). Pub. L. 98–611, §1(a), substituted “December 31, 1985” for “December 31, 1983”.
 
 Subsec. (e). Pub. L. 98–611, §1(d)(3)(B), added subsec. (e).
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–170, title V, §506(b), Dec. 17, 1999, 113 Stat. 1922, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to courses beginning after May 31, 2000.”
 
 #### Effective Date of 1997 Amendment
 
@@ -250,7 +256,7 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 
 #### Expedited Procedures for Refunds of Overpayments
 
-Section 1202(c)(3) of Pub. L. 104–188 provided that: “The Secretary of the Treasury shall establish expedited procedures for the refund of any overpayment oftaxes imposed by the Internal Revenue Code of 1986 which is attributable to amounts excluded from gross income during 1995 or 1996 under section 127 of such Code, including procedures waiving the requirement that an employer obtain an employee's signature where the employer demonstrates to the satisfaction of the Secretary that any refund collected by the employer on behalf of the employee will be paid to the employee.”
+Section 1202(c)(3) of Pub. L. 104–188 provided that: “The Secretary of the Treasury shall establish expedited procedures for the refund of any overpayment of taxes imposed by the Internal Revenue Code of 1986 which is attributable to amounts excluded from gross income during 1995 or 1996 under section 127 of such Code, including procedures waiving the requirement that an employer obtain an employee's signature where the employer demonstrates to the satisfaction of the Secretary that any refund collected by the employer on behalf of the employee will be paid to the employee.”
 
 #### Special Rule for Certain Taxable Years
 

@@ -16,7 +16,7 @@ No inspection of a plant, plant site, or other facility or location in the Unite
 
 &emsp;&emsp;(A) a special agent of the Federal Bureau of Investigation, as designated by the Federal Bureau of Investigation, accompanies each inspection team visit pursuant to paragraph (1);
 
-&emsp;&emsp;(B) no employee of the Environmental Protection Agency or the Occupational Safetyand Health Administration accompanies any inspection team visit conducted pursuant to paragraph (1); and
+&emsp;&emsp;(B) no employee of the Environmental Protection Agency or the Occupational Safety and Health Administration accompanies any inspection team visit conducted pursuant to paragraph (1); and
 
 &emsp;&emsp;(C) the number of duly designated representatives shall be kept to the minimum necessary.
 
@@ -37,4 +37,16 @@ No inspection of a plant, plant site, or other facility or location in the Unite
 &emsp;&emsp;Any objection by the President to an individual serving as an inspector, whether made pursuant to this section or otherwise, shall not be reviewable in any court.
 
 (Pub. L. 105–277, div. I, title III, §303, Oct. 21, 1998, 112 Stat. 2681–873.)
+
+#### Protection of United States Companies
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1117\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that:
+
+“(a)
+
+Reimbursement.—During the 2-year period beginning on the date of the enactment of this Act \[Nov. 29, 1999\], the United States National Authority (as designated pursuant to section 101 of the Chemical Weapons Convention Implementation Act of 1998 \[22 U.S.C. 6711\] (as contained in division I of Public Law 105–277)) shall, upon request of the Director of the Federal Bureau of Investigation, reimburse the Federal Bureau of Investigation for all costs incurred by the Bureau for such period in connection with implementation of section 303(b)(2)(A) of that Act \[22 U.S.C. 6723(b)(2)(A)\], except that such reimbursement may not exceed $2,000,000 for such 2-year period.
+
+“(b)
+
+Report.—Not later than 180 days prior to the expiration of the 2-year period described in subsection (a),the Director of the Federal Bureau of Investigation shall prepare and submit to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate a report on how activities under section 303(b)(2)(A) of the Chemical Weapons Convention Implementation Act of 1998 \[22 U.S.C. 6723(b)(2)(A)\] will be fully funded and implemented by the Federal Bureau of Investigation notwithstanding the expiration of the 2-year period described in subsection (a).”
 

@@ -8,7 +8,7 @@ General Authority.—(1) A person may bring a civil action in an appropriate dis
 
 &emsp;(B) may not bring the action if the Secretary or authority has begun and diligently is pursuing an administrative proceeding for the violation; and
 
-&emsp;(C) may not bring the action if the Attorney General of the United States, or the chief law enforcement officer of a State, has begun anddiligently is pursuing a judicial proceeding for the violation.
+&emsp;(C) may not bring the action if the Attorney General of the United States, or the chief law enforcement officer of a State, has begun and diligently is pursuing a judicial proceeding for the violation.
 
 (2) The Secretary shall prescribe the way in which notice is given under this subsection.
 

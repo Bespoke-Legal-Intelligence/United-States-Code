@@ -38,7 +38,7 @@ Requirements.—Unless specifically authorized by statute, no Federal department
 
 #### (b) “Agency” defined
 
-For purposes of this chapter, any reference to an agency or department of the United States, and the term “Federal agency”, shall have the meaning given the term “agency” by section 551(1) of title 5, but does not include the United States Postal Service or the General Accounting Office.
+For purposes of this chapter, any reference to an agency or department of the United States,and the term “Federal agency”, shall have the meaning given the term “agency” by section 551(1) of title 5, but does not include the United States Postal Service or the General Accounting Office.
 
 #### (c) Qualified employee trust; eligibility for loan guarantee; “qualified employee trust” defined; regulations for treatment of trust as qualified employee trust
 
@@ -94,7 +94,11 @@ For purposes of section 636 of this title, the term “public or private organiz
 
 #### (f) “Handicapped individual” defined
 
-For purposes of section 636 of this title, the term “handicapped individual” means a person who has a physical, mental, or emotional impairment, defect, ailment, disease, or disability of a permanent nature which in any way limits the selection of any type of employment for which the person would otherwise be qualified or qualifiable.
+For purposes of section 636 of this title, the term “handicapped individual” means an individual—
+
+&emsp;(1) who has a physical, mental, or emotional impairment, defect, ailment, disease, or disability of a permanent nature which in any way limits the selection of any type of employment for which the person would otherwise be qualified or qualifiable; or
+
+&emsp;(2) who is a service-disabled veteran.
 
 #### (g) “Energy measures” defined
 
@@ -264,7 +268,35 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(iii) be provided upon request to any Federal agency or other entity.
 
-(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627.)
+#### (q) Definitions relating to veterans
+
+In this chapter, the following definitions apply:
+
+#### (1) Service-disabled veteran
+
+&emsp;The term “service-disabled veteran” means a veteran with a disability that is service-connected (as defined in section 101(16) of title 38).
+
+#### (2) Small business concern owned and controlled by service-disabled veterans
+
+&emsp;The term “small business concern owned and controlled by service-disabled veterans” means a small business concern—
+
+&emsp;&emsp;(A) not less than 51 percent of which is owned by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
+
+&emsp;&emsp;(B) the management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran.
+
+#### (3) Small business concern owned and controlled by veterans
+
+&emsp;The term “small business concern owned and controlled by veterans” means a small business concern—
+
+&emsp;&emsp;(A) not less than 51 percent of which is owned by one or more veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more veterans; and
+
+&emsp;&emsp;(B) the management and daily business operations of which are controlled by one or more veterans.
+
+#### (4) Veteran
+
+&emsp;The term “veteran” has the meaning given the term in section 101(2) of title 38.
+
+(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627; Pub. L. 106–50, title I, §103(a), title IV, §401(a), Aug. 17, 1999, 113 Stat. 234, 243.)
 
 #### References in Text
 
@@ -281,6 +313,10 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Prior similar provisions were contained in section 203 of act July 30, 1953, ch. 282, title II, 67 Stat. 233, which was previously classified to this section. See Codification note set out under section 631 of this title.
 
 #### Amendments
+
+1999—Subsec. (f). Pub. L. 106–50, §401(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “For purposes of section 636 of this title, the term ‘handicapped individual’ means a person who has a physical, mental, or emotional impairment, defect, ailment, disease, or disability of a permanent nature which in any way limits the selection of any type of employment for which the person would otherwise be qualified or qualifiable.”
+
+Subsec. (q). Pub. L. 106–50, §103(a), added subsec. (q).
 
 1997—Subsec. (<i>o</i>). Pub. L. 105–135, §412, added subsec. (<i>o</i>).
 
@@ -304,7 +340,7 @@ Subsec. (m). Pub. L. 103–355, §4404(a), substituted “ ‘simplified acquis
 
 Subsec. (n). Pub. L. 103–355, §7106(d), added subsec. (n).
 
-1992—Subsec. (a). Pub. L. 102–366 added pars. (2) and (3) and struck out at end of par. (1) “In addition to the foregoing criteria the Administrator, in making a detailed definition, may use these criteria, among others: Number of employees and dollar volume of business: <i>Provided</i>, That the Administration shall not promulgate, amend, or rescind any rule \[or\] regulation with respect to size standards prior to March 31, 1981. Where the number of employees is used as one of the criteria in making such definition for any of the purposes of this chapter, the maximum number of employees which a small-business concern may have under the definition shall vary from industry to industry to the extent necessary to reflect differing characteristics of such industries and to take proper account of other relevant factors.”
+1992—Subsec. (a). Pub. L. 102–366 added pars. (2) and (3) and struck out at end of par. (1) “In addition to theforegoing criteria the Administrator, in making a detailed definition, may use these criteria, among others: Number of employees and dollar volume of business: <i>Provided</i>, That the Administration shall not promulgate, amend, or rescind any rule \[or\] regulation with respect to size standards prior to March 31, 1981. Where the number of employees is used as one of the criteria in making such definition for any of the purposes of this chapter, the maximum number of employees which a small-business concern may have under the definition shall vary from industry to industry to the extent necessary to reflect differing characteristics of such industries and to take proper account of other relevant factors.”
 
 1990—Subsec. (m). Pub. L. 101–510 added subsec. (m).
 
@@ -324,7 +360,7 @@ Subsec. (a)(5). Pub. L. 100–26, §10(b)(2)(C), substituted “shall be made no
 
 Pub. L. 99–272 inserted proviso that notwithstanding any other provision of law, an agricultural enterprise shall be deemed to be a small business concern if it, including its affiliates, has annual receipts not in excess of $500,000.
 
-Subsec. (c)(2)(A), (3)(B)(i), (iv). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “InternalRevenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (c)(2)(A), (3)(B)(i), (iv). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1984—Subsec. (j). Pub. L. 98–473 in subsec. (j) added by Pub. L. 98–270 substituted “as a business concern and shall not include the income or employees of any member shareholder of such cooperative” for “as an entity and shall not include the income or employees of any member shareholder of such cooperative: <i>Provided</i>, That such an association shall not be deemed to be a small agricultural cooperative unless each member of the board of directors of the association, or each member of the governing body of the association if it is not incorporated, also individually qualifies as a small business concern”.
 
@@ -372,7 +408,7 @@ Initial Review of Size Standards.—(1) Paragraph (2) of section 3(a) of the Sma
 
 “(2) The first review conducted by the Administrator under such paragraph shall review the periods beginning on October 1, 1983, and ending on September 30, 1986, and shall be completed not later than 180 days after the date of the enactment of this Act.
 
-“(3) If the Administrator of the Small Business Administration determines, on the basis of the review referred to in paragraph (2), that contracts awarded under the set-aside programs under sections 8(a) and 15(a) of the Small Business Act \[15 U.S.C. 637(a), 644(a)\] in any industry category subject to that review exceed 30 percent of the dollar value of the total contract awards for that industry category, as determined in accordance with the last sentence of section 15(a)(3) of such Act, the Administrator shall propose adjustments to the size standards for such industry category establishing eligibility for a set-aside program to a size that will likely reduce the number of contracts which may be set aside to approximately 30 percent of the dollar value of the contracts to be awarded in that industry category. The Administrator shall publish proposed regulations, including any revised size standards, in the Federal Register by November 30, 1987, or the date of enactment of the National Defense Authorization Act for Fiscal Years 1988 and 1989 \[Pub. L. 100–180, Dec. 4, 1987\], whichever is later. The proposed regulations shall provide not less than 60 days for public comment. The Administrator shall issue final regulations not later than May 31, 1988.
+“(3) If the Administrator of the Small Business Administration determines, on the basis of the review referred to in paragraph (2), that contracts awarded under the set-aside programs under sections 8(a) and 15(a) of the Small Business Act \[15 U.S.C. 637(a), 644(a)\] in any industry category subject to that review exceed 30 percent of the dollar value of the total contract awards for that industry category, as determined in accordance with the last sentence of section 15(a)(3) of such Act, the Administrator shall propose adjustments to the size standards for such industry category establishing eligibility for a set-aside program to a size that will likely reduce the number of contracts which may be set aside to approximately 30 percent of the dollar value of the contracts to be awarded in that industry category. The Administrator shall publish proposed regulations, including any revised size standards, in the Federal Register by November 30, 1987, or the date of enactment of the National Defense Authorization Act for Fiscal Years 1988 and 1989 \[Pub. L. 100–180, Dec. 4, 1987\], whichever is later. The proposed regulations shallprovide not less than 60 days for public comment. The Administrator shall issue final regulations not later than May 31, 1988.
 
 #### Effective Date of 1984 Amendments
 
@@ -422,7 +458,7 @@ Section 101(c) \[title X, §921(i)\] of Pub. L. 99–500 and Pub. L. 99–591, a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78c, 631b, 637, 638, 644, 657a, 662, 694b, 3703, 4721, 4724 of this title; title 5 section 601; title 7 section 5623; title 10 sections 2319, 2323; title 12 sections 635, 1441a, 1835, 3013; title 13 section 91; title 31 sections 3554, 3718, 6701; title 35 sections 41, 201; title 41 sections 253c, 405, 417a; title 42 sections 300u, 5302, 6322, 7261b, 12002, 13556; title 49 sections 47107, 47113; title 50 App. section 2152.
+This section is referred to in sections 78c, 631b, 634b, 636, 637, 638, 644, 657a, 662, 694b, 695, 3703, 4721, 4724 of this title; title 5 section 601; title 7 section 5623; title 10 sections 2319, 2323; title 12 sections 635, 1441a, 1835, 3013; title 13 section 91; title 22 section 6729; title 29 section 3031; title 31 sections 3554, 3718, 6701; title 35 sections 41, 201; title 41 sections 253c, 405, 417a; title 42 sections 300u, 5302, 6322, 7261b, 12002, 13556; title 49 sections 47107, 47113; title 50 App. section 2152.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

@@ -58,7 +58,7 @@
 
 #### (3) Seed
 
-&emsp;Except as provided in paragraph (1), seed for planting of any peanut acreage in the United States shall be obtained solely from quotapeanuts marketed or considered marketed for domestic edible use.
+&emsp;Except as provided in paragraph (1), seed for planting of any peanut acreage in the United States shall be obtained solely from quota peanuts marketed or considered marketed for domestic edible use.
 
 #### (c) Marketing peanuts with excess quantity, grade, or quality
 
@@ -136,7 +136,7 @@ On a finding by the Secretary that the peanuts marketed from any crop for domest
 
 #### (A) Penalty
 
-&emsp;&emsp;If any additional peanuts exported by a handler are reentered into the United Statesin commercial quantities as determined by the Secretary, the importer of the peanuts shall be subject to a penalty at a rate equal to 140 percent of the loan level for quota peanuts on the quantity of peanuts reentered.
+&emsp;&emsp;If any additional peanuts exported by a handler are reentered into the United States in commercial quantities as determined by the Secretary, the importer of the peanuts shall be subject to a penalty at a rate equal to 140 percent of the loan level for quota peanuts on the quantity of peanuts reentered.
 
 #### (B) Records
 
@@ -170,7 +170,7 @@ On a finding by the Secretary that the peanuts marketed from any crop for domest
 
 #### (B) Extension of deadline
 
-&emsp;&emsp;The Secretary may extend the deadline under subparagraph (A) by up to 15 days in response to damaging weather or related condition (as defined in section 112 of the Disaster Assistance Act of 1989 <sup>2</sup> (7 U.S.C. 1421 et seq.)). The Secretary shall announce the extension no later than September 5 of the year in which the crop is produced.
+&emsp;&emsp;The Secretary may extend the deadline under subparagraph (A) by up to 15 days inresponse to damaging weather or related condition (as defined in section 112 of the Disaster Assistance Act of 1989 <sup>2</sup> (7 U.S.C. 1421 et seq.)). The Secretary shall announce the extension no later than September 5 of the year in which the crop is produced.
 
 #### (3) Form
 

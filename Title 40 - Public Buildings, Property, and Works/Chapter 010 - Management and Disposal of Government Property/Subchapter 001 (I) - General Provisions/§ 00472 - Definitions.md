@@ -30,7 +30,7 @@ As used in titles I through VI of this Act—
 
 #### References in Text
 
-This Act, referred to in the opening par., is act June 30, 1949, ch. 288, 63 Stat. 377, as amended, known as the Federal Property and Administrative Services Act of 1949. For classification of titles I through VI of this Act to the Code, see Short Title note set out under section 471 of this title and Tables.
+This Act, referred to in the opening par., is act June 30, 1949, ch. 288, 63 Stat. 377, as amended, known as the Federal Property and Administrative Services Act of1949. For classification of titles I through VI of this Act to the Code, see Short Title note set out under section 471 of this title and Tables.
 
 Chapter 16 \[§751 et seq.\] of this title, referred to in par. (c), was in the original a reference to “title I hereof”.
 

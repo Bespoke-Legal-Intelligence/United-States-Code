@@ -20,7 +20,7 @@ In order to implement any rule promulgated under subsection (a) of this section,
 
 #### (d) Restrictions and national interest
 
-Any finding by the President pursuant to subsection (a) or (b) of this section and any action taken by the Secretary of Commerce pursuantthereto shall take into account the national interest as related to the need to leave uninterrupted or unimpaired—
+Any finding by the President pursuant to subsection (a) or (b) of this section and any action taken by the Secretary of Commerce pursuant thereto shall take into account the national interest as related to the need to leave uninterrupted or unimpaired—
 
 &emsp;(1) exchanges in similar quantity for convenience or increased efficiency of transportation with persons or the government of a foreign state,
 

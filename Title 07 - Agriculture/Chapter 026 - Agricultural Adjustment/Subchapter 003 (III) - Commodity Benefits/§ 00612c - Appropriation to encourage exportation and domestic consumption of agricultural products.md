@@ -1,6 +1,6 @@
 ### §612c. Appropriation to encourage exportation and domestic consumption of agricultural products
 
-There is appropriated for each fiscal year beginning with the fiscal year ending June 30, 1936 an amount equal to 30 per centum of the gross receipts from duties collected under the customs laws during the period January 1 to December 31, both inclusive, preceding the beginning of each such fiscal year. Such sums shall be maintained in a separate fund and shall be used by the Secretary of Agriculture only to (1) encourage the exportation of agricultural commodities and products thereof by the payment of benefits in connection with the exportation thereof or of indemnities for losses incurred in connection with such exportation or by payments to producers in connection with the production of that part of any agricultural commodity required for domestic consumption; (2) encourage the domestic consumption of such commodities or products by diverting them, by the payment of benefits or indemnities or by other means, from the normal channels of trade and commerce or by increasing their utilization through benefits, indemnities, donations or by other means, among persons in low income groups as determined by the Secretary of Agriculture; and (3) reestablish farmers’ purchasing power by making payments in connection with the normal production of any agricultural commodity for domestic consumption. Determinations by the Secretary as to what constitutes diversion and what constitutes normal channels of trade and commerce and what constitutes normal production for domestic consumption shall be final. The sums appropriated under this section shall be expended for such one or more of the above-specified purposes, and at such times, in such manner, and in such amounts as the Secretary of Agriculture finds will effectuate substantial accomplishment of any one or more of the purposes of this section. Notwithstanding any other provision of this section, the amount that may be devoted, during any fiscal year after June 30, 1939, to anyone agricultural commodity or the products thereof in such fiscal year, shall not exceed 25 per centum of the funds available under this section for such fiscal year. The sums appropriated under this section shall be devoted principally to perishable nonbasic agricultural commodities (other than those receiving price support under section 1446 of this title) and their products. The sums appropriated under this section shall, notwithstanding the provisions of any other law, continue to remain available for the purposes of this section until expended; but any excess of the amount remaining unexpended at the end of any fiscal year over $300,000,000 shall, in the same manner as though it had been appropriated for the service of such fiscal year, be subject to the provisions of section 3690 <sup>1</sup> of the Revised Statutes, and section 5 <sup>1</sup> of the Act entitled “An Act making appropriations for the legislative, executive, and judicial expenses of the Government for the year ending June thirtieth, eighteen hundred and seventy-five, and for other purposes”. A public or private nonprofit organization that receives agricultural commodities or the products thereof under clause (2) of the second sentence may transfer such commodities or products to another public or private nonprofit organization that agrees to use such commodities or products to provide, without cost or waste, nutrition assistance to individuals in low-income groups.
+There is appropriated for each fiscal year beginning with the fiscal year ending June 30, 1936 an amount equal to 30 per centum of the gross receipts from duties collected under the customs laws during the period January 1 to December 31, both inclusive, preceding the beginning of each such fiscal year. Such sums shall be maintained in a separate fund and shall be used by the Secretary of Agriculture only to (1) encourage the exportation of agricultural commodities and products thereof by the payment of benefits in connection with the exportation thereof or of indemnities for losses incurred in connection with such exportation or by payments to producers in connection with the production of that part of any agricultural commodity required for domestic consumption; (2) encourage the domestic consumption of such commodities or products by diverting them, by the payment of benefits or indemnities or by other means, from the normal channels of trade and commerce or by increasing their utilization through benefits, indemnities, donations or by other means, among persons in low income groups as determined by the Secretary of Agriculture; and (3) reestablish farmers’ purchasing power by making payments in connection with the normal production of any agricultural commodity for domestic consumption. Determinations by the Secretary as to what constitutes diversion and what constitutes normal channels of trade and commerce and what constitutes normal production for domestic consumption shall be final. The sums appropriated under this section shall be expended for such one or more of the above-specified purposes, and at such times, in such manner, and in such amounts as the Secretary of Agriculture finds will effectuate substantial accomplishment of any one or more of the purposes of this section. Notwithstanding any other provision of this section, the amount that may be devoted, during any fiscal year after June 30, 1939, to any one agricultural commodity or the products thereof in such fiscal year, shall not exceed 25 per centum of the funds available under this section for such fiscal year. The sums appropriated under this section shall be devoted principally to perishable nonbasic agricultural commodities (other than those receiving price support under section 1446 of this title) and their products. The sums appropriated under this section shall, notwithstanding the provisions of any other law, continue to remain available for the purposes of this section until expended; but any excess of the amount remaining unexpended at the end of any fiscal year over $300,000,000 shall, in the same manner as though it had been appropriated for the service of such fiscal year, be subject to the provisions of section 3690 <sup>1</sup> of the Revised Statutes, and section 5 <sup>1</sup> of the Act entitled “An Act making appropriations for the legislative, executive, and judicial expenses of the Government for the year ending June thirtieth, eighteen hundred and seventy-five, and for other purposes”. A public or private nonprofit organization that receives agricultural commodities or the products thereof under clause (2) of the second sentence may transfer such commodities or products to another public or private nonprofit organization that agrees to use such commodities or products to provide, without cost or waste, nutrition assistance to individuals in low-income groups.
 
 (Aug. 24, 1935, ch. 641, §32, 49 Stat. 774; Feb. 29, 1936, ch. 104, §2, 49 Stat. 1151; Feb. 16, 1938, ch. 30, title II, §203, 52 Stat. 38; June 30, 1939, ch. 253, title I, 53 Stat. 975; July 3, 1948, ch. 827, title III, §301, 62 Stat. 1257; Oct. 31, 1949, ch. 792, title IV, §411, 63 Stat. 1057; Jan. 30, 1954, ch. 2, §5(b), 68 Stat. 7; Pub. L. 99–198, title XV, §1561, Dec. 23, 1985, 99 Stat. 1589.)
 
@@ -56,7 +56,7 @@ Act Aug. 25, 1937, ch. 757, title I, §1, 50 Stat. 762, provided for availabilit
 
 #### Use of Appropriation
 
-Section 301 of act July 30, 1947, ch. 356, title III, 61 Stat. 550, provided that, notwithstanding section 612c of this title, no more than $44,000,000 would be available during the fiscal year ending June 30, 1948, for use in effectuating this chapter; that $65,000,000 of the fiscal year 1948 appropriation were made available to carry out the National School Lunch Act of June 4, 1946, without regard to the 25 per cent limitation in section 612c and exclusive of funds expended pursuant to the last sentence of section 9 of the National School Lunch Act: provided that no part of such funds were to be used for nonfood assistance under section 5 of said Act; and that the remainder of the fund appropriated by said Act for the fiscal year 1948 was rescinded effective July 1, 1947, carried to the surplus fund, and covered into the Treasury immediately thereafter.
+Section 301 of act July 30, 1947, ch. 356, title III, 61 Stat. 550, provided that, notwithstanding section 612c of this title, no more than $44,000,000 would be available during the fiscal year ending June 30, 1948, for use in effectuating this chapter; that $65,000,000 of the fiscal year 1948 appropriation were made available to carry out the National School Lunch Act of June 4, 1946,without regard to the 25 per cent limitation in section 612c and exclusive of funds expended pursuant to the last sentence of section 9 of the National School Lunch Act: provided that no part of such funds were to be used for nonfood assistance under section 5 of said Act; and that the remainder of the fund appropriated by said Act for the fiscal year 1948 was rescinded effective July 1, 1947, carried to the surplus fund, and covered into the Treasury immediately thereafter.
 
 #### Cancellation or Rescission of Appropriation
 
@@ -126,7 +126,7 @@ Pub. L. 100–435, title I, §130, Sept. 19, 1988, 102 Stat. 1655, was redesigna
 
 #### Encouragement of Food Processing and Distribution by Eligible Recipient Agencies
 
-Pub. L. 100–435, title II, §220, Sept. 19, 1988, 102 Stat. 1659, as amended by Pub. L. 101–624, title XVII, §1772(h)(5), Nov. 28, 1990, 104 Stat. 3809; Pub. L. 102–237, title IX, §942, Dec. 13, 1991, 105 Stat. 1893, provided that, not later than 60 days after Sept. 19, 1988, Secretary of Agriculture was, to extent that Commodity Credit Corporation's inventory levels permitted, solicit applications for surplus commodities available for distribution under section 202 of Pub. L. 98–8 (7 U.S.C. 7502), and further provided for requirements for solicitations as well as review of applications, prior to repeal by Pub. L. 104–193, title VIII, §873(2), Aug. 22, 1996, 110 Stat. 2346.
+Pub. L. 100–435, title II, §220, Sept. 19, 1988, 102 Stat. 1659, as amended by Pub. L. 101–624, title XVII,§1772(h)(5), Nov. 28, 1990, 104 Stat. 3809; Pub. L. 102–237, title IX, §942, Dec. 13, 1991, 105 Stat. 1893, provided that, not later than 60 days after Sept. 19, 1988, Secretary of Agriculture was, to extent that Commodity Credit Corporation's inventory levels permitted, solicit applications for surplus commodities available for distribution under section 202 of Pub. L. 98–8 (7 U.S.C. 7502), and further provided for requirements for solicitations as well as review of applications, prior to repeal by Pub. L. 104–193, title VIII, §873(2), Aug. 22, 1996, 110 Stat. 2346.
 
 #### Food Bank Demonstration Projects
 
@@ -134,7 +134,7 @@ Pub. L. 100–435, title V, §502, Sept. 19, 1988, 102 Stat. 1671, authorized Se
 
 #### Commodity Distribution Reform
 
-Pub. L. 100–237, §§1–4, 7, 13–18, Jan. 8, 1988, 101 Stat. 1733, 1739, 1740, 1742, 1743, as amended by Pub. L. 101–624, title XVII, §§1772(h)(3), (4), 1773(a)–(e), Nov. 28, 1990, 104 Stat. 3809–3811; Pub. L. 102–342, title IV, §401, Aug. 14, 1992, 106 Stat. 914; Pub. L. 103–448, title III, §303, Nov. 2, 1994, 108 Stat. 4750; Pub. L. 105–336, title III, §§301, 302, Oct. 31, 1998, 112 Stat. 3167, 3168, provided that:
+Pub. L. 100–237, §§1–4, 7, 13–18, Jan. 8, 1988, 101 Stat. 1733, 1739, 1740, 1742, 1743, as amended by Pub. L. 101–624, title XVII, §§1772(h)(3), (4), 1773(a)–(e), Nov. 28, 1990, 104 Stat. 3809–3811; Pub. L. 102–342, title IV, §401, Aug. 14, 1992, 106 Stat. 914; Pub. L. 103–448, title III, §303, Nov. 2, 1994, 108 Stat. 4750; Pub. L. 105–336, title III, §§301, 302, Oct. 31, 1998, 112 Stat. 3167, 3168; Pub. L. 106–78, title VII, §752(b)(1), Oct. 22, 1999, 113 Stat. 1169, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -184,7 +184,7 @@ Applicability.—Paragraph (1) shall apply to—
 
 &emsp;&emsp;“(B) the program established under section 4(b) of the Food Stamp Act of 1977 (7 U.S.C. 2013(b));
 
-&emsp;&emsp;“(C) the school lunch, commodity distribution, and child care food programs established under sections 6, 14, and 17 of the National School Lunch Act (42 U.S.C. 1755, 1762a, and 1766);
+&emsp;&emsp;“(C) the school lunch, commodity distribution, and child care food programs established under sections 6, 14, and 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1755, 1762a, and 1766);
 
 &emsp;&emsp;“(D) the school breakfast program established under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773);
 
@@ -224,7 +224,7 @@ Duties of Secretary With Respect to Provision of Commodities.—With respect to 
 
 &emsp;“(1) before the end of the 270-day period beginning on the date of the enactment of this Act \[Jan. 8, 1988\]—
 
-&emsp;&emsp;“(A) implement a system to provide recipient agencies with options with respect to package sizes and forms of such commodities, based on information received from such agencies under subsection (f)(2), taking into account the duty of the Secretary—
+&emsp;&emsp;“(A) implement a system to provide recipient agencies with options with respect to package sizes and forms of such commodities, based on information received from such agencies under subsection\(f)(2), taking into account the duty of the Secretary—
 
 &emsp;&emsp;&emsp;“(i) to remove surplus stocks of agricultural commodities through the Commodity Credit Corporation;
 
@@ -236,7 +236,7 @@ Duties of Secretary With Respect to Provision of Commodities.—With respect to 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the program established under section 4(b) of the Food Stamp Act of 1977 (7 U.S.C. 2013(b));
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) the school lunch, commodity distribution, and child care food programs established under sections 6, 14, and 17 of the National School Lunch Act (42 U.S.C. 1755, 1762a, and 1766);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) the school lunch, commodity distribution, and child care food programs established under sections 6, 14, and 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1755, 1762a, and 1766);
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) the school breakfast program established under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773); and
 
@@ -322,7 +322,7 @@ In general.—The Secretary shall provide by regulation for—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the program established under section 4(b) of the Food Stamp Act of 1977 (7 U.S.C. 2013(b)); and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) the school lunch, commodity distribution, and child care food programs established under sections 6, 14, and 17 of the National School Lunch Act (42 U.S.C. 1755, 1762a, and 1766);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) the school lunch, commodity distribution, and child care food programs established under sections 6, 14, and 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1755, 1762a, and 1766);
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) the school breakfast program established under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773); and
 
@@ -388,7 +388,7 @@ Exception.—The requirement established in paragraph (1) shall not apply to rec
 
 Uniform Interpretation.—The Secretary shall take such actions as are necessary to ensure that regional offices of the Department of Agriculture interpret uniformly across the United States policies and regulations issued to implement this section.
 
-“(j) \[Amended section 6(e) of the National School Lunch Act (42 U.S.C. 1755(e)).\]
+“(j) \[Amended section 1755(e) of Title 42, The Public Health and Welfare.\]
 
 “(k)
 
@@ -408,7 +408,7 @@ Reimbursement.—In such cases, the State distribution agency shall reimburse th
 
 “(a)
 
-Community Food Banks.—The Secretary shall carry out no less than one demonstration project to provide and redistribute agricultural commodities and food products thereof as authorized under section 32 ofthe Act entitled ‘An Act to amend the Agricultural Adjustment Act, and for other purposes’, approved August 24, 1935 (7 U.S.C. 612c), to needy individuals and families through community food banks. The Secretary may use a State agency or any other food distribution system for such provision or redistribution of section 32 agricultural commodities and food products through community food banks under a demonstration project.
+Community Food Banks.—The Secretary shall carry out no less than one demonstration project to provide and redistribute agricultural commodities and food products thereof as authorized under section 32 of the Act entitled ‘An Act to amend the Agricultural Adjustment Act, and for other purposes’, approved August 24, 1935 (7 U.S.C. 612c), to needy individuals and families through community food banks. The Secretary may use a State agency or any other food distribution system for such provision or redistribution of section 32 agricultural commodities and food products through community food banks under a demonstration project.
 
 “(b)
 
@@ -526,7 +526,7 @@ Payment.—Notwithstanding section 202(d) of the Federal Property and Administra
 
 &emsp;“(3) The term ‘recipient agency’ means—
 
-&emsp;&emsp;“(A) a school, school food service authority, or other agency authorized under the National School Lunch Act \[42 U.S.C. 1751 et seq.\] or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) to operate breakfast programs, lunch programs, child care food programs, summer food service programs, or similar programs and to receive donations of agricultural commodities and their products acquired by the Secretary through price support, surplus removal, or direct purchase;
+&emsp;&emsp;“(A) a school, school food service authority, or other agency authorized under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) to operate breakfast programs, lunch programs, child care food programs, summer food service programs, or similar programs and to receive donations of agricultural commodities and their products acquired by the Secretary through price support, surplus removal, or direct purchase;
 
 &emsp;&emsp;“(B) a nutrition program for the elderly authorized under title III of the Older Americans Act of 1965 (42 U.S.C. 3021 et seq.) to receive donations of agricultural commodities and their products acquired by the Secretary through price support, surplus removal, or direct purchase;
 
@@ -542,7 +542,9 @@ Payment.—Notwithstanding section 202(d) of the Federal Property and Administra
 
 #### “SEC. 18. GENERAL EFFECTIVE DATE.
 
-“Except as otherwise provided in this Act, this Act and the amendments made by this Act \[see section 1 above\] shall take effect on the date of the enactment of this Act \[Jan. 8, 1988\].”
+“Except as otherwise provided in this Act, this Act and the amendments made by this Act \[see section 1above\] shall take effect on the date of the enactment of this Act \[Jan. 8, 1988\].”
+
+\[Pub. L. 106–78, §752(b)(1), which directed amendment of section 13(3)(A) of Pub. L. 100–237, was executed by amending section 17(3)(A) of Pub. L. 100–237, set out above, to reflect the probable intent of Congress.\]
 
 #### Food Bank Demonstration Project
 
@@ -568,9 +570,11 @@ Pub. L. 97–253, title I, §135, Sept. 8, 1982, 96 Stat. 772, authorized Secret
 
 #### Distribution of Commodities to Individuals in Cases of Hardship
 
-Pub. L. 105–277, div. A, title I, §101(a) \[title VII, §709\], Oct. 21, 1998, 112 Stat. 2681, 2681–26, provided that: “Notwithstanding any other provision of this Act \[probably means the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999, Pub. L. 105–277, div. A, title I, §101(a), Oct. 21, 1998, 112 Stat. 2681, see Tables for classification\], commodities acquired by the Department in connection with Commodity Credit Corporation and section 32 \[this section\] price support operations may be used, as authorized by law (15 U.S.C. 714c and 7 U.S.C. 612c), to provide commodities to individuals in cases of hardship as determined by the Secretary of Agriculture.”
+Pub. L. 106–78, title VII, §709, Oct. 22, 1999, 113 Stat. 1161, provided that: “Notwithstanding any other provision of this Act \[see Tables for classification\], commodities acquired by the Department in connection with Commodity Credit Corporation and section 32 \[this section\] price support operations may be used, as authorized by law (15 U.S.C. 714c and 7 U.S.C. 612c), to provide commodities to individuals in cases of hardship as determined by the Secretary of Agriculture.”
 
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 105–277, div. A, §101(a) \[title VII, §709\], Oct. 21, 1998, 112 Stat. 2681, 2681–26.
 
 Pub. L. 105–86, title VII, §709, Nov. 18, 1997, 111 Stat. 2105.
 
@@ -632,7 +636,7 @@ Section 5 of Pub. L. 93–86, as added by Pub. L. 95–113, title XIII, §1304(b
 
 “(a) In carrying out the supplemental feeding program (hereinafter referred to as the ‘commodity supplemental food program’) under section 4 of this Act \[set out as a note above\], the Secretary (1) may institute two pilot projects directed at low-income elderly persons, including, where feasible, distribution of commodities to such persons in their homes; and (2) shall provide to the State agencies administering the commodity supplemental food program, for each of the fiscal years 1991 through 2002, funds appropriated from the general fund of the Treasury in amounts equal to the administrative costs of State and local agencies in operating the program, except that the funds provided to State agencies each fiscal year may not exceed 20 percent of the amount appropriated for the commodity supplemental food program.
 
-“(b) During the first three months of any commodity supplemental food program, or until such program reaches its projected caseload level, whichever comes first, the Secretary shall pay those administrativecosts necessary to commence the program successfully: <i>Provided</i>, That in no event shall administrative costs paid by the Secretary for any fiscal year exceed the limitation established in subsection (a) of this section.
+“(b) During the first three months of any commodity supplemental food program, or until such program reaches its projected caseload level, whichever comes first, the Secretary shall pay those administrative costs necessary to commence the program successfully: <i>Provided</i>, That in no event shall administrative costs paid by the Secretary for any fiscal year exceed the limitation established in subsection (a) of this section.
 
 “(c) Administrative costs for the purposes of the commodity supplemental food program shall include, but not be limited to, expenses for information and referral, operation, monitoring, nutrition education, start-up costs, and general administration, including staff, warehouse and transportation personnel, insurance, and administration of the State or local office.
 
@@ -688,7 +692,7 @@ Carried-Over Funds.—Not more than 20 percent of any commodity supplemental foo
 
 #### Direct Distribution Programs for Diet of Needy Children and Low-Income Persons Suffering From General and Continued Hunger; Additional Funds
 
-Section 6 of Pub. L. 92–32, June 30, 1971, 85 Stat. 86, authorized the Secretary of Agriculture to use during the fiscal year ending June 30, 1972, not to exceed $20,000,000 in funds from section 612c of this title, in addition to funds appropriated or otherwise available, tocarry out in any area of the United States direct distribution or other programs, without regard to whether such area is under the food stamp program or a system of direct distribution, in order to provide in the vicinity of their residence an adequate diet to needy children and low income persons suffering, through no fault of their own, from general and continued hunger; provided that food made available to needy children was to be in addition to food made available under the National School Lunch Act or the Child Nutrition Act of 1966; and authorized payment of administrative costs incurred by state or local agencies in carrying out programs for needy children.
+Section 6 of Pub. L. 92–32, June 30, 1971, 85 Stat. 86, authorized the Secretary of Agriculture to use during the fiscal year ending June 30, 1972, not to exceed $20,000,000 in funds from section 612c of this title, in addition to funds appropriated or otherwise available, to carry out in any area of the United States direct distribution or other programs, without regard to whether such area is under the food stamp program or a system of direct distribution, in order to provide in the vicinity of their residence an adequate diet to needy children and low income persons suffering, through no fault of their own, from general and continued hunger; provided that food made available to needy children was to be in addition to food made available under the National School Lunch Act or the Child Nutrition Act of 1966; and authorized payment of administrative costs incurred by state or local agencies in carrying out programs for needy children.
 
 #### Use of Funds for School Lunch Program Under Section 1753 of Title 42
 
@@ -696,7 +700,7 @@ Use of funds appropriated under this section for implementing section 1753 of Ti
 
 #### Transfer of Funds to Schools in Need of Additional Assistance in School Breakfast Program
 
-Authorization for transfer of funds under this section to assist schools in need of additional funds in school breakfast program, see note set out under section 1773 of Title 42, The Public Health and Welfare.
+Authorization for transfer of funds under this section to assist schools in need of additional funds in schoolbreakfast program, see note set out under section 1773 of Title 42, The Public Health and Welfare.
 
 #### Additional Funds for Food Service Programs for Children; Apportionment to States; Special Assistance; Consultation With Child Nutrition Council; Reimbursement From Supplemental Appropriation
 

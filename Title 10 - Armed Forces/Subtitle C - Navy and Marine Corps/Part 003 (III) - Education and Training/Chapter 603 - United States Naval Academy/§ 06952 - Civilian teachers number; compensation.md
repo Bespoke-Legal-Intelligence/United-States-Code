@@ -4,9 +4,15 @@
 
 (b) The compensation of persons employed under this section is as prescribed by the Secretary.
 
-(c) The Secretary, to the extent he considers proper, may delegate the authority conferred by this section to any person in the Department of the Navy, with or without the authority to make successive redelegations.
+(c) The Secretary of the Navy may, notwithstanding the provisions of subchapter V of chapter 55 of title 5 or section 6101 of such title, prescribe for persons employed under this section the following:
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 428.)
+&emsp;(1) The work schedule, including hours of work and tours of duty, set forth with such specificity and other characteristics as the Secretary determines appropriate.
+
+&emsp;(2) Any premium pay or compensatory time off for hours of work or tours of duty in excess of the regularly scheduled hours or tours of duty.
+
+(d) The Secretary, to the extent he considers proper, may delegate the authority conferred by this section to any person in the Department of the Navy, with or without the authority to make successive redelegations.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 428; Pub. L. 106–65, div. A, title XI, §1107(b), Oct. 5, 1999, 113 Stat. 778.)
 
 Historical and Revision Notes
 
@@ -31,6 +37,10 @@ Aug. 2, 1946, ch. 756, §39, 60 Stat. 858.
 The words “for the proper instruction of naval personnel” and the words “be paid out of naval appropriations” are omitted as surplusage.
 
 In subsection (c) the words “except the authority to prescribe regulations” are omitted, since 34 U.S.C. 1071 contains no authority for the Secretary of the Navy to prescribe regulations for the administration of that section.
+
+#### Amendments
+
+1999—Subsecs. (c), (d). Pub. L. 106–65 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 #### Cross References
 

@@ -18,6 +18,8 @@ There is established in the Treasury of the United States within the contingent 
 
 &emsp;(B) for necessary supplies, equipment, and other expenses of Senate Hair Care Services.
 
+(3) The provisions of section 193d of title 40, except for the provisions relating to solicitation, shall not apply to any activity carried out pursuant to this section, subject to approval of such activities by the Committee on Rules and Administration.
+
 #### (d) Disbursements upon vouchers
 
 Disbursements from the revolving fund shall be made upon vouchers signed by the Sergeant at Arms and Doorkeeper of the Senate, except that vouchers shall not be required for the disbursement of salaries paid at an annual rate.
@@ -40,7 +42,7 @@ There is transferred to the revolving fund established by this section any unobl
 
 This section shall be effective on and after October 1, 1998, or 30 days after the date of enactment of this Act \[October 21, 1998\], whichever is later.
 
-(Pub. L. 105–275, title I, §6, Oct. 21, 1998, 112 Stat. 2434.)
+(Pub. L. 105–275, title I, §6, Oct. 21, 1998, 112 Stat. 2434; Pub. L. 106–57, title I, §4, Sept. 29, 1999, 113 Stat. 412.)
 
 #### References in Text
 
@@ -51,4 +53,8 @@ Section 121a of this title, referred to in subsec. (g), was repealed by Pub. L. 
 Section is comprised of section 6 of Pub. L. 105–275. Subsec. (h) of section 6 of Pub. L. 105–275 amended section 121b of this title and repealed section 121a of this title.
 
 Section is from the Congressional Operations Appropriations Act, 1999, which is title I of the Legislative Branch Appropriations Act, 1999.
+
+#### Amendments
+
+1999—Subsec. (c)(3). Pub. L. 106–57 added par. (3).
 

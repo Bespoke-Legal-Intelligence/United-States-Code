@@ -50,7 +50,7 @@ Section 301(a) of title III of Pub. L. 87–128, as amended by Pub. L. 92–419,
 
 #### Regulations
 
-Section 2396 of title XXIII of Pub. L. 101–624 provided that: “Except as otherwise provided in this title \[seeShort Title of 1990 Amendment note set out above\], no later than 180 days after the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary shall promulgate such regulations as may be necessary to carry out this title and the amendments made by this title.”
+Section 2396 of title XXIII of Pub. L. 101–624 provided that: “Except as otherwise provided in this title \[see Short Title of 1990 Amendment note set out above\], no later than 180 days after the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary shall promulgate such regulations as may be necessary to carry out this title and the amendments made by this title.”
 
 #### Preservation of Eligibility for Credit Assistance Under Federal Law
 

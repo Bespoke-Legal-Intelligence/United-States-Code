@@ -2,7 +2,7 @@
 
 #### (a) General requirements; applicability to appropriations
 
-All appropriations made to the Energy Research and Development Administration or the Administrator shall, except as otherwise provided by law, be subject to annual authorization in accordance with section 2017 of this title, section 5915 of this title, and section 5875 of this title. The provisions of this section shall apply with respect to appropriations made pursuant to the Act providing such authorization (hereinafter in this section referred to as “annual authorization Acts”).
+All appropriations made to the Energy Research and Development Administration or theAdministrator shall, except as otherwise provided by law, be subject to annual authorization in accordance with section 2017 of this title, section 5915 of this title, and section 5875 of this title. The provisions of this section shall apply with respect to appropriations made pursuant to the Act providing such authorization (hereinafter in this section referred to as “annual authorization Acts”).
 
 #### (b) Requirements and limitations respecting funds appropriated for operating expenses
 
@@ -40,7 +40,7 @@ All appropriations made to the Energy Research and Development Administration or
 
 &emsp;(B) no amount appropriated pursuant to any annual authorization Act may be used for any program which has not been presented to, or requested of the Congress,
 
-> unless (i) a period of thirty calendar days (not including any day in which either House of Congress is not in session because of adjournment of more than three calendar days to a day certain) has passed after the receipt by the appropriate committees of the House of Representatives and the Senate of notice given by the Administrator containing a full and complete statement of the action proposed to be taken and the facts and circumstances relied upon in support of such proposed action, or (ii) each such committee before the expiration of such period has transmitted to the Administrator written notice to the effect that such committee has no objection to the proposed action.
+> unless (i) a period of thirty calendar days (not including any day in which either House of Congress is not in session because of adjournment of more than three calendar days to a day certain) has passed after the receipt by the appropriate committees of the House of Representatives and the Senate of notice given by the Administratorcontaining a full and complete statement of the action proposed to be taken and the facts and circumstances relied upon in support of such proposed action, or (ii) each such committee before the expiration of such period has transmitted to the Administrator written notice to the effect that such committee has no objection to the proposed action.
 
 (2) Notwithstanding any other provision of this section or the authorization Act involved, the aggregate amount available for use within the categories of coal, petroleum and natural gas, oil shale, solar, geothermal, nuclear energy (non-weapons), environment and safety, and conservation from sums appropriated pursuant to an annual authorization Act may not, as a result of reprograming, be decreased by more than 10 per centum of the total of the sums appropriated pursuant to such Act for those categories.
 
@@ -124,7 +124,7 @@ Committee on Science, Space, and Technology of House of Representatives treated 
 
 Section 209 of title II of Pub. L. 95–238 provided that:
 
-“(a) Nothing in this title \[enacting this section and sections 5556a and 5919 of this title, amending sections 2391, 2394, 5905, 5906, and 5914 of this title, and enacting provisions set out as notes under section 7256 of this title and section 2429 of Title 22, Foreign Relations andIntercourse\] shall apply with respect to any authorization or appropriation for any military application of nuclear energy, for research and development in support of the Armed Forces, or for the common defense and security of the United States.
+“(a) Nothing in this title \[enacting this section and sections 5556a and 5919 of this title, amending sections 2391, 2394, 5905, 5906, and 5914 of this title, and enacting provisions set out as notes under section 7256 of this title and section 2429 of Title 22, Foreign Relations and Intercourse\] shall apply with respect to any authorization or appropriation for any military application of nuclear energy, for research and development in support of the Armed Forces, or for the common defense and security of the United States.
 
 “(b)(1) The term ‘military application’ means any activity authorized or permitted by chapter 9 of the Atomic Energy Act of 1954, as amended (Public Law 83–703, as amended; 42 U.S.C. 2121, 2122).
 

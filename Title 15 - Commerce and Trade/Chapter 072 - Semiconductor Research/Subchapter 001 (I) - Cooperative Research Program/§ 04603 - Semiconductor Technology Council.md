@@ -38,7 +38,7 @@ There is established the Semiconductor Technology Council.
 
 The Council shall be composed of 16 members as follows:
 
-&emsp;(1) The Under Secretary of Defense for Acquisition and Technology, who shall be Cochairman of the Council.
+&emsp;(1) The Under Secretary of Defense for Acquisition, Technology, and Logistics who shall be Cochairman of the Council.
 
 &emsp;(2) The Under Secretary of Energy responsible for science and technology matters.
 
@@ -90,13 +90,15 @@ Section 14 of the Federal Advisory Committee Act shall not apply to the Council.
 
 The Council shall use Federal funds made available to Sematech as needed for general and administrative support in accomplishing the Council's purposes.
 
-(Pub. L. 100–180, div. A, title II, §273, Dec. 4, 1987, 101 Stat. 1070; Pub. L. 102–245, title I, §103(e), Feb. 14, 1992, 106 Stat. 9; Pub. L. 103–160, div. A, title II, §263(b), (c)(3)–(e), Nov. 30, 1993, 107 Stat. 1608, 1610; Pub. L. 103–337, div. A, title II, §251, Oct. 5, 1994, 108 Stat. 2702.)
+(Pub. L. 100–180, div. A, title II, §273, Dec. 4, 1987, 101 Stat. 1070; Pub. L. 102–245, title I, §103(e), Feb. 14, 1992, 106 Stat. 9; Pub. L. 103–160, div. A, title II, §263(b), (c)(3)–(e), Nov. 30, 1993, 107 Stat. 1608, 1610; Pub. L. 103–337, div. A, title II, §251, Oct. 5, 1994, 108 Stat. 2702; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717.)
 
 #### References in Text
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463,which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1999—Subsec. (c)(1). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 1994—Subsec. (b)(2)(I). Pub. L. 103–337 inserted “and submit to Congress by March 31 of each year” after “Publish”.
 

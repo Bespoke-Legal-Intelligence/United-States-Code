@@ -12,7 +12,7 @@ The excess deficit is, if greater than zero, the estimated deficit for the budge
 
 &emsp;(2) the amounts for that year designated as emergency direct spending or receipts legislation under section 902(e) of this title; and
 
-&emsp;(3) for any fiscal year in which there is not a full adjustment for technical and economic reestimates, the deposit insurance reestimate for that year, if any, calculated under subsection (h) of this section.
+&emsp;(3) for any fiscal year in which there is not a full adjustment for technical and economic reestimates, the deposit insurance reestimatefor that year, if any, calculated under subsection (h) of this section.
 
 > The “margin” for fiscal year 1992 or 1993 is zero and for fiscal year 1994 or 1995 is $15,000,000,000.
 
@@ -44,7 +44,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 &emsp;&emsp;(ii) the health programs set forth in section 906(e) of this title shall not be reduced by more than 2 percent in total (including any reduction made under section 901 of this title),
 
-> &emsp;and the uniform percent applicable to all other programs under this subsection shall beincreased (if necessary) to a level sufficient to achieve the required reduction in non-defense outlays.
+> &emsp;and the uniform percent applicable to all other programs under this subsection shall be increased (if necessary) to a level sufficient to achieve the required reduction in non-defense outlays.
 
 &emsp;(B) For purposes of determining reductions under subparagraph (A), outlay reduction (as a result of sequestration of Commodity Credit Corporation commodity price support contracts in the fiscal year of a sequestration) that would occur in the following fiscal year shall be credited as outlay reductions in the fiscal year of the sequestration.
 
@@ -68,7 +68,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 &emsp;&emsp;(A) When the President submits the budget for fiscal year 1992, the maximum deficit amounts for fiscal years 1992, 1993, 1994, and 1995 shall be adjusted to reflect up-to-date reestimates of economic and technical assumptions and any changes in concepts or definitions. When the President submits the budget for fiscal year 1993, the maximum deficit amounts for fiscal years 1993, 1994, and 1995 shall be further adjusted to reflect up-to-date reestimates of economic and technical assumptions and any changes in concepts or definitions.
 
-&emsp;&emsp;(B) When submitting the budget for fiscal year 1994, the President may choose to adjust the maximum deficit amounts for fiscal years 1994 and 1995 to reflect up-to-date reestimates of economic and technical assumptions. If the President chooses to adjust the maximum deficit amount when submitting the fiscal year 1994 budget, the President may choose to invoke the same adjustment procedure when submitting the budget for fiscal year 1995. In each case, the President must choose between making no adjustment or the full adjustment described in paragraph (2). If the President chooses to make that full adjustment, then those procedures for adjusting discretionary spending limits described in sections 901(b)(1)(C) <sup>1</sup> and 901(b)(2)(E) <sup>1</sup> of this title, otherwise applicable through fiscal year 1993 or 1994 (as the case may be), shall be deemed to apply for fiscal year 1994 (and 1995 if applicable).
+&emsp;&emsp;(B) When submitting the budget for fiscal year 1994, the President may choose to adjust the maximum deficit amounts for fiscal years 1994 and 1995 to reflect up-to-date reestimates of economic and technical assumptions. If the President chooses to adjust the maximum deficit amount when submitting the fiscal year 1994 budget, the President may choose to invoke the same adjustment procedure when submitting the budget for fiscal year 1995. In each case, the President must choose between making no adjustment or the full adjustment described in paragraph (2). If the President chooses to make that full adjustment, then those procedures for adjusting discretionary spending limits described in sections 901(b)(1)(C) <sup>1</sup> and 901(b)(2)(E) <sup>1</sup> of this title, otherwise applicable through fiscal year 1993 or 1994 (as thecase may be), shall be deemed to apply for fiscal year 1994 (and 1995 if applicable).
 
 &emsp;&emsp;(C) When the budget for fiscal year 1994 or 1995 is submitted and the sequestration reports for those years under section 904 of this title are made (as applicable), if the President does not choose to make the adjustments set forth in subparagraph (B), the maximum deficit amount for that fiscal year shall be adjusted by the amount of the adjustment to discretionary spending limits first applicable for that year (if any) under section 901(b) of this title.
 

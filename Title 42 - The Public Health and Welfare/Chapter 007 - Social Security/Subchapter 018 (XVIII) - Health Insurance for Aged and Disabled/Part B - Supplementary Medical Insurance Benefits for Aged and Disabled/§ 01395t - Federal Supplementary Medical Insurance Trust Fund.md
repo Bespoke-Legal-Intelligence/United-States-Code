@@ -2,7 +2,7 @@
 
 #### (a) Creation; deposits; fund transfers
 
-There is hereby created on the books of the Treasury of the United States a trust fund to be known as the “Federal Supplementary MedicalInsurance Trust Fund” (hereinafter in this section referred to as the “Trust Fund”). The Trust Fund shall consist of such gifts and bequests as may be made as provided in section 401(i)(1) of this title, and such amounts as may be deposited in, or appropriated to, such fund as provided in this part.
+There is hereby created on the books of the Treasury of the United States a trust fund to be known as the “Federal Supplementary Medical Insurance Trust Fund” (hereinafter in this section referred to as the “Trust Fund”). The Trust Fund shall consist of such gifts and bequests as may be made as provided in section 401(i)(1) of this title, and such amounts as may be deposited in, or appropriated to, such fund as provided in this part.
 
 #### (b) Board of Trustees; composition; meetings; duties
 
@@ -20,7 +20,7 @@ With respect to the Trust Fund, there is hereby created a body to be known as th
 
 #### (c) Investment of Trust Fund by Managing Trustee
 
-It shall be the duty of the Managing Trustee to invest such portion of the Trust Fund as is not, in his judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. For such purpose such obligations may be acquired (1) on original issue at the issue price, or (2) by purchase of outstanding obligations at the market price. The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of public-debt obligations for purchase by the Trust Fund. Such obligations issued for purchase by the Trust Fund shall have maturities fixed with due regard for the needs of the Trust Fund and shall bear interest at a rate equal to the average market yield (computed by the Managing Trustee on the basis of market quotations as of the end of the calendar month next preceding the date of such issue) on all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of 4 years from the end of such calendar month; except that where such average market yield is not a multiple of one-eighth of 1 per centum, the rate of interest on such obligations shall be the multiple of one-eighth of 1 per centum nearest such market yield. The Managing Trustee may purchase other interest-bearing obligations of the United States or obligations guaranteed as to both principal and interest by the United States, on original issue or at the market price, only where he determines that the purchase of such other obligations is in the public interest.
+It shall be the duty of the Managing Trustee to invest such portion of the Trust Fund as is not, in his judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of theUnited States or in obligations guaranteed as to both principal and interest by the United States. For such purpose such obligations may be acquired (1) on original issue at the issue price, or (2) by purchase of outstanding obligations at the market price. The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of public-debt obligations for purchase by the Trust Fund. Such obligations issued for purchase by the Trust Fund shall have maturities fixed with due regard for the needs of the Trust Fund and shall bear interest at a rate equal to the average market yield (computed by the Managing Trustee on the basis of market quotations as of the end of the calendar month next preceding the date of such issue) on all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of 4 years from the end of such calendar month; except that where such average market yield is not a multiple of one-eighth of 1 per centum, the rate of interest on such obligations shall be the multiple of one-eighth of 1 per centum nearest such market yield. The Managing Trustee may purchase other interest-bearing obligations of the United States or obligations guaranteed as to both principal and interest by the United States, on original issue or at the market price, only where he determines that the purchase of such other obligations is in the public interest.
 
 #### (d) Authority of Managing Trustee to sell obligations
 
@@ -78,7 +78,7 @@ Subsec. (i). Pub. L. 98–369, §2663(j)(2)(F)(iii), substituted “Health and H
 
 Pub. L. 98–21, §154(c), inserted at end provision that the report referred to in par. (2) shall also include an actuarial opinion by the Chief Actuarial Officer of the Health Care Financing Administration certifying that the techniques and methodologies used are generally accepted within the actuarial profession and that the assumptions and cost estimates used are reasonable, and provided further that the certification shall not refer to economic assumptions underlying the Trustee's report.
 
-Pub. L. 98–21, §341(c)(2), inserted at end provision that a person serving on the Board of Trustees shall not beconsidered to be a fiduciary and shall not be personally liable for actions taken in such capacity with respect to the Trust Fund.
+Pub. L. 98–21, §341(c)(2), inserted at end provision that a person serving on the Board of Trustees shall not be considered to be a fiduciary and shall not be personally liable for actions taken in such capacity with respect to the Trust Fund.
 
 1978—Subsec. (b). Pub. L. 95–292 substituted “Administrator of the Health Care Financing Administration” for “Commissioner of Social Security” in provisions preceding par. (1).
 
@@ -124,7 +124,7 @@ Amendment by section 263(d)(4), (e) of Pub. L. 92–603 with respect to collecti
 
 #### Disposal of Funds in Federal Hospital Insurance Catastrophic Coverage Reserve Fund
 
-Section 102(c) of Pub. L. 101–234 provided that: “Any balance in the Federal Hospital Insurance Catastrophic Coverage Reserve Fund (created under section 1817A(a) of the Social Security Act \[former section 1395i–1a(a) of this title\], as inserted by section 112(a) of MCCA \[Pub. L. 100–360\]) as of January 1, 1990, shall be transferred into the Federal Supplementary Medical Insurance Trust Fund and any amounts payable due to overpayments into such Trust Fund shall be payable from the Federal Supplementary Medical Insurance Trust Fund.”
+Section 102(c) of Pub. L. 101–234 provided that: “Any balance in the Federal Hospital Insurance Catastrophic Coverage Reserve Fund (created under section 1817A(a) of the Social Security Act \[former section 1395i–1a(a) of this title\], as inserted by section 112(a) of MCCA \[Pub. L. 100–360\]) as of January 1, 1990, shall be transferred into the Federal Supplementary Medical Insurance Trust Fund and any amounts payable due to overpayments into such Trust Fund shall be payable from theFederal Supplementary Medical Insurance Trust Fund.”
 
 #### Due Date for 1983 Report on Operation and Status of Trust Fund
 
@@ -132,5 +132,5 @@ Notwithstanding subsec. (b)(2) of this section, the annual report of the Board o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 910, 1320a–7a, 1320b–12, 1395b–1, 1395gg, 1395vv, 1395ggg, 1396m, 1396u–3 of this title.
+This section is referred to in sections 910, 1320a–7a, 1320b–12, 1395b–1, 1395gg, 1395vv, 1395yy, 1395ggg, 1396m, 1396u–3 of this title.
 

@@ -82,7 +82,7 @@ For purposes of subsections (a) and (b)—
 
 &emsp;&emsp;&emsp;(vii) any payment or reimbursement of traveling expenses for travel solely from one point in the United States to another point in the United States, but only if such payment or reimbursement does not exceed the actual cost of the transportation involved plus an amount for all other traveling expenses not in excess of 125 percent of the maximum amount payable under section 5702 of title 5, United States Code, for like travel by employees of the United States; and
 
-&emsp;&emsp;(H) the leasing by a disqualified person to a private foundation of office space for useby the foundation in a building with other tenants who are not disqualified persons shall not be treated as an act of self-dealing if—
+&emsp;&emsp;(H) the leasing by a disqualified person to a private foundation of office space for use by the foundation in a building with other tenants who are not disqualified persons shall not be treated as an act of self-dealing if—
 
 &emsp;&emsp;&emsp;(i) such leasing of office space is pursuant to a binding lease which was in effect on October 9, 1969, or pursuant to renewals of such a lease;
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (2) Amount involved
 
-&emsp;The term “amount involved” means, with respect to any act of self-dealing, the greater of the amount of money and the fair market value of the other property given or the amount of money and the fair market value of the other property received; except that, in the case of services described in subsection (d)(2)(E), the amount involved shall be only the excess compensation. For purposes of the preceding sentence, the fair market value—
+&emsp;The term “amount involved” means, with respect to any act of self-dealing, the greater of the amount of money and the fair marketvalue of the other property given or the amount of money and the fair market value of the other property received; except that, in the case of services described in subsection (d)(2)(E), the amount involved shall be only the excess compensation. For purposes of the preceding sentence, the fair market value—
 
 &emsp;&emsp;(A) in the case of the taxes imposed by subsection (a), shall be determined as of the date on which the act of self-dealing occurs; and
 
@@ -188,7 +188,7 @@ General Rule.—Section 4941 of the Internal Revenue Code of 1986 \[formerly I.R
 
 “(b)
 
-Statute of Limitations.—If credit or refund of any overpayment of tax resulting from subsection (a) is prevented at any time before the close of the 1-year period beginning on the date of the enactment of this Act \[July 18, 1984\] by the operation of any law or rule of law, refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed before the close of such 1-year period.”
+Statute of Limitations.—If credit or refund of any overpayment of tax resulting from subsection (a) isprevented at any time before the close of the 1-year period beginning on the date of the enactment of this Act \[July 18, 1984\] by the operation of any law or rule of law, refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed before the close of such 1-year period.”
 
 #### Applicability to Determination of Status as Substantial Contributor for Purposes of Taxes on Self-Dealing of Contributions Made Prior to October 9, 1969
 

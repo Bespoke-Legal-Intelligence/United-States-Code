@@ -36,7 +36,7 @@ Foreign fishing described in subsection (a) of this section may be conducted pur
 
 &emsp;&emsp;(B) the permit issued for any such vessel pursuant to section 1824 of this title be prominently displayed in the wheelhouse of such vessel;
 
-&emsp;&emsp;(C) transponders, or such other appropriate position-fixing and identification equipmentas the Secretary of the department in which the Coast Guard is operating determines to be appropriate, be installed and maintained in working order on each such vessel;
+&emsp;&emsp;(C) transponders, or such other appropriate position-fixing and identification equipment as the Secretary of the department in which the Coast Guard is operating determines to be appropriate, be installed and maintained in working order on each such vessel;
 
 &emsp;&emsp;(D) United States observers required under subsection (h) of this section be permitted to be stationed aboard any such vessel and that all of the costs incurred incident to such stationing, including the costs of data editing and entry and observer monitoring, be paid for, in accordance with such subsection, by the owner or operator of the vessel;
 
@@ -90,7 +90,7 @@ The total allowable level of foreign fishing, if any, with respect to any fisher
 
 &emsp;(iv) whether, and to what extent, such nation requires the fish harvested from the exclusive economic zone for its domestic consumption;
 
-&emsp;(v) whether, and to what extent, such nation otherwise contributes to, or fosters the growthof, a sound and economic United States fishing industry, including minimizing gear conflicts with fishing operations of United States fishermen, and transferring harvesting or processing technology which will benefit the United States fishing industry;
+&emsp;(v) whether, and to what extent, such nation otherwise contributes to, or fosters the growth of, a sound and economic United States fishing industry, including minimizing gear conflicts with fishing operations of United States fishermen, and transferring harvesting or processing technology which will benefit the United States fishing industry;
 
 &emsp;(vi) whether, and to what extent, the fishing vessels of such nation have traditionally engaged in fishing in such fishery;
 
@@ -134,7 +134,7 @@ Foreign fishing shall not be authorized for the fishing vessels of any foreign n
 
 #### (g) Preliminary fishery management plans
 
-The Secretary, when notified by the Secretary of State that any foreign nation has submitted an application under section 1824(b) of this title shall prepare a preliminary fishery management plan for any fishery covered by such application if the Secretary determines that no fishery management plan for that fishery will be prepared and implemented, pursuant to subchapter IV of this chapter, before March 1, 1977. To the extent practicable, each such plan—
+The Secretary, when notified by the Secretary of State that any foreign nation has submitted an application under section 1824(b) of this title shall prepare a preliminary fishery management plan for any fishery covered by such application if the Secretary determines that no fishery management plan for that fishery will be preparedand implemented, pursuant to subchapter IV of this chapter, before March 1, 1977. To the extent practicable, each such plan—
 
 &emsp;(1) shall contain a preliminary description of the fishery and a preliminary determination as to—
 
@@ -192,7 +192,7 @@ The Secretary, when notified by the Secretary of State that any foreign nation h
 
 #### (i) Recreational fishing
 
-Notwithstanding any other provision of this subchapter, foreign fishing vessels which are not operated for profit may engage in recreational fishing within the exclusive economic zone and the waters within the boundaries of a State subject to obtaining such permits, paying such reasonable fees, and complying with such conditions and restrictions as the Secretary and the Governor of the State (or his designee) shall impose as being necessary or appropriate to insure that the fishing activity of such foreign vessels within such zone or waters, respectively, is consistent with all applicable Federal and State laws and any applicable fishery management plan implemented under section 1854 of this title. The Secretary shall consult with the Secretary of State and the Secretary of the Department in which the Coast Guard is operating in formulating the conditions and restrictions tobe applied by the Secretary under the authority of this subsection.
+Notwithstanding any other provision of this subchapter, foreign fishing vessels which are not operated for profit may engage in recreational fishing within the exclusive economic zone and the waters within the boundaries of a State subject to obtaining such permits, paying such reasonable fees, and complying with such conditions and restrictions as the Secretary and the Governor of the State (or his designee) shall impose as being necessary or appropriate to insure that the fishing activity of such foreign vessels within such zone or waters, respectively, is consistent with all applicable Federal and State laws and any applicable fishery management plan implemented under section 1854 of this title. The Secretary shall consult with the Secretary of State and the Secretary of the Department in which the Coast Guard is operating in formulating the conditions and restrictions to be applied by the Secretary under the authority of this subsection.
 
 (Pub. L. 94–265, title II, §201, Apr. 13, 1976, 90 Stat. 337; Pub. L. 95–354, §4(1)–(4), Aug. 28, 1978, 92 Stat. 519, 520; Pub. L. 96–61, §3(a), Aug. 15, 1979, 93 Stat. 407; Pub. L. 96–118, §5, Nov. 16, 1979, 93 Stat. 860; Pub. L 96–561, title II, §§230, 231(a), 236, Dec. 22, 1980, 94 Stat. 3296, 3297, 3299; Pub. L. 97–453, §2(a), Jan. 12, 1983, 96 Stat. 2481; Pub. L. 98–623, title IV, §404(1), (2), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 99–386, title II, §206(a), Aug. 22, 1986, 100 Stat. 823; Pub. L. 99–659, title I, §§101(c)(2), 103(a), Nov. 14, 1986, 100 Stat. 3707, 3708; Pub. L. 101–627, title I, §104, Nov. 28, 1990, 104 Stat. 4439; Pub. L. 102–251, title III, §301(d), Mar. 9, 1992, 106 Stat. 63; Pub. L. 103–236, title I, §139(24), Apr. 30, 1994, 108 Stat. 399; Pub. L. 104–297, title I, §105(a), Oct. 11, 1996, 110 Stat. 3563.)
 
@@ -262,7 +262,7 @@ Subsec. (j). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zo
 
 Subsec. (e)(1)(A). Pub. L. 98–623, §404(2)(A), substituted “may make allocations to foreign nations from” for “shall determine the allocation among foreign nations of”.
 
-Subsec. (e)(1)(E)(i). Pub. L. 98–623, §404(2)(B), substituted “both United States fish and fishery products”for “United States fish or fishery products” and inserted “, particularly fish and fishery products for which the foreign nation has requested an allocation”.
+Subsec. (e)(1)(E)(i). Pub. L. 98–623, §404(2)(B), substituted “both United States fish and fishery products” for “United States fish or fishery products” and inserted “, particularly fish and fishery products for which the foreign nation has requested an allocation”.
 
 Subsec. (e)(1)(E)(ii). Pub. L. 98–623, §404(2)(C), amended provisions generally, thereby substituting “in both the advancement of existing and new opportunities for fisheries exports from the United States through the purchase of fishery products from United States processors, and the advancement of fisheries trade through the purchase of fish and fishery products from United States fishermen, particularly fish and fishery products for which the foreign nation has requested an allocation” for “in the advancement of existing and new opportunities for fisheries trade, particularly through the purchase of fish or fishery products from United States processors or from United States fishermen”.
 
@@ -318,7 +318,7 @@ Pub. L. 104–43, title VIII, §802, Nov. 3, 1995, 109 Stat. 396, as amended by 
 
 &emsp;“(2) the Secretary of Commerce may not approve the portion of any permit application submitted under section 204(b) of the Act \[16 U.S.C. 1824(b)\] which proposes fishing by a foreign vessel for Atlantic mackerel or Atlantic herring unless—
 
-&emsp;&emsp;“(A) the appropriate regional fishery management council recommends under section 204(b)(5) ofthat Act that the Secretary approve such fishing, and
+&emsp;&emsp;“(A) the appropriate regional fishery management council recommends under section 204(b)(5) of that Act that the Secretary approve such fishing, and
 
 &emsp;&emsp;“(B) the Secretary of Commerce includes in the permit any conditions or restrictions recommended by the appropriate regional fishery management council with respect to such fishing.”
 

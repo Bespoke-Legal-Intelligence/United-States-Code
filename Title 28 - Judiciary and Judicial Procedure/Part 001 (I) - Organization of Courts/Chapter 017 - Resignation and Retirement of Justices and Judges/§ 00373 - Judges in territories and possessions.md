@@ -38,7 +38,7 @@
 
 (2) The chief judge of a judicial circuit may recall any such senior judge, with the judge's consent, to perform, for the court from which he retired, such judicial duties for such periods of time as the chief judge may specify.
 
-(3) Any act or failure to act by a senior judge performing judicial duties pursuant to recall under paragraph (2) of this subsection shall have the same force and effect as if it were an act or failure to act of a judge on active duty; but such senior judge shall not be counted as a judge ofthe court on which he is serving as a recalled annuitant for purposes of the number of judgeships authorized for that court.
+(3) Any act or failure to act by a senior judge performing judicial duties pursuant to recall under paragraph (2) of this subsection shall have the same force and effect as if it were an act or failure to act of a judge on active duty; but such senior judge shall not be counted as a judge of the court on which he is serving as a recalled annuitant for purposes of the number of judgeships authorized for that court.
 
 (4) Any senior judge performing judicial duties pursuant to recall under paragraph (2) of this subsection shall be paid, while performing such duties, the same compensation (in lieu of the annuity payable under subsection (a) of this section) and the same allowances for travel and other expenses as a judge on active duty with the court being served.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Rights and Protections.—The rights and protections against discrimination in the provision of public services and accommodations established by sections 201, 202, and 204, and sections 302, 303, and 309, of the Americans with Disabilities Act of 1990 shall apply, to the extent that public services, programs, or activities are provided, with respect to the White House and its appurtenant grounds and gardens, the Old Executive Office Building, the New Executive Office Buildings, and any other facility to the extent that offices are provided for employees of the Executive Office of the President.
+Rights and Protections.—The rights and protections against discrimination in the provision of public services and accommodations established by sections 201, 202, and 204, and sections 302, 303, and 309, of the Americans with Disabilities Act of 1990 shall apply, to the extent that public services, programs, or activities are provided, with respect to the White House and its appurtenant grounds and gardens, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Buildings, and any other facility to the extent that offices are provided for employees of the Executive Office of the President.
 
 (b)
 
@@ -10,7 +10,7 @@ Remedy.—The remedy for a violation of subsection (a) shall be such remedy as w
 
 (c)
 
-Definition.—For purposes of the application under this section of the Americans with Disabilities Act of 1990, the term “public entity” as used in such Act, means, to the extent that public services, programs, or activities are provided, the White House and its appurtenant grounds and gardens, the Old Executive Office Building, the New Executive Office Buildings, and any other facility to the extent that offices are provided for employees of the Executive Office of the President.
+Definition.—For purposes of the application under this section of the Americans with Disabilities Act of 1990, the term “public entity” as used in such Act, means, to the extent that public services, programs, or activities are provided, the White House and its appurtenant grounds and gardens, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Buildings, and any other facility to the extent that offices are provided for employees of the Executive Office of the President.
 
 (d)
 
@@ -40,7 +40,7 @@ Effective Date.—Subsections (a), (b), and (c) shall take effect on the earlier
 
 &emsp;(2) October 1, 1998.
 
-(Added Pub. L. 104–331, §2(a), Oct. 26, 1996, 110 Stat. 4061.)
+(Added Pub. L. 104–331, §2(a), Oct. 26, 1996, 110 Stat. 4061; amended Pub. L. 106–92, §2, Nov. 9, 1999, 113 Stat. 1309.)
 
 #### References in Text
 
@@ -49,6 +49,10 @@ The Americans with Disabilities Act of 1990, referred to in subsecs. (a) to (c),
 Sections 1, 2, 3, and 6 of the Act of August 12, 1968, commonly known as the Architectural Barriers Act of 1968, referred to in subsec. (d)(2)(B), are classified to sections 4151 to 4153 and 4156, respectively, of Title 42.
 
 Section 501 of the Rehabilitation Act of 1973, referred to in subsec. (d)(2)(B), is classified to section 791 of Title 29, Labor.
+
+#### Amendments
+
+1999—Subsecs. (a), (c). Pub. L. 106–92 substituted “Dwight D. Eisenhower Executive Office Building” for “Old Executive Office Building”.
 
 #### Effective Date
 

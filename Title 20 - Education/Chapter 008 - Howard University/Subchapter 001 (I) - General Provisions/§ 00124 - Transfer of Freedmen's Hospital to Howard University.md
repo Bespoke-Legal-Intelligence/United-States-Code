@@ -16,7 +16,7 @@ The Secretary of Health, Education, and Welfare shall report to the Congress the
 
 #### Transfer of Functions
 
-Functions of Secretary of Health, Education, and Welfare under laws relating to relationship between Howard University and Department of Health, Education, and Welfare transferred to Secretary of Education by section 3441(a)(2)(M) of this title.
+Functions of Secretary of Health, Education, and Welfare under laws relating to relationship betweenHoward University and Department of Health, Education, and Welfare transferred to Secretary of Education by section 3441(a)(2)(M) of this title.
 
 #### Repeal of Laws Applicable to Freedmen's Hospital
 

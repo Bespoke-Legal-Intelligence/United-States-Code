@@ -76,7 +76,7 @@ In this section, the term “appropriate Secretary” means the head of the Fede
 
 #### (B) Special rule
 
-&emsp;&emsp;In subparagraph (A), the term “criteria for approval of a State plan”, relating to activities carried out under title I \[29 U.S.C. 2801 et seq.\] or II \[20 U.S.C. 9201 et seq.\] or under the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.), includes a requirement for agreement between the State and the appropriate Secretary regarding State performance measures, including levels of performance.
+&emsp;&emsp;In subparagraph (A), the term “criteria for approval of a State plan”, relating to activities carried out under title I \[29 U.S.C. 2801 et seq.\] or II \[20 U.S.C. 9201 et seq.\] or under the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.), includes a requirement for agreementbetween the State and the appropriate Secretary regarding State performance measures, including levels of performance.
 
 (Pub. L. 105–220, title V, §501, Aug. 7, 1998, 112 Stat. 1242; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(17)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412.)
 
@@ -98,7 +98,7 @@ The Social Security Act, referred to in subsec. (b)(2)(L), is act Aug. 14, 1935,
 
 The Older Americans Act of 1965, referred to in subsec. (b)(2)(M), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Title V of the Act, known as the “Older Americans Community Services Employment Act”, is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
-The Community Services Block Grant Act, referred to in subsec. (b)(2)(O), is subtitle B (§§671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short title note set out under section 9901 of Title 42 and Tables.
+The Community Services Block Grant Act, referred to in subsec. (b)(2)(O), is subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short title note set out under section 9901 of Title 42 and Tables.
 
 #### Amendments
 

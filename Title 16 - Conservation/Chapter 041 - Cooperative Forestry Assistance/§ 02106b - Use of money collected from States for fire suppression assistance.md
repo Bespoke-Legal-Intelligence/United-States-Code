@@ -10,7 +10,7 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 
 #### Similar Provisions
 
-Provisions similar to this section were contained in the following prior appropriations acts:
+Provisions similar to this section were contained in the following prior appropriation acts:
 
 Pub. L. 105–83, title II, Nov. 14, 1997, 111 Stat. 1577.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Classification.—An offense that is not specifically classified by a letter grade in the section defining it, is classified if the maximum term of imprisonment authorized is—
+Classification.—An offense that is not specifically classified by a letter grade in thesection defining it, is classified if the maximum term of imprisonment authorized is—
 
 &emsp;(1) life imprisonment, or if the maximum penalty is death, as a Class A felony;
 
@@ -58,7 +58,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;(F) the term “serious violent felony” means—
 
-&emsp;&emsp;&emsp;(i) a Federal or State offense, by whatever designation and wherever committed, consisting of murder (as described in section 1111); manslaughter other than involuntary manslaughter (as described in section 1112); assault with intent to commit murder (as described in section 113(a)); assault with intent to commit rape; aggravated sexual abuse and sexual abuse (as described in sections 2241 and 2242); abusive sexual contact (as described in sections 2244(a)(1) and (a)(2)); kidnapping; aircraft piracy (as described in section 46502 of Title 49); robbery (as described in section 2111, 2113, or 2118); carjacking (as describedin section 2119); extortion; arson; firearms use; firearms possession (as described in section 924(c)); or attempt, conspiracy, or solicitation to commit any of the above offenses; and
+&emsp;&emsp;&emsp;(i) a Federal or State offense, by whatever designation and wherever committed, consisting of murder (as described in section 1111); manslaughter other than involuntary manslaughter (as described in section 1112); assault with intent to commit murder (as described in section 113(a)); assault with intent to commit rape; aggravated sexual abuse and sexual abuse (as described in sections 2241 and 2242); abusive sexual contact (as described in sections 2244(a)(1) and (a)(2)); kidnapping; aircraft piracy (as described in section 46502 of Title 49); robbery (as described in section 2111, 2113, or 2118); carjacking (as described in section 2119); extortion; arson; firearms use; firearms possession (as described in section 924(c)); or attempt, conspiracy, or solicitation to commit any of the above offenses; and
 
 &emsp;&emsp;&emsp;(ii) any other offense punishable by a maximum term of imprisonment of 10 years or more that has as an element the use, attempted use, or threatened use of physical force against the person of another or that, by its nature, involves a substantial risk that physical force against the person of another may be used in the course of committing the offense;
 
@@ -78,7 +78,7 @@ Nonqualifying felonies.—
 
 Robbery in certain cases.—Robbery, an attempt, conspiracy, or solicitation to commit robbery; or an offense described in paragraph (2)(F)(ii) shall not serve as a basis for sentencing under this subsection if the defendant establishes by clear and convincing evidence that—
 
-&emsp;&emsp;&emsp;(i) no firearm or other dangerous weapon was used in the offense and no threat of use of a firearm or other dangerous weapon was involved in the offense; and
+&emsp;&emsp;&emsp;(i) no firearm or other dangerous weapon was used in the offense and no threat ofuse of a firearm or other dangerous weapon was involved in the offense; and
 
 &emsp;&emsp;&emsp;(ii) the offense did not result in death or serious bodily injury (as defined in section 1365) to any person.
 

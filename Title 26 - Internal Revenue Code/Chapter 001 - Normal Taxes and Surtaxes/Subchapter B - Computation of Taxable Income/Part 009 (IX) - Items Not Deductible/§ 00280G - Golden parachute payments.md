@@ -16,7 +16,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “parachute payment” means any payment in the nature of compensation to (or for the benefit of) a disqualified individual if—
+&emsp;&emsp;The term “parachute payment” means any payment in the nature of compensation to\(or for the benefit of) a disqualified individual if—
 
 &emsp;&emsp;&emsp;(i) such payment is contingent on a change—
 
@@ -72,7 +72,7 @@ For purposes of this section—
 
 &emsp;&emsp;Notwithstanding paragraph (2), the term “parachute payment” does not include—
 
-&emsp;&emsp;&emsp;(i) any payment to a disqualified individual with respect to a corporation which\(immediately before the change described in paragraph (2)(A)(i)) was a small business corporation (as defined in section 1361(b) but without regard to paragraph (1)(C) thereof), and
+&emsp;&emsp;&emsp;(i) any payment to a disqualified individual with respect to a corporation which (immediately before the change described in paragraph (2)(A)(i)) was a small business corporation (as defined in section 1361(b) but without regard to paragraph (1)(C) thereof), and
 
 &emsp;&emsp;&emsp;(ii) any payment to a disqualified individual with respect to a corporation (other than a corporation described in clause (i)) if—
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section (including regulations for the application of this section in the case of related corporations and in the case of personal service corporations).
 
-(Added Pub. L. 98–369, div. A, title I, §67(a), July 18, 1984, 98 Stat. 585; amended Pub. L. 99–121,title I, §102(c)(4), Oct. 11, 1985, 99 Stat. 508; Pub. L. 99–514, title XVIII, §1804(j), Oct. 22, 1986, 100 Stat. 2807; Pub. L. 100–647, title I, §1018(d)(6)–(8), Nov. 10, 1988, 102 Stat. 3581; Pub. L. 104–188, title I, §1421(b)(9)(A), Aug. 20, 1996, 110 Stat. 1798.)
+(Added Pub. L. 98–369, div. A, title I, §67(a), July 18, 1984, 98 Stat. 585; amended Pub. L. 99–121, title I, §102(c)(4), Oct. 11, 1985, 99 Stat. 508; Pub. L. 99–514, title XVIII, §1804(j), Oct. 22, 1986, 100 Stat. 2807; Pub. L. 100–647, title I, §1018(d)(6)–(8), Nov. 10, 1988, 102 Stat. 3581; Pub. L. 104–188, title I, §1421(b)(9)(A), Aug. 20, 1996, 110 Stat. 1798.)
 
 #### Amendments
 

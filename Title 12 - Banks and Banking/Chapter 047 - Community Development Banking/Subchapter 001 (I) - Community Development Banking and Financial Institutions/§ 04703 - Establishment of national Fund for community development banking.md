@@ -8,7 +8,7 @@
 
 #### (2) Wholly owned Government corporation
 
-&emsp;The Fund shall be a wholly owned Government corporation in the executive branch and shall be treated in all respects as an agency of the United States, except as otherwise provided in this subchapter.
+&emsp;The Fund shall be a wholly owned Government corporation in the executive branch andshall be treated in all respects as an agency of the United States, except as otherwise provided in this subchapter.
 
 #### (b) Management of Fund
 
@@ -188,7 +188,7 @@ Federal tax law, referred to in subsec. (g), is classified generally to Title 26
 
 #### Codification
 
-Section is comprised of section 104 of Pub. L. 103–325. Subsecs. (e) and (i) of section 104 of Pub. L. 103–325 amended section 9101 of Title 31, Money and Finance, and section 5313 of Title 5, Government Organization and Employees, respectively.
+Section is comprised of section 104 of Pub. L. 103–325. Subsecs. (e) and (i) of section 104 of Pub. L. 103–325amended section 9101 of Title 31, Money and Finance, and section 5313 of Title 5, Government Organization and Employees, respectively.
 
 #### Administration of Fund by Secretary of the Treasury
 

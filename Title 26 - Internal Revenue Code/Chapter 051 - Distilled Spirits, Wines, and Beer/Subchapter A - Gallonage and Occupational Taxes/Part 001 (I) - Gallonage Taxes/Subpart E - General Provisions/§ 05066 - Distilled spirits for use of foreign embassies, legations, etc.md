@@ -4,7 +4,7 @@
 
 #### (1) Bottled distilled spirits withdrawn from bonded premises
 
-&emsp;Under such regulations as the Secretary may prescribe, bottled distilled spirits may bewithdrawn from bonded premises as provided in section 5214(a)(4) for transfer to customs bonded warehouses in which imported distilled spirits are permitted to be stored in bond for entry therein pending withdrawal therefrom as provided in subsection (b). For the purposes of this chapter, the withdrawal of distilled spirits from bonded premises under the provisions of this paragraph shall be treated as a withdrawal for exportation and all provisions of law applicable to distilled spirits withdrawn for exportation under the provisions of section 5214(a)(4) shall apply with respect to spirits withdrawn under this paragraph.
+&emsp;Under such regulations as the Secretary may prescribe, bottled distilled spirits may be withdrawn from bonded premises as provided in section 5214(a)(4) for transfer to customs bonded warehouses in which imported distilled spirits are permitted to be stored in bond for entry therein pending withdrawal therefrom as provided in subsection (b). For the purposes of this chapter, the withdrawal of distilled spirits from bonded premises under the provisions of this paragraph shall be treated as a withdrawal for exportation and all provisions of law applicable to distilled spirits withdrawn for exportation under the provisions of section 5214(a)(4) shall apply with respect to spirits withdrawn under this paragraph.
 
 #### (2) Bottled distilled spirits eligible for export with benefit of drawback
 
@@ -16,7 +16,7 @@
 
 #### (b) Withdrawal from customs bonded warehouses
 
-Notwithstanding any other provisions of law, distilled spirits entered into customs bonded warehouses under the provisions of subsection (a) may, under such regulations as the Secretary may prescribe, be withdrawn from such warehouses for consumption in the United States by and for the official or family use of such foreign governments, organizations, and individuals who are entitled to withdraw imported distilled spirits from such warehouses free of tax. Distilled spirits transferred to customs bonded warehouses under the provisions of this section shall be entered, stored, and accounted for in such warehouses under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported distilled spirits.
+Notwithstanding any other provisions of law, distilled spirits entered into customs bondedwarehouses under the provisions of subsection (a) may, under such regulations as the Secretary may prescribe, be withdrawn from such warehouses for consumption in the United States by and for the official or family use of such foreign governments, organizations, and individuals who are entitled to withdraw imported distilled spirits from such warehouses free of tax. Distilled spirits transferred to customs bonded warehouses under the provisions of this section shall be entered, stored, and accounted for in such warehouses under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported distilled spirits.
 
 #### (c) Withdrawal for domestic use
 

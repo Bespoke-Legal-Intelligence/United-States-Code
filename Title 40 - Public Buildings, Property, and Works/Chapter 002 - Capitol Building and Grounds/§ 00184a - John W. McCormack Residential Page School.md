@@ -2,7 +2,7 @@
 
 #### (a) Construction authorization for dormitory and classroom facilities complex
 
-There is hereby authorized to be constructed, on a site jointly approved by the Senate Office Building Commission and the House Office Building Commission, in accordance with plans which shall be prepared by or under the direction of the Architect of the Capitol and which shall be submitted to and jointly approved by the Senate Office Building Commission and the House Office Building Commission, a fireproof building containing dormitory and classroom facilities, including necessary furnishings and equipment, for pages of the Senate, the House ofRepresentatives, and the Supreme Court of the United States.
+There is hereby authorized to be constructed, on a site jointly approved by the Senate Office Building Commission and the House Office Building Commission, in accordance with plans which shall be prepared by or under the direction of the Architect of the Capitol and which shall be submitted to and jointly approved by the Senate Office Building Commission and the House Office Building Commission, a fireproof building containing dormitory and classroom facilities, including necessary furnishings and equipment, for pages of the Senate, the House of Representatives, and the Supreme Court of the United States.
 
 #### (b) Acquisition of property in District of Columbia
 
@@ -22,7 +22,7 @@ Notwithstanding any other provision of law, any alleys, or parts of alleys and s
 
 #### (f) United States Capitol Grounds provisions applicable
 
-Upon the acquisition on behalf of the United States of all real property under this section, such property shall be a part of the United States Capitol Grounds and shall be subject to the provisions of sections 193a to 193m, 212a, 212a–2, and 212b of this title.
+Upon the acquisition on behalf of the United States of all real property under this section, such property shall be a part of the United States Capitol Grounds and shall be subject to the provisions of sections 193a to 193m, 207a, 212a, 212a–2, 212a–3, and 212b of this title.
 
 #### (g) Designation; employment of services under supervision and control of Architect of Capitol: joint approval and direction of Speaker and President pro tempore; annual estimates to Congress; regulations governing Architect of Capitol
 
@@ -44,7 +44,7 @@ The Speaker of the House of Representatives and the President pro tempore of the
 
 Nothing in section 88b–1 of title 2 and this section shall affect the operation of section 88b of title 2, relating to educational facilities of pages and other minors who are congressional employees.
 
-(Pub. L. 91–510, title IV, §492, Oct. 26, 1970, 84 Stat. 1199; Pub. L. 93–198, title IV, §421, Dec. 24,1973, 87 Stat. 789; Pub. L. 104–186, title II, §204(34)(C), Aug. 20, 1996, 110 Stat. 1734.)
+(Pub. L. 91–510, title IV, §492, Oct. 26, 1970, 84 Stat. 1199; Pub. L. 93–198, title IV, §421, Dec. 24, 1973, 87 Stat. 789; Pub. L. 104–186, title II, §204(34)(C), Aug. 20, 1996, 110 Stat. 1734.)
 
 #### References in Text
 

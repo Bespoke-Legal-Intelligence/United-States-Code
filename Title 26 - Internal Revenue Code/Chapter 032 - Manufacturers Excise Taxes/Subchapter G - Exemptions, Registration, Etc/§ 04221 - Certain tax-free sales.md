@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (3) Supplies for vessels or aircraft
 
-&emsp;The term “supplies for vessels or aircraft” means fuel supplies, ships’ stores, sea stores, or legitimate equipment on vessels of war of the United States or of any foreign nation, vessels employed in the fisheries or in the whaling business, or vessels actually engagedin foreign trade or trade between the Atlantic and Pacific ports of the United States or between the United States and any of its possessions. For purposes of the preceding sentence, the term “vessels” includes civil aircraft employed in foreign trade or trade between the United States and any of its possessions, and the term “vessels of war of the United States or of any foreign nation” includes aircraft owned by the United States or by any foreign nation and constituting a part of the armed forces thereof.
+&emsp;The term “supplies for vessels or aircraft” means fuel supplies, ships’ stores, sea stores, or legitimate equipment on vessels of war of the United States or of any foreign nation, vessels employed in the fisheries or in the whaling business, or vessels actually engaged in foreign trade or trade between the Atlantic and Pacific ports of the United States or between the United States and any of its possessions. For purposes of the preceding sentence, the term “vessels” includes civil aircraft employed in foreign trade or trade between the United States and any of its possessions, and the term “vessels of war of the United States or of any foreign nation” includes aircraft owned by the United States or by any foreign nation and constituting a part of the armed forces thereof.
 
 #### (4) State or local government
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) such article is sold for use by the purchaser as material in the manufacture or production of, or as a component part of, another article taxable under this chapter to be manufactured or produced by him; or
 
-&emsp;&emsp;(B) in the case of gasoline taxable under section 4081, such gasoline is sold for use by the purchaser, for nonfuel purposes, as a material in the manufacture or production of another article to be manufactured or produced by him.
+&emsp;&emsp;(B) in the case of gasoline taxable under section 4081, such gasoline is sold for use bythe purchaser, for nonfuel purposes, as a material in the manufacture or production of another article to be manufactured or produced by him.
 
 #### (7) Qualified bus
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (3) Tires used on intercity, local, and school buses
 
-&emsp;Under regulations prescribed by the Secretary, the tax imposed by section 4071 shall not apply in the case of tires sold for use bythe purchaser on or in connection with a qualified bus.
+&emsp;Under regulations prescribed by the Secretary, the tax imposed by section 4071 shall not apply in the case of tires sold for use by the purchaser on or in connection with a qualified bus.
 
 (Added Pub. L. 85–859, title I, §119(a), Sept. 2, 1958, 72 Stat. 1282; amended Pub. L. 86–70, §22(a), June 25, 1959, 73 Stat. 146; Pub. L. 86–344, §2(b), Sept. 21, 1959, 73 Stat. 617; Pub. L. 86–418, §1, Apr. 8, 1960, 74 Stat. 38; Pub. L. 86–624, §18(e), July 12, 1960, 74 Stat. 416; Pub. L. 87–61, title II, §205(a), June 29, 1961, 75 Stat. 126; Pub. L. 89–44, title II, §208(d), title VIII, §801(c), (d)(1), June 21, 1965, 79 Stat. 141, 158; Pub. L. 91–172, title I, §101(j)(26), Dec. 30, 1969, 83 Stat. 529; Pub. L. 92–178, title IV, §401(a)(3)(A), Dec. 10, 1971, 85 Stat. 531; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–227, §2(b)(2), Feb. 10, 1978, 92 Stat. 12; Pub. L. 95–600, title VII, §701(ff)(2)(A), Nov. 6, 1978, 92 Stat. 2924; Pub. L. 95–618, title II, §§201(c)(1), 232(a), 233(c)(1), (2), Nov. 9, 1978, 92 Stat. 3183, 3189, 3191, 3192; Pub. L. 96–222, title I, §108(c)(5), Apr. 1, 1980, 94 Stat. 227; Pub. L. 97–424, title V, §§515(b)(1), 516(b)(2), Jan. 6, 1983, 96 Stat. 2181, 2183; Pub. L. 98–369, div. A, title VII, §735(c)(8), July 18, 1984, 98 Stat. 983; Pub. L. 99–499, title V, §521(d)(4), Oct. 17, 1986, 100 Stat. 1779; Pub. L. 99–514, title XVII, §1703(c)(2)(C), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 100–17, title V, §502(b)(4), Apr. 2, 1987, 101 Stat. 257; Pub. L. 100–203, title IX, §9201(b)(1), title X, §10502(d)(4), Dec. 22, 1987, 101 Stat. 1330–330, 1330–444; Pub. L. 101–239, title VII, §7841(d)(17), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §§11211(d)(3), 11221(b), (d)(1), (2), Nov. 5, 1990, 104 Stat. 1388–427, 1388–444; Pub. L. 102–240, title VIII, §8002(b)(3), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §13161(b)(1), Aug. 10, 1993, 107 Stat. 452; Pub. L. 105–178, title IX, §9002(b)(1), June 9, 1998, 112 Stat. 500; Pub. L. 105–206, title VI, §6023(17), July 22, 1998, 112 Stat. 825.)
 
@@ -178,7 +178,7 @@ Subsec. (c). Pub. L. 95–600 substituted “4063(b), 4063(e),” for “4063(b)
 
 Subsec. (d)(7). Pub. L. 95–618, §233(c)(2), added par. (7).
 
-Subsec. (e)(5). Pub. L. 95–618, §233(c)(1), substituted provisions relating to the applicability of the taxes imposed by section 4071(a)(1) and (3) in the case of tires or inner tubes for tires sold for use by the purchaser on or in connection with a qualified bus and the tax imposed by section 4071(a)(4) in the case of tread rubber sold for use by the purchaser in the recapping or retreading of any tire to be used by the purchaser on or in connection with a qualified bus for provisions relating to the applicability of the tax imposed by section 4061(a) to a bus sold to any person for use exclusively in transporting students and employees of schools operated byState or local governments or by nonprofit educational organizations.
+Subsec. (e)(5). Pub. L. 95–618, §233(c)(1), substituted provisions relating to the applicability of the taxes imposed by section 4071(a)(1) and (3) in the case of tires or inner tubes for tires sold for use by the purchaser on or in connection with a qualified bus and the tax imposed by section 4071(a)(4) in the case of tread rubber sold for use by the purchaser in the recapping or retreading of any tire to be used by the purchaser on or in connection with a qualified bus for provisions relating to the applicability of the tax imposed by section 4061(a) to a bus sold to any person for use exclusively in transporting students and employees of schools operated by State or local governments or by nonprofit educational organizations.
 
 Subsec. (e)(6). Pub. L. 95–618, §232(a), added par. (6).
 
@@ -272,7 +272,7 @@ Amendment by section 801(c), (d)(1) of Pub. L. 89–44 applicable with respect t
 
 #### Effective Date of 1961 Amendment
 
-Amendment by Pub. L. 87–61 applicable only in the case of gasoline sold on or after Oct. 1, 1961, see section208 of Pub. L. 87–61, set out as a note under section 4041 of this title.
+Amendment by Pub. L. 87–61 applicable only in the case of gasoline sold on or after Oct. 1, 1961, see section 208 of Pub. L. 87–61, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1960 Amendments
 

@@ -6,15 +6,19 @@ There is hereby established an Inland Waterway Users Board (hereinafter in this 
 
 #### (b) Duties
 
-The Users Board shall meet at least semi-annually to develop and make recommendations to the Secretary regarding construction and rehabilitation priorities and spending levels on the commercial navigational features and components of the inland waterways and inland harbors of the United States for the following fiscal years. Any advice or recommendation made by the Users Board to the Secretary shall reflect the independent judgment of the Users Board. The Users Board shall, by December 31, 1987, andannually thereafter file such recommendations with the Secretary and with the Congress.
+The Users Board shall meet at least semi-annually to develop and make recommendations to the Secretary regarding construction and rehabilitation priorities and spending levels on the commercial navigational features and components of the inland waterways and inland harbors of the United States for the following fiscal years. Any advice or recommendation made by the Users Board to the Secretary shall reflect the independent judgment of the Users Board. Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), the Users Board shall, by December 31, 1987, and annually thereafter file such recommendations with the Secretary and with the Congress.
 
 #### (c) Administration
 
 The Users Board shall be subject to the Federal Advisory Committee Act, other than section 14, and, with the consent of the appropriate agency head, the Users Board may use the facilities and services of any Federal agency. Non-Federal members of the Users Board while engaged in the performance of their duties away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5.
 
-(Pub. L. 99–662, title III, §302, Nov. 17, 1986, 100 Stat. 4111.)
+(Pub. L. 99–662, title III, §302, Nov. 17, 1986, 100 Stat. 4111; Pub. L. 106–109, §8(a), Nov. 24, 1999, 113 Stat. 1495.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1999—Subsec. (b). Pub. L. 106–109, in last sentence, substituted “Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), the” for “The”.
 

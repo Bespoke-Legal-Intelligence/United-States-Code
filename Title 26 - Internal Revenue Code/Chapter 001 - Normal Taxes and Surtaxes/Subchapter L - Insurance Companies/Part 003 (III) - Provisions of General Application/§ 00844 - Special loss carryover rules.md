@@ -12,7 +12,7 @@ If an insurance company—
 
 #### (b) Limitation
 
-The amount included under section 810(a) or 832(c)(10) (as the case may be) by reason of the application of subsection (a) shall not exceed the amount that would have constituted the loss carryover under such section if for all relevant taxable years the company had been subject tothe tax imposed by the part referred to in subsection (a)(1) rather than the part referred to in subsection (a)(2). For purposes of applying the preceding sentence, section 810(b)(1)(C) (relating to additional years to which losses may be carried by new life insurance companies) shall not apply.
+The amount included under section 810(a) or 832(c)(10) (as the case may be) by reason of the application of subsection (a) shall not exceed the amount that would have constituted the loss carryover under such section if for all relevant taxable years the company had been subject to the tax imposed by the part referred to in subsection (a)(1) rather than the part referred to in subsection (a)(2). For purposes of applying the preceding sentence, section 810(b)(1)(C) (relating to additional years to which losses may be carried by new life insurance companies) shall not apply.
 
 #### (c) Regulations
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(b)(25) of Pub. L. 94–455, effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(b)(25) of Pub. L. 94–455, effective for taxable years beginning after Dec. 31, 1976,see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date
 

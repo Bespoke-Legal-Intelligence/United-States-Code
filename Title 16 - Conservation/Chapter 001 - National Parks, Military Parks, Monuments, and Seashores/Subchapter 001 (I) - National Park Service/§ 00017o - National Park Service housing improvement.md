@@ -28,7 +28,7 @@ A report detailing the results of the revisions required by paragraph (3) shall 
 
 #### (5) Review of condition of and costs relating to housing
 
-Using the revised criteria developed under paragraph (3), the Secretary shall undertake a review, for each unit of the National Park System, of existing government-owned <sup>1</sup> housingprovided to employees of the National Park Service. The review shall include an assessment of the physical condition of such housing and the suitability of such housing to effectively carry out the missions of the Department of the Interior and the National Park Service. For each unit of such housing, the Secretary shall determine whether the unit is needed and justified. The review shall include estimates of the cost of bringing each unit that is needed and justified into usable condition that meets all applicable legal housing requirements or, if the unit is determined to be obsolete but is still warranted to carry out the missions of the Department of the Interior and the National Park Service, the cost of replacing the unit.
+Using the revised criteria developed under paragraph (3), the Secretary shall undertake a review, for each unit of the National Park System, of existing government-owned <sup>1</sup> housing provided to employees of the National Park Service. The review shall include an assessment of the physical condition of such housing and the suitability of such housing to effectively carry out the missions of the Department of the Interior and the National Park Service. For each unit of such housing, the Secretary shall determine whether the unit is needed and justified. The review shall include estimates of the cost of bringing each unit that is needed and justified into usable condition that meets all applicable legal housing requirements or, if the unit is determined to be obsolete but is still warranted to carry out the missions of the Department of the Interior and the National Park Service, the cost of replacing the unit.
 
 #### (6) Authorization for housing agreements
 
@@ -184,7 +184,7 @@ For purposes of this section:
 
 #### References in Text
 
-This section, referred to in pars. (1), (13), and (17)(A), (C), means section 814 of title VIII of div. I of Pub. L.104–333 which enacted this section and sections 1f and 346e of this title and made numerous amendments to this title. The reference probably should have been “this subsection” meaning subsec. (a) of section 814 which enacted this section.
+This section, referred to in pars. (1), (13), and (17)(A), (C), means section 814 of title VIII of div. I of Pub. L. 104–333 which enacted this section and sections 1f and 346e of this title and made numerous amendments to this title. The reference probably should have been “this subsection” meaning subsec. (a) of section 814 which enacted this section.
 
 This Act, referred to in par. (6), is Pub. L. 104–333, Nov. 12, 1996, 110 Stat. 4093, known as the Omnibus Parks and Public Lands Management Act of 1996. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1 of this title and Tables.
 

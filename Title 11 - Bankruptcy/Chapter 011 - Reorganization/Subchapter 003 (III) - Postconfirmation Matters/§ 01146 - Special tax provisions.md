@@ -1,6 +1,6 @@
 ### §1146. Special tax provisions
 
-(a) For the purposes of any State or local law imposing a tax on or measured by income, the taxable period of a debtor that is an individual shall terminate on the date of the order for relief under this chapter, unless the case was converted under section 706 of this title.
+(a) For the purposes of any State or local law imposing a tax on or measured by income, thetaxable period of a debtor that is an individual shall terminate on the date of the order for relief under this chapter, unless the case was converted under section 706 of this title.
 
 (b) The trustee shall make a State or local tax return of income for the estate of an individual debtor in a case under this chapter for each taxable period after the order for relief under this chapter during which the case is pending.
 

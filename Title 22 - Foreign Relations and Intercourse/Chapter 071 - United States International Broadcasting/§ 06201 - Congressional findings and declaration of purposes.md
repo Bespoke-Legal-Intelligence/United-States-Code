@@ -2,7 +2,7 @@
 
 The Congress makes the following findings and declarations:
 
-&emsp;(1) It is the policy of the United States to promote the right of freedom of opinion andexpression, including the freedom “to seek, receive, and impart information and ideas through any media and regardless of frontiers,” in accordance with Article 19 of the Universal Declaration of Human Rights.
+&emsp;(1) It is the policy of the United States to promote the right of freedom of opinion and expression, including the freedom “to seek, receive, and impart information and ideas through any media and regardless of frontiers,” in accordance with Article 19 of the Universal Declaration of Human Rights.
 
 &emsp;(2) Open communication of information and ideas among the peoples of the world contributes to international peace and stability and the promotion of such communication is in the interests of the United States.
 

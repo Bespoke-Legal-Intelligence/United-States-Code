@@ -56,7 +56,7 @@ In this chapter:
 
 #### (10) Value of additional commodities allocated to each State
 
-&emsp;The term “value of additional commodities allocated to each State” means the actualcost of additional commodities allocated to each State that are paid by the Secretary (including the distribution and processing costs incurred by the Secretary).
+&emsp;The term “value of additional commodities allocated to each State” means the actual cost of additional commodities allocated to each State that are paid by the Secretary (including the distribution and processing costs incurred by the Secretary).
 
 (Pub. L. 98–8, title II, §201A, as added Pub. L. 98–92, §2(2), Sept. 2, 1983, 97 Stat. 608; amended Pub. L. 99–198, title XV, §1563, Dec. 23, 1985, 99 Stat. 1590; Pub. L. 104–193, title VIII, §871(a), Aug. 22, 1996, 110 Stat. 2343.)
 

@@ -24,7 +24,7 @@ The Council shall submit to the Migratory Bird Conservation Commission by Januar
 
 #### (c) Council procedures
 
-The Council shall establish practices and procedures for the carrying out of its functionsunder subsections (a) and (b) of this section. The procedures shall include requirements that—
+The Council shall establish practices and procedures for the carrying out of its functions under subsections (a) and (b) of this section. The procedures shall include requirements that—
 
 &emsp;(1) a quorum of the Council must be present before any business may be transacted; and
 
@@ -46,7 +46,7 @@ The Migratory Bird Conservation Commission shall submit annually to the appropri
 
 #### References in Text
 
-The Endangered Species Act, referred to in subsec. (a)(5), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act, referred to in subsec. (a)(5), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 etseq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(B) a request for the name or online contact information of a parent or child that is used for the sole purpose of obtaining parental consent or providing notice under this section and where such information is not maintained in retrievable form by the operator if parental consent is not obtained after a reasonable time;
 
-&emsp;&emsp;(C) online contact information collected from a child that is used only to respondmore than once directly to a specific request from the child and is not used to recontact the child beyond the scope of that request—
+&emsp;&emsp;(C) online contact information collected from a child that is used only to respond more than once directly to a specific request from the child and is not used to recontact the child beyond the scope of that request—
 
 &emsp;&emsp;&emsp;(i) if, before any additional response after the initial response to the child, the operator uses reasonable efforts to provide a parent notice of the online contact information collected from the child, the purposes for which it is to be used, and an opportunity for the parent to request that the operator make no further use of the information and that it not be maintained in retrievable form; or
 

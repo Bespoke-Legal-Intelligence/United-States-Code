@@ -24,7 +24,7 @@ A common trust fund shall not be subject to taxation under this chapter and for 
 
 #### (c) Income of participants in fund
 
-Each participant in the common trust fund in computing its taxable income shall include,whether or not distributed and whether or not distributable—
+Each participant in the common trust fund in computing its taxable income shall include, whether or not distributed and whether or not distributable—
 
 &emsp;(1) as part of its gains and losses from sales or exchanges of capital assets held for not more than 1 year, its proportionate share of the gains and losses of the common trust fund from sales or exchanges of capital assets held for not more than 1 year,
 
@@ -84,29 +84,29 @@ The benefit of the deduction for net operating losses provided by section 172 sh
 
 #### (A) In general
 
-&emsp;&emsp;In determining whether the transfer referred to in paragraph (1)(A) is in exchange solely for stock in one or more regulated investment companies, the assumption by any such company of a liability of the common trust fund, and the fact that any property transferred by the common trust fund is subject to a liability, shall be disregarded.
+&emsp;&emsp;In determining whether the transfer referred to in paragraph (1)(A) is in exchange solely for stock in one or more regulated investment companies, the assumption by any such company of a liability of the common trust fund shall be disregarded.
 
 #### (B) Special rule where assumed liabilities exceed basis
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If, in any transfer referred to in paragraph (1)(A), the assumed liabilities exceed the aggregate adjusted bases (in the hands of the common trust fund) of the assets transferred to the regulated investment company or companies—
+&emsp;&emsp;&emsp;If, in any transfer referred to in paragraph (1)(A), the assumed liabilities exceed the aggregate adjusted bases (in the hands of the common trust fund) of the assetstransferred to the regulated investment company or companies—
 
 &emsp;&emsp;&emsp;&emsp;(I) notwithstanding paragraph (1), gain shall be recognized to the common trust fund on such transfer in an amount equal to such excess,
 
 &emsp;&emsp;&emsp;&emsp;(II) the basis of the assets received by the regulated investment company or companies in such transfer shall be increased by the amount so recognized, and
 
-&emsp;&emsp;&emsp;&emsp;(III) any adjustment to the basis of a participant's interest in the commontrust fund as a result of the gain so recognized shall be treated as occurring immediately before the exchange referred to in paragraph (1)(B).
+&emsp;&emsp;&emsp;&emsp;(III) any adjustment to the basis of a participant's interest in the common trust fund as a result of the gain so recognized shall be treated as occurring immediately before the exchange referred to in paragraph (1)(B).
 
 &emsp;&emsp;&nbsp;If the transfer referred to in paragraph (1)(A) is to two or more regulated investment companies, the basis increase under subclause (II) shall be allocated among such companies on the basis of the respective fair market values of the assets received by each of such companies.
 
 #### (ii) Assumed liabilities
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “assumed liabilities” means the aggregate of—
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “assumed liabilities” means any liability of the common trust fund assumed by any regulated investment company in connection with the transfer referred to in paragraph (1)(A).
 
-&emsp;&emsp;&emsp;&emsp;(I) any liability of the common trust fund assumed by any regulated investment company in connection with the transfer referred to in paragraph (1)(A), and
+#### (C) Assumption
 
-&emsp;&emsp;&emsp;&emsp;(II) any liability to which property so transferred is subject.
+&emsp;&emsp;For purposes of this paragraph, in determining the amount of any liability assumed, the rules of section 357(d) shall apply.
 
 #### (4) Common trust fund must meet diversification rules
 
@@ -116,9 +116,19 @@ The benefit of the deduction for net operating losses provided by section 172 sh
 
 For purposes of this subtitle, the taxable year of any common trust fund shall be the calendar year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 203; Pub. L. 87–722, §4, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–272, title II, §201(d)(5), Feb. 26, 1964, 78 Stat. 32; Pub. L. 94–414, §1, Sept. 17, 1976, 90 Stat. 1273; Pub. L. 94–455, title XIV, §1402(b)(1)(H), (2), title XIX, §§1901(b)(1)(G), 1906(b)(13)(A), title XXI, §§2131(d), 2138, Oct. 4, 1976, 90 Stat. 1732, 1790, 1834, 1924, 1932; Pub. L. 95–30, title I, §101(d)(7), May 23, 1977, 91 Stat. 133; Pub. L. 96–223, title IV, §404(b)(3), Apr. 2, 1980, 94 Stat. 306; Pub. L. 97–34, title III, §301(b)(3), (6)(A), Aug. 13, 1981, 95 Stat. 270; Pub. L. 97–448, title I, §103(a)(2), Jan. 12, 1983, 96 Stat. 2375; Pub. L. 98–369, div. A, title X, §1001(b)(7), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §612(b)(2), Oct. 22, 1986, 100 Stat. 2250; Pub. L. 100–647, title I, §1008(e)(5)(A), Nov. 10, 1988, 102 Stat. 3440; Pub. L. 104–188, title I, §1805(a), Aug. 20, 1996, 110 Stat. 1894.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 203; Pub. L. 87–722, §4, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–272, title II, §201(d)(5), Feb. 26, 1964, 78 Stat. 32; Pub. L. 94–414, §1, Sept. 17, 1976, 90 Stat. 1273; Pub. L. 94–455, title XIV, §1402(b)(1)(H), (2), title XIX, §§1901(b)(1)(G), 1906(b)(13)(A), title XXI, §§2131(d), 2138, Oct. 4, 1976, 90 Stat. 1732, 1790, 1834, 1924, 1932; Pub. L. 95–30, title I, §101(d)(7), May 23, 1977, 91 Stat. 133; Pub. L. 96–223, title IV, §404(b)(3), Apr. 2, 1980, 94 Stat. 306; Pub. L. 97–34, title III, §301(b)(3), (6)(A), Aug. 13, 1981, 95 Stat. 270; Pub. L. 97–448, title I, §103(a)(2), Jan. 12, 1983, 96 Stat. 2375; Pub. L. 98–369, div. A, title X, §1001(b)(7), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §612(b)(2), Oct. 22, 1986, 100 Stat. 2250; Pub. L. 100–647, title I, §1008(e)(5)(A), Nov. 10, 1988, 102 Stat. 3440; Pub. L. 104–188, title I, §1805(a), Aug. 20, 1996, 110 Stat. 1894; Pub. L. 106–36, title III, §3001(c)(1), June 25, 1999, 113 Stat. 183.)
 
 #### Amendments
+
+1999—Subsec. (h)(3)(A). Pub. L. 106–36, §3001(c)(1)(A), struck out “, and the fact that any property transferred by the common trust fund is subject to a liability,” before “shall be disregarded”.
+
+Subsec. (h)(3)(B)(ii). Pub. L. 106–36, §3001(c)(1)(B), added cl. (ii) and struck out heading and text of former cl. (ii). Text read as follows: “For purposes of clause (i), the term ‘assumed liabilities’ means the aggregate of—
+
+&emsp;“(I) any liability of the common trust fund assumed by any regulated investment company in connection with the transfer referred to in paragraph (1)(A), and
+
+&emsp;“(II) any liability to which property so transferred is subject.”
+
+Subsec. (h)(3)(C). Pub. L. 106–36, §3001(c)(1)(B), added subpar. (C).
 
 1996—Subsecs. (h), (i). Pub. L. 104–188 added subsec. (h) and redesignated former subsec. (h) as (i).
 
@@ -157,6 +167,10 @@ Subsec. (g). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate�
 1964—Subsec. (c)(2). Pub. L. 88–272 struck out “section 34 or” before “section 116 applies”.
 
 1962—Subsec. (a)(2). Pub. L. 87–722 inserted “or the Comptroller of the Currency” after “the Board of Governors of the Federal Reserve System”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–36 applicable to transfers after Oct. 18, 1998, see section 3001(e) of Pub. L. 106–36, set out as a note under section 351 of this title.
 
 #### Effective Date of 1996 Amendment
 

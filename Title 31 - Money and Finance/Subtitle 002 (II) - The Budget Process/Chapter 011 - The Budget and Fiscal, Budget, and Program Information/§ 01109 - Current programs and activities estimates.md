@@ -38,5 +38,5 @@ Subsec. (b). Pub. L. 99–177, §222(b), substituted “March 1” for “Januar
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of Title 2, The Congress.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L.99–177, set out as an Effective and Termination Dates note under section 900 of Title 2, The Congress.
 

@@ -16,7 +16,7 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 &emsp;&emsp;(C) by not later than March 1 of each year (beginning with 1998), submit a report to Congress containing the results of such reviews and its recommendations concerning such policies; and
 
-&emsp;&emsp;(D) by not later than June 1 of each year (beginning with 1998), submit a report to Congress containing an examination of issues affecting the medicare program, including the implications of changes in health care delivery in the United States and in the market for health care services on the medicare program.
+&emsp;&emsp;(D) by not later than June 1 of each year (beginning with 1998), submit a report to Congress containing an examination of issues affecting the medicare program, including the implications of changes in health care delivery in the United States and in the market for health care services on the medicare program and including a review of the estimate of the conversion factor submitted under section 1395w–4(d)(1)(E)(ii) of this title.
 
 #### (2) Specific topics to be reviewed
 
@@ -30,7 +30,7 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 &emsp;&emsp;&emsp;(iii) The implications of risk selection both among Medicare+Choice organizations and between the Medicare+Choice option and the original medicare fee-for-service option.
 
-&emsp;&emsp;&emsp;(iv) The development and implementation of mechanisms to assure the quality of care for those enrolled with Medicare+�Choice organizations.
+&emsp;&emsp;&emsp;(iv) The development and implementation of mechanisms to assure the qualityof care for those enrolled with Medicare+�Choice organizations.
 
 &emsp;&emsp;&emsp;(v) The impact of the Medicare+Choice program on access to care for medicare beneficiaries.
 
@@ -162,7 +162,7 @@ Subject to such review as the Comptroller General deems necessary to assure the 
 
 &emsp;There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section. Sixty percent of such appropriation shall be payable from the Federal Hospital Insurance Trust Fund, and 40 percent of such appropriation shall be payable from the Federal Supplementary Medical Insurance Trust Fund.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1805, as added Pub. L. 105–33, title IV, §4022(a), Aug. 5, 1997, 111 Stat. 350; amended Pub. L. 105–277, div. J, title V, §5202(a), Oct. 21, 1998, 112 Stat. 2681–917.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1805, as added Pub. L. 105–33, title IV, §4022(a), Aug. 5, 1997, 111 Stat. 350; amended Pub. L. 105–277, div. J, title V, §5202(a), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(2)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–347.)
 
 #### References in Text
 
@@ -172,7 +172,13 @@ The provisions of title 5 governing appointments in the competitive service, ref
 
 #### Amendments
 
+1999—Subsec. (b)(1)(D). Pub. L. 106–113 inserted “and including a review of the estimate of the conversion factor submitted under section 1395w–4(d)(1)(E)(ii) of this title” before period at end.
+
 1998—Subsec. (c)(1). Pub. L. 105–277 substituted “17” for “15”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective in determining conversion factor under section 1395w–4(d) of this title for years beginning with 2001 and not applicable to or affecting any update (or any update adjustment factor) for any year before 2001, see section 1000(a)(6) \[title II, §211(d)\] of Pub. L. 106–113, set out as a note under section 1395w–4 of this title.
 
 #### Effective Date; Transition; Transfer of Functions
 
@@ -189,6 +195,58 @@ Transition.—As quickly as possible after the date a majority of members of Med
 “(3)
 
 Continuing responsibility for reports.—The MedPAC shall be responsible for the preparation and submission of reports required by law to be submitted (and which have not been submitted by the date of establishment of the MedPAC) by the ProPAC and the PPRC, and, for this purpose, any reference in law to either such Commission is deemed, after the appointment of the MedPAC, to refer to the MedPAC.”
+
+#### MedPAC Study on Complexity of Medicare Program and Levels of Burdens Placed on Providers Through Federal Regulations
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §229(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–357, provided that:
+
+“(1)
+
+Study.—The Medicare Payment Advisory Commission shall undertake a comprehensive study to review the regulatory burdens placed on all classes of health care providers under parts A and B of the medicare program under title XVIII of the Social Security Act \[this subchapter\] and to determine the costs these burdens impose on the nation's health care system. The study shall also examine the complexity of the current regulatory system and its impact on providers.
+
+“(2)
+
+Report.—Not later than December 31, 2001, the Commission shall submit to Congress one or more reports on the study conducted under paragraph (1). The report shall include recommendations regarding—
+
+&emsp;“(A) how the Health Care Financing Administration can reduce the regulatory burdens placed on patients and providers; and
+
+&emsp;“(B) legislation that may be appropriate to reduce the complexity of the medicare program, including improvement of the rules regarding billing, compliance, and fraud and abuse.”
+
+#### MedPAC Report
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §312(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, provided that: “The Medicare Payment Advisory Commission shall include in its report submitted to Congress in March of 2001 recommendations regarding the appropriateness of the initial residency period used under section 1886(h)(5)(F) of the Social Security Act (42 U.S.C. 1395ww(h)(5)(F)) for other residency training programs in a specialty that require preliminary years of study in another specialty.”
+
+#### MedPAC Study of Rural Providers
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §411\], Nov. 29, 1999, 113 Stat. 1536, 1501A–377, provided that:
+
+“(a)
+
+Study.—The Medicare Payment Advisory Commission shall conduct a study of rural providers furnishing items and services for which payment is made under title XVIII of the Social Security Act \[this subchapter\]. Such study shall examine and evaluate the adequacy and appropriateness of the categories of special payments (and payment methodologies) established for rural hospitals under the medicare program, and the impact of such categories on beneficiary access and quality of health care services.
+
+“(b)
+
+Report.—Not later than 18 months after the date of the enactment of this Act \[Nov. 29, 1999\], the Medicare Payment Advisory Commission shall submit to Congress a report on the study conducted under subsection (a).”
+
+#### Quality Improvement Standards
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §520(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–386, provided that:
+
+“(1)
+
+Study.—The Medicare Payment Advisory Commission shall conduct a study on the appropriate quality improvement standards that should apply to—
+
+&emsp;“(A) each type of Medicare+Choice plan described in section 1851(a)(2) of the Social Security Act (42 U.S.C. 1395w–21(a)(2)), including each type of Medicare+Choice plan that is a coordinated care plan (as described in subparagraph (A) of such section); and
+
+&emsp;“(B) the original medicare fee-for-service program under parts A and B \[sic\] title XVIII of such Act (42 U.S.C. 1395 et seq.) \[parts A and B of this subchapter\].
+
+“(2)
+
+Considerations.—Such study shall specifically examine the effects, costs, and feasibility of requiring entities, physicians, and other health care providers that provide items and services under the original medicare fee-for-service program to comply with quality standards and related reporting requirements that are comparable to the quality standards and related reporting requirements that are applicable to Medicare+Choice organizations.
+
+“(3)
+
+Report.—Not later than 2 years after the date of the enactment of this Act \[Nov. 29, 1999\], such Commission shall submit a report to Congress on the study conducted under this subsection, together with any recommendations for legislation that it determines to be appropriate as a result of such study.”
 
 #### Initial Terms of Additional Members
 

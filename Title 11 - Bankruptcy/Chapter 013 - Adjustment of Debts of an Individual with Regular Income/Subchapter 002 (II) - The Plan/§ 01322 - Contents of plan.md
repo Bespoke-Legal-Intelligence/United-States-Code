@@ -22,7 +22,7 @@
 
 &emsp;(6) provide for the payment of all or any part of any claim allowed under section 1305 of this title;
 
-&emsp;(7) subject to section 365 of this title, provide for the assumption, rejection, or assignmentof any executory contract or unexpired lease of the debtor not previously rejected under such section;
+&emsp;(7) subject to section 365 of this title, provide for the assumption, rejection, or assignment of any executory contract or unexpired lease of the debtor not previously rejected under such section;
 
 &emsp;(8) provide for the payment of all or part of a claim against the debtor from property of the estate or property of the debtor;
 

@@ -16,3 +16,15 @@ The Governor shall establish and maintain systems of accounting and internal con
 
 Section 26, referred to in subsec. (d), probably means section 26 of S. 3378 (act July 22, 1954, ch. 558, 68 Stat. 497) prior to the submission of S. 3378 to the Conference Committee which redesignated section 26 as section 28 of S. 3378. Said section 28 was composed of subsecs. (a) to (d). Subsecs. (a), (c), and (d) thereof enacted sections 1642, 1643, and 1644 of this title, respectively. Subsec. (b) thereof added subsec. (c) to section 3350 of former Title 26, Internal Revenue Code. Reference to section 3350(c) of former Title 26 is deemed a reference to section 7652(b)(3) of Title 26, Internal Revenue Code. See section 7852(b) of Title 26, Internal Revenue Code, which provides that any reference in any other law to a provision of the Internal Revenue Code of 1939 be deemed a reference to the corresponding provisions of the Internal Revenue Code of 1986.
 
+#### Agreement Regarding Financial Accountability and Performance Standards
+
+Pub. L. 106–84, §2, Oct. 28, 1999, 113 Stat. 1295, provided that:
+
+“(a)
+
+In General.—The Secretary of the Interior is authorized to enter into an agreement with the Governor of the Virgin Islands establishing mutually agreed financial accountability and performance standards for the fiscal operations of the Government of the Virgin Islands.
+
+“(b)
+
+Transmission to Congress.—Upon ratification of the agreement authorized in subsection (a) by both parties, the Secretary shall forward a copy of the agreement to the Committee on Resources in the House of Representatives and the Committee on Energy and Natural Resources in the Senate.”
+

@@ -2,7 +2,7 @@
 
 Whoever forges or counterfeits any postage stamp, postage meter stamp, or any stamp printed upon any stamped envelope, or postal card, or any die, plate, or engraving thereof; or
 
-Whoever makes or prints, or knowingly uses or sells, or possesses with intent to use or sell, any such forged or counterfeited postage stamp, postage meter stamp, stamped envelope, postal card, die, plate, or engraving; or
+Whoever makes or prints, or knowingly uses or sells, or possesses with intent to use or sell,any such forged or counterfeited postage stamp, postage meter stamp, stamped envelope, postal card, die, plate, or engraving; or
 
 Whoever makes, or knowingly uses or sells, or possesses with intent to use or sell, any paper bearing the watermark of any stamped envelope, or postal card, or any fraudulent imitation thereof; or
 

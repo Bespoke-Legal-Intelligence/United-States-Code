@@ -42,7 +42,7 @@ The Commission shall have jurisdiction to hear and determine any other matter ar
 
 #### (e) Matters assigned by Secretary after public notice and matters referred under section 7174 of this title
 
-In addition to the other provisions of this section, the Commission shall have jurisdiction over any other matter which the Secretary may assign to the Commission after public notice, or which are required to be referred to the Commission pursuant to section 7174 of this title.
+In addition to the other provisions of this section, the Commission shall have jurisdictionover any other matter which the Secretary may assign to the Commission after public notice, or which are required to be referred to the Commission pursuant to section 7174 of this title.
 
 #### (f) Limitation
 
@@ -138,7 +138,7 @@ Rates Deemed Just and Reasonable.—Except as provided in subsection (b)—
 
 &emsp;“(1) any rate in effect for the 365-day period ending on the date of the enactment of this Act \[Oct. 24, 1992\] shall be deemed to be just and reasonable (within the meaning of section 1(5) of the Interstate Commerce Act \[former 49 U.S.C. 1(5)\]); and
 
-&emsp;“(2) any rate in effect on the 365th day preceding the date of such enactment shall be deemed to be just and reasonable (within the meaning of such section 1(5)) regardless of whether or not, with respect to such rate, a new rate has been filed with the Commission during such 365-day period;
+&emsp;“(2) any rate in effect on the 365th day preceding the date of such enactment shall be deemed to be just and reasonable (within the meaning of such section1(5)) regardless of whether or not, with respect to such rate, a new rate has been filed with the Commission during such 365-day period;
 
 > if the rate in effect, as described in paragraph (1) or (2), has not been subject to protest, investigation, or complaint during such 365-day period.
 

@@ -1,8 +1,8 @@
 ### §1123. Rules and regulations for conduct of proceedings in Patent and Trademark Office
 
-The Commissioner shall make rules and regulations, not inconsistent with law, for the conduct of proceedings in the Patent and Trademark Office under this chapter.
+The Director shall make rules and regulations, not inconsistent with law, for the conduct of proceedings in the Patent and Trademark Office under this chapter.
 
-(July 5, 1946, ch. 540, title VI, §41, 60 Stat. 440; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949.)
+(July 5, 1946, ch. 540, title VI, §41, 60 Stat. 440; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
 #### Prior Provisions
 
@@ -10,7 +10,13 @@ Act Feb. 20, 1905, ch. 592, §26, 33 Stat. 730.
 
 #### Amendments
 
+1999—Pub. L. 106–113 substituted “Director” for “Commissioner”.
+
 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1975 Amendment
 

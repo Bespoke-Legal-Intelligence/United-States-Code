@@ -38,7 +38,7 @@ Level I of the Executive Schedule applies to the following positions for which t
 
 &emsp;Director of National Drug Control Policy.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, §10(d)(1), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, §6(c)(12), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–618, title I, §141(b)(3)(A), Jan. 3, 1975, 88 Stat. 1999; Pub. L. 94–82, title II, §202(b)(1), Aug. 9, 1975, 89 Stat. 419; Pub. L. 95–91, title VII, §710(c), Aug. 4, 1977, 91 Stat. 609; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–88, title V, §508(c), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 97–456, §3(d)(1), (5), Jan. 12, 1983, 96 Stat. 2505; Pub. L. 99–198, title XI, §1113(d), Dec. 23, 1985, 99 Stat. 1480; Pub. L. 99–260, §4(c), Mar. 20, 1986, 100 Stat. 49; Pub. L. 100–527, §13(c), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–679, §11(a),Nov. 17, 1988, 102 Stat. 4070; Pub. L. 100–690, title I, §1003(a)(4)(A), Nov. 18, 1988, 102 Stat. 4182; Pub. L. 103–296, title I, §108(e)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 105–277, div. C, title VII, §713(a)(1), Oct. 21, 1998, 112 Stat. 2681–693.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, §10(d)(1), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, §6(c)(12), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–618, title I, §141(b)(3)(A), Jan. 3, 1975, 88 Stat. 1999; Pub. L. 94–82, title II, §202(b)(1), Aug. 9, 1975, 89 Stat. 419; Pub. L. 95–91, title VII, §710(c), Aug. 4, 1977, 91 Stat. 609; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–88, title V, §508(c), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 97–456, §3(d)(1), (5), Jan. 12, 1983, 96 Stat. 2505; Pub. L. 99–198, title XI, §1113(d), Dec. 23, 1985, 99 Stat. 1480; Pub. L. 99–260, §4(c), Mar. 20, 1986, 100 Stat. 49; Pub. L. 100–527, §13(c), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–679, §11(a), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 100–690, title I, §1003(a)(4)(A), Nov. 18, 1988, 102 Stat. 4182; Pub. L. 103–296, title I, §108(e)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 105–277, div. C, title VII, §713(a)(1), Oct. 21, 1998, 112 Stat. 2681–693.)
 
 Historical and Revision Notes
 
@@ -122,7 +122,9 @@ Section 201 of title II of Pub. L. 94–82 provided that: “This title \[enacti
 
 #### Salary Increases
 
-1999—Salaries of positions at level I continued at $151,800 per annum by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of this title.
+2000—Salaries of positions at level I increased to $157,000 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2000, as provided by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, set out as a note under section 5332 of this title.
+
+1999—Salaries of positions at level I continued at $151,800 per annum by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151.
 
 1998—Salaries of positions at level I increased to $151,800 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1998, as provided by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521.
 
@@ -178,7 +180,7 @@ Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated 
 
 1976—Salaries of positions at level I increased to $66,000 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1976, see Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43889. Ex. Ord. No. 11941, further provided that pursuant to the Legislative Branch Appropriation Act, 1977, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1976, which was $63,000.
 
-1975—Salaries of positions at level I increased to $63,000 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1975, by Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091.
+1975—Salaries of positions at level I increased to $63,000 per annum, effective on the first day of the firstpay period beginning on or after Oct. 1, 1975, by Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091.
 
 1969—Salaries of positions at level I increased from $35,000 to $60,000 per annum, commencing on the first day of the pay period which begins after February 14, 1969, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
@@ -192,7 +194,7 @@ Pub. L. 96–241, §1, May 3, 1980, 94 Stat. 343, limited the compensation and o
 
 #### Compensation and Emoluments of Attorney General; Fixing at Level in Effect on January 1, 1969
 
-Provisions of Pub. L. 93–178, §1, Dec. 10, 1973, 87 Stat. 697, which fixed the compensation and other emoluments attached to the Office of Attorney General at level in effect on Jan. 1, 1969, notwithstanding any other provision of law enacted or becoming effective during period from noon, Jan. 3, 1969, through noon,Jan. 2, 1975, were repealed by Pub. L. 94–2, Feb. 18, 1975, 89 Stat. 4, effective as of Feb. 4, 1975.
+Provisions of Pub. L. 93–178, §1, Dec. 10, 1973, 87 Stat. 697, which fixed the compensation and other emoluments attached to the Office of Attorney General at level in effect on Jan. 1, 1969, notwithstanding any other provision of law enacted or becoming effective during period from noon, Jan. 3, 1969, through noon, Jan. 2, 1975, were repealed by Pub. L. 94–2, Feb. 18, 1975, 89 Stat. 4, effective as of Feb. 4, 1975.
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 ### §80b–16. Annual reports of Commission
 
-The Commission shall submit annually a report to the Congress covering the work of theCommission for the preceding year and including such information, data, and recommendations for further legislation in connection with the matters covered by this subchapter as it may find advisable.
+The Commission shall submit annually a report to the Congress covering the work of the Commission for the preceding year and including such information, data, and recommendations for further legislation in connection with the matters covered by this subchapter as it may find advisable.
 
 (Aug. 22, 1940, ch. 686, title II, §216, 54 Stat. 857.)
 

@@ -10,7 +10,7 @@
 
 &emsp;(C) is suitable for adoption and uninterrupted use by the Republic of Panama after the Canal Transfer Date.
 
-(2) The Regulation shall contain provisions regarding the establishment of the Panama CanalBoard of Contract Appeals described in section 3862 of this title.
+(2) The Regulation shall contain provisions regarding the establishment of the Panama Canal Board of Contract Appeals described in section 3862 of this title.
 
 #### (b) Supplement to Regulation
 

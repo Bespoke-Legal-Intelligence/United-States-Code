@@ -30,7 +30,7 @@
 
 (2) A decision to terminate an investigation under subchapter II may not be considered in any action or other proceeding under this section.
 
-(3) If, based on evidence presented to it under this section, the Merit Systems Protection Board determines that there is reason to believe that a current employee may have committed a prohibited personnel practice, the Board shall refer the matter to the Special Counsel to investigate and take appropriate action under section 1215.
+(3) If, based on evidence presented to it under this section, the Merit Systems Protection Board determines that there is reason to believe that a current employee may have committed aprohibited personnel practice, the Board shall refer the matter to the Special Counsel to investigate and take appropriate action under section 1215.
 
 (g)(1)(A) If the Board orders corrective action under this section, such corrective action may include—
 

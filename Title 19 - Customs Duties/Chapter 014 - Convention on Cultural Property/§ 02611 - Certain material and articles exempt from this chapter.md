@@ -4,7 +4,7 @@ The provisions of this chapter shall not apply to—
 
 &emsp;(1) any archaeological or ethnological material or any article of cultural property which is imported into the United States for temporary exhibition or display if such material or article is immune from seizure under judicial process pursuant to section 2459 of title 22; or
 
-&emsp;(2) any designated archaeological or ethnological material or any article of cultural property imported into the United States if such material or article—
+&emsp;(2) any designated archaeological or ethnological material or any article of culturalproperty imported into the United States if such material or article—
 
 &emsp;&emsp;(A) has been held in the United States for a period of not less than three consecutive years by a recognized museum or religious or secular monument or similar institution, and was purchased by that institution for value, in good faith, and without notice that such material or article was imported in violation of this chapter, but only if—
 

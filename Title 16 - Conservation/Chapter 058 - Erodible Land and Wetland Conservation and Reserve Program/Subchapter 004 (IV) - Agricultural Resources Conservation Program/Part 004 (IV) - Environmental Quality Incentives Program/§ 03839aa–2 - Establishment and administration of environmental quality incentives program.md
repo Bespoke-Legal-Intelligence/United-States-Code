@@ -52,7 +52,7 @@ The Secretary shall establish an application and evaluation process for awarding
 
 #### (B) Limitation
 
-&emsp;&emsp;A producer who owns or operates a large confined livestock operation (as defined bythe Secretary) shall not be eligible for cost-share payments to construct an animal waste management facility.
+&emsp;&emsp;A producer who owns or operates a large confined livestock operation (as defined by the Secretary) shall not be eligible for cost-share payments to construct an animal waste management facility.
 
 #### (C) Other payments
 

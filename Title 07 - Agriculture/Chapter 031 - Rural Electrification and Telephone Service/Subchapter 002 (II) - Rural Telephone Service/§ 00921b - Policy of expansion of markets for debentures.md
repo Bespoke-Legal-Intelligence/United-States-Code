@@ -1,6 +1,6 @@
 ### §921b. Policy of expansion of markets for debentures
 
-It is hereby declared to be the policy of the Congress that the Rural Telephone Bank should have the capability of obtaining adequate funds for its supplementary financing program at the lowest possible costs. In order to effectuate this policy, it will be necessary to expand the market for debentures to be issued by the Telephone Bank.
+It is hereby declared to be the policy of the Congress that the Rural Telephone Bank shouldhave the capability of obtaining adequate funds for its supplementary financing program at the lowest possible costs. In order to effectuate this policy, it will be necessary to expand the market for debentures to be issued by the Telephone Bank.
 
 (Pub. L. 92–324, §1, June 30, 1972, 86 Stat. 390.)
 

@@ -56,7 +56,7 @@ Subsec. (d). Pub. L. 93–350, §1(2), added subsec. (d).
 
 #### Effective Date of 1988 Amendment
 
-Section 103(f) of Pub. L. 100–238 provided that: “This section, and the amendments made by this section \[amending this section and sections 8401 and 8704 of this title and enacting provisions set out as a note under section 8334 of this title\], shall be effective as of January 1, 1987.”
+Section 103(f) of Pub. L. 100–238 provided that: “This section, and the amendments made by this section\[amending this section and sections 8401 and 8704 of this title and enacting provisions set out as a note under section 8334 of this title\], shall be effective as of January 1, 1987.”
 
 #### Effective Date of 1980 Amendment
 

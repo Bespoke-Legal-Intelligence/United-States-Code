@@ -26,7 +26,7 @@ The Congress finds that—
 
 &emsp;The Bank shall establish a tied aid credit program under which grants shall be made from funds available in the Tied Aid Credit Fund established under subsection (c) of this section—
 
-&emsp;&emsp;(A) to supplement the financing of a United States export when there is a reasonable expectation that predatory financing will be provided by another country for a sale by a competitor of the United States exporter with respect to such export and with special attention to matching tied aid and partially untied aid credits extended by other governments—
+&emsp;&emsp;(A) to supplement the financing of a United States export when there is a reasonable expectation that predatory financing will be provided by another country for asale by a competitor of the United States exporter with respect to such export and with special attention to matching tied aid and partially untied aid credits extended by other governments—
 
 &emsp;&emsp;&emsp;(i) in violation of the Arrangement; or
 
@@ -46,7 +46,7 @@ The Congress finds that—
 
 &emsp;&emsp;(A) in consultation with the Secretary and in accordance with the Secretary's recommendations on how such credits could be used most effectively and efficiently to carry out the purposes described in subsection (a)(5) of this section;
 
-&emsp;&emsp;(B) in cooperation with United States exporters and private financial institutions orentities, and in consultation with other Federal agencies, as appropriate; and
+&emsp;&emsp;(B) in cooperation with United States exporters and private financial institutions or entities, and in consultation with other Federal agencies, as appropriate; and
 
 &emsp;&emsp;(C) in consultation with the National Advisory Council on International Monetary and Financial Policies.
 
@@ -210,7 +210,7 @@ Contents of report.—Each report required by paragraph (1) shall contain a desc
 
 &emsp;“(E) the progress achieved by negotiations conducted to carry out the purposes described in subsection (a)(5) of this section.”
 
-Subsec. (h). Pub. L. 102–429, §103(c)(8), substituted “For purposes of this section, the following definitionsshall apply:” for “For the purpose of this section—” in introductory provisions and added par. (6).
+Subsec. (h). Pub. L. 102–429, §103(c)(8), substituted “For purposes of this section, the following definitions shall apply:” for “For the purpose of this section—” in introductory provisions and added par. (6).
 
 1990—Subsec. (c)(2). Pub. L. 101–513, §562(d)(2), substituted “1992” for “1991”.
 

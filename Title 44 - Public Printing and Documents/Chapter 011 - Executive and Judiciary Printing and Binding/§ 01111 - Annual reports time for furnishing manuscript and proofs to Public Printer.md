@@ -10,9 +10,9 @@ The appropriations made for printing and binding may not be used for an annual r
 
 Annual reports and accompanying documents shall be printed, made public, and available for distribution not later than within the first five days after the assembling of each regular session of Congress.
 
-This section does not apply to the annual reports of the Smithsonian Institution, the Commissioner of Patents, the Comptroller of the Currency, or the Secretary of the Treasury.
+This section does not apply to the annual reports of the Smithsonian Institution, the Comptroller of the Currency, or the Secretary of the Treasury.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1263; Pub. L. 94–273, §28, Apr. 21, 1976, 90 Stat. 380.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1263; Pub. L. 94–273, §28, Apr. 21, 1976, 90 Stat. 380; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(22)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–585.)
 
 #### Historical and Revision Notes
 
@@ -20,13 +20,15 @@ Based on 44 U.S. Code, 1964 ed., Supp. II, §121 (July 1, 1916, ch. 209, §3, 39
 
 #### Amendments
 
+1999—Pub. L. 106–113 struck out “the Commissioner of Patents,” after “Smithsonian Institution,” in last par.
+
 1976—Pub. L. 94–273 substituted “February” for “November” and “March” for “December” wherever appearing.
 
-#### Change of Name
+#### Effective Date of 1999 Amendment
 
-“Commissioner of Patents” redesignated “Commissioner of Patents and Trademarks” by section 3 of Pub. L. 93–596, Jan. 2, 1975, 88 Stat. 1949, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 

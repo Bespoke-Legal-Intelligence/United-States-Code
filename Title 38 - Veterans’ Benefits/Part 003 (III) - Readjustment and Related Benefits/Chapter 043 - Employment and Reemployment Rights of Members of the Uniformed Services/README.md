@@ -94,7 +94,7 @@ Chapter 43 was amended generally by Pub. L. 103–353, effective with respect to
 
 #### References in Text
 
-The Military Selective Service Act, referred to in subsec. (a), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. Section 9(a) of such Act is classified to section 459(a) of Title 50, Appendix. For complete classification of this Act to the Code, see note set out under section 451 of Title 50, Appendix, and Tables.
+The Military Selective Service Act, referred to in subsec. (a), is act June 24, 1948, ch. 625, 62 Stat. 604, asamended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. Section 9(a) of such Act is classified to section 459(a) of Title 50, Appendix. For complete classification of this Act to the Code, see note set out under section 451 of Title 50, Appendix, and Tables.
 
 #### §4302. Enforcement procedures
 
@@ -134,7 +134,7 @@ If any employer, who is a private employer or a State or political subdivision t
 
 (f) For the purposes of subsections (c) and (d) of this section, full-time training or other full-time duty performed by a member of the National Guard under section 316, 502, 503, 504, or 505 of title 32 is considered active duty for training. For the purposes of subsection (d) of this section, inactive duty training performed by that member under section 502 of title 32 or section 206, 301, 309, 402, or 1002 of title 37 is considered inactive duty training.
 
-(g) Any member of a Reserve component of the Armed Forces of the United States who is ordered to active duty (other than for training) under section 673b of title 10, United States Code, whether or not voluntarily, shall be entitled to all reemployment rights and benefits provided under subsection (c) of this section for persons ordered to an initial period of active duty for training of not less than twelve consecutive weeks; and shall have the service limitation governing eligibility for reemployment rights under subsections (a) and (b)(1) of this section extended by the period of such active duty, including any period of extension of active duty under section 673b of title 10.
+(g) Any member of a Reserve component of the Armed Forces of the United States who is ordered to active duty (other than for training) under section 673bof title 10, United States Code, whether or not voluntarily, shall be entitled to all reemployment rights and benefits provided under subsection (c) of this section for persons ordered to an initial period of active duty for training of not less than twelve consecutive weeks; and shall have the service limitation governing eligibility for reemployment rights under subsections (a) and (b)(1) of this section extended by the period of such active duty, including any period of extension of active duty under section 673b of title 10.
 
 > (Added Pub. L. 93–508, title IV, §404(a), Dec. 3, 1974, 88 Stat. 1598, §2024; amended Pub. L. 94–286, §2, May 14, 1976, 90 Stat. 518; Pub. L. 94–502, title VI, §608(3), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 96–466, title V, §511, Oct. 17, 1980, 94 Stat. 2207; Pub. L. 99–576, title VII, §701(60), Oct. 28, 1986, 100 Stat. 3296; Pub. L. 102–12, §8(a)(1), (b)(1), Mar. 18, 1991, 105 Stat. 38; renumbered §4304 and amended Pub. L. 102–568, title V, §506(a), (c)(3), Oct. 29, 1992, 106 Stat. 4340, 4341.)
 

@@ -6,7 +6,7 @@ Retirement Based on Years of Service.—A bankruptcy judge or magistrate to whom
 
 (b)
 
-Retirement Upon Failure of Reappointment.—A bankruptcy judge or magistrate to whom this section applies, who is not reappointed following the expiration of the term ofoffice of such judge or magistrate, and who retires upon the completion of the term shall, subject to subsection (f), be entitled to receive, upon attaining the age of 65 years and during the remainder of such bankruptcy judge's or magistrate's lifetime, an annuity equal to that portion of the salary being received at the time the judge or magistrate leaves office which the aggregate number of years of service, not to exceed 14, bears to 14, if—
+Retirement Upon Failure of Reappointment.—A bankruptcy judge or magistrate to whom this section applies, who is not reappointed following the expiration of the term of office of such judge or magistrate, and who retires upon the completion of the term shall, subject to subsection (f), be entitled to receive, upon attaining the age of 65 years and during the remainder of such bankruptcy judge's or magistrate's lifetime, an annuity equal to that portion of the salary being received at the time the judge or magistrate leaves office which the aggregate number of years of service, not to exceed 14, bears to 14, if—
 
 &emsp;(1) such judge or magistrate has served at least 1 full term as a bankruptcy judge or magistrate, and
 
@@ -132,7 +132,7 @@ Recall not permitted.—Any bankruptcy judge or magistrate who retires under thi
 
 &emsp;(3)
 
-Accepting other employment.—Any bankruptcy judge or magistrate who retires under this section and thereafter accepts compensation for civil office or employment under the United States Government (other than for the performance of functions as a bankruptcy judge or magistrate under section 155(b), 375, or 636(h) of this title) shall forfeit all rights toan annuity under this section for the period for which such compensation is received. For purposes of this paragraph, the term “compensation” includes retired pay or salary received in retired status.
+Accepting other employment.—Any bankruptcy judge or magistrate who retires under this section and thereafter accepts compensation for civil office or employment under the United States Government (other than for the performance of functions as a bankruptcy judge or magistrate under section 155(b), 375, or 636(h) of this title) shall forfeit all rights to an annuity under this section for the period for which such compensation is received. For purposes of this paragraph, the term “compensation” includes retired pay or salary received in retired status.
 
 (n)
 
@@ -264,7 +264,7 @@ Section 2(c) of Pub. L. 100–659 provided that:
 
 Retirement annuity under title 5 and section 377 of title 28.—A bankruptcy judge or United States magistrate \[now United States magistrate judge\] in active service on the effective date of this Act \[see Effective Date note above\] shall, subject to paragraph (2), be entitled, in lieu of the annuity otherwise provided under the amendments made by this section \[enacting this section\] to—
 
-&emsp;“(A) an annuity under subchapter III of chapter 83, or under chapter 84, of title 5, United States Code, as the case may be, for creditable service before the date on which service would begin to be credited for purposes of subparagraph (B), and
+&emsp;“(A) an annuity under subchapter III of chapter 83, or under chapter 84, of title 5, United States Code, asthe case may be, for creditable service before the date on which service would begin to be credited for purposes of subparagraph (B), and
 
 &emsp;“(B) an annuity calculated under subsection (b) or (c) and subsection (g) of section 377 of title 28, United States Code, as added by this section, for any service as a full-time bankruptcy judge or magistrate on or after October 1, 1979 (as specified in the election pursuant to paragraph (2)) for which deductions and deposits are made under subsections (j) and (k) of such section 377, as applicable, without regard to the minimum number of years of service as such a bankruptcy judge or magistrate, except that—
 
@@ -278,7 +278,7 @@ Filing of notice of election.—A bankruptcy judge or magistrate shall be entitl
 
 “(3)
 
-Lump-sum credit under title 5.—A bankruptcy judge or magistrate who makes an election under paragraph (2) shall be entitled to a lump-sum credit undersection 8342 or 8424 of title 5, United States Code, as the case may be, for any service which is covered under section 377 of title 28, United States Code, as added by this section, pursuant to that election, and with respect to which any contributions were made by the judge or magistrate under the applicable provisions of title 5, United States Code.
+Lump-sum credit under title 5.—A bankruptcy judge or magistrate who makes an election under paragraph (2) shall be entitled to a lump-sum credit under section 8342 or 8424 of title 5, United States Code, as the case may be, for any service which is covered under section 377 of title 28, United States Code, as added by this section, pursuant to that election, and with respect to which any contributions were made by the judge or magistrate under the applicable provisions of title 5, United States Code.
 
 “(4)
 

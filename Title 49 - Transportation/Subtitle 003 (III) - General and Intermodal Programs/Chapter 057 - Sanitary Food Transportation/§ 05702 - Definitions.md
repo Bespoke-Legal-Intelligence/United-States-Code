@@ -4,7 +4,7 @@ In this chapter—
 
 &emsp;(1) “cosmetic”, “device”, “drug”, “food”, and “food additive” have the same meanings given those terms in section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321).
 
-&emsp;(2) “nonfood product” means (individually or by class) a material, substance, or product that is not a cosmetic, device, drug, food, or food additive, or is deemed a nonfood product under section 5703(a)(2) of this title, including refuse and solid waste (as defined in section 1004 of the Solid Waste Disposal Act (42 U.S.C. 6903)).
+&emsp;(2) “nonfood product” means (individually or by class) a material, substance, or productthat is not a cosmetic, device, drug, food, or food additive, or is deemed a nonfood product under section 5703(a)(2) of this title, including refuse and solid waste (as defined in section 1004 of the Solid Waste Disposal Act (42 U.S.C. 6903)).
 
 &emsp;(3) “refuse” means discarded material that is, or is required by law, to be transported to or disposed of in a landfill or incinerator.
 

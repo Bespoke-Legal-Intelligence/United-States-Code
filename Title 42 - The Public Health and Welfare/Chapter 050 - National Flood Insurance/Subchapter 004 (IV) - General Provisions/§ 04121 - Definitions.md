@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(B) ancillary beneficial functions, including maintenance of water quality and recharge of ground water, that reduce flood related damage;
 
-&emsp;(13) the term “regulated lending institution” means any bank, savings and loan association, credit union, farm credit bank, Federal land bank association, production credit association, or similar institution subject to the supervision of a Federal entity for lending regulation; and
+&emsp;(13) the term “regulated lending institution” means any bank, savings and loan association,credit union, farm credit bank, Federal land bank association, production credit association, or similar institution subject to the supervision of a Federal entity for lending regulation; and
 
 &emsp;(14) the term “servicer” means the person responsible for receiving any scheduled periodic payments from a borrower pursuant to the terms of a loan, including amounts for taxes, insurance premiums, and other charges with respect to the property securing the loan, and making the payments of principal and interest and such other payments with respect to the amounts received from the borrower as may be required pursuant to the terms of the loan.
 
@@ -52,7 +52,7 @@ This chapter, referred to in text, is title XIII of Pub. L. 90–448, Aug. 1, 19
 
 1983—Subsec. (a)(1). Pub. L. 98–181, §451(d)(1), substituted “Director” for “Secretary”.
 
-Subsec. (a)(6). Pub. L. 98–181, §451(d)(8), substituted definition of “Director” as the Director of the FederalEmergency Management Agency for definition of “Secretary” as the Secretary of Housing and Urban Development.
+Subsec. (a)(6). Pub. L. 98–181, §451(d)(8), substituted definition of “Director” as the Director of the Federal Emergency Management Agency for definition of “Secretary” as the Secretary of Housing and Urban Development.
 
 Subsecs. (b), (c). Pub. L. 98–181, §451(d)(1), substituted “Director” for “Secretary”.
 

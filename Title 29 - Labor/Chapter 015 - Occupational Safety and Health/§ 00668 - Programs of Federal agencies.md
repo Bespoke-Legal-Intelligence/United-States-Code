@@ -42,5 +42,5 @@ Occupational safety and health programs for Federal employees and continuation o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 3 section 425; title 39 section 410; title 42 section 2297b–11.
+This section is referred to in title 3 section 425; title 39 section 410.
 

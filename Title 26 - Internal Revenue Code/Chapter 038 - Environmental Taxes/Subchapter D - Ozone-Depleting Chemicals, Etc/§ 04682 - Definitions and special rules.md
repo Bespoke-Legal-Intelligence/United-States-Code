@@ -97,7 +97,7 @@ Ozone-depleting chemical:
 
 &emsp;&emsp;CFC–112
 
-1\.0&nbsp;&nbsp;
+1\.0  
 
 &emsp;&emsp;CFC–211
 
@@ -185,7 +185,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;The aggregate tax benefit allowable under subparagraph (A) with respect to ozone-depleting chemicals manufactured, produced, or imported by any person during a calendar year shall not exceed the sum of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the amount equal to the 1986 export percentage of the aggregate tax which would (but for this subsection and subsection (g)) be imposed by this subchapter with respect to the maximum quantity of ozone-depleting chemicals permitted to be manufactured or produced by such person during such calendar year under regulations prescribedby the Environmental Protection Agency (other than chemicals with respect to which subclause (II) applies),
+&emsp;&emsp;&emsp;&emsp;(I) the amount equal to the 1986 export percentage of the aggregate tax which would (but for this subsection and subsection (g)) be imposed by this subchapter with respect to the maximum quantity of ozone-depleting chemicals permitted to be manufactured or produced by such person during such calendar year under regulations prescribed by the Environmental Protection Agency (other than chemicals with respect to which subclause (II) applies),
 
 &emsp;&emsp;&emsp;&emsp;(II) the aggregate tax which would (but for this subsection and subsection (g)) be imposed by this subchapter with respect to any additional production allowance granted to such person with respect to ozone-depleting chemicals manufactured or produced by such person during such calendar year by the Environmental Protection Agency under 40 CFR Part 82 (as in effect on September 14, 1989), and
 
@@ -271,7 +271,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;If, on any tax-increase date, any ozone-depleting chemical is held by any person\(other than the manufacturer, producer, or importer thereof) for sale or for use in further manufacture, there is hereby imposed a floor stocks tax.
+&emsp;&emsp;If, on any tax-increase date, any ozone-depleting chemical is held by any person (other than the manufacturer, producer, or importer thereof) for sale or for use in further manufacture, there is hereby imposed a floor stocks tax.
 
 #### (B) Amount of tax
 
@@ -293,7 +293,7 @@ For purposes of this subchapter—
 
 &emsp;All other provisions of law, including penalties, applicable with respect to the taxes imposed by section 4681 shall apply to the floor stocks taxes imposed by this subsection.
 
-(Added Pub. L. 101–239, title VII, §7506(a), Dec. 19, 1989, 103 Stat. 2365; amended Pub. L. 101–508, title XI, §§11203(a), (b), (d), 11701(g), Nov. 5, 1990, 104 Stat. 1388–421, 1388–422, 1388–508; Pub. L. 102–486, title XIX, §§1931(b), (c), 1932(a)–(c), Oct. 24, 1992, 106 Stat. 3029–3031; Pub. L. 104–188, title I, §1803(a)(1), (b), Aug. 20, 1996, 110 Stat. 1892, 1893; Pub. L. 105–34, title IX, §903(a), title XIV, §1432(c)(2), Aug. 5, 1997, 111 Stat. 873, 1051.)
+(Added Pub. L. 101–239, title VII, §7506(a), Dec. 19, 1989, 103 Stat. 2365; amended Pub. L. 101–508, title XI, §§11203(a), (b), (d), 11701(g), Nov. 5, 1990,104 Stat. 1388–421, 1388–422, 1388–508; Pub. L. 102–486, title XIX, §§1931(b), (c), 1932(a)–(c), Oct. 24, 1992, 106 Stat. 3029–3031; Pub. L. 104–188, title I, §1803(a)(1), (b), Aug. 20, 1996, 110 Stat. 1892, 1893; Pub. L. 105–34, title IX, §903(a), title XIV, §1432(c)(2), Aug. 5, 1997, 111 Stat. 873, 1051.)
 
 #### Prior Provisions
 
@@ -369,7 +369,7 @@ Section 1932(d) of Pub. L. 102–486 provided that: “The amendments made by th
 
 Amendment by section 11203(a), (b), and (d) of Pub. L. 101–508 effective Jan. 1, 1991, see section 11203(e) of Pub. L. 101–508, set out as a note under section 4681 of this title.
 
-Amendment by section 11701(g) of Pub. L. 101–508 effective, except as otherwise provided, as if included inthe provision of the Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
+Amendment by section 11701(g) of Pub. L. 101–508 effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
 #### Certification System
 

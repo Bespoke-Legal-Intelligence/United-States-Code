@@ -18,5 +18,5 @@ Notwithstanding any other provision of law, each public housing agency that ente
 
 &emsp;&emsp;(C) the request is made in the proper exercise of the officer's official duties.
 
-(Sept. 1, 1937, ch. 896, title I, §28, formerly §27, as added Pub. L. 104–193, title IX, §903(b), Aug. 22, 1996, 110 Stat. 2348; renumbered §28, Pub. L. 105–65, title V, §562(a)(1), Oct. 27, 1997, 111 Stat. 1416.)
+(Sept. 1, 1937, ch. 896, title I, §28, formerly §27, as added Pub. L. 104–193, title IX, §903(b), Aug. 22,1996, 110 Stat. 2348; renumbered §28, Pub. L. 105–65, title V, §562(a)(1), Oct. 27, 1997, 111 Stat. 1416.)
 

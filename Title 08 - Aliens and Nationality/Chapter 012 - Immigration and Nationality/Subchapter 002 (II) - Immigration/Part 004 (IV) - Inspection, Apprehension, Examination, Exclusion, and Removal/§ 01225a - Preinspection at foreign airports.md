@@ -22,7 +22,7 @@
 
 #### (4) Additional stations
 
-&emsp;Subject to paragraph (5), not later than October 31, 2000, the Attorney General, in consultation with the Secretary of State, shall establish preinspection stations in at least 5 additional foreign airports which the Attorney General, in consultation with the Secretary of State, determines, based on the data compiled under paragraph (3) and such other information as may be available, would most effectively reduce the number of aliens who arrive from abroad by air at points of entry withinthe United States who are inadmissible to the United States. Such preinspection stations shall be in addition to those established prior to September 30, 1996, or pursuant to paragraph (1).
+&emsp;Subject to paragraph (5), not later than October 31, 2000, the Attorney General, in consultation with the Secretary of State, shall establish preinspection stations in at least 5 additional foreign airports which the Attorney General, in consultation with the Secretary of State, determines, based on the data compiled under paragraph (3) and such other information as may be available, would most effectively reduce the number of aliens who arrive from abroad by air at points of entry within the United States who are inadmissible to the United States. Such preinspection stations shall be in addition to those established prior to September 30, 1996, or pursuant to paragraph (1).
 
 #### (5) Conditions
 

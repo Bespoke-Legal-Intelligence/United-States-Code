@@ -30,7 +30,7 @@ Definition.—In this section, “contraband” means—
 
 &emsp;(5) a cigarette involved in a violation of chapter 114 of title 18 or a regulation prescribed under chapter 114; or
 
-&emsp;(6)(A) a counterfeit label for a phonorecord, copy of a computer program or computer program documentation or packaging, or copy of a motion picture or other audiovisual work (as defined in section 2318 of title 18);
+&emsp;(6)(A) a counterfeit label for a phonorecord, copy of a computer program or computer program documentation or packaging, or copy ofa motion picture or other audiovisual work (as defined in section 2318 of title 18);
 
 &emsp;(B) a phonorecord or copy in violation of section 2319 of title 18;
 
@@ -124,7 +124,7 @@ In subsection (a)(2), the words “involved in a violation” are substituted fo
 
 In subsection (a)(3), before subclause (A), the words “falsely made” are omitted as being included in “counterfeit”. In subclause (B), the words “coin, obligation, or other security” are added for clarity.
 
-In subsection (a)(4), the words “equipment used” are substituted for “apparatus, or paraphernalia fitted . . .which shall have been used” to eliminate unnecessary words. The words “coin, obligation, or other security referred to in clause (3) of this subsection” are substituted for “such falsely made, forged, altered, or counterfeit coin or obligation or other security” because of the restatement.
+In subsection (a)(4), the words “equipment used” are substituted for “apparatus, or paraphernalia fitted . . . which shall have been used” to eliminate unnecessary words. The words “coin, obligation, or other security referred to in clause (3) of this subsection” are substituted for “such falsely made, forged, altered, or counterfeit coin or obligation or other security” because of the restatement.
 
 In subsection (a)(5), the text of 49 App.:787(g) is omitted as unnecessary because the term “cigarettes” does not appear in 49 App.: ch. 11 and because the definition of “contraband cigarettes” referred to is part of 18:ch. 114.
 

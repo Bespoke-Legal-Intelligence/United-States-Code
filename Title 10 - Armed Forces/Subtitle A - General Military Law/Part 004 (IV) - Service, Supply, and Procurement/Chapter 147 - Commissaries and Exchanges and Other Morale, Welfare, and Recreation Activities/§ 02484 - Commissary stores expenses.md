@@ -1,6 +1,6 @@
 ### §2484. Commissary stores: expenses
 
-(a) Except to the extent authorized in regulations prescribed by the Secretary of a military department and approved by the Secretary ofDefense and except as provided in subsection (b), funds available to the Department of Defense may not be used to pay, in connection with the operation of any commissary store—
+(a) Except to the extent authorized in regulations prescribed by the Secretary of a military department and approved by the Secretary of Defense and except as provided in subsection (b), funds available to the Department of Defense may not be used to pay, in connection with the operation of any commissary store—
 
 &emsp;(1) the cost of purchases (including commercial transportation in the United States to the place of sale) and the cost of maintenance of operating equipment and supplies;
 

@@ -54,7 +54,7 @@ By virtue of the authority vested in me by the Peace Corps Act, as amended (22 U
 
 Peace Corps
 
-1–101. The Peace Corps, which was established as an agency in the Department of State pursuant to Executive Order No. 10924 of March 1, 1961 (26 FR 1789) \[formerly set out under this section\], which was continued in existence in that Department under the Peace Corps Act (the “Act”) \[this chapter\] pursuant to Section 102 of Executive Order No. 11041 of August 6, 1962 (27 FR 7859) \[formerly set out under this section\], and which was transferred to and continued as a component of ACTION \[now Corporation for National and CommunityService\] by Executive Order No. 11603 of June 30, 1971 (36 FR 12675) \[formerly set out under this section\], shall be an agency within ACTION pursuant to the provisions of this Order.
+1–101. The Peace Corps, which was established as an agency in the Department of State pursuant to Executive Order No. 10924 of March 1, 1961 (26 FR 1789) \[formerly set out under this section\], which was continued in existence in that Department under the Peace Corps Act (the “Act”) \[this chapter\] pursuant to Section 102 of Executive Order No. 11041 of August 6, 1962 (27 FR 7859) \[formerly set out under this section\], and which was transferred to and continued as a component of ACTION \[now Corporation for National and Community Service\] by Executive Order No. 11603 of June 30, 1971 (36 FR 12675) \[formerly set out under this section\], shall be an agency within ACTION pursuant to the provisions of this Order.
 
 1–102. All references to the “Director” in Part 1–1 of this Order shall refer to the Director of the Peace Corps for whom provision is made in Section 4(a) of the Act (22 U.S.C. 2503).
 
@@ -114,7 +114,7 @@ Incidental Provisions
 
 National Voluntary Action Program
 
-1–501. The National Voluntary Action Program to encourage and stimulate more widespread and effective voluntary action for solving public domestic problems, established in the Executive Branch of the Government by Section 1 of Executive Order No. 11470 of May 26, 1969 \[formerly set out as a note under section 2701 of Title 42, the Public Health and Welfare\], is continued in ACTION. That program shall supplement corresponding action by private and other non-Federal organizations such as the National Center for Voluntary Action. As used in this Order, the term “voluntary action” means the contribution or application of non-governmental resources of all kinds (time, money, goods, services, and skills) by private and other organizations of all types (profit and nonprofit, national and local, occupational, and altruistic) and by individual citizens.
+1–501. The National Voluntary Action Program to encourage and stimulate more widespread and effectivevoluntary action for solving public domestic problems, established in the Executive Branch of the Government by Section 1 of Executive Order No. 11470 of May 26, 1969 \[formerly set out as a note under section 2701 of Title 42, the Public Health and Welfare\], is continued in ACTION. That program shall supplement corresponding action by private and other non-Federal organizations such as the National Center for Voluntary Action. As used in this Order, the term “voluntary action” means the contribution or application of non-governmental resources of all kinds (time, money, goods, services, and skills) by private and other organizations of all types (profit and nonprofit, national and local, occupational, and altruistic) and by individual citizens.
 
 #### 1–6.
 
@@ -130,7 +130,7 @@ Director of ACTION
 
 (d) Make grants of seed money, as authorized by law, for stimulating the development or deployment of innovative voluntary action programs directed toward community problems.
 
-1–602. The head of each Federal department and agency, or a designated representative, when so requestedby the Director of ACTION or the Director of the Peace Corps, shall, to the extent permitted by law and funds available, furnish information and assistance, and participate in all ways appropriate to carry out the objectives of this Order, the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4951 et seq.\] and Reorganization Plan No. 1 of 1971 \[5 U.S.C. App.\].
+1–602. The head of each Federal department and agency, or a designated representative, when so requested by the Director of ACTION or the Director of the Peace Corps, shall, to the extent permitted by law and funds available, furnish information and assistance, and participate in all ways appropriate to carry out the objectives of this Order, the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4951 et seq.\] and Reorganization Plan No. 1 of 1971 \[5 U.S.C. App.\].
 
 1–603. The head of each Federal department or agency shall, when so requested by the Director of ACTION, designate a senior official to have primary and continuing responsibility for the participation and cooperation of that department or agency in matters concerning voluntary action.
 

@@ -14,7 +14,7 @@ Subject to subsection (c) of this section, projects for the protection, restorat
 
 #### (c) Cooperative agreement
 
-Any project undertaken pursuant to this section shall be initiated only after non-Federal interests have entered into a cooperative agreement in accordance with the requirements of section 1962d–5b of title 42 in which the non-Federal interests agree to—
+Any project undertaken pursuant to this section shall be initiated only after non-Federal interests have entered into a binding agreement with the Secretary in which the non-Federal interests agree to—
 
 &emsp;(1) provide 25 percent of the cost associated with construction of the project for the protection, restoration, and creation of aquatic and ecologically related habitats, including provision of all lands, easements, rights-of-way, and necessary relocations; and
 
@@ -32,13 +32,21 @@ In developing and carrying out a project for navigation involving the disposal o
 
 There is authorized to be appropriated not to exceed $15,000,000 annually to carry out this section. Such sums shall remain available until expended.
 
-(Pub. L. 102–580, title II, §204, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, §207, Oct. 12, 1996, 110 Stat. 3680.)
+#### (g) Nonprofit entities
+
+Notwithstanding section 1962d–5b of title 42, for any project carried out under this section, a non-Federal interest may include a nonprofit entity, with the consent of the affected local government.
+
+(Pub. L. 102–580, title II, §204, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, §207, Oct. 12, 1996, 110 Stat. 3680; Pub. L. 106–53, title II, §209, Aug. 17, 1999, 113 Stat. 287.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1992, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+1999—Subsec. (c). Pub. L. 106–53, §209(1), in introductory provisions, substituted “binding agreement with the Secretary” for “cooperative agreement in accordance with the requirements of section 1962d–5b of title 42”.
+
+Subsec. (g). Pub. L. 106–53, §209(2), added subsec. (g).
 
 1996—Subsecs. (e), (f). Pub. L. 104–303 added subsec. (e) and redesignated former subsec. (e) as (f).
 

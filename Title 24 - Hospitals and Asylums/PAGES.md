@@ -1,6 +1,6 @@
 # Printed pages - Title 24 - Hospitals and Asylums
 
-GPO's 1998 edition (laws in effect as of 1999-01-05), from its printed page marks. The exact position of
+GPO's 1999 edition (laws in effect as of 2000-01-23), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title24.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -183,7 +183,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00420 - Disposition of effects of deceased persons; unclaimed property](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000420%20-%20Disposition%20of%20effects%20of%20deceased%20persons%3B%20unclaimed%20property.md) | 38–40 |
 | [&sect; 00421 - Payment of residents for services](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000421%20-%20Payment%20of%20residents%20for%20services.md) | 40 |
 | [&sect; 00422 - Authority to accept certain uncompensated services](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000422%20-%20Authority%20to%20accept%20certain%20uncompensated%20services.md) | 40–41 |
+| [&sect; 00423 - Preservation of historic buildings and grounds at United States Soldiers&#8217; and Airmen's Home](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000423%20-%20Preservation%20of%20historic%20buildings%20and%20grounds%20at%20United%20States%20Soldiers%E2%80%99%20and%20Airmen%27s%20Home.md) | 41 |
 | [Subchapter 002 (II) - Transitional Provisions](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20002%20%28II%29%20-%20Transitional%20Provisions/README.md) | 41 |
 | [&sect; 00431 - Transfer of trust funds relating to Naval Home and Soldiers&#8217; and Airmen's Home](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20002%20%28II%29%20-%20Transitional%20Provisions/%C2%A7%2000431%20-%20Transfer%20of%20trust%20funds%20relating%20to%20Naval%20Home%20and%20Soldiers%E2%80%99%20and%20Airmen%27s%20Home.md) | 41 |
 | [Subchapter 003 (III) - Authorization of Appropriations](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20003%20%28III%29%20-%20Authorization%20of%20Appropriations/README.md) | 41 |
-| [&sect; 00441 - Authorization of appropriations for United States Soldiers&#8217; and Airmen's Home](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20003%20%28III%29%20-%20Authorization%20of%20Appropriations/%C2%A7%2000441%20-%20Authorization%20of%20appropriations%20for%20United%20States%20Soldiers%E2%80%99%20and%20Airmen%27s%20Home.md) | 41 |
+| [&sect; 00441 - Authorization of appropriations for United States Soldiers&#8217; and Airmen's Home](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20003%20%28III%29%20-%20Authorization%20of%20Appropriations/%C2%A7%2000441%20-%20Authorization%20of%20appropriations%20for%20United%20States%20Soldiers%E2%80%99%20and%20Airmen%27s%20Home.md) | 41–42 |

@@ -10,15 +10,15 @@ Transfer of Property Right.—The property right in a registered design, or a de
 
 (c)
 
-Oath or Acknowledgement of Transfer.—An oath or acknowledgment under section 1312 shall be prima facie evidence of the execution of an assignment, grant, conveyance, or mortgage under subsection (b).
+Oath or Acknowledgment of Transfer.—An oath or acknowledgment under section 1312 shall be prima facie evidence of the execution of an assignment, grant, conveyance, or mortgage under subsection (b).
 
 (d)
 
 Recordation of Transfer.—An assignment, grant, conveyance, or mortgage under subsection (b) shall be void as against any subsequent purchaser or mortgagee for a valuable consideration, unless it is recorded in the Office of the Administrator within 3 months after its date of execution or before the date of such subsequent purchase or mortgage.
 
-(Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2913.)
+(Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2913; amended Pub. L. 106–44, §1(f)(2), Aug. 5, 1999, 113 Stat. 222.)
 
-#### Termination of Section
+#### Amendments
 
-<i>For termination of section by section 505 of Pub. L. 105–304, see Effective and Termination Dates note set out under section 1301 of this title.</i>
+1999—Subsec. (c). Pub. L. 106–44 substituted “Acknowledgment” for “Acknowledgement” in heading.
 

@@ -12,7 +12,7 @@ It is the purpose of this chapter to effectuate the policies set forth above by 
 
 &emsp;(e) a program of international cooperation to promote the common defense and security and to make available to cooperating nations the benefits of peaceful applications of atomic energy as widely as expanding technology and considerations of the common defense and security will permit; and
 
-&emsp;(f) a program of administration which will be consistent with the foregoing policies and programs, with international arrangements, and with agreements for cooperation, whichwill enable the Congress to be currently informed so as to take further legislative action as may be appropriate.
+&emsp;(f) a program of administration which will be consistent with the foregoing policies and programs, with international arrangements, and with agreements for cooperation, which will enable the Congress to be currently informed so as to take further legislative action as may be appropriate.
 
 (Aug. 1, 1946, ch. 724, title I, §3, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 922; amended Pub. L. 88–489, §3, Aug. 26, 1964, 78 Stat. 602; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 

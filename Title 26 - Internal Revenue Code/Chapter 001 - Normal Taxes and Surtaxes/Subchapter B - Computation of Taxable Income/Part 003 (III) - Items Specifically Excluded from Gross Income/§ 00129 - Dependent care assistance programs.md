@@ -50,7 +50,7 @@ No amount paid or incurred during the taxable year of an employee by an employer
 
 #### (1) In general
 
-&emsp;For purposes of this section a dependent care assistance program is a separate writtenplan of an employer for the exclusive benefit of his employees to provide such employees with dependent care assistance which meets the requirements of paragraphs (2) through (8) of this subsection. If any plan would qualify as a dependent care assistance program but for a failure to meet the requirements of this subsection, then, notwithstanding such failure, such plan shall be treated as a dependent care assistance program in the case of employees who are not highly compensated employees.
+&emsp;For purposes of this section a dependent care assistance program is a separate written plan of an employer for the exclusive benefit of his employees to provide such employees with dependent care assistance which meets the requirements of paragraphs (2) through (8) of this subsection. If any plan would qualify as a dependent care assistance program but for a failure to meet the requirements of this subsection, then, notwithstanding such failure, such plan shall be treated as a dependent care assistance program in the case of employees who are not highly compensated employees.
 
 #### (2) Discrimination
 
@@ -126,7 +126,7 @@ For purposes of this section—
 
 #### (6) Utilization test not applicable
 
-&emsp;A dependent care assistance program shall not be held or considered to fail to meet anyrequirements of subsection (d) (other than paragraphs (4) and (8) thereof) merely because of utilization rates for the different types of assistance made available under the program.
+&emsp;A dependent care assistance program shall not be held or considered to fail to meet any requirements of subsection (d) (other than paragraphs (4) and (8) thereof) merely because of utilization rates for the different types of assistance made available under the program.
 
 #### (7) Disallowance of excluded amounts as credit or deduction
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (9) Identifying information required with respect to service provider
 
-&emsp;No amount paid or incurred by an employer for dependent care assistance provided to an employee shall be excluded from the gross income of such employee unless—
+&emsp;No amount paid or incurred by an employer for dependent care assistance provided to anemployee shall be excluded from the gross income of such employee unless—
 
 &emsp;&emsp;(A) the name, address, and taxpayer identification number of the person performing the services are included on the return to which the exclusion relates, or
 
@@ -284,7 +284,7 @@ Section 3021(d) of Pub. L. 100–647 provided that:
 
 “(1)
 
-Subsection (a).—The amendments made by subsection (a) \[amending this section and sections 89, 410, 4976, 6039D, and 6652 of this title\] shall take effect as if included in the amendments made by section 1151 of the Tax Reform Act of 1986 \[Pub. L. 99–514, see EffectiveDate note below\]; except that the amendment made by subsection (a)(8) \[amending section 89 of this title\] shall apply to testing years beginning after December 31, 1989.
+Subsection (a).—The amendments made by subsection (a) \[amending this section and sections 89, 410, 4976, 6039D, and 6652 of this title\] shall take effect as if included in the amendments made by section 1151 of the Tax Reform Act of 1986 \[Pub. L. 99–514, see Effective Date note below\]; except that the amendment made by subsection (a)(8) \[amending section 89 of this title\] shall apply to testing years beginning after December 31, 1989.
 
 “(2)
 

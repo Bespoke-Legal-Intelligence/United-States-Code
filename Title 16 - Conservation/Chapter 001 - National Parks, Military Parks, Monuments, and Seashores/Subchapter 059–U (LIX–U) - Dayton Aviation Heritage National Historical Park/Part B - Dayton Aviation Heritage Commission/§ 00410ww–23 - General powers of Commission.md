@@ -6,7 +6,7 @@ The Commission may hold such hearings, sit and act at such times and places, tak
 
 #### (b) Donations
 
-Notwithstanding any other provision of law, the Commission may seek and accept donations of funds, property, or service from individuals, foundations, corporations, and other private entities and public entities for the purpose of carrying out its duties.
+Notwithstanding any other provision of law, the Commission may seek and accept donationsof funds, property, or service from individuals, foundations, corporations, and other private entities and public entities for the purpose of carrying out its duties.
 
 #### (c) Use of funds to obtain money
 

@@ -100,7 +100,7 @@ Amendment by Pub. L. 105–34 effective as if included in the provisions of the 
 
 #### Effective Date of 1996 Amendment
 
-Section 1317(a) of title I of Pub. L. 104–188 provided that: “Except as otherwise provided in this subtitle\[subtitle C (§§1301–1317) of title I of Pub. L. 104–188\], the amendments made by this subtitle \[amending this section and sections 170, 404, 512, 1042, 1237, 1361, 1362, 1366 to 1368, 1371, 1375, 1377, 1504, 6037, and 6233 of this title and repealing sections 6241 to 6245 of this title\] shall apply to taxable years beginning after December 31, 1996.”
+Section 1317(a) of title I of Pub. L. 104–188 provided that: “Except as otherwise provided in this subtitle \[subtitle C (§§1301–1317) of title I of Pub. L. 104–188\], the amendments made by this subtitle \[amending this section and sections 170, 404, 512, 1042, 1237, 1361, 1362, 1366 to 1368, 1371, 1375, 1377, 1504, 6037, and 6233 of this title and repealing sections 6241 to 6245 of this title\] shall apply to taxable years beginning after December 31, 1996.”
 
 #### Effective Date of 1977 Amendment
 

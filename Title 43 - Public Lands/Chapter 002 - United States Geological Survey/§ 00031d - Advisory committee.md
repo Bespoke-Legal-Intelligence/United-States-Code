@@ -12,21 +12,27 @@
 
 #### (3) Appointed members
 
-&emsp;Not later than 90 days after August 5, 1997, in consultation with the Association, the Secretary shall appoint to the advisory committee two representatives from the Survey (including the Chief Geologist, as Chairman), two representatives from the State geological surveys, one representative from academia, and one representative from the private sector.
+&emsp;Not later than 1 year after December 9, 1999, in consultation with the Association, the Secretary shall appoint to the advisory committee two representatives from the Survey (including the Chief Geologist, as Chairman), two representatives from the State geological surveys, one representative from academia, and one representative from the private sector.
 
 #### (b) Duties
 
 The advisory committee shall—
 
-&emsp;(1) review and critique the draft implementation plan prepared by the Director pursuant to section 31e of this title;
+&emsp;(1) review and update the 5-year plan prepared by the Director pursuant to section 31e of this title;
 
 &emsp;(2) review the scientific progress of the geologic mapping program; and
 
-&emsp;(3) submit an annual report to the Secretary that evaluates the progress of the Federal, State, and university mapping activities and evaluates the progress made toward fulfilling the purposes of sections 31a to 31h of this title.
+&emsp;(3) submit an annual report to the Secretary that evaluates the progress of the Federal, State, and university mapping activities and evaluates the progress made toward fulfilling the purposes of sections 31c through 31f of this title.
 
-(Pub. L. 102–285, §5, May 18, 1992, 106 Stat. 169; Pub. L. 105–36, §3(c), Aug. 5, 1997, 111 Stat. 1110.)
+(Pub. L. 102–285, §5, May 18, 1992, 106 Stat. 169; Pub. L. 105–36, §3(c), Aug. 5, 1997, 111 Stat. 1110; Pub. L. 106–148, §5, Dec. 9, 1999, 113 Stat. 1722.)
 
 #### Amendments
+
+1999—Subsec. (a)(3). Pub. L. 106–148, §5(1), substituted “1 year after December 9, 1999,” for “90 days after August 5, 1997,”.
+
+Subsec. (b)(1). Pub. L. 106–148, §5(2)(A), substituted “update the 5-year plan” for “critique the draft implementation plan”.
+
+Subsec. (b)(3). Pub. L. 106–148, §5(2)(B), substituted “sections 31c through 31f of this title” for “sections 31a to 31h of this title”.
 
 1997—Subsec. (a). Pub. L. 105–36, §3(c)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There shall be established a sixteen member geologic mapping advisory committee to advise the Director on planning and implementation of the geologic mapping program. The President shall appoint one representative each from the Environmental Protection Agency, the Department of Energy, the Department of Agriculture, and the Office of Science and Technology Policy. Within 90 days and with the advice and consultation of the State Geological Surveys, the Secretary shall appoint to the advisory committee 2 representatives from the Survey (including the Chief Geologist, as Chairman), 4 representatives from the State geological surveys, 3 representatives from academia, and 3 representatives from the private sector.”
 
@@ -38,5 +44,5 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 31b, 31c of this title.
+This section is referred to in sections 31b, 31c, 31g, 31h of this title.
 

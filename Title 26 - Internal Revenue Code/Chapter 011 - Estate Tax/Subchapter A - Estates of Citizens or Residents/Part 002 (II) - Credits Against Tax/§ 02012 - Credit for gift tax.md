@@ -30,7 +30,7 @@ Where the decedent was the donor of the gift but, under the provisions of sectio
 
 #### (2) Amount of gift
 
-&emsp;For purposes of paragraph (1), the “amount of such gift” shall be the amount included with respect to such gift in determining (for the purposes of section 2503(a), or of corresponding provisions of prior laws) the total amount of gifts made during such quarter or year, reduced by the amount of any deduction allowed with respect to such gift under section 2522, or under corresponding provisions of prior laws (relating to charitable deduction), or under section 2523 (relating to marital deduction).
+&emsp;For purposes of paragraph (1), the “amount of such gift” shall be the amount includedwith respect to such gift in determining (for the purposes of section 2503(a), or of corresponding provisions of prior laws) the total amount of gifts made during such quarter or year, reduced by the amount of any deduction allowed with respect to such gift under section 2522, or under corresponding provisions of prior laws (relating to charitable deduction), or under section 2523 (relating to marital deduction).
 
 #### (e) Section inapplicable to gifts made after December 31, 1976
 

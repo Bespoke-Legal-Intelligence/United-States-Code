@@ -2,7 +2,7 @@
 
 #### (a) Contracts and expenditure of funds
 
-Whenever the President determines it to be in furtherance of the purposes of this chapter, the functions authorized under this chapter may be performed without regard to such provisions oflaw (other than the Renegotiation Act of 1951, as amended (50 U.S.C. App. 1211 et seq.) regulating the making, performance, amendment, or modification of contracts and the expenditure of funds of the United States Government as the President may specify.
+Whenever the President determines it to be in furtherance of the purposes of this chapter, the functions authorized under this chapter may be performed without regard to such provisions of law (other than the Renegotiation Act of 1951, as amended (50 U.S.C. App. 1211 et seq.) regulating the making, performance, amendment, or modification of contracts and the expenditure of funds of the United States Government as the President may specify.
 
 #### (b) Neutrality laws
 
@@ -26,6 +26,10 @@ Sections 3544 and 8544 of title 10, referred to in subsec. (c), were repealed by
 
 References to subchapter II of this chapter are deemed to exclude parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
 #### Executive Order No. 10784
 
 Ex. Ord. No. 10784, Oct. 1, 1958, 23 F.R. 7691, as amended by Ex. Ord. No. 10845, Oct. 12, 1959, 24 F.R. 8317, which specified laws from which functions authorized by this chapter shall be exempt, was superseded by Ex. Ord. No. 11223, May 12, 1965, 30 F.R. 6635, set out below.
@@ -36,7 +40,7 @@ Ex. Ord. No. 10845 of Oct. 12, 1959, setting out laws from which authorized func
 
 #### Ex. Ord. No. 11223. Specification of Laws From Which Functions Authorized by This Chapter Shall Be Exempt
 
-Ex. Ord. No. 11223, May 12, 1965, 30 F.R. 6635, as amended by Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673; Ex. Ord. No. 12178, Dec. 10, 1979, 44 F.R. 71807, provided:
+Ex. Ord. No. 11223, May 12, 1965, 30 F.R. 6635, as amended by Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673; Ex. Ord. No. 12178, Dec. 10, 1979, 44 F.R. 71807; Ex. Ord. No. 13118, §10(10), Mar. 31, 1999, 64 F.R. 16599, provided:
 
 By virtue of the authority vested in me by Section 633 of the Foreign Assistance Act of 1961, as amended, 75 Stat. 454 (22 U.S.C. 2393), it is hereby determined that, to the extent hereinafter indicated, the performance of functions authorized by that Act, as amended, and any predecessor legislation, without regard to the laws specified in the numbered subdivisions of Sections 1 and 2 of this order and without regard to consideration as specified in Sections 3 and 4 of this order will further the purposes of the Foreign Assistance Act of 1961, as amended \[this chapter\]:
 
@@ -74,7 +78,7 @@ Sec. 2. With respect to purchases authorized to be made outside the limits of th
 
 Sec. 3. With respect to cost-type contracts heretofore or hereafter made with non-profit institutions under which no fee is charged or paid, amendments and modifications of such contracts may be made with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished, irrespective of the time or circumstances of the making, or the form of the contract amended or modified, or of the amending or modifying contract and irrespective of rights which may have accrued under the contract or the amendments or modifications thereof.
 
-Sec. 4. With respect to contracts heretofore or hereafter made, other than those described in Section 3 of this order, amendments and modifications of such contracts may be made with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished, irrespective of the time or circumstances of the making, or the form of the contract amended or modified, or of the amending or modifying contract, and irrespective of rights which may have accrued under the contract or the amendments or modifications thereof, if the Secretary of State or the Director of the United States International Development Cooperation Agency (withrespect to functions vested in or delegated to the Director) determines in each case that such action is necessary to protect the foreign policy interests of the United States.
+Sec. 4. With respect to contracts heretofore or hereafter made, other than those described in Section 3 of this order, amendments and modifications of such contracts may be made with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished, irrespective of the time or circumstances of the making, or the form of the contract amended or modified, or of the amending or modifying contract, and irrespective of rights which may have accrued under the contract or the amendments or modifications thereof, if the Secretary of State or the Administrator of the United States Agency for International Development (with respect to functions vested in or delegated to the Administrator) determines in each case that such action is necessary to protect the foreign policy interests of the United States.
 
 Sec. 5. Executive Order No. 10784 of October 1, 1958, and Executive Order No. 10845 of October 12, 1959, are hereby superseded.
 
@@ -87,8 +91,6 @@ Sec. 6. I determine it to be in furtherance of the purposes of the Foreign Assis
 (3) Section 719 of the Defense Production Act of 1950, as amended (50 U.S.C. App. 2168); and
 
 (4) Section 111 of the Federal Property and Administrative Services Act of 1949, as amended (\[former\] 40 U.S.C. 759).
-
-\[For abolition of United States International Development Cooperation Agency (other than Agency for International Development and Overseas Private Investment Corporation), transfer of functions, and treatment of references thereto, see sections 6561, 6562, and 6571 of this title.\]
 
 #### Determination Under This Section Waiving Requirements With Respect to Close Out of Prior Year Appropriations Accounts
 

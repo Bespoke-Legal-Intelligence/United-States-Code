@@ -30,5 +30,7 @@ Oct. 30, 1984, Pub. L. 98–584, §§6, 7, 98 Stat. 3097.
 
 36:3107.
 
+&nbsp;
+
 The words “and in conformity with the laws of the States in which it is incorporated” in 36:3106 and “and shall be in conformity with the laws of the States in which it is incorporated” in 36:3107 are omitted as unnecessary.
 

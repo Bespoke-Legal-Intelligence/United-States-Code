@@ -16,11 +16,11 @@
 
 (c)(1) Performance awards paid by any agency under this section shall be based on recommendations by performance review boards established by such agency under section 4314 of this title.
 
-(2) not <sup>1</sup> less than a majority of the members of any review board referred to in paragraph (1) shall be career appointees whenever making recommendations under such paragraph with respect to a career appointee. The requirement of the preceding sentence shall not apply in any case in which the Office of Personnel Management determines that there exists an insufficient number of career appointees available to comply with the requirement.
+(2) not <sup>1</sup> less than a majority of the members of any review board referred to in paragraph (1) shall be career appointees whenever making recommendations under such paragraph with respect to a career appointee. The requirement ofthe preceding sentence shall not apply in any case in which the Office of Personnel Management determines that there exists an insufficient number of career appointees available to comply with the requirement.
 
 (d) The Office of Personnel Management may issue guidance to agencies concerning the proportion of Senior Executive Service salary expenses that may be appropriately applied to payment of performance awards and the distribution of awards.
 
-(Added Pub. L. 95–454, title IV, §407(a), Oct. 13, 1978, 92 Stat. 1172; amended Pub. L. 98–615, title III, §302, Nov. 8, 1984, 98 Stat. 3217; Pub. L. 101–136, title VI, §625(a), Nov. 3, 1989, 103 Stat. 822; Pub. L. 105–277, div. A, title I, §101(h) \[title VI, §632(a)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523.)
+(Added Pub. L. 95–454, title IV, §407(a), Oct. 13, 1978, 92 Stat. 1172; amended Pub. L. 98–615, title III, §302, Nov. 8, 1984, 98 Stat. 3217; Pub. L. 101–136, title VI, §625(a), Nov. 3, 1989, 103 Stat. 822; Pub. L. 105–277, div. A, §101(h) \[title VI, §632(a)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523.)
 
 #### Amendments
 
@@ -34,7 +34,7 @@ Subsec. (b)(3). Pub. L. 98–615, §302(2), substituted provisions limiting the 
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. A, title I, §101(h) \[title VI, §632(b)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1998, or the date of enactment of this Act \[Oct. 21, 1998\], whichever is later.”
+Pub. L. 105–277, div. A, §101(h) \[title VI, §632(b)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1998, or the date of enactment of this Act \[Oct. 21, 1998\], whichever is later.”
 
 #### Effective Date of 1984 Amendment
 

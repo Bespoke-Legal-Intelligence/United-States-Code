@@ -1,6 +1,6 @@
 ### §2264. Deauthorization of studies
 
-(a) Not later than one year after November 17, 1986, and annually thereafter, the Secretary shall submit to Congress a list of incomplete water resources studies which have been authorized, but for which no funds have been appropriated during the 5 full fiscal years preceding the submission of such list. For each such study the Secretary shall include the following information:
+(a) Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), not later than one year after November 17, 1986, and annually thereafter, the Secretary shall submit to Congress a list of incomplete water resources studies which have been authorized, but for which no funds have been appropriated during the 5 full fiscal years preceding the submission of such list. For each such study the Secretary shall include the following information:
 
 &emsp;(1) the date of authorization and the manner in which the study was authorized;
 
@@ -14,5 +14,9 @@
 
 (b) Each study included in a list under subsection (a) of this section is not authorized on and after the 90th day following the submission to Congress of such list if no funds have been appropriated for such study after the list is submitted and before such 90th day.
 
-(Pub. L. 99–662, title VII, §710, Nov. 17, 1986, 100 Stat. 4160.)
+(Pub. L. 99–662, title VII, §710, Nov. 17, 1986, 100 Stat. 4160; Pub. L. 106–109, §8(b), Nov. 24, 1999, 113 Stat. 1495.)
+
+#### Amendments
+
+1999—Subsec. (a). Pub. L. 106–109, in first sentence, substituted “Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), not” for “Not”.
 

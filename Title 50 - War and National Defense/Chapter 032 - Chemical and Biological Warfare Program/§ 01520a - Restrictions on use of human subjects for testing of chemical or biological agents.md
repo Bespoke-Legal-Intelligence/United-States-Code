@@ -24,7 +24,7 @@ The Secretary of Defense may conduct a test or experiment described in subsectio
 
 #### (d) Prior notice to Congress
 
-Not later than 30 days after the date of final approval within the Department of Defense of plans for any experiment or study to be conducted by the Department of Defense (whether directly or under contract) involving the use of human subjects for the testing of a chemical agent or a biological agent, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report setting forth a full accounting of those plans, and the experiment or study may then be conducted only after the end of the 30-day period beginning on the date such report is received by those committees.
+Not later than 30 days after the date of final approval within the Department of Defense of plans for any experiment or study to be conducted by the Department of Defense (whether directly or under contract) involving the use of human subjects for the testing of a chemical agent or a biological agent, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report setting forth a full accounting of those plans, and the experiment or study may then be conducted only after the end of the 30-day period beginning on the date such report is received by those committees.
 
 #### (e) “Biological agent” defined
 
@@ -36,7 +36,7 @@ In this section, the term “biological agent” means any micro-organism (inclu
 
 &emsp;(3) deleterious alteration of the environment.
 
-(Pub. L. 105–85, div. A, title X, §1078, Nov. 18, 1997, 111 Stat. 1915.)
+(Pub. L. 105–85, div. A, title X, §1078, Nov. 18, 1997, 111 Stat. 1915; Pub. L. 106–65, div. A, title X, §1067(4), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Codification
 
@@ -44,7 +44,7 @@ Section is comprised of section 1078 of Pub. L. 105–85. Subsec. (f) of section
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1998, and not as part of Pub. L. 91–121, title IV, §409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 
-#### Change of Name
+#### Amendments
 
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+1999—Subsec. (d). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 

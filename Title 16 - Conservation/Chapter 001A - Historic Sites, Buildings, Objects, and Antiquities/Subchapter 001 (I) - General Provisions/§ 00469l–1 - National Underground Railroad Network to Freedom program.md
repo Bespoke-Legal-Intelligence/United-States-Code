@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Interior (in this section and section 469<i>l</i> of this title referred to as the “Secretary”) shall establish in the National Park Service a program to be known as the “National Underground Railroad Network to Freedom” (in this section and section 469<i>l</i> of thistitle referred to as the “national network”). Under the program, the Secretary shall—
+The Secretary of the Interior (in this section and section 469<i>l</i> of this title referred to as the “Secretary”) shall establish in the National Park Service a program to be known as the “National Underground Railroad Network to Freedom” (in this section and section 469<i>l</i> of this title referred to as the “national network”). Under the program, the Secretary shall—
 
 &emsp;(1) produce and disseminate appropriate educational materials, such as handbooks, maps, interpretive guides, or electronic information;
 

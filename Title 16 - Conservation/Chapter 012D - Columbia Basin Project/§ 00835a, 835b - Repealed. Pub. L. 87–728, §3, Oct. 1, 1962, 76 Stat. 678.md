@@ -1,8 +1,8 @@
 ### §§835a, 835b. Repealed. Pub. L. 87–728, §3, Oct. 1, 1962, 76 Stat. 678
 
-Section 835a, acts May 27, 1937, ch. 269, §2, 50 Stat. 210; Mar. 10, 1943, ch. 14, §2, 57 Stat. 14; Sept. 26, 1950, ch. 1048, §1(1), (2), 64 Stat. 1037; Sept. 2, 1957, Pub. L. 85–264, §1(a)–(c), 71 Stat. 590, related to the use of project appropriations for irrigation features; appraisals and reappraisals of lands; contracts with subdivisions of state; irrigation blocks; boundaries as determining right to water; temporary delivery to excess lands; definition of owners, community property; necessity of execution of recordable contract; contractual requirements; filing of instruments.
+Section 835a, acts May 27, 1937, ch. 269, §2, 50 Stat. 210; Mar. 10, 1943, ch. 14, 57 Stat. 14; Sept. 26, 1950, ch. 1048, §1(1), (2), 64 Stat. 1037; Sept. 2, 1957, Pub. L. 85–264, §1(a)–(c), 71 Stat. 590, related to the use of project appropriations for irrigation features; appraisals and reappraisals of lands; contracts with subdivisions of state; irrigation blocks; boundaries as determining right to water; temporary delivery to excess lands; definition of owners, community property; necessity of execution of recordable contract; contractual requirements; filing of instruments.
 
-Section 835b, acts May 27, 1937, ch. 269, §3, 50 Stat. 210; Mar. 10, 1943, ch. 14, §3, 57 Stat. 18; Sept. 26, 1950, ch. 1048, §1(3), 64 Stat. 1037, related to consideration for conveyance of lands.
+Section 835b, acts May 27, 1937, ch. 269, §3, 50 Stat. 210; Mar. 10, 1943, ch. 14, 57 Stat. 18; Sept. 26, 1950, ch. 1048, §1(3), 64 Stat. 1037, related to consideration for conveyance of lands.
 
 #### Savings Provision
 

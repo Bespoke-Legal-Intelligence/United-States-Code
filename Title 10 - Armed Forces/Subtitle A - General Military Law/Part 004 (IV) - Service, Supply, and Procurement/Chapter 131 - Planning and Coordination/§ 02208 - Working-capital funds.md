@@ -28,11 +28,13 @@
 
 (i) For provisions relating to sales outside the Department of Defense of manufactured articles and services by a working-capital funded Army industrial facility (including a Department of the Army arsenal) that manufactures large caliber cannons, gun mounts, recoil mechanisms, ammunition, munitions, or components thereof, see section 4543 of this title.
 
-(j) The Secretary of a military department may authorize a working capital funded industrial facility of that department to manufacture or remanufacture articles and sell these articles, as well as manufacturing or remanufacturing services provided by such facilities, to persons outside the Department of Defense if—
+(j)(1) The Secretary of a military department may authorize a working capital funded industrial facility of that department to manufacture or remanufacture articles and sell these articles, as well as manufacturing, remanufacturing, and engineering services provided by such facilities, to persons outside the Department of Defense if—
 
-&emsp;(1) the person purchasing the article or service is fulfilling a Department of Defense contract; and
+&emsp;(A) the person purchasing the article or service is fulfilling a Department of Defensecontract or a subcontract under a Department of Defense contract; and
 
-&emsp;(2) the Department of Defense solicitation for such contract is open to competition between Department of Defense activities and private firms.
+&emsp;(B) the solicitation for the contract or subcontract is open to competition between Department of Defense activities and private firms.
+
+(2) The Secretary of Defense may waive the conditions in paragraph (1) in the case of a particular sale if the Secretary determines that the waiver is necessary for reasons of national security and notifies Congress regarding the reasons for the waiver.
 
 (k)(1) Subject to paragraph (2), a contract for the procurement of a capital asset financed by a working-capital fund may be awarded in advance of the availability of funds in the working-capital fund for the procurement.
 
@@ -56,7 +58,7 @@
 
 (2) The Secretary of Defense may waive the notification requirements of paragraph (1)—
 
-&emsp;(A) during a period <sup>1</sup> war or national emergency; or
+&emsp;(A) during a period of war or national emergency; or
 
 &emsp;(B) to the extent that the Secretary determines necessary to support a contingency operation.
 
@@ -118,7 +120,7 @@ Annual Reports and Budget.—The Secretary of Defense, with respect to each work
 
 &emsp;&emsp;(E) A statement of how much of the estimated balance at the end of the fiscal year in which the report is submitted will be needed to pay outlays in the immediately following fiscal year that are in excess of the amount to be credited to the subaccount in the immediately following fiscal year.
 
-(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, §1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, §1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, §305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, §7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, §801, title XIII, §1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, §8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, §374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, §158(b), Nov. 30, 1993, 107 Stat. 1582; Pub. L. 105–85, div. A, title X, §1011(a), (b), Nov. 18, 1997, 111 Stat. 1873; Pub. L. 105–261, div. A, title X, §§1007(e)(1), 1008(a), Oct. 17, 1998, 112 Stat. 2115; Pub. L. 105–262, title VIII, §8146(d)(1), Oct. 17, 1998, 112 Stat. 2340.)
+(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, §1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, §1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, §305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, §7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, §801, title XIII, §1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, §8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, §374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, §158(b), Nov. 30, 1993, 107 Stat. 1582; Pub. L. 105–85, div. A, title X, §1011(a), (b), Nov. 18, 1997, 111 Stat. 1873; Pub. L. 105–261, div. A, title X, §§1007(e)(1), 1008(a), Oct. 17, 1998, 112 Stat. 2115; Pub. L. 105–262, title VIII, §8146(d)(1), Oct. 17, 1998, 112 Stat. 2340; Pub. L. 106–65, div. A, title III, §§331(a)(1), 332, title X, §1066(a)(16), Oct. 5, 1999, 113 Stat. 566, 567, 771.)
 
 Historical and Revision Notes<br>1956
 
@@ -202,6 +204,10 @@ Provisions similar to those in subsecs. (m) to (q) of this section were containe
 
 #### Amendments
 
+1999—Subsec. (j). Pub. L. 106–65, §§331(a)(1), 332, designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, substituted “, remanufacturing, and engineering” for “or remanufacturing” in introductory provisions, inserted “or a subcontract under a Department of Defense contract” before the semicolon in subpar. (A), substituted “solicitation for the contract or subcontract” for “Department of Defense solicitation for such contract” in subpar. (B), and added par. (2).
+
+Subsec. (<i>l</i>)(2)(A). Pub. L. 106–65, §1066(a)(16), inserted “of” after “during a period”.
+
 1998—Subsec. (<i>l</i>)(3), (4). Pub. L. 105–261, §1007(e)(1), and Pub. L. 105–262 amended subsec. (<i>l</i>) identically, adding par. (3) and redesignating former par. (3) as (4).
 
 Subsecs. (m) to (q). Pub. L. 105–261, §1008(a), added subsecs. (m) to (q).
@@ -226,7 +232,7 @@ Subsec. (<i>l</i>). Pub. L. 105–85, §1011(b), added subsec. (<i>l</i>).
 
 &emsp;“(C) the article is not readily available from a commercial source in the United States; and
 
-&emsp;“(D) the sale is to be made on a basis that does not interfere with performance of work by the arsenal for the Department of Defense or for a contractor of the Department of Defense.
+&emsp;“(D) the sale is to be made on a basis that does not interfere with performance of work by the arsenal forthe Department of Defense or for a contractor of the Department of Defense.
 
 “(2) Services related to an article sold under this subsection may also be sold to the purchaser if the services are to be performed in the United States for the purchaser.”
 
@@ -252,7 +258,7 @@ Section 1204(b) of Pub. L. 98–94 provided that: “The amendment made by subse
 
 Pub. L. 103–337, div. A, title III, §311(b)–(e), Oct. 5, 1994, 108 Stat. 2708, which related to purchase from other sources, limitation on inclusion of certain costs in DBOF charges, procedures for accumulation of funds, and annual reports and budget, was repealed and restated in section 2216a(d)(2)(B), (f) to (h)(3) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(1), Feb. 10, 1996, 110 Stat. 277–279.
 
-Pub. L. 103–337, div. A, title III, §311(f), (g), Oct. 5, 1994, 108 Stat. 2709, required Secretary of Defense to submit to congressional defense committees, not later than Feb. 1, 1995, a report on progress made in implementing the Defense Business Operations Fund Improvement Plan, dated September 1993, and requiredComptroller General to monitor and evaluate the Department of Defense implementation of the Plan and to report to congressional defense committees not later than Mar. 1, 1995.
+Pub. L. 103–337, div. A, title III, §311(f), (g), Oct. 5, 1994, 108 Stat. 2709, required Secretary of Defense to submit to congressional defense committees, not later than Feb. 1, 1995, a report on progress made in implementing the Defense Business Operations Fund Improvement Plan, dated September 1993, and required Comptroller General to monitor and evaluate the Department of Defense implementation of the Plan and to report to congressional defense committees not later than Mar. 1, 1995.
 
 #### Charges for Goods and Services Provided Through Defense Business Operations Fund
 
@@ -280,7 +286,5 @@ Sale of articles acquired with working capital funds, see sections 4621 and 9621
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 129, 2210, 2350c, 4543, 4621, 7227, 7606, 9621 of this title; title 40 section 484.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
+This section is referred to in sections 129, 2210, 2350c, 4543, 4621, 7227, 7300, 7606, 9621 of this title; title 40 section 484.
 

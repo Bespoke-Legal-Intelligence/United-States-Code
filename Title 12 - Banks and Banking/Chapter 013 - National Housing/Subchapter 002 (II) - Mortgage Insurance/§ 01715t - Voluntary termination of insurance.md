@@ -6,7 +6,7 @@ Notwithstanding any other provision of this chapter and with respect to any loan
 
 #### References in Text
 
-The Emergency Low Income Housing Preservation Act of 1987, referred to in text, is title II of Pub. L.100–242, Feb. 5, 1988, 101 Stat. 1877, which, as amended by Pub. L. 101–625, is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990. Subtitle B of title II, which was formerly set out as a note under section 1715<i>l</i> of this title and which amended section 1715z–6 of this title, was amended generally by Pub. L. 101–625 and is classified generally to subchapter I (§4101 et seq.) of chapter 42 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+The Emergency Low Income Housing Preservation Act of 1987, referred to in text, is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which, as amended by Pub. L. 101–625, is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990. Subtitle B of title II, which was formerly set out as a note under section 1715<i>l</i> of this title and which amended section 1715z–6 of this title, was amended generally by Pub. L. 101–625 and is classified generally to subchapter I (§4101 et seq.) of chapter 42 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 #### Amendments
 

@@ -32,7 +32,7 @@ For purposes of this part—
 
 &emsp;&emsp;(F) Establishing and operating, either directly or by contract or arrangement with a public agency or other appropriate private nonprofit organization (other than an agency or organization that is responsible for licensing or certifying out-of-home care services for youth), a State ombudsman office for children, youth, and families to investigate and resolve complaints relating to action, inaction, or decisions of providers of out-of-home care to children and youth (including secure detention and correctional facilities, residential care facilities, public agencies, and social service agencies) that may adversely affect the health, safety, welfare, or rights of resident children and youth.
 
-&emsp;&emsp;(G) Developing and adopting policies and programs designed to remove, where appropriate, status offenders from the jurisdiction of the juvenile court to prevent the placement in secure detention facilities or securecorrectional facilities of juveniles who are nonoffenders or who are charged with or who have committed offenses that would not be criminal if committed by an adult.
+&emsp;&emsp;(G) Developing and adopting policies and programs designed to remove, where appropriate, status offenders from the jurisdiction of the juvenile court to prevent the placement in secure detention facilities or secure correctional facilities of juveniles who are nonoffenders or who are charged with or who have committed offenses that would not be criminal if committed by an adult.
 
 &emsp;&emsp;(H) Developing and adopting policies and programs designed to serve as alternatives to suspension and expulsion from school.
 

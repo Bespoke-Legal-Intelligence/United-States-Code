@@ -86,9 +86,47 @@ Requirement of Potential Military Relationship.—Funds appropriated to the Depa
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 251 of Title 41, Public Contracts.
 
-#### Pilot Program for Revitalizing Laboratories and Test and Evaluation Centers of Department of Defense
+#### Pilot Programs for Revitalizing Laboratories and Test and Evaluation Centers of Department of Defense
+
+Pub. L. 106–65, div. A, title II, §245, Oct. 5, 1999, 113 Stat. 552, provided that:
+
+“(a)
+
+Authority.—(1) The Secretary of Defense may carry out a pilot program to demonstrate improved efficiency in the performance of research, development, test, and evaluation functions of the Department of Defense. The pilot program under this section is in addition to, but may be carried out in conjunction with, the pilot program authorized by section 246 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 1955; 10 U.S.C. 2358 note).
+
+“(2) Under the pilot program, the Secretary of Defense shall provide the director of one science and technology laboratory, and the director of one test and evaluation laboratory, of each military department with authority for the following:
+
+&emsp;“(A) To ensure that the laboratories selected can attract a workforce appropriately balanced between permanent and temporary personnel and among workers with an appropriate level of skills and experience and that those laboratories can effectively compete in hiring to obtain the finest scientific talent.
+
+&emsp;“(B) To develop or expand innovative methods of operation that provide more defense research for each dollar of cost, including carrying out initiatives such as focusing on the performance of core functions and adopting more business-like practices.
+
+&emsp;“(C) To waive any restrictions not required by law that apply to the demonstration and implementation of methods for achieving the objectives set forth in subparagraphs (A) and (B).
+
+“(3) In selecting the laboratories for participation in the pilot program, the Secretary shall consider laboratories where innovative management techniques have been demonstrated, particularly as documented under sections 1115 through 1119 of title 31, United States Code, relating to Government agency performance and results.
+
+“(4) The Secretary may carry out the pilot program at each selected laboratory for a period of three years beginning not later than March 1, 2000.
+
+“(b)
+
+Reports.—(1) Not later than March 1, 2000, the Secretary of Defense shall submit to Congress a report on the implementation of the pilot program. The report shall include the following:
+
+&emsp;“(A) Each laboratory selected for the pilot program.
+
+&emsp;“(B) To the extent possible, a description of the innovative concepts that are to be tested at each laboratory.
+
+&emsp;“(C) The criteria to be used for measuring the success of each concept to be tested.
+
+“(2) Promptly after the expiration of the period for participation of a laboratory in the pilot program, the Secretary of Defense shall submit to Congress a final report on the participation of that laboratory in the pilot program. The report shall include the following:
+
+&emsp;“(A) A description of the concepts tested.
+
+&emsp;“(B) The results of the testing.
+
+&emsp;“(C) The lessons learned.
+
+&emsp;“(D) Any proposal for legislation that the Secretary recommends on the basis of the experience at that laboratory under the pilot program.”
 
 Pub. L. 105–261, div. A, title II, §246, Oct. 17, 1998, 112 Stat. 1955, provided that:
 
@@ -136,11 +174,11 @@ Commendation.—Congress commends the Secretary of Defense for the progress made
 
 Pub. L. 105–18, title I, §307, June 12, 1997, 111 Stat. 169, provided that: “For the purposes of implementing the 1997 Defense Experimental Program to Stimulate Competitive Research (DEPSCoR), the term ‘State’ means a State of the United States, the District of Columbia, Puerto Rico, Guam and the Virgin Islands of the United States, American Samoa and the Commonwealth of the Northern Mariana Islands.”
 
-Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, title II, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 105–85, div. A, title II, §243, Nov. 18, 1997, 111 Stat. 1667, provided that:
+Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, title II, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 105–85, div. A, title II, §243, Nov. 18, 1997, 111 Stat. 1667; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that:
 
 “(a)
 
-Program Required.—The Secretary of Defense, acting through the Director of Defense Research and Engineering, shall carry out a Defense Experimental Program to Stimulate Competitive Research (DEPSCoR) as part of the university research programs of the Department of Defense.
+Program Required.—The Secretary of Defense, acting through the Director of Defense Research and Engineering, shall carry out a Defense ExperimentalProgram to Stimulate Competitive Research (DEPSCoR) as part of the university research programs of the Department of Defense.
 
 “(b)
 
@@ -160,9 +198,9 @@ Program Activities.—In order to achieve the program objectives, the following 
 
 “(d)
 
-Eligible States.—(1) The Under Secretary of Defense for Acquisition and Technology shall designate which States are eligible States for the purposes of this section.
+Eligible States.—(1) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall designate which States are eligible States for the purposes of this section.
 
-“(2) The Under Secretary of Defense for Acquisition and Technology shall designate a State as an eligible State if, as determined by the Under Secretary—
+“(2) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall designate a State as an eligible State if, as determined by the Under Secretary—
 
 &emsp;“(A) the average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the State for the three fiscal years preceding the fiscal year for which the designation is effective or for the last three fiscal years for which statistics are available is less than the amount determined by multiplying 60 percent times the amount equal to 1/50 of the total average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the United States for such three preceding or last fiscal years, as the case may be; and
 
@@ -240,7 +278,7 @@ Funding.—Of the amounts authorized to be appropriated under section 201 \[107 
 
 #### Independent Research and Development; Bid and Proposal Costs; Negotiation of Advance Agreements With Contractors; Annual Report to Congress
 
-Pub. L. 91–441, title II, §203, Oct. 7, 1970, 84 Stat. 906, as amended by Pub. L. 96–342, title II, §208, Sept. 8, 1980, 94 Stat. 1081, provided that no funds authorized to be appropriated to Department of Defense by this or any other Act were to be used to finance independent research and development or bid and proposal costs unless such work had, in opinion of Secretary of Defense, potential relationship to military functions or operations, and advance agreements regarding payment for such work had been negotiated, prior to repeal by Pub. L. 101–510, div. A, title VIII, §824(b), Nov. 5, 1990, 104 Stat. 1604. See section 2372 of this title.
+Pub. L. 91–441, title II, §203, Oct. 7, 1970, 84 Stat. 906, as amended by Pub. L. 96–342, title II, §208, Sept. 8, 1980, 94 Stat. 1081, provided that no funds authorized to be appropriated to Department of Defense by this or anyother Act were to be used to finance independent research and development or bid and proposal costs unless such work had, in opinion of Secretary of Defense, potential relationship to military functions or operations, and advance agreements regarding payment for such work had been negotiated, prior to repeal by Pub. L. 101–510, div. A, title VIII, §824(b), Nov. 5, 1990, 104 Stat. 1604. See section 2372 of this title.
 
 #### Relationship of Research Projects or Studies to Military Function or Operation
 

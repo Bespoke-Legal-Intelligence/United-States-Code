@@ -19,7 +19,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 29 section 710; title 42 section 3020a.
+This chapter is referred to in title 29 section 708; title 42 section 3020a.
 
 
 ---

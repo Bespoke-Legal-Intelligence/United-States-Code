@@ -112,7 +112,7 @@ Amendment by Pub. L. 104–188 effective as if included in the provision of the 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of this title.
+Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) ofPub. L. 101–140, set out as a note under section 79 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -174,7 +174,7 @@ Section 1853(f) of Pub. L. 99–514 provided that:
 
 &emsp;“(C) the eligibility to participate in such plan closed on June 30, 1972, June 30, 1974, or December 31, 1975.
 
-“(2) For purposes of applying section 117(d)(3) of the Internal Revenue Code of 1954 \[now 1986\] to all tuition reduction plans of an employer with at least 1 such plan described in paragraph (1) of this subsection, thereshall be excluded from consideration employees not included in the plan who are included in a unit of employees covered by an agreement that the Secretary of the Treasury or his delegate finds to be a collective bargaining agreement between employee representatives and 1 or more employers, if, with respect to plans other than plans described in paragraph (1), there is evidence that such benefits were the subject of good faith bargaining.
+“(2) For purposes of applying section 117(d)(3) of the Internal Revenue Code of 1954 \[now 1986\] to all tuition reduction plans of an employer with at least 1 such plan described in paragraph (1) of this subsection, there shall be excluded from consideration employees not included in the plan who are included in a unit of employees covered by an agreement that the Secretary of the Treasury or his delegate finds to be a collective bargaining agreement between employee representatives and 1 or more employers, if, with respect to plans other than plans described in paragraph (1), there is evidence that such benefits were the subject of good faith bargaining.
 
 “(3) Any reduction in tuition provided with respect to a full-time course of education furnished at the graduate level before July 1, 1988, shall not be included in gross income if—
 

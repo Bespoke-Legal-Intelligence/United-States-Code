@@ -22,7 +22,7 @@ From a State's allotment under this subpart for any fiscal year the Secretary is
 
 &emsp;(4) provides for the selection of recipients of such grants or of such State work-study jobs on the basis of substantial financial need determined annually on the basis of criteria established by the State and approved by the Secretary, except that for the purpose of collecting data to make such determination of financial need, no student or parent shall be charged a fee that is payable to an entity other than such State;
 
-&emsp;(5) provides that, effective with respect to any academic year beginning on or after October 1, 1978, all nonprofit institutions of higher education in the State are eligible to participate in the State program, except in any State in which participation of nonprofit institutions of higher education is in violation of the constitution of the State or in any State in which participation of nonprofit institutions of higher education is in violation of a statute of the State which was enacted prior to October 1, 1978;
+&emsp;(5) provides that, effective with respect to any academic year beginning on or after October 1, 1978, all nonprofit institutions of higher education in the State are eligible to participate in the State program, except in any State in which participation of nonprofit institutions of higher education is in violation of the constitution of the State or in any State in which participation of nonprofit institutionsof higher education is in violation of a statute of the State which was enacted prior to October 1, 1978;
 
 &emsp;(6) provides for the payment of the non-Federal portion of such grants or of such work-study jobs from funds supplied by such State which represent an additional expenditure for such year by such State for grants or work-study jobs for students attending institutions of higher education over the amount expended by such State for such grants or work-study jobs, if any, during the second fiscal year preceding the fiscal year in which such State initially received funds under this subpart;
 
@@ -32,7 +32,7 @@ From a State's allotment under this subpart for any fiscal year the Secretary is
 
 &emsp;(9) provides (A) for such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement of and accounting for Federal funds paid to the State agency under this subpart, and (B) for the making of such reports, in such form and containing such information, as may be reasonably necessary to enable the Secretary to perform his functions under this subpart; and
 
-&emsp;(10) for any academic year beginning after June 30, 1987, provides the non-Federal shareof the amount of student grants or work-study jobs under this subpart through a direct appropriation of State funds for the program under this subpart.
+&emsp;(10) for any academic year beginning after June 30, 1987, provides the non-Federal share of the amount of student grants or work-study jobs under this subpart through a direct appropriation of State funds for the program under this subpart.
 
 #### (c) Reservation and disbursement of allotments and reallotments
 

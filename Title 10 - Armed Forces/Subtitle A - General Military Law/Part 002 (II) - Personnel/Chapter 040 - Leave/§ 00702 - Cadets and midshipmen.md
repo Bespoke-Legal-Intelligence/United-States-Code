@@ -72,7 +72,7 @@ Aug. 9, 1946, ch. 931, §10 (less applicability to payment for leave); added Aug
 
 Aug. 9, 1946, ch. 931, §2(f) (last 8 words), 60 Stat. 963.
 
-In subsection (a), the words “outside the United States or in Alaska or Hawaii” are substituted for the words “outside the continental limits of the United States” to conform to the interpretation of those words in other sections of title 10 and revised title 37.
+In subsection (a), the words “outside the United States or in Alaska or Hawaii” are substituted for thewords “outside the continental limits of the United States” to conform to the interpretation of those words in other sections of title 10 and revised title 37.
 
 In subsections (a) and (b), the words “, or his designated representative,” are substituted for the last 8 words of section 32(f) of existing title 37.
 

@@ -130,7 +130,7 @@ The Fair Housing Act, referred to in subsec. (d)(2)(M), is title VIII of Pub. L.
 
 The Civil Rights Act of 1964, referred to in subsec. (d)(2)(M), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-The Age Discrimination Act of 1975, referred to in subsec. (d)(2)(M), is title III of Pub. L. 94–135, Nov. 28,1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (d)(2)(M), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
 This title, referred to in subsec. (d)(6), means title IV of Pub. L. 101–625, known as the Homeownership and Opportunity Through HOPE Act, and probably should have been “this subtitle”, meaning subtitle B (§§421–431) of title IV of Pub. L. 101–625, which is classified principally to this part. For complete classification of title IV of Pub. L. 101–625 to the Code, see Short Title note set out under section 1437aaa of this title and Tables.
 

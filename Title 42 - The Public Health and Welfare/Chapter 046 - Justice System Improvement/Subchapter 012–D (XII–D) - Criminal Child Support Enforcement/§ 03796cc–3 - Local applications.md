@@ -12,7 +12,7 @@
 
 #### (b) Distribution to local entities
 
-A State that receives funds under section 3796cc of this title in a fiscal year shall make such funds available to a local entity with an approved application within 45 days after the Bureau has approved the application submitted by the State and has made funds available to the State. The Director may waive the 45-day requirement in this section upon a finding that the State is unable to satisfy the requirement of the preceding sentence under State statutes.
+A State that receives funds under section 3796cc of this title in a fiscal year shall make such funds available to a local entity with an approved application within 45 days after the Bureau has approved the application submittedby the State and has made funds available to the State. The Director may waive the 45-day requirement in this section upon a finding that the State is unable to satisfy the requirement of the preceding sentence under State statutes.
 
 (Pub. L. 90–351, title I, §1604, as added Pub. L. 102–521, §4(a)(3), Oct. 25, 1992, 106 Stat. 3405.)
 

@@ -54,7 +54,7 @@ The State plan shall include information that—
 
 &emsp;(5) describes how the eligible agency will—
 
-&emsp;&emsp;(A) improve the academic and technical skills of students participating in vocational and technical education programs, includingstrengthening the academic, and vocational and technical, components of vocational and technical education programs through the integration of academics with vocational and technical education to ensure learning in the core academic, and vocational and technical, subjects, and provide students with strong experience in, and understanding of, all aspects of an industry; and
+&emsp;&emsp;(A) improve the academic and technical skills of students participating in vocational and technical education programs, including strengthening the academic, and vocational and technical, components of vocational and technical education programs through the integration of academics with vocational and technical education to ensure learning in the core academic, and vocational and technical, subjects, and provide students with strong experience in, and understanding of, all aspects of an industry; and
 
 &emsp;&emsp;(B) ensure that students who participate in such vocational and technical education programs are taught to the same challenging academic proficiencies as are taught to all other students;
 

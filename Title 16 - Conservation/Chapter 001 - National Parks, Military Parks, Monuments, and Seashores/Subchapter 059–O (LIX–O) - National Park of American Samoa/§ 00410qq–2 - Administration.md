@@ -6,7 +6,7 @@ The Secretary shall administer the park in accordance with this subchapter and w
 
 #### (b) Traditional subsistence uses
 
-(1) Agricultural, cultural, and gathering uses shall be permitted in the park for subsistencepurposes if such uses are generally prior existing uses conducted in areas used for such purposes as of October 31, 1988, and if such uses are conducted in the traditional manner and by traditional methods. No such uses shall be permitted in the park for other than subsistence purposes.
+(1) Agricultural, cultural, and gathering uses shall be permitted in the park for subsistence purposes if such uses are generally prior existing uses conducted in areas used for such purposes as of October 31, 1988, and if such uses are conducted in the traditional manner and by traditional methods. No such uses shall be permitted in the park for other than subsistence purposes.
 
 (2) Subsistence uses of the marine areas of the park shall also be permitted in accordance with paragraph (1), and no fishing or gathering shall be permitted in such marine areas for other than subsistence purposes.
 
@@ -24,7 +24,7 @@ In addition to the Secretary's authority to employ persons to carry out provisio
 
 #### (e) Native American Samoan personnel
 
-The Secretary shall establish a program to train native American Samoan personnel to function as professional park service employees, to provide services to visitors (including the interpretation of park resources), and operate and maintain park facilities. Notwithstanding any other provision of law, and to the extent practicable the Secretary shall extend a preference for the hiring of native American Samoans to carry out the Secretary's authorities under this subchapter (including both employees and persons operating under contract).
+The Secretary shall establish a program to train native American Samoan personnel tofunction as professional park service employees, to provide services to visitors (including the interpretation of park resources), and operate and maintain park facilities. Notwithstanding any other provision of law, and to the extent practicable the Secretary shall extend a preference for the hiring of native American Samoans to carry out the Secretary's authorities under this subchapter (including both employees and persons operating under contract).
 
 #### (f) Management plan
 

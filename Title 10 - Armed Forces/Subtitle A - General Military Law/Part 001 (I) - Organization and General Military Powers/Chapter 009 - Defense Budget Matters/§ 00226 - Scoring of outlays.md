@@ -2,7 +2,7 @@
 
 (a)
 
-Annual OMB/CBO Report.—Not later than December 15 of each year, the Director of the Office of Management and Budget and the Director of the Congressional Budget Office shall submit to the Speaker of the House of Representatives and the Committees on Armed Services, Appropriations, and the Budget of the Senate a jointreport containing an agreed resolution of all differences between—
+Annual OMB/CBO Report.—Not later than December 15 of each year, the Director of the Office of Management and Budget and the Director of the Congressional Budget Office shall submit to the Speaker of the House of Representatives and the Committees on Armed Services, Appropriations, and the Budget of the Senate a joint report containing an agreed resolution of all differences between—
 
 &emsp;(1) the technical assumptions to be used by the Office of Management and Budget in preparing estimates with respect to all accounts in major functional category 050 (National Defense) for the budget to be submitted to Congress in the following year pursuant to section 1105 of title 31; and
 

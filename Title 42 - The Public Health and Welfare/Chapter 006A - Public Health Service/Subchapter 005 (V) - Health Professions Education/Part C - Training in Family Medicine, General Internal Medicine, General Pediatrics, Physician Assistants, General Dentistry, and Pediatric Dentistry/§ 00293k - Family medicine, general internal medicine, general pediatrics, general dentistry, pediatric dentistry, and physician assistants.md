@@ -48,7 +48,7 @@ The Secretary may make grants to, or enter into contracts with, any public or no
 
 #### (3) Special consideration
 
-&emsp;In awarding grants under this section the Secretary shall give special consideration to projects which prepare practitioners to care for underserved populations and other high risk groups such as the elderly, individuals with HIV-AIDS, substance abusers, homeless, and victims of domestic violence.
+&emsp;In awarding grants under this section the Secretary shall give special consideration to projects which prepare practitioners to care for underserved populations and other high risk groups such as the elderly, individualswith HIV-AIDS, substance abusers, homeless, and victims of domestic violence.
 
 #### (d) Duration of award
 

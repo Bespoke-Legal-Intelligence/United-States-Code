@@ -2,7 +2,7 @@
 
 #### (a) State regulation
 
-The business of insurance, and every person engaged therein, shall be subject to the laws ofthe several States which relate to the regulation or taxation of such business.
+The business of insurance, and every person engaged therein, shall be subject to the laws of the several States which relate to the regulation or taxation of such business.
 
 #### (b) Federal regulation
 
@@ -14,7 +14,7 @@ No Act of Congress shall be construed to invalidate, impair, or supersede any la
 
 Act of July 2, 1890, as amended, known as the Sherman Act, referred to in subsec. (b), is classified to sections 1 to 7 of this title.
 
-Act of October 15, 1914, as amended, known as the Clayton Act, referred to in subsec. (b), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of this title and to sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
+Act of October 15, 1914, as amended, known as the Clayton Act, referred to in subsec. (b), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classifiedgenerally to sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of this title and to sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
 
 Act of September 26, 1914, known as the Federal Trade Commission Act, as amended, referred to in subsec. (b), is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 

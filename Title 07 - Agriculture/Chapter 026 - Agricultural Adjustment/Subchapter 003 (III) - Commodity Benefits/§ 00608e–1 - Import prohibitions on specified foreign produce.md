@@ -6,7 +6,7 @@ Subject to the provisions of subsections (c) and (d) of this section and notwith
 
 #### (b) Extension of time for marketing order; factors; review
 
-(1) The Secretary may provide for a period of time (not to exceed 35 days) in addition to theperiod of time covered by a marketing order during which the marketing order requirements would be in effect for a particular commodity during any year if the Secretary determines that such additional period of time is necessary—
+(1) The Secretary may provide for a period of time (not to exceed 35 days) in addition to the period of time covered by a marketing order during which the marketing order requirements would be in effect for a particular commodity during any year if the Secretary determines that such additional period of time is necessary—
 
 &emsp;(A) to effectuate the purposes of this chapter; and
 

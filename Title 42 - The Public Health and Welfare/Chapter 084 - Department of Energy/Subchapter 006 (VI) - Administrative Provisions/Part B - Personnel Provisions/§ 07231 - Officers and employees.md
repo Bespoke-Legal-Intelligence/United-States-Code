@@ -26,7 +26,7 @@ In the performance of his functions the Secretary is authorized to appoint and f
 
 #### (d) Appointment of additional scientific, engineering, etc., personnel without regard to civil service laws; compensation
 
-In addition to the number of positions which may be placed at GS–16, GS–17, and GS–18 under section 5108 of title 5, under existing law, or under this chapter, and to the extent the Secretary deems such action necessary to the discharge of his functions, he may appoint not more than two hundred of the scientific, engineering, professional, and administrative personnel without regard to the civil service laws and may fix the compensation of such personnelnot in excess of the maximum rate payable for GS–18 of the General Schedule under section 5332 of title 5.
+In addition to the number of positions which may be placed at GS–16, GS–17, and GS–18 under section 5108 of title 5, under existing law, or under this chapter, and to the extent the Secretary deems such action necessary to the discharge of his functions, he may appoint not more than two hundred of the scientific, engineering, professional, and administrative personnel without regard to the civil service laws and may fix the compensation of such personnel not in excess of the maximum rate payable for GS–18 of the General Schedule under section 5332 of title 5.
 
 #### (e) Determination of maximum aggregate number of positions
 
@@ -56,7 +56,7 @@ August 14, 1991, referred to in subsec. (f), was in the original “the date of 
 
 #### Transfer of Functions
 
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (c)(2), pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec.\(c)(2), pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

@@ -36,7 +36,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(C) includes or is affiliated with a teaching hospital; and
 
-&emsp;&emsp;(D) is accredited by a recognized body or bodies approved for such purposes by theSecretary of Education, or which provides to the Secretary satisfactory assurance by such accrediting body or bodies that reasonable progress is being made toward accreditation.
+&emsp;&emsp;(D) is accredited by a recognized body or bodies approved for such purposes by the Secretary of Education, or which provides to the Secretary satisfactory assurance by such accrediting body or bodies that reasonable progress is being made toward accreditation.
 
 &emsp;(5) The term “allied health professionals” means a health professional (other than a registered nurse or physician assistant)—
 

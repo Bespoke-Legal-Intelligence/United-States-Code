@@ -32,7 +32,7 @@ Transfer of certification data.—A carrier who receives a certification may tra
 
 &emsp;(4)
 
-Shipping documents.—For purposes of this chapter, a shipping document, prepared by the person who tenders a container or trailer to a first carrier, that contains the information required by paragraph (2) meets the requirements of paragraph (1).
+Shipping documents.—For purposes of this chapter, a shipping document, preparedby the person who tenders a container or trailer to a first carrier, that contains the information required by paragraph (2) meets the requirements of paragraph (1).
 
 &emsp;(5)
 

@@ -88,7 +88,7 @@
 
 #### (ii) BHC
 
-&emsp;&emsp;&emsp;The term “BHC” means a bank holding company (within the meaning of section2(a) of the Bank Holding Company Act of 1956).
+&emsp;&emsp;&emsp;The term “BHC” means a bank holding company (within the meaning of section 2(a) of the Bank Holding Company Act of 1956).
 
 #### (iii) Special rule in case of BHC's formed before 1985
 
@@ -178,7 +178,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) by substituting “5 percent” for “50 percent”, and
 
-&emsp;&emsp;&emsp;&emsp;(II) in any case where such paragraph would not apply but for subclause (I), by considering a corporation as owning the stock (other than stock in such corporation) owned by or for any shareholder of such corporation in that proportionwhich the value of the stock which such shareholder owned in such corporation bears to the value of all stock in such corporation.
+&emsp;&emsp;&emsp;&emsp;(II) in any case where such paragraph would not apply but for subclause (I), by considering a corporation as owning the stock (other than stock in such corporation) owned by or for any shareholder of such corporation in that proportion which the value of the stock which such shareholder owned in such corporation bears to the value of all stock in such corporation.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 89; Pub. L. 88–554, §4(b)(1), Aug. 31, 1964, 78 Stat. 763; Pub. L. 97–248, title II, §226(a)(1)(A), (2), (3), Sept. 3, 1982, 96 Stat. 490, 491; Pub. L. 98–369, div. A, title VII, §712(<i>l</i>)(1)–(5)(A), July 18, 1984, 98 Stat. 953, 954; Pub. L. 99–514, title XVIII, §1875(b), Oct. 22, 1986, 100 Stat. 2894; Pub. L. 100–203, title X, §10223(c), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title II, §2004(k)(2), Nov. 10, 1988, 102 Stat. 3605; Pub. L. 105–34, title X, §1013(a), (c), Aug. 5, 1997, 111 Stat. 918; Pub. L. 105–206, title VI, §6010(d), July 22, 1998, 112 Stat. 814.)
 
@@ -192,7 +192,7 @@ Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (b)
 
 Subsec. (b)(6). Pub. L. 105–206, §6010(d)(2), added par. (6).
 
-1997—Subsec. (a)(1). Pub. L. 105–34, §1013(a), amended last sentence generally. Prior to amendment, last sentence read as follows: “To the extent that such distribution is treated as a distribution to which section 301 applies, the stock so acquired shall be treated as having been transferred by the person from whom acquired, and as having been received by the corporation acquiring it, as a contribution to the capital of such corporation.”
+1997—Subsec. (a)(1). Pub. L. 105–34, §1013(a), amended last sentence generally. Prior to amendment, last sentence read as follows: “To the extent that such distribution is treated as a distribution to which section 301 applies, the stock so acquired shall be treated ashaving been transferred by the person from whom acquired, and as having been received by the corporation acquiring it, as a contribution to the capital of such corporation.”
 
 Subsec. (b)(5). Pub. L. 105–34, §1013(c), added par. (5).
 
@@ -304,7 +304,7 @@ Designated date.—For purposes of this subparagraph, the term ‘designated dat
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, towhich such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -92,7 +92,7 @@ There shall be established in each local area of a State, and certified by the G
 
 #### (A) Fraud, abuse, failure to carry out functions
 
-&emsp;&emsp;Notwithstanding paragraph (2), the Governor may decertify a local board, at any time after providing notice and an opportunity for comment, for—
+&emsp;&emsp;Notwithstanding paragraph (2), the Governor may decertify a local board, at anytime after providing notice and an opportunity for comment, for—
 
 &emsp;&emsp;&emsp;(i) fraud or abuse; or
 
@@ -100,7 +100,7 @@ There shall be established in each local area of a State, and certified by the G
 
 #### (B) Nonperformance
 
-&emsp;&emsp;Notwithstanding paragraph (2), the Governor may decertify a local board if a localarea fails to meet the local performance measures for such local area for 2 consecutive program years (in accordance with section 2871(h) of this title).
+&emsp;&emsp;Notwithstanding paragraph (2), the Governor may decertify a local board if a local area fails to meet the local performance measures for such local area for 2 consecutive program years (in accordance with section 2871(h) of this title).
 
 #### (C) Plan
 
@@ -258,7 +258,7 @@ A member of a local board may not—
 
 &emsp;&emsp;(A) shall include—
 
-&emsp;&emsp;&emsp;(i) members of the local board described in subparagraph (A) or (B) of subsection (b)(2) of this section with special interest or expertise in youth policy;
+&emsp;&emsp;&emsp;(i) members of the local board described in subparagraph (A) or (B) of subsection\(b)(2) of this section with special interest or expertise in youth policy;
 
 &emsp;&emsp;&emsp;(ii) representatives of youth service agencies, including juvenile justice and local law enforcement agencies;
 
@@ -332,5 +332,5 @@ Subsec. (i)(1)(D)(ii)(II). Pub. L. 105–277, §101(f) \[title VIII, §401(4)(B)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 49a, 705, 2801, 2821, 2822, 2833, 2871 of this title.
+This section is referred to in sections 49a, 705, 2801, 2821, 2822, 2833, 2871 of this title; title 42 section 4953.
 

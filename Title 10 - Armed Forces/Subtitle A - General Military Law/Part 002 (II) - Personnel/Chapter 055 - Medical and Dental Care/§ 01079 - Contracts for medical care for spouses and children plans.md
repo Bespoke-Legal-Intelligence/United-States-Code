@@ -64,7 +64,7 @@
 
 (b) Plans covered by subsection (a) shall include provisions for payment by the patient of the following amounts:
 
-&emsp;(1) $25 for each admission to a hospital, or the amount the patient would have been charged under section 1078(a) of this title had the care being paid for been obtained in a hospital of the uniformed services, whichever amount is the greater. The Secretary of Defense may exempt a patient from paying such amount if the hospital to which the patient isadmitted does not impose a legal obligation on any of its patients to pay for inpatient care.
+&emsp;(1) $25 for each admission to a hospital, or the amount the patient would have been charged under section 1078(a) of this title had the care being paid for been obtained in a hospital of the uniformed services, whichever amount is the greater. The Secretary of Defense may exempt a patient from paying such amount if the hospital to which the patient is admitted does not impose a legal obligation on any of its patients to pay for inpatient care.
 
 &emsp;(2) Except as provided in clause (3), the first $150 each fiscal year of the charges for all types of care authorized by subsection (a) and received while in an outpatient status and 20 percent of all subsequent charges for such care during a fiscal year. Notwithstanding the preceding sentence, in the case of a dependent of an enlisted member in a pay grade below E–5, the initial deductible each fiscal year under this paragraph shall be limited to $50.
 
@@ -140,7 +140,7 @@
 
 (m)(1) Subject to paragraph (2), the Secretary of Defense may, upon request, make payments under this section for a charge for services for which a claim is submitted under a plan contracted for under subsection (a) to a hospital that does not impose a legal obligation on any of its patients to pay for such services.
 
-(2) A payment under paragraph (1) may not exceed the average amount paid for comparable services in the geographic area in which the hospital is located or, if no comparable services are available in that area, in an area similar to the area in which the hospital is located.
+(2) A payment under paragraph (1) may not exceed the average amount paid for comparableservices in the geographic area in which the hospital is located or, if no comparable services are available in that area, in an area similar to the area in which the hospital is located.
 
 (3) The Secretary of Defense shall periodically review the billing practices of each hospital the Secretary approves for payment under this subsection to ensure that the hospital's practices of not billing patients for payment are not resulting in increased costs to the Government.
 
@@ -292,9 +292,9 @@ Subsec. (j)(1). Pub. L. 104–201, §735(c), inserted “, including any plan o
 
 Subsec. (d). Pub. L. 103–337, §702(a)(2), substituted “as described in subparagraph (A), (D), or (I) of section 1072(2)” for “as defined in section 1072(2)(A) or (D)”.
 
-Subsec. (g). Pub. L. 103–337, §707(a), inserted at end “In addition, when a member dies while on active duty for a period of more than 30 days, the member's dependents who are receiving benefits under a plan covered by subsection (a) shall continue to be eligible for such benefits during the one-year period beginning on the date of the death of the member.”
+Subsec. (g). Pub. L. 103–337, §707(a), inserted at end “In addition, when a member dies while on active dutyfor a period of more than 30 days, the member's dependents who are receiving benefits under a plan covered by subsection (a) shall continue to be eligible for such benefits during the one-year period beginning on the date of the death of the member.”
 
-1993—Subsec. (a)(7). Pub. L. 103–160, §716(c), substituted “except that those services may be provided in any case in which another insurance plan or programprovides primary coverage for those services;” for “except that—
+1993—Subsec. (a)(7). Pub. L. 103–160, §716(c), substituted “except that those services may be provided in any case in which another insurance plan or program provides primary coverage for those services;” for “except that—
 
 &emsp;“(A) those services may be provided in any case in which another insurance plan or program provides primary coverage for those services; and
 
@@ -390,7 +390,7 @@ Subsec. (h)(2). Pub. L. 98–557, §19(7)(B), substituted reference to other adm
 
 Pub. L. 98–525, §1401(e)(4)(B), substituted “The Secretary of Defense shall adjust the base period as frequently as he considers appropriate” for “The base period shall be adjusted at least once a year”.
 
-Subsec. (j)(2)(A). Pub. L. 98–557, §19(7)(A), substituted reference to the administering Secretaries for reference to the Secretary of Defense and the Secretary of Health and Human Services.
+Subsec. (j)(2)(A). Pub. L. 98–557, §19(7)(A), substituted reference to the administering Secretaries for referenceto the Secretary of Defense and the Secretary of Health and Human Services.
 
 Subsec. (k)(1), (2). Pub. L. 98–557, §19(7)(B), substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services.
 
@@ -444,7 +444,7 @@ Subsecs. (c) to (f). Pub. L. 89–614 added subsecs. (c) to (f).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 707(a) of Pub. L. 103–337 applicable with respect to dependents described in amendments by section 707(a) and (b) of Pub. L. 103–337 of a member of a uniformed service who dies on or after Oct. 1, 1993, while on active duty for a period of more than 30 days, see section 707(c) of Pub. L. 103–337, set out as a note under section 1076a of this title.
+Pub. L. 103–337, div. A, title VII, §707(c), Oct. 5, 1994, 108 Stat. 2801, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1076a of this title\] shall apply with respect to the dependents described in such amendments of a member of a uniformed service who dies on or after October 1, 1993, while on active duty for a period of more than 30 days.”
 
 #### Effective Date of 1993 Amendment
 
@@ -478,7 +478,7 @@ Section 646(c) of Pub. L. 100–456 provided that: “The amendments made by sub
 
 #### Effective Date of 1987 Amendment
 
-Section 721(c) of Pub. L. 100–180 provided that: “Paragraph (5) of section 1079(b) of title 10, United States Code, as added by subsection (a), and paragraph (4) of section 1086(b) of such title, as added by subsection (b), shall apply with respect to fiscal years beginning after September 30, 1987.”
+Section 721(c) of Pub. L. 100–180 provided that: “Paragraph (5) of section 1079(b) of title 10, United StatesCode, as added by subsection (a), and paragraph (4) of section 1086(b) of such title, as added by subsection (b), shall apply with respect to fiscal years beginning after September 30, 1987.”
 
 Section 726(b) of Pub. L. 100–180 provided that: “Paragraph (15) of section 1079(a) of such title, as added by subsection (a), shall apply with respect to costs incurred for home monitoring equipment after the date of the enactment of this Act \[Dec. 4, 1987\].”
 
@@ -564,7 +564,7 @@ Pharmaceuticals Offered; Purchase Fees.—(1) The Secretary of Defense, in consu
 
 &emsp;“(B) establish an appropriate fee, charge, or copayment to be paid by such persons for pharmaceuticals obtained under the demonstration project or managed health care program.
 
-“(2) In the case of persons eligible to participate in the demonstration project for pharmaceuticals or the retail pharmacy network by reason of clause (ii) of subsection (c)(2)(B), the Secretary of Defense may increase the fees, charges, and copayments established under paragraph (1)(B) and otherwise applicable to such persons by an amount necessary to cover any additional costs incurred by the administering Secretaries as a result of making pharmaceuticals available to such persons under this section.
+“(2) In the case of persons eligible to participate in the demonstration project for pharmaceuticals or the retail pharmacy network by reason of clause (ii) of subsection (c)(2)(B), the Secretary of Defense may increase the fees, charges, and copayments established under paragraph (1)(B) and otherwise applicable to such persons by an amount necessary to cover any additionalcosts incurred by the administering Secretaries as a result of making pharmaceuticals available to such persons under this section.
 
 “(e)
 
@@ -646,5 +646,5 @@ For provision authorizing transitional health care, including health benefits co
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1072, 1074b, 1080, 1081, 1082, 1083, 1086, 1086a, 1095, 1096, 1098, 1100, 1104, 1105, 1145 of this title; title 42 sections 300e–1, 1395cc.
+This section is referred to in sections 1072, 1074b, 1074g, 1080, 1081, 1082, 1083, 1086, 1086a, 1095, 1096, 1097b, 1098, 1100, 1104, 1105, 1145 of this title; title 42 sections 300e–1, 1395cc.
 

@@ -1,6 +1,6 @@
 ### §3282. General officers: title of office
 
-An officer holding an appointment as a general officer in the Regular Army may be called a general officer in the Regular Army. In addition, a general officer of the Regular Army in the Medical Corps, Dental Corps, Veterinary Corps, Judge Advocate General's Corps, or the Chaplains, may be called a general officer of that branch.
+An officer holding an appointment as a general officer in the Regular Army may be calleda general officer in the Regular Army. In addition, a general officer of the Regular Army in the Medical Corps, Dental Corps, Veterinary Corps, Judge Advocate General's Corps, or the Chaplains, may be called a general officer of that branch.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 181.)
 

@@ -16,7 +16,7 @@ This section condenses and simplifies the form of the former sections without ch
 
 The enumeration of “note, bond, debenture, coupon, obligation, instrument, or writing” does not occur in any one of the original sections but is an adequate enumeration of the instruments mentioned in each.
 
-Certain specific agencies are enumerated by name as are “land bank, intermediate credit bank, bank for cooperatives,” but the phrase “or any lending, mortgage, insurance, credit, or savings and loan corporation or association” was used to embrace the following: National Farm Loan Association, Federal Savings and Loan Insurance Corporation, Federal Savings and Loan Associations, National Agricultural Credit Corporation, Production Credit Corporations, Production Credit Associations, Home Loan Banks, National MortgageAssociations, and Central Bank for Cooperatives, Regional Agricultural Credit Corporation, or any instrumentalities created for similar purposes.
+Certain specific agencies are enumerated by name as are “land bank, intermediate credit bank, bank for cooperatives,” but the phrase “or any lending, mortgage, insurance, credit, or savings and loan corporation or association” was used to embrace the following: National Farm Loan Association, Federal Savings and Loan Insurance Corporation, Federal Savings and Loan Associations, National Agricultural Credit Corporation, Production Credit Corporations, Production Credit Associations, Home Loan Banks, National Mortgage Associations, and Central Bank for Cooperatives, Regional Agricultural Credit Corporation, or any instrumentalities created for similar purposes.
 
 Reference to persons causing, procuring, aiding or assisting was omitted as unnecessary, such persons being principals by section 2 of this title.
 

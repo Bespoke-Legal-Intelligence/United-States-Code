@@ -75,7 +75,7 @@ For purposes of this section—
 
 #### (C) Constitutional home rule city
 
-&emsp;&emsp;For purposes of this section, the term “constitutional home rule city” means, with respect to any calendar year, any political subdivision of a State which, under a Stateconstitution which was adopted in 1970 and effective on July 1, 1971, had home rule powers on the 1st day of the calendar year.
+&emsp;&emsp;For purposes of this section, the term “constitutional home rule city” means, with respect to any calendar year, any political subdivision of a State which, under a State constitution which was adopted in 1970 and effective on July 1, 1971, had home rule powers on the 1st day of the calendar year.
 
 #### (4) Special rule for possessions with populations of less than the population of the least populous State
 

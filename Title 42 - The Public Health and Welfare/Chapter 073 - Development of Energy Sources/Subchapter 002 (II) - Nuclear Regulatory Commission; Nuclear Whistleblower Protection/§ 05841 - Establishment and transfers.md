@@ -20,7 +20,7 @@
 
 #### (c) Term of office
 
-Each member shall serve for a term of five years, each such term to commence on July 1, except that of the five members first appointed to the Commission, one shall serve for one year, one for two years, one for three years, one for four years, and one for five years, to be designated by the President at the time of appointment; and except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed, shall be appointed for the remainder of such term. For the purpose of determining the expiration date of the terms of office of the five members first appointed to the Nuclear Regulatory Commission, each such term shall be deemed to have begun July 1, 1975.
+Each member shall serve for a term of five years, each such term to commence on July 1, except that of the five members first appointed to the Commission, one shall serve for one year, one for two years, one for three years, one for four years, and one for five years, to be designated by the President at the time of appointment; and except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed, shall be appointed for the remainder of such term. For the purpose of determining theexpiration date of the terms of office of the five members first appointed to the Nuclear Regulatory Commission, each such term shall be deemed to have begun July 1, 1975.
 
 #### (d) Submission of appointments to Senate
 
@@ -92,7 +92,7 @@ Testing.—In order to make a determination with respect to a container under pa
 
 &emsp;“(3)
 
-Limitation.—The Nuclear Regulatory Commission may not certify under this section that a container is safe for use in the transportation of plutonium by aircraft if the container ruptured or released its contents during testing conducted in accordance with paragraph (2).
+Limitation.—The Nuclear Regulatory Commission may not certify under this section that a container is safe for use in the transportation of plutonium by aircraft if the container ruptured or releasedits contents during testing conducted in accordance with paragraph (2).
 
 &emsp;“(4)
 
@@ -114,7 +114,7 @@ Design of Testing Procedures.—The tests required by subsection (b) shall be de
 
 “(e)
 
-Testing Results: Reports and Public Disclosure.—The Nuclear Regulatory Commission shalltransmit to Congress a report on the results of each test conducted under this section and shall make such results available to the public.
+Testing Results: Reports and Public Disclosure.—The Nuclear Regulatory Commission shall transmit to Congress a report on the results of each test conducted under this section and shall make such results available to the public.
 
 “(f)
 
@@ -168,7 +168,7 @@ Pub. L. 97–415, §13, Jan. 4, 1983, 96 Stat. 2074, provided that:
 
 #### Transportation of Nuclear Waste With Potential for Significant Public Health and Safety Hazards; Regulations for Notice to Governor
 
-Pub. L. 96–295, title III, §301, June 30, 1980, 94 Stat. 789, directed Nuclear Regulatory Commission, within 90days of June 30, 1980, to promulgate regulations providing for timely notification to the Governor of any State prior to the transport of nuclear waste, including spent nuclear fuel, to, through, or across the boundaries of such State, and provided that such notification requirement would not apply to nuclear waste in such quantities and of such types as the Commission specifically determined did not pose a potentially significant hazard to the health and safety of the public.
+Pub. L. 96–295, title III, §301, June 30, 1980, 94 Stat. 789, directed Nuclear Regulatory Commission, within 90 days of June 30, 1980, to promulgate regulations providing for timely notification to the Governor of any State prior to the transport of nuclear waste, including spent nuclear fuel, to, through, or across the boundaries of such State, and provided that such notification requirement would not apply to nuclear waste in such quantities and of such types as the Commission specifically determined did not pose a potentially significant hazard to the health and safety of the public.
 
 #### Review of Selection and Training of Members of Atomic Safety and Licensing Boards; Report to Congress
 
@@ -232,7 +232,7 @@ Section 1. (a) Those functions of the Nuclear Regulatory Commission, hereinafter
 
 (d) The Commission shall act as provided by subsection 201(a)(1) of the Energy Reorganization Act of 1974, as amended (42 U.S.C. 5841(a)(1)) in the performance of its functions as described in subsections (a) and (b) of this section.
 
-Sec. 2. (a) All other functions of the Commission, not specified by Section 1 of this Reorganization Plan, are hereby transferred to the Chairman. The Chairman shall be the official spokesman for the Commission, and shall appoint, supervise, and remove, without further action by the Commission, the Directors and staff of the Office of Public Affairs and the Office of Congressional Relations. The Chairman may consult with the Commission as he deems appropriate in exercising this appointment function.
+Sec. 2. (a) All other functions of the Commission, not specified by Section 1 of this Reorganization Plan, are hereby transferred to the Chairman. The Chairman shall be the official spokesman for the Commission,and shall appoint, supervise, and remove, without further action by the Commission, the Directors and staff of the Office of Public Affairs and the Office of Congressional Relations. The Chairman may consult with the Commission as he deems appropriate in exercising this appointment function.
 
 (b) The Chairman shall also be the principal executive officer of the Commission, and shall be responsible to the Commission for developing policy planning and guidance for consideration by the Commission; shall be responsible to the Commission for assuring that the Executive Director for Operations and the staff of the Commission (other than the officers and staff referred to in sections (1)(b)(4), (1)(c) and (2)(a) of this Reorganization Plan) are responsive to the requirements of the Commission in the performance of its functions; shall determine the use and expenditure of funds of the Commission, in accordance with the distribution of appropriated funds according to major programs and purposes approved by the Commission; shall present to the Commission for its consideration the proposals and estimates set forth in subsection (3) of this paragraph; and shall be responsible for the following functions, which he shall delegate, subject to his direction and supervision, to the Executive Director for Operations unless otherwise provided by this Reorganization Plan:
 
@@ -286,13 +286,13 @@ The Plan clarifies the duties of the Chairman as principal executive officer. In
 
 Intensive investigations undertaken since the Three Mile Island accident have revealed management problems at the Nuclear Regulatory Commission. These problems must be rectified if the Commission is to be a strong and effective safety regulator.
 
-&emsp;—My Commission, called the Kemeny Commission after its Chairman, Dr. John Kemeny, concluded that the underlying problem at Three Mile Island stemmed not from deficient equipment but rather from compounded human failures. This included the inability of the Nuclear Regulatory Commission to pursue its safety mission effectively in view of its existing management policies and practices. The Kemeny Commission reported a lack of “closure” in the system to ensure that safety issues are raised, analyzed and resolved. Kemeny Commission members also concluded that the Nuclear Regulatory Commission relies too heavily on licensing, and pays insufficient attention to ensuring the safety of plants once they are in operation.
+&emsp;—My Commission, called the Kemeny Commission after its Chairman, Dr. John Kemeny, concluded that the underlying problem at Three Mile Island stemmed not from deficient equipment but ratherfrom compounded human failures. This included the inability of the Nuclear Regulatory Commission to pursue its safety mission effectively in view of its existing management policies and practices. The Kemeny Commission reported a lack of “closure” in the system to ensure that safety issues are raised, analyzed and resolved. Kemeny Commission members also concluded that the Nuclear Regulatory Commission relies too heavily on licensing, and pays insufficient attention to ensuring the safety of plants once they are in operation.
 
 &emsp;—During the course of its investigation, the Kemeny Commission found serious managerial problems at the top of the Nuclear Regulatory Commission. It noted that the Commissioners and the Chairman are unclear as to their respective roles. Uncertain, diffuse leadership of this kind leads to highly compartmentalized offices that operate with little or no effective guidance and little coordination.
 
 &emsp;—A recently completed independent study authorized and funded by the Nuclear Regulatory Commission itself also found serious fault with the Commission's management and called for a major organizational overhaul. The report states that there is no authoritative manager but, instead, five equally responsible Commissioners who deal individually with office directors who, in turn, head their own “independent fiefdoms.”
 
-&emsp;—Likewise, a recent report of the General Accounting Office notes the failure of the Nuclear Regulatory Commission to define either the authority ofthe Chairman or that of the Executive Director for Operations. The staff lacks policy guidance and top management leadership to set priorities and resolve safety issues. There are unreasonable delays in developing policies to guide the licensing and enforcement activities of the agency.
+&emsp;—Likewise, a recent report of the General Accounting Office notes the failure of the Nuclear Regulatory Commission to define either the authority of the Chairman or that of the Executive Director for Operations. The staff lacks policy guidance and top management leadership to set priorities and resolve safety issues. There are unreasonable delays in developing policies to guide the licensing and enforcement activities of the agency.
 
 The central theme in all three of these studies is the failure of the Nuclear Regulatory Commission to provide unified leadership and consistent direction of the agency's activities. The present statutes contain conflicting and ambiguous provisions for managing the agency. Important corrective actions cannot or will not be taken by the Commission until the laws are changed. Failure to do so constitutes a continuing nuclear safety hazard.
 
@@ -320,7 +320,7 @@ This proposed realignment and clarification of responsibilities would not result
 
 Each of the provisions of this proposed reorganization would also accomplish one or more of the purposes set forth in 5 U.S.C. 901(a). No statutory functions would be abolished by the Plan; rather they would be consolidated or reassigned in order to improve management, delivery of services, execution of the law, and overall operational efficiency and effectiveness of the Commission.
 
-By Executive Order No. 12202, dated March 18, 1980 \[42 U.S.C. 5848 note\], I established a Nuclear Safety Oversight Committee to advise me of progress being made by the Nuclear Regulatory Commission, the nuclear industry, and others in improving nuclear safety. I am confident that the present Reorganization Plan, together with the other steps that have been or are being taken by this Administration and by others, will greatly advance the goal of nuclear safety. It would permit the Commission and the American people to hold one individual—the Chairman—accountable for implementation of the Commission's policies through effective management of the Commission staff. Freed of management and administrative details, the Commission could then concentrate on the purpose for which that collegial body was created—to deliberate on the formulation of policy and rules to govern nuclear safety and to decide or oversee disposition of individual cases.
+By Executive Order No. 12202, dated March 18, 1980 \[42 U.S.C. 5848 note\], I established a Nuclear Safety Oversight Committee to advise me of progress being made by the Nuclear Regulatory Commission, the nuclear industry, and others in improving nuclear safety. I am confident that the present Reorganization Plan, together with the other steps that have been or are being taken by this Administration and by others, will greatly advance the goal of nuclear safety. It would permit the Commission and the American people to hold oneindividual—the Chairman—accountable for implementation of the Commission's policies through effective management of the Commission staff. Freed of management and administrative details, the Commission could then concentrate on the purpose for which that collegial body was created—to deliberate on the formulation of policy and rules to govern nuclear safety and to decide or oversee disposition of individual cases.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -332,7 +332,7 @@ To the Congress of the United States:
 
 I herewith transmit the following amendments to Reorganization Plan No. 1 of 1980, which I sent to the Congress on March 27, 1980.
 
-The amendments to Reorganization Plan No. 1 are consistent with my original intent of strengthening the management of the Nuclear Regulatory Commission in order to improve safety in all of the agency's activities, while preserving the advantages of the Commission form. The amendments reinforce the purpose of the Plan in two respects. First, the amended Plan gives the Commission a greater role in selection of key program officers of the agency by adding four positions to the list of appointments initiated by the Chairman for the Commission's advice and consent. These are the Executive Director for Operations, the Director of Inspection and Enforcement, the Director of Nuclear Regulatory Research, and the Director of Standards Development. Each of these positions contributes to nuclear safetyregulation, and each performs functions that help determine the policy and performance of the agency.
+The amendments to Reorganization Plan No. 1 are consistent with my original intent of strengthening the management of the Nuclear Regulatory Commission in order to improve safety in all of the agency's activities, while preserving the advantages of the Commission form. The amendments reinforce the purpose of the Plan in two respects. First, the amended Plan gives the Commission a greater role in selection of key program officers of the agency by adding four positions to the list of appointments initiated by the Chairman for the Commission's advice and consent. These are the Executive Director for Operations, the Director of Inspection and Enforcement, the Director of Nuclear Regulatory Research, and the Director of Standards Development. Each of these positions contributes to nuclear safety regulation, and each performs functions that help determine the policy and performance of the agency.
 
 The Advisory Committee on Reactor Safeguards advises the Commission as a whole. Since its members serve renewable 4-year terms, another amendment provides that a Commission member, as well as the Chairman, can initiate an appointment to the Advisory Committee on Reactor Safeguards for approval by the Commission.
 

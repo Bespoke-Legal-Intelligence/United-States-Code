@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall, during the 1991 through 1995 calendar years, formulate and carry out anenvironmental easement program (hereafter in this part referred to as the “easement program”) in accordance with this part, through the acquisition of permanent easements or easements for the maximum term permitted under applicable State law from willing owners of eligible farms or ranches in order to ensure the continued long-term protection of environmentally sensitive lands or reduction in the degradation of water quality on such farms or ranches through the continued conservation and improvement of soil and water resources.
+The Secretary shall, during the 1991 through 1995 calendar years, formulate and carry out an environmental easement program (hereafter in this part referred to as the “easement program”) in accordance with this part, through the acquisition of permanent easements or easements for the maximum term permitted under applicable State law from willing owners of eligible farms or ranches in order to ensure the continued long-term protection of environmentally sensitive lands or reduction in the degradation of water quality on such farms or ranches through the continued conservation and improvement of soil and water resources.
 
 #### (b) Eligibility; termination
 

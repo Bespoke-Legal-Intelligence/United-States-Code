@@ -100,7 +100,7 @@
 
 #### (2) Application of tariff proclamation authority
 
-&emsp;No proclamation under subsection (a) of this section to carry out the provisions regarding tariff barriers of a trade agreement that is entered into pursuant to paragraph (1) may take effect before the effective date of a bill that implements the provisions regarding nontariff barriers of a trade agreement that is entered into under such paragraph.
+&emsp;No proclamation under subsection (a) of this section to carry out the provisions regardingtariff barriers of a trade agreement that is entered into pursuant to paragraph (1) may take effect before the effective date of a bill that implements the provisions regarding nontariff barriers of a trade agreement that is entered into under such paragraph.
 
 #### (3) Application of implementing and “fast track” procedures
 

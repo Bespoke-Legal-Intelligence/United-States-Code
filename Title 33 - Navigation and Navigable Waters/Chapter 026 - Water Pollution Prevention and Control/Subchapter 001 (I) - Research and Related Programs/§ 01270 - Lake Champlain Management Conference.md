@@ -58,7 +58,7 @@ The Members of the Management Conference shall be comprised of—
 
 (1) The Administrator may, in consultation with the Management Conference, make grants to State, interstate, and regional water pollution control agencies, and public or nonprofit agencies, institutions, and organizations.
 
-(2) Grants under this subsection shall be made for assisting research, surveys, studies, and modeling and technical and supporting work necessary for the development of the Plan and for retaining expert consultants in support oflitigation undertaken by the State of New York and the State of Vermont to compel cleanup or obtain cleanup damage costs from persons responsible for pollution of Lake Champlain.
+(2) Grants under this subsection shall be made for assisting research, surveys, studies, and modeling and technical and supporting work necessary for the development of the Plan and for retaining expert consultants in support of litigation undertaken by the State of New York and the State of Vermont to compel cleanup or obtain cleanup damage costs from persons responsible for pollution of Lake Champlain.
 
 (3) The amount of grants to any person under this subsection for a fiscal year shall not exceed 75 per centum of the costs of such research, survey, study and work and shall be made available on the condition that non-Federal share of such costs are provided from non-Federal sources.
 
@@ -78,7 +78,7 @@ Nothing in this section shall be construed so as to affect the jurisdiction or p
 
 #### (i) Authorization
 
-There are authorized to be appropriated to the Environmental Protection Agency to carry out this section $2,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995.
+There are authorized to be appropriated to the Environmental Protection Agency to carry outthis section $2,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995.
 
 (June 30, 1948, ch. 758, title I, §120, as added Pub. L. 101–596, title III, §303, Nov. 16, 1990, 104 Stat. 3006.)
 
@@ -146,7 +146,7 @@ Resource conservation program.—The Secretary of the Interior, acting through t
 
 “(d)
 
-Authorizations.—(1) There is authorized to be appropriated to the Department of Agriculture$2,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsection (a) of this section.
+Authorizations.—(1) There is authorized to be appropriated to the Department of Agriculture $2,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsection (a) of this section.
 
 “(2) There is authorized to be appropriated to the Department of \[the\] Interior $1,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsections (b) and (c) of this section.”
 

@@ -6,11 +6,11 @@ The Secretary of the Treasury may cause to be set aside any available space in a
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §560, 42Stat. 977. That section was superseded by section 560 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §560, 42 Stat. 977. That section was superseded by section 560 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Prior provisions on the subject matter of this section were contained in R.S. § 2953, providing that nothing therein contained should be construed to prevent the leasing or hiring of buildings for use of appraisers, or for short periods, of stores required for customhouse purposes at the smaller ports; section 2954, authorizing the leasing of warehouses for storage of unclaimed goods or goods required to be stored; section 2955, prohibiting the leasing of warehouses at ports at which there was any private bonded warehouse, but excepting buildings for use of appraisers, etc.; section 2956, providing that warehouses hired should be on public account, and be appropriated exclusively to receipt of foreign merchandise, subject, as to rates of storage, to regulation by the Secretary of the Treasury; and section 2957, prohibiting leases for more than three years, or the payment of rent in advance. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
-A prior provision that no officer of the customs should have any personal ownership of, or interest in, any bonded warehouse or general order store, was contained in act June 22, 1874, ch. 391, § 24, 18 Stat. 191; and a provision prohibiting agreements for the use of any building to be erected was contained in R.S. §2957. Both of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §§642, 643, 42 Stat. 989.
+A prior provision that no officer of the customs should have any personal ownership of, or interest in,any bonded warehouse or general order store, was contained in act June 22, 1874, ch. 391, § 24, 18 Stat. 191; and a provision prohibiting agreements for the use of any building to be erected was contained in R.S. §2957. Both of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §§642, 643, 42 Stat. 989.
 
 #### Amendments
 

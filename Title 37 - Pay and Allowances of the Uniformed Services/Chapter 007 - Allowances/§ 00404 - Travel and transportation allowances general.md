@@ -42,7 +42,7 @@
 
 (d)(1) The travel and transportation allowances authorized for each kind of travel may not be more than one of the following:
 
-&emsp;(A) Transportation in kind, reimbursement therefor, or, under regulations prescribed bythe Secretaries concerned, when travel by privately owned conveyance is authorized or approved as more advantageous to the Government, a monetary allowance in place of the cost of transportation, at the rates provided in section 5704 of title 5.
+&emsp;(A) Transportation in kind, reimbursement therefor, or, under regulations prescribed by the Secretaries concerned, when travel by privately owned conveyance is authorized or approved as more advantageous to the Government, a monetary allowance in place of the cost of transportation, at the rates provided in section 5704 of title 5.
 
 &emsp;(B) Transportation in kind, reimbursement therefor, or a monetary allowance as provided in subparagraph (A), plus a payment in lieu of subsistence as provided in paragraph (2) in an amount sufficient to meet normal and necessary expenses in the area to which travel is performed.
 
@@ -108,15 +108,17 @@
 
 (h) Under uniform regulations prescribed by the Secretaries concerned, a member of a uniformed service entitled to travel and transportation allowances under subsection (a) is entitled to reimbursement for parking fees, ferry fares, and bridge, road, and tunnel tolls actually incurred incident to such travel.
 
-(i)(1) In the case of a member of a reserve component performing active duty for training or inactive-duty training who is not otherwise entitled to travel and transportation allowances in connection with such duty under subsection (a), the Secretary concerned may reimburse the member for housing service charge expenses incurred by the member in occupying transient government housing during the performance of such duty.
+(i)(1) In the case of a member of a reserve component performing active duty for training or inactive-duty training who is not otherwise entitled to travel and transportation allowances in connection with such duty under subsection (a), the Secretary concerned may reimburse the member for housing service charge expenses incurred by the member in occupying transient government housing during the performance of such duty. If transient government housing is unavailable or inadequate, the Secretary concerned may provide the member with lodging in kind in the same manner as members entitled to such allowances under subsection (a).
 
 (2) Any payment or other benefit under this subsection shall be provided in accordance with regulations prescribed by the Secretaries concerned.
 
-(3) The Secretary may pay service charge expenses under paragraph (1) out of funds appropriated for operation and maintenance for the reserve component concerned.
+(3) The Secretary may pay service charge expenses under paragraph (1) and expenses of providing lodging in kind under such paragraph out of funds appropriated for operation and maintenance for the reserve component concerned. Use of Government charge cards is authorized for payment of these expenses.
+
+(4) Decisions regarding the availability or adequacy of government housing at a military installation under paragraph (1) shall be made by the installation commander.
 
 (j) In this section, the term “involuntarily separated” has the meaning given that term in section 1141 of title 10.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 472; Pub. L. 89–680, §1(1), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§55, 56, Nov. 2, 1966, 80 Stat. 1122, 1123; Pub. L. 90–168, §3, Dec. 1, 1967, 81 Stat. 525; Pub. L. 91–183, Dec. 30, 1969, 83 Stat. 840; Pub. L. 94–296, §1, May 29, 1976, 90 Stat. 584; Pub. L. 96–342, title VIII, §807(a), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 96–343, §5(a), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 97–60, title I, §121(a), Oct. 14, 1981, 95 Stat. 999; Pub. L. 98–94, title IX, §908(b), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title V, §533(g), title VI, §613(a), title XIV, §1402(c), Oct. 19, 1984, 98 Stat. 2528, 2539, 2621; Pub. L. 99–145, title VI, §612(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–500, §101(c) \[title IX, §9073\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–113, and Pub. L. 99–591, §101(c) \[title IX, §9073\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–113; Pub. L. 99–661, div. A, title VI, §614(a), title XIII, §1343(b)(2), Nov. 14, 1986, 100 Stat. 3879, 3995; Pub. L. 100–26, §8(a), (d)(6), Apr. 21, 1987, 101 Stat. 284, 285; Pub. L. 100–180, div. A, title VI, §617(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 101–189, div. A, title VI, §621(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title V, §503(a), Nov. 5, 1990, 104 Stat. 1558; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §624, Oct. 23, 1992, 106 Stat. 2423; Pub. L. 103–160, div. A, title V, §561(<i>l</i>)(1), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title VI, §§621, 622, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §621, Feb. 10, 1996, 110 Stat. 363; Pub. L. 104–201, div. A, title XII, §1252, Sept. 23, 1996, 110 Stat. 2698; Pub. L. 105–85, div. A, title VI, §602(b)(1), Nov. 18, 1997, 111 Stat. 1772; Pub. L. 105–261, div. A, title V, §561(f), Oct. 17, 1998, 112 Stat. 2025.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 472; Pub. L. 89–680, §1(1), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§55, 56, Nov. 2, 1966, 80 Stat. 1122, 1123; Pub. L. 90–168, §3, Dec. 1, 1967, 81 Stat. 525; Pub. L. 91–183, Dec. 30, 1969, 83 Stat. 840; Pub. L. 94–296, §1, May 29, 1976, 90 Stat. 584; Pub. L. 96–342, title VIII, §807(a), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 96–343, §5(a), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 97–60, title I, §121(a), Oct. 14, 1981, 95 Stat. 999; Pub. L. 98–94, title IX, §908(b), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title V, §533(g), title VI, §613(a), title XIV, §1402(c), Oct. 19, 1984, 98 Stat. 2528, 2539, 2621; Pub. L. 99–145, title VI, §612(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–500, §101(c) \[title IX, §9073\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–113, and Pub. L. 99–591, §101(c) \[title IX, §9073\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–113; Pub. L. 99–661, div. A, title VI, §614(a),title XIII, §1343(b)(2), Nov. 14, 1986, 100 Stat. 3879, 3995; Pub. L. 100–26, §8(a), (d)(6), Apr. 21, 1987, 101 Stat. 284, 285; Pub. L. 100–180, div. A, title VI, §617(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 101–189, div. A, title VI, §621(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title V, §503(a), Nov. 5, 1990, 104 Stat. 1558; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §624, Oct. 23, 1992, 106 Stat. 2423; Pub. L. 103–160, div. A, title V, §561(<i>l</i>)(1), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title VI, §§621, 622, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §621, Feb. 10, 1996, 110 Stat. 363; Pub. L. 104–201, div. A, title XII, §1252, Sept. 23, 1996, 110 Stat. 2698; Pub. L. 105–85, div. A, title VI, §602(b)(1), Nov. 18, 1997, 111 Stat. 1772; Pub. L. 105–261, div. A, title V, §561(f), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–65, div. A, title VI, §631, Oct. 5, 1999, 113 Stat. 661.)
 
 Historical and Revision Notes
 
@@ -191,6 +193,12 @@ Dec. 21, 1982, Pub. L. 97–377, title I, §101(c) \[title VII, §767\], 96 Stat
 Dec. 29, 1981, Pub. L. 97–114, title VII, §771, 95 Stat. 1590.
 
 #### Amendments
+
+1999—Subsec. (i)(1). Pub. L. 106–65, §631(a), inserted at end “If transient government housing is unavailable or inadequate, the Secretary concerned may provide the member with lodging in kind in the same manner as members entitled to such allowances under subsection (a).”
+
+Subsec. (i)(3). Pub. L. 106–65, §631(b), inserted “and expenses of providing lodging in kind under such paragraph” after “paragraph (1)” and “Use of Government charge cards is authorized for payment of these expenses.” at end.
+
+Subsec. (i)(4). Pub. L. 106–65, §631(c), added par. (4).
 
 1998—Subsecs. (c)(1)(C), (f)(2)(B)(v). Pub. L. 105–261 substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
@@ -334,7 +342,7 @@ Section 8(a) of Pub. L. 100–26, as amended by Pub. L. 100–180, div. A, title
 
 #### Transmission of Certification of Travel and Transportation Allowances to Congress With Respect to Fiscal Year 1987
 
-Section 615(b) of S. 2638, as passed by the Senate on Aug. 9, 1986, and as enacted into law by section 101(c) \[title IX, §9073\] of Pub. L. 99–500 and Pub. L. 99–591, related to transmission to Congress by Secretary of Defense of certification of costs of travel and transportation allowances for fiscal year 1987. See Terminationof Amendments by Public Laws 99–500 and 99–591 note above.
+Section 615(b) of S. 2638, as passed by the Senate on Aug. 9, 1986, and as enacted into law by section 101(c) \[title IX, §9073\] of Pub. L. 99–500 and Pub. L. 99–591, related to transmission to Congress by Secretary of Defense of certification of costs of travel and transportation allowances for fiscal year 1987. See Termination of Amendments by Public Laws 99–500 and 99–591 note above.
 
 #### Increase in Rate Per Mile for Mileage Allowance
 

@@ -8,7 +8,7 @@ For purposes of this Act:
 
 &emsp;(3) The term “sound professional judgment” means a finding, determination, or decision that is consistent with principles of sound fish and wildlife management and administration, available science and resources, and adherence to the requirements of this Act and other applicable laws.
 
-&emsp;(4) The terms “conserving”, “conservation”, “manage”, “managing”, and “management”, mean to sustain and, where appropriate, restore and enhance, healthy populations of fish, wildlife, and plants utilizing, in accordance with applicable Federal and State laws, methods and procedures associated with modern scientific resource programs. Such methods and procedures include, consistent with the provisions of this Act, protection, research, census, law enforcement, habitat management, propagation, live trapping and transplantation, and regulated taking.
+&emsp;(4) The terms “conserving”, “conservation”, “manage”, “managing”, and “management”, mean to sustain and, where appropriate, restore and enhance, healthy populations of fish, wildlife, and plants utilizing, in accordancewith applicable Federal and State laws, methods and procedures associated with modern scientific resource programs. Such methods and procedures include, consistent with the provisions of this Act, protection, research, census, law enforcement, habitat management, propagation, live trapping and transplantation, and regulated taking.
 
 &emsp;(5) The term “Coordination Area” means a wildlife management area that is made available to a State—
 
@@ -56,5 +56,5 @@ The Bankhead-Jones Farm Tenant Act, referred to in par. (5)(B), is act July 22, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 459j–4, 742f, 3125, 3212 of this title.
+This section is referred to in sections 459j–4, 742f, 3125, 3212 of this title; title 23 section 204.
 

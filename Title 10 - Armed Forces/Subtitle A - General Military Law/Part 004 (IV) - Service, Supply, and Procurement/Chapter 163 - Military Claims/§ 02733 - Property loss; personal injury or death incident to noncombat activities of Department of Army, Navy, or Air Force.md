@@ -22,7 +22,7 @@
 
 &emsp;(5) it is substantiated as prescribed in regulations of the Secretary concerned.
 
-> For the purposes of clause (1), the dates of the beginning and ending of an armed conflict arethe dates established by concurrent resolution of Congress or by a determination of the President.
+> For the purposes of clause (1), the dates of the beginning and ending of an armed conflict are the dates established by concurrent resolution of Congress or by a determination of the President.
 
 (c) Payment may not be made under this section for reimbursement for medical, hospital, or burial services furnished at the expense of the United States.
 

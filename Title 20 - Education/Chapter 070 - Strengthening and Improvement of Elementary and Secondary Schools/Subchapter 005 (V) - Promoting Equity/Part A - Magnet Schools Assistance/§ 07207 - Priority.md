@@ -8,7 +8,7 @@ In approving applications under this part, the Secretary shall give priority to 
 
 &emsp;(3) propose to select students to attend magnet school projects by methods such as lottery, rather than through academic examination;
 
-&emsp;(4) propose to implement innovative educational approaches that are consistent with the State's and local educational agency's approved systemic reform plans, if any, under title III of the Goals 2000: Educate America Act \[20 U.S.C. 5881 et seq.\]; and
+&emsp;(4) propose to implement innovative educational approaches that are consistent with the State's and local educational agency's approved systemic reform plans, if any, under title III <sup>1</sup> of the Goals 2000: Educate America Act; and
 
 &emsp;(5) propose to draw on comprehensive community involvement plans.
 
@@ -16,9 +16,11 @@ In approving applications under this part, the Secretary shall give priority to 
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in par. (4), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in par. (4), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act was classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title and was repealed by Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §310(i)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–265. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 7211 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

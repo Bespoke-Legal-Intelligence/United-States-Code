@@ -52,7 +52,7 @@ In subsection (b)(2), the words “amounts equal to amounts expended annually ou
 
 1996—Subsec. (a). Pub. L. 104–291 struck out “and” after “1995,” and inserted “, $42,400,00 for fiscal year 1997, $44,400,000 for fiscal year 1998, and $46,600,000 for fiscal year 1999.” before period at end of first sentence.
 
-1994—Subsec. (a). Pub. L. 103–411 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not more than $38,800,000 may be appropriated to the National Transportation Safety Board for the fiscal year ending September 30, 1993, to carry out this chapter.”
+1994—Subsec. (a). Pub. L. 103–411 reenacted heading without change and amended text generally. Prior toamendment, text read as follows: “Not more than $38,800,000 may be appropriated to the National Transportation Safety Board for the fiscal year ending September 30, 1993, to carry out this chapter.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

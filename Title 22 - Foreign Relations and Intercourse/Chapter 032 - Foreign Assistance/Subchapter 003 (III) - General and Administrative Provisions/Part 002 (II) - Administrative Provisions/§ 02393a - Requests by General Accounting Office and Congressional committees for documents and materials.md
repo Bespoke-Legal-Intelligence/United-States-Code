@@ -10,9 +10,13 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Codification
 
-This section was formerly classified to subsec. (c) of section 2394 of this title prior to the complete revision of section 2394 of this title by Pub. L. 95–424, title V, §502(a)(2), Oct. 6, 1978, 92 Stat. 957.
+This section was formerly classified to subsec. (c) of section 2394 of this title prior to the complete revisionof section 2394 of this title by Pub. L. 95–424, title V, §502(a)(2), Oct. 6, 1978, 92 Stat. 957.
 
 #### Effective Date
 
 Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as an Effective Date of 1978 Amendment note under section 2151 of this title.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

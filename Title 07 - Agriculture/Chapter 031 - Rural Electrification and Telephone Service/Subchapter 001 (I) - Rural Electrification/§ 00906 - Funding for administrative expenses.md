@@ -10,7 +10,7 @@ For the purpose of administering this chapter and for the purpose of making the 
 
 1994—Pub. L. 103–437 substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”.
 
-1975—Pub. L. 94–124 inserted requirement that the Secretary of Agriculture testify before the House Committee on Agriculture and the Senate Committee onAgriculture and Forestry each calendar year on or before February 15th or other date specified by the Committees to provide justification in detail of the amount requested in the budget to be appropriated for the next fiscal year.
+1975—Pub. L. 94–124 inserted requirement that the Secretary of Agriculture testify before the House Committee on Agriculture and the Senate Committee on Agriculture and Forestry each calendar year on or before February 15th or other date specified by the Committees to provide justification in detail of the amount requested in the budget to be appropriated for the next fiscal year.
 
 1949—Act Oct. 28, 1949, inserted “title I,” in credit of act May 20, 1936.
 

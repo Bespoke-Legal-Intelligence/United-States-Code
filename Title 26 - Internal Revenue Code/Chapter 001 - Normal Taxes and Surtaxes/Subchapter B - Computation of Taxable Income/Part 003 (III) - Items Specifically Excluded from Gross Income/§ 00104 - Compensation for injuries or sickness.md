@@ -98,7 +98,7 @@ Subsec. (a)(5). Pub. L. 94–455, §505(e)(1), added par. (5).
 
 Subsecs. (b), (c). Pub. L. 94–455, §505(b), added subsec. (b), redesignated former subsec. (b) as (c) and, as so redesignated, §1901(a)(18)(B), substituted “1403 of title 10, United States Code (relating to career compensation laws)” for “402(h) of the Career Compensation Act of 1949 (37 U.S.C. 272(h))”.
 
-1962—Subsec. (a). Pub. L. 87–792 inserted sentence requiring contributions made on behalf of an individual who is, or has been, an employee within the meaning of section 401(c)(1), while he was such an employee to a trust which is exempt from tax, or under a plan described in section 403(a), to be treated as contributions by the employer which were not includible in the gross income of the employee.
+1962—Subsec. (a). Pub. L. 87–792 inserted sentence requiring contributions made on behalf of an individualwho is, or has been, an employee within the meaning of section 401(c)(1), while he was such an employee to a trust which is exempt from tax, or under a plan described in section 403(a), to be treated as contributions by the employer which were not includible in the gross income of the employee.
 
 1960—Subsec. (a)(4). Pub. L. 86–723 provided for exclusion from gross income of amounts received as a disability annuity payable under the provisions of section 831 of the Foreign Service Act of 1946, as amended.
 

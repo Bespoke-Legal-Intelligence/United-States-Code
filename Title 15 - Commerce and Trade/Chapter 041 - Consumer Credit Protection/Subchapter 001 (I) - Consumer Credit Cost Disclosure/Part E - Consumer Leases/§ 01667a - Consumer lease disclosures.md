@@ -16,11 +16,11 @@ Each lessor shall give a lessee prior to the consummation of the lease a dated w
 
 &emsp;(7) A brief description of insurance provided or paid for by the lessor or required of the lessee, including the types and amounts of the coverages and costs;
 
-&emsp;(8) A description of any security interest held or to be retained by the lessor in connection with the lease and a clear identificationof the property to which the security interest relates;
+&emsp;(8) A description of any security interest held or to be retained by the lessor in connection with the lease and a clear identification of the property to which the security interest relates;
 
 &emsp;(9) The number, amount, and due dates or periods of payments under the lease and the total amount of such periodic payments;
 
-&emsp;(10) Where the lease provides that the lessee shall be liable for the anticipated fair market value of the property on expiration of the lease, the fair market value of the property at the inception of the lease, the aggregate cost of the lease on expiration, and the differential between them; and
+&emsp;(10) Where the lease provides that the lessee shall be liable for the anticipated fair market value of the property on expiration of the lease, the fair market value of the property atthe inception of the lease, the aggregate cost of the lease on expiration, and the differential between them; and
 
 &emsp;(11) A statement of the conditions under which the lessee or lessor may terminate the lease prior to the end of the term and the amount or method of determining any penalty or other charge for delinquency, default, late payments, or early termination.
 

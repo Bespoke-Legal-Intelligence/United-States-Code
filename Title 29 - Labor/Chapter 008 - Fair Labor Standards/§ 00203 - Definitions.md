@@ -122,9 +122,17 @@ As used in this chapter—
 
 (x) “Public agency” means the Government of the United States; the government of a State or political subdivision thereof; any agency of the United States (including the United States Postal Service and Postal Rate Commission), a State, or a political subdivision of a State; or any interstate governmental agency.
 
-(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63 Stat. 911; Pub. L. 87–30, §2, May 5, 1961, 75 Stat. 65; Pub. L. 89–601, title I, §§101–103, title II, §215(a), Sept. 23, 1966, 80 Stat. 830–832, 837; Pub. L. 92–318, title IX, §906(b)(2), (3), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(a), 13(e), Apr. 8, 1974, 88 Stat. 58, 64; Pub. L. 95–151, §§3(a), (b), 9(a)–(c), Nov. 1, 1977, 91 Stat. 1249, 1251; Pub. L. 99–150, §§4(a), 5, Nov. 13, 1985, 99 Stat. 790; Pub. L. 101–157, §§3(a), (d), 5, Nov. 17, 1989, 103 Stat. 938, 939, 941; Pub. L. 104–1, title II, §203(d), Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–188, \[title II\], §2105(b), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–221, §2, Aug. 7, 1998, 112 Stat. 1248.)
+(y) “Employee in fire protection activities” means an employee, including a firefighter, paramedic, emergency medical technician, rescue worker, ambulance personnel, or hazardous materials worker, who—
+
+&emsp;(1) is trained in fire suppression, has the legal authority and responsibility to engage in fire suppression, and is employed by a fire department of a municipality, county, fire district, or State; and
+
+&emsp;(2) is engaged in the prevention, control, and extinguishment of fires or response to emergency situations where life, property, or the environment is at risk.
+
+(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63 Stat. 911; Pub. L. 87–30, §2, May 5, 1961, 75 Stat. 65; Pub. L. 89–601, title I, §§101–103, title II, §215(a), Sept. 23, 1966, 80 Stat. 830–832, 837; Pub. L. 92–318, title IX, §906(b)(2), (3), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(a), 13(e), Apr. 8, 1974, 88 Stat. 58, 64; Pub. L. 95–151, §§3(a), (b), 9(a)–(c), Nov. 1, 1977, 91 Stat. 1249, 1251; Pub. L. 99–150, §§4(a), 5, Nov. 13, 1985, 99 Stat. 790; Pub. L. 101–157, §§3(a), (d), 5, Nov. 17, 1989, 103 Stat. 938, 939, 941; Pub. L. 104–1, title II, §203(d), Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–188, \[title II\], §2105(b), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–221, §2, Aug. 7, 1998, 112 Stat. 1248; Pub. L. 106–151, §1, Dec. 9, 1999, 113 Stat. 1731.)
 
 #### Amendments
+
+1999—Subsec. (y). Pub. L. 106–151 added subsec. (y).
 
 1998—Subsec. (e)(5). Pub. L. 105–221 added par. (5).
 
@@ -206,6 +214,10 @@ Subsec. (<i>l</i>)(1). Act Oct. 26, 1949, §3(c), included parental employment o
 
 Subsecs. (n), (<i>o</i>). Act Oct. 26, 1949, §3(d), added subsecs. (n) and (<i>o</i>).
 
+#### Construction of 1999 Amendment
+
+Pub. L. 106–151, §2, Dec. 9, 1999, 113 Stat. 1731, provided that: “The amendment made by section 1 \[amending this section\] shall not be construed to reduce or substitute for compensation standards: (1) contained in any existing or future agreement or memorandum of understanding reached through collective bargaining by a bona fide representative of employees in accordance with the laws of a State or political subdivision of a State; and (2) which result in compensation greater than the compensation available to employees under the overtime exemption under section 7(k) of the Fair Labor Standards Act of 1938 \[29 U.S.C. 207(k)\].”
+
 #### Effective Date of 1989 Amendment
 
 Section 3(e) of Pub. L. 101–157 provided that: “The amendments made by this section \[amending this section and section 213 of this title\] shall become effective on April 1, 1990.”
@@ -228,7 +240,7 @@ Section 15(a), (b) of Pub. L. 95–151 provided that:
 
 “(a) Except as provided in sections 3, 14, and subsection (b) of this section, the amendments made by this Act \[amending sections 206, 208, 213, and 216 of this title and enacting provisions set out as a note under section 204 of this title\] shall take effect January 1, 1978.
 
-“(b) The amendments made by sections 8, 9, 11, 12, and 13 \[amending this section and sections 213 and 214of this title\] shall take effect on the date of the enactment of this Act \[Nov. 1, 1977\].”
+“(b) The amendments made by sections 8, 9, 11, 12, and 13 \[amending this section and sections 213 and 214 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 1, 1977\].”
 
 #### Effective Date of 1974 Amendment
 

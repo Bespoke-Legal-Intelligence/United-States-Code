@@ -1,8 +1,26 @@
 ### §4006. Subsistence for prisoners
 
-The Attorney General shall allow and pay only the reasonable and actual cost of the subsistence of prisoners in the custody of any marshalof the United States, and shall prescribe such regulations for the government of the marshals as will enable him to determine the actual and reasonable expenses incurred.
+(a)
 
-(June 25, 1948, ch. 645, 62 Stat. 848.)
+In General.—The Attorney General shall allow and pay only the reasonable and actual cost of the subsistence of prisoners in the custody of any marshal of the United States, and shall prescribe such regulations for the government of the marshals as will enable him to determine the actual and reasonable expenses incurred.
+
+(b)
+
+Health Care Items and Services.—
+
+&emsp;(1)
+
+In general.—Payment for costs incurred for the provision of health care items and services for individuals in the custody of the United States Marshals Service and the Immigration and Naturalization Service shall not exceed the lesser of the amount that would be paid for the provision of similar health care items and services under—
+
+&emsp;&emsp;(A) the Medicare program under title XVIII of the Social Security Act; or
+
+&emsp;&emsp;(B) the Medicaid program under title XIX of such Act of the State in which the services were provided.
+
+&emsp;(2)
+
+Full and final payment.—Any payment for a health care item or service made pursuant to this subsection, shall be deemed to be full and final payment.
+
+(June 25, 1948, ch. 645, 62 Stat. 848; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §114\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20.)
 
 #### Historical and Revision Notes
 
@@ -11,6 +29,14 @@ Based on title 18, U.S.C., 1940 ed., §703 (R.S. §5545; Mar. 2, 1911, ch. 192, 
 The provisions relating to the Washington Asylum and Jail are now included in the District of Columbia Code. (See D.C. Code, 1940 ed., §24–421.)
 
 Changes of phraseology were made.
+
+#### References in Text
+
+The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+#### Amendments
+
+1999—Pub. L. 106–113 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Section Referred to in Other Sections
 

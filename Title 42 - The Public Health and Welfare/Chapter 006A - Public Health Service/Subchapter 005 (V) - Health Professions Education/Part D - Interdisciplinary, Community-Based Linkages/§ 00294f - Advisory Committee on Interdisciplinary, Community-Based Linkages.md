@@ -34,7 +34,7 @@ The Secretary shall establish an advisory committee to be known as the Advisory 
 
 #### (A) In general
 
-&emsp;&emsp;A vacancy on the Advisory Committee shall be filled in the manner in which the original appointment was made and shall besubject to any conditions which applied with respect to the original appointment.
+&emsp;&emsp;A vacancy on the Advisory Committee shall be filled in the manner in which the original appointment was made and shall be subject to any conditions which applied with respect to the original appointment.
 
 #### (B) Filling unexpired term
 
@@ -56,7 +56,7 @@ The Advisory Committee shall—
 
 #### (2) Documents
 
-&emsp;Not later than 14 days prior to the convening of a meeting under paragraph (1), the Advisory Committee shall prepare and make available an agenda of the matters to be considered by the Advisory Committee at such meeting. At any such meeting, the Advisory Council <sup>1</sup> shall distribute materials with respect to the issues to be addressed at the meeting. Not later than 30 days after the adjourning of such a meeting, the Advisory Committee shall prepare and make available a summary of the meeting and any actions taken by the Committee based upon the meeting.
+&emsp;Not later than 14 days prior to the convening of a meeting under paragraph (1), the AdvisoryCommittee shall prepare and make available an agenda of the matters to be considered by the Advisory Committee at such meeting. At any such meeting, the Advisory Council <sup>1</sup> shall distribute materials with respect to the issues to be addressed at the meeting. Not later than 30 days after the adjourning of such a meeting, the Advisory Committee shall prepare and make available a summary of the meeting and any actions taken by the Committee based upon the meeting.
 
 #### (f) Compensation and expenses
 
@@ -80,7 +80,7 @@ The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–
 
 #### Codification
 
-November 13, 1998, referred to in subsec. (b)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 105–329, which amended this part generally, to reflect the probable intent of Congress.
+November 13, 1998, referred to in subsec. (b)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 105–392, which amended this part generally, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 

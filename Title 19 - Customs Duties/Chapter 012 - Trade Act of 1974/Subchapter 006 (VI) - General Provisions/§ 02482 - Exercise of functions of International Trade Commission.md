@@ -10,7 +10,7 @@ In performing its functions under this chapter, the Commission may exercise any 
 
 #### (c) Gathering of current information
 
-The Commission shall at all times keep informed concerning the operation and effect of provisions relating to duties or other import restrictions of the United States contained in trade agreements entered into under the trade agreements program.
+The Commission shall at all times keep informed concerning the operation and effect ofprovisions relating to duties or other import restrictions of the United States contained in trade agreements entered into under the trade agreements program.
 
 (Pub. L. 93–618, title VI, §603, Jan. 3, 1975, 88 Stat. 2073.)
 

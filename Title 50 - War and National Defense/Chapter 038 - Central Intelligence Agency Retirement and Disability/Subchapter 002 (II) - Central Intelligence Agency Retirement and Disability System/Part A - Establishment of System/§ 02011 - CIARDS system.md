@@ -16,7 +16,7 @@ The Director shall administer the system in accordance with regulations prescrib
 
 #### (c) Finality of decisions of DCI
 
-In the interests of the security of the foreign intelligence activities of the United States and in order further to implement paragraph (6) of section 403–3(c) of this title that the Director of Central Intelligence shall be responsible for protecting intelligence sources and methods from unauthorized disclosure, and notwithstandingthe provisions of chapter 7 of title 5 or any other provision of law (except section 2155(b) of this title), any determination by the Director authorized by this chapter shall be final and conclusive and shall not be subject to review by any court.
+In the interests of the security of the foreign intelligence activities of the United States and in order further to implement paragraph (6) of section 403–3(c) of this title that the Director of Central Intelligence shall be responsible for protecting intelligence sources and methods from unauthorized disclosure, and notwithstanding the provisions of chapter 7 of title 5 or any other provision of law (except section 2155(b) of this title), any determination by the Director authorized by this chapter shall be final and conclusive and shall not be subject to review by any court.
 
 (Pub. L. 88–643, title II, §201, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3201; amended Pub. L. 103–178, title II, §202(a)(2), Dec. 3, 1993, 107 Stat. 2026; Pub. L. 105–272, title IV, §403(b), Oct. 20, 1998, 112 Stat. 2404.)
 

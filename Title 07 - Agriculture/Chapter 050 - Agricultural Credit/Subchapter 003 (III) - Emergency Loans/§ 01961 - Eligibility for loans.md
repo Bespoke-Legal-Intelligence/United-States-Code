@@ -8,7 +8,7 @@ The Secretary shall make and insure loans under this subchapter only to the exte
 
 #### (1) In general
 
-&emsp;After the Secretary makes the determination required by paragraph (2), the Secretarymay not make a loan to a farmer or rancher under this subchapter to cover a property loss unless the farmer or rancher had hazard insurance that insured the property at the time of the loss.
+&emsp;After the Secretary makes the determination required by paragraph (2), the Secretary may not make a loan to a farmer or rancher under this subchapter to cover a property loss unless the farmer or rancher had hazard insurance that insured the property at the time of the loss.
 
 #### (2) Determination
 
@@ -26,7 +26,7 @@ For the purposes of this subchapter—
 
 &emsp;(2) “able to obtain sufficient credit elsewhere” means able to obtain sufficient credit elsewhere to finance the applicant's actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time.
 
-(Pub. L. 87–128, title III, §321, Aug. 8, 1961, 75 Stat. 311; Pub. L. 87–832, Oct. 15, 1962, 76 Stat. 958; Pub. L. 93–24, §§2, 3, 6, Apr. 20, 1973, 87 Stat. 24, 25; Pub. L. 93–237, §10(a), (d), Jan. 2, 1974, 87 Stat. 1025; Pub. L. 94–68, §§2, 3, Aug. 5, 1975, 89 Stat. 381; Pub. L. 95–334, title I, §118, Aug. 4, 1978, 92 Stat. 426; Pub. L. 96–302, title I, §120(a), July 2, 1980, 94 Stat. 841; Pub. L. 96–438, §3(a), (b)(1), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 97–35, title I, §161, Aug. 13, 1981, 95 Stat. 378; Pub. L. 98–258, title VI, §602(a), Apr. 10, 1984, 98 Stat. 138; Pub. L. 99–198, title XIII, §1308(a), (b)(1), Dec. 23, 1985, 99 Stat. 1522; Pub. L. 100–707, title I, §109(c)(1), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 104–127, title VI, §621(a), Apr. 4, 1996, 110 Stat. 1091.)
+(Pub. L. 87–128, title III, §321, Aug. 8, 1961, 75 Stat. 311; Pub. L. 87–832, Oct. 15, 1962, 76 Stat. 958; Pub. L. 93–24, §§2, 3, 6, Apr. 20, 1973, 87 Stat. 24, 25; Pub. L. 93–237, §10(a), (d), Jan. 2, 1974, 87 Stat. 1025; Pub. L. 94–68, §§2, 3, Aug. 5, 1975, 89 Stat. 381; Pub. L. 95–334, title I, §118, Aug. 4, 1978, 92 Stat. 426; Pub. L. 96–302, title I, §120(a), July 2, 1980, 94 Stat. 841; Pub. L. 96–438, §3(a), (b)(1),Oct. 13, 1980, 94 Stat. 1872; Pub. L. 97–35, title I, §161, Aug. 13, 1981, 95 Stat. 378; Pub. L. 98–258, title VI, §602(a), Apr. 10, 1984, 98 Stat. 138; Pub. L. 99–198, title XIII, §1308(a), (b)(1), Dec. 23, 1985, 99 Stat. 1522; Pub. L. 100–707, title I, §109(c)(1), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 104–127, title VI, §621(a), Apr. 4, 1996, 110 Stat. 1091.)
 
 #### References in Text
 
@@ -52,7 +52,7 @@ Pub. L. 96–302, §120(a) (see par. above), struck out from proviso requirement
 
 Subsecs. (b) to (d). Pub. L. 96–438, §3(b)(1), added subsecs. (b) to (d).
 
-1978—Pub. L. 95–334 struck out subsec. (a) which set forth provisions relating to designation of emergency areas and definition of term “aquaculture”, and incorporated provisions of subsec. (b) as entire section and,as so incorporated, substituted provisions relating to criteria authorizing the Secretary to make and insure loans, for provisions relating to criteria authorizing the Secretary to make loans in designated areas.
+1978—Pub. L. 95–334 struck out subsec. (a) which set forth provisions relating to designation of emergency areas and definition of term “aquaculture”, and incorporated provisions of subsec. (b) as entire section and, as so incorporated, substituted provisions relating to criteria authorizing the Secretary to make and insure loans, for provisions relating to criteria authorizing the Secretary to make loans in designated areas.
 
 1975—Subsec. (a). Pub. L. 94–68, §2, substituted provisions authorizing the Secretary to designate an emergency area if he finds that a natural disaster has occurred in that area which substantially affected farming, ranching, or aquaculture operations for provisions authorizing the Secretary to designate an emergency area if he finds that there exists in that area a general need for agricultural credit and that the need for such credit in that area is the result of a natural disaster, and inserted definition of “aquaculture”.
 
@@ -108,7 +108,7 @@ Pub. L. 100–387, title III, §311, Aug. 11, 1988, 102 Stat. 948.
 
 #### Ninety-Day Extension After January 2, 1974, of Deadline for Seeking Assistance With Regard to Disasters Occurring on or After December 27, 1972
 
-Section 10(c) of Pub. L. 93–237 provided that: “With regard to all disasters occurring on or after December 27, 1972, the Secretary of Agriculture shall extend for ninety days after the date of enactment of this section\[Jan. 2, 1974\] the deadline for seeking assistance under section 321 of the Consolidated Farm and Rural Development Act \[this section\] as amended by this section \[amending this section\].”
+Section 10(c) of Pub. L. 93–237 provided that: “With regard to all disasters occurring on or after December 27, 1972, the Secretary of Agriculture shall extend for ninety days after the date of enactment of this section \[Jan. 2, 1974\] the deadline for seeking assistance under section 321 of the Consolidated Farm and Rural Development Act \[this section\] as amended by this section \[amending this section\].”
 
 #### Section Referred to in Other Sections
 

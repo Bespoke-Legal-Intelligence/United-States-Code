@@ -338,7 +338,7 @@ Transitional rules.—For purposes of sections 265(b) and 291(e)(1)(B) of the In
 
 “(4)
 
-Additional transitional rule.—Obligations issued pursuant to an allocation of a State's volume limitation for private activity bonds, which allocation was made by Executive Order 25 signed by the Governor ofthe State on May 22, 1986 (as such order may be amended before January 1, 1987), and qualified 501(c)(3) bonds designated by such Governor for purposes of this paragraph, shall be treated as acquired on or before August 7, 1986, in the hands of the first and any subsequent financial institution acquiring such obligation. The aggregate face amount of obligations to which this paragraph applies shall not exceed $200,000,000.”
+Additional transitional rule.—Obligations issued pursuant to an allocation of a State's volume limitation for private activity bonds, which allocation was made by Executive Order 25 signed by the Governor of the State on May 22, 1986 (as such order may be amended before January 1, 1987), and qualified 501(c)(3) bonds designated by such Governor for purposes of this paragraph, shall be treated as acquired on or before August 7, 1986, in the hands of the first and any subsequent financial institution acquiring such obligation. The aggregate face amount of obligations to which this paragraph applies shall not exceed $200,000,000.”
 
 #### Effective Date of 1984 Amendment
 
@@ -378,7 +378,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Clarification of Treatment of Amounts Excluded Under Section 597
 
-Section 904(c)(2)(B) of Pub. L. 99–514 provided that this section shall not deny any deduction by reason of such deduction being allocable to amounts excluded from gross income under section 597 of this title as in effect on Oct. 21, 1986, prior to repeal by Pub. L. 101–73, title XIV, §1401(a)(3)(B), Aug. 9, 1989, 103 Stat. 549.
+Section 904(c)(2)(B) of Pub. L. 99–514 provided that this section shall not deny any deduction by reason ofsuch deduction being allocable to amounts excluded from gross income under section 597 of this title as in effect on Oct. 21, 1986, prior to repeal by Pub. L. 101–73, title XIV, §1401(a)(3)(B), Aug. 9, 1989, 103 Stat. 549.
 
 #### Cross References
 

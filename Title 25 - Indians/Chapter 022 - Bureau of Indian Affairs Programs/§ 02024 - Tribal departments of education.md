@@ -14,7 +14,7 @@ Grants provided under this section shall—
 
 &emsp;(3) facilitate tribal control in all matters relating to the education of Indian children on Indian reservations and on former Indian reservations in Oklahoma,
 
-&emsp;(4) provide for the development of coordinated educational programs on Indian reservations (including all preschool, elementary, secondary, and higher or vocational educational programs funded by tribal, Federal, or other sources) by encouraging tribal administrative support of all Bureau funded educational programs as well as encouraging tribal cooperation and coordination with all educational programs receiving financial support fromState agencies, other Federal agencies, or private entities,
+&emsp;(4) provide for the development of coordinated educational programs on Indian reservations (including all preschool, elementary, secondary, and higher or vocational educational programs funded by tribal, Federal, or other sources) by encouraging tribal administrative support of all Bureau funded educational programs as well as encouraging tribal cooperation and coordination with all educational programs receiving financial support from State agencies, other Federal agencies, or private entities,
 
 &emsp;(5) provide for the development and enforcement of tribal educational codes, including tribal educational policies and tribal standards applicable to curriculum, personnel, students, facilities, and support programs, and
 

@@ -164,9 +164,11 @@ Functions vested in President by subsec. (k) of this section delegated to Secret
 
 #### Minimum Selling Price of United States Share of Petroleum
 
-Pub. L. 105–277, div. A, §101(e) \[title II\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–276, provided in part: “That the requirements of 10 U.S.C. 7430(b)(2)(B) shall not apply to fiscal year 1999”.
+Pub. L. 106–113, div. B, §1000(a)(3) \[title II\], Nov. 29, 1999, 113 Stat. 1535, 1501A–179, provided in part that: “The requirements of 10 U.S.C. 7430(b)(2)(B) shall not apply to fiscal year 2000”.
 
 Similar provisions were contained in the following appropriation and authorization acts:
+
+Pub. L. 105–277, div. A, §101(e) \[title II\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–276.
 
 Pub. L. 105–85, div. C, title XXXIV, §3402, Nov. 18, 1997, 111 Stat. 2059.
 

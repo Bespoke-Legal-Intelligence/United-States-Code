@@ -36,7 +36,7 @@
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary.
 
-(July 1, 1944, ch. 373, title XXIII, §2314, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102Stat. 3069; amended Pub. L. 103–43, title XX, §2008(d)(3), June 10, 1993, 107 Stat. 212.)
+(July 1, 1944, ch. 373, title XXIII, §2314, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3069; amended Pub. L. 103–43, title XX, §2008(d)(3), June 10, 1993, 107 Stat. 212.)
 
 #### Prior Provisions
 

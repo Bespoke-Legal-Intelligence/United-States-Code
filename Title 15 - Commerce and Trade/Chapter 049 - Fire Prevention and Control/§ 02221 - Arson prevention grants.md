@@ -68,7 +68,7 @@ In order to qualify for a grant under this section, a State, or consortium of St
 
 #### (f) Extension
 
-A grant awarded under this section may be extended for one or more additional periods, at the discretion of the Administrator, subject to the availability of appropriations.
+A grant awarded under this section may be extended for one or more additional periods, at thediscretion of the Administrator, subject to the availability of appropriations.
 
 #### (g) Technical assistance
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(F) an analysis of the relationship of the proposed State efforts to the national drug control strategy; and
 
-&emsp;&emsp;(G) a plan for coordinating the programs to be funded under this subchapter with other federally funded programs, including State and local drug abuse education, treatment, and prevention programs.
+&emsp;&emsp;(G) a plan for coordinating the programs to be funded under this subchapter withother federally funded programs, including State and local drug abuse education, treatment, and prevention programs.
 
 &emsp;(2) A certification that Federal funds made available under the formula grant of this part will not be used to supplant State or local funds, but will be used to increase the amounts of such funds that would, in the absence of Federal funds, be made available for law enforcement activities.
 
@@ -30,7 +30,7 @@
 
 &emsp;(7) A provision for fund accounting, auditing, monitoring, and such evaluation procedures as may be necessary to keep such records that the Bureau shall prescribe to assure fiscal control, proper management, and efficient disbursement of funds reviewed under this section.
 
-&emsp;(8) An assurance that the applicant shall maintain such data and information and submit such reports in such form, at such times,and containing such data and information as the Bureau may reasonably require to administer other provisions of this part.
+&emsp;(8) An assurance that the applicant shall maintain such data and information and submit such reports in such form, at such times, and containing such data and information as the Bureau may reasonably require to administer other provisions of this part.
 
 &emsp;(9) A certification that its programs meet all the requirements of this section, that all the information contained in the application is correct, that there has been appropriate coordination with affected agencies, and that the applicant will comply with all provisions of this part and all other applicable Federal laws. Such certification shall be made in a form acceptable to the Bureau and shall be executed by the chief executive or such other officer of the applicant qualified under regulations promulgated by the Office.
 
@@ -81,6 +81,10 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 #### Effective Date of 1990 Amendment
 
 Section 507(b) of Pub. L. 101–649 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to grants for fiscal years beginning with fiscal year 1991.”
+
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
 
 #### Section Referred to in Other Sections
 

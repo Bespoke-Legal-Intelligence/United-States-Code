@@ -18,7 +18,7 @@
 
 (2) The results of the background check shall be communicated to the employing agency.
 
-(3) An agency or facility described in subsection (a)(1) of this section may hire a staff person provisionally prior to the completion of a background check if, at all times prior to receipt of the background check during which children are in the care of the person, the person is within the sight and under the supervision of a staff person with respect to whom a background check has been completed.
+(3) An agency or facility described in subsection (a)(1) of this section may hire a staff person provisionally prior to the completion of a background check if, at all times prior to receipt of the background check during whichchildren are in the care of the person, the person is within the sight and under the supervision of a staff person with respect to whom a background check has been completed.
 
 #### (c) Applicable criminal histories
 
@@ -28,7 +28,7 @@ Any conviction for a sex crime, an offense involving a child victim, or a drug f
 
 (1) Employment applications for individuals who are seeking work for an agency of the Federal Government, or for a facility or program operated by (or through contract with) the Federal Government, in any of the positions listed in subsection (a)(1) of this section, shall contain a question asking whether the individual has ever been arrested for or charged with a crime involving a child, and if so requiring a description of the disposition of the arrest or charge. An application shall state that it is being signed under penalty of perjury, with the applicable Federal punishment for perjury stated on the application.
 
-(2) A Federal agency seeking a criminal history record check shall first obtain the signature of the employee or prospective employeeindicating that the employee or prospective employee has been notified of the employer's obligation to require a record check as a condition of employment and the employee's right to obtain a copy of the criminal history report made available to the employing Federal agency and the right to challenge the accuracy and completeness of any information contained in the report.
+(2) A Federal agency seeking a criminal history record check shall first obtain the signature of the employee or prospective employee indicating that the employee or prospective employee has been notified of the employer's obligation to require a record check as a condition of employment and the employee's right to obtain a copy of the criminal history report made available to the employing Federal agency and the right to challenge the accuracy and completeness of any information contained in the report.
 
 #### (e) Encouragement of voluntary criminal history checks for others who may have contact with children
 

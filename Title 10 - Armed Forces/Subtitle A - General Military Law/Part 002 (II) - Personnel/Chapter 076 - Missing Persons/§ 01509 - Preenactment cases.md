@@ -2,13 +2,13 @@
 
 (a)
 
-Review of Status.—(1) If new information (as defined in paragraph (2)) is found or receivedthat may be related to one or more unaccounted for persons described in subsection (b) (whether or not such information specifically relates (or may specifically relate) to any particular such unaccounted for person), that information shall be provided to the Secretary of Defense. Upon receipt of such information, the Secretary shall ensure that the information is treated under paragraphs (2) and (3) of section 1505(c) of this title and under section 1505(d) of this title in the same manner as information received under paragraph (1) of section 1505(c) of this title. For purposes of the applicability of other provisions of this chapter in such a case, each such unaccounted for person to whom the new information may be related shall be considered to be a missing person.
+Review of Status.—(1) If new information (as defined in paragraph (2)) is found or received that may be related to one or more unaccounted for persons described in subsection (b) (whether or not such information specifically relates (or may specifically relate) to any particular such unaccounted for person), that information shall be provided to the Secretary of Defense. Upon receipt of such information, the Secretary shall ensure that the information is treated under paragraphs (2) and (3) of section 1505(c) of this title and under section 1505(d) of this title in the same manner as information received under paragraph (1) of section 1505(c) of this title. For purposes of the applicability of other provisions of this chapter in such a case, each such unaccounted for person to whom the new information may be related shall be considered to be a missing person.
 
 (2) For purposes of this subsection, new information is information that is credible and that—
 
-&emsp;(A) is found or received after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998 by a United States intelligence agency, by a Department of Defense agency, or by a person specified in section 1504(g) of this title; or
+&emsp;(A) is found or received after November 18, 1997, by a United States intelligence agency, by a Department of Defense agency, or by a person specified in section 1504(g) of this title; or
 
-&emsp;(B) is identified after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998 in records of the United States as information that could be relevant to the case of one or more unaccounted for persons described in subsection (b).
+&emsp;(B) is identified after November 18, 1997, in records of the United States as information that could be relevant to the case of one or more unaccounted for persons described in subsection (b).
 
 (b)
 
@@ -34,13 +34,11 @@ Definitions.—In this section:
 
 Establishment of Personnel Files for Korean Conflict Cases.—The Secretary of Defense shall ensure that a personnel file is established for each unaccounted for person who is described in subsection (b)(1) if the Secretary possesses information relevant to that person's status. In the case of a person described in subsection (b)(1) for whom a personnel file does not exist, the Secretary shall create a personnel file for such person upon receipt of new information as provided in subsection (a). Each such file shall be handled in accordance with, and subject to the provisions of, section 1506 of this title in the same manner as applies to the file of a missing person.
 
-(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 348; amended Pub. L. 104–201, div. A, title V, §578(f)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title V, §599(e), Nov. 18, 1997, 111 Stat. 1769.)
-
-#### References in Text
-
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 348; amended Pub. L. 104–201, div. A, title V, §578(f)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title V, §599(e), Nov. 18, 1997, 111 Stat. 1769; Pub. L. 106–65, div. A, title X, §1066(a)(14), Oct. 5, 1999, 113 Stat. 771.)
 
 #### Amendments
+
+1999—Subsec. (a)(2)(A), (B). Pub. L. 106–65 substituted “November 18, 1997,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998”.
 
 1997—Subsec. (a). Pub. L. 105–85, §599(e)(1), added subsec. (a) and struck out former subsec. (a) which read as follows:
 

@@ -6,7 +6,7 @@ Not later than 30 months after August 6, 1996, and in cooperation with the State
 
 #### (b) State programs
 
-Beginning 2 years after the date on which the Administrator publishes guidelines under subsection (a) of this section, the Administrator shall withhold 20 percent of the funds a State is otherwise entitled to receive under section 300j–12 of this title unless the State has adopted and is implementing a program for the certification of operators of community and nontransient noncommunity public water systems that meets the requirements of the guidelines published pursuant to subsection (a) of this sectionor that has been submitted in compliance with subsection (c) of this section and that has not been disapproved.
+Beginning 2 years after the date on which the Administrator publishes guidelines under subsection (a) of this section, the Administrator shall withhold 20 percent of the funds a State is otherwise entitled to receive under section 300j–12 of this title unless the State has adopted and is implementing a program for the certification of operators of community and nontransient noncommunity public water systems that meets the requirements of the guidelines published pursuant to subsection (a) of this section or that has been submitted in compliance with subsection (c) of this section and that has not been disapproved.
 
 #### (c) Existing programs
 
@@ -20,7 +20,7 @@ For any State exercising primary enforcement responsibility for public water sys
 
 #### (2) State grants
 
-&emsp;The reimbursement shall be provided through grants to States with each State receiving an amount sufficient to cover the reasonable costs for training all such operators in the State, as determined by the Administrator, to the extent required by this section. Grants received by a State pursuant to this paragraph shall first be used to provide reimbursement for training and certification costs of persons operating systems serving 3,300 persons or fewer. If a State has reimbursed all such costs, the State may, after notice to the Administrator, use any remaining funds from the grant for any of the other purposes authorized for grants under section 300j–12 of this title.
+&emsp;The reimbursement shall be provided through grants to States with each State receiving an amount sufficient to cover the reasonable costs for training all such operators in the State, as determined by the Administrator, to the extent required by this section.Grants received by a State pursuant to this paragraph shall first be used to provide reimbursement for training and certification costs of persons operating systems serving 3,300 persons or fewer. If a State has reimbursed all such costs, the State may, after notice to the Administrator, use any remaining funds from the grant for any of the other purposes authorized for grants under section 300j–12 of this title.
 
 #### (3) Authorization
 

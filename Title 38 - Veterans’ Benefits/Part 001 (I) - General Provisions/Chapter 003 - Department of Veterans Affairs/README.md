@@ -48,7 +48,7 @@ Section 215, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1115; Pub. L. 99–576, t
 
 Section 216, added Pub. L. 100–322, title I, §132(a), May 20, 1988, 102 Stat. 506; amended Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239, related to assistance to certain rehabilitation activities. See section 521 of this title.
 
-Another prior section 216, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1116; Pub. L. 87–572, Aug. 6, 1962, 76 Stat. 307; Pub. L. 88–433, §1(a)–(c), Aug. 14, 1964, 78 Stat. 441, 442; Pub. L. 89–705, §1, Nov. 2, 1966, 80 Stat. 1099, which directed Administrator to conduct research in field of prosthetic appliances, prosthesis, orthopedic appliances, and sensory devices, was repealed by Pub. L. 94–581, title II, §205(c)(1), Oct. 21, 1976, 90 Stat. 2859. See section 7303 of this title.
+Another prior section 216, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1116; Pub. L. 87–572, Aug. 6, 1962, 76 Stat. 307; Pub. L. 88–433, §1(a)–(c), Aug. 14, 1964, 78 Stat. 441, 442; Pub. L. 89–705, §1, Nov. 2, 1966, 80 Stat. 1099, which directed Administrator to conduct research in field of prosthetic appliances, prosthesis, orthopedic appliances, and sensory devices, was repealed by Pub. L.94–581, title II, §205(c)(1), Oct. 21, 1976, 90 Stat. 2859. See section 7303 of this title.
 
 Section 217, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1116; Pub. L. 99–576, title VII, §701(10), Oct. 28, 1986, 100 Stat. 3291, related to studies of rehabilitation of disabled persons. See section 522 of this title.
 
@@ -76,7 +76,7 @@ Section 233, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1116; Pub. L. 87–574, �
 
 Section 234, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1117; Pub. L. 93–82, title IV, §402(a), (c), Aug. 2, 1973, 87 Stat. 196, related to telephone service for medical officers and facility directors. See section 705 of this title.
 
-Section 235, added Pub. L. 86–116, §1, July 28, 1959, 73 Stat. 265; amended Pub. L. 87–815, §6, Oct. 15, 1962, 76 Stat. 927; Pub. L. 89–300, §1(c), Oct. 28, 1965, 79 Stat.1110; Pub. L. 96–22, title V, §503(b), (c)(1), June 13, 1979, 93 Stat. 65; Pub. L. 96–465, title II, §2206(g), Oct. 17, 1980, 94 Stat. 2163; Pub. L. 99–576, title VII, §§701(15), 702(3), Oct. 28, 1986, 100 Stat. 3291, 3301, related to benefits to employees at overseas offices who are United States citizens. See section 707 of this title.
+Section 235, added Pub. L. 86–116, §1, July 28, 1959, 73 Stat. 265; amended Pub. L. 87–815, §6, Oct. 15, 1962, 76 Stat. 927; Pub. L. 89–300, §1(c), Oct. 28, 1965, 79 Stat. 1110; Pub. L. 96–22, title V, §503(b), (c)(1), June 13, 1979, 93 Stat. 65; Pub. L. 96–465, title II, §2206(g), Oct. 17, 1980, 94 Stat. 2163; Pub. L. 99–576, title VII, §§701(15), 702(3), Oct. 28, 1986, 100 Stat. 3291, 3301, related to benefits to employees at overseas offices who are United States citizens. See section 707 of this title.
 
 Section 236, added Pub. L. 89–300, §1(a), Oct. 28, 1965, 79 Stat. 1110; amended Pub. L. 99–576, title VII, §701(16), Oct. 28, 1986, 100 Stat. 3292, related to administrative settlement of tort claims arising in foreign countries. See section 515 of this title.
 

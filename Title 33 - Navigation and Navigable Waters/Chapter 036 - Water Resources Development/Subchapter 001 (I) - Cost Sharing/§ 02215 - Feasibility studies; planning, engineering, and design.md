@@ -36,7 +36,7 @@
 
 #### (E) In-kind contributions
 
-&emsp;&emsp;Not more than 1/2 of the non-Federal share required under this paragraph may be satisfied by the provision of services, materials,supplies, or other in-kind services necessary to prepare the feasibility report.
+&emsp;&emsp;Not more than 1/2 of the non-Federal share required under this paragraph may be satisfied by the provision of services, materials, supplies, or other in-kind services necessary to prepare the feasibility report.
 
 #### (2) Applicability
 
@@ -74,5 +74,5 @@ Section 203(c) of Pub. L. 104–303 provided that: “Nothing in this section \[
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2282 of this title.
+This section is referred to in sections 2282, 2332 of this title.
 

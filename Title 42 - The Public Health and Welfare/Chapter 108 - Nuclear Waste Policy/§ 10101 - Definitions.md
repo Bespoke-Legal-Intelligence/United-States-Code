@@ -26,7 +26,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(G) defense research and development.
 
-&emsp;(4) The term “candidate site” means an area, within a geologic and hydrologic system, that is recommended by the Secretary under section 10132 of this title for site characterization, approved by the President under section 10132 of this title for site characterization, or undergoing site characterization under section 10133 of this title.
+&emsp;(4) The term “candidate site” means an area, within a geologic and hydrologic system, that is recommended by the Secretary undersection 10132 of this title for site characterization, approved by the President under section 10132 of this title for site characterization, or undergoing site characterization under section 10133 of this title.
 
 &emsp;(5) The term “civilian nuclear activity” means any atomic energy activity other than an atomic energy defense activity.
 
@@ -80,7 +80,7 @@ For purposes of this chapter:
 
 &emsp;(22) The term “siting research” means activities, including borings, surface excavations, shaft excavations, subsurface lateral excavations and borings, and in situ testing, to determine the suitability of a site for a test and evaluation facility.
 
-&emsp;(23) The term “spent nuclear fuel” means fuel that has been withdrawn from a nuclear reactor following irradiation, the constituentelements of which have not been separated by reprocessing.
+&emsp;(23) The term “spent nuclear fuel” means fuel that has been withdrawn from a nuclear reactor following irradiation, the constituent elements of which have not been separated by reprocessing.
 
 &emsp;(24) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 

@@ -42,7 +42,7 @@ In determining whether or not to approve applications for grants and for contrac
 
 #### (d) Competitive selection process; review of proposed programs; expedited consideration of proposed programs
 
-(1)(A) Programs selected for assistance through grants or contracts under this part (other than section 5651(f) of this title) shall be selected through a competitive process to be established by rule by the Administrator. As part of such a process, the Administrator shall announce in the Federal Register—
+(1)(A) Programs selected for assistance through grants or contracts under this part\(other than section 5651(f) of this title) shall be selected through a competitive process to be established by rule by the Administrator. As part of such a process, the Administrator shall announce in the Federal Register—
 
 &emsp;(i) the availability of funds for such assistance;
 

@@ -2,7 +2,7 @@
 
 The purposes of the corporation are—
 
-&emsp;(1) to further, encourage, and promote methods and procedures leading to increased safety, protection, and health among employees, employers, and children in industries, on farms,in schools and colleges, in homes, on streets and highways, in recreation, and in other public and private places;
+&emsp;(1) to further, encourage, and promote methods and procedures leading to increased safety, protection, and health among employees, employers, and children in industries, on farms, in schools and colleges, in homes, on streets and highways, in recreation, and in other public and private places;
 
 &emsp;(2) to collect, correlate, publish, and disseminate educational and informative reports and all other data related to safety methods and procedures;
 

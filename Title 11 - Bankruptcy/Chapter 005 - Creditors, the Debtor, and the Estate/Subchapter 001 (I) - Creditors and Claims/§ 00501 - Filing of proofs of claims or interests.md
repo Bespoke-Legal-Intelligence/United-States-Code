@@ -14,7 +14,7 @@
 
 I74legislative statements
 
-The House amendment adopts section 501(b) of the Senate amendment leaving the Rules of Bankruptcy Procedure free to determine where a proof of claim must be filed.
+The House amendment adopts section 501(b) of the Senate amendment leaving the Rules of BankruptcyProcedure free to determine where a proof of claim must be filed.
 
 Section 501(c) expands language contained in section 501(c) of the House bill and Senate amendment to permit the debtor to file a proof of claim if a creditor does not timely file a proof of the creditor's claim in a case under title 11.
 

@@ -28,13 +28,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>For termination of amendment by section 503(c)(3) of Pub. L. 105–304, see section 505 of Pub. L. 105–304, set out as an Effective and Termination Dates note under section 1301 of Title 17, Copyrights.</i>
-
 #### Amendments
 
-1998—Pub. L. 105–304, title V, §§503(c)(3), 505, Oct. 28, 1998, 112 Stat. 2917, 2918, temporarily inserted “, mask works, and designs” in item 1400.
+1998—Pub. L. 105–304, title V, §503(c)(3), Oct. 28, 1998, 112 Stat. 2917 inserted “, mask works, and designs” in item 1400.
 
 1996—Pub. L. 104–331, §3(b)(2)(B), Oct. 26, 1996, 110 Stat. 4069, which directed amendment of table of sections for chapter 37 by adding item 1413 at end, was executed by adding item 1413 at end of table of sections for chapter 87 to reflect the probable intent of Congress.
 

@@ -26,7 +26,7 @@ For definition of Canal Zone, referred to in subsec. (a), see section 3602(b) of
 
 #### Amendments
 
-1997—Subsec. (a)(1). Pub. L. 105–85 inserted “, reenlistment, extension of enlistment,” after “at the time of enlistment” and “or on board a public vessel owned or operated by the United States for noncommercial service,” after “Swains Island,”.
+1997—Subsec. (a)(1). Pub. L. 105–85 inserted “, reenlistment, extension of enlistment,” after “at thetime of enlistment” and “or on board a public vessel owned or operated by the United States for noncommercial service,” after “Swains Island,”.
 
 1991—Subsecs. (a), (b). Pub. L. 102–232 made technical correction to directory language of Pub. L. 101–649, §407(c)(11). See 1990 Amendment note below.
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Naturalization of Natives of Philippines Through Certain Active-Duty Service During World War II
 
-Pub. L. 102–395, title I, §113, Oct. 6, 1992, 106 Stat. 1844, which provided that, notwithstanding any other provision of law, effective 120 days after Oct. 6, 1992, and applicable to natives of the Philippines who applied for naturalization under section 405 of Pub. L. 101–649, set out below, and who applied within 2 years after such effective date, the naturalization of natives of the Philippines who apply for naturalization under section 405of Pub. L. 101–649 was to be conducted in Philippines as well as in United States by employees of Immigration and Naturalization Service designated pursuant to section 1446(b) of this title, and required Attorney General to prescribe necessary implementing regulations and maintain permanent records of the oaths of allegiance taken in accordance with these provisions, was repealed by Pub. L. 105–119, title I, §112(c), Nov. 26, 1997, 111 Stat. 2460.
+Pub. L. 102–395, title I, §113, Oct. 6, 1992, 106 Stat. 1844, which provided that, notwithstanding any other provision of law, effective 120 days after Oct. 6, 1992, and applicable to natives of the Philippines who applied for naturalization under section 405 of Pub. L. 101–649, set out below, and who applied within 2 years after such effective date, the naturalization of natives of the Philippines who apply for naturalization under section 405 of Pub. L. 101–649 was to be conducted in Philippines as well as in United States by employees of Immigration and Naturalization Service designated pursuant to section 1446(b) of this title, and required Attorney General to prescribe necessary implementing regulations and maintain permanent records of the oaths of allegiance taken in accordance with these provisions, was repealed by Pub. L. 105–119, title I, §112(c), Nov. 26, 1997, 111 Stat. 2460.
 
 Section 405 of Pub. L. 101–649, as amended by Pub. L. 103–416, title I, §104(d), Oct. 25, 1994, 108 Stat. 4308; Pub. L. 105–119, title I, §112(b), Nov. 26, 1997, 111 Stat. 2459, provided that:
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Eligibility.—Eligibility for membership in the corporation and the rights, privileges, and designation of classes of members are as provided in the constitution and bylaws of the corporation. However, an individual who did not serve honorably in the Armed Forces of the United States during the period beginning April 6, 1917, and ending November 11, 1918, is not eligible for all classes of membership.
+Eligibility.—Eligibility for membership in the corporation and the rights, privileges, anddesignation of classes of members are as provided in the constitution and bylaws of the corporation. However, an individual who did not serve honorably in the Armed Forces of the United States during the period beginning April 6, 1917, and ending November 11, 1918, is not eligible for all classes of membership.
 
 (b)
 
@@ -29,6 +29,8 @@ July 18, 1958, Pub. L. 85–530, §§5, 6(b), 72 Stat. 372.
 230303(b)
 
 36:766(b).
+
+&nbsp;
 
 In subsection (a), the words “is not eligible for all classes of membership” are substituted for “in no case shall eligibility for all classes of membership include” to eliminate unnecessary words.
 

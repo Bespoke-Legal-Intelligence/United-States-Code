@@ -126,7 +126,7 @@ The requirements relating to the contents of plans under this section shall be e
 
 The United States Housing Act of 1937, referred to in subsecs. (c)(4)(D) and (f)(2), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-The Civil Rights Act of 1968, referred to in subsec. (c)(5)(A), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended. Title II of the Act is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 3601 of Title 42 and Tables.
+The Civil Rights Act of 1968, referred to in subsec. (c)(5)(A), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended. Title II of the Act is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 #### Amendments
 

@@ -58,7 +58,7 @@ A State educational agency may use not more than 4 percent of the amount reserve
 
 &emsp;&emsp;(i) 70 percent of such amount to local educational agencies, based on the relative enrollments in public and private nonprofit elementary and secondary schools within the boundaries of such agencies; and
 
-&emsp;&emsp;(ii) 30 percent of such amount to local educational agencies that the State educationalagency determines have the greatest need for additional funds to carry out drug and violence prevention programs authorized by this subpart.
+&emsp;&emsp;(ii) 30 percent of such amount to local educational agencies that the State educational agency determines have the greatest need for additional funds to carry out drug and violence prevention programs authorized by this subpart.
 
 &emsp;(B) Where appropriate and to the extent consistent with the needs assessment conducted by the State, not less than 25 percent of the amount distributed under subparagraph (A)(ii) for a fiscal year shall be distributed to local educational agencies located in rural and urban areas.
 
@@ -110,7 +110,7 @@ If a local educational agency chooses not to apply to receive the amount allocat
 
 #### References in Text
 
-Section 7111 of this title, referred to in subsec. (a)(1), (2)(A)(i), was in the original “section 4111”, meaning section 4111 of Pub. L. 89–10, which was translated as reading section 4011 of that Act to reflect the probable intent of Congress, because Pub. L. 89–10 does not contain a section 4111, but does contain a section 4011 which relates to State allotments.
+Section 7111 of this title, referred to in subsec. (a)(1), (2)(A)(i), was in the original “section 4111”, meaningsection 4111 of Pub. L. 89–10, which was translated as reading section 4011 of that Act to reflect the probable intent of Congress, because Pub. L. 89–10 does not contain a section 4111, but does contain a section 4011 which relates to State allotments.
 
 Section 5121 of this Act (as such section was in effect on the day preceding October 20, 1994), referred to in subsec. (a)(2)(A), means section 5121 of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 254, as amended, which was classified to section 3191 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 

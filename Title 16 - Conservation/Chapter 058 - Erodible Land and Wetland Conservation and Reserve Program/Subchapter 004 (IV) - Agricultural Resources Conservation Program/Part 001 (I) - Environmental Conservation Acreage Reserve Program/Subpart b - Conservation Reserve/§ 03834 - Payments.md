@@ -64,7 +64,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 #### (e) Regulations: payments upon death, disability, or succession
 
-If an owner or operator who is entitled to a payment under a contract entered into under this subpart dies, becomes incompetent, is otherwise unable to receive such payment, or is succeeded by another person who renders or completes the required performance, the Secretary shall make such payment, in accordance with regulations prescribed by the Secretary and without regard to any other provision of law, in such manner as the Secretary determines is fair and reasonable in light of all of the circumstances.
+If an owner or operator who is entitled to a payment under a contract entered into underthis subpart dies, becomes incompetent, is otherwise unable to receive such payment, or is succeeded by another person who renders or completes the required performance, the Secretary shall make such payment, in accordance with regulations prescribed by the Secretary and without regard to any other provision of law, in such manner as the Secretary determines is fair and reasonable in light of all of the circumstances.
 
 #### (f) Rental payments fiscal year limitation; regulations; receipt of other payments unaffected; application of limit to payments received by a State, political subdivision, or agency
 
@@ -88,7 +88,7 @@ Notwithstanding any other provision of law, no order issued for any fiscal year 
 
 #### (h) Cost share assistance
 
-In addition to any payment under this subpart, an owner or operator may receive costshare assistance, rental payments, or tax benefits from a State or subdivision thereof for enrolling lands in the conservation reserve program.
+In addition to any payment under this subpart, an owner or operator may receive cost share assistance, rental payments, or tax benefits from a State or subdivision thereof for enrolling lands in the conservation reserve program.
 
 (Pub. L. 99–198, title XII, §1234, Dec. 23, 1985, 99 Stat. 1511; Pub. L. 100–387, title III, §322, Aug. 11, 1988, 102 Stat. 950; Pub. L. 101–624, title XIV, §§1434, 1447(a), Nov. 28, 1990, 104 Stat. 3581, 3605.)
 

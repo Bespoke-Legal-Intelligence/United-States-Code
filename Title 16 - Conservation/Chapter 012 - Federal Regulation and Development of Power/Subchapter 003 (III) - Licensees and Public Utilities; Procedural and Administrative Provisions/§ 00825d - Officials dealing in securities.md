@@ -6,7 +6,31 @@ It shall be unlawful for any officer or director of any public utility to receiv
 
 #### (b) Interlocking directorates
 
-After six months from August 26, 1935, it shall be unlawful for any person to hold the position of officer or director of more than one public utility or to hold the position of officer or director of a public utility and the position of officer or director of any bank, trust company, banking association, or firm that is authorized by law to underwrite or participate in the marketing of securities of a public utility, or officer or director of any company supplying electrical equipment to such public utility, unless the holding of such positions shall have been authorized by order of the Commission, upon due showing in form and manner prescribed by the Commission, that neither public nor private interests will be adversely affected thereby. The Commission shall not grant any such authorization in respect of such positions held on August 26, 1935, unless application for such authorization is filed with the Commission within sixty days after that date.
+#### (1) In general
+
+&emsp;After 6 months from August 26, 1935, it shall be unlawful for any person to hold the position of officer or director of more than one public utility or to hold the position of officer or director of a public utility and the position of officer or director of any bank, trust company, banking association, or firm that is authorized by law to underwrite or participate in the marketing of securities of a public utility, or officer or director of any company supplying electrical equipment to such public utility, unless the holding of such positions shall have been authorized by order of the Commission, upon due showing in form and manner prescribed by the Commission, that neither public nor private interests will be adversely affected thereby. The Commission shall not grant any such authorization in respect of such positions held on August 26, 1935, unless application for such authorization is filed with the Commission within sixty days after that date.
+
+#### (2) Applicability
+
+#### (A) In general
+
+&emsp;&emsp;In the circumstances described in subparagraph (B), paragraph (1) shall not apply to a person that holds or proposes to hold the positions of—
+
+&emsp;&emsp;&emsp;(i) officer or director of a public utility; and
+
+&emsp;&emsp;&emsp;(ii) officer or director of a bank, trust company, banking association, or firm authorized by law to underwrite or participate in the marketing of securities of a public utility.
+
+#### (B) Circumstances
+
+&emsp;&emsp;The circumstances described in this subparagraph are that—
+
+&emsp;&emsp;&emsp;(i) a person described in subparagraph (A) does not participate in any deliberations or decisions of the public utility regarding the selection of a bank, trust company, banking association, or firm to underwrite or participate in the marketing of securities of the public utility, if the person serves as an officer or director of a bank, trust company, banking association, or firm that is under consideration in the deliberation process;
+
+&emsp;&emsp;&emsp;(ii) the bank, trust company, banking association, or firm of which the person is an officer or director does not engage in the underwriting of, or participate in the marketing of, securities of the public utility of which the person holds the position of officer or director;
+
+&emsp;&emsp;&emsp;(iii) the public utility for which the person serves or proposes to serve as an officer or director selects underwriters by competitive procedures; or
+
+&emsp;&emsp;&emsp;(iv) the issuance of securities of the public utility for which the person serves or proposes to serve as an officer or director has been approved by all Federal and State regulatory agencies having jurisdiction over the issuance.
 
 #### (c) Statement of prior positions; definitions
 
@@ -34,13 +58,15 @@ After six months from August 26, 1935, it shall be unlawful for any person to ho
 
 &emsp;(B) The terms “holding company”, “registered holding company”, and “holding company system” have the same meaning as when used in the Public Utility Holding Company Act of 1935 \[15 U.S.C. 79 et seq.\].
 
-(June 10, 1920, ch. 285, pt. III, §305, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 856; amended Pub. L. 95–617, title II, §211(a), Nov. 9, 1978, 92 Stat. 3147.)
+(June 10, 1920, ch. 285, pt. III, §305, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 856; amended Pub. L. 95–617, title II, §211(a), Nov. 9, 1978, 92 Stat. 3147; Pub. L. 106–102, title VII, §737, Nov. 12, 1999, 113 Stat. 1479.)
 
 #### References in Text
 
 The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(3)(B), is act Aug. 26, 1935, ch. 687, title I, 49 Stat. 838, as amended, which is classified generally to chapter 2C (§79 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 79 of Title 15 and Tables.
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–102 inserted subsec. heading, designated existing provisions as par. (1), inserted heading, and substituted “After 6” for “After six”, and added par. (2).
 
 1978—Subsec. (c). Pub. L. 95–617 added subsec. (c).
 

@@ -110,7 +110,7 @@ As used in this chapter:
 
 #### (12) Postsecondary educational institution
 
-&emsp;The term “postsecondary educational institution” means an institution of higher education (as such term is defined in section 102 of the Higher Education Act of 1965 \[20 U.S.C. 1002\]) which continues to meet the eligibility and certification requirements under title IV of such Act (20 U.S.C. 1070 et seq. \[and 42 U.S.C. 2751 et seq.\]).
+&emsp;The term “postsecondary educational institution” means an institution of higher education (as such term is defined in section 102of the Higher Education Act of 1965 \[20 U.S.C. 1002\]) which continues to meet the eligibility and certification requirements under title IV of such Act (20 U.S.C. 1070 et seq. \[and 42 U.S.C. 2751 et seq.\]).
 
 #### (13) Registered apprenticeship agency
 
@@ -162,7 +162,7 @@ As used in this chapter:
 
 #### (24) State educational agency
 
-&emsp;The term “State educational agency” means the officer or agency primarily responsible forthe State supervision of public elementary and secondary schools.
+&emsp;The term “State educational agency” means the officer or agency primarily responsible for the State supervision of public elementary and secondary schools.
 
 #### (25) Workplace mentor
 
@@ -178,7 +178,7 @@ The Higher Education Act of 1965, referred to in pars. (11)(B)(viii) and (12), i
 
 The Alaska Native Claims Settlement Act, referred to in par. (11)(B)(xiv), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-Section 1401(a)(17) of this title, referred to in par. (15), was in the original a reference to section 602(a)(17) of the Individuals with Disabilities Education Act, Pub. L. 91–230, title VI. Section 602 of Pub. L. 91–230 was omitted in the general amendment of subchapter I of chapter 33 of this title by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602 of Pub. L. 91–230, which is classified to section 1401 of this title, and which contains provisions defining “related services”.
+Section 1401(a)(17) of this title, referred to in par. (15), was in the original a reference to section 602(a)(17) of the Individuals with Disabilities Education Act, Pub.L. 91–230, title VI. Section 602 of Pub. L. 91–230 was omitted in the general amendment of subchapter I of chapter 33 of this title by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602 of Pub. L. 91–230, which is classified to section 1401 of this title, and which contains provisions defining “related services”.
 
 The Job Training Partnership Act, referred to in pars. (6), (11)(B)(xiii), and (20)(B), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Part B of title IV of the Act was classified generally to part B (§1691 et seq.) of subchapter IV of chapter 19 of Title 29, Labor, and sections 4 and 102 of the Act were classified to sections 1503 and 1512, respectively, of Title 29. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of this title and Tables.
 

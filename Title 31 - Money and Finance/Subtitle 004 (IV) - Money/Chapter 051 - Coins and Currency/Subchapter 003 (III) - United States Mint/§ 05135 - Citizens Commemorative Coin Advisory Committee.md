@@ -20,7 +20,7 @@ Membership.—
 
 Voting members.—The Advisory Committee shall consist of 7 members appointed by the Secretary of the Treasury—
 
-&emsp;&emsp;&emsp;(i) 3 of whom shall be appointed from among individuals specially qualified to serve on the committee by reason of their education, training, or experience in art,art history, museum or numismatic collection curation, or numismatics;
+&emsp;&emsp;&emsp;(i) 3 of whom shall be appointed from among individuals specially qualified to serve on the committee by reason of their education, training, or experience in art, art history, museum or numismatic collection curation, or numismatics;
 
 &emsp;&emsp;&emsp;(ii) 1 of whom shall be appointed from among officers or employees of the United States Mint who will represent the interests of the Mint; and
 

@@ -22,7 +22,7 @@
 
 &emsp;(A) for the prompt suspension, for a period not less than ninety days in the case of a first offender and not less than one year in the case of any repeat offender, of the driver's license of any individual who a law enforcement officer has probable cause under State law to believe has committed an alcohol-related traffic offense, and (i) to whom is administered one or more chemical tests to determine whether the individual was intoxicated while operating the motor vehicle and who is determined, as a result of such tests, to be intoxicated, or (ii) who refuses to submit to such a test as proposed by the officer;
 
-&emsp;(B) for a mandatory sentence, which shall not be subject to suspension or probation, of (i) imprisonment for not less than forty-eightconsecutive hours, or (ii) not less than ten days of community service, of any person convicted of driving while intoxicated more than once in any five-year period;
+&emsp;(B) for a mandatory sentence, which shall not be subject to suspension or probation, of (i) imprisonment for not less than forty-eight consecutive hours, or (ii) not less than ten days of community service, of any person convicted of driving while intoxicated more than once in any five-year period;
 
 &emsp;(C) that any person with a blood alcohol concentration of 0.10 percent or greater when driving a motor vehicle shall be deemed to be driving while intoxicated; and
 

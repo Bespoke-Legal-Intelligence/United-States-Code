@@ -2,7 +2,7 @@
 
 (a) No later than March 31, 2000, and no later than March 31 of each year thereafter, the head of each agency shall prepare and submit to the President and the Congress, a report on program performance for the previous fiscal year.
 
-(b)(1) Each program performance report shall set forth the performance indicators established in the agency performance plan under section 1115, along with the actual program performance achieved compared with the performance goals expressed in the plan for that fiscal year.
+(b)(1) Each program performance report shall set forth the performance indicators establishedin the agency performance plan under section 1115, along with the actual program performance achieved compared with the performance goals expressed in the plan for that fiscal year.
 
 (2) If performance goals are specified in an alternative form under section 1115(b), the results of such program shall be described in relation to such specifications, including whether the performance failed to meet the criteria of a minimally effective or successful program.
 

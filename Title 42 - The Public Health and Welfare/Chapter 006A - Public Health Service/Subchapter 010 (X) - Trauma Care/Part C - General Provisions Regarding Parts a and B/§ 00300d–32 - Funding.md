@@ -38,7 +38,7 @@ For the purpose of carrying out parts A and B of this subchapter, there are auth
 
 &emsp;Paragraph (1) may not be construed to require the Secretary to make a grant under such paragraph to each State.
 
-(July 1, 1944, ch. 373, title XII, §1232, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2927;amended Pub. L. 102–321, title VI, §602(3), July 10, 1992, 106 Stat. 436; Pub. L. 103–183, title VI, §602, Dec. 14, 1993, 107 Stat. 2239; Pub. L. 105–392, title IV, §§401(a)(2), 413, Nov. 13, 1998, 112 Stat. 3587, 3590.)
+(July 1, 1944, ch. 373, title XII, §1232, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2927; amended Pub. L. 102–321, title VI, §602(3), July 10, 1992, 106 Stat. 436; Pub. L. 103–183, title VI, §602, Dec. 14, 1993, 107 Stat. 2239; Pub. L. 105–392, title IV, §§401(a)(2), 413, Nov. 13, 1998, 112 Stat. 3587, 3590.)
 
 #### References in Text
 

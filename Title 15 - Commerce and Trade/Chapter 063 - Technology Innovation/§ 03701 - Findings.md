@@ -90,7 +90,7 @@ Pub. L. 102–245, §2, Feb. 14, 1992, 106 Stat. 7, provided that: “As used in
 
 #### Congressional Statement of Policy; 1992 Amendment
 
-Pub. L. 102–245, title I, §102, Feb. 14, 1992, 106 Stat. 7, provided that: “Congress finds that in order to helpUnited States industries to speed the development of new products and processes so as to maintain the economic competitiveness of the Nation, it is necessary to strengthen the programs and activities of the Department of Commerce's Technology Administration and National Institute of Standards and Technology.”
+Pub. L. 102–245, title I, §102, Feb. 14, 1992, 106 Stat. 7, provided that: “Congress finds that in order to help United States industries to speed the development of new products and processes so as to maintain the economic competitiveness of the Nation, it is necessary to strengthen the programs and activities of the Department of Commerce's Technology Administration and National Institute of Standards and Technology.”
 
 #### National Commission on Reducing Capital Costs for Emerging Technology
 
@@ -230,7 +230,7 @@ Pub. L. 102–245, title V, §508, Feb. 14, 1992, 106 Stat. 29, provided that:
 
 “(a)
 
-Contract With National Research Council.—Within 90 days after the date of enactment of this Act \[Feb. 14, 1992\] and within available appropriations, the Secretary shall enter into a contract with the National Research Council for a thorough review of international product testing and certification issues. The National Research Council will be asked to address the following issues and make recommendations as appropriate:
+Contract With National Research Council.—Within 90 days after the date of enactment of this Act \[Feb. 14, 1992\] and within available appropriations, the Secretary shall enter into a contract with the National Research Council for a thorough review of international product testing and certification issues. The National Research Council will be asked to address thefollowing issues and make recommendations as appropriate:
 
 &emsp;“(1) The impact on United States manufacturers, testing and certification laboratories, certification organizations, and other affected bodies of the European Community's plans for testing and certification of regulated and nonregulated products of non-European origin.
 

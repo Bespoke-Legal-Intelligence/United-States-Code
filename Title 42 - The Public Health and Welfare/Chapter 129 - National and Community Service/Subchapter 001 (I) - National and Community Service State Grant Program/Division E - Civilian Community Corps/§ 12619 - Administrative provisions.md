@@ -74,7 +74,7 @@ The Chief Executive Officer shall—
 
 #### (3) Inapplicability of certain civil service laws
 
-&emsp;The Director, the members of the permanent cadre, and the other staff personnel shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service. The rates of pay of such persons may be established without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title. In the case of a member of the permanent cadre who was recommended for appointment in accordance with section 12622(a)(2)(A) of this title and is entitled to retired or retainer pay, section 5532 of title 5 shall not apply to reduce the member's retired or retainer pay by reason of the member being paid as a member of the cadre.
+&emsp;The Director, the members of the permanent cadre, and the other staff personnel shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service. The rates of pay of such persons may be established without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title. In the case of a member of the permanent cadre who was recommended for appointment in accordance with section 12622(a)(2)(A) of this title and is entitled to retired or retainer pay, section 5532 <sup>1</sup> of title 5 shall not apply to reduce the member's retired or retainer pay by reason of the member being paid as a member of the cadre.
 
 #### (4) Voluntary services
 
@@ -84,11 +84,13 @@ The Chief Executive Officer shall—
 
 #### References in Text
 
-Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (c)(2)(D),is section 4403 of Pub. L. 102–484 which is set out as a note under section 1293 of Title 10, Armed Forces.
+Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (c)(2)(D), is section 4403 of Pub. L. 102–484 which is set out as a note under section 1293 of Title 10, Armed Forces.
 
 Section 4464 of that Act, referred to in subsec. (c)(2)(D), is section 4464 of Pub. L. 102–484 which is set out as a note under section 1143a of Title 10.
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (c)(3), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+
+Section 5532 of title 5, referred to in subsec. (c)(3), was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
 #### Codification
 
@@ -127,4 +129,6 @@ Amendment by section 402(b)(1) of Pub. L. 103–82 effective Oct. 1, 1993, see s
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 12615, 12616 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

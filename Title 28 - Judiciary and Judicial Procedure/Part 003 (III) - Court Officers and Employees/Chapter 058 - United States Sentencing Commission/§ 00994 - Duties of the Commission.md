@@ -2,7 +2,7 @@
 
 (a) The Commission, by affirmative vote of at least four members of the Commission, and pursuant to its rules and regulations and consistent with all pertinent provisions of this title and title 18, United States Code, shall promulgate and distribute to all courts of the United States and to the United States Probation System—
 
-&emsp;(1) guidelines, as described in this section, for use of a sentencing court in determining the sentence to be imposed in a criminal case, including—
+&emsp;(1) guidelines, as described in this section, for use of a sentencing court in determiningthe sentence to be imposed in a criminal case, including—
 
 &emsp;&emsp;(A) a determination whether to impose a sentence to probation, a fine, or a term of imprisonment;
 
@@ -76,13 +76,13 @@
 
 > The Commission shall assure that the guidelines and policy statements are entirely neutral as to the race, sex, national origin, creed, and socioeconomic status of offenders.
 
-(e) The Commission shall assure that the guidelines and policy statements, in recommending a term of imprisonment or length of a term of imprisonment, reflect the general inappropriateness of considering the education, vocational skills, employment record, family ties and responsibilities, and community ties of the defendant.
+(e) The Commission shall assure that the guidelines and policy statements, in recommending a term of imprisonment or length ofa term of imprisonment, reflect the general inappropriateness of considering the education, vocational skills, employment record, family ties and responsibilities, and community ties of the defendant.
 
 (f) The Commission, in promulgating guidelines pursuant to subsection (a)(1), shall promote the purposes set forth in section 991(b)(1), with particular attention to the requirements of subsection 991(b)(1)(B) for providing certainty and fairness in sentencing and reducing unwarranted sentence disparities.
 
 (g) The Commission, in promulgating guidelines pursuant to subsection (a)(1) to meet the purposes of sentencing as set forth in section 3553(a)(2) of title 18, United States Code, shall take into account the nature and capacity of the penal, correctional, and other facilities and services available, and shall make recommendations concerning any change or expansion in the nature or capacity of such facilities and services that might become necessary as a result of the guidelines promulgated pursuant to the provisions of this chapter. The sentencing guidelines prescribed under this chapter shall be formulated to minimize the likelihood that the Federal prison population will exceed the capacity of the Federal prisons, as determined by the Commission.
 
-(h) The Commission shall assure that the guidelines specify a sentence to a term of imprisonment at or near the maximum term authorized for categories of defendants in whichthe defendant is eighteen years old or older and—
+(h) The Commission shall assure that the guidelines specify a sentence to a term of imprisonment at or near the maximum term authorized for categories of defendants in which the defendant is eighteen years old or older and—
 
 &emsp;(1) has been convicted of a felony that is—
 
@@ -124,11 +124,11 @@
 
 (m) The Commission shall insure that the guidelines reflect the fact that, in many cases, current sentences do not accurately reflect the seriousness of the offense. This will require that, as a starting point in its development of the initial sets of guidelines for particular categories of cases, the Commission ascertain the average sentences imposed in such categories of cases prior to the creation of the Commission, and in cases involving sentences to terms of imprisonment, the length of such terms actually served. The Commission shall not be bound by such average sentences, and shall independently develop a sentencing range that is consistent with the purposes of sentencing described in section 3553(a)(2) of title 18, United States Code.
 
-(n) The Commission shall assure that the guidelines reflect the general appropriateness of imposing a lower sentence than would otherwise be imposed, including a sentence that is lower than that established by statute as a minimum sentence, to take into account a defendant's substantial assistance in the investigation or prosecution of another person who has committed an offense.
+(n) The Commission shall assure that the guidelines reflect the general appropriateness of imposing a lower sentence than would otherwisebe imposed, including a sentence that is lower than that established by statute as a minimum sentence, to take into account a defendant's substantial assistance in the investigation or prosecution of another person who has committed an offense.
 
 (<i>o</i>) The Commission periodically shall review and revise, in consideration of comments and data coming to its attention, the guidelines promulgated pursuant to the provisions of this section. In fulfilling its duties and in exercising its powers, the Commission shall consult with authorities on, and individual and institutional representatives of, various aspects of the Federal criminal justice system. The United States Probation System, the Bureau of Prisons, the Judicial Conference of the United States, the Criminal Division of the United States Department of Justice, and a representative of the Federal Public Defenders shall submit to the Commission any observations, comments, or questions pertinent to the work of the Commission whenever they believe such communication would be useful, and shall, at least annually, submit to the Commission a written report commenting on the operation of the Commission's guidelines, suggesting changes in the guidelines that appear to be warranted, and otherwise assessing the Commission's work.
 
-(p) The Commission, at or after the beginning of a regular session of Congress, but not later than the first day of May, may promulgate under subsection (a) of this section and submitto Congress amendments to the guidelines and modifications to previously submitted amendments that have not taken effect, including modifications to the effective dates of such amendments. Such an amendment or modification shall be accompanied by a statement of the reasons therefor and shall take effect on a date specified by the Commission, which shall be no earlier than 180 days after being so submitted and no later than the first day of November of the calendar year in which the amendment or modification is submitted, except to the extent that the effective date is revised or the amendment is otherwise modified or disapproved by Act of Congress.
+(p) The Commission, at or after the beginning of a regular session of Congress, but not later than the first day of May, may promulgate under subsection (a) of this section and submit to Congress amendments to the guidelines and modifications to previously submitted amendments that have not taken effect, including modifications to the effective dates of such amendments. Such an amendment or modification shall be accompanied by a statement of the reasons therefor and shall take effect on a date specified by the Commission, which shall be no earlier than 180 days after being so submitted and no later than the first day of November of the calendar year in which the amendment or modification is submitted, except to the extent that the effective date is revised or the amendment is otherwise modified or disapproved by Act of Congress.
 
 (q) The Commission and the Bureau of Prisons shall submit to Congress an analysis and recommendations concerning maximum utilization of resources to deal effectively with the Federal prison population. Such report shall be based upon consideration of a variety of alternatives, including—
 
@@ -160,7 +160,7 @@
 
 (y) The Commission, in promulgating guidelines pursuant to subsection (a)(1), may include, as a component of a fine, the expected costs to the Government of any imprisonment, supervised release, or probation sentence that is ordered.
 
-(Added Pub. L. 98–473, title II, §217(a), Oct. 12, 1984, 98 Stat. 2019; amended Pub. L. 99–217, §3, Dec. 26, 1985, 99 Stat. 1728; Pub. L. 99–363, §2, July 11, 1986, 100 Stat. 770; Pub. L. 99–570, title I, §§1006(b), 1008, Oct. 27, 1986, 100 Stat. 3207–7; Pub. L. 99–646, §§6(b), 56, Nov. 10, 1986, 100 Stat. 3592, 3611; Pub. L. 100–182, §§16(b), 23, Dec. 7, 1987, 101 Stat. 1269, 1271; Pub. L. 100–690, title VII, §§7083, 7103(b), 7109, Nov. 18, 1988, 102 Stat. 4408, 4417, 4419; Pub. L. 103–322, title II, §20403(b), title XXVIII, §280005(c)(4), title XXXIII, §330003(f)(1), Sept. 13, 1994, 108 Stat. 1825, 2097, 2141.)
+(Added Pub. L. 98–473, title II, §217(a), Oct. 12, 1984, 98 Stat. 2019; amended Pub. L. 99–217, §3, Dec. 26, 1985, 99 Stat. 1728; Pub. L. 99–363, §2, July 11, 1986, 100 Stat. 770; Pub. L. 99–570, title I, §§1006(b), 1008, Oct. 27, 1986, 100 Stat. 3207–7; Pub. L. 99–646, §§6(b), 56, Nov. 10, 1986, 100 Stat. 3592, 3611; Pub. L. 100–182, §§16(b), 23, Dec. 7, 1987, 101 Stat. 1269, 1271; Pub. L. 100–690, title VII, §§7083, 7103(b), 7109, Nov. 18, 1988, 102 Stat. 4408, 4417,4419; Pub. L. 103–322, title II, §20403(b), title XXVIII, §280005(c)(4), title XXXIII, §330003(f)(1), Sept. 13, 1994, 108 Stat. 1825, 2097, 2141.)
 
 #### References in Text
 
@@ -330,7 +330,7 @@ Definition of Telemarketing.—In this section, the term ‘telemarketing’ has
 
 Directive To Sentencing Commission.—Pursuant to its authority under section 994(p) of title 28, United States Code, and in accordance with this section, the United States Sentencing Commission shall—
 
-&emsp;“(1) promulgate Federal sentencing guidelines or amend existing sentencing guidelines (and policy statements, if appropriate) to provide for substantially increased penalties for persons convicted of offenses described in section 2326 of title 18, United States Code, as amended by this Act, in connection with the conduct of telemarketing; and
+&emsp;“(1) promulgate Federal sentencing guidelines or amend existing sentencing guidelines (and policy statements, if appropriate) to provide for substantially increased penalties for persons convicted of offenses described in section 2326 of title 18, UnitedStates Code, as amended by this Act, in connection with the conduct of telemarketing; and
 
 &emsp;“(2) submit to Congress an explanation of each action taken under paragraph (1) and any additional policy recommendations for combating the offenses described in that paragraph.
 
@@ -354,7 +354,7 @@ Requirements.—In carrying out this section, the Commission shall—
 
 “(d)
 
-Emergency Authority.—The Commission shall promulgate the guidelines or amendments provided for under this subsection as soon as practicable, and in any event not later than 120 days after the date of the enactment of the Telemarketing Fraud Prevention Act of1998 \[June 23, 1998\], in accordance with the procedures set forth in section 21(a) of the Sentencing Reform \[sic\] Act of 1987 \[Pub. L. 100–182, set out below\], as though the authority under that authority had not expired, except that the Commission shall submit to Congress the emergency guidelines or amendments promulgated under this section, and shall set an effective date for those guidelines or amendments not earlier than 30 days after their submission to Congress.”
+Emergency Authority.—The Commission shall promulgate the guidelines or amendments provided for under this subsection as soon as practicable, and in any event not later than 120 days after the date of the enactment of the Telemarketing Fraud Prevention Act of 1998 \[June 23, 1998\], in accordance with the procedures set forth in section 21(a) of the Sentencing Reform \[sic\] Act of 1987 \[Pub. L. 100–182, set out below\], as though the authority under that authority had not expired, except that the Commission shall submit to Congress the emergency guidelines or amendments promulgated under this section, and shall set an effective date for those guidelines or amendments not earlier than 30 days after their submission to Congress.”
 
 #### Wireless Telephone Cloning; Amendment of Sentencing Guidelines
 
@@ -385,6 +385,8 @@ Factors for consideration.—In carrying out this subsection, the Commission sha
 &emsp;“(H) any other factor that the Commission considers to be appropriate.”
 
 #### Crime Against Intellectual Property; Sentencing Guidelines
+
+Pub. L. 106–160, §3, Dec. 9, 1999, 113 Stat. 1774, provided that: “Within 120 days after the date of the enactment of this Act \[Dec. 9, 1999\], or within 120 days after the first date on which there is a sufficient number of voting members of the Sentencing Commission to constitute a quorum, whichever is later, the Commission shall promulgate emergency guideline amendments to implement section 2(g) of the No Electronic Theft (NET) Act (29 \[28\] U.S.C. 994 note) \[Pub. L. 105–147, set out below\] in accordance with the procedures set forth in section 21(a) of the Sentencing Act of 1987 \[Pub. L. 100–182, set out below\], as though the authority under that Act had not expired.”
 
 Pub. L. 105–147, §2(g), Dec. 16, 1997, 111 Stat. 2680, provided that:
 
@@ -456,7 +458,7 @@ Directive to the United States Sentencing Commission.—Pursuant to its authorit
 
 “(b)
 
-In General.—In carrying out this section, the Commission shall ensure that the sentencing guidelinesand policy statements for offenders convicted of offenses described in subsection (a) and any recommendations submitted under such subsection reflect the heinous nature of such offenses, the need for aggressive law enforcement action to fight such offenses, and the extreme dangers associated with unlawful activity involving methamphetamine, including—
+In General.—In carrying out this section, the Commission shall ensure that the sentencing guidelines and policy statements for offenders convicted of offenses described in subsection (a) and any recommendations submitted under such subsection reflect the heinous nature of such offenses, the need for aggressive law enforcement action to fight such offenses, and the extreme dangers associated with unlawful activity involving methamphetamine, including—
 
 &emsp;“(1) the rapidly growing incidence of methamphetamine abuse and the threat to public safety such abuse poses;
 
@@ -516,7 +518,7 @@ Requirements.—In carrying out this subsection, the Commission shall, with resp
 
 &emsp;“(A) increase the base offense level for such offenses at least 3 offense levels above the applicable level in effect on the date of the enactment of this Act \[Sept. 30, 1996\];
 
-&emsp;“(B) review the sentencing enhancement for the number of aliens involved (U.S.S.G. 2L1.1(b)(2)), and increase the sentencing enhancement by at least 50 percent above the applicable enhancement in effect on the date of the enactment of this Act;
+&emsp;“(B) review the sentencing enhancement for the number of aliens involved (U.S.S.G. 2L1.1(b)(2)), and increase the sentencing enhancement by at least 50percent above the applicable enhancement in effect on the date of the enactment of this Act;
 
 &emsp;“(C) impose an appropriate sentencing enhancement upon an offender with 1 prior felony conviction arising out of a separate and prior prosecution for an offense that involved the same or similar underlying conduct as the current offense, to be applied in addition to any sentencing enhancement that would otherwise apply pursuant to the calculation of the defendant's criminal history category;
 
@@ -606,7 +608,7 @@ Pub. L. 104–208, div. C, title III, §333, Sept. 30, 1996, 110 Stat. 3009–63
 
 “(a)
 
-Review of Guidelines.—Not later than 6 months after the date of the enactment of this Act \[Sept. 30, 1996\], the United States Sentencing Commission shall conduct a review of the guidelines applicable to an offender who conspires with, or aids or abets, a person who is not a citizen or national of the United States in committing any offense under section 1010 of the Controlled Substance\[s\] Import and Export Act (21 U.S.C. 960).
+Review of Guidelines.—Not later than 6 months after the date of the enactment of this Act \[Sept. 30, 1996\], the United States Sentencing Commission shall conduct a review of the guidelines applicable to an offender who conspires with, or aids or abets, a person who is not a citizen or national of the United States incommitting any offense under section 1010 of the Controlled Substance\[s\] Import and Export Act (21 U.S.C. 960).
 
 “(b)
 
@@ -688,7 +690,7 @@ Pub. L. 102–141, title VI, §632, Oct. 28, 1991, 105 Stat. 876, provided that:
 
 “(B) The provisions of section 944(x) \[994(x)\] of title 28, United States Code, shall not apply to the promulgation or amendment of guidelines under this section.”
 
-Pub. L. 101–647, title III, §321, Nov. 29, 1990, 104 Stat. 4817, provided that: “The United States Sentencing Commission shall amend existing guidelines for sentences involving sexual crimes against children, including offenses contained in chapter 109A of title 18, so that more substantial penalties may be imposed if the Commission determines current penalties are inadequate.”
+Pub. L. 101–647, title III, §321, Nov. 29, 1990, 104 Stat. 4817, provided that: “The United States SentencingCommission shall amend existing guidelines for sentences involving sexual crimes against children, including offenses contained in chapter 109A of title 18, so that more substantial penalties may be imposed if the Commission determines current penalties are inadequate.”
 
 #### Cocaine and Crack Sentences and Sentences for Money Laundering and Other Unlawful Activity; Reduction of Sentencing Disparities
 
@@ -974,7 +976,7 @@ Effects of Amendment.—If the sentencing guidelines are amended after the effec
 
 “(c)
 
-Multiple Enhancements.—The guidelines referred to in subsection (a), as promulgated or amendedunder such subsection, shall provide that an offense that could be subject to multiple enhancements pursuant to such subsection is subject to not more than one such enhancement.”
+Multiple Enhancements.—The guidelines referred to in subsection (a), as promulgated or amended under such subsection, shall provide that an offense that could be subject to multiple enhancements pursuant to such subsection is subject to not more than one such enhancement.”
 
 #### Drug Offenses Within Federal Prisons; Sentencing Guidelines
 

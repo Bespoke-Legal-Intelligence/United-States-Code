@@ -375,7 +375,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 701, 712, 721, 751, 772, 773 of this title; title 5 section 3502; title 7 sections 2014, 2015, 2026; title 8 sections 1255a, 1613; title 15 sections 636, 3116; title 18 section 665; title 19 sections 2296, 2311; title 20 sections 1087vv, 6365, 6434, 6453, 6455, 9271, 9272, 9273, 9274, 9275, 9276.
+This chapter is referred to in sections 701, 712, 721, 751, 772, 773 of this title; title 5 section 3502; title 7 sections 2014, 2015, 2026; title 8 sections 1255a, 1613; title 15 sections 636, 3116; title 18 section 665; title 19 sections 2296, 2311; title 20 sections 1087vv, 6365, 6434, 6453, 6455, 9271, 9272, 9273, 9274, 9275, 9276; title 31 section 6703; title 38 sections 4102A, 4103A, 4213; title 42 sections 603, 1437u, 1474, 3013, 3056, 3056a, 6864, 6873, 7274h, 9806, 11302, 12655m, 12899c, 13823.
 
 
 ---

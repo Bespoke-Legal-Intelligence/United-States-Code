@@ -6,7 +6,7 @@
 
 (2)(A) With respect to annual reports required to be filed with the Secretary under this part, he may by regulation prescribe simplified annual reports for any pension plan which covers less than 100 participants.
 
-(B) Nothing contained in this paragraph shall preclude the Secretary from requiring any information or data from any such plan to which this part applies where he finds such data or information is necessary to carry out the purposes of this subchapter nor shall the Secretary be precluded from revoking provisions for simplified reports for any such plan if he finds it necessary to do so in order to carry out the objectives of this subchapter.
+(B) Nothing contained in this paragraph shall preclude the Secretary from requiring any information or data from any such plan to which this part applies where he finds such data or information is necessary to carry out the purposes ofthis subchapter nor shall the Secretary be precluded from revoking provisions for simplified reports for any such plan if he finds it necessary to do so in order to carry out the objectives of this subchapter.
 
 (3) The Secretary may by regulation exempt any welfare benefit plan from all or part of the reporting and disclosure requirements of this subchapter, or may provide for simplified reporting and disclosure if he finds that such requirements are inappropriate as applied to welfare benefit plans.
 
@@ -46,7 +46,7 @@ Publication of the summary plan descriptions and annual reports shall be made to
 
 (3) Within 210 days after the close of the fiscal year of the plan, the administrators shall furnish to each participant, and to each beneficiary receiving benefits under the plan, a copy of the statements and schedules, for such fiscal year, described in subparagraphs (A) and (B) of section 1023(b)(3) of this title and such other material (including the percentage determined under section 1023(d)(11) of this title) as is necessary to fairly summarize the latest annual report.
 
-(4) The administrator shall, upon written request of any participant or beneficiary, furnish a copy of the latest updated summary,<sup>1</sup> plan description, and the latest annual report, any terminal report, the bargaining agreement, trust agreement, contract, or other instruments underwhich the plan is established or operated. The administrator may make a reasonable charge to cover the cost of furnishing such complete copies. The Secretary may by regulation prescribe the maximum amount which will constitute a reasonable charge under the preceding sentence.
+(4) The administrator shall, upon written request of any participant or beneficiary, furnish a copy of the latest updated summary,<sup>1</sup> plan description, and the latest annual report, any terminal report, the bargaining agreement, trust agreement, contract, or other instruments under which the plan is established or operated. The administrator may make a reasonable charge to cover the cost of furnishing such complete copies. The Secretary may by regulation prescribe the maximum amount which will constitute a reasonable charge under the preceding sentence.
 
 #### (c) Statement of rights
 

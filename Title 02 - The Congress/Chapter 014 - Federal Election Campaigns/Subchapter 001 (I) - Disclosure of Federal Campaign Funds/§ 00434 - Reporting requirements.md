@@ -190,7 +190,27 @@ Each report under this section shall disclose—
 
 (3) The Commission shall be responsible for expeditiously preparing indices which set forth, on a candidate-by-candidate basis, all independent expenditures separately, including those reported under subsection (b)(6)(B)(iii) of this section, made by or for each candidate, as reported under this subsection, and for periodically publishing such indices on a timely pre-election basis.
 
-(Pub. L. 92–225, title III, §304, Feb. 7, 1972, 86 Stat. 14; Pub. L. 93–443, title II, §§204(a)–(d), 208(c)(4), Oct. 15, 1974, 88 Stat. 1276–1278, 1286; Pub. L. 94–283, title I, §104, May 11, 1976, 90 Stat. 480; Pub. L. 96–187, title I, §104, Jan. 8, 1980, 93 Stat. 1348; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–79, §§1(a), 3(b), Dec. 28, 1995, 109 Stat. 791, 792.)
+(Pub. L. 92–225, title III, §304, Feb. 7, 1972, 86 Stat. 14; Pub. L. 93–443, title II, §§204(a)–(d), 208(c)(4), Oct. 15, 1974, 88 Stat. 1276–1278, 1286; Pub. L. 94–283, title I, §104, May 11, 1976, 90 Stat. 480; Pub. L. 96–187, title I, §104, Jan. 8, 1980, 93 Stat. 1348; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–79, §§1(a), 3(b), Dec. 28, 1995, 109 Stat. 791, 792; Pub. L. 106–58, title VI, §§639(a), 641(a), Sept. 29, 1999, 113 Stat. 476, 477.)
+
+#### Amendment of Subsection (a)(11)
+
+<i>Pub. L. 106–58, title VI, §639, Sept. 29, 1999, 113 Stat. 476, provided that, effective for reporting periods beginning after Dec. 31, 2000, subsection (a) of this section is amended by striking paragraph (11) and inserting the following:</i>
+
+(11)(A) The Commission shall promulgate a regulation under which a person required to file a designation, statement, or report under this Act—
+
+&emsp;(i) is required to maintain and file a designation, statement, or report for any calendar year in electronic form accessible by computers if the person has, or has reason to expect to have, aggregate contributions or expenditures in excess of a threshold amount determined by the Commission; and
+
+&emsp;(ii) may maintain and file a designation, statement, or report in electronic form or an alternative form if not required to do so under the regulation promulgated under clause (i).
+
+(B) The Commission shall make a designation, statement, report, or notification that is filed electronically with the Commission accessible to the public on the Internet not later than 24 hours after the designation, statement, report, or notification is received by the Commission.
+
+(C) In promulgating a regulation under this paragraph, the Commission shall provide methods (other than requiring a signature on the document being filed) for verifying designations, statements, and reports covered by the regulation. Any document verified under any of the methods shall be treated for all purposes (including penalties for perjury) in the same manner as a document verified by signature.
+
+(D) As used in this paragraph, the term “report” means, with respect to the Commission, a report, designation, or statement required by this Act to be filed with the Commission.
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 106–58, title VI, §641, Sept. 29, 1999, 113 Stat. 477, provided that, effective with respect to reporting periods beginning after Dec. 31, 2000, subsection (b) of this section is amended by inserting “(or election cycle, in the case of an authorized committee of a candidate for Federal office)” after “calendar year” each place it appears in paragraphs (2), (3), (4), (6), and (7).</i>
 
 #### References in Text
 
@@ -238,6 +258,12 @@ Subsec. (b)(13). Pub. L. 93–443, §208(c)(4)(B), substituted “Commission” 
 
 Subsecs. (d), (e). Pub. L. 93–443, §204(c), added subsec. (d) and incorporated provisions of former section 435 of this title in provisions designated as subsec. (e), substituting “Commission” for “supervisory officer” therein.
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–58, title VI, §639(b), Sept. 29, 1999, 113 Stat. 476, provided that: “The amendments made by this section \[amending this section\] shall be effective for reporting periods beginning after December 31, 2000.”
+
+Pub. L. 106–58, title VI, §641(b), Sept. 29, 1999, 113 Stat. 477, provided that: “The amendment made by this section \[amending this section\] shall become effective with respect to reporting periods beginning after December 31, 2000.”
+
 #### Effective Date of 1995 Amendment
 
 Amendment by section 1(a) of Pub. L. 104–79 applicable with respect to reports for periods beginning after Dec. 31, 1996, see section 1(c) of Pub. L. 104–79, set out as a note under section 432 of this title.
@@ -246,7 +272,7 @@ Amendment by section 3(b) of Pub. L. 104–79 applicable with respect to reports
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–187 effective Jan. 8, 1980, with subsec. (b) of this section applicable to authorizedcommittees for President and Vice President in elections occurring after Jan. 1, 1981, see section 301 of Pub. L. 96–187, set out as a note under section 431 of this title.
+Amendment by Pub. L. 96–187 effective Jan. 8, 1980, with subsec. (b) of this section applicable to authorized committees for President and Vice President in elections occurring after Jan. 1, 1981, see section 301 of Pub. L. 96–187, set out as a note under section 431 of this title.
 
 #### Effective Date of 1974 Amendment
 
@@ -258,5 +284,5 @@ Section 204(e) of Pub. L. 93–443 provided that notwithstanding the amendment t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 431, 432, 438 of this title.
+This section is referred to in sections 431, 432, 437g, 438 of this title.
 

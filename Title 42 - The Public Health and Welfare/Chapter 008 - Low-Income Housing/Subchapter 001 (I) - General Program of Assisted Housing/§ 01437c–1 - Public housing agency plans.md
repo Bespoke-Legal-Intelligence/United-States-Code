@@ -12,7 +12,7 @@
 
 #### (2) Initial plan
 
-&emsp;The initial 5-year plan submitted by a public housing agency under this subsection shall be submitted for the 5-year period beginning on October 1, 1999, or the first fiscal year thereafter for which the public housing agency initially receives assistance under this chapter.
+&emsp;The initial 5-year plan submitted by a public housing agency under this subsection shall besubmitted for the 5-year period beginning on October 1, 1999, or the first fiscal year thereafter for which the public housing agency initially receives assistance under this chapter.
 
 #### (b) Annual plan
 
@@ -64,7 +64,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (5) Operation and management
 
-&emsp;A statement of the rules, standards, and policies of the public housing agency governing maintenance and management of housing owned, assisted, or operated by the public housing agency (which shall include measures necessary for the prevention or eradication ofpest infestation, including by cockroaches), and management of the public housing agency and programs of the public housing agency.
+&emsp;A statement of the rules, standards, and policies of the public housing agency governing maintenance and management of housing owned, assisted, or operated by the public housing agency (which shall include measures necessary for the prevention or eradication of pest infestation, including by cockroaches), and management of the public housing agency and programs of the public housing agency.
 
 #### (6) Grievance procedure
 
@@ -154,7 +154,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (3), each public housing agency shall establish 1 ormore resident advisory boards in accordance with this subsection, the membership of which shall adequately reflect and represent the residents assisted by the public housing agency.
+&emsp;Except as provided in paragraph (3), each public housing agency shall establish 1 or more resident advisory boards in accordance with this subsection, the membership of which shall adequately reflect and represent the residents assisted by the public housing agency.
 
 #### (2) Functions
 
@@ -300,7 +300,7 @@ In carrying out this section, the Secretary may establish a streamlined public h
 
 #### References in Text
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (c)(2)(B) and (i)(1)(B), isPub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title I of the Act is classified generally to subchapter I (§12701 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (c)(2)(B) and (i)(1)(B), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title I of the Act is classified generally to subchapter I (§12701 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (d)(15), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 

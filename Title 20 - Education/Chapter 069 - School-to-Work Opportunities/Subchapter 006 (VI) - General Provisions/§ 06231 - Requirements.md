@@ -32,7 +32,7 @@ The following requirements shall apply to programs under this chapter:
 
 #### (7) Other requirements
 
-&emsp;The Secretaries shall establish such other requirements as the Secretaries may determine to be appropriate, in order to ensure that participants in programs under this chapter are afforded adequate supervision by skilled adult workers, or to otherwise further the purposes of this chapter.
+&emsp;The Secretaries shall establish such other requirements as the Secretaries may determine to be appropriate, in order to ensure that participants in programs under this chapterare afforded adequate supervision by skilled adult workers, or to otherwise further the purposes of this chapter.
 
 (Pub. L. 103–239, title VI, §601, May 4, 1994, 108 Stat. 603.)
 

@@ -64,7 +64,7 @@ Definitions.—For purposes of this section—
 
 &emsp;“(1)
 
-Common parent.—The term ‘common parent’ means the common parent of the affiliated groupwhich included the domestic corporation referred to in subsection (a)(1).
+Common parent.—The term ‘common parent’ means the common parent of the affiliated group which included the domestic corporation referred to in subsection (a)(1).
 
 &emsp;“(2)
 

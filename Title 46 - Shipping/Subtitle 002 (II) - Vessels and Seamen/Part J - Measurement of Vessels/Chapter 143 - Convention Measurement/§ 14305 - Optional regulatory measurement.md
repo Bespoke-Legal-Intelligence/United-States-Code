@@ -42,7 +42,7 @@
 
 Source: International Convention on Tonnage Measurement of Ships.
 
-Section 14305 requires that the Secretary measure a vessel under chapter 145 (Regulatory Measurement) of this title (in addition to measuring it under the Convention) at the request of the owner. For vessels that have obtained a regulatory tonnage measurement under this section, the Secretary is required to use theregulatory tonnage measurement to determine the application of those laws listed in section 14305(a) and those not listed by the Secretary by regulation, as provided in section 14302(c). It is the intent of the Committee to list in section 14305(a) certain U.S. tonnage-based laws that would impose increased regulatory burdens on industry if the Convention measurement were used for applicability determinations.
+Section 14305 requires that the Secretary measure a vessel under chapter 145 (Regulatory Measurement) of this title (in addition to measuring it under the Convention) at the request of the owner. For vessels that have obtained a regulatory tonnage measurement under this section, the Secretary is required to use the regulatory tonnage measurement to determine the application of those laws listed in section 14305(a) and those not listed by the Secretary by regulation, as provided in section 14302(c). It is the intent of the Committee to list in section 14305(a) certain U.S. tonnage-based laws that would impose increased regulatory burdens on industry if the Convention measurement were used for applicability determinations.
 
 Clause (1) of section 14305(a) includes the following parts of subtitle II of title 46, U.S.C.:
 

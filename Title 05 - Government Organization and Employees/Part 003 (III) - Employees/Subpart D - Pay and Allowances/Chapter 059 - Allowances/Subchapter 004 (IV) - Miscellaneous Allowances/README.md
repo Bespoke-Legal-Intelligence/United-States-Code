@@ -2,11 +2,11 @@
 
 #### Reimbursements Relating to Professional Liability Insurance
 
-Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §636\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363, as amended by Pub. L. 105–277, div. A, title I, §101(h) \[title VI, §644\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–526, provided that:
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §636\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363, as amended by Pub. L. 105–277, div. A, §101(h) \[title VI, §644\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–526; Pub. L. 106–58, title VI, §642(a), Sept. 29, 1999, 113 Stat. 477, provided that:
 
 “(a)
 
-Authority.—Notwithstanding any other provision of law, amounts appropriated by this Act (or any other Act for fiscal year 1997 or any fiscal year thereafter) for salaries and expenses may be used to reimburse any qualified employee for not to exceed one-half the costs incurred by such employee for professional liability insurance. A payment under this section shall be contingent upon the submission of such information or documentation as the employing agency may require.
+Authority.—Notwithstanding any other provision of law, amounts appropriated by this Act (or any other Act for fiscal year 1997 or any fiscal year thereafter) for salaries and expenses shall be used to reimburse any qualified employee for not to exceed one-half the costs incurred by such employee for professional liability insurance. A payment under this section shall be contingent upon the submission of such information or documentation as the employing agency may require.
 
 “(b)
 
@@ -28,13 +28,15 @@ Definitions.—For purposes of this section—
 
 &emsp;“(4) the term ‘professional liability insurance’ means insurance which provides coverage for—
 
-&emsp;&emsp;“(A) legal liability for damages due to injuries to other persons, damage to their property, or otherdamage or loss to such other persons (including the expenses of litigation and settlement) resulting from or arising out of any tortious act, error, or omission of the covered individual (whether common law, statutory, or constitutional) while in the performance of such individual's official duties as a qualified employee; and
+&emsp;&emsp;“(A) legal liability for damages due to injuries to other persons, damage to their property, or other damage or loss to such other persons (including the expenses of litigation and settlement) resulting from or arising out of any tortious act, error, or omission of the covered individual (whether common law, statutory, or constitutional) while in the performance of such individual's official duties as a qualified employee; and
 
 &emsp;&emsp;“(B) the cost of legal representation for the covered individual in connection with any administrative or judicial proceeding (including any investigation or disciplinary proceeding) relating to any act, error, or omission of the covered individual while in the performance of such individual's official duties as a qualified employee, and other legal costs and fees relating to any such administrative or judicial proceeding.
 
 “(d)
 
 Applicability.—The amendments made by this section \[this note\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1996\] and shall apply thereafter.”
+
+\[Pub. L. 106–58, title VI, §642(b), Sept. 29, 1999, 113 Stat. 477, provided that: “The amendment made by subsection (a) \[amending section 101(f) \[title VI, 3636\] of Pub. L. 104–208, set out above\] shall take effect on October 1, 1999, or the date of the enactment of this Act \[Sept. 29, 1999\], whichever is later.”\]
 
 
 ---

@@ -22,7 +22,7 @@
 
 #### (1) Access
 
-&emsp;The Secretary, the Inspector General of the Department of Labor, the Comptroller General of the United States, and any of their duly authorized representatives, shall have access to any books, documents, papers, and records of the operators and service providers described in subsection (a) of this section that are pertinent to the Job Corps program, for purposes of conducting surveys, audits, and evaluations of the operators and service providers.
+&emsp;The Secretary, the Inspector General of the Department of Labor, the Comptroller Generalof the United States, and any of their duly authorized representatives, shall have access to any books, documents, papers, and records of the operators and service providers described in subsection (a) of this section that are pertinent to the Job Corps program, for purposes of conducting surveys, audits, and evaluations of the operators and service providers.
 
 #### (2) Surveys, audits, and evaluations
 
@@ -104,7 +104,7 @@ The Secretary may collect the information described in subsections (c) and (d) o
 
 #### (1) Assessments
 
-&emsp;The Secretary shall conduct an annual assessment of the performance of each Job Corps center. Based on the assessment, the Secretary shall take measures to continuously improve the performance of the Job Corps program.
+&emsp;The Secretary shall conduct an annual assessment of the performance of each Job Corpscenter. Based on the assessment, the Secretary shall take measures to continuously improve the performance of the Job Corps program.
 
 #### (2) Performance improvement plans
 

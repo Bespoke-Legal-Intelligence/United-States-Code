@@ -170,7 +170,7 @@ Subsec. (c)(13) to (16). Pub. L. 94–183, §2(15), redesignated par. (12) relat
 
 1974—Subsec. (c)(11). Pub. L. 93–415 increased from twenty-two to twenty-five the number of positions which the Law Enforcement Assistance Administration may place in GS–16, 17, and 18. Amendment has been executed to subsec. (c)(11) as the probable intent of Congress notwithstanding direction in section 210 (g) of Pub. L. 93–415 that the amendment be executed to subsec. (c) (10).
 
-Subsec. (c)(11) to (14). Pub. L. 93–282 redesignated par. (10) relating to Law Enforcement Assistance Administration, par. (10) relating to Chief Judge of the United States Tax Court, par. (11) relating to Chairman of the Equal Employment Opportunity Commission, as pars. (11) to (13), respectively, and added par. (14) relating to GS–16, 17, and 18 positions in the National Institute on Alcohol Abuse and Alcoholism.
+Subsec. (c)(11) to (14). Pub. L. 93–282 redesignated par. (10) relating to Law Enforcement Assistance Administration, par. (10) relating to Chief Judge of the United States Tax Court, par. (11) relating to Chairman of the Equal Employment Opportunity Commission, as pars. (11) to (13), respectively, and added par. (14) relating toGS–16, 17, and 18 positions in the National Institute on Alcohol Abuse and Alcoholism.
 
 Subsec. (c)(12). Pub. L. 93–651 and Pub. L. 93–516 amended section identically, adding par. (12) relating to Secretary of Health, Education, and Welfare and the Office for the Blind and Visually Handicapped of the Rehabilitation Services Administration.
 
@@ -302,5 +302,5 @@ Chairman of Consumer Product Safety Commission authorized to place twelve positi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3132, 3304, 3324, 3594, 5376, 5723 of this title; title 2 section 166; title 15 section 2053; title 20 sections 1505, 3461, 9175; title 22 sections 2193, 2385, 2454; title 25 section 640d–11; title 29 sections 661, 1137; title 30 section 1211; title 42 section 7231; title 45 section 231f.
+This section is referred to in sections 3132, 3304, 3324, 3594, 5376, 5723 of this title; title 2 section 166; title 15 section 2053; title 20 sections 1505, 3461, 9175; title 22 sections 2193, 2385, 2454, 6204; title 25 section 640d–11; title 29 sections 661, 1137; title 30 section 1211; title 42 section 7231; title 45 section 231f.
 

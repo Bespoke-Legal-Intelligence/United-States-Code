@@ -4,7 +4,7 @@ It is the purpose of this part to assist States to—
 
 &emsp;(1) support high-quality and comprehensive educational programs for migratory children to help reduce the educational disruptions and other problems that result from repeated moves;
 
-&emsp;(2) ensure that migratory children are provided with appropriate educational services\(including supportive services) that address their special needs in a coordinated and efficient manner;
+&emsp;(2) ensure that migratory children are provided with appropriate educational services (including supportive services) that address their special needs in a coordinated and efficient manner;
 
 &emsp;(3) ensure that migratory children have the opportunity to meet the same challenging State content standards and challenging State student performance standards that all children are expected to meet;
 

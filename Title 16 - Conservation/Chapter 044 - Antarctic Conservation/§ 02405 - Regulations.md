@@ -2,7 +2,7 @@
 
 #### (a) Regulations to be issued by Director
 
-(1) The Director shall issue such regulations as are necessary and appropriate to implement Annex II and Annex V to the Protocol and the provisions of this chapter which implement those annexes, including section 2403(b)(2), (3), (4), and (5) of this title. The Director shall designate as native species—
+(1) The Director shall issue such regulations as are necessary and appropriate to implementAnnex II and Annex V to the Protocol and the provisions of this chapter which implement those annexes, including section 2403(b)(2), (3), (4), and (5) of this title. The Director shall designate as native species—
 
 &emsp;(A) each species of the class Aves;
 

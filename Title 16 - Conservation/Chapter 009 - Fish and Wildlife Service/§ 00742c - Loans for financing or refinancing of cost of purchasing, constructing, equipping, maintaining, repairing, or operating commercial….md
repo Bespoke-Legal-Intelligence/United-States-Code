@@ -82,7 +82,7 @@ Section 16(b) of Pub. L. 96–478 provided that: “The amendments made by subse
 
 #### Effective Date of 1970 Amendment; Fisheries Loan Fund Available for Loans From July 1, 1970 to Close of June 30, 1980
 
-Section 3 of Pub. L. 91–387 provided that: “The provisions of this Act \[amending this section\] shall be effective July 1, 1970. Notwithstanding the provisions of section 4(c) of the Fish and Wildlife Act of 1956, as amended \[subsec. (c) of this section\], any balance remainingin the fisheries loan fund at the close of June 30, 1970, shall be available to make loans for the purposes of section 4 of said Act \[this section\] from July 1, 1970, to the close of June 30, 1980.”
+Section 3 of Pub. L. 91–387 provided that: “The provisions of this Act \[amending this section\] shall be effective July 1, 1970. Notwithstanding the provisions of section 4(c) of the Fish and Wildlife Act of 1956, as amended \[subsec. (c) of this section\], any balance remaining in the fisheries loan fund at the close of June 30, 1970, shall be available to make loans for the purposes of section 4 of said Act \[this section\] from July 1, 1970, to the close of June 30, 1980.”
 
 #### Effective Date of 1965 Amendment; Remaining Funds; Availability for Loans
 

@@ -62,7 +62,7 @@ Multiyear contracts.—In conducting activities under subsection (a), the Direct
 
 &emsp;(3)
 
-Cancellation costs of multiyear contract.—Any cancellation costs incurred with respect to a contract entered into under paragraph (2) shall be paid from currently available amounts in the Fund.
+Cancellation costs of multiyear contract.—Any cancellation costs incurred withrespect to a contract entered into under paragraph (2) shall be paid from currently available amounts in the Fund.
 
 (f)
 

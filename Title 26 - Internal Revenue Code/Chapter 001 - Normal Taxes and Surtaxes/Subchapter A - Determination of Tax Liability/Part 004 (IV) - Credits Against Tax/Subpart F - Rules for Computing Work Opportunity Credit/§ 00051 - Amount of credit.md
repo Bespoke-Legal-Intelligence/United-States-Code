@@ -54,7 +54,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;(A) after December 31, 1994, and before October 1, 1996, or
 
-&emsp;&emsp;(B) after June 30, 1999.
+&emsp;&emsp;(B) after December 31, 2001.
 
 #### (d) Members of targeted groups
 
@@ -280,7 +280,7 @@ For purposes of this subpart—
 
 #### (2) Nonqualifying rehires
 
-&emsp;No wages shall be taken into account under subsection (a) with respect to any individual if, prior to the hiring date of such individual, such individual had been employed by the employer at any time during which he was not a member of a targeted group.
+&emsp;No wages shall be taken into account under subsection (a) with respect to any individual if, prior to the hiring date of such individual, such individual had been employed by the employer at any time.
 
 #### (3) Individuals not meeting minimum employment periods
 
@@ -314,9 +314,9 @@ For purposes of this subpart—
 
 #### (2) Treatment of employees performing services for other persons
 
-&emsp;No credit shall be determined under this section with respect to remuneration paid by an employer to an employee for services performed by such employee for another person unless the amount reasonably expected to be received by the employer for such servicesfrom such other person exceeds the remuneration paid by the employer to such employee for such services.
+&emsp;No credit shall be determined under this section with respect to remuneration paid by an employer to an employee for services performed by such employee for another person unless the amount reasonably expected to be received by the employer for such services from such other person exceeds the remuneration paid by the employer to such employee for such services.
 
-(Added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 141; amended Pub. L. 95–600, title III, §321(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 96–222, title I, §103(a)(6)(A), (E), (F), (G)(iii)–(ix), Apr. 1, 1980, 94 Stat. 209, 210; Pub. L. 97–34, title II, §261(a)–(b)(2)(A), (B)(ii)–(f)(1), Aug. 13, 1981, 95 Stat. 260–262; Pub. L. 97–248, title II, §233(a)–(d), (f), Sept. 3, 1982, 96 Stat. 501, 502; Pub. L. 97–448, title I, §102(<i>l</i>)(1), (3), (4), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title IV, §474(p)(1)–(3), title VII, §712(n), title X, §1041(a), (c)(1)–(4), div. B, title VI, §§2638(b), 2663(j)(5)(A), July 18, 1984, 98 Stat. 837, 955, 1042, 1043, 1144, 1171; Pub. L. 99–514, title XVII, §1701(a)–(c), title XVIII, §1878(f)(1), Oct. 22, 1986, 100 Stat. 2772, 2904; Pub. L. 100–203, title X, §10601(a), Dec. 22, 1987, 101 Stat. 1330–451; Pub. L. 100–485, title II, §202(c)(6), Oct. 13, 1988, 102 Stat. 2378; Pub. L. 100–647, title I, §1017(a), title IV, §4010(a), (c)(1), (d)(1), Nov. 10, 1988, 102 Stat. 3575, 3655; Pub. L. 101–239, title VII, §7103(a), (c)(1), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11405(a), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §105(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §§13102(a), 13302(d), Aug. 10, 1993, 107 Stat. 420, 556; Pub. L. 104–188, title I, §1201(a)–(e)(1), (5), (f), Aug. 20, 1996, 110 Stat. 1768–1772; Pub. L. 104–193, title I, §110(<i>l</i>)(1), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title VI, §603(a)–(d), Aug. 5, 1997, 111 Stat. 862; Pub. L. 105–277, div. J, title I, §1002(a), title IV, §4006(c)(1), Oct. 21, 1998, 112 Stat. 2681–888, 2681–912.)
+(Added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 141; amended Pub. L. 95–600, title III, §321(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 96–222, title I, §103(a)(6)(A), (E), (F), (G)(iii)–(ix), Apr. 1, 1980, 94 Stat. 209, 210; Pub. L. 97–34, title II, §261(a)–(b)(2)(A), (B)(ii)–(f)(1), Aug. 13, 1981, 95 Stat. 260–262; Pub. L. 97–248, title II, §233(a)–(d), (f), Sept. 3, 1982, 96 Stat. 501, 502; Pub. L. 97–448, title I, §102(<i>l</i>)(1), (3), (4), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title IV, §474(p)(1)–(3), title VII, §712(n), title X, §1041(a), (c)(1)–(4), div. B, title VI, §§2638(b), 2663(j)(5)(A), July 18, 1984, 98 Stat. 837, 955, 1042, 1043, 1144, 1171; Pub. L. 99–514, title XVII, §1701(a)–(c), title XVIII, §1878(f)(1), Oct. 22, 1986, 100 Stat. 2772, 2904; Pub. L. 100–203, title X, §10601(a), Dec. 22, 1987, 101 Stat. 1330–451; Pub. L. 100–485, title II, §202(c)(6), Oct. 13, 1988, 102 Stat. 2378; Pub. L. 100–647, title I, §1017(a), title IV, §4010(a), (c)(1), (d)(1), Nov. 10, 1988, 102 Stat. 3575, 3655; Pub. L. 101–239, title VII, §7103(a), (c)(1), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11405(a), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §105(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §§13102(a), 13302(d), Aug. 10, 1993, 107 Stat. 420, 556; Pub. L. 104–188, title I, §1201(a)–(e)(1), (5), (f), Aug. 20, 1996, 110 Stat. 1768–1772; Pub. L. 104–193, title I, §110(<i>l</i>)(1), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title VI, §603(a)–(d), Aug. 5, 1997, 111 Stat. 862; Pub. L. 105–277, div. J, title I, §1002(a), title IV, §4006(c)(1), Oct. 21, 1998, 112 Stat. 2681–888, 2681–912; Pub. L. 106–170, title V, §505(a), (b), Dec. 17, 1999, 113 Stat. 1921.)
 
 #### References in Text
 
@@ -335,6 +335,10 @@ Act of June 6, 1933, referred to in subsec. (d)(11), is act June 6, 1933, ch. 49
 A prior section 51, added Pub. L. 90–364, title I, §102(a), June 28, 1968, 82 Stat. 252; amended Pub. L. 91–53, §5(a), Aug. 7, 1969, 83 Stat. 93; Pub. L. 91–172, title III, §301(b)(5), title VII, §701(a), Dec. 30, 1969, 83 Stat. 585, 657, related to the imposition of a tax surcharge, prior to repeal by Pub. L. 94–455, title XIX, §1901(a)(7), Oct. 4, 1976, 90 Stat. 1765.
 
 #### Amendments
+
+1999—Subsec. (c)(4)(B). Pub. L. 106–170, §505(a), substituted “December 31, 2001” for “June 30, 1999”.
+
+Subsec. (i)(2). Pub. L. 106–170, §505(b), struck out “during which he was not a member of a targeted group” before period at end.
 
 1998—Subsec. (c)(4)(B). Pub. L. 105–277, §1002(a), substituted “June 30, 1999” for “June 30, 1998”.
 
@@ -530,6 +534,10 @@ Subsec. (e). Pub. L. 96–222, §103(a)(6)(G)(ix), inserted “except as provide
 
 1978—Pub. L. 95–600 amended section generally and limited allowance of credit to the hiring of seven target groups with high unemployment rates.
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–170, title V, §505(c), Dec. 17, 1999, 113 Stat. 1921, provided that: “The amendments made by this section \[amending this section and section 51A of this title\] shall apply to individuals who begin work for the employer after June 30, 1999.”
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–277, div. J, title I, §1002(b), Oct. 21, 1998, 112 Stat. 2681–888, provided that: “The amendment made by this section \[amending this section\] shall apply to individuals who begin work for the employer after June 30, 1998.”
@@ -574,7 +582,7 @@ Section 7103(c)(2) of Pub. L. 101–239 provided that: “The amendment made by 
 
 Amendment by section 1017(a) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 4010(c)(2) of Pub. L. 100–647 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply to individuals who begin work for the employer after December 31, 1988.”
+Section 4010(c)(2) of Pub. L. 100–647 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to individuals who begin work for the employer after December 31, 1988.”
 
 Section 4010(d)(2) of Pub. L. 100–647 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to individuals who begin work for the employer after December 31, 1988.”
 
@@ -664,7 +672,7 @@ In general.—The amendment made by subsection (c)(1) \[amending this section\] 
 
 &emsp;“(B)
 
-Special rule for individuals who began work for the employer before 45th day before date of enactment.—In the case of any individual (other than an individual described in section 51(d)(8) of the Internal Revenue Code of 1986) who began work for the employer before the date 45 days before the date of the enactment of this Act \[Aug. 13, 1981\], paragraph (15) of section 51(d) of the Internal Revenue Code of 1986 (as added by subsection (c)(1)) shall be applied by substituting “July 23, 1981,” for the day on which such individual begins work for the employer.
+Special rule for individuals who began work for the employer before 45th day beforedate of enactment.—In the case of any individual (other than an individual described in section 51(d)(8) of the Internal Revenue Code of 1986) who began work for the employer before the date 45 days before the date of the enactment of this Act \[Aug. 13, 1981\], paragraph (15) of section 51(d) of the Internal Revenue Code of 1986 (as added by subsection (c)(1)) shall be applied by substituting “July 23, 1981,” for the day on which such individual begins work for the employer.
 
 &emsp;“(C)
 

@@ -34,7 +34,7 @@ As used in this subchapter—
 
 #### (6) Consumption
 
-&emsp;The term “consumption” means, with respect to any substance, the amount of thatsubstance produced in the United States, plus the amount imported, minus the amount exported to Parties to the Montreal Protocol. Such term shall be construed in a manner consistent with the Montreal Protocol.
+&emsp;The term “consumption” means, with respect to any substance, the amount of that substance produced in the United States, plus the amount imported, minus the amount exported to Parties to the Montreal Protocol. Such term shall be construed in a manner consistent with the Montreal Protocol.
 
 #### (7) Import
 

@@ -36,7 +36,7 @@ In exercising authority to acquire lands pursuant to this section the Secretary 
 
 (3) It is the intention of Congress that land exchanges pursuant to this subsection shall be completed no later than five years after November 17, 1986.
 
-(4) In the event that exchanges authorized by this section leave any private forest land owner with ownership of an uneconomic remnant of forest land contiguous to a special management area, the Secretary is authorized to acquire such forest lands as if they were within the boundaries of a special management area.
+(4) In the event that exchanges authorized by this section leave any private forest land ownerwith ownership of an uneconomic remnant of forest land contiguous to a special management area, the Secretary is authorized to acquire such forest lands as if they were within the boundaries of a special management area.
 
 (5) The following-described Federal lands and interests therein are hereby identified as candidate lands for exchanges conducted pursuant to this section: <i>Provided</i>, That the determination of which candidate lands will be exchanged, and in what sequence, shall be at the discretion of the Secretary. Subject to valid existing rights, such lands are hereby withdrawn from all forms of entry or appropriation or disposal under the public land laws, and from location, entry, and patent under the United States mining law, and from disposition under all laws pertaining to mineral and geothermal leasing and all amendments thereto until the Secretary determines such lands are no longer needed to complete exchanges authorized by this section: <i>Provided</i>, That such period shall not extend beyond five years:
 

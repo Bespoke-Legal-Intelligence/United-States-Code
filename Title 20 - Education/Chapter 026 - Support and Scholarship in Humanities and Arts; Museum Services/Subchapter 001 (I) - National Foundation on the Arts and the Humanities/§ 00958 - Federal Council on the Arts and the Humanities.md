@@ -6,7 +6,7 @@ There is established within the Foundation a Federal Council on the Arts and the
 
 #### (b) Composition; presiding officer; changes in membership to meet changes in programs or executive branch organization
 
-The Council shall be composed of the Chairperson of the National Endowment for the Arts, the Chairperson of the National Endowment for the Humanities, the Director of the Institute of Museum Services, the Secretary of Education, the Secretary of the Smithsonian Institution, the Director of the National Science Foundation, the Librarian of Congress, the Director of the National Gallery of Art, the Chairman of the Commission of Fine Arts, the Archivist of the United States, the Commissioner, Public Buildings Service, General Services Administration, the Assistant Secretary for Aging, a member designated by the Director of the United States Information Agency and a member designated by the Secretary of the Interior, a member designated by the Chairman of the Senate Commission on Art and Antiquities, and a member designated by the Speaker of the House. The President shall designate the presiding officer of the Council from among the members. The President is authorized to change the membership of the Council from time to time as the President deems necessary to meet changes in Federal programs or executive branch organization.
+The Council shall be composed of the Chairperson of the National Endowment for the Arts, the Chairperson of the National Endowment for the Humanities, the Director of the Institute of Museum Services, the Secretary of Education, the Secretary of the Smithsonian Institution, the Director of the National Science Foundation, the Librarian of Congress, the Director of the National Gallery of Art, the Chairman of the Commission of Fine Arts, the Archivist of the United States, the Commissioner, Public Buildings Service, General Services Administration, the Assistant Secretary for Aging, a member designated by the Secretary of State and a member designated by the Secretary of the Interior, a member designated by the Chairman of the Senate Commission on Art and Antiquities, and a member designated by the Speaker of the House. The President shall designate the presiding officer of the Council from among the members. The President is authorized to change the membership of the Council from time to time as the President deems necessary to meet changes in Federal programs or executive branch organization.
 
 #### (c) Functions
 
@@ -26,7 +26,7 @@ The Council shall—
 
 &emsp;(7) encourage an ongoing dialogue in support of the arts and the humanities among Federal agencies.
 
-(Pub. L. 89–209, §9, Sept. 29, 1965, 79 Stat. 851; Pub. L. 91–346, §9, July 20, 1970, 84 Stat. 446; Pub. L. 93–133, §2(a)(8), Oct. 19, 1973, 87 Stat. 464; Pub. L. 94–462, title II, §208, Oct. 8, 1976, 90 Stat. 1977; 1977 Reorg. Plan No. 2, §7(a)(12), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 96–496, title I, §§106, 109(d), Dec. 4, 1980, 94 Stat. 2587, 2591; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; renumbered title I, §9, and amended Pub. L. 98–306, §§2, 6, May 31, 1984, 98 Stat. 223, 224; renumbered §9 and amended Pub. L. 99–194, title I, §§101(1), 109, Dec. 20, 1985, 99 Stat. 1332, 1339; Pub. L. 101–512, title III, §318 \[title I, §108\], Nov. 5, 1990, 104 Stat. 1960, 1970; Pub. L. 103–171, §3(b)(2), Dec. 2, 1993, 107 Stat. 1991.)
+(Pub. L. 89–209, §9, Sept. 29, 1965, 79 Stat. 851; Pub. L. 91–346, §9, July 20, 1970, 84 Stat. 446; Pub. L. 93–133, §2(a)(8), Oct. 19, 1973, 87 Stat. 464; Pub. L. 94–462, title II, §208, Oct. 8, 1976, 90 Stat. 1977; Pub. L. 96–496, title I, §§106, 109(d), Dec. 4, 1980, 94 Stat. 2587, 2591; renumbered title I, §9, and amended Pub. L. 98–306, §§2, 6, May 31, 1984, 98 Stat. 223, 224; renumbered §9 and amended Pub. L. 99–194, title I, §§101(1), 109, Dec. 20, 1985, 99 Stat. 1332, 1339; Pub. L. 101–512, title III, §318 \[title I, §108\], Nov. 5, 1990, 104 Stat. 1960, 1970; Pub. L. 103–171, §3(b)(2), Dec. 2, 1993, 107 Stat. 1991.)
 
 #### Amendments
 
@@ -69,12 +69,6 @@ Amendment by Pub. L. 101–512 effective Oct. 1, 1990, see section 318 \[title I
 #### Effective Date of 1973 Amendment
 
 Amendment by Pub. L. 93–133 effective on and after July 1, 1973, see section 2(b) of Pub. L. 93–133, set out a a note under section 951 of this title.
-
-#### Transfer of Functions
-
-“Director of the United States Information Agency” substituted in text for “Director of the International Communication Agency” in subsec. (b), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of Title 22, Foreign Relations and Intercourse.
-
-Previously, “Director of the International Communication Agency” was substituted for “Secretary of State” in subsec. (b), pursuant to Reorg. Plan No. 2 of 1977, §7(a)(12), 42 F.R. 62461, 91 Stat. 1637, set out in the Appendix to Title 5, Government Organization and Employees, effective on or before July 1, 1978, at such time as specified by the President, which transferred all functions vested in the Secretary of State under subsec. (b) of this section to the Director of the International Communication Agency.
 
 #### Section Referred to in Other Sections
 

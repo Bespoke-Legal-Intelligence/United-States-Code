@@ -16,7 +16,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (1) In general
 
-&emsp;With respect to the projects of research with which an applicant under subsection (a) of thissection is concerned, the Secretary may make a grant under such subsection to the applicant only if the following conditions are met:
+&emsp;With respect to the projects of research with which an applicant under subsection (a) of this section is concerned, the Secretary may make a grant under such subsection to the applicant only if the following conditions are met:
 
 &emsp;&emsp;(A) The applicant agrees to make reasonable efforts—
 
@@ -28,7 +28,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 &emsp;&emsp;(B) The applicant agrees that, in the case of the research-related functions to be carried out by the applicant pursuant to subsection (a)(1) of this section, the applicant will comply with accepted standards that are applicable to such functions (including accepted standards regarding informed consent and other protections for human subjects).
 
-&emsp;&emsp;(C) For the first and second fiscal years for which grants under subsection (a) of this section are to be made to the applicant, the applicant agrees that, not later than the end of the second fiscal year of receiving such a grant, a significant number of women, infants, children, and youth who are patients of the applicant will be participating in the projects of research.
+&emsp;&emsp;(C) For the first and second fiscal years for which grants under subsection (a) of this section are to be made to the applicant, the applicant agrees that, not later than the end of the second fiscal year of receiving such a grant, a significant number of women, infants, children, and youth who are patientsof the applicant will be participating in the projects of research.
 
 &emsp;&emsp;(D) Except as provided in paragraph (3) (and paragraph (4), as applicable), for the third and subsequent fiscal years for which such grants are to be made to the applicant, the Secretary has determined that a significant number of such individuals are participating in the projects.
 

@@ -4,7 +4,7 @@ The Secretary of Defense shall include in the annual report of the Secretary to 
 
 &emsp;(1) The number of officers selected for the joint specialty and their education and experience.
 
-&emsp;(2) The military occupational specialties within each of the armed forces that have been designated as critical occupational specialties under section 661(c)(2) of this title, separately identifying those specialties for which there is a severe shortage of trained officers, together with an explanation of how those specialties meet the criteria for that designation in section 661(c)(2)(B) of this title.
+&emsp;(2) The military occupational specialties within each of the armed forces that have beendesignated as critical occupational specialties under section 661(c)(2) of this title, separately identifying those specialties for which there is a severe shortage of trained officers, together with an explanation of how those specialties meet the criteria for that designation in section 661(c)(2)(B) of this title.
 
 &emsp;(3) The number of officers on the active-duty list with a military occupational specialty designated under section 661(c)(2) of this title as a critical occupational specialty who—
 
@@ -128,7 +128,7 @@ Par. (16). Pub. L. 100–180, §1304(a)(1), redesignated former par. (10) as (16
 
 #### Effective Date of 1987 Amendment
 
-Section 1304(b) of Pub. L. 100–180 provided that: “Paragraphs (3) and (4) of section 667 of title 10, UnitedStates Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 1987.”
+Section 1304(b) of Pub. L. 100–180 provided that: “Paragraphs (3) and (4) of section 667 of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 1987.”
 
 #### Additional Information To Be Included in Five Annual Joint Officer Policy Reports After November 30, 1993
 

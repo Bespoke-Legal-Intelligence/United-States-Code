@@ -22,7 +22,7 @@
 
 (c) In providing services under an agreement made under subsection (b) of this section—
 
-&emsp;(1) costs incurred by the United States Government may be paid from appropriations available to the District of Columbia government officer or employee to whom the services were provided; and
+&emsp;(1) costs incurred by the United States Government may be paid from appropriationsavailable to the District of Columbia government officer or employee to whom the services were provided; and
 
 &emsp;(2) costs incurred by the District of Columbia government may be paid from amounts available to the United States Government officer or employee to whom the services were provided.
 

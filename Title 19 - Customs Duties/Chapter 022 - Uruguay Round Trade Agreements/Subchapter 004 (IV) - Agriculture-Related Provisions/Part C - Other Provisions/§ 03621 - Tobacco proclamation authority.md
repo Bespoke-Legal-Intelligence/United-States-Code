@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President, after consultation with the Committee on Ways and Means of the House of Representatives and with the Committee on Finance of the Senate, may proclaim the reduction or elimination of any duty with respect to cigar binder and filler tobacco, wrapper tobacco, or oriental tobacco set forth in Schedule XX.
+The President, after consultation with the Committee on Ways and Means of the House ofRepresentatives and with the Committee on Finance of the Senate, may proclaim the reduction or elimination of any duty with respect to cigar binder and filler tobacco, wrapper tobacco, or oriental tobacco set forth in Schedule XX.
 
 #### (b) Effective date
 

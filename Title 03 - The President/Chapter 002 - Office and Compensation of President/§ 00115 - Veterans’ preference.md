@@ -2,7 +2,7 @@
 
 (a) Subject to subsection (b), appointments under sections 105, 106, and 107 shall be made in accordance with section 2108, and sections 3309 through 3312, of title 5.
 
-(b) Subsection (a) shall not apply to any appointment to a position the rate of basic pay for which is at least equal to the minimum rate established for positions in the Senior Executive Service under section 5382 of title 5 and the duties of which are comparable to those described in section 3132(a)(2) of such title or to any other position if, with respect to such position, the President makes certification—
+(b) Subsection (a) shall not apply to any appointment to a position the rate of basic pay forwhich is at least equal to the minimum rate established for positions in the Senior Executive Service under section 5382 of title 5 and the duties of which are comparable to those described in section 3132(a)(2) of such title or to any other position if, with respect to such position, the President makes certification—
 
 &emsp;(1) that such position is—
 

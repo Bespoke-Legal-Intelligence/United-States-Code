@@ -54,7 +54,7 @@ This section shall not apply to any tax with respect to which the regulated inve
 
 #### Amendments
 
-1998—Subsec. (c). Pub. L. 105–206, §6010(k)(2), struck out at end “Such notice shall also include the amount of such taxes which (without regard to the election under this section) would not be allowable as a credit under section 901(a) to the regulated investment company by reason of section 901(k).”
+1998—Subsec. (c). Pub. L. 105–206, §6010(k)(2), struck out at end “Such notice shall also include the amount of such taxes which (without regard to the election under this section) would not be allowable as a creditunder section 901(a) to the regulated investment company by reason of section 901(k).”
 
 Subsecs. (e), (f). Pub. L. 105–206, §6010(k)(1), added subsec. (e) and redesignated former subsec. (e) as (f).
 

@@ -14,7 +14,7 @@ In order to provide for prompt payment and satisfaction of net equity claims of 
 
 &emsp;(5) no advance shall be made by SIPC to the trustee to pay or otherwise satisfy any net equity claim of any customer who is a broker or dealer or bank, other than to the extent that it shall be established to the satisfaction of the trustee, from the books and records of the debtor or from the books and records of a broker or dealer or bank, or otherwise, that the net equity claim of such broker or dealer or bank against the debtor arose out of transactions for customers of such broker or dealer or bank (which customers are not themselves a broker or dealer or bank or a person described in paragraph (4)), in which event each such customer of such broker or dealer or bank shall be deemed a separate customer of the debtor.
 
-> To the extent moneys are advanced by SIPC to the trustee to pay or otherwise satisfy the claims of customers, in addition to all other rights it may have at law or in equity, SIPC shall be subrogated to the claims of such customers with the rights and priorities provided in this chapter, except that SIPC as subrogee may assert no claim against customer property until after the allocation thereof to customers as provided in section 78fff–2(c) of this title.
+> To the extent moneys are advanced by SIPC to the trustee to pay or otherwise satisfy the claims of customers, in addition to all otherrights it may have at law or in equity, SIPC shall be subrogated to the claims of such customers with the rights and priorities provided in this chapter, except that SIPC as subrogee may assert no claim against customer property until after the allocation thereof to customers as provided in section 78fff–2(c) of this title.
 
 #### (b) Other advances
 

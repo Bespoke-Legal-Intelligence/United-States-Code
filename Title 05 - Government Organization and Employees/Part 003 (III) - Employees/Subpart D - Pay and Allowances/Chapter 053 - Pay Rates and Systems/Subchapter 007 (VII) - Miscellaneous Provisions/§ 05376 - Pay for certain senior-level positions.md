@@ -42,7 +42,7 @@ Section 529 \[title I, §101(c), (d)\] of Pub. L. 101–509 provided that:
 
 Other References.—Until otherwise provided by law—
 
-&emsp;“(1) any reference in a provision of law (which is outside title 5, United States Code, and in effect immediately before this section takes effect \[see Effective Date of 1990 Amendment note set out under section 5301 of this title\], excluding any reference in a provision of law amended by this Act \[see Short Title of 1990 Amendment note set out under section 5301 of this title\])—
+&emsp;“(1) any reference in a provision of law (which is outside title 5, United States Code, and in effect immediately before this section takes effect \[see Effective Date of 1990 Amendment note set out under section 5301 of this title\], excluding any reference in a provision of law amended by this Act \[see Short Titleof 1990 Amendment note set out under section 5301 of this title\])—
 
 &emsp;&emsp;“(A)(i) to the rate of pay for grade GS–18 of the General Schedule, or to the maximum rate of pay under the General Schedule, shall be considered a reference to the maximum rate payable under section 5376 of such title (as amended by section 102(a));
 
@@ -64,5 +64,5 @@ Regulations.—The Office of Personnel Management may prescribe regulations, con
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3405, 5304, 5331, 5382, 5595, 5948, 9509 of this title; title 7 section 7317; title 20 section 6011; title 42 sections 5612, 5651.
+This section is referred to in sections 3405, 5304, 5331, 5382, 5595, 5948, 9509 of this title; title 7 section 7317; title 20 section 6011; title 33 sections 1123, 1128; title 36 sections 2302, 2303, 2307; title 42 sections 1863, 1864, 5612, 5651.
 

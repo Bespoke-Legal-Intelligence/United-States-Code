@@ -1,0 +1,62 @@
+### §1798. Child care services and youth program services for dependents: financial assistance for providers
+
+(a)
+
+Authority.—The Secretary of Defense may provide financial assistance to an eligible civilian provider of child care services or youth program services that furnishes such services for members of the armed forces and employees of the United States if the Secretary determines that providing such financial assistance—
+
+&emsp;(1) is in the best interest of the Department of Defense;
+
+&emsp;(2) enables supplementation or expansion of furnishing of child care services or youth program services for military installations, while not supplanting or replacing such services; and
+
+&emsp;(3) ensures that the eligible provider is able to comply, and does comply, with the regulations, policies, and standards of the Department of Defense that are applicable to the furnishing of such services.
+
+(b)
+
+Eligible Providers.—A provider of child care services or youth program services is eligible for financial assistance under this section if the provider—
+
+&emsp;(1) is licensed to provide those services under applicable State and local law;
+
+&emsp;(2) has previously provided such services for members of the armed forces or employees of the United States; and
+
+&emsp;(3) either—
+
+&emsp;&emsp;(A) is a family home day care provider; or
+
+&emsp;&emsp;(B) is a provider of family child care services that—
+
+&emsp;&emsp;&emsp;(i) otherwise provides federally funded or sponsored child development services;
+
+&emsp;&emsp;&emsp;(ii) provides the services in a child development center owned and operated by a private, not-for-profit organization;
+
+&emsp;&emsp;&emsp;(iii) provides before-school or after-school child care program in a public school facility;
+
+&emsp;&emsp;&emsp;(iv) conducts an otherwise federally funded or federally sponsored school age child care or youth services program;
+
+&emsp;&emsp;&emsp;(v) conducts a school age child care or youth services program that is owned and operated by a not-for-profit organization; or
+
+&emsp;&emsp;&emsp;(vi) is a provider of another category of child care services or youth services determined by the Secretary of Defense as appropriate for meeting the needs of members of the armed forces or employees of the Department of Defense.
+
+(c)
+
+Funding.—To provide financial assistance under this subsection, the Secretary of Defense may use any funds appropriated to the Department of Defense for operation and maintenance.
+
+(d)
+
+Biennial Report.—(1) Every two years the Secretary of Defense shall submit to Congress a report on the exercise of authority under this section. The report shall include an evaluation of the effectiveness of that authority for meeting the needs of members of the armed forces or employees of the Department of Defense for child care services and youth program services. The report may include any recommendations for legislation that the Secretary considers appropriate to enhance the capability of the Department of Defense to meet those needs.
+
+(2) A biennial report under this subsection may be combined with the biennial report under section 1799(d) of this title into a single report for submission to Congress.
+
+(Added Pub. L. 106–65, div. A, title V, §584(a)(1)(B), Oct. 5, 1999, 113 Stat. 634.)
+
+#### Prior Provisions
+
+A prior section 1798 was renumbered section 1800 of this title.
+
+#### First Biennial Reports
+
+Pub. L. 106–65, div. A, title V, §584(b), Oct. 5, 1999, 113 Stat. 636, provided that: “The first biennial reports under sections 1798(d) and 1799(d) of title 10, United States Code (as added by subsection (a)), shall be submitted not later than March 31, 2002, and shall cover fiscal years 2000 and 2001.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1799 of this title.
+

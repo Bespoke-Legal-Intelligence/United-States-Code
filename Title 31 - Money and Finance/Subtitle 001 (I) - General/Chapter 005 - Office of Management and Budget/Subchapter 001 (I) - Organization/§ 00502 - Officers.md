@@ -56,7 +56,7 @@ Reorg. Plan No. 1 of 1939, eff. July 1, 1939, §1, 53 Stat. 1423; Reorg. Plan No
 
 In subsections (a) and (b), the words related to salaries in section 207 of the Budget and Accounting Act, 1921 (ch. 18, 42 Stat. 22), are omitted as covered by 5:5313(11) and 5314(34).
 
-In subsection (a), the text of section 102(d)(1st sentence) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) is omitted as covered by 3:301 and for consistency in the revised title and with other titles of the United States Code. The word “administer” is substituted for “supervise and direct the administration of” in section 102(d) of the Reorganization Plan to eliminate unnecessary words.
+In subsection (a), the text of section 102(d)(1st sentence) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) is omitted as covered by 3:301 and for consistency in the revised title and with other titles of the United States Code. The word “administer” is substituted for “supervise and direct the administrationof” in section 102(d) of the Reorganization Plan to eliminate unnecessary words.
 
 In subsections (b) and (c), the words “designated by this reorganization plan” in section 102(e) of Reorganization Plan No. 2 of 1970 are omitted as executed. The words “carry out the duties and powers prescribed by” are substituted for “perform such functions as” for consistency in the revised title and with other titles of the Code. The words “may from time to time direct” are omitted as unnecessary.
 

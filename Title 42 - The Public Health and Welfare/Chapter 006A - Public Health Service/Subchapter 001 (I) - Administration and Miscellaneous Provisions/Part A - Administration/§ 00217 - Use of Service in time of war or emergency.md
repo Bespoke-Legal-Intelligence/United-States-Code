@@ -1,6 +1,6 @@
 ### §217. Use of Service in time of war or emergency
 
-In time of war, or of emergency proclaimed by the President, he may utilize the Service to such extent and in such manner as shall in his judgment promote the public interest. In time of war, or of emergency involving the national defense proclaimed by the President, he may by Executive order declare the commissioned corps of the Service to be a military service. Upon such declaration, and during the period of such war or such emergency or such part thereof as the President shall prescribe, the commissioned corps (a) shall constitute a branch of the land and naval forces of the United States, (b) shall,to the extent prescribed by regulations of the President, be subject to the Uniform Code of Military Justice \[10 U.S.C. 801 et seq.\], and (c) shall continue to operate as part of the Service except to the extent that the President may direct as Commander in Chief.
+In time of war, or of emergency proclaimed by the President, he may utilize the Service to such extent and in such manner as shall in his judgment promote the public interest. In time of war, or of emergency involving the national defense proclaimed by the President, he may by Executive order declare the commissioned corps of the Service to be a military service. Upon such declaration, and during the period of such war or such emergency or such part thereof as the President shall prescribe, the commissioned corps (a) shall constitute a branch of the land and naval forces of the United States, (b) shall, to the extent prescribed by regulations of the President, be subject to the Uniform Code of Military Justice \[10 U.S.C. 801 et seq.\], and (c) shall continue to operate as part of the Service except to the extent that the President may direct as Commander in Chief.
 
 (July 1, 1944, ch. 373, title II, §216, 58 Stat. 690; Apr. 27, 1956, ch. 211, §1, 70 Stat. 116.)
 
@@ -18,7 +18,7 @@ Section 6 of Joint Res. July 3, 1952, ch. 570, 66 Stat. 334, repealed Joint Res.
 
 #### Transfer of Functions
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title.Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Executive Order No. 9575
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Upon written application of the State of Washington (in this section referred to as the“State”) and after the approval of such application by the Secretary, the State may conduct a Family Independence Demonstration Project (in this section referred to as the “Project”) in all or in part of the State in accordance with this section to determine whether the Project, as an alternative to providing benefits under the food stamp program, would more effectively break the cycle of poverty and would provide families with opportunities for economic independence and strengthened family functioning.
+Upon written application of the State of Washington (in this section referred to as the “State”) and after the approval of such application by the Secretary, the State may conduct a Family Independence Demonstration Project (in this section referred to as the “Project”) in all or in part of the State in accordance with this section to determine whether the Project, as an alternative to providing benefits under the food stamp program, would more effectively break the cycle of poverty and would provide families with opportunities for economic independence and strengthened family functioning.
 
 #### (b) Nature of Project
 
@@ -12,7 +12,7 @@ In an application submitted under subsection (a) of this section, the State shal
 
 &emsp;(2) All of the following terms and conditions shall be in effect under the Project:
 
-&emsp;&emsp;(A)(i) Except as provided in clause (ii), individuals with respect to whom benefits may be paid under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], and such other individuals as are included in the Project pursuant to chapter 434 of the 1987 Washington Laws, as enacted in May 1987, shall be eligible to participate in the Project in lieu of receiving benefits under the food stamp program and cash assistance under any other Federal program covered by the Project.
+&emsp;&emsp;(A)(i) Except as provided in clause (ii), individuals with respect to whom benefits may be paid under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], and such other individuals as are included in the Project pursuant to chapter 434 of the 1987 Washington Laws, as enacted in May 1987,shall be eligible to participate in the Project in lieu of receiving benefits under the food stamp program and cash assistance under any other Federal program covered by the Project.
 
 &emsp;&emsp;(ii) Individuals who receive only child care or medical benefits under the Project shall not be eligible to receive food assistance under the Project. Such individuals may receive coupons under the food stamp program if eligible.
 
@@ -54,7 +54,7 @@ In an application submitted under subsection (a) of this section, the State shal
 
 &emsp;&emsp;&emsp;(II) otherwise establish criteria and verification standards for representation under this clause.
 
-&emsp;&emsp;(v) The State shall provide a method for reviewing applications to participate in theProject submitted by, and distributing food assistance under the Project to, individuals who do not reside in permanent dwellings or who have no fixed mailing address. In carrying out the preceding sentence, the State shall take such steps as are necessary to ensure that participation in the Project is limited to eligible individuals.
+&emsp;&emsp;(v) The State shall provide a method for reviewing applications to participate in the Project submitted by, and distributing food assistance under the Project to, individuals who do not reside in permanent dwellings or who have no fixed mailing address. In carrying out the preceding sentence, the State shall take such steps as are necessary to ensure that participation in the Project is limited to eligible individuals.
 
 &emsp;(3) An assurance that the State will allow any individual to apply to participate in the food stamp program without applying to participate in the Project.
 
@@ -64,7 +64,7 @@ In an application submitted under subsection (a) of this section, the State shal
 
 &emsp;&emsp;(B) the portion of the administrative costs for which the State would have received reimbursement under—
 
-&emsp;&emsp;&emsp;(i) subsections (a) and (g) of section 2025 of this title (without regard to the first proviso to such subsection (g)) if the individuals who participated in the Project had participated instead in the food stamp program; and
+&emsp;&emsp;&emsp;(i) subsections (a) and (g) of section 2025 of this title (without regard to the firstproviso to such subsection (g)) if the individuals who participated in the Project had participated instead in the food stamp program; and
 
 &emsp;&emsp;&emsp;(ii) section 2025(h) of this title if the individuals who participated in the Project had participated in an employment and training program under section 2015(d)(4) of this title;
 
@@ -124,7 +124,7 @@ For purposes of any other Federal, State or local law—
 
 &emsp;(1) cash assistance provided under the Project that represents food assistance shall be treated in the same manner as coupons provided under the food stamp program are treated; and
 
-&emsp;(2) participants in the program who receive food assistance under the Project shall be treated in the same manner as recipients ofcoupons under the food stamp program are treated.
+&emsp;(2) participants in the program who receive food assistance under the Project shall be treated in the same manner as recipients of coupons under the food stamp program are treated.
 
 #### (g) Project audits
 
@@ -142,7 +142,7 @@ With funds appropriated under section 2027(a)(1) of this title, the Secretary sh
 
 #### References in Text
 
-Paragraph (19) of section 2020(e) of this title, referred to in subsec. (b)(2)(G)(i), was redesignated paragraph (18) of section 2020(e) of this title by Pub. L. 104–193, title VIII, §835(1)(D)(i), Aug. 22, 1996, 110 Stat. 2330.
+Paragraph (19) of section 2020(e) of this title, referred to in subsec. (b)(2)(G)(i), was redesignated paragraph\(18) of section 2020(e) of this title by Pub. L. 104–193, title VIII, §835(1)(D)(i), Aug. 22, 1996, 110 Stat. 2330.
 
 The Social Security Act, referred to in subsec. (b)(2)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Social Security Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 

@@ -48,7 +48,7 @@ Testing as Part of Medical Examination.—The Secretary of Transportation may pr
 
 (e)
 
-Rehabilitation.—The Secretary of Transportation shall prescribe regulations establishing requirements for rehabilitation programs that provide for the identification and opportunity for treatment of operators of commercial motor vehicles who are found to have used alcohol or a controlled substance in violation of law or a Government regulation. The Secretaryshall decide on the circumstances under which those operators shall be required to participate in a program. This section does not prevent a motor carrier from establishing a program under this section in cooperation with another motor carrier.
+Rehabilitation.—The Secretary of Transportation shall prescribe regulations establishing requirements for rehabilitation programs that provide for the identification and opportunity for treatment of operators of commercial motor vehicles who are found to have used alcohol or a controlled substance in violation of law or a Government regulation. The Secretary shall decide on the circumstances under which those operators shall be required to participate in a program. This section does not prevent a motor carrier from establishing a program under this section in cooperation with another motor carrier.
 
 (f)
 
@@ -151,6 +151,36 @@ In subsection (g), the words “rule” and “ordinance” are omitted as being
 #### Amendments
 
 1995—Subsec. (b)(1)(A). Pub. L. 104–59 added subpar. (A) and struck out former subpar. (A) which read as follows: “In the interest of commercial motor vehicle safety, the Secretary of Transportation shall prescribe regulations not later than October 28, 1992, that establish a program requiring motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a United States Government regulation.”
+
+#### Drug Test Results Study
+
+Pub. L. 106–159, title II, §226, Dec. 9, 1999, 113 Stat. 1771, provided that:
+
+“(a)
+
+In General.—The Secretary shall conduct a study of the feasibility and merits of—
+
+&emsp;“(1) requiring medical review officers or employers to report all verified positive controlled substances test results on any driver subject to controlled substances testing under part 382 of title 49, Code of Federal Regulations, including the identity of each person tested and each controlled substance found, to the State that issued the driver's commercial driver's license; and
+
+&emsp;“(2) requiring all prospective employers, before hiring any driver, to query the State that issued the driver's commercial driver's license on whether the State has on record any verified positive controlled substances test on such driver.
+
+“(b)
+
+Study Factors.—In carrying out the study under this section, the Secretary shall assess—
+
+&emsp;“(1) methods for safeguarding the confidentiality of verified positive controlled substances test results;
+
+&emsp;“(2) the costs, benefits, and safety impacts of requiring States to maintain records of verified positive controlled substances test results; and
+
+&emsp;“(3) whether a process should be established to allow drivers—
+
+&emsp;&emsp;“(A) to correct errors in their records; and
+
+&emsp;&emsp;“(B) to expunge information from their records after a reasonable period of time.
+
+“(c)
+
+Report.—Not later than 2 years after the date of the enactment of this Act \[Dec. 9, 1999\], the Secretary shall submit to Congress a report on the study carried out under this section, together with such recommendations as the Secretary determines appropriate.”
 
 #### Post-Accident Alcohol Testing
 

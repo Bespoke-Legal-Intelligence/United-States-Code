@@ -40,5 +40,5 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 892d of this title.
+This section is referred to in sections 892b, 892d of this title.
 

@@ -28,7 +28,7 @@ On a pilot program basis, the Administration may establish a Premier Certified L
 
 #### (3) Applicability of criteria after designation
 
-&emsp;The Administrator may revoke the designation of a certified development company as apremier certified lender under this section at any time, if the Administrator determines that the certified development company does not meet any requirement described in subparagraphs (A) through (D) of paragraph (2).
+&emsp;The Administrator may revoke the designation of a certified development company as a premier certified lender under this section at any time, if the Administrator determines that the certified development company does not meet any requirement described in subparagraphs (A) through (D) of paragraph (2).
 
 #### (c) Loss reserve
 
@@ -110,7 +110,7 @@ Not later than 1 year after October 22, 1994, and annually thereafter, the Admin
 
 &emsp;(2) the debenture guarantee volume of such companies;
 
-&emsp;(3) a comparison of the loss rate for premier certified lenders to the loss rate for accreditedand other lenders, specifically comparing default rates and recovery rates on liquidations; and
+&emsp;(3) a comparison of the loss rate for premier certified lenders to the loss rate for accredited and other lenders, specifically comparing default rates and recovery rates on liquidations; and
 
 &emsp;(4) such other information as the Administration deems appropriate.
 

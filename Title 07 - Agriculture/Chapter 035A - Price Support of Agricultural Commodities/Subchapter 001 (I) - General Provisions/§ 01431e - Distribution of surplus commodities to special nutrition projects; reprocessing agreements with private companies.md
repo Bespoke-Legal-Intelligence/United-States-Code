@@ -2,7 +2,7 @@
 
 (1) Notwithstanding any other provision of law, whenever Government stocks of commodities are acquired under the price support programs and are not likely to be sold by the Commodity Credit Corporation or otherwise used in programs of commodity sale or distribution, such commodities shall be made available without charge or credit to nutrition projects under the authority of the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), to child nutrition programs providing food service, and to food banks participating in the special nutrition projects established under section 4004 of this title. Such distribution may include bulk distribution to congregate nutrition sites and to providers of home delivered meals under the Older Americans Act of 1965. The Commodity Credit Corporation is authorized to use available funds to operate the program under this subsection and to further process products to facilitate bonus commodity use. Commodities made available under this section shall include, but not be limited to, dairy products, wheat or the products thereof, rice, honey, and cornmeal.
 
-(2)(A) Effective through September 30, 2002, whenever a commodity is made available without charge or credit under any nutrition program administered by the Secretary of Agriculture, the Secretary shall encourage consumption of such commodity through agreements with private companies under which the commodity is reprocessed into end-food products for use by eligible recipient agencies. The expenseof reprocessing shall be paid by such eligible recipient agencies.
+(2)(A) Effective through September 30, 2002, whenever a commodity is made available without charge or credit under any nutrition program administered by the Secretary of Agriculture, the Secretary shall encourage consumption of such commodity through agreements with private companies under which the commodity is reprocessed into end-food products for use by eligible recipient agencies. The expense of reprocessing shall be paid by such eligible recipient agencies.
 
 (B) To maintain eligibility to enter into, and to continue, any agreement with the Secretary of Agriculture under subparagraph (A), a private company shall annually settle all accounts with the Secretary and any appropriate State agency regarding commodities processed under such agreements.
 
@@ -32,7 +32,7 @@ Par. (2)(C), (D). Pub. L. 101–624, §1775(b), added subpars. (C) and (D).
 
 1988—Par. (2)(A). Pub. L. 100–237 substituted “September 30, 1990” for “June 30, 1987”.
 
-1985—Pub. L. 99–198 designated existing provisions as par. (1), inserted provision directing that commodities made available under this section include, but not be limited to, dairy products, wheat or the products thereof, rice, honey, and cornmeal, and added par. (2).
+1985—Pub. L. 99–198 designated existing provisions as par. (1), inserted provision directing that commodities made available under this section include, but not belimited to, dairy products, wheat or the products thereof, rice, honey, and cornmeal, and added par. (2).
 
 #### Effective Date of 1991 Amendment
 

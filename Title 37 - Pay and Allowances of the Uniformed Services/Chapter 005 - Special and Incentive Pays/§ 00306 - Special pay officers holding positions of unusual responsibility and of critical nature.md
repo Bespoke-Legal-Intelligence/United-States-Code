@@ -76,5 +76,5 @@ Subsec. (f). Pub. L. 96–470 substituted provision requiring the Secretary of D
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on October 22, 1968, see section 6 of Pub. L. 90–623, set out as anote under section 5334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on October 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 

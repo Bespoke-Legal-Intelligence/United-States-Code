@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-When not otherwise provided for by this title, the Secretary shall by regulations prescribe theplace for the filing of any return, declaration, statement, or other document, or copies thereof, required by this title or by regulations.
+When not otherwise provided for by this title, the Secretary shall by regulations prescribe the place for the filing of any return, declaration, statement, or other document, or copies thereof, required by this title or by regulations.
 
 #### (b) Tax returns
 
@@ -86,7 +86,7 @@ In the case of returns of tax required under authority of part II of this subcha
 
 &emsp;In the case of any return of tax imposed by section 4181 or subtitle E (relating to taxes on alcohol, tobacco, and firearms), subsection (a) shall apply (and this subsection shall not apply).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 752; Pub. L. 89–713, §1(a), Nov. 2, 1966, 80 Stat. 1107; Pub. L. 91–614, title I, §101(i), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 94–455, title X, §§1051(h)(4), 1052(c)(6), 1053(d)(4), title XII, §1204(c)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1647, 1648, 1649, 1697, 1834; Pub. L. 95–615, §§202(g)(5), formerly §202(f)(5), 207(b), Nov. 8, 1978, 92 Stat. 3100, 3108, renumbered §202(g)(5), Pub. L. 96–222, title I, §108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 97–34, title I, §§111(b)(3), 112(b)(6), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 99–514, title XII, §1272(d)(10), title XVIII, §1879(r)(1), Oct. 22, 1986, 100 Stat. 2594, 2912; Pub. L. 100–203, title X, §10713(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 101–239, title VII, §7841(f), Dec. 19, 1989, 103 Stat. 2429.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 752; Pub. L. 89–713, §1(a), Nov. 2, 1966, 80 Stat. 1107; Pub. L.91–614, title I, §101(i), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 94–455, title X, §§1051(h)(4), 1052(c)(6), 1053(d)(4), title XII, §1204(c)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1647, 1648, 1649, 1697, 1834; Pub. L. 95–615, §§202(g)(5), formerly §202(f)(5), 207(b), Nov. 8, 1978, 92 Stat. 3100, 3108, renumbered §202(g)(5), Pub. L. 96–222, title I, §108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 97–34, title I, §§111(b)(3), 112(b)(6), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 99–514, title XII, §1272(d)(10), title XVIII, §1879(r)(1), Oct. 22, 1986, 100 Stat. 2594, 2912; Pub. L. 100–203, title X, §10713(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 101–239, title VII, §7841(f), Dec. 19, 1989, 103 Stat. 2429.)
 
 #### Amendments
 
@@ -156,7 +156,7 @@ Amendment by Pub. L. 91–614 applicable with respect to decedents dying after D
 
 #### Effective Date of 1966 Amendment
 
-Section 6 of Pub. L. 89–713 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[amending this section, sections 6103, 6107,and 6151 of this title, section 3237 of Title 18, Crimes and Criminal Procedure, and section 1395x of Title 42, The Public Health and Welfare\] shall take effect upon the date of the enactment of this Act \[Nov. 2, 1966\].”
+Section 6 of Pub. L. 89–713 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[amending this section, sections 6103, 6107, and 6151 of this title, section 3237 of Title 18, Crimes and Criminal Procedure, and section 1395x of Title 42, The Public Health and Welfare\] shall take effect upon the date of the enactment of this Act \[Nov. 2, 1966\].”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

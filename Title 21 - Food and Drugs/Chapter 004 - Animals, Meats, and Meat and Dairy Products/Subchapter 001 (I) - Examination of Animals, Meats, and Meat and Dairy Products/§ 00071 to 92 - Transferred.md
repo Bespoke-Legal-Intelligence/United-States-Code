@@ -12,7 +12,7 @@ Section 74, act Mar. 4, 1907, ch. 2907, 34 Stat. 1261, which related to examinat
 
 Section 75, act Mar. 4, 1907, ch. 2907, 34 Stat. 1262, which related to labeling of receptacles and coverings of meat and meat food products inspected and passed, supervision by inspectors, prohibition of sales under false names, was transferred to section 607 of this title.
 
-Section 76, act Mar. 4, 1907, ch. 2907, 34 Stat. 1262, which related to sanitary inspection and regulation of slaughtering and packing establishments, and rejection of meat or meat food products unfit for food, was transferred to section 608 of this title.
+Section 76, act Mar. 4, 1907, ch. 2907, 34 Stat. 1262, which related to sanitary inspection and regulation of slaughtering and packing establishments, and rejectionof meat or meat food products unfit for food, was transferred to section 608 of this title.
 
 Section 77, act Mar. 4, 1907, ch. 2907, 34 Stat. 1262, which related to examination of cattle and food products thereof slaughtered and prepared during night time, was transferred to section 609 of this title.
 

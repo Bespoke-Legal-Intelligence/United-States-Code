@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Not later than 6 months after April 4, 1996, the Secretary shall establish a task force, to be known as the “Strategic Planning Task Force”. The task force shall be comprised of 15 members.
+Not later than 6 months after April 4, 1996, the Secretary shall establish a task force, to beknown as the “Strategic Planning Task Force”. The task force shall be comprised of 15 members.
 
 #### (b) Composition
 

@@ -1,6 +1,6 @@
 ### §3622. Rates and fees
 
-(a) From time to time the Postal Service shall request the Postal Rate Commission to submit a recommended decision on changes in a rate or rates of postage or in a fee or fees for postal services if the Postal Service determines that such changes would be in the public interest and in accordance with the policies of this title. The Postal Service may submit such suggestions for rate adjustments as it deems suitable.
+(a) From time to time the Postal Service shall request the Postal Rate Commission to submit a recommended decision on changes in a rate or rates of postage or in a fee or fees for postalservices if the Postal Service determines that such changes would be in the public interest and in accordance with the policies of this title. The Postal Service may submit such suggestions for rate adjustments as it deems suitable.
 
 (b) Upon receiving a request, the Commission shall make a recommended decision on the request for changes in rates or fees in each class of mail or type of service in accordance with the policies of this title and the following factors:
 

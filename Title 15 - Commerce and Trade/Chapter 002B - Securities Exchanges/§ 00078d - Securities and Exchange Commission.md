@@ -2,7 +2,7 @@
 
 #### (a) Establishment; composition; limitations on commissioners; terms of office
 
-There is hereby established a Securities and Exchange Commission (hereinafter referred to as the “Commission”) to be composed of five commissioners to be appointed by the President by and with the advice and consent of the Senate. Not more than three of such commissioners shall be members of the same political party, and in making appointments members of different political parties shall be appointed alternately as nearly as may be practicable. No commissioner shall engage in any other business, vocation, or employment than that of serving as commissioner, nor shall any commissioner participate, directly or indirectly, in any stock-market operations or transactions of a character subject to regulation by the Commission pursuant to this chapter. Each commissioner shall hold office for a term of five years and until his successor is appointed and has qualified, except that he shall not so continue to serve beyond the expiration of the next session of Congress subsequent to the expiration of saidfixed term of office, and except (1) any commissioner appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and (2) the terms of office of the commissioners first taking office after June 6, 1934, shall expire as designated by the President at the time of nomination, one at the end of one year, one at the end of two years, one at the end of three years, one at the end of four years, and one at the end of five years, after June 6, 1934.
+There is hereby established a Securities and Exchange Commission (hereinafter referred to as the “Commission”) to be composed of five commissioners to be appointed by the President by and with the advice and consent of the Senate. Not more than three of such commissioners shall be members of the same political party, and in making appointments members of different political parties shall be appointed alternately as nearly as may be practicable. No commissioner shall engage in any other business, vocation, or employment than that of serving as commissioner, nor shall any commissioner participate, directly or indirectly, in any stock-market operations or transactions of a character subject to regulation by the Commission pursuant to this chapter. Each commissioner shall hold office for a term of five years and until his successor is appointed and has qualified, except that he shall not so continue to serve beyond the expiration of the next session of Congress subsequent to the expiration of said fixed term of office, and except (1) any commissioner appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and (2) the terms of office of the commissioners first taking office after June 6, 1934, shall expire as designated by the President at the time of nomination, one at the end of one year, one at the end of two years, one at the end of three years, one at the end of four years, and one at the end of five years, after June 6, 1934.
 
 #### (b) Appointment and compensation of staff and leasing authority
 
@@ -20,7 +20,7 @@ There is hereby established a Securities and Exchange Commission (hereinafter re
 
 &emsp;&emsp;&emsp;(ii) to appoint directly such professional economists as the Commission deems qualified; and
 
-&emsp;&emsp;&emsp;(iii) to fix and adjust the compensation of any professional economist appointed under this paragraph, without regard to the provisions of chapter 54 of title 5,<sup>1</sup> or subchapters <sup>2</sup> II, III, or VIII of chapter 53, of title 5.
+&emsp;&emsp;&emsp;(iii) to fix and adjust the compensation of any professional economist appointed under this paragraph, without regard tothe provisions of chapter 54 of title 5,<sup>1</sup> or subchapters <sup>2</sup> II, III, or VIII of chapter 53, of title 5.
 
 #### (B) Limitation on compensation
 
@@ -50,7 +50,7 @@ Notwithstanding any other provision of law, whenever any fee is required to be p
 
 Notwithstanding any other provision of law, the Commission may accept payment and reimbursement, in cash or in kind, from a foreign securities authority, or made on behalf of such authority, for necessary expenses incurred by the Commission, its members, and employees in carrying out any investigation pursuant to section 78u(a)(2) of this title or in providing any other assistance to a foreign securities authority. Any payment or reimbursement accepted shall be considered a reimbursement to the appropriated funds of the Commission.
 
-(June 6, 1934, ch. 404, title I, §4, 48 Stat. 885; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 86–619, §3, July 12, 1960, 74 Stat. 408; Pub. L. 86–771, Sept. 13, 1960, 74 Stat. 913; Pub. L. 88–426, title III, §305(20), Aug. 14, 1964, 78 Stat. 425; Pub. L. 98–38, §1, June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §307, Dec. 4, 1987, 101Stat. 1254; Pub. L. 101–550, title I, §103, title II, §207, Nov. 15, 1990, 104 Stat. 2713, 2721; Pub. L. 104–290, title IV, §406, Oct. 11, 1996, 110 Stat. 3444; Pub. L. 105–353, title II, §203, Nov. 3, 1998, 112 Stat. 3234.)
+(June 6, 1934, ch. 404, title I, §4, 48 Stat. 885; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 86–619, §3, July 12, 1960, 74 Stat. 408; Pub. L. 86–771, Sept. 13, 1960, 74 Stat. 913; Pub. L. 88–426, title III, §305(20), Aug. 14, 1964, 78 Stat. 425; Pub. L. 98–38, §1, June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §307, Dec. 4, 1987, 101 Stat. 1254; Pub. L. 101–550, title I, §103, title II, §207, Nov. 15, 1990, 104 Stat. 2713, 2721; Pub. L. 104–290, title IV, §406, Oct. 11, 1996, 110 Stat. 3444; Pub. L. 105–353, title II, §203, Nov. 3, 1998, 112 Stat. 3234.)
 
 #### References in Text
 
@@ -68,7 +68,7 @@ In subsec. (b)(1), provisions that authorized the Commission to appoint and fix 
 
 Such appointments are now subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order No. 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5, Government Organization and Employees.
 
-As to the compensation of such personnel, sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the Classification Act of 1923 and all other laws or parts of laws inconsistent with the 1949 Act. The Classification Act of 1949 was repealed Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632, and reenacted as chapter 51 and subchapter III of chapter 53 of Title 5. Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+As to the compensation of such personnel, sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the Classification Act of 1923 and all other laws or parts of laws inconsistent with the 1949 Act. The Classification Act of 1949 was repealed Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632, and reenacted aschapter 51 and subchapter III of chapter 53 of Title 5. Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
 “Chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
@@ -136,7 +136,7 @@ The Chairman may from time to time make such provisions as he shall deem appropr
 
 #### Sec. 3. Designation of Chairman
 
-The functions of the Commission with respect to choosing a Chairman from among the Commissionerscomposing the Commission are hereby transferred to the President.
+The functions of the Commission with respect to choosing a Chairman from among the Commissioners composing the Commission are hereby transferred to the President.
 
 #### Message of the President
 

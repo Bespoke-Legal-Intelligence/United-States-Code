@@ -38,7 +38,7 @@ A comprehensive statewide outdoor recreation plan shall be required prior to the
 
 The Secretary may provide financial assistance to any State for projects for the preparation of a comprehensive statewide outdoor recreation plan when such plan is not otherwise available or for the maintenance of such plan.
 
-For fiscal year 1988 and thereafter each comprehensive statewide outdoor recreation plan shall specifically address wetlands within thatState as an important outdoor recreation resource as a prerequisite to approval, except that a revised comprehensive statewide outdoor recreation plan shall not be required by the Secretary, if a State submits, and the Secretary, acting through the Director of the National Park Service, approves, as a part of and as an addendum to the existing comprehensive statewide outdoor recreation plan, a wetlands priority plan developed in consultation with the State agency with responsibility for fish and wildlife resources and consistent with the national wetlands priority conservation plan developed under section 3921 of this title or, if such national plan has not been completed, consistent with the provisions of that section <sup>1</sup>
+For fiscal year 1988 and thereafter each comprehensive statewide outdoor recreation plan shall specifically address wetlands within that State as an important outdoor recreation resource as a prerequisite to approval, except that a revised comprehensive statewide outdoorrecreation plan shall not be required by the Secretary, if a State submits, and the Secretary, acting through the Director of the National Park Service, approves, as a part of and as an addendum to the existing comprehensive statewide outdoor recreation plan, a wetlands priority plan developed in consultation with the State agency with responsibility for fish and wildlife resources and consistent with the national wetlands priority conservation plan developed under section 3921 of this title or, if such national plan has not been completed, consistent with the provisions of that section <sup>1</sup>
 
 #### (e) Projects for land and water acquisition; development
 
@@ -60,7 +60,7 @@ In addition to assistance for planning projects, the Secretary may provide finan
 
 (4) No payment shall be made to any State until the State has agreed to (1) provide such reports to the Secretary, in such form and containing such information, as may be reasonably necessary to enable the Secretary to perform his duties under this part, and (2) provide such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement and accounting for Federal funds paid to the State under this part.
 
-(5) Each recipient of assistance under this part shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and the disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connectionwith which such assistance is given or used, and the amount and nature of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+(5) Each recipient of assistance under this part shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and the disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount and nature of that portion of the cost of the project or undertaking supplied byother sources, and such other records as will facilitate an effective audit.
 
 (6) The Secretary, and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this part.
 
@@ -120,7 +120,7 @@ Subsec. (e)(1). Pub. L. 99–645, §303(2), inserted “, or wetland areas and 
 
 Subsec. (f)(3). Pub. L. 99–645, §303(3), inserted provision that wetland areas and interests therein as identified in the wetlands provisions of the comprehensive plan and proposed to be acquired as suitable replacement property within that same State that is otherwise acceptable to the Secretary, acting through the Director of the National Park Service, shall be considered to be of reasonably equivalent usefulness with the property proposed for conversion.
 
-1978—Subsec. (f)(7). Pub. L. 95–625 provided that grant program evaluations be transmitted so as to be received by the Secretary no later than December 31 and that reports to Congressional committees be made by no later than March 1 of each year.
+1978—Subsec. (f)(7). Pub. L. 95–625 provided that grant program evaluations be transmitted so as to be received by the Secretary no later than December 31 andthat reports to Congressional committees be made by no later than March 1 of each year.
 
 1976—Subsec. (a). Pub. L. 94–422 reenacted subsec. (a) without change.
 
@@ -160,7 +160,7 @@ Violent Crime Reduction Trust Fund, see section 14211 of Title 42, The Public He
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 460<i>l</i>–17, 1250, 1261, 1282 of this title; title 42 section 3338.
+This section is referred to in sections 460<i>l</i>–17, 1250, 1282 of this title; title 23 section 206; title 42 section 3338.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

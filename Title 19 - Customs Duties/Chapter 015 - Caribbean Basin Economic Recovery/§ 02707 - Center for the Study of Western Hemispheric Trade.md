@@ -28,7 +28,7 @@ The Center shall conduct the following activities:
 
 &emsp;(1) Provide forums for international discussion and debate for representatives from countries in the Western Hemisphere regarding issues which affect trade and other economic relations within the hemisphere, including the impact of the NAFTA on individual economies and the desirability and feasibility of possible accessions to the NAFTA by such countries.
 
-&emsp;(2) Conduct studies and research projects on subjects which affect Western Hemisphere trade, including tariffs, customs, regional and national economics, business development and finance, production and personnel management, manufacturing, agriculture, engineering, transportation, immigration, telecommunications, medicine, science, urban studies, border demographics, social anthropology, and population.
+&emsp;(2) Conduct studies and research projects on subjects which affect Western Hemisphere trade, including tariffs, customs, regional andnational economics, business development and finance, production and personnel management, manufacturing, agriculture, engineering, transportation, immigration, telecommunications, medicine, science, urban studies, border demographics, social anthropology, and population.
 
 &emsp;(3) Publish materials, disseminate information, and conduct seminars and conferences to support and educate representatives from countries in the Western Hemisphere who seek to do business with or invest in other Western Hemisphere countries.
 
@@ -36,7 +36,7 @@ The Center shall conduct the following activities:
 
 &emsp;(5) Provide grants, fellowships, and other financial assistance to qualified graduate students, from Western Hemisphere countries, to study at the Center.
 
-&emsp;(6) Implement academic exchange programs and other cooperative research and instructional agreements with the complementary North/South Center at the University of Miami at Coral Gables.
+&emsp;(6) Implement academic exchange programs and other cooperative research and instructional agreements with the complementary Dante B. Fascell North-South Center at the University of Miami at Coral Gables.
 
 #### (e) Definitions
 
@@ -70,9 +70,11 @@ The Commissioner of Customs shall, no later than July 1, 1994, and annually ther
 
 > Each subsequent report shall include information with respect to the operations of the Center, the collaboration of the Center with, and dissemination of information to, Government policymakers and the business community with respect to the study of Western Hemispheric trade by the Center, and the plan and efforts of the Center to continue operations after grants under this section have expired.
 
-(Pub. L. 98–67, title II, §219, as added Pub. L. 103–182, title V, §515(a), Dec. 8, 1993, 107 Stat. 2158; amended Pub. L. 104–295, §21(d), Oct. 11, 1996, 110 Stat. 3530.)
+(Pub. L. 98–67, title II, §219, as added Pub. L. 103–182, title V, §515(a), Dec. 8, 1993, 107 Stat. 2158; amended Pub. L. 104–295, §21(d), Oct. 11, 1996, 110 Stat. 3530; Pub. L. 106–29, §2(a), May 21, 1999, 113 Stat. 54.)
 
 #### Amendments
+
+1999—Subsec. (d)(6). Pub. L. 106–29 substituted “Dante B. Fascell North-South Center” for “North/South Center”.
 
 1996—Subsec. (b)(1). Pub. L. 104–295, §21(d)(1), substituted semicolon for comma at end.
 

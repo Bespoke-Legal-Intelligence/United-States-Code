@@ -14,7 +14,7 @@ For the purposes of this section and section 2155 of this title, the United Stat
 
 #### (d) Presidential analysis of how negotiating objectives are achieved in each product sector by trade agreements
 
-If the President determines that competitive opportunities in one or more product sectors will be significantly affected by a trade agreement concluded under section 2111 or 2112 of this title he shall submit to the Congress with each such agreement an analysis of the extent towhich the negotiating objective set forth in subsection (a) of this section is achieved by such agreement in each product sector or product sectors.
+If the President determines that competitive opportunities in one or more product sectors will be significantly affected by a trade agreement concluded under section 2111 or 2112 of this title he shall submit to the Congress with each such agreement an analysis of the extent to which the negotiating objective set forth in subsection (a) of this section is achieved by such agreement in each product sector or product sectors.
 
 (Pub. L. 93–618, title I, §104, Jan. 3, 1975, 88 Stat. 1984; 1979 Reorg. Plan No. 3, §1(b)(1), eff. Jan. 2, 1980, 44 F.R. 69273, 93 Stat. 1381; Pub. L. 98–573, title III, §306(c)(2)(C)(i), Oct. 30, 1984, 98 Stat. 3012.)
 

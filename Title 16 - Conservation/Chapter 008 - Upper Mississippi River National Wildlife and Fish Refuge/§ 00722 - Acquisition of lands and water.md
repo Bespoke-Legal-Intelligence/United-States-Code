@@ -6,7 +6,7 @@ The Secretary of the Interior is authorized to acquire, by purchase, gift, or le
 
 #### Codification
 
-Section is a combination provision, the latter portion beginning with the words “and any such area,” being from section 3, and the remainder of the section from section 2 of act June 7, 1924.
+Section is a combination provision, the latter portion beginning with the words “and any such area,” beingfrom section 3, and the remainder of the section from section 2 of act June 7, 1924.
 
 #### Amendments
 
@@ -18,7 +18,7 @@ Section is a combination provision, the latter portion beginning with the words 
 
 Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
-#### Land Conveyance, Upper Mississippi River Wildlife and Fish Refuge
+#### Land Conveyance, Upper Mississippi River National Wildlife and Fish Refuge
 
 Pub. L. 105–312, title II, §202(a), Oct. 30, 1998, 112 Stat. 2957, provided that: “In accordance with section 4(a)(5) of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd(a)(5)), there are transferred to the Corps of Engineers, without reimbursement, approximately 37.36 acres of land of the Upper Mississippi River Wildlife and Fish Refuge in the State of Minnesota, as designated on the map entitled ‘Upper Mississippi National Wildlife and Fish Refuge lands transferred to Corps of Engineers’, dated January 1998, and available, with accompanying legal descriptions of the land, for inspection in appropriate offices of the United States Fish and Wildlife Service.”
 

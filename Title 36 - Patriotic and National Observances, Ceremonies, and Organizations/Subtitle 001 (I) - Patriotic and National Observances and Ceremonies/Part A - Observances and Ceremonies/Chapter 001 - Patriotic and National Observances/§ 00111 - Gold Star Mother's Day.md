@@ -32,5 +32,7 @@ June 23, 1936, ch. 736, 49 Stat. 1895.
 
 36:148 (words after comma).
 
+&nbsp;
+
 In subsection (b), the text of 36:148 (words after comma) is omitted as unnecessary. The words “Gold Star Mother's Day” are substituted for “the last Sunday in September” in 36:147 for clarity. The word “American” is omitted as unnecessary.
 

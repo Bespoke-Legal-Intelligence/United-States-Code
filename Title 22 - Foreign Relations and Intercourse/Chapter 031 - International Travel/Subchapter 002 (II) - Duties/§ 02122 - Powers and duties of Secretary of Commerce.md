@@ -1,6 +1,6 @@
 ### §2122. Powers and duties of Secretary of Commerce
 
-In order to carry out the national tourism policy established in section 2121(b) of this title and by the United States National Tourism Organization Act of 1996 \[22 U.S.C. 2141 et seq.\], the Secretary of Commerce (hereafter in this chapter referred to as the “Secretary”) shall develop and implement a comprehensive plan to perform critical tourism functions which, in the determination of the Secretary, are not being carried out by the United States National Tourism Organization or other private sector entities or State governments. Such plan may include programs to—
+In order to carry out the national tourism policy established in section 2121(b) of this title and by the United States National Tourism Organization Act of 1996, the Secretary of Commerce (hereafter in this chapter referred to as the “Secretary”) shall develop and implement a comprehensive plan to perform critical tourism functions which, in the determination of the Secretary, are not being carried out by the United States National Tourism Organization or other private sector entities or State governments. Such plan may include programs to—
 
 &emsp;(1) collect and publish comprehensive international travel and tourism statistics and other marketing information;
 
@@ -20,7 +20,7 @@ In order to carry out the national tourism policy established in section 2121(b)
 
 #### References in Text
 
-The United States National Tourism Organization Act of 1996, referred to in text, is Pub. L. 104–288, Oct. 11, 1996, 110 Stat. 3407, which is classified principally to chapter 31A (§2141 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2141 of this title and Tables.
+The United States National Tourism Organization Act of 1996, referred to in text, is Pub. L. 104–288, Oct. 11, 1996, 110 Stat. 3407, as amended. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 2121 of this title and Tables.
 
 #### Amendments
 

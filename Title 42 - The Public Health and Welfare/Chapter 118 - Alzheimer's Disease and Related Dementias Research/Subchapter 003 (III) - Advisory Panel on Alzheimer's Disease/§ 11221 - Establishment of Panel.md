@@ -16,7 +16,7 @@ There is established in the Department the Advisory Panel on Alzheimer's Disease
 
 &emsp;&emsp;(E) 3 shall be representatives of national voluntary organizations which are concerned with the problems of individuals with Alzheimer's disease and related dementias and their families; and
 
-&emsp;(2) the Chairman of the Council, the Director of the National Institute on Aging, the Director of the National Institute of Mental Health, the Assistant Administrator of the Agency for Health Care Policy and Research, and the Assistant Secretary for Aging, who shall be nonvoting ex officio members.
+&emsp;(2) the Chairman of the Council, the Director of the National Institute on Aging, the Director of the National Institute of Mental Health, the Assistant Administrator of the Agency for Healthcare Research and Quality, and the Assistant Secretary for Aging, who shall be nonvoting ex officio members.
 
 #### (b) Appointment of members
 
@@ -60,7 +60,7 @@ Each member of the Panel appointed under subsection (a)(1) of this section shall
 
 Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) on September 30, 1996, the Panel shall be abolished and all programs established under this subchapter shall terminate.
 
-(Pub. L. 99–660, title IX, §921, Nov. 14, 1986, 100 Stat. 3806; Pub. L. 102–507, §6(a), Oct. 24, 1992, 106 Stat. 3283; Pub. L. 103–171, §3(b)(3), Dec. 2, 1993, 107 Stat. 1991.)
+(Pub. L. 99–660, title IX, §921, Nov. 14, 1986, 100 Stat. 3806; Pub. L. 102–507, §6(a), Oct. 24, 1992, 106 Stat. 3283; Pub. L. 103–171, §3(b)(3), Dec. 2, 1993, 107 Stat. 1991; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670.)
 
 #### References in Text
 
@@ -71,6 +71,8 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is
 October 24, 1992, referred to in subsec. (d)(1)(B), was in the original “the date of the enactment of this subsection” and “such date”, which were translated as meaning the date of enactment of Pub. L. 102–507, which amended subsec. (d) generally, to reflect the probable intent of Congress.
 
 #### Amendments
+
+1999—Subsec. (a)(2). Pub. L. 106–129 substituted “Agency for Healthcare Research and Quality” for “Agency for Health Care Policy and Research”.
 
 1993—Subsec. (a)(2). Pub. L. 103–171, which directed the substitution of “Assistant Secretary for Aging” for “Commissioner on Aging” in section 921(a)(2) of the Alzheimer's Disease and Related Dementias Services Research Act of 1986, was executed to this section, which is section 921 of the Alzheimer's Disease and Related Dementias Research Act of 1992, to reflect the probable intent of Congress, and the change in the Short Title of that Act. See section 901 of Pub. L. 99–660, as amended, set out as a Short Title note under section 11201 of this title.
 

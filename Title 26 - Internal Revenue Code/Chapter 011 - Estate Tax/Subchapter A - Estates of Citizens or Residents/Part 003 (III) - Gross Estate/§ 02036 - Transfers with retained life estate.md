@@ -6,7 +6,7 @@ The value of the gross estate shall include the value of all property to the ext
 
 &emsp;(1) the possession or enjoyment of, or the right to the income from, the property, or
 
-&emsp;(2) the right, either alone or in conjunction with any person, to designate the persons whoshall possess or enjoy the property or the income therefrom.
+&emsp;(2) the right, either alone or in conjunction with any person, to designate the persons who shall possess or enjoy the property or the income therefrom.
 
 #### (b) Voting rights
 
@@ -98,7 +98,7 @@ Clarification of effective date.—For purposes of section 10402(b) of the Reven
 
 #### Effective Date of 1987 Amendment
 
-Section 10402(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to estates of decedentsdying after December 31, 1987, but only in the case of property transferred after December 17, 1987.” \[For clarification of this note, see section 3031(h)(5) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note above.\]
+Section 10402(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1987, but only in the case of property transferred after December 17, 1987.” \[For clarification of this note, see section 3031(h)(5) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note above.\]
 
 #### Effective Date of 1978 Amendment
 

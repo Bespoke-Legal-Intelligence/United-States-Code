@@ -44,7 +44,9 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 #### Salary Increases
 
-1999—Salaries of judges continued at $136,700 per annum, by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+2000—Salaries of judges increased to $141,300 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2000, by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+
+1999—Salaries of judges continued at $136,700 per annum, by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, formerly set out as a note under section 5332 of Title 5.
 
 1998—Salaries of judges increased to $136,700 per annum, effective on first day of first pay period beginning on or after Jan. 1, 1998, by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, formerly set out as a note under section 5332 of Title 5.
 
@@ -104,7 +106,7 @@ Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 
 
 1946—Salaries of presiding judge and associate judges increased from $10,000 to $15,000 a year by act July 31, 1946, ch. 704, §1, 60 Stat. 716.
 
-1930—Salaries of presiding judge and associate judges increased from $9,000 to $10,000 a year by the Tariff Act of 1930, act June 17, 1930, ch. 497, title IV, §518, 46 Stat. 737.
+1930—Salaries of presiding judge and associate judges increased from $9,000 to $10,000 a year by the Tariff Actof 1930, act June 17, 1930, ch. 497, title IV, §518, 46 Stat. 737.
 
 #### Cross References
 

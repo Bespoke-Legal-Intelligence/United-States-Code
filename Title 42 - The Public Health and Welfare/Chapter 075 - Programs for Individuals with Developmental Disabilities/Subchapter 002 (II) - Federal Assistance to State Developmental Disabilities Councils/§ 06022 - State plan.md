@@ -24,7 +24,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 &emsp;The plan shall contain a comprehensive review and analysis of the extent to which services and supports are available to, and the need for services and supports for, individuals with developmental disabilities and their families. Such review and analysis shall include—
 
-&emsp;&emsp;(A) a description of the services, supports and other assistance being provided to, or to be provided to, individuals with developmental disabilities and their families under other federally assisted State programs, plans, and policies that the State conducts and in which individuals with developmental disabilities are or may be eligible to participate, including programs relating to education, job training, vocational rehabilitation, public assistance, medical assistance, social services, child welfare, maternal and child health, aging, programs for childrenwith special health care needs, children's mental health, housing, transportation, technology, comprehensive health and mental health, and such other programs as the Secretary may specify;
+&emsp;&emsp;(A) a description of the services, supports and other assistance being provided to, or to be provided to, individuals with developmental disabilities and their families under other federally assisted State programs, plans, and policies that the State conducts and in which individuals with developmental disabilities are or may be eligible to participate, including programs relating to education, job training, vocational rehabilitation, public assistance, medical assistance, social services, child welfare, maternal and child health, aging, programs for children with special health care needs, children's mental health, housing, transportation, technology, comprehensive health and mental health, and such other programs as the Secretary may specify;
 
 &emsp;&emsp;(B) a description of the extent to which agencies operating such other federally assisted State programs pursue interagency initiatives to improve and enhance services, supports, and other assistance for individuals with developmental disabilities; and
 
@@ -142,7 +142,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (2) Consultation with the designated State agency
 
-&emsp;Before the plan is submitted to the Secretary, the State Developmental Disabilities Council shall consult with the designated State agency to ensure that the State plan isconsistent with State law and to obtain appropriate State plan assurances.
+&emsp;Before the plan is submitted to the Secretary, the State Developmental Disabilities Council shall consult with the designated State agency to ensure that the State plan is consistent with State law and to obtain appropriate State plan assurances.
 
 #### (3) Plan approval
 
@@ -188,7 +188,7 @@ Subsec. (f)(5). Pub. L. 101–496, §11(8), struck out par. (5) which read as fo
 
 Subsec. (b)(1)(A). Pub. L. 100–146, §202(b)(1)(A)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: “The plan must provide for the establishment of a State Planning Council, in accordance with section 6024 of this title, for the assignment to the Council of personnel in such numbers and with such qualifications as the Secretary determines to be adequate to enable the Council to carry out its duties under this chapter, and for the identification of the personnel so assigned.”
 
-Subsec. (b)(1)(B). Pub. L. 100–146, §202(b)(1)(A)(ii), added subpar. (B) and struck out former subpar. (B) which read as follows: “The plan must designate the State agency or agencies which shall administer or supervise the administration of the State plan and, if there is more than one such agency, the portion of such plan which each will administer (or the portion the administration of which each will supervise).”
+Subsec. (b)(1)(B). Pub. L. 100–146, §202(b)(1)(A)(ii), added subpar. (B) and struck out former subpar. (B)which read as follows: “The plan must designate the State agency or agencies which shall administer or supervise the administration of the State plan and, if there is more than one such agency, the portion of such plan which each will administer (or the portion the administration of which each will supervise).”
 
 Subsec. (b)(1)(C). Pub. L. 100–146, §202(b)(1)(A)(iii), substituted “the” for “each” before “State agency”.
 

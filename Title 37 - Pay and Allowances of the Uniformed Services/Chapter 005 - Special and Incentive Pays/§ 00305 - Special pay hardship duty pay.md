@@ -6,7 +6,7 @@ Special Pay Authorized.—A member of a uniformed service who is entitled to bas
 
 (b)
 
-Regulations.—The Secretary of Defense shall prescribe regulations for the provision of hardship duty pay under subsection (a), including the specific monthly rates at which the special pay will be available.
+Regulations.—The Secretary of Defense shall prescribe regulations for the provision ofhardship duty pay under subsection (a), including the specific monthly rates at which the special pay will be available.
 
 (Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 465; Pub. L. 88–132, §12(a), Oct. 2, 1963, 77 Stat. 217; Pub. L. 90–623, §3(4), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 95–485, title VIII, §804(b)(1), Oct. 20, 1978, 92 Stat. 1620; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 105–85, div. A, title VI, §619(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1789, 1790; Pub. L. 105–261, div. A, title VI, §617(a), (c)(1), Oct. 17, 1998, 112 Stat. 2041.)
 
@@ -98,7 +98,7 @@ Section 804(b)(3) of Pub. L. 95–485 provided that: “The amendments made by t
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a noteunder section 5334 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1963 Amendment
 

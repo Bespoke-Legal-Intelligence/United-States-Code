@@ -10,7 +10,7 @@ Veterans Eligible for Transport.—A veteran eligible for transport under subsec
 
 &emsp;(1) resides in and is located in American Samoa; and
 
-&emsp;(2) as determined by an official of the Department of Veterans Affairs designated for that purpose by the Secretary of Veterans Affairs, must be transported to the State of Hawaii in order to receive hospital care to which such veteran is entitled under chapter 17 of title 38, United States Code, in facilities of such Department in the State of Hawaii.
+&emsp;(2) as determined by an official of the Department of Veterans Affairs designated for that purpose by the Secretary of Veterans Affairs, must be transported to the State of Hawaii in order to receive hospital care to which such veteran is entitled under chapter 17 of title 38 in facilities of such Department in the State of Hawaii.
 
 (c)
 
@@ -18,13 +18,15 @@ Administration.—(1) Transportation may be provided to veterans under this sect
 
 (2) A charge may not be imposed on a veteran for transportation provided to the veteran under this section.
 
-(d)
+(Added Pub. L. 105–262, title VIII, §8121(a), Oct. 17, 1998, 112 Stat. 2332; amended Pub. L. 106–65, div. A, title X, §1066(a)(24), Oct. 5, 1999, 113 Stat. 771.)
 
-Definitions.—In this section:
+#### Amendments
 
-&emsp;(1) The term “veteran” has the meaning given that term in section 101(2) of title 38, United States Code.
+1999—Subsec. (b)(2). Pub. L. 106–65, §1066(a)(24)(A), struck out “, United States Code,” after “title 38”.
 
-&emsp;(2) The term “hospital care” has the meaning given that term in section 1701(5) of title 38, United States Code.
+Subsec. (d). Pub. L. 106–65, §1066(a)(24)(B), struck out heading and text of subsec. (d). Text read as follows: “In this section:
 
-(Added Pub. L. 105–262, title VIII, §8121(a), Oct. 17, 1998, 112 Stat. 2332.)
+&emsp;“(1) The term ‘veteran’ has the meaning given that term in section 101(2) of title 38, United States Code.
+
+&emsp;“(2) The term ‘hospital care’ has the meaning given that term in section 1701(5) of title 38, United States Code.”
 

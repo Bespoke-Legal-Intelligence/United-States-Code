@@ -4,7 +4,7 @@
 
 &emsp;(1) upon a claim by a party aggrieved that evidence is inadmissible because it is the primary product of an unlawful act or because it was obtained by the exploitation of an unlawful act, the opponent of the claim shall affirm or deny the occurrence of the alleged unlawful act;
 
-&emsp;(2) disclosure of information for a determination if evidence is inadmissible because it is the primary product of an unlawful act occurring prior to June 19, 1968, or because it was obtained by the exploitation of an unlawful act occurring prior to June 19, 1968, shallnot be required unless such information may be relevant to a pending claim of such inadmissibility; and
+&emsp;(2) disclosure of information for a determination if evidence is inadmissible because it is the primary product of an unlawful act occurring prior to June 19, 1968, or because it was obtained by the exploitation of an unlawful act occurring prior to June 19, 1968, shall not be required unless such information may be relevant to a pending claim of such inadmissibility; and
 
 &emsp;(3) no claim shall be considered that evidence of an event is inadmissible on the ground that such evidence was obtained by the exploitation of an unlawful act occurring prior to June 19, 1968, if such event occurred more than five years after such allegedly unlawful act.
 

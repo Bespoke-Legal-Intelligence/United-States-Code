@@ -30,7 +30,7 @@ For the purposes of this part—
 
 &emsp;(H) caulking and weatherstripping;
 
-&emsp;(I) replacement or modification of lighting fixtures which replacement or modification increases the energy efficiency of the lighting system without increasing the overall illumination of a facility (unless such increase inillumination is necessary to conform to any applicable State or local building code or, if no such code applies, the increase is considered appropriate by the Secretary);
+&emsp;(I) replacement or modification of lighting fixtures which replacement or modification increases the energy efficiency of the lighting system without increasing the overall illumination of a facility (unless such increase in illumination is necessary to conform to any applicable State or local building code or, if no such code applies, the increase is considered appropriate by the Secretary);
 
 &emsp;(J) energy recovery systems;
 

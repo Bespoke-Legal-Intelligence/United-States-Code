@@ -60,7 +60,7 @@ Pay of Air Carrier Employees.—(1) In this subsection—
 
 &emsp;(B) “State” means a State of the United States, the District of Columbia, and a territory or possession of the United States.
 
-&emsp;(C) an employee is deemed to have earned 50 percent of the employee's pay in a State or political subdivision of a State in which the scheduled flight time of the employee in the State or subdivision is more than 50 percent of the total scheduled flight time of the employee when employed during the calendar year.
+&emsp;(C) an employee is deemed to have earned 50 percent of the employee's pay in a State or political subdivision of a State in which the scheduled flight time of the employee in theState or subdivision is more than 50 percent of the total scheduled flight time of the employee when employed during the calendar year.
 
 (2) The pay of an employee of an air carrier having regularly assigned duties on aircraft in at least 2 States is subject to the income tax laws of only the following:
 

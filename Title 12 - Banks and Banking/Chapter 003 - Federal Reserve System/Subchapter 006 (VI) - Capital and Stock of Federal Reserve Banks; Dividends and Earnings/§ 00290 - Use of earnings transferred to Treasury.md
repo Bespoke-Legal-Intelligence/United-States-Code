@@ -6,7 +6,7 @@ The net earnings derived by the United States from Federal reserve banks shall, 
 
 #### Codification
 
-Section is comprised of subsec. (b) \[formerly second undesignated par.\] of section 7 of act Dec. 23, 1913. Subsecs. (a) and (c) of section 7 are classified to sections 289 and 531, respectively, of this title.
+Section is comprised of subsec. (b) \[formerly second undesignated par.\] of section 7 of act Dec. 23, 1913. Subsec. (a) and another subsec. (b) \[enacted by Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §302(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304\] of section 7 are classified to section 289 of this title. Subsec. (c) of section 7 is classified to section 531 of this title.
 
 #### Amendments
 

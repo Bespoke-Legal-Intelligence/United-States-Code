@@ -18,7 +18,7 @@
 
 (1) Any person who will be adversely affected by a rule prescribed under section 6293, 6294, or 6295 of this title may, at any time within 60 days after the date on which such rule is prescribed, file a petition with the United States court of appeals for the circuit in which such person resides or has his principal place of business, for judicial review of such rule. A copy of the petition shall be transmitted by the clerk of the court to the agency which prescribed the rule. Such agency shall file in the court the written submissions to, and transcript of, the proceedings on which the rule was based, as provided in section 2112 of title 28.
 
-(2) Upon the filing of the petition referred to in paragraph (1), the court shall have jurisdiction to review the rule in accordance with chapter 7 of title 5 and to grant appropriate relief as provided in such chapter. No rule under section6293, 6294, or 6295 of this title may be affirmed unless supported by substantial evidence.
+(2) Upon the filing of the petition referred to in paragraph (1), the court shall have jurisdiction to review the rule in accordance with chapter 7 of title 5 and to grant appropriate relief as provided in such chapter. No rule under section 6293, 6294, or 6295 of this title may be affirmed unless supported by substantial evidence.
 
 (3) The judgment of the court affirming or setting aside, in whole or in part, any such rule shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
@@ -38,7 +38,7 @@ Jurisdiction is vested in the Federal district courts of the United States over 
 
 &emsp;(2) any person who files a petition under section 6295(n) of this title which is denied by the Secretary.
 
-(Pub. L. 94–163, title III, §336, Dec. 22, 1975, 89 Stat. 930; Pub. L. 95–619, title IV, §§425(g), 427, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3266, 3267, 3288; Pub. L. 100–12, §9, Mar. 17, 1987, 101 Stat. 123; Pub. L. 105–388, §5(a)(6), Nov. 13, 1998, 112 Stat. 3478.)
+(Pub. L. 94–163, title III, §336, Dec. 22, 1975, 89 Stat. 930; Pub. L. 95–619, title IV, §§425(g), 427, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3266, 3267, 3288; Pub. L. 100–12, §9, Mar. 17, 1987, 101Stat. 123; Pub. L. 105–388, §5(a)(6), Nov. 13, 1998, 112 Stat. 3478.)
 
 #### Amendments
 

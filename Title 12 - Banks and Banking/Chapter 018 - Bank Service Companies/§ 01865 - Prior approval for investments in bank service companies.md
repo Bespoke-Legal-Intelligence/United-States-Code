@@ -16,7 +16,7 @@ In determining whether to approve or deny any application for prior approval or 
 
 In the event the Board or the appropriate Federal banking agency, as the case may be, fails to act on any application under this section within ninety days of the submission of a complete application to the agency, the application shall be deemed approved.
 
-(Pub. L. 87–856, §5, Oct. 23, 1962, 76 Stat. 1133; Pub. L. 95–630, title III, §308, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 97–320, title VII, §709, Oct. 15, 1982, 96 Stat. 1542; Pub. L. 103–325, title III, §323, Sept. 23, 1994, 108 Stat. 2227; Pub. L. 104–208, div. A, title II, §2613(f), Sept. 30, 1996, 110 Stat. 3009–478.)
+(Pub. L. 87–856, §5, Oct. 23, 1962, 76 Stat. 1133; Pub. L. 95–630, title III, §308, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 97–320, title VII, §709, Oct. 15, 1982, 96 Stat. 1542; Pub. L. 103–325, title III, §323,Sept. 23, 1994, 108 Stat. 2227; Pub. L. 104–208, div. A, title II, §2613(f), Sept. 30, 1996, 110 Stat. 3009–478.)
 
 #### Amendments
 

@@ -26,6 +26,10 @@ Subsec. (c). Pub. L. 95–396, §20(2), inserted provision requiring establishme
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
+#### Availability of Grants
+
+Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1081, provided in part: “That notwithstanding 7 U.S.C. 136r and 15 U.S.C. 2609, beginning in fiscal year 2000 and thereafter, grants awarded under section 20 of the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136r\], as amended, and section 10 of the Toxic Substances Control Act \[15 U.S.C. 2609\], as amended,shall be available for research, development, monitoring, public education, training, demonstrations, and studies”.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5881 of this title.

@@ -70,7 +70,7 @@ Section 6165 shall apply to any extension under this section as though the Secre
 
 #### (f) Treatment of loans to shareholder
 
-For purposes of this section and section 1293, any loan by a qualified electing fund (directly orindirectly) to a shareholder of such fund shall be treated as a distribution to such shareholder.
+For purposes of this section and section 1293, any loan by a qualified electing fund (directly or indirectly) to a shareholder of such fund shall be treated as a distribution to such shareholder.
 
 #### (g) Cross reference
 

@@ -10,7 +10,7 @@
 
 #### (B) States with new hire reporting law in existence
 
-&emsp;&emsp;A State which has a new hire reporting law in existence on August 22, 1996, may continue to operate under the State law, but the State must meet the requirements of subsection (g)(2) of this section not later than October 1, 1997, and the requirements of thissection (other than subsection (g)(2) of this section) not later than October 1, 1998.
+&emsp;&emsp;A State which has a new hire reporting law in existence on August 22, 1996, may continue to operate under the State law, but the State must meet the requirements of subsection (g)(2) of this section not later than October 1, 1997, and the requirements of this section (other than subsection (g)(2) of this section) not later than October 1, 1998.
 
 #### (2) Definitions
 
@@ -68,7 +68,7 @@ The State shall have the option to set a State civil money penalty which shall n
 
 &emsp;(1) $25 per failure to meet the requirements of this section with respect to a newly hired employee; or
 
-&emsp;(2) $500 if, under State law, the failure is the result of a conspiracy between the employer and the employee to not supply the required report or to supply a false or incomplete report.
+&emsp;(2) $500 if, under State law, the failure is the result of a conspiracy between the employerand the employee to not supply the required report or to supply a false or incomplete report.
 
 #### (e) Entry of employer information
 
@@ -88,7 +88,7 @@ Information shall be entered into the data base maintained by the State Director
 
 #### (1) Transmission of wage withholding notices to employers
 
-&emsp;Within 2 business days after the date information regarding a newly hired employee isentered into the State Directory of New Hires, the State agency enforcing the employee's child support obligation shall transmit a notice to the employer of the employee directing the employer to withhold from the income of the employee an amount equal to the monthly (or other periodic) child support obligation (including any past due support obligation) of the employee, unless the employee's income is not subject to withholding pursuant to section 666(b)(3) of this title.
+&emsp;Within 2 business days after the date information regarding a newly hired employee is entered into the State Directory of New Hires, the State agency enforcing the employee's child support obligation shall transmit a notice to the employer of the employee directing the employer to withhold from the income of the employee an amount equal to the monthly (or other periodic) child support obligation (including any past due support obligation) of the employee, unless the employee's income is not subject to withholding pursuant to section 666(b)(3) of this title.
 
 #### (2) Transmissions to the National Directory of New Hires
 

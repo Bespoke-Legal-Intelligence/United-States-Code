@@ -42,7 +42,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 &emsp;Bell Communications Research, Inc., or any successor entity or affiliate—
 
-&emsp;&emsp;(A) shall not be considered a Bell operating company or a successor or assign of aBell operating company at such time as it is no longer an affiliate of any Bell operating company; and
+&emsp;&emsp;(A) shall not be considered a Bell operating company or a successor or assign of a Bell operating company at such time as it is no longer an affiliate of any Bell operating company; and
 
 &emsp;&emsp;(B) notwithstanding paragraph (3), shall not engage in manufacturing telecommunications equipment or customer premises equipment as long as it is an affiliate of more than 1 otherwise unaffiliated Bell operating company or successor or assign of any such company.
 
@@ -94,7 +94,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 &emsp;&emsp;&emsp;(ii) such activity is performed pursuant to auditable criteria; and
 
-&emsp;&emsp;&emsp;(iii) such activity is performed pursuant to available industry-accepted testing methods and standards, where applicable,unless otherwise agreed upon by the parties funding and performing such activity;
+&emsp;&emsp;&emsp;(iii) such activity is performed pursuant to available industry-accepted testing methods and standards, where applicable, unless otherwise agreed upon by the parties funding and performing such activity;
 
 &emsp;&emsp;(C) not undertake any actions to monopolize or attempt to monopolize the market for such services; and
 

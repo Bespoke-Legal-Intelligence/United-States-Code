@@ -10,7 +10,7 @@
 
 Based on section 103 of title 50, U.S.C., 1940 ed., War and National Defense (Apr. 20, 1918, ch. 59, §3, 40 Stat. 534).
 
-The conspiracy provisions are new. Their addition to the section was strongly urged by the Criminal Division of the Department of Justice, considering thegravity of the substantive offense as evidenced by the prescribed punishment therefor. The punishment provisions of the general conspiracy statute, section 371 of this title, are inadequate.
+The conspiracy provisions are new. Their addition to the section was strongly urged by the Criminal Division of the Department of Justice, considering the gravity of the substantive offense as evidenced by the prescribed punishment therefor. The punishment provisions of the general conspiracy statute, section 371 of this title, are inadequate.
 
 Words “upon conviction thereof” were omitted as unnecessary, since punishment cannot be imposed until a conviction is secured.
 

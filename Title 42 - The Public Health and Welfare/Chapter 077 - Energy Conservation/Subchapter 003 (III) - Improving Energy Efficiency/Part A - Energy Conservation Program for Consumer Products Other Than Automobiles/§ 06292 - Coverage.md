@@ -62,7 +62,7 @@ The following consumer products, excluding those consumer products designed sole
 
 &emsp;(C) The term “household” shall be defined under rules of the Secretary.
 
-(Pub. L. 94–163, title III, §322, Dec. 22, 1975, 89 Stat. 918; Pub. L. 95–619, title VI, §691(b)(2), Nov.9, 1978, 92 Stat. 3288; Pub. L. 100–12, §§3, 11(b)(1), Mar. 17, 1987, 101 Stat. 105, 125; Pub. L. 100–357, §2(b), June 28, 1988, 102 Stat. 672; Pub. L. 102–486, title I, §123(c), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 105–388, §5(a)(3), Nov. 13, 1998, 112 Stat. 3478.)
+(Pub. L. 94–163, title III, §322, Dec. 22, 1975, 89 Stat. 918; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §§3, 11(b)(1), Mar. 17, 1987, 101 Stat. 105, 125; Pub. L. 100–357, §2(b), June 28, 1988, 102 Stat. 672; Pub. L. 102–486, title I, §123(c), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 105–388, §5(a)(3), Nov. 13, 1998, 112 Stat. 3478.)
 
 #### References in Text
 
@@ -168,7 +168,7 @@ Alternative System.—(1) If the Secretary makes a determination under subsectio
 
 “(2) Not later than one year after the Secretary develops test procedures under paragraph (1), the Federal Trade Commission (hereafter in this section referred to as the ‘Commission’) shall prescribe labeling rules under section 324 of such Act (42 U.S.C. 6294) for commercial office equipment for which the Secretary has prescribed test procedures under paragraph (1) except that, with respect to any type of commercial office equipment (or class thereof), the Secretary may determine that such labeling is not technologically feasible or economically justified or is not likely to assist consumers in making purchasing decisions.
 
-“(3) For purposes of sections 323, 324, and 327 of such Act \[42 U.S.C. 6293, 6294, 6297\], each product for which the Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of such Act (42 U.S.C. 6292) to the extent necessary to carry out this subsection.
+“(3) For purposes of sections 323, 324, and 327 of such Act \[42 U.S.C. 6293, 6294, 6297\], each product for which the Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of suchAct (42 U.S.C. 6292) to the extent necessary to carry out this subsection.
 
 “(4) For purposes of section 327(a) of such Act, the term ‘this part’ includes this subsection to the extent necessary to carry out this subsection.”
 
@@ -240,7 +240,7 @@ Recommendations and Proposals.—The report submitted under subsection (a) shall
 
 #### Evaluation of Utility Early Replacement Programs for Appliances
 
-Section 128 of Pub. L. 102–486 provided that: “Within 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, shall evaluate and report to the Congress on the energy savings and environmental benefits of programs which are directed to the early replacement of older, less efficientappliances presently in use by consumers with existing products which are more efficient than required by Federal law. For the purposes of this section, the term ‘appliance’ means those consumer products specified in section 322(a) \[42 U.S.C. 6292(a)\].”
+Section 128 of Pub. L. 102–486 provided that: “Within 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, shall evaluate and report to the Congress on the energy savings and environmental benefits of programs which are directed to the early replacement of older, less efficient appliances presently in use by consumers with existing products which are more efficient than required by Federal law. For the purposes of this section, the term ‘appliance’ means those consumer products specified in section 322(a) \[42 U.S.C. 6292(a)\].”
 
 #### Section Referred to in Other Sections
 

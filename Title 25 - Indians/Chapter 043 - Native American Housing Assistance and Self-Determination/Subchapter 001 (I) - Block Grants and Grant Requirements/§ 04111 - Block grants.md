@@ -70,7 +70,7 @@ The United States Housing Act of 1937, referred to in subsec. (d), is act Sept. 
 
 #### Amendments
 
-1998—Subsec. (c). Pub. L. 105–276, §595(e)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary may not make any grant under this chapter on behalf of an Indian tribe unless the governing body of the locality within which any affordable housing to be assisted with the grant amounts will be situated hasentered into an agreement with the recipient for the tribe providing for local cooperation required by the Secretary pursuant to this chapter.”
+1998—Subsec. (c). Pub. L. 105–276, §595(e)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary may not make any grant under this chapter on behalf of an Indian tribe unless the governing body of the locality within which any affordable housing to be assisted with the grant amounts will be situated has entered into an agreement with the recipient for the tribe providing for local cooperation required by the Secretary pursuant to this chapter.”
 
 Subsec. (d). Pub. L. 105–276, §595(e)(4)(A), added subsec. (d) heading, introductory provisions, and par. (1), and struck out former subsec. (d) heading, introductory provisions, and par. (1). Text read as follows: “A grant recipient for an Indian tribe may receive a block grant under this chapter only if—
 

@@ -44,9 +44,9 @@ A prior section 2346, Pub. L. 87–195, pt. II, §531, as added Pub. L. 92–226
 
 Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under section 2151–1 of this title.
 
-#### Delegation of Functions; Allocation of Funds
+#### Delegation of Functions
 
-Functions of President under this part, insofar as they relate to policy decisions and justifications for economic support programs under this part, delegated to Secretary of State to be exercised in cooperation with Director of United States International Development Cooperation Agency by section 1–201(a)(7) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56674, as amended, set out as a note under section 2381 of this title. United States International Development Cooperation Agency (other than Agency for International Development and Overseas Private Investment Corporation) abolished and functions and authorities transferred, see sections 6561 and 6562 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Reports on Economic Conditions Prevailing in Egypt, Israel, Turkey, and Portugal
 
@@ -60,7 +60,7 @@ External Debt Burden of Certain Countries Receiving United States Assistance.—
 
 Annual Reports on Economic Conditions.—In order to assist the Congress in examining United States assistance for these countries, the President shall report to Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate, not later than January 15 of each year, regarding economic conditions prevailing in Egypt, Israel, Turkey, and Portugal which may affect their respective ability to meet their international debt obligations and to stabilize their economies.”
 
-\[Functions of the President under section 1205(b) of Pub. L. 99–83, set out above, delegated to the Director of the International Development Cooperation Agency, with certain exceptions, see section 1–102(a)(5), (e) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.\]
+\[For delegation of functions of President under section 1205(b) of Pub. L. 99–83, set out above, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.\]
 
 #### References to Security Supporting Assistance as References to Assistance Under Part IV of Subchapter II of This Chapter
 
@@ -68,7 +68,7 @@ Section 10(b)(6) of Pub. L. 95–384 provided that: “After September 30, 1978,
 
 #### Security Supporting Assistance Program for Egypt
 
-Section 9 of Pub. L. 95–92, as amended by Pub. L. 95–384, §29(c)(2)(A), Sept. 26, 1978, 92 Stat. 747, providedthat: “It is the sense of the Congress that the security supporting assistance program for Egypt plays an important role in the Middle East peace effort and that the Executive branch should concentrate its efforts in order to make the program a success.”
+Section 9 of Pub. L. 95–92, as amended by Pub. L. 95–384, §29(c)(2)(A), Sept. 26, 1978, 92 Stat. 747, provided that: “It is the sense of the Congress that the security supporting assistance program for Egypt plays an important role in the Middle East peace effort and that the Executive branch should concentrate its efforts in order to make the program a success.”
 
 #### Section Referred to in Other Sections
 

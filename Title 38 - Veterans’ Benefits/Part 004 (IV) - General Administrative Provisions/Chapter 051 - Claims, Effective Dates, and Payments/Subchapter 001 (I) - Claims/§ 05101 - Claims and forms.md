@@ -1,6 +1,6 @@
 ### §5101. Claims and forms
 
-(a) A specific claim in the form prescribed by the Secretary (or jointly with the Secretary of Health and Human Services, as prescribed by section 5105 of this title) must be filed in order for benefits to be paid or furnished to any individual under the laws administered by the Secretary.
+(a) A specific claim in the form prescribed by the Secretary (or jointly with the Secretary ofHealth and Human Services, as prescribed by section 5105 of this title) must be filed in order for benefits to be paid or furnished to any individual under the laws administered by the Secretary.
 
 (b)(1) A claim by a surviving spouse or child for compensation or dependency and indemnity compensation shall also be considered to be a claim for death pension and accrued benefits, and a claim by a surviving spouse or child for death pension shall be considered to be a claim for death compensation (or dependency and indemnity compensation) and accrued benefits.
 

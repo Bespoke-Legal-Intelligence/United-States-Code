@@ -20,7 +20,7 @@ There is established a Towing Safety Advisory Committee (hereinafter referred to
 
 #### (b) Appointments; Chairman, Vice Chairman, and observers; publication in Federal Register
 
-The Secretary of the department in which the Coast Guard is operating (hereinafter referred to as the “Secretary”) shall appoint the members of the Committee. The Secretary shall designate one of the members of the Committee as the Chairman and one of the members as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of, or in the event of a vacancy in the office of, the Chairman. The Secretary may request the Secretary of the Army and the Secretary of Commerce to each designate a representative to participate as an observer on the Committee. The Secretary shall, not less often than once a year, publish notice in the Federal Register for solicitation of nominations for membership on the Committee.
+The Secretary of the department in which the Coast Guard is operating (hereinafter referred to as the “Secretary”) shall appoint the members of the Committee. The Secretary shall designate one of the members of the Committee as the Chairman and one of the members as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of, or in the event of a vacancy in the office of, the Chairman. The Secretary may request the Secretary of the Army and the Secretary of Commerce to each designate a representative to participate as an observer on the Committee. The Secretary shall, not less often than once a year,publish notice in the Federal Register for solicitation of nominations for membership on the Committee.
 
 #### (c) Functions; meetings; public proceedings and records; disclosures to Congress
 

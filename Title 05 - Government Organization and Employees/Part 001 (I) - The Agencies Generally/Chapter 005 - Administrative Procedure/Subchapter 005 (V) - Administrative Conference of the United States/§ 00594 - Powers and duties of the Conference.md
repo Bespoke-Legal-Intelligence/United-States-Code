@@ -46,3 +46,7 @@ Par. (5). Pub. L. 102–403 which directed addition of par. (5) at end of sectio
 
 1990—Pub. L. 101–422 added par. (4) and concluding provisions.
 
+#### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22, Foreign Relations and Intercourse.
+

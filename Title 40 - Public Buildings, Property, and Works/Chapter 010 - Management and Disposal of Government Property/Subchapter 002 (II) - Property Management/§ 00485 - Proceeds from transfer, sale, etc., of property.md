@@ -38,7 +38,7 @@ Where credit has been extended in connection with any disposition of surplus pro
 
 &emsp;(B) 50 percent of such amount shall be available for facility maintenance and repair and for environmental restoration by the military department that had jurisdiction over the property before it was disposed of or transferred.
 
-(3) As part of the annual request for authorizations of appropriations to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives, the Secretary of Defense shall include an accounting of each transfer and disposal made in accordance with this subsection during the fiscal year preceding the fiscal year in which the request is made, including a detailed explanation of each such transfer and disposal and of the use of the proceeds received from it by the Department of Defense.
+(3) As part of the annual request for authorizations of appropriations to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, the Secretary of Defense shall include an accounting of each transfer and disposal made in accordance with this subsection during the fiscal year preceding the fiscal year in which the request is made, including a detailed explanation of each such transfer and disposal and of the use of the proceeds received from it by the Department of Defense.
 
 (4) This subsection does not apply to damaged or deteriorated military family housing facilities conveyed under section 2854a of title 10.
 
@@ -48,7 +48,7 @@ Where credit has been extended in connection with any disposition of surplus pro
 
 The Administrator may retain from the proceeds of sales of personal property conducted by the General Services Administration amounts necessary to recover, to the extent practicable, costs incurred by the General Services Administration (or its agent) in conducting such sales. The Administrator shall deposit amounts retained into the General Supply Fund established under section 756(a) of this title and may use such portion of amounts so deposited as is necessary to pay (1) direct costs incurred by the General Services Administration in conducting sales of personal property, and (2) indirect costs incurred by the General Services Administration that are reasonably related to those sales. Amounts retained that are not needed to pay the direct and indirect costs incurred shall periodically, but not less than annually, be transferred from the General Supply Fund to the general fund or another appropriate account in the Treasury.
 
-(June 30, 1949, ch. 288, title II, §204, 63 Stat. 388; Aug. 31, 1954, ch. 1178, 68 Stat. 1051; Pub. L. 86–215, Sept. 1, 1959, 73 Stat. 446; Pub. L. 96–41, §3(d), July 30, 1979, 93 Stat. 325; Pub. L. 100–612, §6, Nov. 5, 1988, 102 Stat. 3181; Pub. L. 101–510, div. B, title XXVIII, §2805, Nov. 5, 1990, 104 Stat. 1786; Pub. L. 103–123, title IV, §7, Oct. 28, 1993, 107 Stat. 1247; Pub. L. 104–106, div. A, title XV, §1502(f)(7), div. B, title XXVIII, §2818(b), Feb. 10, 1996, 110 Stat. 510, 555.)
+(June 30, 1949, ch. 288, title II, §204, 63 Stat. 388; Aug. 31, 1954, ch. 1178, 68 Stat. 1051; Pub. L. 86–215, Sept. 1, 1959, 73 Stat. 446; Pub. L. 96–41, §3(d), July 30, 1979, 93 Stat. 325; Pub. L. 100–612, §6, Nov. 5, 1988, 102 Stat. 3181; Pub. L. 101–510, div. B, title XXVIII, §2805, Nov. 5, 1990, 104 Stat. 1786; Pub. L. 103–123, title IV, §7, Oct. 28, 1993, 107 Stat. 1247; Pub. L. 104–106, div. A, title XV, §1502(f)(7), div. B, title XXVIII, §2818(b), Feb. 10, 1996, 110 Stat. 510, 555; Pub. L. 106–65, div. A, title X, §1067(18), Oct. 5, 1999, 113 Stat. 775.)
 
 #### References in Text
 
@@ -65,6 +65,8 @@ Section was formerly classified to section 234 of Title 41, Public Contracts.
 Provisions similar to those comprising subsec. (a) of this section were contained in act June 30, 1949, ch. 286, title I, §101, 63 Stat. 363; June 30, 1949, ch. 288, title I, §102(a), 63 Stat. 380, which was classified to section 314a of this title.
 
 #### Amendments
+
+1999—Subsec. (h)(3). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 1996—Subsec. (h)(3). Pub. L. 104–106, §1502(f)(7), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and of the House of Representatives”.
 
@@ -85,10 +87,6 @@ Subsec. (h). Pub. L. 101–510, §2805(3), added subsec. (h).
 1959—Subsec. (b). Pub. L. 86–215 substituted “utilization of excess property and the disposal” for “dispositions” in second sentence.
 
 1954—Subsecs. (b) to (g). Act Aug. 31, 1954, added subsec. (b) and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Transfer of Functions
 

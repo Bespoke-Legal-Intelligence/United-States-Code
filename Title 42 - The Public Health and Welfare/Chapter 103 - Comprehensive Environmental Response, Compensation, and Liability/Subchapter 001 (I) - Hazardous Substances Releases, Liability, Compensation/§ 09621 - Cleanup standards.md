@@ -6,7 +6,7 @@ The President shall select appropriate remedial actions determined to be necessa
 
 #### (b) General rules
 
-(1) Remedial actions in which treatment which permanently and significantly reduces the volume, toxicity or mobility of the hazardous substances, pollutants, and contaminants is a principal element, are to be preferred over remedial actions not involving such treatment. The offsite transport and disposal of hazardous substances or contaminated materials without such treatment should be the least favored alternative remedial action where practicable treatment technologies are available. The President shall conduct an assessment of permanent solutions and alternative treatment technologies or resource recovery technologies that, in whole or in part, will result in a permanent and significant decrease in the toxicity, mobility, or volume of the hazardous substance, pollutant, or contaminant. In making such assessment, the President shall specifically address the long-term effectiveness of various alternatives. In assessing alternative remedial actions, the President shall, at a minimum, take into account:
+(1) Remedial actions in which treatment which permanently and significantly reduces the volume, toxicity or mobility of the hazardous substances, pollutants, and contaminants is a principal element, are to be preferred over remedialactions not involving such treatment. The offsite transport and disposal of hazardous substances or contaminated materials without such treatment should be the least favored alternative remedial action where practicable treatment technologies are available. The President shall conduct an assessment of permanent solutions and alternative treatment technologies or resource recovery technologies that, in whole or in part, will result in a permanent and significant decrease in the toxicity, mobility, or volume of the hazardous substance, pollutant, or contaminant. In making such assessment, the President shall specifically address the long-term effectiveness of various alternatives. In assessing alternative remedial actions, the President shall, at a minimum, take into account:
 
 &emsp;(A) the long-term uncertainties associated with land disposal;
 
@@ -72,7 +72,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 &emsp;(A) The unit to which the hazardous substance or pollutant or contaminant is transferred is not releasing any hazardous waste, or constituent thereof, into the groundwater or surface water or soil.
 
-&emsp;(B) All such releases from other units at the facility are being controlled by a correctiveaction program approved by the Administrator under subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\].
+&emsp;(B) All such releases from other units at the facility are being controlled by a corrective action program approved by the Administrator under subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\].
 
 > The President shall notify the owner or operator of such facility of determinations under this paragraph.
 
@@ -128,7 +128,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 &emsp;(H) Prompt notice and explanation of each proposed action to the State in which the facility is located.
 
-> Prior to the promulgation of such regulations, the President shall provide notice to the State of negotiations with potentially responsible parties regarding the scope of any response action at a facility in the State, and such State mayparticipate in such negotiations and, subject to paragraph (2), any settlements.
+> Prior to the promulgation of such regulations, the President shall provide notice to the State of negotiations with potentially responsible parties regarding the scope of any response action at a facility in the State, and such State may participate in such negotiations and, subject to paragraph (2), any settlements.
 
 (2)(A) This paragraph shall apply to remedial actions secured under section 9606 of this title. At least 30 days prior to the entering of any consent decree, if the President proposes to select a remedial action that does not attain a legally applicable or relevant and appropriate standard, requirement, criteria, or limitation, under the authority of subsection (d)(4) of this section, the President shall provide an opportunity for the State to concur or not concur in such selection. If the State concurs, the State may become a signatory to the consent decree.
 
@@ -136,7 +136,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 (C) The President may conclude settlement negotiations with potentially responsible parties without State concurrence.
 
-(3)(A) This paragraph shall apply to remedial actions at facilities owned or operated by a department, agency, or instrumentality of the United States. At least 30 days prior to the publication of the President's final remedial action plan, if the President proposes to select a remedial action that does not attain a legally applicable or relevant and appropriate standard, requirement, criteria, or limitation, under the authority of subsection (d)(4) of this section, the President shall provide an opportunity for the State to concur or not concur in such selection. If the State concurs, or does not act within 30 days, the remedial action may proceed.
+(3)(A) This paragraph shall apply to remedial actions at facilities owned or operated by a department, agency, or instrumentality of the United States. At least 30 days prior to the publication of the President's final remedial actionplan, if the President proposes to select a remedial action that does not attain a legally applicable or relevant and appropriate standard, requirement, criteria, or limitation, under the authority of subsection (d)(4) of this section, the President shall provide an opportunity for the State to concur or not concur in such selection. If the State concurs, or does not act within 30 days, the remedial action may proceed.
 
 (B) If the State does not concur in such selection as provided in subparagraph (A), and desires to have the remedial action conform to such standard, requirement, criteria, or limitation, the State may maintain an action as follows:
 

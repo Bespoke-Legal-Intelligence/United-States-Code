@@ -102,7 +102,7 @@ For purposes of this subtitle, the term “itemized deductions” means the dedu
 
 &emsp;&emsp;(A) the spouse makes a change of election with respect to itemized deductions, for the taxable year covered in such separate return, consistent with the change of treatment sought by the taxpayer, and
 
-&emsp;&emsp;(B) the taxpayer and his spouse consent in writing to the assessment (within such period as may be agreed on with the Secretary) of any deficiency, to the extent attributable to such change of election, even though at the time of the filing of such consent the assessment of such deficiency would otherwisebe prevented by the operation of any law or rule of law.
+&emsp;&emsp;(B) the taxpayer and his spouse consent in writing to the assessment (within such period as may be agreed on with the Secretary)of any deficiency, to the extent attributable to such change of election, even though at the time of the filing of such consent the assessment of such deficiency would otherwise be prevented by the operation of any law or rule of law.
 
 > &emsp;This paragraph shall not apply if the tax liability of the taxpayer's spouse for the taxable year corresponding to the taxable year of the taxpayer has been compromised under section 7122.
 
@@ -140,9 +140,9 @@ For purposes of this section, marital status shall be determined under section 7
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993.)
 
-#### Standard Deduction Adjustments for Tax Years Beginning in 1999
+#### Standard Deduction Adjustments for Tax Years Beginning in 2000
 
-<i>For adjustment of standard deduction, limitation on standard deduction, and additional amounts under subsecs. (c)(2), (5) and (f) of this section for tax years beginning in 1999, see section 3.05 of Revenue Procedure 98–61, set out as a note under section 1 of this title.</i>
+<i>For adjustment of standard deduction, limitation on standard deduction, and additional amounts under subsecs. (c)(2), (5) and (f) of this section for tax years beginning in 2000, see section 3.05 of Revenue Procedure 99–42, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 
@@ -190,9 +190,9 @@ Subsec. (c). Pub. L. 99–514, §102(a), substituted “Standard deduction” fo
 
 Subsec. (c)(6)(C) to (E). Pub. L. 99–514, §1272(d)(6), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: “a citizen of the United States entitled to the benefits of section 931 (relating to income from sources within possessions of the United States),”.
 
-Subsec. (d). Pub. L. 99–514, §102(a), substituted “Itemized deductions” for “Zero bracket amount” in heading and amended text generally. Prior to amendment, subsec. (d) read as follows: “For purposes of this subtitle, the term ‘zero bracket amount’ means—
+Subsec. (d). Pub. L. 99–514, §102(a), substituted “Itemized deductions” for “Zero bracket amount” in headingand amended text generally. Prior to amendment, subsec. (d) read as follows: “For purposes of this subtitle, the term ‘zero bracket amount’ means—
 
-&emsp;“(1) in the case of an individual to whom subsection (a), (b), (c), or (d) of section 1 applies, the maximumamount of taxable income on which no tax is imposed by the applicable subsection of section 1, or
+&emsp;“(1) in the case of an individual to whom subsection (a), (b), (c), or (d) of section 1 applies, the maximum amount of taxable income on which no tax is imposed by the applicable subsection of section 1, or
 
 &emsp;“(2) zero in any other case.”
 

@@ -10,7 +10,7 @@
 
 #### (b) State compliance
 
-Not later than 24 months after the date the regulations described in subsection (a) of this section are adopted, a State that administers a program that provides a Federal public benefit shall have in effect a verification system that complies with the regulations.
+Not later than 24 months after the date the regulations described in subsection (a) of this section are adopted, a State that administers a program that provides a Federal public benefitshall have in effect a verification system that complies with the regulations.
 
 #### (c) Authorization of appropriations
 

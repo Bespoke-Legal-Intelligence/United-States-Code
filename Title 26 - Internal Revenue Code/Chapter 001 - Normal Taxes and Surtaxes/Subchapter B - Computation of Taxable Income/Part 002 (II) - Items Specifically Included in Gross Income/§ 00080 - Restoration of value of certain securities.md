@@ -8,7 +8,7 @@ In the case of a domestic corporation subject to the tax imposed by section 11 o
 
 &emsp;(2) which was taken into account as a loss from the sale or exchange of a capital asset or with respect to which a deduction for a loss was allowed under section 165,
 
-> is restored in whole or in part during any taxable year by reason of any recovery of money or other property in respect of the property to which such security was related, the value so restored (to the extent that, when added to the value so restored during prior taxable years, it does not exceed the amount of the loss described in paragraph (2)) shall, except as provided in subsection (b), be included in gross income for the taxable year in which such restoration occurs.
+> is restored in whole or in part during any taxable year by reason of any recovery of money or other property in respect of the property towhich such security was related, the value so restored (to the extent that, when added to the value so restored during prior taxable years, it does not exceed the amount of the loss described in paragraph (2)) shall, except as provided in subsection (b), be included in gross income for the taxable year in which such restoration occurs.
 
 #### (b) Reduction for failure to receive tax benefit
 

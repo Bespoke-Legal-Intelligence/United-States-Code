@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) proposals for public facilities to be developed, expanded, or improved for the Recreation Area, including one or more visitor centers to accommodate both local and out-of-State visitors;
 
-&emsp;&emsp;(C) plans for the management of natural and cultural resources in the Recreation Area, with emphasis on the preservation and long-term scientific use of archaeological resources, with priority in development given to the enforcement of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and the National Historic Preservation Act (16 U.S.C. 470 et seq.) within the Recreation Area;
+&emsp;&emsp;(C) plans for the management of natural and cultural resources in the RecreationArea, with emphasis on the preservation and long-term scientific use of archaeological resources, with priority in development given to the enforcement of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and the National Historic Preservation Act (16 U.S.C. 470 et seq.) within the Recreation Area;
 
 &emsp;&emsp;(D) wildlife and fish resource management plans for the Recreation Area prepared in consultation with appropriate departments of the State of Nevada and using other available studies of the Recreation Area;
 
@@ -32,7 +32,7 @@
 
 #### (1) Recommendations
 
-&emsp;The general management plan for the Recreation Area shall include the recommendationsof the Bureau of Land Management as to the suitability or nonsuitability for preservation as wilderness those lands within the Recreation Area identified as the Mt. Stirling, La Madre Mountains, and Pine Creek Wilderness Study Areas on the Bureau of Land Management Wilderness Status Map, dated March 1990.
+&emsp;The general management plan for the Recreation Area shall include the recommendations of the Bureau of Land Management as to the suitability or nonsuitability for preservation as wilderness those lands within the Recreation Area identified as the Mt. Stirling, La Madre Mountains, and Pine Creek Wilderness Study Areas on the Bureau of Land Management Wilderness Status Map, dated March 1990.
 
 #### (2) Management
 

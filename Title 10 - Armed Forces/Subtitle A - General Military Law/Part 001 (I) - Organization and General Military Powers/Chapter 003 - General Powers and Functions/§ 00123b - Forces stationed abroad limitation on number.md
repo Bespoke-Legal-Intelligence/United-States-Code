@@ -20,5 +20,5 @@ Provisions similar to those in this section were contained in Pub. L. 102–484,
 
 #### Effective Date
 
-Section 1312(b) of Pub. L. 103–337 provided that: “Section 123b of title 10, United States Code, as added bysubsection (a), does not apply with respect to a fiscal year before fiscal year 1996.”
+Section 1312(b) of Pub. L. 103–337 provided that: “Section 123b of title 10, United States Code, as added by subsection (a), does not apply with respect to a fiscal year before fiscal year 1996.”
 

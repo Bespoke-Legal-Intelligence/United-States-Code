@@ -6,7 +6,7 @@
 
 #### (A) United States Court of Federal Claims
 
-&emsp;&emsp;The United States Court of Federal Claims shall, subject to subparagraph (B), have jurisdiction of any civil action or claim against the United States for any taking of property without just compensation that occurs by reason of the action of any officer or employee of the Organization for the Prohibition of Chemical Weapons, including any member of an inspection team of the Technical Secretariat, or by reason of the action of any officer or employee of the United States pursuant to this chapter or the Convention. For purposes of this subsection, action taken pursuant to or under the color ofthis chapter or the Convention shall be deemed to be action taken by the United States for a public purpose.
+&emsp;&emsp;The United States Court of Federal Claims shall, subject to subparagraph (B), have jurisdiction of any civil action or claim against the United States for any taking of property without just compensation that occurs by reason of the action of any officer or employee of the Organization for the Prohibition of Chemical Weapons, including any member of an inspection team of the Technical Secretariat, or by reason of the action of any officer or employee of the United States pursuant to this chapter or the Convention. For purposes of this subsection, action taken pursuant to or under the color of this chapter or the Convention shall be deemed to be action taken by the United States for a public purpose.
 
 #### (B) District courts
 
@@ -22,7 +22,7 @@
 
 #### (4) Burden of proof
 
-&emsp;In any civil action under paragraph (1), the plaintiff shall have the burden to establish a prima facie case that, due to acts or omissions of any official of the Organization or any member of an inspection team of the Technical Secretariat taken under the color of the Convention, proprietary information of the plaintiff has been divulged or taken without authorization. If the United States Court of Federal Claims finds that the plaintiff has demonstrated such a prima facie case, the burden shall shift to the United States to disprove the plaintiff's claim. In deciding whether the plaintiff has carried its burden, the United States Court of Federal Claims shall consider, among other things—
+&emsp;In any civil action under paragraph (1), the plaintiff shall have the burden to establish a prima facie case that, due to acts or omissions of any official of the Organization or any member of an inspection team of the Technical Secretariat taken under the color of the Convention, proprietary information of the plaintiff has been divulged or taken without authorization. If the United States Court of Federal Claims finds that the plaintiff has demonstrated such a prima facie case, the burden shall shift to the United States to disprove the plaintiff's claim. In deciding whether theplaintiff has carried its burden, the United States Court of Federal Claims shall consider, among other things—
 
 &emsp;&emsp;(A) the value of proprietary information;
 
@@ -88,7 +88,7 @@ In any action under subsection (a) or (b) of this section, the United States may
 
 #### (iv) Export-Import Bank transactions
 
-&emsp;&emsp;&emsp;The United States shall not give approval to guarantee, insure, or extend credit, or to participate in the extension of credit to a person described in subparagraph (A) through the Export-Import Bank of the United States.
+&emsp;&emsp;&emsp;The United States shall not give approval to guarantee, insure, or extendcredit, or to participate in the extension of credit to a person described in subparagraph (A) through the Export-Import Bank of the United States.
 
 #### (v) Private bank transactions
 
@@ -128,7 +128,7 @@ In any action under subsection (a) or (b) of this section, the United States may
 
 #### (v) International financial assistance
 
-&emsp;&emsp;&emsp;The United States shall oppose any loan or financial or technical assistance byinternational financial institutions in accordance with section 262d of this title to a country described in subparagraph (A).
+&emsp;&emsp;&emsp;The United States shall oppose any loan or financial or technical assistance by international financial institutions in accordance with section 262d of this title to a country described in subparagraph (A).
 
 #### (vi) Termination of assistance under Foreign Assistance Act of 1961
 

@@ -62,7 +62,7 @@ Provisions similar to those comprising this section were contained in Pub. L. 88
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 97–414, §9(d)(1), amended directory language of Pub. L. 97–35, §963(b)(4), to correcta typographical error, and did not involve any change in text. See 1981 Amendment note below.
+1983—Subsec. (a). Pub. L. 97–414, §9(d)(1), amended directory language of Pub. L. 97–35, §963(b)(4), to correct a typographical error, and did not involve any change in text. See 1981 Amendment note below.
 
 Subsec. (a)(3). Pub. L. 97–414, §9(d)(2), substituted a comma for the period at end.
 

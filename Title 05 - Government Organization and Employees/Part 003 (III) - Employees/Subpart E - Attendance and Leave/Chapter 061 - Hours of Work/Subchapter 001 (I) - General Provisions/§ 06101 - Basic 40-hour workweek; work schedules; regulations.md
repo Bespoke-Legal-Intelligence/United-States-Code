@@ -150,7 +150,7 @@ Section 1. This Act \[enacting section 5550a of this title and this note\] may b
 
 #### “congressional findings
 
-“Sec. 2. The Congress finds that new trends in the usage of 4-day workweeks, flexible work hours, and other variations in workday and workweek schedules in the private sector appear to show sufficient promise to warrant carefully designed, controlled, and evaluated experimentation by Federal agencies to determine whether and in what situations such varied work schedules can be successfully used by Federal agencies on apermanent basis. The Congress also finds that there should be sufficient flexibility in the work schedules of Federal employees to allow such employees to meet the obligations of their faith.
+“Sec. 2. The Congress finds that new trends in the usage of 4-day workweeks, flexible work hours, and other variations in workday and workweek schedules in the private sector appear to show sufficient promise to warrant carefully designed, controlled, and evaluated experimentation by Federal agencies to determine whether and in what situations such varied work schedules can be successfully used by Federal agencies on a permanent basis. The Congress also finds that there should be sufficient flexibility in the work schedules of Federal employees to allow such employees to meet the obligations of their faith.
 
 #### “definitions
 
@@ -172,7 +172,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 “(2) Each agency may conduct one or more experiments under titles I and II of this Act. Such experiments shall be subject to such regulations as the Commission may prescribe under section 305 of this Act.
 
-“(b) The Commission shall, not later than 90 days after the effective date of this section, establish a master plan which shall contain guidelines and criteria by which the Commission will study and evaluate experiments conducted under titles I and II of this Act. Such master plan shall provide for the study and evaluation of experiments within a sample of organizations of different size, geographic location, and functions and activities, sufficient to insure adequate evaluation of the impact of varied work schedules on—
+“(b) The Commission shall, not later than 90 days after the effective date of this section, establish a master plan which shall contain guidelines and criteria bywhich the Commission will study and evaluate experiments conducted under titles I and II of this Act. Such master plan shall provide for the study and evaluation of experiments within a sample of organizations of different size, geographic location, and functions and activities, sufficient to insure adequate evaluation of the impact of varied work schedules on—
 
 &emsp;“(1) the efficiency of Government operations;
 
@@ -232,7 +232,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 &emsp;“(2) the employee shall be compensated for such overtime hours in accordance with such provisions, as applicable.
 
-“(b) Notwithstanding the provisions of law referred to in paragraph (1) of subsection (a), an employee shall not be entitled to be compensated for credit hours worked except to the extent authorized under section106 or to the extent such employee is allowed to have such hours taken into account with respect to the employee's basic work requirement.
+“(b) Notwithstanding the provisions of law referred to in paragraph (1) of subsection (a), an employee shall not be entitled to be compensated for credit hours worked except to the extent authorized under section 106 or to the extent such employee is allowed to have such hours taken into account with respect to the employee's basic work requirement.
 
 “(c)(1) Notwithstanding section 5545(a) of title 5, United States Code, premium pay for nightwork will not be paid to an employee otherwise subject to such section solely because the employee elects to work credit hours, or elects a time of arrival or departure, at a time of day from which such premium pay is otherwise authorized; except that—
 
@@ -314,7 +314,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 “Sec. 203. (a) The provisions of sections 5542(a), 5544(a), and 5550(2) of title 5, United States Code, section 4107(e)(5) of title 38, United States Code, section 7 of the Fair Labor Standards Act, as amended \[section 207 of Title 29, Labor\], or any other law, which relate to premium pay for overtime work, shall not apply to the hours which constitute a compressed schedule.
 
-“(b) In the case of any full-time employee, hours worked in excess of the compressed schedule shall be overtime hours and shall be paid for as provided by whichever statutory provisions referred to in subsection (a) are applicable to the employee. In the case of any part-time employee on a compressed schedule, overtime pay shall begin to be paid after the samenumber of hours of work after which a full-time employee on a similar schedule would begin to receive overtime pay.
+“(b) In the case of any full-time employee, hours worked in excess of the compressed schedule shall be overtime hours and shall be paid for as provided by whichever statutory provisions referred to in subsection (a) are applicable to the employee. In the case of any part-time employee on a compressed schedule, overtime pay shall begin to be paid after the same number of hours of work after which a full-time employee on a similar schedule would begin to receive overtime pay.
 
 “(c) Notwithstanding section 5544(a), 5546(a), or 5550(1) of title 5, United States Code, or any other applicable provision of law, in the case of any full-time employee on a compressed schedule who performs work (other than overtime work) on a tour of duty for any workday a part of which is performed on a Sunday, such employee is entitled to pay for work performed during the entire tour of duty at the rate of such employee's basic pay, plus premium pay at a rate equal to 25 percent of such basic pay rate.
 
@@ -328,7 +328,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 #### “application of experiments in the case of negotiated contracts
 
-“Sec. 302. (a) Employees within a unit with respect to which an organization of Government employees has been accorded exclusive recognition shall not be included within any experiment under title I or II of this Act except to the extent expressly provided under a written agreement between the agency and such organization.
+“Sec. 302. (a) Employees within a unit with respect to which an organization of Government employees hasbeen accorded exclusive recognition shall not be included within any experiment under title I or II of this Act except to the extent expressly provided under a written agreement between the agency and such organization.
 
 “(b) The Commission or an agency may not participate in a flexible or compressed schedule experiment under a negotiated contract which contains premium pay provisions which are inconsistent with the provisions of section 103 or 203 of this Act, as applicable.
 

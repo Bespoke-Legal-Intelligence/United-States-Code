@@ -84,6 +84,10 @@ Amendment by Pub. L. 100–180 applicable as if included in enactment of the Gol
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
+#### National Missile Defense Policy
+
+Pub. L. 106–38, §2, July 22, 1999, 113 Stat. 205, provided that: “It is the policy of the United States to deploy as soon as is technologically possible an effective National Missile Defense system capable of defending the territory of the United States against limited ballistic missile attack (whether accidental, unauthorized, or deliberate) with funding subject to the annual authorization of appropriations and the annual appropriation of funds for National Missile Defense.”
+
 #### National Missile Defense Program
 
 Pub. L. 105–85, div. A, title II, §231, Nov. 18, 1997, 111 Stat. 1661, provided that:
@@ -106,7 +110,7 @@ Elements of NMD System.—The national missile defense system architecture speci
 
 “(c)
 
-Plan for NMD System Development and Deployment.—Not later than February 15, 1998, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and Committees on National Security and Appropriations of House of Representatives\] a plan for the development and deployment of a national missile defense system that could achieve initial operational capability in fiscal year 2003. The plan shall include the following matters:
+Plan for NMD System Development and Deployment.—Not later than February 15, 1998, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a plan for the development and deployment of a national missile defense system that could achieve initial operational capability in fiscal year 2003. The plan shall include the following matters:
 
 &emsp;“(1) A detailed description of the system architecture selected for development.
 
@@ -160,7 +164,7 @@ National Laboratories.—For purposes of this section, the national laboratories
 
 #### Ballistic Missile Defense Program
 
-Subtitle C of title II of div. A of Pub. L. 104–106, as amended by Pub. L. 105–85, div. A, title II, §236, Nov. 18, 1997, 111 Stat. 1665, provided that:
+Subtitle C of title II of div. A of Pub. L. 104–106, as amended by Pub. L. 105–85, div. A, title II, §236, Nov. 18, 1997, 111 Stat. 1665; Pub. L. 106–65, div. A, title X, §1067(6), Oct. 5, 1999, 113 Stat. 774, provided that:
 
 #### “SEC. 231. SHORT TITLE.
 
@@ -248,7 +252,7 @@ Program Accountability Report.—(1) As part of the annual report of the Ballist
 
 “(f)
 
-Reports on TMD System Limitations Under ABM Treaty.—(1) Whenever, after January 1, 1993, the Secretary of Defense issues a certification with respect to the compliance of a particular Theater Missile Defense system with the ABM Treaty, the Secretary shall transmit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a copy of such certification. Such transmittal shall be made not later than 30 days after the date on which such certification is issued, except that in the case of a certification issued before the date of the enactment of this Act \[Feb. 10, 1996\], such transmittal shall be made not later than 60 days after the date of the enactment of this Act.
+Reports on TMD System Limitations Under ABM Treaty.—(1) Whenever, after January 1, 1993, the Secretary of Defense issues a certification with respect to the compliance of a particular Theater Missile Defense system with the ABM Treaty, the Secretary shall transmit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a copy of such certification. Such transmittal shall be made not later than 30 days after the date on which such certification is issued, except that in the case of a certification issued before the date of the enactment of this Act \[Feb. 10, 1996\], such transmittal shall be made not later than 60 days after the date of the enactment of this Act.
 
 “(2) If a certification under paragraph (1) is based on application of a policy concerning United States compliance with the ABM Treaty that differs from the policy described in section 235(b)(1), the Secretary shall include with the transmittal under that paragraph a report providing a detailed assessment of—
 
@@ -352,13 +356,13 @@ Compliance Review for Navy Upper Tier System.—(1) The Secretary of Defense sha
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘July 13, 1993, ACDA letter’ means the letter dated July 13, 1993, from the Acting Director ofthe Arms Control and Disarmament Agency to the chairman of the Committee on Foreign Relations of the Senate relating to the correct interpretation of the ABM Treaty and accompanied by an enclosure setting forth such interpretation.
+&emsp;“(1) The term ‘July 13, 1993, ACDA letter’ means the letter dated July 13, 1993, from the Acting Director of the Arms Control and Disarmament Agency to the chairman of the Committee on Foreign Relations of the Senate relating to the correct interpretation of the ABM Treaty and accompanied by an enclosure setting forth such interpretation.
 
 &emsp;“(2) The term ‘ABM Treaty’ means the Treaty between the United States of America and the Union of Soviet Socialist Republics on the Limitation of Anti-Ballistic Missiles, signed in Moscow on May 26, 1972.
 
 &emsp;“(3) The term ‘appropriate congressional committees’ means—
 
-&emsp;&emsp;“(A) the Committee on Armed Services \[now Committee on National Security\], the Committee on Foreign Affairs \[now Committee on International Relations\], and the Committee on Appropriations of the House of Representatives; and
+&emsp;&emsp;“(A) the Committee on Armed Services, the Committee on Foreign Affairs \[now Committee on International Relations\], and the Committee on Appropriations of the House of Representatives; and
 
 &emsp;&emsp;“(B) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate.”
 
@@ -550,7 +554,7 @@ Transition.—The prohibition in subsection (a) shall not apply to a contract en
 
 #### Limitation on Transfer of Certain Military Technology to Independent States of Former Soviet Union
 
-Section 223 of Pub. L. 100–180, as amended by Pub. L. 103–199, title II, §203(a)(1), Dec. 17, 1993, 107 Stat. 2321, provided that: “Military technology developed with funds appropriated or otherwise made available for the Ballistic Missile Defense Program may not be transferred (or made available for transfer) to Russia or any other independent state of the former Soviet Union by the United States (or with the consent of the United States) unless the President determines, and certifies to the Congress at least 15 days prior to any such transfer, that such transfer is in the national interest of the United States and is to be made for the purpose of maintaining peace.”
+Section 223 of Pub. L. 100–180, as amended by Pub. L. 103–199, title II, §203(a)(1), Dec. 17, 1993, 107 Stat. 2321, provided that: “Military technology developed withfunds appropriated or otherwise made available for the Ballistic Missile Defense Program may not be transferred (or made available for transfer) to Russia or any other independent state of the former Soviet Union by the United States (or with the consent of the United States) unless the President determines, and certifies to the Congress at least 15 days prior to any such transfer, that such transfer is in the national interest of the United States and is to be made for the purpose of maintaining peace.”
 
 #### SDI Architecture To Require Human Decision Making
 
@@ -606,7 +610,7 @@ Contract Award Requirements.—(1) A contract under subsection (b) shall be awar
 
 Requirements Applicable to FFRDC.—The Secretary of Defense shall—
 
-&emsp;“(1) require that the contract referred to in subsection (b) include a provision stating that no officer or employee of the Department of Defense shall have the authority to veto the employment of any personselected to serve as an officer or employee of the new FFRDC;
+&emsp;“(1) require that the contract referred to in subsection (b) include a provision stating that no officer or employee of the Department of Defense shall have the authority to veto the employment of any person selected to serve as an officer or employee of the new FFRDC;
 
 &emsp;“(2) require that at least 5 percent of the total amount of funds available for the new FFRDC shall be set aside for independent research to be performed by the staff of the new FFRDC under the direction of the chief executive officer of the new FFRDC;
 
@@ -620,7 +624,7 @@ Requirements Applicable to FFRDC.—The Secretary of Defense shall—
 
 &emsp;“(7) require that the contract referred to in subsection (b) include a provision prohibiting the new FFRDC from employing any person who, as a Federal employee or member of the Armed Forces, served in the Strategic Defense Initiative Organization within two years before the date on which such person is to be employed by the new FFRDC; and
 
-&emsp;“(8) require that any contract referred to in subsection (b) require that the Board of Trustees of the new FFRDC be comprised of individuals who represent a reasonable cross-section of views on the engineering and scientific issues associated with the Strategic Defense Initiative Program.
+&emsp;“(8) require that any contract referred to in subsection (b) require that the Board of Trustees of thenew FFRDC be comprised of individuals who represent a reasonable cross-section of views on the engineering and scientific issues associated with the Strategic Defense Initiative Program.
 
 “(e)
 
@@ -710,55 +714,15 @@ Pub. L. 99–145, title IX, §915, Nov. 8, 1985, 99 Stat. 688, as amended by Pub
 
 #### Requirement for Specific Authorization for Deployment of Strategic Defense Initiative System
 
-Pub. L. 99–145, title II, §222, Nov. 8, 1985, 99 Stat. 613, provided that strategic defense system developed asconsequence of research, development, test, and evaluation conducted on Strategic Defense Initiative program could not be deployed in whole or in part unless President made a certain determination and certification to Congress and funding for deployment of such system was specifically authorized by legislation enacted after date of certification, prior to repeal by Pub. L. 104–106, div. A, title II, §253(1), Feb. 10, 1996, 110 Stat. 234.
+Pub. L. 99–145, title II, §222, Nov. 8, 1985, 99 Stat. 613, provided that strategic defense system developed as consequence of research, development, test, and evaluation conducted on Strategic Defense Initiative program could not be deployed in whole or in part unless President made a certain determination and certification to Congress and funding for deployment of such system was specifically authorized by legislation enacted after date of certification, prior to repeal by Pub. L. 104–106, div. A, title II, §253(1), Feb. 10, 1996, 110 Stat. 234.
 
 #### Annual Report on Ballistic Missile Defense Program
 
-Pub. L. 101–189, div. A, title II, §224, Nov. 29, 1989, 103 Stat. 1398, as amended by Pub. L. 103–160, div. A, title II, §240, Nov. 30, 1993, 107 Stat. 1603; Pub. L. 104–201, div. A, title II, §244, Sept. 23, 1996, 110 Stat. 2463, provided that:
+Pub. L. 101–189, div. A, title II, §224, Nov. 29, 1989, 103 Stat. 1398, as amended by Pub. L. 103–160, div. A, title II, §240, Nov. 30, 1993, 107 Stat. 1603; Pub. L. 104–201, div. A, title II, §244, Sept. 23, 1996, 110 Stat. 2463, provided that not later than March 15 of each year, the Secretary of Defense was to transmit to Congress a report on the programs and projects that constitute the Ballistic Missile Defense program and on any other program or project relating to defense against ballistic missiles, prior to repeal by Pub. L. 106–65, div. A, title X, §1032(b)(1), Oct. 5, 1999, 113 Stat. 751.
 
-“(a)
+Pub. L. 100–180, div. A, title II, §231(a), Dec. 4, 1987, 101 Stat. 1059, provided that not later than Mar. 15, 1988 and Mar. 15, 1989, the Secretary of Defense was to transmit to Congress a report on the programs that constitute the Strategic Defense Initiative and on any other program relating to defense against ballistic missiles.
 
-Report Required.—Not later than March 15 of each year, the Secretary of Defense shall transmit to Congress a report (in both unclassified and classified form) on the programs and projects that constitute the Ballistic Missile Defense program and on any other program or project relating to defense against ballistic missiles.
-
-“(b)
-
-Content of Report.—Each such report shall include the following:
-
-&emsp;“(1) A statement of the basic strategy for research and development being pursued by the Department of Defense under the Ballistic Missile Defense program (BMD), including the relative priority being given, respectively, to the development of near-term deployment options and research on longer-term technological approaches.
-
-&emsp;“(2) A detailed description of each program or project which is included in the Ballistic Missile Defense program or which otherwise relates to defense against strategic ballistic missiles, including a technical evaluation of each such program or project and an assessment as to when each can be brought to the stage of full-scale engineering development (assuming funding as requested or programmed).
-
-&emsp;“(3) The status of consultations with other member nations of the North Atlantic Treaty Organization, Japan, and other appropriate allies concerning research being conducted in the Ballistic Missile Defense program.
-
-&emsp;“(4) A statement of the compliance of the planned BMD development and testing programs with existing arms control agreements, including the 1972 Anti-Ballistic Missile Treaty.
-
-&emsp;“(5) A review of possible countermeasures to specific BMD programs, an estimate of the time and cost required to develop each such countermeasure, and an evaluation of the adequacy of the BMD programs described in the report to respond to such countermeasures.
-
-&emsp;“(6) Details regarding funding of programs and projects for the Ballistic Missile Defense program (including the amounts authorized, appropriated, and made available for obligation after undistributed reductions or other offsetting reductions were carried out), as follows:
-
-&emsp;&emsp;“(A) The level of requested and appropriated funding provided for the current fiscal year for each program and project in the Ballistic Missile Defense program budgetary presentation materials provided to Congress.
-
-&emsp;&emsp;“(B) The aggregate amount of funding provided for previous fiscal years (including the current fiscal year) for each such program and project.
-
-&emsp;&emsp;“(C) The amount requested to be appropriated for each such program and project for the next fiscal year.
-
-&emsp;&emsp;“(D) The amount programmed to be requested for each such program and project for the following fiscal year.
-
-&emsp;&emsp;“(E) The amount required to reach the next significant milestone for each demonstration program and each major technology program.
-
-&emsp;“(7) Details on what Ballistic Missile Defense program technologies can be developed or deployed within the next 5 to 10 years to defend against significant military threats and help accomplish critical military missions. The missions to be considered include the following:
-
-&emsp;&emsp;“(A) Defending elements of the Armed Forces abroad and United States allies against tactical ballistic missiles, particularly new and highly accurate shorter-range ballistic missiles armed with conventional, chemical, or nuclear warheads.
-
-&emsp;&emsp;“(B) Defending against an accidental launch of strategic ballistic missiles against the United States.
-
-&emsp;&emsp;“(C) Any other significant near-term military mission that the application of BMD technologies might help to accomplish.”
-
-Similar provisions were contained in the following prior authorization act:
-
-Pub. L. 100–180, div. A, title II, §231(a), Dec. 4, 1987, 101 Stat. 1059.
-
-Pub. L. 98–525, title XI, §1102, Oct. 19, 1984, 98 Stat. 2580, required Secretary of Defense, at time of his annual budget presentation to Congress beginning with fiscal year 1986 and ending with fiscal year 1990, to transmit to Committees on Armed Services and Foreign Affairs of House of Representatives and Committees on Armed Services and Foreign Relations of Senate, a detailed report on programs that constitute SDI, prior to repeal by Pub. L. 100–180, div. A, title II, §231(b), Dec. 4, 1987, 101 Stat. 1060.
+Pub. L. 98–525, title XI, §1102, Oct. 19, 1984, 98 Stat. 2580, required Secretary of Defense, at time of his annual budget presentation to Congress beginning with fiscal year 1986 and ending with fiscal year 1990, to transmit to Committees on Armed Services and Foreign Affairs of House of Representatives and Committees on Armed Services and Foreign Relations of Senate, a detailed report on programs that constitute SDI,prior to repeal by Pub. L. 100–180, div. A, title II, §231(b), Dec. 4, 1987, 101 Stat. 1060.
 
 #### Plans for Management of Technical Data and Computer Capability Improvements
 
@@ -767,6 +731,8 @@ Section 1252 of Pub. L. 98–525 directed Secretary of Defense, not later than o
 #### Consultation With Allies on Strategic Defense Initiative Program
 
 Pub. L. 98–473, title I, §101(h) \[title VIII, §8104\], Oct. 12, 1984, 98 Stat. 1904, 1942, provided that: “It is the sense of the Congress that—(a) the President shall inform and make every effort to consult with other member nations of the North Atlantic Treaty Organization, Japan, and other appropriate allies concerning the research being conducted in the Strategic Defense Initiative program. (b) The Secretary of Defense, in coordination with the Secretary of State and the Director of the Arms Control and Disarmament Agency, shall at the time of the submission of the annual budget presentation materials for each fiscal year beginning after September 30, 1984, report to the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate and the Committees on Appropriations, Armed Services, and Foreign Affairs \[now International Relations\] of the House of Representatives on the status of the consultations referred to under subsection (a).”
+
+\[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of Title 22, Foreign Relations and Intercourse.\]
 
 #### Antisatellite Weapons Test
 
@@ -892,7 +858,7 @@ Section 811 of Pub. L. 94–106, as amended by Pub. L. 96–107, title VIII, §8
 
 Section 608 of Pub. L. 93–552, title VI, Dec. 27, 1974, 88 Stat. 1763, provided:
 
-“(a) The Secretary of Defense is authorized to assist communities located near the TRIDENT Support Site Bangor, Washington, in meeting the costs of providing increased municipal services and facilities to the residents of such communities, if the Secretary determines that there is an immediate and substantial increase in the need for such services and facilities in such communities as a direct result of work being carried out in connection with the construction, installation, testing, and operation of the TRIDENT Weapon System and that an unfair and excessive financial burden will be incurred by such communities as a result of the increased need for such services and facilities.
+“(a) The Secretary of Defense is authorized to assist communities located near the TRIDENT Support Site Bangor, Washington, in meeting the costs of providing increased municipal services and facilities to the residents of such communities, if the Secretary determines that there is an immediate and substantial increase in the need for such services and facilities in such communities as a direct result of work being carried out in connection with the construction, installation, testing,and operation of the TRIDENT Weapon System and that an unfair and excessive financial burden will be incurred by such communities as a result of the increased need for such services and facilities.
 
 “(b) The Secretary of Defense shall carry out the provisions of this section through existing Federal programs. The Secretary is authorized to supplement funds made available under such Federal programs to the extent necessary to carry out the provisions of this section, and is authorized to provide financial assistance to communities described in subsection (a) of this section to help such communities pay their share of the costs under such programs. The heads of all departments and agencies concerned shall cooperate fully with the Secretary of Defense in carrying out the provisions of this section on a priority basis.
 

@@ -38,13 +38,19 @@ Sept. 10, 1962, Pub. L. 87–655, §§9, 10, 12, 76 Stat. 532, 533.
 
 36:1050.
 
+&nbsp;
+
 154107(c)
 
 36:1049(a).
 
+&nbsp;
+
 154107(d)
 
 36:1049(b).
+
+&nbsp;
 
 In subsection (a), the words “any shares of” are omitted as unnecessary.
 

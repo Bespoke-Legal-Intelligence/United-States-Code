@@ -407,6 +407,10 @@ Fees for representation before court.
 
 Notification of options for obtaining attorneys.
 
+(d)
+
+Assessment on attorneys.
+
 |  |  |
 | :--- | ---: |
 | [407\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000407%20-%20Assignment%20of%20benefits.md) | Assignment of benefits. |
@@ -911,19 +915,19 @@ Establishment of uniform standards for determination of disability.
 
 Special notice to blind individuals with respect to hearings and other official actions.
 
+(m)
+
+Work activity as basis for review.
+
 |  |  |
 | :--- | ---: |
 | [422\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000422%20-%20Rehabilitation%20services.md) | Rehabilitation services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(a)
+(a), (b)
 
-Referral for rehabilitation services.
-
-(b)
-
-Deductions on account of refusal to accept rehabilitation services.
+Repealed.
 
 (c)
 
@@ -976,6 +980,10 @@ Continued payment of disability benefits during appeal.
 Interim benefits in cases of delayed final decisions.
 
 (i)
+
+Reinstatement of entitlement.
+
+(j)
 
 Limitation on payments to prisoners.
 
@@ -1237,6 +1245,28 @@ Regulations.
 (e)
 
 Reports to Congress; effective date of agreements.
+
+|  |  |
+| :--- | ---: |
+| [434\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000434%20-%20Demonstration%20project%20authority.md) | Demonstration project authority. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Authority.
+
+(b)
+
+Requirements.
+
+(c)
+
+Authority to waive compliance with benefits requirements.
+
+(d)
+
+Reports.
 
 #### SUBCHAPTER III—GRANTS TO STATES FOR UNEMPLOYMENT COMPENSATION ADMINISTRATION
 
@@ -2809,6 +2839,10 @@ Limitations on authorization of appropriations.
 
 Technical assistance.
 
+(j)
+
+Supplemental grants.
+
 |  |  |
 | :--- | ---: |
 | [674\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000674%20-%20Payments%20to%20States.md) | Payments to States. |
@@ -2848,45 +2882,41 @@ Data collection and evaluation.
 
 |  |  |
 | :--- | ---: |
-| [677\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000677%20-%20Independent%20living%20initiatives.md) | Independent living initiatives. |
+| [677\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000677%20-%20John%20H.%20Chafee%20Foster%20Care%20Independence%20Program.md) | John H. Chafee Foster Care Independence Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Payments; purpose; entitlement of States.
+Purpose.
 
 (b)
 
-Administration or supervision of programs by State agency; payments to State to conduct and provide activities and services.
+Applications.
 
 (c)
 
-Description of program; assurances of effective and efficient operation of program and of compliance; time for submission to Secretary.
+Allotments to States.
 
 (d)
 
-Objective of programs; programs to help participating individuals live independently upon leaving foster care; types of programs.
+Use of funds.
 
 (e)
 
-Formula for determination of State entitlement for fiscal year 1987 and any succeeding fiscal year for transitional independent living programs; reallocation of amounts to other States; amounts in addition to amounts under other law.
+Penalties.
 
 (f)
 
-Payments; restrictions; estimation and adjustment; time of expenditure.
+Data collection and performance measurement.
 
 (g)
 
-Report by States to Secretary; evaluation by Secretary and report to Congress.
+Evaluations.
 
 (h)
 
-Payments and services not considered income or resources in determining eligibility for aid and services to needy families with children or for foster care and adoption assistance.
-
-(i)
-
-Promulgation of regulations.
+Limitations on authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
@@ -3281,11 +3311,162 @@ Terms and conditions of recommendations.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER VIII—TAXES WITH RESPECT TO EMPLOYMENT
+#### SUBCHAPTER VIII—SPECIAL BENEFITS FOR CERTAIN WORLD WAR II VETERANS
 
 |  |  |
 | :--- | ---: |
-| 1001 to 1011. | Omitted. |
+| [1001\.](Subchapter%20008%20%28VIII%29%20-%20Special%20Benefits%20for%20Certain%20World%20War%20II%20Veterans/%C2%A7%2001001%20-%20Basic%20entitlement%20to%20benefits.md) | Basic entitlement to benefits. |
+| [1002\.](Subchapter%20008%20%28VIII%29%20-%20Special%20Benefits%20for%20Certain%20World%20War%20II%20Veterans/%C2%A7%2001002%20-%20Qualified%20individuals.md) | Qualified individuals. |
+| [1003\.](Subchapter%20008%20%28VIII%29%20-%20Special%20Benefits%20for%20Certain%20World%20War%20II%20Veterans/%C2%A7%2001003%20-%20Residence%20outside%20the%20United%20States.md) | Residence outside the United States. |
+| [1004\.](Subchapter%20008%20%28VIII%29%20-%20Special%20Benefits%20for%20Certain%20World%20War%20II%20Veterans/%C2%A7%2001004%20-%20Disqualifications.md) | Disqualifications. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Requirement for Attorney General.
+
+|  |  |
+| :--- | ---: |
+| [1005\.](Subchapter%20008%20%28VIII%29%20-%20Special%20Benefits%20for%20Certain%20World%20War%20II%20Veterans/%C2%A7%2001005%20-%20Benefit%20amount.md) | Benefit amount. |
+| [1006\.](Subchapter%20008%20%28VIII%29%20-%20Special%20Benefits%20for%20Certain%20World%20War%20II%20Veterans/%C2%A7%2001006%20-%20Applications%20and%20furnishing%20of%20information.md) | Applications and furnishing of information. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Verification requirement.
+
+|  |  |
+| :--- | ---: |
+| [1007\.](Subchapter%20008%20%28VIII%29%20-%20Special%20Benefits%20for%20Certain%20World%20War%20II%20Veterans/%C2%A7%2001007%20-%20Representative%20payees.md) | Representative payees. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Examination of fitness of prospective representative payee.
+
+(c)
+
+Requirement for maintaining lists of undesirable payees.
+
+(d)
+
+Persons ineligible to serve as representative payees.
+
+(e)
+
+Deferral of payment pending appointment of representative payee.
+
+(f)
+
+Hearing.
+
+(g)
+
+Notice requirements.
+
+(h)
+
+Accountability monitoring.
+
+(i)
+
+Restitution.
+
+|  |  |
+| :--- | ---: |
+| [1008\.](Subchapter%20008%20%28VIII%29%20-%20Special%20Benefits%20for%20Certain%20World%20War%20II%20Veterans/%C2%A7%2001008%20-%20Overpayments%20and%20underpayments.md) | Overpayments and underpayments. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+No effect on subchapter VIII eligibility or benefit amount.
+
+(c)
+
+Waiver of recovery of overpayment.
+
+(d)
+
+Limited immunity for disbursing officers.
+
+(e)
+
+Authorized collection practices.
+
+|  |  |
+| :--- | ---: |
+| [1009\.](Subchapter%20008%20%28VIII%29%20-%20Special%20Benefits%20for%20Certain%20World%20War%20II%20Veterans/%C2%A7%2001009%20-%20Hearings%20and%20review.md) | Hearings and review. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Hearings.
+
+(b)
+
+Judicial review.
+
+|  |  |
+| :--- | ---: |
+| [1010\.](Subchapter%20008%20%28VIII%29%20-%20Special%20Benefits%20for%20Certain%20World%20War%20II%20Veterans/%C2%A7%2001010%20-%20Other%20administrative%20provisions.md) | Other administrative provisions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Regulations and administrative arrangements.
+
+(b)
+
+Payment of benefits.
+
+(c)
+
+Entitlement redeterminations.
+
+(d)
+
+Suspension and termination of benefits.
+
+|  |  |
+| :--- | ---: |
+| [1011\.](Subchapter%20008%20%28VIII%29%20-%20Special%20Benefits%20for%20Certain%20World%20War%20II%20Veterans/%C2%A7%2001011%20-%20Penalties%20for%20fraud.md) | Penalties for fraud. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Restitution by representative payee.
+
+|  |  |
+| :--- | ---: |
+| [1012\.](Subchapter%20008%20%28VIII%29%20-%20Special%20Benefits%20for%20Certain%20World%20War%20II%20Veterans/%C2%A7%2001012%20-%20Definitions.md) | Definitions. |
+| [1013\.](Subchapter%20008%20%28VIII%29%20-%20Special%20Benefits%20for%20Certain%20World%20War%20II%20Veterans/%C2%A7%2001013%20-%20Appropriations.md) | Appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3555,6 +3736,7 @@ Opportunity for review.
 |  |  |
 | :--- | ---: |
 | [1306a.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001306a%20-%20Public%20access%20to%20State%20disbursement%20records.md) | Public access to State disbursement records. |
+| [1306b.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001306b%20-%20State%20data%20exchanges.md) | State data exchanges. |
 | [1307\.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001307%20-%20Penalty%20for%20fraud.md) | Penalty for fraud. |
 | [1308\.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001308%20-%20Additional%20grants%20to%20Puerto%20Rico%2C%20Virgin%20Islands%2C%20Guam%2C%20and%20American%20Samoa%3B%20limitation%20on%20total%20payments.md) | Additional grants to Puerto Rico, Virgin Islands, Guam, and American Samoa; limitation on total payments. |
 
@@ -4084,7 +4266,8 @@ Definitions and special rules.
 
 |  |  |
 | :--- | ---: |
-| 1320a–8. | Civil monetary penalties and assessments for subchapters II and XVI. |
+| 1320a–7f. | Coordination of medicare and medicaid surety bond provisions. |
+| 1320a–8. | Civil monetary penalties and assessments for subchapters II, VIII and XVI. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -4135,6 +4318,36 @@ Liability of principal for acts of agents.
 (<i>l</i>)
 
 Protection of ongoing criminal investigations.
+
+|  |  |
+| :--- | ---: |
+| 1320a–8a. | Administrative procedure for imposing penalties for false or misleading statements. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Penalty.
+
+(c)
+
+Duration of penalty.
+
+(d)
+
+Effect on other assistance.
+
+(e)
+
+Definition.
+
+(f)
+
+Consultations.
 
 |  |  |
 | :--- | ---: |
@@ -4204,29 +4417,53 @@ Period of effectiveness.
 |  |  |
 | :--- | ---: |
 | 1320b–4. | Nonprofit hospital or critical access hospital philanthropy. |
-| 1320b–5. | Development of model prospective rate methodology. |
+| 1320b–5. | Repealed. |
+| 1320b–6. | Exclusion of representatives and health care providers convicted of violations from participation in social security programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Payment of hospitals for inpatient services.
+In general.
 
 (b)
 
-Report to Congress.
+Notice, effective date, and period of exclusion.
 
 (c)
 
-Proposals for legislation relating to reimbursement of providers.
+Notice to State agencies.
 
 (d)
 
-Prospective payment methodology for outpatient hospital services.
+Notice to State licensing agencies.
+
+(e)
+
+Notice, hearing, and judicial review.
+
+(f)
+
+Application for termination of exclusion.
+
+(g)
+
+Availability of records of excluded representatives and health care providers.
+
+(h)
+
+Reporting requirement.
+
+(i)
+
+Delegation of authority.
+
+(j)
+
+Definitions.
 
 |  |  |
 | :--- | ---: |
-| 1320b–6. | Repealed. |
 | 1320b–7. | Income and eligibility verification system. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -4452,7 +4689,7 @@ In general.
 |  |  |
 | :--- | ---: |
 | 1320b–16. | Public disclosure of certain information on hospital financial interest and referral patterns. |
-| 1320b–17. | Recovery of SSI overpayments from social security benefits. |
+| 1320b–17. | Recovery of SSI overpayments from other benefits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -4463,6 +4700,151 @@ In general.
 (b)
 
 No effect on SSI eligibility or benefit amount.
+
+|  |  |
+| :--- | ---: |
+| 1320b–18. | Recovery of social security benefit overpayments from subchapter VIII benefits. |
+| 1320b–19. | The Ticket to Work and Self-Sufficiency Program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Ticket system.
+
+(c)
+
+State participation.
+
+(d)
+
+Responsibilities of the Commissioner.
+
+(e)
+
+Program managers.
+
+(f)
+
+Employment networks.
+
+(g)
+
+Individual work plans.
+
+(h)
+
+Employment network payment systems.
+
+(i)
+
+Suspension of disability reviews.
+
+(j)
+
+Authorizations.
+
+(k)
+
+Definitions.
+
+(<i>l</i>)
+
+Regulations.
+
+|  |  |
+| :--- | ---: |
+| 1320b–20. | Work incentives outreach program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment.
+
+(b)
+
+Conditions.
+
+(c)
+
+Definitions.
+
+(d)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 1320b–21. | State grants for work incentives assistance to disabled beneficiaries. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Services provided.
+
+(c)
+
+Application.
+
+(d)
+
+Amount of payments.
+
+(e)
+
+Annual report.
+
+(f)
+
+Funding.
+
+(g)
+
+Definitions.
+
+(h)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 1320b–22. | Grants to develop and establish State infrastructures to support working individuals with disabilities. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment.
+
+(b)
+
+Grants for infrastructure and outreach.
+
+(c)
+
+Availability of funds.
+
+(d)
+
+Annual report.
+
+(e)
+
+Appropriation.
+
+(f)
+
+Recommendation.
 
 #### Part B—Peer Review of Utilization and Quality of Health Care Services
 
@@ -4904,11 +5286,15 @@ Disposition of resources; grounds for exemption from disposition requirements.
 
 (c)
 
-Notification of medicaid policy restricting eligibility of institutionalized individuals for benefits based on disposal of resources for less than fair market value.
+Disposal of resources for less than fair market value.
 
 (d)
 
 Funds set aside for burial expenses.
+
+(e)
+
+Trusts.
 
 |  |  |
 | :--- | ---: |
@@ -4919,15 +5305,11 @@ Funds set aside for burial expenses.
 
 (a)
 
-Referral by Commissioner of eligible individuals to appropriate State agency; review by Commissioner of individual's blindness or disability and need for services.
+Referral by Commissioner of eligible individuals to appropriate State agency.
 
-(b)
+(b), (c)
 
 Repealed.
-
-(c)
-
-Refusal by referred individuals to accept services.
 
 (d)
 
@@ -5170,6 +5552,10 @@ Concurrent SSI and food stamp applications by institutionalized individuals.
 (<i>o</i>)
 
 Notice requirements.
+
+(p)
+
+Reinstatement of eligibility on the basis of blindness or disability.
 
 |  |  |
 | :--- | ---: |
@@ -5850,7 +6236,24 @@ Annual report.
 |  |  |
 | :--- | ---: |
 | [1395j.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20B%20-%20Supplementary%20Medical%20Insurance%20Benefits%20for%20Aged%20and%20Disabled/%C2%A7%2001395j%20-%20Establishment%20of%20supplementary%20medical%20insurance%20program%20for%20aged%20and%20disabled.md) | Establishment of supplementary medical insurance program for aged and disabled. |
-| [1395k.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20B%20-%20Supplementary%20Medical%20Insurance%20Benefits%20for%20Aged%20and%20Disabled/%C2%A7%2001395k%20-%20Scope%20of%20benefits%3B%20definitions.md) | Scope of benefits; definitions. |
+| [1395k.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20B%20-%20Supplementary%20Medical%20Insurance%20Benefits%20for%20Aged%20and%20Disabled/%C2%A7%2001395k%20-%20Scope%20of%20benefits%3B%20extension%20of%20coverage%20of%20immunosuppressive%20drugs%3B%20definitions.md) | Scope of benefits; extension of coverage of immunosuppressive drugs; definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Scope of benefits.
+
+(b)
+
+Extension of coverage of immunosuppressive drugs.
+
+(c)
+
+Definitions.
+
+|  |  |
+| :--- | ---: |
 | 1395<i>l.</i> | Payment of benefits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -6534,6 +6937,10 @@ Special rule for certain inpatient hospital stays.
 
 Special rule for hospice care.
 
+(i)
+
+New entry bonus.
+
 |  |  |
 | :--- | ---: |
 | 1395w–24. | Premiums. |
@@ -6567,6 +6974,10 @@ Requirement for additional benefits.
 (g)
 
 Prohibition of State imposition of premium taxes.
+
+(h)
+
+Permitting use of segments of service areas.
 
 |  |  |
 | :--- | ---: |
@@ -7599,6 +8010,10 @@ Prospective payment for inpatient rehabilitation services.
 
 Payment to nonhospital providers.
 
+(<i>l</i>)
+
+Payment for nursing and allied health education for managed care enrollees.
+
 |  |  |
 | :--- | ---: |
 | [1395xx.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395xx%20-%20Payment%20of%20provider-based%20physicians%20and%20payment%20under%20certain%20percentage%20arrangements.md) | Payment of provider-based physicians and payment under certain percentage arrangements. |
@@ -8142,6 +8557,14 @@ Primary care case management services; primary care case manager; primary care c
 
 Conditions for State plans.
 
+(v)
+
+Employed individual with a medically improved disability.
+
+(w)
+
+Independent foster care adolescent.
+
 |  |  |
 | :--- | ---: |
 | [1396e.](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/%C2%A7%2001396e%20-%20Enrollment%20of%20individuals%20under%20group%20health%20plans.md) | Enrollment of individuals under group health plans. |
@@ -8328,6 +8751,10 @@ Prohibition of denial of services on basis of individual's inability to pay cert
 (f)
 
 Charges imposed under waiver authority of Secretary.
+
+(g)
+
+Individuals provided medical assistance under section 1396a(a)(10)(A)(ii)(XV) or (XVI).
 
 |  |  |
 | :--- | ---: |
@@ -9262,9 +9689,30 @@ Annual report.
 
 State evaluations.
 
+(c)
+
+Federal evaluation.
+
+(d)
+
+Inspector General audit and GAO report.
+
 |  |  |
 | :--- | ---: |
 | [1397ii.](Subchapter%20021%20%28XXI%29%20-%20State%20Children%27s%20Health%20Insurance%20Program/%C2%A7%2001397ii%20-%20Miscellaneous%20provisions.md) | Miscellaneous provisions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Relation to other laws.
+
+(b)
+
+Adjustment to Current Population Survey to include State-by-State data relating to children without health insurance coverage.
+
+|  |  |
+| :--- | ---: |
 | [1397jj.](Subchapter%20021%20%28XXI%29%20-%20State%20Children%27s%20Health%20Insurance%20Program/%C2%A7%2001397jj%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -9283,7 +9731,7 @@ Additional definitions.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 256b, 299a, 907a, 1437f, 4636, 11606, 13021 of this title; title 2 section 651; title 5 sections 8403, 8442; title 7 sections 2012, 2015; title 8 section 1324a; title 12 section 1701z–11; title 22 sections 3968, 4071i; title 25 sections 13d, 459e, 609c–1, 640d–21, 1264, 1300d–25, 1407, 1408, 2307, 3304; title 26 sections 86, 162, 401, 412, 415, 1402, 6103; title 29 sections 716, 728, 1082, 1552, 2931; title 31 sections 1516, 3701, 3716; title 38 sections 5303A, 8126; title 40 App. section 202; title 43 section 1626; title 45 sections 231, 231a, 231b, 231c, 231d, 231e, 231f, 231q, 231r, 231u; title 50 App. section 1291.
+This chapter is referred to in sections 256b, 299a, 907a, 1437f, 4636, 11606, 12637, 13021 of this title; title 2 section 651; title 5 sections 8403, 8442; title 7 sections 2012, 2015; title 8 section 1324a; title 12 section 1701z–11; title 22 sections 3968, 4071i; title 25 sections 13d, 459e, 609c–1, 640d–21, 1264, 1300d–25, 1407, 1408, 2307, 3304; title 26 sections 86, 162, 401, 412, 415, 1402, 6103; title 29 sections 716, 728, 1082, 1552, 2931; title 31 sections 1516, 3701, 3716; title 38 sections 5303A, 8126; title 40 App. section 202; title 43 section 1626; title 45 sections 231, 231a, 231b, 231c, 231d, 231e, 231f, 231q, 231r, 231u; title 50 App. section 1291.
 
 
 ---
@@ -9297,7 +9745,7 @@ This chapter is referred to in sections 256b, 299a, 907a, 1437f, 4636, 11606, 13
 - [Subchapter 005 (V) - Maternal and Child Health Services Block Grant](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/README.md)
 - [Subchapter 006 (VI) - Grants to States for Services to Aged, Blind, or Disabled](Subchapter%20006%20%28VI%29%20-%20Grants%20to%20States%20for%20Services%20to%20Aged%2C%20Blind%2C%20or%20Disabled/README.md)
 - [Subchapter 007 (VII) - Administration](Subchapter%20007%20%28VII%29%20-%20Administration/README.md)
-- [Subchapter 008 (VIII) - Taxes with Respect to Employment](Subchapter%20008%20%28VIII%29%20-%20Taxes%20with%20Respect%20to%20Employment/README.md)
+- [Subchapter 008 (VIII) - Special Benefits for Certain World War II Veterans](Subchapter%20008%20%28VIII%29%20-%20Special%20Benefits%20for%20Certain%20World%20War%20II%20Veterans/README.md)
 - [Subchapter 009 (IX) - Employment Security Administrative Financing](Subchapter%20009%20%28IX%29%20-%20Employment%20Security%20Administrative%20Financing/README.md)
 - [Subchapter 010 (X) - Grants to States for Aid to Blind](Subchapter%20010%20%28X%29%20-%20Grants%20to%20States%20for%20Aid%20to%20Blind/README.md)
 - [Subchapter 011 (XI) - General Provisions, Peer Review, and Administrative Simplification](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/README.md)

@@ -42,7 +42,7 @@ Except as otherwise provided in this section, gross income of an employee does n
 
 #### (2) Flexible spending arrangement
 
-&emsp;For purposes of this subsection, a flexible spending arrangement is a benefit program which provides employees with coverage under which—
+&emsp;For purposes of this subsection, a flexible spending arrangement is a benefit programwhich provides employees with coverage under which—
 
 &emsp;&emsp;(A) specified incurred expenses may be reimbursed (subject to reimbursement maximums and other reasonable conditions), and
 
@@ -58,7 +58,7 @@ COBRA, referred to in the heading for subsec. (b)(5), probably means the Consoli
 
 #### Amendments
 
-1996—Pub. L. 104–191, §301(c)(1), amended text generally. Prior to amendment, text read as follows: “Grossincome of an employee does not include employer-provided coverage under an accident or health plan.”
+1996—Pub. L. 104–191, §301(c)(1), amended text generally. Prior to amendment, text read as follows: “Gross income of an employee does not include employer-provided coverage under an accident or health plan.”
 
 Subsec. (c). Pub. L. 104–191, §321(c)(2), added subsec. (c).
 

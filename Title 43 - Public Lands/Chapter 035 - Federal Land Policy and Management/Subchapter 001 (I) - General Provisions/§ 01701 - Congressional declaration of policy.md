@@ -8,7 +8,7 @@
 
 &emsp;(3) public lands not previously designated for any specific use and all existing classifications of public lands that were effected by executive action or statute before October 21, 1976, be reviewed in accordance with the provisions of this Act;
 
-&emsp;(4) the Congress exercise its constitutional authority to withdraw or otherwise designate or dedicate Federal lands for specified purposes and that Congress delineate the extent to which the Executive may withdraw lands without legislative action;
+&emsp;(4) the Congress exercise its constitutional authority to withdraw or otherwise designate or dedicate Federal lands for specified purposes and that Congress delineate the extentto which the Executive may withdraw lands without legislative action;
 
 &emsp;(5) in administering public land statutes and exercising discretionary authority granted by them, the Secretary be required to establish comprehensive rules and regulations after considering the views of the general public; and to structure adjudication procedures to assure adequate third party participation, objective administrative review of initial decisions, and expeditious decisionmaking;
 
@@ -34,7 +34,7 @@
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(1), (3) and (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended,known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a)(1), (3) and (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 The Mining and Minerals Policy Act of 1970, referred to in subsec. (a)(12), is Pub. L. 91–631, Dec. 31, 1970, 84 Stat. 1876, which is classified to section 21a of Title 30, Mineral Lands and Mining.
 

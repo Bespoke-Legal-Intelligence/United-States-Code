@@ -68,7 +68,7 @@ The plan provisions (including plan items) required to be submitted under this p
 
 #### (9) Contingency measures
 
-&emsp;Such plan shall provide for the implementation of specific measures to be undertaken if the area fails to make reasonable further progress, or to attain the national primary ambient air quality standard by the attainment date applicable under this part. Such measures shall be included in the plan revision as contingency measures to take effect in any such case without further action by the State or the Administrator.
+&emsp;Such plan shall provide for the implementation of specific measures to be undertaken if the area fails to make reasonable furtherprogress, or to attain the national primary ambient air quality standard by the attainment date applicable under this part. Such measures shall be included in the plan revision as contingency measures to take effect in any such case without further action by the State or the Administrator.
 
 #### (d) Plan revisions required in response to finding of plan inadequacy
 

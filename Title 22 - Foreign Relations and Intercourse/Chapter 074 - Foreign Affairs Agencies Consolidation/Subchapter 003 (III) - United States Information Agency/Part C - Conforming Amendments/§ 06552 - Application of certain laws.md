@@ -10,11 +10,15 @@ Section 1461 of this title, section 1461–1 of this title, and section 1461–1
 
 #### (c) Limitation on use of funds
 
-Except as provided in section 1461 of this title and section 1461–1a of this title, funds specifically authorized to be appropriated for such public diplomacy programs shall not be used to influence public opinion in the United States, and no program material prepared using such funds shall be distributed or disseminated in the United States.
+(1) Except as provided in section 1461 of this title and section 1461–1a of this title, funds specifically authorized to be appropriated for such public diplomacy programs, identified as public diplomacy funds in any Congressional Presentation Document described in subsection (e) of this section, or reprogrammed for public diplomacy purposes, shall not be used to influence public opinion in the United States, and no program material prepared using such funds shall be distributed or disseminated in the United States.
+
+(2)
+
+Construction.—Nothing in paragraph (1) may be construed (A) to interfere with the integration of administrative resources between public diplomacy and other functions of the Department of State or to prevent the occasional performance of functions other than public diplomacy by officials or employees of the Department of State who are primarily assigned to public diplomacy, provided there is no substantial resulting diminution in the amount of resources devoted to public diplomacy below the amounts described in paragraph (1), or (B) to supersede reprogramming procedures.
 
 #### (d) Reporting requirements
 
-The report submitted pursuant to section 6601(f) of this title shall include a detailed statement of the manner in which the special missionof public diplomacy carried out by USIA prior to the transfer of functions under this chapter shall be preserved within the Department of State, including the planned duties and responsibilities of any new bureaus that will perform such public diplomacy functions. Such report shall also include the best available estimates of—
+The report submitted pursuant to section 6601(f) of this title shall include a detailed statement of the manner in which the special mission of public diplomacy carried out by USIA prior to the transfer of functions under this chapter shall be preserved within the Department of State, including the planned duties and responsibilities of any new bureaus that will perform such public diplomacy functions. Such report shall also include the best available estimates of—
 
 &emsp;(1) the amounts expended by the Department of State for public affairs programs during fiscal year 1998, and on the personnel and support costs for such programs;
 
@@ -30,9 +34,13 @@ The Department of State's Congressional Presentation Document for fiscal year 20
 
 &emsp;(2) the amount of funds allocated to and the positions authorized for such public diplomacy programs, including bureaus to be created upon the transfer of functions from USIA to the Department.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XIII, §1333, Oct. 21, 1998, 112 Stat. 2681–785.)
+(Pub. L. 105–277, div. G, subdiv. A, title XIII, §1333, Oct. 21, 1998, 112 Stat. 2681–785; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §304\], Nov. 29, 1999, 113 Stat. 1536, 1501A–434.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (b), and (d), was in the original “this subdivision”, meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, known as the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under section 6501 of this title and Tables.
+
+#### Amendments
+
+1999—Subsec. (c). Pub. L. 106–113 designated existing provisions as par. (1), inserted “, identified as public diplomacy funds in any Congressional Presentation Document described in subsection (e) of this section, or reprogrammed for public diplomacy purposes,” after “diplomacy programs”, and added par. (2).
 

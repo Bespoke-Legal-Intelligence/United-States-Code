@@ -42,17 +42,25 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, §1614(b), (c), (e)(1), 110 Stat. 5
 
 36:5504(b)(2) (1st sentence).
 
+&nbsp;
+
 40732(b)(2) (1st sentence)
 
 36:5504(e)(1).
+
+&nbsp;
 
 40732(b)(2) (last sentence)
 
 36:5504(b)(2) (last sentence).
 
+&nbsp;
+
 40732(c)
 
 36:5504(c).
+
+&nbsp;
 
 In subsection (a), the words “repair parts, and other supplies” are substituted for “repair parts, and accouterments” for consistency in the revised title.
 

@@ -12,7 +12,7 @@ Gross income of an employee, his spouse, or his dependents, does not include—
 
 #### (b) Qualified group legal services plan
 
-For purposes of this section, a qualified group legal services plan is a separate written plan ofan employer for the exclusive benefit of his employees or their spouses or dependents to provide such employees, spouses, or dependents with specified benefits consisting of personal legal services through prepayment of, or provision in advance for, legal fees in whole or in part by the employer, if the plan meets the requirements of subsection (c).
+For purposes of this section, a qualified group legal services plan is a separate written plan of an employer for the exclusive benefit of his employees or their spouses or dependents to provide such employees, spouses, or dependents with specified benefits consisting of personal legal services through prepayment of, or provision in advance for, legal fees in whole or in part by the employer, if the plan meets the requirements of subsection (c).
 
 #### (c) Requirements
 
@@ -22,7 +22,7 @@ For purposes of this section, a qualified group legal services plan is a separat
 
 #### (2) Eligibility
 
-&emsp;The plan shall benefit employees who qualify under a classification set up by the employer and found by the Secretary not to be discriminatory in favor of employees who are described in paragraph (1). For purposes of this paragraph, there shall be excluded from consideration employees not included in the plan who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that group legal services plan benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
+&emsp;The plan shall benefit employees who qualify under a classification set up by the employer and found by the Secretary not to be discriminatory in favor of employees who are described in paragraph (1). For purposes of thisparagraph, there shall be excluded from consideration employees not included in the plan who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that group legal services plan benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
 
 #### (3) Contribution limitation
 
@@ -80,7 +80,7 @@ This section and section 501(c)(20) shall not apply to taxable years beginning a
 
 &emsp;&emsp;<b>For reporting and recordkeeping requirements, see section 6039D.</b>
 
-(Added Pub. L. 94–455, title XXI, §2134(a), Oct. 4, 1976, 90 Stat. 1926; amended Pub. L. 97–34, title VIII, §802(a), Aug. 13, 1981, 95 Stat. 349; Pub. L.97–448, title I, §108(a), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–612, §1(a), (b)(3)(A), Oct. 31, 1984, 98 Stat. 3180, 3181; Pub. L. 99–514, title XI, §§1114(b)(3), 1151(c)(3), (g)(1), 1162(b), Oct. 22, 1986, 100 Stat. 2450, 2503, 2506, 2510; Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4002(a), (b)(1), Nov. 10, 1988, 102 Stat. 3488, 3643; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §7102(a)(1), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11404(a), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §104(a)(1), Dec. 11, 1991, 105 Stat. 1687.)
+(Added Pub. L. 94–455, title XXI, §2134(a), Oct. 4, 1976, 90 Stat. 1926; amended Pub. L. 97–34, title VIII, §802(a), Aug. 13, 1981, 95 Stat. 349; Pub. L. 97–448, title I, §108(a), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–612, §1(a), (b)(3)(A), Oct. 31, 1984, 98 Stat. 3180, 3181; Pub. L. 99–514, title XI, §§1114(b)(3), 1151(c)(3), (g)(1), 1162(b), Oct. 22, 1986, 100 Stat. 2450, 2503, 2506, 2510; Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4002(a), (b)(1), Nov. 10, 1988, 102 Stat. 3488, 3643; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §7102(a)(1), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11404(a), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §104(a)(1), Dec. 11, 1991, 105 Stat. 1687.)
 
 #### Prior Provisions
 
@@ -180,7 +180,7 @@ Section 2134(e) of Pub. L. 94–455, as amended by Pub. L. 95–600, title VII, 
 
 &emsp;“(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and section 501 of this title\] shall apply to taxable years beginning after December 31, 1976.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enactingthis section and section 501 of this title\] shall apply to taxable years beginning after December 31, 1976.
 
 &emsp;“(2)
 

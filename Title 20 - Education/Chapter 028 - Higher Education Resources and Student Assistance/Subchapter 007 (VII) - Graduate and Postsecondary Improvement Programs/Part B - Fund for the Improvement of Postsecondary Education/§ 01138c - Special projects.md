@@ -6,7 +6,7 @@ The Director is authorized to make grants to institutions of higher education, o
 
 #### (b) Application
 
-No grant shall be made under this part unless an application is made at such time, in such manner, and contains or is accompanied by such information as the Secretary may require.
+No grant shall be made under this part unless an application is made at such time, in suchmanner, and contains or is accompanied by such information as the Secretary may require.
 
 #### (c) Areas of national need
 

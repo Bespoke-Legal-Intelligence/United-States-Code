@@ -6,7 +6,7 @@ The Secretary of State shall prepare for the President, and the heads of such ot
 
 #### (b) Prohibition
 
-No action shall be taken pursuant to this chapter or any other Act that would obligate the United States to reduce or limit the ArmedForces or armaments of the United States in a militarily significant manner, except pursuant to the treaty-making power of the President set forth in Article II, Section 2, Clause 2 of the Constitution or unless authorized by the enactment of further affirmative legislation by the Congress of the United States.
+No action shall be taken pursuant to this chapter or any other Act that would obligate the United States to reduce or limit the Armed Forces or armaments of the United States in a militarily significant manner, except pursuant to the treaty-making power of the President set forth in Article II, Section 2, Clause 2 of the Constitution or unless authorized by the enactment of further affirmative legislation by the Congress of the United States.
 
 #### (c) Statutory construction
 
@@ -26,5 +26,5 @@ Subsec. (c). Pub. L. 105–277, §2602, added subsec. (c).
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 1223(8), (21) of Pub. L. 105–277 effective on the earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+Amendment by section 1223(8), (21) of Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
 

@@ -54,7 +54,7 @@
 
 #### (c) Biological assessment
 
-(1) To facilitate compliance with the requirements of subsection (a)(2) of this section, eachFederal agency shall, with respect to any agency action of such agency for which no contract for construction has been entered into and for which no construction has begun on November 10, 1978, request of the Secretary information whether any species which is listed or proposed to be listed may be present in the area of such proposed action. If the Secretary advises, based on the best scientific and commercial data available, that such species may be present, such agency shall conduct a biological assessment for the purpose of identifying any endangered species or threatened species which is likely to be affected by such action. Such assessment shall be completed within 180 days after the date on which initiated (or within such other period as is mutually agreed to by the Secretary and such agency, except that if a permit or license applicant is involved, the 180-day period may not be extended unless such agency provides the applicant, before the close of such period, with a written statement setting forth the estimated length of the proposed extension and the reasons therefor) and, before any contract for construction is entered into and before construction is begun with respect to such action. Such assessment may be undertaken as part of a Federal agency's compliance with the requirements of section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332).
+(1) To facilitate compliance with the requirements of subsection (a)(2) of this section, each Federal agency shall, with respect to any agency action of such agency for which no contract for construction has been entered into and for which no construction has begun on November 10, 1978, request of the Secretary information whether any species which is listed or proposed to be listed may be present in the area of such proposed action. If the Secretary advises, based on the best scientific and commercial data available, that such species may be present, such agency shall conduct a biological assessment for the purpose of identifying any endangered species or threatened species which is likely to be affected by such action. Such assessment shall be completed within 180 days after the date on which initiated (or within such other period as is mutually agreed to by the Secretary and such agency, except that if a permit or license applicant is involved, the 180-day period may not be extended unless such agency provides the applicant, before the close of such period, with a written statement setting forth the estimated length of the proposed extension and the reasons therefor) and, before any contract for construction is entered into and before construction is begun with respect to such action. Such assessment may be undertaken as part of a Federal agency's compliance with the requirements of section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332).
 
 (2) Any person who may wish to apply for an exemption under subsection (g) of this section for that action may conduct a biological assessment to identify any endangered species or threatened species which is likely to be affected by such action. Any such biological assessment must, however, be conducted in cooperation with the Secretary and under the supervision of the appropriate Federal agency.
 
@@ -88,7 +88,7 @@ After initiation of consultation required under subsection (a)(2) of this sectio
 
 (B) While away from their homes or regular places of business in the performance of services for the Committee, members of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
 
-(5)(A) Five members of the Committee or their representatives shall constitute a quorum for the transaction of any function of the Committee, except that, in no case shall any representative be considered in determining the existence of a quorum for the transaction of any function of the Committee if that function involves a vote by the Committee on any matter before the Committee.
+(5)(A) Five members of the Committee or their representatives shall constitute a quorum for the transaction of any function of the Committee, except that, in no case shall any representative be considered in determining the existence of a quorum for the transaction of any function of the Committee if that function involves avote by the Committee on any matter before the Committee.
 
 (B) The Secretary of the Interior shall be the Chairman of the Committee.
 
@@ -134,7 +134,7 @@ Not later than 90 days after November 10, 1978, the Secretary shall promulgate r
 
 &emsp;(A) determine that the Federal agency concerned and the exemption applicant have—
 
-&emsp;&emsp;(i) carried out the consultation responsibilities described in subsection (a) of this section in good faith and made a reasonable and responsible effort to develop and fairly consider modifications or reasonable and prudent alternatives to the proposed agency action which would not violate subsection (a)(2) of this section;
+&emsp;&emsp;(i) carried out the consultation responsibilities described in subsection (a) of this section in good faith and made a reasonable and responsible effort to develop and fairly consider modifications or reasonable andprudent alternatives to the proposed agency action which would not violate subsection (a)(2) of this section;
 
 &emsp;&emsp;(ii) conducted any biological assessment required by subsection (c) of this section; and
 
@@ -230,7 +230,7 @@ Notwithstanding sections 1533(d) and 1538(a)(1)(B) and (C) of this title, sectio
 
 #### (p) Exemptions in Presidentially declared disaster areas
 
-In any area which has been declared by the President to be a major disaster area under the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], the President is authorized to make the determinations required by subsections (g) and (h) of this section for any project for the repair or replacement of a public facility substantially as it existed prior to the disaster under section 405 or 406 of the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5171 or 5172\], and which the President determines (1) is necessary to prevent the recurrence of such a natural disaster and to reduce the potential loss of human life, and (2) to involve an emergency situation which does not allow the ordinary procedures of this section to be followed. Notwithstanding any other provision of this section, the Committee shall accept the determinations of the President under this subsection.
+In any area which has been declared by the President to be a major disaster area under the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], the President is authorized to make the determinations required by subsections (g) and (h) of this section for any project for the repair or replacement of a public facility substantially as it existed prior to the disaster under section 405 or 406 of the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5171 or 5172\], and which the President determines\(1) is necessary to prevent the recurrence of such a natural disaster and to reduce the potential loss of human life, and (2) to involve an emergency situation which does not allow the ordinary procedures of this section to be followed. Notwithstanding any other provision of this section, the Committee shall accept the determinations of the President under this subsection.
 
 (Pub. L. 93–205, §7, Dec. 28, 1973, 87 Stat. 892; Pub. L. 95–632, §3, Nov. 10, 1978, 92 Stat. 3752; Pub. L. 96–159, §4, Dec. 28, 1979, 93 Stat. 1226; Pub. L. 97–304, §§4(a), 8(b), Oct. 13, 1982, 96 Stat. 1417, 1426; Pub. L. 99–659, title IV, §411(b), (c), Nov. 14, 1986, 100 Stat. 3741, 3742; Pub. L. 100–707, title I, §109(g), Nov. 23, 1988, 102 Stat. 4709.)
 
@@ -244,7 +244,7 @@ The Disaster Relief and Emergency Assistance Act, referred to in subsec. (p), is
 
 #### Amendments
 
-1988—Subsec. (p). Pub. L. 100–707 substituted “the Disaster Relief and Emergency Assistance Act” for “theDisaster Relief Act of 1974” and “section 405 or 406 of the Disaster Relief and Emergency Assistance Act” for “section 401 or 402 of the Disaster Relief Act of 1974”.
+1988—Subsec. (p). Pub. L. 100–707 substituted “the Disaster Relief and Emergency Assistance Act” for “the Disaster Relief Act of 1974” and “section 405 or 406 of the Disaster Relief and Emergency Assistance Act” for “section 401 or 402 of the Disaster Relief Act of 1974”.
 
 1986—Subsec. (b)(4)(C). Pub. L. 99–659, §411(b)(1)–(3), added subpar. (C).
 
@@ -272,7 +272,7 @@ Subsec. (g)(3). Pub. L. 97–304, §4(a)(5)(D), (E), redesignated par. (5) as (3
 
 Subsec. (g)(4). Pub. L. 97–304, §4(a)(5)(D), (F), redesignated par. (6) as (4) and substituted “If the Secretary determines that the Federal agency concerned and the exemption applicant have met the requirements set forth in paragraph (3)(A)(i), (ii), and (iii) he shall, in consultation with the Members of the Committee, hold a hearing on the application for exemption in accordance with sections 554, 555, and 556 (other than subsection (b)(1) and (2) thereof) of title 5 and prepare the report to be submitted pursuant to paragraph (5)” for “If the review board determines that an irresolvable conflict exists and makes positive determinations under subclauses (i), (ii), and (iii) of paragraph (5), it shall proceed to prepare the report to be submitted under paragraph (7)”. Former par. (4), directing the Secretary to submit the application to the review board immediately after its appointment under paragraph (3), and to submit to the review board, in writing, his views and recommendations with respect to the application within 60 days after receiving a copy of any application under paragraph (2), was struck out.
 
-Subsec. (g)(5). Pub. L. 97–304, §4(a)(5)(G), redesignated par. (7) as (5) and substituted “Within 140 days after making the determinations under paragraph (3) or within such other period of time as is mutually agreeable to the exemption applicant and the Secretary, theSecretary shall submit” for “Within 180 days after making the determinations under paragraph (6), the review board shall submit” in the provisions preceding subpar. (A), and added subpar. (D). Former par. (5) redesignated (3) and amended.
+Subsec. (g)(5). Pub. L. 97–304, §4(a)(5)(G), redesignated par. (7) as (5) and substituted “Within 140 days after making the determinations under paragraph (3) or within such other period of time as is mutually agreeable to the exemption applicant and the Secretary, the Secretary shall submit” for “Within 180 days after making the determinations under paragraph (6), the review board shall submit” in the provisions preceding subpar. (A), and added subpar. (D). Former par. (5) redesignated (3) and amended.
 
 Subsec. (g)(6). Pub. L. 97–304, §4(a)(5)(H), redesignated par. (8) as (6). Former par. (6) redesignated (4) and amended.
 
@@ -316,7 +316,7 @@ Subsec. (g)(6). Pub. L. 96–159, §4(10), substituted “subclauses (i), (ii), 
 
 Subsec. (h)(1). Pub. L. 96–159, §4(3), substituted “subsection (a)(2)” for “subsection (a)” of this section.
 
-Subsec. (h)(2). Pub. L. 96–159, §4(11), in subpar. (A), substituted “paragraph (1)” for “subsection (h) of this section”, inserted cl. (i), incorporated existing provisions in text designated cl. (ii), inserting thereto “with respect to such agency action”; in subpar. (B), incorporated existing provision in cl. (i), inserted findingsprovision respecting the extinction of a species that was not: the subject of consultation or identified in any biological assessment under subsec. (a)(2) or (c) of this section, added cl. (ii), deleted prior requirement for a Committee determination within 30 days of the Secretary's finding that an exemption would result in extinction of the species whether to grant an exemption for the agency notwithstanding such finding, and superseded the same with requirement that the Committee meet with respect to the matter within 30 days after the date of such a finding.
+Subsec. (h)(2). Pub. L. 96–159, §4(11), in subpar. (A), substituted “paragraph (1)” for “subsection (h) of this section”, inserted cl. (i), incorporated existing provisions in text designated cl. (ii), inserting thereto “with respect to such agency action”; in subpar. (B), incorporated existing provision in cl. (i), inserted findings provision respecting the extinction of a species that was not: the subject of consultation or identified in any biological assessment under subsec. (a)(2) or (c) of this section, added cl. (ii), deleted prior requirement for a Committee determination within 30 days of the Secretary's finding that an exemption would result in extinction of the species whether to grant an exemption for the agency notwithstanding such finding, and superseded the same with requirement that the Committee meet with respect to the matter within 30 days after the date of such a finding.
 
 Subsec. (m). Pub. L. 96–159, §4(3), substituted “subsection (a)(2)” for “subsection (a)” of this section.
 
@@ -402,7 +402,7 @@ Status of Members of the Experimental Population.—(1) Any member of the experi
 
 > For purposes of this paragraph, the term ‘defense-related agency action’ means an agency action proposed to be carried out directly by a military department.
 
-“(2) For purposes of section 7 of the Act \[16 U.S.C. 1536\], any member of the experimental population shall be treated while within the management zone as a member of a species that is proposed to be listed under section 4 of the Act \[16 U.S.C. 1533\]. Section 9 of the Act \[16 U.S.C. 1538\] applies to members of the experimental population; except that any incidental taking of such a member during the course of an otherwise lawful activity within the management zone, may not be treated asa violation of the Act or the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1361 et seq.\].
+“(2) For purposes of section 7 of the Act \[16 U.S.C. 1536\], any member of the experimental population shall be treated while within the management zone as a member of a species that is proposed to be listed under section 4 of the Act \[16 U.S.C. 1533\]. Section 9 of the Act \[16 U.S.C. 1538\] applies to members of the experimental population; except that any incidental taking of such a member during the course of an otherwise lawful activity within the management zone, may not be treated as a violation of the Act or the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1361 et seq.\].
 
 “(d)
 
@@ -422,5 +422,5 @@ Construction.—For purposes of implementing the plan, no act by the Service, an
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1532, 1539, 1542, 4802 of this title; title 23 section 108.
+This section is referred to in sections 1532, 1539, 1542, 3645 of this title; title 23 section 108.
 

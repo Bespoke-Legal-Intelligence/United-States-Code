@@ -1,6 +1,6 @@
 ### §1201. Stay of action against codebtor
 
-(a) Except as provided in subsections (b) and (c) of this section, after the order for relief under this chapter, a creditor may not act, or commence or continue any civil action, to collect all or any part of a consumer debt of the debtor from any individual that is liable on suchdebt with the debtor, or that secured such debt, unless—
+(a) Except as provided in subsections (b) and (c) of this section, after the order for relief under this chapter, a creditor may not act, or commence or continue any civil action, to collect all or any part of a consumer debt of the debtor from any individual that is liable on such debt with the debtor, or that secured such debt, unless—
 
 &emsp;(1) such individual became liable on or secured such debt in the ordinary course of such individual's business; or
 
@@ -18,15 +18,35 @@
 
 (d) Twenty days after the filing of a request under subsection (c)(2) of this section for relief from the stay provided by subsection (a) of this section, such stay is terminated with respect to the party in interest making such request, unless the debtor or any individual that is liable on such debt with the debtor files and serves upon such party in interest a written objection to the taking of the proposed action.
 
-(Added Pub. L. 99–554, title II, §255, Oct. 27, 1986, 100 Stat. 3105.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3105, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031.)
 
-#### Repeal of Section
+#### Termination of Section
 
-<i>Section repealed effective Oct. 1, 1998, see note set out preceding section 1201 of this title.</i>
+<i>For termination of reenactment of this section by section 149(a) of Pub. L. 105–277, as amended, see Repeal, Reenactment, and Termination of Chapter note below.</i>
+
+#### Codification
+
+Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, asamended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note below.
+
+#### Effective Date of 1999 Amendments
+
+Pub. L. 106–70, §2, Oct. 9, 1999, 113 Stat. 1031, provided that: “The amendments made by section 1 \[amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section\] shall take effect on October 1, 1999.”
+
+Pub. L. 106–5, §2, Mar. 30, 1999, 113 Stat. 9, provided that: “The amendments made by section 1 \[amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section\] shall take effect on April 1, 1999.”
 
 #### Effective Date
 
 Chapter effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
+
+#### Repeal, Reenactment, and Termination of Chapter
+
+Pub. L. 105–277, div. C, title I, §149, Oct. 21, 1998, 112 Stat. 2681–610, as amended by Pub. L. 106–5, §1, Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031, provided that:
+
+“(a) Chapter 12 of title 11 of the United States Code, as in effect on September 30, 1999, is hereby reenacted for the period beginning on October 1, 1999, and ending on July 1, 2000.
+
+“(b) All cases commenced or pending under chapter 12 of title 11, United States Code, as reenacted under subsection (a), and all matters and proceedings in or relating to such cases, shall be conducted and determined under such chapter as if such chapter were continued in effect after July 1, 2000. The substantive rights of parties in connection with such cases, matters, and proceedings shall continue to be governed under the laws applicable to such cases, matters, and proceedings as if such chapter were continued in effect after July 1, 2000.”
+
+Chapter repealed Oct. 1, 1998, except that cases commenced or pending under this chapter, and all matters and proceedings in or relating to such cases, are to be conducted and determined as if this chapter had not been repealed, and substantive rights of parties in connection with such cases, matters, and proceedings are to continue to be governed under the laws applicable to such cases, matters, and proceedings as if this chapter had not been repealed, see section 302(f) of Pub. L. 99–554, as amended, set out in an Effective Date of 1986 Amendment note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

@@ -36,3 +36,7 @@ The commencement of the Ninety-ninth Congress, referred to in subsec. (e), was J
 
 Section 2 of Pub. L. 102–216 provided that: “The amendment made by this Act \[amending this section\] shall take effect on October 1, 1991.”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 36 section 2113.
+

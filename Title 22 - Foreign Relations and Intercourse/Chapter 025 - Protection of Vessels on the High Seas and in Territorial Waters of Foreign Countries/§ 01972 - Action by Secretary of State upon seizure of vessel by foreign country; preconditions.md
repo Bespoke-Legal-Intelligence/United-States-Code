@@ -26,7 +26,7 @@ If—
 
 #### References in Text
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (2)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended. Title I of the Act is classified generally to subchapter II (§1811 et seq.) of chapter 38 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (2)(C), is Pub. L.94–265, Apr. 13, 1976, 90 Stat. 331, as amended. Title I of the Act is classified generally to subchapter II (§1811 et seq.) of chapter 38 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
 #### Amendments
 
@@ -54,7 +54,7 @@ Section 238(b) of Pub. L. 96–561 provided that the amendment made by that sect
 
 #### Effective Date of 1976 Amendment
 
-Section 403(b) of Pub. L. 94–265 provided in part that the amendment made by section 403(a)(1) of Pub. L. 94–265 to this section was to take effect Mar. 1, 1977,prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
+Section 403(b) of Pub. L. 94–265 provided in part that the amendment made by section 403(a)(1) of Pub. L. 94–265 to this section was to take effect Mar. 1, 1977, prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
 
 #### Effective Date of 1972 Amendment
 

@@ -64,7 +64,7 @@ Congress finds the following:
 
 &emsp;&emsp;(B) produce nonideological and commercial communication the purpose of which is to further the governmental policy and objective of maintaining and expanding the markets for the covered commodities.
 
-&emsp;(9) While some commodity promotion laws grant a producer or processor the option of crediting individual advertising conducted by the producer or processor for all or a portion of the producer's or processor's marketing promotion assessments, all promotion programs established under the commodity promotion laws, both those programs that permit credit for individual advertising and those programs that do not contain such provisions, are very narrowly tailored to fulfill the congressional purposes of the commodity promotion laws without impairing or infringing the legal or constitutional rights of any individual producer or processor.
+&emsp;(9) While some commodity promotion laws grant a producer or processor the option of crediting individual advertising conducted by the producer or processor for all or a portion of the producer's or processor's marketing promotion assessments, all promotion programsestablished under the commodity promotion laws, both those programs that permit credit for individual advertising and those programs that do not contain such provisions, are very narrowly tailored to fulfill the congressional purposes of the commodity promotion laws without impairing or infringing the legal or constitutional rights of any individual producer or processor.
 
 &emsp;(10) These generic commodity promotion programs are of particular benefit to small producers who often lack the resources or market power to advertise on their own and who are otherwise often unable to benefit from the economies of scale available in promotion and advertising.
 
@@ -106,7 +106,7 @@ Public Law 103–407, referred to in subsec. (a)(14), is Pub. L. 103–407, Oct.
 
 Section 511 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle B (§§511–526) of title V of Pub. L. 104–127, enacting subchapter II of this chapter\] may be cited as the ‘Commodity Promotion, Research, and Information Act of 1996’.”
 
-Section 531 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle C (§§531–543) of title V of Pub.L. 104–127, enacting subchapter III of this chapter\] may be cited as the ‘Canola and Rapeseed Research, Promotion, and Consumer Information Act’.”
+Section 531 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle C (§§531–543) of title V of Pub. L. 104–127, enacting subchapter III of this chapter\] may be cited as the ‘Canola and Rapeseed Research, Promotion, and Consumer Information Act’.”
 
 Section 551 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle D (§§551–564) of title V of Pub. L. 104–127, enacting subchapter IV of this chapter\] may be cited as the ‘National Kiwifruit Research, Promotion, and Consumer Information Act’.”
 

@@ -6,7 +6,7 @@ Section 1802, acts May 28, 1956, ch. 327, title I, §114, 70 Stat. 196; Aug. 28,
 
 Section 1803, act May 28, 1956, ch. 327, title I, §115, 70 Stat. 196, prohibited reapportionment or allotment to any other farm of acreage diverted from production as a result of participation in acreage reserve or conservation reserve programs.
 
-Section 1804, act May 28, 1956, ch. 327, title I, §116, 70 Stat. 196, provided for filing of certificate of claimants for payment or compensation in form prescribed by Secretary attesting to claimant's compliance with all requirements.
+Section 1804, act May 28, 1956, ch. 327, title I, §116, 70 Stat. 196, provided for filing of certificate of claimantsfor payment or compensation in form prescribed by Secretary attesting to claimant's compliance with all requirements.
 
 Section 1805, act May 28, 1956, ch. 327, title I, §117, 70 Stat. 196, directed Secretary to utilize services of local, county, and State soil conservation committees.
 

@@ -32,7 +32,7 @@ Except as otherwise provided in this subchapter, it shall be an infringement of 
 
 &emsp;(A) the producer has fulfilled the terms of the contract;
 
-&emsp;(B) the owner refuses to take delivery of the seed or refuses to pay any amounts due under the contract within 30 days of the payment date specified in the contract; and
+&emsp;(B) the owner refuses to take delivery of the seed or refuses to pay any amounts due underthe contract within 30 days of the payment date specified in the contract; and
 
 &emsp;(C) after the expiration of the period specified in subparagraph (B), the producer notifies the owner of the producer's intent to sell the seed and unless the owner fails to pay the amounts due under the contract and take delivery of the seed within 30 days of such notification. For the purposes of this paragraph, the term “owner” shall include any licensee of the owner.
 
@@ -94,7 +94,7 @@ Subsec. (a)(9), (10). Pub. L. 103–349, §9(1)(F), redesignated pars. (7) and (
 
 Subsecs. (b) to (e). Pub. L. 103–349, §9(3), added subsecs. (b) to (e). Former subsec. (b) redesignated (f).
 
-Subsec. (f). Pub. L. 103–349, §§9(2), 13(q), redesignated subsec. (b) as (f) and in first sentence substituted “theofficial capacity of the officer or employee” for “his official capacity”.
+Subsec. (f). Pub. L. 103–349, §§9(2), 13(q), redesignated subsec. (b) as (f) and in first sentence substituted “the official capacity of the officer or employee” for “his official capacity”.
 
 1992—Pub. L. 102–560 designated existing provisions as subsec. (a) and added subsec. (b).
 

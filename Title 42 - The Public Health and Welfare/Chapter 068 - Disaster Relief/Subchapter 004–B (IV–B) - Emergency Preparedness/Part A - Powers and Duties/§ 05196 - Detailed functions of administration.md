@@ -6,7 +6,7 @@ In order to carry out the policy described in section 5195 of this title, the Di
 
 #### (b) Federal emergency response plans and programs
 
-The Director may prepare Federal response plans and programs for the emergency preparedness of the United States and sponsor and direct such plans and programs. To prepare such plans and programs and coordinate such plans and programs with State efforts, the Director may request such reports on State plans and operations for emergency preparedness as may be necessary to keep the President, Congress, and the States advised of the status of emergency preparedness in the United States.
+The Director may prepare Federal response plans and programs for the emergency preparedness of the United States and sponsor and direct such plans and programs. To prepare such plans and programs and coordinate such plans and programs with State efforts, the Director may request such reports on State plans and operations for emergency preparedness as may be necessary to keep the President, Congress, andthe States advised of the status of emergency preparedness in the United States.
 
 #### (c) Delegation of emergency preparedness responsibilities
 
@@ -62,7 +62,7 @@ The Director may publicly disseminate appropriate emergency preparedness informa
 
 #### (i) Materials and facilities
 
-(1) The Director may procure by condemnation or otherwise, construct, lease, transport, store,maintain, renovate or distribute materials and facilities for emergency preparedness, with the right to take immediate possession thereof.
+(1) The Director may procure by condemnation or otherwise, construct, lease, transport, store, maintain, renovate or distribute materials and facilities for emergency preparedness, with the right to take immediate possession thereof.
 
 (2) Facilities acquired by purchase, donation, or other means of transfer may be occupied, used, and improved for the purposes of this subchapter before the approval of title by the Attorney General as required by section 255 of title 40.
 
@@ -74,7 +74,7 @@ The Director may publicly disseminate appropriate emergency preparedness informa
 
 (1) The Director may make financial contributions, on the basis of programs or projects approved by the Director, to the States for emergency preparedness purposes, including the procurement, construction, leasing, or renovating of materials and facilities. Such contributions shall be made on such terms or conditions as the Director shall prescribe, including the method of purchase, the quantity, quality, or specifications of the materials or facilities, and such other factors or care or treatment to assure the uniformity, availability, and good condition of such materials or facilities.
 
-(2) No contribution may be made under this subsection for the procurement of land or for the purchase of personal equipment for State or local emergency preparedness workers.
+(2) No contribution may be made under this subsection for the procurement of land or forthe purchase of personal equipment for State or local emergency preparedness workers.
 
 (3) The amounts authorized to be contributed by the Director to each State for organizational equipment shall be equally matched by such State from any source it determines is consistent with its laws.
 

@@ -12,8 +12,6 @@
 
 This chapter is referred to in section 912 of this title.
 
-<i><sup>1</sup></i><i> Another section 512 is set out preceding this section.</i>
-
 
 ---
 

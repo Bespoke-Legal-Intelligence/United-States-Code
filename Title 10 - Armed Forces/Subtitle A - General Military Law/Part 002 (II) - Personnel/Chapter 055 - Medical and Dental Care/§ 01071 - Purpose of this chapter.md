@@ -46,9 +46,137 @@ Pub. L. 100–180, div. A, title VII, §701, Dec. 4, 1987, 101 Stat. 1108, provi
 
 Section 1 of Pub. L. 89–614 provided: “That this Act \[enacting sections 1086 and 1087 of this title, amending this section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Military Medical Benefits Amendments of 1966’.”
 
+#### Confidentiality of Communications With Professionals Providing Therapeutic or Related Services Regarding Sexual or Domestic Abuse
+
+Pub. L. 106–65, div. A, title V, §585, Oct. 5, 1999, 113 Stat. 636, provided that:
+
+“(a)
+
+Study and Report.—(1) The Comptroller General of the United States shall study the policies, procedures, and practices of the military departments for protecting the confidentiality of communications between—
+
+&emsp;“(A) a dependent (as defined in section 1072(2) of title 10, United States Code, with respect to a member of the Armed Forces) of a member of the Armed Forces who—
+
+&emsp;&emsp;“(i) is a victim of sexual harassment, sexual assault, or intrafamily abuse; or
+
+&emsp;&emsp;“(ii) has engaged in such misconduct; and
+
+&emsp;“(B) a therapist, counselor, advocate, or other professional from whom the dependent seeks professional services in connection with effects of such misconduct.
+
+“(2) Not later than 180 days after the date of the enactment of this Act \[Oct. 5, 1999\], the Comptroller General shall conclude the study and submit a report on the results of the study to Congress and the Secretary of Defense.
+
+“(b)
+
+Regulations.—The Secretary of Defense shall prescribe in regulations the policies and procedures that the Secretary considers appropriate to provide the maximum protections for the confidentiality of communications described in subsection (a) relating to misconduct described in that subsection, taking into consideration—
+
+&emsp;“(1) the findings of the Comptroller General;
+
+&emsp;“(2) the standards of confidentiality and ethical standards issued by relevant professional organizations;
+
+&emsp;“(3) applicable requirements of Federal and State law;
+
+&emsp;“(4) the best interest of victims of sexual harassment, sexual assault, or intrafamily abuse;
+
+&emsp;“(5) military necessity; and
+
+&emsp;“(6) such other factors as the Secretary, in consultation with the Attorney General, may consider appropriate.
+
+“(c)
+
+Report by Secretary of Defense.—Not later than January 21, 2000, the Secretary of Defense shall submit to Congress a report on the actions taken under subsection (b) and any other actions taken by the Secretary to provide the maximum possible protections for confidentiality described in that subsection.”
+
+#### Health Care Quality Information and Technology Enhancement
+
+Pub. L. 106–65, div. A, title VII, §723, Oct. 5, 1999, 113 Stat. 695, provided that:
+
+“(a)
+
+Purpose.—The purpose of this section is to ensure that the Department of Defense addresses issues of medical quality surveillance and implements solutions for those issues in a timely manner that is consistent with national policy and industry standards.
+
+“(b)
+
+Department of Defense Program for Medical Informatics and Data.—The Secretary of Defense shall establish a Department of Defense program, the purposes of which shall be the following:
+
+&emsp;“(1) To develop parameters for assessing the quality of health care information.
+
+&emsp;“(2) To develop the defense digital patient record.
+
+&emsp;“(3) To develop a repository for data on quality of health care.
+
+&emsp;“(4) To develop capability for conducting research on quality of health care.
+
+&emsp;“(5) To conduct research on matters of quality of health care.
+
+&emsp;“(6) To develop decision support tools for health care providers.
+
+&emsp;“(7) To refine medical performance report cards.
+
+&emsp;“(8) To conduct educational programs on medical informatics to meet identified needs.
+
+“(c)
+
+Automation and Capture of Clinical Data.—(1) Through the program established under subsection (b), the Secretary of Defense shall accelerate the efforts of the Department of Defense to automate, capture, and exchange controlled clinical data and present providers with clinical guidance using a personal information carrier, clinical lexicon, or digital patient record.
+
+“(2) The program shall serve as a primary resource for the Department of Defense for matters concerning the capture, processing, and dissemination of data on health care quality.
+
+“(d)
+
+Medical Informatics Advisory Committee.—(1) The Secretary of Defense shall establish a Medical Informatics Advisory Committee (hereinafter referred to as the ‘Committee’), the members of which shall be the following:
+
+&emsp;“(A) The Assistant Secretary of Defense for Health Affairs.
+
+&emsp;“(B) The Director of the TRICARE Management Activity of the Department of Defense.
+
+&emsp;“(C) The Surgeon General of the Army.
+
+&emsp;“(D) The Surgeon General of the Navy.
+
+&emsp;“(E) The Surgeon General of the Air Force.
+
+&emsp;“(F) Representatives of the Department of Veterans Affairs, designated by the Secretary of Veterans Affairs.
+
+&emsp;“(G) Representatives of the Department of Health and Human Services, designated by the Secretary of Health and Human Services.
+
+&emsp;“(H) Any additional members appointed by the Secretary of Defense to represent health care insurers and managed care organizations, academic health institutions, health care providers (including representatives of physicians and representatives of hospitals), and accreditors of health care plans and organizations.
+
+“(2) The primary mission of the Committee shall be to advise the Secretary on the development, deployment, and maintenance of health care informatics systems that allow for the collection, exchange, and processing of health care quality information for the Department of Defense in coordination with other Federal departments and agencies and with the private sector.
+
+“(3) Specific areas of responsibility of the Committee shall include advising the Secretary on the following:
+
+&emsp;“(A) The ability of the medical informatics systems at the Department of Defense and Department of Veterans Affairs to monitor, evaluate, and improve the quality of care provided to beneficiaries.
+
+&emsp;“(B) The coordination of key components of medical informatics systems, including digital patient records, both within the Federal Government and between the Federal Government and the private sector.
+
+&emsp;“(C) The development of operational capabilities for executive information systems and clinical decision support systems within the Department of Defense and Department of Veterans Affairs.
+
+&emsp;“(D) Standardization of processes used to collect, evaluate, and disseminate health care quality information.
+
+&emsp;“(E) Refinement of methodologies by which the quality of health care provided within the Department of Defense and Department of Veterans Affairs is evaluated.
+
+&emsp;“(F) Protecting the confidentiality of personal health information.
+
+“(4) The Assistant Secretary of Defense for Health Affairs shall consult with the Committee on the issues described in paragraph (3).
+
+“(5) The Secretary of Defense shall submit to Congress an annual report on the activities of the Committee and on the coordination of development, deployment, and maintenance of health care informatics systems within the Federal Government, and between the Federal Government and the private sector.
+
+“(6) Members of the Committee shall not be paid by reason of their service on the Committee.
+
+“(7) The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
+
+“(e)
+
+Annual Report.—The Assistant Secretary of Defense for Health Affairs shall submit to Congress on an annual basis a report on the quality of health care furnished under the health care programs of the Department of Defense. The report shall cover the most recent fiscal year ending before the date the report is submitted and shall contain a discussion of the quality of the health care measured on the basis of each statistical and customer satisfaction factor that the Assistant Secretary determines appropriate, including, at a minimum, a discussion of the following:
+
+&emsp;“(1) Health outcomes.
+
+&emsp;“(2) The extent of use of health report cards.
+
+&emsp;“(3) The extent of use of standard clinical pathways.
+
+&emsp;“(4) The extent of use of innovative processes for surveillance.”
+
 #### Joint Department of Defense and Department of Veterans Affairs Reports Relating to Interdepartmental Cooperation in Delivery of Medical Care
 
-Pub. L. 105–261, div. A, title VII, §745, Oct. 17, 1998, 112 Stat. 2075, provided that:
+Pub. L. 105–261, div. A, title VII, §745, Oct. 17, 1998, 112 Stat. 2075, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, provided that:
 
 “(a)
 
@@ -104,7 +232,7 @@ Joint Survey of Populations Served.—(1) The Secretary of Defense and the Secre
 
 “(d)
 
-Review of Law and Policies.—(1) The Secretary of Defense and the Secretary of Veterans Affairs shalljointly conduct a review to identify impediments to cooperation between the Department of Defense and the Department of Veterans Affairs regarding the delivery of medical care. The matters reviewed shall include the following:
+Review of Law and Policies.—(1) The Secretary of Defense and the Secretary of Veterans Affairs shall jointly conduct a review to identify impediments to cooperation between the Department of Defense and the Department of Veterans Affairs regarding the delivery of medical care. The matters reviewed shall include the following:
 
 &emsp;“(A) All laws, policies, and regulations, and any attitudes of beneficiaries of the health care systems of the two departments, that have the effect of preventing the establishment, or limiting the effectiveness, of cooperative health care programs of the departments.
 
@@ -114,7 +242,7 @@ Review of Law and Policies.—(1) The Secretary of Defense and the Secretary of 
 
 &emsp;“(D) The types and frequency of medical services furnished by the Department of Defense and the Department of Veterans Affairs through cooperative arrangements to each category of beneficiary (including active-duty members, retirees, dependents, veterans in the health-care eligibility categories referred to as Category A and Category C, and persons authorized to receive medical care under section 1713 of title 38, United States Code) of the other department.
 
-&emsp;“(E) The extent to which health care facilities of the Department of Defense and Department of Veterans Affairs have sufficient capacity, or could jointly or individually create sufficient capacity, to provide services to beneficiaries of the other department without diminution of access or services to their primary beneficiaries.
+&emsp;“(E) The extent to which health care facilities of the Department of Defense and Department of Veterans Affairs have sufficient capacity, or could jointlyor individually create sufficient capacity, to provide services to beneficiaries of the other department without diminution of access or services to their primary beneficiaries.
 
 &emsp;“(F) The extent to which the recruitment of scarce medical specialists and allied health personnel by the Department of Defense and the Department of Veterans Affairs could be enhanced through cooperative arrangements for providing health care services.
 
@@ -148,7 +276,7 @@ Appropriate Committees of Congress Defined.—For the purposes of this section, 
 
 &emsp;“(1) The Committee on Armed Services and the Committee on Veterans’ Affairs of the Senate.
 
-&emsp;“(2) The Committee on National Security \[now Committee on Armed Services\] and the Committee on Veterans’ Affairs of the House of Representatives.
+&emsp;“(2) The Committee on Armed Services and the Committee on Veterans’ Affairs of the House of Representatives.
 
 “(i)
 
@@ -224,7 +352,7 @@ Definition.—For purposes of this section, the term ‘administering Secretarie
 
 #### Comprehensive Study of Military Medical Care System
 
-Pub. L. 102–190, div. A, title VII, §733, Dec. 5, 1991, 105 Stat. 1408, as amended by Pub. L. 102–484, div. A, title VII, §723, Oct. 23, 1992, 106 Stat. 2440, directed Secretary of Defense to conduct a comprehensive study of the military medical care system, not later than Dec. 15, 1992, to submit to congressional defense committees a detailed accounting on progress of the study, including preliminary results of the study, and not later than Dec. 15, 1993, submit to congressional defense committees a final report on the study.
+Pub. L. 102–190, div. A, title VII, §733, Dec. 5, 1991, 105 Stat. 1408, as amended by Pub. L. 102–484, div. A, titleVII, §723, Oct. 23, 1992, 106 Stat. 2440, directed Secretary of Defense to conduct a comprehensive study of the military medical care system, not later than Dec. 15, 1992, to submit to congressional defense committees a detailed accounting on progress of the study, including preliminary results of the study, and not later than Dec. 15, 1993, submit to congressional defense committees a final report on the study.
 
 #### Identification and Treatment of Drug and Alcohol Dependent Persons in the Armed Forces
 

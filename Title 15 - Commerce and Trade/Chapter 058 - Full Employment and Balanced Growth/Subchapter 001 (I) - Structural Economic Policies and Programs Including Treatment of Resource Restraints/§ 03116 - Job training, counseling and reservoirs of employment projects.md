@@ -20,7 +20,7 @@ In meeting the responsibilities under subsection (a) of this section, the Secret
 
 (2) New programs as may be authorized by law after October 27, 1978, referred to in paragraph (c)(1)—
 
-&emsp;(A) shall not be put into operation earlier than two years after October 27, 1978, nor without a finding by the President, transmitted to the Congress, that other means of employmentare not yielding enough jobs to be consistent with attainment of the goals and timetables for the reduction of unemployment set forth in the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\];
+&emsp;(A) shall not be put into operation earlier than two years after October 27, 1978, nor without a finding by the President, transmitted to the Congress, that other means of employment are not yielding enough jobs to be consistent with attainment of the goals and timetables for the reduction of unemployment set forth in the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\];
 
 &emsp;(B) shall be designed so that no workers from private employment are drawn into the reservoir projects thereunder;
 
@@ -50,7 +50,7 @@ The Secretary, in carrying out the provisions of this section, shall establish r
 
 <i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(10), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–431, 2681–435, provided that, effective July 1, 2000, this section is amended as follows:</i>
 
-<i>(1) in subsection (b), in the matter preceding paragraph (1), by striking “CETA” and inserting “the Job Training Partnership Act and”;</i>
+<i>(1) in subsection (b), in the matter preceding paragraph (1), by striking “CETA” and insert</i><i>ing “the Job Training Partnership Act and”; and</i>
 
 <i>(2) in subsection (c)(1), by striking “activities carried out under the Job Training Partnership Act or”.</i>
 
@@ -62,7 +62,7 @@ The Employment Act of 1946, referred to in subsecs. (a) and (c), is act Feb. 20,
 
 The Job Training Partnership Act, referred to in subsecs. (b) and (c)(1), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsecs. (b) and (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsecs. (b) and (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
 

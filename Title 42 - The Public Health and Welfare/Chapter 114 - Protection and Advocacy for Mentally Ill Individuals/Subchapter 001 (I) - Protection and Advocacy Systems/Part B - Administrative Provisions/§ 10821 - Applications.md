@@ -8,7 +8,7 @@ No allotment may be made under this subchapter to an eligible system unless an a
 
 &emsp;(2) assurances that such system will have a staff which is trained or being trained to provide advocacy services to individuals with mental illness and to work with family members of clients served by the system where the individuals with mental illness are minors, legally competent and do not object, and legally incompetent and the legal guardians, conservators, or other legal representatives are family members;
 
-&emsp;(3) assurances that such system, and any State agency or nonprofit organization with which such system may enter into a contract under section 10804(a) of this title, will not, in the case of any individual who has a legalguardian, conservator, or representative other than the State, take actions which are duplicative of actions taken on behalf of such individual by such guardian, conservator, or representative unless such guardian, conservator, or representative requests the assistance of such system; and
+&emsp;(3) assurances that such system, and any State agency or nonprofit organization with which such system may enter into a contract under section 10804(a) of this title, will not, in the case of any individual who has a legal guardian, conservator, or representative other than the State, take actions which are duplicative of actions taken on behalf of such individual by such guardian, conservator, or representative unless such guardian, conservator, or representative requests the assistance of such system; and
 
 &emsp;(4) such other information as the Secretary may by regulation prescribe.
 

@@ -6,7 +6,7 @@ General Authority.—(1) The National Transportation Safety Board, and when auth
 
 (2) A witness or evidence in a hearing under paragraph (1) of this subsection may be summoned or required to be produced from any place in the United States to the designated place of the hearing. A witness summoned under this subsection is entitled to the same fee and mileage the witness would have been paid in a court of the United States.
 
-(3) A subpena shall be issued under the signature of the Chairman or the Chairman's delegate but may be served by any person designated by the Chairman.
+(3) A subpena shall be issued under the signature of the Chairman or the Chairman's delegatebut may be served by any person designated by the Chairman.
 
 (4) If a person disobeys a subpena, order, or inspection notice of the Board, the Board may bring a civil action in a district court of the United States to enforce the subpena, order, or notice. An action under this paragraph may be brought in the judicial district in which the person against whom the action is brought resides, is found, or does business. The court may punish a failure to obey an order of the court to comply with the subpena, order, or notice as a contempt of court.
 
@@ -36,7 +36,7 @@ Additional Powers.—(1) The Board may—
 
 (c)
 
-Submission of Certain Copies to Congress.—When the Board submits to the President or the Director of the Office of Management and Budget a budget estimate, budget request, supplemental budget estimate, other budget information, a legislative recommendation, prepared testimony for congressional hearings, or comments on legislation, the Board must submit a copy to Congress at the same time. An officer, department, agency, or instrumentality of the Government may not requirethe Board to submit the estimate, request, information, recommendation, testimony, or comments to another officer, department, agency, or instrumentality of the Government for approval, comment, or review before being submitted to Congress.
+Submission of Certain Copies to Congress.—When the Board submits to the President or the Director of the Office of Management and Budget a budget estimate, budget request, supplemental budget estimate, other budget information, a legislative recommendation, prepared testimony for congressional hearings, or comments on legislation, the Board must submit a copy to Congress at the same time. An officer, department, agency, or instrumentality of the Government may not require the Board to submit the estimate, request, information, recommendation, testimony, or comments to another officer, department, agency, or instrumentality of the Government for approval, comment, or review before being submitted to Congress.
 
 (d)
 
@@ -132,7 +132,7 @@ In subsection (a)(1), the words “sit and act at such times and places” are o
 
 In subsection (a)(2), the words “the witness would have been” are added for clarity and consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(4), the words “If a person disobeys” are substituted for “In case of contumacy or refusal to obey” for consistency in the revised title and with other titles of the Code. The words “of the Board” are substituted for “of the Board, or of any duly designated employee thereof” to eliminate unnecessary words. The words “the Board may bring a civil action in a district court of the United States” are substituted for “such district court shall, upon the request of the Board, have jurisdiction” for consistency in the revised title and because of 28:1331. The word “forthwith” is omitted as surplus. The words “An action under this paragraph may be brought in the judicial district” are added for clarity.
+In subsection (a)(4), the words “If a person disobeys” are substituted for “In case of contumacy or refusal to obey” for consistency in the revised title and with other titles of the Code. The words “of the Board” are substituted for “of the Board, or of any duly designated employee thereof” to eliminate unnecessary words. Thewords “the Board may bring a civil action in a district court of the United States” are substituted for “such district court shall, upon the request of the Board, have jurisdiction” for consistency in the revised title and because of 28:1331. The word “forthwith” is omitted as surplus. The words “An action under this paragraph may be brought in the judicial district” are added for clarity.
 
 In subsection (b)(1)(A), the text of 49 App.:1441(b) (words before semicolon) is omitted as superseded by 49 App.:1903(b)(6)(C).
 

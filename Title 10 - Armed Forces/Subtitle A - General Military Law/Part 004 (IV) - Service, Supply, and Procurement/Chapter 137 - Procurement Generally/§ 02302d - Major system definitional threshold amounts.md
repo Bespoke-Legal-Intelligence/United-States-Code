@@ -22,17 +22,15 @@ Adjustment Authority.—(1) The Secretary of Defense may adjust the amounts and 
 
 (2) An amount, as adjusted under paragraph (1), that is not evenly divisible by $5,000,000 shall be rounded to the nearest multiple of $5,000,000. In the case of an amount that is evenly divisible by $2,500,000 but not evenly divisible by $5,000,000, the amount shall be rounded to the next higher multiple of $5,000,000.
 
-(3) An adjustment under this subsection shall be effective after the Secretary transmits to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a written notification of the adjustment.
+(3) An adjustment under this subsection shall be effective after the Secretary transmits to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notification of the adjustment.
 
-(Added Pub. L. 104–201, div. A, title VIII, §805(a)(2), Sept. 23, 1996, 110 Stat. 2605; amended Pub. L. 105–85, div. A, title X, §1073(a)(41), Nov. 18, 1997, 111 Stat. 1902.)
+(Added Pub. L. 104–201, div. A, title VIII, §805(a)(2), Sept. 23, 1996, 110 Stat. 2605; amended Pub. L. 105–85, div. A, title X, §1073(a)(41), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Amendments
 
+1999—Subsec. (c)(3). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+
 1997—Subsec. (a)(2). Pub. L. 105–85 substituted “procurement for the system is estimated to be” for “procurement of”.
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Section Referred to in Other Sections
 

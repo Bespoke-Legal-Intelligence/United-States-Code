@@ -2,7 +2,7 @@ Part II—Foreign Service Pension System
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 4043, 4044, 4046, 4054, 4055, 4063, 4064, 4067, 4069, 4069a, 4069a–1 of this title; title 5 sections 8402, 8411; title 26 section 3121; title 42 sections 402, 410.
+This part is referred to in sections 4043, 4044, 4046, 4054, 4055, 4063, 4064, 4067, 4069, 4069a, 4069a–1 of this title; title 5 sections 8402, 8411, 8432c; title 26 section 3121; title 42 sections 402, 410.
 
 
 ---

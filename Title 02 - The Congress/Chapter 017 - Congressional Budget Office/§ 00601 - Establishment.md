@@ -10,7 +10,13 @@
 
 (4) The Director may be removed by either House by resolution.
 
-(5) The Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as in effect from time to time, for level III of the Executive Schedule in section 5314 of title 5. The Deputy Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as so in effect, for level IV of the Executive Schedule in section 5315 of such title.
+(5)(A) The Director shall receive compensation at an annual rate of pay that is equal to the lower of—
+
+&emsp;(i) the highest annual rate of compensation of any officer of the Senate; or
+
+&emsp;(ii) the highest annual rate of compensation of any officer of the House of Representatives.
+
+(B) The Deputy Director shall receive compensation at an annual rate of pay that is $1,000 less than the annual rate of pay received by the Director, as determined under subparagraph (A).
 
 #### (b) Personnel
 
@@ -36,7 +42,7 @@ For the purposes of revenue legislation which is income, estate and gift, excise
 
 There are authorized to be appropriated to the Office for each fiscal year such sums as may be necessary to enable it to carry out its duties and functions. Until sums are first appropriated pursuant to the preceding sentence, but for a period not exceeding 12 months following the effective date of this subsection, the expenses of the Office shall be paid from the contingent fund of the Senate, in accordance with section 68 of this title, and upon vouchers approved by the Director.
 
-(Pub. L. 93–344, title II, §201, July 12, 1974, 88 Stat. 302; Pub. L. 99–177, title II, §273, Dec. 12, 1985, 99 Stat. 1098, renumbered §201(g) of Pub. L. 93–344, Pub. L. 101–508, title XIII, §13202(b), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 101–508, title XIII, §13202(a), (c), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 105–33, title X, §10102, Aug. 5, 1997, 111 Stat. 678.)
+(Pub. L. 93–344, title II, §201, July 12, 1974, 88 Stat. 302; Pub. L. 99–177, title II, §273, Dec. 12, 1985, 99 Stat. 1098, renumbered §201(g) of Pub. L. 93–344, Pub. L. 101–508, title XIII, §13202(b), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 101–508, title XIII, §13202(a), (c), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 105–33, title X, §10102, Aug. 5, 1997, 111 Stat. 678; Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §224\], Nov. 29, 1999, 113 Stat. 1536, 1501A–299.)
 
 #### References in Text
 
@@ -44,9 +50,11 @@ This Act, referred to in subsec. (f), means Pub. L. 93–344, July 12, 1974, 88 
 
 #### Codification
 
-Pub. L. 101–508, §12302(b), transferred section 273 of Pub. L. 99–177, which was classified to section 921 ofthis title, to subsec. (g) (now (f)) of this section, relating to revenue estimates.
+Pub. L. 101–508, §12302(b), transferred section 273 of Pub. L. 99–177, which was classified to section 921 of this title, to subsec. (g) (now (f)) of this section, relating to revenue estimates.
 
 #### Amendments
+
+1999—Subsec. (a)(5). Pub. L. 106–113 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as in effect from time to time, for level III of the Executive Schedule in section 5314 of title 5. The Deputy Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as so in effect, for level IV of the Executive Schedule in section 5315 of such title.”
 
 1997—Subsec. (a)(3). Pub. L. 105–33, §10102(a), substituted “The term of office of the Director shall be 4 years and shall expire on January 3 of the year preceding each Presidential election.” for “The term of office of the Director first appointed shall expire at noon on January 3, 1979, and the terms of office of Directors subsequently appointed shall expire at noon on January 3 of each fourth year thereafter.”
 

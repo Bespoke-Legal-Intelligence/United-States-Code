@@ -22,7 +22,7 @@ Not later than October 31 each year, the Secretary shall submit to the Committee
 
 &emsp;&emsp;(G) The cost effectiveness of such programs and activities, including an explanation of the means by which the costs and benefits (including the quality of life of veterans who participate in such programs and activities) of such programs and activities are measured.
 
-&emsp;(2) A specific description of research activities on preventive health services carried outduring that period using employees, funds, equipment, office space, or other support services of the Department, with such description setting forth—
+&emsp;(2) A specific description of research activities on preventive health services carried out during that period using employees, funds, equipment, office space, or other support services of the Department, with such description setting forth—
 
 &emsp;&emsp;(A) the source of funds for those activities;
 

@@ -2,7 +2,7 @@
 
 (a) The pay of an officer of an armed force may be withheld, under section 5512 of title 5, only for an indebtedness to the United States admitted by the officer or shown by the judgment of a court, or upon a special order issued in the discretion of the Secretary of Defense (or the Secretary of Transportation, in the case of an officer of the Coast Guard when the Coast Guard is not operating as a service in the Navy), or upon the denial of relief of an officer pursuant to section 3527 of title 31.
 
-(b) An amount due to the United States from an enlisted member of the Army or the Air Force for articles sold to him on credit under section 4621(a)(1) or 9621(a)(1) of title 10, as the case may be, shall be deducted from the next pay due him after the sale is reported. An amount due the United States from an enlisted member of the Army or the Air Force for tobacco sold to him by the United States under section 4623 or 9623 of title 10 shall be deducted from his pay in the manner provided for the settlement of clothing accounts.
+(b) An amount due to the United States from an enlisted member of the Army or the Air Force for articles sold to him on credit under section 4621(a)(1) or 9621(a)(1) of title 10, as the case may be, shall be deducted from the next pay due him after the sale is reported.
 
 (c) Under regulations prescribed by the Secretary concerned, an amount that a member of the uniformed services is administratively determined to owe the United States or any of its instrumentalities may be deducted from his pay in monthly installments. However, after the deduction of pay forfeited by the sentence of a court-martial, if any, or otherwise authorized by law to be withheld, the deductions authorized by this section may not reduce the pay actually received for any month to less than one-third of his pay for that month.
 
@@ -26,13 +26,13 @@
 
 (2) Amounts deducted under paragraph (1) shall be deposited in the Armed Forces Retirement Home Trust Fund.
 
-(3) The Secretary of Defense, after consultation with the Armed Forces Retirement Home Board, shall determine from time to time the amount to be deducted under paragraph (1) from the pay of enlisted members, warrant officers,and limited duty officers on the basis of the financial needs of the Armed Forces Retirement Home. The amount to be deducted may be fixed at different amounts on the basis of grade or length of service, or both.
+(3) The Secretary of Defense, after consultation with the Armed Forces Retirement Home Board, shall determine from time to time the amount to be deducted under paragraph (1) from the pay of enlisted members, warrant officers, and limited duty officers on the basis of the financial needs of the Armed Forces Retirement Home. The amount to be deducted may be fixed at different amounts on the basis of grade or length of service, or both.
 
 (4) In this subsection, the term “armed forces” does not include the Coast Guard when it is not operating as a service in the Navy.
 
 (5) This subsection does not apply to an enlisted member, warrant officer, or limited duty officer of a reserve component.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 491; Pub. L. 89–718, §§71, 72, Nov. 2, 1966, 80 Stat. 1124; Pub. L. 90–83, §5(3), Sept. 11, 1967, 81 Stat. 221; Pub. L. 98–525, title XIII, §1305, Oct. 19, 1984, 98 Stat. 2613; Pub. L. 99–145, title VI, §684, Nov. 8, 1985, 99 Stat. 666; Pub. L. 100–180, div. A, title VI, §633(a), Dec. 4, 1987, 101 Stat. 1105; Pub. L. 101–189, div. A, title III, §343(a), Nov. 29, 1989, 103 Stat. 1420; Pub. L. 101–510, div. A, title XV, §1533(b), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title X, §1054(a)(7), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 103–337, div. A, title III, §371(a), Oct. 5, 1994, 108 Stat. 2735; Pub. L. 104–106, div. A, title IX, §913(c)(2), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–201, div. A, title X, §1009(c)(1), Sept. 23, 1996, 110 Stat. 2635.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 491; Pub. L. 89–718, §§71, 72, Nov. 2, 1966, 80 Stat. 1124; Pub. L. 90–83, §5(3), Sept. 11, 1967, 81 Stat. 221; Pub. L. 98–525, title XIII, §1305, Oct. 19, 1984, 98 Stat. 2613; Pub. L. 99–145, title VI, §684, Nov. 8, 1985, 99 Stat. 666; Pub. L. 100–180, div. A, title VI, §633(a), Dec. 4, 1987, 101 Stat. 1105; Pub. L. 101–189, div. A, title III, §343(a), Nov. 29, 1989, 103 Stat. 1420; Pub. L. 101–510, div. A, title XV, §1533(b), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title X, §1054(a)(7), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 103–337, div. A, title III, §371(a), Oct. 5, 1994, 108 Stat. 2735; Pub. L. 104–106, div. A, title IX, §913(c)(2), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–201, div. A, title X, §1009(c)(1), Sept. 23, 1996, 110 Stat. 2635; Pub. L. 106–65, div. A, title X, §1066(d)(5), Oct. 5, 1999, 113 Stat. 773.)
 
 Historical and Revision Notes
 
@@ -126,15 +126,13 @@ Historical and Revision Notes
 
 \[None.\]
 
-#### References in Text
-
-Section 4623 of title 10, referred to in subsec. (b), was repealed by Pub. L. 91–482, §1(a), Oct. 21, 1970, 84 Stat. 1082.
-
 #### Prior Provisions
 
 Provisions similar to those in subsec. (i) of this section were contained in section 44c of Title 24, Hospitals and Asylums, prior to repeal by Pub. L. 101–189, §347(4).
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–65 struck out at end “An amount due the United States from an enlisted member of the Army or the Air Force for tobacco sold to him by the United States under section 4623 or 9623 of title 10 shall be deducted from his pay in the manner provided for the settlement of clothing accounts.”
 
 1996—Subsec. (a). Pub. L. 104–201 inserted “(or the Secretary of Transportation, in the case of an officer of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “Secretary of Defense”.
 
@@ -154,7 +152,7 @@ Subsec. (i)(2). Pub. L. 101–510, §1533(b)(2), added par. (2) and struck out f
 
 &emsp;“(B) credited to the funds available for the operation of the Naval Home, in the case of deductions from the pay of enlisted members and warrant officers in the Navy, Marine Corps, or Coast Guard (when it is operating as a service in the Navy).”
 
-Subsec. (i)(2)(B). Pub. L. 101–510, §1533(b)(1), which directed amendment of subpar. (B) by substituting “, warrant officer, and limited duty officer” for “and warrant officer”, could not be executed because the words “and warrant officer” did not appear.
+Subsec. (i)(2)(B). Pub. L. 101–510, §1533(b)(1), which directed amendment of subpar. (B) by substituting “, warrant officer, and limited duty officer” for “andwarrant officer”, could not be executed because the words “and warrant officer” did not appear.
 
 Subsec. (i)(3). Pub. L. 101–510, §1533(b)(3), substituted “Armed Forces Retirement Home Board” for “Governor of the Naval Home and the board of commissioners for the United States Soldiers’ and Airmen's Home” and “of the Armed Forces Retirement Home” for “of the homes”.
 

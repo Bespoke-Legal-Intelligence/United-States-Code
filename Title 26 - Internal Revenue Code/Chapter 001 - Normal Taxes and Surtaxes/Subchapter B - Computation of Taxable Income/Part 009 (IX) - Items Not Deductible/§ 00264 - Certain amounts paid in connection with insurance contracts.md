@@ -36,7 +36,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 &emsp;(1) if no part of 4 of the annual premiums due during the 7-year period (beginning with the date the first premium on the contract to which such plan relates was paid) is paid under such plan by means of indebtedness,
 
-&emsp;(2) if the total of the amounts paid or accrued by such person during such taxable year for which (without regard to this paragraph) no deduction would be allowable by reason of subsection (a)(3) does not exceed $100.
+&emsp;(2) if the total of the amounts paid or accrued by such person during such taxable year for which (without regard to this paragraph)no deduction would be allowable by reason of subsection (a)(3) does not exceed $100.
 
 &emsp;(3) if such amount was paid or accrued on indebtedness incurred because of an unforeseen substantial loss of income or unforeseen substantial increase in his financial obligations, or
 
@@ -158,7 +158,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 #### (E) Master contracts
 
-&emsp;&emsp;If coverage for each insured under a master contract is treated as a separate contract for purposes of sections 817(h), 7702, and 7702A, coverage for each such insured shall be treated as a separate contract for purposes of subparagraph (A). For purposes of the preceding sentence, the term “master contract” shall not include any group lifeinsurance contract (as defined in section 848(e)(2)).
+&emsp;&emsp;If coverage for each insured under a master contract is treated as a separate contract for purposes of sections 817(h), 7702, and 7702A, coverage for each such insured shall be treated as a separate contract for purposes of subparagraph (A). For purposes of the preceding sentence, the term “master contract” shall not include any group life insurance contract (as defined in section 848(e)(2)).
 
 #### (5) Exception for policies and contracts held by natural persons; treatment of partnerships and S corporations
 

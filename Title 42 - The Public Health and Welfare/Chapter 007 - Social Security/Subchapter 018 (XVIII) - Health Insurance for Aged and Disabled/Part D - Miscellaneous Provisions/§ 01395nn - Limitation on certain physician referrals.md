@@ -58,9 +58,11 @@ Subsection (a)(1) of this section shall not apply in the following cases:
 
 &emsp;&emsp;(B) described in section 1395<i>l</i>(a)(1)(A) of this title to an individual enrolled with the organization,
 
-&emsp;&emsp;(C) receiving payments on a prepaid basis, under a demonstration project under section 1395b–1(a) of this title or under section 222(a) of the Social Security Amendments of 1972, to an individual enrolled with the organization, or
+&emsp;&emsp;(C) receiving payments on a prepaid basis, under a demonstration project under section 1395b–1(a) of this title or under section 222(a) of the Social Security Amendments of 1972, to an individual enrolled with the organization,
 
-&emsp;&emsp;(D) that is a qualified health maintenance organization (within the meaning of section 300e–9(d) <sup>1</sup> of this title) to an individual enrolled with the organization.
+&emsp;&emsp;(D) that is a qualified health maintenance organization (within the meaning of section 300e–9(d) <sup>1</sup> of this title) to an individual enrolled with the organization, or
+
+&emsp;&emsp;(E) that is a Medicare+Choice organization under part C of this subchapter that is offering a coordinated care plan described in section 1395w–21(a)(2)(A) of this title to an individual enrolled with the organization.
 
 #### (4) Other permissible exceptions
 
@@ -136,7 +138,7 @@ The following shall not be considered to be a compensation arrangement described
 
 &emsp;&emsp;&emsp;(v) the lease would be commercially reasonable even if no referrals were made between the parties, and
 
-&emsp;&emsp;&emsp;(vi) the lease meets such other requirements as the Secretary may impose by regulation as needed to protect against program or patient abuse.
+&emsp;&emsp;&emsp;(vi) the lease meets such other requirements as the Secretary may impose byregulation as needed to protect against program or patient abuse.
 
 #### (2) Bona fide employment relationships
 
@@ -198,7 +200,7 @@ The following shall not be considered to be a compensation arrangement described
 
 #### (5) Physician recruitment
 
-&emsp;In the case of remuneration which is provided by a hospital to a physician to inducethe physician to relocate to the geographic area served by the hospital in order to be a member of the medical staff of the hospital, if—
+&emsp;In the case of remuneration which is provided by a hospital to a physician to induce the physician to relocate to the geographic area served by the hospital in order to be a member of the medical staff of the hospital, if—
 
 &emsp;&emsp;(A) the physician is not required to refer patients to the hospital,
 
@@ -264,7 +266,7 @@ Each entity providing covered items or services for which payment may be made un
 
 #### (3) Civil money penalty and exclusion for improper claims
 
-&emsp;Any person that presents or causes to be presented a bill or a claim for a service that such person knows or should know is for a service for which payment may not be made under paragraph (1) or for which a refund has not been made under paragraph (2) shall be subject to a civil money penalty of not more than $15,000 for each such service. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in thesame manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;Any person that presents or causes to be presented a bill or a claim for a service that such person knows or should know is for a service for which payment may not be made under paragraph (1) or for which a refund has not been made under paragraph (2) shall be subject to a civil money penalty of not more than $15,000 for each such service. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (4) Civil money penalty and exclusion for circumvention schemes
 
@@ -328,7 +330,7 @@ For purposes of this section:
 
 #### (3) Fair market value
 
-&emsp;The term “fair market value” means the value in arms length transactions, consistent with the general market value, and, with respect to rentals or leases, the value of rental property for general commercial purposes (not taking into account its intended use) and, in the case of a lease of space, not adjusted to reflect the additional value the prospective lessee or lessor would attribute to the proximityor convenience to the lessor where the lessor is a potential source of patient referrals to the lessee.
+&emsp;The term “fair market value” means the value in arms length transactions, consistent with the general market value, and, with respect to rentals or leases, the value of rental property for general commercial purposes (not taking into account its intended use) and, in the case of a lease of space, not adjusted to reflect the additional value the prospective lessee or lessor would attribute to the proximity or convenience to the lessor where the lessor is a potential source of patient referrals to the lessee.
 
 #### (4) Group practice
 
@@ -336,7 +338,7 @@ For purposes of this section:
 
 &emsp;&emsp;The term “group practice” means a group of 2 or more physicians legally organized as a partnership, professional corporation, foundation, not-for-profit corporation, faculty practice plan, or similar association—
 
-&emsp;&emsp;&emsp;(i) in which each physician who is a member of the group provides substantially the full range of services which the physician routinely provides, including medical care, consultation, diagnosis, or treatment, through the joint use of shared office space, facilities, equipment and personnel,
+&emsp;&emsp;&emsp;(i) in which each physician who is a member of the group provides substantially the full range of services which thephysician routinely provides, including medical care, consultation, diagnosis, or treatment, through the joint use of shared office space, facilities, equipment and personnel,
 
 &emsp;&emsp;&emsp;(ii) for which substantially all of the services of the physicians who are members of the group are provided through the group and are billed under a billing number assigned to the group and amounts so received are treated as receipts of the group,
 
@@ -398,7 +400,7 @@ For purposes of this section:
 
 &emsp;&emsp;(K) Inpatient and outpatient hospital services.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1877, as added Pub. L. 101–239, title VI, §6204(a), Dec. 19, 1989, 103 Stat. 2236; amended Pub. L. 101–508, title IV, §4207(e)(1)–(3), (k)(2), formerly §4027(e)(1)–(3), (k)(2), Nov. 5, 1990, 104 Stat. 1388–121, 1388–122, 1388–124, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13562(a), Aug. 10, 1993, 107 Stat. 596; Pub. L. 103–432, title I, §152(a), (b), Oct. 31, 1994, 108 Stat. 4436; Pub. L. 105–33, title IV, §4314, Aug. 5, 1997, 111 Stat. 389.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1877, as added Pub. L. 101–239, title VI, §6204(a), Dec. 19, 1989, 103 Stat. 2236; amended Pub. L. 101–508, title IV, §4207(e)(1)–(3), (k)(2), formerly §4027(e)(1)–(3), (k)(2), Nov. 5, 1990, 104 Stat. 1388–121, 1388–122, 1388–124, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13562(a), Aug. 10, 1993, 107 Stat. 596; Pub. L. 103–432, title I, §152(a), (b), Oct. 31, 1994, 108 Stat. 4436; Pub. L. 105–33, title IV, §4314, Aug. 5, 1997, 111 Stat. 389; Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §524(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387.)
 
 #### References in Text
 
@@ -406,15 +408,23 @@ Section 222(a) of the Social Security Amendments of 1972, referred to in subsec.
 
 Section 300e–9(d) of this title, referred to in subsec. (b)(3)(D), was redesignated section 300e–9(c) of this title by Pub. L. 100–517, §7(b), Oct. 24, 1988, 102 Stat. 2580.
 
+Part C of this subchapter, referred to in subsec. (b)(3)(E), is classified to section 1395w–21 et seq. of this title.
+
 The Internal Revenue Code, referred to in subsecs. (c)(2) and (h)(2), is classified generally to Title 26, Internal Revenue Code.
 
 Part B of this subchapter, referred to in subsec. (h)(5)(A), is classified to section 1395j et seq. of this title.
 
 #### Prior Provisions
 
-A prior section 1395nn, act Aug. 14, 1935, ch. 531, title XVIII, §1877, as added and amended Oct. 30, 1972, Pub. L. 92–603, title II, §§242(b), 278(b)(8), 86 Stat. 1419, 1454; Oct. 25, 1977, Pub. L. 95–142, §4(a), 91 Stat. 1179; Dec. 5, 1980, Pub. L. 96–499, title IX, §917, 94 Stat. 2625; July 18, 1984, Pub. L. 98–369, div. B, title III, §2306(f)(2), 98 Stat. 1073; Oct. 21, 1986, Pub. L. 99–509, title IX, §9321(a)(1), 100 Stat. 2016; Aug. 18, 1987, Pub. L. 100–93, §4(c), 101 Stat. 689, enumerated offenses relating to the Medicare program and penalties for such offenses, prior to repeal by Pub. L. 100–93, §§4(e), 15(a), Aug. 18, 1987, 101 Stat. 689, 698, effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period.
+A prior section 1395nn, act Aug. 14, 1935, ch. 531, title XVIII, §1877, as added and amended Oct. 30, 1972, Pub.L. 92–603, title II, §§242(b), 278(b)(8), 86 Stat. 1419, 1454; Oct. 25, 1977, Pub. L. 95–142, §4(a), 91 Stat. 1179; Dec. 5, 1980, Pub. L. 96–499, title IX, §917, 94 Stat. 2625; July 18, 1984, Pub. L. 98–369, div. B, title III, §2306(f)(2), 98 Stat. 1073; Oct. 21, 1986, Pub. L. 99–509, title IX, §9321(a)(1), 100 Stat. 2016; Aug. 18, 1987, Pub. L. 100–93, §4(c), 101 Stat. 689, enumerated offenses relating to the Medicare program and penalties for such offenses, prior to repeal by Pub. L. 100–93, §§4(e), 15(a), Aug. 18, 1987, 101 Stat. 689, 698, effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period.
 
 #### Amendments
+
+1999—Subsec. (b)(3)(C). Pub. L. 106–113, §1000(a)(6) \[title V, §524(a)(1)\], struck out “or” at the end.
+
+Subsec. (b)(3)(D). Pub. L. 106–113, §1000(a)(6) \[title V, §524(a)(2)\], substituted “, or” for period at end.
+
+Subsec. (b)(3)(E). Pub. L. 106–113, §1000(a)(6) \[title V, §524(a)(3)\], which directed addition of provisions at end of par. (3) but which separated directory language from language to be added because of the apparent placement out of sequence of pars. (2) and (3) of §524(a), was executed by adding subpar. (E) at end of par. (3) to reflect the probable intent of Congress.
 
 1997—Subsec. (g)(6). Pub. L. 105–33 added par. (6).
 
@@ -445,6 +455,10 @@ Subsec. (h)(6). Pub. L. 101–508, §4207(e)(1)(C), formerly §4027(e)(1)(C), as
 Pub. L. 101–508, §4207(e)(1)(A), (B), formerly §4027(e)(1)(A), (B), as renumbered by Pub. L. 103–432, §160(d)(4), substituted “in the case of an item or service for which payment may be made under part B of this subchapter, the request by a physician for the item or service,” for “in the case of a clinical laboratory service which under law is required to be provided by (or under the supervision of) a physician, the request by a physician for the service,” in subpar. (A) and struck out “in the case of another clinical laboratory service,” after “subparagraph (C),” in subpar. (B).
 
 Subsec. (h)(7). Pub. L. 101–508, §4207(e)(1)(C), formerly §4027(e)(1)(C), as renumbered by Pub. L. 103–432, §160(d)(4), redesignated par. (6) as (7).
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §524(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–388, provided that: “The amendment made by this section \[amending this section\] shall apply to services furnished on or after the date of the enactment of this Act \[Nov. 29, 1999\].”
 
 #### Effective Date of 1994 Amendment
 

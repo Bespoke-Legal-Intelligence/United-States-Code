@@ -46,7 +46,7 @@
 
 #### (2) Information required to be included in notice
 
-&emsp;The plan sponsors shall include in any notice required to be sent to plan participants andbeneficiaries under paragraph (1) information as to the rights and remedies of plan participants and beneficiaries as well as how to contact the Department of Labor for further information and assistance where appropriate.
+&emsp;The plan sponsors shall include in any notice required to be sent to plan participants and beneficiaries under paragraph (1) information as to the rights and remedies of plan participants and beneficiaries as well as how to contact the Department of Labor for further information and assistance where appropriate.
 
 #### (c) No recoupment
 

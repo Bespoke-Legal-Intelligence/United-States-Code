@@ -26,7 +26,7 @@ The Goals Panel shall—
 
 &emsp;Reports shall be presented in a form, and include data, that is understandable to parents and the general public.
 
-(Pub. L. 103–227, title II, §203, Mar. 31, 1994, 108 Stat. 136; Pub. L. 104–134, title I, §101(d) \[titleVII, §703(a)(6)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 103–227, title II, §203, Mar. 31, 1994, 108 Stat. 136; Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(6)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### Amendments
 

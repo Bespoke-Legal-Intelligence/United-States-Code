@@ -38,7 +38,7 @@
 | (b) | Mailing of copy of certification and notice to customer. |
 | (c) | Court-ordered delays in mailing. |
 | (d) | Exchanges of examination reports by supervisory agencies; transfer of financial records to defend customer action; withholding of information. |
-| (e) | Federal Financial Institutions Examination Council supervisory agencies; Securities and Exchange Commission; authorization of exchange of financial records or other information. |
+| (e) | Exchange of records, reports, or other information. |
 | (f) | Transfer to Attorney General or Secretary of the Treasury. |
 | [3413\.](%C2%A7%2003413%20-%20Exceptions.md) | Exceptions. |
 | (a) | Disclosure of financial records not identified with particular customers. |

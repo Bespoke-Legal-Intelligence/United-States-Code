@@ -16,7 +16,7 @@ Injunctions, see rule 65, Title 28, Appendix, Judiciary and Judicial Procedure.
 
 #### Cross References
 
-District courts of the United States as having original and exclusive jurisdiction of civil actions arising under any Act of Congress relating to patents, see section 1338 of Title 28, Judiciary and Judicial Procedure.
+District courts of the United States as having original and exclusive jurisdiction of civil actions arisingunder any Act of Congress relating to patents, see section 1338 of Title 28, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

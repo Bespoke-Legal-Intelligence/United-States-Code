@@ -2,23 +2,25 @@
 
 #### (a) Authority of Secretary
 
-The Secretary shall prescribe such regulations as the Secretary may deem necessary to carry out this chapter and the National School LunchAct \[42 U.S.C. 1751 et seq.\], including regulations relating to the service of food in participating schools and service institutions in competition with the programs authorized under this chapter and the National School Lunch Act.
+The Secretary shall prescribe such regulations as the Secretary may deem necessary to carry out this chapter and the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\], including regulations relating to the service of food in participating schools and service institutions in competition with the programs authorized under this chapter and the Richard B. Russell National School Lunch Act.
 
 #### (b) Sale of competitive foods
 
-The regulations shall not prohibit the sale of competitive foods approved by the Secretary in food service facilities or areas during the time of service of food under this chapter or the National School Lunch Act \[42 U.S.C. 1751 et seq.\] if the proceeds from the sales of such foods will inure to the benefit of the schools or of organizations of students approved by the schools.
+The regulations shall not prohibit the sale of competitive foods approved by the Secretary in food service facilities or areas during the time of service of food under this chapter or the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] if the proceeds from the sales of such foods will inure to the benefit of the schools or of organizations of students approved by the schools.
 
 #### (c) Transfer of funds; reserve for special projects
 
-In such regulations the Secretary may provide for the transfer of funds by any State between the programs authorized under this chapter and the National School Lunch Act \[42 U.S.C. 1751 et seq.\] on the basis of an approved State plan of operation for the use of the funds and may provide for the reserve of up to 1 per centum of the funds available for apportionment to any State to carry out special developmental projects.
+In such regulations the Secretary may provide for the transfer of funds by any State between the programs authorized under this chapter and the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] on the basis of an approved State plan of operation for the use of the funds and may provide for the reserve of up to 1 per centum of the funds available for apportionment to any State to carry out special developmental projects.
 
-(Pub. L. 89–642, §10, Oct. 11, 1966, 80 Stat. 889; Pub. L. 91–248, §8, May 14, 1970, 84 Stat. 212; Pub. L. 92–433, §7, Sept. 26, 1972, 86 Stat. 729; Pub. L. 95–166, §17, Nov. 10, 1977, 91 Stat. 1345; Pub. L. 101–147, title III, §323, Nov. 10, 1989, 103 Stat. 916; Pub. L. 103–448, title II, §203, Nov. 2, 1994, 108 Stat. 4738; Pub. L. 104–193, title VII, §725, Aug. 22, 1996, 110 Stat. 2302.)
+(Pub. L. 89–642, §10, Oct. 11, 1966, 80 Stat. 889; Pub. L. 91–248, §8, May 14, 1970, 84 Stat. 212; Pub. L. 92–433, §7, Sept. 26, 1972, 86 Stat. 729; Pub. L. 95–166, §17, Nov. 10, 1977, 91 Stat. 1345; Pub. L. 101–147, title III, §323, Nov. 10, 1989, 103 Stat. 916; Pub. L. 103–448, title II, §203, Nov. 2, 1994, 108 Stat. 4738; Pub. L. 104–193, title VII, §725, Aug. 22, 1996, 110 Stat. 2302; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170.)
 
 #### References in Text
 
-The National School Lunch Act, referred to in text, is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
+The Richard B. Russell National School Lunch Act, referred to in text, is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
 #### Amendments
+
+1999—Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act” wherever appearing.
 
 1996—Subsec. (b). Pub. L. 104–193 redesignated par. (1) as subsec. (b) and struck out pars. (2) to (4) which read as follows:
 

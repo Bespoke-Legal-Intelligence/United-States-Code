@@ -54,7 +54,7 @@ Subsec. (c)(6). Pub. L. 105–34, §1102(b)(2), added par. (6).
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to taxes paid or accrued in taxable years beginning after Dec. 31, 1997, see section 1102(c)(1) of Pub. L. 105–34, set out as a note under section 986 of this title.
+Amendment by Pub. L. 105–34 applicable to taxes paid or accrued in taxable years beginning after Dec. 31,1997, see section 1102(c)(1) of Pub. L. 105–34, set out as a note under section 986 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -6,7 +6,7 @@ The Attorney General may make grants under this subchapter to States, for the us
 
 #### (b) Alternative methods
 
-The alternative methods of punishment referred to in subsection (a) of this section should ensure certain punishment for young offenders and promote reduced recidivism, crime prevention, and assistance to victims, particularly foryoung offenders who can be punished more effectively in an environment other than a traditional correctional facility, including—
+The alternative methods of punishment referred to in subsection (a) of this section should ensure certain punishment for young offenders and promote reduced recidivism, crime prevention, and assistance to victims, particularly for young offenders who can be punished more effectively in an environment other than a traditional correctional facility, including—
 
 &emsp;(1) alternative sanctions that create accountability and certain punishment for young offenders;
 

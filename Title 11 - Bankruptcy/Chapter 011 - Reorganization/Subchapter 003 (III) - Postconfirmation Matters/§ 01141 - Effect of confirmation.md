@@ -64,7 +64,7 @@ Subsec. (c). Pub. L. 98–353, §513(b), amended subsec. (c) generally. Prior to
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
 #### Section Referred to in Other Sections
 

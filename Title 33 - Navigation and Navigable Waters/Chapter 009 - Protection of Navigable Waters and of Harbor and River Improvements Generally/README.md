@@ -64,12 +64,17 @@
 | (e) | Funding. |
 | 426h–1. | Definitions. |
 | [426i.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426i%20-%20Shore%20damage%20prevention%20or%20mitigation.md) | Shore damage prevention or mitigation. |
+| (a) | In general. |
+| (b) | Cost sharing. |
+| (c) | Requirement for specific authorization. |
+| (d) | Coordination. |
 | 426i–1. | Construction of shoreline protection projects by non-Federal interests. |
 | (a) | Authority. |
 | (b) | Studies and engineering. |
 | (c) | Completion of studies. |
 | (d) | Authority to carry out improvement. |
 | (e) | Reimbursement. |
+| 426i–2. | National coastal data bank. |
 | [426j.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426j%20-%20Placement%20on%20State%20beaches%20of%20sand%20dredged%20in%20constructing%20and%20maintaining%20navigation%20inlets%20and%20channels%20adjacent%20to%20such%20beaches.md) | Placement on State beaches of sand dredged in constructing and maintaining navigation inlets and channels adjacent to such beaches. |
 | [426k.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426k%20-%20Five%20year%20demonstration%20program%20to%20temporarily%20increase%20diversion%20of%20water%20from%20Lake%20Michigan%20at%20Chicago%2C%20Illinois.md) | Five year demonstration program to temporarily increase diversion of water from Lake Michigan at Chicago, Illinois. |
 | (a) | Authorization of Secretary of the Army; purpose; amounts of increase; incremental accomplishment; effects on Illinois Waterway; responsibilities for development, implementation, and supervision. |

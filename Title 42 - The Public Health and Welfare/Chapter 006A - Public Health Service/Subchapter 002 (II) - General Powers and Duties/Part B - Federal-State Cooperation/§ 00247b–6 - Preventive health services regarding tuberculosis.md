@@ -28,7 +28,7 @@ The Secretary may make a grant under subsection (a) or (b) of this section only 
 
 #### (1) In general
 
-&emsp;The Secretary may make a grant under subsection (a) or (b) of this section only if an application for the grant is submitted to the Secretary and the application, subject to paragraph (2), is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out the subsection involved.
+&emsp;The Secretary may make a grant under subsection (a) or (b) of this section only if an application for the grant is submitted to theSecretary and the application, subject to paragraph (2), is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out the subsection involved.
 
 #### (2) Plan for prevention, control, and elimination
 

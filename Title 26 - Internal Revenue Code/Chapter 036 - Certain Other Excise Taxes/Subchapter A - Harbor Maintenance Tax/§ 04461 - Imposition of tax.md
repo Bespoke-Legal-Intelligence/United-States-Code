@@ -56,7 +56,7 @@ Section 1407 of Pub. L. 99–662, as amended by Pub. L. 100–647, title II, §2
 
 “(a)
 
-Initial Study.—The Secretary of the Treasury, in consultation with United States ports, the Secretary of the Army, the Secretary of Transportation, the United States Trade Representative and other appropriate Federal agencies, shall conduct a study to determine the impact of the port use tax imposed under section 4461(a) of the Internal Revenue Code of 1954 \[now 1986\] on potential diversions of cargo from particular United States ports to any port in a country contiguous to the United States. The report of the study shall be submitted to the Ways and Means Committee of the House of Representatives and the Committee on Finance of the United States Senate not later than December 1, 1988.
+Initial Study.—The Secretary of the Treasury, in consultation with United States ports, the Secretary of the Army, the Secretary of Transportation, theUnited States Trade Representative and other appropriate Federal agencies, shall conduct a study to determine the impact of the port use tax imposed under section 4461(a) of the Internal Revenue Code of 1954 \[now 1986\] on potential diversions of cargo from particular United States ports to any port in a country contiguous to the United States. The report of the study shall be submitted to the Ways and Means Committee of the House of Representatives and the Committee on Finance of the United States Senate not later than December 1, 1988.
 
 “(b)
 

@@ -8,7 +8,7 @@
 
 (3) For the purpose of carrying out the provisions of section 640d–18(b) of this title, there is hereby authorized to be appropriated not to exceed $500,000.
 
-(4) For the purpose of carrying out the provisions of section 640d–13(b) of this title, there ishereby authorized to be appropriated not to exceed $13,000,000.
+(4) For the purpose of carrying out the provisions of section 640d–13(b) of this title, there is hereby authorized to be appropriated not to exceed $13,000,000.
 
 (5) There is hereby authorized to be appropriated annually not to exceed $4,000,000 for the expenses of the Commissioner.
 

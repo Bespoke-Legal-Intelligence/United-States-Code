@@ -14,7 +14,7 @@ For purposes of sections 620 to 620j of this title:
 
 &emsp;(3)
 
-Minor violation.—The term “minor violation” means a violation, other than an intentional violation, involving a single contract, purchase order, processing facility, or log yard involving a quantity of logs that isless than 25 logs and has a total value (at the time of the violation) of less than $10,000.
+Minor violation.—The term “minor violation” means a violation, other than an intentional violation, involving a single contract, purchase order, processing facility, or log yard involving a quantity of logs that is less than 25 logs and has a total value (at the time of the violation) of less than $10,000.
 
 &emsp;(4)
 

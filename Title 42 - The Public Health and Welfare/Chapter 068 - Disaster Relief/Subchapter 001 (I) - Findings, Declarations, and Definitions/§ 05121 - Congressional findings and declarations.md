@@ -66,7 +66,7 @@ Section 702(m), formerly section 602(m), of Pub. L. 93–288, as renumbered by P
 
 #### National Drought Policy
 
-Pub. L. 105–199, July 16, 1998, 112 Stat. 641, provided that:
+Pub. L. 105–199, July 16, 1998, 112 Stat. 641, as amended by Pub. L. 106–78, title VII, §753, Oct. 22, 1999, 113 Stat. 1170, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -116,7 +116,7 @@ Composition.—The Commission shall be composed of 16 members. The members of th
 
 &emsp;&emsp;“(F) the Administrator of the Small Business Administration, or the designee of the Administrator;
 
-&emsp;&emsp;“(G) two persons nominated by the National Governors’ Association and appointed by the President, of whom—
+&emsp;&emsp;“(G) two governors, who may be represented on the Commission by their respective designees, nominated by the National Governors’ Association and appointed by the President, of whom—
 
 &emsp;&emsp;&emsp;“(i) one shall be the governor of a State east of the Mississippi River; and
 

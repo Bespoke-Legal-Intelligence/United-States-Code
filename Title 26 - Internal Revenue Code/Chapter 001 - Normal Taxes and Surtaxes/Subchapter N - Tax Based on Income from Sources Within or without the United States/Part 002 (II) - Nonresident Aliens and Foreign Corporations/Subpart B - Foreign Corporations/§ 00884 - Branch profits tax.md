@@ -256,7 +256,7 @@ Subsec. (e)(5). Pub. L. 100–647, §1012(q)(6), added par. (5).
 
 Subsec. (f)(1). Pub. L. 100–647, §1012(f)(3)(A), (14), substituted “this subtitle” for “sections 871, 881, 1441, and 1442” and inserted “(or having gross income treated as effectively connected with the conduct of a trade or business in the United States)” after “United States”.
 
-Pub. L. 100–647, §1012(q)(2)(C)(i), (3)(B), inserted sentence at end and struck out former last sentence whichread as follows: “Rules similar to the rules of subsection (e)(3)(B) shall apply to interest described in the preceding sentence.”
+Pub. L. 100–647, §1012(q)(2)(C)(i), (3)(B), inserted sentence at end and struck out former last sentence which read as follows: “Rules similar to the rules of subsection (e)(3)(B) shall apply to interest described in the preceding sentence.”
 
 Subsec. (f)(3). Pub. L. 100–647, §1012(q)(2)(C)(ii), added par. (3).
 

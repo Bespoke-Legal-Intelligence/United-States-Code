@@ -6,7 +6,7 @@ Title VII of the Higher Education Act of 1965, comprising this subchapter, was o
 
 #### Prior Provisions
 
-A prior section 1132a, Pub. L. 89–329, title VII, §701, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1520; amended Pub. L. 100–50, §19(1), June 3, 1987, 101 Stat. 360; Pub. L. 102–325, title VII, §701, July 23, 1992, 106 Stat. 737, authorized programs of assistance for construction, reconstruction, and renovation of academic facilities, prior to the general amendment of this subchapter by Pub. L. 105–244.
+A prior section 1132a, Pub. L. 89–329, title VII, §701, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100Stat. 1520; amended Pub. L. 100–50, §19(1), June 3, 1987, 101 Stat. 360; Pub. L. 102–325, title VII, §701, July 23, 1992, 106 Stat. 737, authorized programs of assistance for construction, reconstruction, and renovation of academic facilities, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 Another prior section 1132a, Pub. L. 89–329, title VII, §701, as added Pub. L. 96–374, title VII, §701, Oct. 3, 1980, 94 Stat. 1472, related to purpose of programs of financial assistance to institutions of higher education and to higher education building agencies, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
@@ -32,7 +32,7 @@ Section 1132a–6, Pub. L. 89–329, title VII, §707, as added Pub. L. 92–318
 
 Section 1132a–7, Pub. L. 89–329, title VII, §708, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 293, related to the disapproval of State plans and to judicial review.
 
-A prior section 1132b, Pub. L. 89–329, title VII, §711, as added Pub. L. 102–325, title VII, §703, July 23, 1992, 106Stat. 738, provided that former part A of this subchapter could be cited as the “Higher Education Facilities Act of 1992”, prior to the general amendment of this subchapter by Pub. L. 105–244.
+A prior section 1132b, Pub. L. 89–329, title VII, §711, as added Pub. L. 102–325, title VII, §703, July 23, 1992, 106 Stat. 738, provided that former part A of this subchapter could be cited as the “Higher Education Facilities Act of 1992”, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 Another prior section 1132b, Pub. L. 89–329, title VII, §711, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1522, related to State plans for construction, reconstruction, and renovation of undergraduate academic facilities, prior to the general amendment of part A of this subchapter by Pub. L. 102–325.
 
@@ -64,7 +64,7 @@ Section 1132b–5, Pub. L. 89–329, title VII, §716, as added Pub. L. 102–32
 
 A prior section 1132c, Pub. L. 89–329, title VII, §721, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 741, which stated findings of Congress, was renumbered section 341 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(3), (4), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1066 of this title.
 
-Another prior section 1132c, Pub. L. 89–329, title VII, §721, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1524, related to grants for construction, reconstruction, and renovation of graduate academic facilities, prior to the general amendment of part B of this subchapter by Pub. L. 102–325.
+Another prior section 1132c, Pub. L. 89–329, title VII, §721, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1524, related to grants for construction,reconstruction, and renovation of graduate academic facilities, prior to the general amendment of part B of this subchapter by Pub. L. 102–325.
 
 Another prior section 1132c, Pub. L. 89–329, title VII, §721, as added Pub. L. 96–374, title VII, §701, Oct. 3, 1980, 94 Stat. 1475, authorized grants to graduate institutions of higher education, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
@@ -86,7 +86,7 @@ A prior section 1132c–4, Pub. L. 89–329, title VII, §725, as added Pub. L. 
 
 Another prior section 1132c–4, Pub. L. 89–329, title VII, §745, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 297; amended Pub. L. 94–482, title I, §§161(d), 162(a)(3), (g), Oct. 12, 1976, 90 Stat. 2156, 2157; Pub. L. 95–43, §1(b)(6), June 15, 1977, 91 Stat. 218; Pub. L. 96–49, §8(c)(2), Aug. 13, 1979, 93 Stat. 353, related to annual interest grants, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
-A prior section 1132c–5, Pub. L. 89–329, title VII, §726, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 746, and amended, which restricted receipt ofgrants under former part A of this subchapter, was renumbered section 346 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(3), (4), Oct. 7, 1998, 112 Stat. 1636, transferred to section 1066e of this title, and subsequently repealed.
+A prior section 1132c–5, Pub. L. 89–329, title VII, §726, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 746, and amended, which restricted receipt of grants under former part A of this subchapter, was renumbered section 346 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(3), (4), Oct. 7, 1998, 112 Stat. 1636, transferred to section 1066e of this title, and subsequently repealed.
 
 Another prior section 1132c–5, Pub. L. 89–329, title VII, §746, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 298; amended Pub. L. 94–482, title I, §162(a)(3), Oct. 12, 1976, 90 Stat. 2156, related to academic facilities loan insurance, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
@@ -112,7 +112,7 @@ Another prior section 1132d–1, Pub. L. 89–329, title VII, §762, as added Pu
 
 A prior section 1132d–2, Pub. L. 89–329, title VII, §733, as added Pub. L. 102–325, title VII, §705, July 23, 1992, 106 Stat. 750, related to apportionment of funds, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
-Another prior section 1132d–2, Pub. L. 89–329, title VII, §733, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1527; amended Pub. L. 100–50, §19(4), June 3, 1987, 101 Stat. 360, related to revolving loan fund, prior to the general amendment of part C of this subchapter by Pub. L. 102–325.
+Another prior section 1132d–2, Pub. L. 89–329, title VII, §733, as added Pub. L. 99–498, title VII, §701, Oct. 17,1986, 100 Stat. 1527; amended Pub. L. 100–50, §19(4), June 3, 1987, 101 Stat. 360, related to revolving loan fund, prior to the general amendment of part C of this subchapter by Pub. L. 102–325.
 
 Another prior section 1132d–2, Pub. L. 89–329, title VII, §733, as added Pub. L. 96–374, title VII, §701, Oct. 3, 1980, 94 Stat. 1476, related to revolving loan and insurance fund, prior to the general amendment of this subchapter by Pub. L. 99–498.
 

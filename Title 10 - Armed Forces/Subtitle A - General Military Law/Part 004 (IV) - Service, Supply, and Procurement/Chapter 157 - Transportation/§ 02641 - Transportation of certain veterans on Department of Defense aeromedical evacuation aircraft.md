@@ -38,7 +38,7 @@ Subsec. (d)(2). Pub. L. 103–337, §652(b)(2)(C), inserted “(or for the remai
 
 1989—Subsec. (a). Pub. L. 101–189, §1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-Subsec. (b). Pub. L. 101–189, §1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” in introductory provisions and in par. (1).
+Subsec. (b). Pub. L. 101–189, §1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator ofVeterans’ Affairs” in introductory provisions and in par. (1).
 
 Subsec. (b)(1). Pub. L. 101–189, §1621(a)(8), substituted “the Secretary of Veterans Affairs requests” for “the Administrator requests”.
 

@@ -108,7 +108,7 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 #### Defense Advanced Research Projects Agency Experimental Personnel Management Program for Technical Personnel
 
-Pub. L. 105–261, div. A, title XI, §1101, Oct. 17, 1998, 112 Stat. 2139, provided that:
+Pub. L. 105–261, div. A, title XI, §1101, Oct. 17, 1998, 112 Stat. 2139, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, provided that:
 
 “(a)
 
@@ -168,7 +168,7 @@ Savings Provisions.—In the case of an employee who, on the day before the term
 
 “(g)
 
-Annual Report.—(1) Not later than October 15 of each year, beginning in 1999 and ending in 2004, the Secretary of Defense shall submit a report on the program to the Committee on Armed Services of the Senate and the Committee on National Security \[now Committee on Armed Services\] of the House of Representatives. The report submitted in a year shall cover the 12-month period ending on the day before the anniversary, in that year, of the date of the enactment of this Act.
+Annual Report.—(1) Not later than October 15 of each year, beginning in 1999 and ending in 2004, the Secretary of Defense shall submit a report on the program to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives. The report submitted in a year shall cover the 12-month period ending on the day before the anniversary, in that year, of the date of the enactment of this Act.
 
 “(2) The annual report shall contain, for the period covered by the report, the following:
 
@@ -218,7 +218,7 @@ Pub. L. 105–119, title I, §122, Nov. 26, 1997, 111 Stat. 2469, as amended by 
 
 #### Termination of Authority To Establish Scientific or Professional Positions Outside the General Schedule
 
-Section 414(a)(2)(A) of Pub. L. 95–454 provided that: “Notwithstanding any other provision of law (other than section 3104 of title 5, United States Code), the authority granted to an agency (as defined in section 5102(a)(1) of such title 5) to establish scientific or professional positions outside of the General Schedule is hereby terminated.”
+Section 414(a)(2)(A) of Pub. L. 95–454 provided that: “Notwithstanding any other provision of law (otherthan section 3104 of title 5, United States Code), the authority granted to an agency (as defined in section 5102(a)(1) of such title 5) to establish scientific or professional positions outside of the General Schedule is hereby terminated.”
 
 Section 415(a)(3) of Pub. L. 95–454 provided that the provisions of section 414(a)(2)(A) take effect 180 days after Oct. 13, 1978.
 

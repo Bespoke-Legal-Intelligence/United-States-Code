@@ -68,7 +68,7 @@ Actions to impede the board.—No person (including a State or political subdivi
 
 &emsp;(2)
 
-Unsolicited communications.—In the event of an accident involving an air carrier providing interstate or foreign air transportation, no unsolicited communication concerning a potential action for personal injury or wrongful death may be made by an attorney or any potential party to the litigation to an individual injured in the accident, or to a relative of an individual involved in the accident, before the 30th day following the date of the accident.
+Unsolicited communications.—In the event of an accident involving an air carrier providing interstate or foreign air transportation, no unsolicited communication concerning a potential action for personal injuryor wrongful death may be made by an attorney or any potential party to the litigation to an individual injured in the accident, or to a relative of an individual involved in the accident, before the 30th day following the date of the accident.
 
 (h)
 

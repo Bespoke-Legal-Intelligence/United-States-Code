@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The head of an agency may enter into a contract for travel-related services that provides for the contractor to furnish services for both official travel and unofficial travel.
+Authority.—The head of an agency may enter into a contract for travel-related servicesthat provides for the contractor to furnish services for both official travel and unofficial travel.
 
 (b)
 

@@ -34,9 +34,13 @@ Apr. 6, 1988, Pub. L. 100–281, §§6, 7, 8 (related to directors and officers)
 
 36:4007.
 
+&nbsp;
+
 154705(c)
 
 36:4008 (related to directors and officers).
+
+&nbsp;
 
 In subsections (a) and (b), the words “and in conformity with the laws of the State in which it is incorporated” are omitted as unnecessary.
 

@@ -118,19 +118,11 @@ Section 1007(b)(2) of Pub. L. 96–342 provided that: “The amendment made by p
 
 #### Civil Air Patrol; Drug Interdiction and Eradication Activities; Reports to Congressional Committees
 
-Pub. L. 100–690, title VII, §7606, Nov. 18, 1988, 102 Stat. 4511, as amended by Pub. L. 104–106, div. A, title XV, §1502(f)(4), Feb. 10, 1996, 110 Stat. 509, provided that:
-
-“(a)
-
-Regulations.—Within 45 days, the Secretary of the Air Force shall issue such regulations as are necessary to ensure that the Civil Air Patrol has an integral role in drug interdiction and eradication activities.
-
-“(b)
-
-Reports.—The Secretary of the Air Force shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security \[now Committee on Armed Services\] and the Committee on Appropriations of the House of Representatives, quarterly reports which include a detailed description of the activities of the Civil Air Patrol in support of the Federal, State, and local government agencies’ drug interdiction and eradication programs. The first report shall be submitted on the last day of the first quarter ending not less than 150 days after the date of the enactment \[Nov. 18, 1988\].”
+Pub. L. 100–690, title VII, §7606, Nov. 18, 1988, 102 Stat. 4511, as amended by Pub. L. 104–106, div. A, title XV, §1502(f)(4), Feb. 10, 1996, 110 Stat. 509; Pub. L. 106–65, div. A, title X, §1067(15), Oct. 5, 1999, 113 Stat. 775, required Secretary of the Air Force to issue regulations necessary to ensure that the Civil Air Patrol had an integral role in drug interdiction and eradication activities, and to submit quarterly reports to committees of Congress describing activities of Civil Air Patrol in support of Federal, State, and local government agencies’ drug interdiction and eradication programs, prior to repeal by Pub. L. 106–65, div. A, title X, §1032(b)(3), Oct. 5, 1999, 113 Stat. 751.
 
 #### Participation in Drug Interdiction Efforts
 
-Pub. L. 99–570, title III, §3059, Oct. 27, 1986, 100 Stat. 3207–79, as amended by Pub. L. 104–106, div. A, title XV, §1502(f)(3), Feb. 10, 1996, 110 Stat. 509, provided that:
+Pub. L. 99–570, title III, §3059, Oct. 27, 1986, 100 Stat. 3207–79, as amended by Pub. L. 104–106, div. A, title XV, §1502(f)(3), Feb. 10, 1996, 110 Stat. 509; Pub. L. 106–65, div. A, title X, §1032(b)(2), Oct. 5, 1999, 113 Stat. 751, provided that:
 
 “(a)
 
@@ -142,17 +134,7 @@ Sense of Congress.—It is the sense of Congress that—
 
 “(b)
 
-Authorization.—In addition to any other amounts appropriated for the Civil Air Patrol for fiscal year 1987, there are authorized to be appropriated for the Civil Air Patrol, out of any unobligated and uncommitted balances of appropriations for the Department of Defense for fiscal year 1986 which are carried forwardinto fiscal year 1987, $7,000,000 for the acquisition of the major items of equipment needed by the Civil Air Patrol for drug interdiction surveillance and reporting missions.
-
-“(c)
-
-Reports.—(1) The Secretary of the Air Force shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security \[now Committee on Armed Services\] and the Committee on Appropriations of the House of Representatives quarterly reports which contain the following information:
-
-&emsp;“(A) A description of the manner in which any funds are used under subsection (b).
-
-&emsp;“(B) A detailed description of the activities of the Civil Air Patrol in support of the Federal Government's drug interdiction program.
-
-“(2) The first report under paragraph (1) shall be submitted on the last day of the first quarter ending not less than 90 days after the date of the enactment of this Act \[Oct. 27, 1986\].”
+Authorization.—In addition to any other amounts appropriated for the Civil Air Patrol for fiscal year 1987, there are authorized to be appropriated for the Civil Air Patrol, out of any unobligated and uncommitted balances of appropriations for the Department of Defense for fiscal year 1986 which are carried forward into fiscal year 1987, $7,000,000 for the acquisition of the major items of equipment needed by the Civil Air Patrol for drug interdiction surveillance and reporting missions.”
 
 #### Cross References
 

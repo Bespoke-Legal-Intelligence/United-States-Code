@@ -12,13 +12,53 @@ In connection with its examination of a financial institution, the appropriate F
 
 In assessing and taking into account, under subsection (a) of this section, the record of a nonminority-owned and nonwomen-owned financial institution, the appropriate Federal financial supervisory agency may consider as a factor capital investment, loan participation, and other ventures undertaken by the institution in cooperation with minority- and women-owned financial institutions and low-income credit unions provided that these activities help meet the credit needs of local communities in which such institutions and credit unions are chartered.
 
-(Pub. L. 95–128, title VIII, §804, Oct. 12, 1977, 91 Stat. 1148; Pub. L. 102–550, title IX, §909(1), Oct. 28, 1992, 106 Stat. 3874.)
+#### (c) Financial holding company requirement
+
+#### (1) In general
+
+&emsp;An election by a bank holding company to become a financial holding company under section 1843 of this title shall not be effective if—
+
+&emsp;&emsp;(A) the Board finds that, as of the date the declaration of such election and the certification is filed by such holding company under section 1843(<i>l</i>)(1)(C) of this title, not all of the subsidiary insured depository institutions of the bank holding company had achieved a rating of “satisfactory record of meeting community credit needs”, or better, at the most recent examination of each such institution; and
+
+&emsp;&emsp;(B) the Board notifies the company of such finding before the end of the 30-day period beginning on such date.
+
+#### (2) Limited exclusions for newly acquired insured depository institutions
+
+&emsp;Any insured depository institution acquired by a bank holding company during the 12-month period preceding the date of the submission to the Board of the declaration and certification under section 1843(<i>l</i>)(1)(C) of this title may be excluded for purposes of paragraph (1) during the 12-month period beginning on the date of such acquisition if—
+
+&emsp;&emsp;(A) the bank holding company has submitted an affirmative plan to the appropriate Federal financial supervisory agency to take such action as may be necessary in order for such institution to achieve a rating of “satisfactory record of meeting community credit needs”, or better, at the next examination of the institution; and
+
+&emsp;&emsp;(B) the plan has been accepted by such agency.
+
+#### (3) Definitions
+
+&emsp;For purposes of this subsection, the following definitions shall apply:
+
+#### (A) Bank holding company; financial holding company
+
+&emsp;&emsp;The terms “bank holding company” and “financial holding company” have the meanings given those terms in section 1841 of this title.
+
+#### (B) Board
+
+&emsp;&emsp;The term “Board” means the Board of Governors of the Federal Reserve System.
+
+#### (C) Insured depository institution
+
+&emsp;&emsp;The term “insured depository institution” has the meaning given the term in section 1813(c) of this title.
+
+(Pub. L. 95–128, title VIII, §804, Oct. 12, 1977, 91 Stat. 1148; Pub. L. 102–550, title IX, §909(1), Oct. 28, 1992, 106 Stat. 3874; Pub. L. 106–102, title I, §103(b), Nov. 12, 1999, 113 Stat. 1350.)
 
 #### Amendments
 
+1999—Subsec. (c). Pub. L. 106–102 added subsec. (c).
+
 1992—Pub. L. 102–550 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as a note under section 24 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1831u, 1842, 2906 of this title.
+This section is referred to in sections 1831u, 1842, 2906, 2908 of this title.
 

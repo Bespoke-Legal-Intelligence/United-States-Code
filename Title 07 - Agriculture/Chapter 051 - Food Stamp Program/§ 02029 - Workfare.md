@@ -2,7 +2,7 @@
 
 #### (a) Program plan; guidelines; compliance
 
-(1) The Secretary shall permit any political subdivision, in any State, that applies and submits a plan to the Secretary in compliance with guidelines promulgated by the Secretary to operate a workfare program pursuant to which every member of a household participating in the food stamp program who is not exempt by virtue of the provisions of subsection (b) of this section shall accept an offer from such subdivision to perform work on its behalf, or may seek an offer to perform work, in return for compensation consisting of the allotment to which the household is entitled under section 2017(a) of this title, with each hour of such work entitling that household to a portion of its allotment equal in value to 100 per centum of the higher of the applicable State minimum wage or the Federal minimum hourly rate under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\].
+(1) The Secretary shall permit any political subdivision, in any State, that applies and submits a plan to the Secretary in compliance withguidelines promulgated by the Secretary to operate a workfare program pursuant to which every member of a household participating in the food stamp program who is not exempt by virtue of the provisions of subsection (b) of this section shall accept an offer from such subdivision to perform work on its behalf, or may seek an offer to perform work, in return for compensation consisting of the allotment to which the household is entitled under section 2017(a) of this title, with each hour of such work entitling that household to a portion of its allotment equal in value to 100 per centum of the higher of the applicable State minimum wage or the Federal minimum hourly rate under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\].
 
 (2)(A) The Secretary shall promulgate guidelines pursuant to paragraph (1) which, to the maximum extent practicable, enable a political subdivision to design and operate a workfare program under this section which is compatible and consistent with similar workfare programs operated by the subdivision.
 
@@ -66,7 +66,7 @@ An individual or a household may become ineligible under section 2015(d)(1) of t
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (a)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
-The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IV of the Act is classified generally to subchapter IV (§601 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IV of the Act is classified generally to subchapter IV (§601 et seq.) of chapter 7 of Title 42, The PublicHealth and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 

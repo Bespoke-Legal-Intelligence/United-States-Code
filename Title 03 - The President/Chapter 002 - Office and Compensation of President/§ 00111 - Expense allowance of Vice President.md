@@ -18,7 +18,7 @@ Section effective noon, Jan. 20, 1949, see section 3 of act Jan. 19, 1949.
 
 #### Official Temporary Residence of the Vice President
 
-Pub. L. 93–346, July 12, 1974, 88 Stat. 340, as amended by Pub. L. 93–552, title VI, §609(a), Dec. 27, 1974, 88 Stat. 1764, provided: “That effective July 1, 1974, the Government-owned house together with furnishings, associated grounds (consisting of twelve acres, more or less), and related facilities which have heretofore been used as the residence of the Chief of Naval Operations, Department of the Navy, shall, on and after such date be available for, and are hereby designated as, the temporary official residence of the Vice President of the United States.
+Pub. L. 93–346, July 12, 1974, 88 Stat. 340, as amended by Pub. L. 93–552, title VI, §609(a), Dec. 27, 1974, 88 Stat.1764, provided: “That effective July 1, 1974, the Government-owned house together with furnishings, associated grounds (consisting of twelve acres, more or less), and related facilities which have heretofore been used as the residence of the Chief of Naval Operations, Department of the Navy, shall, on and after such date be available for, and are hereby designated as, the temporary official residence of the Vice President of the United States.
 
 “
 
@@ -30,7 +30,7 @@ Sec. 3. The Secretary of the Navy shall, subject to the supervision and control 
 
 “
 
-Sec. 4. There is hereby authorized to be appropriated such sums as may be necessary from time to time to carry out the foregoing provisions of this joint resolution. During any interim period until and before any such funds are so appropriated, the Secretary of the Navy shall make provision for staffing and otherappropriate services in connection with the temporary official residence of the Vice President from funds available to the Department of the Navy, subject to reimbursement therefor from funds subsequently appropriated to carry out the purposes of this joint resolution.
+Sec. 4. There is hereby authorized to be appropriated such sums as may be necessary from time to time to carry out the foregoing provisions of this joint resolution. During any interim period until and before any such funds are so appropriated, the Secretary of the Navy shall make provision for staffing and other appropriate services in connection with the temporary official residence of the Vice President from funds available to the Department of the Navy, subject to reimbursement therefor from funds subsequently appropriated to carry out the purposes of this joint resolution.
 
 “
 

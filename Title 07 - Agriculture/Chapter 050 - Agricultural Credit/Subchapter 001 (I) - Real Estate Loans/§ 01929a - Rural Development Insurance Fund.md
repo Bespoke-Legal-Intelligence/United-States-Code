@@ -2,7 +2,7 @@
 
 #### (a) Creation; revolving fund; rural development loans
 
-There is hereby created the Rural Development Insurance Fund (hereinafter in this section referred to as the “Insurance Fund”) which shall be used by the Secretary as a revolving fund for the discharge of the obligations of the Secretary under contracts guaranteeing or insuring rural development loans. For the purpose of this section “rural development loans” shall be those provided for by sections 1926(a)(1) and 1932 of this title, except loans (other than for water systems and waste disposal facilities) of a type authorized by section 1926(a)(1) of this title prior to its amendment by the Rural Development Act of 1972.
+There is hereby created the Rural Development Insurance Fund (hereinafter in this section referred to as the “Insurance Fund”) which shall be used by the Secretary as a revolving fund for the discharge of the obligations of the Secretary under contracts guaranteeing or insuring rural development loans. For the purposeof this section “rural development loans” shall be those provided for by sections 1926(a)(1) and 1932 of this title, except loans (other than for water systems and waste disposal facilities) of a type authorized by section 1926(a)(1) of this title prior to its amendment by the Rural Development Act of 1972.
 
 #### (b) Transfer of assets and liabilities
 
@@ -36,7 +36,7 @@ The Secretary may utilize the Insurance Fund—
 
 &emsp;(4) to make payments in compliance with the Secretary's obligations under contracts of guarantee entered into by him;
 
-&emsp;(5) to pay taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections or necessary to obtain credit reports on applicants or borrowers, expenses for necessary services, including construction inspections, commercial appraisals, loan servicing, consulting business advisory or other commercial and technical services, and other program services, and other expenses and advances authorized in section 1985(a) of this title in connection with insured loans. Such items may be paid in connection with guaranteed loans after or in connection with acquisition by the Secretary of such loans or security therefor after default, to an extent determined by the Secretary to be necessary to protect the interest of the Government, or in connection with grants and any other activity authorized in this chapter;
+&emsp;(5) to pay taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections or necessary to obtain credit reports on applicants or borrowers, expenses for necessary services, including construction inspections, commercial appraisals, loan servicing, consulting business advisory or other commercial and technical services, and other program services, and other expenses and advances authorized in section 1985(a) of this title in connection with insured loans.Such items may be paid in connection with guaranteed loans after or in connection with acquisition by the Secretary of such loans or security therefor after default, to an extent determined by the Secretary to be necessary to protect the interest of the Government, or in connection with grants and any other activity authorized in this chapter;
 
 &emsp;(6) to pay the difference between interest payments by borrowers and interest to which holders of insured notes are entitled under contracts of insurance heretofore or hereafter entered into by the Secretary; and
 
@@ -70,7 +70,7 @@ Subsec. (b). Pub. L. 104–127, §661(c)(2), which directed amendment of first s
 
 Subsec. (g). Pub. L. 104–127, §745, redesignated pars. (2) to (8) as (1) to (7), respectively, and struck out former par. (1) which read as follows: “to make rural development loans which could be insured under this chapter whenever he has a reasonable assurance that they can be sold without undue delay, and he may sell and insure such loans;”.
 
-1986—Subsec. (e). Pub. L. 99–500, Pub. L. 99–509, and Pub. L. 99–591 amended second sentence of subsec. (e) identically, substituting “Notes and other obligations” for “Notes” and substituting “, including sale on a nonrecourse basis. The Secretary and any subsequent purchaser of such notes or other obligations sold by the Secretary on a nonrecourse basis shall be relieved ofany responsibilities that might have been imposed had the borrower remained indebted to the Secretary.” for period at end.
+1986—Subsec. (e). Pub. L. 99–500, Pub. L. 99–509, and Pub. L. 99–591 amended second sentence of subsec. (e) identically, substituting “Notes and other obligations” for “Notes” and substituting “, including sale on a nonrecourse basis. The Secretary and any subsequent purchaser of such notes or other obligations sold by the Secretary on a nonrecourse basis shall be relieved of any responsibilities that might have been imposed had the borrower remained indebted to the Secretary.” for period at end.
 
 Subsec. (h). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -194,7 +194,7 @@ Purchase of obligation not tied to purchase of other obligations.—The Secretar
 
 &emsp;&emsp;“(B)
 
-Offer to be made without regard to financing.—The Secretary shall offer notes or otherobligations for sale to the issuers thereof under this subsection without regard to the manner in which such issuers intend to finance the purchase of such notes or other obligations. However, the price of sale to any issuer using tax exempt financing shall be determined using a yield reflective of the Schedule of Certified Interest Rates as published monthly by the Secretary of the Treasury.
+Offer to be made without regard to financing.—The Secretary shall offer notes or other obligations for sale to the issuers thereof under this subsection without regard to the manner in which such issuers intend to finance the purchase of such notes or other obligations. However, the price of sale to any issuer using tax exempt financing shall be determined using a yield reflective of the Schedule of Certified Interest Rates as published monthly by the Secretary of the Treasury.
 
 “(g)
 

@@ -1,6 +1,6 @@
 ### \[§184. Repealed. Pub. L. 101–508, title XI, §11801(a)(12), Nov. 5, 1990, 104 Stat. 1388–520\]
 
-Section, added Pub. L. 91–172, title VII, §705(a), Dec. 30, 1969, 83 Stat. 670; amended Pub. L. 93–625, §3(b), Jan.3, 1975, 88 Stat. 2109; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to amortization of certain railroad rolling stock.
+Section, added Pub. L. 91–172, title VII, §705(a), Dec. 30, 1969, 83 Stat. 670; amended Pub. L. 93–625, §3(b), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to amortization of certain railroad rolling stock.
 
 #### Savings Provision
 

@@ -1,6 +1,6 @@
 ### §81. Establishment; statement of purposes
 
-Upon proclamation of the President, as herein provided, sufficient of the areas hereinafterspecified for the purposes of this subchapter shall be established and set apart as the Colonial National Historical Park for the preservation of the historical structures and remains thereon and for the benefit and enjoyment of the people.
+Upon proclamation of the President, as herein provided, sufficient of the areas hereinafter specified for the purposes of this subchapter shall be established and set apart as the Colonial National Historical Park for the preservation of the historical structures and remains thereon and for the benefit and enjoyment of the people.
 
 (July 3, 1930, ch. 837, §1, 46 Stat. 855; June 5, 1936, ch. 525, §2, 49 Stat. 1483.)
 

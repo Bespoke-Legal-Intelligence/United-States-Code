@@ -40,7 +40,7 @@ Beginning on October 1, 1999, and not later than October 1 of each year thereaft
 
 Copies of the data collected under subsections (a), (b), and (c) of this section shall be made available to members of the public upon request pursuant to such regulations as the Attorney General shall prescribe.
 
-(Pub. L. 105–277, div. A, title I, §101(h) \[title IX, §904\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–542.)
+(Pub. L. 105–277, div. A, §101(h) \[title IX, §904\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–542.)
 
 #### Codification
 

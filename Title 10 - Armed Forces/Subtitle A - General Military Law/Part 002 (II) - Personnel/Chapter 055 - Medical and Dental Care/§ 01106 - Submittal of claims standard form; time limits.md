@@ -6,7 +6,7 @@ Standard Form.—The Secretary of Defense, after consultation with the other adm
 
 (b)
 
-Time for Submission.—A claim for payment for services provided under this chapter shall be submitted as provided in such regulations not later than one year after the services are provided.
+Time for Submission.—A claim for payment for services provided under this chaptershall be submitted as provided in such regulations not later than one year after the services are provided.
 
 (Added Pub. L. 102–190, div. A, title VII, §716(a)(1), Dec. 5, 1991, 105 Stat. 1403; amended Pub. L. 105–85, div. A, title VII, §738(a), Nov. 18, 1997, 111 Stat. 1815.)
 
@@ -68,7 +68,7 @@ System Functions.—The claims processing system shall include at least the foll
 
 &emsp;“(3) The ability to process, adjudicate, and pay (by electronic or other means) such claims.
 
-&emsp;“(4) The provision of the information described in paragraphs (1) and (2) and information on the mattersreferred to in paragraph (3) by telephone, electronic, or other means to covered beneficiaries, insurers, medical services, and health plans.
+&emsp;“(4) The provision of the information described in paragraphs (1) and (2) and information on the matters referred to in paragraph (3) by telephone, electronic, or other means to covered beneficiaries, insurers, medical services, and health plans.
 
 “(c)
 

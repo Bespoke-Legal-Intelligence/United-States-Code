@@ -18,7 +18,7 @@
 
 &emsp;(1) censure, reprimand, or admonish the selection board or any member of the board with respect to the recommendations of the board or the exercise of any lawful function within the authorized discretion of the board; or
 
-&emsp;(2) attempt to coerce or, by any unauthorized means, influence any action of a selection board or any member of a selection board in the formulation of the board's recommendations.
+&emsp;(2) attempt to coerce or, by any unauthorized means, influence any action of a selectionboard or any member of a selection board in the formulation of the board's recommendations.
 
 (Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2852; amended Pub. L. 100–456, div. A, title V, §501(b), Sept. 29, 1988, 102 Stat. 1966; Pub. L. 102–190, div. A, title V, §504(b), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 102–484, div. A, title X, §1052(8), Oct. 23, 1992, 106 Stat. 2499.)
 

@@ -26,6 +26,8 @@ Historical and Revision Notes
 
 36:502.
 
+&nbsp;
+
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
 
 The text of 36:502 is omitted as executed and obsolete.

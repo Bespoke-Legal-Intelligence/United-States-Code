@@ -66,7 +66,7 @@ July 27, 1956, ch. 748, §1302(1st sentence), 70 Stat. 694; Aug. 30, 1961, Pub. 
 
 31:724a(1st sentence last proviso)
 
-In subsection (a), before clause (1), the words “out of any money in the Treasury not otherwise appropriated” are omitted as surplus. The words “awards rendered by the Indian Claims Commission” are omitted as executed because under 25:70v the Commission was dissolved and all of its outstanding cases were transferred to the Court of Claims. Under 25:70v–3, judgments on cases transferred to the Court of Claims are judgments under 28:2517 and 2518 and are therefore included under clause (3)(A) of the subsection.
+In subsection (a), before clause (1), the words “out of any money in the Treasury not otherwise appropriated” are omitted as surplus. The words “awards rendered by the Indian Claims Commission” are omitted as executed because under 25:70v the Commissionwas dissolved and all of its outstanding cases were transferred to the Court of Claims. Under 25:70v–3, judgments on cases transferred to the Court of Claims are judgments under 28:2517 and 2518 and are therefore included under clause (3)(A) of the subsection.
 
 In subsection (b), the text of 28:2516(b)(less 1st sentence words after last comma) is omitted as superseded by 31:724a.
 

@@ -72,7 +72,37 @@ To the extent that it would assist in achieving the goals described in subsectio
 
 (Pub. L. 95–118, title XV, §1503, as added Pub. L. 105–277, div. A, §101(d) \[title VI, §610(a)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–224.)
 
+#### Additional Provisions Relating to International Monetary Fund
+
+Pub. L. 106–113, div. B, §1000(a)(5) \[title V, §504\], Nov. 29, 1999, 113 Stat. 1536, 1501A–317, provided that:
+
+“(a)
+
+Publication of IMF Operational Budgets.—The Secretary of the Treasury shall instruct the United States Executive Director at the International Monetary Fund to use the voice, vote, and influence of the United States to urge vigorously the International Monetary Fund to publish the operational budgets of the International Monetary Fund, on a quarterly basis, not later than one year after the end of the period covered by the budget.
+
+“(b)
+
+Report to the Congress Showing Costs of United States Participation in the International Monetary Fund.—The Secretary of the Treasury shall prepare and transmit to the Committees on Banking and Financial Services, on Appropriations, and on International Relations of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs, on Foreign Relations, and on Appropriations of the Senate a quarterly report, which shall be made readily available to the public, on the costs or benefits of United States participation in the International Monetary Fund and which shall detail the costs and benefits to the United States, as well as valuation gains or losses on the United States reserve position in the International Monetary Fund.
+
+“(c)
+
+Continuation of Forgoing of Reimbursement of IMF for Expenses of Administering ESAF.—The Secretary of the Treasury shall instruct the United States Executive Director at the International Monetary Fund to use the voice, vote, and influence of the United States to urge vigorously the International Monetary Fund to continue to forgo reimbursements of the expenses incurred by the International Monetary Fund in administering the Enhanced Structural Adjustment Facility, until the Heavily Indebted Poor Countries Initiative (as defined in section 1623 of the International Financial Institutions Act \[22 U.S.C. 262p–6\]) is terminated.
+
+“(d)
+
+No Gold Sales by International Monetary Fund Without Prior Authorization by the Congress.—(1) \[Amended section 286c of this title.\]
+
+“(2) Not less than 30 days prior to the entrance by the United States into international negotiations for thepurpose of reaching agreement on the disposition of Fund gold whereby resources of the Fund would be used for the special benefit of a single member, or of a particular segment of the membership of the Fund, the Secretary of the Treasury shall consult with the Committees on Banking and Financial Services, on Appropriations, and on International Relations of the House of Representatives and the Committees on Foreign Relations, on Appropriations, and on Banking, Housing and Urban Affairs of the Senate.
+
+“(e)
+
+Annual Report by GAO on Consistency of IMF Practices With Statutory Policies.—The Comptroller General of the United States shall annually prepare and submit to the Congress of the United States a written report on the extent to which the practices of the International Monetary Fund are consistent with the policies of the United States, as expressly contained in Federal law applicable to the International Monetary Fund.”
+
 #### Definitions
 
 The definitions in section 262p–5 of this title apply to this section.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 262r–4 of this title.
 

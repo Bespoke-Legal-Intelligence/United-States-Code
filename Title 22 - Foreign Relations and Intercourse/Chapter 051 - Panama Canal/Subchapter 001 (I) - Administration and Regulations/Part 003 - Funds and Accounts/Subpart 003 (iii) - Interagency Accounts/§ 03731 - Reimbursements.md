@@ -10,7 +10,7 @@ The Department of Defense shall reimburse the Commission for amounts expended by
 
 #### (c) Designation of funds of Department of Defense or any other department or agency of United States to carry out purposes of this subsection
 
-Notwithstanding any other provision of law, funds appropriated (for any fiscal year beginning after September 30, 1979) to or for the use of the Department of Defense, or to any other department or agency of the United States as may be designated by the President to carry out the purposes of this subsection, shall be available for—
+Notwithstanding any other provision of law, funds appropriated (for any fiscal year beginningafter September 30, 1979) to or for the use of the Department of Defense, or to any other department or agency of the United States as may be designated by the President to carry out the purposes of this subsection, shall be available for—
 
 &emsp;(1) conducting the educational and health care activities, including kindergartens and college, carried out by the Canal Zone Government and the Panama Canal Company before October 1, 1979, and
 
@@ -26,7 +26,7 @@ Amounts expended for furnishing services referred to in subsection (c) of this s
 
 &emsp;(2) other persons authorized to receive such services who are eligible to receive them pursuant to the Panama Canal Treaty of 1977 and related agreements.
 
-> The appropriations or funds of any other department or agency of the United States conductingoperations in the Republic of Panama, including the Smithsonian Institution, shall be available for reimbursements on behalf of employees of such department or agency and their dependents.
+> The appropriations or funds of any other department or agency of the United States conducting operations in the Republic of Panama, including the Smithsonian Institution, shall be available for reimbursements on behalf of employees of such department or agency and their dependents.
 
 #### (e) Repealed. Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269
 

@@ -14,7 +14,7 @@ General.—Section 30112(a) of this title does not apply to a motor vehicle impo
 
 &emsp;(1) whose assigned place of employment was outside the United States as of October 31, 1988, and who has not had an assigned place of employment in the United States from that date through the date the vehicle is imported into the United States;
 
-&emsp;(2) who previously had not imported a motor vehicle into the United States under this section or section 108(g) of the National Traffic and Motor Vehicle Safety Act of 1966 or, beforeOctober 31, 1988, under section 108(b)(3) of that Act;
+&emsp;(2) who previously had not imported a motor vehicle into the United States under this section or section 108(g) of the National Traffic and Motor Vehicle Safety Act of 1966 or, before October 31, 1988, under section 108(b)(3) of that Act;
 
 &emsp;(3) who acquired, or made a binding contract to acquire, the vehicle before October 31, 1988;
 
@@ -48,7 +48,7 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §108(g); added Oct. 31, 1988, Pu
 
 15:1397(g) (1st, 2d sentences).
 
-In subsection (b), before clause (1), the words “(including a member of the uniformed services)” are omitted as unnecessary because of the restatement. In clause (1), the words “from that date through the date the vehicle is imported into the United States” are substituted for “that date and the date of entry of such motor vehicle” for clarity and consistency in this chapter. In clause (2), the words “under this section or section 108(g) of the National Traffic and Motor Vehicle Safety Act of 1966” are substituted for “this subsection” to preserve the exemption for motor vehicles imported under the source provisions between October 30, 1988, and the effective date of this restatement. In clause (4), the word “imports” is substituted for “enters” for clarity and consistency in this chapter. In clause (5) the word “satisfies” is substituted for “meets the terms, conditions, and other requirements . . . under” to eliminate unnecessary words.
+In subsection (b), before clause (1), the words “(including a member of the uniformed services)” are omitted as unnecessary because of the restatement. In clause (1), the words “from that date through the date the vehicle is imported into the United States” are substituted for “that date and the date of entry of such motor vehicle” for clarity and consistency in this chapter. In clause (2), the words “under this section or section 108(g) of the National Traffic and Motor Vehicle Safety Act of 1966” are substituted for “this subsection” to preserve the exemption for motor vehicles imported under the source provisions between October 30, 1988, and the effective date of this restatement. Inclause (4), the word “imports” is substituted for “enters” for clarity and consistency in this chapter. In clause (5) the word “satisfies” is substituted for “meets the terms, conditions, and other requirements . . . under” to eliminate unnecessary words.
 
 #### References in Text
 

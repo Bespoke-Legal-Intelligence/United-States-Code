@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(C) All surface lands, including all rights appurtenant to the surface lands, of such parcel shall be vested in the United States in trust for the sole use and benefit of the Northern Cheyenne Tribe, except that surface lands that have been allotted shall be recognized as held in trust for, or owned in fee by (as the case may be), the Northern Cheyenne allottees or their successors in interest.
 
-&emsp;&emsp;(D) The oil, gas, coal, coal methane, and other minerals, including all rights appurtenant to such minerals, of such parcel shall be vested in the United States in trust forthe sole use and benefit of the Northern Cheyenne Tribe.
+&emsp;&emsp;(D) The oil, gas, coal, coal methane, and other minerals, including all rights appurtenant to such minerals, of such parcel shall be vested in the United States in trust for the sole use and benefit of the Northern Cheyenne Tribe.
 
 #### (2) Waivers and releases
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(A) A disclaimer and relinquishment by the Crow Tribe of all right, jurisdiction, title, claim, or interest in the lands and minerals situated within parcel number 3 and parcel number 4.
 
-&emsp;&emsp;(B) A release by the Crow Tribe of all persons and entities, including the United States, from any liability arising from, or related to, the 1891 survey and the subsequent occupancy and use of parcel number 3 and parcel number 4.
+&emsp;&emsp;(B) A release by the Crow Tribe of all persons and entities, including the UnitedStates, from any liability arising from, or related to, the 1891 survey and the subsequent occupancy and use of parcel number 3 and parcel number 4.
 
 #### (d) Exchange of public lands
 
@@ -98,7 +98,7 @@ With respect to the land exchanges with the State of Montana and private landown
 
 &emsp;(A) In carrying out the exchanges with the State of Montana pursuant to paragraph (1), the Secretary shall, during a period of at least 5 years beginning on the date on which the Settlement Agreement becomes effective, give first priority to the exchange of public lands within the State of Montana for State trust lands owned by the State of Montana as of November 2, 1994.
 
-&emsp;(B) Subject to subparagraph (C), if, for any reason, after the expiration of the period specified in subparagraph (A), the exchanges of the State trust lands identified in paragraph (1) have not provided the Crow Tribe with a total of 46,625 acres of surface lands within the boundaries of the existing Crow Indian Reservation (including parcel number 1), the Secretary shall, at the request of, and in cooperation with, the Crow Tribe, develop and implement a program to provide the Crow Tribewith additional land within the Crow Indian Reservation (including parcel number 1) through land exchanges with private landowners.
+&emsp;(B) Subject to subparagraph (C), if, for any reason, after the expiration of the period specified in subparagraph (A), the exchanges of the State trust lands identified in paragraph (1) have not provided the Crow Tribe with a total of 46,625 acres of surface lands within the boundaries of the existing Crow Indian Reservation (including parcel number 1), the Secretary shall, at the request of, and in cooperation with, the Crow Tribe, develop and implement a program to provide the Crow Tribe with additional land within the Crow Indian Reservation (including parcel number 1) through land exchanges with private landowners.
 
 &emsp;(C) The total value of—
 

@@ -2,7 +2,7 @@
 
 #### (a) Reports by heads of laboratories and plants
 
-In the event of a difficulty at a nuclear weapons laboratory or a nuclear weapons production plant that has a significant bearing on confidence in the safety or reliability of a nuclear weapon or nuclear weapon type, the head of the laboratory or plant, as the case may be, shall submit to the Assistant Secretary of Energy for Defense Programs a report on the difficulty. The head of the laboratory or plant shall submit the report as soon as practicable after discovery of the difficulty.
+In the event of a difficulty at a nuclear weapons laboratory or a nuclear weapons production plant that has a significant bearing on confidence in the safety or reliability of a nuclear weapon or nuclear weapon type, the head of the laboratory or plant, as the case may be, shallsubmit to the Assistant Secretary of Energy for Defense Programs a report on the difficulty. The head of the laboratory or plant shall submit the report as soon as practicable after discovery of the difficulty.
 
 #### (b) Transmittal by Assistant Secretary
 
@@ -10,7 +10,11 @@ Not later than 10 days after receipt of a report under subsection (a) of this se
 
 #### (c) Omitted
 
-#### (d) Definitions
+#### (d) Inclusion of reports in annual stockpile certification
+
+Any report submitted pursuant to subsection (a) of this section shall also be included with the decision documents that accompany the annual certification of the safety and reliability of the United States nuclear weapons stockpile which is provided to the President for the year in which such report is submitted.
+
+#### (e) Definitions
 
 In this section:
 
@@ -32,7 +36,7 @@ In this section:
 
 &emsp;&emsp;(D) The Y–12 Plant, Oak Ridge, Tennessee.
 
-(Pub. L. 104–201, div. C, title XXXI, §3159, Sept. 23, 1996, 110 Stat. 2842; Pub. L. 105–85, div. A, title XIII, §1305(c), (d), Nov. 18, 1997, 111 Stat. 1954.)
+(Pub. L. 104–201, div. C, title XXXI, §3159, Sept. 23, 1996, 110 Stat. 2842; Pub. L. 105–85, div. A, title XIII, §1305(c), (d), Nov. 18, 1997, 111 Stat. 1954; Pub. L. 106–65, div. C, title XXXI, §3163(f), Oct. 5, 1999, 113 Stat. 946.)
 
 #### Codification
 
@@ -42,11 +46,17 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
+1999—Subsecs. (d), (e). Pub. L. 106–65 added subsec. (d) and redesignated former subsec. (d) as (e).
+
 1997—Subsec. (b). Pub. L. 105–85 substituted “Not later than 10 days” for “As soon as practicable” and “committees,” for “committees and” and inserted before period at end “, and to the President”.
+
+#### Transfer of Functions
+
+All national security functions and activities performed immediately before Oct. 5, 1999, by nuclear weapons laboratories and production facilities defined in this section, transferred to the Administrator for Nuclear Security of the National Nuclear Security Administration of the Department of Energy, see section 2481 of Title 50, War and National Defense.
 
 #### “Congressional Defense Committees” Defined
 
-Congressional defense committees means the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security (now Committee on Armed Services) and the Committee on Appropriations of the House of Representatives, see section 3 of Pub. L. 104–201, 110 Stat. 2439.
+Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 104–201, 110 Stat. 2439, as amended by Pub. L. 106–65, div. A, title X, §1067(5), Oct. 5, 1999, 113 Stat. 774.
 
 #### Section Referred to in Other Sections
 

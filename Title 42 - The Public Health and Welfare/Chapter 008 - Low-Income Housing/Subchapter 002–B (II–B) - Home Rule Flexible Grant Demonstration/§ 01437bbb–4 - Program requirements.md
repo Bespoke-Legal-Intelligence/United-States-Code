@@ -16,7 +16,7 @@ Notwithstanding section 1437bbb–3(a)(1) of this title, the Secretary may not w
 
 #### (b) Compliance with assistance plan
 
-A participating jurisdiction shall provide assistance using amounts received pursuant tothis subchapter in the manner set forth in the plan of the jurisdiction approved by the Secretary under section 1437bbb–5(a)(2) of this title.
+A participating jurisdiction shall provide assistance using amounts received pursuant to this subchapter in the manner set forth in the plan of the jurisdiction approved by the Secretary under section 1437bbb–5(a)(2) of this title.
 
 (Sept. 1, 1937, ch. 896, title IV, §405, as added Pub. L. 105–276, title V, §561, Oct. 21, 1998, 112 Stat. 2619.)
 

@@ -10,7 +10,7 @@ The President is encouraged to use a portion of the funds made available for the
 
 #### (b) Export promotion, finance, and related activities
 
-The Secretary of Commerce, as Chair of the Trade Promotion Coordination Committee, should, in conjunction with other members of that committee, design and implement programs to provide adequate commercial and technical assistance to United States businesses seeking markets in the independent states of the former Soviet Union, including the following:
+The Secretary of Commerce, as Chair of the Trade Promotion Coordination Committee,should, in conjunction with other members of that committee, design and implement programs to provide adequate commercial and technical assistance to United States businesses seeking markets in the independent states of the former Soviet Union, including the following:
 
 &emsp;(1) Increasing the United States and Foreign Commercial Service presence in the independent states, in particular in the Russian Far Eastern cities of Vladivostok and Khabarovsk.
 

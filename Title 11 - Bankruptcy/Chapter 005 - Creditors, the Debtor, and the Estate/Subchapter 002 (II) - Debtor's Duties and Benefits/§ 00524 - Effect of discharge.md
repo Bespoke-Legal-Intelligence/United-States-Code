@@ -50,7 +50,7 @@
 
 &emsp;(B) Subparagraph (A) shall not apply to the extent that such debt is a consumer debt secured by real property.
 
-(d) In a case concerning an individual, when the court has determined whether to grant ornot to grant a discharge under section 727, 1141, 1228, or 1328 of this title, the court may hold a hearing at which the debtor shall appear in person. At any such hearing, the court shall inform the debtor that a discharge has been granted or the reason why a discharge has not been granted. If a discharge has been granted and if the debtor desires to make an agreement of the kind specified in subsection (c) of this section and was not represented by an attorney during the course of negotiating such agreement, then the court shall hold a hearing at which the debtor shall appear in person and at such hearing the court shall—
+(d) In a case concerning an individual, when the court has determined whether to grant or not to grant a discharge under section 727, 1141, 1228, or 1328 of this title, the court may hold a hearing at which the debtor shall appear in person. At any such hearing, the court shall inform the debtor that a discharge has been granted or the reason why a discharge has not been granted. If a discharge has been granted and if the debtor desires to make an agreement of the kind specified in subsection (c) of this section and was not represented by an attorney during the course of negotiating such agreement, then the court shall hold a hearing at which the debtor shall appear in person and at such hearing the court shall—
 
 &emsp;(1) inform the debtor—
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;(ii) a default under such an agreement; and
 
-&emsp;(2) determine whether the agreement that the debtor desires to make complies with the requirements of subsection (c)(6) of this section, if the consideration for such agreement is based in whole or in part on a consumer debt that is not secured by real property of the debtor.
+&emsp;(2) determine whether the agreement that the debtor desires to make complies with the requirements of subsection (c)(6) of this section, if the consideration for such agreement is based in whole or in part on a consumerdebt that is not secured by real property of the debtor.
 
 (e) Except as provided in subsection (a)(3) of this section, discharge of a debt of the debtor does not affect the liability of any other entity on, or the property of any other entity for, such debt.
 
@@ -284,7 +284,7 @@ Section 111(b) of Pub. L. 103–394 provided that: “Nothing in subsection (a),
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 108, 341, 521, 901 of this title.
+This section is referred to in sections 106, 108, 341, 521, 901 of this title; title 26 section 7433.
 
 <i><sup>1</sup></i><i> See 1986 and 1994 Amendment notes below.</i>
 

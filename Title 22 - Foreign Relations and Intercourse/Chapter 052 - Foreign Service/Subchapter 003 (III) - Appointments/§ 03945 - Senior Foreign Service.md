@@ -46,3 +46,13 @@ Section 119(c) of Pub. L. 99–93 provided that: “The amendments made by subse
 
 Section effective Feb. 15, 1981, with an exception that appointments to the Senior Foreign Service by the Secretary of Commerce shall be excluded in the calculation and limitation in subsec. (b) of this section until Oct. 1, 1985, which was repealed by section 119(b) of Pub. L. 99–93, see section 2403 of Pub. L. 96–465, set out as a note under section 3901 of this title.
 
+#### Placement of Senior Foreign Service Personnel
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §324\], Nov. 29, 1999, 113 Stat. 1536, 1501A–437, provided that: “The Director General of the Foreign Service shall submit a report on the first day of each fiscal quarter to the appropriate congressional committees \[Committee on International Relations of the House of Representatives and Committee on Foreign Relations of the Senate\] containing the following:
+
+&emsp;“(1) The number of members of the Senior Foreign Service.
+
+&emsp;“(2) The number of vacant positions designated for members of the Senior Foreign Service.
+
+&emsp;“(3) The number of members of the Senior Foreign Service who are not assigned to positions.”
+

@@ -172,7 +172,7 @@ The Secretary of Agriculture shall make annual grants to support the renovation 
 
 &emsp;(4) each college eligible to receive funds under the Act of August 30, 1890 (7 U.S.C. 321 et seq.), including Tuskegee Institute, in an amount which is equal to 10 per centum of the funds received by such college under section 3222 of this title.
 
-> Any college or State agricultural experiment station eligible for annual grants under this subsection may elect to defer the receipt of an annual grant for any fiscal year for up to five years: <i>Provided</i>, That the total amounts deferred may not exceed $1,000,000. Application may be made for receipt of deferred grants at any timeduring the five years, subject to the matching funds requirement of this subsection and the availability of appropriations under this subsection.
+> Any college or State agricultural experiment station eligible for annual grants under this subsection may elect to defer the receipt of an annual grant for any fiscal year for up to five years: <i>Provided</i>, That the total amounts deferred may not exceed $1,000,000. Application may be made for receipt of deferred grants at any time during the five years, subject to the matching funds requirement of this subsection and the availability of appropriations under this subsection.
 
 #### (e) Inter-Regional Research Project Number 4
 
@@ -236,7 +236,7 @@ The Federal Advisory Committee Act and title XVIII of the Food and Agriculture A
 
 The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) of this section are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term “sustainable agriculture” has the meaning given that term in section 3103(17) of this title.
 
-(Pub. L. 89–106, §2, Aug. 4, 1965, 79 Stat. 431; Pub. L. 95–113, title XIV, §1414, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1415, Dec. 22, 1981, 95 Stat. 1303; Pub. L. 99–198, title XIV, §1409, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XIV, §1497, title XVI, §§1615, 1616, Nov. 28, 1990, 104 Stat. 3630, 3729, 3732; Pub. L. 102–237, title IV, §401, Dec. 13, 1991, 105 Stat. 1862; Pub. L. 104–66,title I, §1011(v), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §885, Apr. 4, 1996, 110 Stat. 1179; Pub. L. 105–185, title II, §§211, 212, title III, §301(f), title VI, §606(h), June 23, 1998, 112 Stat. 536, 563, 604.)
+(Pub. L. 89–106, §2, Aug. 4, 1965, 79 Stat. 431; Pub. L. 95–113, title XIV, §1414, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1415, Dec. 22, 1981, 95 Stat. 1303; Pub. L. 99–198, title XIV, §1409, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XIV, §1497, title XVI, §§1615, 1616, Nov. 28, 1990, 104 Stat. 3630, 3729, 3732; Pub. L. 102–237, title IV, §401, Dec. 13, 1991, 105 Stat. 1862; Pub. L. 104–66, title I, §1011(v), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §885, Apr. 4, 1996, 110 Stat. 1179; Pub. L. 105–185, title II, §§211, 212, title III, §301(f), title VI, §606(h), June 23, 1998, 112 Stat. 536, 563, 604.)
 
 #### References in Text
 

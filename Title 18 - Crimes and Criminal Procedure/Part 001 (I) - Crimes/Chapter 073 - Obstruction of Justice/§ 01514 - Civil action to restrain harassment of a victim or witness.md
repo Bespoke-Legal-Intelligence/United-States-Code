@@ -1,6 +1,6 @@
 ### §1514. Civil action to restrain harassment of a victim or witness
 
-(a)(1) A United States district court, upon application of the attorney for the Government, shall issue a temporary restraining order prohibiting harassment of a victim or witness in a Federal criminal case if the court finds, from specific facts shown by affidavit or by verified complaint, that there are reasonable grounds to believe that harassment of an identified victim or witness in a Federal criminal case exists or that such order is necessary to prevent and restrain an offense under section 1512 of this title, other than an offense consisting of misleading conduct, or under section 1513 of this title.
+(a)(1) A United States district court, upon application of the attorney for the Government, shall issue a temporary restraining order prohibiting harassment of a victim or witness in a Federal criminal case if the court finds, from specific facts shown by affidavit or by verifiedcomplaint, that there are reasonable grounds to believe that harassment of an identified victim or witness in a Federal criminal case exists or that such order is necessary to prevent and restrain an offense under section 1512 of this title, other than an offense consisting of misleading conduct, or under section 1513 of this title.
 
 (2)(A) A temporary restraining order may be issued under this section without written or oral notice to the adverse party or such party's attorney in a civil action under this section if the court finds, upon written certification of facts by the attorney for the Government, that such notice should not be required and that there is a reasonable probability that the Government will prevail on the merits.
 
@@ -8,7 +8,7 @@
 
 (C) A temporary restraining order issued under this section shall expire at such time, not to exceed 10 days from issuance, as the court directs; the court, for good cause shown before expiration of such order, may extend the expiration date of the order for up to 10 days or for such longer period agreed to by the adverse party.
 
-(D) When a temporary restraining order is issued without notice, the motion for a protective order shall be set down for hearing at the earliest possible time and takes precedence over all matters except older matters of the same character, and when such motion comes on for hearing, if the attorney for the Government does not proceed with the application for a protectiveorder, the court shall dissolve the temporary restraining order.
+(D) When a temporary restraining order is issued without notice, the motion for a protective order shall be set down for hearing at the earliest possible time and takes precedence over all matters except older matters of the same character, and when such motion comes on for hearing, if the attorney for the Government does not proceed with the application for a protective order, the court shall dissolve the temporary restraining order.
 
 (E) If on two days notice to the attorney for the Government or on such shorter notice as the court may prescribe, the adverse party appears and moves to dissolve or modify the temporary restraining order, the court shall proceed to hear and determine such motion as expeditiously as the ends of justice require.
 

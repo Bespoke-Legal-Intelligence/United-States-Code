@@ -22,7 +22,7 @@ In carrying out subsection (a) of this section, the Administrator shall—
 
 &emsp;(5) assemble, publish, and maintain a directory of TDD and other devices used by Federal agencies to comply with such regulations, and publish, in Federal agency directories, access numbers of TDD's and such other devices; and
 
-&emsp;(6) after consultation with the Architectural and Transportation Barriers Compliance Board, adopt the design of a standard logo to signify the presence of a TDD or other device used by a Federal agency to comply with such regulations.
+&emsp;(6) after consultation with the Architectural and Transportation Barriers Compliance Board, adopt the design of a standard logo to signify the presence of a TDD or other deviceused by a Federal agency to comply with such regulations.
 
 #### (c) Congressional oversight
 

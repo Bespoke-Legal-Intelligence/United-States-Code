@@ -30,7 +30,9 @@ July 19, 1954, ch. 536, §§5 (2d, 3d sentences), 17, 68 Stat. 490, 492.
 
 36:517.
 
-In subsection (a), the word “have” is substituted for “maintain at all times”, and the word “authorized” isomitted, for consistency in the revised title and to eliminate unnecessary words. The words “is notice to or service on the corporation” are substituted for “shall be deemed sufficient notice or service upon the corporation” for consistency in the revised title.
+&nbsp;
+
+In subsection (a), the word “have” is substituted for “maintain at all times”, and the word “authorized” is omitted, for consistency in the revised title and to eliminate unnecessary words. The words “is notice to or service on the corporation” are substituted for “shall be deemed sufficient notice or service upon the corporation” for consistency in the revised title.
 
 In subsection (b), the word “precedent” is omitted as unnecessary. The words “with the secretary of state or other designated official” are substituted for “in the office of the Secretary of State, or similar office” for consistency in the revised title. The words “post office” and “authorized” are omitted as unnecessary.
 

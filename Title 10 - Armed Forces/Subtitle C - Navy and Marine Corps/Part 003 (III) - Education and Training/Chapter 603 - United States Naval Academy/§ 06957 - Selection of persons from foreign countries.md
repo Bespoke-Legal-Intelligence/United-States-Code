@@ -8,7 +8,7 @@
 
 (2) Each foreign country from which a midshipman is permitted to receive instruction at the Academy under this section shall reimburse the United States for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1) unless a written waiver of reimbursement is granted by the Secretary of Defense. The Secretary of the Navy shall prescribe the rates for reimbursement under this paragraph, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a midshipman appointed from the United States.
 
-(3) The amount of reimbursement waived under paragraph (2) may not exceed 35 percent of the per-person reimbursement amount otherwise required to be paid by a foreign country under such paragraph, except in the case of not more than five persons receiving instruction at the Naval Academy under this section at any one time.
+(3) The amount of reimbursement waived under paragraph (2) may not exceed 50 percent of the per-person reimbursement amount otherwise required to be paid by a foreign country under such paragraph, except in the case of not more than 20 persons receiving instruction at the Naval Academy under this section at any one time.
 
 (c)(1) Except as the Secretary of the Navy determines, a person receiving instruction under this section is subject to the same regulations governing admission, attendance, discipline, resignation, discharge, dismissal, and graduation as a midshipman at the Academy appointed from the United States. The Secretary may prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a midshipman at the Academy appointed from the United States.
 
@@ -16,7 +16,7 @@
 
 (d) A person receiving instruction under this section is not subject to section 6958(d) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 431; Pub. L. 98–94, title X, §1004(b)(1), Sept. 24, 1983, 97 Stat. 658; Pub. L. 105–85, div. A, title V, §§541(b), 543(b), Nov. 18, 1997, 111 Stat. 1740, 1743.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 431; Pub. L. 98–94, title X, §1004(b)(1), Sept. 24, 1983, 97 Stat. 658; Pub. L. 105–85, div. A, title V, §§541(b), 543(b), Nov. 18, 1997, 111 Stat. 1740, 1743; Pub. L. 106–65, div. A, title V, §534(b), Oct. 5, 1999, 113 Stat. 605.)
 
 Historical and Revision Notes
 
@@ -54,6 +54,8 @@ In subsection (d) the words “rules and” and “any office or position” are
 
 #### Amendments
 
+1999—Subsec. (b)(3). Pub. L. 106–65 substituted “50 percent” for “35 percent” and “20 persons” for “five persons”.
+
 1997—Subsec. (b)(2). Pub. L. 105–85, §543(b)(1), substituted “, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a midshipman appointed from the United States.” for period at end.
 
 Subsec. (b)(3). Pub. L. 105–85, §543(b)(2), added par. (3).
@@ -69,6 +71,10 @@ Subsec. (b). Pub. L. 98–94 amended subsec. (b) generally, redesignating former
 Subsec. (c). Pub. L. 98–94 amended subsec. (c) generally, designating first sentence of former subsec. (d) as par. (1) and in par. (1), as so designated, substituted “as a midshipman at the Academy appointed from the United States” for “as a midshipman”, and inserted sentence authorizing the Secretary to prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a midshipman at the Academy appointed from the United States; and designating the second sentence of former subsec. (d) as par. (2) and in par. (2), as so designated, substituted “A person” for “However, a person” and “an armed force of the United States” for “the Navy or the Marine Corps”. Former subsec. (c) was redesignated (b)(1).
 
 Subsec. (d). Pub. L. 98–94, as part of the general amendment of this section, omitted subsec. (d) and incorporated its provisions into subsec. (c).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–65 applicable with respect to students from a foreign country entering the United States Military Academy, Naval Academy, or Air Force Academy on or after May 1, 1999, see section 534(d) of Pub. L. 106–65, set out as a note under section 4344 of this title.
 
 #### Effective Date of 1997 Amendment
 

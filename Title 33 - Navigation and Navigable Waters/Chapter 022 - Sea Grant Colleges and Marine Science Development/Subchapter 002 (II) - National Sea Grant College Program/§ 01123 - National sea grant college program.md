@@ -52,7 +52,7 @@ The national sea grant college program shall consist of the financial assistance
 
 &emsp;(C) advise the Secretary on the designation of sea grant colleges and sea grant institutes, and, if appropriate, on the termination or suspension of any such designation; and
 
-&emsp;(D) encourage the establishment and growth of sea grant programs, and cooperation and coordination with other Federal activities infields related to ocean, coastal, and Great Lakes resources.
+&emsp;(D) encourage the establishment and growth of sea grant programs, and cooperation and coordination with other Federal activities in fields related to ocean, coastal, and Great Lakes resources.
 
 (3) With respect to sea grant colleges and sea grant institutes, the Director shall—
 
@@ -132,7 +132,7 @@ Subsec. (i)(4)(A) to (C). Pub. L. 93–73, §1(5), substituted “Secretary” f
 
 #### Notice of Reorganization
 
-Pub. L. 105–160, §9(d), Mar. 6, 1998, 112 Stat. 27, provided that: “The Secretary of Commerce shall provide notice to the Committees on Science, Resources, and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, not later than 45 days before any major reorganization of any program,project, or activity of the National Sea Grant College Program.”
+Pub. L. 105–160, §9(d), Mar. 6, 1998, 112 Stat. 27, provided that: “The Secretary of Commerce shall provide notice to the Committees on Science, Resources, and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, not later than 45 days before any major reorganization of any program, project, or activity of the National Sea Grant College Program.”
 
 #### Section Referred to in Other Sections
 

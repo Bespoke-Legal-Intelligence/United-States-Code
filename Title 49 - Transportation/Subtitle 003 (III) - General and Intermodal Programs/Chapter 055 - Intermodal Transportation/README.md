@@ -32,6 +32,10 @@
 
 1998—Pub. L. 105–178, title V, §§5110(b), 5111(b), June 9, 1998, 112 Stat. 444, 445, added items 5505 and 5506.
 
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 113 of this title.
+
 
 ---
 

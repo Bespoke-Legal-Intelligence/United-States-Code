@@ -6,5 +6,5 @@ No amount appropriated to the National Aeronautics and Space Administration in t
 
 #### Codification
 
-Section was enacted as part of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1992, and not as part of the National Aeronautics and Space Act of 1958 which is classified principally to this chapter.
+Section was enacted as part of the Departments of Veterans Affairs and Housing and Urban Development,and Independent Agencies Appropriations Act, 1992, and not as part of the National Aeronautics and Space Act of 1958 which is classified principally to this chapter.
 

@@ -36,6 +36,8 @@ Aug. 27, 1958, Pub. L. 85–769, §§7, 8, 72 Stat. 925.
 
 36:858.
 
+&nbsp;
+
 In subsection (a)(1), the words “from time to time” are omitted as unnecessary. The words “except that the directors of Blinded Veterans Association, Incorporated, on August 27, 1958 shall be the first directors of the corporation” are omitted as executed and obsolete.
 
 In subsection (a)(4), the word “duly” is omitted as unnecessary.

@@ -332,6 +332,10 @@
 | (a) | Information available to public. |
 | (b) | Disclosure of fact of examination or investigation; exceptions. |
 | (c) | Disclosure by investment adviser of identity of clients. |
+| 80b–10a. | Consultation. |
+| (a) | Examination results and other information. |
+| (b) | Effect on other authority. |
+| (c) | Definition. |
 | 80b–11. | Rules, regulations, and orders of Commission. |
 | (a) | Power of Commission. |
 | (b) | Effective date of regulations. |

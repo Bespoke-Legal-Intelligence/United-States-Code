@@ -26,7 +26,9 @@ Designated Entities.—(1) The Secretary of Defense, and the Secretary of Transp
 
 &emsp;(C) An entity that accredits service academies and other schools of the armed forces (including regional accrediting agencies).
 
-&emsp;(D) An entity that (i) regulates the performance, standards, and policies of military health care (including health care associations and professional societies), and (ii) has designated the position or capacity in that entity in which a member of the armed forces may serve if authorized under subsection (a).
+&emsp;(D) An entity that (i) regulates the performance, standards, and policies of militaryhealth care (including health care associations and professional societies), and (ii) has designated the position or capacity in that entity in which a member of the armed forces may serve if authorized under subsection (a).
+
+&emsp;(E) An entity that, operating in a foreign nation where United States military personnel are serving at United States military activities, promotes understanding and tolerance between such personnel (and their families) and the citizens of that host foreign nation through programs that foster social relations between those persons.
 
 (c)
 
@@ -36,11 +38,15 @@ Publication of Designated Entities and of Authorized Persons.—A designation of
 
 Regulations.—The Secretary of Defense, and the Secretary of Transportation in the case of the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 105–85, div. A, title V, §593(a)(1), Nov. 18, 1997, 111 Stat. 1762.)
+(Added Pub. L. 105–85, div. A, title V, §593(a)(1), Nov. 18, 1997, 111 Stat. 1762; amended Pub. L. 106–65, div. A, title V, §583, Oct. 5, 1999, 113 Stat. 634.)
 
 #### Prior Provisions
 
 A prior section 1033, act Aug. 10, 1956, ch. 1041, 70A Stat. 80, related to Reserves continuing to accept compensation while on active duty that they were receiving prior to being ordered to active duty, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1662(g)(2), 1691, Oct. 5, 1994, 108 Stat. 2996, 3026, eff. Dec. 1, 1994.
+
+#### Amendments
+
+1999—Subsec. (b)(3)(E). Pub. L. 106–65 added subpar. (E).
 
 #### Section Referred to in Other Sections
 

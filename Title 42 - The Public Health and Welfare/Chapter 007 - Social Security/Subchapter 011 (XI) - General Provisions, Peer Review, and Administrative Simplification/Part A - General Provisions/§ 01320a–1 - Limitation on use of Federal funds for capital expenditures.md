@@ -14,7 +14,7 @@ The Secretary, after consultation with the Governor (or other chief executive of
 
 &emsp;(3) establish and maintain procedures pursuant to which a person proposing any such capital expenditure may appeal a recommendation by the designated agency and will be granted an opportunity for a fair hearing by such agency or person other than the designated agency as the Governor (or other chief executive officer) may designate to hold such hearings,
 
-> whenever and to the extent that the findings of such designated agency or any such other agency indicate that any such expenditure is not consistent with the standards, criteria, or plans developed pursuant to the Public Health Service Act \[42 U.S.C. 201 et seq.\] to meet the need for adequate health care facilities in the area covered by the plan or plans so developed.
+> whenever and to the extent that the findings of such designated agency or any such other agency indicate that any such expenditure is not consistent with the standards, criteria, or plans developed pursuant to the Public Health ServiceAct \[42 U.S.C. 201 et seq.\] to meet the need for adequate health care facilities in the area covered by the plan or plans so developed.
 
 #### (c) Manner of payment to States for carrying out agreement
 

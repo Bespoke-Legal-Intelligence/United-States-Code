@@ -52,7 +52,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Annex
 
-The Annex of Proclamation 6914, which amended the Harmonized Tariff Schedule of the United States, is not set out under this section because the Harmonized Tariff Schedule is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Annex of Proclamation 6914, which amended the Harmonized Tariff Schedule of the United States, is notset out under this section because the Harmonized Tariff Schedule is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Section Referred to in Other Sections
 

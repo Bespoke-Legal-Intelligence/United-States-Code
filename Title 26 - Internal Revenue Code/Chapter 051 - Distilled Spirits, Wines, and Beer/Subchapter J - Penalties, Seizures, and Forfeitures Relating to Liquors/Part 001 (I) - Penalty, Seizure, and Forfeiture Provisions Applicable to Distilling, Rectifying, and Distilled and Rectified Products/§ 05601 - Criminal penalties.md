@@ -40,7 +40,7 @@ Any person who—
 
 &emsp;except as otherwise provided in this chapter, uses distilled spirits in any process of manufacture unless such spirits—
 
-&emsp;&emsp;(A) have been produced in the United States by a distiller authorized by law toproduce distilled spirits and withdrawn in compliance with law; or
+&emsp;&emsp;(A) have been produced in the United States by a distiller authorized by law to produce distilled spirits and withdrawn in compliance with law; or
 
 &emsp;&emsp;(B) have been imported (or otherwise brought into the United States) and withdrawn in compliance with law; or
 
@@ -54,7 +54,7 @@ Any person who—
 
 #### (11) Unlawful purchase, receipt, or processing of distilled spirits
 
-&emsp;purchases, receives, or processes any distilled spirits, knowing or having reasonable grounds to believe that any tax due on such spirits has not been paid or determined as required by law; or
+&emsp;purchases, receives, or processes any distilled spirits, knowing or having reasonablegrounds to believe that any tax due on such spirits has not been paid or determined as required by law; or
 
 #### (12) Unlawful removal or concealment of distilled spirits
 
@@ -130,7 +130,7 @@ Subsec. (b). Pub. L. 94–455, §1905(a)(22), struck out par. (1) relating to pr
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–223 effective on first day of first calendar month beginning more than 60 days afterApr. 2, 1980, see section 232(h)(3) of Pub. L. 96–223, set out as an Effective Date note under section 5181 of this title.
+Amendment by Pub. L. 96–223 effective on first day of first calendar month beginning more than 60 days after Apr. 2, 1980, see section 232(h)(3) of Pub. L. 96–223, set out as an Effective Date note under section 5181 of this title.
 
 #### Effective Date of 1979 Amendment
 

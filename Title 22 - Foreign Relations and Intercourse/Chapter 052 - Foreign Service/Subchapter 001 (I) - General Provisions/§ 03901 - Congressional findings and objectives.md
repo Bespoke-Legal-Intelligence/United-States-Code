@@ -68,7 +68,7 @@ Pub. L. 105–382, §1, Nov. 13, 1998, 112 Stat. 3406, provided that: “This Ac
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–335, title IV, §401(a), June 6, 1986, 100 Stat. 609, provided that: “This title \[enacting sections 4068 and 4071 to 4071k of this title, amending sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of this title, and enacting provisions set out as a note under section 4046 of this title\] may be cited as the ‘Foreign Service Pension System Act of 1986’.”
+Pub. L. 99–335, title IV, §401(a), June 6, 1986, 100 Stat. 609, provided that: “This title \[enacting sections 4068 and 4071 to 4071k of this title, amending sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067of this title, and enacting provisions set out as a note under section 4046 of this title\] may be cited as the ‘Foreign Service Pension System Act of 1986’.”
 
 #### Short Title
 
@@ -192,13 +192,13 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 12293. Administration of Foreign Service
 
-Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, as amended by Ex. Ord. No. 12363, May 21, 1982, 47 F.R. 22497; Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12536, Oct. 9, 1985, 50 F.R. 41477, provided:
+Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, as amended by Ex. Ord. No. 12363, May 21, 1982, 47 F.R. 22497; Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12536, Oct. 9, 1985, 50 F.R. 41477; Ex. Ord. No. 13118, §10(4), Mar. 31, 1999, 64 F.R. 16598, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Foreign Service Act of 1980 (94 Stat. 2071, 22 U.S.C. 3901 et seq.), Section 202 of the Revised Statutes (22 U.S.C. 2656), and Section 301 of Title 3 of the United States Code, and in order to provide for the administration of the Foreign Service of the United States, it is hereby ordered as follows:
 
 Section 1. There are hereby delegated to the Secretary of State those functions vested in the President by Sections 205, 401(a), 502(c), 613, and 801 of the Foreign Service Act of 1980, hereinafter referred to as the Act (22 U.S.C. 3925, 3942(a)(1), 3892(c) \[3982(c)\], 4013, and 4041).
 
-Sec. 2. The Secretary of State shall, in accord with Section 205 of the Act (22 U.S.C. 3925), consult with the Secretary of Agriculture, the Secretary of Commerce, the Director of the United States Information Agency,the Director of the United States International Development Cooperation Agency, the Director of the Office of Personnel Management, and the Director of the Office of Management and Budget, in order to ensure compatibility between the Foreign Service personnel system and other government personnel systems.
+Sec. 2. The Secretary of State shall, in accord with Section 205 of the Act (22 U.S.C. 3925), consult with the Secretary of Agriculture, the Secretary of Commerce, the Director of the United States Information Agency, the Administrator of the United States Agency for International Development, the Director of the Office of Personnel Management, and the Director of the Office of Management and Budget, in order to ensure compatibility between the Foreign Service personnel system and other government personnel systems.
 
 Sec. 3. The Secretary of State shall make recommendations to the President through the Director of the Office of Management and Budget whenever action is appropriate under Section 827 of the Act (22 U.S.C. 4067) to maintain existing conformity between the Civil Service Retirement and Disability System and the Foreign Service Retirement and Disability System.
 
@@ -258,7 +258,7 @@ Sec. 9. (a) Pursuant to Section 210 of the Act there is established in the Depar
 
 (2) United States Information Agency, two members, one of whom must be a career member of the Senior Foreign Service;
 
-(3) United States International Development Cooperation Agency, two members, one of whom must be a career member of the Senior Foreign Service;
+(3) United States Agency for International Development, two members, one of whom must be a career member of the Senior Foreign Service;
 
 (4) Department of Agriculture, two members, one of whom must be a career member of the Senior Foreign Service;
 
@@ -272,7 +272,7 @@ Sec. 9. (a) Pursuant to Section 210 of the Act there is established in the Depar
 
 (9) Equal Employment Opportunity Commission, one member;
 
-(c) The membership of the Board shall be selected from among officials who are knowledgeable in matters concerning the management of the Foreign Service. Except for the career members of the Senior Foreign Service from the Department of Agriculture, the Department of Commerce, the United States Information Agency, and the United States International Development Cooperation Agency, the members of the Board shall be selected from among those who have the rank of Assistant Secretary or higher or a position of comparable responsibility.
+(c) The membership of the Board shall be selected from among officials who are knowledgeable in mattersconcerning the management of the Foreign Service. Except for the career members of the Senior Foreign Service from the Department of Agriculture, the Department of Commerce, the United States Information Agency, and the United States Agency for International Development, the members of the Board shall be selected from among those who have the rank of Assistant Secretary or higher or a position of comparable responsibility.
 
 (d) The Secretary of State may from time to time request the heads of other agencies to designate representatives to participate in the functions of the Board on a regular or occasional basis.
 
@@ -284,11 +284,7 @@ Sec. 10. Pursuant to Section 202(a)(2)(B) and (a)(3)(B) of the Act (22 U.S.C. 39
 
 (b) The United States Travel and Tourism Administration, and the International Trade Administration of the Department of Commerce, not to exceed 30 positions without the prior approval of the Director of the Office of Personnel Management, and providing that assignments to such positions be administered consistent with policies of the Foreign Commercial Service established under Executive Order No. 12188 \[19 U.S.C. 2171 note\].
 
-Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
-
-\[For abolition of United States International Development Cooperation Agency (other than Agency for International Development and Overseas Private Investment Corporation), transfer of functions, and treatment of references thereto, see sections 6561, 6562, and 6571 of this title.\]
 
 #### Section Referred to in Other Sections
 

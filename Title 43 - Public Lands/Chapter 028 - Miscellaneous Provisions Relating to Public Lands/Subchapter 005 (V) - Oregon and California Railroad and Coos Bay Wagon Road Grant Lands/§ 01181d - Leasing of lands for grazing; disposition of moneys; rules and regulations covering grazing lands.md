@@ -6,5 +6,5 @@ The Secretary of the Interior is authorized, in his discretion, to lease for gra
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1181e, 1181f, 1181f–4, 1181i, 1735, 1751, 1752 of this title; title 16 section 4804; title 30 sections 601, 603.
+This section is referred to in sections 1181e, 1181f, 1181f–4, 1181i, 1735, 1751, 1752 of this title; title 30 sections 601, 603.
 

@@ -28,7 +28,7 @@
 
 A recipient of funds under this section shall use such funds for—
 
-&emsp;(1) sustained and intensive high-quality professional development for teams of teachers, or teachers, and, where appropriate, pupilservices personnel and administrators from individual schools or school districts;
+&emsp;(1) sustained and intensive high-quality professional development for teams of teachers, or teachers, and, where appropriate, pupil services personnel and administrators from individual schools or school districts;
 
 &emsp;(2) other sustained and intensive professional development activities related to achievement of the State plan for professional development; and
 

@@ -2,11 +2,11 @@
 
 #### Amendments
 
-1998—Pub. L. 105–178, title IV, §4004(c), June 9, 1998, 112 Stat. 400, inserted “AND OTHER COMMERCIALMOTOR VEHICLE PROGRAMS” after “GRANTS” in subchapter heading.
+1998—Pub. L. 105–178, title IV, §4004(c), June 9, 1998, 112 Stat. 400, inserted “AND OTHER COMMERCIAL MOTOR VEHICLE PROGRAMS” after “GRANTS” in subchapter heading.
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 31114, 31115 of this title.
+This subchapter is referred to in sections 31114, 31115 of this title; title 23 section 110.
 
 
 ---

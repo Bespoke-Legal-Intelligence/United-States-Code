@@ -6,7 +6,7 @@ Commencement of Sentence.—A sentence to a term of imprisonment commences on th
 
 (b)
 
-Credit for Prior Custody.—A defendant shall be given credit toward the service of a term of imprisonment for any time he has spent in official detention prior to the date the sentence commences—
+Credit for Prior Custody.—A defendant shall be given credit toward the service of a term of imprisonment for any time he has spentin official detention prior to the date the sentence commences—
 
 &emsp;(1) as a result of the offense for which the sentence was imposed; or
 

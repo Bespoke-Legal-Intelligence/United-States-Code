@@ -64,7 +64,7 @@
 
 #### (II) Record of determination
 
-&emsp;&emsp;&emsp;&emsp;The officer shall prepare a written record of a determination under subclause (I). Such record shall include asummary of the material facts as stated by the applicant, such additional facts (if any) relied upon by the officer, and the officer's analysis of why, in the light of such facts, the alien has not established a credible fear of persecution. A copy of the officer's interview notes shall be attached to the written summary.
+&emsp;&emsp;&emsp;&emsp;The officer shall prepare a written record of a determination under subclause (I). Such record shall include a summary of the material facts as stated by the applicant, such additional facts (if any) relied upon by the officer, and the officer's analysis of why, in the light of such facts, the alien has not established a credible fear of persecution. A copy of the officer's interview notes shall be attached to the written summary.
 
 #### (III) Review of determination
 
@@ -164,7 +164,7 @@
 
 #### (2) Authority to order detention and delivery of arriving aliens
 
-&emsp;Immigration officers are authorized to order an owner, agent, master, commanding officer, person in charge, purser, or consignee of a vessel or aircraft bringing an alien (except an alien crewmember) to the United States—
+&emsp;Immigration officers are authorized to order an owner, agent, master, commanding officer,person in charge, purser, or consignee of a vessel or aircraft bringing an alien (except an alien crewmember) to the United States—
 
 &emsp;&emsp;(A) to detain the alien on the vessel or at the airport of arrival, and
 
@@ -232,7 +232,7 @@ Study.—The Comptroller General shall conduct a study on the implementation of 
 
 “(2)
 
-Report.—By not later than 18 months after the date of the enactment of this Act \[Sept. 30, 1996\], the Comptroller General shall submit to the Committees on the Judiciary of the House of Representatives and the Senate a report on the study conducted under paragraph (1).”
+Report.—By not later than 18 months after the date of the enactment of this Act \[Sept. 30, 1996\], the Comptroller General shall submit to the Committeeson the Judiciary of the House of Representatives and the Senate a report on the study conducted under paragraph (1).”
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 
@@ -268,5 +268,5 @@ Definition of the term—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1155, 1158, 1159, 1182, 1227, 1229a, 1229c, 1231, 1252, 1326, 1368 of this title.
+This section is referred to in sections 1155, 1158, 1159, 1182, 1227, 1229a, 1229c, 1231, 1252, 1326, 1368 of this title; title 22 sections 6473, 6474.
 

@@ -12,7 +12,7 @@
 - [&sect; 00608b - Marketing agreements; exemption from anti-trust laws; inspection requirements for handlers not subject to agreements](%C2%A7%2000608b%20-%20Marketing%20agreements%3B%20exemption%20from%20anti-trust%20laws%3B%20inspection%20requirements%20for%20handlers%20not%20subject%20to%20agreements.md)
 - [&sect; 00608c - Orders regulating handling of commodity](%C2%A7%2000608c%20-%20Orders%20regulating%20handling%20of%20commodity.md)
 - [&sect; 00608c&#8211;1 - Repealed. June 29, 1945, ch. 196, 59 Stat. 263](%C2%A7%2000608c%E2%80%931%20-%20Repealed.%20June%2029%2C%201945%2C%20ch.%20196%2C%2059%20Stat.%20263.md)
-- [&sect; 00608d - Books and records; disclosure of information; notification of Congressional committees](%C2%A7%2000608d%20-%20Books%20and%20records%3B%20disclosure%20of%20information%3B%20notification%20of%20Congressional%20committees.md)
+- [&sect; 00608d - Books and records](%C2%A7%2000608d%20-%20Books%20and%20records.md)
 - [&sect; 00608e - Repealed. July 3, 1948, ch. 827, title III, &sect;302(d), 62 Stat. 1258](%C2%A7%2000608e%20-%20Repealed.%20July%203%2C%201948%2C%20ch.%20827%2C%20title%20III%2C%20%C2%A7302%28d%29%2C%2062%20Stat.%201258.md)
 - [&sect; 00608e&#8211;1 - Import prohibitions on specified foreign produce](%C2%A7%2000608e%E2%80%931%20-%20Import%20prohibitions%20on%20specified%20foreign%20produce.md)
 - [&sect; 00608f - Repealed. Pub. L. 89&#8211;106, &sect;9, Aug. 4, 1965, 79 Stat. 432](%C2%A7%2000608f%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93106%2C%20%C2%A79%2C%20Aug.%204%2C%201965%2C%2079%20Stat.%20432.md)
@@ -41,3 +41,4 @@
 - [&sect; 00624 - Limitation on imports; authority of President](%C2%A7%2000624%20-%20Limitation%20on%20imports%3B%20authority%20of%20President.md)
 - [&sect; 00625 - Review of Burley tobacco imports by Secretary of Agriculture; price-support levels; excessive stocks](%C2%A7%2000625%20-%20Review%20of%20Burley%20tobacco%20imports%20by%20Secretary%20of%20Agriculture%3B%20price-support%20levels%3B%20excessive%20stocks.md)
 - [&sect; 00626 - Import inventory](%C2%A7%2000626%20-%20Import%20inventory.md)
+- [&sect; 00627 - Dairy forward pricing pilot program](%C2%A7%2000627%20-%20Dairy%20forward%20pricing%20pilot%20program.md)

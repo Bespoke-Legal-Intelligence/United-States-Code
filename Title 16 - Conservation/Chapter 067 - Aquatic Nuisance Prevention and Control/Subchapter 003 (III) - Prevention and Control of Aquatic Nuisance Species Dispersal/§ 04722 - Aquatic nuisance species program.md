@@ -50,7 +50,7 @@ The Task Force shall establish and implement monitoring measures, within the pro
 
 #### (1) In general
 
-&emsp;The Task Force may develop cooperative efforts, within the program established under subsection (a) of this section, to control established aquatic nuisance species to minimize the risk of harm to the environment and the public health and welfare. For purposes of this chapter, control efforts include eradication of infestations, reductions of populations, development of means of adapting human activities and public facilities to accommodate infestations, and prevention of the spread of aquatic nuisance species from infested areas. Such control efforts shall be developed in consultation with affected Federal agencies, States, Indian Tribes, local governments, interjurisdictional organizations, and other appropriate entities. Control actions authorized by this section shall be based on the best available scientific information and shall be conducted in an environmentally sound manner.
+&emsp;The Task Force may develop cooperative efforts, within the program established under subsection (a) of this section, to control established aquatic nuisance species to minimize the risk of harm to the environment and the public health and welfare. For purposes of this chapter, control efforts include eradication of infestations, reductions of populations, development of means of adapting human activities and public facilities to accommodate infestations, and prevention of the spread of aquatic nuisance species from infested areas. Such control efforts shall be developed in consultation with affected Federal agencies, States, Indian Tribes, local governments, interjurisdictional organizations, and other appropriate entities. Control actions authorized by this section shall be based on the best availablescientific information and shall be conducted in an environmentally sound manner.
 
 #### (2) Decisions
 
@@ -80,7 +80,7 @@ The Task Force shall establish and implement monitoring measures, within the pro
 
 #### (3) Grants for research
 
-&emsp;The Task Force shall allocate funds authorized under this chapter for competitive research grants to study all aspects of aquaticnuisance species, which shall be administered through the National Sea Grant College Program and the Cooperative Fishery and Wildlife Research Units. Grants shall be conditioned to ensure that any recipient of funds follows the protocol established under paragraph (2) of this subsection.
+&emsp;The Task Force shall allocate funds authorized under this chapter for competitive research grants to study all aspects of aquatic nuisance species, which shall be administered through the National Sea Grant College Program and the Cooperative Fishery and Wildlife Research Units. Grants shall be conditioned to ensure that any recipient of funds follows the protocol established under paragraph (2) of this subsection.
 
 #### (g) Technical assistance
 
@@ -148,7 +148,7 @@ The Task Force shall, with the program developed under subsection (a) of this se
 
 #### (4) Contributions
 
-&emsp;To the extent allowable by law, in carrying out the studies under paragraphs (2) and (3),the Administrator of the Environmental Protection Agency and the Secretary of the Army may enter into an agreement with an interested party under which that party provides in kind or monetary contributions for the study.
+&emsp;To the extent allowable by law, in carrying out the studies under paragraphs (2) and (3), the Administrator of the Environmental Protection Agency and the Secretary of the Army may enter into an agreement with an interested party under which that party provides in kind or monetary contributions for the study.
 
 #### (5) Technical assistance
 
@@ -182,7 +182,7 @@ This chapter, referred to in subsecs. (e)(1) and (f)(3), was in the original “
 
 Subsec. (f)(1)(A). Pub. L. 104–332, §2(e)(3)(A), inserted “and impacts” after “economic risks”.
 
-Subsec. (i). Pub. L. 104–332, §2(e)(3)(B), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and former subpars. (A) to (D) of par. (1) as cls. (i) to (iv), respectively, of subpar. (A), inserted new par. (1) heading, substituted “The Assistant Secretary, in consultation with the Task Force, shall develop a program of research, technology development, and demonstration for the environmentally sound control of zebra mussels in and around public facilities.” for “The Assistant Secretary, in consultation with the Task Force, shall develop a program of research and technology development for the environmentally sound control of zebra mussels in and around public facilities.” in subpar. (B), and added subpar. (C) and pars. (2) to (5).
+Subsec. (i). Pub. L. 104–332, §2(e)(3)(B), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and former subpars. (A) to (D) of par. (1) as cls. (i) to (iv), respectively, of subpar. (A), inserted new par. (1) heading, substituted “The Assistant Secretary, in consultation with the Task Force, shall develop a program ofresearch, technology development, and demonstration for the environmentally sound control of zebra mussels in and around public facilities.” for “The Assistant Secretary, in consultation with the Task Force, shall develop a program of research and technology development for the environmentally sound control of zebra mussels in and around public facilities.” in subpar. (B), and added subpar. (C) and pars. (2) to (5).
 
 Subsec. (j)(1). Pub. L. 104–332, §2(e)(4), substituted “The Director, the Secretary,” for “Not later than 18 months after November 29, 1990, the Director”.
 

@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 1 year after November 28, 1990, the Secretary shall complete a review of regulations and standards (in effect on November 28, 1990) for the approval of anautomated data processing and information retrieval system maintained by a State (hereinafter in this section referred to as a “system”) to determine the extent to which the regulations and standards contribute to a more effective and efficient program.
+&emsp;&emsp;Not later than 1 year after November 28, 1990, the Secretary shall complete a review of regulations and standards (in effect on November 28, 1990) for the approval of an automated data processing and information retrieval system maintained by a State (hereinafter in this section referred to as a “system”) to determine the extent to which the regulations and standards contribute to a more effective and efficient program.
 
 #### (B) Revision of regulations
 
@@ -22,7 +22,7 @@
 
 #### (E) Cost effectiveness
 
-&emsp;&emsp;Criteria for the approval of a system under section 2025(g) of this title shall include the cost effectiveness of the proposed system. On implementation of the approved system, a State shall document the actual cost and benefits of the system.
+&emsp;&emsp;Criteria for the approval of a system under section 2025(g) of this title shall include the cost effectiveness of the proposed system. Onimplementation of the approved system, a State shall document the actual cost and benefits of the system.
 
 #### (2) Operational reviews
 

@@ -1,6 +1,6 @@
 ### §2315. Sale or receipt of stolen goods, securities, moneys, or fraudulent State tax stamps
 
-Whoever receives, possesses, conceals, stores, barters, sells, or disposes of any goods, wares, or merchandise, securities, or money of the value of $5,000 or more, or pledges or accepts as security for a loan any goods, wares, or merchandise, or securities, of the value of $500 or more, which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken, knowing the same to have been stolen, unlawfully converted, or taken; or
+Whoever receives, possesses, conceals, stores, barters, sells, or disposes of any goods, wares, or merchandise, securities, or money of the value of $5,000 or more, or pledges or accepts as security for a loan any goods, wares, or merchandise, or securities, of the value of $500 or more, which have crossed a State or United States boundary after being stolen, unlawfully converted, ortaken, knowing the same to have been stolen, unlawfully converted, or taken; or
 
 Whoever receives, possesses, conceals, stores, barters, sells, or disposes of any falsely made, forged, altered, or counterfeited securities or tax stamps, or pledges or accepts as security for a loan any falsely made, forged, altered, or counterfeited securities or tax stamps, moving as, or which are a part of, or which constitute interstate or foreign commerce, knowing the same to have been so falsely made, forged, altered, or counterfeited; or
 
@@ -28,7 +28,7 @@ Minor changes were made in phraseology.
 
 1990—Pub. L. 101–647 inserted par. at end defining “State”.
 
-1988—Pub. L. 100–690, §7048, substituted “moving as, or which are a part of, or which constitute interstate or foreign commerce” for “which have crossed a State orUnited States boundary after being stolen, unlawfully converted, or taken” in second par.
+1988—Pub. L. 100–690, §7048, substituted “moving as, or which are a part of, or which constitute interstate or foreign commerce” for “which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken” in second par.
 
 Pub. L. 100–690, §7057(b), struck out “or by a bank or corporation of any foreign country” after “foreign government” in last par. and inserted at end “This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.”
 

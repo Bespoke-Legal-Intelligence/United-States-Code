@@ -58,33 +58,49 @@ Sept. 21, 1950, ch. 975, title II, §205(c), as added Nov. 8, 1978, Pub. L. 95�
 
 36:395(c)(1) (2d sentence).
 
+&nbsp;
+
 220529(b)(2)
 
 36:395(c)(1) (last sentence).
+
+&nbsp;
 
 220529(b)(3)
 
 36:395(c)(4).
 
+&nbsp;
+
 220529(b)(4)
 
 36:395(c)(3) (1st sentence).
+
+&nbsp;
 
 220529(b)(5)
 
 36:395(c)(3) (2d, last sentences).
 
+&nbsp;
+
 220529(c)
 
 36:395(c)(2).
+
+&nbsp;
 
 220529(d)
 
 36:395(c)(5).
 
+&nbsp;
+
 220529(e)
 
 36:395(c)(6).
+
+&nbsp;
 
 In subsection (a), the reference to 36:391(c) is omitted because 36:391(c) is omitted as executed. See the revision note for section 220522 of the revised title. The words “may obtain review by” are substituted for “The right to review . . . shall be to” for clarity.
 

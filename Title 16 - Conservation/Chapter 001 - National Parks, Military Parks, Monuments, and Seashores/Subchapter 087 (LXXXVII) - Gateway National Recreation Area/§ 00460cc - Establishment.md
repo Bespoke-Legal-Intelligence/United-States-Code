@@ -12,7 +12,7 @@ The recreation area shall comprise the following lands, waters, marshes, and sub
 
 &emsp;(3) Sandy Hook Unit—the entire area between Highway 36 Bridge and the northernmost point of the peninsula;
 
-&emsp;(4) Staten Island Unit—including Great Kills Park, Miller Field (except for approximately 26 acres which are to be made available for public school purposes), Fort Wadsworth, and the waterfront lands located between the streets designated as Cedar Grove Avenue, Seaside Boulevard, and Drury Avenue and the bay from Great Kills to Fort Wadsworth;
+&emsp;(4) Staten Island Unit—including Great Kills Park, World War Veterans Park at Miller Field (except for approximately 26 acres which are to be made available for public school purposes), Fort Wadsworth, and the waterfront lands located between the streets designated as Cedar Grove Avenue, Seaside Boulevard, and Drury Avenue and the bay from Great Kills to Fort Wadsworth;
 
 &emsp;(5) Hoffman and Swinburne Islands; and
 
@@ -22,11 +22,15 @@ The recreation area shall comprise the following lands, waters, marshes, and sub
 
 The map referred to in this section shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, Washington, District of Columbia. After advising the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate in writing, the Secretary of the Interior (hereinafter referred to as the “Secretary”) is authorized to make minor revisions of the boundaries of the recreation area when necessary by publication of a revised drawing or other boundary description in the Federal Register.
 
-(Pub. L. 92–592, §1, Oct. 27, 1972, 86 Stat. 1308; Pub. L. 103–437, §6(n)(3), Nov. 2, 1994, 108 Stat. 4586.)
+(Pub. L. 92–592, §§1, 3(b)(2), Oct. 27, 1972, 86 Stat. 1308; Pub. L. 103–437, §6(n)(3), Nov. 2, 1994, 108 Stat. 4586; Pub. L. 106–132, §1(2), Dec. 7, 1999, 113 Stat. 1681.)
 
 #### Amendments
 
+1999—Subsec. (a)(4). Pub. L. 106–132 added Pub. L. 92–592, §3(b)(2). See 1972 Amendment note below.
+
 1994—Subsec. (b). Pub. L. 103–437 substituted “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate” for “Committees on Interior and Insular Affairs of the United States House of Representatives and the United States Senate”.
+
+1972—Subsec. (a)(4). Pub. L. 92–592, §3(b)(2), as added by Pub. L. 106–132, substituted “World War Veterans Park at Miller Field” for “Miller Field”.
 
 #### Change of Name
 

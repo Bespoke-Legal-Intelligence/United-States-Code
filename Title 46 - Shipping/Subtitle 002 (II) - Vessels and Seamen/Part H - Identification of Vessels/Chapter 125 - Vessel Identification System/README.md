@@ -14,7 +14,7 @@
 
 #### Historical and Revision Notes
 
-Section 101 of H.R. 3105, as amended, adds a new chapter 125 to title 46, United States Code, to establish a vessel identification system for all vessels of theUnited States. This would include vessels documented under chapter 121 of title 46, numbered under chapter 123 of that title, or titled under the law of a State. This new chapter consists of new sections 12501–12507 as follows.
+Section 101 of H.R. 3105, as amended, adds a new chapter 125 to title 46, United States Code, to establish a vessel identification system for all vessels of the United States. This would include vessels documented under chapter 121 of title 46, numbered under chapter 123 of that title, or titled under the law of a State. This new chapter consists of new sections 12501–12507 as follows.
 
 #### Chapter Referred to in Other Sections
 

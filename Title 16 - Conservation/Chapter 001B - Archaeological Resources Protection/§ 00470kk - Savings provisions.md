@@ -6,7 +6,7 @@ Nothing in this chapter shall be construed to repeal, modify, or impose addition
 
 #### (b) Private collections
 
-Nothing in this chapter applies to, or requires a permit for, the collection for private purposesof any rock, coin, bullet, or mineral which is not an archaeological resource, as determined under uniform regulations promulgated under section 470bb(1) of this title.
+Nothing in this chapter applies to, or requires a permit for, the collection for private purposes of any rock, coin, bullet, or mineral which is not an archaeological resource, as determined under uniform regulations promulgated under section 470bb(1) of this title.
 
 #### (c) Lands within chapter
 

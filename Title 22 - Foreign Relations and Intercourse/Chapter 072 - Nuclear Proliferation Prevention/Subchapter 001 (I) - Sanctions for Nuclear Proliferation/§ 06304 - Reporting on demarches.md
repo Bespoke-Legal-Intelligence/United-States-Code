@@ -4,7 +4,7 @@
 
 (2) For purposes of this section, the term “demarche” means any official communication by one government to another, by written or oral means, intended by the originating government to express—
 
-&emsp;(A) a concern over a past, present, or possible future action or activity of the recipient government, or of a person within the jurisdiction of that government, contributing to the global spread of unsafeguarded special nuclear material or of nuclear explosive devices;
+&emsp;(A) a concern over a past, present, or possible future action or activity of the recipient government, or of a person within the jurisdiction of that government, contributing to theglobal spread of unsafeguarded special nuclear material or of nuclear explosive devices;
 
 &emsp;(B) a request for the recipient government to counter such action or activity; or
 

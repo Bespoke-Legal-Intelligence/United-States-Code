@@ -18,7 +18,7 @@ A single transport region for ozone (within the meaning of section 7506a(a) of t
 
 #### (1) Recommendations
 
-&emsp;Upon petition of any State within a transport region established for ozone, and based on a majority vote of the Governors on the Commission <sup>1</sup> (or their designees), the Commission <sup>1</sup> may, after notice and opportunity for public comment, develop recommendations for additional control measures to be applied within all or a part of such transport region if the commission determines such measures are necessary to bring any area in such region into attainment by the dates provided by this subpart. The commission shall transmit such recommendations to the Administrator.
+&emsp;Upon petition of any State within a transport region established for ozone, and based on a majority vote of the Governors on the Commission <sup>1</sup> (or their designees), the Commission <sup>1</sup> may, after notice and opportunity for public comment, develop recommendations for additional control measures to be applied within all or a part of such transport region if thecommission determines such measures are necessary to bring any area in such region into attainment by the dates provided by this subpart. The commission shall transmit such recommendations to the Administrator.
 
 #### (2) Notice and review
 

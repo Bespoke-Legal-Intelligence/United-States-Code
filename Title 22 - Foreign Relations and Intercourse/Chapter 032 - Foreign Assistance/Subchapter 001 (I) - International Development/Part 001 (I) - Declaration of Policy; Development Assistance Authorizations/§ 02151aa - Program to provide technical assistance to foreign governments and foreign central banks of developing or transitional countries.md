@@ -54,7 +54,7 @@ In carrying out the program established under subsection (a) of this section, th
 
 &emsp;(B) Such funds shall be available for obligation and expenditure for the purposes for which such funds were authorized, in accordance with authority granted in this section or under authority governing the activities of the agency of the United States Government to which such funds are allocated or transferred.
 
-&emsp;(3) Appropriations for the purposes of or pursuant to this section, and allocations to any agency of the United States Government from other appropriations for functions directly related to the purposes of this section, shall be available for—
+&emsp;(3) Appropriations for the purposes of or pursuant to this section, and allocations to anyagency of the United States Government from other appropriations for functions directly related to the purposes of this section, shall be available for—
 
 &emsp;&emsp;(A) contracting with individuals for personal services abroad, except that such individuals shall not be regarded as employees of the United States Government for the purpose of any law administered by the Office of Personnel Management;
 
@@ -80,7 +80,7 @@ In carrying out the program established under subsection (a) of this section, th
 
 &emsp;&emsp;(H) grants to, and cooperative agreements and contracts with, any individual, corporation, or other body of persons, nonprofit organization, friendly government or government agency, whether within or without the United States, and international organizations, as the Secretary determines is appropriate to carry out the purposes of this section.
 
-&emsp;(4) Whenever the Secretary determines it to be consistent with the purposes of this section,the Secretary is authorized to furnish services and commodities on an advance-of-funds basis to any friendly country or international organization that is not otherwise prohibited from receiving assistance under this chapter. Such advances may be credited to the currently applicable appropriation, account, or fund of the Department of the Treasury and shall be available for the purposes for which such appropriation, account, or fund is authorized to be used.
+&emsp;(4) Whenever the Secretary determines it to be consistent with the purposes of this section, the Secretary is authorized to furnish services and commodities on an advance-of-funds basis to any friendly country or international organization that is not otherwise prohibited from receiving assistance under this chapter. Such advances may be credited to the currently applicable appropriation, account, or fund of the Department of the Treasury and shall be available for the purposes for which such appropriation, account, or fund is authorized to be used.
 
 #### (e) Issuance of regulations
 
@@ -158,9 +158,9 @@ In this section:
 
 The Foreign Service Act of 1980, referred to in subsec. (d)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Chapter 9 of title I of the Foreign Service Act of 1980 is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
-This chapter, referred to in subsec. (d)(4), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4,1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (d)(4), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 
-Another section 129 of Pub. L. 87–195 is classified to section 2152 of this title.
+Another section 129 of Pub. L. 87–195 was renumbered section 130 and is classified to section 2152 of this title.
 

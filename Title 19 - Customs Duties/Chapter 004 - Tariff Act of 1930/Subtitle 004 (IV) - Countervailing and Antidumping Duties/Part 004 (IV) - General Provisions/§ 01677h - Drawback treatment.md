@@ -2,7 +2,7 @@
 
 For purposes of any law relating to the drawback of customs duties, countervailing duties and antidumping duties imposed by this subtitle shall not be treated as being regular customs duties.
 
-(June 17, 1930, ch. 497, title VII, §779, as added Pub. L. 98–573, title VI, §622(a)(2), Oct. 30, 1984, 98 Stat. 3039; amended Pub. L. 100–418, title I, §1334(a), (b)(1), Aug. 23, 1988, 102 Stat. 1209, 1210.)
+(June 17, 1930, ch. 497, title VII, §779, as added Pub. L. 98–573, title VI, §622(a)(2), Oct. 30, 1984, 98Stat. 3039; amended Pub. L. 100–418, title I, §1334(a), (b)(1), Aug. 23, 1988, 102 Stat. 1209, 1210.)
 
 #### Amendments
 

@@ -26,7 +26,7 @@
 
 #### (A) Foreign expropriation capital loss defined
 
-&emsp;&emsp;For purposes of this subsection, the term “foreign expropriation capital loss” means,for any taxable year, the sum of the losses taken into account in computing the net capital loss for such year which are—
+&emsp;&emsp;For purposes of this subsection, the term “foreign expropriation capital loss” means, for any taxable year, the sum of the losses taken into account in computing the net capital loss for such year which are—
 
 &emsp;&emsp;&emsp;(i) losses sustained directly by reason of the expropriation, intervention, seizure, or similar taking of property by the government of any foreign country, any political subdivision thereof, or any agency or instrumentality of the foregoing, or
 
@@ -98,7 +98,7 @@
 
 #### (2) Amount carried to each taxable year
 
-&emsp;The entire amount of the net section 1256 contracts loss for any taxable year shall be carried to the earliest of the taxable years to which such loss may be carried back under paragraph (1). The portion of such loss which shall be carried to each of the 2 other taxable years to which such loss may be carried back shall be the excess (if any) of such loss over the portion of such loss which, after the application of paragraph (3), was allowed as a carryback for any prior taxable year.
+&emsp;The entire amount of the net section 1256 contracts loss for any taxable year shall be carried to the earliest of the taxable years to which such loss may be carried back under paragraph (1). The portion of such loss whichshall be carried to each of the 2 other taxable years to which such loss may be carried back shall be the excess (if any) of such loss over the portion of such loss which, after the application of paragraph (3), was allowed as a carryback for any prior taxable year.
 
 #### (3) Amount which may be used in any prior taxable year
 
@@ -178,7 +178,7 @@
 
 Subsec. (c)(6)(B), (7)(A). Pub. L. 99–514, §1899A(67), amended directory language of Pub. L. 98–369, §102(e)(3)(C), resulting in amendment of subsec. (c)(6)(B). See 1984 Amendment note below.
 
-1984—Subsec. (b)(3). Pub. L. 98–369, §1002(a), struck out par. (3) which read as follows: “In the case of any amount which, under paragraph (1) and section 1211(b) (as in effect for taxable years beginning before January 1, 1970), is treated as a capital loss in the first taxable year beginning after December 31, 1969, paragraph (1) and section 1211(b) (as in effect for taxable years beginning before January 1, 1970) shall apply (and paragraph (1) and section 1211(b) as in effect for taxable years beginning after December 31, 1969, shall not apply) to the extent such amount exceeds the total of any net capital gains (determined without regard to this subsection) of taxable years beginning after December 31, 1969.”
+1984—Subsec. (b)(3). Pub. L. 98–369, §1002(a), struck out par. (3) which read as follows: “In the case of any amount which, under paragraph (1) and section 1211(b) (as in effect for taxable years beginning before January 1, 1970), is treated as a capital loss in the first taxable year beginning after December 31, 1969, paragraph (1) and section 1211(b) (as in effect for taxable years beginning before January 1, 1970) shall apply (and paragraph (1) and section 1211(b) as in effect for taxable years beginning after December 31, 1969, shall not apply) to the extent such amount exceeds the total of any net capitalgains (determined without regard to this subsection) of taxable years beginning after December 31, 1969.”
 
 Subsec. (c). Pub. L. 98–369, §102(e)(3)(A), (B), substituted “net section 1256 contracts loss” for “net commodity futures loss” and “section 1256 contracts” for “regulated futures contracts” wherever appearing.
 
@@ -194,7 +194,7 @@ Subsec. (c)(6)(B), (7)(A). Pub. L. 98–369, §102(e)(3)(C), as amended by Pub. 
 
 1978—Subsec. (a)(1)(C)(ii). Pub. L. 95–600 substituted “succeeding the loss year” for “exceeding the loss year”.
 
-1976—Subsec. (a)(1). Pub. L. 94–455, §§1403(a), 1901(b)(33)(O), in subpar. (B) inserted introductory text“except as provided in subparagraph (C),” and struck out “(10) taxable years to the extent such loss is attributable to a foreign expropriation capital loss)” after “5 taxable years” and added subpar. (C), and substituted “capital gain net income” for “net capital gains”, “net capital gain” and “net capital gain” in last three sentences, respectively.
+1976—Subsec. (a)(1). Pub. L. 94–455, §§1403(a), 1901(b)(33)(O), in subpar. (B) inserted introductory text “except as provided in subparagraph (C),” and struck out “(10) taxable years to the extent such loss is attributable to a foreign expropriation capital loss)” after “5 taxable years” and added subpar. (C), and substituted “capital gain net income” for “net capital gains”, “net capital gain” and “net capital gain” in last three sentences, respectively.
 
 1969—Pub. L. 91–172, §512(f)(1), substituted “carrybacks and carryovers” for “carryover” in section catchline.
 
@@ -252,7 +252,7 @@ Amendment by section 513(b) of Pub. L. 91–172 applicable to taxable years begi
 
 #### Effective Date of 1964 Amendments
 
-Section 7(b) of Pub. L. 88–571, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to net capital losses (to the extent attributable to foreign expropriation capital losses, as defined in section 1212(a)(2)(A) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) sustained in taxable years ending after December 31, 1958.”
+Section 7(b) of Pub. L. 88–571, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to net capital losses (to the extent attributable to foreign expropriation capital losses, as defined in section 1212(a)(2)(A) ofthe Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) sustained in taxable years ending after December 31, 1958.”
 
 Section 230(c) of Pub. L. 88–272 provided that: “The amendments made by this section \[amending this section and section 1222 of this title\] shall apply to taxable years beginning after December 31, 1963.”
 

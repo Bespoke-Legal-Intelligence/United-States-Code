@@ -14,7 +14,7 @@ Section 1 of Pub. L. 89–80 provided that: “This Act \[enacting this chapter\
 
 #### Watershed Protection and Flood Prevention Projects Exempt From Requirements for Independent Water Project Review
 
-Provisions exempting watershed projects under the Watershed Protection and Flood Prevention Act, Aug. 4, 1954, ch. 656, 68 Stat. 666, which is classified generally to chapter 18 (§1001 et seq.) of Title 16, Conservation, from the requirements of Executive Orders 12113 and 12141, formerly set out below, were contained in the following appropriation acts:
+Provisions exempting watershed projects under the Watershed Protection and Flood Prevention Act, Aug.4, 1954, ch. 656, 68 Stat. 666, which is classified generally to chapter 18 (§1001 et seq.) of Title 16, Conservation, from the requirements of Executive Orders 12113 and 12141, formerly set out below, were contained in the following appropriation acts:
 
 Pub. L. 97–370, title VI, §619, Dec. 18, 1982, 96 Stat. 1811.
 

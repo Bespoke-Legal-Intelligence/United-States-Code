@@ -13,5 +13,6 @@
 - [&sect; 04725 - United States and Foreign Commercial Service Pacific Rim initiative](%C2%A7%2004725%20-%20United%20States%20and%20Foreign%20Commercial%20Service%20Pacific%20Rim%20initiative.md)
 - [&sect; 04726 - Indian tribes export promotion](%C2%A7%2004726%20-%20Indian%20tribes%20export%20promotion.md)
 - [&sect; 04727 - Trade Promotion Coordinating Committee](%C2%A7%2004727%20-%20Trade%20Promotion%20Coordinating%20Committee.md)
+- [&sect; 04727a - Implementation of primary objectives of TPCC](%C2%A7%2004727a%20-%20Implementation%20of%20primary%20objectives%20of%20TPCC.md)
 - [&sect; 04728 - Environmental trade promotion](%C2%A7%2004728%20-%20Environmental%20trade%20promotion.md)
 - [&sect; 04729 - Report on export policy](%C2%A7%2004729%20-%20Report%20on%20export%20policy.md)

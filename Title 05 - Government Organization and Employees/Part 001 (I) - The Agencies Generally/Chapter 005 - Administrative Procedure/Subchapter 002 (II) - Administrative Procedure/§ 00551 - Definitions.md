@@ -66,7 +66,7 @@ For the purpose of this subchapter—
 
 &emsp;(13) “agency action” includes the whole or a part of an agency rule, order, license, sanction, relief, or the equivalent or denial thereof, or failure to act; and
 
-&emsp;(14) “ex parte communication” means an oral or written communication not on the public record with respect to which reasonable prior notice to all parties is not given, but it shall not include requests for status reports onany matter or proceeding covered by this subchapter.
+&emsp;(14) “ex parte communication” means an oral or written communication not on the public record with respect to which reasonable prior notice to all parties is not given, but it shall not include requests for status reports on any matter or proceeding covered by this subchapter.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 381; Pub. L. 94–409, §4(b), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 103–272, §5(a), July 5, 1994, 108 Stat. 1373.)
 
@@ -144,5 +144,5 @@ Amendment by Pub. L. 94–409 effective 180 days after Sept. 13, 1976, see secti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 500, 504, 552, 562, 571, 592, 595, 601, 701, 804, 3344, 3348 of this title; title 2 sections 501, 502, 658, 1602; title 7 section 6997; title 15 sections 78d–1, 78w, 632, 637c, 766, 2053, 3412, 3416; title 16 section 470w; title 22 sections 3731, 6033; title 26 sections 6103, 9041; title 30 sections 185, 956; title 31 sections 3901, 6101, 7501; title 41 section 422; title 42 sections 2231, 2992c, 6107, 6241, 6393, 7191, 8259, 8262, 8287c, 11317, 11504; title 46 sections 7702, 9303; title 47 sections 155, 409; title 49 sections 106, 11324; title 50 App. sections 2159, 2412.
+This section is referred to in sections 500, 504, 552, 562, 571, 592, 595, 601, 701, 804, 3344, 3348 of this title; title 2 sections 501, 502, 658, 1602; title 7 section 6997; title 15 sections 78d–1, 78w, 632, 637c, 766, 2053, 3412, 3416, 6501; title 16 section 470w; title 22 sections 3731, 6033, 6741; title 26 sections 6103, 9041; title 30 sections 185, 956; title 31 sections 3901, 6101, 7501; title 41 section 422; title 42 sections 2231, 2992c, 6107, 6241, 6393, 7191, 8259, 8262, 11317, 11504; title 46 sections 7702, 9303; title 47 sections 155, 409; title 49 sections 106, 11324; title 50 App. sections 2159, 2412.
 

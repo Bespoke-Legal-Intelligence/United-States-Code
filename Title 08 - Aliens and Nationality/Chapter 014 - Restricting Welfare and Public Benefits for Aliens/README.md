@@ -23,7 +23,7 @@
 | (c) | Application of term Federal means-tested public benefit. |
 | (d) | Benefits for certain groups. |
 | [1614\.](Subchapter%20001%20%28I%29%20-%20Eligibility%20for%20Federal%20Benefits/%C2%A7%2001614%20-%20Notification%20and%20information%20reporting.md) | Notification and information reporting. |
-| [1615\.](Subchapter%20001%20%28I%29%20-%20Eligibility%20for%20Federal%20Benefits/%C2%A7%2001615%20-%20Requirements%20relating%20to%20provision%20of%20benefits%20based%20on%20citizenship%2C%20alienage%2C%20or%20immigration%20status%20under%20the%20National%20School%20Lunch%20Act%E2%80%A6.md) | Requirements relating to provision of benefits based on citizenship, alienage, or immigration status under the National School Lunch Act, the Child Nutrition Act of 1966, and certain other acts. |
+| [1615\.](Subchapter%20001%20%28I%29%20-%20Eligibility%20for%20Federal%20Benefits/%C2%A7%2001615%20-%20Requirements%20relating%20to%20provision%20of%20benefits%20based%20on%20citizenship%2C%20alienage%2C%20or%20immigration%20status%20under%20the%20Richard%20B.%20Russell%20National%E2%80%A6.md) | Requirements relating to provision of benefits based on citizenship, alienage, or immigration status under the Richard B. Russell National School Lunch Act, the Child Nutrition Act of 1966, and certain other acts. |
 | (a) | School lunch and breakfast programs. |
 | (b) | Other programs. |
 
@@ -91,6 +91,10 @@
 | [1646\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001646%20-%20Derivative%20eligibility%20for%20benefits.md) | Derivative eligibility for benefits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in title 42 section 1437a.
 
 
 ---

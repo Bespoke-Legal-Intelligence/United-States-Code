@@ -56,7 +56,7 @@
 
 #### (2) Crediting
 
-&emsp;Funds received by the Inspector General under paragraph (1) as reimbursement for costs of conducting investigations shall be deposited to the credit of the appropriation from which initially paid, or to appropriations for similar purposes currently available at the time of deposit, and shall remain available for obligation for 1 year from the date of the deposit of such funds.
+&emsp;Funds received by the Inspector General under paragraph (1) as reimbursement forcosts of conducting investigations shall be deposited to the credit of the appropriation from which initially paid, or to appropriations for similar purposes currently available at the time of deposit, and shall remain available for obligation for 1 year from the date of the deposit of such funds.
 
 #### (c) “Health plan” defined
 

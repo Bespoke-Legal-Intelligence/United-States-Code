@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision or rule of law, and subject to the provisions of this Act, each responsible party for a vessel or a facility from which oil is discharged, or which poses the substantial threat of a discharge of oil, into or upon the navigable waters or adjoining shorelines or the exclusive economic zone is liable for the removal costs and damages specified in subsection (b) of this section that result from such incident.
+Notwithstanding any other provision or rule of law, and subject to the provisions of this Act, each responsible party for a vessel or a facility from which oil is discharged, or which poses the substantial threat of a discharge of oil, into or upon the navigable waters or adjoining shorelines or the exclusive economic zone is liable forthe removal costs and damages specified in subsection (b) of this section that result from such incident.
 
 #### (b) Covered removal costs and damages
 
@@ -12,7 +12,7 @@ Notwithstanding any other provision or rule of law, and subject to the provision
 
 &emsp;&emsp;(A) all removal costs incurred by the United States, a State, or an Indian tribe under subsection (c), (d), (e), or (<i>l</i>) of section 1321 of this title, under the Intervention on the High Seas Act (33 U.S.C. 1471 et seq.), or under State law; and
 
-&emsp;&emsp;(B) any removal costs incurred by any person for acts taken by the person which areconsistent with the National Contingency Plan.
+&emsp;&emsp;(B) any removal costs incurred by any person for acts taken by the person which are consistent with the National Contingency Plan.
 
 #### (2) Damages
 
@@ -86,7 +86,7 @@ This Act, referred to in subsec. (a), is Pub. L. 101–380, Aug. 18, 1990, 104 S
 
 The Intervention on the High Seas Act, referred to in subsec. (b)(1)(A), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, as amended, which is classified generally to chapter 28 (§1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
 
-The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (c)(3), is title II of Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 584, which is classified generally to chapter 34 (§1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 43 and Tables.
+The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (c)(3), is title II of Pub. L. 93–153,Nov. 16, 1973, 87 Stat. 584, which is classified generally to chapter 34 (§1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 43 and Tables.
 
 #### Section Referred to in Other Sections
 

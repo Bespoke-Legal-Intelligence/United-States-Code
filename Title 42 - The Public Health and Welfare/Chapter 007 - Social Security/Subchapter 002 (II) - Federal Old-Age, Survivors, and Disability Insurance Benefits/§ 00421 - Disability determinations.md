@@ -20,7 +20,7 @@
 
 #### (b) Determinations by Commissioner
 
-(1) If the Commissioner of Social Security finds, after notice and opportunity for a hearing, that a State agency is substantially failing to make disability determinations in a manner consistent with the Commissioner's regulations and other written guidelines, the Commissioner of Social Security shall, not earlier than 180days following the Commissioner's finding, and after the Commissioner has complied with the requirements of paragraph (3), make the disability determinations referred to in subsection (a)(1) of this section.
+(1) If the Commissioner of Social Security finds, after notice and opportunity for a hearing, that a State agency is substantially failing to make disability determinations in a manner consistent with the Commissioner's regulations and other written guidelines, the Commissioner of Social Security shall, not earlier than 180 days following the Commissioner's finding, and after the Commissioner has complied with the requirements of paragraph (3), make the disability determinations referred to in subsection (a)(1) of this section.
 
 (2) If a State, having notified the Commissioner of Social Security of its intent to make disability determinations under subsection (a)(1) of this section, no longer wishes to make such determinations, it shall notify the Commissioner of Social Security in writing of that fact, and, if an agency of the State is making disability determinations at the time such notice is given, it shall continue to do so for not less than 180 days, or (if later) until the Commissioner of Social Security has complied with the requirements of paragraph (3). Thereafter, the Commissioner of Social Security shall make the disability determinations referred to in subsection (a)(1) of this section.
 
@@ -42,11 +42,11 @@
 
 (B) In conducting reviews pursuant to subparagraph (A), the Commissioner of Social Security shall, to the extent feasible, select for review those determinations which the Commissioner of Social Security identifies as being the most likely to be incorrect.
 
-(C) Not later than April 1, 1992, and annually thereafter, the Commissioner of Social Security shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a written report setting forth the number of reviews conducted under subparagraph (A)(ii) during the preceding fiscal year and the findings of the Commissioner of Social Security based on such reviews of the accuracy of the determinations made by State agencies pursuant to this section.
+(C) Not later than April 1, 1992, and annually thereafter, the Commissioner of Social Security shall submit to the Committee on Ways and Means of the House of Representatives and theCommittee on Finance of the Senate a written report setting forth the number of reviews conducted under subparagraph (A)(ii) during the preceding fiscal year and the findings of the Commissioner of Social Security based on such reviews of the accuracy of the determinations made by State agencies pursuant to this section.
 
 #### (d) Hearings and judicial review
 
-Any individual dissatisfied with any determination under subsection (a), (b), (c), or (g) of this section shall be entitled to a hearing thereon by the Commissioner of Social Security to the same extent as is provided in section 405(b) of this title with respect to decisions of the Commissioner of Social Security, and to judicial review of the Commissioner's final decisionafter such hearing as is provided in section 405(g) of this title.
+Any individual dissatisfied with any determination under subsection (a), (b), (c), or (g) of this section shall be entitled to a hearing thereon by the Commissioner of Social Security to the same extent as is provided in section 405(b) of this title with respect to decisions of the Commissioner of Social Security, and to judicial review of the Commissioner's final decision after such hearing as is provided in section 405(g) of this title.
 
 #### (e) State's right to cost from Trust Funds
 
@@ -70,9 +70,11 @@ An initial determination under subsection (a), (c), (g), or (i) of this section 
 
 (2) The requirement of paragraph (1) that cases be reviewed at least every 3 years shall not apply to the extent that the Commissioner of Social Security determines, on a State-by-State basis, that such requirement should be waived to insure that only the appropriate number of such cases are reviewed. The Commissioner of Social Security shall determine the appropriate number of cases to be reviewed in each State after consultation with the State agency performing such reviews, based upon the backlog of pending reviews, the projected number of new applications for disability insurance benefits, and the current and projected staffing levels of the State agency, but the Commissioner of Social Security shall provide for a waiver of such requirement only in the case of a State which makes a good faith effort to meet proper staffing requirements for the State agency and to process case reviews in a timely fashion. The Commissioner of Social Security shall report annually to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to the determinations made by the Commissioner of Social Security under the preceding sentence.
 
-(3) The Commissioner of Social Security shall report annually to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to the number of reviews of continuing disability carried out under paragraph (1), the number of such reviews which result in an initial termination of benefits, the number of requests for reconsideration of such initial termination or for a hearing with respect to such termination under subsection (d) of this section, or both, and the number of such initial terminations which are overturned as the result of a reconsideration or hearing.
+(3) The Commissioner of Social Security shall report annually to the Committee on Finance ofthe Senate and the Committee on Ways and Means of the House of Representatives with respect to the number of reviews of continuing disability carried out under paragraph (1), the number of such reviews which result in an initial termination of benefits, the number of requests for reconsideration of such initial termination or for a hearing with respect to such termination under subsection (d) of this section, or both, and the number of such initial terminations which are overturned as the result of a reconsideration or hearing.
 
-(4) In any case in which the Commissioner of Social Security initiates a review under this subsection of the case of an individual who hasbeen determined to be under a disability, the Commissioner of Social Security shall notify such individual of the nature of the review to be carried out, the possibility that such review could result in the termination of benefits, and the right of the individual to provide medical evidence with respect to such review.
+(4) In any case in which the Commissioner of Social Security initiates a review under this subsection of the case of an individual who has been determined to be under a disability, the Commissioner of Social Security shall notify such individual of the nature of the review to be carried out, the possibility that such review could result in the termination of benefits, and the right of the individual to provide medical evidence with respect to such review.
+
+(5) For suspension of reviews under this subsection in the case of an individual using a ticket to work and self-sufficiency, see section 1320b–19(i) of this title.
 
 #### (j) Rules and regulations; consultative examinations
 
@@ -98,13 +100,33 @@ The Commissioner of Social Security shall prescribe regulations which set forth,
 
 (2) The election under paragraph (1) may be made at any time, but an opportunity to make such an election shall in any event be given, to every individual who is an applicant for benefits under this subchapter on the basis of disability by reason of blindness, at the time of his or her application. Such an election, once made by an individual, shall apply with respect to all notices of decisions, determinations, and actions which such individual may thereafter be entitled to receive under this subchapter until such time as it is revoked or changed.
 
-(Aug. 14, 1935, ch. 531, title II, §221, as added Sept. 1, 1954, ch. 1206, title I, §106(g), 68 Stat. 1081; amended Aug. 1, 1956, ch. 836, title I, §103(c)(7), (8), (h), 70 Stat. 818, 823; Pub. L. 90–248, title I, §158(c)(3), (4), Jan. 2, 1968, 81 Stat. 869; Pub. L. 96–265, title III, §§304(a)–(f), 311(a), June 9, 1980, 94 Stat. 453–456, 460; Pub. L. 97–455, §§3(a), 6, Jan. 12, 1983, 96 Stat. 2499, 2500; Pub. L. 98–369, div. B, title VI, §2663(a)(14), July 18, 1984, 98 Stat. 1164; Pub. L. 98–460, §§6(a), 8(a), 9(a)(1), 10(a), 17(a), Oct. 9, 1984, 98 Stat. 1802, 1804, 1805, 1811; Pub. L. 99–514, title XVIII, §1883(a)(9), Oct. 22, 1986, 100 Stat. 2916; Pub. L. 100–647, title VIII, §8012(a), Nov. 10, 1988, 102 Stat. 3789; Pub. L. 101–239, title X, §10306(a)(1), Dec. 19, 1989, 103 Stat. 2484; Pub. L. 101–508, title V, §5128(a), Nov. 5, 1990, 104 Stat. 1388–286; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478.)
+#### (m) Work activity as basis for review
+
+(1) In any case where an individual entitled to disability insurance benefits under section 423 of this title or to monthly insurance benefits under section 402 of this title based on such individual's disability (as defined in section 423(d) of this title) has received such benefits for at least 24 months—
+
+&emsp;(A) no continuing disability review conducted by the Commissioner may be scheduled for the individual solely as a result of the individual's work activity;
+
+&emsp;(B) no work activity engaged in by the individual may be used as evidence that the individual is no longer disabled; and
+
+&emsp;(C) no cessation of work activity by the individual may give rise to a presumption that the individual is unable to engage in work.
+
+(2) An individual to which paragraph (1) applies shall continue to be subject to—
+
+&emsp;(A) continuing disability reviews on a regularly scheduled basis that is not triggered by work; and
+
+&emsp;(B) termination of benefits under this subchapter in the event that the individual has earnings that exceed the level of earnings established by the Commissioner to represent substantial gainful activity.
+
+(Aug. 14, 1935, ch. 531, title II, §221, as added Sept. 1, 1954, ch. 1206, title I, §106(g), 68 Stat. 1081; amended Aug. 1, 1956, ch. 836, title I, §103(c)(7), (8), (h), 70 Stat. 818, 823; Pub. L. 90–248, title I, §158(c)(3), (4), Jan. 2, 1968, 81 Stat. 869; Pub. L. 96–265, title III, §§304(a)–(f), 311(a), June 9, 1980, 94 Stat. 453–456, 460; Pub. L. 97–455, §§3(a), 6, Jan. 12, 1983, 96 Stat. 2499, 2500; Pub. L. 98–369, div. B, title VI, §2663(a)(14), July 18, 1984, 98 Stat. 1164; Pub. L. 98–460, §§6(a), 8(a), 9(a)(1), 10(a), 17(a), Oct. 9, 1984, 98 Stat. 1802, 1804, 1805, 1811; Pub. L. 99–514, title XVIII, §1883(a)(9), Oct. 22, 1986, 100 Stat. 2916; Pub. L. 100–647, title VIII, §8012(a), Nov. 10, 1988, 102 Stat. 3789; Pub. L. 101–239, title X, §10306(a)(1), Dec. 19, 1989, 103 Stat. 2484; Pub. L. 101–508, title V, §5128(a), Nov. 5, 1990, 104 Stat. 1388–286; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 106–170, title I, §§101(b)(1)(A), 111(a), Dec. 17, 1999, 113 Stat. 1873, 1881.)
 
 #### Prior Provisions
 
 A prior section 421, act Aug. 14, 1935, ch. 531, title II, §221, as added July 18, 1952, ch. 945, §3(e), 66 Stat. 772; amended by 1953 Reorg. Plan No. 1, §5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, relating to disability determinations, ceased to be in effect at the close of June 30, 1953. See section 3(g) of act July 18, 1952, set out as an Effective and Termination Date of 1952 Amendment note under section 413 of this title.
 
 #### Amendments
+
+1999—Subsec. (i)(5). Pub. L. 106–170, §101(b)(1)(A), added par. (5).
+
+Subsec. (m). Pub. L. 106–170, §111(a), added subsec. (m).
 
 1994—Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary” wherever appearing except where appearing before “of Labor” in subsec. (b)(3)(B) and substituted “the Commissioner deems” for “he deems” and “the Commissioner finds” for “he finds” in subsec. (a)(2), “the Commissioner's” for “his” wherever appearing in subsecs. (b)(1), (c)(1), and (g), “the Commissioner has complied” for “he has complied” in subsec. (b)(1), “Commissioner's” for “Secretary's” in subsec. (d), and “prescribed by the Commissioner” for “prescribed by him” in subsec. (g).
 
@@ -168,6 +190,12 @@ Subsec. (e). Act Aug. 1, 1956, §103(h), substituted “Trust Funds” for “Tr
 
 Subsec. (f). Act Aug. 1, 1956, §103(h), substituted “Trust Funds” for “Trust Fund”.
 
+#### Effective Date of 1999 Amendment
+
+Amendment by section 101(b)(1)(A) of Pub. L. 106–170 effective with the first month following one year after Dec. 17, 1999, subject to section 101(d) of Pub. L. 106–170, see section 101(c) of Pub. L. 106–170, set out as an Effective Date note under section 1320b–19 of this title.
+
+Pub. L. 106–170, title I, §111(b), Dec. 17, 1999, 113 Stat. 1881, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2002.”
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
@@ -204,7 +232,7 @@ Section 311(b) of Pub. L. 96–265 provided that: “The amendment made by subse
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–248 applicable with respect to application for disability insurance benefits undersection 423 of this title and to disability determinations under section 416(i) of this title, see section 158(e) of Pub. L. 90–248, set out as a note under section 423 of this title.
+Amendment by Pub. L. 90–248 applicable with respect to application for disability insurance benefits under section 423 of this title and to disability determinations under section 416(i) of this title, see section 158(e) of Pub. L. 90–248, set out as a note under section 423 of this title.
 
 #### Election Under Subsection (<i>l</i>)(1) by Current Recipients
 
@@ -310,5 +338,5 @@ Section 304(i) of Pub. L. 96–265 directed Secretary of Health and Human Servic
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 401, 405, 423, 425, 1382c, 1383, 1383b of this title; title 7 section 2012; title 30 section 923.
+This section is referred to in sections 401, 405, 423, 425, 1320b–6, 1320b–19, 1382c, 1383, 1383b of this title; title 7 section 2012; title 30 section 923.
 

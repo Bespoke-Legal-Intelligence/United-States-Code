@@ -8,7 +8,7 @@ A public housing agency may own, operate, assist, or otherwise participate in 1 
 
 #### (1) Forms
 
-&emsp;A public housing agency may provide to a mixed-finance project assistance from the Operating Fund under section 1437g of this title, assistance from the Capital Fund under such section, or both forms of assistance. A public housing agency may, in accordance with regulations established by the Secretary, provide capital assistance to a mixed-finance project in the form of a grant, loan, guarantee, or other form of investment in the project, which may involve drawdown of funds on a schedule commensurate with construction draws for deposit into an interest-bearing escrow account to serve as collateral or credit enhancement for bonds issued by a public agency, or for other forms of public or private borrowings, for the construction or rehabilitation of the development.
+&emsp;A public housing agency may provide to a mixed-finance project assistance from the Operating Fund under section 1437g of this title, assistance from the Capital Fund under such section, or both forms of assistance. A public housing agency may, in accordance with regulations established by the Secretary, providecapital assistance to a mixed-finance project in the form of a grant, loan, guarantee, or other form of investment in the project, which may involve drawdown of funds on a schedule commensurate with construction draws for deposit into an interest-bearing escrow account to serve as collateral or credit enhancement for bonds issued by a public agency, or for other forms of public or private borrowings, for the construction or rehabilitation of the development.
 
 #### (2) Use
 

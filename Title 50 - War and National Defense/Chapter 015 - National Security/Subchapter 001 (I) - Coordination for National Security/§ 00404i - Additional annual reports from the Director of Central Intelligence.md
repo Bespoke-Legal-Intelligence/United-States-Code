@@ -2,7 +2,7 @@
 
 #### (a) Report on intelligence community cooperation with Federal law enforcement agencies
 
-(1) Not later than December 31 of each year, the Director of Central Intelligence shall submit to the congressional intelligence committees and the congressional leadership a report describing the nature and extent of cooperation and assistance provided by the intelligence community to Federal law enforcement agencieswith respect to efforts to stop the illegal importation into the United States of controlled substances (as that term is defined in section 102(6) of the Controlled Substances Act (21 U.S.C. 802(6)) that are included in schedule I or II under part B of such Act \[21 U.S.C. 811 et seq.\].
+(1) Not later than December 31 of each year, the Director of Central Intelligence shall submit to the congressional intelligence committees and the congressional leadership a report describing the nature and extent of cooperation and assistance provided by the intelligence community to Federal law enforcement agencies with respect to efforts to stop the illegal importation into the United States of controlled substances (as that term is defined in section 102(6) of the Controlled Substances Act (21 U.S.C. 802(6)) that are included in schedule I or II under part B of such Act \[21 U.S.C. 811 et seq.\].
 
 (2) Each such report shall include a discussion of the following:
 

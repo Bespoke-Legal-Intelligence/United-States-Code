@@ -10,7 +10,7 @@
 
 #### (2) Termination of authority
 
-&emsp;The authority of subsections (a), (b), and (c) of section 2194 of this title shall continue until September 30, 1999.
+&emsp;The authority of subsections (a), (b), and (c) of section 2194 of this title shall continue until November 1, 2000.
 
 #### (b) Repealed. Pub. L. 102–549, title I, §104(a)(3), Oct. 28, 1992, 106 Stat. 3652
 
@@ -30,7 +30,7 @@ There is hereby authorized to be transferred to the Corporation at its call, for
 
 There are authorized to be appropriated to the Corporation, to remain available until expended, such amounts as may be necessary from time to time to replenish or increase the insurance and guaranty fund, to discharge the liabilities under insurance, reinsurance, or guaranties issued by the Corporation or issued under predecessor guaranty authority, or to discharge obligations of the Corporation purchased by the Secretary of the Treasury pursuant to this subsection. However, no appropriations shall be made to augment the Insurance Reserve until the amount of funds in the Insurance Reserve is less than $25,000,000. Any appropriations to augment the Insurance Reserve shall then only be made either pursuant to specific authorization enacted after August 27, 1974, or to satisfy the full faith and credit provision of section 2197(c) of this title. In order to discharge liabilities under investment insurance or reinsurance, the Corporation is authorized to issue from time to time for purchase by the Secretary of the Treasury its notes, debentures, bonds, or other obligations; but the aggregate amount of such obligations outstanding at any one time shall not exceed $100,000,000. Any such obligation shall be repaid to the Treasury within one year after the date of issue of such obligation. Any such obligation shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of any obligation authorized by this subsection. The Secretary of the Treasury shall purchase any obligation of the Corporation issued under this subsection, and for such purchase he may use as a public debt transaction the proceeds of the sale of any securities issued under chapter 31 of title 31 after August 27, 1974. The purpose for which securities may be issued under such chapter shall include any such purchase.
 
-(Pub. L. 87–195, pt. I, §235, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 813; amended Pub. L. 93–189, §6(1), Dec. 17, 1973, 87 Stat. 717; Pub. L. 93–390, §2(3), Aug. 27, 1974, 88 Stat. 766; Pub. L. 95–268, §4, Apr. 24, 1978, 92 Stat. 214; Pub. L. 97–65, §5(a), (b)(1), (c), Oct. 16, 1981, 95 Stat. 1022, 1023; Pub. L. 99–204, §§9(b)(1), 10, 17(b), Dec. 23, 1985, 99 Stat. 1673, 1676; Pub. L. 100–418, title II, §2203(b), Aug. 23, 1988, 102 Stat. 1328; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 102–549, title I, §104, Oct. 28, 1992, 106 Stat. 3652; Pub. L. 103–392, title I, §§101–104, Oct. 22, 1994, 108 Stat. 4098; Pub. L. 104–208, div. A, title I, §101(c) \[title I\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–123; Pub. L. 105–118, title V, §581, Nov. 26, 1997, 111 Stat. 2435.)
+(Pub. L. 87–195, pt. I, §235, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 813; amended Pub. L. 93–189, §6(1), Dec. 17, 1973, 87 Stat. 717; Pub. L. 93–390, §2(3), Aug. 27, 1974, 88 Stat. 766; Pub. L. 95–268, §4, Apr. 24, 1978, 92 Stat. 214; Pub. L. 97–65, §5(a), (b)(1), (c), Oct. 16, 1981, 95 Stat. 1022, 1023; Pub. L. 99–204, §§9(b)(1), 10, 17(b), Dec. 23, 1985, 99 Stat. 1673, 1676; Pub. L. 100–418, title II, §2203(b), Aug. 23, 1988, 102 Stat. 1328; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 102–549, title I, §104, Oct. 28, 1992, 106 Stat. 3652; Pub. L. 103–392, title I, §§101–104, Oct. 22, 1994, 108 Stat. 4098; Pub. L. 104–208, div. A, title I, §101(c) \[title I\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–123; Pub. L. 105–118, title V, §581, Nov. 26, 1997, 111 Stat. 2435; Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §599E\], Nov. 29, 1999, 113 Stat. 1535, 1501A–132; Pub. L. 106–158, §2, Dec. 9, 1999, 113 Stat. 1745.)
 
 #### Codification
 
@@ -39,6 +39,10 @@ Amendment by Pub. L. 100–461 is based on sections 106 and 107 of title I of H.
 In subsec. (f), “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act” and “such Bond Act”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+1999—Subsec. (a)(2). Pub. L. 106–158, which directed the amendment of par. (2) by substituting “2003” for “1999” could not be executed because “1999” did not appear in text subsequent to amendment by Pub. L. 106–113. See below.
+
+Pub. L. 106–113, which directed amendment of par. (2) by substituting “November 1, 2000” for “1999”, was executed by making the substitution for “September 30, 1999”, to reflect the probable intent of Congress.
 
 1997—Subsec. (a). Pub. L. 105–118 added heading and text of par. (1)(A), redesignated par. (2)(B) as subpar. (B) of par. (1), redesignated par. (3) as (2) and substituted “subsections (a), (b), and (c) of section 2194 of this title” for “subsections (a) and (b) of section 2194 of this title” and “September 30, 1999” for “September 30, 1997”, and struck out former pars. (1) and (2)(A) which read as follows:
 
@@ -66,7 +70,7 @@ Subsec. (a)(2). Pub. L. 103–392, §102, amended heading and text of par. (2). 
 
 Subsec. (a)(3). Pub. L. 103–392, §103, substituted “1996” for “1994”.
 
-Subsec. (g). Pub. L. 103–392, §104, struck out heading and text of subsec. (g). Text read as follows: “Subject to spending authority provided in appropriations Acts, the Corporation is authorized to draw from its noncredit account revolving fund for the administrative costs of its direct loan and loan guarantee programs—
+Subsec. (g). Pub. L. 103–392, §104, struck out heading and text of subsec. (g). Text read as follows: “Subjectto spending authority provided in appropriations Acts, the Corporation is authorized to draw from its noncredit account revolving fund for the administrative costs of its direct loan and loan guarantee programs—
 
 &emsp;“(1) $8,128,000 for fiscal year 1993; and
 

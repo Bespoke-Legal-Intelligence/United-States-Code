@@ -4,7 +4,7 @@
 
 #### (1) Program direction
 
-&emsp;The Secretary shall continue to support a vigorous program of basic energy sciences toprovide basic research support for the development of energy technologies. Such program shall focus on the efficient production and use of energy, and the expansion of our knowledge of materials, chemistry, geology, and other related areas of advancing technology development.
+&emsp;The Secretary shall continue to support a vigorous program of basic energy sciences to provide basic research support for the development of energy technologies. Such program shall focus on the efficient production and use of energy, and the expansion of our knowledge of materials, chemistry, geology, and other related areas of advancing technology development.
 
 #### (2) User facilities
 
@@ -64,7 +64,7 @@ The Secretary shall support technology transfer activities conducted by the Nati
 
 #### (2) Facility plan
 
-&emsp;Within 1 year after October 24, 1992, the Secretary shall prepare and submit to the Congress a comprehensive plan for conducting future facility maintenance, making repairs, modifications, and new additions, and constructing new facilities at multiprogram energy laboratories. Such plan shall provide forfacilities work in accordance with the following priorities, listed in descending order of priority:
+&emsp;Within 1 year after October 24, 1992, the Secretary shall prepare and submit to the Congress a comprehensive plan for conducting future facility maintenance, making repairs, modifications, and new additions, and constructing new facilities at multiprogram energy laboratories. Such plan shall provide for facilities work in accordance with the following priorities, listed in descending order of priority:
 
 &emsp;&emsp;(A) Providing for the safety and health of employees, visitors, and the general public with regard to correcting existing structural, mechanical, electrical, and environmental deficiencies.
 

@@ -110,7 +110,7 @@
 
 &emsp;(D) twenty-five years and thirty-two days, in the case of a loan for the purchase of a double-wide manufactured home and a lot.
 
-(2) Nothing in paragraph (1) of this subsection shall preclude the Secretary, under regulations which the Secretary shall prescribe, from consenting to necessary advances for the protection of the security or the holder's lien, to a reasonable extension of the term of such loan, or to a reasonable reamortization of such loan.
+(2) Nothing in paragraph (1) of this subsection shall preclude the Secretary, under regulationswhich the Secretary shall prescribe, from consenting to necessary advances for the protection of the security or the holder's lien, to a reasonable extension of the term of such loan, or to a reasonable reamortization of such loan.
 
 (e) No loan shall be guaranteed for purposes specified in this section unless—
 
@@ -208,7 +208,7 @@ Subsec. (<i>l</i>). Pub. L. 102–54, §14(c)(8)(B), struck out “, beginning 
 
 Subsec. (m). Pub. L. 102–83, §5(c)(1), substituted “3704(d)” for “1804(d)” and “3721” for “1821”.
 
-1990—Subsec. (c)(3). Pub. L. 101–508 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary's guaranty may not exceed the lesser of (A) the lesser of $20,000 or 40 percent of the loan, or (B) the maximum amount of guaranty entitlement available to the veteran as specified in paragraph (4) of this subsection. Payment of a claim under such guaranty shall be made only after liquidation of the security for the loan and the filing of an accounting with the Secretary. In any such accounting the Secretary shall permit to be included therein accrued unpaid interest from the date of the first uncured default to such cutoff date as the Secretary may establish, and the Secretary shall allow the holder of the loan to charge against the liquidation or resale proceeds, accrued interest from the cutoff date established to such further date as the Secretary may determine and such costs and expenses as the Secretary determines to be reasonable and proper. The liability of the United States under the guaranty provided for by this section shall decrease or increase pro rata with any decrease or increase of the amount of the unpaid portion of the obligation.”
+1990—Subsec. (c)(3). Pub. L. 101–508 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary's guaranty may not exceed the lesser of (A) the lesser of $20,000 or 40 percent of the loan, or (B) the maximum amount of guaranty entitlement available to the veteran as specified in paragraph (4) of this subsection. Payment of a claim under such guaranty shall be made only after liquidation of the security for the loan and the filing of an accounting with the Secretary. In any such accounting the Secretary shall permit to be included therein accrued unpaid interest from the date of the first uncured default to such cutoff date as the Secretary may establish, and the Secretary shall allow the holder of the loan to charge against the liquidation or resale proceeds, accrued interest from the cutoff date established to such further date as the Secretary may determine and such costs and expenses as the Secretary determines to be reasonable and proper. The liability of the United States under the guarantyprovided for by this section shall decrease or increase pro rata with any decrease or increase of the amount of the unpaid portion of the obligation.”
 
 1989—Subsecs. (a) to (h)(2)(A). Pub. L. 101–237, §313(b)(1), substituted “Secretary” and “Secretary's” for “Administrator” and “Administrator's”, respectively, wherever appearing.
 
@@ -282,7 +282,7 @@ Subsec. (c)(3), (4). Pub. L. 96–385, §402(c), substituted “$20,000” for �
 
 1978—Subsec. (a). Pub. L. 95–476, §107(a), substituted provisions that loans to eligible veterans could be guaranteed if such loans were for certain approved purposes, that such loans for any approved purpose could include an amount determined by the Administrator to be appropriate to cover the cost of necessary lot preparation, and that any loan under cls. (C) or (E) of par. (1) were to be considered one loan, evidenced either by a single instrument or separate instruments for the portions of the loan financing the purchase of the mobile home and the purchase and preparation of the lot for provision that any eligible veteran who had maximum entitlement available for use would be eligible for either the mobile home loan guaranty benefit or the mobile home lot loan guaranty benefit or both but that use of either would preclude use of any home loan guaranty entitlement under any other section until the loan guaranteed under this section had been paid in full.
 
-Subsec. (b)(1). Pub. L. 95–476, §107(a), substituted provision that use of benefit entitlement under this section for purchase of a mobile home unit would preclude use of any remainder of entitlement for purchase of an additional mobile home unit until the first unit had been disposed of or destroyed by natural hazard for provision that a loan to purchase a mobile home under this section could include amounts to finance purchase of lot and necessary preparation of lot.
+Subsec. (b)(1). Pub. L. 95–476, §107(a), substituted provision that use of benefit entitlement under this section for purchase of a mobile home unit would preclude use of any remainder of entitlement for purchase of an additional mobile home unit until the first unit had been disposed of or destroyed by natural hazard for provision that a loan to purchase a mobile home underthis section could include amounts to finance purchase of lot and necessary preparation of lot.
 
 Subsec. (b)(2). Pub. L. 95–476, §107(a), substituted provision authorizing Administrator to restore full benefit entitlement to a veteran under this chapter when conditions prescribed in section 1802(b) of this title had been met for provision authorizing loans to purchase and prepare a mobile home lot when veteran already owned such a mobile home.
 
@@ -366,7 +366,7 @@ Section 8031(b) of Pub. L. 101–508 provided that: “The amendment made by thi
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–253 applicable to loans closed on or after Feb. 1, 1988, except for loans for which guaranty commitment was made on or before Dec. 31, 1987, see section 3(c) of Pub. L. 100–253, set out as a note under section 3703 of this title.
+Amendment by Pub. L. 100–253 applicable to loans closed on or after Feb. 1, 1988, except for loans forwhich guaranty commitment was made on or before Dec. 31, 1987, see section 3(c) of Pub. L. 100–253, set out as a note under section 3703 of this title.
 
 #### Effective Date of 1987 Amendment
 

@@ -80,7 +80,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;(B) For each area of concern for which Canada has agreed to draft a Remedial Action Plan, the Program Office shall, pursuant to subparagraph (c)(1)(C) of this section, work with Canada to assure the submission of such Remedial Action Plans to the International Joint Commission by June 30, 1991, and to finalize such Remedial Action Plans by January 1, 1993.
 
-&emsp;(C) For any area of concern designated as such subsequent to November 16, 1990, the Program Office shall (i) if the United States has agreed to draft the Remedial Action Plan, ensure that the Great Lakes State in which such area of concern is located submits such Plan to the Program Office within two years of the area's designation, submits it to the International Joint Commission no later than six months after submitting it to the Program Office, and includes such Plan in the State's water quality plan no later than one year after submitting it to the Commission; and (ii) if Canada has agreed to draft the Remedial Action Plan, work with Canada, pursuant to subparagraph (c)(1)(C) of this section, to ensurethe submission of such Plan to the International Joint Commission within two years of the area's designation and the finalization of such Plan no later than eighteen months after submitting it to such Commission.
+&emsp;(C) For any area of concern designated as such subsequent to November 16, 1990, the Program Office shall (i) if the United States has agreed to draft the Remedial Action Plan, ensure that the Great Lakes State in which such area of concern is located submits such Plan to the Program Office within two years of the area's designation, submits it to the International Joint Commission no later than six months after submitting it to the Program Office, and includes such Plan in the State's water quality plan no later than one year after submitting it to the Commission; and (ii) if Canada has agreed to draft the Remedial Action Plan, work with Canada, pursuant to subparagraph (c)(1)(C) of this section, to ensure the submission of such Plan to the International Joint Commission within two years of the area's designation and the finalization of such Plan no later than eighteen months after submitting it to such Commission.
 
 &emsp;(D) The Program Office shall compile formal comments on individual Remedial Action Plans made by the International Joint Commission pursuant to section 4(d) of Annex 2 of the Great Lakes Water Quality Agreement and, upon request by a member of the public, shall make such comments available for inspection and copying. The Program Office shall also make available, upon request, formal comments made by the Environmental Protection Agency on individual Remedial Action Plans.
 
@@ -140,7 +140,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;&emsp;(A) describes the achievements in the preceding fiscal year in implementing the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments, and shows by categories (including judicial enforcement, research, State cooperative efforts, and general administration) the amounts expended on Great Lakes water quality initiatives in such preceding fiscal year;
 
-&emsp;&emsp;(B) describes the progress made in such preceding fiscal year in implementing thesystem of surveillance of the water quality in the Great Lakes System, including the monitoring of groundwater and sediment, with particular reference to toxic pollutants;
+&emsp;&emsp;(B) describes the progress made in such preceding fiscal year in implementing the system of surveillance of the water quality in the Great Lakes System, including the monitoring of groundwater and sediment, with particular reference to toxic pollutants;
 
 &emsp;&emsp;(C) describes the long-term prospects for improving the condition of the Great Lakes; and
 
@@ -226,7 +226,7 @@ The head of each department, agency, or other instrumentality of the Federal Gov
 
 #### (g) Relationship to existing Federal and State laws and international treaties
 
-Nothing in this section shall be construed to affect the jurisdiction, powers, or prerogatives of any department, agency, or officer of the Federal Government or of any State government, or of any tribe, nor any powers, jurisdiction, or prerogatives of any international body created by treaty with authority relating to the Great Lakes.
+Nothing in this section shall be construed to affect the jurisdiction, powers, or prerogatives of any department, agency, or officer of the Federal Government or of any State government, or of any tribe, nor any powers, jurisdiction, or prerogatives of any international body createdby treaty with authority relating to the Great Lakes.
 
 #### (h) Authorizations of Great Lakes appropriations
 
@@ -258,7 +258,7 @@ Subsec. (h). Pub. L. 101–596, §105, substituted “and 1990, and $25,000,000 
 
 #### Great Lakes Remedial Action Plans and Sediment Remediation
 
-Pub. L. 101–640, title IV, §401, Nov. 28, 1990, 104 Stat. 4644, as amended by Pub. L. 104–303, title V, §515, Oct. 12, 1996, 110 Stat. 3763, provided that:
+Pub. L. 101–640, title IV, §401, Nov. 28, 1990, 104 Stat. 4644, as amended by Pub. L. 104–303, title V, §515, Oct. 12, 1996, 110 Stat. 3763; Pub. L. 106–53, title V, §505, Aug. 17, 1999, 113 Stat. 338, provided that:
 
 “(a)
 
@@ -270,7 +270,15 @@ In general.—The Secretary may provide technical, planning, and engineering ass
 
 &emsp;“(2)
 
-Non-federal share.—Non-Federal interests shall contribute, in cash or by providing in-kind contributions, 50 percent of costs of activities for which assistance is provided under paragraph (1).
+Non-federal share.—
+
+&emsp;&emsp;“(A)
+
+In general.—Non-Federal interests shall contribute, in cash or by providing in-kind contributions, 50 percent of costs of activities for which assistance is provided under paragraph (1).
+
+&emsp;&emsp;“(B)
+
+Contributions by entities.—Nonprofit public or private entities may contribute all or a portion of the non-Federal share.
 
 “(b)
 

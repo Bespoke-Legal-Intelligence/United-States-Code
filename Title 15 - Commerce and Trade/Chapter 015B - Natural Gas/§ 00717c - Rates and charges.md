@@ -2,7 +2,7 @@
 
 #### (a) Just and reasonable rates and charges
 
-All rates and charges made, demanded, or received by any natural-gas company for or in connection with the transportation or sale of natural gas subject to the jurisdiction of the Commission, and all rules and regulations affecting or pertaining to such rates or charges, shall be just and reasonable, and any such rateor charge that is not just and reasonable is declared to be unlawful.
+All rates and charges made, demanded, or received by any natural-gas company for or in connection with the transportation or sale of natural gas subject to the jurisdiction of the Commission, and all rules and regulations affecting or pertaining to such rates or charges, shall be just and reasonable, and any such rate or charge that is not just and reasonable is declared to be unlawful.
 
 #### (b) Undue preferences and unreasonable rates and charges prohibited
 
@@ -34,7 +34,7 @@ For transfer of functions of Federal Power Commission, with certain reservations
 
 #### Advance Recovery of Expenses Incurred by Natural Gas Companies for Natural Gas Research, Development, and Demonstration Projects
 
-Pub. L. 102–104, title III, Aug. 17, 1991, 105 Stat. 531, authorized Federal Energy Regulatory Commission, pursuant to this section, to allow recovery, in advance, of expenses by natural-gas companies for research, development and demonstration activities by Gas Research Institute for projects on use of natural gas in motor vehicles and on use of natural gas to control emissions from combustion of other fuels, subject toCommission finding that benefits, including environmental benefits, to both existing and future ratepayers resulting from such activities exceed all direct costs to both existing and future ratepayers, prior to repeal by Pub. L. 102–486, title IV, §408(c), Oct. 24, 1992, 106 Stat. 2882.
+Pub. L. 102–104, title III, Aug. 17, 1991, 105 Stat. 531, authorized Federal Energy Regulatory Commission, pursuant to this section, to allow recovery, in advance, of expenses by natural-gas companies for research, development and demonstration activities by Gas Research Institute for projects on use of natural gas in motor vehicles and on use of natural gas to control emissions from combustion of other fuels, subject to Commission finding that benefits, including environmental benefits, to both existing and future ratepayers resulting from such activities exceed all direct costs to both existing and future ratepayers, prior to repeal by Pub. L. 102–486, title IV, §408(c), Oct. 24, 1992, 106 Stat. 2882.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment; duties; membership: voting members and Park Superintendent as nonvoting member; Chairman
 
-There is hereby established the Chattahoochee River National Recreation Area Advisory Commission (hereinafter in this subchapter and chapter 43 of this title referred to as the “Advisory Commission”) to advise the Secretary regarding the management and operation of the area, protection of resources with the recreation area, and the priority of lands to be acquired within the recreation area. The Advisory Commission shall be composed of the following thirteen voting members appointed by the Secretary:
+There is hereby established the Chattahoochee River National Recreation Area Advisory Commission (hereinafter in this subchapter referred to as the “Advisory Commission”) to advise the Secretary regarding the management and operation of the area, protection of resources with the recreation area, and the priority of lands to be acquired within the recreation area. The Advisory Commission shall be composed of the following thirteen voting members appointed by the Secretary:
 
 &emsp;(1) four members appointed from among individuals recommended by local governments—
 
@@ -38,11 +38,17 @@ The Advisory Commission shall meet on a regular basis. Notice of meetings and ag
 
 #### (d) Compensation and expenses
 
-Members of the Commission shall serve without compensation as such, but the Secretary may pay expenses reasonably incurred in carrying out their responsibilities under this subchapter and chapter 43 of this title on vouchers signed by the Chairman.
+Members of the Commission shall serve without compensation as such, but the Secretary may pay expenses reasonably incurred in carrying out their responsibilities under this subchapter on vouchers signed by the Chairman.
 
 #### (e) Termination
 
 The Advisory Commission shall terminate on the date ten years after October 30, 1984.
 
-(Pub. L. 95–344, title I, §106, as added Pub. L. 98–568, §1(f), Oct. 30, 1984, 98 Stat. 2931.)
+(Pub. L. 95–344, title I, §106, as added Pub. L. 98–568, §1(f), Oct. 30, 1984, 98 Stat. 2931; amended Pub. L. 106–154, §2(e)(5), (6), Dec. 9, 1999, 113 Stat. 1739.)
+
+#### Amendments
+
+1999—Subsec. (a). Pub. L. 106–154, §2(e)(5), substituted “this subchapter” for “this subchapter and chapter 43 of this title” in introductory provisions.
+
+Subsec. (d). Pub. L. 106–154, §2(e)(6), substituted “this subchapter” for “this subchapter and chapter 43 of this title”.
 

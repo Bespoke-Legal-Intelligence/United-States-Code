@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 5751, 13014, 13024 of this title.
+This subchapter is referred to in sections 13014, 13024 of this title.
 
 
 ---

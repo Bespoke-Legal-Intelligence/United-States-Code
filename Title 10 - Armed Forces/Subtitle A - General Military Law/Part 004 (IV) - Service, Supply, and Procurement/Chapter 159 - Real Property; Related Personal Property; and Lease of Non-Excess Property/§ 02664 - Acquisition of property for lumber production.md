@@ -34,7 +34,7 @@
 
 (f) A person named in subsection (a) may accept for the United States a gift of any property named in subsection (b), including temporary use, for any purpose named in subsection (a).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 148; Pub. L. 85–861, §33(a)(15), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 96–513, title V, §511(90), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–31, §12(3)(A), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–295, §1(32), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 100–26, §7(d)(6), Apr. 21, 1987, 101 Stat. 281.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 148; Pub. L. 85–861, §33(a)(15), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 96–513, title V, §511(90), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–31, §12(3)(A), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–295, §1(32), Oct. 12, 1982, 96 Stat.1296; Pub. L. 100–26, §7(d)(6), Apr. 21, 1987, 101 Stat. 281.)
 
 Historical and Revision Notes<br>1956
 
@@ -72,7 +72,7 @@ July 9, 1918, ch. 143, subch. XV, §8 (2d par.), 40 Stat. 888.
 
 \[No source\].
 
-In subsection (a), the introductory clause is substituted for 50:172 (1st 25 words, and 2d sentence). The words “Secretary of Commerce” and “Chairman of the Federal Maritime Board” are substituted for the words “Chairman of the United States Maritime Commission” and the words “functions transferred to the Secretary of Commerce or the Federal Maritime Board by 1950 Reorganization Plan No. 21, effective May 24, 1950, 64 Stat. 1273” are substituted for the words “\[functions of\] the United States Maritime Commission”, since the functions of the Chairman of the United States Maritime Commission and of the United States MaritimeCommission were transferred to the Secretary of Commerce and the Federal Maritime Board by that Reorganization Plan. The words “or any one or more of them” are substituted for the words “individually or collectively”, to make it clear that any number of them may act and not necessarily one or all of them. The words “equipment for them” are substituted for the words “their apparel or furniture”. The words “manufacture, or building” are omitted as covered by the word “production”. 50:172 (1st 18 words of 3d sentence) is omitted as surplusage.
+In subsection (a), the introductory clause is substituted for 50:172 (1st 25 words, and 2d sentence). The words “Secretary of Commerce” and “Chairman of the Federal Maritime Board” are substituted for the words “Chairman of the United States Maritime Commission” and the words “functions transferred to the Secretary of Commerce or the Federal Maritime Board by 1950 Reorganization Plan No. 21, effective May 24, 1950, 64 Stat. 1273” are substituted for the words “\[functions of\] the United States Maritime Commission”, since the functions of the Chairman of the United States Maritime Commission and of the United States Maritime Commission were transferred to the Secretary of Commerce and the Federal Maritime Board by that Reorganization Plan. The words “or any one or more of them” are substituted for the words “individually or collectively”, to make it clear that any number of them may act and not necessarily one or all of them. The words “equipment for them” are substituted for the words “their apparel or furniture”. The words “manufacture, or building” are omitted as covered by the word “production”. 50:172 (1st 18 words of 3d sentence) is omitted as surplusage.
 
 In subsection (a)(2), the word “supplies” is substituted for the words “materials and equipment”, since the word “supplies” is defined in section 101(26) of this title to include material and equipment.
 

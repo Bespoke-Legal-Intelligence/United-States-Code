@@ -1,8 +1,6 @@
 ### <b>\[CHAPTER 15—REPEALED\]</b>
 
-<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “this”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
 
 
 ---

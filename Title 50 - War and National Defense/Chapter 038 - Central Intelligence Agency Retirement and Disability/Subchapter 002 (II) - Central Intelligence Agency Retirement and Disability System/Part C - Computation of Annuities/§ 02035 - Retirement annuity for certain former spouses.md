@@ -52,7 +52,7 @@ A former spouse is not entitled to an annuity under this section if—
 
 #### (A) Time limit; waiver
 
-&emsp;&emsp;An annuity under this section shall not be payable unless appropriate written application is provided to the Director, complete with any supporting documentation which the Director may by regulation require, not later than June 2, 1990. The Director may waive the application deadline under the preceding sentence in any case in which theDirector determines that the circumstances warrant such a waiver.
+&emsp;&emsp;An annuity under this section shall not be payable unless appropriate written application is provided to the Director, complete with any supporting documentation which the Director may by regulation require, not later than June 2, 1990. The Director may waive the application deadline under the preceding sentence in any case in which the Director determines that the circumstances warrant such a waiver.
 
 #### (B) Retroactive benefits
 

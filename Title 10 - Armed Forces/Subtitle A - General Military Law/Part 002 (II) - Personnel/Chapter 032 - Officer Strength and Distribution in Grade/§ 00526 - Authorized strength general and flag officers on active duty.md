@@ -16,11 +16,25 @@ Limitations.—The number of general officers on active duty in the Army, Air Fo
 
 Limited Exclusion for Joint Duty Requirements.—(1) The Chairman of the Joint Chiefs of Staff may designate up to 12 general officer and flag officer positions that are joint duty assignments for purposes of chapter 38 of this title for exclusion from the limitations in subsection (a). Officers in positions so designated shall not be counted for the purposes of those limitations.
 
-(2) This subsection shall cease to be effective on October 1, 2002.
+(2)(A) The Chairman of the Joint Chiefs of Staff may designate up to 10 general and flag officer positions on the staffs of the commanders of the unified and specified combatant commands as positions to be held only by reserve component officers who are in a general or flagofficer grade below lieutenant general or vice admiral. Each position so designated shall be considered to be a joint duty assignment position for purposes of chapter 38 of this title.
+
+(B) A reserve component officer serving in a position designated under subparagraph (A) while on active duty under a call or order to active duty that does not specify a period of 180 days or less shall not be counted for the purposes of the limitations under subsection (a) and under section 525 of this title if the officer was selected for service in that position in accordance with the procedures specified in subparagraph (C).
+
+(C) Whenever a vacancy occurs, or is anticipated to occur, in a position designated under subparagraph (A)—
+
+&emsp;(i) the Secretary of Defense shall require the Secretary of the Army to submit the name of at least one Army reserve component officer, the Secretary of the Navy to submit the name of at least one Naval Reserve officer and the name of at least one Marine Corps Reserve officer, and the Secretary of the Air Force to submit the name of at least one Air Force reserve component officer for consideration by the Secretary for assignment to that position; and
+
+&emsp;(ii) the Chairman of the Joint Chiefs of Staff may submit to the Secretary of Defense the name of one or more officers (in addition to the officers whose names are submitted pursuant to clause (i)) for consideration by the Secretary for assignment to that position.
+
+(D) Whenever the Secretaries of the military departments are required to submit the names of officers under subparagraph (C)(i), the Chairman of the Joint Chiefs of Staff shall submit to the Secretary of Defense the Chairman's evaluation of the performance of each officer whose name is submitted under that subparagraph (and of any officer whose name the Chairman submits to the Secretary under subparagraph (C)(ii) for consideration for the same vacancy).
+
+(E) Subparagraph (B) does not apply in the case of an officer serving in a position designated under subparagraph (A) if the Secretary of Defense, when considering officers for assignment to fill the vacancy in that position which was filled by that officer, did not have a recommendation for that assignment from each Secretary of a military department who (pursuant to subparagraph (C)) was required to make such a recommendation.
+
+(3) This subsection shall cease to be effective on October 1, 2002.
 
 (c)
 
-Notice to Congress Upon Change in Grade for Certain Positions.—(1) Not later than 60 days before an action specified in paragraph (2) may become effective, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report providing notice of the intended action and an analytically based justification for the intended action.
+Notice to Congress Upon Change in Grade for Certain Positions.—(1) Not later than 60 days before an action specified in paragraph (2) may become effective, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report providing notice of the intended action and an analytically based justification for the intended action.
 
 (2) Paragraph (1) applies in the case of the following actions:
 
@@ -34,7 +48,7 @@ Notice to Congress Upon Change in Grade for Certain Positions.—(1) Not later t
 
 Exclusion of Certain Officers.—The limitations of this section do not apply to a reserve component general or flag officer who is on active duty for training or who is on active duty under a call or order specifying a period of less than 180 days.
 
-(Added Pub. L. 100–370, §1(b)(1)(B), July 19, 1988, 102 Stat. 840; amended Pub. L. 101–510, div. A, title IV, §403(a), Nov. 5, 1990, 104 Stat. 1545; Pub.L. 102–484, div. A, title IV, §403, Oct. 23, 1992, 106 Stat. 2398; Pub. L. 103–337, div. A, title IV, §404, title V, §512, Oct. 5, 1994, 108 Stat. 2744, 2752; Pub. L. 104–106, div. A, title XV, §§1502(a)(1), 1503(a)(3), Feb. 10, 1996, 110 Stat. 502, 510; Pub. L. 104–201, div. A, title IV, §405, Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §405, Oct. 17, 1998, 112 Stat. 1996.)
+(Added Pub. L. 100–370, §1(b)(1)(B), July 19, 1988, 102 Stat. 840; amended Pub. L. 101–510, div. A, title IV, §403(a), Nov. 5, 1990, 104 Stat. 1545; Pub. L. 102–484, div. A, title IV, §403, Oct. 23, 1992, 106 Stat. 2398; Pub. L. 103–337, div. A, title IV, §404, title V, §512, Oct. 5, 1994, 108 Stat. 2744, 2752; Pub. L. 104–106, div. A, title XV, §§1502(a)(1), 1503(a)(3), Feb. 10, 1996, 110 Stat. 502, 510; Pub. L. 104–201, div. A, title IV, §405, Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §405, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §553, title X, §1067(1), Oct. 5, 1999, 113 Stat. 615, 774.)
 
 #### Historical and Revision Notes
 
@@ -47,6 +61,10 @@ Present law (section 811(a) of Public Law 95–79, as amended) provides that the
 A prior section 526 was renumbered section 527 of this title.
 
 #### Amendments
+
+1999—Subsec. (b)(2), (3). Pub. L. 106–65, §553, added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (c)(1). Pub. L. 106–65, §1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 1998—Subsec. (b)(2). Pub. L. 105–261 substituted “October 1, 2002” for “October 1, 1998”.
 
@@ -82,15 +100,11 @@ Subsec. (c). Pub. L. 102–484, §403(a), added subsec. (c).
 
 1990—Pub. L. 101–510 amended section generally. Prior to amendment, text read as follows: “The total number of general officers on active duty in the Army, Air Force, and Marine Corps and flag officers on active duty in the Navy may not exceed 1,073.”
 
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
-
 #### Effective Date of 1990 Amendment
 
 Section 403(a) of Pub. L. 101–510 provided that the amendment made by that section is effective Sept. 30, 1991.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 527, 721, 3210, 5150, 8210, 12004 of this title.
+This section is referred to in sections 525, 527, 721, 3210, 4335, 5150, 8210, 9335, 12004, 12505 of this title.
 

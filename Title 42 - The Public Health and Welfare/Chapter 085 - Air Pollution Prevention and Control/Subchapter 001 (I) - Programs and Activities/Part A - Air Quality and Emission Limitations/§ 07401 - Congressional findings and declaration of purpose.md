@@ -80,6 +80,10 @@ Section 406 of Pub. L. 95–95, as amended by Pub. L. 95–190, §14(b)(6), Nov.
 
 &emsp;“(B) nine months after the date of promulgation by the Administrator of the Environmental Protection Administration of any regulations under an amendment made by this Act which are necessary for the approval of such plan revision.”
 
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–40, §1, Aug. 5, 1999, 113 Stat. 207, provided that: “This Act \[amending section 7412 of this title and enacting provisions set out as notes under section 7412 of this title\] may be cited as the ‘Chemical Safety Information, Site Security and Fuels Regulatory Relief Act’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–286, §1, Oct. 27, 1998, 112 Stat. 2773, provided that: “This Act \[amending section 7511b of this title and enacting provisions set out as a note under section 7511b of this title\] may be cited as the ‘Border Smog Reduction Act of 1998’.”
@@ -112,7 +116,7 @@ Pub. L. 89–675, §1, Oct. 15, 1966, 80 Stat. 954, provided: “That this Act \
 
 Section 317, formerly section 14, of act July 14, 1955, as added by section 1 of Pub. L. 88–206, renumbered section 307 by section 101(4) of Pub. L. 89–272, renumbered section 310 by section 2 of Pub. L. 90–148, and renumbered section 317 by Pub. L. 91–604, §12(a), Dec. 31, 1970, 84 Stat. 1705, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Clean Air Act’.”
 
-Section 201 of title II of act July 14, 1955, as added by Pub. L. 89–272, title I, §101(8), Oct. 20, 1965, 79 Stat. 992, and amended by Pub. L. 90–148, §2, Nov. 2, 1967, 81 Stat. 499, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘National Emission Standards Act’.” Prior to its amendment by Pub. L. 90–148, title II of act June 14, 1955, was known as the “Motor Vehicle Air Pollution Control Act”.
+Section 201 of title II of act July 14, 1955, as added by Pub. L. 89–272, title I, §101(8), Oct. 20, 1965, 79 Stat. 992,and amended by Pub. L. 90–148, §2, Nov. 2, 1967, 81 Stat. 499, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘National Emission Standards Act’.” Prior to its amendment by Pub. L. 90–148, title II of act June 14, 1955, was known as the “Motor Vehicle Air Pollution Control Act”.
 
 Section 401 of title IV of act July 14, 1955, as added Dec. 31, 1970, Pub. L. 91–604, §14, 84 Stat. 1709, provided that: “This title \[enacting subchapter IV of this chapter\] may be cited as the ‘Noise Pollution and Abatement Act of 1970’.”
 
@@ -210,7 +214,7 @@ Pub. L. 99–499, title IV, Oct. 17, 1986, 100 Stat. 1758, provided that:
 
 &emsp;“(1) High levels of radon gas pose a serious health threat in structures in certain areas of the country.
 
-&emsp;“(2) Various scientific studies have suggested that exposure to radon, including exposure to naturally occurring radon and indoor air pollutants, poses a public health risk.
+&emsp;“(2) Various scientific studies have suggested that exposure to radon, including exposure to naturallyoccurring radon and indoor air pollutants, poses a public health risk.
 
 &emsp;“(3) Existing Federal radon and indoor air pollutant research programs are fragmented and underfunded.
 

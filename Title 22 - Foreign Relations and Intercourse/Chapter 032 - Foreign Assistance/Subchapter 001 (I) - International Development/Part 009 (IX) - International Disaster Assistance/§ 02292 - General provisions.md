@@ -32,6 +32,10 @@ A prior section 491 of Pub. L. 87–195, pt. I, as added Pub. L. 92–226, pt. I
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
 
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2151u, 2292a, 2292f, 2292g, 2292h, 2292i, 2292j, 2292<i>l</i>, 2292m, 2292n, 2292<i>o</i>, 2292p, 2292q of this title.

@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations for State and interstate programs
 
-There are hereby authorized to be appropriated the following sums, to remain availableuntil expended, to carry out the purpose of this section—
+There are hereby authorized to be appropriated the following sums, to remain available until expended, to carry out the purpose of this section—
 
 &emsp;(1) $60,000,000 for the fiscal year ending June 30, 1973; and
 

@@ -10,7 +10,7 @@ I74house report no. 94–1476
 
 Section 403 is aimed at a publishing practice that, while technically justified under the present law, has been the object of considerable criticism. In cases where a Government work is published or republished commercially, it has frequently been the practice to add some “new matter” in the form of an introduction, editing, illustrations, etc., and to include a general copyright notice in the name of the commercial publisher. This in no way suggests to the public that the bulk of the work is uncopyrightable and therefore free for use.
 
-To make the notice meaningful rather than misleading, section 403 requires that, when the copies or phonorecords consist “preponderantly of one or more works of the United States Government,” the copyright notice (if any) identify those parts of the work in which copyright is claimed. A failure to meet this requirement would be treated as an omission of the notice, subject to the provisions of section 405.
+To make the notice meaningful rather than misleading, section 403 requires that, when the copies or phonorecords consist “preponderantly of one or more works of the United States Government,” the copyright notice (if any) identify those parts of the work inwhich copyright is claimed. A failure to meet this requirement would be treated as an omission of the notice, subject to the provisions of section 405.
 
 #### Amendments
 

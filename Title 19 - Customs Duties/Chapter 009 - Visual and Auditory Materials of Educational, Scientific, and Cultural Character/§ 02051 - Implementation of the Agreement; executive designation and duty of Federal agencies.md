@@ -1,6 +1,6 @@
 ### §2051. Implementation of the Agreement; executive designation and duty of Federal agencies
 
-The President of the United States is authorized to designate a Federal agency or agencies which shall be responsible for carrying out the provisions of the Agreement for Facilitating the International Circulation of Visual and Auditory Materials of an Educational, Scientific, and Cultural Character and a related protocol of signature, opened for signature at Lake Success on July 15, 1949 (hereinafter in this chapter referred to as the “Agreement”). It shall be the duty of the Federal agency or agencies so designated to take appropriate measures for the carrying out of the provisions of the Agreement including the issuance of regulations. In carrying out this section, such Federal agency or agencies may not consider visual or auditory material to fail to qualify as being of international educational character—
+The President of the United States is authorized to designate a Federal agency or agencies which shall be responsible for carrying out the provisions of the Agreement for Facilitating the International Circulation of Visual and Auditory Materials of an Educational, Scientific, andCultural Character and a related protocol of signature, opened for signature at Lake Success on July 15, 1949 (hereinafter in this chapter referred to as the “Agreement”). It shall be the duty of the Federal agency or agencies so designated to take appropriate measures for the carrying out of the provisions of the Agreement including the issuance of regulations. In carrying out this section, such Federal agency or agencies may not consider visual or auditory material to fail to qualify as being of international educational character—
 
 &emsp;(1) because it advocates a particular position or viewpoint, whether or not it presents or acknowledges opposing viewpoints;
 
@@ -31,4 +31,6 @@ By virtue of the authority vested in me as President of the United States, inclu
 2\. Pursuant to the “Agreement for Facilitating the International Circulation of Visual and Auditory Materials of an Educational, Scientific and Cultural Character”, made at Beirut in 1948, the Joint Resolution, and headnote 1 to schedule 8, part 6 of the Tariff Schedules of the United States, the United States Information Agency is hereby designated as the agency to carry out the provisions of the Agreement and related protocol, and to make any determinations and to prescribe any regulations required by headnote 1.
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.\]
 

@@ -18,7 +18,11 @@ Funding.—There shall be available from the Highway Trust Fund (other than the 
 
 Contract Authority.—Approval by the Secretary of a grant with funds made available under this section imposes upon the United States Government a contractual obligation for payment of the Government's share of costs incurred in carrying out the objectives of the grant.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 992; Pub. L. 105–178, title IV, §4004(b), June 9, 1998, 112 Stat. 400.)
+(c)
+
+Emergency CDL Grants.—From amounts made available by subsection (a) for a fiscal year, the Secretary of Transportation may make a grant of up to $1,000,000 to a State whose commercial driver's license program may fail to meet the compliance requirements of section 31311(a).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 992; Pub. L. 105–178, title IV, §4004(b), June 9, 1998, 112 Stat. 400; Pub. L. 106–159, title I, §103(d), Dec. 9, 1999, 113 Stat. 1754.)
 
 Historical and Revision Notes
 
@@ -40,11 +44,13 @@ In subsection (a)(3), the words “on matters, including training on accident”
 
 #### Amendments
 
+1999—Subsec. (c). Pub. L. 106–159 added subsec. (c).
+
 1998—Pub. L. 105–178 amended section catchline and text generally, substituting provisions relating to contract authority funding for information systems for provisions relating to truck and bus accident grant program.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 31106 of this title.
+This section is referred to in section 31106 of this title; title 23 section 110.
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

@@ -10,17 +10,13 @@
 
 (c) The Administrator shall carry out—
 
-&emsp;(1) duties and powers vested in the Secretary by chapter 4 of title 23 for highway safety programs, research, and development related to highway design, construction and maintenance, traffic control devices, identification and surveillance of accident locations, and highway-related aspects of pedestrian safety;
+&emsp;(1) duties and powers vested in the Secretary by chapter 4 of title 23 for highway safety programs, research, and development related to highway design, construction and maintenance, traffic control devices, identification and surveillance of accident locations, and highway-related aspects of pedestrian safety; and
 
-&emsp;(2) duties and powers related to motor carrier safety vested in the Secretary by chapters 5 and 315 of this title; and
+&emsp;(2) additional duties and powers prescribed by the Secretary.
 
-&emsp;(3) additional duties and powers prescribed by the Secretary.
+(d) Notwithstanding the provisions of sections 101(d) and 144 of title 23, highway bridges determined to be unreasonable obstructions to navigation under the Truman-Hobbs Act may be funded from amounts set aside from the discretionary bridge program. The Secretary shall transfer these allocations and the responsibility for administration of these funds to the United States Coast Guard.
 
-(d) A duty or power specified by subsection (c)(2) of this section may be transferred to another part of the Department only when specifically provided by law or a reorganization plan submitted under chapter 9 of title 5. A decision of the Administrator in carrying out those duties or powers and involving notice and hearing required by law is administratively final.
-
-(e) Notwithstanding the provisions of sections 101(d) and 144 of title 23, highway bridges determined to be unreasonable obstructions to navigation under the Truman-Hobbs Act may be funded from amounts set aside from the discretionary bridge program. The Secretary shall transfer these allocations and the responsibility for administration of these funds to the United States Coast Guard.
-
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2415; Pub. L. 103–272, §§4(j)(2), 5(m)(2), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 104–324, title I, §101(b)(1), Oct. 19, 1996, 110 Stat. 3905.)
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2415; Pub. L. 103–272, §§4(j)(2), 5(m)(2), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 104–324, title I, §101(b)(1), Oct. 19, 1996, 110 Stat. 3905; Pub. L. 106–159, title I, §101(c)(2), Dec. 9, 1999, 113 Stat. 1751.)
 
 Historical and Revision Notes
 
@@ -86,15 +82,23 @@ In subsection (d), the word “law” is substituted for “statute” in 49:165
 
 #### References in Text
 
-The Truman-Hobbs Act, referred to in subsec. (e), is act June 21, 1940, ch. 409, 54 Stat. 497, as amended, also known as the Hobbs Bridge Act, which is classified generally to subchapter II (§511 et seq.) of chapter 11 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Tables.
+The Truman-Hobbs Act, referred to in subsec. (d), is act June 21, 1940, ch. 409, 54 Stat. 497, as amended, also known as the Hobbs Bridge Act, which is classified generally to subchapter II (§511 et seq.) of chapter 11 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1999—Subsec. (c). Pub. L. 106–159, §101(c)(2)(A), substituted “; and” for the semicolon at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “duties and powers related to motor carrier safety vested in the Secretary by chapters 5 and 315 of this title; and”.
+
+Subsecs. (d), (e). Pub. L. 106–159, §101(c)(2)(B), (C), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “A duty or power specified by subsection (c)(2) of this section may be transferred to another part of the Department only when specifically provided by law or a reorganization plan submitted under chapter 9 of title 5. A decision of the Administrator in carrying out those duties or powers and involving notice and hearing required by law is administratively final.”
 
 1996—Subsec. (e). Pub. L. 104–324 added subsec. (e).
 
 1994—Subsec. (b)(1). Pub. L. 103–272, §4(j)(2), substituted “Administrator” for “Admininstrator” before “who is”.
 
 Subsec. (c)(2). Pub. L. 103–272, §5(m)(2), substituted “315” for “31”.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–159, title I, §107(a), Dec. 9, 1999, 113 Stat. 1758, provided that: “This Act \[see Tables for classification\] shall take effect on the date of the enactment of this Act \[Dec. 9, 1999\]; except that the amendments made by section 101 \[enacting section 113 of this title and amending this section, sections 5314 and 5316 of Title 5, Government Organization and Employees, and section 104 of Title 23, Highways\] shall take effect on January 1, 2000.”
 
 #### Elimination of Regional Office Responsibilities
 
@@ -110,7 +114,7 @@ Elimination.—The Secretary \[of Transportation\] shall eliminate any programma
 
 &emsp;“(2)
 
-Activities.—In carrying out paragraph (1), the Secretary shall eliminate regional offices, createtechnical resource centers, and, to the maximum extent practicable, delegate authority to State offices of the Federal Highway Administration.
+Activities.—In carrying out paragraph (1), the Secretary shall eliminate regional offices, create technical resource centers, and, to the maximum extent practicable, delegate authority to State offices of the Federal Highway Administration.
 
 “(b)
 

@@ -10,7 +10,7 @@ Within ten days after such claim is filed the deputy commissioner, in accordance
 
 #### (c) Investigations; order for hearing; notice; rejection or award
 
-The deputy commissioner shall make or cause to be made such investigations as he considers necessary in respect of the claim, and upon application of any interested party shall order a hearing thereon. If a hearing on such claim is ordered the deputy commissioner shall give the claimant and other interested parties at least ten days’ notice of such hearing, served personally upon the claimant and other interested parties or sent to such claimant and other interested parties by registered mail or by certified mail, and shall within twenty days after such hearing is had, by order, reject the claim or make an award in respect of the claim. If no hearing is ordered within twenty days after notice is given as provided in subsection (b) of thissection, the deputy commissioner shall, by order, reject the claim or make an award in respect of the claim.
+The deputy commissioner shall make or cause to be made such investigations as he considers necessary in respect of the claim, and upon application of any interested party shall order a hearing thereon. If a hearing on such claim is ordered the deputy commissioner shall give the claimant and other interested parties at least ten days’ notice of such hearing, served personally upon the claimant and other interested parties or sent to such claimant and other interested parties by registered mail or by certified mail, and shall within twenty days after such hearing is had, by order, reject the claim or make an award in respect of the claim. If no hearing is ordered within twenty days after notice is given as provided in subsection (b) of this section, the deputy commissioner shall, by order, reject the claim or make an award in respect of the claim.
 
 #### (d) Provisions governing conduct of hearing; administrative law judges
 
@@ -32,7 +32,7 @@ At any time after a claim has been filed with him, the deputy commissioner may, 
 
 An injured employee claiming or entitled to compensation shall submit to such physical examination by a medical officer of the United States or by a duly qualified physician designated or approved by the Secretary as the deputy commissioner may require. The place or places shall be reasonably convenient for the employee. Such physician or physicians as the employee, employer, or carrier may select and pay for may participate in an examination if the employee, employer, or carrier so requests. Proceedings shall be suspended and no compensation be payable for any period during which the employee may refuse to submit to examination.
 
-(Mar. 4, 1927, ch. 509, §19, 44 Stat. 1435; June 25, 1938, ch. 685, §9, 52 Stat. 1167; Pub. L. 86–507, §1(30), (31), June 11, 1960, 74 Stat. 202; Pub. L. 92–576, §14, Oct. 27, 1972, 86 Stat. 1261; Pub. L. 95–251, §2(a)(10), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–426, §27(a)(2), Sept. 28, 1984, 98 Stat. 1654.)
+(Mar. 4, 1927, ch. 509, §19, 44 Stat. 1435; June 25, 1938, ch. 685, §9, 52 Stat. 1167; Pub. L. 86–507,§1(30), (31), June 11, 1960, 74 Stat. 202; Pub. L. 92–576, §14, Oct. 27, 1972, 86 Stat. 1261; Pub. L. 95–251, §2(a)(10), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–426, §27(a)(2), Sept. 28, 1984, 98 Stat. 1654.)
 
 #### Amendments
 

@@ -24,7 +24,7 @@
 
 &emsp;(C) administrative staff manuals and instructions to staff that affect a member of the public;
 
-&emsp;(D) copies of all records, regardless of form or format, which have been released to any person under paragraph (3) and which, because of the nature of their subject matter, theagency determines have become or are likely to become the subject of subsequent requests for substantially the same records; and
+&emsp;(D) copies of all records, regardless of form or format, which have been released to any person under paragraph (3) and which, because of the nature of their subject matter, the agency determines have become or are likely to become the subject of subsequent requests for substantially the same records; and
 
 &emsp;(E) a general index of the records referred to under subparagraph (D);
 
@@ -58,7 +58,7 @@
 
 &emsp;(I) if the costs of routine collection and processing of the fee are likely to equal or exceed the amount of the fee; or
 
-&emsp;(II) for any request described in clause (ii) (II) or (III) of this subparagraph for the firsttwo hours of search time or for the first one hundred pages of duplication.
+&emsp;(II) for any request described in clause (ii) (II) or (III) of this subparagraph for the first two hours of search time or for the first one hundred pages of duplication.
 
 (v) No agency may require advance payment of any fee unless the requester has previously failed to pay fees in a timely fashion, or the agency has determined that the fee will exceed $250.
 
@@ -94,7 +94,7 @@
 
 &emsp;(I) the need to search for and collect the requested records from field facilities or other establishments that are separate from the office processing the request;
 
-&emsp;(II) the need to search for, collect, and appropriately examine a voluminous amount ofseparate and distinct records which are demanded in a single request; or
+&emsp;(II) the need to search for, collect, and appropriately examine a voluminous amount of separate and distinct records which are demanded in a single request; or
 
 &emsp;(III) the need for consultation, which shall be conducted with all practicable speed, with another agency having a substantial interest in the determination of the request or among two or more components of the agency having substantial subject-matter interest therein.
 
@@ -104,7 +104,7 @@
 
 (ii) For purposes of this subparagraph, the term “exceptional circumstances” does not include a delay that results from a predictable agency workload of requests under this section, unless the agency demonstrates reasonable progress in reducing its backlog of pending requests.
 
-(iii) Refusal by a person to reasonably modify the scope of a request or arrange an alternative time frame for processing a request (or a modified request) under clause (ii) after being given an opportunity to do so by the agency to whom the person made the request shall be considered as a factor in determining whether exceptional circumstances exist for purposes of this subparagraph.
+(iii) Refusal by a person to reasonably modify the scope of a request or arrange an alternative time frame for processing a request (or a modified request) under clause (ii) after being given an opportunity to do so by the agency to whomthe person made the request shall be considered as a factor in determining whether exceptional circumstances exist for purposes of this subparagraph.
 
 (D)(i) Each agency may promulgate regulations, pursuant to notice and receipt of public comment, providing for multitrack processing of requests for records based on the amount of work or time (or both) involved in processing requests.
 
@@ -144,7 +144,7 @@
 
 &emsp;(2) related solely to the internal personnel rules and practices of an agency;
 
-&emsp;(3) specifically exempted from disclosure by statute (other than section 552b of this title), provided that such statute (A) requires thatthe matters be withheld from the public in such a manner as to leave no discretion on the issue, or (B) establishes particular criteria for withholding or refers to particular types of matters to be withheld;
+&emsp;(3) specifically exempted from disclosure by statute (other than section 552b of this title), provided that such statute (A) requires that the matters be withheld from the public in such a manner as to leave no discretion on the issue, or (B) establishes particular criteria for withholding or refers to particular types of matters to be withheld;
 
 &emsp;(4) trade secrets and commercial or financial information obtained from a person and privileged or confidential;
 
@@ -158,7 +158,7 @@
 
 &emsp;(9) geological and geophysical information and data, including maps, concerning wells.
 
-> Any reasonably segregable portion of a record shall be provided to any person requesting such record after deletion of the portions which are exempt under this subsection. The amount of information deleted shall be indicated on the released portion of the record, unless including that indication would harm an interest protected by the exemption in this subsection under which the deletion is made. If technically feasible, the amount of the information deleted shall be indicated at the place in the record where such deletion is made.
+> Any reasonably segregable portion of a record shall be provided to any person requesting suchrecord after deletion of the portions which are exempt under this subsection. The amount of information deleted shall be indicated on the released portion of the record, unless including that indication would harm an interest protected by the exemption in this subsection under which the deletion is made. If technically feasible, the amount of the information deleted shall be indicated at the place in the record where such deletion is made.
 
 (c)(1) Whenever a request is made which involves access to records described in subsection (b)(7)(A) and—
 
@@ -192,7 +192,7 @@
 
 &emsp;(G) the number of full-time staff of the agency devoted to processing requests for records under this section, and the total amount expended by the agency for processing such requests.
 
-(2) Each agency shall make each such report available to the public including by computertelecommunications, or if computer telecommunications means have not been established by the agency, by other electronic means.
+(2) Each agency shall make each such report available to the public including by computer telecommunications, or if computer telecommunications means have not been established by the agency, by other electronic means.
 
 (3) The Attorney General of the United States shall make each report which has been made available by electronic means available at a single electronic access point. The Attorney General of the United States shall notify the Chairman and ranking minority member of the Committee on Government Reform and Oversight of the House of Representatives and the Chairman and ranking minority member of the Committees on Governmental Affairs and the Judiciary of the Senate, no later than April 1 of the year in which each such report is issued, that such reports are available by electronic means.
 
@@ -206,7 +206,7 @@
 
 &emsp;(2) “record” and any other term used in this section in reference to information includes any information that would be an agency record subject to the requirements of this section when maintained by an agency in any format, including an electronic format.
 
-(g) The head of each agency shall prepare and make publicly available upon request, reference material or a guide for requesting records or information from the agency, subject to the exemptions in subsection (b), including—
+(g) The head of each agency shall prepare and make publicly available upon request, referencematerial or a guide for requesting records or information from the agency, subject to the exemptions in subsection (b), including—
 
 &emsp;(1) an index of all major information systems of the agency;
 
@@ -324,7 +324,7 @@ Subsec. (a)(6). Pub. L. 93–502, §1(c), added par. (6).
 
 Subsec. (b)(1). Pub. L. 93–502, §2(a), designated existing provisions as cl. (A), substituted “authorized under criteria established by an” for “required by”, and added cl. (B).
 
-Subsec. (b)(7). Pub. L. 93–502, §2(b), substituted provisions relating to exemption for investigatory records compiled for law enforcement purposes, for provisionsrelating to exemption for investigatory files compiled for law enforcement purposes.
+Subsec. (b)(7). Pub. L. 93–502, §2(b), substituted provisions relating to exemption for investigatory records compiled for law enforcement purposes, for provisions relating to exemption for investigatory files compiled for law enforcement purposes.
 
 Subsec. (b), foll. par. (9). Pub. L. 93–502, §2(c), inserted provision relating to availability of segregable portion of records.
 
@@ -336,7 +336,7 @@ Subsec. (a)(1). Pub. L. 90–23 incorporated provisions of: former subsec. (b)(1
 
 Subsec. (a)(2). Pub. L. 90–23 incorporated provisions of former subsec. (c), provided for public copying of records, struck out requirement of agency publication of final opinions or orders and authority for secrecy and withholding of opinions and orders required for good cause to be held confidential and not cited as precedents, latter provision now superseded by subsec. (b) of this section, designated existing subsec. (c) as clause (A), including provision for availability of concurring and dissenting opinions, inserted provisions for availability of policy statements and interpretations in clause (B) and staff manuals and instructions in clause (C), deletion of personal identifications from records to protect personal privacy with written justification therefor, and provision for indexing and prohibition of use of records not indexed against any private party without actual and timely notice of the terms thereof.
 
-Subsec. (a)(3). Pub. L. 90–23 incorporated provisions of former subsec. (d) and substituted provisions requiring identifiable agency records to be made available to any person upon request and compliance with rules as to time, place, and procedure for inspection, and payment of fees and provisions for Federal district court proceedings de novo for enforcement by contempt of noncompliance with court's orders with the burden on the agency and docket precedence for such proceedings for former provisions requiring matters of official record to be made available to persons properly and directly concerned except information held confidential for good cause shown, the latter provision superseded by subsec. (b) of this section.
+Subsec. (a)(3). Pub. L. 90–23 incorporated provisions of former subsec. (d) and substituted provisions requiringidentifiable agency records to be made available to any person upon request and compliance with rules as to time, place, and procedure for inspection, and payment of fees and provisions for Federal district court proceedings de novo for enforcement by contempt of noncompliance with court's orders with the burden on the agency and docket precedence for such proceedings for former provisions requiring matters of official record to be made available to persons properly and directly concerned except information held confidential for good cause shown, the latter provision superseded by subsec. (b) of this section.
 
 Subsec. (a)(4). Pub. L. 90–23 added par. (4).
 
@@ -392,7 +392,7 @@ Section 4 of Pub. L. 90–23 provided that: “This Act \[amending this section\
 
 #### Short Title of 1996 Amendment
 
-Section 1 of Pub. L. 104–231 provided that: “This Act \[amending this section and enacting provisions set outas notes under this section\] may be cited as the ‘Electronic Freedom of Information Act Amendments of 1996’.”
+Section 1 of Pub. L. 104–231 provided that: “This Act \[amending this section and enacting provisions set out as notes under this section\] may be cited as the ‘Electronic Freedom of Information Act Amendments of 1996’.”
 
 #### Short Title of 1986 Amendment
 
@@ -442,7 +442,7 @@ Initial meeting.—Not later than 90 days after the date of enactment of this Ac
 
 “(c)
 
-Functions.—Not later than 1 year after the date of enactment of this Act \[Oct. 8, 1998\], the Interagency Group shall, to the greatest extent possible consistent with section 3 of this Act—
+Functions.—Not later than 1 year after the date of enactment of this Act \[Oct. 8, 1998\], the InteragencyGroup shall, to the greatest extent possible consistent with section 3 of this Act—
 
 &emsp;“(1) locate, identify, inventory, recommend for declassification, and make available to the public at the National Archives and Records Administration, all classified Nazi war criminal records of the United States;
 
@@ -514,7 +514,7 @@ Application of exemptions.—
 
 &emsp;&emsp;“(A)
 
-In general.—In applying the exemptions listed in subparagraphs (B) through (J) of paragraph (2), there shall be a presumption that thepublic interest in the release of Nazi war criminal records will be served by disclosure and release of the records. Assertion of such exemption may only be made when the agency head determines that disclosure and release would be harmful to a specific interest identified in the exemption. An agency head who makes such a determination shall promptly report it to the committees of Congress with appropriate jurisdiction, including the Committee on the Judiciary of the Senate and the Committee on Government Reform and Oversight \[now Committee on Government Reform\] of the House of Representatives. The exemptions set forth in paragraph (2) shall constitute the only authority pursuant to which an agency head may exempt records otherwise subject to release under paragraph (1).
+In general.—In applying the exemptions listed in subparagraphs (B) through (J) of paragraph (2), there shall be a presumption that the public interest in the release of Nazi war criminal records will be served by disclosure and release of the records. Assertion of such exemption may only be made when the agency head determines that disclosure and release would be harmful to a specific interest identified in the exemption. An agency head who makes such a determination shall promptly report it to the committees of Congress with appropriate jurisdiction, including the Committee on the Judiciary of the Senate and the Committee on Government Reform and Oversight \[now Committee on Government Reform\] of the House of Representatives. The exemptions set forth in paragraph (2) shall constitute the only authority pursuant to which an agency head may exempt records otherwise subject to release under paragraph (1).
 
 &emsp;&emsp;“(B)
 
@@ -620,7 +620,7 @@ Ex. Ord. No. 12600, June 23, 1987, 52 F.R. 23781, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, and in order to provide predisclosure notification procedures under the Freedom of Information Act \[5 U.S.C. 552\] concerning confidential commercial information, and to make existing agency notification provisions more uniform, it is hereby ordered as follows:
 
-Section 1. The head of each Executive department and agency subject to the Freedom of Information Act \[5 U.S.C. 552\] shall, to the extent permitted by law, establish procedures to notify submitters of records containing confidential commercial information as described in section 3 of this Order, when those records are requested under the Freedom of Information Act \[FOIA\], 5 U.S.C. 552, as amended, if after reviewing therequest, the responsive records, and any appeal by the requester, the department or agency determines that it may be required to disclose the records. Such notice requires that an agency use good-faith efforts to advise submitters of confidential commercial information of the procedures established under this Order. Further, where notification of a voluminous number of submitters is required, such notification may be accomplished by posting or publishing the notice in a place reasonably calculated to accomplish notification.
+Section 1. The head of each Executive department and agency subject to the Freedom of Information Act \[5 U.S.C. 552\] shall, to the extent permitted by law, establish procedures to notify submitters of records containing confidential commercial information as described in section 3 of this Order, when those records are requested under the Freedom of Information Act \[FOIA\], 5 U.S.C. 552, as amended, if after reviewing the request, the responsive records, and any appeal by the requester, the department or agency determines that it may be required to disclose the records. Such notice requires that an agency use good-faith efforts to advise submitters of confidential commercial information of the procedures established under this Order. Further, where notification of a voluminous number of submitters is required, such notification may be accomplished by posting or publishing the notice in a place reasonably calculated to accomplish notification.
 
 Sec. 2. For purposes of this Order, the following definitions apply:
 
@@ -712,5 +712,5 @@ Section applicable to functions exercised under International Wheat Agreement Ac
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 551, 552a, 552b, 566, 574, 1216, 7133 of this title; title 2 sections 472, 501, 502; title 7 sections 12, 450i, 499f, 608d, 948, 1314g, 1314i, 1508, 1642, 2279b, 5651, 5662, 5906; title 8 section 1182; title 10 sections 128, 1034, 1102, 2304, 2305, 2306a, 2328, 2371; title 12 sections 1786, 1818, 1831<i>o</i>, 4611; title 14 section 645; title 15 sections 18a, 57b–2, 78m, 78<i>o</i>–5, 78q, 78w, 78x, 78dd–1, 78dd–2, 79z–5c, 80a–30, 278n, 719d, 773, 796, 1314, 1335a, 2055, 2217, 2613, 3364, 3710a, 4019, 4104, 4107, 4305, 4403, 4606, 4912, 5104, 5308; title 16 sections 973j, 1402, 4304; title 18 sections 207, 208, 1838; title 19 sections 1333, 1431, 1509, 1625, 1677f, 2418, 3315; title 20 sections 1078, 1087–2, 2422, 6512; title 21 sections 360c, 360j, 379, 379f, 830; title 22 sections 2200a, 3902, 4355, 4415, 4604, 4607, 4833, 5841; title 25 sections 450c, 450k, 1951, 2716; title 26 sections 6103, 6110, 7611, 7803; title 28 sections 594, 1657; title 29 sections 1310, 1343, 2635; title 30 section 1604; title 31 sections 716, 1352, 3729, 3733, 5319; title 33 sections 524, 941, 1513; title 35 sections 202, 209; title 38 sections 501, 502, 7451; title 39 section 410; title 41 sections 253, 253b, 254b, 423, 706; title 42 sections 263b, 300v–2, 300aa–25, 405, 1306, 1320c–9, 2167, 2168, 2297b–13, 2454, 2996d, 3027, 4332, 5916, 5919, 6272–6274, 7135, 8103, 9122, 9208, 9660, 10704, 13385; title 44 sections 2201, 2204, 2206, 3501, 3504, 3506; title 46 sections 4309, 7702, 9303; title 46 App. section 1705; title 49 sections 106, 706, 10706, 10709, 11162, 14123; title 50 section 431; title 50 App. sections 463, 2158, 2159, 2170, 2406, 2411.
+This section is referred to in sections 551, 552a, 552b, 566, 574, 1216, 7133 of this title; title 2 sections 472, 501, 502; title 7 sections 12, 450i, 499f, 608d, 948, 1314g, 1314i, 1508, 1642, 2279b, 5651, 5662, 5906; title 8 section 1182; title 10 sections 128, 1034, 1102, 2304, 2305, 2306a, 2328, 2371; title 12 sections 1786, 1818, 1831<i>o</i>, 4611; title 14 section 645; title 15 sections 18a, 57b–2, 78m, 78<i>o</i>–5, 78q, 78w, 78x, 78dd–1, 78dd–2, 79z–5c, 80a–30, 278n, 719d, 773, 796, 1314, 1335a, 2055, 2217, 2613, 3364, 3710a, 4019, 4104, 4107, 4305, 4403, 4606, 4912, 5104, 5308; title 16 sections 973j, 1402, 4304, 5937; title 18 sections 207, 208, 1838; title 19 sections 1333, 1431, 1509, 1625, 1677f, 2418, 3315; title 20 sections 1078, 1087–2, 6512; title 21 sections 360c, 360j, 379, 379f, 830; title 22 sections 2200a, 3902, 4355, 4415, 4604, 4607, 4833, 5841, 6713, 6744; title 25 sections 450c, 450k, 1951, 2716; title 26 sections 6103, 6110, 7611, 7803; title 28 sections 594, 1657; title 29 sections 1310, 1343, 2635; title 30 section 1604; title 31 sections 716, 1352, 3729, 3733, 5319; title 33 sections 524, 941, 1513; title 35 sections 202, 209; title 38 sections 501, 502, 7451; title 39 section 410; title 41 sections 253, 253b, 254b, 423, 706; title 42 sections 263b, 300v–2, 300aa–25, 405, 1306, 1320c–9, 2167, 2168, 2454, 2996d, 3027,4332, 5916, 5919, 6272–6274, 7135, 8103, 9122, 9208, 9660, 10704, 13385; title 44 sections 2201, 2204, 2206, 3501, 3504, 3506; title 46 sections 4309, 6305, 7702, 9303; title 46 App. section 1705; title 49 sections 106, 706, 10706, 10709, 11162, 14123; title 50 section 431; title 50 App. sections 463, 2158, 2159, 2170, 2406, 2411.
 

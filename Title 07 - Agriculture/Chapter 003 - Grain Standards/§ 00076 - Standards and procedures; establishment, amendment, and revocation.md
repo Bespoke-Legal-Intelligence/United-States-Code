@@ -80,7 +80,7 @@ For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90
 
 #### Benefits and Costs Associated With Improved Grain Quality
 
-Section 2003 of title XX of Pub. L. 101–624 provided that: “The Administrator of the Federal Grain Inspection Service shall estimate the economic impact, including the benefits and costs and the distribution of such benefits and costs, of any major changes necessary to carry out the amendments made under this title to sections 4 and 13 of the United States Grain Standards Act (7 U.S.C. 76 and 87b) prior to making such changes.”
+Section 2003 of title XX of Pub. L. 101–624 provided that: “The Administrator of the Federal Grain Inspection Service shall estimate the economic impact, including the benefits and costs and the distribution ofsuch benefits and costs, of any major changes necessary to carry out the amendments made under this title to sections 4 and 13 of the United States Grain Standards Act (7 U.S.C. 76 and 87b) prior to making such changes.”
 
 #### Revision of Grain Inspection Procedures To Reflect Levels of Insect Infestation
 
@@ -92,7 +92,7 @@ Pub. L. 99–641, title III, §307, Nov. 10, 1986, 100 Stat. 3566, as amended by
 
 “(a)
 
-Study.—The Secretary of Agriculture shall direct the Federal Grain Inspection Service and the Agricultural Research Service to conduct a study of theneed for and availability of uniform end-use value tests for grain. The study shall include the following:
+Study.—The Secretary of Agriculture shall direct the Federal Grain Inspection Service and the Agricultural Research Service to conduct a study of the need for and availability of uniform end-use value tests for grain. The study shall include the following:
 
 &emsp;“(1) A survey of domestic and foreign buyers of grain to identify the information about grain characteristics that would be most useful to such buyers. The survey shall take into account those factors that buyers specify in contracts, test for, measure, or would measure if tests were available, including—
 

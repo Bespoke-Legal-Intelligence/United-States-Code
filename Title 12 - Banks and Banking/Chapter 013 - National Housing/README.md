@@ -212,6 +212,10 @@ Definitions.
 
 Allocation of funds.
 
+(m)
+
+Authorization of appropriations.
+
 |  |  |
 | :--- | ---: |
 | 1701q–1. | Civil money penalties against mortgagors under section 1701q of this title. |
@@ -257,6 +261,44 @@ Regulations.
 (j)
 
 Deposit of penalties in insurance funds.
+
+|  |  |
+| :--- | ---: |
+| 1701q–2. | Grants for conversion of elderly housing to assisted living facilities. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Grant authority.
+
+(b)
+
+Eligible projects.
+
+(c)
+
+Applications.
+
+(d)
+
+Funding for services.
+
+(e)
+
+Selection criteria.
+
+(f)
+
+Section 8 project-based assistance.
+
+(g)
+
+Definitions.
+
+(h)
+
+Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
@@ -1673,7 +1715,7 @@ Payments for benefit of certain projects having mortgages made by State or local
 
 (s)
 
-Grant authority.
+Grants and loans for rehabilitation of multifamily projects.
 
 |  |  |
 | :--- | ---: |
@@ -1740,6 +1782,10 @@ Allocation of assistance.
 (<i>o</i>)
 
 Coordination of assistance.
+
+(p)
+
+Enhanced voucher eligibility.
 
 |  |  |
 | :--- | ---: |
@@ -2939,7 +2985,7 @@ Definitions.
 
 |  |  |
 | :--- | ---: |
-| 1735f–19. | Partial payment of claims on multifamily housing projects and health care facilities. |
+| 1735f–19. | Partial payment of claims on defaulted mortgages and in connection with mortgage restructuring. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3795,6 +3841,7 @@ This chapter is referred to in sections 1441a, 1454, 1464, 1701r–1, 1701z–7,
 - [&sect; 01701p&#8211;1 - Periodic report on residential mortgage delinquencies and foreclosures](%C2%A7%2001701p%E2%80%931%20-%20Periodic%20report%20on%20residential%20mortgage%20delinquencies%20and%20foreclosures.md)
 - [&sect; 01701q - Supportive housing for the elderly](%C2%A7%2001701q%20-%20Supportive%20housing%20for%20the%20elderly.md)
 - [&sect; 01701q&#8211;1 - Civil money penalties against mortgagors under section 1701q of this title](%C2%A7%2001701q%E2%80%931%20-%20Civil%20money%20penalties%20against%20mortgagors%20under%20section%201701q%20of%20this%20title.md)
+- [&sect; 01701q&#8211;2 - Grants for conversion of elderly housing to assisted living facilities](%C2%A7%2001701q%E2%80%932%20-%20Grants%20for%20conversion%20of%20elderly%20housing%20to%20assisted%20living%20facilities.md)
 - [&sect; 01701r - Congressional findings respecting housing for senior citizens](%C2%A7%2001701r%20-%20Congressional%20findings%20respecting%20housing%20for%20senior%20citizens.md)
 - [&sect; 01701r&#8211;1 - Pet ownership in assisted rental housing for the elderly or handicapped](%C2%A7%2001701r%E2%80%931%20-%20Pet%20ownership%20in%20assisted%20rental%20housing%20for%20the%20elderly%20or%20handicapped.md)
 - [&sect; 01701s - Rent supplement payments for qualified lower income families](%C2%A7%2001701s%20-%20Rent%20supplement%20payments%20for%20qualified%20lower%20income%20families.md)

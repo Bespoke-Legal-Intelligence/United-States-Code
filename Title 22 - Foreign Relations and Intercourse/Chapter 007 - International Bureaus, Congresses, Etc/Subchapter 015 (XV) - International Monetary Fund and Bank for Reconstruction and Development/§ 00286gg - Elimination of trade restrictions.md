@@ -12,7 +12,7 @@
 
 (2) The Secretary of the Treasury shall work closely in this effort with the Trade Policy Committee.
 
-(3) As part of this effort, the Secretary of the Treasury shall also instruct the United States Executive Director of each of the banks and of the Fund to encourage close cooperation between their staff and the GATT Secretariat.
+(3) As part of this effort, the Secretary of the Treasury shall also instruct the United States Executive Director of each of the banks and of the Fund to encourage close cooperation between their staff and the Secretariat of the World Trade Organization (as the term “World Trade Organization” is defined in section 3501(8) of title 19).
 
 #### (b) Agreement to eliminate unfair trade practices as condition of financial assistance
 
@@ -40,13 +40,15 @@
 
 For purposes of this section, the term “multilateral development banks” means the International Bank for Reconstruction and Development, the Inter-American Development Bank, the African Development Bank, and the Asian Development Bank.
 
-(July 31, 1945, ch. 339, §49, as added Pub. L. 98–181, title VIII, §812, Nov. 30, 1983, 97 Stat. 1275; amended Pub. L. 99–500, §101(f) \[title V, §555\], Oct. 18, 1986, 100 Stat. 1783–213, 1783–240, and Pub. L. 99–591, §101(f) \[title V, §555\], Oct. 30, 1986, 100 Stat. 3341–214, 3341–240.)
+(July 31, 1945, ch. 339, §49, as added Pub. L. 98–181, title VIII, §812, Nov. 30, 1983, 97 Stat. 1275; amended Pub. L. 99–500, §101(f) \[title V, §555\], Oct. 18, 1986, 100 Stat. 1783–213, 1783–240, and Pub. L. 99–591, §101(f) \[title V, §555\], Oct. 30, 1986, 100 Stat. 3341–214, 3341–240; Pub. L. 106–36, title I, §1002(c), June 25, 1999, 113 Stat. 133.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+1999—Subsec. (a)(3). Pub. L. 106–36 substituted “Secretariat of the World Trade Organization (as the term ‘World Trade Organization’ is defined in section 3501(8) of title 19)” for “GATT Secretariat”.
 
 1986—Subsec. (a)(1). Pub. L. 99–500 and Pub. L. 99–591, §101(f) \[title V, §555(b)\], inserted “each of the multilateral development banks (in this section referred to as the ‘banks’) and of”, “each of the banks and of”, and “banks and of the”, and substituted “development of financial” for “development of Fund financial”.
 

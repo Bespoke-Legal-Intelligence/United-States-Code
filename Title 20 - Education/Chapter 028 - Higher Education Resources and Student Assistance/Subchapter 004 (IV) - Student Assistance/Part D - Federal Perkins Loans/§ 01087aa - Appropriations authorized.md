@@ -14,7 +14,7 @@ The Secretary shall carry out a program of stimulating and assisting in the esta
 
 Any sums appropriated pursuant to subsection (b) of this section for any fiscal year shall be available for apportionment pursuant to section 1087bb of this title and for payments of Federal capital contributions therefrom to institutions of higher education which have agreements with the Secretary under section 1087cc of this title. Such Federal capital contributions and all contributions from such institutions shall be used for the establishment, expansion, and maintenance of student loan funds.
 
-(Pub. L. 89–329, title IV, §461, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §461(a)(2)–(c), July 23, 1992, 106 Stat. 576; Pub. L. 105–244, title IV, §461, Oct. 7, 1998, 112 Stat. 1720.)
+(Pub. L. 89–329, title IV, §461, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat.1439; amended Pub. L. 102–325, title IV, §461(a)(2)–(c), July 23, 1992, 106 Stat. 576; Pub. L. 105–244, title IV, §461, Oct. 7, 1998, 112 Stat. 1720.)
 
 #### Prior Provisions
 
@@ -30,7 +30,7 @@ Subsec. (b)(2). Pub. L. 105–244, §461(2), substituted “2003” for “1997�
 
 Subsec. (b). Pub. L. 102–325, §461(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-“(1) For the purpose of enabling the Secretary to make contributions to student loan funds establishedunder this part, there are authorized to be appropriated $268,000,000 for fiscal year 1987 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+“(1) For the purpose of enabling the Secretary to make contributions to student loan funds established under this part, there are authorized to be appropriated $268,000,000 for fiscal year 1987 and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
 “(2) In addition there are hereby authorized to be appropriated such sums for fiscal year 1991 and each of the five succeeding fiscal years as may be necessary to enable students who have received loans for academic years ending prior to October 1, 1991, to continue or complete courses of study.”
 

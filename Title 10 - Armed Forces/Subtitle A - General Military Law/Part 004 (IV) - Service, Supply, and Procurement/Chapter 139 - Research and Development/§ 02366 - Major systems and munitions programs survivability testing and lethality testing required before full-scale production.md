@@ -4,7 +4,7 @@
 
 Requirements.—(1) The Secretary of Defense shall provide that—
 
-&emsp;(A) a covered system may not proceed beyond low-rate initial production until realisticsurvivability testing of the system is completed in accordance with this section and the report required by subsection (d) with respect to that testing is submitted in accordance with that subsection; and
+&emsp;(A) a covered system may not proceed beyond low-rate initial production until realistic survivability testing of the system is completed in accordance with this section and the report required by subsection (d) with respect to that testing is submitted in accordance with that subsection; and
 
 &emsp;(B) a major munition program or a missile program may not proceed beyond low-rate initial production until realistic lethality testing of the program is completed in accordance with this section and the report required by subsection (d) with respect to that testing is submitted in accordance with that subsection.
 
@@ -50,7 +50,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) a conventional munitions program that is a major system within the meaning of that term in section 2302(5) of this title.
 
-&emsp;(3) The term “realistic survivability testing” means, in the case of a covered system (or a covered product improvement program for a covered system), testing for vulnerability of the system in combat by firing munitions likely to be encountered in combat (or munitions with a capability similar to such munitions) at the system configured for combat, with the primary emphasis on testing vulnerability with respect to potential user casualties and taking into equal consideration the susceptibility to attack and combat performance of the system.
+&emsp;(3) The term “realistic survivability testing” means, in the case of a covered system\(or a covered product improvement program for a covered system), testing for vulnerability of the system in combat by firing munitions likely to be encountered in combat (or munitions with a capability similar to such munitions) at the system configured for combat, with the primary emphasis on testing vulnerability with respect to potential user casualties and taking into equal consideration the susceptibility to attack and combat performance of the system.
 
 &emsp;(4) The term “realistic lethality testing” means, in the case of a major munitions program or a missile program (or a covered product improvement program for such a program), testing for lethality by firing the munition or missile concerned at appropriate targets configured for combat.
 
@@ -66,9 +66,9 @@ Definitions.—In this section:
 
 &emsp;&emsp;(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 
-&emsp;&emsp;(B) the Committee on National Security and the Committee on Appropriations of the House of Representatives.
+&emsp;&emsp;(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §910(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, and Pub. L. 99–591, §101(c) \[title X, §910(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143; Pub. L. 99–661, div. A, title IX, formerly title IV, §910(a)(1), Nov. 14, 1986, 100 Stat. 3923, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §802, title XII, §1231(11), Dec. 4, 1987, 101 Stat. 1123, 1160; Pub. L. 100–456, div. A, title XII, §1233(<i>l</i>)(3), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, §§802(c)(1)–(4)(A), 804, Nov. 29, 1989, 103 Stat. 1486, 1488; Pub. L. 101–510, div. A, title XIV, §1484(h)(7), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VIII, §828(d)(2), Nov. 30, 1993, 107 Stat. 1715; Pub. L. 103–355, title III, §3014, Oct. 13, 1994, 108 Stat. 3332; Pub. L. 104–106, div. A, title XV, §1502(a)(18), Feb. 10, 1996, 110 Stat. 504.)
+(Added Pub. L. 99–500, §101(c) \[title X, §910(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, and Pub. L. 99–591, §101(c) \[title X, §910(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143; Pub. L. 99–661, div. A, title IX, formerly title IV, §910(a)(1), Nov. 14, 1986, 100 Stat. 3923, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §802, title XII, §1231(11), Dec. 4, 1987, 101 Stat. 1123, 1160; Pub. L. 100–456, div. A, title XII, §1233(<i>l</i>)(3), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, §§802(c)(1)–(4)(A), 804, Nov. 29, 1989, 103 Stat. 1486, 1488; Pub. L. 101–510, div. A, title XIV, §1484(h)(7), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VIII, §828(d)(2), Nov. 30, 1993, 107 Stat. 1715; Pub. L. 103–355, title III, §3014, Oct. 13, 1994, 108 Stat. 3332; Pub. L. 104–106, div. A, title XV, §1502(a)(18), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Codification
 
@@ -77,6 +77,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections.
 
 #### Amendments
+
+1999—Subsec. (e)(7)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
 1996—Subsec. (d). Pub. L. 104–106, §1502(a)(18)(A), substituted “the congressional defense committees” for “the Committees on Armed Services and on Appropriations of the Senate and House of Representatives”.
 
@@ -129,10 +131,6 @@ Subsec. (e)(4). Pub. L. 100–180, §802(a)(4)(A), (e), inserted “(or a covere
 Subsec. (e)(5). Pub. L. 100–180, §802(a)(4)(B), inserted “(or a covered product improvement program for such a program)” after “missile program”.
 
 Subsec. (e)(8). Pub. L. 100–180, §802(a)(4)(C), added par. (8).
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Servicesof House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1988 Amendment
 

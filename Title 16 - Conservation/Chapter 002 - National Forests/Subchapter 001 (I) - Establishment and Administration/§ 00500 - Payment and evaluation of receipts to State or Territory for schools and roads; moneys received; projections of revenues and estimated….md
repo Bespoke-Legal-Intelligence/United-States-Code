@@ -12,7 +12,7 @@ Act of May 23, 1908, referred to in text, is act May 23, 1908, ch. 192, 35 Stat.
 
 #### Codification
 
-“National forest” substituted in text for “forest reserve” the first, third and fourth time appearing, and for “reserve” the second time appearing, and “forest” substituted for “reserve”, on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
+“National forest” substituted in text for “forest reserve” the first, third and fourth time appearing, andfor “reserve” the second time appearing, and “forest” substituted for “reserve”, on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
 
 Section is a combination of acts May 23, 1908, as amended, and Mar. 1, 1911, as amended.
 
@@ -30,7 +30,7 @@ July 1, 1941, ch. 267, 55 Stat. 423.
 
 #### Amendments
 
-1976—Pub. L. 94–588 inserted provision that beginning Oct. 1, 1976, the term “moneys received” would includeall collections under the Act of June 9, 1930, and all amounts earned or allowed any purchaser of national forest timber and other forest products within such State as purchaser credits, for the construction of roads on the National Forest Transportation System within such national forests or parts thereof in connection with any Forest Service timber sales contract, and that the Secretary of Agriculture shall, from time to time as he goes through his process of developing the budget revenue estimates, make available to the States his current projections of revenues and payments estimated to be made under the Act of May 23, 1908, as amended, or any other special Acts making payments in lieu of taxes, for their use for local budget planning purposes.
+1976—Pub. L. 94–588 inserted provision that beginning Oct. 1, 1976, the term “moneys received” would include all collections under the Act of June 9, 1930, and all amounts earned or allowed any purchaser of national forest timber and other forest products within such State as purchaser credits, for the construction of roads on the National Forest Transportation System within such national forests or parts thereof in connection with any Forest Service timber sales contract, and that the Secretary of Agriculture shall, from time to time as he goes through his process of developing the budget revenue estimates, make available to the States his current projections of revenues and payments estimated to be made under the Act of May 23, 1908, as amended, or any other special Acts making payments in lieu of taxes, for their use for local budget planning purposes.
 
 1950—Act Apr. 24, 1950, struck out second proviso relating to limitation paid county.
 

@@ -22,9 +22,9 @@
 
 (2) Supplies transported under this section may not be distributed, directly or indirectly, to any individual, group, or organization engaged in a military or paramilitary activity.
 
-(d) Not later than July 31 each year, the Secretary of State shall submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives a report identifying the origin, contents, destination, and disposition of all supplies transported under this section during the 12-month period ending on the preceding June 30.
+(d) Not later than July 31 each year, the Secretary of State shall submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on International Relations of the House of Representatives a report identifying the origin, contents, destination, and disposition of all supplies transported under this section during the 12-month period ending on the preceding June 30.
 
-(Added Pub. L. 100–180, div. A, title III, §332(a), Dec. 4, 1987, 101 Stat. 1079; amended Pub. L. 101–510, div. A, title XIII, §1311(2), Nov. 5, 1990, 104 Stat. 1669; Pub. L. 104–106, div. A, title XV, §1502(a)(8), Feb. 10, 1996, 110 Stat. 503.)
+(Added Pub. L. 100–180, div. A, title III, §332(a), Dec. 4, 1987, 101 Stat. 1079; amended Pub. L. 101–510, div. A, title XIII, §1311(2), Nov. 5, 1990, 104 Stat. 1669; Pub. L. 104–106, div. A, title XV, §1502(a)(8), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Prior Provisions
 
@@ -32,17 +32,15 @@ A prior section 402 was renumbered section 401(b) of this title.
 
 #### Amendments
 
+1999—Subsec. (d). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+
 1996—Subsec. (d). Pub. L. 104–106 substituted “Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations” for “Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs”.
 
 1990—Subsec. (d). Pub. L. 101–510 substituted “Not later than July 31 each year” for “At the end of each six-month period” and “the 12-month period ending on the preceding June 30” for “such six-month period”.
 
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
-
 #### Delegation of Functions
 
-Functions of President under subsec. (b)(2) delegated to Secretary of State by section 1–201(a)(24) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of Title 22, Foreign Relations and Intercourse.
+Functions of President under subsec. (b)(2) delegated to Secretary of State by section 1–201(a)(25) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of Title 22, Foreign Relations and Intercourse.
 
 #### First Report Deadline
 

@@ -30,13 +30,13 @@ Whenever it shall appear to the Commission that any person has engaged, is engag
 
 #### (B) Second tier
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the amount of penalty for each such violation shall not exceed the greater of (i) $50,000 for a natural person or $250,000 for any other person, or (ii) the gross amount of pecuniarygain to such defendant as a result of the violation, if the violation described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
+&emsp;&emsp;Notwithstanding subparagraph (A), the amount of penalty for each such violation shall not exceed the greater of (i) $50,000 for a natural person or $250,000 for any other person, or (ii) the gross amount of pecuniary gain to such defendant as a result of the violation, if the violation described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
 
 #### (C) Third tier
 
 &emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the amount of penalty for each such violation shall not exceed the greater of (i) $100,000 for a natural person or $500,000 for any other person, or (ii) the gross amount of pecuniary gain to such defendant as a result of the violation, if—
 
-&emsp;&emsp;&emsp;(I) the violation described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement; and
+&emsp;&emsp;&emsp;(I) the violation described in paragraph (1) involved fraud, deceit, manipulation, ordeliberate or reckless disregard of a regulatory requirement; and
 
 &emsp;&emsp;&emsp;(II) such violation directly or indirectly resulted in substantial losses or created a significant risk of substantial losses to other persons.
 

@@ -18,7 +18,7 @@ Any State, municipal or local government or political subdivision thereof or any
 
 #### (d) Criteria
 
-Not later than 1 year after June 19, 1986, the Administrator shall, by rule, establish criteria for identifying critical aquifer protection areas under this section. In establishing such criteria, the Administrator shall consider each of the following:
+Not later than 1 year after June 19, 1986, the Administrator shall, by rule, establish criteriafor identifying critical aquifer protection areas under this section. In establishing such criteria, the Administrator shall consider each of the following:
 
 &emsp;(1) The vulnerability of the aquifer to contamination due to hydrogeologic characteristics.
 
@@ -84,7 +84,7 @@ A plan approved before June 19, 1986, under section 208 of the Clean Water Act \
 
 #### (h) Consultation and hearings
 
-During the development of a comprehensive management plan under this section, the planning entity shall consult with, and consider the comments of, appropriate officials of any municipality and State or Federal agency which has jurisdiction over lands and waters within the special protection area, other concerned organizations and technical and citizen advisory committees. The planning entity shall conduct public hearings at places within the special protection area for the purpose of providing the opportunity to comment on any aspect of the plan.
+During the development of a comprehensive management plan under this section, the planning entity shall consult with, and consider the comments of, appropriate officials of any municipality and State or Federal agency whichhas jurisdiction over lands and waters within the special protection area, other concerned organizations and technical and citizen advisory committees. The planning entity shall conduct public hearings at places within the special protection area for the purpose of providing the opportunity to comment on any aspect of the plan.
 
 #### (i) Approval or disapproval
 
@@ -125,7 +125,7 @@ There are authorized to be appropriated to carry out this section not more than 
 
 The Clean Water Act, referred to in subsec. (k), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Solid Waste Disposal Act, referred to in subsec. (k), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82\(§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (k), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (k), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 

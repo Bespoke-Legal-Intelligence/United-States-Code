@@ -96,7 +96,7 @@ For purposes of this section, the term “nonqualified financial property” mea
 
 &emsp;(1) reasonable amounts of working capital held in cash, cash equivalents, or debt instruments with a term of 18 months or less, or
 
-&emsp;(2) debt instruments described in section 1221(4).
+&emsp;(2) debt instruments described in section 1221(a)(4).
 
 #### (f) Treatment of businesses straddling census tract lines
 
@@ -112,9 +112,11 @@ For purposes of this section, if—
 
 > then all the services performed by employees, all business activities, all tangible property, and all intangible property of the business entity or proprietorship that occur in or is located on the real property described in paragraphs (1) and (2) shall be treated as occurring or situated in an empowerment zone.
 
-(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 552; amended Pub. L. 104–188, title I, §1703(m), Aug. 20, 1996, 110 Stat. 1877; Pub.L. 105–34, title IX, §956(a), Aug. 5, 1997, 111 Stat. 890.)
+(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 552; amended Pub. L. 104–188, title I, §1703(m), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title IX, §956(a), Aug. 5, 1997, 111 Stat. 890; Pub. L. 106–170, title V, §532(c)(4), Dec. 17, 1999, 113 Stat. 1931.)
 
 #### Amendments
+
+1999—Subsec. (e)(2). Pub. L. 106–170 substituted “section 1221(a)(4)” for “section 1221(4)”.
 
 1997—Subsec. (b)(2). Pub. L. 105–34, §956(a)(1), substituted “50 percent” for “80 percent”.
 
@@ -139,6 +141,10 @@ Subsec. (d)(3). Pub. L. 105–34, §956(a)(5), substituted “at least 50 percen
 Subsec. (f). Pub. L. 105–34, §956(a)(6), added subsec. (f).
 
 1996—Subsec. (d)(5)(B). Pub. L. 104–188 struck out “preceding” before “taxable year” in introductory provisions.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
 
 #### Effective Date of 1997 Amendment
 

@@ -50,7 +50,7 @@ The provisions of this section shall become effective with respect to any suspen
 
 #### References in Text
 
-The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Actto the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
 
 Section 1445e of this title, referred to in subsec. (c)(2), was amended generally by Pub. L. 101–624, title XI, §1123, Nov. 28, 1990, 104 Stat. 3503, and, as so amended, subsec. (b) of section 1445e does not contain a clause (5).
 

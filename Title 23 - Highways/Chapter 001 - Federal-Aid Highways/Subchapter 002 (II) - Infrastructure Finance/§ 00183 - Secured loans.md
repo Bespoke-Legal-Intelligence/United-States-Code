@@ -84,7 +84,7 @@ Schedule.—The Secretary shall establish a repayment schedule for each secured 
 
 &emsp;(2)
 
-Commencement.—Scheduled loan repayments of principal or interest on a secured loan under this section shall commence not later than 5 years after the date of substantial completion of the project.
+Commencement.—Scheduled loan repayments of principal or interest on a securedloan under this section shall commence not later than 5 years after the date of substantial completion of the project.
 
 &emsp;(3)
 

@@ -74,7 +74,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (B) Guideline single premium
 
-&emsp;&emsp;The term “guideline single premium” means the premium at issue with respect to future benefits under the contract (without regard to any qualified additional benefit), and with respect to any charges for qualified additional benefits, at the time of a determination under subparagraph (A) or (E) and which is based on—
+&emsp;&emsp;The term “guideline single premium” means the premium at issue with respect tofuture benefits under the contract (without regard to any qualified additional benefit), and with respect to any charges for qualified additional benefits, at the time of a determination under subparagraph (A) or (E) and which is based on—
 
 &emsp;&emsp;&emsp;(i) the mortality and other charges guaranteed under the contract, and
 
@@ -326,7 +326,7 @@ Subsec. (d)(2)(B). Pub. L. 99–514, §1001(c)(2), substituted “equal” for �
 
 Subsec. (d)(2)(B)(ii). Pub. L. 99–514, §1001(b), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “as discounted on the basis of the interest rate and mortality tables used by the insurer in calculating payments under the agreement.”
 
-Subsec. (d)(3), (4). Pub. L. 99–514, §1001(c)(1), redesignated par. (4) as (3), and struck out former par. (3), “Surviving spouse”, which read as follows: “For purposes of this subsection, the term ‘surviving spouse’ means the spouse of the insured as of the date of death, including a spouse legally separated but not under a decree of absolute divorce.”
+Subsec. (d)(3), (4). Pub. L. 99–514, §1001(c)(1), redesignated par. (4) as (3), and struck out former par. (3), “Surviving spouse”, which read as follows: “For purposes of this subsection, the term ‘surviving spouse’means the spouse of the insured as of the date of death, including a spouse legally separated but not under a decree of absolute divorce.”
 
 1984—Subsec. (b)(3)(B). Pub. L. 98–369, §713(e), amended subpar. (B) generally, substituting “certain distributions” for “certain lump sum distributions” in heading, substituting “amount paid or distributed” for “lump sum distribution described in the second sentence of paragraph (2)(B)” in introductory text and adding cls. (i) and (ii).
 

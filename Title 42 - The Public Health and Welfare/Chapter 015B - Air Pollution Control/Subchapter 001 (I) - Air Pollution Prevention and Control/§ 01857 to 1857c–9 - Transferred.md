@@ -22,7 +22,7 @@ Section 1857c–4, act July 14, 1955, ch. 360, title I, §109, as added Dec. 31,
 
 Section 1857c–5, act July 14, 1955, ch. 360, title I, §110, as added Dec. 31, 1970, Pub. L. 91–604, §4(a), 84 Stat. 1680; amended June 22, 1974, Pub. L. 93–319, §4, 88 Stat. 256; S. Res. 4, Feb. 4, 1977, which related to State implementation plans for national primary and secondary ambient air quality standards, was transferred to section 7410 of this title.
 
-Section 1857c–6, act July 14, 1955, ch. 360, title I, §111, as added Dec. 31, 1970, Pub. L. 91–604, §4(a), 84 Stat. 1683; amended Nov. 18, 1971, Pub. L. 92–157, title III, §302(f),85 Stat. 464, which related to standards of performance for new stationary sources, was transferred to section 7411 of this title.
+Section 1857c–6, act July 14, 1955, ch. 360, title I, §111, as added Dec. 31, 1970, Pub. L. 91–604, §4(a), 84 Stat. 1683; amended Nov. 18, 1971, Pub. L. 92–157, title III, §302(f), 85 Stat. 464, which related to standards of performance for new stationary sources, was transferred to section 7411 of this title.
 
 Section 1857c–7, act July 14, 1955, ch. 360, title I, §112, as added Dec. 31, 1970, Pub. L. 91–604, §4(a), 84 Stat. 1685, which related to national emission standards for hazardous air pollutants, was transferred to section 7412 of this title.
 

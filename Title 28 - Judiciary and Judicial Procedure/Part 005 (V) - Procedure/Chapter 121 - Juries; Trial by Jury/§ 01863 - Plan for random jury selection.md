@@ -26,7 +26,7 @@
 
 (d) State, local, and Federal officials having custody, possession, or control of voter registration lists, lists of actual voters, or other appropriate records shall make such lists and records available to the jury commission or clerks for inspection, reproduction, and copying at all reasonable times as the commission or clerk may deem necessary and proper for the performance of duties under this title. The district courts shall have jurisdiction upon application by the Attorney General of the United States to compel compliance with this subsection by appropriate process.
 
-(June 25, 1948, ch. 646, 62 Stat. 952; Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 54; Pub. L. 92–269, §2,Apr. 6, 1972, 86 Stat. 117; Pub. L. 95–572, §2(a), Nov. 2, 1978, 92 Stat. 2453; Pub. L. 100–702, title VIII, §802(b), (c), Nov. 19, 1988, 102 Stat. 4657, 4658; Pub. L. 102–572, title IV, §401, Oct. 29, 1992, 106 Stat. 4511.)
+(June 25, 1948, ch. 646, 62 Stat. 952; Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 54; Pub. L. 92–269, §2, Apr. 6, 1972, 86 Stat. 117; Pub. L. 95–572, §2(a), Nov. 2, 1978, 92 Stat. 2453; Pub. L. 100–702, title VIII, §802(b), (c), Nov. 19, 1988, 102 Stat. 4657, 4658; Pub. L. 102–572, title IV, §401, Oct. 29, 1992, 106 Stat. 4511.)
 
 #### Historical and Revision Notes
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 95–572 applicable with respect to any grand or petit juro
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as to cases in which an indictment has been returned or a petit jury empaneled prior to such effective date, see section 104 of Pub. L. 90–274, set out as a note under section 1861 of this title.
+Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as to cases in which an indictment has been returned or a petit jury empaneled prior tosuch effective date, see section 104 of Pub. L. 90–274, set out as a note under section 1861 of this title.
 
 #### Refilling of Master Jury Wheel Not Later Than September 1, 1973; Refilling of Qualified Jury Wheel Not Later Than October 1, 1973; Retroactive Effect
 

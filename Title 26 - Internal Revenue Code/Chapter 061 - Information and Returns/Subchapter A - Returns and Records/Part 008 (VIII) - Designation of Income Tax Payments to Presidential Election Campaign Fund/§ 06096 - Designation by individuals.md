@@ -54,7 +54,7 @@ Subsec. (c). Pub. L. 93–53 provided that if designation is made at the time of
 
 #### Effective Date of 1993 Amendment
 
-Section 13441(b) of Pub. L. 103–66 provided that: “The amendments made by subsection (a) \[amending thissection\] apply with respect to tax returns required to be filed after December 31, 1993.”
+Section 13441(b) of Pub. L. 103–66 provided that: “The amendments made by subsection (a) \[amending this section\] apply with respect to tax returns required to be filed after December 31, 1993.”
 
 #### Effective Date of 1984 Amendment
 

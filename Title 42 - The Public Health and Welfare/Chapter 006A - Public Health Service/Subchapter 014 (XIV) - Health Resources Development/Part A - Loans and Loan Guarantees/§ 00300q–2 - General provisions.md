@@ -42,7 +42,7 @@
 
 &emsp;(ii) may provide for the repurchase by the Secretary of any such loan on such terms and conditions as may be specified in the agreement;
 
-&emsp;(iii) shall provide that, in the event of any default by the entity to which such loan wasmade in payment of principal or interest due on such loan, the Secretary shall, upon notification to the purchaser (or to the successor in interest of such purchaser), have the option to close out such loan (and any obligations of the Secretary with respect thereto) by paying to the purchaser (or his successor in interest) the total amount of outstanding principal and interest due thereon at the time of such notification; and
+&emsp;(iii) shall provide that, in the event of any default by the entity to which such loan was made in payment of principal or interest due on such loan, the Secretary shall, upon notification to the purchaser (or to the successor in interest of such purchaser), have the option to close out such loan (and any obligations of the Secretary with respect thereto) by paying to the purchaser (or his successor in interest) the total amount of outstanding principal and interest due thereon at the time of such notification; and
 
 &emsp;(iv) shall provide that, in the event such loan is closed out as provided in clause (iii), or in the event of any other loss incurred by the Secretary by reason of the failure of such entity to make payments of principal or interest on such loan, the Secretary shall be subrogated to all rights of such purchaser for recovery of such loss from such entity.
 
@@ -52,7 +52,7 @@
 
 #### (d) Loan and loan guarantee fund; establishment; amounts authorized to be appropriated; issuance, purchase, and sale of notes, obligations, etc.; interest rates; public debt transactions
 
-(1) There is established in the Treasury a loan and loan guarantee fund (hereinafter in this subsection referred to as the “fund”) which shall be available to the Secretary without fiscal year limitation, in such amounts as may be specified from time to time in appropriations Acts—
+(1) There is established in the Treasury a loan and loan guarantee fund (hereinafter in this subsection referred to as the “fund”) which shall beavailable to the Secretary without fiscal year limitation, in such amounts as may be specified from time to time in appropriations Acts—
 
 &emsp;(A) to enable him to make loans under this part,
 

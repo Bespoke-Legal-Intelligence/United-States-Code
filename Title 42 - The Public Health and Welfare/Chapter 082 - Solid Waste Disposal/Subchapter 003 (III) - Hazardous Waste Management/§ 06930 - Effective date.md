@@ -26,7 +26,7 @@ The regulations under this subchapter respecting requirements applicable to the 
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–616, §204(a), inserted provisions after first sentence relating to burning andblending of hazardous wastes and substituted “the preceding provisions” for “the preceding sentence” in three places.
+1984—Subsec. (a). Pub. L. 98–616, §204(a), inserted provisions after first sentence relating to burning and blending of hazardous wastes and substituted “the preceding provisions” for “the preceding sentence” in three places.
 
 Subsec. (b). Pub. L. 98–616, §234, inserted provision that at the time a regulation is promulgated, the Administrator may provide for a shorter period prior to the effective date, or an immediate effective date for a regulation with which the Administrator finds the regulated community does not need six months to come into compliance, a regulation which responds to an emergency situation, or other good cause found and published with the regulation.
 

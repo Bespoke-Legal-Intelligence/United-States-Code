@@ -24,7 +24,7 @@ It shall be unlawful for any plan official to whom subsection (a) of this sectio
 
 #### (c) Conflict of interest prohibited in procuring bonds
 
-It shall be unlawful for any person to procure any bond required by subsection (a) of this section from any surety or other company or through any agent or broker in whose business operations such plan or any party in interest in such plan has any control or significant financial interest, direct or indirect.
+It shall be unlawful for any person to procure any bond required by subsection (a) of this section from any surety or other company or through any agent or broker in whose business operations such plan or any party in interest insuch plan has any control or significant financial interest, direct or indirect.
 
 #### (d) Exclusiveness of statutory basis for bonding requirement for persons handling funds or other property of employee benefit plans
 

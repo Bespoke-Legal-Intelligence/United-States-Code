@@ -40,7 +40,7 @@ Ex. Ord. No. 11613, Aug. 2, 1971, 36 F.R. 14299, which provided for membership o
 
 #### Executive Order No. 11658
 
-Ex. Ord. No. 11658, Mar. 22, 1972, 37 F.R. 6045, as amended by Ex. Ord. No. 11882, Oct. 6, 1975, 40 F.R. 46293;Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which provided for the establishment, jurisdiction, functions, etc., of the Missouri River Basin Commission, was revoked, effective Oct. 1, 1981, by section 5(a)(5) of Ex. Ord. No. 12319, Sept. 9, 1981, 46 F.R. 45592, set out below.
+Ex. Ord. No. 11658, Mar. 22, 1972, 37 F.R. 6045, as amended by Ex. Ord. No. 11882, Oct. 6, 1975, 40 F.R. 46293; Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which provided for the establishment, jurisdiction, functions, etc., of the Missouri River Basin Commission, was revoked, effective Oct. 1, 1981, by section 5(a)(5) of Ex. Ord. No. 12319, Sept. 9, 1981, 46 F.R. 45592, set out below.
 
 #### Executive Order No. 11659
 

@@ -40,7 +40,7 @@ All moneys received by the House Recording Studio from Members of the House of R
 
 (2) The Sergeant at Arms of the Senate and the Clerk of the House of Representatives shall, subject to the approval of the committees mentioned in subsection (c) of this section, determine the assignment of existing studio facilities to the Senate and the House of Representatives, and also the existing equipment, materials and supplies to be transferred to the respective studios. The evaluation of equipment, materials and supplies transferred to each studio shall be on the basis of market value. Any other equipment, materials and supplies determined to be obsolete or not needed for the operation of the respective studio shall be disposed of to the best interest of the Government and the proceeds thereof deposited in the Joint Senate and House Recording Facility Revolving Fund.
 
-(3) Accounts receivable, which on the effective date of liquidation, are due from Members and committees of the Senate shall be transferred tothe Senate Studio, and those due from Members and committees of the House of Representatives shall be transferred to the House Studio.
+(3) Accounts receivable, which on the effective date of liquidation, are due from Members and committees of the Senate shall be transferred to the Senate Studio, and those due from Members and committees of the House of Representatives shall be transferred to the House Studio.
 
 (4) A sufficient reserve shall be set aside from the Joint Senate and House Recording Facility Revolving Fund to liquidate any outstanding accounts payable.
 
@@ -60,7 +60,7 @@ The Joint Recording Facility positions and salaries established pursuant to the 
 
 #### (m) Repeals
 
-Effective with the completion of the transfer provided for by subsection (i) of this section the joint resolution entitled “Joint resolution establishing in the Treasury of the United States a revolving fund within the contingent fund of the House of Representatives”, approved August 7, 1953, is repealed.
+Effective with the completion of the transfer provided for by subsection (i) of this section thejoint resolution entitled “Joint resolution establishing in the Treasury of the United States a revolving fund within the contingent fund of the House of Representatives”, approved August 7, 1953, is repealed.
 
 #### (n) Repealed. Pub. L. 92–310, title II, §220(j), June 6, 1972, 86 Stat. 205
 

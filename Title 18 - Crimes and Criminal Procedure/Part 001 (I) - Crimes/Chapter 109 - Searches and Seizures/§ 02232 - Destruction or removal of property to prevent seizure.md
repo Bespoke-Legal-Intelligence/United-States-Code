@@ -6,7 +6,7 @@ Physical Interference With Search.—Whoever, before, during, or after seizure o
 
 (b)
 
-Notice of Search.—Whoever, having knowledge that any person authorized to make searches and seizures has been authorized or is otherwise likely to make a search or seizure, in order to prevent the authorized seizing or securing of any person, goods, wares, merchandise or other property, gives notice or attempts to give notice of the possible search or seizure to any person shall be fined under this title or imprisoned not more than five years, or both.
+Notice of Search.—Whoever, having knowledge that any person authorized to makesearches and seizures has been authorized or is otherwise likely to make a search or seizure, in order to prevent the authorized seizing or securing of any person, goods, wares, merchandise or other property, gives notice or attempts to give notice of the possible search or seizure to any person shall be fined under this title or imprisoned not more than five years, or both.
 
 (c)
 

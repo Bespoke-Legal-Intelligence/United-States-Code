@@ -18,7 +18,7 @@ The last paragraph is added to exclude jurors incompetent to serve as jurors in 
 
 1957—Pub. L. 85–315 substituted “Qualifications of Federal jurors” for “Qualifications” in section catchline.
 
-Pub. L. 85–315 substituted “and who has resided for a period of one year within the judicial district” for “and resides within the judicial district”, and struck out provisions which prohibited service as a grand or petit juror if a person was incompetent to serve as a grand or petit juror by the law of the State in which the district court is held.
+Pub. L. 85–315 substituted “and who has resided for a period of one year within the judicial district” for “andresides within the judicial district”, and struck out provisions which prohibited service as a grand or petit juror if a person was incompetent to serve as a grand or petit juror by the law of the State in which the district court is held.
 
 #### Effective Date of 1968 Amendment
 

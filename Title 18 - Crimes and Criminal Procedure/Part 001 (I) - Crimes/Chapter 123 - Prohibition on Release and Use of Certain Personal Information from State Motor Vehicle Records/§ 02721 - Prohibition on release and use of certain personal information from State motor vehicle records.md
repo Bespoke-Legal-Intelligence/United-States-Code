@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Except as provided in subsection (b), a State department of motor vehicles, and any officer, employee, or contractor, thereof, shall not knowingly disclose or otherwise make available to any person or entity personal information about any individual obtained by the department in connection with a motor vehicle record.
+In General.—Except as provided in subsection (b), a State department of motor vehicles, and any officer, employee, or contractor, thereof, shall not knowingly disclose or otherwise make available to any person or entity personal information about any individual obtainedby the department in connection with a motor vehicle record.
 
 (b)
 
@@ -32,13 +32,9 @@ Permissible Uses.—Personal information referred to in subsection (a) shall be 
 
 &emsp;(10) For use in connection with the operation of private toll transportation facilities.
 
-&emsp;(11) For any other use in response to requests for individual motor vehicle records if the motor vehicle department has provided in a clear and conspicuous manner on forms for issuance or renewal of operator's permits, titles, registrations, or identification cards, notice that personal information collected by the department may be disclosed to any business or person, and has provided in a clear and conspicuous manner on such forms an opportunity to prohibit such disclosures.
+&emsp;(11) For any other use in response to requests for individual motor vehicle records if the State has obtained the express consent of the person to whom such personal information pertains.
 
-&emsp;(12) For bulk distribution for surveys, marketing or solicitations if the motor vehicle department has implemented methods and procedures to ensure that—
-
-&emsp;&emsp;(A) individuals are provided an opportunity, in a clear and conspicuous manner, to prohibit such uses; and
-
-&emsp;&emsp;(B) the information will be used, rented, or sold solely for bulk distribution for surveys, marketing, and solicitations, and that surveys, marketing, and solicitations will not be directed at those individuals who have requested in a timely fashion that they not be directed at them.
+&emsp;(12) For bulk distribution for surveys, marketing or solicitations if the State has obtained the express consent of the person to whom such personal information pertains.
 
 &emsp;(13) For use by any requester, if the requester demonstrates it has obtained the written consent of the individual to whom the information pertains.
 
@@ -52,23 +48,35 @@ Resale or Redisclosure.—An authorized recipient of personal information (excep
 
 Waiver Procedures.—A State motor vehicle department may establish and carry out procedures under which the department or its agents, upon receiving a request for personal information that does not fall within one of the exceptions in subsection (b), may mail a copy of the request to the individual about whom the information was requested, informing such individual of the request, together with a statement to the effect that the information will not be released unless the individual waives such individual's right to privacy under this section.
 
-(Added Pub. L. 103–322, title XXX, §300002(a), Sept. 13, 1994, 108 Stat. 2099; amended Pub. L. 104–287, §1, Oct. 11, 1996, 110 Stat. 3388; Pub. L. 104–294, title VI, §604(b)(46), Oct. 11, 1996, 110 Stat. 3509.)
+(Added Pub. L. 103–322, title XXX, §300002(a), Sept. 13, 1994, 108 Stat. 2099; amended Pub. L. 104–287, §1, Oct. 11, 1996, 110 Stat. 3388; Pub. L. 104–294, title VI, §604(b)(46), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 106–69, title III, §350(c), (d), Oct. 9, 1999, 113 Stat. 1025.)
 
 #### References in Text
 
 The Anti Car Theft Act of 1992, referred to in subsec. (b), is Pub. L. 102–519, Oct. 25, 1992, 106 Stat. 3384. For complete classification of titles I and IV of the Act to the Code, see Tables.
 
-The Automobile Information Disclosure Act, referred to in subsec. (b), is Pub. L. 85–506, July 7, 1958, 72 Stat. 325, as amended, which is classified generally to chapter 28 (§1231 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1231 of Title 15 and Tables.
+The Automobile Information Disclosure Act, referred to in subsec. (b), is Pub. L. 85–506, July 7, 1958, 72 Stat. 325, as amended, which is classified generally to chapter 28 (§1231 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, seeShort Title note set out under section 1231 of Title 15 and Tables.
 
 The Clean Air Act, referred to in subsec. (b), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 #### Amendments
+
+1999—Subsec. (b)(11). Pub. L. 106–69, §350(c), substituted “if the State has obtained the express consent of the person to whom such personal information pertains” for “if the motor vehicle department has provided in a clear and conspicuous manner on forms for issuance or renewal of operator's permits, titles, registrations, or identification cards, notice that personal information collected by the department may be disclosed to any business or person, and has provided in a clear and conspicuous manner on such forms an opportunity to prohibit such disclosures”.
+
+Subsec. (b)(12). Pub. L. 106–69, §350(d), substituted “if the State has obtained the express consent of the person to whom such personal information pertains” for “if the motor vehicle department has implemented methods and procedures to ensure that—
+
+&emsp;“(A) individuals are provided an opportunity, in a clear and conspicuous manner, to prohibit such uses; and
+
+&emsp;“(B) the information will be used, rented, or sold solely for bulk distribution for surveys, marketing, and solicitations, and that surveys, marketing, and solicitations will not be directed at those individuals who have requested in a timely fashion that they not be directed at them”.
 
 1996—Subsec. (b). Pub. L. 104–287, §1(1), in introductory provisions, substituted “titles I and IV of the Anti Car Theft Act of 1992, the Automobile Information Disclosure Act (15 U.S.C. 1231 et seq.), the Clean Air Act (42 U.S.C. 7401 et seq.), and chapters 301, 305, and 321–331 of title 49” for “the Automobile Information Disclosure Act, the Motor Vehicle Information and Cost Saving Act, the National Traffic and Motor Vehicle Safety Act of 1966, the Anti-Car Theft Act of 1992, and the Clean Air Act”.
 
 Subsec. (b)(9). Pub. L. 104–287, §1(2), substituted “chapter 313 of title 49” for “the Commercial Motor Vehicle Safety Act of 1986 (49 U.S.C. App. 2710 et seq.)”.
 
 Subsec. (c). Pub. L. 104–294 substituted “covered by this chapter” for “covered by this title”.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–69, title III, §350(g)(2), Oct. 9, 1999, 113 Stat. 1025, provided that: “Subsections (b), (c), and (d) \[amending this section\] shall be effective on June 1, 2000, excluding the States of Arkansas, Montana, Nevada, North Dakota, Oregon, and Texas that shall be in compliance with subsections (b), (c), and (d) within 90 days of the next convening of the State legislature and excluding the States of Wisconsin, South Carolina, and Oklahoma that shall be in compliance within 90 days following the day of issuance of a final decision on Reno vs. Condon by the United States Supreme Court if the State legislature is in session, or within 90 days of the next convening of the State legislature following the issuance of such final decision if the State legislature is not in session.”
 
 #### Effective Date of 1996 Amendment
 

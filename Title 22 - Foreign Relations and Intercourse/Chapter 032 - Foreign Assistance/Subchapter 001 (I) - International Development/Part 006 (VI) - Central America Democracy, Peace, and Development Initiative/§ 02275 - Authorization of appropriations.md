@@ -16,7 +16,7 @@ The Peace Corps Act, referred to in subsec. (b), is Pub. L. 87–293, Sept. 22, 
 
 The Migration and Refugee Assistance Act of 1962, referred to in subsec. (b), is Pub. L. 87–510, June 28, 1962, 76 Stat. 121, as amended, which is classified principally to chapter 36 (§2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
-The United States Information and Education Exchange Act of 1948, referred to in subsec. (b), probably means the United States Information and Educational Exchange Act of 1948, which is act Jan. 27, 1948, ch. 36,62 Stat. 6, as amended, and is classified generally to chapter 18 (§1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
+The United States Information and Education Exchange Act of 1948, referred to in subsec. (b), probably means the United States Information and Educational Exchange Act of 1948, which is act Jan. 27, 1948, ch. 36, 62 Stat. 6, as amended, and is classified generally to chapter 18 (§1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
 
 The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (b), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, which is classified principally to chapter 33 (§2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
@@ -31,4 +31,8 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 #### Codification
 
 Another section 465 of Pub. L. 87–195 is classified to section 2285 of this title.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

@@ -6,7 +6,7 @@ There shall be established a Social Security Advisory Board (in this section ref
 
 #### (b) Functions of Board
 
-On and after the date the Commissioner takes office, the Board shall advise the Commissioner on policies related to the old-age, survivors, and disability insurance program under subchapter II of this chapter and the supplemental security income program under subchapter XVI of this chapter. Specific functions of the Board shall include—
+On and after the date the Commissioner takes office, the Board shall advise the Commissioner on policies related to the old-age, survivors, and disability insurance program under subchapter II of this chapter, the program of special benefits for certain World War II veterans under subchapter VIII of this chapter, and the supplemental security income program under subchapter XVI of this chapter. Specific functions of the Board shall include—
 
 &emsp;(1) analyzing the Nation's retirement and disability systems and making recommendations with respect to how the old-age, survivors, and disability insurance program and the supplemental security income program, supported by other public and private systems, can most effectively assure economic security;
 
@@ -60,7 +60,7 @@ Each member of the Board shall serve for a term of 6 years, except that—
 
 &emsp;&emsp;&emsp;(ii) 6 years.
 
-&emsp;&emsp;(C) The terms of service of members initially appointed by the Speaker of the House of Representatives shall expire as designated by the Speaker of the House of Representatives at the time of nomination, 1 each at the end of—
+&emsp;&emsp;(C) The terms of service of members initially appointed by the Speaker of the Houseof Representatives shall expire as designated by the Speaker of the House of Representatives at the time of nomination, 1 each at the end of—
 
 &emsp;&emsp;&emsp;(i) 4 years; and
 
@@ -92,7 +92,7 @@ The Board shall, without regard to the provisions of title 5 relating to the com
 
 There are authorized to be appropriated, out of the Federal Disability Insurance Trust Fund, the Federal Old-Age and Survivors Insurance Trust Fund, and the general fund of the Treasury, such sums as are necessary to carry out the purposes of this section.
 
-(Aug. 14, 1935, ch. 531, title VII, §703, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; Pub. L. 98–369, div. B, title VI, §2663(<i>l</i>)(1), July 18, 1984, 98 Stat. 1171; Pub. L. 103–296, title I, §103, Aug. 15, 1994, 108 Stat. 1467; Pub. L. 104–121, title I, §108, Mar. 29, 1996, 110 Stat. 857; Pub. L. 105–33, title V, §5526, Aug. 5, 1997, 111 Stat. 625.)
+(Aug. 14, 1935, ch. 531, title VII, §703, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; Pub. L. 98–369, div. B, title VI, §2663(<i>l</i>)(1), July 18, 1984, 98 Stat. 1171; Pub. L. 103–296, title I, §103, Aug. 15, 1994, 108 Stat. 1467; Pub. L. 104–121, title I, §108, Mar. 29, 1996, 110 Stat. 857; Pub. L. 105–33, title V, §5526, Aug. 5, 1997, 111 Stat. 625; Pub. L. 106–169, title II, §251(b)(4), Dec. 14, 1999, 113 Stat. 1855.)
 
 #### References In Text
 
@@ -101,6 +101,8 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 The provisions of title 5 relating to the competitive service, referred to in subsec. (i), are classified generally to section 3301 et seq. of Title 5.
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–169 substituted “subchapter II of this chapter, the program of special benefits for certain World War II veterans under title VIII of this chapter,” for “subchapter II of this chapter” in introductory provisions.
 
 1997—Subsec. (i). Pub. L. 105–33 struck out “, and three professional staff members one of whom shall be appointed from among individuals approved by the members of the Board who are not members of the political party represented by the majority of the Board,” after “Staff Director” and “clerical” after “provide adequate”.
 
@@ -152,5 +154,5 @@ Section 5227.—Section 5227 \[probably means section 5527 of this Act which is 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting anyright, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 

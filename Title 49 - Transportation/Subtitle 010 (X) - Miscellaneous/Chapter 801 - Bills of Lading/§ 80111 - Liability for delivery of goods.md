@@ -24,7 +24,7 @@ Failure To Take and Cancel Bills.—Except as provided in subsection (d) of this
 
 (d)
 
-Exceptions to Liability.—A common carrier is not liable for failure to deliver goods to the consignee or owner of the goods or a holder of the bill if—
+Exceptions to Liability.—A common carrier is not liable for failure to deliver goods tothe consignee or owner of the goods or a holder of the bill if—
 
 &emsp;(1) a delivery described in subsection (c) of this section was compelled by legal process;
 

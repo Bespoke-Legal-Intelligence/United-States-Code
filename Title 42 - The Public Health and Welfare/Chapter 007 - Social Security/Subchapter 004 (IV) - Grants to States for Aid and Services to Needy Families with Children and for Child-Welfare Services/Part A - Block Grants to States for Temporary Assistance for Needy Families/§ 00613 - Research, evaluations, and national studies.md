@@ -22,7 +22,7 @@ The Secretary shall develop innovative methods of disseminating information on a
 
 #### (1) Annual ranking of States
 
-&emsp;The Secretary shall rank annually the States to which grants are paid under section603 of this title in the order of their success in placing recipients of assistance under the State program funded under this part into long-term private sector jobs, reducing the overall welfare caseload, and, when a practicable method for calculating this information becomes available, diverting individuals from formally applying to the State program and receiving assistance. In ranking States under this subsection, the Secretary shall take into account the average number of minor children living at home in families in the State that have incomes below the poverty line and the amount of funding provided each State for such families.
+&emsp;The Secretary shall rank annually the States to which grants are paid under section 603 of this title in the order of their success in placing recipients of assistance under the State program funded under this part into long-term private sector jobs, reducing the overall welfare caseload, and, when a practicable method for calculating this information becomes available, diverting individuals from formally applying to the State program and receiving assistance. In ranking States under this subsection, the Secretary shall take into account the average number of minor children living at home in families in the State that have incomes below the poverty line and the amount of funding provided each State for such families.
 
 #### (2) Annual review of most and least successful work programs
 
@@ -86,7 +86,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 &emsp;&emsp;(E) The percentage of each group that continues to participate in State programs funded under this part.
 
-&emsp;&emsp;(F) The percentage of each group that has health insurance provided by a private entity (broken down by whether the insurance is provided through an employer or otherwise), the percentage that has health insurance provided by an agency of government, and the percentage that does not have health insurance.
+&emsp;&emsp;(F) The percentage of each group that has health insurance provided by a private entity (broken down by whether the insuranceis provided through an employer or otherwise), the percentage that has health insurance provided by an agency of government, and the percentage that does not have health insurance.
 
 &emsp;&emsp;(G) The average income of the families of the members of each group.
 
@@ -128,7 +128,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### (1) In general
 
-&emsp;Not later than May 31, 1998, and annually thereafter, the chief executive officer of each State shall submit to the Secretary a statement of the child poverty rate in the State as of August 22, 1996,<sup>1</sup> or the date of the most recent prior statement under this paragraph.
+&emsp;Not later than May 31, 1998, and annually thereafter, the chief executive officer of each State shall submit to the Secretary a statement of the child poverty rate in the State as of August 22, 1996, or the date of the most recent prior statement under this paragraph.
 
 #### (2) Submission of corrective action plan
 
@@ -170,7 +170,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), the Secretary, in consultation with the Secretary of Labor and the Secretary of Housing and Urban Development, shall submit to the Congress reports on the projects funded under section <sup>2</sup> 603(a)(5) and 612(a)(3) of this title and on the evaluations of the projects.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), the Secretary, in consultation with the Secretary of Labor and the Secretary of Housing and Urban Development, shall submit to the Congress reports on the projects funded under section <sup>1</sup> 603(a)(5) and 612(a)(3) of this title and on the evaluations of the projects.
 
 #### (B) Interim report
 
@@ -178,25 +178,21 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### (C) Final report
 
-&emsp;&emsp;Not later than January 1, 2001,<sup>3</sup> (or at a later date, if the Secretary informs the Committees of the Congress with jurisdiction over the subject matter of the report) the Secretary shall submit a final report on the matter described in subparagraph (A).
+&emsp;&emsp;Not later than January 1, 2001,<sup>2</sup> (or at a later date, if the Secretary informs the Committees of the Congress with jurisdiction over the subject matter of the report) the Secretary shall submit a final report on the matter described in subparagraph (A).
 
-(Aug. 14, 1935, ch. 531, title IV, §413, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2153; amended Pub. L. 105–33, title V,§§5001(f), 5509, 5514(c), Aug. 5, 1997, 111 Stat. 592, 618, 620; Pub. L. 105–200, title IV, §410(a), July 16, 1998, 112 Stat. 673.)
+(Aug. 14, 1935, ch. 531, title IV, §413, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2153; amended Pub. L. 105–33, title V, §§5001(f), 5509, 5514(c), Aug. 5, 1997, 111 Stat. 592, 618, 620; Pub. L. 105–200, title IV, §410(a), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title IV, §401(c), Dec. 14, 1999, 113 Stat. 1858.)
 
 #### References in Text
 
 Section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (i)(2), is section 103 of Pub. L. 104–193, which enacted this part, amended sections 602, 603, and 1308 of this title, and repealed provisions formerly set out as this part. For complete classification of section 103 to the Code, see Tables.
-
-#### Codification
-
-August 22, 1996, referred to in subsec. (g)(1), was in the original a reference to the date of enactment of this Act, which was translated as meaning the date of enactment of Pub. L. 104–193, which amended this part and enacted this section, to reflect the probable intent of Congress.
-
-August 22, 1996, referred to in subsec. (i)(1), was in the original “such date of enactment”, which was translated as meaning the date of enactment of Pub. L. 104–193, which amended this part and enacted this section, to reflect the probable intent of Congress. See 1997 Amendment note below.
 
 #### Prior Provisions
 
 A prior section 613, act Aug. 14, 1935, ch. 531, title IV, §413, as added June 9, 1980, Pub. L. 96–265, title IV, §406(c), 94 Stat. 467, related to technical assistance for developing management information systems, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
+
+1999—Subsec. (g)(1). Pub. L. 106–169 made technical amendment to reference in original act which appears in text as reference to August 22, 1996.
 
 1998—Subsec. (g)(1). Pub. L. 105–200 substituted “Education and the Workforce” for “Economic and Educational Opportunities”.
 
@@ -229,6 +225,10 @@ Subsec. (i)(1). Pub. L. 105–33, §5509(d)(1), substituted “May 31, 1998” f
 Subsec. (i)(5). Pub. L. 105–33, §5509(d)(2), substituted “, to the extent available, county-by-county” for “the county-by-county”.
 
 Subsec. (j). Pub. L. 105–33, §5001(f), added subsec. (j).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–169 effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 401(q) of Pub. L. 106–169, set out as a note under section 602 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -272,9 +272,7 @@ Report.—Not later than September 30, 1998, the Secretary shall submit to the C
 
 This section is referred to in sections 603, 612, 1308 of this title.
 
-<i><sup>1</sup></i><i> See Codification note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “sections”.</i>
-
-<i><sup>3</sup></i><i> So in original.</i>
+<i><sup>2</sup></i><i> So in original.</i>
 

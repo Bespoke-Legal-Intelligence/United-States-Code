@@ -8,7 +8,7 @@
 
 #### (2) Phaseout between $3,000,000 and $15,000,000
 
-&emsp;The amount of the small life insurance company deduction determined under paragraph (1) for any taxable year shall be reduced (but not below zero) by 15 percent of so much of thetentative LICTI for such taxable year as exceeds $3,000,000.
+&emsp;The amount of the small life insurance company deduction determined under paragraph (1) for any taxable year shall be reduced (but not below zero) by 15 percent of so much of the tentative LICTI for such taxable year as exceeds $3,000,000.
 
 #### (3) Small life insurance company deduction not allowable to company with assets of $500,000,000 or more
 
@@ -78,7 +78,7 @@ For purposes of this part—
 
 #### (2) Nonlife insurance members included for asset test
 
-&emsp;For purposes of subsection (a)(3), all members of the same controlled group (whether or not life insurance companies) shall be treated as 1 company.
+&emsp;For purposes of subsection (a)(3), all members of the same controlled group (whether ornot life insurance companies) shall be treated as 1 company.
 
 #### (3) Controlled group
 
@@ -186,7 +186,7 @@ Qualified gic.—The term ‘qualified GIC’ means any group contract—
 
 &emsp;“(B) which specifies the contract maturity or renewal date,
 
-&emsp;“(C) under which funds deposited by the contract holder plus interest guaranteed at the inception ofthe contract for the term of the contract and net of any specified expenses are paid as directed by the contract holder, and
+&emsp;“(C) under which funds deposited by the contract holder plus interest guaranteed at the inception of the contract for the term of the contract and net of any specified expenses are paid as directed by the contract holder, and
 
 &emsp;“(D) which is a pension plan contract (as defined in section 818(a) of the Internal Revenue Code of 1986).
 

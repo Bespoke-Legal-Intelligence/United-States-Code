@@ -2,7 +2,7 @@
 
 A service delivery area may transfer up to 20 percent of the funds provided under this part to the program under part C of this subchapter if such transfer is approved by the Governor.
 
-(Pub. L. 97–300, title II, §256, as added Pub. L. 102–367, title II, §205, Sept. 7, 1992, 106 Stat. 1063; amended Pub. L. 103–227, title X, §1016(b), Mar. 31, 1994, 108 Stat. 268.)
+(Pub. L. 97–300, title II, §256, as added Pub. L. 102–367, title II, §205, Sept. 7, 1992, 106 Stat. 1063;amended Pub. L. 103–227, title X, §1016(b), Mar. 31, 1994, 108 Stat. 268.)
 
 #### Repeal of Section
 

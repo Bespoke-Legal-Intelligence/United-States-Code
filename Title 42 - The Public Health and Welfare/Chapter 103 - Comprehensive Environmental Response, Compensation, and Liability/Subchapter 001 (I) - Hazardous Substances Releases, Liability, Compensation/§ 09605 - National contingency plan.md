@@ -30,7 +30,7 @@ Within one hundred and eighty days after December 11, 1980, the President shall,
 
 #### (b) Revision of plan
 
-Not later than 18 months after the enactment of the Superfund Amendments and Reauthorization Act of 1986 \[October 17, 1986\], the President shall revise the National Contingency Plan to reflect the requirements of such amendments. The portion of such Plan known as “the National Hazardous Substance Response Plan” shall be revised to provide procedures and standards for remedial actions undertaken pursuant to this chapter which are consistent with amendments made by the Superfund Amendments and Reauthorization Act of 1986 relating to the selection of remedial action.
+Not later than 18 months after the enactment of the Superfund Amendments and Reauthorization Act of 1986 \[October 17, 1986\], the President shall revise the National Contingency Plan to reflect the requirements of such amendments. The portion of such Plan known as “the National Hazardous Substance Response Plan” shall be revised to provide procedures and standards for remedial actions undertaken pursuantto this chapter which are consistent with amendments made by the Superfund Amendments and Reauthorization Act of 1986 relating to the selection of remedial action.
 
 #### (c) Hazard ranking system
 
@@ -60,7 +60,7 @@ Whenever there has been, after January 1, 1985, a significant release of hazardo
 
 #### (f) Minority contractors
 
-In awarding contracts under this chapter, the President shall consider the availability ofqualified minority firms. The President shall describe, as part of any annual report submitted to the Congress under this chapter, the participation of minority firms in contracts carried out under this chapter. Such report shall contain a brief description of the contracts which have been awarded to minority firms under this chapter and of the efforts made by the President to encourage the participation of such firms in programs carried out under this chapter.
+In awarding contracts under this chapter, the President shall consider the availability of qualified minority firms. The President shall describe, as part of any annual report submitted to the Congress under this chapter, the participation of minority firms in contracts carried out under this chapter. Such report shall contain a brief description of the contracts which have been awarded to minority firms under this chapter and of the efforts made by the President to encourage the participation of such firms in programs carried out under this chapter.
 
 #### (g) Special study wastes
 
@@ -78,7 +78,7 @@ In awarding contracts under this chapter, the President shall consider the avail
 
 &emsp;&emsp;(A) The extent to which hazard ranking system score for the facility is affected by the presence of any special study waste at, or any release from, such facility.
 
-&emsp;&emsp;(B) Available information as to the quantity, toxicity, and concentration of hazardous substances that are constituents of any special study waste at, or released from such facility, the extent of or potential for release of such hazardous constituents, the exposure or potential exposure to human population and the environment, and the degree of hazard to human health or the environment posed by the release of such hazardous constituents at such facility. This subparagraph refers only to available information on actual concentrations of hazardous substances and not on the total quantity of special study waste at such facility.
+&emsp;&emsp;(B) Available information as to the quantity, toxicity, and concentration of hazardous substances that are constituents of any special study waste at, or released from such facility, the extent of or potential for release of such hazardous constituents, the exposure or potential exposure to human population and the environment, and the degreeof hazard to human health or the environment posed by the release of such hazardous constituents at such facility. This subparagraph refers only to available information on actual concentrations of hazardous substances and not on the total quantity of special study waste at such facility.
 
 #### (3) Savings provisions
 

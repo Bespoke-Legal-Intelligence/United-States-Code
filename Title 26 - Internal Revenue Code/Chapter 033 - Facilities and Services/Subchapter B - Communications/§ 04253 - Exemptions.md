@@ -2,7 +2,7 @@
 
 #### (a) Certain coin-operated service
 
-Service paid for by inserting coins in coin-operated telephones available to the public shall not be subject to the tax imposed by section 4251 with respect to local telephone service, or with respect to toll telephone service if the charge for such toll telephone service is less than 25 cents; except that where such coin-operated telephone service is furnished for a guaranteed amount, the amounts paid under such guarantee plus any fixed monthly or other periodic charge shall be subject to the tax.
+Service paid for by inserting coins in coin-operated telephones available to the public shall not be subject to the tax imposed by section 4251 with respect to local telephone service, or with respect to toll telephone service if the charge for such toll telephone service is less than 25 cents;except that where such coin-operated telephone service is furnished for a guaranteed amount, the amounts paid under such guarantee plus any fixed monthly or other periodic charge shall be subject to the tax.
 
 #### (b) News services
 
@@ -60,7 +60,7 @@ Under regulations prescribed by the Secretary, no tax shall be imposed under sec
 
 #### Repeal
 
-<i>This subchapter, relating to the tax on communications, was repealed by Pub. L. 90–364, title I, §105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, §702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, §201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.</i>
+<i>This subchapter, relating to the tax on communications, was repealed by Pub. L. 90–364, title I, §105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, §702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, §201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered</i><i>before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.</i>
 
 #### Amendments
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 87–508 applicable with respect to services furnished on o
 
 Section 4(b) of Pub. L. 86–344, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1) Subject to the provisions of paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply with respect to amounts paid on or after January 1, 1959, for services rendered on or after such date.
+“(1) Subject to the provisions of paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply with respect to amounts paid on orafter January 1, 1959, for services rendered on or after such date.
 
 “(2) The amendment made by subsection (a) \[amending this section\] shall not apply with respect to amounts paid pursuant to bills rendered before January 1, 1959. In the case of amounts paid pursuant to bills rendered on or after such date for services for which no bill was rendered before such date, such amendment shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date, the provisions of subchapter B of chapter 33 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] in effect at the time such services were rendered shall apply to the amounts paid for such services.”
 

@@ -22,7 +22,7 @@ The character of any item included in a shareholder's pro rata share under parag
 
 #### (c) Gross income of a shareholder
 
-In any case where it is necessary to determine the gross income of a shareholder for purposes ofthis title, such gross income shall include the shareholder's pro rata share of the gross income of the corporation.
+In any case where it is necessary to determine the gross income of a shareholder for purposes of this title, such gross income shall include the shareholder's pro rata share of the gross income of the corporation.
 
 #### (d) Special rules for losses and deductions
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

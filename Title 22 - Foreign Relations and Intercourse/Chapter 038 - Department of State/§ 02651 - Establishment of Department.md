@@ -14,6 +14,10 @@ Section was formerly classified to section 151 of Title 5 prior to the general r
 
 Pub. L. 100–204, title XIII, §1301, Dec. 22, 1987, 101 Stat. 1432, provided that: “Except as otherwise provided in this Act \[see Short Title of 1987 Amendment note below\], this Act shall take effect on the date of its enactment \[Dec. 22, 1987\].”
 
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[§1\], Nov. 29, 1999, 113 Stat. 1536, 1501A–405, provided that: “This Act \[H.R. 3427, as enacted by section 1000(a)(7) of Pub. L. 106–113, see Tables for classification\] may be cited as the ‘Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–277, div. G, subdiv. B, title XX, §2001, Oct. 21, 1998, 112 Stat. 2681–801, provided that: “This subdivision \[see Tables for classification\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Years 1998 and 1999’.”
@@ -32,7 +36,7 @@ Pub. L. 101–246, §1(a), Feb. 16, 1990, 104 Stat. 15, provided that: “This A
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–204, §1(a), Dec. 22, 1987, 101 Stat. 1331, provided that: “This Act \[enacting sections 288f–3, 1464, 2656f, 2664a, 2713, 4069a to 4069c, 4315, 4316, 4341 to 4343, and 5201 to 5203 of this title, amending sections 288h, 290j–1, 1469, 1471, 1475e, 1477c, 1627, 1928a, 1928b, 2151n, 2291, 2304, 2460, 2661, 2670, 2697, 2706, 2707, 2778, 2877, 3905, 3922a, 3927, 3941, 3942, 3946, 3949, 3961, 3965, 4001, 4010, 4023, 4137, 4173, 4302, 4303, 4305, 4403, 4412, 4413, 4831, 4834, 4851, 4861, and 4904 of this title, sections 5313, 5315, and 8332 of Title 5, Government Organization and Employees, section 1182 of Title 8, Aliens and Nationality, sections 2492 and 2605 of Title 19, Customs Duties, and section 1364 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section, sections 287, 287e, 1461, 1463, 1471, 2601, 2656, 2680, 2697, 2707, 3922a, 3941 to 3943, 3946, 3965, 4041, 4301, 4315, 4316, 4341, 4802, 4851, and 5201 of this title, section 112b of Title 1, General Provisions, section 5313 of Title 5, sections 1182, 1201, and 1255a of Title 8, section 2901 of Title 15, Commerce and Trade, section 3181 of Title 18, Crimes and Criminal Procedure, section 2605 of Title 19, and section 1364 of Title 28, and amending provisionsset out as notes under this section and sections 287, 287b, 287e, and 4021 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Years 1988 and 1989’.”
+Pub. L. 100–204, §1(a), Dec. 22, 1987, 101 Stat. 1331, provided that: “This Act \[enacting sections 288f–3, 1464, 2656f, 2664a, 2713, 4069a to 4069c, 4315, 4316, 4341 to 4343,and 5201 to 5203 of this title, amending sections 288h, 290j–1, 1469, 1471, 1475e, 1477c, 1627, 1928a, 1928b, 2151n, 2291, 2304, 2460, 2661, 2670, 2697, 2706, 2707, 2778, 2877, 3905, 3922a, 3927, 3941, 3942, 3946, 3949, 3961, 3965, 4001, 4010, 4023, 4137, 4173, 4302, 4303, 4305, 4403, 4412, 4413, 4831, 4834, 4851, 4861, and 4904 of this title, sections 5313, 5315, and 8332 of Title 5, Government Organization and Employees, section 1182 of Title 8, Aliens and Nationality, sections 2492 and 2605 of Title 19, Customs Duties, and section 1364 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section, sections 287, 287e, 1461, 1463, 1471, 2601, 2656, 2680, 2697, 2707, 3922a, 3941 to 3943, 3946, 3965, 4041, 4301, 4315, 4316, 4341, 4802, 4851, and 5201 of this title, section 112b of Title 1, General Provisions, section 5313 of Title 5, sections 1182, 1201, and 1255a of Title 8, section 2901 of Title 15, Commerce and Trade, section 3181 of Title 18, Crimes and Criminal Procedure, section 2605 of Title 19, and section 1364 of Title 28, and amending provisions set out as notes under this section and sections 287, 287b, 287e, and 4021 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Years 1988 and 1989’.”
 
 #### Short Title of 1985 Amendment
 
@@ -99,6 +103,18 @@ Pub. L. 96–241, §2, May 3, 1980, 94 Stat. 343, provided that:
 “(c) Any judge designated to hear any action brought under this section shall cause such action to be in every way expedited.
 
 “(d) This section applies only with respect to the Secretary of State who is first appointed to that office after the enactment of this Act \[May 3, 1980\].”
+
+#### Definitions
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[§3\], Nov. 29, 1999, 113 Stat. 1536, 1501A–409, provided that: “In this Act \[see Short Title of 1999 Amendment note set out above\]:
+
+&emsp;“(1)
+
+Appropriate congressional committees.—Except as otherwise provided in section 902(1) \[113 Stat. 1501A–475\], the term ‘appropriate congressional committees’ means the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate.
+
+&emsp;“(2)
+
+Secretary.—The term ‘Secretary’ means the Secretary of State.”
 
 #### Cross References
 

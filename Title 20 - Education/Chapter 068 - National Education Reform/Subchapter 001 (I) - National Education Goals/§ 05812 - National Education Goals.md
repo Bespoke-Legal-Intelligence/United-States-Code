@@ -30,7 +30,7 @@ The Congress declares that the National Education Goals are the following:
 
 &emsp;(B) The objectives for this goal are that—
 
-&emsp;&emsp;(i) the academic performance of all students at the elementary and secondary levelwill increase significantly in every quartile, and the distribution of minority students in each quartile will more closely reflect the student population as a whole;
+&emsp;&emsp;(i) the academic performance of all students at the elementary and secondary level will increase significantly in every quartile, and the distribution of minority students in each quartile will more closely reflect the student population as a whole;
 
 &emsp;&emsp;(ii) the percentage of all students who demonstrate the ability to reason, solve problems, apply knowledge, and write and communicate effectively will increase substantially;
 

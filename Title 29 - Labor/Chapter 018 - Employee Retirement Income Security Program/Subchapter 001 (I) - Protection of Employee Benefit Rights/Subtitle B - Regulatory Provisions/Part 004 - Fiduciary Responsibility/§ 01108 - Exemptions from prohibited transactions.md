@@ -2,7 +2,7 @@
 
 #### (a) Grant of exemptions
 
-The Secretary shall establish an exemption procedure for purposes of this subsection. Pursuant to such procedure, he may grant a conditional or unconditional exemption of any fiduciary or transaction, or class of fiduciaries or transactions, from all or part of the restrictions imposed by sections 1106 and 1107(a) of this title. Action under this subsection may be taken only after consultation and coordination with the Secretary of the Treasury. An exemption granted under this section shall not relieve a fiduciary from any other applicable provision of this chapter. The Secretary may not grant an exemption under this subsection unless he finds that such exemption is—
+The Secretary shall establish an exemption procedure for purposes of this subsection. Pursuant to such procedure, he may grant a conditional or unconditional exemption of any fiduciary or transaction, or class of fiduciaries or transactions, from all or part of the restrictions imposed by sections 1106 and 1107(a) of this title.Action under this subsection may be taken only after consultation and coordination with the Secretary of the Treasury. An exemption granted under this section shall not relieve a fiduciary from any other applicable provision of this chapter. The Secretary may not grant an exemption under this subsection unless he finds that such exemption is—
 
 &emsp;(1) administratively feasible,
 
@@ -72,7 +72,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;&emsp;(C) such stock does not constitute a qualifying employer security (as defined in section 1107(d)(5) of this title as in effect at the time of the sale).
 
-&emsp;(13) Any transfer in a taxable year beginning before January 1, 2001, of excess pension assets from a defined benefit plan to a retiree health account in a qualified transfer permitted under section 420 of title 26 (as in effect on January 1, 1995).
+&emsp;(13) Any transfer made before January 1, 2006, of excess pension assets from a defined benefit plan to a retiree health account in a qualified transfer permitted under section 420 of title 26 (as in effect on December 17, 1999).
 
 #### (c) Fiduciary benefits and compensation not prohibited by section 1106
 
@@ -126,13 +126,15 @@ Sections 1106 and 1107 of this title shall not apply to the acquisition or sale 
 
 Section 1106(b)(2) of this title shall not apply to any merger or transfer described in subsection (b)(11) of this section.
 
-(Pub. L. 93–406, title I, §408, Sept. 2, 1974, 88 Stat. 883; Pub. L. 96–364, title III, §308, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 97–354, §5(a)(43), Oct. 19, 1982, 96 Stat. 1697; Pub. L. 99–514, title XI, §1114(b)(15)(B), title XVIII, §1898(i)(1), Oct. 22, 1986, 100 Stat. 2452, 2957; Pub. L. 101–239, title VII, §§7881(<i>l</i>)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(C), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1704(n)(2), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title XV, §1506(b)(2), Aug. 5, 1997, 111 Stat. 1066.)
+(Pub. L. 93–406, title I, §408, Sept. 2, 1974, 88 Stat. 883; Pub. L. 96–364, title III, §308, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 97–354, §5(a)(43), Oct. 19, 1982, 96 Stat. 1697; Pub. L. 99–514, title XI, §1114(b)(15)(B), title XVIII, §1898(i)(1), Oct. 22, 1986, 100 Stat. 2452, 2957; Pub. L. 101–239, title VII, §§7881(<i>l</i>)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(C), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1704(n)(2), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title XV, §1506(b)(2), Aug. 5, 1997, 111 Stat. 1066; Pub. L. 106–170, title V, §535(a)(2)(C), Dec. 17, 1999, 113 Stat. 1934.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
+
+1999—Subsec. (b)(13). Pub. L. 106–170 substituted “made before January 1, 2006” for “in a taxable year beginning before January 1, 2001” and “December 17, 1999” for “January 1, 1995”.
 
 1997—Subsec. (d). Pub. L. 105–34 amended subsec. (d) generally, substituting present provisions for provisions exempting transactions involving an owner-employee, a member of the family, or a corporation controlled by any such owner-employee through the ownership, directly or indirectly, of 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock of the corporation.
 
@@ -159,6 +161,10 @@ Subsec. (d). Pub. L. 99–514, §1898(i)(1), struck out “(a),” before “(b)
 1980—Subsec. (b)(10), (11). Pub. L. 96–364, §308(a), added pars. (10) and (11).
 
 Subsec. (f). Pub. L. 96–364, §308(b), added subsec. (f).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to qualified transfers occurring after Dec. 17, 1999, see section 535(c)(1) of Pub. L. 106–170, set out as a note under section 420 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1997 Amendment
 

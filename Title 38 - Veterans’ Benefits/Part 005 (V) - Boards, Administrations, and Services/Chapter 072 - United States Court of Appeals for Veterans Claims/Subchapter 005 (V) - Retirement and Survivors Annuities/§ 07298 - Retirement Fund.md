@@ -22,15 +22,19 @@
 
 &emsp;&emsp;(II) the balance in the fund as of the close of the fiscal year.
 
-(C) Amounts deposited in the retirement fund under this paragraph shall not be credited to the account of any individual.
+(C) For purposes of subparagraph (B), the term “present value” includes a value determined by an actuary with respect to a payment that may be made under subsection (b) from the retirement fund within the contemplation of law.
+
+(D) Amounts deposited in the retirement fund under this paragraph shall not be credited to the account of any individual.
 
 (f) The Secretary of the Treasury shall invest from time to time, in interest-bearing securities of the United States, such portions of the retirement fund as in such Secretary's judgment may not be immediately required for payments from the fund. The income derived from such investments shall constitute a part of the fund.
 
 (g) For purpose of section 255(g)(1)(B) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 905(g)(1)(B)), the retirement fund shall be treated in the same manner as the Claims Judges’ Retirement Fund.
 
-(Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 625, §4098; renumbered §7298 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 105–368, title V, §§502, 512(a)(1), (2)(C), Nov. 11, 1998, 112 Stat. 3340, 3341.)
+(Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 625, §4098; renumbered §7298 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 105–368, title V, §§502, 512(a)(1), (2)(C), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §1011(j), Nov. 30, 1999, 113 Stat. 1589.)
 
 #### Amendments
+
+1999—Subsec. (e)(2)(C), (D). Pub. L. 106–117 added subpar. (D) and redesignated former subpar. (C) as (D).
 
 1998—Pub. L. 105–368, §512(a)(2)(C), struck out “Court of Veterans Appeals” before “Retirement Fund” in section catchline.
 

@@ -78,7 +78,7 @@ Section 103(c) of Pub. L. 103–232 provided that: “Of the Directors on the Bo
 
 #### Completion of Appointments
 
-Section 103(d) of Pub. L. 103–232 provided that: “The Secretary of the Interior shall appoint the additional members of the Board of Directors of the National Fish and Wildlife Foundation authorized by the amendment made by subsection (a) \[(b)\] \[amending this section\], by not later than 60 days after the date of the enactment of this Act \[Apr. 11, 1994\].”
+Section 103(d) of Pub. L. 103–232 provided that: “The Secretary of the Interior shall appoint the additional members of the Board of Directors of the National Fishand Wildlife Foundation authorized by the amendment made by subsection (a) \[(b)\] \[amending this section\], by not later than 60 days after the date of the enactment of this Act \[Apr. 11, 1994\].”
 
 #### Authority of Board Not Affected
 

@@ -58,3 +58,7 @@ Pub. L. 103–159, §106(a)(3), added par. (4) relating to funding for improveme
 
 Section 1803(c) of Pub. L. 101–647 provided that: “The amendments made by this section \[enacting this section\] shall not apply with respect to any fiscal year beginning before the date of the enactment of this Act \[Nov. 29, 1990\].”
 
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
+

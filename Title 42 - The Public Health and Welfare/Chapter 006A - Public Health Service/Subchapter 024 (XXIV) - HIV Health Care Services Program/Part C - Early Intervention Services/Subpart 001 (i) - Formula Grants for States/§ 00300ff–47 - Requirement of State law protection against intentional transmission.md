@@ -12,7 +12,7 @@ The Secretary may not make a grant under section 300ff–41 of this title to a S
 
 #### (b) Consent to risk of transmission
 
-The State laws described in subsection (a) of this section need not apply to circumstances under which the conduct described in paragraphs (1) through (3) of subsection (a) of this section if the individual who is subjected to the behavior involved knows that the other individual is infected and provides prior informed consent to the activity.
+The State laws described in subsection (a) of this section need not apply to circumstancesunder which the conduct described in paragraphs (1) through (3) of subsection (a) of this section if the individual who is subjected to the behavior involved knows that the other individual is infected and provides prior informed consent to the activity.
 
 #### (c) State certification with respect to required laws
 

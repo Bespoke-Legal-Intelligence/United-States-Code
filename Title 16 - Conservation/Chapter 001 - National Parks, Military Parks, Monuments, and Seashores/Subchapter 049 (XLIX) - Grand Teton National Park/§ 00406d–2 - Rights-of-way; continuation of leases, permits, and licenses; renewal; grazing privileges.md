@@ -2,7 +2,7 @@
 
 With respect to those lands that are included by this subchapter and sections 431a, 451a, 482m, 673b, and 673c of this title within the Grand Teton National Park—
 
-&emsp;(a) the Secretary of the Interior shall designate and open rights-of-way, including stock driveways, over and across Federal lands within the exterior boundary of the park for the movement of persons and property to or from State and private lands within the exterior boundary of the park and to or from national forest, State, and private lands adjacent to the park. The location and use of such rights-of-way shall be subject to such regulations as may be prescribed by the Secretary of the Interior;
+&emsp;(a) the Secretary of the Interior shall designate and open rights-of-way, including stock driveways, over and across Federal lands within the exterior boundary of the park for the movement of persons and property to or from State and private lands within the exterior boundary of the park and to or from national forest, State, and private lands adjacent to thepark. The location and use of such rights-of-way shall be subject to such regulations as may be prescribed by the Secretary of the Interior;
 
 &emsp;(b) all leases, permits, and licenses issued or authorized by any department, establishment, or agency of the United States with respect to the Federal lands within the exterior boundary of the park which are in effect on September 14, 1950, shall continue in effect, subject to compliance with the terms and conditions therein set forth, until terminated in accordance with the provisions thereof;
 
@@ -26,7 +26,7 @@ Pub. L. 105–81, Nov. 13, 1997, 111 Stat. 1537, provided that:
 
 &emsp;“(2) as the population continues to grow in Teton County, Wyoming, undeveloped land near the Park becomes more scarce;
 
-&emsp;“(3) the loss of open space around Teton Park has negative impacts on wildlife migration routes in thearea and on visitors to the Park, and its repercussions can be felt throughout the entire region;
+&emsp;“(3) the loss of open space around Teton Park has negative impacts on wildlife migration routes in the area and on visitors to the Park, and its repercussions can be felt throughout the entire region;
 
 &emsp;“(4) a few ranches make up Teton Valley's remaining open space, and the ranches depend on grazing in Grand Teton National Park for summer range to maintain operations;
 
@@ -76,5 +76,5 @@ In General.—Subject to subsection (b), the Secretary of the Interior shall rei
 
 “(b)
 
-Effect of Change in Land Use.—If, during the period of the study or until such time as the recommendations of the study are implemented, any portion of the land described in section 2(a)(1) is disposed of in a manner that would result in the land no longer being used for ranching or other agricultural purposes, the Secretary of the Interior shall cancel the extension described in subsection (a).”
+Effect of Change in Land Use.—If, during the period of the study or until such time as the recommendations of the study are implemented, any portion of the land described in section 2(a)(1) is disposed of in a manner that would result in the land no longer beingused for ranching or other agricultural purposes, the Secretary of the Interior shall cancel the extension described in subsection (a).”
 

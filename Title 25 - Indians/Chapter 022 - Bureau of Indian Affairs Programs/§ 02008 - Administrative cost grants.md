@@ -8,7 +8,7 @@
 
 &emsp;(B) carry out other necessary support functions which would otherwise be provided by the Secretary or other Federal officers or employees, from resources other than direct program funds, in support of comparable Bureau operated programs.
 
-(2) Amounts appropriated to fund the grants provided under this section shall be in addition to, and shall not reduce, the amounts appropriated for the program being administered by the contract or grant school.
+(2) Amounts appropriated to fund the grants provided under this section shall be in additionto, and shall not reduce, the amounts appropriated for the program being administered by the contract or grant school.
 
 #### (b) Determination of amount; reduction for Federal education program payments; reimbursement by Federal departments or agencies
 
@@ -62,7 +62,7 @@
 
 &emsp;(B) operates 1 or more other programs under a contract or grant provided under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\],
 
-> the Secretary shall ensure that the Indian tribe or tribal organization is provided with the fullamount of the administrative costs, and of the indirect costs, that are associated with operating the contract or grant school, a school operated under the Tribally Controlled Schools Act of 1988, and all of such other programs, except that funds appropriated for implementation of this section shall be used only to supply the amount of the grant required to be provided by this section.
+> the Secretary shall ensure that the Indian tribe or tribal organization is provided with the full amount of the administrative costs, and of the indirect costs, that are associated with operating the contract or grant school, a school operated under the Tribally Controlled Schools Act of 1988, and all of such other programs, except that funds appropriated for implementation of this section shall be used only to supply the amount of the grant required to be provided by this section.
 
 #### (e) Definitions
 

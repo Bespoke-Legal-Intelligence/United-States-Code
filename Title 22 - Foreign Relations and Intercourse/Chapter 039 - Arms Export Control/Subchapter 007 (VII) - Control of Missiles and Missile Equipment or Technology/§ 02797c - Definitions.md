@@ -1,12 +1,14 @@
 ### §2797c. Definitions
 
+#### (a) In general
+
 For purposes of this subchapter—
 
 &emsp;(1) the term “missile” means a category I system as defined in the MTCR Annex, and any other unmanned delivery system of similar capability, as well as the specially designed production facilities for these systems;
 
 &emsp;(2) the term “Missile Technology Control Regime” or “MTCR” means the policy statement, between the United States, the United Kingdom, the Federal Republic of Germany, France, Italy, Canada, and Japan, announced on April 16, 1987, to restrict sensitive missile-relevant transfers based on the MTCR Annex, and any amendments thereto;
 
-&emsp;(3) the term “MTCR adherent” means a country that participates in the MTCR orthat, pursuant to an international understanding to which the United States is a party, controls MTCR equipment or technology in accordance with the criteria and standards set forth in the MTCR;
+&emsp;(3) the term “MTCR adherent” means a country that participates in the MTCR or that, pursuant to an international understanding to which the United States is a party, controls MTCR equipment or technology in accordance with the criteria and standards set forth in the MTCR;
 
 &emsp;(4) the term “MTCR Annex” means the Guidelines and Equipment and Technology Annex of the MTCR, and any amendments thereto;
 
@@ -26,9 +28,19 @@ For purposes of this subchapter—
 
 &emsp;(9) the term “otherwise engaged in the trade of” means, with respect to a particular export or transfer, to be a freight forwarder or designated exporting agent, or a consignee or end user of the item to be exported or transferred.
 
-(Pub. L. 90–629, ch. 7, §74, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1748; amended Pub. L. 102–138, title III, §323(b), (c), Oct. 28, 1991, 105 Stat. 711.)
+#### (b) International understanding defined
+
+For purposes of subsection (a)(3) of this section, as it relates to any international understanding concluded with the United States after January 1, 2000, the term “international understanding” means—
+
+&emsp;(1) any specific agreement by a country not to export, transfer, or otherwise engage in the trade of any MTCR equipment or technology that contributes to the acquisition, design, development, or production of missiles in a country that is not an MTCR adherent and would be, if it were United States-origin equipment or technology, subject to the jurisdiction of the United States under this chapter; or
+
+&emsp;(2) any specific understanding by a country that, notwithstanding section 2797b(b) of this title, the United States retains the right to take the actions under section 2797b(a)(2) of this title in the case of any export or transfer of any MTCR equipment or technology that contributes to the acquisition, design, development, or production of missiles in a country that is not an MTCR adherent and would be, if it were United States-origin equipment or technology, subject to the jurisdiction of the United States under this chapter.
+
+(Pub. L. 90–629, ch. 7, §74, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1748; amended Pub. L. 102–138, title III, §323(b), (c), Oct. 28, 1991, 105 Stat. 711; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1136(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–495.)
 
 #### Amendments
+
+1999—Pub. L. 106–113 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 1991—Par. (8)(B). Pub. L. 102–138, §323(b), substituted “countries with non-market economies (excluding former members of the Warsaw Pact)” for “countries where it may be impossible to identify a specific governmental entity referred to in subparagraph (A)”.
 
@@ -36,5 +48,5 @@ Par. (8)(B)(ii). Pub. L. 102–138, §323(c), substituted “electronics, space 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2776 of this title.
+This section is referred to in sections 2776, 2797b–2 of this title.
 

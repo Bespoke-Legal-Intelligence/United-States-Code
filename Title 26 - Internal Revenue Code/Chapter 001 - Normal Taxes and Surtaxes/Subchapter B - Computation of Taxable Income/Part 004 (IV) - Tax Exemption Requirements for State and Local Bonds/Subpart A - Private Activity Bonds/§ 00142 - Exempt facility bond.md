@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (A) Qualified project period
 
-&emsp;&emsp;The term “qualified project period” means the period beginning on the 1st day on which10 percent of the residential units in the project are occupied and ending on the latest of—
+&emsp;&emsp;The term “qualified project period” means the period beginning on the 1st day on which 10 percent of the residential units in the project are occupied and ending on the latest of—
 
 &emsp;&emsp;&emsp;(i) the date which is 15 years after the date on which 50 percent of the residential units in the project are occupied,
 
@@ -178,7 +178,7 @@ For purposes of this section—
 
 #### (7) Certification to Secretary
 
-&emsp;The operator of any project with respect to which an election was made under this subsection shall submit to the Secretary (at such time and in such manner as the Secretary shall prescribe) an annual certification as towhether such project continues to meet the requirements of this subsection. Any failure to comply with the provisions of the preceding sentence shall not affect the tax-exempt status of any bond but shall subject the operator to penalty, as provided in section 6652(j).
+&emsp;The operator of any project with respect to which an election was made under this subsection shall submit to the Secretary (at such time and in such manner as the Secretary shall prescribe) an annual certification as to whether such project continues to meet the requirements of this subsection. Any failure to comply with the provisions of the preceding sentence shall not affect the tax-exempt status of any bond but shall subject the operator to penalty, as provided in section 6652(j).
 
 #### (e) Facilities for the furnishing of water
 
@@ -186,7 +186,7 @@ For purposes of subsection (a)(4), the term “facilities for the furnishing of 
 
 &emsp;(1) the water is or will be made available to members of the general public (including electric utility, industrial, agricultural, or commercial users), and
 
-&emsp;(2) either the facility is operated by a governmental unit or the rates for the furnishing or sale of the water have been established or approved by a State or political subdivision thereof, by an agency or instrumentality of the United States, or by a public service or public utility commission or other similar body of any State or political subdivision thereof.
+&emsp;(2) either the facility is operated by a governmental unit or the rates for the furnishing or sale of the water have been established orapproved by a State or political subdivision thereof, by an agency or instrumentality of the United States, or by a public service or public utility commission or other similar body of any State or political subdivision thereof.
 
 #### (f) Local furnishing of electric energy or gas
 
@@ -260,7 +260,7 @@ For purposes of subsection (a)(8)—
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a)(9), the term “local district heating or cooling facility”means property used as an integral part of a local district heating or cooling system.
+&emsp;For purposes of subsection (a)(9), the term “local district heating or cooling facility” means property used as an integral part of a local district heating or cooling system.
 
 #### (2) Local district heating or cooling system
 
@@ -274,7 +274,7 @@ For purposes of subsection (a)(8)—
 
 #### (B) Local system
 
-&emsp;&emsp;For purposes of this paragraph, a local system includes facilities furnishing heating and cooling to an area consisting of a city and 1 contiguous county.
+&emsp;&emsp;For purposes of this paragraph, a local system includes facilities furnishing heatingand cooling to an area consisting of a city and 1 contiguous county.
 
 #### (h) Qualified hazardous waste facilities
 
@@ -410,5 +410,5 @@ Section 1804 of Pub. L. 104–188 provided that: “Sections 142(f)(3) (as added
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 42, 141, 143, 144, 145, 146, 148, 150, 168, 6652 of this title; title 12 section 1430b.
+This section is referred to in sections 42, 141, 143, 144, 145, 146, 148, 150, 168, 6652 of this title; title 12 sections 24, 1430b.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Administration is authorized to establish an Accredited Lenders Program for qualifiedState and local development companies that meet the requirements of subsection (b) of this section.
+The Administration is authorized to establish an Accredited Lenders Program for qualified State and local development companies that meet the requirements of subsection (b) of this section.
 
 #### (b) Requirements
 
@@ -28,7 +28,7 @@ The Administration shall develop an expedited procedure for processing a loan ap
 
 #### (1) In general
 
-&emsp;The designation of a qualified State or local development company as an accredited lender may be suspended or revoked if the Administration determines that—
+&emsp;The designation of a qualified State or local development company as an accredited lendermay be suspended or revoked if the Administration determines that—
 
 &emsp;&emsp;(A) the development company has not continued to meet the criteria for eligibility under subsection (b) of this section; or
 

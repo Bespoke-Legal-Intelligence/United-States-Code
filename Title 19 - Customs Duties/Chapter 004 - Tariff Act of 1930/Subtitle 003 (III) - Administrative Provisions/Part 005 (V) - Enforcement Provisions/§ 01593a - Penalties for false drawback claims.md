@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the Customs Service has reasonable cause to believe that there has been a violation of subsection (a) of this section and determines that further proceedings are warranted, the Customs Service shall issue tothe person concerned a written notice of intent to issue a claim for a monetary penalty. Such notice shall—
+&emsp;&emsp;If the Customs Service has reasonable cause to believe that there has been a violation of subsection (a) of this section and determines that further proceedings are warranted, the Customs Service shall issue to the person concerned a written notice of intent to issue a claim for a monetary penalty. Such notice shall—
 
 &emsp;&emsp;&emsp;(i) identify the drawback claim;
 
@@ -170,7 +170,7 @@ Notwithstanding section 1514 of this title, if the United States has been depriv
 
 #### (h) Regulation
 
-The Secretary shall promulgate regulations and guidelines to implement this section. Suchregulations shall specify that for purposes of subsection (g) of this section, a repeat negligent violation involving the same issue shall be treated as a repetitive violation for a maximum period of 3 years.
+The Secretary shall promulgate regulations and guidelines to implement this section. Such regulations shall specify that for purposes of subsection (g) of this section, a repeat negligent violation involving the same issue shall be treated as a repetitive violation for a maximum period of 3 years.
 
 #### (i) Court of International Trade proceedings
 

@@ -184,27 +184,33 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Term of the President's Committee of Advisors on Science and Technology extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of the President's Committee of Advisors on Science and Technology extended until Sept. 30, 1999, by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee of Advisors on Science and Technology extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(g), Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Committee on Advisors on Science and Technology extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Ex. Ord. No. 12975. Protection of Human Research Subjects and Creation of National Bioethics Advisory Commission
 
-Ex. Ord. No. 12975, Oct. 3, 1995, 60 F.R. 52063, as amended by Ex. Ord. No. 13018, Sept. 16, 1996, 61 F.R. 49045; Ex. Ord. No. 13046, May 16, 1997, 62 F.R. 27685, provided:
+Ex. Ord. No. 12975, Oct. 3, 1995, 60 F.R. 52063, as amended by Ex. Ord. No. 13018, Sept. 16, 1996, 61 F.R. 49045; Ex. Ord. No. 13046, May 16, 1997, 62 F.R. 27685; Ex. Ord. No. 13137, Sept. 15, 1999, 64 F.R. 50733, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
 Section 1. <i>Review of Policies and Procedures</i>. (a) Each executive branch department and agency that conducts, supports, or regulates research involving human subjects shall promptly review the protections of the rights and welfare of human research subjects that are afforded by the department's or agency's existing policies and procedures. In conducting this review, departments and agencies shall take account of the recommendations contained in the report of the Advisory Committee on Human Radiation Experiments.
 
-(b) Within 120 days of the date of this order, each department and agency that conducts, supports, or regulates research involving human subjects shall report the results of the review required by paragraph (a) of this section to the National Bioethics Advisory Commission, created pursuant to this order. The report shall include an identification of measures that the department or agency plans or proposes to implement to enhance human subject protections. As set forth in section 5 of this order, the National Bioethics Advisory Commission shall pursue, as its first priority, protection of the rights and welfare of human research subjects.
+(b) Within 120 days of the date of this order, each department and agency that conducts, supports, or regulates research involving human subjects shall report the results of the review required by paragraph (a) of this section to the National Bioethics Advisory Commission, created pursuant to this order. The report shall include an identification of measures that the department or agency plans or proposes to implement to enhance human subject protections. As set forth in section 6 of this order, the National Bioethics Advisory Commission shall pursue, as its first priority, protection of the rights and welfare of human research subjects.
 
 (c) For purposes of this order, the terms “research” and “human subject” shall have the meaning set forth in the 1991 Federal Policy for the Protection of Human Subjects.
 
 Sec. 2. <i>Research Ethics</i>. Each executive branch department and agency that conducts, supports, or regulates research involving human subjects shall, to the extent practicable and appropriate, develop professional and public educational programs to enhance activities related to human subjects protection, provide forums for addressing ongoing and emerging issues in human subjects research, and familiarize professionals engaged in nonfederally-funded research with the ethical considerations associated with conducting research involving human subjects. Where appropriate, such professional and educational programs should be organized and conducted with the participation of medical schools, universities, scientific societies, voluntary health organizations, or other interested parties.
 
-Sec. 3. <i>Establishment of National Bioethics Advisory Commission</i>. (a) There is hereby established a National Bioethics Advisory Commission (“NBAC”). NBAC shall be composed of not more than 18 members to be appointed by the President. NBAC shall be subject to the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
+Sec. 3. <i>Establishment of National Bioethics Advisory Commission</i>. There is established in the Department of Health and Human Services a National Bioethics Advisory Commission (NBAC). The NBAC shall be subject to the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
 
-(b) The President shall designate a Chairperson from among the members of NBAC.
+Sec. 4. <i>Structure</i>. (a) The National Bioethics Advisory Commission shall be composed of not more than 18 nongovernment members appointed by the President. At least one member shall be selected from each of the following categories of primary expertise: (1) philosophy/theology; (2) social/behavioral science; (3) law; (4) medicine/allied health professions; and (5) biological research. At least three members shall be selected from the general public, bringing to the Commission expertise other than that listed. The membership shall be approximately evenly balanced between scientists and non-scientists. Close attention will be given to equitable geographic distribution and to ethnic and gender representation.
 
-Sec. 4. <i>Functions</i>. (a) NBAC shall provide advice and make recommendations to the National Science and Technology Council and to other appropriate government entities regarding the following matters:
+(b) Members of the Commission will serve for terms of 2 years and may continue to serve after the expiration of their term until a successor is appointed. A member appointed to fill an unexpired term will be appointed to the remainder of such term.
+
+(c) The President shall designate a Chairperson from among the members of the NBAC.
+
+Sec. 5. <i>Functions</i>. (a) NBAC shall provide advice and make recommendations to the National Science and Technology Council and to other appropriate government entities regarding the following matters:
 
 (1) the appropriateness of departmental, agency, or other governmental programs, policies, assignments, missions, guidelines, and regulations as they relate to bioethical issues arising from research on human biology and behavior; and
 
@@ -216,7 +222,7 @@ Sec. 4. <i>Functions</i>. (a) NBAC shall provide advice and make recommendations
 
 (d) In addition to responding to requests for advice and recommendations from the National Science and Technology Council, NBAC also may accept suggestions of issues for consideration from both the Congress and the public. NBAC also may identify other bioethical issues for the purpose of providing advice and recommendations, subject to the approval of the National Science and Technology Council.
 
-Sec. 5. <i>Priorities</i>. (a) As a first priority, NBAC shall direct its attention to consideration of: protection of the rights and welfare of human research subjects; and issues in the management and use of genetic information, including but not limited to, human gene patenting.
+Sec. 6. <i>Priorities</i>. (a) As a first priority, NBAC shall direct its attention to consideration of: protection of the rights and welfare of human research subjects; and issues in the management and use of genetic information, including but not limited to, human gene patenting.
 
 (b) NBAC shall consider four criteria in establishing the other priorities for its activities:
 
@@ -228,19 +234,19 @@ Sec. 5. <i>Priorities</i>. (a) As a first priority, NBAC shall direct its attent
 
 (4) the extent of interest in the issue within the Federal Government.
 
-Sec. 6. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permitted by law, provide NBAC with such information as it may require for purposes of carrying out its functions.
+Sec. 7. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permitted by law, provide NBAC with such information as it may require for purposes of carrying out its functions.
 
-(b) NBAC may conduct inquiries, hold hearings, and establish subcommittees, as necessary. The Assistant to the President for Science and Technology and the Secretary of Health and Human Services shall be notified upon establishment of each subcommittee, and shall be provided information on the name, membership (including chair), function, estimated duration, and estimated frequency of meetings of the subcommittee.
+(b) NBAC may conduct inquiries, hold hearings, and establish subcommittees, as necessary. The Assistantto the President for Science and Technology and the Secretary of Health and Human Services shall be notified upon establishment of each subcommittee, and shall be provided information on the name, membership (including chair), function, estimated duration, and estimated frequency of meetings of the subcommittee.
 
 (c) NBAC is authorized to conduct analyses and develop reports or other materials. In order to augment the expertise present on NBAC, the Secretary of Health and Human Services may contract for the services of nongovernmental consultants who may conduct analyses, prepare reports and background papers, or prepare other materials for consideration by NBAC, as appropriate.
 
 (d) Members of NBAC shall be compensated in accordance with Federal law. Members of NBAC may be allowed travel expenses, including per diem in lieu of subsistence, to the extent permitted by law for persons serving intermittently in the government service (5 U.S.C. 5701–5707).
 
-(e) To the extent permitted by law, and subject to the availability of appropriations, the Department ofHealth and Human Services shall provide NBAC with such funds as may be necessary for the performance of its functions. The Secretary of Health and Human Services shall provide management and support services to NBAC.
+(e) To the extent permitted by law, and subject to the availability of appropriations, the Department of Health and Human Services shall provide NBAC with such funds as may be necessary for the performance of its functions. The Secretary of Health and Human Services shall provide management and support services to NBAC.
 
-Sec. 7. <i>General Provisions</i>. (a) Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act that are applicable to NBAC, except that of reporting annually to the Congress, shall be performed by the Secretary of Health and Human Services, in accordance with the guidelines and procedures established by the Administrator of General Services.
+Sec. 8. <i>General Provisions</i>. (a) Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act that are applicable to NBAC, except that of reporting annually to the Congress, shall be performed by the Secretary of Health and Human Services, in accordance with the guidelines and procedures established by the Administrator of General Services.
 
-(b) NBAC shall terminate on October 3, 1999, unless extended by the President prior to that date.
+(b) NBAC shall terminate on October 3, 2001, unless extended by the President prior to that date.
 
 (c) This order is intended only to improve the internal management of the executive branch and it is not intended to create any right, benefit, trust, or responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
 

@@ -52,7 +52,7 @@ Each notice of solicitation required by subparagraph (A) or (B) of subsection (a
 
 &emsp;(4) a statement that all responsible sources may submit a bid, proposal, or quotation (as appropriate) which shall be considered by the agency;
 
-&emsp;(5) in the case of a procurement using procedures other than competitive procedures, a statement of the reason justifying the use of such procedures and the identity of the intended source; and
+&emsp;(5) in the case of a procurement using procedures other than competitive procedures, a statement of the reason justifying the use ofsuch procedures and the identity of the intended source; and
 
 &emsp;(6) in the case of a contract in an amount estimated to be greater than $25,000 but not greater than the simplified acquisition threshold, or a contract for the procurement of commercial items using special simplified procedures—
 

@@ -48,7 +48,7 @@ Amendment by Pub. L. 95–176 effective on first day of first calendar month beg
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–630 applicable only to articles exported on or after first day of first calendarmonth which begins more than 90 days after Oct. 22, 1968, see section 4 of Pub. L. 90–630, set out as a note under section 5008 of this title.
+Amendment by Pub. L. 90–630 applicable only to articles exported on or after first day of first calendar month which begins more than 90 days after Oct. 22, 1968, see section 4 of Pub. L. 90–630, set out as a note under section 5008 of this title.
 
 #### Effective Date of 1965 Amendment
 

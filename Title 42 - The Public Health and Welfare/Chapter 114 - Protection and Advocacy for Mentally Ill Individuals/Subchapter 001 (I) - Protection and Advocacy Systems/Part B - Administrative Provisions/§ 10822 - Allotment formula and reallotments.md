@@ -38,7 +38,7 @@
 
 > bears to the total amount appropriated under section 10827 of this title for such preceding fiscal year.
 
-(b)(1) To the extent that all the amounts appropriated under section 10827 of this title for afiscal year are not allotted to eligible systems because—
+(b)(1) To the extent that all the amounts appropriated under section 10827 of this title for a fiscal year are not allotted to eligible systems because—
 
 &emsp;(A) one or more eligible systems have not submitted an application for an allotment for such fiscal year; or
 

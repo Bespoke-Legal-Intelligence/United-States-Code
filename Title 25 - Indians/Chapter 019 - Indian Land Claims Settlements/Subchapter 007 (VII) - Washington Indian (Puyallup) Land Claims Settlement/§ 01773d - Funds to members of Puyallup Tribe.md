@@ -14,7 +14,7 @@
 
 #### (b) Permanent trust fund for tribal members
 
-(1) In order to provide a permanent resource to enhance the ability of the Tribe to provide services to its members, there is established the Puyallup Tribe of Indians Settlement TrustFund (hereafter in this subsection referred to as the “trust fund”).
+(1) In order to provide a permanent resource to enhance the ability of the Tribe to provide services to its members, there is established the Puyallup Tribe of Indians Settlement Trust Fund (hereafter in this subsection referred to as the “trust fund”).
 
 (2) Upon appropriation by Congress or to the extent funds are provided by other parties to the Settlement Agreement, the Secretary shall deposit $22,000,000 into the trust fund. The trust fund shall be invested in accordance with section 162a of this title, so as to earn the maximum interest on principal and interest available under that section. No part of the $22,000,000 principal may be expended for any purpose. Income earned on the principal or interest of the trust fund shall be available for expenditure as provided in paragraph (3).
 

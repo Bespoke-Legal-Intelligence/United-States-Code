@@ -36,7 +36,7 @@
 
 (1) For each proposal under subsection (a), (b), (f), (h), or (<i>l</i>) of this section to acquire a major resource, to implement a conservation measure which will conserve an amount of electric power equivalent to that of a major resource, to pay or reimburse investigation and preconstruction expenses of the sponsors of a major resource, or to grant billing credits or services involving a major resource, the Administrator shall—
 
-&emsp;(A) publish notice of the proposed action in the Federal Register and provide a copy ofsuch notice to the Council, the Governor of each State in which facilities would be constructed or a conservation measure implemented, and the Administrator's customers;
+&emsp;(A) publish notice of the proposed action in the Federal Register and provide a copy of such notice to the Council, the Governor of each State in which facilities would be constructed or a conservation measure implemented, and the Administrator's customers;
 
 &emsp;(B) not less than sixty days following publication of such notice, conduct one or more public hearings, presided over by a hearing officer, at which testimony and evidence shall be received, with opportunity for such rebuttal and cross-examination as the hearing officer deems appropriate in the development of an adequate hearing record;
 
@@ -80,7 +80,7 @@ The Administrator is authorized to acquire a resource, other than a major resour
 
 #### (e) Effectuation of priorities; use of customers and local entities
 
-(1) In order to effectuate the priority given to conservation measures and renewable resources under this chapter, the Administrator shall, to the maximum extent practicable, make use of his authorities under this chapter to acquire conservation measures and renewable resources, to implement conservation measures, and to provide credits and technical and financial assistance for the development and implementation of such resources and measures (including the funding of, and the securing of debt for, expenses incurred during the investigation and preconstruction of resources, as authorized in subsection (f) of this section).
+(1) In order to effectuate the priority given to conservation measures and renewable resourcesunder this chapter, the Administrator shall, to the maximum extent practicable, make use of his authorities under this chapter to acquire conservation measures and renewable resources, to implement conservation measures, and to provide credits and technical and financial assistance for the development and implementation of such resources and measures (including the funding of, and the securing of debt for, expenses incurred during the investigation and preconstruction of resources, as authorized in subsection (f) of this section).
 
 (2) To the extent conservation measures or acquisition of resources require direct arrangements with consumers, the Administrator shall make maximum practicable use of customers and local entities capable of administering and carrying out such arrangements.
 
@@ -164,11 +164,11 @@ In the exercise of his authorities pursuant to this section, the Administrator s
 
 (2) The Administrator is authorized and directed to investigate periodically opportunities for mutually beneficial interregional exchanges of electric power that reduce the need for additional generation or generating capacity in the Pacific Northwest and the regions with which such exchanges may occur. The Council shall take into consideration in formulating a plan such investigations.
 
-(3) After the Administrator submits a report to Congress pursuant to paragraph (5) of this subsection, the Administrator is authorized to acquire resources consistent with such investigations and consistent with the plan or, if no plan is in effect, with the priorities of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title. Such acquisitions shall be in accordance with the provisions of this subsection.
+(3) After the Administrator submits a report to Congress pursuant to paragraph (5) of thissubsection, the Administrator is authorized to acquire resources consistent with such investigations and consistent with the plan or, if no plan is in effect, with the priorities of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title. Such acquisitions shall be in accordance with the provisions of this subsection.
 
 (4) The Administrator shall conduct the investigations and the acquisitions, if any, authorized under this subsection with the assistance of other Federal agencies as may be appropriate.
 
-(5) No later than July 1, 1981, the Administrator shall submit to the Congress a report of the results of the investigations undertaken pursuant to this subsection, together with the prospects for obtaining additional resourcesunder the authority granted by this subsection and for reductions in generation or generating capacity through exchanges.
+(5) No later than July 1, 1981, the Administrator shall submit to the Congress a report of the results of the investigations undertaken pursuant to this subsection, together with the prospects for obtaining additional resources under the authority granted by this subsection and for reductions in generation or generating capacity through exchanges.
 
 #### (m) Offering of reasonable shares to each Pacific Northwest electric utility
 

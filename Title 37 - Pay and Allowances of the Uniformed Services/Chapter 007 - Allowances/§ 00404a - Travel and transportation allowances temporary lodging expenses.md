@@ -2,19 +2,23 @@
 
 (a) Under regulations prescribed by the Secretaries concerned, a member of a uniformed service who is ordered to make a change of permanent station—
 
-&emsp;(1) from any duty station to a duty station in the United States (other than Hawaii or Alaska); or
+&emsp;(1) from any duty station to a duty station in the United States (other than Hawaii or Alaska);
 
-&emsp;(2) from a duty station in the United States (other than Hawaii or Alaska) to a duty station outside the United States or in Hawaii or Alaska;
+&emsp;(2) from a duty station in the United States (other than Hawaii or Alaska) to a duty station outside the United States or in Hawaii or Alaska; or
 
-> shall be paid or reimbursed for subsistence expenses actually incurred by the member and the member's dependents while occupying temporary quarters incident to that change of permanent station. In the case of a change of permanent station described in clause (1), the period for which such expenses are to be paid or reimbursed may not exceed 10 days. In the case of a change of permanent station described in clause (2), the period for which such expenses are to be paid or reimbursed may not exceed five days and such payment or reimbursement may be provided only for expenses incurred before leaving the United States (other than Hawaii or Alaska).
+&emsp;(3) in the case of an enlisted member who is reporting to the member's first permanent duty station, from the member's home of record or initial technical school to that first permanent duty station;
+
+> shall be paid or reimbursed for subsistence expenses actually incurred by the member and the member's dependents while occupying temporary quarters incident to that change of permanent station. In the case of a change of permanent station described in paragraph (1) or (3), the period for which such expenses are to be paid or reimbursed may not exceed 10 days. In the case of a change of permanent station described in paragraph (2), the period for which such expenses are to be paid or reimbursed may not exceed five days and such payment or reimbursement may be provided only for expenses incurred before leaving the United States (other than Hawaii or Alaska).
 
 (b) Regulations prescribed under subsection (a) shall prescribe average daily subsistence rates for purposes of this section for the member and for each dependent. Such rates may not exceed the maximum per diem rates prescribed under section 404(d) of this title for the area where the temporary quarters are located.
 
 (c) A member may not be paid or reimbursed more than $110 a day under this section.
 
-(Added Pub. L. 97–60, title I, §122(a)(1), Oct. 14, 1981, 95 Stat. 1002; amended Pub. L. 99–145, title VI, §613(a), Nov. 8, 1985, 99 Stat. 640; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §621, Oct. 23, 1992, 106 Stat. 2422; Pub. L. 103–160, div. A, title VI, §621(a), (b), Nov. 30, 1993, 107 Stat. 1682.)
+(Added Pub. L. 97–60, title I, §122(a)(1), Oct. 14, 1981, 95 Stat. 1002; amended Pub. L. 99–145, title VI, §613(a), Nov. 8, 1985, 99 Stat. 640; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §621, Oct. 23, 1992, 106 Stat. 2422; Pub. L. 103–160, div. A, title VI, §621(a), (b), Nov. 30, 1993, 107 Stat. 1682; Pub. L. 106–65, div. A, title VI, §632, Oct. 5, 1999, 113 Stat. 661.)
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–65 added par. (3) and substituted “paragraph (1) or (3)” for “clause (1)” and “paragraph (2)” for “clause (2)” in concluding provisions.
 
 1993—Subsec. (a). Pub. L. 103–160, §621(a), substituted “10 days” for “four days” in second sentence and “five days” for “two days” in third sentence.
 
@@ -42,7 +46,7 @@ Section 122(c) of Pub. L. 97–60 provided that: “The amendments made by this 
 
 #### Prohibition on Payment of Temporary Lodging Expenses; Exception
 
-Pub. L. 99–500, §101(c) \[title IX, §9097\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–117, and Pub. L. 99–591, §101(c) \[title IX, §9097\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–117, provided that: “None of the funds appropriated by thisAct shall be available to pay temporary lodging expenses pursuant to section 404a(a) of title 37, United States Code: <i>Provided</i>, That during fiscal year 1987, this provision shall not apply to those military personnel with dependents in grades E–4 and below.”
+Pub. L. 99–500, §101(c) \[title IX, §9097\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–117, and Pub. L. 99–591, §101(c) \[title IX, §9097\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–117, provided that: “None of the funds appropriated by this Act shall be available to pay temporary lodging expenses pursuant to section 404a(a) of title 37, United States Code: <i>Provided</i>, That during fiscal year 1987, this provision shall not apply to those military personnel with dependents in grades E–4 and below.”
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@ The Congress hereby declares that it is the policy of the United States to provi
 
 #### (b) Corporate participation; private entity status; non-Government agency
 
-It is the purpose of this subchapter to provide that the participation of the United States in INMARSAT shall be through the communications satellite corporation established pursuant to subchapter III of this chapter, which constitutes a private entity operating for profit, and which is not an agency or establishment of the Federal Government.
+It is the purpose of this subchapter to provide that the participation of the United States in INMARSAT shall be through the communications satellite corporation established pursuantto subchapter III of this chapter, which constitutes a private entity operating for profit, and which is not an agency or establishment of the Federal Government.
 
 (Pub. L. 87–624, title V, §502, as added Pub. L. 95–564, Nov. 1, 1978, 92 Stat. 2392; amended Pub. L. 103–414, title III, §303(b)(4), Oct. 25, 1994, 108 Stat. 4296.)
 

@@ -14,7 +14,7 @@ Purposes.—Subject to the provisions of this chapter, the purposes of the copyr
 
 &emsp;&emsp;(B) To afford the copyright owner a fair return for his creative work and the copyright user a fair income under existing economic conditions;
 
-&emsp;&emsp;(C) To reflect the relative roles of the copyright owner and the copyright user inthe product made available to the public with respect to relative creative contribution, technological contribution, capital investment, cost, risk, and contribution to the opening of new markets for creative expression and media for their communication;
+&emsp;&emsp;(C) To reflect the relative roles of the copyright owner and the copyright user in the product made available to the public with respect to relative creative contribution, technological contribution, capital investment, cost, risk, and contribution to the opening of new markets for creative expression and media for their communication;
 
 &emsp;&emsp;(D) To minimize any disruptive impact on the structure of the industries involved and on generally prevailing industry practices.
 
@@ -42,7 +42,7 @@ Rulings.—The Librarian of Congress, upon the recommendation of the Register of
 
 Support and Reimbursement of Arbitration Panels.—The Librarian of Congress, upon the recommendation of the Register of Copyrights, shall provide the copyright arbitration royalty panels with the necessary administrative services related to proceedings under this chapter, and shall reimburse the arbitrators presiding in distribution proceedings at such intervals and in such manner as the Librarian shall provide by regulation. Each such arbitrator is an independent contractor acting on behalf of the United States, and shall be hired pursuant to a signed agreement between the Library of Congress and the arbitrator. Payments to the arbitrators shall be considered reasonable costs incurred by the Library of Congress and the Copyright Office for purposes of section 802(h)(1).
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2594; Pub. L. 99–397, §2(c), (d), Aug. 27, 1986, 100 Stat. 848; Pub. L. 100–568, §11(1), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, §202(4), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, §3(b), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, §3(a)(1), Oct.28, 1992, 106 Stat. 4247; Pub. L. 103–198, §2(a), Dec. 17, 1993, 107 Stat. 2304; Pub. L. 104–39, §5(d)(1), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §§8(a), 12(a)(19), Nov. 13, 1997, 111 Stat. 1533, 1535; Pub. L. 105–304, title IV, §405(e)(1), Oct. 28, 1998, 112 Stat. 2902.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2594; Pub. L. 99–397, §2(c), (d), Aug. 27, 1986, 100 Stat. 848; Pub. L. 100–568, §11(1), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, §202(4), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, §3(b), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, §3(a)(1), Oct. 28, 1992, 106 Stat. 4247; Pub. L. 103–198, §2(a), Dec. 17, 1993, 107 Stat. 2304; Pub. L. 104–39, §5(d)(1), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §§8(a), 12(a)(19), Nov. 13, 1997, 111 Stat. 1533, 1535; Pub. L. 105–304, title IV, §405(e)(1), Oct. 28, 1998, 112 Stat. 2902.)
 
 #### References in Text
 

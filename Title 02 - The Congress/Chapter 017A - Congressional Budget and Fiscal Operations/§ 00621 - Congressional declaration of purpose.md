@@ -22,6 +22,10 @@ Section was formerly classified to section 1301 of Title 31 prior to the general
 
 Section 905 of Pub. L. 93–344 provided effective dates for Pub. L. 93–344 prior to repeal by Pub. L. 105–33, title X, §10120(a), Aug. 5, 1997, 111 Stat. 696.
 
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–141, §1, Dec. 7, 1999, 113 Stat. 1699, provided that: “This Act \[amending sections 658b and 658c of this title\] may be cited as the ‘State Flexibility Clarification Act’.”
+
 #### Short Title of 1981 Amendment
 
 Pub. L. 97–108, §1, Dec. 23, 1981, 95 Stat. 1510, provided: “That this Act \[amending section 653 of this title and enacting provisions set out as notes under section 653 of this title\] may be cited as the ‘State and Local Government Cost Estimate Act of 1981’.”
@@ -92,7 +96,7 @@ Requirement to Report Legislation.—(1) The committees of jurisdiction in the H
 
 “(f) \[sic\]
 
-President's Budget.—The President's annual budget submission shall include an analysis of thefinancial condition of the GSEs and the financial exposure of the Government, if any, posed by GSEs.”
+President's Budget.—The President's annual budget submission shall include an analysis of the financial condition of the GSEs and the financial exposure of the Government, if any, posed by GSEs.”
 
 #### Multiyear Authorizations and 2-Year Appropriations for Selected Agencies and Accounts
 

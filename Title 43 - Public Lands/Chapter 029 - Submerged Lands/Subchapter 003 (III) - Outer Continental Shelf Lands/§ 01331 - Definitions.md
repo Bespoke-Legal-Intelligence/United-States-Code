@@ -134,6 +134,34 @@ IN WITNESS WHEREOF, I have hereunto set my hand this 27th day of December, in th
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Proc. No. 7219. Contiguous Zone of the United States
+
+Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, 49844, provided:
+
+International law recognizes that coastal nations may establish zones contiguous to their territorial seas, known as contiguous zones.
+
+The contiguous zone of the United States is a zone contiguous to the territorial sea of the United States, in which the United States may exercise the control necessary to prevent infringement of its customs, fiscal, immigration, or sanitary laws and regulations within its territory or territorial sea, and to punish infringement of the above laws and regulations committed within its territory or territorial sea.
+
+Extension of the contiguous zone of the United States to the limits permitted by international law will advance the law enforcement and public health interests of the United States. Moreover, this extension is an important step in preventing the removal of cultural heritage found within 24 nautical miles of the baseline.
+
+NOW, THEREFORE, I, WILLIAM J. CLINTON, by the authority vested in me as President by the Constitution of the United States, and in accordance with international law, do hereby proclaim the extension of the contiguous zone of the United States of America, including the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and any other territory or possession over which the United States exercises sovereignty, as follows:
+
+The contiguous zone of the United States extends to 24 nautical miles from the baselines of the United States determined in accordance with international law, but in no case within the territorial sea of another nation.
+
+In accordance with international law, reflected in the applicable provisions of the 1982 Convention on the Law of the Sea, within the contiguous zone of the United States the ships and aircraft of all countries enjoy the high seas freedoms of navigation and overflight and the laying of submarine cables and pipelines, and other internationally lawful uses of the sea related to those freedoms, such as those associated with the operation of ships, aircraft, and submarine cables and pipelines, and compatible with the other provisions of international law reflected in the 1982 Convention on the Law of the Sea.
+
+Nothing in this proclamation:
+
+&emsp;(a) amends existing Federal or State law;
+
+&emsp;(b) amends or otherwise alters the rights and duties of the United States or other nations in the Exclusive Economic Zone of the United States established by Proclamation 5030 of March 10, 1983 \[16 U.S.C. 1453 note\]; or
+
+&emsp;(c) impairs the determination, in accordance with international law, of any maritime boundary of the United States with a foreign jurisdiction.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this second day of September, in the year of our Lord nineteen hundred and ninety-nine, and of the Independence of the United States of America the two hundred and twenty-fourth.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 155, 168 of this title; title 15 section 3301; title 16 section 1453; title 30 section 1702; title 33 section 1205; title 42 sections 6202, 7627; title 46 section 8103; title 50 App. section 2415.

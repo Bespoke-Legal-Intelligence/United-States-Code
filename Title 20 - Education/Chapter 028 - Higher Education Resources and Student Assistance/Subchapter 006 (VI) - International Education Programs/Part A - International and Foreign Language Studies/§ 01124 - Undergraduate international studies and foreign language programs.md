@@ -106,7 +106,7 @@ A prior section 1124, Pub. L. 89–329, title VI, §604, as added Pub. L. 96–3
 
 Another prior section 1124, Pub. L. 89–329, title VI, §604, Nov. 8, 1965, 79 Stat. 1263; Pub. L. 89–752, §14, Nov. 3, 1966, 80 Stat. 1244; Pub. L. 90–575, title II, §242(b)–(d), Oct. 16, 1968, 82 Stat. 1041; Pub. L. 94–482, title I, §157, Oct. 12, 1976, 90 Stat. 2156, provided for grants to institutions of higher education for projects, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
-A prior section 1124a, Pub. L. 89–329, title VI, §605, as added Pub. L. 99–498, title VI, §605(2), Oct. 17, 1986, 100 Stat. 1517; amended Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 725, authorized grants for intensive summer language institutes, prior to the general amendment of this part by Pub. L. 105–244.
+A prior section 1124a, Pub. L. 89–329, title VI, §605, as added Pub. L. 99–498, title VI, §605(2), Oct. 17, 1986, 100 Stat. 1517; amended Pub. L. 102–325, title VI, §601, July23, 1992, 106 Stat. 725, authorized grants for intensive summer language institutes, prior to the general amendment of this part by Pub. L. 105–244.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Commissioners
 
-The United States shall be represented on the Commission by not more than three United States Commissioners to be appointed by and serve at the pleasure of the President. Each United States Commissioner shall be appointed for a term of office not to exceed 4 years, but is eligible for reappointment. Of the Commissioners—
+The United States shall be represented on the Commission by not more than three UnitedStates Commissioners to be appointed by and serve at the pleasure of the President. Each United States Commissioner shall be appointed for a term of office not to exceed 4 years, but is eligible for reappointment. Of the Commissioners—
 
 &emsp;(1) one shall be an official of the United States Government;
 

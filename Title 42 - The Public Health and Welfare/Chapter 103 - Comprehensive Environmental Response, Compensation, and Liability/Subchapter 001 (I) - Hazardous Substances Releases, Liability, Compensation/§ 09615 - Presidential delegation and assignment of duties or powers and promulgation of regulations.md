@@ -174,3 +174,7 @@ Sec. 11. <i>General Provisions</i>. (a) The function vested in the President by 
 
 (h) Executive Order No. 12316 of August 14, 1981, is revoked.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 9627 of this title.
+

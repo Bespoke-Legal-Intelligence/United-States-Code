@@ -32,6 +32,44 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 Amendment by Pub. L. 96–39 effective July 26, 1979, see section 1114 of Pub. L. 96–39, set out as an Effective Date note under section 2581 of this title.
 
+#### Extension of Nondiscriminatory Treatment (Normal Trade Relations Treatment) to the Products of Mongolia
+
+Pub. L. 106–36, title II, §2424, June 25, 1999, 113 Stat. 180, provided that:
+
+“(a)
+
+Findings.—The Congress finds that Mongolia—
+
+&emsp;“(1) has received normal trade relations treatment since 1991 and has been found to be in full compliance with the freedom of emigration requirements under title IV of the Trade Act of 1974 \[19 U.S.C. 2431 et seq.\];
+
+&emsp;“(2) has emerged from nearly 70 years of communism and dependence on the former Soviet Union, approving a new constitution in 1992 which has established a modern parliamentary democracy charged with guaranteeing fundamental human rights, freedom of expression, and an independent judiciary;
+
+&emsp;“(3) has held four national elections under the new constitution, two presidential and two parliamentary, thereby solidifying the nation's transition to democracy;
+
+&emsp;“(4) has undertaken significant market-based economic reforms, including privatization, the reduction of government subsidies, the elimination of most price controls and virtually all import tariffs, and the closing of insolvent banks;
+
+&emsp;“(5) has concluded a bilateral trade treaty with the United States in 1991, and a bilateral investment treaty in 1994;
+
+&emsp;“(6) has acceded to the Agreement Establishing the World Trade Organization, and extension of unconditional normal trade relations treatment to the products of Mongolia would enable the United States to avail itself of all rights under the World Trade Organization with respect to Mongolia; and
+
+&emsp;“(7) has demonstrated a strong desire to build friendly relationships and to cooperate fully with the United States on trade matters.
+
+“(b)
+
+Termination of Application of Title IV of the Trade Act of 1974 to Mongolia.—
+
+&emsp;“(1)
+
+Presidential determinations and extensions of nondiscriminatory treatment.—Notwithstanding any provision of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.), the President may—
+
+&emsp;&emsp;“(A) determine that such title should no longer apply to Mongolia; and
+
+&emsp;&emsp;“(B) after making a determination under subparagraph (A) with respect to Mongolia, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of that country.
+
+&emsp;“(2)
+
+Termination of application of title iv.—On or after the effective date of the extension under paragraph (1)(B) of nondiscriminatory treatment to the products of Mongolia, title IV of the Trade Act of 1974 \[19 U.S.C. 2431 et seq.\] shall cease to apply to that country.”
+
 #### Congressional Findings and Authorization of Extension of Most-Favored-Nation Treatment to Products of Romania
 
 Pub. L. 104–171, Aug. 3, 1996, 110 Stat. 1539, provided that:
@@ -42,7 +80,7 @@ Pub. L. 104–171, Aug. 3, 1996, 110 Stat. 1539, provided that:
 
 &emsp;“(1) Romania emerged from years of brutal Communist dictatorship in 1989 and approved a new Constitution and elected a Parliament by 1991, laying the foundation for a modern parliamentary democracy charged with guaranteeing fundamental human rights, freedom of expression, and respect for private property;
 
-&emsp;“(2) local elections, parliamentary elections, and presidential elections have been held in Romania, and 1996 will mark the second nationwide presidential elections under the new Constitution;
+&emsp;“(2) local elections, parliamentary elections, and presidential elections have been held in Romania, and1996 will mark the second nationwide presidential elections under the new Constitution;
 
 &emsp;“(3) Romania has undertaken significant economic reforms, including the establishment of a two-tier banking system, the introduction of a modern tax system, the freeing of most prices and elimination of most subsidies, the adoption of a tariff-based trade regime, and the rapid privatization of industry and nearly all agriculture;
 
@@ -140,7 +178,7 @@ Pub. L. 102–363, Aug. 26, 1992, 106 Stat. 969, provided: “That the Congress 
 
 #### Extension of Nondiscriminatory Treatment to Products of Union of Soviet Socialist Republics
 
-Pub. L. 102–197, Dec. 9, 1991, 105 Stat. 1622, provided: “That the Congress approves the extension of nondiscriminatory treatment to the products of the Union of Soviet Socialist Republics transmitted by the President to the Congress on October 9, 1991.”
+Pub. L. 102–197, Dec. 9, 1991, 105 Stat. 1622, provided: “That the Congress approves the extension of nondiscriminatory treatment to the products of the Unionof Soviet Socialist Republics transmitted by the President to the Congress on October 9, 1991.”
 
 #### Congressional Findings, Preparatory Presidential Action, and Authorization of Extension of Most-Favored-Nation Treatment to Czechoslovakia and Hungary
 
@@ -230,7 +268,7 @@ Effective Date.—Subsection (a) and the amendments made by subsection (b) apply
 
 #### “SEC. 104. SENSE OF THE CONGRESS REGARDING PROMPT PROVISION OF GSP TREATMENT TO THE PRODUCTS OF ESTONIA, LATVIA, AND LITHUANIA.
 
-“It is the sense of the Congress that the President should take prompt action under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] to provide preferential tariff treatment to the products of Estonia, Latvia, and Lithuania pursuant to the Generalized System of Preferences.”
+“It is the sense of the Congress that the President should take prompt action under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] to provide preferential tariff treatment to the products of Estonia,Latvia, and Lithuania pursuant to the Generalized System of Preferences.”
 
 #### Approval of Nondiscriminatory Treatment With Respect to Products of People's Republic of Bulgaria
 
@@ -446,11 +484,11 @@ Proc. No. 6307, June 24, 1991, 56 F.R. 29787, provided:
 
 7\. Section 604 of the Trade Act (19 U.S.C. 2483) authorizes the President to embody in the Harmonized Tariff Schedule of the United States \[see 19 U.S.C. 1202\] the substance of the provisions of that Act, of other acts affecting import treatment, and actions taken thereunder.
 
-NOW, THEREFORE, I, GEORGE BUSH, President of the United States of America, acting under the authority vested in me by the Constitution and the laws of the United States, including but not limited to sections 404, 405, and 604 of the Trade Act of 1974, as amended \[19 U.S.C. 2434, 2435, 2483\], do proclaim that:
+NOW, THEREFORE, I, GEORGE BUSH, President of the United States of America, acting under the authority vested in me by the Constitution and the laws ofthe United States, including but not limited to sections 404, 405, and 604 of the Trade Act of 1974, as amended \[19 U.S.C. 2434, 2435, 2483\], do proclaim that:
 
 (1) This proclamation shall become effective, said Agreement shall enter into force, and nondiscriminatory treatment shall be extended to the products of the Republic of Bulgaria, in accordance with the terms of said Agreement, on the date of exchange of written notices of acceptance in accordance with Article XVII of said Agreement. The United States Trade Representative shall publish notice of the effective date in the Federal Register.
 
-(2) Effective with respect to articles entered, or withdrawn from warehouse for consumption, into the customs territory of the United States on or after the date provided in paragraph (1) of this proclamation, general note 3(b) of the Harmonized Tariff Schedule of the United States, enumerating those countries whoseproducts are subject to duty at the rates set forth in rate of duty column 2 of the tariff schedule, is modified by striking out “Bulgaria”.
+(2) Effective with respect to articles entered, or withdrawn from warehouse for consumption, into the customs territory of the United States on or after the date provided in paragraph (1) of this proclamation, general note 3(b) of the Harmonized Tariff Schedule of the United States, enumerating those countries whose products are subject to duty at the rates set forth in rate of duty column 2 of the tariff schedule, is modified by striking out “Bulgaria”.
 
 IN WITNESS WHEREOF, I have hereunto set my hand this twenty-fourth day of June, in the year of our Lord nineteen hundred and ninety-one, and of the Independence of the United States of America the two hundred and fifteenth.
 
@@ -512,7 +550,7 @@ Proc. No. 6320, Aug. 2, 1991, 56 F.R. 37407, provided:
 
 2\. These negotiations were conducted in accordance with the requirements of the Trade Act of 1974 (Public Law 93–618, January 3, 1975; 88 Stat. 1978), as amended (the “Trade Act”) \[this chapter\].
 
-3\. As a result of these negotiations, an “Agreement on Trade Relations Between the United States of America and the Union of Soviet Socialist Republics,” including annexes and exchanges of letters which form an integral part of the Agreement, the foregoing in English and Russian, was signed on June 1, 1990, by duly empowered representatives of the two Governments and is set forth as an annex to this proclamation \[not set out in the Code\].
+3\. As a result of these negotiations, an “Agreement on Trade Relations Between the United States of America and the Union of Soviet Socialist Republics,” including annexes and exchanges of letters which form an integral part of the Agreement, the foregoing inEnglish and Russian, was signed on June 1, 1990, by duly empowered representatives of the two Governments and is set forth as an annex to this proclamation \[not set out in the Code\].
 
 4\. This Agreement conforms to the requirements relating to bilateral commercial agreements set forth in section 405(b) of the Trade Act (19 U.S.C. 2435(b)).
 
@@ -654,7 +692,7 @@ Proc. No. 6449, June 22, 1992, 57 F.R. 28033, provided:
 
 2\. These negotiations were conducted in accordance with the requirements of the Trade Act of 1974 (Public Law 93–618, January 3, 1975; 88 Stat. 1978), as amended (the “Trade Act”) \[this chapter\].
 
-3\. As a result of these negotiations, an “Agreement on Trade Relations Between the Government of the United States of America and the Government of Romania,” including exchanges of letters which form an integral part of the Agreement, the foregoing inEnglish and Romanian, was signed on April 3, 1992, by duly empowered representatives of the two Governments and is set forth as an annex to this proclamation \[not set out in the Code\].
+3\. As a result of these negotiations, an “Agreement on Trade Relations Between the Government of the United States of America and the Government of Romania,” including exchanges of letters which form an integral part of the Agreement, the foregoing in English and Romanian, was signed on April 3, 1992, by duly empowered representatives of the two Governments and is set forth as an annex to this proclamation \[not set out in the Code\].
 
 4\. This Agreement conforms to the requirements relating to bilateral commercial agreements set forth in section 405(b) of the Trade Act (19 U.S.C. 2435(b)).
 
@@ -720,7 +758,7 @@ Determination of President of the United States, No. 92–34, June 22, 1992, 57 
 
 Proc. No. 6922, Sept. 27, 1996, 61 F.R. 51205, provided:
 
-The United States has had in effect a bilateral Agreement on Trade Relations with Bulgaria since 1991, which was last renewed for an additional 3-year term in 1994. Pursuant to my authority under subsection 405(b)(1) of the Trade Act of 1974 (19 U.S.C. 2435(b)(1)), Ireconfirm that a satisfactory balance of concessions in trade and services has been maintained during the life of the Agreement and that actual or foreseeable reductions in U.S. tariffs and nontariff barriers to trade resulting from multilateral negotiations are, and continuously have been, satisfactorily reciprocated by Bulgaria.
+The United States has had in effect a bilateral Agreement on Trade Relations with Bulgaria since 1991, which was last renewed for an additional 3-year term in 1994. Pursuant to my authority under subsection 405(b)(1) of the Trade Act of 1974 (19 U.S.C. 2435(b)(1)), I reconfirm that a satisfactory balance of concessions in trade and services has been maintained during the life of the Agreement and that actual or foreseeable reductions in U.S. tariffs and nontariff barriers to trade resulting from multilateral negotiations are, and continuously have been, satisfactorily reciprocated by Bulgaria.
 
 Moreover, pursuant to section 2 of Public Law 104–162 \[set out as a note above\], and having due regard for the findings of the Congress in section 1 of said Law \[set out as a note above\], I hereby determine that title IV of the Trade Act of 1974 (19 U.S.C. 2431–2441) should no longer apply to Bulgaria.
 
@@ -853,6 +891,44 @@ Pursuant to my authority under subsection 405(b)(1) of the Trade Act of 1974 (19
 You are authorized and directed to publish this memorandum in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Proc. No. 7207. To Extend Nondiscriminatory Treatment (Normal Trade Relations Treatment) to Products of Mongolia and To Implement an Agreement To Eliminate Tariffs on Certain Pharmaceuticals and Chemical Intermediates
+
+Proc. No. 7207, July 1, 1999, 64 F.R. 36549, provided:
+
+1\. The United States has had in effect a bilateral Agreement on Trade Relations with Mongolia since 1991 and has provided normal trade relations treatment to the products of Mongolia since that time. I have found Mongolia to be in full compliance with the freedom of emigration requirements of title IV of the Trade Act of 1974 (the “Trade Act”) (19 U.S.C. 2432).
+
+2\. Pursuant to section 2424(b)(1) of Public Law 106–36 \[set out as a note above\], and having due regard for the findings of the Congress in section 2424(a) of said Law, I hereby determine that title IV of the Trade Act (19 U.S.C. 2431–2441) should no longer apply to Mongolia.
+
+3\. On November 13, 1998, members of the World Trade Organization (WTO), including the United States and 21 other major trading countries, announced in the WTO an agreement to eliminate tariffs on certain pharmaceuticals and chemical intermediates that were the subject of reciprocal duty elimination negotiations during the Uruguay Round of Multilateral Trade Negotiations (the “Uruguay Round”). A similar agreement between the United States and 16 other major trading countries eliminating tariffs on enumerated pharmaceuticals and chemical intermediates was implemented for the United States on April 1, 1997, by Proclamation 6982 \[not classified to the Code\], adding such goods to the scope of the agreement on pharmaceutical products reached at the conclusion of the Uruguay Round and reflected in Schedule XX–United States of America, annexed to the Marrakesh Protocol to the General Agreement on Tariffs and Trade (1994) (Schedule XX).
+
+4\. Section 111(b) of the Uruguay Round Agreements Act (URAA) (19 U.S.C. 3521(b)) authorizes the President to proclaim the modification of any duty or staged rate reduction of any duty set forth in Schedule XX for products that were the subject of reciprocal duty elimination negotiations during the Uruguay Round, if the United States agrees to such action in a multilateral negotiation under the auspices of the WTO, and after compliance with the consultation and layover requirements of section 115 of the URAA (19 U.S.C. 3524). Section 111(b) also authorizes the President to proclaim such modifications as are necessary to reflect such duty treatment in Schedule XX by means of rectifications thereof.
+
+5\. On April 29, 1999, pursuant to section 115 of the URAA, the United States Trade Representative (USTR)submitted a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate (“the Committees”) that sets forth the proposed tariff eliminations, together with the advice received from the appropriate private sector advisory committee and the United States International Trade Commission regarding the proposed tariff eliminations. During the 60-day period thereafter, the USTR consulted with the Committees on the proposed actions.
+
+6\. Section 604 of the Trade Act, as amended (19 U.S.C. 2483), authorizes the President to embody in the Harmonized Tariff Schedule of the United States (HTS) \[see 19 U.S.C. 1202\] the substance of the relevant provisions of that Act, and of other acts affecting import treatment, and actions thereunder, including the removal, modification, continuance, or imposition of any rate of duty or other import restriction.
+
+7\. Pursuant to section 111(b) of the URAA, I have determined that Schedule XX should be modified to reflect the implementation by the United States of the multilateral agreement on certain pharmaceuticals and chemical intermediates negotiated under the auspices of the WTO. In addition, I have determined that the pharmaceuticals appendix to the HTS should be modified to reflect the duty eliminations provided in such agreement, and to make certain minor technical corrections in the identification of particular products in order to ensure that products are accorded the intended duty treatment.
+
+NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America, acting under the authority vested in me by the Constitution and the laws of the United States, including but not limited to section 2424(b)(2) of Public Law 106–36, section 111(b) of the URAA, and section 604 of the Trade Act, do hereby proclaim that:
+
+(1) Nondiscriminatory treatment (normal trade relations treatment) shall be extended to the products of Mongolia, which shall no longer be subject to title IV of the Trade Act.
+
+(2) The extension of nondiscriminatory treatment to the products of Mongolia shall be effective as of the date of signature of this proclamation.
+
+(3) In order to implement the multilateral agreement negotiated under the auspices of the WTO to eliminate tariffs on certain pharmaceutical products and chemical intermediates, and to make technical corrections in the tariff treatment accorded to such products, the HTS is modified as set forth in the Annex to this proclamation.
+
+(4) Such modifications to the HTS shall be effective with respect to articles entered, or withdrawn from warehouse for consumption, on or after the dates set forth in the Annex for the respective actions taken.
+
+(5) Any provisions of previous proclamations and Executive orders that are inconsistent with the actions taken in this proclamation are superseded to the extent of such inconsistency.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this first day of July, in the year of our Lord nineteen hundred and ninety-nine, and of the Independence of the United States of America the two hundred and twenty-third.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Annex
+
+The Annex of Proclamation 7207, which amended the Harmonized Tariff Schedule of the United States, is not set out under this section because the Harmonized Tariff Schedule is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Section Referred to in Other Sections
 

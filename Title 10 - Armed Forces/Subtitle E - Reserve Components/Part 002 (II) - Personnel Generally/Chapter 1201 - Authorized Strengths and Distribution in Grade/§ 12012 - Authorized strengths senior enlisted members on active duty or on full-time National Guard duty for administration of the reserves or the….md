@@ -6,18 +6,20 @@
 
 | Grade | Army | Navy | Air Force | Marine Corps |
 | :--- | :---: | :---: | :---: | ---: |
-| E–9 | &nbsp;623 | 202 | 395 | 20 |
-| E–8 | 2,585 | 429 | 997 | 94 |
+| E–9 | &nbsp;645 | 202 | 405 | 20 |
+| E–8 | 2,593 | 429 | 1,041 | 94 |
 
 (b) Whenever the number of members serving in pay grade E–9 for duty described in subsection (a) is less than the number authorized for that grade under subsection (a), the difference between the two numbers may be applied to increase the number authorized under such subsection for pay grade E–8.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2987; amended Pub. L. 104–106, div. A, title IV, §414(b), title XV, §1501(b)(10), Feb. 10, 1996, 110 Stat. 288, 496; Pub. L. 105–261, div. A, title IV, §414(b), Oct. 17, 1998, 112 Stat. 1998.)
+(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2987; amended Pub. L. 104–106, div. A, title IV, §414(b), title XV, §1501(b)(10), Feb. 10, 1996, 110 Stat. 288, 496; Pub. L. 105–261, div. A, title IV, §414(b), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(b), Oct. 5, 1999, 113 Stat. 586.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 517(b), (c) of this title, prior to amendment by Pub. L. 103–337, §1662(a)(4).
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–65 amended table generally, increasing the fiscal year limitation on number of enlisted members in the Army in grade of E–9 from 623 to 645 and in grade of E–8 from 2,585 to 2,593, and in the Air Force in grade of E–9 from 395 to 405 and in grade of E–8 from 997 to 1,041.
 
 1998—Subsec. (a). Pub. L. 105–261, in table, in grade E–9 increased figure for Army from 603 to 623 and for Air Force from 366 to 395, and in grade E–8 increased figure for Air Force from 890 to 997.
 

@@ -26,7 +26,7 @@
 
 (d) Each circuit judge shall receive a salary at an annual rate determined under section 225 of the Federal Salary Act of 1967 (2 U.S.C. 351–361), as adjusted by section 461 of this title.
 
-(June 25, 1948, ch. 646, 62 Stat. 871; Aug. 3, 1949, ch. 387, §1, 63 Stat. 493; Feb. 10, 1954, ch. 6, §1, 68 Stat. 8; Mar. 2, 1955, ch. 9, §1(b), 69 Stat. 10; Pub. L. 87–36, §1(b), May 19, 1961, 75 Stat. 80; Pub. L. 88–426, title IV, §403(b), Aug. 14, 1964, 78 Stat. 434; Pub. L. 89–372, §1(b), Mar. 18, 1966, 80 Stat. 75; Pub. L. 90–347, §3, June 18, 1968, 82 Stat. 184; Pub. L. 94–82, title II, §205(b)(2), Aug. 9, 1975, 89 Stat. 422; Pub. L. 95–486, §3(b), Oct. 20, 1978, 92 Stat. 1632; Pub. L. 96–452, §3, Oct. 14, 1980, 94 Stat. 1994; Pub. L. 97–164, title I, §102, Apr. 2, 1982, 96 Stat.25; Pub. L. 98–353, title II, §201(b), July 10, 1984, 98 Stat. 346; Pub. L. 101–650, title II, §202(b), Dec. 1, 1990, 104 Stat. 5099; Pub. L. 102–198, §10(c), Dec. 9, 1991, 105 Stat. 1626; Pub. L. 105–119, title III, §307, Nov. 26, 1997, 111 Stat. 2493.)
+(June 25, 1948, ch. 646, 62 Stat. 871; Aug. 3, 1949, ch. 387, §1, 63 Stat. 493; Feb. 10, 1954, ch. 6, §1, 68 Stat. 8; Mar. 2, 1955, ch. 9, §1(b), 69 Stat. 10; Pub. L. 87–36, §1(b), May 19, 1961, 75 Stat. 80; Pub. L. 88–426, title IV, §403(b), Aug. 14, 1964, 78 Stat. 434; Pub. L. 89–372, §1(b), Mar. 18, 1966, 80 Stat. 75; Pub. L. 90–347, §3, June 18, 1968, 82 Stat. 184; Pub. L. 94–82, title II, §205(b)(2), Aug. 9, 1975, 89 Stat.422; Pub. L. 95–486, §3(b), Oct. 20, 1978, 92 Stat. 1632; Pub. L. 96–452, §3, Oct. 14, 1980, 94 Stat. 1994; Pub. L. 97–164, title I, §102, Apr. 2, 1982, 96 Stat. 25; Pub. L. 98–353, title II, §201(b), July 10, 1984, 98 Stat. 346; Pub. L. 101–650, title II, §202(b), Dec. 1, 1990, 104 Stat. 5099; Pub. L. 102–198, §10(c), Dec. 9, 1991, 105 Stat. 1626; Pub. L. 105–119, title III, §307, Nov. 26, 1997, 111 Stat. 2493.)
 
 #### Historical and Revision Notes
 
@@ -173,7 +173,9 @@ Section 168 of Pub. L. 97–164 provided that: “The Congress—
 
 #### Salary Increases
 
-1999—Salaries of circuit judges continued at $145,000 per annum, by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+2000—Salaries of circuit judges increased to $149,900 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2000, by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+
+1999—Salaries of circuit judges continued at $145,000 per annum, by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, formerly set out as a note under section 5332 of Title 5.
 
 1998—Salaries of circuit judges increased to $145,000 per annum, effective on first day of first pay period beginning on or after Jan. 1, 1998, by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, formerly set out as a note under section 5332 of Title 5.
 
@@ -257,13 +259,13 @@ Seventh circuit. Act Aug. 3, 1949, ch. 387, §1, 63 Stat. 493; act May 31, 1938,
 
 Eighth circuit. Act May 24, 1940, ch. 209, §1, 54 Stat. 219; act Mar. 3, 1925, ch. 436, 43 Stat. 1116.
 
-Ninth circuit. Act Apr. 14, 1937, ch. 80, 50 Stat. 64; act Aug. 2, 1935, ch. 425, §1, 49 Stat. 508; act June 16, 1933, ch. 102, 48 Stat. 310 (removing limitation on filling of vacancy); act Mar. 1, 1929, ch. 413, 45 Stat. 1414.
+Ninth circuit. Act Apr. 14, 1937, ch. 80, 50 Stat. 64; act Aug. 2, 1935, ch. 425, §1, 49 Stat. 508; act June 16, 1933,ch. 102, 48 Stat. 310 (removing limitation on filling of vacancy); act Mar. 1, 1929, ch. 413, 45 Stat. 1414.
 
 Tenth circuit. Act Aug. 3, 1949, ch. 387, §1, 63 Stat. 493.
 
 District of Columbia Court of Appeals. Act Aug. 3, 1949, ch. 387, §1, 63 Stat. 493; act May 31, 1938, ch. 290, §2, 52 Stat. 584; act June 19, 1930, ch. 538, 46 Stat. 785.
 
-Act Feb. 28, 1929, ch. 363, §2, 45 Stat. 1346, 1347 provided that “There shall be in the sixth, seventh, andtenth circuits, respectively, four circuit judges; and in the second and eighth circuits, respectively, five circuit judges; and, in each of the other circuits three circuit judges, to be appointed by the President, by and with the advice and consent of the Senate.”
+Act Feb. 28, 1929, ch. 363, §2, 45 Stat. 1346, 1347 provided that “There shall be in the sixth, seventh, and tenth circuits, respectively, four circuit judges; and in the second and eighth circuits, respectively, five circuit judges; and, in each of the other circuits three circuit judges, to be appointed by the President, by and with the advice and consent of the Senate.”
 
 Another part of section 1 of act Feb. 10, 1954, which amended subsec. (a) of this section, provided for the appointment by the President, by and with the advice and consent of the Senate, of the additional judges for the Fifth and Ninth Circuits, provided for in such amendment.
 

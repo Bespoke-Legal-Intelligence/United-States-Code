@@ -22,7 +22,7 @@ In carrying out the provisions of this section, the President may utilize the pe
 
 #### (f) Authorization of appropriations
 
-The United States costs, other than its administrative costs, for the study, design, construction, and operation of a prototype plant under this section shall not exceed either 50 per centum of the total capital costs of the facilities associated with the production of water, and 50 per centum of the operation and maintenance costs for the demonstration period, or $20,000,000, whichever is less. There are authorized to be appropriated, subject to the limitations of this subsection, such sums as may be necessary to carry out the provisions of this section, including administrative costs thereof. Such sums are authorized to remain available until expended.
+The United States costs, other than its administrative costs, for the study, design, construction, and operation of a prototype plant under this section shall not exceed either 50 per centum of the total capital costs of the facilities associated with the production of water, and 50 per centum of the operation and maintenance costs for the demonstration period, or $20,000,000, whichever is less. There are authorized to be appropriated, subject to the limitations of this subsection, such sums as may be necessary tocarry out the provisions of this section, including administrative costs thereof. Such sums are authorized to remain available until expended.
 
 #### (g) Restrictions on appropriations
 
@@ -45,6 +45,10 @@ In subsec. (c), “section 3324(a) and (b) of title 31” substituted for refere
 #### Change of Name
 
 Office of Water Research and Technology formed through merger of Office of Saline Water and Office of Water Resources Research by order of Secretary of the Interior, Ord. No. 2966, July 26, 1974.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

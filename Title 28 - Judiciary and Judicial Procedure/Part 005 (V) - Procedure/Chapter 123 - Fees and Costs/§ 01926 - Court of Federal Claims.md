@@ -34,13 +34,13 @@ Judicial Conference to prescribe reasonable fees for collection by courts under 
 
 #### United States Court of Federal Claims Fee Schedule
 
-#### <i>(Effective December 1, 1998)</i>
+#### <i>(Effective October 1, 1999)</i>
 
 Following are fees to be charged for services to be performed by the clerk of the United States Court of Federal Claims. No fees are to be charged for services rendered on behalf of the United States, with the exception of those specifically prescribed in items 2, 8, and 9. No fees under this schedule shall be charged to federal agencies or programs which are funded from judiciary appropriations, including, but not limited to, agencies, organizations, and individuals providing services authorized by the Criminal Justice Act, 18 U.S.C. §3006A, and Bankruptcy Administrator programs.
 
 (1) For filing a civil action or proceeding, $120.
 
-(2) For reproducing any record or paper, 50 cents per page. This fee shall apply to paper copies made from either: (a) original documents; or (b) microfiche or microfilm reproductions of the original records. This fee shall apply to services rendered on behalf of the United States if the record or paper requested is available through electronic access.
+(2) For reproducing any record or paper, $.50 per page. This fee shall apply to paper copies made from either: (a) original documents; or (b) microfiche or microfilm reproductions of the original records. This fee shall apply to services rendered on behalf of the United States if the record or paper requested is available through electronic access.
 
 (3) For certification of any document or paper, whether the certification is made directly on the document or by separate instrument, $5. For exemplification of any document or paper, twice the amount of the charge for certification.
 
@@ -52,7 +52,7 @@ Following are fees to be charged for services to be performed by the clerk of th
 
 (7) For a check paid into the court which is returned for lack of funds, $25.
 
-(8) For usage of electronic access to court data, 60 cents per minute of usage \[provided the court may, for good cause, exempt persons or classes of persons from the fees, in order to avoid unreasonable burdens and to promote public access to such information\]. All such fees collected shall be deposited to the Judiciary Automation Fund. This fee shall apply to the United States. (The Judicial Conference has approved an advisory note clarifying the judiciary's policy with respect to exemptions from this fee.)
+(8) For usage of electronic access to court data, $.60 per minute of usage via dial up service, and $.07 per page for public users obtaining information through a federal judiciary Internet site \[provided the court may, for good cause, exempt persons or classes of persons from the fees, in order to avoid unreasonable burdens and to promote public access to such information\]. All such fees collected shall be deposited to the Judiciary Automation Fund. These fees shall apply to the United States. (The Judicial Conference has approved an advisory note clarifying the judiciary's policy with respect to exemptions from the fees for usage of electronic access to court data. The Conference has also approved an advisory note defining information that may be provided to the public at no cost.)
 
 (9) For every search of the records of the Court of Federal Claims conducted by the clerk of the court or a deputy clerk, $15 per name or item searched. This fee shall apply to services rendered on behalf of the United States if the information requested is available through electronic access.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment; availability; source of deposits; limitation on amount; interest-bearing accounts; litigation
 
-(1) There is established in the Treasury of the United States a Fishermen's Contingency Fund. The Fund shall be available to the Secretary without fiscal year limitations as a revolving fund for the purpose of making payments pursuant to this section. The Fund shall consist of—
+(1) There is established in the Treasury of the United States a Fishermen's Contingency Fund. The Fund shall be available to the Secretarywithout fiscal year limitations as a revolving fund for the purpose of making payments pursuant to this section. The Fund shall consist of—
 
 &emsp;(A) revenues received from investments made under paragraph (3);
 

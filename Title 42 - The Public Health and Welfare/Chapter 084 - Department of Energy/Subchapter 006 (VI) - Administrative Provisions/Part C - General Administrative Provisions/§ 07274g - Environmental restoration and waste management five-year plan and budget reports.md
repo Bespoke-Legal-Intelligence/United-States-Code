@@ -24,7 +24,7 @@
 
 &emsp;(G) A description of the technologies and facilities necessary to carry out the waste management activities.
 
-&emsp;(H) A description of activities and practices that the Secretary is undertaking or plans to undertake to minimize the generation of waste.
+&emsp;(H) A description of activities and practices that the Secretary is undertaking or plans toundertake to minimize the generation of waste.
 
 &emsp;(I) The estimated costs of, and personnel required for, each project, action, or activity contained in the plan.
 

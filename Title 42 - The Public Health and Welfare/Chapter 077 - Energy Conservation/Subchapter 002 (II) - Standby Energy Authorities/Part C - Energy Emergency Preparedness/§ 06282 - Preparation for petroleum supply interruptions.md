@@ -2,7 +2,7 @@
 
 #### (a) Description of available legal authorities
 
-(1) The President shall submit to the Congress no later than November 15, 1982, a memorandum of law which describes the nature and extent of the authorities available to the President under existing law to respond to a severe energy supply interruption or other substantial reduction in the amount of petroleum products available to the United States.
+(1) The President shall submit to the Congress no later than November 15, 1982, a memorandum of law which describes the nature and extent of the authorities available to the President under existing law to respond to a severe energy supply interruption or other substantial reductionin the amount of petroleum products available to the United States.
 
 (2) The memorandum of law required by paragraph (1) shall be prepared by the Attorney General, in consultation with the Secretary of Energy.
 

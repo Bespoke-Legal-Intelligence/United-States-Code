@@ -56,7 +56,7 @@ Pub. L. 100–576, §1, Oct. 31, 1988, 102 Stat. 2897, provided that: “This Ac
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–202, §16, as added by Pub. L. 100–418, title IV, §4610(a), Aug. 23, 1988, 102 Stat. 1411, provided that sections 1 to 16 under the heading “Agricultural Aid and Trade Missions Act” of Pub. L. 100–202, which enacted sections 1726b and 1736bb to 1736bb–6 of this title, and amended sections 1701, 1703, 1709, 1722, 1726, and 1726a of this title, was to be cited as the “AgriculturalAid and Trade Missions Act”, prior to repeal by Pub. L. 104–127, title II, §271(a), Apr. 4, 1996, 110 Stat. 976.
+Pub. L. 100–202, §16, as added by Pub. L. 100–418, title IV, §4610(a), Aug. 23, 1988, 102 Stat. 1411, provided that sections 1 to 16 under the heading “Agricultural Aid and Trade Missions Act” of Pub. L. 100–202, which enacted sections 1726b and 1736bb to 1736bb–6 of this title, and amended sections 1701, 1703, 1709, 1722, 1726, and 1726a of this title, was to be cited as the “Agricultural Aid and Trade Missions Act”, prior to repeal by Pub. L. 104–127, title II, §271(a), Apr. 4, 1996, 110 Stat. 976.
 
 #### Short Title of 1980 Amendment
 
@@ -104,7 +104,7 @@ Pub. L. 95–113, title XII, §1209, Sept. 29, 1977, 91 Stat. 957, provided that
 
 #### Special Task Force
 
-Pub. L. 95–113, title XII, §1210, Sept. 29, 1977, 91 Stat. 957, required the Secretary of Agriculture, not later than eighteen months after Sept. 29, 1977, to appoint a special task force to review and report to Congress upon the administration of the Agricultural Trade Development and Assistance Act of 1954, 7 U.S.C. 1961 et seq.
+Pub. L. 95–113, title XII, §1210, Sept. 29, 1977, 91 Stat. 957, required the Secretary of Agriculture, not laterthan eighteen months after Sept. 29, 1977, to appoint a special task force to review and report to Congress upon the administration of the Agricultural Trade Development and Assistance Act of 1954, 7 U.S.C. 1961 et seq.
 
 #### Executive Order No. 10560
 
@@ -124,7 +124,7 @@ Ex. Ord. No. 11252, Oct. 20, 1965, 30 F.R. 13507, as amended by Ex. Ord. No. 125
 
 #### Executive Order No. 12220
 
-Ex. Ord. No. 12220, June 27, 1980, 45 F.R. 44245, which provided for delegation of administrative functions relating to agricultural trade development, was revokedby section 6 of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out below.
+Ex. Ord. No. 12220, June 27, 1980, 45 F.R. 44245, which provided for delegation of administrative functions relating to agricultural trade development, was revoked by section 6 of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out below.
 
 #### Ex. Ord. No. 12752. Implementation of Agricultural Trade Development and Assistance Act of 1954, as Amended, and Food for Progress Act of 1985, as Amended
 
@@ -158,7 +158,7 @@ Sec. 3. <i>Policy Coordination</i>. (a) To ensure policy coordination of assista
 
 Sec. 4. <i>Delegation of Responsibilities</i>. (a) The function conferred upon the President in section 403(j) of the Agricultural Trade Development Act \[7 U.S.C. 1733(j)\] is hereby delegated to the Secretary of State.
 
-(b) The functions conferred upon the President by section 411 of the Agricultural Trade Development Act \[7 U.S.C. 1736e\] are hereby delegated to the Secretary, in consultation with the Council and the Department of the Treasury.
+(b) The functions conferred upon the President by section 411 of the Agricultural Trade Development Act\[7 U.S.C. 1736e\] are hereby delegated to the Secretary, in consultation with the Council and the Department of the Treasury.
 
 (c) The functions conferred upon the President by section 412(c) of the Agricultural Trade Development Act \[7 U.S.C. 1736f(c)\] are hereby delegated to the Director, who shall consult with the Council on these functions.
 

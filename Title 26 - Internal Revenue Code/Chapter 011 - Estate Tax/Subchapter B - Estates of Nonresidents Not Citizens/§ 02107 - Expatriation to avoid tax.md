@@ -4,7 +4,7 @@
 
 #### (1) Rate of tax
 
-&emsp;A tax computed in accordance with the table contained in section 2001 is hereby imposed on the transfer of the taxable estate, determinedas provided in section 2106, of every decedent nonresident not a citizen of the United States if, within the 10-year period ending with the date of death, such decedent lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A.
+&emsp;A tax computed in accordance with the table contained in section 2001 is hereby imposed on the transfer of the taxable estate, determined as provided in section 2106, of every decedent nonresident not a citizen of the United States if, within the 10-year period ending with the date of death, such decedent lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A.
 
 #### (2) Certain individuals treated as having tax avoidance purpose
 
@@ -120,7 +120,7 @@ Amendment by section 2001(c)(1)(E)(ii) of Pub. L. 94–455 applicable to estates
 
 #### Effective Date
 
-Section applicable with respect to estates of decedents dying after Nov. 13, 1966, see section 108(i) of Pub. L. 89–809, set out as an Effective Date of 1966 Amendment note under section 2101 of this title.
+Section applicable with respect to estates of decedents dying after Nov. 13, 1966, see section 108(i) of Pub.L. 89–809, set out as an Effective Date of 1966 Amendment note under section 2101 of this title.
 
 #### Section Referred to in Other Sections
 

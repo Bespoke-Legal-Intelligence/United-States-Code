@@ -14,7 +14,7 @@ Selection of Grant Recipients.—
 
 &emsp;(1)
 
-Applications.—In order to be eligible to receive a grant under this section, a nonprofit institution of higher learning shall submit to the Secretary an application that is in such form and contains such information as the Secretary may require.
+Applications.—In order to be eligible to receive a grant under this section, a nonprofit institution of higher learning shall submit tothe Secretary an application that is in such form and contains such information as the Secretary may require.
 
 &emsp;(2)
 
@@ -62,7 +62,7 @@ Coordination.—The Secretary shall coordinate the research, education, training
 
 &emsp;(2)
 
-Annual review and evaluation.—At least annually and consistent with the plandeveloped under section 508 of title 23, United States Code, the Secretary shall review and evaluate programs the grant recipients carry out.
+Annual review and evaluation.—At least annually and consistent with the plan developed under section 508 of title 23, United States Code, the Secretary shall review and evaluate programs the grant recipients carry out.
 
 &emsp;(3)
 
@@ -210,7 +210,7 @@ Subsec. (j)(4)(B). Pub. L. 105–178, §5110(d)(3), as added by Pub. L. 105–20
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L.105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 #### Section Referred to in Other Sections
 

@@ -90,7 +90,7 @@ An advisory council shall meet at the call of the chairperson or upon the reques
 
 The Administrator or Director of the Administration or Center for which the advisory council is established shall designate a member of the staff of the Administration or Center for which the advisory council is established to serve as the Executive Secretary of the advisory council. The Administrator or Director shall make available to the advisory council such staff, information, and other assistance as it may require to carry out its functions. The Administrator or Director shall provide orientation and training for new members of the advisory council to provide for their effective participation in the functions of the advisory council.
 
-(July 1, 1944, ch. 373, title V, §502, formerly §505, as added Pub. L. 99–570, title IV, §4004(a), Oct. 27,1986, 100 Stat. 3207–109; amended Pub. L. 100–527, §10(4), Oct. 25, 1988, 102 Stat. 2641; Pub. L. 101–381, title I, §102(6), Aug. 18, 1990, 104 Stat. 586; renumbered §502 and amended Pub. L. 102–321, title I, §102, July 10, 1992, 106 Stat. 331; Pub. L. 102–352, §2(a)(6), Aug. 26, 1992, 106 Stat. 938; Pub. L. 103–446, title XII, §1203(a)(1), Nov. 2, 1994, 108 Stat. 4689.)
+(July 1, 1944, ch. 373, title V, §502, formerly §505, as added Pub. L. 99–570, title IV, §4004(a), Oct. 27, 1986, 100 Stat. 3207–109; amended Pub. L. 100–527, §10(4), Oct. 25, 1988, 102 Stat. 2641; Pub. L. 101–381, title I, §102(6), Aug. 18, 1990, 104 Stat. 586; renumbered §502 and amended Pub. L. 102–321, title I, §102, July 10, 1992, 106 Stat. 331; Pub. L. 102–352, §2(a)(6), Aug. 26, 1992, 106 Stat. 938; Pub. L. 103–446, title XII, §1203(a)(1), Nov. 2, 1994, 108 Stat. 4689.)
 
 #### Codification
 
@@ -116,7 +116,7 @@ Pub. L. 102–321 amended section generally, substituting provisions relating to
 
 #### Effective Date of 1992 Amendments
 
-Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendment made by Pub. L. 102–321, see section 3(1) of Pub. L. 102–352, set out as a note under section 285n of this title.
+Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendment made by Pub. L.102–321, see section 3(1) of Pub. L. 102–352, set out as a note under section 285n of this title.
 
 Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as a note under section 236 of this title.
 

@@ -136,7 +136,7 @@ Section 1. <i>United States Information Agency</i>. The following functions conf
 
 (e) The functions conferred by section 303(g)(1)(B) relating to the notification of Presidential action and the furnishing of reports to the Congress.
 
-(f) The functions conferred by section 304(b) \[19 U.S.C. 2603(b)\] to the extent that they involve determinationsby the President that an emergency condition applies with respect to any archaeological or ethnological material of any State Party to the Convention, subject to the limitations of sections 304(c)(1), 304(c)(2), and 304(c)(3).
+(f) The functions conferred by section 304(b) \[19 U.S.C. 2603(b)\] to the extent that they involve determinations by the President that an emergency condition applies with respect to any archaeological or ethnological material of any State Party to the Convention, subject to the limitations of sections 304(c)(1), 304(c)(2), and 304(c)(3).
 
 (g) The functions conferred by section 304(c)(3) to the extent that they involve determinations to be made and the receipt and consideration of an advisory report from the Cultural Property Advisory Committee by the President prior to extensions of emergency import restrictions.
 
@@ -165,6 +165,8 @@ Sec. 3. <i>Department of the Treasury</i>. The following functions conferred upo
 Sec. 4. <i>Enforcement in Territories and Other Areas</i>. The Secretary of the Interior is designated to carry out the enforcement functions in section 314 \[19 U.S.C. 2613\].
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.\]
 
 #### Section Referred to in Other Sections
 

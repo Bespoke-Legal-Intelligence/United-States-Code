@@ -2,19 +2,21 @@
 
 #### (a) In general
 
-There are authorized to be appropriated to the Department of Labor, for the period beginning October 1, 1998, and ending June 30, 1999, such sums as may be necessary to carry out the purposes of this part, other than subpart D.
+There are authorized to be appropriated to the Department of Labor, for the period beginning October 1, 1998, and ending September 30, 2001, such sums as may be necessary to carry out the purposes of this part, other than subpart D.
 
 #### (b) Subpart D
 
-There are authorized to be appropriated to the Department of Labor, for the period beginning October 1, 1998, and ending June 30, 1999, such sums as may be necessary to carry out the purposes of subpart D of this part.
+There are authorized to be appropriated to the Department of Labor, for the period beginning October 1, 1998, and ending September 30, 2001, such sums as may be necessary to carry out the purposes of subpart D of this part.
 
-(Pub. L. 93–618, title II, §245, Jan. 3, 1975, 88 Stat. 2026; Pub. L. 97–35, title XXV, §2510, Aug. 13, 1981, 95 Stat. 888; Pub. L. 98–120, §2(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13008(a), Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–418, title I, §1426(b)(1), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(2), Aug. 10, 1993, 107 Stat. 668; Pub. L. 103–182, title V, §504, Dec. 8, 1993, 107 Stat. 2151; Pub. L. 105–277, div. J, title I, §1012(a), Oct. 21, 1998, 112 Stat. 2681–900.)
+(Pub. L. 93–618, title II, §245, Jan. 3, 1975, 88 Stat. 2026; Pub. L. 97–35, title XXV, §2510, Aug. 13, 1981, 95 Stat. 888; Pub. L. 98–120, §2(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13008(a), Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–418, title I, §1426(b)(1), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(2), Aug. 10, 1993, 107 Stat. 668; Pub. L. 103–182, title V, §504, Dec. 8, 1993, 107 Stat. 2151; Pub. L. 105–277, div. J, title I, §1012(a), Oct. 21, 1998, 112 Stat. 2681–900; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319.)
 
 #### Termination of Section
 
 <i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
 
 #### Amendments
+
+1999—Subsecs. (a), (b). Pub. L. 106–113 substituted “September 30, 2001” for “June 30, 1999”.
 
 1998—Subsec. (a). Pub. L. 105–277, §1012(a)(1), substituted “for the period beginning October 1, 1998, and ending June 30, 1999,” for “for each of the fiscal years 1993, 1994, 1995, 1996, 1997, and 1998,”.
 
@@ -31,6 +33,10 @@ Pub. L. 103–66 substituted “1993, 1994, 1995, 1996, 1997, and 1998” for �
 1983—Pub. L. 98–120 substituted “each of the fiscal years 1982 through 1985” for “each of fiscal years 1982 and 1983”.
 
 1981—Pub. L. 97–35 substituted provisions relating to authorization of appropriations for fiscal years 1982 and 1983 for provisions relating to establishment of the Adjustment Assistance Trust Fund.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319, provided that: “The amendments made by this section \[amending this section and sections 2331 and 2346 of this title and provisions set out as a note preceding section 2271 of this title\] shall be effective as of July 1, 1999.”
 
 #### Effective Date of 1993 Amendment
 

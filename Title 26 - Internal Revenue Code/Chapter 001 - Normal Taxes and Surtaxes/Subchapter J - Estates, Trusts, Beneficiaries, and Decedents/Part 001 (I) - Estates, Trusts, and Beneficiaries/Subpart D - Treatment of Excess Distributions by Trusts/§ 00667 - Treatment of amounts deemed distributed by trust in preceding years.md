@@ -118,7 +118,7 @@ Subsec. (d). Pub. L. 95–600, §701(q)(1)(B), added subsec. (d).
 
 Subsec. (e). Pub. L. 95–600, §701(r)(1), added subsec. (e).
 
-1977—Subsec. (b)(2). Pub. L. 95–30 substituted “not less than (A) in the case of a beneficiary who is an individual, the zero bracket amount for such year, or (B) in the case of a beneficiary who is a corporation, zero” for “not less than zero”.
+1977—Subsec. (b)(2). Pub. L. 95–30 substituted “not less than (A) in the case of a beneficiary who is an individual, the zero bracket amount for such year, or (B) inthe case of a beneficiary who is a corporation, zero” for “not less than zero”.
 
 1976—Pub. L. 94–455, §§701(a)(1), 1014(a), substituted provisions relating to the treatment of amounts deemed distributed by trust in preceding years for provisions that no refund or credit be allowed to a trust for any preceding taxable year by reason of a distribution deemed to have been made by such trust in such year under section 666 or 669 and that there be allowed as a credit against the tax imposed by this subtitle on the beneficiary an amount equal to the amount of the taxes deemed distributed to such beneficiary by the trust under sections 666(b) and (c) and 669(d) and (e) during preceding taxable years of the trust on the last day of which the beneficiary was in being, reduced by the amount of the taxes deemed distributed to such beneficiary for such preceding taxable years to the extent that such taxes are taken into account under sections 668(b)(1) and 669(b) in determining the amount of the tax imposed by section 668. See section 666(e) of this title.
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 701(q)(1)(B), (C) of Pub. L. 95–600 applicable to distributions made in taxable yearsbeginning after Dec. 31, 1975, see section 701(q)(3)(A) of Pub. L. 95–600, set out as a note under section 665 of this title.
+Amendment by section 701(q)(1)(B), (C) of Pub. L. 95–600 applicable to distributions made in taxable years beginning after Dec. 31, 1975, see section 701(q)(3)(A) of Pub. L. 95–600, set out as a note under section 665 of this title.
 
 Section 702(<i>o</i>)(2) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply—
 

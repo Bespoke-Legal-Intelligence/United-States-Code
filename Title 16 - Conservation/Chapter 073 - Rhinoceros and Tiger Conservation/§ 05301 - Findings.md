@@ -30,7 +30,7 @@ The Congress finds the following:
 
 #### References in Text
 
-The Endangered Species Act of 1973, referred to in par. (5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in par. (5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, asamended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 #### Short Title of 1998 Amendment
 
@@ -46,7 +46,7 @@ Pub. L. 105–312, title IV, §402, Oct. 30, 1998, 112 Stat. 2959, provided that
 
 &emsp;“(1) the populations of all but 1 species of rhinoceros, and the tiger, have significantly declined in recent years and continue to decline;
 
-&emsp;“(2) these species of rhinoceros and tiger are listed as endangered species under the Endangered SpeciesAct of 1973 (16 U.S.C. 1531 et seq.) and listed on Appendix I of the Convention on International Trade in Endangered Species of Wild Fauna and Flora, signed on March 3, 1973 (27 UST 1087; TIAS 8249) (referred to in this title as ‘CITES’);
+&emsp;“(2) these species of rhinoceros and tiger are listed as endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) and listed on Appendix I of the Convention on International Trade in Endangered Species of Wild Fauna and Flora, signed on March 3, 1973 (27 UST 1087; TIAS 8249) (referred to in this title as ‘CITES’);
 
 &emsp;“(3) the Parties to CITES have adopted several resolutions—
 

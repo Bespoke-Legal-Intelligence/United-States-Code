@@ -40,7 +40,7 @@ In making any finding under subsection (a) of this section or under subsection (
 
 #### (d) International treaties, conventions, and protocols requiring control; procedures respecting changes in drug schedules of Convention on Psychotropic Substances
 
-(1) If control is required by United States obligations under international treaties, conventions, or protocols in effect on October 27, 1970, the Attorney General shall issue an order controlling such drug under the schedule he deems most appropriate to carry out such obligations, without regard to the findings required by subsection (a) of this section or section 812(b) of this title and without regard to the procedures prescribed by subsections (a) and (b) of this section.
+(1) If control is required by United States obligations under international treaties, conventions, or protocols in effect on October 27, 1970, the Attorney General shall issue an order controlling such drug under the schedule he deems most appropriate to carry out such obligations, without regard to the findings required by subsection (a) of this section or section 812(b) ofthis title and without regard to the procedures prescribed by subsections (a) and (b) of this section.
 
 (2)(A) Whenever the Secretary of State receives notification from the Secretary-General of the United Nations that information has been transmitted by or to the World Health Organization, pursuant to article 2 of the Convention on Psychotropic Substances, which may justify adding a drug or other substance to one of the schedules of the Convention, transferring a drug or substance from one schedule to another, or deleting it from the schedules, the Secretary of State shall immediately transmit the notice to the Secretary of Health and Human Services who shall publish it in the Federal Register and provide opportunity to interested persons to submit to him comments respecting the scientific and medical evaluations which he is to prepare respecting such drug or substance. The Secretary of Health and Human Services shall prepare for transmission through the Secretary of State to the World Health Organization such medical and scientific evaluations as may be appropriate regarding the possible action that could be proposed by the World Health Organization respecting the drug or substance with respect to which a notice was transmitted under this subparagraph.
 
@@ -70,7 +70,7 @@ In making any finding under subsection (a) of this section or under subsection (
 
 &emsp;(ii) the drug or substance subject to such decision is not required to be controlled under schedule IV or V to carry out the minimum United States obligations under paragraph 7 of article 2 of the Convention,
 
-> the order issued under this subparagraph with respect to such drug or substance shall expireupon receipt by the United States of the review decision. If, as a result of action taken pursuant to action initiated under a request transmitted under clause (iv) of paragraph (3)(C), the drug or substance with respect to which such action was taken is not required to be controlled under schedule IV or V, the order issued under this paragraph with respect to such drug or substance shall expire upon receipt by the United States of a notice of the action taken with respect to such drug or substance under the Convention.
+> the order issued under this subparagraph with respect to such drug or substance shall expire upon receipt by the United States of the review decision. If, as a result of action taken pursuant to action initiated under a request transmitted under clause (iv) of paragraph (3)(C), the drug or substance with respect to which such action was taken is not required to be controlled under schedule IV or V, the order issued under this paragraph with respect to such drug or substance shall expire upon receipt by the United States of a notice of the action taken with respect to such drug or substance under the Convention.
 
 (C) An order issued under subparagraph (A) or (B) may be issued without regard to the findings required by subsection (a) of this section or by section 812(b) of this title and without regard to the procedures prescribed by subsection (a) or (b) of this section.
 
@@ -110,7 +110,7 @@ If, at the time a new-drug application is submitted to the Secretary for any dru
 
 (4) The Attorney General shall transmit notice of an order proposed to be issued under paragraph (1) to the Secretary of Health and Human Services. In issuing an order under paragraph (1), the Attorney General shall take into consideration any comments submitted by the Secretary in response to a notice transmitted pursuant to this paragraph.
 
-(5) An order issued under paragraph (1) with respect to a substance shall be vacated upon theconclusion of a subsequent rulemaking proceeding initiated under subsection (a) of this section with respect to such substance.
+(5) An order issued under paragraph (1) with respect to a substance shall be vacated upon the conclusion of a subsequent rulemaking proceeding initiated under subsection (a) of this section with respect to such substance.
 
 (6) An order issued under paragraph (1) is not subject to judicial review.
 

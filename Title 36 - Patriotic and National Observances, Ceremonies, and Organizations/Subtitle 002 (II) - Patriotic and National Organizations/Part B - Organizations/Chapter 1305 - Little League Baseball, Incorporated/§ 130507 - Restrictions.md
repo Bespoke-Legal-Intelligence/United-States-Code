@@ -38,13 +38,19 @@ July 16, 1964, Pub. L. 88–378, §§9, 10, 12, 78 Stat. 327.
 
 36:1080.
 
+&nbsp;
+
 130507(c)
 
 36:1079(a).
 
+&nbsp;
+
 130507(d)
 
 36:1079(b).
+
+&nbsp;
 
 In subsection (a), the words “any shares of” are omitted as unnecessary.
 

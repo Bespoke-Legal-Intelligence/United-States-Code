@@ -14,7 +14,7 @@ There are authorized to be appropriated for fiscal years 1993 and 1994 such sums
 
 #### (d) Eligible project expense
 
-For any federally assisted housing project described in subparagraph (E) or (F) of section 13641(2) of this title that does not receive a grant under this section, the cost of employing or otherwise retaining the services of one or more service coordinators under section 13631 <sup>1</sup> of thistitle and not more than 15 percent of the cost of providing services to the residents of the project shall be considered an eligible project expense, but only to the extent that amounts are available from project rent and other income for such costs.
+For any federally assisted housing project described in subparagraph (E) or (F) of section 13641(2) of this title that does not receive a grant under this section, the cost of employing or otherwise retaining the services of one or more service coordinators under section 13631 <sup>1</sup> of this title and not more than 15 percent of the cost of providing services to the residents of the project shall be considered an eligible project expense, but only to the extent that amounts are available from project rent and other income for such costs.
 
 (Pub. L. 102–550, title VI, §676, Oct. 28, 1992, 106 Stat. 3828.)
 

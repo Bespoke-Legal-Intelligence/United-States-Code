@@ -54,7 +54,7 @@ Beginning in fiscal year 1991, not less than 10 percent and not more than 20 per
 
 #### (g) Eligibility; suspension of State for noncompliance
 
-If the Secretary finds that the State is not undertaking the actions committed to under the terms of the grant, the Secretary shall suspendthe State's eligibility for further funding under this section for at least one year.
+If the Secretary finds that the State is not undertaking the actions committed to under the terms of the grant, the Secretary shall suspend the State's eligibility for further funding under this section for at least one year.
 
 (Pub. L. 89–454, title III, §309, as added Pub. L. 94–370, §8, July 26, 1976, 90 Stat. 1028; amended Pub. L. 96–464, §8, Oct. 17, 1980, 94 Stat. 2064; Pub. L. 101–508, title VI, §6210, Nov. 5, 1990, 104 Stat. 1388–309; Pub. L. 102–587, title II, §2205(b)(1)(B), Nov. 4, 1992, 106 Stat. 5050; Pub. L. 104–150, §§3, 7(2), June 3, 1996, 110 Stat. 1380, 1382.)
 

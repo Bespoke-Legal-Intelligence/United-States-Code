@@ -20,9 +20,9 @@ A prior section 574 of Pub. L. 87–195 was classified to section 2349aa–3 of 
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
 
-#### Allocation of Funds
+#### Delegation of Functions
 
-Funds available to President for carrying out this part allocated to Secretary of State by section 1–801(c) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56674, 56678, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

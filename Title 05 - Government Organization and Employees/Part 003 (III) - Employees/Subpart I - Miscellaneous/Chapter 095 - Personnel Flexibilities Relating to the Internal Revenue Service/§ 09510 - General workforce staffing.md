@@ -14,7 +14,7 @@
 
 (b)(1) Notwithstanding subchapter I of chapter 33, the Secretary of the Treasury may establish category rating systems for evaluating applicants for Internal Revenue Service positions in the competitive service under which qualified candidates are divided into two or more quality categories on the basis of relative degrees of merit, rather than assigned individual numerical ratings.
 
-(2) Each applicant who meets the minimum qualification requirements for the position to be filled shall be assigned to an appropriate category based on an evaluation of the applicant's knowledge, skills, and abilities relative to those needed for successful performance in the position to be filled.
+(2) Each applicant who meets the minimum qualification requirements for the position to be filled shall be assigned to an appropriate category based on an evaluation of the applicant'sknowledge, skills, and abilities relative to those needed for successful performance in the position to be filled.
 
 (3) Within each quality category established under paragraph (1), preference eligibles shall be listed ahead of individuals who are not preference eligibles. For other than scientific and professional positions at or higher than GS–9 (or equivalent), preference eligibles who have a compensable service-connected disability of 10 percent or more, and who meet the minimum qualification standards, shall be listed in the highest quality category.
 
@@ -22,7 +22,7 @@
 
 (5) Notwithstanding paragraph (4), the appointing authority may not pass over a preference eligible in the same or higher category from which selection is made unless the requirements of section 3317(b) or 3318(b), as applicable, are satisfied.
 
-(c) The Secretary of the Treasury may detail employees among the offices of the InternalRevenue Service without regard to the 120-day limitation in section 3341(b).
+(c) The Secretary of the Treasury may detail employees among the offices of the Internal Revenue Service without regard to the 120-day limitation in section 3341(b).
 
 (d) Notwithstanding any other provision of law, the Secretary of the Treasury may establish a probationary period under section 3321 of up to 3 years for Internal Revenue Service positions if the Secretary of the Treasury determines that the nature of the work is such that a shorter period is insufficient to demonstrate complete proficiency in the position.
 

@@ -16,7 +16,7 @@ The Director of the Bureau of Justice Statistics may award new grants, enter int
 
 #### (d) Obligation by Administrator of Law Enforcement Assistance Administration of previously appropriated unused or reversionary funds or presently appropriated funds for continuation of projects or purposes of this chapter
 
-The Administrator of the Law Enforcement Assistance Administration may award new grants, enter into new contracts or cooperative agreements, approve comprehensive plans for the fiscal year beginning October 1, 1979, and otherwise obligate previously appropriated unused or reversionary funds or funds appropriated for the fiscal year beginning October 1, 1979, for the continuation of projects in accordance with the provisions of this chapter, as in effect on the day before December 27, 1979, or for purposes consistent with provisions of this chapter.
+The Administrator of the Law Enforcement Assistance Administration may award new grants, enter into new contracts or cooperative agreements, approve comprehensive plans for the fiscal year beginning October 1, 1979, and otherwise obligate previously appropriated unused or reversionary funds or funds appropriated for the fiscal year beginning October 1, 1979, forthe continuation of projects in accordance with the provisions of this chapter, as in effect on the day before December 27, 1979, or for purposes consistent with provisions of this chapter.
 
 #### (e) Pending suits, actions, or other proceedings unaffected
 
@@ -63,6 +63,10 @@ Subsecs. (j), (k). Pub. L. 98–473, §609G(2), (3), redesignated subsec. (k) as
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 3711 of this title.
+
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) through (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
 
 #### Law Enforcement Assistance Administration; Closeout of Operations and Transfer of Remaining Functions
 

@@ -36,7 +36,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
+Section applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 ofPub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
 #### Section Referred to in Other Sections
 

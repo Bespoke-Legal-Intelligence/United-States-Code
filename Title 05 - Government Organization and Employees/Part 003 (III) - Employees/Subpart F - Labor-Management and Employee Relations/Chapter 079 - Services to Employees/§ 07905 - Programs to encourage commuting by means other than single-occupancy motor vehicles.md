@@ -64,7 +64,7 @@ Section 3 of Pub. L. 103–172 provided that: “This Act \[enacting this sectio
 
 #### Transit Subsidies; Appropriations
 
-Pub. L. 105–277, div. A, title I, §101(f) \[title II, §210\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, provided that: “Funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, forthe National Institutes of Health may be used to provide transit subsidies in amounts consistent with the transportation subsidy programs authorized under section 629 of Public Law 101–509 \[see note preceding section 7901 of this title\] to non-FTE bearing positions including trainees, visiting fellows and volunteers.”
+Pub. L. 105–277, div. A, §101(f) \[title II, §210\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, provided that: “Funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, for the National Institutes of Health may be used to provide transit subsidies in amounts consistent with the transportation subsidy programs authorized under section 629 of Public Law 101–509 \[see note preceding section 7901 of this title\] to non-FTE bearing positions including trainees, visiting fellows and volunteers.”
 
 Similar provisions were contained in the following prior appropriations act:
 

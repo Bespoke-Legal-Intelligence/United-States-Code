@@ -4,9 +4,11 @@
 
 &emsp;(1) in the case of an enlisted member in the pay grade of E–5 or higher with less than 14 years’ service, not more than 90 percent of the charges may be paid;
 
-&emsp;(2) in the case of a member enrolled in a high school completion program, all of the charges may be paid; and
+&emsp;(2) in the case of a member enrolled in a high school completion program, all of the charges may be paid;
 
-&emsp;(3) in the case of a commissioned officer on active duty, no part of the charges may be paid unless the officer agrees to remain on active duty for a period of at least two years after the completion of the training or education.
+&emsp;(3) in the case of a commissioned officer on active duty, no part of the charges may be paid unless the officer agrees to remain on active duty for a period of at least two years after the completion of the training or education; and
+
+&emsp;(4) in the case of a member serving in a contingency operation or similar operational mission (other than for training) designated by the Secretary concerned, all of the charges may be paid.
 
 (b) The limitation in subsection (a) does not apply to the Program for Afloat College Education.
 
@@ -28,7 +30,7 @@
 
 &emsp;(3) a commissioned officer on active duty who satisfies the condition in subsection (a)(3) relating to an agreement to remain on active duty.
 
-(Added Pub. L. 98–525, title XIV, §1401(g)(1), Oct. 19, 1984, 98 Stat. 2618; amended Pub. L. 99–661, div. A, title VI, §651(a), Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–26, §3(4), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title XIV, §1484(i)(4)(A), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VI, §632, Nov. 30, 1993, 107 Stat. 1684.)
+(Added Pub. L. 98–525, title XIV, §1401(g)(1), Oct. 19, 1984, 98 Stat. 2618; amended Pub. L. 99–661, div. A, title VI, §651(a), Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–26, §3(4), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title XIV, §1484(i)(4)(A), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VI, §632, Nov. 30, 1993, 107 Stat. 1684; Pub. L. 106–65, div. A, title VI, §675, Oct. 5, 1999, 113 Stat. 675.)
 
 #### Prior Provisions
 
@@ -98,6 +100,8 @@ June 30, 1954, ch. 432, title VII, §730, 68 Stat. 355.
 
 #### Amendments
 
+1999—Subsec. (a)(4). Pub. L. 106–65 added par. (4).
+
 1993—Subsec. (d). Pub. L. 103–160 added subsec. (d).
 
 1990—Pub. L. 101–510 substituted “Payment” for “Limitation on payment” in section catchline.
@@ -145,4 +149,8 @@ Pub. L. 100–202, §101(b) \[title VIII, §8072\], Dec. 22, 1987, 101 Stat. 132
 Pub. L. 99–500, §101(c) \[title IX, §9076\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–114, and Pub. L. 99–591, §101(c) \[title IX, §9076\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–114.
 
 Pub. L. 99–190, §101(b) \[title VIII, §8086\], Dec. 19, 1985, 99 Stat. 1185, 1216.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1745 of this title.
 

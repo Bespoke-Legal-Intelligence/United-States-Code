@@ -18,6 +18,10 @@
 | (c) | Repealed. |
 | (d) | Repealed and Omitted. |
 | (e) | Implementation. |
+| [2652c.](%C2%A7%2002652c%20-%20Assistant%20Secretary%20of%20State%20for%20Verification%20and%20Compliance.md) | Assistant Secretary of State for Verification and Compliance. |
+| (a) | Designation of position. |
+| (b) | Directive governing the Assistant Secretary of State. |
+| (c) | Duties. |
 | 2653 to 2655. Repealed. |  |
 | [2655a.](%C2%A7%2002655a%20-%20Bureau%20of%20Oceans%20and%20International%20Environmental%20and%20Scientific%20Affairs%20within%20Department%20of%20State%3B%20Assistant%20Secretary%20of%20State%20as%20head%E2%80%A6.md) | Bureau of Oceans and International Environmental and Scientific Affairs within Department of State; Assistant Secretary of State as head of Bureau. |
 | [2656\.](%C2%A7%2002656%20-%20Management%20of%20foreign%20affairs.md) | Management of foreign affairs. |
@@ -145,7 +149,7 @@
 | [2695a.](%C2%A7%2002695a%20-%20Foreign%20language%20services.md) | Foreign language services. |
 | (a) | Surcharge for certain foreign language services. |
 | (b) | Use of funds. |
-| [2695b.](%C2%A7%2002695b%20-%20Omitted.md) | Cost of presence of departments and agencies outside United States. |
+| [2695b.](%C2%A7%2002695b%20-%20Omitted.md) | Omitted. |
 | [2696\.](%C2%A7%2002696%20-%20Nondiscretionary%20personnel%20costs%2C%20currency%20fluctuations%2C%20and%20other%20contingencies.md) | Nondiscretionary personnel costs, currency fluctuations, and other contingencies. |
 | (a) | Additional appropriations. |
 | (b) | Appropriations authorization based on currency fluctuations. |
@@ -195,6 +199,12 @@
 | (h) | Publication regarding rewards offered by foreign governments. |
 | (i) | Determinations of Secretary. |
 | (j) | Definitions. |
+| [2708a.](%C2%A7%2002708a%20-%20Award%20of%20Foreign%20Service%20star.md) | Award of Foreign Service star. |
+| (a) | Authority to award. |
+| (b) | Selection criteria. |
+| (c) | Award in the event of death. |
+| (d) | Form of award. |
+| (e) | Funding. |
 | [2709\.](%C2%A7%2002709%20-%20Special%20agents.md) | Special agents. |
 | (a) | General authority. |
 | (b) | Agreement with Attorney General and firearms regulations. |
@@ -228,10 +238,21 @@
 | (d) | Emergency and humanitarian exceptions. |
 | (e) | Definitions. |
 | [2715\.](%C2%A7%2002715%20-%20Procedures%20regarding%20major%20disasters%20and%20incidents%20abroad%20affecting%20United%20States%20citizens.md) | Procedures regarding major disasters and incidents abroad affecting United States citizens. |
+| (a) | Authority. |
+| (b) | Definitions. |
 | [2715a.](%C2%A7%2002715a%20-%20Provision%20of%20information%20on%20certain%20violent%20crimes%20abroad%20to%20victims%20and%20victims%E2%80%99%20families.md) | Provision of information on certain violent crimes abroad to victims and victims’ families. |
 | (a) | Sense of Congress. |
 | (b) | Responsibility. |
 | (c) | Limitations. |
+| [2715b.](%C2%A7%2002715b%20-%20Notification%20of%20next%20of%20kin%3B%20reports%20of%20death.md) | Notification of next of kin; reports of death. |
+| (a) | In general. |
+| (b) | Reports of death or presumptive death. |
+| (c) | Implementing regulations. |
+| [2715c.](%C2%A7%2002715c%20-%20Conservation%20and%20disposition%20of%20estates.md) | Conservation and disposition of estates. |
+| (a) | Conservation of estates abroad. |
+| (b) | Disposition of estates by the Secretary of State. |
+| (c) | Losses in connection with the conservation of estates. |
+| (d) | Regulations. |
 | [2716\.](%C2%A7%2002716%20-%20Debt%20collection.md) | Debt collection. |
 | (a) | Contract authority. |
 | (b) | Disclosure of delinquent debt to credit reporting agencies. |
@@ -276,6 +297,7 @@
 - [&sect; 02651a - Organization of Department of State](%C2%A7%2002651a%20-%20Organization%20of%20Department%20of%20State.md)
 - [&sect; 02652, 2652a - Repealed. Pub. L. 103&#8211;236, title I, &sect;162(a), (b), Apr. 30, 1994, 108 Stat. 405](%C2%A7%2002652%2C%202652a%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93236%2C%20title%20I%2C%20%C2%A7162%28a%29%2C%20%28b%29%2C%20Apr.%2030%2C%201994%2C%20108%20Stat.%20405.md)
 - [&sect; 02652b - Assistant Secretary of State for South Asian Affairs](%C2%A7%2002652b%20-%20Assistant%20Secretary%20of%20State%20for%20South%20Asian%20Affairs.md)
+- [&sect; 02652c - Assistant Secretary of State for Verification and Compliance](%C2%A7%2002652c%20-%20Assistant%20Secretary%20of%20State%20for%20Verification%20and%20Compliance.md)
 - [&sect; 02653 to 2655 - Repealed. Pub. L. 103&#8211;236, title I, &sect;162(a), (p), Apr. 30, 1994, 108 Stat. 405, 410](%C2%A7%2002653%20to%202655%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93236%2C%20title%20I%2C%20%C2%A7162%28a%29%2C%20%28p%29%2C%20Apr.%2030%2C%201994%2C%20108%20Stat.%20405%2C%20410.md)
 - [&sect; 02655a - Bureau of Oceans and International Environmental and Scientific Affairs within Department of State; Assistant Secretary of State as head&#8230;](%C2%A7%2002655a%20-%20Bureau%20of%20Oceans%20and%20International%20Environmental%20and%20Scientific%20Affairs%20within%20Department%20of%20State%3B%20Assistant%20Secretary%20of%20State%20as%20head%E2%80%A6.md)
 - [&sect; 02656 - Management of foreign affairs](%C2%A7%2002656%20-%20Management%20of%20foreign%20affairs.md)
@@ -358,6 +380,7 @@
 - [&sect; 02706 - Reprograming of funds; notice requirements](%C2%A7%2002706%20-%20Reprograming%20of%20funds%3B%20notice%20requirements.md)
 - [&sect; 02707 - International communications and information policy; duties of Secretary of State](%C2%A7%2002707%20-%20International%20communications%20and%20information%20policy%3B%20duties%20of%20Secretary%20of%20State.md)
 - [&sect; 02708 - Department of State rewards program](%C2%A7%2002708%20-%20Department%20of%20State%20rewards%20program.md)
+- [&sect; 02708a - Award of Foreign Service star](%C2%A7%2002708a%20-%20Award%20of%20Foreign%20Service%20star.md)
 - [&sect; 02709 - Special agents](%C2%A7%2002709%20-%20Special%20agents.md)
 - [&sect; 02710 - Expenses relating to participation in arbitrations of certain disputes](%C2%A7%2002710%20-%20Expenses%20relating%20to%20participation%20in%20arbitrations%20of%20certain%20disputes.md)
 - [&sect; 02711 - Counterterrorism Protection Fund](%C2%A7%2002711%20-%20Counterterrorism%20Protection%20Fund.md)
@@ -366,6 +389,8 @@
 - [&sect; 02714 - Denial of passports to certain convicted drug traffickers](%C2%A7%2002714%20-%20Denial%20of%20passports%20to%20certain%20convicted%20drug%20traffickers.md)
 - [&sect; 02715 - Procedures regarding major disasters and incidents abroad affecting United States citizens](%C2%A7%2002715%20-%20Procedures%20regarding%20major%20disasters%20and%20incidents%20abroad%20affecting%20United%20States%20citizens.md)
 - [&sect; 02715a - Provision of information on certain violent crimes abroad to victims and victims&#8217; families](%C2%A7%2002715a%20-%20Provision%20of%20information%20on%20certain%20violent%20crimes%20abroad%20to%20victims%20and%20victims%E2%80%99%20families.md)
+- [&sect; 02715b - Notification of next of kin; reports of death](%C2%A7%2002715b%20-%20Notification%20of%20next%20of%20kin%3B%20reports%20of%20death.md)
+- [&sect; 02715c - Conservation and disposition of estates](%C2%A7%2002715c%20-%20Conservation%20and%20disposition%20of%20estates.md)
 - [&sect; 02716 - Debt collection](%C2%A7%2002716%20-%20Debt%20collection.md)
 - [&sect; 02717 - Defense trade controls registration fees](%C2%A7%2002717%20-%20Defense%20trade%20controls%20registration%20fees.md)
 - [&sect; 02718 - Fees received for use of Blair House](%C2%A7%2002718%20-%20Fees%20received%20for%20use%20of%20Blair%20House.md)

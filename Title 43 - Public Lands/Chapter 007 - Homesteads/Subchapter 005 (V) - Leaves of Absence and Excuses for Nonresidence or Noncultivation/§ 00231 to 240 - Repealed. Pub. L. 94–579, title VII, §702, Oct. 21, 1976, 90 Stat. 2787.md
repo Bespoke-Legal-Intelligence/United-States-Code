@@ -1,6 +1,6 @@
 ### §§231 to 240. Repealed. Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787
 
-Section 231, acts Aug. 22, 1914, ch. 270, 38 Stat. 704; Feb. 25, 1919, ch. 21, 40 Stat. 1153; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to optional leaves of absence and proof of commutation.
+Section 231, acts Aug. 22, 1914, ch. 270, 38 Stat. 704; Feb. 25, 1919, ch. 21, 40 Stat. 1153; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876,60 Stat. 1100, related to optional leaves of absence and proof of commutation.
 
 Section 232, act July 3, 1916, ch. 214, 39 Stat. 341, related to settlers on unsurveyed land.
 

@@ -52,7 +52,7 @@ Legislative positions; office of the vice president.—
 
 &emsp;&emsp;“(A)
 
-Generally.—Effective the first day of the first applicable pay period that begins on or after January 1, 1991, the rate of basic pay for the offices and positions under subparagraphs (A) and (B) of section 225(f) of the Federal Salary Act of 1967 (2 U.S.C. 356(A) and (B)) shall be increased in the amount of 25 percent of their respective rates (as last in effect before the increase), rounded to thenearest multiple of $100 (or, if midway between multiples of $100, to the next higher multiple of $100), except as provided in subparagraph (B).
+Generally.—Effective the first day of the first applicable pay period that begins on or after January 1, 1991, the rate of basic pay for the offices and positions under subparagraphs (A) and (B) of section 225(f) of the Federal Salary Act of 1967 (2 U.S.C. 356(A) and (B)) shall be increased in the amount of 25 percent of their respective rates (as last in effect before the increase), rounded to the nearest multiple of $100 (or, if midway between multiples of $100, to the next higher multiple of $100), except as provided in subparagraph (B).
 
 &emsp;&emsp;“(B)
 
@@ -60,7 +60,7 @@ Exceptions.—Nothing in subparagraph (A) shall affect the rate of basic pay for
 
 &emsp;“(3)
 
-Judicial positions.—Effective the first day of the first applicable pay period that begins on or after January 1, 1991, the rate of basic pay for the Chief Justice of the United States, an associate justice of the Supreme Court of the United States, a judge of a United States circuit court, a judge of a district court of the United States, and a judge of the United States Court of International Trade shall be increased in the amount of 25 percent of their respective rates (as last in effect before the increase), rounded to the nearest multiple of $100 (or, if midway between multiples of $100, to the next higher multiple of $100).
+Judicial positions.—Effective the first day of the first applicable pay period that begins on or after January 1, 1991, the rate of basic pay for the Chief Justice of the United States, an associate justice ofthe Supreme Court of the United States, a judge of a United States circuit court, a judge of a district court of the United States, and a judge of the United States Court of International Trade shall be increased in the amount of 25 percent of their respective rates (as last in effect before the increase), rounded to the nearest multiple of $100 (or, if midway between multiples of $100, to the next higher multiple of $100).
 
 “(b)
 
@@ -148,7 +148,7 @@ Pub. L. 97–377, title I, §129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, provide
 
 #### Fiscal Year 1983 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
-Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189, as amended by Pub. L. 97–377, title I, §129(a), Dec. 21, 1982, 96 Stat. 1914, provided in part that: “the provisions of section 306(a), (b), and (d) of S. 2939 \[Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982\] shall apply to any appropriation, fund, or authority made available for the period October 1, 1982, through September 30, 1983, by this or any other Act.” Section 306(a), (b), and (d) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, provided that:
+Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189, as amended by Pub. L. 97–377, title I, §129(a), Dec. 21, 1982, 96 Stat. 1914, provided in part that: “the provisions of section 306(a), (b), and (d) of S. 2939 \[Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982\] shallapply to any appropriation, fund, or authority made available for the period October 1, 1982, through September 30, 1983, by this or any other Act.” Section 306(a), (b), and (d) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, provided that:
 
 “(a) No part of the funds appropriated for the fiscal year ending September 30, 1983, by this Act or any other Act may be used to pay the salary or pay of any individual in an office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeds the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for September 30, 1982, if the rate of salary or basic pay for that office or position is—
 
@@ -202,7 +202,7 @@ Pub. L. 97–92, §141, Dec. 15, 1981, 95 Stat. 1200, provided that:
 
 “(2) In applying subsection (a) for any office or position for which the rate of salary or basic pay is limited to a percentage of such a maximum rate, there shall be substituted, in lieu of the amount specified in subsection (a) for that office or position, an amount equal to such percentage of the specified amount.
 
-“(c) Any adjustment pursuant to this section made to the pay of any employee or class of employees whosepay is disbursed by the Clerk of the House should be of such amount as to assure, to the maximum extent practicable, that such employees are not paid at rates at less than employees or classes of employees whose pay is disbursed by the Secretary of the Senate and who hold equivalent positions.”
+“(c) Any adjustment pursuant to this section made to the pay of any employee or class of employees whose pay is disbursed by the Clerk of the House should be of such amount as to assure, to the maximum extent practicable, that such employees are not paid at rates at less than employees or classes of employees whose pay is disbursed by the Secretary of the Senate and who hold equivalent positions.”
 
 #### Fiscal Year 1981 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
@@ -258,7 +258,7 @@ Identical provisions were enacted by Pub. L. 95–391, title III, §304, Sept. 3
 
 #### 1977 Comparability Adjustment not Effective for Certain Positions
 
-Pub. L. 95–66, July 11, 1977, 91 Stat. 270, provided that: “The first adjustment which, but for this Act, would bemade after the date of enactment of this Act under the following provisions of law in the salary or rate of pay of positions or individuals to which such provisions apply, shall not take effect:
+Pub. L. 95–66, July 11, 1977, 91 Stat. 270, provided that: “The first adjustment which, but for this Act, would be made after the date of enactment of this Act under the following provisions of law in the salary or rate of pay of positions or individuals to which such provisions apply, shall not take effect:
 
 &emsp;“(1) the second sentence of section 104 of title 3, United States Code, relating to comparability adjustments in the salary of the Vice President of the United States;
 

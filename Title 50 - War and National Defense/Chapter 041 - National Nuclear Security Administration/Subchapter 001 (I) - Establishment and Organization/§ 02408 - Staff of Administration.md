@@ -1,0 +1,20 @@
+### §2408. Staff of Administration
+
+#### (a) In general
+
+The Administrator shall maintain within the Administration sufficient staff to assist the Administrator in carrying out the duties and responsibilities of the Administrator.
+
+#### (b) Responsibilities
+
+The staff of the Administration shall perform, in accordance with applicable law, such of the functions of the Administrator as the Administrator shall prescribe. The Administrator shall assign to the staff responsibility for the following functions:
+
+&emsp;(1) Personnel.
+
+&emsp;(2) Legislative affairs.
+
+&emsp;(3) Public affairs.
+
+&emsp;(4) Liaison with other elements of the Department of Energy and with other Federal agencies, State, tribal, and local governments, and the public.
+
+(Pub. L. 106–65, div. C, title XXXII, §3218, Oct. 5, 1999, 113 Stat. 960.)
+

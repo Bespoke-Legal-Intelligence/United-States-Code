@@ -28,7 +28,7 @@ All power sales under this chapter shall be subject at all times to the preferen
 
 &emsp;(B) not permit restrictions which would reduce the total contractual entitlement of such customers to an amount less than the firm capability of the Federal base system resources; and
 
-&emsp;(C) contain a formula for determining annually, on a uniform basis, each such customer's contractual entitlement to firm power during such a period of restriction, which formula shall not consider customer resources other than those the customer has determined, as ofDecember 5, 1980, to be used to serve its own firm loads.
+&emsp;(C) contain a formula for determining annually, on a uniform basis, each such customer's contractual entitlement to firm power during such a period of restriction, which formula shall not consider customer resources other than those the customer has determined, as of December 5, 1980, to be used to serve its own firm loads.
 
 > The formula referred to in subparagraph (C) shall obligate the Administrator to provide on an annual basis only firm power needed to serve the portion of such customer's firm load in excess of the capability of such customer's own firm resources determined by such customer under paragraph (1) of this subsection to be used to serve its firm load.
 
@@ -118,7 +118,7 @@ The Administrator is authorized to sell, or otherwise dispose of, electric power
 
 (2) Each customer offered a contract pursuant to this subsection shall have one year from the date of such offer to accept such contract. Such contract shall be effective as provided in this subsection.
 
-(3) An initial contract with a public body, cooperative or investor-owned electric utility customer or a Federal agency customer pursuant to subsection (b) of this section shall be effective on the date executed by such customer, unless another effective date is otherwise agreed to by the Administrator and the customer.
+(3) An initial contract with a public body, cooperative or investor-owned electric utility customer or a Federal agency customer pursuant to subsection (b) of this section shall be effectiveon the date executed by such customer, unless another effective date is otherwise agreed to by the Administrator and the customer.
 
 (4) An initial contract with an electric utility customer pursuant to subsection (c) of this section shall be effective on the date executed by such customer, but no earlier than the first day of the tenth month after December 5, 1980.
 

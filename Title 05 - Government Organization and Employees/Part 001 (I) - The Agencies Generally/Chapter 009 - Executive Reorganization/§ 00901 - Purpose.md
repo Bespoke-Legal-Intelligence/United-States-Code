@@ -62,7 +62,7 @@ Section 1 of Pub. L. 95–17 provided: “That this Act \[amending this chapter\
 
 #### National Commission on Executive Organization
 
-Pub. L. 100–527, §17, Oct. 25, 1988, 102 Stat. 2645, directed President, within 30 days after Mar. 15, 1989, to make a determination as to whether the national interest would be served by establishment of a National Commission on Executive Organization to review structural organization of executive branch of Federal Government, and stated that if President failed to transmitto Congress notification of his intent to establish such Commission section would cease to be effective 30 days after Mar. 15, 1989. \[President did not transmit such notification to Cogress and thus section ceased to be effective 30 days after Mar. 15, 1989.\]
+Pub. L. 100–527, §17, Oct. 25, 1988, 102 Stat. 2645, directed President, within 30 days after Mar. 15, 1989, to make a determination as to whether the national interest would be served by establishment of a National Commission on Executive Organization to review structural organization of executive branch of Federal Government, and stated that if President failed to transmit to Congress notification of his intent to establish such Commission section would cease to be effective 30 days after Mar. 15, 1989. \[President did not transmit such notification to Cogress and thus section ceased to be effective 30 days after Mar. 15, 1989.\]
 
 #### Ex. Ord. No. 6166. Reorganization of Executive Agencies Generally
 
@@ -264,7 +264,7 @@ Disbursement
 
 #### Amendments
 
-The bracketed provisions in the first sentence of section 4 of Ex. Ord. No. 6166 reflect the changes effected by 1940 Reorg. Plan No. IV, §§3, 4, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234, 1235, Ex. Ord. No. 6728, and 1940 Reorg. Plan No. III, §1(a)(1), 5 F.R. 2107, 54 Stat. 1231, respectively.
+The bracketed provisions in the first sentence of section 4 of Ex. Ord. No. 6166 reflect the changes effectedby 1940 Reorg. Plan No. IV, §§3, 4, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234, 1235, Ex. Ord. No. 6728, and 1940 Reorg. Plan No. III, §1(a)(1), 5 F.R. 2107, 54 Stat. 1231, respectively.
 
 #### Effective Date
 
@@ -276,7 +276,7 @@ Claims By or Against the United States
 
 The functions of prosecuting in the courts of the United States claims and demands by, and offenses against, the Government of the United States and of defending claims and demands against the Government, and of supervising the work of United States attorneys, marshals, and clerks in connection therewith, now exercised by any agency or officer, are transferred to the Department of Justice.
 
-As to any case referred to the Department of Justice for prosecution or defense in the courts, the function ofdecision whether and in what manner to prosecute, or to defend, or to compromise, or to appeal, or to abandon prosecution or defense, now exercised by any agency or officer, is transferred to the Department of Justice.
+As to any case referred to the Department of Justice for prosecution or defense in the courts, the function of decision whether and in what manner to prosecute, or to defend, or to compromise, or to appeal, or to abandon prosecution or defense, now exercised by any agency or officer, is transferred to the Department of Justice.
 
 For the exercise of such of his functions as are not transferred to the Department of Justice by the foregoing two paragraphs, the Solicitor of the Treasury is transferred from the Department of Justice to the Treasury Department.
 
@@ -378,7 +378,7 @@ The effective date of this section originally fixed by section 22 of this Ex. Or
 
 Functions Abolished
 
-Section 18 of Ex. Ord. No. 6166, which provided for the partial abolition of cooperative vocational education payments for agricultural experiment stations; cooperative agricultural extension work; and endowment and maintenance of colleges for the benefit of agriculture and the mechanical arts, was revoked by Ex. Ord. No. 6536 of Feb. 6, 1934.
+Section 18 of Ex. Ord. No. 6166, which provided for the partial abolition of cooperative vocational educationpayments for agricultural experiment stations; cooperative agricultural extension work; and endowment and maintenance of colleges for the benefit of agriculture and the mechanical arts, was revoked by Ex. Ord. No. 6536 of Feb. 6, 1934.
 
 #### §19.
 
@@ -394,7 +394,7 @@ All personnel employed in connection with the work of an abolished agency or fun
 
 #### Effective Date
 
-The effective date of the last paragraph of this section, originally fixed by section 22, post, was deferredas to employees separated from service under sections 2 and 15, ante, until Sept. 30, 1933, by Ex. Ord. No. 6227 of July 27, 1933. As to employees separated under section 12, ante, a similar deferment to Sept. 30, 1933, was made by Ex. Ord. No. 6245 of Aug. 9, 1933.
+The effective date of the last paragraph of this section, originally fixed by section 22, post, was deferred as to employees separated from service under sections 2 and 15, ante, until Sept. 30, 1933, by Ex. Ord. No. 6227 of July 27, 1933. As to employees separated under section 12, ante, a similar deferment to Sept. 30, 1933, was made by Ex. Ord. No. 6245 of Aug. 9, 1933.
 
 #### §20.
 

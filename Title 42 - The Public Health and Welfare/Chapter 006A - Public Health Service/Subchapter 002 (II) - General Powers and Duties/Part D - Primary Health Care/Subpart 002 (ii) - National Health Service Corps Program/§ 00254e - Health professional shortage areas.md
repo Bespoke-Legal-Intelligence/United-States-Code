@@ -164,7 +164,7 @@ Section 2702(c) of Pub. L. 97–35 directed the Secretary of Health and Human Se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254d, 254f, 254g, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m, 254n, 254p, 295p, 296j, 297q, 1395<i>l</i>, 1395x, 9840, 11709 of this title; title 5 section 8902.
+This section is referred to in sections 254d, 254f, 254g, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m, 254n, 254p, 295p, 296j, 297q, 1395<i>l</i>, 1395x, 9840, 11709 of this title; title 5 section 8902; title 8 section 1182.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

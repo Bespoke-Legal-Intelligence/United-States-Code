@@ -78,7 +78,7 @@ Amendment by Pub. L. 102–568 effective Dec. 1, 1992, see section 205 of Pub. L
 
 #### Effective Date of 1988 Amendment
 
-Section 333(b) of Pub. L. 100–322 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the fourthmonth beginning after the date of the enactment of this Act \[May 20, 1988\].”
+Section 333(b) of Pub. L. 100–322 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the fourth month beginning after the date of the enactment of this Act \[May 20, 1988\].”
 
 #### Effective Date of 1976 Amendment
 

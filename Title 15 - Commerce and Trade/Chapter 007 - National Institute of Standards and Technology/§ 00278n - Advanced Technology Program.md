@@ -18,7 +18,7 @@ Under the Program established in subsection (a) of this section, and consistent 
 
 &emsp;&emsp;(A) provision of organizational and technical advice; and
 
-&emsp;&emsp;(B) participation in such joint ventures by means of grants, cooperative agreements, or contracts, if the Secretary, acting through the Director, determines participation to be appropriate, which may include (i) partial start-up funding, (ii) provision of a minorityshare of the cost of such joint ventures for up to 5 years, and (iii) making available equipment, facilities, and personnel,
+&emsp;&emsp;(B) participation in such joint ventures by means of grants, cooperative agreements, or contracts, if the Secretary, acting through the Director, determines participation to be appropriate, which may include (i) partial start-up funding, (ii) provision of a minority share of the cost of such joint ventures for up to 5 years, and (iii) making available equipment, facilities, and personnel,
 
 > &emsp;provided that emphasis is placed on areas where the Institute has scientific or technological expertise, on solving generic problems of specific industries, and on making those industries more competitive in world markets;
 
@@ -50,7 +50,7 @@ When entering into contracts or making awards under subsection (b) of this secti
 
 &emsp;(2) In the case of joint ventures, the Program shall not make an award unless the award will facilitate the formation of a joint venture or the initiation of a new research and development project by an existing joint venture.
 
-&emsp;(3) No Federal contract or cooperative agreement under subsection (b)(2) of this section shall exceed $2,000,000 over 3 years, or be for more than 3 years unless a full and complete explanation of such proposed award, including reasons for exceeding these limits, is submitted in writing by the Secretary to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives. The proposed contract or cooperative agreement may be executed only after 30 calendar days on which both Houses of Congress are in session have elapsed since such submission. Federal funds made available under subsection (b)(2) of this section shall be used only for direct costs and not for indirect costs, profits, or management fees of the contractor.
+&emsp;(3) No Federal contract or cooperative agreement under subsection (b)(2) of this section shall exceed $2,000,000 over 3 years, or be for more than 3 years unless a full and complete explanation of such proposed award, including reasons for exceeding these limits, is submitted in writing by the Secretary to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives. The proposed contract orcooperative agreement may be executed only after 30 calendar days on which both Houses of Congress are in session have elapsed since such submission. Federal funds made available under subsection (b)(2) of this section shall be used only for direct costs and not for indirect costs, profits, or management fees of the contractor.
 
 &emsp;(4) In determining whether to make an award to a particular joint venture, the Program shall consider whether the members of the joint venture have made provisions for the appropriate participation of small United States businesses in such joint venture.
 
@@ -176,7 +176,7 @@ Section 201(b) of Pub. L. 102–245 provided that:
 
 “(2) The purposes of this section \[amending this section and section 272 of this title and enacting provisions set out as notes under this section and section 271 of this title\] are—
 
-&emsp;“(A) to strengthen the Advanced Technology Program created under section 28 of the National Institute of Standards and Technology Act (15 U.S.C. 278n), and to provide improved guidelines for the allocation of Advanced Technology Program funds appropriated under the authorizations contained in section105 of this Act \[amending sections 278k and 4632 of this title and provisions set out as a note under section 278<i>l</i> of this title\];
+&emsp;“(A) to strengthen the Advanced Technology Program created under section 28 of the National Institute of Standards and Technology Act (15 U.S.C. 278n), and to provide improved guidelines for the allocation of Advanced Technology Program funds appropriated under the authorizations contained in section 105 of this Act \[amending sections 278k and 4632 of this title and provisions set out as a note under section 278<i>l</i> of this title\];
 
 &emsp;“(B) to promote and assist in the development of advanced technologies and the generic application of such technologies to civilian products, processes, and services;
 

@@ -36,7 +36,7 @@
 
 (f) In the case of a person who completes the service requirements of subsection (a)(2) during the period beginning on October 5, 1994, and ending on September 30, 2001, the provisions of subsection (a)(3) shall be applied by substituting “the last six years” for “the last eight years”.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1331; Pub. L. 85–704, Aug. 21, 1958, 72 Stat. 702; Pub. L. 85–861, §33(a)(8), Sept. 2, 1958, 72 Stat. 1564; Pub. L. 89–652, §1, Oct. 14, 1966, 80 Stat. 902; Pub. L. 90–485, §2, Aug. 13, 1968, 82 Stat. 754; Pub. L. 95–397, title II, §206, Sept. 30, 1978, 92 Stat. 847;Pub. L. 96–513, title V, §511(47), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §924(a), Sept. 24, 1983, 97 Stat. 644; Pub. L. 101–189, div. A, title XIV, §1404(b)(1), Nov. 29, 1989, 103 Stat. 1586; renumbered §12731 and amended Pub. L. 103–337, div. A, title VI, §636, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2790, 2999; Pub. L. 104–106, div. A, title XV, §1501(b)(20), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–261, div. A, title V, §561(n)(1), Oct. 17, 1998, 112 Stat. 2026.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1331; Pub. L. 85–704, Aug. 21, 1958, 72 Stat. 702; Pub. L. 85–861, §33(a)(8), Sept. 2, 1958, 72 Stat. 1564; Pub. L. 89–652, §1, Oct. 14, 1966, 80 Stat. 902; Pub. L. 90–485, §2, Aug. 13, 1968, 82 Stat. 754; Pub. L. 95–397, title II, §206, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–513, title V, §511(47), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §924(a), Sept. 24, 1983, 97 Stat. 644; Pub. L. 101–189, div. A, title XIV, §1404(b)(1), Nov. 29, 1989, 103 Stat. 1586; renumbered §12731 and amended Pub. L. 103–337, div. A, title VI, §636, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2790, 2999; Pub. L. 104–106, div. A, title XV, §1501(b)(20), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–261, div. A, title V, §561(n)(1), Oct. 17, 1998, 112 Stat. 2026.)
 
 Historical and Revision Notes<br>1956
 
@@ -78,7 +78,7 @@ June 29, 1948, ch. 708, §§302(a), (d), 305 (1st sentence), 62 Stat. 1087–108
 
 34:440i(a) (last proviso).
 
-In subsection (a), the words “is entitled” are substituted for the words “shall \* \* \* be granted”. The words “in the status of a commissioned officer, warrant officer, flight officer, or enlisted person” and the references to reserve components are omitted as surplusage. Reference to the Army and the Air Force without component is inserted, since the words “reserve component”, as used in 10:1036a(a), include all members of the Army and the Air Force except members of the regular components thereof. The words “service, computed under section 1332 of this title” are substituted for the words “satisfactory Federal service” to make it clear that some service that is not normally covered by the latter term may be counted in determining rights to retired pay under this chapter. Section 311 of the source statute, which made title III of that act applicable to the Coast Guard, was expressly repealed by the Act of August 4, 1949, ch. 393, §20, 63 Stat. 565, the act which codified Title 14 of the United States Code. 14 U.S.C. 755(e) provides for Coast Guard Reservists the same retirement benefits as those prescribed by law for the Naval Reserve, and, for this purpose, confers upon the Secretary of the Treasury the same authority as that conferred upon the Secretary of the Navy, when the Coast Guard is operating under the Treasury Department. Accordingly, the revised chapter is made expressly applicable to the Coast Guard.
+In subsection (a), the words “is entitled” are substituted for the words “shall \* \* \* be granted”. The words “in the status of a commissioned officer, warrant officer, flight officer, or enlisted person” and the references to reserve components are omitted as surplusage. Reference to the Army and the Air Force without component is inserted, since the words “reserve component”, as used in 10:1036a(a), include all members of the Army and the Air Force except members of the regular components thereof. The words “service, computed under section 1332 of this title” are substituted for the words “satisfactory Federal service” to make it clear that some service that is not normally covered by the latter term may be counted in determining rights to retired pay under this chapter. Section 311 of the source statute, which made title III of that act applicable to the Coast Guard, was expressly repealed by the Act of August 4, 1949, ch. 393, §20, 63 Stat. 565, the act which codified Title 14 of the United States Code. 14 U.S.C. 755(e) provides for Coast Guard Reservists the same retirement benefits as those prescribed by law for the Naval Reserve, and, for this purpose, confers upon theSecretary of the Treasury the same authority as that conferred upon the Secretary of the Navy, when the Coast Guard is operating under the Treasury Department. Accordingly, the revised chapter is made expressly applicable to the Coast Guard.
 
 In subsection (c), the words “the Army without component or other category covered by section 1332(a)(1) of this title” are inserted, since the words “reserve component”, as used in 10:1036a(a), also cover members without component and members of the other special categories listed. The words “annual training duty, or attendance at a school designated as a service school by law or by the Secretary of the appropriate military department” are inserted since the words “active Federal service”, as used in 10:1036a(a), also cover the additional service listed. The words “active duty” are substituted for the words “active Federal service” for uniformity.
 
@@ -166,7 +166,7 @@ Pub. L. 94–448, §2, Oct. 1, 1976, 90 Stat. 1499, provided that: “No benefit
 
 #### Entitlement to Retirement Pay After October 14, 1966; Conclusiveness
 
-Notification of completion of requisite years of service as conclusive for entitlement to retirement pay if made after Oct. 14, 1966, see section 3 of Pub. L. 89–652, set out as a note under section 1406 of this title.
+Notification of completion of requisite years of service as conclusive for entitlement to retirement pay ifmade after Oct. 14, 1966, see section 3 of Pub. L. 89–652, set out as a note under section 1406 of this title.
 
 #### Cross References
 
@@ -178,5 +178,5 @@ Years of service, computation of, see section 1405 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1331, 1370, 1405, 1406, 1407, 1408, 1447, 1448, 1482, 4342, 6954, 9342, 12731a, 12732, 12738 of this title.
+This section is referred to in sections 1331, 1370, 1405, 1406, 1407, 1408, 1447, 1448, 1482, 4342, 6954, 9342, 12731a, 12731b, 12732, 12738 of this title.
 

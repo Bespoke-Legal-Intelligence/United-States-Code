@@ -2,7 +2,7 @@
 
 #### (a) Withdrawals on determination of tax
 
-Wine may be withdrawn from bonded wine cellars on payment or determination of the taxthereon, under such regulations as the Secretary shall prescribe.
+Wine may be withdrawn from bonded wine cellars on payment or determination of the tax thereon, under such regulations as the Secretary shall prescribe.
 
 #### (b) Transfers of wine between bonded premises
 
@@ -24,7 +24,7 @@ Wine may be withdrawn from bonded wine cellars on payment or determination of th
 
 #### (4) Transfer in bond not treated as removal for consumption or sale
 
-&emsp;For purposes of this chapter, the removal of wine for transfer in bond between bonded premises shall not be treated as a removal for consumption or sale.
+&emsp;For purposes of this chapter, the removal of wine for transfer in bond between bondedpremises shall not be treated as a removal for consumption or sale.
 
 #### (5) Bonded premises
 

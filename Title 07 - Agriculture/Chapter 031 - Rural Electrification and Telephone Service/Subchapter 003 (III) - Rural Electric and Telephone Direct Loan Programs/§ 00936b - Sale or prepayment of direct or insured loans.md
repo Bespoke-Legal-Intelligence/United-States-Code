@@ -46,7 +46,7 @@
 
 #### (C) Distribution borrowers
 
-&emsp;&emsp;A distribution borrower not in default on the repayment of loans made or insuredunder this chapter shall be eligible for discounted prepayment as provided in this subsection. For the purpose of determining eligibility for discounted prepayment under this subsection or eligibility for assistance under this chapter, a default by a borrower from which a distribution borrower purchases wholesale power shall not be considered a default by the distribution borrower.
+&emsp;&emsp;A distribution borrower not in default on the repayment of loans made or insured under this chapter shall be eligible for discounted prepayment as provided in this subsection. For the purpose of determining eligibility for discounted prepayment under this subsection or eligibility for assistance under this chapter, a default by a borrower from which a distribution borrower purchases wholesale power shall not be considered a default by the distribution borrower.
 
 #### (6) Definitions
 

@@ -336,6 +336,10 @@ I74subpart 1—general authority
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in sections 1422b, 1426 of this title.
+
 
 ---
 

@@ -66,7 +66,7 @@
 
 &emsp;(4) The term “health-care resource” includes hospital care, medical services, and rehabilitative services, as those terms are defined in paragraphs (5), (6), and (8), respectively, of section 1701 of this title, any other health-care service, and any health-care support or administrative resource.
 
-&emsp;(5) The term “primary beneficiary” (A) with respect to the Department means a person who is eligible under this title (other than under section 1711(b) or 1713 or subsection (d) of this section) or any other provision of law for care or services in Department medical facilities, and (B) with respect to the Department of Defense, means a member or former member of the Armed Forces who is eligible for care under section 1074 of title 10.
+&emsp;(5) The term “primary beneficiary” (A) with respect to the Department means a person whois eligible under this title (other than under section 1711(b) or 1713 or subsection (d) of this section) or any other provision of law for care or services in Department medical facilities, and (B) with respect to the Department of Defense, means a member or former member of the Armed Forces who is eligible for care under section 1074 of title 10.
 
 &emsp;(6) The term “providing agency” means the Department, in the case of care or services furnished by a facility of the Department, and the Department of Defense, in the case of care or services furnished by a facility of the Department of Defense.
 
@@ -117,6 +117,52 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 Subsec. (a). Pub. L. 97–174, §3(a)(1), (2), designated existing provisions as subsec. (a) and substituted “material, and other resources as may be needed to operate such facilities properly, except that the Administrator may not enter into an agreement that would result (1) in a permanent reduction in the total number of authorized Veterans’ Administration hospital beds and nursing home beds to a level below the minimum number of such beds required by section 5010(a)(1) of this title to be authorized, or (2) in a permanent reduction in the total number of such beds operated and maintained to a level below the minimum number of such beds required by such section to be operated and maintained” for “and material as may be needed to operate such facilities properly, or for the transfer, without reimbursement of appropriations, of facilities, supplies, equipment, or material necessary and proper for authorized care for veterans, except that at no time shall the Administrator enter into any agreement which will result in a permanent reduction of Veterans’ Administration hospital and domiciliary beds below the number established or approved on June 22, 1944, plus the estimated number required to meet the load of eligibles under this title,”.
 
 Subsecs. (b) to (g). Pub. L. 97–174, §3(a)(3), added subsecs. (b) to (g).
+
+#### Access to Care for TRICARE-Eligible Military Retirees
+
+Pub. L. 106–117, title I, §113, Nov. 30, 1999, 113 Stat. 1556, provided that:
+
+“(a)
+
+Interagency Agreement.—(1) The Secretary of Defense shall enter into an agreement (characterized as a memorandum of understanding or otherwise) with the Secretary of Veterans Affairs with respect to the provision of medical care by the Secretary of Veterans Affairs to eligible military retirees in accordance with the provisions of subsection (c). That agreement shall include provisions for reimbursement of the Secretary of Veterans Affairs by the Secretary of Defense for medical care provided by the Secretary of Veterans Affairs to an eligible military retiree and may include such other provisions with respect to the terms and conditions of such care as may be agreed upon by the two Secretaries.
+
+“(2) Reimbursement under the agreement under paragraph (1) shall be in accordance with rates agreed upon by the Secretary of Defense and the Secretary of Veterans Affairs. Such reimbursement may be made by the Secretary of Defense or by the appropriate TRICARE Managed Care Support contractor, as determined in accordance with that agreement.
+
+“(3) In entering into the agreement under paragraph (1), particularly with respect to determination of the rates of reimbursement under paragraph (2), the Secretary of Defense shall consult with TRICARE Managed Care Support contractors.
+
+“(4) The Secretary of Veterans Affairs may not enter into an agreement under paragraph (1) for the provision of care in accordance with the provisions of subsection (c) with respect to any geographic service area, or a part of any such area, of the Veterans Health Administration unless—
+
+&emsp;“(A) in the judgment of that Secretary, the Department of Veterans Affairs will recover the costs of providing such care to eligible military retirees; and
+
+&emsp;“(B) that Secretary has certified and documented, with respect to any geographic service area in which the Secretary proposes to provide care in accordance with the provisions of subsection (c), that such geographic service area, or designated part of any sucharea, has adequate capacity (consistent with the requirements in section 1705(b)(1) of title 38, United States Code, that care to enrollees shall be timely and acceptable in quality) to provide such care.
+
+“(5) The agreement under paragraph (1) shall be entered into by the Secretaries not later than nine months after the date of the enactment of this Act \[Nov. 30, 1999\]. If the Secretaries are unable to reach agreement, they shall jointly report, by that date or within 30 days thereafter, to the Committees on Armed Services and the Committees on Veterans’ Affairs of the Senate and House of Representatives on the reasons for their inability to reach an agreement and their mutually agreed plan for removing any impediments to final agreement.
+
+“(b)
+
+Depositing of Reimbursements.—Amounts received by the Secretary of Veterans Affairs under the agreement under subsection (a) shall be deposited in the Department of Veterans Affairs Health Services Improvement Fund established under section 1729B of title 38, United States Code, as added by section 202.
+
+“(c)
+
+Copayment Requirement.—The provisions of subsections (f)(1) and (g)(1) of section 1710 of title 38, United States Code, shall not apply in the case of an eligible military retiree who is covered by the agreement under subsection (a).
+
+“(d)
+
+Phased Implementation.—(1) The Secretary of Defense shall include in each TRICARE contract entered into after the date of the enactment of this Act \[Nov. 30, 1999\] provisions to implement the agreement under subsection (a).
+
+“(2) The provisions of the agreement under subsection (a)(2) and the provisions of subsection (c) shall apply to the furnishing of medical care by the Secretary of Veterans Affairs in any area of the United States only if that area is covered by a TRICARE contract that was entered into after the date of the enactment of this Act.
+
+“(e)
+
+Eligible Military Retirees.—For purposes of this section, an eligible military retiree is a member of the Army, Navy, Air Force, or Marine Corps who—
+
+&emsp;“(1) has retired from active military, naval, or air service;
+
+&emsp;“(2) is eligible for care under the TRICARE program established by the Secretary of Defense;
+
+&emsp;“(3) has enrolled for care under section 1705 of title 38, United States Code; and
+
+&emsp;“(4) is not described in paragraph (1) or (2) of section 1710(a) of such title.”
 
 #### Health-Care Sharing Agreements Between Department of Veterans Affairs and Department of Defense
 

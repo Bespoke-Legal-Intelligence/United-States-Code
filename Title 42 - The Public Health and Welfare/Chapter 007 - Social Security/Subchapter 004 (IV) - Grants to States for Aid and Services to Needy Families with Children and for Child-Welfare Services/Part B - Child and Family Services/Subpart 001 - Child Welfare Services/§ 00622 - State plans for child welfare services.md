@@ -168,7 +168,7 @@ Section 10403(b)(2) of Pub. L. 101–239 provided that: “The amendment made by
 
 #### Effective Date of 1975 Amendment
 
-Amendment by section 3 of Pub. L. 93–647 effective with respect to payments under sections 603 and 803 of this title for quarters commencing after Sept. 30, 1975, except that amendment by section 3(a) of Pub. L. 93–647 not effective with respect to the Commonwealth of Puerto Rico, the Virgin Islands, or Guam, see section 7(b) of Pub. L. 93–647, set out as a note under section 303 of this title.
+Amendment by section 3 of Pub. L. 93–647 effective with respect to payments under sections 603 and 803 ofthis title for quarters commencing after Sept. 30, 1975, except that amendment by section 3(a) of Pub. L. 93–647 not effective with respect to the Commonwealth of Puerto Rico, the Virgin Islands, or Guam, see section 7(b) of Pub. L. 93–647, set out as a note under section 303 of this title.
 
 #### Effective Date of 1968 Amendment; Different State Agencies for Administration of State Plans Under Parts A and B
 

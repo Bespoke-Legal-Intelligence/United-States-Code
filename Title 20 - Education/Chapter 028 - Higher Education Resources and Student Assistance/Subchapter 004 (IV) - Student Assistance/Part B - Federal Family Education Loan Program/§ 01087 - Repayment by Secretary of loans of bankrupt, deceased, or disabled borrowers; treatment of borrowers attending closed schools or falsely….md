@@ -22,7 +22,7 @@ The Secretary shall pay to the holder of a loan described in section 1078(a)(1)(
 
 #### (2) Assignment
 
-&emsp;A borrower whose loan has been discharged pursuant to this subsection shall be deemed tohave assigned to the United States the right to a loan refund up to the amount discharged against the institution and its affiliates and principals.
+&emsp;A borrower whose loan has been discharged pursuant to this subsection shall be deemed to have assigned to the United States the right to a loan refund up to the amount discharged against the institution and its affiliates and principals.
 
 #### (3) Eligibility for additional assistance
 

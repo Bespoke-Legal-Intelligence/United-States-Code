@@ -20,7 +20,7 @@ State preservation plans shall be submitted in such form and in accordance with 
 
 &emsp;(6) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of title 42 that the proposed activities are consistent with the approved housing strategy of the State within which the eligible low-income housing is located; and
 
-&emsp;(7) such other certifications or information that the Secretary determines to be necessary or appropriate to achieve the purposes of this subchapter.
+&emsp;(7) such other certifications or information that the Secretary determines to be necessaryor appropriate to achieve the purposes of this subchapter.
 
 #### (c) Implementation agreements
 

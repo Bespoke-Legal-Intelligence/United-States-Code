@@ -108,7 +108,7 @@ Each State educational agency and local educational agency receiving funds under
 
 &emsp;&emsp;(A) annually review the progress of each local educational agency receiving funds under this part to determine whether schools receiving assistance under this part are making adequate progress as defined in section 6311(b)(2)(A)(ii) of this title toward meeting the State's student performance standards; and
 
-&emsp;&emsp;(B) publicize and disseminate to local educational agencies, teachers and other staff, parents, students, and the community theresults of the State review, including statistically sound disaggregated results, as required by section 6311(b)(3)(I) of this title.
+&emsp;&emsp;(B) publicize and disseminate to local educational agencies, teachers and other staff, parents, students, and the community the results of the State review, including statistically sound disaggregated results, as required by section 6311(b)(3)(I) of this title.
 
 #### (2) Rewards
 
@@ -126,7 +126,7 @@ Each State educational agency and local educational agency receiving funds under
 
 #### (4) Local educational agency revisions
 
-&emsp;(A) Each local educational agency identified under paragraph (3) shall, in consultation with schools, parents, and educational experts, revise its local educational agency plan under section 6312 of this title in ways that have the greatest likelihood of improving the performance of schools served by the local educational agency under this part in meeting the State's student performance standards.
+&emsp;(A) Each local educational agency identified under paragraph (3) shall, in consultation withschools, parents, and educational experts, revise its local educational agency plan under section 6312 of this title in ways that have the greatest likelihood of improving the performance of schools served by the local educational agency under this part in meeting the State's student performance standards.
 
 &emsp;(B) Such revision shall include determining why the local educational agency's plan failed to bring about increased achievement.
 
@@ -188,7 +188,7 @@ Section 1020 of the Elementary and Secondary Education Act of 1965 (as such sect
 
 #### Amendments
 
-1996—Subsec. (c)(2)(A)(i). Pub. L. 104–134, §101(d) \[title VII, §703(b)(2)(A)(i)\], struck out “, which may include reviewing the schools’ plan in the context of the opportunity-to-learn standards or strategies developed by such State under the Goals 2000: Educate America Act” after “student performance standards”.
+1996—Subsec. (c)(2)(A)(i). Pub. L. 104–134, §101(d) \[title VII, §703(b)(2)(A)(i)\], struck out “, which may includereviewing the schools’ plan in the context of the opportunity-to-learn standards or strategies developed by such State under the Goals 2000: Educate America Act” after “student performance standards”.
 
 Subsec. (c)(5)(B)(i)(VI) to (VIII). Pub. L. 104–134, §101(d) \[title VII, §703(b)(2)(A)(ii)\], inserted “and” at end of subcl. (VI), substituted period for “; and” at end of subcl. (VII), and struck out subcl. (VIII) which read as follows: “implementing opportunity-to-learn standards or strategies developed by such State under the Goals 2000: Educate America Act.”
 
@@ -198,5 +198,5 @@ Subsec. (d)(6)(B)(i)(IV) to (VIII). Pub. L. 104–134, §101(d) \[title VII, §7
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6302, 6303, 6311, 6312, 6314, 6318, 6319, 6320, 6661d, 6661e, 7351 of this title.
+This section is referred to in sections 5891b, 6302, 6303, 6311, 6312, 6314, 6318, 6319, 6320, 6661d, 6661e, 7351 of this title.
 

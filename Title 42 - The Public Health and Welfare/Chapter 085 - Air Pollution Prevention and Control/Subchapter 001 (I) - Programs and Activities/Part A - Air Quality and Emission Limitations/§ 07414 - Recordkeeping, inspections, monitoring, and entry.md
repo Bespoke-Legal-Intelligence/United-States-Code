@@ -36,7 +36,7 @@ For the purpose (i) of developing or assisting in the development of any impleme
 
 #### (c) Availability of records, reports, and information to public; disclosure of trade secrets
 
-Any records, reports or information obtained under subsection (a) of this section shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that records, reports, or information, or particular part thereof, (other than emission data) to which the Administrator has access under this section if made public, would divulge methods or processes entitled to protection as trade secrets of such person, the Administrator shall consider such record, report, or information or particular portion thereof confidential in accordance with the purposes of section 1905 of title 18, except that such record, report, or information may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter or when relevant in any proceeding under this chapter.
+Any records, reports or information obtained under subsection (a) of this section shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that records, reports, or information, or particular part thereof, (other than emission data) to which the Administrator has access under this section if made public, would divulge methods or processes entitled to protection as trade secrets of such person, the Administrator shall consider such record, report, or information or particular portion thereof confidential in accordance with the purposes of section 1905 of title 18, except that such record, report, or information may be disclosed to other officers, employees, or authorized representatives of theUnited States concerned with carrying out this chapter or when relevant in any proceeding under this chapter.
 
 #### (d) Notice of proposed entry, inspection, or monitoring
 
@@ -68,7 +68,7 @@ Subsec. (a)(3). Pub. L. 101–549, §702(b), added par. (3).
 
 1977—Subsec. (a). Pub. L. 95–190, §14(a)(22), inserted reference to subchapter II of this chapter and “new” before “motor” in two places.
 
-Pub. L. 95–95, §305(d), substituted “carrying out any provision of this chapter (except with respect to a manufacturer of motor vehicles or motor vehicle engines)” for “carrying out sections 119 or 303” in cl. (iii) preceding par. (1), substituted “any person subject to any requirement of this chapter (other than a manufacturer subject to the provisions of sections 7525(c) or 7542 of this title)” for “the owner or operator of any emission source” in par. (1), substituted “any premises of such person” for “any premises in which an emission source is located” in subpar. (A) of par. (2), and substituted “emissions which such person is required to sample”for “emissions which the owner or operator of such source is required to sample” in subpar. (B) of subpar. (2).
+Pub. L. 95–95, §305(d), substituted “carrying out any provision of this chapter (except with respect to a manufacturer of motor vehicles or motor vehicle engines)” for “carrying out sections 119 or 303” in cl. (iii) preceding par. (1), substituted “any person subject to any requirement of this chapter (other than a manufacturer subject to the provisions of sections 7525(c) or 7542 of this title)” for “the owner or operator of any emission source” in par. (1), substituted “any premises of such person” for “any premises in which an emission source is located” in subpar. (A) of par. (2), and substituted “emissions which such person is required to sample” for “emissions which the owner or operator of such source is required to sample” in subpar. (B) of subpar. (2).
 
 Subsec. (a)(1). Pub. L. 95–190, §14(a)(23), inserted reference to subchapter II of this chapter and “who owns or operates any emission source or who is” after “any person”.
 
@@ -88,7 +88,7 @@ Suits, actions, and other proceedings lawfully commenced by or against the Admin
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, orother actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Section Referred to in Other Sections
 

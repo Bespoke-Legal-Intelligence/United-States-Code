@@ -128,9 +128,9 @@ For purposes of this chapter:
 
 &emsp;&emsp;(ix) Hui No Ke Ola Pono, or a health care system serving the island of Maui, and which may be composed of as many health care centers as are necessary to meet the health care needs of the Native Hawaiians of that island;
 
-&emsp;&emsp;(x) Hui Malama Ola Ha'Oiwi or a health care system serving the island of Hawaii, and which may be composed of as many health care centers as are necessary to meetthe health care needs of the Native Hawaiians of that island; and
+&emsp;&emsp;(x) Hui Malama Ola Ha'Oiwi or a health care system serving the island of Hawaii, and which may be composed of as many health care centers as are necessary to meet the health care needs of the Native Hawaiians of that island; and
 
-&emsp;&emsp;(xi) such other member organizations as the Board of Papa Ola Lokahi may admit from time to time, based upon satisfactory demonstration of a record of contribution to the health and well-being of Native Hawaiians, and upon satisfactory development of a mission statement in relation to this chapter, including clearly defined goals and objectives, a 5-year action plan outlining the contributions that each organization will make in carrying out the policy of this chapter, and an estimated budget.
+&emsp;&emsp;(xi) such other member organizations as the Board of Papa Ola Lokahi may admit from time to time, based upon satisfactory demonstration of a record of contribution to the health and well-being of Native Hawaiians, and upon satisfactory development of a mission statement in relation to this chapter, including clearly defined goals and objectives, a 5-year action plan outlining thecontributions that each organization will make in carrying out the policy of this chapter, and an estimated budget.
 
 &emsp;(B) Such term does not include any such organization identified in subparagraph (A) if the Secretary determines that such organization has not developed a mission statement with clearly defined goals and objectives for the contributions the organization will make to the Native Hawaiian health care systems, and an action plan for carrying out those goals and objectives.
 

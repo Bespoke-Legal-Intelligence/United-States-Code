@@ -74,7 +74,9 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Term of President's Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of President's Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 1999, by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of President's Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(e), Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of President's Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Determinations Regarding President's Board of Advisors
 

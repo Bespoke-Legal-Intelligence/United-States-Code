@@ -22,7 +22,7 @@ For purposes of this subchapter—
 
 #### (4) Ton
 
-&emsp;The term “ton” means 2,000 pounds. In the case of any taxable chemical which is a gas, the term “ton” means the amount of such gas in cubic feet which is the equivalent of 2,000 pounds on a molecular weight basis.
+&emsp;The term “ton” means 2,000 pounds. In the case of any taxable chemical which is a gas, the term “ton” means the amount of such gasin cubic feet which is the equivalent of 2,000 pounds on a molecular weight basis.
 
 #### (5) Fractional part of ton
 
@@ -126,7 +126,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;No tax shall be imposed under section 4661(a) on any chromium, cobalt, or nickel which is diverted or recovered in the United States from any solid waste as part of a recycling process (and not as part of the original manufacturing or production process).
+&emsp;&emsp;No tax shall be imposed under section 4661(a) on any chromium, cobalt, or nickelwhich is diverted or recovered in the United States from any solid waste as part of a recycling process (and not as part of the original manufacturing or production process).
 
 #### (B) Exemption not to apply while corrective action uncompleted
 
@@ -234,7 +234,7 @@ For purposes of this subchapter—
 
 #### (C) Inventory exchange
 
-&emsp;&emsp;For purposes of this paragraph, the term “inventory exchange” means any exchange in which 2 persons exchange property which is, in the hands of each person, property described in section 1221(1).
+&emsp;&emsp;For purposes of this paragraph, the term “inventory exchange” means any exchange in which 2 persons exchange property which is, in the hands of each person, property described in section 1221(a)(1).
 
 #### (d) Refund or credit for certain uses
 
@@ -276,7 +276,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) any person uses such substance as a qualified animal feed substance,
 
-> &emsp;then an amount equal to the excess of the tax so paid over the tax determined with regard to subsection (b)(9) shall be allowed as a credit orrefund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.
+> &emsp;then an amount equal to the excess of the tax so paid over the tax determined with regard to subsection (b)(9) shall be allowed as a credit or refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.
 
 #### (e) Exemption for exports of taxable chemicals
 
@@ -328,7 +328,7 @@ For purposes of this subchapter—
 
 The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply to any tax imposed by section 4661.
 
-(Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2799; amended Pub. L. 98–369, div. A, title X, §1019(a)–(c), July 18, 1984, 98 Stat. 1022–1024; Pub. L. 99–499, title V, §513(b)–(g), Oct. 17, 1986, 100 Stat. 1762–1765; Pub. L. 100–647, title II, §2001(a), Nov. 10, 1988, 102 Stat. 3593.)
+(Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2799; amended Pub. L. 98–369, div. A, title X, §1019(a)–(c), July 18, 1984, 98 Stat. 1022–1024; Pub. L. 99–499, title V, §513(b)–(g), Oct. 17, 1986, 100 Stat. 1762–1765; Pub. L. 100–647, title II, §2001(a), Nov. 10, 1988, 102 Stat. 3593; Pub. L. 106–170, title V, §532(c)(2)(U), Dec. 17, 1999, 113 Stat. 1931.)
 
 #### References in Text
 
@@ -337,6 +337,8 @@ Sections 3005, 3004, and 3008 of the Solid Waste Disposal Act, referred to in su
 Section 106 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (b)(8)(C)(i)(II), is classified to section 9606 of Title 42.
 
 #### Amendments
+
+1999—Subsec. (c)(2)(C). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
 
 1988—Subsec. (b)(10)(A). Pub. L. 100–647, §2001(a)(2), substituted “one or more” for “a mixture of”.
 
@@ -371,6 +373,10 @@ Subsec. (c). Pub. L. 98–369, §1019(c), substituted “Except as provided in s
 Subsec. (d)(2)(B). Pub. L. 98–369, §1019(b)(2)(B), inserted “fertilizer” after “qualified” and struck out “, or sells such substance for use,” after “such substance”.
 
 Subsec. (d)(3). Pub. L. 98–369, §1019(a)(2), added par. (3).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
 
 #### Effective Date of 1988 Amendment
 

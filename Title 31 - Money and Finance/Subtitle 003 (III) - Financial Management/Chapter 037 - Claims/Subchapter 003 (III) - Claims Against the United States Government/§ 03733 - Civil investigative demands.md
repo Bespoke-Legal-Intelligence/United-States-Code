@@ -68,11 +68,11 @@ In general.—A civil investigative demand issued under subsection (a) may not r
 
 &emsp;&emsp;(A) the standards applicable to subpoenas or subpoenas duces tecum issued by a court of the United States to aid in a grand jury investigation; or
 
-&emsp;&emsp;(B) the standards applicable to discovery requests under the Federal Rules of Civil Procedure, to the extent that the application of such standards to any such demand isappropriate and consistent with the provisions and purposes of this section.
+&emsp;&emsp;(B) the standards applicable to discovery requests under the Federal Rules of Civil Procedure, to the extent that the application of such standards to any such demand is appropriate and consistent with the provisions and purposes of this section.
 
 &emsp;(2)
 
-Effect on other orders, rules, and laws.—Any such demand which is an express demand for any product of discovery supersedes any inconsistent order, rule, or provision of law (other than this section) preventing or restraining disclosure of such product of discovery to any person. Disclosure of any product of discovery pursuant to any such express demand does not constitute a waiver of any right or privilege which the person making such disclosure may be entitled to invoke to resist discovery of trial preparation materials.
+Effect on other orders, rules, and laws.—Any such demand which is an express demand for any product of discovery supersedes any inconsistent order, rule, or provision of law (other than this section) preventing or restraining disclosure of such product of discovery to any person. Disclosure of any product of discovery pursuant to any such express demand does not constitute a waiver of anyright or privilege which the person making such disclosure may be entitled to invoke to resist discovery of trial preparation materials.
 
 (c)
 
@@ -138,7 +138,7 @@ Interrogatories.—Each interrogatory in a civil investigative demand served und
 
 &emsp;(2) in the case of a person other than a natural person, the person or persons responsible for answering each interrogatory.
 
-> If any interrogatory is objected to, the reasons for the objection shall be stated in the certificate instead of an answer. The certificate shall state that all information required by the demand and in the possession, custody, control, or knowledge of the person to whom the demand isdirected has been submitted. To the extent that any information is not furnished, the information shall be identified and reasons set forth with particularity regarding the reasons why the information was not furnished.
+> If any interrogatory is objected to, the reasons for the objection shall be stated in the certificate instead of an answer. The certificate shall state that all information required by the demand and in the possession, custody, control, or knowledge of the person to whom the demand is directed has been submitted. To the extent that any information is not furnished, the information shall be identified and reasons set forth with particularity regarding the reasons why the information was not furnished.
 
 (h)
 
@@ -146,7 +146,7 @@ Oral Examinations.—
 
 &emsp;(1)
 
-Procedures.—The examination of any person pursuant to a civil investigative demand for oral testimony served under this section shall be taken before an officer authorized to administer oaths and affirmations by the laws of the United States or of the place where the examination is held. The officer before whom the testimony is to be taken shall put the witness on oath or affirmation and shall, personally or by someone acting under the direction of the officer and in the officer's presence, record the testimony of the witness. The testimony shall be taken stenographically and shall be transcribed. When the testimony is fully transcribed, the officer before whom the testimony is taken shall promptly transmit a copy of the transcript of the testimony to the custodian. This subsection shall not preclude the taking of testimony by any means authorized by, and in a manner consistent with, the Federal Rules of Civil Procedure.
+Procedures.—The examination of any person pursuant to a civil investigative demand for oral testimony served under this section shall be taken before an officer authorized to administer oaths and affirmations by the laws of the United States or of the placewhere the examination is held. The officer before whom the testimony is to be taken shall put the witness on oath or affirmation and shall, personally or by someone acting under the direction of the officer and in the officer's presence, record the testimony of the witness. The testimony shall be taken stenographically and shall be transcribed. When the testimony is fully transcribed, the officer before whom the testimony is taken shall promptly transmit a copy of the transcript of the testimony to the custodian. This subsection shall not preclude the taking of testimony by any means authorized by, and in a manner consistent with, the Federal Rules of Civil Procedure.
 
 &emsp;(2)
 
@@ -188,9 +188,9 @@ Designation.—The Attorney General shall designate a false claims law investiga
 
 &emsp;(2)
 
-Responsibility for materials; disclosure.—(A) A false claims law investigator whoreceives any documentary material, answers to interrogatories, or transcripts of oral testimony under this section shall transmit them to the custodian. The custodian shall take physical possession of such material, answers, or transcripts and shall be responsible for the use made of them and for the return of documentary material under paragraph (4).
+Responsibility for materials; disclosure.—(A) A false claims law investigator who receives any documentary material, answers to interrogatories, or transcripts of oral testimony under this section shall transmit them to the custodian. The custodian shall take physical possession of such material, answers, or transcripts and shall be responsible for the use made of them and for the return of documentary material under paragraph (4).
 
-&emsp;(B) The custodian may cause the preparation of such copies of such documentary material, answers to interrogatories, or transcripts of oral testimony as may be required for official use by any false claims law investigator, or other officer or employee of the Department of Justice, who is authorized for such use under regulations which the Attorney General shall issue. Such material, answers, and transcripts may be used by any such authorized false claims law investigator or other officer or employee in connection with the taking of oral testimony under this section.
+&emsp;(B) The custodian may cause the preparation of such copies of such documentary material, answers to interrogatories, or transcripts of oral testimony as may be required for officialuse by any false claims law investigator, or other officer or employee of the Department of Justice, who is authorized for such use under regulations which the Attorney General shall issue. Such material, answers, and transcripts may be used by any such authorized false claims law investigator or other officer or employee in connection with the taking of oral testimony under this section.
 
 &emsp;(C) Except as otherwise provided in this subsection, no documentary material, answers to interrogatories, or transcripts of oral testimony, or copies thereof, while in the possession of the custodian, shall be available for examination by any individual other than a false claims law investigator or other officer or employee of the Department of Justice authorized under subparagraph (B). The prohibition in the preceding sentence on the availability of material, answers, or transcripts shall not apply if consent is given by the person who produced such material, answers, or transcripts, or, in the case of any product of discovery produced pursuant to an express demand for such material, consent is given by the person from whom the discovery was obtained. Nothing in this subparagraph is intended to prevent disclosure to the Congress, including any committee or subcommittee of the Congress, or to any other agency of the United States for use by such agency in furtherance of its statutory responsibilities. Disclosure of information to any such other agency shall be allowed only upon application, made by the Attorney General to a United States district court, showing substantial need for the use of the information by such agency in furtherance of its statutory responsibilities.
 
@@ -280,11 +280,11 @@ Definitions.—For purposes of this section—
 
 &emsp;(2) the term “false claims law investigation” means any inquiry conducted by any false claims law investigator for the purpose of ascertaining whether any person is or has been engaged in any violation of a false claims law;
 
-&emsp;(3) the term “false claims law investigator” means any attorney or investigator employedby the Department of Justice who is charged with the duty of enforcing or carrying into effect any false claims law, or any officer or employee of the United States acting under the direction and supervision of such attorney or investigator in connection with a false claims law investigation;
+&emsp;(3) the term “false claims law investigator” means any attorney or investigator employed by the Department of Justice who is charged with the duty of enforcing or carrying into effect any false claims law, or any officer or employee of the United States acting under the direction and supervision of such attorney or investigator in connection with a false claims law investigation;
 
 &emsp;(4) the term “person” means any natural person, partnership, corporation, association, or other legal entity, including any State or political subdivision of a State;
 
-&emsp;(5) the term “documentary material” includes the original or any copy of any book, record, report, memorandum, paper, communication, tabulation, chart, or other document, or data compilations stored in or accessible through computer or other information retrieval systems, together with instructions and all other materials necessary to use or interpret such data compilations, and any product of discovery;
+&emsp;(5) the term “documentary material” includes the original or any copy of any book,record, report, memorandum, paper, communication, tabulation, chart, or other document, or data compilations stored in or accessible through computer or other information retrieval systems, together with instructions and all other materials necessary to use or interpret such data compilations, and any product of discovery;
 
 &emsp;(6) the term “custodian” means the custodian, or any deputy custodian, designated by the Attorney General under subsection (i)(1); and
 

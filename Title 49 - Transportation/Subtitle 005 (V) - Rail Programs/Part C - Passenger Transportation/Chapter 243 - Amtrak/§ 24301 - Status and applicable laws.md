@@ -12,7 +12,7 @@ Status.—Amtrak—
 
 (b)
 
-Principal Office and Place of Business.—The principal office and place of business of Amtrak are in the District of Columbia. Amtrak is qualified to do business in each State in which Amtrak carries out an activity authorizedunder this part. Amtrak shall accept service of process by certified mail addressed to the secretary of Amtrak at its principal office and place of business. Amtrak is a citizen only of the District of Columbia when deciding original jurisdiction of the district courts of the United States in a civil action.
+Principal Office and Place of Business.—The principal office and place of business of Amtrak are in the District of Columbia. Amtrak is qualified to do business in each State in which Amtrak carries out an activity authorized under this part. Amtrak shall accept service of process by certified mail addressed to the secretary of Amtrak at its principal office and place of business. Amtrak is a citizen only of the District of Columbia when deciding original jurisdiction of the district courts of the United States in a civil action.
 
 (c)
 
@@ -28,7 +28,7 @@ Application of Certain Additional Laws.—Section 552 of title 5, this part, and
 
 (f)
 
-Tax Exemption for Certain Commuter Authorities.—A commuter authority that was eligible to make a contract with Amtrak Commuter to provide commuter rail passenger transportation but which decided to provide its own rail passenger transportation beginning January 1, 1983, is exempt, effective October 1, 1981, from paying a tax or fee to the same extent Amtrak is exempt.
+Tax Exemption for Certain Commuter Authorities.—A commuter authority that was eligible to make a contract with Amtrak Commuter to provide commuter rail passengertransportation but which decided to provide its own rail passenger transportation beginning January 1, 1983, is exempt, effective October 1, 1981, from paying a tax or fee to the same extent Amtrak is exempt.
 
 (g)
 
@@ -316,5 +316,5 @@ Pub. L. 105–134, title I, §110(b), Dec. 2, 1997, 111 Stat. 2574, provided tha
 
 #### Exemption From Laws Relating to Abandoned or Unclaimed Property
 
-Pub. L. 104–205, title III, §347, Sept. 30, 1996, 110 Stat. 2976, provided that: “Hereinafter, the National Railroad Passenger Corporation (Amtrak) shall be exempted from any State or local law relating to the payment or delivery of abandoned or unclaimed personal property to any government authority, including any provision for the enforcement thereof, with respect to passengerrail tickets for which no refund has been or may be claimed, and such law shall not apply to funds held by Amtrak as a result of the purchase of tickets after April 30, 1972 for which no refund has been claimed.”
+Pub. L. 104–205, title III, §347, Sept. 30, 1996, 110 Stat. 2976, provided that: “Hereinafter, the National Railroad Passenger Corporation (Amtrak) shall be exempted from any State or local law relating to the payment or delivery of abandoned or unclaimed personal property to any government authority, including any provision for the enforcement thereof, with respect to passenger rail tickets for which no refund has been or may be claimed, and such law shall not apply to funds held by Amtrak as a result of the purchase of tickets after April 30, 1972 for which no refund has been claimed.”
 

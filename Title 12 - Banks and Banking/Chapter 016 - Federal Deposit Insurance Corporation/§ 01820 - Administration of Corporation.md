@@ -2,7 +2,7 @@
 
 #### (a) Board of Directors; use of mails; cooperation with other Federal agencies
 
-The Board of Directors shall administer the affairs of the Corporation fairly and impartially and without discrimination. The Board of Directors of the Corporation shall determine and prescribe the manner in which its obligations shall be incurred and its expenses allowed and paid. The Corporation shall be entitled to the free use of the United States mails in the same manner as the executive departments of the Government. The Corporation with the consent of any Federal Reserve bank or of any board, commission, independent establishment, or executive department of the Government, including any field service thereof, may avail itself of the use of information, services, and facilities thereof in carrying out the provisions of this chapter.
+The Board of Directors shall administer the affairs of the Corporation fairly and impartially and without discrimination. The Board of Directors of the Corporation shall determine and prescribe the manner in which its obligations shall be incurred and its expenses allowed and paid. The Corporation shall be entitled to the free use of the United States mails in the same manner as the executive departments of the Government. The Corporation with the consent of any Federal Reserve bank or of any board, commission, independent establishment, or executive department of the Government, including any field service thereof, may avail itself of the useof information, services, and facilities thereof in carrying out the provisions of this chapter.
 
 #### (b) Examinations
 
@@ -158,7 +158,7 @@ In connection with examinations of insured depository institutions and any State
 
 &emsp;&emsp;&emsp;(i) refuses to pay any assessment under paragraph (2); or
 
-&emsp;&emsp;&emsp;(ii) fails to pay any such assessment before the end of the 60-day period beginning on the date the affiliate receives notice of the assessment,
+&emsp;&emsp;&emsp;(ii) fails to pay any such assessment before the end of the 60-day period beginningon the date the affiliate receives notice of the assessment,
 
 > &emsp;&emsp;the Corporation may assess such cost against, and collect such cost from, the depository institution.
 
@@ -230,7 +230,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (A) Requirement
 
-&emsp;&emsp;Not later than 1 year after September 23, 1994, and biennially thereafter for the next 4 years, each appropriate Federal banking agency shall submit a report to the Congress on compliance by insured depository institutions with the requirements of the national flood insurance program.
+&emsp;&emsp;Not later than 1 year after September 23, 1994, and biennially thereafter for the next 4years, each appropriate Federal banking agency shall submit a report to the Congress on compliance by insured depository institutions with the requirements of the national flood insurance program.
 
 #### (B) Contents
 
@@ -378,7 +378,7 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 
 #### Expiration of 1966 Amendment
 
-Pub. L. 91–609, title IX, §908, Dec. 31, 1970, 84 Stat. 1811, repealed section 401 of Pub. L. 89–695 which had provided that: “The provisions of titles I and II of this Act \[amending sections 1464, 1730, 1813, 1817 to 1820 and repealing section 77 of this title and enacting provisions set out as notes under sections 1464, 1730, and 1813 of this title\] and any provisions of law enacted by said titles shall be effective only during the period ending at the close of June 30, 1972. Effective upon the expiration of such period, each provision of law amended by either of such titles is further amended to read as it did immediately prior to the enactment of this Act \[Oct. 16, 1966\] and each provision of law repealed by either of such titles is reenacted.”
+Pub. L. 91–609, title IX, §908, Dec. 31, 1970, 84 Stat. 1811, repealed section 401 of Pub. L. 89–695 which hadprovided that: “The provisions of titles I and II of this Act \[amending sections 1464, 1730, 1813, 1817 to 1820 and repealing section 77 of this title and enacting provisions set out as notes under sections 1464, 1730, and 1813 of this title\] and any provisions of law enacted by said titles shall be effective only during the period ending at the close of June 30, 1972. Effective upon the expiration of such period, each provision of law amended by either of such titles is further amended to read as it did immediately prior to the enactment of this Act \[Oct. 16, 1966\] and each provision of law repealed by either of such titles is reenacted.”
 
 #### Effective Date of 1960 Amendment
 
@@ -418,5 +418,5 @@ Punishment for perjury, see section 1621 of Title 18.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1464, 1821, 4204, 4224 of this title; title 18 section 3059A.
+This section is referred to in sections 1464, 1820a, 1821, 1831v, 4204, 4224 of this title; title 18 section 3059A.
 

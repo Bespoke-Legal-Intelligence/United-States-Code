@@ -8,7 +8,7 @@
 
 #### (A) No lifetime limit
 
-&emsp;&emsp;If the plan or coverage does not include an aggregate lifetime limit on substantially all medical and surgical benefits, the plan orcoverage may not impose any aggregate lifetime limit on mental health benefits.
+&emsp;&emsp;If the plan or coverage does not include an aggregate lifetime limit on substantially all medical and surgical benefits, the plan or coverage may not impose any aggregate lifetime limit on mental health benefits.
 
 #### (B) Lifetime limit
 
@@ -20,7 +20,7 @@
 
 #### (C) Rule in case of different limits
 
-&emsp;&emsp;In the case of a plan or coverage that is not described in subparagraph (A) or (B) and that includes no or different aggregate lifetime limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan or coverage with respect to mental health benefits by substituting for the applicable lifetime limit an average aggregate lifetime limit that is computed taking into account the weighted average of the aggregate lifetime limits applicable to such categories.
+&emsp;&emsp;In the case of a plan or coverage that is not described in subparagraph (A) or (B) andthat includes no or different aggregate lifetime limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan or coverage with respect to mental health benefits by substituting for the applicable lifetime limit an average aggregate lifetime limit that is computed taking into account the weighted average of the aggregate lifetime limits applicable to such categories.
 
 #### (2) Annual limits
 

@@ -80,7 +80,7 @@ For purposes of this subpart, the amount of the current year business credit is 
 
 #### (C) Limitations with respect to certain persons
 
-&emsp;&emsp;In the case of a person described in subparagraph (A) or (B) of section 46(e)(1) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), the $25,000 amount specified under subparagraph (B) of paragraph (1) shall equalsuch person's ratable share (as determined under section 46(e)(2) (as so in effect) of such amount.
+&emsp;&emsp;In the case of a person described in subparagraph (A) or (B) of section 46(e)(1) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), the $25,000 amount specified under subparagraph (B) of paragraph (1) shall equal such person's ratable share (as determined under section 46(e)(2) (as so in effect) of such amount.
 
 #### (D) Estates and trusts
 
@@ -108,7 +108,7 @@ For purposes of any provision of this title where it is necessary to ascertain t
 
 &emsp;&emsp;&emsp;(i) to the extent attributable to the employee plan percentage (as defined in section 46(a)(2)(E) as in effect on the day before the date of the enactment of the Tax Reform Act of 1984) shall be treated as a credit listed after paragraph (1) of section 46, and
 
-&emsp;&emsp;&emsp;(ii) to the extent attributable to the regular percentage (as defined in section 46(b)(1) as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall be treated as the first credit listed in section 46.
+&emsp;&emsp;&emsp;(ii) to the extent attributable to the regular percentage (as defined in section46(b)(1) as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall be treated as the first credit listed in section 46.
 
 (Added and amended Pub. L. 98–369, div. A, title IV, §473, title VI, §612(e)(1), July 18, 1984, 98 Stat. 827, 912; Pub. L. 99–514, title II, §§221(a), 231(d)(1), (3)(B), 252(b), title VII, §701(c)(4), title XI, §1171(b)(1), (2), Oct. 22, 1986, 100 Stat. 2173, 2178, 2179, 2205, 2341, 2513; Pub. L. 100–647, title I, §§1002(e)(8)(A), 1007(g)(2), (8), Nov. 10, 1988, 102 Stat. 3368, 3434, 3435; Pub. L. 101–508, title XI, §§11511(b)(1), 11611(b)(1), 11813(b)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–551; Pub. L. 102–486, title XIX, §1914(b), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(1), (c)(1), 13322(a), 13443(b)(1), Aug. 10, 1993, 107 Stat. 555, 559, 569; Pub. L. 104–188, title I, §§1201(e)(1), 1205(a)(2), 1702(e)(4), Aug. 20, 1996, 110 Stat. 1772, 1775, 1870.)
 
@@ -196,7 +196,7 @@ Pub. L. 99–514, §1171(b)(1), struck out former par. (4) which read as follows
 
 Subsec. (b)(5). Pub. L. 99–514, §252(b)(1), added par. (5).
 
-Subsec. (c). Pub. L. 99–514, §701(c)(4), as amended by Pub. L. 100–647, §1007(g)(8), added pars. (1) to (3), redesignated former par. (3) as (4), and struck out former par. (1) “In general” which provided: “The credit allowed under subsection (a) for any taxable year shall not exceed the sum of—
+Subsec. (c). Pub. L. 99–514, §701(c)(4), as amended by Pub. L. 100–647, §1007(g)(8), added pars. (1) to (3), redesignated former par. (3) as (4), and struck out formerpar. (1) “In general” which provided: “The credit allowed under subsection (a) for any taxable year shall not exceed the sum of—
 
 &emsp;“(A) so much of the taxpayer's net tax liability for the taxable year as does not exceed $25,000, plus
 
@@ -248,7 +248,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Subsection (c).—The amendment made by subsection (c) \[amending section 190 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act.”
 
-Amendment by section 11813(b)(2) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) ofthis title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by section 11813(b)(2) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -284,7 +284,7 @@ Amendment by Pub. L. 98–369 applicable to interest paid or accrued after Decem
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 21 of this title.
+Section applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, seesection 475(a) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 21 of this title.
 
 #### Savings Provision
 
@@ -564,7 +564,7 @@ Pub. L. 92–178, title I, §101(c), Dec. 10, 1971, 85 Stat. 499, as amended by 
 
 In general.—It was the intent of Congress in enacting, in the Revenue Act of 1962 \[see Short Title of 1962 Amendment note set out under section 1 of this title\], the investment credit allowed by section 38 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and it is the intent of the Congress in restoring that credit in this Act \[section 50 of this title\], to provide an incentive for modernization and growth of private industry. Accordingly, notwithstanding any other provision of law, on and after the date of the enactment of this Act \[Dec. 10, 1971\]—
 
-&emsp;&emsp;“(A) no taxpayer shall be required to use, for purposes of financial reports subject to the jurisdiction of any Federal agency or reports made to any Federal agency, any particular method of accountingfor the credit allowed by such section 38 \[this section\], and
+&emsp;&emsp;“(A) no taxpayer shall be required to use, for purposes of financial reports subject to the jurisdiction of any Federal agency or reports made to any Federal agency, any particular method of accounting for the credit allowed by such section 38 \[this section\], and
 
 &emsp;&emsp;“(B) a taxpayer shall disclose, in any such report, the method of accounting for such credit used by him for purposes of such report.
 

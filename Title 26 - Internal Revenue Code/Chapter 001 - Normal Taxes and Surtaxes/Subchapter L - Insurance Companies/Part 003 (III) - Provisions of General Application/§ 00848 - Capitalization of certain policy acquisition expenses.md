@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (2) General deductions
 
-&emsp;The term “general deductions” means the deductions provided in part VI of subchapter B (sec. 161 and following, relating to itemized deductions) and in part I of subchapter D (sec. 401 and following, relating to pension, profit sharing, stock bonus plans, etc.).
+&emsp;The term “general deductions” means the deductions provided in part VI of subchapter B\(sec. 161 and following, relating to itemized deductions) and in part I of subchapter D (sec. 401 and following, relating to pension, profit sharing, stock bonus plans, etc.).
 
 #### (d) Net premiums
 
@@ -166,7 +166,7 @@ For purposes of determining adjusted current earnings under section 56(g), acqui
 
 In the case of any taxable year which includes September 30, 1990, the amount taken into account as the net premiums (or negative capitalization amount) with respect to any category of specified insurance contracts shall be the amount which bears the same ratio to the amount which (but for this subsection) would be so taken into account as the number of days in such taxable year on or after September 30, 1990, bears to the total number of days in such taxable year.
 
-(Added Pub. L. 101–508, title XI, §11301(a), Nov. 5, 1990, 104 Stat. 1388–445; amended Pub. L. 103–66,title XIII, §13261(d), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–191, title III, §301(h), Aug. 21, 1996, 110 Stat. 2052.)
+(Added Pub. L. 101–508, title XI, §11301(a), Nov. 5, 1990, 104 Stat. 1388–445; amended Pub. L. 103–66, title XIII, §13261(d), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–191, title III, §301(h), Aug. 21, 1996, 110 Stat. 2052.)
 
 #### Amendments
 

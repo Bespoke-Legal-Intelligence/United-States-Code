@@ -26,6 +26,8 @@ Historical and Revision Notes
 
 36:42.
 
+&nbsp;
+
 21701(b)
 
 36:44 (words before 4th semicolon related to perpetual succession).

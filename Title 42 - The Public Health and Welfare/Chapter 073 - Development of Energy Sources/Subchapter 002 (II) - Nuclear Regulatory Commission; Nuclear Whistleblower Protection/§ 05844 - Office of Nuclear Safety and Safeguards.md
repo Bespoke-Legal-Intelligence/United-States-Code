@@ -16,7 +16,7 @@ Subject to the provisions of this chapter, the Director of Nuclear Material Safe
 
 &emsp;&emsp;(B) developing, in consultation and coordination with the Administration, contingency plans for dealing with threats, thefts, and sabotage relating to special nuclear materials, high-level radioactive wastes and nuclear facilities resulting from all activities licensed under the Atomic Energy Act of 1954, as amended;
 
-&emsp;&emsp;(C) assessing the need for, and the feasibility of, establishing a security agency withinthe office for the performance of the safeguards functions, and a report with recommendations on this matter shall be prepared within one year of the effective date of this chapter and promptly transmitted to the Congress by the Commission.
+&emsp;&emsp;(C) assessing the need for, and the feasibility of, establishing a security agency within the office for the performance of the safeguards functions, and a report with recommendations on this matter shall be prepared within one year of the effective date of this chapter and promptly transmitted to the Congress by the Commission.
 
 &emsp;(3) Recommending research to enable the Commission to more effectively perform its functions.
 

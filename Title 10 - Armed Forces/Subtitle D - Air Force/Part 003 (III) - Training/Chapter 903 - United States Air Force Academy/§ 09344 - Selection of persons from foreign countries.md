@@ -8,7 +8,7 @@
 
 (2) Each foreign country from which a cadet is permitted to receive instruction at the Academy under this section shall reimburse the United States for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1) unless a written waiver of reimbursement is granted by the Secretary of Defense. The Secretary of the Air Force shall prescribe the rates for reimbursement under this paragraph, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a cadet appointed from the United States.
 
-(3) The amount of reimbursement waived under paragraph (2) may not exceed 35 percent of the per-person reimbursement amount otherwise required to be paid by a foreign country under such paragraph, except in the case of not more than five persons receiving instruction at the Air Force Academy under this section at any one time.
+(3) The amount of reimbursement waived under paragraph (2) may not exceed 50 percent of the per-person reimbursement amount otherwise required to be paid by a foreign country under such paragraph, except in the case of not more than 20 persons receiving instruction at the Air Force Academy under this section at any one time.
 
 (c)(1) Except as the Secretary of the Air Force determines, a person receiving instruction under this section is subject to the same regulations governing admission, attendance, discipline, resignation, discharge, dismissal, and graduation as a cadet at the Academy appointed from the United States. The Secretary may prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a cadet at the Academy appointed from the United States.
 
@@ -16,7 +16,7 @@
 
 (d) A person receiving instruction under this section is not subject to section 9346(d) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 564; Pub. L. 98–94, title X, §1004(c)(1), Sept. 24, 1983, 97 Stat. 659; Pub. L. 105–85, div. A, title V, §543(c), Nov. 18, 1997, 111 Stat. 1744.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 564; Pub. L. 98–94, title X, §1004(c)(1), Sept. 24, 1983, 97 Stat. 659; Pub. L. 105–85, div. A, title V, §543(c), Nov. 18, 1997, 111 Stat. 1744; Pub. L. 106–65, div. A, title V, §534(c), Oct. 5, 1999, 113 Stat. 605.)
 
 Historical and Revision Notes
 
@@ -50,19 +50,25 @@ In subsection (c), the words “to any office or position” are omitted as surp
 
 #### Amendments
 
+1999—Subsec. (b)(3). Pub. L. 106–65 substituted “50 percent” for “35 percent” and “20 persons” for “five persons”.
+
 1997—Subsec. (b)(2). Pub. L. 105–85, §543(c)(1), substituted “, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a cadet appointed from the United States.” for period at end.
 
 Subsec. (b)(3). Pub. L. 105–85, §543(c)(2), added par. (3).
 
 1983—Pub. L. 98–94 substituted “foreign countries” for “Canada and American Republics” in section catchline.
 
-Subsec. (a). Pub. L. 98–94 amended subsec. (a) generally, substituting “The Secretary of the Air Force may permit not more than 40 persons at any one time from foreign countries to receive instruction at the Academy” and “Such persons shall be in addition to the authorized strength of the Air Force Cadets of the Academy under section 9342 of this title” for “Upon designation by the President, the Secretary of the Air Force may permit not more than 20 persons at any one time from Canada and the American Republics, other thanthe United States, to receive instruction at the Academy” and “However, not more than three persons from any one of those republics or from Canada may receive instruction under this section at any one time” as the first two sentences of subsec. (a) and designating those sentences as par. (1), and adding par. (2).
+Subsec. (a). Pub. L. 98–94 amended subsec. (a) generally, substituting “The Secretary of the Air Force may permit not more than 40 persons at any one time from foreign countries to receive instruction at the Academy” and “Such persons shall be in addition to the authorized strength of the Air Force Cadets of the Academy under section 9342 of this title” for “Upon designation by the President, the Secretary of the Air Force may permit not more than 20 persons at any one time from Canada and the American Republics, other than the United States, to receive instruction at the Academy” and “However, not more than three persons from any one of those republics or from Canada may receive instruction under this section at any one time” as the first two sentences of subsec. (a) and designating those sentences as par. (1), and adding par. (2).
 
 Subsec. (b). Pub. L. 98–94 amended subsec. (b) generally, designating existing provisions as par. (1), striking out provisions that had directed that the mileage allowance payable to persons for travel to the Academy for initial admission was not limited to mileage for travel within the United States, and adding par. (2).
 
 Subsec. (c). Pub. L. 98–94 amended subsec. (c) generally, designating first sentence of subsec. (c) as par. (1), inserting provisions authorizing the Secretary to prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a cadet at the Academy appointed from the United States, and designating the second sentence of subsec. (c) as par. (2).
 
 Subsec. (d). Pub. L. 98–94, in amending section generally, added subsec. (d).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–65 applicable with respect to students from a foreign country entering the United States Military Academy, Naval Academy, or Air Force Academy on or after May 1, 1999, see section 534(d) of Pub. L. 106–65, set out as a note under section 4344 of this title.
 
 #### Effective Date of 1997 Amendment
 

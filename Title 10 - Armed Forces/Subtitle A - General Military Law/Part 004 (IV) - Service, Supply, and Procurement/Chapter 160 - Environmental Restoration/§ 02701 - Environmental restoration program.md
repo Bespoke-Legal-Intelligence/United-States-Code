@@ -170,6 +170,36 @@ Section 1504(a) of Pub. L. 104–106 provided that the amendment made by that se
 
 For effective date and applicability of amendment by section 4321(b)(22) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 
+#### Formerly Utilized Sites Remedial Action Program
+
+Pub. L. 106–65, div. C, title XXXI, §3131, Oct. 5, 1999, 113 Stat. 925, provided that: “Notwithstanding any other provision of law, no funds authorized to be appropriated or otherwise made available by this Act \[see Tables for classification\], or by any Act authorizing appropriations for the military activities of the Department of Defense or the defense activities of the Department of Energy for a fiscal year after fiscal year 2000, may be obligated or expended to conduct treatment, storage, or disposal activities at any site designated as a site under the Formerly Utilized Site Remedial Action Program as of the date of the enactment of this Act \[Oct. 5, 1999\].”
+
+Pub. L. 106–60, title VI, §611, Sept. 29, 1999, 113 Stat. 502, provided that:
+
+“(a) The Secretary of the Army, acting through the Chief of Engineers, in carrying out the program known as the Formerly Utilized Sites Remedial Action Program, shall undertake the following functions and activities to be performed at eligible sites where remediation has not been completed:
+
+&emsp;“(1) Sampling and assessment of contaminated areas.
+
+&emsp;“(2) Characterization of site conditions.
+
+&emsp;“(3) Determination of the nature and extent of contamination.
+
+&emsp;“(4) Selection of the necessary and appropriate response actions as the lead Federal agency.
+
+&emsp;“(5) Cleanup and closeout of sites.
+
+&emsp;“(6) Any other functions and activities determined by the Secretary of the Army, acting through the Chief of Engineers, as necessary for carrying out that program, including the acquisition of real estate interests where necessary, which may be transferred upon completion of remediation to the administrative jurisdiction of the Secretary of Energy.
+
+“(b) Any response action under that program by the Secretary of the Army, acting through the Chief of Engineers, shall be subject to the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.) (in this section referred to as ‘CERCLA’), and the National Oil and Hazardous Substances Pollution Contingency Plan (40 CFR 300).
+
+“(c) Any sums recovered under CERCLA or other authority from a liable party, contractor, insurer, surety, or other person for any expenditures by the Army Corps of Engineers or the Department of Energy for response actions under that program shall be credited to the amounts made available to carry out that program and shall be available until expended for costs of response actions for any eligible site.
+
+“(d) The Secretary of Energy may exercise the authority under section 168 of the Atomic Energy Act of 1954 (42 U.S.C. 2208) to make payments in lieu of taxes for federally owned property at which activities under that program are carried out, regardless of which Federal agency has administrative jurisdiction over the property and notwithstanding any reference to ‘the activities of the Commission’ in that section.
+
+“(e) This section does not alter, curtail, or limit the authorities, functions, or responsibilities of other agencies under CERCLA or, except as stated in this section, under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.).
+
+“(f) This section shall apply to fiscal year 2000 and each succeeding fiscal year.”
+
 #### Settlement of Claims of Foreign Governments for Environmental Cleanup of Overseas Sites Formerly Used by Department of Defense
 
 Pub. L. 105–261, div. A, title III, §321, Oct. 17, 1998, 112 Stat. 1962, provided that:
@@ -202,7 +232,7 @@ Requirements.—The regulations prescribed under subsection (a) shall contain re
 
 &emsp;“(1) obtain all data that is relevant for purposes of cost-recovery and cost-sharing activities; and
 
-&emsp;“(2) identify any negligence or other misconduct that may preclude indemnification or reimbursement by the Department of Defense for the costs of environmental restoration at a Department site or justify the recovery or sharing of costs associated with such restoration.
+&emsp;“(2) identify any negligence or other misconduct that may preclude indemnification or reimbursementby the Department of Defense for the costs of environmental restoration at a Department site or justify the recovery or sharing of costs associated with such restoration.
 
 “(d)
 
@@ -214,13 +244,13 @@ Definition.—In this section, the term ‘cost-recovery and cost-sharing activi
 
 #### Pilot Program for Sale of Air Pollution Emission Reduction Incentives
 
-Pub. L. 105–85, div. A, title III, §351, Nov. 18, 1997, 111 Stat. 1692, provided that:
+Pub. L. 105–85, div. A, title III, §351, Nov. 18, 1997, 111 Stat. 1692, as amended by Pub. L. 106–65, div. A, title III, §325, Oct. 5, 1999, 113 Stat. 563, provided that:
 
 “(a)
 
 Authority.—(1) The Secretary of Defense may, in consultation with the Administrator of General Services, carry out a pilot program to assess the feasibility and advisability of the sale of economic incentives for the reduction of emission of air pollutants attributable to a facility of a military department.
 
-“(2) The Secretary may carry out the pilot program during the period beginning on the date of the enactment of this Act \[Nov. 18, 1997\] and ending two years after such date.
+“(2) The Secretary may not carry out the pilot program after September 30, 2001.
 
 “(b)
 
@@ -288,7 +318,7 @@ Deadlines.—For each defense site for which the Secretary intends to develop a 
 
 “(g)
 
-Definition of Defense Site.—For purposes of this section, the term ‘defense site’ means (A) any building, structure, installation, equipment, pipe or pipeline (including any pipe into a sewer or publicly owned treatment works), well, pit, pond, lagoon, impoundment, ditch, landfill, storage container, motor vehicle, rolling stock, or aircraft under the jurisdiction of the Department of Defense, or (B) any site or areaunder the jurisdiction of the Department of Defense where a hazardous substance has been deposited, stored, disposed of, or placed, or otherwise come to be located; but does not include any consumer product in consumer use or any vessel.
+Definition of Defense Site.—For purposes of this section, the term ‘defense site’ means (A) any building, structure, installation, equipment, pipe or pipeline (including any pipe into a sewer or publicly owned treatment works), well, pit, pond, lagoon, impoundment, ditch, landfill, storage container, motor vehicle, rolling stock, or aircraft under the jurisdiction of the Department of Defense, or (B) any site or area under the jurisdiction of the Department of Defense where a hazardous substance has been deposited, stored, disposed of, or placed, or otherwise come to be located; but does not include any consumer product in consumer use or any vessel.
 
 “(h)
 
@@ -364,7 +394,7 @@ Use of Grant Funds.—(1) An institution of higher education receiving a grant u
 
 Eligible Individuals.—A program established or conducted using funds provided under subsection (a) may provide education and training in environmental restoration and waste management to—
 
-&emsp;“(1) individuals who have been terminated or laid off from employment (or have received notice of termination or lay off) as a consequence of reductions in expenditures by the United States for defense, thecancellation, termination, or completion of a defense contract, or the closure or realignment of a military installation under a base closure law, as determined in accordance with regulations prescribed by the Secretary; or
+&emsp;“(1) individuals who have been terminated or laid off from employment (or have received notice of termination or lay off) as a consequence of reductions in expenditures by the United States for defense, the cancellation, termination, or completion of a defense contract, or the closure or realignment of a military installation under a base closure law, as determined in accordance with regulations prescribed by the Secretary; or
 
 &emsp;“(2) individuals who have attained the age of 16 but not the age of 25.
 
@@ -508,7 +538,7 @@ Educational Training or Activities.—(1) The program established under subsecti
 
 “(c)
 
-Eligible Institutions of Higher Education.—Scholarship funds awarded under this section shall be used by individuals awarded scholarships to enable such individuals to attend institutions of higher education associated with hazardous substance research centers to enable such individuals to undertake a program of educational training or activities described in subsection (b) that leads to an undergraduate degree, a graduate degree, or a degree or certificate that is supplemental to an academic degree.
+Eligible Institutions of Higher Education.—Scholarship funds awarded under this section shall be used by individuals awarded scholarships to enable such individuals to attend institutions of higher education associated with hazardous substance researchcenters to enable such individuals to undertake a program of educational training or activities described in subsection (b) that leads to an undergraduate degree, a graduate degree, or a degree or certificate that is supplemental to an academic degree.
 
 “(d)
 
@@ -578,7 +608,7 @@ Coordination of Benefits.—Any scholarship assistance provided to an individual
 
 “(i)
 
-Report to Congress.—Not later than January 1, 1995, the Secretary of Defense, in consultation with theSecretary of Energy and the Administrator of the Environmental Protection Agency, shall submit to the Congress a report describing the activities undertaken under the program authorized by subsection (a) and containing recommendations for future activities under the program.
+Report to Congress.—Not later than January 1, 1995, the Secretary of Defense, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, shall submit to the Congress a report describing the activities undertaken under the program authorized by subsection (a) and containing recommendations for future activities under the program.
 
 “(j)
 
@@ -678,7 +708,7 @@ Execution of Program.—Subject to subsection (d), and to the maximum extent pos
 
 &emsp;“(2) the use of all reasonable and appropriate methods to expedite necessary Federal and State administrative decisions, agreements, and concurrences; and
 
-&emsp;“(3) the use (including any necessary request for the use) of existing authorities to ensure that environmental restoration activities under the pilot program are conducted expeditiously, with particular emphasis on activities that may be conducted in advance of any final plan for environmental restoration.
+&emsp;“(3) the use (including any necessary request for the use) of existing authorities to ensure that environmental restoration activities under the pilot program are conducted expeditiously, with particularemphasis on activities that may be conducted in advance of any final plan for environmental restoration.
 
 “(d)
 
@@ -776,7 +806,7 @@ Repayment.—(1) Any individual participating in a scholarship or fellowship pro
 
 “(g)
 
-Preference.—In evaluating applicants for the award of a scholarship or fellowship under a program established under subsection (a), the Secretary shall give a preference to—
+Preference.—In evaluating applicants for the award of a scholarship or fellowship under a programestablished under subsection (a), the Secretary shall give a preference to—
 
 &emsp;“(1) individuals who are, or have been, employed by the Department of Defense or its contractors and subcontractors who have been engaged in defense-related activities; and
 
@@ -804,7 +834,7 @@ Funding for Fiscal Year 1993.—Of the amount authorized to be appropriated in s
 
 #### Grants to Institutions of Higher Education To Provide Training in Environmental Restoration and Hazardous Waste Management
 
-Section 4452 of Pub. L. 102–484 authorized the Secretary of Defense to establish a program to assist institutions of higher education, as defined in section 1141(a) of Title 20, Education, to provide education and training in environmental restoration and hazardous waste management and to award grants to such institutions, prior to repeal by Pub. L. 103–160, div. A, title XIII, §1333(j), Nov. 30, 1993, 107 Stat. 1800. See section 1333 of Pub. L. 103–160, set out above.
+Section 4452 of Pub. L. 102–484 authorized the Secretary of Defense to establish a program to assist institutions of higher education, as defined in former section 1141(a) of Title 20, Education, to provide education and training in environmental restoration and hazardous waste management and to award grants to such institutions, prior to repeal by Pub. L. 103–160, div. A, title XIII, §1333(j), Nov. 30, 1993, 107 Stat. 1800. See section 1333 of Pub. L. 103–160, set out above.
 
 #### Policies and Report on Overseas Environmental Compliance
 
@@ -952,7 +982,7 @@ Use of Funds.—Funds available for the waste minimization programs established 
 
 “(e)
 
-Recovery of Costs.—Each project carried out at an industrial-type activity as part of a waste minimization program established pursuant to this section shall be designed to achieve, over the expected useful life of the project, reductions in the cost of the disposal of solid and hazardous wastes generated by the activity in an amount which is not less than the cost of the project. The Secretary of a military department may provide funds for a project that does not meet the requirement of the preceding sentence if the Secretary certifies to Congress that—
+Recovery of Costs.—Each project carried out at an industrial-type activity as part of a waste minimization program established pursuant to this section shallbe designed to achieve, over the expected useful life of the project, reductions in the cost of the disposal of solid and hazardous wastes generated by the activity in an amount which is not less than the cost of the project. The Secretary of a military department may provide funds for a project that does not meet the requirement of the preceding sentence if the Secretary certifies to Congress that—
 
 &emsp;“(1) the project will result in a reduction of solid or hazardous waste disposed of, or hazardous materials used by, the activity; or
 
@@ -960,11 +990,11 @@ Recovery of Costs.—Each project carried out at an industrial-type activity as 
 
 #### Use of Chlorofluorocarbons and Halons in Department of Defense
 
-Pub. L. 101–189, div. A, title III, §356, Nov. 29, 1989, 103 Stat. 1425, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that:
+Pub. L. 101–189, div. A, title III, §356, Nov. 29, 1989, 103 Stat. 1425, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that:
 
 “(a)
 
-Chlorofluorocarbons Emission Reduction.—The Secretary of Defense shall formulate and carry out, through the Under Secretary of Defense for Acquisition and Technology, a program to reduce the unnecessary release of chlorofluorocarbons (hereinafter in this section referred to as ‘CFCs’) and halons into the atmosphere in connection with maintenance operations and training and testing practices of the Department of Defense.
+Chlorofluorocarbons Emission Reduction.—The Secretary of Defense shall formulate and carry out, through the Under Secretary of Defense for Acquisition, Technology, and Logistics a program to reduce the unnecessary release of chlorofluorocarbons (hereinafter in this section referred to as ‘CFCs’) and halons into the atmosphere in connection with maintenance operations and training and testing practices of the Department of Defense.
 
 “(b)
 

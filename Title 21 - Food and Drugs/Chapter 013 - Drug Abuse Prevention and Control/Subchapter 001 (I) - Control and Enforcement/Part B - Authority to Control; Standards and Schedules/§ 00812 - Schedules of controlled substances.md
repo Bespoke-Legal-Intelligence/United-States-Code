@@ -6,7 +6,7 @@ There are established five schedules of controlled substances, to be known as sc
 
 #### (b) Placement on schedules; findings required
 
-Except where control is required by United States obligations under an international treaty, convention, or protocol, in effect on October 27, 1970, and except in the case of an immediate precursor, a drug or other substance may not be placed in any schedule unless the findings required for such schedule are made with respect to such drug or other substance. The findings required for each of the schedules are as follows:
+Except where control is required by United States obligations under an international treaty, convention, or protocol, in effect on October27, 1970, and except in the case of an immediate precursor, a drug or other substance may not be placed in any schedule unless the findings required for such schedule are made with respect to such drug or other substance. The findings required for each of the schedules are as follows:
 
 (1)
 
@@ -60,7 +60,7 @@ Schedule V.—
 
 #### (c) Initial schedules of controlled substances
 
-Schedules I, II, III, IV, and V shall, unless and until amended <sup>1</sup> pursuant to section 811 of thistitle, consist of the following drugs or other substances, by whatever official name, common or usual name, chemical name, or brand name designated:
+Schedules I, II, III, IV, and V shall, unless and until amended <sup>1</sup> pursuant to section 811 of this title, consist of the following drugs or other substances, by whatever official name, common or usual name, chemical name, or brand name designated:
 
 Schedule I
 
@@ -326,7 +326,7 @@ Schedule III
 
 (c) Nalorphine.
 
-(d) Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation containing limited quantities of any of the following narcotic drugs, or any salts thereof:
+(d) Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation containing limitedquantities of any of the following narcotic drugs, or any salts thereof:
 
 &emsp;(1) Not more than 1.8 grams of codeine per 100 milliliters or not more than 90 milligrams per dosage unit, with an equal or greater quantity of an isoquinoline alkaloid of opium.
 
@@ -416,7 +416,7 @@ Provision of section 102(c) of Pub. L. 95–633, set out above, effective on the
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 811, 1115, 1523, 1703 of this title; title 10 section 912a; title 19 section 2484; title 20 section 1415; title 29 sections 706, 2006; title 41 section 706; title 42 sections 12111, 12210.
+This section is referred to in sections 811, 1115, 1523, 1703 of this title; title 10 section 912a; title 19 section 2484; title 20 section 1415; title 29 sections 705, 2006; title 41 section 706; title 42 sections 12111, 12210.
 
 <i><sup>1</sup></i><i> Revised schedules are published in the Code of Federal Regulations, Part 1308 of Title 21, Food and Drugs.</i>
 

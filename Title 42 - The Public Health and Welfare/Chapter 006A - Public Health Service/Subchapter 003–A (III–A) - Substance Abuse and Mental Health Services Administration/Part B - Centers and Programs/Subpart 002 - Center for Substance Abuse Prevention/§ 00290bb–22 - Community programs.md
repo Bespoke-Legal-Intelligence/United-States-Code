@@ -10,7 +10,7 @@ The Secretary, acting through the Director of the Prevention Center, shall—
 
 #### (b) Strategies for reducing use
 
-The Director of the Prevention Center shall ensure that strategies developed under subsection (a)(1) of this section include strategiesfor reducing the use of alcoholic beverages and tobacco products by individuals to whom it is unlawful to sell or distribute such beverages or products.
+The Director of the Prevention Center shall ensure that strategies developed under subsection (a)(1) of this section include strategies for reducing the use of alcoholic beverages and tobacco products by individuals to whom it is unlawful to sell or distribute such beverages or products.
 
 #### (c) Authorization of appropriations
 

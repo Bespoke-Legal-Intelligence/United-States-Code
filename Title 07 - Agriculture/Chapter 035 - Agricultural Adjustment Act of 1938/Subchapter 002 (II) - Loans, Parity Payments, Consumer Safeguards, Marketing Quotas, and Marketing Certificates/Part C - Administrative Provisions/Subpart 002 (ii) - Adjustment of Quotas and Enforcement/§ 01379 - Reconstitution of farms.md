@@ -18,15 +18,17 @@ In any case in which the ownership of a tract of land is transferred from a pare
 
 #### (b) Combination of tracts in contiguous counties
 
-In any case in which two or more tracts of land are located in contiguous counties in the same State and are owned by the same person, the Secretary shall permit such tracts to be combined as one farm if (1) a Burley tobacco poundage quota is established for one or more of such tracts, and (2) the relevant county committees determine that such tracts will be operated as a single farming unit.
+In any case in which two or more tracts of land are located in contiguous counties in the same State and are owned by the same person, the Secretary shall permit such tracts to be combined as one farm if (1) a Burley or flue-cured tobacco poundage quota is established for one or more of such tracts, and (2) the relevant county committees determine that such tracts will be operated as a single farming unit.
 
 #### (c) Burley tobacco poundage quotas
 
 When a farm is divided through reconstitution, the burley tobacco poundage quota which transfers with the divided land shall not be less than 1,000 pounds (except when the reconstitution of the farm is among immediate family members or pursuant to probate proceedings).
 
-(Feb. 16, 1938, ch. 30, title III, §379, as added Pub. L. 89–321, title VII, §707, Nov. 3, 1965, 79 Stat. 1211; amended Pub. L. 91–524, title IV, §404(4), title VI, §605(2), Nov. 30, 1970, 84 Stat. 1366, 1378; Pub. L. 98–180, title II, §212(b), Nov. 29, 1983, 97 Stat. 1149; Pub. L. 101–577, §2(c), Nov. 15, 1990, 104 Stat. 2856; Pub. L. 102–237, title I, §116(3), Dec. 13, 1991, 105 Stat. 1841.)
+(Feb. 16, 1938, ch. 30, title III, §379, as added Pub. L. 89–321, title VII, §707, Nov. 3, 1965, 79 Stat. 1211; amended Pub. L. 91–524, title IV, §404(4), title VI, §605(2), Nov. 30, 1970, 84 Stat. 1366, 1378; Pub. L. 98–180, title II, §212(b), Nov. 29, 1983, 97 Stat. 1149; Pub. L. 101–577, §2(c), Nov. 15, 1990, 104 Stat. 2856; Pub. L. 102–237, title I, §116(3), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 106–78, title VIII, §803(c)(6)(C), Oct. 22, 1999, 113 Stat. 1178.)
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–78 inserted “or flue-cured” after “Burley”.
 
 1991—Subsecs. (a)(4) to (7), (c). Pub. L. 102–237 struck out “or” at end of par. (4), substituted “; or” for period at end of par. (5), substituted a period for “; or” at end of par. (6), and redesignated par. (7) as subsec. (c) and moved subsec. (c) to follow subsec. (b).
 

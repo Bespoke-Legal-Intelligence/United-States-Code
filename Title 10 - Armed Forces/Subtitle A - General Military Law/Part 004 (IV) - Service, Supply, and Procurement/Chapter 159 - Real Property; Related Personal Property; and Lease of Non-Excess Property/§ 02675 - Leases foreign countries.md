@@ -36,7 +36,7 @@ Subsecs. (c), (d). Pub. L. 97–214, §8(c), struck out subsec. (c) which provid
 
 Subsec. (d)(2). Pub. L. 97–99, §604(2), substituted “22,000” for “17,000”.
 
-1980—Subsec. (d)(1). Pub. L. 96–418 substituted “Expenditures for the rental of family housing in foreign countries (including the cost of utilities and maintenance and operation) may not exceed $1,115 per month for any unit” for “The average unit rental for Department of Defense family housing acquired by lease in foreign countries may not exceed $550 per month for the Department, and in no event shall the rental for any one unit exceed $970 per month, including the costs of operation, maintenance, and utilities”.
+1980—Subsec. (d)(1). Pub. L. 96–418 substituted “Expenditures for the rental of family housing in foreign countries (including the cost of utilities and maintenance and operation) may not exceed $1,115 per month for any unit” for “The average unit rental for Department of Defense family housing acquired by lease inforeign countries may not exceed $550 per month for the Department, and in no event shall the rental for any one unit exceed $970 per month, including the costs of operation, maintenance, and utilities”.
 
 1979—Subsec. (d)(1). Pub. L. 96–125, §502(b)(1), substituted “$550” for “$485” and “$970” for “$850”.
 

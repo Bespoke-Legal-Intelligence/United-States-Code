@@ -10,15 +10,17 @@ Requirement for Competition.—The Secretary of Defense shall ensure that the pe
 
 (b)
 
-Scope.—Subsection (a) applies to any depot-level maintenance and repair workload that has a value of not less than $3,000,000 and is being performed by a depot-level activity of the Department of Defense.
+Scope.—Subsection (a) applies to any depot-level maintenance and repair workload that has a value of not less than $3,000,000 (including the cost of labor and materials) and is being performed by a depot-level activity of the Department of Defense.
 
 (c)
 
 Inapplicability of OMB Circular A–76.—Office of Management and Budget Circular A–76 (or any successor administrative regulation or policy) does not apply to a performance change to which subsection (a) applies.
 
-(Added Pub. L. 102–484, div. A, title III, §353(a), Oct. 23, 1992, 106 Stat. 2378; amended Pub. L. 103–160, div. A, title III, §346, title XI, §1182(a)(7), Nov. 30, 1993, 107 Stat. 1625, 1771; Pub. L. 103–337, div. A, title III, §338, Oct. 5, 1994, 108 Stat. 2718; Pub. L. 104–106, div. A, title III, §311(f)(1), Feb. 10, 1996, 110 Stat. 248; Pub. L. 105–85, div. A, title III, §§355(b), 363, Nov. 18, 1997, 111 Stat. 1694, 1702.)
+(Added Pub. L. 102–484, div. A, title III, §353(a), Oct. 23, 1992, 106 Stat. 2378; amended Pub. L. 103–160, div. A, title III, §346, title XI, §1182(a)(7), Nov. 30, 1993, 107 Stat. 1625, 1771; Pub. L. 103–337, div. A, title III, §338, Oct. 5, 1994, 108 Stat. 2718; Pub. L. 104–106, div. A, title III, §311(f)(1), Feb. 10, 1996, 110 Stat. 248; Pub. L. 105–85, div. A, title III, §§355(b), 363, Nov. 18, 1997, 111 Stat. 1694, 1702; Pub. L. 106–65, div. A, title III, §334, Oct. 5, 1999, 113 Stat. 568.)
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–65 inserted “(including the cost of labor and materials)” after “$3,000,000”.
 
 1997—Pub. L. 105–85, §363, repealed Pub. L. 104–106, §311(f)(1). See 1996 Amendment note below.
 

@@ -28,7 +28,7 @@ Section 14(a) of the Federal Advisory Committee Act (relating to termination) sh
 
 Section 5703 of title 5, referred to in subsec. (c), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
-Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (d), is section 14(a) of Pub. L.92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (d), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

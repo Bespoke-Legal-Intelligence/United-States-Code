@@ -78,5 +78,5 @@ Mandatory separation, see section 8335 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 22 sections 2386, 2512, 2584.
+This section is referred to in title 22 sections 2386, 2512.
 

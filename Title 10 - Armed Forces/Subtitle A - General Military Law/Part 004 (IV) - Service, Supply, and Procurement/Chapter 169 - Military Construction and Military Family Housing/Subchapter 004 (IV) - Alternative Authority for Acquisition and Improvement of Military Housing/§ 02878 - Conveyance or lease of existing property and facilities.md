@@ -2,7 +2,7 @@
 
 (a)
 
-Conveyance or Lease Authorized.—The Secretary concerned may convey or lease property or facilities (including ancillary supporting facilities) to private persons for purposes of using the proceeds of such conveyance or lease to carry out activities under this subchapter.
+Conveyance or Lease Authorized.—The Secretary concerned may convey or lease property or facilities (including ancillary supporting facilities) to eligible entities for purposes of using the proceeds of such conveyance or lease to carry out activities under this subchapter.
 
 (b)
 
@@ -26,13 +26,15 @@ Inapplicability of Certain Property Management Laws.—The conveyance or lease o
 
 &emsp;(4) Section 501 of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11411).
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 547; amended Pub. L. 105–85, div. A, title X, §1073(a)(60), Nov. 18, 1997, 111 Stat. 1903.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 547; amended Pub. L. 105–85, div. A, title X, §1073(a)(60), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. B, title XXVIII, §2803(g), Oct. 5, 1999, 113 Stat. 849.)
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d)(2), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the Act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. Forcomplete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d)(2), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the Act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–65 substituted “eligible entities” for “private persons”.
 
 1997—Subsec. (d)(4). Pub. L. 105–85 substituted “11411” for “11401”.
 

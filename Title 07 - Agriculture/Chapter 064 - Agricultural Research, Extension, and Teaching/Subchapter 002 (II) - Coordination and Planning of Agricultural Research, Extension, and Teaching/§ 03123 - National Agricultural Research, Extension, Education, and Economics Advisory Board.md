@@ -142,13 +142,13 @@ The Advisory Board shall be deemed to have filed a charter for the purpose of se
 
 #### (2) General limitation
 
-&emsp;The expenses of the Advisory Board shall not be counted toward any general limitation on the expenses of advisory committees, panels, commissions, and task forces of the Department of Agriculture contained in any Act making appropriations for the Department of Agriculture, whether enacted before, on, orafter June 23, 1998, unless the appropriation Act specifically refers to this subsection and specifically includes this Advisory Board within the general limitation.
+&emsp;The expenses of the Advisory Board shall not be counted toward any general limitation on the expenses of advisory committees, panels, commissions, and task forces of the Department of Agriculture contained in any Act making appropriations for the Department of Agriculture, whether enacted before, on, or after June 23, 1998, unless the appropriation Act specifically refers to this subsection and specifically includes this Advisory Board within the general limitation.
 
 #### (h) Termination
 
 The Advisory Board shall remain in existence until September 30, 2002.
 
-(Pub. L. 95–113, title XIV, §1408, Sept. 29, 1977, 91 Stat. 988; Pub. L. 97–98, title XIV, §1408, Dec. 22, 1981, 95 Stat. 1300; Pub. L. 99–198, title XIV, §1406, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, title XVI, §1604(b), Nov. 28, 1990, 104 Stat. 3709; Pub. L. 102–237, title IV, §402(2), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–66, title I, §§1011(t), 1012(f), Dec. 21, 1995, 109 Stat. 710, 712; Pub. L. 104–127, title VIII, §802(a), Apr. 4, 1996, 110 Stat. 1156; Pub. L. 105–185, title II, §222, June 23, 1998, 112 Stat. 538.)
+(Pub. L. 95–113, title XIV, §1408, Sept. 29, 1977, 91 Stat. 988; Pub. L. 97–98, title XIV, §1408, Dec. 22, 1981, 95 Stat. 1300; Pub. L. 99–198, title XIV, §1406, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, title XVI, §1604(b), Nov. 28, 1990, 104 Stat. 3709; Pub. L. 102–237, title IV, §402(2), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–66, title I, §§1011(t), 1012(f), Dec. 21, 1995, 109 Stat. 710, 712; Pub. L. 104–127, title VIII, §802(a), Apr. 4, 1996, 110 Stat. 1156;Pub. L. 105–185, title II, §222, June 23, 1998, 112 Stat. 538.)
 
 #### References in Text
 

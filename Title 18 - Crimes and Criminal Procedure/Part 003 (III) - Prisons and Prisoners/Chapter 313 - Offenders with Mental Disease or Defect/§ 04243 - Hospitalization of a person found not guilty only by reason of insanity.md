@@ -18,7 +18,7 @@ Burden of Proof.—In a hearing pursuant to subsection (c) of this section, a pe
 
 (e)
 
-Determination and Disposition.—If, after the hearing, the court fails to find by the standard specified in subsection (d) of this section that the person's release would not create a substantial risk of bodily injury to another person or serious damage of property of another due to a present mental disease or defect, the court shall commit the person to the custody of the Attorney General. The Attorney General shall release the person to the appropriate official of the State in which the person is domiciled or was tried if such State will assume responsibility for his custody, care, and treatment. The Attorney General shall make all reasonable efforts to cause such a State to assume such responsibility. If, notwithstanding such efforts, neither such State will assume such responsibility, the Attorney General shall hospitalize the person for treatment in a suitable facility until—
+Determination and Disposition.—If, after the hearing, the court fails to find by the standard specified in subsection (d) of this section that the person's release would not create a substantial risk of bodily injury to another person or serious damage of property of another due to a present mental disease or defect, the court shall commit the person to the custody of the Attorney General. The Attorney General shall release the person to the appropriate official ofthe State in which the person is domiciled or was tried if such State will assume responsibility for his custody, care, and treatment. The Attorney General shall make all reasonable efforts to cause such a State to assume such responsibility. If, notwithstanding such efforts, neither such State will assume such responsibility, the Attorney General shall hospitalize the person for treatment in a suitable facility until—
 
 &emsp;(1) such a State will assume such responsibility; or
 
@@ -72,7 +72,7 @@ In general.—The Attorney General may establish custody over such persons by fi
 
 &emsp;&emsp;(B)
 
-Notice.—The Attorney General shall, by any means reasonably designed to do so, provide written notice of the proposed transfer of custody to such person or such person's guardian, legal representative, or other lawful agent. The person to be transferred shall be afforded an opportunity, not to exceed 15 days, to respond to the proposed transfer of custody, and may, at the court's discretion, be afforded a hearing on the proposed transfer of custody. Such hearing, if granted, shall be limited to a determination of whether the constitutional rights of such person would be violated by the proposed transfer of custody.
+Notice.—The Attorney General shall, by any means reasonably designed to do so, provide written notice of the proposed transfer of custody to such person or such person's guardian, legal representative, or other lawful agent. The person to be transferredshall be afforded an opportunity, not to exceed 15 days, to respond to the proposed transfer of custody, and may, at the court's discretion, be afforded a hearing on the proposed transfer of custody. Such hearing, if granted, shall be limited to a determination of whether the constitutional rights of such person would be violated by the proposed transfer of custody.
 
 &emsp;&emsp;(C)
 

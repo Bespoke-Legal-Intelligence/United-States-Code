@@ -14,7 +14,7 @@ The President may designate a foreign country or instrumentality for purposes of
 
 &emsp;(1) is a country or instrumentality which (A) has become a party to the Agreement or the North American Free Trade Agreement, and (B) will provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products;
 
-&emsp;(2) is a country or instrumentality, other than a major industrial country, which (A)will otherwise assume the obligations of the Agreement, and (B) will provide such opportunities to such products and suppliers;
+&emsp;(2) is a country or instrumentality, other than a major industrial country, which (A) will otherwise assume the obligations of the Agreement, and (B) will provide such opportunities to such products and suppliers;
 
 &emsp;(3) is a country or instrumentality, other than a major industrial country, which will provide such opportunities to such products and suppliers; or
 
@@ -68,7 +68,7 @@ Functions of President under this section delegated to United States Trade Repre
 
 #### Ex. Ord. No. 12260. Agreement on Government Procurement
 
-Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, as amended by Ex. Ord. No. 12347, Feb. 23, 1982, 47 F.R. 8149; Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12474, Apr. 17, 1984, 49 F.R. 15539, provided:
+Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, as amended by Ex. Ord. No. 12347, Feb. 23, 1982, 47 F.R. 8149; Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12474, Apr. 17, 1984, 49 F.R. 15539; Ex. Ord. No. 13118, §10(7), Mar. 31, 1999, 64 F.R. 16598, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Title III of the Trade Agreements Act of 1979 (19 U.S.C. 2511–2518), and Section 301 of Title 3 of the United States Code, and in order to implement the Agreement on Government Procurement, as defined in 19 U.S.C. 2518(1), it is hereby ordered as follows:
 
@@ -92,7 +92,7 @@ Delegations and Authorization
 
 1–201. The functions vested in the President by Sections 301, 302, 304, 305(c) and 306 of the Trade Agreements Act of 1979 (19 U.S.C. 2511, 2512, 2514, 2515(c) and 2516) are delegated to the Trade Representative.
 
-1–202. Notwithstanding the delegation in Section 1–201, the Secretary of Defense is authorized, in accord with Section 302(b)(3) of the Trade Agreements Act of1979 (19 U.S.C. 2512(b)(3)), to waive the prohibitions specified therein.
+1–202. Notwithstanding the delegation in Section 1–201, the Secretary of Defense is authorized, in accord with Section 302(b)(3) of the Trade Agreements Act of 1979 (19 U.S.C. 2512(b)(3)), to waive the prohibitions specified therein.
 
 #### Annex
 
@@ -194,7 +194,7 @@ Delegations and Authorization
 
 49\. United States Information Agency
 
-50\. United States International Development Cooperation Agency
+50\. United States Agency for International Development
 
 51\. United States International Trade Commission
 
@@ -203,6 +203,10 @@ Delegations and Authorization
 53\. Maritime Administration of the Department of Transportation
 
 54\. The Peace Corps
+
+\[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of Title 22, Foreign Relations and Intercourse.\]
+
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.\]
 
 #### Ex. Ord. No. 12849. Implementation of Agreement With European Community on Government Procurement
 
@@ -220,7 +224,7 @@ NOW, THEREFORE, by virtue of the authority vested in me as President by the Cons
 
 Section 1. In applying the provisions of the Buy American Act, the heads of the agencies listed in Annex 1, Parts A and B, of this order are requested, as of the date of this order, to apply no price differential between articles, materials, or supplies of U.S. origin and those originating in the member states of the EC.
 
-Sec. 2. For purposes of this order, the rule of origin specified in section 308 of the Trade Agreements Act of 1979, as amended (19 U.S.C. 2518), shall apply in determining whether goods originate in the member states of the EC.
+Sec. 2. For purposes of this order, the rule of origin specified in section 308 of the Trade Agreements Act of1979, as amended (19 U.S.C. 2518), shall apply in determining whether goods originate in the member states of the EC.
 
 Sec. 3. This order shall apply only to solicitations, issued by agencies listed in Annex 1, Parts A and B, of this order, above the threshold amounts set forth in Annex 2.
 
@@ -367,6 +371,10 @@ Construction contracts—$6,500,000
 Goods contracts—$450,000
 
 Construction contracts—$6,500,000
+
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.\]
+
+\[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of Title 22, Foreign Relations and Intercourse.\]
 
 #### Section Referred to in Other Sections
 

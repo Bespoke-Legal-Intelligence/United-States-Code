@@ -40,9 +40,9 @@ Each State plan shall contain provisions demonstrating to the satisfaction of th
 
 &emsp;(6) the State unit will disseminate throughout the State information on the availability of services and activities under this subchapter;
 
-&emsp;(7) any program conducted with funds made available under this subchapter which will provide services to a substantial number of members of a labor organization will be established only after full consultation with such labor organization;
+&emsp;(7) any program conducted with funds made available under this subchapter which willprovide services to a substantial number of members of a labor organization will be established only after full consultation with such labor organization;
 
-&emsp;(8) the State will not prescribe any standard for the operation of programs under this partthat is inconsistent with section 1516(c) of this title;
+&emsp;(8) the State will not prescribe any standard for the operation of programs under this part that is inconsistent with section 1516(c) of this title;
 
 &emsp;(9) the State job training coordinating council has reviewed and commented in writing on the plan;
 

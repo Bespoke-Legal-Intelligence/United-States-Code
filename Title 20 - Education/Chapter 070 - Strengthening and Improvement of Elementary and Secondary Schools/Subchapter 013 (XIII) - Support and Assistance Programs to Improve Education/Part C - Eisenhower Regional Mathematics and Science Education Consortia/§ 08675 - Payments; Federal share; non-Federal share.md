@@ -10,7 +10,7 @@ For the purpose of subsection (a) of this section, the Federal share shall be 80
 
 #### (c) Non-Federal share
 
-The non-Federal share of the cost of activities described in the application submitted under section 8673 of this title may be in cash or in kind, fairly evaluated. At least 10 percent of such non-Federal share shall be from sourcesother than the Federal Government, or State or local government.
+The non-Federal share of the cost of activities described in the application submitted under section 8673 of this title may be in cash or in kind, fairly evaluated. At least 10 percent of such non-Federal share shall be from sources other than the Federal Government, or State or local government.
 
 (Pub. L. 89–10, title XIII, §13305, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3885.)
 

@@ -134,7 +134,7 @@
 
 #### Codification
 
-The Developmental Disabilities Assistance and Bill of Rights Act, comprising this chapter, is title I of the Mental Retardation Facilities and Community Mental Health Centers Act of 1963, which was originally enacted by Pub. L. 88–164, Oct. 31, 1963, 77 Stat. 282, at which time title I was known as the Mental Retardation Facilities Construction Act, and parts B and C of such title I were classified to subchapters I (§2661 et seq.) and II (§2670 et seq.), respectively, of chapter 33 of this title. Because of the extensive amendments, reorganization of the subject matter, and expansion of the Act by the acts summarized below, the Act is shown herein as having been added by Pub. L. 98–527, without reference to intervening amendments.
+The Developmental Disabilities Assistance and Bill of Rights Act, comprising this chapter, is title I of the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963, which was originally enacted by Pub. L. 88–164, Oct. 31, 1963, 77 Stat. 282, at which time title I was known as the Mental Retardation Facilities Construction Act, and parts B and C of such title I were classified to subchapters I (§2661 et seq.) and II (§2670 et seq.), respectively, of chapter 33 of this title. Because of the extensive amendments, reorganization of the subject matter, and expansion of the Act by the acts summarized below, the Act is shown herein as having been added by Pub. L. 98–527, without reference to intervening amendments.
 
 Part D of the Act was added by Pub. L. 90–170, §4, Dec. 4, 1967, 81 Stat. 528, and was classified to subchapter IIA (§2678 et seq.) of chapter 33 of this title. Part C of the Act was amended generally and the Act was reorganized and renamed the Developmental Disabilities Services and Facilities Construction Act, by Pub. L. 91–517, Oct. 30, 1970, 84 Stat. 1316.
 
@@ -172,7 +172,7 @@ National goals have been established to:
 
 NOW, THEREFORE, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
 
-Section 1. <i>Committee Continued and Responsibilities Expanded</i>. The President's Committee on Mental Retardation (the “Committee”), with expanded membershipand expanded responsibilities, is hereby continued in operation.
+Section 1. <i>Committee Continued and Responsibilities Expanded</i>. The President's Committee on Mental Retardation (the “Committee”), with expanded membership and expanded responsibilities, is hereby continued in operation.
 
 Sec. 2. <i>Composition of Committee</i>. (a) The Committee shall be composed of the following members:
 
@@ -240,7 +240,7 @@ Term of the President's Committee on Mental Retardation extended until Sept. 30,
 
 Term of the President's Committee on Mental Retardation extended until Sept. 30, 1989, by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee on Mental Retardation extended until Sept. 30, 1991, by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee on Mental Retardation extended until Sept. 30, 1991, by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as anote under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's Committee on Mental Retardation extended until Sept. 30, 1993, by Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
@@ -248,7 +248,9 @@ Term of the President's Committee on Mental Retardation extended until Sept. 30,
 
 Term of the President's Committee on Mental Retardation extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee on Mental Retardation extended until Sept. 30, 1999, by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee on Mental Retardation extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(k), Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Committee on Mental Retardation extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Executive Order No. 11973
 

@@ -114,7 +114,7 @@ Community facilities grant program.—
 
 &emsp;(A)
 
-In general.—The Secretary may make grants, in a total amount not to exceed $10,000,000 for any fiscal year, to associations, units of general local government, nonprofit corporations, and federally recognized Indian tribes to provide the Federal share of the cost of developing specific essential community facilities in rural areas.
+In general.—The Secretary may make grants, in a total amount not to exceed $10,000,000 for any fiscal year, to associations, units of general local government, nonprofit corporations, and federally recognized Indian tribes to provide the Federal share of the costof developing specific essential community facilities in rural areas.
 
 &emsp;(B)
 
@@ -224,7 +224,7 @@ Subsec. (a)(16) to (19). Pub. L. 99–198 added pars. (16) to (19).
 
 1980—Subsec. (a)(7). Pub. L. 96–438 provided that for the purpose of loans for essential community facilities under subsection (a)(1) of this section, terms “rural” and “rural area” may include any area in any city or town with a population not in excess of twenty thousand.
 
-Subsec. (a)(11) to (15). Pub. L. 96–355 in par. (11) substituted provisions authorizing annual grants not to exceed $15,000,000 for rural development technical assistance, rural community leadership development, etc., for provisions authorizing annual grants not to exceed $10,000,000 for preparation of comprehensive plans for rural development or designated aspects of such rural development, added par. (12), and redesignated former pars. (12) to (14) as (13) to (15), respectively.
+Subsec. (a)(11) to (15). Pub. L. 96–355 in par. (11) substituted provisions authorizing annual grants not to exceed $15,000,000 for rural development technical assistance, rural community leadership development, etc., for provisions authorizing annual grants not to exceed $10,000,000 for preparation of comprehensive plans for rural development or designated aspects of suchrural development, added par. (12), and redesignated former pars. (12) to (14) as (13) to (15), respectively.
 
 1978—Subsec. (a)(1). Pub. L. 95–334, §104, inserted provisions respecting bond counsel requirements for loans under $500,000.
 
@@ -288,7 +288,7 @@ Amendment by Pub. L. 89–769 applicable with respect to any major disaster occu
 
 #### Transfer of Functions
 
-Powers, duties, and assets of agencies, offices, and other entities within Department of Agriculture relating to rural development functions transferred to Rural Development Administration by section 2302(b) of Pub. L. 101–624.
+Powers, duties, and assets of agencies, offices, and other entities within Department of Agriculture relating to rural development functions transferred to RuralDevelopment Administration by section 2302(b) of Pub. L. 101–624.
 
 #### Temporary Expanded Eligibility of Certain Timber-Dependent Communities in Pacific Northwest for Loans and Grants From Rural Development Administration
 

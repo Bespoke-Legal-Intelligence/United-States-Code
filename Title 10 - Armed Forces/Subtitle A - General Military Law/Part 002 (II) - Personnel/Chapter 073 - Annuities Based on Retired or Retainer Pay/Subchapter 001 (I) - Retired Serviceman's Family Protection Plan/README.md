@@ -8,6 +8,7 @@
 | [1434\.](%C2%A7%2001434%20-%20Kinds%20of%20annuities%20that%20may%20be%20elected.md) | Kinds of annuities that may be elected. |
 | [1435\.](%C2%A7%2001435%20-%20Eligible%20beneficiaries.md) | Eligible beneficiaries. |
 | [1436\.](%C2%A7%2001436%20-%20Computation%20of%20reduction%20in%20retired%20pay%3B%20withdrawal%20for%20severe%20financial%20hardship.md) | Computation of reduction in retired pay; withdrawal for severe financial hardship. |
+| [1436a.](%C2%A7%2001436a%20-%20Coverage%20paid%20up%20at%2030%20years%20and%20age%2070.md) | Coverage paid up at 30 years and age 70. |
 | [1437\.](%C2%A7%2001437%20-%20Payment%20of%20annuity.md) | Payment of annuity. |
 | [1438\.](%C2%A7%2001438%20-%20Deposits%20for%20amounts%20not%20deducted.md) | Deposits for amounts not deducted. |
 | [1439\.](%C2%A7%2001439%20-%20Refund%20of%20amounts%20deducted%20from%20retired%20pay.md) | Refund of amounts deducted from retired pay. |
@@ -23,6 +24,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title VI, §655(b), Oct. 5, 1999, 113 Stat. 667, added item 1436a.
 
 1991—Pub. L. 102–190, div. A, title VI, §654(b)(2), Dec. 5, 1991, 105 Stat. 1390, added item 1444a.
 
@@ -45,6 +48,7 @@ This subchapter is referred to in title 38 section 1315.
 - [&sect; 01434 - Kinds of annuities that may be elected](%C2%A7%2001434%20-%20Kinds%20of%20annuities%20that%20may%20be%20elected.md)
 - [&sect; 01435 - Eligible beneficiaries](%C2%A7%2001435%20-%20Eligible%20beneficiaries.md)
 - [&sect; 01436 - Computation of reduction in retired pay; withdrawal for severe financial hardship](%C2%A7%2001436%20-%20Computation%20of%20reduction%20in%20retired%20pay%3B%20withdrawal%20for%20severe%20financial%20hardship.md)
+- [&sect; 01436a - Coverage paid up at 30 years and age 70](%C2%A7%2001436a%20-%20Coverage%20paid%20up%20at%2030%20years%20and%20age%2070.md)
 - [&sect; 01437 - Payment of annuity](%C2%A7%2001437%20-%20Payment%20of%20annuity.md)
 - [&sect; 01438 - Deposits for amounts not deducted](%C2%A7%2001438%20-%20Deposits%20for%20amounts%20not%20deducted.md)
 - [&sect; 01439 - Refund of amounts deducted from retired pay](%C2%A7%2001439%20-%20Refund%20of%20amounts%20deducted%20from%20retired%20pay.md)

@@ -58,7 +58,7 @@ Installment treatment of certain deemed distributions of shareholders.—
 
 &emsp;“(A)
 
-In general.—Notwithstanding section 995(b) of such Code, if a shareholder of a DISC elects the application of this paragraph, any qualified distribution shall be treated, for purposes of such Code, as received by such shareholder in 10 equal installments on the last day of each of the 10 taxable years of such shareholder which begins after the first taxable year of such shareholder beginning in 1984. The preceding sentence shall apply without regard to whether the DISC exists after December 31, 1984.
+In general.—Notwithstanding section 995(b) of such Code, if a shareholder of a DISC elects the application of this paragraph, any qualified distribution shall be treated, for purposes of such Code, as received by such shareholder in 10 equal installments on the last day of each of the 10 taxable years of such shareholder which begins after the first taxable year of such shareholder beginning in 1984. The precedingsentence shall apply without regard to whether the DISC exists after December 31, 1984.
 
 &emsp;“(B)
 

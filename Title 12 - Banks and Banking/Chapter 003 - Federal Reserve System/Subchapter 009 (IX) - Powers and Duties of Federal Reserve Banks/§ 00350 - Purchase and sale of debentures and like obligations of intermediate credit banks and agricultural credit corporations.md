@@ -14,7 +14,7 @@ Section is comprised of third par. of section 13A, formerly section 13a, as adde
 
 #### National Agricultural Credit Corporation
 
-Title II of the Agricultural Credits Act, act Mar. 4, 1923, title II, §§201–217, 42 Stat. 1461, authorized creation of national agricultural credit corporations, prior to repeal by Pub. L. 86–230, Sept. 18, 1959, §24, 73 Stat. 466. Prior to such repeal, act June 16, 1933, §77, 48 Stat. 292, had prohibited the creation, after June 16, 1933, of national agricultural credit corporations authorized to be formed under the Agricultural Credits Act.
+Title II of the Agricultural Credits Act, act Mar. 4, 1923, title II, §§201–217, 42 Stat. 1461, authorized creationof national agricultural credit corporations, prior to repeal by Pub. L. 86–230, Sept. 18, 1959, §24, 73 Stat. 466. Prior to such repeal, act June 16, 1933, §77, 48 Stat. 292, had prohibited the creation, after June 16, 1933, of national agricultural credit corporations authorized to be formed under the Agricultural Credits Act.
 
 #### Cross References
 
@@ -22,5 +22,5 @@ Advances to member banks on their notes, see section 347 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 347, 351 of this title.
+This section is referred to in sections 347, 351, 412 of this title.
 

@@ -18,3 +18,7 @@ Any payment of dividends made to the United States by the Corporation shall be d
 
 Section is based on section 207 of title II of S. 2416, Ninety-eighth Congress, as introduced Mar. 13, 1984, and enacted into law by Pub. L. 98–473.
 
+#### First General Capital Increase
+
+Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §594\], Nov. 29, 1999, 113 Stat. 1535, 1501A–122, provided in part that the Secretary of the Treasury may effect the United States participation in the first general capital increase of the Inter-American Investment Corporation, and authorized $125,180,000 to be appropriated without fiscal year limitation for payment by the Secretary for paid-in capital of the Corporation.
+

@@ -1,6 +1,6 @@
 ### §698i. Administration of Big Cypress Preserve; applicability of other laws; rules and regulations for use of lands and waters; transportation facilities; consultation and cooperation with Secretary of Transportation
 
-(a) The area within the boundaries depicted on the map referred to in section 698f of this title shall be known as the Big Cypress National Preserve. Such lands shall be administered by the Secretary as a unit of the National Park System in a manner which will assure their natural and ecological integrity in perpetuity in accordance with the provisions of sections 698f to 698m–4 of this title and with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented.
+(a) The area within the boundaries depicted on the map referred to in section 698f of this titleshall be known as the Big Cypress National Preserve. Such lands shall be administered by the Secretary as a unit of the National Park System in a manner which will assure their natural and ecological integrity in perpetuity in accordance with the provisions of sections 698f to 698m–4 of this title and with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented.
 
 (b) In administering the preserve, the Secretary shall develop and publish in the Federal Register such rules and regulations as he deems necessary and appropriate to limit or control the use of Federal lands and waters with respect to:
 

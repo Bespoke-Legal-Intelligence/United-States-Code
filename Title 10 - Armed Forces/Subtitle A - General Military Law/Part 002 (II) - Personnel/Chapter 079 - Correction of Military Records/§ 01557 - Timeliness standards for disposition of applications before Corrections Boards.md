@@ -56,7 +56,7 @@ Failure To Meet Timeliness Standards Not To Affect Any Individual Application.�
 
 (e)
 
-Reports on Failure To Meet Timeliness Standards.—The Secretary of the military department concerned shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report not later than June 1following any fiscal year during which the Corrections Board of that Secretary's military department was unable to meet the applicable timeliness standard for that fiscal year under subsections (a) and (b). The report shall specify the reasons why the standard could not be met and the corrective actions initiated to ensure compliance in the future. The report shall also specify the number of waivers granted under subsection (c) during that fiscal year.
+Reports on Failure To Meet Timeliness Standards.—The Secretary of the military department concerned shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report not later than June 1 following any fiscal year during which the Corrections Board of that Secretary's military department was unable to meet the applicable timeliness standard for that fiscal year under subsections (a) and (b). The report shall specify the reasons why the standard could not be met and the corrective actions initiated to ensure compliance in the future. The report shall also specify the number of waivers granted under subsection (c) during that fiscal year.
 
 (f)
 
@@ -68,9 +68,9 @@ Corrections Board Defined.—In this section, the term “Corrections Board” m
 
 &emsp;(3) with respect to the Department of the Air Force, the Air Force Board for Correction of Military Records.
 
-(Added Pub. L. 105–261, div. A, title V, §544(a), Oct. 17, 1998, 112 Stat. 2021.)
+(Added Pub. L. 105–261, div. A, title V, §544(a), Oct. 17, 1998, 112 Stat. 2021; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
-#### Change of Name
+#### Amendments
 
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+1999—Subsec. (e). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 

@@ -6,7 +6,7 @@ The Secretary of Agriculture shall limit the sale of timber from each national f
 
 #### (b) Salvage harvesting
 
-Nothing in subsection (a) of this section shall prohibit the Secretary from salvage or sanitation harvesting of timber stands which are substantially damaged by fire, windthrow, or other catastrophe, or which are in imminent danger from insect or disease attack. The Secretary may either substitute such timber for timber that would otherwise be sold under the plan or, if not feasible, sell such timber over and above the plan volume.
+Nothing in subsection (a) of this section shall prohibit the Secretary from salvage or sanitation harvesting of timber stands which are substantially damaged by fire, windthrow, or othercatastrophe, or which are in imminent danger from insect or disease attack. The Secretary may either substitute such timber for timber that would otherwise be sold under the plan or, if not feasible, sell such timber over and above the plan volume.
 
 (Pub. L. 93–378, §13, as added Pub. L. 94–588, §11, Oct. 22, 1976, 90 Stat. 2957.)
 
@@ -68,7 +68,7 @@ Completion of Salvage Timber Sales.—
 
 &emsp;“(1)
 
-Salvage timber sales.—Using the expedited procedures provided in subsection (c), the Secretary concerned shall prepare, advertise, offer, and award contracts during the emergency period for salvage timber sales from Federal lands described in subsection (a)(4). During the emergency period, the Secretary concerned is to achieve, to the maximum extent feasible, a salvage timber sale volume level above the programmed level to reduce the backlogged volume of salvage timber. The preparation, advertisement, offering, and awarding of such contracts shall be performed utilizing subsection (c) and notwithstanding any other provision of law, including a law under the authority of which any judicial order may be outstanding on or after the date of the enactment of this Act \[July 27, 1995\].
+Salvage timber sales.—Using the expedited procedures provided in subsection (c), the Secretaryconcerned shall prepare, advertise, offer, and award contracts during the emergency period for salvage timber sales from Federal lands described in subsection (a)(4). During the emergency period, the Secretary concerned is to achieve, to the maximum extent feasible, a salvage timber sale volume level above the programmed level to reduce the backlogged volume of salvage timber. The preparation, advertisement, offering, and awarding of such contracts shall be performed utilizing subsection (c) and notwithstanding any other provision of law, including a law under the authority of which any judicial order may be outstanding on or after the date of the enactment of this Act \[July 27, 1995\].
 
 &emsp;“(2)
 
@@ -106,7 +106,7 @@ Reporting requirements.—Not later than August 30, 1995, the Secretary concerne
 
 &emsp;&emsp;“(B) The available salvage volume contained in each National Forest and each district of the Bureau of Land Management.
 
-&emsp;&emsp;“(C) A plan and schedule for an enhanced salvage timber sale program for fiscal years 1995, 1996, and1997 using the authority provided by this section for salvage timber sales.
+&emsp;&emsp;“(C) A plan and schedule for an enhanced salvage timber sale program for fiscal years 1995, 1996, and 1997 using the authority provided by this section for salvage timber sales.
 
 &emsp;&emsp;“(D) A description of any needed resources and personnel, including personnel reassignments, required to conduct an enhanced salvage timber sale program through fiscal year 1997.
 
@@ -178,7 +178,7 @@ Effect of filing on agency action.—For 45 days after the date of the filing of
 
 &emsp;“(3)
 
-Prohibition on restraining orders, preliminary injunctions, and relief pending review.—No restraining order, preliminary injunction, or injunction pending appeal shall be issued by any court ofthe United States with respect to any decision to prepare, advertise, offer, award, or operate a salvage timber sale pursuant to subsection (b) or any decision to prepare, advertise, offer, award, or operate a timber sale pursuant to subsection (d). Section 705 of title 5, United States Code, shall not apply to any challenge to such a sale.
+Prohibition on restraining orders, preliminary injunctions, and relief pending review.—No restraining order, preliminary injunction, or injunction pending appeal shall be issued by any court of the United States with respect to any decision to prepare, advertise, offer, award, or operate a salvage timber sale pursuant to subsection (b) or any decision to prepare, advertise, offer, award, or operate a timber sale pursuant to subsection (d). Section 705 of title 5, United States Code, shall not apply to any challenge to such a sale.
 
 &emsp;“(4)
 

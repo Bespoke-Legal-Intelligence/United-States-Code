@@ -38,11 +38,11 @@ To be eligible to receive payments under section 9037, a candidate shall certify
 
 #### (3) Calculation of voting percentage
 
-&emsp;For purposes of paragraph (1)(B), if the primary elections involved are held in more than one State on the same date, a candidate shall be treated as receiving that percentage of the votes on such date which he received in the primary election conducted on such date in which he received the greatest percentage vote.
+&emsp;For purposes of paragraph (1)(B), if the primary elections involved are held in more thanone State on the same date, a candidate shall be treated as receiving that percentage of the votes on such date which he received in the primary election conducted on such date in which he received the greatest percentage vote.
 
 #### (4) Reestablishment of eligibility
 
-&emsp;(A) In any case in which an individual is ineligible to receive payments under section 9037 as a result of the operation of paragraph (1)(A), the Commission may subsequently determine that such individual is a candidate upon a finding that such individual is activelyseeking election to the office of President of the United States in more than one State. The Commission shall make such determination without requiring such individual to reestablish his eligibility to receive payments under subsection (a).
+&emsp;(A) In any case in which an individual is ineligible to receive payments under section 9037 as a result of the operation of paragraph (1)(A), the Commission may subsequently determine that such individual is a candidate upon a finding that such individual is actively seeking election to the office of President of the United States in more than one State. The Commission shall make such determination without requiring such individual to reestablish his eligibility to receive payments under subsection (a).
 
 &emsp;(B) Notwithstanding the provisions of paragraph (1)(B), a candidate whose payments have been terminated under paragraph (1)(B) may again receive payments (including amounts he would have received but for paragraph (1)(B)) if he receives 20 percent or more of the total number of votes cast for candidates of the same party in a primary election held after the date on which the election was held which was the basis for terminating payments to him.
 

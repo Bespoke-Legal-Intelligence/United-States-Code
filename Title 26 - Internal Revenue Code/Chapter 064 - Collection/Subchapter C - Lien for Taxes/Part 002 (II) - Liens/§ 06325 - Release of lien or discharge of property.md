@@ -56,7 +56,7 @@ Subject to such regulations as the Secretary may prescribe, the Secretary shall 
 
 &emsp;&emsp;&emsp;(i) apply the amount deposited, or collect on such bond, to the extent necessary to satisfy the unsatisfied liability secured by the lien; and
 
-&emsp;&emsp;&emsp;(ii) refund (with interest as described in subparagraph (B)) any portion of the amount deposited which is not used to satisfy such liability.
+&emsp;&emsp;&emsp;(ii) refund (with interest as described in subparagraph (B)) any portion of theamount deposited which is not used to satisfy such liability.
 
 #### (D) Exception
 
@@ -106,7 +106,7 @@ If the Secretary determines that, because of confusion of names or otherwise, an
 
 #### (3) Certificates void under certain conditions
 
-&emsp;Notwithstanding any other provision of this subtitle, any lien imposed by this chaptershall attach to any property with respect to which a certificate of discharge has been issued if the person liable for the tax reacquires such property after such certificate has been issued.
+&emsp;Notwithstanding any other provision of this subtitle, any lien imposed by this chapter shall attach to any property with respect to which a certificate of discharge has been issued if the person liable for the tax reacquires such property after such certificate has been issued.
 
 #### (g) Filing of certificates and notices
 
@@ -122,7 +122,7 @@ If a certificate or notice issued pursuant to this section may not be filed in t
 
 1998—Subsec. (b)(4). Pub. L. 105–206 added par. (4).
 
-1982—Subsec. (a). Pub. L. 97–248 in introductory provisions substituted “shall issue” for “may issue” and “not later than 30 days after the day on which” for “if”.
+1982—Subsec. (a). Pub. L. 97–248 in introductory provisions substituted “shall issue” for “may issue” and“not later than 30 days after the day on which” for “if”.
 
 1978—Subsec. (d)(3). Pub. L. 95–600 added par. (3).
 

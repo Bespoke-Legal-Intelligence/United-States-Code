@@ -32,7 +32,7 @@ Act
 
 July 9, 1952, ch. 608, §§706 (less last 15 words of 1st sentence, and less applicability to enlistments), 707 (less applicability to enlistments), 66 Stat. 503.
 
-In subsection (a), the words “at any time”, “of any person”, and “from the National Guard of the United States or from the Air National Guard of the United States” are omitted as surplusage. The words “highest regular or reserve grade ever held by him in the Army” are substituted for the words “highest permanent grade previously held in the Army or any component thereof”, since “permanent” grades are held only in a component and there are no “non-permanent” grades held in a component.
+In subsection (a), the words “at any time”, “of any person”, and “from the National Guard of the United States or from the Air National Guard of the United States” are omitted as surplusage. The words “highest regular or reserve grade ever held by him in the Army” are substituted for the words “highest permanent gradepreviously held in the Army or any component thereof”, since “permanent” grades are held only in a component and there are no “non-permanent” grades held in a component.
 
 In subsection (b), the words “appointment as a Reserve” are substituted for the words “appointment or \* \* \* as a Reserve officer or”. The words “whose Federal recognition as a member \* \* \* is withdrawn” are substituted for the words “ceases to hold a status as a federally recognized member”.
 

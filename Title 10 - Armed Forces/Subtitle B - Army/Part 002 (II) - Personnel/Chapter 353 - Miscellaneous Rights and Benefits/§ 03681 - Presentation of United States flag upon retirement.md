@@ -6,23 +6,23 @@ Presentation of Flag.—Upon the release of a member of the Army from active dut
 
 (b)
 
-Multiple Presentations Not Authorized.—A member is not eligible for a presentation of a flag under subsection (a) if the member has previously been presented a flag under this section or section 6141 or 8681 of this title or section 516 of title 14.
+Multiple Presentations Not Authorized.—A member is not eligible for a presentation of a flag under subsection (a) if the member has previously been presented a flag under this section or any other provision of law providing for the presentation of a United States flag incident to release from active service for retirement.
 
 (c)
 
 No Cost to Recipient.—The presentation of a flag under this section shall be at no cost to the recipient.
 
-(Added Pub. L. 105–261, div. A, title VI, §644(a)(1), Oct. 17, 1998, 112 Stat. 2048.)
+(Added Pub. L. 105–261, div. A, title VI, §644(a)(1), Oct. 17, 1998, 112 Stat. 2048; amended Pub. L. 106–65, div. A, title VI, §652(e), Oct. 5, 1999, 113 Stat. 666.)
 
 #### Prior Provisions
 
 A prior section 3681, act Aug. 10, 1956, ch. 1041, 70A Stat. 210, related to service listed in the official Army Register, prior to repeal by Pub. L. 85–861, §36B(9), Sept. 2, 1958, 72 Stat. 1570. See section 122 of this title.
 
+#### Amendments
+
+1999—Subsec. (b). Pub. L. 106–65 substituted “under this section or any other provision of law providing for the presentation of a United States flag incident to release from active service for retirement.” for “under this section or section 6141 or 8681 of this title or section 516 of title 14.”
+
 #### Effective Date
 
 Pub. L. 105–261, div. A, title VI, §644(e), Oct. 17, 1998, 112 Stat. 2049, provided that: “Sections 3681, 6141, and 8681 of title 10, United States Code (as added by this section), and section 516 of title 14, United States Code (as added by subsection (d)), shall apply with respect to releases from active duty described in those sections on or after October 1, 1998.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6141, 8681 of this title; title 14 section 516.
 

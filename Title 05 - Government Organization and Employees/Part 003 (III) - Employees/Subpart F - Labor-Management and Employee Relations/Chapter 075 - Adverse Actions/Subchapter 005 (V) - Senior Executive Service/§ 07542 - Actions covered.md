@@ -1,6 +1,6 @@
 ### §7542. Actions covered
 
-This subchapter applies to a removal from the civil service or suspension for more than 14 days, but does not apply to an action initiated under section 1215 of this title, to a suspension or removal under section 7532 of this title, or to a removal under section 3592 or 3595 of this title.
+This subchapter applies to a removal from the civil service or suspension for more than 14days, but does not apply to an action initiated under section 1215 of this title, to a suspension or removal under section 7532 of this title, or to a removal under section 3592 or 3595 of this title.
 
 (Added Pub. L. 95–454, title IV, §411(2), Oct. 13, 1978, 92 Stat. 1174; amended Pub. L. 97–35, title XVII, §1704(d)(1), Aug. 13, 1981, 95 Stat. 758; Pub. L. 101–12, §9(a)(2), Apr. 10, 1989, 103 Stat. 35.)
 

@@ -18,6 +18,10 @@ To the maximum extent possible, activities under this part that attempt to incre
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
 
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
 #### Report of Administrator of Agency for International Development to Congress by June 21, 1983, on Implementation of Section
 
 Section 101(b)(2) of Pub. L. 97–377 provided in part: “That within six months after the date of approval of this joint resolution \[Dec. 21, 1982\], the Administrator of the Agency for International Development shall report to Congress on the implementation of this provision \[this section\], the types of projects determined to meet these requirements, and the effect on the overall United States foreign assistance program.”

@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(1) drought and famine have caused countless deaths and untold suffering among the people of sub-Saharan Africa;
 
-&emsp;(2) drought and famine in combination with other factors such as desertification, government neglect of the agricultural sector, and inappropriate economic policies have severelyaffected long-term development in sub-Saharan Africa; and
+&emsp;(2) drought and famine in combination with other factors such as desertification, government neglect of the agricultural sector, and inappropriate economic policies have severely affected long-term development in sub-Saharan Africa; and
 
 &emsp;(3) the most cost-effective and efficient way of overcoming Africa's vulnerability to drought and famine is to address Africa's long-term development needs through a process that builds upon the needs and capabilities of the African people, promotes sustained and equitable economic growth, preserves the environment, and protects the rights of the individual.
 
@@ -174,7 +174,11 @@ The Comprehensive Anti/Apartheid Act of 1986, referred to in subsec. (n)(4), pro
 
 #### Prior Provisions
 
-A prior section 2293, Pub. L. 87–195, pt. I, §496, as added Pub. L. 93–559, §53, Dec. 30, 1974, 88 Stat. 1818; amended Pub. L. 94–161, title III, §314, Dec. 20, 1975, 89 Stat. 866, related to economic assistance, etc., to Portugal and Portuguese colonies in Africa gaining independence, prior to repeal by Pub. L. 99–83, title XII, §1211(a)(4), Aug. 8, 1985, 99 Stat. 279, effective Oct. 1, 1985.
+A prior section 2293, Pub. L. 87–195, pt. I, §496, as added Pub. L. 93–559, §53, Dec. 30, 1974, 88 Stat. 1818;amended Pub. L. 94–161, title III, §314, Dec. 20, 1975, 89 Stat. 866, related to economic assistance, etc., to Portugal and Portuguese colonies in Africa gaining independence, prior to repeal by Pub. L. 99–83, title XII, §1211(a)(4), Aug. 8, 1985, 99 Stat. 279, effective Oct. 1, 1985.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Agricultural and Rural Development in Sub-Saharan Africa
 
@@ -212,7 +216,7 @@ Findings.—Congress finds the following:
 
 “(b)
 
-Declaration of Policy.—It is the policy of the United States, consistent with title XII of part I of the Foreign Assistance Act of 1961 \[probably means title XII of chapter 2 of part I of the Foreign Assistance Act of 1961, 22 U.S.C. 2220a et seq.\], to support governments of sub-Saharan African countries, United States and African nongovernmental organizations, universities,businesses, and international agencies, to help ensure the availability of basic nutrition and economic opportunities for individuals in sub-Saharan Africa, through sustainable agriculture and rural development.”
+Declaration of Policy.—It is the policy of the United States, consistent with title XII of part I of the Foreign Assistance Act of 1961 \[probably means title XII of chapter 2 of part I of the Foreign Assistance Act of 1961, 22 U.S.C. 2220a et seq.\], to support governments of sub-Saharan African countries, United States and African nongovernmental organizations, universities, businesses, and international agencies, to help ensure the availability of basic nutrition and economic opportunities for individuals in sub-Saharan Africa, through sustainable agriculture and rural development.”
 
 Pub. L. 105–385, title I, Nov. 13, 1998, 112 Stat. 3462, provided that:
 
@@ -250,7 +254,7 @@ In general.—The Administrator of the United States Agency for International De
 
 &emsp;“(2)
 
-Additional requirement.—In carrying out paragraph (1), the Administrator should encourage the World Bank Consultative Group to Assist the Poorest to coordinate the strategy described in such paragraph.
+Additional requirement.—In carrying out paragraph (1), the Administrator should encouragethe World Bank Consultative Group to Assist the Poorest to coordinate the strategy described in such paragraph.
 
 #### “SEC. 103. SUPPORT FOR PRODUCER-OWNED COOPERATIVE MARKETING ASSOCIATIONS.
 

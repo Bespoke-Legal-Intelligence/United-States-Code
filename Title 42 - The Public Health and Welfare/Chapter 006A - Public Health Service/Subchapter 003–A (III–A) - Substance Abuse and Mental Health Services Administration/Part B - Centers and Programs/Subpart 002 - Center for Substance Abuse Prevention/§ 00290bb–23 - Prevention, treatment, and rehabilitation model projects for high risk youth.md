@@ -6,7 +6,7 @@ The Secretary, through the Director of the Prevention Center, shall make grants 
 
 #### (b) Priority of projects
 
-(1) In making grants for drug abuse and alcohol abuse prevention projects under this section, the Secretary shall give priority to applications for projects directed at children of substance abusers, latchkey children, children at risk of abuse or neglect, preschool children eligible for services under the Head Start Act \[42 U.S.C. 9831 et seq.\], children at risk of dropping out of school, children at risk of becoming adolescent parents, and children who do not attend school and who are at risk of being unemployed.
+(1) In making grants for drug abuse and alcohol abuse prevention projects under this section, the Secretary shall give priority to applications for projects directed at children of substance abusers, latchkey children, children at risk of abuse or neglect, preschool children eligible for services under the Head Start Act \[42 U.S.C. 9831et seq.\], children at risk of dropping out of school, children at risk of becoming adolescent parents, and children who do not attend school and who are at risk of being unemployed.
 
 (2) In making grants for drug abuse and alcohol abuse treatment and rehabilitation projects under this section, the Secretary shall give priority to projects which address the relationship between drug abuse or alcohol abuse and physical child abuse, sexual child abuse, emotional child abuse, dropping out of school, unemployment, delinquency, pregnancy, violence, suicide, or mental health problems.
 
@@ -58,7 +58,7 @@ For purposes of this section, the term “high risk youth” means an individual
 
 #### (h) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated$70,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
+For the purpose of carrying out this section, there are authorized to be appropriated $70,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
 
 (July 1, 1944, ch. 373, title V, §517, formerly §509A, as added Pub. L. 99–570, title IV, §4005(a), Oct. 27, 1986, 100 Stat. 3207–113; amended Pub. L. 100–690, title II, §2051(d), Nov. 18, 1988, 102 Stat. 4206; renumbered §517 and amended Pub. L. 102–321, title I, §114, July 10, 1992, 106 Stat. 346.)
 

@@ -34,7 +34,7 @@ Historical and Revision Notes
 
 R.S. 1574.
 
-In subsections (a) and (c), the words “naval vessel” are substituted for the words “any vessel of the UnitedStates”, in section 243 of existing title 37, and the words “vessel in the employ of the United States”, in section 6144 of title 10, for clarity and to conform to subsection (b).
+In subsections (a) and (c), the words “naval vessel” are substituted for the words “any vessel of the United States”, in section 243 of existing title 37, and the words “vessel in the employ of the United States”, in section 6144 of title 10, for clarity and to conform to subsection (b).
 
 In subsection (c), the word “continues” is substituted for the words “go on”. The words “whichever is earlier” are inserted for clarity. The words “or the findings of a” are inserted since a court of inquiry cannot impose a sentence.
 

@@ -40,7 +40,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 &emsp;(8) The Board shall, not later than December 31 of each year, submit to the Secretary and the Congress a report of its assessment of the activities of the Federal Housing Administration, including the soundness of underwriting procedures, the adequacy of information systems, the appropriateness of staffing patterns, the effectiveness of the Mortgagee Review Board, and other matters related to the Federal Housing Administration's ability to serve the nation's homebuyers and renters. Such report shall contain the Board's recommendations for improvement and include any minority views.
 
-&emsp;(9) The Board shall meet in Washington, D.C., not less than twice annually, or more frequently if requested by the Federal Housing Commissioner or a majority of the members. The Board shall elect a chair, vice-chair and secretary and adopt methods of procedure. The Board may establish committees and subcommittees as needed.
+&emsp;(9) The Board shall meet in Washington, D.C., not less than twice annually, or morefrequently if requested by the Federal Housing Commissioner or a majority of the members. The Board shall elect a chair, vice-chair and secretary and adopt methods of procedure. The Board may establish committees and subcommittees as needed.
 
 &emsp;(10) Subject to the provisions of Section 7 of the Federal Advisory Committee Act, all members of the Board may be compensated and shall be entitled to reimbursement from the Department for traveling expenses incurred in attendance at meetings of the Board.
 
@@ -50,7 +50,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 #### (1) Establishment
 
-&emsp;There is established within the Federal Housing Administration the Mortgagee Review Board (“Board”). The Board is empowered to initiate the issuance of a letter of reprimand, the probation, suspension or withdrawal of any mortgagee found to be engaging in activities in violation of Federal Housing Administration requirements or the nondiscrimination requirements of the Equal Credit Opportunity Act \[15 U.S.C. 1691 et seq.\],the Fair Housing Act \[42 U.S.C. 3601 et seq.\], or Executive Order 11063.
+&emsp;There is established within the Federal Housing Administration the Mortgagee Review Board (“Board”). The Board is empowered to initiate the issuance of a letter of reprimand, the probation, suspension or withdrawal of any mortgagee found to be engaging in activities in violation of Federal Housing Administration requirements or the nondiscrimination requirements of the Equal Credit Opportunity Act \[15 U.S.C. 1691 et seq.\], the Fair Housing Act \[42 U.S.C. 3601 et seq.\], or Executive Order 11063.
 
 #### (2) Composition
 
@@ -114,7 +114,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 &emsp;(A) The Board shall issue a written notice to the mortgagee at least 30 days prior to taking any action against the mortgagee under subparagraph (B), (C), or (D) of paragraph (3). The notice shall state the specific violations which have been alleged, and shall direct the mortgagee to reply in writing to the Board within 30 days. If the mortgagee fails to reply during such period, the Board may make a determination without considering any comments of the mortgagee.
 
-&emsp;(B) If the Board takes action against a mortgagee under subparagraph (B), (C), or (D) of paragraph (3), the Board shall promptly notifythe mortgagee in writing of the nature, duration, and specific reasons for the action. If, within 30 days of receiving the notice, the mortgagee requests a hearing, the Board shall hold a hearing on the record regarding the violations within 30 days of receiving the request. If a mortgagee fails to request a hearing within such 30-day period, the right of the mortgagee to a hearing shall be considered waived.
+&emsp;(B) If the Board takes action against a mortgagee under subparagraph (B), (C), or (D) of paragraph (3), the Board shall promptly notify the mortgagee in writing of the nature, duration, and specific reasons for the action. If, within 30 days of receiving the notice, the mortgagee requests a hearing, the Board shall hold a hearing on the record regarding the violations within 30 days of receiving the request. If a mortgagee fails to request a hearing within such 30-day period, the right of the mortgagee to a hearing shall be considered waived.
 
 &emsp;(C) In any case in which the notification of the Board does not result in a hearing (including any settlement by the Board and a mortgagee), any information regarding the nature of the violation and the resolution of the action shall be available to the public.
 
@@ -156,7 +156,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 &emsp;(C) if a mortgagee is withdrawn, publish its decision in the Federal Register.
 
-(2) Within 60 days of receipt of a notification of action that could lead to withdrawal under subsection <sup>3</sup> (1), the Federal Housing Administration or the Government National Mortgage Association shall—
+(2) Within 60 days of receipt of a notification of action that could lead to withdrawal undersubsection <sup>3</sup> (1), the Federal Housing Administration or the Government National Mortgage Association shall—
 
 &emsp;(A) conduct and complete its own investigation;
 
@@ -168,7 +168,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 (1) The Secretary shall prescribe standards for the appraisal of all property to be insured by the Federal Housing Administration. Such appraisals shall be performed in accordance with uniform standards, by individuals who have demonstrated competence and whose professional conduct is subject to effective supervision. These standards shall require at a minimum—
 
-&emsp;(A) that the appraisals of properties to be insured by the Federal Housing Administration shall be performed in accordance with generally accepted appraisal standards, such as theappraisal standards promulgated by the Appraisal Foundation a not-for-profit corporation established on November 30, 1987 under the laws of Illinois; and
+&emsp;(A) that the appraisals of properties to be insured by the Federal Housing Administration shall be performed in accordance with generally accepted appraisal standards, such as the appraisal standards promulgated by the Appraisal Foundation a not-for-profit corporation established on November 30, 1987 under the laws of Illinois; and
 
 &emsp;(B) that each appraisal be a written statement used in connection with a real estate transaction that is independently an <sup>4</sup> impartially prepared by a licensed or certified appraiser setting forth an opinion of defined value of an adequately described property as of a specific date, supported by presentation and analysis of relevant market information.
 
@@ -232,7 +232,7 @@ Subsec. (c)(7), (8). Pub. L. 102–550, §519(2), added par. (7) and redesignate
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House ofRepresentatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Cross References
 

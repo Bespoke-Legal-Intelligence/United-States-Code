@@ -40,7 +40,7 @@
 
 #### (3) Presence of alien
 
-&emsp;If it is impracticable by reason of an alien's mental incompetency for the alien to bepresent at the proceeding, the Attorney General shall prescribe safeguards to protect the rights and privileges of the alien.
+&emsp;If it is impracticable by reason of an alien's mental incompetency for the alien to be present at the proceeding, the Attorney General shall prescribe safeguards to protect the rights and privileges of the alien.
 
 #### (4) Alien's rights in proceeding
 
@@ -106,7 +106,7 @@
 
 #### (B) Certain medical decisions
 
-&emsp;&emsp;If a medical officer or civil surgeon or board of medical officers has certified under section 1222(b) of this title that an alien hasa disease, illness, or addiction which would make the alien inadmissible under paragraph (1) of section 1182(a) of this title, the decision of the immigration judge shall be based solely upon such certification.
+&emsp;&emsp;If a medical officer or civil surgeon or board of medical officers has certified under section 1222(b) of this title that an alien has a disease, illness, or addiction which would make the alien inadmissible under paragraph (1) of section 1182(a) of this title, the decision of the immigration judge shall be based solely upon such certification.
 
 #### (2) Burden on alien
 
@@ -188,7 +188,7 @@
 
 #### (ii) Asylum
 
-&emsp;&emsp;&emsp;There is no time limit on the filing of a motion to reopen if the basis of the motion is to apply for relief under sections <sup>1</sup> 1158 or1231(b)(3) of this title and is based on changed country conditions arising in the country of nationality or the country to which removal has been ordered, if such evidence is material and was not available and would not have been discovered or presented at the previous proceeding.
+&emsp;&emsp;&emsp;There is no time limit on the filing of a motion to reopen if the basis of the motion is to apply for relief under sections <sup>1</sup> 1158 or 1231(b)(3) of this title and is based on changed country conditions arising in the country of nationality or the country to which removal has been ordered, if such evidence is material and was not available and would not have been discovered or presented at the previous proceeding.
 
 #### (iii) Failure to appear
 
@@ -220,7 +220,7 @@ In this section and section 1229b of this title:
 
 Section effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
-Subsec. (c)(3)(B), (C) of this section applicable to proving convictions entered before, on, or after Sept. 30, 1996, see section 322(c) of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Subsec. (c)(3)(B), (C) of this section applicable to proving convictions entered before, on, or after Sept. 30, 1996, see section 322(c) of Pub. L. 104–208, set out asan Effective Date of 1996 Amendments note under section 1101 of this title.
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 

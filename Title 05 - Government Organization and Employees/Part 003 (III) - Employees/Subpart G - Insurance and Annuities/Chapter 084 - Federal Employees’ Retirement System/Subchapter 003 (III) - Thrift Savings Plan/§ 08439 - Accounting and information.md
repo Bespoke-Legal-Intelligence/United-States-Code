@@ -20,7 +20,7 @@
 
 (2) The Executive Director shall annually engage, on behalf of all individuals for whom an account is maintained, an independent qualified public accountant, who shall conduct an examination of all accounts and other books and records maintained in the administration of this subchapter and subchapter VII as the public accountant considers necessary to enable the public accountant to make the determination required by paragraph (3). The examination shall be conducted in accordance with generally accepted auditing standards and shall involve such tests of the accounts, books, and records as the public accountant considers necessary.
 
-(3) The public accountant conducting an examination under paragraph (2) shall determine whether the accounts, books, and records referred to in such paragraph have been maintained in conformity with generally accepted accounting principles applied on a basis consistent with the manner in which such principles were applied during the examination conducted under such paragraph during the preceding year. The public accountant shall transmit to the Board areport on his examination, including his determination under this paragraph.
+(3) The public accountant conducting an examination under paragraph (2) shall determine whether the accounts, books, and records referred to in such paragraph have been maintained in conformity with generally accepted accounting principles applied on a basis consistent with the manner in which such principles were applied during the examination conducted under such paragraph during the preceding year. The public accountant shall transmit to the Board a report on his examination, including his determination under this paragraph.
 
 (4) In making a determination under paragraph (3), a public accountant may rely on the correctness of any actuarial matter certified by an enrolled actuary if the public accountant states his reliance in the report transmitted to the Board under such paragraph.
 
@@ -34,13 +34,27 @@
 
 (d) Each employee, Member, former employee, or former Member who elects to invest in the Common Stock Index Investment Fund, the Fixed Income Investment Fund, the International Stock Index Investment Fund, or the Small Capitalization Stock Index Investment Fund, defined in paragraphs (1), (3), (5), and (10), respectively, of section 8438(a) of this title shall sign an acknowledgement prescribed by the Executive Director which states that the employee, Member, former employee, or former Member understands that an investment in either such Fund is made at the employee's, Member's, former employee's, or former Member's risk, that the employee, Member, former employee, or former Member is not protected by the Government against any loss on such investment, and that a return on such investment is not guaranteed by the Government.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 555; amended Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §103\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–373; Pub. L. 104–316, title I, §103(j), Oct. 19, 1996, 110 Stat. 3829.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 555; amended Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §103\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–373; Pub. L. 104–316, title I, §103(j), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–65, div. A, title VI, §661(a)(5), Oct. 5, 1999, 113 Stat. 672.)
+
+#### Contingent Amendment of Subsection (a)(1), (2)
+
+<i>Pub. L. 106–65, div. A, title VI, §§661(a)(5), 663, Oct. 5, 1999, 113 Stat. 672, 673, provided that effective only if the President proposes in the 2001 fiscal year budget and there is enacted in the second session of the One Hundred Sixth Congress qualifying offsetting legislation, subsection (a) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (1), by striking “under section 8432(c)(1) of this title” and “under section 8351 of this title”;</i>
+
+<i>(2) in paragraph (2)(A)(i), by striking all after “individual” and inserting a semicolon; and</i>
+
+<i>(3) in paragraph (2)(A)(ii), by striking all after “individual” and inserting “; and”.</i>
 
 #### Amendments
 
 1996—Subsec. (b)(3). Pub. L. 104–316 struck out “and the Comptroller General of the United States” after “to the Board”.
 
 Subsec. (d). Pub. L. 104–208 substituted “Each employee, Member, former employee, or former Member who elects to invest in the Common Stock Index Investment Fund, the Fixed Income Investment Fund, the International Stock Index Investment Fund, or the Small Capitalization Stock Index Investment Fund, defined in paragraphs (1), (3), (5), and (10),” for “Each employee, Member, former employee, or former Member who elects to invest in the Common Stock Index Investment Fund or the Fixed Income Investment Fund described in paragraphs (1) and (3),”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–65 effective only if the President proposes in the 2001 fiscal year budget and there is enacted in the second session of the One Hundred Sixth Congress qualifying offsetting legislation, see section 663 of Pub. L. 106–65, set out as an Effective Date note under section 8440e of this title.
 
 #### Effective Date of 1996 Amendment
 

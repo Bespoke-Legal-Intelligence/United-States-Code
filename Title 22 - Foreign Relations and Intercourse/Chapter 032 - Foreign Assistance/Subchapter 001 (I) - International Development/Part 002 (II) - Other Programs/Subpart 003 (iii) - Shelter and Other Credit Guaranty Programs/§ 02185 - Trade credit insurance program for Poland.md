@@ -30,7 +30,7 @@ The agreement referred to in subsection (c) of this section shall also provide f
 
 #### (2) Crediting of subsequent payments
 
-&emsp;To the extent that any of the funds made available pursuant to paragraph (1) are paid out for a claim arising out of liabilities guaranteed under subsection (a) of this section, amounts received after the date of such payment, with respect to such claim, shall be credited to the reserve fund established pursuant to subsection (d) of this section, shall be merged with the funds in such reserve, and shall be available for the purpose of payments by the Administrator to the Bank for guarantees under subsection (a) of this section.
+&emsp;To the extent that any of the funds made available pursuant to paragraph (1) are paidout for a claim arising out of liabilities guaranteed under subsection (a) of this section, amounts received after the date of such payment, with respect to such claim, shall be credited to the reserve fund established pursuant to subsection (d) of this section, shall be merged with the funds in such reserve, and shall be available for the purpose of payments by the Administrator to the Bank for guarantees under subsection (a) of this section.
 
 #### (f) Appropriations action required
 
@@ -46,7 +46,7 @@ Every 6 months, the Administrator and the President of the Bank shall prepare an
 
 #### (i) Administrative and technical assistance
 
-The Bank shall provide, without reimbursement, such administrative and technical assistance to the administering agency as the Bankand the Administrator determine appropriate to assist the administering agency in carrying out this section.
+The Bank shall provide, without reimbursement, such administrative and technical assistance to the administering agency as the Bank and the Administrator determine appropriate to assist the administering agency in carrying out this section.
 
 #### (j) Fees and premiums
 
@@ -81,6 +81,10 @@ For purposes of this section—
 #### References in Text
 
 The Export-Import Bank Act of 1945, referred to in subsec. (a)(2), is act July 31, 1945, ch. 341, 59 Stat. 526, as amended, which is classified generally to subchapter I (§635 et seq.) of chapter 6A of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 635 of Title 12 and Tables.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Conforming Reference
 

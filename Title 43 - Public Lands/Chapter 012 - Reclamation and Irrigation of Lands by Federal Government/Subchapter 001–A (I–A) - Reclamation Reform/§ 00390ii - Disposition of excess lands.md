@@ -18,7 +18,7 @@ Recordable contracts existing on October 12, 1982, shall be amended at the reque
 
 #### (d) Power of attorney requirement in contracts; exercise of power by Secretary
 
-Any recordable contract covering excess lands sales shall provide that a power of attorney shall vest in the Secretary to sell any excess lands not disposed of by the owners thereof within the period of time specified in the recordable contract. In the exercise of that power, the Secretary shall sell such lands through an impartial selection process only to qualified purchasers according to such reasonable rules andregulations as the Secretary may establish: <i>Provided</i>, That the Secretary shall recover for the owner the fair market value of the land unrelated to irrigation water deliveries plus the fair market value of improvements thereon.
+Any recordable contract covering excess lands sales shall provide that a power of attorney shall vest in the Secretary to sell any excess lands not disposed of by the owners thereof within the period of time specified in the recordable contract. In the exercise of that power, the Secretary shall sell such lands through an impartial selection process only to qualified purchasers according to such reasonable rules and regulations as the Secretary may establish: <i>Provided</i>, That the Secretary shall recover for the owner the fair market value of the land unrelated to irrigation water deliveries plus the fair market value of improvements thereon.
 
 #### (e) Extension of time for disposal of excess lands
 

@@ -24,7 +24,7 @@
 
 #### (i) Payments in lieu of vaccines
 
-&emsp;&emsp;&emsp;In the case of a State that manufactures a pediatric vaccine the Secretary, instead of providing the vaccine on behalf of a State under subparagraph (A), shall provide to the State an amount equal to the value of the quantity of such vaccine that otherwise would have been delivered on behalf of the State under such subparagraph, but only if the State agrees that such payments will only be used for purposes relating to pediatric immunizations.
+&emsp;&emsp;&emsp;In the case of a State that manufactures a pediatric vaccine the Secretary, instead of providing the vaccine on behalf of a State under subparagraph (A), shall provide to the State an amount equal to the value of the quantity of such vaccine thatotherwise would have been delivered on behalf of the State under such subparagraph, but only if the State agrees that such payments will only be used for purposes relating to pediatric immunizations.
 
 #### (ii) Determination of value
 
@@ -60,7 +60,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) The term “insured” means, with respect to a child—
 
-&emsp;&emsp;&emsp;&emsp;(I) for purposes of subparagraph (A)(ii), that the child is enrolled under, and entitled to benefits under, a health insurance policy or plan, including a group health plan, a prepaid health plan, or an employee welfare benefit plan under theEmployee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\]; and
+&emsp;&emsp;&emsp;&emsp;(I) for purposes of subparagraph (A)(ii), that the child is enrolled under, and entitled to benefits under, a health insurance policy or plan, including a group health plan, a prepaid health plan, or an employee welfare benefit plan under the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\]; and
 
 &emsp;&emsp;&emsp;&emsp;(II) for purposes of subparagraph (A)(iii)(II) with respect to a pediatric vaccine, that the child is entitled to benefits under such a health insurance policy or plan, but such benefits are not available with respect to the cost of the pediatric vaccine.
 
@@ -164,7 +164,7 @@ The Secretary shall use, for the purpose of the purchase, delivery, and administ
 
 #### (f) Requirement of State maintenance of immunization laws
 
-In the case of a State that had in effect as of May 1, 1993, a law that requires some or allhealth insurance policies or plans to provide some coverage with respect to a pediatric vaccine, a State program under this section does not comply with the requirements of this section unless the State certifies to the Secretary that the State has not modified or repealed such law in a manner that reduces the amount of coverage so required.
+In the case of a State that had in effect as of May 1, 1993, a law that requires some or all health insurance policies or plans to provide some coverage with respect to a pediatric vaccine, a State program under this section does not comply with the requirements of this section unless the State certifies to the Secretary that the State has not modified or repealed such law in a manner that reduces the amount of coverage so required.
 
 #### (g) Termination
 
@@ -204,7 +204,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (d)(3)(B), is classifi
 
 #### Prior Provisions
 
-A prior section 1396s, act Aug. 14, 1935, ch. 531, title XIX, §1928, formerly §1920, as added Apr. 7, 1986, Pub. L. 99–272, title IX, §9526, 100 Stat. 218, and renumbered and amended, which related to references to laws directly affecting medicaid program, was renumbered section 1931 of act Aug. 14, 1935, by Pub. L. 103–66, title XIII, §13631(b)(1), Aug. 10, 1993, 107 Stat. 637, and transferred to section 1396v of this title.
+A prior section 1396s, act Aug. 14, 1935, ch. 531, title XIX, §1928, formerly §1920, as added Apr. 7, 1986, Pub. L. 99–272, title IX, §9526, 100 Stat. 218, and renumbered and amended, which related to references to laws directlyaffecting medicaid program, was renumbered section 1931 of act Aug. 14, 1935, by Pub. L. 103–66, title XIII, §13631(b)(1), Aug. 10, 1993, 107 Stat. 637, and transferred to section 1396v of this title.
 
 #### Effective Date
 

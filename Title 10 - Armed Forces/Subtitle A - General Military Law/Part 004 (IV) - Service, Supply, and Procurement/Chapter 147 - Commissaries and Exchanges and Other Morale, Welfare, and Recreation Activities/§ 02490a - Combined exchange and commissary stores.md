@@ -20,7 +20,7 @@ Operation at Carswell Field.—Combined exchange and commissary stores operated 
 
 (d)
 
-Adjustments and Surcharges.—Adjustments to, and surcharges on, the sales price of a grocery food item sold in a combined exchange and commissary store under this section shall be provided for in accordance with the same laws that govern such adjustments and surcharges for items sold in a commissary store of the Defense Commissary Agency.
+Adjustments and Surcharges.—Adjustments to, and surcharges on, the sales price of agrocery food item sold in a combined exchange and commissary store under this section shall be provided for in accordance with the same laws that govern such adjustments and surcharges for items sold in a commissary store of the Defense Commissary Agency.
 
 (e)
 

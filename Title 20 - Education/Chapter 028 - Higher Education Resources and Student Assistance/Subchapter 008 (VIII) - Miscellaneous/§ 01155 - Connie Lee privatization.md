@@ -8,7 +8,7 @@
 
 #### (2) Corporate powers
 
-&emsp;The Corporation shall be subject to the provisions of this section, and, to the extent not inconsistent with this section, to the District of Columbia Business Corporation Act (or the comparable law of another State, if applicable). The Corporation shall have the powers conferred upon a corporation by the District of Columbia Business Corporation Act (or such other applicable State law) as from time to time in effect in order to conduct the Corporation's affairs as a private, for-profit corporation and to carry out the Corporation's purposes and activities incidental thereto. The Corporation shall have the power to enter into contracts, to execute instruments, to incur liabilities, to provide products and services, and to do all things as are necessary or incidental to the proper management of the Corporation's affairs and the efficient operation of a private, for-profit business.
+&emsp;The Corporation shall be subject to the provisions of this section, and, to the extent notinconsistent with this section, to the District of Columbia Business Corporation Act (or the comparable law of another State, if applicable). The Corporation shall have the powers conferred upon a corporation by the District of Columbia Business Corporation Act (or such other applicable State law) as from time to time in effect in order to conduct the Corporation's affairs as a private, for-profit corporation and to carry out the Corporation's purposes and activities incidental thereto. The Corporation shall have the power to enter into contracts, to execute instruments, to incur liabilities, to provide products and services, and to do all things as are necessary or incidental to the proper management of the Corporation's affairs and the efficient operation of a private, for-profit business.
 
 #### (3) Limitation on ownership of stock
 
@@ -124,9 +124,9 @@
 
 #### (B) Amounts and proceeds relating to Connie Lee
 
-&emsp;&emsp;The amounts and proceeds described in subparagraph (C) of paragraph (1) shall be used to finance public elementary and secondary school facility construction and repair within the District of Columbia.
+&emsp;&emsp;The amounts and proceeds described in subparagraph (C) of paragraph (1) shall be used to finance public and public charter elementary and secondary school facility construction and repair within the District of Columbia. Of such amounts and proceeds, $5,000,000 shall be set aside for use as a credit enhancement fund for public charter schools in the District of Columbia, with the administration of the fund (including the making of loans) to be carried out by the Mayor through a committee consisting of three individuals appointed by the Mayor of the District of Columbia and two individuals appointed by the Public Charter School Board established under section 2214 of the District of Columbia School Reform Act of 1995.
 
-(Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §603\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–290.)
+(Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §603\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–290; Pub. L. 106–113, div. A, title I, §153, Nov. 29, 1999, 113 Stat. 1526.)
 
 #### References in Text
 
@@ -134,7 +134,7 @@ The District of Columbia Business Corporation Act, referred to in subsec. (a)(2)
 
 Sections 1132f–3 and 1132f–9 of this title, referred to in subsecs. (a)(3)(A) and (b)(5), were repealed by subsec. (d) of this section.
 
-The District of Columbia School Reform Act of 1995, referred to in subsec. (e)(2)(A), is Pub. L. 104–134, title I, §101(b) \[title II\], Apr. 26, 1996, 110 Stat. 1321–77, 1321–107, as amended, which appears in subchapter II (§31–2851 et seq.) of chapter 28 of Title 31, Education and Cultural Institutions, of the District of Columbia Code.
+The District of Columbia School Reform Act of 1995, referred to in subsec. (e)(2), is Pub. L. 104–134, title I,§101(b) \[title II\], Apr. 26, 1996, 110 Stat. 1321–77, 1321–107, as amended, which appears in subchapter II (§31–2851 et seq.) of chapter 28 of Title 31, Education and Cultural Institutions, of the District of Columbia Code.
 
 #### Codification
 
@@ -143,6 +143,10 @@ Section was formerly classified to section 1132f–10 of this title.
 Section enacted as part of the Student Loan Marketing Association Reorganization Act of 1996, and not as part of the Higher Education Act of 1965 which comprises this chapter.
 
 Section is comprised of section 101(e) \[title VI, §603\] of div. A of Pub. L. 104–208. Subsec. (d) of section 603 of title VI of section 101(e) of Pub. L. 104–208, repealed sections 1132f to 1132f–9 of this title.
+
+#### Amendments
+
+1999—Subsec. (e)(2)(B). Pub. L. 106–113 inserted “and public charter” after “public” and inserted at end “Of such amounts and proceeds, $5,000,000 shall be set aside for use as a credit enhancement fund for public charter schools in the District of Columbia, with the administration of the fund (including the making of loans) to be carried out by the Mayor through a committee consisting of three individuals appointed by the Mayor of the District of Columbia and two individuals appointed by the Public Charter School Board established under section 2214 of the District of Columbia School Reform Act of 1995.”
 
 #### Section Referred to in Other Sections
 

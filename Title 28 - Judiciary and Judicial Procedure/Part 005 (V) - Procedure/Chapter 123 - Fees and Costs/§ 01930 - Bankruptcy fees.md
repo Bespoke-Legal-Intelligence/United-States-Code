@@ -2,7 +2,7 @@
 
 (a) Notwithstanding section 1915 of this title, the parties commencing a case under title 11 shall pay to the clerk of the district court or the clerk of the bankruptcy court, if one has been certified pursuant to section 156(b) of this title, the following filing fees:
 
-&emsp;(1) For a case commenced under chapter 7 or 13 of title 11, $130.
+&emsp;(1) For a case commenced under chapter 7 or 13 of title 11, $155.
 
 &emsp;(2) For a case commenced under chapter 9 of title 11, $300.
 
@@ -14,7 +14,7 @@
 
 &emsp;(6) In addition to the filing fee paid to the clerk, a quarterly fee shall be paid to the United States trustee, for deposit in the Treasury, in each case under chapter 11 of title 11 for each quarter (including any fraction thereof) until the case is converted or dismissed, whichever occurs first. The fee shall be $250 for each quarter in which disbursements total less than $15,000; $500 for each quarter in which disbursements total $15,000 or more but less than $75,000; $750 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,250 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,500 for each quarter in which disbursements total $225,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $5,000 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $7,500 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $8,000 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $10,000 for each quarter in which disbursements total $5,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.
 
-> An individual commencing a voluntary case or a joint case under title 11 may pay such fee in installments. For converting, on request of the debtor, a case under chapter 7, or 13 of title 11, to a case under chapter 11 of title 11, the debtor shall pay to the clerk of the district court or the clerk of the bankruptcy court, if one has beencertified pursuant to section 156(b) of this title, a fee of $400.
+> An individual commencing a voluntary case or a joint case under title 11 may pay such fee in installments. For converting, on request of the debtor, a case under chapter 7, or 13 of title 11, to a case under chapter 11 of title 11, the debtor shall pay to the clerk of the district court or the clerk of the bankruptcy court, if one has been certified pursuant to section 156(b) of this title, a fee of $400.
 
 (b) The Judicial Conference of the United States may prescribe additional fees in cases under title 11 of the same kind as the Judicial Conference prescribes under section 1914(b) of this title.
 
@@ -24,7 +24,7 @@
 
 (e) The clerk of the court may collect only the fees prescribed under this section.
 
-(Added Pub. L. 95–598, title II, §246(a), Nov. 6, 1978, 92 Stat. 2671; amended Pub. L. 98–353, title I, §111(a), (b), July 10, 1984, 98 Stat. 342; Pub. L. 99–500, §101(b) \[title IV, §407(b)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–64, and Pub. L. 99–591, §101(b) \[title IV, §407(b)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–64; Pub. L. 99–554, title I, §§117, 144(f), Oct. 27, 1986, 100 Stat. 3095, 3097; Pub. L. 101–162, title IV, §406(a), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(a), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(1), (b)(1), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(a)\], Sept. 30, 1996, 110 Stat. 3009, 3009–18.)
+(Added Pub. L. 95–598, title II, §246(a), Nov. 6, 1978, 92 Stat. 2671; amended Pub. L. 98–353, title I, §111(a), (b), July 10, 1984, 98 Stat. 342; Pub. L. 99–500, §101(b) \[title IV, §407(b)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–64, and Pub. L. 99–591, §101(b) \[title IV, §407(b)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–64; Pub. L. 99–554, title I, §§117, 144(f), Oct. 27, 1986, 100 Stat. 3095, 3097; Pub. L. 101–162, title IV, §406(a), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(a), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(1), (b)(1), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(a)\], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20.)
 
 #### Codification
 
@@ -33,6 +33,8 @@ Amendment by Pub. L. 104–91 is based on section 111(a) of H.R. 2076, One Hundr
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+1999—Subsec. (a)(1). Pub. L. 106–113 substituted “$155” for “$130”.
 
 1996—Subsec. (a)(3). Pub. L. 104–208 inserted a dollar sign before “800”.
 
@@ -63,6 +65,10 @@ Subsec. (a)(5), (6). Pub. L. 99–554, §117(4), added pars. (5) and (6).
 1984—Pub. L. 98–353, §111(b), substituted “fees” for “courts” in section catchline.
 
 Subsecs. (a), (c), (e). Pub. L. 98–353, §111(a), substituted “clerk of the court” for “clerk of the bankruptcy court”.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that the amendment made by section 1000(a)(1) \[title I, §113\] is effective 30 days after Nov. 29, 1999.
 
 #### Effective Date of 1993 Amendment
 
@@ -136,11 +142,11 @@ Section 404(a) of Pub. L. 101–162 provided that: “For fiscal year 1990 and h
 
 #### Bankruptcy Court Miscellaneous Fee Schedule
 
-#### <i>(Effective January 1, 1998)</i>
+#### <i>(Effective October 1, 1999)</i>
 
 Following are fees to be charged for services to be performed by clerks of the bankruptcy courts. No fees are to be charged for services rendered on behalf of the United States, with the exception of those specifically prescribed in items 1, 5, and 23, or to bankruptcy administrators appointed under Public Law No. 99–554, §302(d)(3)(I). No fees under this schedule shall be charged to federal agencies or programs which are funded from judiciary appropriations, including, but not limited to, agencies, organizations, and individuals providing services authorized by the Criminal Justice Act, 18 U.S.C. §3006A.
 
-(1) For reproducing any record or paper, 50 cents per page. This fee shall apply to paper copies made from either: (1) original documents; or (2) microfiche or microfilm reproductions of the original records. This fee shall apply to services rendered on behalf of the United States if the record or paper requested is available through electronic access.
+(1) For reproducing any record or paper, $.50 per page. This fee shall apply to paper copies made from either: (1) original documents; or (2) microfiche or microfilm reproductions of the original records. This fee shall apply to services rendered on behalf of the United States if the record or paper requested is available through electronic access.
 
 (2) For certification of any document or paper, whether the certification is made directly on the document or by separate instrument, $5. For exemplification of any document or paper, twice the amount of the charge for certification.
 
@@ -188,7 +194,7 @@ Following are fees to be charged for services to be performed by clerks of the b
 
 (22) For docketing a cross appeal from a bankruptcy court determination, the fee shall be the same amount as the fee for docketing a case on appeal or review to the appellate court as required by Item 1 of the Courts of Appeals Miscellaneous Fee Schedule.
 
-(23) For usage of electronic access to court data, 60 cents per minute of usage \[provided the court may, for good cause, exempt persons or classes of persons from the fees, in order to avoid unreasonable burdens and to promote public access to such information\]. All such fees collected shall be deposited to the Judiciary Information Technology Fund. This fee shall apply to the United States. (The Judicial Conference has approved an advisory note clarifying the judiciary's policy with respect to exemptions from this fee.)
+(23) For usage of electronic access to court data: $.60 per minute of usage via dial up service, and $.07 per page for public users obtaining information through a federal judiciary Internet site \[provided the court may, for good cause, exempt persons or classes of persons from the fees, in order to avoid unreasonable burdens and to promote public access to such information\]. All such fees collected shall be deposited to the Judiciary Information Technology Fund. These fees shall applyto the United States. (The Judicial Conference has approved an advisory note clarifying the judiciary's policy with respect to exemptions from the fees for usage of electronic access to court data. The Conference has also approved an advisory note defining information that may be provided to the public at no cost.)
 
 #### Section Referred to in Other Sections
 

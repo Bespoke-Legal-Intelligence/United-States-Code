@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) The Commission shall prescribe labeling rules under this section applicable to all covered products of each of the types specified in paragraphs (1), (2), (4), (6), and (8) through (12) of section 6292(a) of this title, except to the extent that, with respect to any such type (or class thereof), the Commission determines under the second sentence of subsection (b)(5) of this section that labeling in accordance with this section is not technologically or economically feasible.
+(1) The Commission shall prescribe labeling rules under this section applicable to all coveredproducts of each of the types specified in paragraphs (1), (2), (4), (6), and (8) through (12) of section 6292(a) of this title, except to the extent that, with respect to any such type (or class thereof), the Commission determines under the second sentence of subsection (b)(5) of this section that labeling in accordance with this section is not technologically or economically feasible.
 
 (2)(A) The Commission shall prescribe labeling rules under this section applicable to all covered products of each of the types specified in paragraphs (3), (5), and (7) of section 6292(a) of this title, except to the extent that with respect to any such type (or class thereof), the Commission determines under the second sentence of subsection (b)(5) of this section that labeling in accordance with this section is not technologically or economically feasible or is not likely to assist consumers in making purchasing decisions.
 
@@ -72,7 +72,7 @@
 
 (3) A rule under this section shall require that the label be displayed in a manner that the Commission determines is likely to assist consumers in making purchasing decisions and is appropriate to carry out this part. The Commission may permit a tag to be used in lieu of a label in any case in which the Commission finds that a tag will carry out the purposes for which the label was intended.
 
-(4) A rule under this section applicable to a covered product may require disclosure, in any printed matter displayed or distributed at the point of sale of such product, of any information which may be required under this section to be disclosed on the label of such product. Requirements under this paragraph shall not apply to any broadcast advertisement or any advertisement in any newspaper, magazine, or other periodical.
+(4) A rule under this section applicable to a covered product may require disclosure, in any printed matter displayed or distributed at thepoint of sale of such product, of any information which may be required under this section to be disclosed on the label of such product. Requirements under this paragraph shall not apply to any broadcast advertisement or any advertisement in any newspaper, magazine, or other periodical.
 
 (5) The Commission may require that a manufacturer of a covered product to which a rule under this section applies—
 

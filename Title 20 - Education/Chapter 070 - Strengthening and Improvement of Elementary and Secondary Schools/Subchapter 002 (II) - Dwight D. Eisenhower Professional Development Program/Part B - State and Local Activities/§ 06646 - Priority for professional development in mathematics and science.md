@@ -2,7 +2,7 @@
 
 #### (a) Appropriation of less than $250,000,000
 
-In any fiscal year for which the amount appropriated for this subchapter (other than part C) is less than $250,000,000, each State shall ensure that all funds distributed in accordance with section 6643(1)(C) <sup>1</sup> of this title are used for professional development in mathematics and science.
+In any fiscal year for which the amount appropriated for this subchapter (other than part C) isless than $250,000,000, each State shall ensure that all funds distributed in accordance with section 6643(1)(C) <sup>1</sup> of this title are used for professional development in mathematics and science.
 
 #### (b) Appropriation equal to or above $250,000,000
 

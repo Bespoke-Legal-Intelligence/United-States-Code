@@ -78,7 +78,7 @@ Budget Requests.—Budget requests submitted to Congress for the National Defens
 
 (i)
 
-Title or Management of Vessels.—Nothing in this section (other than subsection (c)(1)(E)) shall be construed to affect or modify title to, management of, or funding responsibilities for, any vessel of the National Defense Reserve Fleet, or assigned to the Ready ReserveForce component of the National Defense Reserve Fleet, as established by section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).
+Title or Management of Vessels.—Nothing in this section (other than subsection (c)(1)(E)) shall be construed to affect or modify title to, management of, or funding responsibilities for, any vessel of the National Defense Reserve Fleet, or assigned to the Ready Reserve Force component of the National Defense Reserve Fleet, as established by section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).
 
 (j)
 
@@ -86,21 +86,53 @@ Authority for Certain Use of Funds.—Upon a determination by the Secretary of D
 
 (k)
 
+Contracts for Incorporation of Defense Features in Commercial Vessels.—(1) The head of an agency may enter into a contract with a company submitting an offer for that company to install and maintain defense features for national defense purposes in one or more commercial vessels owned or controlled by that company in accordance with the purpose for which funds in the National Defense Sealift Fund are available under subsection (c)(1)(C). The head of the agency may enter into such a contract only after the head of the agency makes a determination of the economic soundness of the offer.
+
+(2) The head of an agency may make advance payments to the contractor under a contract under paragraph (1) in a lump sum, in annual payments, or in a combination thereof for costs associated with the installation and maintenance of the defense features on a vessel covered by the contract, as follows:
+
+&emsp;(A) The costs to build, procure, and install a defense feature in the vessel.
+
+&emsp;(B) The costs to periodically maintain and test any defense feature on the vessel.
+
+&emsp;(C) Any increased costs of operation or any loss of revenue attributable to the installation or maintenance of any defense feature on the vessel.
+
+&emsp;(D) Any additional costs associated with the terms and conditions of the contract.
+
+(3) For any contract under paragraph (1) under which the United States makes advance payments under paragraph (2) for the costs associated with installation or maintenance of any defense feature on a commercial vessel, the contractor shall provide to the United States such security interests in the vessel, by way of a preferred mortgage under section 31322 of title 46 or otherwise, as the head of the agency may prescribe in order to adequately protect the United States against loss for the total amount of those costs.
+
+(4) Each contract entered into under this subsection shall—
+
+&emsp;(A) set forth terms and conditions under which, so long as a vessel covered by the contract is owned or controlled by the contractor, the contractor is to operate the vessel for the Department of Defense notwithstanding any other contract or commitment of that contractor; and
+
+&emsp;(B) provide that the contractor operating the vessel for the Department of Defense shall be paid for that operation at fair and reasonable rates.
+
+(5) The head of an agency may not delegate authority under this subsection to any officer or employee in a position below the level of head of a procuring activity.
+
+(<i>l</i>)
+
 Definitions.—In this section:
 
 &emsp;(1) The term “Fund” means the National Defense Sealift Fund established by subsection (a).
 
-&emsp;(2) The term “Department of Defense sealift vessel” means any ship owned, operated, controlled, or chartered by the Department of Defense that is—
+&emsp;(2) The term “Department of Defense sealift vessel” means any ship owned, operated, controlled, or chartered by the Department of Defense that is any of the following:
 
-&emsp;&emsp;(A) a fast sealift ship, including any vessel in the Fast Sealift Program established under section 1424 of Public Law 101–510 (104 Stat. 1683);
+&emsp;&emsp;(A) A fast sealift ship, including any vessel in the Fast Sealift Program establishedunder section 1424 of Public Law 101–510 (104 Stat. 1683).
 
-&emsp;&emsp;(B) a maritime prepositioning ship;
+&emsp;&emsp;(B) A maritime prepositioning ship.
 
-&emsp;&emsp;(C) an afloat prepositioning ship;
+&emsp;&emsp;(C) An afloat prepositioning ship.
 
-&emsp;&emsp;(D) an aviation maintenance support ship; or
+&emsp;&emsp;(D) An aviation maintenance support ship.
 
-&emsp;&emsp;(E) a hospital ship.
+&emsp;&emsp;(E) A hospital ship.
+
+&emsp;&emsp;(F) A strategic sealift ship.
+
+&emsp;&emsp;(G) A combat logistics force ship.
+
+&emsp;&emsp;(H) A maritime prepositioned ship.
+
+&emsp;&emsp;(I) Any other auxiliary support vessel.
 
 &emsp;(3) The term “national defense sealift vessel” means—
 
@@ -112,19 +144,31 @@ Definitions.—In this section:
 
 &emsp;&emsp;(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 
-&emsp;&emsp;(B) the Committee on National Security and the Committee on Appropriations of the House of Representatives.
+&emsp;&emsp;(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
 
-(Added Pub. L. 102–484, div. A, title X, §1024(a)(1), Oct. 23, 1992, 106 Stat. 2486; amended Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896; Pub. L. 104–106, div. A, title X, §1014(a), title XV, §1502(a)(15), Feb. 10, 1996, 110 Stat. 423, 503.)
+&emsp;(5) The term “head of an agency” has the meaning given that term in section 2302(1) of this title.
+
+(Added Pub. L. 102–484, div. A, title X, §1024(a)(1), Oct. 23, 1992, 106 Stat. 2486; amended Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896; Pub. L. 104–106, div. A, title X, §1014(a), title XV, §1502(a)(15), Feb. 10, 1996, 110 Stat. 423, 503; Pub. L. 106–65, div. A, title X, §§1014(b), 1015, 1067(1), Oct. 5, 1999, 113 Stat. 742, 743, 774.)
 
 #### References in Text
 
-Section 1424 of Public Law 101–510, referred to in subsecs. (d)(3), (f)(2), and (k)(2)(A), is section 1424 of the National Defense Authorization Act for Fiscal Year 1991 which is set out as a note under section 7291 of this title.
+Section 1424 of Public Law 101–510, referred to in subsecs. (d)(3), (f)(2), and (<i>l</i>)(2)(A), is section 1424 of the National Defense Authorization Act for Fiscal Year 1991 which is set out as a note under section 7291 of this title.
 
 #### Codification
 
 Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896, provided that section 1024 of the National Defense Authorization Act for Fiscal Year 1993 \[H.R. 5006, Pub. L. 102–484\], as it passed the Senate on Oct. 3, 1992, shall be amended in subsection 2218(c)(2) proposed for inclusion in this chapter by deleting all after “expended only” down to and including “appropriations Act” and inserting in lieu thereof “in amounts authorized by law”. It further provided that for purposes of that amendment, Pub. L. 102–396 shall be treated as having been enacted after Pub. L. 102–484, regardless of the actual dates of enactment. The date of Oct. 3, 1992, referred to as the date the Senate passed the National Defense Authorization Act for Fiscal Year 1993, apparently is based on an order adopted by the Senate on Oct. 3, 1992 \[Cong. Rec., vol. 138, p. 30919\] providing that when the conference report on the National Defense Authorization Act for Fiscal Year 1993 was received by the Senate from the House of Representatives it would be deemed to have been agreed to. On Oct. 5, 1992, the Senate received the conference report from the House, and it was considered adopted pursuant to that order \[Cong. Rec., vol. 138, p. 31565\].
 
 #### Amendments
+
+1999—Subsec. (k). Pub. L. 106–65, §1015(a)(2), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
+
+Subsec. (k)(2). Pub. L. 106–65, §1014(b), substituted “that is any of the following:” for “that is—” in introductory provisions, substituted “A” for “a” and a period for the semicolon in subpars. (A) and (B), “An” for “an” and a period for the semicolon in subpar. (C), “An” for “an” and a period for “; or” in subpar. (D), and “A” for “a” in subpar. (E), and added subpars. (F) to (I).
+
+Subsec. (<i>l</i>). Pub. L. 106–65, §1015(a)(1), redesignated subsec. (k) as (<i>l</i>).
+
+Subsec. (<i>l</i>)(4)(B). Pub. L. 106–65, §1067(1), substituted “Committee on Armed Services” for “Committee on National Security”.
+
+Subsec. (<i>l</i>)(5). Pub. L. 106–65, §1015(b), added par. (5).
 
 1996—Subsec. (c)(1). Pub. L. 104–106, §1014(a)(1)(A), substituted “only for the following purposes:” for “only for—”.
 
@@ -145,8 +189,4 @@ Subsec. (j). Pub. L. 104–106, §1502(a)(15)(A), substituted “the congression
 Subsec. (k)(4). Pub. L. 104–106, §1502(a)(15)(B), added par. (4).
 
 1992—Subsec. (c)(2). Pub. L. 102–396 substituted “in amounts authorized by law” for “for programs, projects, and activities and only in amounts authorized in, or otherwise permitted under, an Act other than an appropriations Act”. See Codification note above.
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 

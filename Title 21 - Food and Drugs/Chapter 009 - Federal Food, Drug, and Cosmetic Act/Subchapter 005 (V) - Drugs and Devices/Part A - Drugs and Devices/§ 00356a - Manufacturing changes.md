@@ -34,7 +34,7 @@ For purposes of subsection (a)(1) of this section, a drug made with a manufactur
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a)(2)(B) of this section, the Secretary may regulate drugs made with manufacturing changes that are not major manufacturing changes as follows:
+&emsp;For purposes of subsection (a)(2)(B) of this section, the Secretary may regulate drugsmade with manufacturing changes that are not major manufacturing changes as follows:
 
 &emsp;&emsp;(A) The Secretary may in accordance with paragraph (2) authorize holders to distribute such drugs without submitting a supplemental application for such changes.
 

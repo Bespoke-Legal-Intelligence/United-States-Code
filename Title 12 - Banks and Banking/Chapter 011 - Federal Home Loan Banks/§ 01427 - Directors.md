@@ -2,7 +2,7 @@
 
 #### (a) Number; appointment and election; qualifications; conflicts of interest
 
-The management of each Federal home loan bank shall be vested in a board of fourteen directors, eight of whom shall be elected by the members as hereinafter provided in this section and six of whom shall be appointed by the Board referred to in section 1422a of this title, all of whom shall be citizens of the United States and bona fide residents of the district in which such bank is located: <i>Provided</i>, That in any district which includes five or more States the Board may by regulation increase the elective directors to a number not exceeding thirteen and may increase the appointive directors to a number not exceeding three-fourths the number of elective directors: <i>Provided further</i>, That if at any time the number of elective directors in the case of any district is not at least equal to the number of States in such district the Board shall exercise the authority conferred by the next preceding proviso so as to increase such elective directors to a number at least equal to the number of States in such district. At least 2 of the Federal Home Loan Bank directors who are appointed by the Board shall be representatives chosen from organizations with more than a 2-year history of representing consumer or community interests on banking services, credit needs, housing, or financial consumer protections. No Federal Home Loan Bank director who is appointed pursuant to this subsection may, during such Bank director's term of office, serve as an officer of any Federal Home Loan Bank or a director or officer of any member of a Bank, or hold shares, or any other financial interest in, any member of a Bank.
+The management of each Federal home loan bank shall be vested in a board of fourteen directors, eight of whom shall be elected by the members as hereinafter provided in this section and six of whom shall be appointed by the Board referred to in section 1422a of this title, all of whom shall be citizens of the United States, and each of whom shall be either a bona fide resident of the district in which such bank is located or an officer or director of a member of such bank located in that district: <i>Provided</i>, That in any district which includes five or more States the Board may by regulation increase the elective directors to a number not exceeding thirteen and may increase the appointive directors to a number not exceeding three-fourths the number of elective directors: <i>Provided further</i>, That if at any time the number of elective directors in the case of any district is not at least equal to the number of States in such district the Board shall exercise the authority conferred by the next preceding proviso so as to increase such elective directors to a number at least equal to the number of States in such district. At least 2 of the Federal Home Loan Bank directors who are appointed by the Board shall be representatives chosen from organizations with more than a 2-year history of representing consumer or community interests on banking services, credit needs, housing, or financial consumer protections. No Federal Home Loan Bank director who is appointed pursuant to this subsection may, during such Bank director's term of office, serve as an officer of any Federal Home Loan Bank or a director or officer of any member of a Bank, or hold shares, or any other financial interest in, any member of a Bank.
 
 #### (b) Elective directorships; qualifications; nominations and election
 
@@ -10,11 +10,11 @@ Each elective directorship shall be designated by the Board as representing the 
 
 #### (c) Apportionment among States in bank district; designation of State location
 
-The number of elective directorships designated as representing the members located in each separate State in a bank district shall be determined by the Board in the approximate ratio of the percentage of the required stock, as determined pursuant to regulation of the Board, of the members located in that State at the end of the calendar year next preceding the date of the election to the total required stock, as so determined, of all members of such bank at the end of such year, except that in the case of each State such number shall not be less than one and shall not be more than six. Notwithstanding any other provision of this section, if at any time the number of elective directorships so designated as representing the members located in any State would not be at least equal to the total number of elective directorships which, on December 31, 1960, were filled by officers or directors of members whose principal places of business were located in such State, the Board shall add to the board of directors of the bank of the district in which such State is located such number of elective directorships, and shall so designate the directorship or directorships thus added, that the number of elective directorships designated as representing the members located in such State will equal said total number. Any elective directorship so added shall exist only until the expiration of its first term. The Board shall, with respect to each member of a Federal home loan bank, designate the State in the district of such bank in which such member shall, for the purposes of this subsection and subsection (b) of this section, be deemed to be located, and may from time to time change any such designation, but if the principal place of business of any such member is located in a State of such district it shall be the duty of the Board to designate such State as the State in which such member shall, for said purposes, be deemed to be located. As used in the second sentence of this subsection, the term “total number of elective directorships” means the total number of elective directorships on the board of directors of the bank of the district in which such State was located on December 31, 1960, and the term “members” where used for the second time in such sentence means members of such bank.
+The number of elective directorships designated as representing the members located in each separate State in a bank district shall be determined by the Board in the approximate ratio of the percentage of the required stock, as determined pursuant to regulation of the Board, of the members located in that State at the end of the calendar year next preceding the date of the election to the total required stock, as so determined, of all members of such bank at the end of such year, except that in the case of each State such number shall not be less than one and shall not be more than six. Notwithstanding any other provision of this section, if at any time the number of elective directorships so designated as representing the members located in any State would not be at least equal to the total number of elective directorships which, on December 31, 1960, were filled by officers or directors of members whose principal places of business were located in such State, the Board shall add to the board of directors of the bank ofthe district in which such State is located such number of elective directorships, and shall so designate the directorship or directorships thus added, that the number of elective directorships designated as representing the members located in such State will equal said total number. Any elective directorship so added shall exist only until the expiration of its first term. The Board shall, with respect to each member of a Federal home loan bank, designate the State in the district of such bank in which such member shall, for the purposes of this subsection and subsection (b) of this section, be deemed to be located, and may from time to time change any such designation, but if the principal place of business of any such member is located in a State of such district it shall be the duty of the Board to designate such State as the State in which such member shall, for said purposes, be deemed to be located. As used in the second sentence of this subsection, the term “total number of elective directorships” means the total number of elective directorships on the board of directors of the bank of the district in which such State was located on December 31, 1960, and the term “members” where used for the second time in such sentence means members of such bank.
 
 #### (d) Terms; rules and regulations governing nominations and elections
 
-The term of each elective directorship shall be two years and the term of each appointive directorship shall be four years. If any person, before or after, or partly before and partly after, September 8, 1961, has been elected to each of three consecutive full terms as an elective director of a Federal home loan bank in any elective directorship or elective directorships and has served for all or part of each of said terms, such person shall not be eligible for election to an elective directorship of such bank for a term which begins earlier than two years after the expiration of the last expiring of said three terms. The Board is authorized to prescribe such rules and regulations as it may deem necessary or appropriate for the nomination and election of directors of Federal home loan banks, including, without limitation on the generality of the foregoing, rules and regulations with respect to the breaking of ties and with respect to the inclusion of more than one directorship on a single ballot and the methods of voting and of determining the results of voting in such cases.
+The term of each director, whether elected or appointed, shall be 3 years. The board of directors of each Federal home loan bank and the Finance Board shall adjust the terms of members first elected or appointed after November 12, 1999, to ensure that the terms of the members of the board of directors are staggered with approximately 1/3 of the terms expiring each year. If any person, before or after, or partly before and partly after, September 8, 1961, has been elected to each of three consecutive full terms as an elective director of a Federal home loan bank in any elective directorship or elective directorships and has served for all or part of each of said terms, such person shall not be eligible for election to an elective directorship of such bank for a term which begins earlier than two years after the expiration of the last expiring of said three terms. The Board is authorized to prescribe such rules and regulations as it may deem necessary or appropriate for the nomination and election of directors of Federal home loan banks, including, without limitation on the generality of the foregoing, rules and regulations with respect to the breaking of ties and with respect to the inclusion of more than one directorship on a single ballot and the methods of voting and of determining the results of voting in such cases.
 
 #### (e) Continuation of existing terms; directorship for the Commonwealth of Puerto Rico
 
@@ -34,17 +34,69 @@ Each term, outstanding on the effective date of the amendment to this section ab
 
 &emsp;In the event of a vacancy in any elective Bank directorship, such vacancy shall be filled by an affirmative vote of a majority of the remaining Bank directors, regardless of whether such remaining Bank directors constitute a quorum of the Bank's board of directors. A Bank director so elected shall satisfy the requirements for eligibility which were applicable to his predecessor. If any elective Bank director shall cease to have any qualification set forth in this section, the office held by such person shall immediately become vacant, and such person shall not continue to act as a Bank director.
 
-#### (g) Chairman and vice chairman
+#### (g) Chairperson and Vice Chairperson
 
-The Board shall designate one of the directors of each bank to be chairman, and one to be vice chairman, of the board of directors of such bank.
+#### (1) Election
+
+&emsp;The Chairperson and Vice Chairperson of the board of directors of each Federal home loan bank shall be elected by a majority of all the directors of such bank from among the directors of the bank.
+
+#### (2) Terms
+
+&emsp;The term of office of the Chairperson and the Vice Chairperson of the board of directors of a Federal home loan bank shall be 2 years.
+
+#### (3) Acting Chairperson
+
+&emsp;In the event of a vacancy in the position of Chairperson of the board of directors or during the absence or disability of the Chairperson, the Vice Chairperson shall act as Chairperson.
+
+#### (4) Procedures
+
+&emsp;The board of directors of each Federal home loan bank shall establish procedures, in the bylaws of such board, for designating an acting chairperson for any period during which the Chairperson and the Vice Chairperson are not available to carry out the requirements of that position for any reason and removing any person from any such position for good cause.
 
 #### (h) Appointment where members hold less than $1,000,000 of capital stock
 
 If at any time when nominations are required members shall hold less than $1,000,000 of the capital stock of the Federal home loan bank, the Board shall appoint a director or directors to fill the place or places for which such nominations are required, and the Board may, prior to the filing of the certificate mentioned in section 1432 of this title, appoint directors who shall be respectively designated by it as appointive directors and as elective directors, in accordance with the provisions of this section.
 
-#### (i) Compensation and expenses of director
+#### (i) Directors’ compensation
 
-Each bank may pay its directors reasonable compensation for the time required of them, and their necessary expenses, in the performance of their duties, in accordance with the resolutions adopted by such directors, subject to the approval of the board.
+#### (1) In general
+
+&emsp;Subject to paragraph (2), each bank may pay its directors reasonable compensation for the time required of them, and their necessary expenses, in the performance of their duties, in accordance with the resolutions adopted by such directors, subject to the approval of the board.
+
+#### (2) Limitation
+
+#### (A) In general
+
+&emsp;&emsp;The annual salary of each of the following members of the board of directors of a Federal home loan bank may not exceed the amount specified:
+
+<b>In the case of the—</b>
+
+<b>The annual compensation</b>
+
+&nbsp;
+
+<b>may not exceed—  </b>
+
+&nbsp;&nbsp;Chairperson
+
+$25,000&nbsp;&nbsp;
+
+&nbsp;&nbsp;Vice Chairperson
+
+$20,000&nbsp;&nbsp;
+
+&nbsp;&nbsp;All other members
+
+$15,000.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### (B) Adjustment
+
+&emsp;&emsp;Beginning January 1, 2001, each dollar amount referred to in the table in subparagraph (A) shall be adjusted annually by the Finance Board, based on the annual percentage increase, if any, in the Consumer Price Index for all urban consumers, as published by the Department of Labor.
+
+#### (C) Expenses
+
+&emsp;&emsp;Subparagraph (A) shall not be construed as prohibiting the reimbursement of expenses incurred by members of the board of directors of any Federal home loan bank in connection with service on the board of directors.
 
 #### (j) Duties of directors
 
@@ -54,13 +106,21 @@ Such board of directors shall administer the affairs of the bank fairly and impa
 
 The board of directors of each Bank shall determine the terms and conditions under which such Bank may indemnify its directors, officers, employees or agents.
 
-(July 22, 1932, ch. 522, §7, 47 Stat. 730; May 28, 1935, ch. 150, §3, 49 Stat. 294; Aug. 11, 1955, ch. 783, title I, §109(a)(2), 69 Stat. 640; Pub. L. 86–349, §§1, 2, Sept. 22, 1959, 73 Stat. 625; Pub. L. 87–211, §1, Sept. 8, 1961, 75 Stat. 486; Pub. L. 87–676, Sept. 19, 1962, 76 Stat. 559; Pub. L. 93–541, §3, Dec. 26, 1974, 88 Stat. 1739; Pub. L. 101–73, title VII, §§707, 710(b)(4), Aug. 9, 1989, 103 Stat. 417, 418.)
+(July 22, 1932, ch. 522, §7, 47 Stat. 730; May 28, 1935, ch. 150, §3, 49 Stat. 294; Aug. 11, 1955, ch. 783, title I, §109(a)(2), 69 Stat. 640; Pub. L. 86–349, §§1, 2, Sept. 22, 1959, 73 Stat. 625; Pub. L. 87–211, §1, Sept. 8, 1961, 75 Stat. 486; Pub. L. 87–676, Sept. 19, 1962, 76 Stat. 559; Pub. L. 93–541, §3, Dec. 26, 1974, 88 Stat. 1739; Pub. L. 101–73, title VII, §§707, 710(b)(4), Aug. 9, 1989, 103 Stat. 417, 418; Pub. L. 106–102, title VI, §606(a), (b), Nov. 12, 1999, 113 Stat. 1452, 1453.)
 
 #### References in Text
 
 The effective date of the amendment to this section, referred to in subsec. (e), probably means the effective date of Pub. L. 87–211. See Effective Date of 1961 Amendment note below.
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–102, §606(a)(1), substituted “, and each of whom shall be either a bona fide resident of the district in which such bank is located or an officer or director of a member of such bank located in that district” for “and bona fide residents of the district in which such bank is located”.
+
+Subsec. (d). Pub. L. 106–102, §606(a)(2), substituted “The term of each director, whether elected or appointed, shall be 3 years. The board of directors of each Federal home loan bank and the Finance Board shall adjust the terms of members first elected or appointed after November 12, 1999, to ensure that the terms of the members of the board of directors are staggered with approximately 1/3 of the terms expiring each year.” for “The term of each elective directorship shall be two years and the term of each appointive directorship shall be four years.”
+
+Subsec. (g). Pub. L. 106–102, §606(a)(3), added subsec. (g) and struck out former subsec. (g) which read as follows: “The Board shall designate one of the directors of each bank to be chairman, and one to be vice chairman, of the board of directors of such bank.”
+
+Subsec. (i). Pub. L. 106–102, §606(b), inserted heading, designated existing provisions as par. (1), inserted heading, substituted “Subject to paragraph (2), each bank may pay its directors” for “Each bank may pay its directors”, and added par. (2).
 
 1989—Subsec. (a). Pub. L. 101–73, §707(1), inserted provisions relating to requirements for at least 2 of the directors and provisions respecting conflicts of interests, and substituted provisions relating to appointment under section 1422a of this title for provisions relating to appointment under section 1437(b) of this title.
 

@@ -24,7 +24,7 @@ For provisions relating to the Northern Mariana Islands, formerly set out as not
 
 #### Similar Provisions
 
-Similar provisions continuing the civil government for the Trust Territory of the Pacific Islands until June30, 1954, were contained in act Aug. 8, 1953, ch. 383, §§1, 2, 67 Stat. 494, 495.
+Similar provisions continuing the civil government for the Trust Territory of the Pacific Islands until June 30, 1954, were contained in act Aug. 8, 1953, ch. 383, §§1, 2, 67 Stat. 494, 495.
 
 #### Authorization of Appropriations
 
@@ -34,7 +34,7 @@ Section 2 of act June 30, 1954, as amended July 19, 1962, Pub. L. 87–541, 76 S
 
 #### Inventory and Study of Most Unique and Significant Natural, Historical, etc., Resources of Trust Territory of the Pacific Islands
 
-Pub. L. 97–357, title II, §205, Oct. 19, 1982, 96 Stat. 1708, directed Secretary of the Interior to conduct a comprehensive inventory and study of the most unique and significant natural, historical, cultural and recreational resources of Trust Territory of the Pacific Islands with objective of preservation of their values and their careful use and appreciation by the public, along with a determination of their potential for attracting tourism, further provided that such inventory and study was to be conducted in full cooperation and consultation with affected governmental officials and the interested public, and was to identify areas or sites which qualified to be listed on Registry of Natural Landmarks and National Register of Historic Places, and further provided that a full report on such inventory and study was to be transmitted to the respectively involved governments and Congress no later than two complete calendar years after Oct. 19, 1982.
+Pub. L. 97–357, title II, §205, Oct. 19, 1982, 96 Stat. 1708, directed Secretary of the Interior to conduct a comprehensive inventory and study of the most unique and significant natural, historical, cultural and recreational resources of Trust Territory of the Pacific Islands with objective of preservation of their values andtheir careful use and appreciation by the public, along with a determination of their potential for attracting tourism, further provided that such inventory and study was to be conducted in full cooperation and consultation with affected governmental officials and the interested public, and was to identify areas or sites which qualified to be listed on Registry of Natural Landmarks and National Register of Historic Places, and further provided that a full report on such inventory and study was to be transmitted to the respectively involved governments and Congress no later than two complete calendar years after Oct. 19, 1982.
 
 #### Establishment of Permanent Location for Displaced People of Bikini Island; Progress Report to Congress; Contents
 

@@ -30,7 +30,7 @@ Conditions.—(1) The Secretary of Defense shall ensure that—
 
 (f)
 
-Support Accounts.—There is hereby established on the books of the Treasury separate accounts for each of the military departments and the Defense Advanced Research Projects Agencyfor support of research projects and development projects provided for in cooperative agreements containing a clause under subsection (d) and research projects provided for in transactions entered into under subsection (a). Funds in those accounts shall be available for the payment of such support.
+Support Accounts.—There is hereby established on the books of the Treasury separate accounts for each of the military departments and the Defense Advanced Research Projects Agency for support of research projects and development projects provided for in cooperative agreements containing a clause under subsection (d) and research projects provided for in transactions entered into under subsection (a). Funds in those accounts shall be available for the payment of such support.
 
 (g)
 
@@ -38,7 +38,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 (h)
 
-Annual Report.—(1) Not later than 90 days after the end of each fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the use by the Department of Defense during such fiscal year of—
+Annual Report.—(1) Not later than 90 days after the end of each fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the use by the Department of Defense during such fiscal year of—
 
 &emsp;(A) cooperative agreements authorized under section 2358 of this title that contain a clause under subsection (d); and
 
@@ -72,9 +72,11 @@ Protection of Certain Information From Disclosure.—(1) Disclosure of informati
 
 &emsp;(iii) Technical information submitted on a confidential basis.
 
-(Added Pub. L. 101–189, div. A, title II, §251(a)(1), Nov. 29, 1989, 103 Stat. 1403; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(9), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–190, div. A, title VIII, §826, Dec. 5, 1991, 105 Stat. 1442; Pub. L. 102–484, div. A, title II, §217, Oct. 23, 1992, 106 Stat. 2352; Pub. L. 103–35, title II, §201(c)(4), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title VIII, §827(b), title XI, §1182(a)(6), Nov. 30, 1993, 107 Stat. 1712, 1771; Pub. L. 103–355, title I, §1301(b), Oct. 13, 1994, 108 Stat. 3285; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title II, §267(a)–(c)(1)(A), title X, §1073(e)(1)(B), Sept. 23, 1996, 110 Stat. 2467, 2468, 2658; Pub. L. 105–85, div. A, title VIII, §832, Nov. 18, 1997, 111 Stat. 1842; Pub. L. 105–261, div. A, title VIII, §817, Oct. 17, 1998, 112 Stat. 2089.)
+(Added Pub. L. 101–189, div. A, title II, §251(a)(1), Nov. 29, 1989, 103 Stat. 1403; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(9), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–190, div. A, title VIII, §826, Dec. 5, 1991, 105 Stat. 1442; Pub. L. 102–484, div. A, title II, §217, Oct. 23, 1992, 106 Stat. 2352; Pub. L. 103–35, title II, §201(c)(4), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title VIII, §827(b), title XI, §1182(a)(6), Nov. 30, 1993, 107 Stat. 1712, 1771; Pub. L. 103–355, title I, §1301(b), Oct. 13, 1994, 108 Stat. 3285; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title II, §267(a)–(c)(1)(A), title X, §1073(e)(1)(B), Sept. 23, 1996, 110 Stat. 2467, 2468, 2658; Pub. L. 105–85, div. A, title VIII, §832, Nov. 18, 1997, 111 Stat. 1842; Pub. L. 105–261, div. A, title VIII, §817, Oct. 17, 1998, 112 Stat. 2089; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Amendments
+
+1999—Subsec. (h)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
 1998—Subsec. (i)(2)(A). Pub. L. 105–261 substituted “cooperative agreement for performance of basic, applied, or advanced research authorized by section 2358 of this title” for “cooperative agreement that includes a clause described in subsection (d)”.
 
@@ -82,7 +84,7 @@ Protection of Certain Information From Disclosure.—(1) Disclosure of informati
 
 1996—Subsec. (b). Pub. L. 104–201, §1073(e)(1)(B), inserted “Defense” before “Advanced Research Projects Agency”.
 
-Subsec. (e). Pub. L. 104–201, §267(a), inserted “(1)” before “The Secretary of Defense”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, inserted “and” after semicolon at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), added par. (2), and struck out par. (3) which read as follows: “a cooperative agreement containing a clause under subsection (d) or a transaction authorized under subsection (a) is used for a research project only when the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.”
+Subsec. (e). Pub. L. 104–201, §267(a), inserted “(1)” before “The Secretary of Defense”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, inserted “and” after semicolon at end of subpar. (A), substituted a period for “; and” at end of subpar. (B),added par. (2), and struck out par. (3) which read as follows: “a cooperative agreement containing a clause under subsection (d) or a transaction authorized under subsection (a) is used for a research project only when the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.”
 
 Subsec. (f). Pub. L. 104–201, §1073(e)(1)(B), inserted “Defense” before “Advanced Research Projects Agency”.
 
@@ -98,7 +100,7 @@ Subsec. (h). Pub. L. 104–201, §267(b), reenacted heading without change and a
 
 &emsp;“(5) The amount of the payments reported under paragraph (4), if any, that were credited to each account established under subsection (f).”
 
-Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on NationalSecurity of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
 Subsec. (i). Pub. L. 104–201, §1073(e)(1)(B), which directed amendment of subsec. (i) by inserting “Defense” before “Advanced Research Projects Agency”, could not be executed because of the renumbering of subsec. (i) as section 2371a of this title by Pub. L. 104–201, §267(c)(1)(A). See below.
 
@@ -148,33 +150,39 @@ Subsec. (g). Pub. L. 102–190, §826(c), struck out subsec. (g) which read as f
 
 1990—Subsec. (f). Pub. L. 101–510 substituted “Committees on” for “Committees of” in introductory provisions.
 
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
-
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Authority of Defense Advanced Research Projects Agency To Carry Out Certain Prototype Projects
 
-Section 845 of Pub. L. 103–160, as amended by Pub. L. 104–201, div. A, title VIII, §804, title X, §1073(e)(1)(D), (2)(A), Sept. 23, 1996, 110 Stat. 2605, 2658; Pub. L. 105–261, div. A, title II, §241, Oct. 17, 1998, 112 Stat. 1954, provided that:
+Section 845 of Pub. L. 103–160, as amended by Pub. L. 104–201, div. A, title VIII, §804, title X, §1073(e)(1)(D), (2)(A), Sept. 23, 1996, 110 Stat. 2605, 2658; Pub. L. 105–261, div. A, title II, §241, Oct. 17, 1998, 112 Stat. 1954; Pub. L. 106–65, div. A, title VIII, §801, title X, §1066(d)(6), Oct. 5, 1999, 113 Stat. 700, 773, provided that:
 
 “(a)
 
-Authority.—The Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of section 2371 of title 10, United States Code, carry out prototype projects that are directly relevant to weapons or weapon systems proposed to be acquired or developed by the Department of Defense.
+Authority.—The Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authorityof section 2371 of title 10, United States Code, carry out prototype projects that are directly relevant to weapons or weapon systems proposed to be acquired or developed by the Department of Defense.
 
 “(b)
 
-Exercise of Authority.—(1) Subsections (e)(2) and (e)(3) of such section 2371 shall not apply to projects carried out under subsection (a).
+Exercise of Authority.—(1) Subsections (e)(1)(B) and (e)(2) of such section 2371 shall not apply to projects carried out under subsection (a).
 
 “(2) To the maximum extent practicable, competitive procedures shall be used when entering into agreements to carry out projects under subsection (a).
 
 “(c)
 
+Comptroller General Review.—(1) Each agreement entered into by an official referred to in subsection (a) to carry out a project under that subsection that provides for payments in a total amount in excess of $5,000,000 shall include a clause that provides for the Comptroller General, in the discretion of the Comptroller General, to examine the records of any party to the agreement or any entity that participates in the performance of the agreement.
+
+“(2) The requirement in paragraph (1) shall not apply with respect to a party or entity, or a subordinate element of a party or entity, that has not entered into any other agreement that provides for audit access by a Government entity in the year prior to the date of the agreement.
+
+“(3) The head of the contracting activity that is carrying out the agreement may waive the applicability of the requirement in paragraph (1) to the agreement if the head of the contracting activity determines that it would not be in the public interest to apply the requirement to the agreement. The waiver shall be effective with respect to the agreement only if the head of the contracting activity transmits a notification of the waiver to Congress and the Comptroller General before entering into the agreement. The notification shall include the rationale for the determination.
+
+“(4) The Comptroller General may not examine records pursuant to a clause included in an agreement under paragraph (1) more than three years after the final payment is made by the United States under the agreement.
+
+“(d)
+
 Period of Authority.—The authority to carry out projects under subsection (a) shall terminate at the end of September 30, 2001.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2358, 2511, 2519 of this title.
+This section is referred to in sections 2358, 2511, 2519 of this title; title 49 section 5506.
 

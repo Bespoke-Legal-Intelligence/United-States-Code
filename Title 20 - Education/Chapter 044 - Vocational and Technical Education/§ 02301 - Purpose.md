@@ -6,7 +6,7 @@ The purpose of this chapter is to develop more fully the academic, vocational, a
 
 &emsp;(2) promoting the development of services and activities that integrate academic, vocational, and technical instruction, and that link secondary and postsecondary education for participating vocational and technical education students;
 
-&emsp;(3) increasing State and local flexibility in providing services and activities designed to develop, implement, and improve vocational and technical education, including tech-prep education; and
+&emsp;(3) increasing State and local flexibility in providing services and activities designed todevelop, implement, and improve vocational and technical education, including tech-prep education; and
 
 &emsp;(4) disseminating national research, and providing professional development and technical assistance, that will improve vocational and technical education programs, services, and activities.
 

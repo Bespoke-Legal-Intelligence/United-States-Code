@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–85 substituted “unless the Secretary determines that the conversion—” for “unless the Secretary—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
+1997—Subsec. (b). Pub. L. 105–85 substituted “unless the Secretary determines that the conversion—” for“unless the Secretary—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
 
 “(1) determines that the conversion (A) is required by the government of the country in which the facility is located, or (B) is cost effective over the life cycle of the facility; and
 
@@ -30,5 +30,5 @@
 
 #### Effective Date
 
-Section effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before,on, or after such date, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
+Section effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 

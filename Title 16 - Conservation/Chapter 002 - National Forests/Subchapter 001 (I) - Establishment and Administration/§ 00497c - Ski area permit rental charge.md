@@ -36,7 +36,7 @@ The ski area permit rental charge set forth in this section shall become effecti
 
 &emsp;(2) for the 1996–1997 permit year, either the rental charge paid for the 1994–1995 base year or the rental charge calculated pursuant to this Act, whichever is higher; and
 
-&emsp;(3) for the 1997–1998 permit year, either the rental charge for the 1994–1995 base year or the rental charge calculated pursuant to this Act, whichever is higher.
+&emsp;(3) for the 1997–1998 permit year, either the rental charge for the 1994–1995 base year or therental charge calculated pursuant to this Act, whichever is higher.
 
 > If an individual permittee's adjusted gross revenue for the 1995–1996, 1996–1997, or 1997–1998 permit years falls more than 10 percent below the 1994–1995 base year, the rental charge paid shall be the rental charge calculated pursuant to this Act.
 

@@ -94,7 +94,7 @@ Oct. 26, 1970, Pub. L. 91–510, §202(c)–(f), 84 Stat. 1167; restated July 12
 
 In the section, the words “committee of Congress” are substituted for “committee of either House, of any joint committee of the two Houses” and variations of the substituted phrase to eliminate unnecessary words and for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a), the word “President” is substituted for “Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to thePresident. The word “assistance” is substituted for “aid”, and the word “receipts” is substituted for “revenue”, for consistency in the revised title.
+In subsection (a), the word “President” is substituted for “Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President. The word “assistance” is substituted for “aid”, and the word “receipts” is substituted for “revenue”, for consistency in the revised title.
 
 In subsections (b)–(d), the words “program information” are substituted for “program-related data and information” to eliminate unnecessary words.
 
@@ -138,7 +138,7 @@ Pub. L. 105–85, div. A, title X, §1051, Nov. 18, 1997, 111 Stat. 1889, as ame
 
 Oversight of Counterterrorism and Antiterrorism Activities.—Not later than 120 days after the date of the enactment of this Act \[Nov. 18, 1997\], the Director of the Office of Management and Budget shall—
 
-&emsp;“(1) establish a reporting system for executive agencies with respect to the budget and expenditure of funds by such agencies for the purpose of carrying out counterterrorism and antiterrorism programs and activities; and
+&emsp;“(1) establish a reporting system for executive agencies with respect to the budget and expenditureof funds by such agencies for the purpose of carrying out counterterrorism and antiterrorism programs and activities; and
 
 &emsp;“(2) using such reporting system, collect information on—
 
@@ -178,7 +178,115 @@ Annex on Domestic Emergency Preparedness Program.—As part of the annual report
 
 #### Termination of Reporting Requirements
 
-Pub. L. 104–66, title III, §3003, Dec. 21, 1995, 109 Stat. 734, provided that:
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 (Public Law 104–66; 31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
+
+&emsp;“(1) Section 1205 of the International Security and Development Cooperation Act of 1985 (Public Law 99–83; 22 U.S.C. 2346 note) (relating to annual reports on economic conditions in Egypt, Israel, Turkey, and Portugal).
+
+&emsp;“(2) Section 1307(f)(1)(A) of the International Financial Institutions Act \[22 U.S.C. 262m–7(f)(1)(A)\] (Public Law 95–118) (relating to an assessment of the environmental impact of proposed multilateral development bank actions).
+
+&emsp;“(3) Section 118(f) of the Foreign Assistance Act of 1961 (Public Law 87–195; 22 U.S.C. 2151p–1 \[(f)\]) (relating to the protection of tropical forests).
+
+&emsp;“(4) Section 586J(c)(4) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1991 (Public Law 101–513 \[50 U.S.C. 1701 note\]) (relating to sanctions taken by other nations against Iraq).
+
+&emsp;“(5) Section 3 of the Authorization for Use of Military Force Against Iraq Resolution (Public Law 102–1; 105 Stat. 3 \[50 U.S.C. 1541 note\]) (relating to the status of efforts to obtain Iraqi compliance with United Nations Security Council resolutions).
+
+&emsp;“(6) Section 124 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (Public Law 100–204; 22 U.S.C. 2680 note) (relating to expenditures for emergencies in the diplomatic and consular service).
+
+&emsp;“(7) Section 620C(c) of the Foreign Assistance Act of 1961 (Public Law 87–195; 22 U.S.C. 2373(c)) (relating to progress made toward the conclusion of a negotiated solution to the Cyprus problem).
+
+&emsp;“(8) Section 533(b) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 19991 \[1991\] (Public Law 101–513 \[104 Stat. 2013\]) (relating to international natural resource management initiatives).
+
+&emsp;“(9) Section 3602 of the Omnibus Trade and Competitiveness Act of 1988 (Public Law 100–418; 22 U.S.C. 5352) (relating to foreign treatment of United States financial institutions).
+
+&emsp;“(10) Section 1702 of the International Financial Institutions Act (Public Law 95–118; 22 U.S.C. 262r-1) (relating to operating summaries of the multilateral development banks).
+
+&emsp;“(11) Section 1303(c) of the International Financial Institutions Act (Public Law 95–118; 22 U.S.C. 262m-2(c)) (relating to international environmental assistance programs).
+
+&emsp;“(12) Section 1701(a) of the International Financial Institutions Act (Public Law 95–118; 22 U.S.C. 262r) (relating to United States participation in international financial institutions).
+
+&emsp;“(13) Section 163(a) of the Trade Act of 1974 (Public Law 93–618; 19 U.S.C. 2213) (relating to the trade agreements program and national trade policy agenda).
+
+&emsp;“(14) Section 8 of the Export-Import Bank Act (Public Law 79–173; 12 U.S.C. 635g) (relating to Export-Import Bank activities).
+
+&emsp;“(15) Section 407(f) of the Agricultural Trade Development and Assistance Act of 1954 (Public Law 83–480; 7 U.S.C. 1736a) (relating to Public Law 480 programs and activities).
+
+&emsp;“(16) Section 239(c) of the Foreign Assistance Act of 1961 (Public Law 87–195; 22 U.S.C. 2199(c)) (relating to OPIC audit report).
+
+&emsp;“(17) Section 504(i) of the National Endowment for Democracy Act (Public Law 98–164; 22 U.S.C. 4413(i)) (relating to the activities of the National Endowment for Democracy).
+
+&emsp;“(18) Section 5(b) of the Japan-United States Friendship Act (Public Law 94–118; 22 U.S.C. 2904(b)) (relating to Japan-United States Friendship Commission activities).”
+
+Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
+
+&emsp;“(1) The following sections of title 10, United States Code: sections 113, 115a, 116, 139(f), 221, 226, 401(d), 662(b), 946, 1464(c), 2006(e)(3), 2010, 2011(e), 2391(c), 2431(a), 2432, 2457(d), 2461(g), 2537, 2662(b), 2706, 2859, 2861, 2902(g)(2), 4542(g)(2), 7424(b), 7425(b), 7431(c), 10541, 12302(d), and 16137.
+
+&emsp;“(2) Section 1121(f) of the National Defense Authorization Act for Fiscal Year 1988 and 1989 (Public Law 100–180; 10 U.S.C. 113 note).
+
+&emsp;“(3) Section 1405 of the Defense Dependents’ Education Act of 1978 (20 U.S.C. 924).
+
+&emsp;“(4) Section 1411(b) of the Barry Goldwater Scholarship and Excellence in Education Act (20 U.S.C. 4710(b)).
+
+&emsp;“(5) Section 1097 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 \[Pub. L. 102–190\] (22 U.S.C. 2751 note).
+
+&emsp;“(6) Section 30A(d) of the Arms Export Control Act (22 U.S.C. 2770a(d)).
+
+&emsp;“(7) Sections 1516(f) and 1518(c) of the Armed Forces Retirement Home Act of 1991 (Public Law 101–510; 24 U.S.C. 416(f), 418(c)).
+
+&emsp;“(8) Sections 3554(e)(2) and \[former\] 9503(a) of title 31, United States Code.
+
+&emsp;“(9) Section 300110(b) of title 36, United States Code.
+
+&emsp;“(10) Sections 301a(f) and 1008 of title 37, United States Code.
+
+&emsp;“(11) Section 8111(f) of title 38, United States Code.
+
+&emsp;“(12) Section 205(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486(b)).
+
+&emsp;“(13) Section 3732 of the Revised Statutes, popularly known as the ‘Food and Forage Act’ (41 U.S.C. 11).
+
+&emsp;“(14) Section 101(b)(6) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff(b)(6)).
+
+&emsp;“(15) Section 1436(e) of the National Defense Authorization Act, Fiscal Year 1989 (Public Law 100–456; \[former\] 42 U.S.C. 2121 note).
+
+&emsp;“(16) Section 165 of the Energy Policy and Conservation Act (42 U.S.C. 6245).
+
+&emsp;“(17) Section 603(e) of the National Science and Technology Policy, Organization, and Priorities Act of 1976 (42 U.S.C. 6683(e)).
+
+&emsp;“(18) Section 822(b) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (42 U.S.C. 6687(b)).
+
+&emsp;“(19) Section 208 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1979 (42 U.S.C. 7271).
+
+&emsp;“(20) Section 3134 of the National Defense Authorization Act for Fiscal Year 1991 (42 U.S.C. 7274c).
+
+&emsp;“(21) Section 3135 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (42 U.S.C. 7274g).
+
+&emsp;“(22) Section 12 of the Act of March 9, 1920 (popularly known as the ‘Suits in Admiralty Act’) (46 App. U.S.C. 752).
+
+&emsp;“(23) Sections 208, 901(b)(2), and 1211 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1118, 1241(b)(2), 1291).
+
+&emsp;“(24) Sections 11 and 14 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–2, 98h–5).
+
+&emsp;“(25) Section 108 of the National Security Act of 1947 (50 U.S.C. 404a).
+
+&emsp;“(26) Section 4 of the Act entitled ‘An Act to authorize the making, amending, and modification of contracts to facilitate the national defense’, approved August 28, 1958 (\[former\] 50 U.S.C. 1434).
+
+&emsp;“(27) Section 1412(g) of the Department of Defense Authorization Act, 1986 (50 U.S.C. 1521(g)).
+
+&emsp;“(28) Section 3 of the Authorization for Use of Military Force Against Iraq Resolution \[Pub. L. 102–1\] (50 U.S.C. 1541 note).
+
+&emsp;“(29) Sections 202(d) and 401(c) of the National Emergencies Act (50 U.S.C. 1622(d), 1641(c)).
+
+&emsp;“(30) Section 10(g) of the Military Selective Service Act (50 U.S.C. App. 460(g)).
+
+&emsp;“(31) Section 708 of the Defense Production Act of 1950 (50 U.S.C. App. 2158).
+
+&emsp;“(32) Section 703(g) of the Military Construction Authorization Act, 1982 (Public Law 97–99; 95 Stat. 1376).
+
+&emsp;“(33) Section 704 of the Military Construction Authorization Act, 1982 (Public Law 97–99; 95 Stat. 1377).
+
+&emsp;“(34) Section 113(b) of the National Defense Authorization Act for Fiscal Year 1990 and 1991 (Public Law 101–189; 103 Stat. 1373).”
+
+Pub. L. 104–66, title III, §3003, Dec. 21, 1995, 109 Stat. 734, as amended by Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §236\], Nov. 29, 1999, 113 Stat. 1536, 1501A–302, provided that:
 
 “(a)
 
@@ -186,7 +294,7 @@ Termination.—
 
 &emsp;“(1)
 
-In general.—Subject to the provisions of paragraph (2) of this subsection and subsection (d), each provision of law requiring the submittal to Congress (or any committee of the Congress) of any annual, semiannual, or other regular periodic report specified on the list described under subsection (c) shall cease to be effective, with respect to that requirement, 4 years after the date of the enactment of this Act \[Dec. 21, 1995\].
+In general.—Subject to the provisions of paragraph (2) of this subsection and subsection (d), each provision of law requiring the submittal to Congress (or any committee of the Congress) of any annual, semiannual, or other regular periodic report specified on the list described under subsection (c) shall cease to be effective, with respect to that requirement, May 15, 2000.
 
 &emsp;“(2)
 

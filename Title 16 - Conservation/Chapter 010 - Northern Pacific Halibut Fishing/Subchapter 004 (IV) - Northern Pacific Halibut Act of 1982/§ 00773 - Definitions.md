@@ -52,7 +52,7 @@ Section 308 of title III of Pub. L. 102–251 provided that:
 
 “(a)
 
-In General.—The amendment made by section 301(e)(3) \[amending section 1822 of this title\] takes effect on the date of enactment of this Act \[Mar. 9, 1992\], and the amendments made by the other provisions of this title \[amending this section and sections 773e, 1151, 1362, 1801, 1802, 1811, 1821, 1822, 1824, 1853, 1857, 1861, 3631,and 3636 of this title and sections 1122 and 1124a of Title 33, Navigation and Navigable Waters\], except as provided in subsection (b), shall be effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States.
+In General.—The amendment made by section 301(e)(3) \[amending section 1822 of this title\] takes effect on the date of enactment of this Act \[Mar. 9, 1992\], and the amendments made by the other provisions of this title \[amending this section and sections 773e, 1151, 1362, 1801, 1802, 1811, 1821, 1822, 1824, 1853, 1857, 1861, 3631, and 3636 of this title and sections 1122 and 1124a of Title 33, Navigation and Navigable Waters\], except as provided in subsection (b), shall be effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States.
 
 “(b)
 

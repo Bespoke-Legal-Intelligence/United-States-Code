@@ -48,7 +48,7 @@ For purposes of this section, the term “property” includes any beneficial in
 
 #### (f) Treatment of additional tax imposed under section 2032A
 
-If section 2032A applies to any property included in the gross estate of the transferor andan additional tax is imposed with respect to such property under section 2032A(c) before the date which is 2 years after the date of the decedent's death, for purposes of this section—
+If section 2032A applies to any property included in the gross estate of the transferor and an additional tax is imposed with respect to such property under section 2032A(c) before the date which is 2 years after the date of the decedent's death, for purposes of this section—
 
 &emsp;(1) the additional tax imposed by section 2032A(c) shall be treated as a Federal estate tax payable with respect to the estate of the transferor; and
 

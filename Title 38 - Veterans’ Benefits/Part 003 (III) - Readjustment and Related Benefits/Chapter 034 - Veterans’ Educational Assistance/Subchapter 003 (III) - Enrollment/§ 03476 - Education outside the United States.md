@@ -10,7 +10,7 @@ Provisions similar to those comprising this section were contained in Pub. L. 85
 
 #### Amendments
 
-1994—Pub. L. 103–446 amended first sentence generally. Prior to amendment, first sentence read as follows: “An eligible veteran may not enroll in any course at an educational institution not located in a State unless such course is pursued at an approved institution of higher learning and the course is approved by the Secretary.”
+1994—Pub. L. 103–446 amended first sentence generally. Prior to amendment, first sentence read as follows: “An eligible veteran may not enroll in any course at an educational institution not located in a State unless such course is pursued at an approved institutionof higher learning and the course is approved by the Secretary.”
 
 1991—Pub. L. 102–83 renumbered section 1676 of this title as this section.
 

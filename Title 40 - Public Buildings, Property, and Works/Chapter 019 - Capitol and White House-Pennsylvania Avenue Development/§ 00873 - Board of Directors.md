@@ -6,7 +6,7 @@ The Board of Directors shall have the power to appoint and fix the compensation 
 
 #### (b) Procurement of services of experts
 
-The Board of Directors is authorized to procure the temporary (not in excess of one year) or intermittent services of city planners, architects, engineers, appraisers, and other experts or consultants or organizations thereof in accordance with section 3109 of title 5, but at rates for individuals not in excess of the rate in effect for grade GS–18 of the General Schedule.
+The Board of Directors is authorized to procure the temporary (not in excess of one year) orintermittent services of city planners, architects, engineers, appraisers, and other experts or consultants or organizations thereof in accordance with section 3109 of title 5, but at rates for individuals not in excess of the rate in effect for grade GS–18 of the General Schedule.
 
 #### (c) Administrative services
 

@@ -18,7 +18,7 @@ For each of fiscal years 1996 through 2002, the Secretary shall use the funds of
 
 #### (2) Livestock production
 
-&emsp;For each of fiscal years 1996 through 2002, 50 percent of the funding available for technical assistance, cost-share payments, incentive payments, and education under the environmental quality incentives program shall be targeted at practices relating to livestock production.
+&emsp;For each of fiscal years 1996 through 2002, 50 percent of the funding available for technicalassistance, cost-share payments, incentive payments, and education under the environmental quality incentives program shall be targeted at practices relating to livestock production.
 
 (Pub. L. 99–198, title XII, §1241, as added Pub. L. 104–127, title III, §341, Apr. 4, 1996, 110 Stat. 1007.)
 

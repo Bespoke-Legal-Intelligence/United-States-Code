@@ -44,7 +44,7 @@ Section 2732 of title 10, referred to in subsec. (a)(8), was repealed by Pub. L.
 
 #### Codification
 
-Section was formerly classified to section 316 of Title 37 prior to the general revision and enactment of Title 37, Pay and Allowances of the Uniformed Services by Pub. L. 87–649, §1, Sept. 7, 1962, 76 Stat. 451.
+Section was formerly classified to section 316 of Title 37 prior to the general revision and enactment of Title37, Pay and Allowances of the Uniformed Services by Pub. L. 87–649, §1, Sept. 7, 1962, 76 Stat. 451.
 
 #### Amendments
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an EffectiveDate note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Designation of Beneficiary Made Before January 1, 1956
 

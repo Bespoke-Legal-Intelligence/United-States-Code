@@ -16,7 +16,7 @@ The President, in consultation with the Director of the Office of Science and Te
 
 #### (c) Disclosure of sensitive information
 
-Except as otherwise provided by law, nothing in this section shall be construed as requiring the public disclosure of sensitive information relating to intelligence sources or methods or to persons engaged in monitoring scientific or technological developments for intelligence purposes.
+Except as otherwise provided by law, nothing in this section shall be construed as requiring the public disclosure of sensitive information relating to intelligence sources or methods or to persons engaged in monitoring scientific ortechnological developments for intelligence purposes.
 
 #### (d) Availability to United States Trade Representative of information and recommendations
 
@@ -30,7 +30,7 @@ Except as otherwise provided by law, nothing in this section shall be construed 
 
 1995—Subsec. (b). Pub. L. 104–66 struck out subsec. (b) which related to reports to Congress.
 
-1988—Subsec. (b). Pub. L. 100–418, §5171(b)(1), (2), substituted “the Speaker of the House of Representativesand the Committees on Foreign Relations and Governmental Affairs of the Senate a report containing information and recommendations” for “Congress a report containing recommendations”.
+1988—Subsec. (b). Pub. L. 100–418, §5171(b)(1), (2), substituted “the Speaker of the House of Representatives and the Committees on Foreign Relations and Governmental Affairs of the Senate a report containing information and recommendations” for “Congress a report containing recommendations”.
 
 Subsec. (b)(3). Pub. L. 100–418, §5171(b)(3)–(5), added par. (3).
 

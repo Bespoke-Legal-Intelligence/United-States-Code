@@ -36,11 +36,13 @@ Congressional Committees.—The congressional committees referred to in subsecti
 
 &emsp;(1) The Committee on Armed Services and the Committee on Foreign Relations of the Senate.
 
-&emsp;(2) The Committee on National Security and the Committee on International Relations of the House of Representatives.
+&emsp;(2) The Committee on Armed Services and the Committee on International Relations of the House of Representatives.
 
-(Added Pub. L. 102–484, div. A, title III, §304(c)(1), Oct. 23, 1992, 106 Stat. 2361; amended Pub. L. 104–106, div. A, title XIII, §1312, Feb. 10, 1996, 110 Stat. 474.)
+(Added Pub. L. 102–484, div. A, title III, §304(c)(1), Oct. 23, 1992, 106 Stat. 2361; amended Pub. L. 104–106, div. A, title XIII, §1312, Feb. 10, 1996, 110 Stat. 474; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Amendments
+
+1999—Subsec. (f)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
 1996—Subsec. (b). Pub. L. 104–106, §1312(1), (2), redesignated subsec. (d) as (b) and struck out former subsec. (b) which read as follows: “
 
@@ -67,10 +69,6 @@ Subsec. (e). Pub. L. 104–106, §1312(3), (5), redesignated subsec. (g) as (e) 
 Subsec. (f). Pub. L. 104–106, §1312(6), added subsec. (f). Former subsec. (f) redesignated (d).
 
 Subsec. (g). Pub. L. 104–106, §1312(5), redesignated subsec. (g) as (e).
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Notifications Regarding Humanitarian Relief
 

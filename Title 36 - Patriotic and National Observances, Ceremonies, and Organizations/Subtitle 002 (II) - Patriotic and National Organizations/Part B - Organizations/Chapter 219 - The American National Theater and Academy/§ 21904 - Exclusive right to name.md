@@ -1,6 +1,6 @@
 ### §21904. Exclusive right to name
 
-The corporation and its State and local branches and subdivisions have the exclusiveright to use the name “The American National Theater and Academy”.
+The corporation and its State and local branches and subdivisions have the exclusive right to use the name “The American National Theater and Academy”.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1299.)
 

@@ -6,7 +6,7 @@ The Assistant Attorney General, the Director of the Bureau of Justice Assistance
 
 #### (b) Use of available services; reimbursement
 
-The Office, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics are authorized, on a reimbursable basis when appropriate, to use the available services, equipment, personnel, and facilities of Federal, State, and local agencies to the extent deemed appropriate after giving due consideration to the effectiveness of such existing services, equipment, personnel, and facilities.
+The Office, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics are authorized, on a reimbursable basis when appropriate, to use the available services, equipment, personnel, and facilities of Federal, State, and local agencies to the extent deemed appropriate after giving dueconsideration to the effectiveness of such existing services, equipment, personnel, and facilities.
 
 #### (c) Other Federal agency performance of functions under this chapter; reimbursement
 
@@ -26,7 +26,7 @@ Payments under this chapter may be made in installments, and in advance or by wa
 
 #### (g) Voluntary services; status as Federal employees; exceptions
 
-The Office, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics are authorized to accept and employ, in carrying out the provisionsof this chapter, voluntary and uncompensated services notwithstanding section 1342 of title 31. Such individuals shall not be considered Federal employees except for purposes of chapter 81 of title 5 with respect to job-incurred disability and title 28 with respect to tort claims.
+The Office, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics are authorized to accept and employ, in carrying out the provisions of this chapter, voluntary and uncompensated services notwithstanding section 1342 of title 31. Such individuals shall not be considered Federal employees except for purposes of chapter 81 of title 5 with respect to job-incurred disability and title 28 with respect to tort claims.
 
 (Pub. L. 90–351, title I, §807, as added Pub. L. 98–473, title II, §609B(g), Oct. 12, 1984, 98 Stat. 2094.)
 
@@ -49,6 +49,10 @@ Provisions similar to subsecs. (b), (c), (d) to (f), and (g) of this section wer
 #### Effective Date
 
 Section effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as a note under section 3711 of this title.
+
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

@@ -8,7 +8,7 @@ Funding Assistance.—The Secretary of Defense may provide funds to the Governor
 
 &emsp;(2) The operation and maintenance of the equipment and facilities of the National Guard of that State used for the purpose of drug interdiction and counter-drug activities.
 
-&emsp;(3) The procurement of services and equipment, and the leasing of equipment, for the National Guard of that State used for the purpose of drug interdiction and counter-drug activities. However, the use of such funds for the procurement of equipment may not exceed $5,000 per purchase order, unless approval for procurement of equipment in excess of that amount is granted in advance by the Secretary of Defense.
+&emsp;(3) The procurement of services and equipment, and the leasing of equipment, for the National Guard of that State used for the purpose of drug interdiction and counter-drug activities. However, the use of such funds for the procurement of equipment may not exceed $5,000 per item, unless approval for procurement of equipment in excess of that amount is granted in advance by the Secretary of Defense.
 
 (b)
 
@@ -18,7 +18,7 @@ Use of Personnel Performing Full-Time National Guard Duty.—(1) Under regulatio
 
 (B) Appropriations available for the Department of Defense for drug interdiction and counter-drug activities may be used for paying costs associated with a member's participation in training described in subparagraph (A). The appropriation shall be reimbursed in full, out of appropriations available for paying those costs, for the amounts paid. Appropriations available for paying those costs shall be available for making the reimbursements.
 
-(C) To ensure that the use of units and personnel of the National Guard of a State pursuant toa State drug interdiction and counter-drug activities plan does not degrade the training and readiness of such units and personnel, the following requirements shall apply in determining the drug interdiction and counter-drug activities that units and personnel of the National Guard of a State may perform:
+(C) To ensure that the use of units and personnel of the National Guard of a State pursuant to a State drug interdiction and counter-drug activities plan does not degrade the training and readiness of such units and personnel, the following requirements shall apply in determining the drug interdiction and counter-drug activities that units and personnel of the National Guard of a State may perform:
 
 &emsp;(i) The performance of the activities may not adversely affect the quality of that training or otherwise interfere with the ability of a member or unit of the National Guard to perform the military functions of the member or unit.
 
@@ -104,13 +104,15 @@ Definitions.—For purposes of this section:
 
 &emsp;(3) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or a territory or possession of the United States.
 
-(Added Pub. L. 101–189, div. A, title XII, §1207(a)(1), Nov. 29, 1989, 103 Stat. 1564; amended Pub. L. 102–25, title VII, §703, Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–396, title IX, §9099A, Oct. 6, 1992, 106 Stat. 1926; Pub. L. 104–106, div. A, title X, §1021, Feb. 10, 1996, 110 Stat. 426; Pub. L. 104–208, div. C, title VI, §660, Sept. 30, 1996, 110 Stat. 3009–720; Pub. L. 105–85, div. A, title X, §1031, Nov. 18, 1997, 111 Stat. 1880; Pub. L. 105–261, div. A, title X, §1022, Oct. 17, 1998, 112 Stat. 2120.)
+(Added Pub. L. 101–189, div. A, title XII, §1207(a)(1), Nov. 29, 1989, 103 Stat. 1564; amended Pub. L. 102–25, title VII, §703, Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–396, title IX, §9099A, Oct. 6, 1992, 106 Stat. 1926; Pub. L. 104–106, div. A, title X, §1021, Feb. 10, 1996, 110 Stat. 426; Pub. L. 104–208, div. C, title VI, §660, Sept. 30, 1996, 110 Stat. 3009–720; Pub. L. 105–85, div. A, title X, §1031, Nov. 18, 1997, 111 Stat. 1880; Pub. L. 105–261, div. A, title X, §1022, Oct. 17, 1998, 112 Stat. 2120; Pub. L. 106–65, div. A, title X, §1021, Oct. 5, 1999, 113 Stat. 746.)
 
 #### Prior Provisions
 
 Similar provisions were contained in Pub. L. 100–456, div. A, title XI, §1105, Sept. 29, 1988, 102 Stat. 2047, which was set out as a note under section 374 of Title 10, Armed Forces, prior to repeal by Pub. L. 101–189, §1207(b).
 
 #### Amendments
+
+1999—Subsec. (a)(3). Pub. L. 106–65 substituted “per item” for “per purchase order” in second sentence.
 
 1998—Subsec. (a). Pub. L. 105–261, §1022(e)(1), substituted “for the following:” for “for—” in introductory provisions.
 
@@ -152,7 +154,7 @@ Pub. L. 104–106, §1021(b)(3), redesignated subsec. (b) as (c). Former subsec.
 
 Subsec. (d). Pub. L. 104–106, §1021(b)(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (g).
 
-Subsec. (d)(1). Pub. L. 104–208 inserted at end “The plan as approved by the Secretary may provide for the use of personnel and equipment of the National Guard of that State to assist the Immigration and Naturalization Service in the transportation of aliens who haveviolated a Federal or State law prohibiting or regulating the possession, use, or distribution of a controlled substance.”
+Subsec. (d)(1). Pub. L. 104–208 inserted at end “The plan as approved by the Secretary may provide for the use of personnel and equipment of the National Guard of that State to assist the Immigration and Naturalization Service in the transportation of aliens who have violated a Federal or State law prohibiting or regulating the possession, use, or distribution of a controlled substance.”
 
 Pub. L. 104–106, §1021(d)(1), inserted “and before members of the National Guard of that State are ordered to full-time National Guard duty as authorized in subsection (b)” after “under this section” and substituted “under subsection (c)” for “under subsection (b)”.
 

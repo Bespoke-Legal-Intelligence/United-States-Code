@@ -10,9 +10,7 @@ There is established within the Executive Office of the President the Office of 
 
 (2) There shall be in the Office three Deputy United States Trade Representatives who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of a Deputy United States Trade Representative submitted to the Senate for confirmation, and referred to a committee, shall be referred to the Committee on Finance. Each Deputy United States Trade Representative shall hold office at the pleasure of the President and shall have the rank of Ambassador.
 
-(3)
-
-Limitation on appointments.—A person who has directly represented, aided, or advised a foreign entity (as defined by section 207(f)(3) of title 18) in any trade negotiation, or trade dispute, with the United States may not be appointed as United States Trade Representative or as a Deputy United States Trade Representative.
+(3) A person who has directly represented, aided, or advised a foreign entity (as defined by section 207(f)(3) of title 18) in any trade negotiation, or trade dispute, with the United States may not be appointed as United States Trade Representative or as a Deputy United States Trade Representative.
 
 #### (c) Duties of United States Trade Representative and Deputy United States Trade Representatives
 
@@ -20,7 +18,7 @@ Limitation on appointments.—A person who has directly represented, aided, or a
 
 &emsp;(A) have primary responsibility for developing, and for coordinating the implementation of, United States international trade policy, including commodity matters, and, to the extent they are related to international trade policy, direct investment matters;
 
-&emsp;(B) serve as the principal advisor to the President on international trade policy and shall advise the President on the impact of other policies of the United States Government on international trade;
+&emsp;(B) serve as the principal advisor to the President on international trade policy and shall advise the President on the impact ofother policies of the United States Government on international trade;
 
 &emsp;(C) have lead responsibility for the conduct of, and shall be the chief representative of the United States for, international trade negotiations, including all negotiations on any matter considered under the auspices of the World Trade Organization, commodity and direct investment negotiations, in which the United States participates;
 
@@ -86,7 +84,7 @@ Limitation on appointments.—A person who has directly represented, aided, or a
 
 &emsp;(B) may result in the sale or likely sale of foreign merchandise with respect to which antidumping duties may be imposed under subtitle B of title VII \[19 U.S.C. 1673 et seq.\];
 
-&emsp;(C) may be either an unfair method of competition, or an unfair act in the importation of articles into the United States, that is unlawful under section 337 \[19 U.S.C. 1337\]; or
+&emsp;(C) may be either an unfair method of competition, or an unfair act in the importation ofarticles into the United States, that is unlawful under section 337 \[19 U.S.C. 1337\]; or
 
 &emsp;(D) may be an act, policy, or practice of a kind with respect to which action may be taken under subchapter III of this chapter.
 
@@ -112,9 +110,9 @@ The United States Trade Representative may, for the purpose of carrying out his 
 
 &emsp;(9) accept, hold, administer, and utilize gifts, devises, and bequests of property, both real and personal, for the purpose of aiding or facilitating the work of the Office;
 
-&emsp;(10) acquire, by purchase or exchange, not more than two passenger motor vehicles for use abroad, except that no vehicle may be acquired at a cost exceeding $9,500; and
+&emsp;(10) acquire, by purchase or exchange, not more than two passenger motor vehicles ffor use abroad, except that no vehicle may be acquired at a cost exceeding $9,500; and
 
-&emsp;(11) provide, where authorized by law, copies of documents to persons at cost, except thatany funds so received shall be credited to, and be available for use from, the account from which expenditures relating thereto were made.
+&emsp;(11) provide, where authorized by law, copies of documents to persons at cost, except that any funds so received shall be credited to, and be available for use from, the account from which expenditures relating thereto were made.
 
 #### (f) Use of other Federal agencies
 
@@ -138,13 +136,13 @@ The United States Trade Representative shall, to the extent he deems it necessar
 
 (2) For the fiscal year beginning October 1, 1982, and for each fiscal year thereafter, there are authorized to be appropriated to the Office for the salaries of its officers and employees such additional sums as may be provided by law to reflect pay rate changes made in accordance with the Federal Pay Comparability Act of 1970.
 
-(Pub. L. 93–618, title I, §141, Jan. 3, 1975, 88 Stat. 1999; Pub. L. 97–456, §3(a)–(d)(2), Jan. 12, 1983, 96 Stat. 2504, 2505; Pub. L. 98–573, title III, §304(d)(2)(A), title VII, §703, Oct. 30, 1984, 98 Stat. 3004, 3043; Pub. L. 99–272, title XIII, §13023, Apr. 7, 1986, 100 Stat. 307; Pub. L. 99–514, title XVIII, §1887(a)(3), (4), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–203, title IX, §9504, Dec. 22, 1987, 101 Stat. 1330–382; Pub. L. 100–418, title I, §1601, Aug. 23, 1988, 102 Stat. 1260; Pub. L. 101–207, §1(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §103(a), Aug. 20, 1990, 104 Stat. 634; Pub. L. 103–465, title VI, §621(a)(8), Dec. 8, 1994, 108 Stat. 4993; Pub. L. 104–65, §21(b), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–295, §20(f)(1), Oct. 11, 1996, 110 Stat. 3529.)
+(Pub. L. 93–618, title I, §141, Jan. 3, 1975, 88 Stat. 1999; Pub. L. 97–456, §3(a)–(d)(2), Jan. 12, 1983, 96 Stat. 2504, 2505; Pub. L. 98–573, title III, §304(d)(2)(A), title VII, §703, Oct. 30, 1984, 98 Stat. 3004, 3043; Pub. L. 99–272, title XIII, §13023, Apr. 7, 1986, 100 Stat. 307; Pub. L. 99–514, title XVIII, §1887(a)(3), (4), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–203, title IX, §9504, Dec. 22, 1987, 101 Stat. 1330–382; Pub. L. 100–418, title I, §1601, Aug. 23, 1988, 102 Stat. 1260; Pub. L. 101–207, §1(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §103(a), Aug. 20, 1990, 104 Stat. 634; Pub. L. 103–465, title VI, §621(a)(8), Dec. 8, 1994, 108 Stat. 4993; Pub. L. 104–65, §21(b), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–295, §20(f)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–36, title I, §1001(a)(2), June 25, 1999, 113 Stat. 130.)
 
 #### References in Text
 
 Subtitles A and B of title VII and section 337, referred to in subsec. (d)(3)(A) to (C), probably mean subtitles A and B of title VII and section 337 of the Tariff Act of 1930 which is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Subtitles A and B of title VII of the Tariff Act of 1930 are classified generally to parts I and II (§1671 et seq. and 1673 et seq., respectively) of subtitle IV of chapter 4 of this title. Section 337 of the Tariff Act of 1930 is classified to section 1337 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
-Subchapter III of this chapter, referred to in subsec. (d)(3)(D), was in the original “title III of the Trade Act of 1974”, which is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title III of the Trade Act of 1974 is classified generally to subchapter III (§2411 et seq.) of this chapter. For complete classification of title III to the Code, see Tables.
+Subchapter III of this chapter, referred to in subsec. (d)(3)(D), was in the original “title III of the Trade Actof 1974”, which is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title III of the Trade Act of 1974 is classified generally to subchapter III (§2411 et seq.) of this chapter. For complete classification of title III to the Code, see Tables.
 
 The civil service laws, referred to in subsec. (e)(1), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
 
@@ -157,6 +155,10 @@ The Federal Pay Comparability Act of 1970, referred to in subsec. (g)(2), is Pub
 Section is comprised of section 141 of Pub. L. 93–618. Section 141(b) of Pub. L. 93–618 contains two pars. (3), the first of which amended sections 5312 and 5314 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1999—Subsec. (b)(3). Pub. L. 106–36 struck out “
+
+Limitation on appointments.—” after “(3)” and realigned margins.
 
 1996—Subsec. (c)(1)(D). Pub. L. 104–295 struck out comma after “World Trade Organization,”.
 
@@ -222,7 +224,7 @@ Subsec. (c)(2). Pub. L. 97–456, §3(b)(1), added par. (2). Former par. (2) red
 
 Subsec. (c)(3). Pub. L. 97–456, §3(b)(1), (d)(2)(C), (D), redesignated former par. (2) as (3) and substituted “Deputy United States Trade Representative” for “Deputy Special Representative for Trade Negotiations” after “Each” and “United States Trade Representative” for “Special Representative for Trade Negotiations” after “such other functions as the”.
 
-Subsec. (d). Pub. L. 97–456, §3(d)(1)(D), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations” in provisions preceding par. (1).
+Subsec. (d). Pub. L. 97–456, §3(d)(1)(D), substituted “United States Trade Representative” for “SpecialRepresentative for Trade Negotiations” in provisions preceding par. (1).
 
 Subsec. (d)(3). Pub. L. 97–456, §3(b)(2), inserted “, powers and duties” after “functions”.
 
@@ -434,7 +436,7 @@ To ensure that all trade negotiations are handled consistently and that our nego
 
 The Trade Representative will be concerned not only with ongoing negotiations and coordination of specific, immediate issues, but also—very importantly—with the development of long-term United States trade strategies and policies. He will oversee implementation of the MTN agreements, and will advise the President on the effects of other Government policies (e.g., antitrust, taxation) on U.S. trade. In order to participate more fully in oversight of international investment and export financing activities, the Trade Representative will become a member of the National Advisory Council on International Monetary and Financial Policies and the Boards of the Export-Import Bank and the Overseas Private Investment Corporation.
 
-In performing these functions, the Trade Representative will act as the principal trade spokesman of the President. To assure that our trade policies take intoaccount the broadest range of perspectives, the Trade Representative will consult with the Trade Policy Committee, whose mandate and membership will be expanded. The Trade Representative will, as appropriate, invite agencies such as the Export-Import Bank and the Overseas Private Investment Corporation to participate in TPC meetings in addition to the permanent TPC members. When different departmental views on trade matters exist within the TPC as will be the case from time to time in this complex policy area, I will expect the Trade Representative to resolve policy disagreements in his best judgment, subject to appeal to the President.
+In performing these functions, the Trade Representative will act as the principal trade spokesman of the President. To assure that our trade policies take into account the broadest range of perspectives, the Trade Representative will consult with the Trade Policy Committee, whose mandate and membership will be expanded. The Trade Representative will, as appropriate, invite agencies such as the Export-Import Bank and the Overseas Private Investment Corporation to participate in TPC meetings in addition to the permanent TPC members. When different departmental views on trade matters exist within the TPC as will be the case from time to time in this complex policy area, I will expect the Trade Representative to resolve policy disagreements in his best judgment, subject to appeal to the President.
 
 #### the department of commerce
 
@@ -450,7 +452,7 @@ I propose to transfer to the Department of Commerce responsibility for administr
 
 This reorganization plan will transfer to the Department of Commerce responsibility for commercial representation abroad. This transfer would place both domestic and overseas export promotion activities under a single organization, directed by an Assistant Secretary for Export Development, charged with aggressively expanding U.S. export opportunities. Placing this Foreign Commercial Service in the Commerce Department will allow commercial officers to concentrate on the promotion of U.S. exports as their principal activity.
 
-Initially, the transfer of commercial representation from State to Commerce will involve all full-time overseas trade promotion and commercial positions (approximately 162), responsibility for this function in the countries (approximately 60) to which these individuals are assigned, and the associated foreign national employees in those countries. Over time, the Department of Commerce undoubtedly will review the deployment of commercial officers in light of changing trade circumstances and propose extensions or alterations of coverage of the Foreign Commercial Service.
+Initially, the transfer of commercial representation from State to Commerce will involve all full-time overseas trade promotion and commercial positions (approximately 162), responsibility for this function in the countries (approximately 60) to which these individualsare assigned, and the associated foreign national employees in those countries. Over time, the Department of Commerce undoubtedly will review the deployment of commercial officers in light of changing trade circumstances and propose extensions or alterations of coverage of the Foreign Commercial Service.
 
 #### <i>MTN implementation</i>
 
@@ -482,7 +484,7 @@ To succeed in global competition, we must have a better understanding of the pro
 
 Commerce will also expand its traditional trade policy focus on industrial issues to deal with the international trade and investment problems of our growing services sector. Under the proposal, there will be comprehensive service industry representation in our industry advisory process, as well as a continuing effort to bring services under international discipline. I expect the Commerce Department to play a major role in developing new service sector initiatives for consideration within the Government.
 
-After an investigation lasting over a year, I have found that this reorganization is necessary to carry outthe policy set forth in section 901(a) of title 5 of the United States Code. As described above, this reorganization will increase significantly our ability to implement the MTN agreements efficiently and effectively and will improve greatly the services of the government with regard to export development. These improvements will be achieved with no increase in personnel or expenditures, except for an annual expense of about $300,000 for the salaries and clerical support of the three additional senior Commerce Department officials and a non-recurring expense of approximately $600,000 in connection with the transfers of functions provided in the plan. I find that the reorganization made by this plan makes necessary the provisions for the appointment and pay of a Deputy Secretary, an Under Secretary for International Trade, and two additional Assistant Secretaries of the Department of Commerce, and additional members of the Boards of Directors of the Export-Import Bank and the Overseas Private Investment Corporation.
+After an investigation lasting over a year, I have found that this reorganization is necessary to carry out the policy set forth in section 901(a) of title 5 of the United States Code. As described above, this reorganization will increase significantly our ability to implement the MTN agreements efficiently and effectively and will improve greatly the services of the government with regard to export development. These improvements will be achieved with no increase in personnel or expenditures, except for an annual expense of about $300,000 for the salaries and clerical support of the three additional senior Commerce Department officials and a non-recurring expense of approximately $600,000 in connection with the transfers of functions provided in the plan. I find that the reorganization made by this plan makes necessary the provisions for the appointment and pay of a Deputy Secretary, an Under Secretary for International Trade, and two additional Assistant Secretaries of the Department of Commerce, and additional members of the Boards of Directors of the Export-Import Bank and the Overseas Private Investment Corporation.
 
 It is indeed appropriate that this proposal follows so soon after the overwhelming approval by the Congress of the Trade Agreements Act of 1979 \[19 U.S.C. 2501 et seq.\], for it will sharpen and unify trade policy direction, improve the efficiency of trade law enforcement, and enable us to negotiate abroad from a position of strength. The extensive discussions between Administration officials and the Congress on this plan have been a model of the kind of cooperation that can exist between the two branches. I look forward to our further cooperation in successfully implementing both this reorganization proposal and the MTN agreements.
 
@@ -502,13 +504,13 @@ Ex. Ord. No. 11425, Aug. 30, 1968, 33 F.R. 12363, formerly set out under section
 
 Ex. Ord. No. 12175, Dec. 7, 1979, 44 F.R. 70703, provided:
 
-By the authority vested in me as President of the United States of America by Section 9 of Reorganization Plan No. 3 of 1979 (transmitted to the Congress on September 25, 1979) \[set out as a note above\], the time period prescribed by Section 906 of Title 5 of the United States Code having elapsed without the adoption of a resolution of disapproval by either House of Congress, it is hereby ordered that Section 2(b)(1) of that Plan, establishing the Office of Deputy Secretary of Commerce, is effective immediately.
+By the authority vested in me as President of the United States of America by Section 9 of Reorganization Plan No. 3 of 1979 (transmitted to the Congress on September 25, 1979) \[set out as a note above\], the timeperiod prescribed by Section 906 of Title 5 of the United States Code having elapsed without the adoption of a resolution of disapproval by either House of Congress, it is hereby ordered that Section 2(b)(1) of that Plan, establishing the Office of Deputy Secretary of Commerce, is effective immediately.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 12188. Functions Relating to International Trade
 
-Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 989, as amended by Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968, provided:
+Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 989, as amended by Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 13118, §10(6), Mar. 31, 1999, 64 F.R. 16598, provided:
 
 By the authority vested in me by the Trade Agreements Act of 1979 \[see 19 U.S.C. 2501\], the Trade Act of 1974 \[this chapter\], the Trade Expansion Act of 1962 \[see Short Title note set out under section 1801 of this title\], section 350 of the Tariff Act of 1930 \[19 U.S.C. 1351\], Reorganization Plan No. 3 of 1979 \[set out as a note above\], and section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
@@ -570,7 +572,7 @@ Sec. 1–102. <i>The Trade Policy Committee.</i>
 
 &emsp;(14) The Assistant to the President for National Security Affairs
 
-&emsp;(15) The Director of the United States International Development Cooperation Agency.
+&emsp;(15) The Administrator of the United States Agency for International Development.
 
 The Chair and any member of the Committee may designate a subordinate officer whose status is not below that of an Assistant Secretary to serve in his stead when he is unable to attend any meetings of the Committee. The Chair may invite representatives from other agencies to attend the meetings of the Committee.
 
@@ -632,7 +634,7 @@ So much of the personnel, property, records, and unexpended balances of appropri
 
 Sec. 1–107. <i>Effective Dates.</i>
 
-(a) Sections 1, 2(a), 2(b)(2), 2(c), 2(d), 3, 4, 5(a), 5(b)(2), 5(c) through (e), and 6 through 8 of Reorganization PlanNo. 3 of 1979 \[set out as a note above\] and the provisions of this order, shall take effect as of January 2, 1980.
+(a) Sections 1, 2(a), 2(b)(2), 2(c), 2(d), 3, 4, 5(a), 5(b)(2), 5(c) through (e), and 6 through 8 of Reorganization Plan No. 3 of 1979 \[set out as a note above\] and the provisions of this order, shall take effect as of January 2, 1980.
 
 (b) Section 5(b)(1) of such plan \[set out as a note above\] shall take effect as of April 1, 1980.
 
@@ -640,5 +642,5 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1872, 2152, 2213, 2241, 2541 of this title.
+This section is referred to in sections 1872, 2152, 2213, 2241, 2541 of this title; title 15 section 1128.
 

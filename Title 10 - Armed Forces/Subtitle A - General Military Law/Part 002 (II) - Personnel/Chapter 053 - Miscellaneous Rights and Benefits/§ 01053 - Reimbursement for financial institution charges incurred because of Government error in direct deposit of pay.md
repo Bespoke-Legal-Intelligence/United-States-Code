@@ -36,7 +36,7 @@ Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that se
 
 #### Effective Date of 1989 Amendment
 
-Section 664(c) of Pub. L. 101–189 provided that: “The amendments made by subsection (a) \[amending thissection\], and section 1594 of title 10, United States Code, as added by subsection (b), shall apply with respect to pay and allowances deposited (or scheduled to be deposited) on or after the first day of the first month beginning after the date of the enactment of this Act \[Nov. 29, 1989\].”
+Section 664(c) of Pub. L. 101–189 provided that: “The amendments made by subsection (a) \[amending this section\], and section 1594 of title 10, United States Code, as added by subsection (b), shall apply with respect to pay and allowances deposited (or scheduled to be deposited) on or after the first day of the first month beginning after the date of the enactment of this Act \[Nov. 29, 1989\].”
 
 #### Effective Date
 

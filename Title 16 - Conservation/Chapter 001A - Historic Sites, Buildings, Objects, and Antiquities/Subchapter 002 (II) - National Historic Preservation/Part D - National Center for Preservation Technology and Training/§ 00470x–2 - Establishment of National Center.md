@@ -10,7 +10,7 @@ The purposes of the Center shall be to—
 
 &emsp;(1) develop and distribute preservation and conservation skills and technologies for the identification, evaluation, conservation, and interpretation of prehistoric and historic resources;
 
-&emsp;(2) develop and facilitate training for Federal, State and local resource preservationprofessionals, cultural resource managers, maintenance personnel, and others working in the preservation field;
+&emsp;(2) develop and facilitate training for Federal, State and local resource preservation professionals, cultural resource managers, maintenance personnel, and others working in the preservation field;
 
 &emsp;(3) take steps to apply preservation technology benefits from ongoing research by other agencies and institutions;
 
@@ -28,7 +28,7 @@ The Center shall be headed by an Executive Director with demonstrated expertise 
 
 #### (e) Assistance from Secretary
 
-The Secretary shall provide the Center assistance in obtaining such personnel, equipment, and facilities as may be needed by the Center to carry out its activities.
+The Secretary shall provide the Center assistance in obtaining such personnel, equipment,and facilities as may be needed by the Center to carry out its activities.
 
 (Pub. L. 89–665, title IV, §403, as added Pub. L. 102–575, title XL, §4022, Oct. 30, 1992, 106 Stat. 4766.)
 

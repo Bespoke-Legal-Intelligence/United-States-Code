@@ -68,7 +68,7 @@ The authority to select averages and statistically valid samples shall rest excl
 
 &emsp;&emsp;(B) determine a single country-wide subsidy rate to be applied to all exporters and producers.
 
-> &emsp;The individual countervailable subsidy rates determined under subparagraph (A) shall beused to determine the all-others rate under section 1671d(c)(5) of this title.
+> &emsp;The individual countervailable subsidy rates determined under subparagraph (A) shall be used to determine the all-others rate under section 1671d(c)(5) of this title.
 
 (June 17, 1930, ch. 497, title VII, §777A, as added Pub. L. 98–573, title VI, §620(a), Oct. 30, 1984, 98 Stat. 3039; amended Pub. L. 103–465, title II, §§229(a), 269(a), (b)(1), Dec. 8, 1994, 108 Stat. 4889, 4916.)
 

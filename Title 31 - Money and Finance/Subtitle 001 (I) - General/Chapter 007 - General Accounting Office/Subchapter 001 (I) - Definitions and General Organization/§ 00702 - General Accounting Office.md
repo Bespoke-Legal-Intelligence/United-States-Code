@@ -108,7 +108,7 @@ Savings Provisions.—
 
 Orders and other official actions not affected.—All orders, determinations, rules, regulations, permits, grants, contracts, certificates, licenses, and privileges—
 
-&emsp;&emsp;“(A) which have been issued, made, granted, or allowed to become effective by the Comptroller General or any official of the General Accounting Office, or by a court of competent jurisdiction, in theperformance of any function or authority transferred under this Act, and
+&emsp;&emsp;“(A) which have been issued, made, granted, or allowed to become effective by the Comptroller General or any official of the General Accounting Office, or by a court of competent jurisdiction, in the performance of any function or authority transferred under this Act, and
 
 &emsp;&emsp;“(B) which are in effect at the time of the transfer;
 

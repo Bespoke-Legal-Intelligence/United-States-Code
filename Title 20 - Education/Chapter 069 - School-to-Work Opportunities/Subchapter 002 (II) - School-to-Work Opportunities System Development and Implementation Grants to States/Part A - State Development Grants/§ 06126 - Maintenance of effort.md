@@ -20,7 +20,7 @@ A State may receive a development grant under section 6122 of this title for a f
 
 #### (2) Request
 
-&emsp;To be eligible to receive such a waiver, a State shall submit a request at such time, in such form, and containing such information as the Secretaries may require.
+&emsp;To be eligible to receive such a waiver, a State shall submit a request at such time, insuch form, and containing such information as the Secretaries may require.
 
 (Pub. L. 103–239, title II, §206, May 4, 1994, 108 Stat. 581.)
 

@@ -12,7 +12,7 @@ Appointment of Officers to Joint Staff.—(1) There is a Joint Staff under the C
 
 &emsp;(C) the Air Force.
 
-(3) Selection of officers of an armed force to serve on the Joint Staff shall be made by the Chairman from a list of officers submitted by the Secretary of the military department having jurisdiction over that armed force. Each officer whose name is submitted shall be among those officers considered to be the most outstanding officers of that armed force. The Chairman may specify the number of officers to be included on any such list.
+(3) Selection of officers of an armed force to serve on the Joint Staff shall be made by theChairman from a list of officers submitted by the Secretary of the military department having jurisdiction over that armed force. Each officer whose name is submitted shall be among those officers considered to be the most outstanding officers of that armed force. The Chairman may specify the number of officers to be included on any such list.
 
 (b)
 
@@ -104,7 +104,7 @@ Selection.—(1) The Assistant to the Chairman of the Joint Chiefs of Staff for 
 
 &emsp;“(C) are in a grade above the grade of colonel.
 
-“(2) The Assistant to the Chairman of the Joint Chiefs of Staff for Reserve Matters shall be selected by the Chairman from officers of the Army Reserve, the Naval Reserve, the Marine Corps Reserve, or the Air Force Reserve who—
+“(2) The Assistant to the Chairman of the Joint Chiefs of Staff for Reserve Matters shall be selected by the Chairman from officers of the Army Reserve, theNaval Reserve, the Marine Corps Reserve, or the Air Force Reserve who—
 
 &emsp;“(A) are recommended for such selection by the Secretary of the military department concerned;
 
@@ -126,7 +126,7 @@ Duties.—The Assistant to the Chairman for National Guard Matters is an adviser
 
 “(f)
 
-Other Reserve Component Representation on Joint Staff.—(1) The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs, shall develop appropriate policy guidance to ensure that, to the maximum extent practicable, the level of reserve component officer representation within the JointStaff is commensurate with the significant role of the reserve components within the Total Force.
+Other Reserve Component Representation on Joint Staff.—(1) The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs, shall develop appropriate policy guidance to ensure that, to the maximum extent practicable, the level of reserve component officer representation within the Joint Staff is commensurate with the significant role of the reserve components within the Total Force.
 
 “(2) Not later than March 1, 1998, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report describing the steps taken and being taken to implement this subsection.
 

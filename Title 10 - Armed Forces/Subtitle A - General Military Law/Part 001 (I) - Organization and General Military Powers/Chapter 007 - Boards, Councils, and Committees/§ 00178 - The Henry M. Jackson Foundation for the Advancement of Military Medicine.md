@@ -6,7 +6,7 @@
 
 (c)(1) The Foundation shall have a Council of Directors (hereinafter in this section referred to as the “Council”) composed of—
 
-&emsp;(A) the Chairmen and ranking minority members of the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives (or their designees from the membership of such committees), who shall be ex officio members,
+&emsp;(A) the Chairmen and ranking minority members of the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives (or their designees from the membership of such committees), who shall be ex officio members,
 
 &emsp;(B) the Dean of the Uniformed Services University of the Health Sciences, who shall be an ex officio member, and
 
@@ -38,7 +38,7 @@
 
 &emsp;(4) accept, hold, administer, invest, and spend any gift, devise, or bequest of real or personal property made to the Foundation;
 
-&emsp;(5) enter into contracts with individuals, public or private organizations, professional societies, and government agencies for the purpose of carrying out the functions of the Foundation;
+&emsp;(5) enter into contracts with individuals, public or private organizations, professional societies, and government agencies for thepurpose of carrying out the functions of the Foundation;
 
 &emsp;(6) enter into such other contracts, leases, cooperative agreements, and other transactions as the Executive Director considers appropriate to conduct the activities of the Foundation; and
 
@@ -48,9 +48,11 @@
 
 (i) The Council shall transmit to the President annually, and at such other times as the Council considers desirable, a report on the operations, activities, and accomplishments of the Foundation.
 
-(Added Pub. L. 98–36, §2(a), May 27, 1983, 97 Stat. 200; amended Pub. L. 98–132, §2(a)(1), Oct. 17, 1983, 97 Stat. 849; Pub. L. 101–189, div. A, title VII, §726(b)(2), Nov. 29, 1989, 103 Stat. 1480; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502.)
+(Added Pub. L. 98–36, §2(a), May 27, 1983, 97 Stat. 200; amended Pub. L. 98–132, §2(a)(1), Oct. 17, 1983, 97 Stat. 849; Pub. L. 101–189, div. A, title VII, §726(b)(2), Nov. 29, 1989, 103 Stat. 1480; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Amendments
+
+1999—Subsec. (c)(1)(A). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 1996—Subsec. (c)(1)(A). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
 
@@ -61,8 +63,6 @@
 Subsec. (a). Pub. L. 98–132, §2(a)(1)(B), inserted “Henry M. Jackson”.
 
 #### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 Section 1 of Pub. L. 98–132 provided: “That (a) the Foundation for the Advancement of Military Medicine established pursuant to section 178 of title 10, United States Code, shall be designated and hereafter known as the ‘Henry M. Jackson Foundation for the Advancement of Military Medicine’, in honor of the late Henry M. Jackson, United States Senator from the State of Washington. Any reference to the Foundation for the Advancement of Military Medicine in any law, regulation, document, record, or other paper of the United States shall be held and considered to be a reference to the ‘Henry M. Jackson Foundation for the Advancement of Military Medicine’.
 

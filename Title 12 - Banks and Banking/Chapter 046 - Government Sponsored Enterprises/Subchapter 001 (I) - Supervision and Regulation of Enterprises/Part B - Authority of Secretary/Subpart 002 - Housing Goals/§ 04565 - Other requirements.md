@@ -14,7 +14,7 @@ To meet the low- and moderate-income housing goal under section 4562 of this tit
 
 &emsp;&emsp;(B) assist insured depository institutions to meet their obligations under the Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\],
 
-> &emsp;which shall include developing appropriate and prudent underwriting standards, businesspractices, repurchase requirements, pricing, fees, and procedures;
+> &emsp;which shall include developing appropriate and prudent underwriting standards, business practices, repurchase requirements, pricing, fees, and procedures;
 
 &emsp;(4) develop the institutional capacity to help finance low- and moderate-income housing, including housing for first-time homebuyers; and
 

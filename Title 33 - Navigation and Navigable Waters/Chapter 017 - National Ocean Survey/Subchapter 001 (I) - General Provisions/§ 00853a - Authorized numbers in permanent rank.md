@@ -48,13 +48,9 @@ The total number of officers on active duty as authorized by law may be temporar
 
 #### Short Title
 
-Section 1 of act June 3, 1948, provided: “That this Act \[enacting this section and sections 853b to 853<i>o</i> and 853p to 853t of this title, amending this section and section 852b of this title, and repealing sections 854b and 854c of this title\] may be cited as the ‘Coast and Geodetic Survey Commissioned Officers’ Act of 1948’.”
+Section 1 of act June 3, 1948, provided: “That this Act \[enacting this section and sections 853b to 853<i>o</i> and 853p to 853v of this title, amending sections 852a, 852b, 854a, and 864d of this title, and repealing sections 851a, 854b, 854c, 864b, and 864c of this title\] may be cited as the ‘Coast and Geodetic Survey Commissioned Officers’ Act of 1948’.”
 
 #### Transfer of Functions
 
 Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and commissioned officers of Survey transferred to ESSA, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director of Survey. Subsequently, Environmental Science Services Administration abolished, National Oceanic and Atmospheric Administration established, and Commissioned Officer Corps of ESSA redesignated Commissioned Officer Corps of NOAA by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090. For further details, see note set out under section 851 of this title.
-
-#### Similar Provisions
-
-Provisions similar to those in subsec. (a) of this section are contained in section 851 of this title.
 

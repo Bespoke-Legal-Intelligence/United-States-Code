@@ -26,5 +26,9 @@ The Secretary shall cause to be conducted an annual audit on a fiscal year basis
 
 #### Performance and Account Statements for Inactive Accounts
 
-Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–251, provided in part: “That notwithstanding any other provision of law, the Secretary shall not be required to provide a quarterly statement of performance for any Indian trust account that has not had activity for at least eighteen months and has a balance of $1.00 or less: <i>Provided further</i>, That the Secretary shall issue an annual account statement and maintain a record of any such accounts and shall permit the balance in each such account to be withdrawn upon the express written request of the accountholder.”
+Pub. L. 106–113, div. B, §1000(a)(3) \[title I\], Nov. 29, 1999, 113 Stat. 1535, 1501A–153, provided in part: “That notwithstanding any other provision of law, the Secretary shall not be required to provide a quarterly statement of performance for any Indian trust account that has not had activity for at least 18 months and has a balance of $1.00 or less: <i>Provided further</i>, That the Secretary shall issue an annual account statement and maintain a record of any such accounts and shall permit the balance in each such account to be withdrawn upon the express written request of the accountholder.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–251.
 

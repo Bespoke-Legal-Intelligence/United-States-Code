@@ -26,7 +26,7 @@ The word “grade” is substituted for the word “rank”. The words “pay, a
 
 #### 1958 Act
 
-The word “regular” is deleted \[in sections 4335 and 4336\] to make clear that a Dean or professor of the United States Military Academy holds only the office of “Dean” or “professor” and not the office of “brigadier general” or “colonel”, as the case may be, even though he is entitled to the pay and allowances of that grade.
+The word “regular” is deleted \[in sections 4335 and 4336\] to make clear that a Dean or professor of theUnited States Military Academy holds only the office of “Dean” or “professor” and not the office of “brigadier general” or “colonel”, as the case may be, even though he is entitled to the pay and allowances of that grade.
 
 #### Amendments
 

@@ -2,7 +2,7 @@ Part C—Administrative Simplification
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 242k, 1395cc, 1396b of this title.
+This part is referred to in sections 242k, 299c–2, 1395cc, 1396b of this title.
 
 
 ---

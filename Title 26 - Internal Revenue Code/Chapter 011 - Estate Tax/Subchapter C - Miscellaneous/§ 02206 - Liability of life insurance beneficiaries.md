@@ -10,5 +10,5 @@ Unless the decedent directs otherwise in his will, if any part of the gross esta
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2001(d)(1) of Pub. L. 94–455, set out as a note under section 2001 of this title.
+Amendment by Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2001(d)(1)of Pub. L. 94–455, set out as a note under section 2001 of this title.
 

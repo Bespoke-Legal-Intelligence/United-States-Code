@@ -1,6 +1,6 @@
 ### §118. Duty of United States attorneys
 
-It shall be the duty of the several United States attorneys to prosecute all violations ofthis Act which shall be brought to their notice or knowledge by any person making the complaint under oath; and the same shall be heard before any district court of the United States or Territorial court holden within the district in which such violation of this Act has been committed.
+It shall be the duty of the several United States attorneys to prosecute all violations of this Act which shall be brought to their notice or knowledge by any person making the complaint under oath; and the same shall be heard before any district court of the United States or Territorial court holden within the district in which such violation of this Act has been committed.
 
 (May 29, 1884, ch. 60, §9, 23 Stat. 33; June 25, 1948, ch. 646, §1, 62 Stat. 909.)
 

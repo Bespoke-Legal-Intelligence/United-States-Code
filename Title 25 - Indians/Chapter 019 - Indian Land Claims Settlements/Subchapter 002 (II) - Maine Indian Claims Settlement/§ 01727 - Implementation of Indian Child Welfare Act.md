@@ -2,7 +2,7 @@
 
 #### (a) Petition for assumption of exclusive jurisdiction; approval by Secretary
 
-The Passamaquoddy Tribe or the Penobscot Nation may assume exclusive jurisdiction over Indian child custody proceedings pursuant to the Indian Child Welfare Act of 1978 (92 Stat. 3069) \[25 U.S.C. 1901 et seq.\]. Before the respective tribe or nation may assume such jurisdiction over Indian child custody proceedings, the respective tribe or nation shall present to the Secretary for approval a petition to assume such jurisdiction and the Secretary shall approve that petition in the manner prescribed by sections 108(a)–(c) of said Act \[25 U.S.C. 1918(a)–(c)\].
+The Passamaquoddy Tribe or the Penobscot Nation may assume exclusive jurisdiction overIndian child custody proceedings pursuant to the Indian Child Welfare Act of 1978 (92 Stat. 3069) \[25 U.S.C. 1901 et seq.\]. Before the respective tribe or nation may assume such jurisdiction over Indian child custody proceedings, the respective tribe or nation shall present to the Secretary for approval a petition to assume such jurisdiction and the Secretary shall approve that petition in the manner prescribed by sections 108(a)–(c) of said Act \[25 U.S.C. 1918(a)–(c)\].
 
 #### (b) Consideration and determination of petition by Secretary
 

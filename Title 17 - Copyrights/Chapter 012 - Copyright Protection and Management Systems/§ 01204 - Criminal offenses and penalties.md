@@ -10,11 +10,15 @@ In General.—Any person who violates section 1201 or 1202 willfully and for pur
 
 (b)
 
-Limitation for Nonprofit Library, Archives, or Educational Institution.—Subsection (a) shall not apply to a nonprofit library, archives, or educational institution.
+Limitation for Nonprofit Library, Archives, Educational Institution, or Public Broadcasting Entity.—Subsection (a) shall not apply to a nonprofit library, archives, educational institution, or public broadcasting entity (as defined under section 118(g).
 
 (c)
 
 Statute of Limitations.—No criminal proceeding shall be brought under this section unless such proceeding is commenced within 5 years after the cause of action arose.
 
-(Added Pub. L. 105–304, title I, §103(a), Oct. 28, 1998, 112 Stat. 2876.)
+(Added Pub. L. 105–304, title I, §103(a), Oct. 28, 1998, 112 Stat. 2876; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5004(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–593.)
+
+#### Amendments
+
+1999—Subsec. (b). Pub. L. 106–113 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Subsection (a) shall not apply to a nonprofit library, archives, or educational institution.”
 

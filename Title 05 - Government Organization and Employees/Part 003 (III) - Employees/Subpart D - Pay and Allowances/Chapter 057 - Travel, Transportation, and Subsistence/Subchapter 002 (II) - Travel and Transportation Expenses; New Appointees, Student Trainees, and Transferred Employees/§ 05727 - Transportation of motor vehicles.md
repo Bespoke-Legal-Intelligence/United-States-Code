@@ -58,7 +58,7 @@ Feb. 5, 1964, Pub. L. 88–266, 78 Stat. 8.
 
 In subsection (a), the proviso in former section 73c is omitted as superseded by section 2634 of title 10, and by former section 73b–1(f), which is carried into subsections (b)–(e).
 
-In subsection (b), the words “including a new appointee and a student trainee to the extent authorized by sections 5722 and 5723 of this title” are substituted for “including any new appointee, in accordance with section 73b–3 of this title” for clarity and reflect thecodification of former section 73b–3 in this title. The words “at Government expense” are inserted for clarity.
+In subsection (b), the words “including a new appointee and a student trainee to the extent authorized by sections 5722 and 5723 of this title” are substituted for “including any new appointee, in accordance with section 73b–3 of this title” for clarity and reflect the codification of former section 73b–3 in this title. The words “at Government expense” are inserted for clarity.
 
 The last sentence of subsection (f) of former section 73b–1 which provided that for the purposes of that subsection and subsection (e), which is carried into section 5726, Alaska shall be considered to be outside the continental limits of the United States is omitted as unnecessary in view of the definition of “continental United States” in section 5721(4).
 

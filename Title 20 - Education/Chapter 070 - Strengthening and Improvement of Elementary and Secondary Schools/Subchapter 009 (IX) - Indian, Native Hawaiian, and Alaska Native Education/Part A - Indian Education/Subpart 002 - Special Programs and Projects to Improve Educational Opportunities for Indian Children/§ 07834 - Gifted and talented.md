@@ -60,7 +60,7 @@ The Secretary shall make grants to, or enter into contracts, for the activities 
 
 &emsp;&emsp;(E) leadership programs designed to replicate programs for such children throughout the United States, including disseminating information derived from the demonstration projects conducted under subsection (a) of this section; and
 
-&emsp;&emsp;(F) appropriate research, evaluation, and related activities pertaining to the needs of such children and to the provision of such support services to the families of such children that are needed to enable such children to benefit from the project.
+&emsp;&emsp;(F) appropriate research, evaluation, and related activities pertaining to the needs ofsuch children and to the provision of such support services to the families of such children that are needed to enable such children to benefit from the project.
 
 #### (4) Application
 

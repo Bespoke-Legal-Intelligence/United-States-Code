@@ -42,17 +42,25 @@ Oct. 19, 1984, Pub. L. 98–520, §8(a)–(e), 98 Stat. 2429.
 
 36:2808(c).
 
+&nbsp;
+
 154507(c)
 
 36:2808(a).
+
+&nbsp;
 
 154507(d)
 
 36:2808(b).
 
+&nbsp;
+
 154507(e)
 
 36:2808(e).
+
+&nbsp;
 
 In subsection (a), the words “any shares of” are omitted as unnecessary.
 

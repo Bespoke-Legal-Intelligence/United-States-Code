@@ -30,7 +30,7 @@ Title II of the Organized Crime Control Act of 1970, referred to in subsec. (c),
 
 Subsec. (c). Pub. L. 94–279, §12(b), substituted “section 2149(c)” for “sections 2149(b) and 2150(b)” after “except as provided in”.
 
-1970—Pub. L. 91–579 designated existing provisions as subsec. (a), expanded coverage to include exhibitors and operators of auction sales for purposes of investigation, inserted provisions requiring that records, facilities, and animals be accessible to inspectors at all reasonable times at premises of dealers, research facilities,exhibitors, and operators of auction sales, and added subsecs. (b) and (c).
+1970—Pub. L. 91–579 designated existing provisions as subsec. (a), expanded coverage to include exhibitors and operators of auction sales for purposes of investigation, inserted provisions requiring that records, facilities, and animals be accessible to inspectors at all reasonable times at premises of dealers, research facilities, exhibitors, and operators of auction sales, and added subsecs. (b) and (c).
 
 #### Effective Date of 1985 Amendment
 

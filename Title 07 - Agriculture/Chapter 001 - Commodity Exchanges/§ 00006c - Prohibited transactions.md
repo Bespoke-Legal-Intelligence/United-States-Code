@@ -2,9 +2,9 @@
 
 #### (a) Meretricious transactions
 
-It shall be unlawful for any person to offer to enter into, enter into, or confirm the execution of, any transaction involving any commodity, which is or may be used for (1) hedging any transaction in interstate commerce in such commodity or the products or byproducts thereof, or (2) determining the price basis of any such transaction in interstate commerce in such commodity, or (3) delivering any such commodity sold, shipped, or received in interstate commerce for the fulfillment thereof—
+It shall be unlawful for any person to offer to enter into, enter into, or confirm the executionof, any transaction involving any commodity, which is or may be used for (1) hedging any transaction in interstate commerce in such commodity or the products or byproducts thereof, or (2) determining the price basis of any such transaction in interstate commerce in such commodity, or (3) delivering any such commodity sold, shipped, or received in interstate commerce for the fulfillment thereof—
 
-&emsp;(A) if such transaction is, is of the character of, or is commonly known to the trade as, a“wash sale,” “cross trade,” or “accommodation trade,” or is a fictitious sale; or
+&emsp;(A) if such transaction is, is of the character of, or is commonly known to the trade as, a “wash sale,” “cross trade,” or “accommodation trade,” or is a fictitious sale; or
 
 &emsp;(B) if such transaction is used to cause any price to be reported, registered, or recorded which is not a true and bona fide price.
 
@@ -52,7 +52,7 @@ Notwithstanding the provisions of subsection (c) of this section—
 
 &emsp;&emsp;&emsp;(iii) records each transaction in its customer's name by the transaction identification number provided by the grantor;
 
-&emsp;&emsp;&emsp;(iv) provides a disclosure statement to its customers, under regulations of the Commission, that discloses, among other things, all costs, including any markups or commissions involved in such transaction; and
+&emsp;&emsp;&emsp;(iv) provides a disclosure statement to its customers, under regulations of the Commission, that discloses, among otherthings, all costs, including any markups or commissions involved in such transaction; and
 
 &emsp;&emsp;(C) the grantor and futures commission merchant comply with any additional uniform and reasonable terms and conditions the Commission may prescribe, including registration with the Commission.
 

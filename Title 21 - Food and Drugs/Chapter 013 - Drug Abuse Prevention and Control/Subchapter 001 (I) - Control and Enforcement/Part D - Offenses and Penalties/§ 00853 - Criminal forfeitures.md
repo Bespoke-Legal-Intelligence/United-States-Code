@@ -22,7 +22,7 @@ Property subject to criminal forfeiture under this section includes—
 
 #### (c) Third party transfers
 
-All right, title, and interest in property described in subsection (a) of this section vests in the United States upon the commission of the act giving rise to forfeiture under this section. Any such property that is subsequently transferred to a person other than the defendant maybe the subject of a special verdict of forfeiture and thereafter shall be ordered forfeited to the United States, unless the transferee establishes in a hearing pursuant to subsection (n) of this section that he is a bona fide purchaser for value of such property who at the time of purchase was reasonably without cause to believe that the property was subject to forfeiture under this section.
+All right, title, and interest in property described in subsection (a) of this section vests in the United States upon the commission of the act giving rise to forfeiture under this section. Any such property that is subsequently transferred to a person other than the defendant may be the subject of a special verdict of forfeiture and thereafter shall be ordered forfeited to the United States, unless the transferee establishes in a hearing pursuant to subsection (n) of this section that he is a bona fide purchaser for value of such property who at the time of purchase was reasonably without cause to believe that the property was subject to forfeiture under this section.
 
 #### (d) Rebuttable presumption
 
@@ -52,7 +52,7 @@ There is a rebuttable presumption at trial that any property of a person convict
 
 #### (f) Warrant of seizure
 
-The Government may request the issuance of a warrant authorizing the seizure of property subject to forfeiture under this section in the same manner as provided for a search warrant. If the court determines that there is probable cause to believe that the property to be seized would, in the event of conviction, be subject to forfeiture and that an order under subsection (e) of this section may not be sufficient to assure the availability of the property for forfeiture, the court shall issue a warrant authorizing the seizure of such property.
+The Government may request the issuance of a warrant authorizing the seizure of property subject to forfeiture under this section in the same manner as provided for a search warrant. If the court determines that there is probable cause to believe that the property to be seizedwould, in the event of conviction, be subject to forfeiture and that an order under subsection (e) of this section may not be sufficient to assure the availability of the property for forfeiture, the court shall issue a warrant authorizing the seizure of such property.
 
 #### (g) Execution
 
@@ -60,7 +60,7 @@ Upon entry of an order of forfeiture under this section, the court shall authori
 
 #### (h) Disposition of property
 
-Following the seizure of property ordered forfeited under this section, the Attorney General shall direct the disposition of the property by sale or any other commercially feasible means, making due provision for the rights of any innocent persons. Any property right or interest not exercisable by, or transferable for value to, the United States shall expire and shall not revert to the defendant, nor shall the defendant or any person acting in concert with him or on his behalf be eligible to purchase forfeited property at any sale held by the United States. Upon application of a person, other than the defendant or a person acting in concert with him or on his behalf, the court may restrain or stay the sale or disposition of the property pending the conclusion of any appeal of the criminal case givingrise to the forfeiture, if the applicant demonstrates that proceeding with the sale or disposition of the property will result in irreparable injury, harm, or loss to him.
+Following the seizure of property ordered forfeited under this section, the Attorney General shall direct the disposition of the property by sale or any other commercially feasible means, making due provision for the rights of any innocent persons. Any property right or interest not exercisable by, or transferable for value to, the United States shall expire and shall not revert to the defendant, nor shall the defendant or any person acting in concert with him or on his behalf be eligible to purchase forfeited property at any sale held by the United States. Upon application of a person, other than the defendant or a person acting in concert with him or on his behalf, the court may restrain or stay the sale or disposition of the property pending the conclusion of any appeal of the criminal case giving rise to the forfeiture, if the applicant demonstrates that proceeding with the sale or disposition of the property will result in irreparable injury, harm, or loss to him.
 
 #### (i) Authority of the Attorney General
 
@@ -174,11 +174,11 @@ Subsec. (p). Pub. L. 99–570, §1153(b), which directed that “section 413 of 
 
 Subsec. (d). Pub. L. 98–473, §2301(e), struck out subsec. (d) which related to forfeiture of property other than that described in subsec. (a) and the conditions therefor, and redesignated former subsec. (e) as (d).
 
-Subsecs. (e) to (p). Pub. L. 98–473, §2301(e)(2), which directed that this section be amended by redesignating subsecs. (e), (f), (g), (h), (i), (<i>l</i>), (m), (n), (<i>o</i>), and (p) as subsecs. (d), (e), (f), (g), (h), (i), (j), (h), (<i>l</i>), (m), (n), and (<i>o</i>), respectively, was executed by redesignating subsecs. (e) to (p) as (d) to (<i>o</i>), respectively, to give effect to the probable intent of Congress.
+Subsecs. (e) to (p). Pub. L. 98–473, §2301(e)(2), which directed that this section be amended by redesignatingsubsecs. (e), (f), (g), (h), (i), (<i>l</i>), (m), (n), (<i>o</i>), and (p) as subsecs. (d), (e), (f), (g), (h), (i), (j), (h), (<i>l</i>), (m), (n), and (<i>o</i>), respectively, was executed by redesignating subsecs. (e) to (p) as (d) to (<i>o</i>), respectively, to give effect to the probable intent of Congress.
 
 Subsec. (n)(1). Pub. L. 98–473, §2301(f), struck out “for at least seven successive court days” after “to dispose of the property”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 333, 848, 970 of this title; title 18 sections 229B, 793, 794, 798, 982, 1028, 1029, 1834, 3554; title 33 section 1415; title 50 section 783.
+This section is referred to in sections 333, 848, 970 of this title; title 18 sections 229B, 793, 794, 798, 982, 1028, 1029, 1834, 3554; title 33 section 1415; title 42 section 1786; title 50 section 783.
 

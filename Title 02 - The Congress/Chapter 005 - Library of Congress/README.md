@@ -158,6 +158,15 @@
 | (c) | Credits to revolving fund. |
 | (d) | Unobligated balances. |
 | (e) | Annual report. |
+| [183\.](%C2%A7%2000183%20-%20Written%20history%20of%20the%20House%20of%20Representatives.md) | Written history of the House of Representatives. |
+| (a) | In general. |
+| (b) | Guidelines. |
+| (c) | Printing. |
+| (d) | Distribution. |
+| (e) | Private funding. |
+| [183a.](%C2%A7%2000183a%20-%20Oral%20history%20of%20the%20House%20of%20Representatives.md) | Oral history of the House of Representatives. |
+| (a) | In general. |
+| (b) | Definition of oral history. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -275,3 +284,5 @@
 - [&sect; 00180 - Legislative information retrieval system](%C2%A7%2000180%20-%20Legislative%20information%20retrieval%20system.md)
 - [&sect; 00181 - Program for exchange of information among legislative branch agencies](%C2%A7%2000181%20-%20Program%20for%20exchange%20of%20information%20among%20legislative%20branch%20agencies.md)
 - [&sect; 00182 - Cooperative Acquisitions Program Revolving Fund](%C2%A7%2000182%20-%20Cooperative%20Acquisitions%20Program%20Revolving%20Fund.md)
+- [&sect; 00183 - Written history of the House of Representatives](%C2%A7%2000183%20-%20Written%20history%20of%20the%20House%20of%20Representatives.md)
+- [&sect; 00183a - Oral history of the House of Representatives](%C2%A7%2000183a%20-%20Oral%20history%20of%20the%20House%20of%20Representatives.md)

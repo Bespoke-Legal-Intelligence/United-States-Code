@@ -24,7 +24,7 @@ Subject to regulation prescribed by the Secretary, any adult may, without paymen
 
 &emsp;(2) 100 gallons per calendar year if there is only 1 adult in such household.
 
-> For purposes of this subsection, the term “adult” means an individual who has attained 18years of age, or the minimum age (if any) established by law applicable in the locality in which the household is situated at which beer may be sold to individuals, whichever is greater.
+> For purposes of this subsection, the term “adult” means an individual who has attained 18 years of age, or the minimum age (if any) established by law applicable in the locality in which the household is situated at which beer may be sold to individuals, whichever is greater.
 
 #### (f) Removal for use as distilling material
 
@@ -40,7 +40,7 @@ Subject to such regulations as the Secretary may prescribe, beer may be removed 
 
 &emsp;&emsp;(B) beer entered into any customs bonded warehouse under subparagraph (A) may be withdrawn for consumption in the United States by, and for the official and family use of, such foreign governments, organizations, and individuals as are entitled to withdraw imported beer from such warehouses free of tax.
 
-> &emsp;Beer transferred to any customs bonded warehouse under subparagraph (A) shall be entered, stored, and accounted for in such warehouse under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported beer.
+> &emsp;Beer transferred to any customs bonded warehouse under subparagraph (A) shall be entered,stored, and accounted for in such warehouse under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported beer.
 
 #### (2) Other rules to apply
 

@@ -34,9 +34,13 @@ Oct. 20, 1978, Pub. L. 95–493, §§9, 11, 92 Stat. 1646.
 
 36:1209(a).
 
+&nbsp;
+
 220308(c)
 
 36:1209(b).
+
+&nbsp;
 
 In subsection (a), the words “any shares of” are omitted as unnecessary.
 

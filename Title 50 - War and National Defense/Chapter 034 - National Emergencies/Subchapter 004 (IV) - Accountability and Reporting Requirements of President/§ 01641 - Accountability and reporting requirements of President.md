@@ -2,11 +2,11 @@
 
 #### (a) Maintenance of file and index of Presidential orders, rules and regulations during national emergency
 
-When the President declares a national emergency, or Congress declares war, the Presidentshall be responsible for maintaining a file and index of all significant orders of the President, including Executive orders and proclamations, and each Executive agency shall maintain a file and index of all rules and regulations, issued during such emergency or war issued pursuant to such declarations.
+When the President declares a national emergency, or Congress declares war, the President shall be responsible for maintaining a file and index of all significant orders of the President, including Executive orders and proclamations, and each Executive agency shall maintain a file and index of all rules and regulations, issued during such emergency or war issued pursuant to such declarations.
 
 #### (b) Presidential orders, rules and regulations; transmittal to Congress
 
-All such significant orders of the President, including Executive orders, and such rules and regulations shall be transmitted to the Congress promptly under means to assure confidentiality where appropriate.
+All such significant orders of the President, including Executive orders, and such rules andregulations shall be transmitted to the Congress promptly under means to assure confidentiality where appropriate.
 
 #### (c) Expenditures during national emergency; Presidential reports to Congress
 

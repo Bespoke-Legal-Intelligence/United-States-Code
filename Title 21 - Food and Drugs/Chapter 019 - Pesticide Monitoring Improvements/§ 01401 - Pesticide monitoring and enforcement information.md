@@ -54,7 +54,7 @@ The Food and Drug Administration shall use the computerized data management syst
 
 #### (c) Volume data
 
-The Food and Drug Administration shall use the computerized data management systems placed into effect under subsection (a)(1) of this section to summarize the volume of each type of food product subject to the requirements of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] which is imported into the United States and which has an entry value which exceeds an amount established by the Secretary of Health and Human Services. The summary shall be made by country of origin and district of entry. Information with respect to volumes of food products to be included in the summary shall, to the extent feasible, be obtained from data bases of other Federal agencies.
+The Food and Drug Administration shall use the computerized data management systemsplaced into effect under subsection (a)(1) of this section to summarize the volume of each type of food product subject to the requirements of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] which is imported into the United States and which has an entry value which exceeds an amount established by the Secretary of Health and Human Services. The summary shall be made by country of origin and district of entry. Information with respect to volumes of food products to be included in the summary shall, to the extent feasible, be obtained from data bases of other Federal agencies.
 
 #### (d) Compilation
 
@@ -70,7 +70,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a) to (c), is
 
 #### Short Title
 
-Section 4701 of Pub. L. 100–418 provided that: “This subtitle \[subtitle G (§§4701–4704) of title IV of Pub. L.100–418, enacting this chapter\] may be cited as the ‘Pesticide Monitoring Improvements Act of 1988’.”
+Section 4701 of Pub. L. 100–418 provided that: “This subtitle \[subtitle G (§§4701–4704) of title IV of Pub. L. 100–418, enacting this chapter\] may be cited as the ‘Pesticide Monitoring Improvements Act of 1988’.”
 
 #### Imported Meat, Poultry Products, Eggs, and Egg Products
 

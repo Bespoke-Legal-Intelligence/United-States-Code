@@ -20,13 +20,17 @@ For purposes of this chapter:
 
 &emsp;(3) The term “overseas area” means any area situated outside the United States.
 
-&emsp;(4) The term “United States”, when used in a geographical sense, means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States (excluding the Trust Territory of the Pacific Islands and Midway Island).
+&emsp;(4) The term “United States”, when used in a geographical sense, means the severalStates, the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States (excluding the Trust Territory of the Pacific Islands and Midway Island).
 
 &emsp;(5) The term “involuntarily separated” has the meaning given that term in section 1141 of title 10.
 
-(Pub. L. 95–561, title XIV, §1414, Nov. 1, 1978, 92 Stat. 2372; Pub. L. 101–189, div. A, title III, §325(a), Nov. 29, 1989, 103 Stat. 1415; Pub. L. 101–510, div. A, title V, §504(b), Nov. 5, 1990, 104 Stat. 1559.)
+&emsp;(6) The term “Director” means the Director of the Department of Defense Education Activity.
+
+(Pub. L. 95–561, title XIV, §1414, Nov. 1, 1978, 92 Stat. 2372; Pub. L. 101–189, div. A, title III, §325(a), Nov. 29, 1989, 103 Stat. 1415; Pub. L. 101–510, div. A, title V, §504(b), Nov. 5, 1990, 104 Stat. 1559; Pub. L. 106–65, div. A, title III, §354(7), Oct. 5, 1999, 113 Stat. 574.)
 
 #### Amendments
+
+1999—Par. (6). Pub. L. 106–65 added par. (6).
 
 1990—Par. (5). Pub. L. 101–510 added par. (5).
 

@@ -20,7 +20,7 @@ The Secretary of Defense, in consultation with the Director of Central Intellige
 
 Consistent with sections 403–3 and 403–4 of this title, the Secretary of Defense shall ensure—
 
-&emsp;(1) through the National Security Agency (except as otherwise directed by the President or the National Security Council), the continued operation of an effective unified organization for the conduct of signals intelligence activities and shall ensure that the product isdisseminated in a timely manner to authorized recipients;
+&emsp;(1) through the National Security Agency (except as otherwise directed by the President or the National Security Council), the continued operation of an effective unified organization for the conduct of signals intelligence activities and shall ensure that the product is disseminated in a timely manner to authorized recipients;
 
 &emsp;(2) through the National Imagery and Mapping Agency (except as otherwise directed by the President or the National Security Council), with appropriate representation from the intelligence community, the continued operation of an effective unified organization within the Department of Defense—
 

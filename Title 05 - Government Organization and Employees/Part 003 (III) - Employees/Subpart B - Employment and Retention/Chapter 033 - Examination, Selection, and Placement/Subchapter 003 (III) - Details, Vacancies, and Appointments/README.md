@@ -6,7 +6,7 @@
 
 #### Annual Report to Congress on Employees or Members of Armed Services Detailed to Executive Agencies; Exemptions
 
-Provisions directing that each Executive agency detailing personnel submit an annual report to Senate and House Committees on Appropriations on all employees or members of armed services detailed to Executive agencies, listing grade, position, and offices of each person detailed and agency to which each such person was detailed, with exemptions for certain intelligence agencies, were contained in the following appropriations acts:
+Provisions directing that each Executive agency detailing personnel submit an annual report to Senateand House Committees on Appropriations on all employees or members of armed services detailed to Executive agencies, listing grade, position, and offices of each person detailed and agency to which each such person was detailed, with exemptions for certain intelligence agencies, were contained in the following appropriations acts:
 
 Pub. L. 103–329, title VI, §619, Sept. 30, 1993, 108 Stat. 2420.
 

@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (3) Hedge
 
-&emsp;The term “hedge” means any position which reduces the dealer's risk of interest rate or price changes or currency fluctuations, including any position which is reasonably expected to become a hedge within 60 days after the acquisition of the position.
+&emsp;The term “hedge” means any position which manages the dealer's risk of interest rate or price changes or currency fluctuations, including any position which is reasonably expected to become a hedge within 60 days after the acquisition of the position.
 
 #### (4) Special rules for certain receivables
 
@@ -226,9 +226,11 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(3) to prevent the use by taxpayers of subsection (c)(4) to avoid the application of this section to a receivable that is inventory in the hands of the taxpayer (or a person who bears a relationship to the taxpayer described in sections 267(b) of <sup>1</sup> 707(b)).
 
-(Added Pub. L. 103–66, title XIII, §13223(a), Aug. 10, 1993, 107 Stat. 481; amended Pub. L. 105–34, title X, §1001(b), Aug. 5, 1997, 111 Stat. 906; Pub. L. 105–206, title VI, §6010(a)(3), title VII, §7003(a), (b), July 22, 1998, 112 Stat. 813, 832.)
+(Added Pub. L. 103–66, title XIII, §13223(a), Aug. 10, 1993, 107 Stat. 481; amended Pub. L. 105–34, title X, §1001(b), Aug. 5, 1997, 111 Stat. 906; Pub. L. 105–206, title VI, §6010(a)(3), title VII, §7003(a), (b), July 22, 1998, 112 Stat. 813, 832; Pub. L. 106–170, title V, §532(b)(1), Dec. 17, 1999, 113 Stat. 1930.)
 
 #### Amendments
+
+1999—Subsec. (c)(3). Pub. L. 106–170 substituted “manages” for “reduces”.
 
 1998—Subsec. (c)(4). Pub. L. 105–206, §7003(a), added par. (4).
 
@@ -237,6 +239,10 @@ Subsec. (f)(1)(D). Pub. L. 105–206, §6010(a)(3), inserted at end “Subsectio
 Subsec. (g)(3). Pub. L. 105–206, §7003(b), added par. (3).
 
 1997—Subsecs. (e) to (g). Pub. L. 105–34 added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
 
 #### Effective Date of 1998 Amendment
 

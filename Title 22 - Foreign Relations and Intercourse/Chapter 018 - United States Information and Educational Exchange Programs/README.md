@@ -22,6 +22,9 @@
 | (f) | Advance payments. |
 | (g) | Separate accounts; transfers. |
 | (h) | Appropriations for restoration of realized impairment to capital; liquidation of notes. |
+| [1442a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001442a%20-%20National%20security%20measures.md) | National security measures. |
+| (a) | Restriction. |
+| (b) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -147,9 +150,14 @@
 
 #### SUBCHAPTER VI—ADVISORY COMMISSIONS TO FORMULATE POLICIES
 
-|  |
-| :--- |
-| 1466 to 1469. Omitted or Repealed. |
+|  |  |
+| :--- | ---: |
+| 1466 to 1468. Omitted. |  |
+| [1469\.](Subchapter%20006%20%28VI%29%20-%20Advisory%20Commissions%20to%20Formulate%20Policies/%C2%A7%2001469%20-%20United%20States%20Advisory%20Commission%20on%20Public%20Diplomacy.md) | United States Advisory Commission on Public Diplomacy. |
+| (a) | Establishment. |
+| (b) | Staff. |
+| (c) | Duties and responsibilities. |
+| (d) | Limitation on authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -198,7 +206,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2054, 2056, 2275, 2458, 2681 of this title.
+This chapter is referred to in sections 2054, 2056, 2275, 2458, 2681, 6204 of this title.
 
 
 ---

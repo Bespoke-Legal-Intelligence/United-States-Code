@@ -80,7 +80,7 @@ To ensure that current and prospective customers understand the risks involved i
 
 #### (d) Exceptions for institutions not receiving retail deposits
 
-The Federal Trade Commission may, by regulation or order, make exceptions to subsection (b) of this section for any depository institution that, within the United States, does not receive initial deposits of less than $100,000 from individuals who are citizens or residents of the United States, other than money received in connection with any draft or similar instrument issued to transmit money.
+The Federal Trade Commission may, by regulation or order, make exceptions to subsection (b) of this section for any depository institution that, within the United States, does not receive initial deposits of less than $100,000 from individuals who are citizens or residents of the United States, other than money received in connectionwith any draft or similar instrument issued to transmit money.
 
 #### (e) Eligibility for Federal deposit insurance
 
@@ -172,7 +172,7 @@ Deadline for initial independent audit.—The initial annual audit under section
 
 “(2)
 
-Business plan required.—Not later than 240 days after the date of enactment of this Act \[Dec. 19, 1991\], any private deposit insurer shall provide a business plan to each appropriate supervisor of each State in which deposits are received by any depository institution lacking Federal deposit insurance the deposits of which are insured by a private deposit insurer. The business plan shall explain in detail why the private deposit insurer is viable, and shall, at a minimum—
+Business plan required.—Not later than 240 days after the date of enactment of this Act \[Dec. 19,1991\], any private deposit insurer shall provide a business plan to each appropriate supervisor of each State in which deposits are received by any depository institution lacking Federal deposit insurance the deposits of which are insured by a private deposit insurer. The business plan shall explain in detail why the private deposit insurer is viable, and shall, at a minimum—
 
 &emsp;“(A) describe the insurer's—
 

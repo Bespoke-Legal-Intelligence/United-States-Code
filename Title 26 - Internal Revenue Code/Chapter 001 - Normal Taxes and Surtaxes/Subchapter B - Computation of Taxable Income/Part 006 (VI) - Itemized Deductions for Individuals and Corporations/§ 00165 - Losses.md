@@ -48,11 +48,11 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (3) Securities in affiliated corporation
 
-&emsp;For purposes of paragraph (1), any security in a corporation affiliated with a taxpayer which is a domestic corporation shall not be treated as a capital asset. For purposes of the preceding sentence, a corporation shall be treated as affiliated with the taxpayer only if—
+&emsp;For purposes of paragraph (1), any security in a corporation affiliated with a taxpayer which is a domestic corporation shall not betreated as a capital asset. For purposes of the preceding sentence, a corporation shall be treated as affiliated with the taxpayer only if—
 
 &emsp;&emsp;(A) stock possessing at least 80 percent of the voting power of all classes of its stock and at least 80 percent of each class of its nonvoting stock is owned directly by the taxpayer, and
 
-&emsp;&emsp;(B) more than 90 percent of the aggregate of its gross receipts for all taxable years has been from sources other than royalties,rents (except rents derived from rental of properties to employees of the corporation in the ordinary course of its operating business), dividends, interest (except interest received on deferred purchase price of operating assets sold), annuities, and gains from sales or exchanges of stocks and securities.
+&emsp;&emsp;(B) more than 90 percent of the aggregate of its gross receipts for all taxable years has been from sources other than royalties, rents (except rents derived from rental of properties to employees of the corporation in the ordinary course of its operating business), dividends, interest (except interest received on deferred purchase price of operating assets sold), annuities, and gains from sales or exchanges of stocks and securities.
 
 > &emsp;In computing gross receipts for purposes of the preceding sentence, gross receipts from sales or exchanges of stocks and securities shall be taken into account only to the extent of gains therefrom. As used in subparagraph (A), the term “stock” does not include nonvoting stock which is limited and preferred as to dividends.
 
@@ -126,7 +126,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (3) Amount of loss
 
-&emsp;The amount of the loss taken into account in the preceding taxable year by reason of paragraph (1) shall not exceed the uncompensated amount determined on the basis of the facts existing at the date the taxpayer claims the loss.
+&emsp;The amount of the loss taken into account in the preceding taxable year by reason ofparagraph (1) shall not exceed the uncompensated amount determined on the basis of the facts existing at the date the taxpayer claims the loss.
 
 #### (4) Use of disaster loan appraisals to establish amount of loss
 
@@ -218,7 +218,7 @@ In the case of a taxpayer whose residence is located in an area which has been d
 
 #### (A) In general
 
-&emsp;&emsp;In lieu of any election under paragraph (1), the taxpayer may elect to treat the amount referred to in paragraph (1) for the taxable year as an ordinary loss described in subsection (c)(2) incurred during the taxable year.
+&emsp;&emsp;In lieu of any election under paragraph (1), the taxpayer may elect to treat the amountreferred to in paragraph (1) for the taxable year as an ordinary loss described in subsection (c)(2) incurred during the taxable year.
 
 #### (B) Limitations
 
@@ -362,7 +362,7 @@ Section 1051(b) of Pub. L. 98–369 provided that: “The amendment made by subs
 
 #### Effective Date of 1982 Amendment
 
-Section 203(c) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning afterDecember 31, 1982. Such amendments shall also apply to the taxpayer's last taxable year beginning before January 1, 1983, solely for purposes of determining the amount allowable as a deduction with respect to any loss taken into account for such year by reason of an election under section 165(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section).”
+Section 203(c) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1982. Such amendments shall also apply to the taxpayer's last taxable year beginning before January 1, 1983, solely for purposes of determining the amount allowable as a deduction with respect to any loss taken into account for such year by reason of an election under section 165(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section).”
 
 Amendment by section 310(b)(5) of Pub. L. 97–248 applicable to obligations issued after Dec. 31, 1982, with exceptions for certain warrants, see section 310(d) of Pub. L. 97–248, set out as a note under section 103 of this title.
 
@@ -540,7 +540,7 @@ In general.—Subsection (a) shall apply to taxable years ending after November 
 
 &emsp;&emsp;“(B)
 
-Statute of limitations.—If refund or credit of any overpayment of tax resulting from subsection (a) is prevented at any time on or before the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of such subsection) may, notwithstanding such law or rule of law, be made or allowed if claim therefore \[sic\] is filed on or before the date which is 18 months after such date of enactment.
+Statute of limitations.—If refund or credit of any overpayment of tax resulting from subsection (a) is prevented at any time on or before the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by the operation of any law or rule of law (including res judicata), refund orcredit of such overpayment (to the extent attributable to the application of such subsection) may, notwithstanding such law or rule of law, be made or allowed if claim therefore \[sic\] is filed on or before the date which is 18 months after such date of enactment.
 
 &emsp;“(2)
 
@@ -552,7 +552,7 @@ Pub. L. 97–34, title II, §266, Aug. 13, 1981, 95 Stat. 265, as amended by Pub
 
 “(a)
 
-General Rule.—For purposes of chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]\[this chapter\], in computing the taxable income of a taxpayer who, on July 1, 1980, held one or more motor carrier operating authorities, an amount equal to the aggregate adjusted basis of all motor carrier operating authorities held by the taxpayer on July 1, 1980, or acquired subsequent thereto pursuant to a binding contract in effect on July 1, 1980, shall be allowed as a deduction ratably over a period of 60 months. Such 60-month period shall begin with the month of July 1980 (or if later, the month in which acquired), or at the election of the taxpayer, the first month of the taxpayer's first taxable year beginning after July 1, 1980.
+General Rule.—For purposes of chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[this chapter\], in computing the taxable income of a taxpayer who, on July 1, 1980, held one or more motor carrier operating authorities, an amount equal to the aggregate adjusted basis of all motor carrier operating authorities held by the taxpayer on July 1, 1980, or acquired subsequent thereto pursuant to a binding contract in effect on July 1, 1980, shall be allowed as a deduction ratably over a period of 60 months. Such 60-month period shall begin with the month of July 1980 (or if later, the month in which acquired), or at the election of the taxpayer, the first month of the taxpayer's first taxable year beginning after July 1, 1980.
 
 “(b)
 

@@ -30,7 +30,7 @@ Liability insurance.—The Secretary may register a person as a freight forwarde
 
 &emsp;(2)
 
-Freight forwarder insurance.—The Secretary may require a registered freight forwarder to file with the Secretary a bond, insurance policy, or other type of security approved by the Secretary sufficient to pay, not more than the amount of the security, for lossof, or damage to, property for which the freight forwarder provides service.
+Freight forwarder insurance.—The Secretary may require a registered freight forwarder to file with the Secretary a bond, insurance policy, or other type of security approved by the Secretary sufficient to pay, not more than the amount of the security, for loss of, or damage to, property for which the freight forwarder provides service.
 
 &emsp;(3)
 
@@ -70,5 +70,5 @@ Section 104(h) of Pub. L. 104–88 provided that: “The Secretary of Transporta
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 13902, 13904, 13905, 13908, 14707 of this title.
+This section is referred to in sections 13902, 13904, 13905, 13908, 14707, 31102 of this title.
 

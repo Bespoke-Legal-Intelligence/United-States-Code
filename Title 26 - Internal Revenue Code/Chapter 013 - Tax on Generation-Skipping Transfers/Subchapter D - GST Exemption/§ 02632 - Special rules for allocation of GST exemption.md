@@ -38,7 +38,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The allocation under paragraph (1) shall be made among the properties described in subparagraph (A) thereof and the trusts described in subparagraph (B) thereof, as the case may be, in proportion to the respectiveamounts (at the time of allocation) of the nonexempt portions of such properties or trusts.
+&emsp;&emsp;The allocation under paragraph (1) shall be made among the properties described in subparagraph (A) thereof and the trusts described in subparagraph (B) thereof, as the case may be, in proportion to the respective amounts (at the time of allocation) of the nonexempt portions of such properties or trusts.
 
 #### (B) Nonexempt portion
 

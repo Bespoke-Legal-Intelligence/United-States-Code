@@ -102,7 +102,7 @@ Sec. 6. <i>Domestic Enrichment Services</i>. The EOC shall collect and analyze i
 
 (e) coordinate with relevant agencies in monitoring the levels of natural and enriched uranium and enrichment services imported into the United States.
 
-Sec. 7. <i>Coordination with the Nuclear Regulatory Commission</i>. Upon notification by the NRC that it seeks the views of other agencies of the executive branch regarding determinations necessary for the issuance, reissuance, or renewal of a certificate of compliance or license to the privatized USEC, the EOC shall convey the relevant views of these other agencies of the executive branch, including whether the applicant's performance as the United States agent for the HEU Agreement is acceptable, on a schedule consistent with the NRC's need for timely action on such regulatory decisions.
+Sec. 7. <i>Coordination with the Nuclear Regulatory Commission</i>. Upon notification by the NRC that it seeks theviews of other agencies of the executive branch regarding determinations necessary for the issuance, reissuance, or renewal of a certificate of compliance or license to the privatized USEC, the EOC shall convey the relevant views of these other agencies of the executive branch, including whether the applicant's performance as the United States agent for the HEU Agreement is acceptable, on a schedule consistent with the NRC's need for timely action on such regulatory decisions.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

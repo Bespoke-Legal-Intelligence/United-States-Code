@@ -58,7 +58,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the principal amount of such securities received exceeds the principal amount of such securities surrendered,
 
-> &emsp;&emsp;then, with respect to such securities received, the term “other property” meansonly the fair market value of such excess. For purposes of this subparagraph and subparagraph (C) if no securities are surrendered, the excess shall be the entire principal amount of the securities received.
+> &emsp;&emsp;then, with respect to such securities received, the term “other property” means only the fair market value of such excess. For purposes of this subparagraph and subparagraph (C) if no securities are surrendered, the excess shall be the entire principal amount of the securities received.
 
 #### (C) Greater principal amount in section 355 transaction
 
@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (2) Exception
 
-&emsp;The term “other property” does not include nonqualified preferred stock (as so defined) to the extent that, under section 354 or 355, such preferred stock would be permitted to be received without the recognition of gain.
+&emsp;The term “other property” does not include nonqualified preferred stock (as so defined) to the extent that, under section 354 or 355, suchpreferred stock would be permitted to be received without the recognition of gain.
 
 #### (f) Exchanges for section 306 stock
 

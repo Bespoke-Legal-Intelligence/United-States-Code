@@ -18,7 +18,7 @@ Federal recognition of the Little Traverse Bay Bands of Odawa Indians and the Li
 
 #### (B) Little River Band
 
-&emsp;&emsp;For purposes of the delivery of Federal services to enrolled members of the Little River Band of Ottawa Indians, the Counties of Manistee, Mason, Wexford and Lake, in the State of Michigan, shall be deemed to be within or near a reservation, notwithstanding the establishment of a reservation for the tribe after September 21, 1994. Services may be provided to members outside the named Counties unless prohibited by law or program regulations.
+&emsp;&emsp;For purposes of the delivery of Federal services to enrolled members of the Little River Band of Ottawa Indians, the Counties of Manistee, Mason, Wexford and Lake, in the State of Michigan, shall be deemed to bewithin or near a reservation, notwithstanding the establishment of a reservation for the tribe after September 21, 1994. Services may be provided to members outside the named Counties unless prohibited by law or program regulations.
 
 (Pub. L. 103–324, §4, Sept. 21, 1994, 108 Stat. 2157.)
 

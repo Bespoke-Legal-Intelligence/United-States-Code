@@ -8,7 +8,7 @@ Any investment company organized or otherwise created under the laws of the Unit
 
 Every registered investment company shall file with the Commission, within such reasonable time after registration as the Commission shall fix by rules and regulations, an original and such copies of a registration statement, in such form and containing such of the following information and documents as the Commission shall by rules and regulations prescribe as necessary or appropriate in the public interest or for the protection of investors:
 
-&emsp;(1) a recital of the policy of the registrant in respect of each of the following types of activities, such recital consisting in each case of a statement whether the registrant reserves freedom of action to engage in activities of such type, and if such freedom of action is reserved, a statement briefly indicating, insofar as is practicable, the extent to which the registrant intends to engage therein: (A) the classification and subclassifications, as defined in sections 80a–4 and 80a–5 of this title, within which the registrant proposes to operate; (B) borrowing money; (C) the issuance of senior securities; (D) engaging in the business of underwriting securities issued by other persons; (E) concentrating investments in a particular industry or group of industries; (F) the purchase and sale of real estate and commodities, or either of them; (G) making loans to other persons; and (H) portfolio turn-over (including a statement showing the aggregate dollar amount of purchases and sales of portfolio securities, other than Government securities, in each of the last three full fiscal years preceding the filing of such registration statement);
+&emsp;(1) a recital of the policy of the registrant in respect of each of the following types of activities, such recital consisting in each case of a statement whether the registrant reserves freedom of action to engage in activities ofsuch type, and if such freedom of action is reserved, a statement briefly indicating, insofar as is practicable, the extent to which the registrant intends to engage therein: (A) the classification and subclassifications, as defined in sections 80a–4 and 80a–5 of this title, within which the registrant proposes to operate; (B) borrowing money; (C) the issuance of senior securities; (D) engaging in the business of underwriting securities issued by other persons; (E) concentrating investments in a particular industry or group of industries; (F) the purchase and sale of real estate and commodities, or either of them; (G) making loans to other persons; and (H) portfolio turn-over (including a statement showing the aggregate dollar amount of purchases and sales of portfolio securities, other than Government securities, in each of the last three full fiscal years preceding the filing of such registration statement);
 
 &emsp;(2) a recital of all investment policies of the registrant, not enumerated in paragraph (1), which are changeable only if authorized by shareholder vote;
 
@@ -20,7 +20,7 @@ Every registered investment company shall file with the Commission, within such 
 
 #### (c) Alternative information
 
-The Commission shall make provision, by permissive rules and regulations or order, for the filing of the following, or so much of the following as the Commission may designate, in lieu ofthe information and documents required pursuant to subsection (b) of this section:
+The Commission shall make provision, by permissive rules and regulations or order, for the filing of the following, or so much of the following as the Commission may designate, in lieu of the information and documents required pursuant to subsection (b) of this section:
 
 &emsp;(1) copies of the most recent registration statement filed by the registrant under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and currently effective under such Act, or if the registrant has not filed such a statement, copies of a registration statement filed by the registrant under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] and currently effective under such Act;
 
@@ -84,5 +84,5 @@ Vote required for change of policy in registration statement, see section 80a–
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78<i>l</i>, 80a–2, 80a–6, 80a–7, 80a–13, 80a–42 of this title.
+This section is referred to in sections 78c, 78<i>l</i>, 80a–2, 80a–6, 80a–7, 80a–13, 80a–42 of this title.
 

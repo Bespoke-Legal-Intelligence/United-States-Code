@@ -2,7 +2,7 @@
 
 (a) The Congress finds that the Nation has suffered substantial unemployment and underemployment, idleness of other productive resources, high rates of inflation, and inadequate productivity growth, over prolonged periods of time, imposing numerous economic and social costs on the Nation. Such costs include the following:
 
-&emsp;(1) The Nation is deprived of the full supply of goods and services, the full utilization of labor and capital resources, and the related increases in economic well-being that would occur under conditions of genuine full employment, production, and real income, balanced growth, a balanced Federal budget, and the effective control of inflation.
+&emsp;(1) The Nation is deprived of the full supply of goods and services, the full utilization of labor and capital resources, and the related increases in economic well-being that wouldoccur under conditions of genuine full employment, production, and real income, balanced growth, a balanced Federal budget, and the effective control of inflation.
 
 &emsp;(2) The output of goods and services is insufficient to meet pressing national priorities.
 

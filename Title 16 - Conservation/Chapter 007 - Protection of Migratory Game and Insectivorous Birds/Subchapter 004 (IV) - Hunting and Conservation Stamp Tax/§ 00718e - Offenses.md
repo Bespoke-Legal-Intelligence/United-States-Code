@@ -10,7 +10,7 @@ Except as provided in clauses (i) and (ii) of section 504(1)(D) of title 18, no 
 
 #### (c) Reproduction of migratory bird hunting stamps; regulation by Secretary of the Interior; disposition of proceeds
 
-Notwithstanding the provisions of subsection (b) of this section, or the prohibition in section474 of title 18, or other provisions of law, the Secretary of the Interior may authorize, with the concurrence of the Secretary of the Treasury,
+Notwithstanding the provisions of subsection (b) of this section, or the prohibition in section 474 of title 18, or other provisions of law, the Secretary of the Interior may authorize, with the concurrence of the Secretary of the Treasury,
 
 &emsp;(1) the color reproduction, or
 

@@ -8,6 +8,8 @@ There is hereby authorized to be appropriated, out of any money in the Treasury 
 
 Annual appropriations to meet the obligations of membership in various international organizations were contained in the following acts:
 
+Pub. L. 106–113, div. B, §1000(a)(1) \[title IV\], Nov. 29, 1999, 113 Stat. 1535, 1501A–41, 1501A–42.
+
 Pub. L. 105–277, div. A, §101(b) \[title IV\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–95, 2681–97.
 
 Pub. L. 105–119, title IV, Nov. 26, 1997, 111 Stat. 2497, 2499.
@@ -34,7 +36,7 @@ Pub. L. 100–202, §101(a) \[title III\], Dec. 22, 1987, 101 Stat. 1329, 1329�
 
 Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 394.
 
-Pub. L. 99–500, §101(b) \[title III\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–58, 1783–59, and Pub. L. 99–591, §101(b) \[titleIII\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–58, 3341–59, as amended Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 394.
+Pub. L. 99–500, §101(b) \[title III\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–58, 1783–59, and Pub. L. 99–591, §101(b) \[title III\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–58, 3341–59, as amended Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 394.
 
 Pub. L. 99–180, title III, Dec. 13, 1985, 99 Stat. 1150, 1151.
 

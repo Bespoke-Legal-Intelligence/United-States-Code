@@ -30,7 +30,7 @@ The Secretary, in consultation with the Administrator of General Services or the
 
 #### (e) Projects and activities
 
-The Secretary shall, as he deems appropriate, undertake any projects or activities (including demonstration projects) to further the attainment of the objectives of this section.
+The Secretary shall, as he deems appropriate, undertake any projects or activities (includingdemonstration projects) to further the attainment of the objectives of this section.
 
 (Pub. L. 95–590, §6, Nov. 4, 1978, 92 Stat. 2516.)
 

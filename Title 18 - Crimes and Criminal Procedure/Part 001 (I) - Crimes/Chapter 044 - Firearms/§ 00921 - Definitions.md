@@ -484,5 +484,5 @@ Section 10 of Pub. L. 99–408 provided that: “For purposes of section 921(a)(
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 845, 923, 925, 1791, 2332a, 3565, 3583, 3592 of this title; title 8 sections 1101, 1227; title 10 sections 2722, 4687; title 20 sections 3351, 8921, 8922; title 21 section 881; title 22 section 2778; title 26 section 5845.
+This section is referred to in sections 842, 845, 923, 925, 1791, 2332a, 3565, 3583, 3592 of this title; title 8 sections 1101, 1227; title 10 sections 2722, 4687; title 20 sections 3351, 8921, 8922; title 21 section 881; title 22 section 2778; title 26 section 5845.
 

@@ -28,7 +28,7 @@ No deduction shall be allowed for that portion of the wages or salaries paid or 
 
 #### (1) In general
 
-&emsp;No deduction shall be allowed for that portion of the qualified research expenses (as defined in section 41(b)) or basic research expenses (as defined in section 41(e)(2)) otherwise allowable as a deduction for the taxable year which is equal to the amount of the credit determined for such taxable year under section 41(a).
+&emsp;No deduction or credit shall be allowed for that portion of the qualified research expenses (as defined in section 41(b)) or basic research expenses (as defined in section 41(e)(2)) otherwise allowable as a deduction or credit for the taxable year which is equal to the amount of the credit determined for such taxable year under section 41(a).
 
 #### (2) Similar rule where taxpayer capitalizes rather than deducts expenses
 
@@ -70,13 +70,15 @@ No deduction shall be allowed for that portion of the wages or salaries paid or 
 
 &emsp;Paragraph (3) of subsection (b) shall apply for purposes of this subsection.
 
-(Added Pub. L. 95–30, title II, §202(c)(1), May 23, 1977, 91 Stat. 147; amended Pub. L. 95–600, title III, §322(d)(1), Nov. 6, 1978, 92 Stat. 2838; Pub. L. 96–178, §6(c)(4), Jan. 2, 1980, 93 Stat. 1298; Pub. L. 96–222, title I, §103(a)(7)(D)(iv), Apr. 1, 1980, 94 Stat. 212; Pub. L. 97–414, §4(b)(1), (2)(A), Jan. 4, 1983, 96 Stat. 2055; Pub. L. 98–369, div. A, title IV, §474(r)(10), July 18, 1984, 98 Stat. 841; Pub. L. 99–514, title II, §231(d)(3)(E), title XVIII, §1847(b)(8), Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title IV, §4008(a), Nov. 10, 1988, 102 Stat. 3652; Pub. L. 101–239, title VII, §§7110(c)(1), 7814(e)(2)(A), Dec. 19, 1989, 103 Stat. 2325, 2413; Pub. L. 103–66, title XIII, §§13302(b)(1), 13322(c)(1), Aug. 10, 1993, 107 Stat. 555, 563; Pub. L. 104–188, title I, §1205(d)(7), Aug. 20, 1996, 110 Stat. 1776.)
+(Added Pub. L. 95–30, title II, §202(c)(1), May 23, 1977, 91 Stat. 147; amended Pub. L. 95–600, title III, §322(d)(1), Nov. 6, 1978, 92 Stat. 2838; Pub. L. 96–178, §6(c)(4), Jan. 2, 1980, 93 Stat. 1298; Pub. L. 96–222, title I, §103(a)(7)(D)(iv), Apr. 1, 1980, 94 Stat. 212; Pub. L. 97–414, §4(b)(1), (2)(A), Jan. 4, 1983, 96 Stat. 2055; Pub. L. 98–369, div. A, title IV, §474(r)(10), July 18, 1984, 98 Stat. 841; Pub. L. 99–514, title II, §231(d)(3)(E), title XVIII, §1847(b)(8), Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title IV, §4008(a), Nov. 10, 1988, 102 Stat. 3652; Pub. L. 101–239, title VII, §§7110(c)(1), 7814(e)(2)(A), Dec. 19, 1989, 103 Stat. 2325, 2413; Pub. L. 103–66, title XIII, §§13302(b)(1), 13322(c)(1), Aug. 10, 1993, 107 Stat. 555, 563; Pub. L. 104–188, title I, §1205(d)(7), Aug. 20, 1996, 110 Stat. 1776; Pub. L. 106–170, title V, §502(c)(2), Dec. 17, 1999, 113 Stat. 1919.
 
 #### References in Text
 
 Reference in subsec. (a) to section 51 of this title treated as including reference to section 51A of this title, see section 51A(d)(2) of this title.
 
 #### Amendments
+
+1999—Subsec. (c)(1). Pub. L. 106–170 inserted “or credit” after “deduction” in two places.
 
 1996—Subsec. (b)(1). Pub. L. 104–188, §1205(d)(7), substituted “section 45C(b)” for “section 28(b)”, “section 45C” for “section 28”, and “section 38(c)” for “subsection (d)(2) thereof”.
 
@@ -100,7 +102,7 @@ Subsec. (c)(4). Pub. L. 101–239, §7814(e)(2)(A), redesignated par. (3) as (4)
 
 Subsec. (b)(3). Pub. L. 99–514, §231(d)(3)(E), substituted “section 41(f)(5)”, “section 41(f)(1)(B)”, and “section 41(f)(1)” for “section 30(f)(5)”, “section 30(f)(1)(B)”, and “section 30(f)(1)”, respectively.
 
-1984—Subsec. (a). Pub. L. 98–369, §474(r)(10)(A), (B), redesignated subsec. (b) as (a), in heading substituted “targeted jobs credit” for “section 44B credit”, and in text substituted “No deduction shall be allowed forthat portion of the wages or salaries paid or incurred for the taxable year which is equal to the amount of the credit determined for the taxable year under section 51(a)” for “No deduction shall be allowed for that portion of the wage or salaries paid or incurred for the taxable year which is equal to the amount of the credit allowable for the taxable year under section 44B (relating to credit for employment of certain new employees) determined without regard to the provisions of section 53 (relating to limitation based on amount of tax)”. Former subsec. (a), which had provided that no deduction would be allowed for that portion of the work incentive program expenses paid or incurred for the taxable year which was equal to the amount of the credit allowable for the taxable year under section 40 (relating to credit for expenses of work incentive programs) determined without regard to the provisions of section 50A(a)(2) (relating to limitation based on amount of tax), and that in the case of a corporation which was a member of a controlled group of corporations (within the meaning of section 50B(g)(1) or a trade or business which was treated as being under common control with other trades or businesses within the meaning of section 50B(g)(2), this subsection would be applied under rules prescribed by the Secretary similar to the rules applicable under paragraphs (1) and (2) of section 50B(g), was struck out.
+1984—Subsec. (a). Pub. L. 98–369, §474(r)(10)(A), (B), redesignated subsec. (b) as (a), in heading substituted “targeted jobs credit” for “section 44B credit”, and in text substituted “No deduction shall be allowed for that portion of the wages or salaries paid or incurred for the taxable year which is equal to the amount of the credit determined for the taxable year under section 51(a)” for “No deduction shall be allowed for that portion of the wage or salaries paid or incurred for the taxable year which is equal to the amount of the credit allowable for the taxable year under section 44B (relating to credit for employment of certain new employees) determined without regard to the provisions of section 53 (relating to limitation based on amount of tax)”. Former subsec. (a), which had provided that no deduction would be allowed for that portion of the work incentive program expenses paid or incurred for the taxable year which was equal to the amount of the credit allowable for the taxable year under section 40 (relating to credit for expenses of work incentive programs) determined without regard to the provisions of section 50A(a)(2) (relating to limitation based on amount of tax), and that in the case of a corporation which was a member of a controlled group of corporations (within the meaning of section 50B(g)(1) or a trade or business which was treated as being under common control with other trades or businesses within the meaning of section 50B(g)(2), this subsection would be applied under rules prescribed by the Secretary similar to the rules applicable under paragraphs (1) and (2) of section 50B(g), was struck out.
 
 Subsec. (b). Pub. L. 98–369, §474(r)(10)(A), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
@@ -115,6 +117,10 @@ Subsec. (c). Pub. L. 98–369, §474(r)(10)(A), redesignated subsec. (c) as (b).
 Subsec. (c). Pub. L. 97–414, §4(b)(1), added subsec. (c).
 
 1978—Pub. L. 95–600, as amended by Pub. L. 96–178 and Pub. L. 96–222, substituted “section 40 or 44B” for “section 44B” in section catchline, and in text designated existing provisions as subsec. (b) and added subsec. (a).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to amounts paid or incurred after June 30, 1999, see section 502(c)(3) of Pub. L. 106–170, set out as a note under section 41 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -176,7 +182,7 @@ Section applicable to taxable years beginning after Dec. 31, 1976, and to credit
 
 #### Time and Form of Certain Elections Under Subsection (c)(3)
 
-Section 7814(e)(2)(B) of Pub. L. 101–239 provided that: “In the case of a taxable year for which the last datefor making the election under section 280C(c)(3) of the Internal Revenue Code of 1986 (as added by subparagraph (A)) is on or before the date which is 75 days after the date of the enactment of this Act \[Dec. 19, 1989\], such an election for such year may be made—
+Section 7814(e)(2)(B) of Pub. L. 101–239 provided that: “In the case of a taxable year for which the last date for making the election under section 280C(c)(3) of the Internal Revenue Code of 1986 (as added by subparagraph (A)) is on or before the date which is 75 days after the date of the enactment of this Act \[Dec. 19, 1989\], such an election for such year may be made—
 
 &emsp;“(i) at any time before the date which is 75 days after such date of enactment, and
 

@@ -14,7 +14,7 @@ In addition to the payments made pursuant to subsection (a) of this section, the
 
 #### (c) Establishment of standards consistent with other laws; payments to or for any person moving into partitioned area after specified time
 
-In implementing subsection (b) of this section, the Commissioner shall establish standards consistent with those established in the implementation of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (84 Stat. 1894) \[42 U.S.C. 4601 et seq.\]. No payment shall be made pursuant to this section to or for any person who, later than one year prior to December 22, 1974, moved into an area partitioned pursuant to section 640d–7 of this title or section 640d–2 or 640d–3 of this title to a tribe of which he is not a member.
+In implementing subsection (b) of this section, the Commissioner shall establish standards consistent with those established in the implementation of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (84 Stat. 1894) \[42 U.S.C. 4601 et seq.\]. No payment shall be made pursuant to this section toor for any person who, later than one year prior to December 22, 1974, moved into an area partitioned pursuant to section 640d–7 of this title or section 640d–2 or 640d–3 of this title to a tribe of which he is not a member.
 
 #### (d) Methods of payment
 

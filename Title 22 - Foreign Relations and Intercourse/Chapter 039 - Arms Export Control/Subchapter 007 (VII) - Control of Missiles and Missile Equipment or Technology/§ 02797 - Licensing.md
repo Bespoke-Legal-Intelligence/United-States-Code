@@ -42,11 +42,11 @@ Subsec. (d). Pub. L. 103–236, §735(c), added subsec. (d).
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
 
 #### Delegation of Functions
 
-Memorandum of President of the United States, June 25, 1991, 56 F.R. 31041, which provided for delegation ofcertain functions of the President, was superseded by Ex. Ord. No. 12851, §7, June 11, 1993, 58 F.R. 33181, set out below.
+Memorandum of President of the United States, June 25, 1991, 56 F.R. 31041, which provided for delegation of certain functions of the President, was superseded by Ex. Ord. No. 12851, §7, June 11, 1993, 58 F.R. 33181, set out below.
 
 #### Report on Missile Proliferation
 
@@ -78,7 +78,7 @@ Sec. 2. <i>Missile Proliferation Sanctions</i>. (a) <i>Arms Export Control Act</
 
 (1) The authority and duties vested in me by section 72(a)(1) to make determinations with respect to violations by United States persons of the EAA \[50 App. U.S.C. 2401 et seq.\] are delegated to the Secretary of Commerce.
 
-(2) The authority and duties vested in me to deny certain United States Government contracts as provided in sections 73(a)(2)(A)(i) and 73(a)(2)(B)(i), pursuant to a determination made by the Secretary of State under section 73(a)(1), as well as the authority and duties vested in me to make the findings provided in sections 72(c), 73(f), and 73(g)(1), are delegated to the Secretary of Defense. The Secretary of State shall issue, transmit to the Congress, and notify the Secretary of the Treasury of, as appropriate, any waivers based upon findings made pursuant to sections 72(c) and 73(f).
+(2) The authority and duties vested in me to deny certain United States Government contracts as provided in sections 73(a)(2)(A)(i) and 73(a)(2)(B)(i), pursuant to adetermination made by the Secretary of State under section 73(a)(1), as well as the authority and duties vested in me to make the findings provided in sections 72(c), 73(f), and 73(g)(1), are delegated to the Secretary of Defense. The Secretary of State shall issue, transmit to the Congress, and notify the Secretary of the Treasury of, as appropriate, any waivers based upon findings made pursuant to sections 72(c) and 73(f).
 
 (3) The authority and duties vested in me to prohibit certain imports as provided in section 73(a)(2)(C), pursuant to a determination made by the Secretary of State under that section, and the obligation to implement the exceptions provided in section 73(g), are delegated to the Secretary of the Treasury.
 

@@ -10,7 +10,7 @@ Michigan is divided into two judicial districts to be known as the Eastern and W
 
 &emsp;&emsp;Court for the Southern Division shall be held at Ann Arbor, Detroit, Flint, and Port Huron.
 
-&emsp;&emsp;(2) The Northern Division comprises the counties of Alcona, Alpena, Arenac, Bay, Cheboygan, Clare, Crawford, Gladwin, Gratiot, Huron, Iosco, Isabella, Midland, Montmorency, Ogemaw, Oscoda, Otsego, Presque Isle, Roscommon, Saginaw, and Tuscola.
+&emsp;&emsp;(2) The Northern Division comprises the counties of Alcona, Alpena, Arenac, Bay,Cheboygan, Clare, Crawford, Gladwin, Gratiot, Huron, Iosco, Isabella, Midland, Montmorency, Ogemaw, Oscoda, Otsego, Presque Isle, Roscommon, Saginaw, and Tuscola.
 
 &emsp;&emsp;Court for the Northern Division shall be held at Bay City.
 

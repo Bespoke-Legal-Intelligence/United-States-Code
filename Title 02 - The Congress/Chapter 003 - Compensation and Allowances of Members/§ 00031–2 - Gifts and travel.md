@@ -34,7 +34,7 @@ The term “necessary expenses”, with respect to limits on domestic and foreig
 
 #### References in Text
 
-Section 102(a)(2)(A) of the Ethics in Government Act of 1978, referred to in subsec. (a)(2)(B), is section 102(a)(2)(A) of title I of Pub. L. 95–521, as amended. Section 102 was classified to section 702 of this title priorto the general amendment of title I of Pub. L. 95–521 by Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1724. Title I of Pub. L. 95–521, as so amended, is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 102(a)(2)(A) of the Ethics in Government Act of 1978, referred to in subsec. (a)(2)(B), is section 102(a)(2)(A) of title I of Pub. L. 95–521, as amended. Section 102 was classified to section 702 of this title prior to the general amendment of title I of Pub. L. 95–521 by Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1724. Title I of Pub. L. 95–521, as so amended, is set out in the Appendix to Title 5, Government Organization and Employees.
 
 Section 107(2) of title I of the Ethics in Government Act of 1978 (Public Law 95–521), referred to in subsec. (a)(3)(B), was classified to section 707(2) of this title prior to the general amendment of title I of Pub. L. 95–521 by Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1724. Title I of Pub. L. 95–521, as so amended, is set out in the Appendix to Title 5, and the definition of “relative” is contained in section 109(16) of Pub. L. 95–521.
 

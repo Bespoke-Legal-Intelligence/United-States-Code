@@ -36,7 +36,7 @@
 
 (2) The Commission (and any committees that it may form) shall conduct public hearings in different geographic areas of the country, both urban and rural, in order to receive the views of a broad spectrum of the public on the status of the Nation's children and on ways to safeguard and enhance the physical, mental, and emotional well-being of all of the children of the Nation, including those with physical or mental disabilities, and others whose circumstances deny them a full share of the opportunities that parents of the Nation may rightfully expect for their children.
 
-(3) The Commission shall receive testimony from individuals, and from representatives of public and private organizations and institutions with an interest in the welfare of children,including educators, health care professionals, religious leaders, providers of social services, representatives of organizations with children as members, elected and appointed public officials, and from parents and children speaking in their own behalf.
+(3) The Commission shall receive testimony from individuals, and from representatives of public and private organizations and institutions with an interest in the welfare of children, including educators, health care professionals, religious leaders, providers of social services, representatives of organizations with children as members, elected and appointed public officials, and from parents and children speaking in their own behalf.
 
 #### (d) Interim and final report to President and Congress; recommendations
 

@@ -36,7 +36,7 @@ For purposes of this chapter—
 
 (2) The term “shipping container” means any container used in packaging a product packed in an immediate container.
 
-(e) The term “egg handler” means any person who engages in any business in commerce which involves buying or selling any eggs (as a poultry producer or otherwise), or processing any eggproducts, or otherwise using any eggs in the preparation of human food.
+(e) The term “egg handler” means any person who engages in any business in commerce which involves buying or selling any eggs (as a poultry producer or otherwise), or processing any egg products, or otherwise using any eggs in the preparation of human food.
 
 (f) The term “egg product” means any dried, frozen, or liquid eggs, with or without added ingredients, excepting products which contain eggs only in a relatively small proportion or historically have not been, in the judgment of the Secretary, considered by consumers as products of the egg food industry, and which may be exempted by the Secretary under such conditions as he may prescribe to assure that the egg ingredients are not adulterated and such products are not represented as egg products.
 

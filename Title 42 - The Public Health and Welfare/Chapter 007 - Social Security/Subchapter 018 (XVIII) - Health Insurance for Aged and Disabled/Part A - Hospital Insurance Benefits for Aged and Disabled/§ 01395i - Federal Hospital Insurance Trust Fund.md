@@ -26,7 +26,7 @@ With respect to the Trust Fund, there is hereby created a body to be known as th
 
 #### (c) Investment of Trust Fund by Managing Trustee
 
-It shall be the duty of the Managing Trustee to invest such portion of the Trust Fund as is not, in his judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as toboth principal and interest by the United States. For such purpose such obligations may be acquired (1) on original issue at the issue price, or (2) by purchase of outstanding obligations at the market price. The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of public-debt obligations for purchase by the Trust Fund. Such obligations issued for purchase by the Trust Fund shall have maturities fixed with due regard for the needs of the Trust Fund and shall bear interest at a rate equal to the average market yield (computed by the Managing Trustee on the basis of market quotations as of the end of the calendar month next preceding the date of such issue) on all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of 4 years from the end of such calendar month; except that where such average market yield is not a multiple of one-eighth of 1 per centum, the rate of interest on such obligations shall be the multiple of one-eighth of 1 per centum nearest such market yield. The Managing Trustee may purchase other interest-bearing obligations of the United States or obligations guaranteed as to both principal and interest by the United States, on original issue or at the market price, only where he determines that the purchase of such other obligations is in the public interest.
+It shall be the duty of the Managing Trustee to invest such portion of the Trust Fund as is not, in his judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. For such purpose such obligations may be acquired (1) on original issue at the issue price, or (2) by purchase of outstanding obligations at the market price. The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of public-debt obligations for purchase by the Trust Fund. Such obligations issued for purchase by the Trust Fund shall have maturities fixed with due regard for the needs of the Trust Fund and shall bear interest at a rate equal to the average market yield (computed by the Managing Trustee on the basis of market quotations as of the end of the calendar month next preceding the date of such issue) on all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of 4 years from the end of such calendar month; except that where such average market yield is not a multiple of one-eighth of 1 per centum, the rate of interest on such obligations shall be the multiple of one-eighth of 1 per centum nearest such market yield. The Managing Trustee may purchase other interest-bearing obligations of the United States or obligations guaranteed as to both principal and interest by the United States, on original issue or at the market price, only where he determines that the purchase of such other obligations is in the public interest.
 
 #### (d) Authority of Managing Trustee to sell obligations
 
@@ -52,7 +52,7 @@ The Managing Trustee shall also pay from time to time from the Trust Fund such a
 
 #### (i) Payment of travel expenses for travel within United States; reconsideration interviews and proceedings before administrative law judges
 
-There are authorized to be made available for expenditure out of the Trust Fund such amounts as are required to pay travel expenses, either on an actual cost or commuted basis, to parties, their representatives, and all reasonably necessary witnesses for travel within the United States (as defined in section 410(i) of this title) to attend reconsideration interviews and proceedings before administrative law judges with respect to any determination under this subchapter. The amount available under the preceding sentence for payment for air travel by any person shall not exceed the coach fare for air travel between the points involved unless the use of first-class accommodations is required (as determined under regulations of the Secretary) because of such person's health condition or the unavailability of alternative accommodations; and the amount available for payment for other travel by any person shall not exceed the cost of travel (between the points involved) by the most economical and expeditious means of transportation appropriate to such person's health condition, as specified in such regulations. The amount available for payment under this subsection for travel by a representative to attend an administrative proceeding before an administrative law judge or other adjudicator shall not exceed the maximum amount allowable under this subsection for such travel originating within the geographic area of the office having jurisdiction over such proceeding.
+There are authorized to be made available for expenditure out of the Trust Fund such amounts as are required to pay travel expenses, either on an actual cost or commuted basis, to parties, their representatives, and all reasonably necessary witnesses for travel within the United States (as defined in section 410(i) of this title) to attend reconsideration interviews and proceedings before administrative law judges with respect to any determination under this subchapter. The amount available under the preceding sentence for payment for air travel by any person shall not exceed the coach fare for air travel between the points involved unless the use of first-class accommodations is required (as determined under regulations of the Secretary) because of such person's health condition or the unavailability of alternative accommodations; and the amount available for payment for other travel by any person shall not exceed the cost oftravel (between the points involved) by the most economical and expeditious means of transportation appropriate to such person's health condition, as specified in such regulations. The amount available for payment under this subsection for travel by a representative to attend an administrative proceeding before an administrative law judge or other adjudicator shall not exceed the maximum amount allowable under this subsection for such travel originating within the geographic area of the office having jurisdiction over such proceeding.
 
 #### (j) Loans from other Funds; interest; repayment; report to Congress
 
@@ -88,13 +88,13 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;(i) the combined balance in the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, reduced by the outstanding amount of any loan (including interest thereon) theretofore made to either such Trust Fund from the Federal Hospital Insurance Trust Fund under section 401(<i>l</i>) of this title, as of the last day of the second month preceding such month, to
 
-&emsp;(ii) the amount obtained by multiplying by twelve the total amount which (as estimated by the Secretary) will be paid from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund during the month for which such ratio is to be determined for all purposes authorized by section 401 of this title (other than payments of interest on, or repayments of, loans from the Federal Hospital Insurance Trust Fund under section 401(<i>l</i>) of this title), but excluding any transfer payments between such trust funds and reducing the amount of any transfers to the Railroad Retirement Account by the amount of any transfers into either such trust fund from that Account.
+&emsp;(ii) the amount obtained by multiplying by twelve the total amount which (as estimated by the Secretary) will be paid from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund during the month for which such ratio is to be determined for all purposes authorized by section 401 of this title (other than payments of interest on, or repayments of,loans from the Federal Hospital Insurance Trust Fund under section 401(<i>l</i>) of this title), but excluding any transfer payments between such trust funds and reducing the amount of any transfers to the Railroad Retirement Account by the amount of any transfers into either such trust fund from that Account.
 
 #### (k) Health Care Fraud and Abuse Control Account
 
 #### (1) Establishment
 
-&emsp;There is hereby established in the Trust Fund an expenditure account to be known asthe “Health Care Fraud and Abuse Control Account” (in this subsection referred to as the “Account”).
+&emsp;There is hereby established in the Trust Fund an expenditure account to be known as the “Health Care Fraud and Abuse Control Account” (in this subsection referred to as the “Account”).
 
 #### (2) Appropriated amounts to Trust Fund
 
@@ -116,7 +116,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;&emsp;The Managing Trustee shall transfer to the Trust Fund, under rules similar to the rules in section 9601 of the Internal Revenue Code of 1986, an amount equal to the sum of the following:
 
-&emsp;&emsp;&emsp;(i) Criminal fines recovered in cases involving a Federal health care offense (as defined in section 982(a)(6)(B) of title 18).
+&emsp;&emsp;&emsp;(i) Criminal fines recovered in cases involving a Federal health care offense (as defined in section 24(a) of title 18).
 
 &emsp;&emsp;&emsp;(ii) Civil monetary penalties and assessments imposed in health care cases, including amounts recovered under this subchapter and subchapters XI and XIX of this chapter, and chapter 38 of title 31 (except as otherwise provided by law).
 
@@ -180,7 +180,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 #### (C) Use of funds
 
-&emsp;&emsp;The purposes described in this subparagraph are to cover the costs (including equipment, salaries and benefits, and travel and training) of the administration and operation of the health care fraud and abuse control program established under section 1320a–7c(a) of this title, including the costs of—
+&emsp;&emsp;The purposes described in this subparagraph are to cover the costs (includingequipment, salaries and benefits, and travel and training) of the administration and operation of the health care fraud and abuse control program established under section 1320a–7c(a) of this title, including the costs of—
 
 &emsp;&emsp;&emsp;(i) prosecuting health care matters (through criminal, civil, and administrative proceedings);
 
@@ -240,7 +240,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;&emsp;(D) analyzes such other aspects of the operation of the Trust Fund as the Comptroller General of the United States considers appropriate.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1817, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 299; amended Pub. L. 90–248, title I, §169(a), Jan. 2, 1968, 81 Stat. 875; Pub. L. 92–603, title I, §132(d), Oct. 30, 1972, 86 Stat. 1361; Pub. L. 95–292, §5, June 13, 1978, 92 Stat. 315; Pub. L. 96–265, title III, §310(c), June 9, 1980, 94 Stat. 460; Pub. L. 97–123, §1(b), Dec. 29, 1981, 95 Stat. 1659; Pub. L. 98–21, title I, §§141(b), 142(b)(1), (2)(A), (3), (4), 154(b), title III, §341(b), Apr. 20, 1983, 97 Stat. 98, 100, 101, 107, 135; Pub. L. 98–369, div. B, title III, §§2337(a), 2354(b)(2), title VI, §2663(j)(2)(F)(i), July 18, 1984, 98 Stat. 1091, 1100, 1170; Pub. L. 99–272, title IX, §9213(b), Apr. 7, 1986, 100 Stat. 180; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–360, title II, §212(c)(3), July 1, 1988, 102 Stat. 741; Pub. L. 100–647, title VIII, §8005(a), Nov. 10, 1988, 102 Stat. 3781; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–508, title V, §5106(c), Nov. 5, 1990, 104 Stat. 1388–268; Pub. L. 103–296, title I, §108(c)(1), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 104–191, title II, §201(b), Aug. 21, 1996, 110 Stat. 1993; Pub. L. 105–33, title IV, §4318, Aug. 5, 1997, 111 Stat. 392.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1817, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 299; amended Pub. L. 90–248, title I, §169(a), Jan. 2, 1968, 81 Stat. 875; Pub. L. 92–603, title I, §132(d), Oct. 30, 1972, 86 Stat. 1361; Pub. L. 95–292, §5, June 13, 1978, 92 Stat. 315; Pub. L. 96–265, title III, §310(c), June 9, 1980, 94 Stat. 460; Pub. L. 97–123, §1(b), Dec. 29, 1981, 95 Stat. 1659; Pub. L. 98–21, title I, §§141(b), 142(b)(1), (2)(A), (3), (4), 154(b), title III, §341(b), Apr. 20, 1983, 97 Stat. 98, 100, 101, 107, 135; Pub. L. 98–369, div. B, title III, §§2337(a), 2354(b)(2), title VI, §2663(j)(2)(F)(i), July 18, 1984, 98 Stat. 1091, 1100, 1170; Pub. L. 99–272, title IX, §9213(b), Apr. 7, 1986, 100 Stat. 180; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–360, title II, §212(c)(3), July 1, 1988, 102 Stat. 741; Pub. L. 100–647, title VIII, §8005(a), Nov. 10, 1988, 102 Stat. 3781; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–508, title V, §5106(c), Nov. 5, 1990, 104 Stat. 1388–268; Pub. L. 103–296, title I, §108(c)(1), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 104–191, title II, §201(b), Aug. 21, 1996, 110 Stat. 1993; Pub. L. 105–33, title IV, §4318, Aug. 5, 1997, 111 Stat. 392; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(j)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366.)
 
 #### References in Text
 
@@ -251,6 +251,8 @@ Sections 242(b) and 249(b) of the Health Insurance Portability and Accountabilit
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (k)(2)(D), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended. Title I of the Act is classified generally to subchapter I (§1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 #### Amendments
+
+1999—Subsec. (k)(2)(C)(i). Pub. L. 106–113 substituted “section 24(a)” for “section 982(a)(6)(B)”.
 
 1997—Subsec. (k)(6). Pub. L. 105–33 inserted “June 1, 1998, and” after “Not later than” in introductory provisions.
 
@@ -264,7 +266,7 @@ Subsec. (f)(1). Pub. L. 103–296, §108(c)(1)(C), substituted “Commissioner o
 
 1990—Subsec. (i). Pub. L. 101–508 inserted at end “The amount available for payment under this subsection for travel by a representative to attend an administrative proceeding before an administrative law judge or other adjudicator shall not exceed the maximum amount allowable under this subsection for such travel originating within the geographic area of the office having jurisdiction over such proceeding.”
 
-1989—Subsec. (b). Pub. L. 101–234 repealed Pub. L. 100–360, §212(c)(3), and provided that the provisions oflaw amended or repealed by such section are restored or revised as if such section had not been enacted, see 1988 Amendment note below.
+1989—Subsec. (b). Pub. L. 101–234 repealed Pub. L. 100–360, §212(c)(3), and provided that the provisions of law amended or repealed by such section are restored or revised as if such section had not been enacted, see 1988 Amendment note below.
 
 1988—Subsec. (b). Pub. L. 100–647 inserted after first sentence “A member of the Board of Trustees serving as a member of the public and nominated and confirmed to fill a vacancy occurring during a term shall be nominated and confirmed only for the remainder of such term. An individual nominated and confirmed as a member of the public may serve in such position after the expiration of such member's term until the earlier of the time at which the member's successor takes office or the time at which a report of the Board is first issued under paragraph (2) after the expiration of the member's term.”
 
@@ -310,6 +312,10 @@ Subsec. (j)(5). Pub. L. 98–21, §142(b)(4), added par. (5).
 
 1968—Subsec. (b)(2). Pub. L. 90–248 substituted “April” for “March”.
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(j)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366, provided that: “The amendment made by this subsection \[amending this section\] shall take effect as if included in the amendment made by section 201 of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191; 110 Stat. 1992).”
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
@@ -328,7 +334,7 @@ Amendment by Pub. L. 100–647 applicable to members of Board of Trustees of Fed
 
 #### Effective Date of 1984 Amendment
 
-Section 2337(b) of Pub. L. 98–369 provided that: “The amendments made by subsection (a) \[amending thissection\] shall become effective on the first day of the month following the month in which this Act is enacted \[July 1984\].”
+Section 2337(b) of Pub. L. 98–369 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on the first day of the month following the month in which this Act is enacted \[July 1984\].”
 
 Amendment by section 2354(b)(2) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
 
@@ -396,7 +402,7 @@ Notwithstanding subsec. (b)(2) of this section, the annual report of the Board o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 401, 417, 426a, 429, 910, 1320a–7a, 1320b–12, 1395b–1, 1395i–1, 1395gg, 1395vv, 1395ggg, 1396m of this title.
+This section is referred to in sections 401, 417, 426a, 429, 910, 1320a–7a, 1320b–12, 1395b–1, 1395i–1, 1395gg, 1395vv, 1395yy, 1395ggg, 1396m of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

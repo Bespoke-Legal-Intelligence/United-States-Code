@@ -2,7 +2,7 @@
 
 #### (a) Assistance for participation in furnishing of commodities, defense articles, and services
 
-Insofar as practicable and to the maximum extent consistent with the accomplishment of the purposes of this chapter, the President shall assist American small business to participate equitably in the furnishing of commodities, defense articles, and services (including defense services) financed with funds made available under this chapter—
+Insofar as practicable and to the maximum extent consistent with the accomplishment of thepurposes of this chapter, the President shall assist American small business to participate equitably in the furnishing of commodities, defense articles, and services (including defense services) financed with funds made available under this chapter—
 
 &emsp;(1) by causing to be made available to suppliers in the United States, and particularly to small independent enterprises, information, as far in advance as possible, with respect to purchases proposed to be financed with such funds;
 
@@ -30,11 +30,11 @@ References to subchapter II of this chapter are deemed to exclude parts IV (§23
 
 #### Delegation of Functions
 
-Functions of President under subsec. (a), to extent they relate to other functions under this chapter administered by Department of Defense, delegated to Secretary of Defense by section 1–301(b) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Office in Agency for International Development
 
-For location of the Office of Small Business, provided for in subsec. (b), in the Agency for International Development, see section 1–104 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56674, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
+For location of the Office of Small Business, provided for in subsec. (b), in the United States Agency for International Development, see section 1–200(d) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Procurements From Small Businesses
 

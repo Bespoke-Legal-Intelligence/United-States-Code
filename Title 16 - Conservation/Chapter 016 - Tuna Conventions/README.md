@@ -4,7 +4,9 @@
 | :--- | ---: |
 | [951\.](%C2%A7%2000951%20-%20Definitions.md) | Definitions. |
 | [952\.](%C2%A7%2000952%20-%20Commissioners%3B%20number%2C%20appointment%2C%20and%20qualification.md) | Commissioners; number, appointment, and qualification. |
-| [953\.](%C2%A7%2000953%20-%20Advisory%20Committee%3B%20composition%3B%20appointment%3B%20compensation%3B%20duties.md) | Advisory Committee; composition; appointment; compensation; duties. |
+| [953\.](%C2%A7%2000953%20-%20General%20Advisory%20Committee%20and%20Scientific%20Advisory%20Subcommittee.md) | General Advisory Committee and Scientific Advisory Subcommittee. |
+| (a) | Appointments; public participation; compensation. |
+| (b) | Functions. |
 | [954\.](%C2%A7%2000954%20-%20Repealed.%20Pub.%20L.%2092%E2%80%93471%2C%20title%20II%2C%20%C2%A7203%28b%29%2C%20Oct.%209%2C%201972%2C%2086%20Stat.%20787.md) | Repealed. |
 | [955\.](%C2%A7%2000955%20-%20Secretary%20of%20State%20to%20act%20for%20United%20States.md) | Secretary of State to act for United States. |
 | (a) | Approval of commission bylaws and rules; action on reports, requests, and recommendations. |
@@ -40,7 +42,7 @@ This chapter is referred to in section 3377 of this title.
 
 - [&sect; 00951 - Definitions](%C2%A7%2000951%20-%20Definitions.md)
 - [&sect; 00952 - Commissioners; number, appointment, and qualification](%C2%A7%2000952%20-%20Commissioners%3B%20number%2C%20appointment%2C%20and%20qualification.md)
-- [&sect; 00953 - Advisory Committee; composition; appointment; compensation; duties](%C2%A7%2000953%20-%20Advisory%20Committee%3B%20composition%3B%20appointment%3B%20compensation%3B%20duties.md)
+- [&sect; 00953 - General Advisory Committee and Scientific Advisory Subcommittee](%C2%A7%2000953%20-%20General%20Advisory%20Committee%20and%20Scientific%20Advisory%20Subcommittee.md)
 - [&sect; 00954 - Repealed. Pub. L. 92&#8211;471, title II, &sect;203(b), Oct. 9, 1972, 86 Stat. 787](%C2%A7%2000954%20-%20Repealed.%20Pub.%20L.%2092%E2%80%93471%2C%20title%20II%2C%20%C2%A7203%28b%29%2C%20Oct.%209%2C%201972%2C%2086%20Stat.%20787.md)
 - [&sect; 00955 - Secretary of State to act for United States](%C2%A7%2000955%20-%20Secretary%20of%20State%20to%20act%20for%20United%20States.md)
 - [&sect; 00956 - Inspection of returns, records, or other reports](%C2%A7%2000956%20-%20Inspection%20of%20returns%2C%20records%2C%20or%20other%20reports.md)

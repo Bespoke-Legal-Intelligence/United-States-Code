@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;The Corporation may require each originator and each certified facility to make, or commit to make, such nonrefundable capital contributions to the Corporation as are reasonable and necessary to meet the administrative expenses of the Corporation.
+&emsp;The Corporation may require each originator and each certified facility to make, orcommit to make, such nonrefundable capital contributions to the Corporation as are reasonable and necessary to meet the administrative expenses of the Corporation.
 
 #### (2) Stock issued as consideration for contribution
 

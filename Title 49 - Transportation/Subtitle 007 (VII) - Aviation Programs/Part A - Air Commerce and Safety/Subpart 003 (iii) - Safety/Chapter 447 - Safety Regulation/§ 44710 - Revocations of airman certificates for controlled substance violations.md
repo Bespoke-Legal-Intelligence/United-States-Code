@@ -28,7 +28,7 @@ Advice to Holders and Opportunity To Answer.—Before the Administrator revokes 
 
 &emsp;(1) advise the holder of the certificate of the charges or reasons on which the Administrator relies for the proposed revocation; and
 
-&emsp;(2) provide the holder of the certificate an opportunity to answer the charges and beheard why the certificate should not be revoked.
+&emsp;(2) provide the holder of the certificate an opportunity to answer the charges and be heard why the certificate should not be revoked.
 
 (d)
 

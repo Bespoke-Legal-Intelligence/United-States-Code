@@ -44,7 +44,7 @@ The words “basic pay \* \* \* as the case may be” are inserted to conform 
 
 #### 1982 Act
 
-This amends 10:8992 to correct an inadvertent error in the codification of title 10 in 1956 relating to retirementpay of warrant officers advanced on the retired list. For further details, see the explanation for amendment of 10:1405 made by section 1(17).
+This amends 10:8992 to correct an inadvertent error in the codification of title 10 in 1956 relating to retirement pay of warrant officers advanced on the retired list. For further details, see the explanation for amendment of 10:1405 made by section 1(17).
 
 #### Amendments
 

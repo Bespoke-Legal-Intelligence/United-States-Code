@@ -64,5 +64,5 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3, 19, 248, 373, 1031 of this title; title 20 section 9007; title 31 section 5324; title 42 section 2273; title 49 section 11908.
+This section is referred to in sections 3, 19, 248, 373, 1031 of this title; title 15 section 6823; title 20 section 9007; title 31 section 5324; title 42 section 2273; title 49 section 11908.
 

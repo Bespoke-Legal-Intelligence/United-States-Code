@@ -10,5 +10,5 @@ Functions of President under this section delegated to Secretary of State, see s
 
 #### Consultation With Other Federal Departments and Agencies
 
-For authority for the Secretary of State to consult with the Secretary of Agriculture, the Secretary of Commerce, the Director of the United States Information Agency, the Director of the United States International Development Cooperation Agency, the Director of the Office of Personnel Management, and the Director of the Office of Management and Budget to ensure compatibility between the Foreign Service personnel system and other government personnel systems, see section 2 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as note under section 3901 of this title.
+For authority for the Secretary of State to consult with the Secretary of Agriculture, the Secretary of Commerce, the Director of the United States Information Agency, the Administrator of the United States Agency for International Development, the Director of the Office of Personnel Management, and the Director of the Office of Management and Budget to ensure compatibility between the Foreign Service personnel system and other government personnel systems, see section 2 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, as amended, set out as note under section 3901 of this title.
 

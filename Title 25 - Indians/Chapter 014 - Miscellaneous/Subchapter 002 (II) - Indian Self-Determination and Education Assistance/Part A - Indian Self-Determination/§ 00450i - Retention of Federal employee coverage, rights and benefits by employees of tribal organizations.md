@@ -8,13 +8,13 @@ Notwithstanding the provisions of sections 8347(<i>o</i>), 8713, and 8914 of tit
 
 &emsp;(1) To retain coverage, rights, and benefits under subchapter I of chapter 81 (“Compensation for Work Injuries”) of title 5, and for this purpose his employment with the tribal organization shall be deemed employment by the United States. However, if an injured employee, or his dependents in case of his death, receives from the tribal organization any payment (including an allowance, gratuity, payment under an insurance policy for which the premium is wholly paid by the tribal organization, or other benefit of any kind) on account of the same injury or death, the amount of that payment shall be credited against any benefit payable under subchapter I of chapter 81 of title 5, as follows:
 
-&emsp;&emsp;(A) payments on account of injury or disability shall be credited against disability compensation payable to the injured employee; and
+&emsp;&emsp;(A) payments on account of injury or disability shall be credited against disabilitycompensation payable to the injured employee; and
 
 &emsp;&emsp;(B) payments on account of death shall be credited against death compensation payable to dependents of the deceased employee.
 
 &emsp;(2) To retain coverage, rights, and benefits under chapter 83 (“Retirement”) or chapter 84 (“Federal Employees Retirement System”) of title 5, if necessary employee deductions and agency contributions in payment for coverage, rights, and benefits for the period of employment with the tribal organization are currently deposited in the Civil Service Retirement and Disability Fund (section 8348 of title 5); and the period during which coverage, rights, and benefits are retained under this paragraph is deemed creditable service under section 8332 of title 5. Days of unused sick leave to the credit of an employee under a formal leave system at the time the employee leaves Federal employment to be employed by a tribal organization remain to his credit for retirement purposes during covered service with the tribal organization.
 
-&emsp;(3) To retain coverage, rights, and benefits under chapter 89 (“Health Insurance”) of title5, if necessary employee deductions and agency contributions in payment for the coverage, rights, and benefits for the period of employment with the tribal organization are currently deposited in the Employee's Health Benefit Fund (section 8909 of title 5); and the period during which coverage, rights, and benefits are retained under this paragraph is deemed service as an employee under chapter 89 of title 5.
+&emsp;(3) To retain coverage, rights, and benefits under chapter 89 (“Health Insurance”) of title 5, if necessary employee deductions and agency contributions in payment for the coverage, rights, and benefits for the period of employment with the tribal organization are currently deposited in the Employee's Health Benefit Fund (section 8909 of title 5); and the period during which coverage, rights, and benefits are retained under this paragraph is deemed service as an employee under chapter 89 of title 5.
 
 &emsp;(4) To retain coverage, rights, and benefits under chapter 87 (“Life Insurance”) of title 5, if necessary employee deductions and agency contributions in payment for the coverage, rights, and benefits for the period of employment with the tribal organizations are currently deposited in the Employee's Life Insurance Fund (section 8714 of title 5); and the period during which coverage, rights, and benefits are retained under this paragraph is deemed service as an employee under chapter 87 of title 5.
 
@@ -48,7 +48,7 @@ The status of an Indian (as defined in section 479 of this title) appointed (exc
 
 #### Codification
 
-Section is comprised of section 104 of Pub. L. 93–638. Subsecs. (a) to (d) of section 104 of Pub. L. 93–638 are classified to section 3371 of Title 5, Government Organization and Employees, section 2004b of Title 42, The Public Health and Welfare, section 456 of Title 50, Appendix, War and National Defense, and section 4762 of Title 42, respectively. Subsecs. (k) and (<i>l</i>) of section 104 of Pub. L. 93–638 are classified to section 3372 of Title 5.
+Section is comprised of section 104 of Pub. L. 93–638. Subsecs. (a) to (d) of section 104 of Pub. L. 93–638 areclassified to section 3371 of Title 5, Government Organization and Employees, section 2004b of Title 42, The Public Health and Welfare, section 456 of Title 50, Appendix, War and National Defense, and section 4762 of Title 42, respectively. Subsecs. (k) and (<i>l</i>) of section 104 of Pub. L. 93–638 are classified to section 3372 of Title 5.
 
 #### Prior Provisions
 
@@ -60,7 +60,7 @@ A prior section 104 of Pub. L. 93–638 was renumbered section 103 by Pub. L. 10
 
 1988—Subsecs. (a), (b). Pub. L. 100–472, §203(b), (c), amended subsecs. (a) and (b). See Codification note above.
 
-Subsec. (e). Pub. L. 100–472, §203(d), (e), in introductory provisions, substituted “Notwithstanding the provisions of sections 8347(<i>o</i>), 8713, and 8914 of title 5” for “Notwithstanding any other law” and struck out “on or before December 31, 1988” after “title 43”, and in par. (2), inserted “or chapter 84 (‘Federal Employees Retirement System’)”. Notwithstanding directory languagethat the substitution of “Notwithstanding the provisions of sections 8347(<i>o</i>), 8713, and 8914 of title 5” be made in par. (2) of subsec. (e), the substitution was made in introductory provisions of subsec. (e) to reflect the probable intent of Congress because the language replaced appeared only in those introductory provisions.
+Subsec. (e). Pub. L. 100–472, §203(d), (e), in introductory provisions, substituted “Notwithstanding the provisions of sections 8347(<i>o</i>), 8713, and 8914 of title 5” for “Notwithstanding any other law” and struck out “on or before December 31, 1988” after “title 43”, and in par. (2), inserted “or chapter 84 (‘Federal Employees Retirement System’)”. Notwithstanding directory language that the substitution of “Notwithstanding the provisions of sections 8347(<i>o</i>), 8713, and 8914 of title 5” be made in par. (2) of subsec. (e), the substitution was made in introductory provisions of subsec. (e) to reflect the probable intent of Congress because the language replaced appeared only in those introductory provisions.
 
 Subsecs. (k), (<i>l</i>). Pub. L. 100–472, §203(f), added subsecs. (k) and (<i>l</i>). See Codification note above.
 

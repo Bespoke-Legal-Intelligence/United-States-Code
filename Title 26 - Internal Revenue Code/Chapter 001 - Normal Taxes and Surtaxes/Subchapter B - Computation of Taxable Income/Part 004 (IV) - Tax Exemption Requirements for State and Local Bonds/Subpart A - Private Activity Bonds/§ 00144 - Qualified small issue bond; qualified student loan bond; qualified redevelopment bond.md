@@ -318,7 +318,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;The term “designated blighted area” means any blighted area designated by the governing body of a local general purpose governmental unit in the jurisdiction of which such area is located.
+&emsp;&emsp;The term “designated blighted area” means any blighted area designated by thegoverning body of a local general purpose governmental unit in the jurisdiction of which such area is located.
 
 #### (B) Blighted area
 
@@ -382,7 +382,7 @@ Section 119 of the Housing and Community Development Act of 1974, referred to in
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (a)(10)(B)(ii)(II), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
-The Higher Education Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education. Section 428B(a) of that Act as enacted in the general amendment of part B of title IV of that Act by Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386, which is classified to section 1078–2 of Title 20, does not contain a par. (1). Section 438 of that Act is classified to section 1087–1 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219,as amended, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education. Section 428B(a) of that Act as enacted in the general amendment of part B of title IV of that Act by Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386, which is classified to section 1078–2 of Title 20, does not contain a par. (1). Section 438 of that Act is classified to section 1087–1 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Public Health Service Act, referred to in subsec. (b)(1)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subpart I of part C of title VII of the Act was classified generally to subpart I (§294 et seq.) of part C of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, prior to the general revision of subchapter V of chapter 6A by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. See subpart I (§292 et seq.) of part A of revised subchapter V of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 

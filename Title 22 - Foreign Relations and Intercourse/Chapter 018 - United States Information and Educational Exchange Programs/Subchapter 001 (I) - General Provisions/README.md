@@ -17,3 +17,4 @@
 - [&sect; 01440 - Repealed. Pub. L. 105&#8211;277, div. G, subdiv. A, title XIII, &sect;1336(1), Oct. 21, 1998, 112 Stat. 2681&#8211;790](%C2%A7%2001440%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20G%2C%20subdiv.%20A%2C%20title%20XIII%2C%20%C2%A71336%281%29%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93790.md)
 - [&sect; 01441 - Omitted](%C2%A7%2001441%20-%20Omitted.md)
 - [&sect; 01442 - Informational media guaranties](%C2%A7%2001442%20-%20Informational%20media%20guaranties.md)
+- [&sect; 01442a - National security measures](%C2%A7%2001442a%20-%20National%20security%20measures.md)

@@ -1,6 +1,6 @@
 ### §8902. Contracting authority
 
-(a) The Office of Personnel Management may contract with qualified carriers offering plansdescribed by section 8903 or 8903a of this title, without regard to section 5 of title 41 or other statute requiring competitive bidding. Each contract shall be for a uniform term of at least 1 year, but may be made automatically renewable from term to term in the absence of notice of termination by either party.
+(a) The Office of Personnel Management may contract with qualified carriers offering plans described by section 8903 or 8903a of this title, without regard to section 5 of title 41 or other statute requiring competitive bidding. Each contract shall be for a uniform term of at least 1 year, but may be made automatically renewable from term to term in the absence of notice of termination by either party.
 
 (b) To be eligible as a carrier for the plan described by section 8903(2) of this title, a company must be licensed to issue group health insurance in all the States and the District of Columbia.
 
@@ -32,9 +32,9 @@
 
 (<i>l</i>) The Office shall contract under this chapter for a plan described in section 8903(4) of this title with any qualified health maintenance carrier which offers such a plan. For the purpose of this subsection, “qualified health maintenance carrier” means any qualified carrier which is a qualified health maintenance organization within the meaning of section 1310(d)(1) <sup>1</sup> of title XIII of the Public Health Service Act (42 U.S.C. 300c–9(d)).
 
-(m)(1) The terms of any contract under this chapter which relate to the nature, provision, orextent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to health insurance or plans.
+(m)(1) The terms of any contract under this chapter which relate to the nature, provision, or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to health insurance or plans.
 
-(2)(A) Notwithstanding the provisions of paragraph (1) of this subsection, if a contract under this chapter provides for the provision of, the payment for, or the reimbursement of the cost of health services for the care and treatment of any particular health condition, the carrier shall provide, pay, or reimburse up to the limits of its contract for any such health service properly provided by any person licensed under State law to provide such service if such service is provided to an individual covered by such contract in a State where 25 percent or more of the population is located in primary medical care manpower shortage areas designated pursuant to section 332 of the Public Health Service Act (42 U.S.C. 254e).
+(2)(A) Notwithstanding the provisions of paragraph (1) of this subsection, if a contract underthis chapter provides for the provision of, the payment for, or the reimbursement of the cost of health services for the care and treatment of any particular health condition, the carrier shall provide, pay, or reimburse up to the limits of its contract for any such health service properly provided by any person licensed under State law to provide such service if such service is provided to an individual covered by such contract in a State where 25 percent or more of the population is located in primary medical care manpower shortage areas designated pursuant to section 332 of the Public Health Service Act (42 U.S.C. 254e).
 
 (B) The provisions of subparagraph (A) shall not apply to contracts entered into providing prepayment plans described in section 8903(4) of this title.
 

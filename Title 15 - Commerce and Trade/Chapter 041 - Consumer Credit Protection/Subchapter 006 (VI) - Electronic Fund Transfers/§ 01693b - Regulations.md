@@ -52,9 +52,59 @@ Regulations prescribed hereunder may contain such classifications, differentiati
 
 &emsp;&emsp;&emsp;(ii) otherwise supersedes the application of any State or local law.
 
-(Pub. L. 90–321, title IX, §904, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3730; amended Pub. L. 104–193, title VIII, §891, title IX, §907, Aug. 22, 1996, 110 Stat. 2346, 2350.)
+#### (3) Fee disclosures at automated teller machines
+
+#### (A) In general
+
+&emsp;&emsp;The regulations prescribed under paragraph (1) shall require any automated teller machine operator who imposes a fee on any consumer for providing host transfer services to such consumer to provide notice in accordance with subparagraph (B) to the consumer (at the time the service is provided) of—
+
+&emsp;&emsp;&emsp;(i) the fact that a fee is imposed by such operator for providing the service; and
+
+&emsp;&emsp;&emsp;(ii) the amount of any such fee.
+
+#### (B) Notice requirements
+
+#### (i) On the machine
+
+&emsp;&emsp;&emsp;The notice required under clause (i) of subparagraph (A) with respect to any fee described in such subparagraph shall be posted in a prominent and conspicuous location on or at the automated teller machine at which the electronic fund transfer is initiated by the consumer.
+
+#### (ii) On the screen
+
+&emsp;&emsp;&emsp;The notice required under clauses (i) and (ii) of subparagraph (A) with respect to any fee described in such subparagraph shall appear on the screen of the automated teller machine, or on a paper notice issued from such machine, after the transaction is initiated and before the consumer is irrevocably committed to completing the transaction, except that during the period beginning on November 12, 1999, and ending on December 31, 2004, this clause shall not apply to any automated teller machine that lacks the technical capability to disclose the notice on the screen or to issue a paper notice after the transaction is initiated and before the consumer is irrevocably committed to completing the transaction.
+
+#### (C) Prohibition on fees not properly disclosed and explicitly assumed by consumer
+
+&emsp;&emsp;No fee may be imposed by any automated teller machine operator in connection with any electronic fund transfer initiated by a consumer for which a notice is required under subparagraph (A), unless—
+
+&emsp;&emsp;&emsp;(i) the consumer receives such notice in accordance with subparagraph (B); and
+
+&emsp;&emsp;&emsp;(ii) the consumer elects to continue in the manner necessary to effect the transaction after receiving such notice.
+
+#### (D) Definitions
+
+&emsp;&emsp;For purposes of this paragraph, the following definitions shall apply:
+
+#### (i) Automated teller machine operator
+
+&emsp;&emsp;&emsp;The term “automated teller machine operator” means any person who—
+
+&emsp;&emsp;&emsp;&emsp;(I) operates an automated teller machine at which consumers initiate electronic fund transfers; and
+
+&emsp;&emsp;&emsp;&emsp;(II) is not the financial institution that holds the account of such consumer from which the transfer is made.
+
+#### (ii) Electronic fund transfer
+
+&emsp;&emsp;&emsp;The term “electronic fund transfer” includes a transaction that involves a balance inquiry initiated by a consumer in the same manner as an electronic fund transfer, whether or not the consumer initiates a transfer of funds in the course of the transaction.
+
+#### (iii) Host transfer services
+
+&emsp;&emsp;&emsp;The term “host transfer services” means any electronic fund transfer made by an automated teller machine operator in connection with a transaction initiated by a consumer at an automated teller machine operated by such operator.
+
+(Pub. L. 90–321, title IX, §904, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3730; amended Pub. L. 104–193, title VIII, §891, title IX, §907, Aug. 22, 1996, 110 Stat. 2346, 2350; Pub. L. 106–102, title VII, §702, Nov. 12, 1999, 113 Stat. 1463.)
 
 #### Amendments
+
+1999—Subsec. (d)(3). Pub. L. 106–102 added par. (3).
 
 1996—Subsec. (d). Pub. L. 104–193, §907, which directed the amendment of subsec. (d), was not executed because similar amendment by Pub. L. 104–193, §891. See below. Section 907 of Pub. L. 104–193 provided that subsec. (d) was to be amended by inserting subsec. (d) heading, by designating existing provisions as par. (1) and inserting heading, and by adding a new par. (2) reading as follows:
 
@@ -90,7 +140,7 @@ Pub. L. 104–193, §891, designated existing provisions as par. (1), inserted s
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 section 2016.
+This section is referred to in sections 1693c, 1693h of this title; title 7 section 2016.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
 

@@ -184,7 +184,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 12 section 1715z–13a; title 42 section 11905.
+This chapter is referred to in title 12 section 1715z–13a; title 42 sections 11902, 11903, 11904, 11905, 11908, 14614.
 
 
 ---

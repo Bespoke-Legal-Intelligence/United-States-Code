@@ -1,6 +1,6 @@
 ### §2151e. Appropriate technology
 
-(a) In carrying out activities under this part, the President shall place special emphasis onthe use of relatively smaller, cost-saving, labor-using technologies that are generally most appropriate for the small farms, small businesses, and small incomes of the poor.
+(a) In carrying out activities under this part, the President shall place special emphasis on the use of relatively smaller, cost-saving, labor-using technologies that are generally most appropriate for the small farms, small businesses, and small incomes of the poor.
 
 (b) Funds made available to carry out this part should be used to the extent practicable for activities in the field of appropriate technology, including support of an expanded and coordinated private effort to promote the development and dissemination of appropriate technology in developing countries.
 
@@ -17,4 +17,8 @@ A prior section 2151e, Pub. L. 87–195, pt. I, §107, as added Pub. L. 93–189
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

@@ -30,7 +30,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 #### (2) Rules and procedures
 
-&emsp;If the allotment of a household is reduced under this subsection for a failure to perform an action required under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.),the State agency may use the rules and procedures that apply under part A of title IV of the Act to reduce the allotment under the food stamp program.
+&emsp;If the allotment of a household is reduced under this subsection for a failure to perform an action required under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), the State agency may use the rules and procedures that apply under part A of title IV of the Act to reduce the allotment under the food stamp program.
 
 #### (e) Allotments for households residing in centers
 
@@ -50,7 +50,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For completeclassification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 
@@ -94,7 +94,7 @@ Subsec. (c)(3). Pub. L. 100–435, §203(a)(3), added par. (3).
 
 1985—Subsec. (e). Pub. L. 99–198 added subsec. (e).
 
-1982—Subsec. (a). Pub. L. 97–253, §§143(c), 152(b), substituted “nearest lower whole dollar” for “nearest whole dollar”, and struck out provision which requiredthe Secretary, six months after the implementation of the elimination of the charge for allotments and annually thereafter, to report to Congress the effect on participation and cost thereof.
+1982—Subsec. (a). Pub. L. 97–253, §§143(c), 152(b), substituted “nearest lower whole dollar” for “nearest whole dollar”, and struck out provision which required the Secretary, six months after the implementation of the elimination of the charge for allotments and annually thereafter, to report to Congress the effect on participation and cost thereof.
 
 Subsec. (c). Pub. L. 97–253, §163, inserted provision that no allotment may be issued to a household for the initial month or period if the value of the allotment which such household would otherwise be eligible to receive under this subsection is less than $10, and substituted “following any period” for “following any period of more than thirty days” in cl. (2).
 

@@ -36,7 +36,7 @@ The purposes of any management conference convened with respect to an estuary un
 
 &emsp;(6) monitor the effectiveness of actions taken pursuant to the plan; and
 
-&emsp;(7) review all Federal financial assistance programs and Federal development projects in accordance with the requirements of Executive Order 12372, as in effect on September 17,1983, to determine whether such assistance program or project would be consistent with and further the purposes and objectives of the plan prepared under this section.
+&emsp;(7) review all Federal financial assistance programs and Federal development projects in accordance with the requirements of Executive Order 12372, as in effect on September 17, 1983, to determine whether such assistance program or project would be consistent with and further the purposes and objectives of the plan prepared under this section.
 
 > For purposes of paragraph (7), such programs and projects shall not be limited to the assistance programs and development projects subject to Executive Order 12372, but may include any programs listed in the most recent Catalog of Federal Domestic Assistance which may have an effect on the purposes and objectives of the plan developed under this section.
 
@@ -106,9 +106,9 @@ There are authorized to be appropriated to the Administrator not to exceed $12,0
 
 #### (1) Programs
 
-&emsp;In order to determine the need to convene a management conference under this section or at the request of such a management conference, the Administrator shall coordinate and implement, through the National Marine Pollution Program Office and the National Marine Fisheries Service of the National Oceanic and Atmospheric Administration, as appropriate, for one or more estuarine zones—
+&emsp;In order to determine the need to convene a management conference under this section or at the request of such a management conference, the Administrator shall coordinateand implement, through the National Marine Pollution Program Office and the National Marine Fisheries Service of the National Oceanic and Atmospheric Administration, as appropriate, for one or more estuarine zones—
 
-&emsp;&emsp;(A) a long-term program of trend assessment monitoring measuring variations inpollutant concentrations, marine ecology, and other physical or biological environmental parameters which may affect estuarine zones, to provide the Administrator the capacity to determine the potential and actual effects of alternative management strategies and measures;
+&emsp;&emsp;(A) a long-term program of trend assessment monitoring measuring variations in pollutant concentrations, marine ecology, and other physical or biological environmental parameters which may affect estuarine zones, to provide the Administrator the capacity to determine the potential and actual effects of alternative management strategies and measures;
 
 &emsp;&emsp;(B) a program of ecosystem assessment assisting in the development of (i) baseline studies which determine the state of estuarine zones and the effects of natural and anthropogenic changes, and (ii) predictive models capable of translating information on specific discharges or general pollutant loadings within estuarine zones into a set of probable effects on such zones;
 

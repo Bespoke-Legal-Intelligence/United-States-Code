@@ -14,7 +14,7 @@ For the purposes of subsection (a), the taxable income shall be adjusted as foll
 
 #### (2) Charitable contributions
 
-&emsp;The deduction for charitable contributions provided under section 170 shall be allowed,but in computing such deduction the limitations in section 170(b)(1)(A), (B), and (D) shall apply, and section 170(b)(2) and (d)(1) shall not apply. For purposes of this paragraph, the term “contribution base” when used in section 170(b)(1) means the taxable income computed with the adjustments (other than the 10-percent limitation) provided in section 170(b)(2) and (d)(1) and without deduction of the amount disallowed under paragraph (6) of this subsection.
+&emsp;The deduction for charitable contributions provided under section 170 shall be allowed, but in computing such deduction the limitations in section 170(b)(1)(A), (B), and (D) shall apply, and section 170(b)(2) and (d)(1) shall not apply. For purposes of this paragraph, the term “contribution base” when used in section 170(b)(1) means the taxable income computed with the adjustments (other than the 10-percent limitation) provided in section 170(b)(2) and (d)(1) and without deduction of the amount disallowed under paragraph (6) of this subsection.
 
 #### (3) Special deductions disallowed
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 87–403 applicable only with respect to distributions made
 
 Amendment by section 32(a) of Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-Section 32(c) of Pub. L. 85–866, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendment made by subsection (b) of this section \[amending this section\] shall apply with respect to adjustments under section 545(b)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for taxable years beginning after December 31, 1957.”
+Section 32(c) of Pub. L. 85–866, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (b) of this section \[amending this section\] shall apply with respect to adjustments under section 545(b)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for taxable years beginning after December 31, 1957.”
 
 #### Savings Provision
 
@@ -172,5 +172,5 @@ Rules relating to deduction for dividends paid after close of taxable year, see 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 316, 508, 541, 564, 631, 4947, 4948 of this title.
+This section is referred to in sections 170, 316, 508, 541, 564, 631, 4947, 4948 of this title.
 

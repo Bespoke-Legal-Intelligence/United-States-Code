@@ -2,7 +2,7 @@
 
 #### (a) Objectives
 
-Subject to valid existing rights, the Pine Ridge National Recreation Area designated bythis subchapter shall be administered by the Secretary of Agriculture in accordance with the laws, rules, and regulations applicable to the national forests in a manner compatible with the following objectives:
+Subject to valid existing rights, the Pine Ridge National Recreation Area designated by this subchapter shall be administered by the Secretary of Agriculture in accordance with the laws, rules, and regulations applicable to the national forests in a manner compatible with the following objectives:
 
 &emsp;(1) the continuation of existing primitive and semiprimitive recreational use in a natural environment;
 
@@ -50,7 +50,7 @@ Mineral leasing laws, referred to in subsec. (d), have been defined in sections 
 
 Geothermal leasing laws, referred to in subsec. (d), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
 
-This subchapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 99–504, Oct. 20, 1986, 100 Stat. 1802, known as the Nebraska Wilderness Act of 1985, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
+This subchapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 99–504, Oct. 20,1986, 100 Stat. 1802, known as the Nebraska Wilderness Act of 1985, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name
 

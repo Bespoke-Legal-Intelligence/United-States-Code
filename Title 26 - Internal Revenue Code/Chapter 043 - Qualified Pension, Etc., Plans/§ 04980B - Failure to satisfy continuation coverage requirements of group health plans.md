@@ -60,7 +60,7 @@ There is hereby imposed a tax on the failure of a group health plan to meet the 
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the maximum amount of tax imposed by subsection (a) on failures on any day during the noncompliance period with respect to a qualified beneficiary shall be $100.
+&emsp;&emsp;Except as provided in subparagraph (B), the maximum amount of tax imposed bysubsection (a) on failures on any day during the noncompliance period with respect to a qualified beneficiary shall be $100.
 
 #### (B) Special rule where more than 1 qualified beneficiary
 
@@ -146,7 +146,7 @@ This section shall not apply to—
 
 &emsp;&emsp;&emsp;&emsp;(I) employer or plan administrator, or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a qualifying event described in subparagraph (C) or (E) of subsection (f)(3) where the person described in clause (i) is the plan administrator, the qualified beneficiary,
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a qualifying event described in subparagraph (C) or (E) ofsubsection (f)(3) where the person described in clause (i) is the plan administrator, the qualified beneficiary,
 
 &emsp;&emsp;&nbsp;submits to such person a written request that such person make available to such qualified beneficiary the same coverage which such person provides to the beneficiary referred to in clause (i).
 
@@ -190,7 +190,7 @@ This section shall not apply to—
 
 &emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) that occurs less than 18 months after the date the covered employee became entitled to benefits under title XVIII of the Social Security Act, the period of coverage for qualified beneficiaries other than the covered employee shall not terminate under this clause before the close of the 36-month period beginning on the date the covered employee became so entitled.
 
-&emsp;&emsp;&nbsp;In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at any time during the first 60 days of continuation coverage under this section, any reference in subclause (I) or (II) to 18 months is deemed a reference to 29 months\(with respect to all qualified beneficiaries), but only if the qualified beneficiary has provided notice of such determination under paragraph (6)(C) before the end of such 18 months.
+&emsp;&emsp;&nbsp;In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at any time during the first 60 days of continuation coverage under this section, any reference in subclause (I) or (II) to 18 months is deemed a reference to 29 months (with respect to all qualified beneficiaries), but only if the qualified beneficiary has provided notice of such determination under paragraph (6)(C) before the end of such 18 months.
 
 #### (ii) End of plan
 
@@ -324,7 +324,7 @@ This section shall not apply to—
 
 > &emsp;&emsp;of such beneficiary's rights under this subsection.
 
-> &emsp;The requirements of subparagraph (B) shall be considered satisfied in the case of a multiemployer plan in connection with a qualifying event described in paragraph (3)(B) if the plan provides that the determination of the occurrence of such qualifying event will be made by the plan administrator. For purposes of subparagraph (D), any notification shall be made within 14 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be providedin the terms of the plan) of the date on which the plan administrator is notified under subparagraph (B) or (C), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
+> &emsp;The requirements of subparagraph (B) shall be considered satisfied in the case of a multiemployer plan in connection with a qualifying event described in paragraph (3)(B) if the plan provides that the determination of the occurrence of such qualifying event will be made by the plan administrator. For purposes of subparagraph (D), any notification shall be made within 14 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date on which the plan administrator is notified under subparagraph (B) or (C), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
 
 #### (7) Covered employee
 
@@ -396,7 +396,7 @@ For purposes of this section—
 
 The Public Health Service Act, referred to in subsec. (f)(1), does not contain a section 2162. The reference probably should be to section 1928 of the Social Security Act, which is classified to section 1396s of Title 42, The Public Health and Welfare, and which relates to pediatric vaccines.
 
-The Social Security Act, referred to in subsec. (f)(2)(B)(i)(IV), (V), (iv)(II), (v), (3)(D), (6)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(2)(B)(i)(IV), (V), (iv)(II), (v), (3)(D), (6)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsecs. (f)(2)(B)(iv)(I) and (g)(3), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. Section 3(16)(A) of the Act is classified to section 1002(16)(A) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
@@ -408,7 +408,7 @@ The Public Health Service Act, referred to in subsec. (f)(2)(B)(iv)(I), is act J
 
 Pub. L. 104–188, §1704(t)(21), made technical amendment to directory language of Pub. L. 101–239, §6701(a)(1). See 1989 Amendment note below.
 
-Subsec. (f)(2)(B)(i)(V). Pub. L. 104–188, §1704(g)(1)(A), substituted “Medicare entitlement followed by qualifying event” for “Qualifying event involving medicare entitlement” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of an event described in paragraph (3)(D) (without regard to whether such event is a qualifying event), the period of coverage for qualified beneficiaries other than the covered employee for such event or any subsequent qualifying event shall not terminate before the close of the 36-month period beginning on the date the covered employee becomes entitled to benefits under title XVIII of the Social Security Act.”
+Subsec. (f)(2)(B)(i)(V). Pub. L. 104–188, §1704(g)(1)(A), substituted “Medicare entitlement followed by qualifying event” for “Qualifying event involving medicare entitlement” in heading and amended text generally.Prior to amendment, text read as follows: “In the case of an event described in paragraph (3)(D) (without regard to whether such event is a qualifying event), the period of coverage for qualified beneficiaries other than the covered employee for such event or any subsequent qualifying event shall not terminate before the close of the 36-month period beginning on the date the covered employee becomes entitled to benefits under title XVIII of the Social Security Act.”
 
 Subsec. (f)(2)(B)(iv)(I). Pub. L. 104–191, §421(c)(1)(B), inserted “(other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of this title, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, or title XXVII of the Public Health Service Act)” before “, or”.
 

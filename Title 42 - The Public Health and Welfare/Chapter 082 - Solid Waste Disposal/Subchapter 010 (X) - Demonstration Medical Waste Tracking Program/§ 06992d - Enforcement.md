@@ -16,7 +16,7 @@
 
 #### (4) Violation of compliance orders
 
-&emsp;In the case of an order under this subsection requiring compliance with any requirement of or regulation under this subchapter, if a violator fails to take corrective action within the time specified in an order, the Administrator may assess a civil penalty of not more than $25,000 for each day of continued noncompliance with the order.
+&emsp;In the case of an order under this subsection requiring compliance with any requirement ofor regulation under this subchapter, if a violator fails to take corrective action within the time specified in an order, the Administrator may assess a civil penalty of not more than $25,000 for each day of continued noncompliance with the order.
 
 #### (b) Criminal penalties
 

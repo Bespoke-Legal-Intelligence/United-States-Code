@@ -42,7 +42,7 @@ As used in this chapter:
 
 (10) The term “process” means the preparation of a chemical substance or mixture, after its manufacture, for distribution in commerce—
 
-&emsp;(A) in the same form or physical state as, or in a different form or physical state from, that in which it was received by the person so preparing such substance or mixture, or
+&emsp;(A) in the same form or physical state as, or in a different form or physical state from, thatin which it was received by the person so preparing such substance or mixture, or
 
 &emsp;(B) as part of an article containing the chemical substance or mixture.
 

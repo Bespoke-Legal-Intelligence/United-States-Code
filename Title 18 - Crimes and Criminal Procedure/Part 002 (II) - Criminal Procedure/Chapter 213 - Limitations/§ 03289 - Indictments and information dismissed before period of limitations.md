@@ -8,7 +8,7 @@ Whenever an indictment or information charging a felony is dismissed for any rea
 
 Based on title 18, U.S.C., 1940 ed., §§556a, 588, 589 (Apr. 30, 1934, ch. 170, §1, 48 Stat. 648; May 10, 1934, ch. 278, §§2, 3, 48 Stat. 772).
 
-Consolidation of sections 556a, 588, and 589 of title 18, U.S.C., 1940 ed., without change of substance. The provisions of said section 556a, with reference to time of filing motion, were omitted and numerous changes of phraseology were necessary to effect consolidation, particularly in view of rules 6(b) and 12(b)(2), (3), (5) of the Federal Rules of Criminal Procedure.
+Consolidation of sections 556a, 588, and 589 of title 18, U.S.C., 1940 ed., without change of substance. The provisions of said section 556a, with reference to time of filing motion, were omitted and numerous changes ofphraseology were necessary to effect consolidation, particularly in view of rules 6(b) and 12(b)(2), (3), (5) of the Federal Rules of Criminal Procedure.
 
 Words “regular or special” were omitted and “regular” inserted after “succeeding” to harmonize with section 3288 of this title.
 

@@ -82,7 +82,7 @@ In general.—The Task Force shall be composed of 10 members, who shall be the d
 
 &emsp;“(2)
 
-Qualifications.—Members of the Task Force shall be designated for membership on the TaskForce by reason of demonstrated knowledge and competence regarding the national flood insurance program.
+Qualifications.—Members of the Task Force shall be designated for membership on the Task Force by reason of demonstrated knowledge and competence regarding the national flood insurance program.
 
 “(c)
 

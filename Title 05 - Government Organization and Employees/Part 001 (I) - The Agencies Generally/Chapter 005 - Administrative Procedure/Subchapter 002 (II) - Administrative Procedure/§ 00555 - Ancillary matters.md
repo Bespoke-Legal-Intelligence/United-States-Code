@@ -8,7 +8,7 @@
 
 (d) Agency subpenas authorized by law shall be issued to a party on request and, when required by rules of procedure, on a statement or showing of general relevance and reasonable scope of the evidence sought. On contest, the court shall sustain the subpena or similar process or demand to the extent that it is found to be in accordance with law. In a proceeding for enforcement, the court shall issue an order requiring the appearance of the witness or the production of the evidence or data within a reasonable time under penalty of punishment for contempt in case of contumacious failure to comply.
 
-(e) Prompt notice shall be given of the denial in whole or in part of a written application, petition, or other request of an interested person made in connection with any agency proceeding. Except in affirming a prior denial or when thedenial is self-explanatory, the notice shall be accompanied by a brief statement of the grounds for denial.
+(e) Prompt notice shall be given of the denial in whole or in part of a written application, petition, or other request of an interested person made in connection with any agency proceeding. Except in affirming a prior denial or when the denial is self-explanatory, the notice shall be accompanied by a brief statement of the grounds for denial.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 385.)
 
@@ -40,5 +40,5 @@ Section 555 of former Title 5, Executive Departments and Government Officers and
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 sections 501, 502, 1220, 1405; title 8 section 1375; title 16 sections 1536, 3636; title 18 section 3625; title 30 section 185; title 41 section 422; title 42 sections 7407, 7502, 7511a, 7607; title 46 sections 7702, 9303; title 50 App. sections 16, 2159, 2410, 2412.
+This section is referred to in title 2 sections 501, 502, 1220, 1405; title 8 section 1375; title 16 sections 1536, 3636;title 18 section 3625; title 30 section 185; title 41 section 422; title 42 sections 7407, 7502, 7511a, 7607; title 46 sections 7702, 9303; title 50 App. sections 16, 2159, 2410, 2412.
 

@@ -1,5 +1,5 @@
 
-22 U.S.C.<br>United States Code, 1998 Edition<br>Title 22 - FOREIGN RELATIONS AND INTERCOURSE<br>From the U.S. Government Publishing Office, www.gpo.gov
+22 U.S.C.<br>United States Code, 1999 Edition<br>Title 22 - FOREIGN RELATIONS AND INTERCOURSE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 22—FOREIGN RELATIONS AND INTERCOURSE
 
@@ -41,7 +41,7 @@
 | [<b>29A.</b>](Chapter%20029A%20-%20Inter-American%20Cultural%20and%20Trade%20Center/README.md) | <b>Inter-American Cultural and Trade Center</b> | <b>2081</b> |
 | [<b>30.</b>](Chapter%20030%20-%20International%20Cooperation%20in%20Health%20and%20Medical%20Research/README.md) | <b>International Cooperation in Health and Medical Research</b> | <b>2101</b> |
 | [<b>31.</b>](Chapter%20031%20-%20International%20Travel/README.md) | <b>International Travel</b> | <b>2121</b> |
-| [<b>31A.</b>](Chapter%20031A%20-%20National%20Tourism%20Organization/README.md) | <b>National Tourism Organization</b> | <b>2141</b> |
+| [<b>31A.</b>](Chapter%20031A%20-%20National%20Tourism%20Organization/README.md) | <b>National Tourism Organization \[Omitted or Repealed\]</b> | <b>2141</b> |
 | [<b>32.</b>](Chapter%20032%20-%20Foreign%20Assistance/README.md) | <b>Foreign Assistance</b> | <b>2151</b> |
 | [<b>33.</b>](Chapter%20033%20-%20Mutual%20Educational%20and%20Cultural%20Exchange%20Program/README.md) | <b>Mutual Educational and Cultural Exchange Program</b> | <b>2451</b> |
 | [<b>34.</b>](Chapter%20034%20-%20The%20Peace%20Corps/README.md) | <b>The Peace Corps</b> | <b>2501</b> |

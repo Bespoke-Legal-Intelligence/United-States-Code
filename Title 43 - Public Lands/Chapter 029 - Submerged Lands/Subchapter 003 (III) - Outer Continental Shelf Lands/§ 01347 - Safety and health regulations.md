@@ -10,7 +10,7 @@ In exercising their respective responsibilities for the artificial islands, inst
 
 #### (c) Regulations applying to unregulated hazardous working conditions
 
-The Secretary of the Department in which the Coast Guard is operating shall promulgate regulations or standards applying to unregulatedhazardous working conditions related to activities on the outer Continental Shelf when he determines such regulations or standards are necessary. The Secretary of the Department in which the Coast Guard is operating may from time to time modify any regulations, interim or final, dealing with hazardous working conditions on the outer Continental Shelf.
+The Secretary of the Department in which the Coast Guard is operating shall promulgate regulations or standards applying to unregulated hazardous working conditions related to activities on the outer Continental Shelf when he determines such regulations or standards are necessary. The Secretary of the Department in which the Coast Guard is operating may from time to time modify any regulations, interim or final, dealing with hazardous working conditions on the outer Continental Shelf.
 
 #### (d) Application of other laws
 

@@ -38,7 +38,7 @@ Subsec. (e). Pub. L. 98–620, §501(2), inserted “: <i>Provided</i>, That in
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 49 section 309.
+This section is referred to in title 36 section 2113; title 49 section 309.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

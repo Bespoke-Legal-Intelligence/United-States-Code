@@ -90,7 +90,3 @@ Subsec. (c). Pub. L. 104–59, §337(e)(2), substituted “(b)(3)” for “(b)(
 
 Subsec. (i). Pub. L. 104–59, §325(h), substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 9511.
-

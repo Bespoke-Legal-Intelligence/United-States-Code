@@ -30,5 +30,7 @@ Dec. 9, 1985, Pub. L. 99–172, §§6, 7, 99 Stat. 1021.
 
 36:3707.
 
+&nbsp;
+
 The words “and in conformity with the laws of the State or States in which it is incorporated” are omitted as unnecessary.
 

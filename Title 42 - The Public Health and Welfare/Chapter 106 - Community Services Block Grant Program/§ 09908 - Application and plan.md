@@ -4,7 +4,7 @@
 
 #### (1) Designation
 
-&emsp;The chief executive officer of a State desiring to receive a grant or allotment under section 9905 or 9906 of this title shall designate, in an application submitted to the Secretary under subsection (b) of this section, an appropriate State agency that complies with the requirements of paragraph (2) to act as a lead agency for purposes of carrying out State activities under this chapter.
+&emsp;The chief executive officer of a State desiring to receive a grant or allotment under section 9905 or 9906 of this title shall designate, in an application submitted to the Secretaryunder subsection (b) of this section, an appropriate State agency that complies with the requirements of paragraph (2) to act as a lead agency for purposes of carrying out State activities under this chapter.
 
 #### (2) Duties
 
@@ -62,7 +62,7 @@ Beginning with fiscal year 2000, to be eligible to receive a grant or allotment 
 
 &emsp;&emsp;(B) a description of how linkages will be developed to fill identified gaps in the services, through the provision of information, referrals, case management, and followup consultations;
 
-&emsp;&emsp;(C) a description of how funds made available through grants made under section 9907(a) of this title will be coordinated with other public and private resources; and
+&emsp;&emsp;(C) a description of how funds made available through grants made under section9907(a) of this title will be coordinated with other public and private resources; and
 
 &emsp;&emsp;(D) a description of how the local entity will use the funds to support innovative community and neighborhood-based initiatives related to the purposes of this chapter, which may include fatherhood initiatives and other initiatives with the goal of strengthening families and encouraging effective parenting;
 

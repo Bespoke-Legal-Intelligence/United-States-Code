@@ -6,7 +6,7 @@ Except as provided in subsection (b) of this section, any person may commence in
 
 #### (b) Notice
 
-No action may be commenced under subsection (a) of this section before the date which is 60 days after the person bringing the actionhas given written notice of intent to commence such action to the Secretary.
+No action may be commenced under subsection (a) of this section before the date which is 60 days after the person bringing the action has given written notice of intent to commence such action to the Secretary.
 
 #### (c) Costs of litigation
 

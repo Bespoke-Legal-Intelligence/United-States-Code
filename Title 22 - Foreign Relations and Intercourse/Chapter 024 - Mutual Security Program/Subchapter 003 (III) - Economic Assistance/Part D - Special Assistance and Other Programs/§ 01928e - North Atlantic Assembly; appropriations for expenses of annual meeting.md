@@ -14,3 +14,7 @@ This section was not enacted as part of the Mutual Security Act of 1954 which co
 
 1983—Pub. L. 98–164 inserted provisions authorizing additional appropriations for fiscal year 1984 to meet the expenses of hosting the annual meeting.
 
+#### Change of Name
+
+Reference to North Atlantic Assembly considered to be reference to NATO Parliamentary Assembly, see section 1000(a)(7) \[div. A, title VII, §701(b)(3)\] of Pub. L. 106–113, set out as a note under section 1928b of this title.
+

@@ -30,7 +30,7 @@ The Secretary concerned shall—
 
 #### (3) Inadequate representation
 
-&emsp;If the Secretary concerned, after inquiry instituted on his own motion or at the request ofany private person, Federal agency, or State agency having an interest therein, has reason to believe that the participation by the organization member in the proceedings of a private international standards organization will not result in the adequate representation of United States interests that are, or may be, affected by the activities of such organization (particularly with regard to the potential impact of any such activity on the international trade of the United States), the Secretary concerned shall immediately notify the organization member concerned. During any such inquiry, the Secretary concerned may solicit and consider the advice of the appropriate representatives referred to in section 2547 of this title.
+&emsp;If the Secretary concerned, after inquiry instituted on his own motion or at the request of any private person, Federal agency, or State agency having an interest therein, has reason to believe that the participation by the organization member in the proceedings of a private international standards organization will not result in the adequate representation of United States interests that are, or may be, affected by the activities of such organization (particularly with regard to the potential impact of any such activity on the international trade of the United States), the Secretary concerned shall immediately notify the organization member concerned. During any such inquiry, the Secretary concerned may solicit and consider the advice of the appropriate representatives referred to in section 2547 of this title.
 
 #### (4) Action by organization member
 

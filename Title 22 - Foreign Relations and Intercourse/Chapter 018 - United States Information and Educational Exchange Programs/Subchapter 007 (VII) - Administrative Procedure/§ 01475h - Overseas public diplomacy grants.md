@@ -2,7 +2,7 @@
 
 #### (a) Competitive grant procedures
 
-Except as provided in subsection (b) of this section, the Department of State shall work toachieve full and open competition in the award of grants for carrying out its overseas public diplomacy functions.
+Except as provided in subsection (b) of this section, the Department of State shall work to achieve full and open competition in the award of grants for carrying out its overseas public diplomacy functions.
 
 #### (b) Exceptions
 
@@ -52,5 +52,5 @@ Subsec. (d). Pub. L. 105–277, §1335(b)(6), struck out heading and text of sub
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 

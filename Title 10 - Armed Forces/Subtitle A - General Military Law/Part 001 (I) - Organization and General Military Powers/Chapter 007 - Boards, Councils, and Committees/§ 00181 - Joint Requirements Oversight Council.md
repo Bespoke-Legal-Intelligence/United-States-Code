@@ -34,7 +34,7 @@ Composition.—(1) The Joint Requirements Oversight Council is composed of—
 
 (d)
 
-Availability of Oversight Information to Congressional Defense Committees.—(1) The Secretary of Defense shall ensure that, in the case of a recommendation by the Chairman to the Secretary that is approved by the Secretary, oversight information with respect to such recommendation that is produced as a result of the activities of the Joint Requirements Oversight Council is made available in a timely fashion to the congressional defense committees.
+Availability of Oversight Information to Congressional Defense Committees.—(1)The Secretary of Defense shall ensure that, in the case of a recommendation by the Chairman to the Secretary that is approved by the Secretary, oversight information with respect to such recommendation that is produced as a result of the activities of the Joint Requirements Oversight Council is made available in a timely fashion to the congressional defense committees.
 
 (2) In this subsection:
 
@@ -44,17 +44,15 @@ Availability of Oversight Information to Congressional Defense Committees.—(1)
 
 &emsp;&emsp;(i) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 
-&emsp;&emsp;(ii) the Committee on National Security and the Committee on Appropriations of the House of Representatives.
+&emsp;&emsp;(ii) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
 
-(Added Pub. L. 104–106, div. A, title IX, §905(a)(1), Feb. 10, 1996, 110 Stat. 403; amended Pub. L. 104–201, div. A, title IX, §908, Sept. 23, 1996, 110 Stat. 2621.)
+(Added Pub. L. 104–106, div. A, title IX, §905(a)(1), Feb. 10, 1996, 110 Stat. 403; amended Pub. L. 104–201, div. A, title IX, §908, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Amendments
 
+1999—Subsec. (d)(2)(B)(ii). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+
 1996—Subsec. (d). Pub. L. 104–201 added subsec. (d).
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date
 

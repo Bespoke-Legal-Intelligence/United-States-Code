@@ -32,7 +32,7 @@ The Commission shall—
 
 &emsp;(4) grant such other authorizations as may be necessary under title II and title III of the Communications Act of 1934 to carry out to the provisions of this subchapter;
 
-&emsp;(5) establish procedures to provide for the continuing review of the telecommunications activities of the corporation as the UnitedStates signatory to the operating agreement or other pertinent instruments; and
+&emsp;(5) establish procedures to provide for the continuing review of the telecommunicationsactivities of the corporation as the United States signatory to the operating agreement or other pertinent instruments; and
 
 &emsp;(6) prescribe such rules as may be necessary to carry out the provisions of this subchapter.
 

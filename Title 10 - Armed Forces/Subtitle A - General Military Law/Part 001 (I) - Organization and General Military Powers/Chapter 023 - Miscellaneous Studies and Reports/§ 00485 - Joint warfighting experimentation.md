@@ -2,7 +2,7 @@
 
 (a)
 
-Annual Report.—The commander of the combatant command assigned by the Secretary of Defense to have the mission for joint warfighting experimentation shall submit to the Secretary an annual report on the conduct of joint experimentation activities for the fiscal year ending in the year of the report. Not later than December 1 of each year, the Secretary shall submit that report, together with any comments that the Secretary considers appropriate and any comments that the Chairman of the Joint Chiefs of Staff considers appropriate, to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives.
+Annual Report.—The commander of the combatant command assigned by the Secretary of Defense to have the mission for joint warfighting experimentation shall submit to the Secretary an annual report on the conduct of joint experimentation activities for the fiscal year ending in the year of the report. Not later than December 1 of each year, the Secretary shall submit that report, together with any comments that the Secretary considers appropriate and any comments that the Chairman of the Joint Chiefs of Staff considers appropriate, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
 (b)
 
@@ -26,15 +26,27 @@ Matters To Be Included.—Each report under this section shall include, for the 
 
 &emsp;&emsp;(E) changes in authority of the commander to develop or acquire materiel, supplies, services, or equipment directly for the conduct of joint warfighting experimentation.
 
-(Added Pub. L. 105–261, div. A, title IX, §923(b)(1), Oct. 17, 1998, 112 Stat. 2105.)
+&emsp;(5) With respect to improving the effectiveness of joint warfighting, any recommendations that the commander considers appropriate, based on the results of joint warfighting experimentation, regarding—
+
+&emsp;&emsp;(A) the development, procurement, or fielding of advanced technologies, systems, or weapons or systems platforms or other changes in doctrine, operational concepts, organization, training, materiel, leadership, personnel, or the allocation of resources;
+
+&emsp;&emsp;(B) the reduction or elimination of redundant equipment and forces, including guidance regarding the synchronization of the fielding of advanced technologies among the armed forces to enable the development and execution of joint operational concepts;
+
+&emsp;&emsp;(C) recommendations for mission needs statements, operational requirements, and relative priorities for acquisition programs to meet joint requirements; and
+
+&emsp;&emsp;(D) a description of any actions taken by the Secretary of Defense to implement the recommendations of the commander.
+
+(Added Pub. L. 105–261, div. A, title IX, §923(b)(1), Oct. 17, 1998, 112 Stat. 2105; amended Pub. L. 106–65, div. A, title IX, §931, title X, §1067(1), Oct. 5, 1999, 113 Stat. 726, 774.)
 
 #### References in Text
 
 Section 923(a)(2) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, referred to in subsec. (b)(1), is section 923(a)(2) of Pub. L. 105–261, which is set out in a note below.
 
-#### Change of Name
+#### Amendments
 
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+1999—Subsec. (a). Pub. L. 106–65, §1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+
+Subsec. (b)(5). Pub. L. 106–65, §931, added par. (5).
 
 #### Joint Warfighting Experimentation
 
@@ -62,7 +74,7 @@ Pub. L. 105–261, div. A, title IX, subtitle C, Oct. 17, 1998, 112 Stat. 2102, 
 
 “(a)
 
-Designation of Commander To Have Joint Warfighting Experimentation Mission.—It is the sense of Congress that the initiative of the Secretary of Defense to designate the commander of a combatant command to have the mission of joint warfighting experimentation is a key step in exploiting the potential of advanced technologies, new organizational structures, and new joint operational concepts to transform the conduct of military operations by the Armed Forces.
+Designation of Commander To Have Joint Warfighting Experimentation Mission.—It is the sense ofCongress that the initiative of the Secretary of Defense to designate the commander of a combatant command to have the mission of joint warfighting experimentation is a key step in exploiting the potential of advanced technologies, new organizational structures, and new joint operational concepts to transform the conduct of military operations by the Armed Forces.
 
 “(b)
 
@@ -140,5 +152,5 @@ Annual Report.—(1) \[Enacted this section.\]
 
 “(c)
 
-First Annual Report.—The first report under section 485 of title 10, United States Code, as added bysubsection (b), shall be made with respect to fiscal year 1999. In the case of the report under that section for fiscal year 1999, the reference in subsection (b)(1) of that section to the most recent report under that section shall be treated as referring to the report under subsection (a) of this section.”
+First Annual Report.—The first report under section 485 of title 10, United States Code, as added by subsection (b), shall be made with respect to fiscal year 1999. In the case of the report under that section for fiscal year 1999, the reference in subsection (b)(1) of that section to the most recent report under that section shall be treated as referring to the report under subsection (a) of this section.”
 

@@ -16,7 +16,7 @@ In order to make sure that a dollar spent on military assistance to foreign coun
 
 1985—Subsec. (a)(1). Pub. L. 99–83 amended par. (1) generally, substituting provisions authorizing appropriations of $805,100,000 for fiscal years 1986 and 1987, for provisions authorizing appropriations of not to exceed $238,500,000 for fiscal years 1982 and 1983.
 
-1981—Subsec. (a). Pub. L. 97–113 in par. (1) substituted appropriations of $238,500,000 for fiscal years 1982 and 1983 for appropriation of $106,100,000 for fiscal year 1981 and struck out provision limiting assistance in listed amounts to Portugal ($51,000,000), Spain ($3,600,000),Philippines ($25,000,000), and Sudan ($1,700,000) for fiscal year 1981 and authorization of a 10-percent increase in any such amount when deemed necessary by the President, redesignated former par. (4) as (2), struck out former pars. (2), which limited assistance to those countries listed in par. (1), and par. (3), which provided that the authority contained in sections 2360(a) and 2364(a) of this title not be used to increase the amounts specified in par. (1) or the limitations in par. (2).
+1981—Subsec. (a). Pub. L. 97–113 in par. (1) substituted appropriations of $238,500,000 for fiscal years 1982 and 1983 for appropriation of $106,100,000 for fiscal year 1981 and struck out provision limiting assistance in listed amounts to Portugal ($51,000,000), Spain ($3,600,000), Philippines ($25,000,000), and Sudan ($1,700,000) for fiscal year 1981 and authorization of a 10-percent increase in any such amount when deemed necessary by the President, redesignated former par. (4) as (2), struck out former pars. (2), which limited assistance to those countries listed in par. (1), and par. (3), which provided that the authority contained in sections 2360(a) and 2364(a) of this title not be used to increase the amounts specified in par. (1) or the limitations in par. (2).
 
 1980—Subsec. (a)(1). Pub. L. 96–533 substituted appropriations authorization of $106,100,000 for fiscal year 1981 with allocations of specified amounts for certain countries for fiscal year 1981 for such authorization of $110,200,000 for fiscal year 1980 with similar allocations for fiscal year 1980, included an allocation for The Sudan and deleted Jordan from the list.
 
@@ -62,9 +62,9 @@ Subsec. (a)(5) to (8). Pub. L. 95–92 struck out pars. (5) to (8) which provide
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
 
-#### Allocation of Funds
+#### Delegation of Functions
 
-Funds available to President for carrying out this part allocated to Secretary of Defense by section 1–801(b) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56674, 56678, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

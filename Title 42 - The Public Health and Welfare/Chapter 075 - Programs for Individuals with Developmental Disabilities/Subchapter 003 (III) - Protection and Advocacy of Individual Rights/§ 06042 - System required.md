@@ -98,7 +98,7 @@ Upon application to the Secretary, an American Indian consortium,<sup>3</sup> as
 
 &emsp;&emsp;&emsp;&emsp;(I) $80,000; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the greater of the allotment received by such State for fiscal year 1992, or the allotment received by such State for fiscal year 1993, under this section (determined without regard to subsection (d) of this section); and
+&emsp;&emsp;&emsp;&emsp;(II) the greater of the allotment received by such State for fiscal year 1992, or the allotment received by such Statefor fiscal year 1993, under this section (determined without regard to subsection (d) of this section); and
 
 &emsp;&emsp;&emsp;(ii) the allotment of any State not described in clause (i) for such fiscal year may not be less than the greater of—
 
@@ -336,7 +336,7 @@ Subsec. (a)(2)(G)(ii)(III). Pub. L. 101–496, §15(1)(C), (D), inserted “as a
 
 Subsec. (a)(2)(G)(iii). Pub. L. 101–496, §15(1)(E), added cl. (iii).
 
-Subsec. (a)(5). Pub. L. 101–496, §15(1)(F), which directed the substitution of “unless—” and subpars. (A) to (C) for “unless notice has been given of the intention to make redesignation to persons with developmental disabilities or their representatives”, was executed by making the substitution for “unless notice has been given of the intention to make such redesignation to persons with developmental disabilities or their representatives” to reflect the probable intent of Congress.
+Subsec. (a)(5). Pub. L. 101–496, §15(1)(F), which directed the substitution of “unless—” and subpars. (A)to (C) for “unless notice has been given of the intention to make redesignation to persons with developmental disabilities or their representatives”, was executed by making the substitution for “unless notice has been given of the intention to make such redesignation to persons with developmental disabilities or their representatives” to reflect the probable intent of Congress.
 
 Subsec. (b)(2). Pub. L. 101–496, §15(2), substituted “the Secretary shall” for “the Secretary may”.
 

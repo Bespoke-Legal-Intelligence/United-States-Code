@@ -36,7 +36,7 @@
 
 #### (1) Audits for lenders and servicers
 
-&emsp;Each eligible lender or servicer desiring a designation under subsection (a) of this section shall have a financial and compliance audit of the loan portfolio of such eligible lender or servicer conducted annually by a qualified independent organization from a list of qualified organizations promulgated by the Secretary in accordance with standards established by the Comptroller General and the Secretary. The standards shall measure the lender's or servicer's compliance with the due diligence standards and shall include a defined statistical sampling technique designed to measure the performance rating of the eligible lender or servicer for the purpose of this section. Each eligible lender or servicer shall submit the audit required by this section to theSecretary and to each appropriate guaranty agency.
+&emsp;Each eligible lender or servicer desiring a designation under subsection (a) of this section shall have a financial and compliance audit of the loan portfolio of such eligible lender or servicer conducted annually by a qualified independent organization from a list of qualified organizations promulgated by the Secretary in accordance with standards established by the Comptroller General and the Secretary. The standards shall measure the lender's or servicer's compliance with the due diligence standards and shall include a defined statistical sampling technique designed to measure the performance rating of the eligible lender or servicer for the purpose of this section. Each eligible lender or servicer shall submit the audit required by this section to the Secretary and to each appropriate guaranty agency.
 
 #### (2) Additional information on lenders and servicers
 
@@ -78,7 +78,7 @@
 
 #### (3) Secretary's determinations
 
-&emsp;The Secretary shall make the determination under subsection (a) of this section based upon the audits submitted under this section and other information in his possession. If the results of the audit are not persuasively rebutted by such other information, the Secretary shall inform the guaranty agency that its application for designation as an exceptional guaranty agency has been approved.
+&emsp;The Secretary shall make the determination under subsection (a) of this section based uponthe audits submitted under this section and other information in his possession. If the results of the audit are not persuasively rebutted by such other information, the Secretary shall inform the guaranty agency that its application for designation as an exceptional guaranty agency has been approved.
 
 #### (4) Costs of audits
 

@@ -20,7 +20,7 @@
 
 (d) When, as an incidental service in support of a program of the Government, quarters and facilities are provided by appropriate authority of the Government to an individual other than an employee or member of a uniformed service, the rates and charges therefor shall be determined in accordance with this section. The amounts of payment of the rates and charges shall be credited to the Government as provided by law.
 
-(e) The head of an agency may not require an employee or member of a uniformed service to occupy quarters on a rental basis, unless the agency head determines that necessary service cannot be rendered, or that property of the Government cannot adequately be protected, otherwise.
+(e) The head of an agency may not require an employee or member of a uniformed service tooccupy quarters on a rental basis, unless the agency head determines that necessary service cannot be rendered, or that property of the Government cannot adequately be protected, otherwise.
 
 (f) The President may prescribe regulations governing the provision, occupancy, and availability of quarters and facilities, the determination of rates and charges therefor, and other related matters, necessary and appropriate to carry out this section. The head of each agency may prescribe regulations, not inconsistent with the regulations of the President, necessary and appropriate to carry out the functions of the agency head under this section.
 

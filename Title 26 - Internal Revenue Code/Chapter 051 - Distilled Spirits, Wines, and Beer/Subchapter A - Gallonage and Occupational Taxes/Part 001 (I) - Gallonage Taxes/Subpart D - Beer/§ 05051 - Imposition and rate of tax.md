@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A tax is hereby imposed on all beer brewed or produced, and removed for consumption or sale, within the United States, or imported into the United States. Except as provided in paragraph (2), the rate of such tax shall be $18for every barrel containing not more than 31 gallons and at a like rate for any other quantity or for fractional parts of a barrel.
+&emsp;A tax is hereby imposed on all beer brewed or produced, and removed for consumption or sale, within the United States, or imported into the United States. Except as provided in paragraph (2), the rate of such tax shall be $18 for every barrel containing not more than 31 gallons and at a like rate for any other quantity or for fractional parts of a barrel.
 
 #### (2) Reduced rate for certain domestic production
 
@@ -88,7 +88,7 @@ Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set o
 
 #### Floor Stocks Taxes on Distilled Spirits, Wine, and Beer
 
-Imposition of tax on beer, exception for small domestic producers, exception for certain small wholesale or retail dealers, credit against tax, liability for tax and method of payment, controlled groups, other laws applicable, and definitions, see section 11201(e) of Pub. L. 101–508, set out as a note under section 5001 of this title.
+Imposition of tax on beer, exception for small domestic producers, exception for certain small wholesale orretail dealers, credit against tax, liability for tax and method of payment, controlled groups, other laws applicable, and definitions, see section 11201(e) of Pub. L. 101–508, set out as a note under section 5001 of this title.
 
 #### Cross References
 

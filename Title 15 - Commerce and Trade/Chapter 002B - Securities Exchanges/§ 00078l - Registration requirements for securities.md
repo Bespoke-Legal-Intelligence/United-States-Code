@@ -72,7 +72,7 @@ Notwithstanding the foregoing provisions of this section, the Commission may by 
 
 &emsp;(iii) shall not permit a national securities exchange to extend unlisted trading privileges to such securities if any rule of such national securities exchange would unreasonably impair the ability of a dealer to solicit or effect transactions in such securities for its own account, or would unreasonably restrict competition among dealers in such securities or between such dealers acting in the capacity of market makers who are specialists and such dealers who are not specialists.
 
-(F) An exchange may continue to extend unlisted trading privileges in accordance with this paragraph only if the exchange and the subject security continue to satisfy the requirements for eligibility under this paragraph, including any rules and regulations issued by the Commission pursuant to this paragraph, except that unlisted trading privileges may continue with regard to securities which had been admitted onsuch exchange prior to July 1, 1964, notwithstanding the failure to satisfy such requirements. If unlisted trading privileges in a security are discontinued pursuant to this subparagraph, the exchange shall cease trading in that security, unless the exchange and the subject security thereafter satisfy the requirements of this paragraph and the rules issued hereunder.
+(F) An exchange may continue to extend unlisted trading privileges in accordance with this paragraph only if the exchange and the subject security continue to satisfy the requirements for eligibility under this paragraph, including any rules and regulations issued by the Commission pursuant to this paragraph, except that unlisted trading privileges may continue with regard to securities which had been admitted on such exchange prior to July 1, 1964, notwithstanding the failure to satisfy such requirements. If unlisted trading privileges in a security are discontinued pursuant to this subparagraph, the exchange shall cease trading in that security, unless the exchange and the subject security thereafter satisfy the requirements of this paragraph and the rules issued hereunder.
 
 (G) For purposes of this paragraph—
 
@@ -106,7 +106,7 @@ Notwithstanding the foregoing provisions of this section, the Commission may by 
 
 (5) In any proceeding under this subsection in which appropriate notice and opportunity for hearing are required, notice of not less than ten days to the applicant in such proceeding, to the issuer of the security involved, to the exchange which is seeking to continue or extend or has continued or extended unlisted trading privileges for such security, and to the exchange, if any, on which such security is listed and registered, shall be deemed adequate notice, and any broker or dealer who makes or creates a market for such security, and any other person having a bona fide interest in such proceeding, shall upon application be entitled to be heard.
 
-(6) Any security for which unlisted trading privileges are continued or extended pursuant to this subsection shall be deemed to be registered on a national securities exchange within the meaning of this chapter. The powers and duties of the Commission under this chapter shall be applicable to the rules of an exchange in respect of any such security. The Commission may, by such rules and regulations as it deems necessary or appropriate in the public interest or for theprotection of investors, either unconditionally or upon specified terms and conditions, or for stated periods, exempt such securities from the operation of any provision of section 78m, 78n, or 78p of this title.
+(6) Any security for which unlisted trading privileges are continued or extended pursuant to this subsection shall be deemed to be registered on a national securities exchange within the meaning of this chapter. The powers and duties of the Commission under this chapter shall be applicable to the rules of an exchange in respect of any such security. The Commission may, by such rules and regulations as it deems necessary or appropriate in the public interest or for the protection of investors, either unconditionally or upon specified terms and conditions, or for stated periods, exempt such securities from the operation of any provision of section 78m, 78n, or 78p of this title.
 
 #### (g) Registration of securities by issuer; exemptions
 
@@ -174,7 +174,7 @@ The Commission is authorized, by order, as it deems necessary or appropriate for
 
 #### (2) Emergency orders
 
-&emsp;(A) The Commission, in an emergency, may by order summarily take such action to alter, supplement, suspend, or impose requirementsor restrictions with respect to any matter or action subject to regulation by the Commission or a self-regulatory organization under this chapter, as the Commission determines is necessary in the public interest and for the protection of investors—
+&emsp;(A) The Commission, in an emergency, may by order summarily take such action to alter, supplement, suspend, or impose requirements or restrictions with respect to any matter or action subject to regulation by the Commission or a self-regulatory organization under this chapter, as the Commission determines is necessary in the public interest and for the protection of investors—
 
 &emsp;&emsp;(i) to maintain or restore fair and orderly securities markets (other than markets in exempted securities); or
 
@@ -188,7 +188,7 @@ The Commission is authorized, by order, as it deems necessary or appropriate for
 
 #### (4) Compliance with orders
 
-&emsp;No member of a national securities exchange, broker, or dealer shall make use of the mails or any means or instrumentality of interstate commerce to effect any transaction in, or to induce the purchase or sale of, any security in contravention of an order of the Commission under this subsection unless such order has been stayed, modified, or set aside as provided in paragraph (5) of this subsection or has ceased to be effective upon direction of the President as provided in paragraph (3).
+&emsp;No member of a national securities exchange, broker, or dealer shall make use of the mails or any means or instrumentality of interstate commerce to effect any transaction in, or to induce the purchase or sale of, any security in contravention of an order of the Commission under this subsection unless such order has been stayed, modified, or set aside asprovided in paragraph (5) of this subsection or has ceased to be effective upon direction of the President as provided in paragraph (3).
 
 #### (5) Limitations on review of orders
 
@@ -232,7 +232,7 @@ Subsec. (f)(3). Pub. L. 103–389, §2(b), substituted “Notwithstanding paragr
 
 1987—Subsec. (m). Pub. L. 100–181 struck out subsec. (m) which read as follows: “The Commission is authorized and directed to make a study and investigation of the practice of recording the ownership of securities in the records of the issuer in other than the name of the beneficial owner of such securities to determine (1) whether such practice is consistent with the purposes of this chapter, with particular reference to subsection (g) of this section and sections 78m, 78n, 78<i>o</i>(d), 78p, and 78q–1 of this title, and (2) whether steps can be taken to facilitate communications between issuers and the beneficial owners of their securities while at the same time retaining the benefits of such practice. The Commission shall report to the Congress its preliminary findings within six months after June 4, 1975, and its final conclusions and recommendations within one year of such date.”
 
-1986—Subsec. (g)(2)(H). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1986—Subsec. (g)(2)(H). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal RevenueCode of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1975—Subsec. (f)(1). Pub. L. 94–29, §8(1), added subpar. (C) and in provisions following subpar. (C), substituted “is based” for “was originally based” and “remains listed and registered on a national securities exchange” for “shall remain listed and registered on any other national securities exchange”.
 
@@ -270,7 +270,7 @@ Subsecs. (g) to (i). Pub. L. 88–467, §3(c)–(e), added subsecs. (g) to (i).
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–62 applicable as defense to any claim in administrative and judicial actions pending on or commenced after Dec. 8, 1995, that any person, security, interest, or participation of type described in Pub. L. 104–62 is subject to the Securities Act of 1933, the Securities Exchange Act of 1934, the InvestmentCompany Act of 1940, the Investment Advisers Act of 1940, or any State statute or regulation preempted as provided in section 80a–3a of this title, except as specifically provided in such statutes, see section 7 of Pub. L. 104–62, set out as a note under section 77c of this title.
+Amendment by Pub. L. 104–62 applicable as defense to any claim in administrative and judicial actions pending on or commenced after Dec. 8, 1995, that any person, security, interest, or participation of type described in Pub. L. 104–62 is subject to the Securities Act of 1933, the Securities Exchange Act of 1934, the Investment Company Act of 1940, the Investment Advisers Act of 1940, or any State statute or regulation preempted as provided in section 80a–3a of this title, except as specifically provided in such statutes, see section 7 of Pub. L. 104–62, set out as a note under section 77c of this title.
 
 #### Effective Date of 1975 Amendment
 

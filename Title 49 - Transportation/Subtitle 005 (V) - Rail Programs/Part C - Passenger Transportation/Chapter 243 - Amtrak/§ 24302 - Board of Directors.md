@@ -118,7 +118,7 @@ Oct. 30, 1970, Pub. L. 91–518, §303(b), (c), 84 Stat. 1331.
 
 45:543(b).
 
-In subsection (a)(1), before clause (A), the words “is composed of the following 9 directors, each of whom must be a citizen” are substituted for “consisting of nine individuals who are citizens” for consistency inthe revised title. The words “as follows” are omitted as surplus. In clause (A), the words “ex officio” are omitted as surplus. In clause (C)(ii), the words “chief executive officer of a State” are substituted for “Governor” for consistency in the revised title and with other titles of the United States Code. In clause (D), the text of 45:543(a)(1)(D)(i) and the words “after January 1, 1983” are omitted as executed.
+In subsection (a)(1), before clause (A), the words “is composed of the following 9 directors, each of whom must be a citizen” are substituted for “consisting of nine individuals who are citizens” for consistency in the revised title. The words “as follows” are omitted as surplus. In clause (A), the words “ex officio” are omitted as surplus. In clause (C)(ii), the words “chief executive officer of a State” are substituted for “Governor” for consistency in the revised title and with other titles of the United States Code. In clause (D), the text of 45:543(a)(1)(D)(i) and the words “after January 1, 1983” are omitted as executed.
 
 In subsection (a)(2), the words “by the President” and “registered as” are omitted as surplus.
 
@@ -132,7 +132,7 @@ In subsection (c), the words “direct or indirect” are omitted as surplus.
 
 In subsection (d), the word “performing” is substituted for “engaged in the actual performance of” to eliminate unnecessary words. The word “board” is added for clarity. The words “and powers” are added for consistency in the revised title and with other titles of the Code. The word “reasonable” is substituted for “which is reasonably required” to eliminate unnecessary words.
 
-In subsection (e), the words “the membership of” and “in the case of” are omitted as surplus. The words “occurring before the end of the term for which the predecessor of that individual was appointed is appointed for the remainder of the term” are substituted for “shall be appointed only for the unexpired term of the member he is appointed to succeed” for clarity and consistency in the revised title and with other titles of the Code. The words “under subsection (a)(1)(C)” the 2d time they appear are substituted for “paragraph (1)(B) of this subsection” in 45:543(a)(8) to correct an erroneous cross-reference.
+In subsection (e), the words “the membership of” and “in the case of” are omitted as surplus. The words “occurring before the end of the term for which the predecessor of that individual was appointed is appointed for the remainder of the term” are substituted for “shall be appointed only for the unexpired term of the member he is appointed to succeed” for clarity and consistency in the revised title and with other titles of the Code. The words “under subsection (a)(1)(C)” the 2dtime they appear are substituted for “paragraph (1)(B) of this subsection” in 45:543(a)(8) to correct an erroneous cross-reference.
 
 #### Amendments
 

@@ -1,6 +1,8 @@
 ### §2305. Memorial museum
 
-(a) Transfer or Purchase of Real Property in the District of Columbia.—For the purpose of establishing the memorial museum, and with the approval of the Secretary of the Interior in consultation with the Commission of Fine Arts and the National Capital Planning Commission—
+(a)
+
+Transfer or Purchase of Real Property in the District of Columbia.—For the purpose of establishing the memorial museum, and with the approval of the Secretary of the Interior in consultation with the Commission of Fine Arts and the National Capital Planning Commission—
 
 &emsp;(1) a department, agency, or instrumentality of the United States Government may transfer to the administrative jurisdiction of the United States Holocaust Memorial Council, any real property in the District of Columbia that is under the administrative jurisdiction of the department, agency, or instrumentality and that the Council considers suitable for the memorial museum; and
 

@@ -34,13 +34,13 @@ If through testing, inspection, investigation, or research carried out pursuant 
 
 #### (f) Correction of defects
 
-If any electronic product is found under subsection (a) or (e) of this section to fail to comply with an applicable standard prescribed under this part or to have a defect which relates to the safety of use of such product, and the notification specified in subsection (c) of this section is required to be furnished on account of such failure or defect, the manufacturer of such product shall (1) without charge, bring such product into conformity with such standard or remedy such defect and provide reimbursement for any expenses for transportation of such product incurred in connection with having such product brought into conformity or having such defect remedied, (2) replace such product with a like or equivalent product which complies with each applicable standard prescribed under this part and which has no defect relating to the safety of its use, or (3) make a refund of the cost of such product. The manufacturer shall take the action required by this subsection in such manner, and with respect to such persons, as the Secretary by regulations shall prescribe.
+If any electronic product is found under subsection (a) or (e) of this section to fail to comply with an applicable standard prescribed underthis part or to have a defect which relates to the safety of use of such product, and the notification specified in subsection (c) of this section is required to be furnished on account of such failure or defect, the manufacturer of such product shall (1) without charge, bring such product into conformity with such standard or remedy such defect and provide reimbursement for any expenses for transportation of such product incurred in connection with having such product brought into conformity or having such defect remedied, (2) replace such product with a like or equivalent product which complies with each applicable standard prescribed under this part and which has no defect relating to the safety of its use, or (3) make a refund of the cost of such product. The manufacturer shall take the action required by this subsection in such manner, and with respect to such persons, as the Secretary by regulations shall prescribe.
 
 #### (g) Effective date
 
 This section shall not apply to any electronic product that was manufactured before October 18, 1968.
 
-(June 25, 1938, ch. 675, §535, formerly act July 1, 1944, ch. 373, title III, §535, formerly §359, asadded Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1180; renumbered §535 and amended Pub. L. 101–629, §19(a)(1)(B), (2)(C), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §4(a)(2), Aug. 13, 1993, 107 Stat. 779.)
+(June 25, 1938, ch. 675, §535, formerly act July 1, 1944, ch. 373, title III, §535, formerly §359, as added Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1180; renumbered §535 and amended Pub. L. 101–629, §19(a)(1)(B), (2)(C), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §4(a)(2), Aug. 13, 1993, 107 Stat. 779.)
 
 #### Codification
 

@@ -12,7 +12,7 @@ For purposes of the tax imposed by section 2101, the value of the taxable estate
 
 #### (A) In general
 
-&emsp;&emsp;The amount of all bequests, legacies, devises, or transfers (including the interestwhich falls into any such bequest, legacy, devise, or transfer as a result of an irrevocable disclaimer of a bequest, legacy, devise, transfer, or power, if the disclaimer is made before the date prescribed for the filing of the estate tax return)—
+&emsp;&emsp;The amount of all bequests, legacies, devises, or transfers (including the interest which falls into any such bequest, legacy, devise, or transfer as a result of an irrevocable disclaimer of a bequest, legacy, devise, transfer, or power, if the disclaimer is made before the date prescribed for the filing of the estate tax return)—
 
 &emsp;&emsp;&emsp;(i) to or for the use of the United States, any State, any political subdivision thereof, or the District of Columbia, for exclusively public purposes;
 
@@ -116,7 +116,7 @@ Amendment by section 2001(c)(1)(F) of Pub. L. 94–455 applicable to estates of 
 
 #### Effective Date of 1969 Amendment
 
-Amendment by section 201(d)(2) of Pub. L. 91–172 applicable in the case of decedents dying after Dec. 31, 1969, with specified exceptions, see section 201(g)(4) of Pub. L. 91–172, set out as a note under section 170 of this title.
+Amendment by section 201(d)(2) of Pub. L. 91–172 applicable in the case of decedents dying after Dec. 31,1969, with specified exceptions, see section 201(g)(4) of Pub. L. 91–172, set out as a note under section 170 of this title.
 
 Amendment by section 201(d)(4)(B) of Pub. L. 91–172 applicable to gifts and transfers made after Dec. 31, 1969, see section 201(g)(4) of Pub. L. 91–172, set out as a note under section 170 of this title.
 
@@ -148,5 +148,5 @@ Liability of recipient of property over which decedent had power of appointment,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 303, 508, 2011, 2012, 2013, 2032, 2053, 2101, 2107, 2108, 2701, 4947, 4948, 7871 of this title; title 22 section 3307.
+This section is referred to in sections 170, 303, 508, 2011, 2012, 2013, 2032, 2053, 2101, 2107, 2108, 2701, 4947, 4948, 7871 of this title; title 22 section 3307.
 

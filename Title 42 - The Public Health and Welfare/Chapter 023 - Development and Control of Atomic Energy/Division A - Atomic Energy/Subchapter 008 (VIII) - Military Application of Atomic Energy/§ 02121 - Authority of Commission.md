@@ -22,7 +22,7 @@ The President from time to time may direct the Commission (1) to deliver such qu
 
 The President may authorize the Commission or the Department of Defense, with the assistance of the other, to cooperate with another nation and, notwithstanding the provisions of section 2077, 2092, or 2111 of this title, to transfer by sale, lease, or loan to that nation, in accordance with terms and conditions of a program approved by the President—
 
-&emsp;(1) nonnuclear parts of atomic weapons provided that such nation has made substantial progress in the development of atomic weapons, and other nonnuclear parts of atomic weapons systems involving Restricted Data provided that such transfer will not contribute significantly to that nation's atomic weapon design, development, or fabrication capability; for the purpose of improving that nation's state of training and operational readiness;
+&emsp;(1) nonnuclear parts of atomic weapons provided that such nation has made substantial progress in the development of atomic weapons, and other nonnuclear parts of atomic weapons systems involving Restricted Data provided that such transfer will not contribute significantly to that nation's atomic weapon design, development, or fabrication capability;for the purpose of improving that nation's state of training and operational readiness;
 
 &emsp;(2) utilization facilities for military applications; and
 
@@ -32,7 +32,7 @@ The President may authorize the Commission or the Department of Defense, with th
 
 > whenever the President determines that the proposed cooperation and each proposed transfer arrangement for the nonnuclear parts of atomic weapons and atomic weapons systems, utilization facilities or source, byproduct, or special nuclear material will promote and will not constitute an unreasonable risk to the common defense and security, while such other nation is participating with the United States pursuant to an international arrangement by substantial and material contributions to the mutual defense and security: <i>Provided, however</i>, That the cooperation is undertaken pursuant to an agreement entered into in accordance with section 2153 of this title: <i>And provided further</i>, That if an agreement for cooperation arranged pursuant to this subsection provides for transfer of utilization facilities for military applications the Commission, or the Department of Defense with respect to cooperation it has been authorized to undertake, may authorize any person to transfer such utilization facilities for military applications in accordance with the terms and conditions of this subsection and of the agreement for cooperation.
 
-(Aug. 1, 1946, ch. 724, title I, §91, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 936; amended Pub. L. 85–479, §1, July 2, 1958, 72 Stat. 276; Pub. L. 101–189, div. C, title XXXI, §3157, Nov. 29, 1989,103 Stat. 1684; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §91, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 936; amended Pub. L. 85–479, §1, July 2, 1958, 72 Stat. 276; Pub. L. 101–189, div. C, title XXXI, §3157, Nov. 29, 1989, 103 Stat. 1684; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Prior Provisions
 
@@ -52,9 +52,55 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 Authority vested in President by subsec. (c) of this section delegated to Secretary of Defense and Secretary of Energy, see section 2(a)(1) of Ex. Ord. No. 10841, as amended, set out as a note under section 2153 of this title.
 
+#### Nuclear Weapons Stockpile Life Extension Program
+
+Pub. L. 106–65, div. C, title XXXI, §3133, Oct. 5, 1999, 113 Stat. 926, provided that:
+
+“(a)
+
+Program Required.—The Secretary of Energy shall, in consultation with the Secretary of Defense, carry out a program to provide for the extension of the effective life of the weapons in the nuclear weapons stockpile.
+
+“(b)
+
+Administrative Responsibility for Program.—(1) The program under subsection (a) shall be carried out through the element of the Department of Energy with responsibility for defense programs.
+
+“(2) For each budget submitted by the President to Congress under section 1105 of title 31, United States Code, the amounts requested for the program shall be clearly identified in the budget justification materials submitted to Congress in support of that budget.
+
+“(c)
+
+Program Plan.—As part of the program under subsection (a), the Secretary shall develop a long-term plan for the extension of the effective life of the weapons in the nuclear weapons stockpile. The plan shall include the following:
+
+&emsp;“(1) Mechanisms to provide for the remanufacture, refurbishment, and modernization of each weapon design designated by the Secretary for inclusion in the enduring nuclear weapons stockpile as of the date of the enactment of this Act \[Oct. 5, 1999\].
+
+&emsp;“(2) Mechanisms to expedite the collection of information necessary for carrying out the program, including information relating to the aging of materials and components, new manufacturing techniques, and the replacement or substitution of materials.
+
+&emsp;“(3) Mechanisms to ensure the appropriate assignment of roles and missions for each nuclear weapons laboratory and production plant of the Department, including mechanisms for allocation of workload, mechanisms to ensure the carrying out of appropriate modernization activities, and mechanisms to ensure the retention of skilled personnel.
+
+&emsp;“(4) Mechanisms for allocating funds for activities under the program, including allocations of funds by weapon type and facility.
+
+&emsp;“(5) An identification of the funds needed, in the current fiscal year and in each of the next five fiscal years, to carry out the program.
+
+“(d)
+
+Annual Submittal of Plan.—(1) The Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives the plan developed under subsection (c) not later than January 1, 2000. The plan shall contain the maximum level of detail practicable.
+
+“(2) The Secretary shall submit to the committees referred to in paragraph (1) each year after 2000, at the same time as the submission of the budget for the fiscal year beginning in such year under section 1105 of title 31, United States Code, an update of the plan submitted under paragraph (1). Each update shall contain the same level of detail as the plan submitted under paragraph (1).
+
+“(e)
+
+GAO Assessment.—Not later than 30 days after the submission of the plan under subsection (d)(1) or any update of the plan under subsection (d)(2), the Comptroller General shall submit to the committees referred to in subsection (d)(1) an assessment of whether the program can be carried out under the plan or the update (as applicable)—
+
+&emsp;“(1) in the current fiscal year, given the budget for that fiscal year; and
+
+&emsp;“(2) in future fiscal years.
+
+“(f)
+
+Sense of Congress Regarding Funding of Program.—It is the sense of Congress that the President should include in each budget for a fiscal year submitted to Congress under section 1105 of title 31, United States Code, sufficient funds to carry out in the fiscal year covered by such budget the activities under the program under subsection (a) that are specified in the most current version of the plan for the program under this section.”
+
 #### Report on Stockpile Stewardship Criteria
 
-Pub. L. 105–261, div. C, title XXXI, §3158, Oct. 17, 1998, 112 Stat. 2257, provided that:
+Pub. L. 105–261, div. C, title XXXI, §3158, Oct. 17, 1998, 112 Stat. 2257, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, provided that:
 
 “(a)
 
@@ -66,7 +112,7 @@ Coordination With Secretary of Defense.—The Secretary of Energy, in developing
 
 “(c)
 
-Report.—Not later than March 1, 2000, the Secretary of Energy shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the efforts by the Department of Energy to develop the criteria required by subsection (a). The report shall include—
+Report.—Not later than March 1, 2000, the Secretary of Energy shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the efforts by the Department of Energy to develop the criteria required by subsection (a). The report shall include—
 
 &emsp;“(1) a description of the information needed to determine that the nuclear weapons stockpile is safe and reliable and the relationship of the science-based tools to the collection of that information; and
 
@@ -74,7 +120,7 @@ Report.—Not later than March 1, 2000, the Secretary of Energy shall submit to 
 
 #### Panel To Assess the Reliability, Safety, and Security of the United States Nuclear Stockpile
 
-Pub. L. 105–261, div. C, title XXXI, §3159, Oct. 17, 1998, 112 Stat. 2258, provided that:
+Pub. L. 105–261, div. C, title XXXI, §3159, Oct. 17, 1998, 112 Stat. 2258, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, provided that:
 
 “(a)
 
@@ -98,7 +144,7 @@ Duties of Panel.—Each year the panel shall review and assess the following:
 
 “(d)
 
-Report.—Not later than October 1 of each year, beginning with 1999, the panel shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report setting forth its findings and conclusions resulting from the review and assessment carried out for the year covered by the report. The report shall be submitted in classified and unclassified form.
+Report.—Not later than October 1 of each year, beginning with 1999, the panel shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report setting forth its findings and conclusions resulting from the review and assessment carried out for the year covered by the report. The report shall be submitted in classified and unclassified form.
 
 “(e)
 
@@ -230,7 +276,7 @@ Cost-Benefit Analysis.—(1) The Secretary shall include in the statements refer
 
 “(e)
 
-Report.—Not later than 45 days after the date of the enactment of this Act \[Feb. 10, 1996\], the Secretaryshall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the tritium production program established pursuant to subsection (a). The report shall include a specification of—
+Report.—Not later than 45 days after the date of the enactment of this Act \[Feb. 10, 1996\], the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the tritium production program established pursuant to subsection (a). The report shall include a specification of—
 
 &emsp;“(1) the planned expenditures of the Department during fiscal year 1996 for any of the alternative means for tritium production assessed under subsection (a)(2);
 
@@ -244,7 +290,7 @@ Tritium Targets.—Of the funds made available pursuant to subsection (b), not m
 
 #### Manufacturing Infrastructure for Refabrication and Certification of Nuclear Weapons Stockpile
 
-Pub. L. 104–106, div. C, title XXXI, §3137, Feb. 10, 1996, 110 Stat. 620, as amended by Pub. L. 104–201, div. C, title XXXI, §3132(a), (b), Sept. 23, 1996, 110 Stat. 2829, provided that:
+Pub. L. 104–106, div. C, title XXXI, §3137, Feb. 10, 1996, 110 Stat. 620, as amended by Pub. L. 104–201, div. C, titleXXXI, §3132(a), (b), Sept. 23, 1996, 110 Stat. 2829, provided that:
 
 “(a)
 
@@ -296,21 +342,15 @@ Plan and Report.—The Secretary shall develop a plan for the implementation of 
 
 #### Fellowship Program for Development of Skills Critical to Department of Energy Nuclear Weapons Complex
 
-Pub. L. 104–106, div. C, title XXXI, §3140, Feb. 10, 1996, 110 Stat. 621, provided that:
+Pub. L. 104–106, div. C, title XXXI, §3140, Feb. 10, 1996, 110 Stat. 621, as amended by Pub. L. 106–65, div. C, title XXXI, §3162(a)–(d), Oct. 5, 1999, 113 Stat. 943, provided that:
 
 “(a)
 
-In General.—The Secretary of Energy shall conduct a fellowship program for the development of skills critical to the ongoing mission of the Department of Energy nuclear weapons complex. Under the fellowship program, the Secretary shall—
-
-&emsp;“(1) provide educational assistance and research assistance to eligible individuals to facilitate the development by such individuals of skills critical to maintaining the ongoing mission of the Department of Energy nuclear weapons complex;
-
-&emsp;“(2) employ eligible individuals at the facilities described in subsection (c) in order to facilitate the development of such skills by these individuals; or
-
-&emsp;“(3) provide eligible individuals with the assistance and the employment.
+In General.—The Secretary of Energy shall conduct a fellowship program for the development of skills critical to the ongoing mission of the Department of Energy nuclear weapons complex. Under the fellowship program, the Secretary shall provide educational assistance and research assistance to eligible individuals to facilitate the development by such individuals of skills critical to maintaining the ongoing mission of the Department of Energy nuclear weapons complex.
 
 “(b)
 
-Eligible Individuals.—Individuals eligible for participation in the fellowship program are the following:
+Eligible Individuals.—Individuals eligible for participation in the fellowship program are United States citizens who are the following:
 
 &emsp;“(1) Students pursuing graduate degrees in fields of science or engineering that are related to nuclear weapons engineering or to the science and technology base of the Department of Energy.
 
@@ -328,6 +368,12 @@ Covered Facilities.—The Secretary shall carry out the fellowship program at or
 
 &emsp;“(4) The Savannah River Site, Aiken, South Carolina.
 
+&emsp;“(5) The Lawrence Livermore National Laboratory, Livermore, California.
+
+&emsp;“(6) The Los Alamos National Laboratory, Los Alamos, New Mexico.
+
+&emsp;“(7) The Sandia National Laboratories, Albuquerque, New Mexico, and Livermore, California.
+
 “(d)
 
 Administration.—The Secretary shall carry out the fellowship program at a facility referred to in subsection (c) through the stockpile manager of the facility.
@@ -338,7 +384,9 @@ Allocation of Funds.—The Secretary shall, in consultation with the Assistant S
 
 “(f)
 
-Funding.—Of the funds authorized to be appropriated to the Department of Energy for fiscal year 1996 under section 3101(b) \[110 Stat. 609\], $10,000,000 may be used for the purpose of carrying out the fellowship program under this section.”
+Agreement.—(1) The Secretary may allow an individual to participate in the program only if the individual signs an agreement described in paragraph (2).
+
+“(2) An agreement referred to in paragraph (1) shall be in writing, shall be signed by the participant, and shall include the participant's agreement to serve, after completion of the course of study for which the assistance was provided, as a full-time employee in a position in the Department of Energy for a period of time to be established by the Secretary of Energy of not less than one year, if such a position is offered to the participant.”
 
 #### Plan for Stewardship, Management, and Certification of Warheads in the Nuclear Weapons Stockpile
 
@@ -536,7 +584,7 @@ Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, provided that:
 
 #### Nuclear Test Ban Readiness Program
 
-Pub. L. 100–456, div. A, title XIV, §1436, Sept. 29, 1988, 102 Stat. 2075, as amended by Pub. L. 105–85, div. C, titleXXXI, §3152(i), Nov. 18, 1997, 111 Stat. 2042, provided that:
+Pub. L. 100–456, div. A, title XIV, §1436, Sept. 29, 1988, 102 Stat. 2075, as amended by Pub. L. 105–85, div. C, title XXXI, §3152(i), Nov. 18, 1997, 111 Stat. 2042, provided that:
 
 “(a)
 
@@ -548,7 +596,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;“(3) To achieve the agreement on verification measures, the United States and the Soviet Union have agreed to design and conduct a Joint Verification Experiment at the test sites of each country during the summer of 1988.
 
-&emsp;“(4) At the Moscow summit in May 1988, President Reagan and General Secretary Gorbachev reaffirmed their commitment to negotiations on ‘effective verification measures which will make it possible to ratify the Threshold Test Ban Treaty of 1974 and Peaceful Nuclear Explosions Treaty of 1976, and proceed to negotiating further intermediate limitations on nuclear testing leading to the ultimate objective of the complete cessation of nuclear testing as part of an effective disarmament process’.
+&emsp;“(4) At the Moscow summit in May 1988, President Reagan and General Secretary Gorbachev reaffirmed their commitment to negotiations on ‘effective verification measures which will make it possible to ratify the Threshold Test Ban Treaty of 1974 and Peaceful Nuclear Explosions Treaty of 1976, and proceed tonegotiating further intermediate limitations on nuclear testing leading to the ultimate objective of the complete cessation of nuclear testing as part of an effective disarmament process’.
 
 “(b)
 

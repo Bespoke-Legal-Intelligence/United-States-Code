@@ -62,7 +62,7 @@ Submission to fca.—On completion of the plan of merger pursuant to paragraph (
 
 &emsp;&emsp;“(B)
 
-Expedited review.—Not later than 30 days after the Farm Credit Administration receives the plan of merger, the Administration shall promptly review such plan and advise the special committee concerning any required changes that are necessary to the plan.
+Expedited review.—Not later than 30 days after the Farm Credit Administration receives theplan of merger, the Administration shall promptly review such plan and advise the special committee concerning any required changes that are necessary to the plan.
 
 &emsp;“(3)
 
@@ -134,7 +134,7 @@ National bank for cooperatives.—Any of the district banks whose stockholders d
 
 &emsp;&emsp;&emsp;“(ii)
 
-United bank for cooperatives.—Any of the district banks whose stockholders did not approve the plan of merger shall continue as district banks for cooperatives and shall continue to serve only the territory within the boundaries ofthe district that such banks served as of the date of the enactment of this section \[Jan. 6, 1988\].
+United bank for cooperatives.—Any of the district banks whose stockholders did not approve the plan of merger shall continue as district banks for cooperatives and shall continue to serve only the territory within the boundaries of the district that such banks served as of the date of the enactment of this section \[Jan. 6, 1988\].
 
 &emsp;&emsp;“(B)
 

@@ -58,7 +58,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1996—Subsec. (b)(1)(A). Pub. L. 104–316 struck out “the Comptroller General of the United States,” after “in consultation with”.
 
-Subsec. (d). Pub. L. 104–201 struck out subsec. (d) which provided that agencies ensure that their approved accommodation percentages be not less than specified percentages for fiscal years beginning 4 and 5years after Sept. 25, 1990, and that their percentages be not less than 90 percent for fiscal years beginning 6 years after Sept. 25, 1990, and thereafter.
+Subsec. (d). Pub. L. 104–201 struck out subsec. (d) which provided that agencies ensure that their approved accommodation percentages be not less than specified percentages for fiscal years beginning 4 and 5 years after Sept. 25, 1990, and that their percentages be not less than 90 percent for fiscal years beginning 6 years after Sept. 25, 1990, and thereafter.
 
 1994—Subsec. (b). Pub. L. 103–329, §634(b), amended subsec. (b) generally, revising and restructuring text.
 
@@ -82,11 +82,11 @@ Section 6(b) of Pub. L. 94–22 provided that regulations required under the fir
 
 #### Reports Regarding Foreign Travel
 
-Pub. L. 105–277, div. G, title XXV, §2505, Oct. 21, 1998, 112 Stat. 2681–837, provided that:
+Pub. L. 105–277, div. G, subdiv. B, title XXV, §2505, Oct. 21, 1998, 112 Stat. 2681–837, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §707\], Nov. 29, 1999, 113 Stat. 1536, 1501A–461, provided that:
 
 “(a)
 
-Prohibition.—Except as provided in subsection (e), none of the funds authorized to be appropriated by this division \[see Short Title note set out under section 6501 of Title 22, Foreign Relations and Intercourse\] for fiscal year 1999 may be used to pay for the expenses of foreign travel by an officer or employee of an Executive branch agency to attend an international conference, or for the routine services that a United States diplomatic mission or consular post provides in support of foreign travel by such an officer or employee to attend an international conference, unless that officer or employee has submitted a preliminary report with respect to that foreign travel in accordance with subsection (b), and has not previously failed to submit a final report with respect to foreign travel to attend an international conference required by subsection (c).
+Prohibition.—Except as provided in subsection (e), none of the funds authorized to be appropriated for the Department of State for fiscal year 2000 or 2001 may be used to pay for the expenses of foreign travel by an officer or employee of an Executive branch agency to attend an international conference, or for the routine services that a United States diplomatic mission or consular post provides in support of foreign travel by such an officer or employee to attend an international conference, unless that officer or employee has submitted a preliminary report with respect to that foreign travel in accordance with subsection (b), and has not previously failed to submit a final report with respect to foreign travel to attend an international conference required by subsection (c).
 
 “(b)
 
@@ -108,7 +108,7 @@ Final Reports.—A final report referred to in subsection (a) is a report by an 
 
 “(d)
 
-Report to Congress.—The Director shall submit a report not later than April 1, 1999, to the Committees on Foreign Relations and Appropriations of the Senate and the Committees on International Relations and Appropriations of the House of Representatives, setting forth with respect to each international conference for which reports described in subsection (c) were required to be submitted to the Director during the preceding six months—
+Report to Congress.—The Director shall submit a report on January 31 of the years 2000 and 2001 and July 31 of the years 2000 and 2001, to the Committees on Foreign Relations and Appropriations of the Senate and the Committees on International Relations and Appropriations of the House of Representatives, setting forth with respect to each international conference for which reports described in subsection (c) were required to be submitted to the Director during the preceding six months—
 
 &emsp;“(1) the names and employing agencies of all officers and employees of Executive branch agencies who attended the international conference;
 
@@ -156,7 +156,7 @@ Report.—Not later than 180 days after the date of enactment of this Act \[Oct.
 
 #### Reporting of Employee Relocation Expenses
 
-Pub. L. 105–61, title VI, §635, Oct. 10, 1997, 111 Stat. 1316, provided that: “No later than 30 days after the enactment of this Act \[Oct. 10, 1997\], the Director of the Office of Management and Budget shall require all Federal departments and agencies to report total obligations for the expenses of employee relocation. All obligations incident to employee relocation authorized under either chapter 57 of title 5, United States Code, or section 901 of the Foreign Service Act of 1980 (22 U.S.C. 4081; Public Law 96–465), shall be included. Such information for the past, current, and budget years shall be included in the agency budget submission to the President. The Director of the Office of Management and Budget shall prepare a table presenting obligations for the expenses of employee relocation for all departments and agencies, and such table shall be transmitted to Congress each year as part of the President's annual budget.”
+Pub. L. 105–61, title VI, §635, Oct. 10, 1997, 111 Stat. 1316, provided that: “No later than 30 days after the enactment of this Act \[Oct. 10, 1997\], the Director of the Office of Management and Budget shall require all Federal departments and agencies to report total obligations for the expenses of employee relocation. All obligations incident to employee relocation authorized under either chapter 57 of title 5, United States Code, or section 901 of the Foreign Service Act of 1980 (22U.S.C. 4081; Public Law 96–465), shall be included. Such information for the past, current, and budget years shall be included in the agency budget submission to the President. The Director of the Office of Management and Budget shall prepare a table presenting obligations for the expenses of employee relocation for all departments and agencies, and such table shall be transmitted to Congress each year as part of the President's annual budget.”
 
 #### GAO Audit of Agency Compliance
 

@@ -20,7 +20,7 @@ Lands located within the boundaries of a conservation system unit which are owne
 
 #### (c) Exchanges
 
-Lands located within the boundaries of a conservation system unit (other than National Forest Wilderness) which are owned by persons or entities other than those described in subsection (b) of this section shall not be acquired by the Secretary without the consent of the owner unless prior to final judgment on the value of the acquired land, the owner, after being offered appropriate land of similar characteristics and like value (if such land is available from public lands located outside the boundaries of any conservation system unit), chooses not to accept the exchange. In identifying public lands for exchange pursuant to this subsection, the Secretary shall consult with the Alaska Land Use Council.
+Lands located within the boundaries of a conservation system unit (other than National Forest Wilderness) which are owned by persons or entities other than those described in subsection\(b) of this section shall not be acquired by the Secretary without the consent of the owner unless prior to final judgment on the value of the acquired land, the owner, after being offered appropriate land of similar characteristics and like value (if such land is available from public lands located outside the boundaries of any conservation system unit), chooses not to accept the exchange. In identifying public lands for exchange pursuant to this subsection, the Secretary shall consult with the Alaska Land Use Council.
 
 #### (d) Improved property
 
@@ -66,9 +66,13 @@ The Secretary shall give prompt and careful consideration to any offer made by t
 
 This Act, referred to in subsecs. (a), (d), (e), (h), and (i)(1), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-Section 6(i) of the Alaska Statehood Act, referred to in subsec. (h)(1), is section 6(i) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
+Section 6(i) of the Alaska Statehood Act, referred to in subsec. (h)(1), is section 6(i) of Pub. L. 85–508, July 7,1958, 72 Stat. 339, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Amendments
 
 1988—Subsec. (h). Pub. L. 100–395 designated existing provisions as par. (1) and added par. (2).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 43 section 1636.
 

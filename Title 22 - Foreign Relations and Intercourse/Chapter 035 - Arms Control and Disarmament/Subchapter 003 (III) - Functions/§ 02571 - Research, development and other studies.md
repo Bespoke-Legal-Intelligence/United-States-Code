@@ -36,7 +36,7 @@ the economic and political consequences of arms control, nonproliferation, and d
 
 #### (i) Disarmament implications of foreign and national security policies of United States
 
-the arms control, nonproliferation, and disarmament implications of foreign and nationalsecurity policies of the United States with a view to a better understanding of the significance of such policies for the achievement of arms control, nonproliferation, and disarmament;
+the arms control, nonproliferation, and disarmament implications of foreign and national security policies of the United States with a view to a better understanding of the significance of such policies for the achievement of arms control, nonproliferation, and disarmament;
 
 #### (j) National security and foreign policy implications of disarmament
 
@@ -58,7 +58,7 @@ such related problems as the Secretary of State may determine to be in need of r
 
 #### Amendments
 
-1998—Pub. L. 105–277, §1223(6)(A)–(E), in introductory provisions, inserted “this subchapter in” after “powers in”, substituted “Secretary of State” for “Director” wherever appearing and “ensure” for “insure” in two places, struck out “in accordance with procedures established under section 2575 of this title” after “other Government agencies”, and substituted “The authority of the Secretary under this chapter with respect to research, development, and other studies concerning arms control, nonproliferation, and disarmament shall be limited to participation in the following:” for “The authority of the Director with respect to research, development, and other studies shall be limited to participation in the following insofar as they relate to arms control, nonproliferation, and disarmament:”.
+1998—Pub. L. 105–277, §1223(6)(A)–(E), in introductory provisions, inserted “this subchapter in” after “powers in”, substituted “Secretary of State” for “Director” wherever appearing and “ensure” for “insure” in two places, struck out “in accordance with procedures established under section 2575 of this title” after “other Government agencies”, and substituted “The authorityof the Secretary under this chapter with respect to research, development, and other studies concerning arms control, nonproliferation, and disarmament shall be limited to participation in the following:” for “The authority of the Director with respect to research, development, and other studies shall be limited to participation in the following insofar as they relate to arms control, nonproliferation, and disarmament:”.
 
 Subsec. (<i>l</i>). Pub. L. 105–277, §1223(6)(F), inserted “and” at end.
 
@@ -74,7 +74,7 @@ Subsec. (m). Pub. L. 105–277, §1223(6)(B), substituted “Secretary of State�
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
 
 #### Report on International Transfer of Conventional Arms
 

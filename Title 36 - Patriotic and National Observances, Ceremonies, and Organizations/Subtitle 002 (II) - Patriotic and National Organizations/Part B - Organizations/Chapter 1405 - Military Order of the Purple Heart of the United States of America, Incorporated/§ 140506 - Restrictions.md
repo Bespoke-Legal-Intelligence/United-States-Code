@@ -38,13 +38,19 @@ Aug. 26, 1958, Pub. L. 85–761, §§9, 10, 12, 72 Stat. 858.
 
 36:830.
 
+&nbsp;
+
 140506(c)
 
 36:829(a).
 
+&nbsp;
+
 140506(d)
 
 36:829(b).
+
+&nbsp;
 
 In subsection (a), the words “any shares of” are omitted as unnecessary.
 

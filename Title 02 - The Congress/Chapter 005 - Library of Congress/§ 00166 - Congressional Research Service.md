@@ -22,7 +22,7 @@ It is the policy of Congress that—
 
 #### (c) Appointment and compensation of Director, Deputy Director, and other necessary personnel; minimum grade for Senior Specialists; placement in grades GS–16, 17, and 18 of Specialists and Senior Specialists; appointment without regard to civil service laws and political affiliation and on basis of fitness to perform duties
 
-(1) After consultation with the Joint Committee on the Library, the Librarian of Congress shall appoint the Director of the Congressional Research Service. The basic pay of the Director shall be at a per annum rate equal to the rate of basic pay provided for level V of the Executive Schedule contained in section 5316 of title 5.
+(1) After consultation with the Joint Committee on the Library, the Librarian of Congress shall appoint the Director of the Congressional Research Service. The basic pay of the Director shall be at a per annum rate equal to the rate of basic pay provided for level III of the Executive Schedule under section 5314 of title 5.
 
 (2) The Librarian of Congress, upon the recommendation of the Director, shall appoint a Deputy Director of the Congressional Research Service and all other necessary personnel thereof. The basic pay of the Deputy Director shall be fixed in accordance with chapter 51 (relating to classification) and subchapter III (relating to General Schedule pay rates) of chapter 53 of title 5, but without regard to section 5108(a) of such title. The basic pay of all other necessary personnel of the Congressional Research Service shall be fixed in accordance with chapter 51 (relating to classification) and subchapter III (relating to General Schedule pay rates) of chapter 53 of title 5, except that—
 
@@ -50,7 +50,7 @@ It shall be the duty of the Congressional Research Service, without partisan bia
 
 &emsp;(3) to make available to each committee of the Senate and House of Representatives and each joint committee of the two Houses, at the opening of a new Congress, a list of subjects and policy areas which the committee might profitably analyze in depth;
 
-&emsp;(4) upon request, or upon its own initiative in anticipation of requests, to collect, classify, and analyze in the form of studies, reports, compilations, digests, bulletins, indexes, translations, and otherwise, data having a bearing on legislation, and to make such data available and serviceable to committees and Members of the Senate and House of Representatives and joint committees of Congress;
+&emsp;(4) upon request, or upon its own initiative in anticipation of requests, to collect, classify, and analyze in the form of studies, reports,compilations, digests, bulletins, indexes, translations, and otherwise, data having a bearing on legislation, and to make such data available and serviceable to committees and Members of the Senate and House of Representatives and joint committees of Congress;
 
 &emsp;(5) upon request, or upon its own initiative in anticipation of requests, to prepare and provide information, research, and reference materials and services to committees and Members of the Senate and House of Representatives and joint committees of Congress to assist them in their legislative and representative functions;
 
@@ -150,13 +150,15 @@ The Director of the Congressional Research Service shall prepare and file with t
 
 There are hereby authorized to be appropriated to the Congressional Research Service each fiscal year such sums as may be necessary to carry on the work of the Service.
 
-(Aug. 2, 1946, ch. 753, title II, §203(a), (b), 60 Stat. 836; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 91–510, title III, §321(a), Oct. 26, 1970, 84 Stat. 1181; Pub. L. 99–190, §133, Dec. 19, 1985, 99 Stat. 1322.)
+(Aug. 2, 1946, ch. 753, title II, §203, 60 Stat. 836; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 91–510, title III, §321(a), Oct. 26, 1970, 84 Stat. 1181; Pub. L. 99–190, §133, Dec. 19, 1985, 99 Stat. 1322; Pub. L. 106–57, title II, §209(b), Sept. 29, 1999, 113 Stat. 424.)
 
 #### References in Text
 
 The civil service laws, referred to in subsec. (c)(3), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of that title.
 
 #### Amendments
+
+1999—Subsec. (c)(1). Pub. L. 106–57 substituted second sentence for former second sentence which read as follows: “The basic pay of the Director shall be at a per annum rate equal to the rate of basic pay provided for level V of the Executive Schedule contained in section 5316 of title 5.”
 
 1985—Subsec. (g). Pub. L. 99–190 amended subsec. (g) generally. Prior to amendment subsec. (g) read as follows: “In order to facilitate the study, consideration, evaluation, and determination by the Congress of the budget requirements of the Congressional Research Service for each fiscal year, the Librarian of Congress shall receive from the Director and submit, for inclusion in the Budget of the United States Government, the budget estimates of the Congressional Research Service which shall be prepared separately by the Director in detail for each fiscal year as a separate item of the budget estimates of the Library of Congress for such fiscal year.”
 
@@ -168,13 +170,17 @@ Subsec. (c). Pub. L. 91–510 incorporated in provisions added as subsec. (c) pr
 
 Subsec. (d). Pub. L. 91–510 incorporated in provisions added as subsec. (d) second sentence, cls. (1) to (3), of former subsec. (a), and in revising the provision, added pars. (2), (3), (5), (7), and (8), substituted “Congressional Research Service” for “Legislative Reference Service”, reenacted introductory “without partisan bias” provision of former cl. (2), incorporated in par. (1) former cl. (1), substituting “proposals within that committee's jurisdiction” for “proposals pending before it” and “otherwise to assist in furnishing a basis for the proper evaluation and determination of legislative proposals and recommendations generally” for “otherwise to assist in furnishing a basis for the proper determination of measures before the committee”, added subpars. (A) to (C), provision for assistance by providing other research and analytical services, authorization for production of books, records, etc., compliance with request for such production, and maintenance of liaison with all committees, incorporated in par. (4) former cl. (2), substituting “collect” for “gather” and including analysis in form of studies and reports, and making data available to joint committees, and incorporated in par. (6) former cl. (3), omitting provision respecting summaries and digests of public hearings before committees of Congress.
 
-Subsec. (e). Pub. L. 91–510 incorporated in provisions added as subsec. (e) provisions of former subsec. (b)(2), and in revising them, in introductory text, substituted “Congressional Research Service” for “Legislative Reference Service” and authorized appointments “upon the recommendation of the Director”, including Specialists; provided numerical item designations for broad fields listed in prior paragraph in run-on form, added fields of national defense, science, technology, urban affairs, and other broad fields as deemed appropriate by the Director in items (14), (16), (19), (21), and (23), and combined separate fields of “full employment” and “labor” in “labor and employment” in item (11); and in last sentence, included Senior Specialists and substituted “such other employees of the Congressional Research Service” for “such other members of the staff” and “special work with the committees and Members of the Senate and House of Representatives and the joint committees of Congress for any of the purposes of subsection (d) of this section” for “special work with the appropriate committees of Congress for any of the purposes set out in subsection (a)(1) of this section”.
+Subsec. (e). Pub. L. 91–510 incorporated in provisions added as subsec. (e) provisions of former subsec. (b)(2), and in revising them, in introductory text, substituted “Congressional Research Service” for “Legislative Reference Service” and authorized appointments “upon the recommendation of the Director”, including Specialists; provided numerical item designations for broad fields listed in prior paragraph in run-on form, added fields of national defense, science, technology, urban affairs, and other broad fields as deemed appropriate by the Director in items (14), (16), (19), (21), and (23), and combined separate fields of “full employment” and “labor” in “labor and employment” in item (11); and in last sentence, included Senior Specialists and substituted “such other employees of the Congressional Research Service” for “such other members of thestaff” and “special work with the committees and Members of the Senate and House of Representatives and the joint committees of Congress for any of the purposes of subsection (d) of this section” for “special work with the appropriate committees of Congress for any of the purposes set out in subsection (a)(1) of this section”.
 
 Subsecs. (f) to (i). Pub. L. 91–510 added subsecs. (f) to (i).
 
 Subsec. (j). Pub. L. 91–510 incorporated in provisions added as subsec. (j) appropriations authorization of section 203(c) of Act Aug. 2, 1946, which had also provided $550,000, $650,000, and $750,000, for fiscal years ending June 30, 1947, 1948, and 1949, respectively.
 
 1949—Subsec. (b)(1). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–57 applicable with respect to the first pay period which begins on or after Sept. 29, 1999 and each subsequent pay period, see section 209(c) of Pub. L. 106–57, set out as a note under section 136a–2 of this title.
 
 #### Effective Date of 1970 Amendment
 
@@ -194,9 +200,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Compensation of Director of Congressional Research Service
 
-Pub. L. 105–275, title I, Oct. 21, 1998, 112 Stat. 2444, provided in part: “That, notwithstanding any other provision of law, the compensation of the Director of the Congressional Research Service, Library of Congress, shall be at an annual rate which is equal to the annual rate of basic pay for positions at level IV of the Executive Schedule under section 5315 of title 5, United States Code.”
-
-Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 105–275, title I, Oct. 21, 1998, 112 Stat. 2444, which provided that the compensation of the Director of the Congressional Research Service, Library of Congress, was to be at an annual rate equal to the annual rate of basic pay for positions at level IV of the Executive Schedule under section 5315 of title 5, was from the Legislative Branch Appropriations Act, 1999, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 105–55, title I, Oct. 7, 1997, 111 Stat. 1190.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General.—Not more than $18,000,000 may be appropriated to the Secretary of Transportation for fiscal year 1993, $18,000,000 for fiscal year 1994, $18,540,000 for fiscal year 1995, $19,100,000 for fiscal year 1996, and $19,670,000 for fiscal year 1997 to carry out this chapter (except sections 5107(e), 5108(g)(2), 5113, 5115, 5116, and 5119).
+General.—Not more than $18,000,000 may be appropriated to the Secretary of Transportation for fiscal year 1993, $18,000,000 for fiscal year 1994, $18,540,000 for fiscal year 1995, $19,100,000 for fiscal year 1996, and $19,670,000 for fiscal year 1997 to carry out this chapter (exceptsections 5107(e), 5108(g)(2), 5113, 5115, 5116, and 5119).
 
 (b)
 

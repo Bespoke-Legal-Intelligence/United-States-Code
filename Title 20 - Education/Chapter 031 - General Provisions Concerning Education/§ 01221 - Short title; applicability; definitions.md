@@ -36,7 +36,7 @@ Nothing in this chapter shall be construed to affect the applicability of title 
 
 #### References in Text
 
-The Department of Education Organization Act, referred to in subsec. (c)(1), is Pub. L. 96–88, Oct. 17, 1979,93 Stat. 668, as amended, which is classified principally to chapter 48 (§3401 et seq.) of this title. For the effective date of the Act, see Effective Date note set out under section 3401 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
+The Department of Education Organization Act, referred to in subsec. (c)(1), is Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 668, as amended, which is classified principally to chapter 48 (§3401 et seq.) of this title. For the effective date of the Act, see Effective Date note set out under section 3401 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (d), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 

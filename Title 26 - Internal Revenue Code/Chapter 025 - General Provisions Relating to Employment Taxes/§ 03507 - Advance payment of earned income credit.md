@@ -28,7 +28,7 @@ For purposes of this title, an earned income eligibility certificate is a statem
 
 &emsp;&emsp;(B) in accordance with tables prescribed by the Secretary.
 
-> &emsp;In the case of an employee who is a member of the Armed Forces of the United States, the earned income advance amount shall be determined by taking into account such employee's earned income as determined for purposes of section 32.
+> &emsp;In the case of an employee who is a member of the Armed Forces of the United States, theearned income advance amount shall be determined by taking into account such employee's earned income as determined for purposes of section 32.
 
 #### (2) Advance amount tables
 
@@ -64,7 +64,7 @@ For purposes of this title, an earned income eligibility certificate is a statem
 
 #### (2) Advance payments exceed taxes due
 
-&emsp;In the case of any employer, if for any payroll period the aggregate amount of earned income advance payments exceeds the sum of the amounts referred to in paragraph (1)(B), each such advance payment shall be reduced by an amount which bears the same ratio to such excess as such advance payment bears tothe aggregate amount of all such advance payments.
+&emsp;In the case of any employer, if for any payroll period the aggregate amount of earned income advance payments exceeds the sum of the amounts referred to in paragraph (1)(B), each such advance payment shall be reduced by an amount which bears the same ratio to such excess as such advance payment bears to the aggregate amount of all such advance payments.
 
 #### (3) Employer may make full advance payments
 
@@ -134,7 +134,7 @@ The Internal Revenue Service shall take such steps as may be appropriate to ensu
 
 Subsec. (c)(2)(B)(i), (ii). Pub. L. 103–66, §13131(d)(5), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
-“(i) of not more than the credit percentage under section 32(b)(1) (without regard to subparagraph (D) thereof) for an eligible individual with 1 qualifying child and with earned income not in excess of the amount ofearned income taken into account under section 32(a)(1), which
+“(i) of not more than the credit percentage under section 32(b)(1) (without regard to subparagraph (D) thereof) for an eligible individual with 1 qualifying child and with earned income not in excess of the amount of earned income taken into account under section 32(a)(1), which
 
 “(ii) phases out between the amount of earned income at which the phaseout begins under section 32(b)(1)(B)(ii) and the amount of income at which the credit under section 32(a)(1) phases out for an eligible individual with 1 qualifying child, or”.
 

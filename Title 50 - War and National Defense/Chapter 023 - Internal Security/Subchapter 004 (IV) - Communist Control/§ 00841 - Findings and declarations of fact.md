@@ -14,7 +14,7 @@ Section 1 of act Aug. 24, 1954, provided: “That this Act \[enacting this subch
 
 #### Separability
 
-Section 12 of act Aug. 24, 1954, provided: “If any provision of this title \[see Short Title note above\] or the application thereof to any person or circumstances is held invalid, the remainder of the title and the applicationof such provisions to other persons or circumstances, shall not be affected thereby.”
+Section 12 of act Aug. 24, 1954, provided: “If any provision of this title \[see Short Title note above\] or the application thereof to any person or circumstances is held invalid, the remainder of the title and the application of such provisions to other persons or circumstances, shall not be affected thereby.”
 
 The use of the word “Act”, in place of the word “title” as used in section 12 of act of Aug. 24, 1954, quoted above, was probably intended, since that act is not divided into titles.
 

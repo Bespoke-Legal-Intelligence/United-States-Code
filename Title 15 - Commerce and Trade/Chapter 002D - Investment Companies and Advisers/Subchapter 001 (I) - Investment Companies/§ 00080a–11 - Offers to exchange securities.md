@@ -16,7 +16,7 @@ The provisions of subsection (a) of this section shall be applicable, irrespecti
 
 #### Amendments
 
-1970—Subsec. (b). Pub. L. 91–547 struck out item (1) designation of existing provisions and item (2) provision for nonapplication of this section to any offer made pursuant to the right of conversion, at the option of the holder, from one class or series into another class or series of securities issued by the same company upon such terms as are specified in the charter, certificate of incorporation, articles of association, by-laws,or trust indenture subject to which the securities to be converted were issued or are to be issued.
+1970—Subsec. (b). Pub. L. 91–547 struck out item (1) designation of existing provisions and item (2) provision for nonapplication of this section to any offer made pursuant to the right of conversion, at the option of the holder, from one class or series into another class or series of securities issued by the same company upon such terms as are specified in the charter, certificate of incorporation, articles of association, by-laws, or trust indenture subject to which the securities to be converted were issued or are to be issued.
 
 #### Effective Date of 1970 Amendment
 

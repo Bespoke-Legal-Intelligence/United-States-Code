@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purpose of carrying out the powers and duties assigned to the Director under thissubchapter, the Director may exercise the administrative authorities provided under this section.
+For the purpose of carrying out the powers and duties assigned to the Director under this subchapter, the Director may exercise the administrative authorities provided under this section.
 
 #### (b) Advisory personnel
 
@@ -22,7 +22,7 @@ The Director may—
 
 #### (d) Gifts
 
-Notwithstanding any other provision of law, the Director may accept gifts of supplies, equipment, and facilities and may use or distribute such gifts for emergency preparedness purposes in accordance with the provisions of this subchapter.
+Notwithstanding any other provision of law, the Director may accept gifts of supplies, equipment, and facilities and may use or distribute such gifts for emergency preparedness purposesin accordance with the provisions of this subchapter.
 
 #### (e) Reimbursement
 

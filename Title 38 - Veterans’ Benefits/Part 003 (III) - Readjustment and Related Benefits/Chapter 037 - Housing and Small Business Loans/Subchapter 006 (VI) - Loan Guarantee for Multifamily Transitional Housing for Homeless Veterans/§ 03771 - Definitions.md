@@ -14,3 +14,7 @@ For purposes of this subchapter:
 
 Subchapter effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as an Effective Date of 1998 Amendment note under section 2106 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4111 of this title.
+

@@ -26,7 +26,7 @@ Every individual who—
 
 #### (c) Coverage period
 
-(1) The period (in this subsection referred to as a “coverage period”) during which an individualis entitled to benefits under the insurance program under this part shall begin on whichever of the following is the latest:
+(1) The period (in this subsection referred to as a “coverage period”) during which an individual is entitled to benefits under the insurance program under this part shall begin on whichever of the following is the latest:
 
 &emsp;(A) In the case of an individual who enrolls under subsection (b)(2) of this section before the month in which the individual first satisfies subsection (a) of this section, the first day of such month.
 

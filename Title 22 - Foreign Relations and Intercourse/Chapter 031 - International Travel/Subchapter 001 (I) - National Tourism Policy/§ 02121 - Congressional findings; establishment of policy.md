@@ -62,6 +62,10 @@ Subsec. (b)(2) to (16). Pub. L. 102–372, §5(2), (3), added pars. (2) to (5) a
 
 Section 6 of Pub. L. 97–63 provided that: “The amendments made by this Act \[see Short Title of 1981 Amendment note below\] shall take effect October 1, 1981.”
 
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–288, §1, Oct. 11, 1996, 110 Stat. 3402, provided that: “This Act \[enacting sections 2124 and 2141 to 2141f of this title, amending sections 2122 and 2124c of this title and section 4727 of Title 15, Commerce and Trade, and repealing sections 2123 to 2123d, 2124 to 2124b, and 2126 to 2129 of this title\] may be cited as the ‘United States National Tourism Organization Act of 1996’.”
+
 #### Short Title of 1992 Amendment
 
 Section 1(a) of Pub. L. 102–372 provided that: “This Act \[enacting sections 2123a to 2123d and 2124c of this title, amending this section and sections 2122, 2123, 2124 to 2124b, and 2126 of this title, repealing sections 2123a and 2123b of this title, and enacting provisions set out as notes under this section and sections 2122 and 2124 of this title\] may be cited as the ‘Tourism Policy and Export Promotion Act of 1992’.”

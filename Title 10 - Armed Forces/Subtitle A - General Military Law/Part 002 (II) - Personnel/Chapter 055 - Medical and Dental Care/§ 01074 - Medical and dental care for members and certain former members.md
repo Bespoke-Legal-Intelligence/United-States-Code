@@ -10,7 +10,7 @@
 
 (B) The Secretary of Defense shall enter into arrangements with contractors under the TRICARE program or with other appropriate contractors for the timely and efficient processing of claims under this subsection.
 
-(3)(A) The Secretary of Defense may not require a member of the armed forces described in subparagraph (B) to receive routine primary medical care at a military medical treatment facility.
+(3)(A) The Secretary of Defense may not require a member of the armed forces described in subparagraph (B) to receive routine primarymedical care at a military medical treatment facility.
 
 (B) A member referred to in subparagraph (A) is a member of the armed forces on active duty who is entitled to medical care under this subsection and who—
 
@@ -52,7 +52,7 @@ June 7, 1956, ch. 374, §§102(a)(3) (as applicable to §301(b)), 301(a), (b), 7
 
 In subsection (a), words of entitlement are substituted for the correlative words of obligation.
 
-In subsection (b), the words “active duty (other than for training)” are substituted for the words “active duty as defined in section 901(b) of Title 50” to reflect section 101(22) of this title. The words “and dental” are inserted before the word “staff” for clarity. The words“retirement” and “retirement pay” are omitted as surplusage.
+In subsection (b), the words “active duty (other than for training)” are substituted for the words “active duty as defined in section 901(b) of Title 50” to reflect section 101(22) of this title. The words “and dental” are inserted before the word “staff” for clarity. The words “retirement” and “retirement pay” are omitted as surplusage.
 
 #### Prior Provisions
 
@@ -117,6 +117,26 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 #### Delegation of Functions
 
 Authority of President under subsec. (b) to approve uniform rates of reimbursement for care provided in facilities operated by Secretary of Veterans Affairs delegated to Secretary of Veterans Affairs, see section 7(a) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+
+#### Health Care at Former Uniformed Services Treatment Facilities for Active Duty Members Stationed at Certain Remote Locations
+
+Pub. L. 106–65, div. A, title VII, §706, Oct. 5, 1999, 113 Stat. 684, provided that:
+
+“(a)
+
+Authority.—Health care may be furnished by a designated provider pursuant to any contract entered into by the designated provider under section 722(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 10 U.S.C. 1073 note) to eligible members who reside within the service area of the designated provider.
+
+“(b)
+
+Eligibility.—A member of the Armed Forces is eligible for health care under subsection (a) if the member is a member described in section 731(c) of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 1811; 10 U.S.C. 1074 note).
+
+“(c)
+
+Applicable Policies.—In furnishing health care to an eligible member under subsection (a), a designated provider shall adhere to the Department of Defense policies applicable to the furnishing of care under the TRICARE Prime Remote program, including coordinating with uniformed services medical authorities for hospitalizations and all referrals for specialty care.
+
+“(d)
+
+Reimbursement Rates.—The Secretary of Defense, in consultation with the designated providers, shall prescribe reimbursement rates for care furnished to eligible members under subsection (a). The rates prescribed for health care may not exceed the amounts allowable under the TRICARE Standard plan for the same care.”
 
 #### Temporary Authority for Managed Care Expansion to Members on Active Duty at Certain Remote Locations; “TRICARE Program” and “TRICARE Prime Plan” Defined
 
@@ -256,7 +276,7 @@ Findings.—Congress finds the following:
 
 “(b)
 
-Establishment of Program.—The Secretary of Defense and the Secretary of Veterans Affairs, acting jointly, shall establish a program of cooperative clinical trials at multiple sites to assess the effectiveness ofprotocols for treating Persian Gulf veterans who suffer from ill-defined or undiagnosed conditions. Such protocols shall include a multidisciplinary treatment model, of which cognitive behavioral therapy is a component.
+Establishment of Program.—The Secretary of Defense and the Secretary of Veterans Affairs, acting jointly, shall establish a program of cooperative clinical trials at multiple sites to assess the effectiveness of protocols for treating Persian Gulf veterans who suffer from ill-defined or undiagnosed conditions. Such protocols shall include a multidisciplinary treatment model, of which cognitive behavioral therapy is a component.
 
 “(c)
 
@@ -324,7 +344,7 @@ Revision of the Physical Evaluation Board Criteria.—(1) The Secretary of Defen
 
 “(f)
 
-Review of Records and Rerating of Previously Discharged Gulf War Veterans.—(1) The Secretary of Defense, in consultation with the Secretary of VeteransAffairs, shall ensure that a review is made of the health and personnel records of each Persian Gulf veteran who before the date of the enactment of this Act \[Oct. 5, 1994\] was discharged from active duty, or was medically retired, as a result of a Physical Evaluation Board process.
+Review of Records and Rerating of Previously Discharged Gulf War Veterans.—(1) The Secretary of Defense, in consultation with the Secretary of Veterans Affairs, shall ensure that a review is made of the health and personnel records of each Persian Gulf veteran who before the date of the enactment of this Act \[Oct. 5, 1994\] was discharged from active duty, or was medically retired, as a result of a Physical Evaluation Board process.
 
 “(2) The review under paragraph (1) shall be carried out to ensure that former Persian Gulf veterans who may have been suffering from a Persian Gulf-related illness at the time of discharge or retirement from active duty as a result of the Physical Evaluation Board process are reevaluated in accordance with the criteria established under subsection (e)(1) and, if appropriate, are rerated.
 

@@ -198,7 +198,11 @@ The Secretary may not use any of the assistance available under this section dur
 
 The Secretary shall coordinate the allocation of assistance under this section with assistance made available under section 8(v) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(v)\] and section 1701z–11 of this title to enhance the cost effectiveness of the Federal response to troubled multifamily housing.
 
-(Pub. L. 95–557, title II, §201, Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–153, title II, §§205(a), 211(c), Dec. 21, 1979, 93 Stat. 1108, 1110; Pub. L. 96–399, title II, §204(a), Oct. 8, 1980, 94 Stat. 1629; Pub. L. 97–35, title III, §§321(f)(1), (2), 329C, Aug. 13, 1981, 95 Stat. 399, 400, 409; Pub. L. 98–181, title II, §217(a), (b), Nov. 30, 1983, 97 Stat. 1186; Pub. L.98–479, title II, §204(n)(1), (2), Oct. 17, 1984, 98 Stat. 2234; Pub. L. 100–242, title I, §§185, 186(b), Feb. 5, 1988, 101 Stat. 1873, 1877; Pub. L. 100–628, title X, §1011(a), Nov. 7, 1988, 102 Stat. 3268; Pub. L. 101–235, title I, §109(c), title II, §203(a)(2), Dec. 15, 1989, 103 Stat. 2011, 2037; Pub. L. 101–625, title V, §578(b), (c), Nov. 28, 1990, 104 Stat. 4244, 4245; Pub. L. 102–550, title IV, §§405, 406, 408(a), Oct. 28, 1992, 106 Stat. 3776, 3778; Pub. L. 103–233, title I, §103(b), Apr. 11, 1994, 108 Stat. 359; Pub. L. 105–276, title V, §550(g), Oct. 21, 1998, 112 Stat. 2610.)
+#### (p) Enhanced voucher eligibility
+
+Notwithstanding any other provision of law, any project that receives or has received assistance under this section and which is the subject of a transaction under which the project is preserved as affordable housing, as determined by the Secretary, shall be considered eligible low-income housing under section 229 of the Low-Income Housing Preservation and Resident Homeownership Act of 1990 (12 U.S.C. 4119) for purposes of eligibility of residents of such project for enhanced voucher assistance provided under section 8(t) of the United States Housing Act of 1937 (42 U.S.C. 1437f(t)) (pursuant to section 223(f) of the Low-Income Housing Preservation and Resident Homeownership Act of 1990 (12 U.S.C. 4113(f))).
+
+(Pub. L. 95–557, title II, §201, Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–153, title II, §§205(a), 211(c), Dec. 21, 1979, 93 Stat. 1108, 1110; Pub. L. 96–399, title II, §204(a), Oct. 8, 1980, 94 Stat. 1629; Pub. L. 97–35, title III, §§321(f)(1), (2), 329C, Aug. 13, 1981, 95 Stat. 399, 400, 409; Pub. L. 98–181, title II, §217(a), (b), Nov. 30, 1983, 97 Stat. 1186; Pub. L. 98–479, title II, §204(n)(1), (2), Oct. 17, 1984, 98 Stat. 2234; Pub. L. 100–242, title I, §§185, 186(b), Feb. 5, 1988, 101 Stat. 1873, 1877; Pub. L. 100–628, title X, §1011(a), Nov. 7, 1988, 102 Stat. 3268; Pub. L. 101–235, title I, §109(c), title II, §203(a)(2), Dec. 15, 1989, 103 Stat. 2011, 2037; Pub. L. 101–625, title V, §578(b), (c), Nov. 28, 1990, 104 Stat. 4244, 4245; Pub. L. 102–550, title IV, §§405, 406, 408(a), Oct. 28, 1992, 106 Stat. 3776, 3778; Pub. L. 103–233, title I, §103(b), Apr. 11, 1994, 108 Stat. 359; Pub. L. 105–276, title V, §550(g), Oct. 21, 1998, 112 Stat. 2610; Pub. L. 106–74, title V, §536, Oct. 20, 1999, 113 Stat. 1121.)
 
 #### References in Text
 
@@ -214,7 +218,7 @@ Section 23 of the United States Housing Act of 1937, referred to in subsec. (c)(
 
 Public Law 100–4–4 (102 Stat. 1018), referred to in subsec. (j)(1), probably means Pub. L. 100–404, Aug. 19, 1988, 102 Stat. 1014, known as the Department of Housing and Urban Development—Independent Agencies Appropriations Act, 1989. Provisions appearing on 102 Stat. 1018 of Pub. L. 100–404 relating to transfer of funds from the “Flexible subsidy fund” for carrying out community development grants programs are not classified to the Code.
 
-The Emergency Low Income Housing Preservation Act of 1987, referred to in subsecs. (m) and (n)(1), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which, as amended by Pub. L. 101–625, is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990. Section 224(b) and subtitle B of title II, which were formerly set out as a note under section 1715<i>l</i> of this title and which amended section 1715z–6 of this title, were amended generally by Pub. L. 101–625 on Nov. 28, 1990, and are classified generally to subchapter I (§4101 et seq.) of chapter 42 of this title. For provisions similar to those contained in former section 224(b), see section 4109(b) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+The Emergency Low Income Housing Preservation Act of 1987, referred to in subsecs. (m) and (n)(1), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which, as amended by Pub. L. 101–625, is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, and is classified principally to chapter 42 (§4101 et seq.) of this title. Section 224(b) and subtitle B of title II, which were formerly set out as a note under section 1715<i>l</i> of this title and which amended section 1715z–6 of this title, were amended generally by Pub. L. 101–625 on Nov. 28, 1990, and are classified generally to subchapter I (§4101 et seq.) of chapter 42 of this title. For provisions similar to those contained in former section 224(b), see section 4109(b) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 The Housing and Community Development Act of 1992, referred to in subsec. (n)(2)(B)(i), (3)(A), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672. Title IV of the Act amended this section, section 1715z–1 of this title, and section 12710 of Title 42, The Public Health and Welfare, and enacted provisions set out as a note below. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of Title 42 and Tables.
 
@@ -225,6 +229,8 @@ Another subsec. (k) of section 201 of Pub. L. 95–557 amended section 1715z–1
 Section was enacted as part of the Housing and Community Development Amendments of 1978, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+
+1999—Subsec. (p). Pub. L. 106–74 added subsec. (p).
 
 1998—Subsec. (m)(2)(A). Pub. L. 105–276 substituted “section 8” for “section 8(b)(1)”.
 
@@ -330,7 +336,7 @@ Subsec. (f)(4). Pub. L. 100–242, §185(d)(2), substituted “payments for any 
 
 Subsec. (g). Pub. L. 100–242, §185(e), inserted “, to the extent applicable” after “provided”.
 
-Subsec. (j). Pub. L. 100–242, §185(f), in amending subsec. (j) generally, substituted provisions relating to the establishment, contents, and use of a revolving fund to be known as the Flexible Subsidy Fund, for provisions authorizing appropriations under this section for fiscal years 1979 through 1982.
+Subsec. (j). Pub. L. 100–242, §185(f), in amending subsec. (j) generally, substituted provisions relating to theestablishment, contents, and use of a revolving fund to be known as the Flexible Subsidy Fund, for provisions authorizing appropriations under this section for fiscal years 1979 through 1982.
 
 Subsec. (j)(4). Pub. L. 100–628 substituted “shall, to the extent of approvable applications and subject to paragraph (1), use not less than $30,000,000 or 40 percent (whichever is less) of the amounts available” for “may use not more than $50,000,000”; and inserted at end “Any amount reserved under this paragraph for assistance for capital improvements that is not used before the last 60 days of a fiscal year shall become available for other assistance under this section.”
 
@@ -434,7 +440,7 @@ Covered multifamily housing property.—The term ‘covered multifamily housing 
 
 &emsp;&emsp;&emsp;“(ii) assisted under the provisions of section 202 of the Housing Act of 1959 (as such section existed before the effectiveness of the amendment made by section 801(a) of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625\]);
 
-&emsp;&emsp;&emsp;“(iii) financed by a loan or mortgage insured, assisted, or held by the Secretary or a State or State agency under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\]; or
+&emsp;&emsp;&emsp;“(iii) financed by a loan or mortgage insured, assisted, or held by the Secretary or a State orState agency under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\]; or
 
 &emsp;&emsp;&emsp;“(iv) financed by a loan or mortgage insured or held by the Secretary pursuant to section 221(d)(3) of the National Housing Act \[12 U.S.C. 1715<i>l</i>(d)(3)\]; and
 
@@ -546,7 +552,7 @@ Review.—The Secretary shall annually conduct a comprehensive review of—
 
 &emsp;“(2)
 
-Report.—The Secretary of Housing and Urban Development shall submit a report to the Congress annually describing the results of the annual comprehensive needs assessments under section 402 for covered multifamily housing properties for the elderly and the annual review conducted under paragraph (1) of this subsection, which shall contain a description of the methods used by project owners and by the Secretary to acquire the information described insection 402(b) and any findings and recommendations of the Secretary pursuant to the review.”
+Report.—The Secretary of Housing and Urban Development shall submit a report to the Congress annually describing the results of the annual comprehensive needs assessments under section 402 for covered multifamily housing properties for the elderly and the annual review conducted under paragraph (1) of this subsection, which shall contain a description of the methods used by project owners and by the Secretary to acquire the information described in section 402(b) and any findings and recommendations of the Secretary pursuant to the review.”
 
 #### Funding of Multifamily Housing Projects; Operating, Capital Improvement and Loan Management Assistance; Amounts
 

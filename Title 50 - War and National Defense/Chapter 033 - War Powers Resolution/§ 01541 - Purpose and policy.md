@@ -22,6 +22,18 @@ Section 10 of Pub. L. 93–148 provided that: “This joint resolution \[enactin
 
 Section 1 of Pub. L. 93–148 provided that: “This joint resolution \[enacting this chapter\] may be cited as the ‘War Powers Resolution’.”
 
+#### Limitation on Deployment of Armed Forces in Haiti During Fiscal Year 2000 and Congressional Notice of Deployments to Haiti
+
+Pub. L. 106–65, div. A, title XII, §1232, Oct. 5, 1999, 113 Stat. 788, provided that:
+
+“(a)
+
+Limitation on Deployment.—No funds available to the Department of Defense during fiscal year 2000 may be expended after May 31, 2000, for the continuous deployment of United States Armed Forces in Haiti pursuant to the Department of Defense operation designated as Operation Uphold Democracy.
+
+“(b)
+
+Report.—Whenever there is a deployment of United States Armed Forces to Haiti after May 31, 2000, the President shall, not later than 96 hours after such deployment begins, transmit to Congress a written report regarding the deployment. In any such report, the President shall specify (1) the purpose of the deployment, and (2) the date on which the deployment is expected to end.”
+
 #### Involvement of Armed Forces in Haiti
 
 Pub. L. 103–423, Oct. 25, 1994, 108 Stat. 4358, provided that:
@@ -174,7 +186,7 @@ Pub. L. 103–139, title VIII, §8151, Nov. 11, 1993, 107 Stat. 1475, provided t
 
 #### Authorization for Use of Military Force Against Iraq Resolution
 
-Pub. L. 102–1, Jan. 14, 1991, 105 Stat. 3, provided that:
+Pub. L. 102–1, Jan. 14, 1991, 105 Stat. 3, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §207\], Nov. 29, 1999, 113 Stat. 1536, 1501A–422, provided that:
 
 “Whereas the Government of Iraq without provocation invaded and occupied the territory of Kuwait on August 2, 1990;
 
@@ -224,7 +236,7 @@ Applicability of other requirements.—Nothing in this resolution supersedes any
 
 #### “SEC. 3. REPORTS TO CONGRESS.
 
-“At least once every 60 days, the President shall submit to the Congress a summary on the status of efforts to obtain compliance by Iraq with the resolutions adopted by the United Nations Security Council in response to Iraq's aggression.”
+“At least once every 90 days, the President shall submit to the Congress a summary on the status of efforts to obtain compliance by Iraq with the resolutions adopted by the United Nations Security Council in response to Iraq's aggression.”
 
 #### Introduction of United States Armed Forces Into Central America for Combat
 
@@ -294,7 +306,7 @@ Sec. 2. (a) The Congress finds that—
 
 “
 
-Sec. 3. The President is authorized, for purposes of section 5(b) of the War Powers Resolution \[50 U.S.C. 1544(b)\], to continue participation by United States Armed Forces in the Multinational Force in Lebanon, subject to the provisions of section 6 of this joint resolution. Such participation shall be limited to performance of the functions, and shall be subject to the limitations, specified in the agreement establishing theMultinational Force in Lebanon as set forth in the exchange of letters between the Governments of the United States and Lebanon dated September 25, 1982, except that this shall not preclude such protective measures as may be necessary to ensure the safety of the Multinational Force in Lebanon.
+Sec. 3. The President is authorized, for purposes of section 5(b) of the War Powers Resolution \[50 U.S.C. 1544(b)\], to continue participation by United States Armed Forces in the Multinational Force in Lebanon, subject to the provisions of section 6 of this joint resolution. Such participation shall be limited to performance of the functions, and shall be subject to the limitations, specified in the agreement establishing the Multinational Force in Lebanon as set forth in the exchange of letters between the Governments of the United States and Lebanon dated September 25, 1982, except that this shall not preclude such protectivemeasures as may be necessary to ensure the safety of the Multinational Force in Lebanon.
 
 #### “reports to the congress
 

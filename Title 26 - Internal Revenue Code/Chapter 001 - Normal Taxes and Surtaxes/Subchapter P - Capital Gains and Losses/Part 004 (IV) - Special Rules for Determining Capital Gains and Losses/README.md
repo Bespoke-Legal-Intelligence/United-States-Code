@@ -37,10 +37,13 @@
 | [1257\.](%C2%A7%2001257%20-%20Disposition%20of%20converted%20wetlands%20or%20highly%20erodible%20croplands.md) | Disposition of converted wetlands or highly erodible croplands. |
 | [1258\.](%C2%A7%2001258%20-%20Recharacterization%20of%20gain%20from%20certain%20financial%20transactions.md) | Recharacterization of gain from certain financial transactions. |
 | [1259\.](%C2%A7%2001259%20-%20Constructive%20sales%20treatment%20for%20appreciated%20financial%20positions.md) | Constructive sales treatment for appreciated financial positions. |
+| [1260\.](%C2%A7%2001260%20-%20Gains%20from%20constructive%20ownership%20transactions.md) | Gains from constructive ownership transactions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–170, title V, §534(b), Dec. 17, 1999, 113 Stat. 1934, added item 1260.
 
 1997—Pub. L. 105–34, title X, §1001(c), Aug. 5, 1997, 111 Stat. 907, added item 1259.
 
@@ -109,3 +112,4 @@ Pub. L. 95–600, title V, §543(c)(2), Nov. 6, 1978, 92 Stat. 2890, added item 
 - [&sect; 01257 - Disposition of converted wetlands or highly erodible croplands](%C2%A7%2001257%20-%20Disposition%20of%20converted%20wetlands%20or%20highly%20erodible%20croplands.md)
 - [&sect; 01258 - Recharacterization of gain from certain financial transactions](%C2%A7%2001258%20-%20Recharacterization%20of%20gain%20from%20certain%20financial%20transactions.md)
 - [&sect; 01259 - Constructive sales treatment for appreciated financial positions](%C2%A7%2001259%20-%20Constructive%20sales%20treatment%20for%20appreciated%20financial%20positions.md)
+- [&sect; 01260 - Gains from constructive ownership transactions](%C2%A7%2001260%20-%20Gains%20from%20constructive%20ownership%20transactions.md)

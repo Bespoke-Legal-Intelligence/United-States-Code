@@ -78,7 +78,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (C) Refund of excess amounts withheld
 
-&emsp;&emsp;Subject to such terms and conditions as the Secretary may by regulations prescribe, a transferor may seek and obtain a refund of any amounts withheld under this section inexcess of the transferor's maximum tax liability.
+&emsp;&emsp;Subject to such terms and conditions as the Secretary may by regulations prescribe, a transferor may seek and obtain a refund of any amounts withheld under this section in excess of the transferor's maximum tax liability.
 
 #### (2) Authority of Secretary to prescribe reduced amount
 
@@ -150,7 +150,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (5) Settlement officer not treated as transferor's agent
 
-&emsp;For purposes of this subsection, a person shall not be treated as a transferor's agent or transferee's agent with respect to any transaction merely because such person performs 1 or more of the following acts:
+&emsp;For purposes of this subsection, a person shall not be treated as a transferor's agent ortransferee's agent with respect to any transaction merely because such person performs 1 or more of the following acts:
 
 &emsp;&emsp;(A) The receipt and the disbursement of any portion of the consideration for the transaction.
 
@@ -172,7 +172,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (3) Distributions by certain domestic corporations to foreign shareholders
 
-&emsp;If a domestic corporation which is or has been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii) distributes property to aforeign person in a transaction to which section 302 or part II of subchapter C applies, such corporation shall deduct and withhold under subsection (a) a tax equal to 10 percent of the amount realized by the foreign shareholder. The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B). Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.
+&emsp;If a domestic corporation which is or has been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii) distributes property to a foreign person in a transaction to which section 302 or part II of subchapter C applies, such corporation shall deduct and withhold under subsection (a) a tax equal to 10 percent of the amount realized by the foreign shareholder. The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B). Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.
 
 #### (4) Taxable distributions by domestic or foreign partnerships, trusts, or estates
 
@@ -214,7 +214,7 @@ For purposes of this section—
 
 &emsp;The term “transferor's unsatisfied withholding liability” means the withholding obligation imposed by this section on the transferor's acquisition of the United States real property interest or on the acquisition of a predecessor interest, to the extent such obligation has not been satisfied.
 
-(Added Pub. L. 98–369, div. A, title I, §129(a)(1), July 18, 1984, 98 Stat. 655; amended Pub. L. 99–514, title III, §311(b)(4), title XVIII, §1810(f)(2)–(4)(A), (5), (6), (8), Oct. 22, 1986, 100 Stat. 2219, 2827, 2828; Pub. L. 100–647, title I, §1003(b)(3), Nov. 10, 1988, 102 Stat. 3384; Pub. L. 103–66, title XIII, §13221(c)(3), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1704(c)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 105–34, title III, §311(c)(1), Aug. 5, 1997, 111 Stat. 835.)
+(Added Pub. L. 98–369, div. A, title I, §129(a)(1), July 18, 1984, 98 Stat. 655; amended Pub. L. 99–514, title III, §311(b)(4), title XVIII, §1810(f)(2)–(4)(A), (5), (6), (8), Oct. 22, 1986, 100 Stat. 2219, 2827, 2828; Pub. L. 100–647, title I, §1003(b)(3), Nov. 10, 1988, 102 Stat. 3384; Pub. L. 103–66, title XIII, §13221(c)(3), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1704(c)(1), Aug.20, 1996, 110 Stat. 1878; Pub. L. 105–34, title III, §311(c)(1), Aug. 5, 1997, 111 Stat. 835.)
 
 #### Amendments
 

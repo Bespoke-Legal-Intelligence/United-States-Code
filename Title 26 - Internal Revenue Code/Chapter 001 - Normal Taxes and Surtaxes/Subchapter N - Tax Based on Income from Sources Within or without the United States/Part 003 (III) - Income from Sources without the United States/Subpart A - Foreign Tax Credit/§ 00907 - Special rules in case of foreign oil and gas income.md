@@ -34,7 +34,7 @@ For purposes of this section—
 
 &emsp;The term “foreign oil related income” means the taxable income derived from sources outside the United States and its possessions from—
 
-&emsp;&emsp;(A) the processing of minerals extracted (by the taxpayer or by any other person) from oil or gas wells into their primary products,
+&emsp;&emsp;(A) the processing of minerals extracted (by the taxpayer or by any other person)from oil or gas wells into their primary products,
 
 &emsp;&emsp;(B) the transportation of such minerals or primary products,
 
@@ -74,7 +74,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;For purposes of this paragraph, the term “foreign oil extraction loss” means the amount by which—
 
-&emsp;&emsp;&emsp;&emsp;(I) the gross income for the taxable year from sources without the United States and its possessions (whether or not the taxpayer chooses the benefits ofthis subpart for such taxable year) taken into account in determining the foreign oil and gas extraction income for such year, is exceeded by
+&emsp;&emsp;&emsp;&emsp;(I) the gross income for the taxable year from sources without the United States and its possessions (whether or not the taxpayer chooses the benefits of this subpart for such taxable year) taken into account in determining the foreign oil and gas extraction income for such year, is exceeded by
 
 &emsp;&emsp;&emsp;&emsp;(II) the sum of the deductions properly apportioned or allocated thereto.
 
@@ -106,7 +106,7 @@ For purposes of this chapter, in determining the amount of taxable income in the
 
 #### (1) In general
 
-&emsp;If the amount of the oil and gas extraction taxes paid or accrued during any taxable year exceeds the limitation provided by subsection (a) for such taxable year (hereinafter in this subsection referred to as the “unused credit year”), such excess shall be deemed to be oil and gas extraction taxes paid or accrued in the second preceding taxable year, in the first preceding taxable year, and in the first, second, third, fourth, or fifth succeeding taxable year, in that order and to the extent not deemed tax paid or accrued in a prior taxable year by reason of the limitation imposed by paragraph (2). Such amount deemed paid or accrued in any taxable year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions. For purposes of this subsection, the terms “second preceding taxable year”, and “first preceding taxable year” do not include any taxable year ending before January 1, 1975.
+&emsp;If the amount of the oil and gas extraction taxes paid or accrued during any taxable year exceeds the limitation provided by subsection (a) for such taxable year (hereinafter in this subsection referred to as the “unused credit year”), such excess shall be deemed to be oil and gas extraction taxes paid or accrued in the second preceding taxable year, in the first preceding taxable year, and in the first, second, third, fourth, or fifth succeeding taxable year, in that order and to the extent not deemed tax paid or accrued in a prior taxable year by reason of the limitation imposed by paragraph\(2). Such amount deemed paid or accrued in any taxable year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions. For purposes of this subsection, the terms “second preceding taxable year”, and “first preceding taxable year” do not include any taxable year ending before January 1, 1975.
 
 #### (2) Limitation
 
@@ -132,7 +132,7 @@ For purposes of this chapter, in determining the amount of taxable income in the
 
 &emsp;(B) For purposes of determining the amount of taxes paid or accrued in any taxable year which may be deemed paid or accrued in a preceding or succeeding taxable year under section 904(c), any tax deemed paid or accrued in such preceding or succeeding taxable year under this subsection shall be considered to be tax paid or accrued in such preceding or succeeding taxable year.
 
-(Added Pub. L. 94–12, title VI, §601(a), Mar. 29, 1975, 89 Stat. 54; amended Pub. L. 94–455, title X, §§1031(b)(6), 1032(b), 1035(a), (b), (d)(1), (2), 1052(c)(4), Oct. 4, 1976, 90 Stat. 1623, 1626, 1630–1632, 1648; Pub. L. 95–600, title III, §301(b)(14), title VII, §701(u)(8)(A), (B), Nov. 6, 1978, 92 Stat. 2822, 2916; Pub. L. 97–248, title II, §211(a)–(c)(1), (d), Sept. 3, 1982, 96 Stat. 448–450;Pub. L. 100–647, title I, §1012(g)(6), Nov. 10, 1988, 102 Stat. 3501; Pub. L. 101–508, title XI, §11801(a)(32), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13235(a)(1), Aug. 10, 1993, 107 Stat. 504; Pub. L. 104–188, title I, §1704(t)(36), Aug. 20, 1996, 110 Stat. 1889.)
+(Added Pub. L. 94–12, title VI, §601(a), Mar. 29, 1975, 89 Stat. 54; amended Pub. L. 94–455, title X, §§1031(b)(6), 1032(b), 1035(a), (b), (d)(1), (2), 1052(c)(4), Oct. 4, 1976, 90 Stat. 1623, 1626, 1630–1632, 1648; Pub. L. 95–600, title III, §301(b)(14), title VII, §701(u)(8)(A), (B), Nov. 6, 1978, 92 Stat. 2822, 2916; Pub. L. 97–248, title II, §211(a)–(c)(1), (d), Sept. 3, 1982, 96 Stat. 448–450; Pub. L. 100–647, title I, §1012(g)(6), Nov. 10, 1988, 102 Stat. 3501; Pub. L. 101–508, title XI, §11801(a)(32), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13235(a)(1), Aug. 10, 1993, 107 Stat. 504; Pub. L. 104–188, title I, §1704(t)(36), Aug. 20, 1996, 110 Stat. 1889.)
 
 #### References in Text
 
@@ -276,7 +276,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 Section 1035(c) of Pub. L. 94–455, as amended by Pub. L. 95–600, title VII, §§701(u)(9), 703(h)(1), Nov. 6, 1978, 92 Stat. 2916, 2940; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1) For purposes of section 901 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], there shall be treated as income, war profits, and excess profits taxes to be taken into account under section 907(a) of suchCode amounts designated as income taxes of a foreign government by such government (which otherwise would not be treated as taxes for purposes of section 901 of such Code) with respect to production-sharing contracts for the extraction of foreign oil or gas.
+“(1) For purposes of section 901 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], there shall be treated as income, war profits, and excess profits taxes to be taken into account under section 907(a) of such Code amounts designated as income taxes of a foreign government by such government (which otherwise would not be treated as taxes for purposes of section 901 of such Code) with respect to production-sharing contracts for the extraction of foreign oil or gas.
 
 “(2) The amounts specified in paragraph (1) shall not exceed the lessor of—
 

@@ -8,7 +8,7 @@ In the case of—
 
 &emsp;(2) a medical savings account (within the meaning of section 220(d)),
 
-&emsp;(3) an individual retirement annuity (within the meaning of section 408(b)), a custodial account treated as an annuity contract under section 403(b)(7)(A) (relating to custodial accounts for regulated investment company stock), or
+&emsp;(3) an individual retirement annuity (within the meaning of section 408(b)), a custodial account treated as an annuity contract undersection 403(b)(7)(A) (relating to custodial accounts for regulated investment company stock), or
 
 &emsp;(4) an education individual retirement account (as defined in section 530),
 
@@ -74,7 +74,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the amount by which the amount contributed for the taxable year to such accounts exceeds $500 (or, if less, the sum of the maximum amounts permitted to be contributed under section 530(c) by the contributors to such accounts for such year);
 
-&emsp;&emsp;(B) if any amount is contributed (other than a contribution described in section 530(b)(2)(B)) during such year to a qualified State tuition program for the benefit of such beneficiary, any amount contributed to such accounts for such taxable year; and
+&emsp;&emsp;(B) if any amount is contributed (other than a contribution described in section 530(b)(2)(B)) during such year to a qualifiedState tuition program for the benefit of such beneficiary, any amount contributed to such accounts for such taxable year; and
 
 &emsp;&emsp;(C) the amount determined under this subsection for the preceding taxable year, reduced by the sum of—
 
@@ -204,7 +204,7 @@ Amendment by sections 6004(d)(10) and 6005(b)(8) of Pub. L. 105–206 effective,
 
 #### Effective Date of 1997 Amendments
 
-Amendment by section 213(d) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, seesection 213(f) of Pub. L. 105–34, set out as a note under section 26 of this title.
+Amendment by section 213(d) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 213(f) of Pub. L. 105–34, set out as a note under section 26 of this title.
 
 Amendment by section 302(b) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 302(f) of Pub. L. 105–34, set out as a note under section 219 of this title.
 
@@ -224,7 +224,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1102(b)(1) of Pub. L. 99–514 applicable to contributions and distributions for taxable years beginning after Dec. 31, 1986, see section 1102(g) of Pub. L. 99–514, set out as a note under section 219 of this title.
+Amendment by section 1102(b)(1) of Pub. L. 99–514 applicable to contributions and distributions for taxableyears beginning after Dec. 31, 1986, see section 1102(g) of Pub. L. 99–514, set out as a note under section 219 of this title.
 
 Amendment by section 1848(f) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

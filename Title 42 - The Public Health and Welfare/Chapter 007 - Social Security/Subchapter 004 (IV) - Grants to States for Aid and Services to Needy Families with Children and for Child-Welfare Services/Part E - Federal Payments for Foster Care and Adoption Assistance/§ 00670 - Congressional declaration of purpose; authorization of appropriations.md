@@ -104,7 +104,7 @@ Pub. L. 100–505, Oct. 18, 1988, 102 Stat. 2533, as amended by Pub. L. 102–23
 
 &emsp;“(10) there is a need to support the families of such infants and young children through the provision of services that will prevent the abandonment of the infants and children; and
 
-&emsp;“(11) there is a need for the development of funding strategies that coordinate and make the optimal use of all private resources, and Federal, State, and local resources, to establish and maintain such services.
+&emsp;“(11) there is a need for the development of funding strategies that coordinate and make the optimal useof all private resources, and Federal, State, and local resources, to establish and maintain such services.
 
 #### “TITLE I—PROJECTS REGARDING ABANDONMENT OF INFANTS AND YOUNG CHILDREN IN HOSPITALS
 
@@ -198,7 +198,7 @@ Evaluations of Demonstration Projects.—The Secretary shall, directly or throug
 
 Dissemination of Information to Individuals With Special Needs.—
 
-&emsp;“(1)(A) The Secretary may enter into contracts or cooperative agreements with public or nonprofit private entities for the development and operation of model projects to disseminate the information described in subparagraph (B) to individuals who are disproportionately at risk of dysfunctional behaviors that lead to the abandonment of infants or young children.
+&emsp;“(1)(A) The Secretary may enter into contracts or cooperative agreements with public or nonprofit private entities for the development and operation of model projects to disseminate the information described in subparagraph (B) to individuals who aredisproportionately at risk of dysfunctional behaviors that lead to the abandonment of infants or young children.
 
 &emsp;“(B) The information referred to in subparagraph (A) is information on the availability to individuals described in such subparagraph, and the families of the individuals, of financial assistance and services under Federal, State, local, and private programs providing health services, mental health services, educational services, housing services, social services, or other appropriate services.
 
@@ -292,7 +292,7 @@ Study.—The Secretary shall conduct a study for the purpose of—
 
 &emsp;“(2) determining the extent to which Federal payments under title XIX of the Social Security Act \[subchapter XIX of this chapter\] are being expended for medical costs described in paragraph (1); and
 
-&emsp;“(3) providing an estimate of the extent to which such Federal payments will be expended for such medical costs during the 5-year period beginning on the date of the enactment of this Act \[Oct. 18, 1988\].
+&emsp;“(3) providing an estimate of the extent to which such Federal payments will be expended for suchmedical costs during the 5-year period beginning on the date of the enactment of this Act \[Oct. 18, 1988\].
 
 “(b)
 

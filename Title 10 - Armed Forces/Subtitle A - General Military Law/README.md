@@ -46,6 +46,7 @@
 | [<b>47.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20047%20-%20Uniform%20Code%20of%20Military%20Justice/README.md) | <b>Uniform Code of Military Justice</b> | <b>801</b> |
 | [<b>48.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20048%20-%20Military%20Correctional%20Facilities/README.md) | <b>Military Correctional Facilities</b> | <b>951</b> |
 | [<b>49.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20049%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md) | <b>Miscellaneous Prohibitions and Penalties</b> | <b>971</b> |
+| [<b>50.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20050%20-%20Miscellaneous%20Command%20Responsibilities/README.md) | <b>Miscellaneous Command Responsibilities</b> | <b>991</b> |
 | [<b>51.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20051%20-%20Reserve%20Components%20Standards%20and%20Procedures%20for%20Retention%20and%20Promotion/README.md) | <b>Reserve Components: Standards and Procedures for Retention and Promotion</b> | <b>1001</b> |
 | [<b>53.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20053%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>1031</b> |
 | [<b>54.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20054%20-%20Commissary%20and%20Exchange%20Benefits/README.md) | <b>Commissary and Exchange Benefits</b> | <b>1061</b> |
@@ -62,7 +63,7 @@
 | [<b>71.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20071%20-%20Computation%20of%20Retired%20Pay/README.md) | <b>Computation of Retired Pay</b> | <b>1401</b> |
 | [<b>73.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20073%20-%20Annuities%20Based%20on%20Retired%20or%20Retainer%20Pay/README.md) | <b>Annuities Based on Retired or Retainer Pay</b> | <b>1431</b> |
 | [<b>74.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20074%20-%20Department%20of%20Defense%20Military%20Retirement%20Fund/README.md) | <b>Department of Defense Military Retirement Fund</b> | <b>1461</b> |
-| [<b>75.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20075%20-%20Death%20Benefits/README.md) | <b>Death Benefits</b> | <b>1475</b> |
+| [<b>75.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20075%20-%20Deceased%20Personnel/README.md) | <b>Deceased Personnel</b> | <b>1471</b> |
 | [<b>76.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20076%20-%20Missing%20Persons/README.md) | <b>Missing Persons</b> | <b>1501</b> |
 | [<b>77.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20077%20-%20Posthumous%20Commissions%20and%20Warrants/README.md) | <b>Posthumous Commissions and Warrants</b> | <b>1521</b> |
 | [<b>79.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20079%20-%20Correction%20of%20Military%20Records/README.md) | <b>Correction of Military Records</b> | <b>1551</b> |
@@ -134,6 +135,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title V, §586(c)(1), title VII, §721(c)(2), Oct. 5, 1999, 113 Stat. 638, 694, added item for chapter 50 and substituted “Deceased Personnel” for “Death Benefits” and “1471” for “1475” in item for chapter 75.
 
 1997—Pub. L. 105–85, div. A, title III, §§355(c)(2), 371(a)(2), (c)(5), title V, §591(a)(2), title X, §§1073(a)(1), (2), 1074(d)(2), Nov. 18, 1997, 111 Stat. 1694, 1705, 1762, 1900, 1910, substituted “481” for “471” in item for chapter 23, added items for chapters 80 and 136, and substituted “2460” for “2461” in item for chapter 146, “Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities” for “Utilities and Services” in item for chapter 147, “2500” for “2491” in item for chapter 148, and “2541” for “2540” in item for chapter 152.
 

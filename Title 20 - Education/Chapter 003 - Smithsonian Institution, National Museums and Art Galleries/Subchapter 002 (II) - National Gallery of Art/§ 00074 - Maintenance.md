@@ -24,7 +24,7 @@ The civil-service laws, referred to in subsec. (c), are set forth in Title 5, Go
 
 #### Codification
 
-In subsec. (c), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (c), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Actof 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 

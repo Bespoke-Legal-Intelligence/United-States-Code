@@ -1,6 +1,6 @@
 ### §1070d–41. Authorization of appropriations
 
-There are authorized to be appropriated for this subpart $45,000,000 for fiscal year 1999 andsuch sums as may be necessary for each of the 4 succeeding fiscal years.
+There are authorized to be appropriated for this subpart $45,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
 (Pub. L. 89–329, title IV, §419K, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1346; amended Pub. L. 102–325, title IV, §406(h), July 23, 1992, 106 Stat. 509; Pub. L. 105–244, title IV, §409(b), Oct. 7, 1998, 112 Stat. 1668.)
 

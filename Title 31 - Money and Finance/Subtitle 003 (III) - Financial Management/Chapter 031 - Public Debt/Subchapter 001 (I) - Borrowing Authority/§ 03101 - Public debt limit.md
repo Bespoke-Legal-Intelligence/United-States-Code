@@ -2,7 +2,7 @@
 
 (a) In this section, the current redemption value of an obligation issued on a discount basis and redeemable before maturity at the option of its holder is deemed to be the face amount of the obligation.
 
-(b) The face amount of obligations issued under this chapter and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) may not be more than $5,950,000,000,000, outstanding at one time, subject to changes periodically made in that amount as provided by law through the congressional budget process described in Rule XLIX of the Rules of the House of Representatives or otherwise.
+(b) The face amount of obligations issued under this chapter and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) may not be more than $5,950,000,000,000, outstanding at one time, subject to changes periodically made in that amount as provided by law through the congressional budget process described in Rule XLIX <sup>1</sup> of the Rules of the House of Representatives or otherwise.
 
 (c) For purposes of this section, the face amount, for any month, of any obligation issued on a discount basis that is not redeemable before maturity at the option of the holder of the obligation is an amount equal to the sum of—
 
@@ -39,6 +39,8 @@ June 30, 1967, Pub. L. 90–39, §2, 81 Stat. 99.
 In subsection (a), the words “is deemed to be” are substituted for “shall be considered . . . to be” because a legal fiction is intended.
 
 #### References in Text
+
+The Rules of the House of Representatives for the One Hundred Sixth Congress were adopted and amended generally by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Provisions formerly appearing in Rule XLIX, referred to in subsec. (b), are now contained in Rule XXIII.
 
 Section 1272(a) of the Internal Revenue Code of 1986, referred to in subsec. (c), is classified to section 1272(a) of Title 26, Internal Revenue Code.
 
@@ -176,7 +178,7 @@ Pub. L. 87–512, §1(1), July 1, 1962, 76 Stat. 124, provided for a temporary i
 
 Pub. L. 87–414, Mar. 13, 1962, 76 Stat. 23, provided for a temporary increase from $285,000,000,000 to $300,000,000,000 for the period Mar. 13, 1962, to June 30, 1962.
 
-Pub. L. 87–69, June 30, 1961, 75 Stat. 148, provided for a temporary increase from $285,000,000,000 to $298,000,000,000 for the period July 1, 1961, to June 30, 1962.
+Pub. L. 87–69, June 30, 1961, 75 Stat. 148, provided for a temporary increase from $285,000,000,000 to$298,000,000,000 for the period July 1, 1961, to June 30, 1962.
 
 Pub. L. 86–564, title I, §101, June 30, 1960, 74 Stat. 290, provided for a temporary increase from $285,000,000,000 to $293,000,000,000 for the period July 1, 1960, to June 30, 1961.
 
@@ -201,4 +203,6 @@ Pub. L. 99–177, title II, §272, Dec. 12, 1985, 99 Stat. 1095.
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3130 of this title; title 2 section 632; title 5 sections 8348, 8438; title 12 section 1824; title 42 section 1320b–15.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

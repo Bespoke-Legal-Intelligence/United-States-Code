@@ -34,7 +34,7 @@ As used in this part or part B of this subchapter:
 
 &emsp;(3) The term “adoption assistance agreement” means a written agreement, binding on the parties to the agreement, between the State agency, other relevant agencies, and the prospective adoptive parents of a minor child which at a minimum (A) specifies the nature and amount of any payments, services, and assistance to be provided under such agreement, and (B) stipulates that the agreement shall remain in effect regardless of the State of which the adoptive parents are residents at any given time. The agreement shall contain provisions for the protection (under an interstate compact approved by the Secretary or otherwise) of the interests of the child in cases where the adoptive parents and child move to another State while the agreement is effective.
 
-&emsp;(4)(A) The term “foster care maintenance payments” means payments to cover the cost of (and the cost of providing) food, clothing,shelter, daily supervision, school supplies, a child's personal incidentals, liability insurance with respect to a child, and reasonable travel to the child's home for visitation. In the case of institutional care, such term shall include the reasonable costs of administration and operation of such institution as are necessarily required to provide the items described in the preceding sentence.
+&emsp;(4)(A) The term “foster care maintenance payments” means payments to cover the cost of (and the cost of providing) food, clothing, shelter, daily supervision, school supplies, a child's personal incidentals, liability insurance with respect to a child, and reasonable travel to the child's home for visitation. In the case of institutional care, such term shall include the reasonable costs of administration and operation of such institution as are necessarily required to provide the items described in the preceding sentence.
 
 &emsp;(B) In cases where—
 
@@ -208,7 +208,7 @@ Requirements treated as state plan requirements.—For purposes of part E of tit
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 622, 625, 626, 629a, 671, 672, 673, 677 of this title.
+This section is referred to in sections 603, 622, 625, 626, 629a, 671, 672, 673, 677 of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

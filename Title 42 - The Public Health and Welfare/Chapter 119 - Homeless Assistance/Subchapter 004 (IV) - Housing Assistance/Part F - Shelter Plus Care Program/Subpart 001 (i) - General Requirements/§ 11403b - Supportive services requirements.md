@@ -12,7 +12,7 @@
 
 #### (b) Recapture
 
-If the supportive services and funding for the supportive services required by this section are not provided, the Secretary may recapture any unexpended housing assistance.
+If the supportive services and funding for the supportive services required by this section arenot provided, the Secretary may recapture any unexpended housing assistance.
 
 (Pub. L. 100–77, title IV, §453, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4367.)
 

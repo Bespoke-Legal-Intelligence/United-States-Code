@@ -32,7 +32,7 @@ The period of time described in subsection (a)(2) of this section is the latest 
 
 &emsp;(1) 3 years after the date on which a claim was filed,
 
-&emsp;(2) in the case of a country that has a totalitarian or authoritarian government at thetime of the action described in subsection (a)(1) of this section, 3 years after the date of installation of a democratically elected government, or
+&emsp;(2) in the case of a country that has a totalitarian or authoritarian government at the time of the action described in subsection (a)(1) of this section, 3 years after the date of installation of a democratically elected government, or
 
 &emsp;(3) 90 days after April 30, 1994.
 

@@ -6,7 +6,7 @@ Every employer who maintains a pension, annuity, stock bonus, profit-sharing, or
 
 #### (b) Actuarial statement in case of mergers, etc.
 
-Not less than 30 days before a merger, consolidation, or transfer of assets or liabilities of a plan described in subsection (a) to another plan, the plan administrator (within the meaning of section 414(g)) shall file an actuarial statement of valuation evidencing compliance with the requirements of section 401(a)(12).
+Not less than 30 days before a merger, consolidation, or transfer of assets or liabilities of a plan described in subsection (a) to another plan, the plan administrator (within the meaning ofsection 414(g)) shall file an actuarial statement of valuation evidencing compliance with the requirements of section 401(a)(12).
 
 #### (c) Employer
 

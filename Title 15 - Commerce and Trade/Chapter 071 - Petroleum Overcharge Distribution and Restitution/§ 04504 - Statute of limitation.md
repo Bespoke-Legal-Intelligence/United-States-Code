@@ -10,7 +10,7 @@
 
 (2) For purposes of paragraph (1), the term “commencement of a civil enforcement action” means—
 
-&emsp;(A) the signing and issuance of a proposed remedial order against any person for filing with the Office of Hearings and Appeals of the Department of Energy; or
+&emsp;(A) the signing and issuance of a proposed remedial order against any person for filingwith the Office of Hearings and Appeals of the Department of Energy; or
 
 &emsp;(B) the filing of a complaint with the appropriate district court of the United States.
 
@@ -40,7 +40,7 @@
 
 (1) It is the intent of the Congress that—
 
-&emsp;(A) the Secretary and the Administrator of the Economic Regulatory Administrationshall, to the greatest extent possible and within the time frames specified on September 12, 1986, by such Administrator to the Committee on Energy and Commerce of the House of Representatives, commence civil enforcement actions with respect to all cases known by such Administrator as of October 21, 1986, and designated by such Administrator as “prelitigation cases”, unless such an action is found not to be warranted;
+&emsp;(A) the Secretary and the Administrator of the Economic Regulatory Administration shall, to the greatest extent possible and within the time frames specified on September 12, 1986, by such Administrator to the Committee on Energy and Commerce of the House of Representatives, commence civil enforcement actions with respect to all cases known by such Administrator as of October 21, 1986, and designated by such Administrator as “prelitigation cases”, unless such an action is found not to be warranted;
 
 &emsp;(B) the Secretary and such Administrator not delay civil enforcement actions so as to cause the limitation in subsection (a)(1) of this section to apply to any such case;
 
@@ -70,7 +70,7 @@ Any review of a final agency action determined under section 7193 or 7194 of tit
 
 &emsp;(A) maintain a personnel level for the compliance program of the Economic Regulatory Administration of 170 full-time equivalents for fiscal year 1987, subject to normal attrition and subject to the provisions of any appropriation Act enacted for such fiscal year concerning such program; and
 
-&emsp;(B) maintain for the remainder of the program an adequate mix of lawyers, auditors, technical, clerical, and administrative personnel.
+&emsp;(B) maintain for the remainder of the program an adequate mix of lawyers, auditors,technical, clerical, and administrative personnel.
 
 (2) By July 1, 1987, and by July 1 of each year thereafter, the Administrator of the Economic Regulatory Administration shall provide to the Committee on Energy and Commerce of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate the full-time equivalent level necessary for such compliance program for the next fiscal year and the basis for that level.
 

@@ -48,7 +48,7 @@ Section is based on the first paragraph of section 105 (a) of Pub. L. 88–454. 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–283 effective with respect to reports and statements covering periods beginning on and after Oct. 1, 1994, and appropriations made and obligations incurred on and after such date, see section 3(c) of Pub. L. 103–283, set out as a note under section 59f of this title.
+Amendment by Pub. L. 103–283 effective with respect to reports and statements covering periods beginningon and after Oct. 1, 1994, and appropriations made and obligations incurred on and after such date, see section 3(c) of Pub. L. 103–283, set out as a note under section 59f of this title.
 
 #### Section Referred to in Other Sections
 

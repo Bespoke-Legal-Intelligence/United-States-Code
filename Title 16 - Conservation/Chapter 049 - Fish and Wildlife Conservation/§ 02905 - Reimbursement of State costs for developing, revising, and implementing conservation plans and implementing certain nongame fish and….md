@@ -26,7 +26,7 @@ No State is eligible for reimbursement under this section unless the Secretary f
 
 &emsp;(2) If reimbursement is sought under subsection (a)(2) of this section, such costs have been incurred in revising the plan in a manner consistent with such requirements.
 
-&emsp;(3) If reimbursement is sought under subsection (a)(3) of this section, such costs havebeen incurred in implementing the conservation actions as approved by the Secretary.
+&emsp;(3) If reimbursement is sought under subsection (a)(3) of this section, such costs have been incurred in implementing the conservation actions as approved by the Secretary.
 
 &emsp;(4) If reimbursement is sought under subsection (a)(4) of this section, such costs have been incurred in implementing conservation actions specified in, and in a manner consistent with, the approved conservation plan.
 

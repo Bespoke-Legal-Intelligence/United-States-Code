@@ -6,7 +6,7 @@ No person shall be engaged in or carry on any trade or business subject to the t
 
 #### (b) Computation
 
-All special taxes shall be imposed as of on the first day of July in each year, or on commencingany trade or business on which such tax is imposed. In the former case the tax shall be reckoned for 1 year, and in the latter case it shall be reckoned proportionately, from the first day of the month in which the liability to a special tax commenced, to and including the 30th day of June following.
+All special taxes shall be imposed as of on the first day of July in each year, or on commencing any trade or business on which such tax is imposed. In the former case the tax shall be reckoned for 1 year, and in the latter case it shall be reckoned proportionately, from the first day of the month in which the liability to a special tax commenced, to and including the 30th day of June following.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 593; Pub. L. 89–44, title IV, §405(b), June 21, 1965, 79 Stat. 149; Pub. L. 91–513, title III, §1102(a), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 94–455, title XIX, §1904(a)(19), Oct. 4, 1976, 90 Stat. 1814; Pub. L. 95–600, title V, §521(c)(2), Nov. 6, 1978, 92 Stat. 2884.)
 

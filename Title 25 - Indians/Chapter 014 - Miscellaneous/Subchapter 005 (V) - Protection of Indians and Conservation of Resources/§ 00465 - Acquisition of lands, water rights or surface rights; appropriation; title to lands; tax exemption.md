@@ -36,7 +36,7 @@ Act July 20, 1956, ch. 645, 70 Stat. 581, provided: “That the equitable title 
 
 “
 
-Sec. 2. The lands declared to be held in trust for the Seminole Tribe of Indians in the State of Florida under the first section of this Act and all lands which have been acquired by the United States for the Seminole Tribe of Indians in the State of Florida under authority of the Act entitled ‘An Act to conserve and develop Indian lands and resources; to extend to Indians the right to form business and other organizations; to establish a credit system for Indians; to grant certain rights of home rule to Indians; to provide for vocational education for Indians; and for other purposes’ approved June 18, 1934 (48 Stat. 984) \[sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478 and 479 of this title\], are hereby declared to be a reservation for the use and benefit of such Seminole Tribe in Florida.
+Sec. 2. The lands declared to be held in trust for the Seminole Tribe of Indians in the State of Florida under the first section of this Act and all lands which have been acquired by the United States for the Seminole Tribe of Indians in the State of Florida under authority of the Act entitled ‘An Act to conserve and develop Indian lands and resources; to extend to Indians the right to form business and other organizations; to establisha credit system for Indians; to grant certain rights of home rule to Indians; to provide for vocational education for Indians; and for other purposes’ approved June 18, 1934 (48 Stat. 984) \[sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478 and 479 of this title\], are hereby declared to be a reservation for the use and benefit of such Seminole Tribe in Florida.
 
 “
 

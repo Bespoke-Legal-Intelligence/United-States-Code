@@ -8,19 +8,21 @@ Any project authorized for construction by this Act shall not be authorized afte
 
 (1) Not later than one year after November 17, 1986, the Secretary shall transmit to Congress a list of unconstructed projects, or unconstructed separable elements of projects, which have been authorized, but have received no obligations during the 10 full fiscal years preceding the transmittal of such list. A project or separable element included in such list is not authorized after December 31, 1989, if funds have not been obligated for construction of such project or element after November 17, 1986, and before December 31, 1989.
 
-(2) Every two years after the transmittal of the list under paragraph (1), the Secretary shall transmit to Congress a list of projects or separable elements of projects which have been authorized, but have received no obligations during the 7 full fiscal years preceding the transmittal of such list. Upon submission of such list to Congress, the Secretary shall notify each Senator in whose State, and each Member of the House of Representatives in whose district, a project (including any part thereof) on such list would be located. A project or separable element included in such list is not authorized after the date which is 30 months after the date the list is so transmitted if funds have not been obligated for the planning, design, or construction of such project or element during such 30-month period.
+(2) Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), every two years after the transmittal of the list under paragraph (1), the Secretary shall transmit to Congress a list of projects or separable elements of projects which have been authorized, but have received no obligations during the 7 full fiscal years preceding the transmittal of such list. Upon submission of such list to Congress, the Secretary shall notify each Senator in whose State, and each Member of the House of Representatives in whose district, a project (including any part thereof) on such list would be located. A project or separable element included in such list is not authorized after the date which is 30 months after the date the list is so transmitted if funds have not been obligated for the planning, design, or construction of such project or element during such 30-month period.
 
 #### (c) Deauthorized list; publication in Federal Register
 
 The Secretary shall publish in the Federal Register a list of any projects or separable elements that are deauthorized under this section.
 
-(Pub. L. 99–662, title X, §1001, Nov. 17, 1986, 100 Stat. 4201; Pub. L. 101–640, title I, §119(a), Nov. 28, 1990, 104 Stat. 4630; Pub. L. 104–303, title II, §228(a), Oct. 12, 1996, 110 Stat. 3703.)
+(Pub. L. 99–662, title X, §1001, Nov. 17, 1986, 100 Stat. 4201; Pub. L. 101–640, title I, §119(a), Nov. 28, 1990, 104 Stat. 4630; Pub. L. 104–303, title II,§228(a), Oct. 12, 1996, 110 Stat. 3703; Pub. L. 106–109, §8(d), Nov. 24, 1999, 113 Stat. 1496.)
 
 #### References in Text
 
 This Act, referred to in subsec. (a), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
 #### Amendments
+
+1999—Subsec. (b)(2). Pub. L. 106–109, in first sentence, substituted “Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), every” for “Every”.
 
 1996—Subsec. (b)(2). Pub. L. 104–303 substituted “7 full” for “10 full”, “Upon submission” for “Before submission”, and “for the planning, design, or construction” for “for construction”.
 

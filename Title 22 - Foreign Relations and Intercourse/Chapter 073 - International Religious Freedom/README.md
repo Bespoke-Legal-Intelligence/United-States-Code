@@ -56,7 +56,20 @@
 | (c) | Policy review and recommendations in response to progress. |
 | (d) | Effects on religious communities and individuals. |
 | (e) | Monitoring. |
-| (f) | Hearings and sessions. |
+| [6432a.](Subchapter%20002%20%28II%29%20-%20Commission%20on%20International%20Religious%20Freedom/%C2%A7%2006432a%20-%20Powers%20of%20the%20Commission.md) | Powers of the Commission. |
+| (a) | Hearings and sessions. |
+| (b) | Information from Federal agencies. |
+| (c) | Postal services. |
+| (d) | Administrative procedures. |
+| (e) | Views of the Commission. |
+| (f) | Travel. |
+| [6432b.](Subchapter%20002%20%28II%29%20-%20Commission%20on%20International%20Religious%20Freedom/%C2%A7%2006432b%20-%20Commission%20personnel%20matters.md) | Commission personnel matters. |
+| (a) | In general. |
+| (b) | Compensation. |
+| (c) | Professional staff. |
+| (d) | Staff and services of other Federal agencies. |
+| (e) | Security clearances. |
+| (f) | Cost. |
 | [6433\.](Subchapter%20002%20%28II%29%20-%20Commission%20on%20International%20Religious%20Freedom/%C2%A7%2006433%20-%20Report%20of%20Commission.md) | Report of Commission. |
 | (a) | In general. |
 | (b) | Classified form of report. |
@@ -65,6 +78,12 @@
 | [6435\.](Subchapter%20002%20%28II%29%20-%20Commission%20on%20International%20Religious%20Freedom/%C2%A7%2006435%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | In general. |
 | (b) | Availability of funds. |
+| [6435a.](Subchapter%20002%20%28II%29%20-%20Commission%20on%20International%20Religious%20Freedom/%C2%A7%2006435a%20-%20Standards%20of%20conduct%20and%20disclosure.md) | Standards of conduct and disclosure. |
+| (a) | Cooperation with nongovernmental organizations, the Department of State, and Congress. |
+| (b) | Conflict of interest and antinepotism. |
+| (c) | Contract authority. |
+| (d) | Gifts. |
+| (e) | Annual financial report. |
 | [6436\.](Subchapter%20002%20%28II%29%20-%20Commission%20on%20International%20Religious%20Freedom/%C2%A7%2006436%20-%20Termination.md) | Termination. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

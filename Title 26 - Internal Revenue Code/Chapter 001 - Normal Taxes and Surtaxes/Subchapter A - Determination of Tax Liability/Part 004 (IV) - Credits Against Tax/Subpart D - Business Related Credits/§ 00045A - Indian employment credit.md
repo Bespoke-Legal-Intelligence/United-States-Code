@@ -20,7 +20,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified wages” means any wages paid or incurred by an employer for services performed by an employee while such employee is a qualified employee.
+&emsp;&emsp;The term “qualified wages” means any wages paid or incurred by an employer forservices performed by an employee while such employee is a qualified employee.
 
 #### (B) Coordination with work opportunity credit
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) no wages (or qualified employee health insurance costs) with respect to such employee shall be taken into account under subsection (a) for the taxable year in which such employment is terminated, and
 
-&emsp;&emsp;(B) the tax under this chapter for the taxable year in which such employment is terminated shall be increased by the aggregate credits (if any) allowed under section 38(a)for prior taxable years by reason of wages (or qualified employee health insurance costs) taken into account with respect to such employee.
+&emsp;&emsp;(B) the tax under this chapter for the taxable year in which such employment is terminated shall be increased by the aggregate credits (if any) allowed under section 38(a) for prior taxable years by reason of wages (or qualified employee health insurance costs) taken into account with respect to such employee.
 
 #### (2) Carrybacks and carryovers adjusted
 

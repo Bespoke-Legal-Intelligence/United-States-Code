@@ -8,7 +8,7 @@ Any person who has not filed a notice of claim under subsection (b) of this sect
 
 &emsp;(2) that the claimant was the owner of such property immediately prior to its vesting, or is the successor in interest of such owner by inheritance, devise, or bequest.
 
-> If the court finds in favor of the claimant, it shall order the payment, conveyance, transfer, assignment, or delivery to said claimant of such property, or the net proceeds thereof, held by said designee or the portion thereof to which the court shall determine said claimant is entitled. If suit shall be so instituted, then such property, or, if liquidated, the net proceeds thereof, shallbe retained in the custody of said designee until any final judgment or decree which shall be entered in favor of the claimant shall be fully satisfied, or until final judgment or decree shall be entered against the claimant or suit otherwise terminated.
+> If the court finds in favor of the claimant, it shall order the payment, conveyance, transfer, assignment, or delivery to said claimant of such property, or the net proceeds thereof, held by said designee or the portion thereof to which the court shall determine said claimant is entitled. If suit shall be so instituted, then such property, or, if liquidated, the net proceeds thereof, shall be retained in the custody of said designee until any final judgment or decree which shall be entered in favor of the claimant shall be fully satisfied, or until final judgment or decree shall be entered against the claimant or suit otherwise terminated.
 
 #### (b) Notice of claim; review of denial
 

@@ -20,7 +20,7 @@ For purposes of this subchapter—
 
 #### (B) Exemption for use in further manufacture
 
-&emsp;&emsp;Subparagraph (A) shall not apply to use of an article as material in the manufacture or production of, or as a component part of, another article to be manufactured or produced by him.
+&emsp;&emsp;Subparagraph (A) shall not apply to use of an article as material in the manufacture orproduction of, or as a component part of, another article to be manufactured or produced by him.
 
 #### (C) Computation of tax
 
@@ -112,7 +112,7 @@ Under regulations prescribed by the Secretary, rules similar to the rules of sub
 
 #### (e) Long-term lease
 
-For purposes of this section, the term “long-term lease” means any lease with a term of 1 year or more. In determining a lease term for purposes of the preceding sentence, the rules of section 168(i)(3)(A) shall apply.
+For purposes of this section, the term “long-term lease” means any lease with a term of 1 year or more. In determining a lease term forpurposes of the preceding sentence, the rules of section 168(i)(3)(A) shall apply.
 
 #### (f) Certain repairs and modifications not treated as manufacture
 

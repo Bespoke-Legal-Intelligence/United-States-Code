@@ -94,7 +94,7 @@ As used in this section:
 
 &emsp;&emsp;(A) the person who owns or leases the facility or an authorized agent of the person, submits to the Secretary, in such form and manner as the Secretary shall prescribe, an application that contains at a minimum—
 
-&emsp;&emsp;&emsp;(i) a description of the manufacturer, model, and type of each x-ray machine,image receptor, and processor operated in the performance of mammography by the facility;
+&emsp;&emsp;&emsp;(i) a description of the manufacturer, model, and type of each x-ray machine, image receptor, and processor operated in the performance of mammography by the facility;
 
 &emsp;&emsp;&emsp;(ii) a description of the procedures currently used to provide mammography at the facility, including—
 
@@ -264,7 +264,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(i) licensed or approved by a State to perform such surveys, reviews, or inspections for mammography facilities;
 
-&emsp;&emsp;&emsp;(ii) certified in diagnostic radiological physics or certified as qualified to performsuch surveys by a board as described in paragraph (2)(D); or
+&emsp;&emsp;&emsp;(ii) certified in diagnostic radiological physics or certified as qualified to perform such surveys by a board as described in paragraph (2)(D); or
 
 &emsp;&emsp;&emsp;(iii) in the first 5 years after October 27, 1992, who meet other criteria established by the Secretary which are comparable to the criteria described in clause (i) or (ii);
 
@@ -408,9 +408,9 @@ As used in this section:
 
 &emsp;&emsp;(B) has failed to comply with the requirements of subsection (d)(1)(B)(ii)(III) of this section or the standards established by the Secretary under subsection (f) of this section;
 
-&emsp;&emsp;(C) has failed to comply with reasonable requests of the Secretary (or of an accreditation body approved pursuant to subsection (e) of this section) for any record, information, report, or material that the Secretary\(or such accreditation body or State carrying out certification program requirements pursuant to subsection (q) of this section) concludes is necessary to determine the continued eligibility of the facility for a certificate or continued compliance with the standards established under subsection (f) of this section;
+&emsp;&emsp;(C) has failed to comply with reasonable requests of the Secretary (or of an accreditation body approved pursuant to subsection (e) of this section) for any record, information, report, or material that the Secretary (or such accreditation body or State carrying out certification program requirements pursuant to subsection (q) of this section) concludes is necessary to determine the continued eligibility of the facility for a certificate or continued compliance with the standards established under subsection (f) of this section;
 
-&emsp;&emsp;(D) has refused a reasonable request of the Secretary, any Federal officer or employee duly designated by the Secretary, or any State or local officer or employee duly designated by the State or local agency, for permission to inspect the facility or the operations and pertinent records of the facility in accordance with subsection (g) of this section;
+&emsp;&emsp;(D) has refused a reasonable request of the Secretary, any Federal officer or employee duly designated by the Secretary, or anyState or local officer or employee duly designated by the State or local agency, for permission to inspect the facility or the operations and pertinent records of the facility in accordance with subsection (g) of this section;
 
 &emsp;&emsp;(E) has violated or aided and abetted in the violation of any provision of, or regulation promulgated under, this section; or
 
@@ -466,7 +466,7 @@ If the Secretary determines that—
 
 #### (1) In general
 
-&emsp;Not later than October 1, 1996, and annually thereafter, the Secretary shall compile and make available to physicians and the generalpublic information that the Secretary determines is useful in evaluating the performance of facilities, including a list of facilities—
+&emsp;Not later than October 1, 1996, and annually thereafter, the Secretary shall compile and make available to physicians and the general public information that the Secretary determines is useful in evaluating the performance of facilities, including a list of facilities—
 
 &emsp;&emsp;(A) that have been convicted under Federal or State laws relating to fraud and abuse, false billings, or kickbacks;
 
@@ -556,7 +556,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (A) Grants
 
-&emsp;&emsp;The Secretary shall award grants to such entities as the Secretary may determine to be appropriate to establish surveillance systems in selected geographic areas to provide data to evaluate the functioning and effectiveness of breast cancer screening programs in the United States, including assessments of participation rates in screening mammography, diagnostic procedures, incidence of breast cancer, mode of detection (mammography screening or other methods), outcome and follow up information, and such related epidemiologic analyses that may improve early cancer detection and contribute to reduction in breast cancer mortality. Grants may be awarded for further research on breast cancer surveillance systems upon the Secretary's review of the evaluation of the program.
+&emsp;&emsp;The Secretary shall award grants to such entities as the Secretary may determine to be appropriate to establish surveillance systems in selected geographic areas to provide data to evaluate the functioning and effectiveness of breast cancer screening programs in the United States, including assessments of participation rates in screening mammography, diagnostic procedures, incidence of breast cancer, mode of detection (mammography screening or other methods), outcome and follow up information, and such related epidemiologic analyses that may improve early cancer detection and contribute to reduction in breast cancer mortality. Grantsmay be awarded for further research on breast cancer surveillance systems upon the Secretary's review of the evaluation of the program.
 
 #### (B) Use of funds
 
@@ -644,7 +644,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall, in accordance with this paragraph assess and collect fees from persons described in subsection (d)(1)(A) of this section (other than persons who are governmental entities, as determined by the Secretary) to cover the costs of inspections conducted under subsection (g)(1) of this section by the Secretary or a State acting under a delegation under subparagraph (A) of such subsection. Fees may be assessed and collected under this paragraph only in such manner as would result in an aggregate amount of fees collected during any fiscal year which equals the aggregate amount of costs for such fiscal year for inspections of facilities of such persons under subsection (g)(1) of this section. A person's liability for fees shall be reasonably based on the proportion of the inspection costs which relate to such person.
+&emsp;&emsp;The Secretary shall, in accordance with this paragraph assess and collect fees from persons described in subsection (d)(1)(A) ofthis section (other than persons who are governmental entities, as determined by the Secretary) to cover the costs of inspections conducted under subsection (g)(1) of this section by the Secretary or a State acting under a delegation under subparagraph (A) of such subsection. Fees may be assessed and collected under this paragraph only in such manner as would result in an aggregate amount of fees collected during any fiscal year which equals the aggregate amount of costs for such fiscal year for inspections of facilities of such persons under subsection (g)(1) of this section. A person's liability for fees shall be reasonably based on the proportion of the inspection costs which relate to such person.
 
 #### (B) Deposit and appropriations
 

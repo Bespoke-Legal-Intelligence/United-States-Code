@@ -204,7 +204,7 @@ In general.—
 
 &emsp;“(2)
 
-Revision of section 482 regulations.—Not later than 180 days after the date of the enactment of this Act \[July 18, 1984\], the Secretary of the Treasury or his delegate shall modify the safe harbor interestrates applicable under the regulations prescribed under section 482 of the Internal Revenue Code of 1986 so that such rates are consistent with the rates applicable under section 483 of such Code by reason of the amendments made by section 41.
+Revision of section 482 regulations.—Not later than 180 days after the date of the enactment of this Act \[July 18, 1984\], the Secretary of the Treasury or his delegate shall modify the safe harbor interest rates applicable under the regulations prescribed under section 482 of the Internal Revenue Code of 1986 so that such rates are consistent with the rates applicable under section 483 of such Code by reason of the amendments made by section 41.
 
 &emsp;“(3)
 
@@ -342,7 +342,7 @@ Obligations described in this subparagraph.—A debt obligation is described in 
 
 &emsp;&emsp;“(C)
 
-Regulations.—The Secretary shall prescribe such regulations as may be appropriate to effectthe purpose of this paragraph and paragraph (5), including regulations relating to tax-exempt obligations, government subsidized loans, or other instruments.
+Regulations.—The Secretary shall prescribe such regulations as may be appropriate to effect the purpose of this paragraph and paragraph (5), including regulations relating to tax-exempt obligations, government subsidized loans, or other instruments.
 
 &emsp;&emsp;“(D)
 
@@ -534,7 +534,7 @@ Accrual basis income.—For purposes of this paragraph, the term ‘accrual basi
 
 “(f)
 
-Treatment of Original Issue Discount on Tax-Exempt Obligations.—Section 1288 of such Code (as added by section 41) shall apply to obligations issued after September 3, 1982, and acquired after March 1, 1984.
+Treatment of Original Issue Discount on Tax-Exempt Obligations.—Section 1288 of such Code (as added by section 41) shall apply to obligations issuedafter September 3, 1982, and acquired after March 1, 1984.
 
 “(g)
 

@@ -126,7 +126,7 @@ For purposes of this section, the term “affiliate” has the same meaning as i
 
 &emsp;&emsp;(A) mortgage loans that the Board finds to be unfair, deceptive, or designed to evade the provisions of this section; and
 
-&emsp;&emsp;(B) refinancing of mortgage loans that the Board finds to be associated with abusivelending practices, or that are otherwise not in the interest of the borrower.
+&emsp;&emsp;(B) refinancing of mortgage loans that the Board finds to be associated with abusive lending practices, or that are otherwise not in the interest of the borrower.
 
 (Pub. L. 90–321, title I, §129, as added Pub. L. 103–325, title I, §152(d), Sept. 23, 1994, 108 Stat. 2191.)
 

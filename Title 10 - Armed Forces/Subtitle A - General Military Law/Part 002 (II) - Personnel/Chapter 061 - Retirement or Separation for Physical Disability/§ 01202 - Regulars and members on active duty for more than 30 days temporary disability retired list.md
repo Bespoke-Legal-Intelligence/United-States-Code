@@ -78,5 +78,5 @@ Temporary disability retired lists, see section 1376 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1201, 1203, 1204, 1205, 1206, 1372, 1376, 1401, 1402, 1402a, 1406, 1407 of this title; title 42 section 213a.
+This section is referred to in sections 1201, 1203, 1204, 1205, 1206, 1207a, 1372, 1376, 1401, 1402, 1402a, 1406, 1407 of this title; title 42 section 213a.
 

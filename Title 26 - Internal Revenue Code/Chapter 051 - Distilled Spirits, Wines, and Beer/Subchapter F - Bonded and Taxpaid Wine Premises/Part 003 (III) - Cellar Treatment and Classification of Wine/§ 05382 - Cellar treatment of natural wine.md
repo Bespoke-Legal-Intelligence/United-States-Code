@@ -10,7 +10,7 @@ The practices and procedures specifically enumerated in this subsection shall be
 
 &emsp;(1) The preparation and use of pure concentrated or unconcentrated juice or must. Concentrated juice or must reduced with water to its original density or to not less than 22 degrees Brix or unconcentrated juice or must reduced with water to not less than 22 degrees Brix shall be deemed to be juice or must, and shall include such amounts of water to clear crushing equipment as regulations prescribed by the Secretary may provide.
 
-&emsp;(2) The addition to natural wine, or to concentrated or unconcentrated juice or must,from one kind of fruit, of wine spirits (whether or not tax-paid) distilled in the United States from the same kind of fruit; except that (A) the wine, juice, or concentrate shall not have an alcoholic content in excess of 24 percent by volume after the addition of wine spirits, and (B) in the case of still wines, wine spirits may be added in any State only to natural wines produced by fermentation in bonded wine cellars located within the same State.
+&emsp;(2) The addition to natural wine, or to concentrated or unconcentrated juice or must, from one kind of fruit, of wine spirits (whether or not tax-paid) distilled in the United States from the same kind of fruit; except that (A) the wine, juice, or concentrate shall not have an alcoholic content in excess of 24 percent by volume after the addition of wine spirits, and (B) in the case of still wines, wine spirits may be added in any State only to natural wines produced by fermentation in bonded wine cellars located within the same State.
 
 &emsp;(3) Amelioration and sweetening of natural grape wines in accordance with section 5383.
 

@@ -54,7 +54,7 @@ Except as otherwise provided in this title, and except to the extent inconsisten
 
 #### (2) Election to distribute earnings first
 
-&emsp;An S corporation may elect to have paragraph (1) not apply to all distributions madeduring a post-termination transition period described in section 1377(b)(1)(A). Such election shall not be effective unless all shareholders of the S corporation to whom distributions are made by the S corporation during such post-termination transition period consent to such election.
+&emsp;An S corporation may elect to have paragraph (1) not apply to all distributions made during a post-termination transition period described in section 1377(b)(1)(A). Such election shall not be effective unless all shareholders of the S corporation to whom distributions are made by the S corporation during such post-termination transition period consent to such election.
 
 (Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1681; amended Pub. L. 98–369, div. A, title VII, §721(e), (<i>o</i>), (x)(3), July 18, 1984, 98 Stat. 967, 970, 971; Pub. L. 99–514, title XVIII, §1899A(33), (34), Oct. 22, 1986, 100 Stat. 2960; Pub. L. 101–508, title XI, §11813(b)(23), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 104–188, title I, §1310, Aug. 20, 1996, 110 Stat. 1784.)
 

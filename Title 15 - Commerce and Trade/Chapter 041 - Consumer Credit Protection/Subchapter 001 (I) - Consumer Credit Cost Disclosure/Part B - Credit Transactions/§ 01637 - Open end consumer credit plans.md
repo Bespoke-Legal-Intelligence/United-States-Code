@@ -2,7 +2,7 @@
 
 #### (a) Required disclosures by creditor
 
-Before opening any account under an open end consumer credit plan, the creditor shall disclose to the person to whom credit is to be extended each of the following items, to the extent applicable:
+Before opening any account under an open end consumer credit plan, the creditor shall discloseto the person to whom credit is to be extended each of the following items, to the extent applicable:
 
 &emsp;(1) The conditions under which a finance charge may be imposed, including the time period (if any) within which any credit extended may be repaid without incurring a finance charge, except that the creditor may, at his election and without disclosure, impose no such finance charge if payment is received after the termination of such time period. If no such time period is provided, the creditor shall disclose such fact.
 
@@ -38,7 +38,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;(5) Where one or more periodic rates may be used to compute the finance charge, each such rate, the range of balances to which it is applicable, and, unless the annual percentage rate (determined under section 1606(a)(2) of this title) is required to be disclosed pursuant to paragraph (6), the corresponding nominal annual percentage rate determined by multiplying the periodic rate by the number of periods in a year.
 
-&emsp;(6) Where the total finance charge exceeds 50 cents for a monthly or longer billing cycle, or the pro rata part of 50 cents for a billing cycle shorter than monthly, the total finance chargeexpressed as an annual percentage rate (determined under section 1606(a)(2) of this title), except that if the finance charge is the sum of two or more products of a rate times a portion of the balance, the creditor may, in lieu of disclosing a single rate for the total charge, disclose each such rate expressed as an annual percentage rate, and the part of the balance to which it is applicable.
+&emsp;(6) Where the total finance charge exceeds 50 cents for a monthly or longer billing cycle, or the pro rata part of 50 cents for a billing cycle shorter than monthly, the total finance charge expressed as an annual percentage rate (determined under section 1606(a)(2) of this title), except that if the finance charge is the sum of two or more products of a rate times a portion of the balance, the creditor may, in lieu of disclosing a single rate for the total charge, disclose each such rate expressed as an annual percentage rate, and the part of the balance to which it is applicable.
 
 &emsp;(7) The balance on which the finance charge was computed and a statement of how the balance was determined. If the balance is determined without first deducting all credits during the period, that fact and the amount of such payments shall also be disclosed.
 
@@ -190,7 +190,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 #### (B) Other information
 
-&emsp;&emsp;In addition to the information required to be disclosed under subparagraph (A), each written application or solicitation to which such subparagraph applies shall discloseclearly and conspicuously the following information, subject to subsections (e) and (f) of this section:
+&emsp;&emsp;In addition to the information required to be disclosed under subparagraph (A), each written application or solicitation to which such subparagraph applies shall disclose clearly and conspicuously the following information, subject to subsections (e) and (f) of this section:
 
 #### (i) Cash advance fee
 
@@ -206,7 +206,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 #### (C) Applications and solicitations by other means
 
-&emsp;&emsp;Any application to open a charge card account, and any solicitation to open such an account without requiring an application, that is made available to the public or contained in catalogs, magazines, or other publications shall contain—
+&emsp;&emsp;Any application to open a charge card account, and any solicitation to open such an account without requiring an application,that is made available to the public or contained in catalogs, magazines, or other publications shall contain—
 
 &emsp;&emsp;&emsp;(i) the information—
 
@@ -358,7 +358,7 @@ For effective date of amendments by Pub. L. 100–709, see Regulations; Effectiv
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with allregulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Effective Date of 1974 Amendment
 

@@ -23,10 +23,13 @@
 | [12319\.](%C2%A7%2012319%20-%20Ready%20Reserve%20muster%20duty.md) | Ready Reserve: muster duty. |
 | [12320\.](%C2%A7%2012320%20-%20Reserve%20officers%20grade%20in%20which%20ordered%20to%20active%20duty.md) | Reserve officers: grade in which ordered to active duty. |
 | [12321\.](%C2%A7%2012321%20-%20Reserve%20Officer%20Training%20Corps%20units%20limitation%20on%20number%20of%20Reserves%20assigned.md) | Reserve Officer Training Corps units: limitation on number of Reserves assigned. |
+| [12322\.](%C2%A7%2012322%20-%20Active%20duty%20for%20health%20care.md) | Active duty for health care. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title VII, §705(a)(2), Oct. 5, 1999, 113 Stat. 683, added item 12322.
 
 1997—Pub. L. 105–85, div. A, title V, §511(e)(2), Nov. 18, 1997, 111 Stat. 1729, inserted “and certain Individual Ready Reserve members” after “Selected Reserve” in item 12304.
 
@@ -74,3 +77,4 @@ This chapter is referred to in section 672 of this title; title 37 section 205.
 - [&sect; 12319 - Ready Reserve muster duty](%C2%A7%2012319%20-%20Ready%20Reserve%20muster%20duty.md)
 - [&sect; 12320 - Reserve officers grade in which ordered to active duty](%C2%A7%2012320%20-%20Reserve%20officers%20grade%20in%20which%20ordered%20to%20active%20duty.md)
 - [&sect; 12321 - Reserve Officer Training Corps units limitation on number of Reserves assigned](%C2%A7%2012321%20-%20Reserve%20Officer%20Training%20Corps%20units%20limitation%20on%20number%20of%20Reserves%20assigned.md)
+- [&sect; 12322 - Active duty for health care](%C2%A7%2012322%20-%20Active%20duty%20for%20health%20care.md)

@@ -6,7 +6,7 @@
 
 &emsp;(2) Veterans with service-connected disabilities rated 30 percent or 40 percent.
 
-&emsp;(3) Veterans who are former prisoners of war, veterans with service-connected disabilities rated 10 percent or 20 percent, and veterans described in subparagraphs (B) and (C) of section 1710(a)(2) of this title.
+&emsp;(3) Veterans who are former prisoners of war or who were awarded the Purple Heart, veterans with service-connected disabilities rated 10 percent or 20 percent, and veterans described in subparagraphs (B) and (C) of section 1710(a)(2) of this title.
 
 &emsp;(4) Veterans who are in receipt of increased pension based on a need of regular aid and attendance or by reason of being permanently housebound and other veterans who are catastrophically disabled.
 
@@ -28,7 +28,11 @@
 
 (2) The Secretary shall provide hospital care and medical services under section 1710(a)(1) of this title, and under subparagraph (B) of section 1710(a)(2) of this title, for the 12-month period following such veteran's discharge or release from service, to any veteran referred to in such sections for a disability specified in the applicable subparagraph of such section, notwithstanding the failure of the veteran to enroll in the system of patient enrollment referred to in subsection (a) of this section.
 
-(Added Pub. L. 104–262, title I, §104(a)(1), Oct. 9, 1996, 110 Stat. 3182.)
+(Added Pub. L. 104–262, title I, §104(a)(1), Oct. 9, 1996, 110 Stat. 3182; amended Pub. L. 106–117, title I, §112(2), Nov. 30, 1999, 113 Stat. 1556.)
+
+#### Amendments
+
+1999—Subsec. (a)(3). Pub. L. 106–117 inserted “or who were awarded the Purple Heart” after “former prisoners of war”.
 
 #### Assessment of Implementation and Operation of Amendments by Pub. L. 104–262
 
@@ -70,9 +74,9 @@ Matters To Be Included.—The report under subsection (b) shall include detailed
 
 &emsp;“(5) The numbers and characteristics of, and the type and extent of health care furnished to, veterans not enrolled for care (shown separately by reference to each class of eligibility, both in total and separately by facility).
 
-&emsp;“(6) The specific fiscal impact (shown in total and by geographic health-care delivery areas) of changes in delivery patterns instituted under the amendments made by this title \[enacting this section and section 1706 of this title and amending sections 1525, 1701, 1703, 1710, 1712, 1712A, 1717, 1718, 1720, 1722, 1729, 2104, 5317, 8110, and 8111A of this title\].”
+&emsp;“(6) The specific fiscal impact (shown in total and by geographic health-care delivery areas) of changes in delivery patterns instituted under the amendments made by this title \[enacting this section and section1706 of this title and amending sections 1525, 1701, 1703, 1710, 1712, 1712A, 1717, 1718, 1720, 1722, 1729, 2104, 5317, 8110, and 8111A of this title\].”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1718 of this title; title 10 section 1076c.
+This section is referred to in sections 1718, 1720, 1725 of this title; title 10 section 1076c.
 

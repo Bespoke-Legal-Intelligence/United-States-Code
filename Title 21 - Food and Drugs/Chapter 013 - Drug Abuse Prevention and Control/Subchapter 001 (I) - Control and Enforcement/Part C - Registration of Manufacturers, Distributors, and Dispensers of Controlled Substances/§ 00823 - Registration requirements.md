@@ -66,7 +66,7 @@ The Attorney General shall register an applicant to distribute controlled substa
 
 #### (f) Research by practitioners; pharmacies; research applications; construction of Article 7 of the Convention on Psychotropic Substances
 
-The Attorney General shall register practitioners (including pharmacies, as distinguished from pharmacists) to dispense, or conduct research with, controlled substances in schedule II, III, IV, or V, if the applicant is authorized to dispense, or conduct research with respect to,controlled substances under the laws of the State in which he practices. The Attorney General may deny an application for such registration if he determines that the issuance of such registration would be inconsistent with the public interest. In determining the public interest, the following factors shall be considered:
+The Attorney General shall register practitioners (including pharmacies, as distinguished from pharmacists) to dispense, or conduct research with, controlled substances in schedule II, III, IV, or V, if the applicant is authorized to dispense, or conduct research with respect to, controlled substances under the laws of the State in which he practices. The Attorney General may deny an application for such registration if he determines that the issuance of such registration would be inconsistent with the public interest. In determining the public interest, the following factors shall be considered:
 
 &emsp;(1) The recommendation of the appropriate State licensing board or professional disciplinary authority.
 
@@ -92,7 +92,7 @@ Practitioners who dispense narcotic drugs to individuals for maintenance treatme
 
 #### (h) Applicants for distribution of list I chemicals
 
-The Attorney General shall register an applicant to distribute a list I chemical unless the Attorney General determines that registration of the applicant is inconsistent with the public interest. Registration under this subsection shall not be required for the distribution of a drug product that is exempted under section 802(39)(A)(iv) of this title. In determining the public interest for the purposes of this subsection, the Attorney General shall consider—
+The Attorney General shall register an applicant to distribute a list I chemical unless theAttorney General determines that registration of the applicant is inconsistent with the public interest. Registration under this subsection shall not be required for the distribution of a drug product that is exempted under section 802(39)(A)(iv) of this title. In determining the public interest for the purposes of this subsection, the Attorney General shall consider—
 
 &emsp;(1) maintenance by the applicant of effective controls against diversion of listed chemicals into other than legitimate channels;
 

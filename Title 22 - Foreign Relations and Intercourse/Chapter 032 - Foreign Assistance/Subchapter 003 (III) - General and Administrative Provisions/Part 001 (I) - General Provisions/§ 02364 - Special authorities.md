@@ -24,7 +24,7 @@
 
 #### (b) United States obligations in West Germany
 
-Whenever the President determines it to be important to the national interest, he may use funds available for the purposes of part IV of subchapter I of this chapter in order to meet the responsibilities or objectives of the United States in Germany, including West Berlin, andwithout regard to such provisions of law as he determines should be disregarded to achieve this purpose.
+Whenever the President determines it to be important to the national interest, he may use funds available for the purposes of part IV of subchapter I of this chapter in order to meet the responsibilities or objectives of the United States in Germany, including West Berlin, and without regard to such provisions of law as he determines should be disregarded to achieve this purpose.
 
 #### (c) Certification by President of inadvisability to specify nature of use of funds; reports to Congress
 
@@ -70,7 +70,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Delegation of Functions
 
-Functions of President under subsec. (b), except the function of determining which provisions of law should be disregarded, delegated to Secretary of State by sections 1–201(a)(11) and 1–701(e)(3) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56674, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

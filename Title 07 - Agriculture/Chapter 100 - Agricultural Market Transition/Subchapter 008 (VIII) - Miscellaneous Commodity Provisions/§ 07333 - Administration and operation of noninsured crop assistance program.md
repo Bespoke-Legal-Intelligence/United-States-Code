@@ -42,11 +42,11 @@
 
 #### (1) Required area loss
 
-&emsp;A producer of an eligible crop shall not receive noninsured crop disaster assistance unless the average yield for that crop, or an equivalent measure in the event yield data are not available, in an area falls below 65 percentof the expected area yield, as established by the Secretary.
+&emsp;A producer of an eligible crop shall not receive noninsured crop disaster assistance unless the average yield for that crop, or an equivalent measure in the event yield data are not available, in an area falls below 65 percent of the expected area yield, as established by the Secretary.
 
 #### (2) Prevented planting
 
-&emsp;Subject to paragraph (1), the Secretary shall make a prevented planting noninsured crop disaster assistance payment if the producer is prevented from planting more than 35 percent of the acreage intended for the eligible crop because of drought, flood, or other natural disaster, as determined by the Secretary.
+&emsp;Subject to paragraph (1), the Secretary shall make a prevented planting noninsured cropdisaster assistance payment if the producer is prevented from planting more than 35 percent of the acreage intended for the eligible crop because of drought, flood, or other natural disaster, as determined by the Secretary.
 
 #### (3) Reduced yields
 
@@ -116,11 +116,11 @@ The Secretary shall make available to a producer eligible for noninsured assista
 
 #### (6) Yield variations due to different farming practices
 
-&emsp;The Secretary shall ensure that noninsured crop disaster assistance accurately reflectssignificant yield variations due to different farming practices, such as between irrigated and nonirrigated acreage.
+&emsp;The Secretary shall ensure that noninsured crop disaster assistance accurately reflects significant yield variations due to different farming practices, such as between irrigated and nonirrigated acreage.
 
 #### (f) Contract payments
 
-A producer who has received a guaranteed payment for production, as opposed to delivery, of a crop pursuant to a contract shall have the production of the producer adjusted upward by the amount of the production equal to the amount of the contract payment received.
+A producer who has received a guaranteed payment for production, as opposed to delivery,of a crop pursuant to a contract shall have the production of the producer adjusted upward by the amount of the production equal to the amount of the contract payment received.
 
 #### (g) Use of Commodity Credit Corporation
 
@@ -176,7 +176,7 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 &emsp;The Secretary shall issue regulations prescribing such rules as the Secretary determines necessary to ensure a fair and equitable application of section 1308 of this title, the general payment limitation regulations of the Secretary, and the limitations established under this subsection.
 
-(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947; Pub. L. 105–277, title I, §101(a) \[title VIII, §803(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38.)
+(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947; Pub. L. 105–277, div. A, §101(a) \[title VIII, §803(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38.)
 
 #### References in Text
 

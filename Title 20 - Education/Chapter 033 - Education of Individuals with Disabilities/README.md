@@ -294,7 +294,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 3441, 4356, 6062, 6143, 6314, 6365, 6645, 6648, 6649, 6661b, 6661g, 7426, 7703, 8065b, 8921, 9252 of this title; title 5 section 5924; title 10 section 2164; title 25 sections 2503, 2504; title 29 sections 721, 1533, 1645, 2618; title 42 sections 290ff–2, 290ff–4, 300x–1, 1760, 1769h, 6024, 9855d.
+This chapter is referred to in sections 3441, 4356, 6062, 6143, 6314, 6365, 6645, 6648, 6649, 6661b, 6661g, 7426, 7703, 8065b, 8921, 9252 of this title; title 5 section 5924; title 10 section 2164; title 25 sections 2503, 2504; title 29 sections 721, 1533, 1645, 2618; title 42 sections 290ff–2, 290ff–4, 300x–1, 1760, 6024, 9840a.
 
 #### Codification
 

@@ -32,7 +32,7 @@ Section 413 of title 18, U.S.C., 1940 ed., providing the short title “National
 
 Section 414 of title 18, U.S.C., 1940 ed., containing definitions of “interstate or foreign commerce,” “securities,” and “money,” is incorporated in sections 10 and 2311 of this title.
 
-Section 417 of title 18, U.S.C., 1940 ed., relating to indictments and determination of “value” of goods,wares, merchandise, securities, and money referred to in indictments, is also incorporated in section 2311 of this title.
+Section 417 of title 18, U.S.C., 1940 ed., relating to indictments and determination of “value” of goods, wares, merchandise, securities, and money referred to in indictments, is also incorporated in section 2311 of this title.
 
 Section 418 of title 18, U.S.C., 1940 ed., relating to venue, was omitted as completely covered by section 3237 of this title.
 

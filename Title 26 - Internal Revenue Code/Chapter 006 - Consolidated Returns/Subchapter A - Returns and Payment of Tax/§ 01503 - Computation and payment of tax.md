@@ -10,7 +10,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 #### (1) In general
 
-&emsp;If an election under section 1504(c)(2) is in effect for the taxable year and the consolidated taxable income of the members of the group not taxed under section 801 results in a consolidated net operating loss for such taxable year, then under regulations prescribed by the Secretary, the amount of such loss which cannot be absorbed in the applicable carry-back periods against the taxable income of such members not taxed under section 801 shall be taken into account in determining the consolidated taxable income of the affiliated group for such taxable year to the extent of 35 percent of such loss or 35 percent of the taxable income of the members taxed under section 801, whichever is less. The unused portion of such loss shall be available as a carryover, subject to the same limitations (applicable to the sum of the loss for the carryover year and the loss (or losses) carried over to such year), in applicable carryover years.
+&emsp;If an election under section 1504(c)(2) is in effect for the taxable year and the consolidated taxable income of the members of the group not taxed under section 801 results in a consolidated net operating loss for such taxableyear, then under regulations prescribed by the Secretary, the amount of such loss which cannot be absorbed in the applicable carry-back periods against the taxable income of such members not taxed under section 801 shall be taken into account in determining the consolidated taxable income of the affiliated group for such taxable year to the extent of 35 percent of such loss or 35 percent of the taxable income of the members taxed under section 801, whichever is less. The unused portion of such loss shall be available as a carryover, subject to the same limitations (applicable to the sum of the loss for the carryover year and the loss (or losses) carried over to such year), in applicable carryover years.
 
 #### (2) Losses of recent nonlife affiliates
 
@@ -28,7 +28,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “dual consolidated loss” means any net operating loss of a domestic corporation which is subject to an income tax of a foreign country on its income without regard to whether such income is fromsources in or outside of such foreign country, or is subject to such a tax on a residence basis.
+&emsp;&emsp;Except as provided in subparagraph (B), the term “dual consolidated loss” means any net operating loss of a domestic corporation which is subject to an income tax of a foreign country on its income without regard to whether such income is from sources in or outside of such foreign country, or is subject to such a tax on a residence basis.
 
 #### (B) Special rule where loss not used under foreign law
 
@@ -84,7 +84,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 #### (4) Elimination of election to reduce basis of indebtedness
 
-&emsp;Nothing in the regulations prescribed under section 1502 shall permit any reduction in the amount otherwise included in gross income by reason of an excess loss account if such reduction is on account of a reduction in the basis of indebtedness.
+&emsp;Nothing in the regulations prescribed under section 1502 shall permit any reduction in theamount otherwise included in gross income by reason of an excess loss account if such reduction is on account of a reduction in the basis of indebtedness.
 
 #### (f) Limitation on use of group losses to offset income of subsidiary paying preferred dividends
 
@@ -204,7 +204,7 @@ Subsec. (d). Pub. L. 88–272, §234(b)(1), redesignated subsec. (d) as (b).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11813(b)(25) of Pub. L. 101–508 applicable to property placed in service after Dec. 31,1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by section 11813(b)(25) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -312,7 +312,7 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 1031(b)(4) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, see section 1031(c) of Pub. L. 94–455, set out as a note under section 904 of this title.
 
-Amendment by section 1052(c)(5) of Pub. L. 94–455 effective with respect to taxable years beginning afterDec. 31, 1979, see section 1052(d) of Pub. L. 94–455, set out as a note under section 170 of this title.
+Amendment by section 1052(c)(5) of Pub. L. 94–455 effective with respect to taxable years beginning after Dec. 31, 1979, see section 1052(d) of Pub. L. 94–455, set out as a note under section 170 of this title.
 
 Amendment by section 1507(b)(3) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1980, see section 1507(c) of Pub. L. 94–455, set out as a note under section 1504 of this title.
 

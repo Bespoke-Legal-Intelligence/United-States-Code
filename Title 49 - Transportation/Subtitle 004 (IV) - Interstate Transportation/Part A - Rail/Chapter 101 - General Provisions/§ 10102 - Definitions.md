@@ -6,7 +6,7 @@ In this part—
 
 &emsp;(2) “car service” includes (A) the use, control, supply, movement, distribution, exchange, interchange, and return of locomotives, cars, other vehicles, and special types of equipment used in the transportation of property by a rail carrier, and (B) the supply of trains by a rail carrier;
 
-&emsp;(3) “control”, when referring to a relationship between persons, includes actual control, legal control, and the power to exercise control, through or by (A) common directors, officers, stockholders, a voting trust, or a holding or investment company, or (B) any other means;
+&emsp;(3) “control”, when referring to a relationship between persons, includes actual control,legal control, and the power to exercise control, through or by (A) common directors, officers, stockholders, a voting trust, or a holding or investment company, or (B) any other means;
 
 &emsp;(4) “person”, in addition to its meaning under section 1 of title 1, includes a trustee, receiver, assignee, or personal representative of a person;
 

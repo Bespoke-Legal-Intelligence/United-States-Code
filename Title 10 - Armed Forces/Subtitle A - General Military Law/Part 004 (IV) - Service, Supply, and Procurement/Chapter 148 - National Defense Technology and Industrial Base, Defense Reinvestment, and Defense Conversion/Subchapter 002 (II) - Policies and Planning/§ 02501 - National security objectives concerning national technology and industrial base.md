@@ -56,13 +56,59 @@ Subsec. (a)(5). Pub. L. 103–160, §1313, added par. (5).
 
 Subsec. (b)(2). Pub. L. 103–160, §1182(a)(10), substituted “that, by reducing the public sector demand for capital, increases the amount of capital available” for “and thereby free up capital”.
 
+#### Report by Under Secretary of Defense for Acquisition, Technology, and Logistics
+
+Pub. L. 106–65, div. A, title II, §243, Oct. 5, 1999, 113 Stat. 551, provided that:
+
+“(a)
+
+Requirement.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the actions that are necessary to promote the research base and technological development that will be needed for ensuring that the Armed Forces have the military capabilities that are necessary for meeting national security requirements over the next two to three decades.
+
+“(b)
+
+Content.—The report shall include the actions that have been taken or are planned to be taken within the Department of Defense to ensure that—
+
+&emsp;“(1) the Department of Defense laboratories place an appropriate emphasis on revolutionary changes in military operations and the new technologies that will be necessary to support those operations;
+
+&emsp;“(2) the Department helps sustain a high-quality national research base that includes organizations attuned to the needs of the Department, the fostering and creation of revolutionary technologies useful to the Department, and the capability to identify opportunities for new military capabilities in emerging scientific knowledge;
+
+&emsp;“(3) the Department can identify, provide appropriate funding for, and ensure the coordinated development of joint technologies that will serve the needs of more than one of the Armed Forces;
+
+&emsp;“(4) the Department can identify militarily relevant technologies that are developed in the private sector, rapidly incorporate those technologies into defense systems, and effectively utilize technology transfer processes;
+
+&emsp;“(5) the Department can effectively and efficiently manage the transition of new technologies from the applied research and advanced technological development stage through the product development stage in a manner that ensures that maximum advantage is obtained from advances in technology; and
+
+&emsp;“(6) the Department's educational institutions for the officers of the uniformed services incorporate into their officer education and training programs, as appropriate, materials necessary to ensure that the officers have the familiarity with the processes, advances, and opportunities in technology development that is necessary for making decisions that ensure the superiority of United States defense technology in the future.”
+
 #### Sense of Congress on Defense Science and Technology Program
+
+Pub. L. 106–65, div. A, title II, §212, Oct. 5, 1999, 113 Stat. 542, provided that:
+
+“(a)
+
+Failure To Comply With Funding Objective.—It is the sense of Congress that the Secretary of Defense has failed to comply with the funding objective for the Defense Science and Technology Program, especially the Air Force Science and Technology Program, as stated in section 214(a) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 1948) \[set out as a note below\], thus jeopardizing the stability of the defense technology base and increasing the risk of failure to maintain technological superiority in future weapon systems.
+
+“(b)
+
+Funding Objective.—It is further the sense of Congress that, for each of the fiscal years 2001 through 2009, it should be an objective of the Secretary of Defense to increase the budget for the Defense Science and Technology Program, including the science and technology program within each military department, for the fiscal year over the budget for that program for the preceding fiscal year by a percent that is at least two percent above the rate of inflation as determined by the Office of Management and Budget.
+
+“(c)
+
+Certification.—If the proposed budget for a fiscal year covered by subsection (b) fails to comply with the objective set forth in that subsection—
+
+&emsp;“(1) the Secretary of Defense shall submit to Congress—
+
+&emsp;&emsp;“(A) the certification of the Secretary that the budget does not jeopardize the stability of the defense technology base or increase the risk of failure to maintain technological superiority in future weapon systems; or
+
+&emsp;&emsp;“(B) a statement of the Secretary explaining why the Secretary is unable to submit such certification; and
+
+&emsp;“(2) the Defense Science Board shall, not more than 60 days after the date on which the Secretary submits the certification or statement under paragraph (1), submit to the Secretary and Congress a report assessing the effect such failure to comply is likely to have on defense technology and the national defense.”
 
 Pub. L. 105–261, div. A, title II, §214, Oct. 17, 1998, 112 Stat. 1948, provided that:
 
 “(a)
 
-Funding Requirements for the Defense Science and Technology Program Budget.—It is the sense of Congress that, for each of the fiscal years 2000 through 2008, it should be an objective of the Secretary of Defense to increase the budget for the Defense Science and Technology Program for the fiscal yearover the budget for that program for the preceding fiscal year by a percent that is at least two percent above the rate of inflation as determined by the Office of Management and Budget.
+Funding Requirements for the Defense Science and Technology Program Budget.—It is the sense of Congress that, for each of the fiscal years 2000 through 2008, it should be an objective of the Secretary of Defense to increase the budget for the Defense Science and Technology Program for the fiscal year over the budget for that program for the preceding fiscal year by a percent that is at least two percent above the rate of inflation as determined by the Office of Management and Budget.
 
 “(b)
 
@@ -140,15 +186,15 @@ Definitions.—In this section:
 
 #### Annual Joint Warfighting Science and Technology Plan
 
-Section 270 of Pub. L. 104–201 provided that:
+Section 270 of Pub. L. 104–201, as amended by Pub. L. 106–65, div. A, title II, §242, title X, §1067(5), Oct. 5, 1999, 113 Stat. 551, 774, provided that:
 
 “(a)
 
-Annual Plan Required.—On March 1 of each year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a plan for ensuring that the science and technology program of the Department of Defense supports the development of the future joint warfighting capabilities identified as priority requirements for the Armed Forces.
+Annual Plan Required.—On March 1 of each year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a plan for ensuring that the science and technology program of the Department of Defense supports the development of the future joint warfighting capabilities identified as priority requirements for the Armed Forces.
 
 “(b)
 
-First Plan.—The first plan under subsection (a) shall be submitted not later than March 1, 1997.”
+Technology Area Review and Assessment.—With the submission of the plan under subsection (a) each year, the Secretary shall also submit to the committees referred to in that subsection a summary of each technology area review and assessment conducted by the Department of Defense in support of that plan.”
 
 #### Cost Reimbursement Rules for Indirect Costs Attributable to Private Sector Work of Defense Contractors
 
@@ -156,7 +202,7 @@ Section 808 of Pub. L. 104–106 authorized Secretary of Defense to enter into a
 
 #### Documentation for Awards for Cooperative Agreements or Other Transactions Under Defense Technology Reinvestment Programs
 
-Pub. L. 103–337, div. A, title XI, §1118, Oct. 5, 1994, 108 Stat. 2870, provided that: “At the time of the award for a cooperative agreement or other transaction under a program carried out under chapter 148 of title 10, United States Code, the head of the agency concerned shall include in the file pertaining to such agreementor transaction a brief explanation of the manner in which the award advances and enhances a particular national security objective set forth in section 2501(a) of such title or a particular policy objective set forth in \[former\] section 2501(b) of such title.”
+Pub. L. 103–337, div. A, title XI, §1118, Oct. 5, 1994, 108 Stat. 2870, provided that: “At the time of the award for a cooperative agreement or other transaction under a program carried out under chapter 148 of title 10, United States Code, the head of the agency concerned shall include in the file pertaining to such agreement or transaction a brief explanation of the manner in which the award advances and enhances a particular national security objective set forth in section 2501(a) of such title or a particular policy objective set forth in \[former\] section 2501(b) of such title.”
 
 #### Reports on Defense Conversion, Reinvestment, and Transition Assistance Programs
 
@@ -288,7 +334,7 @@ Regulations.—The Secretary may prescribe regulations to provide for considerat
 
 #### Armament Retooling and Manufacturing Support Initiative
 
-Subtitle H of title I of div. A of Pub. L. 102–484, as amended by Pub. L. 103–35, title II, §202(a)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–337, div. A, title XI, §1141(a), (b), Oct. 5, 1994, 108 Stat. 2879; Pub. L. 104–201, div. A, title I, §143, Sept. 23, 1996, 110 Stat. 2449; Pub. L. 105–261, div. A, title I, §115, Oct. 17, 1998, 112 Stat. 1939, provided that:
+Subtitle H of title I of div. A of Pub. L. 102–484, as amended by Pub. L. 103–35, title II, §202(a)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–337, div. A, title XI, §1141(a), (b), Oct. 5, 1994, 108 Stat. 2879; Pub. L. 104–201, div. A, title I, §143, Sept. 23, 1996, 110 Stat. 2449; Pub. L. 105–261, div. A, title I, §115, Oct. 17, 1998, 112 Stat. 1939; Pub. L. 106–65, div. A, title I, §116, Oct. 5, 1999, 113 Stat. 533, provided that:
 
 #### “SEC. 191. SHORT TITLE.
 
@@ -320,7 +366,7 @@ Subtitle H of title I of div. A of Pub. L. 102–484, as amended by Pub. L. 103�
 
 “(a)
 
-Authority for Initiative.—During fiscal years 1993 through 1999, the Secretary of the Army may carry out a program to be known as the ‘Armament Retooling and Manufacturing Support Initiative’ (hereinafter in this subtitle referred to as the ‘ARMS Initiative’).
+Authority for Initiative.—During fiscal years 1993 through 2001, the Secretary of the Army may carry out a program to be known as the ‘Armament Retooling and Manufacturing Support Initiative’ (hereinafter in this subtitle referred to as the ‘ARMS Initiative’).
 
 “(b)
 
@@ -336,7 +382,7 @@ Purposes.—The purposes of the ARMS Initiative are as follows:
 
 &emsp;“(5) To contribute to the attainment of economic stability in economically depressed regions of the United States where there are Government-owned, contractor-operated ammunition manufacturing facilities of the Department of the Army.
 
-&emsp;“(6) To maintain in the United States a work force having the skills in manufacturing processes that arenecessary to meet industrial emergency planned requirements for national security purposes.
+&emsp;“(6) To maintain in the United States a work force having the skills in manufacturing processes that are necessary to meet industrial emergency planned requirements for national security purposes.
 
 &emsp;“(7) To be a model for future defense conversion initiatives.
 
@@ -440,7 +486,7 @@ Notice Requirement After Enactment of Appropriations Act.—Each year, not later
 
 “(b)
 
-Notice to Subcontractors.—Not later than 60 days after the date on which the prime contractor fora contract under a major defense program receives notice under subsection (a), the prime contractor shall—
+Notice to Subcontractors.—Not later than 60 days after the date on which the prime contractor for a contract under a major defense program receives notice under subsection (a), the prime contractor shall—
 
 &emsp;“(1) provide notice of that termination or substantial reduction to each person that is a first-tier subcontractor under that prime contract for subcontracts in an amount not less than $500,000; and
 
@@ -462,7 +508,7 @@ Contractor Notice to Employees and State Dislocated Worker Unit.—Not later tha
 
 “(d)
 
-Constructive Notice.—The notice of termination of, or substantial reduction in, a defense contract provided under subsection (c)(1) to an employee of a contractor shall have the same effect as a notice of termination to such employee for the purposes of determining whether such employee is eligible for training, adjustment assistance, and employment services under section 325 or 325A of the Job Training Partnership Act \[29 U.S.C. 1662d, 1662d–1\] or to participate in employment and training activities carried out under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], except in a case in which the employer has specified that the termination of, or substantial reduction in, the contract is not likely to result in plant closure or mass layoff.
+Constructive Notice.—The notice of termination of, or substantial reduction in, a defense contract provided under subsection (c)(1) to an employee of a contractor shall have the same effect as a notice oftermination to such employee for the purposes of determining whether such employee is eligible for training, adjustment assistance, and employment services under section 325 or 325A of the Job Training Partnership Act \[29 U.S.C. 1662d, 1662d–1\] or to participate in employment and training activities carried out under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], except in a case in which the employer has specified that the termination of, or substantial reduction in, the contract is not likely to result in plant closure or mass layoff.
 
 “(e)
 
@@ -486,5 +532,5 @@ Definitions.—For purposes of this section:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2198, 2500, 2502, 2505, 2506, 2511, 2514, 2515, 2519, 2525, 2540, 7315 of this title.
+This section is referred to in sections 2198, 2500, 2502, 2505, 2506, 2511, 2514, 2515, 2519, 2525, 2540, 2709, 7315 of this title.
 

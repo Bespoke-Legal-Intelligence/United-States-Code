@@ -24,7 +24,7 @@ Each local educational agency shall provide not less than 33 percent of the cost
 
 &emsp;&emsp;&emsp;(iv) Programs under the Women's Educational Equity Act of 1994 \[20 U.S.C. 7231 et seq.\].
 
-&emsp;&emsp;&emsp;(v) Programs under title III of the Goals 2000: Educate America Act \[20 U.S.C. 5881 et seq.\].
+&emsp;&emsp;&emsp;(v) Programs under title III <sup>1</sup> of the Goals 2000: Educate America Act.
 
 &emsp;&emsp;&emsp;(vi) Programs that are related to the purposes of this chapter that are administered by other Federal agencies, including the National Science Foundation, the National Endowment for the Humanities, the National Endowment for the Arts, the Institute of Museum and Library Services, and the Department of Energy.
 
@@ -42,9 +42,9 @@ The State educational agency may approve an application which has not fully met 
 
 #### References in Text
 
-The Women's Educational Equity Act of 1994, referred to in subsec. (b)(1)(C)(iv), is part B (§§5201–5208) of titleV of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3695, which is classified generally to part B (§7231 et seq.) of subchapter V of this chapter. For complete classification of this Act to the Code, see section 7231 of this title and Tables.
+The Women's Educational Equity Act of 1994, referred to in subsec. (b)(1)(C)(iv), is part B (§§5201–5208) of title V of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3695, which is classified generally to part B (§7231 et seq.) of subchapter V of this chapter. For complete classification of this Act to the Code, see section 7231 of this title and Tables.
 
-The Goals 2000: Educate America Act, referred to in subsec. (b)(1)(C)(v), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsec. (b)(1)(C)(v), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act was classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title and was repealed by Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §310(i)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–265. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (b)(1)(C)(vii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
@@ -55,4 +55,6 @@ The Individuals with Disabilities Education Act, referred to in subsec. (b)(1)(C
 #### Section Referred to in Other Sections
 
 This section is referred to in section 6648 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -34,7 +34,7 @@ For the purpose of this subchapter and part C of subchapter I of chapter 34 of t
 
 &emsp;(11) for a student engaged in a work experience under a cooperative education program, an allowance for reasonable costs associated with such employment (as determined by the institution); and
 
-&emsp;(12) for a student who receives a loan under this or any other Federal law, or, at the option of the institution, a conventional student loan incurred by the student to cover a student's cost of attendance at the institution, an allowance for the actual cost of any loan fee, origination fee, or insurance premium charged to such student or such parent on such loan, or the average cost of any such fee or premium charged by the Secretary, lender, or guaranty agency making or insuring such loan, as the case may be.
+&emsp;(12) for a student who receives a loan under this or any other Federal law, or, at the option of the institution, a conventional student loan incurred by the student to cover a student's cost of attendance at the institution, an allowance for the actual cost of any loan fee, origination fee, or insurance premium charged to such student or such parent on such loan, orthe average cost of any such fee or premium charged by the Secretary, lender, or guaranty agency making or insuring such loan, as the case may be.
 
 (Pub. L. 89–329, title IV, §472, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1454; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 585; Pub. L. 103–208, §2(g)(1), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §471, Oct. 7, 1998, 112 Stat. 1729.)
 
@@ -68,5 +68,5 @@ Amendment by Pub. L. 102–325 applicable with respect to determinations of need
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1015, 1070a, 1078, 1078–8, 1087vv, 1093 of this title; title 10 sections 1151, 1598, 2145, 2193, 2410c; title 26 sections 221, 529; title 42 section 12604.
+This section is referred to in sections 1015, 1070a, 1078, 1078–8, 1087vv, 1093 of this title; title 10 sections 1598, 2145, 2193, 2410c; title 26 sections 221, 529; title 42 section 12604.
 

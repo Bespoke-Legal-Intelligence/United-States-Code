@@ -34,6 +34,8 @@ Historical and Revision Notes
 
 36:3417.
 
+&nbsp;
+
 In this section, the text of 36:3417 is omitted as executed and obsolete.
 
 In clause (1), the word\[s\] “and alter” and “not inconsistent with the laws of the United States or any State in which the corporation is to operate” are omitted as unnecessary.

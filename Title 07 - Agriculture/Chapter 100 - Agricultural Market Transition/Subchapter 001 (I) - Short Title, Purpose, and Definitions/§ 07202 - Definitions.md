@@ -12,7 +12,7 @@ In this chapter:
 
 #### (3) Contract
 
-&emsp;The terms “contract” and “production flexibility contract” mean a production flexibilitycontract entered into under section 7211 of this title.
+&emsp;The terms “contract” and “production flexibility contract” mean a production flexibility contract entered into under section 7211 of this title.
 
 #### (4) Contract acreage
 
@@ -72,7 +72,9 @@ In this chapter:
 
 For definition of “this chapter”, referred to in text, see note set out under section 7201 of this title.
 
-The Agricultural Act of 1949, referred to in pars. (1), (2), and (4), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. Title V of the Act is classified generally to subchapter IV (§1461 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in pars. (1), (2), and (4), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. Title V of the Act, which was classified generally to subchapter IV (§1461 et seq.) of chapter 35A of this title, was omitted from the Code. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+
+Section 505 of the Agricultural Act of 1949 (7 U.S.C. 1465), referred to in par. (9), was omitted from the Code.
 
 #### Section Referred to in Other Sections
 

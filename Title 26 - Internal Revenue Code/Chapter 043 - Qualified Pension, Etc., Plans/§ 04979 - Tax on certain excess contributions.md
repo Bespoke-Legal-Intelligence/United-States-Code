@@ -70,7 +70,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section applicable to plan years beginning after Dec. 31, 1986, with special provisions for plans maintainedpursuant to collective bargaining agreements ratified before Mar. 1, 1986, and for annuity contracts under section 403(b) of this title, see section 1117(d) of Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note under section 401 of this title.
+Section applicable to plan years beginning after Dec. 31, 1986, with special provisions for plans maintained pursuant to collective bargaining agreements ratified before Mar. 1, 1986, and for annuity contracts under section 403(b) of this title, see section 1117(d) of Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note under section 401 of this title.
 
 #### Regulations
 

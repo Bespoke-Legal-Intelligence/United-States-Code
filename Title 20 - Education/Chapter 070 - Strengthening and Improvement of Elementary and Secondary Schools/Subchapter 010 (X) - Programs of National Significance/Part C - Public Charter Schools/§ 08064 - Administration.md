@@ -38,7 +38,7 @@ The Secretary shall award grants to eligible applicants under this part on the b
 
 #### (c) Peer review
 
-The Secretary, and each State educational agency receiving a grant under this part, shalluse a peer review process to review applications for assistance under this part.
+The Secretary, and each State educational agency receiving a grant under this part, shall use a peer review process to review applications for assistance under this part.
 
 #### (d) Diversity of projects
 
@@ -114,7 +114,7 @@ The Secretary may waive any statutory or regulatory requirement over which the S
 
 &emsp;&emsp;&emsp;(ii) developing partnerships with other public schools, including charter schools, designed to improve student performance in each of the schools participating in the partnership;
 
-&emsp;&emsp;&emsp;(iii) developing curriculum materials, assessments, and other materials that promote increased student achievement andare based on successful practices within the assisting charter school; and
+&emsp;&emsp;&emsp;(iii) developing curriculum materials, assessments, and other materials that promote increased student achievement and are based on successful practices within the assisting charter school; and
 
 &emsp;&emsp;&emsp;(iv) conducting evaluations and developing materials that document the successful practices of the assisting charter school and that are designed to improve student performance in other schools.
 

@@ -6,7 +6,7 @@
 
 (3) An appeal may not be taken in forma pauperis if the trial court certifies in writing that it is not taken in good faith.
 
-(b)(1) Notwithstanding subsection (a), if a prisoner brings a civil action or files an appeal in forma pauperis, the prisoner shall be required to pay the full amount of a filing fee. The court shall assess and, when funds exist, collect, as a partial payment of any court fees required by law, an initial partial filing fee of 20 percent of the greater of—
+(b)(1) Notwithstanding subsection (a), if a prisoner brings a civil action or files an appeal informa pauperis, the prisoner shall be required to pay the full amount of a filing fee. The court shall assess and, when funds exist, collect, as a partial payment of any court fees required by law, an initial partial filing fee of 20 percent of the greater of—
 
 &emsp;(A) the average monthly deposits to the prisoner's account; or
 
@@ -20,7 +20,7 @@
 
 (c) Upon the filing of an affidavit in accordance with subsections (a) and (b) and the prepayment of any partial filing fee as may be required under subsection (b), the court may direct payment by the United States of the expenses of (1) printing the record on appeal in any civil or criminal case, if such printing is required by the appellate court; (2) preparing a transcript of proceedings before a United States magistrate in any civil or criminal case, if such transcript is required by the district court, in the case of proceedings conducted under section 636(b) of this title or under section 3401(b) of title 18, United States Code; and (3) printing the record on appeal if such printing is required by the appellate court, in the case of proceedings conducted pursuant to section 636(c) of this title. Such expenses shall be paid when authorized by the Director of the Administrative Office of the United States Courts.
 
-(d) The officers of the court shall issue and serve all process, and perform all duties in suchcases. Witnesses shall attend as in other cases, and the same remedies shall be available as are provided for by law in other cases.
+(d) The officers of the court shall issue and serve all process, and perform all duties in such cases. Witnesses shall attend as in other cases, and the same remedies shall be available as are provided for by law in other cases.
 
 (e)(1) The court may request an attorney to represent any person unable to afford counsel.
 
@@ -96,7 +96,7 @@ Subsec. (g). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(d)\], added sub
 
 Subsec. (h). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(e)\], added subsec. (h).
 
-1979—Subsec. (b). Pub. L. 96–82 substituted “Upon the filing of an affidavit in accordance with subsection (a) of this section, the court may direct payment by theUnited States of the expenses of (1) printing the record on appeal in any civil or criminal case, if such printing is required by the appellate court; (2) preparing a transcript of proceedings before a United States magistrate in any civil or criminal case, if such transcript is required by the district court, in the case of proceedings conducted under section 636(b) of this title or under section 3401(b) of title 18, United States Code; and (3) printing the record on appeal if such printing is required by the appellate court, in the case of proceedings conducted pursuant to section 636(c) of this title” and “Such expenses shall be paid when authorized by the Director of the Administrative Office of the United States Courts” for “In any civil or criminal case the court may, upon the filing of a like affidavit, direct that the expense of printing the record on appeal, if such printing is required by the appellate court, be paid by the United States, and the same shall be paid when authorized by the Director of the Administrative Office of the United States Courts”.
+1979—Subsec. (b). Pub. L. 96–82 substituted “Upon the filing of an affidavit in accordance with subsection (a) of this section, the court may direct payment by the United States of the expenses of (1) printing the record on appeal in any civil or criminal case, if such printing is required by the appellate court; (2) preparing a transcript of proceedings before a United States magistrate in any civil or criminal case, if such transcript is required by the district court, in the case of proceedings conducted under section 636(b) of this title or under section 3401(b) of title 18, United States Code; and (3) printing the record on appeal if such printing is required by the appellate court, in the case of proceedings conducted pursuant to section 636(c) of this title” and “Such expenses shall be paid when authorized by the Director of the Administrative Office of the United States Courts” for “In any civil or criminal case the court may, upon the filing of a like affidavit, direct that the expense of printing the record on appeal, if such printing is required by the appellate court, be paid by the United States, and the same shall be paid when authorized by the Director of the Administrative Office of the United States Courts”.
 
 1959—Subsec. (a). Pub. L. 86–320 substituted “person” for “citizen”.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In the case of an individual who maintains a household which includes as a member one or more qualifying individuals (as defined in subsection (b)(1)), there shall be allowed as a credit against the tax imposed by this chapter forthe taxable year an amount equal to the applicable percentage of the employment-related expenses (as defined in subsection (b)(2)) paid by such individual during the taxable year.
+&emsp;In the case of an individual who maintains a household which includes as a member one or more qualifying individuals (as defined in subsection (b)(1)), there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the applicable percentage of the employment-related expenses (as defined in subsection (b)(2)) paid by such individual during the taxable year.
 
 #### (2) Applicable percentage defined
 
@@ -166,7 +166,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Added Pub. L. 94–455, title V, §504(a)(1), Oct. 4, 1976, 90 Stat. 1563, §44A; amended Pub. L. 95–600, title I, §121(a), Nov. 6, 1978, 92 Stat. 2779; Pub. L. 97–34, title I §124 (a)–(d), Aug. 13, 1981, 95 Stat. 197, 198; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §21 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(4), 471(c), 474(c), July 18, 1984, 98 Stat. 801, 826, 830; Pub. L. 99–514, title I, §104(b)(1), Oct. 22, 1986, 100 Stat. 2104; Pub. L. 100–203, title X, §10101(a), Dec. 22, 1987, 101 Stat. 1330–384; Pub. L. 100–485, title VII, §703(a)–(c)(1), Oct. 13, 1988, 102 Stat. 2426, 2427; Pub. L. 104–188, title I, §1615(b), Aug. 20, 1996, 110 Stat. 1853.)
+(Added Pub. L. 94–455, title V, §504(a)(1), Oct. 4, 1976, 90 Stat. 1563, §44A; amended Pub. L. 95–600, title I, §121(a), Nov. 6, 1978, 92 Stat. 2779; Pub. L. 97–34, title I §124 (a)–(d), Aug. 13, 1981, 95 Stat. 197, 198; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §21 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(4), 471(c), 474(c), July 18, 1984, 98 Stat. 801, 826, 830; Pub. L.99–514, title I, §104(b)(1), Oct. 22, 1986, 100 Stat. 2104; Pub. L. 100–203, title X, §10101(a), Dec. 22, 1987, 101 Stat. 1330–384; Pub. L. 100–485, title VII, §703(a)–(c)(1), Oct. 13, 1988, 102 Stat. 2426, 2427; Pub. L. 104–188, title I, §1615(b), Aug. 20, 1996, 110 Stat. 1853.)
 
 #### Prior Provisions
 
@@ -280,7 +280,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 423(c)(4) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1984, see section 423(d) of Pub. L. 98–369, set out as a note under section 2 of this title.
 
-Section 475(a) of Pub. L. 98–369 provided that: “The amendments made by this title \[probably means subtitle F (§§471–475) of title IV of Pub. L. 98–369, which enacted sections 25, 38, and 39 of this title, amended this section and sections 12, 15, 22 to 24, 27 to 35, 37, 39 to 41, 44A, 44C to 44H, 45 to 48, 51, 52, 55, 56, 86, 87, 103, 108, 129, 168, 196, 213, 280C, 381, 383, 401, 404, 409, 441, 527, 642, 691, 874, 882, 901, 904, 936, 1016, 1033, 1351, 1366, 1374, 1375, 1441, 1442, 1451, 3507, 6013, 6096, 6201, 6211, 6213, 6362, 6401, 6411, 6420, 6421, 6427, 6501, 6511, 7701, 7871, 9502, and 9503 of thistitle, repealed sections 38, 40, 44, 44B, 50A, 50B, and 53 of this title, and enacted provisions set out as notes under sections 30, 33, 46, and 48 of this title\] shall apply to taxable years beginning after December 31, 1983, and to carrybacks from such years.”
+Section 475(a) of Pub. L. 98–369 provided that: “The amendments made by this title \[probably means subtitle F (§§471–475) of title IV of Pub. L. 98–369, which enacted sections 25, 38, and 39 of this title, amended this section and sections 12, 15, 22 to 24, 27 to 35, 37, 39 to 41, 44A, 44C to 44H, 45 to 48, 51, 52, 55, 56, 86, 87, 103, 108, 129, 168, 196, 213, 280C, 381, 383, 401, 404, 409, 441, 527, 642, 691, 874, 882, 901, 904, 936, 1016, 1033, 1351, 1366, 1374, 1375, 1441, 1442, 1451, 3507, 6013, 6096, 6201, 6211, 6213, 6362, 6401, 6411, 6420, 6421, 6427, 6501, 6511, 7701, 7871, 9502, and 9503 of this title, repealed sections 38, 40, 44, 44B, 50A, 50B, and 53 of this title, and enacted provisions set out as notes under sections 30, 33, 46, and 48 of this title\] shall apply to taxable years beginning after December 31, 1983, and to carrybacks from such years.”
 
 #### Effective Date of 1983 Amendment
 

@@ -52,7 +52,7 @@ The Secretary shall implement programs and policies that will foster collaborati
 
 #### (e) Technical and scientific review groups
 
-The Secretary through the Commissioner of Food and Drugs may, without regard to the provisions of title 5 governing appointments in the competitive service and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, establish such technical and scientific review groups as are needed to carry out the functions of the Administration, including functions under this chapter, and appoint and pay the members of such groups, except that officers and employees of the United States shall not receive additional compensation for service as members of such groups.
+The Secretary through the Commissioner of Food and Drugs may, without regard to the provisions of title 5 governing appointments in the competitive service and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, establish such technical and scientific review groups as areneeded to carry out the functions of the Administration, including functions under this chapter, and appoint and pay the members of such groups, except that officers and employees of the United States shall not receive additional compensation for service as members of such groups.
 
 #### (f) Agency plan for statutory compliance
 
@@ -162,7 +162,7 @@ Regulations.—If, in the opinion of the Secretary, the use of elemental, organi
 
 #### Management Activities Study
 
-Pub. L. 102–571, title II, §205, Oct. 29, 1992, 106 Stat. 4502, directed Comptroller General to conduct a studyof management of activities of the Food and Drug Administration that are related to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances and submit an interim report to Congress, not later than 6 months after Oct. 29, 1992, with a final report to be submitted not later than 12 months after Oct. 29, 1992.
+Pub. L. 102–571, title II, §205, Oct. 29, 1992, 106 Stat. 4502, directed Comptroller General to conduct a study of management of activities of the Food and Drug Administration that are related to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances and submit an interim report to Congress, not later than 6 months after Oct. 29, 1992, with a final report to be submitted not later than 12 months after Oct. 29, 1992.
 
 #### Congressional Findings
 

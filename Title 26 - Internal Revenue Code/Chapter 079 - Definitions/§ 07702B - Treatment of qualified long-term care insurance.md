@@ -6,7 +6,7 @@ For purposes of this title—
 
 &emsp;(1) a qualified long-term care insurance contract shall be treated as an accident and health insurance contract,
 
-&emsp;(2) amounts (other than policyholder dividends, as defined in section 808, or premium refunds) received under a qualified long-termcare insurance contract shall be treated as amounts received for personal injuries and sickness and shall be treated as reimbursement for expenses actually incurred for medical care (as defined in section 213(d)),
+&emsp;(2) amounts (other than policyholder dividends, as defined in section 808, or premium refunds) received under a qualified long-term care insurance contract shall be treated as amounts received for personal injuries and sickness and shall be treated as reimbursement for expenses actually incurred for medical care (as defined in section 213(d)),
 
 &emsp;(3) any plan of an employer providing coverage under a qualified long-term care insurance contract shall be treated as an accident and health plan with respect to such coverage,
 
@@ -48,7 +48,7 @@ For purposes of this title—
 
 #### (B) Special rules relating to medicare
 
-&emsp;&emsp;(i) Paragraph (1)(B) shall not apply to expenses which are reimbursable under title XVIII of the Social Security Act only as a secondary payor.
+&emsp;&emsp;(i) Paragraph (1)(B) shall not apply to expenses which are reimbursable under titleXVIII of the Social Security Act only as a secondary payor.
 
 &emsp;&emsp;(ii) No provision of law shall be construed or applied so as to prohibit the offering of a qualified long-term care insurance contract on the basis that the contract coordinates its benefits with those provided under such title.
 
@@ -244,7 +244,7 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 &emsp;&emsp;&emsp;&emsp;(IX) Section 11 (relating to minimum standards).
 
-&emsp;&emsp;&emsp;&emsp;(X) Section 12 (relating to requirement to offer inflation protection), except that any requirement for a signature on a rejection of inflation protection shall permit the signature to be on an application or on a separate form.
+&emsp;&emsp;&emsp;&emsp;(X) Section 12 (relating to requirement to offer inflation protection), except thatany requirement for a signature on a rejection of inflation protection shall permit the signature to be on an application or on a separate form.
 
 &emsp;&emsp;&emsp;&emsp;(XI) Section 23 (relating to prohibition against preexisting conditions and probationary periods in replacement policies or certificates).
 
@@ -306,9 +306,9 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 (Added and amended Pub. L. 104–191, title III, §§321(a), 325, Aug. 21, 1996, 110 Stat. 2054, 2063; Pub. L. 105–34, title XVI, §1602(b), (e), Aug. 5, 1997, 111 Stat. 1094; Pub. L. 105–206, title VI, §6023(28), July 22, 1998, 112 Stat. 826.)
 
-#### Adjustment of Dollar Amount of Per Diem Limitation Regarding Periodic Payments for Calendar Year 1999
+#### Adjustment of Dollar Amount of Per Diem Limitation Regarding Periodic Payments for Calendar Year 2000
 
-<i>For adjustment of dollar amount of per diem limitation on periodic payments received under qualified long-term care or certain life insurance contracts under subsection (d)(4) of this section for calendar year 1999, see section 3.25 of Revenue Procedure 98–61, set out as a note under section 1 of this title.</i>
+<i>For adjustment of dollar amount of per diem limitation on periodic payments received under qualified long-term care or certain life insurance contracts under subsection (d)(4) of this section for calendar year 2000, see section 3.27 of Revenue Procedure 99–42, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 

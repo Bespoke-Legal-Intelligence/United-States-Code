@@ -6,7 +6,7 @@
 
 &emsp;(2) whose score on the Armed Forces Qualification Test is at or above the fiftieth percentile; and
 
-&emsp;(3) who enlists in the Army for a period of at least 3 years in a skill designated as critical,
+&emsp;(3) who enlists in the Army for a period of at least 2 years in a skill designated as critical,
 
 > may be paid a bonus in an amount prescribed by the Secretary of the Army not to exceed $6,000. The bonus may be paid in a lump sum or in equal periodic installments, as determined by the Secretary of the Army.
 
@@ -16,11 +16,15 @@
 
 (3) A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of an agreement under this section does not discharge the member signing such agreement from a debt arising under such agreement or under paragraph (1). This paragraph applies to any case commenced under title 11 after September 30, 1981.
 
-(c) No bonus may be paid under this section with respect to an enlistment in the Army after December 31, 1999.
+(c) No bonus may be paid under this section with respect to an enlistment in the Army after December 31, 2000.
 
-(Added Pub. L. 97–60, title I, §117(c)(1), Oct. 14, 1981, 95 Stat. 996; amended Pub. L. 98–14, §2, Mar. 30, 1983, 97 Stat. 55; Pub. L. 98–525, title VI, §621(a), Oct. 19, 1984, 98 Stat. 2540; Pub. L. 100–180, div. A, title VI, §626(a), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 102–25, title VII, §702(b)(2), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–160, div. A, title VI, §613(e), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(c), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(c), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §613(c), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §613(c), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §§613(c), 620, Oct. 17, 1998, 112 Stat. 2039, 2042.)
+(Added Pub. L. 97–60, title I, §117(c)(1), Oct. 14, 1981, 95 Stat. 996; amended Pub. L. 98–14, §2, Mar. 30, 1983, 97 Stat. 55; Pub. L. 98–525, title VI, §621(a), Oct. 19, 1984, 98 Stat. 2540; Pub. L. 100–180, div. A, title VI, §626(a), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 102–25, title VII, §702(b)(2), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–160, div. A, title VI, §613(e), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(c), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(c), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §613(c), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §613(c), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §§613(c), 620, Oct. 17, 1998, 112 Stat. 2039, 2042; Pub. L. 106–65, div. A, title VI, §§613(d), 622(a), Oct. 5, 1999, 113 Stat. 650, 653.)
 
 #### Amendments
+
+1999—Subsec. (a)(3). Pub. L. 106–65, §622(a), substituted “2 years” for “3 years”.
+
+Subsec. (c). Pub. L. 106–65, §613(d), substituted “December 31, 2000” for “December 31, 1999”.
 
 1998—Subsec. (a). Pub. L. 105–261, §620, substituted “$6,000” for “$4,000” in concluding provisions.
 
@@ -43,6 +47,10 @@ Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996
 1984—Subsec. (c). Pub. L. 98–525 substituted “September 30, 1987” for “September 30, 1984”.
 
 1983—Subsec. (c). Pub. L. 98–14 substituted “September 30, 1984” for “September 30, 1983”.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–65, div. A, title VI, §622(b), Oct. 5, 1999, 113 Stat. 653, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1999, and shall apply with respect to enlistments entered into on or after that date.”
 
 #### Effective Date of 1993 Amendment
 

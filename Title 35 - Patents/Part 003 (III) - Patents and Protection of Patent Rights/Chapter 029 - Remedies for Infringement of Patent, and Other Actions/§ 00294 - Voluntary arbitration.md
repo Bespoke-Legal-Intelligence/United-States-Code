@@ -1,20 +1,28 @@
 ### §294. Voluntary arbitration
 
-(a) A contract involving a patent or any right under a patent may contain a provision requiring arbitration of any dispute relating to patent validity or infringement arising under the contract. In the absence of such a provision, the parties to an existing patent validity or infringement dispute may agree in writing to settle such dispute by arbitration. Any such provision or agreement shall be valid, irrevocable, and enforceable, except for any grounds that exist at law or in equity for revocation of a contract.
+(a) A contract involving a patent or any right under a patent may contain a provision requiring arbitration of any dispute relating to patent validity or infringement arising under the contract. In the absence of such a provision, theparties to an existing patent validity or infringement dispute may agree in writing to settle such dispute by arbitration. Any such provision or agreement shall be valid, irrevocable, and enforceable, except for any grounds that exist at law or in equity for revocation of a contract.
 
 (b) Arbitration of such disputes, awards by arbitrators and confirmation of awards shall be governed by title 9, United States Code, to the extent such title is not inconsistent with this section. In any such arbitration proceeding, the defenses provided for under section 282 of this title shall be considered by the arbitrator if raised by any party to the proceeding.
 
 (c) An award by an arbitrator shall be final and binding between the parties to the arbitration but shall have no force or effect on any other person. The parties to an arbitration may agree that in the event a patent which is the subject matter of an award is subsequently determined to be invalid or unenforceable in a judgment rendered by a court to <sup>1</sup> competent jurisdiction from which no appeal can or has been taken, such award may be modified by any court of competent jurisdiction upon application by any party to the arbitration. Any such modification shall govern the rights and obligations between such parties from the date of such modification.
 
-(d) When an award is made by an arbitrator, the patentee, his assignee or licensee shall give notice thereof in writing to the Commissioner. There shall be a separate notice prepared for each patent involved in such proceeding. Such notice shall set forth the names and addresses of the parties, the name of the inventor, and the name of the patent owner, shall designate the number of the patent, and shall contain a copy of the award. If an award is modified by a court, the party requesting such modification shall give notice of such modification to the Commissioner. The Commissioner shall, upon receipt of either notice, enter the same in the record of the prosecution of such patent. If the required notice is not filed with the Commissioner, any party to the proceeding may provide such notice to the Commissioner.
+(d) When an award is made by an arbitrator, the patentee, his assignee or licensee shall give notice thereof in writing to the Director. There shall be a separate notice prepared for each patent involved in such proceeding. Such notice shall set forth the names and addresses of the parties, the name of the inventor, and the name of the patent owner, shall designate the number of the patent, and shall contain a copy of the award. If an award is modified by a court, the party requesting such modification shall give notice of such modification to the Director. The Director shall, upon receipt of either notice, enter the same in the record of the prosecution of such patent. If the required notice is not filed with the Director, any party to the proceeding may provide such notice to the Director.
 
-(e) The award shall be unenforceable until the notice required by subsection (d) is received by the Commissioner.
+(e) The award shall be unenforceable until the notice required by subsection (d) is received by the Director.
 
-(Added Pub. L. 97–247, §17(b)(1), Aug. 27, 1982, 96 Stat. 322.)
+(Added Pub. L. 97–247, §17(b)(1), Aug. 27, 1982, 96 Stat. 322; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
+
+#### Amendments
+
+1999—Subsecs. (d), (e). Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 #### Effective Date
 
-Section 17(c) of Pub. L. 97–247 provided that: “Sections 5, 6, 8 through 12, and 17(b) of this Act \[enactingthis section and amending sections 21, 111, 116, and 256 of this title and sections 1058, 1063, 1064, 1065, and 1066 of Title 15, Commerce and Trade\] shall take effect six months after enactment \[Aug. 27, 1982\].”
+Section 17(c) of Pub. L. 97–247 provided that: “Sections 5, 6, 8 through 12, and 17(b) of this Act \[enacting this section and amending sections 21, 111, 116, and 256 of this title and sections 1058, 1063, 1064, 1065, and 1066 of Title 15, Commerce and Trade\] shall take effect six months after enactment \[Aug. 27, 1982\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
 

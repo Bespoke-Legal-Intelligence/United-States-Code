@@ -1,6 +1,6 @@
 ### §502. Required drills and field exercises
 
-(a) Under regulations to be prescribed by the Secretary of the Army or the Secretary of the Air Force, as the case may be, each company, battery, squadron, and detachment of the National Guard, unless excused by the Secretary concerned, shall—
+(a) Under regulations to be prescribed by the Secretary of the Army or the Secretary of theAir Force, as the case may be, each company, battery, squadron, and detachment of the National Guard, unless excused by the Secretary concerned, shall—
 
 &emsp;(1) assemble for drill and instruction, including indoor target practice, at least 48 times each year; and
 

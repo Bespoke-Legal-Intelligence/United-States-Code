@@ -34,7 +34,7 @@ If any amount from any annual assessment collected from an enterprise remains un
 
 #### (e) Initial special assessment
 
-Not later than the expiration of the 30-day period beginning on October 28, 1992, the enterprises shall each pay into the Federal Housing Enterprises Oversight Fund established under subsection (f) of this section an initial assessment of $1,500,000 to cover the startup costs of the Office, including space and modifications thereof, capital equipment, supplies, recruitment, and activities of the Office during the period preceding the first annual assessment under subsection (a) of this section. Any amounts collected from an enterprise under this subsection shall be credited against the first annual assessment collected pursuant to subsection (a) of this section, and are hereby appropriated, and shall be available and used, without fiscal year limitation, as provided in this section.
+Not later than the expiration of the 30-day period beginning on October 28, 1992, the enterprises shall each pay into the Federal Housing Enterprises Oversight Fund established under subsection (f) of this section an initial assessment of $1,500,000 to cover the startup costs of the Office, including space and modifications thereof, capital equipment, supplies, recruitment, and activities of the Office during the period preceding the first annual assessment under subsection (a) of this section. Any amounts collected from an enterprise under this subsectionshall be credited against the first annual assessment collected pursuant to subsection (a) of this section, and are hereby appropriated, and shall be available and used, without fiscal year limitation, as provided in this section.
 
 #### (f) Fund
 

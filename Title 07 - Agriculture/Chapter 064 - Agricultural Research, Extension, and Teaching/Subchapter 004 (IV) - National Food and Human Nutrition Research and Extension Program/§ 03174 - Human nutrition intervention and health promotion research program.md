@@ -16,7 +16,7 @@ In administering human nutrition research projects under this section, the Secre
 
 #### (c) Administration of funds
 
-The Administrator of the Agricultural Research Service shall administer funds madeavailable to carry out this section to ensure a coordinated approach to health and nutrition research efforts.
+The Administrator of the Agricultural Research Service shall administer funds made available to carry out this section to ensure a coordinated approach to health and nutrition research efforts.
 
 #### (d) Authorization of appropriations
 

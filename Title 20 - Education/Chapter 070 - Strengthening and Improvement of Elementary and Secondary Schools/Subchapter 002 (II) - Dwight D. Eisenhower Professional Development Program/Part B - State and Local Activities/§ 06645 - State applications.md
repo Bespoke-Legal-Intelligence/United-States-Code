@@ -20,13 +20,13 @@ Each State educational agency that wishes to receive an allotment under this par
 
 &emsp;&emsp;(C) include an assessment of State and local needs for professional development specifically related to subparagraph (B);
 
-&emsp;&emsp;(D) include a description of how the plan has assessed the needs of local educational agencies serving rural and urban areas, andwhat actions are planned to meet such needs;
+&emsp;&emsp;(D) include a description of how the plan has assessed the needs of local educational agencies serving rural and urban areas, and what actions are planned to meet such needs;
 
 &emsp;&emsp;(E) include a description of how the activities assisted under this part will address the needs of teachers in schools receiving assistance under part A of subchapter I of this chapter;
 
 &emsp;&emsp;(F) a description of how programs in all core academic subjects, but especially in mathematics and science, will take into account the need for greater access to, and participation in, such disciplines by students from historically underrepresented groups, including females, minorities, individuals with limited English proficiency, the economically disadvantaged, and individuals with disabilities, by incorporating pedagogical strategies and techniques which meet such individuals’ educational needs;
 
-&emsp;&emsp;(G) be consistent with the State's needs assessment under subparagraph (C), and describe how the State will work with teachers, including teachers in schools receiving assistance under part A of subchapter I of this chapter, administrators, parents, local educational agencies, schools, educational service agencies, institutions of higher education, and nonprofit organizations of demonstrated effectiveness, to ensure that such individuals develop the capacity to support sustained and intensive, high-quality professional development programs in the core academic subjects;
+&emsp;&emsp;(G) be consistent with the State's needs assessment under subparagraph (C), and describe how the State will work with teachers, including teachers in schools receiving assistance under part A of subchapter I ofthis chapter, administrators, parents, local educational agencies, schools, educational service agencies, institutions of higher education, and nonprofit organizations of demonstrated effectiveness, to ensure that such individuals develop the capacity to support sustained and intensive, high-quality professional development programs in the core academic subjects;
 
 &emsp;&emsp;(H) describe how the State requirements for licensure of teachers and administrators, including certification and recertification, support challenging State content standards and challenging State student performance standards and whether such requirements are aligned with such standards;
 
@@ -82,7 +82,7 @@ Each State application shall include—
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in subsec. (b)(1), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat.125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsec. (b)(1), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (c)(1)(A), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 

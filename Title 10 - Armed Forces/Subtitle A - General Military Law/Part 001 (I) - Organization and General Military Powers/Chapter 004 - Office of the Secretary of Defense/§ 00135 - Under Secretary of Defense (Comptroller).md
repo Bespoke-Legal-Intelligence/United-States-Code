@@ -30,15 +30,17 @@
 
 &emsp;(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 
-&emsp;(B) the Committee on National Security and the Committee on Appropriations of the House of Representatives.
+&emsp;(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
 
-(Added Pub. L. 99–433, title I, §107, Oct. 1, 1986, 100 Stat. 998, §137; renumbered §135 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(2), 902(a)(1), (b), Nov. 30, 1993, 107 Stat. 1726, 1727; Pub. L. 103–337, div. A, title IX, §903(a)(1), (2), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title XV, §1502(a)(6), Feb. 10, 1996, 110 Stat. 502.)
+(Added Pub. L. 99–433, title I, §107, Oct. 1, 1986, 100 Stat. 998, §137; renumbered §135 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(2), 902(a)(1), (b), Nov. 30, 1993, 107 Stat. 1726, 1727; Pub. L. 103–337, div. A, title IX, §903(a)(1), (2), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title XV, §1502(a)(6), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Prior Provisions
 
 A prior section 135 was renumbered section 137 of this title.
 
 #### Amendments
+
+1999—Subsec. (e)(2)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
 1996—Subsec. (e). Pub. L. 104–106 designated existing provisions as par. (1), substituted “each congressional committee specified in paragraph (2) is” for “the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives are each”, and added par. (2).
 
@@ -57,8 +59,6 @@ Subsec. (d). Pub. L. 103–160, §901(a)(2), added subsec. (d).
 Subsec. (e). Pub. L. 103–160, §902(b), added subsec. (e).
 
 #### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 Section 903(d) of Pub. L. 103–337 provided that: “Any reference to the Comptroller of the Department of Defense in any provision of law other than title 10, United States Code, or in any rule, regulation, or other paper of the United States shall be treated as referring to the Under Secretary of Defense (Comptroller).”
 

@@ -26,7 +26,7 @@ Section 771 of Pub. L. 93–198 provided that the amendment made by Pub. L. 93�
 
 #### Effective Date of 1967 Amendment
 
-Section 3 of Pub. L. 90–108 provided that: “Prosecutions for violations of the Act of July 31, 1946 (60 Stat. 718; 40 U.S.C. 193a et seq.; D.C. Code 9–118 et seq. \[9–106 et seq.\]) \[sections 193a to 193m, 212a, 212a–2, and 212b of this title\] and of section 15 of the Act of July 29, 1892 (27 Stat. 325; D.C. Code 4–120 \[4–116\], 22–3111) \[section 101 of this title\], occurring prior to the enactment of these amendments \[Oct. 20, 1967\] shall not be affected by these amendments or abated by reason thereof. The provisions of this Act \[amending sections 101, 193a, 193f, 193h and 193m of this title\] shall be applicable to violations occurring after its enactment \[Oct. 20, 1967\].”
+Section 3 of Pub. L. 90–108 provided that: “Prosecutions for violations of the Act of July 31, 1946 (60 Stat. 718; 40 U.S.C. 193a et seq.; D.C. Code 9–118 et seq. \[9–106 et seq.\]) \[sections 193a to 193m, 212a, 212a–2, and 212b of this title\] and of section 15 of the Act of July 29, 1892 (27 Stat. 325; D.C. Code 4–120 \[4–116\], 22–3111) \[section 101 of this title\], occurring prior to the enactment of these amendments \[Oct. 20, 1967\] shall not be affected by these amendments or abated by reason thereof. Theprovisions of this Act \[amending sections 101, 193a, 193f, 193h and 193m of this title\] shall be applicable to violations occurring after its enactment \[Oct. 20, 1967\].”
 
 #### Transfer of Functions
 
@@ -124,7 +124,7 @@ Definition.—The first section of the Act entitled ‘An Act to define the Unit
 
 &emsp;&emsp;“(B)
 
-Jurisdiction of capitol police.—The United States Capitol Police shall have jurisdiction over the parcels of Federal real property described in subsection (b)(2)(B) in accordance with section 9 of such Act of July 31, 1946 (40 U.S.C. 212a).
+Jurisdiction of capitol police.—The United States Capitol Police shall have jurisdiction overthe parcels of Federal real property described in subsection (b)(2)(B) in accordance with section 9 of such Act of July 31, 1946 (40 U.S.C. 212a).
 
 &emsp;“(4)
 
@@ -206,7 +206,7 @@ Pub. L. 97–12, title I, June 5, 1981, 95 Stat. 64, provided in part: “That u
 
 Sections 7–10 of Pub. L. 96–432 provided that:
 
-“Sec. 7. (a) The Architect of the Capitol, under the direction of the House Office Building Commission, is hereby authorized to acquire, on behalf of the UnitedStates, by purchase, condemnation, transfer, or otherwise, for addition to the United States Capitol Grounds, all publicly or privately owned property contained in lot 49 in square 582; lot 70 in square 640; and lots 1, 2, 67, 79, 80, 800, 801, 807, 814 through 822, and 834 in square 693 in the District of Columbia (including all alleys or parts of alleys and streets within the lotlines and curblines surrounding such real property): <i>Provided</i>, That upon the acquisition of any such real property by the Architect of the Capitol on behalf of the United States, such property shall be subject to the provisions of the Act of July 31, 1946 (60 Stat. 718) \[sections 193a to 193m, 212a, 212a–2, and 212b of this title and provisions set out as notes under sections 193a and 193h of this title\] as amended in the same manner and to the same extent as all other areas comprising the United States Capitol Grounds.
+“Sec. 7. (a) The Architect of the Capitol, under the direction of the House Office Building Commission, is hereby authorized to acquire, on behalf of the United States, by purchase, condemnation, transfer, or otherwise, for addition to the United States Capitol Grounds, all publicly or privately owned property contained in lot 49 in square 582; lot 70 in square 640; and lots 1, 2, 67, 79, 80, 800, 801, 807, 814 through 822, and 834 in square 693 in the District of Columbia (including all alleys or parts of alleys and streets within the lotlines and curblines surrounding such real property): <i>Provided</i>, That upon the acquisition of any such real property by the Architect of the Capitol on behalf of the United States, such property shall be subject to the provisions of the Act of July 31, 1946 (60 Stat. 718) \[sections 193a to 193m, 212a, 212a–2, and 212b of this title and provisions set out as notes under sections 193a and 193h of this title\] as amended in the same manner and to the same extent as all other areas comprising the United States Capitol Grounds.
 
 “(b) For the purposes of this section the properties authorized to be acquired hereunder, shall be deemed to extend to the outer face of the curbs of the squares in which they are located.
 
@@ -250,7 +250,7 @@ Sec. 3. \[Authority to enter into contracts and make payments\] The Architect of
 
 “
 
-Sec. 4. \[Availability and use of appropriated funds\] Sums received under this joint resolution, when credited as an addition to the appropriation account ‘Capitol Buildings, Architect of the Capitol’, shall be available for expenditure and shall remain available until expended. Following completion of the installation, such sums may thereafter be used by the Architect of the Capitol, in whole or in part, to defray any expenses which he may incur for maintenance and operation.”
+Sec. 4. \[Availability and use of appropriated funds\] Sums received under this joint resolution, when credited as an addition to the appropriation account ‘Capitol Buildings, Architect of the Capitol’, shall be available for expenditure and shall remain available until expended. Following completion of the installation,such sums may thereafter be used by the Architect of the Capitol, in whole or in part, to defray any expenses which he may incur for maintenance and operation.”
 
 #### Application of Sections 193a to 193<i>l,</i> 212a, and 212b to Other Laws
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 247b–6, 256d, 3013, 8623 of this title; title 31 section 6703.
+This subchapter is referred to in sections 247b–6, 256d, 3013 of this title; title 31 section 6703.
 
 
 ---

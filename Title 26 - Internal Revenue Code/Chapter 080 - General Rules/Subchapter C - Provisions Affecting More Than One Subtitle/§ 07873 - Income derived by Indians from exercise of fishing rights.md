@@ -38,7 +38,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) all of the equity interests in the entity are owned by qualified Indian tribes, members of such tribes, or their spouses,
 
-&emsp;&emsp;&emsp;(iii) except as provided in regulations, in the case of an entity which engages to any extent in any substantial processing or transporting of fish, 90 percent or more of the annual gross receipts of the entity is derived from fishing rights-related activities of one or more qualified Indian tribes each of which owns at least 10 percent of the equity interests in the entity, and
+&emsp;&emsp;&emsp;(iii) except as provided in regulations, in the case of an entity which engages to any extent in any substantial processing or transporting of fish, 90 percent or more ofthe annual gross receipts of the entity is derived from fishing rights-related activities of one or more qualified Indian tribes each of which owns at least 10 percent of the equity interests in the entity, and
 
 &emsp;&emsp;&emsp;(iv) substantially all of the management functions of the entity are performed by members of qualified Indian tribes.
 

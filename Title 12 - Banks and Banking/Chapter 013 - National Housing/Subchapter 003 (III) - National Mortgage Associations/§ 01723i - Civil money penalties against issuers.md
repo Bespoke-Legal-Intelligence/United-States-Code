@@ -64,7 +64,7 @@
 
 #### (4) Reviewability of imposition of penalty
 
-&emsp;The Secretary's determination or order imposing a penalty under subsection (a) of this section shall not be subject to review, except as provided in subsection (d) of this section.
+&emsp;The Secretary's determination or order imposing a penalty under subsection (a) of thissection shall not be subject to review, except as provided in subsection (d) of this section.
 
 #### (d) Judicial review of agency determination
 

@@ -4,9 +4,9 @@
 
 Subject to the provision of law specified in subsection (b) of this section, the Committee on House Oversight of the House of Representatives may, by order of the Committee, fix and adjust the amounts, terms, and conditions of, and other matters relating to, allowances of the House of Representatives within the following categories:
 
-&emsp;(1) For Members of the House of Representatives, the Members’ Representational Allowance, including all aspects of the Official Mail Allowance within the jurisdiction of the Committee under section 59e of this title.
+&emsp;(1) For Members of the House of Representatives, the Members’ Representational Allowance, including all aspects of official mail within the jurisdiction of the Committee under section 59e of this title.
 
-&emsp;(2) For committees, the Speaker, the Majority and Minority Leaders, the Clerk, the Sergeant at Arms, and the Chief Administrative Officer, allowances for official mail (including all aspects of the Official Mail Allowance within the jurisdiction of the Committee under section 59e of this title), stationery, and telephone and telegraph and other communications.
+&emsp;(2) For committees, the Speaker, the Majority and Minority Leaders, the Clerk, the Sergeant at Arms, and the Chief Administrative Officer, allowances for official mail (including all aspects of official mail within the jurisdiction of the Committee under section 59e of this title), stationery, and telephone and telegraph and other communications.
 
 #### (b) Provision specified
 
@@ -16,7 +16,7 @@ The provision of law referred to in subsection (a) of this section is section 57
 
 As used in this section, the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress.
 
-(Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 636; Pub. L. 104–186, title I, §102, Aug. 20, 1996, 110 Stat. 1719.)
+(Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 636; Pub. L. 104–186, title I, §102, Aug. 20, 1996, 110 Stat. 1719; Pub. L. 106–57, title I, §103(a)(4)(A), Sept. 29, 1999, 113 Stat. 415.)
 
 #### Codification
 
@@ -24,11 +24,17 @@ Section is based on House Resolution No. 457, Ninety-second Congress, July 21, 1
 
 #### Amendments
 
+1999—Subsec. (a)(1), (2). Pub. L. 106–57 substituted “all aspects of official mail” for “all aspects of the Official Mail Allowance”.
+
 1996—Pub. L. 104–186 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) authorizing Committee on House Administration to adjust certain allowances for Members, committees, and officers of House of Representatives.
 
 #### Change of Name
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–57, title I, §103(c), Sept. 29, 1999, 113 Stat. 416, provided that: “The amendments made by this section \[amending this section and sections 59e and 92 of this title\] shall apply with respect to the first session of the One Hundred Sixth Congress and each succeeding session of Congress.”
 
 #### Clerk Hire Allowance; Increase
 
@@ -170,7 +176,7 @@ Resolved, that effective October 1, 1975, until otherwise provided by order of t
 
 #### Committee Order No. 25
 
-Resolved, that effective immediately prior to noon on January 3, 1977, until otherwise provided by order ofthe Committee on House Administration, the allowance for airmail and special delivery stamps authorized by 2 U.S.C. 42c and 42d shall be reduced from its existing level to one dollar per session.
+Resolved, that effective immediately prior to noon on January 3, 1977, until otherwise provided by order of the Committee on House Administration, the allowance for airmail and special delivery stamps authorized by 2 U.S.C. 42c and 42d shall be reduced from its existing level to one dollar per session.
 
 #### Committee Order No. 26
 
@@ -362,7 +368,7 @@ All disbursements and allocations shall be made in accordance with rules and reg
 
 Resolved, That (a) effective September 1, 1995, and subject to subsection (b), the Clerk Hire Allowance, the Official Expenses Allowance, and the Official Mail Allowance shall cease to exist and the functions formerly carried out under such allowances shall be carried out under a single allowance, to be known as the “Members’ Representational Allowance”.
 
-(b) Under the Members’ Representational Allowance, the amount that shall be available to a Member for franked mail with respect to a session of Congress shall be the amount allocated for that purpose by the Committee on House Oversight under paragraphs (1)(A) and\(2)(B) of subsection (e) of section 311 of the Legislative Branch Appropriations Act, 1991 \[2 U.S.C. 59e(e)(1)(A), (2)(B)\], plus an amount equal to the amount permitted to be transferred to the former Official Mail Allowance under paragraph (3) of that subsection.
+(b) Under the Members’ Representational Allowance, the amount that shall be available to a Member for franked mail with respect to a session of Congress shall be the amount allocated for that purpose by the Committee on House Oversight under paragraphs (1)(A) and (2)(B) of subsection (e) of section 311 of the Legislative Branch Appropriations Act, 1991 \[2 U.S.C. 59e(e)(1)(A), (2)(B)\], plus an amount equal to the amount permitted to be transferred to the former Official Mail Allowance under paragraph (3) of that subsection.
 
 Sec. 2. The Committee on House Oversight shall have authority to prescribe regulations to carry out this resolution.
 

@@ -30,7 +30,7 @@ The Attorney General and the Secretary of State are authorized to establish a pi
 
 #### (6) No previous violation
 
-&emsp;If the alien previously was admitted without a visa under this section, the alien must not have failed to comply with the conditions of any previous admission as such a nonimmigrant.
+&emsp;If the alien previously was admitted without a visa under this section, the alien must nothave failed to comply with the conditions of any previous admission as such a nonimmigrant.
 
 #### (7) Round-trip ticket
 
@@ -52,7 +52,7 @@ An alien may not be provided a waiver under the pilot program unless the alien h
 
 #### (2) Qualifications
 
-&emsp;Except as provided in subsection (g) of this section, a country may not be designated as apilot program country unless the following requirements are met:
+&emsp;Except as provided in subsection (g) of this section, a country may not be designated as a pilot program country unless the following requirements are met:
 
 #### (A) Low nonimmigrant visa refusal rate
 
@@ -180,7 +180,7 @@ Subsec. (f). Pub. L. 105–173, §1, substituted “2000” for “1998”.
 
 1997—Subsec. (f). Pub. L. 105–119 reenacted subsec. heading without change and amended text generally, substituting “April 30, 1998” for “September 30, 1997”.
 
-1996—Subsec. (a). Pub. L. 104–208, §635(a)(1), in introductory provisions, substituted “Attorney General, in consultation with the Secretary of State” for “Attorney General and the Secretary of State, acting jointly”.
+1996—Subsec. (a). Pub. L. 104–208, §635(a)(1), in introductory provisions, substituted “Attorney General, inconsultation with the Secretary of State” for “Attorney General and the Secretary of State, acting jointly”.
 
 Subsec. (a)(2)(B). Pub. L. 104–208, §635(c)(3), struck out “or is designated as a pilot program country with probationary status under subsection (g) of this section” after “subsection (c) of this section”.
 

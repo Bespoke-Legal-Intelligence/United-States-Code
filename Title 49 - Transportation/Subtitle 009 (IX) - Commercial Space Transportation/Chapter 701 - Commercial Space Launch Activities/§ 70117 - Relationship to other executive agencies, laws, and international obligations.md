@@ -98,7 +98,7 @@ This amends 49:70117(b)(2) by updating a cross-reference. Section 4 of the Land 
 
 The Communications Act of 1934, referred to in subsec. (b)(1), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to section 151 et seq. of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
-The Land Remote Sensing Policy Act of 1992, referred to in subsec. (b)(2), is Pub. L. 102–555, Oct. 28, 1992, 106 Stat. 4163, which is classified principally to chapter 82 (§5601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 15 and Tables.
+The Land Remote Sensing Policy Act of 1992, referred to in subsec. (b)(2), is Pub. L. 102–555, Oct. 28, 1992, 106Stat. 4163, which is classified principally to chapter 82 (§5601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 15 and Tables.
 
 The Foreign Trade Zones Act, referred to in subsec. (f), is act June 18, 1934, ch. 590, 48 Stat. 998, as amended, which is classified generally to chapter 1A (§81a et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see Tables.
 
@@ -115,4 +115,8 @@ Subsec. (g)(1). Pub. L. 105–303, §102(a)(15)(D)(i), substituted “reentry, o
 Subsec. (g)(2). Pub. L. 105–303, §102(a)(15)(D)(ii), inserted “reentry,” after “launch,”.
 
 1996—Subsec. (b)(2). Pub. L. 104–287 substituted “Land Remote Sensing Policy Act of 1992 (15 U.S.C. 5601 et seq.)” for “Land Remote-Sensing Commercialization Act of 1984 (15 U.S.C. 4201 et seq.)”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 42 section 2458c.
 

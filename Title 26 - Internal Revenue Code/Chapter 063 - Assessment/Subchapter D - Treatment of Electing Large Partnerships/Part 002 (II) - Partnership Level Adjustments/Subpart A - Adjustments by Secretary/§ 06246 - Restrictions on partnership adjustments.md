@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as otherwise provided in this chapter, no adjustment to any partnership item may be made (and no levy or proceeding in any court for the collection of any amount resulting from such adjustment may be made, begun or prosecuted) before—
+Except as otherwise provided in this chapter, no adjustment to any partnership item may bemade (and no levy or proceeding in any court for the collection of any amount resulting from such adjustment may be made, begun or prosecuted) before—
 
 &emsp;(1) the close of the 90th day after the day on which a notice of a partnership adjustment was mailed to the partnership, and
 

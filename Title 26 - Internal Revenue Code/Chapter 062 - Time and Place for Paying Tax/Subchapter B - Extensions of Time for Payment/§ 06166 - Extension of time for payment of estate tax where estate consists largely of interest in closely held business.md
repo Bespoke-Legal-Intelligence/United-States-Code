@@ -246,7 +246,7 @@ If the time for payment of any amount of tax has been extended under this sectio
 
 #### (2) Undistributed income of estate
 
-&emsp;&emsp;(A) If an election is made under this section and the estate has undistributed net income for any taxable year ending on or after the due date for the first installment, the executor shall, on or before the date prescribed by law for filing the income tax return for such taxable year (including extensions thereof), pay an amount equal to suchundistributed net income in liquidation of the unpaid portion of the tax payable in installments.
+&emsp;&emsp;(A) If an election is made under this section and the estate has undistributed net income for any taxable year ending on or after the due date for the first installment, the executor shall, on or before the date prescribed by law for filing the income tax return for such taxable year (including extensions thereof), pay an amount equal to such undistributed net income in liquidation of the unpaid portion of the tax payable in installments.
 
 &emsp;&emsp;(B) For purposes of subparagraph (A), the undistributed net income of the estate for any taxable year is the amount by which the distributable net income of the estate for such taxable year (as defined in section 643) exceeds the sum of—
 
@@ -254,7 +254,7 @@ If the time for payment of any amount of tax has been extended under this sectio
 
 &emsp;&emsp;&emsp;(ii) the amount of tax imposed for the taxable year on the estate under chapter 1; and
 
-&emsp;&emsp;&emsp;(iii) the amount of the tax imposed by section 2001 (including interest) paid by the executor during the taxable year (other than any amount paid pursuant to this paragraph).
+&emsp;&emsp;&emsp;(iii) the amount of the tax imposed by section 2001 (including interest) paid bythe executor during the taxable year (other than any amount paid pursuant to this paragraph).
 
 &emsp;&emsp;(C) For purposes of this paragraph, if any stock in a corporation is treated as stock in another corporation by reason of subsection (b)(8)(A), any dividends paid by such other corporation to the corporation shall be treated as paid to the estate of the decedent to the extent attributable to the stock qualifying under subsection (a)(1).
 
@@ -336,7 +336,7 @@ The Secretary shall prescribe such regulations as may be necessary to the applic
 
 #### References in Text
 
-Section 2035 of this title, referred to in subsec. (k)(5), was amended generally by Pub. L. 105–34, title XIII, §1310(a), Aug. 5, 1997, 111 Stat. 1043, and, as so amended, provisions relating to special rule for qualifying an estate under this section where property has been transferred within 3 years of decedent's death, which formerly appeared in subsec. (d)(4), are contained in subsec. (c)(2).
+Section 2035 of this title, referred to in subsec. (k)(5), was amended generally by Pub. L. 105–34, title XIII,§1310(a), Aug. 5, 1997, 111 Stat. 1043, and, as so amended, provisions relating to special rule for qualifying an estate under this section where property has been transferred within 3 years of decedent's death, which formerly appeared in subsec. (d)(4), are contained in subsec. (c)(2).
 
 #### Prior Provisions
 
@@ -428,7 +428,7 @@ In general.—At the election of the executor, if—
 
 &emsp;“(B)
 
-Effect of election.—Any executor who elects the application of this paragraph shall be treated as having made the election under paragraph (8) of section 6166(b) of such Code.”
+Effect of election.—Any executor who elects the application of this paragraph shall be treated ashaving made the election under paragraph (8) of section 6166(b) of such Code.”
 
 #### Effective Date of 1983 Amendment
 

@@ -54,7 +54,7 @@ The transferor of a facility which is sold or transferred as described in subsec
 
 The right of recovery of the United States under subsection (a) of this section shall not constitute a lien on any facility with respect to which funds have been paid under this subchapter.
 
-(July 1, 1944, ch. 373, title XVI, §1622, formerly §1631, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88 Stat. 2269; amended Pub. L. 94–278, title XI, §1106(c), Apr. 22, 1976, 90 Stat. 416; renumbered §1622 and amended Pub. L. 96–79, title II, §§202(b), 203(c), Oct. 4, 1979, 93 Stat. 632, 635; Pub. L. 98–369, div. B. title III, §2381(b), July 18, 1984, 98 Stat. 1114.)
+(July 1, 1944, ch. 373, title XVI, §1622, formerly §1631, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88 Stat. 2269; amended Pub. L. 94–278, title XI, §1106(c), Apr. 22, 1976, 90 Stat. 416; renumbered §1622 and amended Pub. L. 96–79, title II,§§202(b), 203(c), Oct. 4, 1979, 93 Stat. 632, 635; Pub. L. 98–369, div. B. title III, §2381(b), July 18, 1984, 98 Stat. 1114.)
 
 #### Codification
 

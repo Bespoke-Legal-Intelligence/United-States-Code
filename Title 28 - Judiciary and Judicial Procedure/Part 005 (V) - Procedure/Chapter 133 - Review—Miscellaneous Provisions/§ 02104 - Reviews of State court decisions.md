@@ -1,6 +1,6 @@
 ### §2104. Reviews of State court decisions
 
-A review by the Supreme Court of a judgment or decree of a State court shall be conducted in the same manner and under the same regulations, and shall have the same effect, as if thejudgment or decree reviewed had been rendered in a court of the United States.
+A review by the Supreme Court of a judgment or decree of a State court shall be conducted in the same manner and under the same regulations, and shall have the same effect, as if the judgment or decree reviewed had been rendered in a court of the United States.
 
 (June 25, 1948, ch. 646, 62 Stat. 962; Pub. L. 100–352, §5(d)(1), June 27, 1988, 102 Stat. 663.)
 

@@ -22,7 +22,7 @@ Before making any determination under subsection (b) of this section, the Trade 
 
 &emsp;(2) provide an opportunity for the presentation of views by interested persons.
 
-(Pub. L. 93–618, title III, §306, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 299; amended Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1173; Pub. L. 103–465, title III, §314(e), Dec. 8, 1994, 108 Stat. 4941; Pub. L. 104–295, §20(c)(1), Oct. 11, 1996, 110 Stat. 3528.)
+(Pub. L. 93–618, title III, §306, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 299;amended Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1173; Pub. L. 103–465, title III, §314(e), Dec. 8, 1994, 108 Stat. 4941; Pub. L. 104–295, §20(c)(1), Oct. 11, 1996, 110 Stat. 3528.)
 
 #### Amendments
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 applicable to petitions filed, and investigations initiated, under section 2412 ofthis title on or after Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date no decision had been made under section 2414 of this title regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as a note under section 2411 of this title.
+Amendment by Pub. L. 100–418 applicable to petitions filed, and investigations initiated, under section 2412 of this title on or after Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date no decision had been made under section 2414 of this title regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as a note under section 2411 of this title.
 
 #### Section Referred to in Other Sections
 

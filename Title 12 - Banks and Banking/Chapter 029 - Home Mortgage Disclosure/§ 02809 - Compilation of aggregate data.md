@@ -6,7 +6,7 @@ Beginning with data for calendar year 1980, the Federal Financial Institutions E
 
 #### (b) Staff and data processing resources
 
-The Board shall provide staff and data processing resources to the Council to enable it to carry out the provisions of subsection (a) of this section.
+The Board shall provide staff and data processing resources to the Council to enable it tocarry out the provisions of subsection (a) of this section.
 
 #### (c) Availability to public
 

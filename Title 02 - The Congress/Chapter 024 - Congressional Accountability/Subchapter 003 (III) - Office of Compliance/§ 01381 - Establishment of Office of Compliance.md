@@ -36,7 +36,7 @@ The Chair shall be appointed from members of the Board jointly by the Speaker of
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), membership on the Board shall be for 5 years. Amember of the Board who is appointed to a term of office of more than 3 years shall only be eligible for appointment for a single term of office.
+&emsp;Except as provided in paragraph (2), membership on the Board shall be for 5 years. A member of the Board who is appointed to a term of office of more than 3 years shall only be eligible for appointment for a single term of office.
 
 #### (2) First appointments
 

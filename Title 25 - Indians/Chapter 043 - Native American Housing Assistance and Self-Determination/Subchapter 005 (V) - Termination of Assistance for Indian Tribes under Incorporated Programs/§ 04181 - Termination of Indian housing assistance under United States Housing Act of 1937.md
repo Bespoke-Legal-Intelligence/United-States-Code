@@ -6,7 +6,7 @@ After September 30, 1997, financial assistance may not be provided under the Uni
 
 #### (b) Termination of restrictions on use of Indian housing
 
-After September 30, 1997, any housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority pursuant to the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] shall not be subject to any provision of such Act or any annual contributions contract or other agreement pursuant to such Act, but shall be considered and maintained as affordable housing for purposes of this chapter.
+After September 30, 1997, any housing developed or operated pursuant to a contract betweenthe Secretary and an Indian housing authority pursuant to the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] shall not be subject to any provision of such Act or any annual contributions contract or other agreement pursuant to such Act, but shall be considered and maintained as affordable housing for purposes of this chapter.
 
 (Pub. L. 104–330, title V, §502, Oct. 26, 1996, 110 Stat. 4043.)
 

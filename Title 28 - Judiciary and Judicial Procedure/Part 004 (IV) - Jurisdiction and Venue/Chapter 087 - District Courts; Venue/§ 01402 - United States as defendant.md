@@ -48,7 +48,7 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, see section 203 of 
 
 Actions on war risk insurance claims, see section 1292 of Title 46, Appendix, Shipping.
 
-Jurisdiction and legal remedy for unauthorized use or disclosure of patents and technical information, see section 2356 of Title 22, Foreign Relations and Intercourse.
+Jurisdiction and legal remedy for unauthorized use or disclosure of patents and technical information, seesection 2356 of Title 22, Foreign Relations and Intercourse.
 
 #### Section Referred to in Other Sections
 

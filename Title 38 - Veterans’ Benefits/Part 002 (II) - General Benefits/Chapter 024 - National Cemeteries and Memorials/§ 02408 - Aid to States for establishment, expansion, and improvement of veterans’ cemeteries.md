@@ -2,7 +2,7 @@
 
 (a)(1) Subject to subsection (b) of this section, the Secretary may make grants to any State to assist such State in establishing, expanding, or improving veterans’ cemeteries owned by such State. Any such grant may be made only upon submission of an application to the Secretary in such form and manner, and containing such information, as the Secretary may require.
 
-(2) There is authorized to be appropriated such sums as may be necessary for fiscal year 1999 and for each succeeding fiscal year through fiscal year 2004 for the purpose of making grants under paragraph (1).
+(2) There is authorized to be appropriated such sums as may be necessary for fiscal year 1999and for each succeeding fiscal year through fiscal year 2004 for the purpose of making grants under paragraph (1).
 
 (b) Grants under this section shall be subject to the following conditions:
 
@@ -22,7 +22,7 @@
 
 (d)(1) In addition to the conditions specified in subsections (b) and (c), any grant made on or after November 21, 1997, to a State under this section to assist such State in establishing, expanding, or improving a veterans’ cemetery shall be made subject to the condition specified in paragraph (2).
 
-(2) For purposes of paragraph (1), the condition described in this paragraph is that, after thedate of the receipt of the grant, such State prohibit the interment or memorialization in that cemetery of a person described in section 2411(b) of this title, subject to the receipt of notice described in subsection (a)(2) of such section, except that for purposes of this subsection—
+(2) For purposes of paragraph (1), the condition described in this paragraph is that, after the date of the receipt of the grant, such State prohibit the interment or memorialization in that cemetery of a person described in section 2411(b) of this title, subject to the receipt of notice described in subsection (a)(2) of such section, except that for purposes of this subsection—
 
 &emsp;(A) such notice shall be furnished to an appropriate official of such State; and
 

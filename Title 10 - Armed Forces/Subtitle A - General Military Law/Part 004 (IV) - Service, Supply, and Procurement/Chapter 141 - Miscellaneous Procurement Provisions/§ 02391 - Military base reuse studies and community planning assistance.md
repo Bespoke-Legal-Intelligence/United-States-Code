@@ -8,9 +8,9 @@ Reuse Studies.—Whenever the Secretary of Defense or the Secretary of the milit
 
 Adjustment and Diversification Assistance.—(1) The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds available under Federal programs administered by agencies other than the Department of Defense in order to assist State and local governments in planning community adjustments and economic diversification required (A) by the proposed or actual establishment, realignment, or closure of a military installation, (B) by the cancellation or termination of a Department of Defense contract or the failure to proceed with an approved major weapon system program, (C) by a publicly announced planned major reduction in Department of Defense spending that would directly and adversely affect a community, (D) by the encroachment of a civilian community on a military installation, or (E) by the closure or the significantly reduced operations of a defense facility as the result of the merger, acquisition, or consolidation of the defense contractor operating the defense facility, if the Secretary determines that an action described in clause (A), (B), (C), or (E) is likely to have a direct and significantly adverse consequence on the affected community or, in the case of an action described in clause (D), if the Secretary determines that the encroachment of the civilian community is likely to impair the continued operational utility of the military installation.
 
-(2) In the case of the establishment or expansion of a military installation, assistance maybe made under paragraph (1) only if (A) community impact assistance or special impact assistance is not otherwise available, and (B) the establishment or expansion involves the assignment to the installation of (i) more than 2,000 military, civilian, and contractor Department of Defense personnel, or (ii) more military, civilian, and contractor Department of Defense personnel than the number equal to 10 percent of the number of persons employed in counties or independent municipalities within fifteen miles of the installation, whichever is lesser.
+(2) In the case of the establishment or expansion of a military installation, assistance may be made under paragraph (1) only if (A) community impact assistance or special impact assistance is not otherwise available, and (B) the establishment or expansion involves the assignment to the installation of (i) more than 2,000 military, civilian, and contractor Department of Defense personnel, or (ii) more military, civilian, and contractor Department of Defense personnel than the number equal to 10 percent of the number of persons employed in counties or independent municipalities within fifteen miles of the installation, whichever is lesser.
 
-(3) In the case of a publicly announced planned reduction in Department of Defense spending, the closure or significantly reduced operations of a defense facility, the cancellation or termination of a Department of Defense contract, or the failure to proceed with a previously approved major defense acquisition program, assistance may be made under paragraph (1) only if the reduction, cancellation, termination, or failure will have a direct and significant adverse impact on a community and will result in the loss of—
+(3) In the case of a publicly announced planned reduction in Department of Defense spending, the closure or significantly reduced operations of a defense facility, the cancellation or termination of a Department of Defense contract, or the failure to proceed with a previously approved major defense acquisition program, assistance may be made under paragraph (1) only if the reduction, cancellation, termination, or failure will have a direct and significant adverseimpact on a community and will result in the loss of—
 
 &emsp;(A) 2,500 or more employee positions, in the case of a Metropolitan Statistical Area or similar area (as defined by the Director of the Office of Management and Budget);
 
@@ -56,7 +56,7 @@ Adjustment and Diversification Assistance.—(1) The Secretary of Defense may ma
 
 (c)
 
-Annual Report.—The Secretary of Defense shall submit a report not later than December 1 of each year to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives concerning the operation of this section during the preceding fiscal year. Each such report shall identify each State, unit of local government,and regional organization that received a grant under this section during such fiscal year and the total amount granted under this section during such year to each such State, unit of local government, and regional organization.
+Annual Report.—The Secretary of Defense shall submit a report not later than December 1 of each year to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives concerning the operation of this section during the preceding fiscal year. Each such report shall identify each State, unit of local government, and regional organization that received a grant under this section during such fiscal year and the total amount granted under this section during such year to each such State, unit of local government, and regional organization.
 
 (d)
 
@@ -72,13 +72,15 @@ Definitions.—In this section:
 
 Assistance Subject to Appropriations.—The authority of the Secretary of Defense to make grants under this section in any fiscal year is subject to the availability of appropriations for that purpose.
 
-(Added Pub. L. 97–86, title IX, §912(a)(1), Dec. 1, 1981, 95 Stat. 1122; amended Pub. L. 98–115, title VIII, §808, Oct. 11, 1983, 97 Stat. 789; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–456, div. B, title XXVIII, §2805, Sept. 29, 1988, 102 Stat. 2116; Pub. L. 101–510, div. D, title XLI, §4102(b), Nov. 5, 1990, 104 Stat. 1851; Pub. L. 102–25, title VII, §701(j)(3), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(28), div. D, title XLIII, §4301(a)–(c), Oct. 23, 1992, 106 Stat. 2500, 2696, 2697; Pub. L. 103–35, title II, §202(a)(15), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. B, title XXIX, §2913, Nov. 30, 1993, 107 Stat. 1925; Pub. L. 103–337, div. A, title XI, §§1122(a), 1123(a), (b), Oct. 5, 1994, 108 Stat. 2870, 2871; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. B, title XXVIII, §2814, Sept. 23, 1996, 110 Stat. 2790; Pub. L. 105–85, div. B, title XXVIII, §2822, Nov. 18, 1997, 111 Stat. 1997.)
+(Added Pub. L. 97–86, title IX, §912(a)(1), Dec. 1, 1981, 95 Stat. 1122; amended Pub. L. 98–115, title VIII, §808, Oct. 11, 1983, 97 Stat. 789; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–456, div. B, title XXVIII, §2805, Sept. 29, 1988, 102 Stat. 2116; Pub. L. 101–510, div. D, title XLI, §4102(b), Nov. 5, 1990, 104 Stat. 1851; Pub. L. 102–25, title VII, §701(j)(3), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(28), div. D, title XLIII, §4301(a)–(c), Oct. 23, 1992, 106 Stat. 2500, 2696, 2697; Pub. L. 103–35, title II, §202(a)(15), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. B, title XXIX, §2913, Nov. 30, 1993, 107 Stat. 1925; Pub. L. 103–337, div. A, title XI, §§1122(a), 1123(a), (b), Oct. 5, 1994, 108 Stat. 2870, 2871; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. B, title XXVIII, §2814, Sept. 23, 1996, 110 Stat. 2790; Pub. L. 105–85, div. B, title XXVIII, §2822, Nov. 18, 1997, 111 Stat. 1997; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+1999—Subsec. (c). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 1997—Subsec. (b)(5)(C). Pub. L. 105–85 added subpar. (C).
 
@@ -131,10 +133,6 @@ Subsec. (b)(4) to (6). Pub. L. 100–456, §2805(b), added par. (4) and redesign
 1987—Subsec. (d). Pub. L. 100–26 inserted “the term” after “In this section,”.
 
 1983—Subsec. (b)(2). Pub. L. 98–115 substituted “2,000” for “2,500”.
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1993 Amendment
 
@@ -318,7 +316,7 @@ Administrative Expenses.—Of amounts appropriated pursuant to this section, not
 
 #### “SEC. 4301. EXPANSION OF SMALL BUSINESS LOAN PROGRAM
 
-“Not later than 180 days after the date of the enactment of this Act \[Nov. 5, 1990\], the President, actingwith the assistance of the Committee and after consulting experts in government and the private sector, shall transmit to the Congress recommendations regarding ways that assistance provided pursuant to the business loan program under section 7(a) of the Small Business Act of 1958 \[15 U.S.C. 636(a)\] may be used to respond to the consequences of defense budget reductions.
+“Not later than 180 days after the date of the enactment of this Act \[Nov. 5, 1990\], the President, acting with the assistance of the Committee and after consulting experts in government and the private sector, shall transmit to the Congress recommendations regarding ways that assistance provided pursuant to the business loan program under section 7(a) of the Small Business Act of 1958 \[15 U.S.C. 636(a)\] may be used to respond to the consequences of defense budget reductions.
 
 #### “SEC. 4302. ECONOMIC PLANNING ASSISTANCE FOR EXCEPTIONAL PROJECTS
 
@@ -398,7 +396,7 @@ Section 912(c) of Pub. L. 97–86 required the first report under subsec. (c) of
 
 Ex. Ord. No. 12682, July 7, 1989, 54 F.R. 29315, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America,including section 2819 of the Military Construction Authorization Act, 1989 (Public Law 100–456) \[10 U.S.C. 2391 note\], it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including section 2819 of the Military Construction Authorization Act, 1989 (Public Law 100–456) \[10 U.S.C. 2391 note\], it is hereby ordered as follows:
 
 Section 1. (a) I hereby establish the Commission on Alternative Utilization of Military Facilities (“Commission”).
 
@@ -547,4 +545,6 @@ Sec. 7. <i>Construction</i>. (a) Nothing in this order shall be construed as sub
 (b) This order shall be effective immediately and shall supersede Executive Order No. 12049.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of Title 22, Foreign Relations and Intercourse.\]
 

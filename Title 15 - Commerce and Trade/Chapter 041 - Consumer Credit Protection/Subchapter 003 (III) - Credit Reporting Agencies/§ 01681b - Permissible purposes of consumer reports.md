@@ -114,7 +114,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an agency or department of the United States Government which seeksto obtain and use a consumer report for employment purposes, paragraph (3) shall not apply to any adverse action by such agency or department which is based in part on such consumer report, if the head of such agency or department makes a written finding that—
+&emsp;&emsp;In the case of an agency or department of the United States Government which seeks to obtain and use a consumer report for employment purposes, paragraph (3) shall not apply to any adverse action by such agency or department which is based in part on such consumer report, if the head of such agency or department makes a written finding that—
 
 &emsp;&emsp;&emsp;(i) the consumer report is relevant to a national security investigation of such agency or department;
 
@@ -266,11 +266,11 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information about a consumer, unless the consumer consents to the furnishing of the report.
 
-(Pub. L. 90–321, title VI, §604, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, §352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div.A, title II, §§2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, §311(a), Nov. 20, 1997, 111 Stat. 2255; Pub. L. 105–347, §§2, 3, 6(4), Nov. 2, 1998, 112 Stat. 3208, 3210, 3211.)
+(Pub. L. 90–321, title VI, §604, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, §352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div. A, title II, §§2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, §311(a), Nov. 20, 1997, 111 Stat. 2255; Pub. L. 105–347, §§2, 3, 6(4), Nov. 2, 1998, 112 Stat. 3208, 3210, 3211.)
 
 #### References in Text
 
-Executive Order No. 12958, referred to in subsec. (b)(4)(E)(i), is Ex. Ord. No. 12958, Apr. 17, 1995, 60 F.R. 19825, as amended, which is set out under section 435 of Title 50, War and National Defense.
+Executive Order No. 12958, referred to in subsec. (b)(4)(E)(i), is Ex. Ord. No. 12958, Apr. 17, 1995, 60 F.R.19825, as amended, which is set out under section 435 of Title 50, War and National Defense.
 
 #### Amendments
 

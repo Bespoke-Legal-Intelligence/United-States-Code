@@ -42,7 +42,7 @@ Education and Experience Requirements.—(1) An officer who is nominated for the
 
 (C) A waiver under subparagraph (A) or (B) may be made only under unusual circumstances justifying deviation from the conditions established in paragraph (1) for selection of an officer for the joint specialty.
 
-(D) The authority of the Secretary of Defense to grant a waiver under this paragraph may be delegated only to the Deputy Secretary of Defense. Such a waiver may be granted only on a case-by-case basis in the case of an individual officer and in the case of a general or flag officer only under exceptional circumstances in which the waiver is necessary to meet a critical needof the armed forces, as determined by the Chairman of the Joint Chiefs of Staff. In the case of officers in grades below brigadier general and rear admiral (lower half), the total number of waivers granted under this paragraph for officers in the same pay grade during any fiscal year may not exceed 10 percent of the total number of officers in that pay grade selected for the joint specialty during that fiscal year.
+(D) The authority of the Secretary of Defense to grant a waiver under this paragraph may be delegated only to the Deputy Secretary of Defense. Such a waiver may be granted only on a case-by-case basis in the case of an individual officer and in the case of a general or flag officer only under exceptional circumstances in which the waiver is necessary to meet a critical need of the armed forces, as determined by the Chairman of the Joint Chiefs of Staff. In the case of officers in grades below brigadier general and rear admiral (lower half), the total number of waivers granted under this paragraph for officers in the same pay grade during any fiscal year may not exceed 10 percent of the total number of officers in that pay grade selected for the joint specialty during that fiscal year.
 
 (E) There may not be more than 32 general and flag officers on active duty at the same time who were selected for the joint specialty while holding a general or flag officer grade and for whom a waiver was granted under this subparagraph.
 
@@ -64,7 +64,7 @@ Number of Joint Duty Assignments.—(1) The Secretary of Defense shall ensure th
 
 (B) Each position designated by the Secretary under subparagraph (A) may (subject to subparagraph (C)) be held only by an officer who has the joint specialty.
 
-(C) The Secretary of Defense may, on a case-by-case basis, waive the requirement in subparagraph (B) with respect to a particular assignment of an officer to a position designated as a critical joint duty assignment position. The authority of the Secretary to make such a waiver may be delegated only to the Chairman of the Joint Chiefs of Staff.
+(C) The Secretary of Defense may, on a case-by-case basis, waive the requirement in subparagraph (B) with respect to a particular assignment of an officer to a position designated as a critical joint duty assignment position. The authority of the Secretary to make such a waivermay be delegated only to the Chairman of the Joint Chiefs of Staff.
 
 (3)(A) The Secretary shall ensure that, of those joint duty assignment positions that are filled by general or flag officers, a substantial portion are among those positions that are designated under paragraph (2) as critical joint duty assignment positions.
 
@@ -112,7 +112,7 @@ Subsec. (c)(4). Pub. L. 101–189, §1122, added par. (4).
 
 1988—Subsec. (c)(3)(D). Pub. L. 100–456, §511, inserted “for officers in the same pay grade” after “under this paragraph”, substituted “10 percent” for “5 percent”, and inserted “in that pay grade” after “numbers of officers”.
 
-Subsec. (d)(2). Pub. L. 100–456, §512(a), designated existing provisions as subpar. (A), struck out sentence atend which directed that each position so designated by the Secretary could be held only by an officer who had the joint specialty, and added subpars. (B) to (D).
+Subsec. (d)(2). Pub. L. 100–456, §512(a), designated existing provisions as subpar. (A), struck out sentence at end which directed that each position so designated by the Secretary could be held only by an officer who had the joint specialty, and added subpars. (B) to (D).
 
 Subsec. (d)(4). Pub. L. 100–456, §517(a), substituted “25 percent” for “one-third”.
 

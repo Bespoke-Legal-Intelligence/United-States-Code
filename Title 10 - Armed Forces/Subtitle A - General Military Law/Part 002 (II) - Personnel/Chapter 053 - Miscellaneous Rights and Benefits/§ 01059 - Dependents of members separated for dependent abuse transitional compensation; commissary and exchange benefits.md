@@ -30,7 +30,7 @@ Recipients of Payments.—In the case of any individual described in subsection 
 
 &emsp;(1) If the individual was married at the time of the commission of the dependent-abuse offense resulting in the separation, such compensation shall be paid to the spouse or former spouse to whom the individual was married at that time, including an amount (determined under subsection (f)(2)) for each, if any, dependent child of the individual described in subsection (b) who resides in the same household as that spouse or former spouse.
 
-&emsp;(2) If there is a spouse or former spouse who is or, but for subsection (g), would be eligible for compensation under this section and if there is a dependent child of the individual described in subsection (b) who does not reside in the same household as that spouse or former spouse, compensation under this section shall be paid to each such dependent child of the individual described in subsection (b) who does not reside in that household.
+&emsp;(2) If there is a spouse or former spouse who is or, but for subsection (g), would be eligiblefor compensation under this section and if there is a dependent child of the individual described in subsection (b) who does not reside in the same household as that spouse or former spouse, compensation under this section shall be paid to each such dependent child of the individual described in subsection (b) who does not reside in that household.
 
 &emsp;(3) If there is no spouse or former spouse who is (or but for subsection (g) would be) eligible under paragraph (1), such compensation shall be paid to the dependent children of the individual described in subsection (b).
 
@@ -44,7 +44,7 @@ Commencement and Duration of Payment.—(1) Payment of transitional compensation
 
 &emsp;(B) in the case of a member being considered under applicable regulations for administrative separation from active duty in accordance with such regulations (if the basis for the separation includes a dependent-abuse offense), shall commence as of the date on which the separation action is initiated by a commander of the member pursuant to such regulations, as determined by the Secretary concerned.
 
-(2) Transitional compensation with respect to a member shall be paid for a period of 36 months, except that, if as of the date on which payment of transitional compensation commences the unserved portion of the member'speriod of obligated active duty service is less than 36 months, the period for which transitional compensation is paid shall be equal to the greater of—
+(2) Transitional compensation with respect to a member shall be paid for a period of 36 months, except that, if as of the date on which payment of transitional compensation commences the unserved portion of the member's period of obligated active duty service is less than 36 months, the period for which transitional compensation is paid shall be equal to the greater of—
 
 &emsp;(A) the unserved portion of the member's period of obligated active duty service; or
 

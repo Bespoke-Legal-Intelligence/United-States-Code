@@ -6,5 +6,5 @@ The provisions of this subchapter shall be applicable to the United States, its 
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 2259 of Title 50, Appendix, War andNational Defense, prior to repeal by Pub. L. 103–337, §3412(a).
+Provisions similar to those in this section were contained in section 2259 of Title 50, Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
 

@@ -4,7 +4,7 @@
 
 (b) The Secretary is authorized to initiate or expand research and development efforts related to solution of problems of rural water supply, rural sewage and solid waste management, rural housing, rural industrialization, and technology appropriate to small- and moderate-sized family farming operations, and any other problem that the Secretary may determine has an effect upon the economic development or the quality of life in rural areas.
 
-(R.S. §526; Feb. 9, 1889, ch. 122, §§1, 4, 25 Stat. 659; Pub. L. 92–419, title VI, §603(b), Aug. 30, 1972, 86 Stat. 675; Pub. L. 94–273, §7(4), Apr. 21, 1976, 90Stat. 378; Pub. L. 95–113, title XV, §1502(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 96–355, §5, Sept. 24, 1980, 94 Stat. 1174.)
+(R.S. §526; Feb. 9, 1889, ch. 122, §§1, 4, 25 Stat. 659; Pub. L. 92–419, title VI, §603(b), Aug. 30, 1972, 86 Stat. 675; Pub. L. 94–273, §7(4), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–113, title XV, §1502(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 96–355, §5, Sept. 24, 1980, 94 Stat. 1174.)
 
 #### Codification
 
@@ -26,7 +26,7 @@ Subsec. (b). Pub. L. 92–419, §603(b)(4), added subsec. (b).
 
 #### Change of Name
 
-Secretary of Agriculture substituted for Commissioner of Agriculture in text pursuant to sections 1 and 4 of act Feb. 9, 1889, which are classified to section 2202 of this title. See, also, section 2205 of this title.
+Secretary of Agriculture substituted for Commissioner of Agriculture in text pursuant to sections 1 and4 of act Feb. 9, 1889, which are classified to section 2202 of this title. See, also, section 2205 of this title.
 
 #### Effective Date of 1980 Amendment
 

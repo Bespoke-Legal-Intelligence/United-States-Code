@@ -26,3 +26,27 @@ The Congress declares that a priority goal of constructing the International Spa
 
 (Pub. L. 105–303, title I, §101, Oct. 28, 1998, 112 Stat. 2845.)
 
+#### Space Station Commercial Development Demonstration Program
+
+Pub. L. 106–74, title IV, §434, Oct. 20, 1999, 113 Stat. 1097, provided that:
+
+“(a)
+
+Purpose.—The purpose of this section is to establish a demonstration regarding the commercial feasibility and economic viability of private sector business operations involving the International Space Station and its related infrastructure. The goal will be furthered by the early use of the International Space Station by United States commercial entities committing private capital to commercial enterprises on the International Space Station. In conjunction with this demonstration program, the National Aeronautics and Space Administration (NASA) shall establish and publish a price policy designed to eliminate price uncertainty for those planning to utilize the International Space Station and its related facilities for United States commercial use.
+
+“(b)
+
+Use of Receipts for Commercial Use.—Any receipts collected by NASA from the commercial use of the International Space Station shall first be used to offset any costs incurred by NASA in support of the United States commercial use of the International Space Station. Any receipts collected in excess of the costs identified pursuant to the prior sentence may be retained by NASA for use without fiscal year limitation in promoting the commercial use of the International Space Station.
+
+“(c)
+
+Report.—NASA shall submit an annual report to the Congress that identifies all receipts that are collected under this section, the use of the receipts and the status of the demonstration. NASA shall submit afinal report on the status of the demonstration, including any recommendation for expansion, within 120 days of the completion of the assembly of the International Space Station or the end of fiscal year 2004, whichever is earlier.
+
+“(d)
+
+Definitions.—As used in this section, the term ‘United States commercial use’ means private commercial projects that are designed to benefit the United States through the sales of goods or services or the creation of jobs, or both.
+
+“(e)
+
+Termination.—The demonstration program established under this section shall apply to United States commercial use agreements that are entered into prior to the date of the completion of the International Space Station or the end of fiscal year 2004, whichever is earlier.”
+

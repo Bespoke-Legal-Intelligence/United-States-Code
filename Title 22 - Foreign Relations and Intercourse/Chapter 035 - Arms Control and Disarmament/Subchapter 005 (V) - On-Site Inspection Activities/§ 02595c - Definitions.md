@@ -2,7 +2,7 @@
 
 As used in this subchapter—
 
-&emsp;(1) the term “INF Treaty” means the Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Elimination of Their Intermediate-Range and Shorter-Range Missiles (signed at Washington, December 8, 1987);
+&emsp;(1) the term “INF Treaty” means the Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Elimination of Their Intermediate-Range andShorter-Range Missiles (signed at Washington, December 8, 1987);
 
 &emsp;(2) the term “OSIA” means the On-Site Inspection Agency established by the President, or such other agency as may be designated by the President to carry out the on-site inspection provisions of the INF Treaty;
 
@@ -20,5 +20,5 @@ As used in this subchapter—
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
 

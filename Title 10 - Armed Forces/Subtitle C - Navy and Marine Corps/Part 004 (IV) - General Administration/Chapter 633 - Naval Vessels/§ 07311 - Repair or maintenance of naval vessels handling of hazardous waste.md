@@ -24,7 +24,7 @@ Accountability for hazardous wastes.—(A) A provision specifying the following:
 
 &emsp;&emsp;(ii) In any case in which the contractor is the sole generator of hazardous waste that is removed, handled, stored, transported, or disposed of by the contractor in the performance of the contract, all contracts, manifests, invoices, and other documents related to the removal, handling, storage, transportation, or disposal of such hazardous waste shall bear a generator identification number issued to the contractor pursuant to applicable law.
 
-&emsp;&emsp;(iii) In any case in which both the Navy and the contractor are generators of hazardous waste that is removed, handled, stored, transported, or disposed of by the contractor in the performance of the contract, all contracts, manifests, invoices, and other documents related to the removal, handling, storage, transportation, or disposal of such hazardous waste shall bear both a generator identification number issued to the Navyand a generator identification number issued to the contractor pursuant to applicable law.
+&emsp;&emsp;(iii) In any case in which both the Navy and the contractor are generators of hazardous waste that is removed, handled, stored, transported, or disposed of by the contractor in the performance of the contract, all contracts, manifests, invoices, and other documents related to the removal, handling, storage, transportation, or disposal of such hazardous waste shall bear both a generator identification number issued to the Navy and a generator identification number issued to the contractor pursuant to applicable law.
 
 &emsp;(B) A determination under this paragraph of whether the Navy is a generator, a contractor is a generator, or both the Navy and a contractor are generators, shall be made in the same manner provided under subtitle C of the Solid Waste Disposal Act (42 U.S.C. 6921 et seq.) and regulations promulgated under that subtitle.
 
@@ -32,7 +32,7 @@ Accountability for hazardous wastes.—(A) A provision specifying the following:
 
 Renegotiation of Contract.—The Secretary of the Navy shall renegotiate a contract described in subsection (a) if—
 
-&emsp;(1) the contractor, during the performance of work under the contract, discovers hazardous wastes different in type or amount from those identified in the contract; and
+&emsp;(1) the contractor, during the performance of work under the contract, discovers hazardouswastes different in type or amount from those identified in the contract; and
 
 &emsp;(2) those hazardous wastes originated on, or resulted from material furnished by the Government for, the naval vessel on which the work is being performed.
 

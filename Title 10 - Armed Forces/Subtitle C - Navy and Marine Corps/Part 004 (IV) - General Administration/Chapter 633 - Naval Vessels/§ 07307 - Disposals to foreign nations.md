@@ -8,13 +8,13 @@ Larger or Newer Vessels.—A naval vessel that is in excess of 3,000 tons or tha
 
 Other Vessels.—(1) A naval vessel not subject to subsection (a) may be disposed of to another nation (whether by sale, lease, grant, loan, barter, transfer, or otherwise) in accordance with applicable provisions of law, but only after—
 
-&emsp;(A) the Secretary of the Navy notifies the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives in writing of the proposed disposition; and
+&emsp;(A) the Secretary of the Navy notifies the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives in writing of the proposed disposition; and
 
 &emsp;(B) 30 days of continuous session of Congress have expired following the date on which such notice is sent to those committees.
 
 (2) For purposes of paragraph (1)(B), the continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of such 30-day period.
 
-(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1709; amended Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502.)
+(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1709; amended Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### References in Text
 
@@ -28,11 +28,9 @@ A prior section 7307, acts Aug. 10, 1956, ch. 1041, 70A Stat. 452; Aug. 5, 1974,
 
 #### Amendments
 
+1999—Subsec. (b)(1)(A). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+
 1996—Subsec. (b)(1)(A). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Section Referred to in Other Sections
 

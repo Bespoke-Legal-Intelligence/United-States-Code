@@ -8,7 +8,7 @@
 
 #### (2) Additional transfers
 
-&emsp;In addition to the transfers made under paragraph (1), there shall be transferred to the Chairman of the Broadcasting Board of Governors the assets, contracts, property, records, and unexpended balance of appropriations, authorizations, allocations, and other funds, as determined by the Secretary, in concurrence with the Broadcasting Board of Governors, to support the functions transferred by this part.
+&emsp;In addition to the transfers made under paragraph (1), there shall be transferred to the Chairman of the Broadcasting Board of Governors the assets, contracts, property, records, and unexpended balance of appropriations, authorizations, allocations, and other funds, asdetermined by the Secretary, in concurrence with the Broadcasting Board of Governors, to support the functions transferred by this part.
 
 #### (b) Transfer of personnel
 
@@ -16,7 +16,7 @@ Notwithstanding any other provision of law—
 
 &emsp;(1) except as provided in subsection (c) of this section, all personnel and positions of USIA employed or maintained to carry out the functions transferred by this part to the Broadcasting Board of Governors shall be transferred to the Broadcasting Board of Governors at the same grade or class and the same rate of basic pay or basic salary rate and with the same tenure held immediately preceding transfer; and
 
-&emsp;(2) the personnel and positions of USIA, as determined by the Secretary of State, with the concurrence of the Broadcasting Board of Governors and the Director of USIA, to support the functions transferred by this part shall be transferred to the Broadcasting Board of Governors, including the InternationalBroadcasting Bureau, at the same grade or class and the same rate of basic pay or basic salary rate and with the same tenure held immediately preceding transfer.
+&emsp;(2) the personnel and positions of USIA, as determined by the Secretary of State, with the concurrence of the Broadcasting Board of Governors and the Director of USIA, to support the functions transferred by this part shall be transferred to the Broadcasting Board of Governors, including the International Broadcasting Bureau, at the same grade or class and the same rate of basic pay or basic salary rate and with the same tenure held immediately preceding transfer.
 
 #### (c) Transfer and allocation of property, appropriations, and personnel associated with Worldnet
 

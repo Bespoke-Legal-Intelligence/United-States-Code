@@ -52,7 +52,7 @@ Section 300m–6, act July 1, 1944, ch. 373, title XV, §1527, as added Oct. 4, 
 
 #### Transition Rule Regarding Mammographies
 
-Section 101(c)(2) of Pub. L. 103–183 provided that: “With respect to the screening procedure for breast cancer known as a mammography, the requirements in effect on the day before the date of the enactment of this Act \[Dec. 14, 1993\] under section 1503(c) of the Public Health Service Act \[subsec. (c) of this section\] remain in effect (for an individual or facility conducting such procedures pursuant to a grant to a State under section 1501 of such Act \[section 300k of this title\]) until there is in effect for the facility a certificate (orprovisional certificate) issued under section 354 of such Act \[section 263b of this title\].”
+Section 101(c)(2) of Pub. L. 103–183 provided that: “With respect to the screening procedure for breast cancer known as a mammography, the requirements in effect on the day before the date of the enactment of this Act \[Dec. 14, 1993\] under section 1503(c) of the Public Health Service Act \[subsec. (c) of this section\] remain in effect (for an individual or facility conducting such procedures pursuant to a grant to a State under section 1501 of such Act \[section 300k of this title\]) until there is in effect for the facility a certificate (or provisional certificate) issued under section 354 of such Act \[section 263b of this title\].”
 
 #### Section Referred to in Other Sections
 

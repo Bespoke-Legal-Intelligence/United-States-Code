@@ -12,7 +12,7 @@ Based on title 18, U.S.C., 1940 ed., §§103a, 103b (July 3, 1926, ch. 780, §§
 
 Section consolidates sections 103a and 103b of title 18, U.S.C., 1940 ed.
 
-Words “deemed guilty of misdemeanor” were deleted as unnecessary in view of definitive section 1 of thistitle. (See also reviser's note under section 212 of this title.)
+Words “deemed guilty of misdemeanor” were deleted as unnecessary in view of definitive section 1 of this title. (See also reviser's note under section 212 of this title.)
 
 Minor changes were made in phraseology.
 

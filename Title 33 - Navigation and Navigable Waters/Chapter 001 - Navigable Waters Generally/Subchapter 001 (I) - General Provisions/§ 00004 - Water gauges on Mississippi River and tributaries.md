@@ -4,7 +4,7 @@ The Secretary of the Army is authorized and directed to have water gauges establ
 
 For the purpose of securing the uninterrupted gauging of the waters of the Mississippi River and its tributaries, as provided for in this section, upon the application of the Chief of Engineers, the Secretary of the Army is authorized to draw his warrant or requisition, from time to time, upon the Secretary of the Treasury for such sums as may be necessary to do such work, not to exceed in the aggregate for each year the sum of $9,600.
 
-(R.S. §5252; Aug. 11, 1888, ch. 860, §6, 25 Stat. 424; June 13, 1902, ch. 1079, §9, 32 Stat. 374; July 26,1947, ch. 343, title II, §205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, §1(15), 68 Stat. 967.)
+(R.S. §5252; Aug. 11, 1888, ch. 860, §6, 25 Stat. 424; June 13, 1902, ch. 1079, §9, 32 Stat. 374; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, §1(15), 68 Stat. 967.)
 
 #### Codification
 

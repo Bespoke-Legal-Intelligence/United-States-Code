@@ -82,7 +82,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective July 1, 2000, see section 1032(f)(2) of Pub. L. 105–34, as amended, set out as a note under section 4041 of this title.
+Amendment by Pub. L. 105–34 effective Jan. 1, 2002, see section 1032(f)(2) of Pub. L. 105–34, as amended, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1993 Amendment
 

@@ -18,5 +18,7 @@ Historical and Revision Notes
 
 (no source).
 
+&nbsp;
+
 This section is added to except the National Education Association of the United States from the application of section 10101 of the revised title, restating 36:1101–1103, which imposes audit requirements on certain federally chartered corporations. The Association is not included in the list of corporations set out in 36:1101 to which the audit requirements apply.
 

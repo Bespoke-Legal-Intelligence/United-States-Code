@@ -30,7 +30,7 @@ The Negotiator may solicit and consider the comments of the Secretary, the Nucle
 
 (3)(A) No proposed agreement entered into under this section shall have legal effect unless enacted into Federal law.
 
-(B) A State or Indian tribe shall enter into an agreement under this section in accordance with the laws of such State or tribe. Nothing in thissection may be construed to prohibit the disapproval of a proposed agreement between a State and the United States under this section by a referendum or an act of the legislature of such State.
+(B) A State or Indian tribe shall enter into an agreement under this section in accordance with the laws of such State or tribe. Nothing in this section may be construed to prohibit the disapproval of a proposed agreement between a State and the United States under this section by a referendum or an act of the legislature of such State.
 
 (4) Notwithstanding any proposed agreement under this section, the Secretary may construct a repository or monitored retrievable storage facility at a site agreed to under this subchapter only if authorized by the Nuclear Regulatory Commission in accordance with the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\], title II of the Energy Reorganization Act of 1982 (42 U.S.C. 5841 et seq.) and any other law applicable to authorization of such construction.
 
@@ -38,7 +38,7 @@ The Negotiator may solicit and consider the comments of the Secretary, the Nucle
 
 #### References in Text
 
-The Atomic Energy Act of 1954, referred to in subsec. (d)(4), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (d)(4), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to theCode, see Short Title note set out under section 2011 of this title and Tables.
 
 The Energy Reorganization Act of 1982, referred to in subsec. (d)(4), probably means the Energy Reorganization Act of 1974, Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended. Title II of the Energy Reorganization Act of 1974 is classified generally to subchapter II (§5841 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 

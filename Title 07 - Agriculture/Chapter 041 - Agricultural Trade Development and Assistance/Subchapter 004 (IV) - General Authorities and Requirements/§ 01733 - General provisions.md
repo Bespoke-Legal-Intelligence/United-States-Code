@@ -4,7 +4,7 @@
 
 No agricultural commodity shall be made available under this chapter unless it is determined that—
 
-&emsp;(1) adequate storage facilities will be available in the recipient country at the time ofthe arrival of the commodity to prevent the spoilage or waste of the commodity; and
+&emsp;(1) adequate storage facilities will be available in the recipient country at the time of the arrival of the commodity to prevent the spoilage or waste of the commodity; and
 
 &emsp;(2) the distribution of the commodity in the recipient country will not result in a substantial disincentive to or interference with domestic production or marketing in that country.
 

@@ -158,7 +158,7 @@ Fresh Start.—
 
 &emsp;“(1)
 
-In general.—Except as provided in paragraph (2), in the case of any insurance company, any change in the method of accounting (and any change in the method of computing reserves) between such company's first taxable year beginning after December 31, 1983, and the preceding taxable year which is required solely by the amendments made by this subtitle \[see Effective Date note above\] shall be treated as not being a change in the method of accounting (or change in the method of computing reserves) for purposes of the Internal Revenue Code of 1986. The preceding sentence shall apply for purposes of computing the earnings and profits of any insurance company for its 1st taxable year beginning in 1984. The preceding sentence shall be applied by substituting ‘1985’ for ‘1984’ in the case of an insurance company which is a member of a controlled group (as defined in section 806(d)(3)), the common parent of which is
+In general.—Except as provided in paragraph (2), in the case of any insurance company, any change in the method of accounting (and any change in the method of computing reserves) between such company's first taxable year beginning after December 31, 1983, and the preceding taxable year which is required solely by the amendments made by this subtitle \[see Effective Date note above\] shall be treated as not being a change in the method of accounting (or change in the method of computing reserves) for purposes of the Internal Revenue Code of 1986. The preceding sentence shall apply for purposes of computing the earnings and profits of any insurance company for its 1st taxable year beginning in 1984. The preceding sentence shall be applied by substituting ‘1985’ for‘1984’ in the case of an insurance company which is a member of a controlled group (as defined in section 806(d)(3)), the common parent of which is
 
 &emsp;&emsp;“(A) a company having its principal place of business in Alabama and incorporated in Delaware on November 29, 1979, or
 
@@ -282,7 +282,7 @@ Recapture of reinsurance after december 31, 1983.—If (A) insurance or annuity 
 
 &emsp;&emsp;“(ii) the amount, if any, taken into account by the reinsurer under clause (i) for purposes of part I of subchapter L of chapter 1 of the Internal Revenue Code of 1986 shall be taken into account by the reinsured under the method described in section 807(f)(1)(B)(i) of the Internal Revenue Code of 1986 (as amended by this subtitle) commencing with the taxable year of recapture.
 
-> &emsp;The excess described in clause (i) shall be reduced by any portion of such excess to which section 807(f) of the Internal Revenue Code of 1986 applies by reason of paragraph (3) of this subsection. For purposes of thisparagraph, the term ‘reinsurer’ refers to the taxpayer that held reserves with respect to the recaptured contracts as of the end of the taxable year preceding the first taxable year beginning after December 31, 1983, and the term ‘reinsured’ refers to the taxpayer to which such reserves are ultimately transferred upon termination.
+> &emsp;The excess described in clause (i) shall be reduced by any portion of such excess to which section 807(f) of the Internal Revenue Code of 1986 applies by reason of paragraph (3) of this subsection. For purposes of this paragraph, the term ‘reinsurer’ refers to the taxpayer that held reserves with respect to the recaptured contracts as of the end of the taxable year preceding the first taxable year beginning after December 31, 1983, and the term ‘reinsured’ refers to the taxpayer to which such reserves are ultimately transferred upon termination.
 
 “(c)
 
@@ -394,7 +394,7 @@ Reports.—
 
 &emsp;&emsp;“(A)
 
-Interim reports.—The Secretary of the Treasury shall submit interim reports on the studyconducted under this subsection to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than July 1, 1986, 1987, and 1988.
+Interim reports.—The Secretary of the Treasury shall submit interim reports on the study conducted under this subsection to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than July 1, 1986, 1987, and 1988.
 
 &emsp;&emsp;“(B)
 

@@ -24,7 +24,7 @@ Section 24 of Pub. L. 104–65 provided that:
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–166, §1(a), Apr. 6, 1998, 112 Stat. 38, provided that: “This Act \[amending sections 1602, 1604, and 1610 of this title and section 613 of Title 22, Foreign Relations and Intercourse\] may be cited as the ‘Lobbying Disclosure Technical Amendments Act of 1998’.”
+Pub. L. 105–166, §1(a), Apr. 6, 1998, 112 Stat. 38, provided that: “This Act \[amending sections 1602, 1604, and1610 of this title and section 613 of Title 22, Foreign Relations and Intercourse\] may be cited as the ‘Lobbying Disclosure Technical Amendments Act of 1998’.”
 
 #### Short Title
 

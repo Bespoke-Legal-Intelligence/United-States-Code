@@ -26,7 +26,7 @@
 
 #### (ii) Issuance
 
-&emsp;&emsp;&emsp;Not later than 1 year after the date of the submission of the study under section12185 of this title, the Secretary shall issue in an accessible format new regulations to carry out sections 12184(b)(4) and 12182(b)(2)(D)(ii) of this title that require, taking into account the purposes of the study under section 12185 of this title and any recommendations resulting from such study, each private entity which uses an over-the-road bus to provide transportation to individuals to provide accessibility to such bus to individuals with disabilities, including individuals who use wheelchairs.
+&emsp;&emsp;&emsp;Not later than 1 year after the date of the submission of the study under section 12185 of this title, the Secretary shall issue in an accessible format new regulations to carry out sections 12184(b)(4) and 12182(b)(2)(D)(ii) of this title that require, taking into account the purposes of the study under section 12185 of this title and any recommendations resulting from such study, each private entity which uses an over-the-road bus to provide transportation to individuals to provide accessibility to such bus to individuals with disabilities, including individuals who use wheelchairs.
 
 #### (iii) Effective period
 

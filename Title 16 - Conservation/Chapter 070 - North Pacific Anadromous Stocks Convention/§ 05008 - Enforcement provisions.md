@@ -34,7 +34,7 @@ Authorized officers may, shoreward of the outer boundary of the exclusive econom
 
 &emsp;(A) board a vessel of any Party that reasonably can be believed to be engaged in directed fishing for, incidental taking of, or processing of anadromous fish, and, without warrant or process, inspect equipment, logs, documents, catch, and other articles, and question persons, on board the vessel, for the purpose of carrying out the provisions of the Convention, this chapter, or any regulation issued under this chapter; and
 
-&emsp;(B) if any such vessel or person on board is actually engaged in operations in violation of any such provision, or there is reasonable ground to believe any person or vessel was obviously so engaged before the boarding of such vessel by the authorized officer, arrest or seize such person or vessel and further investigate the circumstance if necessary.
+&emsp;(B) if any such vessel or person on board is actually engaged in operations in violation ofany such provision, or there is reasonable ground to believe any person or vessel was obviously so engaged before the boarding of such vessel by the authorized officer, arrest or seize such person or vessel and further investigate the circumstance if necessary.
 
 > If an authorized officer, after boarding and investigation, has reasonable cause to believe that any such fishing vessel or person engaged in operations in violation of any provision referred to in subparagraph (A), the officer shall deliver the vessel or person as promptly as practicable to the enforcement officers of the appropriate Party, in accordance with the provisions of the Convention.
 

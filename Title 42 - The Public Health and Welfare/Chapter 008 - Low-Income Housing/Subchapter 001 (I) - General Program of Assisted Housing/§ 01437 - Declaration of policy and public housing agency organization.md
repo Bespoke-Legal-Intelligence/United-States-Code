@@ -54,7 +54,7 @@ Prior similar provisions were contained in section 1 of act Sept. 1, 1937, ch. 8
 
 #### Amendments
 
-1998—Pub. L. 105–276 amended section catchline and text generally. Prior to amendment, text read as follows: “It is the policy of the United States to promote the general welfare of the Nation by employing its funds and credit, as provided in this chapter, to assist the several States and their political subdivisions to remedy the unsafe and unsanitary housing conditions and the acute shortage of decent, safe, and sanitary dwellings for families of lower income and, consistent with the objectives of this chapter, to vest in local public housing agencies the maximum amount of responsibility in the administration of their housing programs. No person should be barred from serving on the board of directors or similar governing body of a local public housing agency because of his tenancy in a low-income housing project.”
+1998—Pub. L. 105–276 amended section catchline and text generally. Prior to amendment, text read as follows: “It is the policy of the United States to promote the general welfare of the Nation by employing its funds and credit, as provided in this chapter, to assist the several States and their political subdivisions toremedy the unsafe and unsanitary housing conditions and the acute shortage of decent, safe, and sanitary dwellings for families of lower income and, consistent with the objectives of this chapter, to vest in local public housing agencies the maximum amount of responsibility in the administration of their housing programs. No person should be barred from serving on the board of directors or similar governing body of a local public housing agency because of his tenancy in a low-income housing project.”
 
 1990—Pub. L. 101–625 substituted “low-income housing” for “lower income housing”.
 
@@ -162,7 +162,7 @@ Findings.—Congress finds that—
 
 &emsp;“(1) there exists throughout the Nation a need for decent, safe, and affordable housing;
 
-&emsp;“(2) the inventory of public housing units owned, assisted, or operated by public housing agencies, anasset in which the Federal Government has invested over $90,000,000,000, has traditionally provided rental housing that is affordable to low-income persons;
+&emsp;“(2) the inventory of public housing units owned, assisted, or operated by public housing agencies, an asset in which the Federal Government has invested over $90,000,000,000, has traditionally provided rental housing that is affordable to low-income persons;
 
 &emsp;“(3) despite serving this critical function, the public housing system is plagued by a series of problems, including the concentration of very poor people in very poor neighborhoods and disincentives for economic self-sufficiency;
 
@@ -198,7 +198,7 @@ Purposes.—The purpose of this title \[see Tables for classification\] is to pr
 
 #### Mental Health Action Plan
 
-Pub. L. 105–276, title V, §517, Oct. 21, 1998, 112 Stat. 2550, provided that: “The Secretary of Housing and Urban Development, in consultation with the Secretary of Health and Human Services, the Secretary of Labor, and appropriate State and local officials and representatives, shall—
+Pub. L. 105–276, title V, §517, Oct. 21, 1998, 112 Stat. 2550, provided that: “The Secretary of Housing andUrban Development, in consultation with the Secretary of Health and Human Services, the Secretary of Labor, and appropriate State and local officials and representatives, shall—
 
 &emsp;“(1) develop an action plan and list of recommendations for the improvement of means of providing severe mental illness treatment to families and individuals receiving housing assistance under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], including public housing residents, residents of multifamily housing assisted with project-based assistance under section 8 of such Act \[42 U.S.C. 1437f\], and recipients of tenant-based assistance under such section; and
 
@@ -296,5 +296,5 @@ Effective Date.—This section shall take effect on the date of the enactment of
 
 #### Limitation on Withholding or Conditioning of Assistance
 
-Assistance provided for in Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\], National Housing Act \[12 U.S.C. 1701 et seq.\], United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], Housing Act of 1949 \[see Short Title note set out under section 1441 of this title\], Demonstration Cities and Metropolitan Development Act of 1966 \[see Short Title note set out under section 3301 of this title\], and Housing and Urban Development Acts of 1965, 1968, 1969, and 1970 not to be withheld or made subject to conditions by reason of tax-exempt status of obligations issued or to be issued for financing of assistance, except as otherwise provided by law, see section 817 of Pub. L. 93–383, set out as a note under section 5301 of this title.
+Assistance provided for in Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\], National Housing Act \[12 U.S.C. 1701 et seq.\], United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], Housing Act of 1949 \[see Short Title note set out under section 1441 of this title\], Demonstration Cities and Metropolitan Development Act of 1966 \[see Short Title note set out under section 3301 of this title\], and Housing and Urban Development Acts of 1965, 1968, 1969, and 1970not to be withheld or made subject to conditions by reason of tax-exempt status of obligations issued or to be issued for financing of assistance, except as otherwise provided by law, see section 817 of Pub. L. 93–383, set out as a note under section 5301 of this title.
 

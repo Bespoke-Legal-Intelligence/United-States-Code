@@ -2,7 +2,7 @@
 
 #### (a) Definition of taxable income
 
-In the case of an insurance company subject to the tax imposed by section 831, the term “taxable income” means the gross income as defined in subsection (b)(1) less the deductions allowed by subsection (c).
+In the case of an insurance company subject to the tax imposed by section 831, the term “taxable income” means the gross income as definedin subsection (b)(1) less the deductions allowed by subsection (c).
 
 #### (b) Definitions
 
@@ -164,7 +164,7 @@ In the case of an insurance company subject to the tax imposed by section 831—
 
 &emsp;&emsp;&emsp;&emsp;(II) which, for any taxable year beginning before January 1, 1987, was subject to the tax imposed by section 821(a) <sup>1</sup> or 831(a) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986),
 
-&emsp;&emsp;&nbsp;subparagraph (C) of paragraph (4) shall apply beginning with the 1st taxable yearbeginning after December 31, 1986, for which such company is subject to the tax imposed by section 831(a) and shall be applied by substituting the last day of the preceding taxable year for “December 31, 1986” and the 1st day of the 7th succeeding taxable year for “January 1, 1993”.
+&emsp;&emsp;&nbsp;subparagraph (C) of paragraph (4) shall apply beginning with the 1st taxable year beginning after December 31, 1986, for which such company is subject to the tax imposed by section 831(a) and shall be applied by substituting the last day of the preceding taxable year for “December 31, 1986” and the 1st day of the 7th succeeding taxable year for “January 1, 1993”.
 
 #### (E) Treatment of certain reciprocal insurers
 
@@ -274,7 +274,7 @@ In the case of taxable years beginning after December 31, 1966, of a company whi
 
 #### (2) Purchase of bonds
 
-&emsp;The deduction under paragraph (1) shall be allowed only to the extent that tax and loss bonds are purchased in an amount equal to the tax benefit attributable to such deduction, as determined under regulations prescribed by the Secretary, on or before the date that any taxes (determined without regard to this subsection) due for the taxable year for which the deduction is allowed are due to be paid. If a deduction would be allowed but for the fact that tax and loss bonds were not timely purchased, such deduction shall be allowed to the extent such purchases are made within a reasonable time, as determined by the Secretary, if all interest and penalties, computed as if this sentence did not apply, are paid.
+&emsp;The deduction under paragraph (1) shall be allowed only to the extent that tax and lossbonds are purchased in an amount equal to the tax benefit attributable to such deduction, as determined under regulations prescribed by the Secretary, on or before the date that any taxes (determined without regard to this subsection) due for the taxable year for which the deduction is allowed are due to be paid. If a deduction would be allowed but for the fact that tax and loss bonds were not timely purchased, such deduction shall be allowed to the extent such purchases are made within a reasonable time, as determined by the Secretary, if all interest and penalties, computed as if this sentence did not apply, are paid.
 
 #### (3) Mortgage guaranty account
 
@@ -296,7 +296,7 @@ In the case of taxable years beginning after December 31, 1966, of a company whi
 
 &emsp;&emsp;(D) any amount improperly subtracted from the account under subparagraph (A), (B), or (C) to the extent that tax and loss bonds were redeemed with respect to such amount.
 
-> &emsp;If a company liquidates or otherwise terminates its mortgage guaranty insurance business and does not transfer or distribute such business in an acquisition of assets referred to in section 381(a), the entire amount remaining in such account shall be subtracted. Except inthe case where a company transfers or distributes its mortgage guaranty insurance in an acquisition of assets referred to in section 381(a), if the company is not subject to the tax imposed by section 831 for any taxable year, the entire amount in the account at the close of the preceding taxable year shall be subtracted from the account in such preceding taxable year.
+> &emsp;If a company liquidates or otherwise terminates its mortgage guaranty insurance business and does not transfer or distribute such business in an acquisition of assets referred to in section 381(a), the entire amount remaining in such account shall be subtracted. Except in the case where a company transfers or distributes its mortgage guaranty insurance in an acquisition of assets referred to in section 381(a), if the company is not subject to the tax imposed by section 831 for any taxable year, the entire amount in the account at the close of the preceding taxable year shall be subtracted from the account in such preceding taxable year.
 
 #### (6) Lease guaranty insurance; insurance of State and local obligations
 
@@ -316,7 +316,7 @@ In the case of a mutual insurance company which is an interinsurer or reciprocal
 
 In the case of an insurance company subject to tax under section 831(a) filing or required to file a consolidated return under section 1501 with respect to any affiliated group for any taxable year, any determination under this part with respect to any dividend paid by one member of such group to another member of such group shall be made as if such group were not filing a consolidated return.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 264; Mar. 13, 1956, ch. 83, §3(b), 70 Stat. 48; Pub. L. 87–834, §8(e)(2)–(5), Oct. 16, 1962, 76 Stat. 997, 998; Pub. L. 88–272, title II, §228(c), Feb. 26, 1964, 78 Stat. 99; Pub. L. 89–809, title I, §104(i)(7), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 90–240, §5(a)–(c), Jan. 2, 1968, 81 Stat. 776, 777; Pub. L. 93–483, §5, Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title XIX, §§1901(a)(108), (b)(1)(T), (U), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1792, 1834; Pub. L. 97–248, title II, §234(b)(2)(A), Sept. 3, 1982, 96 Stat. 503; Pub. L. 98–369, div. A, title II, §211(b)(9), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, §§1021(a), (b), 1022(a), 1023(a), 1024(c)(1)–(6), Oct. 22, 1986, 100 Stat. 2395, 2397, 2399, 2406, 2407; Pub. L. 100–647, title I, §1010(c), (d)(1), (2), Nov. 10, 1988, 102 Stat. 3451–3453; Pub. L. 101–508, title XI, §§11303(a), (b), 11305(a), Nov. 5, 1990, 104 Stat. 1388–450, 1388–451; Pub. L. 104–188, title I, §§1702(h)(3), 1704(t)(45), Aug. 20, 1996, 110 Stat. 1873, 1889; Pub. L. 105–34, title X, §1084(b)(4), Aug. 5, 1997, 111 Stat. 955.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 264; Mar. 13, 1956, ch. 83, §3(b), 70 Stat. 48; Pub. L. 87–834, §8(e)(2)–(5), Oct. 16, 1962, 76 Stat. 997, 998; Pub. L. 88–272, title II, §228(c), Feb. 26, 1964, 78 Stat. 99; Pub. L. 89–809, title I, §104(i)(7), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 90–240, §5(a)–(c), Jan. 2, 1968, 81 Stat. 776, 777; Pub. L. 93–483, §5, Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title XIX, §§1901(a)(108), (b)(1)(T), (U), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1792, 1834; Pub. L. 97–248, title II, §234(b)(2)(A), Sept. 3, 1982, 96 Stat. 503; Pub.L. 98–369, div. A, title II, §211(b)(9), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, §§1021(a), (b), 1022(a), 1023(a), 1024(c)(1)–(6), Oct. 22, 1986, 100 Stat. 2395, 2397, 2399, 2406, 2407; Pub. L. 100–647, title I, §1010(c), (d)(1), (2), Nov. 10, 1988, 102 Stat. 3451–3453; Pub. L. 101–508, title XI, §§11303(a), (b), 11305(a), Nov. 5, 1990, 104 Stat. 1388–450, 1388–451; Pub. L. 104–188, title I, §§1702(h)(3), 1704(t)(45), Aug. 20, 1996, 110 Stat. 1873, 1889; Pub. L. 105–34, title X, §1084(b)(4), Aug. 5, 1997, 111 Stat. 955.)
 
 #### References in Text
 
@@ -346,7 +346,7 @@ Subsec. (b)(5)(A). Pub. L. 101–508, §11305(a), amended subpar. (A) generally.
 
 Subsec. (b)(7)(A). Pub. L. 101–508, §11303(b)(2), substituted “such contracts into account” for “such amounts into account”.
 
-Pub. L. 101–508, §11303(b)(1), which directed the substitution of “insurance contracts described in section 816(b)(1)(B)” for “amounts included in unearned premiums under the 2nd sentence of such subparagraph”,was executed by making the substitution for “amounts included in unearned premiums under the 2nd sentence of such paragraph”. See 1996 Amendment note above.
+Pub. L. 101–508, §11303(b)(1), which directed the substitution of “insurance contracts described in section 816(b)(1)(B)” for “amounts included in unearned premiums under the 2nd sentence of such subparagraph”, was executed by making the substitution for “amounts included in unearned premiums under the 2nd sentence of such paragraph”. See 1996 Amendment note above.
 
 1988—Subsec. (b)(5)(B)(ii)(II). Pub. L. 100–647, §1010(d)(2), inserted “(directly or indirectly)” after “attributable”.
 
@@ -554,7 +554,7 @@ Amendment by section 1901(a)(108), (b)(1)(T), (U) of Pub. L. 94–455 effective 
 
 #### Effective Date of 1968 Amendment
 
-Section 5(e) of Pub. L. 90–240, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a), (b), (c), and (d) \[amending this section and section 381 of this title\] shall apply to taxable years beginning after December 31, 1966, except that so much of section 832(e)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (asadded by the amendment made by subsection (c)) as provides for payment of interest and penalties for failure to make a timely purchase of tax and loss bonds shall not apply with respect to any period during which such bonds are not available for purchase.”
+Section 5(e) of Pub. L. 90–240, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a), (b), (c), and (d) \[amending this section and section 381 of this title\] shall apply to taxable years beginning after December 31, 1966, except that so much of section 832(e)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by the amendment made by subsection (c)) as provides for payment of interest and penalties for failure to make a timely purchase of tax and loss bonds shall not apply with respect to any period during which such bonds are not available for purchase.”
 
 #### Effective Date of 1966 Amendment
 
@@ -588,7 +588,7 @@ Section 1010(d)(3) of Pub. L. 100–647 provided that: “For purposes of sectio
 
 #### Study of Treatment of Property and Casualty Insurance Companies
 
-Section 1025 of subtitle C (§§1021–1025) of title X of Pub. L. 99–514 directed Secretary of the Treasury or his delegate to conduct a study of the treatment of policyholder dividends by mutual property and casualty insurance companies, the treatment of property and casualty insurance companies under the minimum tax, and the operation and effect of, and revenue raised by, the amendments made by this subtitle, and not later than Jan. 1, 1989 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559), such Secretary to submit to Committee on Ways and Means of House of Representatives, Committee on Finance of Senate, and Joint Committee on Taxation, the results of such study, together with such recommendations as he determined to be appropriate.
+Section 1025 of subtitle C (§§1021–1025) of title X of Pub. L. 99–514 directed Secretary of the Treasury or his delegate to conduct a study of the treatment of policyholder dividends by mutual property and casualty insurance companies, the treatment of property and casualty insurance companies under the minimum tax, and the operation and effect of, and revenue raised by,the amendments made by this subtitle, and not later than Jan. 1, 1989 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559), such Secretary to submit to Committee on Ways and Means of House of Representatives, Committee on Finance of Senate, and Joint Committee on Taxation, the results of such study, together with such recommendations as he determined to be appropriate.
 
 #### Physicians’ and Surgeons’ Mutual Protection and Interindemnity Arrangements or Associations
 
@@ -660,7 +660,7 @@ Section 5(g) of Pub. L. 90–240, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 “(2) If a mortgage guaranty insurance company made additions to a reserve which were so treated as unearned premiums described in paragraph (1), such company, in taxable years beginning after 1966, shall include in gross income (in addition to the items specified in section 832(b)(1) of such Code) the sum of the following amounts until there is included in gross income an amount equal to the aggregate additions to the reserve described in paragraph (1) for taxable years beginning before 1967:
 
-&emsp;“(A) an amount (if any) equal to the excess of losses incurred (as defined in section 832(b)(5) of such Code) for the taxable year over 35 percent of premiums earned on insurance contracts during the taxable year (as defined in section 832(b)(4) of such Code), determined without regard to amounts added to the reserve referred to in paragraph (1), with respect to mortgage guaranty insurance,
+&emsp;“(A) an amount (if any) equal to the excess of losses incurred (as defined in section 832(b)(5) of such Code)for the taxable year over 35 percent of premiums earned on insurance contracts during the taxable year (as defined in section 832(b)(4) of such Code), determined without regard to amounts added to the reserve referred to in paragraph (1), with respect to mortgage guaranty insurance,
 
 &emsp;“(B) the amount (if any) remaining which was added to the reserve for the tenth preceding taxable year, and
 

@@ -86,7 +86,6 @@
 | 390h–6. | Phoenix metropolitan water reclamation study and program. |
 | (a) | General authority. |
 | (b) | Federal share. |
-| (c) | Report. |
 | 390h–7. | Tucson area water reclamation study. |
 | (a) | General authority. |
 | (b) | Federal share. |

@@ -1,6 +1,6 @@
 ### §7507. New motor vehicle emission standards in nonattainment areas
 
-Notwithstanding section 7543(a) of this title, any State which has plan provisions approved under this part may adopt and enforce for any model year standards relating to control of emissions from new motor vehicles or new motor vehicle engines and take such other actions as are referred to in section 7543(a) of this title respecting such vehicles if—
+Notwithstanding section 7543(a) of this title, any State which has plan provisions approved under this part may adopt and enforce for anymodel year standards relating to control of emissions from new motor vehicles or new motor vehicle engines and take such other actions as are referred to in section 7543(a) of this title respecting such vehicles if—
 
 &emsp;(1) such standards are identical to the California standards for which a waiver has been granted for such model year, and
 

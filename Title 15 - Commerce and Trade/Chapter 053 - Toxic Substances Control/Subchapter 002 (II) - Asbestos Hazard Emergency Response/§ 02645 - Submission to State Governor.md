@@ -34,7 +34,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 #### (1) Request for deferral
 
-&emsp;A local educational agency may request a deferral, to May 9, 1989, of the deadline undersubsection (a) of this section. Upon approval of such a request, the deadline under subsection (a) of this section is deferred until May 9, 1989, for the local educational agency which submitted the request. Such a request may cover one or more schools under the authority of the agency and shall include a list of all the schools covered by the request. A local educational agency shall file any such request with the State Governor by October 12, 1988, and shall include with the request either of the following statements:
+&emsp;A local educational agency may request a deferral, to May 9, 1989, of the deadline under subsection (a) of this section. Upon approval of such a request, the deadline under subsection (a) of this section is deferred until May 9, 1989, for the local educational agency which submitted the request. Such a request may cover one or more schools under the authority of the agency and shall include a list of all the schools covered by the request. A local educational agency shall file any such request with the State Governor by October 12, 1988, and shall include with the request either of the following statements:
 
 &emsp;&emsp;(A) A statement—
 
@@ -58,7 +58,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 &emsp;&emsp;&emsp;(iii) A statement giving assurance that the local educational agency has carried out the notification and, in the case of a public school, public meeting required by paragraph (2).
 
-&emsp;&emsp;&emsp;(iv) A proposed schedule outlining all significant activities leading up to submission of a management plan by May 9, 1989, including inspection of the school (if not completed at the time of the request) with a deadline of no later than December 22, 1988, for entering into a signed contract with an accredited asbestos contractor for inspection (unless such inspections are to be performed by school personnel), laboratory analysis of material from the school suspected of containing asbestos, and development of the management plan.
+&emsp;&emsp;&emsp;(iv) A proposed schedule outlining all significant activities leading up to submission of a management plan by May 9, 1989, including inspection of the school (if notcompleted at the time of the request) with a deadline of no later than December 22, 1988, for entering into a signed contract with an accredited asbestos contractor for inspection (unless such inspections are to be performed by school personnel), laboratory analysis of material from the school suspected of containing asbestos, and development of the management plan.
 
 #### (2) Notification and public meeting
 

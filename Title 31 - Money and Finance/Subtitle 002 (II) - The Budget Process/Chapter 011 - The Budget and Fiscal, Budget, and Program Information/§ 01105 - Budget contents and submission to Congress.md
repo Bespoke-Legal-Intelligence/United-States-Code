@@ -86,7 +86,9 @@
 
 &emsp;(30) an analysis displaying, by agency, proposed reductions in full-time equivalent positions compared to the current year's level in order to comply with section 5 of the Federal Workforce Restructuring Act of 1994.
 
-&emsp;(32) <sup>1</sup> a statement of the levels of budget authority and outlays for each program assumed to be extended in the baseline as provided in section 257(b)(2)(A) and for excise taxes assumed to be extended under section 257(b)(2)(C) of the Balanced Budget and Emergency Deficit Control Act of 1985.
+&emsp;(31) a separate statement of the amount of appropriations requested for the Chief Financial Officer in the Executive Office of the President.
+
+&emsp;(32) a statement of the levels of budget authority and outlays for each program assumed to be extended in the baseline as provided in section 257(b)(2)(A) and for excise taxes assumed to be extended under section 257(b)(2)(C) of the Balanced Budget and Emergency Deficit Control Act of 1985.
 
 (b) Estimated expenditures and proposed appropriations for the legislative branch and the judicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
 
@@ -172,11 +174,11 @@
 
 &emsp;(iii) Research on basic mathematics or medical, biological, physical, social, psychological, or other phenomena.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475.)
 
 #### Amendment of Section
 
-<i>For termination of amendment by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates of 1985 Amendment note below.</i>
+<i>For termination of amendment by section 275(b) of Pub. L. 99–177, as amended, see Effec</i><i>tive and Termination Dates of 1985 Amendment note below.</i>
 
 Historical and Revision Notes<br>1982
 
@@ -340,6 +342,8 @@ Section 257(b)(2) of the Balanced Budget and Emergency Deficit Control Act of 19
 
 #### Amendments
 
+1999—Subsec. (a)(31). Pub. L. 106–58 added par. (31).
+
 1998—Subsec. (a)(26). Pub. L. 105–277 added par. (26) relating to statement of appropriations requested for drug programs.
 
 1997—Subsec. (a)(32). Pub. L. 105–33 added par. (32).
@@ -354,7 +358,7 @@ Subsec. (g). Pub. L. 103–355 added subsec. (g).
 
 1993—Subsec. (a)(29). Pub. L. 103–62 added par. (29).
 
-1990—Subsec. (a). Pub. L. 101–508, §13112(c)(1), substituted “On or after the first Monday in January but not later than the first Monday in February of eachyear” for “On or before the first Monday after January 3 of each year (or on or before February 5 in 1986)”.
+1990—Subsec. (a). Pub. L. 101–508, §13112(c)(1), substituted “On or after the first Monday in January but not later than the first Monday in February of each year” for “On or before the first Monday after January 3 of each year (or on or before February 5 in 1986)”.
 
 Subsec. (a)(28). Pub. L. 101–576 added par. (28).
 
@@ -392,13 +396,17 @@ Pub. L. 100–418, §§5301, 5303, temporarily added par. (26) which read as fol
 
 1987—Subsec. (f)(3) to (5). Pub. L. 100–119 added pars. (3) and (4) and redesignated former par. (3) as (5).
 
-1985—Subsec. (a). Pub. L. 99–177, §241(a), substituted “On or before the first Monday after January 3 of each year (or on or before February 5 in 1986)” for “During the first 15 days of each regular session of Congress”.
+1985—Subsec. (a). Pub. L. 99–177, §241(a), substituted “On or before the first Monday after January 3 of eachyear (or on or before February 5 in 1986)” for “During the first 15 days of each regular session of Congress”.
 
 Subsec. (f). Pub. L. 99–177, §§241(b), 275(b), temporarily added subsec. (f). See Effective and Termination Dates of 1985 Amendment note below.
 
 1984—Subsec. (e). Pub. L. 98–501 added subsec. (e).
 
 1983—Subsec. (a)(25). Pub. L. 97–452 added par. (25).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–58 effective at noon on Jan. 20, 2001, see section 638(h) of Pub. L. 106–58, set out as a note under section 503 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -419,6 +427,10 @@ Amendment of subsec. (a) and enactment of subsec. (f) of this section by Pub. L.
 #### Construction of 1993 Amendment
 
 Amendment made by Pub. L. 103–62 not to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction note under section 1115 of this title.
+
+#### Federal Motor Carrier Safety Administration
+
+Pub. L. 106–159, title I, §107(b), Dec. 9, 1999, 113 Stat. 1758, provided that: “The President's budget submission for fiscal year 2001 and each fiscal year thereafter shall reflect the establishment of the Federal Motor Carrier Safety Administration in accordance with this Act \[see Tables for classification\].”
 
 #### Administrative Expenses of Legislative Branch Entities; Separate Categories; Compliance Reporting
 
@@ -460,7 +472,7 @@ Report.—Not later than October 1, 1988, the Secretary of the department in whi
 
 #### Water and Sewer Services Furnished to Government Facilities in District of Columbia
 
-Pub. L. 100–202, §101(c) \[title I, §136\], Dec. 22, 1987, 101 Stat. 1329–90, 1329–102, provided that: “After the effective date of this Joint Resolution \[Dec. 22, 1987\], the President shall include, without change, in each annual budget submitted to the Congress under section 1105 of title 31, United States Code, the values estimated by the Mayor of the District of Columbia for water and water services and sanitary sewer services furnished to facilities of the United States Government under sections 106 and 212 of the District of Columbia Public Works Act of 1954, as amended (D.C. Code, sections 43–1552, 43–1612).”
+Pub. L. 100–202, §101(c) \[title I, §136\], Dec. 22, 1987, 101 Stat. 1329–90, 1329–102, provided that: “After the effective date of this Joint Resolution \[Dec. 22, 1987\], the President shall include, without change, in each annualbudget submitted to the Congress under section 1105 of title 31, United States Code, the values estimated by the Mayor of the District of Columbia for water and water services and sanitary sewer services furnished to facilities of the United States Government under sections 106 and 212 of the District of Columbia Public Works Act of 1954, as amended (D.C. Code, sections 43–1552, 43–1612).”
 
 #### Two-Year Budget Cycle for Department of Defense
 
@@ -518,7 +530,5 @@ Ex. Ord. No. 6715, May 23, 1934, provided:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1104, 1106, 1107, 1115, 1118, 1119, 1554, 5134, 6503, 9103, 9109, 9703 of this title; title 2 sections 632, 655, 900, 901, 904; title 5 sections 1204, 8472; title 7 section 5603; title 10 sections 113, 114, 115, 115a, 119, 139, 168, 179, 221, 222, 223, 224, 226, 483, 484, 1465, 1741, 2006, 2208, 2212, 2216, 2217, 2304a, 2304b, 2350a, 2367, 2431, 2433, 2515, 2525, 2703, 2721, 2809, 2835, 2836, 2859, 2884, 7902; title 14 sections 663, 688, 692; title 15 sections 1022, 2935, 4626; title 20 section 76j; title 21 sections 1509, 1703; title 25 sections 450j–1, 458dd, 1621, 1671, 2012, 3803, 4043; title 29 section 762a; title 38 sections 312, 712, 3734, 7101, 7439, 7440, 8107, 8110, 8111, 8122; title 39 section 2009; title 40 sections 904, 908, 1412, 1413, 1425, 1428; title 41 sections 253h, 253i, 433; title 42 sections 2122a, 2286e, 7271b, 7274c, 7274g, 7274n, 8255, 11710, 13474; title 50 sections 404a, 404b, 404d, 1906, 2353.
-
-<i><sup>1</sup></i><i> So in original. There is no par. (31).</i>
+This section is referred to in sections 1104, 1106, 1107, 1115, 1118, 1119, 1554, 5134, 6503, 9103, 9109, 9703 of this title; title 2 sections 632, 655, 900, 901, 904; title 5 sections 1204, 8472; title 7 section 5603; title 10 sections 113, 114, 115, 115a, 119, 139, 168, 179, 221, 222, 223, 224, 226, 483, 484, 1465, 1741, 2006, 2208, 2212, 2216, 2217, 2304a, 2304b, 2350a, 2367, 2431, 2433, 2515, 2525, 2703, 2721, 2809, 2835, 2836, 2859, 2884, 7902; title 14 sections 663, 688, 692; title 15 sections 1022, 2935, 4626; title 20 section 76j; title 21 sections 1509, 1703; title 25 sections 450j–1, 458dd, 1621, 1671, 2012, 3803, 4043; title 29 section 762a; title 38 sections 312, 530, 712, 3734, 7101, 7439, 7440, 8107, 8110, 8111, 8122; title 39 section 2009; title 40 sections 904, 908, 1412, 1413, 1425, 1428; title 41 sections 253h, 253i, 433; title 42 sections 2122a, 2286e, 7271b, 7274c, 7274g, 7274n, 8255, 11710, 13474; title 50 sections 404a, 404b, 404d, 1906, 2353.
 

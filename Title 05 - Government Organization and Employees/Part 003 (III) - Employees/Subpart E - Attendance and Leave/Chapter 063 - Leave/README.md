@@ -29,13 +29,8 @@
 | [6324\.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006324%20-%20Absence%20of%20certain%20police%20and%20firemen.md) | Absence of certain police and firemen. |
 | [6325\.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006325%20-%20Absence%20resulting%20from%20hostile%20action%20abroad.md) | Absence resulting from hostile action abroad. |
 | [6326\.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006326%20-%20Absence%20in%20connection%20with%20funerals%20of%20immediate%20relatives%20in%20the%20Armed%20Forces.md) | Absence in connection with funerals of immediate relatives in the Armed Forces. |
-| 6327\.<sup>1</sup> | Absence in connection with serving as a bone-marrow or organ donor. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| 6327\.<sup>1</sup> | Absence in connection with funerals of fellow Federal law enforcement officers.<sup>2</sup> |
+| [6327\.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006327%20-%20Absence%20in%20connection%20with%20serving%20as%20a%20bone-marrow%20or%20organ%20donor.md) | Absence in connection with serving as a bone-marrow or organ donor. |
+| [6328\.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006328%20-%20Absence%20in%20connection%20with%20funerals%20of%20fellow%20Federal%20law%20enforcement%20officers.md) | Absence in connection with funerals of fellow Federal law enforcement officers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -100,9 +95,11 @@
 
 #### Amendments
 
+1999—Pub. L. 106–56, §1(c)(2), Sept. 24, 1999, 113 Stat. 407, added item 6328.
+
 1997—Pub. L. 105–18, title II, §9004(b), June 12, 1997, 111 Stat. 197, added heading of subchapter VI and item 6391.
 
-1994—Pub. L. 103–329, title VI, §629(a)(2)(B), Sept. 30, 1994, 108 Stat. 2423, added item 6327 relating to absence in connection with serving as a bone-marrow or organ donor.
+1994—Pub. L. 103–329, title VI, §629(a)(2)(B), Sept. 30, 1994, 108 Stat. 2423, added item 6327.
 
 1993—Pub. L. 103–103, §5(a)(2), Oct. 8, 1993, 107 Stat. 1023, substituted “Authority to participate in both programs” for “Limitation on employee participation” in item 6373.
 
@@ -128,7 +125,7 @@ Pub. L. 90–367, §2(b), June 29, 1968, 82 Stat. 277, added item 6312.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 4703 of this title; title 22 section 3664; title 24 section 225e; title 25 section 2012.
+This chapter is referred to in section 4703 of this title; title 24 section 225e; title 25 section 2012.
 
 
 ---

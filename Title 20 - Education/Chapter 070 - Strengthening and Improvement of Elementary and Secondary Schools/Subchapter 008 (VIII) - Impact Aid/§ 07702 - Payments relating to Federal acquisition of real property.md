@@ -42,7 +42,7 @@ Where the Secretary, after consultation with any local educational agency and wi
 
 #### (2) Application of current levied real property tax rate
 
-&emsp;In calculating the amount that a local educational agency is eligible to receive for a fiscal year, the Secretary shall apply the current levied real property tax rate for current expenditures levied by fiscally independent local educational agencies, or imputed for fiscally dependent local educational agencies, to the current annually determined aggregate assessed value of such acquired Federal property.
+&emsp;In calculating the amount that a local educational agency is eligible to receive for a fiscal year, the Secretary shall apply the currentlevied real property tax rate for current expenditures levied by fiscally independent local educational agencies, or imputed for fiscally dependent local educational agencies, to the current annually determined aggregate assessed value of such acquired Federal property.
 
 #### (3) Determination of aggregate assessed value
 
@@ -88,6 +88,12 @@ Beginning with fiscal year 1995, a local educational agency shall be deemed to m
 
 (2) For each fiscal year beginning with fiscal year 1999, the Secretary shall treat the Webster School District, Day County, South Dakota as meeting the eligibility requirements of subsection (a)(1)(C) of this section.
 
+(3) For each fiscal year beginning with fiscal year 2000, the Secretary shall treat the Central Union, California; Island, California; Hill City, South Dakota; and Wall, South Dakota local educational agencies as meeting the eligibility requirements of subsection (a)(1)(C) of this section.
+
+(4) For the purposes of payments under this section for each fiscal year beginning with fiscal year 2000, the Secretary shall treat the Hot Springs, South Dakota local educational agency as if it had filed a timely application under this section for fiscal year 1994 if the Secretary has received the fiscal year 1994 application, as well as Exhibits A and B not later than December 1, 1999.
+
+(5) For purposes of payments under this section for each fiscal year beginning with fiscal year 2000, the Secretary shall treat the Hueneme, California local educational agency as if it had filed a timely application under this section if the Secretary has received the fiscal year 1995 application not later than December 1, 1999.
+
 #### (g) Former districts
 
 #### (1) In general
@@ -96,7 +102,7 @@ Beginning with fiscal year 1995, a local educational agency shall be deemed to m
 
 #### (2) Eligible local educational agencies
 
-&emsp;A local educational agency referred to in paragraph (1) is any local educational agency that, for fiscal year 1994 or any preceding fiscal year, applied for and was determined eligible under section 2(c) of the Act of September 30, 1950 (Public Law 874, 81st Congress) as such section was in effect for such fiscal year.
+&emsp;A local educational agency referred to in paragraph (1) is any local educational agencythat, for fiscal year 1994 or any preceding fiscal year, applied for and was determined eligible under section 2(c) of the Act of September 30, 1950 (Public Law 874, 81st Congress) as such section was in effect for such fiscal year.
 
 #### (h) Hold-harmless amounts
 
@@ -160,7 +166,7 @@ Beginning with fiscal year 1995, a local educational agency shall be deemed to m
 
 &emsp;&emsp;(iv) remains responsible for the free public education of children residing in housing located on Federal property within the boundaries of the closed military installation but whose parents are on active duty in the uniformed services and assigned to a military activity located within the boundaries of an adjoining local educational agency; and
 
-&emsp;&emsp;(v) demonstrates to the satisfaction of the Secretary that such agency's per-pupil revenue derived from local sources for current expenditures is not less than that revenue for the preceding fiscal year.
+&emsp;&emsp;(v) demonstrates to the satisfaction of the Secretary that such agency's per-pupil revenue derived from local sources for currentexpenditures is not less than that revenue for the preceding fiscal year.
 
 #### (3) Maximum amount
 
@@ -178,13 +184,15 @@ For purposes of payments under this section for each fiscal year beginning with 
 
 &emsp;(2) the Secretary shall treat the Delaware Valley, Pennsylvania local educational agency as if it had filed a timely application under section 2 of Public Law 81–874 for fiscal year 1994.
 
-(Pub. L. 89–10, title VIII, §8002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3749; amended Pub. L. 104–195, §§1, 6, Sept. 16, 1996, 110 Stat. 2379, 2382; Pub. L. 105–18, title VI, §§60004, 60006, June 12, 1997, 111 Stat. 214, 215; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498; Pub. L. 105–277, div. A, §101(f) \[title III\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–365.)
+(Pub. L. 89–10, title VIII, §8002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3749; amended Pub. L. 104–195, §§1, 6, Sept. 16, 1996, 110 Stat. 2379, 2382; Pub. L. 105–18, title VI, §§60004, 60006, June 12, 1997, 111 Stat. 214, 215; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498; Pub. L. 105–277, div. A, §101(f) \[title III\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–365; Pub. L. 106–113, div. B, §1000(a)(4) \[title III\], Nov. 29, 1999, 113 Stat. 1535, 1501A–247.)
 
 #### References in Text
 
 Section 2 of the Act of September 30, 1950 and section 2 of Public Law 81–874, referred to in subsecs. (f)(1), (g)(2), (h)(1)(A), and (k)(2), means section 2 of act Sept. 30, 1950, ch. 1124, which was classified to section 237 of this title prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
 
 #### Amendments
+
+1999—Subsec. (f)(3) to (5). Pub. L. 106–113 added pars. (3) to (5).
 
 1998—Subsec. (f). Pub. L. 105–277 designated existing provisions as par. (1) and added par. (2).
 

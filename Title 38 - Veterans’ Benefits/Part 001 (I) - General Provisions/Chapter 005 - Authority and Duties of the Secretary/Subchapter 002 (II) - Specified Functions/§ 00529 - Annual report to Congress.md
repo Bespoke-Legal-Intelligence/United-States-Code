@@ -20,5 +20,5 @@ Prior sections 532 to 537 were renumbered sections 1532 to 1537 of this title, r
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 541, 542, 544, 545, 1718, 1754, 3121, 3733, 3736, 7101, 7726 of this title.
+This section is referred to in sections 541, 542, 544, 545, 1718, 1754, 3121, 3733, 3736, 7101, 7726, 7734 of this title.
 

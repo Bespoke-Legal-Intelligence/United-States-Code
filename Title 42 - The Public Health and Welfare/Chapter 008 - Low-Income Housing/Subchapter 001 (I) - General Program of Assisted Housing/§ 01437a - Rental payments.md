@@ -122,7 +122,7 @@ Occupancy by over-income families in certain public housing.—
 
 &emsp;(A)
 
-Authority.—Notwithstanding any other provision of law, a public housing agency that owns or operates less than 250 units may, on a month-to-month basis, lease a dwelling unit in a public housing project to an over-income family in accordance with this paragraph, but only if there are no eligible families applying for housing assistance from the public housing agency for that month and the agency provides not less than 30-day public notice of the availability of such assistance.
+Authority.—Notwithstanding any other provision of law, a public housing agency that owns or operates less than 250 units may, on a month-to-month basis, lease a dwelling unit in a public housing project to an over-incomefamily in accordance with this paragraph, but only if there are no eligible families applying for housing assistance from the public housing agency for that month and the agency provides not less than 30-day public notice of the availability of such assistance.
 
 &emsp;(B)
 
@@ -224,7 +224,7 @@ Child support payments.—Any payment made by a member of the family for the sup
 
 &emsp;&emsp;(vi)
 
-Spousal support expenses.—Any payment made by a member of the family forthe support and maintenance of any spouse or former spouse who does not reside in the household, except that the amount excluded under this clause shall not exceed the lesser of (I) the amount that such family member has a legal obligation to pay, or (II) $550 for each individual for whom such payment is made; except that this clause shall apply only to the extent approved in appropriations Acts.
+Spousal support expenses.—Any payment made by a member of the family for the support and maintenance of any spouse or former spouse who does not reside in the household, except that the amount excluded under this clause shall not exceed the lesser of (I) the amount that such family member has a legal obligation to pay, or (II) $550 for each individual for whom such payment is made; except that this clause shall apply only to the extent approved in appropriations Acts.
 
 &emsp;&emsp;(vii)
 
@@ -376,17 +376,19 @@ When used in reference to public housing:
 
 #### (1) Disclosure to PHA
 
-&emsp;A public housing agency shall require any family described in paragraph (2) who receivesinformation regarding income, earnings, wages, or unemployment compensation from the Department of Housing and Urban Development pursuant to income verification procedures of the Department to disclose such information, upon receipt of the information, to the public housing agency that owns or operates the public housing dwelling unit in which such family resides or that provides the housing assistance under this chapter on behalf of such family, as applicable.
+&emsp;A public housing agency, or the owner responsible for determining the participant's eligibility or level of benefits, shall require any family described in paragraph (2) who receives information regarding income, earnings, wages, or unemployment compensation from the Department of Housing and Urban Development pursuant to income verification procedures of the Department to disclose such information, upon receipt of the information, to the public housing agency that owns or operates the public housing dwelling unit in which such family resides or that provides the housing assistance under this chapter on behalf of such family, as applicable, or to the owner responsible for determining the participant's eligibility or level of benefits.
 
 #### (2) Families covered
 
 &emsp;A family described in this paragraph is a family that resides in a dwelling unit—
 
-&emsp;&emsp;(A) that is a public housing dwelling unit; or
+&emsp;&emsp;(A) that is a public housing dwelling unit;
 
-&emsp;&emsp;(B) for which tenant-based assistance is provided under section 1437f of this title.
+&emsp;&emsp;(B) for which tenant-based assistance is provided under section 1437f of this title,<sup>6</sup> or
 
-(Sept. 1, 1937, ch. 896, title I, §3, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 654; amended Pub. L. 94–375, §2(f), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–557, title II, §206(c), Oct. 31, 1978, 92 Stat. 2091; Pub. L. 96–153, title II, §202(a), Dec. 21, 1979, 93 Stat. 1106; Pub. L. 97–35, title III, §322(a), Aug. 13, 1981, 95 Stat. 400; Pub. L. 98–181, title II, §§202, 206(a)–(c), Nov. 30, 1983, 97 Stat. 1178, 1179; Pub. L. 98–479, title I, §102(b)(1)–(3), Oct. 17, 1984, 98 Stat. 2221; Pub. L. 100–242, title I, §§102(a), 111, 170(c), Feb. 5, 1988, 101 Stat. 1821, 1823, 1867; renumbered title I and amended Pub. L. 100–358, §§4, 5, June 29, 1988, 102 Stat. 680, 681; Pub. L. 101–235, title III, §302, Dec. 15, 1989, 103 Stat. 2043; Pub. L. 101–625, title V, §§515(b), 572, 573(a)–(d), 574, Nov. 28, 1990, 104 Stat. 4199, 4236–4238; Pub. L. 102–550, title I, §§102–103(a)(2), 185(c)(4), title VI, §§621, 622(c), 625(a)(1), Oct. 28, 1992, 106 Stat. 3683, 3748, 3812, 3817, 3820; Pub. L. 103–233, title III, §301, Apr. 11, 1994, 108 Stat. 369; Pub. L. 104–99, title IV, §402(b)(1), (c), Jan. 26, 1996, 110 Stat. 40, 41; Pub. L. 104–330, title V, §501(b)(1), Oct. 26, 1996, 110 Stat. 4041; Pub. L. 105–276, title V, §§506, 507(a), (c), 508(a), (b)(1), (c)(1), (d)(1), 520(a), 523, 524(a), 546, Oct. 21, 1998, 112 Stat. 2523–2529, 2562, 2565–2567, 2604.)
+&emsp;&emsp;(C) for which project-based assistance is provided under section 1437f of this title, section 1437bb <sup>7</sup> of this title, or section 811.<sup>7</sup>
+
+(Sept. 1, 1937, ch. 896, title I, §3, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 654; amended Pub. L. 94–375, §2(f), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–557, title II, §206(c), Oct. 31, 1978, 92 Stat. 2091; Pub. L. 96–153, title II, §202(a), Dec. 21, 1979, 93 Stat. 1106; Pub. L. 97–35, title III, §322(a), Aug. 13, 1981, 95 Stat. 400; Pub. L. 98–181, title II, §§202, 206(a)–(c), Nov. 30, 1983, 97 Stat. 1178, 1179; Pub. L. 98–479, title I, §102(b)(1)–(3), Oct. 17, 1984, 98 Stat. 2221; Pub. L. 100–242, title I, §§102(a), 111, 170(c), Feb. 5, 1988, 101 Stat. 1821, 1823, 1867; renumbered title I and amended Pub. L. 100–358, §§4, 5, June 29, 1988, 102 Stat. 680, 681; Pub. L. 101–235, title III, §302, Dec. 15, 1989, 103 Stat. 2043; Pub. L. 101–625, title V, §§515(b), 572, 573(a)–(d), 574, Nov. 28, 1990, 104 Stat. 4199, 4236–4238; Pub. L. 102–550, title I, §§102–103(a)(2), 185(c)(4), title VI, §§621, 622(c), 625(a)(1), Oct. 28, 1992, 106 Stat. 3683, 3748, 3812, 3817, 3820; Pub. L. 103–233, title III, §301, Apr. 11, 1994, 108 Stat. 369;Pub. L. 104–99, title IV, §402(b)(1), (c), Jan. 26, 1996, 110 Stat. 40, 41; Pub. L. 104–330, title V, §501(b)(1), Oct. 26, 1996, 110 Stat. 4041; Pub. L. 105–276, title V, §§506, 507(a), (c), 508(a), (b)(1), (c)(1), (d)(1), 520(a), 523, 524(a), 546, Oct. 21, 1998, 112 Stat. 2523–2529, 2562, 2565–2567, 2604; Pub. L. 106–74, title II, §214(a), Oct. 20, 1999, 113 Stat. 1074.)
 
 #### References in Text
 
@@ -406,6 +408,10 @@ Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, refer
 
 The Social Security Act, referred to in subsec. (d)(3)(B)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
+Section 1437bb of this title, referred to in subsec. (f)(2)(C), was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041.
+
+Section 811, referred to in subsec. (f)(2)(C), means section 811 of the United States Housing Act of 1937, but that Act does not contain a section 811.
+
 #### Prior Provisions
 
 A prior section 3 of act Sept. 1, 1937, ch. 896, 50 Stat. 889, as amended, established the United States Housing Authority and was classified to section 1403 of this title, prior to the general revision of this chapter by Pub. L. 93–383.
@@ -413,6 +419,10 @@ A prior section 3 of act Sept. 1, 1937, ch. 896, 50 Stat. 889, as amended, estab
 Prior similar provisions were contained in section 2 of act Sept. 1, 1937, ch. 896, 50 Stat. 888, which was classified to section 1402 of this title prior to the general revision of this chapter by Pub. L. 93–383.
 
 #### Amendments
+
+1999—Subsec. (f)(1). Pub. L. 106–74, §214(a)(1), inserted “, or the owner responsible for determining the participant's eligibility or level of benefits,” after “A public housing agency” and “, or to the owner responsible for determining the participant's eligibility or level of benefits” before period at end.
+
+Subsec. (f)(2)(C). Pub. L. 106–74, §214(a)(2), added subpar. (C).
 
 1998—Subsec. (a)(1). Pub. L. 105–276, §507(c), inserted “and subject to the requirement under paragraph (3)” after “paragraph (2)” in third sentence.
 
@@ -602,7 +612,7 @@ Pub. L. 105–276, title V, §507(d), Oct. 21, 1998, 112 Stat. 2526, provided th
 
 Pub. L. 105–276, title V, §508(c)(2), Oct. 21, 1998, 112 Stat. 2529, provided that: “The amendments made by this paragraph \[probably means this subsection, amending this section\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
-Pub. L. 105–276, title V, §524(b), Oct. 21, 1998, 112 Stat. 2568, provided that: “The amendment made by this paragraph \[probably means this section, amending this section\] is made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–276, title V, §524(b), Oct. 21, 1998, 112 Stat. 2568, provided that: “The amendment made by thisparagraph \[probably means this section, amending this section\] is made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
 #### Effective and Termination Dates of 1996 Amendments
 
@@ -664,7 +674,7 @@ In general.—The Secretary shall, by regulation, after notice and an opportunit
 
 Transition rule.—Prior to the issuance of final regulations under paragraph (1), a public housing agency may implement ceiling rents, which shall be not less than the monthly costs to operate the housing of the agency and—
 
-&emsp;“(i) determined in accordance with section 3(a)(2)(A) of the United States Housing Act of 1937, asthat section existed on the day before enactment of this Act \[Jan. 26, 1996\];
+&emsp;“(i) determined in accordance with section 3(a)(2)(A) of the United States Housing Act of 1937, as that section existed on the day before enactment of this Act \[Jan. 26, 1996\];
 
 &emsp;“(ii) equal to the 95th percentile of the rent paid for a unit of comparable size by tenants in the same public housing project or a group of comparable projects totaling 50 units or more; or
 
@@ -742,7 +752,7 @@ Qualified individuals.—For purposes of this subsection, the term ‘qualified 
 
 &emsp;&emsp;“(A) has received any payment because of the individual's status as a victim of Nazi persecution;
 
-&emsp;&emsp;“(B) at any time during the period beginning on February 1, 1993 and ending on April 30, 1993, resided in a dwelling unit in housing assisted under any program for housing assistance of the Departmentof Housing and Urban Development under which rent payments for the unit were determined based on or taking into consideration the income of the occupant of the unit;
+&emsp;&emsp;“(B) at any time during the period beginning on February 1, 1993 and ending on April 30, 1993, resided in a dwelling unit in housing assisted under any program for housing assistance of the Department of Housing and Urban Development under which rent payments for the unit were determined based on or taking into consideration the income of the occupant of the unit;
 
 &emsp;&emsp;“(C) paid rent for such dwelling unit for any portion of the period referred to in subparagraph (B) in an amount determined in a manner that did not disregard the payment referred to in subparagraph (A); and
 
@@ -796,7 +806,7 @@ Section 206(d) of Pub. L. 98–181 provided that:
 
 “(3) In the case of tenants receiving rental assistance under section 521(a)(1) of the Housing Act of 1949 \[section 1490a(a)(1) of this title\] on the effective date of this section \[Nov. 30, 1983\] whose assistance is converted to assistance under section 8 of the United States Housing Act of 1937 \[section 1437f of this title\] on or after such date, the Secretary shall provide that the rent or contribution payable by any such tenant shall not increase, as a result of such conversion, by more than 10 per centum during any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to such conversion or to any provision of Federal law or regulation.
 
-“(4)(A) Notwithstanding any other provision of law, in the case of the conversion of any assistance under section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C. 1701s\], section 236(f)(2) of the National Housing Act \[12 U.S.C. 1715z–1(f)(2)\], or section 23 of the United States Housing Act of 1937 \[section 1421b of this title\] (as in effect before the date of the enactment of the Housing and Community Development Act of 1974 \[Aug. 22, 1974\]) to assistance under section 8 of the United States Housing Act of 1937, any increase in rentpayments or contributions resulting from such conversion, and from the amendments made by this section of any tenant benefiting from such assistance who is sixty-two years of age or older may not exceed 10 per centum per annum.
+“(4)(A) Notwithstanding any other provision of law, in the case of the conversion of any assistance under section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C. 1701s\], section 236(f)(2) of the National Housing Act \[12 U.S.C. 1715z–1(f)(2)\], or section 23 of the United States Housing Act of 1937 \[section 1421b of this title\] (as in effect before the date of the enactment of the Housing and Community Development Act of 1974 \[Aug. 22, 1974\]) to assistance under section 8 of the United States Housing Act of 1937, any increase in rent payments or contributions resulting from such conversion, and from the amendments made by this section of any tenant benefiting from such assistance who is sixty-two years of age or older may not exceed 10 per centum per annum.
 
 “(B) In the case of any such conversion of assistance occurring on or after October 1, 1981, and before the date of the enactment of this section \[Nov. 30, 1983\], the rental payments due after such date of enactment by any tenant benefiting from such assistance who was sixty-two years of age or older on the date of such conversion shall be computed as if the tenant's rental payment or contribution had, on the date of conversion, been the lesser of the actual rental payment or contribution required, or 25 per centum of the tenant's income.
 
@@ -804,7 +814,7 @@ Section 206(d) of Pub. L. 98–181 provided that:
 
 “(6) As used in this subsection, the term ‘contribution’ means an amount representing 30 per centum of a tenant's monthly adjusted income, 10 per centum of the tenant's monthly income, or the designated amount of welfare assistance, whichever amount is used to determine the monthly assistance payment for the tenant under section 3(a) of the United States Housing Act of 1937 \[subsec. (a) of this section\].
 
-“(7) The provisions of subsections (a) through (h) of section 322 of the Housing and Community Development Amendments of 1981 shall be implemented and fully applicable to all affected tenants no later than five years following the date of enactment of such amendments \[Aug. 13, 1981\], except that the Secretary may extend the time for implementation if the Secretary determines that full implementation would result in extraordinary hardship for any class of tenants.”
+“(7) The provisions of subsections (a) through (h) of section 322 of the Housing and Community Development Amendments of 1981 shall be implemented andfully applicable to all affected tenants no later than five years following the date of enactment of such amendments \[Aug. 13, 1981\], except that the Secretary may extend the time for implementation if the Secretary determines that full implementation would result in extraordinary hardship for any class of tenants.”
 
 Prior provisions for determining rent payable by tenants occupying assisted housing under and authorizing delayed application or staged implementation of provisions amended by section 322 of Pub. L. 97–35 were contained in Pub. L. 97–35, title III, §322(i), Aug. 13, 1981, 95 Stat. 404, which was repealed by Pub. L. 98–181, title II, §206(e), Nov. 30, 1983, 97 Stat. 1181.
 
@@ -814,7 +824,7 @@ Section 202 of Pub. L. 93–383 provided that: “To the extent that section 3(1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254b, 503, 1436a, 1437f, 1437j, 1437r, 1437s, 1437z–3, 1437z–7, 1437aaa–3, 1437bbb–4, 1471, 1486, 3544, 4851b, 5305, 8011, 8012, 8013, 11386, 11395, 11403e–2, 11403g, 12704, 12876, 12896, 12899d, 12899f, 12910, 13617, 13641, 13661, 13664 of this title; title 12 sections 1441a, 1701q, 1701u, 1701z–11, 1715z–1a, 1715z–1c, 1715z–9, 1715z–15, 1831q, 4119, 4125; title 20 section 1070a–22.
+This section is referred to in sections 254b, 503, 1436a, 1437f, 1437j, 1437r, 1437s, 1437z–3, 1437z–7, 1437aaa–3, 1437bbb–4, 1471, 1486, 3544, 4851b, 5305, 8011, 8012, 8013, 9907, 11386, 11395, 11403e–2, 11403g, 12704, 12876, 12896, 12899d, 12899f, 12910, 13617, 13641, 13661, 13664 of this title; title 12 sections 1441a, 1701q, 1701u, 1701z–11, 1715z–1a, 1715z–1c, 1715z–9, 1715z–15, 1831q, 4119, 4125; title 20 section 1070a–22.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
@@ -825,4 +835,8 @@ This section is referred to in sections 254b, 503, 1436a, 1437f, 1437j, 1437r, 1
 <i><sup>4</sup></i><i> So in original. Probably should be “assistance under”.</i>
 
 <i><sup>5</sup></i><i> So in original. Probably should be paragraph “(3)(A)(ii)”.</i>
+
+<i><sup>6</sup></i><i> So in original. The comma probably should be a semicolon.</i>
+
+<i><sup>7</sup></i><i> See References in Text notes below.</i>
 

@@ -98,7 +98,7 @@ Subsec. (d) of this section not to prevent award of fees and expenses under sect
 
 #### Applicability to Attorneys Fees
 
-Section 403 of Pub. L. 100–687 provided that: “The amendment to section 3404(c) \[now 5904(c)\] of title 38, United States Code, made by section 104(a) shall apply only with respect to services of agents and attorneys in cases in which a notice of disagreement is filed with the Veterans’ Administration \[now Department of Veterans Affairs\] on or after the date of the enactment of this division \[Nov. 18, 1988\].”
+Section 403 of Pub. L. 100–687 provided that: “The amendment to section 3404(c) \[now 5904(c)\] of title 38, United States Code, made by section 104(a) shall apply only with respect to services of agents and attorneys in cases in which a notice of disagreement is filed withthe Veterans’ Administration \[now Department of Veterans Affairs\] on or after the date of the enactment of this division \[Nov. 18, 1988\].”
 
 #### Section Referred to in Other Sections
 

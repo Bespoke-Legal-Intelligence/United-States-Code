@@ -18,7 +18,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;(7) provides that the State agency will monitor and conduct periodic evaluations of activities carried out under this part;
 
-&emsp;(8) provides safeguards which restrict the use of or disclosure of information concerning individuals assisted under the State plan to purposes directly connected with (A) the administration of the plan of the State approved under this part, the plan or program of the State under part A, B, or D of this subchapter (including activities under part F <sup>1</sup> of this subchapter) or under subchapter I, V, X, XIV, XVI (as in effect in Puerto Rico, Guam, and the Virgin Islands), XIX, or XX of this chapter, or the supplemental security income program established by subchapter XVI of this chapter,\(B) any investigation, prosecution, or criminal or civil proceeding, conducted in connection with the administration of any such plan or program, (C) the administration of any other Federal or federally assisted program which provides assistance, in cash or in kind, or services, directly to individuals on the basis of need, (D) any audit or similar activity conducted in connection with the administration of any such plan or program by any governmental agency which is authorized by law to conduct such audit or activity, and (E) reporting and providing information pursuant to paragraph (9) to appropriate authorities with respect to known or suspected child abuse or neglect; and the safeguards so provided shall prohibit disclosure, to any committee or legislative body (other than an agency referred to in clause (D) with respect to an activity referred to in such clause), of any information which identifies by name or address any such applicant or recipient; except that nothing contained herein shall preclude a State from providing standards which restrict disclosures to purposes more limited than those specified herein, or which, in the case of adoptions, prevent disclosure entirely;
+&emsp;(8) provides safeguards which restrict the use of or disclosure of information concerning individuals assisted under the State plan to purposes directly connected with (A) the administration of the plan of the State approved under this part, the plan or program of the State under part A, B, or D of this subchapter or under subchapter I, V, X, XIV, XVI (as in effect in Puerto Rico, Guam, and the Virgin Islands), XIX, or XX of this chapter, or the supplemental security income program established by subchapter XVI of this chapter, (B) any investigation, prosecution, or criminal or civil proceeding, conducted in connection with the administration of any such plan or program, (C) the administration of any other Federal or federally assisted program which provides assistance, in cash or in kind, or services, directly to individuals on the basis of need, (D) any audit or similar activity conducted in connection with the administration of any such plan or program by any governmental agency which is authorized by law to conduct such audit or activity, and (E) reporting and providing information pursuant to paragraph (9) to appropriate authorities with respect to known or suspected child abuse or neglect; and the safeguards so provided shall prohibit disclosure, to any committee or legislative body (other than an agency referred to in clause (D) with respect to an activity referred to in such clause), of any information which identifies by name or address any such applicant or recipient; except that nothing contained herein shall preclude a State from providing standards which restrict disclosures to purposes more limited than those specified herein, or which, in the case of adoptions, prevent disclosure entirely;
 
 &emsp;(9) provides that the State agency will—
 
@@ -26,7 +26,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;&emsp;(B) provide such information with respect to a situation described in subparagraph (A) as the State agency may have;
 
-&emsp;(10) provides for the establishment or designation of a State authority or authorities which shall be responsible for establishing and maintaining standards for foster family homes and child care institutions which are reasonably in accord with recommended standards of national organizations concerned with standards for such institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights, and provides that the standards so established shall be applied by the State to any foster family home or child care institution receiving funds under this part or part B of this subchapter;
+&emsp;(10) provides for the establishment or designation of a State authority or authorities which shall be responsible for establishing and maintaining standards for foster family homes and child care institutions which are reasonably in accord with recommended standards ofnational organizations concerned with standards for such institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights, and provides that the standards so established shall be applied by the State to any foster family home or child care institution receiving funds under this part or part B of this subchapter;
 
 &emsp;(11) provides for periodic review of the standards referred to in the preceding paragraph and amounts paid as foster care maintenance payments and adoption assistance to assure their continuing appropriateness;
 
@@ -78,7 +78,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;(18) not later than January 1, 1997, provides that neither the State nor any other entity in the State that receives funds from the Federal Government and is involved in adoption or foster care placements may—
 
-&emsp;&emsp;(A) deny to any person the opportunity to become an adoptive or a foster parent, on the basis of the race, color, or national origin of the person, or of the child, involved; or
+&emsp;&emsp;(A) deny to any person the opportunity to become an adoptive or a foster parent, onthe basis of the race, color, or national origin of the person, or of the child, involved; or
 
 &emsp;&emsp;(B) delay or deny the placement of a child for adoption or into foster care, on the basis of the race, color, or national origin of the adoptive or foster parent, or the child, involved;
 
@@ -102,27 +102,31 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;&emsp;(D) in determining cost-sharing requirements, the State shall take into consideration the circumstances of the adopting parent or parents and the needs of the child being adopted consistent, to the extent coverage is provided through a State medical assistance program, with the rules under such program;
 
-&emsp;(22) provides that, not later than January 1, 1999, the State shall develop and implement standards to ensure that children in foster care placements in public or private agencies are provided quality services that protect the safety and health of the children; and
+&emsp;(22) provides that, not later than January 1, 1999, the State shall develop and implement standards to ensure that children in foster care placements in public or private agencies are provided quality services that protect the safety and health of the children;
 
 &emsp;(23) provides that the State shall not—
 
 &emsp;&emsp;(A) deny or delay the placement of a child for adoption when an approved family is available outside of the jurisdiction with responsibility for handling the case of the child; or
 
-&emsp;&emsp;(B) fail to grant an opportunity for a fair hearing, as described in paragraph (12), to an individual whose allegation of a violation of subparagraph (A) of this paragraph is denied by the State or not acted upon by the State with reasonable promptness.
+&emsp;&emsp;(B) fail to grant an opportunity for a fair hearing, as described in paragraph (12), to an individual whose allegation of a violation of subparagraph (A) of this paragraph is denied by the State or not acted upon by the State with reasonable promptness; and
+
+&emsp;(24) include <sup>1</sup> a certification that, before a child in foster care under the responsibility of the State is placed with prospective foster parents, the prospective foster parents will be prepared adequately with the appropriate knowledge and skills to provide for the needs of the child, and that such preparation will be continued, as necessary, after the placement of the child.
 
 #### (b) Approval of plan by Secretary
 
 The Secretary shall approve any plan which complies with the provisions of subsection (a) of this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §471, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 501; amended Pub. L. 97–35, title XXIII, §2353(r), Aug. 13, 1981, 95 Stat. 874; Pub. L. 97–248, title I, §160(d), Sept. 3, 1982, 96 Stat. 400; Pub. L. 98–378, §11(c), Aug. 16, 1984, 98 Stat. 1318; Pub. L. 99–514, title XVII, §1711(c)(2), Oct. 22, 1986, 100 Stat. 2784; Pub. L. 100–485, title II, §202(c)(1), Oct. 13, 1988, 102 Stat. 2378; Pub. L. 101–508, title V, §5054(b), Nov. 5, 1990, 104 Stat. 1388–229; Pub. L. 103–66, title XIII, §13711(b)(4), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–432, title II, §203(b), Oct. 31, 1994, 108 Stat. 4456; Pub. L. 104–188, title I, §1808(a), Aug. 20, 1996, 110 Stat. 1903; Pub. L. 104–193, title I, §108(d)(2), title V, §505, Aug. 22, 1996, 110 Stat. 2166, 2278; Pub. L. 105–33, title V, §5591(b), Aug. 5, 1997, 111 Stat. 643; Pub. L. 105–89, title I, §§101(a), 106, title III, §§306, 308, Nov. 19, 1997, 111 Stat. 2116, 2120, 2132, 2133; Pub. L. 105–200, title III, §301(a), July 16, 1998, 112 Stat. 658.)
+(Aug. 14, 1935, ch. 531, title IV, §471, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 501; amended Pub. L. 97–35, title XXIII, §2353(r), Aug. 13, 1981, 95 Stat. 874; Pub. L. 97–248, title I, §160(d), Sept. 3, 1982, 96 Stat. 400; Pub. L. 98–378, §11(c), Aug. 16, 1984, 98 Stat. 1318; Pub. L. 99–514, title XVII, §1711(c)(2), Oct. 22, 1986, 100 Stat. 2784; Pub. L. 100–485, title II, §202(c)(1), Oct. 13, 1988, 102 Stat. 2378; Pub. L. 101–508, title V, §5054(b), Nov. 5, 1990, 104 Stat. 1388–229; Pub. L. 103–66, title XIII, §13711(b)(4), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–432, title II, §203(b), Oct. 31, 1994, 108 Stat. 4456; Pub. L. 104–188, title I, §1808(a), Aug. 20, 1996, 110 Stat. 1903; Pub. L.104–193, title I, §108(d)(2), title V, §505, Aug. 22, 1996, 110 Stat. 2166, 2278; Pub. L. 105–33, title V, §5591(b), Aug. 5, 1997, 111 Stat. 643; Pub. L. 105–89, title I, §§101(a), 106, title III, §§306, 308, Nov. 19, 1997, 111 Stat. 2116, 2120, 2132, 2133; Pub. L. 105–200, title III, §301(a), July 16, 1998, 112 Stat. 658; Pub. L. 106–169, title I, §112(a), title IV, §401(<i>o</i>), Dec. 14, 1999, 113 Stat. 1829, 1859.)
 
 #### References in Text
 
 Parts A, B, and D of this subchapter, referred to in subsec. (a)(2), (4), (8)–(10), (13), and (17), are classified to sections 601 et seq., 620 et seq., and 651 et seq., respectively, of this title.
 
-Part F of this subchapter, referred to in subsec. (a)(8), was classified to section 681 et seq. of this title, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
-
 #### Amendments
+
+1999—Subsec. (a)(8). Pub. L. 106–169, §401(<i>o</i>), struck out “(including activities under part F of this subchapter)” after “part A, B, or D of this subchapter”.
+
+Subsec. (a)(24). Pub. L. 106–169, §112(a), added par. (24).
 
 1998—Subsec. (a)(23). Pub. L. 105–200 added par. (23).
 
@@ -166,13 +170,19 @@ Subsec. (a)(9). Pub. L. 101–508, §5054(b)(1), amended par. (9) generally. Pri
 
 1981—Subsec. (a)(10). Pub. L. 97–35, §2353(r), as amended by Pub. L. 97–248, §160(d), substituted provisions that in order for a State to be eligible for payments under this part a State plan must provide for establishment or designation of a State authority or authorities responsible for standards for foster family homes and child care institutions, such standards to be reasonably in accord with recommended standards of national organizations concerned with standards for such institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights, for provisions that such State plan provide for the application of standards referred to in section 1397b(d)(1) of this title.
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–169, title I, §112(b), Dec. 14, 1999, 113 Stat. 1829, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1999.”
+
+Amendment by section 401(<i>o</i>) of Pub. L. 106–169 effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 401(q) of Pub. L. 106–169, set out as a note under section 602 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–200, title III, §301(d), July 16, 1998, 112 Stat. 658, provided that: “The amendments made by this section \[amending this section and section 674 of this title\] shall take effect as if included in the enactment of section 202 of the Adoption and Safe Families Act of 1997 (Public Law 105–89; 111 Stat. 2125) \[see Effective Date of 1997 Amendments note below\].”
 
 #### Effective Date of 1997 Amendments
 
-Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted ifState legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
+Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
 
 Amendment by Pub. L. 105–33 effective as if included in the enactment of title V of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5593 of Pub. L. 105–33, set out as a note under section 622 of this title.
 
@@ -236,7 +246,7 @@ Section 401 of Pub. L. 105–89 provided that: “Nothing in this Act \[see Shor
 
 #### Reporting Requirements
 
-Section 402 of Pub. L. 105–89 provided that: “Any information required to be reported under this Act \[see Short Title of 1997 Amendment note set out under section 1305 of this title\] shall be supplied to the Secretary of Health and Human Services through data meeting the requirements of the Adoption and Foster Care Analysis and Reporting System established pursuant to section 479 of the Social Security Act (42 U.S.C. 679), to the extent such data is available under that system. The Secretary shall make such modifications to regulations issued under section 479 of such Act with respect to the Adoption and Foster Care Analysis and Reporting System as may be necessary to allow States to obtain data that meets the requirements of such systemin order to satisfy the reporting requirements of this Act.”
+Section 402 of Pub. L. 105–89 provided that: “Any information required to be reported under this Act \[see Short Title of 1997 Amendment note set out under section 1305 of this title\] shall be supplied to the Secretary of Health and Human Services through data meeting the requirements of the Adoption and Foster Care Analysis and Reporting System established pursuant to section 479 of the Social Security Act (42 U.S.C. 679), to the extent such data is available under that system. The Secretary shall make such modifications to regulations issued under section 479 of such Act with respect to the Adoption and Foster Care Analysis and Reporting System as may be necessary to allow States to obtain data that meets the requirements of such system in order to satisfy the reporting requirements of this Act.”
 
 #### Purchase of American-Made Equipment and Products
 
@@ -252,7 +262,7 @@ Notice Requirement.—In providing financial assistance to, or entering into any
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 652, 658, 664, 666, 672, 674, 675, 677, 678, 1320a–2, 1320a–10 of this title; title 26 section 6402.
+This section is referred to in sections 652, 658, 664, 666, 672, 674, 675, 678, 1320a–2, 1320a–10 of this title; title 26 section 6402.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “includes”.</i>
 

@@ -54,7 +54,7 @@ Subsec. (b)(1). Pub. L. 104–132, §205(e)(2)(A), reenacted heading without cha
 
 &emsp;“(B) the United States Attorney enforce the restitution order by all available and reasonable means.”
 
-Subsec. (b)(2). Pub. L. 104–132, §205(e)(2)(B), struck out “by victim” after “Enforcement” in heading and amended text generally. Prior to amendment, text read as follows: “An order of restitution may be enforced by a victim named in the order to receive the restitution as well as by the United States Attorney, in the same manner as a judgment in a civil action.”
+Subsec. (b)(2). Pub. L. 104–132, §205(e)(2)(B), struck out “by victim” after “Enforcement” in heading andamended text generally. Prior to amendment, text read as follows: “An order of restitution may be enforced by a victim named in the order to receive the restitution as well as by the United States Attorney, in the same manner as a judgment in a civil action.”
 
 Subsec. (b)(4)(C), (D). Pub. L. 104–132, §205(e)(2)(C), struck out subpars. (C) and (D), which related to court's consideration of economic circumstances of defendant in determining schedule of payment of restitution orders, and court's entry of nominal restitution awards where economic circumstances of defendant do not allow for payment of restitution, respectively.
 

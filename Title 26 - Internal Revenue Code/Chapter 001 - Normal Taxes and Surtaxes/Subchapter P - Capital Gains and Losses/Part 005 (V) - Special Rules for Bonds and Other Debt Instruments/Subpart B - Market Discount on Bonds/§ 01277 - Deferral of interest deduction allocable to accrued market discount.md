@@ -34,7 +34,7 @@ Except as otherwise provided in this section, the net direct interest expense wi
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this paragraph, the amount of the disallowed interestexpense with respect to any market discount bond shall be treated as interest paid or accrued by the taxpayer in the taxable year in which such bond is disposed of.
+&emsp;&emsp;Except as otherwise provided in this paragraph, the amount of the disallowed interest expense with respect to any market discount bond shall be treated as interest paid or accrued by the taxpayer in the taxable year in which such bond is disposed of.
 
 #### (B) Nonrecognition transactions
 

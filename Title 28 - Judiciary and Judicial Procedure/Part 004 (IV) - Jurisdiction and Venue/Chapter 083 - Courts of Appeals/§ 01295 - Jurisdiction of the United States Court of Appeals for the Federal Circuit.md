@@ -10,11 +10,11 @@
 
 &emsp;(4) of an appeal from a decision of—
 
-&emsp;&emsp;(A) the Board of Patent Appeals and Interferences of the Patent and Trademark Office with respect to patent applications and interferences, at the instance of an applicant for a patent or any party to a patent interference, and any such appeal shall waive the right of such applicant or party to proceed under section 145 or 146 of title 35;
+&emsp;&emsp;(A) the Board of Patent Appeals and Interferences of the United States Patent and Trademark Office with respect to patent applications and interferences, at the instance of an applicant for a patent or any party to a patent interference, and any such appeal shall waive the right of such applicant or party to proceed under section 145 or 146 of title 35;
 
-&emsp;&emsp;(B) the Commissioner of Patents and Trademarks or the Trademark Trial and Appeal Board with respect to applications for registration of marks and other proceedings as provided in section 21 of the Trademark Act of 1946 (15 U.S.C. 1071); or
+&emsp;&emsp;(B) the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office or the Trademark Trial and Appeal Board with respect to applications for registration of marks and other proceedings as provided in section 21 of the Trademark Act of 1946 (15 U.S.C. 1071); or
 
-&emsp;&emsp;(C) a district court to which a case was directed pursuant to section 145 or 146 of title 35;
+&emsp;&emsp;(C) a district court to which a case was directed pursuant to section 145, 146, or 154(b) of title 35;
 
 &emsp;(5) of an appeal from a final decision of the United States Court of International Trade;
 
@@ -40,13 +40,13 @@
 
 (c) The Court of Appeals for the Federal Circuit shall review the matter referred in accordance with the standards specified in section 10(b) of the Contract Disputes Act of 1978. The court shall proceed with judicial review on the administrative record made before the board of contract appeals on matters so referred as in other cases pending in such court, shall determine the issue of finality of the appeal decision, and shall, if appropriate, render judgment thereon, or remand the matter to any administrative or executive body or official with such direction as it may deem proper and just.
 
-(Added Pub. L. 97–164, title I, §127(a), Apr. 2, 1982, 96 Stat. 37; amended Pub. L. 98–622, title II, §205(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 100–418, title I, §1214(a)(3), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 100–702, title X, §1020(a)(3), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 102–572, title I, §102(c), title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4507, 4516.)
+(Added Pub. L. 97–164, title I, §127(a), Apr. 2, 1982, 96 Stat. 37; amended Pub. L. 98–622, title II, §205(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 100–418, title I, §1214(a)(3), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 100–702, title X, §1020(a)(3), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 102–572, title I, §102(c), title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4507, 4516; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(b)(2), 4732(b)(14)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–584.)
 
 #### References in Text
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(7), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
-Section 211 of the Economic Stabilization Act of 1970, referred to in subsec. (a)(11), is section 211 of Pub. L. 91–379, title II, as amended, formerly set out as an Economic Stabilization Program note under section 1904 of Title 12, Banks and Banking.
+Section 211 of the Economic Stabilization Act of 1970, referred to in subsec. (a)(11), is section 211 of Pub. L.91–379, title II, as amended, formerly set out as an Economic Stabilization Program note under section 1904 of Title 12, Banks and Banking.
 
 Section 5 of the Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(12), is section 5 of Pub. L. 93–159, as amended, which was classified to section 754 of Title 15, Commerce and Trade, and was omitted from the Code.
 
@@ -55,6 +55,12 @@ Section 506(c) of the Natural Gas Policy Act of 1978, referred to in subsec. (a)
 Section 523 of the Energy Policy and Conservation Act, referred to in subsec. (a)(14), is classified to section 6393 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+1999—Subsec. (a)(4)(A). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(14)(A)\], inserted “United States” before “Patent and Trademark”.
+
+Subsec. (a)(4)(B). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(14)(B)\], substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents and Trademarks”.
+
+Subsec. (a)(4)(C). Pub. L. 106–113, §1000(a)(9) \[title IV, §4402(b)(2)\], substituted “145, 146, or 154(b)” for “145 or 146”.
 
 1992—Subsec. (a)(3). Pub. L. 102–572, §902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
@@ -65,6 +71,12 @@ Subsec. (a)(11) to (14). Pub. L. 102–572, §102(c), added pars. (11) to (14).
 Subsec. (a)(7). Pub. L. 100–418 substituted “U.S. note 6 to subchapter X of chapter 98 of the Harmonized Tariff Schedule of the United States” for “headnote 6 to schedule 8, part 4, of the Tariff Schedules of the United States”.
 
 1984—Subsec. (a)(4)(A). Pub. L. 98–622 substituted “Patent Appeals and” for “Appeals or the Board of Patent”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by section 1000(a)(9) \[title IV, §4402(b)(2)\] of Pub. L. 106–113 effective on date that is 6 months after Nov. 29, 1999, and, except for design patent application filed under chapter 16 of Title 35, applicable to any application filed on or after such date, see section 1000(a)(9) \[title IV, §4405(a)\] of Pub. L. 106–113, set out as a note under section 154 of Title 35, Patents.
+
+Amendment by section 1000(a)(9) \[title IV, §4732(b)(14)\] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1992 Amendment
 
@@ -80,7 +92,7 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 Amendment by Pub. L. 98–622 applicable to all United States patents granted before, on, or after Nov. 8, 1984, and to all applications for United States patents pending on or filed after that date, except as otherwise provided, see section 106 of Pub. L. 98–622, set out as a note under section 103 of Title 35, Patents.
 
-Amendment by Pub. L. 98–622 effective three months after Nov. 8, 1984, see section 207 of Pub. L. 98–622, set out as a note under section 7 of Title 35.
+Amendment by Pub. L. 98–622 effective three months after Nov. 8, 1984, see section 207 of Pub. L. 98–622, set out as a note under section 41 of Title 35.
 
 #### Effective Date
 

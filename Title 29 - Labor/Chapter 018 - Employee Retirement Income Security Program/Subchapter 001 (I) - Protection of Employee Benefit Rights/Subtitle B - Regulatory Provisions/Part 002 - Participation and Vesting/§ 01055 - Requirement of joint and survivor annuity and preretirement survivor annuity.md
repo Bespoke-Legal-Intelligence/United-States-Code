@@ -230,9 +230,9 @@ For purposes of this section—
 
 &emsp;&emsp;(ii) in the case of a benefit not payable in the form of an annuity, the first day on which all events have occurred which entitle the participant to such benefit.
 
-&emsp;(B) For purposes of subparagraph (A), the first day of the first period for which a benefit is to be received by reason of disability shall be treated as the annuity starting date only if such benefit is not an auxiliary benefit.
+&emsp;(B) For purposes of subparagraph (A), the first day of the first period for which a benefitis to be received by reason of disability shall be treated as the annuity starting date only if such benefit is not an auxiliary benefit.
 
-&emsp;(3) The term “earliest retirement age” means the earliest date on which, under theplan, the participant could elect to receive retirement benefits.
+&emsp;(3) The term “earliest retirement age” means the earliest date on which, under the plan, the participant could elect to receive retirement benefits.
 
 #### (i) Increased costs from providing annuity
 
@@ -312,9 +312,9 @@ Pub. L. 99–514, §1145(b), added par. (3) relating to applicability of this se
 
 Subsec. (c)(1)(B). Pub. L. 99–514, §1898(b)(4)(B)(i), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
 
-Subsec. (c)(2)(A). Pub. L. 99–514, §1898(b)(6)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the spouse of the participant consents in writing to such election, and the spouse's consent acknowledges the effect of such election and is witnessed by a plan representative or a notary public, or”.
+Subsec. (c)(2)(A). Pub. L. 99–514, §1898(b)(6)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the spouse of the participant consents in writing to such election, and the spouse's consent acknowledges the effect of such election and iswitnessed by a plan representative or a notary public, or”.
 
-Subsec. (c)(3)(B). Pub. L. 99–514, §1898(b)(5)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Each plan shall provide to each participant, within the period beginning with the firstday of the plan year in which the participant attains age 32 and ending with the close of the plan year preceding the plan year in which the participant attains age 35 (and consistent with such regulations as the Secretary of the Treasury may prescribe), a written explanation with respect to the qualified preretirement survivor annuity comparable to that required under subparagraph (A).”
+Subsec. (c)(3)(B). Pub. L. 99–514, §1898(b)(5)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Each plan shall provide to each participant, within the period beginning with the first day of the plan year in which the participant attains age 32 and ending with the close of the plan year preceding the plan year in which the participant attains age 35 (and consistent with such regulations as the Secretary of the Treasury may prescribe), a written explanation with respect to the qualified preretirement survivor annuity comparable to that required under subparagraph (A).”
 
 Subsec. (c)(4). Pub. L. 99–514, §1898(b)(4)(B)(ii), added par. (4). Former par. (4) redesignated (5).
 
@@ -388,7 +388,7 @@ Section 7894(c)(7)(B) of Pub. L. 101–239 provided that: “The amendment made 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1139(c)(2) of Pub. L. 99–514 applicable to distributions in plan years beginning after Dec. 31, 1984, except that such amendments shall not apply to any distributions in plan years beginning after Dec. 31, 1984, and before Jan. 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement Equity Act of 1984, Pub. L. 98–397, with additional provisionsrelating to reductions in accrued benefits, see section 1139(d) of Pub. L. 99–514, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by section 1139(c)(2) of Pub. L. 99–514 applicable to distributions in plan years beginning afterDec. 31, 1984, except that such amendments shall not apply to any distributions in plan years beginning after Dec. 31, 1984, and before Jan. 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement Equity Act of 1984, Pub. L. 98–397, with additional provisions relating to reductions in accrued benefits, see section 1139(d) of Pub. L. 99–514, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 Amendment by section 1145(b) of Pub. L. 99–514 applicable as if included in the amendments made by the Retirement Equity Act of 1984, Pub. L. 98–397, see section 1145(d) of Pub. L. 99–514, set out as a note under section 401 of Title 26.
 

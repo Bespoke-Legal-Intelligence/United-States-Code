@@ -16,7 +16,7 @@ Upon application of the Commission, the district courts of the United States and
 
 #### (1) Authority of Commission
 
-&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this subchapter, the rules or regulations thereunder, or a cease-and-desist order entered by the Commission pursuant to section 77h–1 of this title, other than by committing a violation subject to a penalty pursuant to section 78u–1 of this title, the Commission may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, upon a proper showing, a civil penaltyto be paid by the person who committed such violation.
+&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this subchapter, the rules or regulations thereunder, or a cease-and-desist order entered by the Commission pursuant to section 77h–1 of this title, other than by committing a violation subject to a penalty pursuant to section 78u–1 of this title, the Commission may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, upon a proper showing, a civil penalty to be paid by the person who committed such violation.
 
 #### (2) Amount of penalty
 
@@ -56,7 +56,7 @@ Upon application of the Commission, the district courts of the United States and
 
 #### (4) Special provisions relating to a violation of a cease-and-desist order
 
-&emsp;In an action to enforce a cease-and-desist order entered by the Commission pursuant to section 77h–1 of this title, each separate violation of such order shall be a separate offense, except that in the case of a violation through a continuing failure to comply with such an order, each day of the failure to comply with the order shall be deemed a separate offense.
+&emsp;In an action to enforce a cease-and-desist order entered by the Commission pursuant tosection 77h–1 of this title, each separate violation of such order shall be a separate offense, except that in the case of a violation through a continuing failure to comply with such an order, each day of the failure to comply with the order shall be deemed a separate offense.
 
 #### (e) Authority of court to prohibit persons from serving as officers and directors
 
@@ -92,7 +92,7 @@ Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any im
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Federal Rules of Civil Procedure
 

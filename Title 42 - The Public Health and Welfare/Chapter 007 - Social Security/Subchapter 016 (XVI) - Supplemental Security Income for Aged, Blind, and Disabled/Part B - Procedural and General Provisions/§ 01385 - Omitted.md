@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, act Aug. 14, 1935, ch. 531, title XVI, §1605, as added July 25, 1962, Pub. L. 87–543, title I, §141(a), 76 Stat. 204; amended July 30, 1965, Pub. L. 89–97, title II, §§221(d)(1), (2), 222(b), title IV, §402(b), 79 Stat. 358, 360, 416, defined “aid to the aged, blind, or disabled” and“medical assistance for the aged”, prior to the general revision of this subchapter by Pub. L. 92–603, Oct. 30, 1972, 86 Stat. 1465, eff. Jan. 1, 1974.
+Section, act Aug. 14, 1935, ch. 531, title XVI, §1605, as added July 25, 1962, Pub. L. 87–543, title I, §141(a), 76 Stat. 204; amended July 30, 1965, Pub. L. 89–97, title II, §§221(d)(1), (2), 222(b), title IV, §402(b), 79 Stat. 358, 360, 416, defined “aid to the aged, blind, or disabled” and “medical assistance for the aged”, prior to the general revision of this subchapter by Pub. L. 92–603, Oct. 30, 1972, 86 Stat. 1465, eff. Jan. 1, 1974.
 
 #### Puerto Rico, Guam, and Virgin Islands
 
@@ -16,7 +16,7 @@ Enactment of subchapter XVI of the Social Security Act \[this subchapter\] by se
 
 &emsp;(2) any such payments to or care in behalf of any individual who has not attained 65 years of age and who is a patient in an institution for tuberculosis or mental diseases.
 
-> Such term also includes payments which are not included within the meaning of such term under the preceding sentence, but which would be so included except that they are made on behalf of such a needy individual to another individual who (as determined in accordance with standards prescribed by the Commissioner of Social Security) is interested in or concerned with the welfare of such needy individual, but only with respect to a State whose State plan approved under section 1382 of this title includes provision for—
+> Such term also includes payments which are not included within the meaning of such term under the preceding sentence, but which would be so included exceptthat they are made on behalf of such a needy individual to another individual who (as determined in accordance with standards prescribed by the Commissioner of Social Security) is interested in or concerned with the welfare of such needy individual, but only with respect to a State whose State plan approved under section 1382 of this title includes provision for—
 
 &emsp;(A) determination by the State agency that such needy individual has, by reason of his physical or mental condition, such inability to manage funds that making payments to him would be contrary to his welfare and, therefore, it is necessary to provide such aid through payments described in this sentence;
 

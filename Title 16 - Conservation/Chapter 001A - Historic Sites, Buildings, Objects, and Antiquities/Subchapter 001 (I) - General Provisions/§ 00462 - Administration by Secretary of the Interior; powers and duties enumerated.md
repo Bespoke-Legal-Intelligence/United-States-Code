@@ -8,7 +8,7 @@ The Secretary of the Interior (hereinafter in sections 461 to 467 of this title 
 
 (c) Make necessary investigations and researches in the United States relating to particular sites, buildings, or objects to obtain true and accurate historical and archaeological facts and information concerning the same.
 
-(d) For the purpose of sections 461 to 467 of this title, acquire in the name of the United States by gift, purchase, or otherwise any property, personal or real, or any interest or estate therein, title to any real property to be satisfactory to the Secretary: <i>Provided</i>, That no such property which is owned by any religious or educational institution, or which is owned or administered for the benefit of the public shall beso acquired without the consent of the owner: <i>Provided further</i>, That no such property shall be acquired or contract or agreement for the acquisition thereof made which will obligate the general fund of the Treasury for the payment of such property, unless or until Congress has appropriated money which is available for that purpose.
+(d) For the purpose of sections 461 to 467 of this title, acquire in the name of the United States by gift, purchase, or otherwise any property, personal or real, or any interest or estate therein, title to any real property to be satisfactory to the Secretary: <i>Provided</i>, That no such property which is owned by any religious or educational institution, or which is owned or administered for the benefit of the public shall be so acquired without the consent of the owner: <i>Provided further</i>, That no such property shall be acquired or contract or agreement for the acquisition thereof made which will obligate the general fund of the Treasury for the payment of such property, unless or until Congress has appropriated money which is available for that purpose.
 
 (e) Contract and make cooperative agreements with States, municipal subdivisions, corporations, associations, or individuals, with proper bond where deemed advisable, to protect, preserve, maintain, or operate any historic or archaeologic building, site, object, or property used in connection therewith for public use, regardless as to whether the title thereto is in the United States: <i>Provided</i>, That no contract or cooperative agreement shall be made or entered into which will obligate the general fund of the Treasury unless or until Congress has appropriated money for such purpose.
 
@@ -28,7 +28,7 @@ The Secretary of the Interior (hereinafter in sections 461 to 467 of this title 
 
 #### Amendments
 
-1965—Subsec. (h). Pub. L. 89–249 changed proviso to allow granting concessions, leases, and permits and entering into contracts with responsible persons, firms, or corporations without advertising and without securing competitive bids.
+1965—Subsec. (h). Pub. L. 89–249 changed proviso to allow granting concessions, leases, and permits and entering into contracts with responsible persons, firms,or corporations without advertising and without securing competitive bids.
 
 #### Transfer of Functions
 
@@ -42,5 +42,5 @@ Pub. L. 96–344, §1, Sept. 8, 1980, 94 Stat. 1133, provided: “That (a) in fu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1e, 230e, 281e, 282a, 282b, 396d, 397d, 407q, 410u, 410w, 410z–4, 410aa–2, 410bb–1, 410cc–22, 410cc–32, 410ee, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410nn–1, 410<i>oo</i>–3, 410pp–2, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410yy–2, 410bbb–2, 410ccc–2, 410ddd, 410eee, 410eee–3, 430f–5, 430m, 450e–1, 450hh–2, 450jj–5, 450pp–1, 450ss–2, 450ss–4, 459h–4, 460kkk, 463, 464, 465, 466, 467, 467b, 468, 469, 470a, 698r, 698u–3, 1133, 1244 of this title; title 40 sections 304a–2, 871; title 43 section 377b.
+This section is referred to in sections 1e, 230e, 281e, 282a, 282b, 396d, 397d, 407q, 410u, 410w, 410z–4, 410aa–2, 410bb–1, 410cc–22, 410cc–32, 410ee, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410nn–1, 410<i>oo</i>–3, 410pp–2, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410yy–2, 410bbb–2, 410ccc–2, 410ddd, 410eee, 410eee–3, 410fff–2, 430f–5, 430m, 450e–1, 450hh–2, 450jj–5, 450pp–1, 450ss–2, 450ss–4, 459h–4, 460kkk, 463, 464, 465, 466, 467, 467b, 468, 469, 470a, 698r, 698u–3, 1133, 1244 of this title; title 40 sections 304a–2, 871; title 43 section 377b.
 

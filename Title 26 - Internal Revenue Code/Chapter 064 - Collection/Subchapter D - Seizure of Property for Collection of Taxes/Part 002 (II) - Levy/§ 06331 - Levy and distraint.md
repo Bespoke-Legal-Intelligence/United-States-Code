@@ -182,7 +182,7 @@ No levy may be made on any property if the amount of the expenses which the Secr
 
 &emsp;&emsp;(C) during the period that such an installment agreement for payment of such unpaid tax is in effect; and
 
-&emsp;&emsp;(D) if such agreement is terminated by the Secretary, during the 30 days thereafter (and, if an appeal of such termination is filed within such 30 days, during the period that such appeal is pending).
+&emsp;&emsp;(D) if such agreement is terminated by the Secretary, during the 30 days thereafter\(and, if an appeal of such termination is filed within such 30 days, during the period that such appeal is pending).
 
 #### (3) Certain rules to apply
 
@@ -284,7 +284,7 @@ Section 6236(h) of Pub. L. 100–647 provided that:
 
 “(1)
 
-In general.—The amendments made by this section (other than subsection (g)) \[amending this section and sections 6332, 6334, and 6343 of this title\] shall apply to levies issued on or after July 1, 1989.
+In general.—The amendments made by this section (other than subsection (g)) \[amending this sectionand sections 6332, 6334, and 6343 of this title\] shall apply to levies issued on or after July 1, 1989.
 
 “(2)
 

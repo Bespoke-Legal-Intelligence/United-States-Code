@@ -14,7 +14,7 @@ General Rule.—Unless a contrary intention appears, a person negotiating or tra
 
 (b)
 
-Security for Debt.—A person holding a bill of lading as security for a debt and in good faith demanding or receiving payment of the debt from another person does not warrant by the demand or receipt—
+Security for Debt.—A person holding a bill of lading as security for a debt and in good faith demanding or receiving payment of thedebt from another person does not warrant by the demand or receipt—
 
 &emsp;(1) the genuineness of the bill; or
 

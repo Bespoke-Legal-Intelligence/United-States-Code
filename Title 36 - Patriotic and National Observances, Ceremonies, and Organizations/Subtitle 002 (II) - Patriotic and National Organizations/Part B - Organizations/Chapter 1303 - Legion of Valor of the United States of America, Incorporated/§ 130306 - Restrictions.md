@@ -38,13 +38,19 @@ Aug. 4, 1955, ch. 546, §§9, 10, 12, 69 Stat. 489.
 
 36:640.
 
+&nbsp;
+
 130306(c)
 
 36:639(a).
 
+&nbsp;
+
 130306(d)
 
 36:639(b).
+
+&nbsp;
 
 In subsection (a), the words “any shares of” are omitted as unnecessary.
 

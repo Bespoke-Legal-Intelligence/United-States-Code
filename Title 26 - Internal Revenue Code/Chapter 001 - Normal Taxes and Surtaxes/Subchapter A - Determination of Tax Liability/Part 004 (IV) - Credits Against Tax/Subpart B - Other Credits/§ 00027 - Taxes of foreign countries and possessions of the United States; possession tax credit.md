@@ -30,5 +30,5 @@ Foreign tax credit, see section 901 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 29, 30, 55, 59, 108, 469, 691, 921, 1351 of this title.
+This section is referred to in sections 26, 29, 30, 55, 59, 108, 469, 691, 921, 1351 of this title.
 

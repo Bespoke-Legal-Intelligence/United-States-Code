@@ -54,7 +54,7 @@ A State operating a program funded under this part may apply to a family the rul
 
 #### (e) Authority to reserve certain amounts for assistance
 
-A State may reserve amounts paid to the State under this part for any fiscal year for the purpose of providing, without fiscal year limitation, assistance under the State program funded under this part.
+A State or tribe may reserve amounts paid to the State or tribe under this part for any fiscal year for the purpose of providing, without fiscal year limitation, assistance under the State or tribal program funded under this part.
 
 #### (f) Authority to operate employment placement program
 
@@ -62,7 +62,7 @@ A State to which a grant is made under section 603 of this title may use the gra
 
 #### (g) Implementation of electronic benefit transfer system
 
-A State to which a grant is made under section 603 of this title is encouraged to implementan electronic benefit transfer system for providing assistance under the State program funded under this part, and may use the grant for such purpose.
+A State to which a grant is made under section 603 of this title is encouraged to implement an electronic benefit transfer system for providing assistance under the State program funded under this part, and may use the grant for such purpose.
 
 #### (h) Use of funds for individual development accounts
 
@@ -202,7 +202,7 @@ A State to which a grant is made under section 603 of this title shall not be pr
 
 &emsp;&emsp;&emsp;(ii) former recipients of such assistance;
 
-&emsp;&emsp;&emsp;(iii) noncustodial parents who are described in item (aa) or (bb) of section 603(a)(5)(C)(ii)(II) of this title; and
+&emsp;&emsp;&emsp;(iii) noncustodial parents who are described in section 603(a)(5)(C)(iii) of this title; and
 
 &emsp;&emsp;&emsp;(iv) low-income individuals who are at risk of qualifying for such assistance; and
 
@@ -216,7 +216,7 @@ A State to which a grant is made under section 603 of this title shall not be pr
 
 &emsp;The provision by a State of a transportation benefit under a program conducted under section 3037 of the Transportation Equity Act for the 21st Century, to an individual who is not otherwise a recipient of assistance under the State program funded under this part, using funds from a grant made under section 603(a) of this title, shall not be considered to be the provision of assistance to the individual under the State program funded under this part.
 
-(Aug. 14, 1935, ch. 531, title IV, §404, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2124; amended Pub. L. 105–33, title V, §§5002(a), 5503, 5514(c), Aug. 5, 1997, 111 Stat. 593, 609, 620; Pub. L. 105–178, title VIII, §8401(b), June 9, 1998, 112 Stat. 499; Pub. L. 105–200, title IV, §403(a), July 16, 1998, 112 Stat. 670.)
+(Aug. 14, 1935, ch. 531, title IV, §404, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2124; amended Pub. L. 105–33, title V, §§5002(a), 5503, 5514(c), Aug. 5, 1997, 111 Stat. 593, 609, 620; Pub. L. 105–178, title VIII, §8401(b), June 9, 1998, 112 Stat. 499; Pub. L. 105–200, title IV, §403(a), July 16, 1998, 112 Stat. 670; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(d)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–283; Pub. L. 106–169, title IV, §401(<i>l</i>), Dec. 14, 1999, 113 Stat. 1858.)
 
 #### References in Text
 
@@ -240,6 +240,10 @@ A prior section 604, acts Aug. 14, 1935, ch. 531, title IV, §404, 49 Stat. 628;
 
 #### Amendments
 
+1999—Subsec. (e). Pub. L. 106–169 inserted “or tribe” after “A State” and “to the State” and inserted “or tribal” after “under the State”.
+
+Subsec. (k)(1)(C)(iii). Pub. L. 106–113 substituted “section 603(a)(5)(C)(iii) of this title” for “item (aa) or (bb) of section 603(a)(5)(C)(ii)(II) of this title”.
+
 1998—Subsec. (d)(2). Pub. L. 105–178 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “A State may use not more than 10 percent of the amount of any grant made to the State under section 603(a) of this title for a fiscal year to carry out State programs pursuant to subchapter XX of this chapter.”
 
 Subsec. (k). Pub. L. 105–200 added subsec. (k).
@@ -251,6 +255,12 @@ Subsec. (a)(2). Pub. L. 105–33, §5503, inserted “, or (at the option of th
 Subsec. (d)(1). Pub. L. 105–33, §5002(a)(1), substituted “Subject to paragraph (2), a State may” for “A State may”.
 
 Subsec. (d)(2). Pub. L. 105–33, §5002(a)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Notwithstanding paragraph (1), not more than 1/3 of the total amount paid to a State under this part for a fiscal year that is used to carry out State programs pursuant to provisions of law specified in paragraph (1) may be used to carry out State programs pursuant to subchapter XX of this chapter.”
+
+#### Effective Date of 1999 Amendments
+
+Pub. L. 106–169, title IV, §401(<i>l</i>), Dec. 14, 1999, 113 Stat. 1858, provided that the amendment made by section 401(<i>l</i>) is effective Dec. 14, 1999.
+
+For effective date of amendment by Pub. L. 106–113, see section 1000(a)(4) \[title VIII, §801(e)\] of Pub. L. 106–113, set out as a note under section 603 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -400,7 +410,7 @@ Eligible educational institution.—The term ‘eligible educational institution
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I)
 
-Institution of higher education.—An institution described in section 101 or 102 of theHigher Education Act of 1965 \[20 U.S.C. 1001, 1002\].
+Institution of higher education.—An institution described in section 101 or 102 of the Higher Education Act of 1965 \[20 U.S.C. 1001, 1002\].
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
 
@@ -648,7 +658,7 @@ Determination of net worth.—For purposes of subparagraph (A), the net worth of
 
 &emsp;&emsp;“(C)
 
-Exclusions.—For purposes of determining the net worth of a household, a household's assetsshall not be considered to include the primary dwelling unit and one motor vehicle owned by a member of the household.
+Exclusions.—For purposes of determining the net worth of a household, a household's assets shall not be considered to include the primary dwelling unit and one motor vehicle owned by a member of the household.
 
 “(b)
 

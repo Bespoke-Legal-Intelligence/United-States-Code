@@ -14,5 +14,5 @@ The civil service classification laws, referred to in text, are set forth in cha
 
 #### Short Title
 
-Section 5 of Pub. L. 91–357, July 29, 1970, 84 Stat. 472, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Volunteers in the Parks Act of 1969’.”
+Section 5 of Pub. L. 91–357, July 29, 1970, 84 Stat. 472, provided that: “This Act \[enacting this subchapter\]may be cited as the ‘Volunteers in the Parks Act of 1969’.”
 

@@ -2,7 +2,7 @@
 
 The authority granted under sections 450j to 450<i>l</i> of this title shall expire on September 30, 1995.
 
-(Pub. L. 90–484, §3, Aug. 13, 1968, 82 Stat. 750; Pub. L. 91–524, title II, §204(a), Nov. 30, 1970, 84 Stat. 1361; Pub. L. 93–86, §1(5)(A), Aug. 10, 1973, 87 Stat. 223; Pub. L. 95–113, title II, §205(2), Sept. 29, 1977, 91 Stat. 920; Pub. L. 97–98, title I, §105, Dec. 22, 1981, 95 Stat. 1220; Pub. L. 99–198, title I, §152, Dec. 23, 1985, 99 Stat. 1377; Pub. L. 101–624, title I, §110, Nov. 28, 1990, 104 Stat. 3380.)
+(Pub. L. 90–484, §3, Aug. 13, 1968, 82 Stat. 750; Pub. L. 91–524, title II, §204(a), Nov. 30, 1970, 84 Stat. 1361; Pub. L. 93–86, §1(5)(A), Aug. 10, 1973, 87 Stat. 223; Pub. L. 95–113, title II, §205(2), Sept. 29, 1977, 91 Stat. 920; Pub. L. 97–98, title I, §105, Dec.22, 1981, 95 Stat. 1220; Pub. L. 99–198, title I, §152, Dec. 23, 1985, 99 Stat. 1377; Pub. L. 101–624, title I, §110, Nov. 28, 1990, 104 Stat. 3380.)
 
 #### Prior Provisions
 

@@ -1,5 +1,9 @@
 ### SUBCHAPTER II—RESEARCH
 
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in section 1650 of this title.
+
 
 ---
 
@@ -14,3 +18,4 @@
 - [&sect; 01647 - Other Federal programs](%C2%A7%2001647%20-%20Other%20Federal%20programs.md)
 - [&sect; 01648 - Recycling research](%C2%A7%2001648%20-%20Recycling%20research.md)
 - [&sect; 01649 - Forestry Student Grant Program](%C2%A7%2001649%20-%20Forestry%20Student%20Grant%20Program.md)
+- [&sect; 01650 - Hardwood technology transfer and applied research](%C2%A7%2001650%20-%20Hardwood%20technology%20transfer%20and%20applied%20research.md)

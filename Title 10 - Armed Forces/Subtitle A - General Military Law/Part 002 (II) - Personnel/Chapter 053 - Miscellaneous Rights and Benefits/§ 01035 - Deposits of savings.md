@@ -18,7 +18,7 @@
 
 &emsp;(2) The term “Vietnam conflict” means the period beginning on February 28, 1961, and ending on May 7, 1975.
 
-&emsp;(3) The term “Persian Gulf conflict” means the period beginning on January 16, 1991, and ending on the date thereafter prescribed by Presidential proclamation or by law.
+&emsp;(3) The term “Persian Gulf conflict” means the period beginning on January 16, 1991, andending on the date thereafter prescribed by Presidential proclamation or by law.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 89–538, §1(1), Aug. 14, 1966, 80 Stat. 347; Pub. L. 90–122, §1, Nov. 3, 1967, 81 Stat. 361; Pub. L. 91–200, Feb. 26, 1970, 84 Stat. 16; Pub. L. 98–525, title XIV, §1405(20), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–661, div. A, title XIII, §1343(a)(3), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 102–25, title III, §310, Apr. 6, 1991, 105 Stat. 84; Pub. L. 102–190, div. A, title VI, §639, Dec. 5, 1991, 105 Stat. 1384.)
 
@@ -140,7 +140,7 @@ Section 2 of Pub. L. 89–538 provided that:
 
 “(a) Notwithstanding the first section of this Act \[amending this section\], an amount on deposit under section 1035 of title 10, United States Code, on the date of enactment of this Act \[Aug. 14, 1966\], shall accrue interest at the rate and under the conditions in effect on the day before the date of enactment of this Act \[Aug. 14, 1966\], until the member's current enlistment terminates or earlier, as may be jointly prescribed by the Secretaries concerned. However, a member who is on a permanent duty assignment outside the United States or its possessions on the date of enactment of this Act \[Aug. 14, 1966\], or who reports for that duty on or after that date but before the termination of his current enlistment, will be entitled to interest on such deposit, on and after that date, at the rate and under the conditions prescribed pursuant to section 1 \[amending this section\]. Payments of deposits, and interest thereon, may be made to the member's heirs or legal representatives.
 
-“(b) Any amounts deposited between May 4, 1966, and the date of enactment of this Act \[Aug. 14, 1966\] while a member was assigned to permanent duty within the United States and its possessions, and any amounts deposited between May 4, 1966, and the date of enactment of this Act \[Aug. 14, 1966\] by a member on permanent duty assignment outside the United States and its possessions which are in excess of his unallotted pay andallowances for that period, shall accrue interest at the rate in effect before enactment of this Act.”
+“(b) Any amounts deposited between May 4, 1966, and the date of enactment of this Act \[Aug. 14, 1966\] while a member was assigned to permanent duty within the United States and its possessions, and any amounts deposited between May 4, 1966, and the date of enactment of this Act \[Aug. 14, 1966\] by a member on permanent duty assignment outside the United States and its possessions which are in excess of his unallotted pay and allowances for that period, shall accrue interest at the rate in effect before enactment of this Act.”
 
 #### Extension of Coverage to Public Health Service and Coast and Geodetic Survey Personnel; Rules and Regulations
 

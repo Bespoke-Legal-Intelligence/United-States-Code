@@ -14,7 +14,7 @@
 
 &emsp;(6) the Arctic is a natural laboratory for research into human health and adaptation, physical and psychological, to climates of extreme cold and isolation and may provide information crucial for future defense needs;
 
-&emsp;(7) atmospheric conditions peculiar to the Arctic make the Arctic a unique testingground for research into high latitude communications, which is likely to be crucial for future defense needs;
+&emsp;(7) atmospheric conditions peculiar to the Arctic make the Arctic a unique testing ground for research into high latitude communications, which is likely to be crucial for future defense needs;
 
 &emsp;(8) Arctic marine technology is critical to cost-effective recovery and transportation of energy resources and to the national defense;
 
@@ -144,7 +144,7 @@ Sec. 8. <i>Membership of the Interagency Committee</i>. The Interagency Committe
 
 Sec. 9. <i>Functions of the Interagency Committee</i>. (a) The Interagency Committee shall:
 
-(1) survey Arctic research conducted by Federal, State, and local agencies, universities, and other public and private institutions to help determine priorities for future Arctic research, including natural resources and materials, physical and biological sciences, and social and behavioral sciences;
+(1) survey Arctic research conducted by Federal, State, and local agencies, universities, and other public and private institutions to help determine priorities for future Arctic research, including natural resources andmaterials, physical and biological sciences, and social and behavioral sciences;
 
 (2) work with the Commission to develop and establish an integrated national Arctic research policy that will guide Federal agencies in developing and implementing their research programs in the Arctic;
 

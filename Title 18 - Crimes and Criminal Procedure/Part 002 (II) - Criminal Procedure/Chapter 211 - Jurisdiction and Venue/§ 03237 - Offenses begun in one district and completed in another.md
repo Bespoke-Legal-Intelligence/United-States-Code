@@ -1,6 +1,6 @@
 ### §3237. Offenses begun in one district and completed in another
 
-(a) Except as otherwise expressly provided by enactment of Congress, any offense against the United States begun in one district and completed in another, or committed in more than one district, may be inquired of and prosecuted in any district in which such offense was begun, continued, or completed.
+(a) Except as otherwise expressly provided by enactment of Congress, any offense against theUnited States begun in one district and completed in another, or committed in more than one district, may be inquired of and prosecuted in any district in which such offense was begun, continued, or completed.
 
 Any offense involving the use of the mails, transportation in interstate or foreign commerce, or the importation of an object or person into the United States is a continuing offense and, except as otherwise expressly provided by enactment of Congress, may be inquired of and prosecuted in any district from, through, or into which such commerce, mail matter, or imported object or person moves.
 

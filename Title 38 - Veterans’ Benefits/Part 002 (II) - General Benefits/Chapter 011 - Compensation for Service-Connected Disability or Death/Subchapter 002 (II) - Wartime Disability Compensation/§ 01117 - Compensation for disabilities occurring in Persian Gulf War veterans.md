@@ -54,7 +54,7 @@ Assessment by National Academy of Sciences.—Not later than April 1, 1999, the 
 
 &emsp;“(1) assess whether a methodology could be used by the Department of Veterans Affairs for determining the efficacy of treatments furnished to, and health outcomes (including functional status) of, Persian Gulf War veterans who have been treated for illnesses which may be associated with their service in the Persian Gulf War; and
 
-&emsp;“(2) identify, to the extent feasible, with respect to each undiagnosed illness prevalent among such veterans and for any other chronic illness that the Academy determines to warrant such review, empirically valid models of treatment for such illness which employ successful treatment modalities for populations with similar symptoms.
+&emsp;“(2) identify, to the extent feasible, with respect to each undiagnosed illness prevalent among such veterans and for any other chronic illness that the Academy determines to warrant such review, empiricallyvalid models of treatment for such illness which employ successful treatment modalities for populations with similar symptoms.
 
 “(b)
 
@@ -186,13 +186,13 @@ Determinations of Associations Between Agents and Illnesses.—(1) For each agen
 
 &emsp;“(B) the increased risk of the illness among human or animal populations exposed to the agent, hazard, or medicine or vaccine; and
 
-&emsp;“(C) whether a plausible biological mechanism or other evidence of a causal relationship exists betweenexposure to the agent, hazard, or medicine or vaccine and the illness.
+&emsp;“(C) whether a plausible biological mechanism or other evidence of a causal relationship exists between exposure to the agent, hazard, or medicine or vaccine and the illness.
 
 “(2) The Academy shall include in its reports under subsection (i) a full discussion of the scientific evidence and reasoning that led to its conclusions under this subsection.
 
 “(f)
 
-Review of Potential Treatment Models for Certain Illnesses.—Under the agreement under subsection (b), the National Academy of Sciences shall separately review, for each chronic undiagnosed illness identified under subsection (c)(1)(B) and for any other chronic illness that the Academy determines to warrant such review, the available scientific data in order to identify empirically valid models of treatment for such illnesses which employ successful treatment modalities for populations with similar symptoms.
+Review of Potential Treatment Models for Certain Illnesses.—Under the agreement under subsection (b), the National Academy of Sciences shall separately review, for each chronic undiagnosed illnessidentified under subsection (c)(1)(B) and for any other chronic illness that the Academy determines to warrant such review, the available scientific data in order to identify empirically valid models of treatment for such illnesses which employ successful treatment modalities for populations with similar symptoms.
 
 “(g)
 
@@ -266,7 +266,7 @@ Alternative Contract Scientific Organization.—(1) If the Secretary is unable w
 
 #### Persian Gulf War Veterans’ Benefits
 
-Sections 102 to 105, 107, 109, and 110 of title I of Pub. L. 103–446, as amended by Pub. L. 104–262, title III, §352(a), Oct. 9, 1996, 110 Stat. 3210; Pub. L. 105–368, title I, §107, Nov. 11, 1998, 112 Stat. 3325, provided that:
+Sections 102 to 105, 107, 109, and 110 of title I of Pub. L. 103–446, as amended by Pub. L. 104–262, title III, §352(a), Oct. 9, 1996, 110 Stat. 3210; Pub. L. 105–368, title I, §107, Nov. 11, 1998, 112 Stat. 3325; Pub. L. 106–117, title II, §205(b), (c), Nov. 30, 1999, 113 Stat. 1563, provided that:
 
 #### “SEC. 102. FINDINGS.
 
@@ -276,7 +276,7 @@ Sections 102 to 105, 107, 109, and 110 of title I of Pub. L. 103–446, as amend
 
 &emsp;“(2) Significant numbers of veterans of the Persian Gulf War are suffering from illnesses, or are exhibiting symptoms of illness, that cannot now be diagnosed or clearly defined. As a result, many of these conditions or illnesses are not considered to be service connected under current law for purposes of benefits administered by the Department of Veterans Affairs.
 
-&emsp;“(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it may be that the illnesses suffered by those veterans result from multiple illnesses with overlapping symptoms and causes that have yet to be defined.
+&emsp;“(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experienceand Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it may be that the illnesses suffered by those veterans result from multiple illnesses with overlapping symptoms and causes that have yet to be defined.
 
 &emsp;“(4) That workshop concluded that the information concerning the range and intensity of exposure to toxic substances by military personnel in the Southwest Asia theater of operations is very limited and that such information was collected only after a considerable delay.
 
@@ -336,7 +336,7 @@ In General.—The Secretary of Veterans Affairs shall implement a comprehensive 
 
 Newsletter.—(1) The outreach program shall include a newsletter which shall be updated and distributed at least semi-annually and shall be distributed to the veterans listed on the Persian Gulf War Veterans Health Registry. The newsletter shall include summaries of the status and findings of Government sponsored research on illnesses of Persian Gulf War veterans and their families, as well as on benefits available to such individuals through the Department of Veterans Affairs. The newsletter shall be prepared in consultation with veterans service organizations.
 
-“(2) The requirement under this subsection for the distribution of the newsletter shall terminate on December 31, 1999.
+“(2) The requirement under this subsection for the distribution of the newsletter shall terminate on December 31, 2003.
 
 “(c)
 
@@ -360,7 +360,7 @@ Evaluation Program.—Subject to subsection (c), the Secretary of Veterans Affai
 
 “(b)
 
-Duration of Program.—The program shall be carried out during the period beginning on November 1, 1994, and ending on December 31, 1999.
+Duration of Program.—The program shall be carried out during the period beginning on November 1, 1994, and ending on December 31, 2003.
 
 “(c)
 
@@ -416,7 +416,7 @@ Persian Gulf Veteran.—For purposes of this section, a Persian Gulf veteran is 
 
 “(a)
 
-Study of Health Consequences of Persian Gulf Service.—If the National Academy of Sciences includes in the report required by section 706(b) of the Veterans Health Care Act of 1992 (Public Law 102–585) \[set out in a note under section 527 of this title\] a finding that there is a sound basis for an epidemiologicalstudy or studies on the health consequences of service in the Persian Gulf theater of operations during the Persian Gulf War and recommends the conduct of such a study or studies, the Secretary of Veterans Affairs is authorized to carry out such study.
+Study of Health Consequences of Persian Gulf Service.—If the National Academy of Sciences includes in the report required by section 706(b) of the Veterans Health Care Act of 1992 (Public Law 102–585) \[set out in a note under section 527 of this title\] a finding that there is a sound basis for an epidemiological study or studies on the health consequences of service in the Persian Gulf theater of operations during the Persian Gulf War and recommends the conduct of such a study or studies, the Secretary of Veterans Affairs is authorized to carry out such study.
 
 “(b)
 
@@ -438,55 +438,9 @@ Authorization.—There are authorized to be appropriated to the Department such 
 
 Section 106(c) of Pub. L. 103–446 directed Secretary of Veterans Affairs, not later than 60 days after Nov. 2, 1994, to submit to Congress a report stating whether or not the Secretary intended to pay compensation as provided in this section.
 
-#### Ex. Ord. No. 12961. Presidential Advisory Committee on Gulf War Veterans’ Illnesses
+#### Executive Order No. 12961
 
-Ex. Ord. No. 12961, May 26, 1995, 60 F.R. 28507, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. <i>Establishment</i>. (a) There is hereby established the Presidential Advisory Committee on Gulf War Veterans’ Illnesses (the “Committee”). The Committee shall be composed of not more than 12 members to be appointed by the President. The members of the Committee shall have expertise relevant to the functions of the Committee and shall not be full-time officials or employees of the executive branch of the Federal Government. The Committee shall be subject to the Federal Advisory Committee Act, as amended, 5 U.S.C. App.
-
-(b) The President shall designate a Chairperson from among the members of the Committee.
-
-Sec. 2. <i>Functions</i>. (a) The Committee shall report to the President through the Secretary of Defense, the Secretary of Veterans Affairs, and the Secretary of Health and Human Services.
-
-(b) The Committee shall provide advice and recommendations based on its review of the following matters:
-
-(1) <i>Research</i>: epidemiological, clinical, and other research concerning Gulf War veterans’ illnesses.
-
-(2) <i>Coordinating Efforts</i>: the activities of the Persian Gulf Veterans Coordinating Board, including the Research Coordinating Council, the Clinical Working Group, and the Disability and Compensation Working Group.
-
-(3) <i>Medical Treatment</i>: medical examinations and treatment in connection with Gulf War veterans’ illnesses, including the Comprehensive Clinical Evaluation Program and the Persian Gulf Registry Medical Examination Program.
-
-(4) <i>Outreach</i>: government-sponsored outreach efforts such as hotlines and newsletters related to Gulf War veterans’ illnesses.
-
-(5) <i>External Reviews</i>: the steps taken to implement recommendations in external reviews by the Institute of Medicine's Committee to Review the Health Consequences of Service During the Persian Gulf War, the Defense Science Board Task Force on Persian Gulf War Health Effects, the National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, the Persian Gulf Expert Scientific Committee, and other bodies.
-
-(6) <i>Risk Factors</i>: the possible risks associated with service in the Persian Gulf Conflict in general and, specifically, with prophylactic drugs and vaccines, infectious diseases, environmental chemicals, radiation and toxic substances, smoke from oil well fires, depleted uranium, physical and psychological stress, and other factors applicable to the Persian Gulf Conflict.
-
-(7) <i>Chemical and Biological Weapons</i>: information related to reports of the possible detection of chemical or biological weapons during the Persian Gulf Conflict.
-
-(c) It shall not be a function of the Committee to conduct scientific research. The Committee shall review information and provide advice and recommendations on the activities undertaken related to the matters described in (b) above.
-
-(d) It shall not be a function of the Committee to provide advice or recommendations on any legal liability of the Federal Government for any claims or potential claims against the Federal Government.
-
-(e) As used herein, “Gulf War Veterans’ Illnesses” means the symptoms and illnesses reported by United States uniformed services personnel who served in the Persian Gulf Conflict.
-
-(f) The Committee shall submit an interim report within 6 months of the first meeting of the Committee and a final report by December 31, 1996, unless otherwise provided by the President.
-
-Sec. 3. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permitted by law, provide the Committee with such information as it may require for purposes of carrying out its functions.
-
-(b) Members of the Committee shall be compensated in accordance with Federal law. Committee members may be allowed travel expenses, including per diem in lieu of subsistence, to the extent permitted by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707).
-
-(c) To the extent permitted by law, and subject to the availability of appropriations, the Department of Defense shall provide the Committee with such funds as may be necessary for the performance of its functions.
-
-Sec. 4. <i>General Provisions</i>. (a) Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act that are applicable to the Committee, except that of reporting annually to the Congress, shall be performed by the Secretary of Defense, in accordance with the guidelines and procedures established by the Administrator of General Services.
-
-(b) The Committee shall terminate 30 days after submitting its final report.
-
-(c) This order is intended only to improve the internal management of the executive branch and it is not intended to create any right, benefit or trust responsibility, substantive or procedural, enforceable at lawor equity by a party against the United States, its agencies, its officers, or any person.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 12961, May 26, 1995, 60 F.R. 28507, which established the Presidential Advisory Committee on Gulf War Veterans’ Illnesses, was revoked by Ex. Ord. No. 13138, §3(g), Sept. 30, 1999, 64 F.R. 53880, set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 13034. Extension of Presidential Advisory Committee on Gulf War Veterans’ Illnesses
 

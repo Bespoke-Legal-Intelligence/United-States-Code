@@ -2,7 +2,7 @@
 
 #### (a) Residence
 
-No person, except as otherwise provided in this subchapter, shall be naturalized unless such applicant, (1) immediately preceding the date of filing his application for naturalization has resided continuously, after being lawfully admitted for permanent residence, within the United States for at least five years and during the five years immediately preceding the date of filing his application has been physically present therein for periods totaling at least half of thattime, and who has resided within the State or within the district of the Service in the United States in which the applicant filed the application for at least three months, (2) has resided continuously within the United States from the date of the application up to the time of admission to citizenship, and (3) during all the periods referred to in this subsection has been and still is a person of good moral character, attached to the principles of the Constitution of the United States, and well disposed to the good order and happiness of the United States.
+No person, except as otherwise provided in this subchapter, shall be naturalized unless such applicant, (1) immediately preceding the date of filing his application for naturalization has resided continuously, after being lawfully admitted for permanent residence, within the United States for at least five years and during the five years immediately preceding the date of filing his application has been physically present therein for periods totaling at least half of that time, and who has resided within the State or within the district of the Service in the United States in which the applicant filed the application for at least three months, (2) has resided continuously within the United States from the date of the application up to the time of admission to citizenship, and (3) during all the periods referred to in this subsection has been and still is a person of good moral character, attached to the principles of the Constitution of the United States, and well disposed to the good order and happiness of the United States.
 
 #### (b) Absences
 
@@ -12,7 +12,7 @@ Absence from the United States for a continuous period of one year or more durin
 
 &emsp;(1) prior to the beginning of such period of employment (whether such period begins before or after his departure from the United States), but prior to the expiration of one year of continuous absence from the United States, the person has established to the satisfaction of the Attorney General that his absence from the United States for such period is to be on behalf of such Government, or for the purpose of carrying on scientific research on behalf of such institution, or to be engaged in the development of such foreign trade and commerce or whose residence abroad is necessary to the protection of the property rights in such countries in such firm or corporation, or to be employed by a public international organization of which the United States is a member by treaty or statute and by which the alien was not employed until after being lawfully admitted for permanent residence; and
 
-&emsp;(2) such person proves to the satisfaction of the Attorney General that his absence from the United States for such period has been for such purpose.
+&emsp;(2) such person proves to the satisfaction of the Attorney General that his absence fromthe United States for such period has been for such purpose.
 
 > The spouse and dependent unmarried sons and daughters who are members of the household of a person who qualifies for the benefits of this subsection shall also be entitled to such benefits during the period for which they were residing abroad as dependent members of the household of the person.
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Expedited Naturalization
 
-Pub. L. 104–293, title III, §305, Oct. 11, 1996, 110 Stat. 3465, provided that:
+Pub. L. 104–293, title III, §305, Oct. 11, 1996, 110 Stat. 3465, as amended by Pub. L. 106–120, title III, §307, Dec. 3, 1999, 113 Stat. 1612, provided that:
 
 “(a)
 
@@ -94,7 +94,7 @@ Eligible Applicant.—An applicant eligible for naturalization under this sectio
 
 &emsp;“(1) has resided continuously, after being lawfully admitted for permanent residence, within the United States for at least one year prior to naturalization; and
 
-&emsp;“(2) is not described in subparagraph (A), (B), (C), or (D) of section 243(h)(2) of such Act \[former 8 U.S.C. 1253(h)(2)\].
+&emsp;“(2) is not described in clauses (i) through (iv) of section 241(b)(3)(B) of such Act \[8 U.S.C. 1231(b)(3)(B)\].
 
 “(c)
 

@@ -20,7 +20,7 @@ Any dealer, exhibitor, or operator of an auction sale subject to section 2142 of
 
 #### Amendments
 
-1985—Subsec. (b). Pub. L. 99–198, §1755(a), substituted “$2,500 for each such violation” for “$1,000 for each such violation” in first sentence and directed the substitution of “$1,500 for each offense” for “$500 for each offense” in sixth sentence, which was executed to the seventh sentence as the probable intent of Congress.
+1985—Subsec. (b). Pub. L. 99–198, §1755(a), substituted “$2,500 for each such violation” for “$1,000 for each suchviolation” in first sentence and directed the substitution of “$1,500 for each offense” for “$500 for each offense” in sixth sentence, which was executed to the seventh sentence as the probable intent of Congress.
 
 Subsec. (d). Pub. L. 99–198, §1755(b), substituted “$2,500” for “$1,000”.
 

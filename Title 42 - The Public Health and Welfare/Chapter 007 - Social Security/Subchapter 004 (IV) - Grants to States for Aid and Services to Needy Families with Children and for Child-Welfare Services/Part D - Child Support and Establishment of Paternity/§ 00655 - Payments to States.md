@@ -6,7 +6,7 @@
 
 &emsp;(A) equal to the percent specified in paragraph (2) of the total amounts expended by such State during such quarter for the operation of the plan approved under section 654 of this title,
 
-&emsp;(B) equal to the percent specified in paragraph (3) (rather than the percent specified in subparagraph (A)) of the sums expended during such quarter as are attributable to the planning, design, development, installation or enhancement of an automatic data processing and information retrieval system (including in such sums the full cost of the hardware components of such system),
+&emsp;(B) equal to the percent specified in paragraph (3) of the sums expended during such quarter that are attributable to the planning, design, development, installation or enhancement of an automatic data processing and information retrieval system (including in such sums the full cost of the hardware components of such system); and <sup>1</sup>
 
 &emsp;(C) equal to 90 percent (rather than the percentage specified in subparagraph (A)) of so much of the sums expended during such quarter as are attributable to laboratory costs incurred in determining paternity, and
 
@@ -32,7 +32,7 @@
 
 (4)(A)(i) If—
 
-&emsp;(I) the Secretary determines that a State plan under section 654 of this title would (inthe absence of this paragraph) be disapproved for the failure of the State to comply with a particular subparagraph of section 654(24) of this title, and that the State has made and is continuing to make a good faith effort to so comply; and
+&emsp;(I) the Secretary determines that a State plan under section 654 of this title would (in the absence of this paragraph) be disapproved for the failure of the State to comply with a particular subparagraph of section 654(24) of this title, and that the State has made and is continuing to make a good faith effort to so comply; and
 
 &emsp;(II) the State has submitted to the Secretary a corrective compliance plan that describes how, by when, and at what cost the State will achieve such compliance, which has been approved by the Secretary,
 
@@ -66,9 +66,41 @@
 
 (ii) If a State with respect to which a reduction is made under this paragraph for a fiscal year with respect to a failure to comply with a subparagraph of section 654(24) of this title achieves compliance with such subparagraph by the beginning of the succeeding fiscal year, the Secretary shall increase the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the succeeding fiscal year by an amount equal to 90 percent of the reduction for the fiscal year.
 
-(iii) The Secretary shall reduce the amount of any reduction that, in the absence of this clause, would be required to be made under this paragraph by reason of the failure of a State to achieve compliance with section 654(24)(B) of this title during the fiscal year, by an amount equal to 20 percent of the amount of the otherwise required reduction, for each State performance measure described in section 658a(b)(4) of this title with respect to which the applicable percentage under section 658a(b)(6) of this title for the fiscal year is 100 percent, if the Secretary has made the determination described in section 658a(b)(5)(B) of this title with respect to the State for the fiscal year.
+(iii) The Secretary shall reduce the amount of any reduction that, in the absence of this clause,would be required to be made under this paragraph by reason of the failure of a State to achieve compliance with section 654(24)(B) of this title during the fiscal year, by an amount equal to 20 percent of the amount of the otherwise required reduction, for each State performance measure described in section 658a(b)(4) of this title with respect to which the applicable percentage under section 658a(b)(6) of this title for the fiscal year is 100 percent, if the Secretary has made the determination described in section 658a(b)(5)(B) of this title with respect to the State for the fiscal year.
 
 (D) The Secretary may not impose a penalty under this paragraph against a State with respect to a failure to comply with section 654(24)(B) of this title for a fiscal year if the Secretary is required to impose a penalty under this paragraph against the State with respect to a failure to comply with section 654(24)(A) of this title for the fiscal year.
+
+(5)(A)(i) If—
+
+&emsp;(I) the Secretary determines that a State plan under section 654 of this title would (in the absence of this paragraph) be disapproved for the failure of the State to comply with subparagraphs (A) and (B)(i) of section 654(27) of this title, and that the State has made and is continuing to make a good faith effort to so comply; and
+
+&emsp;(II) the State has submitted to the Secretary, not later than April 1, 2000, a corrective compliance plan that describes how, by when, and at what cost the State will achieve such compliance, which has been approved by the Secretary,
+
+> then the Secretary shall not disapprove the State plan under section 654 of this title, and the Secretary shall reduce the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the fiscal year by the penalty amount.
+
+(ii) All failures of a State during a fiscal year to comply with any of the requirements of section 654B of this title shall be considered a single failure of the State to comply with subparagraphs (A) and (B)(i) of section 654(27) of this title during the fiscal year for purposes of this paragraph.
+
+(B) In this paragraph:
+
+&emsp;(i) The term “penalty amount” means, with respect to a failure of a State to comply with subparagraphs (A) and (B)(i) of section 654(27) of this title—
+
+&emsp;&emsp;(I) 4 percent of the penalty base, in the case of the 1st fiscal year in which such a failure by the State occurs (regardless of whether a penalty is imposed in that fiscal year under this paragraph with respect to the failure), except as provided in subparagraph (C)(ii) of this paragraph;
+
+&emsp;&emsp;(II) 8 percent of the penalty base, in the case of the 2nd such fiscal year;
+
+&emsp;&emsp;(III) 16 percent of the penalty base, in the case of the 3rd such fiscal year;
+
+&emsp;&emsp;(IV) 25 percent of the penalty base, in the case of the 4th such fiscal year; or
+
+&emsp;&emsp;(V) 30 percent of the penalty base, in the case of the 5th or any subsequent such fiscal year.
+
+&emsp;(ii) The term “penalty base” means, with respect to a failure of a State to comply with subparagraphs (A) and (B)(i) of section 654(27) of this title during a fiscal year, the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the preceding fiscal year.
+
+(C)(i) The Secretary shall waive all penalties imposed against a State under this paragraph for any failure of the State to comply with subparagraphs (A) and (B)(i) of section 654(27) of this title if the Secretary determines that, before April 1, 2000, the State has achieved such compliance.
+
+(ii) If a State with respect to which a reduction is required to be made under this paragraph with respect to a failure to comply with subparagraphs (A) and (B)(i) of section 654(27) of this title achieves such compliance on or after April 1, 2000, and on or before September 30, 2000, then the penalty amount applicable to the State shall be 1 percent of the penalty base with respect to the failure involved.
+
+(D) The Secretary may not impose a penalty under this paragraph against a State for a fiscal year for which the amount otherwise payable to the State under paragraph (1)(A) of this subsection is reduced under paragraph (4) of this subsection for failure to comply with section 654(24)(A) of this title.
 
 #### (b) Estimate of amounts payable; installment payments
 
@@ -82,7 +114,7 @@
 
 #### (d) State reports
 
-Notwithstanding any other provision of law, no amount shall be paid to any State under this section for any quarter, prior to the close of such quarter, unless for the period consisting of all prior quarters for which payment is authorized to be made to such State under subsection (a) of this section, there shall have been submitted by the State to the Secretary, with respect to each quarter in such period (other than the last two quarters in such period), a full and complete report (in such form and manner and containing such information as the Secretary shall prescribe or require) as to the amount of child support collected and disbursed and all expenditures with respect to which payment is authorized under subsection (a) of this section.
+Notwithstanding any other provision of law, no amount shall be paid to any State under this section for any quarter, prior to the close of such quarter, unless for the period consisting of all prior quarters for which payment is authorized to be made to such State under subsection\(a) of this section, there shall have been submitted by the State to the Secretary, with respect to each quarter in such period (other than the last two quarters in such period), a full and complete report (in such form and manner and containing such information as the Secretary shall prescribe or require) as to the amount of child support collected and disbursed and all expenditures with respect to which payment is authorized under subsection (a) of this section.
 
 #### (e) Special project grants for interstate enforcement; appropriations
 
@@ -100,7 +132,7 @@ Notwithstanding any other provision of law, no amount shall be paid to any State
 
 The Secretary may make direct payments under this part to an Indian tribe or tribal organization that demonstrates to the satisfaction of the Secretary that it has the capacity to operate a child support enforcement program meeting the objectives of this part, including establishment of paternity, establishment, modification, and enforcement of support orders, and location of absent parents. The Secretary shall promulgate regulations establishing the requirements which must be met by an Indian tribe or tribal organization to be eligible for a grant under this subsection.
 
-(Aug. 14, 1935, ch. 531, title IV, §455, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2355; amended Pub. L. 94–88, title II, §§201(c), 205, Aug. 9, 1975, 89 Stat. 433, 435; Pub. L. 94–365, §3, July 14, 1976, 90 Stat. 990; Pub. L. 95–59, §4, June 30, 1977, 91 Stat. 255; Pub. L. 96–178, §2(a), Jan. 2, 1980, 93 Stat. 1295; Pub. L. 96–265, title IV, §§404(a), 405(a), 407(a), (b), June 9, 1980, 94 Stat. 463, 467; Pub. L. 96–611, §§9(c), 11(c), Dec. 28, 1980, 94 Stat. 3573, 3574; Pub. L. 97–35, title XXIII, §2333(c), Aug. 13, 1981, 95 Stat. 863; Pub. L. 97–248, title I, §§171(b)(2), 174(a), (b), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–378, §§4(a), 6(b), 8, Aug. 16, 1984, 98 Stat. 1311, 1314, 1315; Pub. L. 100–485, title I, §§112(a), 123(c), Oct. 13, 1988, 102 Stat. 2350, 2352; Pub. L. 104–193, title III, §§344(b)(1), (c), 375(b), 395(d)(1)(E), Aug. 22, 1996, 110 Stat. 2236, 2237, 2256, 2259; Pub. L. 105–33, title V, §§5546(b), (c), 5555(a), Aug. 5, 1997, 111 Stat. 631, 632, 636; Pub. L. 105–200, title I, §§101(a), 102(b), title II, §201(f)(2)(B), July 16, 1998, 112 Stat. 646, 648, 658; Pub. L. 105–306, §4(a)(1), Oct. 28, 1998, 112 Stat. 2926.)
+(Aug. 14, 1935, ch. 531, title IV, §455, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2355; amended Pub. L. 94–88, title II, §§201(c), 205, Aug. 9, 1975, 89 Stat. 433, 435; Pub. L. 94–365, §3, July 14, 1976, 90 Stat. 990; Pub. L. 95–59, §4, June 30, 1977, 91 Stat. 255; Pub. L. 96–178, §2(a), Jan. 2, 1980, 93 Stat. 1295; Pub. L. 96–265, title IV, §§404(a), 405(a), 407(a), (b), June 9, 1980, 94 Stat. 463, 467; Pub. L. 96–611, §§9(c), 11(c), Dec. 28, 1980, 94 Stat. 3573, 3574; Pub. L. 97–35, title XXIII, §2333(c), Aug. 13, 1981, 95 Stat. 863; Pub. L. 97–248, title I, §§171(b)(2), 174(a), (b), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–378, §§4(a), 6(b), 8, Aug. 16, 1984, 98 Stat. 1311, 1314, 1315; Pub. L. 100–485, title I, §§112(a), 123(c), Oct. 13, 1988, 102 Stat. 2350, 2352; Pub. L. 104–193, title III, §§344(b)(1), (c), 375(b), 395(d)(1)(E), Aug. 22, 1996, 110 Stat. 2236, 2237, 2256, 2259; Pub. L. 105–33, title V, §§5546(b), (c), 5555(a), Aug. 5, 1997, 111 Stat. 631, 632, 636; Pub. L. 105–200, title I, §§101(a), 102(b), title II, §201(f)(2)(B), July 16, 1998, 112 Stat. 646, 648, 658; Pub. L. 105–306, §4(a)(1), Oct. 28, 1998, 112 Stat. 2926; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–286; Pub. L. 106–169, title IV, §401(i), Dec. 14, 1999, 113 Stat. 1858.)
 
 #### Amendment of Subsection (a)(4)(C)(iii)
 
@@ -120,6 +152,10 @@ Section 5(a) of the Child Support Enforcement Amendments of 1984, referred to in
 
 #### Amendments
 
+1999—Subsec. (a)(1)(B). Pub. L. 106–169 amended Pub. L. 104–193, §344(b)(1)(A). See 1996 Amendment note below.
+
+Subsec. (a)(5). Pub. L. 106–113 added par. (5).
+
 1998—Subsec. (a)(1)(D). Pub. L. 105–200, §102(b), added subpar. (D).
 
 Subsec. (a)(4). Pub. L. 105–200, §101(a), added par. (4).
@@ -132,13 +168,13 @@ Subsec. (a)(3)(B)(iii). Pub. L. 105–33, §5555(a)(2), added cl. (iii).
 
 Subsec. (b). Pub. L. 105–33, §5546(b), redesignated subsec. (b), relating to direct Federal funding to Indian tribes and tribal organizations, as (f).
 
-Subsec. (f). Pub. L. 105–33, §5546(c), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary may, in appropriate cases, make direct payments under this part to an Indian tribe or tribal organization which has an approved child support enforcement plan under this subchapter. In determining whether such payments are appropriate, the Secretary shall, at a minimum, consider whether services are being provided to eligible Indian recipients by the State agency through an agreement entered into pursuant to section 654(34) of this title.”
+Subsec. (f). Pub. L. 105–33, §5546(c), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary may, in appropriate cases, make direct payments under this part toan Indian tribe or tribal organization which has an approved child support enforcement plan under this subchapter. In determining whether such payments are appropriate, the Secretary shall, at a minimum, consider whether services are being provided to eligible Indian recipients by the State agency through an agreement entered into pursuant to section 654(34) of this title.”
 
 Pub. L. 105–33, §5546(b), redesignated subsec. (b), relating to direct Federal funding to Indian tribes and tribal organizations, as (f).
 
-1996—Subsec. (a)(1). Pub. L. 104–193, §344(c), which directed repeal of Pub. L. 100–485, §123(c), was executed by restoring the provisions of this section amended by§123(c) to read as if §123(c) had not been enacted, to reflect the probable intent of Congress. See 1988 Amendment note below.
+1996—Subsec. (a)(1). Pub. L. 104–193, §344(c), which directed repeal of Pub. L. 100–485, §123(c), was executed by restoring the provisions of this section amended by §123(c) to read as if §123(c) had not been enacted, to reflect the probable intent of Congress. See 1988 Amendment note below.
 
-Subsec. (a)(1)(B). Pub. L. 104–193, §344(b)(1)(A), which directed amendment of par. (1)(B), was executed to the text of par. (1)(B) as if it had not been amended by Pub. L. 100–485, §123(c), by substituting “the percent specified in paragraph (3)” for “90 percent”, striking “so much of” before “the sums expended during such quarter”, and substituting “, and” for “which the Secretary finds meets the requirements specified in section 654(16) of this title, or meets such requirements without regard to clause (D) thereof, and” to reflect the probable intent of Congress. See above.
+Subsec. (a)(1)(B). Pub. L. 104–193, §344(b)(1)(A), as amended by Pub. L. 106–169, added subpar. (B) and struck out former subpar. (B) which read as follows: “equal to 90 percent (rather than the percent specified in subparagraph (A)) of so much of the sums expended during such quarter as are attributable to the planning, design, development, installation or enhancement of an automatic data processing and information retrieval system (including in such sums the full cost of the hardware components of such system) which the Secretary finds meets the requirements specified in section 654(16) of this title, or meets such requirements without regard to clause (D) thereof, and”.
 
 Subsec. (a)(3). Pub. L. 104–193, §344(b)(1)(B), added par. (3).
 
@@ -184,11 +220,17 @@ Subsecs. (c), (d). Pub. L. 96–265, §§404(a), 407(b), added subsecs. (c) and 
 
 Subsec. (b). Pub. L. 94–88, §205, added subsec. (b).
 
+#### Effective Date of 1999 Amendments
+
+Amendment by Pub. L. 106–169 effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 401(q) of Pub. L. 106–169, set out as a note under section 602 of this title.
+
+Amendment by Pub. L. 106–113 effective Oct. 1, 1999, see section 1000(a)(4) \[title VIII, §807(c)\] of Pub. L. 106–113, set out as a note under section 609 of this title.
+
 #### Effective Date of 1998 Amendments
 
 Pub. L. 105–306, §4(a)(2), Oct. 28, 1998, 112 Stat. 2927, provided that: “The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect as if included in the enactment of section 101(a) of the Child Support Performance and Incentive Act of 1998 \[Pub. L. 105–200, amending this section\], and the amendment shall be considered to have been added by section 101(a) of such Act for purposes of section 201(f)(2)(B) of such Act \[amending this section\].”
 
-Pub. L. 105–200, title II, §201(f)(3), July 16, 1998, 112 Stat. 658, provided that: “The amendments made by this subsection \[amending this section, renumbering section 658a as section 658 of this title, and repealing former section 658 of this title\] shall take effect on October 1, 2001.”
+Pub. L. 105–200, title II, §201(f)(3), July 16, 1998, 112 Stat. 658, provided that: “The amendments made by this subsection \[amending this section, renumbering section 658a as section 658 of this title, and repealingformer section 658 of this title\] shall take effect on October 1, 2001.”
 
 #### Effective Date of 1997 Amendment
 
@@ -206,7 +248,7 @@ Section 123(c) of Pub. L. 100–485 which provided that the amendment made by th
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 4(a) of Pub. L. 98–378 applicable to fiscal years after fiscal year 1983, see section 4(c)of Pub. L. 98–378, set out as a note under section 652 of this title.
+Amendment by section 4(a) of Pub. L. 98–378 applicable to fiscal years after fiscal year 1983, see section 4(c) of Pub. L. 98–378, set out as a note under section 652 of this title.
 
 Amendment by section 6(b) of Pub. L. 98–378 applicable with respect to quarters beginning on or after Oct. 1, 1984, see section 6(c) of Pub. L. 98–378, set out as a note under section 654 of this title.
 
@@ -261,4 +303,6 @@ Section 206 of Pub. L. 94–88 provided that amounts expended in good faith by a
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 655a, 658, 658a, 1315 of this title; title 2 section 906.
+
+<i><sup>1</sup></i><i> So in original. The “; and” probably should be a comma.</i>
 

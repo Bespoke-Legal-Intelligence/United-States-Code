@@ -4,7 +4,7 @@
 
 #### (1) Requirements
 
-&emsp;The United States National Authority shall ensure that regulations are prescribed that require each person located in the United States who produces, processes, consumes, exports, or imports, or proposes to produce, process, consume, export, or import, a chemical substance that is subject to the Convention to—
+&emsp;The United States National Authority shall ensure that regulations are prescribed that require each person located in the United Stateswho produces, processes, consumes, exports, or imports, or proposes to produce, process, consume, export, or import, a chemical substance that is subject to the Convention to—
 
 &emsp;&emsp;(A) maintain and permit access to records related to that production, processing, consumption, export, or import of such substance; and
 
@@ -29,4 +29,8 @@
 #### References in Text
 
 This chapter, referred to in subsec. (b)(1), was in the original “this Act” and was translated as reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
+
+#### Regulations
+
+Regulations under subsec. (a) to be issued by Department of Commerce by a date specified by Department of State as United States National Authority (USNA) and to be reviewed and approved by USNA in coordination with an interagency group, see section 3 of Ex. Ord. No. 13128, June 25, 1999, 64 Stat. 34703, set out as a note under section 6711 of this title.
 

@@ -6,7 +6,7 @@ The Farm Credit Administration shall cause System institutions to achieve and ma
 
 #### (b) Failure to maintain minimum levels; directives; plans for achieving minimum levels; proposals affecting compliance
 
-(1) Failure of a System institution to maintain capital at or above its minimum level as established under subsection (a) of this section may be deemed by the Farm Credit Administration, in its discretion, to constitute an unsafeand unsound practice within the meaning of this chapter.
+(1) Failure of a System institution to maintain capital at or above its minimum level as established under subsection (a) of this section may be deemed by the Farm Credit Administration, in its discretion, to constitute an unsafe and unsound practice within the meaning of this chapter.
 
 (2) In addition to, or in lieu of, any other action authorized by law, including paragraph (1), the Farm Credit Administration may issue a directive to a System institution that fails to maintain capital at or above its required level as established under subsection (a) of this section. Such directive may require the System institution to submit and adhere to a plan acceptable to the Farm Credit Administration describing the means and timing by which the System institution shall achieve its required capital level, but may not require merger or consolidation without a majority vote of the voting stockholders or the contributors to the guaranty fund of the institution.
 
@@ -24,7 +24,7 @@ Each bank shall have on hand at the time of issuance of any note, bond, debentur
 
 Subsec. (c). Pub. L. 100–233, §805(q), which directed the amendment of subsec. (c) by substituting “direct or fully guaranteed” for “direct of fully guaranteed” was repealed by Pub. L. 100–399, §702(b). See Construction of 1988 Amendment note below.
 
-Pub. L. 100–233, §304, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Each bank shall have on hand at the time of issuance of any long-term notes, bonds, debentures, or other similar obligations and at all times thereafter maintain, free from any lien or other pledge, notes and other obligations representing loans made under the authority of this chapter, obligations of the United States or any agency thereof direct or fully guaranteed, other readily marketable securities approved by the Farm Credit Administration, or cash, in an aggregate value equal to the total amount of long-term notes, bonds, debentures, or other similar obligations outstanding for which the bank is primarily liable.”
+Pub. L. 100–233, §304, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Eachbank shall have on hand at the time of issuance of any long-term notes, bonds, debentures, or other similar obligations and at all times thereafter maintain, free from any lien or other pledge, notes and other obligations representing loans made under the authority of this chapter, obligations of the United States or any agency thereof direct or fully guaranteed, other readily marketable securities approved by the Farm Credit Administration, or cash, in an aggregate value equal to the total amount of long-term notes, bonds, debentures, or other similar obligations outstanding for which the bank is primarily liable.”
 
 1985—Pub. L. 99–205 substituted “Capital adequacy of banks and associations” for “Aggregate of obligations; collateral” in section catchline.
 
@@ -70,7 +70,7 @@ Emergency power not available.—The Farm Credit Administration shall not invoke
 
 “(3)
 
-Prohibitions during transition period.—During the 5-year period specified in paragraph (1)(D), the Farm Credit Administration shall not initiate any receivership, conservatorship, liquidation, or enforcement action against any System institution certified to issue preferred stock under section 6.27 of the Farm Credit Act of 1971 (as added by section 201 of this Act) \[12 U.S.C. 2278b–7\], solely because of the failure of suchinstitution to meet minimum permanent capital adequacy standards unless such action is recommended or concurred in by the Farm Credit System Assistance Board established under section 6.0 of such Act (as added by section 201 of this Act) \[12 U.S.C. 2278a\].
+Prohibitions during transition period.—During the 5-year period specified in paragraph (1)(D), the Farm Credit Administration shall not initiate any receivership, conservatorship, liquidation, or enforcement action against any System institution certified to issue preferred stock under section 6.27 of the Farm Credit Act of 1971 (as added by section 201 of this Act) \[12 U.S.C. 2278b–7\], solely because of the failure of such institution to meet minimum permanent capital adequacy standards unless such action is recommended or concurred in by the Farm Credit System Assistance Board established under section 6.0 of such Act (as added by section 201 of this Act) \[12 U.S.C. 2278a\].
 
 “(4)
 

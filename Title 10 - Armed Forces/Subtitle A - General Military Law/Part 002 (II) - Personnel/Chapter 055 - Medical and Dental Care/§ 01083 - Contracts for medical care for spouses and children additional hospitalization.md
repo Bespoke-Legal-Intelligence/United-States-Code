@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 June 7, 1956, ch. 374, §303, 70 Stat. 254.
 
-The words “dependent covered by a plan under section 1079 of this title” are substituted for the words “person who is covered under an insurance, medical service, or health plan or plans, as provided in this chapter”. The words “period of”, “or plans”, and “required by such person in a civilian facility” are omitted as surplusage.
+The words “dependent covered by a plan under section 1079 of this title” are substituted for the words “person who is covered under an insurance, medicalservice, or health plan or plans, as provided in this chapter”. The words “period of”, “or plans”, and “required by such person in a civilian facility” are omitted as surplusage.
 
 #### Prior Provisions
 

@@ -26,7 +26,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3) of this se
 
 &emsp;(iii) the fact that benefits under the plan may be payable to certain employees before normal retirement age shall be disregarded; and
 
-&emsp;(iv) social security benefits and all other relevant factors used to compute benefits shall be treated as remaining constant as of the current year for all years after the current year.
+&emsp;(iv) social security benefits and all other relevant factors used to compute benefits shallbe treated as remaining constant as of the current year for all years after the current year.
 
 (C) A defined benefit plan satisfies the requirements of this paragraph if the accrued benefit to which any participant is entitled upon his separation from the service is not less than a fraction of the annual benefit commencing at normal retirement age to which he would be entitled under the plan as in effect on the date of his separation if he continued to earn annually until normal retirement age the same rate of compensation upon which his normal retirement benefit would be computed under the plan, determined as if he had attained normal retirement age on the date any such determination is made (but taking into account no more than the 10 years of service immediately preceding his separation from service). Such fraction shall be a fraction, not exceeding 1, the numerator of which is the total number of his years of participation in the plan (as of the date of his separation from the service) and the denominator of which is the total number of years he would have participated in the plan if he separated from the service at the normal retirement age. For purposes of this subparagraph, social security benefits and all other relevant factors used to compute benefits shall be treated as remaining constant as of the current year for all years after such current year.
 
@@ -64,7 +64,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3) of this se
 
 > The preceding provisions of this clause shall apply in accordance with regulations of the Secretary of the Treasury. Such regulations may provide for the application of the preceding provisions of this clause, in the case of any such employee, with respect to any period of time within a plan year.
 
-(iv) Clause (i) shall not apply with respect to any employee who is a highly compensated employee (within the meaning of section 414(q) of title 26) to the extent provided in regulations prescribed by the Secretary of the Treasury for purposes of precluding discrimination in favor of highly compensated employees within the meaning of subchapter D of chapter 1 of title 26.
+(iv) Clause (i) shall not apply with respect to any employee who is a highly compensated employee (within the meaning of section 414(q) of title 26) to the extent provided in regulations prescribed by the Secretary of the Treasury for purposes of precluding discrimination in favor ofhighly compensated employees within the meaning of subchapter D of chapter 1 of title 26.
 
 (v) A plan shall not be treated as failing to meet the requirements of clause (i) solely because the subsidized portion of any early retirement benefit is disregarded in determining benefit accruals.
 
@@ -116,7 +116,7 @@ Defined benefit plans.—In the case of a defined benefit plan, the accrued bene
 
 &emsp;&emsp;(I) at the rate of 120 percent of the Federal mid-term rate (as in effect under section 1274 of title 26 for the 1st month of a plan year for the period beginning with the 1st plan year to which subsection (a)(2) of this section applies by reason of the applicable effective date) and ending with the date on which the determination is being made, and
 
-&emsp;&emsp;(II) at the interest rate which would be used under the plan under section 1055(g)(3) of this title (as of the determination date)for the period beginning with the determination date and ending on the date on which the employee attains normal retirement age.
+&emsp;&emsp;(II) at the interest rate which would be used under the plan under section 1055(g)(3) of this title (as of the determination date) for the period beginning with the determination date and ending on the date on which the employee attains normal retirement age.
 
 > For purposes of this subparagraph, the term “mandatory contributions” means amounts contributed to the plan by the employee which are required as a condition of employment, as a condition of participation in such plans, or as a condition of obtaining benefits under the plan attributable to employer contributions.
 
@@ -170,7 +170,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;(B) employee stock ownership plan (as defined in section 4975(e)(7) of title 26),
 
-> shall not be treated as failing to meet the requirements of this subsection merely because itmodifies distribution options in a nondiscriminatory manner.
+> shall not be treated as failing to meet the requirements of this subsection merely because it modifies distribution options in a nondiscriminatory manner.
 
 #### (h) Notice of significant reduction in benefit accruals
 

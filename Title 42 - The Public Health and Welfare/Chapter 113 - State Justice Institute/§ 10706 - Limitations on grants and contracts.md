@@ -18,7 +18,7 @@ No funds made available by the Institute under this chapter, either by grant, co
 
 #### (c) Authority coextensive with appropriation Acts
 
-The authorization to enter into cooperative agreements, contracts or any other obligation under this chapter shall be effective only to theextent, and in such amounts, as are provided in advance in appropriation Acts.
+The authorization to enter into cooperative agreements, contracts or any other obligation under this chapter shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts.
 
 #### (d) Prohibited uses of funds
 

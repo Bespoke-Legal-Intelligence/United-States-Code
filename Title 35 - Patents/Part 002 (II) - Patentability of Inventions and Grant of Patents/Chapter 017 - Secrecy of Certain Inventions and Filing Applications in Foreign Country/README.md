@@ -20,7 +20,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 368 of this title; title 42 sections 2457, 5908.
+This chapter is referred to in sections 122, 368 of this title; title 42 sections 2457, 5908.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

@@ -86,5 +86,5 @@ Provisions respecting administration, management and consolidation of certain na
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 869–4, 1181d, 1181e, 1181f–4, 1181g, 1181i, 1735, 1752 of this title; title 16 sections 521a, 4804; title 30 sections 601, 603.
+This section is referred to in sections 869–4, 1181d, 1181e, 1181f–4, 1181g, 1181i, 1735, 1752 of this title; title 16 section 521a; title 30 sections 601, 603.
 

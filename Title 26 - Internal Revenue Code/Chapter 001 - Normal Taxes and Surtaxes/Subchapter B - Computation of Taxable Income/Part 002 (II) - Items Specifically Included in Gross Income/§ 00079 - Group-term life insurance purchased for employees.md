@@ -116,7 +116,7 @@ For purposes of this section and section 6052, the cost of group-term insurance 
 
 For purposes of this section, the term “employee” includes a former employee.
 
-(Added Pub. L. 88–272, title II, §204(a)(1), Feb. 26, 1964, 78 Stat. 36; amended Pub. L. 89–97, title I, §106(d)(3), July 30, 1965, 79 Stat. 337; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title II, §244(a), Sept. 3, 1982, 96 Stat. 523; Pub. L. 98–369, div. A, title II, §223(a), (b), July 18, 1984, 98 Stat. 775; Pub. L. 99–514, title XI, §1151(c)(1), title XVIII, §1827(a)(1), (c), (d), Oct. 22, 1986, 100 Stat. 2503, 2850, 2851; Pub. L. 100–647, title V, §5013(a), Nov. 10, 1988, 102 Stat. 3666; Pub. L. 101–140, title II, §203(a)(1), (b)(1)(A), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–508, title XI, §11703(e)(1), Nov. 5, 1990, 104 Stat. 1388–517.)
+(Added Pub. L. 88–272, title II, §204(a)(1), Feb. 26, 1964, 78 Stat. 36; amended Pub. L. 89–97, title I,§106(d)(3), July 30, 1965, 79 Stat. 337; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title II, §244(a), Sept. 3, 1982, 96 Stat. 523; Pub. L. 98–369, div. A, title II, §223(a), (b), July 18, 1984, 98 Stat. 775; Pub. L. 99–514, title XI, §1151(c)(1), title XVIII, §1827(a)(1), (c), (d), Oct. 22, 1986, 100 Stat. 2503, 2850, 2851; Pub. L. 100–647, title V, §5013(a), Nov. 10, 1988, 102 Stat. 3666; Pub. L. 101–140, title II, §203(a)(1), (b)(1)(A), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–508, title XI, §11703(e)(1), Nov. 5, 1990, 104 Stat. 1388–517.)
 
 #### Amendments
 
@@ -124,7 +124,7 @@ For purposes of this section, the term “employee” includes a former employee
 
 1989—Subsec. (d). Pub. L. 101–140, §203(a)(1), amended subsec. (d) to read as if amendments by Pub. L. 99–514, §1151(c)(1), had not been enacted, see 1986 Amendment note below.
 
-Subsec. (d)(7). Pub. L. 101–140, §203(b)(1)(A), amended par. (7) generally. Prior to amendment, par. (7) read asfollows: “All employees who are treated as employed by a single employer under subsection (b), (c), or (m) of section 414 shall be treated as employed by a single employer for purposes of this section.”
+Subsec. (d)(7). Pub. L. 101–140, §203(b)(1)(A), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “All employees who are treated as employed by a single employer under subsection (b), (c), or (m) of section 414 shall be treated as employed by a single employer for purposes of this section.”
 
 1988—Subsec. (c). Pub. L. 100–647 struck out at end “In the case of an employee who has attained age 64, the cost prescribed shall not exceed the cost with respect to such individual if he were age 63.”
 
@@ -194,7 +194,7 @@ Exception for certain group-term insurance plans.—In the case of a plan descri
 
 “(4)
 
-Special rule for church plans.—In the case of a church plan (within the meaning of section 414(e)(3) of the Internal Revenue Code of 1986) maintaining an insured accident and health plan, the amendments made by this section \[enacting section 89 of this title and amending this section and sections 105, 106, 117, 120, 125, 127, 129, 132, 414, 505, 6039D, and 6652 of this title\] shall apply to years beginning after December 31, 1988.
+Special rule for church plans.—In the case of a church plan (within the meaning of section 414(e)(3) of the Internal Revenue Code of 1986) maintaining an insured accident and health plan, the amendments made by this section \[enacting section 89 of this title and amending this section and sections 105, 106, 117, 120, 125,127, 129, 132, 414, 505, 6039D, and 6652 of this title\] shall apply to years beginning after December 31, 1988.
 
 “(5)
 

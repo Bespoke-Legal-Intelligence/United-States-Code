@@ -6,11 +6,11 @@ The purpose of this subchapter is to assist States, Indian tribal governments, a
 
 #### (b) Purposes for which grants may be used
 
-Grants under this subchapter shall provide personnel, training, technical assistance, data collection and other equipment for the more widespread apprehension, prosecution, and adjudication of persons committing violent crimes against women, and specifically, for the purposes of—
+Grants under this subchapter shall provide personnel, training, technical assistance, datacollection and other equipment for the more widespread apprehension, prosecution, and adjudication of persons committing violent crimes against women, and specifically, for the purposes of—
 
 &emsp;(1) training law enforcement officers and prosecutors to more effectively identify and respond to violent crimes against women, including the crimes of sexual assault and domestic violence;
 
-&emsp;(2) developing, training, or expanding units of law enforcement officers and prosecutorsspecifically targeting violent crimes against women, including the crimes of sexual assault and domestic violence;
+&emsp;(2) developing, training, or expanding units of law enforcement officers and prosecutors specifically targeting violent crimes against women, including the crimes of sexual assault and domestic violence;
 
 &emsp;(3) developing and implementing more effective police and prosecution policies, protocols, orders, and services specifically devoted to preventing, identifying, and responding to violent crimes against women, including the crimes of sexual assault and domestic violence;
 

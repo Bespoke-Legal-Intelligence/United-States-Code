@@ -6,11 +6,11 @@ The Regents are authorized to solicit and receive subscriptions of funds from pr
 
 #### (b) Construction of building
 
-The Regents may, subject to the approval of the President, authorize the preparation of the site and the construction of the building, including approaches and landscaping of the grounds: <i>Provided</i>, That the Administrator of General Services shall supervise the preparation of the plans and specifications, make all necessary contracts, and supervise construction.
+The Regents may, subject to the approval of the President, authorize the preparation of thesite and the construction of the building, including approaches and landscaping of the grounds: <i>Provided</i>, That the Administrator of General Services shall supervise the preparation of the plans and specifications, make all necessary contracts, and supervise construction.
 
 #### (c) Name of building; supervision and control
 
-The name of the building shall be the Smithsonian Gallery of Art (hereinafter referred to asthe “Gallery”), and it shall be under the supervision and control of the Regents and the Secretary of the Smithsonian Institution.
+The name of the building shall be the Smithsonian Gallery of Art (hereinafter referred to as the “Gallery”), and it shall be under the supervision and control of the Regents and the Secretary of the Smithsonian Institution.
 
 (May 17, 1938, ch. 238, §3, 52 Stat. 400; 1939 Reorg. Plan No. I, §§301, 303, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, 1427; June 30, 1949, ch. 288, title I, §103, 63 Stat. 380.)
 

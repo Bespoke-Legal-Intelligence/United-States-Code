@@ -1,6 +1,6 @@
 ### §2575a. Inquiry point
 
-The standards information center maintained under section 2544 of this title shall, in addition to the functions specified therein, make available to the public relevant documents, at such reasonable fees as the Secretary of Commerce may prescribe, and information regarding—
+The standards information center maintained under section 2544 of this title shall, in addition to the functions specified therein, make available to the public relevant documents, at suchreasonable fees as the Secretary of Commerce may prescribe, and information regarding—
 
 &emsp;(1) any sanitary or phytosanitary measure of general application, including any control or inspection procedure or approval procedure proposed, adopted, or maintained by a Federal or State agency;
 

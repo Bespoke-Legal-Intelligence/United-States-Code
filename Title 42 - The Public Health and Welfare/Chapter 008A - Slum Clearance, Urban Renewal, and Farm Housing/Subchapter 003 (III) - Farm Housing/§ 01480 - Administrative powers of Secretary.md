@@ -78,7 +78,7 @@ Subsec. (d). Pub. L. 100–628 inserted before semicolon at end “; except tha
 
 1984—Subsec. (e). Pub. L. 98–479 substituted “; such” and “; where” for “. Such” and “. Where”, respectively.
 
-1983—Subsec. (e). Pub. L. 98–181, §507(a), inserted provisions relating to the authority of the Secretary totransfer section 1472 inventory property to private nonprofit organizations or public bodies.
+1983—Subsec. (e). Pub. L. 98–181, §507(a), inserted provisions relating to the authority of the Secretary to transfer section 1472 inventory property to private nonprofit organizations or public bodies.
 
 Subsecs. (j), (k). Pub. L. 98–181, §507(b), added subsec. (j) and redesignated former subsec. (j) as (k).
 

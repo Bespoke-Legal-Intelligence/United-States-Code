@@ -48,7 +48,7 @@ As used in this subchapter:
 
 Special rule.—(i) Any outlays in excess of the discretionary spending limit set forth in section 901(c) of this title for the highway or mass transit category, as adjusted, for the budget year shall be considered nondefense category outlays or discretionary category outlays.
 
-&emsp;(ii) If the obligation limitations for accounts in the highway or mass transit category provided in an appropriation Act for a fiscal year exceed the obligation limitations set forth in section 8103 of the Transportation Equity Actfor the 21st Century for that year, as adjusted, the estimated outlays flowing for each outyear from such excess obligations calculated pursuant to clause (iii) shall be attributed to the discretionary category in that outyear.
+&emsp;(ii) If the obligation limitations for accounts in the highway or mass transit category provided in an appropriation Act for a fiscal year exceed the obligation limitations set forth in section 8103 of the Transportation Equity Act for the 21st Century for that year, as adjusted, the estimated outlays flowing for each outyear from such excess obligations calculated pursuant to clause (iii) shall be attributed to the discretionary category in that outyear.
 
 &emsp;(iii) For purposes of clause (ii), outlays from excess obligations shall be determined using the average of the spendout rates for that category in the baseline.
 
@@ -184,7 +184,7 @@ Section 275 of title II of Pub. L. 99–177, as amended by Pub. L. 100–119, ti
 
 In General.—
 
-&emsp;“(1) Except as provided in paragraph (2) and in subsections (b) and (c), this title and the amendments made by this title \[see Short Title note below\] shallbecome effective on the date of the enactment of this title \[Dec. 12, 1985\] and shall apply with respect to fiscal years beginning after September 30, 1985.
+&emsp;“(1) Except as provided in paragraph (2) and in subsections (b) and (c), this title and the amendments made by this title \[see Short Title note below\] shall become effective on the date of the enactment of this title \[Dec. 12, 1985\] and shall apply with respect to fiscal years beginning after September 30, 1985.
 
 &emsp;“(2)(A) The amendment made by section 201(a)(2) \[amending section 622(2) of this title\], and the amendment made by section 201(b) \[ ( \] insofar as it relates to subsections (c), (f), and (g) of section 302 of the Congressional Budget Act of 1974 \[section 633(c), (f), and (g) of this title\] and to subsections (c), (d), and (g) of section 310 of that Act \[section 641(c), (d), and (g) of this title\]), shall become effective April 15, 1986.
 
@@ -222,7 +222,7 @@ Section 10201 of title X of Pub. L. 105–33 provided that: “The purpose of th
 
 #### Restriction on Elimination or Reduction of Programs Relating to Energy and Water Development
 
-Pub. L. 102–377, title V, §503, Oct. 2, 1992, 106 Stat. 1342, provided that: “None of the programs, projects or activities as defined in the reports accompanying this Act or subsequent Energy and Water Development Appropriations Acts, may be eliminated or disproportionately reduced due to the application of ‘Savings and Slippage’, ‘general reduction’, or the provision of Public Law 99–177 \[see Short Title note above\] or Public Law 100–119 \[see section 213 of Pub. L. 100–119 set out below\] unless such reports expressly provide otherwise.”
+Pub. L. 102–377, title V, §503, Oct. 2, 1992, 106 Stat. 1342, provided that: “None of the programs, projects or activities as defined in the reports accompanying this Act or subsequent Energy and Water Development Appropriations Acts, may be eliminated or disproportionately reduced due to the application of ‘Savings andSlippage’, ‘general reduction’, or the provision of Public Law 99–177 \[see Short Title note above\] or Public Law 100–119 \[see section 213 of Pub. L. 100–119 set out below\] unless such reports expressly provide otherwise.”
 
 #### Waivers and Suspensions in the Senate
 
@@ -398,7 +398,7 @@ The Balanced Budget and Emergency Deficit Control Act of 1985 (see Short Title n
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 633, 661a of this title; title 50 App. section 1989b–9.
+This section is referred to in sections 633, 661a of this title; title 45 section 821; title 50 App. section 1989b–9.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

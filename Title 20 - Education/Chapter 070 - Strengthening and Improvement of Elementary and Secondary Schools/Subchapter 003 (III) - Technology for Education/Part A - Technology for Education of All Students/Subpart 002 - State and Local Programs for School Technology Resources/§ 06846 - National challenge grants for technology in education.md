@@ -40,7 +40,7 @@ Section 6814(b)(1) of this title, referred to in subsec. (a)(1), was in the orig
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6814 of this title.
+This section is referred to in sections 5891b, 6814 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ For purposes of this Act, the terms “independent states of the former Soviet U
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Short Title of 1993 Amendment
 
@@ -72,7 +72,7 @@ Findings and Affirmation.—The Congress finds and affirms that provisions such 
 
 &emsp;“(7) provisions in the Immigration and Nationality Act (8 U.S.C. 1101 et seq.), including sections 101(a)(40), 101(e)(3), and 313(a)(3) \[8 U.S.C. 1101(a)(40), (e)(3), 1424(a)(3)\],
 
-&emsp;“(8) section 2 of the joint resolution entitled ‘A joint resolution to promote peace and stability in theMiddle East’, approved March 9, 1957 (Public Law 85–7) \[22 U.S.C. 1961 et seq.\], and
+&emsp;“(8) section 2 of the joint resolution entitled ‘A joint resolution to promote peace and stability in the Middle East’, approved March 9, 1957 (Public Law 85–7) \[22 U.S.C. 1961 et seq.\], and
 
 &emsp;“(9) section 43 of the Bretton Woods Agreements Act (22 U.S.C. 286aa),
 
@@ -84,7 +84,7 @@ Pub. L. 103–199, §3, Dec. 17, 1993, 107 Stat. 2318, provided that: “As used
 
 #### Act Referred to in Other Sections
 
-The Freedom for Russian and Emerging Eurasian Democracies and Open Markets Support Act of 1992, also known as the FREEDOM Support Act, is referred to in sections 2421d, 5958 of this title.
+The Freedom for Russian and Emerging Eurasian Democracies and Open Markets Support Act of 1992, also known as the FREEDOM Support Act, is referred to in sections 2296e, 2421d, 5958 of this title.
 
 #### Section Referred to in Other Sections
 

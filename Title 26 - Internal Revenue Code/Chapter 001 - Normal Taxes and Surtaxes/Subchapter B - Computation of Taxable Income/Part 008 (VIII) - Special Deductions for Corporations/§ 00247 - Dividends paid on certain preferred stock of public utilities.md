@@ -58,7 +58,7 @@ The Internal Revenue Code of 1939, referred to in subsec. (b)(2)(D), is act Feb.
 
 1978—Subsec. (a)(2)(B). Pub. L. 95–600 substituted “the highest rate of tax specified in section 11(b)” for “the sum of the normal tax rate and the surtax rate for the taxable year specified in section 11”.
 
-1976—Subsec. (b)(2). Pub. L. 94–455 divided existing provisions into subpars. (A), (B), (C), and (D), added headings for subpars. (A), (B), (C), and (D), and, in subpar. (C) as so redesignated, substituted “prescribed bythe Secretary” for “prescribed by the Secretary or his delegate”.
+1976—Subsec. (b)(2). Pub. L. 94–455 divided existing provisions into subpars. (A), (B), (C), and (D), added headings for subpars. (A), (B), (C), and (D), and, in subpar. (C) as so redesignated, substituted “prescribed by the Secretary” for “prescribed by the Secretary or his delegate”.
 
 #### Effective Date of 1978 Amendment
 

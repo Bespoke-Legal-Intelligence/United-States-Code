@@ -30,7 +30,7 @@
 
 &emsp;(1) the debtor is generally not paying such debtor's debts as such debts become due unless such debts are the subject of a bona fide dispute; or
 
-&emsp;(2) within 120 days before the date of the filing of the petition, a custodian, other than a trustee, receiver, or agent appointed or authorized to take charge of less than substantially all of the property of the debtor for the purpose of enforcing a lien against such property, was appointed or took possession.
+&emsp;(2) within 120 days before the date of the filing of the petition, a custodian, other than a trustee, receiver, or agent appointed or authorized to take charge of less than substantially all of the property of the debtor for thepurpose of enforcing a lien against such property, was appointed or took possession.
 
 (i) If the court dismisses a petition under this section other than on consent of all petitioners and the debtor, and if the debtor does not waive the right to judgment under this subsection, the court may grant judgment—
 
@@ -82,7 +82,7 @@ Subsection (b) of the section specifies who may file an involuntary petition. As
 
 Subsection (c) permits creditors other than the original petitioning creditors to join in the petition with the same effect as if the joining creditor had been one of the original petitioning creditors. Thus, if the claim of one of the original petitioning creditors is disallowed, the case will not be dismissed for want of three creditors or want of $5,000 in petitioning claims if the joining creditor suffices to fulfill the statutory requirements.
 
-Subsection (d) permits the debtor to file an answer to an involuntary petition. The subsection also permits a general partner in a partnership debtor to answer an involuntary petition against the partnership if he did not join in the petition. Thus, a partnership petition by less than all of the general partners is treated as an involuntary, not a voluntary, petition.
+Subsection (d) permits the debtor to file an answer to an involuntary petition. The subsection also permits a general partner in a partnership debtor to answer aninvoluntary petition against the partnership if he did not join in the petition. Thus, a partnership petition by less than all of the general partners is treated as an involuntary, not a voluntary, petition.
 
 The court may, under subsection (e), require the petitioners to file a bond to indemnify the debtor for such amounts as the court may later allow under subsection (i). Subsection (i) provides for costs, attorneys fees, and damages in certain circumstances. The bonding requirement will discourage frivolous petitions as well as spiteful petitions based on a desire to embarrass the debtor (who may be a competitor of a petitioning creditor) or to put the debtor out of business without good cause. An involuntary petition may put a debtor out of business even if it is without foundation and is later dismissed.
 
@@ -92,7 +92,7 @@ The court may also, under subsection (g), appoint an interim trustee to take pos
 
 Subsection (h) provides the standard for an order for relief on an involuntary petition. If the petition is not timely controverted (the Rules of Bankruptcy Procedure will fix time limits), the court orders relief after a trial, only if the debtor is generally unable to pay its debts as they mature, or if the debtor has failed to pay a major portion of his debts as they become due, or if a custodian was appointed during the 90-day period preceding the filing of the petition. The first two tests are variations of the equity insolvency test. They represent the most significant departure from present law concerning the grounds for involuntary bankruptcy, which requires an act of bankruptcy. Proof of the commission of an act of bankruptcy has frequently required a showing that the debtor was insolvent on a “balance-sheet” test when the act was committed. This bill abolishes the concept of acts of bankruptcy.
 
-The equity insolvency test has been in equity jurisprudence for hundreds of years, and though it is new in the bankruptcy context (except in chapter X \[chapter 10 of former title 11\]), the bankruptcy courts should have no difficulty in applying it. The third test, appointment of a custodian within ninety days before the petition, is provided for simplicity. It is not a partial re-enactment of acts of bankruptcy. If a custodian of all or substantially all of the property of the debtor has been appointed, this paragraph creates an irrebuttable presumption that the debtor is unable to pay its debtsas they mature. Moreover, once a proceeding to liquidate assets has been commenced, the debtor's creditors have an absolute right to have the liquidation (or reorganization) proceed in the bankruptcy court and under the bankruptcy laws with all of the appropriate creditor and debtor protections that those laws provide. Ninety days gives creditors ample time in which to seek bankruptcy liquidation after the appointment of a custodian. If they wait beyond the ninety day period, they are not precluded from filing an involuntary petition. They are simply required to prove equity insolvency rather than the more easily provable custodian test.
+The equity insolvency test has been in equity jurisprudence for hundreds of years, and though it is new in the bankruptcy context (except in chapter X \[chapter 10 of former title 11\]), the bankruptcy courts should have no difficulty in applying it. The third test, appointment of a custodian within ninety days before the petition, is provided for simplicity. It is not a partial re-enactment of acts of bankruptcy. If a custodian of all or substantially all of the property of the debtor has been appointed, this paragraph creates an irrebuttable presumption that the debtor is unable to pay its debts as they mature. Moreover, once a proceeding to liquidate assets has been commenced, the debtor's creditors have an absolute right to have the liquidation (or reorganization) proceed in the bankruptcy court and under the bankruptcy laws with all of the appropriate creditor and debtor protections that those laws provide. Ninety days gives creditors ample time in which to seek bankruptcy liquidation after the appointment of a custodian. If they wait beyond the ninety day period, they are not precluded from filing an involuntary petition. They are simply required to prove equity insolvency rather than the more easily provable custodian test.
 
 Subsection (i) permits the court to award costs, reasonable attorney's fees, or damages if an involuntary petition is dismissed other than by consent of all petitioning creditors and the debtor. The damages that the court may award are those that may be caused by the taking of possession of the debtor's property under subsection (g) or section 1104 of the bankruptcy code. In addition, if a petitioning creditor filed the petition in bad faith, the court may award the debtor any damages proximately caused by the filing of the petition. These damages may include such items as loss of business during and after the pendency of the case, and so on. “Or” is not exclusive in this paragraph. The court may grant any or all of the damages provided for under the provision. Dismissal in the best interests of credits under section 305(a)(1) would not give rise to a damages claim.
 
@@ -130,13 +130,17 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Effective date and applicability of amendment by section 204 of Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
-Amendment by section 254 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554.
+Amendment by section 254 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to casescommenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554.
 
 Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554.
 
 #### Effective Date of 1984 Amendment
 
 Amendment by sections 426(a) and 427 of Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, and amendment by section 426(b) of Pub. L. 98–353 effective July 10, 1984, see section 552(a), (b) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+#### Adjustment of Dollar Amounts
+
+For adjustment of dollar amounts specified in subsec. (b)(1), (2) of this section by the Judicial Conference of the United States, effective Apr. 1, 1998, see note set out under section 104 of this title.
 
 #### Section Referred to in Other Sections
 

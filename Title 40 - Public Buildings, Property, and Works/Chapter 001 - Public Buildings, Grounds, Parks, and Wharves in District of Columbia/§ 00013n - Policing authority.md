@@ -20,7 +20,7 @@ The Marshal of the Supreme Court and the Supreme Court Police shall have authori
 
 #### (b) Authority of Metropolitan police force of the District of Columbia
 
-The Metropolitan police force of the District of Columbia are <sup>1</sup> authorized to make arrests within the Supreme Court Building and grounds for any violations of any such laws or regulations, but such authority shall not be construed as authorizing the Metropolitan Police force, except with the consent or upon the request of the Marshal of the Supreme Court or his assistants, to enter the Supreme Court Building to make arrests in response to complaints or to serve warrants or to patrol the Supreme Court Building or grounds.
+The Metropolitan police force of the District of Columbia are <sup>1</sup> hereby authorized to make arrests within the Supreme Court Building and grounds for any violations of any such laws or regulations, but such authority shall not be construed as authorizing the Metropolitan Police force, except with the consent or upon the request of the Marshal of the Supreme Court or his assistants, to enter the Supreme Court Building to make arrests in response to complaints or to serve warrants or to patrol the Supreme Court Building or grounds.
 
 #### (c) Termination of authority; reporting requirements; duties with respect to an official guest of Supreme Court
 

@@ -90,7 +90,7 @@ In the case of gain realized by a shareholder with respect to his stock in a col
 
 &emsp;(3) to gain realized after the expiration of 3 years following the completion of such manufacture, construction, production, or purchase.
 
-> For purposes of paragraph (1), the ownership of stock shall be determined in accordance with the rules prescribed in paragraphs (1), (2), (3), (5), and (6) of section 544(a) (relating to personal holding companies); except that, in addition to the persons prescribed by paragraph (2) of that section, the family of an individual shall include the spouses of that individual's brothers and sisters (whether by the whole or half blood) and the spouses of that individual's lineal descendants. In determining whether property is described in subsection (b)(1) for purposes of applying paragraph (2), all property described in section 1221(1) shall, to the extent provided in regulations prescribed by the Secretary, be treated as one item of property.
+> For purposes of paragraph (1), the ownership of stock shall be determined in accordance with the rules prescribed in paragraphs (1), (2), (3), (5), and (6) of section 544(a) (relating to personal holding companies); except that, in addition to the persons prescribed by paragraph (2) of that section, the family of an individual shall include the spouses of that individual's brothers and sisters (whether by the whole or half blood) and the spouses of that individual's lineal descendants. In determining whether property is described in subsection (b)(1) for purposes of applying paragraph (2), all property described in section 1221(a)(1) shall, to the extent provided in regulations prescribed by the Secretary, be treated as one item of property.
 
 #### (e) Exceptions to application of section
 
@@ -120,7 +120,7 @@ In the case of gain realized by a shareholder with respect to his stock in a col
 
 &emsp;&emsp;&emsp;(ii) property used in the trade or business (as defined in paragraph (9)), but only if the unrealized depreciation on all such property on which there is unrealized depreciation exceeds the unrealized appreciation on all such property on which there is unrealized appreciation;
 
-&emsp;&emsp;&emsp;(iii) if there is net unrealized appreciation on all property used in the trade orbusiness (as defined in paragraph (9)), property used in the trade or business (as defined in paragraph (9)) which, in the hands of a shareholder who owns more than 20 percent in value of the outstanding stock of the corporation, would be property gain from the sale or exchange of which would under any provision of this chapter be considered in whole or in part as ordinary income; and
+&emsp;&emsp;&emsp;(iii) if there is net unrealized appreciation on all property used in the trade or business (as defined in paragraph (9)), property used in the trade or business (as defined in paragraph (9)) which, in the hands of a shareholder who owns more than 20 percent in value of the outstanding stock of the corporation, would be property gain from the sale or exchange of which would under any provision of this chapter be considered in whole or in part as ordinary income; and
 
 &emsp;&emsp;&emsp;(iv) property (unless included under clause (i), (ii), or (iii)) which consists of a copyright, a literary, musical, or artistic composition, a letter or memorandum, or similar property, or any interest in any such property, if the property was created in whole or in part by the personal efforts of, or (in the case of a letter, memorandum, or similar property) was prepared, or produced in whole or in part for, any individual who owns more than 5 percent in value of the stock of the corporation.
 
@@ -130,7 +130,7 @@ In the case of gain realized by a shareholder with respect to his stock in a col
 
 #### (6) Net unrealized appreciation defined
 
-&emsp;&emsp;(A) For purposes of this subsection, the term “net unrealized appreciation” means, with respect to the assets of a corporation, the amount by which—
+&emsp;&emsp;(A) For purposes of this subsection, the term “net unrealized appreciation” means,with respect to the assets of a corporation, the amount by which—
 
 &emsp;&emsp;&emsp;(i) the unrealized appreciation in such assets on which there is unrealized appreciation, exceeds
 
@@ -190,7 +190,7 @@ In the case of gain realized by a shareholder with respect to his stock in a col
 
 #### (11) Corporations and shareholders not meeting requirements
 
-&emsp;In determining whether or not any corporation is a collapsible corporation within themeaning of subsection (b), the fact that such corporation, or such corporation with respect to any of its shareholders, does not meet the requirements of paragraph (1), (2), (3), or (4) of this subsection shall not be taken into account, and such determination, in the case of a corporation which does not meet such requirements, shall be made as if this subsection had not been enacted.
+&emsp;In determining whether or not any corporation is a collapsible corporation within the meaning of subsection (b), the fact that such corporation, or such corporation with respect to any of its shareholders, does not meet the requirements of paragraph (1), (2), (3), or (4) of this subsection shall not be taken into account, and such determination, in the case of a corporation which does not meet such requirements, shall be made as if this subsection had not been enacted.
 
 #### (12) Nonapplication of section 1245(a), etc.
 
@@ -204,7 +204,7 @@ In the case of gain realized by a shareholder with respect to his stock in a col
 
 #### (2) Recognition of gain
 
-&emsp;Except as provided in paragraph (3), if a subsection (f) asset (as defined in paragraph (4)) is disposed of at any time by a consenting corporation (or, if paragraph (3) applies, by a transferee corporation), then the amount by which—
+&emsp;Except as provided in paragraph (3), if a subsection (f) asset (as defined in paragraph (4)) isdisposed of at any time by a consenting corporation (or, if paragraph (3) applies, by a transferee corporation), then the amount by which—
 
 &emsp;&emsp;(A) in the case of a sale, exchange, or involuntary conversion, the amount realized, or
 
@@ -242,7 +242,7 @@ In the case of gain realized by a shareholder with respect to his stock in a col
 
 #### (6) Special rule for stock ownership in other corporations
 
-&emsp;If a corporation (hereinafter in this paragraph referred to as “owning corporation”) owns 5 percent or more in value of the outstanding stock of another corporation on the date of any sale of stock of the owning corporation during a 6-month period with respect to which a consent under paragraph (1) was filed by the owning corporation, such consent shall not be valid with respect to such sale unless such other corporation has (within the 6-month period ending on the date of such sale) filed a valid consent under paragraph (1) with respect to sales of its stock. For purposes of applying paragraph (4) to such other corporation, a sale of stock of the owning corporation to which paragraph (1) applies shall be treated as a sale of stock of such other corporation. In the case of a chain of corporations connected by the 5-percent ownership requirements ofthis paragraph, rules similar to the rules of the two preceding sentences shall be applied.
+&emsp;If a corporation (hereinafter in this paragraph referred to as “owning corporation”) owns 5 percent or more in value of the outstanding stock of another corporation on the date of any sale of stock of the owning corporation during a 6-month period with respect to which a consent under paragraph (1) was filed by the owning corporation, such consent shall not be valid with respect to such sale unless such other corporation has (within the 6-month period ending on the date of such sale) filed a valid consent under paragraph (1) with respect to sales of its stock. For purposes of applying paragraph (4) to such other corporation, a sale of stock of the owning corporation to which paragraph (1) applies shall be treated as a sale of stock of such other corporation. In the case of a chain of corporations connected by the 5-percent ownership requirements of this paragraph, rules similar to the rules of the two preceding sentences shall be applied.
 
 #### (7) Adjustments to basis
 
@@ -256,9 +256,11 @@ In the case of gain realized by a shareholder with respect to his stock in a col
 
 &emsp;&emsp;(B) paragraph (3) shall not apply if the transferee is a foreign corporation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 107; Pub. L. 85–866, title I, §20(a), Sept. 2, 1958, 72 Stat. 1615; Pub. L. 87–834, §13(f)(4), Oct. 16, 1962, 76 Stat. 1035; Pub. L. 88–272, title II, §231(b)(4), Feb. 26, 1964, 78 Stat. 105; Pub. L. 88–484, §1(a), Aug. 22, 1964, 78 Stat. 596; Pub. L. 89–570, §1(b)(4), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title II, §211(b)(4), title V, §514(b)(1), Dec. 30, 1969, 83 Stat. 570, 643; Pub. L. 94–455, title II, §205(c)(2), title XIV, §1402(b)(1)(B), (2), title XIX, §§1901(b)(3)(A), (I), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1731, 1732, 1792, 1793, 1834; Pub. L. 97–34, title V, §505(c)(2), Aug. 13, 1981, 95 Stat. 332; Pub. L. 97–248, title II, §222(e)(5), Sept. 3, 1982, 96 Stat. 480; Pub. L. 98–369, div. A, title I, §§43(c)(1), 65(a)–(c), 135(a), title IV, §492(b)(2), title X, §1001(b)(2), (e), July 18, 1984, 98 Stat. 558, 584, 669, 854, 1011, 1012; Pub. L. 99–514, title VI, §631(e)(6), title XVIII, §§1804(i)(1), 1899A(8), Oct. 22, 1986, 100 Stat. 2273, 2807, 2958; Pub. L. 100–647, title I, §1006(e)(18), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 104–188, title I, §1702(h)(7), Aug. 20, 1996, 110 Stat. 1874.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 107; Pub. L. 85–866, title I, §20(a), Sept. 2, 1958, 72 Stat. 1615; Pub. L. 87–834, §13(f)(4), Oct. 16, 1962, 76 Stat. 1035; Pub. L. 88–272, title II, §231(b)(4), Feb. 26, 1964, 78 Stat. 105; Pub. L. 88–484, §1(a), Aug. 22, 1964, 78 Stat. 596; Pub. L. 89–570, §1(b)(4), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title II, §211(b)(4), title V, §514(b)(1), Dec. 30, 1969, 83 Stat. 570, 643; Pub. L. 94–455, title II, §205(c)(2), title XIV, §1402(b)(1)(B), (2), title XIX, §§1901(b)(3)(A), (I), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1731, 1732, 1792, 1793, 1834; Pub. L. 97–34, title V, §505(c)(2), Aug. 13, 1981, 95 Stat. 332; Pub. L. 97–248, title II, §222(e)(5), Sept. 3, 1982, 96 Stat. 480; Pub. L. 98–369, div. A, title I, §§43(c)(1), 65(a)–(c), 135(a), title IV, §492(b)(2), title X, §1001(b)(2), (e), July 18, 1984, 98 Stat. 558, 584, 669, 854, 1011, 1012; Pub. L. 99–514, title VI, §631(e)(6), title XVIII, §§1804(i)(1), 1899A(8), Oct. 22, 1986, 100 Stat. 2273, 2807, 2958; Pub. L. 100–647,title I, §1006(e)(18), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 104–188, title I, §1702(h)(7), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 106–170, title V, §532(c)(2)(D), Dec. 17, 1999, 113 Stat. 1930.)
 
 #### Amendments
+
+1999—Subsec. (d). Pub. L. 106–170, which directed amendment of par. (3) by substituting “section 1221(a)(1)” for “section 1221(1)”, was executed by making the substitution in concluding provisions of subsec. (d) to reflect the probable intent of Congress.
 
 1996—Subsec. (f)(3). Pub. L. 104–188 substituted “351, or 361” for “351, 361, 371(a), or 374(a)”.
 
@@ -316,6 +318,10 @@ Subsec. (f). Pub. L. 88–484 added subsection (f).
 
 1958—Subsec. (e). Pub. L. 85–866 added subsec. (e).
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
@@ -338,7 +344,7 @@ Section 65(d) of Pub. L. 98–369 provided that: “The amendments made by this 
 
 Section 135(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
 
-Amendment by section 492(b)(2) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 492(d) of Pub. L. 98–369, set out as a note under section 170 of this title.
+Amendment by section 492(b)(2) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983,see section 492(d) of Pub. L. 98–369, set out as a note under section 170 of this title.
 
 Amendment by section 1001(b)(2) of Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, see section 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
 

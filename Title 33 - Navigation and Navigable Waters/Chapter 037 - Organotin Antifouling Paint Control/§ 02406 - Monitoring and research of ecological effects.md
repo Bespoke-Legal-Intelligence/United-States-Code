@@ -10,7 +10,7 @@ The Secretary shall provide for periodic monitoring, not less than quarterly, of
 
 #### (c) Navy research of ecological effects
 
-The Secretary shall continue existing Navy programs evaluating the laboratory toxicity and environmental risks associated with the use of antifouling paints containing organotin.
+The Secretary shall continue existing Navy programs evaluating the laboratory toxicity andenvironmental risks associated with the use of antifouling paints containing organotin.
 
 #### (d) Assistance to States
 
@@ -34,7 +34,7 @@ At the end of the 5-year period beginning on June 16, 1988, the Administrator sh
 
 #### Navy Program To Monitor Ecological Effects of Organotin
 
-Pub. L. 104–201, div. A, title III, §333, Sept. 23, 1996, 110 Stat. 2485, provided that:
+Pub. L. 104–201, div. A, title III, §333, Sept. 23, 1996, 110 Stat. 2485, as amended by Pub. L. 106–65, div. A, title X, §1067(5), Oct. 5, 1999, 113 Stat. 774, provided that:
 
 “(a)
 
@@ -46,7 +46,7 @@ Funding.—The Administrator of the Environmental Protection Agency shall provid
 
 “(c)
 
-Written Agreement.—The Secretary of the Navy and the Administrator of the Environmental Protection Agency shall enter into a written agreement setting forth the actions that the Secretary plans to take under subsection (a) and the funding that the Administrator agrees to provide under subsection (b). If the Secretary determines that the Administrator will not enter into such an agreement, the Secretary shall notify the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] and the Committee on Armed Services of the Senate not later than 30 days after such determination.
+Written Agreement.—The Secretary of the Navy and the Administrator of the Environmental Protection Agency shall enter into a written agreement setting forth the actions that the Secretary plans to take under subsection (a) and the funding that the Administrator agrees to provide under subsection (b). If the Secretary determines that the Administrator will not enter into such an agreement, the Secretary shall notify the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate not later than 30 days after such determination.
 
 “(d)
 

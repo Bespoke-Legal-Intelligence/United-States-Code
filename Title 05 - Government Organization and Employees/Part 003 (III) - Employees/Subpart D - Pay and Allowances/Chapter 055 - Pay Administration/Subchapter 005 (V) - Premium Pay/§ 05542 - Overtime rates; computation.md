@@ -54,7 +54,7 @@
 
 &emsp;(2) the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay under section 5545b(b)(1)(A) or (c)(1)(B), as applicable, and such overtime hourly rate of pay may not be less than such hourly rate of basic pay in applying the limitation on the overtime rate provided in paragraph (2) of such subsection (a).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(24), Sept. 11, 1967, 81 Stat. 200; Pub. L. 90–206, title II, §222(a), Dec. 16, 1967, 81 Stat. 641; Pub. L. 90–556, §1, Oct. 10, 1968, 82 Stat. 969; Pub. L. 92–194, Dec. 15, 1971, 85 Stat. 648; Pub. L. 98–473, title I, §101(c) \[title III, §322\], Oct. 12, 1984, 98 Stat. 1837, 1874; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §210(1), title IV, §410(a)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1460, 1468; Pub. L. 102–378, §2(41), Oct. 2, 1992, 106 Stat. 1352; Pub. L. 103–329, title VI, §633(c), Sept. 30, 1994, 108 Stat. 2427; Pub. L. 104–52, title V, §531, Nov. 19, 1995, 109 Stat. 496; Pub. L. 105–277, div. A, title I, §101(b) \[title IV, §407(c)(2)\], (h) \[title VI, §628(a)(1)\], div. G, title XXIII, §2316(c)(2), Oct. 21, 1998, 112 Stat. 2681–50, 2681–102, 2681–480, 2681–519, 2681–829.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(24), Sept. 11, 1967, 81 Stat. 200; Pub. L. 90–206, title II, §222(a), Dec. 16, 1967, 81 Stat. 641; Pub. L. 90–556, §1, Oct. 10, 1968, 82 Stat. 969; Pub. L. 92–194, Dec. 15, 1971, 85 Stat. 648; Pub. L. 98–473, title I, §101(c) \[title III, §322\], Oct. 12, 1984, 98 Stat. 1837, 1874; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §210(1), title IV, §410(a)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1460, 1468; Pub. L. 102–378, §2(41), Oct. 2, 1992, 106 Stat. 1352; Pub. L. 103–329, title VI, §633(c), Sept. 30, 1994, 108 Stat. 2427; Pub. L. 104–52, title V, §531, Nov. 19, 1995, 109 Stat. 496; Pub. L. 105–277, div. A, §101(b) \[title IV, §407(c)(2)\], (h) \[title VI, §628(a)(1)\], div. G, subdiv. B, title XXIII, §2316(c)(2), Oct. 21, 1998, 112 Stat. 2681–50, 2681–102, 2681–480, 2681–519, 2681–829.)
 
 Historical and Revision Notes<br>1966
 
@@ -130,7 +130,7 @@ Subsec. (f). Pub. L. 105–277, §101(h) \[title VI, §628(a)(1)\], added subsec
 
 Subsec. (c). Pub. L. 102–378, §2(41)(B), amended second sentence generally. Prior to amendment, second sentence read as follows: “In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work.”
 
-1990—Subsec. (a). Pub. L. 101–509, §529 \[title I, §101(b)(3)(E)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rateof pay under section 5305 or similar provision of law)” after “GS–10” wherever appearing.
+1990—Subsec. (a). Pub. L. 101–509, §529 \[title I, §101(b)(3)(E)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–10” wherever appearing.
 
 Subsec. (a)(4). Pub. L. 101–509, §529 \[title IV, §410(a)\], added par. (4).
 
@@ -146,7 +146,7 @@ Subsec. (c). Pub. L. 101–509, §529 \[title II, §210(1)\], added subsec. (c).
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. A, title I, §101(b) \[title IV, §407(d)\], div. G, title XXIII, §2316(d), Oct. 21, 1998, 112 Stat. 2681–50, 2681–102, 2681–829, provided that: “The amendments made by this section \[amending this section and section 5545a of this title\] shall take effect on the first day of the first applicable pay period—
+Pub. L. 105–277, div. A, §101(b) \[title IV, §407(d)\], div. G, subdiv. B, title XXIII, §2316(d), Oct. 21, 1998, 112 Stat. 2681–50, 2681–102, 2681–829, provided that: “The amendments made by this section \[amending this section and section 5545a of this title\] shall take effect on the first day of the first applicable pay period—
 
 &emsp;“(1) which begins on or after the 90th day following the date of the enactment of this Act \[Oct. 21, 1998\]; and
 

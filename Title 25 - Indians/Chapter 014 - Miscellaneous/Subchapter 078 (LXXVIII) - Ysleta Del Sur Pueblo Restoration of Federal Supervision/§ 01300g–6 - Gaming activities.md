@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-All gaming activities which are prohibited by the laws of the State of Texas are hereby prohibited on the reservation and on lands of the tribe. Any violation of the prohibition provided in this subsection shall be subject to the same civil and criminal penalties that are provided by the laws of the State of Texas. The provisions of this subsection are enacted in accordance with the tribe's request in Tribal Resolution No. T.C.–02–86 which was approved and certified on March 12, 1986.
+All gaming activities which are prohibited by the laws of the State of Texas are hereby prohibited on the reservation and on lands of the tribe. Any violation of the prohibition provided in this subsection shall be subject to the same civil and criminal penalties that are provided by the lawsof the State of Texas. The provisions of this subsection are enacted in accordance with the tribe's request in Tribal Resolution No. T.C.–02–86 which was approved and certified on March 12, 1986.
 
 #### (b) No State regulatory jurisdiction
 

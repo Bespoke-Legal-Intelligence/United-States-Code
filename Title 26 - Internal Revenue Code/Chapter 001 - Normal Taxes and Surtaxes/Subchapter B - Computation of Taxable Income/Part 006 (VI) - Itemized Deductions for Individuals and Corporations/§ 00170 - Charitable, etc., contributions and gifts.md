@@ -72,7 +72,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of charitable contributions (other than charitable contributions towhich subparagraph (A) applies) of capital gain property, the total amount of such contributions of such property taken into account under subsection (a) for any taxable year shall not exceed the lesser of—
+&emsp;&emsp;&emsp;In the case of charitable contributions (other than charitable contributions to which subparagraph (A) applies) of capital gain property, the total amount of such contributions of such property taken into account under subsection (a) for any taxable year shall not exceed the lesser of—
 
 &emsp;&emsp;&emsp;&emsp;(I) 20 percent of the taxpayer's contribution base for the taxable year, or
 
@@ -176,7 +176,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 #### (1) General rule
 
-&emsp;The amount of any charitable contribution of property otherwise taken into account under this section shall be reduced by the sum of—
+&emsp;The amount of any charitable contribution of property otherwise taken into accountunder this section shall be reduced by the sum of—
 
 &emsp;&emsp;(A) the amount of gain which would not have been long-term capital gain if the property contributed had been sold by the taxpayer at its fair market value (determined at the time of such contribution), and
 
@@ -198,7 +198,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 #### (A) Qualified contributions
 
-&emsp;&emsp;For purposes of this paragraph, a qualified contribution shall mean a charitable contribution of property described in paragraph (1) or (2) of section 1221, by a corporation (other than a corporation which is an S corporation) to an organization which is described in section 501(c)(3) and is exempt under section 501(a) (other than a private foundation, as defined in section 509(a), which is not an operating foundation, as defined in section 4942(j)(3)), but only if—
+&emsp;&emsp;For purposes of this paragraph, a qualified contribution shall mean a charitable contribution of property described in paragraph (1) or (2) of section 1221(a), by a corporation (other than a corporation which is an S corporation) to an organization which is described in section 501(c)(3) and is exempt under section 501(a) (other than a private foundation, as defined in section 509(a), which is not an operating foundation, as defined in section 4942(j)(3)), but only if—
 
 &emsp;&emsp;&emsp;(i) the use of the property by the donee is related to the purpose or function constituting the basis for its exemption under section 501 and the property is to be used by the donee solely for the care of the ill, the needy, or infants;
 
@@ -226,7 +226,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 #### (B) Qualified research contributions
 
-&emsp;&emsp;For purposes of this paragraph, the term “qualified research contribution” means a charitable contribution by a corporation of tangible personal property described in paragraph (1) of section 1221, but only if—
+&emsp;&emsp;For purposes of this paragraph, the term “qualified research contribution” means a charitable contribution by a corporation of tangible personal property described in paragraph (1) of section 1221(a), but only if—
 
 &emsp;&emsp;&emsp;(i) the contribution is to an organization described in subparagraph (A) or subparagraph (B) of section 41(e)(6),
 
@@ -240,7 +240,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 &emsp;&emsp;&emsp;(vi) the property is not transferred by the donee in exchange for money, other property, or services, and
 
-&emsp;&emsp;&emsp;(vii) the taxpayer receives from the donee a written statement representing that its use and disposition of the property will be in accordance with the provisions of clauses (v) and (vi).
+&emsp;&emsp;&emsp;(vii) the taxpayer receives from the donee a written statement representingthat its use and disposition of the property will be in accordance with the provisions of clauses (v) and (vi).
 
 #### (C) Construction of property by taxpayer
 
@@ -330,7 +330,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 #### (i) Computer technology or equipment
 
-&emsp;&emsp;&emsp;The term “computer technology or equipment” means computer software (as defined by section 197(e)(3)(B)), computer or peripheral equipment (as defined by section 168(i)(2)(B)), and fiber optic cable related to computer use.
+&emsp;&emsp;&emsp;The term “computer technology or equipment” means computer software (asdefined by section 197(e)(3)(B)), computer or peripheral equipment (as defined by section 168(i)(2)(B)), and fiber optic cable related to computer use.
 
 #### (ii) Corporation
 
@@ -446,6 +446,84 @@ For purposes of this section, the term “charitable contribution” means a con
 
 &emsp;No deduction shall be allowed under this section for a contribution to an organization which conducts activities to which section 162(e)(1) applies on matters of direct financial interest to the donor's trade or business, if a principal purpose of the contribution was to avoid Federal income tax by securing a deduction for such activities under this section which would be disallowed by reason of section 162(e) if the donor had conducted such activities directly. No deduction shall be allowed under section 162(a) for any amount for which a deduction is disallowed under the preceding sentence.
 
+#### (10) Split-dollar life insurance, annuity, and endowment contracts
+
+#### (A) In general
+
+&emsp;&emsp;Nothing in this section or in section 545(b)(2), 556(b)(2), 642(c), 2055, 2106(a)(2), or 2522 shall be construed to allow a deduction, and no deduction shall be allowed, for any transfer to or for the use of an organization described in subsection (c) if in connection with such transfer—
+
+&emsp;&emsp;&emsp;(i) the organization directly or indirectly pays, or has previously paid, any premium on any personal benefit contract with respect to the transferor, or
+
+&emsp;&emsp;&emsp;(ii) there is an understanding or expectation that any person will directly or indirectly pay any premium on any personal benefit contract with respect to the transferor.
+
+#### (B) Personal benefit contract
+
+&emsp;&emsp;For purposes of subparagraph (A), the term “personal benefit contract” means, with respect to the transferor, any life insurance, annuity, or endowment contract if any direct or indirect beneficiary under such contract is the transferor, any member of the transferor's family, or any other person (other than an organization described in subsection (c)) designated by the transferor.
+
+#### (C) Application to charitable remainder trusts
+
+&emsp;&emsp;In the case of a transfer to a trust referred to in subparagraph (E), references in subparagraphs (A) and (F) to an organization described in subsection (c) shall be treated as a reference to such trust.
+
+#### (D) Exception for certain annuity contracts
+
+&emsp;&emsp;If, in connection with a transfer to or for the use of an organization described in subsection (c), such organization incurs an obligation to pay a charitable gift annuity (as defined in section 501(m)) and such organization purchases any annuity contract to fund such obligation, persons receiving payments under the charitable gift annuity shall not be treated for purposes of subparagraph (B) as indirect beneficiaries under such contract if—
+
+&emsp;&emsp;&emsp;(i) such organization possesses all of the incidents of ownership under such contract,
+
+&emsp;&emsp;&emsp;(ii) such organization is entitled to all the payments under such contract, and
+
+&emsp;&emsp;&emsp;(iii) the timing and amount of payments under such contract are substantially the same as the timing and amount of payments to each such person under such obligation (as such obligation is in effect at the time of such transfer).
+
+#### (E) Exception for certain contracts held by charitable remainder trusts
+
+&emsp;&emsp;A person shall not be treated for purposes of subparagraph (B) as an indirect beneficiary under any life insurance, annuity, or endowment contract held by a charitable remainder annuity trust or a charitable remainder unitrust (as defined in section 664(d)) solely by reason of being entitled to any payment referred to in paragraph (1)(A) or (2)(A) of section 664(d) if—
+
+&emsp;&emsp;&emsp;(i) such trust possesses all of the incidents of ownership under such contract, and
+
+&emsp;&emsp;&emsp;(ii) such trust is entitled to all the payments under such contract.
+
+#### (F) Excise tax on premiums paid
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;There is hereby imposed on any organization described in subsection (c) an excise tax equal to the premiums paid by such organization on any life insurance, annuity, or endowment contract if the payment of premiums on such contract is in connection with a transfer for which a deduction is not allowable under subparagraph (A), determined without regard to when such transfer is made.
+
+#### (ii) Payments by other persons
+
+&emsp;&emsp;&emsp;For purposes of clause (i), payments made by any other person pursuant to an understanding or expectation referred to in subparagraph (A) shall be treated as made by the organization.
+
+#### (iii) Reporting
+
+&emsp;&emsp;&emsp;Any organization on which tax is imposed by clause (i) with respect to any premium shall file an annual return which includes—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount of such premiums paid during the year and the name and TIN of each beneficiary under the contract to which the premium relates, and
+
+&emsp;&emsp;&emsp;&emsp;(II) such other information as the Secretary may require.
+
+&emsp;&emsp;&nbsp;The penalties applicable to returns required under section 6033 shall apply to returns required under this clause. Returns required under this clause shall be furnished at such time and in such manner as the Secretary shall by forms or regulations require.
+
+#### (iv) Certain rules to apply
+
+&emsp;&emsp;&emsp;The tax imposed by this subparagraph shall be treated as imposed by chapter 42 for purposes of this title other than subchapter B of chapter 42.
+
+#### (G) Special rule where State requires specification of charitable gift annuitant in contract
+
+&emsp;&emsp;In the case of an obligation to pay a charitable gift annuity referred to in subparagraph (D) which is entered into under the laws of a State which requires, in order for the charitable gift annuity to be exempt from insurance regulation by such State, that each beneficiary under the charitable gift annuity be named as a beneficiary under an annuity contract issued by an insurance company authorized to transact business in such State, the requirements of clauses (i) and (ii) of subparagraph (D) shall be treated as met if—
+
+&emsp;&emsp;&emsp;(i) such State law requirement was in effect on February 8, 1999,
+
+&emsp;&emsp;&emsp;(ii) each such beneficiary under the charitable gift annuity is a bona fide resident of such State at the time the obligation to pay a charitable gift annuity is entered into, and
+
+&emsp;&emsp;&emsp;(iii) the only persons entitled to payments under such contract are persons entitled to payments as beneficiaries under such obligation on the date such obligation is entered into.
+
+#### (H) Member of family
+
+&emsp;&emsp;For purposes of this paragraph, an individual's family consists of the individual's grandparents, the grandparents of such individual's spouse, the lineal descendants of such grandparents, and any spouse of such a lineal descendant.
+
+#### (I) Regulations
+
+&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this paragraph, including regulations to prevent the avoidance of such purposes.
+
 #### (g) Amounts paid to maintain certain students as members of taxpayer's household
 
 #### (1) In general
@@ -552,7 +630,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), in the case of a contribution of any interest where there is a retention of a qualified mineral interest, subparagraph (A) shall not be treated as met if at any time there may be extraction or removal of minerals by any surface mining method.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), in the case of a contribution of any interest where there is a retention of a qualified mineral interest, subparagraph (A) shall not be treated as met if at any time theremay be extraction or removal of minerals by any surface mining method.
 
 #### (ii) Special rule
 
@@ -576,7 +654,7 @@ No deduction shall be allowed under this section for traveling expenses (includi
 
 #### (k) Disallowance of deductions in certain cases
 
-&emsp;&emsp;<b>For disallowance of deductions for contributions to or for the use of communist controlled organiza</b><b>tions, see section 11(a) </b><b><sup>1</sup></b> of the Internal Security Act of 1950 (50 U.S.C. 790).
+&emsp;&emsp;<b>For disallowance of deductions for contributions to or for the use of communist controlled organizations, see section 11(a) </b><b><sup>1</sup></b> of the Internal Security Act of 1950 (50 U.S.C. 790).
 
 #### (<i>l</i>) Treatment of certain amounts paid to or for the benefit of institutions of higher education
 
@@ -618,7 +696,7 @@ No deduction shall be allowed under this section for traveling expenses (includi
 
 &emsp;&emsp;<b>(9) For charitable contributions to or for the use of Indian tribal governments (or their subdivisions), see section 7871.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 58; Aug. 7, 1956, ch. 1031, §1, 70 Stat. 1117; Pub. L. 85–866, title I, §§10(a), 11, 12(a), Sept. 2, 1958, 72 Stat. 1609, 1610; Pub. L. 86–779, §7(a), Sept. 14, 1960, 74 Stat. 1002; Pub. L. 87–834, §13(d), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 87–858, §2(a), (b), Oct. 23, 1962, 76 Stat. 1134; Pub. L. 88–272, title II, §§209(a), (b), (c)(1), (d)(1), (e), 231(b)(1), Feb. 26, 1964, 78 Stat. 43, 45–47, 105; Pub. L. 89–570, §1(b)(1), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title I, §101(j)(2), title II, §201(a)(1), (2)(A), (h)(1), Dec. 30, 1969, 83 Stat. 526, 549, 558, 565; Pub. L. 94–455, title II, §205(c)(1)(A), title X, §1052(c)(2), title XIII, §§1307(c), (d)(1)(B)(i), 1313(b)(1), title XIX, §§1901(a)(28), (b)(8)(A), 1906(b)(13)(A), title XXI, §§2124(e)(1), 2135(a), Oct. 4, 1976, 90 Stat. 1535, 1648, 1726, 1727, 1730, 1768, 1794, 1834, 1919, 1928; Pub. L. 95–30, title III, §309(a), May 23, 1977, 91 Stat. 154; Pub. L. 95–600, title IV, §§402(b)(2), 403(c)(1), Nov. 6, 1978, 92 Stat. 2868; Pub. L. 96–465, title II, §2206(e)(2), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 96–541, §6(a), (b), Dec. 17, 1980, 94 Stat. 3206; Pub. L. 97–34, title I, §121(a), title II, §§222(a), 263(a), Aug. 13, 1981, 95 Stat. 196, 248, 264; Pub. L. 97–248, title II, §286(b)(1), Sept. 3, 1982, 96 Stat. 570; Pub. L. 97–258, §3(f)(1), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 97–354, §5(a)(21), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–448, title I, §102(f)(7), Jan. 12, 1983, 96 Stat. 2372; Pub. L. 97–473, title II, §202(b)(4), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–369, div. A, title I, §174(b)(5)(A), title III, §301(a)–(c), title IV, §492(b)(1), title X, §§1022(b), 1031(a), 1032(b)(1), 1035(a), July 18, 1984, 98 Stat. 707, 777, 778, 854, 1028, 1033, 1042; Pub. L. 99–514, title I, §142(d), title II, §231(f), title III, §301(b)(2), title XVIII, §1831, Oct. 22, 1986, 100 Stat. 2120, 2180, 2217, 2851; Pub. L. 100–203, title X, §10711(a)(1), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title VI, §6001(a), Nov. 10, 1988, 102 Stat. 3683; Pub. L. 101–508, title XI, §§11801(a)(11), (c)(5), 11813(b)(10), Nov. 5, 1990, 104 Stat. 1388–520, 1388–523, 1388–554; Pub. L. 103–66, title XIII, §§13172(a), 13222(b), Aug. 10, 1993, 107 Stat. 455, 479; Pub. L. 104–188, title I, §§1206(a), 1316(b), Aug. 20, 1996, 110 Stat. 1776, 1786; Pub. L. 105–34, title II, §224(a), title V, §508(d), title VI, §602(a), title IX, §973(a), Aug. 5, 1997, 111 Stat. 818, 860, 862, 898; Pub. L. 105–206, title VI, §6004(e), July 22, 1998, 112 Stat. 795; Pub. L. 105–277, div. J, title I, §1004(a)(1), Oct. 21, 1998, 112 Stat. 2681–888.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 58; Aug. 7, 1956, ch. 1031, §1, 70 Stat. 1117; Pub. L. 85–866, title I, §§10(a), 11, 12(a), Sept. 2, 1958, 72 Stat. 1609, 1610; Pub. L. 86–779, §7(a), Sept. 14, 1960, 74 Stat. 1002; Pub. L. 87–834, §13(d), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 87–858, §2(a), (b), Oct. 23, 1962, 76 Stat. 1134; Pub. L. 88–272, title II, §§209(a), (b), (c)(1), (d)(1), (e), 231(b)(1), Feb. 26, 1964, 78 Stat. 43, 45–47, 105; Pub. L. 89–570, §1(b)(1), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title I, §101(j)(2), title II, §201(a)(1), (2)(A), (h)(1), Dec. 30, 1969, 83 Stat. 526, 549, 558, 565; Pub. L. 94–455, title II, §205(c)(1)(A), title X, §1052(c)(2), title XIII, §§1307(c), (d)(1)(B)(i), 1313(b)(1), title XIX, §§1901(a)(28), (b)(8)(A), 1906(b)(13)(A), title XXI, §§2124(e)(1), 2135(a), Oct. 4, 1976, 90 Stat. 1535, 1648, 1726, 1727, 1730, 1768, 1794, 1834, 1919, 1928; Pub. L. 95–30, title III, §309(a), May 23, 1977, 91 Stat. 154; Pub. L. 95–600, title IV, §§402(b)(2), 403(c)(1), Nov. 6, 1978, 92 Stat. 2868; Pub. L. 96–465, title II, §2206(e)(2), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 96–541, §6(a), (b), Dec. 17, 1980, 94 Stat. 3206; Pub. L. 97–34, title I, §121(a), title II, §§222(a), 263(a), Aug. 13, 1981, 95 Stat. 196, 248, 264; Pub. L. 97–248, title II, §286(b)(1), Sept. 3, 1982, 96 Stat. 570; Pub. L. 97–258, §3(f)(1), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 97–354, §5(a)(21), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–448, title I, §102(f)(7), Jan. 12, 1983, 96 Stat. 2372; Pub. L. 97–473, title II, §202(b)(4), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–369, div. A, title I, §174(b)(5)(A), title III, §301(a)–(c), title IV, §492(b)(1), title X, §§1022(b), 1031(a), 1032(b)(1), 1035(a), July 18, 1984, 98 Stat. 707, 777, 778, 854, 1028, 1033, 1042; Pub. L. 99–514, title I, §142(d), title II, §231(f), title III, §301(b)(2), title XVIII, §1831, Oct. 22, 1986, 100 Stat. 2120, 2180, 2217, 2851; Pub. L. 100–203, title X, §10711(a)(1), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title VI, §6001(a), Nov. 10, 1988, 102 Stat. 3683; Pub. L. 101–508, title XI, §§11801(a)(11), (c)(5), 11813(b)(10), Nov. 5, 1990, 104 Stat. 1388–520,1388–523, 1388–554; Pub. L. 103–66, title XIII, §§13172(a), 13222(b), Aug. 10, 1993, 107 Stat. 455, 479; Pub. L. 104–188, title I, §§1206(a), 1316(b), Aug. 20, 1996, 110 Stat. 1776, 1786; Pub. L. 105–34, title II, §224(a), title V, §508(d), title VI, §602(a), title IX, §973(a), Aug. 5, 1997, 111 Stat. 818, 860, 862, 898; Pub. L. 105–206, title VI, §6004(e), July 22, 1998, 112 Stat. 795; Pub. L. 105–277, div. J, title I, §1004(a)(1), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §§532(c)(1)(A), (B), 537(a), Dec. 17, 1999, 113 Stat. 1930, 1936.)
 
 #### References in Text
 
@@ -629,6 +707,10 @@ Section 11(a) of the Internal Security Act of 1950 (50 U.S.C. 790), referred to 
 Section 25 of the State Department Basic Authorities Act of 1956, referred to in subsec. (m)(7), is classified to section 2697 of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+1999—Subsec. (e)(3)(A), (4)(B). Pub. L. 106–170, §532(c)(1)(A), (B), substituted “section 1221(a)” for “section 1221”.
+
+Subsec. (f)(10). Pub. L. 106–170, §537(a), added par. (10).
 
 1998—Subsec. (e)(5)(D). Pub. L. 105–277 struck out heading and text of subpar. (D). Text read as follows: “This paragraph shall not apply to contributions made—
 
@@ -804,7 +886,7 @@ Subsec. (g). Pub. L. 91–172, §201(a)(2)(A), substituted “subsection (d)(1)�
 
 Subsec. (h). Pub. L. 91–172, §201(a)(1)(A), redesignated subsec. (d) as (h). Former subsec. (h) redesignated (i).
 
-Subsec. (i). Pub. L. 91–172, §§101(j)(2), 201(a)(1)(A), redesignated former subsec. (h) as (i), struck out par. (1)covering disallowance of deductions for gifts to charitable organizations engaging in prohibited transactions, and removed the par. (2) designation from the provisions covering disallowance of deductions for use of communist controlled organizations. Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 91–172, §§101(j)(2), 201(a)(1)(A), redesignated former subsec. (h) as (i), struck out par. (1) covering disallowance of deductions for gifts to charitable organizations engaging in prohibited transactions, and removed the par. (2) designation from the provisions covering disallowance of deductions for use of communist controlled organizations. Former subsec. (i) redesignated (j).
 
 Subsec. (j). Pub. L. 91–172, §201(a)(1)(A), redesignated former subsec. (i) as (j).
 
@@ -842,6 +924,24 @@ Subsec. (b)(4). Pub. L. 85–866, §12, added par. (4).
 
 International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of Title 22, Foreign Relations and Intercourse. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22.
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–170, title V, §532(d), Dec. 17, 1999, 113 Stat. 1931, provided that: “The amendments made by this section \[amending this section and sections 198, 263A, 267, 341, 367, 475, 543, 751, 775, 818, 856, 857, 864, 865, 871, 954, 988, 995, 1017, 1092, 1221, 1231, 1234, 1256, 1362, 1397B, 4662, and 7704 of this title\] shall apply to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after the date of the enactment of this Act \[Dec. 17, 1999\].”
+
+Pub. L. 106–170, title V, §537(b), Dec. 17, 1999, 113 Stat. 1938, provided that:
+
+“(1)
+
+In general.—Except as otherwise provided in this section \[amending this section\], the amendment made by this section shall apply to transfers made after February 8, 1999.
+
+“(2)
+
+Excise tax.—Except as provided in paragraph (3) of this subsection, section 170(f)(10)(F) of the Internal Revenue Code of 1986 (as added by this section) shall apply to premiums paid after the date of the enactment of this Act \[Dec. 17, 1999\].
+
+“(3)
+
+Reporting.—Clause (iii) of such section 170(f)(10)(F) shall apply to premiums paid after February 8, 1999 (determined as if the tax imposed by such section applies to premiums paid after such date).”
+
 #### Effective Date of 1998 Amendments
 
 Pub. L. 105–277, div. J, title I, §1004(a)(2), Oct. 21, 1998, 112 Stat. 2681–888, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to contributions made after June 30, 1998.”
@@ -852,7 +952,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 Section 224(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
-Section 508(e)(2) of Pub. L. 105–34 provided that: “The amendments made by subsections (c) and (d) \[amending this section and section 2032A of this title\] shall apply to easements granted after December 31, 1997.”
+Section 508(e)(2) of Pub. L. 105–34 provided that: “The amendments made by subsections (c) and (d) \[amendingthis section and section 2032A of this title\] shall apply to easements granted after December 31, 1997.”
 
 Section 602(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to contributions made after May 31, 1997.”
 
@@ -894,7 +994,7 @@ Section 10711(c) of Pub. L. 100–203 provided that: “The amendments made by t
 
 Amendment by section 142(d) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
-Amendment by section 231(f) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1985, seesection 231(g) of Pub. L. 99–514, set out as a note under section 41 of this title.
+Amendment by section 231(f) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1985, see section 231(g) of Pub. L. 99–514, set out as a note under section 41 of this title.
 
 Amendment by section 301(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 301(c) of Pub. L. 99–514, set out as a note under section 62 of this title.
 
@@ -978,7 +1078,7 @@ Section 2135(b) of Pub. L. 94–455 provided that: “The amendment made by this
 
 #### Effective Date of 1969 Amendment
 
-Amendment by section 101(j)(2) of Pub. L. 91–172 to take effect on Jan. 1, 1970, see section 101(k)(1) of Pub.L. 91–172, set out as an Effective Date note under section 4940 of this title.
+Amendment by section 101(j)(2) of Pub. L. 91–172 to take effect on Jan. 1, 1970, see section 101(k)(1) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
 
 Section 201(g) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
@@ -1210,7 +1310,7 @@ Transfers to charitable uses deductible from gross estate, see section 2106 of t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 21, 41, 67, 74, 79, 108, 117, 119, 125, 151, 152, 162, 163, 381, 401, 410, 467, 501, 507, 508, 509, 512, 513, 514, 535, 545, 556, 584, 642, 664, 674, 677, 702, 703, 773, 805, 873, 882, 1011, 1255, 1257, 1361, 1398, 1441, 2031, 2032A, 2055, 2056, 2057, 2503, 4041, 4221, 4253, 4911, 4940, 4941, 4942, 4944, 4945, 4947, 4948, 5214, 6033, 6050L, 6113, 6115, 6664, 7428, 7611, 7701, 7871 of this title; title 2 section 439a; title 11 section 548; title 12 section 3015; title 15 sections 80a–3, 80a–3a; title 16 sections 410yy–8, 1246, 1285; title 20 sections 954, 956; title 22 sections 3307, 4341, 4603; title 23 section 133; title 29 sections 1002, 1052; title 42 sections 2996b, 10702.
+This section is referred to in sections 21, 41, 67, 74, 79, 108, 117, 119, 125, 151, 152, 162, 163, 381, 401, 410, 467, 501, 507, 508, 509, 512, 513, 514, 535, 545, 556, 584, 642, 664, 674, 677, 702, 703, 773, 805, 873, 882, 1011, 1255, 1257, 1361, 1398, 1441, 2031, 2032A, 2055, 2056, 2057, 2503, 4041, 4221, 4253, 4911, 4940, 4941, 4942, 4944, 4945, 4947, 4948, 5214, 6033, 6050L, 6113, 6115, 6664, 7428, 7611, 7701, 7871 of this title; title 2 section 439a; title 11 section 548; title 12 section 3015; title 15 sections 80a–3, 80a–3a; title 16 sections 410yy–8, 1246, 1285; title 20 sections 954, 956; title 22 sections 3307, 4341, 4603; title 23 section 133; title 29 sections 1002, 1052; title 40 section 207c–2; title 42 sections 2996b, 10702.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Disclosure prohibited; exceptions
 
-(1) No disclosure of any return or portion of a return (including information returns and other written statements) filed with the Commissioner of Internal Revenue under title VIII of the Social Security Act \[42 U.S.C. 1001 et seq.\] or under subchapter E of chapter 1 or subchapter A of chapter 9 of the Internal Revenue Code \[of 1939\], or under regulations made under authority thereof, which has been transmitted to the head of the applicable agency by the Commissioner of Internal Revenue, or of any file, record, report, or other paper, or any information, obtained at any time by the head of the applicable agency or by any officer or employee of the applicable agency in the course of discharging the duties of the head of the applicable agency under this chapter, and no disclosure of any such file, record, report, or other paper, or information, obtained at any time by any person from the head of the applicable agency or from any officer or employee of the applicable agency, shall be made except as the head of the applicable agency may by regulations prescribe and except as otherwise provided by Federal law. Any person who shall violate any provision of this section shall be deemed guilty of a felony and, upon conviction thereof, shall be punished by a fine not exceeding $10,000 for each occurrence of a violation, or by imprisonment not exceeding 5 years, or both.
+(1) No disclosure of any return or portion of a return (including information returns and other written statements) filed with the Commissioner of Internal Revenue under title VIII of the Social Security Act or under subchapter E of chapter 1 or subchapter A of chapter 9 of the Internal Revenue Code \[of 1939\], or under regulations made under authority thereof, which has been transmitted to the head of the applicable agency by the Commissioner of Internal Revenue, or of any file, record, report, or other paper, or any information, obtained at any time by the head of the applicable agency or by any officer or employee of the applicable agency in the course of discharging the duties of the head of the applicable agency under this chapter, and no disclosure of any such file, record, report, or other paper, or information, obtained at any time by any person from the head of the applicable agency or from any officer or employee of the applicable agency, shall be made except as the head of the applicable agency may by regulations prescribe and except as otherwise provided by Federal law. Any person who shall violate any provision of this section shall be deemed guilty of a felony and, upon conviction thereof, shall be punished by a fine not exceeding $10,000 for each occurrence of a violation, or by imprisonment not exceeding 5 years, or both.
 
 (2) For purposes of this subsection and subsection (b) of this section, the term “applicable agency” means—
 
@@ -46,7 +46,7 @@ No report described in subsection (e) of this section shall be made public by th
 
 #### References in Text
 
-Title VIII of the Social Security Act, referred to in subsec. (a), was classified to subchapter VIII (§1001 et seq.) of this chapter, and has been omitted from the Code as superseded by the provisions of the Internal Revenue Code of 1939 and the Internal Revenue Code of 1986.
+Title VIII of the Social Security Act, referred to in subsec. (a)(1), probably refers to former title VIII of the Act, which was classified to subchapter VIII (§1001 et seq.) of this chapter prior to its omission from the Code as superseded by the provisions of the Internal Revenue Code of 1939 and the Internal Revenue Code of 1986.
 
 Subchapter E of chapter 1 and subchapter A of chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (a), were comprised of sections 480 to 482 and 1400 to 1432, respectively, and were repealed (subject to certain exceptions) by section 7851(a)(1)(A), (3) of Title 26, Internal Revenue Code of 1954 (act Aug. 16, 1954, ch. 736, 68A Stat. 3). The I.R.C. 1954 was redesignated I.R.C. 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.
 
@@ -62,7 +62,7 @@ Subchapter XIX of this chapter, referred to in subsecs. (e) and (f), is classifi
 
 1994—Subsec. (a). Pub. L. 103–296, §313(a), in par. (1), substituted “felony” for “misdemeanor”, “$10,000 for each occurrence of a violation” for “$1,000”, and “5 years” for “one year”.
 
-Pub. L. 103–296, §108(b)(2), designated existing provisions as par. (1), substituted “head of the applicable agency” for “Secretary” wherever appearing and “employee of the applicable agency” for “employee of the Department of Health and Human Services” in two places, and added par. (2).
+Pub. L. 103–296, §108(b)(2), designated existing provisions as par. (1), substituted “head of the applicable agency” for “Secretary” wherever appearing and “employee of the applicable agency” for “employee of theDepartment of Health and Human Services” in two places, and added par. (2).
 
 Subsec. (b). Pub. L. 103–296, §108(b)(3), substituted “head of the applicable agency” for “Secretary” wherever appearing and “applicable agency which” for “Department of Health and Human Services which”.
 
@@ -130,7 +130,7 @@ Section 249C(b) of Pub. L. 92–603 provided that: “The provisions of subsecti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1382 of this title; title 26 section 6103.
+This section is referred to in sections 1306b, 1382 of this title; title 26 section 6103.
 
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(f)”.</i>
 

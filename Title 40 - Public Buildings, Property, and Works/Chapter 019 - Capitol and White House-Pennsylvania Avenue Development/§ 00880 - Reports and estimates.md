@@ -6,7 +6,7 @@ The Corporation shall transmit to the President and the Congress, annually each 
 
 #### (b) Estimate of additional necessary funds through fiscal year 1990
 
-Within six months after October 31, 1983, the Corporation shall transmit to the Congress an estimate, for each fiscal year, of the additional funds which will be necessary for the Corporation to carry out the development plan through the fiscal year 1990. Such estimate shall include a detailed statement of the projects and other expenditures for which such funds are proposed to be used, together with an estimate of the projected costs thereof.
+Within six months after October 31, 1983, the Corporation shall transmit to the Congress an estimate, for each fiscal year, of the additional funds which will be necessary for the Corporation to carry out the development plan throughthe fiscal year 1990. Such estimate shall include a detailed statement of the projects and other expenditures for which such funds are proposed to be used, together with an estimate of the projected costs thereof.
 
 #### (c) Protection and enhancement of significant historic and architectural values
 

@@ -8,7 +8,7 @@ In this chapter:
 
 &emsp;&emsp;(A) procurement of architectural or engineering services conducted in accordance with title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.);
 
-&emsp;&emsp;(B) the competitive selection for award of basic research proposals resulting from a general solicitation and the peer review orscientific review (as appropriate) of such proposals;
+&emsp;&emsp;(B) the competitive selection for award of basic research proposals resulting from a general solicitation and the peer review or scientific review (as appropriate) of such proposals;
 
 &emsp;&emsp;(C) the procedures established by the Administrator of General Services for the multiple award schedule program of the General Services Administration if—
 
@@ -98,7 +98,7 @@ The amendments reflect section 1(44) of the bill \[amending section 2305 of Titl
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in par. (2)(A), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of theFederal Property and Administrative Services Act is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in par. (2)(A), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of the Federal Property and Administrative Services Act is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 #### Amendments
 
@@ -162,11 +162,39 @@ Section 101(c) \[title X, §900\] of Pub. L. 99–500 and Pub. L. 99–591, and 
 
 #### Short Title of 1985 Amendment
 
-Pub. L. 99–145, title IX, §901, Nov. 8, 1985, 99 Stat. 682, provided that: “This title \[enacting sections 1621 to 1624, 2305a, 2324, 2397a, and 2406 of this title, amending sections 2304, 2313, 2320, 2323, 2397, and 2411 to 2415 of this title, section 759 of Title 40, Public Buildings, Property, and Works, sections 253 and 418a of Title 41,Public Contracts, and section 2168 of Title 50, Appendix, War and National Defense, enacting provisions set out as notes under this section and sections 139, 139c, 1622 to 1624, 2304, 2305a, 2307, 2324, 2397a, and 2411 of this title, section 287 of Title 18, Crimes and Criminal Procedure, section 3729 of Title 31, Money and Finance, and section 2168 of Title 50, Appendix, and amending provisions set out as a note under section 418a of Title 41\] may be cited as the ‘Defense Procurement Improvement Act of 1985’.”
+Pub. L. 99–145, title IX, §901, Nov. 8, 1985, 99 Stat. 682, provided that: “This title \[enacting sections 1621 to 1624, 2305a, 2324, 2397a, and 2406 of this title, amending sections 2304, 2313, 2320, 2323, 2397, and 2411 to 2415 of this title, section 759 of Title 40, Public Buildings, Property, and Works, sections 253 and 418a of Title 41, Public Contracts, and section 2168 of Title 50, Appendix, War and National Defense, enacting provisions set out as notes under this section and sections 139, 139c, 1622 to 1624, 2304, 2305a, 2307, 2324, 2397a, and 2411 of this title, section 287 of Title 18, Crimes and Criminal Procedure, section 3729 of Title 31, Money and Finance, and section 2168 of Title 50, Appendix, and amending provisions set out as a note under section 418a of Title 41\] may be cited as the ‘Defense Procurement Improvement Act of 1985’.”
 
 #### Short Title of 1984 Amendment
 
 Section 1201 of title XII of Pub. L. 98–525 provided that: “This title \[enacting sections 2303a, 2317 to 2323, 2384a, 2402 to 2405, and 2411 to 2416 of this title, amending sections 139a, 139b, 2302, 2305, 2311, 2384, and 2401 of this title, enacting provisions set out as notes under this section and sections 139, 139a, 2303a, 2305, 2318, 2319, 2322, 2323, 2384, 2384a, 2392, and 2402 of this title, amending provisions set out as notes under sections 2392, 2401, and 2452 of this title, and repealing provisions set out as notes under section 2304 of this title\] may be cited as the ‘Defense Procurement Reform Act of 1984’.”
+
+#### Program To Increase Business Innovation in Defense Acquisition Programs
+
+Pub. L. 106–65, div. A, title VIII, §812(a)–(c), (e), Oct. 5, 1999, 113 Stat. 709, 710, provided that:
+
+“(a)
+
+Requirement To Develop Plan.—Not later than March 1, 2000, the Secretary of Defense shall publish in the Federal Register for public comment a plan to provide for increased innovative technology for acquisition programs of the Department of Defense from commercial private sector entities, including small-business concerns.
+
+“(b)
+
+Implementation of Plan.—Not later than March 1, 2001, the Secretary of Defense shall implement the plan required by subsection (a), subject to any modifications the Secretary may choose to make in response to comments received.
+
+“(c)
+
+Elements of Plan.—The plan required by subsection (a) shall include, at a minimum, the following elements:
+
+&emsp;“(1) Procedures through which commercial private sector entities, including small-business concerns, may submit proposals recommending cost-saving and innovative ideas to acquisition program managers.
+
+&emsp;“(2) A review process designed to make recommendations on the merit and viability of the proposals submitted under paragraph (1) at appropriate times during the acquisition cycle.
+
+&emsp;“(3) Measures to limit potential disruptions to existing contracts and programs from proposals accepted and incorporated into acquisition programs of the Department of Defense.
+
+&emsp;“(4) Measures to ensure that research and development efforts of small-business concerns are considered as early as possible in a program's acquisition planning process to accommodate potential technology insertion without disruption to existing contracts and programs.
+
+“(e)
+
+Small-Business Concern Defined.—In this section, the term ‘small-business concern’ has the same meaning as the meaning of such term as used in the Small Business Act (15 U.S.C. 631 et seq.).”
 
 #### Year 2000 Software Conversion
 
@@ -194,7 +222,7 @@ Plan.—Not later than January 1, 1997, the Secretary shall submit to Congress a
 
 #### Defense Facility-Wide Pilot Program
 
-Section 822 of Pub. L. 104–106 provided that:
+Section 822 of Pub. L. 104–106, as amended by Pub. L. 106–65, div. A, title X, §1067(6), Oct. 5, 1999, 113 Stat. 774, provided that:
 
 “(a)
 
@@ -232,7 +260,7 @@ Criteria for Designation of Participating Facilities.—The Secretary shall esta
 
 “(e)
 
-Notification.—(1) The Secretary shall transmit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a written notification of each facility proposed to be designated by the Secretary for participation in the pilot program.
+Notification.—(1) The Secretary shall transmit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notification of each facility proposed to be designated by the Secretary for participation in the pilot program.
 
 “(2) The Secretary shall include in the notification regarding a facility designated for participation in the program a management plan addressing the following:
 
@@ -292,7 +320,7 @@ Applicability.—(1) Subsections (f) and (g) apply to the following contracts, i
 
 &emsp;“(A) A contract that is awarded or modified during the period described in paragraph (2).
 
-&emsp;“(B) A contract that is awarded before the beginning of such period, that is to be performed (or may be performed), in whole or in part, during such period, and that may be modified as appropriate at no cost to the Government.
+&emsp;“(B) A contract that is awarded before the beginning of such period, that is to be performed (or maybe performed), in whole or in part, during such period, and that may be modified as appropriate at no cost to the Government.
 
 “(2) The period referred to in paragraph (1), with respect to a facility designated under subsection (b), is the period that—
 
@@ -314,7 +342,7 @@ Commercial Practices Encouraged.—With respect to contracts and subcontracts wi
 
 #### Elimination of Use of Class I Ozone-Depleting Substances in Certain Military Procurement Contracts
 
-Section 326 of Pub. L. 102–484, as amended by Pub. L. 104–106, div. A, title XV, §§1502(c)(2)(A), 1504(c)(1), Feb. 10, 1996, 110 Stat. 506, 514, provided that:
+Section 326 of Pub. L. 102–484, as amended by Pub. L. 104–106, div. A, title XV, §§1502(c)(2)(A), 1504(c)(1), Feb. 10, 1996, 110 Stat. 506, 514; Pub. L. 106–65, div. A, title X, §1067(8), Oct. 5, 1999, 113 Stat. 774, provided that:
 
 “(a)
 
@@ -346,9 +374,9 @@ Elimination of Use of Class I Ozone-Depleting Substances.—(1) No Department of
 
 &emsp;“(A) Beginning on October 1, 1993, and continuing for 8 calendar quarters thereafter, by submitting a report on the approvals granted or determinations made under such authority during the preceding quarter not later than 30 days after the end of such quarter.
 
-&emsp;“(B) Beginning on January 1, 1997, and continuing for 4 years thereafter, by submitting a report on theapprovals granted or determinations made under such authority during the preceding year not later than 30 days after the end of such year.
+&emsp;“(B) Beginning on January 1, 1997, and continuing for 4 years thereafter, by submitting a report on the approvals granted or determinations made under such authority during the preceding year not later than 30 days after the end of such year.
 
-“(5) The Secretary shall promptly transmit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] each report submitted to the Secretary under paragraph (4). The Secretary shall transmit the report in classified and unclassified forms.
+“(5) The Secretary shall promptly transmit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives each report submitted to the Secretary under paragraph (4). The Secretary shall transmit the report in classified and unclassified forms.
 
 “(b)
 
@@ -372,7 +400,7 @@ Regulations.—The Secretary of Defense shall prescribe in regulations the follo
 
 &emsp;“(1)
 
-Information provided by department of defense relating to payment.—(A) Subject to section 552(b)(1) of title 5, United States Code, upon the request of a subcontractor or supplier of a contractor performing a Department of Defense contract, the Department of Defense shall promptly make available to such subcontractor or supplier the following information:
+Information provided by department of defense relating to payment.—(A) Subject to section 552(b)(1) of title 5, United States Code, upon the request of a subcontractor or supplier of a contractor performing a Department of Defense contract, theDepartment of Defense shall promptly make available to such subcontractor or supplier the following information:
 
 &emsp;&emsp;“(i) Whether requests for progress payments or other payments have been submitted by the contractor to the Department of Defense in connection with that contract.
 
@@ -432,7 +460,7 @@ Procedures relating to compliance with payment terms.—(A) Under procedures est
 
 “(b)
 
-Inapplicability to Certain Contracts.—Regulations prescribed under this section shall not apply toa contract for the acquisition of commercial items (as defined in section 4(12) of the Office of Federal Procurement Policy Act \[41 U.S.C. 403(12)\]).
+Inapplicability to Certain Contracts.—Regulations prescribed under this section shall not apply to a contract for the acquisition of commercial items (as defined in section 4(12) of the Office of Federal Procurement Policy Act \[41 U.S.C. 403(12)\]).
 
 “(c)
 
@@ -456,7 +484,7 @@ GAO Report.—(1) The Comptroller General of the United States shall conduct an 
 
 &emsp;&emsp;&emsp;“(I) include in its subcontracts a payment term requiring payment within 7 days (or some other fixed term) after receiving payment from the Government; and
 
-&emsp;&emsp;&emsp;“(II) submit with its payment request to the Government a certification that it has timely paid its subcontractors in accordance with their subcontracts from funds previously received as progress payments and will timely make required payments to such subcontractors from the proceeds of the progress payment covered by the certification;
+&emsp;&emsp;&emsp;“(II) submit with its payment request to the Government a certification that it has timely paid its subcontractors in accordance with theirsubcontracts from funds previously received as progress payments and will timely make required payments to such subcontractors from the proceeds of the progress payment covered by the certification;
 
 &emsp;&emsp;“(iii) evaluating the feasibility and desirability of requiring that all prime contractors (other than a construction prime contractor subject to the provisions of sections 3903(b) and 3905 of title 31, United States Code) furnish with its payment request to the Government proof of payment of the amounts included in such payment request for payments made to subcontractors and suppliers;
 
@@ -502,7 +530,7 @@ GAO Report.—(1) The Comptroller General of the United States shall conduct an 
 
 Inspector General Report.—(1) The Inspector General of the Department of Defense shall submit to the Secretary of Defense a report on payment protections for subcontractors and suppliers under contracts entered into with the Department of Defense. The report shall include an assessment of the extent to which available judicial and administrative remedies, as well as suspension and debarment procedures, have been used (or recommended for use) by officials of the Department to deter false statements relating to (A) payment bonds provided by individuals pursuant to the Miller Act, and (B) certifications pertaining to payment requests by construction contractors pursuant to section 3903(b) of title 31, United States Code. The assessment shall cover actions taken during the period beginning on October 1, 1989, and ending on September 30, 1992.
 
-“(2) The report required by paragraph (1) shall be submitted to the Secretary of Defense not later than March 1, 1993. The report may include recommendations by the Inspector General on ways to improve theeffectiveness of existing methods of preventing false statements.
+“(2) The report required by paragraph (1) shall be submitted to the Secretary of Defense not later than March 1, 1993. The report may include recommendations by the Inspector General on ways to improve the effectiveness of existing methods of preventing false statements.
 
 “(g)
 
@@ -514,9 +542,37 @@ Pub. L. 101–510, div. A, title VIII, §800, Nov. 5, 1990, 104 Stat. 1587, as a
 
 #### Mentor-Protege Pilot Program
 
+Pub. L. 106–65, div. A, title VIII, §811(d)(2), (3), Oct. 5, 1999, 113 Stat. 708, 709, provided that:
+
+“(2)(A) The Secretary of Defense shall conduct a review of the Mentor-Protege Program established in section 831 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 10 U.S.C. 2302 note) to assess the feasibility of transitioning such program to operation without a specific appropriation or authority to provide reimbursement to a mentor firm as provided in subsection (g) of such section (as amended by subsection (b)).
+
+“(B) In conducting the review under subparagraph (A), the Secretary shall assess possible additional incentives that may be extended to mentor firms to ensure adequate support and participation in the Mentor-Protege Program, including increasing the level of credit in lieu of subcontract awards presently extended to mentor firms for purposes of determining whether mentor firms attain subcontracting participation goals applicable under Department of Defense contracts.
+
+“(C) Not later than September 30, 2000, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives—
+
+&emsp;“(i) a report on the results of the review conducted under this paragraph; and
+
+&emsp;“(ii) any recommendations of the Secretary for legislative action.
+
+“(3)(A) The Comptroller General shall conduct a study on the implementation of the Mentor-Protege Program established in section 831 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 10 U.S.C. 2302 note) and the extent to which the program is achieving the purposes established in that section in a cost-effective manner.
+
+“(B) The study shall include the following:
+
+&emsp;“(i) A review of the manner in which funds for the Mentor-Protege Program have been obligated.
+
+&emsp;“(ii) An identification and assessment of the average amount spent by the Department of Defense on individual mentor-protege agreements, and the correlation between levels of funding and business development of protege firms.
+
+&emsp;“(iii) An evaluation of the effectiveness of the incentives provided to mentor firms to participate in the Mentor-Protege Program and whether reimbursements remain a cost-effective and viable incentive.
+
+&emsp;“(iv) An assessment of the success of the Mentor-Protege Program in enhancing the business competitiveness and financial independence of protege firms.
+
+&emsp;“(v) A review of the relationship between the results of the Mentor-Protegee \[sic\] Program and the objectives established in section 2323 of title 10, United States Code.
+
+“(C) Not later than January 1, 2002, the Comptroller General shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the results of the study.”
+
 Section 807(a) of Pub. L. 102–484 provided that: “Within 15 days after the date of the enactment of this Act \[Oct. 23, 1992\], the Secretary of Defense shall publish in the Department of Defense Supplement to the Federal Acquisition Regulation the Department of Defense policy for the pilot Mentor-Protege Program and the regulations, directives, and administrative guidance pertaining to such program as such policy, regulations, directives, and administrative guidance existed on December 6, 1991. Proposed modifications to that policy and any amendments of the matters published pursuant to the preceding sentence that are proposed in order to implement any of the amendments made by this section shall be published for public comment within 60 days after the date of the enactment of this Act and shall be published in final form within 120 days after such date.”
 
-Pub. L. 101–510, div. A, title VIII, §831, Nov. 5, 1990, 104 Stat. 1607, as amended by Pub. L. 102–25, title VII, §704(c), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–172, title VIII, §8064A, Nov. 26, 1991, 105 Stat. 1186; Pub. L. 102–190, div. A, title VIII, §814(b), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–484, div. A, title VIII, §§801(h)(4), 807(b)(1), title X, §1054(d), Oct. 23, 1992, 106 Stat. 2445, 2448, 2503; Pub. L. 103–160, div. A, title VIII, §813(b)(1), (c), Nov. 30, 1993, 107 Stat. 1703; Pub. L. 104–106, div. A, title VIII, §824, Feb. 10, 1996, 110 Stat. 399; Pub. L. 104–201, div. A, title VIII, §802, Sept. 23, 1996, 110 Stat. 2604; Pub. L. 105–85, div. A, title VIII, §821(a), title X, §1073(c)(6), Nov. 18, 1997, 111 Stat. 1840, 1904, provided that:
+Pub. L. 101–510, div. A, title VIII, §831, Nov. 5, 1990, 104 Stat. 1607, as amended by Pub. L. 102–25, title VII, §704(c), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–172, title VIII, §8064A, Nov. 26, 1991, 105 Stat. 1186; Pub. L. 102–190, div. A, title VIII, §814(b), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–484, div. A, title VIII, §§801(h)(4), 807(b)(1), title X, §1054(d), Oct. 23, 1992, 106 Stat. 2445, 2448, 2503; Pub. L. 103–160, div. A, title VIII, §813(b)(1), (c), Nov. 30, 1993, 107 Stat. 1703; Pub. L. 104–106, div. A, title VIII, §824, Feb. 10, 1996, 110 Stat. 399; Pub. L. 104–201, div. A, title VIII, §802, Sept. 23, 1996, 110 Stat. 2604; Pub. L. 105–85, div. A, title VIII, §821(a), title X, §1073(c)(6), Nov. 18, 1997, 111 Stat. 1840, 1904; Pub. L. 106–65, div. A, title VIII, §811(a)–(d)(1), (e), Oct. 5, 1999, 113 Stat. 706, 707, 709, provided that:
 
 “(a)
 
@@ -548,7 +604,7 @@ Mentor-Protege Agreement.—Before providing assistance to a protege firm under 
 
 &emsp;“(1) A developmental program for the protege firm, in such detail as may be reasonable, including (A) factors to assess the protege firm's developmental progress under the program, and (B) the anticipated number and type of subcontracts to be awarded the protege firm.
 
-&emsp;“(2) A program participation term, which shall not exceed five years and may be renewed upon its expiration for an additional term of not to exceed four years.
+&emsp;“(2) A program participation term for any period of not more than three years, except that the term may be a period of up to five years if the Secretary of Defense determines in writing that unusual circumstances justify a program participation term in excess of three years.
 
 &emsp;“(3) Procedures for the protege firm to terminate the agreement voluntarily and for the mentor firm to terminate the agreement for cause.
 
@@ -584,21 +640,15 @@ Forms of Assistance.—A mentor firm may provide a protege firm the following:
 
 “(g)
 
-Incentives for Mentor Firms.—(1) The Secretary of Defense shall provide to a mentor firm reimbursement for the total amount of any progress payment or advance payment made under the program by the mentor firm to a protege firm in connection with a Department of Defense contract awarded the mentor firm.
+Incentives for Mentor Firms.—(1) The Secretary of Defense may provide to a mentor firm reimbursement for the total amount of any progress payment or advance payment made under the program by the mentor firm to a protege firm in connection with a Department of Defense contract awarded the mentor firm.
 
-“(2)(A) The Secretary of Defense shall provide to a mentor firm reimbursement for the costs of the assistance furnished to a protege firm pursuant to paragraphs (1) and (7) of subsection (f). The Secretary shall ensure that the reimbursement is provided for—
+“(2)(A) The Secretary of Defense may provide to a mentor firm reimbursement for the costs of the assistance furnished to a protege firm pursuant to paragraphs (1) and (7) of subsection (f) as provided for in a line item in a Department of Defense contract under which the mentor firm is furnishing products or services to the Department, subject to a maximum amount of reimbursement specified in such contract, except that this sentence does not apply in a case in which the Secretary of Defense determines in writing that unusual circumstances justify reimbursement using a separate contract.
 
-&emsp;“(i) as a line item in a Department of Defense contract under which the mentor firm is furnishing products or services to the Department, subject to a maximum amount of reimbursement specified in such contract;
+“(B) The determinations made in annual performance reviews of a mentor firm's mentor-protege agreement under subsection (<i>l</i>)(2) shall be a major factor in the determinations of amounts of reimbursement, if any, that the mentor firm is eligible to receive in the remaining years of the program participation term under the agreement.
 
-&emsp;“(ii) as a reimbursement of indirect costs incurred under the program which have been assigned to indirect cost pools, to the extent that such assigned costs are otherwise reasonable, allocable, and allowable;
+“(C) The total amount reimbursed under this paragraph to a mentor firm for costs of assistance furnished in a fiscal year to a protege firm may not exceed $1,000,000, except in a case in which the Secretary of Defense determines in writing that unusual circumstances justify a reimbursement of a higher amount.
 
-&emsp;“(iii) in a separate contract, cooperative agreement, or other agreement entered into between the Secretary and the mentor firm for the purpose of providing reimbursement of costs incurred under the program, subject to a maximum amount of reimbursement specified in such contract or agreement; or
-
-&emsp;“(iv) through a combination of the methods of reimbursement described in clauses (i), (ii), and (iii), but only if the mentor firm has an accounting system and controls adequate to assure proper identification and assignment of program costs to appropriate direct and indirect cost accounts.
-
-“(B) The Secretary and a mentor firm may provide for the allocation of such costs to any Department of Defense contract awarded to the mentor firm.
-
-“(3)(A) Costs incurred by a mentor firm in providing assistance to a protege firm that are not reimbursed pursuant to either subparagraph (A) or (C) of paragraph (2) or are reimbursed pursuant to subparagraph (B) of such paragraph shall be recognized as credit in lieu of subcontract awards for purposes of determining whether the mentor firm attains a subcontracting participation goal applicable to such mentor firm under a Department of Defense contract, under a contract with another executive agency, or under a divisional or company-wide subcontracting plan negotiated with the Department of Defense or another executive agency.
+“(3)(A) Costs incurred by a mentor firm in providing assistance to a protege firm that are not reimbursed pursuant to paragraph (2) shall be recognized as credit in lieu of subcontract awards for purposes of determining whether the mentor firm attains a subcontracting participation goal applicable to such mentor firm under a Department of Defense contract, under a contract with another executive agency, or under a divisional or company-wide subcontracting plan negotiated with the Department of Defense or another executive agency.
 
 “(B) The amount of the credit given a mentor firm for any such unreimbursed costs shall be equal to—
 
@@ -630,31 +680,41 @@ Participation in Mentor-Protege Program not To Be a Condition for Award of a Con
 
 “(j)
 
-Duration of Pilot Program.—(1) Business concerns eligible to participate in the program may enter into mentor-protege agreements pursuant to subsection (e) during the period commencing on October 1, 1991, and ending on September 30, 1999.
+Expiration of Authority.—(1) No mentor-protege agreement may be entered into under subsection (e) after September 30, 2002.
 
-“(2) A mentor firm may not incur costs furnishing developmental assistance to a protege firm that are eligible for reimbursement pursuant to subsection (g) prior to October 1, 1991, or after September 30, 2000.
-
-“(3) A mentor firm may receive credit toward the attainment of such firm's goals for subcontract awards to disadvantaged small business concerns for unreimbursed costs incurred in providing developmental assistance to the firm's protege firms, pursuant to subsection (g)(3), for the period beginning October 1, 1991, and ending September 30, 2000.
+“(2) No reimbursement may be paid, and no credit toward the attainment of a subcontracting goal may be granted, under subsection (g) for any cost incurred after September 30, 2005.
 
 “(k)
 
-Regulations.—The Secretary of Defense shall prescribe regulations to carry out the pilot Mentor-Protege Program. Such regulations shall include the requirements set forth in section 8(d) of the Small Business Act (15 U.S.C. 637(d)) and shall prescribe procedures by which mentor firms may terminate participation in the program. The Secretary shall publish theproposed regulations not later than the date 180 days after the date of the enactment of this Act \[Nov. 5, 1990\]. The Secretary shall promulgate the final regulations not later than the date 270 days after the date of the enactment of this Act. The Department of Defense policy regarding the pilot Mentor-Protege Program shall be published and maintained as an appendix to the Department of Defense Supplement to the Federal Acquisition Regulation.
+Regulations.—The Secretary of Defense shall prescribe regulations to carry out the pilot Mentor-Protege Program. Such regulations shall include the requirements set forth in section 8(d) of the Small Business Act (15 U.S.C. 637(d)) and shall prescribe procedures by which mentor firms may terminate participation in the program. The Secretary shall publish the proposed regulations not later than the date 180 days after the date of the enactment of this Act \[Nov. 5, 1990\]. The Secretary shall promulgate the final regulations not later than the date 270 days after the date of the enactment of this Act. The Department of Defense policy regarding the pilot Mentor-Protege Program shall be published and maintained as an appendix to the Department of Defense Supplement to the Federal Acquisition Regulation.
 
 “(<i>l</i>)
 
-General Accounting Office Assessment.—(1) The General Accounting Office shall evaluate the implementation of the Mentor-Protege Program established pursuant to subsection (a) to determine whether the purposes of the program, as stated in subsection (b), have been attained.
+Reports and Reviews.—(1) The mentor firm and protege firm under a mentor-protege agreement shall submit to the Secretary of Defense an annual report on the progress made by the protege firm in employment, revenues, and participation in Department of Defense contracts during the fiscal year covered by the report. The requirement for submission of an annual report applies with respect to each fiscal year covered by the program participation term under the agreement and each of the two fiscal years following the expiration of the program participation term. The Secretary shall prescribe the timing and form of the annual report.
 
-“(2) A report of the evaluation conducted by the General Accounting Office pursuant to subsection (a) shall be furnished to the Committees on Armed Services and Small Business of the Senate and House of Representatives by February 1, 1994. Such report shall cover the period October 1, 1991, through September 30, 1993. Recommendations shall be included regarding reauthorization of the program, and extending its application on a Government-wide basis.
+“(2)(A) The Secretary shall conduct an annual performance review of each mentor-protege agreement that provides for reimbursement of costs. The Secretary shall determine on the basis of the review whether—
 
-“(3) An interim report shall be furnished to the Committees on Armed Services of the Senate and House of Representatives by March 30, 1992. The interim report shall—
+&emsp;“(i) all costs reimbursed to the mentor firm under the agreement were reasonably incurred to furnish assistance to the protege firm in accordance with the requirements of this section and applicable regulations; and
 
-&emsp;“(A) evaluate the regulatory implementation of the program by the Department of Defense;
+&emsp;“(ii) the mentor firm and protege firm accurately reported progress made by the protege firm in employment, revenues, and participation in Department of Defense contracts during the program participation term covered by the mentor-protege agreement and the two fiscal years following the expiration of the program participation term.
 
-&emsp;“(B) assess initial participation by firms eligible to be mentor firms or protege firms;
+“(B) The Secretary shall act through the Commander of the Defense Contract Management Command in carrying out the reviews and making the determinations under subparagraph (A).
 
-&emsp;“(C) identify deficiencies, if any, in the statutory or regulatory framework of the program likely to impair the success of the program; and
+“(3) Not later than 6 months after the end of each of fiscal years 2000 through 2004, the Secretary of Defense shall submit to Congress an annual report on the Mentor-Protege Program for that fiscal year.
 
-&emsp;“(D) make recommendations to correct any implementational impediments identified.
+“(4) The annual report for a fiscal year shall include, at a minimum, the following:
+
+&emsp;“(A) The number of mentor-protege agreements that were entered into during the fiscal year.
+
+&emsp;“(B) The number of mentor-protege agreements that were in effect during the fiscal year.
+
+&emsp;“(C) The total amount reimbursed to mentor firms pursuant to subsection (g) during the fiscal year.
+
+&emsp;“(D) Each mentor-protege agreement, if any, that was approved during the fiscal year in accordance with subsection (e)(2) to provide a program participation term in excess of 3 years, together with the justification for the approval.
+
+&emsp;“(E) Each reimbursement of a mentor firm in excess of the limitation in subsection (g)(2)(C) that was made during the fiscal year pursuant to an approval granted in accordance with that subsection, together with the justification for the approval.
+
+&emsp;“(F) Trends in the progress made in employment, revenues, and participation in Department of Defense contracts by the protege firms participating in the program during the fiscal year and the protege firms that completed or otherwise terminated participation in the program during the preceding two fiscal years.
 
 “(m)
 
@@ -690,13 +750,15 @@ Definitions.—In this section:
 
 &emsp;&emsp;“(D) pays not less than the minimum wage prescribed pursuant to section 6 of the Fair Labor Standards Act (29 U.S.C. 206) to those employees who are severely disabled individuals.
 
-&emsp;“(8) The term ‘severely disabled individual’ means an individual who has a physical or mental disability which constitutes a substantial handicap to employment and which, in accordance with criteria prescribed by the Committee for the Purchase From the Blind and Other Severely Handicapped established by the first section of the Act of June 25, 1938 (41 U.S.C. 46; popularly known as the ‘Wagner-O'Day Act’) \[now known as the “Javits-Wagner-O'Day Act”\], is of such a nature that the individual is otherwise prevented from engaging in normal competitive employment.
+&emsp;“(8) The term ‘severely disabled individual’ means an individual who has a physical or mental disability which constitutes a substantial handicap to employment and which, in accordance with criteria prescribed by the Committee for the Purchase From the Blind and Other Severely Handicapped established by the first section of the Act of June 25, 1938 (41 U.S.C. 46; popularly known as the ‘Wagner-O'Day Act’) \[now known as the “Javits-Wagner-O'Day Act”\], is of such a nature that the individual is otherwise prevented from engaging in normal competitive employment.”
 
-“(n)
+\[Pub. L. 106–65, div. A, title VIII, §811(f), Oct. 5, 1999, 113 Stat. 709, provided that:
 
-Availability of Funding.—Funds authorized and appropriated to carry out the program shall remain available until September 30, 1999.”
+\[“(1) The amendments made by this section \[amending section 831 of Pub. L. 101–510, set out above\] shall take effect on October 1, 1999, and shall apply with respect to mentor-protege agreements that are entered into under section 831(e) of the National Defense Authorization Act for Fiscal Year 1991 \[Pub. L. 101–510, set out above\] on or after that date.
 
-\[Section 807(b)(2) of Pub. L. 102–484 provided that: “The amendment made by this subsection \[amending section 831 of Pub. L. 101–510, set out above\] shall take effect as of November 5, 1990.”\]
+\[“(2) Section 831 of the National Defense Authorization Act for Fiscal Year 1991, as in effect on September 30, 1999, shall continue to apply with respect to mentor-protege agreements entered into before October 1, 1999.”\]
+
+\[Section 807(b)(2) of Pub. L. 102–484 provided that: “The amendment made by this subsection \[amendingsection 831 of Pub. L. 101–510, set out above\] shall take effect as of November 5, 1990.”\]
 
 #### Credit for Indian Contracting in Meeting Certain Minority Subcontracting Goals
 
@@ -771,7 +833,7 @@ Definition.—For the purposes of this section, the term ‘competitive procurem
 
 #### Defense Procurement Reform: Congressional Findings and Policy
 
-Section 1202 of Pub. L. 98–525, as amended by Pub. L. 99–500, §101(c) \[title X, §953(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–172, and Pub. L. 99–591, §101(c) \[title X, §953(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–172; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(c), Nov. 14, 1986, 100 Stat. 3952, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The Congress finds that recent disclosures of excessive payments by the Department of Defense for replenishment parts have undermined confidence by the public and Congress in the defense procurement system. The Secretary of Defense should make every effort to reform procurement practices relating to replenishment parts. Such efforts should, among other matters, be directed to the elimination of excessive pricing of replenishment spare parts and the recovery of unjustified payments. Specifically, the Secretary should—
+Section 1202 of Pub. L. 98–525, as amended by Pub. L. 99–500, §101(c) \[title X, §953(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–172, and Pub. L. 99–591, §101(c) \[title X, §953(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–172; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(c), Nov. 14, 1986, 100 Stat. 3952, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The Congress finds that recent disclosures of excessive payments by the Department of Defense for replenishment parts have undermined confidence by the publicand Congress in the defense procurement system. The Secretary of Defense should make every effort to reform procurement practices relating to replenishment parts. Such efforts should, among other matters, be directed to the elimination of excessive pricing of replenishment spare parts and the recovery of unjustified payments. Specifically, the Secretary should—
 
 &emsp;“(1) direct that officials in the Department of Defense refuse to enter into contracts unless the proposed prices are fair and reasonable;
 
@@ -789,9 +851,9 @@ Section 909(d) of Pub. L. 97–86 directed Secretary of Defense, not later than 
 
 #### Procurement Requirements for Goods Which Are Not American Goods
 
-Pub. L. 93–365, title VII, §707, Aug. 5, 1974, 88 Stat. 406, which prohibited contracts by the Department of Defense for other than American goods after Aug. 5, 1974, unless adequate consideration was first given to bids of firms in labor surplus areas of the United States, of small business firms, and of all other United Statesfirms which had offered to furnish American goods, balance of payments, cost of shipping other than American goods, and any duty, tariff, or surcharge on such goods, was repealed and restated in section 2501 of this title by Pub. L. 100–370, §3(a), (c). Section 2501 of this title was renumbered section 2506 by Pub. L. 100–456, §821(b)(1)(A). Section 2506 of this title was renumbered section 2533 by Pub. L. 102–484, §4202(a).
+Pub. L. 93–365, title VII, §707, Aug. 5, 1974, 88 Stat. 406, which prohibited contracts by the Department of Defense for other than American goods after Aug. 5, 1974, unless adequate consideration was first given to bids of firms in labor surplus areas of the United States, of small business firms, and of all other United States firms which had offered to furnish American goods, balance of payments, cost of shipping other than American goods, and any duty, tariff, or surcharge on such goods, was repealed and restated in section 2501 of this title by Pub. L. 100–370, §3(a), (c). Section 2501 of this title was renumbered section 2506 by Pub. L. 100–456, §821(b)(1)(A). Section 2506 of this title was renumbered section 2533 by Pub. L. 102–484, §4202(a).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1737, 2302d, 2304, 2366, 2367, 2399, 2409, 2646 of this title; title 50 App. section 2171.
+This section is referred to in sections 1737, 2218, 2302d, 2304, 2366, 2367, 2399, 2409, 2646 of this title; title 50 App. section 2171.
 

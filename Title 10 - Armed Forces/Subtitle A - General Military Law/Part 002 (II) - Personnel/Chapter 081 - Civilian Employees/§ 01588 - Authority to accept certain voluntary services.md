@@ -24,6 +24,8 @@ Authority To Accept Services.—Subject to subsection (b) and notwithstanding se
 
 &emsp;&emsp;(G) Morale, welfare, and recreation programs, to the extent not covered by another subparagraph of this paragraph.
 
+&emsp;(4) Voluntary services as a member of a funeral honors detail under section 1491 of this title.
+
 (b)
 
 Requirements and Limitations.—(1) The Secretary concerned shall notify the person of the scope of the services accepted.
@@ -42,7 +44,7 @@ Requirements and Limitations.—(1) The Secretary concerned shall notify the per
 
 (c)
 
-Authority To Recruit and Train Persons Providing Services.—The Secretary concernedmay recruit and train persons to provide voluntary services accepted under subsection (a).
+Authority To Recruit and Train Persons Providing Services.—The Secretary concerned may recruit and train persons to provide voluntary services accepted under subsection (a).
 
 (d)
 
@@ -56,7 +58,7 @@ Status of Persons Providing Services.—(1) Subject to paragraph (3), while prov
 
 &emsp;(D) Chapter 11 of title 18 (relating to conflicts of interest).
 
-(2) Subject to paragraph (3), while providing a nonappropriated fund instrumentality of the United States with voluntary services accepted under subsection (a), or receiving training under subsection (c) to provide such an instrumentality with services accepted under subsection (a), a person shall be considered an employee of that instrumentality only for the following purposes:
+(2) Subject to paragraph (3), while providing a nonappropriated fund instrumentality of theUnited States with voluntary services accepted under subsection (a), or receiving training under subsection (c) to provide such an instrumentality with services accepted under subsection (a), a person shall be considered an employee of that instrumentality only for the following purposes:
 
 &emsp;(A) Subchapter II of chapter 81 of title 5 (relating to compensation of nonappropriated fund employees for work-related injuries).
 
@@ -74,9 +76,23 @@ Status of Persons Providing Services.—(1) Subject to paragraph (3), while prov
 
 Reimbursement of Incidental Expenses.—The Secretary concerned may provide for reimbursement of a person for incidental expenses incurred by the person in providing voluntary services accepted under subsection (a). The Secretary shall determine which expenses are eligible for reimbursement under this subsection. Any such reimbursement may be made from appropriated or nonappropriated funds.
 
-(Added Pub. L. 98–94, title XII, §1266(a), Sept. 24, 1983, 97 Stat. 704; amended Pub. L. 99–145, title XVI, §1624(a), Nov. 8, 1985, 99 Stat. 778; Pub. L. 99–661, div. A, title XIII, §1355, Nov. 14, 1986, 100 Stat. 3996; Pub. L. 100–26, §3(9), Apr. 21, 1987, 101 Stat. 274; Pub. L. 101–189, div. A, title XVI, §1634, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 102–190, div. A, title III, §345, Dec. 5, 1991, 105 Stat. 1346; Pub. L. 103–337, div. A, title X, §1061(a), Oct. 5, 1994, 108 Stat. 2845; Pub. L. 104–201, div. A, title X, §1074(a)(8), Sept. 23, 1996, 110 Stat. 2659.)
+(f)
+
+Authority To Install Equipment.—(1) The Secretary concerned may install telephone lines and any necessary telecommunication equipment in the private residences of persons, designated in accordance with the regulations prescribed under paragraph (4), who provide voluntary services accepted under subsection (a)(3).
+
+(2) In the case of equipment installed under the authority of paragraph (1), the Secretary concerned may pay the charges incurred for the use of the equipment for authorized purposes.
+
+(3) To carry out this subsection, the Secretary concerned may use appropriated funds (notwithstanding section 1348 of title 31) or nonappropriated funds of the military department under the jurisdiction of the Secretary or, with respect to the Coast Guard, the department in which the Coast Guard is operating.
+
+(4) The Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Transportation shall prescribe regulations to carry out this subsection.
+
+(Added Pub. L. 98–94, title XII, §1266(a), Sept. 24, 1983, 97 Stat. 704; amended Pub. L. 99–145, title XVI, §1624(a), Nov. 8, 1985, 99 Stat. 778; Pub. L. 99–661, div. A, title XIII, §1355, Nov. 14, 1986, 100 Stat. 3996; Pub. L. 100–26, §3(9), Apr. 21, 1987, 101 Stat. 274; Pub. L. 101–189, div. A, title XVI, §1634, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 102–190, div. A, title III, §345, Dec. 5, 1991, 105 Stat. 1346; Pub. L. 103–337, div. A, title X, §1061(a), Oct. 5, 1994, 108 Stat. 2845; Pub. L. 104–201, div. A, title X, §1074(a)(8), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–65, div. A, title III, §371(a), title V, §578(f), Oct. 5, 1999, 113 Stat. 579, 627.)
 
 #### Amendments
+
+1999—Subsec. (a)(4). Pub. L. 106–65, §578(f), added par. (4).
+
+Subsec. (f). Pub. L. 106–65, §371(a), added subsec. (f).
 
 1996—Subsec. (d)(1)(C). Pub. L. 104–201 substituted “Section 552a” for “Section 522a”.
 
@@ -100,6 +116,10 @@ Amendment by Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when
 
 Section 1624(b) of Pub. L. 99–145 provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1985.”
 
+#### Report on Implementation of Authority To Install Telecommunications Equipment for Persons Performing Voluntary Services
+
+Pub. L. 106–65, div. A, title III, §371(b), Oct. 5, 1999, 113 Stat. 579, provided that: “Not later than two years after final regulations prescribed under subsection (f)(4) of section 1588 of title 10, United States Code, as added by subsection (a), take effect, the Comptroller General shall review the exercise of authority under such subsection (f) and submit to Congress a report on the findings resulting from the review.”
+
 #### Acceptance of Voluntary Services Pilot Program
 
 Section 1061(b) of Pub. L. 103–337 provided that:
@@ -108,7 +128,7 @@ Section 1061(b) of Pub. L. 103–337 provided that:
 
 “(2) The Secretary may not accept voluntary services under section 1588 of title 10, United States Code (other than services that may have been accepted under such section before the date of the enactment of this Act \[Oct. 5, 1994\]), and may not issue regulations to implement the amendment to such section made by subsection (a), until after the termination of the pilot program.
 
-“(3) Not later than 60 days after the termination of the pilot program, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the results of the pilot program.”
+“(3) Not later than 60 days after the termination of the pilot program, the Secretary shall submit to theCommittees on Armed Services of the Senate and House of Representatives a report on the results of the pilot program.”
 
 #### Section Referred to in Other Sections
 

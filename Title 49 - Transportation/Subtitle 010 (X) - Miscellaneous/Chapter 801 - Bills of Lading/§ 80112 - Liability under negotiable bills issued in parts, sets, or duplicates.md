@@ -30,7 +30,7 @@ Aug. 29, 1916, ch. 415, §§4, 5, 39 Stat. 539.
 
 49 App.:85.
 
-In this section, the words “48 contiguous States or the District of Columbia” are substituted for “UnitedStates on the Continent of North America, except Alaska and Panama” and the text of 49 App.:84 (proviso) and 85 (proviso) for clarity.
+In this section, the words “48 contiguous States or the District of Columbia” are substituted for “United States on the Continent of North America, except Alaska and Panama” and the text of 49 App.:84 (proviso) and 85 (proviso) for clarity.
 
 In subsection (a), the words “If so issued” and “described therein” are omitted as surplus. The word “occurred” is added for clarity.
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) such care or services were rendered in a medical emergency of such nature that delay would have been hazardous to life or health;
 
-&emsp;(2) such care or services were rendered to a veteran in need thereof (A) for an adjudicated service-connected disability, (B) for a non-service-connected disability associated with and held to be aggravating a service-connected disability, (C) for any disability of a veteran who has a total disability permanent in nature from a service-connected disability, or (D) for any illness, injury, or dental condition in the case of a veteran who (i) is a participant in a vocational rehabilitation program (as defined in section 3101(9) of this title), and (ii) is medically determined to have been in need of care or treatment to make possible such veteran's entrance into a course of training, or prevent interruption of a course of training, or hasten the return to a course of training which was interrupted because of such illness, injury, or dental condition; and
+&emsp;(2) such care or services were rendered to a veteran in need thereof (A) for an adjudicated service-connected disability, (B) for a non-service-connected disability associated with and held to be aggravating a service-connected disability, (C) for any disability of a veteran who has a total disability permanent in nature from a service-connected disability, or (D) forany illness, injury, or dental condition in the case of a veteran who (i) is a participant in a vocational rehabilitation program (as defined in section 3101(9) of this title), and (ii) is medically determined to have been in need of care or treatment to make possible such veteran's entrance into a course of training, or prevent interruption of a course of training, or hasten the return to a course of training which was interrupted because of such illness, injury, or dental condition; and
 
 &emsp;(3) Department or other Federal facilities were not feasibly available, and an attempt to use them beforehand would not have been reasonable, sound, wise, or practical.
 
@@ -51,4 +51,8 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 #### Effective Date
 
 Section effective Jan. 1, 1971, see section 501 of Pub. L. 93–82, set out as an Effective Date of 1973 Amendment note under section 1701 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1725 of this title.
 

@@ -32,5 +32,5 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Delegation of Functions
 
-Functions of President under subsec. (a), to the extent they relate to other functions under this chapter administered by Department of Defense, delegated to Secretary of Defense by section 1–301(b) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

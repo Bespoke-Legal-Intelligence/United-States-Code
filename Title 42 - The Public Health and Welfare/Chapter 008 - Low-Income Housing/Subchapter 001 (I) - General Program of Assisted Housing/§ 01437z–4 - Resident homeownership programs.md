@@ -12,7 +12,7 @@ A program under this section may cover any existing public housing dwelling unit
 
 #### (1) Low-income requirement
 
-&emsp;Only low-income families assisted by a public housing agency, other low-income families,and entities formed to facilitate such sales by purchasing units for resale to low-income families shall be eligible to purchase housing under a homeownership program under this section.
+&emsp;Only low-income families assisted by a public housing agency, other low-income families, and entities formed to facilitate such sales by purchasing units for resale to low-income families shall be eligible to purchase housing under a homeownership program under this section.
 
 #### (2) Other requirements
 

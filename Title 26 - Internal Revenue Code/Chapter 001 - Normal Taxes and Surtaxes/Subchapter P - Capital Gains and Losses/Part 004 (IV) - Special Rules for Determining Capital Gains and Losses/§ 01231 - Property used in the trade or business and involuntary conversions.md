@@ -80,9 +80,9 @@ For purposes of this section—
 
 &emsp;&emsp;(B) property held by the taxpayer primarily for sale to customers in the ordinary course of his trade or business,
 
-&emsp;&emsp;(C) a copyright, a literary, musical, or artistic composition, a letter or memorandum, or similar property, held by a taxpayer described in paragraph (3) of section 1221, or
+&emsp;&emsp;(C) a copyright, a literary, musical, or artistic composition, a letter or memorandum, or similar property, held by a taxpayer described in paragraph (3) of section 1221(a), or
 
-&emsp;&emsp;(D) a publication of the United States Government (including the Congressional Record) which is received from the United States Government, or any agency thereof, other than by purchase at the price at which it is offered for sale to the public, and which is held by a taxpayer described in paragraph (5) of section 1221.
+&emsp;&emsp;(D) a publication of the United States Government (including the Congressional Record) which is received from the United States Government, or any agency thereof, other than by purchase at the price at which it is offered for sale to the public, and which is held by a taxpayer described in paragraph (5) of section 1221(a).
 
 #### (2) Timber, coal, or domestic iron ore
 
@@ -136,9 +136,11 @@ For purposes of this section—
 
 &emsp;For purposes of determining the amount of the net section 1231 gain or loss for any taxable year, the rules of paragraph (4) of subsection (a) shall apply.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 325; Pub. L. 85–866, title I, §49(a), Sept. 2, 1958, 72 Stat. 1642; Pub. L. 88–272, title II, §227(a)(2), Feb. 26, 1964, 78 Stat. 97; Pub. L. 91–172, title II, §212(b)(1), title V, §§514(b)(2), 516(b), Dec. 30, 1969, 83 Stat. 571, 643, 646; Pub. L. 94–455, title XIV, §1402(b)(1)(R), (2), Oct. 4, 1976, 90 Stat. 1732; Pub. L. 95–600, title VII, §701(ee)(1), Nov. 6, 1978, 92 Stat. 2924; Pub. L. 97–34, title V, §505(c)(1), Aug. 13, 1981, 95 Stat. 332; Pub. L. 98–369, div. A, title I, §176(a), title VII, §711(c)(2)(A)(iii), title X, §1001(b)(15), (e), July 18, 1984, 98 Stat. 709, 944, 1012.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 325; Pub. L. 85–866, title I, §49(a), Sept. 2, 1958, 72 Stat. 1642; Pub. L. 88–272, title II, §227(a)(2), Feb. 26, 1964, 78 Stat. 97; Pub. L. 91–172, title II, §212(b)(1), title V, §§514(b)(2), 516(b), Dec. 30, 1969, 83 Stat. 571, 643, 646; Pub. L. 94–455, title XIV, §1402(b)(1)(R), (2), Oct. 4, 1976, 90 Stat. 1732; Pub. L. 95–600, title VII, §701(ee)(1), Nov. 6, 1978, 92 Stat. 2924; Pub. L. 97–34, title V, §505(c)(1), Aug. 13, 1981, 95 Stat. 332; Pub. L. 98–369, div. A, title I, §176(a), title VII, §711(c)(2)(A)(iii), title X, §1001(b)(15), (e), July 18, 1984, 98 Stat. 709, 944, 1012; Pub. L. 106–170, title V, §532(c)(1)(G), Dec. 17, 1999, 113 Stat. 1930.)
 
 #### Amendments
+
+1999—Subsec. (b)(1)(C), (D). Pub. L. 106–170 substituted “section 1221(a)” for “section 1221”.
 
 1984—Subsec. (a). Pub. L. 98–369, §1001(b)(15), (e), substituted “6 months” for “1 year” wherever appearing, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
@@ -171,6 +173,10 @@ Subsec. (b)(3). Pub. L. 91–172, §212(b)(1), redesignated existing provisions 
 1964—Subsec. (b)(2). Pub. L. 88–272 inserted reference to iron ore in text, and to domestic iron ore in heading.
 
 1958—Subsec. (a). Pub. L. 85–866 inserted provision respecting casualty losses sustained upon certain uninsured property.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
 
 #### Effective Date of 1984 Amendment
 

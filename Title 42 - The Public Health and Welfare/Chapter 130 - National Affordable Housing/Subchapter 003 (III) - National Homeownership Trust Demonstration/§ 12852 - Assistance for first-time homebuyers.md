@@ -48,7 +48,7 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 &emsp;The aggregate annual income of the homebuyer and the members of the family of the homebuyer residing with the homebuyer, for the 12-month period preceding the date of the application of the homebuyer for assistance under this subchapter, does not exceed—
 
-&emsp;&emsp;(A) 95 percent of the median income for a family of 4 persons (adjusted by family size) in the applicable metropolitan statistical area (or such other area that the Board of Directors determines for areas outside of metropolitan statistical areas); or
+&emsp;&emsp;(A) 95 percent of the median income for a family of 4 persons (adjusted by family size) in the applicable metropolitan statisticalarea (or such other area that the Board of Directors determines for areas outside of metropolitan statistical areas); or
 
 &emsp;&emsp;(B) 115 percent of such median income (adjusted by family size) in the case of an area that is subject to a high cost area mortgage limit under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\].
 
@@ -56,7 +56,7 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 #### (3) Certification
 
-&emsp;The homebuyer (and spouse, where applicable) shall certify that the homebuyer hasmade a good faith effort to obtain a market rate mortgage and has been denied because the annual income of the homebuyer and the members of the family of the homebuyer residing with the homebuyer is insufficient.
+&emsp;The homebuyer (and spouse, where applicable) shall certify that the homebuyer has made a good faith effort to obtain a market rate mortgage and has been denied because the annual income of the homebuyer and the members of the family of the homebuyer residing with the homebuyer is insufficient.
 
 #### (4) Principal residence
 

@@ -28,11 +28,11 @@
 
 &emsp;&emsp;(A) a progress payment (including a monthly percentage-of-completion progress payment or milestone payments for completed phases, increments, or segments of any project) that is approved as payable by the agency pursuant to subsection (b) of this section and remains unpaid for—
 
-&emsp;&emsp;&emsp;(i) a period of more than 14 days after receipt of the payment request by the placeor person designated by the agency to first receive such requests; or
+&emsp;&emsp;&emsp;(i) a period of more than 14 days after receipt of the payment request by the place or person designated by the agency to first receive such requests; or
 
 &emsp;&emsp;&emsp;(ii) a longer period, specified in the solicitation, if required to afford the Government a practicable opportunity to adequately inspect the work and to determine the adequacy of the contractor's performance under the contract; and
 
-&emsp;&emsp;(B) any amounts which the agency has retained pursuant to a prime contract clause providing for retaining a percentage of progress payments otherwise due to a contractor and that are approved for release to the contractor, if such retained amounts are not paid to the contractor by a date specified in the contract or, in the absence of such a specified date, by the 30th day after final acceptance;
+&emsp;&emsp;(B) any amounts which the agency has retained pursuant to a prime contract clause providing for retaining a percentage of progress payments otherwise due to a contractor and that are approved for release tothe contractor, if such retained amounts are not paid to the contractor by a date specified in the contract or, in the absence of such a specified date, by the 30th day after final acceptance;
 
 &emsp;(7) require that—
 
@@ -44,7 +44,7 @@
 
 &emsp;(8) permit an agency to make payment up to 7 days prior to the required payment date, or earlier as determined by the agency to be necessary on a case-by-case basis; and
 
-&emsp;(9) prescribe the methods for computing interest under section 3903(c) of this title.
+&emsp;(9) prescribe the methods for computing interest under section 3903(c) <sup>1</sup> of this title.
 
 (b)(1) A payment request may not be approved under subsection (a)(6)(A) of this section unless the application for such payment includes—
 
@@ -60,7 +60,9 @@
 
 (2) The agency shall return any such payment request which is defective to the contractor within 7 days after receipt, with a statement identifying the defect.
 
-(c)(1) The contracting officer shall—
+(c) A contract for the procurement of subsistence items that is entered into under the prime vendor program of the Defense Logistics Agency may specify for the purposes of section 3902 of this title a single required payment date that is to be applicable to an invoice for subsistence items furnished under the contract when more than one payment due date would otherwise be applicable to the invoice under the regulations prescribed under paragraphs (2), (3), and (4) of subsection (a) or under any other provisions of law. The required payment date specified in the contract shall be consistent with prevailing industry practices for the subsistence items, but may not be more than 10 days after the date of receipt of the invoice or the certified date of receipt of the items. The Director of the Office of Management and Budget shall provide in the regulations under subsection (a) that when a required payment date is so specified for an invoice, no other payment due date applies to the invoice.
+
+(d)(1) The contracting officer shall—
 
 &emsp;(A) compute the interest which a contractor shall be obligated to pay under sections 3905(a)(2) and 3905(e)(6) of this title on the basis of the average bond equivalent rates of 91-day Treasury bills auctioned at the most recent auction of such bills prior to the date the contractor received the unearned amount; and
 
@@ -68,7 +70,7 @@
 
 (2) Amounts deducted from payments to contractors under paragraph (1)(B) shall revert to the Treasury.
 
-(Added Pub. L. 97–452, §1(18)(A), Jan. 12, 1983, 96 Stat. 2476; amended Pub. L. 100–496, §§4–7, 13(a), Oct. 17, 1988, 102 Stat. 2457–2459, 2465; Pub. L. 102–190, div. A, title VIII, §842, Dec. 5, 1991, 105 Stat. 1449.)
+(Added Pub. L. 97–452, §1(18)(A), Jan. 12, 1983, 96 Stat. 2476; amended Pub. L. 100–496, §§4–7, 13(a), Oct. 17, 1988, 102 Stat. 2457–2459, 2465; Pub. L. 102–190, div. A, title VIII, §842, Dec. 5, 1991, 105 Stat. 1449; Pub. L. 106–65, div. A, title X, §1009, Oct. 5, 1999, 113 Stat. 738.)
 
 Historical and Revision Notes
 
@@ -90,7 +92,11 @@ In the section, before clause (1), the words “The Director of the Office of Ma
 
 The Perishable Agricultural Commodities Act, 1930, referred to in subsec. (a)(3), is act June 10, 1930, ch. 436, 46 Stat. 531, as amended, which is classified generally to chapter 20A (§499a et seq.) of Title 7, Agriculture. Section 1(4) of the Act was redesignated section 1(b)(4) by Pub. L. 102–237, title X, §1011(1)(A), Dec. 13, 1991, 105 Stat. 1898, and is classified to section 499a(b)(4) of Title 7. For complete classification of this Act to the Code, see section 499r of Title 7 and Tables.
 
+Section 3903(c) of this title, referred to in subsec. (a)(9), was redesignated section 3903(d) by Pub. L. 106–65, div. A, title X, §1009(1), Oct. 5, 1999, 113 Stat. 738.
+
 #### Amendments
+
+1999—Subsecs. (c), (d). Pub. L. 106–65 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1991—Subsec. (a)(2). Pub. L. 102–190 inserted provisions relating to fresh or frozen fish as defined in 16 U.S.C. 4003(3) and substituted “meat, meat food product, or fish” for “meat or meat food product”.
 

@@ -64,7 +64,7 @@ The Secretary is authorized to appoint, without regard to the civil service laws
 
 #### (m) Occupancy preference in rental housing for military personnel
 
-Whenever he shall determine that, because of location, or other considerations, any rental housing project assisted under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] or title I of the Housing and Urban Development Act of 1965 could ordinarily be expected substantially to serve the family housing needs of lower income military personnel serving on active duty, the Secretary is authorized to provide for or approve such preference or priority of occupancy of such project by such military personnel as he shall determine is appropriate to assurethat the project will serve their needs on a continuing basis notwithstanding the frequency with which individual members of such personnel may be transferred or reassigned to new duty stations.
+Whenever he shall determine that, because of location, or other considerations, any rental housing project assisted under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] or title I of the Housing and Urban Development Act of 1965 could ordinarily be expected substantially to serve the family housing needs of lower income military personnel serving on active duty, the Secretary is authorized to provide for or approve such preference or priority of occupancy of such project by such military personnel as he shall determine is appropriate to assure that the project will serve their needs on a continuing basis notwithstanding the frequency with which individual members of such personnel may be transferred or reassigned to new duty stations.
 
 #### (n) Day care center for children of employees of Department; establishment; fees and charges
 
@@ -124,7 +124,7 @@ A plan for the reorganization of any regional, area, insuring, or other field of
 
 &emsp;(B) specify the grounds for approving the waiver; and
 
-&emsp;(C) be maintained in indexed form and made available for public inspection for not lessthan the 3-year period beginning on the date of the waiver.
+&emsp;(C) be maintained in indexed form and made available for public inspection for not less than the 3-year period beginning on the date of the waiver.
 
 #### (r) Program evaluation and monitoring
 
@@ -180,7 +180,7 @@ The classification laws, referred to in subsec. (c), are classified generally to
 
 The National Housing Act, referred to in subsecs. (m) and (s)(2), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. Title II of the Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
-The Housing and Urban Development Act of 1965, referred to in subsec. (m), is Pub. L. 89–117, Aug. 10, 1965, 79 Stat. 451, as amended. Title I of the Housing and Urban Development Act of 1965 enacted sections 1421b, 1466 of this title, and sections 1701q, 1701s, 1735g, 1735h of Title 12, amended sections 1402, 1422, 1451, 1465 of this title, sections 1715c, 1715<i>l</i>, 1715n, 1717 of Title 12, and section 1816 \[now 3732\] of Title 38, Veterans’ Benefits,and enacted provisions set out as notes under section 1466 of this title and section 1701q of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12 and Tables.
+The Housing and Urban Development Act of 1965, referred to in subsec. (m), is Pub. L. 89–117, Aug. 10, 1965, 79 Stat. 451, as amended. Title I of the Housing and Urban Development Act of 1965 enacted sections 1421b, 1466 of this title, and sections 1701q, 1701s, 1735g, 1735h of Title 12, amended sections 1402, 1422, 1451, 1465 of this title, sections 1715c, 1715<i>l</i>, 1715n, 1717 of Title 12, and section 1816 \[now 3732\] of Title 38, Veterans’ Benefits, and enacted provisions set out as notes under section 1466 of this title and section 1701q of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12 and Tables.
 
 The Department of Housing and Urban Development Reform Act of 1989, referred to in subsec. (<i>o</i>)(3), is Pub. L. 101–235, Dec. 15, 1989, 103 Stat. 1987. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 3531 of this title and Tables.
 
@@ -216,7 +216,7 @@ Subsec. (d) is comprised of the first sentence of subsec. (d) of section 7 of Pu
 
 1994—Subsec. (i)(5). Pub. L. 103–233 struck out before last semicolon “; except that with respect to any mortgage held by the Secretary, the Secretary shall, subject to the availability of amounts provided in appropriation Acts, implement the authority under this paragraph to reduce the interest rate on the mortgage to a rate not less than the rate for recently issued marketable obligations of the Treasury having a comparable maturity if (and to the extent that) such a reduction, when taken together with other actions authorized under the National Housing Act, is necessary to avoid foreclosure on the mortgage; and except that for any mortgage for which the interest rate is reduced pursuant to an appropriation under the preceding clause, if the Secretary determines that the income or ability of the mortgagor to make interest payments has increased, the Secretary may (not more than once for each such mortgage) increase such interest rate to a rate not exceeding the prevailing market rate, as determined by the Secretary”.
 
-1992—Subsec. (i)(5). Pub. L. 102–550, §902(b)(1), inserted before semicolon “; except that with respect to any mortgage held by the Secretary, the Secretary shall, subject to the availability of amounts provided in appropriation Acts, implement the authority under this paragraph to reduce the interest rate on the mortgage to a rate not less than the rate for recently issued marketable obligations of the Treasury having a comparable maturity if (and to the extent that) such a reduction, when taken together with other actions authorized under the National Housing Act, is necessary to avoid foreclosure on the mortgage; and except that for any mortgage for which the interest rate is reduced pursuant to an appropriation under the preceding clause, if the Secretary determines that the income orability of the mortgagor to make interest payments has increased, the Secretary may (not more than once for each such mortgage) increase such interest rate to a rate not exceeding the prevailing market rate, as determined by the Secretary”.
+1992—Subsec. (i)(5). Pub. L. 102–550, §902(b)(1), inserted before semicolon “; except that with respect to any mortgage held by the Secretary, the Secretary shall, subject to the availability of amounts provided in appropriation Acts, implement the authority under this paragraph to reduce the interest rate on the mortgage to a rate not less than the rate for recently issued marketable obligations of the Treasury having a comparable maturity if (and to the extent that) such a reduction, when taken together with other actions authorized under the National Housing Act, is necessary to avoid foreclosure on the mortgage; and except that for any mortgage for which the interest rate is reduced pursuant to an appropriation under the preceding clause, if the Secretary determines that the income or ability of the mortgagor to make interest payments has increased, the Secretary may (not more than once for each such mortgage) increase such interest rate to a rate not exceeding the prevailing market rate, as determined by the Secretary”.
 
 Subsec. (i)(6). Pub. L. 102–550, §902(b)(2), inserted before period “, including any provisions relating to the authority or requirements under paragraph (5)”.
 
@@ -328,7 +328,7 @@ In General.—Not later than 12 months after the date of the enactment of this A
 
 &emsp;&emsp;&emsp;“(viii) indications of rodent infestation; and
 
-&emsp;“(2) with respect to multifamily housing projects (as that term is defined in section 203 of the Housing and Community Development Amendments of 1978 \[12 U.S.C. 1701z–11\]) owned by the Department of Housing and Urban Development on a monthly average basis—
+&emsp;“(2) with respect to multifamily housing projects (as that term is defined in section 203 of the Housing and Community Development Amendments of 1978 \[12U.S.C. 1701z–11\]) owned by the Department of Housing and Urban Development on a monthly average basis—
 
 &emsp;&emsp;“(A) the total number of units in those projects;
 

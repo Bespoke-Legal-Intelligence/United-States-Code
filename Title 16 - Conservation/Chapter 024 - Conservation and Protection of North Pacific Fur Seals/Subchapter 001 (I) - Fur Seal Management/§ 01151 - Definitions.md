@@ -8,7 +8,7 @@
 
 (d) “Fur Seal” means the North Pacific Fur Seal, Callorhinus Ursinus.
 
-(e) “Import” means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
+(e) “Import” means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to thejurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
 
 (f) “Natives of the Pribilof Islands” means any Aleuts who are permanent residents of the Pribilof Islands, or any organization or entity representing such natives.
 
@@ -16,7 +16,7 @@
 
 (h) “Party” or “parties” means the United States of America, Canada, Japan, and Russia (except that as used in subsection (b) of this section, “party” and “parties” refer to the Union of Soviet Socialist Republics).
 
-(i) “Person” means any individual, partnership, corporation, trust, association or anyother private entity, or any officer, employee, agent, department, or instrumentality of the Federal Government, of any State or political subdivision thereof, or of any foreign government.
+(i) “Person” means any individual, partnership, corporation, trust, association or any other private entity, or any officer, employee, agent, department, or instrumentality of the Federal Government, of any State or political subdivision thereof, or of any foreign government.
 
 (j) “Pribilof Islands” means the islands of Saint Paul and Saint George, Walrus and Otter Islands, and Sea Lion Rock.
 

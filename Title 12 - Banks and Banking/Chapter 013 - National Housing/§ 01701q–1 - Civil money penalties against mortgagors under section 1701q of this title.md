@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The penalties set forth in this section shall be in addition to any other available civil remedy or criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions. The Secretary may not impose penalties under this section for violations a material cause of which are the failure of the Department, an agent of the Department, or a public housing agency to comply with existing agreements.
+The penalties set forth in this section shall be in addition to any other available civil remedy or criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions. The Secretary may not impose penalties under this section for violations a material cause of which are the failure of the Department, an agent of the Department, or apublic housing agency to comply with existing agreements.
 
 #### (b) Penalty for violation of agreement as condition of transfer of physical assets, flexible subsidy loan, capital improvement loan, modification of mortgage terms, or workout agreement
 
@@ -36,7 +36,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 &emsp;&emsp;(H) Failure to maintain at any time the mortgaged property, equipment, buildings, plans, offices, apparatus, devices, books, contracts, records, documents, and other related papers (including failure to keep copies of all written contracts or other instruments which affect the mortgaged property) in reasonable condition for proper audit and for examination and inspection at any reasonable time by the Secretary or any duly authorized agents of the Secretary.
 
-&emsp;&emsp;(I) Failure to maintain the books and accounts of the operations of the mortgaged property and of the project in accordancewith requirements prescribed by the Secretary.
+&emsp;&emsp;(I) Failure to maintain the books and accounts of the operations of the mortgaged property and of the project in accordance with requirements prescribed by the Secretary.
 
 &emsp;&emsp;(J) Failure to furnish the Secretary, by the expiration of the 60-day period beginning on the 1st day after the completion of each fiscal year, with a complete annual financial report based upon an examination of the books and records of the mortgagor prepared in accordance with requirements prescribed by the Secretary, and prepared and certified to by an independent public accountant or a certified public accountant and certified to by an officer of the mortgagor, unless the Secretary has approved an extension of the 60-day period in writing. The Secretary shall approve an extension where the mortgagor demonstrates that failure to comply with this subparagraph is due to events beyond the control of the mortgagor.
 
@@ -48,7 +48,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 #### (2) Amount of penalty
 
-&emsp;A penalty imposed for a violation under this subsection, as determined by the Secretary, may not exceed $25,000 for a violation of any of the subparagraphs of paragraph (1).
+&emsp;A penalty imposed for a violation under this subsection, as determined by the Secretary,may not exceed $25,000 for a violation of any of the subparagraphs of paragraph (1).
 
 #### (d) Agency procedures
 
@@ -94,7 +94,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 #### (f) Action to collect penalty
 
-If a mortgagor fails to comply with the Secretary's determination or order imposing a civilmoney penalty under subsection (b) or (c) of this section, after the determination or order is no longer subject to review as provided by subsections (d)(1) and (e) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the mortgagor and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
+If a mortgagor fails to comply with the Secretary's determination or order imposing a civil money penalty under subsection (b) or (c) of this section, after the determination or order is no longer subject to review as provided by subsections (d)(1) and (e) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the mortgagor and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
 
 #### (g) Settlement by Secretary
 

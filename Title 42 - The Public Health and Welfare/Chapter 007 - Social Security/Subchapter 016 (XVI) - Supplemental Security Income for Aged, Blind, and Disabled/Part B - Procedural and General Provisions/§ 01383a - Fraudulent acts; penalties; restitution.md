@@ -42,7 +42,7 @@ Section 206(c)(3) of Pub. L. 103–296 provided that: “The amendments made by 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–460 effective Oct. 9, 1984, and applicable with respect to violations occurring onor after such date, see section 16(d) of Pub. L. 98–460, set out as a note under section 405 of this title.
+Amendment by Pub. L. 98–460 effective Oct. 9, 1984, and applicable with respect to violations occurring on or after such date, see section 16(d) of Pub. L. 98–460, set out as a note under section 405 of this title.
 
 #### Effective Date
 
@@ -58,5 +58,5 @@ Enactment of provisions of Pub. L. 92–603, eff. Jan. 1, 1974, not applicable t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 405, 408, 1383 of this title.
+This section is referred to in sections 405, 408, 1007, 1320b–6, 1383 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Required disclosure before disbursement
 
-Each eligible lender, at or prior to the time such lender disburses a loan that is insured or guaranteed under this part (other than a loan made under section 1078–3 of this title), shall provide thorough and accurate loan information on such loan to the borrower in simple and understandable terms. Any disclosure required by this subsection may be made by an eligible lender by written or electronic means, including as part of the application material provided to the borrower, as part of the promissory note evidencing the loan, or on a separate written form provided to the borrower. Each lender shall provide to each borrower a telephone number, and may provide an electronic address, through which additional loan information can be obtained. The disclosure shall include—
+Each eligible lender, at or prior to the time such lender disburses a loan that is insured orguaranteed under this part (other than a loan made under section 1078–3 of this title), shall provide thorough and accurate loan information on such loan to the borrower in simple and understandable terms. Any disclosure required by this subsection may be made by an eligible lender by written or electronic means, including as part of the application material provided to the borrower, as part of the promissory note evidencing the loan, or on a separate written form provided to the borrower. Each lender shall provide to each borrower a telephone number, and may provide an electronic address, through which additional loan information can be obtained. The disclosure shall include—
 
 &emsp;(1) a statement prominently and clearly displayed and in bold print that the borrower is receiving a loan that must be repaid;
 
@@ -56,7 +56,7 @@ Each eligible lender shall, at or prior to the start of the repayment period of 
 
 #### (c) Cost of disclosure and consequences of nondisclosure
 
-Such information shall be available without cost to the borrower. The failure of an eligible lender to provide information as required by this section shall not (1) relieve a borrower of the obligation to repay a loan in accordance with its terms, (2) provide a basis for a claim for civil damages, or (3) be deemed to abrogate the obligation of the Secretary under a contract of insurance or reinsurance, or the obligation of a guaranty agency under a contract of guaranty. Nothing in this section shall be construed as subjecting the lender to the Truth in Lending Act \[15 U.S.C. 1601 et seq.\] with regard to loans made under this part. The Secretary may limit, suspend, or terminate the continued participation of an eligible lender in making loans under this part for failure by that lender to comply with this section.
+Such information shall be available without cost to the borrower. The failure of an eligible lender to provide information as required by this section shall not (1) relieve a borrower of the obligation to repay a loan in accordance with its terms, (2) provide a basis for a claim for civil damages, or (3) be deemed to abrogate the obligation of the Secretary under a contract of insurance or reinsurance, or the obligation of a guaranty agency under a contract of guaranty. Nothing in this section shall be construed assubjecting the lender to the Truth in Lending Act \[15 U.S.C. 1601 et seq.\] with regard to loans made under this part. The Secretary may limit, suspend, or terminate the continued participation of an eligible lender in making loans under this part for failure by that lender to comply with this section.
 
 #### (d) Separate statement
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Effective Date
 
-Section effective Oct. 17, 1986, with subsecs. (a), (b), and (d) of this section applicable only with respect to loans disbursed on or after Jan. 1, 1987, or made to cover the costs of instruction for periods of enrollment beginning on or after Jan. 1, 1987, see section 402(b) ofPub. L. 99–498, set out as a note under section 1071 of this title.
+Section effective Oct. 17, 1986, with subsecs. (a), (b), and (d) of this section applicable only with respect to loans disbursed on or after Jan. 1, 1987, or made to cover the costs of instruction for periods of enrollment beginning on or after Jan. 1, 1987, see section 402(b) of Pub. L. 99–498, set out as a note under section 1071 of this title.
 
 #### Section Referred to in Other Sections
 

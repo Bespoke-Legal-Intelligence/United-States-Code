@@ -104,9 +104,9 @@ Section 1078(a)(2)(C) of this title, referred to in subsec. (a)(3)(A)(iii)(I), w
 
 #### Prior Provisions
 
-A prior section 1015, Pub. L. 89–329, title I, §131, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 465, authorized grants to eligible partnerships for education telecommunications activities, prior to the general amendment of this subchapter by Pub. L. 105–244.
+A prior section 1015, Pub. L. 89–329, title I, §131, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106Stat. 465, authorized grants to eligible partnerships for education telecommunications activities, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
-Another prior section 1015, Pub. L. 89–329, title I, §115, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1285, authorized appropriations for former part Aof this subchapter, prior to the general amendment of this subchapter by Pub. L. 102–325.
+Another prior section 1015, Pub. L. 89–329, title I, §115, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1285, authorized appropriations for former part A of this subchapter, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 Another prior section 1015, Pub. L. 89–329, title I, §115, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1380, related to continuing education, prior to the general amendment of this subchapter by Pub. L. 99–498.
 

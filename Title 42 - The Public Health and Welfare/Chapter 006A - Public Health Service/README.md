@@ -318,7 +318,25 @@ Active service deemed active military service with respect to anti-discriminatio
 |  |  |
 | :--- | ---: |
 | [213a.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000213a%20-%20Rights%2C%20benefits%2C%20privileges%2C%20and%20immunities%20for%20commissioned%20officers%20or%20beneficiaries%3B%20exercise%20of%20authority%20by%20Secretary%20or%20designee.md) | Rights, benefits, privileges, and immunities for commissioned officers or beneficiaries; exercise of authority by Secretary or designee. |
-| 214, 214a. | Repealed. |
+| [214\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000214%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md) | Presentation of United States flag upon retirement. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Presentation of flag.
+
+(b)
+
+Multiple presentations not authorized.
+
+(c)
+
+No cost to recipient.
+
+|  |  |
+| :--- | ---: |
+| [214a.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000214a%20-%20Repealed.%20Sept.%201%2C%201954%2C%20ch.%201211%2C%20%C2%A75%2C%2068%20Stat.%201130.md) | Repealed. |
 | [215\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000215%20-%20Detail%20of%20Service%20personnel.md) | Detail of Service personnel. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1126,6 +1144,40 @@ Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
+| 247b–4a. | Early detection, diagnosis, and interventions for newborns and infants with hearing loss. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Definitions.
+
+(b)
+
+Purposes.
+
+(c)
+
+Statewide newborn and infant hearing screening, evaluation and intervention programs and systems.
+
+(d)
+
+Technical assistance, data management, and applied research.
+
+(e)
+
+Coordination and collaboration.
+
+(f)
+
+Rule of construction.
+
+(g)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
 | 247b–5. | Preventive health measures with respect to prostate cancer. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1661,6 +1713,28 @@ Services through Indian health facilities.
 (c)
 
 Funding.
+
+|  |  |
+| :--- | ---: |
+| 254c–4. | Centers for strategies on facilitating utilization of preventive health services among various populations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Research and training.
+
+(c)
+
+Priority regarding infants and children.
+
+(d)
+
+Authorization of appropriations.
 
 #### subpart ii—national health service corps program
 
@@ -2410,6 +2484,42 @@ Certain authorities.
 (c)
 
 Relevant entities.
+
+#### subpart ix—support of graduate medical education programs in children's hospitals
+
+|  |  |
+| :--- | ---: |
+| [256e.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20009%20%28ix%29%20-%20Support%20of%20Graduate%20Medical%20Education%20Programs%20in%20Children%27s%20Hospitals/%C2%A7%2000256e%20-%20Program%20of%20payments%20to%20children%27s%20hospitals%20that%20operate%20graduate%20medical%20education%20programs.md) | Program of payments to children's hospitals that operate graduate medical education programs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Payments.
+
+(b)
+
+Amount of payments.
+
+(c)
+
+Amount of payment for direct graduate medical education.
+
+(d)
+
+Amount of payment for indirect medical education.
+
+(e)
+
+Making of payments.
+
+(f)
+
+Authorization of appropriations.
+
+(g)
+
+Definitions.
 
 #### Part E—Narcotic Addicts and Other Drug Abusers
 
@@ -5223,7 +5333,7 @@ Electronic, convenient format; criteria for inclusion.
 
 (d)
 
-Coordination with Administrator for Health Care Policy and Research.
+Coordination with Director of the Agency for Healthcare Research and Quality.
 
 #### Part E—Other Agencies of NIH
 
@@ -8826,13 +8936,13 @@ Funding.
 
 FACA.
 
-#### SUBCHAPTER VII—AGENCY FOR HEALTH CARE POLICY AND RESEARCH
+#### SUBCHAPTER VII—AGENCY FOR HEALTHCARE RESEARCH AND QUALITY
 
 #### Part A—Establishment and General Duties
 
 |  |  |
 | :--- | ---: |
-| [299\.](Subchapter%20007%20%28VII%29%20-%20Agency%20for%20Health%20Care%20Policy%20and%20Research/Part%20A%20-%20Establishment%20and%20General%20Duties/%C2%A7%2000299%20-%20Establishment.md) | Establishment. |
+| [299\.](Subchapter%20007%20%28VII%29%20-%20Agency%20for%20Healthcare%20Research%20and%20Quality/Part%20A%20-%20Establishment%20and%20General%20Duties/%C2%A7%2000299%20-%20Mission%20and%20duties.md) | Mission and duties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8842,15 +8952,15 @@ In general.
 
 (b)
 
-Purpose.
+Mission.
 
 (c)
 
-Appointment of Administrator.
+Requirements with respect to rural and inner-city areas and priority populations.
 
 |  |  |
 | :--- | ---: |
-| [299a.](Subchapter%20007%20%28VII%29%20-%20Agency%20for%20Health%20Care%20Policy%20and%20Research/Part%20A%20-%20Establishment%20and%20General%20Duties/%C2%A7%2000299a%20-%20General%20authorities%20and%20duties.md) | General authorities and duties. |
+| [299a.](Subchapter%20007%20%28VII%29%20-%20Agency%20for%20Healthcare%20Research%20and%20Quality/Part%20A%20-%20Establishment%20and%20General%20Duties/%C2%A7%2000299a%20-%20General%20authorities.md) | General authorities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8859,50 +8969,66 @@ Appointment of Administrator.
 In general.
 
 (b)
-
-Requirements with respect to rural areas and underserved populations.
-
-(c)
 
 Health services training grants.
 
-(d)
+(c)
 
 Multidisciplinary centers.
 
-(e)
+(d)
 
 Relation to certain authorities regarding social security.
 
+(e)
+
+Disclaimer.
+
+(f)
+
+Rule of construction.
+
+(g)
+
+Annual report.
+
+#### Part B—Health Care Improvement Research
+
 |  |  |
 | :--- | ---: |
-| 299a–1. | Dissemination. |
+| [299b.](Subchapter%20007%20%28VII%29%20-%20Agency%20for%20Healthcare%20Research%20and%20Quality/Part%20B%20-%20Health%20Care%20Improvement%20Research/%C2%A7%2000299b%20-%20Health%20care%20outcome%20improvement%20research.md) | Health care outcome improvement research. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-In general.
+Evidence rating systems.
 
 (b)
 
-Prohibition against restrictions.
+Health care improvement research centers and provider-based research networks.
+
+|  |  |
+| :--- | ---: |
+| 299b–1. | Private-public partnerships to improve organization and delivery. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Support for efforts to develop information on quality.
+
+(b)
+
+Centers for education and research on therapeutics.
 
 (c)
 
-Limitation on use of certain information.
-
-(d)
-
-Certain interagency agreement.
-
-(e)
-
-Required interagency agreement.
+Reducing errors in medicine.
 
 |  |  |
 | :--- | ---: |
-| 299a–2. | Health care technology and technology assessment. |
+| 299b–2. | Information on quality and cost of care. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8911,137 +9037,82 @@ Required interagency agreement.
 In general.
 
 (b)
+
+Quality and outcomes information.
+
+|  |  |
+| :--- | ---: |
+| 299b–3. | Information systems for health care improvement. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Demonstration.
+
+(c)
+
+Facilitating public access to information.
+
+|  |  |
+| :--- | ---: |
+| 299b–4. | Research supporting primary care and access in underserved areas. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Preventive Services Task Force.
+
+(b)
+
+Primary care research.
+
+|  |  |
+| :--- | ---: |
+| 299b–5. | Health care practice and technology innovation. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Specification of process.
+
+(c)
 
 Specific assessments.
 
-(c)
-
-Agenda and priorities.
-
 (d)
 
-Conduct of assessments.
-
-(e)
-
-Description of process.
-
-(f)
-
-Program of innovative assessments.
+Medical examination of certain victims.
 
 |  |  |
 | :--- | ---: |
-| 299a–3. | Demonstration program regarding centers for education and research on therapeutics. |
+| 299b–6. | Coordination of Federal Government quality improvement efforts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-In general.
+Requirement.
 
 (b)
 
-Required activities.
-
-(c)
-
-Application for grant.
-
-(d)
-
-Peer review.
-
-(e)
-
-Authorization of appropriations.
-
-#### Part B—Forum for Quality and Effectiveness in Health Care
-
-|  |  |
-| :--- | ---: |
-| [299b.](Subchapter%20007%20%28VII%29%20-%20Agency%20for%20Health%20Care%20Policy%20and%20Research/Part%20B%20-%20Forum%20for%20Quality%20and%20Effectiveness%20in%20Health%20Care/%C2%A7%2000299b%20-%20Establishment%20of%20office.md) | Establishment of office. |
-| 299b–1. | Duties. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Establishment of forum program.
-
-(b)
-
-Certain requirements.
-
-(c)
-
-Authority for contracts.
-
-(d)
-
-Date certain for initial guidelines and standards.
-
-(e)
-
-Relationship with medicare program.
-
-(f)
-
-Development of certain guidelines and standards.
-
-|  |  |
-| :--- | ---: |
-| 299b–2. | Process for development of guidelines and standards. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Development through contracts and panels.
-
-(b)
-
-Authority for additional panels.
-
-(c)
-
-Selection of panel members.
-
-|  |  |
-| :--- | ---: |
-| 299b–3. | Additional requirements. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Program agenda.
-
-(b)
-
-Standards and criteria.
-
-(c)
-
-Dissemination.
-
-(d)
-
-Pilot testing.
-
-(e)
-
-Evaluations.
-
-(f)
-
-Recommendations to Administrator.
+Study by the Institute of Medicine.
 
 #### Part C—General Provisions
 
 |  |  |
 | :--- | ---: |
-| [299c.](Subchapter%20007%20%28VII%29%20-%20Agency%20for%20Health%20Care%20Policy%20and%20Research/Part%20C%20-%20General%20Provisions/%C2%A7%2000299c%20-%20Advisory%20Council%20for%20Health%20Care%20Policy%2C%20Research%2C%20and%20Evaluation.md) | Advisory Council for Health Care Policy, Research, and Evaluation. |
+| [299c.](Subchapter%20007%20%28VII%29%20-%20Agency%20for%20Healthcare%20Research%20and%20Quality/Part%20C%20-%20General%20Provisions/%C2%A7%2000299c%20-%20Advisory%20Council%20for%20Healthcare%20Research%20and%20Quality.md) | Advisory Council for Healthcare Research and Quality. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -9105,7 +9176,7 @@ Establishment of peer review groups.
 
 (d)
 
-Categories of review.
+Authority for procedural adjustments in certain cases.
 
 (e)
 
@@ -9123,7 +9194,7 @@ Standards with respect to utility of data.
 
 (b)
 
-Statistics.
+Statistics and analyses.
 
 (c)
 
@@ -9131,7 +9202,29 @@ Authority regarding certain requests.
 
 |  |  |
 | :--- | ---: |
-| 299c–3. | Additional provisions with respect to grants and contracts. |
+| 299c–3. | Dissemination of information. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Prohibition against restrictions.
+
+(c)
+
+Limitation on use of certain information.
+
+(d)
+
+Penalty.
+
+|  |  |
+| :--- | ---: |
+| 299c–4. | Additional provisions with respect to grants and contracts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -9153,13 +9246,13 @@ Applicability of certain provisions with respect to contracts.
 
 |  |  |
 | :--- | ---: |
-| 299c–4. | Certain administrative authorities. |
+| 299c–5. | Certain administrative authorities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Deputy Administrator and other officers and employees.
+Deputy director and other officers and employees.
 
 (b)
 
@@ -9187,33 +9280,25 @@ Voluntary and uncompensated services.
 
 |  |  |
 | :--- | ---: |
-| 299c–5. | Funding. |
+| 299c–6. | Funding. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Authorization of appropriations.
+Intent.
 
 (b)
 
-Evaluations.
+Authorization of appropriations.
 
 (c)
 
-Information center.
-
-(d)
-
-Health care technology assessment.
-
-(e)
-
-Program of innovative assessments.
+Evaluations.
 
 |  |  |
 | :--- | ---: |
-| 299c–6. | Definitions. |
+| 299c–7. | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -15744,7 +15829,7 @@ Definitions relating to markets and small employers.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 217a–1, 300a–7, 300a–29, 701, 1320a–1, 1320a–7b, 1396r–4, 3013, 14402 of this title; title 7 section 136a–1; title 8 section 1255a; title 18 section 42; title 20 section 1092a; title 21 section 397; title 35 sections 156, 287; title 38 section 8126.
+This chapter is referred to in sections 217a–1, 247b–4a, 300a–7, 300a–29, 701, 1320a–1, 1320a–7b, 1396r–4, 1437d, 3013, 14402 of this title; title 7 section 136a–1; title 8 section 1255a; title 18 section 42; title 20 section 1092a; title 21 section 397; title 35 sections 156, 287; title 38 section 8126.
 
 
 ---
@@ -15758,7 +15843,7 @@ This chapter is referred to in sections 217a–1, 300a–7, 300a–29, 701, 1320
 - [Subchapter 004 (IV) - Construction and Modernization of Hospitals and Other Medical Facilities](Subchapter%20004%20%28IV%29%20-%20Construction%20and%20Modernization%20of%20Hospitals%20and%20Other%20Medical%20Facilities/README.md)
 - [Subchapter 005 (V) - Health Professions Education](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/README.md)
 - [Subchapter 006 (VI) - Nursing Workforce Development](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/README.md)
-- [Subchapter 007 (VII) - Agency for Health Care Policy and Research](Subchapter%20007%20%28VII%29%20-%20Agency%20for%20Health%20Care%20Policy%20and%20Research/README.md)
+- [Subchapter 007 (VII) - Agency for Healthcare Research and Quality](Subchapter%20007%20%28VII%29%20-%20Agency%20for%20Healthcare%20Research%20and%20Quality/README.md)
 - [Subchapter 008 (VIII) - Population Research and Voluntary Family Planning Programs](Subchapter%20008%20%28VIII%29%20-%20Population%20Research%20and%20Voluntary%20Family%20Planning%20Programs/README.md)
 - [Subchapter 008&#8211;A (VIII&#8211;A) - Adolescent Pregnancies](Subchapter%20008%E2%80%93A%20%28VIII%E2%80%93A%29%20-%20Adolescent%20Pregnancies/README.md)
 - [Subchapter 009 (IX) - Genetic Diseases, Hemophilia Programs, and Sudden Infant Death Syndrome](Subchapter%20009%20%28IX%29%20-%20Genetic%20Diseases%2C%20Hemophilia%20Programs%2C%20and%20Sudden%20Infant%20Death%20Syndrome/README.md)

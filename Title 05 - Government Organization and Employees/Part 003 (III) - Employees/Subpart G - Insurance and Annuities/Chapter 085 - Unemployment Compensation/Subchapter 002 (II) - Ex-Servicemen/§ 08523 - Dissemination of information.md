@@ -1,6 +1,6 @@
 ### §8523. Dissemination of information
 
-(a) When designated by the Secretary of Labor, an agency of the United States shall make available to the appropriate State agency or to the Secretary, as the case may be, such information, including findings in the form and manner prescribed by regulations of the Secretary, as the Secretary considers practicable and necessary for the determination of the entitlement of an individual to compensation under this subchapter.
+(a) When designated by the Secretary of Labor, an agency of the United States shallmake available to the appropriate State agency or to the Secretary, as the case may be, such information, including findings in the form and manner prescribed by regulations of the Secretary, as the Secretary considers practicable and necessary for the determination of the entitlement of an individual to compensation under this subchapter.
 
 (b) Subject to correction of errors and omissions as prescribed by regulations of the Secretary, the following are final and conclusive for the purpose of sections 8502(d) and 8503(c) of this title:
 

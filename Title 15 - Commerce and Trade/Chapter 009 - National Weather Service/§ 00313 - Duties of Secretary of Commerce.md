@@ -36,7 +36,7 @@ Responsibilities.—(1) The Secretary of Defense shall have the responsibility f
 
 “(c)
 
-Management Plans.—(1) The Secretary of Defense and the Secretary of Commerce shall jointly develop and, within 120 days after the date of enactment of this Act \[Oct. 29, 1992\], submit to the Congress a management plan for the program established under this section, which shall include organizational structure, goals, major tasks, and funding profiles for the 5-year duration of the program.
+Management Plans.—(1) The Secretary of Defense and the Secretary of Commerce shall jointly develop and, within 120 days after the date of enactment of this Act \[Oct. 29, 1992\], submit to the Congress amanagement plan for the program established under this section, which shall include organizational structure, goals, major tasks, and funding profiles for the 5-year duration of the program.
 
 “(2) The Secretary of Defense and the Secretary of Commerce, in consultation with the Tropical Cyclone Research Advisory Committee established by section 107(a)(2), shall jointly develop and, within 4 years after the date of enactment of this Act, submit to the Congress a management plan providing for continued tropical cyclone surveillance and reconnaissance which will adequately protect the citizens of the coastal areas of the United States.
 
@@ -222,7 +222,7 @@ Establishment.—There is established a committee of 12 members to be known as t
 
 Membership and Terms.—(1) The Committee shall consist of—
 
-&emsp;“(A) five members representing agencies and departments of the United States which are responsible for providing or using weather services, including but not limited to the National Weather Service, the Department of Defense, the Federal Aviation Administration, and the Federal Emergency Management Agency; and
+&emsp;“(A) five members representing agencies and departments of the United States which are responsiblefor providing or using weather services, including but not limited to the National Weather Service, the Department of Defense, the Federal Aviation Administration, and the Federal Emergency Management Agency; and
 
 &emsp;“(B) seven members to be appointed by the Secretary from civil defense and public safety organizations, news media, any labor organization certified by the Federal Labor Relations Authority as an exclusive representative of weather service employees, meteorological experts, and private sector users of weather information such as pilots and farmers.
 
@@ -318,7 +318,7 @@ Pub. L. 98–8, title I, §104, Mar. 24, 1983, 97 Stat. 34, provided that:
 
 “Since our Nation's economy—its agriculture, aviation, ocean shipping and construction—is heavily affected by weather and our ability to forecast and disseminate vital information about its behavior: Now, therefore,
 
-“It is the sense of the Congress that a reliable and comprehensive national weather information system responsive to the needs of national security; agriculture, transportation and other affected sectors; and individual citizens must be maintained through a strong central National Weather Service that can workclosely with the private sector, other Federal and State government agencies, and the weather services of other nations.
+“It is the sense of the Congress that a reliable and comprehensive national weather information system responsive to the needs of national security; agriculture, transportation and other affected sectors; and individual citizens must be maintained through a strong central National Weather Service that can work closely with the private sector, other Federal and State government agencies, and the weather services of other nations.
 
 “Further, the Nation's civil operational remote sensing satellites (METSAT and LANDSAT) shall remain under the National Oceanic and Atmospheric Administration. No effort shall be made to dismantle, transfer, lease or sell any portion of these systems without prior congressional approval.”
 

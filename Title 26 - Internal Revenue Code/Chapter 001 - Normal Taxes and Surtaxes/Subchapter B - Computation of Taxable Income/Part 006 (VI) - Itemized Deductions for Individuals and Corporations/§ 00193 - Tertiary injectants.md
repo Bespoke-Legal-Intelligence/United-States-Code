@@ -10,7 +10,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “qualified tertiary injectant expenses” means any cost paid or incurred (whether or not chargeable to capital account)for any tertiary injectant (other than a hydrocarbon injectant which is recoverable) which is used as a part of a tertiary recovery method.
+&emsp;The term “qualified tertiary injectant expenses” means any cost paid or incurred (whether or not chargeable to capital account) for any tertiary injectant (other than a hydrocarbon injectant which is recoverable) which is used as a part of a tertiary recovery method.
 
 #### (2) Hydrocarbon injectant
 

@@ -126,7 +126,7 @@ Part effective Jan. 1, 1996, or on the date 90 days after appropriations are mad
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1502, 1515 of this title.
+This section is referred to in sections 658b, 658c, 1502, 1515 of this title.
 
 <i><sup>1</sup></i><i> So in original. Second closing parenthesis probably should not appear.</i>
 

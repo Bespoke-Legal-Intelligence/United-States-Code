@@ -4,7 +4,7 @@
 
 #### (1) Notice of manufacture of still
 
-&emsp;The Secretary may, pursuant to regulations, require any person who manufactures anystill, boiler, or other vessel to be used for the purpose of distilling, to give written notice, before the still, boiler, or other vessel is removed from the place of manufacture, setting forth by whom it is to be used, its capacity, and the time of removal from the place of manufacture.
+&emsp;The Secretary may, pursuant to regulations, require any person who manufactures any still, boiler, or other vessel to be used for the purpose of distilling, to give written notice, before the still, boiler, or other vessel is removed from the place of manufacture, setting forth by whom it is to be used, its capacity, and the time of removal from the place of manufacture.
 
 #### (2) Notice of set up of still
 
@@ -26,7 +26,7 @@ Another prior section 5101, act Aug. 16, 1954, ch. 736, 68A Stat. 617, consisted
 
 #### Effective Date
 
-Section 456 of part II (§§451–456) of subtitle D of title IV of division A of Pub. L. 98–369, as amended by Pub. L. 99–514, title XVIII, §1845, Oct. 22, 1986, 100 Stat. 2856, provided that:
+Section 456 of part II (§§451–456) of subtitle D of title IV of division A of Pub. L. 98–369, as amended by Pub.L. 99–514, title XVIII, §1845, Oct. 22, 1986, 100 Stat. 2856, provided that:
 
 “(a)
 

@@ -26,7 +26,13 @@
 
 #### (b) Nonstructural flood control projects
 
-The non-Federal share of the cost of nonstructural flood control measures shall be 35 percent of the cost of such measures. The non-Federal interests for any such measures shall berequired to provide all lands, easements, rights-of-way, dredged material disposal areas, and relocations necessary for the project, but shall not be required to contribute any amount in cash during construction of the project.
+#### (1) In general
+
+&emsp;The non-Federal share of the cost of nonstructural flood control measures shall be 35 percent of the cost of such measures. The non-Federal interests for any such measures shall be required to provide all lands, easements, rights-of-way, dredged material disposal areas, and relocations necessary for the project, but shall not be required to contribute any amount in cash during construction of the project.
+
+#### (2) Non-Federal contribution in excess of 35 percent
+
+&emsp;At any time during construction of a project, if the Secretary determines that the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for the project, in combination with other costs contributed by the non-Federal interests, will exceed 35 percent, any additional costs for the project (not to exceed 65 percent of the total costs of the project) shall be a Federal responsibility and shall be contributed during construction as part of the Federal share.
 
 #### (c) Other purposes
 
@@ -48,7 +54,29 @@ The non-Federal share of the cost assigned to other project purposes shall be as
 
 #### (d) Certain other costs assigned to project purposes
 
-Costs of constructing projects or measures for beach erosion control and water quality enhancement shall be assigned to appropriate project purposes listed in subsections (a), (b), and (c) of this section and shall be shared in the same percentage as the purposes to which the costs are assigned, except that all costs assigned to benefits to privately owned shores (where use of such shores is limited to private interests) or to prevention of losses of private lands shall be borne by non-Federal interests and all costs assigned to the protection of federally owned shores shall be borne by the United States.
+#### (1) Construction
+
+&emsp;Costs of constructing projects or measures for beach erosion control and water quality enhancement shall be assigned to appropriate project purposes listed in subsections (a), (b), and (c) of this section and shall be shared in the same percentage as the purposes to which the costs are assigned, except that all costs assigned to benefits to privately owned shores (where use of such shores is limited to privateinterests) or to prevention of losses of private lands shall be borne by non-Federal interests and all costs assigned to the protection of federally owned shores shall be borne by the United States.
+
+#### (2) Periodic nourishment
+
+#### (A) In general
+
+&emsp;&emsp;In the case of a project authorized for construction after December 31, 1999, except for a project for which a District Engineer's Report is completed by that date, the non-Federal cost of the periodic nourishment of the project, or any measure for shore protection or beach erosion control for the project, that is carried out—
+
+&emsp;&emsp;&emsp;(i) after January 1, 2001, shall be 40 percent;
+
+&emsp;&emsp;&emsp;(ii) after January 1, 2002, shall be 45 percent; and
+
+&emsp;&emsp;&emsp;(iii) after January 1, 2003, shall be 50 percent.
+
+#### (B) Benefits to privately owned shores
+
+&emsp;&emsp;All costs assigned to benefits of periodic nourishment projects or measures to privately owned shores (where use of such shores is limited to private interests) or to prevention of losses of private land shall be borne by the non-Federal interest.
+
+#### (C) Benefits to federally owned shores
+
+&emsp;&emsp;All costs assigned to the protection of federally owned shores for periodic nourishment measures shall be borne by the United States.
 
 #### (e) Applicability
 
@@ -98,7 +126,7 @@ Except as provided under section 2283(c) of this title, the non-Federal interest
 
 #### (1) Requirement for agreement
 
-&emsp;Any project to which this section applies (other than a project for hydroelectric power)shall be initiated only after non-Federal interests have entered into binding agreements with the Secretary to pay 100 percent of the operation, maintenance, and replacement and rehabilitation costs of the project, to pay the non-Federal share of the costs of construction required by this section, and to hold and save the United States free from damages due to the construction or operation and maintenance of the project, except for damages due to the fault or negligence of the United States or its contractors.
+&emsp;Any project to which this section applies (other than a project for hydroelectric power) shall be initiated only after non-Federal interests have entered into binding agreements with the Secretary to pay 100 percent of the operation, maintenance, and replacement and rehabilitation costs of the project, to pay the non-Federal share of the costs of construction required by this section, and to hold and save the United States free from damages due to the construction or operation and maintenance of the project, except for damages due to the fault or negligence of the United States or its contractors.
 
 #### (2) Elements of agreement
 
@@ -106,7 +134,7 @@ Except as provided under section 2283(c) of this title, the non-Federal interest
 
 &emsp;&emsp;(A) shall terminate or suspend work on the project unless the Secretary determines that continuation of the work is in the interest of the United States or is necessary in order to satisfy agreements with other non-Federal interests in connection with the project; and
 
-&emsp;&emsp;(B) may terminate or adjust the rights and privileges of the non-Federal interest to project outputs under the terms of the agreement.
+&emsp;&emsp;(B) may terminate or adjust the rights and privileges of the non-Federal interest toproject outputs under the terms of the agreement.
 
 #### (k) Payment options
 
@@ -144,7 +172,7 @@ At the request of any non-Federal interest the Secretary may permit such non-Fed
 
 &emsp;Notwithstanding subsection (a) of this section, the Secretary may reduce the requirement that a non-Federal interest make a cash contribution for any project that is determined to be eligible for a reduction in the non-Federal share under criteria and procedures in effect under paragraphs (1), (2), and (3).
 
-(Pub. L. 99–662, title I, §103, Nov. 17, 1986, 100 Stat. 4084; Pub. L. 101–640, title III, §305(a), Nov. 28, 1990, 104 Stat. 4635; Pub. L. 102–580, title II, §201(a), title III, §333(b)(2), Oct. 31, 1992, 106 Stat. 4825, 4852; Pub. L. 104–303, title II, §§202(a)(1)(A), (2), (b)(1), 210(a), Oct. 12, 1996, 110 Stat. 3673, 3681.)
+(Pub. L. 99–662, title I, §103, Nov. 17, 1986, 100 Stat. 4084; Pub. L. 101–640, title III, §305(a), Nov. 28, 1990, 104 Stat. 4635; Pub. L. 102–580, title II, §201(a), title III, §333(b)(2), Oct. 31, 1992, 106 Stat. 4825, 4852; Pub. L. 104–303, title II, §§202(a)(1)(A), (2), (b)(1), 210(a), Oct. 12, 1996, 110 Stat. 3673, 3681; Pub. L. 106–53, title II, §§215(a), 219(c), Aug. 17, 1999, 113 Stat. 292, 295; Pub. L. 106–109, §5, Nov. 24, 1999, 113 Stat. 1495.)
 
 #### References in Text
 
@@ -161,6 +189,14 @@ Public Law 99–88, referred to in subsec. (g)(2)(B), is Pub. L. 99–88, Aug. 1
 The Flood Control Act approved August 18, 1941, referred to in subsec. (g)(2)(C), is act Aug. 18, 1941, ch. 377, 55 Stat. 638. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–53, §219(c)(1), which directed insertion of the par. (1) designation and heading before “The non-Federal”, was executed by making the insertion before that phrase the first place it appeared to reflect the probable intent of Congress.
+
+Subsec. (b)(2). Pub. L. 106–53, §219(c)(2), added par. (2).
+
+Subsec. (d). Pub. L. 106–53, §215(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (d)(2)(A). Pub. L. 106–109 substituted “except for a project for which a District Engineer's Report is completed by that date,” for “or for which a feasibility study is completed after that date,”.
 
 1996—Subsecs. (a)(2), (b). Pub. L. 104–303, §202(a)(1)(A), substituted “35 percent” for “25 percent” wherever appearing.
 
@@ -226,5 +262,5 @@ Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 401, provided that: “The S
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 426h–1, 2214, 2215, 2307, 2326a of this title.
+This section is referred to in sections 426h–1, 2214, 2215, 2307, 2326a, 2332 of this title.
 

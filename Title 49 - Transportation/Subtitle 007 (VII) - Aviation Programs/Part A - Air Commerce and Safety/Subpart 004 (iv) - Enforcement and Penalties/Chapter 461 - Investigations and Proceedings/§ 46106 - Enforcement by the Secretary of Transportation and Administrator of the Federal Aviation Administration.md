@@ -1,6 +1,6 @@
 ### §46106. Enforcement by the Secretary of Transportation and Administrator of the Federal Aviation Administration
 
-The Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may bring a civil action against a person in a district court of the United States to enforce this part or a requirement or regulation prescribed, or an order or any term of a certificate or permit issued, under this part. The action may be brought in the judicial district in which the person does business or the violation occurred.
+The Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may bring a civil action against a person in a district court of the United States toenforce this part or a requirement or regulation prescribed, or an order or any term of a certificate or permit issued, under this part. The action may be brought in the judicial district in which the person does business or the violation occurred.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1229.)
 

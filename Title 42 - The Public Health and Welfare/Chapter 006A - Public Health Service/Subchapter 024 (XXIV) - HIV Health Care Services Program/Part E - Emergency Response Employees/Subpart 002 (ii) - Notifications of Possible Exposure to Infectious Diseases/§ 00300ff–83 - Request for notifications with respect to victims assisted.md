@@ -26,7 +26,7 @@ The duties referred to in subsection (a) of this section are that—
 
 #### (1) In general
 
-&emsp;If a medical facility receives a request under subsection (c) of this section, the medical facility shall evaluate the facts submitted in the request and make a determination of whether, on the basis of the medical information possessed by the facility regarding the victim involved, the emergency response employee wasexposed to an infectious disease included on the list issued under paragraph (1) of section 300ff–81(a) of this title, as indicated by the guidelines issued under paragraph (2) of such section.
+&emsp;If a medical facility receives a request under subsection (c) of this section, the medical facility shall evaluate the facts submitted in the request and make a determination of whether, on the basis of the medical information possessed by the facility regarding the victim involved, the emergency response employee was exposed to an infectious disease included on the list issued under paragraph (1) of section 300ff–81(a) of this title, as indicated by the guidelines issued under paragraph (2) of such section.
 
 #### (2) Notification of exposure
 

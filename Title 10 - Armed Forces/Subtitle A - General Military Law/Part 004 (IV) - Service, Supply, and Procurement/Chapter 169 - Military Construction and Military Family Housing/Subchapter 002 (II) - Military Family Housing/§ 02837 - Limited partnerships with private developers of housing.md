@@ -26,11 +26,9 @@ Account.—(1) There is hereby established on the books of the Treasury an accou
 
 (2) There shall be deposited into the Account—
 
-&emsp;(A) such funds as may be authorized for and appropriated to the Account;
+&emsp;(A) such funds as may be authorized for and appropriated to the Account; and
 
-&emsp;(B) any proceeds received by the Secretary concerned from the repayment of investments or profits on investments of the Secretary under subsection (a); and
-
-&emsp;(C) any unobligated balances which remain in the Navy Housing Investment Account as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996.
+&emsp;(B) any proceeds received by the Secretary concerned from the repayment of investments or profits on investments of the Secretary under subsection (a).
 
 (3) From such amounts as are provided in advance in appropriation Acts, funds in the Account shall be available to the Secretaries concerned in amounts determined by the Secretary of Defense for contracts, investments, and expenses necessary for the implementation of this section.
 
@@ -44,19 +42,17 @@ Report.—Not later than 60 days after the end of each fiscal year in which acti
 
 (g)
 
-Transfer of Lands Prohibited.—Nothing in this section shall be construed to permit theSecretary concerned, as part of a limited partnership entered into under this section, to transfer the right, title, or interest of the United States in any real property under the jurisdiction of the Secretary concerned.
+Transfer of Lands Prohibited.—Nothing in this section shall be construed to permit the Secretary concerned, as part of a limited partnership entered into under this section, to transfer the right, title, or interest of the United States in any real property under the jurisdiction of the Secretary concerned.
 
 (h)
 
 Expiration and Termination of Authority.—The authority of the Secretary concerned to enter into a limited partnership under this section shall expire on September 30, 2000.
 
-(Added Pub. L. 103–337, div. B, title XXVIII, §2803(a), Oct. 5, 1994, 108 Stat. 3051; amended Pub. L. 104–106, div. B, title XXVIII, §2802, Feb. 10, 1996, 110 Stat. 551.)
-
-#### References in Text
-
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 1996, referred to in subsec. (d)(2)(C), is the date of enactment of Pub. L. 104–106, which was approved Feb. 10, 1996.
+(Added Pub. L. 103–337, div. B, title XXVIII, §2803(a), Oct. 5, 1994, 108 Stat. 3051; amended Pub. L. 104–106, div. B, title XXVIII, §2802, Feb. 10, 1996, 110 Stat. 551; Pub. L. 106–65, div. A, title X, §1066(a)(28), oct. 5, 1999, 113 Stat. 772.)
 
 #### Amendments
+
+1999—Subsec. (d)(2). Pub. L. 106–65 inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “any unobligated balances which remain in the Navy Housing Investment Account as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996.”
 
 1996—Subsec. (a)(1). Pub. L. 104–106, §2802(b)(1), substituted “the Secretary of a military department” for “the Secretary of the Navy”.
 

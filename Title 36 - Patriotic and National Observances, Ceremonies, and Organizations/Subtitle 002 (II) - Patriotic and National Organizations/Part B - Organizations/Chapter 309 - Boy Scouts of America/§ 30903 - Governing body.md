@@ -40,9 +40,13 @@ June 15, 1916, ch. 148, §5 (1st–5th, 7th, 8th sentences), 39 Stat. 228.
 
 36:25 (5th sentence).
 
+&nbsp;
+
 30903(c)
 
 36:25 (7th, 8th sentences).
+
+&nbsp;
 
 In subsection (a), the text of 36:25 (3d sentence) is omitted as executed and obsolete.
 

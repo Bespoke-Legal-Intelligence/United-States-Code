@@ -1,6 +1,6 @@
 ### §2312. Remission of liquidated damages
 
-Upon the recommendation of the head of an agency, the Secretary of the Treasury may remit all or part, as he considers just and equitable, of any liquidated damages assessed fordelay in performing a contract, made by that agency, that provides for such damages.
+Upon the recommendation of the head of an agency, the Secretary of the Treasury may remit all or part, as he considers just and equitable, of any liquidated damages assessed for delay in performing a contract, made by that agency, that provides for such damages.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 132; Pub. L. 104–316, title II, §202(c), Oct. 19, 1996, 110 Stat. 3842.)
 

@@ -10,7 +10,7 @@ Oklahoma is divided into three judicial districts to be known as the Northern, E
 
 ### Eastern District
 
-(b) The Eastern District comprises the counties of Adair, Atoka, Bryan, Carter, Cherokee,Choctaw, Coal, Haskell, Hughes, Johnston, Latimer Le Flore Love, McCurtain, McIntosh, Marshall, Murray, Muskogee, Okfuskee, Okmulgee, Pittsburg, Pontotoc, Pushmataha, Seminole, Sequoyah, and Wagoner.
+(b) The Eastern District comprises the counties of Adair, Atoka, Bryan, Carter, Cherokee, Choctaw, Coal, Haskell, Hughes, Johnston, Latimer Le Flore Love, McCurtain, McIntosh, Marshall, Murray, Muskogee, Okfuskee, Okmulgee, Pittsburg, Pontotoc, Pushmataha, Seminole, Sequoyah, and Wagoner.
 
 &emsp;&emsp;Court for the Eastern District shall be held at Ada, Ardmore, Durant, Hugo, Muskogee, Okmulgee, Poteau, and S. McAlester.
 

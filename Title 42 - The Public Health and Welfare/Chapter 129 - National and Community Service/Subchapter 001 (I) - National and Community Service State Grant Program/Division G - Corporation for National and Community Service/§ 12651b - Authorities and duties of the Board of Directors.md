@@ -70,9 +70,9 @@ The Board shall—
 
 &emsp;(9) ensure effective dissemination of information regarding the programs and initiatives of the Corporation;
 
-&emsp;(10) notwithstanding any other provision of law, make grants to or contracts with Federal or other public departments or agencies and private nonprofit organizations for the assignment or referral of volunteers under the provisions of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\] (except as provided in section 108 of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4958\]), which may provide that the agency or organization shall pay all or a part of the costs of the program; and
+&emsp;(10) notwithstanding any other provision of law, make grants to or contracts with Federal or other public departments or agencies and private nonprofit organizations for the assignment or referral of volunteers under the provisions of the Domestic Volunteer Service Act of1973 \[42 U.S.C. 4950 et seq.\] (except as provided in section 108 of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4958\]), which may provide that the agency or organization shall pay all or a part of the costs of the program; and
 
-&emsp;(11) prepare and make recommendations to the Congress and the President for changes in the national service laws resulting from thestudies and demonstrations the Chief Executive Officer is required to carry out under section 12651d(b)(10) of this title, which recommendations shall be submitted to the Congress and President not later than September 30, 1995.
+&emsp;(11) prepare and make recommendations to the Congress and the President for changes in the national service laws resulting from the studies and demonstrations the Chief Executive Officer is required to carry out under section 12651d(b)(10) of this title, which recommendations shall be submitted to the Congress and President not later than September 30, 1995.
 
 #### (h) Administration
 

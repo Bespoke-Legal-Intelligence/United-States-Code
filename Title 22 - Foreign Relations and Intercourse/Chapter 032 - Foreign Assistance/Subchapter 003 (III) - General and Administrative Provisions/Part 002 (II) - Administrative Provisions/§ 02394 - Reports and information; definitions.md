@@ -6,7 +6,7 @@ In order that the Congress and the American people may be better and more curren
 
 &emsp;(1)(A) a comprehensive and coordinated review of all United States policies and programs having a major impact on the development of developing countries, including but not limited to bilateral and multilateral assistance, trade, debt, employment, food, energy, technology, population, oceans, environment, human settlements, natural resources, and participation in international agencies concerned with development;
 
-&emsp;(B) an assessment of the impact of such policies and programs on the well-being of the poor majority in developing countries in accordance with the policy objectives of part I of subchapter I of this chapter, including increasing life expectancy and literacy, lowering infant mortality and birth rates, and increasingfood production and employment, such assessment to include an evaluation of the extent to which programs under part I of subchapter I of this chapter directly benefit the poor majority; and
+&emsp;(B) an assessment of the impact of such policies and programs on the well-being of the poor majority in developing countries in accordance with the policy objectives of part I of subchapter I of this chapter, including increasing life expectancy and literacy, lowering infant mortality and birth rates, and increasing food production and employment, such assessment to include an evaluation of the extent to which programs under part I of subchapter I of this chapter directly benefit the poor majority; and
 
 &emsp;(C) an assessment of the impact of such policies and programs on economic conditions in the United States, including but not limited to employment, wages, and working conditions;
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (a)(4), is act July 10,1954, ch. 469, 68 Stat. 454, as amended, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (a)(4), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 The Export-Import Bank Act of 1945, referred to in subsec. (a)(4), is act July 31, 1945, ch. 341, 59 Stat. 526, as amended, which is classified generally to subchapter I (§635 et seq.) of chapter 6A of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 635 of Title 12 and Tables.
 
@@ -102,7 +102,7 @@ Subsec. (c). Pub. L. 95–424, §502(a)(1), struck out “(c)” at beginning of
 
 Subsecs. (d) to (h). Pub. L. 95–424, §502(a)(2), struck out subsecs. (d), relating to presentation of programs to Congressional committees; (e), relating to inclusion of a specific plan in the President's recommendations to Congress; (f), relating to a report by the President to Congress showing the status of each outstanding loan; (g), relating to a report by the President to Congress showing debt-servicing problems; and (h), relating to military assistance to South Vietnam, Thailand, and Laos.
 
-1976—Subsec. (d). Pub. L. 94–329 struck out provisions under which sales pursuant to the Foreign Assistance Act of 1961 or any other Act were included in the enumeration of factors used in developing, for purpose of presentation material, a chart showing the full extent of United States assistance planned or expected for each such country for the next fiscal year.
+1976—Subsec. (d). Pub. L. 94–329 struck out provisions under which sales pursuant to the Foreign AssistanceAct of 1961 or any other Act were included in the enumeration of factors used in developing, for purpose of presentation material, a chart showing the full extent of United States assistance planned or expected for each such country for the next fiscal year.
 
 Subsec. (f). Pub. L. 94–273 substituted “September” for “June” and “March” for “December”.
 
@@ -122,7 +122,7 @@ Subsec. (d). Pub. L. 92–226, §304(a)(3), substituted in last sentence referen
 
 Subsec. (g). Pub. L. 90–629, §45(a), repealed provisions of subsec. (g) which related to exports of defense articles, contents of reports, and utilization of statistics and information of Government agencies, and is now covered by section 2776(a) of this title.
 
-1967—Subsec. (d). Pub. L. 90–137, §302(h)(1), inserted introductory provision for presentation of programs to Congressional Committees in connection with requestsfor appropriations for fiscal year 1969, penultimate provision for inclusion of foreign assistance data (an assistance chart, contribution details, and a statement of projects), and provision for notification as to findings and reasons therefor under section 2311 or 2341(c) of this title.
+1967—Subsec. (d). Pub. L. 90–137, §302(h)(1), inserted introductory provision for presentation of programs to Congressional Committees in connection with requests for appropriations for fiscal year 1969, penultimate provision for inclusion of foreign assistance data (an assistance chart, contribution details, and a statement of projects), and provision for notification as to findings and reasons therefor under section 2311 or 2341(c) of this title.
 
 Subsecs. (g), (h). Pub. L. 90–137, §302(h)(2), added subsecs. (g) and (h).
 
@@ -174,7 +174,7 @@ Consultation.—The Secretary of State shall submit the report required by subse
 
 #### Progress Report of Implementation of Immunization and Oral Rehydration Promotion Programs
 
-Annual report under this section to describe progress achieved during preceding fiscal year in carrying out section 2151b(c)(3) of this title, see section 305(b) of Pub. L. 99–83, set out as a note under section 2151b of this title.
+Annual report under this section to describe progress achieved during preceding fiscal year in carrying out section 2151b(c)(3) of this title, see section 305(b) of Pub.L. 99–83, set out as a note under section 2151b of this title.
 
 #### Negotiating Efforts Concerning Accelerated Loan Repayments To Be Included in Annual Reports for Foreign Assistance for 1980 and 1981
 

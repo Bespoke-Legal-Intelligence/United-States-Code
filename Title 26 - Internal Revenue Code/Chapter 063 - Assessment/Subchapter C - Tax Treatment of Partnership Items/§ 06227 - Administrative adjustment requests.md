@@ -92,7 +92,7 @@ Treatment of requests filed before date of enactment.—In the case of that port
 
 &emsp;“(A) paragraph (2) of section 6227(a) of the Internal Revenue Code of 1986 shall not apply,
 
-&emsp;“(B) the period for filing a petition under section 6228 of the Internal Revenue Code of 1986 with respectto such request shall not expire before the date 6 months after the date of the enactment of this Act, and
+&emsp;“(B) the period for filing a petition under section 6228 of the Internal Revenue Code of 1986 with respect to such request shall not expire before the date 6 months after the date of the enactment of this Act, and
 
 &emsp;“(C) such a petition may be filed without regard to whether there was a notice of the beginning of an administrative proceeding or a final partnership administrative adjustment.”
 

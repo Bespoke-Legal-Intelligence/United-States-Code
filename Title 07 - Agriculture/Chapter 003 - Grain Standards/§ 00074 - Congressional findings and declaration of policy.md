@@ -6,7 +6,7 @@
 
 &emsp;(1) to promote the marketing of grain of high quality to both domestic and foreign buyers;
 
-&emsp;(2) that the primary objective of the official United States standards for grain is to certify the quality of grain as accurately as practicable; and
+&emsp;(2) that the primary objective of the official United States standards for grain is to certifythe quality of grain as accurately as practicable; and
 
 &emsp;(3) that official United States standards for grain shall—
 

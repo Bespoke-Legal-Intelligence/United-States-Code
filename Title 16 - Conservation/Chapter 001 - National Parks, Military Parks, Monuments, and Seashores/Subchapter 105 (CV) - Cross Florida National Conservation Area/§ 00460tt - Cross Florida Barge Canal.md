@@ -14,7 +14,7 @@ Notwithstanding any other provision of law, the Secretary is, subject to the pro
 
 &emsp;&emsp;(A) Any area of the project corridor where, as of November 28, 1990, no land is owned by the State or State Canal Authority.
 
-&emsp;&emsp;(B) Any area of the project corridor where, as of November 28, 1990, the land owned bythe State or State Canal Authority is less than 300 yards wide.
+&emsp;&emsp;(B) Any area of the project corridor where, as of November 28, 1990, the land owned by the State or State Canal Authority is less than 300 yards wide.
 
 &emsp;&emsp;(C) Any area of the project corridor where a road or bridge crosses the project corridor.
 
@@ -48,7 +48,7 @@ In the 24-month period following November 28, 1990, the Secretary shall carry ou
 
 #### (1) In general
 
-&emsp;During the period beginning on November 28, 1992, and ending on September 30, 1993, the Secretary is authorized and directed to offer to enter into a contract with the St. Johns River Water Management District and the Southwest Florida Water Management District of the State of Florida for the continued operation and maintenance by the Secretary of the portions of the project described in subsection (d) of this section. The maintenance shall be performed at a level of service that is necessary to ensure safe operating conditions and to prevent deterioration of the structures. No major rehabilitations or renovations shall be performed by the Secretary in such portions of the project during such period.
+&emsp;During the period beginning on November 28, 1992, and ending on September 30, 1993, the Secretary is authorized and directed to offer to enter into a contract with the St. JohnsRiver Water Management District and the Southwest Florida Water Management District of the State of Florida for the continued operation and maintenance by the Secretary of the portions of the project described in subsection (d) of this section. The maintenance shall be performed at a level of service that is necessary to ensure safe operating conditions and to prevent deterioration of the structures. No major rehabilitations or renovations shall be performed by the Secretary in such portions of the project during such period.
 
 #### (2) Funding
 

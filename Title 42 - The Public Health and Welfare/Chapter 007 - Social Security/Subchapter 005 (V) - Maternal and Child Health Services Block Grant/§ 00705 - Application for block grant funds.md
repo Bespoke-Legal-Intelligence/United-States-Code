@@ -64,7 +64,7 @@
 
 &emsp;(1) the Secretary determines—
 
-&emsp;&emsp;(A) on the basis of information provided in the State's most recent annual report submitted under section 706(a)(1) of this title, that the State has demonstrated an extraordinary unmet need for one of the activitiesdescribed in subsection (a)(3) of this section, and
+&emsp;&emsp;(A) on the basis of information provided in the State's most recent annual report submitted under section 706(a)(1) of this title, that the State has demonstrated an extraordinary unmet need for one of the activities described in subsection (a)(3) of this section, and
 
 &emsp;&emsp;(B) that the granting of the waiver is justified and will assist in carrying out the purposes of this subchapter; and
 

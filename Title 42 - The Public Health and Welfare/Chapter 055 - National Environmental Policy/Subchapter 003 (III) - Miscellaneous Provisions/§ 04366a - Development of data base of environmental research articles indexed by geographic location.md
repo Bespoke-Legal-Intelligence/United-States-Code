@@ -2,7 +2,7 @@
 
 #### (a) Research journals
 
-Within 6 months following November 16, 1990, and from time to time thereafter, the Environmental Protection Agency shall identify not less than 35 important environmental research journals, conference proceedings or other referencesources in which scientific research or engineering studies related to air, water, or soil quality or pollution or other environmental issues are routinely published. In carrying out the requirements of this subsection, at least 50 journals or proceedings shall be reviewed.
+Within 6 months following November 16, 1990, and from time to time thereafter, the Environmental Protection Agency shall identify not less than 35 important environmental research journals, conference proceedings or other reference sources in which scientific research or engineering studies related to air, water, or soil quality or pollution or other environmental issues are routinely published. In carrying out the requirements of this subsection, at least 50 journals or proceedings shall be reviewed.
 
 #### (b) Index
 

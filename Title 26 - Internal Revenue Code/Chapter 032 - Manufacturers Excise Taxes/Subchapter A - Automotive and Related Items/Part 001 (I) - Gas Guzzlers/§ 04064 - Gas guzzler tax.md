@@ -39,7 +39,7 @@ For purposes of this section—
 
 #### (B) Exception for certain vehicles
 
-&emsp;&emsp;The term “automobile” does not include any vehicle which is treated as a nonpassenger automobile under the rules whichwere prescribed by the Secretary of Transportation for purposes of section 32901 of title 49, United States Code, and which were in effect on the date of the enactment of this section.
+&emsp;&emsp;The term “automobile” does not include any vehicle which is treated as a nonpassenger automobile under the rules which were prescribed by the Secretary of Transportation for purposes of section 32901 of title 49, United States Code, and which were in effect on the date of the enactment of this section.
 
 #### (C) Exception for emergency vehicles
 

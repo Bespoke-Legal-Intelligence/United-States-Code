@@ -62,7 +62,7 @@ Subsec. (b). Pub. L. 95–256, §5(c)(1), (2), redesignated subsec. (g) as (b). 
 
 Subsec. (c). Pub. L. 95–256, §5(c)(1), (3), added subsec. (c) relating to provisions covered by former subsec. (e). Former subsec. (c), relating to exemption of an employee from automatic separation by President, was struck out. See subsec. (d).
 
-Subsec. (d). Pub. L. 95–256, §5(c)(1), (3), added subsec. (d). Former subsec. (d), relating to inapplicability ofautomatic separation provisions of this section, was struck out.
+Subsec. (d). Pub. L. 95–256, §5(c)(1), (3), added subsec. (d). Former subsec. (d), relating to inapplicability of automatic separation provisions of this section, was struck out.
 
 Subsec. (e). Pub. L. 95–256, §5(c)(1), struck out subsec. (e) which related to applicability of provisions to employees of Alaskan Railroad, Panama Canal Company, and Canal Zone Government. See subsec. (c).
 
@@ -124,7 +124,7 @@ Definition.—For purposes of this section, the term ‘air traffic controller�
 
 #### Nonapplicability of Subsection (a) to Department of Defense Air Traffic Controllers Appointed Before September 12, 1980
 
-Section 2 of Pub. L. 96–347 provided that: “Section 8335(a) of title 5, United States Code shall not apply to an individual appointed as an air traffic controller in the Department of Defense before the date of the enactment of this Act \[Sept. 12, 1980\].”
+Section 2 of Pub. L. 96–347 provided that: “Section 8335(a) of title 5, United States Code shall not apply toan individual appointed as an air traffic controller in the Department of Defense before the date of the enactment of this Act \[Sept. 12, 1980\].”
 
 #### Nonapplicability of Subsection (f) to Air Traffic Controllers Appointed Before May 16, 1972
 

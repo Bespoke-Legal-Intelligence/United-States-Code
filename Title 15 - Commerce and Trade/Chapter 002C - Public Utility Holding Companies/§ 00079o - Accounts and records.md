@@ -18,7 +18,7 @@ Every person whose principal business is the performance of service, sales, or c
 
 #### (e) Use of forms other than prescribed by Commission unlawful
 
-After the Commission has prescribed the form and manner of making and keeping accounts, cost-accounting procedures, correspondence, memoranda, papers, books, and other records to be kept by any person hereunder, it shall be unlawful for any such person to keep any accounts, cost-accounting procedures, correspondence, memoranda, papers, books, or other records other than those prescribed or such as may be approved by the Commission, or to keep his or its accounts, cost-accounting procedures, correspondence, memoranda, papers, books, or other records in any manner other than that prescribed or approved by the Commission.
+After the Commission has prescribed the form and manner of making and keeping accounts, cost-accounting procedures, correspondence, memoranda, papers, books, and other records to be kept by any person hereunder, it shall be unlawful for any such person to keep any accounts, cost-accounting procedures, correspondence, memoranda, papers, books, or other records other than those prescribed or such as may be approved by the Commission, or to keep his or its accounts, cost-accounting procedures, correspondence, memoranda, papers, books, orother records in any manner other than that prescribed or approved by the Commission.
 
 #### (f) Examinations by Commission
 

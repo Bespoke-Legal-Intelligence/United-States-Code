@@ -34,5 +34,5 @@ Reference to United States magistrate or to magistrate deemed to refer to United
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2703 of this title; title 47 section 1002.
+This section is referred to in section 2703 of this title; title 47 section 1002; title 50 section 1841.
 

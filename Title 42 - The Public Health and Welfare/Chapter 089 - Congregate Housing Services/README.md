@@ -77,7 +77,8 @@
 | (j) | Miscellaneous provisions. |
 | (k) | Definitions. |
 | (<i>l</i>) | Allocation of funds. |
-| (m) | Effective date and applicability. |
+| (m) | Authorization of appropriations. |
+| (n) | Effective date and applicability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

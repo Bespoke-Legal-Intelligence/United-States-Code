@@ -18,7 +18,7 @@ In the case of fuel sold for use in commercial aviation (other than supplies for
 
 Under regulations prescribed by the Secretary, the tax imposed by section 4091 shall not apply to aviation fuel sold to a producer of such fuel.
 
-(Added Pub. L. 100–203, title X, §10502(a), Dec. 22, 1987, 101 Stat. 1330–440; amended Pub. L. 100–647, title III, §3003(a), Nov. 10, 1988, 102 Stat. 3616; Pub. L. 103–66, title XIII, §§13163(a)(1), (3), 13242(a), Aug. 10, 1993, 107 Stat. 453, 519; Pub. L. 105–34, title XVI, §1601(f)(4)(C), Aug. 5, 1997, 111 Stat. 1091; Pub. L. 105–206, title VI, §6023(16), July 22, 1998, 112 Stat. 825.)
+(Added Pub. L. 100–203, title X, §10502(a), Dec. 22, 1987, 101 Stat. 1330–440; amended Pub. L. 100–647,title III, §3003(a), Nov. 10, 1988, 102 Stat. 3616; Pub. L. 103–66, title XIII, §§13163(a)(1), (3), 13242(a), Aug. 10, 1993, 107 Stat. 453, 519; Pub. L. 105–34, title XVI, §1601(f)(4)(C), Aug. 5, 1997, 111 Stat. 1091; Pub. L. 105–206, title VI, §6023(16), July 22, 1998, 112 Stat. 825.)
 
 #### Prior Provisions
 

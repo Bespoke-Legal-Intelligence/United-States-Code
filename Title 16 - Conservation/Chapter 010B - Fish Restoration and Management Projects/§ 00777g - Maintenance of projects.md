@@ -32,7 +32,7 @@ Each State may use not to exceed 15 percent of the funds apportioned to it under
 
 &emsp;Under the plan, the Secretary may obligate amounts available under subsection (c) or (d) of section 777c of this title—
 
-&emsp;&emsp;(A) to make grants to any State or private entity to pay all or any portion of the costof carrying out any outreach and communications program under the plan; or
+&emsp;&emsp;(A) to make grants to any State or private entity to pay all or any portion of the cost of carrying out any outreach and communications program under the plan; or
 
 &emsp;&emsp;(B) to fund contracts with States or private entities to carry out such a program.
 
@@ -111,4 +111,8 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respect to fiscal years beginning after Sept. 30, 1984, see section 1014(b) of Pub. L. 98–369, set out as a note under section 777 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 777c, 777g–1 of this title.
 

@@ -12,7 +12,7 @@ Not later than 1 year after July 26, 1990, the National Council on Disability sh
 
 #### (1) In general
 
-&emsp;Congress reaffirms that nothing in the Wilderness Act \[16 U.S.C. 1131 et seq.\] is to be construed as prohibiting the use of a wheelchair in a wilderness area by an individual whosedisability requires use of a wheelchair, and consistent with the Wilderness Act no agency is required to provide any form of special treatment or accommodation, or to construct any facilities or modify any conditions of lands within a wilderness area in order to facilitate such use.
+&emsp;Congress reaffirms that nothing in the Wilderness Act \[16 U.S.C. 1131 et seq.\] is to be construed as prohibiting the use of a wheelchair in a wilderness area by an individual whose disability requires use of a wheelchair, and consistent with the Wilderness Act no agency is required to provide any form of special treatment or accommodation, or to construct any facilities or modify any conditions of lands within a wilderness area in order to facilitate such use.
 
 #### (2) “Wheelchair” defined
 

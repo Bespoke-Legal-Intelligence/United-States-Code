@@ -12,7 +12,7 @@ If a State does not provide the certification required under subsection (a) of t
 
 #### (1) In general
 
-&emsp;If a State provides the certification required in subsection (a) of this section and is receiving funds under this part for a fiscal year, the Secretary may (from the amounts available pursuant to paragraph (2)) make a grant to theState for the fiscal year for the following purposes:
+&emsp;If a State provides the certification required in subsection (a) of this section and is receiving funds under this part for a fiscal year, the Secretary may (from the amounts available pursuant to paragraph (2)) make a grant to the State for the fiscal year for the following purposes:
 
 &emsp;&emsp;(A) Making available to pregnant women appropriate counseling on HIV disease.
 

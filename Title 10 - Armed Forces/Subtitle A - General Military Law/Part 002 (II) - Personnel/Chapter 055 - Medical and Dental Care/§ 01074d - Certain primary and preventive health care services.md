@@ -42,7 +42,7 @@ Pub. L. 103–337, div. A, title II, §241, Oct. 5, 1994, 108 Stat. 2701, provid
 
 “(a)
 
-Continuation of Program.—The Secretary of Defense shall continue the Defense Women's Health Research Program established in fiscal year 1994 pursuant to the authority in section 251 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 107 Stat. 1606) \[set out below\]. The program shall continue to serve as the coordinating agent for multi-disciplinary and multi-institutional research within the Department of Defense on women's health issues related to service in the Armed Forces. The program also shall continue to coordinate with research supported by other Federal agencies that is aimed at improving the health of women.
+Continuation of Program.—The Secretary of Defense shall continue the Defense Women's Health Research Program established in fiscal year 1994 pursuant to the authority in section 251 of the National DefenseAuthorization Act for Fiscal Year 1994 (Public Law 103–160; 107 Stat. 1606) \[set out below\]. The program shall continue to serve as the coordinating agent for multi-disciplinary and multi-institutional research within the Department of Defense on women's health issues related to service in the Armed Forces. The program also shall continue to coordinate with research supported by other Federal agencies that is aimed at improving the health of women.
 
 “(b)
 

@@ -42,7 +42,7 @@ Inapplicability of Certain Property Disposal Laws.—The following provisions of
 
 Use of Proceeds.—(1) The proceeds of any conveyance of a family housing facility under this section shall be credited to the appropriate fund established under section 2883 of this title and shall be available—
 
-&emsp;(A) to construct family housing units to replace the family housing facility conveyedunder this section, but only to the extent that the number of units constructed with such proceeds does not exceed the number of units of military family housing of the facility conveyed;
+&emsp;(A) to construct family housing units to replace the family housing facility conveyed under this section, but only to the extent that the number of units constructed with such proceeds does not exceed the number of units of military family housing of the facility conveyed;
 
 &emsp;(B) to repair or restore existing military family housing; and
 
@@ -62,7 +62,7 @@ Additional Terms and Conditions.—The Secretary concerned may require such addi
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the Act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the Act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. Forcomplete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (d)(2), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title V of the Act is classified generally to subchapter V (§11411 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 

@@ -30,7 +30,7 @@ In general.—The President, or the designee of the President, shall issue regul
 
 &emsp;(2)
 
-Agency regulations.—Except as provided in paragraph (3), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b) except to the extent that the President or designee may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+Agency regulations.—Except as provided in paragraph (3), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b) except to the extent that the President or designee may determine, for good cause shownand stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 &emsp;(3)
 
@@ -48,7 +48,7 @@ Effective Date.—Subsections (a) and (b) shall take effect on the earlier of—
 
 #### References in Text
 
-The Fair Labor Standards Act of 1938, referred to in subsecs. (a)(1), (b), and (c)(3), is act June 25, 1938, ch.676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. Sections 6, 7, 12, and 16 of the Act are classified to sections 206, 207, 212, and 216, respectively, of Title 29. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsecs. (a)(1), (b), and (c)(3), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. Sections 6, 7, 12, and 16 of the Act are classified to sections 206, 207, 212, and 216, respectively, of Title 29. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 #### Effective Date
 

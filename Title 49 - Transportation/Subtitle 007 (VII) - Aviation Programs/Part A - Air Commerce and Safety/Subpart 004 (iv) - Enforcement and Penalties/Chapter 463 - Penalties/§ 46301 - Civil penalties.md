@@ -14,7 +14,7 @@ General Penalty.—(1) A person is liable to the United States Government for a 
 
 (2) A person operating an aircraft for the transportation of passengers or property for compensation (except an airman serving as an airman) is liable to the Government for a civil penalty of not more than $10,000 for violating—
 
-&emsp;(A) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section44502(b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title; or
+&emsp;(A) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502(b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title; or
 
 &emsp;(B) a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies.
 
@@ -296,7 +296,7 @@ In subsection (d)(2), the text of section 7214 of the Anti-Drug Abuse Act of 198
 
 In subsection (d)(4)(C), the word “or” is substituted for “and” for clarity.
 
-In subsection (d)(5)(B) and (7)(A), the words “in accordance with section 554 of title 5” are omitted for consistency in the revised title and because 5:554 applies to a hearing on the record unless otherwise stated.
+In subsection (d)(5)(B) and (7)(A), the words “in accordance with section 554 of title 5” are omitted forconsistency in the revised title and because 5:554 applies to a hearing on the record unless otherwise stated.
 
 In subsection (d)(5)(B), the words “consistent with this subsection” are omitted as surplus.
 

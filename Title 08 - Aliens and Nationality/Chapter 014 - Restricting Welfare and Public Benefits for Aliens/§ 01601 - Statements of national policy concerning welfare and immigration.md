@@ -18,7 +18,7 @@ The Congress makes the following statements concerning national policy with resp
 
 &emsp;(6) It is a compelling government interest to remove the incentive for illegal immigration provided by the availability of public benefits.
 
-&emsp;(7) With respect to the State authority to make determinations concerning the eligibility of qualified aliens for public benefits in this chapter, a State that chooses to follow the Federal classification in determining the eligibility of such aliens for public assistanceshall be considered to have chosen the least restrictive means available for achieving the compelling governmental interest of assuring that aliens be self-reliant in accordance with national immigration policy.
+&emsp;(7) With respect to the State authority to make determinations concerning the eligibility of qualified aliens for public benefits in this chapter, a State that chooses to follow the Federal classification in determining the eligibility of such aliens for public assistance shall be considered to have chosen the least restrictive means available for achieving the compelling governmental interest of assuring that aliens be self-reliant in accordance with national immigration policy.
 
 (Pub. L. 104–193, title IV, §400, Aug. 22, 1996, 110 Stat. 2260.)
 

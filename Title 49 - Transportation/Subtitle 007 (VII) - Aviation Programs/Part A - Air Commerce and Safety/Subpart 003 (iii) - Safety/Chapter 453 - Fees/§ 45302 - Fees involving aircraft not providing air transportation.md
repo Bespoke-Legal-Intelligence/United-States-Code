@@ -6,7 +6,7 @@ Application.—This section applies only to aircraft not used to provide air tra
 
 (b)
 
-General Authority and Maximum Fees.—The Administrator of the Federal Aviation Administration may impose fees to pay for the costs of issuing airman certificates to pilots and certificates of registration of aircraft and processing forms for major repairs and alterations offuel tanks and fuel systems of aircraft. The following fees may not be more than the amounts specified:
+General Authority and Maximum Fees.—The Administrator of the Federal Aviation Administration may impose fees to pay for the costs of issuing airman certificates to pilots and certificates of registration of aircraft and processing forms for major repairs and alterations of fuel tanks and fuel systems of aircraft. The following fees may not be more than the amounts specified:
 
 &emsp;(1) $12 for issuing an airman's certificate to a pilot.
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Inspector General Audit
 
-Pub. L. 100–690, title VII, §7207(c)(4), Nov. 18, 1988, 102 Stat. 4428, as amended by Pub. L. 104–66, title II, §2041, Dec. 21, 1995, 109 Stat. 728, provided that: “During the 5-year period beginning after the date on which fees are first collected under section 313(f) of the Federal Aviation Act of 1958 \[see subsec. (b) of this section\], the Department of Transportation Inspector General shall conduct an annual audit of the collection and use of such fees for the purpose of ensuring that such fees do not exceed the costs for which they are collected and submit to Congress a report on the results of such audit.”
+Pub. L. 100–690, title VII, §7207(c)(4), Nov. 18, 1988, 102 Stat. 4428, as amended by Pub. L. 104–66, title II, §2041, Dec. 21, 1995, 109 Stat. 728, provided that: “During the 5-year period beginning after the date on which fees are first collected under section 313(f) of the Federal Aviation Act of 1958 \[see subsec. (b) of this section\], the Department of Transportation Inspector General shallconduct an annual audit of the collection and use of such fees for the purpose of ensuring that such fees do not exceed the costs for which they are collected and submit to Congress a report on the results of such audit.”
 
 #### Section Referred to in Other Sections
 

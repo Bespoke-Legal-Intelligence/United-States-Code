@@ -176,5 +176,5 @@ Subsec. (c)(5). Pub. L. 103–305, §119(1), redesignated par. (4) as (5).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40117, 47115, 47117, 47505, 48103 of this title.
+This section is referred to in sections 106, 40117, 47117, 47505, 48103 of this title.
 

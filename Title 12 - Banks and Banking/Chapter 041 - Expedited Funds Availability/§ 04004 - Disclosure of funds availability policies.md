@@ -30,7 +30,7 @@ All preprinted deposit slips that a depository institution furnishes to its cust
 
 #### (2) General notice at automated teller machines
 
-&emsp;In the case of any automated teller machine at which any funds are received for deposit in an account at any depository institution, the Board shall prescribe, by regulations, that the owner or operator of such automated teller machine shall post or provide a general notice that funds deposited in such machine may not be immediately available for withdrawal.
+&emsp;In the case of any automated teller machine at which any funds are received for deposit inan account at any depository institution, the Board shall prescribe, by regulations, that the owner or operator of such automated teller machine shall post or provide a general notice that funds deposited in such machine may not be immediately available for withdrawal.
 
 #### (e) Notice of interest payment policy
 

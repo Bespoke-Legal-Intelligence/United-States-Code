@@ -22,7 +22,7 @@
 
 (d) The word “States”, as used in this section, includes the Territories, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(June 25, 1948, ch. 646, 62 Stat. 930; July 26, 1956, ch. 740, 70 Stat. 658; Pub. L. 85–554, §2, July 25, 1958, 72 Stat. 415; Pub. L. 88–439, §1, Aug. 14, 1964,78 Stat. 445; Pub. L. 94–583, §3, Oct. 21, 1976, 90 Stat. 2891; Pub. L. 100–702, title II, §§201(a), 202(a), 203(a), Nov. 19, 1988, 102 Stat. 4646; Pub. L. 104–317, title II, §205(a), Oct. 19, 1996, 110 Stat. 3850.)
+(June 25, 1948, ch. 646, 62 Stat. 930; July 26, 1956, ch. 740, 70 Stat. 658; Pub. L. 85–554, §2, July 25, 1958, 72 Stat. 415; Pub. L. 88–439, §1, Aug. 14, 1964, 78 Stat. 445; Pub. L. 94–583, §3, Oct. 21, 1976, 90 Stat. 2891; Pub. L. 100–702, title II, §§201(a), 202(a), 203(a), Nov. 19, 1988, 102 Stat. 4646; Pub. L. 104–317, title II, §205(a), Oct. 19, 1996, 110 Stat. 3850.)
 
 #### Historical and Revision Notes
 

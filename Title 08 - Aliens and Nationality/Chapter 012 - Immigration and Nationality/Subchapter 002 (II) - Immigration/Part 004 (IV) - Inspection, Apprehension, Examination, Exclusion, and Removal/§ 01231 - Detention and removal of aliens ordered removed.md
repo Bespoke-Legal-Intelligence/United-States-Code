@@ -24,7 +24,7 @@
 
 #### (2) Detention
 
-&emsp;During the removal period, the Attorney General shall detain the alien. Under no circumstance during the removal period shall the Attorney General release an alien who has been found inadmissible under section1182(a)(2) or 1182(a)(3)(B) of this title or deportable under section 1227(a)(2) or 1227(a)(4)(B) of this title.
+&emsp;During the removal period, the Attorney General shall detain the alien. Under no circumstance during the removal period shall the Attorney General release an alien who has been found inadmissible under section 1182(a)(2) or 1182(a)(3)(B) of this title or deportable under section 1227(a)(2) or 1227(a)(4)(B) of this title.
 
 #### (3) Supervision after 90-day period
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;The Attorney General is authorized to remove an alien in accordance with applicable procedures under this chapter before the alien has completed a sentence of imprisonment—
 
-&emsp;&emsp;&emsp;(i) in the case of an alien in the custody of the Attorney General, if the Attorney General determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense related to smuggling or harboring of aliens or an offense described in section 1101(a)(43)(B), (C), (E), (I), or (L) of this title <sup>2</sup> and (II) the removal of the alien is appropriate and in the best interest of the United States; or
+&emsp;&emsp;&emsp;(i) in the case of an alien in the custody of the Attorney General, if the Attorney General determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense related to smuggling or harboring of aliens or an offense described in section 1101(a)(43)(B), (C), (E), (I), or (L) of thistitle <sup>2</sup> and (II) the removal of the alien is appropriate and in the best interest of the United States; or
 
 &emsp;&emsp;&emsp;(ii) in the case of an alien in the custody of a State (or a political subdivision of a State), if the chief State official exercising authority with respect to the incarceration of the alien determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense described in section 1101(a)(43)(C) or (E) of this title), (II) the removal is appropriate and in the best interest of the State, and (III) submits a written request to the Attorney General that such alien be so removed.
 
@@ -168,7 +168,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraphs (1) and (2), the Attorney General may not remove analien to a country if the Attorney General decides that the alien's life or freedom would be threatened in that country because of the alien's race, religion, nationality, membership in a particular social group, or political opinion.
+&emsp;&emsp;Notwithstanding paragraphs (1) and (2), the Attorney General may not remove an alien to a country if the Attorney General decides that the alien's life or freedom would be threatened in that country because of the alien's race, religion, nationality, membership in a particular social group, or political opinion.
 
 #### (B) Exception
 
@@ -188,7 +188,7 @@
 
 #### (1) Vessels and aircraft
 
-&emsp;An alien arriving at a port of entry of the United States who is ordered removed either without a hearing under section 1225(b)(1) or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival shall be removed immediately on a vessel or aircraft owned by the owner of the vessel or aircraft on which the alien arrived in the United States, unless—
+&emsp;An alien arriving at a port of entry of the United States who is ordered removed eitherwithout a hearing under section 1225(b)(1) or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival shall be removed immediately on a vessel or aircraft owned by the owner of the vessel or aircraft on which the alien arrived in the United States, unless—
 
 &emsp;&emsp;(A) it is impracticable to remove the alien on one of those vessels or aircraft within a reasonable time, or
 
@@ -348,7 +348,7 @@
 
 #### (1) In general
 
-&emsp;The Attorney General shall arrange for appropriate places of detention for aliens detained pending removal or a decision on removal. When United States Government facilities are unavailable or facilities adapted or suitably located for detention are unavailable for rental, the Attorney General may expend from the appropriation “Immigration and Naturalization Service—Salaries and Expenses”, without regard to section 5 of title 41, amounts necessary to acquire land and to acquire, build, remodel, repair, and operate facilities (including living quarters for immigration officers if not otherwise available) necessary for detention.
+&emsp;The Attorney General shall arrange for appropriate places of detention for aliens detained pending removal or a decision on removal. When United States Government facilities are unavailable or facilities adapted or suitably located for detention are unavailablefor rental, the Attorney General may expend from the appropriation “Immigration and Naturalization Service—Salaries and Expenses”, without regard to section 5 of title 41, amounts necessary to acquire land and to acquire, build, remodel, repair, and operate facilities (including living quarters for immigration officers if not otherwise available) necessary for detention.
 
 #### (2) Detention facilities of the Immigration and Naturalization Service
 
@@ -428,11 +428,11 @@ Section effective, with certain transitional provisions, on the first day of the
 
 #### United States Policy With Respect to Involuntary Return of Persons in Danger of Subjection to Torture
 
-Pub. L. 105–277, div. G, title XXII, §2242, Oct. 21, 1998, 112 Stat. 2681–822, provided that:
+Pub. L. 105–277, div. G, subdiv. B, title XXII, §2242, Oct. 21, 1998, 112 Stat. 2681–822, provided that:
 
 “(a)
 
-Policy.—It shall be the policy of the United States not to expel, extradite, or otherwise effect the involuntary return of any person to a country in which there are substantial grounds for believing the person would be in danger of being subjected to torture, regardless of whether the person is physically present in the United States.
+Policy.—It shall be the policy of the United States not to expel, extradite, or otherwise effect theinvoluntary return of any person to a country in which there are substantial grounds for believing the person would be in danger of being subjected to torture, regardless of whether the person is physically present in the United States.
 
 “(b)
 

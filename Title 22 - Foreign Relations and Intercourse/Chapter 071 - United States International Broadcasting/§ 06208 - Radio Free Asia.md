@@ -14,45 +14,25 @@ Radio Free Asia shall—
 
 &emsp;(2) be a forum for a variety of opinions and voices from within Asian nations whose people do not fully enjoy freedom of expression.
 
-#### (c) Submission of detailed plan for Radio Free Asia
-
-(1) No grant may be awarded to carry out this section unless the Board, through the Director of the United States Information Agency, has submitted to Congress a detailed plan for the establishment and operation of Radio Free Asia, including—
-
-&emsp;(A) a description of the manner in which Radio Free Asia would meet the funding limitations provided in subsection (d)(4) of this section;
-
-&emsp;(B) a description of the numbers and qualifications of employees it proposes to hire; and
-
-&emsp;(C) how it proposes to meet the technical requirements for carrying out its responsibilities under this section.
-
-(2) The plan required by paragraph (1) shall be submitted not later than 90 days after the date on which all members of the Board are confirmed.
-
-(3) No grant may be awarded to carry out the provisions of this section unless the plan submitted by the Board includes a certification by the Board that Radio Free Asia can be established and operated within the funding limitations provided for in subsection (d)(4) of this section and subsection (d)(5) of this section.
-
-(4) If the Board determines that a Radio Free Asia cannot be established or operated effectively within the funding limitations provided for in this section, the Board may submit, through the Director of the United States Information Agency, an alternative plan and such proposed changes in legislation as may be necessary to the appropriate congressional committees.
-
-#### (d) Grant agreement
+#### (c) Grant agreement
 
 Any grant agreement or grants under this section shall be subject to the following limitations and restrictions:
 
-&emsp;(1)(A) The Board may not make any grant to Radio Free Asia unless the headquarters of Radio Free Asia and its senior administrative and managerial staff are in a location which ensures economy, operational effectiveness, and accountability to the Board.
+&emsp;(1) The Board may not make any grant to Radio Free Asia unless the headquarters of Radio Free Asia and its senior administrative and managerial staff are in a location which ensures economy, operational effectiveness, and accountability to the Board.
 
-&emsp;(B) Not later than 90 days after confirmation of all members of the Board, the Board shall provide a report to Congress on the number of administrative, managerial, and technical staff of Radio Free Asia who will be located within the metropolitan area of Washington, D.C., and the number of employees whose principal place of business will be located outside the metropolitan area of Washington, D.C.
-
-&emsp;(2) Any grant agreement under this section shall require that any contract entered into by Radio Free Asia shall specify that all obligations are assumed by Radio Free Asia and not by the United States Government, and shall further specify that funds to carry out the activities of Radio Free Asia may not be available after September 30, 1999.
+&emsp;(2) Any grant agreement under this section shall require that any contract entered into by Radio Free Asia shall specify that all obligations are assumed by Radio Free Asia and not by the United States Government, and shall further specify that funds to carry out the activities of Radio Free Asia may not be available after September 30, 2009.
 
 &emsp;(3) Any grant agreement shall require that any lease agreements entered into by Radio Free Asia shall be, to the maximum extent possible, assignable to the United States Government.
 
-&emsp;(4) Grants made for the operating costs of Radio Free Asia may not exceed $22,000,000 in any fiscal year.
+&emsp;(4) Grants made for the operating costs of Radio Free Asia may not exceed $30,000,000 in each of the fiscal years 2000 and 2001.
 
-&emsp;(5) The total amount of grant funds made available for one-time capital costs of Radio Free Asia may not exceed $8,000,000.
+&emsp;(5) Grants awarded under this section shall be made pursuant to a grant agreement which requires that grant funds be used only for activities consistent with this section, and that failure to comply with such requirements shall permit the grant to be terminated without fiscal obligation to the United States.
 
-&emsp;(6) Grants awarded under this section shall be made pursuant to a grant agreement which requires that grant funds be used only for activities consistent with this section, and that failure to comply with such requirements shall permit the grant to be terminated without fiscal obligation to the United States.
+#### (d) Limitations on administrative and managerial costs
 
-#### (e) Limitations on administrative and managerial costs
+It is the sense of the Congress that administrative and managerial costs for operation of Radio Free Asia should be kept to a minimumand, to the maximum extent feasible, should not exceed the costs that would have been incurred if Radio Free Asia had been operated as a Federal entity rather than as a grantee.
 
-It is the sense of the Congress that administrative and managerial costs for operation of Radio Free Asia should be kept to a minimum and, to the maximum extent feasible, should not exceed the costs that would have been incurred if Radio Free Asia had been operated as a Federal entity rather than as a grantee.
-
-#### (f) Assessment of effectiveness of Radio Free Asia
+#### (e) Assessment of effectiveness of Radio Free Asia
 
 Not later than 3 years after the date on which initial funding is provided for the purpose of operating Radio Free Asia, the Board shall submit to the appropriate congressional committees a report on—
 
@@ -66,27 +46,41 @@ Not later than 3 years after the date on which initial funding is provided for t
 
 &emsp;(5) the extent to which the interests of the United States are being served by maintaining broadcasting of Radio Free Asia.
 
-#### (g) Sunset provision
+#### (f) Sunset provision
 
-The Board may not make any grant for the purpose of operating Radio Free Asia after September 30, 1998, unless the President of the United States determines in the President's fiscal year 1999 budget submission that continuation of funding for Radio Free Asia for 1 additional year is in the interest of the United States.
+The Board may not make any grant for the purpose of operating Radio Free Asia after September 30, 2009.
 
-#### (h) Notification and consultation regarding displacement of Voice of America broadcasting
+#### (g) Notification and consultation regarding displacement of Voice of America broadcasting
 
 The Board shall notify the appropriate congressional committees before entering into any agreements for the utilization of Voice of America transmitters, equipment, or other resources that will significantly reduce the broadcasting activities of the Voice of America in Asia or any other region in order to accommodate the broadcasting activities of Radio Free Asia. The Chairman of the Board shall consult with such committees on the impact of any such reduction in Voice of America broadcasting activities.
 
-#### (i) Not a Federal agency or instrumentality
+#### (h) Not a Federal agency or instrumentality
 
 Nothing in this chapter may be construed to make Radio Free Asia a Federal agency or instrumentality.
 
-(Pub. L. 103–236, title III, §309, Apr. 30, 1994, 108 Stat. 439; Pub. L. 103–415, §1(s)(2), Oct. 25, 1994, 108 Stat. 4302.)
+(Pub. L. 103–236, title III, §309, Apr. 30, 1994, 108 Stat. 439; Pub. L. 103–415, §1(s)(2), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title V, §501\], Nov. 29, 1999, 113 Stat. 1536, 1501A–450.)
 
 #### Amendments
 
+1999—Subsec. (c). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(1), (2)\], redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c), which required the Board, through the Director of the United States Information Agency, to submit to Congress a detailed plan for the establishment and operation of Radio Free Asia prior to the awarding of a grant to carry out this section.
+
+Subsec. (c)(1). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(3)(A)\], struck out “(A)” after “(1)” and struck out subpar. (B) which read as follows: “Not later than 90 days after confirmation of all members of the Board, the Board shall provide a report to Congress on the number of administrative, managerial, and technical staff of Radio Free Asia who will be located within the metropolitan area of Washington, D.C., and the number of employees whose principal place of business will be located outside the metropolitan area of Washington, D.C.”
+
+Subsec. (c)(2). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(3)(B)\], substituted “September 30, 2009” for “September 30, 1999”.
+
+Subsec. (c)(4). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(3)(C)\], substituted “$30,000,000 in each of the fiscal years 2000 and 2001” for “$22,000,000 in any fiscal year”.
+
+Subsec. (c)(5), (6). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(3)(D), (E)\], redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “The total amount of grant funds made available for one-time capital costs of Radio Free Asia may not exceed $8,000,000.”
+
+Subsecs. (d), (e). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(2)\], redesignated subsecs. (e) and (f) as (d) and (e), respectively. Former subsec. (d) redesignated (c).
+
+Subsec. (f). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(4)\], reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “The Board may not make any grant for the purpose of operating Radio Free Asia after September 30, 1998, unless the President of the United States determines in the President's fiscal year 1999 budget submission that continuation of funding for Radio Free Asia for 1 additional year is in the interest of the United States.”
+
+Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(2)\], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+Subsecs. (g) to (i). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(2)\], redesignated subsecs. (h) and (i) as (g) and (h), respectively. Former subsec. (g) redesignated (f).
+
 1994—Subsec. (d)(1)(B). Pub. L. 103–415 inserted “of all members” after “confirmation”.
-
-#### Transfer of Functions
-
-United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
 #### Section Referred to in Other Sections
 

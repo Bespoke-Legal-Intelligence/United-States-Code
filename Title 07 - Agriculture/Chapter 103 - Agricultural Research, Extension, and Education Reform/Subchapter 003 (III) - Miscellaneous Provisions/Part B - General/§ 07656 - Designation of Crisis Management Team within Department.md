@@ -26,7 +26,7 @@ The Crisis Management Team shall be responsible for the following:
 
 #### (c) Role in prioritizing certain research
 
-The Crisis Management Team shall cooperate with the Advisory Board in the prioritization ofagricultural research conducted or funded by the Department regarding animal health, natural disasters, food safety, and other agricultural issues.
+The Crisis Management Team shall cooperate with the Advisory Board in the prioritization of agricultural research conducted or funded by the Department regarding animal health, natural disasters, food safety, and other agricultural issues.
 
 #### (d) Cooperative agreements
 

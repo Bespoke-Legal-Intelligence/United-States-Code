@@ -6,7 +6,7 @@ Except where a specific section of this chapter designates enforcement responsib
 
 #### (b) Enforcement activities of authorized officers
 
-To enforce the provisions of this chapter in or on board any ocean thermal energy conversion facility or plantship or any vessel subject to the provisions of this chapter, any officer who is authorized by the Administrator or the Secretary of the department in which the Coast Guard is operating may—
+To enforce the provisions of this chapter in or on board any ocean thermal energy conversionfacility or plantship or any vessel subject to the provisions of this chapter, any officer who is authorized by the Administrator or the Secretary of the department in which the Coast Guard is operating may—
 
 &emsp;(1) enter or board, and inspect, any ocean thermal energy conversion facility or plantship or any vessel which is subject to the provisions of this chapter;
 

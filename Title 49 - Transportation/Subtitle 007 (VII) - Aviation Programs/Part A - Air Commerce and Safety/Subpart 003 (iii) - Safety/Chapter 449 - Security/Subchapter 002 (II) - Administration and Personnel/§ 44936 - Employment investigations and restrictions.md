@@ -234,7 +234,7 @@ Pilots of certain small aircraft.—Notwithstanding paragraph (1), an air carrie
 
 &emsp;&emsp;(B)
 
-Good faith exception.—Notwithstanding paragraph (1), an air carrier, without obtaining information about an individual under paragraph (1)(B) from an air carrier or other person that no longer exists, may allow the individual to begin service as a pilot if the air carrier required to request the information has made a documented good faith attempt to obtain such information.
+Good faith exception.—Notwithstanding paragraph (1), an air carrier, without obtaining information about an individualunder paragraph (1)(B) from an air carrier or other person that no longer exists, may allow the individual to begin service as a pilot if the air carrier required to request the information has made a documented good faith attempt to obtain such information.
 
 (g)
 

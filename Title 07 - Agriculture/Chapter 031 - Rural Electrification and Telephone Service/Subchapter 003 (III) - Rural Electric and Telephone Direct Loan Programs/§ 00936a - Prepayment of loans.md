@@ -2,7 +2,7 @@
 
 #### (a) Conditions for prepayment
 
-Except as provided in subsection (c) of this section, a borrower of a loan made by the Federal Financing Bank and guaranteed under section 936 of this title may prepay such loan (orany loan advance thereunder) by paying the outstanding principal balance due on the loan (or advance), if—
+Except as provided in subsection (c) of this section, a borrower of a loan made by the Federal Financing Bank and guaranteed under section 936 of this title may prepay such loan (or any loan advance thereunder) by paying the outstanding principal balance due on the loan (or advance), if—
 
 &emsp;(1) the loan is outstanding on July 2, 1986;
 

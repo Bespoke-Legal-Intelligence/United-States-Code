@@ -84,7 +84,7 @@ Period of Demonstration Project.—The demonstration project shall terminate not
 
 “(d)
 
-Effect on Employees.—For the purpose of testing fiscal accounting procedures, the Secretary may convert, for the duration of the demonstration project, the status of an employee who carries out a program referred to in subsection (a)(1) from the status of an employee paid by appropriated funds to the status of anonappropriated fund instrumentality employee, except that such conversion may occur only—
+Effect on Employees.—For the purpose of testing fiscal accounting procedures, the Secretary may convert, for the duration of the demonstration project, the status of an employee who carries out a program referred to in subsection (a)(1) from the status of an employee paid by appropriated funds to the status of a nonappropriated fund instrumentality employee, except that such conversion may occur only—
 
 &emsp;“(1) if the employee whose status is to be converted—
 
@@ -132,7 +132,7 @@ Pub. L. 101–511, title VIII, §8080, Nov. 5, 1990, 104 Stat. 1893, provided th
 
 &emsp;“(1) on the 3rd September 30th after enactment of this section \[Nov. 5, 1990\], all obligated balances transferred under section 1552(a)(1) of title 31, United States Code;
 
-&emsp;“(2) on September 30th of the 5th fiscal year after the period of availability of an appropriation account of the Department of Defense available for obligation for a definite period ends or has ended, with respectto those accounts which, upon the date of enactment of this section have expired for obligation but whose obligated balances have not been transferred pursuant to the provisions of section 1552(a)(1) of title 31, United States Code; and
+&emsp;“(2) on September 30th of the 5th fiscal year after the period of availability of an appropriation account of the Department of Defense available for obligation for a definite period ends or has ended, with respect to those accounts which, upon the date of enactment of this section have expired for obligation but whose obligated balances have not been transferred pursuant to the provisions of section 1552(a)(1) of title 31, United States Code; and
 
 &emsp;“(3) with respect to any appropriation account made available to the Department of Defense for an indefinite period against which no obligations have been made for two consecutive years and upon a determination by the Secretary of Defense or the President that the purposes of such indefinite appropriation have been carried out,
 

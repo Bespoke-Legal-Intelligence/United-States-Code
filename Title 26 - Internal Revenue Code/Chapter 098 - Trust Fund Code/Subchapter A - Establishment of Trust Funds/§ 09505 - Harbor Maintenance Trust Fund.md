@@ -34,7 +34,7 @@ Section 210 of the Water Resources Development Act of 1986 (as in effect on the 
 
 #### Amendments
 
-1996—Subsec. (c)(1). Pub. L. 104–303 amended par. (1) generally. Prior to amendment, par. (1) read as follows:“to carry out section 210(a) of the Water Resources Development Act of 1986 (as in effect on the date of enactment of this section),”.
+1996—Subsec. (c)(1). Pub. L. 104–303 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to carry out section 210(a) of the Water Resources Development Act of 1986 (as in effect on the date of enactment of this section),”.
 
 1993—Subsec. (c)(3). Pub. L. 103–182 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “for the payment of all expenses of administration incurred—
 

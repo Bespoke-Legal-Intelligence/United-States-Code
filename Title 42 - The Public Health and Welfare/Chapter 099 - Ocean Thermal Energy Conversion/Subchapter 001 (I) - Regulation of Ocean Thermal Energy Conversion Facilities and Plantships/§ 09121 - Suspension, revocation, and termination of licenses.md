@@ -8,7 +8,7 @@ Whenever a licensee fails to comply with any applicable provision of this chapte
 
 &emsp;(2) if such failure is knowing and continues for a period of 30 days after the Administrator mails notification of such failure by registered letter to the licensee at his record post office address, revoke such license.
 
-> No proceeding under this section is necessary if the license, by its terms, provides for automatic suspension or termination upon the occurrence of a fixed or agreed upon condition, event, or time.
+> No proceeding under this section is necessary if the license, by its terms, provides for automatic suspension or termination upon the occurrenceof a fixed or agreed upon condition, event, or time.
 
 #### (b) Immediate suspension of construction or operation pending completion of proceedings
 

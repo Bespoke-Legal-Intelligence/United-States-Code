@@ -36,7 +36,7 @@ For the purposes described in subsection (b) of this section, the Secretary, act
 
 #### (4) Requirement of availability of all early intervention services through each grantee
 
-&emsp;The Secretary may not make a grant under subsection (a) of this section unless the Stateinvolved agrees that each of the early intervention services specified in paragraph (2) will be available through the State. With respect to compliance with such agreement, a State may expend the grant to provide the early intervention services directly, and may expend the grant to enter into agreements with public or nonprofit private entities under which the entities provide the services.
+&emsp;The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that each of the early intervention services specified in paragraph (2) will be available through the State. With respect to compliance with such agreement, a State may expend the grant to provide the early intervention services directly, and may expend the grant to enter into agreements with public or nonprofit private entities under which the entities provide the services.
 
 #### (5) Optional services
 

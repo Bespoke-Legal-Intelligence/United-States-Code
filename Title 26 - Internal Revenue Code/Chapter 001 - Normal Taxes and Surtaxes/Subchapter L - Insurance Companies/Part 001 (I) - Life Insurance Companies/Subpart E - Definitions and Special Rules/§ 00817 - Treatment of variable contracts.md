@@ -22,7 +22,7 @@ In the case of variable contracts, the basis of each asset in a segregated asset
 
 #### (c) Separate accounting
 
-For purposes of this part (other than section 809), a life insurance company which issues variable contracts shall separately account for the various income, exclusion, deduction, asset, reserve, and other liability items properly attributable to such variable contracts. For such items as are not accounted for directly, separate accounting shall be made—
+For purposes of this part (other than section 809), a life insurance company which issues variable contracts shall separately account for thevarious income, exclusion, deduction, asset, reserve, and other liability items properly attributable to such variable contracts. For such items as are not accounted for directly, separate accounting shall be made—
 
 &emsp;(1) in accordance with the method regularly employed by such company, if such method is reasonable, and
 
@@ -50,7 +50,7 @@ For purposes of this part, the term “variable contract” means a contract—
 
 &emsp;&emsp;(C) in the case of funds held under a contract described in paragraph (2)(C), the amounts paid in, or the amounts paid out, reflect the investment return and the market value of the segregated asset account.
 
-> If a contract ceases to reflect current investment return and current market value, such contract shall not be considered as meeting therequirements of paragraph (3) after such cessation. Paragraph (3) shall be applied without regard to whether there is a guarantee, and obligations under such guarantee which exceed obligations under the contract without regard to such guarantee shall be accounted for as part of the company's general account.
+> If a contract ceases to reflect current investment return and current market value, such contract shall not be considered as meeting the requirements of paragraph (3) after such cessation. Paragraph (3) shall be applied without regard to whether there is a guarantee, and obligations under such guarantee which exceed obligations under the contract without regard to such guarantee shall be accounted for as part of the company's general account.
 
 #### (e) Pension plan contracts treated as paying annuity
 

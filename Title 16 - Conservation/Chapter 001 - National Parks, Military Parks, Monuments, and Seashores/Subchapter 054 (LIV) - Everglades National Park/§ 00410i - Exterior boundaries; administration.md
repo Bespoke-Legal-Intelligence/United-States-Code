@@ -16,7 +16,7 @@ Notwithstanding section 410 of this title, or any action taken pursuant to autho
 
 &emsp;thence easterly along the north line of sections 19, 20, 21, 22, 23, and 24 of township 59 south, range 38 east, and sections 19 and 20 of township 59 south, range 39 east, to the southwest right-of-way line of United States Highway Numbered 1;
 
-&emsp;thence southeasterly along the southwest right-of-way line of United States HighwayNumbered 1 to a point which is the northerly point of a tract of land conveyed by the trustees of the internal improvement fund, State of Florida, to John E. Ravlin, and others, by deed dated November 5, 1943, recorded in deed book G16, page 72, in Monroe County public records;
+&emsp;thence southeasterly along the southwest right-of-way line of United States Highway Numbered 1 to a point which is the northerly point of a tract of land conveyed by the trustees of the internal improvement fund, State of Florida, to John E. Ravlin, and others, by deed dated November 5, 1943, recorded in deed book G16, page 72, in Monroe County public records;
 
 &emsp;thence following along the westerly and southerly boundary of said tract to its point of intersection with a line parallel with and 200 feet northwesterly from the centerline of Intracoastal Waterway near the southern point of said Ravlin tract;
 

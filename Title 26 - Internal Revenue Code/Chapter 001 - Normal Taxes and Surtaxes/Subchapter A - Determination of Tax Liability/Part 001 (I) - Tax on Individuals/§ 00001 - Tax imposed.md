@@ -432,209 +432,199 @@ There is hereby imposed on the taxable income of—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 5; Pub. L. 88–272, title I, §111, Feb. 26, 1964, 78 Stat. 19; Pub. L. 89–809, title I, §103(a)(2), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 91–172, title VIII, §803(a), Dec. 30, 1969, 83 Stat. 678; Pub. L. 95–30, title I, §101(a), May 23, 1977, 91 Stat. 127; Pub. L. 95–600, title I, §101(a), Nov. 6, 1978, 92 Stat. 2767; Pub. L. 97–34, title I, §§101(a), 104(a), Aug. 13, 1981, 95 Stat. 176, 188; Pub. L. 97–448, title I, §101(a)(3), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 99–514, title I, §101(a), title III, §302(a), title XIV, §1411(a), Oct. 22, 1986, 100 Stat. 2096, 2218, 2714; Pub. L. 100–647, title I, §§1001(a)(3), 1014(e)(1)–(3), (6), (7), title VI, §6006(a), Nov. 10, 1988, 102 Stat. 3349, 3561, 3562, 3686; Pub. L. 101–239, title VII, §§7811(j)(1), 7816(b), 7831(a), Dec. 19, 1989, 103 Stat. 2411, 2420, 2425; Pub. L. 101–508, title XI, §§11101(a)–(c), (d)(1)(A), (2), 11103(c), 11104(b), Nov. 5, 1990, 104 Stat. 1388–403 to 1388–406, 1388–408; Pub. L. 103–66, title XIII, §§13201(a), (b)(3)(A), (B), 13202(a), 13206(d)(2), Aug. 10, 1993, 107 Stat. 457, 459, 461, 467; Pub. L. 104–188, title I, §1704(m)(1), (2), Aug. 20, 1996, 110 Stat. 1882, 1883; Pub. L. 105–34, title III, §311(a), Aug. 5, 1997, 111 Stat. 831; Pub. L. 105–206, title V, §5001(a)(1)–(4), title VI, §§6005(d)(1), 6007(f)(1), July 22, 1998, 112 Stat. 787, 788, 800, 810; Pub. L. 105–277, div. J, title IV, §4002(i)(1), (3), Oct. 21, 1998, 112 Stat. 2681–907, 2681–908.)
 
-#### Tax Tables for Taxable Years Beginning in 1999
+#### Tax Tables for Taxable Years Beginning in 2000
 
-Revenue Procedure 98–61 provided:
+Revenue Procedure 99–42 provided:
 
 #### Section 1. Purpose
 
-This revenue procedure sets forth inflation adjusted items for 1999.
+This revenue procedure sets forth inflation adjusted items for 2000.
 
 #### Section 2. Changes Made From Preceding Year
 
-.01 The amount used in determining the exemption under §§55 and 59(j), as amended by section 1201(b) of the Taxpayer Relief Act of 1997 (the “TRA of 1997”), Pub. L. No. 105–34, 111 Stat. 788 (1997), from the alternative minimum tax under §55 for a child subject to the “kiddie tax” under §1(g), is adjusted for inflation for tax years beginning in 1999 (section 3.04).
+.01 The limitations in §132(f) on the exclusion from gross income for qualified transportation fringes, as amended by section 9010(b) of the Transportation Equity Act for the 21st Century, Pub. L. 105–178, 112 Stat. 107 (1998), are adjusted for inflation for tax years beginning in 2000 (section 3.07).
 
-.02 The amounts used to determine whether a health plan is a “high deductible health plan” for purposes of determining whether an individual is eligible for a deduction for cash paid to a medical savings account under §220, as enacted by section 301(a) of the Health Insurance Portability and Accountability Act of 1996, Pub. L. No. 104–191, 110 Stat. 1936 (1996), are adjusted for inflation for tax years beginning in 1999 (section 3.10).
+.02 The value of property exempt from levy under §6334(a)(2) (fuel, provisions, furniture, and other household personal effects, as well as arms for personal use, livestock, and poultry) and under §6334(a)(3) (books and tools necessary for the trade, business, or profession of the taxpayer), as amended by section 3431 of the Internal Revenue Service Restructuring and Reform Act of 1998, Pub. L. No. 105–206, 112 Stat. 685 (1998), are adjusted for inflation for tax years beginning in 2000 (section 3.24).
 
-.03 The maximum amount of contributions that may be made to a qualified funeral trust defined in §685, as enacted by section 1309(a) of the TRA of 1997, is adjusted for inflation for calendar year 1999 (section 3.13).
+#### Section 3. 2000 Adjusted Items
 
-.04 The maximum amount by which the estate tax valuation method under §2032A, as amended by section 501(b) of the TRA of 1997, may decrease the value of certain farm and other qualified real property included in a decedent's gross estate, is adjusted for inflation for calendar year 1999 (section 3.15).
-
-.05 The amount of gifts that may be made to a person in a calendar year without including the amount in taxable gifts under §2503, as amended by section 501(c) of the TRA of 1997, is adjusted for inflation for calendar year 1999. Also, under §2523(i)(2) by cross reference to §2503, the amountof gifts that may be made to a spouse who is not a citizen of the United States in a calendar year without including the amount in taxable gifts under §2503 is adjusted for inflation for calendar year 1999 (section 3.16).
-
-.06 The amount of the generation-skipping transfer tax exemption under §2631, as amended by section 501(d) of the TRA of 1997, which was technically corrected by section 6007(a)(1) of the Internal Revenue Service Restructuring and Reform Act of 1998 (the “RRA of 1998”), Pub. L. No. 105–206, 112 Stat. 685 (1998), is adjusted for inflation for calendar year 1999 (section 3.17).
-
-.07 The amount of the excise tax on passenger air transportation beginning or ending in the United States under §4261, as amended by section 1031(c) of the TRA of 1997, is adjusted for inflation for calendar year 1999 (section 3.19).
-
-.08 The maximum amount of a casual sale of personal property below which a federal tax lien will not be valid against a purchaser of the property under §6323(b)(4), and the maximum amount of a contract for the repair or improvement of certain residential property at or below which a federal tax lien will not be valid against a mechanic's lienor under §6323(b)(7), each as amended by section 3435(a) of the RRA of 1998, are adjusted for inflation for calendar year 1999 (section 3.22).
-
-.09 For purposes of calculating interest charged under §6601(j), as amended by section 501(e) of the TRA of 1997, the dollar amount used to determine the “2 percent portion” of the estate tax payable in installments under §6166 is adjusted for inflation for calendar year 1999 (section 3.23).
-
-.10 The amount of the limit on the hourly rate at which attorney fees may be awarded under §7430 in a judgment or settlement of an administrative or judicial proceeding concerning the determination, collection, or refund of tax, interest, or penalty under the Code was increased to $125, as adjusted for inflation, effective for costs incurred after January 18, 1999, by section 3101(a)(1) of the RRA of 1998 (section 3.24).
-
-#### Section 3. 1999 Adjusted Items
-
-.01 Tax Rate Tables. For tax years beginning in 1999, the tax rate tables under §1 are as follows:
+.01 Tax Rate Tables. For tax years beginning in 2000, the tax rate tables under §1 are as follows:
 
 Table 1—Section 1(a).—Married Individuals Filing Joint Returns and Surviving Spouses
 
 | If Taxable Income Is: | The Tax Is: |
 | :--- | ---: |
-| Not Over $43,050 | 15% of the taxable income |
-| Over $43,050 but not over $104,050 | $6,457.50 plus 28% of the excess over $43,050 |
-| Over $104,050 but not over $158,550 | $23,537.50 plus 31% of the excess over $104,050 |
-| Over $158,550 but not over $283,150 | $40,432.50 plus 36% of the excess over $158,550 |
-| Over $283,150 | $85,288.50 plus 39.6% of the excess over $283,150 |
+| Not Over $43,850 | 15% of the taxable income |
+| Over $43,850 but not over $105,950 | $6,577.50 plus 28% of the excess over $43,850 |
+| Over $105,950 but not over $161,450 | $23,965.50 plus 31% of the excess over $105,950 |
+| Over $161,450 but not over $288,350 | $41,170.50 plus 36% of the excess over $161,450 |
+| Over $288,350 | $86,854.50 plus 39.6% of the excess over $288,350 |
 
 Table 2—Section 1(b).—Heads of Households
 
 | If Taxable Income Is: | The Tax Is: |
 | :--- | ---: |
-| Not Over $34,550 | 15% of the taxable income |
-| Over $34,550 but not over $89,150 | $5,182.50 plus 28% of the excess over $34,550 |
-| Over $89,150 but not over $144,400 | $20,470.50 plus 31% of the excess over $89,150 |
-| Over $144,400 but not over $283,150 | $37,598 plus 36% of the excess over $144,400 |
-| Over $283,150 | $87,548 plus 39.6% of the excess over $283,150 |
+| Not Over $35,150 | 15% of the taxable income |
+| Over $35,150 but not over $90,800 | $5,272.50 plus 28% of the excess over $35,150 |
+| Over $90,800 but not over $147,050 | $20,854.50 plus 31% of the excess over $90,800 |
+| Over $147,050 but not over $288,350 | $38,292 plus 36% of the excess over $147,050 |
+| Over $288,350 | $89,160 plus 39.6% of the excess over $288,350 |
 
 Table 3—Section 1(c).—Unmarried Individuals (Other Than Surviving Spouses and Heads of Households)
 
 | If Taxable Income Is: | The Tax Is: |
 | :--- | ---: |
-| Not Over $25,750 | 15% of the taxable income |
-| Over $25,750 but not over $62,450 | $3,862.50 plus 28% of the excess over $25,750 |
-| Over $62,450 but not over $130,250 | $14,138.50 plus 31% of the excess over $62,450 |
-| Over $130,250 but not over $283,150 | $35,156.50 plus 36% of the excess over $130,250 |
-| Over $283,150 | $90,200.50 plus 39.6% of the excess over $283,150 |
+| Not Over $26,250 | 15% of the taxable income |
+| Over $26,250 but not over $63,550 | $3,937.50 plus 28% of the excess over $26,250 |
+| Over $63,550 but not over $132,600 | $14,381.50 plus 31% of the excess over $63,550 |
+| Over $132,600 but not over $288,350 | $35,787 plus 36% of the excess over $132,600 |
+| Over $288,350 | $91,857 plus 39.6% of the excess over $288,350 |
 
 Table 4—Section 1(d).—Married Individuals Filing Separate Returns
 
 | If Taxable Income Is: | The Tax Is: |
 | :--- | ---: |
-| Not Over $21,525 | 15% of the taxable income |
-| Over $21,525 but not over $52,025 | $3,228.75 plus 28% of the excess over $21,525 |
-| Over $52,025 but not over $79,275 | $11,768.75 plus 31% of the excess over $52,025 |
-| Over $79,275 but not over $141,575 | $20,216.25 plus 36% of the excess over $79,275 |
-| Over $141,575 | $42,644.25 plus 39.6% of the excess over $141,575 |
+| Not Over $21,925 | 15% of the taxable income |
+| Over $21,925 but not over $52,975 | $3,288.75 plus 28% of the excess over $21,925 |
+| Over $52,975 but not over $80,725 | $11,982.75 plus 31% of the excess over $52,975 |
+| Over $80,725 but not over $144,175 | $20,585.25 plus 36% of the excess over $80,725 |
+| Over $144,175 | $43,427.25 plus 39.6% of the excess over $144,175 |
 
 Table 5—Section 1(e).—Estates and Trusts
 
 | If Taxable Income Is: | The Tax Is: |
 | :--- | ---: |
 | Not Over $1,750 | 15% of the taxable income |
-| Over $1,750 but not over $4,050 | $262.50 plus 28% of the excess over $1,750 |
-| Over $4,050 but not over $6,200 | $906.50 plus 31% of the excess over $4,050 |
-| Over $6,200 but not over $8,450 | $1,573 plus 36% of the excess over $6,200 |
-| Over $8,450 | $2,383 plus 39.6% of the excess over $8,450 |
+| Over $1,750 but not over $4,150 | $262.50 plus 28% of the excess over $1,750 |
+| Over $4,150 but not over $6,300 | $934.50 plus 31% of the excess over $4,150 |
+| Over $6,300 but not over $8,650 | $1,601 plus 36% of the excess over $6,300 |
+| Over $8,650 | $2,447 plus 39.6% of the excess over $8,650 |
 
-.02 Unearned Income of Minor Children Taxed as if Parent's Income (the “Kiddie Tax”). For tax years beginning in 1999, the amount in §1(g)(4)(A)(ii)(I), which is used to reduce the net unearned income reported on the child's return that is subject to the “kiddie tax,” is $700. (This amount is the same as the $700 standard deduction amount provided in section 3.05(2) of this revenue procedure.) In the alternative, the same $700 amount is used for purposes of §1(g)(7) (that is, determining whether a parent may elect to include a child's gross income in the parent's gross income and for calculating the “kiddie tax”).
+.02 Unearned Income of Minor Children Taxed as if Parent's Income (the “Kiddie Tax”). For tax years beginning in 2000, the amount in §1(g)(4)(A)(ii)(I), which is used to reduce the net unearned income reported on the child's return that is subject to the “kiddie tax,” is $700. (This amount is the same as the $700 standard deduction amount provided in section 3.05(2) of this revenue procedure.) In the alternative, the same $700 amount is used for purposes of §1(g)(7) (that is, determining whether a parent may elect to include a child's gross income in the parent's gross income and for calculating the “kiddie tax”).
 
 .03 Earned Income Credit.
 
-(1) In general. For tax years beginning in 1999, the following amounts are used to determine the earned income credit under §32(b). The “earned income amount” is the amount of earned income at or above which the maximum amount of the earned income credit is allowed. The “threshold phaseout amount” is the amount of modified adjusted gross income (or, if greater, earned income) above which the maximum amount of the credit begins to phase out. The “completed phaseout amount” is the amount of modified adjusted gross income (or if greater, earned income) at or above which no credit is allowed.
+(1) In general. For tax years beginning in 2000, the following amounts are used to determine the earned income credit under §32(b). The “earned income amount” is the amount of earned income at or above which the maximum amount of the earned income credit is allowed. The “threshold phaseout amount” is the amount of modified adjusted gross income (or, if greater, earned income) above which the maximum amount of the credit begins to phase out. The “completed phaseout amount” is the amount of modified adjusted gross income (or if greater, earned income) at or above which no credit is allowed.
 
 &nbsp;
 
 | Number of Children | Maximum Amount of the Credit | Earned Income Amount | Threshold Phaseout Amount | Completed Phaseout Amount |
 | :--- | :---: | :---: | :---: | ---: |
-| 1 | $2,312 | $6,800 | $12,460 | $26,928 |
-| 2 or more | $3,816 | $9,540 | $12,460 | $30,580 |
-| None | $  347 | $4,530 | $ 5,670 | $10,200 |
+| 1 | $2,353 | $6,920 | $12,690 | $27,413 |
+| 2 or more | $3,888 | $9,720 | $12,690 | $31,152 |
+| None | $  353 | $4,610 | $ 5,770 | $10,380 |
 
 The Internal Revenue Service, in the instructions for the Form 1040 series, provides tables showing the amount of the earned income credit for each type of taxpayer.
 
-(2) Excessive investment income. For tax years beginning in 1999, the earned income credit is denied under §32(i) if the aggregate amount of certain investment income exceeds $2,350.
+(2) Excessive investment income. For tax years beginning in 2000, the earned income credit is denied under §32(i) if the aggregate amount of certain investment income exceeds $2,400.
 
-.04 Alternative Minimum Tax Exemption for a Child Subject to the “Kiddie Tax.” For tax years beginning in 1999, in the case of a child to whom the §1(g) “kiddie tax” applies, the exemption amount under §55 and §59(j) for purposes of the alternative minimum tax under §55 may not exceed the sum of (A) such child's earned income for the taxable year, plus (B) $5,100.
+.04 Alternative Minimum Tax Exemption for a Child Subject to the “Kiddie Tax.” For tax years beginning in 2000, in the case of a child to whom the §1(g) “kiddie tax” applies, the exemption amount under §55 and §59(j) for purposes of the alternative minimum tax under §55 may not exceed the sum of (A) such child's earned income for the taxable year, plus (B) $5,200.
 
 .05 Standard Deduction.
 
-(1) In general. For tax years beginning in 1999, the standard deduction amounts under §63(c)(2) are as follows:
+(1) In general. For tax years beginning in 2000, the standard deduction amounts under §63(c)(2) are as follows:
 
 &nbsp;
 
 | Filing Status | Standard Deduction |
 | :--- | ---: |
-| Married Individuals Filing Joint Returns and Surviving Spouses (§1(a)) | $7,200 |
-| Heads of Households (§1(b)) | $6,350 |
-| Unmarried Individuals (Other Than Surviving Spouses and Heads of Households) (§1(c)) | $4,300 |
-| Married Individuals Filing Separate Returns (§1(d)) | $3,600 |
+| Married Individuals Filing Joint Returns and Surviving Spouses (§1(a)) | $7,350 |
+| Heads of Households (§1(b)) | $6,450 |
+| Unmarried Individuals (Other Than Surviving Spouses and Heads of Households) (§1(c)) | $4,400 |
+| Married Individuals Filing Separate Returns (§1(d)) | $3,675 |
 
-(2) Dependent. For tax years beginning in 1999, the standard deduction amount under §63(c)(5) for an individual who may be claimed as a dependent by another taxpayer may not exceed the greater of $700, or the sum of $250 and the individual's earned income.
+(2) Dependent. For tax years beginning in 2000, the standard deduction amount under §63(c)(5) for an individual who may be claimed as a dependent by another taxpayer may not exceed the greater of $700, or the sum of $250 and the individual's earned income.
 
-(3) Aged and blind. For tax years beginning in 1999, the additional standard deduction amounts under §63(f) for the aged and for the blind are $850 for each. These amounts are increased to $1,050 if the individual is also unmarried and not a surviving spouse.
+(3) Aged and blind. For tax years beginning in 2000, the additional standard deduction amounts under §63(f) for the aged and for the blind are $850 for each. These amounts are increased to $1,100 if the individual is also unmarried and not a surviving spouse.
 
-.06 Overall Limitation on Itemized Deductions. For tax years beginning in 1999, the “applicable amount” of adjusted gross income under §68(b), above which the amount of otherwise allowable itemized deductions is reduced under §68, is $126,600 (or $63,300 for a separate return filed by a married individual).
+.06 Overall Limitation on Itemized Deductions. For tax years beginning in 2000, the “applicable amount” of adjusted gross income under §68(b), above which the amount of otherwise allowable itemized deductions is reduced under §68, is $128,950 (or $64,475 for a separate return filed by a married individual).
 
-.07 Income from United States Savings Bonds for Taxpayers Who Pay Qualified Higher Education Expenses. For tax years beginning in 1999, the exclusion under §135, regarding income from United States savings bonds for taxpayers who pay qualified higher education expenses, begins to phase out for modified adjusted gross income above $79,650 for joint returns and $53,100 for other returns. This exclusion completely phases out for modified adjusted gross income of $109,650 or more for joint returns and $68,100 or more for other returns.
+.07 Qualified Transportation Fringe. For tax years beginning in 2000, the monthly limitation under §132(f)(2)(A), regarding the aggregate fringe benefit exclusion amount for transportation in a commuter highway vehicle and any transit pass, is $65. The monthly limitation under §132(f)(2)(B) regarding the fringe benefit exclusion amount for qualified parking is $175.
 
-.08 Personal Exemption.
+.08 Income from United States Savings Bonds for Taxpayers Who Pay Qualified Higher Education Expenses. For tax years beginning in 2000, the exclusion under §135, regarding income from UnitedStates savings bonds for taxpayers who pay qualified higher education expenses, begins to phase out for modified adjusted gross income above $81,100 for joint returns and $54,100 for other returns. This exclusion completely phases out for modified adjusted gross income of $111,100 or more for joint returns and $69,100 or more for other returns.
 
-(1) Exemption amount. For tax years beginning in 1999, the personal exemption amount under §151(d) is $2,750.
+.09 Personal Exemption.
 
-(2) Phaseout. For tax years beginning in 1999, the personal exemption amount begins to phase out at, and is completely phased out after, the following adjusted gross income amounts:
+(1) Exemption amount. For tax years beginning in 2000, the personal exemption amount under §151(d) is $2,800.
+
+(2) Phaseout. For tax years beginning in 2000, the personal exemption amount begins to phase out at, and is completely phased out after, the following adjusted gross income amounts:
 
 &nbsp;
 
 | Filing Status | Threshold Phaseout Amount | Completed Phaseout Amount After |
 | :--- | :---: | ---: |
-| Code §1(a) | $189,950 | $312,450 |
-| Code §1(b) | $158,300 | $280,800 |
-| Code §1(c) | $126,600 | $249,100 |
-| Code §1(d) | $ 94,975 | $156,225 |
+| Code §1(a) | $193,400 | $315,900 |
+| Code §1(b) | $161,150 | $283,650 |
+| Code §1(c) | $128,950 | $251,450 |
+| Code §1(d) | $ 96,700 | $157,950 |
 
-.09 Eligible Long-Term Care Premiums. For tax years beginning in 1999, the limitations under §213(d), regarding eligible long-term care premiums includible in the term “medical care,” are as follows:
+.10 Eligible Long-Term Care Premiums. For tax years beginning in 2000, the limitations under §213(d), regarding eligible long-term care premiums includible in the term “medical care,” are as follows:
 
 &nbsp;
 
 | Attained age before the close of the taxable year: | &nbsp; |
 | :--- | ---: |
-| 40 or less | $  210 |
-| More than 40 but not more than 50 | $  400 |
-| More than 50 but not more than 60 | $  800 |
-| More than 60 but not more than 70 | $2,120 |
-| More than 70 | $2,660 |
+| 40 or less | $  220 |
+| More than 40 but not more than 50 | $  410 |
+| More than 50 but not more than 60 | $  820 |
+| More than 60 but not more than 70 | $2,200 |
+| More than 70 | $2,750 |
 
-.10 Medical Savings Accounts.
+.11 Medical Savings Accounts.
 
-(1) Self-only coverage. For tax years beginning in 1999, the term “high deductible health plan” as defined in §220(c)(2)(A) means, in the case of self-only coverage, a health plan which has an annual deductible that is not less than $1,550 and not more than $2,300, and under which the annual out-of-pocket expenses required to be paid (other than for premiums) for covered benefits does not exceed $3,050.
+(1) Self-only coverage. For tax years beginning in 2000, the term “high deductible health plan” as defined in §220(c)(2)(A) means, in the case of self-only coverage, a health plan which has an annual deductible that is not less than $1,550 and not more than $2,500, and under which the annual out-of-pocket expenses required to be paid (other than for premiums) for covered benefits does not exceed $3,100.
 
-(2) Family coverage. For tax years beginning in 1999, the term “high deductible health plan” means, in the case of family coverage, a health plan which has an annual deductible that is not less than $3,050 and not more than $4,600, and under which the annual out-of-pocket expenses required to be paid (other than for premiums) for covered benefits does not exceed $5,600.
+(2) Family coverage. For tax years beginning in 2000, the term “high deductible health plan” means, in the case of family coverage, a health plan which has an annual deductible that is not less than $3,100 and not more than $4,650, and under which the annual out-of-pocket expenses required to be paid (other than for premiums) for covered benefits does not exceed $5,700.
 
-.11 Treatment of Dues Paid to Agricultural or Horticultural Organizations. For tax years beginning in 1999, the limitation under §512(d)(1), regarding the exemption of annual dues required to be paid by a member to an agricultural or horticultural organization, is $110.
+.12 Treatment of Dues Paid to Agricultural or Horticultural Organizations. For tax years beginning in 2000, the limitation under §512(d)(1), regarding the exemption of annual dues required to be paid by a member to an agricultural or horticultural organization, is $112.
 
-.12 Insubstantial Benefit Limitations for Contributions Associated with Charitable Fund-Raising Campaigns.
+.13 Insubstantial Benefit Limitations for Contributions Associated with Charitable Fund-Raising Campaigns.
 
-(1) Low cost article. For tax years beginning in 1999, the unrelated business income of certain exempt organizations under §513(h)(2) does not include a “low cost article” of $7.20 or less.
+(1) Low cost article. For tax years beginning in 2000, the unrelated business income of certain exempt organizations under §513(h)(2) does not include a “low cost article” of $7.40 or less.
 
-(2) Other insubstantial benefits. For tax years beginning in 1999, the $5, $25, and $50 guidelines in section 3 of Rev. Proc. 90–12, 1990–1 C.B. 471 (as amplified and modified), for disregarding the value of insubstantial benefits received by a donor in return for a fully deductible charitable contribution under §170, are $7.20, $36, and $72, respectively.
+(2) Other insubstantial benefits. For tax years beginning in 2000, the $5, $25, and $50 guidelines in section 3 of Rev. Proc. 90–12, 1990–1 C.B. 471 (as amplified and modified), for disregarding the value of insubstantial benefits received by a donor in return for a fully deductible charitable contribution under §170, are $7.40, $37, and $74, respectively.
 
-.13 Funeral Trusts. For a contract entered into during calendar year 1999 for a “qualified funeral trust,” as defined in §685, the trust may not accept aggregate contributions by or for the benefit of an individual in excess of $7,100.
+.14 Funeral Trusts. For a contract entered into during calendar year 2000 for a “qualified funeral trust,” as defined in §685, the trust may not accept aggregate contributions by or for the benefit of an individual in excess of $7,200.
 
-.14 Expatriation to Avoid Tax. For calendar year 1999, the thresholds used under §877(a)(2), regarding whether an individual's loss of United States citizenship had the avoidance of United States taxes as one of its principal purposes, are more than $110,000 for “average annual net income tax” and $552,000 or more for “net worth.”
+.15 Expatriation to Avoid Tax. For calendar year 2000, the thresholds used under §877(a)(2), regarding whether an individual's loss of United States citizenship had the avoidance of United States taxes as one of its principal purposes, are more than $112,000 for “average annual net income tax” and $562,000 or more for “net worth.”
 
-.15 Valuation of Qualified Real Property in Decedent's Gross Estate. For an estate of a decedent dying in calendar year 1999, if the executor elects touse the special use valuation method under §2032A for qualified real property, the aggregate decrease in the value of qualified real property resulting from electing to use §2032A that is taken into account for purposes of the estate tax may not exceed $760,000.
+.16 Valuation of Qualified Real Property in Decedent's Gross Estate. For an estate of a decedent dying in calendar year 2000, if the executor elects to use the special use valuation method under §2032A for qualified real property, the aggregate decrease in the value of qualified real property resulting from electing to use §2032A that is taken into account for purposes of the estate tax may not exceed $770,000.
 
-.16 Annual Exclusion for Gifts.
+.17 Annual Exclusion for Gifts.
 
-(1) For calendar year 1999, the first $10,000 of gifts to any person (other than gifts of future interests in property) are not included in the total amount of taxable gifts under §2503 made during that year.
+(1) For calendar year 2000, the first $10,000 of gifts to any person (other than gifts of future interests in property) are not included in the total amount of taxable gifts under §2503 made during that year.
 
-(2) For calendar year 1999, the first $101,000 of gifts to a spouse who is not a citizen of the United States (other than gifts of future interests in property) are not included in the total amount of taxable gifts under §§2503 and 2523(i)(2) made during that year.
+(2) For calendar year 2000, the first $103,000 of gifts to a spouse who is not a citizen of the United States (other than gifts of future interests in property) are not included in the total amount of taxable gifts under §§2503 and 2523(i)(2) made during that year.
 
-.17 Generation-Skipping Transfer Tax Exemption. For calendar year 1999, the generation-skipping transfer tax exemption under §2631, which is allowed in determining the “inclusion ratio” defined in §2642, is $1,010,000.
+.18 Generation-Skipping Transfer Tax Exemption. For calendar year 2000, the generation-skipping transfer tax exemption under §2631, which is allowed in determining the “inclusion ratio” defined in §2642, is $1,030,000.
 
-.18 Luxury Automobile Excise Tax. For calendar year 1999, the excise tax under §§4001 and 4003 is imposed on the first retail sale of a passenger vehicle (including certain parts or accessories installed within six months of the date after the vehicle was first placed in service), to the extent the price exceeds $36,000.
+.19 Luxury Automobile Excise Tax. For calendar year 2000, the excise tax under §§4001 and 4003 is imposed on the first retail sale of a passenger vehicle (including certain parts or accessories installed within six months of the date after the vehicle was first placed in service), to the extent the price exceeds $38,000.
 
-.19 Passenger Air Transportation Excise Tax. For calendar year 1999, the tax under §4261(c) on any amount paid (whether within or without the United States) for any transportation of any person by air, if such transportation begins or ends in the United States, generally is $12.20. However, in the case of a domestic segment beginning or ending in Alaska or Hawaii as described in §4261(c)(3), the tax only applies to departures and is at the rate of $6.10.
+.20 Passenger Air Transportation Excise Tax. For calendar year 2000, the tax under §4261(c) on any amount paid (whether within or without the United States) for any transportation of any person by air, if such transportation begins or ends in the United States, generally is $12.40. However, in the case of a domestic segment beginning or ending in Alaska or Hawaii as described in §4261(c)(3), the tax only applies to departures and is at the rate of $6.20.
 
-.20 Reporting Exception for Certain Exempt Organizations with Nondeductible Lobbying Expenditures. For tax years beginning in 1999, the annual per person, family, or entity dues limitation to qualify for the reporting exception under §6033(e)(3) (and section 5.05 of Rev. Proc. 98–19, 1998–7 I.R.B. 30), regarding certain exempt organizations with nondeductible lobbying expenditures, is $77 or less.
+.21 Reporting Exception for Certain Exempt Organizations with Nondeductible Lobbying Expenditures. For tax years beginning in 2000, the annual per person, family, or entity dues limitation to qualify for the reporting exception under §6033(e)(3) (and section 5.05 of Rev. Proc. 98–19, 1998–7 I.R.B. 30), regarding certain exempt organizations with nondeductible lobbying expenditures, is $78 or less.
 
-.21 Notice of Large Gifts Received from Foreign Persons. For tax years beginning in 1999, recipients of gifts from certain foreign persons may have to report these gifts under §6039F if the aggregate value of gifts received in a taxable year exceeds $10,735.
+.22 Notice of Large Gifts Received from Foreign Persons. For tax years beginning in 2000, recipients of gifts from certain foreign persons may have to report these gifts under §6039F if the aggregate value of gifts received in a taxable year exceeds $10,931.
 
-.22 Persons against Which a Federal Tax Lien is Not Valid. For calendar year 1999, a federal tax lien is not valid against (1) certain purchasers under §6323(b)(4) that purchased personal property in a casual sale for less than $1,040, or (2) a mechanic's lienor under §6323(b)(7) that repaired or improved certain residential property if the contract price with the owner is not more than $5,220.
+.23 Persons against Which a Federal Tax Lien is Not Valid. For calendar year 2000, a federal tax lien is not valid against (1) certain purchasers under §6323(b)(4) that purchased personal property in a casual sale for less than $1,060, or (2) a mechanic'slienor under §6323(b)(7) that repaired or improved certain residential property if the contract price with the owner is not more than $5,320.
 
-.23 Interest on a Certain Portion of the Estate Tax Payable in Installments. For an estate of a decedent dying in calendar year 1999, the dollar amount used to determine the “2-percent portion” (for purposes of calculating interest under §6601(j)) of the estate tax payable in installments under §6166 is $1,010,000.
+.24 Property Exempt from Levy. For calendar year 2000, the value of property exempt from levy under §6334(a)(2) (fuel, provisions, furniture, and other household personal effects, as well as arms for personal use, livestock, and poultry) may not exceed $6,360. The value of property exempt from levy under §6334(a)(3) (books and tools necessary for the trade, business, or profession of the taxpayer) may not exceed $3,180.
 
-.24 Attorney Fee Awards. For calendar year 1999, for costs incurred on or before January 18, 1999, the attorney fee award limitation under §7430(c)(1)(B)(iii) is $120 per hour. For costs incurred after January 18, 1999, the attorney fee award limitation under §7430(c)(1)(B)(iii) is $130 per hour.
+.25 Interest on a Certain Portion of the Estate Tax Payable in Installments. For an estate of a decedent dying in calendar year 2000, the dollar amount used to determine the “2-percent portion” (for purposes of calculating interest under §6601(j)) of the estate tax payable in installments under §6166 is $1,030,000.
 
-.25 Periodic Payments Received under Qualified Long-Term Care Insurance Contracts or under Certain Life Insurance Contracts. For calendar year 1999, the stated dollar amount of the per diem limitation under §7702B(d)(4), regarding periodic payments received under a qualified long-term care insurance contract or periodic payments received under a life insurance contract that are treated as paid by reason of the death of a chronically ill individual, is $190.
+.26 Attorney Fee Awards. For fees incurred in calendar year 2000, the attorney fee award limitation under §7430(c)(1)(B)(iii) is $140 per hour.
+
+.27 Periodic Payments Received under Qualified Long-Term Care Insurance Contracts or under Certain Life Insurance Contracts. For calendar year 2000, the stated dollar amount of the per diem limitation under §7702B(d)(4), regarding periodic payments received under a qualified long-term care insurance contract or periodic payments received under a life insurance contract that are treated as paid by reason of the death of a chronically ill individual, is $190.
 
 #### Section 4. Effective Date
 
-.01 General Rule. Except as provided in section 4.02, this revenue procedure applies to tax years beginning in 1999.
+.01 General Rule. Except as provided in section 4.02, this revenue procedure applies to tax years beginning in 2000.
 
-.02 Calendar Year Rule. This revenue procedure applies to transactions or events occurring in calendar year 1999 for purposes of section 3.13 (funeral trusts), section 3.14 (expatriation to avoid tax), section 3.15 (valuation of qualified real property in decedent's gross estate), section 3.16 (annual exclusion for gifts), section 3.17 (generation-skipping transfer tax exemption), section 3.18 (luxury automobile excise tax), section 3.19 (passenger air transportation excise tax), section 3.22 (persons against which a federal tax lien is not valid), section 3.23 (interest on a certain portion of the estate tax payable in installments), section 3.24 (attorney fee awards), and section 3.25 (periodic payments received under qualified long-term care insurance contracts or under certain life insurance contracts).
+.02 Calendar Year Rule. This revenue procedure applies to transactions or events occurring in calendar year 2000 for purposes of section 3.14 (funeral trusts), section 3.15 (expatriation to avoid tax), section 3.16 (valuation of qualified real property in decedent's gross estate), section 3.17 (annual exclusion for gifts), section 3.18 (generation-skipping transfer tax exemption), section 3.19 (luxury automobile excise tax), section 3.20 (passenger air transportation excise tax), section 3.23 (persons against which a federal tax lien is not valid), section 3.24 (property exempt from levy), section 3.25 (interest on a certain portion of the estate tax payable in installments), section 3.26 (attorney fee awards), and section 3.27 (periodic payments received under qualified long-term care insurance contracts or under certain life insurance contracts).
 
 #### Tax Tables for Certain Tax Years
+
+Revenue Procedure 98–61 provided the following inflation adjusted items for tax years beginning in 1999 (1) the tax rate tables for individuals and for estates and trusts; (2) the amounts allowed against unearned income in computing the “kiddie tax,” which taxes a minor child's net unearned income at the marginal rate that applies to the income of the child's parent; (3) the earned income tax credit and the phaseout of the earned income tax credit; (4) the alternative minimum tax exemption for a child subject to the “kiddie tax”; (5) the basic standard deduction amounts for different filing statuses, the limitation on the standard deduction in the case of an individual who may be claimed as a dependent by another taxpayer, and the additional standard deduction amounts for the aged and the blind; (6) the overall limitation on itemized deductions; (7) the limitations on the exclusion of income from the redemption of United States savings bonds for taxpayers who pay qualified higher education expenses; (8) the personal exemption and the phaseout of the tax benefit of personal exemptions; (9) the limitations regarding eligible long-term care premiums includible as “medical care”; (10) the annual deductible and out-of-pocket expenses required to be paid for a “high deductible health plan” for purposes of eligibility for medical savings plan deductions; (11) the limitation regarding the exemption of annual dues required to be paid by a member to an agricultural or horticultural organization; (12) the insubstantial benefit limitations for contributions associated with charitable fund-raising campaigns; (13) the aggregate contributions limitation to a “qualified funeral trust”; (14) the amounts of net tax and net worth used to determine if a loss resulting from expatriation was incurred for tax avoidance; (15) the limitation on the amount of the aggregate decrease in the value of qualified real property resulting from the use of the special use valuation method that may be taken into account for estate tax purposes; (16) the values of gifts to any person and to a spouse who is not a citizen of the United States that are not included in the total amount of taxable gifts; (17) the generation-skipping transfer tax exemption allowed in determining the “inclusion ratio”; (18) the luxury automobile excise tax threshold amount; (19) the tax on any amount paid for any transportation of any person by air beginning or ending in the United States; (20) the reporting exception amount for certain exempt organizations with nondeductible lobbying expenditures; (21) the annual limitation on large gifts received from foreign persons for purpose of triggering reporting requirement; (22) the maximum price of personal property purchased in a casual sale such that a federal tax lien is not valid against the purchaser and the maximum contract price for repair or improvement of residential property by a mechanic's lienor such that a federal tax lien is not valid against the mechanic's lienor; (23) the dollar amount used to determine the “2-percent portion” of the estate tax payable in installments; (24) the hourly limit on attorney fee awards in administrative or judicial proceedings under the Code; and (25) the limitation regarding periodic payments received under qualified long-term care insurance contracts or certain life insurance contracts.
 
 Revenue Procedure 97–57 provided the following inflation adjusted items for tax years beginning in 1998 (1) the tax rate tables for individuals and for estates and trusts; (2) the amounts allowed against unearned income in computing the “kiddie tax,” which taxes a minor child's net unearned income at the marginal rate that applies to the income of the child's parent; (3) the earned income tax credit and the phaseout of the earned income tax credit; (4) the basic standard deduction amounts for different filing statuses, the limitation on the standard deduction in the case of an individual who may be claimed as a dependent by another taxpayer, and the additional standard deduction amounts for the aged and the blind; (5) the overall limitation on itemized deductions; (6) the monthly limitation regarding the aggregate fringe benefit exclusion amount for commuter transportation; (7) the limitations on the exclusion of income from the redemption of United States savings bonds for taxpayers who pay qualified higher education expenses; (8) the personal exemption and the phaseout of the tax benefit of personal exemptions; (9) the limitations regarding eligible long-term care premiums includible as “medical care”; (10) the limitation regarding the exemption of annual dues required to be paid by a member to an agricultural or horticultural organization; (11) the insubstantial benefit limitations for contributions associated with charitable fund-raising campaigns; (12) the amounts of net tax and net worth used to determine if a loss resulting from expatriation was incurred for tax avoidance; (13) the luxury automobile excise tax threshold amount; (14) the reporting exception amount for certain exempt organizations with nondeductible lobbying expenditures; (15) the annual limitation on large gifts received from foreign persons for purpose of triggering reporting requirement; (16) the limitation on the value of property exempt from levy; (17) the hourly limit on attorney fee awards in administrative or judicial proceedings under the Code; and (18) the limitation regarding periodic payments received under qualified long-term care insurance contracts or certain life insurance contracts.
 
@@ -646,7 +636,7 @@ Revenue Procedure 94–72 provided the following inflation adjusted items for ta
 
 Revenue Procedure 93–49 provided the following inflation adjusted items for tax years beginning in 1994 (1) the tax rate tables for individuals and for estates and trusts; (2) the amounts allowed against unearned income in computing the “kiddie tax,” which taxes a minor child's net unearned income at the marginal rate that applies to the income of the child's parent; (3) the basic standard deduction amounts for different filing statuses, the limitation on the standard deduction in the case of certain dependents, and the additional standard deduction amounts for the aged and for the blind; (4) the overall limitation on itemized deductions; (5) the limitation on exclusion for employer-provided qualified transportation fringe; (6) the limitations on the exclusion of income from the redemption of United States savings bonds for taxpayers who pay qualified higher education expenses; (7) the personal exemption and the phaseout of the tax benefit of personal exemptions; (8) the insubstantial benefit limitations for contributions associated with charitable fund-raising campaigns; and (9) the luxury automobile excise tax threshold amount.
 
-Revenue Procedure 92–102 provided the following inflation adjusted items for tax years beginning in 1993 (1) the tax rate tables for individuals and for estates and trusts; (2) the basic standard deduction amounts for different filing statuses, the limitation on the standard deduction in the case of certain dependents, and the additional standard deduction amounts for the aged and for the blind; (3) the personal exemption and the phaseout of the tax benefit of personal exemptions; (4) the earned income credit; (5) the amounts allowed against unearned income in computing the “kiddie tax,” which taxes a minor child's net unearned income at the marginal rate that applies to the income of the child's parent; (6) the limitations on the exclusion of income from the redemption of United States savings bonds for taxpayers who pay qualified higher education expenses; (7) the overall limitation on itemized deductions; and (8) the insubstantial benefit limitations for contributions associated with charitable fund-raising campaigns.
+Revenue Procedure 92–102 provided the following inflation adjusted items for tax years beginning in 1993 (1) the tax rate tables for individuals and forestates and trusts; (2) the basic standard deduction amounts for different filing statuses, the limitation on the standard deduction in the case of certain dependents, and the additional standard deduction amounts for the aged and for the blind; (3) the personal exemption and the phaseout of the tax benefit of personal exemptions; (4) the earned income credit; (5) the amounts allowed against unearned income in computing the “kiddie tax,” which taxes a minor child's net unearned income at the marginal rate that applies to the income of the child's parent; (6) the limitations on the exclusion of income from the redemption of United States savings bonds for taxpayers who pay qualified higher education expenses; (7) the overall limitation on itemized deductions; and (8) the insubstantial benefit limitations for contributions associated with charitable fund-raising campaigns.
 
 Revenue Procedure 91–65 provided the following inflation adjusted items for tax years beginning in 1992 (1) the tax rate tables for individuals and for estates and trusts; (2) the basic standard deduction amounts for different filing statuses, the limitation on the standard deduction in the case of certain dependents, and the additional standard deduction amounts for the aged and for the blind; (3) the personal exemption and the phaseout of the tax benefit of personal exemptions; (4) the earned income credit; (5) the amounts allowed against unearned income in computing the “kiddie tax,” which taxes a minor child's net unearned income at the marginal rate that applies to the income of the child's parent; (6) the limitations on the exclusion of income from the redemption of United States savings bonds for taxpayers who pay qualified higher education expenses; and (7) the overall limitation on itemized deductions.
 
@@ -920,7 +910,7 @@ Subsec. (e). Pub. L. 95–30 added subsec. (e) consisting of table formerly cont
 
 Subsec. (b). Pub. L. 91–172 generally revised rates of tax of heads of household downwards and struck out provisions defining head of household, determination of status, and limitations. For definition of head of household, determination of status, and limitations, see section 2(b) of this title.
 
-Subsec. (c). Pub. L. 91–172 substituted rates of tax on unmarried individuals (other than surviving spousesand heads of household) for special rules explaining the rates of tax imposed under former subsecs. (a) and (b)(1) and prescribing a maximum limit of 87 percent of the taxable year.
+Subsec. (c). Pub. L. 91–172 substituted rates of tax on unmarried individuals (other than surviving spouses and heads of household) for special rules explaining the rates of tax imposed under former subsecs. (a) and (b)(1) and prescribing a maximum limit of 87 percent of the taxable year.
 
 Subsec. (d). Pub. L. 91–172 substituted a table of rates of tax for married individuals filing separate returns for provision prescribing the applicability of the rates to non-resident aliens. For applicability of rates of tax to non-resident aliens, see section 2(d) of this title.
 
@@ -1006,7 +996,7 @@ Section 151 of title I of Pub. L. 99–514 provided that:
 
 “(a)
 
-General Rule.—Except as otherwise provided in this section, the amendments made by this title \[enacting section 67 of this title, amending this section, sections 3, 5, 15, 21, 32, 62, 63, 74, 85, 86, 102, 108, 117, 129, 151, 152, 164, 170, 172, 183, 213, 265, 274, 280A, 402, 441, 443, 527, 541, 613A, 642, 667, 861, 862, 901, 904, 1398, 1441, 2032A, 3121, 3231, 3306, 3401, 3402, 3507, 4941, 4945, 6012 to 6014, 6212, 6504, 6511, and 7871 of this title, and section 409 of Title 42, The Public Health and Welfare, renumbering section 223 of this title as section 220 of this title, repealing sections 24, 221, 222, and 1301 to 1305 of this title, and enacting provisions set out as a note under section 32 of this title\] shall apply to taxable years beginning after December 31, 1986.
+General Rule.—Except as otherwise provided in this section, the amendments made by this title \[enacting section 67 of this title, amending this section, sections 3, 5, 15, 21, 32, 62, 63, 74, 85, 86, 102, 108, 117, 129, 151, 152, 164, 170, 172, 183, 213, 265, 274, 280A, 402, 441, 443, 527, 541, 613A, 642, 667, 861, 862, 901, 904, 1398, 1441, 2032A, 3121,3231, 3306, 3401, 3402, 3507, 4941, 4945, 6012 to 6014, 6212, 6504, 6511, and 7871 of this title, and section 409 of Title 42, The Public Health and Welfare, renumbering section 223 of this title as section 220 of this title, repealing sections 24, 221, 222, and 1301 to 1305 of this title, and enacting provisions set out as a note under section 32 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
 “(b)
 
@@ -1018,7 +1008,7 @@ Prizes and Awards.—The amendments made by section 122 \[amending sections 74, 
 
 “(d)
 
-Scholarships.—The amendments made by section 123 \[amending sections 74, 117, 1441, and 7871 of thistitle\] shall apply to taxable years beginning after December 31, 1986, but only in the case of scholarships and fellowships granted after August 16, 1986.
+Scholarships.—The amendments made by section 123 \[amending sections 74, 117, 1441, and 7871 of this title\] shall apply to taxable years beginning after December 31, 1986, but only in the case of scholarships and fellowships granted after August 16, 1986.
 
 “(e)
 
@@ -1066,6 +1056,10 @@ Section 103(n) of Pub. L. 89–809 provided that:
 
 Section 131 of Pub. L. 88–272, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except for purposes of section 21 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title \[amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title\] shall apply with respect to taxable years beginning after December 31, 1963.”
 
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–170, title V, §500, Dec. 17, 1999, 113 Stat. 1918, provided that: “This title \[see Tables for classification\] may be cited as the ‘Tax Relief Extension Act of 1999’.”
+
 #### Short Title of 1998 Amendments
 
 Pub. L. 105–277, div. J, §1000(a), Oct. 21, 1998, 112 Stat. 2681–886, provided that: “This division \[§§1000–5301, see Tables for classification\] may be cited as the ‘Tax and Trade Relief Extension Act of 1998’.”
@@ -1086,7 +1080,7 @@ Pub. L. 105–35, §1, Aug. 5, 1997, 111 Stat. 1104, provided that: “This Act 
 
 Section 1(a) of Pub. L. 105–34 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Taxpayer Relief Act of 1997’.”
 
-Pub. L. 105–2, §1(a), Feb. 28, 1997, 111 Stat. 4, provided that: “This Act \[amending sections 4041, 4081, 4091, 4261,4271, and 9502 of this title and enacting provisions set out as notes under sections 4041, 4081, and 4261 of this title\] may be cited as the ‘Airport and Airway Trust Fund Tax Reinstatement Act of 1997’.”
+Pub. L. 105–2, §1(a), Feb. 28, 1997, 111 Stat. 4, provided that: “This Act \[amending sections 4041, 4081, 4091, 4261, 4271, and 9502 of this title and enacting provisions set out as notes under sections 4041, 4081, and 4261 of this title\] may be cited as the ‘Airport and Airway Trust Fund Tax Reinstatement Act of 1997’.”
 
 #### Short Title of 1996 Amendments
 
@@ -1140,7 +1134,7 @@ Section 6226 of Pub. L. 100–647 provided that: “This subtitle \[subtitle J (
 
 Pub. L. 100–223, title IV, §401, Dec. 30, 1987, 101 Stat. 1532, provided that: “This title \[enacting section 4283 of this title, amending sections 4041, 4261, 4271, 6427, and 9502 of this title, and enacting provisions set out as notes under sections 4041 and 4261 of this title\] may be cited as the ‘Airport and Airway Revenue Act of 1987’.”
 
-Pub. L. 100–203, title IX, §9302(a), Dec. 22, 1987, 101 Stat. 1330–333, provided that: “This part \[part II\(§§9302–9346) of subtitle D of part II of Pub. L. 100–203, enacting sections 1085b and 1371 of Title 29, Labor, amending sections 401, 404, 411, 412, 414, and 4971 of this title and sections 1021, 1023, 1024, 1054, 1082 to 1084, 1085a, 1086, 1103, 1107, 1113, 1132, 1201, 1301, 1305 to 1307, 1322, 1341, 1342, 1344, 1349, 1362, 1364, 1367, and 1368 of Title 29, repealing section 1349 of Title 29, and enacting provisions set out as notes under sections 401, 404, 412, and 4971 of this title and sections 1054, 1107, 1132, 1301, 1305, 1322, and 1344 of Title 29\] may be cited as the ‘Pension Protection Act’.”
+Pub. L. 100–203, title IX, §9302(a), Dec. 22, 1987, 101 Stat. 1330–333, provided that: “This part \[part II (§§9302–9346) of subtitle D of part II of Pub. L. 100–203, enacting sections 1085b and 1371 of Title 29, Labor, amending sections 401, 404, 411, 412, 414, and 4971 of this title and sections 1021, 1023, 1024, 1054, 1082 to 1084, 1085a, 1086, 1103, 1107, 1113, 1132, 1201, 1301, 1305 to 1307, 1322, 1341, 1342, 1344, 1349, 1362, 1364, 1367, and 1368 of Title 29, repealing section 1349 of Title 29, and enacting provisions set out as notes under sections 401, 404, 412, and 4971 of this title and sections 1054, 1107, 1132, 1301, 1305, 1322, and 1344 of Title 29\] may be cited as the ‘Pension Protection Act’.”
 
 Pub. L. 100–203, title X, §10000(a), Dec. 22, 1987, 101 Stat. 1330–382, provided that: “This title \[see Tables for classification\] may be cited as the ‘Revenue Act of 1987’.”
 
@@ -1184,7 +1178,7 @@ Section 401 of title IV of Pub. L. 97–248 provided that: “This title \[enact
 
 #### Short Title of 1981 Amendments
 
-Pub. L. 97–119, title I, §101(a), Dec. 29, 1981, 95 Stat. 1635, provided that: “This subtitle \[subtitle A (§§101–104) of title I of Pub. L. 97–119, enacting sections 9500, 9501, 9601, and 9602 of this title, amending sections 501 and 4121 of this title and sections 902, 925, 932, and 934 of Title 30, Mineral Lands and Mining, repealing section 934a of Title 30, and enacting provisions set out as notes under sections 4121 and 9501 of this title and section 934 of Title 30\] may be cited as the ‘Black Lung Benefits Revenue Act of 1981’.”
+Pub. L. 97–119, title I, §101(a), Dec. 29, 1981, 95 Stat. 1635, provided that: “This subtitle \[subtitle A\(§§101–104) of title I of Pub. L. 97–119, enacting sections 9500, 9501, 9601, and 9602 of this title, amending sections 501 and 4121 of this title and sections 902, 925, 932, and 934 of Title 30, Mineral Lands and Mining, repealing section 934a of Title 30, and enacting provisions set out as notes under sections 4121 and 9501 of this title and section 934 of Title 30\] may be cited as the ‘Black Lung Benefits Revenue Act of 1981’.”
 
 Section 1(a) of Pub. L. 97–34 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Economic Recovery Tax Act of 1981’.”
 
@@ -1232,7 +1226,7 @@ Pub. L. 95–227, §1, Feb. 10, 1978, 92 Stat. 11, provided that: “This Act \[
 
 Section 1(a) of Pub. L. 95–30 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Tax Reduction and Simplification Act of 1977’.”
 
-Pub. L. 95–19, §1, Apr. 12, 1977, 91 Stat. 39, provided that: “This Act \[amending section 3304 of this title, enacting provisions set out as notes under sections 3302, 3304, and 3309 of this title, and amending provisions set out as notes under sections 3302, 3304, and 3309 of this title and sections 359 and 360 of Title 2, The Congress\] may be cited as the ‘Emergency Unemployment Compensation Extension Act of 1977’.”
+Pub. L. 95–19, §1, Apr. 12, 1977, 91 Stat. 39, provided that: “This Act \[amending section 3304 of this title, enacting provisions set out as notes under sections 3302, 3304, and 3309 of this title, and amending provisions set out as notes under sections 3302, 3304, and 3309 of this title and sections 359 and 360 of Title 2, The Congress\]may be cited as the ‘Emergency Unemployment Compensation Extension Act of 1977’.”
 
 #### Short Title of 1976 Amendments
 
@@ -1308,7 +1302,7 @@ Pub. L. 87–834, §1(a), Oct. 16, 1962, 76 Stat. 960, provided that: “This Ac
 
 For short title of Pub. L. 87–792 as the “Self-Employed Individuals Tax Retirement Act of 1962”, see section 1 of Pub. L. 87–792, set out as a note under section 401 of this title.
 
-Pub. L. 87–508, §1, June 28, 1962, 76 Stat. 114, provided: “That this Act \[amending sections 11, 821, 4061, 4251 to 4253, 4261 to 4264, 5001, 5002, 5041, 5051, 5063, 5701, 6707, 6412, 6416, and 6421 of this title, enacting provisions set out as notes under section 4261, 6416, and 6421 of this title, and amending provisions set out as a note under section 5701 of this title\] may be cited as the ‘Tax Rate Extension Act of 1962’.”
+Pub. L. 87–508, §1, June 28, 1962, 76 Stat. 114, provided: “That this Act \[amending sections 11, 821, 4061, 4251 to 4253, 4261 to 4264, 5001, 5002, 5041, 5051, 5063, 5701, 6707, 6412, 6416, and 6421 of this title, enacting provisions set out as notes under section 4261, 6416, and 6421 of this title, and amending provisions set out as a note undersection 5701 of this title\] may be cited as the ‘Tax Rate Extension Act of 1962’.”
 
 #### Short Title of 1961 Amendment
 
@@ -1318,7 +1312,7 @@ Pub. L. 87–72, §1, June 30, 1961, 75 Stat. 193, provided: “That this Act \[
 
 Pub. L. 86–75, §1, June 30, 1959, 73 Stat. 157, provided: “That this Act \[amending sections 11, 821, 4061, 4251, 4261, 5001, 5022, 5041, 5051, 5063, 5701, 5707 and 6412 of this title and provisions set out as a note under section 5701 of this title\] may be cited as the ‘Tax Rate Extension Act of 1959’.”
 
-Section 1 of Pub. L. 86–69 provided that: “This Act \[amending former part I of subchapter L of this chapter and sections 116, 381, 841, 842, 891, 1016, 1201, 1232, 1504, 4371, and 6501 of this title and enacting provisions setout as notes under sections 801, 6072, and 6655 of this title\] may be cited as the ‘Life Insurance Company Income Tax Act of 1959’.”
+Section 1 of Pub. L. 86–69 provided that: “This Act \[amending former part I of subchapter L of this chapter and sections 116, 381, 841, 842, 891, 1016, 1201, 1232, 1504, 4371, and 6501 of this title and enacting provisions set out as notes under sections 801, 6072, and 6655 of this title\] may be cited as the ‘Life Insurance Company Income Tax Act of 1959’.”
 
 #### Short Title of 1958 Amendments
 
@@ -1388,7 +1382,7 @@ Pub. L. 105–277, div. J, title IV, §4002(i)(2), Oct. 21, 1998, 112 Stat. 2681
 
 “(iii) A regulated investment company meets the holding requirement of this clause with respect to a qualified partnership if (as of January 1, 1998)—
 
-&emsp;“(I) the value of the interests of the regulated investment company in such partnership is 35 percent or more of the value of such company's total assets, or
+&emsp;“(I) the value of the interests of the regulated investment company in such partnership is 35 percentor more of the value of such company's total assets, or
 
 &emsp;“(II) the value of the interests of the regulated investment company in such partnership and all other qualified partnerships is 90 percent or more of the value of such company's total assets.”
 
@@ -1398,7 +1392,7 @@ Pub. L. 105–277, div. J, title IV, §4003(b), Oct. 21, 1998, 112 Stat. 2681–
 
 #### Coordination of Title XVI of Pub. L. 105–34 With Other Titles of Pub. L. 105–34
 
-Section 1600 of title XVI of Pub. L. 105–34 provided that: “For purposes of applying the amendments made by any title of this Act other than this title, the provisions of this title \[see Tables for classification\] shall betreated as having been enacted immediately before the provisions of such other titles.”
+Section 1600 of title XVI of Pub. L. 105–34 provided that: “For purposes of applying the amendments made by any title of this Act other than this title, the provisions of this title \[see Tables for classification\] shall be treated as having been enacted immediately before the provisions of such other titles.”
 
 #### Election To Recognize Gain on Assets Held on January 1, 2001
 
@@ -1566,7 +1560,7 @@ Pub. L. 94–164, §1A, Dec. 23, 1975, 89 Stat. 970, provided that:
 
 #### Congressional Declaration Relating to 1964 Amendment
 
-Pub. L. 88–272, §1, Feb. 26, 1964, 78 Stat. 19, provided that: “It is the sense of Congress that the tax reduction provided by this Act \[see Short Title of 1964 Amendment note above\] through stimulation of the economy, will, after a brief transitional period, raise (rather than lower) revenues and that such revenue increases should first be used to eliminate the deficits in the administrative budgets and then to reduce the public debt. To further the objective of obtaining balanced budgets in the near future, Congress by this action, recognizes the importance of taking all reasonable means to restrain Government spending and urges the President to declare his accord with this objective.”
+Pub. L. 88–272, §1, Feb. 26, 1964, 78 Stat. 19, provided that: “It is the sense of Congress that the tax reduction provided by this Act \[see Short Title of 1964 Amendment note above\] through stimulation of the economy, will, after a brief transitional period, raise (rather than lower) revenues and that such revenue increases should first be used to eliminate the deficits in the administrative budgets and then to reduce the public debt. To further the objective of obtaining balanced budgets inthe near future, Congress by this action, recognizes the importance of taking all reasonable means to restrain Government spending and urges the President to declare his accord with this objective.”
 
 #### Definitions
 
@@ -1614,5 +1608,5 @@ Treaty obligations observed, see section 7852 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2, 3, 15, 25A, 32, 41, 42, 55, 59, 63, 68, 132, 135, 162, 213, 220, 221, 402, 453A, 460, 468B, 511, 512, 513, 641, 685, 691, 774, 871, 876, 877, 891, 904, 911, 936, 962, 1291, 1301, 1398, 1446, 2032A, 2503, 2631, 3402, 4001, 4261, 6014, 6015, 6039F, 6103, 6242, 6323, 6334, 6601, 6652, 6655, 6867, 7430, 7518, 7519 of this title; title 7 section 940d; title 42 section 629; title 46 App. section 1177.
+This section is referred to in sections 2, 3, 15, 25A, 32, 41, 42, 55, 59, 63, 68, 132, 135, 162, 213, 220, 221, 453A, 460, 468B, 511, 512, 513, 641, 685, 691, 774, 871, 876, 877, 891, 904, 911, 936, 962, 1260, 1291, 1301, 1398, 1446, 2032A, 2503, 2631, 3402, 4001, 4261, 6014, 6015, 6039F, 6103, 6242, 6323, 6334, 6601, 6652, 6655, 6867, 7430, 7518, 7519 of this title; title 7 section 940d; title 42 section 629; title 46 App. section 1177.
 

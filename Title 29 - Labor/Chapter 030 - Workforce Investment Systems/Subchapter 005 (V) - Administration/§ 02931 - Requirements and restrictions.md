@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Individuals in on-the-job training or individuals employed in activities under thischapter shall be compensated at the same rates, including periodic increases, as trainees or employees who are similarly situated in similar occupations by the same employer and who have similar training, experience, and skills, and such rates shall be in accordance with applicable law, but in no event less than the higher of the rate specified in section 206(a)(1) of this title or the applicable State or local minimum wage law.
+&emsp;&emsp;Individuals in on-the-job training or individuals employed in activities under this chapter shall be compensated at the same rates, including periodic increases, as trainees or employees who are similarly situated in similar occupations by the same employer and who have similar training, experience, and skills, and such rates shall be in accordance with applicable law, but in no event less than the higher of the rate specified in section 206(a)(1) of this title or the applicable State or local minimum wage law.
 
 #### (B) Rule of construction
 
@@ -80,7 +80,7 @@
 
 #### (B) Additional requirement
 
-&emsp;&emsp;The Secretary shall make a final determination relating to an appeal made undersubparagraph (A) no later than 120 days after receiving such appeal.
+&emsp;&emsp;The Secretary shall make a final determination relating to an appeal made under subparagraph (A) no later than 120 days after receiving such appeal.
 
 #### (3) Remedies
 

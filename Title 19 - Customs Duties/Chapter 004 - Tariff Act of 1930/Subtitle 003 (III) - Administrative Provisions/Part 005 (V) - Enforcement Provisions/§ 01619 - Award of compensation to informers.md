@@ -66,7 +66,7 @@ Section 2 of the act of June 22, 1874, ch. 391, repealed all provisions under wh
 
 Section 26 of that Act repealed inconsistent laws and saved existing rights. It was omitted from the Code as temporary and executed.
 
-R.S. §2948, providing that additional duties were not to be deemed fines, etc., for distribution to customs officers, became inoperative by the repeal of all provisions for payment of moieties of fines, etc., to informers or officers, by the act of June 2, 1874, ch. 391, §2, andwas repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+R.S. §2948, providing that additional duties were not to be deemed fines, etc., for distribution to customs officers, became inoperative by the repeal of all provisions for payment of moieties of fines, etc., to informers or officers, by the act of June 2, 1874, ch. 391, §2, and was repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 An appropriation for compensation in lieu of moieties was made by act Mar. 2, 1926, ch. 43, §1, 44 Stat. 141. Similar appropriations were contained in prior acts.
 

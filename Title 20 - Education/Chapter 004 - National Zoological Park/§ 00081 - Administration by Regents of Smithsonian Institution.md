@@ -10,7 +10,7 @@ The National Zoological Park is placed under the direction of the Regents of the
 
 #### Establishment of Parks
 
-The National Zoological Park was established under provisions of the District of Columbia AppropriationAct for the Fiscal Year 1890, act Mar. 2, 1889, ch. 370, §4, 25 Stat. 808, which constituted a commission to select from a certain district along Rock Creek a tract of land, including a section of the creek, suitable for a zoological park, and to purchase the land so selected, or take proceedings for the condemnation thereof, the United States to have title to the land on payment therefor to the owners.
+The National Zoological Park was established under provisions of the District of Columbia Appropriation Act for the Fiscal Year 1890, act Mar. 2, 1889, ch. 370, §4, 25 Stat. 808, which constituted a commission to select from a certain district along Rock Creek a tract of land, including a section of the creek, suitable for a zoological park, and to purchase the land so selected, or take proceedings for the condemnation thereof, the United States to have title to the land on payment therefor to the owners.
 
 The Rock Creek Park was established by act Sept. 27, 1890, ch. 1001, 26 Stat. 492.
 

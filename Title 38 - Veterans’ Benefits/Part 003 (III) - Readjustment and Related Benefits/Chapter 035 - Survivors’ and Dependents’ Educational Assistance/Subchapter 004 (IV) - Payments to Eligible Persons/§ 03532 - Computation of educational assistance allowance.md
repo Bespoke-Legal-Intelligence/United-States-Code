@@ -2,7 +2,7 @@
 
 (a)(1) The educational assistance allowance on behalf of an eligible person who is pursuing a program of education consisting of institutional courses shall be paid at the monthly rate of $485 for full-time, $365 for three-quarter-time, or $242 for half-time pursuit.
 
-(2) The educational assistance allowance on behalf of an eligible person pursuing a program of education on less than a half-time basis shall be paid at the rate of (A) the established charges for tuition and fees that the educational institution involved requires similarly circumstanced nonveterans enrolled in the same program to pay, or (B) $485 per month for a full-time course, whichever is the lesser.
+(2) The educational assistance allowance on behalf of an eligible person pursuing a program of education on less than a half-time basis shall be paid at the rate of (A) the established chargesfor tuition and fees that the educational institution involved requires similarly circumstanced nonveterans enrolled in the same program to pay, or (B) $485 per month for a full-time course, whichever is the lesser.
 
 (b) The educational assistance allowance to be paid on behalf of an eligible person who is pursuing a full-time program of education which consists of institutional courses and alternate phases of training in a business or industrial establishment with the training in the business or industrial establishment being strictly supplemental to the institutional portion, shall be computed at the rate of $485 per month.
 

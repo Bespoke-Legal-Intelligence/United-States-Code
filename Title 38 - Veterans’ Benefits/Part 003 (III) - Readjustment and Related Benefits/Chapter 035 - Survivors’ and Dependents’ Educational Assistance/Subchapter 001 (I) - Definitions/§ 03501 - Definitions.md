@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) the surviving spouse of any person who died of a service-connected disability,
 
-&emsp;&emsp;(C) the spouse of any member of the Armed Forces serving on active duty who, at the time of application for benefits under this chapter is listed, pursuant to section 556 of title 37 and regulations issued thereunder, by the Secretary concerned in one or more of the following categories and has been so listed for a total of more than ninety days: (i) missing in action, (ii) captured in line of duty by a hostile force, or (iii) forcibly detained or interned in line of duty by a foreign government or power, or
+&emsp;&emsp;(C) the spouse of any member of the Armed Forces serving on active duty who, at the time of application for benefits under this chapter is listed, pursuant to section 556 of title 37 and regulations issued thereunder,by the Secretary concerned in one or more of the following categories and has been so listed for a total of more than ninety days: (i) missing in action, (ii) captured in line of duty by a hostile force, or (iii) forcibly detained or interned in line of duty by a foreign government or power, or
 
 &emsp;&emsp;(D) the spouse of any person who has a total disability permanent in nature resulting from a service-connected disability, or the surviving spouse of a veteran who died while a disability so evaluated was in existence,
 
@@ -120,7 +120,7 @@ Subsec. (d). Pub. L. 89–358, §4(j)(3), struck out “and prior to the end of 
 
 Pub. L. 89–222 substituted “such service” the second time it appears for “service during the Spanish-American War, World War I, World War II, or the Korean conflict” and struck out provisions which prescribed the applicable standards and criteria for determining whether or not a disability arising out of service during the induction period is service-connected.
 
-Subsec. (a)(9). Pub. L. 89–349, §1(c), struck out provisions which included the period beginning Sept. 16, 1940, and ending Dec. 6, 1941, and the period beginning Jan. 1, 1947, and ending June 26, 1950, within the term “induction period”.
+Subsec. (a)(9). Pub. L. 89–349, §1(c), struck out provisions which included the period beginning Sept. 16, 1940,and ending Dec. 6, 1941, and the period beginning Jan. 1, 1947, and ending June 26, 1950, within the term “induction period”.
 
 Subsec. (d). Pub. L. 89–349, §1(d), substituted “after the beginning of the Spanish-American War and prior to the end of the induction period” for “during the Spanish-American War, World War I, World War II, the Korean conflict, or the induction period”.
 

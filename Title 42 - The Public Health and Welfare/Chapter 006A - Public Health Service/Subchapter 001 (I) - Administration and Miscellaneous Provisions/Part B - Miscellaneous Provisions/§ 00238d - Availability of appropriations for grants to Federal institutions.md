@@ -20,7 +20,7 @@ Section was formerly classified to section 300aaa–4 of this title prior to ren
 
 1976—Pub. L. 94–278 substituted “Federal institutions, except that grants to” for “hospitals of the Service, of the Veterans’ Administration, or of the Bureau of Prisons of the Department of Justice, and to Saint Elizabeths Hospital, except grants to such”.
 
-1970—Pub. L. 91–513 inserted references to appropriations available for grants to expand existing treatmentand research programs and facilities for alcoholism, narcotic addiction, drug abuse, and drug dependence, and appropriations available under Community Mental Health Centers Act for construction and staffing of community mental health centers and alcoholism and narcotic addiction, drug abuse, and drug dependence facilities, and inserted provision that grants to specified Federal institutions may be funded at 100 per centum of the costs.
+1970—Pub. L. 91–513 inserted references to appropriations available for grants to expand existing treatment and research programs and facilities for alcoholism, narcotic addiction, drug abuse, and drug dependence, and appropriations available under Community Mental Health Centers Act for construction and staffing of community mental health centers and alcoholism and narcotic addiction, drug abuse, and drug dependence facilities, and inserted provision that grants to specified Federal institutions may be funded at 100 per centum of the costs.
 
 #### Effective Date of 1981 Amendment
 

@@ -20,7 +20,7 @@ Agreements entered into pursuant to this section shall contain such provisions a
 
 &emsp;(1) no information is disclosed by the Secretary or the guaranty agency, eligible lender, or subsequent holder unless its accuracy and completeness have been verified and the Secretary or the guaranty agency has determined that disclosure would accomplish the purpose of this section;
 
-&emsp;(2) as to any information so disclosed, such organizations will be promptly notified of, and will promptly record, any change submitted by the Secretary, the guaranty agency, eligible lender, or subsequent holder with respect to such information, or any objections by the borrower with respect to any such information, as required by section 611 of the Fair Credit Reporting Act (15 U.S.C. 1681i);
+&emsp;(2) as to any information so disclosed, such organizations will be promptly notified of, and will promptly record, any change submittedby the Secretary, the guaranty agency, eligible lender, or subsequent holder with respect to such information, or any objections by the borrower with respect to any such information, as required by section 611 of the Fair Credit Reporting Act (15 U.S.C. 1681i);
 
 &emsp;(3) no use will be made of any such information which would result in the use of collection practices with respect to such a borrower that are not fair and reasonable or that involve harassment, intimidation, false or misleading representations, or unnecessary communication concerning the existence of such loan or concerning any such information; and
 
@@ -28,7 +28,7 @@ Agreements entered into pursuant to this section shall contain such provisions a
 
 #### (d) Contractor status of participants
 
-A guaranty agency, eligible lender, or subsequent holder or credit bureau organizationwhich discloses or receives information under this section shall not be considered a Government contractor within the meaning of section 552a of title 5.
+A guaranty agency, eligible lender, or subsequent holder or credit bureau organization which discloses or receives information under this section shall not be considered a Government contractor within the meaning of section 552a of title 5.
 
 #### (e) Disclosure to institutions
 

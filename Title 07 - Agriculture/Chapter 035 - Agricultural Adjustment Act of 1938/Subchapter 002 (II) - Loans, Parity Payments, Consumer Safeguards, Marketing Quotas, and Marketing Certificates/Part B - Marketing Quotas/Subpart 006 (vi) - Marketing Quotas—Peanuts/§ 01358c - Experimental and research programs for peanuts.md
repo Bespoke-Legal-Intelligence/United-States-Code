@@ -6,7 +6,7 @@ Notwithstanding any other provision of this chapter, the Secretary may permit a 
 
 #### (b) Quantity
 
-The quantity of the quota allocated to an institution under this section shall not exceed the quantity of the quota held by each such institution during the 1985 crop year, except that the total quantity allocated to all institutions in a State shall not exceed 1/10 of 1 percent of the State's basic quota.
+The quantity of the quota allocated to an institution under this section shall not exceed thequantity of the quota held by each such institution during the 1985 crop year, except that the total quantity allocated to all institutions in a State shall not exceed 1/10 of 1 percent of the State's basic quota.
 
 #### (c) Limitation
 

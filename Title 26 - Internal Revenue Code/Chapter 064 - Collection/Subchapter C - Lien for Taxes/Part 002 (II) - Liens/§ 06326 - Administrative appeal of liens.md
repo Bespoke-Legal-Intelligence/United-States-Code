@@ -20,5 +20,5 @@ Section 6238(d) of Pub. L. 100–647 provided that: “The amendments made by th
 
 #### Regulations
 
-Section 6238(b) of Pub. L. 100–647 required Secretary of the Treasury or Secretary's delegate to prescriberegulations necessary to implement administrative appeal provided for in amendment made by subsection (a) \[enacting this section\] within 180 days after Nov. 10, 1988.
+Section 6238(b) of Pub. L. 100–647 required Secretary of the Treasury or Secretary's delegate to prescribe regulations necessary to implement administrative appeal provided for in amendment made by subsection (a) \[enacting this section\] within 180 days after Nov. 10, 1988.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Any registrant, commercial applicator, wholesaler, dealer, retailer, or other distributor who violates any provision of this subchapter may be assessed a civil penalty by theAdministrator of not more than $5,000 for each offense.
+&emsp;Any registrant, commercial applicator, wholesaler, dealer, retailer, or other distributor who violates any provision of this subchapter may be assessed a civil penalty by the Administrator of not more than $5,000 for each offense.
 
 #### (2) Private applicator
 

@@ -80,7 +80,7 @@ The Life Insurance Tax Act of 1984, referred to in subsec. (g), probably means t
 
 #### Prior Provisions
 
-A prior section 810, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 125; amended Pub. L. 91–172, title I, §121(b)(5)(B), title IX, §907(a)(2), Dec. 30, 1969, 83 Stat. 541, 715, related to rules for certain reserves, prior to the general revision of this part by Pub. L. 98–369, §211(a).
+A prior section 810, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 125; amended Pub. L. 91–172, title I,§121(b)(5)(B), title IX, §907(a)(2), Dec. 30, 1969, 83 Stat. 541, 715, related to rules for certain reserves, prior to the general revision of this part by Pub. L. 98–369, §211(a).
 
 #### Effective Date
 

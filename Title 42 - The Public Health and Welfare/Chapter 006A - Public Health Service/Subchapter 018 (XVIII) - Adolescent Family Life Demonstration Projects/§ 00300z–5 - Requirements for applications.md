@@ -58,7 +58,7 @@ An application for a grant for a demonstration project for services under this s
 
 &emsp;(19) assurances that fees collected by the applicant for services rendered in accordance with this subchapter shall be used by the applicant to further the purposes of this subchapter;
 
-&emsp;(20) assurances that the applicant, if providing both prevention and care services will notexclude or discriminate against any adolescent who receives prevention services and subsequently requires care services as a pregnant adolescent;
+&emsp;(20) assurances that the applicant, if providing both prevention and care services will not exclude or discriminate against any adolescent who receives prevention services and subsequently requires care services as a pregnant adolescent;
 
 &emsp;(21) a description of how the applicant will, as appropriate in the provision of services—
 

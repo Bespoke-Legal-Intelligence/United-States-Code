@@ -54,7 +54,7 @@ Subsec. (a)(2)(A), (C). Pub. L. 102–83, §5(c)(1), substituted “3674A(a)(4)�
 
 Subsec. (a)(2)(A). Pub. L. 101–237, §414(1), substituted “section, for expenses approved by the Secretary that are incurred in carrying out activities described in section 1774A(a)(4) of this title (except for administrative overhead expenses allocated to such activities), and for” for “section and for”.
 
-Subsec. (a)(2)(C). Pub. L. 101–237, §414(2), inserted before period at end “and the amount of expenses approved by the Secretary that are incurred in carrying out activities described in section 1774A(a)(4) of this title for such period (except for administrative overhead expenses allocated to such activities)”.
+Subsec. (a)(2)(C). Pub. L. 101–237, §414(2), inserted before period at end “and the amount of expenses approved by the Secretary that are incurred in carrying out activities described in section 1774A(a)(4) of thistitle for such period (except for administrative overhead expenses allocated to such activities)”.
 
 Subsec. (c). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 

@@ -6,7 +6,7 @@ The Secretary of the Interior may promulgate regulations providing for—
 
 &emsp;(2) the ultimate disposition of such resources and other resources removed pursuant to the Act of June 27, 1960 (16 U.S.C. 469–469c) \[16 U.S.C. 469–469c–1\] or the Act of June 8, 1906 (16 U.S.C. 431–433).
 
-> Any exchange or ultimate disposition under such regulation of archaeological resources excavated or removed from Indian lands shall be subject to the consent of the Indian or Indian tribe which owns or has jurisdiction over suchlands. Following promulgation of regulations under this section, notwithstanding any other provision of law, such regulations shall govern the disposition of archaeological resources removed from public lands and Indian lands pursuant to this chapter.
+> Any exchange or ultimate disposition under such regulation of archaeological resources excavated or removed from Indian lands shall be subject to the consent of the Indian or Indian tribe which owns or has jurisdiction over such lands. Following promulgation of regulations under this section, notwithstanding any other provision of law, such regulations shall govern the disposition of archaeological resources removed from public lands and Indian lands pursuant to this chapter.
 
 (Pub. L. 96–95, §5, Oct. 31, 1979, 93 Stat. 724.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Program
 
-The Secretary shall establish a national park passport program. A national park passportshall include a collectible stamp providing the holder admission to all units of the National Park System.
+The Secretary shall establish a national park passport program. A national park passport shall include a collectible stamp providing the holder admission to all units of the National Park System.
 
 #### (b) Effective period
 

@@ -120,7 +120,7 @@ The applicable Secretary shall not take any compliance, disallowance, penalty, o
 
 #### (g) Reimbursement for costs of implementation
 
-The applicable Secretary is authorized to pay to each public housing agency or other entity an amount equal to 100 percent of the costs incurred by the public housing agency or other entity in implementing and operating an immigration status verification system under subsection (d) of this section (or under any alternative system for verifying immigration status with the Immigration and Naturalization Service authorized in the Immigration Reform and Control Act of 1986 (Public Law 99–603)).
+The applicable Secretary is authorized to pay to each public housing agency or other entity anamount equal to 100 percent of the costs incurred by the public housing agency or other entity in implementing and operating an immigration status verification system under subsection (d) of this section (or under any alternative system for verifying immigration status with the Immigration and Naturalization Service authorized in the Immigration Reform and Control Act of 1986 (Public Law 99–603)).
 
 #### (h) “Applicable Secretary” defined
 
@@ -236,7 +236,7 @@ Subsec. (d)(5). Pub. L. 104–208, §574(5), inserted “, the Secretary shall�
 
 “(B) the applicable fair hearing process shall be made available with respect to the individual.”
 
-Subsec. (d)(6). Pub. L. 104–208, §574(6), added par. (6) and struck out former par. (6) which read as follows: “For purposes of paragraph (5)(B), the applicable fairhearing process made available with respect to any individual shall include not less than the following procedural protections:
+Subsec. (d)(6). Pub. L. 104–208, §574(6), added par. (6) and struck out former par. (6) which read as follows: “For purposes of paragraph (5)(B), the applicable fair hearing process made available with respect to any individual shall include not less than the following procedural protections:
 
 &emsp;“(A) The applicable Secretary shall provide the individual with written notice of the determination described in paragraph (5) and of the opportunity for a hearing with respect to the determination.
 

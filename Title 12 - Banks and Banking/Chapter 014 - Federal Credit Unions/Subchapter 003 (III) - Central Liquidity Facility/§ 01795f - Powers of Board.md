@@ -8,7 +8,7 @@ The Board on behalf of the Facility shall have the ability to—
 
 &emsp;(2) prescribe rules and regulations to carry out this subchapter;
 
-&emsp;(3) determine the expenditures incurred by the Administration to carry out this subchapter, and the expenditures incurred by theFacility to carry out subchapters I and II of this chapter, and annually assess the Facility and the Administration accordingly;
+&emsp;(3) determine the expenditures incurred by the Administration to carry out this subchapter, and the expenditures incurred by the Facility to carry out subchapters I and II of this chapter, and annually assess the Facility and the Administration accordingly;
 
 &emsp;(4) borrow from—
 

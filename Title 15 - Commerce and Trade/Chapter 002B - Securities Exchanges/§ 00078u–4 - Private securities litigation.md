@@ -80,7 +80,7 @@
 
 #### (iv) Discovery
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, discovery relating to whether a member or members of the purported plaintiff class isthe most adequate plaintiff may be conducted by a plaintiff only if the plaintiff first demonstrates a reasonable basis for a finding that the presumptively most adequate plaintiff is incapable of adequately representing the class.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, discovery relating to whether a member or members of the purported plaintiff class is the most adequate plaintiff may be conducted by a plaintiff only if the plaintiff first demonstrates a reasonable basis for a finding that the presumptively most adequate plaintiff is incapable of adequately representing the class.
 
 #### (v) Selection of lead counsel
 
@@ -130,7 +130,7 @@
 
 #### (D) Identification of lawyers’ representatives
 
-&emsp;&emsp;The name, telephone number, and address of one or more representatives of counsel for the plaintiff class who will be reasonably available to answer questions from class members concerning any matter contained in any notice of settlement published or otherwise disseminated to the class.
+&emsp;&emsp;The name, telephone number, and address of one or more representatives of counsel for the plaintiff class who will be reasonably available to answer questions from classmembers concerning any matter contained in any notice of settlement published or otherwise disseminated to the class.
 
 #### (E) Reasons for settlement
 
@@ -200,7 +200,7 @@
 
 #### (2) Mandatory sanctions
 
-&emsp;If the court makes a finding under paragraph (1) that a party or attorney violated any requirement of Rule 11(b) of the Federal Rules of Civil Procedure as to any complaint, responsive pleading, or dispositive motion, the court shall impose sanctions on such party or attorney in accordance with Rule 11 of the Federal Rules of Civil Procedure. Prior to making a finding that any party or attorney has violated Rule 11 of the Federal Rules of Civil Procedure, the court shall give such party or attorney notice and an opportunity to respond.
+&emsp;If the court makes a finding under paragraph (1) that a party or attorney violated any requirement of Rule 11(b) of the Federal Rules of Civil Procedure as to any complaint, responsive pleading, or dispositive motion, the court shall impose sanctions on such party or attorney in accordance with Rule 11 of the Federal Rules of Civil Procedure. Prior to making afinding that any party or attorney has violated Rule 11 of the Federal Rules of Civil Procedure, the court shall give such party or attorney notice and an opportunity to respond.
 
 #### (3) Presumption in favor of attorneys’ fees and costs
 

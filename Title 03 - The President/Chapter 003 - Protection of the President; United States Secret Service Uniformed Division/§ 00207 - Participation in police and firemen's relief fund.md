@@ -8,7 +8,7 @@
 
 #### References in Text
 
-Section 12 of the Act entitled “An Act making appropriations to provide for the expenses of the government of the District of Columbia for the fiscal year ending June 30, 1917, and for other purposes,” approved September 1, 1916, as amended, referred to in text, is act Sept. 1, 1916, ch. 433, §12, 39 Stat. 718, as amended, which appears in sections 4–607, 4–609, 4–610, 4–612, 4–613, 4–615, 4–616, 4–618 to 4–620, 4–622, 4–626, 4–627, 4–629, and 4–630, of Title 4, Police and Fire Departments, of the District of Columbia Code.
+Section 12 of the Act entitled “An Act making appropriations to provide for the expenses of the governmentof the District of Columbia for the fiscal year ending June 30, 1917, and for other purposes,” approved September 1, 1916, as amended, referred to in text, is act Sept. 1, 1916, ch. 433, §12, 39 Stat. 718, as amended, which appears in sections 4–607, 4–609, 4–610, 4–612, 4–613, 4–615, 4–616, 4–618 to 4–620, 4–622, 4–626, 4–627, 4–629, and 4–630, of Title 4, Police and Fire Departments, of the District of Columbia Code.
 
 #### Amendments
 

@@ -40,7 +40,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) debt-for-equity swaps, debt-for-development swaps, or debt-for-nature swaps; or
 
-&emsp;&emsp;(B) a debt buy-back by an eligible country of its own qualified debt, only if the eligible country uses an additional amount of the local currency of the eligible country, equal to not less than 40 percent of the price paid for such debt by such eligible country, or the difference between the price paid for suchdebt and the face value of such debt, to support activities that link conservation and sustainable use of natural resources with local community development, and child survival and other child development activities, in a manner consistent with sections 1738f through 1738k of title 7,
+&emsp;&emsp;(B) a debt buy-back by an eligible country of its own qualified debt, only if the eligible country uses an additional amount of the local currency of the eligible country, equal to not less than 40 percent of the price paid for such debt by such eligible country, or the difference between the price paid for such debt and the face value of such debt, to support activities that link conservation and sustainable use of natural resources with local community development, and child survival and other child development activities, in a manner consistent with sections 1738f through 1738k of title 7,
 
 > &emsp;if the sale, reduction, or cancellation would not contravene any term or condition of any prior agreement relating to such loan.
 

@@ -16,7 +16,7 @@ Distilled spirits transferred pursuant to subsection (a)—
 
 #### Prior Provisions
 
-A prior section 5232, acts Aug. 16, 1954, ch. 736, 68A Stat. 643; Sept. 2, 1958, Pub. L. 85–859, title II, §206(b),72 Stat. 1431, related to bond requirements of internal revenue bonded warehouses, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5005(c)(1), 5006(a)(2), 5173(a), (c)(1), 5174(a)(1), 5176(a), (b), and 5177(b)(1) of this title.
+A prior section 5232, acts Aug. 16, 1954, ch. 736, 68A Stat. 643; Sept. 2, 1958, Pub. L. 85–859, title II, §206(b), 72 Stat. 1431, related to bond requirements of internal revenue bonded warehouses, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5005(c)(1), 5006(a)(2), 5173(a), (c)(1), 5174(a)(1), 5176(a), (b), and 5177(b)(1) of this title.
 
 Provisions similar to those comprising this section were contained in prior section 5311, act Aug. 16, 1954, ch. 736, 68A Stat. 658, prior to the general revision of this chapter by Pub. L. 85–859.
 

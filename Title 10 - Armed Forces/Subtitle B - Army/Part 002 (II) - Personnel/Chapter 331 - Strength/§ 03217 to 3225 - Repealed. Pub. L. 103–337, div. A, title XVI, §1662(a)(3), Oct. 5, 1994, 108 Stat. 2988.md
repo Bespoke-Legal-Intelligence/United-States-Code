@@ -16,7 +16,7 @@ Section 3223, act Aug. 10, 1956, ch. 1041, 70A Stat. 176, related to authorized 
 
 Section 3224, act Aug. 10, 1956, ch. 1041, 70A Stat. 177, related to authorized strength of Army National Guard of United States. See section 12001 of this title.
 
-Section 3225, acts Aug. 10, 1956, ch. 1041, 70A Stat. 177; Dec. 12, 1980, Pub. L. 96–513, title V, §502(7), 94 Stat.2909; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(a)(1), 102 Stat. 2059, related to authorized strength of Army National Guard and Army National Guard of United States, exclusive of members on active duty. See section 12002 of this title.
+Section 3225, acts Aug. 10, 1956, ch. 1041, 70A Stat. 177; Dec. 12, 1980, Pub. L. 96–513, title V, §502(7), 94 Stat. 2909; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(a)(1), 102 Stat. 2059, related to authorized strength of Army National Guard and Army National Guard of United States, exclusive of members on active duty. See section 12002 of this title.
 
 #### Effective Date of Repeal
 

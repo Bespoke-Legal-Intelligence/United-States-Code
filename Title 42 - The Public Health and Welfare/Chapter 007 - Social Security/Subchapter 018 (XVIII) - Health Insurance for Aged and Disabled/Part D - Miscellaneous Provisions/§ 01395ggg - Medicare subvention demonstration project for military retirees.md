@@ -20,7 +20,7 @@ In this section:
 
 &emsp;The term “medicare-eligible military retiree or dependent” means an individual described in section 1074(b) or 1076(b) of title 10 who—
 
-&emsp;&emsp;(A) would be eligible for health benefits under section 1086 of such title by reason ofsubsection (c)(1) of such section 1086 but for the operation of subsection (d) of such section 1086;
+&emsp;&emsp;(A) would be eligible for health benefits under section 1086 of such title by reason of subsection (c)(1) of such section 1086 but for the operation of subsection (d) of such section 1086;
 
 &emsp;&emsp;(B)(i) is entitled to benefits under part A of this subchapter; and
 
@@ -40,7 +40,7 @@ In this section:
 
 #### (7) TRICARE
 
-&emsp;The term “TRICARE” has the same meaning as the term ‘TRICARE program’ under section 711 of the National Defense Authorization Act for Fiscal Year 1996 (10 U.S.C. 1073 note).
+&emsp;The term “TRICARE” has the same meaning as the term “TRICARE program” under section 711 of the National Defense Authorization Act for Fiscal Year 1996 (10 U.S.C. 1073 note).
 
 #### (8) Trust funds
 
@@ -202,7 +202,7 @@ Notwithstanding any provisions of title 10, the administering Secretaries may ag
 
 #### (A) In general
 
-&emsp;&emsp;The administering Secretaries, in consultation with the Comptroller General,shall closely monitor the expenditures made under the medicare program for medicare-eligible military retirees or dependents during the period of the demonstration project compared to the expenditures that would have been made for such medicare-eligible military retirees or dependents during that period if the demonstration project had not been conducted. The agreement entered into by the administering Secretaries under subsection (b) of this section shall require any participating military treatment facility to maintain the level of effort for space available care to medicare-eligible military retirees or dependents.
+&emsp;&emsp;The administering Secretaries, in consultation with the Comptroller General, shall closely monitor the expenditures made under the medicare program for medicare-eligible military retirees or dependents during the period of the demonstration project compared to the expenditures that would have been made for such medicare-eligible military retirees or dependents during that period if the demonstration project had not been conducted. The agreement entered into by the administering Secretaries under subsection (b) of this section shall require any participating military treatment facility to maintain the level of effort for space available care to medicare-eligible military retirees or dependents.
 
 #### (B) Annual report by the Comptroller General
 

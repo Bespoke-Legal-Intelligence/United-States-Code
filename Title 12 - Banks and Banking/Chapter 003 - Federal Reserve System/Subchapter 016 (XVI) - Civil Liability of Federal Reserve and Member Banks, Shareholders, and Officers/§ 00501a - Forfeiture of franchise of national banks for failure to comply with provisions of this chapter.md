@@ -20,5 +20,5 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 222, 377, 481, 522, 1817 of this title.
+This section is referred to in sections 222, 481, 522, 1817 of this title.
 

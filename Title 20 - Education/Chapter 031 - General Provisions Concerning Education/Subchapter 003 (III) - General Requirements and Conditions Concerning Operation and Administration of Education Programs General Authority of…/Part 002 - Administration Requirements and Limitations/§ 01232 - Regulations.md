@@ -32,7 +32,7 @@ Not later than 60 days after the date of enactment of any Act, or any portion of
 
 Concurrently with the publication of any final regulations, the Secretary shall transmit a copy of such final regulations to the Speaker of the House of Representatives and the President pro tempore of the Senate.
 
-(Pub. L. 90–247, title IV, §437, formerly §421, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 169; renumbered §431, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 93–380, title V, §509(a), Aug. 21, 1974, 88 Stat. 566; Pub. L. 94–142, §7, Nov. 29, 1975, 89 Stat. 796; Pub. L. 94–482, title IV, §405, Oct. 12, 1976, 90 Stat. 2231; Pub. L. 96–374, title XIII, §1302, Oct. 3, 1980, 94 Stat. 1497; Pub. L. 97–35, title V, §533(a)(3), Aug. 13, 1981, 95 Stat. 453; renumbered §437 and amended Pub. L. 103–382, title II, §§212(b)(1), 247, Oct. 20, 1994, 108 Stat. 3913, 3923; Pub. L. 103–437, §7(a)(1), Nov. 2, 1994, 108 Stat. 4587.)
+(Pub. L. 90–247, title IV, §437, formerly §421, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 169; renumbered §431, Pub. L.92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 93–380, title V, §509(a), Aug. 21, 1974, 88 Stat. 566; Pub. L. 94–142, §7, Nov. 29, 1975, 89 Stat. 796; Pub. L. 94–482, title IV, §405, Oct. 12, 1976, 90 Stat. 2231; Pub. L. 96–374, title XIII, §1302, Oct. 3, 1980, 94 Stat. 1497; Pub. L. 97–35, title V, §533(a)(3), Aug. 13, 1981, 95 Stat. 453; renumbered §437 and amended Pub. L. 103–382, title II, §§212(b)(1), 247, Oct. 20, 1994, 108 Stat. 3913, 3923; Pub. L. 103–437, §7(a)(1), Nov. 2, 1994, 108 Stat. 4587.)
 
 #### Prior Provisions
 
@@ -78,7 +78,7 @@ Subsecs. (d) to (g). Pub. L. 93–380, §509(a)(2), added subsecs. (d) to (g).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committeeon Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1981 Amendment
 
@@ -106,7 +106,7 @@ Section 8 of Pub. L. 94–142 provided that:
 
 #### Effective Date of 1974 Amendment
 
-Section 509(b) of Pub. L. 93–380 provided that: “The amendment made by paragraph (2) of subsection (a) \[amending this section\] shall be effective on the date of enactment of this \[Aug. 21, 1974\] and shall be effective with respect to the provisions of this Act \[see Short Title note set out under section 821 of this title\].”
+Section 509(b) of Pub. L. 93–380 provided that: “The amendment made by paragraph (2) of subsection (a)\[amending this section\] shall be effective on the date of enactment of this \[Aug. 21, 1974\] and shall be effective with respect to the provisions of this Act \[see Short Title note set out under section 821 of this title\].”
 
 #### Study and Report on Rules and Regulations
 
@@ -114,5 +114,5 @@ Pub. L. 92–318, title V, §503, June 23, 1972, 86 Stat. 346, provided for a st
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 927, 1087g, 1098a of this title; title 25 section 2019.
+This section is referred to in sections 927, 1087g, 1098a of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority of Administration to guarantee surety against loss from principal's breach of bond
 
-(1) The Administration may, upon such terms and conditions as it may prescribe, guaranteeand enter into commitments to guarantee any surety against loss resulting from a breach of the terms of a bid bond, payment bond, performance bond, or bonds ancillary thereto, by a principal on any contract up to $1,250,000.
+(1) The Administration may, upon such terms and conditions as it may prescribe, guarantee and enter into commitments to guarantee any surety against loss resulting from a breach of the terms of a bid bond, payment bond, performance bond, or bonds ancillary thereto, by a principal on any contract up to $1,250,000.
 
 (2) The terms and conditions of said guarantees and commitments may vary from surety to surety on the basis of the Administration's experience with the particular surety.
 
@@ -24,7 +24,7 @@
 
 #### (b) Indemnification of surety against loss from avoiding breach
 
-Subject to the provisions of this section, in connection with the issuance by the Administration of a guarantee to a surety as provided by subsection (a) of this section, the Administration may agree to indemnify such surety against a loss sustained by such surety in avoiding or attempting to avoid a breach of the terms of a bond guaranteed by the Administration pursuant to subsection (a) of this section: <i>Provided, however—</i>
+Subject to the provisions of this section, in connection with the issuance by the Administration of a guarantee to a surety as provided by subsection (a) of this section, the Administration may agree to indemnify such surety against a loss sustained by such surety in avoiding or attempting to avoid a breach of the terms of abond guaranteed by the Administration pursuant to subsection (a) of this section: <i>Provided, however—</i>
 
 &emsp;(1) prior to making any payment under this subsection, the Administration shall first determine that a breach of the terms of such bond was imminent;
 

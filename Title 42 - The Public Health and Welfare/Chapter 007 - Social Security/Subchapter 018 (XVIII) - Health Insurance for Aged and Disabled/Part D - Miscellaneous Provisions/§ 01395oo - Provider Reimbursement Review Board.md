@@ -16,7 +16,7 @@ Any provider of services which has filed a required cost report within the time 
 
 &emsp;(2) the amount in controversy is $10,000 or more, and
 
-&emsp;(3) such provider files a request for a hearing within 180 days after notice of theintermediary's final determination under paragraph (1)(A)(i), or with respect to appeals under paragraph (1)(A)(ii), 180 days after notice of the Secretary's final determination, or with respect to appeals pursuant to paragraph (1) (B) or (C), within 180 days after notice of such determination would have been received if such determination had been made on a timely basis.
+&emsp;(3) such provider files a request for a hearing within 180 days after notice of the intermediary's final determination under paragraph (1)(A)(i), or with respect to appeals under paragraph (1)(A)(ii), 180 days after notice of the Secretary's final determination, or with respect to appeals pursuant to paragraph (1) (B) or (C), within 180 days after notice of such determination would have been received if such determination had been made on a timely basis.
 
 #### (b) Appeals by groups
 
@@ -44,7 +44,7 @@ The Board shall have full power and authority to make rules and establish proced
 
 #### (g) Certain findings not reviewable
 
-(1) The finding of a fiscal intermediary that no payment may be made under this subchapter for any expenses incurred for items or services furnished to an individual because such items orservices are listed in section 1395y of this title shall not be reviewed by the Board, or by any court pursuant to an action brought under subsection (f) of this section.
+(1) The finding of a fiscal intermediary that no payment may be made under this subchapter for any expenses incurred for items or services furnished to an individual because such items or services are listed in section 1395y of this title shall not be reviewed by the Board, or by any court pursuant to an action brought under subsection (f) of this section.
 
 (2) The determinations and other decisions described in section 1395ww(d)(7) of this title shall not be reviewed by the Board or by any court pursuant to an action brought under subsection (f) of this section or otherwise.
 
@@ -112,7 +112,7 @@ Amendment by section 4161(b)(4) of Pub. L. 101–508 applicable to cost reports 
 
 Section 2351(a)(2) of Pub. L. 98–369 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to any civil action commenced on or after the date of the enactment of this Act \[July 18, 1984\].”
 
-Section 2351(b)(2) of Pub. L. 98–369 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to any appeal or action brought on or after the date of the enactment of this Act \[July 18, 1984\].”
+Section 2351(b)(2) of Pub. L. 98–369 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall be effective with respect to any appeal or action brought on or after the date of the enactment of this Act \[July 18, 1984\].”
 
 Amendment by section 2354(b)(39), (40) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
 
@@ -142,5 +142,5 @@ Section 2351(c) of Pub. L. 98–369 provided that: “Notwithstanding section 60
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395h, 1395i–5, 1395<i>l</i>, 1395rr, 1395ww, 1395yy, 1395fff of this title.
+This section is referred to in sections 256e, 1395h, 1395i–5, 1395<i>l</i>, 1395rr, 1395ww, 1395yy, 1395fff of this title.
 

@@ -6,7 +6,7 @@ Except as otherwise specially provided for, the rate or rates of duty imposed by
 
 &emsp;(1) any article released under an informal mail entry shall be subject to duty at the rate or rates in effect when the preparation of the entry is completed;
 
-&emsp;(2) any article which is not subject to a quantitative or tariff-rate quota and which iscovered by an entry for immediate transportation made at the port of original importation under section 1552 of this title, if entered for consumption at the port designated by the consignee, or his agent, in such transportation entry without having been taken into the custody of the appropriate customs officer under section 1490 of this title, shall be subject to the rate or rates in effect when the transportation entry was accepted at the port of original importation; and
+&emsp;(2) any article which is not subject to a quantitative or tariff-rate quota and which is covered by an entry for immediate transportation made at the port of original importation under section 1552 of this title, if entered for consumption at the port designated by the consignee, or his agent, in such transportation entry without having been taken into the custody of the appropriate customs officer under section 1490 of this title, shall be subject to the rate or rates in effect when the transportation entry was accepted at the port of original importation; and
 
 &emsp;(3) any article for which duties may, under section 1505 of this title, be paid at a time later than the time of making entry shall be subject to the rate or rates in effect at the time of entry.
 
@@ -22,7 +22,7 @@ Insofar as duties are based upon the quantity of any merchandise, such duties sh
 
 No administrative ruling resulting in the imposition of a higher rate of duty or charge than the Secretary of the Treasury shall find to have been applicable to imported merchandise under an established and uniform practice shall be effective with respect to articles entered for consumption or withdrawn from warehouse for consumption prior to the expiration of thirty days after the date of publication in the Federal Register of notice of such ruling; but this provision shall not apply with respect to the imposition of antidumping duties, or the imposition of countervailing duties under section 1303 of this title (as in effect on the day before the effective date of title II of the Uruguay Round Agreements Act) or section 1671 of this title. This subsection shall not apply with respect to increases in rates of duty resulting from the enactment of the Harmonized Tariff Schedule of the United States to replace the Tariff Schedules of the United States.
 
-(June 17, 1930, ch. 497, title III, §315, 46 Stat. 695; June 25, 1938, ch. 679, §6, 52 Stat. 1081; Aug. 8, 1953, ch. 397, §3(a), 67 Stat. 508; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 93–618, title III, §331(c), Jan. 3, 1975, 88 Stat. 2053; Pub. L. 95–410, title I, §101, title II, §204, Oct. 3, 1978, 92 Stat. 888, 900; Pub. L. 96–39, title XI, §1106(e), July 26, 1979, 93 Stat. 312; Pub. L. 100–418, title I, §1213(c), Aug. 23, 1988, 102 Stat. 1155; Pub. L. 103–182, title VI, §633, Dec. 8, 1993, 107 Stat. 2198; Pub. L. 103–465, title II, §261(d)(1)(B)(i), Dec. 8, 1994, 108 Stat. 4909.)
+(June 17, 1930, ch. 497, title III, §315, 46 Stat. 695; June 25, 1938, ch. 679, §6, 52 Stat. 1081; Aug. 8, 1953, ch. 397, §3(a), 67 Stat. 508; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 93–618, title III, §331(c), Jan. 3, 1975, 88 Stat. 2053; Pub. L. 95–410, title I, §101, title II, §204, Oct. 3, 1978, 92 Stat. 888, 900; Pub. L. 96–39, title XI, §1106(e), July 26, 1979, 93 Stat. 312; Pub. L.100–418, title I, §1213(c), Aug. 23, 1988, 102 Stat. 1155; Pub. L. 103–182, title VI, §633, Dec. 8, 1993, 107 Stat. 2198; Pub. L. 103–465, title II, §261(d)(1)(B)(i), Dec. 8, 1994, 108 Stat. 4909.)
 
 #### References in Text
 
@@ -62,7 +62,7 @@ Section 261(d)(2) of title II of Pub. L. 103–465 provided that: “The amendme
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on orafter such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
 
 #### Effective Date of 1975 Amendment
 

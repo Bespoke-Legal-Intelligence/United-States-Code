@@ -52,6 +52,10 @@ The following additional terms and conditions shall apply to the reduction of de
 
 The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (a)(1), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended. Title I of the Act is classified generally to subchapter II (§1701 et seq.) of chapter 41 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2431a, 2431f of this title.

@@ -56,7 +56,7 @@ Description of Service Involved.—This section applies with respect to any peri
 
 &emsp;&emsp;“(B) during the Persian Gulf conflict;
 
-&emsp;&emsp;“(C) at a post within the area designated by the President, in Executive Order 12744 \[26 U.S.C. 112 note\], as a ‘combat zone’ for purposes of section 112 of the Internal Revenue Code of 1986 \[26 U.S.C. 112\]; and
+&emsp;&emsp;“(C) at a post within the area designated by the President, in Executive Order 12744 \[26 U.S.C. 112note\], as a ‘combat zone’ for purposes of section 112 of the Internal Revenue Code of 1986 \[26 U.S.C. 112\]; and
 
 &emsp;&emsp;“(D) while a differential under section 5925(a) of title 5, United States Code, was authorized with respect to such post; and
 

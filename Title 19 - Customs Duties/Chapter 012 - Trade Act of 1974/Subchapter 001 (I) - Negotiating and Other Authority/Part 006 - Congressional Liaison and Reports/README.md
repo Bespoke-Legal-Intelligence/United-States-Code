@@ -6,8 +6,6 @@ Part 6
 
 This part is referred to in section 2514 of this title.
 
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
-
 
 ---
 

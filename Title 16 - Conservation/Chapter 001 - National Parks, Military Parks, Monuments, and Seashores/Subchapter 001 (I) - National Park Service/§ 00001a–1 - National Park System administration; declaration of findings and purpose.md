@@ -10,7 +10,7 @@ This Act, referred to in text, means Pub. L. 91–383, Aug. 18, 1970, 84 Stat. 8
 
 #### Amendments
 
-1978—Pub. L. 95–250 provided that the promotion and regulation of the various areas of the National Park System, as defined in section 1c of this title, be consistent with and founded in the purpose established by section 1 of this title, to the common benefit of all the people of the United States, and that the authorization of activities be construed and the protection, management, and administration of these areas be conducted in light of the high public value and integrity of the National Park System and not be exercised in derogation of the values and purposes for which these various areas have been established, except as may have been or shall be directly and specifically provided by Congress.
+1978—Pub. L. 95–250 provided that the promotion and regulation of the various areas of the National Park System, as defined in section 1c of this title, be consistent with and founded in the purpose established by section 1 of this title, to the common benefit of all the people of the United States, and that the authorization of activities be construed and the protection, management, and administration of these areas be conductedin light of the high public value and integrity of the National Park System and not be exercised in derogation of the values and purposes for which these various areas have been established, except as may have been or shall be directly and specifically provided by Congress.
 
 #### Short Title
 
@@ -34,7 +34,7 @@ Report.—The Administrator of the Federal Aviation Administration shall submit 
 
 &emsp;“(3) A report on the carrying capacity of the airspace over Grand Canyon National Park to ensure aviation safety and to meet the requirements established by section 3 of the Act of August 18, 1987 (Public Law 100–91; 101 Stat. 676) \[set out below\], including the substantial restoration of natural quiet at the Park.
 
-&emsp;“(4) A plan of action to manage increased air traffic over Grand Canyon National Park to ensure aviationsafety and to meet the requirements established by such section 3 of the Act of August 18, 1987, including any measures to encourage or require the use of quiet aircraft technology by commercial air tour operators.”
+&emsp;“(4) A plan of action to manage increased air traffic over Grand Canyon National Park to ensure aviation safety and to meet the requirements established by such section 3 of the Act of August 18, 1987, including any measures to encourage or require the use of quiet aircraft technology by commercial air tour operators.”
 
 #### Removal of Feral Burros and Horses From Death Valley National Monument
 
@@ -108,7 +108,7 @@ Exceptions.—The prohibitions contained in subsections (a) and (b) shall not ap
 
 “(e)
 
-Enforcement.—For purposes of enforcement, the prohibitions contained in subsections (a) and (b) shallbe treated as requirements established pursuant to section 307 of the Federal Aviation Act of 1958 \[see 49 U.S.C. 40103(b)\]. To provide information to pilots regarding the restrictions established under this Act, the Administrator shall provide public notice of such restrictions in appropriate Federal Aviation Administration publications as soon as practicable after the enactment of this Act \[Aug. 18, 1987\].
+Enforcement.—For purposes of enforcement, the prohibitions contained in subsections (a) and (b) shall be treated as requirements established pursuant to section 307 of the Federal Aviation Act of 1958 \[see 49 U.S.C. 40103(b)\]. To provide information to pilots regarding the restrictions established under this Act, the Administrator shall provide public notice of such restrictions in appropriate Federal Aviation Administration publications as soon as practicable after the enactment of this Act \[Aug. 18, 1987\].
 
 #### “SEC. 3. GRAND CANYON NATIONAL PARK.
 

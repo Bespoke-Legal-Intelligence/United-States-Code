@@ -8,7 +8,7 @@
 
 &emsp;(1) the national fee provided in section 41(a) of this title;
 
-&emsp;(2) a copy of the international application, unless not required under subsection (a) of thissection or already communicated by the International Bureau, and a translation into the English language of the international application, if it was filed in another language;
+&emsp;(2) a copy of the international application, unless not required under subsection (a) of this section or already communicated by the International Bureau, and a translation into the English language of the international application, if it was filed in another language;
 
 &emsp;(3) amendments, if any, to the claims in the international application, made under article 19 of the treaty, unless such amendments have been communicated to the Patent and Trademark Office by the International Bureau, and a translation into the English language if such amendments were made in another language;
 
@@ -16,15 +16,17 @@
 
 &emsp;(5) a translation into the English language of any annexes to the international preliminary examination report, if such annexes were made in another language.
 
-(d) The requirements with respect to the national fee referred to in subsection (c)(1), the translation referred to in subsection (c)(2), and the oath or declaration referred to in subsection (c)(4) of this section shall be complied with by the date of the commencement of the national stage or by such later time as may be fixed by the Commissioner. The copy of the international application referred to in subsection (c)(2) shall be submitted by the date of the commencement of the national stage. Failure to comply with these requirements shall be regarded as abandonment of the application by the parties thereof, unless it be shown to the satisfaction of the Commissioner that such failure to comply was unavoidable. The payment of a surcharge may be required as a condition of accepting the national fee referred to in subsection (c)(1) or the oath or declaration referred to in subsection (c)(4) of this section if these requirements are not met by the date of the commencement of the national stage. The requirements of subsection (c)(3) of this section shall be complied with by the date of the commencement of the national stage, and failure to do so shall be regarded as a cancellation of the amendments to the claims in the international application made under article 19 of the treaty. The requirement of subsection (c)(5) shall be complied with at such time as may be fixed by the Commissioner and failure to do so shall be regarded as cancellation of the amendments made under article 34(2)(b) of the treaty <sup>1</sup>
+(d) The requirements with respect to the national fee referred to in subsection (c)(1), the translation referred to in subsection (c)(2), and the oath or declaration referred to in subsection (c)(4) of this section shall be complied with by the date of the commencement of the national stage or by such later time as may be fixed by the Director. The copy of the international application referred to in subsection (c)(2) shall be submitted by the date of the commencement of the national stage. Failure to comply with these requirements shall be regarded as abandonment of the application by the parties thereof, unless it be shown to the satisfaction of the Director that such failure to comply was unavoidable. The payment of a surcharge may be required as a condition of accepting the national fee referred to in subsection (c)(1) or the oath or declaration referred to in subsection (c)(4) of this section if these requirements are not met by the date of the commencement of the national stage. The requirements of subsection (c)(3) of this section shall be complied with by the date of the commencement of the national stage, and failure to do so shall be regarded as a cancellation of the amendments to the claims in the international application made under article 19 of the treaty. The requirement of subsection (c)(5) shall be complied with at such time as may be fixed by the Director and failure to do so shall be regarded as cancellation of the amendments made under article 34(2)(b) of the treaty <sup>1</sup>
 
-(e) After an international application has entered the national stage, no patent may be granted or refused thereon before the expiration of the applicable time limit under article 28 or article 41 of the treaty, except with the express consent of the applicant. The applicant may present amendments to the specification, claims and drawings of the application after the national stage has commenced.
+(e) After an international application has entered the national stage, no patent may begranted or refused thereon before the expiration of the applicable time limit under article 28 or article 41 of the treaty, except with the express consent of the applicant. The applicant may present amendments to the specification, claims and drawings of the application after the national stage has commenced.
 
 (f) At the express request of the applicant, the national stage of processing may be commenced at any time at which the application is in order for such purpose and the applicable requirements of subsection (c) of this section have been complied with.
 
-(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 688; amended Pub. L. 98–622, title IV, §§402(a)–(d), 403(a), Nov. 8, 1984, 98 Stat. 3391, 3392; Pub. L. 99–616, §7, Nov. 6, 1986, 100 Stat. 3486; Pub. L. 102–204, §5(g)(2), Dec. 10, 1991, 105 Stat. 1641.)
+(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 688; amended Pub. L. 98–622, title IV, §§402(a)–(d), 403(a), Nov. 8, 1984, 98 Stat. 3391, 3392; Pub. L. 99–616, §7, Nov. 6, 1986, 100 Stat. 3486; Pub. L. 102–204, §5(g)(2), Dec. 10, 1991, 105 Stat. 1641; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
 
 #### Amendments
+
+1999—Subsec. (d). Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
 
 1991—Subsec. (c)(1). Pub. L. 102–204 substituted “provided in section 41(a) of this title” for “prescribed under section 376(a)(4) of this part”.
 
@@ -50,6 +52,10 @@ Subsec. (c)(2). Pub. L. 98–622, §402(c)(1), (2), substituted “communicated 
 
 Subsec. (d). Pub. L. 98–622, §402(d), substituted provisions setting forth time periods for compliance with the requirements of subsec. (c), payments of surcharges, and the effect of failure to comply for provisions related only to the effect of failure to comply with the requirements of subsec. (c).
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–616 effective July 1, 1987, and applicable to all international applications pending before or after that date, see section 9 of Pub. L. 99–616, set out as a note under section 351 of this title.
@@ -66,7 +72,7 @@ Chapter effective Jan. 24, 1978, and applicable to international and national ap
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 102, 366 of this title.
+This section is referred to in sections 154, 366 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

@@ -50,7 +50,7 @@ Individuals who elect to remain civil service employees shall be transferred in 
 
 > shall be credited for purposes of the leave system provided under rules and regulations promulgated pursuant to subsection (b) of this section, with the annual and sick leave to the credit of such individual immediately before the effective date of such election, transfer, or reappointment.
 
-(2) Upon termination of employment with the Institute, any annual leave remaining to the credit of an individual within the purview of this section shall be liquidated in accordance with sections 5551(a) and 6306 of title 5, except that leave earned or accrued under rules and regulations promulgated pursuant to subsection (b) of this section shall not be so liquidated.
+(2) Upon termination of employment with the Institute, any annual leave remaining to the credit of an individual within the purview of this section shall be liquidated in accordance with sections 5551(a) and 6306 of title 5, exceptthat leave earned or accrued under rules and regulations promulgated pursuant to subsection (b) of this section shall not be so liquidated.
 
 (3) In the case of any individual who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remaining leave to the credit of such person earned or credited under the rules and regulations promulgated pursuant to subsection (b) of this section shall be transferred to the credit of such individual in the employing agency on an adjusted basis in accordance with the rules and regulations which shall be promulgated by the Office of Personnel Management.
 
@@ -80,7 +80,7 @@ The Institute shall be considered an agency for the purpose of chapter 71 of tit
 
 Employees of the Institute shall receive compensation for work injuries and illnesses in accordance with chapter 81 of title 5.
 
-(Pub. L. 99–498, title XV, §1509, Oct. 17, 1986, 100 Stat. 1604; Pub. L. 100–297, title V, §5406(a), Apr.28, 1988, 102 Stat. 417; Pub. L. 102–325, title XIII, §1331(c), July 23, 1992, 106 Stat. 806; Pub. L. 103–382, title III, §386(a), Oct. 20, 1994, 108 Stat. 4020.)
+(Pub. L. 99–498, title XV, §1509, Oct. 17, 1986, 100 Stat. 1604; Pub. L. 100–297, title V, §5406(a), Apr. 28, 1988, 102 Stat. 417; Pub. L. 102–325, title XIII, §1331(c), July 23, 1992, 106 Stat. 806; Pub. L. 103–382, title III, §386(a), Oct. 20, 1994, 108 Stat. 4020.)
 
 #### References in Text
 

@@ -28,7 +28,7 @@
 
 (B)(i) In any proceeding in which a party alleges that a rail carrier voted or agreed on a rate or allowance in violation of this subsection, that party has the burden of showing that the vote or agreement occurred. A showing of parallel behavior does not satisfy that burden by itself.
 
-(ii) In any proceeding in which it is alleged that a carrier was a party to an agreement, conspiracy, or combination in violation of a Federal law cited in subsection (a)(2)(A) of this section or of any similar State law, proof of an agreement, conspiracy, or combination may not be inferred from evidence that two or more rail carriers acted together with respect to an interline rate or related matter and that a party to such action took similar action with respect to a rate or related matter on another route or traffic. In any proceeding in which such a violation is alleged, evidence of a discussion or agreement between or among such rail carrier and one or more other rail carriers, or of any rate or other action resulting from such discussion or agreement, shall not be admissible if the discussion or agreement—
+(ii) In any proceeding in which it is alleged that a carrier was a party to an agreement, conspiracy, or combination in violation of a Federal law cited in subsection (a)(2)(A) of this section or of any similar State law, proof of an agreement, conspiracy, or combination may not be inferred from evidence that two or more railcarriers acted together with respect to an interline rate or related matter and that a party to such action took similar action with respect to a rate or related matter on another route or traffic. In any proceeding in which such a violation is alleged, evidence of a discussion or agreement between or among such rail carrier and one or more other rail carriers, or of any rate or other action resulting from such discussion or agreement, shall not be admissible if the discussion or agreement—
 
 &emsp;(I) was in accordance with an agreement approved under paragraph (2) of this subsection; or
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(ii) an organization operating under those agreements; and
 
-&emsp;(B) possible ways to alleviate or end an anticompetitive feature, effect, or aspect in a manner that will further the goals of this part and of the transportation policy of section 10101 of this title.
+&emsp;(B) possible ways to alleviate or end an anticompetitive feature, effect, or aspect in amanner that will further the goals of this part and of the transportation policy of section 10101 of this title.
 
 (2) Reports received by the Board under this subsection shall be published and made available to the public under section 552(a) of title 5.
 

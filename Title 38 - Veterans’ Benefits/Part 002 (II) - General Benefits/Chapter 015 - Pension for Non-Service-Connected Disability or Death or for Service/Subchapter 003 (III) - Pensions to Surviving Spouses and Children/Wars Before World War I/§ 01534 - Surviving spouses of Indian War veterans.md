@@ -30,7 +30,7 @@ Pub. L. 102–54 substituted a period for semicolon at end of par. (2) and struc
 
 1975—Pub. L. 94–169, §106(29), substituted “Surviving spouses” for “Widows” in section catchline.
 
-Subsec. (a). Pub. L. 94–169, §106(26), substituted “pay to a surviving spouse” for “paid to a widow”, “unless such surviving spouse” for “she” wherever appearing, “was the spouse” for “was the wife” and “such veteran's” for “his”.
+Subsec. (a). Pub. L. 94–169, §106(26), substituted “pay to a surviving spouse” for “paid to a widow”, “unlesssuch surviving spouse” for “she” wherever appearing, “was the spouse” for “was the wife” and “such veteran's” for “his”.
 
 Subsec. (b). Pub. L. 94–169, §106(27), substituted “surviving spouse” for “widow”.
 

@@ -6,7 +6,7 @@ At the first meeting of the full board of directors of each Federal reserve bank
 
 #### Codification
 
-Section is comprised of par. 26 of section 4 of act Dec. 23, 1913. For classification to this title of other pars. of section 4, see Codification note set out under section 301 of this title.
+Section is comprised of par. 26 of section 4 of act Dec. 23, 1913. For classification to this title of other pars. ofsection 4, see Codification note set out under section 301 of this title.
 
 #### Section Referred to in Other Sections
 

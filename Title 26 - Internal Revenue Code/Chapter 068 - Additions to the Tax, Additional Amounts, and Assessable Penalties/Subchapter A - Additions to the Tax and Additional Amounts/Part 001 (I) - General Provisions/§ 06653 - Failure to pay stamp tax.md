@@ -2,7 +2,7 @@
 
 Any person (as defined in section 6671(b)) who—
 
-&emsp;(1) willfully fails to pay any tax imposed by this title which is payable by stamp, coupons, tickets, books, or other devices or methods prescribed by this title or by regulations under the authority of this title, or
+&emsp;(1) willfully fails to pay any tax imposed by this title which is payable by stamp, coupons, tickets, books, or other devices or methodsprescribed by this title or by regulations under the authority of this title, or
 
 &emsp;(2) willfully attempts in any manner to evade or defeat any such tax or the payment thereof,
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 85–866 effective Aug. 17, 1954, see section 1(c)(2) of Pu
 
 #### Repeal of Regulations Covering Substantiation by Adequate Contemporaneous Records
 
-Regulations issued before May 24, 1985, to carry out subsec. (h) of this section as added by section 179(b)(3)of Pub. L. 98–369 to have no force and effect, see section 1(c) of Pub. L. 99–44, set out as a note under section 274 of this title.
+Regulations issued before May 24, 1985, to carry out subsec. (h) of this section as added by section 179(b)(3) of Pub. L. 98–369 to have no force and effect, see section 1(c) of Pub. L. 99–44, set out as a note under section 274 of this title.
 
 #### Cross References
 

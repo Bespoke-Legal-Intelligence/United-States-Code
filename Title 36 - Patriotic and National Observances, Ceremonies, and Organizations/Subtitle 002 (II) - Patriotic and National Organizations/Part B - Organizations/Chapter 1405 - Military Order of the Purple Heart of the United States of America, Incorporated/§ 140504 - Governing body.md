@@ -34,5 +34,7 @@ Aug. 26, 1958, Pub. L. 85–761, §§7, 8, 72 Stat. 857.
 
 36:828.
 
+&nbsp;
+
 In subsection (a), the text of 36:827(a) is omitted as obsolete.
 

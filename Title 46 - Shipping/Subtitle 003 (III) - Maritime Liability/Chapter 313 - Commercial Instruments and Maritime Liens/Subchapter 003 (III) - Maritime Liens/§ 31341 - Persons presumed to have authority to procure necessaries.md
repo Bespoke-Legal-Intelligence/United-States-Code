@@ -36,7 +36,7 @@ Historical and Revision Notes
 
 46:972 (2d sentence)
 
-Section 31341(a) lists those persons who are presumed to have authority to procure necessaries for a vessel.These include the owner, master, or a manager at the port of supply; and an officer or agent appointed by the owner, charterer, owner <i>pro hac vice</i>, or buyer in possession of the vessel. This subsection makes no substantive change to law.
+Section 31341(a) lists those persons who are presumed to have authority to procure necessaries for a vessel. These include the owner, master, or a manager at the port of supply; and an officer or agent appointed by the owner, charterer, owner <i>pro hac vice</i>, or buyer in possession of the vessel. This subsection makes no substantive change to law.
 
 Section 31341(b) provides that any person that is tortiously or unlawfully in possession of or in charge of a vessel has no authority to procure necessaries. This subsection makes no substantive change to law.
 

@@ -126,6 +126,10 @@ Amendment by section 225(b) of Pub. L. 105–185 effective Oct. 1, 1999, see sec
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
 
+#### West Virginia State College, Institute, West Virginia
+
+Pub. L. 106–78, title I, Oct. 22, 1999, 113 Stat. 1140, provided in part that West Virginia State College in Institute, West Virginia: “for fiscal year 2000 and thereafter shall be designated as an eligible institution under section 1445 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3222)”.
+
 #### Grant for Dairy Goat Research Program
 
 Section 1432(b) of Pub. L. 97–98, as amended by Pub. L. 99–198, title XIV, §1432, Dec. 23, 1985, 99 Stat. 1557; Pub. L. 101–624, title XVI, §1601(c), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §887, Apr. 4, 1996, 110 Stat. 1180, authorized grant for dairy goat research, described uses for grant and times of payment, and authorized appropriations for fiscal years 1991 through 1997, prior to repeal by Pub. L. 105–185, title III, §302(b), June 23, 1998, 112 Stat. 563.

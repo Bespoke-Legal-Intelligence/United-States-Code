@@ -1,6 +1,6 @@
 ### §3010. Mailing of sexually oriented advertisements
 
-(a) Any person who mails or causes to be mailed any sexually oriented advertisement shall place on the envelope or cover thereof his name and address as the sender thereof and such mark or notice as the Postal Service may prescribe.
+(a) Any person who mails or causes to be mailed any sexually oriented advertisement shall place on the envelope or cover thereof his name and address as the sender thereof and suchmark or notice as the Postal Service may prescribe.
 
 (b) Any person, on his own behalf or on the behalf of any of his children who has not attained the age of 19 years and who resides with him or is under his care, custody, or supervision, may file with the Postal Service a statement, in such form and manner as the Postal Service may prescribe, that he desires to receive no sexually oriented advertisements through the mails. The Postal Service shall maintain and keep current, insofar as practicable, a list of the names and addresses of such persons and shall make the list (including portions thereof or changes therein) available to any person, upon such reasonable terms and conditions as it may prescribe, including the payment of such service charge as it determines to be necessary to defray the cost of compiling and maintaining the list and making it available as provided in this sentence. No person shall mail or cause to be mailed any sexually oriented advertisement to any individual whose name and address has been on the list for more than 30 days.
 

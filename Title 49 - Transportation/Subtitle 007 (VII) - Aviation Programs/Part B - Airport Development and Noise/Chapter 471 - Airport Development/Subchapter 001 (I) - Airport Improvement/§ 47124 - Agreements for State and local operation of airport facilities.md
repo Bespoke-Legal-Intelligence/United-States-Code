@@ -2,7 +2,7 @@
 
 (a)
 
-Government Relief From Liability.—The Secretary of Transportation shall ensure that anagreement under this subchapter with a State or a political subdivision of a State to allow the State or subdivision to operate an airport facility in the State or subdivision relieves the United States Government from any liability arising out of, or related to, acts or omissions of employees of the State or subdivision in operating the airport facility.
+Government Relief From Liability.—The Secretary of Transportation shall ensure that an agreement under this subchapter with a State or a political subdivision of a State to allow the State or subdivision to operate an airport facility in the State or subdivision relieves the United States Government from any liability arising out of, or related to, acts or omissions of employees of the State or subdivision in operating the airport facility.
 
 (b)
 

@@ -48,7 +48,7 @@ Staff members appointed pursuant to a request by minority members of a committee
 
 (2) Such assistance may be in the form of continuance of pay during periods of training or grants of funds to pay tuition, fees, or such other expenses of training, or both, as may be approved by the Committee on Rules and Administration or the Committee on House Administration, as the case may be.
 
-(3) A committee providing assistance under this subsection shall obtain from any employeereceiving such assistance such agreement with respect to continued employment with the committee as the committee may deem necessary to assure that it will receive the benefits of such employee's services upon completion of his training.
+(3) A committee providing assistance under this subsection shall obtain from any employee receiving such assistance such agreement with respect to continued employment with the committee as the committee may deem necessary to assure that it will receive the benefits of such employee's services upon completion of his training.
 
 (4) During any period for which an employee is separated from employment with a committee for the purpose of undergoing training under this subsection, such employee shall be considered to have performed service (in nonpay status) as an employee of the committee at the rate of compensation received immediately prior to commencing such training (including any increases in compensation provided by law during the period of training) for the purposes of—
 
@@ -92,7 +92,7 @@ Subsec. (i)(1). Pub. L. 104–186, §204(10), substituted “House Oversight” 
 
 Subsec. (i)(3). Pub. L. 104–186, §204(10)(A), substituted “House Oversight” for “House Administration”.
 
-Subsec. (j)(1). Pub. L. 104–186, §204(11), as amended by Pub. L. 105–55, §105(a), substituted “committee involved in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions, which, in the case of the Senate, shall specify the maximum amounts which may be used for such purpose, approved by the appropriate House” for “Committee on House Administration in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent funds of the respective Houses pursuant to resolutions, which shall specify the maximum amounts which may be used for such purpose, approved by such respective Houses” and “Chief Administrative Officer of the House of Representatives” for “Clerk of the House”.
+Subsec. (j)(1). Pub. L. 104–186, §204(11), as amended by Pub. L. 105–55, §105(a), substituted “committee involved in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions, which, in the case of the Senate, shall specify the maximum amounts which may be used for such purpose, approved by the appropriate House” for “Committee on House Administration in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent funds of the respective Houses pursuant toresolutions, which shall specify the maximum amounts which may be used for such purpose, approved by such respective Houses” and “Chief Administrative Officer of the House of Representatives” for “Clerk of the House”.
 
 1988—Subsec. (i)(1). Pub. L. 100–458 inserted “or with respect to the administration of the affairs of the committee” before period at end.
 
@@ -214,7 +214,7 @@ Sections 102 and 121 of act Aug. 2, 1946, in amending Rule XXV of the Standing R
 
 #### Office of Senate Security
 
-S. Res. 243, One Hundredth Congress, July 1, 1987, provided: “That (a) there is established, within the Office of the Secretary of the Senate (hereinafter referred to as the ‘Secretary’), the Office of Senate Security (hereinafter referred to as the ‘Office’), which shall be headed by a Director of Senate Security (hereinafter referred to as the ‘Director’). The Office shall be under the policy direction of the Majority and Minority Leaders of the Senate, and shall be under the administrative direction and supervision of the Secretary.
+S. Res. 243, One Hundredth Congress, July 1, 1987, provided: “That (a) there is established, within the Office of the Secretary of the Senate (hereinafter referred toas the ‘Secretary’), the Office of Senate Security (hereinafter referred to as the ‘Office’), which shall be headed by a Director of Senate Security (hereinafter referred to as the ‘Director’). The Office shall be under the policy direction of the Majority and Minority Leaders of the Senate, and shall be under the administrative direction and supervision of the Secretary.
 
 “(b)(1) The Director shall be appointed by the Secretary after consultation with the Majority and Minority Leaders. The Secretary shall fix the compensation of the Director. Any appointment under this subsection shall be made solely on the basis of fitness to perform the duties of the position and without regard to political affiliation.
 

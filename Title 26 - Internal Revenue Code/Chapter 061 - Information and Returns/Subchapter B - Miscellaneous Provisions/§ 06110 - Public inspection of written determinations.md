@@ -10,11 +10,11 @@ For purposes of this section—
 
 #### (1) Written determination
 
-&emsp;The term “written determination” means a ruling, determination letter, technical advice memorandum, or Chief Counsel advice.
+&emsp;The term “written determination” means a ruling, determination letter, technical advice memorandum, or Chief Counsel advice. Such term shall not include any advance pricing agreement entered into by a taxpayer and the Secretary and any background information related to such agreement or any application for an advance pricing agreement.
 
 #### (2) Background file document
 
-&emsp;The term “background file document” with respect to a written determination includes the request for that written determination, any written material submitted in support of the request, and any communication (written or otherwise) between the Internal RevenueService and persons outside the Internal Revenue Service in connection with such written determination (other than any communication between the Department of Justice and the Internal Revenue Service relating to a pending civil or criminal case or investigation) received before issuance of the written determination.
+&emsp;The term “background file document” with respect to a written determination includes the request for that written determination, any written material submitted in support of the request, and any communication (written or otherwise) between the Internal Revenue Service and persons outside the Internal Revenue Service in connection with such written determination (other than any communication between the Department of Justice and the Internal Revenue Service relating to a pending civil or criminal case or investigation) received before issuance of the written determination.
 
 #### (3) Reference and general written determinations
 
@@ -28,7 +28,7 @@ For purposes of this section—
 
 #### (c) Exemptions from disclosure
 
-Before making any written determination or background file document open or available to public inspection under subsection (a), the Secretary shall delete—
+Before making any written determination or background file document open or available topublic inspection under subsection (a), the Secretary shall delete—
 
 &emsp;(1) the names, addresses, and other identifying details of the person to whom the written determination pertains and of any other person, other than a person with respect to whom a notation is made under subsection (d)(1), identified in the written determination or any background file document;
 
@@ -218,7 +218,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (B) Revenue provision defined
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “revenue provision” means any existing or former internal revenue law, regulation, revenue ruling, revenue procedure, other published or unpublished guidance, or tax treaty, either in general or as applied to specific taxpayers or groups of specific taxpayers.
+&emsp;&emsp;For purposes of subparagraph (A), the term “revenue provision” means any existing orformer internal revenue law, regulation, revenue ruling, revenue procedure, other published or unpublished guidance, or tax treaty, either in general or as applied to specific taxpayers or groups of specific taxpayers.
 
 #### (2) Additional documents treated as Chief Counsel advice
 
@@ -308,7 +308,7 @@ This section shall not apply to—
 
 Except as otherwise provided in this title, or with respect to a discovery order made in connection with a judicial proceeding, the Secretary shall not be required by any Court to make any written determination or background file document open or available to public inspection, or to refrain from disclosure of any such documents.
 
-(Added Pub. L. 94–455, title XII, §1201(a), Oct. 4, 1976, 90 Stat. 1660; amended Pub. L. 97–164, title I, §160(a)(9), Apr. 2, 1982, 96 Stat. 48; Pub. L. 98–620, title IV, §402(28)(B), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 105–206, title III, §3509(a)–(c), July 22, 1998, 112 Stat. 772, 773.)
+(Added Pub. L. 94–455, title XII, §1201(a), Oct. 4, 1976, 90 Stat. 1660; amended Pub. L. 97–164, title I, §160(a)(9), Apr. 2, 1982, 96 Stat. 48; Pub. L. 98–620, title IV, §402(28)(B), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 105–206, title III, §3509(a)–(c), July 22, 1998, 112 Stat. 772, 773; Pub. L. 106–170, title V, §521(a)(2), Dec. 17, 1999, 113 Stat. 1925.)
 
 #### References in Text
 
@@ -319,6 +319,8 @@ The Internal Revenue Code of 1939, referred to in subsec. (h)(3)(C), is act Feb.
 A prior section 6110 was renumbered 6116 of this title.
 
 #### Amendments
+
+1999—Subsec. (b)(1). Pub. L. 106–170 inserted at end “Such term shall not include any advance pricing agreement entered into by a taxpayer and the Secretary and any background information related to such agreement or any application for an advance pricing agreement.”
 
 1998—Subsec. (b)(1). Pub. L. 105–206, §3509(a), substituted “technical advice memorandum, or Chief Counsel advice” for “or technical advice memorandum”.
 
@@ -368,7 +370,7 @@ Documents treated as chief counsel advice.—If the Secretary of the Treasury by
 
 “(4)
 
-Chief counsel advice to be available electronically.—The Internal Revenue Service shall make any Chief Counsel advice issued more than 90 days after the date of the enactment of this Act \[July 22, 1998\] and made available for public inspection pursuant to section 6110 of such Code, as amended by this section, also available by computer telecommunications within 1 year after issuance.”
+Chief counsel advice to be available electronically.—The Internal Revenue Service shall make any Chief Counsel advice issued more than 90 days after the date of the enactment of this Act \[July 22, 1998\] andmade available for public inspection pursuant to section 6110 of such Code, as amended by this section, also available by computer telecommunications within 1 year after issuance.”
 
 #### Effective Date of 1992 Amendment
 

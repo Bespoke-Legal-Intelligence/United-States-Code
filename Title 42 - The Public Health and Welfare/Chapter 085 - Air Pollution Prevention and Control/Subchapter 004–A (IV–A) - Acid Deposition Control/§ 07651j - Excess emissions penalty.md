@@ -24,7 +24,7 @@ Nothing in this subchapter shall limit or otherwise affect the application of se
 
 #### References in Text
 
-The Miscellaneous Receipts Act, referred to in subsec. (a), is not a recognized popular name for an act.For provisions relating to deposit of monies, see section 3302 of Title 31, Money and Finance.
+The Miscellaneous Receipts Act, referred to in subsec. (a), is not a recognized popular name for an act. For provisions relating to deposit of monies, see section 3302 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,7 @@ The Secretary shall establish and maintain within the Department the Rural Utili
 
 #### (1) Appointment
 
-&emsp;The Rural Utilities Service shall be headed by an Administrator who shall be appointed bythe President, by and with the advice and consent of the Senate.
+&emsp;The Rural Utilities Service shall be headed by an Administrator who shall be appointed by the President, by and with the advice and consent of the Senate.
 
 #### (2) Succession
 

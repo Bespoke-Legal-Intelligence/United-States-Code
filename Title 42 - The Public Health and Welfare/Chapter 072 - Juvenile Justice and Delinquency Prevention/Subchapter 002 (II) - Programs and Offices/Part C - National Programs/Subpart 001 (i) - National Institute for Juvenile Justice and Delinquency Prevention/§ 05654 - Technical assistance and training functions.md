@@ -24,7 +24,7 @@ Par. (3). Pub. L. 102–586, §2(g)(3)(B)(i), inserted “prosecutors and defens
 
 Par. (5). Pub. L. 102–586, §2(g)(3)(B)(ii), (C), (D), added par. (5).
 
-1988—Pub. L. 100–690, §7262(1), amended section catchline generally, substituting “Technical assistance andtraining functions” for “Training function of Institute”.
+1988—Pub. L. 100–690, §7262(1), amended section catchline generally, substituting “Technical assistance and training functions” for “Training function of Institute”.
 
 Pub. L. 100–690, §7262(2), substituted “Administrator, acting through the National Institute for Juvenile Justice and Delinquency Prevention” for “National Institute for Juvenile Justice and Delinquency Prevention”.
 
@@ -32,7 +32,7 @@ Par. (1). Pub. L. 100–690, §7262(6), added par. (1). Former par. (1) redesign
 
 Par. (2). Pub. L. 100–690, §7262(5), redesignated par. (1) as (2). Former par. (2) redesignated (3).
 
-Par. (3). Pub. L. 100–690, §7262(3)–(5), redesignated par. (2) as (3), inserted “and” at end, and struck out former par. (3) which authorized the Institute to devise and conduct a training program, in accordance with the provisions of sections 5659, 5660, and 5661 of this title, of short-term instruction in the latest proven-effective methods of prevention, control, and treatment of juvenile delinquency for correctional and law enforcement personnel, teachers and special education personnel, family counselors, child welfare workers, juvenile judges and judicial personnel, probation personnel (including volunteer lay personnel), persons associated with law-related education, youth workers, and organizations with specific experience in the prevention and treatment of juvenile delinquency.
+Par. (3). Pub. L. 100–690, §7262(3)–(5), redesignated par. (2) as (3), inserted “and” at end, and struck out former par. (3) which authorized the Institute to devise and conduct a training program, in accordance with the provisions of sections 5659, 5660, and 5661 of this title, of short-term instruction in the latest proven-effective methods of prevention, control, and treatment of juvenile delinquency for correctional and law enforcement personnel, teachers and special education personnel,family counselors, child welfare workers, juvenile judges and judicial personnel, probation personnel (including volunteer lay personnel), persons associated with law-related education, youth workers, and organizations with specific experience in the prevention and treatment of juvenile delinquency.
 
 1984—Par. (1). Pub. L. 98–473, §633(1), substituted “working with or” for “or who are” and “juvenile offenders, and their families” for “and juvenile offenders”.
 

@@ -54,7 +54,7 @@
 
 &emsp;Except as provided in paragraph (6), the Board may not approve an application under paragraph (1) unless it determines that—
 
-&emsp;&emsp;(A) the foreign bank engages directly in the business of banking outside of the United States and is subject to comprehensive supervision or regulation on a consolidated basis by the appropriate authorities in its home country; and
+&emsp;&emsp;(A) the foreign bank engages directly in the business of banking outside of theUnited States and is subject to comprehensive supervision or regulation on a consolidated basis by the appropriate authorities in its home country; and
 
 &emsp;&emsp;(B) the foreign bank has furnished to the Board the information it needs to adequately assess the application.
 
@@ -178,7 +178,7 @@
 
 &emsp;&emsp;(C) against which the Comptroller of the Currency has issued an order under section 3102(i) of this title,
 
-> &emsp;may obtain a review of such order in the United States court of appeals for any circuit in which such foreign bank operates a branch, agency, or commercial lending company that has been required by such order to terminateits activities, or in the United States Court of Appeals for the District of Columbia Circuit, by filing a petition for review in the court before the end of the 30-day period beginning on the date the order was issued.
+> &emsp;may obtain a review of such order in the United States court of appeals for any circuit in which such foreign bank operates a branch, agency, or commercial lending company that has been required by such order to terminate its activities, or in the United States Court of Appeals for the District of Columbia Circuit, by filing a petition for review in the court before the end of the 30-day period beginning on the date the order was issued.
 
 #### (2) Scope of judicial review
 
@@ -262,13 +262,13 @@ Not later than 180 days after December 19, 1991, the Board and the Secretary of 
 
 #### References in Text
 
-Section 371b–1 of this title, referred to in subsec. (a)(1)(A), was repealed by Pub. L. 96–221, title V, §529,Mar. 31, 1980, 94 Stat. 168, subject to a savings provision.
+Section 371b–1 of this title, referred to in subsec. (a)(1)(A), was repealed by Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168, subject to a savings provision.
 
 Sections 461, 463, 464, 465, and 466 of this title, referred to in subsec. (a)(1)(A), was in the original “section 19 of the Federal Reserve Act.” Provisions of section 19 relating to minimum and maximum reserve ratios are classified to the cited sections. For complete classification of section 19 to the Code, see References in Text note set out under section 461 of this title.
 
 For definition of “this chapter”, referred to in subsecs. (d)(3)(C), (4) and (e)(1), see References in Text note set out under section 3101 of this title.
 
-The Bank Holding Company Act of 1956, referred to in subsecs. (d)(3)(C) and (e)(1)(B)(ii), is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+The Bank Holding Company Act of 1956, referred to in subsecs. (d)(3)(C) and (e)(1)(B)(ii), is act May 9, 1956, ch.240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
 The Federal Deposit Insurance Act, referred to in subsec. (e)(1)(B)(ii), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 

@@ -2,7 +2,7 @@
 
 #### (a) Deduction allowed
 
-There shall be allowed as a deduction moving expenses paid or incurred during the taxable year in connection with the commencement of work by the taxpayer as an employee or as aself-employed individual at a new principal place of work.
+There shall be allowed as a deduction moving expenses paid or incurred during the taxable year in connection with the commencement of work by the taxpayer as an employee or as a self-employed individual at a new principal place of work.
 
 #### (b) Definition of moving expenses
 
@@ -44,7 +44,7 @@ No deduction shall be allowed under this section unless—
 
 &emsp;&emsp;(A) death or disability, or
 
-&emsp;&emsp;(B) involuntary separation (other than for willful misconduct) from the service of, or transfer for the benefit of, an employer after obtaining full-time employment in which the taxpayer could reasonably have been expected to satisfy such condition.
+&emsp;&emsp;(B) involuntary separation (other than for willful misconduct) from the service of, or transfer for the benefit of, an employer afterobtaining full-time employment in which the taxpayer could reasonably have been expected to satisfy such condition.
 
 &emsp;(2) If a taxpayer has not satisfied the condition of subsection (c)(2) before the time prescribed by law (including extensions thereof) for filing the return for the taxable year during which he paid or incurred moving expenses which would otherwise be deductible under this section, but may still satisfy such condition, then such expenses may (at the election of the taxpayer) be deducted for such taxable year notwithstanding subsection (c)(2).
 

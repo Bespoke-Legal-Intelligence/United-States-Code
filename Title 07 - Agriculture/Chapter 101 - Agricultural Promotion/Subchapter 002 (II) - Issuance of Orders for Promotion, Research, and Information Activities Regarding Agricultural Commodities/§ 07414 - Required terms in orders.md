@@ -44,13 +44,13 @@ Each order shall contain the terms and conditions specified in this section.
 
 #### (B) Meetings
 
-&emsp;&emsp;Each board shall provide the Secretary with prior notice of meetings of the board topermit the Secretary, or a designated representative of the Secretary, to attend the meetings.
+&emsp;&emsp;Each board shall provide the Secretary with prior notice of meetings of the board to permit the Secretary, or a designated representative of the Secretary, to attend the meetings.
 
 #### (5) Term of office
 
 #### (A) In general
 
-&emsp;&emsp;The members and any alternates of a board shall each serve for a term of 3 years, except that the members and any alternates initially appointed to a board shall serve for terms of not more than 2, 3, and 4 years, as specified by the order.
+&emsp;&emsp;The members and any alternates of a board shall each serve for a term of 3 years,except that the members and any alternates initially appointed to a board shall serve for terms of not more than 2, 3, and 4 years, as specified by the order.
 
 #### (B) Limitation on consecutive terms
 

@@ -38,13 +38,19 @@ Oct. 23, 1992, Pub. L. 102–484, title XVIII, §1829, 106 Stat. 2585.
 
 36:5109(a).
 
+&nbsp;
+
 190308(c)
 
 36:5109(b).
 
+&nbsp;
+
 190308(d)
 
 36:5109(d).
+
+&nbsp;
 
 In subsection (a), the words “any shares of” are omitted as unnecessary.
 

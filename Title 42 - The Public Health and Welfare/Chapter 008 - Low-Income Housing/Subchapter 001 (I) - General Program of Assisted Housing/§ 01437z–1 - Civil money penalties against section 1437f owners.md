@@ -50,7 +50,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If a hearing is not requested before the expiration of the 15-day period beginning onthe date on which the notice of opportunity for hearing is received, the imposition of a penalty under subsection (b) of this section shall constitute a final and unappealable determination.
+&emsp;&emsp;If a hearing is not requested before the expiration of the 15-day period beginning on the date on which the notice of opportunity for hearing is received, the imposition of a penalty under subsection (b) of this section shall constitute a final and unappealable determination.
 
 #### (B) Effect of review
 
@@ -98,7 +98,7 @@ Judicial review of determinations made under this section shall be carried out i
 
 #### (B) Fees and expenses
 
-&emsp;&emsp;Any monetary judgment awarded in an action brought under this paragraph may, in the discretion of the court, include the attorney's fees and other expenses incurred by the United States in connection with the action.
+&emsp;&emsp;Any monetary judgment awarded in an action brought under this paragraph may, inthe discretion of the court, include the attorney's fees and other expenses incurred by the United States in connection with the action.
 
 #### (2) Nonreviewability of determination or order
 

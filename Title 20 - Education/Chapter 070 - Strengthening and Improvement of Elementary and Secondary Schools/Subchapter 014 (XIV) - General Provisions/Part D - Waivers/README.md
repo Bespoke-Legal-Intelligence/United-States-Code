@@ -4,6 +4,8 @@ Part D—Waivers
 
 This part is referred to in section 8802 of this title.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

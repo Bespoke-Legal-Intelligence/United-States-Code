@@ -18,7 +18,7 @@ Not later than twelve months after November 8, 1984, the Administrator shall pro
 
 &emsp;(i) either—
 
-&emsp;&emsp;(I) enters into an agreement or other arrangement (including an agreement or arrangement with an independent transporter or with an agent of the recycler) for delivery of such used oil to a recycling facility which has a permit under section 6925(c) of this title (or for which a valid permit is deemed to be in effect under subsection (d) of this section), or
+&emsp;&emsp;(I) enters into an agreement or other arrangement (including an agreement or arrangement with an independent transporter or with an agent of the recycler) for delivery of such used oil to a recycling facility whichhas a permit under section 6925(c) of this title (or for which a valid permit is deemed to be in effect under subsection (d) of this section), or
 
 &emsp;&emsp;(II) recycles such used oil at one or more facilities of the generator which has such a permit under section 6925 of this title (or for which a valid permit is deemed to have been issued under subsection (d) of this section);
 

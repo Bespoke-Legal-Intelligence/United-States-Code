@@ -62,7 +62,7 @@ Section 704 of Pub. L. 104–264 provided that:
 
 “(a)
 
-Establishment.—The Secretary of Transportation, in cooperation with the National Transportation Safety Board, the Federal Emergency Management Agency, the American Red Cross, air carriers, and families which have been involved in aircraft accidents shall establish a task force consisting of representatives of such entities and families, representatives of air carrier employees, and representatives of such other entities as the Secretary considers appropriate.
+Establishment.—The Secretary of Transportation, in cooperation with the National Transportation Safety Board, the Federal Emergency Management Agency, the American Red Cross, air carriers, and families which have been involved in aircraft accidentsshall establish a task force consisting of representatives of such entities and families, representatives of air carrier employees, and representatives of such other entities as the Secretary considers appropriate.
 
 “(b)
 

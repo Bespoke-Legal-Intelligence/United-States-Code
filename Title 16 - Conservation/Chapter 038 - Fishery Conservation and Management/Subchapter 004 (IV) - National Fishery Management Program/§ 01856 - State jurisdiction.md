@@ -152,6 +152,10 @@ Pub. L. 99–509, title V, §5004, Oct. 21, 1986, 100 Stat. 1912, provided that 
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
+#### Contiguous Zone of United States
+
+For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1857 of this title.

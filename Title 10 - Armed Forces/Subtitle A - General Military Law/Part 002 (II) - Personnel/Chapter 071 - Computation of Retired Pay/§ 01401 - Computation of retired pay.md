@@ -22,7 +22,7 @@ Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—The mo
 
 Use of Most Favorable Formula.—If a person would otherwise be entitled to retired pay computed under more than one formula of the table in subsection (a) or of any other provision of law, the person is entitled to be paid under the applicable formula that is most favorable to him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 106; Pub. L. 85–422, §§6(7), 11(a)(2), May 20, 1958, 72 Stat. 129, 131; Pub. L. 88–132, §5(h)(1), Oct. 2, 1963, 77 Stat. 214; Pub. L. 89–132, §6, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–207, §3(1), Dec. 16, 1967, 81 Stat. 653; Pub. L. 92–455, §1, Oct. 2, 1972, 86 Stat. 761; Pub. L. 96–342, title VIII, §813(b)(1), Sept. 8, 1980, 94Stat. 1102; Pub. L. 96–513, title I, §113(a), title V, §511(49), Dec. 12, 1980, 94 Stat. 2876, 2924; Pub. L. 98–94, title IX, §§922(a)(1), 923(a)(1), (2)(A), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 98–557, §35(b), Oct. 30, 1984, 98 Stat. 2877; Pub. L. 99–348, title II, §201(a), July 1, 1986, 100 Stat. 691; Pub. L. 102–484, div. A, title X, §1052(18), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–337, div. A, title XVI, §1662(j)(2), Oct. 5, 1994, 108 Stat. 3004.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 106; Pub. L. 85–422, §§6(7), 11(a)(2), May 20, 1958, 72 Stat. 129, 131; Pub. L. 88–132, §5(h)(1), Oct. 2, 1963, 77 Stat. 214; Pub. L. 89–132, §6, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–207, §3(1), Dec. 16, 1967, 81 Stat. 653; Pub. L. 92–455, §1, Oct. 2, 1972, 86 Stat. 761; Pub. L. 96–342, title VIII, §813(b)(1), Sept. 8, 1980, 94 Stat. 1102; Pub. L. 96–513, title I, §113(a), title V, §511(49), Dec. 12, 1980, 94 Stat. 2876, 2924; Pub. L. 98–94, title IX, §§922(a)(1), 923(a)(1), (2)(A), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 98–557, §35(b), Oct. 30, 1984, 98 Stat. 2877; Pub. L. 99–348, title II, §201(a), July 1, 1986, 100 Stat. 691; Pub. L. 102–484, div. A, title X, §1052(18), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–337, div. A, title XVI, §1662(j)(2), Oct. 5, 1994, 108 Stat. 3004.)
 
 Historical and Revision Notes
 
@@ -140,7 +140,7 @@ Pub. L. 98–94, §923(a)(1), (2)(A), in footnote 3 of table, substituted “Bef
 
 1980—Pub. L. 96–513, §113(a), inserted formula 5 in table of formulae set out in the section and added footnote 5.
 
-Pub. L. 96–513, §511(49), in formula 4 table of sections struck out reference to section 1255, in heading for Column 1 substituted reference to Sept. 7, 1980, for reference to date of enactment of Department of Defense Authorization Act, 1981, and in footnote 4 substituted reference to master chief petty officer of the Navy, for reference to senior enlisted advisor of the Navy.
+Pub. L. 96–513, §511(49), in formula 4 table of sections struck out reference to section 1255, in heading for Column 1 substituted reference to Sept. 7, 1980, for reference to date of enactment of Department of DefenseAuthorization Act, 1981, and in footnote 4 substituted reference to master chief petty officer of the Navy, for reference to senior enlisted advisor of the Navy.
 
 Pub. L. 96–342 in heading for column 1 of table inserted provisions respecting applicability to persons becoming members after the date of the enactment of the Department of Defense Authorization Act, 1981.
 
@@ -200,13 +200,17 @@ Section 1(a) of Pub. L. 99–348 provided that: “This Act \[enacting sections 
 
 Pub. L. 97–252, title X, §1001, Sept. 8, 1982, 96 Stat. 730, provided that: “This title \[enacting section 1408 of this title, amending sections 1072, 1076, 1086, 1447, 1448, and 1450 of this title, and enacting provisions set out as notes under sections 1408 and 2208 of this title\] may be cited as the ‘Uniformed Services Former Spouses’ Protection Act’.”
 
+#### Recomputation of Retired Pay for Certain Recently Retired Officers
+
+Pub. L. 106–65, div. A, title VI, §601(e), Oct. 5, 1999, 113 Stat. 648, provided that: “In the case of a commissioned officer of the uniformed services who retired during the period beginning on April 30, 1999, through December 31, 1999, and who, at the time of retirement, was in pay grade O–7, O–8, O–9, or O–10, the retired pay of that officer shall be recomputed, effective as of January 1, 2000, using the rate of basic pay that would have been applicable to the computation of that officer's retired pay if the provisions of paragraph (2) of section 203(a) of title 37, United States Code, as added by subsection (d), had taken effect on April 30, 1999.”
+
 #### Six-Month Rounding Rule
 
 Section 305(b) of Pub. L. 99–348 provided that:
 
 “(1)
 
-General rule.—Retired pay or retainer pay may not be paid to a covered member of the Armed Forces (as defined in paragraph (3)) for any month in an amount that is greater than the amount otherwise determined to be payable after such reductions as may be necessary to reflect adjusting the computation of retired pay or retainer pay that includes credit for a partof a year of service to permit credit for a part of a year of service only for such month or months actually served.
+General rule.—Retired pay or retainer pay may not be paid to a covered member of the Armed Forces (as defined in paragraph (3)) for any month in an amount that is greater than the amount otherwise determined to be payable after such reductions as may be necessary to reflect adjusting the computation of retired pay or retainer pay that includes credit for a part of a year of service to permit credit for a part of a year of service only for such month or months actually served.
 
 “(2)
 
@@ -276,11 +280,11 @@ Section 4 of Pub. L. 85–422, as amended by Pub. L. 85–855, §1(a), Aug. 28, 
 
 “(c) Section 5 of the Career Incentive Act of 1955 (69 Stat. 22) does not apply to any person who is retired, or to whom retired pay, retirement pay, retainer pay, or equivalent pay (including temporary disability retired pay) is granted, on or after the effective date of this Act \[June 1, 1958\]”.
 
-Section 1(b) of Pub. L. 85–855 provided that the amendment of section 4(a) of Pub. L. 85–422, whicheliminated the words “and persons with two or less years of service for basic pay purposes who were retired for physical disability or placed on the temporary disability retired list” preceding “members and former members” should be effective June 1, 1958.
+Section 1(b) of Pub. L. 85–855 provided that the amendment of section 4(a) of Pub. L. 85–422, which eliminated the words “and persons with two or less years of service for basic pay purposes who were retired for physical disability or placed on the temporary disability retired list” preceding “members and former members” should be effective June 1, 1958.
 
 #### Public Health Service
 
-Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
+Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretaryof Defense” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
 
 #### National Oceanic and Atmospheric Administration
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), the Secretary is authorized to acquire lands, waters,and interests in lands and waters within the boundaries of the Preserve by donation, purchase with donated or appropriated funds, or exchange.
+&emsp;Subject to paragraphs (2) and (3), the Secretary is authorized to acquire lands, waters, and interests in lands and waters within the boundaries of the Preserve by donation, purchase with donated or appropriated funds, or exchange.
 
 #### (2) Consent of the owner
 
@@ -32,7 +32,7 @@
 
 #### (3) Acquisition deadline
 
-&emsp;The Secretary shall substantially complete the acquisition of the lands, waters, and interests in lands and waters within the Preserve, in accordance with the purposes of sections 698q to 698t of this title, not later than 2 years after October 21, 1992, subject to the availability of funds.
+&emsp;The Secretary shall substantially complete the acquisition of the lands, waters, and interests in lands and waters within the Preserve, in accordance with the purposes of sections 698q to 698t of this title, not later than 2 yearsafter October 21, 1992, subject to the availability of funds.
 
 #### (c) Environmental audits
 

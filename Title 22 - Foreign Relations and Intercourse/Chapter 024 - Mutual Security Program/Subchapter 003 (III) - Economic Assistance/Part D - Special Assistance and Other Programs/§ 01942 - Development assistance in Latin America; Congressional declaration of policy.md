@@ -12,7 +12,7 @@
 
 &emsp;(5) there is a need for a plan of hemispheric development, open to all American Republics which cooperate in such plan, based upon a strong production effort, the expansion of foreign trade, the creation and maintenance of internal financial stability, the growth of free economic and social institutions, and the development of economic cooperation, including all possible steps to establish and maintain equitable rates of exchange and to bring about the progressive elimination of trade barriers;
 
-&emsp;(6) mindful of the advantages which the United States has enjoyed through the existence of a large domestic market with no internal trade barriers, and believing that similar advantages can accrue to all countries, it is the hope of the people of the United States that all American Republics will jointly exert sustained common efforts which will speedily achieve that economic cooperation in the Western Hemisphere which is essential for lasting peace and prosperity; and
+&emsp;(6) mindful of the advantages which the United States has enjoyed through the existence of a large domestic market with no internal trade barriers, and believing that similaradvantages can accrue to all countries, it is the hope of the people of the United States that all American Republics will jointly exert sustained common efforts which will speedily achieve that economic cooperation in the Western Hemisphere which is essential for lasting peace and prosperity; and
 
 &emsp;(7) accordingly, it is declared to be the policy of the people of the United States to sustain and strengthen principles of individual liberty, free institutions, private enterprise, and genuine independence in the Western Hemisphere through cooperation with all American Republics which participate in a joint development program based upon self-help and mutual efforts.
 
@@ -61,6 +61,8 @@ Pub. L. 93–189, §36, Dec. 17, 1973, 87 Stat. 734, as amended by Pub. L. 97–
 “(d) The revision of the Social Progress Trust Fund Agreement pursuant to this section shall provide that the President or his delegate shall specify, from time to time, after consultation with the Inter-American Development Bank, the particular currencies to be used in making the transfer or utilization described in this section.
 
 “(e) \[Repealed. Pub. L. 97–113, title VII, §734(a)(9), Dec. 29, 1981, 95 Stat. 1560\].”
+
+\[For amendment of provisions of section 36 of Pub. L. 93–189, set out above, see Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(h)(2), (j)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–120, set out in an Abolition of the Inter-American Foundation note under section 290f of this title.\]
 
 #### Section Referred to in Other Sections
 

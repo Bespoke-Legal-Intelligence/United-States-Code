@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(D) local educational agencies with the highest, or second highest, school-age child poverty rate, in comparison to all other local educational agencies in the State.
 
-> &emsp;For purposes of subparagraph (D), the term “school-age child poverty rate” means the number of children counted under section 6333(c) of this title who are living within thegeographic boundaries of the local educational agency, expressed as a percentage of the total number of children aged 5–17 years living within the geographic boundaries of the local educational agency.
+> &emsp;For purposes of subparagraph (D), the term “school-age child poverty rate” means the number of children counted under section 6333(c) of this title who are living within the geographic boundaries of the local educational agency, expressed as a percentage of the total number of children aged 5–17 years living within the geographic boundaries of the local educational agency.
 
 #### (2) Notification
 
@@ -28,7 +28,7 @@
 
 #### (B) To providers and parents
 
-&emsp;&emsp;Not later than 30 days after the date on which the State educational agency provides notice under subparagraph (A), each local educational agency described in paragraph (1) shall, as a condition on the agency's receipt of funds made available under subchapter I of this chapter, provide public notice to potential providers of tutorial assistance operating in the jurisdiction of the agency, and parents residing in such jurisdiction, regarding the availability of the subgrants under this section.
+&emsp;&emsp;Not later than 30 days after the date on which the State educational agency provides notice under subparagraph (A), each local educational agency described in paragraph (1) shall, as a condition on the agency's receipt of funds made available under subchapter I of this chapter, provide public notice to potential providers of tutorial assistance operating in the jurisdiction of theagency, and parents residing in such jurisdiction, regarding the availability of the subgrants under this section.
 
 #### (3) Application
 
@@ -72,7 +72,7 @@
 
 &emsp;&emsp;&emsp;(i) give priority to children who are determined, through State or local reading assessments, to be most in need of tutorial assistance; and
 
-&emsp;&emsp;&emsp;(ii) give priority, in cases where children are determined, through State or local reading assessments, to be equally in need of tutorial assistance, based on a random selection principle.
+&emsp;&emsp;&emsp;(ii) give priority, in cases where children are determined, through State or local reading assessments, to be equally in needof tutorial assistance, based on a random selection principle.
 
 &emsp;&emsp;(F) The development of a methodology by which payments are made directly to tutorial assistance providers who are identified and selected pursuant to this section and selected for funding. Such methodology shall include the making of a contract, consistent with State and local law, between the provider and the local educational agency. Such contract shall satisfy the following requirements:
 

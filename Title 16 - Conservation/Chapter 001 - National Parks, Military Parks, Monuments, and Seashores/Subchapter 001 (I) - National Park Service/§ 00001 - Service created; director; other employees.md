@@ -6,7 +6,7 @@ There is created in the Department of the Interior a service to be called the Na
 
 #### Codification
 
-Provisions relating to the pay of certain employees have been omitted as the pay of the employees is fixed pursuant to chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees.
+Provisions relating to the pay of certain employees have been omitted as the pay of the employees is fixedpursuant to chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -20,7 +20,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Effective Date of 1996 Amendment
 
-Section 814(e)(2) of div. I of Pub. L. 104–333 provided that: “The amendment made by subsection (a) \[probably should be “paragraph (1)”, which amended thissection\] shall take effect on February 1, 1997, and shall apply with respect to the individual (if any) serving as the Director of the National Park Service on that date.”
+Section 814(e)(2) of div. I of Pub. L. 104–333 provided that: “The amendment made by subsection (a) \[probably should be “paragraph (1)”, which amended this section\] shall take effect on February 1, 1997, and shall apply with respect to the individual (if any) serving as the Director of the National Park Service on that date.”
 
 #### Short Title of 1998 Amendment
 
@@ -68,7 +68,7 @@ Pub. L. 99–570, title V, subtitle B (§§5051, 5052), Oct. 27, 1986, 100 Stat.
 
 #### “SEC. 5052. NATIONAL PARK AUTHORIZATION.
 
-“In order to improve Federal law enforcement activities relating to the use and production of narcotics and controlled substances in National Park System units, from amounts appropriated there shall be made available to the Secretary of the Interior, in addition to sums made available under other authority of law, $3,000,000 for fiscal year 1989, and for each fiscal year thereafter, to be used for the employment and training of officers or employees of the Department of the Interior designated pursuant to section 10(b) of the Act of August 18, 1970 (16 U.S.C. 1a–6), for equipment and facilities to be used by such personnel, and for expenses related to such employment, training, equipment, and facilities.”
+“In order to improve Federal law enforcement activities relating to the use and production of narcotics andcontrolled substances in National Park System units, from amounts appropriated there shall be made available to the Secretary of the Interior, in addition to sums made available under other authority of law, $3,000,000 for fiscal year 1989, and for each fiscal year thereafter, to be used for the employment and training of officers or employees of the Department of the Interior designated pursuant to section 10(b) of the Act of August 18, 1970 (16 U.S.C. 1a–6), for equipment and facilities to be used by such personnel, and for expenses related to such employment, training, equipment, and facilities.”
 
 #### Codification of Laws Relating to United States Park Police; Feasibility Study and Report by Secretary of the Interior
 
@@ -76,7 +76,7 @@ Pub. L. 94–533, §3, Oct. 17, 1976, 90 Stat. 2494, directed Secretary of the I
 
 #### National Park Centennial Commission
 
-Pub. L. 91–332, July 10, 1970, 84 Stat. 427, provided that 1972 was to be designated by President as “National Parks Centennial Year”, in recognition in 1872 of establishment of world's first national park at Yellowstone. There was also established a National Park Centennial Commission, composed of four members of Senate, four members of House, Secretary of the Interior, and six persons to be appointed by President. The Commissionwas empowered to prepare a suitable plan for commemoration of establishment of Yellowstone, to coordinate all activities under such plan, and to provide host services for a world conference on National Parks in 1972. The Commission was to submit a final report of its activities, including an accounting of funds received and expended, to Congress, not later than Dec. 31, 1973, and was to cease to exist upon submission of said report.
+Pub. L. 91–332, July 10, 1970, 84 Stat. 427, provided that 1972 was to be designated by President as “National Parks Centennial Year”, in recognition in 1872 of establishment of world's first national park at Yellowstone. There was also established a National Park Centennial Commission, composed of four members of Senate, four members of House, Secretary of the Interior, and six persons to be appointed by President. The Commission was empowered to prepare a suitable plan for commemoration of establishment of Yellowstone, to coordinate all activities under such plan, and to provide host services for a world conference on National Parks in 1972. The Commission was to submit a final report of its activities, including an accounting of funds received and expended, to Congress, not later than Dec. 31, 1973, and was to cease to exist upon submission of said report.
 
 #### Cross References
 
@@ -84,5 +84,5 @@ Uniform application of this section to all areas of national park system when no
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1a–1, 1c, 3, 4, 21b, 45f, 79i, 80d, 81g, 81h, 90c, 108, 111c, 119, 158, 159b, 160f, 197, 201b, 205a, 221b, 222, 230e, 231c, 245, 254, 264, 271d, 272d, 273d, 281d, 282a, 283c, 284a, 291b, 342, 345, 346a–2, 355a, 391b–1, 396b, 396d, 397d, 398c, 401, 403–3, 403b, 404b, 406d–2, 407a, 407q, 408b, 409e, 410b, 410r–7, 410w, 410y–5, 410z–4, 410aa–2, 410bb–1, 410ee, 410ff–3, 410gg–2, 410hh–2, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410mm–1, 410nn–1, 410<i>oo</i>–3, 410pp–2, 410qq–2, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410vv–2, 410ww–4, 410xx–1, 410yy–2, 410aaa–2, 410aaa–23, 410aaa–46, 410bbb–2, 410ccc–2, 410ddd, 410eee–3, 423h–2, 423<i>l</i>, 423<i>o</i>, 426m, 428d–3, 428<i>o</i>, 429a–2, 430f–5, 430m, 430w, 430cc, 430hh, 430<i>ll</i>, 430ss, 430uu–2, 433b, 433j, 441c, 442, 445c, 447c, 450, 450e–1, 450n, 450q, 450t, 450y–1, 450y–6, 450bb–1, 450cc–1, 450dd–1, 450ee–1, 450ff–2, 450hh–2, 450jj–5, 450mm–3, 450<i>oo</i>–9, 450pp–1, 450ss–2, 450ss–4, 459a–1, 459b–6, 459c–6, 459d–4, 459h–4, 459i–5, 459j–4, 460, 460a–2, 460m–5, 460m–12, 460m–15, 460s–5, 460w–5, 460x–5, 460bb–3, 460cc–2, 460dd–3, 460ee, 460ff–3, 460hh–3, 460ii–2, 460kk, 460uu–2, 460ww–1, 460yy–1, 460eee–1, 460fff–1, 460kkk, 467b, 698c, 698i, 698n, 698r, 698u–3, 1133, 1902, 3125, 5931, 5951, 5959 of this title; title 30 section 1014; title 36 section 153513; title 40 sections 319c, 803, 804; title 48 section 1705.
+This section is referred to in sections 1a–1, 1c, 3, 4, 21b, 45f, 79i, 80d, 81g, 81h, 90c, 108, 111c, 119, 158, 159b, 160f, 197, 201b, 205a, 221b, 222, 230e, 231c, 245, 254, 264, 271d, 272d, 273d, 281d, 282a, 283c, 284a, 291b, 342, 345, 346a–2, 355a, 391b–1, 396b, 396d, 397d, 398c, 401, 403–3, 403b, 404b, 406d–2, 407a, 407q, 408b, 409e, 410b, 410r–7, 410w, 410y–5, 410z–4, 410aa–2, 410bb–1, 410ee, 410ff–3, 410gg–2, 410hh–2, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410mm–1, 410nn–1, 410<i>oo</i>–3, 410pp–2, 410qq–2, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410vv–2, 410ww–4, 410xx–1, 410yy–2, 410aaa–2, 410aaa–23, 410aaa–46, 410bbb–2, 410ccc–2, 410ddd, 410eee–3, 410fff–2, 423h–2, 423<i>l</i>, 423<i>o</i>, 426m, 428d–3, 428<i>o</i>, 429a–2, 430f–5, 430m, 430w, 430cc, 430hh, 430<i>ll</i>, 430ss, 430uu–2, 433b, 433j, 441c, 442, 445c, 447c, 450, 450e–1, 450n, 450q, 450t, 450y–1, 450y–6, 450bb–1, 450cc–1, 450dd–1, 450ee–1, 450ff–2, 450hh–2, 450jj–5, 450mm–3, 450<i>oo</i>–9, 450pp–1, 450ss–2, 450ss–4, 459a–1, 459b–6, 459c–6, 459d–4, 459h–4, 459i–5, 459j–4, 460, 460a–2, 460m–5, 460m–12, 460m–15, 460s–5, 460w–5, 460x–5, 460bb–3, 460cc–2, 460dd–3, 460ee, 460ff–3, 460hh–3, 460ii–2, 460kk, 460uu–2, 460ww–1, 460yy–1, 460eee–1, 460fff–1, 460kkk, 467b, 698c, 698i, 698n, 698r, 698u–3, 1133, 1902, 3125, 5931, 5951, 5959 of this title; title 30 section 1014; title 36 section 153513; title 40 sections 319c, 803, 804; title 48 section 1705.
 

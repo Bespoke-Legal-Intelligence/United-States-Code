@@ -54,7 +54,7 @@ Section 1675a, act Oct. 10, 1951, ch. 479, title V, §532, as added June 20, 195
 
 Section 1675b, act Oct. 10, 1951, ch. 479, title V, §533, as added June 20, 1952, ch. 449, §7(m), 66 Stat. 146, related to employment of retired officers. See section 2386 of this title.
 
-Section 1675c, act Oct. 10, 1951, ch. 479, title V, §534, as added June 20, 1952, ch. 449, §7(m), 66 Stat. 146;amended July 16, 1953, ch. 195, ch. VI, §601, 67 Stat. 145, related to authorization of appropriations for movement of migrants. See section 2601 of this title.
+Section 1675c, act Oct. 10, 1951, ch. 479, title V, §534, as added June 20, 1952, ch. 449, §7(m), 66 Stat. 146; amended July 16, 1953, ch. 195, ch. VI, §601, 67 Stat. 145, related to authorization of appropriations for movement of migrants. See section 2601 of this title.
 
 Section 1675d, act Oct. 10, 1951, ch. 479, title V, §535, as added June 20, 1952, ch. 449, §7(m), 66 Stat. 146; amended July 16, 1953, ch. 195, ch. VI, §604, 67 Stat. 155, related to authority to pay ocean freight charges on relief packages.
 

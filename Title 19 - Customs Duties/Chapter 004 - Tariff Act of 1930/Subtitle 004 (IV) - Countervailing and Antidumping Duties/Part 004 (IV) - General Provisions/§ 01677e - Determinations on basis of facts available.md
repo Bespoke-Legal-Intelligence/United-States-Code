@@ -16,7 +16,7 @@ If—
 
 &emsp;&emsp;(D) provides such information but the information cannot be verified as provided in section 1677m(i) of this title,
 
-> the administering authority and the Commission shall, subject to section 1677m(d) of this title, use the facts otherwise available in reaching the applicable determination under this subtitle.
+> the administering authority and the Commission shall, subject to section 1677m(d) of thistitle, use the facts otherwise available in reaching the applicable determination under this subtitle.
 
 #### (b) Adverse inferences
 

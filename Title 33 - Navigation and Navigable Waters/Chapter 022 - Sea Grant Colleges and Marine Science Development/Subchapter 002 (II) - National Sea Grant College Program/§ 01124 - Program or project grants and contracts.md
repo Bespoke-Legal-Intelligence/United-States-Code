@@ -52,7 +52,7 @@ Section 1123 of this title, referred to in subsec. (a), was amended generally by
 
 1991—Subsec. (b)(3). Pub. L. 102–186 struck out reference to section 1125 of this title after reference to subsection (a) of this section.
 
-1987—Subsec. (d)(1). Pub. L. 100–220 inserted at end “Terms, conditions, and requirements imposed by theSecretary under this paragraph shall minimize any requirement of prior Federal approval.”
+1987—Subsec. (d)(1). Pub. L. 100–220 inserted at end “Terms, conditions, and requirements imposed by the Secretary under this paragraph shall minimize any requirement of prior Federal approval.”
 
 1980—Subsec. (d)(2). Pub. L. 96–289 authorized application of any payment under a grant or contract to the short-term rental of buildings or facilities for meetings which are in direct support of any sea grant program or project.
 

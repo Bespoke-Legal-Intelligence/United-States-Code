@@ -44,7 +44,7 @@ The Federal Fund, and any nonliquid asset (such as a building or equipment) deve
 
 #### (1) In general
 
-&emsp;In order to establish the Operating Fund, each guaranty agency may transfer not more than 180 days’ cash expenses for normal operating expenses (not including claim payments)as a working capital reserve as defined in Office of Management and Budget Circular A–87 (Cost Accounting Standards) from the Federal Fund for deposit into the Operating Fund for use in the performance of the guaranty agency's duties under this part. Such transfers may occur during the first 3 years following the establishment of the Operating Fund. However, no agency may transfer in excess of 45 percent of the balance, as of September 30, 1998, of the agency's Federal Fund to the agency's Operating Fund during such 3-year period. In determining the amount that may be transferred, the agency shall ensure that sufficient funds remain in the Federal Fund to pay lender claims within the required time periods and to meet the reserve recall requirements of this section and subsections (h) and (i) of section 1072 of this title.
+&emsp;In order to establish the Operating Fund, each guaranty agency may transfer not more than 180 days’ cash expenses for normal operating expenses (not including claim payments) as a working capital reserve as defined in Office of Management and Budget Circular A–87 (Cost Accounting Standards) from the Federal Fund for deposit into the Operating Fund for use in the performance of the guaranty agency's duties under this part. Such transfers may occur during the first 3 years following the establishment of the Operating Fund. However, no agency may transfer in excess of 45 percent of the balance, as of September 30, 1998, of the agency's Federal Fund to the agency's Operating Fund during such 3-year period. In determining the amount that may be transferred, the agency shall ensure that sufficient funds remain in the Federal Fund to pay lender claims within the required time periods and to meet the reserve recall requirements of this section and subsections (h) and (i) of section 1072 of this title.
 
 #### (2) Special rule
 
@@ -90,7 +90,7 @@ The Federal Fund, and any nonliquid asset (such as a building or equipment) deve
 
 #### (B) Repayment of income on transferred funds
 
-&emsp;&emsp;All repayments made to the Federal Fund during the 6th, 7th, and 8th years following the establishment of the Operating Fund of interest that was transferred shall include the sums transferred plus any income earned from the investment of the sums transferred after the 5th year.
+&emsp;&emsp;All repayments made to the Federal Fund during the 6th, 7th, and 8th years following the establishment of the Operating Fund of interest that was transferred shall includethe sums transferred plus any income earned from the investment of the sums transferred after the 5th year.
 
 #### (7) Investment of Federal funds
 

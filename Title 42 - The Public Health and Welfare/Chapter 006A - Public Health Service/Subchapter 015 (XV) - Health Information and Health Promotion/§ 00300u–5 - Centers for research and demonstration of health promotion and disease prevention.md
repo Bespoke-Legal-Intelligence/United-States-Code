@@ -72,7 +72,7 @@ Subsec. (e). Pub. L. 102–168, §102(a), amended subsec. (e) generally. Prior t
 
 #### Ex. Ord. No. 12345. Physical Fitness and Sports
 
-Ex. Ord. No. 12345, Feb. 2, 1982, 47 F.R. 5189, as amended by Ex. Ord. No. 12539, Dec. 3, 1985, 50 F.R. 49829; Ex. Ord. No. 12694, Oct. 11, 1989, 54 F.R. 42285; Ex. Ord. No. 12709, Apr. 4, 1990, 55 F.R. 13097, provided:
+Ex. Ord. No. 12345, Feb. 2, 1982, 47 F.R. 5189, as amended by Ex. Ord. No. 12539, Dec. 3, 1985, 50 F.R. 49829; Ex. Ord. No. 12694, Oct. 11, 1989, 54 F.R. 42285; Ex. Ord. No. 12709, Apr. 4, 1990, 55 F.R. 13097; Ex. Ord. No. 13138, §8, Sept. 30, 1999, 64 F.R. 53881, provided:
 
 By virtue of the authority vested in me as President of the United States of America, and in accordance with the Federal Advisory Committee Act, as amended (5 U.S.C. App.), in order to expand the program for physical fitness and sports and to continue the President's Council on Physical Fitness and Sports, it is hereby ordered as follows:
 
@@ -100,7 +100,7 @@ Section 1. The Secretary of Health and Human Services shall, in carrying out his
 
 Sec. 2. <i>President's Council on Physical Fitness and Sports</i>. (a) There is hereby continued the President's Council on Physical Fitness and Sports.
 
-(b) The Council shall be composed of twenty members appointed by the President. The President may, as he deems appropriate, designate one or more members to be Chairmen and to be Vice Chairmen.
+(b) The council shall be composed of twenty members appointed by the President. Each member shall serve a term of 2 years and may continue to serve after the expiration of their term until a successor is appointed. A member appointed to fill an unexpired term will be appointed for the remainder of such term. The President may, as he deems appropriate, designate one or more members to be Chairmen and to be Vice Chairmen.
 
 Sec. 3. <i>Functions of the Council</i>. (a) The Council shall advise the President and the Secretary concerning progress made in carrying out the provisions of this Order and shall recommend to the President and the Secretary, as necessary, actions to accelerate progress.
 
@@ -140,13 +140,15 @@ Term of the President's Council on Physical Fitness and Sports extended until Se
 
 Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1991, by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1993, by Ex. Ord. No.12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1993, by Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1999, by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1999, by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

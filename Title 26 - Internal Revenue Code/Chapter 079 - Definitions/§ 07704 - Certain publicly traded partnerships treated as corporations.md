@@ -24,7 +24,7 @@ For purposes of this section, the term “publicly traded partnership” means a
 
 #### (3) Exception not to apply to certain partnerships which could qualify as regulated investment companies
 
-&emsp;This subsection shall not apply to any partnership which would be described in section 851(a) if such partnership were a domestic corporation. To the extent provided in regulations, the preceding sentence shall not apply to any partnership a principal activity of which is the buying and selling of commodities (not described in section 1221(1)), or options, futures, or forwards with respect to commodities.
+&emsp;This subsection shall not apply to any partnership which would be described in section 851(a) if such partnership were a domestic corporation. To the extent provided in regulations, the preceding sentence shall not apply to any partnership a principal activity of which is the buying and selling of commodities (not described in section 1221(a)(1)), or options, futures, or forwards with respect to commodities.
 
 #### (d) Qualifying income
 
@@ -40,13 +40,13 @@ For purposes of this section—
 
 &emsp;&emsp;(C) real property rents,
 
-&emsp;&emsp;(D) gain from the sale or other disposition of real property (including property described in section 1221(1)),
+&emsp;&emsp;(D) gain from the sale or other disposition of real property (including property described in section 1221(a)(1)),
 
 &emsp;&emsp;(E) income and gains derived from the exploration, development, mining or production, processing, refining, transportation (including pipelines transporting gas, oil, or products thereof), or the marketing of any mineral or natural resource (including fertilizer, geothermal energy, and timber),
 
 &emsp;&emsp;(F) any gain from the sale or disposition of a capital asset (or property described in section 1231(b)) held for the production of income described in any of the foregoing subparagraphs of this paragraph, and
 
-&emsp;&emsp;(G) in the case of a partnership described in the second sentence of subsection (c)(3), income and gains from commodities (not described in section 1221(1)) or futures, forwards, and options with respect to commodities.
+&emsp;&emsp;(G) in the case of a partnership described in the second sentence of subsection (c)(3), income and gains from commodities (not described in section 1221(a)(1)) or futures, forwards, and options with respect to commodities.
 
 > &emsp;For purposes of subparagraph (E), the term “mineral or natural resource” means any product of a character with respect to which a deduction for depletion is allowable under section 611; except that such term shall not include any product described in subparagraph (A) or (B) of section 613(b)(7).
 
@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### (5) Special rule for determining gross income from certain real property sales
 
-&emsp;In the case of the sale or other disposition of real property described in section 1221(1), gross income shall not be reduced by inventory costs.
+&emsp;In the case of the sale or other disposition of real property described in section 1221(a)(1), gross income shall not be reduced by inventory costs.
 
 #### (e) Inadvertent terminations
 
@@ -126,19 +126,21 @@ As of the 1st day that a partnership is treated as a corporation under this sect
 
 #### (C) Treatment of tax
 
-&emsp;&emsp;For purposes of this title, the tax imposed by this paragraph shall be treated as imposed by chapter 1 other than for purposes of determining the amount of any credit allowable under chapter 1 and shall be paid by the partnership. Section 6655 shall be applied to such partnership with respect to such tax in the same manner as if the partnership werea corporation, such tax were imposed by section 11, and references in such section to taxable income were references to the gross income referred to in subparagraph (A).
+&emsp;&emsp;For purposes of this title, the tax imposed by this paragraph shall be treated as imposed by chapter 1 other than for purposes of determining the amount of any credit allowable under chapter 1 and shall be paid by the partnership. Section 6655 shall be applied to such partnership with respect to such tax in the same manner as if the partnership were a corporation, such tax were imposed by section 11, and references in such section to taxable income were references to the gross income referred to in subparagraph (A).
 
 #### (4) Election
 
 &emsp;An election and consent under this subsection shall apply to the taxable year for which made and all subsequent taxable years unless revoked by the partnership. Such revocation may be made without the consent of the Secretary, but, once so revoked, may not be reinstated.
 
-(Added Pub. L. 100–203, title X, §10211(a), Dec. 22, 1987, 101 Stat. 1330–403; amended Pub. L. 100–647, title II, §2004(f)(1), (3)–(5), Nov. 10, 1988, 102 Stat. 3602, 3603; Pub. L. 105–34, title IX, §964(a), Aug. 5, 1997, 111 Stat. 892; Pub. L. 105–206, title VI, §6009(b)(1), July 22, 1998, 112 Stat. 812.)
+(Added Pub. L. 100–203, title X, §10211(a), Dec. 22, 1987, 101 Stat. 1330–403; amended Pub. L. 100–647, title II, §2004(f)(1), (3)–(5), Nov. 10, 1988, 102 Stat. 3602, 3603; Pub. L. 105–34, title IX, §964(a), Aug. 5, 1997, 111 Stat. 892; Pub. L. 105–206, title VI, §6009(b)(1), July 22, 1998, 112 Stat. 812; Pub. L. 106–170, title V, §532(c)(2)(V)–(Y), Dec. 17, 1999, 113 Stat. 1931.)
 
 #### References in Text
 
 Section 10211(c)(2) of the Revenue Reconciliation Act of 1987, referred to in subsec. (g)(2)(A), probably means section 10211(c)(2) of the Revenue Act of 1987, title X of Pub. L. 100–203, which is set out as a note below.
 
 #### Amendments
+
+1999—Subsecs. (c)(3), (d)(1)(D), (G), (5). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
 
 1998—Subsec. (g)(3)(C). Pub. L. 105–206 inserted at end “and shall be paid by the partnership. Section 6655 shall be applied to such partnership with respect to such tax in the same manner as if the partnership were a corporation, such tax were imposed by section 11, and references in such section to taxable income were references to the gross income referred to in subparagraph (A)”.
 
@@ -151,6 +153,10 @@ Subsec. (d)(1). Pub. L. 100–647, §2004(f)(4), inserted at end “For purposes
 Subsec. (d)(3). Pub. L. 100–647, §2004(f)(5), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘real property rent’ means amounts which would qualify as rent from real property under section 856(d) if such section were applied without regard to paragraph (2)(C) thereof (relating to independent contractor requirements).”
 
 Subsec. (e)(4). Pub. L. 100–647, §2004(f)(1), inserted “or to pay such amounts” before “as may be required”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
 
 #### Effective Date of 1998 Amendment
 

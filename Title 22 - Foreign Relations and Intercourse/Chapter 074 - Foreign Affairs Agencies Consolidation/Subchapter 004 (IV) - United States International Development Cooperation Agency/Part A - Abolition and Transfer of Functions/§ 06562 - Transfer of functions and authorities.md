@@ -16,13 +16,13 @@ There are transferred to the Administrator of the Agency for International Devel
 
 #### (c) Other activities
 
-The authorities and functions transferred to the United States International Development Cooperation Agency or the Director of that Agency by section 6 of Reorganization PlanNumbered 2 of 1979 shall, to the extent such authorities and functions have not been repealed, be transferred to those agencies or heads of agencies, as the case may be, in which those authorities and functions were vested by statute as of the day before the effective date of such reorganization plan.
+The authorities and functions transferred to the United States International Development Cooperation Agency or the Director of that Agency by section 6 of Reorganization Plan Numbered 2 of 1979 shall, to the extent such authorities and functions have not been repealed, be transferred to those agencies or heads of agencies, as the case may be, in which those authorities and functions were vested by statute as of the day before the effective date of such reorganization plan.
 
 (Pub. L. 105–277, div. G, subdiv. A, title XIV, §1412, Oct. 21, 1998, 112 Stat. 2681–790.)
 
 #### References in Text
 
-Executive Order No. 12163, referred to in subsec. (a), is Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, which is set out as a note under section 2381 of this title.
+Executive Order No. 12163, referred to in subsec. (a), is Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, which is set out as a note under section 2381 of this title. Section 1–801 of Ex. Ord. No. 12163 was deleted in the general amendment of Part 1–8 of Ex. Ord. No. 12163 by Ex. Ord. No. 13118, §8, Mar. 31, 1999, 64 F.R. 16597.
 
 For the effective date of this subchapter, referred to in subsecs. (a)(1) and (b), meaning the effective date of title XIV of subdiv. A of div. G of Pub. L. 105–277, see section 1401 of Pub. L. 105–277, set out as a note under section 6561 of this title.
 

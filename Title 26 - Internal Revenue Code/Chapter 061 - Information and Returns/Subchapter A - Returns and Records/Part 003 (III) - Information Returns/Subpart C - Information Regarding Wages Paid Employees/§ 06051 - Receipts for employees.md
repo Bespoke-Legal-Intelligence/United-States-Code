@@ -70,7 +70,7 @@ A duplicate of any statement made pursuant to this section and in accordance wit
 
 &emsp;&emsp;&emsp;(iii) the total amount (if any) deducted and withheld from such sick pay under section 3402.
 
-> &emsp;&emsp;For purposes of the preceding sentence, the term “third-party sick pay” means any sick pay (as defined in section 3402(<i>o</i>)(2)(C)) which does not constitute wages for purposes of chapter 24 (determined without regard to section 3402(<i>o</i>)(1)).
+> &emsp;&emsp;For purposes of the preceding sentence, the term “third-party sick pay” means any sick pay (as defined in section 3402(<i>o</i>)(2)(C)) whichdoes not constitute wages for purposes of chapter 24 (determined without regard to section 3402(<i>o</i>)(1)).
 
 #### (B) Special rules
 
@@ -80,7 +80,7 @@ A duplicate of any statement made pursuant to this section and in accordance wit
 
 #### (ii) Penalties made applicable
 
-&emsp;&emsp;&emsp;For purposes of sections 6674 and 7204, the statements required to be furnished bysubparagraph (A) shall be treated as statements required under this section to be furnished to employees.
+&emsp;&emsp;&emsp;For purposes of sections 6674 and 7204, the statements required to be furnished by subparagraph (A) shall be treated as statements required under this section to be furnished to employees.
 
 #### (2) Information required to be furnished by employer
 
@@ -144,7 +144,7 @@ Subsec. (c). Pub. L. 90–248, §502(c)(2), included reference to section 3201 i
 
 1965—Subsec. (a). Pub. L. 89–97, §313(e)(1), inserted last sentence providing for inclusion of tips received by an employee in the course of his employment.
 
-Subsec. (c). Pub. L. 89–97, §107, required the statements to show the proportion of the total amount withheld as tax under section 3101 which is for financing the cost of hospital insurance benefits under part A of title XVIII of the Social Security Act.
+Subsec. (c). Pub. L. 89–97, §107, required the statements to show the proportion of the total amount withheld as tax under section 3101 which is for financing thecost of hospital insurance benefits under part A of title XVIII of the Social Security Act.
 
 1961—Subsec. (a). Pub. L. 87–293 provided a special rule with respect to the information to be contained on employees’ tax receipts in the case of remuneration paid to volunteers and volunteer leaders in the Peace Corps.
 
@@ -154,7 +154,7 @@ Subsec. (b). Act Aug. 1, 1956, §412(b), required the furnishing of a statement 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) ofPub. L. 104–191, set out as a note under section 62 of this title.
+Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set out as a note under section 62 of this title.
 
 #### Effective Date of 1994 Amendment
 

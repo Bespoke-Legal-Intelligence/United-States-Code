@@ -114,7 +114,7 @@ The date of enactment of this subparagraph, referred to in subsec. (a)(9)(C), is
 
 #### Amendments
 
-1996—Subsec. (a)(2) to (6). Pub. L. 104–127, §301(a), added pars. (2) and (3) and redesignated former pars. (2) to (4) as (4) to (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
+1996—Subsec. (a)(2) to (6). Pub. L. 104–127, §301(a), added pars. (2) and (3) and redesignated former pars. (2)to (4) as (4) to (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
 
 Subsec. (a)(7). Pub. L. 104–127, §301(b), added par. (7) and struck out former par. (7) which read as follows: “The term ‘field’ means such term as is defined in section 718.2(b)(9) of title 7 of the Code of Federal Regulations (as of January 1, 1985), except that any highly erodible land on which an agricultural commodity is produced after December 23, 1985, and that is not exempt under section 3812 of this title shall be considered as part of the field in which such land was included on December 23, 1985, unless the Secretary permits modification of the boundaries of the field to carry out subchapters I through V of this chapter.”
 

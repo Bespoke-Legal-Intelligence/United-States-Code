@@ -12,7 +12,7 @@
 
 (2) The amount paid to a State pursuant to paragraph (1) shall be expended as the State legislature may prescribe for the benefit of the public schools and public roads of the county or counties in which the military installation or facility is situated.
 
-(3) In a case in which a military installation or facility is located in more than one State or county, the amount paid pursuant to paragraph (1) shall be distributed in a manner proportionalto the area of such installation or facility in each State or county.
+(3) In a case in which a military installation or facility is located in more than one State or county, the amount paid pursuant to paragraph (1) shall be distributed in a manner proportional to the area of such installation or facility in each State or county.
 
 (f)(1) There is in the Treasury a reserve account administered by the Secretary of Defense for the purposes of this section. Balances in the account may be used for costs of the military departments—
 
@@ -102,7 +102,7 @@ Subsec. (e). Pub. L. 97–99 added subsec. (e).
 
 1980—Subsecs. (a), (b). Pub. L. 96–513 substituted “Federal Maritime Commission” for “Federal Maritime Board”.
 
-1977—Subsec. (d). Pub. L. 95–82 substituted provisions relating to reimbursement of production expenses during any fiscal year from proceeds from sales for property during such fiscal year, for provisions requiringproceeds from sales under subsecs. (a) or (b) of this section to be credited to the appropriations under which the property concerned was procured.
+1977—Subsec. (d). Pub. L. 95–82 substituted provisions relating to reimbursement of production expenses during any fiscal year from proceeds from sales for property during such fiscal year, for provisions requiring proceeds from sales under subsecs. (a) or (b) of this section to be credited to the appropriations under which the property concerned was procured.
 
 #### Effective Date of 1984 Amendment
 

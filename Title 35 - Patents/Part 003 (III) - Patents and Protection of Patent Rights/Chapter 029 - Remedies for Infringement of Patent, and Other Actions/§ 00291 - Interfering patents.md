@@ -18,3 +18,7 @@ Civil action in case of interference, see section 146 of this title.
 
 Proceedings in Patent and Trademark Office on interfering patents, see section 135 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 102 of this title.
+

@@ -50,7 +50,7 @@ The plan of reorganization, with an estimate of the expenses of the same, was co
 
 “XI. The notice of dissatisfaction and protest provided for by subsections 13 and 14 of section 28 of the act approved August 5, 1909, shall be deemed to be finally abandoned and waived unless within 30 days from the date of filing thereof the person who filed such notice or protest shall deposit with the collector of customs a fee of $1 with respect to each appraisement, entry, or payment objected to. Such fee shall be deposited and accounted for as ‘Miscellaneous receipts,’ and in case the notice of dissatisfaction or protest in connection with which such fee was deposited shall be finally sustained in whole or in part, such fee shall be refunded to the importer, with the duties found to be collected in excess, from the appropriation for the refund to importers of excess of deposits.
 
-“Attached hereto is a detailed estimate of the expenses of the customs service under the reorganizationabove provided. \[Omitted as not permanent, and in any event superseded by section 6 of this title.\]
+“Attached hereto is a detailed estimate of the expenses of the customs service under the reorganization above provided. \[Omitted as not permanent, and in any event superseded by section 6 of this title.\]
 
 “Done at Washington, D.C., this 3d day of March, 1913.
 

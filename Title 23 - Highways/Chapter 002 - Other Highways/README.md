@@ -33,7 +33,7 @@
 
 1998—Pub. L. 105–178, title I, §1112(b), June 9, 1998, 112 Stat. 151, substituted “Recreational trails program” for “Repealed” in item 206.
 
-1987—Pub. L. 100–17, title I, §133(e)(1), Apr. 2, 1987, 101 Stat. 173, struck out items 211 “Timber access roadhearings”, 213 “Rama Road”, and 219 “Safer of off-system roads”.
+1987—Pub. L. 100–17, title I, §133(e)(1), Apr. 2, 1987, 101 Stat. 173, struck out items 211 “Timber access road hearings”, 213 “Rama Road”, and 219 “Safer of off-system roads”.
 
 1983—Pub. L. 97–424, title I, §126(e)(1), Jan. 6, 1983, 96 Stat. 2115, substituted “Allocations” for “Apportionment for allocation” in item 202.
 

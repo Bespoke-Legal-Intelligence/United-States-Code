@@ -42,7 +42,7 @@ to April 30, 1988.—Notwithstanding section 3611 of title 18, United States Cod
 
 May 1, 1988,
 
-to October 31, 1988.—(1) Notwithstanding section 3611 of title 18, United States Code, aperson who during the period beginning on May 1, 1988, and ending on October 31, 1988, is sentenced to pay a fine or assessment shall pay the fine or assessment in accordance with this subsection.
+to October 31, 1988.—(1) Notwithstanding section 3611 of title 18, United States Code, a person who during the period beginning on May 1, 1988, and ending on October 31, 1988, is sentenced to pay a fine or assessment shall pay the fine or assessment in accordance with this subsection.
 
 “(2) In a case initiated by citation or violation notice, such person shall pay the fine or assessment (including any interest or penalty), as specified by the Director of the Administrative Office of the United States Courts. Such Director may specify that such payment be made to the clerk of the court or in the manner provided for under section 604(a)(17) of title 28, United States Code.
 

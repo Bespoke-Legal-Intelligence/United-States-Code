@@ -134,7 +134,7 @@ Subsec. (f). Pub. L. 100–368 added subsec. (f).
 
 #### Effective Date of 1990 Amendment
 
-Section 15(c) of Pub. L. 101–637 provided that: “This section \[amending this section and section 2647 of this title and enacting provisions set out as notes under this section\] shall take effect upon the expiration of the 12-month period following the date of the enactment of this Act \[Nov. 28, 1990\]. The Administrator may extend the effective date for a period not to exceed one year if the Administrator determines that accredited asbestos contractors are needed to perform school-site abatement required under the Asbestos Hazard Emergency Response Act \[of 1986\] (15 U.S.C. 2641) and such an extension is necessary to ensure effective implementation of section 203 of the Toxic Substances Control Act \[15 U.S.C. 2643\].”
+Section 15(c) of Pub. L. 101–637 provided that: “This section \[amending this section and section 2647 of this title and enacting provisions set out as notes under this section\] shall take effect upon the expiration of the 12-month period following the date of the enactment of this Act \[Nov. 28, 1990\]. The Administrator may extend the effective date for a period not to exceed one year if the Administrator determines that accreditedasbestos contractors are needed to perform school-site abatement required under the Asbestos Hazard Emergency Response Act \[of 1986\] (15 U.S.C. 2641) and such an extension is necessary to ensure effective implementation of section 203 of the Toxic Substances Control Act \[15 U.S.C. 2643\].”
 
 #### Revision of Model Contractor Accreditation Program
 

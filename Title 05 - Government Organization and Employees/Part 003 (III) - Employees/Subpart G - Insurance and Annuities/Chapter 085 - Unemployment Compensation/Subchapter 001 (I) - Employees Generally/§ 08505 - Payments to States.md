@@ -36,7 +36,7 @@ Historical and Revision Notes
 
 Sept. 1, 1954, ch. 1212, §4(a) “Sec. 1506”, 68 Stat. 1133.
 
-In the first sentence of subsection (d), the word “may” is substituted for “shall” since the sentencedoes not direct the use of the money, rather it limits the purposes for which the money may be used.
+In the first sentence of subsection (d), the word “may” is substituted for “shall” since the sentence does not direct the use of the money, rather it limits the purposes for which the money may be used.
 
 In subsections (f) and (g), the word “official” is substituted for “officer” because of the definition of “officer” in section 2104.
 
@@ -44,7 +44,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–566 substituted provisions that each State is entitled to be paid by the United States with respect to each individual whose base period wages included Federal wages an amount which shall bear the same ratio to the total amount of compensation paid to such individual as the amount of his Federal wages in his base period bears to the total amount of his base period wages for provisions that each State is entitled to be paid by the United States an amount equal to the additional cost to the State of payments of compensation in accordance with an agreement under this subchapter which would not have been made by the State but for the agreement.
+1976—Subsec. (a). Pub. L. 94–566 substituted provisions that each State is entitled to be paid by the United States with respect to each individual whose base period wages included Federal wages an amount which shall bear the same ratio to the total amount of compensation paid to such individual as the amount of his Federal wages in his base period bears to the total amount of his base period wages for provisions that each State is entitled to be paid by the United Statesan amount equal to the additional cost to the State of payments of compensation in accordance with an agreement under this subchapter which would not have been made by the State but for the agreement.
 
 #### Effective Date of 1976 Amendment
 

@@ -150,7 +150,7 @@ For purposes of this section:
 
 #### (8) Subsidies Agreement
 
-&emsp;The term “Subsidies Agreement” means the Agreement on Subsidies and Countervailing Measures described in section 771(8) of the Tariff Act of 1930 (19 U.S.C. 1677(8)).
+&emsp;The term “Subsidies Agreement” means the Agreement on Subsidies and CountervailingMeasures described in section 771(8) of the Tariff Act of 1930 (19 U.S.C. 1677(8)).
 
 #### (9) Subsidies Committee
 

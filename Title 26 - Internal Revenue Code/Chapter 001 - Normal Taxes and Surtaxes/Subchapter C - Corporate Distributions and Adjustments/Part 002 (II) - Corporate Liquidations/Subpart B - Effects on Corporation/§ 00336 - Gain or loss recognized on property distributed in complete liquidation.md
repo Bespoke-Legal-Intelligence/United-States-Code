@@ -26,7 +26,7 @@ If any property distributed in the liquidation is subject to a liability or the 
 
 #### (B) Disqualified property
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “disqualified property” means any property which is acquired by the liquidating corporation in a transaction to which section 351 applied, or as a contribution to capital, during the 5-year period ending on the date of the distribution. Such term includes any property if the adjusted basis of such property is determined (in whole or in part) by reference to the adjusted basis of property described in the preceding sentence.
+&emsp;&emsp;For purposes of subparagraph (A), the term “disqualified property” means any propertywhich is acquired by the liquidating corporation in a transaction to which section 351 applied, or as a contribution to capital, during the 5-year period ending on the date of the distribution. Such term includes any property if the adjusted basis of such property is determined (in whole or in part) by reference to the adjusted basis of property described in the preceding sentence.
 
 #### (2) Special rule for certain property acquired in certain carryover basis transactions
 
@@ -76,7 +76,7 @@ Under regulations prescribed by the Secretary, if—
 
 #### Prior Provisions
 
-A prior section 336, acts Aug. 16, 1954, ch. 736, 68A Stat. 106; Apr. 2, 1980, Pub. L. 96–223, title IV, §403(b)(1), 94 Stat. 304; Oct. 19, 1980, Pub. L. 96–471, §2(b)(1), (c)(1), 94 Stat. 2253, 2254; Sept. 3, 1982, Pub. L. 97–248, title II,§222(b), (e)(1)(D), 224(c)(4), 96 Stat. 478, 480, 489, related to distributions of property in liquidation, prior to repeal by Pub. L. 99–514, §631(a).
+A prior section 336, acts Aug. 16, 1954, ch. 736, 68A Stat. 106; Apr. 2, 1980, Pub. L. 96–223, title IV, §403(b)(1), 94 Stat. 304; Oct. 19, 1980, Pub. L. 96–471, §2(b)(1), (c)(1), 94 Stat. 2253, 2254; Sept. 3, 1982, Pub. L. 97–248, title II, §222(b), (e)(1)(D), 224(c)(4), 96 Stat. 478, 480, 489, related to distributions of property in liquidation, prior to repeal by Pub. L. 99–514, §631(a).
 
 #### Amendments
 

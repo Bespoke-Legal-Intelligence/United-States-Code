@@ -86,7 +86,7 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92
 
 #### Effective Date
 
-Section 10 of Pub. L. 96–355 provided that: “The provisions of this Act \[enacting this section and section2211b of this title, amending sections 1926, 2204, 2204a, 2204b–1, 2663, and 2667 of this title and section 5314 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 2201 of this title\] shall become effective October 1, 1980.”
+Section 10 of Pub. L. 96–355 provided that: “The provisions of this Act \[enacting this section and section 2211b of this title, amending sections 1926, 2204, 2204a, 2204b–1, 2663, and 2667 of this title and section 5314 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 2201 of this title\] shall become effective October 1, 1980.”
 
 #### Transfer of Functions
 
@@ -110,7 +110,7 @@ Section 762 of Pub. L. 104–127 provided that: “Not later than 1 year after t
 
 #### Executive Order No. 12720
 
-Ex. Ord. No. 12720, July 16, 1990, 55 F.R. 29337, as amended by Ex. Ord. No. 12783, Dec. 17, 1991, 56 F.R. 65977, which established the President's Council on Rural America, was revoked by Ex. Ord. No. 12869, §4(c), Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12720, July 16, 1990, 55 F.R. 29337, as amended by Ex. Ord. No. 12783, Dec. 17, 1991, 56 F.R.65977, which established the President's Council on Rural America, was revoked by Ex. Ord. No. 12869, §4(c), Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

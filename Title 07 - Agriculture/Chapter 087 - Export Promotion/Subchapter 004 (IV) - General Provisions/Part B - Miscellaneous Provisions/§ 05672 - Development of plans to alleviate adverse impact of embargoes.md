@@ -10,7 +10,7 @@ To alleviate, to the maximum extent possible, the adverse impact on farmers, ele
 
 &emsp;&emsp;(C) the development of criteria for determining the extent, if any, to which the impact of such a suspension or restriction should be offset in the case of each of the sectors referred to in paragraph (1)(B);
 
-&emsp;(2) for any suspension or restriction for which compensation is not provided under section 5671 of this title, prepare and submit to the appropriate Committees of Congress such recommendations for changes in existing agricultural programs, or for new programs, as the Secretary considers necessary to handle effectively, efficiently, economically, and fairly the impact of any such suspension or restriction;
+&emsp;(2) for any suspension or restriction for which compensation is not provided under section 5671 of this title, prepare and submit tothe appropriate Committees of Congress such recommendations for changes in existing agricultural programs, or for new programs, as the Secretary considers necessary to handle effectively, efficiently, economically, and fairly the impact of any such suspension or restriction;
 
 &emsp;(3) for any suspension or restriction for which compensation is provided under section 5671 of this title, prepare and submit to the appropriate Committees of Congress a plan for implementing and administering section 5671 of this title; and
 

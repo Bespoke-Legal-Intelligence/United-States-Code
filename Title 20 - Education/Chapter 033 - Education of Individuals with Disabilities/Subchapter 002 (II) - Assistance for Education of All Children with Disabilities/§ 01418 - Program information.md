@@ -58,5 +58,5 @@ Section effective July 1, 1998, see section 201(a)(2)(A) of Pub. L. 105–17, se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1411, 1412, 1417, 1435, 1442, 1474, 4304 of this title; title 29 section 795n; title 42 section 6022.
+This section is referred to in sections 1411, 1412, 1417, 1435, 1442, 1474, 4304 of this title; title 42 section 6022.
 

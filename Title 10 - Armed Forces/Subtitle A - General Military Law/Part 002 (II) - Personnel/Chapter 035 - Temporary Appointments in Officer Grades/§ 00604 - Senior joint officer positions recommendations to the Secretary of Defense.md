@@ -8,7 +8,7 @@ Star Officer Positions.—(1) Whenever a vacancy occurs, or is anticipated to oc
 
 &emsp;(A) the Secretary of Defense shall require the Secretary of the Army to submit the name of at least one Army officer, the Secretary of the Navy to submit the name of at least one Navy officer and the name of at least one Marine Corps officer, and the Secretary of the Air Force to submit the name of at least one Air Force officer for consideration by the Secretary for recommendation to the President for appointment to that position; and
 
-&emsp;(B) the Chairman of the Joint Chiefs of Staff may submit to the Secretary of Defense the name of one or more officers (in addition to the officers whose names are submitted pursuant to subparagraph (A)) for consideration bythe Secretary for recommendation to the President for appointment to that position.
+&emsp;(B) the Chairman of the Joint Chiefs of Staff may submit to the Secretary of Defense the name of one or more officers (in addition to the officers whose names are submitted pursuant to subparagraph (A)) for consideration by the Secretary for recommendation to the President for appointment to that position.
 
 (2) Whenever the Secretaries of the military departments are required to submit the names of officers under paragraph (1)(A), the Chairman of the Joint Chiefs of Staff shall submit to the Secretary of Defense the Chairman's evaluation of the performance of each officer whose name is submitted under that paragraph (and of any officer whose name the Chairman submits to the Secretary under paragraph (1)(B) for consideration for the same vacancy). The Chairman's evaluation shall primarily consider the performance of the officer as a member of the Joint Staff and in other joint duty assignments, but may include consideration of other aspects of the officer's performance as the Chairman considers appropriate.
 
@@ -24,11 +24,13 @@ Covered Positions.—Subsection (a) applies to the following positions:
 
 (c)
 
-Expiration.—This section shall cease to be effective at the end of September 30, 2000.
+Expiration.—This section shall cease to be effective at the end of September 30, 2003.
 
-(Added Pub. L. 103–337, div. A, title IV, §405(c)(1), Oct. 5, 1994, 108 Stat. 2745; amended Pub. L. 104–201, div. A, title IV, §404(a), Sept. 23, 1996, 110 Stat. 2506.)
+(Added Pub. L. 103–337, div. A, title IV, §405(c)(1), Oct. 5, 1994, 108 Stat. 2745; amended Pub. L.104–201, div. A, title IV, §404(a), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 106–65, div. A, title V, §509(a), Oct. 5, 1999, 113 Stat. 592.)
 
 #### Amendments
+
+1999—Subsec. (c). Pub. L. 106–65 substituted “September 30, 2003” for “September 30, 2000”.
 
 1996—Subsec. (c). Pub. L. 104–201 substituted “September 30, 2000” for “September 30, 1997”.
 

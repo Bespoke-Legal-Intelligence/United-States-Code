@@ -1,6 +1,6 @@
 ### §1749bbb–10d. Reports on operations
 
-The Director shall report to the Congress not less than annually on the program authorized by this subchapter. The reports under this section shall include—
+The Director shall report to the Congress not less than annually on the program authorized bythis subchapter. The reports under this section shall include—
 
 &emsp;(1) full and complete information on the operations and activities of the Director under this part, together with such recommendations with respect thereto as the Director may deem appropriate; and
 

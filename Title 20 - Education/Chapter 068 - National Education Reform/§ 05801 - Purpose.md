@@ -22,7 +22,7 @@ The purpose of this chapter is to provide a framework for meeting the National E
 
 &emsp;&emsp;(A) creating a vision of excellence and equity that will guide all Federal education and related programs;
 
-&emsp;&emsp;(B) providing for the establishment of high-quality, internationally competitivecontent and student performance standards and strategies that all students will be expected to achieve;
+&emsp;&emsp;(B) providing for the establishment of high-quality, internationally competitive content and student performance standards and strategies that all students will be expected to achieve;
 
 &emsp;&emsp;(C) encouraging and enabling all State educational agencies and local educational agencies to develop comprehensive improvement plans that will provide a coherent framework for the implementation of reauthorized Federal education and related programs in an integrated fashion that effectively educates all children to prepare them to participate fully as workers, parents, and citizens;
 
@@ -45,6 +45,10 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 1996—Par. (4)(B) to (D). Pub. L. 104–134, §101(d) \[title VII, §703(a)(2)(A)\], inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “assisting in the development and certification of opportunity-to-learn standards; and”.
 
 Par. (6)(C) to (F). Pub. L. 104–134, §101(d) \[title VII, §703(a)(2)(B)\], redesignated subpars. (D) to (F) as (C) to (E), respectively, and struck out former subpar. (C) which read as follows: “providing for the establishment of high-quality, internationally competitive opportunity-to-learn standards that all States, local educational agencies, and schools should achieve;”.
+
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–25, §1, Apr. 29, 1999, 113 Stat. 41, provided that: “This Act \[enacting sections 5891a and 5891b of this title, amending section 1415 of this title, and enacting provisions set out as notes under sections 1415 and 5891a of this title\] may be cited as the ‘Education Flexibility Partnership Act of 1999’.”
 
 #### Short Title
 

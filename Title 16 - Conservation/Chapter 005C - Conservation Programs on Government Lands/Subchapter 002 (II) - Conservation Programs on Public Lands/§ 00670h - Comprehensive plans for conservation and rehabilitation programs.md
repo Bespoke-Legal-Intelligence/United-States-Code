@@ -22,7 +22,7 @@ Each comprehensive plan developed pursuant to this section shall be consistent w
 
 > Conservation and rehabilitation programs developed and implemented pursuant to this subchapter shall be deemed as supplemental to wildlife, fish, and game-related programs conducted by the Secretary of the Interior and the Secretary of Agriculture pursuant to other provisions of law. Nothing in this subchapter shall be construed as limiting the authority of the Secretary of the Interior or the Secretary of Agriculture, as the case may be, to manage the national forests or other public lands for wildlife and fish and other purposes in accordance with the Multiple-Use Sustained-Yield Act of 1960 (74 Stat. 215; 16 U.S.C. 528–531) or other applicable authority.
 
-(2) Any conservation and rehabilitation program included within a cooperative agreement entered into under this subsection may be modified in a manner mutually agreeable to the State agency and the Secretary concerned (and the Chairman or the Administrator, as the case may be, if public land under his jurisdiction is involved). Before modifying any cooperative agreement which affects public land under the jurisdiction of the Chairman, the Secretary of the Interior shall obtain the prior written approval of the Atomic Energy Commission and before modifying any cooperative agreement which affects public land under the jurisdiction of the Administrator, the Secretary of the Interior shall obtain the prior written approval of the Administrator.
+(2) Any conservation and rehabilitation program included within a cooperative agreement entered into under this subsection may be modified in a manner mutually agreeable to the State agency and the Secretary concerned (and the Chairman or the Administrator, as the casemay be, if public land under his jurisdiction is involved). Before modifying any cooperative agreement which affects public land under the jurisdiction of the Chairman, the Secretary of the Interior shall obtain the prior written approval of the Atomic Energy Commission and before modifying any cooperative agreement which affects public land under the jurisdiction of the Administrator, the Secretary of the Interior shall obtain the prior written approval of the Administrator.
 
 (3) Each cooperative agreement entered into under this subsection shall—
 
@@ -64,7 +64,7 @@ The Multiple-Use Sustained-Yield Act of 1960, referred to in subsec. (c)(1), is 
 
 #### Codification
 
-In subsec. (d), “chapter 63 of title 31” substituted for “the Federal Grant and Cooperative Agreement Act of1977 (41 U.S.C. 501 et seq.)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (d), “chapter 63 of title 31” substituted for “the Federal Grant and Cooperative Agreement Act of 1977 (41 U.S.C. 501 et seq.)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 

@@ -48,15 +48,51 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;(5) the extent to which each country has extended protection to refugees, including the provision of first asylum and resettlement;
 
-&emsp;(6) the steps the Administrator has taken to alter United States programs under subchapter I of this chapter in any country because of human rights considerations; and
+&emsp;(6) the steps the Administrator has taken to alter United States programs under subchapter I of this chapter in any country because of human rights considerations;
 
-&emsp;(7) wherever applicable, violations of religious freedom, including particularly severe violations of religious freedom (as defined in section 6402 of this title).
+&emsp;(7) wherever applicable, violations of religious freedom, including particularly severe violations of religious freedom (as defined in section 6402 of this title) <sup>2</sup> and
+
+&emsp;(8) wherever applicable, consolidated information regarding the commission of war crimes, crimes against humanity, and evidence of acts that may constitute genocide (as defined in article 2 of the Convention on the Prevention and Punishment of the Crime of Genocide and modified by the United States instrument of ratification to that convention and section 2(a) of the Genocide Convention Implementation Act of 1987).
 
 #### (e) Promotion of civil and political rights
 
 The President is authorized and encouraged to use not less than $3,000,000 of the funds made available under this part, part X of this subchapter, and part IV of subchapter II of this chapter for each fiscal year for studies to identify, and for openly carrying out programs and activities which will encourage or promote increased adherence to civil and political rights, including the right to free religious belief and practice, as set forth in the Universal Declaration of Human Rights, in countries eligible for assistance under this part or under part X of this subchapter, except that funds made available under part X of this subchapter may only be used under this subsection with respect to countries in sub-Saharan Africa. None of these funds may be used, directly or indirectly, to influence the outcome of any election in any country.
 
-(Pub. L. 87–195, pt. I, §116, as added Pub. L. 94–161, title III, §310, Dec. 20, 1975, 89 Stat. 860; amended Pub. L. 95–88, title I, §111, Aug. 3, 1977, 91 Stat. 537; Pub. L. 95–105, title I, §109(a)(2), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title I, §109, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §106, title V, §504(a), Aug. 14, 1979, 93 Stat. 362, 378; Pub. L. 96–533, title III, §305, title VII, §701(a), Dec. 16, 1980, 94 Stat. 3147, 3156; Pub. L. 97–113, title III, §306, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 98–164, title X, §1002(a), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 99–440, title II, §202, Oct. 2, 1986, 100 Stat. 1095; Pub. L. 99–631, §1(b)(2), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 100–204, title I, §127(1), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 101–513, title V, §§562(d)(3), 599D, Nov. 5, 1990, 104 Stat. 2031, 2066; Pub. L. 103–149, §4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title I, §162(e)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(a), Oct. 19, 1996, 110 Stat. 3866; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2216, Oct. 21, 1998, 112 Stat. 2681–815; Pub. L. 105–292, title I, §102(d)(1), title IV, §421(a), title V, §501(b), Oct. 27, 1998, 112 Stat. 2794, 2809, 2811.)
+#### (f) Country reports on human rights practices
+
+(1) The report required by subsection (d) of this section shall include—
+
+&emsp;(A) a list of foreign states where trafficking in persons, especially women and children, originates, passes through, or is a destination; and
+
+&emsp;(B) an assessment of the efforts by the governments of the states described in paragraph (A) to combat trafficking. Such an assessment shall address—
+
+&emsp;&emsp;(i) whether government authorities in each such state tolerate or are involved in trafficking activities;
+
+&emsp;&emsp;(ii) which government authorities in each such state are involved in anti-trafficking activities;
+
+&emsp;&emsp;(iii) what steps the government of each such state has taken to prohibit government officials and other individuals from participating in trafficking, including the investigation, prosecution, and conviction of individuals involved in trafficking;
+
+&emsp;&emsp;(iv) what steps the government of each such state has taken to assist trafficking victims;
+
+&emsp;&emsp;(v) whether the government of each such state is cooperating with governments of other countries to extradite traffickers when requested;
+
+&emsp;&emsp;(vi) whether the government of each such state is assisting in international investigations of transnational trafficking networks; and
+
+&emsp;&emsp;(vii) whether the government of each such state refrains from prosecuting trafficking victims or refrains from other discriminatory treatment towards victims.
+
+(2) In compiling data and assessing trafficking for the purposes of paragraph (1), United States Diplomatic Mission personnel shall consult with human rights and other appropriate nongovernmental organizations.
+
+(3) For purposes of this subsection—
+
+&emsp;(A) the term “trafficking” means the use of deception, coercion, debt bondage, the threat of force, or the abuse of authority to recruit, transport within or across borders, purchase, sell, transfer, receive, or harbor a person for the purposes of placing or holding such person, whether for pay or not, in involuntary servitude, slavery or slavery-like conditions, or in forced, bonded, or coerced labor;
+
+&emsp;(B) the term “victim of trafficking” means any person subjected to the treatment described in subparagraph (A).
+
+(Pub. L. 87–195, pt. I, §116, as added Pub. L. 94–161, title III, §310, Dec. 20, 1975, 89 Stat. 860; amended Pub. L. 95–88, title I, §111, Aug. 3, 1977, 91 Stat. 537; Pub. L. 95–105, title I, §109(a)(2), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title I, §109, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §106, title V, §504(a), Aug. 14, 1979, 93 Stat. 362, 378; Pub. L. 96–533, title III, §305, title VII, §701(a), Dec. 16, 1980, 94 Stat. 3147, 3156; Pub. L. 97–113, title III, §306, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 98–164, title X, §1002(a), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 99–440, title II, §202, Oct. 2, 1986, 100 Stat. 1095; Pub. L. 99–631, §1(b)(2), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 100–204, title I, §127(1), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 101–513, title V, §§562(d)(3), 599D, Nov. 5, 1990, 104 Stat. 2031, 2066; Pub. L. 103–149, §4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title I, §162(e)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(a), Oct. 19, 1996, 110 Stat. 3866; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2216, Oct. 21, 1998, 112 Stat. 2681–815; Pub. L. 105–292, title I, §102(d)(1), title IV, §421(a), title V, §501(b), Oct. 27, 1998, 112 Stat. 2794, 2809, 2811; Pub. L. 106–113, div. B, §§1000(a)(2) \[title V, §597\], 1000(a)(7) \[div. A, title VIII, §806(a)\], Nov. 29, 1999, 113 Stat. 1535, 1536, 1501A–126, 1501A–471.)
+
+#### References in Text
+
+Section 2(a) of the Genocide Convention Implementation Act of 1987, referred to in subsec. (d)(8), probablymeans section 2(a) of the Genocide Convention Implementation Act of 1987 (the Proxmire Act), Pub. L. 100–606, Nov. 4, 1988, 102 Stat. 3045, which enacted chapter 50A (§1091 et seq.) of Title 18, Crimes and Criminal Procedure.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -67,6 +103,10 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 The amendment by section 102(d)(1) of Pub. L. 105–292 was executed before the amendment by Pub. L. 105–277 to reflect the probable intent of Congress.
 
 #### Amendments
+
+1999—Subsec. (d)(8). Pub. L. 106–113, §1000(a)(7) \[div. A, title VIII, §806(a)\], added par. (8).
+
+Subsec. (f). Pub. L. 106–113, §1000(a)(2) \[title V, §597\], added subsec. (f).
 
 1998—Subsec. (c). Pub. L. 105–292, §421(a)(1), inserted “and in consultation with the Ambassador at Large for International Religious Freedom” after “Labor” in introductory provisions.
 
@@ -150,6 +190,10 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
 
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
 #### Assistance for Promoting Religious Freedom
 
 Pub. L. 105–292, title V, §501(a), Oct. 27, 1998, 112 Stat. 2811, provided that: “Congress makes the following findings:
@@ -160,7 +204,7 @@ Pub. L. 105–292, title V, §501(a), Oct. 27, 1998, 112 Stat. 2811, provided th
 
 #### Report on Human Rights to Committees on Appropriations
 
-Pub. L. 102–391, title V, §511(b), Oct. 6, 1992, 106 Stat. 1658, provided that: “The Secretary of State shall also transmit the report required by section 116(d) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151n(d)\] to the Committees on Appropriations each year by the date specified in that section: <i>Provided</i>, That each such report submitted pursuant to such section shall (1) include a review of each country's commitment to children's rights and welfare as called for by the Declaration of the World Summit for Children; (2) a description of the military expenditures of each country receivingUnited States foreign assistance, and the efforts each country is making to reduce those expenditures; and (3) describe the extent to which indigenous people are able to participate in decisions affecting their lands, cultures, traditions and the allocation of natural resources, and assess the extent of protection of their civil and political rights.”
+Pub. L. 102–391, title V, §511(b), Oct. 6, 1992, 106 Stat. 1658, provided that: “The Secretary of State shall also transmit the report required by section 116(d) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151n(d)\] to the Committees on Appropriations each year by the date specified in that section: <i>Provided</i>, That each such report submitted pursuant to such section shall (1) include a review of each country's commitment to children's rights and welfare as called for by the Declaration of the World Summit for Children; (2) a description of the military expenditures of each country receiving United States foreign assistance, and the efforts each country is making to reduce those expenditures; and (3) describe the extent to which indigenous people are able to participate in decisions affecting their lands, cultures, traditions and the allocation of natural resources, and assess the extent of protection of their civil and political rights.”
 
 #### Report on Impact on Foreign Relations of United States of Reports on Human Rights Practices of Foreign Governments
 
@@ -174,7 +218,9 @@ Implementation of United States policy opposing the practice of torture by forei
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2199, 2398, 2651a, 5732, 6402, 6412, 6442, 6445 of this title; title 48 section 1904.
+This section is referred to in sections 2199, 2296d, 2398, 2651a, 5732, 6402, 6412, 6442, 6445 of this title; title 48 section 1904.
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (b) have been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

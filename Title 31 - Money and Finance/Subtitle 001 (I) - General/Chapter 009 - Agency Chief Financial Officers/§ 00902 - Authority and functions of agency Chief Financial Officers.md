@@ -82,5 +82,5 @@ The Inspector General Act of 1978, referred to in subsec. (b)(2), is Pub. L. 95â
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3512 of this title; title 12 sections 1441a, 1821, 4703; title 38 section 309.
+This section is referred to in sections 901, 3512 of this title; title 12 sections 1441a, 1821, 4703; title 38 section 309.
 

@@ -62,7 +62,7 @@ The application shall include a plan ensuring that the unit—
 
 #### (2) Rental assistance
 
-&emsp;If a tenant decides not to purchase a unit, or is not qualified to do so, the Secretary shall,subject to the availability of appropriations, ensure that rental assistance under section 1437f of this title is available for use by each otherwise qualified tenant in that or another property.
+&emsp;If a tenant decides not to purchase a unit, or is not qualified to do so, the Secretary shall, subject to the availability of appropriations, ensure that rental assistance under section 1437f of this title is available for use by each otherwise qualified tenant in that or another property.
 
 #### (3) Relocation assistance
 

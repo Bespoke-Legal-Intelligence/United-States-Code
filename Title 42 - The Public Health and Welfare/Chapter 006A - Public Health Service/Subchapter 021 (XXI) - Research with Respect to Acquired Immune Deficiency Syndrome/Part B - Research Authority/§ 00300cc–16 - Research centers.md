@@ -20,7 +20,7 @@
 
 &emsp;(D) demonstration purposes, including projects in the long-term monitoring and outpatient treatment of individuals infected with the etiologic agent for such syndrome.
 
-(2) Financial assistance under subsection (a) of this section may not be expended to provide research training for which National Research Service Awards may be provided under section 288 of this title.
+(2) Financial assistance under subsection (a) of this section may not be expended to provide research training for which National ResearchService Awards may be provided under section 288 of this title.
 
 #### (c) Duration of support
 

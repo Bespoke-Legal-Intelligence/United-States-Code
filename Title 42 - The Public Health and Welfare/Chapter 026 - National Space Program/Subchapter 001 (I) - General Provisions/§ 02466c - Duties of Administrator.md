@@ -16,7 +16,7 @@ Each year the Administrator shall submit to the President of the Senate, the Spe
 
 #### (d) Lower-priced or no-cost flights for users involved in research, etc., with Space Administration
 
-The Administrator may set a price lower than the price determined under subsection (a) or (c) of this section, or provide no-cost flights, for any commercial or foreign user of the Space Transportation System who is involved in research, development or demonstration programs with the National Aeronautics and Space Administration.
+The Administrator may set a price lower than the price determined under subsection (a) or (c)of this section, or provide no-cost flights, for any commercial or foreign user of the Space Transportation System who is involved in research, development or demonstration programs with the National Aeronautics and Space Administration.
 
 #### (e) Customer incentives
 

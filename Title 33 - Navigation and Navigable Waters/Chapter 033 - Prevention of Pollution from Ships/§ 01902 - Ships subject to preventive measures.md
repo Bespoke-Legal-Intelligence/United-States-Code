@@ -152,7 +152,7 @@ Section 1003(e) of Pub. L. 103–160 provided that:
 
 “(2) Not later than July 1, 1996, the Secretary shall install the first production unit of the plastics processor on board a ship owned or operated by the Navy.
 
-“(3) Not later than March 1, 1997, the Secretary shall complete the installation of plastics processors on board not less than 25 percent of the ships owned or operated by the Navy that require plastics processors tocomply with section 3 of the Act to Prevent Pollution from Ships \[33 U.S.C. 1902\], as amended by subsections (a), (b), and (c) of this section.
+“(3) Not later than March 1, 1997, the Secretary shall complete the installation of plastics processors on board not less than 25 percent of the ships owned or operated by the Navy that require plastics processors to comply with section 3 of the Act to Prevent Pollution from Ships \[33 U.S.C. 1902\], as amended by subsections (a), (b), and (c) of this section.
 
 “(4) Not later than July 1, 1997, the Secretary shall complete the installation of plastics processors on board not less than 50 percent of the ships owned or operated by the Navy that require processors to comply with section 3 of such Act, as amended by subsections (a), (b), and (c) of this section.
 

@@ -74,13 +74,13 @@
 
 (B) A vessel with a fishery endorsement may be operated by a trustee only with the approval of the Secretary.
 
-(C) A right under a mortgage of a vessel with a fishery endorsement may be issued, assigned, or transferred to a person not eligible to be a mortgagee of that vessel under section 31322(a)(4) of this title only with the approval of the Secretary.
+(C) A right under a mortgage of a vessel with a fishery endorsement may be issued, assigned, ortransferred to a person not eligible to be a mortgagee of that vessel under section 31322(a)(4) of this title only with the approval of the Secretary.
 
 (D) The issuance, assignment, or transfer of an instrument or evidence of indebtedness contrary to this paragraph is voidable by the Secretary.
 
 (5) The requirements of this subsection shall not apply to a vessel when it is engaged in fisheries in the exclusive economic zone under the authority of the Western Pacific Fishery Management Council established under section 302(a)(1)(H) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(a)(1)(H)) or to a purse seine vessel when it is engaged in tuna fishing in the Pacific Ocean outside the exclusive economic zone of the United States or pursuant to the South Pacific Regional Fisheries Treaty, provided that the owner of the vessel continues to comply with the eligibility requirements for a fishery endorsement under the federal law that was in effect on October 1, 1998. A fishery endorsement issued by the Secretary pursuant to this paragraph shall be valid for engaging only in fisheries in the exclusive economic zone under the authority of such Council, in such tuna fishing in the Pacific Ocean, or pursuant to such Treaty.
 
-(6) A vessel greater than 165 feet in registered length, of more than 750 gross registered tons, or that has an engine or engines capable of producing a total of more than 3,000 shaft horsepower is noteligible for a fishery endorsement under section 12108 of this title unless—
+(6) A vessel greater than 165 feet in registered length, of more than 750 gross registered tons, or that has an engine or engines capable of producing a total of more than 3,000 shaft horsepower is not eligible for a fishery endorsement under section 12108 of this title unless—
 
 &emsp;(A)(i) a certificate of documentation was issued for the vessel and endorsed with a fishery endorsement that was effective on September 25, 1997;
 
@@ -161,6 +161,10 @@ Feet.—The Secretary of Transportation shall establish such requirements as are
 “(e)
 
 Endorsements Revoked.—The Secretary of Transportation shall revoke the fishery endorsement of any vessel subject to section 12102(c) of title 46, United States Code, as amended by this Act, whose owner does not comply with such section.”
+
+#### Inapplicability of Subsection (c)(6) to Certain Menhaden Fisheries
+
+Pub. L. 106–31, title III, §3027(c), May 21, 1999, 113 Stat. 102, provided that: “The limitation on registered length contained in section 12102(c)(6) of title 46, United States Code, shall not apply to a vessel used solely in any menhaden fishery which is located in the Gulf of Mexico or along the Atlantic coast south of the area under the authority of the New England Fishery Management Council for so long as such vessel is used in such fishery.”
 
 #### Application of Section to Fishing Vessels in California
 

@@ -1,6 +1,6 @@
 ### §705. Relief pending review
 
-When an agency finds that justice so requires, it may postpone the effective date of action taken by it, pending judicial review. On such conditions as may be required and to the extent necessary to prevent irreparable injury, the reviewing court, including the court to which a case may be taken on appeal from or on application for certiorari or other writ to a reviewing court, may issue all necessary and appropriate process to postpone the effective date of anagency action or to preserve status or rights pending conclusion of the review proceedings.
+When an agency finds that justice so requires, it may postpone the effective date of action taken by it, pending judicial review. On such conditions as may be required and to the extent necessary to prevent irreparable injury, the reviewing court, including the court to which a case may be taken on appeal from or on application for certiorari or other writ to a reviewing court, may issue all necessary and appropriate process to postpone the effective date of an agency action or to preserve status or rights pending conclusion of the review proceedings.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 393.)
 

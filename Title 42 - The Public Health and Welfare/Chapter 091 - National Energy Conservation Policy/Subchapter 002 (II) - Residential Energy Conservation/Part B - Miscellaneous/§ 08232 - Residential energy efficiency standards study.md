@@ -16,7 +16,7 @@ In conducting such study, the Secretary shall consider at least the following fa
 
 &emsp;(4) the sanctions which might be necessary to make such a requirement effective and the administrative impediments there might be to enforcement of such sanctions;
 
-&emsp;(5) the possible impact on sellers and purchasers as a result of the implementation of mandatory Federal actions, taking into account the experience of the Federal Government in imposing mandatory requirements concerning the purchase and sale of real property as occurred under the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2601 et seq.\] and the Federal Disaster Protection Act of 1973;
+&emsp;(5) the possible impact on sellers and purchasers as a result of the implementation ofmandatory Federal actions, taking into account the experience of the Federal Government in imposing mandatory requirements concerning the purchase and sale of real property as occurred under the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2601 et seq.\] and the Federal Disaster Protection Act of 1973;
 
 &emsp;(6) an analysis of the effect of such a requirement on the economy as a whole and on the Nation's security as compared to the impact on the credit and housing markets caused by such a requirement;
 

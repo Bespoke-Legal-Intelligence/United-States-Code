@@ -16,7 +16,7 @@ In subsec. (a), “chapter 31 of title 31” substituted for “the Second Liber
 
 Subsec. (b). Pub. L. 91–469, §43(a)(2), added subsec. (b).
 
-1957—Pub. L. 85–108 increased Corporation's borrowing authority from $105,000,000 to $140,000,000; omittedfirst year bond issue limitation, and raised limits of bond issues for any year from 40 to 50 per centum of total borrowing power; and authorized deferment of interest payments on borrowings, excluding such deferred interest charges from the debt limitation of $140,000,000.
+1957—Pub. L. 85–108 increased Corporation's borrowing authority from $105,000,000 to $140,000,000; omitted first year bond issue limitation, and raised limits of bond issues for any year from 40 to 50 per centum of total borrowing power; and authorized deferment of interest payments on borrowings, excluding such deferred interest charges from the debt limitation of $140,000,000.
 
 #### Section Referred to in Other Sections
 

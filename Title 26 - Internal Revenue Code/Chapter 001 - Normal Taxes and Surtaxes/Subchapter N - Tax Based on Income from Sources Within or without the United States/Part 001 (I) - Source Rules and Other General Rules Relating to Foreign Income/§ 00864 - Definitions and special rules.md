@@ -82,7 +82,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;&emsp;(ii) consists of dividends or interest, and either is derived in the active conduct of a banking, financing, or similar business within the United States or is received by a corporation the principal business of which is trading in stocks or securities for its own account; or
 
-&emsp;&emsp;(iii) is derived from the sale or exchange (outside the United States) through such office or other fixed place of business of personal property described in section 1221(1), except that this clause shall not apply if the property is sold or exchanged for use, consumption, or disposition outside the United States and an office or other fixed place of business of the taxpayer in a foreign country participated materially in such sale.
+&emsp;&emsp;(iii) is derived from the sale or exchange (outside the United States) through such office or other fixed place of business of personal property described in section 1221(a)(1), except that this clause shall not apply if the property is sold or exchanged for use, consumption, or disposition outside the United States and an office or other fixed place of business of the taxpayer in a foreign country participated materially in such sale.
 
 &emsp;(C) In the case of a foreign corporation taxable under part I or part II of subchapter L, any income from sources without the United States which is attributable to its United States business shall be treated as effectively connected with the conduct of a trade or business within the United States.
 
@@ -142,7 +142,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;For purposes of this subsection, the term “trade or service receivable” means any account receivable or evidence of indebtedness arising out of—
 
-&emsp;&emsp;(A) the disposition by a related person of property described in section 1221(1), or
+&emsp;&emsp;(A) the disposition by a related person of property described in section 1221(a)(1), or
 
 &emsp;&emsp;(B) the performance of services by a related person.
 
@@ -176,7 +176,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;Any income of a controlled foreign corporation (within the meaning of section 957(a)) from a loan to a person for the purpose of financing—
 
-&emsp;&emsp;(A) the purchase of property described in section 1221(1) of a related person, or
+&emsp;&emsp;(A) the purchase of property described in section 1221(a)(1) of a related person, or
 
 &emsp;&emsp;(B) the payment for the performance of services by a related person,
 
@@ -208,7 +208,7 @@ For purposes of this subchapter—
 
 #### (3) Tax-exempt assets not taken into account
 
-&emsp;For purposes of allocating and apportioning any deductible expense, any tax-exempt asset (and any income from such an asset) shall not be taken into account. A similar rule shall apply in the case of the portion of any dividend (other than a qualifying dividend as defined in section 243(b)) equal to the deduction allowable under section 243 or 245(a) with respect to such dividend and in the case of a like portion of any stock the dividends on which would be so deductible and would not be qualifying dividends (as so defined).
+&emsp;For purposes of allocating and apportioning any deductible expense, any tax-exempt asset\(and any income from such an asset) shall not be taken into account. A similar rule shall apply in the case of the portion of any dividend (other than a qualifying dividend as defined in section 243(b)) equal to the deduction allowable under section 243 or 245(a) with respect to such dividend and in the case of a like portion of any stock the dividends on which would be so deductible and would not be qualifying dividends (as so defined).
 
 #### (4) Basis of stock in nonaffiliated 10-percent owned corporations adjusted for earnings and profits changes
 
@@ -364,7 +364,7 @@ For purposes of this subchapter—
 
 &emsp;This subsection shall apply to the taxpayer's first taxable year (beginning on or before August 1, 1994) following the taxpayer's last taxable year to which Revenue Procedure 92–56 applies or would apply if the taxpayer elected the benefits of such Revenue Procedure.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 89–809, title I, §102(d), Nov. 13, 1966, 80 Stat. 1544; Pub. L. 94–455, title XIX, §1901(a)(113), Oct. 4, 1976, 90 Stat. 1783; Pub. L. 98–369, div. A, title I, §§123(a), 127(c), July 18, 1984, 98 Stat. 644, 651; Pub. L. 99–514, title XII, §§1201(d)(4), 1211(b)(2), 1215(a), (b)(1), 1221(a)(2), 1223(b)(1), 1242(a), (b), 1275(c)(7), title XVIII, §§1810(c)(2), (3), 1899A(21), Oct. 22, 1986, 100 Stat. 2525, 2536, 2544, 2545, 2550, 2558, 2580, 2599, 2824, 2959; Pub. L. 100–203, title X, §10242(b), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L. 100–647, title I, §1012(a)(1)(B), (d)(7), (10), (g)(5), (h)(1), (2)(A), (3)–(6), (p)(30), (r), Nov. 10, 1988, 102 Stat. 3494, 3498, 3499, 3501–3503, 3521, 3525; Pub. L. 101–239, title VII, §7111, Dec. 19, 1989, 103 Stat. 2326; Pub. L. 101–508, title XI, §11401(a), Nov. 5, 1990, 104 Stat. 1388–472; Pub. L. 102–227, title I, §101(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §13234, Aug. 10, 1993, 107 Stat. 504; Pub. L. 105–34, title XI, §1162(a), Aug. 5, 1997, 111 Stat. 987.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 89–809, title I, §102(d), Nov. 13, 1966, 80 Stat. 1544; Pub. L. 94–455, title XIX, §1901(a)(113), Oct. 4, 1976, 90 Stat. 1783; Pub. L. 98–369, div. A, title I, §§123(a), 127(c), July 18, 1984, 98 Stat. 644, 651; Pub. L. 99–514, title XII, §§1201(d)(4), 1211(b)(2), 1215(a), (b)(1), 1221(a)(2), 1223(b)(1), 1242(a), (b), 1275(c)(7), title XVIII, §§1810(c)(2), (3), 1899A(21), Oct. 22, 1986, 100 Stat. 2525, 2536, 2544, 2545, 2550, 2558, 2580, 2599, 2824, 2959; Pub. L. 100–203, title X, §10242(b), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L. 100–647, title I, §1012(a)(1)(B), (d)(7), (10), (g)(5), (h)(1), (2)(A), (3)–(6), (p)(30), (r), Nov. 10, 1988, 102 Stat. 3494, 3498, 3499, 3501–3503, 3521, 3525; Pub. L. 101–239, title VII, §7111, Dec. 19, 1989, 103 Stat. 2326; Pub. L. 101–508, title XI, §11401(a), Nov. 5, 1990, 104 Stat. 1388–472; Pub. L. 102–227, title I, §101(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §13234, Aug. 10, 1993, 107 Stat. 504; Pub. L. 105–34, title XI, §1162(a), Aug. 5, 1997, 111 Stat. 987; Pub. L. 106–170, title V, §532(c)(2)(N)–(P), Dec. 17, 1999, 113 Stat. 1931.)
 
 #### References in Text
 
@@ -373,6 +373,8 @@ Section 956(b)(3), referred to in subsec. (d)(8), was redesignated section 956(c
 Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (e)(5)(D)(i), is classified to section 1841(a) of Title 12, Banks and Banking.
 
 #### Amendments
+
+1999—Subsecs. (c)(4)(B)(iii), (d)(3)(A), (6)(A). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
 
 1997—Subsec. (b)(2)(A)(ii). Pub. L. 105–34 struck out “, or in the case of a corporation (other than a corporation which is, or but for section 542(c)(7), 542(c)(10), or 543(b)(1)(C) would be, a personal holding company) the principal business of which is trading in stocks or securities for its own account, if its principal office is in the United States” after “dealer in stocks or securities”.
 
@@ -486,6 +488,10 @@ Subsec. (c)(5)(C). Pub. L. 94–455, §1901(a)(113)(B), substituted “sale or e
 
 1966—Pub. L. 89–809 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Section 1162(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
@@ -500,7 +506,7 @@ Section 11401(b) of Pub. L. 101–508 provided that: “The amendment made by su
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -528,7 +534,7 @@ General phase-in.—
 
 &emsp;&emsp;“(i)
 
-In general.—In the case of the 1st 3 taxable years of the taxpayer beginning after December 31,1986, the amendments made by this section shall not apply to interest expenses paid or accrued by the taxpayer during the taxable year with respect to an aggregate amount of indebtedness which does not exceed the general phase-in amount.
+In general.—In the case of the 1st 3 taxable years of the taxpayer beginning after December 31, 1986, the amendments made by this section shall not apply to interest expenses paid or accrued by the taxpayer during the taxable year with respect to an aggregate amount of indebtedness which does not exceed the general phase-in amount.
 
 &emsp;&emsp;“(ii)
 
@@ -634,7 +640,7 @@ Paydowns.—For purposes of applying this subparagraph to interest expenses attr
 
 &emsp;&emsp;&emsp;“(I) the aggregate amount of indebtedness of the taxpayer outstanding on November 16, 1985, over
 
-&emsp;&emsp;&emsp;“(II) the lowest amount of indebtedness of the taxpayer outstanding as of the close of any preceding month beginning after November 16, 1985 (or, to the extent provided in regulations under subparagraph (A)(iii), the average amount of indebtedness outstanding during any such month).
+&emsp;&emsp;&emsp;“(II) the lowest amount of indebtedness of the taxpayer outstanding as of the close of any preceding month beginning after November 16, 1985 (or, to the extent provided in regulations undersubparagraph (A)(iii), the average amount of indebtedness outstanding during any such month).
 
 &emsp;“(C)
 

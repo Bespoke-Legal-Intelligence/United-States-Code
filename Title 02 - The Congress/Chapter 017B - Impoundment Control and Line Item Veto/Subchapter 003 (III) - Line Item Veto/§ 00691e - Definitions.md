@@ -48,7 +48,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(B) which does not have a preamble; and
 
-&emsp;&emsp;(C) which provides only the following after the enacting clause: “That Congress disapproves of cancellations \_\_\_\_\_\_\_\_”, the blank space being filled in with a list by reference number of one or more cancellations contained in the President's special message, “as transmitted by the President in a special message on \_\_\_\_\_\_\_\_”, the blank space being filled in with the appropriate date, “regarding \_\_\_\_\_\_\_\_.”, the blank space being filled in with the public law number to which the special message relates.
+&emsp;&emsp;(C) which provides only the following after the enacting clause: “That Congress disapproves of cancellations \_\_\_\_\_\_\_\_”, theblank space being filled in with a list by reference number of one or more cancellations contained in the President's special message, “as transmitted by the President in a special message on \_\_\_\_\_\_\_\_”, the blank space being filled in with the appropriate date, “regarding \_\_\_\_\_\_\_\_.”, the blank space being filled in with the public law number to which the special message relates.
 
 #### (7) Dollar amount of discretionary budget authority
 
@@ -58,7 +58,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(ii) represented separately in any table, chart, or explanatory text included in the statement of managers or the governing committee report accompanying such law;
 
-&emsp;&emsp;(iii) required to be allocated for a specific program, project, or activity in a law (other than an appropriation law) that mandatesthe expenditure of budget authority from accounts, programs, projects, or activities for which budget authority is provided in an appropriation law;
+&emsp;&emsp;(iii) required to be allocated for a specific program, project, or activity in a law (other than an appropriation law) that mandates the expenditure of budget authority from accounts, programs, projects, or activities for which budget authority is provided in an appropriation law;
 
 &emsp;&emsp;(iv) represented by the product of the estimated procurement cost and the total quantity of items specified in an appropriation law or included in the statement of managers or the governing committee report accompanying such law; or
 

@@ -2,7 +2,7 @@ Part B—Even Start Family Literacy Programs
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 6302, 6661b, 6661d, 8852, 8857 of this title; title 29 section 1645; title 31 section 6703; title 42 section 9855d.
+This part is referred to in sections 6302, 6661b, 6661d, 8852, 8857 of this title; title 29 section 1645; title 31 section 6703.
 
 
 ---

@@ -42,7 +42,7 @@ Minimum Standards for Testing and Fitness.—The Secretary of Transportation sha
 
 (b)
 
-Requirements for Operating Vehicles.—(1) Except as provided in paragraph (2) of this subsection, an individual may operate a commercial motor vehicle only if the individual has passed written and driving tests to operate the vehicle that meet the minimum standards prescribed by the Secretary under subsection (a) of this section.
+Requirements for Operating Vehicles.—(1) Except as provided in paragraph (2) of this subsection, an individual may operate a commercial motor vehicle only if the individual has passed written and driving tests that meet the minimum standards prescribed by the Secretary under subsection (a) of this section to operate the vehicle and has a commercial driver's license to operate the vehicle.
 
 (2) The Secretary may prescribe regulations providing that an individual may operate a commercial motor vehicle for not more than 90 days if the individual—
 
@@ -50,7 +50,7 @@ Requirements for Operating Vehicles.—(1) Except as provided in paragraph (2) o
 
 &emsp;(B) has a driver's license that is not suspended, revoked, or canceled.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1016.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1016; Pub. L. 106–159, title II, §201(d), Dec. 9, 1999, 113 Stat. 1760.)
 
 Historical and Revision Notes
 
@@ -77,6 +77,28 @@ In this section, the word “Federal” is omitted as unnecessary.
 In subsection (a), before clause (1), the words “Not later than July 15, 1988” are omitted as obsolete. In clause (3), the words “if the Secretary considers appropriate to carry out the objectives of this title” are omitted as unnecessary.
 
 In subsection (b)(1), the words “taken and” are omitted as unnecessary. The text of 49 App.:2704(b)(3) is omitted as obsolete.
+
+#### Amendments
+
+1999—Subsec. (b)(1). Pub. L. 106–159 struck out “to operate the vehicle” after “written and driving tests” and inserted “to operate the vehicle and has a commercial driver's license to operate the vehicle” before period at end.
+
+#### CDL School Bus Endorsement
+
+Pub. L. 106–159, title II, §214, Dec. 9, 1999, 113 Stat. 1766, provided that: “The Secretary shall conduct arulemaking to establish a special commercial driver's license endorsement for drivers of school buses. The endorsement shall, at a minimum—
+
+&emsp;“(1) include a driving skills test in a school bus; and
+
+&emsp;“(2) address proper safety procedures for—
+
+&emsp;&emsp;“(A) loading and unloading children;
+
+&emsp;&emsp;“(B) using emergency exits; and
+
+&emsp;&emsp;“(C) traversing highway rail grade crossings.”
+
+#### Medical Certificate
+
+Pub. L. 106–159, title II, §215, Dec. 9, 1999, 113 Stat. 1767, provided that: “The Secretary shall initiate a rulemaking to provide for a Federal medical qualification certificate to be made a part of commercial driver's licenses.”
 
 #### Insulin Treated Diabetes Mellitus
 
@@ -154,5 +176,5 @@ Nonsedating Medications.—The Secretary shall review available information on t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 521, 31308, 31311 of this title.
+This section is referred to in sections 521, 31301, 31308, 31311 of this title.
 

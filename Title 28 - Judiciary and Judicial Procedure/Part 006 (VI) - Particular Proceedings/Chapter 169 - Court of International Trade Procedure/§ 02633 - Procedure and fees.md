@@ -58,7 +58,7 @@ The clerk shall collect in advance from the parties fees for miscellaneous servi
 
 &emsp;10\. For a duplicate certificate of admission or certificate of good standing, $15.00.
 
-&emsp;11\. For handling registry funds, a charge shall be assessed from interest earnings and in accordance with the detailed fee schedule issued by the Director of the Administrative Office of the United States Courts.
+&emsp;11\. For handling registry funds, a charge shall be assessed from interest earnings and in accordance with the detailed fee schedule issued by the Director of the Administrative Office of the United States Courts, 3%.
 
 &emsp;12\. For usage of electronic access to court data for each minute of usage, $.60. The court may, for good cause, exempt persons or classes of persons from the fees, in order to avoid unreasonable burdens and to promote public access to such information. This fee shall apply to the United States. The court has adopted an advisory note consistent with that approved by the Judicial Conference of the United States clarifying the policy with respect to exemptions from this fee.
 

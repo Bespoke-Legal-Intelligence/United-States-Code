@@ -24,7 +24,7 @@ Withholding.—If the Secretary determines that any registrant under this sectio
 
 &emsp;(4)
 
-Limitation on complaints.—The Secretary may hear a complaint from any person concerning a registration under this subsection only on the ground that the registrant fails or will fail to comply with this part, the applicable regulations of the Secretary andthe Board, the safety regulations of the Secretary, or the safety fitness or minimum financial responsibility requirements of paragraph (1) of this subsection.
+Limitation on complaints.—The Secretary may hear a complaint from any person concerning a registration under this subsection only on the ground that the registrant fails or will fail to comply with this part, the applicable regulations of the Secretary and the Board, the safety regulations of the Secretary, or the safety fitness or minimum financial responsibility requirements of paragraph (1) of this subsection.
 
 (b)
 
@@ -110,7 +110,7 @@ Prevention of discriminatory practices.—If the President, or the delegate ther
 
 &emsp;&emsp;(A) seek elimination of such practices through consultations; or
 
-&emsp;&emsp;(B) notwithstanding any other provision of law, suspend, modify, amend, condition, or restrict operations, including geographical restriction of operations, in the United States by motor carriers of property or passengers domiciled in such foreign country or owned or controlled by persons of such foreign country.
+&emsp;&emsp;(B) notwithstanding any other provision of law, suspend, modify, amend, condition, orrestrict operations, including geographical restriction of operations, in the United States by motor carriers of property or passengers domiciled in such foreign country or owned or controlled by persons of such foreign country.
 
 &emsp;(2)
 
@@ -162,9 +162,21 @@ Definitions.—In this subsection, the terms “motor common carrier” and “m
 
 (e)
 
+Penalties for Failure To Comply With Registration Requirements.—In addition to other penalties available under law, motor carriers that fail to register their operations as required by this section or that operate beyond the scope of their registrations may be subject to the following penalties:
+
+&emsp;(1)
+
+Out-of-service orders.—If, upon inspection or investigation, the Secretary determines that a motor vehicle providing transportation requiring registration under this section is operating without a registration or beyond the scope of its registration, the Secretary may order the vehicle out-of-service. Subsequent to the issuance of the out-of-service order, the Secretary shall provide an opportunity for review in accordance with section 554 of title 5, United States Code; except that such review shall occur not later than 10 days after issuance of such order.
+
+&emsp;(2)
+
+Permission for operations.—A person domiciled in a country contiguous to the United States with respect to which an action under subsection (c)(1)(A) or (c)(1)(B) is in effect and providing transportation for which registration is required under this section shall maintain evidence of such registration in the motor vehicle when the person is providing the transportation. The Secretary shall not permit the operation in interstate commerce in the United States of any motor vehicle in which there is not a copy of the registration issued pursuant to this section.
+
+(f)
+
 Motor Carrier Defined.—In this section and sections 13905 and 13906, the term “motor carrier” includes foreign motor private carriers.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 880; amended Pub. L. 104–287, §5(32), Oct. 11, 1996, 110 Stat. 3391.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 880; amended Pub. L. 104–287, §5(32), Oct. 11, 1996, 110 Stat. 3391; Pub. L. 106–159, title II, §205, Dec. 9, 1999, 113 Stat. 1762.)
 
 #### Historical and Revision Notes
 
@@ -193,6 +205,8 @@ Section 10102, referred to in subsec. (d)(2), was omitted and a new section 1010
 Provisions similar to those in this section were contained in section 10922 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 #### Amendments
+
+1999—Subsecs. (e), (f). Pub. L. 106–159 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 1996—Subsec. (b)(8)(A). Pub. L. 104–287, §5(32)(A), inserted “and” after “any Indian tribe,” in cl. (iv), struck out “and” after “clause (i), (ii), (iii), or (iv),” in cl. (v), and substituted “January 1, 1996,” for “the effective date of this subsection” in concluding provisions.
 
@@ -238,7 +252,7 @@ As set forth in the Statement of Administrative Action regarding the North Ameri
 
 This is to give public notice that, pursuant to section 6 of the Bus Regulatory Reform Act of 1982, 49 U.S.C. section 10922(<i>l</i>)(2)(A) \[see former 49 U.S.C. 10922(m)(2)(A)\], on November 3, 1993, I gave the Congress notice of my intention to make a limited modification to the moratorium imposed by that section and all actions taken by my predecessors under that section on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by, persons of Mexico. This modification will take effect on January 1, 1994, the 60th day after my notice to the Congress.
 
-The moratorium is modified only to authorize the Interstate Commerce Commission to grant Mexican motor carriers authority to transport passengers in charter or tour bus operations, in foreign commerce, in round-trip or one-way service between Mexico and the United States.
+The moratorium is modified only to authorize the Interstate Commerce Commission to grant Mexicanmotor carriers authority to transport passengers in charter or tour bus operations, in foreign commerce, in round-trip or one-way service between Mexico and the United States.
 
 This action applies only to international charter or tour bus operations, does not allow for point-to-point bus service within the United States, and does not authorize companies to conduct cross-border regular route bus service.
 
@@ -248,7 +262,7 @@ This determination shall be published in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-\[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate,see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.\]
+\[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.\]
 
 #### Extension of Moratorium
 
@@ -274,5 +288,5 @@ Memorandum of President of the United States, Aug. 30, 1984, 49 F.R. 35001, exte
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 13507, 13905, 13906, 14301, 14701, 14702, 14707, 14708, 14901, 14910, 24305 of this title.
+This section is referred to in sections 13507, 13905, 13906, 14301, 14701, 14702, 14707, 14708, 14901, 14910, 24305, 31102 of this title.
 

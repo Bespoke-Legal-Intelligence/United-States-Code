@@ -6,7 +6,7 @@ Where an individual enters into an agreement for obligated service in return for
 
 #### (b) Breach of contract; repayment
 
-Where an individual fails to accept a reasonable offer of employment in fulfillment of such obligated service or unreasonably terminates or fails to perform the duties of such employment, the Secretary shall require a repayment of the financial assistance provided, prorated for the amount of time of obligated service performed, together with interest on such amount which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States.
+Where an individual fails to accept a reasonable offer of employment in fulfillment of suchobligated service or unreasonably terminates or fails to perform the duties of such employment, the Secretary shall require a repayment of the financial assistance provided, prorated for the amount of time of obligated service performed, together with interest on such amount which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States.
 
 (Pub. L. 101–630, title III, §317, Nov. 28, 1990, 104 Stat. 4544.)
 

@@ -50,7 +50,7 @@ In carrying out the functions specified in subsection (b) of this section, the S
 
 &emsp;(6) prepare, certify, and sell standard reference materials for use in ensuring the accuracy of chemical analyses and measurements of physical and other properties of materials;
 
-&emsp;(7) in furtherance of the purposes of this chapter, accept research associates, cash donations, and donated equipment from industry, and also engage with industry in research todevelop new basic and generic technologies for traditional and new products and for improved production and manufacturing;
+&emsp;(7) in furtherance of the purposes of this chapter, accept research associates, cash donations, and donated equipment from industry, and also engage with industry in research to develop new basic and generic technologies for traditional and new products and for improved production and manufacturing;
 
 &emsp;(8) study and develop fundamental scientific understanding and improved measurement, analysis, synthesis, processing, and fabrication methods for chemical substances and compounds, ferrous and nonferrous metals, and all traditional and advanced materials, including processes of degradation;
 

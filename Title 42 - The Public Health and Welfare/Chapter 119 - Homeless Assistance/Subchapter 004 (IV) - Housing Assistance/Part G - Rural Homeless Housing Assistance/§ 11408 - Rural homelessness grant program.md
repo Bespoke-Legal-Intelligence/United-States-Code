@@ -100,7 +100,7 @@ In order to be eligible to receive a grant under subsection (a) of this section,
 
 &emsp;(5) an agreement by the organization that the organization will collect data on the projects conducted by the organization, including assistance provided, number and characteristics of persons served, and causes of homelessness for persons served; and
 
-&emsp;(6) an agreement by the organization that, to the maximum extent practicable, the organization will involve homeless individuals and families through employment, volunteer services, and otherwise, in providing, operating, and rehabilitating housing assisted under this section and in providing services assisted under this section and services for occupants of housing assisted under this section.
+&emsp;(6) an agreement by the organization that, to the maximum extent practicable, the organization will involve homeless individuals andfamilies through employment, volunteer services, and otherwise, in providing, operating, and rehabilitating housing assisted under this section and in providing services assisted under this section and services for occupants of housing assisted under this section.
 
 #### (e) Eligible organizations
 

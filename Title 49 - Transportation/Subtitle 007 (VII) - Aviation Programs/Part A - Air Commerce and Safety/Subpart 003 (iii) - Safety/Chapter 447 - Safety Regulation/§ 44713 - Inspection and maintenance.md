@@ -2,7 +2,7 @@
 
 (a)
 
-General Equipment Requirements.—An air carrier shall make, or cause to be made, any inspection, repair, or maintenance of equipment used in air transportation as required by this part or regulations prescribed or orders issued by the Administrator of the Federal Aviation Administration under this part. A person operating, inspecting, repairing, or maintaining the equipment shall comply with those requirements, regulations, and orders.
+General Equipment Requirements.—An air carrier shall make, or cause to be made, any inspection, repair, or maintenance of equipment used in air transportation as required by this part or regulations prescribed or orders issuedby the Administrator of the Federal Aviation Administration under this part. A person operating, inspecting, repairing, or maintaining the equipment shall comply with those requirements, regulations, and orders.
 
 (b)
 
@@ -116,7 +116,7 @@ In subsections (a)–(c), the word “Administrator” in section 605(a) and (b)
 
 In subsection (a), the word “overhaul” is omitted as being included in “repair”. The word “prescribed” is added for consistency in the revised title and with other titles of the United States Code. The words “A person operating, inspecting, overhauling, or maintaining the equipment shall comply with those requirements, regulations, and orders” are substituted for 49 App.:1425(a) (last sentence) to eliminate unnecessary words.
 
-In subsection (b), before clause (1), the words “be charged with the duty . . . of” are omitted as surplus. In clause (1), the words “in use” are substituted for “used by an air carrier in air transportation” to eliminate unnecessary words. The words “as may be necessary” and “for operation in air transportation” are omitted as surplus.
+In subsection (b), before clause (1), the words “be charged with the duty . . . of” are omitted as surplus.In clause (1), the words “in use” are substituted for “used by an air carrier in air transportation” to eliminate unnecessary words. The words “as may be necessary” and “for operation in air transportation” are omitted as surplus.
 
 In subsection (c), the words “in the performance of his duty”, “used or intended to be used by any air carrier in air transportation”, and “a period of” are omitted as surplus.
 

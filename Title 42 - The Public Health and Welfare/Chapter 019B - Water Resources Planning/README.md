@@ -468,6 +468,36 @@ Approval of Governors for diversion studies.
 
 Previously authorized diversions.
 
+|  |  |
+| :--- | ---: |
+| 1962d–21. | John Glenn Great Lakes basin program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Strategic plans.
+
+(b)
+
+Great Lakes biohydrological information.
+
+(c)
+
+Great Lakes recreational boating.
+
+(d)
+
+Cooperation.
+
+(e)
+
+Water use activities and policies.
+
+(f)
+
+Cost sharing.
+
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 1962d–4 of this title; title 16 section 1275; title 22 section 2361; title 33 section 1289; title 43 section 1511.

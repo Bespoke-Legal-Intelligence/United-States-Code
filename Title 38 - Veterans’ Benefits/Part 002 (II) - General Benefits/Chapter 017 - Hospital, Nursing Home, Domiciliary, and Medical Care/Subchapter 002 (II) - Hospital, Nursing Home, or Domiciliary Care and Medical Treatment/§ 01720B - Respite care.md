@@ -1,18 +1,26 @@
 ### §1720B. Respite care
 
-(a) The Secretary may furnish respite care services to a veteran who is eligible to receive care under section 1710 of this title.
+(a) The Secretary may furnish respite care services to a veteran who is enrolled to receive care under section 1710 of this title.
 
-(b) For the purpose of this section, the term “respite care” means hospital or nursing home care which—
+(b) For the purpose of this section, the term “respite care services” means care and services which—
 
-&emsp;(1) is of limited duration;
+&emsp;(1) are of limited duration;
 
-&emsp;(2) is furnished in a Department facility on an intermittent basis to a veteran who is suffering from a chronic illness and who resides primarily at home; and
+&emsp;(2) are furnished on an intermittent basis to a veteran who is suffering from a chronic illness and who resides primarily at home; and
 
-&emsp;(3) is furnished for the purpose of helping the veteran to continue residing primarily at home.
+&emsp;(3) are furnished for the purpose of helping the veteran to continue residing primarily at home.
 
-(Added Pub. L. 99–576, title II, §201(a)(1), Oct. 28, 1986, 100 Stat. 3254, §620B; amended Pub. L. 101–237, title II, §201(a), Dec. 18, 1989, 103 Stat. 2066; renumbered §1720B and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, §502, Nov. 4, 1992, 106 Stat. 4955.)
+(c) In furnishing respite care services, the Secretary may enter into contract arrangements.
+
+(Added Pub. L. 99–576, title II, §201(a)(1), Oct. 28, 1986, 100 Stat. 3254, §620B; amended Pub. L. 101–237, title II, §201(a), Dec. 18, 1989, 103 Stat. 2066; renumbered §1720B and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, §502, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 106–117, title I, §101(e), Nov. 30, 1999, 113 Stat. 1549.)
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–117, §101(e)(1), substituted “enrolled” for “eligible”.
+
+Subsec. (b). Pub. L. 106–117, §101(e)(2), in introductory provisions, substituted “the term ‘respite care services’ means care and services” for “the term ‘respite care’ means hospital or nursing home care”, in par. (1) substituted “are” for “is”, in par. (2) substituted “are” for “is” and struck out “in a Department facility” after “furnished”, and in par. (3) substituted “are” for “is”.
+
+Subsec. (c). Pub. L. 106–117, §101(e)(3), added subsec. (c).
 
 1992—Subsec. (c). Pub. L. 102–585 struck out subsec. (c) which read as follows: “The authority provided by this section terminates on September 30, 1992.”
 
@@ -39,4 +47,8 @@ Pub. L. 101–110, §1(a), Oct. 6, 1989, 103 Stat. 682, provided that: “Notwit
 #### Report
 
 Section 201(b) of Pub. L. 99–576 provided that if the Administrator of Veterans’ Affairs furnished respite care under this section, the Administrator was to conduct an evaluation of the health efficacy and cost-effectiveness of furnishing such care and submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives not later than Feb. 1, 1989, a report containing the results of such evaluation and appropriate recommendations.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1710B of this title.
 

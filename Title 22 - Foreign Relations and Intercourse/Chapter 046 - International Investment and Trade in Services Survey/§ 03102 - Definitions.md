@@ -14,7 +14,7 @@ As used in this chapter, the term—
 
 &emsp;(6) “business enterprise” means any organization, association, branch, or venture which exists for profitmaking purposes or to otherwise secure economic advantage, and any ownership of any real estate;
 
-&emsp;(7) “parent” means a person of one country who, directly or indirectly, owns or controls 10 per centum or more of the voting stock of an incorporated business enterprise, or an equivalent ownership interest in an unincorporated business enterprise, which is located outside that country;
+&emsp;(7) “parent” means a person of one country who, directly or indirectly, owns or controls 10per centum or more of the voting stock of an incorporated business enterprise, or an equivalent ownership interest in an unincorporated business enterprise, which is located outside that country;
 
 &emsp;(8) “affiliate” means a business enterprise located in one country which is directly or indirectly owned or controlled by a person of another country to the extent of 10 per centum or more of its voting stock for an incorporated business or an equivalent interest for an unincorporated business, including a branch;
 

@@ -6,7 +6,7 @@ State member banks may make investments designed primarily to promote the public
 
 #### Amendment of Section
 
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(8), Sept. 30, 1996, 110 Stat. 3009–487, 3009–489, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, this section is amended in the 4th sentence, by substituting “Deposit Insurance Fund” for “affected deposit insurance fund”.</i>
+<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(8), Sept. 30, 1996, 110 Stat. 3009–487, 3009–489, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings</i><i>association on that date, this section is amended in the 4th sentence, by substituting “Deposit Insurance Fund” for “affected deposit insurance fund”.</i>
 
 #### Codification
 

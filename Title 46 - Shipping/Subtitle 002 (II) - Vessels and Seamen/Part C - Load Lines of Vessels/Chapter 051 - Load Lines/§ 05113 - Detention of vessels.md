@@ -18,7 +18,7 @@
 
 Source: Section (U.S. Code) 46 App. U.S.C. 86h, 88f.
 
-Section 5113 authorizes the Secretary to detain a vessel if the Secretary believes that the vessel is in violation of the load line requirements, and describes the process through which a vessel may be cleared. It also states that a vessel owner is liable for certain costs resulting from a petition for review and load line survey that is made pursuant to a violation of load line requirements.
+Section 5113 authorizes the Secretary to detain a vessel if the Secretary believes that the vessel is in violation of the load line requirements, and describes the process through which a vessel may be cleared. It alsostates that a vessel owner is liable for certain costs resulting from a petition for review and load line survey that is made pursuant to a violation of load line requirements.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Recordkeeping requirement; scope of disclosure; other sources of funds
 
-Each recipient of funds under this chapter shall keep such records as the Office of Justice Programs shall prescribe, including records which fully disclose the amount and disposition by such recipient of the funds, the total cost of the project or undertaking for which such funds are used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+Each recipient of funds under this chapter shall keep such records as the Office of Justice Programs shall prescribe, including records which fully disclose the amount and dispositionby such recipient of the funds, the total cost of the project or undertaking for which such funds are used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 #### (b) Access to records for audit and examination
 

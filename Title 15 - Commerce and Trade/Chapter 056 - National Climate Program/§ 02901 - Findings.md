@@ -90,5 +90,5 @@ Coordination of United States Policy in the International Arena.—The Secretary
 
 #### “SEC. 1106. CLIMATE PROTECTION AND UNITED STATES RELATIONS WITH THE INDEPENDENT STATES OF THE FORMER SOVIET UNION.
 
-“In recognition of the respective leadership roles of the United States and the independent states of the former Soviet Union in the international arena, and of the extent to which they are producers of atmosphericpollutants, the Congress urges that the President accord the problem of climate protection a high priority on the agenda of United States relations with the independent states.”
+“In recognition of the respective leadership roles of the United States and the independent states of the former Soviet Union in the international arena, and of the extent to which they are producers of atmospheric pollutants, the Congress urges that the President accord the problem of climate protection a high priority on the agenda of United States relations with the independent states.”
 

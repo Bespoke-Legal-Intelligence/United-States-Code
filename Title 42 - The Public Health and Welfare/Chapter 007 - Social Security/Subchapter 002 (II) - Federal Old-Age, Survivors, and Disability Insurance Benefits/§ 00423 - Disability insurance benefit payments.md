@@ -20,7 +20,7 @@
 
 &emsp;(B) in any case in which clause (ii) of paragraph (1) of this subsection is applicable, the first month for which he becomes entitled to such disability insurance benefits,
 
-> and as though he had become entitled to old-age insurance benefits in the month in which the application for disability insurance benefits was filed and he was entitled to an old-age insurance benefit for each month for which (pursuant to subsection (b) of this section) he was entitled to a disability insurance benefit. For the purposes of the preceding sentence, in the case of an individual who attained age 62 in or before the first month referred to in subparagraph (A) or (B) of such sentence, as the case may be, the elapsedyears referred to in section 415(b)(3) of this title shall not include the year in which he attained age 62, or any year thereafter.
+> and as though he had become entitled to old-age insurance benefits in the month in which the application for disability insurance benefits was filed and he was entitled to an old-age insurance benefit for each month for which (pursuant to subsection (b) of this section) he was entitled to a disability insurance benefit. For the purposes of the preceding sentence, in the case of an individual who attained age 62 in or before the first month referred to in subparagraph (A) or (B) of such sentence, as the case may be, the elapsed years referred to in section 415(b)(3) of this title shall not include the year in which he attained age 62, or any year thereafter.
 
 #### (b) Filing application
 
@@ -60,9 +60,9 @@ For purposes of this section—
 
 (2) For purposes of paragraph (1)(A)—
 
-&emsp;(A) An individual shall be determined to be under a disability only if his physical or mental impairment or impairments are of such severity that he is not only unable to do his previous work but cannot, considering his age, education, and work experience, engage in any other kind of substantial gainful work which exists in the national economy, regardless of whether such work exists in the immediate area in which he lives, or whether a specific job vacancy exists for him, or whether he would be hired if he applied for work. For purposes of the preceding sentence (with respect to any individual), “work which exists in the national economy” means work which exists in significant numbers either in the region where such individual lives or in several regions of the country.
+&emsp;(A) An individual shall be determined to be under a disability only if his physical or mental impairment or impairments are of such severity that he is not only unable to do his previous work but cannot, considering his age, education, and work experience, engage in any other kind of substantial gainful work which exists in the national economy, regardless of whether such work exists in the immediate area in which he lives, or whether a specific job vacancy exists for him, or whether he would be hired if he applied for work. For purposes of the preceding sentence (with respect to any individual), “work which exists in the national economy” means work which existsin significant numbers either in the region where such individual lives or in several regions of the country.
 
-&emsp;(B) In determining whether an individual's physical or mental impairment or impairments are of a sufficient medical severity that such impairment or impairments could be the basis of eligibility under this section, theCommissioner of Social Security shall consider the combined effect of all of the individual's impairments without regard to whether any such impairment, if considered separately, would be of such severity. If the Commissioner of Social Security does find a medically severe combination of impairments, the combined impact of the impairments shall be considered throughout the disability determination process.
+&emsp;(B) In determining whether an individual's physical or mental impairment or impairments are of a sufficient medical severity that such impairment or impairments could be the basis of eligibility under this section, the Commissioner of Social Security shall consider the combined effect of all of the individual's impairments without regard to whether any such impairment, if considered separately, would be of such severity. If the Commissioner of Social Security does find a medically severe combination of impairments, the combined impact of the impairments shall be considered throughout the disability determination process.
 
 &emsp;(C) An individual shall not be considered to be disabled for purposes of this subchapter if alcoholism or drug addiction would (but for this subparagraph) be a contributing factor material to the Commissioner's determination that the individual is disabled.
 
@@ -140,11 +140,81 @@ A recipient of benefits under this subchapter or subchapter XVIII of this chapte
 
 (3) Any benefits currently paid under this subchapter pursuant to this subsection (for the months described in paragraph (1)) shall not be considered overpayments for any purpose of this subchapter (unless payment of such benefits was fraudulently obtained), and such benefits shall not be treated as past-due benefits for purposes of section 406(b)(1) of this title.
 
-#### (i) Limitation on payments to prisoners
+#### (i) Reinstatement of entitlement
+
+(1)(A) Entitlement to benefits described in subparagraph (B)(i)(I) shall be reinstated in any case where the Commissioner determines that an individual described in subparagraph (B) has filed a request for reinstatement meeting the requirements of paragraph (2)(A) during the period prescribed in subparagraph (C). Reinstatement of such entitlement shall be in accordance with the terms of this subsection.
+
+(B) An individual is described in this subparagraph if—
+
+&emsp;(i) prior to the month in which the individual files a request for reinstatement—
+
+&emsp;&emsp;(I) the individual was entitled to benefits under this section or section 402 of this title on the basis of disability pursuant to an application filed therefor; and
+
+&emsp;&emsp;(II) such entitlement terminated due to the performance of substantial gainful activity;
+
+&emsp;(ii) the individual is under a disability and the physical or mental impairment that is the basis for the finding of disability is the same as (or related to) the physical or mental impairment that was the basis for the finding of disability that gave rise to the entitlement described in clause (i); and
+
+&emsp;(iii) the individual's disability renders the individual unable to perform substantial gainful activity.
+
+(C)(i) Except as provided in clause (ii), the period prescribed in this subparagraph with respect to an individual is 60 consecutive months beginning with the month following the most recent month for which the individual was entitled to a benefit described in subparagraph (B)(i)(I) prior to the entitlement termination described in subparagraph (B)(i)(II).
+
+(ii) In the case of an individual who fails to file a reinstatement request within the period prescribed in clause (i), the Commissioner may extend the period if the Commissioner determines that the individual had good cause for the failure to so file.
+
+(2)(A)(i) A request for reinstatement shall be filed in such form, and containing such information, as the Commissioner may prescribe.
+
+(ii) A request for reinstatement shall include express declarations by the individual that the individual meets the requirements specified in clauses (ii) and (iii) of paragraph (1)(B).
+
+(B) A request for reinstatement filed in accordance with subparagraph (A) may constitute an application for benefits in the case of any individual who the Commissioner determines is not entitled to reinstated benefits under this subsection.
+
+(3) In determining whether an individual meets the requirements of paragraph (1)(B)(ii), the provisions of subsection (f) of this section shall apply.
+
+(4)(A)(i) Subject to clause (ii), entitlement to benefits reinstated under this subsection shall commence with the benefit payable for the month in which a request for reinstatement is filed.
+
+(ii) An individual whose entitlement to a benefit for any month would have been reinstated under this subsection had the individual filed a request for reinstatement before the end of such month shall be entitled to such benefit for such month if such request for reinstatement is filed before the end of the twelfth month immediately succeeding such month.
+
+(B)(i) Subject to clauses (ii) and (iii), the amount of the benefit payable for any month pursuant to the reinstatement of entitlement under this subsection shall be determined in accordance with the provisions of this subchapter.
+
+(ii) For purposes of computing the primary insurance amount of an individual whose entitlement to benefits under this section is reinstated under this subsection, the date of onset of the individual's disability shall be the date of onset used in determining the individual's most recent period of disability arising in connection with such benefits payable on the basis of an application.
+
+(iii) Benefits under this section or section 402 of this title payable for any month pursuant to a request for reinstatement filed in accordance with paragraph (2) shall be reduced by the amount of any provisional benefit paid to such individual for such month under paragraph (7).
+
+(C) No benefit shall be payable pursuant to an entitlement reinstated under this subsection to an individual for any month in which the individual engages in substantial gainful activity.
+
+(D) The entitlement of any individual that is reinstated under this subsection shall end with the benefits payable for the month preceding whichever of the following months is the earliest:
+
+&emsp;(i) The month in which the individual dies.
+
+&emsp;(ii) The month in which the individual attains retirement age.
+
+&emsp;(iii) The third month following the month in which the individual's disability ceases.
+
+(5) Whenever an individual's entitlement to benefits under this section is reinstated under this subsection, entitlement to benefits payable on the basis of such individual's wages and self-employment income may be reinstated with respect to any person previously entitled to such benefits on the basis of an application if the Commissioner determines that such person satisfies all the requirements for entitlement to such benefits except requirements related to the filing of an application. The provisions of paragraph (4) shall apply to the reinstated entitlement of any such person to the same extent that they apply to the reinstated entitlement of such individual.
+
+(6) An individual to whom benefits are payable under this section or section 402 of this title pursuant to a reinstatement of entitlement under this subsection for 24 months (whether or not consecutive) shall, with respect to benefits so payable after such twenty-fourth month, be deemed for purposes of paragraph (1)(B)(i)(I) and the determination, if appropriate, of the termination month in accordance with subsection (a)(1) of this section, or subsection (d)(1), (e)(1), or (f)(1) of section 402 of this title, to be entitled to such benefits on the basis of an application filed therefor.
+
+(7)(A) An individual described in paragraph (1)(B) who files a request for reinstatement in accordance with the provisions of paragraph (2)(A) shall be entitled to provisional benefits payable in accordance with this paragraph, unless the Commissioner determines that the individual does not meet the requirements of paragraph (1)(B)(i) or that the individual's declaration under paragraph (2)(A)(ii) is false. Any such determination by the Commissioner shall be final and not subject to review under subsection (b) or (g) of section 405 of this title.
+
+(B) The amount of a provisional benefit for a month shall equal the amount of the last monthly benefit payable to the individual under this subchapter on the basis of an application increased by an amount equal to the amount, if any, by which such last monthly benefit would have been increased as a result of the operation of section 415(i) of this title.
+
+(C)(i) Provisional benefits shall begin with the month in which a request for reinstatement is filed in accordance with paragraph (2)(A).
+
+(ii) Provisional benefits shall end with the earliest of—
+
+&emsp;(I) the month in which the Commissioner makes a determination regarding the individual's entitlement to reinstated benefits;
+
+&emsp;(II) the fifth month following the month described in clause (i);
+
+&emsp;(III) the month in which the individual performs substantial gainful activity; or
+
+&emsp;(IV) the month in which the Commissioner determines that the individual does not meet the requirements of paragraph (1)(B)(i) or that the individual's declaration made in accordance with paragraph (2)(A)(ii) is false.
+
+(D) In any case in which the Commissioner determines that an individual is not entitled to reinstated benefits, any provisional benefits paid to the individual under this paragraph shall not be subject to recovery as an overpayment unless the Commissioner determines that the individual knew or should have known that the individual did not meet the requirements of paragraph (1)(B).
+
+#### (j) Limitation on payments to prisoners
 
 For provisions relating to limitation on payments to prisoners, see section 402(x) of this title.
 
-(Aug. 14, 1935, ch. 531, title II, §223, as added Aug. 1, 1956, ch. 836, title I, §103(a), 70 Stat. 815; amended Pub. L. 85–840, title II, §§202, 204(b), Aug. 28, 1958, 72 Stat. 1020, 1021; Pub. L. 86–778, title III, §303(f), title IV, §§401(a), (b), 402(a)–(d), 403(b), Sept. 13, 1960, 74 Stat. 964, 967, 969; Pub. L. 87–64, title I, §102(b)(2)(B), (C), (c)(2)(C), (3)(D), (E), June 30, 1961, 75 Stat. 134, 135; Pub. L. 89–97, title III, §§302(e), 303(a)(2), (b)(3), (4), (c), 304(m), (n), 328(c), 344(b)–(d), July 30, 1965, 79 Stat. 366, 367, 370, 400, 413; Pub. L. 90–248, title I, §§105(b), 158(a), (b), (c)(6)–(8), Jan. 2, 1968, 81 Stat. 833, 867–869; Pub. L. 92–603, title I, §§104(c), (d), 116(a), 117(b), 118(a), Oct. 30, 1972, 86 Stat. 1340, 1350, 1351; Pub. L. 95–216, title III, §335, Dec. 20, 1977, 91 Stat. 1547; Pub. L. 96–265, title I, §102(b), title III, §§302(a)(1), 303(b)(1)(A), (2)(A), 306(c), 309(a), June 9, 1980, 94 Stat. 443, 450, 451, 453, 458, 459; Pub. L. 96–473, §5(a)(1), (c), Oct. 19, 1980, 94 Stat. 2264, 2265; Pub. L. 97–123, §6, Dec. 29, 1981, 95 Stat. 1664; Pub. L. 97–455, §2, Jan. 12, 1983, 96 Stat. 2498; Pub. L. 98–21, title II, §201(c)(1)(E), (3), title III, §§309(<i>o</i>), 332(b), 339(b), Apr. 20, 1983, 97 Stat. 109, 117, 129, 134; Pub. L. 98–118, §2, Oct. 11, 1983, 97 Stat. 803; Pub. L. 98–369, div. B, title VI, §§2661(m), 2662(c)(2), (i), 2663(a)(16), July 18, 1984, 98 Stat. 1158–1160, 1165; Pub. L. 98–460, §§2(a), 3(a)(1), 4(a)(1), 7(a), 9(b)(1), Oct. 9, 1984, 98 Stat. 1794, 1799, 1800, 1803, 1805; Pub. L. 99–272, title XII, §12107(b), Apr. 7, 1986, 100 Stat. 286; Pub. L. 99–514, title XVIII, §1883(a)(10), Oct. 22, 1986, 100 Stat. 2916; Pub. L. 100–203, title IX, §§9009, 9010(a), (e)(2), Dec. 22, 1987, 101 Stat. 1330–293, 1330–294; Pub. L. 100–647, title VIII, §§8001(a), 8006, Nov. 10, 1988, 102 Stat. 3778, 3781; Pub. L. 101–239, title X, §§10101, 10305(c), (d), Dec. 19, 1989, 103 Stat. 2471, 2483; Pub. L. 101–508, title V, §§5102, 5103(a), (b)(2)–(5), 5118(a), Nov. 5, 1990, 104 Stat. 1388–250, 1388–251, 1388–278; Pub. L. 103–296, title I, §107(a)(4), title II, §201(a)(4)(A), title III, §321(a)(19), (f)(1), Aug. 15, 1994, 108 Stat. 1478, 1499, 1537, 1540; Pub. L. 104–121, title I, §§102(b)(2), 105(a)(1), Mar. 29, 1996, 110 Stat. 848, 852.)
+(Aug. 14, 1935, ch. 531, title II, §223, as added Aug. 1, 1956, ch. 836, title I, §103(a), 70 Stat. 815; amended Pub. L. 85–840, title II, §§202, 204(b), Aug. 28, 1958, 72 Stat. 1020, 1021; Pub. L. 86–778, title III, §303(f), title IV, §§401(a), (b), 402(a)–(d), 403(b), Sept. 13, 1960, 74 Stat. 964, 967, 969; Pub. L.87–64, title I, §102(b)(2)(B), (C), (c)(2)(C), (3)(D), (E), June 30, 1961, 75 Stat. 134, 135; Pub. L. 89–97, title III, §§302(e), 303(a)(2), (b)(3), (4), (c), 304(m), (n), 328(c), 344(b)–(d), July 30, 1965, 79 Stat. 366, 367, 370, 400, 413; Pub. L. 90–248, title I, §§105(b), 158(a), (b), (c)(6)–(8), Jan. 2, 1968, 81 Stat. 833, 867–869; Pub. L. 92–603, title I, §§104(c), (d), 116(a), 117(b), 118(a), Oct. 30, 1972, 86 Stat. 1340, 1350, 1351; Pub. L. 95–216, title III, §335, Dec. 20, 1977, 91 Stat. 1547; Pub. L. 96–265, title I, §102(b), title III, §§302(a)(1), 303(b)(1)(A), (2)(A), 306(c), 309(a), June 9, 1980, 94 Stat. 443, 450, 451, 453, 458, 459; Pub. L. 96–473, §5(a)(1), (c), Oct. 19, 1980, 94 Stat. 2264, 2265; Pub. L. 97–123, §6, Dec. 29, 1981, 95 Stat. 1664; Pub. L. 97–455, §2, Jan. 12, 1983, 96 Stat. 2498; Pub. L. 98–21, title II, §201(c)(1)(E), (3), title III, §§309(<i>o</i>), 332(b), 339(b), Apr. 20, 1983, 97 Stat. 109, 117, 129, 134; Pub. L. 98–118, §2, Oct. 11, 1983, 97 Stat. 803; Pub. L. 98–369, div. B, title VI, §§2661(m), 2662(c)(2), (i), 2663(a)(16), July 18, 1984, 98 Stat. 1158–1160, 1165; Pub. L. 98–460, §§2(a), 3(a)(1), 4(a)(1), 7(a), 9(b)(1), Oct. 9, 1984, 98 Stat. 1794, 1799, 1800, 1803, 1805; Pub. L. 99–272, title XII, §12107(b), Apr. 7, 1986, 100 Stat. 286; Pub. L. 99–514, title XVIII, §1883(a)(10), Oct. 22, 1986, 100 Stat. 2916; Pub. L. 100–203, title IX, §§9009, 9010(a), (e)(2), Dec. 22, 1987, 101 Stat. 1330–293, 1330–294; Pub. L. 100–647, title VIII, §§8001(a), 8006, Nov. 10, 1988, 102 Stat. 3778, 3781; Pub. L. 101–239, title X, §§10101, 10305(c), (d), Dec. 19, 1989, 103 Stat. 2471, 2483; Pub. L. 101–508, title V, §§5102, 5103(a), (b)(2)–(5), 5118(a), Nov. 5, 1990, 104 Stat. 1388–250, 1388–251, 1388–278; Pub. L. 103–296, title I, §107(a)(4), title II, §201(a)(4)(A), title III, §321(a)(19), (f)(1), Aug. 15, 1994, 108 Stat. 1478, 1499, 1537, 1540; Pub. L. 104–121, title I, §§102(b)(2), 105(a)(1), Mar. 29, 1996, 110 Stat. 848, 852; Pub. L. 106–170, title I, §112(a), Dec. 17, 1999, 113 Stat. 1881.)
 
 #### References in Text
 
@@ -152,9 +222,11 @@ Section 102 of the Senior Citizens’ Right to Work Act of 1996, referred to in 
 
 #### Amendments
 
+1999—Subsecs. (i), (j). Pub. L. 106–170 added subsec. (i) and redesignated former subsec. (i) as (j).
+
 1996—Subsec. (d)(2)(C). Pub. L. 104–121, §105(a)(1), added subpar. (C).
 
-Subsec. (d)(4)(A). Pub. L. 104–121, §102(b)(2), substituted “an amount equal to the exempt amountwhich would be applicable under section 403(f)(8) of this title, to individuals described in subparagraph (D) thereof, if section 102 of the Senior Citizens’ Right to Work Act of 1996 had not been enacted” for “the exempt amount under section 403(f)(8) of this title which is applicable to individuals described in subparagraph (D) thereof”.
+Subsec. (d)(4)(A). Pub. L. 104–121, §102(b)(2), substituted “an amount equal to the exempt amount which would be applicable under section 403(f)(8) of this title, to individuals described in subparagraph (D) thereof, if section 102 of the Senior Citizens’ Right to Work Act of 1996 had not been enacted” for “the exempt amount under section 403(f)(8) of this title which is applicable to individuals described in subparagraph (D) thereof”.
 
 1994—Subsecs. (b), (d)(2)(B). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
@@ -314,7 +386,7 @@ Subsec. (a)(2). Pub. L. 89–97, §§302(e), 304(m), inserted in first sentence 
 
 Subsec. (a)(3). Pub. L. 89–97, §304(n), repealed par. (3) which prohibited an individual from becoming entitled to disability insurance benefits if he is entitled to a widow's, widower's, or parent's insurance benefit, or an old-age, wife's or husband's insurance benefit.
 
-Subsec. (b). Pub. L. 89–97, §§303(c), 328(c), struck out from last sentence “after June 1957” after “for any months” and substituted “before” for “prior to” where first appearing and “if he files such application before the end of the 12th month immediately succeeding such month” for “if he is continuously under a disability after such month and until he files application therefor and he files said application prior to the end of thetwelfth month immediately succeeding such month”; and substituted provisions calling for an application for benefits filed before the first month in which the applicant satisfies the requirements for such benefits to be deemed a valid application only if the applicant satisfies the requirements before the Secretary makes a final decision on the application and calling for the application to be deemed filed in the first month if the applicant is found to satisfy the requirements for provisions placing an outer limit on the time prior to entitlement during which an application would be deemed filed during the first month prior to entitlement, respectively.
+Subsec. (b). Pub. L. 89–97, §§303(c), 328(c), struck out from last sentence “after June 1957” after “for any months” and substituted “before” for “prior to” where first appearing and “if he files such application before the end of the 12th month immediately succeeding such month” for “if he is continuously under a disability after such month and until he files application therefor and he files said application prior to the end of the twelfth month immediately succeeding such month”; and substituted provisions calling for an application for benefits filed before the first month in which the applicant satisfies the requirements for such benefits to be deemed a valid application only if the applicant satisfies the requirements before the Secretary makes a final decision on the application and calling for the application to be deemed filed in the first month if the applicant is found to satisfy the requirements for provisions placing an outer limit on the time prior to entitlement during which an application would be deemed filed during the first month prior to entitlement, respectively.
 
 Subsec. (c)(1). Pub. L. 89–97, §344(b), removed from existing subpar. (B) provision prohibiting the inclusion, as part of such 40-quarter period, of any quarter any part of which was included in a prior period of disability unless such quarter was a quarter of coverage, and designated such subpar., as so amended as subpar. (B)(i), added subpar. (B)(ii), and added the material following subpar. (B)(ii) prohibiting inclusion of any quarter as part of any period if any part of such quarter was included in a prior period of disability unless such quarter was a quarter of coverage and calling for reduction by one of the number of quarters in any period whenever such number of quarters is an odd number.
 
@@ -342,7 +414,7 @@ Subsec. (a)(2). Pub. L. 86–778, §303(f), amended generally subsec. (a)(2), as
 
 Pub. L. 86–778, §402(b), amended subsec. (a)(2) generally. Prior to amendment, subsec. (a)(2) read as follows: “Such individual's disability insurance benefit for any month shall be equal to his primary insurance amount for such month determined under section 415 of this title as though he became entitled to old-age insurance benefits in the first month of his waiting period.”
 
-Subsec. (b). Pub. L. 86–778, §402(c), (d), prohibited acceptance of an application, in any case in which cl. (ii) of par. (1) of subsec. (a) of this section is applicable, if it is filed more than six months before the first month for which the applicant becomes entitled to benefits, inserted provisions requiring any application filed within the nine months’ period or six months’ period, as the case may be, to be deemed to have been filed in such first month, and substituted “if he is continuously under a disability after such month and until he files application therefor, and he files such application” for “if he files application therefor”.
+Subsec. (b). Pub. L. 86–778, §402(c), (d), prohibited acceptance of an application, in any case in which cl. (ii) of par. (1) of subsec. (a) of this section is applicable, if it is filed more than six months before the first month for which the applicant becomes entitled to benefits, inserted provisions requiring any application filed within the nine months’ period or six months’ period, as the case may be, to be deemed to have been filed in such first month, and substituted “if he is continuouslyunder a disability after such month and until he files application therefor, and he files such application” for “if he files application therefor”.
 
 Subsec. (c)(3). Pub. L. 86–778, §401(b), struck out provisions which prohibited a waiting period for any individual from beginning before the first day of the sixth month before the month in which he attains the age of 50.
 
@@ -351,6 +423,18 @@ Subsec. (c)(3). Pub. L. 86–778, §401(b), struck out provisions which prohibit
 Subsec. (c)(1). Pub. L. 85–840, §204(b), substituted “fully insured” for “fully and currently insured” in cl. (A).
 
 Subsec. (c)(3). Pub. L. 85–840, §202(b), inserted “which continues until such application is filed” after “under a disability” in cl. (A), and substituted “eighteenth month” for “sixth month” in three instances in cl. (B).
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–170, title I, §112(c), Dec. 17, 1999, 113 Stat. 1886, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section and section 1383 of this title\] shall take effect on the first day of the thirteenth month beginning after the date of the enactment of this Act \[Dec. 17, 1999\].
+
+“(2)
+
+Limitation.—No benefit shall be payable under title II or XVI \[of the Social Security Act, subchapter II or XVI of this chapter\] on the basis of a request for reinstatement filed under section 223(i) or 1631(p) of the Social Security Act (42 U.S.C. 423(i), 1383(p)) before the effective date described in paragraph (1).”
 
 #### Effective Date of 1996 Amendment
 
@@ -368,7 +452,7 @@ Amendment by section 321(f)(1) of Pub. L. 103–296 effective as if included in 
 
 Amendment by section 5103(a), (b)(2)–(5) of Pub. L. 101–508 applicable with respect to monthly insurance benefits for months after December 1990 for which applications are filed on or after Jan. 1, 1991, or are pending on such date, see section 5103(e) of Pub. L. 101–508, set out as a note under section 402 of this title.
 
-Section 5118(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to benefits for monthsafter the date of the enactment of this Act \[Nov. 5, 1990\].”
+Section 5118(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to benefits for months after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date of 1989 Amendment
 
@@ -496,7 +580,7 @@ Section 158(e) of Pub. L. 90–248 provided that: “The amendments made by this
 
 #### Effective Date of 1965 Amendment
 
-Amendment by section 302(e) of Pub. L. 89–97 applicable in the case of individuals who become entitled todisability insurance benefits under this section after December 1965, see section 302(f)(5) of Pub. L. 89–97, set out as a note under section 415 of this title.
+Amendment by section 302(e) of Pub. L. 89–97 applicable in the case of individuals who become entitled to disability insurance benefits under this section after December 1965, see section 302(f)(5) of Pub. L. 89–97, set out as a note under section 415 of this title.
 
 Section 303(f)(1) of Pub. L. 89–97 provided that: “The amendments made by subsection (a) \[amending this section and section 416 of this title\], paragraphs (3) and (4) of subsection (b) \[amending this section\], and subsections (c) and (d) \[amending this section and section 402 of this title\], and the provisions of subparagraphs (B) and (E) of section 216(i)(2) of the Social Security Act \[section 416(i)(2) of this title\] (as amended by subsection (b)(1) of this section), shall be effective with respect to applications for disability insurance benefits under section 223 \[this section\], and for disability determinations under section 216(i), of the Social Security Act filed—
 
@@ -546,7 +630,7 @@ Section 103(d) of act Aug. 1, 1956, provided that:
 
 #### Election of Payments
 
-Section 2(e) of Pub. L. 98–460 provided that: “Any individual whose case is remanded to the Secretary pursuant to subsection (d) \[set out as a note above\] or whose request for a review is made in a timely manner pursuant to subsection (d), may elect, in accordance with section 223(g) or 1631(a)(7) of the Social Security Act \[subsec. (g) of this section or section 1383(a)(7) of this title\], to have payments made beginning with themonth in which he makes such election, and ending as under such section 223(g) or 1631(a)(7). Notwithstanding such section 223(g) or 1631(a)(7), such payments (if elected)—
+Section 2(e) of Pub. L. 98–460 provided that: “Any individual whose case is remanded to the Secretary pursuant to subsection (d) \[set out as a note above\] or whose request for a review is made in a timely manner pursuant to subsection (d), may elect, in accordance with section 223(g) or 1631(a)(7) of the Social Security Act \[subsec. (g) of this section or section 1383(a)(7) of this title\], to have payments made beginning with the month in which he makes such election, and ending as under such section 223(g) or 1631(a)(7). Notwithstanding such section 223(g) or 1631(a)(7), such payments (if elected)—
 
 &emsp;“(1) shall be made at least until an initial redetermination is made by the Secretary; and
 
@@ -606,5 +690,5 @@ Individuals not insured for disability benefits as determined under subsec. (c)(
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 401, 402, 403, 405, 406, 409, 415, 416, 421, 422, 424a, 425, 426, 1320b–1, 1382c, 1383, 1395i–2a, 1395p, 1395r, 1395s, 1437a, 6862, 11382 of this title; title 5 sections 8116, 8452; title 25 section 4103; title 26 sections 401, 3121; title 30 sections 902, 922, 923; title 45 sections 231a, 231b, 231c, 231f.
+This section is referred to in sections 401, 402, 403, 405, 406, 409, 415, 416, 421, 422, 424a, 425, 426, 434, 1320b–1, 1320b–19, 1382c, 1383, 1395i–2a, 1395p, 1395r, 1395s, 1396d, 1437a, 6862, 11382 of this title; title 5 sections 8116, 8452; title 25 section 4103; title 26 sections 401, 3121; title 30 sections 902, 922, 923; title 45 sections 231a, 231b, 231c, 231f.
 

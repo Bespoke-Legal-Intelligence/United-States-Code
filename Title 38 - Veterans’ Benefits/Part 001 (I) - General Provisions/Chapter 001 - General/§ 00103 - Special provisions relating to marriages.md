@@ -6,13 +6,35 @@
 
 (c) In determining whether or not a person is or was the spouse of a veteran, their marriage shall be proven as valid for the purposes of all laws administered by the Secretary according to the law of the place where the parties resided at the time of the marriage or the law of the place where the parties resided when the right to benefits accrued.
 
-(d) The remarriage of the surviving spouse of a veteran shall not bar the furnishing of benefits to such person as the surviving spouse of the veteran if the remarriage is void, or has been annulled by a court with basic authority to render annulment decrees unless the Secretary determines that the annulment was secured through fraud by either party or collusion.
+(d)(1) The remarriage of the surviving spouse of a veteran shall not bar the furnishing of benefits to such person as the surviving spouse of the veteran if the remarriage is void, or has been annulled by a court with basic authority to render annulment decrees unless the Secretary determines that the annulment was secured through fraud by either party or collusion.
+
+(2) The remarriage of the surviving spouse of a veteran shall not bar the furnishing of benefits specified in paragraph (5) to such person as the surviving spouse of the veteran if the remarriage has been terminated by death or divorce unless the Secretary determines that the divorce was secured through fraud or collusion.
+
+(3) If the surviving spouse of a veteran ceases living with another person and holding himselfor herself out openly to the public as that person's spouse, the bar to granting that person benefits as the surviving spouse of the veteran shall not apply in the case of the benefits specified in paragraph (5).
+
+(4) The first month of eligibility for benefits for a surviving spouse by reason of this subsection shall be the month after—
+
+&emsp;(A) the month of the termination of such remarriage, in the case of a surviving spouse described in paragraph (2); or
+
+&emsp;(B) the month of the cessation described in paragraph (3), in the case of a surviving spouse described in that paragraph.
+
+(5) Paragraphs (2) and (3) apply with respect to benefits under the following provisions of this title:
+
+&emsp;(A) Section 1311, relating to dependency and indemnity compensation.
+
+&emsp;(B) Section 1713, relating to medical care for survivors and dependents of certain veterans.
+
+&emsp;(C) Chapter 35, relating to educational assistance.
+
+&emsp;(D) Chapter 37, relating to housing loans.
 
 (e) The marriage of a child of a veteran shall not bar recognition of such child as the child of the veteran for benefit purposes if the marriage is void, or has been annulled by a court with basic authority to render annulment decrees unless the Secretary determines that the annulment was secured through fraud by either party or collusion.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1109; Pub. L. 87–674, §2, Sept. 19, 1962, 76 Stat. 558; Pub. L. 90–77, title I, §101(b), Aug. 31, 1967, 81 Stat. 178; Pub. L. 91–376, §4, Aug. 12, 1970, 84 Stat. 789; Pub. L. 93–527, §9(a), Dec. 21, 1974, 88 Stat. 1705; Pub. L. 99–576, title VII, §701(2), Oct. 28, 1986, 100 Stat. 3290; Pub. L. 101–508, title VIII, §8004(a), Nov. 5, 1990, 104 Stat. 1388–343; Pub. L. 102–83, §4(a)(1), (2)(A)(i), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1109; Pub. L. 87–674, §2, Sept. 19, 1962, 76 Stat. 558; Pub. L. 90–77, title I, §101(b), Aug. 31, 1967, 81 Stat. 178; Pub. L. 91–376, §4, Aug. 12, 1970, 84 Stat. 789; Pub. L. 93–527, §9(a), Dec. 21, 1974, 88 Stat. 1705; Pub. L. 99–576, title VII, §701(2), Oct. 28, 1986, 100 Stat. 3290; Pub. L. 101–508, title VIII, §8004(a), Nov. 5, 1990, 104 Stat. 1388–343; Pub. L. 102–83, §4(a)(1), (2)(A)(i), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 106–117, title V, §502(a), Nov. 30, 1999, 113 Stat. 1574.)
 
 #### Amendments
+
+1999—Subsec. (d). Pub. L. 106–117 designated existing provisions as par. (1) and added pars. (2) to (5).
 
 1991—Subsec. (a). Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” and “Secretary” for “Administrator”.
 
@@ -48,6 +70,10 @@ Subsec. (d)(3). Pub. L. 99–576, §701(2)(F), substituted “surviving spouse�
 
 1962—Subsecs. (d), (e). Pub. L. 87–674 added subsecs. (d) and (e).
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–117, title V, §502(c), Nov. 30, 1999, 113 Stat. 1574, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1311 of this title\] shall take effect on the first day of the first month beginning after the month in which this Act is enacted \[November 1999\].”
+
 #### Effective Date of 1990 Amendment
 
 Section 8004(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to claims filed after October 31, 1990, and shall not operate to reduce or terminate benefits to any individual whose benefits were predicated on section 103(d)(2), 103(d)(3), or 103(e)(2) before the effective date of those amendments.”
@@ -63,6 +89,10 @@ Amendment by Pub. L. 91–376 effective Jan. 1, 1971, see section 9 of Pub. L. 9
 #### Effective Date of 1967 Amendment
 
 Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
+
+#### Limitation on Payments
+
+Pub. L. 106–117, title V, §502(d), Nov. 30, 1999, 113 Stat. 1574, provided that: “No payment may be made to aperson by reason of paragraphs (2) and (3) of section 103(d) of title 38, United States Code, as added by subsection (a), for any period before the effective date specified in subsection (c) \[set out as an Effective Date of 1999 Amendment note above\].”
 
 #### Applicability of Amendments
 

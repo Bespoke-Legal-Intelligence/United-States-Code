@@ -52,7 +52,7 @@ Pursuant to the agreements required by subsection (a) of this section, the Secre
 
 &emsp;(A) provided in combination with other forms of financial assistance, including non-United States funding that is available to the project; and
 
-&emsp;(B) utilized to assist United States firms to develop innovative financing packages for clean coal technology projects that seek toutilize other financial assistance programs available through other Federal agencies.
+&emsp;(B) utilized to assist United States firms to develop innovative financing packages for clean coal technology projects that seek to utilize other financial assistance programs available through other Federal agencies.
 
 (3) United States obligations under the Arrangement on Guidelines for Officially Supported Export Credits established through the Organization for Economic Cooperation and Development shall be applicable to this section.
 
@@ -96,7 +96,7 @@ Pursuant to the agreements under subsection (a) of this section, the Secretary, 
 
 &emsp;(B) the degree to which the equipment to be included in the project is designed and manufactured in the United States;
 
-&emsp;(C) the long-term technical and competitive viability of the United States technology, and services related thereto, and the ability of the United States firm to compete in the development of additional energy projects using such technology in the host country and in other foreign countries;
+&emsp;(C) the long-term technical and competitive viability of the United States technology, and services related thereto, and the ability of theUnited States firm to compete in the development of additional energy projects using such technology in the host country and in other foreign countries;
 
 &emsp;(D) the extent of technical and financial involvement of the host country in the project;
 

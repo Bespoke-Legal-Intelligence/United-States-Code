@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 May 15, 1937, ch. 193, 50 Stat. 167; Oct. 31, 1951, ch. 654, §2(7), 65 Stat. 707.
 
-The words “obsolete or excess material” are substituted for the words “such obsolete material as may not be needed by the Department of the Army, and such other material as may be spared” to conform to the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 471 et seq.). The words “in his discretion” are omitted as surplusage.
+The words “obsolete or excess material” are substituted for the words “such obsolete material as maynot be needed by the Department of the Army, and such other material as may be spared” to conform to the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 471 et seq.). The words “in his discretion” are omitted as surplusage.
 
 #### Amendments
 

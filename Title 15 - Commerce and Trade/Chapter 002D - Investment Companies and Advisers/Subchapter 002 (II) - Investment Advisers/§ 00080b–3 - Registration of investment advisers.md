@@ -138,7 +138,7 @@ Any person registered under this section may, upon such terms and conditions as 
 
 #### (C) Third tier
 
-&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the maximum amount of penalty for each such act or omission shall be $100,000for a natural person or $500,000 for any other person if—
+&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the maximum amount of penalty for each such act or omission shall be $100,000 for a natural person or $500,000 for any other person if—
 
 &emsp;&emsp;&emsp;(i) the act or omission described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement; and
 
@@ -192,7 +192,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 #### (A) Commission review
 
-&emsp;&emsp;At any time after the respondent has been served with a temporary cease-and-desist order pursuant to paragraph (3), the respondent may apply to the Commission to have the order set aside, limited, or suspended. If the respondent has been served with a temporary cease-and-desist order entered without a prior Commission hearing, the respondent may, within 10 days after the date on which the order was served, request a hearing on such application and the Commission shall hold a hearing and render a decision on such application at the earliest possible time.
+&emsp;&emsp;At any time after the respondent has been served with a temporary cease-and-desistorder pursuant to paragraph (3), the respondent may apply to the Commission to have the order set aside, limited, or suspended. If the respondent has been served with a temporary cease-and-desist order entered without a prior Commission hearing, the respondent may, within 10 days after the date on which the order was served, request a hearing on such application and the Commission shall hold a hearing and render a decision on such application at the earliest possible time.
 
 #### (B) Judicial review
 
@@ -246,7 +246,7 @@ Pub. L. 104–290, §305(a)(1), redesignated par. (5) as (6). Former par. (6) re
 
 Subsec. (e)(7), (8). Pub. L. 104–290, §305(a)(1), redesignated pars. (6) and (7) as (7) and (8), respectively.
 
-Subsec. (f). Pub. L. 104–290, §305(b)(2), substituted “paragraph (1), (5), (6), or (8) of subsection (e) of this section” for “paragraph (1), (4), (5), or (7) of subsection (e) of this section” and “paragraph (4)” for “paragraph\(3)” and substituted “subsection (e)” for “said subsection (e)” in two places.
+Subsec. (f). Pub. L. 104–290, §305(b)(2), substituted “paragraph (1), (5), (6), or (8) of subsection (e) of this section” for “paragraph (1), (4), (5), or (7) of subsection (e) of this section” and “paragraph (4)” for “paragraph (3)” and substituted “subsection (e)” for “said subsection (e)” in two places.
 
 Subsec. (h). Pub. L. 104–290, §303(b)(2), substituted “existence,” for “existence or” and inserted “or is prohibited from registering as an investment adviser under section 80b–3a of this title,” after “investment adviser,”.
 
@@ -302,7 +302,7 @@ Subsecs. (g), (h). Pub. L. 94–29, §29(4), redesignated subsecs. (h) and (i) a
 
 Subsec. (c)(1)(F). Pub. L. 91–547, §24(b), substituted “any person associated with such investment adviser” for “any partner, officer, director thereof, or any person performing similar functions, or any person directly or indirectly controlling or controlled by such investment adviser” and reference to subsec. “(e)” for “(d)”.
 
-Subsecs. (d), (e). Pub. L. 91–547, §24(c), (d), added subsec. (d), redesignated former subsec. (d) as (e), and in amending its provisions, inserted reference to “censure” in two places and substituted “such investment adviser or any person associated with such investment adviser” for “(1) such investment adviser, whether prior or subsequent to becoming such, or (2) any partner, officer, or director thereof, or any person performing similar functions, or (3) any person directly or indirectly controlling or controlled by such investment adviser, whether prior or subsequent to becoming such,” in introductory text preceding par. (1), formerly cl. (A), redesignated as pars. (1) to (5) former cls. (A) to (E), redesignated as items (A) to (D) of par. (2) former items (i) to (iv), striking out “, as heretofore or hereafter amended” after “Title 18”, substituted in par. (3) “an affiliated person” for “as an affiliated person”, in par.\(4) included reference to subchapter I of this chapter and struck out “as any of such statutes heretofore have been or hereafter may be amended” after “this subchapter”, in par. (5) included reference to subchapter I of this chapter, struck out “as any of such statutes heretofore have been or hereafter may be amended” after “this subchapter”, inserted provision respecting disciplining an investment adviser for failure reasonably to supervise, with a view to preventing violations of statutes, rules, and regulations, another person who commits such a violation if such other person is subject to his supervision, including subpars. (A) and (B) respecting failure to supervise a person, and inserted par. (6). Former subsec. (e) redesignated (g).
+Subsecs. (d), (e). Pub. L. 91–547, §24(c), (d), added subsec. (d), redesignated former subsec. (d) as (e), and in amending its provisions, inserted reference to “censure” in two places and substituted “such investment adviser or any person associated with such investment adviser” for “(1) such investment adviser, whether prior or subsequent to becoming such, or (2) any partner, officer, or director thereof, or any person performing similar functions, or (3) any person directly or indirectly controlling or controlled by such investment adviser, whether prior or subsequent to becoming such,” in introductory text preceding par. (1), formerly cl. (A), redesignated as pars. (1) to (5) former cls. (A) to (E), redesignated as items (A) to (D) of par. (2) former items (i) to (iv), striking out “, as heretofore or hereafter amended” after “Title 18”, substituted in par. (3) “an affiliated person” for “as an affiliated person”, in par. (4) included reference to subchapter I of this chapter and struck out “as any of such statutes heretofore have been or hereafter may be amended” after “this subchapter”, in par. (5) included reference to subchapter I of this chapter, struck out “as any of such statutes heretofore have been or hereafter may be amended” after “this subchapter”, inserted provision respecting disciplining an investment adviser for failure reasonably to supervise, with a view to preventing violations of statutes, rules, and regulations, another person who commits such a violation if such other person is subject to his supervision, including subpars. (A) and (B) respecting failure to supervise a person, and inserted par. (6). Former subsec. (e) redesignated (g).
 
 Subsec. (f). Pub. L. 91–547, §24(e), inserted subsec. (f). Former subsec. (f) redesignated (h).
 
@@ -360,7 +360,7 @@ Reports by investment advisers, exempt persons, see section 80b–4 of this titl
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78w, 80a–9, 80a–35, 80b–2, 80b–3a, 80b–4, 80b–5, 80b–7, 80b–8, 80b–9 of this title; title 5 section 8438.
+This section is referred to in sections 78w, 80a–9, 80a–35, 80b–2, 80b–3a, 80b–4, 80b–5, 80b–7, 80b–8, 80b–9, 80b–10a of this title; title 5 section 8438.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of a”.</i>
 

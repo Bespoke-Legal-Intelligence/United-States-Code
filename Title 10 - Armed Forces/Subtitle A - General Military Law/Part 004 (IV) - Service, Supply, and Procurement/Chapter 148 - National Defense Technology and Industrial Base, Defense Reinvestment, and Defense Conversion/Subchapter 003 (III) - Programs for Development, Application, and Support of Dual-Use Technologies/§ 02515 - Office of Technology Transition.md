@@ -30,9 +30,9 @@ Annual Report.—(1) The Secretary of Defense shall submit to the congressional 
 
 &emsp;(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 
-&emsp;(B) the Committee on National Security and the Committee on Appropriations of the House of Representatives.
+&emsp;(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4225(a), Oct. 23, 1992, 106 Stat. 2683; amended Pub. L. 104–106, div. A, title XV, §1502(a)(22), Feb. 10, 1996, 110 Stat. 505.)
+(Added Pub. L. 102–484, div. D, title XLII, §4225(a), Oct. 23, 1992, 106 Stat. 2683; amended Pub. L. 104–106, div. A, title XV, §1502(a)(22), Feb. 10, 1996, 110 Stat. 505; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Prior Provisions
 
@@ -40,11 +40,9 @@ A prior section 2515, added Pub. L. 101–510, div. A, title VIII, §823(a)(3), 
 
 #### Amendments
 
+1999—Subsec. (d)(2)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+
 1996—Subsec. (d). Pub. L. 104–106 substituted “Annual Report” for “Reporting Requirement” in heading, designated existing provisions as par. (1), substituted “The Secretary of Defense shall submit to the congressional committees specified in paragraph (2) an annual report on the activities of the Office. The report shall be submitted each year at the same time” for “The Secretary of Defense shall submit to the Committees on Armed Services and on Appropriations of the Senate and the House of Representatives an annual report on the activities of the Office at the same time”, and added par. (2).
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Schedule for Establishment of Office of Technology Transition
 

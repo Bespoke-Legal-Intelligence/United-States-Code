@@ -18,7 +18,7 @@ No civil action may be commenced—
 
 &emsp;&emsp;(A) before the expiration of 60 days after the plaintiff has given notice of such violation (i) to the Administrator, and (ii) to the person who is alleged to have committed such violation, or
 
-&emsp;&emsp;(B) if the Administrator has commenced and is diligently prosecuting a proceedingfor the issuance of an order under section 2615(a)(2) of this title to require compliance with this chapter or with such rule or order or if the Attorney General has commenced and is diligently prosecuting a civil action in a court of the United States to require compliance with this chapter or with such rule or order, but if such proceeding or civil action is commenced after the giving of notice, any person giving such notice may intervene as a matter of right in such proceeding or action; or
+&emsp;&emsp;(B) if the Administrator has commenced and is diligently prosecuting a proceeding for the issuance of an order under section 2615(a)(2) of this title to require compliance with this chapter or with such rule or order or if the Attorney General has commenced and is diligently prosecuting a civil action in a court of the United States to require compliance with this chapter or with such rule or order, but if such proceeding or civil action is commenced after the giving of notice, any person giving such notice may intervene as a matter of right in such proceeding or action; or
 
 &emsp;(2) under subsection (a)(2) of this section before the expiration of 60 days after the plaintiff has given notice to the Administrator of the alleged failure of the Administrator to perform an act or duty which is the basis for such action or, in the case of an action under such subsection for the failure of the Administrator to file an action under section 2606 of this title, before the expiration of ten days after such notification.
 
@@ -42,7 +42,7 @@ When two or more civil actions brought under subsection (a) of this section invo
 
 &emsp;(3) a district which is selected by the court and in which one of such actions is pending.
 
-> The court issuing such an order shall give prompt notification of the order to the other courts in which the civil actions consolidated under the order are pending.
+> The court issuing such an order shall give prompt notification of the order to the othercourts in which the civil actions consolidated under the order are pending.
 
 (Pub. L. 94–469, title I, §20, Oct. 11, 1976, 90 Stat. 2041; renumbered title I and amended Pub. L. 99–519, §3(b)(3), (c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 102–550, title X, §1021(b)(9), Oct. 28, 1992, 106 Stat. 3923.)
 

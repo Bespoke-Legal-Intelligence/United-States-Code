@@ -22,21 +22,21 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 1962—Pub. L. 87–565 struck out designation “(a)” from provisions of subsec. (a), and repealed subsecs. (b) to (e) which related to the abolition of the Development Loan Fund, International Cooperation Administration, and the Office of Inspector General and Comptroller, the transfer of their functions, and the transfer of the function of the Export-Import Bank under section 1704(e) of title 7.
 
-#### Delegation of Functions; Allocation of Funds
+#### Delegation of Functions
 
-Section 2(a) of Ex. Ord. No. 11579, Jan. 19, 1971, 36 F.R. 969, set out as a note under section 2191 of this title, which delegated functions of President under subsec. (b) of this section to Overseas Private Investment Corporation, was revoked by section 1–903(a)(2) of Ex. Ord. No. 12163, Sept. 27, 1979, 44 F.R. 56679, eff. Oct. 1, 1979, set out below.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out below.
 
 #### AID Office of Security
 
-Pub. L. 105–277, div. A, §101(d) \[title V, §587\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–204, provided that:
+Pub. L. 105–277, div. A, §101(d) \[title V, §587\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–204, as amended by Pub. L. 106–31, title V, §5002(b), May 21, 1999, 113 Stat. 109, provided that:
 
 “(a)
 
-Establishment of Office.—There shall be established within the Office of the Administrator of the Agency for International Development, an Office of Security. Such Office of Security shall, notwithstanding any other provision of law except section 207 of the Foreign Service Act of 1980 \[22 U.S.C. 3927\] and section 103 of Public Law 199–339 \[Pub. L. 99–339, 22 U.S.C. 4802\], have the responsibility for the supervision, direction, and control of all security activities relating to the programs and operations of that Agency.
+Establishment of Office.—There shall be established within the Office of the Administrator of the Agency for International Development, an Office of Security. Such Office of Security shall, notwithstanding any other provision of law except section 207 of the Foreign Service Act of 1980 \[22 U.S.C. 3927\] and section 103 of Public Law 99–339 \[22 U.S.C. 4802\], have the responsibility for the supervision, direction, and control of all security activities relating to the programs and operations of that Agency.
 
 “(b)
 
-Transfer and Allocation of Appropriations and Personnel.—There are transferred to the Office of Security all security functions exercised by the Office of Inspector General of the Agency for International Development exercised before the date of enactment of this Act \[Oct. 21, 1998\]. The Administrator shall transfer from the Office of the Inspector General of such Agency to the Office of Security established by subsection (a), the personnel (including the Senior Executive Service position designated for the Assistant Inspector General for Security), assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, and other funds held, used, available to, or to be made available in connection with such functions. Unexpended balances of appropriations, and other funds made available or to be made available in connection with such functions, shall be transferred to and merged with funds appropriated by this Act under the heading ‘Operating Expenses of the Agency for International Development’ \[112 Stat. 2681–157\].
+Transfer and Allocation of Appropriations and Personnel.—There are transferred to the Office of Security all security functions exercised by the Office of Inspector General of the Agency for International Development exercised before the date of enactment ofthis Act \[Oct. 21, 1998\]. The Administrator shall transfer from the Office of the Inspector General of such Agency to the Office of Security established by subsection (a), the personnel (including the Senior Executive Service position designated for the Assistant Inspector General for Security), assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, and other funds held, used, available to, or to be made available in connection with such functions. Unexpended balances of appropriations, and other funds made available or to be made available in connection with such functions, shall be transferred to and merged with funds appropriated by this Act under the heading ‘Operating Expenses of the Agency for International Development’ \[112 Stat. 2681–157\].
 
 “(c)
 
@@ -44,11 +44,13 @@ Transfer of Employees.—Any employee in the career service who is transferred p
 
 #### Agency for International Development Budget Submission
 
+Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §581\], Nov. 29, 1999, 113 Stat. 1535, 1501A–116, provided that: “Beginning with the fiscal year 2001 budget, the Agency for International Development shall submit to the Committees on Appropriations a detailed budget for each fiscal year. The Agency shall submit to the Committees on Appropriations a proposed budget format no later than October 31, 1999, or 30 days after the enactment of this Act \[Nov. 29, 1999\], whichever occurs later. The proposed format shall include how the Agency's budget submission will address: (1) estimated levels of obligations for the current fiscal year and actual levels for the two previous fiscal years; (2) the President's request for new budget authority and estimated carryover obligational authority for the budget year; (3) the disaggregation of budget data by program and activity for each bureau, field mission, and central office; and (4) staff levels identified by program.”
+
 Pub. L. 102–391, title V, §599E, Oct. 6, 1992, 106 Stat. 1698, provided that: “The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Agency for International Development.”
 
 #### <b>REORGANIZATION PLAN NO. 2 OF 1979</b>
 
-Reorganization Plan No. 2 of 1979, 44 F.R. 41165, 93 Stat. 1378, which established the United States International Development Cooperation Agency, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIV, §§1401, 1422(a)(1), Oct. 21, 1998, 112 Stat. 2681–790, 2681–792, effective on the earlier of Apr. 1, 1999, or the date of abolition of the United States International Development Cooperation Agency pursuant to reorganization plan described in section 6601 of this title.
+Reorganization Plan No. 2 of 1979, 44 F.R. 41165, 93 Stat. 1378, which established the United States International Development Cooperation Agency, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIV, §§1401, 1422(a)(1), Oct. 21, 1998, 112 Stat. 2681–790, 2681–792, effective Apr. 1, 1999.
 
 #### Executive Order No. 10973
 
@@ -58,103 +60,67 @@ Ex. Ord. No. 10973, Nov. 3, 1961, 26 F.R. 10469, as amended, was superseded inso
 
 #### Ex. Ord. No. 12163. Administration of Foreign Assistance and Related Functions
 
-Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended by Ex. Ord. No. 12226, July 22, 1980, 45 F.R. 49235; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12458, Jan. 14, 1984, 49 F.R. 1977; Ex. Ord. No. 12500, Jan. 24, 1985, 50 F.R. 3733; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12620, Dec. 24, 1987, 52 F.R. 49135; Ex. Ord. No. 12639, May 6, 1988, 53 F.R. 16691; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12695, Nov. 1, 1989, 54 F.R. 46589; Ex. Ord. No. 12738, §§1–6, Dec. 14, 1990, 55 F.R. 52033; Ex. Ord. No. 13030, §1, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §2, June 29, 1998, 63 F.R. 36153; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(2), Oct. 21, 1998, 112 Stat. 2681–792, provided:
+Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended by Ex. Ord. No. 12226, July 22, 1980, 45 F.R. 49235; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12458, Jan. 14, 1984, 49 F.R. 1977; Ex. Ord. No. 12500, Jan. 24, 1985, 50 F.R. 3733; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12620, Dec. 24, 1987, 52 F.R. 49135; Ex. Ord. No. 12639, May 6, 1988, 53 F.R. 16691; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12695, Nov. 1, 1989, 54 F.R. 46589; Ex. Ord. No. 12738, §§1–6, Dec. 14, 1990, 55 F.R. 52033; Ex. Ord. No. 13030, §1, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §2, June 29, 1998, 63 F.R. 36153; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(2), Oct. 21, 1998, 112 Stat. 2681–792; Ex. Ord. No. 13118, §§1–9, Mar. 31, 1999, 64 F.R. 16595–16598, provided:
 
 By virtue of the authority vested in me by the Foreign Assistance Act of 1961 \[this chapter\], Reorganization Plan No. 2 of 1979 \[set out above\], the International Development Cooperation Act of 1979 \[see Short Title of 1979 Amendment note set out under section 2151 of this title\], and section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
 #### 1–1.
 
-United States International Development Cooperation Agency
+Department of State
 
-\[1–101 to 1–103. Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(2), Oct. 21, 1998, 112 Stat. 2681–792.\]
+1–100. <i>Delegation of Functions</i>. (a) Exclusive of the functions otherwise delegated, or reserved to the President, by this order, Executive Order 12884 \[22 U.S.C. 5812 note\], Executive Order 11579 \[22 U.S.C. 2191 note\], and Executive Order 12757 \[7 U.S.C. 1738 note\], and subject to the provisions of such orders, there are hereby delegated to the Secretary of State (referred to in this Part as the “Secretary”) all functions conferred upon the President by:
 
-1–104. <i>Office of Small Business</i>. The Office of Small Business provided for in section 602(b) of the Act \[22 U.S.C. 2352(b)\] shall be in the Agency for International Development.
+&emsp;(1) the Foreign Assistance Act of 1961 (22 U.S.C. 2151 <i>et seq</i>.) (“Act”);
+
+&emsp;&emsp;(i) except that with respect to section 505(a) of the Act \[22 U.S.C. 2314(a)\], such functions only insofar as those functions relate to other provisions which may be required by the President or only insofar as they relate to consent;
+
+&emsp;&emsp;(ii) except that with respect to section 505(b) of the Act, such functions only insofar as those functions pertain to countries that agree to the conditions set forth therein;
+
+&emsp;(2) section 1205(b) of the International Security and Development Cooperation Act of 1985 (“ISDCA of 1985”) \[Pub. L. 99–83, 22 U.S.C. 2346 note\];
+
+&emsp;(3) section 8(d) of the Act of January 12, 1971 (22 U.S.C. 2321b(d));
+
+&emsp;(4) section 607 of the International Security Assistance and Arms Export Control Act of 1976 (22 U.S.C. 2394a);
+
+&emsp;(5) section 402(b)(2) of title 10, United States Code, which shall be exercised in consultation with the Secretary of Defense;
+
+&emsp;(6) the third proviso under the heading “Development Assistance” contained in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1999 (as contained in Public Law 105–277) \[112 Stat. 2681–153\];
+
+&emsp;(7) section 572 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989 (Public Law 100–461) \[22 U.S.C. 2151v note\];
+
+&emsp;(8) sections 508, 517 \[22 U.S.C. 5814 note\], 518, 528(a), 535 \[50 U.S.C. 1701 note\], 539 \[50 U.S.C. 1701 note\], 544, 561, 563, 572, 574, 575, 585, 594 \[22 U.S.C. 2753 note\] of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1999 (as contained in Public Law 105–277) \[112 Stat. 2681–150, 2681–171, 2681–174, 2681–176, 2681–178, 2681–181, 2681–182, 2681–185, 2681–191, 2681–193, 2681–198, 2681–199, 2681–203, 2681–215\];
+
+&emsp;(9) section 523 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1999 (as contained in Public Law 105–277) \[112 Stat. 2681–177\], which shall be exercised in consultation with the Secretary of the Treasury;
+
+&emsp;(10) section 551 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1999 (as contained in Public Law 105–277) \[112 Stat. 2681–187\];
+
+&emsp;(11) section 591 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1998 (Public Law 105–118) \[111 Stat. 2439\], and the provisions of law referenced therein;
+
+&emsp;(12) section 821(b) of the Western Hemisphere Drug Elimination Act (as contained in Public Law 105–277) \[22 U.S.C. 2291 note\].
+
+(b) The functions under section 653 of the Act \[22 U.S.C. 2413\] delegated to the Secretary shall be exercised in consultation with the Secretary of Defense, insofar as they relate to functions under the Act administered by the Department of Defense, and the Director of the Office of Management and Budget.
+
+(c) The functions under sections 239(f), 620(e), 620(g), 620(j), 620(q), and 620(s) of the Act \[22 U.S.C. 2199(f), 2370(e), (g), (j), (q), (s)\] delegated to the Secretary shall be exercised in consultation with the Administrator of the United States Agency for International Development.
+
+(d) The Secretary shall perform all public information functions abroad with respect to the foreign assistance, aid, and development programs of the United States Government, to the extent such functions are not specifically assigned by statute to be performed by a different officer.
+
+(e) The Secretary may redelegate to any other officer or agency of the Executive branch functions delegated to the Secretary by this order to the extent such delegation is not otherwise prohibited by law.
 
 #### 1–2.
 
-Department of State
+United States Agency for International Development
 
-1–201. <i>Delegation of Functions</i>. (a) Subject to the provisions of this order, there are hereby delegated to the Secretary of State (hereafter in this Part referred to as the “Secretary”) all functions conferred upon the President by:
+1–200. <i>United States Agency for International Development.</i>
 
-&emsp;(1) sections 239(g), 301(a), 301(c), 301(e)(1), 302(a)(1) as it relates to the Presidential certification concerning the United Nations Relief and Works Agency, 305, section 305 \[sic\] of the Act \[22 U.S.C. 2199(g), 2221(a), (c), (e)(1), 2222(a)(1), and 2225\];
+(a) The United States Agency for International Development is an independent establishment within the Executive branch. Any reference in the Act to the agency primarily responsible for administering part I of the Act \[22 U.S.C. 2151 et seq.\], or to the Administrator of such agency, shall be deemed to be a reference to the United States Agency for International Development or to the Administrator of that agency, as appropriate.
 
-&emsp;(2) section 451 of the Act \[22 U.S.C. 2261\];
+(b) The United States Agency for International Development shall be headed by an Administrator appointed pursuant to section 624(a) of the Act \[22 U.S.C. 2384(a)\].
 
-&emsp;(3) section 495F of the Act \[22 U.S.C. 2292<i>l</i>\], insofar as they relate to policy decisions pertaining to refugee programs under such section;
+(c) The officers provided for in section 624(a) of the Act shall serve in the United States Agency for International Development.
 
-&emsp;(4) section 505(a) \[22 U.S.C. 2314(a)\] relating to other provisions which may be required by the President, and sections 505(d), (e), (f) and (g) of the Act \[22 U.S.C. 2314(d), (e), (f), (g)\].
+(d) The Office of Small Business provided for in section 602(b) of the Act \[22 U.S.C. 2352(b)\] shall be in the United States Agency for International Development.
 
-&emsp;(5) sections 505(a)(1) and (4) of the Act \[22 U.S.C. 2314(a)(1), (4)\] relating to consent;
-
-&emsp;(6) section 505(b) of the Act \[22 U.S.C. 2314(b)\] to the extent that it pertains to countries that agree to the conditions set forth therein;
-
-&emsp;(7) chapter 4 of Part II of the Act \[22 U.S.C. 2346 et seq.\], insofar as they relate to policy decisions and justifications for economic support programs under such chapter, including determinations of whether there will be an economic support program for a country and the amount of the program for each country, and all functions conferred by Section 534 of the Act \[22 U.S.C. 2346c\]. Such functions shall be exercised in cooperation with the Director;
-
-&emsp;(8) chapter 6 of part II of the Act \[22 U.S.C. 2348 et seq.\];
-
-&emsp;(9) section 601(b)(3), (4), and (6) of the Act \[22 U.S.C. 2351(b)(3), (4), and (6)\];
-
-&emsp;(10) section 604(a) of the Act \[22 U.S.C. 2354(a)\], insofar as they related to procurement under chapter 1 of part I and chapter 4 of part II of the Act \[22 U.S.C. 2151 et seq., 2346 et seq.\];
-
-&emsp;(11) section 614(b) of the Act \[22 U.S.C. 2364(b)\], except that the function of determining which provisions of law should be disregarded to achieve the purpose of the provision is reserved to the President;
-
-&emsp;(12) section 620(c), (e), (f), (g), (j), (q), and (s) of the Act \[22 U.S.C. 2370(c), (e), (f), (g), (j), (q), and (s)\];
-
-&emsp;(13) section 620C(d) and (e),, \[sic\] section 620G \[22 U.S.C. 2378a\] as added by Public Law 104–164 and sections 620G(b) and 620H(b) as added by the Antiterrorism and Effective Death Penalty Act of 1996, (Public Law 104–132) of the Act \[22 U.S.C. 2373(d), (e), 2377(b), 2378(b)\], as well as section 573 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1994 (Public Law 103–87) \[107 Stat. 972\], section 563 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1995 (Public Law 103–306) \[108 Stat. 1649\], section 552 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1996 (Public Law 104–107) \[110 Stat. 741\], and similar provisions of law, except that the functions under section 620G as added by Public Law 104–164 shall be exercised in consultation with the Secretary of Defense;
-
-&emsp;(14) section 625(d) of the Act \[22 U.S.C. 2385(d)\], insofar as it relates to personnel in the Department of State;
-
-&emsp;(15) \[Revoked by Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968.\]
-
-&emsp;(16) section 634B of the Act \[22 U.S.C. 2394–1a\], insofar as it relates to functions delegated to the Secretary under this order;
-
-&emsp;(17) section 617 and 653 of the Act \[22 U.S.C. 2367, 2413\], insofar as they relate to chapter 8 of part 1 \[22 U.S.C. 2291 et seq.\] and part II of the Act \[22 U.S.C. 2301 et seq.\];
-
-&emsp;(18) section 655 of the Act \[22 U.S.C. 2415\], insofar as they relate to defense articles and defense services licensed for export under section 38 of the Arms Export Control Act \[22 U.S.C. 2778\]:
-
-&emsp;(19) other provisions of the Act \[this chapter\] that relate directly and necessarily to the conduct of programs and activities vested in or delegated to the Secretary;
-
-&emsp;(20) section 8(d) of the Act of January 12, 1971 (22 U.S.C. 2321b (d)); and
-
-&emsp;(21) section 607 of the International Security Assistance and Arms Export Control Act of 1976 (22 U.S.C. 2394a).
-
-&emsp;(22) Section 725 of the International Security and Development Cooperation Act of 1981 \[probably means section 725(b), (c) of Pub. L. 97–113, formerly set out as a note under 22 U.S.C. 2370\];
-
-&emsp;(23) Section 726 of the International Security and Development Cooperation Act of 1981 \[probably means section 726(b) of Pub. L. 97–113, set out as a note under 22 U.S.C. 2370\];
-
-&emsp;(24) Chapter 8 of Part II of the Act \[22 U.S.C. 2349aa et seq.\];
-
-&emsp;(25) Section 402(b)(2) of Title 10 of the United States Code, which shall be exercised in consultation with the Secretary of Defense;
-
-&emsp;(26) sections 207, 552(b) \[former 49 U.S.C. 1515a(b), now 49 U.S.C. 44908\], 611, 612(a), 617(c), 702(c), 703(a), 705(b) and (c), 706, 722(j), 813(b) and 1008 of the ISDCA of 1985 \[Pub. L. 99–83, Aug. 8, 1985, 99 Stat. 213, 226, 230, 231, 233, 238, 239, 241, 242, 255, 266, and 271\];
-
-&emsp;(27) chapter 8 of part I of the Act \[22 U.S.C. 2291 et seq.\], except for section 481(h) \[22 U.S.C. 2291(h)\], which is reserved to the President;
-
-&emsp;(28) section 502B of the Act \[22 U.S.C. 2304\];
-
-&emsp;(29) sections 513, 538, 554, 559, 560, 561 \[22 U.S.C. 2151 note\], 562 \[7 U.S.C. 3602 note\], 564(a), 599C, and 599G(a)(3) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 (Public Law 101–167) \[Nov. 21, 1989, 103 Stat. 1219, 1232, 1237–1239, 1241, 1242, 1261, 1265\];
-
-&emsp;(30) the second and third provisos under the subheading “Contribution to the International Development Association” under the heading “Annual Contributions to International Financial Institutions” contained in title I of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 (Public Law 101–167) \[Nov. 21, 1989, 103 Stat. 1197\], and section 548 of such Act \[Nov. 21, 1989, 103 Stat. 1235\], each of which shall be exercised in consultation with the Secretary of the Treasury;
-
-&emsp;(31) the proviso relating to certain expropriation claims of U.S. citizens in El Salvador under the heading “Economic Support Fund” contained in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 (Public Law 101–167) \[Nov. 21, 1989, 103 Stat. 1207\];
-
-&emsp;(32) the proviso relating to tied aid credits under the heading “Economic Support Fund” contained in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 (Public Law 101–167) \[Nov. 21, 1989, 103 Stat. 1207\], which shall be exercised in consultation with the Administrator of the Agency for International Development within IDCA;
-
-&emsp;(33) subsection (c)(2) under the heading “Foreign Military Sales Debt Reforms” contained in title III of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988 (Public Law 100–202) \[22 U.S.C. 2764 note\], which shall be exercised in consultation with the Secretary of Defense;
-
-&emsp;(34) sections 4101(b) \[former 22 U.S.C. 2291 note\], 4205(d), 4307(a), and 4309 of the Anti-Drug Abuse Act of 1988 (Public Law 100–690) \[Nov. 18, 1988, 102 Stat. 4264, 4269, 4274, 4275\]. The Secretary of State in implementing the functions delegated to him under section 4205(d) shall consult with the Secretary of Defense;
-
-&emsp;(35) section 512 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 (Public Law 101–167) \[Nov. 21, 1989, 103 Stat. 1219\], which shall be exercised in consultation with the President of the Export-Import Bank of the United States;
-
-&emsp;(36) section 581(a) and 581(c) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 (Public Law 101–167) \[Nov. 21, 1989, 103 Stat. 1250\], which shall be exercised in consultation with the Secretary of Defense; and
-
-&emsp;(37) section 12 of the International Narcotics Control Act of 1989 (Public Law 101–231) \[Dec. 13, 1989, 103 Stat. 1962\].
-
-(b) The functions under sections 239(g), 620(e), 620(g), 620(j), 620(q), and 620(s) of the Act \[22 U.S.C. 2199(g), 2370(e), (g), (j), (q), and (s)\] delegated to the Secretary shall be exercised in consultation with the Director.
-
-(c) The functions under section 653 of the Act \[22 U.S.C. 2413\] delegated to the Secretary shall be exercised in consultation with the Secretary of Defense, insofar as they relate to functions under the Act \[this chapter\] administered by the Department of Defense, and the Director of the Office of Management and Budget.
-
-(d) The Secretary may redelegate to the Director or to any other officer or agency of the Executive branch functions delegated to the Secretary by this order.
+(e) To the extent practicable, the Administrator of the United States Agency for International Development will exercise functions relating to Foreign Service personnel in a manner that will assure maximum compatibility among agencies authorized by law to utilize the Foreign Service personnel system. To this end, the Administrator shall consult regularly with the Secretary of State.
 
 #### 1–3.
 
@@ -166,7 +132,7 @@ Department of Defense
 
 (b) To the extent that they relate to other functions under the Act \[this chapter\] administered by the Department of Defense, the functions conferred upon the President by sections 602(a), 605(a), 625(a), 625(d)(1), 625(h), 627, 628, 630(3), 631(a), 634(B), 635(b) (except with respect to negotiation, conclusion, and termination of international agreements), 635(d), 635(g), and 636(i) of the Act \[22 U.S.C. 2352(a), 2355(a), 2385(a), (d)(1), (h), 2387, 2388, 2390(3), 2391(a), 2394–1a, 2395(b), (d), (g), and 2396(i)\].
 
-(c) Those functions under section 634A of the Act \[22 U.S.C. 2394–1\], to the extent they relate to notifications to the Congress concerning changes in programs under part II of the Act \[22 U.S.C. 2301 et seq.\] (except chapters 4, 6, and 8 thereof \[22 U.S.C. 2346 et seq., 2348 et seq., 2349aa et seq.\]) and under the Arms Export Control Act, as amended \[22 U.S.C. 2751 et seq.\], subject to prior consultation with the Secretary of State.
+(c) Those functions under section 634A of the Act \[22 U.S.C. 2394–1\], to the extent they relate to notifications to the Congress concerning changes in programs under chapters 2 and 5 of part II of the Act \[22 U.S.C. 2311 et seq., 2347 et seq.\] and under the Arms Export Control Act, as amended \[22 U.S.C. 2751 et seq.\], subject to prior consultation with the Secretary of State.
 
 (d) The functions under sections 627, 628, and 630(3) of the Act \[22 U.S.C. 2387, 2388, and 2390(3)\] delegated to the Secretary of Defense shall be exercised in consultation with the Secretary of State.
 
@@ -176,7 +142,7 @@ Department of Defense
 
 (g) The functions conferred upon the President under section 573 \[22 U.S.C. 2321j note\] and section 581(b)(2) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 (Public Law 101–167) \[Nov. 21, 1989, 103 Stat. 1246, 1250\].
 
-(h) The functions conferred upon the President under section 3 of the International Narcotics Control Act of1989 (Public Law 101–231) \[Dec. 13, 1989, 103 Stat. 1955\], which shall be exercised in consultation with the Secretary of State.
+(h) The functions conferred upon the President under section 3 of the International Narcotics Control Act of 1989 (Public Law 101–231) \[Dec. 13, 1989, 103 Stat. 1955\], which shall be exercised in consultation with the Secretary of State.
 
 1–302. <i>Reports and Information</i>. In carrying out the functions under section 514 of the Act \[22 U.S.C. 2321h\] delegated to him by section 301 of this order, the Secretary of Defense shall consult with the Secretary of State.
 
@@ -184,7 +150,7 @@ Department of Defense
 
 Institute for Scientific and Technological Cooperation
 
-\[1–401 to 1–403. Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(2), Oct. 21, 1998, 112 Stat. 2681–792.\]
+\[Revoked by Ex. Ord. No. 13118, §4, Mar. 31, 1999, 64 F.R. 16596\]
 
 #### 1–5.
 
@@ -202,27 +168,17 @@ Other Agencies
 
 (b) The Secretary of the Treasury shall continue to administer any open special foreign country accounts established pursuant to former section 514 of the Act as enacted by section 201(f) of Public Law 92–226 (86 Stat. 25) and repealed by Section 12(b)(5) of Public Law 93–189 (87 Stat. 722) \[22 U.S.C. 2321g\].
 
-(c) The functions under section 305 of the Act \[22 U.S.C. 2225\] delegated to the Secretary of the Treasury shall be exercised in consultation with the Director, as provided in Executive Order No. 11269 of February 14, 1966, as amended \[set out as a note under section 286b of this title\].
+(c) The functions under section 305 of the Act \[22 U.S.C. 2225\] delegated to the Secretary of the Treasury shall be exercised in consultation with the Secretary of State.
 
 1–502. <i>Department of Commerce</i>. There is hereby delegated to the Secretary of Commerce so much of the functions conferred upon the President by section 601(b)(1) of the Act \[22 U.S.C. 2351(b)(1)\] as consists of drawing the attention of private enterprise to opportunities for investment and development in less developed friendly countries and areas.
 
-1–503. <i>Office of Personnel Management</i>. There is hereby delegated to the Director of the Office of Personnel Management the function of prescribing regulations conferred upon the President by the proviso contained in section 625(b) of the Act \[22 U.S.C. 2385(b)\].
+1–503. <i>Office of Personnel Management</i>. There is hereby delegated to the Director of the Office of Personnel Management the function of prescribing regulationsconferred upon the President by the proviso contained in section 625(b) of the Act \[22 U.S.C. 2385(b)\].
 
-1–504. <i>International Communication Agency \[now United States Information Agency\]</i>. The International Communication Agency \[now United States Information Agency\] shall perform all public information functions abroad with respect to the foreign assistance, aid, and development programs of the United States Government.
+\[1–504. Revoked by Ex. Ord. No. 13118, §5(2), Mar. 31, 1999, 64 F.R. 16597.\]
 
-1–505. <i>Development Loan Committee</i>. There is hereby established a Development Loan Committee in accordance with section 122(e) of the Act \[22 U.S.C. 2151t(e)\] which shall consist of the Director of IDCA, who shall be Chair, the Administrator of the Agency for International Development, the Chairman of the Board of Directors of the Export-Import Bank of the United States, the Assistant Secretary of State for Economic Affairs, the Assistant Secretary of the Treasury dealing with international finance, the Assistant Secretary of Commerce for Industry and Trade, and the officer of the Agency for International Development dealing with development financing.
+1–505. Trade and Development Agency. There is delegated to the Director of the Trade and Development Agency the functions conferred upon the President by section 661(d) of the Act \[22 U.S.C. 2421(d)\].
 
-1–506. <i>Development Coordination Committee</i>. (a) In accordance with section 640B of the Act \[22 U.S.C. 2399c\], there is hereby established a Development Coordination Committee (hereinafter referred to as the Committee). The Committee shall consist of the Director of IDCA, who shall be Chair; the Administrator of the Agency for International Development, the Director of the Institute for Scientific and Technological Cooperation; the Under Secretary of State for Economic Affairs; the Under Secretary of the Treasury for Monetary Affairs; the Under Secretary of Commerce; the Under Secretary of Agriculture; the Under \[Deputy\] Secretary of Labor; the Under Secretary of Energy; a Deputy Special Representative for Trade Negotiations; an Associate Director of the Office of Management and Budget; a representative of the Assistant to the President for National Security Affairs; the President of the Export-Import Bank of the United States; the Director of the Peace Corps; and the President of the Overseas Private Investment Corporation.
-
-(b) Whenever matters within the jurisdiction of the Committee may be of interest to Federal agencies not represented on the Committee under subsection (a) of this section, the Chair of the Committee may consult with such agencies and may invite them to designate representatives to participate in meetings and deliberations of the Committee.
-
-(c) The Chair of the Committee may establish subcommittees of the Committee and designate the chairs thereof.
-
-(d) Subject to the foreign policy guidance of the Secretary of State, the Committee shall advise the President with respect to coordination of United States policy and programs affecting the development of developing countries, including programs of bilateral and multilateral development assistance.
-
-(e) All agencies and officers of the Government shall keep the Committee informed in necessary detail as to the policies, programs and activities referred to in subsection (d) of this section.
-
-(f) Nothing herein shall be deemed to derogate from the responsibilities of the Secretary of State or the Secretary of the Treasury, or from responsibilities vested elsewhere by law or other Executive orders.
+\[1–506. Revoked by Ex. Ord. No. 13118, §5(4), Mar. 31, 1999, 64 F.R. 16597.\]
 
 #### 1–6.
 
@@ -234,13 +190,13 @@ Additional Delegations and Limitations of Authority; Consultation
 
 (b) those provisions of acts appropriating funds under the authority of the Act \[this chapter\] that relate to the Act, or other acts authorizing such funds, insofar as they relate to the functions delegated by this order.
 
-1–602. <i>Personnel</i>. (a) In carrying out the functions conferred upon the President by the provisions of section 625(d) of the Act \[22 U.S.C. 2385(d)\], and by this order delegated to the Director of IDCA, the Director shall authorize such of the agencies that administer programs under the Act \[this chapter\] as he may deem appropriate to perform any of the functions under section 625(d) of the Act to the extent that the said functions relate to the programs administered by the respective agencies.
+1–602. <i>Personnel</i>. (a) In carrying out the functions conferred upon the President by the provisions of section 625(d) of the Act \[22 U.S.C. 2385(d)\], and by this order delegated to the Secretary of State, the Secretary shall authorize such of the agencies that administer programs under the Act \[this chapter\] as he may deem appropriate to perform any of the functions under section 625(d) of the Act to the extent that the said functions relate to the programs administered by the respective agencies.
 
 (b) Persons appointed, employed, or assigned after May 19, 1959, under section 527(c) of the Mutual Security Act of 1954 \[former 22 U.S.C. 1787(c)\] or section 625(d) of the Act \[22 U.S.C. 2385(d)\] for the purpose of performing functions under such Acts outside the United States shall not, unless otherwise agreed by the agency in which such benefits may be exercised, be entitled to the benefits provided by section 310 of the Foreign Service Act of 1980 (22 U.S.C. 3950) in cases in which their service under the appointment, employment, or assignment exceeds thirty months.
 
 1–603. <i>Special Missions and Staffs Abroad</i>. The maintenance of special missions or staffs abroad, the fixing of the ranks of the chiefs thereof after the chiefs of the United States diplomatic missions, and the authorization of the same compensation and allowances authorized for a chief of mission as defined in section 102(a)(3) of the Foreign Service Act of 1980 (22 U.S.C. 3902(a)(3)), all under section 631 of the Act \[22 U.S.C. 2391\], shall be subject to the approval of the Secretary of State.
 
-1–604. <i>International Agreements</i>. The negotiation, conclusion, and termination of international agreements pursuant to the Act \[this chapter\], title IV of the IDC Act of 1979 \[22 U.S.C. 3501 et seq.\] or section 402 of the Mutual Security Act of 1954 \[22 U.S.C. 1922\] shall be subject to the requirements of 1 U.S.C. 112b and to applicable regulations and procedures.
+1–604. <i>International Agreements</i>. The negotiation, conclusion, and termination of international agreements pursuant to the Act \[this chapter\] shall be subject to the requirements of 1 U.S.C. 112b and to applicable regulations and procedures.
 
 1–605. <i>Interagency Consultation</i>. Each officer to whom functions are delegated by this order, shall, in carrying out such functions, consult with the heads of other departments and agencies, including the Director of the Office of Management and Budget, on matters pertaining to the responsibilities of departments and agencies other than his or her own.
 
@@ -250,13 +206,13 @@ Reserved Functions
 
 1–701. <i>Reservation of Functions to the President</i>. There are hereby excluded from the functions delegated by the foregoing provisions of this order:
 
-(a) The functions conferred upon the President by sections 122(e), 298(a), 504(b), 613(a), 614(a), 620(a), 620(d), 620(x), 620A, 620C(c), 621(a), 622(b), 622(c), 633(a), 633(b), 640B, 662(a), and 663(b) of the Act \[22 U.S.C. 2151t(e), 2220c(a), 2312(b), 2363(a), 2364(a), 2370(a), (d), (x), 2371, 2373(c), 2381(a), 2382(b), (c), 2393(a), (b), 2399c, 2422(a), and 2423(b)\].
+(a) The functions conferred upon the President by sections 122(e), 298(a), 493, 504(b), 613(a), 614(a), 620(a), 620(d), 620(x), 620A, 620C(c), 621(a), 622(b), 622(c), 633(a), 633(b), 640B, and 663(b) of the Act \[22 U.S.C. 2151t(e), 2220c(a), 2292b, 2312(b), 2363(a), 2364(a), 2370(a), (d), (x), 2371, 2373(c), 2381(a), 2382(b), (c), 2393(a), (b), 2399c, and 2423(b)\].
 
-(b) The functions conferred upon the President by sections 402, 405(a), 406 and 407 of the IDC Act of 1979 \[22 U.S.C. 3502, 3505(a), 3506, 3507\].
+(b) The functions conferred upon the President by the Act \[this chapter\] and section 408(b) of the Mutual Security Act of 1954 \[22 U.S.C. 1928\] with respect to the appointment of officers required to be appointed by and with the advice and consent of the Senate and with respect to the appointment of officers pursuant to sections 233(b) and 624(c) of the Act \[22 U.S.C. 2193(b), 2384(c)\].
 
-(c) The functions conferred upon the President by the Act \[this chapter\] and section 408(b) of the Mutual Security Act of 1954 \[22 U.S.C. 1928\] with respect to the appointment of officers required to be appointed by and with the advice and consent of the Senate and with respect to the appointment of officers pursuant to sections 233(b) and 624(c) of the Act \[22 U.S.C. 2193(b), 2384(c)\].
+(c) The functions conferred upon the President with respect to determinations, certifications, directives, or transfers of funds, as the case may be, by sections 209(d), 303, 465(b), 490(h), 505(d)(2)(A), 505(d)(3), 506(a), 552(c), 552(e), 610, 614(c), 620E, 632(b), 633A, 663(a) of the Act \[22 U.S.C. 2169(d), 2223, 2275(b), 2291j(h), 2314(d)(2)(A), (d)(3), 2318(a), 2348a(c), (e), 2360, 2364(c), 2375, 2392(b), 2393a, 2423(a)\]; those under section 604(a) of the Act \[22 U.S.C. 2354(a)\] except insofar as they relate to procurement under chapter 1 of part I and chapter 4 of part II \[22 U.S.C. 2151 et seq., 2346 et seq.\].
 
-(d) The functions conferred upon the President with respect to determinations, certifications, directives, or transfers of funds, as the case may be, by sections 303, 465(b), 481(h), 505(d)(2)(A), 505(d)(3), 506(a), 552(c), 552(e), 610, 614(c), 620E, 632(b), 633A, 663(a), 669(b)(1), 670(a), 670(b)(2), and 670(b)(3) of the Act \[22 U.S.C. 2223, 2275(b), 2291(h), 2314(d)(2)(A), (d)(3), 2318(a), 2348a(c), (e), 2360, 2364(c), 2375, 2392(b), 2393a, 2423(a), 2429(b)(1), and 2429a(a), (b)(2), and (b)(3)\]; those under section 604(a) of the Act \[22 U.S.C. 2354(a)\] except insofar as they relate to procurement under chapter 1 of part I and chapter 4 of part II \[22 U.S.C. 2151 et seq., 2346 et seq.\].
+\[(d) Redesignated (c).\]
 
 (e) The following-described functions conferred upon the President:
 
@@ -270,23 +226,31 @@ Reserved Functions
 
 (f) That under section 523(d) of the Mutual Security Act of 1954 (22 U.S.C. 1783(d)).
 
-(g) Those under sections 130, 131 \[Pub. L. 99–83, Aug. 8, 1985, 99 Stat. 207\], 504 and 505 \[22 U.S.C. 2349aa–8, 2349aa–9\] of the ISDCA of 1985\[.\]
+(g) Those under sections 130 \[Pub. L. 99–83, Aug. 8, 1985, 99 Stat. 207\], 504 and 505 \[22 U.S.C. 2349aa–8, 2349aa–9\] of the ISDCA of 1985\[.\]
 
-1–702. <i>Subsequent Amendments</i>. Functions conferred upon the President by subsequent amendments to the Act \[this chapter\] are delegated to the Director only insofar as they do not relate directly and necessarily to the conduct of programs and activities that either the President or an agency other than IDCA is authorized to administer pursuant to express reservation or delegation of authorities in a statute or in this or another Executive order.
+1–702. <i>Subsequent Amendments</i>. Functions conferred upon the President by subsequent amendments to the Act \[this chapter\] are delegated to the Secretary only insofar as they do not relate directly and necessarily to the conduct of programs and activities that either the President or an agency other than the Department of State is authorized to administer pursuant to express reservation or delegation of authorities in a statute or in this or another Executive order.
+
+1–703. <i>Office of Management and Budget</i>. In this order the Director of the Office of Management and Budget shall retain all authorities related to the implementation of his budgetary and policy coordination functions, including the authority to:
+
+&emsp;(a) request and receive information from any agency that is subject to this delegation;
+
+&emsp;(b) carry out all responsibilities associated with implementing the Government Performance and Results Act \[Pub. L. 103–62, see Short Title of 1993 Amendment note set out under section 1101 of Title 31, Money and Finance\], the Government Management Reform Act \[Pub. L. 103–356, see Short Title of 1994 Amendment note set out under section 3301 of Title 31\], and other comparable government-wide statutes dealing with management; and
+
+&emsp;(c) carry out all statutory budget and policy coordination responsibilities assigned to the Director of theOffice of Management and Budget by statute or Executive order.
 
 #### 1–8.
 
 Funds
 
-1–801. <i>Allocation of Funds</i>. Funds appropriated or otherwise made available to the President for carrying out the Act \[this chapter\] shall be deemed to be allocated without any further action of the President, as follows:
+1–800. <i>Allocation of Funds</i>. Funds described below that are appropriated or otherwise made available to the President shall be deemed to be allocated without any further action of the President, as follows:
 
-\[(a) Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(2), Oct. 21, 1998, 112 Stat. 2681–792.\]
+(a) Except as provided in subsections (b) and (c), there are allocated to the Secretary all funds made available for carrying out the Act, including any funds appropriated under the heading “Nonproliferation, Anti-Terrorism, Demining and Related Programs”.
 
-(b) There are allocated to the Secretary of Defense funds made available for carrying out Part II of the Act \[22 U.S.C. 2301 et seq.\] (except chapters 4, 6 and 8 thereof) \[22 U.S.C. 2346 et seq., 2348 et seq., 2349aa et seq.\]).
+(b) There are allocated to the Secretary of Defense all funds made available for carrying out chapters 2 and 5 of Part II of the Act \[22 U.S.C. 2311 et seq., 2347 et seq.\].
 
-(c) There are allocated to the Secretary of State funds made available for carrying out sections 481 and 637(b) \[22 U.S.C. 2291, 2397(b)\] and chapters 6 and 8 of Part II of the Act \[22 U.S.C. 2348 et seq., 2349aa et seq.\].
+(c) There are allocated to the Secretary of the Treasury all funds made available for carrying out section 129 of the Act \[22 U.S.C. 2151aa\].
 
-1–802. <i>Reallocation of Funds</i>. The Director of IDCA, the Secretary of Defense, and the Secretary of State may allocate or transfer as appropriate any funds received under subsections (a), (b), and (c), respectively of section 1–801 of this order, to any agency or part thereof for obligation or expenditure thereby consistent with applicable law.
+(d) The Secretary of State, the Secretary of Defense, and the Secretary of the Treasury may allocate or transfer as appropriate any funds received under subsections (a), (b), and (c) of this section, respectively, to any agency or part thereof for obligation or expenditure thereby consistent with applicable law.
 
 #### 1–9.
 
@@ -300,7 +264,7 @@ General Provisions
 
 (b) References in any prior Executive order to the Mutual Security Act of 1954 \[act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended\] or any provisions thereof shall be deemed to be references to the Act \[this chapter\] or the corresponding provision, if any, thereof.
 
-(c) References in this order to provisions of any Act, and references in any other Executive order or in any memorandum delegation to provisions of any Act related to the subject of this order shall be deemed to include references to any hereafter-enacted provision of law that is the same or substantially the same as such provisions, respectively.
+(c) References in this order to provisions of any Act, and references in any other Executive order or in any memorandum delegation to provisions of any Act related to the subject of this order shall be deemed to include references to any provision of law that is the same or substantially the same as such provisions, respectively.
 
 (d) References in this order or in any other Executive order to this order or to any provision thereof shall be deemed to include references thereto, respectively, as amended from time to time.
 
@@ -332,23 +296,13 @@ General Provisions
 
 &emsp;(6) the President's memorandum of October 18, 1961, entitled “Determination Under Section 604(a) of the Foreign Assistance Act of 1961” (26 FR 10543) is amended by inserting after “the Secretary of State” each time it appears in such memorandum the words “or the Director of the United States International Development Cooperation Agency (with respect to non-military programs administered by such Agency)”.
 
-(c) Any reference in any other Executive order to the Agency for International Development or the Administrator thereof shall be deemed to refer also to the International Development Cooperation Agency or the Director thereof, respectively.
-
-(d) As authorized by section 403(c) of the IDC Act of 1979 \[22 U.S.C. 3503(c)\], the reference in Executive Order No. 11223 of May 12, 1965 \[22 U.S.C. 2393 note\] to “the performance of functions authorized by this Act” shall be deemed to include the performance of functions authorized by section 403 of the IDC Act of 1979 \[22 U.S.C. 3503\].
+\[(c), (d) Revoked by Ex. Ord. No. 13118, §9, Mar. 31, 1999, 64 F.R. 16598.\]
 
 1–904. <i>Saving Provisions</i>. Except to the extent inconsistent with this order, all delegations of authority, determinations, authorizations, regulations, rulings, certificates, orders, directives, contracts, agreements, and other actions made, issued, or entered into with respect to any function affected by this order and not revoked, superseded, or otherwise made inapplicable before the date of this order, shall continue in full force and effect until amended, modified, or terminated by appropriate authority.
 
 1–905. <i>Effective Date</i>. The provisions of this order shall become effective as of October 1, 1979.
 
 \[Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(2), Oct. 21, 1998, 112 Stat. 2681–792, provided that sections 1–101 through 1–103, 1–401 through 1–403, and 1–801(a), and other provisions of Ex. Ord. No. 12163 that relate to the United States International Development Cooperation Agency or the Director thereof were repealed.\]
-
-\[For abolition of United States International Development Cooperation Agency (other than Agency for International Development and Overseas Private Investment Corporation), transfer of functions, and treatment of references thereto, see sections 6561, 6562, and 6571 of this title.\]
-
-\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
-
-\[Ex. Ord. No. 12884, §6(c), Dec. 1, 1993, 58 F.R. 64100, set out as a note under section 5812 of this title, excluded certain functions of President delegated under section 1–102(a) of Ex. Ord. No. 12163, set out above.\]
-
-\[Memorandum of President of the United States, Feb. 16, 1995, 60 F.R. 10793, set out as a note under section 2357 of this title, delegated certain authority of President to Secretary of State in lieu of delegation of comparable authority by section 1–102(a)(7) of Ex. Ord. No. 12163, set out above.\]
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@
 
 &emsp;(D) in the case of grave sites of cremated remains that are interred in the ground, the Secretary may provide for flat grave markers.
 
-(d) There shall be kept in each national cemetery, and at the main office of the Department, a register of burials in each cemetery setting forth the name of each person buried in the cemetery, the number of the grave in which the veteran is buried, and such other information as the Secretary by regulation may prescribe.
+(d) There shall be kept in each national cemetery, and at the main office of the Department,a register of burials in each cemetery setting forth the name of each person buried in the cemetery, the number of the grave in which the veteran is buried, and such other information as the Secretary by regulation may prescribe.
 
 (e) In carrying out the Secretary's responsibilities under this chapter, the Secretary may contract with responsible persons, firms, or corporations for the care and maintenance of such cemeteries under the Secretary's jurisdiction as the Secretary shall choose, under such terms and conditions as the Secretary may prescribe.
 
@@ -68,11 +68,49 @@ Section 6 of Pub. L. 93–43 provided that:
 
 “\[<i>Same; rules; regulations, permits, and other privileges</i>\] (d) All rules, regulations, orders, permits, and other privileges issued or granted by the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force with respect to the cemeteries, memorials, and monuments transferred to the Veterans’ Administration by this Act, unless contrary to the provisions of such Act, shall remain in full force and effect until modified, suspended, overruled, or otherwise changed by the Administrator of Veterans’ Affairs, by any court of competent jurisdiction, or by operation of law.
 
-“\[<i>Abatement of proceedings; proceedings against United States or officer of Veterans’ Administration; judicial orders; continuation of suits by Administrator</i>\] (e) No suit, action, or other proceeding commenced by or against any officer in his official capacity as an official of the Department of the Army, the Department of the Navy, or the Department of the Air Force with respect tofunctions transferred under subsection (a) or (c) of this section shall abate by reason of the enactment of this section. No cause of action by or against any such department with respect to functions transferred under such subsection (a) or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this section. Causes of actions, suits, or other proceedings may be asserted by or against the United States or such officer of the Veterans’ Administration as may be appropriate and, in any litigation pending when this section takes effect, the court may at any time, upon its own motion or that of any party, enter an order which will give effect to the provisions of this subsection. If before the date this section takes effect \[see note hereunder\], any such department, or officer thereof in his official capacity, is a party to a suit with respect to any function so transferred, such suit shall be continued by the Administrator of Veterans’ Affairs.”
+“\[<i>Abatement of proceedings; proceedings against United States or officer of Veterans’ Administration; judicial or</i><i>ders; continuation of suits by Administrator</i>\] (e) No suit, action, or other proceeding commenced by or against any officer in his official capacity as an official of the Department of the Army, the Department of the Navy, or the Department of the Air Force with respect to functions transferred under subsection (a) or (c) of this section shall abate by reason of the enactment of this section. No cause of action by or against any such department with respect to functions transferred under such subsection (a) or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this section. Causes of actions, suits, or other proceedings may be asserted by or against the United States or such officer of the Veterans’ Administration as may be appropriate and, in any litigation pending when this section takes effect, the court may at any time, upon its own motion or that of any party, enter an order which will give effect to the provisions of this subsection. If before the date this section takes effect \[see note hereunder\], any such department, or officer thereof in his official capacity, is a party to a suit with respect to any function so transferred, such suit shall be continued by the Administrator of Veterans’ Affairs.”
 
 \[Section 6 of Pub. L. 93–43 effective Sept. 1, 1973, or such earlier date as the President may prescribe and publish in the Federal Register, see section 10(c) of Pub. L. 93–43, set out as an Effective Date note under section 2306 of this title.\]
 
 \[The United States Soldiers’ and Airmen's Home and the United States Naval Home were incorporated into the Armed Forces Retirement Home by section 411 of Title 24, Hospitals and Asylums.\]
+
+#### Use of Flat Grave Markers at Santa Fe National Cemetery, New Mexico
+
+Pub. L. 106–117, title VI, §612, Nov. 30, 1999, 113 Stat. 1580, provided that: “Notwithstanding section 2404(c)(2) of title 38, United States Code, the Secretary \[of Veterans Affairs\] may provide for flat grave markers at the Santa Fe National Cemetery, New Mexico.”
+
+#### Independent Study on Improvements to Veterans’ Cemeteries
+
+Pub. L. 106–117, title VI, §613, Nov. 30, 1999, 113 Stat. 1581, provided that:
+
+“(a)
+
+Study.—Not later than 180 days after the date of the enactment of this Act \[Nov. 30, 1999\], the Secretary \[of Veterans Affairs\] shall enter into a contract with one or more qualified organizations to conduct a study of national cemeteries described in subsection (b). For purposes of this section, an entity of Federal, State, or local government is not a qualified organization.
+
+“(b)
+
+Matters Studied.—(1) The study conducted pursuant to the contract entered into under subsection (a) shall include an assessment of each of the following:
+
+&emsp;“(A) The one-time repairs required at each national cemetery under the jurisdiction of the National Cemetery Administration of the Department of Veterans Affairs to ensure a dignified and respectful setting appropriate to such cemetery, taking into account the variety of age, climate, and burial options at individual national cemeteries.
+
+&emsp;“(B) The feasibility of making standards of appearance of active national cemeteries, and the feasibility of making standards of appearance of closed national cemeteries, commensurate with standards of appearance of the finest cemeteries in the world.
+
+&emsp;“(C) The number of additional national cemeteries that will be required for the interment and memorialization in such cemeteries of individuals qualified under chapter 24 of title 38, United States Code, who die after 2005.
+
+&emsp;“(D) The advantages and disadvantages of the use by the National Cemetery Administration of flat grave markers and upright grave markers.
+
+&emsp;“(E) The current condition of flat grave marker sections at each of the national cemeteries.
+
+“(2) In presenting the assessment of additional national cemeteries required under paragraph (1)(C), the report shall identify by five-year period, beginning with 2005 and ending with 2020, the following:
+
+&emsp;“(A) The number of additional national cemeteries required during each such five-year period.
+
+&emsp;“(B) With respect to each such five-year period, the areas in the United States with the greatest concentration of veterans whose needs are not served by national cemeteries or State veterans’ cemeteries.
+
+“(c)
+
+Report.—(1) Not later than one year after the date on which a qualified organization enters into a contract under subsection (a), the organization shall submit to the Secretary a report setting forth the results of the study conducted and conclusions of the organization with respect to such results.
+
+“(2) Not later than 120 days after the date on which a report is submitted under paragraph (1), the Secretary shall transmit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a copy of the report, together with any comments on the report that the Secretary considers appropriate.”
 
 #### Grave Markers in Certain Locations
 
@@ -88,7 +126,7 @@ Repeal of sections 271 to 276, 278 to 279d, 281 to 282, 286 to 290, and 296 of T
 
 #### Studies; Recommendations to Congress
 
-Section 3 of Pub. L. 93–43 authorized the Administrator to conduct a comprehensive study concerning the criteria governing the development and operation of the National Cemetery System, including the concept of regional cemeteries, the relationship of the National Cemetery System to other burial benefits provided by Federal and State Governments to servicemen and veterans, steps taken to conform the existing system to the recommended criteria, private burial and funeral costs in the United States, current headstone and marker programs, and the marketing and sales practices of non-Federal cemeteries and interment facilities, and to submit his recommendations within twelve months after the convening of the first session of the Ninety-third Congress and also authorized the Administrator, in conjunction with the Secretary of Defense, to conduct a comprehensive study concerning the advisability of including Arlington National Cemetery within the National Cemetery System, the appropriateness of maintaining the present eligibility requirements for burial at Arlington National Cemetery and the advisability of establishing another national cemetery, and to submit the results of their joint recommendations within twelve months after the convening of the first session of the Ninety-third Congress.
+Section 3 of Pub. L. 93–43 authorized the Administrator to conduct a comprehensive study concerning the criteria governing the development and operation of the National Cemetery System, including the concept of regional cemeteries, the relationship of the National Cemetery System to other burial benefits provided by Federal and State Governments to servicemen and veterans, steps taken to conform the existing system to the recommended criteria, private burial and funeral costs in the United States, current headstone and marker programs, and the marketing and sales practices of non-Federal cemeteries and interment facilities, and to submit his recommendations within twelve months after the convening of the first session of the Ninety-third Congress and also authorized the Administrator, in conjunction with the Secretary of Defense, to conduct a comprehensive study concerning the advisability of including Arlington National Cemetery within the National Cemetery System, the appropriatenessof maintaining the present eligibility requirements for burial at Arlington National Cemetery and the advisability of establishing another national cemetery, and to submit the results of their joint recommendations within twelve months after the convening of the first session of the Ninety-third Congress.
 
 #### Section Referred to in Other Sections
 

@@ -138,7 +138,7 @@ Par. (3). Pub. L. 98–557, §19(1)(B), added par. (3).
 
 Par. (1). Pub. L. 96–513, §511(35), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
-Par. (2). Pub. L. 96–513, §§115(b), 511(36), substituted “spouse” for “wife” in cl. (A), struck out cl. (C) “thehusband, if he is in fact dependent on the member or former member for over one-half of his support;”, redesignated cls. (D), (E), and (F) as (C), (D), and (E), respectively, in cl. (C) as so redesignated, struck out “, if, because of mental or physical incapacity he was in fact dependent on the member or former member at the time of her death for over one-half of his support” after “the unremarried widower”, and in cl. (D)(iii) as so redesignated, substituted “Health and Human Services” for “Health, Education, and Welfare”.
+Par. (2). Pub. L. 96–513, §§115(b), 511(36), substituted “spouse” for “wife” in cl. (A), struck out cl. (C) “the husband, if he is in fact dependent on the member or former member for over one-half of his support;”, redesignated cls. (D), (E), and (F) as (C), (D), and (E), respectively, in cl. (C) as so redesignated, struck out “, if, because of mental or physical incapacity he was in fact dependent on the member or former member at the time of her death for over one-half of his support” after “the unremarried widower”, and in cl. (D)(iii) as so redesignated, substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
 1966—Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in clause (1).
 
@@ -152,7 +152,7 @@ Section 702(b) of Pub. L. 103–160 provided that: “Section 1072(2)(I) of titl
 
 Section 731(d) of Pub. L. 101–189 provided that:
 
-“(1) The amendments made by this section \[enacting section 1086a of this title and amending this section and sections 1076 and 1086 of this title\] apply to a person referred to in section 1072(2)(H) of title 10, United States Code (as added by subsection (a)), whose decree of divorce, dissolution, or annulment becomes final on or after the date of the enactment of this Act \[Nov. 29, 1989\].
+“(1) The amendments made by this section \[enacting section 1086a of this title and amending this section and sections 1076 and 1086 of this title\] apply to a person referred to in section 1072(2)(H) of title 10, United States Code (as added by subsection (a)), whose decree of divorce, dissolution, or annulment becomes final onor after the date of the enactment of this Act \[Nov. 29, 1989\].
 
 “(2) The amendments made by this section shall also apply to a person referred to in such section whose decree of divorce, dissolution, or annulment became final during the period beginning on September 29, 1988, and ending on the day before the date of the enactment of this Act, as if the amendments had become effective on September 29, 1988.”
 
@@ -196,5 +196,5 @@ Section 645(c) of Pub. L. 98–525, as amended by Pub. L. 99–661, div. A, titl
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1040, 1060a, 1062, 1076a, 1076c, 1078a, 1079, 1086, 1086a, 1108, 1481, 1490, 2114, 2147 of this title; title 42 section 1320d.
+This section is referred to in sections 1040, 1060a, 1062, 1076a, 1076c, 1078a, 1079, 1086, 1086a, 1095d, 1108, 1481, 1490, 2114, 2147 of this title; title 42 section 1320d.
 

@@ -2,11 +2,13 @@
 
 (a)
 
-General Authorization of Appropriations.—Not more than a total of the following amounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to acquire, establish, and improve air navigation facilities under section 44502(a)(1)(A) of this title:
+General Authorization of Appropriations.—Not more than a total of the followingamounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to acquire, establish, and improve air navigation facilities under section 44502(a)(1)(A) of this title:
 
 &emsp;(1) $2,068,000,000 for fiscal year 1997.
 
 &emsp;(2) $2,129,000,000 for fiscal year 1998.
+
+&emsp;(3) $2,131,000,000 for fiscal year 1999.
 
 (b)
 
@@ -16,7 +18,7 @@ Major Airway Capital Investment Plan Changes.—If the Secretary decides that it
 
 Availability of Amounts.—Amounts appropriated under this section remain available until expended.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title I, §102(a), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §102(a), (b)(1), Oct. 9, 1996, 110 Stat. 3216.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title I, §102(a), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §102(a), (b)(1), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 106–6, §3, Mar. 31, 1999, 113 Stat. 10.)
 
 Historical and Revision Notes
 
@@ -57,6 +59,8 @@ Sept. 3, 1982, Pub. L. 97–248, §506(a)(2), 96 Stat. 677; Dec. 30, 1987, Pub. 
 In subsection (a), the words “to the Secretary of Transportation” are added for clarity and consistency in this chapter. The words “for fiscal years beginning after September 30, 1990” and “$2,500,000,000 for fiscal year 1991” are omitted as obsolete.
 
 #### Amendments
+
+1999—Subsec. (a)(3). Pub. L. 106–6 added par. (3).
 
 1996—Pub. L. 104–264, §102(b)(1), inserted “and equipment” after “facilities” in section catchline.
 

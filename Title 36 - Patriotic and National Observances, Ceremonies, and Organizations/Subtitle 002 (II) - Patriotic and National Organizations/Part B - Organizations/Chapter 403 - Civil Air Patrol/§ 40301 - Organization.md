@@ -30,5 +30,7 @@ July 1, 1946, ch. 527, §§1, 5 (related to perpetual succession), 60 Stat. 346,
 
 36:205 (related to perpetual succession).
 
+&nbsp;
+
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
 

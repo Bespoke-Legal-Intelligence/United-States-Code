@@ -82,7 +82,7 @@ Subsec. (c). Pub. L. 96–471 substituted provisions defining an “80-percent o
 
 1978—Subsec. (a). Pub. L. 95–600 substituted “of a character which is subject to the allowance for depreciation provided in section 167” for “subject to the allowance for depreciation provided in section 167”.
 
-1976—Pub. L. 94–455 substituted “sale of depreciable property between certain related taxpayers” for “saleof certain property between spouses or between an individual and a controlled corporation” in section catchline.
+1976—Pub. L. 94–455 substituted “sale of depreciable property between certain related taxpayers” for “sale of certain property between spouses or between an individual and a controlled corporation” in section catchline.
 
 Subsec. (a). Pub. L. 94–455 substituted provisions for transactions between related persons for such transactions (1) between a husband and wife; or (2) between an individual and a corporation more than 80 percent in value of the outstanding stock of which is owned by such individual, his spouse, and his minor children and minor grandchildren and “any gain recognized to the transferee shall be treated as ordinary income if such property is, in the hands of the transferee, subject to the allowance for depreciation provided in section 167” for “any gain recognized to the transferor from the sale or exchange of such property shall be considered as gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”.
 

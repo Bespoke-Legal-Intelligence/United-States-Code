@@ -136,7 +136,7 @@ There is established in the Treasury of the United States an account to be known
 
 &emsp;&emsp;&emsp;&emsp;(III) determine the relevance and merit of proposals through a system of peer review and review by the National Agricultural Research, Extension, Education, and Economics Advisory Board; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) award grants on the basis of merit, quality, and relevance to advancing the purposes of federally supported agricultural research, extension, andeducation provided in section 3101 of this title.
+&emsp;&emsp;&emsp;&emsp;(IV) award grants on the basis of merit, quality, and relevance to advancing the purposes of federally supported agricultural research, extension, and education provided in section 3101 of this title.
 
 #### (ii) Competitive basis
 
@@ -174,7 +174,7 @@ There is established in the Treasury of the United States an account to be known
 
 Amounts in the Account may not be used for an activity described in subsection (c) of this section for a fiscal year if the program funding level for the fiscal year for the activity is less than 90 percent of the amount appropriated for the activity for fiscal year 1996, adjusted for inflation.
 
-(Pub. L. 104–127, title VII, §793, Apr. 4, 1996, 110 Stat. 1152; Pub. L. 105–185, title II, §252, June 23, 1998, 112 Stat. 557; Pub. L. 105–277, div. A, title I, §101(a) \[title VII, §753(c)(1)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33.)
+(Pub. L. 104–127, title VII, §793, Apr. 4, 1996, 110 Stat. 1152; Pub. L. 105–185, title II, §252, June 23, 1998, 112 Stat. 557; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(c)(1)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33.)
 
 #### References in Text
 

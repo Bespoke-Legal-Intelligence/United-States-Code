@@ -6,7 +6,7 @@ To commence a proceeding, a covered employee alleging a violation of a law made 
 
 #### (b) Period of counseling
 
-The period for counseling shall be 30 days unless the employee and the Office agree to reducethe period. The period shall begin on the date the request for counseling is received.
+The period for counseling shall be 30 days unless the employee and the Office agree to reduce the period. The period shall begin on the date the request for counseling is received.
 
 #### (c) Notification of end of counseling period
 

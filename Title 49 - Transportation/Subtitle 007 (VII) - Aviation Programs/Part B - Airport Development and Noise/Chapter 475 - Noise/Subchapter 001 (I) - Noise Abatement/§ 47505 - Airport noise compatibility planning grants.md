@@ -34,5 +34,5 @@ In subsection (a), before clause (1), the words “incur obligations to” are o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40117, 47115, 47117, 48103 of this title.
+This section is referred to in sections 40117, 47117, 48103 of this title.
 

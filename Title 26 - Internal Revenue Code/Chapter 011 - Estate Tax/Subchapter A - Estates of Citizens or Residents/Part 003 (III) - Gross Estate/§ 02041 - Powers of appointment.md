@@ -30,7 +30,7 @@ The value of the gross estate shall include the value of all property.
 
 &emsp;&emsp;(B) by a disposition which is of such nature that if it were a transfer of property owned by the decedent such property would be includible in the decedent's gross estate under section 2035, 2036, or 2037,
 
-> &emsp;exercises a power of appointment created after October 21, 1942, by creating another power of appointment which under the applicable local law can be validly exercised so as to postpone the vesting of any estate or interest in such property, or suspend the absolute ownership or power of alienation of such property, for a period ascertainable without regard to the date of the creation of the first power.
+> &emsp;exercises a power of appointment created after October 21, 1942, by creating another power of appointment which under the applicable local law can be validly exercised so as to postpone the vesting of any estate or interest in suchproperty, or suspend the absolute ownership or power of alienation of such property, for a period ascertainable without regard to the date of the creation of the first power.
 
 #### (b) Definitions
 
@@ -52,7 +52,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;&emsp;(iii) If (after the application of clauses (i) and (ii)) the power is a general power of appointment and is exercisable in favor of such other person—such power shall be deemed a general power of appointment only in respect of a fractional part of the property subject to such power, such part to be determined by dividing the value of such property by the number of such persons (including the decedent) in favor of whom such power is exercisable.
 
-> &emsp;&emsp;For purposes of clauses (ii) and (iii), a power shall be deemed to be exercisable in favor of a person if it is exercisable in favor of suchperson, his estate, his creditors, or the creditors of his estate.
+> &emsp;&emsp;For purposes of clauses (ii) and (iii), a power shall be deemed to be exercisable in favor of a person if it is exercisable in favor of such person, his estate, his creditors, or the creditors of his estate.
 
 #### (2) Lapse of power
 

@@ -112,7 +112,7 @@ At the request of an authorized representative referred to in subsection (a)(6)(
 
 &emsp;(1) withhold the clearance required by section 91 of title 46, Appendix for a vessel if the master, owner, or operator of a vessel subject to port or harbor dues under this section fails to comply with the provisions of this section including any non-Federal law, regulation or ordinance issued hereunder; and
 
-&emsp;(2) assess a penalty or initiate a forfeiture of the cargo in the same manner and under the same procedures as are applicable for failure to pay customs duties under the Tariff Act of 1930 (19 U.S.C. 1202 et seq.) if the shipper, consignor, consignee, or terminal operator having title to or custody of cargo subject to port or harbor dues under this section fails to comply with the provisions of this section including any non-Federal law, regulation, or ordinance issued hereunder.
+&emsp;(2) assess a penalty or initiate a forfeiture of the cargo in the same manner and under the same procedures as are applicable for failure to pay customs duties under the Tariff Act of 1930 (19 U.S.C. 1202 et seq.) if the shipper, consignor, consignee, or terminal operator having title to or custody of cargo subject to port orharbor dues under this section fails to comply with the provisions of this section including any non-Federal law, regulation, or ordinance issued hereunder.
 
 #### (e) Maritime Lien
 

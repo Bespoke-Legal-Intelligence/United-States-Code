@@ -10,7 +10,7 @@ The provisions of title III of the Compact relating to future use by the United 
 
 #### References in Text
 
-The Compact, referred to in text, is the Compact of Free Association between the United States and the Government of Palau, which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of this title.
+The Compact, referred to in text, is the Compact of Free Association between the United States and theGovernment of Palau, which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of this title.
 
 #### Codification
 

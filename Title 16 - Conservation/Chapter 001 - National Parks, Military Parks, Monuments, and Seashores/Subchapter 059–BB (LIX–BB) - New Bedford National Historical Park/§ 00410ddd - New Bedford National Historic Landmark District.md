@@ -20,7 +20,7 @@
 
 &emsp;The purposes of this section are—
 
-&emsp;&emsp;(A) to help preserve, protect, and interpret the resources within the areas described in subsection (c)(2) of this section, including architecture, setting, and associated archival and museum collections;
+&emsp;&emsp;(A) to help preserve, protect, and interpret the resources within the areas described insubsection (c)(2) of this section, including architecture, setting, and associated archival and museum collections;
 
 &emsp;&emsp;(B) to collaborate with the city of New Bedford and with associated historical, cultural, and preservation organizations to further the purposes of the park established under this section; and
 
@@ -76,7 +76,7 @@ To ensure that the contribution of Alaska Natives to the history of whaling in t
 
 #### (1) In general
 
-&emsp;The park shall be administered by the Secretary in accordance with this section and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+&emsp;The park shall be administered by the Secretary in accordance with this section and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, 4, and 461 to 467 of this title.
 
 #### (2) Cooperative agreements
 

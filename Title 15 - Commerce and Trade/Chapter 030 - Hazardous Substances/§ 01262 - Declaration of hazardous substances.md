@@ -12,11 +12,11 @@
 
 #### (b) Reasonable variations or additional label requirements
 
-If the Commission finds that the requirements of section 1261(p)(1) of this title are not adequatefor the protection of the public health and safety in view of the special hazard presented by any particular hazardous substance, it may by regulation establish such reasonable variations or additional label requirements as it finds necessary for the protection of the public health and safety; and any such hazardous substance intended, or packaged in a form suitable, for use in the household or by children, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded hazardous substance.
+If the Commission finds that the requirements of section 1261(p)(1) of this title are not adequate for the protection of the public health and safety in view of the special hazard presented by any particular hazardous substance, it may by regulation establish such reasonable variations or additional label requirements as it finds necessary for the protection of the public health and safety; and any such hazardous substance intended, or packaged in a form suitable, for use in the household or by children, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded hazardous substance.
 
 #### (c) Exemption from requirements by regulation
 
-If the Commission finds that, because of the size of the package involved or because of the minor hazard presented by the substance contained therein, or for other good and sufficient reasons, full compliance with the labeling requirements otherwise applicable under this chapter is impracticable or is not necessary for the adequate protection of the public health and safety, the Commission shall promulgate regulations exempting such substance from these requirements to the extent it determines to be consistent with adequate protection of the public health and safety.
+If the Commission finds that, because of the size of the package involved or because of the minor hazard presented by the substance contained therein, or for other good and sufficient reasons, full compliance with the labeling requirements otherwise applicable under this chapter is impracticable or is not necessary for the adequate protection of the public health andsafety, the Commission shall promulgate regulations exempting such substance from these requirements to the extent it determines to be consistent with adequate protection of the public health and safety.
 
 #### (d) Exemption from requirements of this chapter of substances or containers adequately regulated by other provisions of law
 
@@ -82,7 +82,7 @@ No regulation under section 1261(q)(1) of this title classifying an article or s
 
 &emsp;(2) a discussion of the reasons any standard or portion of a standard submitted to the Commission under subsection (f)(5) of this section was not published by the Commission as the proposed regulation or part of the proposed regulation;
 
-&emsp;(3) a discussion of the reasons for the Commission's preliminary determination that efforts proposed under subsection (f)(6) of thissection and assisted by the Commission as required by section 2054(a)(3) of this title would not, within a reasonable period of time, be likely to result in the development of a voluntary standard that would eliminate or adequately reduce the risk of injury identified in the notice provided under subsection (f)(1) of this section; and
+&emsp;(3) a discussion of the reasons for the Commission's preliminary determination that efforts proposed under subsection (f)(6) of this section and assisted by the Commission as required by section 2054(a)(3) of this title would not, within a reasonable period of time, be likely to result in the development of a voluntary standard that would eliminate or adequately reduce the risk of injury identified in the notice provided under subsection (f)(1) of this section; and
 
 &emsp;(4) a description of any reasonable alternatives to the proposed regulation, together with a summary description of their potential costs and benefits, and a brief explanation of why such alternatives should not be published as a proposed regulation.
 
@@ -90,7 +90,7 @@ No regulation under section 1261(q)(1) of this title classifying an article or s
 
 #### (i) Publication of final regulatory analysis with regulation; required findings; judicial review
 
-(1) The Commission shall not promulgate a regulation under section 1261(q)(1) of this title classifying an article or substance as a banned hazardous substance or a regulation under subsection (e) of this section unless it has prepared a final regulatory analysis of the regulation containing the following information:
+(1) The Commission shall not promulgate a regulation under section 1261(q)(1) of this titleclassifying an article or substance as a banned hazardous substance or a regulation under subsection (e) of this section unless it has prepared a final regulatory analysis of the regulation containing the following information:
 
 &emsp;(A) A description of the potential benefits and potential costs of the regulation, including costs and benefits that cannot be quantified in monetary terms, and the identification of those likely to receive the benefits and bear the costs.
 
@@ -134,7 +134,7 @@ Subsec. (j). Pub. L. 101–608, §110(b), added subsec. (j).
 
 1969—Subsec. (e). Pub. L. 91–113 added subsec. (e).
 
-1966—Subsec. (b). Pub. L. 89–756, §2(d), substituted “any such hazardous substance intended, or packaged in a form suitable, for use in the household or by children, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded hazardous substance” for “any container of such hazardous substance, intended or suitable for household use, which fails to bear a label in accordance with suchregulations shall be deemed to be a misbranded package of a hazardous substance”.
+1966—Subsec. (b). Pub. L. 89–756, §2(d), substituted “any such hazardous substance intended, or packaged in a form suitable, for use in the household or by children, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded hazardous substance” for “any container of such hazardous substance, intended or suitable for household use, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded package of a hazardous substance”.
 
 Subsec. (d). Pub. L. 89–756, §2(e), inserted “hazardous substance or” before “container of a hazardous substance”.
 
@@ -152,7 +152,7 @@ Amendment by Pub. L. 91–113 effective on sixtieth day following Nov. 6, 1969, 
 
 #### Transfer of Functions
 
-“Commission” substituted for “Secretary”, “Commission's” for “Secretary's”, “it” for “he”, and “it” or “its” for “him” wherever appearing in subsecs. (a) to (e) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
+“Commission” substituted for “Secretary”, “Commission's” for “Secretary's”, “it” for “he”, and “it” or“its” for “him” wherever appearing in subsecs. (a) to (e) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
 
 #### National Commission on Product Safety
 

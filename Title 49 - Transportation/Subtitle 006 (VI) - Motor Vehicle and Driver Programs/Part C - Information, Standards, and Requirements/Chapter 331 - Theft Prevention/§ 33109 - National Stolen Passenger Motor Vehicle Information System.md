@@ -104,7 +104,7 @@ In subsection (a)(2)(B), the words “stolen passenger motor vehicle and passeng
 
 In subsection (a)(4), the text of 15:2026c(f) (1st sentence) is omitted as surplus. The words “the effective date of the System” are substituted for “shall be effective as provided” because of the restatement.
 
-In subsection (b)(1), the words “intending to transfer” are substituted for “seeking to transfer” for clarity. The words “passenger motor vehicle or passenger motor vehicle part” are substituted for “a vehicle or vehicle parts” for consistency with the terminology used in the revised chapter. The words “whether the vehicle or part” are substituted for “whether a part” forconsistency with source provisions restated in the revised section.
+In subsection (b)(1), the words “intending to transfer” are substituted for “seeking to transfer” for clarity. The words “passenger motor vehicle or passenger motor vehicle part” are substituted for “a vehicle or vehicle parts” for consistency with the terminology used in the revised chapter. The words “whether the vehicle or part” are substituted for “whether a part” for consistency with source provisions restated in the revised section.
 
 In subsection (b)(2), the words “shall inform the insurance carrier, person, individual, or enterprise whether” are substituted for “provide such insurance carrier or person with a determination as to whether” for clarity and consistency in the revised subsection. The words “may require appropriate verification” are substituted for “may require such verification as the Attorney General deems appropriate” to eliminate unnecessary words.
 
@@ -116,7 +116,7 @@ In subsection (c)(1), the words “and appoint” are omitted as unnecessary bec
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of 2-year period beginning on date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of 2-year period beginning on date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise providedfor by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@ The provisions of this section shall apply to all minerals that are subject to d
 
 #### (b) Interim payments into Alaska Native Fund based on percentage of gross value of produced or removed minerals and of rentals and bonuses; time of payment
 
-With respect to conditional leases and sales of minerals heretofore or hereafter made pursuantto section 6(g) of the Alaska Statehood Act, and with respect to mineral leases of the United States that are or may be subsumed by the State under section 6(h) of the Alaska Statehood Act, until such time as the provisions of subsection (c) of this section become operative the State shall pay into the Alaska Native Fund from the royalties, rentals, and bonuses hereafter received by the State (1) a royalty of 2 per centum upon the gross value (as such gross value is determined for royalty purposes under such leases or sales) of such minerals produced or removed from such lands, and (2) 2 per centum of all rentals and bonuses under such leases or sales, excluding bonuses received by the State at the September 1969 sale of minerals from tentatively approved lands and excluding rentals received pursuant to such sale before December 18, 1971. Such payment shall be made within sixty days from the date the revenues are received by the State.
+With respect to conditional leases and sales of minerals heretofore or hereafter made pursuant to section 6(g) of the Alaska Statehood Act, and with respect to mineral leases of the United States that are or may be subsumed by the State under section 6(h) of the Alaska Statehood Act, until such time as the provisions of subsection (c) of this section become operative the State shall pay into the Alaska Native Fund from the royalties, rentals, and bonuses hereafter received by the State (1) a royalty of 2 per centum upon the gross value (as such gross value is determined for royalty purposes under such leases or sales) of such minerals produced or removed from such lands, and (2) 2 per centum of all rentals and bonuses under such leases or sales, excluding bonuses received by the State at the September 1969 sale of minerals from tentatively approved lands and excluding rentals received pursuant to such sale before December 18, 1971. Such payment shall be made within sixty days from the date the revenues are received by the State.
 
 #### (c) Patents; royalties: reservation of percentage of gross value of produced or removed minerals and of rentals and bonuses from disposition of minerals
 
@@ -18,7 +18,7 @@ All bonuses, rentals, and royalties received by the United States after December
 
 #### (e) Federal enforcement; State underpayment: deductions from grants-in-aid or other Federal assistance equal to underpayment and deposit of such amount in Fund
 
-The provisions of this section shall be enforceable by the United States for the benefit of the Natives, and in the event of default by the State in making the payments required, in addition to any other remedies provided by law, there shall be deducted annually by the Secretary of the Treasury from any grant-in-aid or from any other sums payable to the State under any provision of Federal law an amount equal to any such underpayment, which amount shall be deposited in the Fund.
+The provisions of this section shall be enforceable by the United States for the benefit of the Natives, and in the event of default by the State in making the payments required, in addition to any other remedies provided by law, there shallbe deducted annually by the Secretary of the Treasury from any grant-in-aid or from any other sums payable to the State under any provision of Federal law an amount equal to any such underpayment, which amount shall be deposited in the Fund.
 
 #### (f) Oil and gas revenues; amount payable equal to Federal or State royalties in cash or kind
 
@@ -46,7 +46,7 @@ The provisions of this section do not apply to mineral revenues received from th
 
 The Mineral Leasing Act of 1920, referred to in subsec. (a), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
-Sections 6(g) and 6(h) of the Alaska Statehood Act, referred to in subsec. (b), are sections 6(g) and 6(h) ofPub. L. 85–508, July 7, 1958, 72 Stat. 339, which are set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
+Sections 6(g) and 6(h) of the Alaska Statehood Act, referred to in subsec. (b), are sections 6(g) and 6(h) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which are set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
 
 The Alaska Statehood Act, referred to in subsecs. (c) and (d), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48. For complete classification of this Act to the Code, see Tables.
 

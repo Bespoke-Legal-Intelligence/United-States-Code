@@ -8,7 +8,7 @@ The Chairman of the Armed Forces Retirement Board is authorized to accept for th
 
 A resident receiving pay for services authorized under subsection (a) of this section shall not, by reason of performing such services and receiving pay for such services, be considered as—
 
-&emsp;(1) receiving the pay of a position or being employed in a position for the purposes of section 5532 of title 5; or
+&emsp;(1) receiving the pay of a position or being employed in a position for the purposes of section 5532 <sup>1</sup> of title 5; or
 
 &emsp;(2) being an employee of the United States for any purpose other than—
 
@@ -22,6 +22,10 @@ In subsection (b)(1) of this section, the term “position” has the meaning gi
 
 (Pub. L. 101–510, div. A, title XV, §1521, as added Pub. L. 102–484, div. A, title III, §385(a), Oct. 23, 1992, 106 Stat. 2394; amended Pub. L. 104–201, div. A, title X, §1052(b), Sept. 23, 1996, 110 Stat. 2650.)
 
+#### References in Text
+
+Section 5532 of title 5, referred to in subsec. (b)(1), was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
+
 #### Amendments
 
 1996—Subsec. (b)(2). Pub. L. 104–201 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “being an employee of the United States for any other purpose.”
@@ -29,4 +33,6 @@ In subsection (b)(1) of this section, the term “position” has the meaning gi
 #### Forgiveness of Indebtedness
 
 Section 385(b) of Pub. L. 102–484 provided that: “The Chairman of the Armed Forces Retirement Board is authorized to cancel the indebtedness of any resident of the Armed Forces Retirement Home for repayment to the United States of amounts paid the resident for services provided to the Retirement Home before the date of the enactment of this Act \[Oct. 23, 1992\] if the Chairman determines that it would be in the interest of the United States to do so and against equity and good conscience to require the repayment.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

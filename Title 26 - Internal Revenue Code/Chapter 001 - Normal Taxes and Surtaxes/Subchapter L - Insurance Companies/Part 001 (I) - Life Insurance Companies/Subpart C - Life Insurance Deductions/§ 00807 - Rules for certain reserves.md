@@ -32,7 +32,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 &emsp;(2) The unearned premiums and unpaid losses included in total reserves under section 816(c)(2).
 
-&emsp;(3) The amounts (discounted at the appropriate rate of interest) necessary to satisfy the obligations under insurance and annuity contracts, but only if such obligations do not involve (at the time with respect to which the computation is made under this paragraph) life, accident, or health contingencies.
+&emsp;(3) The amounts (discounted at the appropriate rate of interest) necessary to satisfy theobligations under insurance and annuity contracts, but only if such obligations do not involve (at the time with respect to which the computation is made under this paragraph) life, accident, or health contingencies.
 
 &emsp;(4) Dividend accumulations, and other amounts, held at interest in connection with insurance and annuity contracts.
 
@@ -52,7 +52,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 &emsp;&emsp;(B) the reserve determined under paragraph (2).
 
-> &emsp;In no event shall the reserve determined under the preceding sentence for any contract as of any time exceed the amount which would betaken into account with respect to such contract as of such time in determining statutory reserves (as defined in section 809(b)(4)(B)).
+> &emsp;In no event shall the reserve determined under the preceding sentence for any contract as of any time exceed the amount which would be taken into account with respect to such contract as of such time in determining statutory reserves (as defined in section 809(b)(4)(B)).
 
 #### (2) Amount of reserve
 
@@ -120,7 +120,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “applicable Federal interest rate” means the annual rate determined by the Secretary under section 846(c)(2) for the calendar year in which the contract was issued.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “applicable Federal interest rate” means the annual rate determined by the Secretary under section 846(c)(2) for thecalendar year in which the contract was issued.
 
 #### (ii) Election to recompute Federal interest rate every 5 years
 
@@ -144,7 +144,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “prevailing State assumed interest rate” means, with respect to any contract, the highest assumed interest rate permitted to be used in computing lifeinsurance reserves for insurance contracts or annuity contracts (as the case may be) under the insurance laws of at least 26 States. For purposes of the preceding sentence, the effect of nonforfeiture laws of a State on interest rates for reserves shall not be taken into account.
+&emsp;&emsp;&emsp;The term “prevailing State assumed interest rate” means, with respect to any contract, the highest assumed interest rate permitted to be used in computing life insurance reserves for insurance contracts or annuity contracts (as the case may be) under the insurance laws of at least 26 States. For purposes of the preceding sentence, the effect of nonforfeiture laws of a State on interest rates for reserves shall not be taken into account.
 
 #### (ii) When rate determined
 
@@ -218,7 +218,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (C) Qualified supplemental benefit
 
-&emsp;&emsp;For purposes of this paragraph, the term “qualified supplemental benefit” means anysupplemental benefit described in subparagraph (D) if—
+&emsp;&emsp;For purposes of this paragraph, the term “qualified supplemental benefit” means any supplemental benefit described in subparagraph (D) if—
 
 &emsp;&emsp;&emsp;(i) there is a separately identified premium or charge for such benefit, and
 
@@ -314,7 +314,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of any taxable year beginning on or after September 30, 1990, and before September 30, 1996, there shall be included in the gross income of any life insurance company an amount equal to 31/3 percent of such company's closing balance of theitems referred to in subparagraph (C) for its most recent taxable year beginning before September 30, 1990.
+&emsp;&emsp;&emsp;In the case of any taxable year beginning on or after September 30, 1990, and before September 30, 1996, there shall be included in the gross income of any life insurance company an amount equal to 31/3 percent of such company's closing balance of the items referred to in subparagraph (C) for its most recent taxable year beginning before September 30, 1990.
 
 #### (ii) Termination as life insurance company
 
@@ -382,7 +382,7 @@ Subsec. (d)(4). Pub. L. 100–203, §10241(b)(1), substituted “Applicable Fede
 
 Pub. L. 99–514, §1821(a), inserted at end “In no case shall the amount determined under paragraph (3) for any contract be less than the net surrender value of such contract.”
 
-Subsec. (d)(5)(C). Pub. L. 99–514, §1821(s), inserted at end “When the Secretary by regulation changes the table applicable to a type of contract, the new table shall be treated (for purposes of subparagraph (B) andfor purposes of determining the issue dates of contracts for which it shall be used) as if it were a new prevailing commissioner's standard table adopted by the twenty-sixth State as of a date (no earlier than the date the regulation is issued) specified by the Secretary.”
+Subsec. (d)(5)(C). Pub. L. 99–514, §1821(s), inserted at end “When the Secretary by regulation changes the table applicable to a type of contract, the new table shall be treated (for purposes of subparagraph (B) and for purposes of determining the issue dates of contracts for which it shall be used) as if it were a new prevailing commissioner's standard table adopted by the twenty-sixth State as of a date (no earlier than the date the regulation is issued) specified by the Secretary.”
 
 #### Effective Date of 1997 Amendment
 
@@ -442,7 +442,7 @@ Statutory reserves.—For purposes of this subsection, the term ‘statutory res
 
 #### Special Rule for Companies Using Net Level Reserve Method for Noncancellable Accident and Health Insurance Contracts
 
-Section 217(n) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1823, Oct. 22, 1986, 100 Stat. 2095, 2845, provided that: “A company shall be treated as meeting the requirements of section 807(d)(3)(A)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this Act, with respect to any directly-written noncancellable accident and health insurance contract (whether under existing or new plans of insurance) for any taxable year if—
+Section 217(n) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1823, Oct. 22, 1986, 100 Stat.2095, 2845, provided that: “A company shall be treated as meeting the requirements of section 807(d)(3)(A)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this Act, with respect to any directly-written noncancellable accident and health insurance contract (whether under existing or new plans of insurance) for any taxable year if—
 
 &emsp;“(1) such company—
 

@@ -4,9 +4,11 @@
 
 (b)(1) In the case of a member stationed outside the continental United States and the dependents of such a member, transportation under this section may be provided from the location of the member or dependents, at the time notification of the personal emergency is received, or the member's permanent duty station (and if the member's dependents reside at another overseas location and receive a station allowance, from that location)—
 
-&emsp;(A) to the international airport in the continental United States closest to the location from which the member and his dependents departed; or
+&emsp;(A) to the international airport in the continental United States closest to the location from which the member and his dependents departed;
 
-&emsp;(B) to an airport in Alaska, Hawaii, the Commonwealth of Puerto Rico, any possession of the United States, or any other location outside the continental United States, as determined by the Secretary concerned.
+&emsp;(B) to any airport in the continental United States to which travel can be arranged at the same or a lower cost as travel obtained under subparagraph (A); or
+
+&emsp;(C) to an airport in Alaska, Hawaii, the Commonwealth of Puerto Rico, any possession of the United States, or any other location outside the continental United States, as determined by the Secretary concerned.
 
 (2) In the case of a member whose domicile is outside the continental United States and who is stationed in the continental United States and the dependents of such a member, transportation under this section may be provided from the international airport in the continental United States nearest the location of the member and dependents at the time notification of the personal emergency is received or the international airport nearest the member's permanent duty station to an international airport in Alaska, Hawaii, the Commonwealth of Puerto Rico, a possession of the United States, or any other location outside the continental United States, as determined by the Secretary concerned.
 
@@ -18,11 +20,13 @@
 
 (d) In this section, the term “continental United States” means the 48 contiguous States and the District of Columbia.
 
-(Added Pub. L. 97–60, title I, §126(a), Oct. 14, 1981, 95 Stat. 1004; amended Pub. L. 98–525, title VI, §612(a)(1), Oct. 19, 1984, 98 Stat. 2538; Pub. L. 100–26, §8(e)(6), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §623, Oct. 5, 1994, 108 Stat. 2784.)
+(Added Pub. L. 97–60, title I, §126(a), Oct. 14, 1981, 95 Stat. 1004; amended Pub. L. 98–525, title VI, §612(a)(1), Oct. 19, 1984, 98 Stat. 2538; Pub. L. 100–26, §8(e)(6), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §623, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 106–65, div. A, title VI, §633, Oct. 5, 1999, 113 Stat. 661.)
 
 #### Amendments
 
-1994—Subsec. (b)(1). Pub. L. 103–337, §623(1)(A), substituted “from the location of the member or dependents, at the time notification of the personal emergency is received, or” for “from the international airport nearest the location of the member and dependents at the time notification of the personal emergencyis received or the international airport nearest” in introductory provisions.
+1999—Subsec. (b)(1). Pub. L. 106–65 struck out “or” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
+
+1994—Subsec. (b)(1). Pub. L. 103–337, §623(1)(A), substituted “from the location of the member or dependents, at the time notification of the personal emergency is received, or” for “from the international airport nearest the location of the member and dependents at the time notification of the personal emergency is received or the international airport nearest” in introductory provisions.
 
 Subsec. (b)(1)(A). Pub. L. 103–337, §623(1)(B), substituted “closest to the location” for “closest to the international airport”.
 

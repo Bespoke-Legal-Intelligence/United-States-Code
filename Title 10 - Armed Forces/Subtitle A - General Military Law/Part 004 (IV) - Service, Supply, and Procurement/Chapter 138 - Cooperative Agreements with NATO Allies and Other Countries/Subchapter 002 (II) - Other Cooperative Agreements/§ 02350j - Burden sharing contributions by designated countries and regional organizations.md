@@ -38,6 +38,14 @@ Notice and Wait Requirements.—(1) When a decision is made to carry out a milit
 
 (2) The Secretary of Defense or the Secretary of a military department may not commence a military construction project under subsection (d) until the end of the 21-day period beginning on the date on which the Secretary of Defense submits the report under paragraph (1) regarding the project.
 
+(3)(A) A military construction project under subsection (d) may be carried out without regard to the requirement in paragraph (1) and the limitation in paragraph (2) if the project is necessary to support the armed forces in the country or region in which the project is carried out by reason of a declaration of war, or a declaration by the President of a national emergency pursuant to the National Emergencies Act (50 U.S.C. 1601 et seq.), that is in force at the time of the commencement of the project.
+
+(B) When a decision is made to carry out a military construction project under subparagraph (A), the Secretary of Defense shall submit to the congressional committees specified in subsection (g)—
+
+&emsp;(i) a notice of the decision; and
+
+&emsp;(ii) a statement of the current estimated cost of the project, including the cost of any real property transaction in connection with the project.
+
 (f)
 
 Reports.—Not later than 30 days after the end of each fiscal year, the Secretary of Defense shall submit to Congress a report specifying separately for each country and regional organization from which contributions have been accepted by the Secretary under subsection (a)—
@@ -48,19 +56,29 @@ Reports.—Not later than 30 days after the end of each fiscal year, the Secreta
 
 (g)
 
-Congressional Committees.—The congressional committees referred to in subsection (e)(1) are—
+Congressional Committees.—The congressional committees referred to in subsection (e) are—
 
 &emsp;(1) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 
-&emsp;(2) the Committee on National Security and the Committee on Appropriations of the House of Representatives.
+&emsp;(2) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
 
-(Added Pub. L. 103–160, div. A, title XIV, §1402(a), Nov. 30, 1993, 107 Stat. 1825; amended Pub. L. 103–337, div. A, title X, §1070(a)(10), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title XIII, §1331, Feb. 10, 1996, 110 Stat. 482.)
+(Added Pub. L. 103–160, div. A, title XIV, §1402(a), Nov. 30, 1993, 107 Stat. 1825; amended Pub. L. 103–337, div. A, title X, §1070(a)(10), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title XIII, §1331, Feb. 10, 1996, 110 Stat. 482; Pub. L. 106–65, div. A, title X, §1067(1), div. B, title XXVIII, §2801, Oct. 5, 1999, 113 Stat. 774, 845.)
+
+#### References in Text
+
+The National Emergencies Act, referred to in subsec. (e)(3), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
 #### Codification
 
 Section, as added by Pub. L. 103–160, consists of text of Pub. L. 102–190, div. A, title X, §1045, Dec. 5, 1991, 105 Stat. 1465, as amended by Pub. L. 102–484, div. A, title XIII, §1305(a), (b), Oct. 23, 1992, 106 Stat. 2546, and revised by Pub. L. 103–160, in subsec. (a), by substituting “The Secretary” for “During fiscal years 1992 and 1993, the Secretary”, inserting “, after consultation with the Secretary of State,” after “Secretary of Defense”, and substituting “from any country or regional organization designated for purposes of this section by the Secretary of Defense, in consultation with the Secretary of State” for “from Japan, Kuwait, and the Republic of Korea”, and in subsec. (f), by substituting “each fiscal year” for “each quarter of fiscal years 1992 and 1993”, “Congress” for “congressional defense committees”, “each country and regional organization from which contributions have been accepted by the Secretary under subsection (a)” for “Japan, Kuwait, and the Republic of Korea”, and “the preceding fiscal year” for “the preceding quarter” in pars. (1) and (2).
 
 #### Amendments
+
+1999—Subsec. (e)(3). Pub. L. 106–65, §2801(a), added par. (3).
+
+Subsec. (g). Pub. L. 106–65, §2801(b), substituted “subsection (e)” for “subsection (e)(1)” in introductory provisions.
+
+Subsec. (g)(2). Pub. L. 106–65, §1067(1), substituted “Committee on Armed Services” for “Committee on National Security”.
 
 1996—Subsec. (b). Pub. L. 104–106, §1331(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “
 
@@ -79,8 +97,4 @@ Subsec. (g). Pub. L. 104–106, §1331(c)(2), added subsec. (g).
 1994—Subsec. (a). Pub. L. 103–337, §1070(a)(10)(A), inserted a comma after second reference to “Secretary of State”.
 
 Subsec. (f). Pub. L. 103–337, §1070(a)(10)(B), struck out “the” before “Congress” in introductory provisions.
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 

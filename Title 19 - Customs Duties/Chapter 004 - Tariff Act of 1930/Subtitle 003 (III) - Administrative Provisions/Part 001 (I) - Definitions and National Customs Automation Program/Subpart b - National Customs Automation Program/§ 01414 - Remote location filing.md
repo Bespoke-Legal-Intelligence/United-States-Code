@@ -50,7 +50,7 @@
 
 #### (2) Requirements
 
-&emsp;The Secretary shall publish, and periodically update, a list of those capabilities within theexisting and planned components of the Program that a Program participant must have for purposes of this subsection.
+&emsp;The Secretary shall publish, and periodically update, a list of those capabilities within the existing and planned components of the Program that a Program participant must have for purposes of this subsection.
 
 #### (3) Filing of additional information
 

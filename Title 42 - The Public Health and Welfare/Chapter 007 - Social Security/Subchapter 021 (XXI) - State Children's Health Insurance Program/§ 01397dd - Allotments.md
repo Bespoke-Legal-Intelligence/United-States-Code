@@ -40,9 +40,9 @@ For the purpose of providing allotments to States under this section, there is a
 
 &emsp;&emsp;The number of children described in this paragraph for a State for—
 
-&emsp;&emsp;&emsp;(i) each of fiscal years 1998 through 2000 is equal to the number of low-income children in the State with no health insurance coverage for the fiscal year;
+&emsp;&emsp;&emsp;(i) each of fiscal years 1998 and 1999 is equal to the number of low-income children in the State with no health insurance coverage for the fiscal year;
 
-&emsp;&emsp;&emsp;(ii) fiscal year 2001 is equal to—
+&emsp;&emsp;&emsp;(ii) fiscal year 2000 is equal to—
 
 &emsp;&emsp;&emsp;&emsp;(I) 75 percent of the number of low-income children in the State for the fiscal year with no health insurance coverage, plus
 
@@ -56,7 +56,7 @@ For the purpose of providing allotments to States under this section, there is a
 
 #### (B) Determination of number of children
 
-&emsp;&emsp;For purposes of subparagraph (A), a determination of the number of low-income children (and of such children who have no health insurance coverage) for a State for a fiscal year shall be made on the basis of the arithmetic average of the number of such children, as reported and defined in the 3 most recent March supplements to the Current Population Survey of the Bureau of the Census before the beginning of the fiscal year.
+&emsp;&emsp;For purposes of subparagraph (A), a determination of the number of low-income children (and of such children who have no health insurance coverage) for a State for a fiscal year shall be made on the basis of the arithmetic average of the number of such children, as reported and defined in the 3 most recent March supplements to the Current Population Survey of the Bureau of the Census before the beginning of the calendar year in which such fiscal year begins.
 
 #### (3) Adjustment for geographic variations in health costs
 
@@ -74,17 +74,61 @@ For the purpose of providing allotments to States under this section, there is a
 
 #### (B) Annual average wages per employee
 
-&emsp;&emsp;For purposes of subparagraph (A), the “annual average wages per employee” for a State, or for all the States.<sup>1</sup> for a fiscal year is equal to the average of the annual wages per employee for the State or for the 50 States and the District of Columbia for employees in the health services industry (SIC code 8000), as reported by the Bureau of Labor Statistics of the Department of Labor for each of the most recent 3 years before the beginning of the fiscal year involved.
+&emsp;&emsp;For purposes of subparagraph (A), the “annual average wages per employee” for a State, or for all the States, for a fiscal year is equal to the average of the annual wages per employee for the State or for the 50 States and the District of Columbia for employees in the health services industry (SIC code 8000), as reported by the Bureau of Labor Statistics of the Department of Labor for each of the most recent 3 years before the beginning of the calendar year in which such fiscal year begins.
 
-#### (4) Floor for States
+#### (4) Floors and ceilings in State allotments
 
-&emsp;In no case shall the amount of the allotment under this subsection for one of the 50 States or the District of Columbia for a year be less than $2,000,000. To the extent that the application of the previous sentence results in an increase in the allotment to a State above the amount otherwise provided, the allotments for the other States and the District of Columbia under this subsection shall be reduced in a pro rata manner (but not below $2,000,000) so that the total of such allotments in a fiscal year does not exceed the amount otherwise provided for allotment under paragraph (1) for that fiscal year.
+#### (A) In general
+
+&emsp;&emsp;The proportion of the allotment under this subsection for a subsection (b) State (as defined in subparagraph (D)) for fiscal year 2000 and each fiscal year thereafter shall be subject to the following floors and ceilings:
+
+#### (i) Floor of $2,000,000
+
+&emsp;&emsp;&emsp;A floor equal to $2,000,000 divided by the total of the amount available under this subsection for all such allotments for the fiscal year.
+
+#### (ii) Annual floor of 10 percent below preceding fiscal year's proportion
+
+&emsp;&emsp;&emsp;A floor of 90 percent of the proportion for the State for the preceding fiscal year.
+
+#### (iii) Cumulative floor of 30 percent below the FY 1999 proportion
+
+&emsp;&emsp;&emsp;A floor of 70 percent of the proportion for the State for fiscal year 1999.
+
+#### (iv) Cumulative ceiling of 45 percent above FY 1999 proportion
+
+&emsp;&emsp;&emsp;A ceiling of 145 percent of the proportion for the State for fiscal year 1999.
+
+#### (B) Reconciliation
+
+#### (i) Elimination of any deficit by establishing a percentage increase ceiling for States with highest annual percentage increases
+
+&emsp;&emsp;&emsp;To the extent that the application of subparagraph (A) would result in the sum of the proportions of the allotments for all subsection (b) States exceeding 1.0, the Secretary shall establish a maximum percentage increase in such proportions for all subsection (b) States for the fiscal year in a manner so that such sum equals 1.0.
+
+#### (ii) Allocation of surplus through pro rata increase
+
+&emsp;&emsp;&emsp;To the extent that the application of subparagraph (A) would result in the sum of the proportions of the allotments for all subsection (b) States being less than 1.0, the proportions of such allotments (as computed before the application of floors under clauses (i), (ii), and (iii) of subparagraph (A)) for all subsection (b) States shall be increased in a pro rata manner (but not to exceed the ceiling established under subparagraph (A)(iv)) so that (after the application of such floors and ceiling) such sum equals 1.0.
+
+#### (C) Construction
+
+&emsp;&emsp;This paragraph shall not be construed as applying to (or taking into account) amounts of allotments redistributed under subsection (f) of this section.
+
+#### (D) Definitions
+
+&emsp;&emsp;In this paragraph:
+
+#### (i) Proportion of allotment
+
+&emsp;&emsp;&emsp;The term “proportion” means, with respect to the allotment of a subsection (b) State for a fiscal year, the amount of the allotment of such State under this subsection for the fiscal year divided by the total of the amount available under this subsection for all such allotments for the fiscal year.
+
+#### (ii) Subsection (b) State
+
+&emsp;&emsp;&emsp;The term “subsection (b) State” means one of the 50 States or the District of Columbia.
 
 #### (c) Allotments to territories
 
 #### (1) In general
 
-&emsp;Of the amount available for allotment under subsection (a) of this section for a fiscal year, subject to subsection (d) of this section, the Secretary shall allot 0.25 percent among each of the commonwealths and territories described in paragraph (3) in the same proportion as the percentage specified in paragraph (2) for such commonwealth or territory bears to the sum of such percentages for all such commonwealths or territories so described.
+&emsp;Of the amount available for allotment under subsection (a) of this section for a fiscal year,subject to subsection (d) of this section, the Secretary shall allot 0.25 percent among each of the commonwealths and territories described in paragraph (3) in the same proportion as the percentage specified in paragraph (2) for such commonwealth or territory bears to the sum of such percentages for all such commonwealths or territories so described.
 
 #### (2) Percentage
 
@@ -102,7 +146,7 @@ For the purpose of providing allotments to States under this section, there is a
 
 #### (3) Commonwealths and territories
 
-&emsp;A commonwealth or territory described in this paragraph is any of the following if it hasa State child health plan approved under this subchapter:
+&emsp;A commonwealth or territory described in this paragraph is any of the following if it has a State child health plan approved under this subchapter:
 
 &emsp;&emsp;(A) Puerto Rico.
 
@@ -122,7 +166,7 @@ For the purpose of providing allotments to States under this section, there is a
 
 #### (B) Appropriations
 
-&emsp;&emsp;For purposes of providing allotments pursuant to subparagraph (A), there is appropriated, out of any money in the Treasury not otherwise appropriated $32,000,000 for fiscal year 1999.
+&emsp;&emsp;For purposes of providing allotments pursuant to subparagraph (A), there is appropriated, out of any money in the Treasury not otherwise appropriated $32,000,000 for fiscal year 1999, $34,200,000 for each of fiscal years 2000 and 2001, $25,200,000 for each of fiscal years 2002 through 2004, $32,400,000 for each of fiscal years 2005 and 2006, and $40,000,000 for fiscal year 2007.
 
 #### (d) Certain medicaid expenditures counted against individual State allotments
 
@@ -140,9 +184,23 @@ Amounts allotted to a State pursuant to this section for a fiscal year shall rem
 
 The Secretary shall determine an appropriate procedure for redistribution of allotments from States that were provided allotments under this section for a fiscal year but that do not expend all of the amount of such allotments during the period in which such allotments are available for expenditure under subsection (e) of this section, to States that have fully expended the amount of their allotments under this section.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) \[title VII, §706\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389.)
+(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) \[title VII, §706\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §§701(a), 702, 705(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402.)
 
 #### Amendments
+
+1999—Subsec. (b)(2)(A)(i). Pub. L. 106–113, §1000(a)(6) \[title VII, §701(a)(1)(A)\], substituted “and 1999” for “through 2000”.
+
+Subsec. (b)(2)(A)(ii). Pub. L. 106–113, §1000(a)(6) \[title VII, §701(a)(1)(B)\], substituted “2000” for “2001” in introductory provisions.
+
+Subsec. (b)(2)(B). Pub. L. 106–113, §1000(a)(6) \[title VII, §701(a)(3)\], substituted “the calendar year in which such fiscal year begins” for “the fiscal year”.
+
+Subsec. (b)(3)(B). Pub. L. 106–113, §1000(a)(6) \[title VII, §705(a)\], substituted “all the States,” for “all the States.”
+
+Pub. L. 106–113, §1000(a)(6) \[title VII, §701(a)(4)\], substituted “the calendar year in which such fiscal year begins” for “the fiscal year involved”.
+
+Subsec. (b)(4). Pub. L. 106–113, §1000(a)(6) \[title VII, §701(a)(2)\], amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “In no case shall the amount of the allotment under this subsection for one of the 50 States or the District of Columbia for a year be less than $2,000,000. To the extent that the application of the previous sentence results in an increase in the allotment to a State above the amount otherwise provided, the allotments for the other States and the District of Columbia under this subsection shall be reduced in a pro rata manner (but not below $2,000,000) so that the total of such allotments in a fiscal year does not exceed the amount otherwise provided for allotment under paragraph (1) for that fiscal year.”
+
+Subsec. (c)(4)(B). Pub. L. 106–113, §1000(a)(6) \[title VII, §702\], inserted before period at end “, $34,200,000 for each of fiscal years 2000 and 2001, $25,200,000 for each of fiscal years 2002 through 2004, $32,400,000 for each of fiscal years 2005 and 2006, and $40,000,000 for fiscal year 2007”.
 
 1998—Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VII, §706(b)\], inserted “(determined without regard to paragraph (4) thereof)” after “subsection (c) of this section”.
 
@@ -160,6 +218,10 @@ Subsec. (d)(1). Pub. L. 105–100, §162(6)(A), substituted “for expenditures 
 
 Subsec. (d)(2). Pub. L. 105–100, §162(6)(B), added par. (2) and struck out former par. (2) which read as follows: “the amount of payments under such section during such period that is attributable to the provision of medical assistance to a child for which payment is made under section 1396b(a)(1) of this title on the basis of an enhanced FMAP under section 1396d(b) of this title.”
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §701(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–400, provided that: “The amendments made by this section \[amending this section\] apply to allotments determined under title XXI of the Social Security Act (42 U.S.C. 1397aa et seq.) for fiscal year 2000 and each fiscal year thereafter.”
+
 #### Effective Date of 1997 Amendment
 
 Section 162 of Pub. L. 105–100 provided that the amendment made by that section is effective as if included in the enactment of subtitle J (§§4901–4923) of title IV of the Balanced Budget Act of 1997, Pub. L. 105–33.
@@ -175,6 +237,4 @@ Pub. L. 105–277, div. A, §101(f) \[title VII, §707\], Oct. 21, 1998, 112 Sta
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 254c–2, 254c–3, 1396d, 1397aa, 1397ee of this title.
-
-<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

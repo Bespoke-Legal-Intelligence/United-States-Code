@@ -24,7 +24,7 @@ As used in this subchapter:
 
 &emsp;(4) The term “highest home energy needs” means the home energy requirements of a household determined by taking into account both the energy burden of such household and the unique situation of such household that results from having members of vulnerable populations, including very young children, individuals with disabilities, and frail older individuals.
 
-&emsp;(5) The term “household” means any individual or group of individuals who are livingtogether as one economic unit for whom residential energy is customarily purchased in common or who make undesignated payments for energy in the form of rent.
+&emsp;(5) The term “household” means any individual or group of individuals who are living together as one economic unit for whom residential energy is customarily purchased in common or who make undesignated payments for energy in the form of rent.
 
 &emsp;(6) The term “home energy” means a source of heating or cooling in residential dwellings.
 

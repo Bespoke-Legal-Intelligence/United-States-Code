@@ -27,6 +27,7 @@
 | [605\.](%C2%A7%2000605%20-%20Sale%20or%20lease%20of%20property%2C%20supplies%2C%20or%20services.md) | Sale or lease of property, supplies, or services. |
 | [606\.](%C2%A7%2000606%20-%20Disposition%20of%20surplus%20or%20obsolete%20property.md) | Disposition of surplus or obsolete property. |
 | [607\.](%C2%A7%2000607%20-%20Lump-sum%20payments%20for%20annual%20leave%20to%20separated%20employees.md) | Lump-sum payments for annual leave to separated employees. |
+| [608\.](%C2%A7%2000608%20-%20Lump-sum%20payments%20to%20enhance%20staff%20recruitment%20and%20to%20reward%20exceptional%20performance.md) | Lump-sum payments to enhance staff recruitment and to reward exceptional performance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -46,3 +47,4 @@ This chapter is referred to in section 622 of this title.
 - [&sect; 00605 - Sale or lease of property, supplies, or services](%C2%A7%2000605%20-%20Sale%20or%20lease%20of%20property%2C%20supplies%2C%20or%20services.md)
 - [&sect; 00606 - Disposition of surplus or obsolete property](%C2%A7%2000606%20-%20Disposition%20of%20surplus%20or%20obsolete%20property.md)
 - [&sect; 00607 - Lump-sum payments for annual leave to separated employees](%C2%A7%2000607%20-%20Lump-sum%20payments%20for%20annual%20leave%20to%20separated%20employees.md)
+- [&sect; 00608 - Lump-sum payments to enhance staff recruitment and to reward exceptional performance](%C2%A7%2000608%20-%20Lump-sum%20payments%20to%20enhance%20staff%20recruitment%20and%20to%20reward%20exceptional%20performance.md)

@@ -1,6 +1,6 @@
 ### §1645. Qualifying quarters
 
-For purposes of this chapter, in determining the number of qualifying quarters of coverage under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] an alien shall be credited with—
+For purposes of this chapter, in determining the number of qualifying quarters of coverage under title II of the Social Security Act \[42U.S.C. 401 et seq.\] an alien shall be credited with—
 
 &emsp;(1) all of the qualifying quarters of coverage as defined under title II of the Social Security Act worked by a parent of such alien before the date on which the alien attains age 18, and
 

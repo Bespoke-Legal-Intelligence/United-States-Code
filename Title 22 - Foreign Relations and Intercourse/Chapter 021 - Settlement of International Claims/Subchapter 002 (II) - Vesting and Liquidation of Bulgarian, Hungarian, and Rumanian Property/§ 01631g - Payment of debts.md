@@ -54,7 +54,7 @@ The sole relief and remedy available to any person seeking satisfaction of a deb
 
 #### Codification
 
-In subsec. (g), “sections 3713(a) and 9309 of title 31” substituted for “sections 3466 and 3468 of the Revised Statutes (31 U.S.C., secs. 191 and 193)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (g), “sections 3713(a) and 9309 of title 31” substituted for “sections 3466 and 3468 of the RevisedStatutes (31 U.S.C., secs. 191 and 193)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Federal Rules of Civil Procedure
 

@@ -56,7 +56,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 &emsp;&emsp;(A) designing statistically valid coastal water quality monitoring networks and monitoring surveys, including assessment of the accumulation of floatables.<sup>2</sup>
 
-&emsp;&emsp;(B) sampling and analysis, including appropriate physical and chemical parameters, living resource parameters, and sediment analysis techniques; and
+&emsp;&emsp;(B) sampling and analysis, including appropriate physical and chemical parameters,living resource parameters, and sediment analysis techniques; and
 
 &emsp;&emsp;(C) quality control, quality assessment, and data consistency and management.
 
@@ -66,7 +66,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 #### (4) Discharge permit data
 
-&emsp;The Administrator or a State permitting authority shall ensure that compliance monitoring conducted pursuant to section 402(a)(2) of the Federal Water Pollution Control Act (33 U.S.C. 1342(a)(2)) for permits for discharges tocoastal waters is consistent with the guidelines issued under this subsection. Any modifications of discharge permits necessary to implement this subsection shall be deemed to be minor modifications of such permit. Nothing in this subsection requires dischargers to conduct monitoring other than compliance monitoring pursuant to permits under section 402(a)(2) of the Federal Water Pollution Control Act (33 U.S.C. 1342(a)(2)).
+&emsp;The Administrator or a State permitting authority shall ensure that compliance monitoring conducted pursuant to section 402(a)(2) of the Federal Water Pollution Control Act (33 U.S.C. 1342(a)(2)) for permits for discharges to coastal waters is consistent with the guidelines issued under this subsection. Any modifications of discharge permits necessary to implement this subsection shall be deemed to be minor modifications of such permit. Nothing in this subsection requires dischargers to conduct monitoring other than compliance monitoring pursuant to permits under section 402(a)(2) of the Federal Water Pollution Control Act (33 U.S.C. 1342(a)(2)).
 
 #### (d) Intensive coastal water quality monitoring programs
 

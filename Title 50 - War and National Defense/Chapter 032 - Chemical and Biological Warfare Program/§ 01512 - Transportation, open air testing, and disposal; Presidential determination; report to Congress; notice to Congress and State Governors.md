@@ -26,7 +26,7 @@ This Act, referred to in provision preceding par. (1), means Pub. L. 91–121, N
 
 #### Chemical Munitions Transportation From Okinawa to the United States
 
-Pub. L. 91–672, §13, Jan. 12, 1971, 84 Stat. 2055, provided that: “No funds authorized or appropriated pursuant to this or any other law may be used to transport chemical munitions from the Island of Okinawa to the United States. Such funds as are necessary for the detoxification or destruction of the above described chemical munitions are hereby authorized and shall be used for thedetoxification or destruction of chemical munitions only outside the United States. For purposes of this section, the term ‘United States’ means the several States and the District of Columbia.”
+Pub. L. 91–672, §13, Jan. 12, 1971, 84 Stat. 2055, provided that: “No funds authorized or appropriated pursuant to this or any other law may be used to transport chemical munitions from the Island of Okinawa to the United States. Such funds as are necessary for the detoxification or destruction of the above described chemical munitions are hereby authorized and shall be used for the detoxification or destruction of chemical munitions only outside the United States. For purposes of this section, the term ‘United States’ means the several States and the District of Columbia.”
 
 #### Ex Ord. No. 11850. Renunciation of Certain Uses in War of Chemical Herbicides and Riot Control Agents
 

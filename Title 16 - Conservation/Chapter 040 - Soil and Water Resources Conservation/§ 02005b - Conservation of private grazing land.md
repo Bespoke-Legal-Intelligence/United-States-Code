@@ -14,7 +14,7 @@ Congress finds that—
 
 &emsp;(5) private grazing land can provide opportunities for improved nutrient management from land application of animal manures and other by-product nutrient resources;
 
-&emsp;(6) owners and managers of private grazing land need to continue to recognize conservation problems when the problems arise and receive sound technical assistance to improve orconserve grazing land resources to meet ecological and economic demands;
+&emsp;(6) owners and managers of private grazing land need to continue to recognize conservation problems when the problems arise and receive sound technical assistance to improve or conserve grazing land resources to meet ecological and economic demands;
 
 &emsp;(7) new science and technology must continually be made available in a practical manner so owners and managers of private grazing land may make informed decisions concerning vital grazing land resources;
 
@@ -108,7 +108,7 @@ In this section:
 
 &emsp;&emsp;(A) there is a severe lack of technical assistance for farmers and ranchers who graze livestock;
 
-&emsp;&emsp;(B) Federal budgetary constraints preclude any significant expansion, and may force areduction of, current levels of technical support; and
+&emsp;&emsp;(B) Federal budgetary constraints preclude any significant expansion, and may force a reduction of, current levels of technical support; and
 
 &emsp;&emsp;(C) farmers and ranchers have a history of cooperatively working together to address common needs in the promotion of their products and in the drainage of wet areas through drainage districts.
 
@@ -162,7 +162,7 @@ There are authorized to be appropriated to carry out this section—
 
 #### References in Text
 
-The Agricultural Adjustment Act, reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, referred to in subsec. (e)(3)(E), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 7 and Tables.
+The Agricultural Adjustment Act, reenacted with amendments by the Agricultural Marketing AgreementAct of 1937, referred to in subsec. (e)(3)(E), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 7 and Tables.
 
 #### Codification
 

@@ -124,6 +124,10 @@ Subsec. (b)(3)(B). Pub. L. 100–204, §307(b), amended subpar. (B) generally. P
 
 Section 307(c) of Pub. L. 100–204 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to members of the Cultural Property Advisory Committee first appointed after the date of enactment of this Act \[Dec. 22, 1987\].”
 
+#### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22, Foreign Relations and Intercourse.
+
 #### Delegation of Functions
 
 For delegation of certain functions of President under this section, see Ex. Ord. No. 12555, Mar. 10, 1986, 51 F.R. 8475, set out as a note under section 2602 of this title.

@@ -54,7 +54,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall carry out an ongoing evaluation of the program assisted under part A of this subchapter in order to provide the public, the Congress, and educators involved in such program, an accurate description of the short- and long-term effectiveness of such program and to provide information that can be used to improve such program's effectiveness in enabling students to meet challenging State content standards and challenging State student performance standards, graduate from secondary school, and make successful transitions to postsecondary education and work. Such evaluation shall—
+&emsp;The Secretary shall carry out an ongoing evaluation of the program assisted under part A of this subchapter in order to provide the public, the Congress, and educators involved in such program, an accurate description of the short- and long-term effectiveness of such program and to provide information that can be used to improve such program's effectiveness in enabling students to meet challenging State content standards and challenging State student performance standards, graduate fromsecondary school, and make successful transitions to postsecondary education and work. Such evaluation shall—
 
 &emsp;&emsp;(A) have a longitudinal design that tracks cohorts of students within schools of differing poverty concentrations for at least three years which, when the cohorts are taken as a whole, provides a picture of such program's effectiveness over the elementary and secondary grades;
 

@@ -6,7 +6,7 @@ Except as provided in this section, if a health insurance issuer offers health i
 
 #### (b) General exceptions
 
-A health insurance issuer may nonrenew or discontinue health insurance coverage offered inconnection with a group health plan in the small or large group market based only on one or more of the following:
+A health insurance issuer may nonrenew or discontinue health insurance coverage offered in connection with a group health plan in the small or large group market based only on one or more of the following:
 
 #### (1) Nonpayment of premiums
 

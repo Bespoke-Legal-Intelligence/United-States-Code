@@ -24,7 +24,7 @@ Before revoking or suspending a license pursuant to subsection (a) of this secti
 
 #### (d) Subpena of person, and books, papers and documents; fees and mileage; enforcement
 
-The Administration may require by subpena the attendance and testimony of witnesses and the production of all books, papers, and documents relating to the hearing from any place in the United States. Witnesses summoned before the Administration shall be paid by the party at whose instance they were called the same fees and mileage that are paid witnesses in the courts of the United States. In case of disobedience to a subpena, the Administration, or any party to a proceeding before the Administration, may invoke the aid of any court of the United States in requiring the attendance and testimony of witnesses and the production of books, papers, and documents.
+The Administration may require by subpena the attendance and testimony of witnesses and the production of all books, papers, and documents relating to the hearing from any place in the United States. Witnesses summoned before the Administration shall be paid by the party at whose instance they were called the same fees and mileage that are paid witnesses in thecourts of the United States. In case of disobedience to a subpena, the Administration, or any party to a proceeding before the Administration, may invoke the aid of any court of the United States in requiring the attendance and testimony of witnesses and the production of books, papers, and documents.
 
 #### (e) Petition to modify or set aside order; filing, time and place, Administration to submit record; action of court; review
 
@@ -32,7 +32,7 @@ An order issued by the Administration under this section shall be final and conc
 
 #### (f) Enforcement of order
 
-If any licensee or other person against which or against whom an order is issued under this section fails to obey the order, the Administration may apply to the United States court of appeals, within the circuit where the licensee has its principal place of business, for the enforcement of the order, and shall file a transcript of the record upon which the order complained of was entered. Upon the filing of the application the court shall cause notice thereof to be served on the licensee or other person. The evidence to be considered, the procedure to be followed, andthe jurisdiction of the court shall be the same as is provided in subsection (e) of this section for applications to set aside or modify orders.
+If any licensee or other person against which or against whom an order is issued under this section fails to obey the order, the Administration may apply to the United States court of appeals, within the circuit where the licensee has its principal place of business, for the enforcement of the order, and shall file a transcript of the record upon which the order complained of was entered. Upon the filing of the application the court shall cause notice thereof to be served on the licensee or other person. The evidence to be considered, the procedure to be followed, and the jurisdiction of the court shall be the same as is provided in subsection (e) of this section for applications to set aside or modify orders.
 
 (Pub. L. 85–699, title III, §309, as added Pub. L. 87–341, §9, Oct. 3, 1961, 75 Stat. 753; amended Pub. L. 89–779, §4, Nov. 6, 1966, 80 Stat. 1359; Pub. L. 98–620, title IV, §402(15)(A), (B), Nov. 8, 1984, 98 Stat. 3358.)
 

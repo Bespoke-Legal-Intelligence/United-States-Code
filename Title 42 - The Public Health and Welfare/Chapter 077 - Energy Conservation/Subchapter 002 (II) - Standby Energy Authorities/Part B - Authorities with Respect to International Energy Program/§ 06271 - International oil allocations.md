@@ -24,7 +24,7 @@ The President may, by rule, require that persons engaged in producing, transport
 
 #### (d) Nonapplicability of export restrictions under other laws
 
-Neither section 6212 of this title nor section 185(u) of title 30 shall preclude the allocation and export, to other countries in accordance with this section, of petroleum products produced in the United States.
+Neither section 6212 of this title nor section 185(u) of title 30 shall preclude the allocationand export, to other countries in accordance with this section, of petroleum products produced in the United States.
 
 #### (e) Prerequisites for effectiveness of rule
 

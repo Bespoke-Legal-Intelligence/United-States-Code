@@ -10,11 +10,15 @@ Nothing contained in this chapter shall be construed to limit or impair the auth
 
 #### (c) Certain lease arrangements
 
-The Administrator of General Services is authorized to lease (to such extent or in such amounts as are provided in appropriation Acts) such amount of space in the United States as may be necessary for the Department of State to accommodate the personnel required to carry out this subchapter. The Department of State shall pay for such space at the rate established by the Administrator of General Services for space and related services.
+The Administrator of General Services is authorized to lease (to such extent or in such amounts as are provided in appropriation Acts) such amount of space in the United States asmay be necessary for the Department of State to accommodate the personnel required to carry out this subchapter. The Department of State shall pay for such space at the rate established by the Administrator of General Services for space and related services.
 
 (Pub. L. 99–399, title I, §106, Aug. 27, 1986, 100 Stat. 857.)
 
 #### References in Text
 
 Executive Order 12333, referred to in subsec. (b), is Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, which is set out as a note under section 401 of Title 50, War and National Defense.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4831 of this title.
 

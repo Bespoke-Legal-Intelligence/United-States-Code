@@ -38,7 +38,7 @@ A prior section 1135a–3, Pub. L. 89–329, title X, §1005, as added Pub. L. 9
 
 Another prior section 1135a–3 and prior sections 1135a–4 to 1135a–7 were repealed by Pub. L. 96–374, title X, §1001(a), Oct. 3, 1980, 94 Stat. 1489, eff. Oct. 1, 1980.
 
-Section 1135a–3, Pub. L. 89–329, title X, §1014, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat.314; amended Pub. L. 94–482, title I, §177, Oct. 12, 1976, 90 Stat. 2165, related to expansion grants.
+Section 1135a–3, Pub. L. 89–329, title X, §1014, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 314; amended Pub. L. 94–482, title I, §177, Oct. 12, 1976, 90 Stat. 2165, related to expansion grants.
 
 Section 1135a–4, Pub. L. 89–329, title X, §1015, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 314, related to leasing of facilities.
 

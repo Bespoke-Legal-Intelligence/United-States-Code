@@ -2,7 +2,7 @@
 
 #### (a) Beer returned or voluntarily destroyed
 
-Any tax paid by any brewer on beer removed for consumption or sale may be refunded or credited to the brewer, without interest, or if the tax has not been paid, the brewer may be relieved of liability therefor, under such regulations as the Secretary may prescribe, if such beer is returned to any brewery of the brewer or is destroyed under the supervision required by such regulations. In determining the amount of tax due on beer removed on any day, the quantity of beer returned to the same brewery from which removed shall be allowed, under such regulations as the Secretary may prescribe, as an offset against or deduction from the total quantity of beer removed from that brewery on the day of such return.
+Any tax paid by any brewer on beer removed for consumption or sale may be refunded or credited to the brewer, without interest, or if the tax has not been paid, the brewer may be relieved of liability therefor, under such regulations as the Secretary may prescribe, if such beer is returned to any brewery of the brewer or is destroyed under the supervision required by such regulations. In determining the amount of tax due on beer removed on any day, the quantity of beer returned to the same brewery fromwhich removed shall be allowed, under such regulations as the Secretary may prescribe, as an offset against or deduction from the total quantity of beer removed from that brewery on the day of such return.
 
 #### (b) Beer lost by fire, theft, casualty, or act of God
 
@@ -46,7 +46,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective on the 1st day of the 1st calendar quarter that begins at least 180 daysafter Aug. 5, 1997, see section 1414(d) of Pub. L. 105–34, set out as a note under section 5053 of this title.
+Amendment by Pub. L. 105–34 effective on the 1st day of the 1st calendar quarter that begins at least 180 days after Aug. 5, 1997, see section 1414(d) of Pub. L. 105–34, set out as a note under section 5053 of this title.
 
 #### Effective Date of 1971 Amendment
 

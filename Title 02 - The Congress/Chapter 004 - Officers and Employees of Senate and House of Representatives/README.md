@@ -259,6 +259,11 @@
 | (c) | Allocation. |
 | (d) | Authorization of appropriations. |
 | 74a–9. | Appointment of consultants by Speaker, Majority Leader, and Minority Leader of House; compensation. |
+| 74a–10. | Lump sum allowances for House Minority Leader and Majority Whip. |
+| 74a–11. | Transfer of appropriations by House Leadership Offices. |
+| (a) | In general. |
+| (b) | Official expenses. |
+| (c) | Applicability. |
 | [74b.](%C2%A7%2000074b%20-%20Employment%20of%20additional%20administrative%20assistants.md) | Employment of additional administrative assistants. |
 | [74c.](%C2%A7%2000074c%20-%20Compensation%20of%20certain%20House%20minority%20employees.md) | Compensation of certain House minority employees. |
 | [74d.](%C2%A7%2000074d%20-%20Corrections%20Calendar%20Office.md) | Corrections Calendar Office. |
@@ -310,7 +315,7 @@
 | [89\.](%C2%A7%2000089%20-%20Certificates%20to%20pay%20rolls%20of%20employees%20of%20House.md) | Certificates to pay rolls of employees of House. |
 | [89a.](%C2%A7%2000089a%20-%20Certification%20of%20indebtedness%20of%20employees%20of%20House%3B%20withholding%20of%20amount.md) | Certification of indebtedness of employees of House; withholding of amount. |
 | 90, 91. | Repealed. |
-| [92\.](%C2%A7%2000092%20-%20Clerk%20hire%20employees%20of%20Members%20of%20House%20of%20Representatives.md) | Clerk hire employees of Members of House of Representatives. |
+| [92\.](%C2%A7%2000092%20-%20Employees%20of%20Members%20of%20House%20of%20Representatives.md) | Employees of Members of House of Representatives. |
 | (a) | In general. |
 | (b) | Benefit exclusion. |
 | (c) | Definitions. |
@@ -507,6 +512,11 @@
 | (f) | Construction with other laws. |
 | (g) | Rules and regulations. |
 | [130e.](%C2%A7%2000130e%20-%20Special%20Services%20Office.md) | Special Services Office. |
+| [130f.](%C2%A7%2000130f%20-%20Office%20of%20General%20Counsel%20of%20House%3B%20administrative%20provisions.md) | Office of General Counsel of House; administrative provisions. |
+| (a) | Compliance with admission requirements. |
+| (b) | Notification by Attorney General. |
+| (c) | General Counsel definition. |
+| (d) | Effective date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -683,6 +693,8 @@
 - [&sect; 00074a&#8211;7 - Speaker's Office for Legislative Floor Activities](%C2%A7%2000074a%E2%80%937%20-%20Speaker%27s%20Office%20for%20Legislative%20Floor%20Activities.md)
 - [&sect; 00074a&#8211;8 - Training and program development activities of Republican Conference and Democratic Steering and Policy Committee](%C2%A7%2000074a%E2%80%938%20-%20Training%20and%20program%20development%20activities%20of%20Republican%20Conference%20and%20Democratic%20Steering%20and%20Policy%20Committee.md)
 - [&sect; 00074a&#8211;9 - Appointment of consultants by Speaker, Majority Leader, and Minority Leader of House; compensation](%C2%A7%2000074a%E2%80%939%20-%20Appointment%20of%20consultants%20by%20Speaker%2C%20Majority%20Leader%2C%20and%20Minority%20Leader%20of%20House%3B%20compensation.md)
+- [&sect; 00074a&#8211;10 - Lump sum allowances for House Minority Leader and Majority Whip](%C2%A7%2000074a%E2%80%9310%20-%20Lump%20sum%20allowances%20for%20House%20Minority%20Leader%20and%20Majority%20Whip.md)
+- [&sect; 00074a&#8211;11 - Transfer of appropriations by House Leadership Offices](%C2%A7%2000074a%E2%80%9311%20-%20Transfer%20of%20appropriations%20by%20House%20Leadership%20Offices.md)
 - [&sect; 00074b - Employment of additional administrative assistants](%C2%A7%2000074b%20-%20Employment%20of%20additional%20administrative%20assistants.md)
 - [&sect; 00074c - Compensation of certain House minority employees](%C2%A7%2000074c%20-%20Compensation%20of%20certain%20House%20minority%20employees.md)
 - [&sect; 00074d - Corrections Calendar Office](%C2%A7%2000074d%20-%20Corrections%20Calendar%20Office.md)
@@ -728,7 +740,7 @@
 - [&sect; 00089 - Certificates to pay rolls of employees of House](%C2%A7%2000089%20-%20Certificates%20to%20pay%20rolls%20of%20employees%20of%20House.md)
 - [&sect; 00089a - Certification of indebtedness of employees of House; withholding of amount](%C2%A7%2000089a%20-%20Certification%20of%20indebtedness%20of%20employees%20of%20House%3B%20withholding%20of%20amount.md)
 - [&sect; 00090, 91 - Repealed. Pub. L. 104&#8211;186, title II, &sect;204(33), Aug. 20, 1996, 110 Stat. 1734](%C2%A7%2000090%2C%2091%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7204%2833%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201734.md)
-- [&sect; 00092 - Clerk hire employees of Members of House of Representatives](%C2%A7%2000092%20-%20Clerk%20hire%20employees%20of%20Members%20of%20House%20of%20Representatives.md)
+- [&sect; 00092 - Employees of Members of House of Representatives](%C2%A7%2000092%20-%20Employees%20of%20Members%20of%20House%20of%20Representatives.md)
 - [&sect; 00092&#8211;1 - Repealed. Pub. L. 104&#8211;186, title II, &sect;204(43), Aug. 20, 1996, 110 Stat. 1736](%C2%A7%2000092%E2%80%931%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7204%2843%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201736.md)
 - [&sect; 00092a - Pay of clerical assistants as affected by death of Senator or Representative](%C2%A7%2000092a%20-%20Pay%20of%20clerical%20assistants%20as%20affected%20by%20death%20of%20Senator%20or%20Representative.md)
 - [&sect; 00092b - Pay of clerical assistants as affected by death or resignation of Member of House](%C2%A7%2000092b%20-%20Pay%20of%20clerical%20assistants%20as%20affected%20by%20death%20or%20resignation%20of%20Member%20of%20House.md)
@@ -825,3 +837,4 @@
 - [&sect; 00130c - Waiver by Secretary of Senate of claims of United States arising out of erroneous payments to Vice President, Senator, or Senate employee&#8230;](%C2%A7%2000130c%20-%20Waiver%20by%20Secretary%20of%20Senate%20of%20claims%20of%20United%20States%20arising%20out%20of%20erroneous%20payments%20to%20Vice%20President%2C%20Senator%2C%20or%20Senate%20employee%E2%80%A6.md)
 - [&sect; 00130d - Waiver by Speaker of House of claims of United States arising out of erroneous payments to officers or employees paid by Chief&#8230;](%C2%A7%2000130d%20-%20Waiver%20by%20Speaker%20of%20House%20of%20claims%20of%20United%20States%20arising%20out%20of%20erroneous%20payments%20to%20officers%20or%20employees%20paid%20by%20Chief%E2%80%A6.md)
 - [&sect; 00130e - Special Services Office](%C2%A7%2000130e%20-%20Special%20Services%20Office.md)
+- [&sect; 00130f - Office of General Counsel of House; administrative provisions](%C2%A7%2000130f%20-%20Office%20of%20General%20Counsel%20of%20House%3B%20administrative%20provisions.md)

@@ -30,7 +30,7 @@ The Secretary may, through grants to public and private, nonprofit agencies, pro
 
 #### (A) Allotments
 
-&emsp;&emsp;The Secretary shall use 40 percent of such excess to allot for grants under subsection (a) of this section to eligible agencies for statewide programs in each State an amount that bears the same ratio to 40 percent of such excess as the low-income and unemployed population of such State bears to the low-income and unemployed population of all the States.
+&emsp;&emsp;The Secretary shall use 40 percent of such excess to allot for grants under subsection\(a) of this section to eligible agencies for statewide programs in each State an amount that bears the same ratio to 40 percent of such excess as the low-income and unemployed population of such State bears to the low-income and unemployed population of all the States.
 
 #### (B) Competitive grants for local and statewide programs
 

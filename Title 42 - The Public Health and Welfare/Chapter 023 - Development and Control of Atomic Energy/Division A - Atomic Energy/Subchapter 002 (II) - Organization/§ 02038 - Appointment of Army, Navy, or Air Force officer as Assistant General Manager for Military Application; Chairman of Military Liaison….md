@@ -1,8 +1,12 @@
 ### §2038. Appointment of Army, Navy, or Air Force officer as Assistant General Manager for Military Application; Chairman of Military Liaison Committee; compensation
 
-Notwithstanding the provisions of any other law, the officer of the Army, Navy, or Air Force serving as Assistant General Manager for Military Application shall serve without prejudice to his commissioned status as such officer. Any such officer serving as Assistant General Manager for Military Application shall receive in addition to his pay and allowances, including special and incentive pays, for which pay and allowances the Commission shall reimburse his service, an amount equal to the difference between such pay and allowances, including special and incentive pays, and the compensation established for this position. Notwithstanding the provisions of any other law, any active or retired officer of the Army, Navy, or Air Force may serve as Chairman of the Military Liaison Committee without prejudice to his active or retired status as such officer. Any such active officer serving as Chairman of the Military Liaison Committee shall receive, in addition to his pay and allowances, including special and incentive pays, an amount equal to the difference between such pay and allowances, including special and incentive pays, and the compensation fixed for such Chairman. Any such retired officer serving as Chairman of the Military Liaison Committee shall receive the compensation fixed for such Chairman and his retired pay, subject to section 5532 of title 5.
+Notwithstanding the provisions of any other law, the officer of the Army, Navy, or Air Force serving as Assistant General Manager for Military Application shall serve without prejudice to his commissioned status as such officer. Any such officer serving as Assistant General Manager for Military Application shall receive in addition to his pay and allowances, including special and incentive pays, for which pay and allowances the Commission shall reimburse his service, an amount equal to the difference between such pay and allowances, including special and incentive pays, and the compensation established for this position. Notwithstanding the provisions of any other law, any active or retired officer of the Army, Navy, or Air Force may serve as Chairman of the Military Liaison Committee without prejudice to his active or retired status as such officer. Any such active officer serving as Chairman of the Military Liaison Committee shall receive, in addition to his pay and allowances, including special and incentive pays, an amount equal to the difference between such pay and allowances, including special and incentive pays, and the compensation fixed for such Chairman. Any such retired officer serving as Chairman of the Military Liaison Committee shall receive the compensation fixed for such Chairman and his retired pay, subject to section 5532 <sup>1</sup> of title 5.
 
 (Aug. 1, 1946, ch. 724, title I, §28, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 926; amended Pub. L. 88–426, title III, §306(f)(8), Aug. 14, 1964, 78 Stat. 430; Pub. L. 88–448, title IV, §401(f), Aug. 19, 1964, 78 Stat. 490; Pub. L. 90–190, §6, Dec. 14, 1967, 81 Stat. 577; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+
+#### References in Text
+
+Section 5532 of title 5, referred to in text, was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
 #### Codification
 
@@ -16,7 +20,7 @@ Provisions similar to this section were contained in section 1802(d) of this tit
 
 1967—Pub. L. 90–190 substituted “the officer of the Army, Navy, or Air Force serving” for “any active officer of the Army, Navy, or Air Force may serve” and “Assistant General Manager for Military Application” for “Director of the Division of Military Application” wherever appearing, provided for reimbursement by the Commission to the service of the Assistant General Manager for the pay and allowances received by him from his service while he is serving as Assistant General Manager, and struck out references to sections 2211 and 2213 of former title 5.
 
-1964—Pub. L. 88–448 substituted provisions permitting a retired officer serving as Chairman of the Military Liaison Committee to receive the compensation fixed for such Chairman and his retired pay, subject to section 3102 of former title 5, for provisions which permitted a retired officer serving as Chairman to receive in addition to his retired pay, an amount equal to the difference between his retired pay and the compensation prescribed for the Chairman.
+1964—Pub. L. 88–448 substituted provisions permitting a retired officer serving as Chairman of the Military Liaison Committee to receive the compensation fixed for such Chairman and his retired pay, subject to section 3102 of former title 5, for provisions which permitted a retired officer serving as Chairman to receivein addition to his retired pay, an amount equal to the difference between his retired pay and the compensation prescribed for the Chairman.
 
 Pub. L. 88–426 substituted “and the compensation established for this position pursuant to section 2211 or 2213 of title 5” for “and the compensation prescribed in section 2035 of this title”.
 
@@ -29,4 +33,6 @@ Amendment by Pub. L. 88–426 effective on first day of first pay period which b
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

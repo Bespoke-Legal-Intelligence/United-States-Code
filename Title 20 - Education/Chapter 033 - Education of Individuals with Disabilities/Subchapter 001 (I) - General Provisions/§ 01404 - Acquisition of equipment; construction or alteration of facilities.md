@@ -8,7 +8,7 @@ If the Secretary determines that a program authorized under this chapter would b
 
 Any construction of new facilities or alteration of existing facilities under subsection (a) of this section shall comply with the requirements of—
 
-&emsp;(1) appendix A of part 36 of title 28, Code of Federal Regulations (commonly known as the “Americans with Disabilities Accessibility Guidelines for Buildings and Facilities”); or
+&emsp;(1) appendix A of part 36 of title 28, Code of Federal Regulations (commonly known as the“Americans with Disabilities Accessibility Guidelines for Buildings and Facilities”); or
 
 &emsp;(2) appendix A of part 101–19.6 of title 41, Code of Federal Regulations (commonly known as the “Uniform Federal Accessibility Standards”).
 

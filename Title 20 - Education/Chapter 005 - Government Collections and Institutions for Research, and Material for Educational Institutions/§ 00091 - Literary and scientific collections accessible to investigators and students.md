@@ -6,7 +6,7 @@ One. Of the Library of Congress.
 
 Two. Of the National Museum.
 
-Three. Of the Patent and Trademark Office.
+Three. Of the United States Patent and Trademark Office.
 
 Four. Of the Department of Education.
 
@@ -30,23 +30,29 @@ Thirteen. Of the Zoological Park.
 
 Fourteen. Of the Government Printing Office.
 
-(Apr. 12, 1892, No. 8, 27 Stat. 395; Mar. 3, 1901, ch. 831, §1, 31 Stat. 1039; May 14, 1928, ch. 551, §1, 45 Stat. 531; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 8, 1956, ch. 1036, §3, 70 Stat. 1120; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 96–88, title III, §301(b)(2), title V, §507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
+(Apr. 12, 1892, No. 8, 27 Stat. 395; Mar. 3, 1901, ch. 831, §1, 31 Stat. 1039; May 14, 1928, ch. 551, §1, 45 Stat. 531; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 8, 1956, ch. 1036, §3, 70 Stat. 1120; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 96–88, title III, §301(b)(2), title V, §507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(10)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584.)
 
 #### Codification
 
 Section is from a resolution adopted Apr. 12, 1892, the Deficiencies Appropriation Act of Mar. 3, 1901, and the Legislative Appropriations Act of May 14, 1928, providing that facilities for study and research be afforded to investigators, students, etc., in the several States and Territories as well as in the District of Columbia.
 
+#### Amendments
+
+1999—Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “Patent Office” in par. Three.
+
 #### Change of Name
 
 “United States Geological Survey” substituted for “Geological Survey” in par. Eleven pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
 
-“Patent and Trademark Office” substituted in par. Three for “Patent Office” pursuant to section 3 of Pub. L. 93–596, set out as a note under section 1 of Title 35, Patents.
-
 Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Environmental Science Services Administration abolished in 1970 and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic and Atmospheric Administration, 35 F.R. 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. See notes set out under section 311 of Title 15, Commerce and Trade.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Transfer of Functions
 
-Functions of all other officers of Department of Commerce and functions of all agencies and employees of such Department, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees. Patents and Trademark Office, and National Ocean Survey, referred to in this section, are agencies within Department of Commerce.
+Functions of all other officers of Department of Commerce and functions of all agencies and employees of such Department, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees. United States Patents and Trademark Office, and National Ocean Survey, referred to in this section, are agencies within Department of Commerce.
 
 Functions of all other officers of Department of the Interior and functions of all agencies and employees of such Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5.
 

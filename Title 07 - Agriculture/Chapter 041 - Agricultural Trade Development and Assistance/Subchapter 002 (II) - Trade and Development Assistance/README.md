@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1731, 1734, 1736a, 1736e, 1736f, 1736g–3, 1736<i>o</i>, 1738c, 1743, 1766b, 5676 of this title; title 22 sections 2103, 6041; title 46 App. section 1241f.
+This subchapter is referred to in sections 1731, 1734, 1736a, 1736e, 1736f, 1736g–3, 1736<i>o</i>, 1738c, 1743, 1766b, 5676 of this title; title 22 sections 2103, 2431e, 6041; title 46 App. section 1241f.
 
 
 ---

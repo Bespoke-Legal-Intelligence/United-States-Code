@@ -44,5 +44,5 @@ Section effective Oct. 1, 1988, with the report required by this section with re
 
 #### Use of Court Orders To Place Juveniles in Secure Facilities, Jails and Lockups for Adults; Investigation and Report
 
-Section 7295 of Pub. L. 100–690 directed Comptroller General of the United States, not later than 180 days after Nov. 18, 1988, to conduct an investigation of extent to which valid court orders and court orders other than valid court orders, used in the 5-year period ending on Dec. 31, 1988, to place juveniles in secure detention facilities, in secure correctional facilities, and in jails and lockups for adults, and submit, not later than 3 years after Nov. 18, 1988, a report to certain congressional committees of results of investigation.
+Section 7295 of Pub. L. 100–690 directed Comptroller General of the United States, not later than 180 daysafter Nov. 18, 1988, to conduct an investigation of extent to which valid court orders and court orders other than valid court orders, used in the 5-year period ending on Dec. 31, 1988, to place juveniles in secure detention facilities, in secure correctional facilities, and in jails and lockups for adults, and submit, not later than 3 years after Nov. 18, 1988, a report to certain congressional committees of results of investigation.
 

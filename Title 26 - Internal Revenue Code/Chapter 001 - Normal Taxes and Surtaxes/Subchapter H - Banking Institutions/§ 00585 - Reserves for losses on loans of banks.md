@@ -26,7 +26,7 @@
 
 #### (2) Experience method
 
-&emsp;The amount determined under this paragraph for a taxable year shall be the amount necessary to increase the balance of the reserve for losses on loans (at the close of the taxable year) to the greater of—
+&emsp;The amount determined under this paragraph for a taxable year shall be the amountnecessary to increase the balance of the reserve for losses on loans (at the close of the taxable year) to the greater of—
 
 &emsp;&emsp;(A) the amount which bears the same ratio to loans outstanding at the close of the taxable year as (i) the total bad debts sustained during the taxable year and the 5 preceding taxable years (or, with the approval of the Secretary, a shorter period), adjusted for recoveries of bad debts during such period, bears to (ii) the sum of the loans outstanding at the close of such 6 or fewer taxable years, or
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(ii) if the amount of loans outstanding at the close of the taxable year is less than the amount of loans outstanding at the close of the base year, the amount which bears the same ratio to loans outstanding at the close of the taxable year as the balance of the reserve at the close of the base year bears to the amount of loans outstanding at the close of the base year.
 
-> &emsp;For purposes of this paragraph, the base year shall be the last taxable year before the most recent adoption of the experience method, except that for taxable years beginning after 1987the base year shall be the last taxable year beginning before 1988.
+> &emsp;For purposes of this paragraph, the base year shall be the last taxable year before the most recent adoption of the experience method, except that for taxable years beginning after 1987 the base year shall be the last taxable year beginning before 1988.
 
 #### (3) Regulations; definition of loan
 
@@ -212,7 +212,7 @@ Subsec. (c). Pub. L. 99–514, §901(a)(2), added subsec. (c).
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) ofPub. L. 104–188, set out as a note under section 593 of this title.
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
 
 #### Effective Date of 1988 Amendment
 

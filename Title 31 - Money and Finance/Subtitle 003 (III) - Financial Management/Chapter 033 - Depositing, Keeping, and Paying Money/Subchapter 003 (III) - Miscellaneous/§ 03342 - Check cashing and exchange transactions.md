@@ -44,7 +44,13 @@
 
 (e) Regulations prescribed under subsection (d) shall include regulations that define the terms “dependent” and “sponsor” for the purposes of this section. In the regulations, the term “dependent”, with respect to a member of a uniformed service, shall have the meaning given that term in section 401 of title 37.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 957; Pub. L. 104–106, div. A, title X, §1090, Feb. 10, 1996, 110 Stat. 459; Pub. L. 104–201, div. A, title X, §1011, Sept. 23, 1996, 110 Stat. 2635.)
+(f) With respect to automated teller machines on naval vessels, the authority of a disbursing official of the United States Government under subsection (a) also includes the following:
+
+&emsp;(1) The authority to provide operating funds to the automated teller machines.
+
+&emsp;(2) The authority to accept, for safekeeping, deposits and transfers of funds made through the automated teller machines.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 957; Pub. L. 104–106, div. A, title X, §1090, Feb. 10, 1996, 110 Stat. 459; Pub. L. 104–201, div. A, title X, §1011, Sept. 23, 1996, 110 Stat. 2635; Pub. L. 106–65, div. A, title III, §372, Oct. 5, 1999, 113 Stat. 580.)
 
 Historical and Revision Notes
 
@@ -89,6 +95,8 @@ Subsection (c)(3) is substituted for 31:492b(2d sentence) to eliminate unnecessa
 In subsection (d), the words “rules and . . . governing the disbursing officers under their respective jurisdictions, as may be deemed necessary or proper . . . the purposes of” are omitted as surplus. The words “under conditions the Secretary decides are necessary” are substituted for “subject to such terms and conditions as he may prescribe” for clarity and consistency. The words “and exercise the function of disbursement pursuant to a delegation by the Secretary of the Treasury” are omitted as unnecessary.
 
 #### Amendments
+
+1999—Subsec. (f). Pub. L. 106–65 added subsec. (f).
 
 1996—Subsec. (b)(3). Pub. L. 104–201, §1011(1), substituted a semicolon for the period at end.
 

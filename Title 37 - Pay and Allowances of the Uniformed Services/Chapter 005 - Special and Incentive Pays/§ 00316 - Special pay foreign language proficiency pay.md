@@ -18,7 +18,7 @@
 
 > may be paid special pay under this section in addition to any other pay or allowance to which the member is entitled.
 
-(b) The monthly rate for special pay under subsection (a) shall be determined by the Secretary concerned and may not exceed $100.
+(b) The monthly rate for special pay under subsection (a) shall be determined by the Secretary concerned and may not exceed $300.
 
 (c)(1) Under regulations prescribed by the Secretary concerned, when a member of a reserve component who is entitled to compensation under section 206 of this title meets the requirements for special pay authorized in subsection (a), except the requirement prescribed in subsection (a)(1), the member may be paid an increase in compensation equal to one-thirtieth of the monthly special pay authorized under subsection (b) for a member who is entitled to basic pay under section 204 of this title.
 
@@ -32,9 +32,11 @@
 
 (d) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under the jurisdiction of the Secretary, by the Secretary of Transportation for the Coast Guard when the Coast Guard is not operating as a service in the Navy, by the Secretary of Health and Human Services for the Commissioned Corps of the Public Health Service, and by the Secretary of Commerce for the National Oceanic and Atmospheric Administration.
 
-(Added Pub. L. 99–661, div. A, title VI, §634(a)(1), Nov. 14, 1986, 100 Stat. 3884; amended Pub. L. 104–201, div. A, title VI, §616(a), (b), Sept. 23, 1996, 110 Stat. 2547.)
+(Added Pub. L. 99–661, div. A, title VI, §634(a)(1), Nov. 14, 1986, 100 Stat. 3884; amended Pub. L. 104–201, div. A, title VI, §616(a), (b), Sept. 23, 1996, 110 Stat. 2547; Pub. L. 106–65, div. A, title VI, §625(a), Oct. 5, 1999, 113 Stat. 654.)
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–65 substituted “$300” for “$100”.
 
 1996—Subsec. (a). Pub. L. 104–201, §616(a)(1), substituted “uniformed services” for “armed forces” in introductory provisions.
 
@@ -47,6 +49,10 @@ Subsec. (a)(3)(C). Pub. L. 104–201, §616(a)(3)(B), struck out “military” 
 Subsec. (a)(3)(D). Pub. L. 104–201, §616(a)(3)(C), substituted “uniformed service” for “Department of Defense” and “Secretary concerned” for “Secretary of Defense”.
 
 Subsec. (d). Pub. L. 104–201, §616(b), substituted “the jurisdiction of the Secretary,” for “his jurisdiction and” and inserted before period at end “, by the Secretary of Health and Human Services for the Commissioned Corps of the Public Health Service, and by the Secretary of Commerce for the National Oceanic and Atmospheric Administration”.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–65, div. A, title VI, §625(b), Oct. 5, 1999, 113 Stat. 654, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1999, and shall apply with respect to foreign language proficiency pay paid under section 316 of such title for months beginning on or after that date.”
 
 #### Effective Date of 1996 Amendment
 

@@ -36,7 +36,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 #### (6) Examining authority
 
-&emsp;The term “examining authority” means, with respect to any member of SIPC (A) the self-regulatory organization which inspects or examines such member of SIPC, or (B) the Commission if such member of SIPC is not a member of or participant in any self-regulatory organization or if the Commission has designated itself examining authority for such member pursuant to section 78iii(c) of this title.
+&emsp;The term “examining authority” means, with respect to any member of SIPC (A) the self-regulatory organization which inspects or examines such member of SIPC, or (B) the Commission if such member of SIPC is not a member of or participant in any self-regulatory organization or if the Commission hasdesignated itself examining authority for such member pursuant to section 78iii(c) of this title.
 
 #### (7) Filing date
 
@@ -104,7 +104,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 #### (13) Protective decree
 
-&emsp;The term “protective decree” means a decree, issued by a court upon application of SIPC under section 78eee(a)(3) of this title, that the customers of a member of SIPC are in need of the protection provided under this chapter.
+&emsp;The term “protective decree” means a decree, issued by a court upon application ofSIPC under section 78eee(a)(3) of this title, that the customers of a member of SIPC are in need of the protection provided under this chapter.
 
 #### (14) Security
 

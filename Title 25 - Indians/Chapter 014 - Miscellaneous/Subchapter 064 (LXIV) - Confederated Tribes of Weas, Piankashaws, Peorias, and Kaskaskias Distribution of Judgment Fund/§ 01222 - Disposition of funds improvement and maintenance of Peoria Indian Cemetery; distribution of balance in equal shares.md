@@ -6,7 +6,7 @@ After the deduction of attorneys’ fees and expenses and the administrative cos
 
 #### References in Text
 
-Act of May 13, 1966, referred to in text, is act May 13, 1966, Pub. L. 89–426, 80 Stat. 141, known as the SecondSupplemental Appropriation Act, 1966. Chapter XI of the act set out at 80 Stat. 150, appropriated the funds referred to and was not classified to the Code.
+Act of May 13, 1966, referred to in text, is act May 13, 1966, Pub. L. 89–426, 80 Stat. 141, known as the Second Supplemental Appropriation Act, 1966. Chapter XI of the act set out at 80 Stat. 150, appropriated the funds referred to and was not classified to the Code.
 
 Act of June 19, 1968, referred to in text, is act June 19, 1968, Pub. L. 90–352, 82 Stat. 239, which was not classified to the Code.
 

@@ -9,7 +9,7 @@
 | [2464\.](%C2%A7%2002464%20-%20Core%20logistics%20capabilities.md) | Core logistics capabilities. |
 | [2465\.](%C2%A7%2002465%20-%20Prohibition%20on%20contracts%20for%20performance%20of%20firefighting%20or%20security-guard%20functions.md) | Prohibition on contracts for performance of firefighting or security-guard functions. |
 | [2466\.](%C2%A7%2002466%20-%20Limitations%20on%20the%20performance%20of%20depot-level%20maintenance%20of%20materiel.md) | Limitations on the performance of depot-level maintenance of materiel. |
-| [2467\.](%C2%A7%2002467%20-%20Cost%20comparisons%20requirements%20with%20respect%20to%20retirement%20costs%20and%20consultation%20with%20employees.md) | Cost comparisons: requirements with respect to retirement costs and consultation with employees. |
+| [2467\.](%C2%A7%2002467%20-%20Cost%20comparisons%20inclusion%20of%20retirement%20costs%3B%20consultation%20with%20employees%3B%20waiver%20of%20comparison.md) | Cost comparisons: inclusion of retirement costs; consultation with employees; waiver of comparison. |
 | [2468\.](%C2%A7%2002468%20-%20Military%20installations%20authority%20of%20base%20commanders%20over%20contracting%20for%20commercial%20activities.md) | Military installations: authority of base commanders over contracting for commercial activities. |
 | [2469\.](%C2%A7%2002469%20-%20Contracts%20to%20perform%20workloads%20previously%20performed%20by%20depot-level%20activities%20of%20the%20Department%20of%20Defense%20requirement%20of%20competition.md) | Contracts to perform workloads previously performed by depot-level activities of the Department of Defense: requirement of competition. |
 | [2469a.](%C2%A7%2002469a%20-%20Use%20of%20competitive%20procedures%20in%20contracting%20for%20performance%20of%20depot-level%20maintenance%20and%20repair%20workloads%20formerly%20performed%20at%E2%80%A6.md) | Use of competitive procedures in contracting for performance of depot-level maintenance and repair workloads formerly performed at certain military installations. |
@@ -22,6 +22,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title III, §342(b)(2), Oct. 5, 1999, 113 Stat. 569, added item 2467 and struck former item 2467 “Cost comparisons: requirements with respect to retirement costs and consultation with employees”.
 
 1997—Pub. L. 105–85, div. A, title III, §§355(c)(1), 356(b), 359(a)(2), 361(a)(2), 385(b), Nov. 18, 1997, 111 Stat. 1694, 1695, 1699, 1701, 1712, added item 2460, substituted “Collection and retention of cost information data on converted services and functions” for “Reports on savings or costs from increased use of DOD civilian personnel” in item 2463 and “capabilities” for “functions” in item 2464, and added items 2469a and 2474.
 
@@ -53,7 +55,7 @@ Pub. L. 104–106, div. A, title III, §311(f)(2), Feb. 10, 1996, 110 Stat. 248,
 - [&sect; 02464 - Core logistics capabilities](%C2%A7%2002464%20-%20Core%20logistics%20capabilities.md)
 - [&sect; 02465 - Prohibition on contracts for performance of firefighting or security-guard functions](%C2%A7%2002465%20-%20Prohibition%20on%20contracts%20for%20performance%20of%20firefighting%20or%20security-guard%20functions.md)
 - [&sect; 02466 - Limitations on the performance of depot-level maintenance of materiel](%C2%A7%2002466%20-%20Limitations%20on%20the%20performance%20of%20depot-level%20maintenance%20of%20materiel.md)
-- [&sect; 02467 - Cost comparisons requirements with respect to retirement costs and consultation with employees](%C2%A7%2002467%20-%20Cost%20comparisons%20requirements%20with%20respect%20to%20retirement%20costs%20and%20consultation%20with%20employees.md)
+- [&sect; 02467 - Cost comparisons inclusion of retirement costs; consultation with employees; waiver of comparison](%C2%A7%2002467%20-%20Cost%20comparisons%20inclusion%20of%20retirement%20costs%3B%20consultation%20with%20employees%3B%20waiver%20of%20comparison.md)
 - [&sect; 02468 - Military installations authority of base commanders over contracting for commercial activities](%C2%A7%2002468%20-%20Military%20installations%20authority%20of%20base%20commanders%20over%20contracting%20for%20commercial%20activities.md)
 - [&sect; 02469 - Contracts to perform workloads previously performed by depot-level activities of the Department of Defense requirement of competition](%C2%A7%2002469%20-%20Contracts%20to%20perform%20workloads%20previously%20performed%20by%20depot-level%20activities%20of%20the%20Department%20of%20Defense%20requirement%20of%20competition.md)
 - [&sect; 02469a - Use of competitive procedures in contracting for performance of depot-level maintenance and repair workloads formerly performed at&#8230;](%C2%A7%2002469a%20-%20Use%20of%20competitive%20procedures%20in%20contracting%20for%20performance%20of%20depot-level%20maintenance%20and%20repair%20workloads%20formerly%20performed%20at%E2%80%A6.md)

@@ -24,7 +24,7 @@ The Secretary shall establish selection criteria for a national competition for 
 
 #### (b) Funding limitation
 
-No more than 10 percent of the assistance made available under this part for any fiscalyear may be used for programs located within any one unit of general local government.
+No more than 10 percent of the assistance made available under this part for any fiscal year may be used for programs located within any one unit of general local government.
 
 #### (c) Participation of homeless individuals
 

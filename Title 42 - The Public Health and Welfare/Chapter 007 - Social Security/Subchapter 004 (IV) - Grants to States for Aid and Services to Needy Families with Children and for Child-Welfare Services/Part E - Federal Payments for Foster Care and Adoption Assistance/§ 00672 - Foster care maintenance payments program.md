@@ -16,7 +16,7 @@ Each State with a plan approved under this part shall make foster care maintenan
 
 &emsp;&emsp;(B)(i) would have received such aid in or for such month if application had been made therefor, or (ii) had been living with a relative specified in section 606(a) of this title (as in effect on July 16, 1996) within six months prior to the month in which such agreement was entered into or such proceedings were initiated, and would have received such aid in or for such month if in such month he had been living with such a relative and application therefor had been made.
 
-> In any case where the child is an alien disqualified under section 1255a(h), 1160(f), or 1161(d)(7) <sup>1</sup> of title 8 from receiving aid under the State plan approved under section 602 of this title in or for the month in which such agreement was entered into or court proceedings leading to the removal of the child from the home were instituted, such child shall be considered to satisfy the requirements of paragraph (4) (and the corresponding requirements of section 673(a)(2)(B) of this title), with respect to that month, if he or she would have satisfied such requirements but for such disqualification.
+> In any case where the child is an alien disqualified under section 1255a(h), 1160(f), or 1161(d)(7) <sup>1</sup> of title 8 from receiving aid under the State plan approved under section 602 of this title in or for the month in which such agreement was entered into or court proceedings leading to the removal of the child from the home were instituted, such child shall be considered to satisfy the requirements of paragraph (4) (and the corresponding requirements of section 673(a)(2)(B) of this title), with respect to that month, if he or she would have satisfied such requirements but for such disqualification. In determining whether a child would have received aid under a State plan approved under section 602 of this title (as in effect on July 16, 1996), a child whose resources (determined pursuant to section 602(a)(7)(B) of this title, as so in effect) have a combined value of not more than $10,000 shall be considered to be a child whose resources have a combined value of not more than $1,000 (or such lower amount as the State may determine for purposes of such section 602(a)(7)(B) of this title).
 
 #### (b) Additional qualifications
 
@@ -32,11 +32,11 @@ For the purposes of this part, (1) the term “foster family home” means a fos
 
 #### (d) Children removed from their homes pursuant to voluntary placement agreements
 
-Notwithstanding any other provision of this subchapter, Federal payments may be madeunder this part with respect to amounts expended by any State as foster care maintenance payments under this section, in the case of children removed from their homes pursuant to voluntary placement agreements as described in subsection (a) of this section, only if (at the time such amounts were expended) the State has fulfilled all of the requirements of section 622(b)(10) of this title.
+Notwithstanding any other provision of this subchapter, Federal payments may be made under this part with respect to amounts expended by any State as foster care maintenance payments under this section, in the case of children removed from their homes pursuant to voluntary placement agreements as described in subsection (a) of this section, only if (at the time such amounts were expended) the State has fulfilled all of the requirements of section 622(b)(10) of this title.
 
 #### (e) Placements in best interest of child
 
-No Federal payment may be made under this part with respect to amounts expended by any State as foster care maintenance payments under this section, in the case of any child who was removed from his or her home pursuant to a voluntary placement agreement as described in subsection (a) of this section and has remained in voluntary placement for a period in excess of 180 days, unless there has been a judicial determination by a court of competent jurisdiction (within the first 180 days of such placement) to the effect that such placement is in the best interests of the child.
+No Federal payment may be made under this part with respect to amounts expended by anyState as foster care maintenance payments under this section, in the case of any child who was removed from his or her home pursuant to a voluntary placement agreement as described in subsection (a) of this section and has remained in voluntary placement for a period in excess of 180 days, unless there has been a judicial determination by a court of competent jurisdiction (within the first 180 days of such placement) to the effect that such placement is in the best interests of the child.
 
 #### (f) “Voluntary placement” and “voluntary placement agreement” defined
 
@@ -58,7 +58,7 @@ In any case where—
 
 (2) For purposes of paragraph (1), a child whose costs in a foster family home or child care institution are covered by the foster care maintenance payments being made with respect to the child's minor parent, as provided in section 675(4)(B) of this title, shall be considered a child with respect to whom foster care maintenance payments are made under this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §472, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(1), (2), June 17, 1980, 94 Stat. 503, 513, 514; Pub. L. 99–603, title II, §201(b)(2)(A), title III, §§302(b)(2), 303(e)(2), Nov. 6, 1986, 100 Stat. 3403, 3422, 3431; Pub. L. 100–203, title IX, §§9133(b)(2), 9139(a), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §202(d)(3), Oct. 31, 1994, 108 Stat. 4454; Pub. L. 104–193, title I, §108(d)(3), (4), title V, §501, Aug. 22, 1996, 110 Stat. 2166, 2277; Pub. L. 105–33, title V, §§5513(b)(1), (2), 5592(b), Aug. 5, 1997, 111 Stat. 620, 644; Pub. L. 105–89, title I, §101(c), Nov. 19, 1997, 111 Stat. 2117.)
+(Aug. 14, 1935, ch. 531, title IV, §472, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(1), (2), June 17, 1980, 94 Stat. 503, 513, 514; Pub. L. 99–603, title II, §201(b)(2)(A), title III, §§302(b)(2), 303(e)(2), Nov. 6, 1986, 100 Stat. 3403, 3422, 3431; Pub. L. 100–203, title IX, §§9133(b)(2), 9139(a), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §202(d)(3), Oct. 31, 1994, 108 Stat. 4454; Pub. L. 104–193, title I, §108(d)(3), (4), title V, §501, Aug. 22, 1996, 110 Stat. 2166, 2277; Pub. L. 105–33, title V, §§5513(b)(1), (2), 5592(b), Aug. 5, 1997, 111 Stat. 620, 644; Pub. L. 105–89, title I, §101(c), Nov. 19, 1997, 111 Stat. 2117; Pub. L. 106–169, title I, §111, Dec. 14, 1999, 113 Stat. 1829.)
 
 #### References in Text
 
@@ -67,6 +67,8 @@ Section 1161 of title 8, referred to in subsec. (a), was repealed by Pub. L. 103
 Parts A and B of this subchapter, referred to in subsecs. (f) and (h), are classified to sections 601 et seq. and 620 et seq., respectively, of this title.
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–169 inserted at end “In determining whether a child would have received aid under a State plan approved under section 602 of this title (as in effect on July 16, 1996), a child whose resources (determined pursuant to section 602(a)(7)(B) of this title, as so in effect) have a combined value of not more than $10,000 shall be considered to be a child whose resources have a combined value of not more than $1,000 (or such lower amount as the State may determine for purposes of such section 602(a)(7)(B) of this title).
 
 1997—Subsec. (a). Pub. L. 105–33, §5513(b)(1), substituted “July 16, 1996” for “June 1, 1995” in introductory provisions.
 
@@ -86,7 +88,7 @@ Subsec. (a)(4)(B)(ii). Pub. L. 104–193, §108(d)(3)(B)(ii), inserted “(as in
 
 Subsec. (c)(2). Pub. L. 104–193, §501, struck out “nonprofit” before “private child-care institution.”
 
-Subsec. (h). Pub. L. 104–193, §108(d)(4), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “For purposes of subchapters XIX and XX of this chapter, any child with respect to whom foster care maintenance payments are made under this section shall be deemed to be a dependent child as defined in section 606 of this title and shall be deemed to be a recipient of aid to families with dependent children under part A of this subchapter. For purposes of thepreceding sentence, a child whose costs in a foster family home or child-care institution are covered by the foster care maintenance payments being made with respect to his or her minor parent, as provided in section 675(4)(B) of this title, shall be considered a child with respect to whom foster care maintenance payments are made under this section.”
+Subsec. (h). Pub. L. 104–193, §108(d)(4), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “For purposes of subchapters XIX and XX of this chapter, any child with respect to whom foster care maintenance payments are made under this section shall be deemed to be a dependent child as defined in section 606 of this title and shall be deemed to be a recipient of aid to families with dependent children under part A of this subchapter. For purposes of the preceding sentence, a child whose costs in a foster family home or child-care institution are covered by thefoster care maintenance payments being made with respect to his or her minor parent, as provided in section 675(4)(B) of this title, shall be considered a child with respect to whom foster care maintenance payments are made under this section.”
 
 1994—Subsec. (d). Pub. L. 103–432 substituted “section 622(b)(9) of this title” for “section 627(b) of this title”.
 

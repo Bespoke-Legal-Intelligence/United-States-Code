@@ -36,6 +36,12 @@ Subsec. (f). Pub. L. 99–395, §1, struck out provision which had included a co
 
 1978—Subsecs. (e), (f). Pub. L. 95–625 added subsecs. (e) and (f).
 
+#### Fort Baker Golden Gate National Recreation Area; Tax and Special Assessment Exemption
+
+Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §120\], Nov. 29, 1999, 113 Stat. 1535, 1501A–159, provided that: “All properties administered by the National Park Service at Fort Baker, Golden Gate National Recreation Area, and leases, concessions, permits and other agreements associated with those properties, hereafter shall be exempt from all taxes and special assessments, except sales tax, by the State of California and its political subdivisions, including the County of Marin and the City of Sausalito. Such areas of Fort Baker shall remain under exclusive Federal jurisdiction.”
+
+Similar provisions were contained in Pub. L. 105–277, div. A, §101(e) \[title I, §150\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–268.
+
 #### Fees or Admission Charges; Moneys Collected Since November 10, 1983
 
 Section 2(b) of Pub. L. 99–395 provided that: “Notwithstanding any other provisions of law, moneys collected pursuant to section 4(e) of the Act of October 27, 1972 (16 U.S.C. 460bb–3; 92 Stat. 3486), since November 10, 1983, shall be deemed to have been collected in accordance with such section as amended by this Act.”

@@ -26,6 +26,8 @@ Pub. L. 104–106, div. A, title V, §571(c)(1), (2), Feb. 10, 1996, 110 Stat. 3
 
 1987—Pub. L. 100–180, div. A, title III, §332(b)(6), Dec. 4, 1987, 101 Stat. 1080, substituted “HUMANITARIAN AND OTHER ASSISTANCE” for “HUMANITARIAN AND CIVIC ASSISTANCE PROVIDED IN CONJUNCTION WITH MILITARY OPERATIONS” in chapter heading, “Humanitarian and civic assistance provided in conjunction with military operations” for “Armed forces participation in humanitarian and civic assistance activities” in item 401, and “Transportation of humanitarian relief supplies to foreign countries” for “Approval of Secretary of State” in item 402, and struck out items 403 “Payment of expenses”, 404 “Annual report to Congress”, 405 “Definition of humanitarian and civic assistance”, and 406 “Expenditure limitation”.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

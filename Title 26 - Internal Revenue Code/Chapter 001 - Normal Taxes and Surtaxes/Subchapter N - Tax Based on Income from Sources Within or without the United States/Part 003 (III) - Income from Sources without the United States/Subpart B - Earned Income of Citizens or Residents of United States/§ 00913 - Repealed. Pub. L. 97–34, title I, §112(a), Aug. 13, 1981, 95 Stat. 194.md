@@ -4,5 +4,5 @@ Section, added Pub. L. 95–615, title II, §203(a), Nov. 8, 1978, 92 Stat. 3100
 
 #### Effective Date of Repeal
 
-Repeal applicable with respect to taxable years beginning after Dec. 31, 1981, see section 115 of Pub. L.97–34, set out as an Effective Date of 1981 Amendment note under section 911 of this title.
+Repeal applicable with respect to taxable years beginning after Dec. 31, 1981, see section 115 of Pub. L. 97–34, set out as an Effective Date of 1981 Amendment note under section 911 of this title.
 

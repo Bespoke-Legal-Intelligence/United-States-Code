@@ -274,7 +274,7 @@ Section 211(d) of Pub. L. 99–514 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 29, 42, 43, 55, 465, 773, 1371 of this title.
+This section is referred to in sections 29, 42, 43, 465, 773, 1371 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be hyphenated.</i>
 

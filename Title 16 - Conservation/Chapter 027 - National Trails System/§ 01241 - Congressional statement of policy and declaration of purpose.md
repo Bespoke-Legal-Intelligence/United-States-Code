@@ -24,6 +24,10 @@ Subsec. (c). Pub. L. 98–11, §202(2), added subsec. (c).
 
 Subsec. (b). Pub. L. 95–625, §551(3), substituted “, scenic and historic” for “and scenic”.
 
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–135, §1, Dec. 7, 1999, 113 Stat. 1685, provided that: “This Act \[amending section 1244 of this title\] may be cited as the ‘Star-Spangled Banner National Historic Trail Study Act of 1999’.”
+
 #### Short Title of 1993 Amendments
 
 Pub. L. 103–145, §1, Nov. 17, 1993, 107 Stat. 1496, provided that: “This Act \[amending section 1244 of this title\] may be cited as the ‘El Camino Real Para Los Texas Study Act of 1993’.”

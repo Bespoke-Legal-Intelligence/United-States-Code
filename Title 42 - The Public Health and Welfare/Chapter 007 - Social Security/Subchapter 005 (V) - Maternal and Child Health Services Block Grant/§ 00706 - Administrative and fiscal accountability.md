@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(i) the number of infants under one year of age who were in the State in the year, and
 
-&emsp;&emsp;(ii) the number of such infants who were provided services under this subchapter or were entitled to benefits under the State plan under subchapter XIX of this chapter at any time during the year.
+&emsp;&emsp;(ii) the number of such infants who were provided services under this subchapter or were entitled to benefits under the State plan under subchapter XIX of this chapter or the State plan under subchapter XXI of this chapter at any time during the year.
 
 &emsp;(E) Information on the number of—
 
@@ -126,7 +126,7 @@
 
 &emsp;&emsp;&emsp;(I) the number of infants under one year of age in the year, and
 
-&emsp;&emsp;&emsp;(II) the number of such infants who were provided services under this subchapter or were entitled to benefits under a State plan under subchapter XIX of this chapter at any time during the year.
+&emsp;&emsp;&emsp;(II) the number of such infants who were provided services under this subchapter or were entitled to benefits under a State plan under subchapter XIX of this chapter or the State plan under subchapter XXI of this chapter at any time during the year.
 
 > &emsp;&emsp;Information under this clause shall also be compiled by racial and ethnic group.
 
@@ -168,7 +168,7 @@ The State shall make copies of the reports and audits required by this section a
 
 (3) For other provisions relating to deposit, accounting, reports, and auditing with respect to Federal grants to States, see section 6503(b) <sup>1</sup> of title 31.
 
-(Aug. 14, 1935, ch. 531, title V, §506, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 823; amended Pub. L. 98–369, div. B, title III, §2373(a)(2), July 18, 1984, 98 Stat. 1111; Pub. L. 101–239, title VI, §§6503(c)(3), (4), 6504, Dec. 19, 1989, 103 Stat. 2278; Pub. L. 104–316, title I, §122(f), Oct. 19, 1996, 110 Stat. 3837.)
+(Aug. 14, 1935, ch. 531, title V, §506, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 823; amended Pub. L. 98–369, div. B, title III, §2373(a)(2), July 18, 1984, 98 Stat. 1111; Pub. L. 101–239, title VI, §§6503(c)(3), (4), 6504, Dec. 19, 1989, 103 Stat. 2278; Pub. L. 104–316, title I, §122(f), Oct. 19, 1996, 110 Stat. 3837; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(d)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402.)
 
 #### References in Text
 
@@ -181,6 +181,8 @@ A prior section 706, act Aug. 14, 1935, ch. 531, title V, §506, as added Jan. 2
 Provisions similar to those comprising former section 706 were contained in sections 504 and 514 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 630, 632, as amended (formerly classified to sections 704 and 714 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
 #### Amendments
+
+1999—Subsec. (a)(2)(D)(ii), (3)(D)(ii)(II). Pub. L. 106–113 inserted “or the State plan under subchapter XXI of this chapter” after “subchapter XIX of this chapter”.
 
 1996—Subsec. (a)(1). Pub. L. 104–316 struck out “and the Comptroller General” after “with the States”.
 
@@ -199,6 +201,10 @@ Pub. L. 101–239, §6504(a)(2), redesignated former par. (2) as (3).
 #### Change of Name
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(d)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402, provided that: “The amendments made by paragraph (1) \[amending this section\] apply to annual reports submitted under section 506 of the Social Security Act (42 U.S.C. 706) for years beginning after the date of the enactment of this Act \[Nov. 29, 1999\].”
 
 #### Effective Date of 1989 Amendment
 

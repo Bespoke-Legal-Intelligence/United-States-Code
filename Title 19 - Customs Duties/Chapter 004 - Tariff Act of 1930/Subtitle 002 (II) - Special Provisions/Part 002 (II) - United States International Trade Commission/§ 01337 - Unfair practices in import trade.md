@@ -4,7 +4,7 @@
 
 (1) Subject to paragraph (2), the following are unlawful, and when found by the Commission to exist shall be dealt with, in addition to any other provision of law, as provided in this section:
 
-&emsp;(A) Unfair methods of competition and unfair acts in the importation of articles (otherthan articles provided for in subparagraphs (B), (C), and (D)) into the United States, or in the sale of such articles by the owner, importer, or consignee, the threat or effect of which is—
+&emsp;(A) Unfair methods of competition and unfair acts in the importation of articles (other than articles provided for in subparagraphs (B), (C), (D), and (E)) into the United States, or in the sale of such articles by the owner, importer, or consignee, the threat or effect of which is—
 
 &emsp;&emsp;(i) to destroy or substantially injure an industry in the United States;
 
@@ -22,9 +22,11 @@
 
 &emsp;(D) The importation into the United States, the sale for importation, or the sale within the United States after importation by the owner, importer, or consignee, of a semiconductor chip product in a manner that constitutes infringement of a mask work registered under chapter 9 of title 17.
 
-(2) Subparagraphs (B), (C), and (D) of paragraph (1) apply only if an industry in the United States, relating to the articles protected by the patent, copyright, trademark, or mask work concerned, exists or is in the process of being established.
+&emsp;(E) The importation into the United States, the sale for importation, or the sale within the United States after importation by the owner, importer, or consigner, of an article that constitutes infringement of the exclusive rights in a design protected under chapter 13 of title 17.
 
-(3) For purposes of paragraph (2), an industry in the United States shall be considered to exist if there is in the United States, with respect to the articles protected by the patent, copyright, trademark, or mask work concerned—
+(2) Subparagraphs (B), (C), and (D) of paragraph (1) apply only if an industry in the United States, relating to the articles protected by the patent, copyright, trademark, mask work, or design concerned, exists or is in the process of being established.
+
+(3) For purposes of paragraph (2), an industry in the United States shall be considered to exist if there is in the United States, with respect to the articles protected by the patent, copyright, trademark, mask work, or design concerned—
 
 &emsp;(A) significant investment in plant and equipment;
 
@@ -44,7 +46,7 @@
 
 #### (c) Determinations; review
 
-The Commission shall determine, with respect to each investigation conducted by it under this section, whether or not there is a violation of this section, except that the Commission may, by issuing a consent order or on the basis of an agreement between the private parties to the investigation, including an agreement to present the matter for arbitration, terminate any such investigation, in whole or in part, without making such a determination. Each determination under subsection (d) or (e) of this section shall be made on the record after notice and opportunity for a hearing in conformity with the provisions of subchapter II of chapter 5 of title 5. All legal and equitable defenses may be presented in all cases. A respondent may raise any counterclaim in a manner prescribed by the Commission. Immediately after a counterclaim is received by the Commission, the respondentraising such counterclaim shall file a notice of removal with a United States district court in which venue for any of the counterclaims raised by the party would exist under section 1391 of title 28. Any counterclaim raised pursuant to this section shall relate back to the date of the original complaint in the proceeding before the Commission. Action on such counterclaim shall not delay or affect the proceeding under this section, including the legal and equitable defenses that may be raised under this subsection. Any person adversely affected by a final determination of the Commission under subsection (d), (e), (f), or (g) of this section may appeal such determination, within 60 days after the determination becomes final, to the United States Court of Appeals for the Federal Circuit for review in accordance with chapter 7 of title 5. Notwithstanding the foregoing provisions of this subsection, Commission determinations under subsections (d), (e), (f), and (g) of this section with respect to its findings on the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, the amount and nature of bond, or the appropriate remedy shall be reviewable in accordance with section 706 of title 5. Determinations by the Commission under subsections (e), (f), and (j) of this section with respect to forfeiture of bonds and under subsection (h) of this section with respect to the imposition of sanctions for abuse of discovery or abuse of process shall also be reviewable in accordance with section 706 of title 5.
+The Commission shall determine, with respect to each investigation conducted by it under this section, whether or not there is a violation of this section, except that the Commission may, by issuing a consent order or on the basis of an agreement between the private parties to the investigation, including an agreement to present the matter for arbitration, terminate any such investigation, in whole or in part, without making such a determination. Each determination under subsection (d) or (e) of this section shall be made on the record after notice and opportunity for a hearing in conformity with the provisions of subchapter II of chapter 5 of title 5. All legal and equitable defenses may be presented in all cases. A respondent may raise any counterclaim in a manner prescribed by the Commission. Immediately after a counterclaim is received by the Commission, the respondent raising such counterclaim shall file a notice of removal with a United States district court in which venue for any of the counterclaims raised by the party would exist under section 1391 of title 28. Any counterclaim raised pursuant to this section shall relate back to the date of the original complaint in the proceeding before the Commission. Action on such counterclaim shall not delay or affect the proceeding under this section, including the legal and equitable defenses that may be raised under this subsection. Any person adversely affected by a final determination of the Commission under subsection (d), (e), (f), or (g) of this section may appeal such determination, within 60 days after the determination becomes final, to the United States Court of Appeals for the Federal Circuit for review in accordance with chapter 7 of title 5. Notwithstanding the foregoing provisions of this subsection, Commission determinations under subsections (d), (e), (f), and (g) of this section with respect to its findings on the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, the amount and nature of bond, or the appropriate remedy shall be reviewable in accordance with section 706 of title 5. Determinations by the Commission under subsections (e), (f), and (j) of this section with respect to forfeiture of bonds and under subsection (h) of this section with respect to the imposition of sanctions for abuse of discovery or abuse of process shall also be reviewable in accordance with section 706 of title 5.
 
 #### (d) Exclusion of articles from entry
 
@@ -88,7 +90,7 @@ The Commission shall determine, with respect to each investigation conducted by 
 
 > the Commission shall presume the facts alleged in the complaint to be true and shall, upon request, issue an exclusion from entry or a cease and desist order, or both, limited to that person unless, after considering the effect of such exclusion or order upon the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, the Commission finds that such exclusion or order should not be issued.
 
-(2) In addition to the authority of the Commission to issue a general exclusion from entry of articles when a respondent appears to contest an investigation concerning a violation of the provisions of this section, a general exclusion from entry of articles, regardless of the source or importer of the articles, may be issued if—
+(2) In addition to the authority of the Commission to issue a general exclusion from entry ofarticles when a respondent appears to contest an investigation concerning a violation of the provisions of this section, a general exclusion from entry of articles, regardless of the source or importer of the articles, may be issued if—
 
 &emsp;(A) no person appears to contest an investigation concerning a violation of the provisions of this section,
 
@@ -130,7 +132,7 @@ The Commission may by rule prescribe sanctions for abuse of discovery and abuse 
 
 &emsp;(A) publish such determination in the Federal Register, and
 
-&emsp;(B) transmit to the President a copy of such determination and the action taken under subsection (d), (e), (f), (g), or (i) of this section,with respect thereto, together with the record upon which such determination is based.
+&emsp;(B) transmit to the President a copy of such determination and the action taken under subsection (d), (e), (f), (g), or (i) of this section, with respect thereto, together with the record upon which such determination is based.
 
 (2) If, before the close of the 60-day period beginning on the day after the day on which he receives a copy of such determination, the President, for policy reasons, disapproves such determination and notifies the Commission of his disapproval, then, effective on the date of such notice, such determination and the action taken under subsection (d), (e), (f), (g), or (i) of this section with respect thereto shall have no force or effect.
 
@@ -154,7 +156,7 @@ The Commission may by rule prescribe sanctions for abuse of discovery and abuse 
 
 #### (<i>l</i>) Importation by or for United States
 
-Any exclusion from entry or order under subsection (d), (e), (f), (g), or (i) of this section, in cases based on a proceeding involving a patent, copyright, or mask work under subsection (a)(1) of this section, shall not apply to any articles imported by and for the use of the United States, or imported for, and to be used for, the United States with the authorization or consent of the Government. Whenever any article would have been excluded from entry or would not have been entered pursuant to the provisions of such subsections but for the operation of this subsection, an owner of the patent, copyright, or mask work adversely affected shall be entitled to reasonable and entire compensation in an action before the United States Court of Federal Claims pursuant to the procedures of section 1498 of title 28.
+Any exclusion from entry or order under subsection (d), (e), (f), (g), or (i) of this section, in cases based on a proceeding involving a patent, copyright, mask work, or design under subsection (a)(1) of this section, shall not apply to any articles imported by and for the use of the United States, or imported for, and to be used for, the United States with the authorization or consent of the Government. Whenever any article would have been excluded from entry or would not have been entered pursuant to the provisions of such subsections but for the operation of this subsection, an owner of the patent, copyright, mask work, or design adversely affected shall be entitled to reasonable and entire compensation in an action before the United States Court of Federal Claims pursuant to the procedures of section 1498 of title 28.
 
 #### (m) “United States” defined
 
@@ -178,11 +180,11 @@ For purposes of this section and sections 1338 and 1340 <sup>1</sup> of this ti
 
 &emsp;&emsp;(v) maintaining the administrative record of the investigation or related proceeding,
 
-&emsp;(B) an officer or employee of the United States Government who is directly involved inthe review under subsection (j) of this section, or
+&emsp;(B) an officer or employee of the United States Government who is directly involved in the review under subsection (j) of this section, or
 
 &emsp;(C) an officer or employee of the United States Customs Service who is directly involved in administering an exclusion from entry under subsection (d), (e), or (g) of this section resulting from the investigation or related proceeding in connection with which the information is submitted.
 
-(June 17, 1930, ch. 497, title III, §337, 46 Stat. 703; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Pub. L. 85–686, §9(c)(1), Aug. 20, 1958, 72 Stat. 679; Pub. L. 93–618, title III, §341(a), Jan. 3, 1975, 88 Stat. 2053; Pub. L. 96–39, title I, §106(b)(1), title XI, §1105, July 26, 1979, 93 Stat. 193, 310; Pub. L. 96–417, title VI, §604, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 97–164, title I, §§160(a)(5), 163(a)(4), Apr. 2, 1982, 96 Stat. 48, 49; Pub. L. 98–620, title IV, §413, Nov. 8, 1984, 98 Stat. 3362; Pub. L. 100–418, title I, §§1214(h)(3), 1342(a), (b), Aug. 23, 1988, 102 Stat. 1157, 1212, 1215; Pub. L. 100–647, title IX, §9001(a)(7), (12), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 102–563, §3(d), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 103–465, title II, §261(d)(1)(B)(ii), title III, §321(a), Dec. 8, 1994, 108 Stat. 4909, 4943; Pub. L. 104–295, §20(b)(11), (12), (c)(2), Oct. 11, 1996, 110 Stat. 3527, 3528.)
+(June 17, 1930, ch. 497, title III, §337, 46 Stat. 703; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Pub. L. 85–686, §9(c)(1), Aug. 20, 1958, 72 Stat. 679; Pub. L. 93–618, title III, §341(a), Jan. 3, 1975, 88 Stat. 2053; Pub. L. 96–39, title I, §106(b)(1), title XI, §1105, July 26, 1979, 93 Stat. 193, 310; Pub. L. 96–417, title VI, §604, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 97–164, title I, §§160(a)(5), 163(a)(4), Apr. 2, 1982, 96 Stat. 48, 49; Pub. L. 98–620, title IV, §413, Nov. 8, 1984, 98 Stat. 3362; Pub. L. 100–418, title I, §§1214(h)(3), 1342(a), (b), Aug. 23, 1988, 102 Stat. 1157, 1212, 1215; Pub. L. 100–647, title IX, §9001(a)(7), (12), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 102–563, §3(d), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 103–465, title II, §261(d)(1)(B)(ii), title III, §321(a), Dec. 8, 1994, 108 Stat. 4909, 4943; Pub. L. 104–295, §20(b)(11), (12), (c)(2), Oct. 11, 1996, 110 Stat. 3527, 3528; Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5005(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–594.)
 
 #### References in Text
 
@@ -203,6 +205,14 @@ The reference to the Philippine Islands, formerly contained in subsec. (k), was 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title III, §316, 42 Stat. 943. That section was superseded by section 337 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
+
+1999—Subsec. (a)(1)(A). Pub. L. 106–113, §1000(a)(9) \[title V, §5005(b)(1)(A)(i)\], substituted “(D), and (E)” for “and (D)”.
+
+Subsec. (a)(1)(E). Pub. L. 106–113, §1000(a)(9) \[title V, §5005(b)(1)(A)(ii)\], added subpar. (E).
+
+Subsec. (a)(2), (3). Pub. L. 106–113, §1000(a)(9) \[title V, §5005(b)(1)(B)\], substituted “mask work, or design” for “or mask work”.
+
+Subsec. (<i>l</i>). Pub. L. 106–113, §1000(a)(9) \[title V, §5005(b)(2)\], substituted “mask work, or design” for “or mask work” in two places.
 
 1996—Subsec. (b)(3). Pub. L. 104–295, §20(c)(2), amended Pub. L. 103–465, §321(a)(1)(C)(i). See 1994 Amendment note below.
 
@@ -338,7 +348,7 @@ Section 322 of title III of Pub. L. 103–465 provided that: “The amendments m
 
 #### Effective Date of 1988 Amendments
 
-Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section 9001(b) of Pub. L. 100–647, set out as an Effective and Termination Dates of 1988 Amendments note under section 58c of this title.
+Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section9001(b) of Pub. L. 100–647, set out as an Effective and Termination Dates of 1988 Amendments note under section 58c of this title.
 
 Amendment by section 1214(h)(3) of Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
 
@@ -390,7 +400,7 @@ Findings.—The Congress finds that—
 
 “(b)
 
-Purpose.—The purpose of this part \[part 3 (§§1341, 1342) of subtitle C of title I of Pub. L. 100–418, amending this section, repealing section 1337a of thistitle, and enacting provisions set out as a note above\] is to amend section 337 of the Tariff Act of 1930 to make it a more effective remedy for the protection of United States intellectual property rights.”
+Purpose.—The purpose of this part \[part 3 (§§1341, 1342) of subtitle C of title I of Pub. L. 100–418, amending this section, repealing section 1337a of this title, and enacting provisions set out as a note above\] is to amend section 337 of the Tariff Act of 1930 to make it a more effective remedy for the protection of United States intellectual property rights.”
 
 #### Section Referred to in Other Sections
 

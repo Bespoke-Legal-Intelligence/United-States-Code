@@ -16,5 +16,5 @@
 
 The Fair Labor Standards Act of 1938, as amended, referred to in subsec. (a), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of this title. For complete classification of this Act to the Code, see see section 201 of this title and Tables.
 
-The “Bacon-Davis Act”, which is defined for purposes of this chapter in subsec. (d), is generally known as the “Davis-Bacon Act”. See Short Title note set out under section 276a of Title 40, Public Buildings, Property, and Works.
+The “Bacon-Davis Act”, which is defined for purposes of this chapter in subsec. (d), is generally known as the “Davis-Bacon Act”. See Short Title note set out undersection 276a of Title 40, Public Buildings, Property, and Works.
 

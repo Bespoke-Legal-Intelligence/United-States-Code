@@ -46,7 +46,7 @@ In any investigation or inquiry conducted for the purpose of ascertaining the co
 
 #### (c) Service of summons
 
-A summons issued pursuant to this section may be served by any person designated in the summons to serve it. Service upon a natural person may be made by personal delivery of the summons to him. Service may be made upon a domestic or foreign corporation or upon a partnership or other unincorporated association which is subject to suit under a common name, by delivering the summons to an officer, or managing or general agent, or to any other agent authorized by appointment or by law to receive service of process. The certificate of service signed by the person serving the summons is prima facie evidence of the facts it states on the hearing of an application for the enforcement of the summons. When the summons requires the production of records, such records shall be described in the summons with reasonable specificity.
+A summons issued pursuant to this section may be served by any person designated in the summons to serve it. Service upon a natural person may be made by personal delivery of the summons to him. Service may be made upon a domestic or foreign corporation or upon a partnership or other unincorporated association which is subject to suit under a common name, by delivering the summons to an officer, or managing or general agent, or to any other agent authorized by appointment or by law to receive service of process. The certificate ofservice signed by the person serving the summons is prima facie evidence of the facts it states on the hearing of an application for the enforcement of the summons. When the summons requires the production of records, such records shall be described in the summons with reasonable specificity.
 
 #### (d) Special procedures for third-party summonses
 
@@ -80,7 +80,7 @@ A summons issued pursuant to this section may be served by any person designated
 
 (4) Paragraph (2) of this subsection shall not apply to any summons—
 
-&emsp;(A) served on the person with respect to whose liability for duties, fees, or taxes thesummons is issued, or any officer or employee of such person; or
+&emsp;(A) served on the person with respect to whose liability for duties, fees, or taxes the summons is issued, or any officer or employee of such person; or
 
 &emsp;(B) to determine whether or not records of the transactions described in section 1508 of this title of an identified person have been made or kept.
 
@@ -216,7 +216,7 @@ Title I, referred to in subsec. (g)(2)(C), means title I of act June 17, 1930, c
 
 Provisions substantially the same, in most respects, as those in this section, were contained in act Oct. 3, 1913, ch. 16, §III, O, 38 Stat. 188, which substantially reenacted the provisions of Customs Administrative Act of June 10, 1890, ch. 407, §16, 26 Stat. 138, as renumbered and reenacted without other change by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 100. Section III of the 1913 act was superseded and more closely assimilated to this section by act Sept. 21, 1922, ch. 356, title IV, §508, 42 Stat. 968, and repealed by section 643 thereof. Section 508 of the 1922 act was superseded by section 509 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Prior provisions similar to those in this section and section 1510 of this title were made by R.S. §§2922–2924,repealed by section 29 of the Customs Administrative Act of 1890, 26 Stat. 141.
+Prior provisions similar to those in this section and section 1510 of this title were made by R.S. §§2922–2924, repealed by section 29 of the Customs Administrative Act of 1890, 26 Stat. 141.
 
 #### Amendments
 

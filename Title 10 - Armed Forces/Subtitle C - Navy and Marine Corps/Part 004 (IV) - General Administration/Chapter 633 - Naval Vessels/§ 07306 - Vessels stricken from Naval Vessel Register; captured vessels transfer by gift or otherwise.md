@@ -20,19 +20,35 @@ Transfers To Be at No Cost to United States.—Any transfer of a vessel under th
 
 (d)
 
-Notice to Congress.—(1) No transfer under this section takes effect unless—
+Congressional Notice-and-Wait Period.—(1) A transfer under this section may not take effect until—
 
-&emsp;(A) notice of the proposal to make the transfer is sent to Congress; and
+&emsp;(A) the Secretary submits to Congress notice of the proposed transfer; and
 
-&emsp;(B) 60 days of continuous session of Congress have expired following the date on which such notice is sent to Congress.
+&emsp;(B) 30 days of a session of Congress have expired following the date on which the notice is sent to Congress.
 
-(2) For purposes of paragraph (1)(B), the continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of such 60-day period.
+(2) For purposes of paragraph (1)(B)—
 
-(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1709.)
+&emsp;(A) the period of a session of Congress is broken only by an adjournment of Congress sine die at the end of the final session of a Congress; and
+
+&emsp;(B) any day on which either House of Congress is not in session because of an adjournment of more than 3 days to a day certain, or because of an adjournment sine die at the end of the first session of a Congress, shall be excluded in the computation of such 30-day period.
+
+(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1709; amended Pub. L. 106–65, div. A, title X, §1011, Oct. 5, 1999, 113 Stat. 739.)
 
 #### Prior Provisions
 
 A prior section 7306, acts Aug. 10, 1956, ch. 1041, 70A Stat. 452; Nov. 8, 1965, Pub. L. 89–348, §1(10), 79 Stat. 1311; Nov. 2, 1966, Pub. L. 89–718, §42, 80 Stat. 1120; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1616, 103 Stat. 1602, related to use of vessels stricken from the Naval Vessel Register for experimental purposes, prior to repeal by Pub. L. 103–160, §824(b). See section 7306a of this title.
+
+#### Amendments
+
+1999—Subsec. (d). Pub. L. 106–65 amended heading and text of subsec. (d) generally. Text read as follows:
+
+“(1) No transfer under this section takes effect unless—
+
+&emsp;“(A) notice of the proposal to make the transfer is sent to Congress; and
+
+&emsp;“(B) 60 days of continuous session of Congress have expired following the date on which such notice is sent to Congress.
+
+“(2) For purposes of paragraph (1)(B), the continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of such 60-day period.”
 
 #### Section Referred to in Other Sections
 

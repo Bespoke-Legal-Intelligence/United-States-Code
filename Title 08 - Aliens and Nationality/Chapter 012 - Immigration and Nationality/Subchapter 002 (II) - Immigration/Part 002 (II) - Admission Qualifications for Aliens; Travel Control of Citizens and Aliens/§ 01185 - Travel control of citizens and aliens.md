@@ -64,6 +64,10 @@ Subsecs. (f), (g). Pub. L. 95–426, §707(d), redesignated subsec. (g) as (f). 
 
 Section 204(b) of Pub. L. 103–416 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to departures and entries (and attempts thereof) occurring on or after the date of enactment of this Act \[Oct. 25, 1994\].”
 
+#### Delegation of Authority Under Sections 1182(f) and 1185(a)(1) of This Title
+
+Authority of President under subsec. (a)(1) of this section to maintain custody and conduct screening of any undocumented person seeking to enter the UnitedStates who is encountered in a vessel interdicted on the high seas through Dec. 31, 2000, delegated to Attorney General by Memorandum of President of the United States, Sept. 24, 1999, 64 F.R. 55809, set out as a note under section 1182 of this title.
+
 #### Ex. Ord. No. 12172. Delegation of Authority of President to Secretary of State and Attorney General Respecting Entry of Iranian Aliens Into the United States
 
 Ex. Ord. No. 12172, Nov. 26, 1979, 44 F.R. 67947, as amended by Ex. Ord. No. 12206, Apr. 7, 1980, 45 F.R. 24101, provided:

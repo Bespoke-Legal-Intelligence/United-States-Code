@@ -34,7 +34,7 @@
 
 (h) In this section, “settle” means consider, ascertain, adjust, determine, and dispose of a claim, whether by full or partial allowance or disallowance.
 
-(Added Pub. L. 86–740, §1(1), Sept. 13, 1960, 74 Stat. 878; amended Pub. L. 87–649, §8(b), Sept. 7, 1962, 76 Stat. 495; Pub. L. 90–486, §2(3), Aug. 13, 1968, 82 Stat. 756; Pub. L. 90–525, §6, Sept. 26, 1968,82 Stat. 878; Pub. L. 91–312, §3, July 8, 1970, 84 Stat. 412; Pub. L. 92–445, Sept. 29, 1972, 86 Stat. 745; Pub. L. 93–336, §3, July 8, 1974, 88 Stat. 292; Pub. L. 98–564, §4, Oct. 30, 1984, 98 Stat. 2919; Pub. L. 104–316, title II, §202(r), Oct. 19, 1996, 110 Stat. 3844.)
+(Added Pub. L. 86–740, §1(1), Sept. 13, 1960, 74 Stat. 878; amended Pub. L. 87–649, §8(b), Sept. 7, 1962, 76 Stat. 495; Pub. L. 90–486, §2(3), Aug. 13, 1968, 82 Stat. 756; Pub. L. 90–525, §6, Sept. 26, 1968, 82 Stat. 878; Pub. L. 91–312, §3, July 8, 1970, 84 Stat. 412; Pub. L. 92–445, Sept. 29, 1972, 86 Stat. 745; Pub. L. 93–336, §3, July 8, 1974, 88 Stat. 292; Pub. L. 98–564, §4, Oct. 30, 1984, 98 Stat. 2919; Pub. L. 104–316, title II, §202(r), Oct. 19, 1996, 110 Stat. 3844.)
 
 #### Amendments
 
@@ -50,7 +50,7 @@ Subsec. (f). Pub. L. 98–564, §4(3), amended subsec. (f) generally. Prior to a
 
 Subsec. (f). Pub. L. 93–336, §3(3), substituted “$5,000” for “$2,500”.
 
-1972—Subsec. (b)(4). Pub. L. 92–445 inserted provision that claim may be allowed to extent that law of place where act or omission complained of occurred would permit recovery from a private individual under similar circumstances, when damage to or loss of property, or personal injury or death was caused wholly or partly by a negligent or wrongful act of claimant, his agent, or his employee.
+1972—Subsec. (b)(4). Pub. L. 92–445 inserted provision that claim may be allowed to extent that law of place where act or omission complained of occurred would permit recovery from a private individual under similar circumstances, when damage to or loss of property,or personal injury or death was caused wholly or partly by a negligent or wrongful act of claimant, his agent, or his employee.
 
 1970—Subsecs. (a), (d). Pub. L. 91–312 substituted “$15,000” for “$5,000”.
 

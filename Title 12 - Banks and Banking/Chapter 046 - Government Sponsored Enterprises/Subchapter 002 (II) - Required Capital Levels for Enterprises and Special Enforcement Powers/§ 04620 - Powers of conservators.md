@@ -16,7 +16,7 @@ A conservator shall be subject to any rules, regulations, and orders issued from
 
 #### (1) In general
 
-&emsp;A conservator may enforce any contract described in paragraph (2), notwithstanding anyprovision of the contract providing for the termination, default, acceleration, or other exercise of rights upon, or solely by reason of, the insolvency of the enterprise or the appointment of a conservator.
+&emsp;A conservator may enforce any contract described in paragraph (2), notwithstanding any provision of the contract providing for the termination, default, acceleration, or other exercise of rights upon, or solely by reason of, the insolvency of the enterprise or the appointment of a conservator.
 
 #### (2) Enforceable contracts
 

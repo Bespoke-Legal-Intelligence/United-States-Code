@@ -132,7 +132,7 @@ Section 2652(b)(2) of Pub. L. 98–369 provided that: “The amendments made by 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 327, 3322, 3711, 3718, 3720 of this title; title 7 section 2016; title 8 sections 1254a, 1363a; title 10 sections 114, 423, 2410m, 7605; title 12 section 4241; title 15 sections 1527a, 2514; title 16 section 746a; title 18 section 1963; title 19 sections 1631, 2081; title 22 sections 1475e, 4226; title 26 section 7608; title 28 sections 1827, 1921; title 38 section 3720; title 42 sections 1973gg–10, 2169, 5812, 7651<i>o</i>; title 43 section 1338a; title 47 section 923; title 49 section 45303.
+This section is referred to in sections 327, 3322, 3711, 3718, 3720 of this title; title 7 section 2016; title 8 sections 1254a, 1363a; title 10 sections 114, 423, 2410m, 7605; title 12 section 4241; title 15 sections 1527a, 2514; title 16 section 746a; title 18 section 1963; title 19 sections 1631, 2081; title 22 sections 1475e, 4226; title 26 section 7608; title 28 sections 1827, 1921; title 38 section 3720; title 42 sections 1973gg–10, 2169, 5812, 5852, 7651<i>o</i>; title 43 section 1338a; title 47 section 923; title 49 sections 111, 45303.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

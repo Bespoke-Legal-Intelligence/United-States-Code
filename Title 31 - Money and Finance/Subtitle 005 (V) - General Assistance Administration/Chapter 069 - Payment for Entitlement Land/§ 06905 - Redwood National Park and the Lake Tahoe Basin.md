@@ -44,7 +44,7 @@ Dec. 23, 1980, Pub. L. 96–586, §2(i), 94 Stat. 3383.
 
 16:79<i>o</i>(d).
 
-In subsection (a), the words “Notwithstanding any contrary provision of sections 1601 to 1607 of title 31”are omitted as unnecessary because of the restatement. The word “general” is added for consistency in the revised title and with other titles of the United States Code. The words “an interest in” are added for consistency because of the source provisions restated in the revised section. The word “Government” is added for consistency in the revised title and with other titles of the Code. The text of 16:79<i>o</i>(a)(last sentence) is omitted as unnecessary.
+In subsection (a), the words “Notwithstanding any contrary provision of sections 1601 to 1607 of title 31” are omitted as unnecessary because of the restatement. The word “general” is added for consistency in the revised title and with other titles of the United States Code. The words “an interest in” are added for consistency because of the source provisions restated in the revised section. The word “Government” is added for consistency in the revised title and with other titles of the Code. The text of 16:79<i>o</i>(a)(last sentence) is omitted as unnecessary.
 
 In subsection (b)(1)–(3), the source provisions are combined for clarity and because of the restatement.
 

@@ -156,11 +156,11 @@ The purposes of this section are—
 
 #### (A) Prohibition against Federal control of education
 
-&emsp;&emsp;No provision of this Act shall be construed to authorize any department, agency, officer, or employee of the United States to exercise any direction, supervision, or control over the curriculum, program of instruction, administration, or personnel of any educational institution, school, or school system, or over the selection of library resources, textbooks, or other printed or published instructional materials by any educational institution, school, or school system.
+&emsp;&emsp;No provision of this Act shall be construed to authorize any department, agency, officer, or employee of the United States to exercise any direction, supervision, or controlover the curriculum, program of instruction, administration, or personnel of any educational institution, school, or school system, or over the selection of library resources, textbooks, or other printed or published instructional materials by any educational institution, school, or school system.
 
 #### (B) Nonduplication
 
-&emsp;&emsp;All of the funds made available under this Act shall be used in accordance with the requirements of this Act. None of the funds made available under this Act may be used to provide funding under the School-to-Work Opportunities Act of 1994 (20 U.S.C. 6101 et seq.) or to carry out, through programs funded under this Act, activities that were funded under the School-to-Work Opportunities Act of 1994, unless the programs funded under this Act serve only those participantseligible to participate in the programs under this Act.
+&emsp;&emsp;All of the funds made available under this Act shall be used in accordance with the requirements of this Act. None of the funds made available under this Act may be used to provide funding under the School-to-Work Opportunities Act of 1994 (20 U.S.C. 6101 et seq.) or to carry out, through programs funded under this Act, activities that were funded under the School-to-Work Opportunities Act of 1994, unless the programs funded under this Act serve only those participants eligible to participate in the programs under this Act.
 
 #### (C) Noninterference and nonreplacement of regular academic requirements
 

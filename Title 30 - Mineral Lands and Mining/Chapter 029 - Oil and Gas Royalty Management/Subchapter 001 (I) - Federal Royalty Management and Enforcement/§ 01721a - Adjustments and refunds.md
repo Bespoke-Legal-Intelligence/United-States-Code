@@ -6,7 +6,7 @@
 
 (2)(A) For any adjustment, the lessee or its designee shall calculate and report the interest due attributable to such adjustment at the same time the lessee or its designee adjusts the principle <sup>1</sup> amount of the subject obligation, except as provided by subparagraph (B).
 
-(B) In the case of a lessee or its designee who determines that subparagraph (A) would impose a hardship, the Secretary or such delegatedState shall calculate the interest due and notify the lessee or its designee within a reasonable time of the amount of interest due, unless such lessee or its designee elects to calculate and report interest in accordance with subparagraph (A).
+(B) In the case of a lessee or its designee who determines that subparagraph (A) would impose a hardship, the Secretary or such delegated State shall calculate the interest due and notify the lessee or its designee within a reasonable time of the amount of interest due, unless such lessee or its designee elects to calculate and report interest in accordance with subparagraph (A).
 
 (3) An adjustment or a request for a refund for an obligation may be made after the adjustment period only upon written notice to and approval by the Secretary or the applicable delegated State, as appropriate, during an audit of the period which includes the production month for which the adjustment is being made. If an overpayment is identified during an audit, then the Secretary or the applicable delegated State, as appropriate, shall allow a credit or refund in the amount of the overpayment.
 

@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1986—Par. (7). Pub. L. 99–514 amended par. (7) generally, substituting “alternative minimum tax” and “55”for “minimum tax for tax preferences” and “56”, respectively.
+1986—Par. (7). Pub. L. 99–514 amended par. (7) generally, substituting “alternative minimum tax” and “55” for “minimum tax for tax preferences” and “56”, respectively.
 
 1984—Pars. (6) to (8). Pub. L. 98–369 redesignated pars. (7) and (8) as (6) and (7), respectively. Former par. (6), which referred to section 1451 for withholding of tax on tax-free covenant bonds, was struck out.
 

@@ -36,7 +36,7 @@ Pub. L. 105–261, div. C, title XXXIV, Oct. 17, 1998, 112 Stat. 2265, provided 
 
 &emsp;“(1) The term ‘naval petroleum reserves’ has the meaning given the term in section 7420(2) of title 10, United States Code.
 
-&emsp;“(2) The term ‘Naval Petroleum Reserve Numbered 2’ means the naval petroleum reserve, commonly referred to as the Buena Vista unit, that is located in Kern County, California, and was established by Executive order of the President, dated December 13, 1912.
+&emsp;“(2) The term ‘Naval Petroleum Reserve Numbered 2’ means the naval petroleum reserve, commonly referred to as the Buena Vista unit, that is located inKern County, California, and was established by Executive order of the President, dated December 13, 1912.
 
 &emsp;“(3) The term ‘Naval Petroleum Reserve Numbered 3’ means the naval petroleum reserve, commonly referred to as the Teapot Dome unit, that is located in the State of Wyoming and was established by Executive order of the President, dated April 30, 1915.
 
@@ -132,7 +132,7 @@ Elements of Lease.—A lease under this title may provide for the exploration fo
 
 Waiver of Requirements Regarding Consultation and Approval.—Section 7431 of title 10, United States Code, shall not apply to the disposal of property under this title.”
 
-Pub. L. 104–106, div. C, title XXXIV, subtitle B, Feb. 10, 1996, 110 Stat. 631, provided that:
+Pub. L. 104–106, div. C, title XXXIV, subtitle B, Feb. 10, 1996, 110 Stat. 631, as amended by Pub. L. 106–65, div. A, title X, §1067(6), Oct. 5, 1999, 113 Stat. 774, provided that:
 
 #### “SEC. 3411. DEFINITIONS.
 
@@ -148,7 +148,7 @@ Pub. L. 104–106, div. C, title XXXIV, subtitle B, Feb. 10, 1996, 110 Stat. 631
 
 &emsp;“(5) The term ‘Secretary’ means the Secretary of Energy.
 
-&emsp;“(6) The term ‘appropriate congressional committees’ means the Committee on Armed Services of the Senate and the Committee on National Security \[now Committee on Armed Services\] and the Committee on Commerce of the House of Representatives.
+&emsp;“(6) The term ‘appropriate congressional committees’ means the Committee on Armed Services of the Senate and the Committee on Armed Services and the Committee on Commerce of the House of Representatives.
 
 #### “SEC. 3412. SALE OF NAVAL PETROLEUM RESERVE NUMBERED 1.
 

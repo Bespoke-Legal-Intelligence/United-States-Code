@@ -102,7 +102,7 @@ Administration.—The Secretary of Commerce shall take such actions authorized b
 
 #### Denali Commission
 
-Pub. L. 105–277, div. C, title III, Oct. 21, 1998, 112 Stat. 2681–637, provided that:
+Pub. L. 105–277, div. C, title III, Oct. 21, 1998, 112 Stat. 2681–637, as amended by Pub. L. 106–31, title I, §105(a), May 21, 1999, 113 Stat. 62; Pub. L. 106–113, div. B, §1000(a)(4) \[title VII, §701\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280, provided that:
 
 #### “SEC. 301. SHORT TITLE.
 
@@ -138,7 +138,7 @@ Composition.—The Commission shall be composed of 7 members, who shall be appoi
 
 &emsp;&emsp;“(C) one shall be the President of the Alaska Municipal League or an individual selected from nominations submitted by the President of the Alaska Municipal League;
 
-&emsp;&emsp;“(D) one shall be the President of the Alaska Federation or Natives or an individual selected from nominations submitted by the President of the Alaska Federation or Natives;
+&emsp;&emsp;“(D) one shall be the President of the Alaska Federation of Natives or an individual selected from nominations submitted by the President of the Alaska Federation of Natives;
 
 &emsp;&emsp;“(E) one shall be the Executive President of the Alaska State AFL–CIO or an individual selected from nominations submitted by the Executive President;
 
@@ -168,7 +168,7 @@ Date.—The appointments of the members of the Commission shall be made no later
 
 “(c)
 
-Period of Appointment; Vacancies.—Members shall be appointed for the life of the Commission. Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment.
+Period of Appointment; Vacancies.—The Federal Cochairperson shall serve for a term of four years and may be reappointed. All other members shall be appointed for the life of the Commission. Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment.
 
 “(d)
 
@@ -258,11 +258,13 @@ Postal Services.—The Commission may use the United States mails in the same ma
 
 Gifts.—The Commission may accept, use, and dispose of gifts or donations of services or property.
 
+“(d) The Commission, acting through the Federal Cochairperson, is authorized to enter into contracts and cooperative agreements, award grants, and make payments necessary to carry out the purposes of the Commission. With respect to funds appropriated to the Commission for fiscal year 1999, the Commission, acting through the Federal Cochairperson, is authorized to enter into contracts and cooperative agreements, award grants, and make payments to implement an interim work plan for fiscal year 1999 approved by the Commission.
+
 #### “SEC. 306. COMMISSION PERSONNEL MATTERS.
 
 “(a)
 
-Compensation of Members.—Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during the time such member is engaged in the performance of the duties of the Commission. All members of the Commission who are officers or employees of the United States shall serve without compensation that is in addition to that received for their services as officers or employees of the United States.
+Compensation of Members.—Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during the time such member is engaged in the performance of the duties of the Commission. The Federal Cochairperson shall be compensated at the annual rate prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code. All members of the Commission who are officers or employees of the United States shall serve without compensation that is in addition to that received for their services as officers or employees of the United States.
 
 “(b)
 
@@ -278,7 +280,7 @@ In general.—The Federal Cochairperson of the Commission may, without regard to
 
 &emsp;“(2)
 
-Compensation.—The Chairman of the Commission may fix the compensation of personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates.
+Compensation.—The Federal Cochairperson of the Commission may fix the compensation of personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates.
 
 “(d)
 
@@ -292,6 +294,14 @@ Procurement of Temporary and Intermittent Services.—The Federal Cochairperson 
 
 Offices.—The principal office of the Commission shall be located in Alaska, at a location that the Commission shall select.
 
+“(g)
+
+Administrative Expenses and Records.—The Commission is hereby prohibited from using more than 5 percent of the amounts appropriated under the authority of this Act \[probably means this title\] or transferred pursuant to section 329 of the Department of Transportation and Related Agencies Appropriations Act, 1999 (section 101(g) of division A of this Act) \[43 U.S.C. 1653 note\] for administrative expenses. The Commission and its grantees shall maintain accurate and complete records which shall be available for audit and examination by the Comptroller General or his or her designee.
+
+“(h)
+
+Inspector General.—\[Amended section 8G of the Inspector General Act, 5 App. U.S.C.\]
+
 #### “SEC. 307. SPECIAL FUNCTIONS.
 
 “(a)
@@ -300,11 +310,15 @@ Rural Utilities.—In carrying out its functions under this title, the Commissio
 
 “(b)
 
-Bulk Fuels.—The Commission, in consultation with the Commandant of the Coast Guard, shall develop a plan to provide for the repair or replacement of bulk fuel storage tanks in Alaska that are not in compliance with applicable—
+Bulk Fuels.—Funds transferred to the Commission pursuant to section 329 of the Department of Transportation and Related Agencies Appropriations Act, 1999 (section 101(g) of division A of this Act) \[43 U.S.C. 1653 note\] shall be available without further appropriation and until expended. The Commission, in consultation with the Commandant of the Coast Guard, shall develop a plan to provide for the repair or replacement of bulk fuel storage tanks in Alaska that are not in compliance with applicable—
 
 &emsp;“(1) Federal law, including the Oil Pollution Act of 1990 (104 Stat. 484) \[33 U.S.C. 2701 et seq.\]; or
 
 &emsp;“(2) State law.
+
+“(c)
+
+Demonstration Health Projects.—In order to demonstrate the value of adequate health facilities and services to the economic development of the region, the Secretary of Health and Human Services is authorized to make grants to the Denali Commission to plan, construct, and equip demonstration health, nutrition, and child care projects, including hospitals, health care clinics, and mental health facilities (including drug and alcohol treatment centers) in accordance with the Work Plan referred to under section 304 of Title III—Denali Commission of Division C—Other Matters of Public Law 105–277. No grant for construction or equipment of a demonstration project shall exceed 50 percentum of such costs, unless the project is located in a severely economically distressed community, as identified in the Work Plan referred to under section 304 of Title III—Denali Commission of Division C—Other Matters of Public Law 105–277, in which case no grant shallexceed 80 percentum of such costs. To carry out this section, there is authorized to be appropriated such sums as may be necessary.
 
 #### “SEC. 308. EXEMPTION FROM FEDERAL ADVISORY COMMITTEE ACT.
 
@@ -332,7 +346,7 @@ Pub. L. 98–501, title I, Oct. 19, 1984, 98 Stat. 2320, known as the “Public 
 
 #### White House Conference on Balanced National Growth and Economic Development
 
-Title II of Pub. L. 94–487, as amended by Pub. L. 95–31, title II, §§201, 202, May 23, 1977, 91 Stat. 170, provided forcalling of a White House Conference on Balanced National Growth and Economic Development within 18 months of Oct. 12, 1976, set forth powers, functions, membership, etc., of Conference, and required submission to President of a final report within 180 days after calling of Conference, with President to forward recommendations to Congress within 90 days after submission of report.
+Title II of Pub. L. 94–487, as amended by Pub. L. 95–31, title II, §§201, 202, May 23, 1977, 91 Stat. 170, provided for calling of a White House Conference on Balanced National Growth and Economic Development within 18 months of Oct. 12, 1976, set forth powers, functions, membership, etc., of Conference, and required submission to President of a final report within 180 days after calling of Conference, with President to forward recommendations to Congress within 90 days after submission of report.
 
 #### Executive Order No. 11386
 
@@ -345,4 +359,44 @@ Ex. Ord. No. 11422, Aug. 15, 1968, 33 F.R. 11739, as amended by Ex. Ord. No. 121
 #### Executive Order No. 11493
 
 Ex. Ord. No. 11493, Nov. 13, 1969, 34 F.R. 18289, which created Council for Rural Affairs to advise President with respect to further development of non-metropolitan areas of country, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237. Council terminated and its functions transferred to Domestic Council by section 2(b) of Ex. Ord. No. 11541, July 1, 1970, 35 F.R. 10737, set out as a note under section 501 of Title 31, Money and Finance.
+
+#### Ex. Ord. No. 13122. Interagency Task Force on the Economic Development of the Southwest Border
+
+Ex. Ord. No. 13122, May 25, 1999, 64 F.R. 29201, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to provide a more rapid and integrated Federal response to the economic development challenges of the Southwest Border region, it is hereby ordered as follows:
+
+Section 1. <i>Establishment of an Interagency Task Force on the Economic Development of the Southwest Border</i>. (a) There is established the “Interagency Task Force on the Economic Development of the Southwest Border” (Task Force) that reports to the Vice President, as Chair of the President's Community Empowerment Board (PCEB), and to the Assistant to the President for Economic Policy, as Vice Chair of the PCEB.
+
+(b) The Task Force shall comprise the Secretary of State, Secretary of Agriculture, Secretary of Commerce, Secretary of Defense, the Attorney General, Secretary of the Interior, Secretary of Education, Secretary of Health and Human Services, Secretary of Housing and Urban Development, Secretary of Energy, Secretary of Labor, Secretary of Transportation, Secretary of the Treasury, Director of the Office of Management and Budget, Director of National Drug Control Policy, Administrator of General Services, Administrator of the Small Business Administration, Administrator of the Environmental Protection Agency, or their designees, and such other senior executive branch officials as may be determined by the Co-Chairs of the Task Force. The Secretaries of the Treasury, Agriculture, and Labor shall Co-Chair the Task Force, rotating annually. The agency chairing the Task Force will provide administrative support for the Task Force.
+
+(c) The purpose of the Task Force is to coordinate and better leverage existing Administration efforts for the Southwest Border, in concert with locally led efforts, in order to increase the living standards and the overall economic profile of the Southwest Border so that it may achieve the average of the Nation. Specifically, the Task Force shall:
+
+(1) analyze the existing programs and policies of Task Force members that relate to the Southwest Border to determine what changes, modifications, and innovations should be considered;
+
+(2) consider statistical and data analysis, research, and policy studies related to the Southwest Border;
+
+(3) develop and recommend short-term and long-term options for promoting sustainable economic development;
+
+(4) consult and coordinate activities with State, tribal, and local governments, community leaders, Members of Congress, the private sector, and other interested parties, paying particular attention to maintaining existing authorities of the States, tribes, and local governments, and preserving their existing working relationships with other agencies, organizations, or individuals;
+
+(5) coordinate and collaborate on research and demonstration priorities of Task Force member agencies related to the Southwest Border;
+
+(6) integrate Administration initiatives and programs into the design of sustainable economic development actions for the Southwest Border; and
+
+(7) focus initial efforts on pilot communities for implementing a coordinated and expedited Federal response to local economic development and other needs.
+
+(d) The Task Force shall issue an interim report to the Vice President by November 15, 1999. The Task Force shall issue its first annual report to the Vice President by April 15, 2000, with subsequent reports to follow yearly and a final report on April 15, 2002. The reports shall describe the actions taken by, and progress of, each member of the Task Force in carrying out this order. The Task Force shall terminate 30 days after submitting its final report unless a Task Force consensus recommends continuation of activities.
+
+Sec. 2. <i>Specific Activities by Task Force Members and Other Agencies</i>. The agencies represented on the Task Force shall work together and report their actions and progress in carrying out this order to the Task Force Chair 1 month before the reports are due to the Vice President under section 1(d) of this order.
+
+Sec. 3. <i>Cooperation</i>. All efforts taken by agencies under sections 1 and 2 of this order shall, as appropriate, further partnerships and cooperation with organizations that represent the Southwest Border and with State and local governments.
+
+Sec. 4. <i>(a) “Agency” means an executive agency as defined in 5 U.S.C. 105.</i>
+
+(b) The “Southwest Border” or “Southwest Border region” is defined as including the areas up to 150 miles north of the United States-Mexican border in the States of Arizona, New Mexico, Texas, and California.
+
+Sec. 5. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -24,7 +24,7 @@ As finally enacted, act July 9, 1947, ch. 211, title IV, 61 Stat. 304, which was
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–702 amended second sentence generally. Prior to amendment, second sentence read as follows: “The clerk or jury commission shall prepare an alphabetical list of the names drawn, which list shall not be disclosed to any person except pursuant to the district court plan and to sections 1867 and 1868 of this title.”
+1988—Subsec. (a). Pub. L. 100–702 amended second sentence generally. Prior to amendment, second sentence read as follows: “The clerk or jury commission shallprepare an alphabetical list of the names drawn, which list shall not be disclosed to any person except pursuant to the district court plan and to sections 1867 and 1868 of this title.”
 
 1968—Pub. L. 90–274 substituted provisions for the public drawing of names from the master jury wheel, the completion of the jury qualification form, and the penalties for failure to appear and for misrepresentation of material facts for provisions requiring the drawing of names from a jury box, the refilling of the box by the clerk and a jury commissioner, the requirements and compensation of the commissioner, and the alternate placement of names by the clerk and the commissioner.
 

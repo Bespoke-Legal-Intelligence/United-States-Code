@@ -32,7 +32,7 @@
 
 &emsp;&emsp;Subject to the succeeding provisions of this subsection, a State is presumed to be implementing an acceptable alternative mechanism in accordance with this section as of July 1, 1997, if, by not later than April 1, 1997, the chief executive officer of a State—
 
-&emsp;&emsp;&emsp;(i) notifies the Secretary that the State has enacted or intends to enact (by not later than January 1, 1998, or July 1, 1998, in the case of a State described in subparagraph (B)(ii)) any necessary legislation to provide for the implementation of a mechanism reasonably designed to be an acceptable alternative mechanism as of January1, 1998,<sup>1</sup> (or, in the case of a State described in subparagraph (B)(ii), July 1, 1998); and
+&emsp;&emsp;&emsp;(i) notifies the Secretary that the State has enacted or intends to enact (by not later than January 1, 1998, or July 1, 1998, in the case of a State described in subparagraph (B)(ii)) any necessary legislation to provide for the implementation of a mechanism reasonably designed to be an acceptable alternative mechanism as of January 1, 1998,<sup>1</sup> (or, in the case of a State described in subparagraph (B)(ii), July 1, 1998); and
 
 &emsp;&emsp;&emsp;(ii) provides the Secretary with such information as the Secretary may require to review the mechanism and its implementation (or proposed implementation) under this subsection.
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) must notify the Secretary that the State has enacted any necessary legislation to provide for the implementation of a mechanism reasonably designed to be an acceptable alternative mechanism as of July 1, 1998; and
 
-&emsp;&emsp;&emsp;&emsp;(II) must provide the Secretary with such information as the Secretary may require to review the mechanism and its implementation (or proposed implementation) under this subsection.
+&emsp;&emsp;&emsp;&emsp;(II) must provide the Secretary with such information as the Secretary may require to review the mechanism and itsimplementation (or proposed implementation) under this subsection.
 
 #### (ii) States described
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(B) is a mechanism under which each eligible individual is provided a choice of all individual health insurance coverage otherwise available.
 
-(July 1, 1944, ch. 373, title XXVII, §2744, as added Pub. L. 104–191, title I, §111(a), Aug. 21, 1996, 110Stat. 1984; amended Pub. L. 104–204, title VI, §605(b)(1), Sept. 26, 1996, 110 Stat. 2942.)
+(July 1, 1944, ch. 373, title XXVII, §2744, as added Pub. L. 104–191, title I, §111(a), Aug. 21, 1996, 110 Stat. 1984; amended Pub. L. 104–204, title VI, §605(b)(1), Sept. 26, 1996, 110 Stat. 2942.)
 
 #### Codification
 

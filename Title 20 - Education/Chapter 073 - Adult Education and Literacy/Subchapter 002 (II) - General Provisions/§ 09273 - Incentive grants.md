@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Beginning on July 1, 2000, the Secretary shall award a grant to each State that exceeds the State adjusted levels of performance for title I \[29 U.S.C. 2801 et seq.\], the adjusted levels of performance for title II \[20 U.S.C. 9201 et seq.\], and the levels of performance for programs under Public Law 88–210 (as amended; 20 U.S.C. 2301 et seq.), for the purpose of carrying out an innovative program consistent with the requirements of any one or more of the programs within title I, title II, or such Public Law, respectively.
+Beginning on July 1, 2000, the Secretary shall award a grant to each State that exceeds the State adjusted levels of performance for title I \[29 U.S.C. 2801 et seq.\], the adjusted levels of performance for title II \[20 U.S.C. 9201 et seq.\], and the levels of performance for programs under Public Law 88–210 (as amended; 20 U.S.C. 2301 et seq.), for the purpose of carrying out an innovative program consistent with the requirementsof any one or more of the programs within title I, title II, or such Public Law, respectively.
 
 #### (b) Application
 
@@ -46,5 +46,5 @@ Public Law 88–210, referred to in subsecs. (a) and (b)(2)(B), (C), is Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2321, 9211 of this title.
+This section is referred to in sections 2321, 9211 of this title; title 29 sections 2801, 2821, 2871, 2919.
 

@@ -12,7 +12,7 @@ Whenever the International Trade Commission (hereafter referred to in this part 
 
 The report of the Secretary of the study under subsection (a) of this section shall be made to the President not later than 15 days after the day on which the Commission makes its report under section 2252(f) of this title. Upon making his report to the President, the Secretary shall also promptly make it public (with the exception of information which the Secretary determines to be confidential) and shall have a summary of it published in the Federal Register.
 
-(Pub. L. 93–618, title II, §224, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2513(a), Aug. 13, 1981, 95 Stat. 889; Pub. L. 100–418, title I, §1401(b)(1)(B), Aug. 23, 1988, 102 Stat. 1239.)
+(Pub. L. 93–618, title II, §224, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2513(a), Aug. 13,1981, 95 Stat. 889; Pub. L. 100–418, title I, §1401(b)(1)(B), Aug. 23, 1988, 102 Stat. 1239.)
 
 #### Termination of Section
 

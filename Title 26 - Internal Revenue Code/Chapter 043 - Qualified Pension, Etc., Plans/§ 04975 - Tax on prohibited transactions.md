@@ -24,7 +24,7 @@ In any case in which an initial tax is imposed by subsection (a) on a prohibited
 
 &emsp;&emsp;(E) act by a disqualified person who is a fiduciary whereby he deals with the income or assets of a plan in his own interests or for his own account; or
 
-&emsp;&emsp;(F) receipt of any consideration for his own personal account by any disqualifiedperson who is a fiduciary from any party dealing with the plan in connection with a transaction involving the income or assets of the plan.
+&emsp;&emsp;(F) receipt of any consideration for his own personal account by any disqualified person who is a fiduciary from any party dealing with the plan in connection with a transaction involving the income or assets of the plan.
 
 #### (2) Special exemption
 
@@ -36,7 +36,7 @@ In any case in which an initial tax is imposed by subsection (a) on a prohibited
 
 &emsp;&emsp;(C) protective of the rights of participants and beneficiaries of the plan.
 
-> &emsp;Before granting an exemption under this paragraph, the Secretary shall require adequate notice to be given to interested persons and shall publish notice in the Federal Register of the pendency of such exemption and shall afford interested persons an opportunity to present views. No exemption may be granted under this paragraph with respect to a transaction described in subparagraph (E) or (F) of paragraph (1) unless the Secretary affords an opportunity for a hearing and makes a determination on the record with respect to the findings required under subparagraphs (A), (B), and (C) of this paragraph, except that in lieu of such hearing the Secretary may accept any record made by the Secretary of Labor with respect to an application for exemption under section 408(a) of title I of the Employee Retirement Income Security Act of 1974.
+> &emsp;Before granting an exemption under this paragraph, the Secretary shall require adequate notice to be given to interested persons and shall publish notice in the Federal Register of the pendency of such exemption and shall afford interested persons an opportunity topresent views. No exemption may be granted under this paragraph with respect to a transaction described in subparagraph (E) or (F) of paragraph (1) unless the Secretary affords an opportunity for a hearing and makes a determination on the record with respect to the findings required under subparagraphs (A), (B), and (C) of this paragraph, except that in lieu of such hearing the Secretary may accept any record made by the Secretary of Labor with respect to an application for exemption under section 408(a) of title I of the Employee Retirement Income Security Act of 1974.
 
 #### (3) Special rule for individual retirement accounts
 
@@ -90,7 +90,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(A) such bank or similar financial institution has adopted adequate internal safeguards which assure that the provision of such ancillary service is consistent with sound banking and financial practice, as determined by Federal or State supervisory authority, and
 
-&emsp;&emsp;(B) the extent to which such ancillary service is provided is subject to specific guidelines issued by such bank or similar financial institution (as determined by the Secretary after consultation with Federal and State supervisory authority), and under such guidelines the bank or similar financial institution does not provide such ancillary service—
+&emsp;&emsp;(B) the extent to which such ancillary service is provided is subject to specificguidelines issued by such bank or similar financial institution (as determined by the Secretary after consultation with Federal and State supervisory authority), and under such guidelines the bank or similar financial institution does not provide such ancillary service—
 
 &emsp;&emsp;&emsp;(i) in an excessive or unreasonable manner, and
 
@@ -314,7 +314,7 @@ Before sending a notice of deficiency with respect to the tax imposed by subsect
 
 #### (i) Cross reference
 
-&emsp;&emsp;<b>For provisions concerning coordination procedures between Secretary of Labor and Secretary of the Treasury with respect to application of tax imposed by this section and for authority to waive imposition of the tax imposed by subsection (b), see section 3003 of the Employee Retirement Income Security Act of 1974.</b>
+&emsp;&emsp;<b>For provisions concerning coordination procedures between Secretary of Labor and Secretary of</b><b>the Treasury with respect to application of tax imposed by this section and for authority to waive imposition of the tax imposed by subsection (b), see section 3003 of the Employee Retirement Income Security Act of 1974.</b>
 
 (Added Pub. L. 93–406, title II, §2003(a), Sept. 2, 1974, 88 Stat. 971; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §141(f)(5), (6), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(C), (K), (L)(iv)(III), (v)(XI), Apr. 1, 1980, 94 Stat. 198–201; Pub. L. 96–364, title II, §§208(b), 209(b), Sept. 26, 1980, 94 Stat. 1289, 1290; Pub. L. 96–596, §2(a)(1)(K),(L), (2)(I), (3)(F), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 97–448, title III, §305(d)(5), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §491(d)(45), (46), (e)(7), (8), July 18, 1984, 98 Stat. 851–853; Pub. L. 99–514, title XI, §1114(b)(15)(A), title XVIII, §§1854(f)(3)(A), 1899A(51), Oct. 22, 1986, 100 Stat. 2452, 2882, 2961; Pub. L. 101–508, title XI, §11701(m), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 104–188, title I, §§1453(a), 1702(g)(3), Aug. 20, 1996, 110 Stat. 1817, 1873; Pub. L. 104–191, title III, §301(f), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–34, title II, §213(b), title X, §1074(a), title XV, §§1506(b)(1), 1530(c)(10), title XVI, §1602(a)(5), Aug. 5, 1997, 111 Stat. 816, 949, 1065, 1079, 1094; Pub. L. 105–206, title VI, §6023(19), July 22, 1998, 112 Stat. 825.)
 
@@ -436,7 +436,7 @@ Amendment by Pub. L. 97–448 effective on date of enactment of Subchapter S Rev
 
 #### Effective Date of 1980 Amendments
 
-For effective date of amendment by Pub. L. 96–596 with respect to any first tier tax and to any second tiertax, see section 2(d) of Pub. L. 96–596, set out as an Effective Date note under section 4961 of this title.
+For effective date of amendment by Pub. L. 96–596 with respect to any first tier tax and to any second tier tax, see section 2(d) of Pub. L. 96–596, set out as an Effective Date note under section 4961 of this title.
 
 Amendment by section 208(b) of Pub. L. 96–364 effective Sept. 26, 1980, see section 210(a) of Pub. L. 96–364, set out as an Effective Date note under section 418 of this title.
 

@@ -40,5 +40,5 @@ In subsection (b), the words “suitable space” are substituted for the words 
 
 #### Amendments
 
-1986—Subsecs. (b), (c). Pub. L. 99–661 redesignated subsec. (c) as (b) and struck out former subsec. (b) which directed the Secretary to assign suitable space for postal purposes at each military post where there was a post office.
+1986—Subsecs. (b), (c). Pub. L. 99–661 redesignated subsec. (c) as (b) and struck out former subsec. (b)which directed the Secretary to assign suitable space for postal purposes at each military post where there was a post office.
 

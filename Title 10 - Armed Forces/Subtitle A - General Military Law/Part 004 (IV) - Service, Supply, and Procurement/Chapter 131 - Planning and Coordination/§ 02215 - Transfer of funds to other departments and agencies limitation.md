@@ -10,9 +10,9 @@ Congressional Committees.—The committees referred to in subsection (a) are—
 
 &emsp;(1) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 
-&emsp;(2) the Committee on National Security and the Committee on Appropriations of the House of Representatives.
+&emsp;(2) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
 
-(Added Pub. L. 103–160, div. A, title XI, §1106(a)(1), Nov. 30, 1993, 107 Stat. 1750; amended Pub. L. 104–106, div. A, title XV, §1502(a)(14), Feb. 10, 1996, 110 Stat. 503.)
+(Added Pub. L. 103–160, div. A, title XI, §1106(a)(1), Nov. 30, 1993, 107 Stat. 1750; amended Pub. L. 104–106, div. A, title XV, §1502(a)(14), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Prior Provisions
 
@@ -22,11 +22,9 @@ Provisions similar to those in this section were contained in Pub. L. 101–189,
 
 #### Amendments
 
+1999—Subsec. (b)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+
 1996—Pub. L. 104–106 designated existing provisions as subsec. (a), inserted heading, substituted “to the congressional committees specified in subsection (b)” for “to the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives”, and added subsec. (b).
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Section Referred to in Other Sections
 

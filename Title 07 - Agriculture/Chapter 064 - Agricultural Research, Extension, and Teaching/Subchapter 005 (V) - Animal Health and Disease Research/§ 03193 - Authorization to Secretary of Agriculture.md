@@ -16,7 +16,7 @@ In order to carry out the purpose of this subchapter, the Secretary is authorize
 
 &emsp;(C) advance the well-being and treatment of farm animals, with particular emphasis on disease prevention strategies.
 
-(3) The study required by this subsection shall include recommendations for changes in research and extension policies or priorities, food safety programs and policies, and policies andprocedures governing the approval, use, and monitoring of animal drugs.
+(3) The study required by this subsection shall include recommendations for changes in research and extension policies or priorities, food safety programs and policies, and policies and procedures governing the approval, use, and monitoring of animal drugs.
 
 (Pub. L. 95–113, title XIV, §1431, Sept. 29, 1977, 91 Stat. 1002; Pub. L. 101–624, title XVI, §1611(a), Nov. 28, 1990, 104 Stat. 3720.)
 

@@ -80,7 +80,7 @@ For purposes of this part, there shall be allowed the following deductions:
 
 &emsp;&emsp;&emsp;For purposes of this subparagraph, in determining the portion of any dividend attributable to prorated amounts—
 
-&emsp;&emsp;&emsp;&emsp;(I) any dividend by the paying corporation shall be treated as paid first out ofearnings and profits for taxable years beginning after December 31, 1983, attributable to prorated amounts (to the extent thereof), and
+&emsp;&emsp;&emsp;&emsp;(I) any dividend by the paying corporation shall be treated as paid first out of earnings and profits for taxable years beginning after December 31, 1983, attributable to prorated amounts (to the extent thereof), and
 
 &emsp;&emsp;&emsp;&emsp;(II) by determining the portion of earnings and profits so attributable without any reduction for the tax imposed by this chapter.
 

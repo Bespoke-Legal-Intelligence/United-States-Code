@@ -36,7 +36,7 @@
 
 #### (b) Notification and information to Congress of assistance furnished
 
-(1) The authority contained in this section shall be effective for any such emergency only upon prior notification to the Committee on Foreign Affairs of the House of Representatives, the Committee on Foreign Relations of the Senate, and the Committee on Appropriations ofeach House of Congress. In the case of drawdowns authorized by subclauses (I) and (III) of subsection (a)(2)(A)(i) of this section, notifications shall be provided to those committees at least 15 days in advance of the drawdowns in accordance with the procedures applicable to reprogramming notifications under section 2394–1 of this title.
+(1) The authority contained in this section shall be effective for any such emergency only upon prior notification to the Committee on Foreign Affairs of the House of Representatives, the Committee on Foreign Relations of the Senate, and the Committee on Appropriations of each House of Congress. In the case of drawdowns authorized by subclauses (I) and (III) of subsection (a)(2)(A)(i) of this section, notifications shall be provided to those committees at least 15 days in advance of the drawdowns in accordance with the procedures applicable to reprogramming notifications under section 2394–1 of this title.
 
 (2) The President shall keep the Congress fully and currently informed of all defense articles, defense services, and military education and training provided under this section, including providing the Congress with a report detailing all defense articles, defense services, and military education and training delivered to the recipient country or international organization upon delivery of such articles or upon completion of such services or education and training. Such report shall also include whether any savings were realized by utilizing commercial transport services rather than acquiring those services from United States Government transport assets.
 
@@ -84,7 +84,7 @@ Subsec. (b)(1). Pub. L. 104–164, §103(b)(3), inserted at end “In the case o
 
 1980—Subsec. (a). Pub. L. 96–533 increased to $50,000,000 from $10,000,000 fiscal year limitation on aggregate value of assistance furnished.
 
-1979—Subsec. (a). Pub. L. 96–92 authorized military education and training assistance, substituted $10,000,000 fiscal year limitation on aggregate value of assistance furnished for $67,500,000 fiscal year limitation on total value of defense articles and defense services ordered, and eliminated requirement for determination that failure to respond immediately to the emergency would result in serious harm to vital United States security interests, deleted provision authorizing reimbursement from subsequent appropriations which is covered in subsec. (c), provision for effectiveness of authority only as provided in an appropriation Act, and requirement of information to Congress which is covered in subsec. (b)(2).
+1979—Subsec. (a). Pub. L. 96–92 authorized military education and training assistance, substituted$10,000,000 fiscal year limitation on aggregate value of assistance furnished for $67,500,000 fiscal year limitation on total value of defense articles and defense services ordered, and eliminated requirement for determination that failure to respond immediately to the emergency would result in serious harm to vital United States security interests, deleted provision authorizing reimbursement from subsequent appropriations which is covered in subsec. (c), provision for effectiveness of authority only as provided in an appropriation Act, and requirement of information to Congress which is covered in subsec. (b)(2).
 
 Subsec. (b). Pub. L. 96–92 required notification of Congressional Committees, reenacted former subsec. (a) provision for information to Congress respecting assistance furnished, included military education and training, and deleted authorization of Defense Department, in applicable appropriations, to incur obligations in anticipation of reimbursements, and authorization of appropriations for reimbursement purposes.
 
@@ -118,11 +118,11 @@ Subsec. (c). Pub. L. 96–92 incorporated reimbursement provision of former subs
 
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-#### Allocation of Funds
+#### Delegation of Functions
 
-Funds available to President for carrying out this subchapter, with specified exceptions, allocated to Secretary of Defense by section 1–801(b) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56678, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2360, 2370, 2392, 2411 of this title.
+This section is referred to in sections 287b, 287e–2, 2360, 2370, 2392, 2411 of this title.
 

@@ -57,6 +57,7 @@
 | [<b>1606.</b>](Part%20004%20%28IV%29%20-%20Training%20for%20Reserve%20Components%20and%20Educational%20Assistance%20Programs/Chapter%201606%20-%20Educational%20Assistance%20for%20Members%20of%20the%20Selected%20Reserve/README.md) | <b>Educational Assistance for Members of the Selected Reserve</b> | <b>16131</b> |
 | [<b>1608.</b>](Part%20004%20%28IV%29%20-%20Training%20for%20Reserve%20Components%20and%20Educational%20Assistance%20Programs/Chapter%201608%20-%20Health%20Professions%20Stipend%20Program/README.md) | <b>Health Professions Stipend Program</b> | <b>16201</b> |
 | [<b>1609.</b>](Part%20004%20%28IV%29%20-%20Training%20for%20Reserve%20Components%20and%20Educational%20Assistance%20Programs/Chapter%201609%20-%20Education%20Loan%20Repayment%20Programs/README.md) | <b>Education Loan Repayment Programs</b> | <b>16301</b> |
+| [<b>1611.</b>](Part%20004%20%28IV%29%20-%20Training%20for%20Reserve%20Components%20and%20Educational%20Assistance%20Programs/Chapter%201611%20-%20Other%20Educational%20Assistance%20Programs/README.md) | <b>Other Educational Assistance Programs</b> | <b>16401</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -71,6 +72,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title V, §551(a)(2), Oct. 5, 1999, 113 Stat. 614, added item for chapter 1611.
 
 1997—Pub. L. 105–85, div. A, title V, §515(b), Nov. 18, 1997, 111 Stat. 1733, substituted “12551” for “\[No present sections\]” in item for chapter 1215.
 

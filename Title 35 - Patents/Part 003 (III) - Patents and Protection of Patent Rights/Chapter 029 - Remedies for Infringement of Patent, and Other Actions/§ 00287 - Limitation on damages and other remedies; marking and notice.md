@@ -8,7 +8,7 @@
 
 &emsp;(B) owns or controls, or is owned or controlled by, the person who practiced the patented process; or
 
-&emsp;(C) had knowledge before the infringement that a patented process was used to make the product the importation, use, offer for sale, or sale of which constitutes the infringement.
+&emsp;(C) had knowledge before the infringement that a patented process was used to make theproduct the importation, use, offer for sale, or sale of which constitutes the infringement.
 
 (2) No remedies for infringement under section 271(g) of this title shall be available with respect to any product in the possession of, or in transit to, the person subject to liability under such section before that person had notice of infringement with respect to that product. The person subject to liability shall bear the burden of proving any such possession or transit.
 
@@ -28,7 +28,7 @@
 
 &emsp;(iii) the submission of the response by the defendant to the manufacturer, or if the manufacturer is not known, to the supplier, of the product to be purchased by the defendant, together with a request for a written statement that the process claimed in any patent disclosed in the response is not used to produce such product.
 
-> The failure to perform any acts described in the preceding sentence is evidence of absence of good faith unless there are mitigating circumstances. Mitigating circumstances include the case in which, due to the nature of the product,the number of sources for the product, or like commercial circumstances, a request for disclosure is not necessary or practicable to avoid infringement.
+> The failure to perform any acts described in the preceding sentence is evidence of absence of good faith unless there are mitigating circumstances. Mitigating circumstances include the case in which, due to the nature of the product, the number of sources for the product, or like commercial circumstances, a request for disclosure is not necessary or practicable to avoid infringement.
 
 (4)(A) For purposes of this subsection, a “request for disclosure” means a written request made to a person then engaged in the manufacture of a product to identify all process patents owned by or licensed to that person, as of the time of the request, that the person then reasonably believes could be asserted to be infringed under section 271(g) if that product were imported into, or sold, offered for sale, or used in, the United States by an unauthorized person. A request for disclosure is further limited to a request—
 
@@ -80,9 +80,9 @@
 
 &emsp;(B) regulated under the Federal Food, Drug, and Cosmetic Act, the Public Health Service Act, or the Clinical Laboratories Improvement Act.
 
-(4) This subsection shall not apply to any patent issued before the date of enactment of this subsection.
+(4) This subsection shall not apply to any patent issued based on an application the earliest effective filing date of which is prior to September 30, 1996.
 
-(July 19, 1952, ch. 950, 66 Stat. 813; Pub. L. 100–418, title IX, §9004(a), Aug. 23, 1988, 102 Stat. 1564; Pub. L. 103–465, title V, §533(b)(5), Dec. 8, 1994, 108 Stat. 4989; Pub. L. 104–208, div. A, title I, §101(a) \[title VI, §616\], Sept. 30, 1996, 110 Stat. 3009, 3009–67.)
+(July 19, 1952, ch. 950, 66 Stat. 813; Pub. L. 100–418, title IX, §9004(a), Aug. 23, 1988, 102 Stat. 1564; Pub. L. 103–465, title V, §533(b)(5), Dec. 8, 1994, 108 Stat. 4989; Pub. L. 104–208, div. A, title I, §101(a) \[title VI, §616\], Sept. 30, 1996, 110 Stat. 3009, 3009–67; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4803\], Nov. 29, 1999, 113 Stat. 1536, 1501A–589.)
 
 #### Historical and Revision Notes
 
@@ -104,9 +104,9 @@ The Public Health Service Act, referred to in subsec. (c)(3)(B), is act July 1, 
 
 The Clinical Laboratories Improvement Act, referred to in subsec. (c)(3)(B), probably means the Clinical Laboratories Improvement Act of 1967, section 5 of Pub. L. 90–174, Dec. 5, 1967, 81 Stat. 536, which enacted section 263a of Title 42 and enacted provisions set out as notes under section 263a of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 263a of Title 42 and Tables.
 
-The date of enactment of this subsection, referred to in subsec. (c)(4), is the date of enactment of Pub. L. 104–208, which enacted subsec. (c) and which was approved Sept. 30, 1996.
-
 #### Amendments
+
+1999—Subsec. (c)(4). Pub. L. 106–113 substituted “based on an application the earliest effective filing date ofwhich is prior to September 30, 1996” for “before the date of enactment of this subsection”.
 
 1996—Subsec. (c). Pub. L. 104–208 added subsec. (c).
 

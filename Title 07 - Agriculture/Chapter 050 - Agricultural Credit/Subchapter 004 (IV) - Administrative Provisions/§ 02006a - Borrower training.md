@@ -8,7 +8,7 @@ The Secretary shall enter into contracts to provide educational training to all 
 
 #### (1) In general
 
-&emsp;The Secretary may contract with State or private providers of farm management and credit counseling services (including a community college, the extension service of a State, a State department of agriculture, or a nonprofit organization) to carry out this section.
+&emsp;The Secretary may contract with State or private providers of farm management andcredit counseling services (including a community college, the extension service of a State, a State department of agriculture, or a nonprofit organization) to carry out this section.
 
 #### (2) Consultation
 
@@ -36,7 +36,7 @@ A borrower shall pay for training received under this section, and may use funds
 
 The Secretary may waive the requirements of this section for an individual borrower on a determination by the county committee that the borrower demonstrates adequate knowledge in areas described in this section.
 
-(Pub. L. 87–128, title III, §359, as added Pub. L. 101–624, title XVIII, §1818(a), Nov. 28, 1990, 104 Stat. 3829; amended Pub. L. 105–277, div. A, title I, §101(a) \[title VIII, §805(3)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39.)
+(Pub. L. 87–128, title III, §359, as added Pub. L. 101–624, title XVIII, §1818(a), Nov. 28, 1990, 104 Stat. 3829; amended Pub. L. 105–277, div. A, §101(a) \[title VIII, §805(3)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39.)
 
 #### References in Text
 

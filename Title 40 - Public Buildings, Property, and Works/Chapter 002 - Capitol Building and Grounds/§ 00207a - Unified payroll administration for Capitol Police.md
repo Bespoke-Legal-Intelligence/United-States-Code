@@ -76,3 +76,7 @@ Treatment as Pay.—A lump-sum payment under this title shall be considered to b
 
 Clarification.—For purposes of this title, the terms ‘officer’ and ‘member’ may not be construed to include any civilian employee.”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 136, 174b–1, 184a, 193h, 193i, 193<i>l</i>, 193m of this title.
+

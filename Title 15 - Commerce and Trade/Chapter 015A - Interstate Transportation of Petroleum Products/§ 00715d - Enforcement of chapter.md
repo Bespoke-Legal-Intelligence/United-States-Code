@@ -6,7 +6,7 @@ The President shall prescribe such regulations as he finds necessary or appropri
 
 #### (b) Certificate of clearance for petroleum and petroleum products
 
-Whenever the President finds it necessary or appropriate for the enforcement of the provisions of this chapter he shall require certificates of clearance for petroleum and petroleum products moving or to be moved in interstate commerce from any particular area, and shall establish a board or boards for the issuance of such certificates. A certificate of clearance shall be issued by a board so established in any case where such board determines that the petroleum or petroleum products in question does not constitute contraband oil. Denial of any such certificate shall be by order of the board, and only after reasonable opportunity for hearing. Whenever a certificate of clearance is required for any area in any State, it shall be unlawful to ship ortransport petroleum or petroleum products in interstate commerce from such area unless a certificate has been obtained therefor.
+Whenever the President finds it necessary or appropriate for the enforcement of the provisions of this chapter he shall require certificates of clearance for petroleum and petroleum products moving or to be moved in interstate commerce from any particular area, and shall establish a board or boards for the issuance of such certificates. A certificate of clearance shall be issued by a board so established in any case where such board determines that the petroleum or petroleum products in question does not constitute contraband oil. Denial of any such certificate shall be by order of the board, and only after reasonable opportunity for hearing. Whenever a certificate of clearance is required for any area in any State, it shall be unlawful to ship or transport petroleum or petroleum products in interstate commerce from such area unless a certificate has been obtained therefor.
 
 #### (c) Review of order of denial of certificate of clearance
 
@@ -16,7 +16,7 @@ Any person whose application for a certificate of clearance is denied may obtain
 
 #### Codification
 
-In subsec. (c), “sections 1254, 1291, and 1292 of title 28” substituted for “sections 128 and 240 of the Judicial Code, as amended \[28 U.S.C. 225 and 347\]” on authority of act June 25, 1948, ch. 646, 62 Stat. 869, the first section of which enacted Title 28, Judiciary and Judicial Procedure.
+In subsec. (c), “sections 1254, 1291, and 1292 of title 28” substituted for “sections 128 and 240 of the JudicialCode, as amended \[28 U.S.C. 225 and 347\]” on authority of act June 25, 1948, ch. 646, 62 Stat. 869, the first section of which enacted Title 28, Judiciary and Judicial Procedure.
 
 #### Federal Rules of Civil Procedure
 

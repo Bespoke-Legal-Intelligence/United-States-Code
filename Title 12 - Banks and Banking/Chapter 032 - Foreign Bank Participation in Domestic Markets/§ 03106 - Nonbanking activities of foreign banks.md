@@ -2,7 +2,7 @@
 
 #### (a) Applicability of Bank Holding Company Acts
 
-Except as otherwise provided in this section (1) any foreign bank that maintains a branch oragency in a State, (2) any foreign bank or foreign company controlling a foreign bank that controls a commercial lending company organized under State law, and (3) any company of which any foreign bank or company referred to in (1) and (2) is a subsidiary shall be subject to the provisions of the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], and to section 1850 of this title and chapter 22 of this title in the same manner and to the same extent that bank holding companies are subject to such provisions.
+Except as otherwise provided in this section (1) any foreign bank that maintains a branch or agency in a State, (2) any foreign bank or foreign company controlling a foreign bank that controls a commercial lending company organized under State law, and (3) any company of which any foreign bank or company referred to in (1) and (2) is a subsidiary shall be subject to the provisions of the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], and to section 1850 of this title and chapter 22 of this title in the same manner and to the same extent that bank holding companies are subject to such provisions.
 
 #### (b) Ownership or control of shares of nonbanking companies for certain period
 
@@ -14,11 +14,23 @@ Until December 31, 1985, a foreign bank or other company to which subsection (a)
 
 (2) The authority conferred by this subsection on a foreign bank or other company shall terminate 2 years after the date on which such foreign bank or other company becomes a “bank holding company” as defined in section 2(a) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(a)); except that the Board may, upon application of such foreign bank or other company, extend the 2-year period for not more than one year at a time, if, in its judgment, such an extension would not be detrimental to the public interest, but no such extensions shall exceed 3 years in the aggregate.
 
+(3)
+
+Termination of grandfathered rights.—
+
+&emsp;(A)
+
+In general.—If any foreign bank or foreign company files a declaration under section 4(<i>l</i>)(1)(C) of the Bank Holding Company Act of 1956 \[12 U.S.C. 1843(<i>l</i>)(1)(C)\], any authority conferred by this subsection on any foreign bank or company to engage in any activity that the Board has determined to be permissible for financial holding companies under section 4(k) of such Act \[12 U.S.C. 1843(k)\] shall terminate immediately.
+
+&emsp;(B)
+
+Restrictions and requirements authorized.—If a foreign bank or company that engages, directly or through an affiliate pursuant to paragraph (1), in an activity that the Board has determined to be permissible for financial holding companies under section 4(k) of the Bank Holding Company Act of 1956 \[12 U.S.C. 1843(k)\] has not filed a declaration with the Board of its status as a financial holding company under such section by the end of the2-year period beginning on November 12, 1999, the Board, giving due regard to the principle of national treatment and equality of competitive opportunity, may impose such restrictions and requirements on the conduct of such activities by such foreign bank or company as are comparable to those imposed on a financial holding company organized under the laws of the United States, including a requirement to conduct such activities in compliance with any prudential safeguards established under section 1828a of this title.
+
 #### (d) Construction of terms
 
-Nothing in this section shall be construed to define a branch or agency of a foreign bank or a commercial lending company controlled by a foreign bank or foreign company that controls a foreign bank as a “bank” for the purposes of any provisions of the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], or section 1850 of thistitle, except that any such branch, agency or commercial lending company subsidiary shall be deemed a “bank” or “banking subsidiary”, as the case may be, for the purposes of applying the prohibitions of chapter 22 of this title and the exemptions provided in sections 4(c)(1), 4(c)(2), 4(c)(3), and 4(c)(4) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(c)(1), (2), (3), and (4)) to any foreign bank or other company to which subsection (a) of this section applies.
+Nothing in this section shall be construed to define a branch or agency of a foreign bank or a commercial lending company controlled by a foreign bank or foreign company that controls a foreign bank as a “bank” for the purposes of any provisions of the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], or section 1850 of this title, except that any such branch, agency or commercial lending company subsidiary shall be deemed a “bank” or “banking subsidiary”, as the case may be, for the purposes of applying the prohibitions of chapter 22 of this title and the exemptions provided in sections 4(c)(1), 4(c)(2), 4(c)(3), and 4(c)(4) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(c)(1), (2), (3), and (4)) to any foreign bank or other company to which subsection (a) of this section applies.
 
-(Pub. L. 95–369, §8(a)–(d), Sept. 17, 1978, 92 Stat. 622, 623; Pub. L. 97–320, title VII, §§704, 705, Oct. 15, 1982, 96 Stat. 1539; Pub. L. 100–86, title II, §204, Aug. 10, 1987, 101 Stat. 584; Pub. L. 102–242, title II, §207, Dec. 19, 1991, 105 Stat. 2295.)
+(Pub. L. 95–369, §8(a)–(d), Sept. 17, 1978, 92 Stat. 622, 623; Pub. L. 97–320, title VII, §§704, 705, Oct. 15, 1982, 96 Stat. 1539; Pub. L. 100–86, title II, §204, Aug. 10, 1987, 101 Stat. 584; Pub. L. 102–242, title II, §207, Dec. 19, 1991, 105 Stat. 2295; Pub. L. 106–102, title I, §141, Nov. 12, 1999, 113 Stat. 1383.)
 
 #### References in Text
 
@@ -27,6 +39,8 @@ The Bank Holding Company Act of 1956, referred to in subsecs. (a), (c), and (d),
 For definition of “this chapter”, referred to in subsec. (c), see References in Text note set out under section 3101 of this title.
 
 #### Amendments
+
+1999—Subsec. (c)(3). Pub. L. 106–102 added par. (3).
 
 1991—Subsec. (a). Pub. L. 102–242 substituted “to such provisions” for “thereto, except that any such foreign bank or company shall not by reason of this subsection be deemed a bank holding company for purposes of section 3 of the Bank Holding Company Act of 1956”.
 
@@ -38,7 +52,11 @@ Pub. L. 97–320, §705(a), substituted provision that the term “domestically-
 
 Pub. L. 97–320, §705(b), substituted “since July 26, 1978, has engaged” for “engages” before “in the business of underwriting”, and inserted “, notwithstanding that such affiliate acquired after July 26, 1978, an interest in, or any or all of the assets of, a going concern, or commences to engage in any new activity or activities” after “and other securities in the United States”.
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as a note under section 24 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1818 of this title.
+This section is referred to in section 1818 of this title; title 15 section 78q.
 

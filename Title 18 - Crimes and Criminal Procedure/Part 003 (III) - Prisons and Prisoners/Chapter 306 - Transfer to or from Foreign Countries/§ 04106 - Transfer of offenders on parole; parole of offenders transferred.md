@@ -12,7 +12,7 @@
 
 #### References in Text
 
-Sections 4201 through 4204; 4205(d), (e), and (h); 4206 through 4215; and 4218 of this title, referred to in subsec. (b), were repealed effective Nov. 1, 1987, by Pub. L. 98–473, title II, §§218(a)(5), 235(a)(1), (b)(1), Oct. 12, 1984, 98 Stat. 2027, 2031, 2032, subject to remaining effective for five years after Nov. 1, 1987, in certain circumstances.
+Sections 4201 through 4204; 4205(d), (e), and (h); 4206 through 4215; and 4218 of this title, referred to in subsec. (b), were repealed effective Nov. 1, 1987, by Pub. L.98–473, title II, §§218(a)(5), 235(a)(1), (b)(1), Oct. 12, 1984, 98 Stat. 2027, 2031, 2032, subject to remaining effective for five years after Nov. 1, 1987, in certain circumstances.
 
 Section 235 of the Comprehensive Crime Control Act of 1984, referred to in subsec. (d), is set out as an Effective Date note under section 3551 of this title.
 
@@ -24,7 +24,7 @@ Section 235 of the Comprehensive Crime Control Act of 1984, referred to in subse
 
 “(a) Upon the receipt of an offender who is on parole from the authorities of a foreign country, the Attorney General shall assign the offender to the United States Probation System for supervision.
 
-“(b) An offender transferred to the United States to serve a sentence of imprisonment shall be released pursuant to section 3624(a) of this title after serving the period of time specified in the applicable sentencing guideline promulgated pursuant to 28 U.S.C. 994(a)(1).He shall be released to serve a term of supervised release for any term specified in the applicable guideline. The provisions of section 3742 of this title apply to a sentence to a term of imprisonment under this subsection, and the United States court of appeals for the district in which the offender is imprisoned after transfer to the United States has jurisdiction to review the period of imprisonment as though it had been imposed by the United States district court.”
+“(b) An offender transferred to the United States to serve a sentence of imprisonment shall be released pursuant to section 3624(a) of this title after serving the period of time specified in the applicable sentencing guideline promulgated pursuant to 28 U.S.C. 994(a)(1). He shall be released to serve a term of supervised release for any term specified in the applicable guideline. The provisions of section 3742 of this title apply to a sentence to a term of imprisonment under this subsection, and the United States court of appeals for the district in which the offender is imprisoned after transfer to the United States has jurisdiction to review the period of imprisonment as though it had been imposed by the United States district court.”
 
 1984—Subsec. (a). Pub. L. 98–473 substituted “Probation System” for “Parole Commission”.
 

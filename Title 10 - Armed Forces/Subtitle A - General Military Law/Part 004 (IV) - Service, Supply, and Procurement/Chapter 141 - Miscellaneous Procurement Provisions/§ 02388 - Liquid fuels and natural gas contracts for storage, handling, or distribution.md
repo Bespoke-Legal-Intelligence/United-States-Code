@@ -72,7 +72,7 @@ Subsec. (c). Pub. L. 103–160, §825(a)(2), inserted heading.
 
 Pub. L. 97–258, §3(b)(6), directed the substitution of “section 3324(a) and (b) of title 31” for “section 529 of title 31”, which could not be executed in view of prior substitution of language by Pub. L. 97–214.
 
-Pub. L. 97–214, §10(a)(3), substituted “section 3648 of the Revised Statutes (31 U.S.C. 529)” for “section4774(d) or 9774(d) of this title, section 529 of title 31, or section 259 or 267 of title 40,”.
+Pub. L. 97–214, §10(a)(3), substituted “section 3648 of the Revised Statutes (31 U.S.C. 529)” for “section 4774(d) or 9774(d) of this title, section 529 of title 31, or section 259 or 267 of title 40,”.
 
 #### Effective Date of 1982 Amendment
 

@@ -12,7 +12,7 @@
 
 &emsp;(II) the alien is a person whose removal, in the opinion of the Attorney General, would result in extreme hardship to the alien or a child of the alien.
 
-(iv) An alien who is the child of a citizen of the United States, who is a person of good moral character, who is eligible to be classified as an immediate relative under section 1151(b)(2)(A)(i) of this title, and who has resided in the United States with the citizen parent may file a petition with the Attorney General under this subparagraph for classification of the alien under such section if the alien demonstrates to the Attorney General that—
+(iv) An alien who is the child of a citizen of the United States, who is a person of good moralcharacter, who is eligible to be classified as an immediate relative under section 1151(b)(2)(A)(i) of this title, and who has resided in the United States with the citizen parent may file a petition with the Attorney General under this subparagraph for classification of the alien under such section if the alien demonstrates to the Attorney General that—
 
 &emsp;(I) the alien is residing in the United States and during the period of residence with the citizen parent the alien has been battered by or has been the subject of extreme cruelty perpetrated by the alien's citizen parent; and
 
@@ -56,7 +56,7 @@
 
 &emsp;(ii) the alien establishes to the satisfaction of the Attorney General by clear and convincing evidence that the prior marriage (on the basis of which the alien obtained the status of an alien lawfully admitted for permanent residence) was not entered into for the purpose of evading any provision of the immigration laws.
 
-> In this subparagraph, the term “spousal second preference petition” refers to a petition, seeking preference status under section 1153(a)(2) of this title, for an alien as a spouse of an alien lawfully admitted for permanent residence.
+> In this subparagraph, the term “spousal second preference petition” refers to a petition, seekingpreference status under section 1153(a)(2) of this title, for an alien as a spouse of an alien lawfully admitted for permanent residence.
 
 (B) Subparagraph (A) shall not apply to a petition filed for the classification of the spouse of an alien if the prior marriage of the alien was terminated by the death of his or her spouse.
 
@@ -108,7 +108,7 @@ Notwithstanding subsection (a) of this section, except as provided in section 12
 
 #### (h) Survival of rights to petition
 
-The legal termination of a marriage may not be the sole basis for revocation under section 1155 of this title of a petition filed under subsection (a)(1)(A)(iii) of this section or a petition filed under subsection (a)(1)(B)(ii) of this sectionpursuant to conditions described in subsection (a)(1)(A)(iii)(I) of this section.
+The legal termination of a marriage may not be the sole basis for revocation under section 1155 of this title of a petition filed under subsection (a)(1)(A)(iii) of this section or a petition filed under subsection (a)(1)(B)(ii) of this section pursuant to conditions described in subsection (a)(1)(A)(iii)(I) of this section.
 
 #### (i) Professional athletes
 
@@ -154,7 +154,7 @@ Subsec. (f)(4)(A)(ii)(II). Pub. L. 102–232, §309(b)(5), substituted “the se
 
 Subsec. (g). Pub. L. 102–232, §308(b), made technical correction to directory language of Pub. L. 101–649, §702(b). See 1990 Amendment note below.
 
-1990—Subsec. (a)(1). Pub. L. 101–649, §162(b)(1), added par. (1) and struck out former par. (1) which read as follows: “Any citizen of the United States claiming that an alien is entitled to a preference status by reason of a relationship described in paragraph (1), (4), or (5) of section 1153(a) of this title, or to an immediate relative status under section 1151(b) of this title, or any alien lawfully admitted for permanent residence claiming that an alien is entitled to a preference status by reason of the relationship described in section 1153(a)(2) of this title, or any alien desiring to be classified as a preference immigrant under section 1153(a)(3) of this title (or any person on behalf of such an alien), or any person desiring and intending to employ within the United States an alien entitled to classification as a preference immigrant under section 1153(a)(6) of this title, may file a petition with the Attorney General for such classification. The petition shall be in such form as the Attorney General may by regulations prescribe and shall contain such information and be supported by such documentary evidence as the Attorney General may require. The petition shall be made under oath administered by any individual having authority to administer oaths, if executed in the United States, but, if executed outside the United States, administered by a consular officer or an immigration officer.”
+1990—Subsec. (a)(1). Pub. L. 101–649, §162(b)(1), added par. (1) and struck out former par. (1) which read as follows: “Any citizen of the United States claiming that an alien is entitled to a preference status by reason of a relationship described in paragraph (1), (4), or (5) of section 1153(a) of this title, or to an immediate relative status under section 1151(b) of this title, or any alien lawfully admitted for permanent residence claiming that an alien is entitled to a preference status by reason of the relationship described in section 1153(a)(2) ofthis title, or any alien desiring to be classified as a preference immigrant under section 1153(a)(3) of this title (or any person on behalf of such an alien), or any person desiring and intending to employ within the United States an alien entitled to classification as a preference immigrant under section 1153(a)(6) of this title, may file a petition with the Attorney General for such classification. The petition shall be in such form as the Attorney General may by regulations prescribe and shall contain such information and be supported by such documentary evidence as the Attorney General may require. The petition shall be made under oath administered by any individual having authority to administer oaths, if executed in the United States, but, if executed outside the United States, administered by a consular officer or an immigration officer.”
 
 Subsec. (b). Pub. L. 101–649, §162(b)(2), substituted reference to section 1153(b)(2) or 1153(b)(3) of this title for reference to section 1153(a)(3) or (6) of this title, and reference to preference under section 1153(a) or (b) of this title for reference to a preference status under section 1153(a) of this title.
 
@@ -224,7 +224,7 @@ Amendment by sections 302(e)(4), (5) and 308(b) of Pub. L. 102–232 effective a
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 162(b) of Pub. L. 101–649 effective Nov. 29, 1990, but only insofar as section 162(b) relates to visas for fiscal years beginning with fiscal year 1992, with general transition provisions, see section 161(b), (c) of Pub. L. 101–649, set out as a note under section 1101 of this title.
+Amendment by section 162(b) of Pub. L. 101–649 effective Nov. 29, 1990, but only insofar as section 162(b) relates to visas for fiscal years beginning with fiscal year 1992, with general transition provisions, see section161(b), (c) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
 Section 702(c) of Pub. L. 101–649 provided that: “The amendments made by this section \[amending sections 1154 and 1255 of this title\] shall apply to marriages entered into before, on, or after the date of the enactment of this Act \[Nov. 29, 1990\].”
 

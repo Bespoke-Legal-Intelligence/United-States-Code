@@ -38,7 +38,7 @@
 
 > the Secretary shall prescribe a schedule of parking fees to be charged at all parking facilities used in connection with such medical facility.
 
-(2) The parking fee schedule prescribed for a medical facility referred to in paragraph (1) of this subsection shall be designed to establish fees which the Secretary determines are reasonable under the circumstances.
+(2) The parking fee schedule prescribed for a medical facility referred to in paragraph (1) of this subsection shall be designed to establishfees which the Secretary determines are reasonable under the circumstances.
 
 (e) The Secretary may prescribe a schedule of parking fees for the parking facilities at any medical facility not referred to in subsection (d) of this section. Any such schedule shall be designed to establish fees which the Secretary determines to be reasonable under the circumstances and shall cover all parking facilities used in connection with such medical facility.
 

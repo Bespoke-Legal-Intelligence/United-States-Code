@@ -2,7 +2,7 @@
 
 The Congress makes the following findings and declarations:
 
-(1) Many of the drugs included within this subchapter have a useful and legitimate medical purpose and are necessary to maintain thehealth and general welfare of the American people.
+(1) Many of the drugs included within this subchapter have a useful and legitimate medical purpose and are necessary to maintain the health and general welfare of the American people.
 
 (2) The illegal importation, manufacture, distribution, and possession and improper use of controlled substances have a substantial and detrimental effect on the health and general welfare of the American people.
 
@@ -100,7 +100,7 @@ Pub. L. 98–473, title II, §506(a), Oct. 12, 1984, 98 Stat. 2070, provided tha
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–633, §1, Nov. 10, 1978, 92 Stat. 3768, provided: “That this Act \[enacting sections 801a, 830, and 852 of this title, amending sections 352, 802, 811, 812, 823, 827, 841 to 843, 872, 881, 952, 953, and 965 of this title and section 242a of Title 42, The Public Health and Welfare, repealing section 830 of this title (effective Jan. 1, 1981), and enacting provisions set out as notes under sections 801a, 812, and 830 of this title\] may be cited as the ‘Psychotropic Substances Act of 1978’.”
+Pub. L. 95–633, §1, Nov. 10, 1978, 92 Stat. 3768, provided: “That this Act \[enacting sections 801a, 830, and 852 ofthis title, amending sections 352, 802, 811, 812, 823, 827, 841 to 843, 872, 881, 952, 953, and 965 of this title and section 242a of Title 42, The Public Health and Welfare, repealing section 830 of this title (effective Jan. 1, 1981), and enacting provisions set out as notes under sections 801a, 812, and 830 of this title\] may be cited as the ‘Psychotropic Substances Act of 1978’.”
 
 #### Short Title of 1974 Amendment
 
@@ -192,7 +192,7 @@ In General.—The Attorney General shall establish a ‘Suspicious Orders Task F
 
 “(b)
 
-Responsibilities.—The Task Force shall be responsible for developing proposals to define suspicious orders of listed chemicals, and particularly to develop quantifiable parameters which can be used by registrants in determining if an order is a suspicious order which must be reported to DEA. The quantifiable parameters to be addressed will include frequency of orders, deviations from prior orders, and size of orders. The Task Force shall also recommend provisions as to what types of payment practices or unusual business practices shall constitute prima facie suspicious orders. In evaluating the proposals, the Task Force shall consider effectiveness, cost and feasibility for industry and government, and other relevant factors.
+Responsibilities.—The Task Force shall be responsible for developing proposals to define suspicious orders of listed chemicals, and particularly to develop quantifiable parameters which can be used by registrants in determining if an order is a suspicious orderwhich must be reported to DEA. The quantifiable parameters to be addressed will include frequency of orders, deviations from prior orders, and size of orders. The Task Force shall also recommend provisions as to what types of payment practices or unusual business practices shall constitute prima facie suspicious orders. In evaluating the proposals, the Task Force shall consider effectiveness, cost and feasibility for industry and government, and other relevant factors.
 
 “(c)
 
@@ -286,7 +286,7 @@ Pub. L. 100–180, div. A, title XII, §1241, Dec. 4, 1987, 101 Stat. 1162, dire
 
 #### Compliance With Budget Act
 
-Pub. L. 99–570, §3, Oct. 27, 1986, 100 Stat. 3207–1, provided that: “Notwithstanding any other provision of this Act \[see Tables for classification\], any spending authority and any credit authority provided under this Act shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts. For purposes of this Act, the term ‘spending authority’ has the meaning provided in section 401(c)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)\] and the term ‘credit authority’ has the meaning provided in section 3(10) of the Congresssional \[sic\] Budget Act of 1974 \[2 U.S.C. 622(10)\].”
+Pub. L. 99–570, §3, Oct. 27, 1986, 100 Stat. 3207–1, provided that: “Notwithstanding any other provision of this Act \[see Tables for classification\], any spending authority and any credit authority provided under thisAct shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts. For purposes of this Act, the term ‘spending authority’ has the meaning provided in section 401(c)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)\] and the term ‘credit authority’ has the meaning provided in section 3(10) of the Congresssional \[sic\] Budget Act of 1974 \[2 U.S.C. 622(10)\].”
 
 #### Drug Interdiction
 
@@ -362,7 +362,7 @@ Amounts authorized.—There are authorized to be appropriated, in addition to an
 
 Coast guard-bahamas drug interdiction docking facility.—(A) There is authorized to be appropriated for acquisition, construction, and improvements for the Coast Guard for fiscal year 1987, $5,000,000, to be used for initial design engineering, and other activities for construction of a drug interdiction docking facility in the Bahamas to facilitate Coast Guard and Bahamian drug interdiction operations in and through the Bahama Islands. Of the amounts authorized to be appropriated in this subsection, such sums as may be necessary shall be available for necessary communication and air support.
 
-&emsp;“(B) The Commandant of the Coast Guard shall use such amounts appropriated pursuant to the authorization in this paragraph as may be necessary to establish a repair, maintenance, and boat lift facility to provide repair and maintenance services for both Coast Guard and Bahamian marine drug interdiction equipment, vessels, and related assets.
+&emsp;“(B) The Commandant of the Coast Guard shall use such amounts appropriated pursuant to the authorization in this paragraph as may be necessary to establish a repair, maintenance, and boat lift facility to provide repair and maintenance services for bothCoast Guard and Bahamian marine drug interdiction equipment, vessels, and related assets.
 
 “(b)
 
@@ -484,7 +484,7 @@ Ex. Ord. No. 11676, July 27, 1972, 37 F.R. 15125, which established the Office o
 
 Ex. Ord. No. 11727, July 6, 1973, 38 F.R. 18357, provided:
 
-Reorganization Plan No. 2 of 1973 \[set out in the Appendix to Title 5, Government Organization and Employees\], which becomes effective on July 1, 1973,among other things establishes a Drug Enforcement Administration in the Department of Justice. In my message to the Congress transmitting that plan, I stated that all functions of the Office for Drug Abuse Law Enforcement (established pursuant to Executive Order No. 11641 of January 28, 1972) and the Office of National Narcotics Intelligence (established pursuant to Executive Order No. 11676 of July 27, 1972) would, together with other related functions, be merged in the new Drug Enforcement Administration.
+Reorganization Plan No. 2 of 1973 \[set out in the Appendix to Title 5, Government Organization and Employees\], which becomes effective on July 1, 1973, among other things establishes a Drug Enforcement Administration in the Department of Justice. In my message to the Congress transmitting that plan, I stated that all functions of the Office for Drug Abuse Law Enforcement (established pursuant to Executive Order No. 11641 of January 28, 1972) and the Office of National Narcotics Intelligence (established pursuant to Executive Order No. 11676 of July 27, 1972) would, together with other related functions, be merged in the new Drug Enforcement Administration.
 
 NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and laws of the United States, including section 5317 of title 5 of the United States Code, as amended, it is hereby ordered as follows:
 

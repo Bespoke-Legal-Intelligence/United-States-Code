@@ -16,7 +16,7 @@ The Secretary may not make a grant under section 300ff–41 of this title unless
 
 &emsp;&emsp;(C) early intervention services under the grant will be provided in settings accessible to low-income individuals with HIV disease; and
 
-&emsp;&emsp;(D) outreach to low-income individuals with HIV disease will be provided to informsuch individuals of the services available pursuant to the grant.
+&emsp;&emsp;(D) outreach to low-income individuals with HIV disease will be provided to inform such individuals of the services available pursuant to the grant.
 
 (July 1, 1944, ch. 373, title XXVI, §2649A, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 605.)
 

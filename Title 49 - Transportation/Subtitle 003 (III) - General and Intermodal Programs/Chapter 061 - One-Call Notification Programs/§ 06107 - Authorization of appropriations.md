@@ -10,7 +10,7 @@ For Administration.—There are authorized to be appropriated to the Secretary s
 
 (c)
 
-General Revenue Funding.—Any sums appropriated under this section shall be derived from general revenues and may not be derivedfrom amounts collected under section 60301 of this title.
+General Revenue Funding.—Any sums appropriated under this section shall be derived from general revenues and may not be derived from amounts collected under section 60301 of this title.
 
 (Added Pub. L. 105–178, title VII, §7302(a), June 9, 1998, 112 Stat. 482.)
 

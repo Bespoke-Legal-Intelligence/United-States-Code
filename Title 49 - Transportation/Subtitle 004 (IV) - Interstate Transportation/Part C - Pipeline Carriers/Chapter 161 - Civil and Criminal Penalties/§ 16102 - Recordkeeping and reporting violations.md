@@ -1,6 +1,6 @@
 ### §16102. Recordkeeping and reporting violations
 
-A person required to make a report to the Board, or make, prepare, or preserve a record,under chapter 157 about transportation subject to this part that knowingly and willfully—
+A person required to make a report to the Board, or make, prepare, or preserve a record, under chapter 157 about transportation subject to this part that knowingly and willfully—
 
 &emsp;(1) makes a false entry in the report or record,
 

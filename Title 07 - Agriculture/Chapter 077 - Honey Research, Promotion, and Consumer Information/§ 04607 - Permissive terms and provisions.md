@@ -12,7 +12,7 @@ On the recommendation of the Honey Board, and with the approval of the Secretary
 
 &emsp;(4) Providing that the Honey Board may convene from time to time working groups drawn from producers, honey handlers, importers, exporters, members of the wholesale or retail outlets for honey, or other members of the public to assist in the development of research and marketing programs for honey.
 
-&emsp;(5) Providing for authority to accumulate reserve funds from assessments collected pursuant to this chapter to permit an effective and continuous coordinated program of research, promotion, and consumer information, in years when the production and assessment income may be reduced, but the total reserve fund may not exceed the amount budgeted for one year's operation.
+&emsp;(5) Providing for authority to accumulate reserve funds from assessments collected pursuant to this chapter to permit an effective and continuous coordinated program of research, promotion, and consumer information, in years when the production and assessment income may be reduced, but the total reservefund may not exceed the amount budgeted for one year's operation.
 
 &emsp;(6) Providing for the authority to use funds collected under this chapter with the approval of the Secretary for the development and expansion of honey and honey product sales in foreign markets.
 

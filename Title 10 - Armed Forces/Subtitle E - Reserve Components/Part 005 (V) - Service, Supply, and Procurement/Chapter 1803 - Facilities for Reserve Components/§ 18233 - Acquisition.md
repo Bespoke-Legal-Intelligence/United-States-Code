@@ -22,11 +22,11 @@
 
 (e) The Secretary of Defense may procure, or contribute to any State such amounts as the Secretary determines to be necessary to procure, architectural and engineering services and construction design in connection with facilities to be established or developed under this chapter which are not otherwise authorized by law.
 
-(f)(1) Authority provided by law to construct, expand, rehabilitate, convert, or equip any facility under this section includes authority to expend funds for surveys, administration, overhead, planning, and supervision incident to any such activity.
+(f)(1) Authority provided by law to construct, expand, rehabilitate, convert, or equip any facility under this section includes authority to expend funds for surveys, administration, overhead, planning, design, and supervision incident to any such activity.
 
 (2) Authority to acquire real property under this section includes authority to make surveys and to acquire interests in land (including temporary interests) by purchase, gift, exchange of Government-owned land, or otherwise.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 121, §2233; Pub. L. 85–685, title VI, §601(1), (2), Aug. 20, 1958, 72 Stat. 664; Pub. L. 85–861, §1(37)–(39), Sept. 2, 1958, 72 Stat. 1456; Pub. L. 96–125, title VII, §703, Nov. 26, 1979, 93 Stat. 947; Pub. L. 97–99, title VIII, §§803, 804, Dec. 23, 1981, 95 Stat. 1380, 1381; Pub. L. 97–214, §§3(a), (d)(2), (e)(1), 10(a)(2), July 12, 1982, 96 Stat. 169, 170, 175; Pub. L. 98–407, title VII, §703(a), Aug. 28, 1984, 98 Stat. 1517; Pub. L. 98–525, title XIV, §1405(34), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 99–167, title VII, §702(a), Dec. 3, 1985, 99 Stat. 985; Pub. L. 102–190, div. B, title XXVIII, §2801, Dec. 5, 1991, 105 Stat. 1537; renumbered §18233 and amended Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (4), Oct. 5, 1994, 108 Stat. 3010.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 121, §2233; Pub. L. 85–685, title VI, §601(1), (2), Aug. 20, 1958, 72 Stat. 664; Pub. L. 85–861, §1(37)–(39), Sept. 2, 1958, 72 Stat. 1456; Pub. L. 96–125, title VII, §703, Nov. 26, 1979, 93 Stat. 947; Pub. L. 97–99, title VIII, §§803, 804, Dec. 23, 1981, 95 Stat. 1380, 1381; Pub. L. 97–214, §§3(a), (d)(2), (e)(1), 10(a)(2), July 12, 1982, 96 Stat. 169, 170, 175; Pub. L. 98–407, title VII, §703(a), Aug. 28, 1984, 98 Stat. 1517; Pub. L. 98–525, title XIV, §1405(34), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 99–167, title VII, §702(a), Dec. 3, 1985, 99 Stat. 985; Pub. L. 102–190, div. B, title XXVIII, §2801, Dec. 5, 1991, 105 Stat. 1537; renumbered §18233 and amended Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (4), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 106–65, div. B, title XXVIII, §2805, Oct. 5, 1999, 113 Stat. 850.)
 
 Historical and Revision Notes<br>1956
 
@@ -99,6 +99,8 @@ In subsection (d), 50:882(a) (1st 28 words) is omitted as covered by section 223
 Subsequent to enactment of this section, act Sept. 11, 1950 (cited in the Historical and Revision Notes above) was amended by acts Aug. 9, 1955, ch. 662, 69 Stat. 593; Aug. 3, 1956, ch. 939, title IV, §414, 70 Stat. 1018; Aug. 29, 1957, Pub. L. 85–215, §2, 71 Stat. 490. The amendments were later repealed and reenacted in sections 2233 and 2236 to 2238 \[now 18233 and 18236 to 18238\] of this title by Pub. L. 85–685, title VI, §602, Aug. 20, 1958, 72 Stat. 665, and Pub. L. 85–861, §§1(37)–(39), 16, 36, Sept. 2, 1958, 72 Stat. 1456, 1558, 1568.
 
 #### Amendments
+
+1999—Subsec. (f)(1). Pub. L. 106–65 inserted “design,” after “planning,”.
 
 1994—Pub. L. 103–337, §1664(b)(2), renumbered section 2233 of this title as this section.
 

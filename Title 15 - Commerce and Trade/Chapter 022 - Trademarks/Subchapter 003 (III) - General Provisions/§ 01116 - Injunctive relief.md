@@ -2,15 +2,15 @@
 
 #### (a) Jurisdiction; service
 
-The several courts vested with jurisdiction of civil actions arising under this chapter shall have power to grant injunctions, according tothe principles of equity and upon such terms as the court may deem reasonable, to prevent the violation of any right of the registrant of a mark registered in the Patent and Trademark Office or to prevent a violation under section 1125(a) of this title. Any such injunction may include a provision directing the defendant to file with the court and serve on the plaintiff within thirty days after the service on the defendant of such injunction, or such extended period as the court may direct, a report in writing under oath setting forth in detail the manner and form in which the defendant has complied with the injunction. Any such injunction granted upon hearing, after notice to the defendant, by any district court of the United States, may be served on the parties against whom such injunction is granted anywhere in the United States where they may be found, and shall be operative and may be enforced by proceedings to punish for contempt, or otherwise, by the court by which such injunction was granted, or by any other United States district court in whose jurisdiction the defendant may be found.
+The several courts vested with jurisdiction of civil actions arising under this chapter shall have power to grant injunctions, according to the principles of equity and upon such terms as the court may deem reasonable, to prevent the violation of any right of the registrant of a mark registered in the Patent and Trademark Office or to prevent a violation under subsection (a), (c), or (d) of section 1125 of this title. Any such injunction may include a provision directing the defendant to file with the court and serve on the plaintiff within thirty days after the service on the defendant of such injunction, or such extended period as the court may direct, a report in writing under oath setting forth in detail the manner and form in which the defendant has complied with the injunction. Any such injunction granted upon hearing, after notice to the defendant, by any district court of the United States, may be served on the parties against whom such injunction is granted anywhere in the United States where they may be found, and shall be operative and may be enforced by proceedings to punish for contempt, or otherwise, by the court by which such injunction was granted, or by any other United States district court in whose jurisdiction the defendant may be found.
 
 #### (b) Transfer of certified copies of court papers
 
 The said courts shall have jurisdiction to enforce said injunction, as provided in this chapter, as fully as if the injunction had been granted by the district court in which it is sought to be enforced. The clerk of the court or judge granting the injunction shall, when required to do so by the court before which application to enforce said injunction is made, transfer without delay to said court a certified copy of all papers on file in his office upon which said injunction was granted.
 
-#### (c) Notice to Commissioner
+#### (c) Notice to Director
 
-It shall be the duty of the clerks of such courts within one month after the filing of any action, suit, or proceeding involving a mark registered under the provisions of this chapter to give notice thereof in writing to the Commissioner setting forth in order so far as known the names and addresses of the litigants and the designating number or numbers of the registration or registrations upon which the action, suit, or proceeding has been brought, and in the event any other registration be subsequently included in the action, suit, or proceeding by amendment, answer, or other pleading, the clerk shall give like notice thereof to the Commissioner, and within one month after the judgment is entered or an appeal is taken the clerk of the court shall give notice thereof to the Commissioner, and it shall be the duty of the Commissioner on receipt of such notice forthwith to endorse the same upon the file wrapper of the said registration or registrations and to incorporate the same as a part of the contents of said file wrapper.
+It shall be the duty of the clerks of such courts within one month after the filing of anyaction, suit, or proceeding involving a mark registered under the provisions of this chapter to give notice thereof in writing to the Director setting forth in order so far as known the names and addresses of the litigants and the designating number or numbers of the registration or registrations upon which the action, suit, or proceeding has been brought, and in the event any other registration be subsequently included in the action, suit, or proceeding by amendment, answer, or other pleading, the clerk shall give like notice thereof to the Director, and within one month after the judgment is entered or an appeal is taken the clerk of the court shall give notice thereof to the Director, and it shall be the duty of the Director on receipt of such notice forthwith to endorse the same upon the file wrapper of the said registration or registrations and to incorporate the same as a part of the contents of said file wrapper.
 
 #### (d) Civil actions arising out of use of counterfeit marks
 
@@ -66,7 +66,7 @@ It shall be the duty of the clerks of such courts within one month after the fil
 
 (6) The court shall take appropriate action to protect the person against whom an order under this subsection is directed from publicity, by or at the behest of the plaintiff, about such order and any seizure under such order.
 
-(7) Any materials seized under this subsection shall be taken into the custody of the court. The court shall enter an appropriate protective order with respect to discovery by the applicant of any records that have been seized. The protective order shall provide for appropriate procedures to assure that confidential information contained in such records is not improperly disclosed to the applicant.
+(7) Any materials seized under this subsection shall be taken into the custody of the court. The court shall enter an appropriate protective order with respect to discovery by the applicant of any records that have been seized. The protective order shall provide for appropriate procedures to assure that confidential informationcontained in such records is not improperly disclosed to the applicant.
 
 (8) An order under this subsection, together with the supporting documents, shall be sealed until the person against whom the order is directed has an opportunity to contest such order, except that any person against whom such order is issued shall have access to such order and supporting documents after the seizure has been carried out.
 
@@ -78,7 +78,7 @@ It shall be the duty of the clerks of such courts within one month after the fil
 
 (11) A person who suffers damage by reason of a wrongful seizure under this subsection has a cause of action against the applicant for the order under which such seizure was made, and shall be entitled to recover such relief as may be appropriate, including damages for lost profits, cost of materials, loss of good will, and punitive damages in instances where the seizure was sought in bad faith, and, unless the court finds extenuating circumstances, to recover a reasonable attorney's fee. The court in its discretion may award prejudgment interest on relief recovered under this paragraph, at an annual interest rate established under section 6621 of title 26, commencing on the date of service of the claimant's pleading setting forth the claim under this paragraph and ending on the date such recovery is granted, or for such shorter time as the court deems appropriate.
 
-(July 5, 1946, ch. 540, title VI, §34, 60 Stat. 439; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–473, title II, §1503(1), Oct. 12, 1984, 98 Stat. 2179; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–667, title I, §128(c)–(e), Nov. 16, 1988, 102 Stat. 3945; Pub. L. 104–153, §6, July 2, 1996, 110 Stat. 1388.)
+(July 5, 1946, ch. 540, title VI, §34, 60 Stat. 439; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–473, title II, §1503(1), Oct. 12, 1984, 98 Stat. 2179; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–667, title I, §128(c)–(e), Nov. 16, 1988, 102 Stat. 3945; Pub. L. 104–153, §6, July 2, 1996, 110 Stat. 1388; Pub. L. 106–43, §3(a)(1), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3003(a)(1), title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–548, 1501A–583.)
 
 #### References in Text
 
@@ -94,7 +94,13 @@ Acts Feb. 20, 1905, ch. 592, §§19, 20, 33 Stat. 729; Mar. 3, 1911, ch. 231, §
 
 #### Amendments
 
-1996—Subsec. (d)(9). Pub. L. 104–153 inserted first sentence and struck out former first sentence which read as follows: “The court shall order that a United States marshal or other law enforcement officer is to serve acopy of the order under this subsection and then is to carry out the seizure under such order.”
+1999—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title III, §3003(a)(1)\], substituted “(a), (c), or (d)” for “(a) or (c)” in first sentence.
+
+Pub. L. 106–43 substituted “subsection (a) or (c) of section 1125 of this title” for “section 1125(a) of this title” in first sentence.
+
+Subsec. (c). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], substituted “Director” for “Commissioner” wherever appearing.
+
+1996—Subsec. (d)(9). Pub. L. 104–153 inserted first sentence and struck out former first sentence which read as follows: “The court shall order that a United States marshal or other law enforcement officer is to serve a copy of the order under this subsection and then is to carry out the seizure under such order.”
 
 1988—Subsec. (a). Pub. L. 100–667, §128(c), inserted “or to prevent a violation under section 1125(a) of this title” after “Office” in first sentence.
 
@@ -107,6 +113,12 @@ Subsec. (d)(1)(B). Pub. L. 100–667, §128(e), inserted “on or” after “or
 1984—Pub. L. 98–473 designated first, second, and third undesignated pars. as subsecs. (a), (b), and (c), respectively and added subsec. (d).
 
 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by section 1000(a)(9) \[title III, §3003(a)(1)\] of Pub. L. 106–113 applicable to all domain names registered before, on, or after Nov. 29, 1999, see section 1000(a)(9) \[title III, §3010\] of Pub. L. 106–113, set out as a note under section 1117 of this title.
+
+Amendment by section 1000(a)(9) \[title IV, §4732(b)(1)(B)\] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1988 Amendment
 
@@ -142,5 +154,5 @@ Innocent infringement by publishers, injunction not to issue in certain cases, s
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1117, 1118, 1122 of this title.
+This section is referred to in sections 1117, 1118, 1122, 1125 of this title.
 

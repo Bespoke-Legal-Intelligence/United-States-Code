@@ -50,5 +50,5 @@ Assessments made by the Office, including information, surveys, studies, reports
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 476 of this title; title 20 section 2423.
+This section is referred to in section 476 of this title.
 

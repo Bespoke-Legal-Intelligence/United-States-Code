@@ -1,6 +1,6 @@
 ### §1095. Health care services incurred on behalf of covered beneficiaries: collection from third-party payers
 
-(a)(1) In the case of a person who is a covered beneficiary, the United States shall have the right to collect from a third-party payer the reasonable costs of health care services incurred by the United States on behalf of such person through a facility of the uniformed services to the extent that the person would be eligible to receive reimbursement or indemnification from the third-party payer if the person were to incur such costs on the person's own behalf. If the insurance, medical service, or health plan of that payer includes a requirement for a deductible or copayment by the beneficiary of the plan, then the amount that the United States may collect from the third-party payer is the reasonable cost of the care provided less the appropriate deductible or copayment amount.
+(a)(1) In the case of a person who is a covered beneficiary, the United States shall have the right to collect from a third-party payer reasonable charges for health care services incurred by the United States on behalf of such person through a facility of the uniformed services to the extent that the person would be eligible to receive reimbursement or indemnification from the third-party payer if the person were to incur such charges on the person's own behalf. If the insurance, medical service, or health plan of that payer includes a requirement for a deductible or copayment by the beneficiary of the plan, then the amount that the United States may collect from the third-party payer is a reasonable charge for the care provided less the appropriate deductible or copayment amount.
 
 (2) A covered beneficiary may not be required to pay an additional amount to the United States for health care services by reason of this section.
 
@@ -32,13 +32,13 @@
 
 &emsp;(4) such other method as may be appropriate.
 
-(g)(1) Amounts collected under this section from a third-party payer or under any other provision of law from any other payer for the costs of health care services provided at or through a facility of the uniformed services shall be credited to the appropriation supporting the maintenance and operation of the facility and shall not be taken into consideration in establishing the operating budget of the facility.
+(g)(1) Amounts collected under this section from a third-party payer or under any other provision of law from any other payer for health care services provided at or through a facility of the uniformed services shall be credited to the appropriation supporting the maintenance and operation of the facility and shall not be taken into consideration in establishing the operating budget of the facility.
 
 (2) Not later than February 15 of each year, the Secretary of Defense shall submit to Congress a report specifying for each facility of the uniformed services the amount credited to the facility under this subsection during the preceding fiscal year.
 
 (h) In this section:
 
-&emsp;(1) The term “third-party payer” means an entity that provides an insurance, medical service, or health plan by contract or agreement, including an automobile liability insurance or no fault insurance carrier and a workers’ compensation program or plan. Such term also includes entities described in subsection (j) under the terms and to the extent provided in such subsection.
+&emsp;(1) The term “third-party payer” means an entity that provides an insurance, medical service, or health plan by contract or agreement, including an automobile liability insurance or no fault insurance carrier, and any other plan or program that is designed to provide compensation or coverage for expenses incurred by a beneficiary for health care services or products. Such term also includes entities described in subsection (j) under the terms and to the extent provided in such subsection.
 
 &emsp;(2) The term “insurance, medical service, or health plan” includes a preferred provider organization, an insurance plan described as Medicare supplemental insurance, and a personal injury protection plan or medical payments benefit plan for personal injuries resulting from the operation of a motor vehicle.
 
@@ -50,7 +50,7 @@
 
 (j) The Secretary of Defense may enter into an agreement with any health maintenance organization, competitive medical plan, health care prepayment plan, or other similar plan (pursuant to regulations issued by the Secretary) providing for collection under this section from such organization or plan for services provided to a covered beneficiary who is an enrollee in such organization or plan.
 
-(k)(1) To improve the administration of this section and sections 1079(j)(1) and 1086(d) of this title, the Secretary of Defense, in consultation with the other administering Secretaries, may prescribe regulations providing for the collection of information regarding insurance, medical service, or health plans of third-party payers held by covered beneficiaries.
+(k)(1) To improve the administration of this section and sections 1079(j)(1) and 1086(d) of thistitle, the Secretary of Defense, in consultation with the other administering Secretaries, may prescribe regulations providing for the collection of information regarding insurance, medical service, or health plans of third-party payers held by covered beneficiaries.
 
 (2) The collection of information under regulations prescribed under paragraph (1) shall be conducted in the same manner as is provided in section 1862(b)(5) of the Social Security Act (42 U.S.C. 1395y(b)(5)). The Secretary may provide for obtaining from the Commissioner of Social Security employment information comparable to the information provided to the Administrator of the Health Care Financing Administration pursuant to such section. Such regulations may require the mandatory disclosure of Social Security account numbers for all covered beneficiaries.
 
@@ -60,7 +60,7 @@
 
 (5) Information obtained under this subsection may not be disclosed for any purpose other than to carry out the purpose of this section and sections 1079(j)(1) and 1086(d) of this title.
 
-(Added Pub. L. 99–272, title II, §2001(a)(1), Apr. 7, 1986, 100 Stat. 100; amended Pub. L. 101–189, div. A, title VII, §727(a), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1480, 1605; Pub. L. 101–510, div. A, title VII, §713(a)–(d)(2), Nov. 5, 1990, 104 Stat. 1583, 1584; Pub. L. 102–25, title VII, §701(j)(8), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–190, div. A, title VII, §714, Dec. 5, 1991, 105 Stat. 1403; Pub. L. 103–160, div. A, title VII, §713, Nov. 30, 1993, 107 Stat. 1689; Pub. L. 103–337, div. A, title VII, §714(b), title X, §1070(b)(6), Oct. 5, 1994, 108 Stat. 2802, 2857; Pub. L. 104–106, div. A, title VII, §734, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, §735(a), (b), Sept. 23, 1996, 110 Stat. 2598.)
+(Added Pub. L. 99–272, title II, §2001(a)(1), Apr. 7, 1986, 100 Stat. 100; amended Pub. L. 101–189, div. A, title VII, §727(a), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1480, 1605; Pub. L. 101–510, div. A, title VII, §713(a)–(d)(2), Nov. 5, 1990, 104 Stat. 1583, 1584; Pub. L. 102–25, title VII, §701(j)(8), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–190, div. A, title VII, §714, Dec. 5, 1991, 105 Stat. 1403; Pub. L. 103–160, div. A, title VII, §713, Nov. 30, 1993, 107 Stat. 1689; Pub. L. 103–337, div. A, title VII, §714(b), title X, §1070(b)(6), Oct. 5, 1994, 108 Stat. 2802, 2857; Pub. L. 104–106, div. A, title VII, §734, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, §735(a), (b), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–65, div. A, title VII, §716(c)(1), Oct. 5, 1999, 113 Stat. 691.)
 
 #### References in Text
 
@@ -73,6 +73,12 @@ Public Law 87–693, referred to in subsec. (i)(2), is Pub. L. 87–693, Sept. 2
 Another section 1095 was renumbered section 1095a of this title.
 
 #### Amendments
+
+1999—Subsec. (a)(1). Pub. L. 106–65, §716(c)(1)(A), substituted “reasonable charges for” for “the reasonable costs of”, “such charges” for “such costs”, and “a reasonable charge for” for “the reasonable cost of”.
+
+Subsec. (g)(1). Pub. L. 106–65, §716(c)(1)(B), struck out “the costs of” after “any other payer for”.
+
+Subsec. (h)(1). Pub. L. 106–65, §716(c)(1)(C), substituted “The term ‘third-party payer’ means an entity that provides an insurance, medical service, or health plan by contract or agreement, including an automobile liability insurance or no fault insurance carrier, and any other plan or program that is designed to provide compensation or coverage for expenses incurred by a beneficiary for health care services or products.” for “The term ‘third-party payer’ means an entity that provides an insurance, medical service, or health plan by contract or agreement, including an automobile liability insurance or no fault insurance carrier and a workers’ compensation program or plan.”
 
 1996—Subsec. (g)(1). Pub. L. 104–201, §735(a), inserted “or through” after “provided at”.
 
@@ -148,5 +154,5 @@ Section 2001(b) of Pub. L. 99–272 provided that: “Section 1095 of title 10, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1079, 1086, 1095b of this title.
+This section is referred to in sections 1079, 1086, 1095b, 1097b of this title.
 

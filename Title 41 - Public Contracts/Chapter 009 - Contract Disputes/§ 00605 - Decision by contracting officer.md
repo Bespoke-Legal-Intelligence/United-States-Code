@@ -48,7 +48,7 @@ Subsec. (d). Pub. L. 104–320, §6(1), substituted “The contractor shall cert
 
 Pub. L. 104–106, §4322(b)(6), inserted “(as in effect on September 30, 1995)” after “title 5” in two places.
 
-Subsec. (e). Pub. L. 104–320, §6(2), struck out first sentence which read as follows: “The authority of agencies to engage in alternative means of dispute resolution proceedings under subsection (d) of this section shall cease to be effective on October 1, 1999, except that such authority shall continue in effect with respect to then pending dispute resolution proceedings which, in the judgment of the agencies that are parties to such proceedings, require such continuation, until such proceedings terminate.”
+Subsec. (e). Pub. L. 104–320, §6(2), struck out first sentence which read as follows: “The authority of agenciesto engage in alternative means of dispute resolution proceedings under subsection (d) of this section shall cease to be effective on October 1, 1999, except that such authority shall continue in effect with respect to then pending dispute resolution proceedings which, in the judgment of the agencies that are parties to such proceedings, require such continuation, until such proceedings terminate.”
 
 Pub. L. 104–106, §4322(b)(6), inserted “(as in effect on September 30, 1995)” after “title 5”.
 
@@ -88,7 +88,7 @@ Section 907(a)(4) of Pub. L. 102–572 provided that: “The amendments made by 
 
 #### Effect of Contract Provisions Providing for Submission of Claims Earlier Than Six Years After Accrual
 
-Section 2351(a)(2) of Pub. L. 103–355 provided that: “Notwithstanding the third sentence of section 6(a) ofthe Contract Disputes Act of 1978 \[41 U.S.C. 605(a)\], as added by paragraph (1), if a contract in existence on the date of the enactment of this Act \[Oct. 13, 1994\] requires that a claim referred to in that sentence be submitted earlier than 6 years after the accrual of the claim, then the claim shall be submitted within the period required by the contract. The preceding sentence does not apply to a claim by the Federal Government against a contractor that is based on a claim by the contractor involving fraud.”
+Section 2351(a)(2) of Pub. L. 103–355 provided that: “Notwithstanding the third sentence of section 6(a) of the Contract Disputes Act of 1978 \[41 U.S.C. 605(a)\], as added by paragraph (1), if a contract in existence on the date of the enactment of this Act \[Oct. 13, 1994\] requires that a claim referred to in that sentence be submitted earlier than 6 years after the accrual of the claim, then the claim shall be submitted within the period required by the contract. The preceding sentence does not apply to a claim by the Federal Government against a contractor that is based on a claim by the contractor involving fraud.”
 
 #### Section Referred to in Other Sections
 

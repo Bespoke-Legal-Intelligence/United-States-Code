@@ -14,15 +14,19 @@
 
 (c) Except as otherwise provided in the plan or in the order confirming the plan, the trustee shall make payments to creditors under the plan.
 
-(Added Pub. L. 99–554, title II, §255, Oct. 27, 1986, 100 Stat. 3111; amended Pub. L. 103–394, title V, §501(d)(36), Oct. 22, 1994, 108 Stat. 4147.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3111, 3124; Pub. L. 103–394, title V, §501(d)(36), Oct. 22, 1994, 108 Stat. 4147; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031.)
 
-#### Repeal of Section
+#### Termination of Section
 
-<i>Section repealed effective Oct. 1, 1998, see note set out preceding section 1201 of this title.</i>
+<i>For termination of reenactment of this section by section 149(a) of Pub. L. 105–277, as amended, see Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.</i>
 
 #### References in Text
 
 Section 1202(c) and (d) of this title, referred to in subsec. (b)(2), was repealed by section 227 of Pub. L. 99–554, and provisions relating to appointment of and fixing percentage fees for standing trustees are contained in section 586(b) and (e) of Title 28, Judiciary and Judicial Procedure, as amended by section 113(b), (c) of Pub. L. 99–554.
+
+#### Codification
+
+Section repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311. Section, as in effect on Sept. 30, 1998, reenacted by Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610, for the period beginning on Oct. 1, 1998, and ending on Apr. 1, 1999. Pub. L. 105–277, §149(a), as subsequently amended by Pub. L. 106–5 and Pub. L. 106–70, provided that this section, as in effect on Sept. 30, 1999, is reenacted for the period beginning on Oct. 1, 1999, and ending on July 1, 2000. See Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.
 
 #### Amendments
 

@@ -10,7 +10,7 @@ In enacting this legislation, it is therefore the intention of the Congress to p
 
 It is the sense of the Congress that in the administration of subchapter II of this chapter priority shall be given to the needs of those countries in danger of becoming victims of aggression or in which the internal security is threatened by internal subversion inspired or supported by hostile countries.
 
-Finally, the Congress reaffirms its full support of the progress of the members of the North Atlantic Treaty Organization toward increased cooperation in political, military, and economic affairs. In particular, the Congress welcomes thesteps which have been taken to promote multilateral programs of coordinated procurement, research, development, and production of defense articles and urges that such programs be expanded to the fullest extent possible to further the defense of the North Atlantic Area.
+Finally, the Congress reaffirms its full support of the progress of the members of the North Atlantic Treaty Organization toward increased cooperation in political, military, and economic affairs. In particular, the Congress welcomes the steps which have been taken to promote multilateral programs of coordinated procurement, research, development, and production of defense articles and urges that such programs be expanded to the fullest extent possible to further the defense of the North Atlantic Area.
 
 (Pub. L. 87–195, pt. II, §501, formerly §502, Sept. 4, 1961, 75 Stat. 434, renumbered §501 and amended Pub. L. 90–137, pt. II, §201(a), Nov. 14, 1967, 81 Stat. 455; Pub. L. 103–199, title VII, §705(1), Dec. 17, 1993, 107 Stat. 2328.)
 

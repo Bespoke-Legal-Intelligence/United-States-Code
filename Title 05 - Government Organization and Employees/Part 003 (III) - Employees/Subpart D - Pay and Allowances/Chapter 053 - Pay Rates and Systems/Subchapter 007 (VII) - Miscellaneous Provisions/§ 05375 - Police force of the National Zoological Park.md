@@ -38,7 +38,7 @@ Section 2 of Pub. L. 101–263 provided that: “The amendments made by section 
 
 #### Effective Date
 
-Section 3(a) of Pub. L. 91–34 provided that: “The foregoing provisions of this Act \[enacting this section andamending sections 5102 and 5109 of this title and section 193n of Title 40, Public Buildings, Property, and Works\] shall become effective at the beginning of the first pay period which commences on or after the date of enactment of this Act \[June 30, 1969\].”
+Section 3(a) of Pub. L. 91–34 provided that: “The foregoing provisions of this Act \[enacting this section and amending sections 5102 and 5109 of this title and section 193n of Title 40, Public Buildings, Property, and Works\] shall become effective at the beginning of the first pay period which commences on or after the date of enactment of this Act \[June 30, 1969\].”
 
 #### Reduction of Basic Pay Rate
 

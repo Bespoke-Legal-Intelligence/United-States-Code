@@ -26,7 +26,7 @@ A provision of law referred to in subsections (a)(2) and (b) of this section is 
 
 #### (d) Petition
 
-In the event that a provision of law described in subsection (c) of this section is not included on the list of inapplicable provisions of law as required by subsection (a) or (b) of this section, and no written determination has been made by the Federal Acquisition Regulatory Council pursuant to subsection (a)(2) or (b)(2) of this section, a person may petition the Administrator for Federal Procurement Policy to take appropriate action. The Administrator shall revise the Federal Acquisition Regulation to includethe provision on the list of inapplicable provisions of law unless the Federal Acquisition Regulatory Council makes a determination pursuant to subsection (a)(2) or (b)(2) of this section within 60 days after the date on which the petition is received.
+In the event that a provision of law described in subsection (c) of this section is not included on the list of inapplicable provisions of law as required by subsection (a) or (b) of this section, and no written determination has been made by the Federal Acquisition Regulatory Council pursuant to subsection (a)(2) or (b)(2) of this section, a person may petition the Administrator for Federal Procurement Policy to take appropriate action. The Administrator shall revise the Federal Acquisition Regulation to include the provision on the list of inapplicable provisions of law unless the Federal Acquisition Regulatory Council makes a determination pursuant to subsection (a)(2) or (b)(2) of this section within 60 days after the date on which the petition is received.
 
 (Pub. L. 93–400, §34, as added Pub. L. 103–355, title VIII, §8003(a), Oct. 13, 1994, 108 Stat. 3388.)
 

@@ -14,5 +14,5 @@ Jurisdiction, powers and duties of Secretary of Agriculture in enforcing the pro
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 sections 222, 610, 2146, 3807; title 21 sections 467d, 677, 1051.
+This section is referred to in title 7 sections 198b, 222, 610, 2146, 3807; title 21 sections 467d, 677, 1051.
 

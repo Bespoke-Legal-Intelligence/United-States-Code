@@ -1,12 +1,12 @@
 ### §184. Filing of application in foreign country
 
-Except when authorized by a license obtained from the Commissioner a person shall not file or cause or authorize to be filed in any foreign country prior to six months after filing in the United States an application for patent or for the registration of a utility model, industrial design, or model in respect of an invention made in this country. A license shall not be granted with respect to an invention subject to an order issued by the Commissioner pursuant to section 181 of this title without the concurrence of the head of the departments and the chief officers of the agencies who caused the order to be issued. The license may be granted retroactively where an application has been filed abroad through error and without deceptive intent and the application does not disclose an invention within the scope of section 181 of this title.
+Except when authorized by a license obtained from the Commissioner of Patents a person shall not file or cause or authorize to be filed in any foreign country prior to six months after filing in the United States an application for patent or for the registration of a utility model, industrial design, or model in respect of an invention made in this country. A license shall not be granted with respect to an invention subject to an order issued by the Commissioner of Patents pursuant to section 181 of this title without the concurrence of the head of the departments and the chief officers of the agencies who caused the order to be issued. The license may be granted retroactively where an application has been filed abroad through error and without deceptive intent and the application does not disclose an invention within the scope of section 181 of this title.
 
 The term “application” when used in this chapter includes applications and any modifications, amendments, or supplements thereto, or divisions thereof.
 
-The scope of a license shall permit subsequent modifications, amendments, and supplements containing additional subject matter if the application upon which the request for the licenseis based is not, or was not, required to be made available for inspection under section 181 of this title and if such modifications, amendments, and supplements do not change the general nature of the invention in a manner which would require such application to be made available for inspection under such section 181. In any case in which a license is not, or was not, required in order to file an application in any foreign country, such subsequent modifications, amendments, and supplements may be made, without a license, to the application filed in the foreign country if the United States application was not required to be made available for inspection under section 181 and if such modifications, amendments, and supplements do not, or did not, change the general nature of the invention in a manner which would require the United States application to have been made available for inspection under such section 181.
+The scope of a license shall permit subsequent modifications, amendments, and supplements containing additional subject matter if the application upon which the request for the license is based is not, or was not, required to be made available for inspection under section 181 of this title and if such modifications, amendments, and supplements do not change the general nature of the invention in a manner which would require such application to be made available for inspection under such section 181. In any case in which a license is not, or was not, required in order to file an application in any foreign country, such subsequent modifications, amendments, and supplements may be made, without a license, to the application filed in the foreign country if the United States application was not required to be made available for inspection under section 181 and if such modifications, amendments, and supplements do not, or did not, change the general nature of the invention in a manner which would require the United States application to have been made available for inspection under such section 181.
 
-(July 19, 1952, ch. 950, 66 Stat. 807; Pub. L. 100–418, title IX, §9101(b)(1), Aug. 23, 1988, 102 Stat. 1567.)
+(July 19, 1952, ch. 950, 66 Stat. 807; Pub. L. 100–418, title IX, §9101(b)(1), Aug. 23, 1988, 102 Stat. 1567; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
 
 #### Historical and Revision Notes
 
@@ -16,9 +16,15 @@ Language is changed.
 
 #### Amendments
 
+1999—Pub. L. 106–113 substituted “Commissioner of Patents” for “Commissioner” two places in first par.
+
 1988—Pub. L. 100–418, §9101(b)(1)(A), substituted “filed abroad through error and without deceptive intent” for “inadvertently filed abroad” in first par.
 
 Pub. L. 100–418, §9101(b)(1)(B), added third par. relating to scope of a license.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -40,7 +46,7 @@ Section 9101(d) of Pub. L. 100–418 provided that:
 
 #### Promulgation of Regulations
 
-Section 9101(c) of Pub. L. 100–418 provided that: “The Commissioner of Patents and Trademarks shall prescribe such regulations as may be necessary to implement the amendments made by this section \[amending sections 184 to 186 of this title\].”
+Section 9101(c) of Pub. L. 100–418 directed Commissioner of Patents and Trademarks to prescribe such regulations as necessary to implement the amendments made by section 9101 (amending sections 184 to 186 of this title).
 
 #### Section Referred to in Other Sections
 

@@ -50,7 +50,7 @@ For purposes of this section:
 
 #### (c) Information considered confidential
 
-(1) All information reported to or otherwise obtained by the Commission which is not subject to the requirements of subsection (b) of this section shall be considered confidential when so marked by the person supplying the informationand shall not be disclosed, except in accordance with the procedures established in paragraph (2) and paragraph (3).
+(1) All information reported to or otherwise obtained by the Commission which is not subject to the requirements of subsection (b) of this section shall be considered confidential when so marked by the person supplying the information and shall not be disclosed, except in accordance with the procedures established in paragraph (2) and paragraph (3).
 
 (2) If the Commission determines that a document marked confidential by the person supplying it may be disclosed because it is not a trade secret or commercial or financial information which is obtained from any person and which is privileged or confidential, within the meaning of section 46(f) of this title, then the Commission shall notify such person in writing that the Commission intends to disclose the document at a date not less than 10 days after the date of receipt of notification.
 
@@ -82,7 +82,7 @@ Any material which is received by the Commission in any investigation, a purpose
 
 #### References in Text
 
-Section 552(e) of title 5, referred to in subsec. (a)(2), was redesignated section 552(f) of Title 5, Government Organization and Employees, by section 1802(b) of Pub. L. 99–570.
+Section 552(e) of title 5, referred to in subsec. (a)(2), was redesignated section 552(f) of Title 5, GovernmentOrganization and Employees, by section 1802(b) of Pub. L. 99–570.
 
 Section 3512 of title 44, referred to in subsec. (d)(1)(D), which related to requirements for the collection of information by independent Federal regulatory agencies, was a part of chapter 35 of Title 44, Public Printing and Documents. Chapter 35 was amended generally by the Paperwork Reduction Act of 1980 (Pub. L. 96–511) and subsequently by the Paperwork Reduction Act of 1995 (Pub. L. 104–13).
 

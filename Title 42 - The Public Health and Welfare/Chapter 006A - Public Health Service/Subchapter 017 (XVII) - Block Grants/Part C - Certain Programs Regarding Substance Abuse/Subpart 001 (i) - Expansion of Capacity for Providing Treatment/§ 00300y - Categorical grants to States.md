@@ -8,7 +8,7 @@
 
 #### (2) Eligible States
 
-&emsp;The Director may not make a grant under subsection (a) of this section to a State unless the number of individuals seeking treatment services in the State significantly exceeds themaximum number described in paragraph (1) that is applicable to the State.
+&emsp;The Director may not make a grant under subsection (a) of this section to a State unless the number of individuals seeking treatment services in the State significantly exceeds the maximum number described in paragraph (1) that is applicable to the State.
 
 #### (b) Priority in making grants
 
@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (3), the Director may not make a grant under subsection (a) of this section unless the State agrees, with respect to the costs of the program to be carried out by the State pursuant to such subsection, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is—
+&emsp;Subject to paragraph (3), the Director may not make a grant under subsection (a) of thissection unless the State agrees, with respect to the costs of the program to be carried out by the State pursuant to such subsection, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is—
 
 &emsp;&emsp;(A) for the first fiscal year for which the State receives such a grant, not less than $1 for each $9 of Federal funds provided in the grant;
 
@@ -86,7 +86,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### Prior Provisions
 
-A prior section 300y, act July 1, 1944, ch. 373, title XIX, §1921, as added Oct. 27, 1986, Pub. L. 99–570, titleIV, §4002, 100 Stat. 3207–103, related to establishment of special alcohol abuse and drug abuse programs, prior to repeal by Pub. L. 100–690, title II, §2038(1), Nov. 18, 1988, 102 Stat. 4203.
+A prior section 300y, act July 1, 1944, ch. 373, title XIX, §1921, as added Oct. 27, 1986, Pub. L. 99–570, title IV, §4002, 100 Stat. 3207–103, related to establishment of special alcohol abuse and drug abuse programs, prior to repeal by Pub. L. 100–690, title II, §2038(1), Nov. 18, 1988, 102 Stat. 4203.
 
 Another prior section 300y, act July 1, 1944, ch. 373, title XIX, §1921, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 552, related to planning grants, prior to repeal by Pub. L. 99–280, §5, Apr. 24, 1986, 100 Stat. 400.
 

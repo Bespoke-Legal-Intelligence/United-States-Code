@@ -22,7 +22,7 @@ Additional Fee.—
 
 &emsp;&emsp;“(C) the date of the enactment of a disapproval resolution that passes both Houses of the Congress within the 90-day period beginning on the date that is 2 years after the date of enactment of this Act.
 
-&emsp;“(2) If the President determines on the date that is 2 years after the date of enactment of this Act thatthe fee imposed by the amendment made by section 1428(b) is not in the national economic interest, subparagraph (B) of paragraph (1) shall not be taken into account in applying the provisions of paragraph (1). \[See Determination of President of the United States, No. 90–34, set out below.\]
+&emsp;“(2) If the President determines on the date that is 2 years after the date of enactment of this Act that the fee imposed by the amendment made by section 1428(b) is not in the national economic interest, subparagraph (B) of paragraph (1) shall not be taken into account in applying the provisions of paragraph (1). \[See Determination of President of the United States, No. 90–34, set out below.\]
 
 &emsp;“(3) The amendment made by section 1428(b) shall apply (if at all) to the products of any foreign country described in section 1428(a)(1)(B) \[set out as a note below\] that are entered, or withdrawn from warehouse for consumption, after the later of—
 

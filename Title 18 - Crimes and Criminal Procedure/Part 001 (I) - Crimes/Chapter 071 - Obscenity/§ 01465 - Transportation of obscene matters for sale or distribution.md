@@ -12,7 +12,7 @@ Section 230(e)(2) of the Communications Act of 1934, referred to in text, is cla
 
 #### Amendments
 
-1996—Pub. L. 104–104, in first par., substituted “transports or travels in, or uses a facility or means of,” for “transports in”, inserted “or an interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934) in or affecting such commerce” before “for the purpose of sale”, and substituted “of” for “, or knowingly travels in interstate commerce, or uses a facility or means of interstate commerce for the purpose of transporting obscene material in interstate or foreign commerce,” before “any obscene, lewd, lascivious, or filthy book”.
+1996—Pub. L. 104–104, in first par., substituted “transports or travels in, or uses a facility or means of,” for “transports in”, inserted “or an interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934) in or affecting such commerce” before “for the purpose of sale”, and substituted “of” for “, or knowingly travels in interstate commerce, or uses a facility or means of interstate commerce for thepurpose of transporting obscene material in interstate or foreign commerce,” before “any obscene, lewd, lascivious, or filthy book”.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in first par.
 

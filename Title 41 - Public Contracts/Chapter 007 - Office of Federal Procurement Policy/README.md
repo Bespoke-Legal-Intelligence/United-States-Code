@@ -164,7 +164,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 405a, 405b, 601, 607, 705 of this title; title 25 sections 450j, 458cc; title 40 sections 474, 481, 487.
+This chapter is referred to in sections 405a, 405b, 601, 607, 705 of this title; title 25 sections 450j, 458cc; title 40 sections 474, 481, 487; title 50 section 2462.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “351(a)”.</i>
 

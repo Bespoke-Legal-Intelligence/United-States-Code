@@ -20,7 +20,7 @@ In addition to grants under section 300ff–41 of this title, the Secretary may 
 
 #### (2) Determination of amount of non-Federal contribution
 
-&emsp;Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairlyevaluated, including plant, equipment, or services. Amounts provided by the Federal Government, and services (or portions of services) subsidized by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
+&emsp;Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, and services (or portions of services) subsidized by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
 #### (c) Testing
 

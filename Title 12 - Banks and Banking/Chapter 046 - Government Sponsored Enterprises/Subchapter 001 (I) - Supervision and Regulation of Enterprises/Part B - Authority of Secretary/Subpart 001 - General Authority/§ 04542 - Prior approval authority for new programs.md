@@ -10,7 +10,7 @@ The Secretary shall require each enterprise to obtain the approval of the Secret
 
 &emsp;Except as provided in paragraph (2), the Secretary shall approve any new program of an enterprise for purposes of subsection (a) of this section unless—
 
-&emsp;&emsp;(A) for a new program of the Federal National Mortgage Association, the Secretarydetermines that the program is not authorized under paragraph (2), (3), (4), or (5) of section 1717(b) of this title, or under section 1719 of this title;
+&emsp;&emsp;(A) for a new program of the Federal National Mortgage Association, the Secretary determines that the program is not authorized under paragraph (2), (3), (4), or (5) of section 1717(b) of this title, or under section 1719 of this title;
 
 &emsp;&emsp;(B) for a new program of the Federal Home Loan Mortgage Corporation, the Secretary determines that the program is not authorized under section 1454(a)(1), (4), or (5) of this title; or
 
@@ -32,7 +32,7 @@ The Secretary shall require each enterprise to obtain the approval of the Secret
 
 #### (2) Response
 
-&emsp;The Secretary shall, not later than the expiration of the 45-day period beginning upon the submission of a request for approval, approve the request or submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report explaining the reasons for not approving the request. The Secretary may extend such period for a single additional 15-day period only if the Secretary requests additional information from the enterprise.
+&emsp;The Secretary shall, not later than the expiration of the 45-day period beginning upon the submission of a request for approval, approve the request or submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report explaining the reasons for not approving the request. The Secretary may extend such period for a single additional 15-dayperiod only if the Secretary requests additional information from the enterprise.
 
 #### (3) Failure to respond
 

@@ -12,7 +12,7 @@
 
 (3) The Under Secretary for Health shall prepare, for inclusion in the annual report submitted to Congress under section 529 of this title, a description of the scope and achievements of activities carried out under this section (including pertinent data regarding productivity and rates of distribution) during the prior twelve months and an estimate of the needs of the program of therapeutic and rehabilitation activities to be carried out under this section for the ensuing fiscal year.
 
-(d) In providing rehabilitative services under this chapter, the Secretary shall take appropriate action to make it possible for the patient to take maximum advantage of any benefits to which such patient is entitled under chapter 31, 34, or 35 of this title, and, if the patient is still receiving treatment of a prolonged nature under this chapter, the provision of rehabilitative services under this chapter shall be continued during, and coordinated with, the pursuit of education and training under such chapter 31, 34, or 35.
+(d) In providing rehabilitative services under this chapter, the Secretary shall take appropriate action to make it possible for the patientto take maximum advantage of any benefits to which such patient is entitled under chapter 31, 34, or 35 of this title, and, if the patient is still receiving treatment of a prolonged nature under this chapter, the provision of rehabilitative services under this chapter shall be continued during, and coordinated with, the pursuit of education and training under such chapter 31, 34, or 35.
 
 (e) The Secretary shall prescribe regulations to ensure that the priorities set forth in section 1705 of this title shall be applied, insofar as practicable, to participation in therapeutic and rehabilitation activities carried out under this section.
 
@@ -28,7 +28,7 @@
 
 &emsp;(D) A veteran's receipt of payment as a result of participation in a program described in subparagraph (C).
 
-(3) A distribution of funds made under this section and a payment made to a veteran undera program of rehabilitative services described in paragraph (2)(C) shall be considered for the purposes of chapter 15 of this title to be a donation from a public or private relief or welfare organization.
+(3) A distribution of funds made under this section and a payment made to a veteran under a program of rehabilitative services described in paragraph (2)(C) shall be considered for the purposes of chapter 15 of this title to be a donation from a public or private relief or welfare organization.
 
 (Added Pub. L. 87–574, §2(1), Aug. 6, 1962, 76 Stat. 308, §618; amended Pub. L. 94–581, title I, §105(a), Oct. 21, 1976, 90 Stat. 2845; Pub. L. 98–543, title III, §303, Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title II, §205, Oct. 28, 1986, 100 Stat. 3256; Pub. L. 102–54, §§10, 14(b)(12), June 13, 1991, 105 Stat. 273, 284; renumbered §1718 and amended Pub. L. 102–83, §§2(c)(3), 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 404–406; Pub. L. 102–86, title V, §506(a)(1), Aug. 14, 1991, 105 Stat. 426; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title IV, §401, Nov. 4, 1992, 106 Stat. 4953; Pub. L. 103–446, title XII, §1201(i)(1), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 104–262, title I, §101(d)(7), Oct. 9, 1996, 110 Stat. 3180.)
 

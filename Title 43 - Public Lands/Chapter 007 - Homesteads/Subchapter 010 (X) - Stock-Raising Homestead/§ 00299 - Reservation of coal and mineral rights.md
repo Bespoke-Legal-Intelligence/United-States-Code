@@ -20,7 +20,7 @@ All entries made and patents issued under the provisions of this subchapter shal
 
 #### (2) Notice of intention to locate a mining claim
 
-&emsp;Any person seeking to locate a mining claim on lands subject to this subchapter in order to engage in the mineral activities relating to exploration referred to under paragraph (1)(B) shall file with the Secretary of the Interior a notice of intention to locate a claim on the lands concerned. The notice shall be in such form as the Secretary shall prescribe. The notice shall contain the name and mailing address of the person filing the notice and a legal description of the lands to which the notice applies. The legal description shall be based on the public land survey or on such other description as is sufficient to permit the Secretary to record the notice on the land status records of the Secretary. Whenever any person has filed a notice under this paragraph with respect to any lands, during the 90-day period following the date of such filing, or any extension thereof pursuant to this paragraph, noother person (including the surface owner) may—
+&emsp;Any person seeking to locate a mining claim on lands subject to this subchapter in order to engage in the mineral activities relating to exploration referred to under paragraph (1)(B) shall file with the Secretary of the Interior a notice of intention to locate a claim on the lands concerned. The notice shall be in such form as the Secretary shall prescribe. The notice shall contain the name and mailing address of the person filing the notice and a legal description of the lands to which the notice applies. The legal description shall be based on the public land survey or on such other description as is sufficient to permit the Secretary to record the notice on the land status records of the Secretary. Whenever any person has filed a notice under this paragraph with respect to any lands, during the 90-day period following the date of such filing, or any extension thereof pursuant to this paragraph, no other person (including the surface owner) may—
 
 &emsp;&emsp;(A) file such a notice with respect to any portions of such lands;
 
@@ -32,7 +32,7 @@ All entries made and patents issued under the provisions of this subchapter shal
 
 #### (3) Notice to surface owner
 
-&emsp;Any person who has filed a notice of intention to locate a mining claim under paragraph (2) for any lands subject to this subchapter shall provide written notice of such filing, by registered or certified mail with return receipt, to the surface owner (as evidenced by local tax records) of the lands covered by the notice under paragraph (2). The notice shall be provided at least 30 days before entering such lands and shall contain each of the following:
+&emsp;Any person who has filed a notice of intention to locate a mining claim under paragraph (2) for any lands subject to this subchapter shall provide written notice of such filing, byregistered or certified mail with return receipt, to the surface owner (as evidenced by local tax records) of the lands covered by the notice under paragraph (2). The notice shall be provided at least 30 days before entering such lands and shall contain each of the following:
 
 &emsp;&emsp;(A) A brief description of the proposed mineral activities.
 
@@ -130,7 +130,7 @@ Should any surface owner of land subject to this subchapter have reason to belie
 
 #### (<i>l</i>) Payment of financial guarantee
 
-The surface owner of any land subject to this subchapter may petition the Secretary for payment of all or any portion of a bond or other financial guarantee required under subsection (e) of this section as compensation for any permanent damages to crops and tangible improvements of the surface owner, or any permanentloss of income due to loss or impairment of grazing, or other uses of the land by the surface owner. Pursuant to such a petition, the Secretary may use such bond or other guarantee to provide compensation to the surface owner for such damages and to insure the required reclamation.
+The surface owner of any land subject to this subchapter may petition the Secretary for payment of all or any portion of a bond or other financial guarantee required under subsection (e) of this section as compensation for any permanent damages to crops and tangible improvements of the surface owner, or any permanent loss of income due to loss or impairment of grazing, or other uses of the land by the surface owner. Pursuant to such a petition, the Secretary may use such bond or other guarantee to provide compensation to the surface owner for such damages and to insure the required reclamation.
 
 #### (m) Bond release
 
@@ -138,7 +138,7 @@ The Secretary shall release the bond or other financial guarantee required under
 
 #### (n) Conveyance to surface owner
 
-The Secretary shall take such actions as may be necessary to simplify the procedures which must be complied with by surface owners of lands subject to this subchapter who apply to the Secretary to obtain title to interests in such lands owned by the United States.
+The Secretary shall take such actions as may be necessary to simplify the procedures whichmust be complied with by surface owners of lands subject to this subchapter who apply to the Secretary to obtain title to interests in such lands owned by the United States.
 
 #### (<i>o</i>) Definitions
 

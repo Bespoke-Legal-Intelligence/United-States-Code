@@ -2,7 +2,7 @@
 
 #### (a) Designation; administration; continuance of resources-management-programs for refuge lands in Alaska; disposal of acquired lands; proceeds
 
-(1) For the purpose of consolidating the authorities relating to the various categories ofareas that are administered by the Secretary for the conservation of fish and wildlife, including species that are threatened with extinction, all lands, waters, and interests therein administered by the Secretary as wildlife refuges, areas for the protection and conservation of fish and wildlife that are threatened with extinction, wildlife ranges, game ranges, wildlife management areas, or waterfowl production areas are hereby designated as the “National Wildlife Refuge System” (referred to herein as the “System”), which shall be subject to the provisions of this section, and shall be administered by the Secretary through the United States Fish and Wildlife Service. With respect to refuge lands in the State of Alaska, those programs relating to the management of resources for which any other agency of the Federal Government exercises administrative responsibility through cooperative agreement shall remain in effect, subject to the direct supervision of the United States Fish and Wildlife Service, as long as such agency agrees to exercise such responsibility.
+(1) For the purpose of consolidating the authorities relating to the various categories of areas that are administered by the Secretary for the conservation of fish and wildlife, including species that are threatened with extinction, all lands, waters, and interests therein administered by the Secretary as wildlife refuges, areas for the protection and conservation of fish and wildlife that are threatened with extinction, wildlife ranges, game ranges, wildlife management areas, or waterfowl production areas are hereby designated as the “National Wildlife Refuge System” (referred to herein as the “System”), which shall be subject to the provisions of this section, and shall be administered by the Secretary through the United States Fish and Wildlife Service. With respect to refuge lands in the State of Alaska, those programs relating to the management of resources for which any other agency of the Federal Government exercises administrative responsibility through cooperative agreement shall remain in effect, subject to the direct supervision of the United States Fish and Wildlife Service, as long as such agency agrees to exercise such responsibility.
 
 (2) The mission of the System is to administer a national network of lands and waters for the conservation, management, and where appropriate, restoration of the fish, wildlife, and plant resources and their habitats within the United States for the benefit of present and future generations of Americans.
 
@@ -14,7 +14,7 @@
 
 &emsp;(C) compatible wildlife-dependent recreational uses are the priority general public uses of the System and shall receive priority consideration in refuge planning and management; and
 
-&emsp;(D) when the Secretary determines that a proposed wildlife-dependent recreational use is a compatible use within a refuge, that activity should be facilitated, subject to such restrictions or regulations as may be necessary, reasonable, and appropriate.
+&emsp;(D) when the Secretary determines that a proposed wildlife-dependent recreational use isa compatible use within a refuge, that activity should be facilitated, subject to such restrictions or regulations as may be necessary, reasonable, and appropriate.
 
 (4) In administering the System, the Secretary shall—
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(i) the acquisition costs of such lands, in the case of lands of the System which were purchased by the United States with funds from the migratory bird conservation fund, or fair market value, whichever is greater; or
 
-&emsp;&emsp;(ii) the fair market value of such lands (as determined by the Secretary as of the dateof the transfer or disposal), in the case of lands of the System which were donated to the System.
+&emsp;&emsp;(ii) the fair market value of such lands (as determined by the Secretary as of the date of the transfer or disposal), in the case of lands of the System which were donated to the System.
 
 > The Secretary shall pay into the migratory bird conservation fund the aggregate amount of the proceeds of any transfer or disposal referred to in the preceding sentence.
 
@@ -80,7 +80,7 @@ In administering the System, the Secretary is authorized to take the following a
 
 &emsp;(2) Accept donations of funds and to use such funds to acquire or manage lands or interests therein.
 
-&emsp;(3) Acquire lands or interests therein by exchange (A) for acquired lands or public lands, or for interests in acquired or public lands, under his jurisdiction which he finds to be suitable for disposition, or (B) for the right to remove, in accordance with such terms and conditions as he may prescribe, products from the acquired or public lands within the System. The values of the properties so exchanged either shall be approximately equal, or if they are not approximately equal the values shall be equalized by the payment of cash to the grantor or to the Secretary as the circumstances require.
+&emsp;(3) Acquire lands or interests therein by exchange (A) for acquired lands or public lands,or for interests in acquired or public lands, under his jurisdiction which he finds to be suitable for disposition, or (B) for the right to remove, in accordance with such terms and conditions as he may prescribe, products from the acquired or public lands within the System. The values of the properties so exchanged either shall be approximately equal, or if they are not approximately equal the values shall be equalized by the payment of cash to the grantor or to the Secretary as the circumstances require.
 
 &emsp;(4) Subject to standards established by and the overall management oversight of the Director, and consistent with standards established by this Act, to enter into cooperative agreements with State fish and wildlife agencies for the management of programs on a refuge.
 
@@ -96,7 +96,7 @@ No person shall disturb, injure, cut, burn, remove, destroy, or possess any real
 
 &emsp;(A) permit the use of any area within the System for any purpose, including but not limited to hunting, fishing, public recreation and accommodations, and access whenever he determines that such uses are compatible with the major purposes for which such areas were established: <i>Provided</i>, That not to exceed 40 per centum at any one time of any area that has been, or hereafter may be acquired, reserved, or set apart as an inviolate sanctuary for migratory birds, under any law, proclamation, Executive order, or public land order may be administered by the Secretary as an area within which the taking of migratory game birds may be permitted under such regulations as he may prescribe unless the Secretary finds that the taking of any species of migratory game birds in more than 40 percent of such area would be beneficial to the species; and
 
-&emsp;(B) permit the use of, or grant easements in, over, across, upon, through, or under any areas within the System for purposes such as but not necessarily limited to, powerlines, telephone lines, canals, ditches, pipelines, and roads, including the construction, operation,and maintenance thereof, whenever he determines that such uses are compatible with the purposes for which these areas are established.
+&emsp;(B) permit the use of, or grant easements in, over, across, upon, through, or under any areas within the System for purposes such as but not necessarily limited to, powerlines, telephone lines, canals, ditches, pipelines, and roads, including the construction, operation, and maintenance thereof, whenever he determines that such uses are compatible with the purposes for which these areas are established.
 
 (2) Notwithstanding any other provision of law, the Secretary may not grant to any Federal, State, or local agency or to any private individual or organization any right-of-way, easement, or reservation in, over, across, through, or under any area within the system in connection with any use permitted by him under paragraph (1)(B) of this subsection unless the grantee pays to the Secretary, at the option of the Secretary, either (A) in lump sum the fair market value (determined by the Secretary as of the date of conveyance to the grantee) of the right-of-way, easement, or reservation; or (B) annually in advance the fair market rental value (determined by the Secretary) of the right-of-way, easement, or reservation. If any Federal, State, or local agency is exempted from such payment by any other provision of Federal law, such agency shall otherwise compensate the Secretary by any other means agreeable to the Secretary, including, but not limited to, making other land available or the loan of equipment or personnel; except that (A) any such compensation shall relate to, and be consistent with, the objectives of the National Wildlife Refuge System, and (B) the Secretary may waive such requirement for compensation if he finds such requirement impracticable or unnecessary. All sums received by the Secretary pursuant to this paragraph shall, after payment of any necessary expenses incurred by him in administering this paragraph, be deposited into the Migratory Bird Conservation Fund and shall be available to carry out the provisions for land acquisition of the Migratory Bird Conservation Act (16 U.S.C. 715 et seq.) and the Migratory Bird Hunting Stamp Act (16 U.S.C. 718 et seq.).
 
@@ -190,7 +190,7 @@ No person shall disturb, injure, cut, burn, remove, destroy, or possess any real
 
 #### (g) Enforcement provision; arrests, searches, and seizures; custody of property; forfeitures; disposition
 
-Any person authorized by the Secretary to enforce the provisions of this Act or any regulations issued thereunder, may, without a warrant, arrest any person violating this Act or regulations in his presence or view, and may execute any warrant or other process issued by an officer or court of competence jurisdiction to enforce the provisions of this Act or regulations, and may with a search warrant search for and seize any property, fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or nest or egg thereof, taken or possessed in violation of this Act or the regulations issued thereunder. Any property, fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or egg thereof seized with or without a search warrant shall be held by such person or by a United States marshal, and upon conviction, shall be forfeited to the United States and disposed of by the Secretary, in accordance with law. The Director of the United States Fish and Wildlife Service is authorized to utilize byagreement, with or without reimbursement, the personnel and services of any other Federal or State agency for purposes of enhancing the enforcement of this Act.
+Any person authorized by the Secretary to enforce the provisions of this Act or any regulations issued thereunder, may, without a warrant, arrest any person violating this Act or regulations in his presence or view, and may execute any warrant or other process issued by an officer or court of competence jurisdiction to enforce the provisions of this Act or regulations, and may with a search warrant search for and seize any property, fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or nest or egg thereof, taken or possessed in violation of this Act or the regulations issued thereunder. Any property, fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or egg thereof seized with or without a search warrant shall be held by such person or by a United States marshal, and upon conviction, shall be forfeited to the United States and disposed of by the Secretary, in accordance with law. The Director of the United States Fish and Wildlife Service is authorized to utilize by agreement, with or without reimbursement, the personnel and services of any other Federal or State agency for purposes of enhancing the enforcement of this Act.
 
 #### (h) Regulations; continuation, modification, or rescission
 
@@ -306,7 +306,7 @@ Subsecs. (i), (j). Pub. L. 105–57, §7(a)(1), redesignated subsecs. (h) and (i
 
 Subsecs. (k) to (<i>o</i>). Pub. L. 105–57, §8(a), added subsecs. (k) to (<i>o</i>).
 
-1988—Subsec. (e). Pub. L. 100–653 substituted “thereunder shall be fined under title 18 or imprisoned for not more than 1 year, or both” for “thereunder shall be fined not more than $500 or be imprisoned not more than six months, or both”.
+1988—Subsec. (e). Pub. L. 100–653 substituted “thereunder shall be fined under title 18 or imprisoned for not more than 1 year, or both” for “thereunder shall befined not more than $500 or be imprisoned not more than six months, or both”.
 
 1987—Subsec. (f). Pub. L. 100–226 inserted at end “The Director of the United States Fish and Wildlife Service is authorized to utilize by agreement, with or without reimbursement, the personnel and services of any other Federal or State agency for purposes of enhancing the enforcement of this Act.”
 
@@ -342,7 +342,7 @@ Pub. L. 105–312, title II, §201, Oct. 30, 1998, 112 Stat. 2957, provided that
 
 #### Short Title of 1997 Amendment
 
-Section 1(a) of Pub. L. 105–57 provided that: “This Act \[amending this section and section 668ee of this titleand enacting provisions set out as notes under this section\] may be cited as the ‘National Wildlife Refuge System Improvement Act of 1997’.”
+Section 1(a) of Pub. L. 105–57 provided that: “This Act \[amending this section and section 668ee of this title and enacting provisions set out as notes under this section\] may be cited as the ‘National Wildlife Refuge System Improvement Act of 1997’.”
 
 #### Short Title of 1974 Amendment
 
@@ -496,6 +496,8 @@ Innoko National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(3)
 
 Izembek National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §303(3), Dec. 2, 1980, 94 Stat. 2390.
 
+John H. Chafee National Wildlife Refuge (former Pettaquamscutt Cove National Wildlife Refuge), Rhode Island.—Pub. L. 100–610, title II, Nov. 5, 1988, 102 Stat. 3176; Pub. L. 102–212, title II, §202, Dec. 11, 1991, 105 Stat. 1660; Pub. L. 104–212, title II, Oct. 1, 1996, 110 Stat. 3014; Pub. L. 106–53, title V, §565(c), Aug. 17, 1999, 113 Stat. 367.
+
 John Heinz National Wildlife Refuge at Tinicum (former Tinicum National Environmental Center), Pennsylvania.—Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 995; Pub. L. 103–340, §6, Oct. 6, 1994, 108 Stat. 3120.
 
 Kanuti National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(4), Dec. 2, 1980, 94 Stat. 2386.
@@ -507,6 +509,8 @@ Klamath Marsh National Wildlife Refuge, Oregon.—Act Aug. 13, 1954, ch. 732, §
 Kodiak National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §303(5), Dec. 2, 1980, 94 Stat. 2391.
 
 Koyukuk National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(5), Dec. 2, 1980, 94 Stat. 2386.
+
+McNary National Wildlife Refuge, Washington.—Pub. L. 106–53, title V, §563(<i>l</i>), Aug. 17, 1999, 113 Stat. 365.
 
 Midway Atoll National Wildlife Refuge, Midway Islands.—Ex. Ord. No. 13022, §3(a), Oct. 31, 1996, 61 F.R. 56875.
 
@@ -524,7 +528,7 @@ Oahu National Wildlife Refuge Complex, Hawaii.—Pub. L. 104–209, §1, Oct. 1,
 
 Oxbow National Wildlife Refuge, Massachusetts.—Pub. L. 103–337, div. B, title XXVIII, §2846, Oct. 5, 1994, 108 Stat. 3071; Pub. L. 104–106, div. B, title XXVIII, §2853, Feb. 10, 1996, 110 Stat. 567.
 
-Pettaquamscutt Cove National Wildlife Refuge, Rhode Island.—Pub. L. 100–610, title II, Nov. 5, 1988, 102 Stat. 3176; Pub. L. 102–212, title II, §202, Dec. 11, 1991, 105 Stat. 1660; Pub. L. 104–212, title II, Oct. 1, 1996, 110 Stat. 3014.
+Pettaquamscutt Cove National Wildlife Refuge, Rhode Island (see John H. Chafee National Wildlife Refuge).
 
 Pocosin Lakes National Wildlife Refuge, North Carolina.—Pub. L. 103–232, title III, Apr. 11, 1994, 108 Stat. 339.
 
@@ -561,6 +565,8 @@ Tetlin National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(8)
 Togiak National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §303(6), Dec. 2, 1980, 94 Stat. 2392.
 
 Wallkill River National Wildlife Refuge, New Jersey.—Pub. L. 101–593, title I, §107, Nov. 16, 1990, 104 Stat. 2955.
+
+Wertheim National Wildlife Refuge, New York.—Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §222\], Nov. 29, 1999, 113 Stat. 1536, 1501A–299.
 
 White River National Wildlife Refuge, Arkansas.—Pub. L. 102–584, §§1–5, Nov. 2, 1992, 106 Stat. 4937–4941.
 
@@ -628,5 +634,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 459j–4, 668ee, 742f, 3125, 3212, 5207 of this title; title 43 section 1714.
+This section is referred to in sections 459j–4, 668ee, 742f, 3125, 3212, 5207 of this title; title 23 section 204; title 43 section 1714.
 

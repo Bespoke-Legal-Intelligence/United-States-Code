@@ -78,7 +78,7 @@ Subsec. (a). Pub. L. 100–323, §15(a)(2), struck out “of Labor” after “T
 
 Pub. L. 100–323, §15(c)(1), substituted “Director for Veterans’ Employment and Training” for “State Director for Veterans’ Employment” in two places, “Assistant Director for Veterans’ Employment and Training” for “Assistant State Director for Veterans’ Employment”, “Assistant Directors for Veterans’ Employment and Training” for “Assistant State Directors for Veterans’ Employment”, and “Directors for Veterans’ Employment and Training” for “State Directors for Veterans’ Employment”.
 
-Subsec. (b)(1)(A). Pub. L. 100–323, §15(c)(1), substituted “Director for Veterans’ Employment and Training” for “State Director for Veterans’ Employment” and “Assistant Director for Veterans’ Employment and Training” for “Assistant State Director for Veterans’ Employment”.
+Subsec. (b)(1)(A). Pub. L. 100–323, §15(c)(1), substituted “Director for Veterans’ Employment and Training” for“State Director for Veterans’ Employment” and “Assistant Director for Veterans’ Employment and Training” for “Assistant State Director for Veterans’ Employment”.
 
 Pub. L. 100–323, §5(1)–(3), designated existing provisions as subpar. (A), redesignated former cls. (A) and (B) as (i) and (ii), respectively, and substituted “, except as provided in subparagraph (B) of this paragraph, be a qualified veteran” for “be an eligible veteran” in cl. (i).
 

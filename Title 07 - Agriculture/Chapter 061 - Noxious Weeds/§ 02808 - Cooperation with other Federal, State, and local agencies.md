@@ -2,7 +2,7 @@
 
 (a) The Secretary is authorized to cooperate with other Federal agencies, agencies of States, territories, or districts, or political subdivisions thereof, farmers’ associations, and similar organizations, and individuals in carrying out operations or measures in the United States to eradicate, suppress, control, or prevent or retard the spread of any noxious weed. The Secretary is authorized to appoint employees of other agencies of the Federal Government or any agencies of any State, territory, or district, or political subdivisions thereof, as collaborators to assist in administration of the provisions of this chapter, pursuant to cooperative agreements with such agencies, whenever he determines that such appointments would facilitate administration of this chapter.
 
-(b) In performing the operations or measures authorized by subsection (a) of this section, thecooperating State or other governmental agency shall be responsible for the authority necessary to carry out the operations or measures on all lands and properties within the State or other jurisdiction involved, other than those owned or controlled by the United States Government, and for such other facilities and means as in the discretion of the Secretary are necessary.
+(b) In performing the operations or measures authorized by subsection (a) of this section, the cooperating State or other governmental agency shall be responsible for the authority necessary to carry out the operations or measures on all lands and properties within the State or other jurisdiction involved, other than those owned or controlled by the United States Government, and for such other facilities and means as in the discretion of the Secretary are necessary.
 
 (Pub. L. 93–629, §9, Jan. 3, 1975, 88 Stat. 2151.)
 

@@ -10,7 +10,7 @@
 
 (b) The examination prescribed by subsection (a)—
 
-&emsp;(1) shall be conducted, for the Army National Guard, by a board of three commissioned officers designated by the Secretary of the Army from members of the Regular Army or the Army National Guard of the United States, or both, and for the Air National Guard, by a board of three commissioned officers designated by the Secretary of the Air Force from members of the Regular Air Force or the Air National Guard of the United States, or both; and
+&emsp;(1) shall be conducted, for the Army National Guard, by a board of three commissioned officers designated by the Secretary of the Army from members of the Regular Army or the Army National Guard of the United States, or both, and for the Air NationalGuard, by a board of three commissioned officers designated by the Secretary of the Air Force from members of the Regular Air Force or the Air National Guard of the United States, or both; and
 
 &emsp;(2) may be held before original appointment or promotion.
 

@@ -10,7 +10,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(4) The term “underwriter” means any person who has purchased from an issuer with a view to, or offers or sells for an issuer in connection with, the distribution of any security, or participates or has a direct or indirect participation in any such undertaking, or participates or has a participation in the direct or indirect underwriting of any such undertaking; but such term shall not include a person whose interest is limited to a commission from an underwriter or dealer not in excess of the usual and customary distributors’ or sellers’ commission.
 
-&emsp;(5) The term “director” means any director of a corporation, or any individual performing similar functions with respect to any organization whether incorporated or unincorporated.
+&emsp;(5) The term “director” means any director of a corporation, or any individual performingsimilar functions with respect to any organization whether incorporated or unincorporated.
 
 &emsp;(6) The term “executive officer” means the president, every vice president, every trust officer, the cashier, the secretary, and the treasurer of a corporation, and any individual customarily performing similar functions with respect to any organization whether incorporated or unincorporated, but shall not include the chairman of the board of directors.
 
@@ -32,7 +32,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(15) The term “Commission” means the Securities and Exchange Commission.
 
-&emsp;(16) The term “voting security” means any security presently entitling the owner or holder thereof to vote in the direction or management of the affairs of a person, or any security issued under or pursuant to any trust, agreement, or arrangement whereby a trustee ortrustees or agent or agents for the owner or holder of such security are presently entitled to vote in the direction or management of the affairs of a person; and a specified percentage of the voting securities of a person means such amount of the outstanding voting securities of such person as entitles the holder or holders thereof to cast such specified percentage of the aggregate votes which the holders of all the outstanding voting securities of such person are entitled to cast in the direction or management of the affairs of such person.
+&emsp;(16) The term “voting security” means any security presently entitling the owner or holder thereof to vote in the direction or management of the affairs of a person, or any security issued under or pursuant to any trust, agreement, or arrangement whereby a trustee or trustees or agent or agents for the owner or holder of such security are presently entitled to vote in the direction or management of the affairs of a person; and a specified percentage of the voting securities of a person means such amount of the outstanding voting securities of such person as entitles the holder or holders thereof to cast such specified percentage of the aggregate votes which the holders of all the outstanding voting securities of such person are entitled to cast in the direction or management of the affairs of such person.
 
 &emsp;(17) The terms “Securities Act of 1933 \[15 U.S.C. 77a et seq.\],” “Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\],” and “Public Utility Holding Company Act of 1935 \[15 U.S.C. 79 et seq.\]” shall be deemed to refer, respectively, to such Acts, as amended, whether amended prior to or after the enactment of this subchapter.
 

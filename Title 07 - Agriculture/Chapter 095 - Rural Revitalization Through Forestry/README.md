@@ -19,7 +19,7 @@
 | (a) | Findings. |
 | (b) | Purposes. |
 | [6612\.](Subchapter%20002%20%28II%29%20-%20National%20Forest-Dependent%20Rural%20Communities/%C2%A7%2006612%20-%20Definitions.md) | Definitions. |
-| [6613\.](Subchapter%20002%20%28II%29%20-%20National%20Forest-Dependent%20Rural%20Communities/%C2%A7%2006613%20-%20Rural%20forestry%20and%20economic%20diversification%20action%20teams.md) | Rural forestry and economic diversification action teams. |
+| [6613\.](Subchapter%20002%20%28II%29%20-%20National%20Forest-Dependent%20Rural%20Communities/%C2%A7%2006613%20-%20Rural%20natural%20resources%20and%20economic%20diversification%20action%20teams.md) | Rural natural resources and economic diversification action teams. |
 | (a) | Requests for assistance. |
 | (b) | Establishment. |
 | (c) | Organization. |

@@ -2,15 +2,11 @@
 
 (a)
 
-In General.—Whoever, for the purpose of deceiving the public, marks upon, applies to, oruses in advertising in connection with an article made, used, distributed, or sold, a design which is not protected under this chapter, a design notice specified in section 1306, or any other words or symbols importing that the design is protected under this chapter, knowing that the design is not so protected, shall pay a civil fine of not more than $500 for each such offense.
+In General.—Whoever, for the purpose of deceiving the public, marks upon, applies to, or uses in advertising in connection with an article made, used, distributed, or sold, a design which is not protected under this chapter, a design notice specified in section 1306, or any other words or symbols importing that the design is protected under this chapter, knowing that the design is not so protected, shall pay a civil fine of not more than $500 for each such offense.
 
 (b)
 
 Suit by Private Persons.—Any person may sue for the penalty established by subsection (a), in which event one-half of the penalty shall be awarded to the person suing and the remainder shall be awarded to the United States.
 
 (Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2915.)
-
-#### Termination of Section
-
-<i>For termination of section by section 505 of Pub. L. 105–304, see Effective and Termination Dates note set out under section 1301 of this title.</i>
 

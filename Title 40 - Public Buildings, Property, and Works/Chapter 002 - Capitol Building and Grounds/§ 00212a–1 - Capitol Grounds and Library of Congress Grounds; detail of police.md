@@ -12,7 +12,7 @@ Pub. L. 98–51, title I, §112, July 14, 1983, 97 Stat. 271.
 
 Pub. L. 97–276, §101(e) \[S. 2939, title I\], Oct. 2, 1982, 96 Stat. 1189.
 
-Pub. L. 97–51, §101(c) \[H.R. 4120, title I\], Oct. 10, 1981, 95 Stat. 959.
+Pub. L. 97–51, §101(c) \[H.R. 4120, title I\], Oct. 1, 1981, 95 Stat. 959.
 
 Pub. L. 96–536, §101(c) \[H.R. 7593, title I\], Dec. 16, 1980, 94 Stat. 3167.
 

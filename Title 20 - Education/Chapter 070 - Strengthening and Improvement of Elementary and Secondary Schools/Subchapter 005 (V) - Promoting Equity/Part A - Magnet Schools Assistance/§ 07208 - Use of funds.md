@@ -6,7 +6,7 @@ Grant funds made available under this part may be used by an eligible local educ
 
 &emsp;(1) for planning and promotional activities directly related to the development, expansion, continuation, or enhancement of academic programs and services offered at magnet schools;
 
-&emsp;(2) for the acquisition of books, materials, and equipment, including computers and the maintenance and operation thereof, necessaryfor the conduct of programs in magnet schools;
+&emsp;(2) for the acquisition of books, materials, and equipment, including computers and the maintenance and operation thereof, necessary for the conduct of programs in magnet schools;
 
 &emsp;(3) for the payment, or subsidization of the compensation, of elementary and secondary school teachers who are certified or licensed by the State, and instructional staff where applicable, who are necessary for the conduct of programs in magnet schools; and
 

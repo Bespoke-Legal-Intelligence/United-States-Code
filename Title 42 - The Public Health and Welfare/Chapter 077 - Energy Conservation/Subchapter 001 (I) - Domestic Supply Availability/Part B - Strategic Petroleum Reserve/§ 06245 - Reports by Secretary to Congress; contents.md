@@ -30,7 +30,7 @@ The Secretary shall report to the President and the Congress, not later than one
 
 #### Amendments
 
-1995—Pub. L. 104–66 struck out subsec. (a) designation before “The Secretary shall”, and struck out subsec.\(b) which directed Secretary to report to Congress on activities undertaken with respect to Strategic Petroleum Reserve under the amendments made by Strategic Petroleum Reserve Amendments Act of 1981.
+1995—Pub. L. 104–66 struck out subsec. (a) designation before “The Secretary shall”, and struck out subsec. (b) which directed Secretary to report to Congress on activities undertaken with respect to Strategic Petroleum Reserve under the amendments made by Strategic Petroleum Reserve Amendments Act of 1981.
 
 1986—Subsec. (a)(1). Pub. L. 99–509 amended par. (1) generally, inserting “, including” in introductory text and adding subpars. (A) to (G).
 
@@ -56,7 +56,7 @@ Impact Analysis.—(1) The Secretary of Energy shall analyze the impact on the d
 
 &emsp;“(C) specify the nature and administration of monetary and fiscal policies that would be followed including emergency tax cuts, emergency block grants, and emergency supplements to income maintenance programs, and
 
-&emsp;“(D) describe the likely impact on the distribution of petroleum products of State and local laws and regulations (including emergency authorities) affecting the distribution of petroleum products.
+&emsp;“(D) describe the likely impact on the distribution of petroleum products of State and local laws andregulations (including emergency authorities) affecting the distribution of petroleum products.
 
 > Such analysis shall include projections of the effect of the petroleum supply reduction on the price of motor gasoline, home heating oil, and diesel fuel, and on Federal tax revenues, Federal royalty receipts, and State and local tax revenues.
 

@@ -14,7 +14,7 @@ Notwithstanding the provisions of subsection (a) of this section, funds are here
 
 #### (d) Substituted construction projects
 
-Funds authorized to be appropriated for any construction project to be used in connection with the development or production of special nuclear material or atomic weapons may be used to start another construction project not otherwise authorized if the substituted construction project is within the limit of cost of the construction project for which substitution is to be made, and the Commission certifies that—
+Funds authorized to be appropriated for any construction project to be used in connection with the development or production of special nuclear material or atomic weapons may be used to start another construction project nototherwise authorized if the substituted construction project is within the limit of cost of the construction project for which substitution is to be made, and the Commission certifies that—
 
 &emsp;(1) the substituted project is essential to the common defense and security;
 
@@ -26,7 +26,7 @@ Funds authorized to be appropriated for any construction project to be used in c
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in section 19 of act Aug. 1, 1946, ch. 724,60 Stat. 775, which was classified to section 1819 of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+Provisions similar to those comprising this section were contained in section 19 of act Aug. 1, 1946, ch. 724, 60 Stat. 775, which was classified to section 1819 of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
 

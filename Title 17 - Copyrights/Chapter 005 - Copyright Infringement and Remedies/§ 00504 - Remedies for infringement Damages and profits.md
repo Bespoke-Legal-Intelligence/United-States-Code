@@ -16,15 +16,15 @@ Actual Damages and Profits.—The copyright owner is entitled to recover the act
 
 Statutory Damages.—
 
-&emsp;(1) Except as provided by clause (2) of this subsection, the copyright owner may elect, at any time before final judgment is rendered, to recover, instead of actual damages and profits, an award of statutory damages for all infringements involved in the action, with respect to any one work, for which any one infringer is liable individually, or for which any two or more infringers are liable jointly and severally, in a sum of not less than $500 or more than $20,000 as the court considers just. For the purposes of this subsection, all the parts of a compilation or derivative work constitute one work.
+&emsp;(1) Except as provided by clause (2) of this subsection, the copyright owner may elect, at any time before final judgment is rendered, to recover, instead of actual damages and profits, an award of statutory damages for all infringements involved in the action, with respect to any one work, for which any one infringer is liable individually, or for which any two or more infringers are liable jointly and severally, in a sum of not less than $750 or more than $30,000 as the court considers just. For the purposes of this subsection, all the parts of a compilation or derivative work constitute one work.
 
-&emsp;(2) In a case where the copyright owner sustains the burden of proving, and the court finds, that infringement was committed willfully, the court in its discretion may increase the award of statutory damages to a sum of not more than $100,000. In a case where the infringer sustains the burden of proving, and the court finds, that such infringer was not aware and had no reason to believe that his or her acts constituted an infringement of copyright, the court in its discretion may reduce the award of statutory damages to a sum of not less than $200. The court shall remit statutory damages in any case where an infringer believed and had reasonable grounds for believing that his or her use of the copyrighted work was a fair use under section 107, if the infringer was: (i) an employee or agent of a nonprofit educational institution, library, or archives acting within the scope of his or her employment who, or such institution, library, or archives itself, which infringed by reproducing the work in copies or phonorecords; or (ii) a public broadcasting entity which or a person who, as a regular part of the nonprofit activities of a public broadcasting entity (as defined in subsection (g) of section 118) infringed by performing a published nondramatic literary work or by reproducing a transmission program embodying a performance of such a work.
+&emsp;(2) In a case where the copyright owner sustains the burden of proving, and the court finds, that infringement was committed willfully, the court in its discretion may increasethe award of statutory damages to a sum of not more than $150,000. In a case where the infringer sustains the burden of proving, and the court finds, that such infringer was not aware and had no reason to believe that his or her acts constituted an infringement of copyright, the court in its discretion may reduce the award of statutory damages to a sum of not less than $200. The court shall remit statutory damages in any case where an infringer believed and had reasonable grounds for believing that his or her use of the copyrighted work was a fair use under section 107, if the infringer was: (i) an employee or agent of a nonprofit educational institution, library, or archives acting within the scope of his or her employment who, or such institution, library, or archives itself, which infringed by reproducing the work in copies or phonorecords; or (ii) a public broadcasting entity which or a person who, as a regular part of the nonprofit activities of a public broadcasting entity (as defined in subsection (g) of section 118) infringed by performing a published nondramatic literary work or by reproducing a transmission program embodying a performance of such a work.
 
 (d)
 
 Additional Damages in Certain Cases.—In any case in which the court finds that a defendant proprietor of an establishment who claims as a defense that its activities were exempt under section 110(5) did not have reasonable grounds to believe that its use of a copyrighted work was exempt under such section, the plaintiff shall be entitled to, in addition to any award of damages under this section, an additional award of two times the amount of the license fee that the proprietor of the establishment concerned should have paid the plaintiff for such use during the preceding period of up to 3 years.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2585; Pub. L. 100–568, §10(b), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 105–80, §12(a)(13), Nov. 13, 1997, 111 Stat. 1535; Pub. L. 105–298, title II, §204, Oct. 27, 1998, 112 Stat. 2833.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2585; Pub. L. 100–568, §10(b), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 105–80, §12(a)(13), Nov. 13, 1997, 111 Stat. 1535; Pub. L. 105–298, title II, §204, Oct. 27, 1998, 112 Stat. 2833; Pub. L. 106–160, §2, Dec. 9, 1999, 113 Stat. 1774.)
 
 #### Historical and Revision Notes
 
@@ -44,7 +44,7 @@ The language of the subsection makes clear that only those profits “attributab
 
 &emsp;2\. Although, as explained below, an award of minimum statutory damages may be multiplied if separate works and separately liable infringers are involved in the suit, a single award in the $250 to $10,000 range is to be made “for all infringements involved in the action.” A single infringer of a single work is liable for a single amount between $250 and $10,000, no matter how many acts of infringement are involved in the action and regardless of whether the acts were separate, isolated, or occurred in a related series.
 
-&emsp;3\. Where the suit involves infringement of more than one separate and independent work, minimum statutory damages for each work must be awarded. For example, if one defendant has infringed three copyrighted works, the copyright owner is entitled to statutory damages of at least $750 and may be awarded up to $30,000. Subsection (c)(1) makes clear, however, that, although they are regarded as independent works for other purposes, “all the parts of a compilation or derivative work constitute one work” for this purpose. Moreover, although the minimum and maximum amounts are to be multiplied where multiple “works” are involved in the suit, the same is not true with respect to multiple copyrights, multiple owners, multiple exclusive rights, or multiple registrations. This point is especially important since, under a scheme of divisible copyright, it is possible to have the rights of a number of owners of separate “copyrights” in a single “work” infringed by one act of a defendant.
+&emsp;3\. Where the suit involves infringement of more than one separate and independent work, minimum statutory damages for each work must be awarded. For example, if one defendant has infringed three copyrighted works, the copyright owner is entitled to statutory damages of at least $750 and may be awarded up to $30,000. Subsection (c)(1) makes clear, however, that, although they are regarded as independent works for other purposes, “all the parts of a compilation or derivative work constitute one work” for this purpose. Moreover, although the minimum and maximum amounts are to be multiplied where multiple “works” are involved in the suit, the same is not true with respect to multiple copyrights, multiple owners, multiple exclusive rights, or multiple registrations.This point is especially important since, under a scheme of divisible copyright, it is possible to have the rights of a number of owners of separate “copyrights” in a single “work” infringed by one act of a defendant.
 
 &emsp;4\. Where the infringements of one work were committed by a single infringer acting individually, a single award of statutory damages would be made. Similarly, where the work was infringed by two or more joint tortfeasors, the bill would make them jointly and severally liable for an amount in the $250 to $10,000 range. However, where separate infringements for which two or more defendants are not jointly liable are joined in the same action, separate awards of statutory damages would be appropriate.
 
@@ -56,6 +56,10 @@ In addition to the general “innocent infringer” provision clause (2) deals w
 
 #### Amendments
 
+1999—Subsec. (c)(1). Pub. L. 106–160, §2(1), substituted “$750” for “$500” and “$30,000” for “$20,000”.
+
+Subsec. (c)(2). Pub. L. 106–160, §2(2), substituted “$150,000” for “$100,000”.
+
 1998—Subsec. (d). Pub. L. 105–298 added subsec. (d).
 
 1997—Subsec. (c)(2). Pub. L. 105–80 substituted “the court in its discretion” for “the court it its discretion”.
@@ -63,6 +67,10 @@ In addition to the general “innocent infringer” provision clause (2) deals w
 1988—Subsec. (c)(1). Pub. L. 100–568, §10(b)(1), substituted “$500” for “$250” and “$20,000” for “$10,000”.
 
 Subsec. (c)(2). Pub. L. 100–568, §10(b)(2), substituted “$100,000” for “$50,000” and “$200” for “$100”.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–160, §4, Dec. 9, 1999, 113 Stat. 1774, provided that: “The amendments made by section 2 \[amending this section\] shall apply to any action brought on or after the date of the enactment of this Act \[Dec. 9, 1999\], regardless of the date on which the alleged activity that is the basis of the action occurred.”
 
 #### Effective Date of 1998 Amendment
 
@@ -86,5 +94,5 @@ Works consisting of sounds, images, or both, the first fixation of which is made
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 109, 111, 115, 119, 401, 402, 405, 411, 412, 510, 511, 1101 of this title; title 28 section 1498.
+This section is referred to in sections 109, 111, 115, 119, 122, 401, 402, 405, 411, 412, 510, 511, 1101 of this title; title 28 section 1498.
 

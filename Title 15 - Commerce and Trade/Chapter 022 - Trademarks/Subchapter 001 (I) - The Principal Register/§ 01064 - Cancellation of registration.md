@@ -1,6 +1,6 @@
 ### §1064. Cancellation of registration
 
-A petition to cancel a registration of a mark, stating the grounds relied upon, may, upon payment of the prescribed fee, be filed as follows by any person who believes that he is or will be damaged by the registration of a mark on the principal register established by this chapter, or under the Act of March 3, 1881, or the Act of February 20, 1905:
+A petition to cancel a registration of a mark, stating the grounds relied upon, may, upon payment of the prescribed fee, be filed as follows by any person who believes that he is or will be damaged, including as a result of dilution under section 1125(c) of this title, by the registration of a mark on the principal register established by this chapter, or under the Act of March 3, 1881, or the Act of February 20, 1905:
 
 &emsp;(1) Within five years from the date of the registration of the mark under this chapter.
 
@@ -14,7 +14,7 @@ A petition to cancel a registration of a mark, stating the grounds relied upon, 
 
 > <i>Provided</i>, That the Federal Trade Commission may apply to cancel on the grounds specified in paragraphs (3) and (5) of this section any mark registered on the principal register established by this chapter, and the prescribed fee shall not be required. Nothing in paragraph (5) shall be deemed to prohibit the registrant from using its certification mark in advertising or promoting recognition of the certification program or of the goods or services meeting the certification standards of the registrant. Such uses of the certification mark shall not be grounds for cancellation under paragraph (5), so long as the registrant does not itself produce, manufacture, or sell any of the certified goods or services to which its identical certification mark is applied.
 
-(July 5, 1946, ch. 540, title I, §14, 60 Stat. 433; Pub. L. 87–772, §9, Oct. 9, 1962, 76 Stat. 771; Pub. L. 97–247, §9(b), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–620, title I, §102, Nov. 8, 1984, 98 Stat. 3335; Pub. L. 100–667, title I, §115, Nov. 16, 1988, 102 Stat. 3940; Pub. L. 105–330, title II, §201(a)(4), title III, §301, Oct. 30, 1998, 112 Stat. 3070.)
+(July 5, 1946, ch. 540, title I, §14, 60 Stat. 433; Pub. L. 87–772, §9, Oct. 9, 1962, 76 Stat. 771; Pub. L. 97–247, §9(b), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–620, title I, §102, Nov. 8, 1984, 98 Stat. 3335; Pub. L. 100–667, title I, §115, Nov. 16, 1988, 102 Stat. 3940; Pub. L. 105–330, title II, §201(a)(4), title III, §301, Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, §2(c), Aug. 5, 1999, 113 Stat. 218.)
 
 #### References in Text
 
@@ -25,6 +25,8 @@ Acts March 3, 1881 and February 20, 1905, referred to in opening par. and pars. 
 Act Feb. 20, 1905, ch. 592, §13, 33 Stat. 728.
 
 #### Amendments
+
+1999—Pub. L. 106–43 inserted “, including as a result of dilution under section 1125(c) of this title,” after “damaged” in introductory provisions.
 
 1998—Pub. L. 105–330, §301, inserted at end “Nothing in paragraph (5) shall be deemed to prohibit the registrant from using its certification mark in advertising or promoting recognition of the certification program or of the goods or services meeting the certification standards of the registrant. Such uses of the certification mark shall not be grounds for cancellation under paragraph (5), so long as the registrant does not itself produce, manufacture, or sell any of the certified goods or services to which its identical certification mark is applied.”
 
@@ -47,6 +49,10 @@ Par. (5). Pub. L. 100–667, §115(6), substituted “(5) At” for “(e) at”
 1982—Pub. L. 97–247 struck out “verified” before “petition to cancel” in provision preceding par. (a).
 
 1962—Pub. L. 87–772 inserted provisions which require a verified petition to cancel a registration, redesignated par. (d) as (e), added par. (d) which is composed of provisions formerly part of par. (c), and in said par. (c), substituted “registrant” for “assignee”, and struck out “on which the patent has expired” before “or has been abandoned”, and “has been assigned and” before “is being used by”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–43 effective Aug. 5, 1999, and applicable only to any application for registration filed on or after Jan. 16, 1996, see section 2(e) of Pub. L. 106–43, set out as a note under section 1052 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -84,5 +90,5 @@ Supplemental register, section inapplicable to trademarks on, see section 1094 o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1065, 1094 of this title.
+This section is referred to in sections 1052, 1065, 1094 of this title.
 

@@ -1,12 +1,20 @@
 ### §182. Abandonment of invention for unauthorized disclosure
 
-The invention disclosed in an application for patent subject to an order made pursuant to section 181 of this title may be held abandonedupon its being established by the Commissioner that in violation of said order the invention has been published or disclosed or that an application for a patent therefor has been filed in a foreign country by the inventor, his successors, assigns, or legal representatives, or anyone in privity with him or them, without the consent of the Commissioner. The abandonment shall be held to have occurred as of the time of violation. The consent of the Commissioner shall not be given without the concurrence of the heads of the departments and the chief officers of the agencies who caused the order to be issued. A holding of abandonment shall constitute forfeiture by the applicant, his successors, assigns, or legal representatives, or anyone in privity with him or them, of all claims against the United States based upon such invention.
+The invention disclosed in an application for patent subject to an order made pursuant to section 181 of this title may be held abandoned upon its being established by the Commissioner of Patents that in violation of said order the invention has been published or disclosed or that an application for a patent therefor has been filed in a foreign country by the inventor, his successors, assigns, or legal representatives, or anyone in privity with him or them, without the consent of the Commissioner of Patents. The abandonment shall be held to have occurred as of the time of violation. The consent of the Commissioner of Patents shall not be given without the concurrence of the heads of the departments and the chief officers of the agencies who caused the order to be issued. A holding of abandonment shall constitute forfeiture by the applicant, his successors, assigns, or legal representatives, or anyone in privity with him or them, of all claims against the United States based upon such invention.
 
-(July 19, 1952, ch. 950, 66 Stat. 806.)
+(July 19, 1952, ch. 950, 66 Stat. 806; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
 
 #### Historical and Revision Notes
 
 Based on Title 35, U.S.C., 1946 ed., §152 (Feb. 1, 1952, ch. 4, §2, 66 Stat. 4).
 
 Language is changed.
+
+#### Amendments
+
+1999—Pub. L. 106–113 substituted “Commissioner of Patents” for “Commissioner” wherever appearing.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 

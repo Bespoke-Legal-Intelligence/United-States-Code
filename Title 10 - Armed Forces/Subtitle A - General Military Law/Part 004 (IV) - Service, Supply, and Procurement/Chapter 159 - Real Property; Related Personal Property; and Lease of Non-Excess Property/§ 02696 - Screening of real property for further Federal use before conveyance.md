@@ -2,11 +2,11 @@
 
 (a)
 
-Screening Requirement.—The Secretary concerned may not convey real property that is authorized or required to be conveyed, whether for or without consideration, by any provision of law unless the Administrator of General Services has screened the property for further Federal use in accordance with the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.).
+Screening Requirement.—The Secretary concerned may not convey real property that is authorized or required to be conveyed, whether for or without consideration, by any provision of law enacted after December 31, 1997, unless the Administrator of General Services has screened the property for further Federal use in accordance with the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.).
 
 (b)
 
-Time for Screening.—(1) Before the end of the 30-day period beginning on the date of the enactment of a provision of law authorizing or requiring the conveyance of a parcel of real property by the Secretary concerned, the Administrator of General Services shall complete the screening required by paragraph (1) <sup>1</sup> with regard to the real property and notify the Secretary concerned of the results of the screening. The notice shall include—
+Time for Screening.—(1) Before the end of the 30-day period beginning on the date of the enactment of a provision of law authorizing or requiring the conveyance of a parcel of real property by the Secretary concerned, the Administrator of General Services shall complete the screening referred to in subsection (a) with regard to the real property and notify the Secretary concerned of the results of the screening. The notice shall include—
 
 &emsp;(A) the name of the Federal agency requesting transfer of the property;
 
@@ -34,21 +34,31 @@ Excepted Conveyance Authorities.—The screening requirements of this section sh
 
 &emsp;(3) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
-&emsp;(4) Any provision of law authorizing the closure or realignment of a military installation that is enacted after the date of enactment of the National Defense Authorization Act for Fiscal Year 1998.
+&emsp;(4) Any provision of law authorizing the closure or realignment of a military installation that is enacted after November 18, 1997.
 
 &emsp;(5) Title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.).
 
 &emsp;(6) Any specific provision of law authorizing or requiring the transfer of administrative jurisdiction over a parcel of real property between Federal agencies.
 
-(Added Pub. L. 105–85, div. B, title XXVIII, §2814(a)(1), Nov. 18, 1997, 111 Stat. 1994.)
+(Added Pub. L. 105–85, div. B, title XXVIII, §2814(a)(1), Nov. 18, 1997, 111 Stat. 1994; amended Pub. L. 106–65, div. A, title X, §1066(a)(26), Oct. 5, 1999, 113 Stat. 772.)
 
 #### References in Text
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsecs. (a) and (e)(5), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. Title II of the Act is classified principally to subchapter II (§481 et seq.) of chapter 10 of Title 40. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
-The date of enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (e)(4), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
+#### Amendments
+
+1999—Subsec. (a). Pub. L. 106–65, §1066(a)(26)(A), inserted “enacted after December 31, 1997,” after “any provision of law”.
+
+Subsec. (b)(1). Pub. L. 106–65, §1066(a)(26)(B), substituted “referred to in subsection (a)” for “required by paragraph (1)” in introductory provisions.
+
+Subsec. (e)(4). Pub. L. 106–65, §1066(a)(26)(C), substituted “November 18, 1997” for “the date of enactment of the National Defense Authorization Act for Fiscal Year 1998”.
 
 #### Effective Date
 
 Section 2814(b) of Pub. L. 105–85 provided that: “Section 2696 of title 10, United States Code, as added by subsection (a) of this section, shall apply with respect to any real property authorized or required to be conveyed under a provision of law covered by such section that is enacted after December 31, 1997.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2814 of this title.
 

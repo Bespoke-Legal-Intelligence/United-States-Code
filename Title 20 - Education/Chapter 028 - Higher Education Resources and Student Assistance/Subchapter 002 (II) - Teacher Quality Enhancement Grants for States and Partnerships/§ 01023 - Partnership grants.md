@@ -26,7 +26,7 @@ From amounts made available under section 1030(2) of this title for a fiscal yea
 
 &emsp;&emsp;(A) graduates from the teacher training program exhibit strong performance on State-determined qualifying assessments for new teachers through—
 
-&emsp;&emsp;&emsp;(i) demonstrating that 80 percent or more of the graduates of the program who intend to enter the field of teaching havepassed all of the applicable State qualification assessments for new teachers, which shall include an assessment of each prospective teacher's subject matter knowledge in the content area or areas in which the teacher intends to teach; or
+&emsp;&emsp;&emsp;(i) demonstrating that 80 percent or more of the graduates of the program who intend to enter the field of teaching have passed all of the applicable State qualification assessments for new teachers, which shall include an assessment of each prospective teacher's subject matter knowledge in the content area or areas in which the teacher intends to teach; or
 
 &emsp;&emsp;&emsp;(ii) being ranked among the highest-performing teacher preparation programs in the State as determined by the State—
 
@@ -94,7 +94,7 @@ An eligible partnership that receives a grant under this section may use such fu
 
 #### (f) Special rule
 
-No individual member of an eligible partnership shall retain more than 50 percent of thefunds made available to the partnership under this section.
+No individual member of an eligible partnership shall retain more than 50 percent of the funds made available to the partnership under this section.
 
 #### (g) Construction
 

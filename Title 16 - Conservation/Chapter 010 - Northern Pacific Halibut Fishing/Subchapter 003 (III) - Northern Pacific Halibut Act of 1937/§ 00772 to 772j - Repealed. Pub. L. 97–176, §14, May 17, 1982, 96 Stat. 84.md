@@ -8,7 +8,7 @@ Section 772b, act June 28, 1937, ch. 392, §3, 50 Stat. 326, enumerated the unla
 
 Section 772c, act June 28, 1937, ch. 392, §4, 50 Stat. 327, related to the duty of the owner or master of vessels to keep records and reports and to make them available for inspection.
 
-Section 772d, act June 28, 1937, ch. 392, §5, 50 Stat. 327; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R.2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, related to enforcement, arrest and seizure of offending persons and vessels, detention, and use of the testimony of Federal officers and employees. See section 773i of this title.
+Section 772d, act June 28, 1937, ch. 392, §5, 50 Stat. 327; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, related to enforcement, arrest and seizure of offending persons and vessels, detention, and use of the testimony of Federal officers and employees. See section 773i of this title.
 
 Section 772e, act June 28, 1937, ch. 392, §6, 50 Stat. 328; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, related to penalties and forfeitures. See sections 773f to 773h of this title.
 

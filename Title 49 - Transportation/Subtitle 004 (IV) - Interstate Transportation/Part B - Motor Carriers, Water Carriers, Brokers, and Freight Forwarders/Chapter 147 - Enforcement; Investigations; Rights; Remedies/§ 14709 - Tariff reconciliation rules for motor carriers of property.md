@@ -12,7 +12,7 @@ This amends 49:14709 by setting out the effective date of 49:14709 and for clari
 
 #### References in Text
 
-Sections 10761 and 10762, referred to in text, were omitted in the general amendment of this subtitle byPub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
+Sections 10761 and 10762, referred to in text, were omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
 
 #### Prior Provisions
 

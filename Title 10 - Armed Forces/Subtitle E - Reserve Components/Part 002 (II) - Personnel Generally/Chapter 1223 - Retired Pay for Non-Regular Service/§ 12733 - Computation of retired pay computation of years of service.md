@@ -8,9 +8,11 @@ For the purpose of computing the retired pay of a person under this chapter, the
 
 &emsp;(3) One day for each point credited to the person under clause (B), (C), or (D) of section 12732(a)(2) of this title, but not more than 60 days in any one year of service before the year of service that includes September 23, 1996, and not more than 75 days in any subsequent year of service.
 
-&emsp;(4) 50 days for each year before July 1, 1949, and proportionately for each fraction of a year, of service (other than active service) in a reserve component of an armed force, in the Army or the Air Force without component, or in any other category covered by section 12732(a)(1) of this title, except a regular component.
+&emsp;(4) One day for each point credited to the person under subparagraph (E) of section 12732(a)(2) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 103, §1333; Pub. L. 85–861, §33(a)(10), Sept. 2, 1958, 72 Stat. 1565; renumbered §12733 and amended Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3002; Pub. L. 104–201, div. A, title V, §§531(a), 543(b)(2), Sept. 23, 1996, 110 Stat. 2517, 2522; Pub. L. 105–85, div. A, title X, §1073(a)(67), (c)(4), Nov. 18, 1997, 111 Stat. 1904.)
+&emsp;(5) 50 days for each year before July 1, 1949, and proportionately for each fraction of a year, of service (other than active service) in a reserve component of an armed force, in the Army or the Air Force without component, or in any other category covered by section 12732(a)(1) of this title, except a regular component.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 103, §1333; Pub. L. 85–861, §33(a)(10), Sept. 2, 1958, 72 Stat. 1565; renumbered §12733 and amended Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3002; Pub. L. 104–201, div. A, title V, §§531(a), 543(b)(2), Sept. 23, 1996, 110 Stat. 2517, 2522; Pub. L. 105–85, div. A, title X, §1073(a)(67), (c)(4), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 106–65, div. A, title V, §578(h)(2), Oct. 5, 1999, 113 Stat. 628.)
 
 Historical and Revision Notes<br>1956
 
@@ -51,6 +53,8 @@ Clause (1) is substituted for 10:1036b(i). In clause (3), the words “and propo
 The change is necessary so that active service and service described in section 1332(a)(2)(A)(ii) that was performed on or before July 1, 1949, may be counted in computing retired pay, as provided by the source law, section 303(i) of the Army and Air Force Vitalization and Retirement Equalization Act of 1948 (62 Stat. 1088) and in accordance with the opinion of the Judge Advocate General of the Army (JAGA 1956/1908, Feb. 13, 1956).
 
 #### Amendments
+
+1999—Pars. (4), (5). Pub. L. 106–65 added par. (4) and redesignated former par. (4) as (5).
 
 1997—Par. (3). Pub. L. 105–85, §1073(c)(4), made technical correction to directory language of Pub. L. 104–201, §531(a). See 1996 Amendment note below.
 

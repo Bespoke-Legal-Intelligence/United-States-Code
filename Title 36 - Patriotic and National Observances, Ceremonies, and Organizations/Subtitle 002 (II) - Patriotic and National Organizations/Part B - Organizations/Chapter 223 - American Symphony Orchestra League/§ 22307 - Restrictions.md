@@ -10,7 +10,7 @@ Political Activities.—The corporation or a director or officer as such may not
 
 (c)
 
-Distribution of Income or Assets.—The income or assets of the corporation may not inure to the benefit of, or be distributed to, a director, officer, or member as such during the life of the corporation or on its dissolution or final liquidation. This subsection does not prevent the payment of compensation to an officer in an amount approved by the board of directors.
+Distribution of Income or Assets.—The income or assets of the corporation may not inure to the benefit of, or be distributed to, a director, officer, or member as such during the life of the corporation or on its dissolution or finalliquidation. This subsection does not prevent the payment of compensation to an officer in an amount approved by the board of directors.
 
 (d)
 
@@ -38,13 +38,19 @@ Oct. 15, 1962, Pub. L. 87–817, §§9, 10, 12, 76 Stat. 932.
 
 36:3410.
 
+&nbsp;
+
 22307(c)
 
 36:3409(a).
 
+&nbsp;
+
 22307(d)
 
 36:3409(b).
+
+&nbsp;
 
 In subsection (a), the words “any shares of” are omitted as unnecessary.
 

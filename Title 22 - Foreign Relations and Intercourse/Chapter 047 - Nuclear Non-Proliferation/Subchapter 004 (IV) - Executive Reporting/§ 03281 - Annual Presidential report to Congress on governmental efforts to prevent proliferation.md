@@ -64,7 +64,7 @@ The President shall review all activities of Government departments and agencies
 
 &emsp;&emsp;(C) the progress of those independent states of the former Soviet Union that are non-nuclear-weapon states and of the Baltic states towards achieving the objective of applying full scope safeguards to all their peaceful nuclear activities.
 
-> Portions of the information required by paragraph (6) may be submitted in classified form, as necessary. Any such information that may not be published or disclosed under section 12(c)(1) of the Export Administration Act of 1979 \[50 App. U.S.C. 2411(c)(1)\] shall be submitted as confidential.
+> Portions of the information required by paragraph (6) may be submitted in classified form, asnecessary. Any such information that may not be published or disclosed under section 12(c)(1) of the Export Administration Act of 1979 \[50 App. U.S.C. 2411(c)(1)\] shall be submitted as confidential.
 
 #### (b) Analysis of civil agreements for cooperation
 

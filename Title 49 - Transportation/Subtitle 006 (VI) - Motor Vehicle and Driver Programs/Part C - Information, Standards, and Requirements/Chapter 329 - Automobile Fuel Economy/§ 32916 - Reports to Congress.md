@@ -16,7 +16,7 @@ Joint Examinations After Granting Exemptions.—(1) After an exemption has been 
 
 &emsp;(D) has not caused unreasonable harm to the automobile manufacturing sector in the United States; and
 
-&emsp;(E) has permitted manufacturers that have assembled passenger automobiles deemed to be manufactured domestically under section 32904(b)(2) of this title thereafter to assemble in the United States passenger automobiles ofthe same model that have less than 75 percent of their value added in the United States or Canada, together with the reasons.
+&emsp;(E) has permitted manufacturers that have assembled passenger automobiles deemed to be manufactured domestically under section 32904(b)(2) of this title thereafter to assemble in the United States passenger automobiles of the same model that have less than 75 percent of their value added in the United States or Canada, together with the reasons.
 
 (2) The Secretary of Transportation shall include the results of the examination under paragraph (1) of this subsection in each report submitted under subsection (a) of this section more than 180 days after an exemption has been granted under section 32904(b)(6) of this title, or submit the results of the examination directly to Congress before the report is submitted when circumstances warrant.
 

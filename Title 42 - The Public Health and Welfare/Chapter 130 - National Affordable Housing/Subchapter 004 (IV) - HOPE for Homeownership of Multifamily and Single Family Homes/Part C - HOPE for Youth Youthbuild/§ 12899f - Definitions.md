@@ -94,7 +94,7 @@ For purposes of this part:
 
 #### (19) Youthbuild program
 
-&emsp;The term “Youthbuild program” means any program that receives assistance under this part and provides disadvantaged youth with opportunities for employment, education, leadership development, and training in the construction or rehabilitation of housing for homeless individuals and members of low- and very low-income families.
+&emsp;The term “Youthbuild program” means any program that receives assistance under thispart and provides disadvantaged youth with opportunities for employment, education, leadership development, and training in the construction or rehabilitation of housing for homeless individuals and members of low- and very low-income families.
 
 (Pub. L. 101–625, title IV, §457, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3731; amended Pub. L. 103–382, title III, §394(d), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 105–244, title I, §102(a)(13)(M), Oct. 7, 1998, 112 Stat. 1621.)
 

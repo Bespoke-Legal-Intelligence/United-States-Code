@@ -34,7 +34,7 @@ Form, Contents, and Limitation on Filings.—(1) A registration statement under 
 
 &emsp;(C) each State in which the person carries out the activity.
 
-(2) A person carrying out more than one activity, or an activity at more than one location, for which filing is required only has to file one registration statement to comply with subsection (a) of this section.
+(2) A person carrying out more than one activity, or an activity at more than one location, forwhich filing is required only has to file one registration statement to comply with subsection (a) of this section.
 
 (c)
 

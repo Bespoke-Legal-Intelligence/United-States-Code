@@ -42,7 +42,7 @@ Amtrak General and Legislative Annual Report.—(1) Not later than February 15 o
 
 (c)
 
-Secretary's Report on Effectiveness of This Part.—The Secretary of Transportationshall prepare a report on the effectiveness of this part in meeting the requirements for a balanced transportation system in the United States. The report may include recommendations for legislation. The Secretary shall include this report as part of the annual report the Secretary submits under section 308(a) of this title.
+Secretary's Report on Effectiveness of This Part.—The Secretary of Transportation shall prepare a report on the effectiveness of this part in meeting the requirements for a balanced transportation system in the United States. The report may include recommendations for legislation. The Secretary shall include this report as part of the annual report the Secretary submits under section 308(a) of this title.
 
 (d)
 
@@ -58,7 +58,7 @@ Availability of Records and Property of Amtrak and Rail Carriers.—Amtrak and, 
 
 (g)
 
-Comptroller General's Report to Congress.—The Comptroller General shall submit to Congress a report on each audit, giving comments and information necessary to inform Congress on the financial operations and condition of Amtrak and recommendations related to those operations and conditions. The report also shall specify any financial transaction or undertaking the Comptroller General considers is carried out without authority of law. When the Comptroller General submits a report to Congress, the Comptroller General shall submit a copy of it to the President, the Secretary, and Amtrak at the same time.
+Comptroller General's Report to Congress.—The Comptroller General shall submitto Congress a report on each audit, giving comments and information necessary to inform Congress on the financial operations and condition of Amtrak and recommendations related to those operations and conditions. The report also shall specify any financial transaction or undertaking the Comptroller General considers is carried out without authority of law. When the Comptroller General submits a report to Congress, the Comptroller General shall submit a copy of it to the President, the Secretary, and Amtrak at the same time.
 
 (h)
 

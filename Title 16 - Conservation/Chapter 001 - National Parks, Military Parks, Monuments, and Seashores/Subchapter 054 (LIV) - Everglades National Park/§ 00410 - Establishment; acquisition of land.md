@@ -88,7 +88,7 @@ South florida ecosystem.—The term ‘South Florida ecosystem’ has the meanin
 
 &emsp;“(9)
 
-Special use permit area.—The term ‘special use permit area’ means the area of 333.3 acres on the northern boundary of the Park reserved for the use, occupancy, and governance of the Tribe under a special use permit before the date of the enactment of this Act \[Oct. 30, 1998\].
+Special use permit area.—The term ‘special use permit area’ means the area of 333.3 acres on the northern boundary of the Park reserved for the use,occupancy, and governance of the Tribe under a special use permit before the date of the enactment of this Act \[Oct. 30, 1998\].
 
 &emsp;“(10)
 
@@ -220,7 +220,7 @@ Effect of failure to adopt or prescribe standards.—In the event the Tribe fail
 
 &emsp;&emsp;&emsp;“(iv)
 
-Modification of standards.—If, after the date of the enactment of this Act \[Oct. 30, 1998\], the standards referred to in clause (iii) are revised, not later than 1 year after those standardsare revised, the Tribe shall make such revisions to water quality standards of the Tribe as are necessary to ensure that those water quality standards are at least as protective as the revised water quality standards approved by the Administrator.
+Modification of standards.—If, after the date of the enactment of this Act \[Oct. 30, 1998\], the standards referred to in clause (iii) are revised, not later than 1 year after those standards are revised, the Tribe shall make such revisions to water quality standards of the Tribe as are necessary to ensure that those water quality standards are at least as protective as the revised water quality standards approved by the Administrator.
 
 &emsp;&emsp;&emsp;“(v)
 

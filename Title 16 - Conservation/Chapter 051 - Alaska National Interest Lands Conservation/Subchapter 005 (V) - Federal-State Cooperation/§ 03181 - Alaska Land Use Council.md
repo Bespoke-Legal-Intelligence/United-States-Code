@@ -112,5 +112,5 @@ The Council shall establish and implement a public participation program to assi
 
 #### References in Text
 
-This Act, referred to in subsecs. (f)(3), (5) and (i)(2)(A)(i), (ii), and (iii), is Pub. L. 96–487, Dec. 2, 1980,94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (f)(3), (5) and (i)(2)(A)(i), (ii), and (iii), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 

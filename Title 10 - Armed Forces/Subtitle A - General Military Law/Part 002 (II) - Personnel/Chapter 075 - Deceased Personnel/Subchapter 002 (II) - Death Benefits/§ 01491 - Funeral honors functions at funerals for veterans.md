@@ -1,0 +1,88 @@
+### §1491. Funeral honors functions at funerals for veterans
+
+(a)
+
+Availability of Funeral Honors Detail Ensured.—The Secretary of Defense shall ensure that, upon request, a funeral honors detail is provided for the funeral of any veteran.
+
+(b)
+
+Composition of Funeral Honors Details.—(1) The Secretary of each military department shall ensure that a funeral honors detail for the funeral of a veteran consists of two or more persons.
+
+(2) At least two members of the funeral honors detail for a veteran's funeral shall be members of the armed forces, at least one of whom shall be a member of the armed force of which the veteran was a member. The remainder of the detail may consist of members of the armed forces or members of veterans organizations or other organizations approved for purposes of this section under regulations prescribed by the Secretary of Defense. Each member of the armed forces in the detail shall wear the uniform of the member's armed force while serving in the detail.
+
+(c)
+
+Ceremony.—A funeral honors detail shall, at a minimum, perform at the funeral a ceremony that includes the folding of a United States flag and presentation of the flag to the veteran's family and the playing of Taps. Unless a bugler is a member of the detail, the funeral honors detail shall play a recorded version of Taps using audio equipment which the detail shall provide if adequate audio equipment is not otherwise available for use at the funeral.
+
+(d)
+
+Support.—To provide a funeral honors detail under this section, the Secretary of a military department may provide the following:
+
+&emsp;(1) Transportation, or reimbursement for transportation, and expenses for a person who participates in the funeral honors detail and is not a member of the armed forces or an employee of the United States.
+
+&emsp;(2) Materiel, equipment, and training for members of a veterans organization or other organization referred to in subsection (b)(2).
+
+(e)
+
+Waiver Authority.—(1) The Secretary of Defense may waive any requirement provided in or pursuant to this section when the Secretary considers it necessary to do so to meet the requirements of war, national emergency, or a contingency operation or other military requirements. The authority to make such a waiver may not be delegated to an official of a military department other than the Secretary of the military department and may not be delegated within the Office of the Secretary of Defense to an official at a level below Under Secretary of Defense.
+
+(2) Before or promptly after granting a waiver under paragraph (1), the Secretary shall transmit a notification of the waiver to the Committees on Armed Services of the Senate and House of Representatives.
+
+(f)
+
+Regulations.—The Secretary of Defense shall prescribe regulations to carry out this section. Those regulations shall include the following:
+
+&emsp;(1) A system for selection of units of the armed forces and other organizations to provide funeral honors details.
+
+&emsp;(2) Procedures for responding and coordinating responses to requests for funeral honors details.
+
+&emsp;(3) Procedures for establishing standards and protocol.
+
+&emsp;(4) Procedures for providing training and ensuring quality of performance.
+
+(g)
+
+Annual Report.—The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report not later than January 31 of each year beginning with 2001 and ending with 2005 on the experience of the Department of Defense under this section. Each such report shall provide data on the number of funerals supported under this section, the cost for that support, shown by manpower and other cost factors, and the number and costs of funerals supported by each participating organization. The data in the report shall be presented in a standard format, regardless of military department or other organization.
+
+(h)
+
+Veteran Defined.—In this section, the term “veteran” means a decedent who—
+
+&emsp;(1) served in the active military, naval, or air service (as defined in section 101(24) of title 38) and who was discharged or released therefrom under conditions other than dishonorable; or
+
+&emsp;(2) was a member or former member of the Selected Reserve described in section 2301(f) of title 38.
+
+(Added Pub. L. 105–261, div. A, title V, §567(b)(1), Oct. 17, 1998, 112 Stat. 2030; amended Pub. L. 106–65, div. A, title V, §578(a)(1), (b)–(e), (k)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 625–627, 630, 774.)
+
+#### Amendments
+
+1999—Pub. L. 106–65, §578(k)(1), substituted “Funeral honors functions at funerals for veterans” for “Honor guard details at funerals of veterans” as section catchline.
+
+Subsec. (a). Pub. L. 106–65, §578(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of a military department shall, upon request, provide an honor guard detail (or ensure that an honor guard detail is provided) for the funeral of any veteran that occurs after December 31, 1999.”
+
+Subsec. (b). Pub. L. 106–65, §578(b), substituted “Funeral Honors Details” for “Honor Guard Details” in subsec. (b) heading, designated existing provisions as par. (1), substituted “a funeral honors detail” for “an honor guard detail” and “two or more persons.” for “not less than three persons and (unless a bugler is part of the detail) has the capability to play a recorded version of Taps.”, redesignated subsec. (c) as subsec. (b)(2), struck out former subsec. (c) heading “Persons Forming Honor Guards”, and substituted “At least two members of the funeral honors detail for a veteran's funeral shall be members of the armed forces, at least one of whom shall be a member of the armed force of which the veteran was a member. The remainder of the detail” for “An honor guard detail” and “Each member of the armed forces in the detail shall wear the uniform of the member's armed force while serving in the detail.” for “The Secretary of a military department may provide transportation, or reimbursement for transportation, and expenses for a person who participates in an honor guard detail under this section and is not a member of the armed forces or an employee of the United States.”
+
+Subsec. (c). Pub. L. 106–65, §578(c)(2), added subsec. (c). Former subsec. (c) redesignated subsec. (b)(2).
+
+Subsecs. (d), (e). Pub. L. 106–65, §578(c)(2), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
+
+Subsec. (f). Pub. L. 106–65, §578(d), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall by regulation establish a system for selection of units of the armed forces and other organizations to provide honor guard details. The system shall place an emphasis on balancing the funeral detail workload among the units and organizations providing honor guard details in an equitable manner as they are able to respond to requests for such details in terms of geographic proximity and available resources. The Secretary shall provide in such regulations that the armed force in which a veteran served shall not be considered to be a factor when selecting the military unit or other organization to provide an honor guard detail for the funeral of the veteran.”
+
+Pub. L. 106–65, §578(c)(1), redesignated subsec. (d) as (f). Former subsec. (f) redesignated (h).
+
+Subsec. (g). Pub. L. 106–65, §1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+
+Pub. L. 106–65, §578(c)(1), redesignated subsec. (e) as (g).
+
+Subsec. (h). Pub. L. 106–65, §578(e), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “In this section, the term ‘veteran’ has the meaning given that term in section 101(2) of title 38.”
+
+Pub. L. 106–65, §578(c)(1), redesignated subsec. (f) as (h).
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–65, div. A, title V, §578(a)(2), Oct. 5, 1999, 113 Stat. 625, provided that: “Section 1491(a) of title 10, United States Code, as amended by paragraph (1), shall apply with respect to funerals that occur after December 31, 1999.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1588, 12503, 12552 of this title; title 32 section 115.
+

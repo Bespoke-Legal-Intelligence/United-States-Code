@@ -100,7 +100,7 @@ Waiver authority.—A State recreational trail advisory committee established un
 
 &emsp;&emsp;(D)
 
-State administrative costs.—State administrative costs eligible for funding under paragraph (2)(F) shall be exempt from the requirements of subparagraph (A).
+State administrative costs.—State administrative costs eligible for fundingunder paragraph (2)(F) shall be exempt from the requirements of subparagraph (A).
 
 &emsp;(4)
 
@@ -180,7 +180,7 @@ Credit for donations of funds, materials, services, or new right-of-way.—
 
 &emsp;&emsp;(A)
 
-In general.—Nothing in this title or other law shall prevent a project sponsor from offering to donate funds, materials,services, or a new right-of-way for the purposes of a project eligible for assistance under this section. Any funds, or the fair market value of any materials, services, or new right-of-way, may be donated by any project sponsor and shall be credited to the non-Federal share in accordance with subsection (f).
+In general.—Nothing in this title or other law shall prevent a project sponsor from offering to donate funds, materials, services, or a new right-of-way for the purposes of a project eligible for assistance under this section. Any funds, or the fair market value of any materials, services, or new right-of-way, may be donated by any project sponsor and shall be credited to the non-Federal share in accordance with subsection (f).
 
 &emsp;&emsp;(B)
 

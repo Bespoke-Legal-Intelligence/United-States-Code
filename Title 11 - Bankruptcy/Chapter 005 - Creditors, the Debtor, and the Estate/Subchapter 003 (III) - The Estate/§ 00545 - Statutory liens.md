@@ -14,7 +14,7 @@ The trustee may avoid the fixing of a statutory lien on property of the debtor t
 
 &emsp;&emsp;(E) when the debtor's financial condition fails to meet a specified standard; or
 
-&emsp;&emsp;(F) at the time of an execution against property of the debtor levied at the instanceof an entity other than the holder of such statutory lien;
+&emsp;&emsp;(F) at the time of an execution against property of the debtor levied at the instance of an entity other than the holder of such statutory lien;
 
 &emsp;(2) is not perfected or enforceable at the time of the commencement of the case against a bona fide purchaser that purchases such property at the time of the commencement of the case, whether or not such a purchaser exists;
 
@@ -52,5 +52,5 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 303, 349, 502, 522, 546, 547, 548, 550, 551, 552, 749, 764, 901, 926 of this title; title 26 sections 6327, 7434.
+This section is referred to in sections 106, 303, 349, 502, 522, 546, 547, 548, 550, 551, 552, 749, 764, 901, 926 of this title; title 26 sections 6327, 7437.
 

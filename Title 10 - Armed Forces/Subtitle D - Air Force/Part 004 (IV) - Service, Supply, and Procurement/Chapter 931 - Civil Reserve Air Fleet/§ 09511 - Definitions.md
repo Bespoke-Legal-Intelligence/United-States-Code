@@ -30,7 +30,7 @@ In this chapter:
 
 1994—Pub. L. 103–355, §3031(c), substituted “In this chapter:” for “In this subchapter:” in introductory provisions.
 
-Par. (1). Pub. L. 103–355, §3031(b)(1)(C), which directed substitution of “section 40102 of title 49” for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. 1301)”, could not be executed because of the intervening amendment by Pub. L. 103–272 which substituted “section 40102(a) of title 49” for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. 1301)”, see below.
+Par. (1). Pub. L. 103–355, §3031(b)(1)(C), which directed substitution of “section 40102 of title 49” for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. 1301)”,could not be executed because of the intervening amendment by Pub. L. 103–272 which substituted “section 40102(a) of title 49” for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. 1301)”, see below.
 
 Pub. L. 103–355, §3031(b)(1)(A), (B), inserted “ ‘civil aircraft’,” before “ ‘person’,” and substituted “meanings” for “meaning”.
 
@@ -50,7 +50,7 @@ Par. (11). Pub. L. 103–355, §3031(b)(3), (4), redesignated par. (12) as (11),
 
 Par. (12). Pub. L. 103–355, §3031(b)(3), redesignated par. (12) as (11).
 
-1989—Par. (2). Pub. L. 101–189, §1636(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: “The term ‘cargo air service’ means the carriage of property or mail on the main deck of a civil aircraft.”
+1989—Par. (2). Pub. L. 101–189, §1636(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘cargo air service’ means the carriage of property or mail on the main deck of a civil aircraft.”
 
 Par. (5). Pub. L. 101–189, §1636(a)(2), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘cargo-convertible feature’ means equipment or design features included or incorporated in a passenger aircraft that can readily enable all or substantially all of that aircraft's main deck to be used for the carriage of property or mail.”
 

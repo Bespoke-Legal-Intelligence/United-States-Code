@@ -106,5 +106,5 @@ Section 704(d) of Pub. L. 101–189 provided that: “The Secretary of Defense m
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 302f, 303a, 303b of this title.
+This section is referred to in sections 302f, 303, 303a, 303b of this title.
 

@@ -62,7 +62,7 @@ Except as provided in subsection (b) of this section, a State may not—
 
 &emsp;&emsp;(A) certify the program and so notify the State; and
 
-&emsp;&emsp;(B) afford an opportunity for a hearing, in accordance with section 7711(a) of this title,to any local educational agency adversely affected by such certification.
+&emsp;&emsp;(B) afford an opportunity for a hearing, in accordance with section 7711(a) of this title, to any local educational agency adversely affected by such certification.
 
 #### (4) Nonqualification procedures
 

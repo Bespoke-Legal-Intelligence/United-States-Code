@@ -8,6 +8,32 @@ The Secretary of Agriculture is authorized, under such regulations as he may mak
 
 1956—Act July 28, 1956, increased maximum area of land for each purpose for which permits may be granted from not more than 5 acres to not more than 80 acres, and authorized permits for facilities for public safety, for buildings, structures, and facilities for industrial or commercial purposes whenever such purposes are related to or consistent with other use of the national forests, and for facilities to be used by public or nonprofit agencies for education or public use or in connection with any public activity.
 
+#### Enhancing Forest Service Administration of Rights-of-Way and Land Uses
+
+Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §331\], Nov. 29, 1999, 113 Stat. 1535, 1501A–196, provided that:
+
+“(a) The Secretary of Agriculture shall develop and implement a pilot program for the purpose of enhancing forest service administration of rights-of-way and other land uses. The authority for this program shall be for fiscal years 2000 through 2004. Prior to the expiration of the authority for this pilot program, the Secretary shall submit a report to the House and Senate Committees on Appropriations, and the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives that evaluates whether the use of funds under this section resulted in more expeditious approval of rights-of-way and special use authorizations. This report shall include the Secretary's recommendation for statutory or regulatory changes to reduce the average processing time for rights-of-way and special use permit applications.
+
+“(b)
+
+Deposit of Fees.—Subject to subsections (a) and (f), during fiscal years 2000 through 2004, the Secretary of Agriculture shall deposit into a special account established in the Treasury all fees collected by the Secretary to recover the costs of processing applications for, and monitoring compliance with, authorizations to use and occupy National Forest System lands pursuant to section 28(<i>l</i>) of the Mineral Leasing Act (30 U.S.C. 185(<i>l</i>)), section 504(g) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1764(g)), section 9701 of title 31, United States Code, and section 110(g) of the National Historic Preservation Act (16 U.S.C. 470h–2(g)).
+
+“(c)
+
+Use of Retained Amounts.—Amounts deposited pursuant to subsection (b) shall be available, without further appropriation, for expenditure by the Secretary of Agriculture to cover costs incurred by the Forest Service for the processing of applications for special use authorizations and for monitoring activities undertaken in connection with such authorizations. Amounts in the special account shall remain available for such purposes until expended.
+
+“(d)
+
+Reporting Requirement.—In the budget justification documents submitted by the Secretary of Agriculture in support of the President's budget for a fiscal year under section 1105 of title 31, United States Code, the Secretary shall include a description of the purposes for which amounts were expended from the special account during the preceding fiscal year, including the amounts expended for each purpose, and a description of the purposes for which amounts are proposed to be expended from the special account during the next fiscal year, including the amounts proposed to be expended for each purpose.
+
+“(e)
+
+Definition of Authorization.—For purposes of this section, the term ‘authorizations’ means special use authorizations issued under subpart B of part 251 of title 36, Code of Federal Regulations.
+
+“(f)
+
+Implementation.—This section shall take effect upon promulgation of Forest Service regulations for the collection of fees for processing of special use authorizations and for related monitoring activities.”
+
 #### Cross References
 
 Contracts for sale of forest products, use of national-forest lands, etc., exempt from requirements of section 20 of Title 41, where amount involved is less than $300, see section 20a of Title 41, Public Contracts.

@@ -68,7 +68,7 @@ In this chapter:
 
 #### (11) Supply reduction
 
-&emsp;The term “supply reduction” means any activity of a program conducted by a National Drug Control Program agency that is intended to reduce the availability or use of drugs in the United States and abroad, including—
+&emsp;The term “supply reduction” means any activity of a program conducted by a NationalDrug Control Program agency that is intended to reduce the availability or use of drugs in the United States and abroad, including—
 
 &emsp;&emsp;(A) international drug control;
 

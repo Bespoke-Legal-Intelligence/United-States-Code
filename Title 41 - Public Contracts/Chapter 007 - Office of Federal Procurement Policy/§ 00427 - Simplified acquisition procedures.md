@@ -22,7 +22,7 @@ The simplified acquisition procedures contained in the Federal Acquisition Regul
 
 #### (e) Interim reporting rule
 
-Until October 1, 1999, procuring activities shall continue to report under section 417(d) of this title procurement awards with a dollar value of at least $25,000, but less than $100,000, in conformity with the procedures for the reporting of a contract award greater than $25,000 that were in effect on October 1, 1992.
+Until October 1, 2004, procuring activities shall continue to report under section 417(d) of this title procurement awards with a dollar value of at least $25,000, but less than $100,000, in conformity with the procedures for the reporting ofa contract award greater than $25,000 that were in effect on October 1, 1992.
 
 #### (f) Special rules for commercial items
 
@@ -34,9 +34,11 @@ The Federal Acquisition Regulation shall provide that, in the case of a purchase
 
 &emsp;(3) shall include in the contract file a written description of the procedures used in awarding the contract and the number of offers received.
 
-(Pub. L. 93–400, §31, as added Pub. L. 103–355, title IV, §4201(a), Oct. 13, 1994, 108 Stat. 3342; amended Pub. L. 104–106, div. D, title XLII, §4202(c), title XLIII, §4302(b), Feb. 10, 1996, 110 Stat. 653, 658; Pub. L. 104–201, div. A, title X, §1074(b)(6), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 105–85, div. A, title VIII, §850(d), Nov. 18, 1997, 111 Stat. 1848.)
+(Pub. L. 93–400, §31, as added Pub. L. 103–355, title IV, §4201(a), Oct. 13, 1994, 108 Stat. 3342; amended Pub. L. 104–106, div. D, title XLII, §4202(c), title XLIII, §4302(b), Feb. 10, 1996, 110 Stat. 653, 658; Pub. L. 104–201, div. A, title X, §1074(b)(6), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 105–85, div. A, title VIII, §850(d), Nov. 18, 1997, 111 Stat. 1848; Pub. L. 106–65, div. A, title VIII, §818, Oct. 5, 1999, 113 Stat. 712.)
 
 #### Amendments
+
+1999—Subsec. (e). Pub. L. 106–65 substituted “October 1, 2004” for “October 1, 1999”.
 
 1997—Subsecs. (e) to (g). Pub. L. 105–85 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out heading and text of subsec. (e). Text read as follows: “The simplified acquisition procedures provided in the Federal Acquisition Regulation pursuant to section 2304(g)(1)(A) of title 10, section 253(g)(1)(A) of this title, and subsection (a)(1) of this section may not be used by an agency after December 31, 1999, for contracts in amounts greater than $50,000 and not greater than the simplified acquisition threshold until a certification has been made pursuant to section 426a(a)(2) of this title that the agency has implemented a full FACNET capability.”
 

@@ -6,7 +6,7 @@ The judicial power of the Virgin Islands shall be vested in a court of record de
 
 #### (b) Jurisdiction
 
-The legislature of the Virgin Islands may vest in the courts of the Virgin Islands established bylocal law jurisdiction over all causes in the Virgin Islands over which any court established by the Constitution and laws of the United States does not have exclusive jurisdiction. Such jurisdiction shall be subject to the concurrent jurisdiction conferred on the District Court of the Virgin Islands by section 1612(a) and (c) of this title.
+The legislature of the Virgin Islands may vest in the courts of the Virgin Islands established by local law jurisdiction over all causes in the Virgin Islands over which any court established by the Constitution and laws of the United States does not have exclusive jurisdiction. Such jurisdiction shall be subject to the concurrent jurisdiction conferred on the District Court of the Virgin Islands by section 1612(a) and (c) of this title.
 
 #### (c) Practice and procedure
 

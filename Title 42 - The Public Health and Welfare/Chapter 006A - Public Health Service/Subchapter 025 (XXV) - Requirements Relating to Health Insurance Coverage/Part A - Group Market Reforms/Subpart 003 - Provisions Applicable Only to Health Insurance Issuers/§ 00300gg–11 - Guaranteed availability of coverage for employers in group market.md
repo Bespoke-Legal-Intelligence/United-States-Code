@@ -36,7 +36,7 @@
 
 #### (3) GAO report on large employer access to health insurance coverage
 
-&emsp;The Comptroller General shall provide for a study of the extent to which classes of large employers in the different States are able toobtain access to health insurance coverage and the circumstances for lack of access (if any) to such coverage. The Comptroller General shall submit to Congress a report on such study not later than 18 months after August 21, 1996.
+&emsp;The Comptroller General shall provide for a study of the extent to which classes of large employers in the different States are able to obtain access to health insurance coverage and the circumstances for lack of access (if any) to such coverage. The Comptroller General shall submit to Congress a report on such study not later than 18 months after August 21, 1996.
 
 #### (c) Special rules for network plans
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(B) within the service area of such plan, deny such coverage to such employers if the issuer has demonstrated, if required, to the applicable State authority that—
 
-&emsp;&emsp;&emsp;(i) it will not have the capacity to deliver services adequately to enrollees of any additional groups because of its obligations to existing group contract holders and enrollees, and
+&emsp;&emsp;&emsp;(i) it will not have the capacity to deliver services adequately to enrollees ofany additional groups because of its obligations to existing group contract holders and enrollees, and
 
 &emsp;&emsp;&emsp;(ii) it is applying this paragraph uniformly to all employers without regard to the claims experience of those employers and their employees (and their dependents) or any health status-related factor relating to such employees and dependents.
 

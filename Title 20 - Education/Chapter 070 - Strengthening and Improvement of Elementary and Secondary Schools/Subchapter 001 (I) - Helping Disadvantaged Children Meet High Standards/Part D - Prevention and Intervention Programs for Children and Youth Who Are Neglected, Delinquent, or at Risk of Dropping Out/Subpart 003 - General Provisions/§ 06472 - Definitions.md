@@ -8,7 +8,7 @@ For the purpose of this part:
 
 &emsp;(3) The term “community day program” means a regular program of instruction provided by a State agency at a community day school operated specifically for neglected or delinquent children.
 
-&emsp;(4) The term “institution for delinquent children and youth” means a public or private residential facility for the care of children who have been adjudicated to be delinquent or in need of supervision.
+&emsp;(4) The term “institution for delinquent children and youth” means a public or privateresidential facility for the care of children who have been adjudicated to be delinquent or in need of supervision.
 
 &emsp;(5) The term “institution for neglected children” means a public or private residential facility, other than a foster home, that is operated for the care of children who have been committed to the institution or voluntarily placed in the institution under applicable State law, due to abandonment, neglect, or death of their parents or guardians.
 

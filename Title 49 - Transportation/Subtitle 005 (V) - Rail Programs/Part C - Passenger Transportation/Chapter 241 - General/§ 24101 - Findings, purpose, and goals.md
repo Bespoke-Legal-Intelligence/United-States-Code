@@ -304,7 +304,7 @@ Monitor work-rule savings.—If, after January 1, 1997, Amtrak enters into an ag
 
 “(h)
 
-Annual Report.—Each year before the fifth anniversary of the date of enactment of this Act \[Dec. 2, 1997\], the Council shall submit to the Congress a report that includes an assessment of—
+Annual Report.—Each year before the fifth anniversary of the date of enactment of this Act \[Dec. 2,1997\], the Council shall submit to the Congress a report that includes an assessment of—
 
 &emsp;“(1) Amtrak's progress on the resolution of productivity issues; or
 
@@ -388,7 +388,7 @@ Limit on consideration.—
 
 &emsp;“(7)
 
-Debate of amendments.—Debate on any amendment to a liquidation disapproval resolution shall be limited to one hour, equally divided and controlled by the Senator proposing the amendment and the majority manager, unless the majority manageris in favor of the amendment, in which case the minority manager shall be in control of the time in opposition.
+Debate of amendments.—Debate on any amendment to a liquidation disapproval resolution shall be limited to one hour, equally divided and controlled by the Senator proposing the amendment and the majority manager, unless the majority manager is in favor of the amendment, in which case the minority manager shall be in control of the time in opposition.
 
 &emsp;“(8)
 

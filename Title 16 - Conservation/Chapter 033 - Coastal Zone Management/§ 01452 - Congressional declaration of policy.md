@@ -2,7 +2,7 @@
 
 The Congress finds and declares that it is the national policy—
 
-&emsp;(1) to preserve, protect, develop, and where possible, to restore or enhance, the resourcesof the Nation's coastal zone for this and succeeding generations;
+&emsp;(1) to preserve, protect, develop, and where possible, to restore or enhance, the resources of the Nation's coastal zone for this and succeeding generations;
 
 &emsp;(2) to encourage and assist the states to exercise effectively their responsibilities in the coastal zone through the development and implementation of management programs to achieve wise use of the land and water resources of the coastal zone, giving full consideration to ecological, cultural, historic, and esthetic values as well as the needs for compatible economic development, which programs should at least provide for—
 
@@ -32,7 +32,7 @@ The Congress finds and declares that it is the national policy—
 
 &emsp;(4) to encourage the participation and cooperation of the public, state and local governments, and interstate and other regional agencies, as well as of the Federal agencies having programs affecting the coastal zone, in carrying out the purposes of this chapter;
 
-&emsp;(5) to encourage coordination and cooperation with and among the appropriate Federal, State, and local agencies, and international organizations where appropriate, in collection, analysis, synthesis, and dissemination of coastal management information, research results, and technical assistance, to support State and Federal regulation of land use practices affecting the coastal and ocean resources of the United States; and
+&emsp;(5) to encourage coordination and cooperation with and among the appropriate Federal,State, and local agencies, and international organizations where appropriate, in collection, analysis, synthesis, and dissemination of coastal management information, research results, and technical assistance, to support State and Federal regulation of land use practices affecting the coastal and ocean resources of the United States; and
 
 &emsp;(6) to respond to changing circumstances affecting the coastal environment and coastal resource management by encouraging States to consider such issues as ocean uses potentially affecting the coastal zone.
 

@@ -22,5 +22,5 @@ Section effective July 26, 1979, but authority of President to grant waivers und
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to United States Trade Representative, see section 1–103(b) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 990, set out as a note under section 2171 of this title.
+Functions of President under this section delegated to United States Trade Representative, see section1–103(b) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 990, set out as a note under section 2171 of this title.
 

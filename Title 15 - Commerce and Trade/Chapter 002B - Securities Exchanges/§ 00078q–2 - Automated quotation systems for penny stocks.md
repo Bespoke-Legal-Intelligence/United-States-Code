@@ -14,7 +14,7 @@ The Congress finds that—
 
 #### (1) In general
 
-&emsp;The Commission shall facilitate the widespread dissemination of reliable and accurate last sale and quotation information with respect to penny stocks in accordance with the findings set forth in subsection (a) of this section, with a view toward establishing, at the earliest feasible time, one or more automated quotation systems that will collect and disseminate information regarding all penny stocks.
+&emsp;The Commission shall facilitate the widespread dissemination of reliable and accuratelast sale and quotation information with respect to penny stocks in accordance with the findings set forth in subsection (a) of this section, with a view toward establishing, at the earliest feasible time, one or more automated quotation systems that will collect and disseminate information regarding all penny stocks.
 
 #### (2) Characteristics of systems
 

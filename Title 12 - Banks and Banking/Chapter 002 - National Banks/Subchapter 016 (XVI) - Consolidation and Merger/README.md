@@ -1,5 +1,9 @@
 ### SUBCHAPTER XVI—CONSOLIDATION AND MERGER
 
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in section 1828b of this title.
+
 
 ---
 

@@ -60,7 +60,7 @@ May 3, 1945, ch. 106, §214, 59 Stat. 134.
 
 In the section, the words “executive agency” are substituted for “any executive department or other Government establishment” for clarity and because of section 102 of the revised title.
 
-In subsection (a)(1), before subclause (A), the words “made by Congress” are omitted as surplus. In subclause (C), the words “the detail or cost of personal services of an officer” are substituted for “by detail, hereafter or heretofore made, or otherwise personalservices” to eliminate unnecessary words and for clarity.
+In subsection (a)(1), before subclause (A), the words “made by Congress” are omitted as surplus. In subclause (C), the words “the detail or cost of personal services of an officer” are substituted for “by detail, hereafter or heretofore made, or otherwise personal services” to eliminate unnecessary words and for clarity.
 
 In subsection (a)(2), the words “of the Government” are omitted as surplus. The words “absent a special appropriation” are substituted for “until special appropriations shall have been made by law” to eliminate unnecessary words.
 
@@ -74,5 +74,5 @@ Subsection (c)(3) is substituted for the last sentence of 31:672 to eliminate un
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 22 sections 2396, 2456, 2514.
+This section is referred to in title 15 section 1128; title 22 sections 2396, 2456, 2514.
 

@@ -36,7 +36,7 @@
 
 (c) A payment under this section shall be considered to be a benefit under this title and, for purposes of section 3035(b)(1), it shall be considered to be an entitlement earned under this subchapter.
 
-(Added Pub. L. 100–689, title I, §101(a), Nov. 18, 1988, 102 Stat. 4161, §1417; amended Pub. L. 101–237, title IV, §423(a)(3), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2091, 2092; renumbered §3017 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §308, Oct. 29, 1992, 106 Stat. 4329; Pub. L. 104–275, title IV, §405(c)(2), Oct. 9, 1996, 110 Stat. 3340.)
+(Added Pub. L. 100–689, title I, §101(a), Nov. 18, 1988, 102 Stat. 4161, §1417; amended Pub. L.101–237, title IV, §423(a)(3), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2091, 2092; renumbered §3017 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §308, Oct. 29, 1992, 106 Stat. 4329; Pub. L. 104–275, title IV, §405(c)(2), Oct. 9, 1996, 110 Stat. 3340.)
 
 #### Amendments
 

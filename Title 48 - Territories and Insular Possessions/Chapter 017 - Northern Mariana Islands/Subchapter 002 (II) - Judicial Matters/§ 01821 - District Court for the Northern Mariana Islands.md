@@ -12,7 +12,7 @@ There is established for and within the Northern Mariana Islands a court of reco
 
 (3) The President shall appoint, by and with the advice and consent of the Senate, a United States attorney and United States marshal for the Northern Mariana Islands to whose offices the provisions of chapters 35 and 37 of title 28, respectively, shall apply.
 
-(4) If the President appoints a judge for the District Court for the Northern Mariana Islands or a United States attorney or a United States marshal for the Northern Mariana Islands who at that time is serving in the same capacity in another district, the appointment shall, without prejudice to a subsequent appointment, be for the unexpired term of such judge or officer.
+(4) If the President appoints a judge for the District Court for the Northern Mariana Islandsor a United States attorney or a United States marshal for the Northern Mariana Islands who at that time is serving in the same capacity in another district, the appointment shall, without prejudice to a subsequent appointment, be for the unexpired term of such judge or officer.
 
 #### (c) Applicability of Federal rules and statutory requirements
 

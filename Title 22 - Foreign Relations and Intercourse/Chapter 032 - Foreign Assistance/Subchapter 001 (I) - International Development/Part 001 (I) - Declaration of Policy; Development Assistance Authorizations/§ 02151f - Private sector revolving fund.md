@@ -6,7 +6,7 @@ The Congress finds that the development of private enterprise, including coopera
 
 #### (b) Funding
 
-Of the funds made available under this part in each of the fiscal years 1986 and 1987, up to $18,000,000 may be deposited in this account. Such funds used in accordance with the policies and authorities of this section shall be in addition to other funds available for private sector activities under other authorities in this chapter. Any reflows and income arising from activities carried out pursuant to this section, including loan repayments and fee income (as provided in subsection (e) of this section), shall be deposited into the revolving fund and remain available to carry out the purposes of this section. All funds in such account may be invested in obligations of the United States.
+Of the funds made available under this part in each of the fiscal years 1986 and 1987, up to$18,000,000 may be deposited in this account. Such funds used in accordance with the policies and authorities of this section shall be in addition to other funds available for private sector activities under other authorities in this chapter. Any reflows and income arising from activities carried out pursuant to this section, including loan repayments and fee income (as provided in subsection (e) of this section), shall be deposited into the revolving fund and remain available to carry out the purposes of this section. All funds in such account may be invested in obligations of the United States.
 
 #### (c) Authorized uses; determination of small business enterprise; maximum amounts available; interest rate
 
@@ -36,7 +36,7 @@ Of the funds made available under this part in each of the fiscal years 1986 and
 
 (C) Not more than 20 per centum of the assets of the revolving fund account under this section may be used to support projects in any one country.
 
-(D) In order to maximize the impact on institution building, loans under this section shall bemade primarily to intermediary entities which provide necessary support and services for private sector activities.
+(D) In order to maximize the impact on institution building, loans under this section shall be made primarily to intermediary entities which provide necessary support and services for private sector activities.
 
 (E) Loans under this section shall be at or near the interest rate otherwise available to the recipient.
 
@@ -84,7 +84,7 @@ Not later than December 31 of each year, the President shall submit to the Congr
 
 &emsp;(G) The agency shall determine that the standards used by the lender for assessing the credit risk of new and existing guaranteed loans are reasonable. The agency shall require that there be a reasonable assurance of repayment before credit assistance is extended.
 
-&emsp;(H) Commitments to guarantee loans may be made by the agency only to the extent thatthe total loan principal, any part of which is guaranteed, will not exceed the amount specified in annual appropriations Acts.
+&emsp;(H) Commitments to guarantee loans may be made by the agency only to the extent that the total loan principal, any part of which is guaranteed, will not exceed the amount specified in annual appropriations Acts.
 
 (3) To the extent that fees are not sufficient as specified under paragraph (2)(E) to cover expected future liabilities, appropriations are authorized to maintain an appropriate reserve.
 
@@ -123,6 +123,10 @@ A prior section 2151f, Pub. L. 87–195, pt. I, §108, as added Pub. L. 93–189
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

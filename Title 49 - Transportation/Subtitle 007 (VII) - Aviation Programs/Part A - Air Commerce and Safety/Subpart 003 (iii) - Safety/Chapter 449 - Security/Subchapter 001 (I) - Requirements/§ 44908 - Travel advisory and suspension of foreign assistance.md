@@ -10,7 +10,7 @@ Travel Advisories.—On being notified by the Secretary of Transportation that t
 
 (b)
 
-Suspending Assistance.—The President shall suspend assistance provided under the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) or the Arms Export Control Act (22 U.S.C.2751 et seq.) to a country in which is located an airport with respect to which section 44907(d)(1) of this title becomes effective if the Secretary of State decides the country is a high terrorist threat country. The President may waive this subsection if the President decides, and reports to Congress, that the waiver is required because of national security interests or a humanitarian emergency.
+Suspending Assistance.—The President shall suspend assistance provided under the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) or the Arms Export Control Act (22 U.S.C. 2751 et seq.) to a country in which is located an airport with respect to which section 44907(d)(1) of this title becomes effective if the Secretary of State decides the country is a high terrorist threat country. The President may waive this subsection if the President decides, and reports to Congress, that the waiver is required because of national security interests or a humanitarian emergency.
 
 (c)
 
@@ -57,10 +57,6 @@ The Arms Export Control Act, referred to in subsec. (b), is Pub. L. 90–629, Oc
 #### Amendments
 
 1998—Subsec. (a). Pub. L. 105–277 inserted “and” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “shall publish the advisory in the Federal Register; and”.
-
-#### Delegation of Functions
-
-Functions of President under subsec. (b) delegated to Secretary of State by section 1–201(a)(26) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of Title 22, Foreign Relations and Intercourse.
 
 #### Section Referred to in Other Sections
 

@@ -32,9 +32,9 @@
 
 (4) Notwithstanding the preceding paragraph, (A) no payment may be made to parents with respect to any child who has attained the age of eighteen (or, where the State determines that the child has a mental or physical handicap which warrants the continuation of assistance, the age of twenty-one), and (B) no payment may be made to parents with respect to any child if the State determines that the parents are no longer legally responsible for the support of the child or if the State determines that the child is no longer receiving any support from such parents. Parents who have been receiving adoption assistance payments under this section shall keep the State or local agency administering the program under this section informed of circumstances which would, pursuant to this subsection, make them ineligible for such assistance payments, or eligible for assistance payments in a different amount.
 
-(5) For purposes of this part, individuals with whom a child (who has been determined by the State, pursuant to subsection (c) of this section,to be a child with special needs) is placed for adoption in accordance with applicable State and local law shall be eligible for such payments, during the period of the placement, on the same terms and subject to the same conditions as if such individuals had adopted such child.
+(5) For purposes of this part, individuals with whom a child (who has been determined by the State, pursuant to subsection (c) of this section, to be a child with special needs) is placed for adoption in accordance with applicable State and local law shall be eligible for such payments, during the period of the placement, on the same terms and subject to the same conditions as if such individuals had adopted such child.
 
-(6)(A) For purposes of paragraph (1)(B)(i), the term “nonrecurring adoption expenses” means reasonable and necessary adoption fees, court costs, attorney fees, and other expenses which are directly related to the legal adoption of a child with special needs and which are not incurred in violation of State or Federal law.
+(6)(A) For purposes of paragraph (1)(B)(i), the term “nonrecurring adoption expenses” meansreasonable and necessary adoption fees, court costs, attorney fees, and other expenses which are directly related to the legal adoption of a child with special needs and which are not incurred in violation of State or Federal law.
 
 (B) A State's payment of nonrecurring adoption expenses under an adoption assistance agreement shall be treated as an expenditure made for the proper and efficient administration of the State plan for purposes of section 674(a)(3)(E) of this title.
 
@@ -86,7 +86,7 @@ Subsec. (b). Pub. L. 104–193, §108(d)(6), amended subsec. (b) generally. Prio
 
 &emsp;“(1)(A) who is a child described in subsection (a)(2) of this section, and
 
-&emsp;“(B) with respect to whom an adoption assistance agreement is in effect under this section (whether or not adoption assistance payments are provided under the agreement or are being made under this section), including any such child who has been placed for adoption in accordance with applicable State and local law (whether or not an interlocutory or other judicial decree of adoption has been issued), or
+&emsp;“(B) with respect to whom an adoption assistance agreement is in effect under this section (whether or not adoption assistance payments are provided under the agreement or are being made under this section),including any such child who has been placed for adoption in accordance with applicable State and local law (whether or not an interlocutory or other judicial decree of adoption has been issued), or
 
 &emsp;“(2) with respect to whom foster care maintenance payments are being made under section 672 of this title,
 
@@ -152,7 +152,7 @@ Section 12305(c) of Pub. L. 99–272 provided that: “The amendments made by th
 
 #### Effective Date of 1980 Amendment
 
-Amendment by section 102(a)(3) of Pub. L. 96–272 effective only with respect to expenditures made after Sept. 30, 1979, see section 102(c) of Pub. L. 96–272, asamended, set out as a note under section 672 of this title.
+Amendment by section 102(a)(3) of Pub. L. 96–272 effective only with respect to expenditures made after Sept. 30, 1979, see section 102(c) of Pub. L. 96–272, as amended, set out as a note under section 672 of this title.
 
 #### Section Referred to in Other Sections
 

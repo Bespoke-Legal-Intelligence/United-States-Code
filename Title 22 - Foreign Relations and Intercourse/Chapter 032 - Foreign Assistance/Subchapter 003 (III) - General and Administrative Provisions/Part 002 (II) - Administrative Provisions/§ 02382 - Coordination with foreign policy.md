@@ -40,6 +40,10 @@ Subsec. (c). Pub. L. 89–171, §302(a)(2), inserted “including any civic acti
 
 Amendment by Pub. L. 90–629 effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as an Effective Date note under section 2751 of this title.
 
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
 #### Ex. Ord. No. 10338. Coordination Procedures
 
 Ex. Ord. No. 10338, Apr. 4, 1952, 17 F.R. 3009, provided:

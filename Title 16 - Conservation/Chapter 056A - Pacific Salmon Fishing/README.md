@@ -46,6 +46,11 @@
 | [3642\.](%C2%A7%2003642%20-%20Disposition%20of%20property%20of%20International%20Pacific%20Salmon%20Fisheries%20Commission.md) | Disposition of property of International Pacific Salmon Fisheries Commission. |
 | [3643\.](%C2%A7%2003643%20-%20Savings%20provision.md) | Savings provision. |
 | [3644\.](%C2%A7%2003644%20-%20Restriction%20on%20spending%20authority.md) | Restriction on spending authority. |
+| [3645\.](%C2%A7%2003645%20-%20Northern%20Boundary%20and%20Transboundary%20Rivers%20Restoration%20and%20Enhancement%20Fund%20and%20Southern%20Boundary%20Restoration%20and%20Enhancement%20fund.md) | Northern Boundary and Transboundary Rivers Restoration and Enhancement Fund and Southern Boundary Restoration and Enhancement Fund. |
+| (a) | Northern Fund and Southern Fund. |
+| (b) | Pacific Salmon Treaty implementation. |
+| (c) | Omitted. |
+| (d) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -68,3 +73,4 @@
 - [&sect; 03642 - Disposition of property of International Pacific Salmon Fisheries Commission](%C2%A7%2003642%20-%20Disposition%20of%20property%20of%20International%20Pacific%20Salmon%20Fisheries%20Commission.md)
 - [&sect; 03643 - Savings provision](%C2%A7%2003643%20-%20Savings%20provision.md)
 - [&sect; 03644 - Restriction on spending authority](%C2%A7%2003644%20-%20Restriction%20on%20spending%20authority.md)
+- [&sect; 03645 - Northern Boundary and Transboundary Rivers Restoration and Enhancement Fund and Southern Boundary Restoration and Enhancement fund](%C2%A7%2003645%20-%20Northern%20Boundary%20and%20Transboundary%20Rivers%20Restoration%20and%20Enhancement%20Fund%20and%20Southern%20Boundary%20Restoration%20and%20Enhancement%20fund.md)

@@ -2,7 +2,7 @@
 
 (a) Whoever knowingly transports in interstate commerce or from any foreign country into the United States any goods, wares, or merchandise manufactured, produced, or mined, wholly or in part by convicts or prisoners, except convicts or prisoners on parole, supervised release, or probation, or in any penal or reformatory institution, shall be fined under this title or imprisoned not more than two years, or both.
 
-(b) This chapter shall not apply to agricultural commodities or parts for the repair of farm machinery, nor to commodities manufactured in a Federal, District of Columbia, or State institution for use by the Federal Government, or by the District of Columbia, or by any State or Political subdivision of a State or not-for-profit organizations.
+(b) This chapter shall not apply to agricultural commodities or parts for the repair offarm machinery, nor to commodities manufactured in a Federal, District of Columbia, or State institution for use by the Federal Government, or by the District of Columbia, or by any State or Political subdivision of a State or not-for-profit organizations.
 
 (c) In addition to the exceptions set forth in subsection (b) of this section, this chapter shall not apply to goods, wares, or merchandise manufactured, produced, or mined by convicts or prisoners who—
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) allocations for support of family pursuant to State statute, court order, or agreement by the offender;
 
-&emsp;&emsp;(D) contributions to any fund established by law to compensate the victims of crime ofnot more than 20 per centum but not less than 5 per centum of gross wages;
+&emsp;&emsp;(D) contributions to any fund established by law to compensate the victims of crime of not more than 20 per centum but not less than 5 per centum of gross wages;
 
 &emsp;(3) have not solely by their status as offenders, been deprived of the right to participate in benefits made available by the Federal or State Government to other individuals on the basis of their employment, such as workmen's compensation. However, such convicts or prisoners shall not be qualified to receive any payments for unemployment compensation while incarcerated, notwithstanding any other provision of the law to the contrary; and
 
@@ -62,7 +62,7 @@ Subsec. (c)(2)(B). Pub. L. 101–647, §2906(3), amended subpar. (B) generally. 
 
 1984—Subsec. (a). Pub. L. 98–473, §223(c), inserted “, supervised release,” after “parole”.
 
-Subsec. (c). Pub. L. 98–473, §609K(a), substituted “twenty” for “seven” and “Director of the Bureau of Justice Assistance” for “Administrator of the Law Enforcement Assistance Administration”.
+Subsec. (c). Pub. L. 98–473, §609K(a), substituted “twenty” for “seven” and “Director of the Bureau ofJustice Assistance” for “Administrator of the Law Enforcement Assistance Administration”.
 
 Subsec. (d). Pub. L. 98–473, §609K(b), added subsec. (d).
 
@@ -71,6 +71,10 @@ Subsec. (d). Pub. L. 98–473, §609K(b), added subsec. (d).
 #### Effective Date of 1984 Amendment
 
 Amendment by section 223(c) of Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
+
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) through (6) of Title 42, The Public Health and Welfare, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of Title 42.
 
 #### Reports by Secretary of Labor
 

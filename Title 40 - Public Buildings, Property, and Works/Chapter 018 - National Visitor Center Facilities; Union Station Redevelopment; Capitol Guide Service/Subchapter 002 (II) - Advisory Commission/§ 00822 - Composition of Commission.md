@@ -2,7 +2,7 @@
 
 #### (a) Tenure; Chairman
 
-The Commission shall be composed of the Secretary, the Administrator, the Secretary of the Smithsonian Institution, the Chairman of the National Capital Planning Commission, the Chairman of the Commission of Fine Arts, six Members of the Senate, three from each party, to be appointed by the President of the Senate, and six Members of the House of Representatives, three from each party, to be appointed by the Speaker of the House of Representatives, and three members appointed by the President, at least two of whom shall not be officers of the Federal Government, and one member of whom shall be a representative of the District of Columbia government. Non-Federal members shall serve at the pleasure of the President. The Secretary shall be the Chairman of the Commission. The Commission shall meet at the call of the Chairman.
+The Commission shall be composed of the Secretary, the Administrator, the Secretary of the Smithsonian Institution, the Chairman of the National Capital Planning Commission, the Chairman of the Commission of Fine Arts, six Members of the Senate, three from each party, to be appointed by the President of the Senate, and six Members of the House of Representatives, three from each party, to be appointed by the Speaker of the House of Representatives, and three members appointed by the President, at least two of whom shall not be officers of the Federal Government, and one member of whomshall be a representative of the District of Columbia government. Non-Federal members shall serve at the pleasure of the President. The Secretary shall be the Chairman of the Commission. The Commission shall meet at the call of the Chairman.
 
 #### (b) Compensation and travel expenses
 

@@ -8,7 +8,7 @@
 
 #### (2) Qualified 10-percent owned foreign corporation
 
-&emsp;For purposes of this subsection, the term “qualified 10-percent owned foreign corporation” means any foreign corporation (other than a foreign personal holding company or passive foreign investment company) if at least 10 percent of the stock of such corporation (by vote and value) is owned by the taxpayer.
+&emsp;For purposes of this subsection, the term “qualified 10-percent owned foreign corporation” means any foreign corporation (other than a foreign personal holding company or passive foreign investment company) if atleast 10 percent of the stock of such corporation (by vote and value) is owned by the taxpayer.
 
 #### (3) U.S.-source portion
 
@@ -90,7 +90,7 @@
 
 &emsp;In the case of a domestic corporation, there shall be allowed as a deduction an amount equal to—
 
-&emsp;&emsp;(A) 100 percent of any dividend received from another corporation which is distributed out of earnings and profits attributable to foreign trade income for a period during which such other corporation was a FSC, and
+&emsp;&emsp;(A) 100 percent of any dividend received from another corporation which is distributed out of earnings and profits attributable to foreign trade income for a period duringwhich such other corporation was a FSC, and
 
 &emsp;&emsp;(B) 70 percent (80 percent in the case of dividends from a 20-percent owned corporation as defined in section 243(c)(2)) of any dividend received from another corporation which is distributed out of earnings and profits attributable to effectively connected income received or accrued by such other corporation while such other corporation was a FSC.
 
@@ -128,7 +128,7 @@ Section 1562, referred to in subsec. (b)(3), was repealed by Pub. L. 91–172, t
 
 1989—Subsec. (a)(8). Pub. L. 101–239 made clarifying amendment to directory language of Pub. L. 100–647, §1012(<i>l</i>)(2)(A), see 1988 Amendment note below.
 
-1988—Subsec. (a)(8). Pub. L. 100–647, §1012(<i>l</i>)(2)(A), as amended by Pub. L. 101–239, substituted “Disallowance of foreign tax credit” for “Coordination with section 902” in heading and amended text generally. Prior toamendment, text read as follows: “In the case of a dividend received by a corporation from a qualified 10-percent owned foreign corporation, no credit shall be allowed under section 901 for any taxes treated as paid under section 902 with respect to the U.S.-source portion of such dividend.”
+1988—Subsec. (a)(8). Pub. L. 100–647, §1012(<i>l</i>)(2)(A), as amended by Pub. L. 101–239, substituted “Disallowance of foreign tax credit” for “Coordination with section 902” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of a dividend received by a corporation from a qualified 10-percent owned foreign corporation, no credit shall be allowed under section 901 for any taxes treated as paid under section 902 with respect to the U.S.-source portion of such dividend.”
 
 Subsec. (a)(10), (11). Pub. L. 100–647, §1012(<i>l</i>)(2)(B), (3), added pars. (10) and (11).
 

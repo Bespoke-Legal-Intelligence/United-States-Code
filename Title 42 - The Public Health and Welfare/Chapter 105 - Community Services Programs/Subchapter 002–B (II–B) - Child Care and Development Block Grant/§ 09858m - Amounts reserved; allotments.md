@@ -26,7 +26,7 @@
 
 #### (3) School lunch factor
 
-&emsp;The term “school lunch factor” means the ratio of the number of children in the Statewho are receiving free or reduced price lunches under the school lunch program established under the National School Lunch Act (42 U.S.C. 1751 et seq.) to the number of such children in all the States as determined annually by the Department of Agriculture.
+&emsp;The term “school lunch factor” means the ratio of the number of children in the State who are receiving free or reduced price lunches under the school lunch program established under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) to the number of such children in all the States as determined annually by the Department of Agriculture.
 
 #### (4) Allotment percentage
 
@@ -106,7 +106,7 @@
 
 #### (D) Uniform procedures
 
-&emsp;&emsp;The Secretary shall develop and implement uniform procedures for the solicitationand consideration of requests under this paragraph.
+&emsp;&emsp;The Secretary shall develop and implement uniform procedures for the solicitation and consideration of requests under this paragraph.
 
 #### (d) Data and information
 
@@ -122,7 +122,7 @@ The Secretary shall obtain from each appropriate Federal agency, the most recent
 
 #### (A) Reduction
 
-&emsp;&emsp;The amount of any reallotment to which a State is entitled to under paragraph (1) shall be reduced to the extent that it exceeds the amount that the Secretary estimates will be used in the State to carry out a State plan approved under section 9858c(d) of this title.
+&emsp;&emsp;The amount of any reallotment to which a State is entitled to under paragraph (1) shallbe reduced to the extent that it exceeds the amount that the Secretary estimates will be used in the State to carry out a State plan approved under section 9858c(d) of this title.
 
 #### (B) Reallotments
 
@@ -140,13 +140,15 @@ The Secretary shall obtain from each appropriate Federal agency, the most recent
 
 For the purposes of this section, the term “State” includes only the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 97–35, title VI, §658O, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–246; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §613, Aug. 22, 1996, 110 Stat. 2286; Pub. L. 105–33, title V, §5602(4), Aug. 5, 1997, 111 Stat. 646.)
+(Pub. L. 97–35, title VI, §658O, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–246; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §613, Aug. 22, 1996, 110 Stat. 2286; Pub. L. 105–33, title V, §5602(4), Aug. 5, 1997, 111 Stat. 646; Pub. L. 106–78, title VII, §752(b)(17), Oct. 22, 1999, 113 Stat. 1170.)
 
 #### References in Text
 
-The National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
 #### Amendments
+
+1999—Subsec. (b)(3). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
 1997—Subsec. (c)(6)(C). Pub. L. 105–33 substituted “subparagraph (B)” for “subparagraph (A)”.
 

@@ -2,15 +2,19 @@
 
 (a)
 
-Existence and Amounts in Fund.—The Secretary of Transportation has a small airport fund. The fund consists of 75 percent of amounts not apportioned under section 47114 of this title because of section 47114(f).
+Existence and Amounts in Fund.—The Secretary of Transportation has a small airport fund. The fund consists of 87.5 percent of amounts not apportioned under section 47114 of this title because of section 47114(f).
 
 (b)
 
 Distribution of Amounts.—The Secretary may distribute amounts in the fund in each fiscal year for any purpose for which amounts are made available under section 48103 of this title as follows:
 
-&emsp;(1) one-third for grants to sponsors of public-use airports (except commercial service airports).
+&emsp;(1) one-seventh for grants for projects at small hub airports (as defined in section 41731 of this title); and
 
-&emsp;(2) two-thirds for grants to sponsors of each commercial service airport that each year has less than .05 percent of the total boardings in the United States in that year.
+&emsp;(2) the remaining amounts based on the following:
+
+&emsp;&emsp;(A) one-third for grants to sponsors of public-use airports (except commercial service airports).
+
+&emsp;&emsp;(B) two-thirds for grants to sponsors of each commercial service airport that each year has less than .05 percent of the total boardings in the United States in that year.
 
 (c)
 
@@ -20,7 +24,7 @@ Authority To Receive Grant Not Dependent on Participation in Block Grant Pilot P
 
 Priority Consideration for Certain Projects.—In making grants to sponsors described in subsection (b)(2), the Secretary shall give priority consideration to multi-year projects for construction of new runways that the Secretary finds are cost beneficial and would increase capacity in a region of the United States.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1271; Pub. L. 104–264, title I, §146, Oct. 9, 1996, 110 Stat. 3223.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1271; Pub. L. 104–264, title I, §146, Oct. 9, 1996, 110 Stat. 3223; Pub. L. 106–6, §8(b), Mar. 31, 1999, 113 Stat. 11.)
 
 Historical and Revision Notes
 
@@ -53,6 +57,10 @@ In subsection (b), before clause (1), the words “under this subsection” are 
 In subsection (c), the word “pilot” is added for consistency with section 47128 of the revised title.
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–6, §8(b)(1), substituted “87.5” for “75”.
+
+Subsec. (b). Pub. L. 106–6, §8(b)(2), added pars. (1) and (2) and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (2).
 
 1996—Subsec. (d). Pub. L. 104–264 added subsec. (d).
 

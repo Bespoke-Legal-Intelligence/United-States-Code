@@ -12,7 +12,7 @@ Except as otherwise provided in this section, any person in possession of (or ob
 
 #### (2) Satisfaction of levy
 
-&emsp;Such levy shall be deemed to be satisfied if such organization pays over to the Secretary the amount which the person against whom the tax is assessed could have had advanced to him by such organization on the date prescribed in paragraph (1) for the satisfaction of such levy, increased by the amount of any advance (including contractual interest thereon) made to such person on or after the date such organization had actual notice or knowledge (within the meaning of section 6323(i)(1)) of the existence of the lien with respect to which such levy is made, other than an advance (including contractual interest thereon) made automatically to maintain such contract inforce under an agreement entered into before such organization had such notice or knowledge.
+&emsp;Such levy shall be deemed to be satisfied if such organization pays over to the Secretary the amount which the person against whom the tax is assessed could have had advanced to him by such organization on the date prescribed in paragraph (1) for the satisfaction of such levy, increased by the amount of any advance (including contractual interest thereon) made to such person on or after the date such organization had actual notice or knowledge (within the meaning of section 6323(i)(1)) of the existence of the lien with respect to which such levy is made, other than an advance (including contractual interest thereon) made automatically to maintain such contract in force under an agreement entered into before such organization had such notice or knowledge.
 
 #### (3) Enforcement proceedings
 
@@ -30,7 +30,7 @@ Any bank (as defined in section 408(n)) shall surrender (subject to an attachmen
 
 #### (2) Penalty for violation
 
-&emsp;In addition to the personal liability imposed by paragraph (1), if any person required to surrender property or rights to property fails or refuses to surrender such property or rights to property without reasonable cause, such person shall be liable for a penalty equal to 50 percent of the amount recoverable under paragraph (1). No part of such penalty shall be credited against the tax liability for the collection of which such levy was made.
+&emsp;In addition to the personal liability imposed by paragraph (1), if any person required to surrender property or rights to property fails orrefuses to surrender such property or rights to property without reasonable cause, such person shall be liable for a penalty equal to 50 percent of the amount recoverable under paragraph (1). No part of such penalty shall be credited against the tax liability for the collection of which such levy was made.
 
 #### (e) Effect of honoring levy
 
@@ -86,7 +86,7 @@ Amendment by section 6236(e) of Pub. L. 100–647 applicable to levies issued on
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986,see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
+Amendment by Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 
 #### Effective Date of 1976 Amendment
 

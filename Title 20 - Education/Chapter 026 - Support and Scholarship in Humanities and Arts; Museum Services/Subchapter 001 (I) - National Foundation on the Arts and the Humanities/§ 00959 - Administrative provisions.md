@@ -6,7 +6,7 @@ In addition to any authorities vested in them by other provisions of this subcha
 
 &emsp;(1) to prescribe such regulations as the Chairperson deems necessary governing the manner in which the Chairperson's functions shall be carried out;
 
-&emsp;(2) in the discretion of the Chairperson of an Endowment, after receiving the recommendation of the National Council of that Endowment, to receive money and other property donated, bequeathed, or devised to that Endowment with or without a condition or restriction, including a condition that the Chairperson use other funds of that Endowment for the purposes of the gift, except that a Chairperson may receive a gift without a recommendation from the Council to provide support for any application or project which can be approved without Council recommendationunder the provisions of sections 955(f) and 957(f) of this title, and may receive a gift of $15,000, or less, without Council recommendation in the event the Council fails to provide such recommendation within a reasonable period of time, and to use, sell, or otherwise dispose of such property for the purpose of carrying out sections 954(c) and 956(c) of this title;
+&emsp;(2) in the discretion of the Chairperson of an Endowment, after receiving the recommendation of the National Council of that Endowment, to receive money and other property donated, bequeathed, or devised to that Endowment with or without a condition or restriction, including a condition that the Chairperson use other funds of that Endowment for the purposes of the gift, except that a Chairperson may receive a gift without a recommendation from the Council to provide support for any application or project which can be approved without Council recommendation under the provisions of sections 955(f) and 957(f) of this title, and may receive a gift of $15,000, or less, without Council recommendation in the event the Council fails to provide such recommendation within a reasonable period of time, and to use, sell, or otherwise dispose of such property for the purpose of carrying out sections 954(c) and 956(c) of this title;
 
 &emsp;(3) to appoint employees, subject to the civil service laws, as necessary to carry out the Chairperson's functions, define their duties, and supervise and direct their activities;
 
@@ -50,7 +50,7 @@ The Chairperson of the National Endowment for the Arts shall utilize advisory pa
 
 &emsp;&emsp;(B) to make such records available to the public in a manner that protects the privacy of individual applicants and panel members;
 
-&emsp;(5) to require, when necessary and feasible, the use of site visitations to view the work of the applicant and deliver a written report on the work being reviewed, in order to assist panelists in making their recommendations; and
+&emsp;(5) to require, when necessary and feasible, the use of site visitations to view the work ofthe applicant and deliver a written report on the work being reviewed, in order to assist panelists in making their recommendations; and
 
 &emsp;(6) to require that the membership of each panel change substantially from year to year and to provide that each individual is ineligible to serve on a panel for more than 3 consecutive years.
 

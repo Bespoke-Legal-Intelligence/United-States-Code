@@ -44,5 +44,5 @@ Works consisting of sounds, image, or both, the first fixation of which is made 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 109, 111, 115, 119, 411, 510, 512, 1101 of this title.
+This section is referred to in sections 109, 111, 115, 119, 122, 411, 510, 512, 1101 of this title.
 

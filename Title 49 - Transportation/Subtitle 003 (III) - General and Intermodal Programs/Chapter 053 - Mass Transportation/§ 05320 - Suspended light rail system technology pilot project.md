@@ -54,7 +54,7 @@ Option Not To Construct and Reawarding the Grant.—(1) Not later than 30 days a
 
 &emsp;(B) remaining amounts received shall be returned to the Secretary and credited to the Mass Transit Account of the Highway Trust Fund; and
 
-&emsp;(C) the Secretary shall use the credited amount and other amounts to be providedunder this section to award to another entity selected under subsection (c)(1) of this section a grant under section 5309 of this title to construct the project.
+&emsp;(C) the Secretary shall use the credited amount and other amounts to be provided under this section to award to another entity selected under subsection (c)(1) of this section a grant under section 5309 of this title to construct the project.
 
 (2) Not later than 60 days after a decision is made under paragraph (1) of this subsection, a grant shall be awarded under paragraph (1)(C) of this subsection after completing a competitive process for selecting the grant recipient.
 

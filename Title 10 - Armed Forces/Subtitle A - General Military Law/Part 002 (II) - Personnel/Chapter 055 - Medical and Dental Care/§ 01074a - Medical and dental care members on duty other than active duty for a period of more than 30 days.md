@@ -4,17 +4,23 @@
 
 &emsp;(1) Each member of a uniformed service who incurs or aggravates an injury, illness, or disease in the line of duty while performing—
 
-&emsp;&emsp;(A) active duty for a period of 30 days or less; or
+&emsp;&emsp;(A) active duty for a period of 30 days or less;
 
-&emsp;&emsp;(B) inactive-duty training.
+&emsp;&emsp;(B) inactive-duty training; or
+
+&emsp;&emsp;(C) service on funeral honors duty under section 12503 of this title or section 115 of title 32.
 
 &emsp;(2) Each member of a uniformed service who incurs or aggravates an injury, illness, or disease while traveling directly to or from the place at which that member is to perform or has performed—
 
-&emsp;&emsp;(A) active duty for a period of 30 days or less; or
+&emsp;&emsp;(A) active duty for a period of 30 days or less;
 
-&emsp;&emsp;(B) inactive-duty training.
+&emsp;&emsp;(B) inactive-duty training; or
+
+&emsp;&emsp;(C) service on funeral honors duty under section 12503 of this title or section 115 of title 32.
 
 &emsp;(3) Each member of the armed forces who incurs or aggravates an injury, illness, or disease in the line of duty while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance from the member's residence.
+
+&emsp;(4) Each member of the armed forces who incurs or aggravates an injury, illness, or disease in the line of duty while remaining overnight immediately before serving on funeral honors duty under section 12503 of this title or section 115 of title 32 at or in the vicinity of the place at which the member was to so serve, if the place is outside reasonable commuting distance from the member's residence.
 
 (b) A person described in subsection (a) is entitled to—
 
@@ -36,11 +42,21 @@
 
 (2) The services provided under this subsection shall be provided at no cost to the member.
 
-(e) A member of a uniformed service described in paragraph (1)(A) or (2)(A) of subsection (a) whose orders are modified or extended, while the member is being treated for (or recovering from) the injury, illness, or disease incurred or aggravated in the line of duty, so as to result in active duty for a period of more than 30 days shall be entitled, while the member remains on active duty, to medical and dental care on the same basis and to the same extent as members covered by section 1074(a) of this title.
+(e)(1) A member of a uniformed service on active duty for health care or recuperation reasons, as described in paragraph (2), is entitled to medical and dental care on the same basis andto the same extent as members covered by section 1074(a) of this title while the member remains on active duty.
 
-(Added Pub. L. 98–94, title X, §1012(a)(1), Sept. 24, 1983, 97 Stat. 664; amended Pub. L. 98–525, title VI, §631(a)(1), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 98–557, §19(4), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title XIII, §1303(a)(7), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–661, div. A, title VI, §604(a)(1), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 104–106, div. A, title VII, §§702(a), 704(a), Feb. 10, 1996, 110 Stat. 371, 372; Pub. L. 105–85, div. A, title V, §513(a), Nov. 18, 1997, 111 Stat. 1730.)
+(2) Paragraph (1) applies to a member described in paragraph (1) or (2) of subsection (a) who, while being treated for (or recovering from) an injury, illness, or disease incurred or aggravated in the line of duty, is continued on active duty pursuant to a modification or extension of orders, or is ordered to active duty, so as to result in active duty for a period of more than 30 days.
+
+(Added Pub. L. 98–94, title X, §1012(a)(1), Sept. 24, 1983, 97 Stat. 664; amended Pub. L. 98–525, title VI, §631(a)(1), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 98–557, §19(4), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title XIII, §1303(a)(7), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–661, div. A, title VI, §604(a)(1), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 104–106, div. A, title VII, §§702(a), 704(a), Feb. 10, 1996, 110 Stat. 371, 372; Pub. L. 105–85, div. A, title V, §513(a), Nov. 18, 1997, 111 Stat. 1730; Pub. L. 106–65, div. A, title V, §578(i)(1), title VII, §705(b), Oct. 5, 1999, 113 Stat. 629, 683.)
 
 #### Amendments
+
+1999—Subsec. (a)(1)(C). Pub. L. 106–65, §578(i)(1)(A), added subpar. (C).
+
+Subsec. (a)(2)(C). Pub. L. 106–65, §578(i)(1)(A), added subpar. (C).
+
+Subsec. (a)(4). Pub. L. 106–65, §578(i)(1)(B), added par. (4).
+
+Subsec. (e). Pub. L. 106–65, §705(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “A member of a uniformed service described in paragraph (1)(A) or (2)(A) of subsection (a) whose orders are modified or extended, while the member is being treated for (or recovering from) the injury, illness, or disease incurred or aggravated in the line of duty, so as to result in active duty for a period of more than 30 days shall be entitled, while the member remains on active duty, to medical and dental care on the same basis and to the same extent as members covered by section 1074(a) of this title.”
 
 1997—Subsec. (a)(3). Pub. L. 105–85, §513(a)(1), inserted “while remaining overnight immediately before the commencement of inactive-duty training, or” after “in the line of duty”.
 
@@ -94,5 +110,5 @@ Section 1012(c) of Pub. L. 98–94 provided that: “The amendments made by subs
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1074d of this title; title 37 section 204.
+This section is referred to in sections 1074d, 1076, 12322 of this title; title 37 section 204.
 

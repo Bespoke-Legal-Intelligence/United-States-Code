@@ -22,6 +22,10 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under section 2151 of this title.
 
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
 #### Humanitarian Assistance
 
 Pub. L. 99–83, title IX, §904, Aug. 8, 1985, 99 Stat. 268, provided that:

@@ -54,11 +54,11 @@ Subsec. (d). Pub. L. 94–455, §1901(a)(138), struck out effective date provisi
 
 1971—Subsec. (a). Pub. L. 91–686, §2(a)(1), substituted “other than a corporation” for “(including corporations only if no shareholder directly or indirectly holds real property for sale to customers in the ordinary course of trade or business and only in the case of property described in the last sentence of subsection (b)(3))”.
 
-Subsec. (b). Pub. L. 91–686, §2(a)(2), struck out sentence which made subpars. (B) and (C) inapplicable in the case of property acquired through the foreclosure of a lien thereon which secured the payment of an indebtedness to the taxpayer or (in the case of a corporation) to a creditor who has transferred the foreclosure bid to the taxpayer in exchange for all of its stock and other consideration and in the case of property adjacent to such property if 80 percent of the real property owned by the taxpayer was property described in the first part of the sentence.
+Subsec. (b). Pub. L. 91–686, §2(a)(2), struck out sentence which made subpars. (B) and (C) inapplicable in the case of property acquired through the foreclosure ofa lien thereon which secured the payment of an indebtedness to the taxpayer or (in the case of a corporation) to a creditor who has transferred the foreclosure bid to the taxpayer in exchange for all of its stock and other consideration and in the case of property adjacent to such property if 80 percent of the real property owned by the taxpayer was property described in the first part of the sentence.
 
 1958—Subsec. (a)(1). Pub. L. 85–866 substituted “and, in the same taxable year” for “or, in the same taxable year”.
 
-1956—Subsec. (a). Act Apr. 27, 1956, §1, substituted “(including corporations only if no shareholder directlyor indirectly holds real property for sale to customers in the ordinary course of trade or business and only in the case of property described in the last sentence of subsection (b)(3))” for “other than a corporation”.
+1956—Subsec. (a). Act Apr. 27, 1956, §1, substituted “(including corporations only if no shareholder directly or indirectly holds real property for sale to customers in the ordinary course of trade or business and only in the case of property described in the last sentence of subsection (b)(3))” for “other than a corporation”.
 
 Subsec. (b)(3). Act Apr. 27, 1956, §2, substituted “water, sewer, or drainage facilities” for “water or sewer facilities” in subpar. (A), and inserted provision at end that requirements of subpars. (B) and (C) do not apply to certain specified property.
 

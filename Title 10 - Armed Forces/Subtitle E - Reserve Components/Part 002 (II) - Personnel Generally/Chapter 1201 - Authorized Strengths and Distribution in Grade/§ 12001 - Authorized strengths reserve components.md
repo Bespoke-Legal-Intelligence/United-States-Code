@@ -16,59 +16,57 @@ Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 #### End Strengths for Selected Reserve and for Reserves on Active Duty in Support of Reserves
 
-Pub. L. 105–261, div. A, title IV, §§411, 412, Oct. 17, 1998, 112 Stat. 1997, provided that:
+Pub. L. 106–65, div. A, title IV, §§411, 412, Oct. 5, 1999, 113 Stat. 585, 586, provided that:
 
-#### “SEC. 411. END STRENGTHS FOR SELECTED RESERVE.
+#### “SEC. 411. End Strengths for Selected Reserve
 
 “(a)
 
-In General.—The Armed Forces are authorized strengths for Selected Reserve personnel of the reserve components as of September 30, 1999, as follows:
+In General.—The Armed Forces are authorized strengths for Selected Reserve personnel of the reserve components as of September 30, 2000, as follows:
 
-&emsp;“(1) The Army National Guard of the United States, 357,223.
+&emsp;“(1) The Army National Guard of the United States, 350,000.
 
-&emsp;“(2) The Army Reserve, 208,003.
+&emsp;“(2) The Army Reserve, 205,000.
 
-&emsp;“(3) The Naval Reserve, 90,843.
+&emsp;“(3) The Naval Reserve, 90,288.
 
-&emsp;“(4) The Marine Corps Reserve, 40,018.
+&emsp;“(4) The Marine Corps Reserve, 39,624.
 
-&emsp;“(5) The Air National Guard of the United States, 106,992.
+&emsp;“(5) The Air National Guard of the United States, 106,678.
 
-&emsp;“(6) The Air Force Reserve, 74,243.
+&emsp;“(6) The Air Force Reserve, 73,708.
 
 &emsp;“(7) The Coast Guard Reserve, 8,000.
 
 “(b)
 
-Waiver Authority.—The Secretary of Defense may vary an end strength authorized by subsection (a) by not more than 2 percent.
-
-“(c)
-
 Adjustments.—The end strengths prescribed by subsection (a) for the Selected Reserve of any reserve component shall be proportionately reduced by—
 
 &emsp;“(1) the total authorized strength of units organized to serve as units of the Selected Reserve of such component which are on active duty (other than for training) at the end of the fiscal year; and
 
-&emsp;“(2) the total number of individual members not in units organized to serve as units of the Selected Reserve of such component who are on active duty\(other than for training or for unsatisfactory participation in training) without their consent at the end of the fiscal year.
+&emsp;“(2) the total number of individual members not in units organized to serve as units of the Selected Reserve of such component who are on active duty (other than for training or for unsatisfactory participation in training) without their consent at the end of the fiscal year.
 
-> Whenever such units or such individual members are released from active duty during any fiscal year, the end strength prescribed for such fiscal year for the Selected Reserve of such reserve component shall be proportionately increased by the total authorized strengths of such units and by the total number of such individual members.
+> Whenever such units or such individual members are released from active duty during any fiscal year, the end strength prescribed for such fiscal year for the Selected Reserve of such reserve component shall be proportionately increased by the total authorized strengths of such units and by the total number of such individual members.”
 
-#### “SEC. 412. END STRENGTHS FOR RESERVES ON ACTIVE DUTY IN SUPPORT OF THE RESERVES.
+#### “SEC. 412. End Strengths for Reserves on Active Duty in Support of the Reserves
 
-“Within the end strengths prescribed in section 411(a), the reserve components of the Armed Forces are authorized, as of September 30, 1999, the following number of Reserves to be serving on full-time active duty or full-time duty, in the case of members of the National Guard, for the purpose of organizing, administering, recruiting, instructing, or training the reserve components:
+“Within the end strengths prescribed in section 411(a), the reserve components of the Armed Forces are authorized, as of September 30, 2000, the following number of Reserves to be serving on full-time active duty or full-time duty, in the case of members of the National Guard, for the purpose of organizing, administering, recruiting, instructing, or training the reserve components:
 
-&emsp;“(1) The Army National Guard of the United States, 21,986.
+&emsp;“(1) The Army National Guard of the United States, 22,430.
 
-&emsp;“(2) The Army Reserve, 12,807.
+&emsp;“(2) The Army Reserve, 12,804.
 
-&emsp;“(3) The Naval Reserve, 15,590.
+&emsp;“(3) The Naval Reserve, 15,010.
 
-&emsp;“(4) The Marine Corps Reserve, 2,362.
+&emsp;“(4) The Marine Corps Reserve, 2,272.
 
-&emsp;“(5) The Air National Guard of the United States, 10,931.
+&emsp;“(5) The Air National Guard of the United States, 11,157.
 
-&emsp;“(6) The Air Force Reserve, 992.”
+&emsp;“(6) The Air Force Reserve, 1,134.”
 
 Similar provisions were contained in the following prior authorization acts:
+
+Pub. L. 105–261, div. A, title IV, §§411, 412, Oct. 17, 1998, 112 Stat. 1997.
 
 Pub. L. 105–85, div. A, title IV, §§411, 412, Nov. 18, 1997, 111 Stat. 1719, 1720.
 
@@ -150,7 +148,7 @@ Definition.—For purposes of this section, the term ‘force structure allowanc
 
 Pub. L. 102–484, div. A, title V, §518, Oct. 23, 1992, 106 Stat. 2407, as amended by Pub. L. 103–337, div. A, title VII, §716, Oct. 5, 1994, 108 Stat. 2803, prohibited Secretary of Defense from reducing number of medical personnel in any reserve component below number of such personnel in that component on Sept. 30, 1992, unless Secretary certified to Congress that number of such personnel to be reduced in particular military department was excess to current and projected needs for personnel in Selected Reserve of that department, and required that assessment of such needs be consistent with wartime requirements for Selected Reserve personnel identified in final report on comprehensive study of military medical care system prepared pursuant to section 733 of Pub. L. 102–190, formerly set out as a note under section 1071 of this title, prior to repeal by Pub. L. 104–106, div. A, title V, §564(d)(3), Feb. 10, 1996, 110 Stat. 327.
 
-#### Pilot Program for Active Component Support of Reserves
+#### Program for Active Component Support of Reserves
 
 Pub. L. 103–160, div. A, title V, §517(b), Nov. 30, 1993, 107 Stat. 1651, provided that:
 
@@ -158,15 +156,15 @@ Pub. L. 103–160, div. A, title V, §517(b), Nov. 30, 1993, 107 Stat. 1651, pro
 
 “(2) Each such presentation shall include, with respect to the period covered by the report, the following information:
 
-&emsp;“(A) The promotion rate for officers considered for promotion from within the promotion zone who are serving as active component advisers to units of the Selected Reserve of the Ready Reserve (in accordance with that program) compared with the promotion rate for other officers considered for promotion from within the promotion zone in the same pay grade andthe same competitive category, shown for all officers of the Army.
+&emsp;“(A) The promotion rate for officers considered for promotion from within the promotion zone who are serving as active component advisers to units of the Selected Reserve of the Ready Reserve (in accordance with that program) compared with the promotion rate for other officers considered for promotion from within the promotion zone in the same pay grade and the same competitive category, shown for all officers of the Army.
 
 &emsp;“(B) The promotion rate for officers considered for promotion from below the promotion zone who are serving as active component advisers to units of the Selected Reserve of the Ready Reserve (in accordance with that program) compared in the same manner as specified in subparagraph (A).”
 
-Pub. L. 102–190, div. A, title IV, §414(a)–(d), Dec. 5, 1991, 105 Stat. 1352, 1353, as amended by Pub. L. 102–484, div. A, title V, §511(b), title XI, §1132, Oct. 23, 1992, 106 Stat. 2405, 2541; Pub. L. 103–160, div. A, title V, §517(a), Nov. 30, 1993, 107 Stat. 1650; Pub. L. 103–337, div. A, title IV, §413, Oct. 5, 1994, 108 Stat. 2747; Pub. L. 104–106, div. A, title IV, §413, Feb. 10, 1996, 110 Stat. 288; Pub. L. 104–201, div. A, title V, §545(b), Sept. 23, 1996, 110 Stat. 2524, provided that:
+Pub. L. 102–190, div. A, title IV, §414(a)–(d), Dec. 5, 1991, 105 Stat. 1352, 1353, as amended by Pub. L. 102–484, div. A, title V, §511(b), title XI, §1132, Oct. 23, 1992, 106 Stat. 2405, 2541; Pub. L. 103–160, div. A, title V, §517(a), Nov. 30, 1993, 107 Stat. 1650; Pub. L. 103–337, div. A, title IV, §413, Oct. 5, 1994, 108 Stat. 2747; Pub. L. 104–106, div. A, title IV, §413, Feb. 10, 1996, 110 Stat. 288; Pub. L. 104–201, div. A, title V, §545(b), Sept. 23, 1996, 110 Stat. 2524; Pub. L. 106–65, div. A, title X, §1066(d)(2), Oct. 5, 1999, 113 Stat. 773, provided that:
 
 “(a)
 
-Pilot Program Required.—The Secretary of the Army shall carry out a pilot program to provide active component advisers to combat units, combat support units, and combat service support units in the Selected Reserve of the Ready Reserve that have a high priority for deployment on a time-phased troop deployment list or have another contingent high priority for deployment. The advisers shall be assigned to full-time duty in connection with organizing, administering, recruiting, instructing, or training such units.
+Program Required.—The Secretary of the Army shall carry out a program to provide active component advisers to combat units, combat support units, and combat service support units in the Selected Reserve of the Ready Reserve that have a high priority for deployment on a time-phased troop deployment list or have another contingent high priority for deployment. The advisers shall be assigned to full-time duty in connection with organizing, administering, recruiting, instructing, or training such units.
 
 “(b)
 
@@ -182,7 +180,7 @@ Objectives of Program.—The objectives of the program are as follows:
 
 “(c)
 
-Personnel To Be Assigned.—(1) The Secretary shall assign not less than 2,000 active component personnel to serve as advisers under the program. After September 30, 1996, the number under the preceding sentence shall be increased to not less than 5,000.
+Personnel To Be Assigned.—(1) The Secretary shall assign not less than 5,000 active component personnel to serve as advisers under the program.
 
 “(2) The Secretary of Defense may count toward the number of active component personnel required under paragraph (1) to be assigned to serve as advisers under the program under this section any active component personnel who are assigned to an active component unit (A) that was established principally for the purpose of providing dedicated training support to reserve component units, and (B) the primary mission of which is to provide such dedicated training support.
 

@@ -12,7 +12,7 @@
 
 #### (3) Rule of construction
 
-&emsp;Nothing in this section shall be construed as a limitation of the authority of any State agency to enter into an agreement for the purposes of this section as a member of a consortium of State agencies.
+&emsp;Nothing in this section shall be construed as a limitation of the authority of any Stateagency to enter into an agreement for the purposes of this section as a member of a consortium of State agencies.
 
 #### (b) Contracts for origination, servicing, and data systems
 

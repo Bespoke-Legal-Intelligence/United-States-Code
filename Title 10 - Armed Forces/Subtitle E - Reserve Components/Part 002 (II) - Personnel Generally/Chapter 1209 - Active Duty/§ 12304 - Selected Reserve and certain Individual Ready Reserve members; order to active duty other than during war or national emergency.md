@@ -114,7 +114,7 @@ Pub. L. 101–511, title VIII, §8132, Nov. 5, 1990, 104 Stat. 1908, provided th
 
 Ex. Ord. No. 12727, Aug. 22, 1990, 55 F.R. 35027, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including sections 121 and 673b \[now 12304\] of title 10 of the United States Code, I hereby determine that it is necessary to augment the active armed forces of the United States for the effective conduct of operational missions in and around the Arabian Peninsula. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when the latter is not operating as a service in the Department of the Navy, to order to active duty units and individual members not assigned to units, of the Selected Reserve.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 673b \[now 12304\] of title 10 of the United States Code, I hereby determine that it is necessary to augment the active armed forces of the United States for the effective conduct of operational missions in and around the Arabian Peninsula. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when the latter is not operating as a service in the Department of the Navy, to order to active duty units and individual members not assigned to units, of the Selected Reserve.
 
 This order is intended only to improve the internal management of the executive branch, and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
@@ -163,6 +163,16 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Ex. Ord. No. 13076, Feb. 24, 1998, 63 F.R. 9719, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 12304 of title 10, United States Code, I hereby determine that it is necessary to augment the active armed forces of the United States for the effective conduct of operations in and around Southwest Asia. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve.
+
+This order is intended only to improve the internal management of the executive branch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13120. Ordering Selected Reserve and Certain Individual Ready Reserve Members of Armed Forces to Active Duty
+
+Ex. Ord. No. 13120, Apr. 27, 1999, 64 F.R. 23007, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 12304 of title 10, United States Code, I hereby determine that it is necessary to augment the active armed forces of the United States for the effective conduct of operations in and around the former Yugoslavia related to the conflict in Kosovo. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, under their respective jurisdictions, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve, or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, and to terminate the service of those units and members ordered to active duty.
 
 This order is intended only to improve the internal management of the executive branch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 

@@ -12,5 +12,9 @@ Section is based on the twelfth par. of section 13 of act Dec. 23, 1913, as amen
 
 Section 203(a) of act Aug. 23, 1935, changed the name of the Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 412 of this title.
+
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “in”.</i>
 

@@ -22,7 +22,7 @@ The court shall have jurisdiction to affirm the action of the Secretary of Labor
 
 #### Amendments
 
-1984—Subsec. (e). Pub. L. 98–620 struck out subsec. (e) which had provided that any judicial proceedings under this section were entitled to, and upon request of the Secretary of Labor or of the State would receive, a preference and would be heard and determined as expeditiously as possible.
+1984—Subsec. (e). Pub. L. 98–620 struck out subsec. (e) which had provided that any judicial proceedings underthis section were entitled to, and upon request of the Secretary of Labor or of the State would receive, a preference and would be heard and determined as expeditiously as possible.
 
 1976—Subsec. (d)(2). Pub. L. 94–455, §1906(b)(13)(F), substituted “the Secretary of Labor's action” for “the Secretary's action” in two places.
 

@@ -22,7 +22,7 @@ The Congress makes the following findings:
 
 #### Effective Date
 
-Section 1712 of title XVII of div. A of Pub. L. 102–484 provided that: “This title \[enacting this chapter,amending section 16 of Title 50, Appendix, War and National Defense, and enacting provisions set out as a note below\] shall take effect on the date of the enactment of this Act \[Oct. 23, 1992\].”
+Section 1712 of title XVII of div. A of Pub. L. 102–484 provided that: “This title \[enacting this chapter, amending section 16 of Title 50, Appendix, War and National Defense, and enacting provisions set out as a note below\] shall take effect on the date of the enactment of this Act \[Oct. 23, 1992\].”
 
 #### Short Title
 

@@ -10,7 +10,7 @@ Compliance With Order Required.—A person or industry with whom an order is pla
 
 (c)
 
-Seizure of Manufacturing Plants Upon Noncompliance.—In time of war or when war is imminent, the President, through the head of any department, may take immediate possession of any plant that is equipped to manufacture, or that in the opinion of the head of that department is capable of being readily transformed into a plant for manufacturing, arms or ammunition, parts thereof, or necessary supplies for the armed forces if the person or industry owning or operating the plant, or the responsible head thereof, refuses—
+Seizure of Manufacturing Plants Upon Noncompliance.—In time of war or when war isimminent, the President, through the head of any department, may take immediate possession of any plant that is equipped to manufacture, or that in the opinion of the head of that department is capable of being readily transformed into a plant for manufacturing, arms or ammunition, parts thereof, or necessary supplies for the armed forces if the person or industry owning or operating the plant, or the responsible head thereof, refuses—
 
 &emsp;(1) to give precedence to the order as prescribed in subsection (b);
 
@@ -30,7 +30,7 @@ Compensation Required.—Each person or industry from whom products or materials
 
 Criminal Penalty.—Whoever fails to comply with this section shall be imprisoned for not more than three years and fined under title 18.
 
-(Added Pub. L. 103–160, div. A, title VIII, §822(a)(1), Nov. 30, 1993, 107 Stat. 1704; amendedPub. L. 103–337, div. A, title VIII, §811, Oct. 5, 1994, 108 Stat. 2815.)
+(Added Pub. L. 103–160, div. A, title VIII, §822(a)(1), Nov. 30, 1993, 107 Stat. 1704; amended Pub. L. 103–337, div. A, title VIII, §811, Oct. 5, 1994, 108 Stat. 2815.)
 
 #### Prior Provisions
 

@@ -30,7 +30,7 @@ Amendment by Pub. L. 99–198 effective one year after Dec. 23, 1985, see sectio
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note undersection 5314 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note under section 5314 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1970 Amendment
 

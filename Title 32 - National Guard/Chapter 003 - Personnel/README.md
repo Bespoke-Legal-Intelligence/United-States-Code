@@ -78,6 +78,8 @@ Status when not in Federal service, see sections 10107 and 10113 of Title 10.
 
 Uniform, when wearing by persons not on active duty authorized, see section 772 of Title 10.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

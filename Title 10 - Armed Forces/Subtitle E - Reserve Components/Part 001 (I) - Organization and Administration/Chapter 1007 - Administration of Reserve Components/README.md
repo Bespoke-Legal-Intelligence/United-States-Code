@@ -18,11 +18,14 @@
 | [10214\.](%C2%A7%2010214%20-%20Adjutants%20general%20and%20assistant%20adjutants%20general%20reference%20to%20other%20officers%20of%20National%20Guard.md) | Adjutants general and assistant adjutants general: reference to other officers of National Guard. |
 | [10215\.](%C2%A7%2010215%20-%20Officers%20of%20Army%20National%20Guard%20of%20the%20United%20States%20and%20Air%20National%20Guard%20of%20the%20United%20States%20authority%20with%20respect%20to%20Federal%20status.md) | Officers of Army National Guard of the United States and Air National Guard of the United States: authority with respect to Federal status. |
 | [10216\.](%C2%A7%2010216%20-%20Military%20technicians%20%28dual%20status%29.md) | Military technicians (dual status). |
-| [10217\.](%C2%A7%2010217%20-%20Non-dual%20status%20military%20technicians.md) | Non-dual status military technicians. |
+| [10217\.](%C2%A7%2010217%20-%20Non-dual%20status%20technicians.md) | Non-dual status technicians. |
+| [10218\.](%C2%A7%2010218%20-%20Army%20and%20Air%20Force%20Reserve%20technicians%20conditions%20for%20retention%3B%20mandatory%20retirement%20under%20civil%20service%20laws.md) | Army and Air Force Reserve technicians: conditions for retention; mandatory retirement under civil service laws. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title V, §§522(a)(2), 523(b), Oct. 5, 1999, 113 Stat. 597, 598, struck out “military” after “status” in item 10217 and added item 10218.
 
 1997—Pub. L. 105–85, div. A, title V, §§522(h)(2), 523(a)(2), Nov. 18, 1997, 111 Stat. 1736, 1737, inserted “(dual status)” after “technicians” in item 10216 and added item 10217.
 
@@ -53,4 +56,5 @@ This chapter is referred to in section 261 of this title.
 - [&sect; 10214 - Adjutants general and assistant adjutants general reference to other officers of National Guard](%C2%A7%2010214%20-%20Adjutants%20general%20and%20assistant%20adjutants%20general%20reference%20to%20other%20officers%20of%20National%20Guard.md)
 - [&sect; 10215 - Officers of Army National Guard of the United States and Air National Guard of the United States authority with respect to Federal status](%C2%A7%2010215%20-%20Officers%20of%20Army%20National%20Guard%20of%20the%20United%20States%20and%20Air%20National%20Guard%20of%20the%20United%20States%20authority%20with%20respect%20to%20Federal%20status.md)
 - [&sect; 10216 - Military technicians (dual status)](%C2%A7%2010216%20-%20Military%20technicians%20%28dual%20status%29.md)
-- [&sect; 10217 - Non-dual status military technicians](%C2%A7%2010217%20-%20Non-dual%20status%20military%20technicians.md)
+- [&sect; 10217 - Non-dual status technicians](%C2%A7%2010217%20-%20Non-dual%20status%20technicians.md)
+- [&sect; 10218 - Army and Air Force Reserve technicians conditions for retention; mandatory retirement under civil service laws](%C2%A7%2010218%20-%20Army%20and%20Air%20Force%20Reserve%20technicians%20conditions%20for%20retention%3B%20mandatory%20retirement%20under%20civil%20service%20laws.md)

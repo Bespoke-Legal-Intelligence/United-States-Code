@@ -90,7 +90,7 @@ Section effective with respect to services, supplies, and equipment furnished af
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 410, 418, 1320a–7a, 1395c, 1395i–2a, 1395y, 1395rr of this title; title 10 section 1086.
+This section is referred to in sections 410, 418, 1320a–7a, 1395c, 1395i–2a, 1395w–23, 1395y, 1395rr of this title; title 10 section 1086.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(d)”.</i>
 

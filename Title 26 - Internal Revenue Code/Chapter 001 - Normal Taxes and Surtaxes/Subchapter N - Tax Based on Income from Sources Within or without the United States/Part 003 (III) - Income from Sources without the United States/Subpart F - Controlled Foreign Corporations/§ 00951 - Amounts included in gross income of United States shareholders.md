@@ -108,7 +108,7 @@ Amendment by Pub. L. 104–188 applicable to taxable years of foreign corporatio
 
 #### Effective Date of 1993 Amendment
 
-Section 13231(e) of Pub. L. 103–66 provided that: “The amendments made by this section \[enacting section 956A of this title and amending this section and sections 959, 989, 1293, 1296, and 1297 of this title\] shall apply to taxable years of foreign corporations beginning after September 30, 1993, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end.”
+Section 13231(e) of Pub. L. 103–66 provided that: “The amendments made by this section \[enacting section 956A of this title and amending this section and sections 959, 989, 1293, 1296, and 1297 of this title\] shallapply to taxable years of foreign corporations beginning after September 30, 1993, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end.”
 
 Section 13232(d) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and section 956 of this title\] shall apply to taxable years of controlled foreign corporations beginning after September 30, 1993, and to taxable years of United States shareholders in which or with which such taxable years of controlled foreign corporations end.”
 
@@ -142,5 +142,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 168, 304, 512, 851, 864, 865, 877, 898, 902, 904, 952, 953, 955, 956, 958, 959, 960,961, 962, 970, 989, 993, 999, 1246, 1248, 1293, 1294, 1297, 1298, 6654, 6655 of this title.
+This section is referred to in sections 168, 304, 512, 851, 864, 865, 877, 898, 902, 904, 952, 953, 955, 956, 958, 959, 960, 961, 962, 970, 989, 993, 999, 1246, 1248, 1293, 1294, 1297, 1298, 6654, 6655 of this title.
 

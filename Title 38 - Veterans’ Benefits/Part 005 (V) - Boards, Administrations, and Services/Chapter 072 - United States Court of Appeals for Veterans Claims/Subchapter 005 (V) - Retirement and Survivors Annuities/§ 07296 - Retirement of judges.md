@@ -4,7 +4,7 @@
 
 &emsp;(1) The term “Court” means the United States Court of Appeals for Veterans Claims.
 
-&emsp;(2) The term “judge” means the chief judge or an associate judge of the Court.
+&emsp;(2) The term “judge” means a judge of the Court.
 
 (b)(1) A judge who meets the age and service requirements set forth in the following table may retire:
 
@@ -54,7 +54,13 @@
 
 (3) A judge who becomes permanently disabled and as a result of that disability is unable to perform the duties of the office shall retire.
 
-(c)(1) An individual who retires under subsection (b) of this section and elects under subsection (d) of this section to receive retired pay under this subsection shall (except as provided in paragraph (2) of this subsection) receive retired pay at the rate of pay in effect at the time of retirement.
+(c)(1) An individual who retires under subsection (b) of this section and elects under subsection (d) of this section to receive retired pay under this subsection shall (except as provided in paragraph (2) of this subsection) receive retired pay as follows:
+
+&emsp;(A) In the case of a judge who is a recall-eligible retired judge under section 7257 of this title or who was a recall-eligible retired judge under that section and was removed from recall status under subsection (b)(4) of that section by reason of disability, the retired pay of the judge shall be the pay of a judge of the court.
+
+&emsp;(B) In the case of a judge who at the time of retirement did not provide notice under section 7257 of this title of availability for service in a recalled status, the retired pay of the judge shall be the rate of pay applicable to that judge at the time of retirement.
+
+&emsp;(C) In the case of a judge who was a recall-eligible retired judge under section 7257 of this title and was removed from recall status under subsection (b)(3) of that section, the retired pay of the judge shall be the pay of the judge at the time of the removal from recall status.
 
 (2) An individual who serves as a judge for less than 10 years and who retires under subsection (b)(3) of this section and elects under subsection (d) of this section to receive retired pay under this subsection shall receive retired pay at a rate equal to one-half of the rate of pay in effect at the time of retirement.
 
@@ -66,7 +72,7 @@
 
 &emsp;(B) may not be revoked after the retired pay begins to accrue.
 
-(2) In the case of a judge other than the chief judge, such an election shall be made by filing notice of the election in writing with the chief judge. In the case of the chief judge, such an election shall be made by filing notice of the election in writing with the Director of the Office of Personnel Management.
+(2) In the case of a judge other than the chief judge, such an election shall be made by filingnotice of the election in writing with the chief judge. In the case of the chief judge, such an election shall be made by filing notice of the election in writing with the Director of the Office of Personnel Management.
 
 (3) The chief judge shall transmit to the Director of the Office of Personnel Management a copy of each notice filed with the chief judge under this subsection.
 
@@ -81,6 +87,10 @@
 &emsp;(B) no deduction for purposes of the Civil Service Retirement and Disability Fund shall be made from retired pay payable to that individual under subsection (c) of this section or from any other salary, pay, or compensation payable to that individual, for any period beginning after the day on which such election is filed; and
 
 &emsp;(C) such individual shall be paid the lump-sum credit computed under section 8331(8) or 8401(a) of title 5, whichever applies, upon making application therefor with the Office of Personnel Management.
+
+(3)(A) A cost-of-living adjustment provided by law in annuities payable under civil service retirement laws shall apply to retired pay under this section only in the case of retired pay computed under paragraph (2) of subsection (c).
+
+(B) If such a cost-of-living adjustment would (but for this subparagraph) result in the retired pay of a retired judge being in excess of the annual rate of pay in effect for judges of the Court as provided in section 7253(e) of this title, such adjustment may be made only in such amount as results in the retired pay of the retired judge being equal to that annual rate of pay (as in effect on the effective date of such adjustment).
 
 (g)(1) A judge who becomes permanently disabled and as a result of that disability is unable to perform the duties of the office shall certify to the President in writing that such permanent disability exists. If the chief judge retires for such a disability, the retirement of the chief judge shall not take effect until concurred in by the President. If any other judge retires for such a disability, the chief judge shall furnish to the President a certificate of disability signed by the chief judge.
 
@@ -114,15 +124,21 @@
 
 (k) The amounts deducted and withheld under subsection (i) of this section, and the amounts deposited under subsection (j) of this section, shall be deposited in the Court of Appeals for Veterans Claims Retirement Fund for credit to individual accounts in the name of each judge from whom such amounts are received.
 
-(Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 617, §4096; renumbered §7296 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–82, §5(c)(1), Aug. 6, 1991, 105 Stat. 376; Pub. L. 102–198, §7(c)(4)(D), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
+(Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 617, §4096; renumbered §7296 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–82, §5(c)(1), Aug. 6, 1991, 105 Stat. 376; Pub. L. 102–198, §7(c)(4)(D), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 106–117, title X, §§1022, 1035(2), Nov. 30, 1999, 113 Stat. 1592, 1595.)
 
 #### References in Text
 
-The civil service retirement laws, referred to in subsecs. (f)(1), (2)(A) and (h)(3)(C), are classified generally to subchapter III (§8331 et seq.) of chapter 83 of Title 5, Government Organization and Employees.
+The civil service retirement laws, referred to in subsecs. (f) and (h)(3)(C), are classified generally to subchapter III (§8331 et seq.) of chapter 83 of Title 5, Government Organization and Employees.
 
 The Civil Service Retirement and Disability Fund, referred to in subsecs. (f)(2)(B) and (h)(3)(C), (D), is provided for in section 8348 of Title 5.
 
 #### Amendments
+
+1999—Subsec. (a)(2). Pub. L. 106–117, §1035(2), substituted “a judge” for “the chief judge or an associate judge”.
+
+Subsec. (c)(1). Pub. L. 106–117, §1022(a), substituted “as follows:” for “at the rate of pay in effect at the time of retirement.” and added subpars. (A) to (C).
+
+Subsec. (f)(3). Pub. L. 106–117, §1022(b), added par. (3).
 
 1998—Subsecs. (a)(1), (i)(1), (k). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
@@ -134,11 +150,163 @@ Pub. L. 102–82 inserted before semicolon at end “except as authorized by sec
 
 Subsec. (h)(3)(B). Pub. L. 102–40, §402(d)(1), substituted “7297” for “4097” in introductory provisions, “7297(b)” for “4097(b)” in cl. (i), and “7297(e)” for “4097(e)” in cl. (ii).
 
+#### Effective Date of 1999 Amendment
+
+Amendment by section 1035(2) of Pub. L. 106–117 effective Nov. 30, 1999, with savings provision for incumbent chief judge, see section 1036 of Pub. L. 106–117, set out as a note under section 7253 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 
+#### Transitional Provisions To Stagger Terms of Judges
+
+Pub. L. 106–117, title X, §1002, Nov. 30, 1999, 113 Stat. 1588, provided that: “In this title \[see Short Title of 1999 Amendments note set out under section 101 of this title\], the term ‘Court’ means the United States Court of Appeals for Veterans Claims.”
+
+Pub. L. 106–117, title X, §§1011, 1012, Nov. 30, 1999, 113 Stat. 1588, 1590, provided that:
+
+#### “SEC. 1011. EARLY RETIREMENT AUTHORITY FOR CURRENT JUDGES.
+
+“(a)
+
+Retirement Authorized.—One eligible judge may retire in accordance with this section in 2000 or 2001, and one additional eligible judge may retire in accordance with this section in 2001.
+
+“(b)
+
+Eligible Judges.—For purposes of this section, an eligible judge is a judge of the Court (other than the chief judge) who—
+
+&emsp;“(1) has at least 10 years of service creditable under section 7296 of title 38, United States Code;
+
+&emsp;“(2) has made an election to receive retired pay under section 7296 of such title;
+
+&emsp;“(3) has at least 20 years of service described in section 7297(<i>l</i>) of such title; and
+
+&emsp;“(4) is at least 55 years of age.
+
+“(c)
+
+Multiple Eligible Judges.—If for any year specified in subsection (a) more than one eligible judge provides notice in accordance with subsection (d), the judge who has the greatest seniority as a judge of the Court shall be the judge who is eligible to retire in accordance with this section in that year.
+
+“(d)
+
+Notice.—An eligible judge who desires to retire in accordance with this section with respect to any year covered by subsection (a) shall provide to the President and the chief judge of the Court written notice to that effect and stating that the judge agrees to the temporary service requirements of subsection (j). Such notice shall be provided not later than April 1 of that year and shall specify the retirement date in accordance with subsection (e). Notice provided under this subsection shall be irrevocable.
+
+“(e)
+
+Date of Retirement.—A judge who is eligible to retire in accordance with this section shall be retired during the calendar year as to which notice is provided pursuant to subsection (d), but not earlier than 30 days after the date on which that notice is provided pursuant to subsection (d).
+
+“(f)
+
+Applicable Provisions.—Except as provided in subsections (g) and (j), a judge retired in accordance with this section shall be considered for all purposes to be retired under section 7296(b)(1) of title 38, United States Code.
+
+“(g)
+
+Applicability of Recall Status Authority.—The provisions of section 7257 of this title shall apply to a judge retired in accordance with this section as if the judge is a judge specified in subsection (a)(2)(A) of that section.
+
+“(h)
+
+Rate of Retired Pay.—The rate of retired pay for a judge retiring in accordance with this section is—
+
+&emsp;“(1) the rate applicable to that judge under section 7296(c)(1) of title 38, United States Code, multiplied by
+
+&emsp;“(2) the fraction (not in excess of 1) in which—
+
+&emsp;&emsp;“(A) the numerator is the number of years of service of the judge as a judge of the Court creditable under section 7296 of such title; and
+
+&emsp;&emsp;“(B) the denominator is 15.
+
+“(i)
+
+Adjustments in Retired Pay for Judges Available for Recall.—Subject to section 7296(f)(3)(B) of title 38, United States Code, an adjustment provided by law in annuities payable under civil service retirement laws shall apply to retired pay under this section in the case of a judge who is a recall-eligible retired judge under section 7257 of such title or who was a recall-eligible retired judge under that section and was removed from recall status under subsection (b)(4) of that section by reason of disability.
+
+“(j)
+
+Duty of Actuary.—\[Amended section 7298 of this title.\]
+
+“(k)
+
+Transitional Service of Judge Retired Under This Section.—(1) A judge who retires under this section shall continue to serve on the Court during the period beginning on the effective date of the judge's retirement under subsection (e) and ending on the earlier of—
+
+&emsp;“(A) the date on which a person is appointed to the position on the Court vacated by the judge's retirement; and
+
+&emsp;“(B) the date on which the judge's original appointment to the court would have expired.
+
+“(2) Subsections (f) and (g) of section 7253 of title 38, United States Code, shall apply with respect to the service of a judge on the Court under this section.
+
+“(3) Notwithstanding any other provision of law, a person whose service as a judge of the Court continues under this section shall be paid for the period of service under this subsection at the rate that is the difference between the current rate of pay for a judge of the Court and the rate of the judge's retired pay under subsection (g).
+
+“(4) Amounts paid under paragraph (3)—
+
+&emsp;“(A) shall not be treated as—
+
+&emsp;&emsp;“(i) compensation for employment with the United States for purposes of section 7296(e) of title 38, United States Code, or any provision of title 5, United States Code, relating to the receipt or forfeiture of retired pay or retirement annuities by a person accepting compensation for employment with the United States; or
+
+&emsp;&emsp;“(ii) pay for purposes of deductions or contributions for or on behalf of the person to retired pay under subchapter V of chapter 72 of title 38, United States Code, or under chapter 83 or 84 of title 5, United States Code, as applicable; but
+
+&emsp;“(B) may, at the election of the person, be treated as pay for purposes of deductions or contributions for or on behalf of the person to a retirement or other annuity, or both, under subchapter V of chapter 72 of title 38, United States Code, or under chapter 83 or 84 of title 5, United States Code, as applicable.
+
+“(5) Amounts paid under paragraph (3) shall be derived from amounts available for payment of salaries and benefits of judges of the Court.
+
+“(6) The service as a judge of the Court under this subsection of a person who makes an election provided for under paragraph (4)(B) shall constitute creditable service toward the judge's years of judicial service for purposes of section 7297 of title 38, United States Code, with such service creditable at a rate equal to the rate at which such service would be creditable for such purposes if served by a judge of the Court under chapter 72 of that title. For purposes of subsection (k)(3) of that section, the average annual pay for such service shall be the sum of the judge's retired pay and the amount paid under paragraph (3) of this subsection.
+
+“(7) In the case of such a person who makes an election provided for under paragraph (4)(B), upon the termination of the service of that person as a judge of the Court under this subsection, the retired pay of that person under subsection (g) shall be recomputed to reflect the additional period of service served under this subsection.
+
+“(<i>l</i>)
+
+Treatment of Political Party Membership.—For purposes of determining compliance with the last sentence of section 7253(b) of title 38, United States Code, the political party membership of a judge serving on the Court under subsection (j) shall not be taken into account.
+
+#### “SEC. 1012. MODIFIED TERMS FOR NEXT TWO JUDGES APPOINTED TO THE COURT.
+
+“(a)
+
+Modified Terms.—The term of office of the first two judges appointed to the Court after the date of the enactment of this Act \[Nov. 30, 1999\] shall be 13 years (rather than the period specified in section 7253(c) of title 38, United States Code).
+
+“(b)
+
+Eligibility for Retirement.—(1) For purposes of determining the eligibility to retire under section 7296 of title 38, United States Code, of the two judges of the Court whose term of office is determined under subsection (a)—
+
+&emsp;“(A) the age and service requirements in the table in paragraph (2) shall apply to those judges rather than the otherwise applicable age and service requirements specified in the table in subsection (b)(1) of that section; and
+
+&emsp;“(B) the minimum years of service applicable to those judges for eligibility to retire under the first sentence of subsection (b)(2) of that section shall be 13 years instead of 15 years.
+
+“(2) The age and service requirements in this paragraph are as follows:
+
+<b>“The judge has attained</b>
+
+<b>And the years of service</b>
+
+<b> age:</b>
+
+<b>as a judge are at least</b>
+
+&nbsp;&nbsp;65
+
+13&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;66
+
+13&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;67
+
+13&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;68
+
+12&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;69
+
+11&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;70
+
+10\.”&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Pub. L. 106–117, title X, §1032(b), Nov. 30, 1999, 113 Stat. 1595, provided that: “A person serving as a judge of the Court under section 1011 may not serve as chief judge of the Court.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7297, 7298 of this title; title 5 sections 8334, 8402, 8440d; title 28 sections 178, 377.
+This section is referred to in sections 7257, 7297, 7298, 7299 of this title; title 5 sections 8334, 8402, 8440d; title 28 sections 178, 377.
 

@@ -6,7 +6,7 @@ The Commission shall certify to the Secretary of the Treasury, in terms of Unite
 
 #### (b) Priority of payments
 
-(1) Upon certification of each award made pursuant to section 1645b of this title, the Secretaryof the Treasury shall, out of the sums covered into the Claims Fund, make payments on account of such awards as follows, and in the following order of priority:
+(1) Upon certification of each award made pursuant to section 1645b of this title, the Secretary of the Treasury shall, out of the sums covered into the Claims Fund, make payments on account of such awards as follows, and in the following order of priority:
 
 &emsp;(A) Payment in the amount of $2,500 or the principal amount of the award, whichever is less.
 

@@ -8,7 +8,7 @@ For purposes of this part, the critical capital level for the Corporation shall 
 
 1996—Pub. L. 104–105 amended section generally. Prior to amendment, section read as follows: “For purposes of this part, the critical capital level for the Corporation shall be an amount of core capital equal to the sum of—
 
-&emsp;“(1) 1.25 percent of the aggregate on-balance sheet assets of the Corporation (other than assets referredto in paragraph (3)), as determined in accordance with generally accepted accounting principles;
+&emsp;“(1) 1.25 percent of the aggregate on-balance sheet assets of the Corporation (other than assets referred to in paragraph (3)), as determined in accordance with generally accepted accounting principles;
 
 &emsp;“(2) 0.25 percent of the unpaid principal balance of outstanding securities guaranteed by the Corporation and backed by pools of qualified loans and substantially equivalent instruments issued or guaranteed by the Corporation, and other off-balance sheet obligations of the Corporation; and
 

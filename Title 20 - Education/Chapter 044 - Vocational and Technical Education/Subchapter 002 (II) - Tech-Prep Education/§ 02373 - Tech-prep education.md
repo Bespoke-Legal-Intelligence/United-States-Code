@@ -72,7 +72,7 @@ Each tech-prep program shall—
 
 &emsp;&emsp;(E) stay current with the needs, expectations, and methods of business and all aspects of an industry;
 
-&emsp;(6) provide equal access, to the full range of technical preparation programs, to individualswho are members of special populations, including the development of tech-prep program services appropriate to the needs of special populations; and
+&emsp;(6) provide equal access, to the full range of technical preparation programs, to individuals who are members of special populations, including the development of tech-prep program services appropriate to the needs of special populations; and
 
 &emsp;(7) provide for preparatory services that assist participants in tech-prep programs.
 

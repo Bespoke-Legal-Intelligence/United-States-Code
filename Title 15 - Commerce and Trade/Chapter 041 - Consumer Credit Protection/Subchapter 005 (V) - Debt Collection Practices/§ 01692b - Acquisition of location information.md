@@ -18,5 +18,5 @@ Any debt collector communicating with any person other than the consumer for the
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1692c, 1692d of this title.
+This section is referred to in sections 1692c, 1692d of this title; title 26 section 6304.
 

@@ -34,7 +34,7 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, §204(a)(3) (last sentence) (related to “
 
 Feb. 4, 1887, ch. 104, 24 Stat. 379, §204(a)(3a) (last sentence) (related to “Sec. 220(a) (less 1st, 2d sentences)”); added Aug. 3, 1956, ch. 905, §2, 70 Stat. 958.
 
-The section is included because 49:1655(f)(2) gave the same administrative powers exercised by the Interstate Commerce Commission under certain sections of title 49 to the Secretary of Transportation to carry out duties transferred to the Secretary by 49:1655(e). See the revision notes for section 501 of the revised title for an explanation of the transfer under 49:1655(f)(2). The powers of the Commission have been codified in subtitle IV of the revised title. The comparable provisions of title 49 that are represented by the section may be found as follows:
+The section is included because 49:1655(f)(2) gave the same administrative powers exercised by the Interstate Commerce Commission under certain sections of title 49 to the Secretary of Transportation to carry out duties transferred to the Secretary by 49:1655(e). See the revision notes for section 501 of the revised title for an explanation of the transfer under 49:1655(f)(2). The powers of the Commission have been codified in subtitle IVof the revised title. The comparable provisions of title 49 that are represented by the section may be found as follows:
 
 &nbsp;
 

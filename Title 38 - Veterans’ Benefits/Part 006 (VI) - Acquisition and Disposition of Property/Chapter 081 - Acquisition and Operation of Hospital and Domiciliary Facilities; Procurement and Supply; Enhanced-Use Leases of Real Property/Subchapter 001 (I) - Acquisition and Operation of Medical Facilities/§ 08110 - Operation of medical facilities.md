@@ -28,7 +28,29 @@
 
 &emsp;(2) identify those specific activities that have been contracted for performance by contractor employees during the prior fiscal year (shown by location, subject, scope of contracts, and savings) and shall describe the effect of such contracts on the quality of delivery of health services during such year.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 59, §5010; amended Pub. L. 96–151, title III, §301(a), Dec. 20, 1979, 93 Stat. 1095; Pub. L. 97–66, title VI, §601(b), Oct. 17, 1981, 95 Stat. 1033; Pub. L. 97–72, title I, §108, Nov. 3, 1981, 95 Stat. 1053; Pub. L. 97–306, title IV, §409(b), Oct. 14, 1982, 96 Stat. 1446; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; Pub. L. 98–160, title VII, §702(19), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–528, title I, §102, Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–576, title VII, §702(15), Oct. 28, 1986, 100 Stat. 3302; Pub. L. 100–322, title II, §222(a), title IV, §401(a), May 20, 1988, 102 Stat. 531, 543; renumbered §8110 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XI, §1103, title XII, §1201(b)(1), (d)(17), (g)(7), Nov. 2, 1994, 108 Stat. 4681, 4682, 4684, 4687; Pub. L. 104–66, title I, §1141(c), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title I, §101(e)(4), title III, §305, Oct. 9, 1996, 110 Stat. 3181, 3194.)
+(d) The Secretary may not in any fiscal year close more than 50 percent of the beds within a bed section (of 20 or more beds) of a Department medical center unless the Secretary first submits to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report providing a justification for the closure. No action to carry out such closure may be taken after the submission of such report until the end of the 21-day period beginning on the date of the submission of the report.
+
+(e) The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives, not later than January 20 of each year, a report documenting by network for the preceding fiscal year the following:
+
+&emsp;(1) The number of medical service and surgical service beds, respectively, that were closed during that fiscal year and, for each such closure, a description of the changes in delivery of services that allowed such closure to occur.
+
+&emsp;(2) The number of nursing home beds that were the subject of a mission change during that fiscal year and the nature of each such mission change.
+
+(f) For purposes of this section:
+
+&emsp;(1) The term “closure”, with respect to beds in a medical center, means ceasing to provide staffing for, and to operate, those beds. Such term includes converting the provision of such bed care from care in a Department facility to care under contract arrangements.
+
+&emsp;(2) The term “bed section”, with respect to a medical center, means psychiatric beds (including beds for treatment of substance abuse and post-traumatic stress disorder), intermediate, neurology, and rehabilitation medicine beds, extended care (other than nursing home) beds, and domiciliary beds.
+
+&emsp;(3) The term “justification”, with respect to closure of beds, means a written report that includes the following:
+
+&emsp;&emsp;(A) An explanation of the reasons for the determination that the closure is appropriate and advisable.
+
+&emsp;&emsp;(B) A description of the changes in the functions to be carried out and the means by which such care and services would continue to be provided to eligible veterans.
+
+&emsp;&emsp;(C) A description of the anticipated effects of the closure on veterans and on their access to care.
+
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 59, §5010; amended Pub. L. 96–151, title III, §301(a), Dec. 20, 1979, 93 Stat. 1095; Pub. L. 97–66, title VI, §601(b), Oct. 17, 1981, 95 Stat. 1033; Pub. L. 97–72, title I, §108, Nov. 3, 1981, 95 Stat. 1053; Pub. L. 97–306, title IV, §409(b), Oct. 14, 1982, 96 Stat. 1446; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; Pub. L. 98–160, title VII, §702(19), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–528, title I, §102, Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–576, title VII, §702(15), Oct. 28, 1986, 100 Stat. 3302; Pub. L. 100–322, title II, §222(a), title IV, §401(a), May 20, 1988, 102 Stat. 531, 543; renumbered §8110 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XI, §1103, title XII, §1201(b)(1), (d)(17), (g)(7), Nov. 2, 1994, 108 Stat. 4681, 4682, 4684, 4687; Pub. L. 104–66, title I, §1141(c), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title I, §101(e)(4), title III, §305, Oct. 9, 1996, 110 Stat. 3181, 3194; Pub. L. 106–117, title III, §301, Nov. 30, 1999, 113 Stat. 1571.)
 
 #### Prior Provisions
 
@@ -36,11 +58,13 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Amendments
 
+1999—Subsecs. (d) to (f). Pub. L. 106–117 added subsecs. (d) to (f).
+
 1996—Subsec. (a)(2). Pub. L. 104–262, §101(e)(4), substituted “section 1710(a)” for “section 1712”.
 
 Subsec. (c). Pub. L. 104–262, §305, amended subsec. (c) generally, substituting provisions consisting of an introductory par. and pars. (1) and (2), relating to reports on activities and proposals involving contracting for performance by contractor personnel of work previously performed by Department employees for provisions consisting of pars. (1) to (9), relating to conversion of activities at health-care facilities from those performed by Federal employees to those performed by Government contractors.
 
-1995—Subsec. (a)(4). Pub. L. 104–66 substituted “subparagraph (C)” for “subparagraph (D)” in subpars. (A) and (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “Whenever the Director of the Office of Management and Budget is required to submit a certification under subparagraph (B) of this paragraph, the Comptroller General shall submit to the appropriate committees of the Congress a report stating the Comptroller General's opinion as to whether the Director has complied with the requirements of that subparagraph. The Comptroller General shall submit the report not later than fifteen days after the end of the period specified in such subparagraph for the Director to submit the certification.”
+1995—Subsec. (a)(4). Pub. L. 104–66 substituted “subparagraph (C)” for “subparagraph (D)” in subpars. (A) and (B), redesignated subpar. (D) as (C), and struck outformer subpar. (C) which read as follows: “Whenever the Director of the Office of Management and Budget is required to submit a certification under subparagraph (B) of this paragraph, the Comptroller General shall submit to the appropriate committees of the Congress a report stating the Comptroller General's opinion as to whether the Director has complied with the requirements of that subparagraph. The Comptroller General shall submit the report not later than fifteen days after the end of the period specified in such subparagraph for the Director to submit the certification.”
 
 1994—Subsec. (a)(3)(B), (5), (6). Pub. L. 103–446, §1201(b)(1), substituted “Veterans Health Administration” for “Department of Medicine and Surgery” wherever appearing.
 

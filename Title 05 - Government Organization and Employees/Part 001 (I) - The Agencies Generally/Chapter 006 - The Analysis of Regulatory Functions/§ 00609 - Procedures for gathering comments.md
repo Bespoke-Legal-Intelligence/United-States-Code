@@ -26,7 +26,7 @@
 
 &emsp;(6) where appropriate, the agency shall modify the proposed rule, the initial regulatory flexibility analysis or the decision on whether an initial regulatory flexibility analysis is required.
 
-(c) An agency may in its discretion apply subsection (b) to rules that the agency intends tocertify under subsection 605(b), but the agency believes may have a greater than de minimis impact on a substantial number of small entities.
+(c) An agency may in its discretion apply subsection (b) to rules that the agency intends to certify under subsection 605(b), but the agency believes may have a greater than de minimis impact on a substantial number of small entities.
 
 (d) For purposes of this section, the term “covered agency” means the Environmental Protection Agency and the Occupational Safety and Health Administration of the Department of Labor.
 

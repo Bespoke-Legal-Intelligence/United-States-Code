@@ -78,7 +78,7 @@ Section was enacted as part of the Public Utility Regulatory Policies Act of 197
 
 #### Delegation of Functions
 
-Functions of President under this section, except for authority to declare, extend, and terminate a natural gas supply emergency pursuant to subsecs. (a) and (b) of this section, delegated to Secretary of Energy, see section 1–102 of Ex. Ord. No. 12235, Sept. 3, 1980, 45 F.R. 58803, set out as a note under section 3364 of this title.
+Functions of President under this section, except for authority to declare, extend, and terminate a naturalgas supply emergency pursuant to subsecs. (a) and (b) of this section, delegated to Secretary of Energy, see section 1–102 of Ex. Ord. No. 12235, Sept. 3, 1980, 45 F.R. 58803, set out as a note under section 3364 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -62,7 +62,7 @@ For eligible entities not using a cohort approach, the eligible entity shall tre
 
 &emsp;(1) to be counted under section 6333(c) of this title;
 
-&emsp;(2) for free or reduced price meals under the National School Lunch Act \[42 U.S.C. 1751 et seq.\]; or
+&emsp;(2) for free or reduced price meals under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\]; or
 
 &emsp;(3) for assistance pursuant to part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\].
 
@@ -70,17 +70,21 @@ For eligible entities not using a cohort approach, the eligible entity shall tre
 
 In the case of eligible entities described in section 1070a–21(c)(1) of this title, the activities required by this section may be provided by service providers such as community-based organizations, schools, institutions of higher education, public and private agencies, nonprofit and philanthropic organizations, businesses, institutions and agencies sponsoring programs authorized under subpart 4 of this part, and other organizations the State deems appropriate.
 
-(Pub. L. 89–329, title IV, §404D, as added Pub. L. 105–244, title IV, §403, Oct. 7, 1998, 112 Stat. 1659.)
+(Pub. L. 89–329, title IV, §404D, as added Pub. L. 105–244, title IV, §403, Oct. 7, 1998, 112 Stat. 1659; amended Pub. L. 106–78, title VII, §752(b)(8), Oct. 22, 1999, 113 Stat. 1169.)
 
 #### References in Text
 
-The National School Lunch Act, referred to in subsec. (c)(2), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (c)(2), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 The Social Security Act, referred to in subsec. (c)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
 A prior section 1070a–24, Pub. L. 89–329, title IV, §404D, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 495; amended Pub. L. 103–208, §2(b)(18), (19), Dec. 20, 1993, 107 Stat. 2459, related to scholarship component, prior to the general amendment of this division by Pub. L. 105–244. See section 1070a–25 of this title.
+
+#### Amendments
+
+1999—Subsec. (c)(2). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
 #### Section Referred to in Other Sections
 

@@ -46,7 +46,7 @@ A prior section 1397d, act Aug. 14, 1935, ch. 531, title XX, §2005, as added Ja
 
 1987—Subsec. (a)(9). Pub. L. 100–93 added par. (9).
 
-Subsec. (a)(9)(A), (B). Pub. L. 100–203, §4118(e)(13), as added by Pub. L. 100–360, §411(k)(10)(D), as amended by Pub. L. 100–485, §608(d)(26)(K)(ii), substituted “under this subchapter or subchapter V, XVIII, or XIX of this chapter pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title” for “pursuant to section 1320a–7 of this title or section 1320a–7a of this title from participation in the program under this subchapter”.
+Subsec. (a)(9)(A), (B). Pub. L. 100–203, §4118(e)(13), as added by Pub. L. 100–360, §411(k)(10)(D), as amended by Pub. L. 100–485, §608(d)(26)(K)(ii), substituted “under this subchapter or subchapter V, XVIII, or XIX of this chapter pursuant to section 1320a–7, 1320a–7a, 1320c–5, or1395u(j)(2) of this title” for “pursuant to section 1320a–7 of this title or section 1320a–7a of this title from participation in the program under this subchapter”.
 
 #### Effective Date of 1997 Amendment
 

@@ -132,7 +132,7 @@ Purposes.—The purposes of this Act are—
 
 &emsp;“(10) ‘Public interest’ means the compelling interest in the prompt public disclosure of assassination records for historical and governmental purposes and for the purpose of fully informing the American people about the history surrounding the assassination of President John F. Kennedy.
 
-&emsp;“(11) ‘Record’ includes a book, paper, map, photograph, sound or video recording, machine readablematerial, computerized, digitized, or electronic information, regardless of the medium on which it is stored, or other documentary material, regardless of its physical form or characteristics.
+&emsp;“(11) ‘Record’ includes a book, paper, map, photograph, sound or video recording, machine readable material, computerized, digitized, or electronic information, regardless of the medium on which it is stored, or other documentary material, regardless of its physical form or characteristics.
 
 &emsp;“(12) ‘Review Board’ means the Assassination Records Review Board established by section 7.
 

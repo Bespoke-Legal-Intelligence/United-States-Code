@@ -4,7 +4,7 @@
 
 (1) There is established in the Treasury of the United States a fund to be known as the “Customs Forfeiture Fund” (hereafter in this section referred to as the “Fund”), which shall be available to the United States Customs Service, subject to appropriation, with respect to seizures and forfeitures by the United States Customs Service and the United States Coast Guard under any law enforced or administered by those agencies for payment, or for reimbursement to the appropriation from which payment was made, for—
 
-&emsp;(A) all proper expenses of the seizure (including investigative costs incurred by the United States Customs Service leading to seizures) or the proceedings of forfeiture and sale, including, but not limited to, the expenses of inventory, security, and maintenance of custody of the property, advertisement and sale of theproperty, and if condemned by the court and a bond for such costs was not given, the costs as taxed by the court;
+&emsp;(A) all proper expenses of the seizure (including investigative costs incurred by the United States Customs Service leading to seizures) or the proceedings of forfeiture and sale, including, but not limited to, the expenses of inventory, security, and maintenance of custody of the property, advertisement and sale of the property, and if condemned by the court and a bond for such costs was not given, the costs as taxed by the court;
 
 &emsp;(B) awards of compensation to informers under section 1619 of this title;
 
@@ -166,7 +166,7 @@ Subsec. (f). Pub. L. 99–570, §3142(a)(2), amended subsec. (f) generally. Prio
 
 “(1) There are authorized to be appropriated from the fund for each of the four fiscal years beginning with fiscal year 1984, not more than $10,000,000.
 
-“(2) At the end of each of the first three of such four fiscal years, any amount in the fund in excess of $10,000,000 shall be deposited in the general fund of theTreasury. At the end of the last of such four fiscal years, any amount in the fund shall be deposited in the general fund of the Treasury, and the fund shall cease to exist.”
+“(2) At the end of each of the first three of such four fiscal years, any amount in the fund in excess of $10,000,000 shall be deposited in the general fund of the Treasury. At the end of the last of such four fiscal years, any amount in the fund shall be deposited in the general fund of the Treasury, and the fund shall cease to exist.”
 
 #### Effective Date of 1990 Amendment
 

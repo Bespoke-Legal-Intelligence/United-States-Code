@@ -12,7 +12,7 @@
 
 &emsp;(5) fail to comply with a final order issued by the Secretary under this chapter; or
 
-&emsp;(6) issue a certification pursuant to subsection (h) of section 5403 of this title, if such person in the exercise of due care has reason to know that such certification is false or misleading in a material respect.
+&emsp;(6) issue a certification pursuant to subsection (h) of section 5403 of this title, if such person in the exercise of due care has reasonto know that such certification is false or misleading in a material respect.
 
 (b)(1) Paragraph (1) of subsection (a) of this section shall not apply to the sale, the offer for sale, or the introduction or delivery for introduction in interstate commerce of any manufactured home after the first purchase of it in good faith for purposes other than resale.
 

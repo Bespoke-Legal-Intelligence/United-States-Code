@@ -16,7 +16,7 @@ The eligibility of each cotton producer organization to represent cotton produce
 
 &emsp;(g) The organization's ability and willingness to further the aims and objectives of this chapter:
 
-> <i>Provided, however</i>, That the primary consideration in determining the eligibility of an organization shall be whether its cotton farmer membership consists of a sufficiently large number of the cotton producers who produce a relatively significant volume of cotton to reasonably warrant its participation in the nomination of members for the Cotton Board. The Secretary shall certify any cotton producer organization which he finds to be eligible under this section, and his determination as to eligibility shall be final.
+> <i>Provided, however</i>, That the primary consideration in determining the eligibility of an organization shall be whether its cotton farmer membership consists of a sufficiently large number of the cotton producers who produce a relatively significant volume of cotton to reasonably warrant its participation in the nomination of members for the Cotton Board. The Secretary shall certify any cotton producer organizationwhich he finds to be eligible under this section, and his determination as to eligibility shall be final.
 
 (Pub. L. 89–502, §14, July 13, 1966, 80 Stat. 284.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Containers, packing and transportation charges.
 
-In determining, for the purposes of this chapter, the price for which an article is sold, thereshall be included any charge for coverings and containers of whatever nature, and any charge incident to placing the article in condition packed ready for shipment, but there shall be excluded the amount of tax imposed by this chapter, whether or not stated as a separate charge. A transportation, delivery, insurance, installation, or other charge (not required by the foregoing sentence to be included) shall be excluded from the price only if the amount thereof is established to the satisfaction of the Secretary in accordance with the regulations.
+In determining, for the purposes of this chapter, the price for which an article is sold, there shall be included any charge for coverings and containers of whatever nature, and any charge incident to placing the article in condition packed ready for shipment, but there shall be excluded the amount of tax imposed by this chapter, whether or not stated as a separate charge. A transportation, delivery, insurance, installation, or other charge (not required by the foregoing sentence to be included) shall be excluded from the price only if the amount thereof is established to the satisfaction of the Secretary in accordance with the regulations.
 
 #### (b) Constructive sale price
 
@@ -80,7 +80,7 @@ If installment accounts, with respect to payments on which tax is being computed
 
 &emsp;(1) there shall be paid an amount equal to the difference between (A) the tax previously paid on the payments on such installment accounts, and (B) the total tax which would be payable if such installment accounts had not been sold or otherwise disposed of (computed as provided in subsection (c)); except that
 
-&emsp;(2) if any such sale is pursuant to the order of, or subject to the approval of, a court of competent jurisdiction in a bankruptcy or insolvency proceeding, the amount computed under paragraph (1) shall not exceed the sum of the amounts computed by multiplying (A) the proportionate share of the amount for which such accounts are sold which is allocable to each unpaid installment payment by (B) the rate of tax under this chapter in effect on the date such unpaid installment payment is or was due.
+&emsp;(2) if any such sale is pursuant to the order of, or subject to the approval of, a court of competent jurisdiction in a bankruptcy or insolvency proceeding, the amount computed under paragraph (1) shall not exceed the sum of the amounts computed by multiplying (A) the proportionate share of the amount for which such accounts are sold which is allocable to each unpaid installment payment by (B)the rate of tax under this chapter in effect on the date such unpaid installment payment is or was due.
 
 > The sum of the amounts payable under this subsection and subsection (c) in respect of the sale of any article shall not exceed the total tax.
 
@@ -224,7 +224,7 @@ Section 2(b) of Pub. L. 87–770 provided that: “The amendment made by subsect
 
 #### Effective Date of 1960 Amendment
 
-Section 3 of Pub. L. 86–781 provided that: “The amendments made by this Act \[amending this section and section 6416 of this title\] shall apply with respect to articles sold on or after the first day of the first calendar quarter beginning more than twenty days after the date of the enactment of this Act \[Sept. 14, 1960\].”
+Section 3 of Pub. L. 86–781 provided that: “The amendments made by this Act \[amending this sectionand section 6416 of this title\] shall apply with respect to articles sold on or after the first day of the first calendar quarter beginning more than twenty days after the date of the enactment of this Act \[Sept. 14, 1960\].”
 
 #### Effective Date of 1958 Amendment
 

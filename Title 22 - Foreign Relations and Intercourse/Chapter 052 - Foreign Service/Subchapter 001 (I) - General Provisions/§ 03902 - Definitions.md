@@ -38,7 +38,7 @@ Section 552(e) of title 5, referred to in par. (2), was redesignated section 552
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2391, 3982, 4341 of this title; title 5 section 6301.
+This section is referred to in sections 2391, 3982, 4341 of this title; title 5 section 6301; title 50 section 404j.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -26,9 +26,13 @@ Historical and Revision Notes
 
 36:1152.
 
+&nbsp;
+
 170101(b)
 
 36:1154 (related to perpetual succession).
+
+&nbsp;
 
 Subsection (a) is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary language.
 

@@ -10,7 +10,7 @@ It is declared to be the policy of Congress, as a measure of national security, 
 
 #### Effective Date of 1989 Amendment
 
-Section 2 of Pub. L. 101–147 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\].”
+Section 2 of Pub. L. 101–147 provided that: “Except as otherwise provided in this Act, the amendments madeby this Act \[see Short Title of 1989 Amendment note below\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\].”
 
 #### Short Title of 1998 Amendment
 
@@ -48,7 +48,7 @@ Pub. L. 95–166, §1, Nov. 10, 1977, 91 Stat. 1325, provided: “That this Act 
 
 #### Short Title of 1975 Amendment
 
-Pub. L. 94–105, §1, Oct. 7, 1975, 89 Stat. 511, provided: “That this Act \[enacting sections 1765, 1766, 1767, 1768,and 1787 of this title, amending sections 1752, 1755, 1756, 1758, 1759, 1759a, 1760, 1761, 1762a, 1772, 1773, 1774, 1784, and 1786 of this title, repealing section 1764 of this title, and enacting provisions set out as notes under sections 1758, 1760, 1761, and 1786 of this title\] may be cited as the ‘National School Lunch Act and Child Nutrition Act of 1966 Amendments of 1975’.”
+Pub. L. 94–105, §1, Oct. 7, 1975, 89 Stat. 511, provided: “That this Act \[enacting sections 1765, 1766, 1767, 1768, and 1787 of this title, amending sections 1752, 1755, 1756, 1758, 1759, 1759a, 1760, 1761, 1762a, 1772, 1773, 1774, 1784, and 1786 of this title, repealing section 1764 of this title, and enacting provisions set out as notes under sections 1758, 1760, 1761, and 1786 of this title\] may be cited as the ‘National School Lunch Act and Child Nutrition Act of 1966 Amendments of 1975’.”
 
 #### Short Title of 1974 Amendment
 
@@ -60,11 +60,11 @@ Pub. L. 93–150, §1, Nov. 7, 1973, 87 Stat. 560, provided: “That this Act \[
 
 #### Short Title
 
-Section 1 of act June 4, 1946, provided: “That this Act \[enacting this chapter\] may be cited as the ‘National School Lunch Act’.”
+Section 1 of act June 4, 1946, as amended by Pub. L. 106–78, title VII, §752(a), Oct. 22, 1999, 113 Stat. 1169, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Richard B. Russell National School Lunch Act’.”
 
 #### Coordination of School Lunch, School Breakfast, and Summer Food Service Programs
 
-Pub. L. 104–193, title VII, §741, Aug. 22, 1996, 110 Stat. 2307, provided that:
+Pub. L. 104–193, title VII, §741, Aug. 22, 1996, 110 Stat. 2307, as amended by Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169, provided that:
 
 “(a)
 
@@ -72,11 +72,11 @@ Coordination.—
 
 &emsp;“(1)
 
-In general.—The Secretary of Agriculture shall develop proposed changes to the regulations under the school lunch program under the National School Lunch Act (42 U.S.C. 1751 et seq.), the summer food service program under section 13 of that Act (42 U.S.C. 1761), and the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773), for the purpose of simplifying and coordinating those programs into a comprehensive meal program.
+In general.—The Secretary of Agriculture shall develop proposed changes to the regulations under the school lunch program under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.), the summer food service program under section 13 of that Act (42 U.S.C. 1761), and the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773), for the purpose of simplifying and coordinating those programs into a comprehensive meal program.
 
 &emsp;“(2)
 
-Consultation.—In developing proposed changes to the regulations under paragraph (1), the Secretary of Agriculture shall consult with local, State, and regional administrators of the programs described in such paragraph.
+Consultation.—In developing proposed changes to the regulations under paragraph (1), theSecretary of Agriculture shall consult with local, State, and regional administrators of the programs described in such paragraph.
 
 “(b)
 
@@ -84,7 +84,7 @@ Report.—Not later than November 1, 1997, the Secretary of Agriculture shall su
 
 #### Supplemental Nutrition Programs; Congressional Statement of Findings
 
-Pub. L. 103–448, §2, Nov. 2, 1994, 108 Stat. 4700, provided that: “Congress finds that—
+Pub. L. 103–448, §2, Nov. 2, 1994, 108 Stat. 4700, as amended by Pub. L. 106–78, title VII, §752(b)(15), Oct. 22, 1999, 113 Stat. 1170, provided that: “Congress finds that—
 
 &emsp;“(1) undernutrition can permanently retard physical growth, brain development, and cognitive functioning of children;
 
@@ -92,7 +92,7 @@ Pub. L. 103–448, §2, Nov. 2, 1994, 108 Stat. 4700, provided that: “Congress
 
 &emsp;“(3) low-income children who attend school hungry score significantly lower on standardized tests than non-hungry low-income children; and
 
-&emsp;“(4) supplemental nutrition programs under the National School Lunch Act (42 U.S.C. 1751 et seq.) and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) can help to offset threats posed to a child's capacity to learn and perform in school that result from inadequate nutrient intake.”
+&emsp;“(4) supplemental nutrition programs under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) can help to offset threats posed to a child's capacity to learn and perform in school that result from inadequate nutrient intake.”
 
 #### Study of Adulteration of Juice Products Sold to School Meal Programs
 
@@ -100,21 +100,21 @@ Pub. L. 103–448, title I, §125, Nov. 2, 1994, 108 Stat. 4734, directed Comptr
 
 #### Consolidation of School Lunch Program and School Breakfast Program Into Comprehensive Meal Program
 
-Pub. L. 103–448, title III, §301, Nov. 2, 1994, 108 Stat. 4749, provided that:
+Pub. L. 103–448, title III, §301, Nov. 2, 1994, 108 Stat. 4749, as amended by Pub. L. 106–78, title VII, §752(b)(15), Oct. 22, 1999, 113 Stat. 1170, provided that:
 
 “(a)
 
-In General.—Notwithstanding any provision of \[the\] National School Lunch Act (42 U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), except as otherwise provided in this section, the Secretary of Agriculture shall, not later than 18 months after the date of enactment of this Act \[Nov. 2, 1994\], develop and implement regulations to consolidate the school lunch program under the National School Lunch Act (42 U.S.C. 1751 et seq.) and the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) into a comprehensive meal program.
+In General.—Notwithstanding any provision of \[the\] Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), except as otherwise provided in this section, the Secretary of Agriculture shall, not later than 18 months after the date of enactment of this Act \[Nov. 2, 1994\], develop and implement regulations to consolidate the school lunch program under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) and the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) into a comprehensive meal program.
 
 “(b)
 
 Requirements.—In establishing the comprehensive meal program under subsection (a), the Secretary shall meet the following requirements:
 
-&emsp;“(1) The Secretary shall ensure that the program continues to serve children who are eligible for free and reduced price meals. The meals shall meet the nutritional requirements of section 9(a)(1) of the National School Lunch Act (42 U.S.C. 1758(a)(1)) and section 4(e)(1) of the Child Nutrition Act of 1966 (42 U.S.C. 1773(e)(1)).
+&emsp;“(1) The Secretary shall ensure that the program continues to serve children who are eligible for free and reduced price meals. The meals shall meet the nutritional requirements of section 9(a)(1) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1758(a)(1)) and section 4(e)(1) of the Child Nutrition Act of 1966 (42 U.S.C. 1773(e)(1)).
 
-&emsp;“(2) The Secretary shall continue to make breakfast assistance payments in accordance with section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) and food assistance payments in accordance with the National School Lunch Act (42 U.S.C. 1751 et seq.).
+&emsp;“(2) The Secretary shall continue to make breakfast assistance payments in accordance with section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) and food assistance payments in accordance with the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
 
-&emsp;“(3) The Secretary may not consolidate any aspect of the school lunch program or the school breakfast program with respect to any matter described in any of subparagraphs (A) through (N) of section 12(<i>l</i>)(4) of the National School Lunch Act (42 U.S.C. 1760(<i>l</i>)(4)).
+&emsp;“(3) The Secretary may not consolidate any aspect of the school lunch program or the school breakfast program with respect to any matter described in any of subparagraphs (A) through (N) of section 12(<i>l</i>)(4) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(<i>l</i>)(4)).
 
 “(c)
 

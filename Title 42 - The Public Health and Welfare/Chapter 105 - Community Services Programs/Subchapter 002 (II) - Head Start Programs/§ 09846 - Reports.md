@@ -62,7 +62,7 @@ The Social Security Act, referred to in subsec. (a)(8), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-1998—Pub. L. 105–285 designated existing provisions as subsec. (a), inserted heading, substituted “Education and the Workforce” for “Education and Labor” in introductory and concluding provisions, and added subsec. (b).
+1998—Pub. L. 105–285 designated existing provisions as subsec. (a), inserted heading, substituted “Educationand the Workforce” for “Education and Labor” in introductory and concluding provisions, and added subsec. (b).
 
 1994—Pub. L. 103–252, §118(a)(1), substituted “Reports” for “Evaluation” in section catchline.
 

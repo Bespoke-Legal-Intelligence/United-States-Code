@@ -44,7 +44,7 @@ Subsecs. (b), (c). Pub. L. 96–39, §807(a)(2)(A), (B), redesignated subsec. (c
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–223 effective on the first day of the first calendar month beginning more than 60 days after Apr. 2, 1980, see section 232(h)(3) of Pub. L. 96–223, set out as an Effective Date note under section 5181 of this title.
+Amendment by Pub. L. 96–223 effective on the first day of the first calendar month beginning more than 60days after Apr. 2, 1980, see section 232(h)(3) of Pub. L. 96–223, set out as an Effective Date note under section 5181 of this title.
 
 #### Effective Date of 1979 Amendment
 

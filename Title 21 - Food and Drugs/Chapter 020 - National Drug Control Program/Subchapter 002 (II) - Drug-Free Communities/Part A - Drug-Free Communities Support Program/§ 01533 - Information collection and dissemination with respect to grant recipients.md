@@ -12,7 +12,7 @@
 
 #### (2) Application process
 
-&emsp;The Administrator shall issue a request for proposal regarding, with respect to the grants awarded under section 1532 of this title, the application process, grant renewal, and suspension or withholding of renewal grants. Each application under this paragraph shall be in writing and shall be subject to review by the Administrator.
+&emsp;The Administrator shall issue a request for proposal regarding, with respect to the grants awarded under section 1532 of this title, the application process, grant renewal, and suspension or withholding of renewal grants. Each application under this paragraph shall bein writing and shall be subject to review by the Administrator.
 
 #### (3) Reporting
 

@@ -22,7 +22,7 @@ The Congress makes the following findings and declarations:
 
 &emsp;(5) Support for democratization is a fundamental principle of United States foreign policy. As such, it naturally applies to United States policy toward Hong Kong. This will remain equally true after June 30, 1997.
 
-&emsp;(6) The human rights of the people of Hong Kong are of great importance to the United States and are directly relevant to United States interests in Hong Kong. A fully successful transition in the exercise of sovereignty over Hong Kong must safeguard human rights in and of themselves. Human rights also serve as a basis for Hong Kong's continued economic prosperity.
+&emsp;(6) The human rights of the people of Hong Kong are of great importance to the UnitedStates and are directly relevant to United States interests in Hong Kong. A fully successful transition in the exercise of sovereignty over Hong Kong must safeguard human rights in and of themselves. Human rights also serve as a basis for Hong Kong's continued economic prosperity.
 
 (Pub. L. 102–383, §2, Oct. 5, 1992, 106 Stat. 1448.)
 

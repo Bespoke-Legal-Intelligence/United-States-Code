@@ -20,7 +20,7 @@
 
 (B) The Trade Representative shall, before making any determination under subparagraph (A), consult with appropriate committees established pursuant to section 2155 of this title.
 
-(2)(A) By no later than the date that is 30 days after the date on which a country is identified under section 2242(a)(2) of this title, the TradeRepresentative shall initiate an investigation under this subchapter with respect to any act, policy, or practice of that country that—
+(2)(A) By no later than the date that is 30 days after the date on which a country is identified under section 2242(a)(2) of this title, the Trade Representative shall initiate an investigation under this subchapter with respect to any act, policy, or practice of that country that—
 
 &emsp;(i) was the basis for such identification, and
 
@@ -34,13 +34,13 @@
 
 &emsp;(ii) the United States economic interests that would be adversely affected by the investigation.
 
-(D) The Trade Representative shall, from time to time, consult with the Register of Copyrights, the Commissioner of Patents and Trademarks, and other appropriate officers of the Federal Government, during any investigation initiated under this subchapter by reason of subparagraph (A).
+(D) The Trade Representative shall, from time to time, consult with the Register of Copyrights, the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, and other appropriate officers of the Federal Government, during any investigation initiated under this subchapter by reason of subparagraph (A).
 
 #### (c) Discretion
 
 In determining whether to initiate an investigation under subsection (a) or (b) of this section of any act, policy, or practice that is enumerated in any provision of section 2411(d) of this title, the Trade Representative shall have discretion to determine whether action under section 2411 of this title would be effective in addressing such act, policy, or practice.
 
-(Pub. L. 93–618, title III, §302, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 296; amended Pub. L. 98–573, title III, §304(d)(1), Oct. 30, 1984, 98 Stat. 3003; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1168.)
+(Pub. L. 93–618, title III, §302, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 296; amended Pub. L. 98–573, title III, §304(d)(1), Oct. 30, 1984, 98 Stat. 3003; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1168; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(9)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584.)
 
 #### Prior Provisions
 
@@ -48,9 +48,15 @@ A prior section 302 of Pub. L. 93–618, title III, Jan. 3, 1975, 88 Stat. 2043,
 
 #### Amendments
 
+1999—Subsec. (b)(2)(D). Pub. L. 106–113 substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents and Trademarks”.
+
 1988—Pub. L. 100–418 amended section generally, substituting provisions relating to initiating investigations with or without petitions and discretion of Trade Representative for provisions relating to filing and determinations on petitions for investigations and investigations initiated by Trade Representative.
 
 1984—Pub. L. 98–573 amended section generally, substituting “United States Trade Representative” and “Trade Representative” for “Special Representative for Trade Negotiations” and “Special Representative”, respectively, substituting “the reasons” for “his reasons” in subsec. (b)(1), substituting “a summary” for “the text” in subsec. (b)(2), striking out the comma after “petitioner)” in subsec. (b)(2)(A), and inserting “or by any interested person” after “petitioner” in subsec. (b)(2)(B).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1988 Amendment
 

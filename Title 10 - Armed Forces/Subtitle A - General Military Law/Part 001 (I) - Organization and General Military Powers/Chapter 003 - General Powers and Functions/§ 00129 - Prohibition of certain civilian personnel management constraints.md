@@ -1,6 +1,6 @@
 ### §129. Prohibition of certain civilian personnel management constraints
 
-(a) The civilian personnel of the Department of Defense shall be managed each fiscal year solely on the basis of and consistent with (1) the workload required to carry out the functions and activities of the department and (2) the funds made available to the department for such fiscal year. The management of such personnel in any fiscal year shall not be subject to any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees. The Secretary of Defense and the Secretaries of the military departments may not be required to make a reduction in the number of full-time equivalent positions in the Department of Defense unless such reduction is necessary due to a reduction in funds available to the Department or is required under a law that is enacted after February 10, 1996, and that refers specifically to this subsection.
+(a) The civilian personnel of the Department of Defense shall be managed each fiscal year solely on the basis of and consistent with (1) the workload required to carry out the functions and activities of the department and (2) the funds made available to the department for such fiscal year. The management of such personnelin any fiscal year shall not be subject to any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees. The Secretary of Defense and the Secretaries of the military departments may not be required to make a reduction in the number of full-time equivalent positions in the Department of Defense unless such reduction is necessary due to a reduction in funds available to the Department or is required under a law that is enacted after February 10, 1996, and that refers specifically to this subsection.
 
 (b) The number of, and the amount of funds available to be paid to, indirectly funded Government employees of the Department of Defense may not be—
 
@@ -20,7 +20,7 @@
 
 (e) Subsections (a), (b), and (c) apply to the Major Range and Test Facility Base (MRTFB) at the installation level. With respect to the MRTFB structure, the term “funds made available” includes both direct appropriated funds and funds provided by MRTFB customers.
 
-(f)(1) Not later than February 1 of each year, the Secretary of each military department and the head of each Defense Agency shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the management of the civilian workforce under the jurisdiction of that official.
+(f)(1) Not later than February 1 of each year, the Secretary of each military department and the head of each Defense Agency shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the management of the civilian workforce under the jurisdiction of that official.
 
 (2) Each report of an official under paragraph (1) shall contain the following:
 
@@ -30,9 +30,11 @@
 
 &emsp;(C) A detailed description of the analytical tools used to determine civilian workforce requirements during the 12-month period referred to in subparagraph (A).
 
-(Added Pub. L. 97–86, title IX, §904(a), Dec. 1, 1981, 95 Stat. 1114, §140b; renumbered §129, Pub. L. 99–433, title I, §101(a)(3), Oct. 1, 1986, 100 Stat. 994; amended Pub. L. 99–661, div. A, title V, §533, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 102–190, div. A, title III, §312(b), Dec. 5, 1991, 105 Stat. 1335; Pub. L. 104–106, div. A, title X, §1031, Feb. 10, 1996, 110 Stat. 428; Pub. L. 104–201, div. A, title X, §1074(a)(1), title XVI, §1603, Sept. 23, 1996, 110 Stat. 2658, 2735; Pub. L. 105–85, div. A, title XI, §1101, Nov. 18, 1997, 111 Stat. 1922.)
+(Added Pub. L. 97–86, title IX, §904(a), Dec. 1, 1981, 95 Stat. 1114, §140b; renumbered §129, Pub. L. 99–433, title I, §101(a)(3), Oct. 1, 1986, 100 Stat. 994; amended Pub. L. 99–661, div. A, title V, §533, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 102–190, div. A, title III, §312(b), Dec. 5, 1991, 105 Stat. 1335; Pub. L. 104–106, div. A, title X, §1031, Feb. 10, 1996, 110 Stat. 428; Pub. L. 104–201, div. A, title X, §1074(a)(1), title XVI, §1603, Sept. 23, 1996, 110 Stat. 2658, 2735; Pub. L. 105–85, div. A, title XI, §1101, Nov. 18, 1997, 111 Stat. 1922; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Amendments
+
+1999—Subsec. (f)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 1997—Subsec. (f). Pub. L. 105–85 added subsec. (f).
 
@@ -53,10 +55,6 @@ Subsec. (e). Pub. L. 104–201, §1603(2), added subsec. (e).
 1986—Pub. L. 99–661 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 Pub. L. 99–433 renumbered section 140b of this title as this section.
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Section Referred to in Other Sections
 

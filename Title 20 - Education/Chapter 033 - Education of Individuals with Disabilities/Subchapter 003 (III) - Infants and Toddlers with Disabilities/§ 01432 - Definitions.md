@@ -114,5 +114,5 @@ A prior section 1432, Pub. L. 91–230, title VI, §632, Apr. 13, 1970, 84 Stat.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1401, 1418 of this title.
+This section is referred to in sections 1401, 1418 of this title; title 42 section 9832.
 

@@ -70,7 +70,7 @@ Another prior section 1062, Pub. L. 89–329, title IV, §402, Nov. 8, 1965, 79 
 
 1998—Subsecs. (b), (c). Pub. L. 105–244, §304(a)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-Subsec. (c)(3). Pub. L. 105–244, §304(a)(3), struck out par. (3) which read as follows: “The Secretary shall notaward a grant under this part for telecommunications technology equipment, facilities or services, if such equipment, facilities or services are available pursuant to section 396(k) of title 47.”
+Subsec. (c)(3). Pub. L. 105–244, §304(a)(3), struck out par. (3) which read as follows: “The Secretary shall not award a grant under this part for telecommunications technology equipment, facilities or services, if such equipment, facilities or services are available pursuant to section 396(k) of title 47.”
 
 1993—Subsec. (b)(3). Pub. L. 103–208 realigned margin.
 

@@ -4,7 +4,7 @@
 
 (2) Each such report shall set forth—
 
-&emsp;(A) the total amount requested for special access programs of the Department of Defense in the President's budget for the next fiscal year submitted under section 1105 of title 31; and
+&emsp;(A) the total amount requested for special access programs of the Department of Defensein the President's budget for the next fiscal year submitted under section 1105 of title 31; and
 
 &emsp;(B) for each program in that budget that is a special access program—
 
@@ -36,7 +36,7 @@
 
 (3) In this subsection, the term “new special access program” means a special access program that has not previously been covered in a notice and justification under this subsection.
 
-(c)(1) Whenever a change in the classification of a special access program of the Department of Defense is planned to be made or whenever classified information concerning a special access program of the Department of Defense is to be declassified and made public, the Secretary of Defense shall submit to the defense committeesa report containing a description of the proposed change, the reasons for the proposed change, and notice of any public announcement planned to be made with respect to the proposed change.
+(c)(1) Whenever a change in the classification of a special access program of the Department of Defense is planned to be made or whenever classified information concerning a special access program of the Department of Defense is to be declassified and made public, the Secretary of Defense shall submit to the defense committees a report containing a description of the proposed change, the reasons for the proposed change, and notice of any public announcement planned to be made with respect to the proposed change.
 
 (2) Except as provided in paragraph (3), any report referred to in paragraph (1) shall be submitted not less than 14 days before the date on which the proposed change or public announcement is to occur.
 
@@ -58,11 +58,13 @@
 
 &emsp;(1) the Committee on Armed Services and the Committee on Appropriations, and the Defense Subcommittee of the Committee on Appropriations, of the Senate; and
 
-&emsp;(2) the Committee on National Security and the Committee on Appropriations, and the National Security Subcommittee of the Committee on Appropriations, of the House of Representatives.
+&emsp;(2) the Committee on Armed Services and the Committee on Appropriations, and the National Security Subcommittee of the Committee on Appropriations, of the House of Representatives.
 
-(Added Pub. L. 100–180, div. A, title XI, §1132(a)(1), Dec. 4, 1987, 101 Stat. 1151; amended Pub. L. 101–510, div. A, title XIV, §§1461, 1482(a), Nov. 5, 1990, 104 Stat. 1698, 1709; Pub. L. 104–106, div. A, title X, §1055, title XV, §1502(a)(4), Feb. 10, 1996, 110 Stat. 442, 502.)
+(Added Pub. L. 100–180, div. A, title XI, §1132(a)(1), Dec. 4, 1987, 101 Stat. 1151; amended Pub. L. 101–510, div. A, title XIV, §§1461, 1482(a), Nov. 5, 1990, 104 Stat. 1698, 1709; Pub. L. 104–106, div. A, title X, §1055, title XV, §1502(a)(4), Feb. 10, 1996, 110 Stat. 442, 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Amendments
+
+1999—Subsec. (g)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
 1996—Subsec. (a)(1). Pub. L. 104–106, §1055, substituted “March 1” for “February 1”.
 
@@ -79,10 +81,6 @@ Subsec. (f). Pub. L. 101–510, §1482(a)(2), added subsec. (f). Former subsec. 
 Pub. L. 101–510, §1461(b), inserted “and Appropriations” after “Armed Services” in par. (1).
 
 Subsec. (g). Pub. L. 101–510, §1482(a)(1), redesignated subsec. (f) as (g).
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1990 Amendment
 

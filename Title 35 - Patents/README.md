@@ -1,5 +1,5 @@
 
-35 U.S.C.<br>United States Code, 1998 Edition<br>Title 35 - PATENTS<br>From the U.S. Government Publishing Office, www.gpo.gov
+35 U.S.C.<br>United States Code, 1999 Edition<br>Title 35 - PATENTS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 35—PATENTS
 
@@ -7,7 +7,7 @@
 
 | Part |  | Sec. |
 | :--- | :---: | ---: |
-| [<b>I.</b>](Part%20001%20%28I%29%20-%20Patent%20and%20Trademark%20Office/README.md) | <b>Patent and Trademark Office</b> | <b>1</b> |
+| [<b>I.</b>](Part%20001%20%28I%29%20-%20United%20States%20Patent%20and%20Trademark%20Office/README.md) | <b>United States Patent and Trademark Office</b> | <b>1</b> |
 | [<b>II.</b>](Part%20002%20%28II%29%20-%20Patentability%20of%20Inventions%20and%20Grant%20of%20Patents/README.md) | <b>Patentability of Inventions and Grant of Patents</b> | <b>100</b> |
 | [<b>III.</b>](Part%20003%20%28III%29%20-%20Patents%20and%20Protection%20of%20Patent%20Rights/README.md) | <b>Patents and Protection of Patent Rights</b> | <b>251</b> |
 | [<b>IV.</b>](Part%20004%20%28IV%29%20-%20Patent%20Cooperation%20Treaty/README.md) | <b>Patent Cooperation Treaty</b> | <b>351</b> |
@@ -15,6 +15,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–581, substituted “United States Patent and Trademark Office” for “Patent and Trademark Office” in item I.
 
 1984—Pub. L. 98–622, title IV, §403(b), Nov. 8, 1984, 98 Stat. 3392, added item IV.
 
@@ -417,7 +419,7 @@ This title is referred to in title 11 section 101; title 15 sections 278n, 3703;
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Part 001 (I) - Patent and Trademark Office](Part%20001%20%28I%29%20-%20Patent%20and%20Trademark%20Office/README.md)
+- [Part 001 (I) - United States Patent and Trademark Office](Part%20001%20%28I%29%20-%20United%20States%20Patent%20and%20Trademark%20Office/README.md)
 - [Part 002 (II) - Patentability of Inventions and Grant of Patents](Part%20002%20%28II%29%20-%20Patentability%20of%20Inventions%20and%20Grant%20of%20Patents/README.md)
 - [Part 003 (III) - Patents and Protection of Patent Rights](Part%20003%20%28III%29%20-%20Patents%20and%20Protection%20of%20Patent%20Rights/README.md)
 - [Part 004 (IV) - Patent Cooperation Treaty](Part%20004%20%28IV%29%20-%20Patent%20Cooperation%20Treaty/README.md)

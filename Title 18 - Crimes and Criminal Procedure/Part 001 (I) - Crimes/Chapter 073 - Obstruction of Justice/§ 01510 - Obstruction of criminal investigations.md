@@ -34,7 +34,7 @@
 
 (2) As used in paragraph (1), the term “subpoena for records” means a Federal grand jury subpoena for records that has been served relating to a violation of, or a conspiracy to violate, section 1033 of this title.
 
-(Added Pub. L. 90–123, §1(a), Nov. 3, 1967, 81 Stat. 362; amended Pub. L. 97–291, §4(e), Oct. 12, 1982, 96 Stat. 1253; Pub. L. 101–73, title IX, §962(c), Aug. 9, 1989, 103 Stat. 502; Pub. L. 102–550, title XV, §1528, Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–322, title XXXII, §320604(c), title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2119, 2147; Pub. L. 104–191, title II, §248(c), Aug. 21, 1996, 110 Stat. 2020.)
+(Added Pub. L. 90–123, §1(a), Nov. 3, 1967, 81 Stat. 362; amended Pub. L. 97–291, §4(e), Oct. 12, 1982, 96 Stat. 1253; Pub. L. 101–73, title IX, §962(c), Aug. 9, 1989, 103 Stat. 502; Pub. L. 102–550, title XV, §1528, Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–322, title XXXII, §320604(c), title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2119, 2147;Pub. L. 104–191, title II, §248(c), Aug. 21, 1996, 110 Stat. 2020.)
 
 #### Amendments
 

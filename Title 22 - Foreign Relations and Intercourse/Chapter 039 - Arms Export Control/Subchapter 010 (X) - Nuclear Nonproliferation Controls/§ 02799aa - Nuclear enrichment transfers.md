@@ -6,7 +6,7 @@ Except as provided in subsection (b) of this section, no funds made available to
 
 &emsp;(1) the supplying country and receiving country have reached agreement to place all such equipment, materials, or technology, upon delivery, under multilateral auspices and management when available; and
 
-&emsp;(2) the recipient country has entered into an agreement with the International Atomic Energy Agency to place all such equipment, materials, technology, and all nuclear fuel andfacilities in such country under the safeguards system of such Agency.
+&emsp;(2) the recipient country has entered into an agreement with the International Atomic Energy Agency to place all such equipment, materials, technology, and all nuclear fuel and facilities in such country under the safeguards system of such Agency.
 
 #### (b) Certification by President of necessity of continued assistance; disapproval by Congress
 
@@ -37,6 +37,10 @@ Section 826(c) of Pub. L. 103–236 provided that: “Any reference in law as of
 #### Effective Date
 
 Subchapter effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as a note under section 6301 of this title.
+
+#### Waiver of Sanctions
+
+Sanctions contained in this section waived in certain regards with respect to India and Pakistan by Determination of President of the United States, No. 00–4, Oct. 27, 1999, 64 F.R. 60649, set out as a note under section 2799aa–1 of this title.
 
 #### Section Referred to in Other Sections
 

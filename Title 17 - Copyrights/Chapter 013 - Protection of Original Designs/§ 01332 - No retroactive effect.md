@@ -4,11 +4,7 @@ Protection under this chapter shall not be available for any design that has bee
 
 (Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2916.)
 
-#### Termination of Section
-
-<i>For termination of section by section 505 of Pub. L. 105–304, see Effective and Termination Dates note set out under section 1301 of this title.</i>
-
 #### References in Text
 
-The effective date of this chapter, referred to in text, is Oct. 28, 1998. See Effective and Termination Dates note set out under section 1301 of this title.
+The effective date of this chapter, referred to in text, is Oct. 28, 1998. See Effective Date note set out under section 1301 of this title.
 

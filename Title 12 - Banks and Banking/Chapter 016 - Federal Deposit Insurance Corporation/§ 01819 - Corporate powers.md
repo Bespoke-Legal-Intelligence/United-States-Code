@@ -58,7 +58,7 @@ Tenth. To prescribe by its Board of Directors such rules and regulations as it m
 
 #### (E) Rule of construction
 
-&emsp;&emsp;Subparagraph (D) shall not be construed as limiting the right of the Corporation to invoke the jurisdiction of any United Statesdistrict court in any action described in such subparagraph if the institution of which the Corporation has been appointed receiver could have invoked the jurisdiction of such court.
+&emsp;&emsp;Subparagraph (D) shall not be construed as limiting the right of the Corporation to invoke the jurisdiction of any United States district court in any action described in such subparagraph if the institution of which the Corporation has been appointed receiver could have invoked the jurisdiction of such court.
 
 #### (3) Service of process
 

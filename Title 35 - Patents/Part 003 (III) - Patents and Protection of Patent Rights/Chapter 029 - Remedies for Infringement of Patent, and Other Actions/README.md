@@ -23,10 +23,13 @@
 | [294\.](%C2%A7%2000294%20-%20Voluntary%20arbitration.md) | Voluntary arbitration. |
 | [295\.](%C2%A7%2000295%20-%20Presumption%20Product%20made%20by%20patented%20process.md) | Presumption: Product made by patented process. |
 | [296\.](%C2%A7%2000296%20-%20Liability%20of%20States%2C%20instrumentalities%20of%20States%2C%20and%20State%20officials%20for%20infringement%20of%20patents.md) | Liability of States, instrumentalities of States, and State officials for infringement of patents. |
+| [297\.](%C2%A7%2000297%20-%20Improper%20and%20deceptive%20invention%20promotion.md) | Improper and deceptive invention promotion. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4102(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–554, added item 297.
 
 1992—Pub. L. 102–560, §2(b), Oct. 28, 1992, 106 Stat. 4230, added item 296.
 
@@ -61,3 +64,4 @@ This chapter is referred to in sections 154, 207 of this title; title 15 section
 - [&sect; 00294 - Voluntary arbitration](%C2%A7%2000294%20-%20Voluntary%20arbitration.md)
 - [&sect; 00295 - Presumption Product made by patented process](%C2%A7%2000295%20-%20Presumption%20Product%20made%20by%20patented%20process.md)
 - [&sect; 00296 - Liability of States, instrumentalities of States, and State officials for infringement of patents](%C2%A7%2000296%20-%20Liability%20of%20States%2C%20instrumentalities%20of%20States%2C%20and%20State%20officials%20for%20infringement%20of%20patents.md)
+- [&sect; 00297 - Improper and deceptive invention promotion](%C2%A7%2000297%20-%20Improper%20and%20deceptive%20invention%20promotion.md)

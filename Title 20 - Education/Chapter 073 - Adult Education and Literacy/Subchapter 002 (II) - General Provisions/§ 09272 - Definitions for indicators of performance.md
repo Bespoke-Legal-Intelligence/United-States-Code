@@ -18,3 +18,7 @@ Title II, referred to in subsec. (a), is title II of Pub. L. 105–220, Aug. 7, 
 
 This Act, referred to in subsec. (b), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2871 of this title.
+

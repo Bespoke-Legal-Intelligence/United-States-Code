@@ -68,7 +68,7 @@ Coordination of study.—The Secretary of Transportation shall coordinate with t
 
 Matters to be included.—The study under this subsection shall include a review and analysis of—
 
-&emsp;&emsp;“(A) the specific risks posed to the public health or welfare of the United States, including fish, shellfish and wildlife, public and private property, shorelines, beaches, habitat, and other natural resources under the jurisdiction or control of theUnited States, as a result of an actual or threatened discharge of group-5 fuel oil from a vessel or facility;
+&emsp;&emsp;“(A) the specific risks posed to the public health or welfare of the United States, including fish, shellfish and wildlife, public and private property, shorelines, beaches, habitat, and other natural resources under the jurisdiction or control of the United States, as a result of an actual or threatened discharge of group-5 fuel oil from a vessel or facility;
 
 &emsp;&emsp;“(B) cleanup technologies currently available to address actual or threatened discharge of group-5 fuel oil; and
 
@@ -140,7 +140,7 @@ Pub. L. 101–380, title IV, §4109, Aug. 18, 1990, 104 Stat. 515, provided that
 
 &emsp;“(1) establishing minimum standards for plating thickness; and
 
-&emsp;“(2) requiring, consistent with generally recognized principles of international law, periodic gauging of the plating thickness of all such vessels over 30 yearsold operating on the navigable waters or the waters of the exclusive economic zone.”
+&emsp;“(2) requiring, consistent with generally recognized principles of international law, periodic gauging of the plating thickness of all such vessels over 30 years old operating on the navigable waters or the waters of the exclusive economic zone.”
 
 #### Regulations Requiring Use of Overfill and Tank Level or Monitoring Devices on Oil Carrying Commercial Vessels
 

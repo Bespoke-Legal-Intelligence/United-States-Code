@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(C) is for use by the United States or any instrumentality thereof where the use of such export property or services is required by law or regulation.
 
-> &emsp;For purposes of this part, the term “qualified export receipts” does not include receiptsfrom a corporation which is a DISC for its taxable year in which the receipts arise and which is a member of a controlled group (as defined in paragraph (3)) which includes the recipient corporation.
+> &emsp;For purposes of this part, the term “qualified export receipts” does not include receipts from a corporation which is a DISC for its taxable year in which the receipts arise and which is a member of a controlled group (as defined in paragraph (3)) which includes the recipient corporation.
 
 #### (3) Definition of controlled group
 
@@ -44,7 +44,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 &emsp;(1) export property (as defined in subsection (c));
 
-&emsp;(2) assets used primarily in connection with the sale, lease, rental, storage, handling, transportation, packaging, assembly, or servicing of export property, or the performance of engineering or architectural services described in subparagraph (G) of subsection (a)(1) or managerial services in furtherance of the production of qualified export receipts described in subparagraphs (A), (B), (C), and (G) of subsection (a)(1);
+&emsp;(2) assets used primarily in connection with the sale, lease, rental, storage, handling, transportation, packaging, assembly, or servicing of export property, or the performance of engineering or architectural services described in subparagraph (G) of subsection (a)(1) ormanagerial services in furtherance of the production of qualified export receipts described in subparagraphs (A), (B), (C), and (G) of subsection (a)(1);
 
 &emsp;(3) accounts receivable and evidences of indebtedness which arise by reason of transactions of such corporation or of another corporation which is a DISC and which is a member of a controlled group which includes such corporation described in subparagraph (A), (B), (C), (D), (G), or (H), of subsection (a)(1);
 
@@ -110,7 +110,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 #### (2) Limitation
 
-&emsp;An obligation shall be treated as arising out of a producer's loan only to the extent that such loan, when added to the unpaid balance of all other producer's loans to the borrower outstanding at the time such loan is made, does not exceed an amount determined by multiplying the sum of—
+&emsp;An obligation shall be treated as arising out of a producer's loan only to the extent thatsuch loan, when added to the unpaid balance of all other producer's loans to the borrower outstanding at the time such loan is made, does not exceed an amount determined by multiplying the sum of—
 
 &emsp;&emsp;(A) the amount of the borrower's adjusted basis determined at the beginning of the borrower's taxable year in which the loan is made, in plant, machinery, and equipment, and supporting production facilities in the United States;
 
@@ -242,7 +242,7 @@ Amendment by Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in
 
 Amendment by Pub. L. 96–72 effective upon the expiration of the Export Administration Act of 1969, which terminated on Sept. 30, 1979, or upon any prior date which the Congress by concurrent resolution or the President by proclamation designated, see References in Text note set out under section 2418 of Appendix to Title 50, War and National Defense.
 
-Amendment by Pub. L. 96–39 effective Jan. 1, 1981, with provision for an earlier effective date under certain circumstances, see section 204 of Pub. L. 96–39, set out as a note under section 1401a of Title 19, Customs Duties.
+Amendment by Pub. L. 96–39 effective Jan. 1, 1981, with provision for an earlier effective date under certain circumstances, see section 204 of Pub. L. 96–39, setout as a note under section 1401a of Title 19, Customs Duties.
 
 #### Effective Date of 1976 Amendment
 

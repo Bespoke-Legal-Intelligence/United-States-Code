@@ -6,7 +6,7 @@ The Secretary shall make grants for providing services for the prevention and tr
 
 #### (b) Services through Indian health facilities
 
-For purposes of subsection (a) of this section, services under such subsection are provided inaccordance with this subsection if the services are provided through any of the following entities:
+For purposes of subsection (a) of this section, services under such subsection are provided in accordance with this subsection if the services are provided through any of the following entities:
 
 &emsp;(1) The Indian Health Service.
 

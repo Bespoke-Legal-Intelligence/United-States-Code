@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The total amount appropriated pursuant to section 2910 of this title for any fiscal year shall be available for administration and for allocation among the States as provided in this section.
+The total amount appropriated pursuant to section 2910 of this title for any fiscal year shallbe available for administration and for allocation among the States as provided in this section.
 
 #### (b) Allocation formula
 

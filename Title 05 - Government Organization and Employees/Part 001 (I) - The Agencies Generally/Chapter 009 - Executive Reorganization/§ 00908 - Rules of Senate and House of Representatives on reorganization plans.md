@@ -34,7 +34,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 909 of this title; title 22 section 2587.
+This section is referred to in section 909 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “title”.</i>
 

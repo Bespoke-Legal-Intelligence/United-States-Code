@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of implementing the tariff treatment and quantitative restrictions provided for under the Agreement, except as otherwise provided in this section, a good originates in the territory of a NAFTA country if—
+&emsp;For purposes of implementing the tariff treatment and quantitative restrictions provided for under the Agreement, except asotherwise provided in this section, a good originates in the territory of a NAFTA country if—
 
 &emsp;&emsp;(A) the good is wholly obtained or produced entirely in the territory of one or more of the NAFTA countries;
 
@@ -164,7 +164,7 @@ nc
 
 &emsp;&emsp;(B) calculating the total cost incurred with respect to all goods produced by that producer, reasonably allocating the total cost to the good, and subtracting any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the portion of the total cost allocated to the good; or
 
-&emsp;&emsp;(C) reasonably allocating each cost that is part of the total cost incurred with respectto the good so that the aggregate of these costs does not include any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, or nonallowable interest costs.
+&emsp;&emsp;(C) reasonably allocating each cost that is part of the total cost incurred with respect to the good so that the aggregate of these costs does not include any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, or nonallowable interest costs.
 
 #### (9) Value of material used in production
 
@@ -228,7 +228,7 @@ nc
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of calculating the regional value-content of a motor vehicle describedin paragraph (1) or (2), the producer may average its calculation over its fiscal year, using any of the categories described in subparagraph (B), on the basis of either all motor vehicles in the category or on the basis of only the motor vehicles in the category that are exported to the territory of one or more of the other NAFTA countries.
+&emsp;&emsp;For purposes of calculating the regional value-content of a motor vehicle described in paragraph (1) or (2), the producer may average its calculation over its fiscal year, using any of the categories described in subparagraph (B), on the basis of either all motor vehicles in the category or on the basis of only the motor vehicles in the category that are exported to the territory of one or more of the other NAFTA countries.
 
 #### (B) Category described
 
@@ -264,7 +264,7 @@ nc
 
 &emsp;&emsp;(A) for a producer's fiscal year beginning on the day closest to January 1, 1998, and thereafter, 56 percent calculated under the net cost method, and for a producer's fiscal year beginning on the day closest to January 1, 2002, and thereafter, 62.5 percent calculated under the net cost method, for—
 
-&emsp;&emsp;&emsp;(i) a good that is a motor vehicle for the transport of 15 or fewer persons provided for in subheading 8702.10.00 or 8702.90.00, or a motor vehicle provided for in subheadings 8703.21 through 8703.90, or subheading 8704.21 or 8704.31; and
+&emsp;&emsp;&emsp;(i) a good that is a motor vehicle for the transport of 15 or fewer persons providedfor in subheading 8702.10.00 or 8702.90.00, or a motor vehicle provided for in subheadings 8703.21 through 8703.90, or subheading 8704.21 or 8704.31; and
 
 &emsp;&emsp;&emsp;(ii) a good provided for in heading 8407 or 8408, or subheading 8708.40, that is for use in a motor vehicle identified in clause (i); and
 
@@ -292,7 +292,7 @@ nc
 
 #### (7) Election for certain vehicles from Canada
 
-&emsp;In the case of goods provided for in subheadings 8703.21 through 8703.90, or subheading 8704.21 or 8704.31, exported from Canada directly to the United States, and entered on or after January 1, 1989, and before the date of entry into force of the Agreement between the United States and Canada, an importer may elect to use the rules of origin set out in this section in lieu of the rules of origin contained in section 202 of the United States-Canada Free-Trade Agreement Implementation Act of 1988 (19 U.S.C. 2112 note) and may elect to use the method for calculating the value of nonoriginating materials established in article 403(2) of the Agreement in lieu of the method established in article 403(1) of the Agreement for purposes of determining eligibility forpreferential duty treatment under the United States-Canada Free-Trade Agreement. Any election under this paragraph shall be made in writing to the Customs Service not later than the date that is 180 days after the date of entry into force of the Agreement between the United States and Canada. Any such election may be made only if the liquidation of such entry has not become final. For purposes of averaging the calculation of regional value-content for the goods covered by such entry, where the producer's 1989–1990 fiscal year began after January 1, 1989, the producer may include the period between January 1, 1989, and the beginning of its first fiscal year after January 1, 1989, as part of fiscal year 1989–1990.
+&emsp;In the case of goods provided for in subheadings 8703.21 through 8703.90, or subheading 8704.21 or 8704.31, exported from Canada directly to the United States, and entered on or after January 1, 1989, and before the date of entry into force of the Agreement between the United States and Canada, an importer may elect to use the rules of origin set out in this section in lieu of the rules of origin contained in section 202 of the United States-Canada Free-Trade Agreement Implementation Act of 1988 (19 U.S.C. 2112 note) and may elect to use the method for calculating the value of nonoriginating materials established in article 403(2) of the Agreement in lieu of the method established in article 403(1) of the Agreement for purposes of determining eligibility for preferential duty treatment under the United States-Canada Free-Trade Agreement. Any election under this paragraph shall be made in writing to the Customs Service not later than the date that is 180 days after the date of entry into force of the Agreement between the United States and Canada. Any such election may be made only if the liquidation of such entry has not become final. For purposes of averaging the calculation of regional value-content for the goods covered by such entry, where the producer's 1989–1990 fiscal year began after January 1, 1989, the producer may include the period between January 1, 1989, and the beginning of its first fiscal year after January 1, 1989, as part of fiscal year 1989–1990.
 
 #### (d) Accumulation
 
@@ -320,7 +320,7 @@ nc
 
 &emsp;&emsp;(A) the value of all nonoriginating materials used in the production of the good that do not undergo an applicable change in tariff classification (set out in Annex 401 of the Agreement) is not more than 7 percent of the transaction value of the good, adjusted to a F.O.B. basis, or
 
-&emsp;&emsp;(B) where the transaction value of the good is unacceptable under Article 1 of the Customs Valuation Code, the value of all such nonoriginating materials is not more than 7 percent of the total cost of the good,
+&emsp;&emsp;(B) where the transaction value of the good is unacceptable under Article 1 of theCustoms Valuation Code, the value of all such nonoriginating materials is not more than 7 percent of the total cost of the good,
 
 > &emsp;provided that the good satisfies all other applicable requirements of this section and, if the good is subject to a regional value-content requirement, the value of such nonoriginating materials is taken into account in calculating the regional value-content of the good.
 
@@ -360,7 +360,7 @@ nc
 
 &emsp;&emsp;&emsp;(ii) a good provided for in subheading 2202.90.30 or 2202.90.35, or fruit or vegetable juice of any single fruit or vegetable, fortified with minerals or vitamins, provided for in subheading 2202.90.36;
 
-&emsp;&emsp;(D) a nonoriginating material provided for in chapter 9 of the HTS that is used in theproduction of instant coffee, not flavored, provided for in subheading 2101.10.20;
+&emsp;&emsp;(D) a nonoriginating material provided for in chapter 9 of the HTS that is used in the production of instant coffee, not flavored, provided for in subheading 2101.10.20;
 
 &emsp;&emsp;(E) a nonoriginating material provided for in chapter 15 of the HTS that is used in the production of a good provided for in headings 1501 through 1508, or heading 1512, 1514, or 1515;
 
@@ -392,7 +392,7 @@ nc
 
 #### (5) Goods provided for in chapters 1 through 27 of the HTS
 
-&emsp;Paragraph (1) does not apply to a nonoriginating material used in the production of a good provided for in chapters 1 through 27 of the HTS unless the nonoriginating material is provided for in a different subheading than the good for which origin is being determined under this section.
+&emsp;Paragraph (1) does not apply to a nonoriginating material used in the production of a good provided for in chapters 1 through 27 ofthe HTS unless the nonoriginating material is provided for in a different subheading than the good for which origin is being determined under this section.
 
 #### (6) Goods provided for in chapters 50 through 63 of the HTS
 
@@ -512,7 +512,7 @@ For purposes of this section—
 
 #### (3) F.O.B.
 
-&emsp;The term “F.O.B.” means free on board, regardless of the mode of transportation, at thepoint of direct shipment by the seller to the buyer.
+&emsp;The term “F.O.B.” means free on board, regardless of the mode of transportation, at the point of direct shipment by the seller to the buyer.
 
 #### (4) Fungible goods and fungible materials
 
@@ -546,7 +546,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) production in the territory of one or more of the NAFTA countries; or
 
-&emsp;&emsp;&emsp;(ii) used goods collected in the territory of one or more of the NAFTA countries, if such goods are fit only for the recovery of raw materials; and
+&emsp;&emsp;&emsp;(ii) used goods collected in the territory of one or more of the NAFTA countries, ifsuch goods are fit only for the recovery of raw materials; and
 
 &emsp;&emsp;(J) goods produced in the territory of one or more of the NAFTA countries exclusively from goods referred to in subparagraphs (A) through (I), or from their derivatives, at any stage of production.
 
@@ -608,7 +608,7 @@ For purposes of this section—
 
 #### (15) New building
 
-&emsp;The term “new building” means a new construction, including at least the pouring orconstruction of new foundation and floor, the erection of a new structure and roof, and installation of new plumbing, electrical, and other utilities to house a complete vehicle assembly process.
+&emsp;The term “new building” means a new construction, including at least the pouring or construction of new foundation and floor, the erection of a new structure and roof, and installation of new plumbing, electrical, and other utilities to house a complete vehicle assembly process.
 
 #### (16) Net cost
 
@@ -690,7 +690,7 @@ For purposes of this section—
 
 &emsp;&emsp;(E) Product liability insurance.
 
-&emsp;&emsp;(F) Office supplies for sales promotion, marketing, and after-sales service of goods,where such costs are identified separately for sales promotion, marketing, and after-sales service of goods on the financial statements or cost accounts of the producer.
+&emsp;&emsp;(F) Office supplies for sales promotion, marketing, and after-sales service of goods, where such costs are identified separately for sales promotion, marketing, and after-sales service of goods on the financial statements or cost accounts of the producer.
 
 &emsp;&emsp;(G) Telephone, mail, and other communications, where such costs are identified separately for sales promotion, marketing, and after-sales service of goods on the financial statements or cost accounts of the producer.
 
@@ -772,7 +772,7 @@ For purposes of this section—
 
 #### References in Text
 
-Act of June 18, 1934, referred to in subsec. (a)(2)(A), is act June 18, 1934, ch. 590, 48 Stat. 998, as amended, which is classified generally to chapter 1A (§81a et seq.)of this title. For complete classification of this Act to the Code, see Tables.
+Act of June 18, 1934, referred to in subsec. (a)(2)(A), is act June 18, 1934, ch. 590, 48 Stat. 998, as amended, which is classified generally to chapter 1A (§81a et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 Section 202 of the United States-Canada Free-Trade Agreement Implementation Act of 1988, referred to in subsec. (c)(7), is section 202 of Pub. L. 100–449, which is set out in a note under section 2112 of this title.
 

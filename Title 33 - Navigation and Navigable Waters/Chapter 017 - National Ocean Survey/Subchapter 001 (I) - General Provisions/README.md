@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00851 - Commissioned officers; authorized number](%C2%A7%2000851%20-%20Commissioned%20officers%3B%20authorized%20number.md)
+- [&sect; 00851 - Omitted](%C2%A7%2000851%20-%20Omitted.md)
 - [&sect; 00851a - Repealed. June 3, 1948, ch. 390, &sect;22(a), formerly &sect;21(a), 62 Stat. 300; renumbered &sect;22(a), Sept. 14, 1961, Pub. L. 87&#8211;233, &sect;1(f)&#8230;](%C2%A7%2000851a%20-%20Repealed.%20June%203%2C%201948%2C%20ch.%20390%2C%20%C2%A722%28a%29%2C%20formerly%20%C2%A721%28a%29%2C%2062%20Stat.%20300%3B%20renumbered%20%C2%A722%28a%29%2C%20Sept.%2014%2C%201961%2C%20Pub.%20L.%2087%E2%80%93233%2C%20%C2%A71%28f%29%E2%80%A6.md)
 - [&sect; 00852 to 852b - Omitted](%C2%A7%2000852%20to%20852b%20-%20Omitted.md)
 - [&sect; 00853 - Power to settle claims](%C2%A7%2000853%20-%20Power%20to%20settle%20claims.md)
@@ -31,6 +31,7 @@
 - [&sect; 00853s - Repealed. Pub. L. 88&#8211;431, &sect;1(c)(2), Aug. 14, 1964, 78 Stat. 440](%C2%A7%2000853s%20-%20Repealed.%20Pub.%20L.%2088%E2%80%93431%2C%20%C2%A71%28c%29%282%29%2C%20Aug.%2014%2C%201964%2C%2078%20Stat.%20440.md)
 - [&sect; 00853t - Original appointments](%C2%A7%2000853t%20-%20Original%20appointments.md)
 - [&sect; 00853u - Positions of importance and responsibility](%C2%A7%2000853u%20-%20Positions%20of%20importance%20and%20responsibility.md)
+- [&sect; 00853v - Presentation of United States flag upon retirement](%C2%A7%2000853v%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md)
 - [&sect; 00854 - Qualification of officers for appointment or promotion generally](%C2%A7%2000854%20-%20Qualification%20of%20officers%20for%20appointment%20or%20promotion%20generally.md)
 - [&sect; 00854a - Service credit as deck officer or junior engineer for promotion purposes](%C2%A7%2000854a%20-%20Service%20credit%20as%20deck%20officer%20or%20junior%20engineer%20for%20promotion%20purposes.md)
 - [&sect; 00854a&#8211;1 - Temporary appointment or advancement of commissioned officers in time of war or national emergency](%C2%A7%2000854a%E2%80%931%20-%20Temporary%20appointment%20or%20advancement%20of%20commissioned%20officers%20in%20time%20of%20war%20or%20national%20emergency.md)

@@ -62,5 +62,5 @@ Subsec. (b)(7), (8). Pub. L. 105–277, §142(c)(2), (3), added par. (7) and red
 
 #### Report to Congress on Effectiveness of Chapter and Proposed Changes
 
-Pub. L. 105–277, div. C, title I, §142(q), Oct. 21, 1998, 112 Stat. 2681–609, provided that: “Five years from the date of the enactment of this Act \[Oct. 21, 1998\], the UnitedStates Olympic Committee shall submit a special report to the Congress on the effectiveness of the provisions of chapter 2205 of title 36, United States Code, as amended by this Act, together with any additional proposed changes to that chapter the United States Olympic Committee determines are appropriate.”
+Pub. L. 105–277, div. C, title I, §142(q), Oct. 21, 1998, 112 Stat. 2681–609, provided that: “Five years from the date of the enactment of this Act \[Oct. 21, 1998\], the United States Olympic Committee shall submit a special report to the Congress on the effectiveness of the provisions of chapter 2205 of title 36, United States Code, as amended by this Act, together with any additional proposed changes to that chapter the United States Olympic Committee determines are appropriate.”
 

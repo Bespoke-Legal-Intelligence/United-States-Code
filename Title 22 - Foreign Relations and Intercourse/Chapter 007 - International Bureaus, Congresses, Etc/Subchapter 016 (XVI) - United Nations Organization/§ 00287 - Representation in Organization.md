@@ -30,15 +30,17 @@ All persons appointed in pursuance of authority contained in this section shall 
 
 #### (h) Appointment of representative to Vienna office of United Nations; rank, status, and tenure; duties
 
-The President, by and with the advice and consent of the Senate, shall appoint a representative of the United States to the Vienna office of the United Nations with appropriate rank and status, who shall serve at the pleasure of the President and subject to the direction of the Secretary of State. Such individual shall, at the direction of the Secretary of State, represent the United States at the Vienna office of the United Nations and perform such other functions there in connection with the participation of the United States in international organizations as the Secretary of State from time to time may direct.
+The President, by and with the advice and consent of the Senate, shall appoint a representative of the United States to the Vienna office of the United Nations with appropriate rank and status, who shall serve at the pleasure of the President and subject to the direction of the Secretary of State. Such individual shall, at thedirection of the Secretary of State, represent the United States at the Vienna office of the United Nations and perform such other functions there in connection with the participation of the United States in international organizations as the Secretary of State from time to time may direct. The representative of the United States to the Vienna office of the United Nations shall also serve as representative of the United States to the International Atomic Energy Agency.
 
-(Dec. 20, 1945, ch. 583, §2, 59 Stat. 619; Oct. 10, 1949, ch. 660, §§1, 2, 63 Stat. 734, 735; Pub. L. 89–206, §§1, 2, Sept. 28, 1965, 79 Stat. 841, 842; Pub. L. 96–465, title II, §2206(a)(2)(A), Oct. 17, 1980, 94 Stat. 2160; Pub. L. 97–241, title I, §118, Aug. 24, 1982, 96 Stat. 279.)
+(Dec. 20, 1945, ch. 583, §2, 59 Stat. 619; Oct. 10, 1949, ch. 660, §§1, 2, 63 Stat. 734, 735; Pub. L. 89–206, §§1, 2, Sept. 28, 1965, 79 Stat. 841, 842; Pub. L. 96–465, title II, §2206(a)(2)(A), Oct. 17, 1980, 94 Stat. 2160; Pub. L. 97–241, title I, §118, Aug. 24, 1982, 96 Stat. 279; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §708(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–461.)
 
 #### References in Text
 
 This Act, as amended, referred to in subsec. (b), is Pub. L. 89–206, Sept. 28, 1965, 79 Stat. 841, which amended this section. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1999—Subsec. (h). Pub. L. 106–113 inserted at end “The representative of the United States to the Vienna office of the United Nations shall also serve as representative of the United States to the International Atomic Energy Agency.”
 
 1982—Subsec. (h). Pub. L. 97–241 added subsec. (h).
 
@@ -62,6 +64,10 @@ Subsec. (d). Act Oct. 10, 1949, §1, allowed the designation by the President of
 
 Subsec. (f). Act Oct. 10, 1949, §2, added subsec. (f).
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §708(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–462, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 2021 of this title\] shall apply to individuals appointed on or after the date of enactment of this Act \[Nov. 29, 1999\].”
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
@@ -69,6 +75,32 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 #### Short Title
 
 Section 1 of act Dec. 20, 1945, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘United Nations Participation Act of 1945’.”
+
+#### United Nations Policy on Israel and the Palestinians
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §721\], Nov. 29, 1999, 113 Stat. 1536, 1501A–462, provided that:
+
+“(a)
+
+Congressional Statement.—It shall be the policy of the United States to promote an end to the persistent inequity experienced by Israel in the United Nations whereby Israel is the only longstanding member of the organization to be denied acceptance into any of the United Nations regional blocs.
+
+“(b)
+
+Policy on Abolition of Certain United Nations Groups.—It shall be the policy of the United States to seek the abolition of certain United Nations groups the existence of which is inimical to the ongoing Middle East peace process, those groups being the Special Committee to Investigate Israeli Practices Affecting the Human Rights of the Palestinian People and other Arabs of the Occupied Territories; the Committee on the Exercise of the Inalienable Rights of the Palestinian People; the Division for the Palestinian Rights; and the Division on Public Information on the Question of Palestine.
+
+“(c)
+
+Annual Reports.—On January 15 of each year, the Secretary of State shall submit a report to the appropriate congressional committees \[Committee on International Relations of the House of Representatives and Committee on Foreign Relations of the Senate\] (in classified or unclassified form as appropriate) on—
+
+&emsp;“(1) actions taken by representatives of the United States to encourage the nations of the Western Europe and Others Group (WEOG) to accept Israel into their regional bloc;
+
+&emsp;“(2) other measures being undertaken, and which will be undertaken, to ensure and promote Israel's full and equal participation in the United Nations; and
+
+&emsp;“(3) steps taken by the United States under subsection (b) to secure abolition by the United Nations of groups described in that subsection.
+
+“(d)
+
+Annual Consultation.—At the time of the submission of each annual report under subsection (c), the Secretary of State shall consult with the appropriate congressional committees on specific responses received by the Secretary of State from each of the nations of the Western Europe and Others Group (WEOG) on their position concerning Israel's acceptance into their organization.”
 
 #### United States Commission on Improving the Effectiveness of the United Nations
 
@@ -120,7 +152,7 @@ Pub. L. 91–622, Dec. 31, 1970, 84 Stat. 1867, provided: “That there is hereb
 
 #### United States Loan for Construction of Permanent Headquarters in New York City
 
-Act Aug. 11, 1948, ch. 834, 62 Stat. 1286, authorized the President to loan to the United Nations $65,000,000 to construct a permanent headquarters in New York City, provided for the repayment of the loan without interest in installments beginning July 1, 1951, and continuing until July 1, 1982, and authorized the Reconstruction Finance Corporation to advance to the United Nations up to $25,000,000 until such time as the $65,000,000 is appropriated by Congress.
+Act Aug. 11, 1948, ch. 834, 62 Stat. 1286, authorized the President to loan to the United Nations $65,000,000 to construct a permanent headquarters in New York City, provided for the repayment of the loan without interest in installments beginning July 1, 1951, and continuing until July 1, 1982, and authorized the Reconstruction Finance Corporation to advance to the United Nationsup to $25,000,000 until such time as the $65,000,000 is appropriated by Congress.
 
 #### Establishment of Permanent Headquarters in New York; Agreement Between United Nations and United States
 
@@ -156,7 +188,7 @@ Joint Res. Aug. 4, 1947, ch. 482, 61 Stat. 756, provided that:
 
 “Whereas the aforesaid agreement provides that it shall be brought into effect by an exchange of notes between the United States and the Secretary-General of the United Nations: Therefore be it
 
-<i>“Resolved by the Senate and House of Representatives of the United States of America in Congress assembled</i>, That the President is hereby authorized to bring into effect on the part of the United States the agreement between the United States of America and the United Nations regarding the headquarters of the United Nations, signed at Lake Success, New York, on June 26, 1947 (hereinafter referred to as the ‘agreement’), with such changes therein not contrary to the general tenor thereof and not imposing any additional obligations on the United States as the President may deem necessary and appropriate, and at his discretion, after consultation with the appropriate State and local authorities, to enter into such supplemental agreements with theUnited Nations as may be necessary to fulfill the purposes of the said agreement: <i>Provided</i>, That any supplemental agreement entered into pursuant to section 5 of the agreement incorporated herein shall be submitted to the Congress for approval. The agreement follows:
+<i>“Resolved by the Senate and House of Representatives of the United States of America in Congress assembled</i>, That the President is hereby authorized to bring into effect on the part of the United States the agreement between the United States of America and the United Nations regarding the headquarters of the United Nations, signed at Lake Success, New York, on June 26, 1947 (hereinafter referred to as the ‘agreement’), with such changes therein not contrary to the general tenor thereof and not imposing any additional obligations on the United States as the President may deem necessary and appropriate, and at his discretion, after consultation with the appropriate State and local authorities, to enter into such supplemental agreements with the United Nations as may be necessary to fulfill the purposes of the said agreement: <i>Provided</i>, That any supplemental agreement entered into pursuant to section 5 of the agreement incorporated herein shall be submitted to the Congress for approval. The agreement follows:
 
 #### “AGREEMENT BETWEEN THE UNITED NATIONS AND THE UNITED STATES OF AMERICA REGARDING THE HEADQUARTERS OF THE UNITED NATIONS
 
@@ -246,7 +278,7 @@ I74section 7
 
 #### section 8
 
-The United Nations shall have the power to make regulations, operative within the headquarters districtfor the purpose of establishing therein conditions in all respects necessary for the full execution of its functions. No federal, state or local law or regulation of the United States which is inconsistent with a regulation of the United Nations authorized by this section shall, to the extent of such inconsistency, be applicable within the headquarters district. Any dispute, between the United Nations and the United States, as to whether a regulation of the United Nations is authorized by this section or as to whether a federal, state or local law or regulation is inconsistent with any regulation of the United Nations authorized by this section, shall be promptly settled as provided in Section 21. Pending such settlement, the regulation of the United Nations shall apply, and the federal, state or local law or regulation shall be inapplicable in the headquarters district to the extent that the United Nations claims it to be inconsistent with the regulation of the United Nations. This section shall not prevent the reasonable application of fire protection regulations of the appropriate American authorities.
+The United Nations shall have the power to make regulations, operative within the headquarters district for the purpose of establishing therein conditions in all respects necessary for the full execution of its functions. No federal, state or local law or regulation of the United States which is inconsistent with a regulation of the United Nations authorized by this section shall, to the extent of such inconsistency, be applicable within the headquarters district. Any dispute, between the United Nations and the United States, as to whether a regulation of the United Nations is authorized by this section or as to whether a federal, state or local law or regulation is inconsistent with any regulation of the United Nations authorized by this section, shall be promptly settled as provided in Section 21. Pending such settlement, the regulation of the United Nations shall apply, and the federal, state or local law or regulation shall be inapplicable in the headquarters district to the extent that the United Nations claims it to be inconsistent with the regulation of the United Nations. This section shall not prevent the reasonable application of fire protection regulations of the appropriate American authorities.
 
 #### section 9
 
@@ -308,7 +340,7 @@ I74section 15
 
 I74section 16
 
-(a) The appropriate American authorities shall exercise due diligence to ensure that the tranquility of the headquarters district is not disturbed by the unauthorized entry of groups of persons from outside or by disturbances in its immediate vicinity and shall cause to be provided on the boundaries of the headquarters district such police protection as is required for these purposes.
+(a) The appropriate American authorities shall exercise due diligence to ensure that the tranquility of the headquarters district is not disturbed by the unauthorized entry of groups of persons from outside or by disturbances in its immediate vicinity and shall cause tobe provided on the boundaries of the headquarters district such police protection as is required for these purposes.
 
 (b) If so requested by the Secretary-General, the appropriate American authorities shall provide a sufficient number of police for the preservation of law and order in the headquarters district, and for the removal therefrom of persons as requested under the authority of the United Nations. The United Nations shall, if requested, enter into arrangements with the appropriate American authorities to reimburse them for the reasonable cost of such services.
 
@@ -426,7 +458,7 @@ Sec. 4. Any States, or, to the extent not inconsistent with State law any politi
 
 Sec. 5. The President is authorized to make effective with respect to the temporary headquarters of the United Nations in the State of New York, on a provisional basis, such of the provisions of the agreement as he may deem appropriate, having due regard for the needs of the United Nations at its temporary headquarters.
 
-Sec. 6. Nothing in the agreement shall be construed as in any way diminishing, abridging, or weakening the right of the United States to safeguard its own security and completely to control the entrance of aliens into any territory of the United States other than the headquarters district and its immediate vicinity, as to be defined and fixed in a supplementary agreement between the Government of the United States and the United Nations in pursuance of section 13(3)(e) of the agreement, and such areas as it is reasonably necessary to traverse in transit between the same and foreign countries. Moreover, nothing in section 14 of the agreement with respect to facilitating entrance into the United States by persons who wish to visit the headquarters district and do not enjoy the right of entry provided in section 11 of the agreement shall be construed to amend or suspend in any way the immigration laws of the United States or to commit the United States in any way to effect any amendment or suspension of such laws.”
+Sec. 6. Nothing in the agreement shall be construed as in any way diminishing, abridging, or weakening the right of the United States to safeguard its own security and completely to control the entrance of aliens into any territory of the United States other than the headquarters district and its immediate vicinity, as to be defined and fixed in a supplementary agreement between the Government of the United States and the United Nations in pursuance of section 13(3)(e) of the agreement, and such areas as it is reasonably necessary to traverse in transit between the same and foreign countries. Moreover, nothing in section 14 of the agreement with respect to facilitating entrance into theUnited States by persons who wish to visit the headquarters district and do not enjoy the right of entry provided in section 11 of the agreement shall be construed to amend or suspend in any way the immigration laws of the United States or to commit the United States in any way to effect any amendment or suspension of such laws.”
 
 #### UN Membership for Communist China
 
@@ -498,7 +530,7 @@ Ex. Ord. No. 10422, Jan. 9, 1953, 18 F.R. 239, as amended by Ex. Ord. No. 10459,
 
 3\. (a) Whenever the Office of Personnel Management receives the information forwarded by the Secretary General to the Secretary of State, the Office of Personnel Management shall conduct a National Agency Check. Each National Agency Check shall include reference to the following: (1) Federal Bureau of Investigation files; (2) Office of Personnel Management files; (3) Military Intelligence files as appropriate; and (4) files of any other appropriate Government investigative or intelligence agency.
 
-(b) If the investigation conducted by the Office of Personnel Management reveals that a favorable National Agency Check was previously completed, and the investigation conducted by the Office of Personnel Management has not disclosed any derogatory information within the meaning of the standard set forth in Part II of this order, completion of a new National Agency Check is not required if: (1) the applicant is or was previously employed by the same or another international organization without an immediately prior break in such service exceeding one year; (2) the applicant is or was a United States Government civilian or military employee, or a United States Government contract employee, without an immediately prior break in such employment exceeding one year; or (3) the applicant is transferred or detailed from an agency of the United States Government pursuant to the provisions of sections 3343, 3581, 3582, 3583, or 3584 of Title 5 of the United States Code.
+(b) If the investigation conducted by the Office of Personnel Management reveals that a favorable National Agency Check was previously completed, and the investigation conducted by the Office of Personnel Management has not disclosed any derogatory information within the meaning of the standard set forth in Part II of this order, completion of a new NationalAgency Check is not required if: (1) the applicant is or was previously employed by the same or another international organization without an immediately prior break in such service exceeding one year; (2) the applicant is or was a United States Government civilian or military employee, or a United States Government contract employee, without an immediately prior break in such employment exceeding one year; or (3) the applicant is transferred or detailed from an agency of the United States Government pursuant to the provisions of sections 3343, 3581, 3582, 3583, or 3584 of Title 5 of the United States Code.
 
 4\. Whenever information disclosed with respect to any person being investigated is derogatory, within the standard set forth in Part II of this order, the Office of Personnel Management shall forward such information to the Federal Bureau of Investigation, and the Bureau shall conduct a full field investigation of such persons.
 

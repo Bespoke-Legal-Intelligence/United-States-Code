@@ -14,7 +14,7 @@ Within 180 days following October 23, 1992, the Secretary of the Interior, the S
 
 #### (b) Report requirements
 
-The single report format shall be developed by the Secretary, consistent with the requirements of this chapter. Such report format, together with records maintained on the consolidated program at the tribal level shall contain such information as will allow a determination that the tribe has complied with the requirements incorporated in its approved plan and will provide assurances to each Secretary that the tribe has complied with all directly applicable statutory requirements and with those directly applicable regulatory requirements which have not been waived.
+The single report format shall be developed by the Secretary, consistent with the requirements of this chapter. Such report format, together with records maintained on the consolidated program at the tribal level shall contain such information as will allow a determination that the tribe has complied with the requirements incorporated in its approved plan and will provideassurances to each Secretary that the tribe has complied with all directly applicable statutory requirements and with those directly applicable regulatory requirements which have not been waived.
 
 (Pub. L. 102–477, §11, Oct. 23, 1992, 106 Stat. 2304.)
 

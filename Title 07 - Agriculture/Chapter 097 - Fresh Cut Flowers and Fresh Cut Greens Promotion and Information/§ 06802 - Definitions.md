@@ -28,7 +28,7 @@ As used in this chapter:
 
 #### (3) Gross sales price
 
-&emsp;The term “gross sales price” means the total amount of the transaction in a sale of cut flowers or cut greens from a handler to a retailer or exempt handler.
+&emsp;The term “gross sales price” means the total amount of the transaction in a sale of cutflowers or cut greens from a handler to a retailer or exempt handler.
 
 #### (4) Handler
 
@@ -66,7 +66,7 @@ As used in this chapter:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term “qualified handler” includes an importer or producer that sells cut flowers or cut greens that the importer or producer has imported into the United States or produced, respectively, directly to consumers and whose sales of the cut flowers and cut greens (as calculated under subparagraph (C)), together with sales of cut flowers and cutgreens to retailers or exempt handlers, annually are $750,000 or more.
+&emsp;&emsp;&emsp;&emsp;The term “qualified handler” includes an importer or producer that sells cut flowers or cut greens that the importer or producer has imported into the United States or produced, respectively, directly to consumers and whose sales of the cut flowers and cut greens (as calculated under subparagraph (C)), together with sales of cut flowers and cut greens to retailers or exempt handlers, annually are $750,000 or more.
 
 #### (II) Sales
 
@@ -154,7 +154,7 @@ As used in this chapter:
 
 #### (ii) Importers and producers
 
-&emsp;&emsp;&emsp;An independently owned distribution center described in clause (i)(II) that also is an importer or producer of cut flowers or cut greens shall be subject to the rules of construction specified in paragraph\(4)(A)(iii) and, for the purpose of the rules of construction, be considered to be the seller of the articles directly to the consumer.
+&emsp;&emsp;&emsp;An independently owned distribution center described in clause (i)(II) that also is an importer or producer of cut flowers or cut greens shall be subject to the rules of construction specified in paragraph (4)(A)(iii) and, for the purpose of the rules of construction, be considered to be the seller of the articles directly to the consumer.
 
 #### (11) Secretary
 

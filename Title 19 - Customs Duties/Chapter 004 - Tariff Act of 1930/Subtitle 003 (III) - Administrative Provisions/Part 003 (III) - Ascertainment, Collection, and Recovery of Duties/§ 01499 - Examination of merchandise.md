@@ -58,7 +58,7 @@
 
 #### (3) Testing by accredited laboratories
 
-&emsp;When requested by an importer of record of merchandise, the Customs Service shall authorize the release to the importer of a representative sample of the merchandise for testing, at the expense of the importer, by a laboratory accredited under paragraph (1). The testing results from a laboratory accredited under paragraph (1) that are submitted by an importer of record with respect to merchandise in an entry shall, in the absence of testing results obtained from a Customs Service laboratory, be accepted by the Customs Service if the importer of record certifies that the sample tested was taken from the merchandise inthe entry. Nothing in this subsection shall be construed to limit in any way or preclude the authority of the Customs Service to test or analyze any sample or merchandise independently.
+&emsp;When requested by an importer of record of merchandise, the Customs Service shall authorize the release to the importer of a representative sample of the merchandise for testing, at the expense of the importer, by a laboratory accredited under paragraph (1). The testing results from a laboratory accredited under paragraph (1) that are submitted by an importer of record with respect to merchandise in an entry shall, in the absence of testing results obtained from a Customs Service laboratory, be accepted by the Customs Service if the importer of record certifies that the sample tested was taken from the merchandise in the entry. Nothing in this subsection shall be construed to limit in any way or preclude the authority of the Customs Service to test or analyze any sample or merchandise independently.
 
 #### (4) Availability of testing procedure, methodologies, and information
 
@@ -130,7 +130,7 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 
 A prior provision prohibiting delivery of merchandise liable to be inspected or appraised, until it had been inspected or appraised, or until the packages sent to be inspected or appraised, should be found correctly invoiced, and be so reported, with a further provision as to the taking of bonds conditioned for delivery of the merchandise, and the forfeiture of such bonds, was contained in R.S. §2899.
 
-Provisions substantially similar to those in this section concerning the number of packages to be examined\(not including the provision for designation of a less number by the Secretary of the Treasury) and concerning packages found to contain articles not specified in the invoice, with a further provision for remission of the forfeiture, were contained in R.S. §2901.
+Provisions substantially similar to those in this section concerning the number of packages to be examined (not including the provision for designation of a less number by the Secretary of the Treasury) and concerning packages found to contain articles not specified in the invoice, with a further provision for remission of the forfeiture, were contained in R.S. §2901.
 
 A prior provision, concerning deficiencies somewhat similar to that in this section, was contained in R.S. §2921.
 

@@ -94,7 +94,7 @@ The Secretary shall ensure that each individual participating in any program or 
 
 &emsp;&emsp;Not later than 90 days after the date of the original submission of a request for a waiver under subparagraph (A), the Secretary shall provide a waiver under this paragraph if and only to the extent that—
 
-&emsp;&emsp;&emsp;(i) the Secretary determines that the requirements requested to be waived impede the ability of the State or local area, as appropriate, to implement the plan described in subparagraph (B); and
+&emsp;&emsp;&emsp;(i) the Secretary determines that the requirements requested to be waived impedethe ability of the State or local area, as appropriate, to implement the plan described in subparagraph (B); and
 
 &emsp;&emsp;&emsp;(ii) the State has executed a memorandum of understanding with the Secretary requiring such State to meet, or ensure that the local area meets, agreed-upon outcomes and to implement other appropriate measures to ensure accountability.
 

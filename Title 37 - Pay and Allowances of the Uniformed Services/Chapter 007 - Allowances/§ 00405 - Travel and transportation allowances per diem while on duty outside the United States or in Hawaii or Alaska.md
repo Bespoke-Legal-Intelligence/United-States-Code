@@ -4,7 +4,7 @@
 
 (b) Housing cost and allowance may be disregarded in prescribing a station cost of living allowance under this section.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 473; Pub. L. 89–718, §57, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 91–486, Oct. 22, 1970, 84 Stat. 1085; Pub. L. 96–107, title VIII, §807(a), Nov. 9, 1979, 93 Stat. 813; Pub. L. 98–525, title VI, §602(e), Oct. 19, 1984, 98 Stat. 2536; Pub. L. 99–145, title XIII, §1303(b)(8), Nov. 8, 1985, 99 Stat. 741; Pub. L. 101–189, div. A, title VI, §622(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 103–160, div. A, title VI, §622(a), Nov. 30, 1993, 107 Stat. 1683; Pub. L. 105–85, div. A, title VI, §603(c)(2), Nov. 18, 1997, 111 Stat. 1781; Pub. L. 105–261, div. A, title VI, §603(b), Oct. 17, 1998, 112 Stat. 2037.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 473; Pub. L. 89–718, §57, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 91–486, Oct. 22, 1970, 84 Stat. 1085; Pub. L. 96–107, title VIII, §807(a), Nov. 9, 1979, 93 Stat. 813; Pub. L. 98–525, title VI, §602(e), Oct. 19, 1984, 98 Stat.2536; Pub. L. 99–145, title XIII, §1303(b)(8), Nov. 8, 1985, 99 Stat. 741; Pub. L. 101–189, div. A, title VI, §622(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 103–160, div. A, title VI, §622(a), Nov. 30, 1993, 107 Stat. 1683; Pub. L. 105–85, div. A, title VI, §603(c)(2), Nov. 18, 1997, 111 Stat. 1781; Pub. L. 105–261, div. A, title VI, §603(b), Oct. 17, 1998, 112 Stat. 2037.)
 
 Historical and Revision Notes
 

@@ -6,7 +6,7 @@
 
 &emsp;The Attorney General shall establish guidelines for State programs that require—
 
-&emsp;&emsp;(A) a person who is convicted of a criminal offense against a victim who is a minor or who is convicted of a sexually violent offense to register a current address for the time period specified in subparagraph (A) of subsection (b)(6) of this section; and
+&emsp;&emsp;(A) a person who is convicted of a criminal offense against a victim who is a minor or who is convicted of a sexually violent offense to register a current address for thetime period specified in subparagraph (A) of subsection (b)(6) of this section; and
 
 &emsp;&emsp;(B) a person who is a sexually violent predator to register a current address unless such requirement is terminated under subparagraph (B) of subsection (b)(6) of this section.
 
@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A determination of whether a person is a sexually violent predator for purposes of thissection shall be made by a court after considering the recommendation of a board composed of experts in the behavior and treatment of sex offenders, victims’ rights advocates, and representatives of law enforcement agencies.
+&emsp;&emsp;A determination of whether a person is a sexually violent predator for purposes of this section shall be made by a court after considering the recommendation of a board composed of experts in the behavior and treatment of sex offenders, victims’ rights advocates, and representatives of law enforcement agencies.
 
 #### (B) Waiver
 
@@ -76,13 +76,13 @@ An approved State registration program established under this section shall cont
 
 &emsp;&emsp;(ii) inform the person that if the person changes residence address, the person shall report the change of address as provided by State law;
 
-&emsp;&emsp;(iii) inform the person that if the person changes residence to another State, the person shall report the change of address as provided by State law and comply with any registration requirement in the new State of residence, and inform the person that the person must also register in a State where the person is employed, carries on a vocation, or is a student;
+&emsp;&emsp;(iii) inform the person that if the person changes residence to another State, the person shall report the change of address as provided by State law and comply with any registration requirement in the new State ofresidence, and inform the person that the person must also register in a State where the person is employed, carries on a vocation, or is a student;
 
 &emsp;&emsp;(iv) obtain fingerprints and a photograph of the person if these have not already been obtained in connection with the offense that triggers registration; and
 
 &emsp;&emsp;(v) require the person to read and sign a form stating that the duty of the person to register under this section has been explained.
 
-&emsp;(B) In addition to the requirements of subparagraph (A), for a person required to registerunder subparagraph (B) of subsection (a)(1) of this section, the State prison officer, the court, or another responsible officer or official, as the case may be, shall obtain the name of the person, identifying factors, anticipated future residence, offense history, and documentation of any treatment received for the mental abnormality or personality disorder of the person.
+&emsp;(B) In addition to the requirements of subparagraph (A), for a person required to register under subparagraph (B) of subsection (a)(1) of this section, the State prison officer, the court, or another responsible officer or official, as the case may be, shall obtain the name of the person, identifying factors, anticipated future residence, offense history, and documentation of any treatment received for the mental abnormality or personality disorder of the person.
 
 #### (2) Transfer of information to State and FBI; participation in national sex offender registry
 
@@ -142,7 +142,7 @@ A person required to register under a State program established pursuant to this
 
 (1) The information collected under a State registration program may be disclosed for any purpose permitted under the laws of the State.
 
-(2) The State or any agency authorized by the State shall release relevant information that is necessary to protect the public concerning a specific person required to register under this section, except that the identity of a victim of an offense that requires registration under this section shall not be released.
+(2) The State or any agency authorized by the State shall release relevant information that isnecessary to protect the public concerning a specific person required to register under this section, except that the identity of a victim of an offense that requires registration under this section shall not be released.
 
 #### (f) Immunity for good faith conduct
 
@@ -216,7 +216,7 @@ Subsec. (i). Pub. L. 105–314, §607(a)(2), added subsec. (i).
 
 1997—Subsec. (a)(1)(A), (B). Pub. L. 105–119, §115(a)(1)(A), struck out “with a designated State law enforcement agency” after “current address”.
 
-Subsec. (a)(2). Pub. L. 105–119, §115(a)(1)(B), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “A determination that a person is a sexually violent predator and a determination that a person is no longer a sexually violent predator shall be made by the sentencing court after receiving a report by a State board composed of experts in the field of the behavior and treatment of sexual offenders, victim rights advocates, and representatives from law enforcement agencies.”
+Subsec. (a)(2). Pub. L. 105–119, §115(a)(1)(B), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “A determination that a person is a sexually violent predator and a determination that a person is no longer a sexually violent predator shall bemade by the sentencing court after receiving a report by a State board composed of experts in the field of the behavior and treatment of sexual offenders, victim rights advocates, and representatives from law enforcement agencies.”
 
 Subsec. (a)(3)(A). Pub. L. 105–119, §115(a)(1)(C)(i), substituted “in a range of offenses specified by State law which is comparable to or which exceeds the following range of offenses:” for “that consists of—” in introductory provisions.
 
@@ -325,6 +325,10 @@ Section 9 of Pub. L. 104–236 provided that: “Not later than 1 year after the
 #### Severability
 
 Section 11 of Pub. L. 104–236 provided that: “If any provision of this Act \[see Effective Date of 1996 Amendment note above\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
+
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
 
 #### Study of Sex Offender Management Assistance Program
 

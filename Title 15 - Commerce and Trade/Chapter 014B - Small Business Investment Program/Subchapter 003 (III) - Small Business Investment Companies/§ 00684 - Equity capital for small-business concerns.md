@@ -18,7 +18,7 @@ Before any capital is provided to a small-business concern under this section—
 
 Equity capital provided to incorporated small business concerns under this section may be provided directly or in cooperation with other investors, incorporated or unincorporated, through agreements to participate on an immediate basis.
 
-(Pub. L. 85–699, title III, §304, Aug. 21, 1958, 72 Stat. 693; Pub. L. 86–502, §6, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §5, Oct. 3, 1961, 75 Stat. 752; Pub. L. 90–104, title II, §206, Oct. 11, 1967, 81 Stat. 271; Pub. L. 92–595, §2(e), Oct. 27, 1972, 86 Stat. 1316.)
+(Pub. L. 85–699, title III, §304, Aug. 21, 1958, 72 Stat. 693; Pub. L. 86–502, §6, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §5, Oct. 3, 1961, 75 Stat. 752; Pub. L. 90–104, title II, §206, Oct. 11, 1967, 81Stat. 271; Pub. L. 92–595, §2(e), Oct. 27, 1972, 86 Stat. 1316.)
 
 #### Amendments
 

@@ -150,7 +150,7 @@ For purposes of this section—
 
 &emsp;&emsp;Except as provided in subparagraph (B), the term “top-heavy plan” means, with respect to any plan year—
 
-&emsp;&emsp;&emsp;(i) any defined benefit plan if, as of the determination date, the present value of the cumulative accrued benefits under the plan for key employees exceeds 60 percentof the present value of the cumulative accrued benefits under the plan for all employees, and
+&emsp;&emsp;&emsp;(i) any defined benefit plan if, as of the determination date, the present value of the cumulative accrued benefits under the plan for key employees exceeds 60 percent of the present value of the cumulative accrued benefits under the plan for all employees, and
 
 &emsp;&emsp;&emsp;(ii) any defined contribution plan if, as of the determination date, the aggregate of the accounts of key employees under the plan exceeds 60 percent of the aggregate of the accounts of all employees under such plan.
 
@@ -238,45 +238,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “top-heavy plan” shall not include a simple retirement account under section 408(p).
 
-#### (h) Adjustments in section 415 limits for top-heavy plans
-
-#### (1) In general
-
-&emsp;In the case of any top-heavy plan, paragraphs (2)(B) and (3)(B) of section 415(e) shall be applied by substituting “1.0” for “1.25”.
-
-#### (2) Exception where benefits for key employees do not exceed 90 percent of total benefits and additional contributions are made for non-key employees
-
-&emsp;Paragraph (1) shall not apply with respect to any top-heavy plan if the requirements of subparagraphs (A) and (B) of this paragraph are met with respect to such plan.
-
-#### (A) Minimum benefit requirements
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;The requirements of this subparagraph are met with respect to any top-heavy plan if such plan (and any plan required to be included in an aggregation group with such plan) meets the requirements of subsection (c) as modified by clause (ii).
-
-#### (ii) Modifications
-
-&emsp;&emsp;&emsp;For purposes of clause (i)—
-
-&emsp;&emsp;&emsp;&emsp;(I) paragraph (1)(B) of subsection (c) shall be applied by substituting “3 percent” for “2 percent”, and by increasing (but not by more than 10 percentage points) 20 percent by 1 percentage point for each year for which such plan was taken into account under this subsection, and
-
-&emsp;&emsp;&emsp;&emsp;(II) paragraph (2)(A) shall be applied by substituting “4 percent” for “3 percent”.
-
-#### (B) Benefits for key employees cannot exceed 90 percent of total benefits
-
-&emsp;&emsp;A plan meets the requirements of this subparagraph if such plan would not be a top-heavy plan if “90 percent” were substituted for “60 percent” each place it appears in paragraphs (1)(A) and (2)(B) of subsection (g).
-
-#### (3) Transition rule
-
-&emsp;If, but for this paragraph, paragraph (1) would begin to apply with respect to any top-heavy plan, the application of paragraph (1) shall be suspended with respect to any individual so long as there are no—
-
-&emsp;&emsp;(A) employer contributions, forfeitures, or voluntary nondeductible contributions allocated to such individual, or
-
-&emsp;&emsp;(B) accruals for such individual under the defined benefit plan.
-
-#### (4) Coordination with transitional rule under section 415
-
-&emsp;In the case of any top-heavy plan to which paragraph (1) applies, section 415(e)(6)(B)(i) <sup>1</sup> shall be applied by substituting “$41,500” for “$51,875”.
+#### \[(h) Repealed. Pub. L. 104–188, title I, §1452(c)(7), Aug. 20, 1996, 110 Stat. 1816\]
 
 #### (i) Definitions
 
@@ -360,21 +322,17 @@ For purposes of this section—
 
 (Added Pub. L. 97–248, title II, §240(a), Sept. 3, 1982, 96 Stat. 514; amended Pub. L. 98–369, div. A, title V, §524(a)(1), (b)(1), (c)(1), title VII, §713(f)(1), (4), (5)(A), (6), July 18, 1984, 98 Stat. 872, 958–960; Pub. L. 99–514, title XI, §§1106(d)(3)(A), (B), 1118(a), title XVIII, §1852(d), Oct. 22, 1986, 100 Stat. 2424, 2463, 2867; Pub. L. 100–647, title I, §1011(d)(8), (i)(4)(B), (j)(3)(A), Nov. 10, 1988, 102 Stat. 3460, 3467, 3468; Pub. L. 104–188, title I, §§1421(b)(7), 1431(c)(1)(B), (C), 1452(c)(7), Aug. 20, 1996, 110 Stat. 1797, 1803, 1816.)
 
-#### Repeal of Subsection (h)
-
-<i>Pub. L. 104–188, title I, §1452(c)(7), (d), Nov. 20, 1996, 110 Stat. 1816, provided that, applicable to limitation years beginning after Dec. 31, 1999, subsection (h) of this section is repealed.</i>
-
 #### References in Text
 
 The Federal Insurance Contributions Act, referred to in subsec. (e), is act Aug. 16, 1954, ch. 736, §§3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see section 3128 of this title and Tables.
 
 The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 415(e)(6)(B)(i), referred to in subsec. (h)(4), was redesignated section 415(e)(7)(B)(i) of this title by Pub. L. 105–34, title XV, §1530(c)(4)(A), Aug. 5, 1997, 111 Stat. 1078.
-
 #### Amendments
 
 1996—Subsec. (g)(4)(G). Pub. L. 104–188, §1421(b)(7), added subpar. (G).
+
+Subsec. (h). Pub. L. 104–188, §1452(c)(7), struck out subsec. (h) which related to adjustments in section 415 limits for top-heavy plans.
 
 Subsec. (i)(1)(A). Pub. L. 104–188, §1431(c)(1)(C), substituted “section 414(q)(5)” for “section 414(q)(8)” in closing provisions.
 
@@ -466,7 +424,7 @@ Allowance of Exclusion of Death Benefit for Self-Employed Individuals.—The ame
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L.104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -475,6 +433,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 45A, 72, 79, 125, 280F, 401, 408, 414, 415, 419A, 420, 469, 1396 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

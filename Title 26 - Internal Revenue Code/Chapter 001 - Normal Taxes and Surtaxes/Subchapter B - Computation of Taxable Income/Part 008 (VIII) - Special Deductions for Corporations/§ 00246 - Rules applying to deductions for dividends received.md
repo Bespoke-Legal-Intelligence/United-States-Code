@@ -74,7 +74,7 @@
 
 &emsp;&emsp;(A) first separately with respect to dividends from 20-percent owned corporations (as defined in section 243(c)(2)) and the percentage determined under this paragraph shall be 80 percent, and
 
-&emsp;&emsp;(B) then separately with respect to dividends not from 20-percent owned corporations and the percentage determined underthis paragraph shall be 70 percent and the taxable income shall be reduced by the aggregate amount of dividends from 20-percent owned corporations (as so defined).
+&emsp;&emsp;(B) then separately with respect to dividends not from 20-percent owned corporations and the percentage determined under this paragraph shall be 70 percent and the taxable income shall be reduced by the aggregate amount of dividends from 20-percent owned corporations (as so defined).
 
 #### (c) Exclusion of certain dividends
 
@@ -116,7 +116,7 @@
 
 #### (d) Dividends from a DISC or former DISC
 
-No deduction shall be allowed under section 243 in respect of a dividend from a corporation which is a DISC or former DISC (as defined in section 992(a)) to the extent such dividend is paid out of the corporation's accumulated DISC income or previously taxed income, or is a deemed distribution pursuant to section 995(b)(1).
+No deduction shall be allowed under section 243 in respect of a dividend from a corporationwhich is a DISC or former DISC (as defined in section 992(a)) to the extent such dividend is paid out of the corporation's accumulated DISC income or previously taxed income, or is a deemed distribution pursuant to section 995(b)(1).
 
 #### (e) Certain distributions to satisfy requirements
 

@@ -28,7 +28,7 @@ There is hereby imposed a tax on—
 
 #### (A) In general
 
-&emsp;&emsp;The amount of the tax imposed by subsection (a) on any imported taxable product shall be the amount of tax which would have been imposed by subsection (a) on the ozone-depleting chemicals used as materials in the manufacture or production of such product if such ozone-depleting chemicals had been sold in the United States on the date of the sale of such imported taxable product.
+&emsp;&emsp;The amount of the tax imposed by subsection (a) on any imported taxable product shall be the amount of tax which would have been imposed by subsection (a) on the ozone-depleting chemicals used as materials in the manufacture or production of such product if such ozone-depleting chemicals had beensold in the United States on the date of the sale of such imported taxable product.
 
 #### (B) Certain rules to apply
 

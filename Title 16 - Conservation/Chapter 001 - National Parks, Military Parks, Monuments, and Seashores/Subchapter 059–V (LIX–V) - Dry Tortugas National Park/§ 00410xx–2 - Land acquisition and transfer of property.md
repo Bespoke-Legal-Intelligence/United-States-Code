@@ -10,7 +10,7 @@ When all or any substantial portion of lands under the administration of the Uni
 
 #### (c) Administrative site
 
-The Secretary is authorized to lease or to acquire, by purchase, donation, or exchange, andto operate incidental administrative and support facilities in Key West, Florida, for park administration and to further the purposes of this subchapter.
+The Secretary is authorized to lease or to acquire, by purchase, donation, or exchange, and to operate incidental administrative and support facilities in Key West, Florida, for park administration and to further the purposes of this subchapter.
 
 (Pub. L. 102–525, title II, §203, Oct. 26, 1992, 106 Stat. 3440.)
 

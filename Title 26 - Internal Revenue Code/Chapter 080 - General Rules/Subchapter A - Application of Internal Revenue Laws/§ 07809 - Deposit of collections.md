@@ -72,7 +72,7 @@ Subsec. (c). Pub. L. 87–870, §3(b)(2), added subsec. (c).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–690 applicable to information first provided more than 90 days after Nov. 18, 1988,see section 7602(e) of Pub. L. 100–690, set out as a note under section 6103 of this title.
+Amendment by Pub. L. 100–690 applicable to information first provided more than 90 days after Nov. 18, 1988, see section 7602(e) of Pub. L. 100–690, set out as a note under section 6103 of this title.
 
 #### Effective Date of 1976 Amendments
 

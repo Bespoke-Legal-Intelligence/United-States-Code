@@ -12,5 +12,5 @@ The Secretary of Energy may deny access to information provided to the Board to 
 
 &emsp;(2) does not need such access in connection with the duties of such person.
 
-(Aug. 1, 1946, ch. 724, title I, §314, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2080; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §314, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29,1988, 102 Stat. 2080; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 

@@ -1,6 +1,6 @@
 ### §2771. Final settlement of accounts: deceased members
 
-(a) In the settlement of the accounts of a deceased member of the armed forces, an amountdue from the armed force of which he was a member shall be paid to the person highest on the following list living on the date of death:
+(a) In the settlement of the accounts of a deceased member of the armed forces, an amount due from the armed force of which he was a member shall be paid to the person highest on the following list living on the date of death:
 
 &emsp;(1) Beneficiary designated by him in writing to receive such an amount, if the designation is received, before the deceased member's death, at the place named in regulations to be prescribed by the Secretary concerned.
 
@@ -114,7 +114,7 @@ In subsection (c), the word “Under” is substituted for the words “Subject 
 
 1993—Subsec. (a). Pub. L. 103–160, §1182(a)(11)(A), struck out “who dies after December 31, 1955” after “armed forces” in introductory provisions.
 
-Subsec. (b). Pub. L. 103–160, §1182(a)(11)(B), substituted “for the uniformed services” for “for the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service”.
+Subsec. (b). Pub. L. 103–160, §1182(a)(11)(B), substituted “for the uniformed services” for “for thearmed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service”.
 
 1980—Subsec. (b). Pub. L. 96–513, §511(97)(A), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 

@@ -24,7 +24,7 @@ The breeder of any sexually reproduced or tuber propagated plant variety (other 
 
 #### (1) In general
 
-&emsp;If 2 or more applicants submit applications on the same effective filing date for varietiesthat cannot be clearly distinguished from one another, but that fulfill all other requirements of subsection (a) of this section, the applicant who first complies with all requirements of this chapter shall be entitled to a certificate of plant variety protection, to the exclusion of any other applicant.
+&emsp;If 2 or more applicants submit applications on the same effective filing date for varieties that cannot be clearly distinguished from one another, but that fulfill all other requirements of subsection (a) of this section, the applicant who first complies with all requirements of this chapter shall be entitled to a certificate of plant variety protection, to the exclusion of any other applicant.
 
 #### (2) Requirements completed on same date
 
@@ -40,7 +40,7 @@ The breeder of any sexually reproduced or tuber propagated plant variety (other 
 
 #### Amendments
 
-1996—Subsec. (a)(1)(B)(i). Pub. L. 104–127 inserted “, except that in the case of a tuber propagated plant variety the Secretary may waive the 4-year limitation for a period ending 1 year after April 4, 1996” after “filing”.
+1996—Subsec. (a)(1)(B)(i). Pub. L. 104–127 inserted “, except that in the case of a tuber propagated plantvariety the Secretary may waive the 4-year limitation for a period ending 1 year after April 4, 1996” after “filing”.
 
 1994—Pub. L. 103–349 amended section generally, substituting present provisions for substantially similar former provisions.
 

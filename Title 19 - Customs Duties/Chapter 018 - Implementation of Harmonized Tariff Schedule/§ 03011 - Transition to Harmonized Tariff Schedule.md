@@ -64,7 +64,7 @@
 
 &emsp;(B) entries made on or after January 1, 1989, if, notwithstanding section 1514 of this title, application for liquidation or reliquidation thereof is made by the importer to the customs officer concerned within 180 days after the effective date of such proclamation.
 
-(4) If any protest or petition referred to in paragraph (1)(A) is not sustained in whole or in part by a final judicial decision, the entries subject to that petition or protest and made before January 1, 1989, shall be liquidated or reliquidated, as appropriate, in accordance with the final judicial decision under the old Schedules.
+(4) If any protest or petition referred to in paragraph (1)(A) is not sustained in whole or in part by a final judicial decision, the entries subject to that petition or protest and made beforeJanuary 1, 1989, shall be liquidated or reliquidated, as appropriate, in accordance with the final judicial decision under the old Schedules.
 
 (Pub. L. 100–418, title I, §1211, Aug. 23, 1988, 102 Stat. 1153; Pub. L. 104–188, title I, §1954(a)(1), Aug. 20, 1996, 110 Stat. 1927.)
 

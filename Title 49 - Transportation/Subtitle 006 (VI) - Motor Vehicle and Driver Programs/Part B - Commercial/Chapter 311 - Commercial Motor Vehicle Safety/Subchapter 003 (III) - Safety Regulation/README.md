@@ -26,3 +26,4 @@ This subchapter is referred to in sections 507, 521, 526 of this title.
 - [&sect; 31145 - Coordination of Governmental activities and paperwork](%C2%A7%2031145%20-%20Coordination%20of%20Governmental%20activities%20and%20paperwork.md)
 - [&sect; 31146 - Relationship to other laws](%C2%A7%2031146%20-%20Relationship%20to%20other%20laws.md)
 - [&sect; 31147 - Limitations on authority](%C2%A7%2031147%20-%20Limitations%20on%20authority.md)
+- [&sect; 31148 - Certified motor carrier safety auditors](%C2%A7%2031148%20-%20Certified%20motor%20carrier%20safety%20auditors.md)

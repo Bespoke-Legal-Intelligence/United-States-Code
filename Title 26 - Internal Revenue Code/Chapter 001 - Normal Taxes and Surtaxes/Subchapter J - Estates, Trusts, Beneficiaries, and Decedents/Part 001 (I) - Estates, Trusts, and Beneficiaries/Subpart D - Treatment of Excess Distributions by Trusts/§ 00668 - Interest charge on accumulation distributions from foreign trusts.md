@@ -36,7 +36,7 @@ For purposes of the tax determined under section 667(a)—
 
 #### (4) Undistributed income year
 
-&emsp;For purposes of this subsection, the term “undistributed income year” means any prior taxable year of the trust for which there is undistributed net income, other than a taxable year during all of which the beneficiary receiving the distribution was not a citizen or resident of the United States.
+&emsp;For purposes of this subsection, the term “undistributed income year” means any priortaxable year of the trust for which there is undistributed net income, other than a taxable year during all of which the beneficiary receiving the distribution was not a citizen or resident of the United States.
 
 #### (5) Determination of undistributed net income
 
@@ -62,7 +62,7 @@ The interest charge determined under this section shall not be allowed as a dedu
 
 #### Prior Provisions
 
-A prior section 668, acts Aug. 16, 1954, ch. 736, 68A Stat. 225; Oct. 16, 1962, Pub. L. 87–834, §7(d), 76 Stat. 986; Dec. 30, 1969, Pub. L. 91–172, title III, §331(a), 83 Stat. 594, related to treatment of amounts deemed distributed in preceding years, prior to repeal by Pub. L.94–455, title VII, §701(a)(3), Oct. 4, 1976, 90 Stat. 1577. See section 667 of this title.
+A prior section 668, acts Aug. 16, 1954, ch. 736, 68A Stat. 225; Oct. 16, 1962, Pub. L. 87–834, §7(d), 76 Stat. 986; Dec. 30, 1969, Pub. L. 91–172, title III, §331(a), 83 Stat. 594, related to treatment of amounts deemed distributed in preceding years, prior to repeal by Pub. L. 94–455, title VII, §701(a)(3), Oct. 4, 1976, 90 Stat. 1577. See section 667 of this title.
 
 #### Amendments
 

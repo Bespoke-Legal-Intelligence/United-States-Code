@@ -10,7 +10,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;(3) Renewable resource protection research shall include, as appropriate, research activities related to protecting vegetation and other forest and rangeland resources, including threatened and endangered flora and fauna, as well as wood and wood products in storage or use, from fires, insects, diseases, noxious plants, animals, air pollutants, and other agents through biological, chemical, and mechanical control methods and systems; and protecting people, natural resources, and property from fires in rural areas.
 
-&emsp;(4) Renewable resource utilization research shall include, as appropriate, research activities related to harvesting, transporting, processing, marketing, distributing, and utilizing wood and other materials derived from forest and rangeland renewable resources; recycling and fully utilizing wood fiber; producing and conserving energy; and testing forest products, including necessary fieldwork associated therewith.
+&emsp;(4) Renewable resource utilization research shall include, as appropriate, research activities related to harvesting, transporting, processing, marketing, distributing, and utilizing wood and other materials derived from forest and rangeland renewable resources; recycling and fully utilizing wood fiber; producing andconserving energy; and testing forest products, including necessary fieldwork associated therewith.
 
 &emsp;(5) Renewable resource assessment research shall include, as appropriate, research activities related to developing and applying scientific knowledge and technology in support of the survey and analysis of forest and rangeland renewable resources described in subsection (b) of this section.
 
@@ -32,7 +32,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;(D) study the relationship between atmospheric pollution and other climatological, chemical, physical, and biological factors that may affect the health and productivity of domestic forest ecosystems;
 
-&emsp;(E) develop recommendations for solving or mitigating problems related to the effects ofatmospheric pollution on the health and productivity of domestic forest ecosystems;
+&emsp;(E) develop recommendations for solving or mitigating problems related to the effects of atmospheric pollution on the health and productivity of domestic forest ecosystems;
 
 &emsp;(F) foster cooperation among Federal, State, and private researchers and encourage the exchange of scientific information on the effects of atmospheric pollutants on forest ecosystems among the United States, Canada, European nations, and other nations;
 
@@ -60,7 +60,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;&emsp;(i) updating information about declining health and productivity of forest ecosystems on public and private lands in North America and Europe;
 
-&emsp;&emsp;(ii) updating the findings and status of all current research and monitoring efforts in North America and Europe on the causes and effects of atmospheric pollution on the health and productivity of forest ecosystems, including efforts conducted under the Program;
+&emsp;&emsp;(ii) updating the findings and status of all current research and monitoring efforts in North America and Europe on the causes and effects of atmospheric pollution on thehealth and productivity of forest ecosystems, including efforts conducted under the Program;
 
 &emsp;&emsp;(iii) recommending additional research and monitoring efforts to be undertaken under the Program to determine the effects of atmospheric pollution on the health and productivity of domestic forest ecosystems; and
 
@@ -198,22 +198,6 @@ Subsec. (a)(4). Pub. L. 96–294, §254(2), inserted applicability to producing 
 
 Amendment by Pub. L. 105–277 effective June 23, 1998, see section 101(a) \[title VII, §753(f)\] of Pub. L. 105–277, set out as a note under section 343 of Title 7, Agriculture.
 
-#### Hardwood Technology Transfer and Applied Research
-
-Pub. L. 105–277, div. A, §101(e) \[title III, §343\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–297, provided that:
-
-“(a) The Secretary of Agriculture (hereinafter the ‘Secretary’) is hereby authorized to conduct technology transfer and development, training, dissemination of information and applied research in the management, processing and utilization of the hardwood forest resource. This authority is in addition to any other authorities which may be available to the Secretary including, but not limited to, the Cooperative Forestry Assistance Act of 1978, as amended (16 U.S.C. 2101 et. seq.), and the Forest and Rangeland Renewable Resources Act of 1978, as amended (16 U.S.C. 1600–1614).
-
-“(b) In carrying out this authority, the Secretary may enter into grants, contracts, and cooperative agreements with public and private agencies, organizations, corporations, institutions and individuals. The Secretary may accept gifts and donations pursuant to the Act of October 10, 1978 (7 U.S.C. 2269) including gifts and donations from a donor that conducts business with any agency of the Department of Agriculture or is regulated by the Secretary of Agriculture.
-
-“(c) The Secretary is authorized, on such terms and conditions as the Secretary may prescribe, to assume all rights, title, and interest, including all outstanding assets, of the Robert C. Byrd Hardwood Technology Center, Inc. (hereinafter the ‘Center’), a non-profit corporation existing under the laws of the State of West Virginia: <i>Provided</i>, That the Board of Directors of the Center requests such an action and dissolves the corporation consistent with the Articles of Incorporation and the laws of the State of West Virginia.
-
-“(d) The Secretary is authorized to operate and utilize the assets of the Center as part of a newly formed ‘Institute of Hardwood Technology Transfer and Applied Research’ (hereinafter the ‘Institute’). The Institute, in addition to the Center, will consist of a Director, technology transfer specialists from State and Private Forestry, the Forestry Sciences Laboratory in Princeton, West Virginia, and any other organizational unit of the Department of Agriculture as the Secretary deems appropriate. The overall management of the Institute will be the responsibility of the USDA Forest Service, State and Private Forestry.
-
-“(e) The Secretary is authorized to generate revenue using the authorities provided herein. Any revenue received as part of the operation of the Institute shall be deposited into a special fund in the Treasury of the United States, known as the ‘Hardwood Technology Transfer and Applied Research Fund’, which shall be available to the Secretary until expended, without further appropriation, in furtherance of the purposes of this section, including upkeep, management, and operation of the Institute and the payment of salaries and expenses.
-
-“(f) There are hereby authorized to be appropriated such sums as necessary to carry out the provisions of this section.”
-
 #### Southern Forest Regeneration Program
 
 Section 1242 of Pub. L. 101–624 provided that:
@@ -304,5 +288,5 @@ Section 2 of Pub. L. 100–521 provided that: “Congress finds that—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1644, 1648 of this title; title 42 section 8852.
+This section is referred to in sections 1644, 1648 of this title; title 7 section 2276; title 42 section 8852.
 

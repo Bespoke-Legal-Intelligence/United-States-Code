@@ -6,23 +6,25 @@
 
 (c)(1) An eligible person shall not be entitled to adaptive equipment under this chapter for more than two automobiles or other conveyances at any one time or (except as provided in paragraph (2) of this subsection) during any four-year period.
 
-(2) In a case in which the four-year limitation in paragraph (1) of this subsection precludes an eligible person from being entitled to adaptive equipment under this chapter, if the Secretary determines that, due to circumstances beyond the control of such person, one of the automobiles or other conveyances for which adaptive equipment was provided to such person during the applicable four-year period is no longer available for the use of such person, the Secretary may provide adaptive equipment to such person for an additional automobile or other conveyance during such period. Provision of adaptive equipment under this paragraph is within the discretion of the Secretary. Any action to provide adaptive equipment under this paragraph shall be made pursuant to regulations which the Secretary shall prescribe.
+(2) In a case in which the four-year limitation in paragraph (1) of this subsection precludes an eligible person from being entitled to adaptive equipment under this chapter, if the Secretary determines that, due to circumstances beyond the control of such person, one of the automobiles or other conveyances for which adaptive equipment was provided to such person during the applicable four-year period is no longer available for the use of such person, the Secretary may provide adaptive equipment to suchperson for an additional automobile or other conveyance during such period. Provision of adaptive equipment under this paragraph is within the discretion of the Secretary. Any action to provide adaptive equipment under this paragraph shall be made pursuant to regulations which the Secretary shall prescribe.
 
 (d) Adaptive equipment shall not be provided under this chapter unless it conforms to minimum standards of safety and quality prescribed by the Secretary.
 
 (e)(1) The Secretary shall provide, directly or by contract, for the conduct of special driver training courses at every hospital and, where appropriate, at regional offices and other medical facilities, of the Department to instruct such eligible person to operate the type of automobile or other conveyance such person wishes to obtain with assistance under this chapter, and may make such courses available to any veteran, eligible for care under chapter 17 of this title or member of the Armed Forces, who is determined by the Secretary to need the special training provided in such courses even though such veteran or member is not eligible for the assistance provided under this chapter.
 
-(2) The Secretary is authorized to obtain insurance on automobiles and other conveyances (not owned by the Government) used in conducting the special driver training courses provided under this subsection and to obtain, at Government expense, personal liability and property damage insurance for all persons taking such courses without regard to whether such persons are taking the course on an in-patient or out-patient basis.
+(2) The Secretary is authorized to obtain insurance on automobiles and other conveyances used in conducting the special driver training courses provided under this subsection and to obtain, at Government expense, personal liability and property damage insurance for all persons taking such courses without regard to whether such persons are taking the course on an in-patient or out-patient basis.
 
 (3) Notwithstanding any other provision of law, the Secretary may obtain, by purchase, lease, gift, or otherwise, any automobile, motor vehicle, or other conveyance deemed necessary to carry out the purposes of this subsection, and may sell, assign, transfer, or convey any such automobile, vehicle, or conveyance to which the Department obtains title for such price and upon such terms as the Secretary deems appropriate; and any proceeds received from any such disposition shall be credited to the applicable Department appropriation.
 
-(Added Pub. L. 91–666, §2(a), Jan. 11, 1971, 84 Stat. 2000, §1903; amended Pub. L. 93–538, §4(a), (b), Dec. 22, 1974, 88 Stat. 1736, 1737; Pub. L. 94–581, title I, §108, Oct. 21, 1976, 90 Stat. 2847; Pub. L. 97–66, title III, §303, Oct. 17, 1981, 95 Stat. 1030; Pub. L. 98–543, title III, §305(b), Oct. 24, 1984, 98 Stat. 2748; renumbered §3903 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 91–666, §2(a), Jan. 11, 1971, 84 Stat. 2000, §1903; amended Pub. L. 93–538, §4(a), (b), Dec. 22, 1974, 88 Stat. 1736, 1737; Pub. L. 94–581, title I, §108, Oct. 21, 1976, 90 Stat. 2847; Pub. L. 97–66, title III, §303, Oct. 17, 1981, 95 Stat. 1030; Pub. L. 98–543, title III, §305(b), Oct. 24, 1984, 98 Stat. 2748; renumbered §3903 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 106–117, title VIII, §804, Nov. 30, 1999, 113 Stat. 1586.)
 
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in former sections 1902 and 1904 of this title prior to the general revision of this chapter by Pub. L. 91–666.
 
 #### Amendments
+
+1999—Subsec. (e)(2). Pub. L. 106–117 struck out “(not owned by the Government)” after “automobiles and other conveyances”.
 
 1991—Pub. L. 102–83, §5(a), renumbered section 1903 of this title as this section.
 

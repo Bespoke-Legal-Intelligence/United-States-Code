@@ -100,7 +100,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 &emsp;(G) establishes procedures to assure public access to information relating to such activities;
 
-&emsp;(H) provides that such grant recipient will make reports to the Chairperson, in such form, at such times, and containing such information, as the Chairperson may require, including a description of the progress made toward achieving the goals of the plan;
+&emsp;(H) provides that such grant recipient will make reports to the Chairperson, in such form,at such times, and containing such information, as the Chairperson may require, including a description of the progress made toward achieving the goals of the plan;
 
 &emsp;(I) provides—
 
@@ -118,7 +118,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 > No application may be approved unless the accompanying plan satisfies the requirements specified in this subsection.
 
-(4) Of the sums available to carry out this subsection for any fiscal year, each State and each grant recipient which has a plan approved by theChairperson shall be allotted at least $200,000. If the sums appropriated are insufficient to make the allotments under the preceding sentence in full, such sums shall be allotted among such States and grant recipients in equal amounts. In any case where the sums available to carry out this subsection for any fiscal year are in excess of the amount required to make the allotments under the first sentence of this paragraph—
+(4) Of the sums available to carry out this subsection for any fiscal year, each State and each grant recipient which has a plan approved by the Chairperson shall be allotted at least $200,000. If the sums appropriated are insufficient to make the allotments under the preceding sentence in full, such sums shall be allotted among such States and grant recipients in equal amounts. In any case where the sums available to carry out this subsection for any fiscal year are in excess of the amount required to make the allotments under the first sentence of this paragraph—
 
 &emsp;(A) 34 per centum of the amount of such excess for such fiscal year shall be available to the Chairperson for making grants under this subsection to States and regional groups and entities applying for such grants;
 
@@ -254,7 +254,7 @@ Subsecs. (<i>l</i>), (m). Pub. L. 101–512, §318 \[title I, §107(h)\], added 
 
 1985—Subsec. (b). Pub. L. 99–194, §107(1), (5), substituted “chairperson” for “chairman” in par. (1), and in par. (2), substituted “Chairperson” for “Chairman” and “the Chairperson's” for “his” wherever appearing.
 
-Subsec. (c). Pub. L. 99–194, §107(2), (5), substituted “Chairperson” for “Chairman” wherever appearing, substituted “workshops” for “workships” in cl. (3), added cls. (4) and (5) and redesignated existing cls. (4) to (7) as (6) to (9), respectively, substituted “clause (8)” for “clause (6)” in second sentence, and inserted at end “In selecting individuals and groups of exceptional talent as recipients of financial assistance to be provided under this subsection, the Chairperson shall give particular regard to scholars, and educational and cultural institutions, that have traditionally been underrepresented.”
+Subsec. (c). Pub. L. 99–194, §107(2), (5), substituted “Chairperson” for “Chairman” wherever appearing, substituted “workshops” for “workships” in cl. (3), added cls. (4) and (5) and redesignated existing cls. (4) to (7) as (6) to (9), respectively, substituted “clause (8)” for “clause (6)” in second sentence, and inserted at end “In selecting individuals and groups of exceptional talent as recipients of financial assistance to be providedunder this subsection, the Chairperson shall give particular regard to scholars, and educational and cultural institutions, that have traditionally been underrepresented.”
 
 Subsec. (d). Pub. L. 99–194, §107(5), substituted “Chairperson” for “Chairman”.
 
@@ -268,7 +268,7 @@ Subsecs. (j) to (<i>l</i>). Pub. L. 99–194, §107(6), added subsecs. (j) to (<
 
 1980—Subsec. (c). Pub. L. 96–496, §109(c), substituted “Committee on Labor and Human Resources” for “Committee on Labor and Public Welfare” in last sentence.
 
-Subsec. (f)(2). Pub. L. 96–496, §104(a)(1), substituted provisions relating to the designation of State humanities councils as State administrative agencies, requiring matching State funding and submission by Stateswishing to designate administrative State agencies of grant applications and accompanying administrative plans, and prescribing a grant recipient application procedure for provisions requiring entities desiring to receive financial assistance under this subsection to submit grant applications and accompanying administrative plans.
+Subsec. (f)(2). Pub. L. 96–496, §104(a)(1), substituted provisions relating to the designation of State humanities councils as State administrative agencies, requiring matching State funding and submission by States wishing to designate administrative State agencies of grant applications and accompanying administrative plans, and prescribing a grant recipient application procedure for provisions requiring entities desiring to receive financial assistance under this subsection to submit grant applications and accompanying administrative plans.
 
 Subsec. (f)(3). Pub. L. 96–496, §104(a)(2), substituted provisions requiring entities desiring to receive financial assistance under this subsection to submit grant applications and accompanying administrative plans for provisions relating to the appointment of grant recipient members.
 

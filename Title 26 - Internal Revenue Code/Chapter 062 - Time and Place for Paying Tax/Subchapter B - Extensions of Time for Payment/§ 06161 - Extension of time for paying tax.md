@@ -14,13 +14,13 @@
 
 &emsp;&emsp;(B) any part of any installment under section 6166 (including any part of a deficiency prorated to any installment under such section).
 
-> &emsp;for a reasonable period not in excess of 10 years from the date prescribed by section6151(a) for payment of the tax (or, in the case of an amount referred to in subparagraph (B), if later, not beyond the date which is 12 months after the due date for the last installment).
+> &emsp;for a reasonable period not in excess of 10 years from the date prescribed by section 6151(a) for payment of the tax (or, in the case of an amount referred to in subparagraph (B), if later, not beyond the date which is 12 months after the due date for the last installment).
 
 #### (b) Amount determined as deficiency
 
 #### (1) Income, gift, and certain other taxes
 
-&emsp;Under regulations prescribed by the Secretary, the Secretary may extend the time for the payment of the amount determined as a deficiency of a tax imposed by chapter 1, 12, 41, 42, 43, or 44 for a period not to exceed 18 months from the date fixed for the payment of the deficiency, and in exceptional cases, for a further period not to exceed 12 months. An extension under this paragraph may be granted only where it is shown to the satisfaction of the Secretary that payment of a deficiency upon the date fixed for the payment thereof will result in undue hardship to the taxpayer in the case of a tax imposed by chapter 1, 41, 42, 43, or 44, or to the donor in the case of a tax imposed by chapter 12.
+&emsp;Under regulations prescribed by the Secretary, the Secretary may extend the time for the payment of the amount determined as a deficiency of a tax imposed by chapter 1, 12, 41, 42, 43, or 44 for a period not to exceed 18 months from the date fixed for the payment of the deficiency, and in exceptional cases, for a further period not to exceed 12 months. An extension under this paragraph may be granted only where it is shown to the satisfaction of the Secretary that payment of a deficiency upon the date fixed for the payment thereofwill result in undue hardship to the taxpayer in the case of a tax imposed by chapter 1, 41, 42, 43, or 44, or to the donor in the case of a tax imposed by chapter 12.
 
 #### (2) Estate tax
 

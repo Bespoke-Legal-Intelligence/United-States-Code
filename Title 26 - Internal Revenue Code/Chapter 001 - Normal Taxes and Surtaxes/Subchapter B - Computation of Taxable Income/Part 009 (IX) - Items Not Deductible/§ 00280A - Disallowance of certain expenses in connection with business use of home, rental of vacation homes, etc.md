@@ -64,7 +64,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 &emsp;&emsp;&emsp;(ii) the deductions allocable to the trade or business (or rental activity) in which such use occurs (but which are not allocable to such use) for such taxable year.
 
-> &emsp;Any amount not allowable as a deduction under this chapter by reason of the preceding sentence shall be taken into account as a deduction (allocable to such use) under this chapter for the succeeding taxable year. Any amount taken into account for any taxable year under the preceding sentence shall be subject to the limitation of the 1st sentence of this paragraph whether or not the dwelling unit is used as a residence during such taxable year.
+> &emsp;Any amount not allowable as a deduction under this chapter by reason of the preceding sentence shall be taken into account as a deduction (allocable to such use) under this chapter for the succeeding taxable year. Any amount taken into account for any taxable year under the preceding sentence shall besubject to the limitation of the 1st sentence of this paragraph whether or not the dwelling unit is used as a residence during such taxable year.
 
 #### (6) Treatment of rental to employer
 
@@ -146,7 +146,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 #### (1) In general
 
-&emsp;In any case where a taxpayer who is an individual or an S corporation uses a dwelling unit for personal purposes on any day during the taxable year (whether or not he is treated under this section as using such unit as a residence), the amount deductible under this chapter with respect to expenses attributable to the rental of the unit (or portion thereof) for the taxable year shall not exceed an amount which bears the same relationship to such expenses as the number of days during each year that the unit (or portion thereof) is rented at a fair rental bears to the total number of days during such year that the unit (or portion thereof) is used.
+&emsp;In any case where a taxpayer who is an individual or an S corporation uses a dwelling unitfor personal purposes on any day during the taxable year (whether or not he is treated under this section as using such unit as a residence), the amount deductible under this chapter with respect to expenses attributable to the rental of the unit (or portion thereof) for the taxable year shall not exceed an amount which bears the same relationship to such expenses as the number of days during each year that the unit (or portion thereof) is rented at a fair rental bears to the total number of days during such year that the unit (or portion thereof) is used.
 
 #### (2) Exception for deductions otherwise allowable
 
@@ -190,7 +190,7 @@ Notwithstanding any other provision of this section or section 183, if a dwellin
 
 &emsp;(2) the income derived from such use for the taxable year shall not be included in the gross income of such taxpayer under section 61.
 
-(Added Pub. L. 94–455, title VI, §601(a), Oct. 4, 1976, 90 Stat. 1569; amended Pub. L. 95–30, title III, §306(a), (b), May 23, 1977, 91 Stat. 152, 153; Pub. L. 95–600, title VII, §701(h)(1), Nov. 6, 1978, 92 Stat. 2904; Pub. L. 97–119, title I, §113(a)–(d), Dec. 29, 1981, 95 Stat. 1641, 1642; Pub. L. 97–216, title II, §215(b), July 18, 1982, 96 Stat. 194; Pub. L. 97–354, §5(a)(26), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 99–514, title I, §143(b), (c), Oct. 22, 1986, 100Stat. 2120; Pub. L. 100–647, title I, §1001(h)(1), (2), Nov. 10, 1988, 102 Stat. 3352; Pub. L. 104–188, title I, §§1113(a), 1704(t)(39), Aug. 20, 1996, 110 Stat. 1759, 1889; Pub. L. 105–34, title III, §312(d)(1), title IX, §932(a), Aug. 5, 1997, 111 Stat. 839, 881.)
+(Added Pub. L. 94–455, title VI, §601(a), Oct. 4, 1976, 90 Stat. 1569; amended Pub. L. 95–30, title III, §306(a), (b), May 23, 1977, 91 Stat. 152, 153; Pub. L. 95–600, title VII, §701(h)(1), Nov. 6, 1978, 92 Stat. 2904; Pub. L. 97–119, title I, §113(a)–(d), Dec. 29, 1981, 95 Stat. 1641, 1642; Pub. L. 97–216, title II, §215(b), July 18, 1982, 96 Stat. 194; Pub. L. 97–354, §5(a)(26), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 99–514, title I, §143(b), (c), Oct. 22, 1986, 100 Stat. 2120; Pub. L. 100–647, title I, §1001(h)(1), (2), Nov. 10, 1988, 102 Stat. 3352; Pub. L. 104–188, title I, §§1113(a), 1704(t)(39), Aug. 20, 1996, 110 Stat. 1759, 1889; Pub. L. 105–34, title III, §312(d)(1), title IX, §932(a), Aug. 5, 1997, 111 Stat. 839, 881.)
 
 #### References in Text
 

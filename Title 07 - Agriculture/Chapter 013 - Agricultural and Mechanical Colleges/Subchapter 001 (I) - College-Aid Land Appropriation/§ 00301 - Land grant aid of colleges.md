@@ -244,7 +244,7 @@ Authorization of Appropriations.—There are authorized to be appropriated such 
 
 Pub. L. 96–374, title XIII, §1361(c), (d), Oct. 3, 1980, 94 Stat. 1502, as amended by Pub. L. 99–396, §9(c), Aug. 27, 1986, 100 Stat. 840, provided that:
 
-“(c) Any provision of any Act of Congress relating to the operation of or provision of assistance to a land grant college in the Virgin Islands or Guam shall apply to the land grant college in American Samoa, theNorthern Mariana Islands, and the Trust Territory of the Pacific Islands (other than the Northern Mariana Islands) in the same manner and to the same extent.
+“(c) Any provision of any Act of Congress relating to the operation of or provision of assistance to a land grant college in the Virgin Islands or Guam shall apply to the land grant college in American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands (other than the Northern Mariana Islands) in the same manner and to the same extent.
 
 “(d) Nothing in this section \[amending section 326a of this title and provisions set out as a note below\] shall be construed to interfere with or affect any of the provisions of the April 17, 1900 Treaty of Cession of Tutuila and Aunu'u Islands or the July 16, 1904 Treaty of Cession of the Manu'a Islands as ratified by the Act of February 20, 1929 (45 Stat. 1253) and the Act of May 22, 1929 (46 Stat. 4) \[48 U.S.C. 1431a\].”
 

@@ -22,7 +22,7 @@ In awarding grants under this subchapter, the Director of the Bureau of Justice 
 
 &emsp;(3) has a violent crime rate at or above the national average as determined by the Federal Bureau of Investigation; or
 
-&emsp;(4) has not received a block grant under the Local Law Enforcement Block Grant program described under the heading “Violent Crime Reduction Programs, State and Local Law Enforcement Assistance” of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119).
+&emsp;(4) has not received a block grant under the Local Law Enforcement Block Grant programdescribed under the heading “Violent Crime Reduction Programs, State and Local Law Enforcement Assistance” of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119).
 
 #### (d) Minimum amount
 
@@ -49,6 +49,10 @@ The Departments of Commerce, Justice, and State, the Judiciary, and Related Agen
 #### Prior Provisions
 
 A prior section 2501 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
+
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) through (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
 
 #### Findings and Purpose of 1998 Amendments
 

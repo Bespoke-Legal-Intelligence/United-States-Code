@@ -6,7 +6,7 @@ Whenever any person has engaged or there are reasonable grounds to believe that 
 
 #### (b) Attorney's fees; liability of United States for costs
 
-In any action commenced pursuant to this subchapter, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney's fee as part of the costs, and the United States shall be liable for costs the same as a private person.
+In any action commenced pursuant to this subchapter, the court, in its discretion, mayallow the prevailing party, other than the United States, a reasonable attorney's fee as part of the costs, and the United States shall be liable for costs the same as a private person.
 
 #### (c) State or local enforcement proceedings; notification of State or local authority; stay of Federal proceedings
 

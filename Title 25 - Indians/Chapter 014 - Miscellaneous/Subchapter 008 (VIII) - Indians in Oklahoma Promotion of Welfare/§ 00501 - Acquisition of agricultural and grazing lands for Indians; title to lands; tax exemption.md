@@ -10,7 +10,7 @@ Act June 26, 1936, ch. 831, 49 Stat. 1967, as amended, which enacted this subcha
 
 #### Cross References
 
-Choctaw Tribe and its members, this subchapter not to apply after Aug. 25, 1959, see section 7 of Pub. L. 86–192, Aug. 25, 1959, 73 Stat. 421, set out as a note under section 355 of this title.
+Choctaw Tribe and its members, this subchapter not to apply after Aug. 25, 1959, see section 7 of Pub. L.86–192, Aug. 25, 1959, 73 Stat. 421, set out as a note under section 355 of this title.
 
 Inapplicability of section to Osage County, Oklahoma, see section 508 of this title.
 

@@ -4,7 +4,7 @@
 
 #### (1) Report required
 
-&emsp;Each insured depository institution shall submit an annual report to the Corporation, the appropriate Federal banking agency, and any appropriate State bank supervisor (including any State bank supervisor of a host State).
+&emsp;Each insured depository institution shall submit an annual report to the Corporation, the appropriate Federal banking agency, andany appropriate State bank supervisor (including any State bank supervisor of a host State).
 
 #### (2) Contents of report
 
@@ -94,7 +94,7 @@ Each insured depository institution shall prepare—
 
 #### (B) Duties
 
-&emsp;&emsp;An independent audit committee's duties shall include reviewing with management and the independent public accountant the basis for the reports issued under subsections (b)(2), (c), and (d) of this section.
+&emsp;&emsp;An independent audit committee's duties shall include reviewing with managementand the independent public accountant the basis for the reports issued under subsections (b)(2), (c), and (d) of this section.
 
 #### (C) Criteria applicable to committees of large insured depository institutions
 

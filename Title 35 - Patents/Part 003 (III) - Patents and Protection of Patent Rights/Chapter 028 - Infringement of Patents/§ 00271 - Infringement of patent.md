@@ -68,7 +68,7 @@ Subsec. (e)(1). Pub. L. 103–465, §533(a)(3)(A), substituted “offer to sell,
 
 Subsec. (e)(3). Pub. L. 103–465, §533(a)(3)(B), substituted “offering to sell, or selling within the United States or importing into the United States” for “or selling”.
 
-Subsec. (e)(4)(B), (C). Pub. L. 103–465, §533(a)(3)(C), (D), substituted “offer to sell, or sale within the United States or importation into the United States” for “or sale”.
+Subsec. (e)(4)(B), (C). Pub. L. 103–465, §533(a)(3)(C), (D), substituted “offer to sell, or sale within the UnitedStates or importation into the United States” for “or sale”.
 
 Subsec. (g). Pub. L. 103–465, §533(a)(4), substituted “offers to sell, sells,” for “sells”, “importation, offer to sell, sale,” for “importation, sale,”, and “other use, offer to sell, or” for “other use or”.
 
@@ -144,5 +144,5 @@ Damages for infringement of patent, see section 284 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 157, 287, 296 of this title; title 21 sections 355, 360b.
+This section is referred to in sections 157, 273, 287, 296 of this title; title 21 sections 355, 360b.
 

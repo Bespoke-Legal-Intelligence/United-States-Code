@@ -104,7 +104,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (e), are set out in
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (e), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-The International Emergency Economic Powers Act, referred to in subsec. (g), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (g), is title II of Pub. L. 95–223,Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 The effective date of this chapter, referred to in subsec. (h)(3), is the date upon the expiration of 120 days after Nov. 10, 1978. See section 2101 of Pub. L. 95–630, set out as an Effective Date note under section 375b of this title.
 
@@ -148,5 +148,5 @@ Amendment by Pub. L. 98–21 applicable to benefits received after Dec. 31, 1983
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3402, 3415 of this title; title 38 section 5319.
+This section is referred to in sections 3402, 3415 of this title; title 38 section 5319; title 42 section 652.
 

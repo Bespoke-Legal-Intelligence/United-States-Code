@@ -84,7 +84,7 @@ The National Labor Relations Act, referred to in subsec. (c)(1), is act July 5, 
 
 Section 292e of this title, referred to in subsec. (d), was in the original a reference to section 705 of act July 1, 1944. Section 705 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 705 of act July 1, 1944, relating to eligibility of borrowers and terms of insured loans, and a new section 706, relating to certificates of loan insurance, which are classified to sections 292d and 292e, respectively, of this title.
 
-The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generallyto subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Change of Name
 

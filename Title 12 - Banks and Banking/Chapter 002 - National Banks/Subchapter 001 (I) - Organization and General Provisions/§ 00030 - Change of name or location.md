@@ -12,9 +12,21 @@ Any national banking association, upon written notice to the Comptroller of the 
 
 In the case of a national bank which relocates the main office of such bank from 1 State to another State after May 31, 1997, the bank may retain and operate branches within the State from which the bank relocated such office only to the extent authorized in section 36(e)(2) of this title.
 
-(May 1, 1886, ch. 73, §2, 24 Stat. 18; Pub. L. 86–230, §3, Sept. 8, 1959, 73 Stat. 457; Pub. L. 97–320, title IV, §405(a), Oct. 15, 1982, 96 Stat. 1512; Pub. L. 97–457, §19(a), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 103–328, title I, §102(b)(2), Sept. 29, 1994, 108 Stat. 2350.)
+#### (d) Retention of “Federal” in name of converted Federal savings association
+
+#### (1) In general
+
+&emsp;Notwithstanding subsection (a) of this section or any other provision of law, any depository institution, the charter of which is converted from that of a Federal savings association to a national bank or a State bank after November 12, 1999, may retain the term “Federal” in the name of such institution if such institution remains an insured depository institution.
+
+#### (2) Definitions
+
+&emsp;For purposes of this subsection, the terms “depository institution”, “insured depository institution”, “national bank”, and “State bank” have the meanings given those terms in section 1813 of this title.
+
+(May 1, 1886, ch. 73, §2, 24 Stat. 18; Pub. L. 86–230, §3, Sept. 8, 1959, 73 Stat. 457; Pub. L. 97–320, title IV, §405(a), Oct. 15, 1982, 96 Stat. 1512; Pub. L. 97–457, §19(a), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 103–328, title I, §102(b)(2), Sept. 29, 1994, 108 Stat. 2350; Pub. L. 106–102, title VII, §723, Nov. 12, 1999, 113 Stat. 1471.)
 
 #### Amendments
+
+1999—Subsec. (d). Pub. L. 106–102 added subsec. (d).
 
 1994—Subsec. (c). Pub. L. 103–328 added subsec. (c).
 

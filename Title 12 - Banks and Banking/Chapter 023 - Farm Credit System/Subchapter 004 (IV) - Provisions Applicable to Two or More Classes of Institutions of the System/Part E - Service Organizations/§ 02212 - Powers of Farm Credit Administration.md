@@ -6,7 +6,7 @@ The Farm Credit Administration shall have power, under rules and regulations pre
 
 #### Amendments
 
-1988—Pub. L. 100–233 struck out “or by prescribing in the terms of the charter or by approval of the bylaws of the corporation” after second reference to Farm Credit Administration, substituted “approve amendments consistent with this chapter to charters or articles of service corporations” for “direct at any time such changes in its charter as the Farm Credit Administration finds necessary for the accomplishment of the purposes of this chapter”, and struck out last sentence which read as follows: “The powers of the Farm Credit Administration to provide for the organization of any corporation chartered under this part include, but are not limited to approval of—
+1988—Pub. L. 100–233 struck out “or by prescribing in the terms of the charter or by approval of the bylaws of the corporation” after second reference to Farm Credit Administration, substituted “approve amendments consistent with this chapter to charters or articles of service corporations” for “direct at any timesuch changes in its charter as the Farm Credit Administration finds necessary for the accomplishment of the purposes of this chapter”, and struck out last sentence which read as follows: “The powers of the Farm Credit Administration to provide for the organization of any corporation chartered under this part include, but are not limited to approval of—
 
 &emsp;“(1) corporate title;
 

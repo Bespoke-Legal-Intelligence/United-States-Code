@@ -2,7 +2,7 @@
 
 (a) In any action brought under this chapter, the Court of Appeals for Veterans Claims, to the extent necessary to its decision and when presented, shall—
 
-&emsp;(1) decide all relevant questions of law, interpret constitutional, statutory, and regulatory provisions, and determine the meaning or applicability of the terms of an action of the Secretary;
+&emsp;(1) decide all relevant questions of law, interpret constitutional, statutory, and regulatory provisions, and determine the meaningor applicability of the terms of an action of the Secretary;
 
 &emsp;(2) compel action of the Secretary unlawfully withheld or unreasonably delayed;
 

@@ -32,6 +32,7 @@
 | (h) | Omitted. |
 | (i) | Effect on other authority. |
 | (j) | Effective dates. |
+| (k) | Advisory committee. |
 | [59\.](%C2%A7%2000059%20-%20Repealed.%20Aug.%202%2C%201956%2C%20ch.%20887%2C%20%C2%A74%28a%29%2821%29%2C%2070%20Stat.%20947.md) | Repealed. |
 | [60\.](%C2%A7%2000060%20-%20Penalty%20for%20extortion.md) | Penalty for extortion. |
 | 61 to 63. | Repealed. |

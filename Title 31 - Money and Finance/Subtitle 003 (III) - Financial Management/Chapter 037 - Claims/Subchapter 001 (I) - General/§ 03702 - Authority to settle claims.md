@@ -108,7 +108,7 @@ Apr. 10, 1928, ch. 334, 45 Stat. 413.
 
 In the section, the words “Comptroller General” are substituted for “General Accounting Office” for consistency.
 
-In subsection (a), the words “Except as provided in this chapter or another law” are added for clarity. The words “and demands whatever” and “and adjusted” are omitted as surplus. The words “officers or employees of the General Accounting Office” are substituted for “ofhis subordinates” for clarity and consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the words “Except as provided in this chapter or another law” are added for clarity. The words “and demands whatever” and “and adjusted” are omitted as surplus. The words “officers or employees of the General Accounting Office” are substituted for “of his subordinates” for clarity and consistency in the revised title and with other titles of the United States Code.
 
 In subsection (b)(1), before clause (A), the words “or demand” are omitted as surplus. The word “Government” is substituted for “United States” for consistency in the revised title and with other titles of the Code. The word “representative” is substituted for “agent or attorney” to eliminate unnecessary words. The words “received by the Comptroller General” are substituted for “received in said office” for clarity and consistency. The words “the date” are omitted as surplus. Clause (A) is added for clarity. In clause (B), the words “cognizable by the General Accounting Office under sections 71 and 236 of this title” are omitted as unnecessary because of the restatement.
 

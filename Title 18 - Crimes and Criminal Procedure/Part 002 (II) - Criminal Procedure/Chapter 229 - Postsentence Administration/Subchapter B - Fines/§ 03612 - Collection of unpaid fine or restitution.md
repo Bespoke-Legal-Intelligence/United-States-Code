@@ -8,7 +8,7 @@ Notification of Receipt and Related Matters.—The clerk or the person designate
 
 &emsp;(2) within 15 days after the receipt or at such other time as may be determined jointly by the Attorney General and the Director of the Administrative Office of the United States Courts.
 
-> If the fifteenth day under paragraph (2) is a Saturday, Sunday, or legal public holiday, the clerk, or the person designated under section 604(a)(18) of title 28, shall provide notification not later than the next day that is not a Saturday, Sunday, or legal public holiday.
+> If the fifteenth day under paragraph (2) is a Saturday, Sunday, or legal public holiday, the clerk, or the person designated under section 604(a)(18) of title 28, shall provide notificationnot later than the next day that is not a Saturday, Sunday, or legal public holiday.
 
 (b)
 
@@ -178,7 +178,7 @@ Section 237 of Pub. L. 98–473 provided that:
 
 &emsp;“(A) pay the fine in full;
 
-&emsp;“(B) specify, and demonstrate compliance with, an installment schedule established by a court beforeenactment of the amendments made by this Act \[Oct. 12, 1984\], specifying the dates on which designated partial payments will be made; or
+&emsp;“(B) specify, and demonstrate compliance with, an installment schedule established by a court before enactment of the amendments made by this Act \[Oct. 12, 1984\], specifying the dates on which designated partial payments will be made; or
 
 &emsp;“(C) establish with the concurrence of the Attorney General, a new installment schedule of a duration not exceeding two years, except in special circumstances, and specifying the dates on which designated partial payments will be made.
 

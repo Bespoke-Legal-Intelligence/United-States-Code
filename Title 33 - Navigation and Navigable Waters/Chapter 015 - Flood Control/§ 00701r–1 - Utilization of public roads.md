@@ -4,7 +4,7 @@
 
 When used in this section—
 
-&emsp;(1) The term “Agency” means the Corps of Engineers, United States Army or the Bureau of Reclamation, United States Department of the Interior, whichever has jurisdiction over the project concerned.
+&emsp;(1) The term “Agency” means the Corps of Engineers, United States Army or the Bureauof Reclamation, United States Department of the Interior, whichever has jurisdiction over the project concerned.
 
 &emsp;(2) The term “head of the Agency concerned” means the Chief of Engineers or the Commissioner, Bureau of Reclamation, or their respective designees.
 

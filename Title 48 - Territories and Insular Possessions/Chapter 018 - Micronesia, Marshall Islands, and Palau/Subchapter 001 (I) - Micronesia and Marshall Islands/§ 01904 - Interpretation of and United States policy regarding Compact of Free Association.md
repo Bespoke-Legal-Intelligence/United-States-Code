@@ -54,7 +54,7 @@ In clarification of Title One, Article II, section 121(b)(1) of the Compact:
 
 &emsp;(4) For the purpose of paragraphs (1) and (3) of this subsection—
 
-&emsp;&emsp;(A) The term “vessel of the United States” has the same meaning as provided in thefirst section of the Fishermen's Protective Act of 1967 (22 U.S.C. 1971).
+&emsp;&emsp;(A) The term “vessel of the United States” has the same meaning as provided in the first section of the Fishermen's Protective Act of 1967 (22 U.S.C. 1971).
 
 &emsp;&emsp;(B) The terms “fishing” and “highly migratory species” have the same meanings as provided in paragraphs (10) and (14),<sup>1</sup> respectively, of section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802(10) and (14)).
 

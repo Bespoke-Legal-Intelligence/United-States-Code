@@ -52,7 +52,7 @@ DOT safety review.—Within 18 months after the date of the enactment of this Ac
 
 “(2)
 
-Operation and maintenance responsibility.—Within 18 months after the date of the enactment ofthis Act \[Oct. 24, 1992\], the Secretary of Transportation shall conduct, with the participation of the operators of natural gas distribution facilities, a survey of owners of customer-owned service lines to determine the views of such owners regarding whether distribution companies should assume responsibility for the operation and maintenance of customer-owned service lines. In conducting the survey, the Secretary of Transportation shall ensure that such customers are aware of any potential safety benefits, any potential implementation issues (including any property rights or cost issues), the recommendations of the National Transportation Safety Board, and accidents that have occurred, related to customer-owned service lines.
+Operation and maintenance responsibility.—Within 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary of Transportation shall conduct, with the participation of the operators of natural gas distribution facilities, a survey of owners of customer-owned service lines to determine the views of such owners regarding whether distribution companies should assume responsibility for the operation and maintenance of customer-owned service lines. In conducting the survey, the Secretary of Transportation shall ensure that such customers are aware of any potential safety benefits, any potential implementation issues (including any property rights or cost issues), the recommendations of the National Transportation Safety Board, and accidents that have occurred, related to customer-owned service lines.
 
 “(3)
 

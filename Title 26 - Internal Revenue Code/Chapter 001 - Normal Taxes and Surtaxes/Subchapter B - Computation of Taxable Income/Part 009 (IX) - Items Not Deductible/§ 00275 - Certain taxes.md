@@ -32,7 +32,7 @@ No deduction shall be allowed for the following taxes:
 
 &emsp;&emsp;<b>For disallowance of certain other taxes, see section 164(c).</b>
 
-(Added Pub. L. 88–272, title II, §207(b)(3)(A), Feb. 26, 1964, 78 Stat. 42; amended Pub. L. 93–406, title II, §1016(a)(1), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–455, title XIII, §1307(d)(2)(A), title XVI, §1605(b)(1), title XIX, §1901(a)(39), Oct. 4, 1976, 90 Stat. 1727, 1754, 1771; Pub. L. 95–600, title VII, §701(t)(3)(B), Nov. 6, 1978, 92 Stat. 2912; Pub. L. 97–248, title III, §§305(a), 308(a), Sept. 3, 1982, 96 Stat. 588, 591; Pub. L. 98–21, title I, §124(c)(5), Apr. 20, 1983, 97 Stat. 91; Pub. L. 98–67, title I, §102(a) Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title I, §67(b)(2), title VIII, §801(d)(5), July 18, 1984, 98 Stat. 587, 996; Pub. L. 99–499, title V, §516(b)(2)(B), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 100–203, title X, §10228(b), Dec. 22, 1987, 101 Stat. 1330–418.)
+(Added Pub. L. 88–272, title II, §207(b)(3)(A), Feb. 26, 1964, 78 Stat. 42; amended Pub. L. 93–406, title II, §1016(a)(1), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–455, title XIII, §1307(d)(2)(A), title XVI, §1605(b)(1), title XIX, §1901(a)(39), Oct. 4, 1976, 90 Stat. 1727, 1754, 1771; Pub. L. 95–600, title VII, §701(t)(3)(B), Nov. 6, 1978, 92 Stat. 2912; Pub. L. 97–248, title III, §§305(a), 308(a), Sept. 3, 1982, 96 Stat. 588, 591; Pub. L. 98–21, title I, §124(c)(5), Apr. 20, 1983, 97 Stat. 91; Pub. L. 98–67, title I, §102(a) Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title I, §67(b)(2), title VIII, §801(d)(5),July 18, 1984, 98 Stat. 587, 996; Pub. L. 99–499, title V, §516(b)(2)(B), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 100–203, title X, §10228(b), Dec. 22, 1987, 101 Stat. 1330–418.)
 
 #### References in Text
 
@@ -80,7 +80,7 @@ Amendment by section 801(d)(5) of Pub. L. 98–369 applicable to transactions af
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98–21 applicable to taxable years beginning after Dec. 31, 1989, see section 124(d)(2)of Pub. L. 98–21, set out as a note under section 1401 of this title.
+Amendment by Pub. L. 98–21 applicable to taxable years beginning after Dec. 31, 1989, see section 124(d)(2) of Pub. L. 98–21, set out as a note under section 1401 of this title.
 
 #### Effective Date of 1976 Amendment
 

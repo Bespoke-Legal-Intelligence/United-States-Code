@@ -2,7 +2,7 @@
 
 #### (a) Engineering and economic studies
 
-The Secretary is authorized and directed to continue to a conclusion appropriate engineering and economic studies and to recommend the most feasible plan for the construction and operation of hydroelectric generating and transmission facilities, the purchase of electrical energy, the purchase of entitlement to electrical plant capacity, or any combination thereof, including participation, operation, or construction by non-Federal entities, for the purpose of supplying the power requirements of the Central Arizona Project and augmenting the Lower Colorado River Basin Development Fund: <i>Provided</i>, That nothing in this section or in this chapter contained shall be construed to authorize the study or construction of any dams on the main stream of the Colorado River between Hoover Dam and Glen Canyon Dam.
+The Secretary is authorized and directed to continue to a conclusion appropriate engineering and economic studies and to recommend the most feasible plan for the construction and operation of hydroelectric generating and transmission facilities, the purchase of electrical energy, the purchase of entitlement to electrical plant capacity, or any combination thereof, including participation, operation, or constructionby non-Federal entities, for the purpose of supplying the power requirements of the Central Arizona Project and augmenting the Lower Colorado River Basin Development Fund: <i>Provided</i>, That nothing in this section or in this chapter contained shall be construed to authorize the study or construction of any dams on the main stream of the Colorado River between Hoover Dam and Glen Canyon Dam.
 
 #### (b) Construction of thermal generating powerplants; agreements for acquisition by United States of portions of plant capacity
 
@@ -12,7 +12,7 @@ If included as a part of the recommended plan, the Secretary may enter into agre
 
 &emsp;(2) annual operation and maintenance costs shall be apportioned between the United States and the non-Federal interests on an equitable basis taking into account the ratios determined in accordance with the foregoing clause (1): <i>Provided, however</i>, That the United States shall share on the foregoing basis in the depreciation component of such costs only to the extent of provision for depreciation on replacements financed by the non-Federal interests;
 
-&emsp;(3) the United States shall be given appropriate credit for any interests in Federal landsadministered by the Department of the Interior that are made available for the power plants and appurtenances;
+&emsp;(3) the United States shall be given appropriate credit for any interests in Federal lands administered by the Department of the Interior that are made available for the power plants and appurtenances;
 
 &emsp;(4) costs to be borne by the United States under clauses (1) and (2) shall not include (a) interest and interest during construction, (b) financing charges, (c) franchise fees, and (d) such other costs as shall be specified in the agreement.
 

@@ -6,7 +6,7 @@ In the event of repeated willful violations of any of the provisions of this cha
 
 #### (b) Attendance of witnesses and production of evidence
 
-In the conduct of any proceeding under this section for the revocation of a grant the Boardmay compel the attendance of witnesses and the giving of testimony and the production of documentary evidence, and for such purpose may invoke the aid of the district courts of the United States.
+In the conduct of any proceeding under this section for the revocation of a grant the Board may compel the attendance of witnesses and the giving of testimony and the production of documentary evidence, and for such purpose may invoke the aid of the district courts of the United States.
 
 #### (c) Nature of order of revocation; appeal
 

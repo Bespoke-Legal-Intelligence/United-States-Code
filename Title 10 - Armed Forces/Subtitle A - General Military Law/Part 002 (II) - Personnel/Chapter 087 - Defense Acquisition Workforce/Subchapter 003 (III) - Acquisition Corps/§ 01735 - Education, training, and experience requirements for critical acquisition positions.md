@@ -20,13 +20,13 @@ Program Managers and Deputy Program Managers.—Before being assigned to a posit
 
 &emsp;&emsp;(C) a deputy program manager of a major defense acquisition program, must have at least six years of experience in acquisition, at least two years of which were performed in a systems program office or similar organization; and
 
-&emsp;&emsp;(D) a deputy program manager of a significant nonmajor defense acquisition program,must have at least four years of experience in acquisition.
+&emsp;&emsp;(D) a deputy program manager of a significant nonmajor defense acquisition program, must have at least four years of experience in acquisition.
 
 (c)
 
 Program Executive Officers.—Before being assigned to a position as a program executive officer, a person—
 
-&emsp;(1) must have completed the program management course at the Defense Systems Management College or a management program at an accredited educational institution in the private sector determined to be comparable by the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology;
+&emsp;(1) must have completed the program management course at the Defense Systems Management College or a management program at an accredited educational institution in the private sector determined to be comparable by the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics;
 
 &emsp;(2) must have at least 10 years experience in an acquisition position, at least four years of which were performed while assigned to a critical acquisition position; and
 
@@ -40,9 +40,11 @@ General and Flag Officers and Civilians in Equivalent Positions.—Before a gene
 
 Senior Contracting Officials.—Before a person may be assigned to a critical acquisition position as a senior contracting official, the person must have at least four years experience in contracting.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1648; amended Pub. L. 102–484, div. A, title VIII, §812(d), Oct. 23, 1992, 106 Stat. 2451; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1648; amended Pub. L. 102–484, div. A, title VIII, §812(d), Oct. 23, 1992, 106 Stat. 2451; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717.)
 
 #### Amendments
+
+1999—Subsec. (c)(1). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 1993—Subsec. (c)(1). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 

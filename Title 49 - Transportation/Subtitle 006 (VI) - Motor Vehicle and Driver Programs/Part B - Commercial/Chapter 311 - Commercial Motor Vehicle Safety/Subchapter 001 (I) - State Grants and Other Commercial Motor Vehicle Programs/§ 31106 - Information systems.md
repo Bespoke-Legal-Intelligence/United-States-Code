@@ -10,7 +10,7 @@ In general.—Subject to the provisions of this section, the Secretary shall est
 
 &emsp;(2)
 
-Network coordination.—In cooperation with the States, the information systems under this section shall be coordinated into a network providing accurate identification of motor carriers and drivers, commercial motorvehicle registration and license tracking, and motor carrier, commercial motor vehicle, and driver safety performance data.
+Network coordination.—In cooperation with the States, the information systems under this section shall be coordinated into a network providing accurate identification of motor carriers and drivers, commercial motor vehicle registration and license tracking, and motor carrier, commercial motor vehicle, and driver safety performance data.
 
 &emsp;(3)
 

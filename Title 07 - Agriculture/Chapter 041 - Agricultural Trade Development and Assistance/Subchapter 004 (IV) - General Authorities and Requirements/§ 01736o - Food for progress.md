@@ -72,7 +72,7 @@ In entering into agreements under this section, the President shall take reasona
 
 #### (j) Agreements for distribution or sale on multiyear basis
 
-In carrying out this section, the President may, on request and subject to the availabilityof commodities, approve agreements that provide for commodities to be made available for distribution or sale by the recipient on a multiyear basis if the agreements otherwise meet the requirements of this section.
+In carrying out this section, the President may, on request and subject to the availability of commodities, approve agreements that provide for commodities to be made available for distribution or sale by the recipient on a multiyear basis if the agreements otherwise meet the requirements of this section.
 
 #### (k) Effective and termination dates
 
@@ -102,11 +102,11 @@ During fiscal year 1999, to the maximum extent practicable, the Secretary shall 
 
 As used in this section, the term “independent states of the former Soviet Union” means the independent states of the former Soviet Union as defined in section 5602(8) of this title.
 
-(Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472; Pub. L. 100–418, title IV, §4303, Aug. 23, 1988, 102 Stat. 1397; Pub. L. 101–624, title XV, §§1516, 1572(1), Nov. 28, 1990, 104 Stat. 3663, 3702; Pub. L. 102–237, title III, §335, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §701, Oct. 24, 1992, 106 Stat. 3348; Pub. L. 104–127, title II, §§227, 265(b), Apr. 4, 1996, 110 Stat. 962, 974; Pub. L. 105–277, div. A, title I, §101(a) \[title XI, §1125\], Oct. 21, 1998, 112 Stat. 2681, 2681–45.)
+(Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472; Pub. L. 100–418, title IV, §4303, Aug. 23, 1988, 102 Stat. 1397; Pub. L. 101–624, title XV, §§1516, 1572(1), Nov. 28, 1990, 104 Stat. 3663, 3702; Pub. L. 102–237, title III, §335, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §701, Oct. 24, 1992, 106 Stat. 3348; Pub. L. 104–127, title II, §§227, 265(b), Apr. 4, 1996, 110 Stat. 962, 974; Pub. L. 105–277, div. A, §101(a) \[title XI, §1125\], Oct. 21, 1998, 112 Stat. 2681, 2681–45.)
 
 #### References in Text
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in subsecs. (e) and (f)(5), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to this chapter (§1691 et seq.). Title I of the Act is classified to subchapter II (§1701 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Agricultural Trade Development and Assistance Act of 1954, referred to in subsecs. (e) and (f)(5), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to this chapter (§1691 et seq.). TitleI of the Act is classified to subchapter II (§1701 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
 #### Codification
 
@@ -138,7 +138,7 @@ Subsec. (k). Pub. L. 104–127, §227(6), substituted “2002” for “1995”.
 
 Subsec. (<i>l</i>)(1). Pub. L. 104–127, §227(7), substituted “1996 through 2002” for “1991 through 1995” and inserted “, and to provide technical assistance for monetization programs,” after “monitoring of food assistance programs”.
 
-Subsec. (m). Pub. L. 104–127, §227(8), in introductory provisions, struck out “with respect to the independent states of the former Soviet Union” after “this section”and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”, and in par. (2), struck out “in the independent states” after “the use” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”.
+Subsec. (m). Pub. L. 104–127, §227(8), in introductory provisions, struck out “with respect to the independent states of the former Soviet Union” after “this section” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”, and in par. (2), struck out “in the independent states” after “the use” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”.
 
 1992—Subsec. (b). Pub. L. 102–511, §701(1), designated existing provisions as par. (1), inserted “(including the independent states of the former Soviet Union)” after “such countries”, substituted “cooperatives, or other private entities” for “or cooperatives”, and added par. (2).
 

@@ -22,7 +22,7 @@ Establishment of program.—The Secretary shall purchase precision approach inst
 
 &emsp;(B)
 
-Authorization.—No less than $30,000,000 of the amounts appropriated under section 48101(a) for each of fiscal years 1995 and 1996 shall be used for the purpose of carrying out this paragraph, including acquisition, site preparation work, installation, and related expenditures.
+Authorization.—No less than $30,000,000 of the amounts appropriated under section48101(a) for each of fiscal years 1995 and 1996 shall be used for the purpose of carrying out this paragraph, including acquisition, site preparation work, installation, and related expenditures.
 
 (b)
 
@@ -138,7 +138,7 @@ In this section, the words “department, agency, or instrumentality of the Unit
 
 In subsections (a)(1), (b), and (c), the word “Administrator” in sections 303(c) (1st sentence), 307(b), 308(a) (1st and 2d sentences) and (b), and 309 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 750, 751) is retained on authority of 49:106(g).
 
-In subsection (a)(1), before clause (A), the words “within the limits of available appropriations made by the Congress” are omitted as surplus. In clause (A), the words “wherever necessary” are omitted as surplus. In clause (B), the word “necessary” is omitted as surplus.
+In subsection (a)(1), before clause (A), the words “within the limits of available appropriations made bythe Congress” are omitted as surplus. In clause (A), the words “wherever necessary” are omitted as surplus. In clause (B), the word “necessary” is omitted as surplus.
 
 In subsection (a)(2), the words “by the Secretary” and “to the Secretary” are omitted as surplus. The last sentence is substituted for 49 App.:2205(a)(3) (last sentence) to eliminate unnecessary words.
 
@@ -190,9 +190,11 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Transfer by Airports of Instrument Landing Systems and Associated Equipment to Federal Aviation Administration
 
-Pub. L. 105–277, div. A, §101(g) \[title III, §314\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–468, provided that: “Notwithstanding any other provision of law, airports may transfer, without consideration, to the Federal Aviation Administration (FAA) instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to FAA design and performance specifications, the purchase of which was assisted by a Federal airport-aid program, airport development aid program or airport improvement program grant. The FAA shall accept such equipment, which shall thereafter be operated and maintained by the FAA in accordance with agency criteria.”
+Pub. L. 106–69, title III, §314, Oct. 9, 1999, 113 Stat. 1018, provided that: “Notwithstanding any other provision of law, airports may transfer, without consideration, to the Federal Aviation Administration (FAA) instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to FAA design and performance specifications, the purchase of which was assisted by a Federal airport-aid program, airport development aid program or airport improvement program grant. The Federal Aviation Administration shall accept such equipment, which shall thereafter be operated and maintained by FAA in accordance with agency criteria.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–277, div. A, §101(g) \[title III, §314\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–468.
 
 Pub. L. 105–66, title III, §314, Oct. 27, 1997, 111 Stat. 1443.
 

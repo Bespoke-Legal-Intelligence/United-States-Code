@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;One year after October 23, 1992, and periodically thereafter, the Secretary shall, after notice and an opportunity for public comment,publish in the Federal Register a list of species of exotic birds that are listed in an Appendix to the Convention and that are not subject to a prohibition or suspension of importation otherwise applicable under section 4904(a), (b), or (c) of this title.
+&emsp;One year after October 23, 1992, and periodically thereafter, the Secretary shall, after notice and an opportunity for public comment, publish in the Federal Register a list of species of exotic birds that are listed in an Appendix to the Convention and that are not subject to a prohibition or suspension of importation otherwise applicable under section 4904(a), (b), or (c) of this title.
 
 #### (2) Manner of listing
 

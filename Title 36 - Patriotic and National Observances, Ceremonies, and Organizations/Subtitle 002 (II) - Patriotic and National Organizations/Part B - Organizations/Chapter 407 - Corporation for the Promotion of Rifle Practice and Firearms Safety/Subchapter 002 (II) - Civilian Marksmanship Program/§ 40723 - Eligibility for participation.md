@@ -52,9 +52,13 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, §1613, 110 Stat. 517.
 
 36:5503(b).
 
+&nbsp;
+
 40723(c)
 
 36:5503(c).
+
+&nbsp;
 
 In subsection (a)(1), the words “shall certify” are substituted for “shall be required to certify”, and the word “felony” is substituted for “Federal or State felony”, to eliminate unnecessary words.
 

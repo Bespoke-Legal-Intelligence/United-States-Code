@@ -98,7 +98,7 @@ The Electronic Communications Privacy Act of 1986, referred to in subsec. (e)(4)
 
 #### Codification
 
-Section 509 of Pub. L. 104–104, which directed amendment of title II of the Communications Act of 1934 (47 U.S.C. 201 et seq.) by adding section 230 at end, was executed by adding the section at end of part I of title II of the Act to reflect the probable intent of Congress and amendments by sections 101(a), (b), and 151(a) of Pub. L. 104–104 designating §§201 to 229 as part I and adding parts II (§251 et seq.) and III (§271 et seq.) to title II of the Act.
+Section 509 of Pub. L. 104–104, which directed amendment of title II of the Communications Act of 1934 (47U.S.C. 201 et seq.) by adding section 230 at end, was executed by adding the section at end of part I of title II of the Act to reflect the probable intent of Congress and amendments by sections 101(a), (b), and 151(a) of Pub. L. 104–104 designating §§201 to 229 as part I and adding parts II (§251 et seq.) and III (§271 et seq.) to title II of the Act.
 
 #### Amendments
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 105–277 effective 30 days after Oct. 21, 1998, see sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 223, 231 of this title; title 18 sections 1462, 1465.
+This section is referred to in sections 223, 231 of this title; title 15 section 1127; title 18 sections 1462, 1465.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph (A).”</i>
 

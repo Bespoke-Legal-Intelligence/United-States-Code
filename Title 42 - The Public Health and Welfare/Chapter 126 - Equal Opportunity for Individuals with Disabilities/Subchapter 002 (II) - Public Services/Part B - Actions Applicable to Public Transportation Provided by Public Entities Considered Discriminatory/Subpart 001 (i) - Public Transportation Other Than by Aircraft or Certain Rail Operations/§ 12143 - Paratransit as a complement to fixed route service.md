@@ -28,7 +28,7 @@ Not later than 1 year after July 26, 1990, the Secretary shall issue final regul
 
 #### (2) Service area
 
-&emsp;The regulations issued under this section shall require the provision of paratransit and special transportation services required under this section in the service area of each publicentity which operates a fixed route system, other than any portion of the service area in which the public entity solely provides commuter bus service.
+&emsp;The regulations issued under this section shall require the provision of paratransit and special transportation services required under this section in the service area of each public entity which operates a fixed route system, other than any portion of the service area in which the public entity solely provides commuter bus service.
 
 #### (3) Service criteria
 
@@ -110,5 +110,5 @@ Subsec. (a) of this section effective 18 months after July 26, 1990, and subsecs
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12134, 12149, 12209 of this title; title 2 section 1331.
+This section is referred to in sections 12134, 12149, 12209 of this title; title 2 section 1331; title 49 section 5302.
 

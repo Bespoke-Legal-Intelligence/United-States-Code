@@ -224,7 +224,7 @@ Grants.—Under criteria the Secretary of Transportation establishes, the Secret
 
 (h)
 
-Balanced and Comprehensive Planning.—(1) To the extent practicable, the Secretary of Transportation shall ensure that amounts made available under subsection (c) or (h)(1) of section 5338 of this title to carry out this section and sections 5304 and 5305 of this title are used to support balanced and comprehensive transportation planning that considers the relationships among land use and all transportation modes, without regard to the programmatic source of the planning amounts.
+Balanced and Comprehensive Planning.—(1) To the extent practicable, the Secretary ofTransportation shall ensure that amounts made available under subsection (c) or (h)(1) of section 5338 of this title to carry out this section and sections 5304 and 5305 of this title are used to support balanced and comprehensive transportation planning that considers the relationships among land use and all transportation modes, without regard to the programmatic source of the planning amounts.
 
 (2)(A) The Secretary of Transportation shall apportion 80 percent of the amount made available under subsection (c) or (h)(1) of section 5338 of this title to States in a ratio equal to the population in urbanized areas in each State divided by the total population in urbanized areas in all States, as shown by the latest available decennial census. A State may not receive less than .5 percent of the amount apportioned under this subparagraph.
 
@@ -244,7 +244,7 @@ Balanced and Comprehensive Planning.—(1) To the extent practicable, the Secret
 
 (4) To the maximum extent practicable, the Secretary of Transportation shall ensure that no metropolitan planning organization is allocated less than the amount it received by administrative formula under this section in the fiscal year that ended September 30, 1991. To carry out this subsection, the Secretary may make a proportionate reduction in other amounts made available to carry out subsection (c) or (h)(1) of section 5338 of this title.
 
-(5) Amounts available for an activity under this subsection are for 80 percent of the cost ofthe activity unless the Secretary of Transportation decides it is in the interests of the Government not to require a State or local match.
+(5) Amounts available for an activity under this subsection are for 80 percent of the cost of the activity unless the Secretary of Transportation decides it is in the interests of the Government not to require a State or local match.
 
 (6) An amount apportioned under this subsection—
 
@@ -384,7 +384,7 @@ Subsec. (c)(4)(A). Pub. L. 105–178, §3004(b)(4), as added by Pub. L. 105–20
 
 Subsec. (c)(5)(A). Pub. L. 105–178, §3004(b)(5)(A), formerly §3004(b)(4)(A), as renumbered and amended by Pub. L. 105–206, §9009(b)(1)(C), (D), substituted “general purpose local government that together represent” for “general local government representing”.
 
-Subsec. (c)(5)(B). Pub. L. 105–178, §3004(b)(5)(B), formerly §3004(b)(4)(B), as renumbered by Pub. L. 105–206, §9009(b)(1)(D), substituted “or cities, as defined by theBureau of the Census)” for “as defined by the Secretary of Commerce)”.
+Subsec. (c)(5)(B). Pub. L. 105–178, §3004(b)(5)(B), formerly §3004(b)(4)(B), as renumbered by Pub. L. 105–206, §9009(b)(1)(D), substituted “or cities, as defined by the Bureau of the Census)” for “as defined by the Secretary of Commerce)”.
 
 Subsec. (c)(5)(D). Pub. L. 105–178, §3004(b)(5)(C), formerly §3004(b)(4)(C), as renumbered by Pub. L. 105–206, §9009(b)(1)(D), added subpar. (D).
 

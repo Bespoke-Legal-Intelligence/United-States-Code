@@ -4,7 +4,7 @@
 
 (1) Except as provided in paragraph (2), and in lieu of appealing the decision of the contracting officer under section 605 of this title to an agency board, a contractor may bring an action directly on the claim in the United States Court of Federal Claims, notwithstanding any contract provision, regulation, or rule of law to the contrary.
 
-(2) In the case of an action against the Tennessee Valley Authority, the contractor may only bring an action directly on the claim in a United States district court pursuant to section 1337 of title 28, notwithstanding any contract provision, regulation, or rule of law to the contrary.
+(2) In the case of an action against the Tennessee Valley Authority, the contractor may only bring an action directly on the claim in aUnited States district court pursuant to section 1337 of title 28, notwithstanding any contract provision, regulation, or rule of law to the contrary.
 
 (3) Any action under paragraph (1) or (2) shall be filed within twelve months from the date of the receipt by the contractor of the decision of the contracting officer concerning the claim, and shall proceed de novo in accordance with the rules of the appropriate court.
 

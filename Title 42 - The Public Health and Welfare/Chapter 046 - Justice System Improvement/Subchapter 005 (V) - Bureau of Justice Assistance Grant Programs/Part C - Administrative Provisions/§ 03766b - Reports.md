@@ -32,3 +32,7 @@
 
 For prior sections 523, 524, and 526 to 528 of Pub. L. 90–351 and prior sections 3767 and 3768 of this title, see note set out preceding section 3750 of this title.
 
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
+

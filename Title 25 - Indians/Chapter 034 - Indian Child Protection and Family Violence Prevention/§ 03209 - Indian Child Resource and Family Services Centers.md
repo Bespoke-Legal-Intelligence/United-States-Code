@@ -18,7 +18,7 @@ Each Center established under subsection (a) of this section shall—
 
 &emsp;(1) provide advice, technical assistance, and consultation to Indian tribes, tribal organizations, and inter-tribal consortia upon request;
 
-&emsp;(2) provide training to appropriate personnel of Indian tribes, tribal organizations, the Bureau and the Service on the identification and investigation of cases of family violence, child abuse, and child neglect and, to the extent practicable, coordinate with institutions of higher education, including tribally controlled community colleges, to offer college-level credit to interested trainees;
+&emsp;(2) provide training to appropriate personnel of Indian tribes, tribal organizations, the Bureau and the Service on the identification andinvestigation of cases of family violence, child abuse, and child neglect and, to the extent practicable, coordinate with institutions of higher education, including tribally controlled community colleges, to offer college-level credit to interested trainees;
 
 &emsp;(3) develop training materials on the prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect for distribution to Indian tribes and to tribal organizations;
 
@@ -48,7 +48,7 @@ Indian Child Resource and Family Services Centers established under subsection (
 
 #### (h) Authorization of appropriations
 
-There are authorized to be appropriated to carry out the provisions of this section $3,000,000for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
+There are authorized to be appropriated to carry out the provisions of this section $3,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
 
 (Pub. L. 101–630, title IV, §410, Nov. 28, 1990, 104 Stat. 4552; Pub. L. 104–16, §1, June 21, 1995, 109 Stat. 190.)
 

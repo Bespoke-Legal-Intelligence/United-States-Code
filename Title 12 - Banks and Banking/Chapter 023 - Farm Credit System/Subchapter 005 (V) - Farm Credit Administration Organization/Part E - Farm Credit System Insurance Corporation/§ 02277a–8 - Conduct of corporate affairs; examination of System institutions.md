@@ -78,7 +78,7 @@ Powers and report.—Each examiner may make a thorough examination of all affair
 
 &emsp;“(3)
 
-Appointment of claim agents.—The Board of Directors, in like manner, shall appoint claim agentswho may investigate and examine all claims for insured obligations.”
+Appointment of claim agents.—The Board of Directors, in like manner, shall appoint claim agents who may investigate and examine all claims for insured obligations.”
 
 1989—Subsec. (b)(1). Pub. L. 101–220 inserted “any other association making direct loans under authority provided under section 2279b of this title,” after “any production credit association,”.
 

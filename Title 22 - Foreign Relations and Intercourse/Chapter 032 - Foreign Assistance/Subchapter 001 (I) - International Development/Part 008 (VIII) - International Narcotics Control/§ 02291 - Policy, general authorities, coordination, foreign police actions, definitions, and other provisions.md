@@ -38,7 +38,7 @@
 
 #### (1) Prohibition on effecting an arrest
 
-&emsp;No officer or employee of the United States may directly effect an arrest in any foreigncountry as part of any foreign police action with respect to narcotics control efforts, notwithstanding any other provision of law.
+&emsp;No officer or employee of the United States may directly effect an arrest in any foreign country as part of any foreign police action with respect to narcotics control efforts, notwithstanding any other provision of law.
 
 #### (2) Participation in arrest actions
 
@@ -68,7 +68,7 @@
 
 #### (2) Annual reports
 
-&emsp;In the annual report required by section 2291h(a) of this title, the President shall report on the impact on the environment and the health of individuals of the use under this part of a herbicide for aerial eradication.
+&emsp;In the annual report required by section 2291h(a) of this title, the President shall reporton the impact on the environment and the health of individuals of the use under this part of a herbicide for aerial eradication.
 
 #### (3) Report upon determination of harm to environment or health
 
@@ -130,7 +130,7 @@ For purposes of this part and other provisions of this chapter relating specific
 
 #### References in Text
 
-The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 1 of the Act was classified principally to subchapter I (§1501 et seq.) of chapter 20 of Title 21, Food and Drugs, prior to repeal by Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188. For complete classification of this Act to the Code, see Tables.
+The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of Pub.L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 1 of the Act was classified principally to subchapter I (§1501 et seq.) of chapter 20 of Title 21, Food and Drugs, prior to repeal by Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188. For complete classification of this Act to the Code, see Tables.
 
 Executive Order Number 12333, referred to in subsec. (b)(2), is set out as a note under section 401 of Title 50, War and National Defense.
 
@@ -242,7 +242,7 @@ Subsecs. (f) to (h). Pub. L. 102–583, §6(b)(2), struck out subsec. (f) relati
 
 Subsec. (i). Pub. L. 102–583, §6(b)(3), redesignated subsec. (i) as (e).
 
-Subsec. (i)(4). Pub. L. 102–583, §5(b), amended par. (4) generally. Prior to amendment, par. (4) consisted ofsubpars. (A) to (E) and concluding provisions, which defined “United States assistance”.
+Subsec. (i)(4). Pub. L. 102–583, §5(b), amended par. (4) generally. Prior to amendment, par. (4) consisted of subpars. (A) to (E) and concluding provisions, which defined “United States assistance”.
 
 Subsec. (i)(5). Pub. L. 102–550, §1519(c), inserted “or” at end of subpar. (A), substituted a period for “or” at end of subpar. (B), and struck out subpar. (C) which read as follows: “through which significant sums of drug-related profits or monies are laundered with the knowledge or complicity of the government.”
 
@@ -264,7 +264,7 @@ Subsec. (h)(2)(B)(v). Pub. L. 101–231, §17(d)(3), substituted “essential pr
 
 Subsec. (h)(3)(D). Pub. L. 101–231, §17(d)(4), substituted “illicit production” for “production”.
 
-Subsec. (i)(2). Pub. L. 101–231, §17(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘major illicit drug producing country’ means a country producing five metric tons or more of opium or opium derivative during a fiscal year or producing five hundred metric tons or more of coca or marijuana (as the case may be) during a fiscal year;”.
+Subsec. (i)(2). Pub. L. 101–231, §17(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘major illicit drug producing country’ means a country producing five metric tons or more of opium or opium derivative during a fiscal year or producingfive hundred metric tons or more of coca or marijuana (as the case may be) during a fiscal year;”.
 
 Subsec. (k)(4). Pub. L. 101–231, §17(f), struck out par. (4) which required that reports under subsec. (e) discuss changes made since notification provided pursuant to subsec. (k)(2) and (3).
 
@@ -392,7 +392,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Delegation of Functions
 
-Functions of President under this part delegated and funds available to President under this section allocated to Secretary of State by sections 1–201(a)(27), 1–701(d), and 1–801(c) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56674, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Limitation on Counternarcotics Assistance to Colombia
 
@@ -409,6 +409,8 @@ Exception.—If the Government of Colombia negotiates or permits the establishme
 “(3)
 
 Notification.—In each case in which counternarcotics assistance is provided for the Government of Colombia as a result of a finding by the President described in paragraph (2), the President shall notify the Committees on Appropriations and the authorizing committees of jurisdiction of the House of Representatives and the Senate not later than 5 days after such assistance is provided.”
+
+\[For delegation of functions of President under section 821(b) of Pub. L. 105–277, div. C, title VIII, set out above, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.\]
 
 #### Report on Armed Forces Stationed in Andean Countries
 
@@ -464,7 +466,7 @@ Report to Congress.—The Secretary of the Treasury shall include, in the detail
 
 Definitions.—As used in this section—
 
-&emsp;“(1) the term ‘multilateral development bank’ includes the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the Inter-American Investment Corporation, the Asian Development Bank, the African Development Bank, and the African Development Fund; and
+&emsp;“(1) the term ‘multilateral development bank’ includes the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, theInter-American Development Bank, the Inter-American Investment Corporation, the Asian Development Bank, the African Development Bank, and the African Development Fund; and
 
 &emsp;“(2) the term ‘illegal drugs’ means ‘narcotic and psychotropic drugs and other controlled substances’, as defined in section 481(i)(3) of the Foreign Assistance Act of 1961 (22 U.S.C. 2291(i)(3)).”
 
@@ -534,7 +536,7 @@ Increases in Multilateral Development Bank Lending for Crop Substitution Project
 
 “(c)
 
-National Advisory Council Report.—The Secretary of the Treasury shall include in the annual report to the Congress by the National Advisory Council on International Monetary and Financial Policies a detailed accounting of the manner in which and the extent to which the provisions of this section have been carried out.
+National Advisory Council Report.—The Secretary of the Treasury shall include in the annual report to the Congress by the National Advisory Councilon International Monetary and Financial Policies a detailed accounting of the manner in which and the extent to which the provisions of this section have been carried out.
 
 “(d)
 
@@ -558,7 +560,7 @@ Section 2029 of Pub. L. 99–570 directed Director of United States Information 
 
 #### United States Senate Caucus on International Narcotics Control
 
-Pub. L. 99–93, title VIII, §814, Aug. 16, 1985, 99 Stat. 455, as amended by Pub. L. 99–151, title III, §306, Nov. 13, 1985, 99 Stat. 808; Pub. L. 100–202, §101(i) \[title I, §5\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 102–392, title III, §323, Oct. 6, 1992, 106 Stat. 1726; Pub. L. 105–119, title VI, §625, Nov. 26, 1997, 111 Stat. 2522, provided that:
+Pub. L. 99–93, title VIII, §814, Aug. 16, 1985, 99 Stat. 455, as amended by Pub. L. 99–151, title III, §306, Nov. 13, 1985, 99 Stat. 808; Pub. L. 100–202, §101(i) \[title I, §5\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 102–392, title III, §323, Oct. 6, 1992, 106 Stat. 1726; Pub. L. 105–119, title VI, §625, Nov. 26, 1997, 111 Stat. 2522; Pub. L. 106–57, title I, §7, Sept. 29, 1999, 113 Stat. 412, provided that:
 
 “(a)
 
@@ -606,7 +608,7 @@ Staff.—The Caucus may appoint and fix the pay of such staff personnel as it de
 
 “(i)
 
-Termination.—The Caucus shall cease to exist on September 30, 1999.”
+Termination.—The Caucus shall cease to exist on September 30, 2002.”
 
 Pub. L. 99–151, title III, §306, Nov. 13, 1985, 99 Stat. 808, provided that:
 
@@ -678,7 +680,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2151x–2, 2291a of this title; title 7 section 1736g–1; title 12 section 635; title 48 sections 1902, 1903.
+This section is referred to in sections 2151x–2, 2291a of this title; title 7 section 1736g–1; title 12 section 635; title 19 section 2492; title 48 sections 1902, 1903.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

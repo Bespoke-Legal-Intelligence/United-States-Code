@@ -46,5 +46,5 @@ The Postmaster General shall consider the following criteria in the procurement 
 
 #### References in Text
 
-The Clean Air Act Amendments of 1990, referred to in subsec. (c)(4), probably means Pub. L. 101–549, Nov. 15, 1990, 104 Stat. 2399. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 7401 of this title and Tables.
+The Clean Air Act Amendments of 1990, referred to in subsec. (c)(4), probably means Pub. L. 101–549, Nov. 15, 1990, 104 Stat. 2399. For complete classification of thisAct to the Code, see Short Title of 1990 Amendment note set out under section 7401 of this title and Tables.
 

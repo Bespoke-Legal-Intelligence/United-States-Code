@@ -152,7 +152,7 @@ The Board of Directors shall meet at the call of its Chairman, or as otherwise p
 
 &emsp;&emsp;&emsp;(ii) upon such date as the Commission shall for good cause determine. Any proposed rule change which takes effect under this clause shall be filed promptly thereafter and reviewed in accordance with the provisions of subparagraph (A).
 
-> &emsp;&emsp;At any time within sixty days after the date of filing of any rule change which has taken effect pursuant to this subparagraph, the Commission may summarily abrogate such rule change and require that it be refiled and reviewed in accordance with the provisions of this paragraph, if the Commission finds that such action is necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter. Any action of the Commission pursuant to the preceding sentence shall not affect the validity or force of a rule change during the period it was in effect and shall not be reviewable under section 78y of this title or deemed to be final agency action for purposes of section 704 of title 5.
+> &emsp;&emsp;At any time within sixty days after the date of filing of any rule change which has taken effect pursuant to this subparagraph, the Commission may summarily abrogate such rule change and require that it be refiled and reviewed in accordance with the provisions of this paragraph, if the Commission finds that such action is necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of thepurposes of this chapter. Any action of the Commission pursuant to the preceding sentence shall not affect the validity or force of a rule change during the period it was in effect and shall not be reviewable under section 78y of this title or deemed to be final agency action for purposes of section 704 of title 5.
 
 #### (3) Action required by Commission
 
@@ -164,7 +164,7 @@ The Board of Directors shall meet at the call of its Chairman, or as otherwise p
 
 This chapter, referred to in subsecs. (a) to (c) and (e), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1)(B), is Pub. L. 87–569, Aug. 6,1962, 76 Stat. 265, as amended, which appears in chapter 5 (§29–501 et seq.) of Title 29, Corporations, of the District of Columbia Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1)(B), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which appears in chapter 5 (§29–501 et seq.) of Title 29, Corporations, of the District of Columbia Code.
 
 #### Amendments
 

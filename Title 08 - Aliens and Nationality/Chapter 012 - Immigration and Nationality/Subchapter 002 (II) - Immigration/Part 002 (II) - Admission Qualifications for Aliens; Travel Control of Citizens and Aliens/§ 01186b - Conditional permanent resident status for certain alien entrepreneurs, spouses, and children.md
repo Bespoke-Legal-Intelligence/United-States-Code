@@ -40,7 +40,7 @@
 
 #### (2) Hearing in removal proceeding
 
-&emsp;Any alien whose permanent resident status is terminated under paragraph (1) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that a condition described in paragraph (1) is met.
+&emsp;Any alien whose permanent resident status is terminated under paragraph (1) may requesta review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that a condition described in paragraph (1) is met.
 
 #### (c) Requirements of timely petition and interview for removal of condition
 
@@ -124,7 +124,7 @@
 
 #### (e) Treatment of period for purposes of naturalization
 
-For purposes of subchapter III of this chapter, in the case of an alien who is in the United States as a lawful permanent resident on a conditional basis under this section, the alien shall be considered to have been admitted as an alien lawfully admitted for permanent residence andto be in the United States as an alien lawfully admitted to the United States for permanent residence.
+For purposes of subchapter III of this chapter, in the case of an alien who is in the United States as a lawful permanent resident on a conditional basis under this section, the alien shall be considered to have been admitted as an alien lawfully admitted for permanent residence and to be in the United States as an alien lawfully admitted to the United States for permanent residence.
 
 #### (f) Definitions
 

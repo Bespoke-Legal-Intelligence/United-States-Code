@@ -2,11 +2,11 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 2916, 2918, 2931, 2934, 2939, 2944 of this title.
+This subchapter is referred to in sections 2916, 2918, 2931, 2934, 2939, 2944 of this title; title 42 sections 3056h, 4959.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 
 
 ---

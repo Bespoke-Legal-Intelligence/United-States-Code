@@ -2,7 +2,7 @@
 
 #### (a) Sweetening of grape wines
 
-Any natural grape wine may be sweetened after fermentation and before taxpayment withpure dry sugar or liquid sugar if the total solids content of the finished wine does not exceed 12 percent of the weight of the wine and the alcoholic content of the finished wine after sweetening is not more than 14 percent by volume; except that the use under this subsection of liquid sugar shall be limited so that the resultant volume will not exceed the volume which could result from the maximum authorized use of pure dry sugar only.
+Any natural grape wine may be sweetened after fermentation and before taxpayment with pure dry sugar or liquid sugar if the total solids content of the finished wine does not exceed 12 percent of the weight of the wine and the alcoholic content of the finished wine after sweetening is not more than 14 percent by volume; except that the use under this subsection of liquid sugar shall be limited so that the resultant volume will not exceed the volume which could result from the maximum authorized use of pure dry sugar only.
 
 #### (b) High acid wines
 
@@ -12,7 +12,7 @@ Any natural grape wine may be sweetened after fermentation and before taxpayment
 
 #### (2) Sweetening
 
-&emsp;Any wine produced under this subsection may be sweetened by the producer thereof, after amelioration and fermentation, with pure dry sugar or liquid sugar if the total solids content of the finished wine does not exceed (A) 17 percent by weight if the alcoholic content is more than 14 percent by volume, or (B) 21 percent by weight if the alcoholic content is not more than 14 percent by volume. The use under this paragraph of liquid sugar shall be limited to cases where the resultant volume does not exceed the volume which could result from the maximum authorized use of pure dry sugar only.
+&emsp;Any wine produced under this subsection may be sweetened by the producer thereof,after amelioration and fermentation, with pure dry sugar or liquid sugar if the total solids content of the finished wine does not exceed (A) 17 percent by weight if the alcoholic content is more than 14 percent by volume, or (B) 21 percent by weight if the alcoholic content is not more than 14 percent by volume. The use under this paragraph of liquid sugar shall be limited to cases where the resultant volume does not exceed the volume which could result from the maximum authorized use of pure dry sugar only.
 
 #### (3) Wine spirits
 

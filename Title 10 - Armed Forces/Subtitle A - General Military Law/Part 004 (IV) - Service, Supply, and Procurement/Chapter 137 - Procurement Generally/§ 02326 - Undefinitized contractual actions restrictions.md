@@ -132,7 +132,7 @@ Limitation on Use of Funds for Undefinitized Contractual Actions.—(1) On the l
 
 &emsp;&emsp;“(ii) the amount of such funds obligated for undefinitized contractual actions; and
 
-&emsp;“(B) except with respect to the six-month period described in paragraph (4)(A), may not enter into any additional undefinitized contractual actions until the date on which the Secretary certifies to Congress that such limit is not exceeded by the cumulative amount of funds obligated for undefinitized contractual actions under the jurisdiction of the Secretary that are not definitized on or before such date and were entered into—
+&emsp;“(B) except with respect to the six-month period described in paragraph (4)(A), may not enter into any additional undefinitized contractual actions until the date on which the Secretary certifies to Congress that such limit is not exceeded by the cumulative amount of funds obligated for undefinitized contractual actions under the jurisdiction of the Secretarythat are not definitized on or before such date and were entered into—
 
 &emsp;&emsp;“(i) during the six-month period for which such limit was exceeded; or
 

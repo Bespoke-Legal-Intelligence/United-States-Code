@@ -6,7 +6,7 @@
 
 &emsp;(A) shall provide that the prohibition of dual trading thereunder shall take effect not less than thirty days after the issuance of the regulations;
 
-&emsp;(B) shall provide for exceptions, as the Commission determines necessary and appropriate,to ensure fairness and orderly trading in affected contract markets, including—
+&emsp;(B) shall provide for exceptions, as the Commission determines necessary and appropriate, to ensure fairness and orderly trading in affected contract markets, including—
 
 &emsp;&emsp;(i) transition measures and a reasonable phase-in period,
 
@@ -108,7 +108,7 @@ The Commission shall within nine months after the effective date of the Commodit
 
 &emsp;(B) to any contract market that has implemented rules designed to prevent violations of this chapter attributable to the trading described in paragraph (1), except that, if the Commission determines, by rule or order, that such rules are not adequate to prevent such violations, paragraph (1) shall become effective with respect to such contract market after a reasonable period determined by the Commission.
 
-(Sept. 21, 1922, ch. 369, §4j, as added Pub. L. 93–463, title II, §203, Oct. 23, 1974, 88 Stat. 1396; amended Pub. L. 94–16, §2, Apr. 16, 1975, 89 Stat. 77; Pub. L. 102–546, title I, §§101, 102(a), Oct. 28, 1992, 106 Stat. 3591, 3594.)
+(Sept. 21, 1922, ch. 369, §4j, as added Pub. L. 93–463, title II, §203, Oct. 23, 1974, 88 Stat. 1396; amended Pub. L. 94–16, §2, Apr. 16, 1975, 89 Stat.77; Pub. L. 102–546, title I, §§101, 102(a), Oct. 28, 1992, 106 Stat. 3591, 3594.)
 
 #### References in Text
 

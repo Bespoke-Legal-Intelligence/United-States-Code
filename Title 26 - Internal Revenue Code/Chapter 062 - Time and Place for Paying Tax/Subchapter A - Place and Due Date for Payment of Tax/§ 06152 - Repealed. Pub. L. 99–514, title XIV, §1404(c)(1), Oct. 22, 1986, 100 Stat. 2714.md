@@ -4,5 +4,5 @@ Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 757; Sept. 1, 1954, ch. 1212, §
 
 #### Effective Date of Repeal
 
-Repeal applicable to taxable years beginning after Dec. 31, 1986, see section 1404(d) of Pub. L. 99–514, setout as an Effective Date of 1986 Amendment note under section 643 of this title.
+Repeal applicable to taxable years beginning after Dec. 31, 1986, see section 1404(d) of Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note under section 643 of this title.
 

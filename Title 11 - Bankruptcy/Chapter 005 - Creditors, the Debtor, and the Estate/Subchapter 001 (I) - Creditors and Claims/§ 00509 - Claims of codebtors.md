@@ -1,6 +1,6 @@
 ### §509. Claims of codebtors
 
-(a) Except as provided in subsection (b) or (c) of this section, an entity that is liable with the debtor on, or that has secured, a claim of a creditor against the debtor, and that pays such claim, is subrogated to the rights of such creditor to the extent of such payment.
+(a) Except as provided in subsection (b) or (c) of this section, an entity that is liable with the debtor on, or that has secured, a claim of a creditor against the debtor, and that pays suchclaim, is subrogated to the rights of such creditor to the extent of such payment.
 
 (b) Such entity is not subrogated to the rights of such creditor to the extent that—
 
@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 98–353, §450(c), substituted “this section” for “s
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
 #### Section Referred to in Other Sections
 

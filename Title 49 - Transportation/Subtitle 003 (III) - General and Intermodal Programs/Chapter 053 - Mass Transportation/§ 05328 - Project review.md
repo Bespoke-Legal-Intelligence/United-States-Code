@@ -44,7 +44,7 @@ Program of Interrelated Projects.—(1) In this subsection, a program of interre
 
 &emsp;(F) the Queens Local/Express Connector Program, consisting of the locally preferred alternative for the connection of the 63d Street tunnel extension to the Queens Boulevard lines, the bell-mouth part of the connector that will allow for future access by commuter rail trains and other subway lines to the 63d Street tunnel extension, planning elements for connecting the upper and lower levels to commuter and subway lines in Long Island City, and planning elements for providing a connector for commuter rail transportation to the East side of Manhattan and subway lines to the proposed Second Avenue subway.
 
-&emsp;(G) the Dallas Area Rapid Transit Authority light rail elements of the New System Plan, consisting of the locally preferred alternativefor the South Oak Cliff corridor, the South Oak Cliff corridor extension-Camp Wisdom, the West Oak Cliff corridor-Westmoreland, the North Central corridor-Park Lane, the North Central corridor-Richardson, Plano, and Garland extensions, the Pleasant Grove corridor-Buckner, and the Carrollton corridors-Farmers Branch and Las Colinas terminal.
+&emsp;(G) the Dallas Area Rapid Transit Authority light rail elements of the New System Plan, consisting of the locally preferred alternative for the South Oak Cliff corridor, the South Oak Cliff corridor extension-Camp Wisdom, the West Oak Cliff corridor-Westmoreland, the North Central corridor-Park Lane, the North Central corridor-Richardson, Plano, and Garland extensions, the Pleasant Grove corridor-Buckner, and the Carrollton corridors-Farmers Branch and Las Colinas terminal.
 
 &emsp;(H) other programs designated by law or the Secretary.
 
@@ -104,7 +104,7 @@ In subsection (c)(2), the words “if appropriate” are omitted as surplus.
 
 #### References in Text
 
-The Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (c)(1)(A), is Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914, as amended. Title III of the Act is also known as the Federal Transit Act Amendments of 1991. Provisions defining the New Jersey Urban Core Project are contained in section 3031 of the Act, which is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of this title and Tables.
+The Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (c)(1)(A), is Pub. L.102–240, Dec. 18, 1991, 105 Stat. 1914, as amended. Title III of the Act is also known as the Federal Transit Act Amendments of 1991. Provisions defining the New Jersey Urban Core Project are contained in section 3031 of the Act, which is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of this title and Tables.
 
 The Department of Transportation and Related Agencies Appropriations Act, 1991, referred to in subsec. (c)(1)(E), is Pub. L. 101–516, Nov. 5, 1990, 104 Stat. 2155, as amended. Provisions relating to the Westside Light Rail Program are contained in section 328 of the Act, which is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 

@@ -38,7 +38,7 @@
 
 #### (3) Bond
 
-&emsp;An alien permitted to depart voluntarily under this subsection shall be required to posta voluntary departure bond, in an amount necessary to ensure that the alien will depart, to be surrendered upon proof that the alien has departed the United States within the time specified.
+&emsp;An alien permitted to depart voluntarily under this subsection shall be required to post a voluntary departure bond, in an amount necessary to ensure that the alien will depart, to be surrendered upon proof that the alien has departed the United States within the time specified.
 
 #### (c) Aliens not eligible
 

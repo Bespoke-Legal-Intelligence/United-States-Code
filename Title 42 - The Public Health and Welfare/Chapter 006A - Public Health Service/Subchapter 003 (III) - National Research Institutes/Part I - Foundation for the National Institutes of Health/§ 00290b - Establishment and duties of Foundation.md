@@ -84,7 +84,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 #### (3) Terms and vacancies
 
-&emsp;(A) The term of office of each member of the Board appointed under paragraph (1)(C) shall be 5 years, except that the terms of offices for the initial appointed members of the Board shall expire as determined by the ex officio members and the Chair.
+&emsp;(A) The term of office of each member of the Board appointed under paragraph (1)(C) shall be 5 years, except that the terms of offices forthe initial appointed members of the Board shall expire as determined by the ex officio members and the Chair.
 
 &emsp;(B) Any vacancy in the membership of the Board shall be filled in the manner in which the original position was made and shall not affect the power of the remaining members to execute the duties of the Board.
 

@@ -42,7 +42,7 @@ The Secretary of State, in cooperation with the Secretary, may initiate and cond
 
 &emsp;The Secretary of State, in cooperation with the Secretary, shall evaluate the effectiveness of each existing international fishery agreement which pertains to fishing for highly migratory species. Such evaluation shall consider whether the agreement provides for—
 
-&emsp;&emsp;(A) the collection and analysis of necessary information for effectively managing the fishery, including but not limited to information about the number of vessels involved, the type and quantity of fishing gear used, the species of fish involved and their location, the catch and bycatch levels in the fishery, and the present and probable future condition of any stock of fish involved;
+&emsp;&emsp;(A) the collection and analysis of necessary information for effectively managingthe fishery, including but not limited to information about the number of vessels involved, the type and quantity of fishing gear used, the species of fish involved and their location, the catch and bycatch levels in the fishery, and the present and probable future condition of any stock of fish involved;
 
 &emsp;&emsp;(B) the establishment of measures applicable to the fishery which are necessary and appropriate for the conservation and management of the fishery resource involved;
 
@@ -54,7 +54,7 @@ The Secretary of State, in cooperation with the Secretary, may initiate and cond
 
 #### (2) Access negotiations
 
-&emsp;The Secretary of State, in cooperation with the Secretary, shall initiate negotiations with respect to obtaining access for vessels of theUnited States fishing for tuna species within the exclusive economic zones of other nations on reasonable terms and conditions.
+&emsp;The Secretary of State, in cooperation with the Secretary, shall initiate negotiations with respect to obtaining access for vessels of the United States fishing for tuna species within the exclusive economic zones of other nations on reasonable terms and conditions.
 
 #### (3) Reports
 
@@ -114,7 +114,7 @@ It is the sense of the Congress that the United States Government shall not reco
 
 #### Amendment of Section
 
-<i>Pub. L. 102–251, title III, §§301(e)(1), (2), 308, Mar. 9, 1992, 106 Stat. 63, 66, provided that, ef</i><i>fective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:</i>
+<i>Pub. L. 102–251, title III, §§301(e)(1), (2), 308, Mar. 9, 1992, 106 Stat. 63, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:</i>
 
 <i>(1) in subsection (b), (A) by inserting “or special areas” immediately after “February 28, 1977)” and (B) by striking “such zone or area” and inserting in lieu thereof “such zone or areas”; and</i>
 
@@ -298,7 +298,7 @@ Certification for Purposes of Fishermen's Protective Act of 1967.—If the Secre
 
 “(a)
 
-Marking, Registry, and Identification System.—The Secretary shall evaluate, in consultation with officials of other Federal agencies and such other persons as may be appropriate, the feasibility of and develop recommendations for the establishment of a driftnet marking, registry, and identification system to provide a reliable method for the determination of the origin by vessel, of lost, discarded, or abandoned driftnets and fragments of driftnets. In conducting such evaluation, the Secretary shall consider the adequacy of existing driftnet identification systems of foreign nations and the extent to which these systems achieve the objectives of this title.
+Marking, Registry, and Identification System.—The Secretary shall evaluate, in consultationwith officials of other Federal agencies and such other persons as may be appropriate, the feasibility of and develop recommendations for the establishment of a driftnet marking, registry, and identification system to provide a reliable method for the determination of the origin by vessel, of lost, discarded, or abandoned driftnets and fragments of driftnets. In conducting such evaluation, the Secretary shall consider the adequacy of existing driftnet identification systems of foreign nations and the extent to which these systems achieve the objectives of this title.
 
 “(b)
 

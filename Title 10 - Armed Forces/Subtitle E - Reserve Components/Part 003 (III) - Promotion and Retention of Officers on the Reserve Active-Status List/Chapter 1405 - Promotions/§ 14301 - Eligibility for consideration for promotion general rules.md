@@ -26,11 +26,11 @@ Previously Selected Officers Not Eligible To Be Considered.—A promotion board 
 
 (d)
 
-Officers Below the Zone.—The Secretary of the military department concerned may, byregulation, prescribe procedures to limit the officers to be considered by a selection board from below the promotion zone to those officers who are determined to be exceptionally well qualified for promotion. The regulations shall include criteria for determining which officers below the promotion zone are exceptionally well qualified for promotion.
+Officers Below the Zone.—The Secretary of the military department concerned may, by regulation, prescribe procedures to limit the officers to be considered by a selection board from below the promotion zone to those officers who are determined to be exceptionally well qualified for promotion. The regulations shall include criteria for determining which officers below the promotion zone are exceptionally well qualified for promotion.
 
 (e)
 
-Certain Reserve Officers of the Air Force.—A reserve officer of the Air Force who (1) is in the Air National Guard of the United States and holds the grade of lieutenant colonel, colonel, or brigadier general, or (2) is in the Air Force Reserve and holds the grade of colonel or brigadier general, is not eligible for consideration for promotion by a mandatory promotion board convened under section 14101(a) of this title.
+Certain Reserve Officers of the Air Force.—A reserve officer of the Air Force who (1) is in the Air National Guard of the United States and holds the grade of lieutenant colonel, colonel, or brigadier general, or (2) is in the Air Force Reserve and holds the grade of colonel orbrigadier general, is not eligible for consideration for promotion by a mandatory promotion board convened under section 14101(a) of this title.
 
 (f)
 
@@ -38,13 +38,25 @@ Nonconsideration of Officers Scheduled for Removal From Reserve Active-Status Li
 
 (g) A reserve component brigadier general of the Army or the Air Force who is in an inactive status is eligible (notwithstanding subsection (a)) for consideration for promotion to major general by a promotion board convened under section 14101(a) of this title if the officer—
 
-&emsp;(1) has been in an inactive status for less than 1 year as of the date of the convening of the promotion board; and
+&emsp;(1) has been in an inactive status for less than one year as of the date of the convening of the promotion board; and
 
-&emsp;(2) had continuously served for at least 1 year on the reserve active status list or the active duty list (or a combination of both) immediately before the officer's most recent transfer to an inactive status.
+&emsp;(2) had continuously served for at least one year on the reserve active status list or the active duty list (or a combination of both) immediately before the officer's most recent transfer to an inactive status.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2931; amended Pub. L. 105–85, div. A, title V, §§503(b), (c), 514(b), Nov. 18, 1997, 111 Stat. 1724, 1725, 1732; Pub. L. 105–261, div. A, title V, §514, Oct. 17, 1998, 112 Stat. 2008.)
+(h)
+
+Officers on Educational Delay.—An officer on the reserve active-status list is ineligible for consideration for promotion, but shall remain on the reserve active-status list, while the officer—
+
+&emsp;(1) is pursuing a program of graduate level education in an educational delay status approved by the Secretary concerned; and
+
+&emsp;(2) is receiving from the Secretary financial assistance in connection with the pursuit of that program of education while in that status.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2931; amended Pub. L. 105–85, div. A, title V, §§503(b), (c), 514(b), Nov. 18, 1997, 111 Stat. 1724, 1725, 1732; Pub. L. 105–261, div. A, title V, §514, Oct. 17, 1998, 112 Stat. 2008; Pub. L. 106–65, div. A, title V, §513(a), title X, §1066(a)(32), Oct. 5, 1999, 113 Stat. 593, 772.)
 
 #### Amendments
+
+1999—Subsec. (g)(1), (2). Pub. L. 106–65, §1066(a)(32), substituted “one year” for “1 year”.
+
+Subsec. (h). Pub. L. 106–65, §513(a), added subsec. (h).
 
 1998—Subsec. (g). Pub. L. 105–261 added subsec. (g).
 
@@ -71,6 +83,14 @@ Subsecs. (e) to (g). Pub. L. 105–85, §514(b), redesignated subsecs. (f) and (
 “(e)
 
 Reserve Officers of the Army; Consideration for Brigadier General and Major General.—In the case of officers of the Army, if the Secretary of the Army determines that vacancies are authorized or anticipated in the reserve grades of major general or brigadier general for officers who are on the reserve active-status list and who are not assigned to units organized to serve as a unit and the Secretary convenes a mandatory promotion board under section 14101(a) of this title to consider officers for promotion to fill such vacancies, the Secretary may limit the officers to be considered by that board to those determined to be exceptionally well qualified for promotion under such criteria and procedures as the Secretary may by regulation prescribe.”
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–65, div. A, title V, §513(b), Oct. 5, 1999, 113 Stat. 593, provided that:
+
+“(1) Subsection (h) of section 14301 of title 10, United States Code (as added by subsection (a)), shall apply with respect to boards convened under section 14101(a) of such title before, on, or after the date of the enactment of this Act \[Oct. 5, 1999\].
+
+“(2) The Secretary of the military department concerned, upon receipt of request submitted in a form and manner prescribed by the Secretary, shall expunge from the military records of an officer any indication of a failure of selection of the officer for promotion by a board referred to in paragraph (1) while the officer was ineligible for consideration by that board by reason of section 14301(h) of title 10, United States Code.”
 
 #### Effective Date of 1997 Amendment
 

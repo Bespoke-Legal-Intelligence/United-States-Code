@@ -14,7 +14,7 @@
 
 #### (1) On the foundation
 
-&emsp;In any case in which an initial tax is imposed by subsection (a)(1) on a taxable expenditure and such expenditure is not corrected within the taxable period, there is hereby imposed a tax equal to 100 percent of the amount of the expenditure. The tax imposed by thisparagraph shall be paid by the private foundation.
+&emsp;In any case in which an initial tax is imposed by subsection (a)(1) on a taxable expenditure and such expenditure is not corrected within the taxable period, there is hereby imposed a tax equal to 100 percent of the amount of the expenditure. The tax imposed by this paragraph shall be paid by the private foundation.
 
 #### (2) On the management
 
@@ -80,7 +80,7 @@ Subsection (d)(2) shall not apply to any amount paid or incurred by any organiza
 
 Subsection (d)(3) shall not apply to an individual grant awarded on an objective and nondiscriminatory basis pursuant to a procedure approved in advance by the Secretary, if it is demonstrated to the satisfaction of the Secretary that—
 
-&emsp;(1) the grant constitutes a scholarship or fellowship grant which would be subject to the provisions of section 117(a) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) and is to be used forstudy at an educational organization described in section 170(b)(1)(A)(ii),
+&emsp;(1) the grant constitutes a scholarship or fellowship grant which would be subject to the provisions of section 117(a) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) and is to be used for study at an educational organization described in section 170(b)(1)(A)(ii),
 
 &emsp;(2) the grant constitutes a prize or award which is subject to the provisions of section 74(b) (without regard to paragraph (3) thereof), if the recipient of such prize or award is selected from the general public, or
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (1) Correction
 
-&emsp;The terms “correction” and “correct” means, with respect to any taxable expenditure, (A) recovering part or all of the expenditure to the extent recovery is possible, and where full recovery is not possible such additional corrective action as is prescribed by the Secretary by regulations, or (B) in the case of a failure to comply with subsection (h)(2) or (h)(3), obtaining or making the report in question.
+&emsp;The terms “correction” and “correct” means, with respect to any taxable expenditure, (A) recovering part or all of the expenditure to the extent recovery is possible, and where full recovery is not possible such additional corrective action as is prescribed by theSecretary by regulations, or (B) in the case of a failure to comply with subsection (h)(2) or (h)(3), obtaining or making the report in question.
 
 #### (2) Taxable period
 

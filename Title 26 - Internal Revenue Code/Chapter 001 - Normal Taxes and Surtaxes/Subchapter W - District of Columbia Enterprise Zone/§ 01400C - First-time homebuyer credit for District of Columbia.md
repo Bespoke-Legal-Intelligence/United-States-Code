@@ -62,7 +62,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “purchase” means any acquisition, but only if—
 
-&emsp;&emsp;&emsp;(i) the property is not acquired from a person whose relationship to the personacquiring it would result in the disallowance of losses under section 267 or 707(b) (but, in applying section 267(b) and (c) for purposes of this section, paragraph (4) of section 267(c) shall be treated as providing that the family of an individual shall include only his spouse, ancestors, and lineal descendants), and
+&emsp;&emsp;&emsp;(i) the property is not acquired from a person whose relationship to the person acquiring it would result in the disallowance of losses under section 267 or 707(b)\(but, in applying section 267(b) and (c) for purposes of this section, paragraph (4) of section 267(c) shall be treated as providing that the family of an individual shall include only his spouse, ancestors, and lineal descendants), and
 
 &emsp;&emsp;&emsp;(ii) the basis of the property in the hands of the person acquiring it is not determined—
 
@@ -92,11 +92,13 @@ For purposes of this subtitle, if a credit is allowed under this section with re
 
 #### (i) Application of section
 
-This section shall apply to property purchased after August 4, 1997, and before January 1, 2001.
+This section shall apply to property purchased after August 4, 1997, and before January 1, 2002.
 
-(Added Pub. L. 105–34, title VII, §701(a), Aug. 5, 1997, 111 Stat. 867; amended Pub. L. 105–206, title VI, §6008(d)(1)–(5), July 22, 1998, 112 Stat. 811, 812.)
+(Added Pub. L. 105–34, title VII, §701(a), Aug. 5, 1997, 111 Stat. 867; amended Pub. L. 105–206, title VI, §6008(d)(1)–(5), July 22, 1998, 112 Stat. 811, 812; Pub. L. 106–170, title V, §510, Dec. 17, 1999, 113 Stat. 1924.)
 
 #### Amendments
+
+1999—Subsec. (i). Pub. L. 106–170 substituted “2002” for “2001”.
 
 1998—Subsec. (b)(1). Pub. L. 105–206, §6008(d)(1), inserted “and subsection (d)” after “this subsection” in introductory provisions.
 

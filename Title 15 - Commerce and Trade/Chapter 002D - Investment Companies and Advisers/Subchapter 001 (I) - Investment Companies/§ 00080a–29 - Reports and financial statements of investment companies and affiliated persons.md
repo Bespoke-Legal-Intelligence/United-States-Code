@@ -42,7 +42,7 @@ Every registered investment company shall transmit to its stockholders, at least
 
 &emsp;(3) a statement of income, for the period covered by the report, which shall be itemized at least with respect to each category of income and expense representing more than 5 per centum of total income or expense;
 
-&emsp;(4) a statement of surplus, which shall be itemized at least with respect to each chargeor credit to the surplus account which represents more than 5 per centum of the total charges or credits during the period covered by the report;
+&emsp;(4) a statement of surplus, which shall be itemized at least with respect to each charge or credit to the surplus account which represents more than 5 per centum of the total charges or credits during the period covered by the report;
 
 &emsp;(5) a statement of the aggregate remuneration paid by the company during the period covered by the report (A) to all directors and to all members of any advisory board for regular compensation; (B) to each director and to each member of an advisory board for special compensation; (C) to all officers; and (D) to each person of whom any officer or director of the company is an affiliated person; and
 
@@ -88,7 +88,7 @@ The Securities Exchange Act of 1934, referred to in subsec. (i)(1), is act June 
 
 Subsec. (e). Pub. L. 105–353, §301(c)(5)(B), substituted “semiannually” for “semi-annually” in introductory provisions.
 
-Subsecs. (g) to (j). Pub. L. 105–353, §301(c)(5)(C), redesignated subsecs. (g) and (h), relating to disclosure to church plan participants and notice to Commission, respectively, as (i) and (j), respectively.
+Subsecs. (g) to (j). Pub. L. 105–353, §301(c)(5)(C), redesignated subsecs. (g) and (h), relating to disclosure tochurch plan participants and notice to Commission, respectively, as (i) and (j), respectively.
 
 1996—Subsec. (b)(1). Pub. L. 104–290, §206(1), added par. (1) and struck out former par. (1) which read as follows: “such information and documents (other than financial statements) as the Commission may require, on a semi-annual or quarterly basis, to keep reasonably current the information and documents contained in the registration statement of such company filed under this subchapter; and”.
 

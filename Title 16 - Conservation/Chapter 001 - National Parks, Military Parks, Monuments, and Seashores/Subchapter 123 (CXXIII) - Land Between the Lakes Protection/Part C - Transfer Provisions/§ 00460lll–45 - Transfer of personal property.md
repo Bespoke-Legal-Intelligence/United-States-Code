@@ -4,7 +4,7 @@
 
 #### (1) Inventory
 
-&emsp;Not later than 60 days after the date of transfer pursuant to section 460<i>lll</i>–41 of this title, the Tennessee Valley Authority shallprovide the Secretary with an inventory of all property and facilities at the Recreation Area.
+&emsp;Not later than 60 days after the date of transfer pursuant to section 460<i>lll</i>–41 of this title, the Tennessee Valley Authority shall provide the Secretary with an inventory of all property and facilities at the Recreation Area.
 
 #### (2) Availability for transfer
 

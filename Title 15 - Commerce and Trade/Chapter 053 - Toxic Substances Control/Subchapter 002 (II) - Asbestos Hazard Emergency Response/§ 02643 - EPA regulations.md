@@ -182,7 +182,7 @@ Any change made in the “Guidance for Controlling Asbestos-Containing Material 
 
 #### (m) Waiver
 
-The Administrator, upon request by a Governor and after notice and comment and opportunity for a public hearing in the affected State,may waive some or all of the requirements of this section and section 2644 of this title with respect to such State if it has established and is implementing a program of asbestos inspection and management that contains requirements that are at least as stringent as the requirements of this section and section 2644 of this title.
+The Administrator, upon request by a Governor and after notice and comment and opportunity for a public hearing in the affected State, may waive some or all of the requirements of this section and section 2644 of this title with respect to such State if it has established and is implementing a program of asbestos inspection and management that contains requirements that are at least as stringent as the requirements of this section and section 2644 of this title.
 
 (Pub. L. 94–469, title II, §203, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2972; amended Pub. L. 101–637, §13, Nov. 28, 1990, 104 Stat. 4593.)
 

@@ -1,6 +1,6 @@
 ### §4306. Service schools: leaves of absence for instructors
 
-The officer in charge of an Army service school may grant a leave of absence for the period of the suspension of the ordinary academic studies, without reduction of pay or allowances, to any officer on duty exclusively as an instructor at the school.
+The officer in charge of an Army service school may grant a leave of absence for the period of the suspension of the ordinary academic studies, without reduction of pay or allowances,to any officer on duty exclusively as an instructor at the school.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 235.)
 

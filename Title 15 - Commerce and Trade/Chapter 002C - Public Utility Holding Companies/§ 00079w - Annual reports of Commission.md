@@ -1,6 +1,6 @@
 ### §79w. Annual reports of Commission
 
-The Commission shall submit annually a report to the Congress covering the work of theCommission for the preceding year and including such information, data, and recommendations for further legislation in connection with the matters covered by this chapter as it may find advisable.
+The Commission shall submit annually a report to the Congress covering the work of the Commission for the preceding year and including such information, data, and recommendations for further legislation in connection with the matters covered by this chapter as it may find advisable.
 
 (Aug. 26, 1935, ch. 687, title I, §23, 49 Stat. 834.)
 

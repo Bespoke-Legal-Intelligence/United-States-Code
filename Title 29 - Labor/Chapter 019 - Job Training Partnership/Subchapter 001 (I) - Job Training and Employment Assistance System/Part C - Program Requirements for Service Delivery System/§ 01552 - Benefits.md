@@ -48,7 +48,7 @@ Amendment by Pub. L. 102–367 effective July 1, 1993, see section 701(a) of Pub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 section 2014; title 42 sections 12637, 12899e.
+This section is referred to in title 7 section 2014; title 42 section 12899e.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

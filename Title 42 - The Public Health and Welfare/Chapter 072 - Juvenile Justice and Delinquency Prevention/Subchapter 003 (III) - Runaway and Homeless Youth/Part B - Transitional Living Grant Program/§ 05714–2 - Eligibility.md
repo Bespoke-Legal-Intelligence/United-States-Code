@@ -18,7 +18,7 @@
 
 &emsp;(8) to provide for the establishment of outreach programs designed to attract individuals who are eligible to participate in the project;
 
-&emsp;(9) to submit to the Secretary an annual report that includes information regarding the activities carried out with funds under this part, the achievements of the project under this part carried out by the applicant and statistical summaries describing the number and the characteristics of the homeless youth who participate in such project in the year for which the report is submitted;
+&emsp;(9) to submit to the Secretary an annual report that includes information regarding the activities carried out with funds under this part, the achievements of the project under this part carried out by the applicant and statistical summaries describing the number and the characteristics of the homeless youth who participate in such project, and the services provided to such youth by such project, in the year for which the report is submitted;
 
 &emsp;(10) to implement such accounting procedures and fiscal control devices as the Secretary may require;
 
@@ -32,9 +32,11 @@
 
 (b) In selecting eligible applicants to receive grants under this part, the Secretary shall give priority to entities that have experience in providing to homeless youth shelter and services of the types described in subsection (a)(1) of this section.
 
-(Pub. L. 93–415, title III, §322, as added Pub. L. 100–690, title VII, §7273(f), Nov. 18, 1988, 102 Stat. 4456; amended Pub. L. 102–586, §3(f), Nov. 4, 1992, 106 Stat. 5022.)
+(Pub. L. 93–415, title III, §322, as added Pub. L. 100–690, title VII, §7273(f), Nov. 18, 1988, 102 Stat. 4456; amended Pub. L. 102–586, §3(f), Nov. 4, 1992, 106 Stat. 5022; Pub. L. 106–71, §3(f), Oct. 12, 1999, 113 Stat. 1038.)
 
 #### Amendments
+
+1999—Subsec. (a)(9). Pub. L. 106–71 inserted “, and the services provided to such youth by such project,” after “participate in such project”.
 
 1992—Subsec. (a)(1). Pub. L. 102–586, §3(f)(1), inserted “which shall include money management, budgeting, consumer education, and use of credit” after “basic life skills”.
 

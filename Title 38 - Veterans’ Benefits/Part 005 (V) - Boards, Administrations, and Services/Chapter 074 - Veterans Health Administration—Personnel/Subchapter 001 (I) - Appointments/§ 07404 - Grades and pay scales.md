@@ -48,7 +48,7 @@ Associate grade.
 
 (c) Notwithstanding the provisions of section 7425(a) of this title, a person appointed under section 7306 of this title who is not eligible for special pay under subchapter III shall be deemed to be a career appointee for the purposes of sections 4507 and 5384 of title 5.
 
-(d) Except as provided under subchapter III and in section 7457 of this title, pay may not be paid at a rate in excess of the rate of basic pay for an appropriate level authorized by section 5315 or 5316 of title 5 for positions in the Executive Schedule, as follows:
+(d) Except as provided under subchapter III and in section 7457 of this title, pay may not be paid at a rate in excess of the rate of basic pay for an appropriate level authorized by section5315 or 5316 of title 5 for positions in the Executive Schedule, as follows:
 
 &emsp;(1) Level IV for the Deputy Under Secretary for Health.
 
@@ -74,11 +74,11 @@ Subsec. (d)(1). Pub. L. 102–405, §302(c)(1), substituted “Under Secretary f
 
 Section 308 of Pub. L. 102–585 provided that: “The amendments made by sections 301, 302, 303, and 304 \[amending this section and sections 7451 and 7452 of this title\] shall take effect with respect to the first pay period beginning on or after the end of the six-month period beginning on the date of the enactment of this Act \[Nov. 4, 1992\].”
 
-#### Adjustment of Pay Rates Effective for Pay Periods Beginning On or After January 1, 1999
+#### Adjustment of Pay Rates Effective for Pay Periods Beginning On or After January 1, 2000
 
-Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for an adjustment of the pay rates under this section effective on the first day of the first applicable pay period beginning on or after Jan. 1, 1999. See Schedule set out below:
+Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for an adjustment of the pay rates under this section effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2000. See Schedule set out below:
 
-Schedule 3<br><i>Veterans Health Administration Schedules, Department of Veterans Affairs</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 1999)
+Schedule 3<br><i>Veterans Health Administration Schedules, Department of Veterans Affairs</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2000)
 
 &nbsp;
 
@@ -90,15 +90,15 @@ Schedule for the Office of the Under Secretary for Health (38 U.S.C. 7306) <sup
 
 Deputy Under Secretary for Health
 
-<sup>2</sup> $126,986
+<sup>2</sup> $131,811
 
 Associate Deputy Under Secretary for Health
 
-<sup>3</sup> 121,628
+<sup>3</sup> 126,250
 
 Assistant Under Secretaries for Health
 
-<sup>3</sup> 118,043
+<sup>3</sup> 122,529
 
 &nbsp;
 
@@ -108,153 +108,153 @@ Maximum
 
 Medical Directors
 
-$100,715
+$104,542
 
-<sup>3</sup> $114,146
+<sup>3</sup> $118,484
 
 Service Directors
 
-87,696
+91,028
 
-108,911
+113,050
 
 Director, National Center for Preventive Health
 
-74,773
+77,614
 
-108,911
+113,050
 
 Physician and Dentist Schedule
 
 Director Grade
 
-$87,696
+$91,028
 
-$108,911
+$113,050
 
 Executive Grade
 
-80,978
+84,055
 
-103,203
+107,125
 
 Chief Grade
 
-74,773
+77,614
 
-97,201
+100,897
 
 Senior Grade
 
-63,567
+65,983
 
-82,638
+85,774
 
 Intermediate Grade
 
-53,793
+55,837
 
-69,930
+72,586
 
 Full Grade
 
-45,236
+46,955
 
-58,808
+61,040
 
 Associate Grade
 
-37,744
+39,178
 
-49,066
+50,932
 
 Clinical Podiatrist and Optometrist Schedule
 
 Chief Grade
 
-$74,773
+$77,614
 
-$97,201
+$100,897
 
 Senior Grade
 
-63,567
+65,983
 
-82,638
+85,774
 
 Intermediate Grade
 
-53,793
+55,837
 
-69,930
+72,586
 
 Full Grade
 
-45,236
+46,955
 
-58,808
+61,040
 
 Associate Grade
 
-37,744
+39,178
 
-49,066
+50,932
 
 Physician Assistant and Expanded-Function Dental Auxiliary Schedule <sup>4</sup>
 
 Director Grade
 
-$74,773
+$77,614
 
-$97,201
+$100,897
 
 Assistant Director Grade
 
-63,567
+65,983
 
-82,638
+85,774
 
 Chief Grade
 
-53,793
+55,837
 
-69,930
+72,586
 
 Senior Grade
 
-45,236
+46,955
 
-58,808
+61,040
 
 Intermediate Grade
 
-37,744
+39,178
 
-49,066
+50,932
 
 Full Grade
 
-31,195
+32,380
 
-40,555
+42,091
 
 Associate Grade
 
-26,844
+27,864
 
-34,899
+36,225
 
 Junior Grade
 
-22,948
+23,820
 
-29,833
+30,966
 
 <sup>1</sup> This schedule does not apply to the Assistant Under Secretary for Nursing Programs or the Director of Nursing Services. Pay for these positions is set by the Under Secretary for Health under 38 U.S.C. 7451.
 
-<sup>2</sup> Pursuant to section 7404(d)(1) of title 38, United States Code, the rate of basic pay payable to this employee is limited to the rate for level IV of the Executive Schedule, which is $118,400.
+<sup>2</sup> Pursuant to section 7404(d)(1) of title 38, United States Code, the rate of basic pay payable to this employee is limited to the rate for level IV of the Executive Schedule, which is $122,400.
 
-<sup>3</sup> Pursuant to section 7404(d)(2) of title 38, United States Code, the rate of basic pay payable to these employees is limited to the rate for level V of the Executive Schedule, which is $110,700.
+<sup>3</sup> Pursuant to section 7404(d)(2) of title 38, United States Code, the rate of basic pay payable to these employees is limited to the rate for level V of the Executive Schedule, which is $114,500.
 
 <sup>4</sup> Pursuant to section 301(a) of Public Law 102–40, these positions are paid according to the Nurse Schedule in 38 U.S.C. 4107(b) \[former section 4107(b) of Title 38, Veterans’ Benefits\] as in effect on August 14, 1990, with subsequent adjustments.
 
@@ -376,7 +376,11 @@ Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, which provided for adjustment 
 
 #### Executive Order No. 13071
 
-Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, which provided for adjustment of pay rates effective Jan. 1, 1998, was superseded by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of Title 5.
+Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, which provided for adjustment of pay rates effective Jan. 1,1998, was superseded by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, formerly set out as a note under section 5332 of Title 5.
+
+#### Executive Order No. 13106
+
+Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, which provided for adjustment of pay rates effective Jan. 1, 1999, was substantially superseded by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, set out as a note under section 5332 of Title 5.
 
 #### Section Referred to in Other Sections
 

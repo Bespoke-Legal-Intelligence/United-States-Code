@@ -18,7 +18,7 @@ Requirements.—(1) The Secretary of Defense may not enter into a contract with 
 
 (b)
 
-Inspections.—The Secretary shall provide for inspections of each air carrier that contractswith the Department of Defense for the charter air transportation of members of the armed forces. The inspections shall be conducted in accordance with standards established by the Secretary, after consultation with the Secretary of Transportation, and shall include, at a minimum, the following:
+Inspections.—The Secretary shall provide for inspections of each air carrier that contracts with the Department of Defense for the charter air transportation of members of the armed forces. The inspections shall be conducted in accordance with standards established by the Secretary, after consultation with the Secretary of Transportation, and shall include, at a minimum, the following:
 
 &emsp;(1) An on-site capability survey of the air carrier conducted at least once every two years.
 

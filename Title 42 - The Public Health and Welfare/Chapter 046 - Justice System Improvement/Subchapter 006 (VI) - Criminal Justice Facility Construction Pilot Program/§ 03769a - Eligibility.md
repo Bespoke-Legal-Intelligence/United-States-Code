@@ -22,6 +22,10 @@ A prior section 602 of Pub. L. 90–351 was renumbered section 502 and classifie
 
 1994—Subsec. (a)(1). Pub. L. 103–322 substituted “chapter 319” for “chapter 315”.
 
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3769b of this title.

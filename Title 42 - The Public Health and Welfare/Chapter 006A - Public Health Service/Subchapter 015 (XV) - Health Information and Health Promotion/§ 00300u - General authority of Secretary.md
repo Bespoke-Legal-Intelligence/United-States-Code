@@ -24,7 +24,7 @@ The Secretary shall—
 
 &emsp;(7)(A) develop model programs through which employers in the public sector, and employers that are small businesses (as defined in section 632 of title 15), can provide for their employees a program to promote healthy behaviors and to discourage participation in unhealthy behaviors;
 
-&emsp;(B) provide technical assistance to public and private employers in implementing such programs (including private employers that are not small businesses and that will implement programs other than the programs developed by the Secretary pursuant to subparagraph (A)); and
+&emsp;(B) provide technical assistance to public and private employers in implementing suchprograms (including private employers that are not small businesses and that will implement programs other than the programs developed by the Secretary pursuant to subparagraph (A)); and
 
 &emsp;(C) in providing such technical assistance, give preference to small businesses;
 
@@ -82,7 +82,7 @@ Subsec. (b). Pub. L. 100–607, §312(a)(1), substituted “sections 300u throug
 
 1984—Subsec. (a). Pub. L. 98–551, §2(a)(1), added par. (10), and in provisions following par. (10) struck out “and with health planning and resource development activities undertaken under subchapters XIII and XIV of this chapter” after “section 300k–2 of this title” and inserted provisions for appointment of a Director for Office of Disease Prevention and Health Promotion and cooperation in administration of this subchapter.
 
-Subsec. (b). Pub. L. 98–551, §2(a)(2), substituted “To carry out this subchapter, there are authorized to be appropriated $9,000,000 for the fiscal year ending September 30, 1985, $9,500,000 for the fiscal year ending September 30, 1986, and $10,000,000 for the fiscal year ending September 30, 1987” for “For payments under grants and contracts under this subchapter (other than grants and contracts under sections 300u–6, 300u–7, and 300u–8 of this title) there are authorized to be appropriated $7,000,000 for the fiscal year ending September 30, 1977, $10,000,000 for the fiscal year ending September 30, 1978, $14,000,000 for the fiscal year ending September 30, 1979, $14,000,000 for the fiscal year ending September 30, 1980, $15,000,000 for the fiscal year ending September 30, 1981, and $16,000,000 for the fiscal year ending September 30, 1982.”
+Subsec. (b). Pub. L. 98–551, §2(a)(2), substituted “To carry out this subchapter, there are authorized to be appropriated $9,000,000 for the fiscal year ending September 30, 1985, $9,500,000 for the fiscal year ending September 30, 1986, and $10,000,000 for the fiscal year endingSeptember 30, 1987” for “For payments under grants and contracts under this subchapter (other than grants and contracts under sections 300u–6, 300u–7, and 300u–8 of this title) there are authorized to be appropriated $7,000,000 for the fiscal year ending September 30, 1977, $10,000,000 for the fiscal year ending September 30, 1978, $14,000,000 for the fiscal year ending September 30, 1979, $14,000,000 for the fiscal year ending September 30, 1980, $15,000,000 for the fiscal year ending September 30, 1981, and $16,000,000 for the fiscal year ending September 30, 1982.”
 
 1979—Subsec. (b). Pub. L. 96–76 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1980, Sept. 30, 1981, and Sept. 30, 1982.
 

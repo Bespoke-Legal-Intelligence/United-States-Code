@@ -20,7 +20,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(B) A reflection on a billing statement of a telephone-billed purchase for which the customer requests additional clarification, including documentary evidence thereof.
 
-&emsp;&emsp;(C) A reflection on a billing statement of a telephone-billed purchase that was not accepted by the customer or not provided tothe customer in accordance with the stated terms of the transaction.
+&emsp;&emsp;(C) A reflection on a billing statement of a telephone-billed purchase that was not accepted by the customer or not provided to the customer in accordance with the stated terms of the transaction.
 
 &emsp;&emsp;(D) A reflection on a billing statement of a telephone-billed purchase for a call made to an 800 or other toll free telephone number.
 

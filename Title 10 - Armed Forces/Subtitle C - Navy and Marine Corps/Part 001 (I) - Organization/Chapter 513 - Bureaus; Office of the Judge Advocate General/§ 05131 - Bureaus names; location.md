@@ -26,7 +26,7 @@ The bureaus are listed alphabetically for convenience. This listing has no effec
 
 #### Amendments
 
-1966—Pub. L. 89–718 struck out cls. (3) to (6) which related to the Bureau of Naval Weapons, the Bureau ofShips, the Bureau of Supplies and Accounts, and the Bureau of Yards and Docks, respectively.
+1966—Pub. L. 89–718 struck out cls. (3) to (6) which related to the Bureau of Naval Weapons, the Bureau of Ships, the Bureau of Supplies and Accounts, and the Bureau of Yards and Docks, respectively.
 
 1959—Pub. L. 86–174 inserted reference to Bureau of Naval Weapons and struck out reference to Bureau of Aeronautics and Bureau of Ordnance.
 

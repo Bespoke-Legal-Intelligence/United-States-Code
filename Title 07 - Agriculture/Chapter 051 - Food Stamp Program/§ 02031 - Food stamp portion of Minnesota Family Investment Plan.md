@@ -72,7 +72,7 @@ The application submitted by the State under subsection (a) of this section shal
 
 &emsp;&emsp;&emsp;(ii) otherwise establish criteria and verification standards for representation under this subparagraph; and
 
-&emsp;&emsp;(G) the State shall provide a method for reviewing applications to participate in the Project submitted by, and distributing assistance under the Project to, families thatdo not reside in permanent dwellings or who have no fixed mailing address.
+&emsp;&emsp;(G) the State shall provide a method for reviewing applications to participate in the Project submitted by, and distributing assistance under the Project to, families that do not reside in permanent dwellings or who have no fixed mailing address.
 
 &emsp;(7) Whenever selection for participation in the Project is accomplished by assigning families that are determined eligible for or participating in the program authorized by part A of title IV of the Social Security Act or the food stamp program—
 
@@ -84,7 +84,7 @@ The application submitted by the State under subsection (a) of this section shal
 
 &emsp;(9) Assistance provided under the Project shall be reduced to reflect the pro rata value of any coupons received under the food stamp program for the same period.
 
-&emsp;(10)(A) The State shall provide each family or family member whose participation in the Project ends and each family whose participation is terminated with notice of the existence of the food stamp program and the person or agency to contact for more information.
+&emsp;(10)(A) The State shall provide each family or family member whose participation in theProject ends and each family whose participation is terminated with notice of the existence of the food stamp program and the person or agency to contact for more information.
 
 &emsp;(B)(i) Following the standards specified in subparagraph (C), the State shall ensure that benefits under the food stamp program are provided to participating families in case the Project is terminated or to participating families or family members that are determined ineligible for the Project because of income, resources, or change in household composition, if such families or individuals are determined eligible for the food stamp program. Food coupons shall be issued to eligible families and individuals described in this clause retroactive to the date of termination from the Project; and
 
@@ -104,7 +104,7 @@ The application submitted by the State under subsection (a) of this section shal
 
 &emsp;&emsp;(i) by the State one hundred and eighty days after the State gives notice to the Secretary that it intends to terminate the Project;
 
-&emsp;&emsp;(ii) by the Secretary one hundred and eighty days after the Secretary, after notice and an opportunity for a hearing, determinesthat the State materially failed to comply with this section; or
+&emsp;&emsp;(ii) by the Secretary one hundred and eighty days after the Secretary, after notice and an opportunity for a hearing, determines that the State materially failed to comply with this section; or
 
 &emsp;&emsp;(iii) whenever the State and the Secretary jointly agree to terminate the Project.
 

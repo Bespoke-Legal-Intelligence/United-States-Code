@@ -16,7 +16,7 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 
 #### Transfer of Functions
 
-Secretary of Commerce substituted for Secretary of the Interior in view of transfer of functions to Secretary of Commerce from Secretary of the Interior bysection 2 of Pub. L. 93–193. See Transfer of Functions note set out under section 18 of this title.
+Secretary of Commerce substituted for Secretary of the Interior in view of transfer of functions to Secretary of Commerce from Secretary of the Interior by section 2 of Pub. L. 93–193. See Transfer of Functions note set out under section 18 of this title.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

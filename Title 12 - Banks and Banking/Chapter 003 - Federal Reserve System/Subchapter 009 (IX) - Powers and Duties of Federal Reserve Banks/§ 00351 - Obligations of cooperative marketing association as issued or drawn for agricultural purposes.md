@@ -8,3 +8,7 @@ Notes, drafts, bills of exchange, or acceptances issued or drawn by cooperative 
 
 Section is comprised of fourth par. of section 13A, formerly section 13a, as added Mar. 4, 1923. Pars. 1 to 3 and 5 of section 13A are set out as sections 348, 349, 350 and 352 of this title, respectively.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 412 of this title.
+

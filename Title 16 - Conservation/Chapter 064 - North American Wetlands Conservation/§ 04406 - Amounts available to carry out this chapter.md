@@ -14,7 +14,7 @@ In addition to the amounts made available under subsections (a) and (b) of this 
 
 Sums made available under this section shall be available until expended.
 
-(Pub. L. 101–233, §7, Dec. 13, 1989, 103 Stat. 1974; Pub. L. 103–375, §4, Oct. 19, 1994, 108 Stat. 3495; Pub. L. 105–312, title III, §302, Oct. 30, 1998, 112 Stat. 2958.)
+(Pub. L. 101–233, §7, Dec. 13, 1989, 103 Stat. 1974; Pub. L. 103–375, §4, Oct. 19, 1994, 108 Stat. 3495;Pub. L. 105–312, title III, §302, Oct. 30, 1998, 112 Stat. 2958.)
 
 #### Codification
 

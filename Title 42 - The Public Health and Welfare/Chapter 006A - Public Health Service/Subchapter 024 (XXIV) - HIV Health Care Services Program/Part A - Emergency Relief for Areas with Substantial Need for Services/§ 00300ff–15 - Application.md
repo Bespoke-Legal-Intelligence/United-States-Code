@@ -32,7 +32,7 @@ To be eligible to receive a grant under section 300ff–11 of this title, an eli
 
 &emsp;&emsp;(C) a program of outreach will be provided to low-income individuals with HIV-disease to inform such individuals of such services; and
 
-&emsp;(6) that the applicant has participated, or will agree to participate, in the statewide coordinated statement of need process where it has been initiated by the State public health agency responsible for administering grants under part B of this subchapter, and ensure that the services provided under the comprehensive plan are consistent with the statewide coordinated statement of need.
+&emsp;(6) that the applicant has participated, or will agree to participate, in the statewidecoordinated statement of need process where it has been initiated by the State public health agency responsible for administering grants under part B of this subchapter, and ensure that the services provided under the comprehensive plan are consistent with the statewide coordinated statement of need.
 
 #### (b) Application
 

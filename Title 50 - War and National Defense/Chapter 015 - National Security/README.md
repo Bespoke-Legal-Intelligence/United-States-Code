@@ -65,6 +65,9 @@
 | (a) | Authority to provide assistance. |
 | (b) | Limitation on assistance by elements of Department of Defense. |
 | (c) | Definitions. |
+| 403–5b. | Protection of operational files of the National Imagery and Mapping Agency. |
+| (a) | Exemption of certain operational files from search, review, publication, or disclosure. |
+| (b) | Decennial review of exempted operational files. |
 | 403–6. | Appointment of officials responsible for intelligence-related activities. |
 | (a) | Concurrence of DCI in certain appointments. |
 | (b) | Consultation with DCI in certain appointments. |
@@ -72,6 +75,10 @@
 | (a) | Policy. |
 | (b) | Waiver. |
 | (c) | Voluntary cooperation. |
+| 403–8. | Reaffirmation of longstanding prohibition against drug trafficking by employees of the intelligence community. |
+| (a) | Finding. |
+| (b) | Obligation of employees of intelligence community. |
+| (c) | Intelligence community defined. |
 | [403a.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403a%20-%20Definitions%20relating%20to%20Central%20Intelligence%20Agency.md) | Definitions relating to Central Intelligence Agency. |
 | [403b.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403b%20-%20Seal%20of%20office%20of%20Central%20Intelligence%20Agency.md) | Seal of office of Central Intelligence Agency. |
 | [403c.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403c%20-%20Procurement%20authority%20of%20Central%20Intelligence%20Agency.md) | Procurement authority of Central Intelligence Agency. |
@@ -192,6 +199,11 @@
 | (a) | Report on intelligence community cooperation with Federal law enforcement agencies. |
 | (b) | Annual report on the safety and security of Russian nuclear facilities and nuclear military forces. |
 | (c) | Definitions. |
+| [404j.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404j%20-%20Limitation%20on%20establishment%20or%20operation%20of%20diplomatic%20intelligence%20support%20centers.md) | Limitation on establishment or operation of diplomatic intelligence support centers. |
+| (a) | In general. |
+| (b) | Prohibition of use of appropriations. |
+| (c) | Definitions. |
+| (d) | Termination. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -247,6 +259,7 @@
 | (a) | Disclosure of information by persons having or having had access to classified information that identifies covert agent. |
 | (b) | Disclosure of information by persons who learn identity of covert agents as result of having access to classified information. |
 | (c) | Disclosure of information by persons in course of pattern of activities intended to identify and expose covert agents. |
+| (d) | Imposition of consecutive sentences. |
 | [422\.](Subchapter%20004%20%28IV%29%20-%20Protection%20of%20Certain%20National%20Security%20Information/%C2%A7%2000422%20-%20Defenses%20and%20exceptions.md) | Defenses and exceptions. |
 | (a) | Disclosure by United States of identity of covert agent. |
 | (b) | Conspiracy, misprision of felony, aiding and abetting, etc. |

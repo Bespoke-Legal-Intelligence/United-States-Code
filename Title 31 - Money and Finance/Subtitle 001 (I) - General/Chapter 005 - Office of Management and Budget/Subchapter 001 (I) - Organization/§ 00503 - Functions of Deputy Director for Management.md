@@ -70,7 +70,15 @@
 
 &emsp;(9) Perform any other functions prescribed by the Director.
 
-(Added Pub. L. 101–576, title II, §202(b), Nov. 15, 1990, 104 Stat. 2839; amended Pub. L. 103–272, §4(f)(1)(B), July 5, 1994, 108 Stat. 1361.)
+(Added Pub. L. 101–576, title II, §202(b), Nov. 15, 1990, 104 Stat. 2839; amended Pub. L. 103–272, §4(f)(1)(B), July 5, 1994, 108 Stat. 1361; Pub. L. 106–58, title VI, §638(g), Sept. 29, 1999, 113 Stat. 476.)
+
+#### Amendment of Subsection (a)(7), (8)
+
+<i>Pub. L. 106–58, title VI, §638(g), (h), Sept. 29, 1999, 113 Stat. 476, provided that, effective at noon on Jan. 20, 2001, subsection (a) of this section is amended—</i>
+
+<i>(1) in paragraph (7) by striking “respectively.” and inserting “respectively (excluding any officer designated or appointed under section 901(c)).”; and</i>
+
+<i>(2) in paragraph (8) by striking “Officers.” and inserting “Officers (excluding any officer designated or appointed under section 901(c)).”.</i>
 
 #### References in Text
 
@@ -83,6 +91,10 @@ A prior section 503 was renumbered section 505 of this title.
 #### Amendments
 
 1994—Subsec. (b)(9). Pub. L. 103–272 substituted “Perform” for “perform”.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–58, title VI, §638(h), Sept. 29, 1999, 113 Stat. 476, provided that: “This section \[amending this section and sections 901 and 1105 of this title and enacting provisions set out as a note under section 901 of this title\] shall take effect at noon on January 20, 2001.”
 
 #### Section Referred to in Other Sections
 

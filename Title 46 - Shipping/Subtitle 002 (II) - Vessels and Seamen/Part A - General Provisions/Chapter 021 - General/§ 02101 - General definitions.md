@@ -22,7 +22,7 @@ In this subtitle—
 
 &emsp;(5) “commercial service” includes any type of trade or business involving the transportation of goods or individuals, except service performed by a combatant vessel.
 
-&emsp;(5a) “consideration” means an economic benefit, inducement, right, or profit including pecuniary payment accruing to an individual,person, or entity, but not including a voluntary sharing of the actual expenses of the voyage, by monetary contribution or donation of fuel, food, beverage, or other supplies.
+&emsp;(5a) “consideration” means an economic benefit, inducement, right, or profit includingpecuniary payment accruing to an individual, person, or entity, but not including a voluntary sharing of the actual expenses of the voyage, by monetary contribution or donation of fuel, food, beverage, or other supplies.
 
 &emsp;(6) “consular officer” means an officer or employee of the United States Government designated under regulations to grant visas.
 
@@ -182,7 +182,7 @@ In this subtitle—
 
 &emsp;&emsp;(B) only when in conjunction with a subject referred to in subclause (A) of this clause, instruction in mathematics and language arts skills to sailing school students having learning disabilities.
 
-&emsp;(28) “sailing school instructor” means an individual who is on board a sailing school vessel to provide sailing instruction, but does not include an operator or crewmember who is among those required to be on board the vessel to meet a requirement established under part F of this subtitle.
+&emsp;(28) “sailing school instructor” means an individual who is on board a sailing school vessel to provide sailing instruction, but does not include an operator or crewmember who is among those required to be on board the vesselto meet a requirement established under part F of this subtitle.
 
 &emsp;(29) “sailing school student” means an individual who is on board a sailing school vessel to receive sailing instruction.
 

@@ -10,7 +10,7 @@ General Authority of Secretary.—The Secretary may require a motor carrier prov
 
 &emsp;(3) inspect the motor vehicles and obtain liability and cargo insurance on them; and
 
-&emsp;(4) have control of and be responsible for operating those motor vehicles in compliancewith requirements prescribed by the Secretary on safety of operations and equipment, and with other applicable law as if the motor vehicles were owned by the motor carrier.
+&emsp;(4) have control of and be responsible for operating those motor vehicles in compliance with requirements prescribed by the Secretary on safety of operations and equipment, and with other applicable law as if the motor vehicles were owned by the motor carrier.
 
 (b)
 

@@ -1,6 +1,6 @@
 ### §1208. Repealed. Pub. L. 105–220, title II, §251(a)(1), Aug. 7, 1998, 112 Stat. 1079
 
-Section, Pub. L. 89–750, title III, §353, as added Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 312; amended Pub. L. 102–73, title III, §301(g), July 25, 1991, 105 Stat. 349, related to special experimental demonstration projects and teacher training.
+Section, Pub. L. 89–750, title III, §353, as added Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 312;amended Pub. L. 102–73, title III, §301(g), July 25, 1991, 105 Stat. 349, related to special experimental demonstration projects and teacher training.
 
 A prior section 1208, Pub. L. 89–750, title III, §310, formerly §309, Nov. 3, 1966, 80 Stat. 1220; Pub. L. 91–230, title III, §301, Apr. 13, 1970, 84 Stat. 163; Pub. L. 93–380, title VI, §§604, 607(b)(1), (2), Aug. 21, 1974, 88 Stat. 577–579; Pub. L. 94–482, title III, §329, Oct. 12, 1976, 90 Stat. 2221; renumbered §310, Pub. L. 95–561, title XIII, §1307(a)(1), Nov. 1, 1978, 92 Stat. 2359, related to use of funds for special experimental demonstration projects and teacher training, prior to the general amendment of this chapter by Pub. L. 100–297.
 

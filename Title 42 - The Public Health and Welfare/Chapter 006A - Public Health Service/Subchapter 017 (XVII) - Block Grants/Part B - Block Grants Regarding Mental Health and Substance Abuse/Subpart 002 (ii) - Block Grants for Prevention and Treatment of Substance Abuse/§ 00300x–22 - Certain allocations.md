@@ -34,7 +34,7 @@ A funding agreement for a grant under section 300x–21 of this title is that, i
 
 &emsp;&emsp;(B) in the case of a grant for fiscal year 1994, the State will expend not less than 5 percent of the grant to so increase (relative to fiscal year 1993) the availability of such services for such women; and
 
-&emsp;&emsp;(C) in the case of a grant for any subsequent fiscal year, the State will expend for such services for such women not less than an amount equal to the amount expended by the State for fiscal year 1994.
+&emsp;&emsp;(C) in the case of a grant for any subsequent fiscal year, the State will expend forsuch services for such women not less than an amount equal to the amount expended by the State for fiscal year 1994.
 
 #### (2) Waiver
 

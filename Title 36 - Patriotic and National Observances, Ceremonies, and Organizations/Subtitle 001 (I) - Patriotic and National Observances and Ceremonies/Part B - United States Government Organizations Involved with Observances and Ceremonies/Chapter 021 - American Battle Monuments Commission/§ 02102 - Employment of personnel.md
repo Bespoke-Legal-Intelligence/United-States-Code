@@ -4,7 +4,7 @@
 
 General.—Within the limits of an appropriation made to employ personnel, the American Battle Monuments Commission may employ personnel necessary to carry out this chapter. To ensure adequate care and maintenance of cemeteries, monuments, and memorials, the Commission, subject to the availability of appropriations, shall employ—
 
-&emsp;(1) at least 50 individuals in the competitive service (as defined in section 2102 of title 5, United States Code), of whom at least 43 shall be assigned to duty in foreign countries where the cemeteries, monuments, and memorials are located; and
+&emsp;(1) at least 50 individuals in the competitive service (as defined in section 2102 of title 5), of whom at least 43 shall be assigned to duty in foreign countries where the cemeteries, monuments, and memorials are located; and
 
 &emsp;(2) at least 348 individuals who are citizens of the countries where the cemeteries, monuments, and memorials are located.
 
@@ -20,7 +20,7 @@ Station Allowance for Officers Assigned to the Commission.—For officers of the
 
 Citizenship Requirement.—An individual may be employed as the superintendent, or as an assistant superintendent, of a cemetery operated by the Commission only if the individual is a citizen of the United States.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1269; Pub. L. 105–354, §1(2), Nov. 3, 1998, 112 Stat. 3239.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1269; Pub. L. 105–354, §1(2), Nov. 3, 1998, 112 Stat. 3239; Pub. L. 106–117, title VI, §604(2), Nov. 30, 1999, 113 Stat. 1580.)
 
 Historical and Revision Notes
 
@@ -54,9 +54,13 @@ Sept. 26, 1996, Pub. L. 104–204, title III, (1st, last provisos in par. under 
 
 36:121b.
 
+&nbsp;
+
 2102(d)
 
 36:121 (3d par. last sentence).
+
+&nbsp;
 
 In subsection (a) before clause (1), the words “or appropriations” are omitted because of 1:1. The words “further” and “under the jurisdiction of the Commission” are omitted as unnecessary. In clause (2), the words “who shall be hired for local employment relating to the care and maintenance of such cemeteries, monuments, and memorials” are omitted as unnecessary.
 
@@ -71,6 +75,8 @@ In subsection (c), the words “Secretary of the Army” are substituted for “
 This amends section 2102(b) of title 36 to clarify the language.
 
 #### Amendments
+
+1999—Subsec. (a)(1). Pub. L. 106–117 struck out “, United States Code” after “title 5”.
 
 1998—Subsec. (b). Pub. L. 105–354 substituted “personnel made available to the Commission” for “designated personnel”.
 

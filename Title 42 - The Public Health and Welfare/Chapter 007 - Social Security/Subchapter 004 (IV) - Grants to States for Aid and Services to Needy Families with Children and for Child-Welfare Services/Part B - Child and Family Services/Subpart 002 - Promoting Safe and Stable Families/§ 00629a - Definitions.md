@@ -40,7 +40,7 @@ As used in this subpart:
 
 #### (6) Indian tribe
 
-&emsp;The term “Indian tribe” means any Indian tribe (as defined in section 682(i)(5) <sup>1</sup> of this title) and any Alaska Native organization (as defined in section 682(i)(7)(A) <sup>1</sup> of this title).
+&emsp;The term “Indian tribe” means any Indian tribe (as defined in section 682(i)(5) of this title, as in effect before August 22, 1986) and any Alaska Native organization (as defined in section 682(i)(7)(A) of this title, as so in effect).
 
 #### (7) Time-limited family reunification services
 
@@ -76,7 +76,7 @@ As used in this subpart:
 
 For other definitions of other terms used in this subpart, see section 675 of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §431, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 650; amended Pub. L. 105–89, title III, §305(b)(2), (c)(2), (d)(1), Nov. 19, 1997, 111 Stat. 2131, 2132.)
+(Aug. 14, 1935, ch. 531, title IV, §431, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 650; amended Pub. L. 105–89, title III, §305(b)(2), (c)(2), (d)(1), Nov. 19, 1997, 111 Stat. 2131, 2132; Pub. L. 106–169, title IV, §401(e), Dec. 14, 1999, 113 Stat. 1858.)
 
 #### References in Text
 
@@ -88,6 +88,8 @@ A prior section 431 of act Aug. 14, 1935, was classified to section 631 of this 
 
 #### Amendments
 
+1999—Subsec. (a)(6). Pub. L. 106–169 inserted “, as in effect before August 22, 1986” after “682(i)(5) of this title” and “, as so in effect” after “682(i)(7)(A) of this title”.
+
 1997—Subsec. (a)(1)(A). Pub. L. 105–89, §305(c)(2)(A)(i), inserted “safe and” before “appropriate” in cls. (i) and (ii).
 
 Subsec. (a)(1)(B). Pub. L. 105–89, §305(c)(2)(A)(ii), inserted “safely” after “remain”.
@@ -98,11 +100,13 @@ Subsec. (a)(7), (8). Pub. L. 105–89, §305(b)(2), added pars. (7) and (8).
 
 Subsec. (a)(9). Pub. L. 105–89, §305(d)(1), added par. (9).
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–169 effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 401(q) of Pub. L. 106–169, set out as a note under section 602 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by section 305(b)(2), (c)(2) of Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
 
 Section 305(d)(2) of Pub. L. 105–89 provided that: “The amendment made by paragraph (1) \[amending this section\] takes effect as if included in the enactment of section 13711 of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–33 \[103–66\]; 107 Stat. 649).”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

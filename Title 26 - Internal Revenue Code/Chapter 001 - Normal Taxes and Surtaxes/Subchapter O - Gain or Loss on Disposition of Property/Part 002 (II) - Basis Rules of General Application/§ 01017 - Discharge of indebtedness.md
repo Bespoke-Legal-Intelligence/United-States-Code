@@ -54,7 +54,7 @@ If—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;At the election of the taxpayer, for purposes of this section, the term “depreciable property” includes any real property which is described in section 1221(1).
+&emsp;&emsp;&emsp;At the election of the taxpayer, for purposes of this section, the term “depreciable property” includes any real property which is described in section 1221(a)(1).
 
 #### (ii) Election
 
@@ -118,9 +118,11 @@ If—
 
 &emsp;For purposes of section 1250(b), the determination of what would have been the depreciation adjustments under the straight line method shall be made as if there had been no reduction under this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 301; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(c)(1), Oct. 4, 1976, 90 Stat. 1834, 1840; Pub. L. 96–589, §2(b), Dec. 24, 1980, 94 Stat. 3394; Pub. L. 99–514, title IV, §405(b), title VIII, §822(b)(4), (5), Oct. 22, 1986, 100 Stat. 2224, 2373; Pub. L. 100–647, title I, §1004(a)(5), Nov. 10, 1988, 102 Stat. 3386; Pub. L. 101–508, title XI, §11704(a)(12), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 103–66, title XIII, §13150(c)(6)–(8), Aug. 10, 1993, 107 Stat. 448; Pub. L. 104–188, title I, §1703(n)(5), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–206, title VI, §6023(11), July 22, 1998, 112 Stat. 825.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 301; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(c)(1), Oct. 4, 1976, 90 Stat. 1834, 1840; Pub. L. 96–589, §2(b), Dec. 24, 1980, 94 Stat. 3394; Pub. L. 99–514, title IV, §405(b), title VIII, §822(b)(4), (5), Oct. 22, 1986, 100 Stat. 2224, 2373; Pub. L. 100–647, title I, §1004(a)(5), Nov. 10, 1988, 102 Stat. 3386; Pub. L. 101–508, title XI, §11704(a)(12), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 103–66, title XIII, §13150(c)(6)–(8), Aug. 10, 1993, 107 Stat. 448; Pub. L. 104–188, title I, §1703(n)(5), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–206, title VI, §6023(11), July 22, 1998, 112 Stat. 825; Pub. L. 106–170, title V, §532(c)(2)(S), Dec. 17, 1999, 113 Stat. 1931.)
 
 #### Amendments
+
+1999—Subsec. (b)(3)(E)(i). Pub. L. 106–170 substituted “1221(a)(1)” for “1221(1)”.
 
 1998—Subsec. (a)(2). Pub. L. 105–206 substituted “(b)(2)(E)” for “(b)(2)(D)”.
 
@@ -151,6 +153,10 @@ Subsec. (b)(4). Pub. L. 99–514, §405(b), added par. (4).
 1980—Pub. L. 96–589 generally revised and expanded the section to specify the amount of reduction of basis of property under different subsections of section 108 of this title and the property to which such reduction is applicable, and provided for recapture of reductions for purposes of gains from depreciable property.
 
 1976—Pub. L. 94–455, §§1906(b)(13)(A), 1951(c)(1), substituted “section 108” for “section 108(a)” in three places and struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
 
 #### Effective Date of 1996 Amendment
 

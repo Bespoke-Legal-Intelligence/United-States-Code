@@ -66,7 +66,7 @@ The Secretary may make expenditures from the Waste Fund, subject to subsection (
 
 &emsp;(6) the provision of assistance to States, units of general local government, and Indian tribes under sections 10136, 10138, and 10199 of this title.
 
-> No amount may be expended by the Secretary under this subchapter <sup>4</sup> for the construction or expansion of any facility unless such construction or expansion is expressly authorized by this or subsequent legislation. The Secretary herebyis authorized to construct one repository and one test and evaluation facility.
+> No amount may be expended by the Secretary under this subchapter <sup>4</sup> for the construction or expansion of any facility unless such construction or expansion is expressly authorized by this or subsequent legislation. The Secretary hereby is authorized to construct one repository and one test and evaluation facility.
 
 #### (e) Administration of Waste Fund
 
@@ -74,7 +74,7 @@ The Secretary may make expenditures from the Waste Fund, subject to subsection (
 
 (2) The Secretary shall submit the budget of the Waste Fund to the Office of Management and Budget triennially along with the budget of the Department of Energy submitted at such time in accordance with chapter 11 of title 31. The budget of the Waste Fund shall consist of the estimates made by the Secretary of expenditures from the Waste Fund and other relevant financial matters for the succeeding 3 fiscal years, and shall be included in the Budget of the United States Government. The Secretary may make expenditures from the Waste Fund, subject to appropriations which shall remain available until expended. Appropriations shall be subject to triennial authorization.
 
-(3) If the Secretary determines that the Waste Fund contains at any time amounts in excess of current needs, the Secretary may request the Secretary of the Treasury to invest such amounts, or any portion of such amounts as the Secretary determines to be appropriate, in obligations of the United States—
+(3) If the Secretary determines that the Waste Fund contains at any time amounts in excess ofcurrent needs, the Secretary may request the Secretary of the Treasury to invest such amounts, or any portion of such amounts as the Secretary determines to be appropriate, in obligations of the United States—
 
 &emsp;(A) having maturities determined by the Secretary of the Treasury to be appropriate to the needs of the Waste Fund; and
 

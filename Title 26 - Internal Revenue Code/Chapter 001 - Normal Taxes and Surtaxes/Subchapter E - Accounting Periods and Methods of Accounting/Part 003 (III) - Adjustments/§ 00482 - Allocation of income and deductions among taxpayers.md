@@ -24,5 +24,5 @@ Pub. L. 101–508, title XI, §11316, Nov. 5, 1990, 104 Stat. 1388–458, direct
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 845, 901, 925, 927, 936, 994, 1059A, 1505, 6038A, 6038B, 6662 of this title; title 17 section 1001.
+This section is referred to in sections 845, 857, 901, 925, 927, 936, 994, 1059A, 1505, 6038A, 6038B, 6662 of this title; title 17 section 1001.
 

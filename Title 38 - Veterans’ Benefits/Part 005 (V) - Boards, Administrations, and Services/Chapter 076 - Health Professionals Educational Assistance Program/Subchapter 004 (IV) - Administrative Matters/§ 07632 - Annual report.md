@@ -16,7 +16,7 @@ Not later than March 1 of each year, the Secretary shall submit to Congress a re
 
 &emsp;(7) The number of participants who complete a course or course of training in each program each year and for all years that such program (or predecessor program) has been in existence.
 
-(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 528, §4332; renumbered §7632, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 105–368, title VIII, §805(5), Nov. 11, 1998, 112 Stat. 3359.)
+(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 528, §4332; renumbered §7632, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, §4(b)(1), (2)(E),Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 105–368, title VIII, §805(5), Nov. 11, 1998, 112 Stat. 3359.)
 
 #### Amendments
 

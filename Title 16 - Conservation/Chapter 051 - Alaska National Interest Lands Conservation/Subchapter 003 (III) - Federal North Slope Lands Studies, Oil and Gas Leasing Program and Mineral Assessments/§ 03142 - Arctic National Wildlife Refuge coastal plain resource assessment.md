@@ -72,7 +72,7 @@ If at any time while exploratory activity is being carried out under an explorat
 
 (2) Any person against whom a civil penalty is assessed under paragraph (1) may obtain review thereof in the appropriate district court of the United States by filing a notice of appeal in such court within thirty days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, as provided in section 2112 of title 28. The findings and order of the Secretary shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in section 706(2)(E) of title 5.
 
-(3) If any person fails to pay an assessment of a civil penalty against him under paragraph (1) after it has become final, or after the appropriate court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General of the United States, who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
+(3) If any person fails to pay an assessment of a civil penalty against him under paragraph (1) after it has become final, or after the appropriate court has entered final judgment in favor of the Secretary, the Secretary shall refer thematter to the Attorney General of the United States, who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
 (4) The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this subsection unless the matter is pending in court for judicial review or recovery of assessment.
 
@@ -90,7 +90,7 @@ Not earlier than five years after December 2, 1980, and not later than five year
 
 &emsp;(5) an evaluation of how such oil and gas relates to the national need for additional domestic sources of oil and gas; and
 
-&emsp;(6) the recommendations of the Secretary with respect to whether further exploration for, and the development and production of, oil and gas within the coastal plain should bepermitted and, if so, what additional legal authority is necessary to ensure that the adverse effects of such activities on fish and wildlife, their habitats, and other resources are avoided or minimized.
+&emsp;(6) the recommendations of the Secretary with respect to whether further exploration for, and the development and production of, oil and gas within the coastal plain should be permitted and, if so, what additional legal authority is necessary to ensure that the adverse effects of such activities on fish and wildlife, their habitats, and other resources are avoided or minimized.
 
 #### (i) Effect of other laws
 

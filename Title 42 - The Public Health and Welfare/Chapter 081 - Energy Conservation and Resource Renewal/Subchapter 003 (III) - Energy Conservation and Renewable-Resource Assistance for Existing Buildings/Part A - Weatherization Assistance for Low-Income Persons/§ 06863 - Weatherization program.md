@@ -60,7 +60,7 @@ Notwithstanding any other provision of law, the Secretary may transfer to the Di
 
 #### References in Text
 
-The Economic Opportunity Act of 1964, referred to in subsecs. (b)(3), (c), and (e), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Title II of the Economic Opportunity Act of 1964 was classified generally to subchapter II (§2781 et seq.) of chapter 34 of this title prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Prior to that repeal, section 222(a)(12) of that Act \[42 U.S.C. 2809(a)(12)\] was redesignated as section 222(a)(5) \[42 U.S.C. 2809(a)(5)\] by Pub. L. 95–568, §5(a)(2)(E), Nov. 2, 1978, 94 Stat. 2426. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in subsecs. (b)(3), (c), and (e), is Pub. L. 88–452, Aug. 20,1964, 78 Stat. 508, as amended. Title II of the Economic Opportunity Act of 1964 was classified generally to subchapter II (§2781 et seq.) of chapter 34 of this title prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Prior to that repeal, section 222(a)(12) of that Act \[42 U.S.C. 2809(a)(12)\] was redesignated as section 222(a)(5) \[42 U.S.C. 2809(a)(5)\] by Pub. L. 95–568, §5(a)(2)(E), Nov. 2, 1978, 94 Stat. 2426. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -89,6 +89,10 @@ Subsec. (b)(3). Pub. L. 95–619, §231(b)(1), added par. (3).
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
+
+#### Weatherization Assistance Grants
+
+Pub. L. 106–113, div. B, §1000(a)(3) \[title II\], Nov. 29, 1999, 113 Stat. 1535, 1501A–180, provided in part: “That, notwithstanding any other provision of law, in fiscal year 2001 and thereafter sums appropriated for weatherization assistance grants shall be contingent on a cost share of 25 percent by each participating State or other qualified participant.”
 
 #### Community Services Administration
 

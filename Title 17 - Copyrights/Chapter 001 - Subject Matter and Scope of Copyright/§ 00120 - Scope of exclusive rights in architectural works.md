@@ -16,5 +16,5 @@ Section applicable to any architectural work created on or after Dec. 1, 1990, a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 106 of this title; title 18 section 2319.
+This section is referred to in sections 106, 501, 511 of this title; title 18 section 2319.
 

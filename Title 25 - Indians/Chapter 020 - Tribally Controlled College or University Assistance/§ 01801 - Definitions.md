@@ -4,7 +4,7 @@
 
 &emsp;(1) “Indian” means a person who is a member of an Indian tribe;
 
-&emsp;(2) “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaskan Native villageor regional or village corporation as defined in or established pursuant to the Alaskan Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians;
+&emsp;(2) “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaskan Native village or regional or village corporation as defined in or established pursuant to the Alaskan Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians;
 
 &emsp;(3) “Secretary”, unless otherwise designated, means the Secretary of the Interior;
 
@@ -22,7 +22,7 @@
 
 &emsp;(1) Such number shall be calculated on the basis of the registrations of Indian students as in effect at the conclusion of the third week of each academic term.
 
-&emsp;(2) Credits earned in classes offered during a summer term shall be counted toward the computation of the Indian student count in the succeeding fall term.
+&emsp;(2) Credits earned in classes offered during a summer term shall be counted toward thecomputation of the Indian student count in the succeeding fall term.
 
 &emsp;(3) Credits earned by any student who has not obtained a high school degree or its equivalent shall be counted toward the computation of the Indian student count if the institution at which the student is in attendance has established criteria for the admission of such student on the basis of the student's ability to benefit from the education or training offered. The institution shall be presumed to have established such criteria if the admission procedures for such studies include counseling or testing that measures the student's aptitude to successfully complete the course in which the student has enrolled. No credits earned by such student for purposes of obtaining a high school degree or its equivalent shall be counted toward the computation of the Indian student count.
 
@@ -62,7 +62,7 @@ Subsec. (a)(1). Pub. L. 98–192, §1(2), struck out “and is eligible to recei
 
 Subsec. (a)(5). Pub. L. 98–192, §1(3), inserted “and the reference to Secretary in clause (5)(A) of such section shall be deemed to refer to the Secretary of the Interior”.
 
-Subsec. (a)(7). Pub. L. 98–192, §1(4), substituted provision defining “Indian student count” to mean a numberequal to the total number of Indian students enrolled in each tribally controlled community college, determined as consistent with subsec. (b) of this section on the basis of the quotient of the sum of the credit hours of all Indians so enrolled, divided by twelve for provision defining “full-time equivalent Indian student” to mean the number of Indians enrolled full-time and the full-time equivalent of the number of Indians enrolled part-time, determined on the basis of the quotient of the sum of the credit hours of all part-time students divided by twelve, calculated on the basis of registrations as in effect at the conclusion of the sixth week of an academic term.
+Subsec. (a)(7). Pub. L. 98–192, §1(4), substituted provision defining “Indian student count” to mean a number equal to the total number of Indian students enrolled in each tribally controlled community college, determined as consistent with subsec. (b) of this section on the basis of the quotient of the sum of the credit hours of all Indians so enrolled, divided by twelve for provision defining “full-time equivalent Indian student” to mean the number of Indians enrolled full-time and the full-time equivalent of the number of Indians enrolled part-time, determined on the basis of the quotient of the sum of the credit hours of all part-time students divided by twelve, calculated on the basis of registrations as in effect at the conclusion of the sixth week of an academic term.
 
 Subsec. (b). Pub. L. 98–192, §1(4), added subsec. (b).
 
@@ -92,7 +92,7 @@ Recommended legislation.—The Secretary of Education shall prepare and submit t
 
 “(2)
 
-Submission to congress.—Not later than 6 months after the effective date of this title \[see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of Title 20, Education\], the Secretary of Education shall submit the recommended legislation referred to under paragraph (1).”
+Submission to congress.—Not later than 6 months after the effective date of this title \[see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of Title 20, Education\], the Secretary of Education shall submit therecommended legislation referred to under paragraph (1).”
 
 #### References to Tribally Controlled Community College Assistance Act of 1978
 
@@ -169,6 +169,10 @@ Sec. 8. <i>Administration</i>. (a) <i>Compensation</i>. Members of the Board sha
 (c) <i>Administrative Support</i>. The Department of Education shall provide appropriate administrative services and staff support for the Board and the Initiative. With the consent of the Department of Education, other agencies participating in the Initiative shall provide administrative support to the White House Initiative Office consistent with statutory authority and shall make use of section 112 of title 3, United States Code, to detail agency employees to the extent permitted by law. The Board and the White House Initiative Office shall have a core staff and shall be supported at appropriate levels.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Extension of Term of President's Board of Advisors on Tribal Colleges and Universities
+
+Term of President's Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@
 
 &emsp;(3) the flight school courses meet Federal Aviation Administration standards for such courses and are approved by the Federal Aviation Administration and the State approving agency.
 
-(Added Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2567, §2136; amended Pub. L. 101–189, div. A, title VI, §§642(c), 645(a)(1), Nov. 29, 1989, 103 Stat. 1457, 1458; Pub. L. 101–237, title IV, §§405(d)(3), 422(b)(1), Dec. 18, 1989, 103 Stat. 2081, 2089; Pub. L. 101–510, div. A, title XIV, §1484(j)(3), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 102–16, §10(b), Mar. 22, 1991, 105 Stat. 56; Pub. L.102–568, title III, §§313(a)(6), 319, 320(a)(3), Oct. 29, 1992, 106 Stat. 4333, 4335, 4336; renumbered §16136, Pub. L. 103–337, div. A, title XVI, §1663(b)(2), Oct. 5, 1994, 108 Stat. 3006; Pub. L. 103–446, title VI, §601(c), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title II, §204(b), Nov. 11, 1998, 112 Stat. 3327.)
+(Added Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2567, §2136; amended Pub. L. 101–189, div. A, title VI, §§642(c), 645(a)(1), Nov. 29, 1989, 103 Stat. 1457, 1458; Pub. L. 101–237, title IV, §§405(d)(3), 422(b)(1), Dec. 18, 1989, 103 Stat. 2081, 2089; Pub. L. 101–510, div. A, title XIV, §1484(j)(3), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 102–16, §10(b), Mar. 22, 1991, 105 Stat. 56; Pub. L. 102–568, title III, §§313(a)(6), 319, 320(a)(3), Oct. 29, 1992, 106 Stat. 4333, 4335, 4336; renumbered §16136, Pub. L. 103–337, div. A, title XVI, §1663(b)(2), Oct. 5, 1994, 108 Stat. 3006; Pub. L. 103–446, title VI, §601(c), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title II, §204(b), Nov. 11, 1998, 112 Stat. 3327.)
 
 #### Amendments
 

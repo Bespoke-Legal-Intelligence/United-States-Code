@@ -6,7 +6,7 @@ Experts and consultants or organizations thereof may, as authorized by section 3
 
 #### (b) Exemption from restrictions upon receipt of retirement benefits
 
-Service of an individual as a member of the Council authorized to be established by section 2511 <sup>1</sup> of this title or as an expert or consultant under subsection (a) of this section shall not be considered as employment or holding of office or position bringing such individual within the provisions of sections 3323(b) and 8344 of title 5, section 4064 of this title, or any other law limiting the reemployment of retired officers or employees or governing the simultaneous receipt of compensation and retired pay or annuities, subject to section 5532 of title 5.
+Service of an individual as a member of the Council authorized to be established by section 2511 <sup>1</sup> of this title or as an expert or consultant under subsection (a) of this section shall not be considered as employment or holding of office or position bringing such individual within the provisions of sections 3323(b) and 8344 of title 5, section 4064 of this title, or any other law limiting the reemployment of retired officers or employees or governing the simultaneous receipt of compensation and retired pay or annuities, subject to section 5532 <sup>1</sup> of title 5.
 
 (Pub. L. 87–293, title I, §13, Sept. 22, 1961, 75 Stat. 619; Pub. L. 88–200, §6, Dec. 13, 1963, 77 Stat. 360; Pub. L. 88–448, title IV, §401(c), Aug. 19, 1964, 78 Stat. 490; Pub. L. 91–352, §6, July 24, 1970, 84 Stat. 465; Pub. L. 96–465, title II, §2202(c), Oct. 17, 1980, 94 Stat. 2158.)
 
@@ -15,6 +15,8 @@ Service of an individual as a member of the Council authorized to be established
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 Section 2511 of this title, referred to in subsec. (b), was repealed by Pub. L. 92–352, title IV, §403, July 13, 1972, 86 Stat. 495.
+
+Section 5532 of title 5, referred to in subsec. (b), was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
 #### Amendments
 

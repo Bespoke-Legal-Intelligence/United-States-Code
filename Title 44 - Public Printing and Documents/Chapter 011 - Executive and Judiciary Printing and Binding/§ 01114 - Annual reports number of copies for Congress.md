@@ -2,9 +2,9 @@
 
 One thousand copies of the annual reports of the departments to Congress shall be printed for the Senate, and two thousand for the House of Representatives.
 
-The usual number only of the reports of the Chief of Engineers of the Army, the Commissioner of Patents, the Commissioner of Internal Revenue, the report of the Chief Signal Officer of the Department of the Army, and the Chief of Ordnance shall be printed.
+The usual number only of the reports of the Chief of Engineers of the Army, the Commissioner of Internal Revenue, the report of the Chief Signal Officer of the Department of the Army, and the Chief of Ordnance shall be printed.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1263.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1263; (As amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(23)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–585.)
 
 #### Historical and Revision Notes
 
@@ -12,9 +12,13 @@ Based on 44 U.S. Code, 1964 ed., §212 (part) (Jan. 12, 1895, ch. 23, §73, 28 S
 
 This section incorporates only the second sentence of former section 212. The balance will be found in section 1115 of this revision.
 
-#### Change of Name
+#### Amendments
 
-“Commissioner of Patents” redesignated “Commissioner of Patents and Trademarks” by section 3 of Pub. L. 93–596, Jan. 2, 1975, 88 Stat. 1949, set out as a note under section 1 of Title 35, Patents.
+1999—Pub. L. 106–113 struck out “the Commissioner of Patents,” after “Engineers of the Army,” in second par.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Abolition of Offices
 
@@ -22,5 +26,5 @@ Positions of Chief Signal Officer and Chief of Ordinance of Army Department abol
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2; title 35 section 2.
 

@@ -14,7 +14,7 @@ Such interest shall be allowed and paid as follows:
 
 #### (2) Refunds
 
-&emsp;In the case of a refund, from the date of the overpayment to a date (to be determined by the Secretary) preceding the date of the refund check by not more than 30 days, whether or not such refund check is accepted by the taxpayer after tender of such check to the taxpayer. The acceptance of such check shall be without prejudice to any right of the taxpayer to claim any additional overpayment and interest thereon.
+&emsp;In the case of a refund, from the date of the overpayment to a date (to be determined by the Secretary) preceding the date of the refund check by not more than 30 days, whether or not such refund check is accepted by the taxpayer after tender of such check to the taxpayer. The acceptance of such check shall bewithout prejudice to any right of the taxpayer to claim any additional overpayment and interest thereon.
 
 #### (3) Late returns
 
@@ -144,7 +144,7 @@ Subsecs. (g) to (i). Pub. L. 105–34, §1055(b)(2)(D), redesignated subsecs. (h
 
 Refund of Income Tax Caused by Carryback of Foreign Taxes.—For purposes of subsection (a), if any overpayment of tax results from a carryback of tax paid or accrued to foreign countries or possessions of the United States, such overpayment shall be deemed not to have been paid or accrued prior to the filing date (as defined in subsection (f)(3)) for the taxable year under this subtitle in which such taxes were in fact paid or accrued.”
 
-1993—Subsec. (e). Pub. L. 103–66 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “If any overpayment of tax imposed by subtitle A is refunded within 45 days after the last date prescribed for filing the return of such tax (determined without regard to any extension of time for filing the return) or, in case the return is filed after such lastdate, is refunded within 45 days after the date the return is filed, no interest shall be allowed under subsection (a) on such overpayment.”
+1993—Subsec. (e). Pub. L. 103–66 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “If any overpayment of tax imposed by subtitle A is refunded within 45 days after the last date prescribed for filing the return of such tax (determined without regard to any extension of time for filing the return) or, in case the return is filed after such last date, is refunded within 45 days after the date the return is filed, no interest shall be allowed under subsection (a) on such overpayment.”
 
 1988—Subsecs. (h) to (j). Pub. L. 100–418 redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) which related to special rule for windfall profit tax.
 
@@ -236,7 +236,7 @@ Amendment by section 211(b)(27) of Pub. L. 98–369 applicable to taxable years 
 
 Amendment by section 714(n)(2)(A) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
-Section 1875(d)(3) of Pub. L. 99–514 provided that: “Notwithstanding section 715 of the Tax Reform Act of1984 \[Pub. L. 98–369\], the amendments made by section 714(n)(2) of such Act \[amending this section and section 6411 of this title\] shall apply only to applications filed after July 18, 1984.”
+Section 1875(d)(3) of Pub. L. 99–514 provided that: “Notwithstanding section 715 of the Tax Reform Act of 1984 \[Pub. L. 98–369\], the amendments made by section 714(n)(2) of such Act \[amending this section and section 6411 of this title\] shall apply only to applications filed after July 18, 1984.”
 
 #### Effective Date of 1982 Amendment
 

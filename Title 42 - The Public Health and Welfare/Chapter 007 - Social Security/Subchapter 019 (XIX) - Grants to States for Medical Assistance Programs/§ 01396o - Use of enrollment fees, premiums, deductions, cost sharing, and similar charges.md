@@ -2,7 +2,7 @@
 
 #### (a) Imposition of certain charges under plan in case of individuals described in section 1396a(a)(10)(A) or (E)
 
-The State plan shall provide that in the case of individuals described in subparagraph (A) or (E)(i) of section 1396a(a)(10) of this title who are eligible under the plan—
+Subject to subsection (g) of this section, the State plan shall provide that in the case of individuals described in subparagraph (A) or (E)(i) of section 1396a(a)(10) of this title who are eligible under the plan—
 
 &emsp;(1) no enrollment fee, premium, or similar charge will be imposed under the plan (except for a premium imposed under subsection (c) of this section);
 
@@ -12,13 +12,13 @@ The State plan shall provide that in the case of individuals described in subpar
 
 &emsp;&emsp;(B) services furnished to pregnant women, if such services relate to the pregnancy or to any other medical condition which may complicate the pregnancy (or, at the option of the State, any services furnished to pregnant women),
 
-&emsp;&emsp;(C) services furnished to any individual who is an inpatient in a hospital, nursing facility, intermediate care facility for the mentally retarded, or other medical institution, if such individual is required, as a condition of receiving services in such institution under the State plan, to spend for costs of medical care all but a minimal amount of his income required for personal needs,
+&emsp;&emsp;(C) services furnished to any individual who is an inpatient in a hospital, nursing facility, intermediate care facility for the mentally retarded, or other medical institution, if such individual is required, as a condition of receiving services in such institution under the State plan, to spend for costsof medical care all but a minimal amount of his income required for personal needs,
 
 &emsp;&emsp;(D) emergency services (as defined by the Secretary), family planning services and supplies described in section 1396d(a)(4)(C) of this title, or
 
 &emsp;&emsp;(E) services furnished to an individual who is receiving hospice care (as defined in section 1396d(<i>o</i>) of this title); and
 
-&emsp;(3) any deduction, cost sharing, or similar charge imposed under the plan with respect to other such individuals or other care and services will be nominal in amount (as determined by the Secretary in regulations which shall, if the definition of “nominal” under the regulations in effect on July 1, 1982 is changed, take into account the level of cash assistance provided in such State and such other criteria as the Secretary determines to be appropriate); except that a deduction, cost-sharing, or similar charge of up to twice the nominal amount established for outpatient services may be imposed by a State under a waiver granted by the Secretary for services received at a hospital emergency room if the services are not emergency services (referred to in paragraph (2)(D)) and the State has established to thesatisfaction of the Secretary that individuals eligible for services under the plan have actually available and accessible to them alternative sources of nonemergency, outpatient services.
+&emsp;(3) any deduction, cost sharing, or similar charge imposed under the plan with respect to other such individuals or other care and services will be nominal in amount (as determined by the Secretary in regulations which shall, if the definition of “nominal” under the regulations in effect on July 1, 1982 is changed, take into account the level of cash assistance provided in such State and such other criteria as the Secretary determines to be appropriate); except that a deduction, cost-sharing, or similar charge of up to twice the nominal amount established for outpatient services may be imposed by a State under a waiver granted by the Secretary for services received at a hospital emergency room if the services are not emergency services (referred to in paragraph (2)(D)) and the State has established to the satisfaction of the Secretary that individuals eligible for services under the plan have actually available and accessible to them alternative sources of nonemergency, outpatient services.
 
 #### (b) Imposition of certain charges under plan in case of individuals other than those described in section 1396a(a)(10)(A) or (E)
 
@@ -52,11 +52,11 @@ The State plan shall provide that in the case of individuals other than those de
 
 #### (d) Premiums for qualified disabled and working individuals described in section 1396d(s)
 
-With respect to a qualified disabled and working individual described in section 1396d(s) of this title whose income (as determined under paragraph (3) of that section) exceeds 150 percent of the official poverty line referred to in that paragraph, the State plan of a State may provide for the charging of a premium (expressed as a percentage of the medicare cost-sharing described in section 1396d(p)(3)(A)(i) of this title provided with respect to the individual) according to a sliding scale under which such percentage increases from 0 percent to 100 percent, in reasonable increments (as determined by the Secretary), as the individual's income increases from 150 percent of such poverty line to 200 percent of such poverty line.
+With respect to a qualified disabled and working individual described in section 1396d(s) ofthis title whose income (as determined under paragraph (3) of that section) exceeds 150 percent of the official poverty line referred to in that paragraph, the State plan of a State may provide for the charging of a premium (expressed as a percentage of the medicare cost-sharing described in section 1396d(p)(3)(A)(i) of this title provided with respect to the individual) according to a sliding scale under which such percentage increases from 0 percent to 100 percent, in reasonable increments (as determined by the Secretary), as the individual's income increases from 150 percent of such poverty line to 200 percent of such poverty line.
 
 #### (e) Prohibition of denial of services on basis of individual's inability to pay certain charges
 
-The State plan shall require that no provider participating under the State plan may deny care or services to an individual eligible for such care or services under the plan on account of such individual's inability to pay a deduction, cost sharing, or similar charge. The requirements of this subsection shall not extinguish the liability of the individual to whom the care orservices were furnished for payment of the deduction, cost sharing, or similar charge.
+The State plan shall require that no provider participating under the State plan may deny care or services to an individual eligible for such care or services under the plan on account of such individual's inability to pay a deduction, cost sharing, or similar charge. The requirements of this subsection shall not extinguish the liability of the individual to whom the care or services were furnished for payment of the deduction, cost sharing, or similar charge.
 
 #### (f) Charges imposed under waiver authority of Secretary
 
@@ -72,9 +72,31 @@ No deduction, cost sharing, or similar charge may be imposed under any waiver au
 
 &emsp;(5) is voluntary, or makes provision for assumption of liability for preventable damage to the health of recipients of medical assistance resulting from involuntary participation.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1916, as added Pub. L. 97–248, title I, §131(b), Sept. 3, 1982, 96 Stat. 367; amended Pub. L. 97–448, title III, §309(b)(18)–(20), Jan. 12, 1983, 96 Stat. 2409, 2410; Pub. L. 99–272, title IX, §9505(c)(2), Apr. 7, 1986, 100 Stat. 209; Pub. L. 99–509, title IX, §9403(g)(4)(B), Oct. 21, 1986, 100 Stat. 2056; Pub. L. 100–203, title IV, §§4101(d)(1), 4211(h)(11), Dec. 22, 1987, 101 Stat. 1330–142, 1330–207; Pub. L. 100–360, title IV, §411(k)(2), July 1, 1988, 102 Stat. 791; Pub. L. 101–239, title VI, §6408(d)(3), Dec. 19, 1989, 103 Stat. 2269; Pub. L. 105–33, title IV, §4708(b), Aug. 5, 1997, 111 Stat. 506.)
+#### (g) Individuals provided medical assistance under section 1396a(a)(10)(A)(ii)(XV) or (XVI)
+
+With respect to individuals provided medical assistance only under subclause (XV) or (XVI) of section 1396a(a)(10)(A)(ii) of this title—
+
+&emsp;(1) a State may (in a uniform manner for individuals described in either such subclause)—
+
+&emsp;&emsp;(A) require such individuals to pay premiums or other cost-sharing charges set on a sliding scale based on income that the State may determine; and
+
+&emsp;&emsp;(B) require payment of 100 percent of such premiums for such year in the case of such an individual who has income for a year that exceeds 250 percent of the income official poverty line (referred to in subsection (c)(1) of this section) applicable to a family of the size involved, except that in the case of such an individual who has income for a year that does not exceed 450 percent of such poverty line, such requirement may only apply to the extent such premiums do not exceed 7.5 percent of such income; and
+
+&emsp;(2) such State shall require payment of 100 percent of such premiums for a year by such an individual whose adjusted gross income (as defined in section 62 of the Internal Revenue Code of 1986) for such year exceeds $75,000, except that a State may choose to subsidize such premiums by using State funds which may not be federally matched under this subchapter.
+
+> In the case of any calendar year beginning after 2000, the dollar amount specified in paragraph (2) shall be increased in accordance with the provisions of section 415(i)(2)(A)(ii) of this title.
+
+(Aug. 14, 1935, ch. 531, title XIX, §1916, as added Pub. L. 97–248, title I, §131(b), Sept. 3, 1982, 96 Stat. 367; amended Pub. L. 97–448, title III, §309(b)(18)–(20), Jan. 12, 1983, 96 Stat. 2409, 2410; Pub. L. 99–272, title IX, §9505(c)(2), Apr. 7, 1986, 100 Stat. 209; Pub. L. 99–509, title IX, §9403(g)(4)(B), Oct. 21, 1986, 100 Stat. 2056; Pub. L. 100–203, title IV, §§4101(d)(1), 4211(h)(11), Dec. 22, 1987, 101 Stat. 1330–142, 1330–207; Pub. L. 100–360, title IV, §411(k)(2), July 1, 1988, 102 Stat. 791; Pub. L. 101–239, title VI, §6408(d)(3), Dec. 19, 1989, 103 Stat. 2269; Pub. L. 105–33, title IV, §4708(b), Aug. 5, 1997, 111 Stat. 506; Pub. L. 106–170, title II, §201(a)(3), Dec. 17, 1999, 113 Stat. 1893.)
+
+#### References in Text
+
+The Internal Revenue Code of 1986, referred to in subsec. (g)(2), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–170, §201(a)(3)(A), substituted “Subject to subsection (g) of this section, the State plan” for “The State plan” in introductory provisions.
+
+Subsec. (g). Pub. L. 106–170, §201(a)(3)(B), added subsec. (g).
 
 1997—Subsec. (a)(2)(D). Pub. L. 105–33, §4708(b)(1), struck out “or services furnished to such an individual by a health maintenance organization (as defined in section 1396b(m) of this title) in which he is enrolled,” after “section 1396d(a)(4)(C) of this title,”.
 
@@ -103,6 +125,10 @@ Subsec. (b)(2)(E). Pub. L. 99–272 added subpar. (E).
 1983—Subsec. (c). Pub. L. 97–448, §309(b)(18), substituted “subsection” for “subparagraph”.
 
 Subsec. (d). Pub. L. 97–448, §309(b)(19), (20), substituted in introductory text “, except as provided in subsections (a)(3) and (b)(3) of this section” for “unless authorized under this section”, and in cl. (5) substituted “is voluntary, or makes provision” for “in which participation is voluntary, or in which provision is made”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to medical assistance for items and services furnished on or after Oct. 1, 2000, see section 201(d) of Pub. L. 106–170, set out as a note under section 1396a of this title.
 
 #### Effective Date of 1997 Amendment
 

@@ -24,7 +24,7 @@ The Secretary may provide research and development assistance under subsection (
 
 Section is comprised of section 318 of Pub. L. 101–640. Subsec. (c) of section 318 of Pub. L. 101–640 amended section 2314a of this title.
 
-Section was enacted as part of the Water Resources Development Act of 1990, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 1990, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
 
 #### “Secretary” Defined
 

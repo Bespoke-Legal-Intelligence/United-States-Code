@@ -112,7 +112,7 @@ A claim filed by a participating financial institution may include the amount of
 
 #### (2) Insufficient reserve funds
 
-&emsp;If there are insufficient funds in the reserve fund to cover the entire amount of a claim of a participating financial institution, the participating State shall pay to the participating financial institution an amount equal to the current balance in the reserve fund. If the enrolled loan for which the claim has been filed—
+&emsp;If there are insufficient funds in the reserve fund to cover the entire amount of a claim of a participating financial institution, the participating State shall pay to the participatingfinancial institution an amount equal to the current balance in the reserve fund. If the enrolled loan for which the claim has been filed—
 
 &emsp;&emsp;(A) is not an early loan, such payment shall be deemed fully to satisfy the claim, and the participating financial institution shall have no other or further right to receive any amount from the reserve fund with respect to such claim; or
 

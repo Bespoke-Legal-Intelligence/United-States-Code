@@ -6,7 +6,7 @@ In this chapter—
 
 &emsp;&emsp;(A) directly allocates amounts to States only, except for amounts allocated for use by the agency administering the program; and
 
-&emsp;&emsp;(B) provides that the State may use any part of the amounts at its discretion to continue to support activities financed on August 12, 1981, under programs whose authorizations were discontinued by the OmnibusBudget Reconciliation Act of 1981 (Public Law 97–35, 95 Stat. 357) and that were financed on August 12, 1981, by allocations by the United States Government to local governments or other eligible entities, or both local governments and other eligible entities.
+&emsp;&emsp;(B) provides that the State may use any part of the amounts at its discretion to continue to support activities financed on August 12, 1981, under programs whose authorizations were discontinued by the Omnibus Budget Reconciliation Act of 1981 (Public Law 97–35, 95 Stat. 357) and that were financed on August 12, 1981, by allocations by the United States Government to local governments or other eligible entities, or both local governments and other eligible entities.
 
 &emsp;(2) “State” includes the District of Columbia and territories and possessions of the United States.
 

@@ -100,11 +100,15 @@ In addition to the duties contained in subsection (b) of this section, each incu
 
 #### (1) Commission authority and jurisdiction
 
-&emsp;The Commission shall create or designate one or more impartial entities to administer telecommunications numbering and to make such numbers available on an equitable basis. The Commission shall have exclusive jurisdiction over those portions of the North American Numbering Plan that pertain to the United States. Nothing in this paragraph shall preclude the Commission from delegating to State commissions or other entities all or any portion of such jurisdiction.
+&emsp;The Commission shall create or designate one or more impartial entities to administertelecommunications numbering and to make such numbers available on an equitable basis. The Commission shall have exclusive jurisdiction over those portions of the North American Numbering Plan that pertain to the United States. Nothing in this paragraph shall preclude the Commission from delegating to State commissions or other entities all or any portion of such jurisdiction.
 
 #### (2) Costs
 
 &emsp;The cost of establishing telecommunications numbering administration arrangements and number portability shall be borne by all telecommunications carriers on a competitively neutral basis as determined by the Commission.
+
+#### (3) Universal emergency telephone number
+
+&emsp;The Commission and any agency or entity to which the Commission has delegated authority under this subsection shall designate 9–1–1 as the universal emergency telephone number within the United States for reporting an emergency to appropriate authorities and requesting assistance. The designation shall apply to both wireline and wireless telephone service. In making the designation, the Commission (and any such agency or entity) shall provide appropriate transition periods for areas in which 9–1–1 is not in use as an emergency telephone number on October 26, 1999.
 
 #### (f) Exemptions, suspensions, and modifications
 
@@ -146,7 +150,7 @@ On and after February 8, 1996, each local exchange carrier, to the extent that i
 
 #### (1) Definition
 
-&emsp;For purposes of this section, the term “incumbent local exchange carrier” means, with respect to an area, the local exchange carrier that—
+&emsp;For purposes of this section, the term “incumbent local exchange carrier” means, withrespect to an area, the local exchange carrier that—
 
 &emsp;&emsp;(A) on February 8, 1996, provided telephone exchange service in such area; and
 
@@ -168,7 +172,11 @@ On and after February 8, 1996, each local exchange carrier, to the extent that i
 
 Nothing in this section shall be construed to limit or otherwise affect the Commission's authority under section 201 of this title.
 
-(June 19, 1934, ch. 652, title II, §251, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 61.)
+(June 19, 1934, ch. 652, title II, §251, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 61; amended Pub. L. 106–81, §3(a), Oct. 26, 1999, 113 Stat. 1287.)
+
+#### Amendments
+
+1999—Subsec. (e)(3). Pub. L. 106–81 added par. (3).
 
 #### Section Referred to in Other Sections
 

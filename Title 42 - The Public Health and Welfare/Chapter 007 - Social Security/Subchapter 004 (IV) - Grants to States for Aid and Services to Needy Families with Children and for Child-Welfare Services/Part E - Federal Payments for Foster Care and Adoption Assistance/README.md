@@ -2,7 +2,7 @@ Part E—Federal Payments for Foster Care and Adoption Assistance
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 300z–5, 602, 622, 625, 629e, 652, 653, 654, 657, 658a, 666, 669, 673b, 679b, 1308, 1320a–2a, 1320a–9, 1396a, 1396n, 1396u–2, 5106a of this title; title 2 section 906; title 8 sections 1255a, 1613; title 20 section 1087vv.
+This part is referred to in sections 300z–5, 602, 603, 622, 625, 629e, 652, 653, 654, 657, 658a, 666, 669, 673b, 679b, 1308, 1320a–2a, 1320a–9, 1396a, 1396d, 1396n, 1396u–2, 5106a of this title; title 2 section 906; title 8 sections 1255a, 1613; title 20 section 1087vv.
 
 
 ---
@@ -18,7 +18,7 @@ This part is referred to in sections 300z–5, 602, 622, 625, 629e, 652, 653, 65
 - [&sect; 00674 - Payments to States](%C2%A7%2000674%20-%20Payments%20to%20States.md)
 - [&sect; 00675 - Definitions](%C2%A7%2000675%20-%20Definitions.md)
 - [&sect; 00676 - Administration](%C2%A7%2000676%20-%20Administration.md)
-- [&sect; 00677 - Independent living initiatives](%C2%A7%2000677%20-%20Independent%20living%20initiatives.md)
+- [&sect; 00677 - John H. Chafee Foster Care Independence Program](%C2%A7%2000677%20-%20John%20H.%20Chafee%20Foster%20Care%20Independence%20Program.md)
 - [&sect; 00678 - Rule of construction](%C2%A7%2000678%20-%20Rule%20of%20construction.md)
 - [&sect; 00679 - Collection of data relating to adoption and foster care](%C2%A7%2000679%20-%20Collection%20of%20data%20relating%20to%20adoption%20and%20foster%20care.md)
 - [&sect; 00679a - National Adoption Information Clearinghouse](%C2%A7%2000679a%20-%20National%20Adoption%20Information%20Clearinghouse.md)

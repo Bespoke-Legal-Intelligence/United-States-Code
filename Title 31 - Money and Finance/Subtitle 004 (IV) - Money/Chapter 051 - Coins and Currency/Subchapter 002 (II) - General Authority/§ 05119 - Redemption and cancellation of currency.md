@@ -110,7 +110,7 @@ R.S. §3580.
 
 31:917.
 
-In subsection (a), the words “Secretary may not redeem” are substituted for “no . . . shall be redeemed”in 31:408a(less last proviso) because of the source provisions restated in section 321 of the revised title. The words “United States currency (including Federal reserve notes and circulating notes of Federal reserve banks and national banks)” are substituted for “currency of the United States” and the text of 31:444(1st sentence words between 2d and 3d semicolons) for consistency with section 5103 of this title and to eliminate unnecessary words.
+In subsection (a), the words “Secretary may not redeem” are substituted for “no . . . shall be redeemed” in 31:408a(less last proviso) because of the source provisions restated in section 321 of the revised title. The words “United States currency (including Federal reserve notes and circulating notes of Federal reserve banks and national banks)” are substituted for “currency of the United States” and the text of 31:444(1st sentence words between 2d and 3d semicolons) for consistency with section 5103 of this title and to eliminate unnecessary words.
 
 In subsection (b)(1), before clause (A), the words “upon completion of the transfers and credits authorized and directed by section 912 of this title” in 31:915 and “and the amount of the payment credited as a public debt receipt in accordance with such section” are omitted as executed. In clause (B), the text of 31:405a–3(last sentence) and 31:915(a)(4) is consolidated. The text of 31:405a–3(1st sentence) is omitted as executed. In clauses (C) and (E), the citations in parentheses are included only for information purposes.
 

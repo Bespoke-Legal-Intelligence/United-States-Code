@@ -24,7 +24,7 @@ In designating an eligible entity under subsection (a) of this section, the chie
 
 #### (c) No qualified organization in or near area
 
-If no private, nonprofit organization is identified or determined to be qualified under subsection (a) of this section to serve the unserved area as an eligible entity the chief executive officer may designate an appropriate political subdivision of the State to serve as an eligible entity for the area. In order to serve as the eligibleentity for that area, the political subdivision shall have a board or other mechanism as required in section 9910(b) of this title.
+If no private, nonprofit organization is identified or determined to be qualified under subsection (a) of this section to serve the unserved area as an eligible entity the chief executive officer may designate an appropriate political subdivision of the State to serve as an eligible entity for the area. In order to serve as the eligible entity for that area, the political subdivision shall have a board or other mechanism as required in section 9910(b) of this title.
 
 (Pub. L. 97–35, title VI, §676A, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2739.)
 

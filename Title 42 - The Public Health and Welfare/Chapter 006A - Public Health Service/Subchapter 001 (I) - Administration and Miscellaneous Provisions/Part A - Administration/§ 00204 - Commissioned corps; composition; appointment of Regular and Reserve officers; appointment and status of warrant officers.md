@@ -18,7 +18,7 @@ The civil-service laws, referred to in text, are set forth in Title 5, Governmen
 
 1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
-1948—Act Feb. 28, 1948, struck out provision that all active service in Reserve Corps, as well as service in Regular Corps, shall be credited for purpose of promotion in Regular Corps.
+1948—Act Feb. 28, 1948, struck out provision that all active service in Reserve Corps, as well as service inRegular Corps, shall be credited for purpose of promotion in Regular Corps.
 
 #### Repeals
 

@@ -6,7 +6,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 247b–1, 280c–6, 300w–3, 300z–5, 300ff–71, 671, 1301, 1320a–3, 1320a–7, 1320a–7a, 1382d, 1396a, 1396b, 1396n, 1396r–1, 1396r–4, 1397d, 8623, 14402 of this title; title 7 section 3178; title 8 section 1255a; title 20 sections 1412, 1440.
+This subchapter is referred to in sections 247b–1, 247b–4a, 280c–6, 300w–3, 300z–5, 300ff–71, 671, 1301, 1320a–3, 1320a–7, 1320a–7a, 1320b–19, 1382d, 1396a, 1396b, 1396n, 1396r–1, 1396r–4, 1397d, 14402 of this title; title 7 section 3178; title 8 section 1255a; title 20 sections 1412, 1440.
 
 
 ---

@@ -76,7 +76,7 @@ Section 504(c)(1) of Pub. L. 104–1 provided in part that subsec. (e) of this s
 
 #### Treatment of Separated Employees of Architect of Capitol
 
-Pub. L. 105–55, title III, §310, Oct. 7, 1997, 111 Stat. 1199, as amended by Pub. L. 105–275, title III, §308(b)–(d), Oct. 21, 1998, 112 Stat. 2452, 2453, provided that:
+Pub. L. 105–55, title III, §310, Oct. 7, 1997, 111 Stat. 1199, as amended by Pub. L. 105–275, title III, §308(b)–(d), Oct. 21, 1998, 112 Stat. 2452, 2453; Pub. L. 106–57, title III, §308, Sept. 29, 1999, 113 Stat. 427, provided that:
 
 “(a)
 
@@ -164,7 +164,7 @@ Retraining, Job Placement, and Counseling Services.—(1) In this subsection, th
 
 &emsp;“(B) shall not include—
 
-&emsp;&emsp;“(i) a reemployed annuitant under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, or another retirement system for employees of the Government; or
+&emsp;&emsp;“(i) a reemployed annuitant under subchapter III of chapter 83 or chapter 84 of title 5, United StatesCode, or another retirement system for employees of the Government; or
 
 &emsp;&emsp;“(ii) an employee who is employed on a temporary when actually employed basis.
 

@@ -164,7 +164,7 @@ Section applicable to taxable years beginning after Dec. 31, 1986, with special 
 
 #### Increase in Amount for Plan Termination Insurance Under Employee Retirement Insurance Security Act of 1974
 
-Section 1011A(e)(5) of Pub. L. 100–647 provided that: “In the case of any taxable year beginning in 1987, the amount under section 4972(c)(1)(A)(ii) of the 1986 Code for a plan to which title IV of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1301 et seq.\] applies shall be increased by the amount (if any) bywhich, as of the close of the plan year with or within which such taxable year begins—
+Section 1011A(e)(5) of Pub. L. 100–647 provided that: “In the case of any taxable year beginning in 1987, the amount under section 4972(c)(1)(A)(ii) of the 1986 Code for a plan to which title IV of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1301 et seq.\] applies shall be increased by the amount (if any) by which, as of the close of the plan year with or within which such taxable year begins—
 
 &emsp;“(A) the liabilities of such plan (determined as if the plan had terminated as of such time), exceed
 

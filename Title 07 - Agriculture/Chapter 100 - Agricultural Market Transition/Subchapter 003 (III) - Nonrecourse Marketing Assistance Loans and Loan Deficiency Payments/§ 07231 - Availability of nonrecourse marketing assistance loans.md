@@ -28,5 +28,5 @@ The Food Security Act of 1985, referred to in subsec. (c), is Pub. L. 99–198, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1308, 7232, 7233, 7234, 7235, 7237 of this title.
+This section is referred to in sections 1308, 7232, 7233, 7234, 7235, 7237, 7286 of this title.
 

@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) The National Commission on Fire Prevention and Control, established pursuant to Public Law 90–259, has made an exhaustive and comprehensive examination of the Nation's fire problem, has made detailed findings as to the extent of this problem in terms of human suffering and loss of life and property, and has made ninety thoughtful recommendations.
 
-&emsp;(2) The United States today has the highest per capita rate of death and property loss fromfire of all the major industrialized nations in the world.
+&emsp;(2) The United States today has the highest per capita rate of death and property loss from fire of all the major industrialized nations in the world.
 
 &emsp;(3) Fire is an undue burden affecting all Americans, and fire also constitutes a public health and safety problem of great dimensions. Fire kills 12,000 and scars and injures 300,000 Americans each year, including 50,000 individuals who require extended hospitalization. Almost $3 billion worth of property is destroyed annually by fire, and the total economic cost of destructive fire in the United States is estimated conservatively to be $11,000,000,000 per year. Firefighting is the Nation's most hazardous profession.
 
@@ -32,7 +32,7 @@ The National Commission on Fire Prevention and Control, established pursuant to 
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–108, §1, Nov. 20, 1997, 111 Stat. 2264, provided that: “This Act \[amending sections 2216, 2225, and 2227 of this title and enacting provisions set out as notes under sections 2204 and 2218 of this title\] may be cited as the ‘United States Fire Administration Authorization Act for Fiscal Years 1998 and 1999’.”
+Pub. L. 105–108, §1, Nov. 20, 1997, 111 Stat. 2264, provided that: “This Act \[amending sections 2216, 2225, and2227 of this title and enacting provisions set out as notes under sections 2204 and 2218 of this title\] may be cited as the ‘United States Fire Administration Authorization Act for Fiscal Years 1998 and 1999’.”
 
 #### Short Title of 1994 Amendment
 
@@ -126,7 +126,7 @@ The Agency shall be headed by a Director, who shall be appointed by the Presiden
 
 #### Sec. 103. The Deputy Director
 
-There shall be within the Agency a Deputy Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate now or hereafter prescribed by law for level IV of the Executive Schedule \[5 U.S.C. 5315\]. The Deputy Director shall perform such functions as the Director may from time to time prescribe and shall act as Director during the absence or disability of the Director or in the event of a vacancy in the Office of the Director.
+There shall be within the Agency a Deputy Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate now or hereafter prescribed by law for level IV of the Executive Schedule \[5 U.S.C. 5315\]. The Deputy Director shall perform such functions asthe Director may from time to time prescribe and shall act as Director during the absence or disability of the Director or in the event of a vacancy in the Office of the Director.
 
 #### Sec. 104. Associate Directors
 
@@ -162,7 +162,7 @@ The National Fire Prevention and Control Administration and the National Academy
 
 #### Sec. 302. Incidental Transfers
 
-So much of the personnel, property, records, and unexpended balances of appropriations, allocations andother funds employed, used, held, available, or to be made available in connection with the functions transferred under this Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate agency, or component at such time or times as the Director of the Office of Management and Budget shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation was originally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of any agencies abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
+So much of the personnel, property, records, and unexpended balances of appropriations, allocations and other funds employed, used, held, available, or to be made available in connection with the functions transferred under this Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate agency, or component at such time or times as the Director of the Office of Management and Budget shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation was originally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of any agencies abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
 
 #### Sec. 303. Interim Officers
 
@@ -188,7 +188,7 @@ The present situation has severely hampered Federal support of State and local e
 
 If approved by the Congress, the plan will establish the Federal Emergency Management Agency, whose Director shall report directly to the President. The National Fire Prevention and Control Administration (in the Department of Commerce), the Federal Insurance Administration (in the Department of Housing and Urban Development), and oversight responsibility for the Federal Emergency Broadcast System (now assigned in the Executive Office of the President) would be transferred to the Agency. The Agency's Director, its Deputy Director, and its five principal program managers would be appointed by the President with the advice and consent of the Senate.
 
-If the plan takes effect, I will assign to the Federal Emergency Management Agency all authorities and functions vested by law in the President and presently delegated to the Defense Civil Preparedness Agency (in the Department of Defense). This will include certain engineering and communications support functions for civil defense now assigned to the U.S. Army.
+If the plan takes effect, I will assign to the Federal Emergency Management Agency all authorities and functions vested by law in the President and presently delegated to the Defense Civil Preparedness Agency (inthe Department of Defense). This will include certain engineering and communications support functions for civil defense now assigned to the U.S. Army.
 
 I will also transfer to the new Agency all authorities and functions under the Disaster Relief Acts of 1970 and 1974 \[sections 4401 et seq. and 5121 et seq. of Title 42, The Public Health and Welfare\] now delegated to the Federal Disaster Assistance Administration in the Department of Housing and Urban Development.
 
@@ -244,7 +244,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 1–101. Reorganization Plan No. 3 of 1978 (43 FR 41943), which establishes the Federal Emergency Management Agency, provides for the transfer of functions, and the transfer and abolition of agencies and offices, is hereby effective.
 
-1–102. The Director of the Office of Management and Budget shall, in accord with Section 302 of the Reorganization Plan, provide for all the appropriate transfers, including those transfers related to all the functions transferred from the Department of Commerce, the Department of Housing and Urban Development, and the President.
+1–102. The Director of the Office of Management and Budget shall, in accord with Section 302 of the Reorganization Plan, provide for all the appropriate transfers, including those transfers related to all the functionstransferred from the Department of Commerce, the Department of Housing and Urban Development, and the President.
 
 1–103. (a) The functions transferred from the Department of Commerce are those vested in the Secretary of Commerce, the Administrator and Deputy Administrator of the National Fire Prevention and Control Administration (now the United States Fire Administration (Sec. 2(a) of Public Law 95–422)), and the Superintendent of the National Academy for Fire Prevention and Control pursuant to the Federal Fire Prevention and Control Act of 1974, as amended (15 U.S.C. 2201 et seq.) \[this chapter\] but not including any functions vested by the amendments made to other acts by Sections 18 and 23 of that Act (15 U.S.C. 278f and 1511). The functions vested in the Administrator by Sections 24 and 25 of that Act, as added by Sections 3 and 4 of Public Law 95–422 (15 U.S.C. 2220 and 2221), are not transferred to the Director of the Federal Emergency Management Agency. Those functions are transferred with the Administrator and remain vested in him. (Section 201 of the Plan.)
 

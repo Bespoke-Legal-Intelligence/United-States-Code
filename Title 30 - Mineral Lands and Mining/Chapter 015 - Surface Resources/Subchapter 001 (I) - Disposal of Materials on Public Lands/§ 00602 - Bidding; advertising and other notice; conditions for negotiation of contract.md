@@ -10,7 +10,7 @@
 
 (b) Repealed. Pub. L. 96–470, title I, §102(a), Oct. 19, 1980, 94 Stat. 2237.
 
-(July 31, 1947, ch. 406, §2, 61 Stat. 681; Pub. L. 87–689, §1, Sept. 25, 1962, 76 Stat. 587; Pub. L. 94–273, §20, Apr. 21, 1976, 90 Stat. 379; Pub. L. 96–470, title I, §102(a), Oct. 19, 1980, 94 Stat. 2237.)
+(July 31, 1947, ch. 406, §2, 61 Stat. 681; Pub. L. 87–689, §1, Sept. 25, 1962, 76 Stat. 587; Pub. L.94–273, §20, Apr. 21, 1976, 90 Stat. 379; Pub. L. 96–470, title I, §102(a), Oct. 19, 1980, 94 Stat. 2237.)
 
 #### Amendments
 

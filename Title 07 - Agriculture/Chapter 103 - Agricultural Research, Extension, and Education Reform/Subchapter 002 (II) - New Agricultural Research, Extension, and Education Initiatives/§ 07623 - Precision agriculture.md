@@ -108,7 +108,7 @@ A research, education, or information dissemination project supported by a grant
 
 #### (d) Grant priorities
 
-In making grants to eligible entities under this section, the Secretary, in consultation with the Advisory Board, shall give priority to research, education, or information dissemination projects designed to accomplish the following:
+In making grants to eligible entities under this section, the Secretary, in consultation withthe Advisory Board, shall give priority to research, education, or information dissemination projects designed to accomplish the following:
 
 &emsp;(1) Evaluate the use of precision agriculture technologies using a systems research approach to increase long-term site-specific and whole-farm production efficiencies, productivity, and profitability.
 

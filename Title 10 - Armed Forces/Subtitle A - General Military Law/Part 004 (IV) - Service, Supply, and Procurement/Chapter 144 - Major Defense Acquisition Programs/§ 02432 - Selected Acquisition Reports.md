@@ -26,7 +26,7 @@
 
 &emsp;(iii) the system configuration for such program is not well defined.
 
-(B) The Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a written notification of each waiver under subparagraph (A) for a program for a fiscal year not later than 60 days before the President submits the budget to Congress pursuant to section 1105 of title 31 in that fiscal year.
+(B) The Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notification of each waiver under subparagraph (A) for a program for a fiscal year not later than 60 days before the President submits the budget to Congress pursuant to section 1105 of title 31 in that fiscal year.
 
 (c)(1) Each Selected Acquisition Report for the first quarter for a fiscal year shall include—
 
@@ -38,7 +38,7 @@
 
 &emsp;(D) such other information as the Secretary of Defense considers appropriate.
 
-(2) Each Selected Acquisition Report for the first quarter of a fiscal year shall be designed to provide to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives the information such Committees need to perform their oversight functions. Whenever the Secretary of Defense proposes to make changes in the content of a Selected Acquisition Report, the Secretary shall submit a notice of the proposed changes to such committees. The changes shall be considered approved by the Secretary, and may be incorporated into the report, only after the end of the 60-day period beginning on the date on which the notice is received by those committees.
+(2) Each Selected Acquisition Report for the first quarter of a fiscal year shall be designed to provide to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives the information such Committees need to perform their oversight functions. Whenever the Secretary of Defense proposes to make changes in the content of a Selected Acquisition Report, the Secretary shall submit a notice of the proposed changes to such committees. The changes shall be considered approved by the Secretary, and may be incorporated into the report, only after the end of the 60-day period beginning on the date on which the notice is received by those committees.
 
 (3) In addition to the material required by paragraphs (1) and (2), each Selected Acquisition Report for the first quarter of a fiscal year shall include the following:
 
@@ -78,7 +78,7 @@
 
 (g) The requirements of this section with respect to a major defense acquisition program shall cease to apply after 90 percent of the items to be delivered to the United States under the program (shown as the total quantity of items to be purchased under the program in the most recent Selected Acquisition Report) have been delivered or 90 percent of planned expenditures under the program have been made.
 
-(h)(1) Total program reporting under this section shall apply to a major defense acquisition program when funds have been appropriated for such and the Secretary of Defense has decided to proceed to engineering and manufacturing development of such program. Reporting may be limited to the development program as provided in paragraph (2) before a decision is made by the Secretary of Defense to proceed to engineering and manufacturing development if the Secretary notifies the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives of the intention to submit a limited report under this subsection not less than 15 days before a report is due under this section.
+(h)(1) Total program reporting under this section shall apply to a major defense acquisition program when funds have been appropriated for such and the Secretary of Defense has decided to proceed to engineering and manufacturing development of such program. Reporting may be limited to the development program as provided in paragraph (2) before a decision is made by the Secretary of Defense to proceed to engineering and manufacturing development if the Secretary notifies the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of the intention to submit a limited report under this subsection not less than 15 days before a report is due under this section.
 
 (2) A limited report under this subsection shall include the following:
 
@@ -94,13 +94,15 @@
 
 (3) The submission requirements for a limited report under this subsection shall be the same as for quarterly Selected Acquisition Reports for total program reporting.
 
-(Added Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 739, §139a; amended Pub. L. 98–525, title XII, §1242(a), Oct. 19, 1984, 98 Stat. 2606; Pub. L. 99–145, title XII, §1201, Nov. 8, 1985, 99 Stat. 715; renumbered §2432 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(13), (g)(7), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §961(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–175, and Pub. L. 99–591, §101(c) \[title X, §961(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–175; Pub. L. 99–661, div. A, title IX, formerly title IV, §961(a), Nov. 14, 1986, 100 Stat. 3955, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(b)(3), (k)(2), Apr. 21, 1987, 101 Stat. 279, 284; Pub. L. 100–180, div. A, title XII, §1233(a)(1), title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1161, 1175; Pub. L. 101–189, div. A, title VIII, §811(c), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XIV, §§1407(a)–(c), 1484(f)(4), Nov. 5, 1990, 104 Stat. 1681, 1717; Pub. L. 102–25, title VII, §701(f)(3), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–190, div. A, title VIII, §801(b)(2), title X, §1061(a)(14), Dec. 5, 1991, 105 Stat. 1412, 1473; Pub. L. 102–484, div. A, title VIII, §817(c), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 103–355, title III, §3002(a)(1), (b)–(h), Oct. 13, 1994, 108 Stat. 3328, 3329; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §806, Sept. 23, 1996, 110 Stat. 2606; Pub. L. 105–85, div. A, title VIII, §841(c), Nov. 18, 1997, 111 Stat. 1843.)
+(Added Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 739, §139a; amended Pub. L. 98–525, title XII, §1242(a), Oct. 19, 1984, 98 Stat. 2606; Pub. L. 99–145, title XII, §1201, Nov. 8, 1985, 99 Stat. 715; renumbered §2432 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(13), (g)(7), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §961(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–175, and Pub. L. 99–591, §101(c) \[title X, §961(a)\], Oct. 30, 1986, 100 Stat. 3341–82,3341–175; Pub. L. 99–661, div. A, title IX, formerly title IV, §961(a), Nov. 14, 1986, 100 Stat. 3955, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(b)(3), (k)(2), Apr. 21, 1987, 101 Stat. 279, 284; Pub. L. 100–180, div. A, title XII, §1233(a)(1), title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1161, 1175; Pub. L. 101–189, div. A, title VIII, §811(c), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XIV, §§1407(a)–(c), 1484(f)(4), Nov. 5, 1990, 104 Stat. 1681, 1717; Pub. L. 102–25, title VII, §701(f)(3), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–190, div. A, title VIII, §801(b)(2), title X, §1061(a)(14), Dec. 5, 1991, 105 Stat. 1412, 1473; Pub. L. 102–484, div. A, title VIII, §817(c), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 103–355, title III, §3002(a)(1), (b)–(h), Oct. 13, 1994, 108 Stat. 3328, 3329; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §806, Sept. 23, 1996, 110 Stat. 2606; Pub. L. 105–85, div. A, title VIII, §841(c), Nov. 18, 1997, 111 Stat. 1843; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+1999—Subsecs. (b)(3)(B), (c)(2), (h)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 1997—Subsec. (h)(2)(D) to (F). Pub. L. 105–85 redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: “The completion status of the development program expressed—
 
@@ -112,7 +114,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 Subsec. (c)(1). Pub. L. 104–201, §806(1), struck out “and” at end of subpar. (B), added subpar. (C), and redesignated former subpar. (C) as (D).
 
-Subsec. (c)(2). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee onNational Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+Subsec. (c)(2). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
 Subsec. (e)(8), (9). Pub. L. 104–201, §806(2), redesignated par. (9) as (8) and struck out former par. (8) which read as follows: “The completion status of the program (A) expressed as the percentage that the number of years for which funds have been appropriated for the program is of the number of years for which it is planned that funds will be appropriated for the program, and (B) expressed as the percentage that the amount of funds that have been appropriated for the program is of the total amount of funds which it is planned will be appropriated for the program.”
 
@@ -208,10 +210,6 @@ Subsec. (f). Pub. L. 98–525, §1242(a)(4), substituted: “60” for “30”,
 
 Subsec. (g). Pub. L. 98–525, §1242(a)(5), added subsec. (g).
 
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
-
 #### Effective Date of 1990 Amendment
 
 Section 1407(d) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(a)(8), Apr. 6, 1991, 105 Stat. 119, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect with respect to Selected Acquisition Reports submitted under section 2432 of title 10, United States Code, after December 31, 1991.”
@@ -224,7 +222,7 @@ Amendment by section 1314(a)(1) of Pub. L. 100–180 applicable as if included i
 
 #### Effective Date of 1986 Amendment
 
-Section 101(c) \[title IX, §961(c)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 961(c) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 2433 of this title\] shall take effect on January 1, 1987.”
+Section 101(c) \[title IX, §961(c)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 961(c) of title IX, formerlytitle IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 2433 of this title\] shall take effect on January 1, 1987.”
 
 #### Effective Date
 

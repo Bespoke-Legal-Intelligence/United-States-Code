@@ -8,7 +8,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 #### (1) In general
 
-&emsp;The order shall provide for the establishment of, and appointment of members to, aNational Sheep Promotion, Research, and Information Board to administer the order. Members of the Board shall be appointed by the Secretary from nominations provided in accordance with this subsection. The cumulative number of seats on the Board shall be 120 and shall be apportioned as follows:
+&emsp;The order shall provide for the establishment of, and appointment of members to, a National Sheep Promotion, Research, and Information Board to administer the order. Members of the Board shall be appointed by the Secretary from nominations provided in accordance with this subsection. The cumulative number of seats on the Board shall be 120 and shall be apportioned as follows:
 
 #### (A) Producers
 
@@ -252,7 +252,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 #### (B) Feeder and importer nominations
 
-&emsp;&emsp;The Secretary shall solicit nominations for each seat for which feeders or importers are entitled to representation from organizations that represent feeders and importers, respectively. In determining whether an organization is eligible to submit nominationsunder this subparagraph, the Secretary shall determine whether—
+&emsp;&emsp;The Secretary shall solicit nominations for each seat for which feeders or importers are entitled to representation from organizations that represent feeders and importers, respectively. In determining whether an organization is eligible to submit nominations under this subparagraph, the Secretary shall determine whether—
 
 &emsp;&emsp;&emsp;(i) the active membership of the organization includes a significant number of feeders or importers in relation to the total membership of the organization;
 
@@ -352,7 +352,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (1) In general
 
-&emsp;The order shall provide that the Board shall review budgets submitted by the ExecutiveCommittee, on a fiscal year basis, of anticipated expenses and disbursements by the Board, including probable costs of administration and promotion, research, consumer information, education, industry information, and producer information projects. On approval by the Board, the Board shall submit the budget to the Secretary for the approval of the Secretary.
+&emsp;The order shall provide that the Board shall review budgets submitted by the Executive Committee, on a fiscal year basis, of anticipated expenses and disbursements by the Board, including probable costs of administration and promotion, research, consumer information, education, industry information, and producer information projects. On approval by the Board, the Board shall submit the budget to the Secretary for the approval of the Secretary.
 
 #### (2) Limitation
 
@@ -450,7 +450,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (A) In general
 
-&emsp;&emsp;The order shall provide that each person making payment to a producer, feeder, orhandler of wool for wool purchased from the producer, feeder, or handler shall, in the manner prescribed by the order, collect an assessment on each pound of greasy wool sold.
+&emsp;&emsp;The order shall provide that each person making payment to a producer, feeder, or handler of wool for wool purchased from the producer, feeder, or handler shall, in the manner prescribed by the order, collect an assessment on each pound of greasy wool sold.
 
 #### (B) Processing
 
@@ -610,7 +610,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (B) Other information
 
-&emsp;&emsp;The Secretary shall authorize the use under this chapter of information regarding persons paying producers, feeders, importers, handlers, or processors that is accumulated under a law or regulation other than this chapter or a regulation issued under this chapter.
+&emsp;&emsp;The Secretary shall authorize the use under this chapter of information regardingpersons paying producers, feeders, importers, handlers, or processors that is accumulated under a law or regulation other than this chapter or a regulation issued under this chapter.
 
 #### (3) Confidentiality
 
@@ -642,7 +642,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (E) Penalty
 
-&emsp;&emsp;Any person who willfully violates this paragraph, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, andif the person is an officer or employee of the Board or the Department, shall be removed from office.
+&emsp;&emsp;Any person who willfully violates this paragraph, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if the person is an officer or employee of the Board or the Department, shall be removed from office.
 
 #### (n) Other terms and conditions
 

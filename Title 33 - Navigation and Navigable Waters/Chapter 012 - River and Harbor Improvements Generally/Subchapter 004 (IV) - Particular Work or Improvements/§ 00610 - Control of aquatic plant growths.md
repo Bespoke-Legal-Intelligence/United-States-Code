@@ -1,12 +1,26 @@
 ### §610. Control of aquatic plant growths
 
-(a) There is hereby authorized a comprehensive program to provide for control and progressive eradication of water-hyacinth, alligatorweed, Eurasian water milfoil, melaleuca, and other obnoxious aquatic plant growths, from thenavigable waters, tributary streams, connecting channels, and other allied waters of the United States, in the combined interest of navigation, flood control, drainage, agriculture, fish and wildlife conservation, public health, and related purposes, including continued research for development of the most effective and economic control measures, to be administered by the Chief of Engineers, under the direction of the Secretary of the Army, in cooperation with other Federal and State agencies. Local interests shall agree to hold and save the United States free from claims that may occur from control operations and to participate to the extent of 30 per centum of the cost of such operations. Costs for research and planning undertaken pursuant to the authorities of this section shall be borne fully by the Federal Government.
+#### (a) In general
 
-(b) There are authorized to be appropriated such amounts, not in excess of $12,000,000 annually, as may be necessary to carry out the provisions of this section. Any such funds employed for control operations shall be allocated by the Chief of Engineers on a priority basis, based upon the urgency and need of each area, and the availability of local funds.
+There is hereby authorized a comprehensive program to provide for control and progressive eradication of noxious aquatic plant growths from the navigable waters, tributary streams, connecting channels, and other allied waters of the United States, in the combined interest of navigation, flood control, drainage, agriculture, fish and wildlife conservation, public health, and related purposes, including continued research for development of the most effective and economic control measures, to be administered by the Chief of Engineers, under the direction of the Secretary of the Army, in cooperation with other Federal and State agencies. Local interests shall agree to hold and save the United States free from claims that may occur from control operations and to participate to the extent of 30 per centum of the cost of such operations. Costs for research and planning undertaken pursuant to the authorities of this section shall be borne fully by the Federal Government.
 
-(Pub. L. 85–500, title I, §104, July 3, 1958, 72 Stat. 300; Pub. L. 89–298, title III, §302, Oct. 27, 1965, 79 Stat. 1092; Pub. L. 98–63, title I, §101, July 30, 1983, 97 Stat. 313; Pub. L. 99–662, title IX, §941, Nov. 17, 1986, 100 Stat. 4199; Pub. L. 104–303, title II, §225, Oct. 12, 1996, 110 Stat. 3697.)
+#### (b) Appropriations
+
+There are authorized to be appropriated such amounts, not in excess of $15,000,000 annually, as may be necessary to carry out the provisions of this section. Any such funds employed for control operations shall be allocated by the Chief of Engineers on a priority basis, based upon the urgency and need of each area, and the availability of local funds.
+
+#### (c) Support
+
+In carrying out the program under this section, the Secretary is encouraged to use contracts, cooperative agreements, and grants with colleges and universities and other non-Federal entities.
+
+(Pub. L. 85–500, title I, §104, July 3, 1958, 72 Stat. 300; Pub. L. 89–298, title III, §302, Oct. 27, 1965, 79Stat. 1092; Pub. L. 98–63, title I, §101, July 30, 1983, 97 Stat. 313; Pub. L. 99–662, title IX, §941, Nov. 17, 1986, 100 Stat. 4199; Pub. L. 104–303, title II, §225, Oct. 12, 1996, 110 Stat. 3697; Pub. L. 106–53, title II, §205, Aug. 17, 1999, 113 Stat. 285.)
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–53, §205(1), substituted “noxious aquatic plant growths from” for “water-hyacinth, alligatorweed, Eurasian water milfoil, melaleuca, and other obnoxious aquatic plant growths, from” in first sentence.
+
+Subsec. (b). Pub. L. 106–53, §205(2), substituted “$15,000,000” for “$12,000,000” in first sentence.
+
+Subsec. (c). Pub. L. 106–53, §205(3), added subsec. (c).
 
 1996—Subsec. (a). Pub. L. 104–303 inserted “melaleuca,” after “milfoil,”.
 

@@ -52,5 +52,7 @@ Aug. 6, 1956, ch. 974, §10, as added Jan. 30, 1968, Pub. L. 90–251, §4, 82 S
 
 36:723 (words between 1st and 2d commas and between next-to-last and last commas).
 
+&nbsp;
+
 In subsection (a)(1)(A), the words “chapters 33 and 51 and subchapter III of chapter 53 of title 5” are substituted for “the civil-service and classification laws” for clarity and consistency in the revised title and with other titles of the United States Code.
 

@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;No person may use any pipe, any pipe or plumbing fitting or fixture, any solder, orany flux, after June 19, 1986, in the installation or repair of—
+&emsp;&emsp;No person may use any pipe, any pipe or plumbing fitting or fixture, any solder, or any flux, after June 19, 1986, in the installation or repair of—
 
 &emsp;&emsp;&emsp;(i) any public water system; or
 

@@ -10,11 +10,11 @@ The Secretary shall make grants to public and private nonprofit agencies, organi
 
 &emsp;(3) to develop and support community education activities related to illicit use of drugs by runaway and homeless youth, including outreach to youth individually,
 
-&emsp;(4) to provide to runaway and homeless youth in rural areas assistance (including thedevelopment of community support groups) related to the illicit use of drugs,
+&emsp;(4) to provide to runaway and homeless youth in rural areas assistance (including the development of community support groups) related to the illicit use of drugs,
 
 &emsp;(5) to provide to individuals involved in providing services to runaway and homeless youth, information and training regarding issues related to the illicit use of drugs by runaway and homeless youth,
 
-&emsp;(6) to support research on the illicit drug use by runaway and homeless youth, and the effects on such youth of drug abuse by family members, and any correlation between such use and attempts at suicide, and
+&emsp;(6) to support research on the illicit drug use by runaway and homeless youth, and the effects on such youth of drug abuse by familymembers, and any correlation between such use and attempts at suicide, and
 
 &emsp;(7) to improve the availability and coordination of local services related to drug abuse, for runaway and homeless youth.
 

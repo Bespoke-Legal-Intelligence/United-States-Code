@@ -60,7 +60,7 @@ Sec. 2. <i>Definitions</i>. When used in this Order, the term—
 
 (d) \[Revoked by Ex. Ord. No. 11838, Feb. 6, 1975, 40 F.R. 5743.\]
 
-(e) “Labor organization” means a lawful organization of any kind in which employees participate and which exists for the purpose, in whole or in part, of dealing with agencies concerning grievances, personnel policies and practices, or other matters affecting the working conditions of their employees; but does not include an organization which—
+(e) “Labor organization” means a lawful organization of any kind in which employees participate and which exists for the purpose, in whole or in part, of dealing with agencies concerning grievances, personnel policiesand practices, or other matters affecting the working conditions of their employees; but does not include an organization which—
 
 (1) consists of management officials or supervisors, except as provided in section 24 of this Order;
 
@@ -164,7 +164,7 @@ Sec. 6. <i>Powers and Duties of the Office of the General Counsel and the Assist
 
 (c) In any matter arising under paragraph (b) of this Section, the Assistant Secretary may require a labor organization to cease and desist from violations of this Order and require it to take such affirmative action as he considers appropriate to effectuate the policies of this Order.
 
-(d) In performing the duties imposed on them by this Section, the General Counsel and the Assistant Secretary may request and use the services and assistance of employees of other agencies in accordance with Section 1 of the Act of March 4, 1915 (38 Stat. 1084, as amended; 31 U.S.C. 686) \[31 U.S.C. 1535\].
+(d) In performing the duties imposed on them by this Section, the General Counsel and the Assistant Secretary may request and use the services and assistanceof employees of other agencies in accordance with Section 1 of the Act of March 4, 1915 (38 Stat. 1084, as amended; 31 U.S.C. 686) \[31 U.S.C. 1535\].
 
 #### Recognition
 
@@ -222,13 +222,13 @@ Sec. 10. <i>Exclusive recognition</i>. (a) An agency shall accord exclusive reco
 
 #### Agreements
 
-Sec. 11. <i>Negotiation of agreements</i>. (a) An agency and a labor organization that has been accorded exclusive recognition, through appropriate representatives, shall meet at reasonable times and confer in good faith with respect to personnel policies and practices and matters affecting working conditions, so far as may be appropriate under applicable laws and regulations, including policies set forth in the Federal Personnel Manual; published agency policies and regulations for which a compelling need exists under criteria established by the Federal Labor Relations Authority and which are issued at the agency headquarters level or at the level of a primary national subdivision; a national or other controlling agreement at a higher level in the agency; and this order. They may negotiate an agreement, or any question arising thereunder; determine appropriate techniques, consistent with section 17 of this order, to assist in such negotiation; and execute a written agreement or memorandum of understanding.
+Sec. 11. <i>Negotiation of agreements</i>. (a) An agency and a labor organization that has been accorded exclusive recognition, through appropriate representatives, shall meet at reasonable times and confer in good faith with respect to personnel policies and practices and matters affecting working conditions, so far as may be appropriate under applicable laws and regulations, includingpolicies set forth in the Federal Personnel Manual; published agency policies and regulations for which a compelling need exists under criteria established by the Federal Labor Relations Authority and which are issued at the agency headquarters level or at the level of a primary national subdivision; a national or other controlling agreement at a higher level in the agency; and this order. They may negotiate an agreement, or any question arising thereunder; determine appropriate techniques, consistent with section 17 of this order, to assist in such negotiation; and execute a written agreement or memorandum of understanding.
 
 (b) In prescribing regulations relating to personnel policies and practices and working conditions, an agency shall have due regard for the obligation imposed by paragraph (a) of this section. However, the obligation to meet and confer does not include matters with respect to the mission of an agency; its budget; its organization; the number of employees; and the numbers, types, and grades of positions or employees assigned to an organizational unit, work project or tour of duty; the technology of performing its work; or its internal security practices. This does not preclude the parties from negotiating agreements providing appropriate arrangements for employees adversely affected by the impact of realignment of work forces or technological change.
 
 (c) If, in connection with negotiations, an issue develops as to whether a proposal is contrary to law, regulation, controlling agreement, or this order and therefore not negotiable, it shall be resolved as follows:
 
-(1) An issue which involves interpretation of a controlling agreement at a higher agency level is resolvedunder the procedures of the controlling agreement, or, if none, under agency regulations;
+(1) An issue which involves interpretation of a controlling agreement at a higher agency level is resolved under the procedures of the controlling agreement, or, if none, under agency regulations;
 
 (2) An issue other than as described in subparagraph (1) of this paragraph which arises at a local level may be referred by either party to the head of the agency for determination;
 
@@ -342,7 +342,7 @@ Sec. 19. <i>Unfair labor practices</i>. (a) Agency management shall not—
 
 Sec. 20. <i>Use of official time</i>. Solicitation of membership or dues, and other internal business of a labor organization, shall be conducted during the non-duty hours of the employees concerned. Employees who represent a recognized labor organization shall not be on official time when negotiating an agreement with agency management, except to the extent that the negotiating parties agree to other arrangements which may provide that the agency will either authorize official time for up to 40 hours or authorize up to one-half the time spent in negotiations during regular working hours, for a reasonable number of employees, which number normally shall not exceed the number of management representatives.
 
-Sec. 21. <i>Allotment of dues</i>. (a) When a labor organization holds formal or exclusive recognition, and the agency and the organization agree in writing to this course of action, an agency may deduct the regular and periodic dues of the organization from the pay of members of the organization in the unit of recognition who make a voluntary allotment for that purpose, and shall recover the costs of making the deductions. Such an allotment is subject to the regulations of the Office of Personnel Management, which shall include provision for the employee to revoke his authorization at stated six-month intervals. Such an allotment terminates when—
+Sec. 21. <i>Allotment of dues</i>. (a) When a labor organization holds formal or exclusive recognition, and the agency and the organization agree in writing to this course of action, an agency may deduct the regular and periodic dues of the organization from the pay of members of the organization in the unit of recognition whomake a voluntary allotment for that purpose, and shall recover the costs of making the deductions. Such an allotment is subject to the regulations of the Office of Personnel Management, which shall include provision for the employee to revoke his authorization at stated six-month intervals. Such an allotment terminates when—
 
 (1) the dues withholding agreement between the agency and the labor organization is terminated or ceases to be applicable to the employee; or
 
@@ -371,6 +371,8 @@ Sec. 25. <i>Guidance, training, review and information</i>. (a) The Office of Pe
 (b) The Office of Personnel Management shall develop programs for the collection and dissemination of information appropriate to the needs of agencies, organizations and the public.
 
 Sec. 26. <i>Effective date</i>. This Order is effective on January 1, 1970, except sections 7(f) and 8 which are effective immediately. Effective January 1, 1970, Executive Order No. 10988 and the President's Memorandum of May 21, 1963, entitled Standards of Conduct for Employee Organizations and Code of Fair Labor Practices, are revoked.
+
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.\]
 
 #### Ex. Ord. No. 12871. Labor-Management Partnerships
 
@@ -424,7 +426,7 @@ Members shall have 2-year terms on the Council, which may be extended by the Pre
 
 (c) <i>Administration</i>. (1) The President shall designate a member of the Council who is a full-time Federal employee to serve as Chairperson. The responsibilities of the Chairperson shall include scheduling meetings of the Council.
 
-(2) The Council shall seek input from nonmember Federal agencies, particularly smaller agencies. It alsomay, from time to time, invite experts from the private and public sectors to submit information. The Council shall also seek input from Federal manager and professional associations, companies, nonprofit organizations, State and local governments. Federal employees, and customers of Federal services, as needed.
+(2) The Council shall seek input from nonmember Federal agencies, particularly smaller agencies. It also may, from time to time, invite experts from the private and public sectors to submit information. The Council shall also seek input from Federal manager and professional associations, companies, nonprofit organizations, State and local governments. Federal employees, and customers of Federal services, as needed.
 
 (3) To the extent permitted by law and subject to the availability of appropriations, OPM shall provide such facilities, support, and administrative services to the Council as the Director of OPM deems appropriate.
 
@@ -464,5 +466,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Term of the National Partnership Council extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of the National Partnership Council extended until Sept. 30, 1999, by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of the National Partnership Council extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(c), Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+
+Term of the National Partnership Council extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 

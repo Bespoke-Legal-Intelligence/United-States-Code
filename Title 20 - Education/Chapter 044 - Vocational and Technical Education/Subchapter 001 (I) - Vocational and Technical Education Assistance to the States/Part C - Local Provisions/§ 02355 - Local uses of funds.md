@@ -74,7 +74,7 @@ Funds made available to an eligible recipient under this subchapter may be used�
 
 #### (d) Administrative costs
 
-Each eligible recipient receiving funds under this part shall not use more than 5 percent of the funds for administrative costs associatedwith the administration of activities assisted under this section.
+Each eligible recipient receiving funds under this part shall not use more than 5 percent of the funds for administrative costs associated with the administration of activities assisted under this section.
 
 (Pub. L. 88–210, title I, §135, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3115.)
 

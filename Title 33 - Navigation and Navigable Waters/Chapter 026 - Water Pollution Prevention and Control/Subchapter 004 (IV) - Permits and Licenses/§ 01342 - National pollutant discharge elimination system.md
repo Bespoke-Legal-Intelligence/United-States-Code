@@ -40,7 +40,7 @@ At any time after the promulgation of the guidelines required by subsection (i)(
 
 (4) To insure that the Administrator receives notice of each application (including a copy thereof) for a permit;
 
-(5) To insure that any State (other than the permitting State), whose waters may be affected by the issuance of a permit may submit written recommendations to the permitting State (and the Administrator) with respect to any permit application and, if any part of such written recommendations are not accepted by the permitting State, that the permitting State will notify such affected State (and the Administrator) in writing of its failure to so accept such recommendations together with its reasons for so doing;
+(5) To insure that any State (other than the permitting State), whose waters may be affected by the issuance of a permit may submit written recommendations to the permitting State (and the Administrator) with respect to any permit application and, if any part of such written recommendations are not accepted by the permitting State, that the permitting State will notifysuch affected State (and the Administrator) in writing of its failure to so accept such recommendations together with its reasons for so doing;
 
 (6) To insure that no permit will be issued if, in the judgment of the Secretary of the Army acting through the Chief of Engineers, after consultation with the Secretary of the department in which the Coast Guard is operating, anchorage and navigation of any of the navigable waters would be substantially impaired thereby;
 
@@ -78,11 +78,11 @@ Limitations on partial permit program returns and withdrawals.—A State may ret
 
 #### (e) Waiver of notification requirement
 
-In accordance with guidelines promulgated pursuant to subsection (i)(2) of section 1314 of this title, the Administrator is authorized to waive the requirements of subsection (d) of this section at the time he approves a program pursuant to subsection (b) of this section for any category (including any class, type, or size within such category) of point sources within the State submitting such program.
+In accordance with guidelines promulgated pursuant to subsection (i)(2) of section 1314 of this title, the Administrator is authorized to waive the requirements of subsection (d) of this section at the time he approves a program pursuant to subsection (b) of this section for anycategory (including any class, type, or size within such category) of point sources within the State submitting such program.
 
 #### (f) Point source categories
 
-The Administrator shall promulgate regulations establishing categories of point sources which he determines shall not be subject to the requirements of subsection (d) of this section inany State with a program approved pursuant to subsection (b) of this section. The Administrator may distinguish among classes, types, and sizes within any category of point sources.
+The Administrator shall promulgate regulations establishing categories of point sources which he determines shall not be subject to the requirements of subsection (d) of this section in any State with a program approved pursuant to subsection (b) of this section. The Administrator may distinguish among classes, types, and sizes within any category of point sources.
 
 #### (g) Other regulations for safe transportation, handling, carriage, storage, and stowage of pollutants
 
@@ -334,7 +334,7 @@ Limitations on statutory construction.—Nothing in this section \[amending sect
 
 &emsp;“(B) to affect the procedures and standards applicable to the Administrator in issuing permits under section 402(a)(1)(B) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(a)(1)(B)\], and
 
-&emsp;“(C) to affect the authority of any State to deny or condition certification under section 401 of such Act \[33 U.S.C. 1341\] with respect to the issuance of permits under section 402(a)(1)(B) of such Act.”
+&emsp;“(C) to affect the authority of any State to deny or condition certification under section 401 of such Act\[33 U.S.C. 1341\] with respect to the issuance of permits under section 402(a)(1)(B) of such Act.”
 
 #### Log Transfer Facilities
 
@@ -342,7 +342,7 @@ Section 407 of Pub. L. 100–4 provided that:
 
 “(a)
 
-Agreement.—The Administrator and Secretary of the Army shall enter into an agreement regarding coordination of permitting for log transfer facilities to designate a lead agency and to process permits required under sections 402 and 404 of the Federal Water Pollution Control Act \[33 U.S.C. 1342, 1344\] , where both suchsections apply, for discharges associated with the construction and operation of log transfer facilities. The Administrator and Secretary are authorized to act in accordance with the terms of such agreement to assure that, to the maximum extent practicable, duplication, needless paperwork and delay in the issuance of permits, and inequitable enforcement between and among facilities in different States, shall be eliminated.
+Agreement.—The Administrator and Secretary of the Army shall enter into an agreement regarding coordination of permitting for log transfer facilities to designate a lead agency and to process permits required under sections 402 and 404 of the Federal Water Pollution Control Act \[33 U.S.C. 1342, 1344\] , where both such sections apply, for discharges associated with the construction and operation of log transfer facilities. The Administrator and Secretary are authorized to act in accordance with the terms of such agreement to assure that, to the maximum extent practicable, duplication, needless paperwork and delay in the issuance of permits, and inequitable enforcement between and among facilities in different States, shall be eliminated.
 
 “(b)
 

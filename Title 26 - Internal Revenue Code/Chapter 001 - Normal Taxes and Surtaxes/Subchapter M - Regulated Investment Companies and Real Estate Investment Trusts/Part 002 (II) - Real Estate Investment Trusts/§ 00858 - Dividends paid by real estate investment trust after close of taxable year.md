@@ -24,7 +24,7 @@ In the case of amounts to which subsection (a) applies, any notice to shareholde
 
 1988—Subsec. (b). Pub. L. 100–647, §1018(u)(27), made technical correction to directory language of Pub. L. 99–514, see 1986 Amendment note below.
 
-1986—Subsec. (b). Pub. L. 99–514, §668(b)(1)(B), as amended by Pub. L. 100–647, §1018(u)(27), substituted “Except as provided in section 857(b)(8), amounts” for “Amounts”.
+1986—Subsec. (b). Pub. L. 99–514, §668(b)(1)(B), as amended by Pub. L. 100–647, §1018(u)(27), substituted“Except as provided in section 857(b)(8), amounts” for “Amounts”.
 
 Subsec. (c). Pub. L. 99–514, §665(b)(2), inserted “(or mailed to its shareholders or holders of beneficial interests with its annual report for the taxable year)”.
 

@@ -14,7 +14,7 @@ Provisions similar to those comprising clauses (3) and (4) of this section were 
 
 #### Effective Date
 
-Section 12(a) of Pub. L. 89–358 provided that: “Except as otherwise specifically provided, the provisions of this Act \[see Tables for classification\] shall take effect on the date of its enactment \[Mar. 3, 1966\], but no educational assistance allowance shall be payable under chapter 34 of title 38, United States Code, as added by section 2 of this Act, for any period before June 1, 1966, nor for the month of June 1966, unless (1) the eligible veteran commenced the pursuit of the course of education on or after June 1, 1966, or (2) the pursuit of such course continued through June 30, 1966.”
+Section 12(a) of Pub. L. 89–358 provided that: “Except as otherwise specifically provided, the provisions of this Act \[see Tables for classification\] shall take effect on the date of its enactment \[Mar. 3, 1966\], but no educational assistance allowance shall be payable underchapter 34 of title 38, United States Code, as added by section 2 of this Act, for any period before June 1, 1966, nor for the month of June 1966, unless (1) the eligible veteran commenced the pursuit of the course of education on or after June 1, 1966, or (2) the pursuit of such course continued through June 30, 1966.”
 
 #### Savings Provision
 

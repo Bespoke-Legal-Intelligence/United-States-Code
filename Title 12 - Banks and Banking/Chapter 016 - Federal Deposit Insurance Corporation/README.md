@@ -77,6 +77,11 @@
 | (h) | Coordination of examination authority. |
 | (i) | Flood insurance compliance by insured depository institutions. |
 | (j) | Consultation among examiners. |
+| [1820a.](%C2%A7%2001820a%20-%20Examination%20of%20investment%20companies.md) | Examination of investment companies. |
+| (a) | Exclusive Commission authority. |
+| (b) | Examination results and other information. |
+| (c) | Certain examinations authorized. |
+| (d) | Definitions. |
 | [1821\.](%C2%A7%2001821%20-%20Insurance%20Funds.md) | Insurance Funds. |
 | (a) | Deposit insurance. |
 | (b) | Liquidation as closing of depository institution. |
@@ -167,6 +172,15 @@
 | (q) | Sovereign risk. |
 | (r) | Subsidiary depository institutions as agents for certain affiliates. |
 | (s) | Prohibition on certain affiliations. |
+| (t) | Limitation on claims. |
+| [1828a.](%C2%A7%2001828a%20-%20Prudential%20safeguards.md) | Prudential safeguards. |
+| (a) | Comptroller of the Currency. |
+| (b) | Board of Governors of the Federal Reserve System. |
+| (c) | Federal Deposit Insurance Corporation. |
+| [1828b.](%C2%A7%2001828b%20-%20Interagency%20data%20sharing.md) | Interagency data sharing. |
+| (a) | In general. |
+| (b) | Confidentiality requirements. |
+| (c) | Banking agency information sharing. |
 | [1829\.](%C2%A7%2001829%20-%20Penalty%20for%20unauthorized%20participation%20by%20convicted%20individual.md) | Penalty for unauthorized participation by convicted individual. |
 | (a) | Prohibition. |
 | (b) | Penalty. |
@@ -355,7 +369,35 @@
 | (c) | Applicability of certain laws to interstate banking operations. |
 | (d) | Operations of the resulting bank. |
 | (e) | Exception for banks in default or in danger of default. |
-| (f) | Definitions. |
+| (f) | Applicable rate and other charge limitations. |
+| (g) | Definitions. |
+| [1831v.](%C2%A7%2001831v%20-%20Authority%20of%20State%20insurance%20regulator%20and%20Securities%20and%20Exchange%20Commission.md) | Authority of State insurance regulator and Securities and Exchange Commission. |
+| (a) | In general. |
+| (b) | Certain exemption authorized. |
+| (c) | Definitions. |
+| [1831w.](%C2%A7%2001831w%20-%20Safety%20and%20soundness%20firewalls%20applicable%20to%20financial%20subsidiaries%20of%20banks.md) | Safety and soundness firewalls applicable to financial subsidiaries of banks. |
+| (a) | In general. |
+| (b) | Preservation of existing subsidiaries. |
+| (c) | Definitions. |
+| (d) | Preservation of authority. |
+| [1831x.](%C2%A7%2001831x%20-%20Insurance%20customer%20protections.md) | Insurance customer protections. |
+| (a) | Regulations required. |
+| (b) | Sales practices. |
+| (c) | Disclosures and advertising. |
+| (d) | Separation of banking and nonbanking activities. |
+| (e) | Domestic violence discrimination prohibition. |
+| (f) | Consumer grievance process. |
+| (g) | Effect on other authority. |
+| (h) | Non-discrimination against non-affiliated agents. |
+| [1831y.](%C2%A7%2001831y%20-%20CRA%20sunshine%20requirements.md) | CRA sunshine requirements. |
+| (a) | Public disclosure of agreements. |
+| (b) | Annual report of activity by insured depository institution. |
+| (c) | Annual report of activity by nongovernmental entities. |
+| (d) | Applicability. |
+| (e) | Definitions. |
+| (f) | Violations. |
+| (g) | Rule of construction. |
+| (h) | Regulations. |
 | [1832\.](%C2%A7%2001832%20-%20Withdrawals%20by%20negotiable%20or%20transferable%20instruments%20for%20transfers%20to%20third%20parties.md) | Withdrawals by negotiable or transferable instruments for transfers to third parties. |
 | (a) | Authority of depository institution; applicability. |
 | (b) | “Depository institution” defined. |
@@ -422,7 +464,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 161, 203, 205, 211, 222, 329, 461, 1441, 1441a, 1464, 1467a, 1470, 1841, 1843, 2254, 3104, 3105, 3108, 4713, 4717 of this title; title 15 sections 78c, 78<i>l</i>, 78m; title 40 section 474; title 42 section 5318a.
+This chapter is referred to in sections 161, 203, 205, 211, 222, 329, 461, 1422, 1441, 1441a, 1464, 1467a, 1470, 1828a, 1841, 1843, 2254, 3104, 3105, 3108, 4713, 4717 of this title; title 15 sections 78c, 78<i>l</i>, 78m; title 40 section 474; title 42 section 5318a.
 
 
 ---
@@ -439,6 +481,7 @@ This chapter is referred to in sections 161, 203, 205, 211, 222, 329, 461, 1441,
 - [&sect; 01818 - Termination of status as insured depository institution](%C2%A7%2001818%20-%20Termination%20of%20status%20as%20insured%20depository%20institution.md)
 - [&sect; 01819 - Corporate powers](%C2%A7%2001819%20-%20Corporate%20powers.md)
 - [&sect; 01820 - Administration of Corporation](%C2%A7%2001820%20-%20Administration%20of%20Corporation.md)
+- [&sect; 01820a - Examination of investment companies](%C2%A7%2001820a%20-%20Examination%20of%20investment%20companies.md)
 - [&sect; 01821 - Insurance Funds](%C2%A7%2001821%20-%20Insurance%20Funds.md)
 - [&sect; 01821a - FSLIC Resolution Fund](%C2%A7%2001821a%20-%20FSLIC%20Resolution%20Fund.md)
 - [&sect; 01822 - Corporation as receiver](%C2%A7%2001822%20-%20Corporation%20as%20receiver.md)
@@ -448,6 +491,8 @@ This chapter is referred to in sections 161, 203, 205, 211, 222, 329, 461, 1441,
 - [&sect; 01826 - Forms of obligations; preparation by Secretary of the Treasury](%C2%A7%2001826%20-%20Forms%20of%20obligations%3B%20preparation%20by%20Secretary%20of%20the%20Treasury.md)
 - [&sect; 01827 - Reports by Corporation; audit of financial transactions; report on audits; employment of certified public accountants for audits](%C2%A7%2001827%20-%20Reports%20by%20Corporation%3B%20audit%20of%20financial%20transactions%3B%20report%20on%20audits%3B%20employment%20of%20certified%20public%20accountants%20for%20audits.md)
 - [&sect; 01828 - Regulations governing insured depository institutions](%C2%A7%2001828%20-%20Regulations%20governing%20insured%20depository%20institutions.md)
+- [&sect; 01828a - Prudential safeguards](%C2%A7%2001828a%20-%20Prudential%20safeguards.md)
+- [&sect; 01828b - Interagency data sharing](%C2%A7%2001828b%20-%20Interagency%20data%20sharing.md)
 - [&sect; 01829 - Penalty for unauthorized participation by convicted individual](%C2%A7%2001829%20-%20Penalty%20for%20unauthorized%20participation%20by%20convicted%20individual.md)
 - [&sect; 01829a - Participation by State nonmember insured banks in lotteries and related activities](%C2%A7%2001829a%20-%20Participation%20by%20State%20nonmember%20insured%20banks%20in%20lotteries%20and%20related%20activities.md)
 - [&sect; 01829b - Retention of records by insured depository institutions](%C2%A7%2001829b%20-%20Retention%20of%20records%20by%20insured%20depository%20institutions.md)
@@ -478,6 +523,10 @@ This chapter is referred to in sections 161, 203, 205, 211, 222, 329, 461, 1441,
 - [&sect; 01831s - Transferred](%C2%A7%2001831s%20-%20Transferred.md)
 - [&sect; 01831t - Depository institutions lacking Federal deposit insurance](%C2%A7%2001831t%20-%20Depository%20institutions%20lacking%20Federal%20deposit%20insurance.md)
 - [&sect; 01831u - Interstate bank mergers](%C2%A7%2001831u%20-%20Interstate%20bank%20mergers.md)
+- [&sect; 01831v - Authority of State insurance regulator and Securities and Exchange Commission](%C2%A7%2001831v%20-%20Authority%20of%20State%20insurance%20regulator%20and%20Securities%20and%20Exchange%20Commission.md)
+- [&sect; 01831w - Safety and soundness firewalls applicable to financial subsidiaries of banks](%C2%A7%2001831w%20-%20Safety%20and%20soundness%20firewalls%20applicable%20to%20financial%20subsidiaries%20of%20banks.md)
+- [&sect; 01831x - Insurance customer protections](%C2%A7%2001831x%20-%20Insurance%20customer%20protections.md)
+- [&sect; 01831y - CRA sunshine requirements](%C2%A7%2001831y%20-%20CRA%20sunshine%20requirements.md)
 - [&sect; 01832 - Withdrawals by negotiable or transferable instruments for transfers to third parties](%C2%A7%2001832%20-%20Withdrawals%20by%20negotiable%20or%20transferable%20instruments%20for%20transfers%20to%20third%20parties.md)
 - [&sect; 01833 - Repealed. Pub. L. 104&#8211;208, div. A, title II, &sect;2224(b), Sept. 30, 1996, 110 Stat. 3009&#8211;415](%C2%A7%2001833%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93208%2C%20div.%20A%2C%20title%20II%2C%20%C2%A72224%28b%29%2C%20Sept.%2030%2C%201996%2C%20110%20Stat.%203009%E2%80%93415.md)
 - [&sect; 01833a - Civil penalties](%C2%A7%2001833a%20-%20Civil%20penalties.md)

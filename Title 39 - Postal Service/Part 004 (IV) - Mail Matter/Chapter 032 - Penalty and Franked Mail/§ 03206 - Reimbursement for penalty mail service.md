@@ -4,7 +4,7 @@
 
 (b) The Department of Agriculture shall transfer to the Postal Service as postal revenues out of any appropriations made to it for that purpose the equivalent amount of postage, as determined by the Postal Service, for penalty mailings under clauses (1)(F) and (4) of section 3202(a) of this title.
 
-(c) The Department of State shall transfer to the Postal Service as postal revenues out of any appropriations made to it for that purpose theequivalent amount of postage, as determined by the Postal Service, for penalty mailings under clause (1)(C) and (D) of section 3202(a) of this title.
+(c) The Department of State shall transfer to the Postal Service as postal revenues out of any appropriations made to it for that purpose the equivalent amount of postage, as determined by the Postal Service, for penalty mailings under clause (1)(C) and (D) of section 3202(a) of this title.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 753; Pub. L. 93–191, §9, Dec. 18, 1973, 87 Stat. 745; Pub. L. 94–553, §105(e), Oct. 19, 1976, 90 Stat. 2599.)
 

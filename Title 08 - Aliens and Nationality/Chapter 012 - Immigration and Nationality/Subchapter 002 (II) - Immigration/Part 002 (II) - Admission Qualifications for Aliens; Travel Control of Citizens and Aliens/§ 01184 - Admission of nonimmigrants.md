@@ -14,7 +14,7 @@ Every alien (other than a nonimmigrant described in subparagraph (H)(i) or (L) o
 
 #### (c) Petition of importing employer; involvement of Departments of Labor and Agriculture
 
-(1) The question of importing any alien as a nonimmigrant under section 1101(a)(15)(H), (L), (O), or (P)(i) of this title in any specific case or specific cases shall be determined by the Attorney General, after consultation with appropriate agencies of the Government, upon petition of the importing employer. Such petition, shall be made and approved before the visa is granted. The petition shall be in such form and contain such information as the Attorney General shall prescribe. The approval of such a petition shall not, of itself, be construed as establishing that the alien is a nonimmigrant. For purposes of this subsection with respect to nonimmigrants described in section 1101(a)(15)(H)(ii)(a) of this title, the term “appropriate agencies of Government” means the Department of Labor and includes the Department of Agriculture. The provisions of section 1188 of this title shall apply to the question of importing any alien as a nonimmigrant under section 1101(a)(15)(H)(ii)(a) of this title.
+(1) The question of importing any alien as a nonimmigrant under section 1101(a)(15)(H), (L), (O), or (P)(i) of this title in any specific case or specific cases shall be determined by the Attorney General, after consultation with appropriate agencies of the Government, upon petition of the importing employer. Such petition, shall be made and approved before the visa is granted. The petition shall be in such form and contain such information as the Attorney General shall prescribe. The approval of such a petition shallnot, of itself, be construed as establishing that the alien is a nonimmigrant. For purposes of this subsection with respect to nonimmigrants described in section 1101(a)(15)(H)(ii)(a) of this title, the term “appropriate agencies of Government” means the Department of Labor and includes the Department of Agriculture. The provisions of section 1188 of this title shall apply to the question of importing any alien as a nonimmigrant under section 1101(a)(15)(H)(ii)(a) of this title.
 
 (2)(A) The Attorney General shall provide for a procedure under which an importing employer which meets requirements established by the Attorney General may file a blanket petition to import aliens as nonimmigrants described in section 1101(a)(15)(L) of this title instead of filing individual petitions under paragraph (1) to import such aliens. Such procedure shall permit the expedited processing of visas for admission of aliens covered under such a petition.
 
@@ -64,7 +64,7 @@ Every alien (other than a nonimmigrant described in subparagraph (H)(i) or (L) o
 
 (E) The Attorney General shall approve petitions under this subsection for nonimmigrants described in section 1101(a)(15)(P)(ii) of this title only after consultation with labor organizations representing artists and entertainers in the United States.
 
-(5)(A) In the case of an alien who is provided nonimmigrant status under section 1101(a)(15)(H)(i)(b) or 1101(a)(15)(H)(ii)(b) of thistitle and who is dismissed from employment by the employer before the end of the period of authorized admission, the employer shall be liable for the reasonable costs of return transportation of the alien abroad.
+(5)(A) In the case of an alien who is provided nonimmigrant status under section 1101(a)(15)(H)(i)(b) or 1101(a)(15)(H)(ii)(b) of this title and who is dismissed from employment by the employer before the end of the period of authorized admission, the employer shall be liable for the reasonable costs of return transportation of the alien abroad.
 
 (B) In the case of an alien who is admitted to the United States in nonimmigrant status under section 1101(a)(15)(O) or 1101(a)(15)(P) of this title and whose employment terminates for reasons other than voluntary resignation, the employer whose offer of employment formed the basis of such nonimmigrant status and the petitioner are jointly and severally liable for the reasonable cost of return transportation of the alien abroad. The petitioner shall provide assurance satisfactory to the Attorney General that the reasonable cost of that transportation will be provided.
 
@@ -214,7 +214,7 @@ Notwithstanding any other provision of this chapter, an alien who is a citizen o
 
 (1) The number of aliens who may be provided a visa as nonimmigrants under section 1101(a)(15)(S)(i) of this title in any fiscal year may not exceed 200. The number of aliens who may be provided a visa as nonimmigrants under section 1101(a)(15)(S)(ii) of this title in any fiscal year may not exceed 50.
 
-(2) No alien may be admitted into the United States as such a nonimmigrant more than 5 years after September 13, 1994.
+(2) No alien may be admitted into the United States as such a nonimmigrant more than 7 years after September 13, 1994.
 
 (3) The period of admission of an alien as such a nonimmigrant may not exceed 3 years. Such period may not be extended by the Attorney General.
 
@@ -278,13 +278,15 @@ Notwithstanding any other provision of this chapter, an alien who is a citizen o
 
 &emsp;(2) An alien who obtains the status of a nonimmigrant under section 1101(a)(15)(F)(i) of this title in order to pursue a course of study at a private elementary or secondary school or in a language training program that is not publicly funded shall be considered to have violated such status, and the alien's visa under section 1101(a)(15)(F) of this title shall be void, if the alien terminates or abandons such course of study at such a school and undertakes a course of study at a public elementary school, in a publicly funded adult education program, in a publicly funded adult education language training program, or at a public secondary school (unless the requirements of paragraph (1)(B) are met).
 
-(June 27, 1952, ch. 477, title II, ch. 2, §214, 66 Stat. 189; Pub. L. 91–225, §3, Apr. 7, 1970, 84 Stat. 117; Pub. L. 98–454, title VI, §602(b), Oct. 5, 1984, 98 Stat. 1737; Pub. L. 99–603, title III, §§301(b), 313(b), Nov. 6, 1986, 100 Stat. 3411, 3438; Pub. L. 99–639, §3(a), (c), Nov. 10, 1986, 100 Stat. 3542; Pub. L. 100–449, title III, §307(b), Sept. 28, 1988, 102 Stat. 1877; Pub. L. 100–525, §2(<i>l</i>)(1), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 101–649, title II, §§202(a), 205(a), (b), (c)(2), 206(b), 207(b), Nov. 29, 1990, 104 Stat. 5014, 5019, 5020, 5023, 5025; Pub. L. 102–232, title II, §§202(a), 203(b), 204, 205(d), (e), 206(a), (c)(2), 207(a), (c)(1), title III, §303(a)(10)–(12), Dec. 12, 1991, 105 Stat. 1737–1741, 1748; Pub. L. 103–182, title III, §341(b), (c), Dec. 8, 1993, 107 Stat. 2116, 2117; Pub. L. 103–322, title XIII, §130003(b)(2), Sept. 13, 1994, 108 Stat. 2025; Pub. L. 103–416, title II, §220(b), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. C, title III, §308(e)(1)(D), (2)(B), (f)(1)(G), (H), (3)(B), (g)(5)(A)(i), (7)(A), title VI, §§621, 622(c), 625(a)(1), 671(a)(3)(A), (e)(4)(A), Sept. 30, 1996, 110 Stat. 3009–619 to 3009–621, 3009–623, 3009–695, 3009–699, 3009–721, 3009–723; Pub. L. 105–65, title I, §108, Oct. 27, 1997, 111 Stat. 1350; Pub. L. 105–277, div. C, title IV, §§411(a), 414(a), Oct. 21, 1998, 112 Stat. 2681–642, 2681–651.)
+(June 27, 1952, ch. 477, title II, ch. 2, §214, 66 Stat. 189; Pub. L. 91–225, §3, Apr. 7, 1970, 84 Stat. 117; Pub. L. 98–454, title VI, §602(b), Oct. 5, 1984, 98 Stat. 1737; Pub. L. 99–603, title III, §§301(b), 313(b), Nov. 6, 1986, 100 Stat. 3411, 3438; Pub. L. 99–639, §3(a), (c), Nov. 10, 1986, 100 Stat. 3542; Pub. L. 100–449, title III, §307(b), Sept. 28, 1988, 102 Stat. 1877; Pub. L. 100–525, §2(<i>l</i>)(1), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 101–649, title II, §§202(a), 205(a), (b), (c)(2), 206(b), 207(b), Nov. 29, 1990, 104 Stat. 5014, 5019, 5020, 5023, 5025; Pub. L. 102–232, title II, §§202(a), 203(b), 204, 205(d), (e), 206(a), (c)(2), 207(a), (c)(1), title III, §303(a)(10)–(12), Dec. 12, 1991, 105 Stat. 1737–1741, 1748; Pub. L. 103–182, title III, §341(b), (c), Dec. 8, 1993, 107 Stat. 2116, 2117; Pub. L. 103–322, title XIII, §130003(b)(2), Sept. 13, 1994, 108 Stat. 2025; Pub. L. 103–416, title II, §220(b), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. C, title III, §308(e)(1)(D), (2)(B), (f)(1)(G), (H), (3)(B), (g)(5)(A)(i), (7)(A), title VI, §§621, 622(c), 625(a)(1), 671(a)(3)(A), (e)(4)(A), Sept. 30, 1996, 110 Stat. 3009–619 to 3009–621, 3009–623, 3009–695, 3009–699, 3009–721, 3009–723; Pub. L. 105–65, title I, §108, Oct. 27, 1997, 111 Stat. 1350; Pub. L. 105–277, div. C, title IV, §§411(a), 414(a), Oct. 21, 1998, 112 Stat. 2681–642, 2681–651; Pub. L. 106–104, §2, Nov. 13, 1999, 113 Stat. 1483.)
 
 #### References in Text
 
 The International Organizations Immunities Act, referred to in subsec. (b), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
 #### Amendments
+
+1999—Subsec. (k)(2). Pub. L. 106–104 substituted “7 years” for “5 years”.
 
 1998—Subsec. (c)(9). Pub. L. 105–277, §414(a), added par. (9).
 
@@ -340,7 +342,7 @@ Subsec. (c)(3). Pub. L. 102–232, §205(e), inserted at end “The Attorney Gen
 
 Subsec. (c)(3)(A). Pub. L. 102–232, §204(1), substituted “after consultation in accordance with paragraph (6)” for “after consultation with peer groups in the area of the alien's ability”.
 
-Subsec. (c)(3)(B). Pub. L. 102–232, §204(2), substituted “after consultation in accordance with paragraph (6) or, in the case of such an alien seeking entry for a motion picture or television production, after consultation with such a labor organization and a managementorganization in the area of the alien's ability” for “after consultation with labor organizations with expertise in the skill area involved”.
+Subsec. (c)(3)(B). Pub. L. 102–232, §204(2), substituted “after consultation in accordance with paragraph (6) or, in the case of such an alien seeking entry for a motion picture or television production, after consultation with such a labor organization and a management organization in the area of the alien's ability” for “after consultation with labor organizations with expertise in the skill area involved”.
 
 Subsec. (c)(4)(A), (B). Pub. L. 102–232, §203(b), added subpars. (A) and (B) and redesignated former subpars. (A) and (B) as (C) and (D), respectively.
 
@@ -416,7 +418,7 @@ Amendment by Pub. L. 103–182 effective on date the North American Free Trade A
 
 #### Effective Date of 1991 Amendment
 
-Amendment by sections 202(a), 203(b), 204, 205(d), (e), 206(a), (c)(2), 207(a), (c)(1) of Pub. L. 102–232 effective Apr. 1, 1992, see section 208 of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by sections 202(a), 203(b), 204, 205(d), (e), 206(a), (c)(2), 207(a), (c)(1) of Pub. L. 102–232 effectiveApr. 1, 1992, see section 208 of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 Amendment by section 303(a)(10)–(12) of Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
@@ -428,7 +430,7 @@ Amendment by sections 205(a), (b), (c)(2), 206(b), and 207(b) of Pub. L. 101–6
 
 #### Effective and Termination Dates of 1988 Amendments
 
-Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525,set out as an Effective Date of 1988 Amendment note under section 1101 of this title.
+Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as an Effective Date of 1988 Amendment note under section 1101 of this title.
 
 Amendment by Pub. L. 100–449 effective on the date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on the date the Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of Title 19, Customs Duties.
 
@@ -441,6 +443,10 @@ Section 3(d)(1), (3) of Pub. L. 99–639 provided that:
 “(3) The amendment made by subsection (c) \[amending this section\] shall apply to aliens issued visas under section 101(a)(15)(K) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(K)\] on or after the date of the enactment of this Act.”
 
 Amendment by section 301(b) of Pub. L. 99–603 applicable to petitions and applications filed under sections 1184(c) and 1188 of this title on or after the first day of the seventh month beginning after Nov. 6, 1986, see section 301(d) of Pub. L. 99–603, as amended, set out as an Effective Date note under section 1188 of this title.
+
+#### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22, Foreign Relations and Intercourse.
 
 #### Improving Count of H–1B and H–2B Nonimmigrants
 
@@ -486,7 +492,7 @@ See section 3 of Pub. L. 102–110, set out as a Delay Until April 1, 1992, in I
 
 Section 207(c) of Pub. L. 101–649, as amended by Pub. L. 102–232, title III, §303(a)(13), Dec. 12, 1991, 105 Stat. 1748, provided that:
 
-“(1) In the case of an alien admitted as a nonimmigrant (other than under section 101(a)(15)(H)(ii)(a) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(H)(ii)(a)\]) and who is authorized to be employed in an occupation, if nonimmigrants constitute a majority of the members of the bargaining unit in the occupation, during the period of any strike or lockout in the occupation with the employer which strike or lockout is pending on the date of the enactment of this Act \[Nov. 29, 1990\] the alien—
+“(1) In the case of an alien admitted as a nonimmigrant (other than under section 101(a)(15)(H)(ii)(a)of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(H)(ii)(a)\]) and who is authorized to be employed in an occupation, if nonimmigrants constitute a majority of the members of the bargaining unit in the occupation, during the period of any strike or lockout in the occupation with the employer which strike or lockout is pending on the date of the enactment of this Act \[Nov. 29, 1990\] the alien—
 
 &emsp;“(A) continues to be authorized to be employed in the occupation for that employer, and
 

@@ -6,7 +6,7 @@ There are authorized to be appropriated to the Marine Mammal Commission, for pur
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 97–58, §7(c), Oct. 9, 1981, 95 Stat. 987;Pub. L. 98–364, title I, §104(3), July 17, 1984, 98 Stat. 442; Pub. L. 100–711, §6(3), Nov. 23, 1988, 102 Stat. 4771, prior to repeal by Pub. L. 103–238, §9(c).
+Provisions similar to those in this section were contained in Pub. L. 97–58, §7(c), Oct. 9, 1981, 95 Stat. 987; Pub. L. 98–364, title I, §104(3), July 17, 1984, 98 Stat. 442; Pub. L. 100–711, §6(3), Nov. 23, 1988, 102 Stat. 4771, prior to repeal by Pub. L. 103–238, §9(c).
 
 #### Amendments
 

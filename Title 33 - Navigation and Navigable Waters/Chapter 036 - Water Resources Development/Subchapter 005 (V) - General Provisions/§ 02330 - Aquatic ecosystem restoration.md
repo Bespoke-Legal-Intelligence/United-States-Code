@@ -10,11 +10,23 @@ The Secretary may carry out an aquatic ecosystem restoration and protection proj
 
 #### (b) Cost sharing
 
-Non-Federal interests shall provide 35 percent of the cost of construction of any project carried out under this section, including provision of all lands, easements, rights-of-way, and necessary relocations.
+#### (1) In general
+
+&emsp;Non-Federal interests shall provide 35 percent of the cost of construction of any project carried out under this section, including provision of all lands, easements, rights-of-way, and necessary relocations.
+
+#### (2) Form
+
+&emsp;Before October 1, 2003, the Federal share of the cost of a project under this section may be provided in the form of reimbursements of project costs.
 
 #### (c) Agreements
 
-Construction of a project under this section shall be initiated only after a non-Federal interest has entered into a binding agreement with the Secretary to pay the non-Federal share of the costs of construction required by this section and to pay 100 percent of any operation, maintenance, and replacement and rehabilitation costs with respect to the project in accordance with regulations prescribed by the Secretary.
+#### (1) In general
+
+&emsp;Construction of a project under this section shall be initiated only after a non-Federal interest has entered into a binding agreement with the Secretary to pay the non-Federal share of the costs of construction required by this section and to pay 100 percent of any operation, maintenance, and replacement and rehabilitation costs with respect to the project in accordance with regulations prescribed by the Secretary.
+
+#### (2) Nonprofit entities
+
+&emsp;Notwithstanding section 1962d–5b of title 42, for any project carried out under this section, a non-Federal interest may include a nonprofit entity, with the consent of the affected local government.
 
 #### (d) Cost limitation
 
@@ -24,11 +36,17 @@ Not more than $5,000,000 in Federal funds may be allotted under this section for
 
 There is authorized to be appropriated to carry out this section $25,000,000 for each fiscal year.
 
-(Pub. L. 104–303, title II, §206, Oct. 12, 1996, 110 Stat. 3679.)
+(Pub. L. 104–303, title II, §206, Oct. 12, 1996, 110 Stat. 3679; Pub. L. 106–53, title II, §210, Aug. 17, 1999, 113 Stat. 287.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### Amendments
+
+1999—Subsec. (b). Pub. L. 106–53, §210(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (c). Pub. L. 106–53, §210(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 #### “Secretary” Defined
 

@@ -1766,6 +1766,24 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER LIX–DD—BLACK CANYON OF THE GUNNISON NATIONAL PARK AND GUNNISON GORGE NATIONAL CONSERVATION AREA
+
+|  |  |
+| :--- | ---: |
+| [410fff.](Subchapter%20059%E2%80%93DD%20%28LIX%E2%80%93DD%29%20-%20Black%20Canyon%20of%20the%20Gunnison%20National%20Park%20and%20Gunnison%20Gorge%20National%20Conservation%20Area/%C2%A7%2000410fff%20-%20Findings.md) | Findings. |
+| 410fff–1. | Definitions. |
+| 410fff–2. | Establishment of Black Canyon of the Gunnison National Park. |
+| 410fff–3. | Acquisition of property and minor boundary adjustments. |
+| 410fff–4. | Expansion of the Black Canyon of the Gunnison Wilderness. |
+| 410fff–5. | Establishment of the Gunnison Gorge National Conservation Area. |
+| 410fff–6. | Designation of Wilderness within the Conservation Area. |
+| 410fff–7. | Withdrawal. |
+| 410fff–8. | Water rights. |
+| 410fff–9. | Study of lands within and adjacent to Curecanti National Recreation Area. |
+| 410fff–10. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER LX—NATIONAL MILITARY PARKS
 
 |  |  |
@@ -2833,7 +2851,7 @@
 | 460ii–1. | Acquisition of property. |
 | 460ii–2. | Administration, protection, and development. |
 | 460ii–3. | Federal supervision of water resources projects. |
-| 460ii–4. | Funding and reporting requirements. |
+| 460ii–4. | Funding sources and general management plan. |
 | 460ii–5. | Chattahoochee River National Recreation Area Advisory Commission. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -3402,6 +3420,7 @@
 - [Subchapter 059&#8211;AA (LIX&#8211;AA) - Cane River Creole National Historical Park and National Heritage Area](Subchapter%20059%E2%80%93AA%20%28LIX%E2%80%93AA%29%20-%20Cane%20River%20Creole%20National%20Historical%20Park%20and%20National%20Heritage%20Area/README.md)
 - [Subchapter 059&#8211;BB (LIX&#8211;BB) - New Bedford National Historical Park](Subchapter%20059%E2%80%93BB%20%28LIX%E2%80%93BB%29%20-%20New%20Bedford%20National%20Historical%20Park/README.md)
 - [Subchapter 059&#8211;CC (LIX&#8211;CC) - Adams National Historical Park](Subchapter%20059%E2%80%93CC%20%28LIX%E2%80%93CC%29%20-%20Adams%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;DD (LIX&#8211;DD) - Black Canyon of the Gunnison National Park and Gunnison Gorge National Conservation Area](Subchapter%20059%E2%80%93DD%20%28LIX%E2%80%93DD%29%20-%20Black%20Canyon%20of%20the%20Gunnison%20National%20Park%20and%20Gunnison%20Gorge%20National%20Conservation%20Area/README.md)
 - [Subchapter 060 (LX) - National Military Parks](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/README.md)
 - [Subchapter 061 (LXI) - National and International Monuments and Memorials](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/README.md)
 - [Subchapter 062 (LXII) - Miscellaneous](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/README.md)

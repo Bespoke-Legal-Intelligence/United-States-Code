@@ -2,7 +2,7 @@
 
 (a)
 
-General Notice and Wait Requirements.—The Secretary of a military department, or his designee, may not enter into any of the following listed transactions by or for the use of that department until after the expiration of 30 days from the date upon which a report of the facts concerning the proposed transaction is submitted to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives:
+General Notice and Wait Requirements.—The Secretary of a military department, or his designee, may not enter into any of the following listed transactions by or for the use of that department until after the expiration of 30 days from the date upon which a report of the facts concerning the proposed transaction is submitted to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives:
 
 &emsp;(1) An acquisition of fee title to any real property, if the estimated price is more than $200,000.
 
@@ -36,7 +36,7 @@ Notice and Wait Regarding Leases of Space for DoD by GSA.—No element of the De
 
 (f)
 
-Reports on Transactions Involving Intelligence Components.—Whenever a transaction covered by this section is made by or on behalf of an intelligence component of the Department of Defense or involves real property used by such a component, any report under this section with respect to the transaction that is submitted to the congressional committees named in subsection (a) shall be submitted concurrently to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+Reports on Transactions Involving Intelligence Components.—Whenever a transaction covered by this section is made by or on behalf of an intelligence component of the Department of Defense or involves real property used by such a component, any report under thissection with respect to the transaction that is submitted to the congressional committees named in subsection (a) shall be submitted concurrently to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
 (g)
 
@@ -60,7 +60,7 @@ Exceptions for Transactions for War and Certain Emergency and Other Operations.�
 
 (3) Not later than 30 days after entering into a real property transaction covered by paragraph (1) or (2), the Secretary concerned shall submit to the committees named in subsection (a) a report on the transaction. The report shall set forth any facts or information which would otherwise have been submitted in a report on the transaction under subsection (a) or (e), as the case may be, but for the operation of paragraph (1) or (2).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 86–70, §6(c), June 25, 1959, 73 Stat. 142; Pub. L. 86–500, title V, §511(1), June 8, 1960, 74 Stat. 186; Pub. L. 86–624, §4(c), July 12, 1960, 74 Stat. 411; Pub. L. 92–145, title VII, §707(5), Oct. 27, 1971, 85 Stat. 412; Pub. L. 92–545, title VII, §709, Oct. 25, 1972, 86 Stat. 1154; Pub. L. 93–552, title VI, §610, Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–107, title VI, §607(5), (6), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–431, title VI, §614, Sept. 30, 1976, 90 Stat. 1367; Pub. L. 96–418, title VIII, §805, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 100–456, div. B, title XXVIII, §2803, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–510, div. A, title XIII, §1311(6), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 102–496, title IV, §403(a)(1), (2)(A), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, §1502(a)(23), div. D, title XLIII, §4321(b)(21), Feb. 10, 1996, 110 Stat. 505, 673; Pub. L. 105–261, div. B, title XXVIII, §2811, Oct. 17, 1998, 112 Stat. 2204.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 86–70, §6(c), June 25, 1959, 73 Stat. 142; Pub. L. 86–500, title V, §511(1), June 8, 1960, 74 Stat. 186; Pub. L. 86–624, §4(c), July 12, 1960, 74 Stat. 411; Pub. L. 92–145, title VII, §707(5), Oct. 27, 1971, 85 Stat. 412; Pub. L. 92–545, title VII, §709, Oct. 25, 1972, 86 Stat. 1154; Pub. L. 93–552, title VI, §610, Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–107, title VI, §607(5), (6), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–431, title VI, §614, Sept. 30, 1976, 90 Stat. 1367; Pub. L. 96–418, title VIII, §805, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 100–456, div. B, title XXVIII, §2803, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–510, div. A, title XIII, §1311(6), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 102–496, title IV, §403(a)(1), (2)(A), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, §1502(a)(23), div. D, title XLIII, §4321(b)(21), Feb. 10, 1996, 110 Stat. 505, 673; Pub. L. 105–261, div. B, title XXVIII, §2811, Oct. 17, 1998, 112 Stat. 2204; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 Historical and Revision Notes
 
@@ -106,6 +106,8 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Amendments
 
+1999—Subsec. (a). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
+
 1998—Subsecs. (a) to (f). Pub. L. 105–261, §2811(b), inserted subsec. headings.
 
 Subsec. (g). Pub. L. 105–261, §2811(a), added subsec. (g).
@@ -130,7 +132,7 @@ Subsec. (f). Pub. L. 102–496, §403(a)(1), added subsec. (f).
 
 1980—Subsecs. (a), (b), (e). Pub. L. 96–418 substituted “$100,000” for “$50,000” wherever appearing.
 
-1976—Subsec. (a). Pub. L. 94–431 provided that the report on the excess property owned by the United Statescontain a certification by the Secretary concerned that he has considered the feasibility of exchanging such excess property for property suitable for military purposes and has determined such excess property not suitable for exchange.
+1976—Subsec. (a). Pub. L. 94–431 provided that the report on the excess property owned by the United States contain a certification by the Secretary concerned that he has considered the feasibility of exchanging such excess property for property suitable for military purposes and has determined such excess property not suitable for exchange.
 
 1975—Subsec. (b). Pub. L. 94–107, §607(5), substituted requirement of annual reports for requirement of quarterly reports.
 

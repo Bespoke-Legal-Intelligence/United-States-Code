@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Jan. 30, 1913, ch. 21, §3 (“gratuitously or otherwise” and words after 8th comma), 37 Stat. 654.
 
-The words “may charge” are substituted for “it shall be lawful for the said corporation to demand and receive” to eliminate unnecessary words. The words “medical and surgical services” are substituted for “such care, sustenance, professional treatment, and other services” to eliminate unnecessary words. The words “to carry out the purposes of the corporation”are substituted for “be applied to the uses and benefits of the said corporation” for consistency.
+The words “may charge” are substituted for “it shall be lawful for the said corporation to demand and receive” to eliminate unnecessary words. The words “medical and surgical services” are substituted for “such care, sustenance, professional treatment, and other services” to eliminate unnecessary words. The words “to carry out the purposes of the corporation” are substituted for “be applied to the uses and benefits of the said corporation” for consistency.
 

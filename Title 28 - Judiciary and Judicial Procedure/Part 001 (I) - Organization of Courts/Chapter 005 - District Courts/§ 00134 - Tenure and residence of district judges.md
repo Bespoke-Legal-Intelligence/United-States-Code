@@ -48,7 +48,7 @@ Amendment by Pub. L. 92–208 effective 120 days after Dec. 18, 1971, see sectio
 
 #### Effective Date of 1959 Amendment
 
-Amendment by Pub. L. 86–3 effective on admission of Hawaii into the Union, see Effective Date of 1959 Amendment note set out under section 133 of this title. Admission of Hawaii into the Union was accomplished Aug. 21, 1959, upon issuance of Proc. No. 3309, Aug. 21, 1959, 25 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
+Amendment by Pub. L. 86–3 effective on admission of Hawaii into the Union, see Effective Date of 1959 Amendment note set out under section 133 of this title. Admission of Hawaii into the Union was accomplished Aug. 21, 1959, upon issuance of Proc. No. 3309, Aug. 21, 1959, 25 F.R. 6868, 73 Stat. c74, as required by sections 1and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
 
 #### Tenure and Salary Rights of Judges in Puerto Rico in Office on September 12, 1966
 
@@ -56,7 +56,7 @@ Section 4 of Pub. L. 89–571 provided that: “The amendments made by this sect
 
 #### Applicability of Orders Under 1954 Amendment
 
-Section 2(b)(13)(b) of act Feb. 10, 1954, provided: “Orders made by the judicial councils of the circuits underthe second sentence of subsection (c) of section 134 of Title 28, as amended by this section, determining that a specified district judge shall maintain his abode at or near a place or within an area which the council has theretofore designated for the abode of a district judge under the first sentence of such subsection, shall be applicable only to district judges appointed after the enactment of this act \[Feb. 10, 1954\].”
+Section 2(b)(13)(b) of act Feb. 10, 1954, provided: “Orders made by the judicial councils of the circuits under the second sentence of subsection (c) of section 134 of Title 28, as amended by this section, determining that a specified district judge shall maintain his abode at or near a place or within an area which the council has theretofore designated for the abode of a district judge under the first sentence of such subsection, shall be applicable only to district judges appointed after the enactment of this act \[Feb. 10, 1954\].”
 
 #### Cross References
 

@@ -245,6 +245,10 @@ Report to Speaker of House and Committee on Foreign Relations of the Senate.
 
 Promotion of civil and political rights.
 
+(f)
+
+Country reports on human rights practices.
+
 |  |  |
 | :--- | ---: |
 | 2151n–1, 2151<i>o</i>. | Repealed. |
@@ -961,6 +965,10 @@ Terms and conditions.
 Worker rights.
 
 (b)
+
+Environmental impact.
+
+(c)
 
 Public hearings.
 
@@ -2241,11 +2249,123 @@ In general.
 
 Operating expenses.
 
-#### Part XII—Enterprise for the Americas Initiative
+#### Part XII—Support for the Economic and Political Independence of the Countries of the South Caucasus and Central Asia
 
 |  |  |
 | :--- | ---: |
-| [2296\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20012%20%28XII%29%20-%20Enterprise%20for%20the%20Americas%20Initiative/%C2%A7%2002296%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93549%2C%20title%20VI%2C%20%C2%A7602%28b%29%2C%20Oct.%2028%2C%201992%2C%20106%20Stat.%203669.md) | Repealed. |
+| [2296\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20012%20%28XII%29%20-%20Support%20for%20the%20Economic%20and%20Political%20Independence%20of%20the%20Countries%20of%20the%20South%20Caucasus%20and%20Central%20Asia/%C2%A7%2002296%20-%20United%20States%20assistance%20to%20promote%20reconciliation%20and%20recovery%20from%20regional%20conflicts.md) | United States assistance to promote reconciliation and recovery from regional conflicts. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Purpose of assistance.
+
+(b)
+
+Authorization for assistance.
+
+(c)
+
+Activities supported.
+
+|  |  |
+| :--- | ---: |
+| [2296a.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20012%20%28XII%29%20-%20Support%20for%20the%20Economic%20and%20Political%20Independence%20of%20the%20Countries%20of%20the%20South%20Caucasus%20and%20Central%20Asia/%C2%A7%2002296a%20-%20Economic%20assistance.md) | Economic assistance. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Purpose of assistance.
+
+(b)
+
+Authorization for assistance.
+
+(c)
+
+Activities supported.
+
+|  |  |
+| :--- | ---: |
+| [2296b.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20012%20%28XII%29%20-%20Support%20for%20the%20Economic%20and%20Political%20Independence%20of%20the%20Countries%20of%20the%20South%20Caucasus%20and%20Central%20Asia/%C2%A7%2002296b%20-%20Development%20of%20infrastructure.md) | Development of infrastructure. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Purpose of programs.
+
+(b)
+
+Authorization for programs.
+
+(c)
+
+Activities supported.
+
+|  |  |
+| :--- | ---: |
+| [2296c.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20012%20%28XII%29%20-%20Support%20for%20the%20Economic%20and%20Political%20Independence%20of%20the%20Countries%20of%20the%20South%20Caucasus%20and%20Central%20Asia/%C2%A7%2002296c%20-%20Border%20control%20assistance.md) | Border control assistance. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Purpose of assistance.
+
+(b)
+
+Authorization for assistance.
+
+(c)
+
+Activities supported.
+
+|  |  |
+| :--- | ---: |
+| [2296d.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20012%20%28XII%29%20-%20Support%20for%20the%20Economic%20and%20Political%20Independence%20of%20the%20Countries%20of%20the%20South%20Caucasus%20and%20Central%20Asia/%C2%A7%2002296d%20-%20Strengthening%20democracy%2C%20tolerance%2C%20and%20the%20development%20of%20civil%20society.md) | Strengthening democracy, tolerance, and the development of civil society. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Purpose of assistance.
+
+(b)
+
+Authorization for assistance.
+
+(c)
+
+Activities supported.
+
+|  |  |
+| :--- | ---: |
+| [2296e.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20012%20%28XII%29%20-%20Support%20for%20the%20Economic%20and%20Political%20Independence%20of%20the%20Countries%20of%20the%20South%20Caucasus%20and%20Central%20Asia/%C2%A7%2002296e%20-%20Administrative%20authorities.md) | Administrative authorities. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Assistance through governments and nongovernmental organizations.
+
+(b)
+
+Use of economic support funds.
+
+(c)
+
+Terms and conditions.
+
+(d)
+
+Available authorities.
+
+|  |  |
+| :--- | ---: |
+| [2296f.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20012%20%28XII%29%20-%20Support%20for%20the%20Economic%20and%20Political%20Independence%20of%20the%20Countries%20of%20the%20South%20Caucasus%20and%20Central%20Asia/%C2%A7%2002296f%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2663,8 +2783,17 @@ Reimbursement of applicable appropriation, fund, or account.
 | :--- | ---: |
 | [2348b.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20006%20%28VI%29%20-%20Peacekeeping%20Operations/%C2%A7%2002348b%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93533%2C%20title%20I%2C%20%C2%A7116%28b%29%2C%20Dec.%2016%2C%201980%2C%2094%20Stat.%203140.md) | Repealed. |
 | [2348c.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20006%20%28VI%29%20-%20Peacekeeping%20Operations/%C2%A7%2002348c%20-%20Administrative%20authorities.md) | Administrative authorities. |
+| [2348d.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20006%20%28VI%29%20-%20Peacekeeping%20Operations/%C2%A7%2002348d%20-%20Data%20on%20costs%20incurred%20in%20support%20of%20United%20Nations%20peacekeeping%20operations.md) | Data on costs incurred in support of United Nations peacekeeping operations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+United States costs.
+
+(b)
+
+United Nations member costs.
 
 #### Part VII—Air Base Construction in Israel
 
@@ -3943,9 +4072,39 @@ Information relating to military assistance and military exports.
 
 Information relating to military imports.
 
+(d)
+
+Availability on Internet.
+
 |  |  |
 | :--- | ---: |
-| 2416 to 2419. | Repealed. |
+| [2416\.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2002416%20-%20Annual%20foreign%20military%20training%20report.md) | Annual foreign military training report. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Annual report.
+
+(b)
+
+Contents.
+
+(c)
+
+Form.
+
+(d)
+
+Availability on Internet.
+
+(e)
+
+Definition.
+
+|  |  |
+| :--- | ---: |
+| 2417 to 2419. | Repealed. |
 | [2420\.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2002420%20-%20Police%20training%20prohibition.md) | Police training prohibition. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -182,7 +182,7 @@ Pub. L. 105–277 generally amended section revising and restating provisions re
 
 1996—Subsec. (a)(1). Pub. L. 104–134 which directed substitution of “shall establish and publicize a program under which rewards may be paid” for “may pay a reward” in section 36(a)(1) of the State Department Authorities Act of 1956 was executed to subsec. (a)(1) of this section, section 36(a)(1) of the State Department Basic Authorities Act of 1956, to reflect the probable intent of Congress.
 
-1994—Subsec. (a). Pub. L. 103–236, §827, designated existing provisions as par. (1), redesignated former pars.\(1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
+1994—Subsec. (a). Pub. L. 103–236, §827, designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
 
 Pub. L. 103–236, §133(a)(1), struck out “and is primarily outside the territorial jurisdiction of the United States” after “United States property” in concluding provisions.
 

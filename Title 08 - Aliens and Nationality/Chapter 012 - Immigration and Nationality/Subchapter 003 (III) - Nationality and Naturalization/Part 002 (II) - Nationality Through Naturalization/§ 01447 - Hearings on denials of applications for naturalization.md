@@ -14,7 +14,7 @@ The Attorney General shall have the right to appear before any immigration offic
 
 #### (d) Subpena of witnesses
 
-The immigration officer shall, if the applicant requests it at the time of filing the request for the hearing, issue a subpena for the witnesses named by such applicant to appear upon the day set for the hearing, but in case such witnesses cannot be produced upon the hearing other witnesses may be summoned upon notice to the Attorney General, in such manner and at suchtime as the Attorney General may by regulation prescribe. Such subpenas may be enforced in the same manner as subpenas under section 1446(b) of this title may be enforced.
+The immigration officer shall, if the applicant requests it at the time of filing the request for the hearing, issue a subpena for the witnesses named by such applicant to appear upon the day set for the hearing, but in case such witnesses cannot be produced upon the hearing other witnesses may be summoned upon notice to the Attorney General, in such manner and at such time as the Attorney General may by regulation prescribe. Such subpenas may be enforced in the same manner as subpenas under section 1446(b) of this title may be enforced.
 
 #### (e) Change of name
 
@@ -50,7 +50,7 @@ Subsec. (b). Pub. L. 97–116, §15(d)(1), struck out “and the witnesses” af
 
 Subsec. (c). Pub. L. 97–116, §15(d)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which prescribed a waiting period of thirty days after the filing of a petition for naturalization for the holding of a final hearing and permitted waiver of such period by the Attorney General if he determined that a waiver was in the public interest.
 
-Subsec. (d). Pub. L. 97–116, §15(3), (4), redesignated subsec. (e) as (d) and struck out provision permitting the substitution of witnesses if after the petition is filed any of the verifying witnesses appear to be not competent, provided the petitioner acted in good faith in producing such witness. Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 97–116, §15(3), (4), redesignated subsec. (e) as (d) and struck out provision permittingthe substitution of witnesses if after the petition is filed any of the verifying witnesses appear to be not competent, provided the petitioner acted in good faith in producing such witness. Former subsec. (d) redesignated (c).
 
 Subsec. (e). Pub. L. 97–116, §15(d)(4), (5), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 

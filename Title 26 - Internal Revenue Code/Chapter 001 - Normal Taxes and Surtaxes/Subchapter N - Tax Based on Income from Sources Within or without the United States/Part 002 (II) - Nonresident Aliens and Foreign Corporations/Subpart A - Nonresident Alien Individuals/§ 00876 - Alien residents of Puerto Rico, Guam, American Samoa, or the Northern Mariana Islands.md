@@ -18,7 +18,7 @@ This subpart shall not apply to any alien individual who is a bona fide resident
 
 1986—Pub. L. 99–514, §1272(b), inserted “, Guam, American Samoa, or the Northern Mariana Islands” in section catchline.
 
-Subsec. (a). Pub. L. 99–514, §1272(b), amended subsec. (a) generally, substituting “General rule” for “No application to certain alien residents of Puerto Rico” in heading and inserting references to residents of Guam, American Samoa, and the Northern Mariana Islands in text.
+Subsec. (a). Pub. L. 99–514, §1272(b), amended subsec. (a) generally, substituting “General rule” for “No application to certain alien residents of Puerto Rico” inheading and inserting references to residents of Guam, American Samoa, and the Northern Mariana Islands in text.
 
 Subsec. (b). Pub. L. 99–514, §1272(b), amended subsec. (b) generally, inserting references to Guam, American Samoa, and the Northern Mariana Islands.
 

@@ -30,7 +30,7 @@ Until January 1, 1992, stock of any Regional Corporation organized pursuant to s
 
 In the case of any Native Corporation established pursuant to this chapter, income for purposes of any form of Federal, State, or local taxation shall not be deemed to include the value of—
 
-&emsp;(1) the receipt, acquisition, or use of any resource information or analysis (including the receipt of any right of access to such information or analysis) relating to lands or interests therein conveyed, selected but not conveyed, or available for selection pursuant to this chapter;
+&emsp;(1) the receipt, acquisition, or use of any resource information or analysis (including thereceipt of any right of access to such information or analysis) relating to lands or interests therein conveyed, selected but not conveyed, or available for selection pursuant to this chapter;
 
 &emsp;(2) the promise or performance by any person or by any Federal, State, or local government agency of any professional or technical services relating to the resources of lands or interests therein conveyed, selected but not conveyed, or available for selection pursuant to this chapter, including, but not limited to, services in connection with exploration on such lands for oil, gas, or other minerals; and
 

@@ -38,13 +38,13 @@
 
 &emsp;(C) in a case in which, in the judgment of the Secretary, a longer period of nursing home care is warranted.
 
-(4) A veteran who is furnished care by the Secretary in a hospital or domiciliary facility in Alaska or Hawaii may be furnished nursing home care at the expense of the United States under this subsection even if such hospital or domiciliary facility is not under the direct jurisdiction of the Secretary.
+(4) A veteran who is furnished care by the Secretary in a hospital or domiciliary facility inAlaska or Hawaii may be furnished nursing home care at the expense of the United States under this subsection even if such hospital or domiciliary facility is not under the direct jurisdiction of the Secretary.
 
 (b) No veteran may be transferred or admitted to any institution for nursing home care under this section, unless such institution is determined by the Secretary to meet such standards as the Secretary may prescribe. The standards prescribed and any report of inspection of institutions furnishing care to veterans under this section made by or for the Secretary shall, to the extent possible, be made available to all Federal, State, and local agencies charged with the responsibility of licensing or otherwise regulating or inspecting such institutions.
 
 (c) In applying the provisions of section 2(b)(1) of the Service Contract Act of 1965 (41 U.S.C. 351(b)(1)) with respect to any contract entered into under this section to provide nursing home care of veterans, the payment of wages not less than those specified in section 6(b) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(b)) shall be deemed to constitute compliance with such provisions.
 
-(d)(1) Subject to subsection (b) of this section, the Secretary may authorize for any veteran requiring nursing home care for a service-connected disability direct admission for such care at the expense of the United States to any non-Department nursing home. The Secretary may also authorize a direct admission to such a nursing home for nursing home care for any veteran who has been discharged from a hospital under the direct jurisdiction of the Secretary and whois currently receiving medical services as part of home health services from the Department.
+(d)(1) Subject to subsection (b) of this section, the Secretary may authorize for any veteran requiring nursing home care for a service-connected disability direct admission for such care at the expense of the United States to any non-Department nursing home. The Secretary may also authorize a direct admission to such a nursing home for nursing home care for any veteran who has been discharged from a hospital under the direct jurisdiction of the Secretary and who is currently receiving medical services as part of home health services from the Department.
 
 (2) Direct admission authorized by paragraph (1) of this subsection may be authorized upon determination of need therefor—
 
@@ -60,23 +60,25 @@
 
 (2) For the purposes of this section, the term “non-Department nursing home” means a public or private institution not under the direct jurisdiction of the Secretary which furnishes nursing home care.
 
-(f)(1)(A) The Secretary is authorized to furnish adult day health care as provided for in this subsection. For the purpose only of authorizing the furnishing of such care and specifying the terms and conditions under which it may be furnished to veterans needing such care—
-
-&emsp;(i) references to “nursing home care” in subsections (a) through (d) of this section shall be deemed to be references to “adult day health care”; and
-
-&emsp;(ii) a veteran who is eligible for medical services under paragraph (1), (2), or (3) of section 1710(a) of this title shall be deemed to be a veteran described in subsection (a)(1) of this section.
+(f)(1)(A) The Secretary may furnish adult day health care services to a veteran enrolled under section 1705(a) of this title who would otherwise require nursing home care.
 
 (B) The Secretary may provide in-kind assistance (through the services of Department employees and the sharing of other Department resources) to a facility furnishing care to veterans under subparagraph (A) of this paragraph. Any such in-kind assistance shall be provided under a contract between the Secretary and the facility concerned. The Secretary may provide such assistance only for use solely in the furnishing of adult day health care and only if, under such contract, the Department receives reimbursement for the full cost of such assistance, including the cost of services and supplies and normal depreciation and amortization of equipment. Such reimbursement may be made by reduction in the charges to the United States or by payment to the United States. Any funds received through such reimbursement shall be credited to funds allotted to the Department facility that provided the assistance.
 
 (2) The Secretary may conduct, at facilities over which the Secretary has direct jurisdiction, programs for the furnishing of adult day health care to veterans who are eligible for such care under paragraph (1) of this subsection, except that necessary travel and incidental expenses (or transportation in lieu thereof) may be furnished under such a program only under the terms and conditions set forth in section 111 of this title. The furnishing of care under any such program shall be subject to the limitations that are applicable to the duration of adult day health care furnished under paragraph (1) of this subsection.
 
-(Added Pub. L. 88–450, §2(a), Aug. 19, 1964, 78 Stat. 500, §620; amended Pub. L. 90–429, July 26, 1968, 82 Stat. 446; Pub. L. 90–612, §§1, 3, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 91–101, Oct. 30, 1969, 83 Stat. 167; Pub. L. 93–82, title I, §104, Aug. 2, 1973, 87 Stat. 182; Pub. L. 94–581, title I, §106, title II, §§202(h), 210(a)(7), Oct. 21, 1976, 90 Stat. 2847, 2856, 2863; Pub. L. 97–295, §4(19), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 98–160, title I, §103(a)(1), (2), Nov. 21, 1983, 97 Stat. 995; Pub. L. 99–166, title I, §108(a)–(c), Dec. 3, 1985, 99 Stat. 946, 947; Pub. L. 99–272, title XIX, §19011(d)(5), Apr. 7, 1986, 100 Stat. 379; Pub. L. 100–322, title I, §§103(b), 111(a), May 20, 1988, 102 Stat. 493, 499; renumbered §1720 and amended Pub. L. 102–83, §§4(a)(2)(A)(ii), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(8), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–114, title IV, §402(c), Nov. 21, 1997, 111 Stat. 2294.)
+(Added Pub. L. 88–450, §2(a), Aug. 19, 1964, 78 Stat. 500, §620; amended Pub. L. 90–429, July 26, 1968, 82 Stat. 446; Pub. L. 90–612, §§1, 3, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 91–101, Oct. 30, 1969, 83 Stat. 167; Pub. L. 93–82, title I, §104, Aug. 2, 1973, 87 Stat. 182; Pub. L. 94–581, title I, §106, title II, §§202(h), 210(a)(7), Oct. 21, 1976, 90 Stat. 2847, 2856, 2863; Pub. L. 97–295, §4(19), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 98–160, title I, §103(a)(1), (2), Nov. 21, 1983, 97 Stat. 995; Pub. L. 99–166, title I, §108(a)–(c), Dec. 3, 1985, 99 Stat. 946, 947; Pub. L. 99–272, title XIX, §19011(d)(5), Apr. 7, 1986, 100 Stat. 379; Pub. L. 100–322, title I, §§103(b), 111(a), May 20, 1988, 102 Stat. 493, 499; renumbered §1720 and amended Pub. L. 102–83, §§4(a)(2)(A)(ii), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(8), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–114, title IV, §402(c), Nov. 21, 1997, 111 Stat. 2294; Pub. L. 106–117, title I, §101(d), Nov. 30, 1999, 113 Stat. 1549.)
 
 #### Prior Provisions
 
 Prior section 1720 was renumbered section 3520 of this title.
 
 #### Amendments
+
+1999—Subsec. (f)(1)(A). Pub. L. 106–117 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The Secretary is authorized to furnish adult day health care as provided for in this subsection. For the purpose only of authorizing the furnishing of such care and specifying the terms and conditions under which it may be furnished to veterans needing such care—
+
+&emsp;“(i) references to ‘nursing home care’ in subsections (a) through (d) of this section shall be deemed to be references to ‘adult day health care’; and
+
+&emsp;“(ii) a veteran who is eligible for medical services under paragraph (1), (2), or (3) of section 1710(a) of this title shall be deemed to be a veteran described in subsection (a)(1) of this section.”
 
 1997—Subsec. (a)(1)(A)(i). Pub. L. 105–114 substituted “care” for “hospital care, nursing home care, or domiciliary care”.
 
@@ -192,5 +194,5 @@ Section 103(b), (c) of Pub. L. 98–160, which provided for a study and report, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1703, 1724, 1741, 1742, 2303, 8105, 8134 of this title; title 42 section 300dd–21.
+This section is referred to in sections 1703, 1710B, 1724, 1741, 1742, 2303, 8105, 8134 of this title; title 42 section 300dd–21.
 

@@ -6,7 +6,7 @@ The Institute shall enter into agreements with historically Black colleges and u
 
 #### (b) Postbaccalaureate internships
 
-The Institute shall enter into agreements with institutions of higher education described in the first sentence of subsection (a) of this section toconduct internships for students who have completed study for a baccalaureate degree. The internship program authorized by this subsection shall—
+The Institute shall enter into agreements with institutions of higher education described in the first sentence of subsection (a) of this section to conduct internships for students who have completed study for a baccalaureate degree. The internship program authorized by this subsection shall—
 
 &emsp;(1) assist the students to prepare for a master's degree program;
 
@@ -46,7 +46,7 @@ The Institute shall enter into agreements with institutions of higher education 
 
 &emsp;&emsp;(C) promote policies in each department and agency participating in the Committee that are designed to carry out the objectives of this part.
 
-(Pub. L. 89–329, title VI, §625, formerly §624, as added Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 735; renumbered §625, and amended Pub. L. 105–244, title VI, §603(b)(1), (d), title IX, §901(d), Oct. 7, 1998, 112 Stat. 1783, 1784, 1828; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(j), Oct. 21, 1998, 112 Stat. 2681–788.)
+(Pub. L. 89–329, title VI, §625, formerly §624, as added Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 735; renumbered §625, and amendedPub. L. 105–244, title VI, §603(b)(1), (d), title IX, §901(d), Oct. 7, 1998, 112 Stat. 1783, 1784, 1828; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(j), Oct. 21, 1998, 112 Stat. 2681–788.)
 
 #### References in Text
 
@@ -66,7 +66,7 @@ Pub. L. 105–244, §901(d), substituted “Tribally Controlled College or Unive
 
 #### Effective Date of 1998 Amendments
 
-Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of Title 22.
+Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of Title 22.
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 

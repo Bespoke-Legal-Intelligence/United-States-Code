@@ -46,7 +46,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Transfers pursuant to property settlement agreement.—The amendments made by this section shall not apply to any transfer in trust made after March 1, 1986, pursuant to a binding property settlement agreement entered into on or before March 1, 1986, which required the taxpayer to establish a grantor trust and for the transfer of a specified sum of money or property to the trust by the taxpayer. This paragraph shall apply only to the extent of the amount required to be transferred under the agreement described in the preceding sentence.”
+Transfers pursuant to property settlement agreement.—The amendments made by this section shall not apply to any transfer in trust made after March 1, 1986, pursuant to a binding property settlement agreement entered into on or before March 1,1986, which required the taxpayer to establish a grantor trust and for the transfer of a specified sum of money or property to the trust by the taxpayer. This paragraph shall apply only to the extent of the amount required to be transferred under the agreement described in the preceding sentence.”
 
 #### Effective Date of 1969 Amendment
 

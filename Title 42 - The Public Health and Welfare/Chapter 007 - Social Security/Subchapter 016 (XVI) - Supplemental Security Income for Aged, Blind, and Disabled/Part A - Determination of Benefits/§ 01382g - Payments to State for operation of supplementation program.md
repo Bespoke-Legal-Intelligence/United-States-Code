@@ -32,13 +32,13 @@ The Commissioner of Social Security shall not find that a State has failed to me
 
 (1) For any particular month after March 1983, a State which is not treated as meeting the requirements imposed by paragraph (4) of subsection (a) of this section by reason of subsection (b) of this section shall be treated as meeting such requirements if and only if—
 
-&emsp;(A) the combined level of its supplementary payments (to recipients of the type involved) and the amounts payable (to or on behalf of such recipients) under section 1382(b) of thistitle and section 211(a)(1)(A) of Public Law 93–66, for that particular month,
+&emsp;(A) the combined level of its supplementary payments (to recipients of the type involved) and the amounts payable (to or on behalf of such recipients) under section 1382(b) of this title and section 211(a)(1)(A) of Public Law 93–66, for that particular month,
 
 > is not less than—
 
 &emsp;(B) the combined level of its supplementary payments (to recipients of the type involved) and the amounts payable (to or on behalf of such recipients) under section 1382(b) of this title and section 211(a)(1)(A) of Public Law 93–66, for March 1983, increased by the amount of all cost-of-living adjustments under section 1382f of this title (and any other benefit increases under this subchapter) which have occurred after March 1983 and before that particular month.
 
-(2) In determining the amount of any increase in the combined level involved under paragraph (1)(B) of this subsection, any portion of such amount which would otherwise be attributable to the increase under section 1382f(c) of this title shall be deemed instead to be equal to the amount of the cost-of-living adjustment which would have occurred in July 1983 (without regard to the 3-percent limitation contained in section 415(i)(1)(B) of this title) if section 111 of the Social Security Amendments of 1983 had not been enacted.
+(2) In determining the amount of any increase in the combined level involved under paragraph (1)(B) of this subsection, any portion of suchamount which would otherwise be attributable to the increase under section 1382f(c) of this title shall be deemed instead to be equal to the amount of the cost-of-living adjustment which would have occurred in July 1983 (without regard to the 3-percent limitation contained in section 415(i)(1)(B) of this title) if section 111 of the Social Security Amendments of 1983 had not been enacted.
 
 #### (f) Passthrough relating to optional State supplementation
 
@@ -108,7 +108,7 @@ Pub. L. 97–248 added subsec. (c) relating to conditions under which a State ma
 
 Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
-Section 209(b) of Pub. L. 103–296 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to increases in the level of supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] whether occurring before, on, or after the date of the enactment of this Act \[Aug. 15, 1994\].”
+Section 209(b) of Pub. L. 103–296 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to increases in the level of supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] whether occurring before, on, or after the date of the enactment of this Act \[Aug. 15, 1994\].”
 
 #### Effective Date of 1987 Amendment
 

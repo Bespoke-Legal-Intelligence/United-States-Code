@@ -2,7 +2,7 @@
 
 #### (a) Course alterations to starboard; port side passage
 
-Unless otherwise agreed, when two power-driven vessels are meeting on reciprocal or nearly reciprocal courses so as to involve risk of collision each shall alter her course to starboard sothat each shall pass on the port side of the other.
+Unless otherwise agreed, when two power-driven vessels are meeting on reciprocal or nearly reciprocal courses so as to involve risk of collision each shall alter her course to starboard so that each shall pass on the port side of the other.
 
 #### (b) Existence of head-on situation
 

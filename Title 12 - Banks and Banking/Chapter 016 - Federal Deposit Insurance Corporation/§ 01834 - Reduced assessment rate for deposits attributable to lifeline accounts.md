@@ -56,7 +56,7 @@ The provisions of this section shall not take effect until appropriations are sp
 
 #### Amendment of Subsection (a)(1)
 
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(16), Sept. 30, 1996, 110 Stat. 3009–487,</i><i>3009–495, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (a)(1) of this section is amended by striking “section 1817(b)(2)(H) of this title” and inserting “section 1817(b)(2)(G) of this title”.</i>
+<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(16), Sept. 30, 1996, 110 Stat. 3009–487, 3009–495, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (a)(1) of this section is amended by striking “section 1817(b)(2)(H) of this title” and inserting “section 1817(b)(2)(G) of this title”.</i>
 
 #### Codification
 

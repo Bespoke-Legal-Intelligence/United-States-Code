@@ -32,7 +32,7 @@ The programs under this part shall be conducted on a year-round basis. Services 
 
 #### (A) Information and referrals
 
-&emsp;&emsp;Each service delivery area shall ensure that each participant or applicant whomeets the minimum income eligibility criteria shall be provided—
+&emsp;&emsp;Each service delivery area shall ensure that each participant or applicant who meets the minimum income eligibility criteria shall be provided—
 
 &emsp;&emsp;&emsp;(i) information on the full array of applicable or appropriate services that are available through the service delivery area or other service providers, including those receiving funds under this chapter; and
 
@@ -128,7 +128,7 @@ Subject to the limitations contained in subsection (d) of this section, services
 
 #### (B) Additional services
 
-&emsp;&emsp;Work experience, job search assistance, job search skills training, and job club activitiesprovided under this part shall be accompanied by additional services designed to increase the basic education or occupational skills of a participant. The additional services may be provided, concurrently or sequentially, under other education and training programs, including the Job Corps.
+&emsp;&emsp;Work experience, job search assistance, job search skills training, and job club activities provided under this part shall be accompanied by additional services designed to increase the basic education or occupational skills of a participant. The additional services may be provided, concurrently or sequentially, under other education and training programs, including the Job Corps.
 
 #### (C) On-the-job training
 

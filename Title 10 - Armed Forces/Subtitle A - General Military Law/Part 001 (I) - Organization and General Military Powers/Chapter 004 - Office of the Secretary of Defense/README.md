@@ -4,9 +4,9 @@
 | :--- | ---: |
 | [131\.](%C2%A7%2000131%20-%20Office%20of%20the%20Secretary%20of%20Defense.md) | Office of the Secretary of Defense. |
 | [132\.](%C2%A7%2000132%20-%20Deputy%20Secretary%20of%20Defense.md) | Deputy Secretary of Defense. |
-| [133\.](%C2%A7%2000133%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%20and%20Technology.md) | Under Secretary of Defense for Acquisition and Technology. |
+| [133\.](%C2%A7%2000133%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%2C%20Technology%2C%20and%20Logistics.md) | Under Secretary of Defense for Acquisition, Technology, and Logistics. |
 | [133a.](%C2%A7%2000133a%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Acquisition%20and%20Technology.md) | Deputy Under Secretary of Defense for Acquisition and Technology. |
-| \[133b. | Renumbered.\] |
+| [133b.](%C2%A7%2000133b%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Logistics%20and%20Materiel%20Readiness.md) | Deputy Under Secretary of Defense for Logistics and Materiel Readiness. |
 | [134\.](%C2%A7%2000134%20-%20Under%20Secretary%20of%20Defense%20for%20Policy.md) | Under Secretary of Defense for Policy. |
 | [134a.](%C2%A7%2000134a%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Policy.md) | Deputy Under Secretary of Defense for Policy. |
 | [134b.](%C2%A7%2000134b%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Technology%20Security%20Policy.md) | Deputy Under Secretary of Defense for Technology Security Policy. |
@@ -24,6 +24,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title IX, §911(d)(3), Oct. 5, 1999, 113 Stat. 719, added items 133 and 133b and struck out former item 133 “Under Secretary of Defense for Acquisition and Technology”.
 
 1998—Pub. L. 105–261, div. A, title XV, §1521(b)(2), Oct. 17, 1998, 112 Stat. 2179, added item 134b.
 
@@ -82,9 +84,9 @@ This chapter is referred to in title 41 section 421.
 
 - [&sect; 00131 - Office of the Secretary of Defense](%C2%A7%2000131%20-%20Office%20of%20the%20Secretary%20of%20Defense.md)
 - [&sect; 00132 - Deputy Secretary of Defense](%C2%A7%2000132%20-%20Deputy%20Secretary%20of%20Defense.md)
-- [&sect; 00133 - Under Secretary of Defense for Acquisition and Technology](%C2%A7%2000133%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%20and%20Technology.md)
+- [&sect; 00133 - Under Secretary of Defense for Acquisition, Technology, and Logistics](%C2%A7%2000133%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%2C%20Technology%2C%20and%20Logistics.md)
 - [&sect; 00133a - Deputy Under Secretary of Defense for Acquisition and Technology](%C2%A7%2000133a%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Acquisition%20and%20Technology.md)
-- [&sect; 00133b - Renumbered &sect;118](%C2%A7%2000133b%20-%20Renumbered%20%C2%A7118.md)
+- [&sect; 00133b - Deputy Under Secretary of Defense for Logistics and Materiel Readiness](%C2%A7%2000133b%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Logistics%20and%20Materiel%20Readiness.md)
 - [&sect; 00134 - Under Secretary of Defense for Policy](%C2%A7%2000134%20-%20Under%20Secretary%20of%20Defense%20for%20Policy.md)
 - [&sect; 00134a - Deputy Under Secretary of Defense for Policy](%C2%A7%2000134a%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Policy.md)
 - [&sect; 00134b - Deputy Under Secretary of Defense for Technology Security Policy](%C2%A7%2000134b%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Technology%20Security%20Policy.md)

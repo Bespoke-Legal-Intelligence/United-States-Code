@@ -30,7 +30,7 @@ The programs described in subsection (b) of this section should, to the extent f
 
 #### (d) Restrictions
 
-Assistance authorized by subsection (a) of this section may not be provided to any independent state of the former Soviet Union for any yearunless the President certifies to Congress for that year that the proposed recipient state is committed to each of the following:
+Assistance authorized by subsection (a) of this section may not be provided to any independent state of the former Soviet Union for any year unless the President certifies to Congress for that year that the proposed recipient state is committed to each of the following:
 
 &emsp;(1) Making substantial investment of its resources for dismantling or destroying its weapons of mass destruction, if such state has an obligation under a treaty or other agreement to destroy or dismantle any such weapons.
 
@@ -56,13 +56,89 @@ By the authority vested in me by the Constitution and the laws of the United Sta
 
 &emsp;1\. to the Secretary of State the authority and duty vested in the President under section 1203(d) of the Cooperative Threat Reduction Act of 1993, Title XII of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160) \[22 U.S.C. 5952(d)\];
 
-&emsp;2\. to the Secretary of Defense the authorities and duties vested in the President under sections 1203(a), 1204, 1206, and 1207 of Public Law 103–160 \[22 U.S.C. 5952(a), 5953, 5955, 5956\].
+&emsp;2\. to the Secretary of Defense the authorities and duties vested in the President under sections 1203(a),1204, 1206, and 1207 of Public Law 103–160 \[22 U.S.C. 5952(a), 5953, 5955, 5956\].
 
 The Secretary of Defense shall not exercise authority delegated by number 2 hereof with respect to any former Soviet republic unless the Secretary of State has exercised his authority and performed the duty delegated by number 1 hereof, as applicable, with respect to that former Soviet republic. The Secretary of Defense shall not obligate funds in exercise of authority delegated by number 2 hereof unless the Director of the Office of Management and Budget has made the determination that expenditures are to be counted as discretionary spending in the national defense function (050), as applicable to the funds to be transferred.
 
 The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Specification of Cooperative Threat Reduction Programs and Funds for Purposes of Pub. L. 106–65
+
+Pub. L. 106–65, div. A, title XIII, §1301(a), (b), Oct. 5, 1999, 113 Stat. 792, provided that:
+
+“(a)
+
+Specification of CTR Programs.—For purposes of section 301 \[113 Stat. 556\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note).
+
+“(b)
+
+Fiscal Year 2000
+
+Cooperative Threat Reduction Funds Defined.—As used in this title \[enacting provisions set out as notes under this section and section 5955 of this title\], the term ‘fiscal year 2000 Cooperative Threat Reduction funds’ means the funds appropriated pursuant to the authorization of appropriations in section 301 for Cooperative Threat Reduction programs.”
+
+#### Limitation on Use of Funds for Certain Purposes
+
+Pub. L. 106–65, div. A, title XIII, §§1303–1305, Oct. 5, 1999, 113 Stat. 793, 794, provided that:
+
+#### “SEC. 1303. PROHIBITION ON USE OF FUNDS FOR SPECIFIED PURPOSES
+
+“(a)
+
+In General.—No fiscal year 2000 Cooperative Threat Reduction funds, and no funds appropriated for Cooperative Threat Reduction programs after the date of the enactment of this Act \[Oct. 5, 1999\], may be obligated or expended for any of the following purposes:
+
+&emsp;“(1) Conducting with Russia any peacekeeping exercise or other peacekeeping-related activity.
+
+&emsp;“(2) Provision of housing.
+
+&emsp;“(3) Provision of assistance to promote environmental restoration.
+
+&emsp;“(4) Provision of assistance to promote job retraining.
+
+“(b)
+
+Limitation With Respect to Defense Conversion Assistance.—None of the funds appropriated pursuant to the authorization of appropriations in section 301 of this Act \[113 Stat. 556\], and no funds appropriated to the Department of Defense in any other Act enacted after the date of the enactment of this Act \[Oct. 5, 1999\], may be obligated or expended for the provision of assistance to Russia or any other state of the former Soviet Union to promote defense conversion.
+
+“(c)
+
+Limitation With Respect to Conventional Weapons.—No fiscal year 2000 Cooperative Threat Reduction funds may be obligated or expended for elimination of conventional weapons or the delivery vehicles primarily intended to deliver such weapons.
+
+#### “SEC. 1304. LIMITATIONS ON USE OF FUNDS FOR FISSILE MATERIAL STORAGE FACILITY
+
+“(a)
+
+Limitations on Use of Fiscal Year 2000
+
+Funds.—No fiscal year 2000 Cooperative Threat Reduction funds may be used—
+
+&emsp;“(1) for construction of a second wing for the storage facility for Russian fissile material referred to in section 1302(a)(6) \[113 Stat. 793\]; or
+
+&emsp;“(2) for design or planning with respect to such facility until 15 days after the date that the Secretary of Defense submits to Congress notification that Russia and the United States have signed a verifiable written transparency agreement that ensures that material stored at the facility is of weapons origin.
+
+“(b)
+
+Limitation on Construction.—No funds authorized to be appropriated for Cooperative Threat Reduction programs may be used for construction of the storage facility referred to in subsection (a) until the Secretary of Defense submits to Congress the following:
+
+&emsp;“(1) A certification that additional capacity is necessary at such facility for storage of Russian weapons-origin fissile material.
+
+&emsp;“(2) A detailed cost estimate for a second wing for the facility.
+
+&emsp;“(3) A certification that Russia and the United States have signed a verifiable written transparency agreement that ensures that material stored at the facility is of weapons origin.
+
+#### “SEC. 1305. LIMITATION ON USE OF FUNDS FOR CHEMICAL WEAPONS DESTRUCTION
+
+“No fiscal year 2000 Cooperative Threat Reduction funds, and no funds appropriated for Cooperative Threat Reduction programs after the date of the enactment of this Act \[Oct. 5, 1999\], may be obligated or expended for planning, design, or construction of a chemical weapons destruction facility in Russia.”
+
+Similar provisions were contained in the following prior authorization acts:
+
+Pub. L. 105–261, div. A, title XIII, §1303, Oct. 17, 1998, 112 Stat. 2162.
+
+Pub. L. 105–85, div. A, title XIV, §§1403, 1405, 1407, Nov. 18, 1997, 111 Stat. 1960, 1962.
+
+Pub. L. 104–201, div. A, title XV, §1503, Sept. 23, 1996, 110 Stat. 2732.
+
+Pub. L. 104–106, div. A, title XII, §1203, Feb. 10, 1996, 110 Stat. 470.
 
 #### Definition of Cooperative Threat Reduction Programs for Purposes of Pub. L. 105–261
 
@@ -98,6 +174,14 @@ Definitions.—In this section:
 
 &emsp;“(2) The term ‘Wyoming Memorandum of Understanding’ means the Memorandum of Understanding Between the Government of the United States of America and the Government of the Union of Soviet Socialist Republics Regarding a Bilateral Verification Experiment and Data Exchange Related to Prohibition on Chemical Weapons, signed at Jackson Hole, Wyoming, on September 23, 1989.”
 
+\[Memorandum of President of the United States, July 16, 1999, 64 F.R. 40503, delegated to Secretary of Defense authority of President under section 1304(b)(2) of Public Law 105–261, set out above.\]
+
+Similar provisions were contained in the following prior authorization acts:
+
+Pub. L. 105–85, div. A, title XIV, §1406, Nov. 18, 1997, 111 Stat. 1961.
+
+Pub. L. 104–106, div. A, title XII, §1209, Feb. 10, 1996, 110 Stat. 472.
+
 #### Requirement To Submit Summary of Amounts Requested by Project Category
 
 Pub. L. 105–261, div. A, title XIII, §1307, Oct. 17, 1998, 112 Stat. 2165, provided that:
@@ -112,7 +196,7 @@ Summary Required.—The Secretary of Defense shall submit to Congress as part of
 
 “(b)
 
-Description of Purpose and Intent.—The descriptive summary required under subsection (a) shallinclude a narrative description of each program and project category under each Cooperative Threat Reduction program element that explains the purpose and intent of the funds requested.”
+Description of Purpose and Intent.—The descriptive summary required under subsection (a) shall include a narrative description of each program and project category under each Cooperative Threat Reduction program element that explains the purpose and intent of the funds requested.”
 
 #### Authority To Conduct Program Relating to Fissile Materials
 
@@ -136,7 +220,7 @@ Semi-Annual Reports on Obligation of Funds.—(1) Not later than 30 days after t
 
 &emsp;“(D) the projected involvement (if any) of any department or agency of the United States (in addition to the Department of Energy) and of the private sector of the United States in the activities and forms of assistance for which the Secretary of Energy has obligated funds referred to in subparagraph (A).”
 
-#### Cooperative Threat Reduction Programs Defined
+#### Definition of Cooperative Threat Reduction Programs for Purposes of Pub. L. 103–337
 
 Pub. L. 103–337, div. A, title XII, §1201, Oct. 5, 1994, 108 Stat. 2882, provided that: “For purposes of section 301 \[108 Stat. 2706\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs described in section 1203(b) of the Cooperative Threat Reduction Act of 1993 (title XII of Public Law 103–160; 107 Stat. 1778; 22 U.S.C. 5952(b)).”
 
@@ -178,13 +262,13 @@ Certification of Russia's Commitment to Halt Chemical Separation of Weapon-Grade
 
 “(c)
 
-Sense of Congress on Plutonium Policy.—It is the sense of Congress that a key objective of the United States with respect to the nonproliferation of nuclear weapons should be to obtain a clear and unequivocal commitment from the Government of Russia that it will (1) cease all production and separation of weapon-grade plutonium, and (2) halt chemical separation of plutonium produced in civil nuclear power reactors.
+Sense of Congress on Plutonium Policy.—It is the sense of Congress that a key objective of the UnitedStates with respect to the nonproliferation of nuclear weapons should be to obtain a clear and unequivocal commitment from the Government of Russia that it will (1) cease all production and separation of weapon-grade plutonium, and (2) halt chemical separation of plutonium produced in civil nuclear power reactors.
 
 “(d)
 
 Report.—Not later than June 1, 1994, the President shall submit to Congress a report on the status of efforts by the United States to secure the commitments and achieve the objective described in subsections (b) and (c). The President shall include in the report a discussion of the status of joint efforts by the United States and Russia to replace any remaining Russian plutonium production reactors with alternative power sources or to convert such reactors to operation with alternative fuels that would permit their operation without generating weapon-grade plutonium.”
 
-\[Memorandum of President of the United States, Mar. 3, 1994, 59 F.R. 14070, delegated to Secretary of State authority and duty of President under section 1612(b) and (d) of Public Law 103–160 set out above.\]
+\[Memorandum of President of the United States, Mar. 10, 1994, 59 F.R. 14079, delegated to Secretary of State authority and duty of President under section 1612(b) and (d) of Public Law 103–160 set out above.\]
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@
 
 (2) For any school for which no payment under this chapter was made from Bureau funds in the preceding academic year, full payment of the amount computed for the first academic year of eligibility under this chapter shall be made not later than December 1 of the academic year.
 
-(3) With regard to funds for grantees that become available for obligation on October 1 of thefiscal year for which such funds are appropriated, the Secretary shall make payments to grantees not later than December 1 of the fiscal year.
+(3) With regard to funds for grantees that become available for obligation on October 1 of the fiscal year for which such funds are appropriated, the Secretary shall make payments to grantees not later than December 1 of the fiscal year.
 
 (4) The provisions of chapter 39 of title 31 shall apply to the payments required to be made by paragraphs (1), (2), and (3).
 

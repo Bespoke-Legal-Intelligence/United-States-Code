@@ -114,7 +114,7 @@
 
 #### (B) Confidential or privileged material
 
-&emsp;&emsp;The confidential or privileged status accorded to any documents, comments, or information shall be preserved in any actionunder this section. Notwithstanding the preceding sentence, the court may examine, in camera, the confidential or privileged material, and may disclose such material under such terms and conditions as it may order.
+&emsp;&emsp;The confidential or privileged status accorded to any documents, comments, or information shall be preserved in any action under this section. Notwithstanding the preceding sentence, the court may examine, in camera, the confidential or privileged material, and may disclose such material under such terms and conditions as it may order.
 
 #### (3) Effect of decisions by NAFTA or United States-Canada binational panels
 
@@ -270,7 +270,7 @@ For purposes of this section—
 
 #### (B) Other constitutional review
 
-&emsp;&emsp;Review is available under subsection (a) of this section with respect to a determination solely concerning a constitutional issue\(other than an issue to which subparagraph (A) applies) arising under any law of the United States as enacted or applied. An action for review under this subparagraph shall be assigned to a 3-judge panel of the United States Court of International Trade.
+&emsp;&emsp;Review is available under subsection (a) of this section with respect to a determination solely concerning a constitutional issue (other than an issue to which subparagraph (A) applies) arising under any law of the United States as enacted or applied. An action for review under this subparagraph shall be assigned to a 3-judge panel of the United States Court of International Trade.
 
 #### (C) Commencement of review
 
@@ -292,7 +292,7 @@ For purposes of this section—
 
 #### (ii) Subparagraph (B) actions
 
-&emsp;&emsp;&emsp;No claim shall be heard, and no temporary restraining order or temporary or permanent injunction shall be issued, under an action commenced under subparagraph (B), unless the party seeking review first files an undertaking with adequate security in an amount to be fixed by the court sufficient to recompense parties affected for any loss, expense, or damage caused by the improvident or erroneous issuance of such order or injunction. If a court upholds the constitutionality of the determination in question in such action, the court shall award to a prevailing party fees and expenses, in addition to any costs incurred by that party, unless the court finds that the position of the other party was substantially justified or that special circumstances make an award unjust.
+&emsp;&emsp;&emsp;No claim shall be heard, and no temporary restraining order or temporary orpermanent injunction shall be issued, under an action commenced under subparagraph (B), unless the party seeking review first files an undertaking with adequate security in an amount to be fixed by the court sufficient to recompense parties affected for any loss, expense, or damage caused by the improvident or erroneous issuance of such order or injunction. If a court upholds the constitutionality of the determination in question in such action, the court shall award to a prevailing party fees and expenses, in addition to any costs incurred by that party, unless the court finds that the position of the other party was substantially justified or that special circumstances make an award unjust.
 
 #### (G) Panel record
 
@@ -442,7 +442,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(III) an interested party that was a party to the proceeding in connection with which panel review was requested, but only if the time for filing notices of appearance in the panel review has not expired.
 
-(June 17, 1930, ch. 497, title IV, §516A, as added Pub. L. 96–39, title X, §1001(a), July 26, 1979, 93 Stat. 300; amended Pub. L. 96–417, title VI, §§601(7), 608, Oct. 10, 1980, 94 Stat. 1744, 1745; Pub. L. 96–542, §2, Dec. 17, 1980, 94 Stat. 3210; Pub. L. 97–164, title I, §163(a)(2), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–573, title VI, §623(a), Oct. 30, 1984, 98 Stat. 3040; Pub. L. 99–514, title XVIII, §1888(6), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 100–449, title IV, §401, Sept. 28, 1988, 102 Stat. 1878; Pub. L. 101–382, title I, §134(a)(3), Aug. 20, 1990, 104 Stat. 649; Pub. L. 103–182, title IV, §411, Dec. 8, 1993, 107 Stat. 2140; Pub. L. 103–465, title I, §129(e), title II, §§220(b), 270(a)(1)(N), 271(b), Dec. 8, 1994, 108 Stat. 4838, 4864, 4917, 4921; Pub. L. 104–295, §§20(a)(1), 21(c)(3), 22, Oct. 11, 1996, 110 Stat. 3526, 3530, 3531.)
+(June 17, 1930, ch. 497, title IV, §516A, as added Pub. L. 96–39, title X, §1001(a), July 26, 1979, 93 Stat. 300; amended Pub. L. 96–417, title VI, §§601(7), 608, Oct. 10, 1980, 94 Stat. 1744, 1745; Pub. L. 96–542, §2, Dec. 17, 1980, 94 Stat. 3210; Pub. L. 97–164, title I, §163(a)(2), Apr. 2, 1982, 96 Stat. 49;Pub. L. 98–573, title VI, §623(a), Oct. 30, 1984, 98 Stat. 3040; Pub. L. 99–514, title XVIII, §1888(6), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 100–449, title IV, §401, Sept. 28, 1988, 102 Stat. 1878; Pub. L. 101–382, title I, §134(a)(3), Aug. 20, 1990, 104 Stat. 649; Pub. L. 103–182, title IV, §411, Dec. 8, 1993, 107 Stat. 2140; Pub. L. 103–465, title I, §129(e), title II, §§220(b), 270(a)(1)(N), 271(b), Dec. 8, 1994, 108 Stat. 4838, 4864, 4917, 4921; Pub. L. 104–295, §§20(a)(1), 21(c)(3), 22, Oct. 11, 1996, 110 Stat. 3526, 3530, 3531.)
 
 #### References in Text
 
@@ -502,7 +502,7 @@ Subsec. (g)(1). Pub. L. 103–182, §411(4)(B), substituted “free trade area c
 
 Subsec. (g)(2). Pub. L. 103–182, §411(4)(C), inserted “of the NAFTA or” after “article 1904” in introductory provisions.
 
-Subsec. (g)(3)(A). Pub. L. 103–182, §411(4)(D), in cl. (i), substituted “nor the relevant FTA country” for “nor Canada” and inserted “of the NAFTA or” before “of theAgreement”, in cl. (ii), substituted “nor the relevant FTA country” for “nor Canada”, in cl. (iii), inserted “of the NAFTA or” before “of the Agreement” and struck out “or” at end, in cl. (iv), struck out “under paragraph (2)(A)” before “is not reviewable” and substituted a comma for period at end, and added cls. (v) and (vi).
+Subsec. (g)(3)(A). Pub. L. 103–182, §411(4)(D), in cl. (i), substituted “nor the relevant FTA country” for “nor Canada” and inserted “of the NAFTA or” before “of the Agreement”, in cl. (ii), substituted “nor the relevant FTA country” for “nor Canada”, in cl. (iii), inserted “of the NAFTA or” before “of the Agreement” and struck out “or” at end, in cl. (iv), struck out “under paragraph (2)(A)” before “is not reviewable” and substituted a comma for period at end, and added cls. (v) and (vi).
 
 Subsec. (g)(3)(B). Pub. L. 103–182, §411(4)(E), substituted first two sentences for former sentences which read as follows: “A determination described in subparagraph (A)(i) or (iv) is reviewable under subsection (a) of this section only if the party seeking to commence review has provided timely notice of its intent to commence such review to the United States Secretary, the Canadian Secretary, all interested parties who were parties to the proceeding in connection with which the matter arises, and the administering authority or the Commission, as appropriate. Such notice is provided timely if the notice is delivered by no later than the date that is 20 days after the date described in subparagraph (A) or (B) of subsection (a)(5) of this section that is applicable to such determination.”
 
@@ -594,7 +594,7 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 
 #### Effective and Termination Dates of 1988 Amendment
 
-Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
+Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement entersinto force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -642,7 +642,7 @@ Certain countervailing and antidumping duty assessments.—The amendments made b
 
 &emsp;“(4)
 
-Certain countervailing and antidumping duty determinations.—With respect to any preliminary determination or final determination of the Secretary of the Treasury under section 303 of the Tariff Act of 1930 \[section 1303 of this title\] or the Antidumping Act, 1921 \[sections 160 to 171 of this title\],which is treated under section 102 of this Act \[set out as a note under section 1671 of this title\] as if made under section 703(b), 705(a), 733(b), or 735(a) of the Tariff Act of 1930 \[section 1671b(b), 1671d(a), 1673b(b), or 1673d(a) of this title\] (as added by title I of this Act) such determinations shall be subject to judicial review in the same manner and to the same extent as if made on the day before the effective date.”
+Certain countervailing and antidumping duty determinations.—With respect to any preliminary determination or final determination of the Secretary of the Treasury under section 303 of the Tariff Act of 1930 \[section 1303 of this title\] or the Antidumping Act, 1921 \[sections 160 to 171 of this title\], which is treated under section 102 of this Act \[set out as a note under section 1671 of this title\] as if made under section 703(b), 705(a), 733(b), or 735(a) of the Tariff Act of 1930 \[section 1671b(b), 1671d(a), 1673b(b), or 1673d(a) of this title\] (as added by title I of this Act) such determinations shall be subject to judicial review in the same manner and to the same extent as if made on the day before the effective date.”
 
 #### Effect of Termination of NAFTA Country Status
 

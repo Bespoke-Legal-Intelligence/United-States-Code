@@ -126,7 +126,7 @@ Reserve Components.—The following definitions relating to the reserve componen
 
 &emsp;(6) The term “reserve”, with respect to an enlistment, appointment, grade, or office, means enlistment, appointment, grade, or office held as a Reserve of one of the armed forces.
 
-&emsp;(7) The term “reserve active-status list” means a single list for the Army, Navy, Air Force, or Marine Corps (required to be maintained under section 14002 of this title) that contains the names of all officers of that armed force except warrant officers (including commissioned warrant officers) who are in an active status in a reserve component of the Army, Navy, Air Force, or Marine Corps and are not on an active-duty list.
+&emsp;(7) The term “reserve active-status list” means a single list for the Army, Navy, Air Force, or Marine Corps (required to be maintained under section 14002 of this title) that contains the names of all officers of thatarmed force except warrant officers (including commissioned warrant officers) who are in an active status in a reserve component of the Army, Navy, Air Force, or Marine Corps and are not on an active-duty list.
 
 (d)
 
@@ -440,7 +440,7 @@ Sept. 3, 1954, ch. 1257, §102(6), 68 Stat. 1150.
 
 The words “, other than a commissioned warrant officer,” are inserted to reflect 50:1181(1).
 
-\[Clause (35).\] The word “original” is defined to make clear that when used in relation to an appointment it refers to the member's first appointment in his current series of appointments and excludes any appointment made before a lapse in service.
+\[Clause (35).\] The word “original” is defined to make clear that when used in relation to an appointment it refers to the member's first appointment in his currentseries of appointments and excludes any appointment made before a lapse in service.
 
 #### References in Text
 
@@ -570,6 +570,10 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 Section 33(g) of Pub. L. 85–861 provided that: “This section \[see Tables for classification\] is effective as of August 10, 1956, for all purposes.”
 
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–38, §1, July 22, 1999, 113 Stat. 205, provided that: “This Act \[enacting provisions set out as notes under section 2431 of this title and section 5901 of Title 22, Foreign Relations and Intercourse\] may be cited as the ‘National Missile Defense Act of 1999’.”
+
 #### Short Title of 1991 Amendment
 
 Pub. L. 102–25, §1, Apr. 6, 1991, 105 Stat. 75, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Persian Gulf Conflict Supplemental Authorization and Personnel Benefits Act of 1991’.”
@@ -601,6 +605,10 @@ Authority vested by this title in “military departments”, “the Secretary c
 #### Public Health Service
 
 Authority vested by this title in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
+
+#### Coordination of Section 1066 of Pub. L. 106–65 With Other Provisions of Pub. L. 106–65
+
+Pub. L. 106–65, div. A, title X, §1066(e), Oct. 5, 1999, 113 Stat. 773, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
 #### Coordination of Section 1069 of Pub. L. 105–261 With Other Provisions of Pub. L. 105–261
 
@@ -652,5 +660,5 @@ Partial mobilization, see section 10207 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3750, 6246, 8750 of this title; title 5 sections 8331, 8401; title 14 section 423; title 18 section 232; title 31 section 3711; title 33 sections 853<i>o</i>, 857–1; title 37 sections 101, 308; title 39 section 3401; title 41 section 259; title 42 sections 2651, 5170b, 7235, 12639; title 46 App. section 1187b; title 50 App. section 592.
+This section is referred to in sections 3750, 6246, 8750 of this title; title 5 sections 8331, 8401; title 14 section 423; title 18 section 232; title 20 sections 1078, 1087dd; title 31 section 3711; title 33 sections 853<i>o</i>, 857–1; title 37 sections 101, 308; title 39 section 3401; title 41 section 259; title 42 sections 2651, 5170b, 7235, 12639; title 46 App. section 1187b; title 50 App. section 592.
 

@@ -48,7 +48,7 @@ The Secretary shall provide this assistance only through contract—
 
 &emsp;(1) with a nonprofit intermediary organization that, in the determination of the Secretary—
 
-&emsp;&emsp;(A) customarily provides, in more than one community, services related to the provision of decent housing that is affordable to low-income and moderate-income persons or the revitalization of deteriorating neighborhoods;
+&emsp;&emsp;(A) customarily provides, in more than one community, services related to the provisionof decent housing that is affordable to low-income and moderate-income persons or the revitalization of deteriorating neighborhoods;
 
 &emsp;&emsp;(B) has demonstrated experience in providing a range of assistance (such as financing, technical assistance, construction and property management assistance, capacity building and training) to community housing development organizations or similar organizations that engage in community revitalization;
 
@@ -122,7 +122,7 @@ Subsec. (f). Pub. L. 102–550, §213(a)(3), added subsec. (f).
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
+Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of thischapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
 
 #### Section Referred to in Other Sections
 

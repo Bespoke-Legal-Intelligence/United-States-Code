@@ -6,5 +6,5 @@ On and after October 1, 1982, the Sergeant at Arms and Doorkeeper of the Senate 
 
 #### Codification
 
-Section is based on section 102 of S. 2939, Ninety-seventh Congress, 2d Session, as reported Sept. 22, 1982,and incorporated by reference in section 101(e) of Pub. L. 97–276, to be effective as if enacted into law.
+Section is based on section 102 of S. 2939, Ninety-seventh Congress, 2d Session, as reported Sept. 22, 1982, and incorporated by reference in section 101(e) of Pub. L. 97–276, to be effective as if enacted into law.
 

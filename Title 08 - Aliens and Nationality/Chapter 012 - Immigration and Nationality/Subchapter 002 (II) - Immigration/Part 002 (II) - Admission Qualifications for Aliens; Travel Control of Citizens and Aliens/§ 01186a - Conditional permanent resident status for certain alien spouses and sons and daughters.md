@@ -134,7 +134,7 @@
 
 #### (A) 90-day period before second anniversary
 
-&emsp;&emsp;Except as provided in subparagraph (B), the petition under subsection (c)(1)(A) ofthis section must be filed during the 90-day period before the second anniversary of the alien's obtaining the status of lawful admission for permanent residence.
+&emsp;&emsp;Except as provided in subparagraph (B), the petition under subsection (c)(1)(A) of this section must be filed during the 90-day period before the second anniversary of the alien's obtaining the status of lawful admission for permanent residence.
 
 #### (B) Date petitions for good cause
 

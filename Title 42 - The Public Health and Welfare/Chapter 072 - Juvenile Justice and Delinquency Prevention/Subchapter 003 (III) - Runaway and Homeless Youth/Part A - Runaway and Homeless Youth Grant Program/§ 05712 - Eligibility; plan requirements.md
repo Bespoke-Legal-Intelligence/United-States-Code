@@ -26,85 +26,85 @@ In order to qualify for assistance under section 5711(a) of this title, an appli
 
 &emsp;&emsp;(C) the return of runaway and homeless youth from correctional institutions;
 
-&emsp;(5) shall develop an adequate plan for providing counseling and aftercare services to such youth, for encouraging the involvement of their parents or legal guardians in counseling, and for ensuring, as possible, that aftercare services will be provided to those youth whoare returned beyond the State in which the runaway and homeless youth center is located;
+&emsp;(5) shall develop an adequate plan for providing counseling and aftercare services to such youth, for encouraging the involvement of their parents or legal guardians in counseling, and for ensuring, as possible, that aftercare services will be provided to those youth who are returned beyond the State in which the runaway and homeless youth center is located;
 
 &emsp;(6) shall develop an adequate plan for establishing or coordinating with outreach programs designed to attract persons (including, where applicable, persons who are members of a cultural minority and persons with limited ability to speak English) who are eligible to receive services for which a grant under subsection (a) of this section may be expended;
 
 &emsp;(7) shall keep adequate statistical records profiling the youth and family members whom it serves (including youth who are not referred to out-of-home shelter services), except that records maintained on individual runaway and homeless youth shall not be disclosed without the consent of the individual youth and parent or legal guardian to anyone other than another agency compiling statistical records or a government agency involved in the disposition of criminal charges against an individual runaway and homeless youth, and reports or other documents based on such statistical records shall not disclose the identity of individual runaway and homeless youth;
 
-&emsp;(8) shall submit annual reports to the Secretary detailing how the center has been able to meet the goals of its plans and reporting the statistical summaries required by paragraph (6); <sup>1</sup>
+&emsp;(8) shall submit annual reports to the Secretary detailing how the center has been able to meet the goals of its plans and reporting the statistical summaries required by paragraph (7);
 
 &emsp;(9) shall demonstrate its ability to operate under accounting procedures and fiscal control devices as required by the Secretary;
 
-&emsp;(10) shall submit a budget estimate with respect to the plan submitted by such center under this subsection; and
+&emsp;(10) shall submit a budget estimate with respect to the plan submitted by such center under this subsection;
 
-&emsp;(11) shall supply such other information as the Secretary reasonably deems necessary.
+&emsp;(11) shall supply such other information as the Secretary reasonably deems necessary; and
 
-#### (c) Street-based service project
+&emsp;(12) shall submit to the Secretary an annual report that includes, with respect to the year for which the report is submitted—
 
-To be eligible for assistance under section 5711(c) of this title, an applicant shall propose to establish, strengthen, or fund a street-based service project for runaway and homeless youth and shall submit to the Secretary a plan in which the applicant agrees, as part of the project—
+&emsp;&emsp;(A) information regarding the activities carried out under this part;
 
-&emsp;(1) to provide qualified supervision of staff, including on-street supervision by appropriately trained staff;
+&emsp;&emsp;(B) the achievements of the project under this part carried out by the applicant; and
 
-&emsp;(2) to provide backup personnel for on-street staff;
+&emsp;&emsp;(C) statistical summaries describing—
 
-&emsp;(3) to provide informational and health educational material to runaway and homeless youth in need of services;
+&emsp;&emsp;&emsp;(i) the number and the characteristics of the runaway and homeless youth, and youth at risk of family separation, who participate in the project; and
 
-&emsp;(4) to provide initial and periodic training of staff who provide services under the project;
+&emsp;&emsp;&emsp;(ii) the services provided to such youth by the project.
 
-&emsp;(5) to carry out outreach activities for runaway and homeless youth and to collect statistical information on runaway and homeless youth contacted through such activities;
+#### (c) Applicants providing street-based services
 
-&emsp;(6) to develop referral relationships with agencies and organizations that provide services or assistance to runaway and homeless youth, including law enforcement, education, social services, vocational education and training, public welfare, legal assistance, mental health and health care;
+To be eligible to use assistance under section 5711(a)(2)(C)(i) of this title to provide street-based services, the applicant shall include in the plan required by subsection (b) of this section assurances that in providing such services the applicant will—
 
-&emsp;(7) to submit to the Secretary an annual report that includes information regarding the activities carried out with funds received under section 5711(c) of this title, the achievements of the project under section 5711(c) of this title carried out by the applicant, and statistical summaries describing the number and the characteristics of the runaway and homeless youth who participate in such project in the year for which the report is submitted;
+&emsp;(1) provide qualified supervision of staff, including on-street supervision by appropriately trained staff;
 
-&emsp;(8) to implement such accounting procedures and fiscal control devices as the Secretary may require;
+&emsp;(2) provide backup personnel for on-street staff;
 
-&emsp;(9) to submit to the Secretary an annual budget that estimates the itemized costs to be incurred in the year for which the applicant requests a grant under subsection <sup>2</sup> 5711(c) of this title;
+&emsp;(3) provide initial and periodic training of staff who provide such services; and
 
-&emsp;(10) to keep adequate statistical records that profile runaway and homeless youth whom it serves and not to disclose the identity of such youth in reports or other documents based on such statistical records;
+&emsp;(4) conduct outreach activities for runaway and homeless youth, and street youth.
 
-&emsp;(11) not to disclose records maintained on an individual runaway and homeless youth without the informed consent of the youth, to any person other than an agency compiling statistical records; and
+#### (d) Applicants providing home-based services
 
-&emsp;(12) to provide to the Secretary such other information as the Secretary may reasonably require.
+To be eligible to use assistance under section 5711(a) of this title to provide home-based services described in section 5711(a)(2)(C)(ii) of this title, an applicant shall include in the plan required by subsection (b) of this section assurances that in providing such services the applicant will—
 
-#### (d) Home-based service project
+&emsp;(1) provide counseling and information to youth and the families (including unrelated individuals in the family households) of such youth, including services relating to basic life skills, interpersonal skill building, educational advancement, job attainment skills, mental and physical health care, parenting skills, financial planning, and referral to sources of other needed services;
 
-To be eligible for assistance under section 5711(d) of this title, an applicant shall propose to establish, strengthen, or fund a home-based service project for runaway youth or youth at risk of family separation and shall submit to the Secretary a plan in which the applicant agrees, as part of the project—
+&emsp;(2) provide directly, or through an arrangement made by the applicant, 24-hour service to respond to family crises (including immediate access to temporary shelter for runaway and homeless youth, and youth at risk of separation from the family);
 
-&emsp;(1) to provide counseling and information services needed by runaway youth, youth at risk of family separation, and the family (including unrelated individuals in the family household) of such youth, including services relating to basic life skills, interpersonal skill building, educational advancement, job attainment skills, mental and physical health care, parent training, financial planning, and referral to sources of other needed services;
+&emsp;(3) establish, in partnership with the families of runaway and homeless youth, and youth at risk of separation from the family, objectives and measures of success to be achieved as a result of receiving home-based services;
 
-&emsp;(2) to provide directly, or through an arrangement made by the applicant, 24-hour service to respond to family crises (including immediate access to temporary shelter for runaway youth and youth at risk of family separation affected by family crises);
+&emsp;(4) provide initial and periodic training of staff who provide home-based services; and
 
-&emsp;(3) to establish in partnership with the families of runaway youth and youth at risk of family separation, objectives and measures of success to be achieved as a result of participating in such project;
+&emsp;(5) ensure that—
 
-&emsp;(4) to provide informational and health educational material to runaway youth and youth at risk of family separation in need of services;
+&emsp;&emsp;(A) caseloads will remain sufficiently low to allow for intensive (5 to 20 hours per week) involvement with each family receiving such services; and
 
-&emsp;(5) to provide initial and periodic training of staff who provide services under the project;
+&emsp;&emsp;(B) staff providing such services will receive qualified supervision.
 
-&emsp;(6) to carry out outreach activities for runaway youth and youth at risk of family separation, and to collect statistical information on runaway youth and youth at risk of family separation contacted through such activities;
+#### (e) Applicants providing drug abuse education and prevention services
 
-&emsp;(7) to ensure that—
+To be eligible to use assistance under section 5711(a)(2)(C)(iii) of this title to provide drug abuse education and prevention services, an applicant shall include in the plan required by subsection (b) of this section—
 
-&emsp;&emsp;(i) caseloads will remain sufficiently low to allow for intensive (5 to 20 hours per week) involvement with each family participating in such project; and
+&emsp;(1) a description of—
 
-&emsp;&emsp;(ii) qualified supervision will be provided to staff who provide services under the project;
+&emsp;&emsp;(A) the types of such services that the applicant proposes to provide;
 
-&emsp;(8) to submit to the Secretary an annual report that includes information regarding the activities carried out with funds under section 5711(d) of this title, the achievements of the project under this part carried out by the applicant and statistical summaries describing the number and the characteristics of the runaway youth and youth at risk of family separation who participate in such project in the year for which the report is submitted;
+&emsp;&emsp;(B) the objectives of such services; and
 
-&emsp;(9) to implement such accounting procedures and fiscal control devices as the Secretary may require;
+&emsp;&emsp;(C) the types of information and training to be provided to individuals providing such services to runaway and homeless youth; and
 
-&emsp;(10) to submit to the Secretary an annual budget that estimates the itemized costs to be incurred in the year for which the applicant requests a grant under section 5711(d) of this title;
+&emsp;(2) an assurance that in providing such services the applicant shall conduct outreach activities for runaway and homeless youth.
 
-&emsp;(11) to keep adequate statistical records that profile runaway youth and youth at risk of family separation whom it serves and not to disclose the identity of such youth in reports or other documents based on such statistical records;
-
-&emsp;(12) not to disclose records maintained on an individual runaway youth or youth at risk of family separation without the informed consent of the youth, to any person other than an agency compiling statistical records; and
-
-&emsp;(13) to provide to the Secretary such other information as the Secretary may reasonably require.
-
-(Pub. L. 93–415, title III, §312, Sept. 7, 1974, 88 Stat. 1130; Pub. L. 95–115, §7(a)(2), (3), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §18(d), Dec. 8, 1980, 94 Stat. 2762; Pub. L. 98–473, title II, §652, Oct. 12, 1984, 98 Stat. 2123; Pub. L. 100–690, title VII, §7271(c)(1)–(3), Nov. 18, 1988, 102 Stat. 4453; Pub. L. 102–586, §3(c), Nov. 4, 1992, 106 Stat. 5019.)
+(Pub. L. 93–415, title III, §312, Sept. 7, 1974, 88 Stat. 1130; Pub. L. 95–115, §7(a)(2), (3), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §18(d), Dec. 8, 1980, 94 Stat. 2762; Pub. L. 98–473, title II, §652, Oct. 12, 1984, 98 Stat. 2123; Pub. L. 100–690, title VII, §7271(c)(1)–(3), Nov. 18, 1988, 102 Stat. 4453; Pub. L. 102–586, §3(c), Nov. 4, 1992, 106 Stat. 5019; Pub. L. 106–71, §3(c), Oct. 12, 1999, 113 Stat. 1036.)
 
 #### Amendments
+
+1999—Subsec. (b)(8). Pub. L. 106–71, §3(c)(1)(A), substituted “paragraph (7)” for “paragraph (6)”.
+
+Subsec. (b)(12). Pub. L. 106–71, §3(c)(1)(B)–(D), added par. (12).
+
+Subsecs. (c) to (e). Pub. L. 106–71, §3(c)(2), added heading and text of subsecs. (c) to (e) and struck out former subsecs. (c) and (d) which related to street-based service projects and home-based service projects, respectively, but which specified more detailed lists of services applicants were to provide in order to qualify for assistance.
 
 1992—Subsec. (a). Pub. L. 102–586, §3(c)(1), substituted “project (including a host family home) that provides” for “facility providing”.
 
@@ -165,12 +165,4 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, set out as a note under section 5601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5713 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be paragraph “(7);”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>
 

@@ -4,7 +4,7 @@
 
 There shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the sum of the amounts payable to the taxpayer—
 
-&emsp;(1) under section 6420 with respect to gasoline used during the taxable year on a farm forfarming purposes (determined without regard to section 6420(g)),
+&emsp;(1) under section 6420 with respect to gasoline used during the taxable year on a farm for farming purposes (determined without regard to section 6420(g)),
 
 &emsp;(2) under section 6421 with respect to gasoline used during the taxable year (A) otherwise than as a fuel in a highway vehicle or (B) in vehicles while engaged in furnishing certain public passenger land transportation service (determined without regard to section 6421(i)),<sup>1</sup> and
 

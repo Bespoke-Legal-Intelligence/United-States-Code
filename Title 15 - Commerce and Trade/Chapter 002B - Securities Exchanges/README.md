@@ -109,6 +109,7 @@
 | (f) | Prevention of misuse of material, nonpublic information. |
 | (g) | Requirements for transactions in penny stocks. |
 | (h) | Limitations on State law. |
+| (i) | Rulemaking to extend requirements to new hybrid products. |
 | 78<i>o</i>–1. | Brokers deemed to be registered. |
 | 78<i>o</i>–2. | Liabilities arising prior to amendment unaffected. |
 | 78<i>o</i>–3. | Registered securities associations. |
@@ -121,6 +122,7 @@
 | (g) | Denial of membership. |
 | (h) | Discipline of registered securities association members and persons associated with members; summary proceedings. |
 | (i) | Broker-dealer disciplinary history. |
+| (j) | Registration for sales of private securities offerings. |
 | 78<i>o</i>–4. | Municipal securities. |
 | (a) | Registration of municipal securities dealers. |
 | (b) | Municipal Securities Rulemaking Board; rules and regulations. |
@@ -149,7 +151,9 @@
 | (f) | Missing, lost, counterfeit, and stolen securities. |
 | (g) | Persons extending credit. |
 | (h) | Risk assessment for holding company systems. |
-| (i) | Coordination of examining authorities. |
+| (i) | Investment bank holding companies. |
+| (j) | Authority to limit disclosure of information. |
+| (k) | Coordination of examining authorities. |
 | 78q–1. | National system for clearance and settlement of securities transactions. |
 | (a) | Congressional findings; facilitating establishment of system. |
 | (b) | Registration of clearing agencies; application; determinations by Commission requisite to registration of applicant as clearing agency; denial of participation; discipline; summary proceedings. |
@@ -320,7 +324,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 77ccc, 77hhh, 77www, 77zzz, 78bbb, 78eee, 79p, 79t, 79u, 80a–2, 80a–8, 80a–9, 80a–12, 80a–17, 80a–29, 80a–34, 80a–37, 80a–49, 80a–56, 80b–2, 80b–3, 80b–4a, 80b–8, 631b, 1691c, 1693<i>o</i> of this title; title 2 section 1602; title 7 sections 6, 6m, 12a; title 11 section 741; title 12 sections 1465, 1831<i>o</i>, 2279aa–12, 3422, 4402; title 25 section 646; title 26 sections 162, 277; title 29 sections 432, 1343; title 31 section 5312; title 42 sections 2297h–2, 2297h–7; title 43 sections 1625, 1629b; title 45 section 1342; title 47 section 274.
+This chapter is referred to in sections 77ccc, 77hhh, 77www, 77zzz, 78bbb, 78eee, 79p, 79t, 79u, 80a–2, 80a–8, 80a–9, 80a–12, 80a–17, 80a–29, 80a–34, 80a–37, 80a–49, 80a–56, 80b–2, 80b–3, 80b–4a, 80b–8, 631b, 1691c, 1693<i>o</i>, 6805 of this title; title 2 section 1602; title 7 sections 6, 6m, 12a; title 11 section 741; title 12 sections 1465, 1831<i>o</i>, 1844, 2279aa–12, 3422, 4402; title 25 section 646; title 26 sections 162, 277; title 29 sections 432, 1343; title 31 section 5312; title 42 sections 2297h–2, 2297h–7; title 43 sections 1625, 1629b; title 45 section 1342; title 47 section 274.
 
 
 ---

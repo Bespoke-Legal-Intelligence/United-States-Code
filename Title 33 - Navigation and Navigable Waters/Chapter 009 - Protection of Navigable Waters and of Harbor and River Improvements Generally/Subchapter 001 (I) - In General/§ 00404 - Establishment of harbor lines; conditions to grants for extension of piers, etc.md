@@ -14,7 +14,7 @@ This section and section 406 of this title, superseded act Aug. 11, 1888, ch. 86
 
 Section also superseded act Aug. 18, 1894, ch. 299, §9, 28 Stat. 364, which contained provisions for compensation for tide water displaced similar to the proviso in this section.
 
-Act Aug. 5, 1886, ch. 929, §2, 24 Stat. 329, which was probably omitted from the Code as superseded by thissection, provided that: “In places where harbor-lines have not been established, and where deposits of de�AE1bris of mines or stamp works can be made without injury to navigation, within lines to be established by the Secretary of War, said officer may, and is hereby authorized to, cause such lines to be established; and within such lines such deposits may be made, under regulations to be from time to time prescribed by him.”
+Act Aug. 5, 1886, ch. 929, §2, 24 Stat. 329, which was probably omitted from the Code as superseded by this section, provided that: “In places where harbor-lines have not been established, and where deposits of de�AE1bris of mines or stamp works can be made without injury to navigation, within lines to be established by the Secretary of War, said officer may, and is hereby authorized to, cause such lines to be established; and within such lines such deposits may be made, under regulations to be from time to time prescribed by him.”
 
 #### Change of Name
 

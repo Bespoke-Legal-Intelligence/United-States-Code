@@ -164,7 +164,7 @@ For purposes of this section—
 
 #### (3) Death benefit
 
-&emsp;The term “death benefit” means the amount payable by reason of the death of the insured (determined without regard to any qualified additional benefits).
+&emsp;The term “death benefit” means the amount payable by reason of the death of the insured\(determined without regard to any qualified additional benefits).
 
 #### (4) Future benefits
 
@@ -256,7 +256,7 @@ For purposes of this section—
 
 #### (9) Special rule for variable life insurance contracts
 
-&emsp;In the case of any contract which is a variable contract (as defined in section 817), the determination of whether such contract meets the requirements of subsection (a) shall be made whenever the death benefits under such contract change but not less frequently than once during each 12-month period.
+&emsp;In the case of any contract which is a variable contract (as defined in section 817), thedetermination of whether such contract meets the requirements of subsection (a) shall be made whenever the death benefits under such contract change but not less frequently than once during each 12-month period.
 
 #### (g) Treatment of contracts which do not meet subsection (a) test
 
@@ -444,7 +444,7 @@ In general.—Subparagraph (A) shall be applied by substituting ‘September 30,
 
 &emsp;&emsp;&emsp;“(I) which would meet the requirements of section 7702 of such Code if ‘3 percent’ were substituted for ‘4 percent’ in section 7702(b)(2) of such Code, and the rate or rates guaranteed on issuance of the contract were determined without regard to any mortality charges and any initial excess interest guarantees, and
 
-&emsp;&emsp;&emsp;“(II) the cash surrender value of which does not at any time exceed the net single premium which would have to be paid at such time to fund future benefits under the contract.
+&emsp;&emsp;&emsp;“(II) the cash surrender value of which does not at any time exceed the net single premium whichwould have to be paid at such time to fund future benefits under the contract.
 
 &emsp;&emsp;“(ii)
 
@@ -492,5 +492,5 @@ Section 221(b)(3) of Pub. L. 98–369, as added by Pub. L. 99–514, title XVIII
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 56, 72, 264, 817, 817A, 953, 7702A, 7702B of this title.
+This section is referred to in sections 56, 72, 264, 817, 817A, 953, 7702A, 7702B of this title; title 15 section 6712.
 

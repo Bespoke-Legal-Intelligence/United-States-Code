@@ -46,7 +46,7 @@ Pub. L. 96–395, title III, §307, June 30, 1980, 94 Stat. 791, provided that:
 
 > The Commission shall transmit to the Congress the plan required by this subsection within six months after the date of the enactment of this Act \[June 30, 1980\], and shall implement as expeditiously as practicable each element thereof not requiring legislative enactment.
 
-“(b) The Nuclear Regulatory Commission is authorized and directed to undertake a study of the feasibility and value of licensing, under section 107 of the AtomicEnergy Act of 1954 \[this section\], plant managers of utilization facilities and senior licensee officers responsible for operation of such facilities. The Commission shall report to the Congress within six months of the date of enactment of this Act \[June 30, 1980\] on the findings and recommendations of the study required by this subsection, and shall expeditiously implement each such recommendation not requiring legislative enactment.”
+“(b) The Nuclear Regulatory Commission is authorized and directed to undertake a study of the feasibility and value of licensing, under section 107 of the Atomic Energy Act of 1954 \[this section\], plant managers of utilization facilities and senior licensee officers responsible for operation of such facilities. The Commission shall report to the Congress within six months of the date of enactment of this Act \[June 30, 1980\] on the findings and recommendations of the study required by this subsection, and shall expeditiously implement each such recommendation not requiring legislative enactment.”
 
 #### Section Referred to in Other Sections
 

@@ -5,6 +5,7 @@
 | [4331\.](%C2%A7%2004331%20-%20Establishment%3B%20Superintendent%3B%20faculty.md) | Establishment; Superintendent; faculty. |
 | [4332\.](%C2%A7%2004332%20-%20Departments%20and%20professors%20titles.md) | Departments and professors: titles. |
 | [4333\.](%C2%A7%2004333%20-%20Superintendent%3B%20faculty%20appointment%20and%20detail.md) | Superintendent; faculty: appointment and detail. |
+| [4333a.](%C2%A7%2004333a%20-%20Superintendent%20condition%20for%20detail%20to%20position.md) | Superintendent: condition for detail to position. |
 | [4334\.](%C2%A7%2004334%20-%20Command%20and%20supervision.md) | Command and supervision. |
 | [4335\.](%C2%A7%2004335%20-%20Dean%20of%20Academic%20Board.md) | Dean of Academic Board. |
 | [4336\.](%C2%A7%2004336%20-%20Permanent%20professors%3B%20director%20of%20admissions.md) | Permanent professors; director of admissions. |
@@ -29,12 +30,14 @@
 | [4354\.](%C2%A7%2004354%20-%20Buildings%20and%20grounds%20memorial%20hall%3B%20buildings%20for%20religious%20worship.md) | Buildings and grounds: memorial hall; buildings for religious worship. |
 | [4355\.](%C2%A7%2004355%20-%20Board%20of%20Visitors.md) | Board of Visitors. |
 | [4356\.](%C2%A7%2004356%20-%20Use%20of%20certain%20gifts.md) | Use of certain gifts. |
-| \[4357. | Repealed.\] |
+| [4357\.](%C2%A7%2004357%20-%20Acceptance%20of%20guarantees%20with%20gifts%20for%20major%20projects.md) | Acceptance of guarantees with gifts for major projects. |
 | [4358\.](%C2%A7%2004358%20-%20Grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes%20acceptance%3B%20authorized%20grantees.md) | Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title V, §532(a)(4)(B), div. B, title XXVIII, §2871(a)(2), Oct. 5, 1999, 113 Stat. 603, 873, added items 4333a and 4357.
 
 1998—Pub. L. 105–261, div. A, title X, §1063(a)(2), Oct. 17, 1998, 112 Stat. 2130, added item 4358.
 
@@ -52,7 +55,7 @@
 
 1981—Pub. L. 97–60, title II, §203(a)(2)(B), Oct. 14, 1981, 95 Stat. 1006, added item 4341a.
 
-1978—Pub. L. 95–551, §4(b), Oct. 30, 1978, 92 Stat. 2069, substituted “Establishment; Superintendent; faculty” for “Superintendent; faculty; adjutant; chaplain” initem 4331, “director of admissions” for “registrar” in item 4336, and struck out item 4338 “Director of music”.
+1978—Pub. L. 95–551, §4(b), Oct. 30, 1978, 92 Stat. 2069, substituted “Establishment; Superintendent; faculty” for “Superintendent; faculty; adjutant; chaplain” in item 4331, “director of admissions” for “registrar” in item 4336, and struck out item 4338 “Director of music”.
 
 1968—Pub. L. 90–623, §2(7), Oct. 22, 1968, 82 Stat. 1314, struck out item 4339 “Organist and choirmaster; civilian instructors in departments of foreign languages and tactics: quarters, fuel, and light”.
 
@@ -70,6 +73,7 @@ This chapter is referred to in title 37 section 209.
 - [&sect; 04331 - Establishment; Superintendent; faculty](%C2%A7%2004331%20-%20Establishment%3B%20Superintendent%3B%20faculty.md)
 - [&sect; 04332 - Departments and professors titles](%C2%A7%2004332%20-%20Departments%20and%20professors%20titles.md)
 - [&sect; 04333 - Superintendent; faculty appointment and detail](%C2%A7%2004333%20-%20Superintendent%3B%20faculty%20appointment%20and%20detail.md)
+- [&sect; 04333a - Superintendent condition for detail to position](%C2%A7%2004333a%20-%20Superintendent%20condition%20for%20detail%20to%20position.md)
 - [&sect; 04334 - Command and supervision](%C2%A7%2004334%20-%20Command%20and%20supervision.md)
 - [&sect; 04335 - Dean of Academic Board](%C2%A7%2004335%20-%20Dean%20of%20Academic%20Board.md)
 - [&sect; 04336 - Permanent professors; director of admissions](%C2%A7%2004336%20-%20Permanent%20professors%3B%20director%20of%20admissions.md)
@@ -94,5 +98,5 @@ This chapter is referred to in title 37 section 209.
 - [&sect; 04354 - Buildings and grounds memorial hall; buildings for religious worship](%C2%A7%2004354%20-%20Buildings%20and%20grounds%20memorial%20hall%3B%20buildings%20for%20religious%20worship.md)
 - [&sect; 04355 - Board of Visitors](%C2%A7%2004355%20-%20Board%20of%20Visitors.md)
 - [&sect; 04356 - Use of certain gifts](%C2%A7%2004356%20-%20Use%20of%20certain%20gifts.md)
-- [&sect; 04357 - Repealed. Pub. L. 104&#8211;106, div. A, title V, &sect;533(a)(1), Feb. 10, 1996, 110 Stat. 315](%C2%A7%2004357%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7533%28a%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20315.md)
+- [&sect; 04357 - Acceptance of guarantees with gifts for major projects](%C2%A7%2004357%20-%20Acceptance%20of%20guarantees%20with%20gifts%20for%20major%20projects.md)
 - [&sect; 04358 - Grants for faculty research for scientific, literary, and educational purposes acceptance; authorized grantees](%C2%A7%2004358%20-%20Grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes%20acceptance%3B%20authorized%20grantees.md)

@@ -10,7 +10,7 @@
 | [1335\.](%C2%A7%2001335%20-%20Interpleader.md) | Interpleader. |
 | [1336\.](%C2%A7%2001336%20-%20Surface%20Transportation%20Board%27s%20orders.md) | Surface Transportation Board's orders. |
 | [1337\.](%C2%A7%2001337%20-%20Commerce%20and%20antitrust%20regulations%3B%20amount%20in%20controversy%2C%20costs.md) | Commerce and antitrust regulations; amount in controversy, costs. |
-| [1338\.](%C2%A7%2001338%20-%20Patents%2C%20plant%20variety%20protection%2C%20copyrights%2C%20mask%20works%2C%20designs%2C%20trade-marks%2C%20and%20unfair%20competition.md) | Patents, plant variety protection, copyrights, mask works, designs, trade-marks, and unfair competition. |
+| [1338\.](%C2%A7%2001338%20-%20Patents%2C%20plant%20variety%20protection%2C%20copyrights%2C%20mask%20works%2C%20designs%2C%20trademarks%2C%20and%20unfair%20competition.md) | Patents, plant variety protection, copyrights, mask works, designs, trademarks, and unfair competition. |
 | [1339\.](%C2%A7%2001339%20-%20Postal%20matters.md) | Postal matters. |
 | [1340\.](%C2%A7%2001340%20-%20Internal%20revenue%3B%20customs%20duties.md) | Internal revenue; customs duties. |
 | [1341\.](%C2%A7%2001341%20-%20Taxes%20by%20States.md) | Taxes by States. |
@@ -44,15 +44,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>For termination of amendment by section 503(b)(2)(B) of Pub. L. 105–304, see section 505 of Pub. L. 105–304, set out as an Effective and Termination Dates note under section 1301 of Title 17, Copyrights.</i>
-
 #### Amendments
 
-1998—Pub. L. 105–304, title V, §§503(b)(2)(B), 505, Oct. 28, 1998, 112 Stat. 2917, 2918, temporarily inserted “designs,” after “mask works,” in item 1338.
+1999—Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3009(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, substituted “trademarks” for “trade-marks” in item 1338.
 
-1995—Pub. L. 104–88, title III, §305(a)(4), Dec. 29, 1995, 109 Stat. 944, substituted “Surface TransportationBoard's” for “Interstate Commerce Commission's” in item 1336.
+1998—Pub. L. 105–304, title V, §503(b)(2)(B), Oct. 28, 1998, 112 Stat. 2917, inserted “designs,” after “mask works,” in item 1338.
+
+1995—Pub. L. 104–88, title III, §305(a)(4), Dec. 29, 1995, 109 Stat. 944, substituted “Surface Transportation Board's” for “Interstate Commerce Commission's” in item 1336.
 
 1994—Pub. L. 103–465, title III, §321(b)(3)(B), Dec. 8, 1994, 108 Stat. 4947, added item 1368.
 
@@ -145,7 +143,7 @@ Virgin Islands, jurisdiction of district court, see sections 1612 and 1613 of Ti
 - [&sect; 01335 - Interpleader](%C2%A7%2001335%20-%20Interpleader.md)
 - [&sect; 01336 - Surface Transportation Board's orders](%C2%A7%2001336%20-%20Surface%20Transportation%20Board%27s%20orders.md)
 - [&sect; 01337 - Commerce and antitrust regulations; amount in controversy, costs](%C2%A7%2001337%20-%20Commerce%20and%20antitrust%20regulations%3B%20amount%20in%20controversy%2C%20costs.md)
-- [&sect; 01338 - Patents, plant variety protection, copyrights, mask works, designs, trade-marks, and unfair competition](%C2%A7%2001338%20-%20Patents%2C%20plant%20variety%20protection%2C%20copyrights%2C%20mask%20works%2C%20designs%2C%20trade-marks%2C%20and%20unfair%20competition.md)
+- [&sect; 01338 - Patents, plant variety protection, copyrights, mask works, designs, trademarks, and unfair competition](%C2%A7%2001338%20-%20Patents%2C%20plant%20variety%20protection%2C%20copyrights%2C%20mask%20works%2C%20designs%2C%20trademarks%2C%20and%20unfair%20competition.md)
 - [&sect; 01339 - Postal matters](%C2%A7%2001339%20-%20Postal%20matters.md)
 - [&sect; 01340 - Internal revenue; customs duties](%C2%A7%2001340%20-%20Internal%20revenue%3B%20customs%20duties.md)
 - [&sect; 01341 - Taxes by States](%C2%A7%2001341%20-%20Taxes%20by%20States.md)

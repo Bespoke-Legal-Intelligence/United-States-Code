@@ -8,11 +8,11 @@
 
 #### (2) First assessment
 
-&emsp;The first assessment of fees under subsection (b) of this section and annual charges undersubsection (c) of this section shall be made not later than September 30, 1991.
+&emsp;The first assessment of fees under subsection (b) of this section and annual charges under subsection (c) of this section shall be made not later than September 30, 1991.
 
 #### (3) Last assessment of annual charges
 
-&emsp;The last assessment of annual charges under subsection (c) of this section shall be made not later than September 30, 1999.
+&emsp;The last assessment of annual charges under subsection (c) of this section shall be made not later than September 30, 2000.
 
 #### (b) Fees for service or thing of value
 
@@ -56,7 +56,7 @@ Pursuant to section 9701 of title 31, any person who receives a service or thing
 
 As used in this section, the term “Nuclear Waste Fund” means the fund established pursuant to section 10222(c) of this title.
 
-(Pub. L. 101–508, title VI, §6101, Nov. 5, 1990, 104 Stat. 1388–298; Pub. L. 102–486, title XXIX, §2903(a), Oct. 24, 1992, 106 Stat. 3125; Pub. L. 103–66, title VII, §7001, Aug. 10, 1993, 107 Stat. 401; Pub. L. 105–245, title V, §505, Oct. 7, 1998, 112 Stat. 1856.)
+(Pub. L. 101–508, title VI, §6101, Nov. 5, 1990, 104 Stat. 1388–298; Pub. L. 102–486, title XXIX, §2903(a), Oct. 24, 1992, 106 Stat. 3125; Pub. L. 103–66, title VII, §7001, Aug. 10, 1993, 107 Stat. 401; Pub. L. 105–245, title V, §505, Oct. 7, 1998, 112 Stat. 1856; Pub. L. 106–60, title VI, §604, Sept. 29, 1999, 113 Stat. 501.)
 
 #### Codification
 
@@ -65,6 +65,8 @@ Section is comprised of section 6101 of Pub. L. 101–508. Subsec. (e) of sectio
 Section was enacted as part of the Omnibus Budget Reconciliation Act of 1990, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Amendments
+
+1999—Subsec. (a)(3). Pub. L. 106–60 substituted “September 30, 2000” for “September 30, 1999”.
 
 1998—Subsec. (a)(3). Pub. L. 105–245 substituted “September 30, 1999” for “September 30, 1998”.
 

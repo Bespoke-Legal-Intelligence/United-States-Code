@@ -136,7 +136,7 @@ Subsec. (e). Pub. L. 101–237, §304(a), added subsec. (e).
 
 1988—Pub. L. 100–322, §415(a)(3)(B), inserted “and insurance” in section catchline.
 
-Subsec. (a)(1). Pub. L. 100–322, §415(d)(1), inserted “as specified in subparagraph (B) of this paragraph” before period at end of cl. (A)(ii) and substituted “for purposes specified in section 1810 of this title” for “under section 1810 of this chapter” in cl. (B).
+Subsec. (a)(1). Pub. L. 100–322, §415(d)(1), inserted “as specified in subparagraph (B) of this paragraph” beforeperiod at end of cl. (A)(ii) and substituted “for purposes specified in section 1810 of this title” for “under section 1810 of this chapter” in cl. (B).
 
 Pub. L. 100–253 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Any loan to a veteran eligible for benefits under this chapter, if made for any of the purposes specified in section 1810 of this title and in compliance with the provisions of this chapter, is automatically guaranteed by the United States in an amount not to exceed—
 

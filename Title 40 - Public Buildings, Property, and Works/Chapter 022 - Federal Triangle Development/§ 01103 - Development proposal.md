@@ -18,7 +18,7 @@ The Corporation shall prepare a written proposal for development of the Federal 
 
 &emsp;(7) Design criteria for the building.
 
-&emsp;(8) An estimate of the cost of construction of the building and of the annual cost to theUnited States of leasing the building under section 1105 of this title.
+&emsp;(8) An estimate of the cost of construction of the building and of the annual cost to the United States of leasing the building under section 1105 of this title.
 
 &emsp;(9) Environmental impact documentation for development of the Federal Triangle property under Federal laws and regulations.
 
@@ -76,7 +76,7 @@ In preparing the development proposal under subsection (a) of this section, the 
 
 #### (f) Submission for Congressional review
 
-Not later than 150 days after the date of submission of the development proposal to governmental entities under subsection (e)(1) of this section, the Corporation shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives for review and approval the development proposal with any modifications made under subsection (e)(3) of this section, a statement of the areas of difference between such proposal and the recommended modifications of each such governmental entity, and the views of the Corporation with respect to such differences.
+Not later than 150 days after the date of submission of the development proposal to governmental entities under subsection (e)(1) of this section, the Corporation shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Public Worksand Transportation of the House of Representatives for review and approval the development proposal with any modifications made under subsection (e)(3) of this section, a statement of the areas of difference between such proposal and the recommended modifications of each such governmental entity, and the views of the Corporation with respect to such differences.
 
 #### (g) Funding
 

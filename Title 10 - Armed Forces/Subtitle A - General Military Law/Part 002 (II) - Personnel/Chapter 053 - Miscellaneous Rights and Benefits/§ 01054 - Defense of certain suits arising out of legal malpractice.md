@@ -20,7 +20,7 @@
 
 (e) For purposes of this section, the provisions of section 2680(h) of title 28 shall not apply to a cause of action arising out of a negligent or wrongful act or omission in the provision of legal assistance.
 
-(f) The head of the agency concerned may hold harmless or provide liability insurance for any person described in subsection (a) for damages for injury or loss of property caused by such person's negligent or wrongful act or omission in the provision of authorized legal assistance while acting within the scope of such person's duties if such person is assigned to a foreign country or detailed for service with an entity other than a Federal department, agency, or instrumentality or if the circumstances are such as are likely to preclude the remedies of third persons against the United States described in section 1346(b) of title 28, for such damage or injury.
+(f) The head of the agency concerned may hold harmless or provide liability insurance for any person described in subsection (a) for damages for injury or loss of property caused by such person's negligent or wrongful act or omission in the provision of authorized legal assistance while acting within the scope of such person's duties if such person is assigned to a foreign country or detailed for service with an entity other than a Federal department, agency, or instrumentality or if the circumstances are such as are likely to preclude the remedies of third persons against the United States described insection 1346(b) of title 28, for such damage or injury.
 
 (g) In this section, the term “head of the agency concerned” means the Secretary of Defense, the Secretary of a military department, or the Secretary of the department in which the Coast Guard is operating, as appropriate.
 

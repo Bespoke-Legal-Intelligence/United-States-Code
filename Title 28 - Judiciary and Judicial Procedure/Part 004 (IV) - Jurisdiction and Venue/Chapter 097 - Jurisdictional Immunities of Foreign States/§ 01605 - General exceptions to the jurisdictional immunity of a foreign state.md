@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) even if the foreign state is or was so designated, if—
 
-&emsp;&emsp;&emsp;(i) the act occurred in the foreign state against which the claim has been broughtand the claimant has not afforded the foreign state a reasonable opportunity to arbitrate the claim in accordance with accepted international rules of arbitration; or
+&emsp;&emsp;&emsp;(i) the act occurred in the foreign state against which the claim has been brought and the claimant has not afforded the foreign state a reasonable opportunity to arbitrate the claim in accordance with accepted international rules of arbitration; or
 
 &emsp;&emsp;&emsp;(ii) neither the claimant nor the victim was a national of the United States (as that term is defined in section 101(a)(22) of the Immigration and Nationality Act) when the act upon which the claim is based occurred.
 
@@ -56,7 +56,7 @@ Limitation on Discovery.—
 
 In general.—(A) Subject to paragraph (2), if an action is filed that would otherwise be barred by section 1604, but for subsection (a)(7), the court, upon request of the Attorney General, shall stay any request, demand, or order for discovery on the United States that the Attorney General certifies would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action, until such time as the Attorney General advises the court that such request, demand, or order will no longer so interfere.
 
-&emsp;(B) A stay under this paragraph shall be in effect during the 12-month period beginning on the date on which the court issues the order to stay discovery. The court shall renew the order to stay discovery for additional 12-month periods upon motion by the United States if the Attorney General certifies that discovery would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action.
+&emsp;(B) A stay under this paragraph shall be in effect during the 12-month period beginning on the date on which the court issues the order to stay discovery. The court shall renew theorder to stay discovery for additional 12-month periods upon motion by the United States if the Attorney General certifies that discovery would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action.
 
 &emsp;(2)
 
@@ -132,7 +132,7 @@ Pub. L. 104–208, div. A, title I, §101(c) \[title V, §589\], Sept. 30, 1996,
 
 “(a) an \[sic\] official, employee, or agent of a foreign state designated as a state sponsor of terrorism designated \[sic\] under section 6(j) of the Export Administration Act of 1979 \[50 App. U.S.C. 2405(j)\] while acting within the scope of his or her office, employment, or agency shall be liable to a United States national or the national's legal representative for personal injury or death caused by acts of that official, employee, or agent for which the courts of the United States may maintain jurisdiction under section 1605(a)(7) of title 28, United States Code, for money damages which may include economic damages, solatium, pain, and suffering, and punitive damages if the acts were among those described in section 1605(a)(7).
 
-“(b) Provisions related to statute of limitations and limitations on discovery that would apply to an action brought under 28 U.S.C. 1605(f) and (g) shall also apply to actions brought under this section. No action shall be maintained under this action \[sic\] if an official, employee, or agent of the United States, while acting within the scope of his or her office, employment, or agency would not be liable for such acts if carried out within the United States.”
+“(b) Provisions related to statute of limitations and limitations on discovery that would apply to an actionbrought under 28 U.S.C. 1605(f) and (g) shall also apply to actions brought under this section. No action shall be maintained under this action \[sic\] if an official, employee, or agent of the United States, while acting within the scope of his or her office, employment, or agency would not be liable for such acts if carried out within the United States.”
 
 #### Section Referred to in Other Sections
 

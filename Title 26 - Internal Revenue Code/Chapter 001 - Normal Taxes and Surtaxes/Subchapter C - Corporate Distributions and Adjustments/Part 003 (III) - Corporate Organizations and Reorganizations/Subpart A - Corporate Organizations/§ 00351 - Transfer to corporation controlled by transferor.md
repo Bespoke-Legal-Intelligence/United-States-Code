@@ -24,7 +24,7 @@ If subsection (a) would apply to an exchange but for the fact that there is rece
 
 #### (2) Special rule for section 355
 
-&emsp;If the requirements of section 355 (or so much of section 356 as relates to section 355) are met with respect to a distribution described in paragraph (1), then, solely for purposes of determining the tax treatment of thetransfers of property to the controlled corporation by the distributing corporation, the fact that the shareholders of the distributing corporation dispose of part or all of the distributed stock, or the fact that the corporation whose stock was distributed issues additional stock, shall not be taken into account in determining control for purposes of this section.
+&emsp;If the requirements of section 355 (or so much of section 356 as relates to section 355) are met with respect to a distribution described in paragraph (1), then, solely for purposes of determining the tax treatment of the transfers of property to the controlled corporation by the distributing corporation, the fact that the shareholders of the distributing corporation dispose of part or all of the distributed stock, or the fact that the corporation whose stock was distributed issues additional stock, shall not be taken into account in determining control for purposes of this section.
 
 #### (d) Services, certain indebtedness, and accrued interest not treated as property
 
@@ -114,7 +114,7 @@ If—
 
 #### (B) Limitations
 
-&emsp;&emsp;Clauses (i), (ii), and (iii) of subparagraph (A) shall apply only if the right or obligation referred to therein may be exercised withinthe 20-year period beginning on the issue date of such stock and such right or obligation is not subject to a contingency which, as of the issue date, makes remote the likelihood of the redemption or purchase.
+&emsp;&emsp;Clauses (i), (ii), and (iii) of subparagraph (A) shall apply only if the right or obligation referred to therein may be exercised within the 20-year period beginning on the issue date of such stock and such right or obligation is not subject to a contingency which, as of the issue date, makes remote the likelihood of the redemption or purchase.
 
 #### (C) Exceptions for certain rights or obligations
 
@@ -130,7 +130,7 @@ If—
 
 &emsp;&emsp;&emsp;Clause (i)(I) shall not apply if the stock relinquished in the exchange, or the stock acquired in the exchange is in—
 
-&emsp;&emsp;&emsp;&emsp;(I) a corporation if any class of stock in such corporation or a related party is readily tradable on an established securities market or otherwise, or
+&emsp;&emsp;&emsp;&emsp;(I) a corporation if any class of stock in such corporation or a related party isreadily tradable on an established securities market or otherwise, or
 
 &emsp;&emsp;&emsp;&emsp;(II) any other corporation if such exchange is part of a transaction or series of transactions in which such corporation is to become a corporation described in subclause (I).
 
@@ -152,7 +152,7 @@ If—
 
 #### (h) Cross references
 
-&emsp;&emsp;<b>(1) For special rule where another party to the exchange assumes a liability, or acquires property subject to a liability, see section 357.</b>
+&emsp;&emsp;<b>(1) For special rule where another party to the exchange assumes a liability </b><b><sup>1</sup></b> see section 357.
 
 &emsp;&emsp;<b>(2) For the basis of stock or property received in an exchange to which this section applies, see sections 358 and 362.</b>
 
@@ -162,9 +162,11 @@ If—
 
 &emsp;&emsp;<b>(5) For coordination of this section with section 304, see section 304(b)(3).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 111; Pub. L. 89–809, title II, §203(a), (b), Nov. 13, 1966, 80 Stat. 1577; Pub. L. 94–455, title XIX, §1901(a)(48)(A), (B), Oct. 4, 1976, 90 Stat. 1772; Pub. L. 96–589, §5(e), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–248, title II, §226(a)(1)(B), Sept. 3, 1982, 96 Stat. 491; Pub. L. 100–647, title I, §1018(d)(5)(G), Nov. 10, 1988, 102 Stat. 3580; Pub. L. 101–239, title VII, §7203(a), (b), Dec. 19, 1989, 103 Stat. 2333; Pub. L. 101–508, title XI, §11704(a)(3), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 105–34, title X, §§1002(a), 1012(c)(1), 1014(a), Aug. 5, 1997, 111 Stat. 909, 916, 919; Pub. L. 105–206, title VI, §6010(c)(3)(A), (e)(1), July 22, 1998, 112 Stat. 813, 814; Pub. L. 105–277, div. J, title IV, §4003(f)(1), Oct. 21, 1998, 112 Stat. 2681–910.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 111; Pub. L. 89–809, title II, §203(a), (b), Nov. 13, 1966, 80 Stat. 1577; Pub. L. 94–455, title XIX, §1901(a)(48)(A), (B), Oct. 4, 1976, 90 Stat. 1772; Pub. L. 96–589, §5(e), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–248, title II, §226(a)(1)(B), Sept. 3, 1982, 96 Stat. 491; Pub. L. 100–647, title I, §1018(d)(5)(G), Nov. 10, 1988, 102 Stat. 3580; Pub. L. 101–239, title VII, §7203(a), (b), Dec. 19, 1989, 103 Stat. 2333; Pub. L. 101–508, title XI, §11704(a)(3), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 105–34, title X, §§1002(a), 1012(c)(1), 1014(a), Aug. 5, 1997, 111 Stat. 909, 916, 919; Pub. L. 105–206, title VI, §6010(c)(3)(A), (e)(1), July 22, 1998, 112 Stat. 813, 814; Pub. L. 105–277, div. J, title IV, §4003(f)(1), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–36, title III, §3001(d)(1), June 25, 1999, 113 Stat. 183.)
 
 #### Amendments
+
+1999—Subsec. (h)(1). Pub. L. 106–36 struck out “, or acquires property subject to a liability,” after “liability”.
 
 1998—Subsec. (c). Pub. L. 105–206, §6010(c)(3)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In determining control for purposes of this section—
 
@@ -217,6 +219,10 @@ Subsec. (d). Pub. L. 94–455, §1901(a)(48)(B), among other changes, substitute
 1966—Subsec. (a). Pub. L. 89–809, §203(a), inserted “(including, in the case of transfers made on or before June 30, 1967, an investment company)” after “if property is transferred to a corporation”.
 
 Subsecs. (d), (e). Pub. L. 89–809, §203(b), added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–36, title III, §3001(e), June 25, 1999, 113 Stat. 184, provided that: “The amendments made bythis section \[amending this section and sections 357, 358, 362, 368, 584, and 1031 of this title\] shall apply to transfers after October 18, 1998.”
 
 #### Effective Date of 1998 Amendments
 

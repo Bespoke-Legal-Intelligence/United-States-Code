@@ -74,7 +74,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 &emsp;(C)(i) A Regional Corporation may amend its articles of incorporation to authorize the issuance of additional shares of Settlement Common Stock as a dividend or other distribution (without regard to surplus of the corporation under the laws of the State) upon each outstanding share of Settlement Common Stock issued pursuant to subparagraphs (A) and (B).
 
-&emsp;(ii) The amendment authorized by clause (i) may provide that shares of Settlement Common Stock issued as a dividend or other distribution shall constitute a separate class ofstock with greater per share voting power than Settlement Common Stock issued pursuant to subparagraphs (A) and (B).
+&emsp;(ii) The amendment authorized by clause (i) may provide that shares of Settlement Common Stock issued as a dividend or other distribution shall constitute a separate class of stock with greater per share voting power than Settlement Common Stock issued pursuant to subparagraphs (A) and (B).
 
 #### (2) Other forms of stock
 
@@ -144,7 +144,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 &emsp;(A)(i) No shares of stock issued pursuant to paragraphs (1)(C) and (2) shall carry rights to share in distributions made to shareholders pursuant to subsections (j) and (m) of this section. No shares of stock issued pursuant to paragraph (1)(B) shall carry such rights unless authorized pursuant to paragraph (1)(B)(iv).
 
-&emsp;(ii) Notwithstanding the issuance of additional shares of stock pursuant to paragraphs <sup>1</sup>\(1)(B), (1)(C), or (2), a Regional Corporation shall apply the ratio last computed pursuant to subsection (m) of this section prior to February 3, 1988, for purposes of distributing funds pursuant to subsections (j) and (m) of this section.
+&emsp;(ii) Notwithstanding the issuance of additional shares of stock pursuant to paragraphs <sup>1</sup> (1)(B), (1)(C), or (2), a Regional Corporation shall apply the ratio last computed pursuant to subsection (m) of this section prior to February 3, 1988, for purposes of distributing funds pursuant to subsections (j) and (m) of this section.
 
 &emsp;(B) The issuance of additional shares of stock pursuant to paragraphs <sup>1</sup> (1)(B), (1)(C), or (2) shall not affect the division and distribution of revenues pursuant to subsection (i) of this section.
 
@@ -218,7 +218,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 &emsp;(B)(i) Replacement Common Stock issued in exchange for Settlement Common Stock issued subject to the restriction authorized by subsection (g)(1)(B)(iii) of this section shall bear a legend indicating that the stock will eventually be canceled in accordance with the requirements of that subsection.
 
-&emsp;(ii) Prior to the termination of alienability restrictions, the board of directors of the corporation shall approve a resolution to provide that each share of Settlement Common Stock carrying the right to share in distributions made to shareholders pursuant to subsections\(j) and (m) of this section shall be exchanged either for—
+&emsp;(ii) Prior to the termination of alienability restrictions, the board of directors of the corporation shall approve a resolution to provide that each share of Settlement Common Stock carrying the right to share in distributions made to shareholders pursuant to subsections (j) and (m) of this section shall be exchanged either for—
 
 &emsp;&emsp;(I) a share of Replacement Common Stock that carries such right, or
 
@@ -318,7 +318,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 #### (j) Corporate funds and other net income, distribution among: stockholders of Regional Corporations; Village Corporations and nonresident stockholders; and stockholders of thirteenth Regional Corporation
 
-During the five years following December 18, 1971, not less than 10% of all corporate funds received by each of the twelve Regional Corporations under section 1605 of this title (Alaska Native Fund), and under subsection (i) of this section (revenues from the timber resources and subsurface estate patented to it pursuant to this chapter), and all other net income, shall be distributed among the stockholders of the twelve Regional Corporations. Not less than 45% of funds from such sources during the first five-year period, and 50% thereafter, shall be distributed among the Village Corporations in the region and the class of stockholders who are not residents of those villages, as provided in subsection <sup>2</sup> to it. In the case of the thirteenth Regional Corporation, if organized, not less than 50% of all corporate funds received under section1605 of this title shall be distributed to the stockholders.
+During the five years following December 18, 1971, not less than 10% of all corporate funds received by each of the twelve Regional Corporations under section 1605 of this title (Alaska Native Fund), and under subsection (i) of this section (revenues from the timber resources and subsurface estate patented to it pursuant to this chapter), and all other net income, shall be distributed among the stockholders of the twelve Regional Corporations. Not less than 45% of funds from such sources during the first five-year period, and 50% thereafter, shall be distributed among the Village Corporations in the region and the class of stockholders who are not residents of those villages, as provided in subsection <sup>2</sup> to it. In the case of the thirteenth Regional Corporation, if organized, not less than 50% of all corporate funds received under section 1605 of this title shall be distributed to the stockholders.
 
 #### (k) Distributions among Village Corporations; computation of amount
 
@@ -338,7 +338,7 @@ The Regional Corporation may undertake on behalf of one or more of the Village C
 
 #### (<i>o</i>) Annual audit; place; availability of papers, things, or property to auditors to facilitate audits; verification of transactions; report to stockholders
 
-The accounts of the Regional Corporation shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants, certified or licensed by a regulatory authority of the State or the United States. The audits shall be conducted at the place or places where the accounts of the Regional Corporation are normally kept. All books, accounts, financial records, reports, files, and other papers, things, or property belonging to or in use by the Regional Corporation and necessary to facilitate the audits shall be available to the person or persons conducting the audits; and full facilities for verifying transactions with the balances or securities held by depositories, fiscal agent, and custodians shall be afforded to such person or persons. Each audit report or a fair and reasonably detailed summary thereof shall be transmitted to each stockholder.
+The accounts of the Regional Corporation shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants, certified or licensed by a regulatory authority of the State or the United States. The audits shall be conducted at the place or places where the accountsof the Regional Corporation are normally kept. All books, accounts, financial records, reports, files, and other papers, things, or property belonging to or in use by the Regional Corporation and necessary to facilitate the audits shall be available to the person or persons conducting the audits; and full facilities for verifying transactions with the balances or securities held by depositories, fiscal agent, and custodians shall be afforded to such person or persons. Each audit report or a fair and reasonably detailed summary thereof shall be transmitted to each stockholder.
 
 #### (p) Federal-State conflict of laws
 
@@ -370,7 +370,7 @@ Subsec. (i). Pub. L. 104–42 designated existing provisions as par. (1) and add
 
 Subsec. (h)(1)(C)(iii). Pub. L. 102–415, §4, substituted “nephew, or (if the holder has reached the age of majority as defined by the laws of the State of Alaska) brother or sister” for “or nephew”.
 
-1988—Subsec. (g). Pub. L. 100–241, §4, amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Regional Corporation shall be authorizedto issue such number of shares of common stock, divided into such classes of shares as may be specified in the articles of incorporation to reflect the provisions of this chapter, as may be needed to issue one hundred shares of stock to each Native enrolled in the region pursuant to section 1604 of this title.”
+1988—Subsec. (g). Pub. L. 100–241, §4, amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Regional Corporation shall be authorized to issue such number of shares of common stock, divided into such classes of shares as may be specified in the articles of incorporation to reflect the provisions of this chapter, as may be needed to issue one hundred shares of stock to each Native enrolled in the region pursuant to section 1604 of this title.”
 
 Subsec. (h)(1), (2). Pub. L. 100–241, §5, amended pars. (1) and (2) generally, changing structure of each from a single unlettered paragraph to one consisting of subpars. (A) to (C).
 

@@ -6,7 +6,7 @@ The Director may make supplemental grants as provided in section 10603(a) of thi
 
 #### (b) Victims of terrorism within United States
 
-The Director may make supplemental grants as provided in section 10603(d)(4)(B) of this title to States for eligible crime victim compensation and assistance programs to provide emergency relief, including crisis response efforts, assistance, training, and technical assistance, for thebenefit of victims of terrorist acts or mass violence occurring within the United States and may provide funding to United States Attorney's Offices for use in coordination with State victim compensation and assistance efforts in providing emergency relief.
+The Director may make supplemental grants as provided in section 10603(d)(4)(B) of this title to States for eligible crime victim compensation and assistance programs to provide emergency relief, including crisis response efforts, assistance, training, and technical assistance, for the benefit of victims of terrorist acts or mass violence occurring within the United States and may provide funding to United States Attorney's Offices for use in coordination with State victim compensation and assistance efforts in providing emergency relief.
 
 (Pub. L. 98–473, title II, §1404B, as added Pub. L. 104–132, title II, §232(a), Apr. 24, 1996, 110 Stat. 1243.)
 

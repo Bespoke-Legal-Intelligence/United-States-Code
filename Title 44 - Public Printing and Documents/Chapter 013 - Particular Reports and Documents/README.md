@@ -39,8 +39,7 @@
 | [1334\.](%C2%A7%2001334%20-%20Naval%20Intelligence%20Office%20additional%20copies%20of%20publications.md) | Naval Intelligence Office: additional copies of publications. |
 | [1335\.](%C2%A7%2001335%20-%20Naval%20Observatory%20Observations.md) | Naval Observatory Observations. |
 | [1336\.](%C2%A7%2001336%20-%20National%20Imagery%20and%20Mapping%20Agency%20special%20publications.md) | National Imagery and Mapping Agency: special publications. |
-| [1337\.](%C2%A7%2001337%20-%20Patent%20Office%20publications%20authorized%20to%20be%20printed.md) | Patent Office: publications authorized to be printed. |
-| [1338\.](%C2%A7%2001338%20-%20Patent%20Office%20limitations%20and%20conditions%20concerning%20printing%20and%20lithographing.md) | Patent Office: limitations and conditions concerning printing and lithographing. |
+| \[1337, 1338. Repealed.\] |  |
 | [1339\.](%C2%A7%2001339%20-%20Printing%20of%20the%20President%27s%20Message.md) | Printing of the President's message. |
 | [1340\.](%C2%A7%2001340%20-%20Public%20Printer%20annual%20report.md) | Public Printer: annual report. |
 | [1341\.](%C2%A7%2001341%20-%20Smithsonian%20Institution%20report.md) | Smithsonian Institution: report. |
@@ -56,6 +55,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(25)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–585, struck out items 1337 “Patent Office: publications authorized to be printed” and 1338 “Patent Office: limitations and conditions concerning printing and lithographing”.
 
 1996—Pub. L. 104–316, title I, §123(b)(2), Oct. 19, 1996, 110 Stat. 3839, struck out item 1311 “Comptroller General: decisions”.
 
@@ -171,8 +172,7 @@ United Nations Organization, reports to Congress by President, see section 287b 
 - [&sect; 01334 - Naval Intelligence Office additional copies of publications](%C2%A7%2001334%20-%20Naval%20Intelligence%20Office%20additional%20copies%20of%20publications.md)
 - [&sect; 01335 - Naval Observatory Observations](%C2%A7%2001335%20-%20Naval%20Observatory%20Observations.md)
 - [&sect; 01336 - National Imagery and Mapping Agency special publications](%C2%A7%2001336%20-%20National%20Imagery%20and%20Mapping%20Agency%20special%20publications.md)
-- [&sect; 01337 - Patent Office publications authorized to be printed](%C2%A7%2001337%20-%20Patent%20Office%20publications%20authorized%20to%20be%20printed.md)
-- [&sect; 01338 - Patent Office limitations and conditions concerning printing and lithographing](%C2%A7%2001338%20-%20Patent%20Office%20limitations%20and%20conditions%20concerning%20printing%20and%20lithographing.md)
+- [&sect; 01337, 1338 - Repealed. Pub. L. 106&#8211;113, div. B, &sect;1000(a)(9) \[title IV, &sect;4732(b)(25)\], Nov. 29, 1999, 113 Stat. 1536, 1501A&#8211;585](%C2%A7%2001337%2C%201338%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93113%2C%20div.%20B%2C%20%C2%A71000%28a%29%289%29%20%5Btitle%20IV%2C%20%C2%A74732%28b%29%2825%29%5D%2C%20Nov.%2029%2C%201999%2C%20113%20Stat.%201536%2C%201501A%E2%80%93585.md)
 - [&sect; 01339 - Printing of the President's Message](%C2%A7%2001339%20-%20Printing%20of%20the%20President%27s%20Message.md)
 - [&sect; 01340 - Public Printer annual report](%C2%A7%2001340%20-%20Public%20Printer%20annual%20report.md)
 - [&sect; 01341 - Smithsonian Institution report](%C2%A7%2001341%20-%20Smithsonian%20Institution%20report.md)

@@ -18,6 +18,90 @@ Functions of President respecting certain facilities constructed and maintained 
 
 National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreign intelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by act July 26, 1947, ch. 343, title I, §102, 61 Stat. 497, set out as section 403 of Title 50, War and National Defense.
 
+#### Record of War Criminals and Sanctioned Countries, Entities, and Municipalities; Role of Human Rights Organizations and Government Agencies
+
+Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §566(e), (g), (j), (k)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–107 to 1501A–109, provided that:
+
+“(e)
+
+Sanctioned Country, Entity, or Municipality.—A sanctioned country, entity, or municipality described in this section \[113 Stat. 1501A–106\] is one whose competent authorities have failed, as determined by the Secretary of State, to take necessary and significant steps to apprehend and transfer to the Tribunal all persons who have been publicly indicted by the Tribunal.
+
+“(g)
+
+Current Record of War Criminals and Sanctioned Countries, Entities, and Municipalities.—
+
+&emsp;“(1)
+
+In general.—The Secretary of State shall establish and maintain a current record of the location, including the municipality, if known, of publicly indicted war criminals and a current record of sanctioned countries, entities, and municipalities.
+
+&emsp;“(2)
+
+Information of the dci and the secretary of defense.—The Director of Central Intelligence and the Secretary of Defense should collect and provideto the Secretary of State information concerning the location, including the municipality, of publicly indicted war criminals.
+
+&emsp;“(3)
+
+Information of the tribunal.—The Secretary of State shall request that the Tribunal and other international organizations and governments provide the Secretary of State information concerning the location, including the municipality, of publicly indicted war criminals and concerning country, entity and municipality authorities known to have obstructed the work of the Tribunal.
+
+&emsp;“(4)
+
+Report.—Beginning 30 days after the date of the enactment of this Act \[Nov. 29, 1999\], and not later than September 1 each year thereafter, the Secretary of State shall submit a report in classified and unclassified form to the appropriate congressional committees on the location, including the municipality, if known, of publicly indicted war criminals, on country, entity and municipality authorities known to have obstructed the work of the Tribunal, and on sanctioned countries, entities, and municipalities.
+
+&emsp;“(5)
+
+Information to congress.—Upon the request of the chairman or ranking minority member of any of the appropriate congressional committees, the Secretary of State shall make available to that committee the information recorded under paragraph (1) in a report submitted to the committee in classified and unclassified form.
+
+“(j)
+
+Definitions.—As used in this section—
+
+&emsp;“(1)
+
+Country.—The term ‘country’ means Bosnia-Herzegovina, Croatia, and Serbia.
+
+&emsp;“(2)
+
+Entity.—The term ‘entity’ refers to the Federation of Bosnia and Herzegovina, Kosova, Montenegro, and the Republika Srpska.
+
+&emsp;“(3)
+
+Dayton agreement.—The term ‘Dayton Agreement’ means the General Framework Agreement for Peace in Bosnia and Herzegovina, together with annexes relating thereto, done at Dayton, November 10 through 16, 1995.
+
+&emsp;“(4)
+
+Tribunal.—The term ‘Tribunal’ means the International Criminal Tribunal for the Former Yugoslavia.
+
+“(k)
+
+Role of Human Rights Organizations and Government Agencies.—In carrying out this section, the Secretary of State, the Administrator of the Agency for International Development, and the executive directors of the international financial institutions shall consult with representatives of human rights organizations and all government agencies with relevant information to help prevent publicly indicted war criminals from benefiting from any financial or technical assistance or grants provided to any country or entity described in subsection (e).”
+
+#### Report Concerning Financial Disadvantages for Administrative and Technical Personnel
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §338\], Nov. 29, 1999, 113 Stat. 1536, 1501A–443, provided that:
+
+“(a)
+
+Findings.—Congress finds that administrative and technical personnel posted to United States missions abroad who do not have diplomatic status suffer financial disadvantages from their lack of such status.
+
+“(b)
+
+Report.—Not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1999\], the Secretary of State should submit a report to the appropriate congressional committees \[Committee on International Relations of the House of Representatives and Committee on Foreign Relations of the Senate\] concerning the extent to which administrative and technical personnel posted to United States missions abroad who do not have diplomatic status suffer financial disadvantages from their lack of such status, including proposals to alleviate such disadvantages.”
+
+#### Prisoner Information Registry for the People's Republic of China
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VIII, §873\], Nov. 29, 1999, 113 Stat. 1536, 1501A–474, provided that:
+
+“(a)
+
+Requirement.—The Secretary of State shall establish and maintain a registry which shall, to the extent practicable, provide information on all political prisoners, prisoners of conscience, and prisoners of faith in the People's Republic of China. The registry shall be known as the ‘Prisoner Information Registry for the People's Republic of China’.
+
+“(b)
+
+Information in Registry.—The registry required by subsection (a) shall include information on the charges, judicial processes, administrative actions, uses of forced labor, incidents of torture, lengths of imprisonment, physical and health conditions, and other matters associated with the incarceration of prisoners in the People's Republic of China referred to in that subsection.
+
+“(c)
+
+Availability of Funds.—The Secretary may make a grant to nongovernmental organizations currently engaged in monitoring activities regarding political prisoners in the People's Republic of China in order to assist in the establishment and maintenance of the registry required by subsection (a).”
+
 #### Report to Congress on Activities of North Korean Armed Forces
 
 Pub. L. 104–208, div. A, title I, §101(c) \[title V, §585\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–171, provided that: “Ninety days after the date of enactment of this Act \[Sept. 30, 1996\], and every 180 days thereafter, the Secretary of State, in consultation with the Secretary of Defense, shall provide a report in a classified or unclassified form to the Committee on Appropriations including the following information:
@@ -32,9 +116,11 @@ Pub. L. 104–208, div. A, title I, §101(c) \[title V, §585\], Sept. 30, 1996,
 
 #### Reports to War Crimes Tribunal for Former Yugoslavia
 
-Pub. L. 105–277, div. A, §101(d) \[title V, §554\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–188, provided in part: “That sixty days after the date of enactment of this Act \[Oct. 21, 1998\], and every one hundred eighty days thereafter, the Secretary of State shall submit a report to the Committees on Appropriations describing the steps the United States Government is taking to collect information regarding allegations of genocide or other violations of international law in the former Yugoslavia and to furnish that information to the United Nations War Crimes Tribunal for the former Yugoslavia”.
+Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §552\], Nov. 29, 1999, 113 Stat. 1535, 1501A–99, provided in part: “That 60 days after the date of the enactment of this Act \[Nov. 29, 1999\], and every 180 days thereafter, the Secretary of State shall submit a report to the Committees on Appropriations describing the steps the United States Government is taking to collect information regarding allegations of genocide or other violations of international law in the former Yugoslavia and to furnish that information to the United Nations War Crimes Tribunal for the former Yugoslavia”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–277, div. A, §101(d) \[title V, §554\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–188.
 
 Pub. L. 105–118, title V, §553, Nov. 26, 1997, 111 Stat. 2422.
 
@@ -158,7 +244,7 @@ Pub. L. 100–204, title I, §109, Dec. 22, 1987, 101 Stat. 1339, provided that:
 
 #### Consular and Diplomatic Posts Abroad
 
-Pub. L. 100–204, title I, §122, Dec. 22, 1987, 101 Stat. 1339, prohibited use of appropriated funds for closing United States consular or diplomatic posts abroad, or for paying expenses related to Bureau of Administration of Department of State if a post was closed after Jan. 1, 1987, and not reopened, provided funding for certain consulates, provided exceptions for prohibition on use of appropriated funds, permitted Secretary ofState, in case of a sequestration order, to submit a report proposing a list of consular posts to be downgraded or closed in order to comply with sequestration order, and provided that the prohibitions were to be effective 180 days after Dec. 22, 1987, prior to repeal by Pub. L. 102–138, title I, §112(b), Oct. 28, 1991, 105 Stat. 655. See section 2720 of this title.
+Pub. L. 100–204, title I, §122, Dec. 22, 1987, 101 Stat. 1339, prohibited use of appropriated funds for closing United States consular or diplomatic posts abroad, or for paying expenses related to Bureau of Administration of Department of State if a post was closed after Jan. 1, 1987, and not reopened, provided funding for certain consulates, provided exceptions for prohibition on use of appropriated funds, permitted Secretary of State, in case of a sequestration order, to submit a report proposing a list of consular posts to be downgraded or closed in order to comply with sequestration order, and provided that the prohibitions were to be effective 180 days after Dec. 22, 1987, prior to repeal by Pub. L. 102–138, title I, §112(b), Oct. 28, 1991, 105 Stat. 655. See section 2720 of this title.
 
 #### Closing of Diplomatic and Consular Posts in Antigua and Barbuda
 
@@ -280,5 +366,5 @@ Pub. L. 95–426, title VI, §603, Oct. 7, 1978, 92 Stat. 985, as amended by Pub
 
 #### Diplomatic Relations With Foreign Government Not Indication of Approval of Such Government
 
-Pub. L. 95–426, title VI, §607, Oct. 7, 1978, 92 Stat. 988, provided that: “The Congress finds that the conduct of diplomatic relations with a foreign government has as its principal purpose the discussion and negotiation with that government of outstanding issues and, like the recognition of a foreign government, does not in itself imply approval of that government or of the political-economic system it represents.”
+Pub. L. 95–426, title VI, §607, Oct. 7, 1978, 92 Stat. 988, provided that: “The Congress finds that the conduct ofdiplomatic relations with a foreign government has as its principal purpose the discussion and negotiation with that government of outstanding issues and, like the recognition of a foreign government, does not in itself imply approval of that government or of the political-economic system it represents.”
 

@@ -24,7 +24,7 @@ Any person who violates any provision of this chapter or the rules or regulation
 
 #### (c) Joint and several liability for communicating
 
-Any person who violates any provision of this chapter or the rules or regulations thereunderby communicating material, nonpublic information shall be jointly and severally liable under subsection (a) of this section with, and to the same extent as, any person or persons liable under subsection (a) of this section to whom the communication was directed.
+Any person who violates any provision of this chapter or the rules or regulations thereunder by communicating material, nonpublic information shall be jointly and severally liable under subsection (a) of this section with, and to the same extent as, any person or persons liable under subsection (a) of this section to whom the communication was directed.
 
 #### (d) Authority not to restrict other express or implied rights of action
 

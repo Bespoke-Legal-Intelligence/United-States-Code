@@ -10,7 +10,7 @@ For the purposes of this subchapter, the term—
 
 &emsp;(4) “award” means any decision by an arbitrator resolving the issues in controversy;
 
-&emsp;(5) “dispute resolution communication” means any oral or written communication prepared for the purposes of a dispute resolutionproceeding, including any memoranda, notes or work product of the neutral, parties or nonparty participant; except that a written agreement to enter into a dispute resolution proceeding, or final written agreement or arbitral award reached as a result of a dispute resolution proceeding, is not a dispute resolution communication;
+&emsp;(5) “dispute resolution communication” means any oral or written communication prepared for the purposes of a dispute resolution proceeding, including any memoranda, notes or work product of the neutral, parties or nonparty participant; except that a written agreement to enter into a dispute resolution proceeding, or final written agreement or arbitral award reached as a result of a dispute resolution proceeding, is not a dispute resolution communication;
 
 &emsp;(6) “dispute resolution proceeding” means any process in which an alternative means of dispute resolution is used to resolve an issue in controversy in which a neutral is appointed and specified parties participate;
 

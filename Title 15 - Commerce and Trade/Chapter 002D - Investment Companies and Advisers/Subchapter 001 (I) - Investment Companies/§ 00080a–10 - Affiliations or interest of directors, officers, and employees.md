@@ -66,7 +66,11 @@ In the case of a registered management company which is an unincorporated compan
 
 &emsp;(3) the provisions of subsection (f) of this section shall apply to purchases and other acquisitions for the account of such company of securities a principal underwriter of which is the depositor or an investment adviser of such company, or an affiliated person of such depositor or investment adviser.
 
-(Aug. 22, 1940, ch. 686, title I, §10, 54 Stat. 806; Pub. L. 91–547, §5, Dec. 14, 1970, 84 Stat. 1416; Pub. L. 94–29, §28(5), June 4, 1975, 89 Stat. 165.)
+(Aug. 22, 1940, ch. 686, title I, §10, 54 Stat. 806; Pub. L. 91–547, §5, Dec. 14, 1970, 84 Stat. 1416; Pub. L. 94–29, §28(5), June 4, 1975, 89 Stat. 165; Pub. L. 106–102, title II, §213(c), Nov. 12, 1999, 113 Stat. 1398.)
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 106–102, title II, §§213(c), 225, Nov. 12, 1999, 113 Stat. 1398, 1402, provided that, effective 18 months after Nov. 12, 1999, subsection (c) of this section is amended by striking “bank, except” and inserting “bank (together with its affiliates and subsidiaries) or any one bank holding company (together with its affiliates and subsidiaries) (as such terms are defined in section 1841 of title 12), except”.</i>
 
 #### Amendments
 
@@ -81,6 +85,10 @@ Subsec. (b)(2). Pub. L. 91–547, §5(b)(2), substituted “interested” for �
 Subsec. (c). Pub. L. 91–547, §5(c), struck out introductory text “After the effective date of this subchapter”, substituted “No”, “, except that”, “had a majority”, and “such company” for “no”, “: <i>Provided</i>, That”, “shall have had a majority”, and “such company”, respectively, and inserted reference to employees where first appearing.
 
 Subsec. (d). Pub. L. 91–547, §5(d), reenacted provisions except for substitution of “interested persons” for “affiliated persons” in introductory text, deletion of “such investment adviser” before “is engaged” in item (2), and substitution of “class of securities” for “class of stock” and “unit” for “share” in two places in item (8).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–102 effective 18 months after Nov. 12, 1999, see section 225 of Pub. L. 106–102, set out as a note under section 77c of this title.
 
 #### Effective Date of 1975 Amendment
 

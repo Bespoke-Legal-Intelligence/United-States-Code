@@ -94,7 +94,7 @@ The Secretary shall disapprove an application submitted under subsection (a) of 
 
 #### (1) In general
 
-&emsp;In the case of a proposed disposition of a public housing project or portion of a project, the public housing agency shall, in appropriate circumstances, as determined by the Secretary, initially offer the property to any eligible resident organization, eligible resident management corporation, or nonprofit organization acting on behalf of the residents, if that entity has expressed an interest, in writing, to the public housing agency in a timely manner, in purchasing the property for continued use as low-income housing.
+&emsp;In the case of a proposed disposition of a public housing project or portion of a project, the public housing agency shall, in appropriate circumstances, as determined by the Secretary, initially offer the property to any eligible resident organization, eligible resident management corporation, or nonprofit organization acting on behalf of the residents, if that entity has expressed an interest, in writing, to the public housing agency in a timely manner,in purchasing the property for continued use as low-income housing.
 
 #### (2) Timing
 
@@ -126,7 +126,7 @@ The Uniform Relocation and Real Property Acquisition Policies Act of 1970 \[42 U
 
 Of the amounts appropriated for tenant-based assistance under section 1437f of this title in any fiscal year, the Secretary may use such sums as are necessary for relocation and replacement housing for dwelling units that are demolished and disposed of from the public housing inventory (in addition to other amounts that may be available for such purposes).
 
-(Sept. 1, 1937, ch. 896, title I, §18, as added Pub. L. 98–181, title II, §214(a), Nov. 30, 1983, 97 Stat. 1184; amended Pub. L. 100–242, title I, §§112(b)(9), 121, 170(f), Feb. 5, 1988, 101 Stat. 1824, 1837, 1867; renumbered title I, Pub. L. 100–358, §5, June 29,1988, 102 Stat. 681; Pub. L. 101–625, title IV, §412, title V, §§512(a), 513(b), (c), 572, Nov. 28, 1990, 104 Stat. 4159, 4194–4196, 4236; Pub. L. 102–550, title I, §§111(b)(2), 116(a)–(c), Oct. 28, 1992, 106 Stat. 3688, 3693, 3694; Pub. L. 104–19, title I, §1002(a), July 27, 1995, 109 Stat. 235; Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(2)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–276, title V, §531(a), Oct. 21, 1998, 112 Stat. 2570.)
+(Sept. 1, 1937, ch. 896, title I, §18, as added Pub. L. 98–181, title II, §214(a), Nov. 30, 1983, 97 Stat. 1184; amended Pub. L. 100–242, title I, §§112(b)(9), 121, 170(f), Feb. 5, 1988, 101 Stat. 1824, 1837, 1867; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title IV, §412, title V, §§512(a), 513(b), (c), 572, Nov. 28, 1990, 104 Stat. 4159, 4194–4196, 4236; Pub. L. 102–550, title I, §§111(b)(2), 116(a)–(c), Oct. 28, 1992, 106 Stat. 3688, 3693, 3694; Pub. L. 104–19, title I, §1002(a), July 27, 1995, 109 Stat. 235; Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(2)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–276, title V, §531(a), Oct. 21, 1998, 112 Stat. 2570.)
 
 #### References in Text
 
@@ -186,7 +186,7 @@ Subsec. (a)(2)(B). Pub. L. 101–625, §572, substituted “low-income families�
 
 Pub. L. 101–625, §512(a), inserted before first comma “, which, in the case of scattered-site housing of a public housing agency, shall be in an amount that bears the same ratio to the total of such costs and obligations as the number of units disposed of bears to the total number of units of the project at the time of disposition”.
 
-Subsec. (b)(1). Pub. L. 101–625, §412(a), substituted “disposition, and the tenant councils, resident management corporation, and tenant cooperative, if any, havebeen given appropriate opportunities to purchase the project or portion of the project covered by the application,” for “disposition”.
+Subsec. (b)(1). Pub. L. 101–625, §412(a), substituted “disposition, and the tenant councils, resident management corporation, and tenant cooperative, if any, have been given appropriate opportunities to purchase the project or portion of the project covered by the application,” for “disposition”.
 
 Subsec. (c)(2). Pub. L. 101–625, §513(b), inserted at end “As part of each annual budget request for the Department of Housing and Urban Development, the Secretary shall submit to the Congress a report—”, and added subpars. (A) and (B).
 
@@ -220,7 +220,7 @@ Section 512(b) of Pub. L. 101–625 provided that: “The amendment made by this
 
 #### Replacement Housing Demonstration Program
 
-Section 513(a) of Pub. L. 101–625 directed Secretary of Housing and Urban Development to carry out a program to demonstrate the effectiveness of replacing public housing dwelling units eligible for demolition or disposition with 5-year certificate assistance provided under 42 U.S.C. 1437f, with Secretary to carry out the demonstration only with respect to public housing dwelling units owned or operated by the public housing authority for Saint Louis, Missouri, that before the termination of the demonstration program under this subsection are approved for demolition or disposition, and with the demonstration program to terminate at end of Sept. 30, 1992.
+Section 513(a) of Pub. L. 101–625 directed Secretary of Housing and Urban Development to carry out a program to demonstrate the effectiveness of replacing public housing dwelling units eligible for demolition or disposition with 5-year certificate assistance provided under 42 U.S.C. 1437f, with Secretary to carry out the demonstration only with respect to public housing dwelling units owned or operated by the public housing authority for Saint Louis, Missouri, that before the termination of the demonstration program under thissubsection are approved for demolition or disposition, and with the demonstration program to terminate at end of Sept. 30, 1992.
 
 #### Section Referred to in Other Sections
 

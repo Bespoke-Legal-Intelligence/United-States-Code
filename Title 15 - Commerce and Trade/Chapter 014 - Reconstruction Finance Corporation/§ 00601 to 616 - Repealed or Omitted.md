@@ -8,7 +8,7 @@ Sections 601a, 601b, acts Jan. 20, 1934, ch. 3, §1, 48 Stat. 318; Jan. 31, 1935
 
 Section 602, acts Jan. 22, 1932, ch. 8, §2, formerly §3, 47 Stat. 5; July 21, 1932, ch. 520, §205(b), 47 Stat. 714; July 22, 1932, ch. 522, §6(f), 47 Stat. 728; June 25, 1940, ch. 427, §2, 54 Stat. 572; renumbered and amended June 30, 1947, ch. 166, title I, §1, title II, §206(a), 61 Stat. 202, 208; May 25, 1948, ch. 334, §2, 62 Stat. 262; Oct. 15, 1949, ch. 695, §§4, 5(a), 63 Stat. 880, related to the appointment, qualifications and tenure of directors of the Reconstruction Finance Corporation. It was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 648, 654, 655.
 
-Section 603, acts Jan. 22, 1932, ch. 8, §3, formerly §4, 47 Stat. 5; July 21, 1932, ch. 520, §208(a), 47 Stat. 714; Feb. 24, 1938, ch. 32, §4, 52 Stat. 80; renumbered and amended June 30, 1947, ch. 166, title I, §1, title II, §206(a), 61 Stat. 202, 208; May 25, 1948, ch. 334, §3, 62 Stat. 262; July 30, 1953, ch. 282, title I, §102(a), 67 Stat. 230; June 29, 1954, ch. 410, §2(b), 68 Stat. 320, provided for the powers of the Reconstruction Finance Corporation, including appointment and pay of employees. It was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 648, 654, 655.
+Section 603, acts Jan. 22, 1932, ch. 8, §3, formerly §4, 47 Stat. 5; July 21, 1932, ch. 520, §208(a), 47 Stat. 714; Feb.24, 1938, ch. 32, §4, 52 Stat. 80; renumbered and amended June 30, 1947, ch. 166, title I, §1, title II, §206(a), 61 Stat. 202, 208; May 25, 1948, ch. 334, §3, 62 Stat. 262; July 30, 1953, ch. 282, title I, §102(a), 67 Stat. 230; June 29, 1954, ch. 410, §2(b), 68 Stat. 320, provided for the powers of the Reconstruction Finance Corporation, including appointment and pay of employees. It was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 648, 654, 655.
 
 Section 603a, act Jan. 31, 1935, ch. 2, §1, 49 Stat. 1, related to salaries of officers and employees. It was repealed by act of June 30, 1947, ch. 166, title II, §206(m), 61 Stat. 208.
 
@@ -20,7 +20,7 @@ Section 604, acts Jan. 22, 1932, ch. 8, §4, formerly §5, 47 Stat. 6; June 19, 
 
 Section 604a, act Jan. 20, 1934, ch. 3, §2, 48 Stat. 319, related to time limitation in disbursement of funds committed by the Corporation. It was repealed by act of June 30, 1947, ch. 166, title II, §206(i), 61 Stat. 208.
 
-Section 604b, act Jan. 31, 1935, ch. 2, §2, 49 Stat. 2, related to limitation on disbursement of funds under commitment. It was repealed by act of June 30, 1947, ch.166, title II, §206(m), 61 Stat. 208, as amended May 27, 1948, ch. 334, §6, 62 Stat. 265.
+Section 604b, act Jan. 31, 1935, ch. 2, §2, 49 Stat. 2, related to limitation on disbursement of funds under commitment. It was repealed by act of June 30, 1947, ch. 166, title II, §206(m), 61 Stat. 208, as amended May 27, 1948, ch. 334, §6, 62 Stat. 265.
 
 Section 605, acts Jan. 22, 1932, ch. 8, §5, formerly §6, 47 Stat. 8; May 20, 1933, ch. 35, §2, 48 Stat. 73; June 19, 1934, ch. 653, §2, 48 Stat. 1107; June 25, 1940, ch. 427, §3(a), 54 Stat. 573; Sept. 18, 1940, ch. 722, title III, §331(a), (b), 54 Stat. 955; renumbered and amended June 30, 1947, ch. 166, title I, §1, title II, §206(a), (e), 61 Stat. 202, 208, authorized and directed the Federal Reserve banks to act as custodians and fiscal agents for the Corporation, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 
@@ -52,7 +52,7 @@ Section 605<i>l</i>, act Jan. 31, 1935, ch. 2, §11, 49 Stat. 5, related to subs
 
 Section 605m, acts Jan. 31, 1935, ch. 2, §3, 49 Stat. 2; June 25, 1940, ch. 427, §3(b), 54 Stat. 573; Sept. 18, 1940, ch. 722, title III, §331(c), 54 Stat. 956, related to maturity of loans made by the Corporation generally and to railroads in particular. It was repealed by act of June 30, 1947, ch. 166, title II, §206(m), 61 Stat. 208, as amended May 25, 1948, ch. 334, §6, 62 Stat. 265.
 
-Section 606, acts Jan. 22, 1932, ch. 8, §7, 47 Stat. 8; June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, authorized the Reconstruction Finance Corporation to issue notes, bonds, etc., which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. A prior section 606, act Jan. 22, 1932, ch. 8, §5a, 47 Stat. 8, was omitted in the general revision of act Jan. 22, 1932, by act June 30, 1947, ch. 166. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
+Section 606, acts Jan. 22, 1932, ch. 8, §7, 47 Stat. 8; June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, authorizedthe Reconstruction Finance Corporation to issue notes, bonds, etc., which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. A prior section 606, act Jan. 22, 1932, ch. 8, §5a, 47 Stat. 8, was omitted in the general revision of act Jan. 22, 1932, by act June 30, 1947, ch. 166. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 
 Section 606a, act Jan. 22, 1932, ch. 8, §5e, as added June 16, 1934, ch. 546, §3, 48 Stat. 971; Jan. 31, 1935, ch. 2, §6, 49 Stat. 3, which related to loans on or purchase of assets of closed financial institutions, was omitted by act June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, which generally amended the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5.
 
@@ -66,7 +66,7 @@ Section 606b–3, act Jan. 22, 1932, ch. 8, §5h, as added May 11, 1942, ch. 301
 
 Section 606b–4, act Aug. 7, 1946, ch. 811, §2, 60 Stat. 902, related to purchase of servicemen's guaranteed or insured readjustment loans. It was repealed by act of June 30, 1947, ch. 166, title II, §206(z), 61 Stat. 209.
 
-Section 606b–5, act Aug. 7, 1946, ch. 811, §3, 60 Stat. 902, authorized extension of credit by ReconstructionFinance Corporation to Republic of the Philippines, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
+Section 606b–5, act Aug. 7, 1946, ch. 811, §3, 60 Stat. 902, authorized extension of credit by Reconstruction Finance Corporation to Republic of the Philippines, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 
 Section 606c, act June 19, 1934, ch. 653, §13, 48 Stat. 1112, related to loans for organizing farmers’ mineral rights pools. It was repealed by act of June 30, 1947, ch. 166, title II, §206(k), 61 Stat. 208.
 
@@ -126,7 +126,7 @@ Section 609k, act June 27, 1934, ch. 847, title VI, §602, as added Mar. 28, 194
 
 Sections 609<i>l</i>, 609m, and 609n, act July 1, 1941, ch. 267, §1, 55 Stat. 439, 440, 442, authorized an additional $270,000,000.
 
-Section 609<i>o</i>, act June 10, 1941, ch. 190, §5, 55 Stat. 250, authorized an additional $1,500,000,000. It was repealedby act of June 30, 1947, ch. 166, title II, §206(v), 61 Stat. 209.
+Section 609<i>o</i>, act June 10, 1941, ch. 190, §5, 55 Stat. 250, authorized an additional $1,500,000,000. It was repealed by act of June 30, 1947, ch. 166, title II, §206(v), 61 Stat. 209.
 
 Section 609p, act Oct. 23, 1941, ch. 454, 55 Stat. 744, authorized an additional $1,500,000,000. It was repealed by act of June 30, 1947, ch. 166, title II, §206(w), 61 Stat. 209.
 

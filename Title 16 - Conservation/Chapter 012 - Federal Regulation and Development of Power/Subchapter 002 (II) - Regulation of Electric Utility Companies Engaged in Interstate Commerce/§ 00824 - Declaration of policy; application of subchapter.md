@@ -24,7 +24,7 @@ The term “public utility” when used in this subchapter and subchapter III of
 
 #### (f) United States, State, political subdivision of a State, or agency or instrumentality thereof exempt
 
-No provision in this subchapter shall apply to, or be deemed to include, the United States, a State or any political subdivision of a State, or any agency, authority, or instrumentality ofany one or more of the foregoing, or any corporation which is wholly owned, directly or indirectly, by any one or more of the foregoing, or any officer, agent, or employee of any of the foregoing acting as such in the course of his official duty, unless such provision makes specific reference thereto.
+No provision in this subchapter shall apply to, or be deemed to include, the United States, a State or any political subdivision of a State, or any agency, authority, or instrumentality of any one or more of the foregoing, or any corporation which is wholly owned, directly or indirectly, by any one or more of the foregoing, or any officer, agent, or employee of any of the foregoing acting as such in the course of his official duty, unless such provision makes specific reference thereto.
 
 #### (g) Books and records
 
@@ -40,7 +40,7 @@ No provision in this subchapter shall apply to, or be deemed to include, the Uni
 
 (2) Where a State commission issues an order pursuant to paragraph (1), the State commission shall not publicly disclose trade secrets or sensitive commercial information.
 
-(3) Any United States district court located in the State in which the State commission referred to in paragraph (1) is located shall have jurisdiction to enforce compliance with this subsection.
+(3) Any United States district court located in the State in which the State commission referred to in paragraph (1) is located shall havejurisdiction to enforce compliance with this subsection.
 
 (4) Nothing in this section shall—
 

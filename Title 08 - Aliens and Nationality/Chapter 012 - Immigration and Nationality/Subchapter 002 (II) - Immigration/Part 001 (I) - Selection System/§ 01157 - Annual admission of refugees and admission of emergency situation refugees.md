@@ -2,7 +2,7 @@
 
 #### (a) Maximum number of admissions; increases for humanitarian concerns; allocations
 
-(1) Except as provided in subsection (b) of this section, the number of refugees who may be admitted under this section in fiscal year 1980, 1981, or 1982, may not exceed fifty thousand unless the President determines, before the beginning of the fiscal year and after appropriate consultation (as defined in subsection (e) of this section), that admission of a specific number of refugees in excess of such number is justified byhumanitarian concerns or is otherwise in the national interest.
+(1) Except as provided in subsection (b) of this section, the number of refugees who may be admitted under this section in fiscal year 1980, 1981, or 1982, may not exceed fifty thousand unless the President determines, before the beginning of the fiscal year and after appropriate consultation (as defined in subsection (e) of this section), that admission of a specific number of refugees in excess of such number is justified by humanitarian concerns or is otherwise in the national interest.
 
 (2) Except as provided in subsection (b) of this section, the number of refugees who may be admitted under this section in any fiscal year after fiscal year 1982 shall be such number as the President determines, before the beginning of the fiscal year and after appropriate consultation, is justified by humanitarian concerns or is otherwise in the national interest.
 
@@ -96,9 +96,21 @@ Amendment by section 603(a)(4) of Pub. L. 101–649 applicable to individuals en
 
 Section (with the exception of subsec. (c) which is effective Apr. 1, 1980) effective, except as otherwise provided, Mar. 17, 1980, and applicable to fiscal years beginning with the fiscal year beginning Oct. 1, 1979, see section 204 of Pub. L. 96–212, set out as an Effective Date of 1980 Amendment note under section 1101 of this title.
 
+#### Gender-Related Persecution Task Force
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §254\], Nov. 29, 1999, 113 Stat. 1536, 1501A–432, provided that:
+
+“(a)
+
+Establishment of Task Force.—The Secretary of State, in consultation with the Attorney General and other appropriate Federal agencies, shall establish a task force with the goal of determining eligibility guidelines for women seeking refugee status overseas due to gender-related persecution.
+
+“(b)
+
+Report.—Not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1999\], the Secretary of State shall prepare and submit to the Congress a report outlining the guidelines determined by the task force under subsection (a).”
+
 #### Establishing Categories of Aliens for Purposes of Refugee Determinations
 
-Pub. L. 101–167, title V, §599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, §598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, §582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(1)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(1), Oct. 19, 1996, 110 Stat.3865; Pub. L. 105–118, title V, §574(1), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, title I, §101(f) \[title VII, §705(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389, provided that:
+Pub. L. 101–167, title V, §599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, §598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, §582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(1)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(1), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(1), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240, provided that:
 
 “(a)
 
@@ -120,7 +132,7 @@ Establishment of Categories.—
 
 &emsp;“(C) Aliens who are (or were) nationals and residents of Vietnam, Laos, or Cambodia and who are members of categories of individuals determined, by the Attorney General in accordance with ‘Immigration and Naturalization Service Worldwide Guidelines for Overseas Refugee Processing’ (issued by the Immigration and Naturalization Service in August 1983) shall be deemed a category of alien established under paragraph (1)(B).
 
-&emsp;“(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, and 1999 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
+&emsp;“(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, and 2000 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
 
 “(c)
 
@@ -134,11 +146,11 @@ Permitting Certain Aliens Within Categories to Reapply for Refugee Status.—Eac
 
 Period of Application.—
 
-&emsp;“(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 1999.
+&emsp;“(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 2000.
 
-&emsp;“(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 1999.
+&emsp;“(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 2000.
 
-&emsp;“(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 1999.”
+&emsp;“(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 2000.”
 
 \[Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of Title 22, Foreign Relations and Intercourse, and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of Title 22.\]
 
@@ -153,6 +165,10 @@ Section 204(d)(1) of Pub. L. 96–212 provided that: “Notwithstanding section 
 #### Presidential Determination Concerning Admission and Adjustment of Status of Refugees
 
 Determinations by the President pursuant to this section concerning the admission and adjustment of status of refugees for particular fiscal years were contained in the following Presidential Determinations:
+
+Presidential Determination No. 99–45, Sept. 30, 1999, 64 F.R. 54505.
+
+Presidential Determination No. 99–33, Aug. 12, 1999, 64 F.R. 47341.
 
 Presidential Determination No. 98–39, Sept. 30, 1998, 63 F.R. 55001.
 
@@ -218,5 +234,5 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1101, 1151, 1159, 1181, 1182, 1225, 1252, 1324b, 1522, 1612, 1613, 1622, 1641 of this title; title 7 section 2015; title 22 section 4703; title 42 sections 608, 1382j, 1436a.
+This section is referred to in sections 1101, 1151, 1159, 1181, 1182, 1225, 1252, 1324b, 1522, 1612, 1613, 1622, 1641 of this title; title 7 section 2015; title 22 sections 4703, 6472; title 42 sections 608, 1382j, 1436a, 1869c.
 

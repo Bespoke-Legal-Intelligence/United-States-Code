@@ -36,7 +36,7 @@ The services authorized by this subpart for the high school equivalency program 
 
 &emsp;(6) housing for those enrolled in residential programs;
 
-&emsp;(7) exposure to cultural events, academic programs, and other educational and culturalactivities usually not available to migrant youth; and
+&emsp;(7) exposure to cultural events, academic programs, and other educational and cultural activities usually not available to migrant youth; and
 
 &emsp;(8) other essential supportive services, as needed to ensure the success of eligible students.
 
@@ -134,7 +134,7 @@ The National Center for Education Statistics shall collect postsecondary educati
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(1)(B)(ii) and (c)(1)(A), isPub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Part C of title I of the Act is classified generally to part C (§6391 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(1)(B)(ii) and (c)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Part C of title I of the Act is classified generally to part C (§6391 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 

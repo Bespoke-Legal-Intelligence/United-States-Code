@@ -1,6 +1,6 @@
 ### §7671. Authority for program
 
-As part of the Educational Assistance Program, the Secretary may carry out a scholarship program under this subchapter. The program shall be known as the Department of Veterans Affairs Employee Incentive Scholarship Program (hereafter in this subchapter referred to as the “Program”). The purpose of the Program is to assist, through the establishment of an incentive program for individuals employed in the Veterans Health Administration, in meeting the staffing needs of the Veterans Health Administration for health professional occupations for which recruitment or retention of qualified personnel is difficult.
+As part of the Educational Assistance Program, the Secretary may carry out a scholarship program under this subchapter. The program shall be known as the Department of Veterans Affairs Employee Incentive Scholarship Program (hereafter in this subchapter referred to as the “Program”). The purpose of the Program is to assist, through the establishment of an incentive program for individuals employed in theVeterans Health Administration, in meeting the staffing needs of the Veterans Health Administration for health professional occupations for which recruitment or retention of qualified personnel is difficult.
 
 (Added Pub. L. 105–368, title VIII, §802(a), Nov. 11, 1998, 112 Stat. 3352.)
 

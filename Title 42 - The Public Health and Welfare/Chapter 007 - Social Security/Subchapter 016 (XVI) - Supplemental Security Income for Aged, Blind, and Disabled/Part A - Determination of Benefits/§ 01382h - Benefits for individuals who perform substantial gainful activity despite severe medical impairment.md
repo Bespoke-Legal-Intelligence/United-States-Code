@@ -20,7 +20,7 @@
 
 &emsp;(C) the termination of eligibility for benefits under subchapter XIX of this chapter would seriously inhibit his ability to continue his employment; and
 
-&emsp;(D) such individual's earnings are not sufficient to allow him to provide for himself a reasonable equivalent of the benefits under thissubchapter (including any federally administered State supplementary payments), benefits under subchapter XIX of this chapter, and publicly funded attendant care services (including personal care assistance), which would be available to him in the absence of such earnings.
+&emsp;(D) such individual's earnings are not sufficient to allow him to provide for himself a reasonable equivalent of the benefits under this subchapter (including any federally administered State supplementary payments), benefits under subchapter XIX of this chapter, and publicly funded attendant care services (including personal care assistance), which would be available to him in the absence of such earnings.
 
 (2)(A) Determinations made under paragraph (1)(D) shall be based on information and data updated no less frequently than annually.
 
@@ -122,5 +122,5 @@ Section 201(e) of Pub. L. 96–265 provided that: “The Secretary shall provide
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1382, 1382c, 1382d, 1382e, 1382i, 1383, 1396a, 1396d, 1396v of this title; title 29 section 1583.
+This section is referred to in sections 1320b–19, 1320b–20, 1382, 1382c, 1382d, 1382e, 1382i, 1383, 1396a, 1396d, 1396v of this title; title 29 section 1583.
 

@@ -14,7 +14,7 @@ There is hereby established a Solar Photovoltaic Energy Advisory Committee, whic
 
 #### (b) Membership; chairman
 
-The Committee shall be composed of thirteen members, including eleven members appointed by the Secretary from industrial organizations, academic institutions, professional societies or institutions, and other sources as he sees fit, and two members of the public appointed by the President. The Chairman of the Committee shall be elected from among the members thereof.
+The Committee shall be composed of thirteen members, including eleven members appointed by the Secretary from industrial organizations, academic institutions, professional societies or institutions, and other sources as he sees fit,and two members of the public appointed by the President. The Chairman of the Committee shall be elected from among the members thereof.
 
 #### (c) Cooperation from executive departments, agencies, and instrumentalities
 

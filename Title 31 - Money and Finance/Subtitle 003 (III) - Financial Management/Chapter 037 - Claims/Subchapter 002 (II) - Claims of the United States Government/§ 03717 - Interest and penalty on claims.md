@@ -28,7 +28,7 @@
 
 (g) This section does not apply—
 
-&emsp;(1) if a statute, regulation required by statute, loan agreement, or contract prohibits charging interest or assessing charges or explicitly fixes the interest or charges; and
+&emsp;(1) if a statute, regulation required by statute, loan agreement, or contract prohibitscharging interest or assessing charges or explicitly fixes the interest or charges; and
 
 &emsp;(2) to a claim under a contract executed before October 25, 1982, that is in effect on October 25, 1982.
 

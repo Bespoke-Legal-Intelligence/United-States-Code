@@ -18,7 +18,7 @@ Except as otherwise provided in this section, any creditor who fails to comply w
 
 #### (b) Correction of errors
 
-A creditor or assignee has no liability under this section or section 1607 of this title or section 1611 of this title for any failure to comply with any requirement imposed under this part or part E of this subchapter, if within sixty days after discovering an error, whether pursuant to a final written examination report or notice issued under section 1607(e)(1) of this title or through the creditor's or assignee's own procedures, and prior to the institution of an action under this section or the receipt of written notice of the error from the obligor, the creditor or assignee notifies the person concerned of the error and makes whatever adjustments in the appropriate account are necessary to assure that the person will not be required to pay an amount in excess of the charge actually disclosed, or the dollar equivalent of the annualpercentage rate actually disclosed, whichever is lower.
+A creditor or assignee has no liability under this section or section 1607 of this title or section 1611 of this title for any failure to comply with any requirement imposed under this part or part E of this subchapter, if within sixty days after discovering an error, whether pursuant to a final written examination report or notice issued under section 1607(e)(1) of this title or through the creditor's or assignee's own procedures, and prior to the institution of an action under this section or the receipt of written notice of the error from the obligor, the creditor or assignee notifies the person concerned of the error and makes whatever adjustments in the appropriate account are necessary to assure that the person will not be required to pay an amount in excess of the charge actually disclosed, or the dollar equivalent of the annual percentage rate actually disclosed, whichever is lower.
 
 #### (c) Unintentional violations; bona fide errors
 
@@ -68,7 +68,7 @@ A person may not take any action to offset any amount for which a creditor or as
 
 &emsp;&emsp;&emsp;(ii) to properly make any other disclosure required under section 1638 of this title as a result of the failure described in clause (i); or
 
-&emsp;&emsp;&emsp;(iii) to provide proper notice of rescission rights under section 1635(a) of this title due to the selection by the creditor ofthe incorrect form from among the model forms prescribed by the Board or from among forms based on such model forms.
+&emsp;&emsp;&emsp;(iii) to provide proper notice of rescission rights under section 1635(a) of this title due to the selection by the creditor of the incorrect form from among the model forms prescribed by the Board or from among forms based on such model forms.
 
 #### (2) Exceptions for certain alleged violations
 
@@ -82,7 +82,7 @@ A person may not take any action to offset any amount for which a creditor or as
 
 &emsp;&emsp;&emsp;(ii) proper notice was not provided for any reason other than the reason described in such paragraph.
 
-(Pub. L. 90–321, title I, §130, May 29, 1968, 82 Stat. 157; Pub. L. 93–495, title IV, §§406, 407, 408(a)–(d), Oct. 28, 1974, 88 Stat. 1518; Pub. L. 94–222, §3(b), Feb. 27, 1976, 90 Stat. 197; Pub. L. 94–240, §4, Mar. 23, 1976, 90 Stat. 260; Pub. L. 96–221, title VI, §615, Mar. 31, 1980, 94 Stat. 180; Pub. L. 100–583, §3, Nov. 3, 1988, 102 Stat. 2966; Pub. L. 103–325, title I, §153(a), (b), Sept. 23, 1994, 108 Stat. 2195; Pub. L. 104–12, §2, May 18, 1995, 109 Stat. 161; Pub. L. 104–29, §6, Sept. 30, 1995, 109 Stat. 274.)
+(Pub. L. 90–321, title I, §130, May 29, 1968, 82 Stat. 157; Pub. L. 93–495, title IV, §§406, 407, 408(a)–(d), Oct. 28, 1974, 88 Stat. 1518; Pub. L. 94–222, §3(b), Feb. 27, 1976, 90 Stat. 197; Pub. L. 94–240, §4, Mar. 23, 1976, 90 Stat. 260; Pub. L. 96–221, title VI, §615, Mar. 31, 1980, 94 Stat. 180; Pub. L. 100–583, §3,Nov. 3, 1988, 102 Stat. 2966; Pub. L. 103–325, title I, §153(a), (b), Sept. 23, 1994, 108 Stat. 2195; Pub. L. 104–12, §2, May 18, 1995, 109 Stat. 161; Pub. L. 104–29, §6, Sept. 30, 1995, 109 Stat. 274.)
 
 #### Amendments
 

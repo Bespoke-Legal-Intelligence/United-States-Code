@@ -54,23 +54,25 @@ Notwithstanding any other provision of this subchapter, medical assistance for i
 
 &emsp;&emsp;(A) during a presumptive eligibility period,
 
-&emsp;&emsp;(B) by a <sup>1</sup> entity that is eligible for payments under the State plan; and
+&emsp;&emsp;(B) by an entity that is eligible for payments under the State plan; and
 
 &emsp;(2) are included in the care and services covered by a State plan;
 
 > shall be treated as medical assistance provided by such plan for purposes of section 1396b of this title.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1920A, as added Pub. L. 105–33, title IV, §4912(a), Aug. 5, 1997, 111 Stat. 571.)
+(Aug. 14, 1935, ch. 531, title XIX, §1920A, as added Pub. L. 105–33, title IV, §4912(a), Aug. 5, 1997, 111 Stat. 571; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(r)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–397.)
 
 #### References in Text
 
-The Head Start Act, referred to in subsec. (b)(3)(A)(i)(II), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+The Head Start Act, referred to in subsec. (b)(3)(A)(i)(II), is subchapter B (§§635–657) of chapter 8 ofsubtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
-The Child Care and Development Block Grant Act of 1990, referred to in subsec. (b)(3)(A)(i)(II), is subchapter C (§§658A–658R) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V,§5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+The Child Care and Development Block Grant Act of 1990, referred to in subsec. (b)(3)(A)(i)(II), is subchapter C (§§658A–658R) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+
+#### Amendments
+
+1999—Subsec. (d)(1)(B). Pub. L. 106–113 substituted “an entity” for “a entity”.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1396a, 1396b, 1397dd of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

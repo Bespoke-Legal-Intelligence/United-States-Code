@@ -24,7 +24,7 @@
 
 (d)(1) The Secretary of Veterans Affairs and the Secretary of Defense shall jointly review plans for the implementation of this section not less often than annually.
 
-(2) Whenever a modification to such plans is agreed to, the Secretaries shall jointly submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on such modification. Any such report shall be submitted within 30 days after the modification is agreed to.
+(2) Whenever a modification to such plans is agreed to, the Secretaries shall jointly submitto the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on such modification. Any such report shall be submitted within 30 days after the modification is agreed to.
 
 (e) The Secretary shall prescribe regulations to govern any exercise of the authority of the Secretary under subsections (a) and (b) of this section and of the Under Secretary for Health under subsection (b)(2)(A) of this section.
 

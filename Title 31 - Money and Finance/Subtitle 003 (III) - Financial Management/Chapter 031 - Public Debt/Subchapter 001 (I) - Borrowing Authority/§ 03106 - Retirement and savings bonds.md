@@ -58,7 +58,7 @@ Sept. 3, 1982, Pub. L. 97–248, §289(a)(2), 96 Stat. 571.
 
 1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1983—Subsec. (b). Pub. L. 97–452 struck out provisions that the issue price of retirement and savings bonds and the conditions under which they could be redeemedcould give an investment yield of not more than 5 percent a year compounded semiannually.
+1983—Subsec. (b). Pub. L. 97–452 struck out provisions that the issue price of retirement and savings bonds and the conditions under which they could be redeemed could give an investment yield of not more than 5 percent a year compounded semiannually.
 
 #### Section Referred to in Other Sections
 

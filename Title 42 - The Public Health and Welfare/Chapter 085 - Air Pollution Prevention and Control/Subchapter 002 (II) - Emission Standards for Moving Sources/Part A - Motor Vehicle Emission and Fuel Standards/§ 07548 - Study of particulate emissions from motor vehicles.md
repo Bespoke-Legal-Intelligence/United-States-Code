@@ -2,7 +2,7 @@
 
 #### (a) Study and analysis
 
-(1) The Administrator shall conduct a study concerning the effects on health and welfare ofparticulate emissions from motor vehicles or motor vehicle engines to which section 7521 of this title applies. Such study shall characterize and quantify such emissions and analyze the relationship of such emissions to various fuels and fuel additives.
+(1) The Administrator shall conduct a study concerning the effects on health and welfare of particulate emissions from motor vehicles or motor vehicle engines to which section 7521 of this title applies. Such study shall characterize and quantify such emissions and analyze the relationship of such emissions to various fuels and fuel additives.
 
 (2) The study shall also include an analysis of particulate emissions from mobile sources which are not related to engine emissions (including, but not limited to tire debris, and asbestos from brake lining).
 
@@ -18,7 +18,7 @@ A prior section 214 of act July 14, 1955, was renumbered section 216 by Pub. L. 
 
 #### Effective Date
 
-Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, setout as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Study on Suspended Particulate Matter
 

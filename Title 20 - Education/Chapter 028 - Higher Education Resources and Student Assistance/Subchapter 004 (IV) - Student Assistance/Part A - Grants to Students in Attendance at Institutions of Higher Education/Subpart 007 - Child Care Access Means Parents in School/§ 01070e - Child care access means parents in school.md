@@ -40,7 +40,7 @@ The purpose of this section is to support the participation of low-income parent
 
 #### (6) Construction
 
-&emsp;Nothing in this section shall be construed to prohibit an institution of higher education that receives grant funds under this section from serving the child care needs of the community served by the institution.
+&emsp;Nothing in this section shall be construed to prohibit an institution of higher educationthat receives grant funds under this section from serving the child care needs of the community served by the institution.
 
 #### (7) Definition of low-income student
 
@@ -66,7 +66,7 @@ An institution of higher education desiring a grant under this section shall sub
 
 &emsp;&emsp;(E) other relevant data;
 
-&emsp;(4) contain a description of the activities to be assisted, including whether the grant fundswill support an existing child care program or a new child care program;
+&emsp;(4) contain a description of the activities to be assisted, including whether the grant funds will support an existing child care program or a new child care program;
 
 &emsp;(5) identify the resources, including technical expertise and financial support, the institution will draw upon to support the child care program and the participation of low-income students in the program, such as accessing social services funding, using student activity fees to help pay the costs of child care, using resources obtained by meeting the needs of parents who are not low-income students, and accessing foundation, corporate or other institutional support, and demonstrate that the use of the resources will not result in increases in student tuition;
 
@@ -116,7 +116,7 @@ The Secretary shall give priority in awarding grants under this section to insti
 
 #### (2) Continuing eligibility
 
-&emsp;The Secretary shall make the third annual grant payment under this section to an institution of higher education only if the Secretary determines, on the basis of the 18-month report submitted under paragraph (1), that the institution is making a good faith effort to ensure that low-income students at the institution have access to affordable, quality child care services.
+&emsp;The Secretary shall make the third annual grant payment under this section to an institution of higher education only if the Secretary determines, on the basis of the 18-month report submitted under paragraph (1), that the institution is making a good faith effort to ensure that low-income students at theinstitution have access to affordable, quality child care services.
 
 #### (f) Construction
 

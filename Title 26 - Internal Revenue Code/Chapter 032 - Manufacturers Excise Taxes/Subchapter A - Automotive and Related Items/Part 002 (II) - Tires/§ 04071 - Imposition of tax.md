@@ -2,7 +2,7 @@
 
 #### (a) Imposition and rate of tax
 
-There is hereby imposed on tires of the type used on highway vehicles, if wholly or in part made of rubber, sold by the manufacturer, producer, or importer a tax at the following rates:
+There is hereby imposed on tires of the type used on highway vehicles, if wholly or in partmade of rubber, sold by the manufacturer, producer, or importer a tax at the following rates:
 
 &nbsp;
 
@@ -139,7 +139,7 @@ Section 401(h) of Pub. L. 92–178 provided that:
 
 &emsp;“(D) a chattel mortgage arrangement wherein it is provided that the sale price shall be paid in installments,
 
-> entered into on or before the date of the enactment of this Act \[Dec. 10, 1971\], payments made after such date, with respect to the article leased or sold shall, for purposes of this subsection, be considered as payments made with respect to an article sold after such date, if the lessor or vendor establishes that the amount of payments payable after such date with respect to such article has been reduced by an amount equal to that portion of the tax applicable with respect to the leaseor sale of such article which is due and payable after such date. If the lessor or vendor does not establish that the payments have been so reduced, they shall be treated as payments made in respect of an article sold before the day after the date of the enactment of this Act.”
+> entered into on or before the date of the enactment of this Act \[Dec. 10, 1971\], payments made after such date, with respect to the article leased or sold shall, for purposes of this subsection, be considered as payments made with respect to an article sold after such date, if the lessor or vendor establishes that the amount of payments payable after such date with respect to such article has been reduced by an amount equal to that portion of the tax applicable with respect to the lease or sale of such article which is due and payable after such date. If the lessor or vendor does not establish that the payments have been so reduced, they shall be treated as payments made in respect of an article sold before the day after the date of the enactment of this Act.”
 
 #### Effective Date of 1966 Amendment
 

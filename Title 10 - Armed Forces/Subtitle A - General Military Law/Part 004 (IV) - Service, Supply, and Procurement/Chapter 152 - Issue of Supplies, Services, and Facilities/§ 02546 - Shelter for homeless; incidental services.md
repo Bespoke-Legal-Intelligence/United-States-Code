@@ -22,7 +22,7 @@
 
 (c) Shelter and incidental services may only be provided under this section to the extent that the Secretary concerned determines will not interfere with military preparedness or ongoing military functions.
 
-(d) The Secretary concerned may provide bedding for support of shelters for the homeless that are operated by entities other than the Department of Defense. Bedding may be provided under this subsection without reimbursement, but may only be provided to the extent that the Secretary determines that the provision of such bedding will not interfere with military requirements.
+(d) The Secretary concerned may provide bedding for support of shelters for the homeless that are operated by entities other than the Department of Defense. Bedding may be providedunder this subsection without reimbursement, but may only be provided to the extent that the Secretary determines that the provision of such bedding will not interfere with military requirements.
 
 (e) The Secretary of Defense shall prescribe regulations for the administration of this section.
 

@@ -20,7 +20,7 @@ For the purpose of performing functions under this chapter outside the United St
 
 (2) Funds available for programs under this chapter may be used (i) to provide for orientation courses, language training, or other appropriate services and materials for persons traveling out of the countries of their residence for educational and cultural purposes which further the purposes of this chapter, whether or not they are receiving other financial support from the Government, and (ii) to provide or continue services to increase the effectiveness of such programs following the return of such persons to the countries of their residence.
 
-(3) For the purpose of assisting foreign students in making the best use of their opportunities while attending colleges and universities in the United States, and assisting such students in directing their talents and initiative into channels which will make them more effective leaders upon return to their native lands, the Director of the United States Information Agency may make suitable arrangements, by contract or otherwise, for the establishment and maintenance at colleges and universities in the United States attended by foreign students of an adequate counseling service.
+(3) For the purpose of assisting foreign students in making the best use of their opportunities while attending colleges and universities in the United States, and assisting such students in directing their talents and initiative into channels which will make them more effective leaders upon return to their native lands, theDirector of the United States Information Agency may make suitable arrangements, by contract or otherwise, for the establishment and maintenance at colleges and universities in the United States attended by foreign students of an adequate counseling service.
 
 (4) The Director of the United States Information Agency is authorized to provide for publicity and promotion (including representation) abroad of activities of the type provided for in this chapter, and of similar services and opportunities for interchange not supported by the United States Government.
 
@@ -120,7 +120,7 @@ Sec. 2. <i>United States Information Agency</i>. (a) Subject to the provisions o
 
 (4) The functions so conferred by Sections 104(d) and 108(c) and (d) of the Act \[subsec. (d) of this section and section 2458(c), (d) of this title\] to the extent that they pertain to the functions delegated by the foregoing provisions of this section.
 
-(b) The Director of the United States Information Agency shall prepare and transmit to the President the reports which the President is required to submit to the Congress by section 108(b) of the Act \[section 2458(b) of this title\] to the extent that they are with respect to activities carried out by the United States Information Agency pursuant to section 102(a)(2)(iii) and section 102(a)(3) of the Act \[section 2452(a)(2)(iii) and (a)(3) of this title\].
+(b) The Director of the United States Information Agency shall prepare and transmit to the President thereports which the President is required to submit to the Congress by section 108(b) of the Act \[section 2458(b) of this title\] to the extent that they are with respect to activities carried out by the United States Information Agency pursuant to section 102(a)(2)(iii) and section 102(a)(3) of the Act \[section 2452(a)(2)(iii) and (a)(3) of this title\].
 
 (c) The functions so conferred by Section 102(a)(3) of the Act \[section 2452(a)(3) of this title\] to the extent that they are in respect of fairs, expositions, and demonstrations held outside of the United States, but exclusive of the functions delegated by the provisions of Section 1(a)(3) of this order.
 
@@ -138,7 +138,7 @@ Sec. 5. <i>Certain incidental matters</i>. (a) In respect of functions hereinabo
 
 (1) The authority conferred upon the President by Sections 105(d)(2) and (f) and 106(d) and (f) of the Act \[sections 2455(d)(2), (f) and 2456(d), (f) of this title\].
 
-(2) Subject to the provisions of Section 5(b) and (c) of this order, the authority conferred upon the Presidentby Section 104(b) of the Act \[subsec. (b) of this section\] to employ personnel.
+(2) Subject to the provisions of Section 5(b) and (c) of this order, the authority conferred upon the President by Section 104(b) of the Act \[subsec. (b) of this section\] to employ personnel.
 
 (b) The employment, by any department or other executive agency under Section 5(a)(2) of this order, of any of the not to exceed ten persons who may be compensated with regard to the Classification Act of 1949 \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\] under Section 104(b) of the Act \[subsec. (b) of this section\] shall require prior authorization by the Secretary of State concurred in by the Director of the Office of Management and Budget.
 
@@ -248,7 +248,7 @@ Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 11770, Feb. 21, 1974, 39 F.R. 7127, provided:
 
-By virtue of the authority vested in me by section 104 of the Mutual Educational and Cultural Exchange Act of 1961 (22 U.S.C. 2454; hereinafter referred to as the act), and section 301 of Title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
+By virtue of the authority vested in me by section 104 of the Mutual Educational and Cultural Exchange Act of 1961 (22 U.S.C. 2454; hereinafter referred to as theact), and section 301 of Title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
 Section 1. The Secretary of the Interior is authorized, with respect to the International Symposium on Geothermal Energy to be held in San Francisco, California, in May 1975, to perform the functions conferred by section 102(b)(5), (7), and (8) of the act \[section 2452(b)(5), (7) and (8) of this title\].
 

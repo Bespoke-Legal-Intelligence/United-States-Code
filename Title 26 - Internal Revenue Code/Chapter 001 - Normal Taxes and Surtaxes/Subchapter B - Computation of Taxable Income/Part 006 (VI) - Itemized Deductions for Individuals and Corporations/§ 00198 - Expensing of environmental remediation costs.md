@@ -30,7 +30,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “qualified contaminated site” means any area—
 
-&emsp;&emsp;&emsp;(i) which is held by the taxpayer for use in a trade or business or for the production of income, or which is property described in section 1221(1) in the hands of the taxpayer,
+&emsp;&emsp;&emsp;(i) which is held by the taxpayer for use in a trade or business or for the production of income, or which is property described in section 1221(a)(1) in the hands of the taxpayer,
 
 &emsp;&emsp;&emsp;(ii) which is within a targeted area, and
 
@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (C) Appropriate State agency
 
-&emsp;&emsp;For purposes of subparagraph (B), the chief executive officer of each State may, in consultation with the Administrator of the Environmental Protection Agency, designate the appropriate State environmental agency within 60 days of the date of the enactment of this section. If the chief executive officer of a State has not designated an appropriate State environmental agency within such 60-day period, the appropriate environmental agency for such State shall be designated by the Administrator of the Environmental Protection Agency.
+&emsp;&emsp;For purposes of subparagraph (B), the chief executive officer of each State may, in consultation with the Administrator of the Environmental Protection Agency, designate the appropriate State environmental agency within 60 days of the date of the enactmentof this section. If the chief executive officer of a State has not designated an appropriate State environmental agency within such 60-day period, the appropriate environmental agency for such State shall be designated by the Administrator of the Environmental Protection Agency.
 
 #### (2) Targeted area
 
@@ -92,7 +92,7 @@ Solely for purposes of section 1245, in the case of property to which a qualifie
 
 &emsp;(1) the deduction allowed by this section for such expenditure shall be treated as a deduction for depreciation, and
 
-&emsp;(2) such property (if not otherwise section 1245 property) shall be treated as section 1245property solely for purposes of applying section 1245 to such deduction.
+&emsp;(2) such property (if not otherwise section 1245 property) shall be treated as section 1245 property solely for purposes of applying section 1245 to such deduction.
 
 #### (f) Coordination with other provisions
 
@@ -104,15 +104,25 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### (h) Termination
 
-This section shall not apply to expenditures paid or incurred after December 31, 2000.
+This section shall not apply to expenditures paid or incurred after December 31, 2001.
 
-(Added Pub. L. 105–34, title IX, §941(a), Aug. 5, 1997, 111 Stat. 882.)
+(Added Pub. L. 105–34, title IX, §941(a), Aug. 5, 1997, 111 Stat. 882; amended Pub. L. 106–170, title V, §§511, 532(c)(2)(A), Dec. 17, 1999, 113 Stat. 1924, 1930.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (c)(1)(C), (2)(B), is the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997.
 
 Sections 101(14), 102, 104, and 105(a)(8)(B) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsecs. (c)(2)(B) and (d), are classified to sections 9601(14), 9602, 9604, and 9605(a)(8)(B), respectively, of Title 42, The Public Health and Welfare.
+
+#### Amendments
+
+1999—Subsec. (c)(1)(A)(i). Pub. L. 106–170, §532(c)(2)(A), substituted “section 1221(a)(1)” for “section 1221(1)”.
+
+Subsec. (h). Pub. L. 106–170, §511, substituted “2001” for “2000”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by section 532(c)(2)(A) of Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
 
 #### Effective Date
 

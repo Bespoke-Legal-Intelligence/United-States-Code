@@ -50,6 +50,9 @@
 | (a) | Assistance authorized. |
 | (b) | Reimbursement requirement. |
 | (c) | Definitions. |
+| [1526\.](%C2%A7%2001526%20-%20Effective%20use%20of%20resources%20for%20nonproliferation%20programs.md) | Effective Use of Resources for Nonproliferation Programs. |
+| (a) | Prohibition. |
+| (b) | Exception. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -76,3 +79,4 @@
 - [&sect; 01523 - Annual report on chemical and biological warfare defense](%C2%A7%2001523%20-%20Annual%20report%20on%20chemical%20and%20biological%20warfare%20defense.md)
 - [&sect; 01524 - Agreements to provide support to vaccination programs of Department of Health and Human Services](%C2%A7%2001524%20-%20Agreements%20to%20provide%20support%20to%20vaccination%20programs%20of%20Department%20of%20Health%20and%20Human%20Services.md)
 - [&sect; 01525 - Assistance for facilities subject to inspection under Chemical Weapons Convention](%C2%A7%2001525%20-%20Assistance%20for%20facilities%20subject%20to%20inspection%20under%20Chemical%20Weapons%20Convention.md)
+- [&sect; 01526 - Effective use of resources for nonproliferation programs](%C2%A7%2001526%20-%20Effective%20use%20of%20resources%20for%20nonproliferation%20programs.md)

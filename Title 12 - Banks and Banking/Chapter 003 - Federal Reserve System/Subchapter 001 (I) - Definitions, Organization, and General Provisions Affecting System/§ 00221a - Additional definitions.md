@@ -2,13 +2,13 @@
 
 As used in this chapter—
 
-(a) The terms “banks”, “national bank”, “national banking association”, “member bank”,“board”, “district”, and “reserve bank” shall have the meanings assigned to them in section 221 of this title.
+(a) The terms “banks”, “national bank”, “national banking association”, “member bank”, “board”, “district”, and “reserve bank” shall have the meanings assigned to them in section 221 of this title.
 
 (b) Except where otherwise specifically provided, the term “affiliate” shall include any corporation, business trust, association, or other similar organization—
 
 &emsp;(1) Of which a member bank, directly or indirectly, owns or controls either a majority of the voting shares or more than 50 per centum of the number of shares voted for the election of its directors, trustees, or other persons exercising similar functions at the preceding election, or controls in any manner the election of a majority of its directors, trustees, or other persons exercising similar functions; or
 
-&emsp;(2) Of which control is held, directly or indirectly, through stock ownership or in any other manner, by the shareholders of a member bank who own or control either a majority of the shares of such bank or more than 50 per centum of the number of shares voted for the election of directors of such bank at the preceding election, or by trustees for the benefit of the shareholders of any such bank; or
+&emsp;(2) Of which control is held, directly or indirectly, through stock ownership or in any other manner, by the shareholders of a member bank who own or control either a majorityof the shares of such bank or more than 50 per centum of the number of shares voted for the election of directors of such bank at the preceding election, or by trustees for the benefit of the shareholders of any such bank; or
 
 &emsp;(3) Of which a majority of its directors, trustees, or other persons exercising similar functions are directors of any one member bank; or
 
@@ -30,5 +30,5 @@ Subsec. (c). Pub. L. 89–485, §13(b), repealed definition of “holding compan
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 371d, 377, 1464, 1828 of this title; title 26 section 601.
+This section is referred to in sections 371d, 1464, 1828 of this title; title 26 section 601.
 

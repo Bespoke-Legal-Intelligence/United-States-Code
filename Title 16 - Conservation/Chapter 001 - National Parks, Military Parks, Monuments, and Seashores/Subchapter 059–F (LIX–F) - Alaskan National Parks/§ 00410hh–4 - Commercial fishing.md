@@ -6,7 +6,7 @@ With respect to the Cape Krusenstern National Monument, the Malaspina Glacier Fo
 
 #### Commercial Fishing in Glacier Bay National Park
 
-Pub. L. 105–277, div. A, §101(e) \[title I, §123\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–259, provided that:
+Pub. L. 105–277, div. A, §101(e) \[title I, §123\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–259, as amended by Pub. L. 106–31, title I, §501(a)–(c), May 21, 1999, 113 Stat. 72, 73, provided that:
 
 “(a)
 
@@ -18,7 +18,7 @@ General.—
 
 &emsp;&emsp;“(A) hold a valid commercial fishing permit for a fishery in a geographic area that includes the nonwilderness waters within Glacier Bay Proper;
 
-&emsp;&emsp;“(B) provide a sworn and notarized affidavit and other available corroborating documentation to the Secretary of the Interior sufficient to establish that such individual engaged in commercial fishing for halibut, tanner crab, or salmon in Glacier Bay Proper during qualifying years which shall be established by the Secretary of the Interior within one year of the date of the enactment of this Act \[Oct. 21, 1998\]; and
+&emsp;&emsp;“(B) provide a sworn and notarized affidavit and other available corroborating documentation to the Secretary of the Interior sufficient to establish that such individual engaged in commercial fishing for halibut, tanner crab, or salmon in Glacier Bay Proper during qualifying years which shall be established by the Secretary of the Interior withinone year of the date of the enactment of this Act \[Oct. 21, 1998\]; and
 
 &emsp;&emsp;“(C) fish only with—
 
@@ -38,7 +38,7 @@ General.—
 
 The Beardslee Islands and Upper Dundas Bay.—Commercial fishing is prohibited in the designated wilderness waters within Glacier Bay National Park and Preserve, including the waters of the Beardslee Islands and Upper Dundas Bay. Any individual who—
 
-&emsp;“(1) on or before February 1, 1999, provides a sworn and notarized affidavit and other available corroborating documentation to the Secretary of the Interior sufficient to establish that he or she has engaged in commercial fishing for Dungeness crab in the designated wilderness waters of the Beardslee Islands or Dundas Bay within Glacier Bay National Park pursuant to a valid commercial fishing permit in at least six of the years during the period 1987 through 1996;
+&emsp;“(1) on or before August 1, 1999, provides a sworn and notarized affidavit and other available corroborating documentation to the Secretary of the Interior sufficient to establish that he or she has engaged in commercial fishing for Dungeness crab in the designated wilderness waters of the Beardslee Islands or Dundas Bay within Glacier Bay National Park pursuant to a valid commercial fishing permit in at least six of the years during the period 1987 through 1998;
 
 &emsp;“(2) at the time of receiving compensation based on the Secretary of the Interior's determination as described below—
 
@@ -52,15 +52,23 @@ The Beardslee Islands and Upper Dundas Bay.—Commercial fishing is prohibited i
 
 &emsp;“(3) holds a current valid commercial fishing permit that allows such individual to engage in commercial fishing for Dungeness crab in Glacier Bay National Park,
 
-> shall be eligible to receive from the United States compensation that is the greater of (i) $400,000, or (ii) an amount equal to the fair market value (as of the date of relinquishment) of the commercial fishing permit for Dungeness crab, of any Dungeness crab pots or other Dungeness crab gear, and of not more than one Dungeness crab fishing vessel, together with an amount equal to the present value of the foregone net income from commercial fishing for Dungeness crab for the period January 1, 1999, through December 31, 2004, based on the individual's net earnings from the Dungeness crab fishery during the period January 1, 1991, through December 31, 1996. Any individual seeking such compensation shall provide the consent necessary for the Secretary of the Interior to verify such net earnings in the fishery. The Secretary of the Interior's determination of the amount to be paid shall be completed and payment shall be made within six months from the date of application by the individuals described in this subsection and shall constitute final agency action subject to review pursuant to the Administrative Procedures \[Procedure\] Act \[5 U.S.C. 551 et seq.; 701 et seq.\] in the United States District Court for the District of Alaska.
+> shall be eligible to receive from the United States compensation that is the greater of (i) $400,000, or (ii) an amount equal to the fair market value (as of the date of relinquishment) of the commercial fishing permit for Dungeness crab, together with an amount equal to the present value of the foregone net income from commercial fishing for Dungeness crab for for \[sic\] the period beginning January 1, 1999 that is equivalent in length to the period established by such individual under paragraph (1), based on the individual's net earnings from the Dungeness crab fishery during such established period. In addition, such individual shall be eligible to receive from the United States fair market value for any Dungeness crab pots, related gear, and not more than one Dungeness crab fishing vessel if such individual chooses to relinquish to the United States such pots, related gear, or vessel. Any individual seeking such compensation shall provide the consent necessary for the Secretary of the Interior to verify such net earnings in the fishery. The Secretary of the Interior's determination of the amount to be paid shall be completed and payment shall be made within six months from the date of application by the individuals described in this subsection and shall constitute final agency action subject to review pursuant to the Administrative Procedures \[Procedure\] Act \[5 U.S.C. 551 et seq.; 701 et seq.\] in the United States District Court for the District of Alaska.
 
 “(c)
+
+Others Affected by Fishery Closures and Restrictions.—The Secretary of the Interior is authorized to provide $23,000,000 for a program developed with the concurrence of the State of Alaska to fairly compensate United States fish processors, fishing vessel crew members, communities, and others negatively affected by restrictions on fishing in Glacier Bay National Park. For the purpose of receiving compensation under the program required by this subsection, a potential recipient shall provide a sworn and notarized affidavit to establish the extent of such negative effect.
+
+“(d)
 
 Definition and Savings Clause.—
 
 &emsp;“(1) As used in this section, the term ‘Glacier Bay Proper’ shall mean the marine waters within Glacier Bay, including coves and inlets, north of a line drawn from Point Gustavus to Point Carolus.
 
-&emsp;“(2) Nothing in this section is intended to enlarge or diminish Federal or State title, jurisdiction, or authority with respect to the waters of the State of Alaska, the waters within the boundaries of Glacier Bay National Park, or the tidal or submerged lands under any provision of State or Federal law.”
+&emsp;“(2) Nothing in this section is intended to enlarge or diminish Federal or State title, jurisdiction, or authority with respect to the waters of the State of Alaska, the waters within the boundaries of Glacier Bay National Park, or the tidal or submerged lands under any provision of State or Federal law.
+
+“(e)
+
+Implementation and Effective Date.—The Secretary of the Interior shall publish an interim final rule for the Federal implementation of paragraphs (2) through (5) of subsection (a) and shall provide an opportunity for public comment of no less than 45 days on such interim final rule. The final rule for the Federal implementation of paragraphs (2) through (5) of subsection (a) shall be published in the Federal Register no later than September 30, 1999 and shall take effect on September 30, 1999, except that the limitations in paragraphs (3) through (5) of such subsection shall not apply with respect to halibut fishing until November 15, 1999 or salmon troll fishing until December 31, 1999. In the event that any individual eligible for compensation under subsection (b) has not received full compensation by June 15, 1999, the Secretary shall provide partial compensation on such date to such individual and shall expeditiously provide full compensation thereafter.”
 
 #### Cross References
 

@@ -56,7 +56,7 @@ Section 1 of Pub. L. 96–354 provided: “That this Act \[enacting this chapter
 
 #### Assessment of Federal Regulations and Policies on Families
 
-Pub. L. 105–277, div. A, title I, §101(h) \[title VI, §654\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528, provided that:
+Pub. L. 105–277, div. A, §101(h) \[title VI, §654\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528, provided that:
 
 “(a)
 
@@ -298,7 +298,7 @@ Study.—The Office of Technology Assessment shall conduct a study of the effect
 
 “(b)
 
-Report.—Not later than 12 months after the date of enactment of this title \[Nov. 15, 1990\], the Office of Technology Assessment shall transmit to Congress areport on the results of the study conducted under subsection (a) together with its recommendations on how to address the problems facing small businesses in rural areas.”
+Report.—Not later than 12 months after the date of enactment of this title \[Nov. 15, 1990\], the Office of Technology Assessment shall transmit to Congress a report on the results of the study conducted under subsection (a) together with its recommendations on how to address the problems facing small businesses in rural areas.”
 
 #### Congressional Findings and Declaration of Purpose
 
@@ -320,7 +320,7 @@ Section 2 of Pub. L. 96–354 provided that:
 
 &emsp;“(7) alternative regulatory approaches which do not conflict with the stated objectives of applicable statutes may be available which minimize the significant economic impact of rules on small businesses, small organizations, and small governmental jurisdictions;
 
-&emsp;“(8) the process by which Federal regulations are developed and adopted should be reformed to require agencies to solicit the ideas and comments of small businesses, small organizations, and small governmental jurisdictions to examine the impact of proposed and existing rules on such entities, and to review the continued need for existing rules.
+&emsp;“(8) the process by which Federal regulations are developed and adopted should be reformed to require agencies to solicit the ideas and comments of smallbusinesses, small organizations, and small governmental jurisdictions to examine the impact of proposed and existing rules on such entities, and to review the continued need for existing rules.
 
 “(b) It is the purpose of this Act \[enacting this chapter\] to establish as a principle of regulatory issuance that agencies shall endeavor, consistent with the objectives of the rule and of applicable statutes, to fit regulatory and informational requirements to the scale of the businesses, organizations, and governmental jurisdictions subject to regulation. To achieve this principle, agencies are required to solicit and consider flexible regulatory proposals and to explain the rationale for their actions to assure that such proposals are given serious consideration.”
 
@@ -334,101 +334,11 @@ Ex. Ord. No. 12498, Jan. 4, 1985, 50 F.R. 1036, which established a regulatory p
 
 #### Executive Order No. 12606
 
-Ex. Ord. No. 12606, Sept. 2, 1987, 52 F.R. 34188, which provided criteria for Executive departments and agencies to follow in making policies and regulations to ensure consideration of effect of those policies and regulations on autonomy and rights of the family, was revoked by Ex. Ord. No. 13045, §7, Apr. 21, 1997, 62 F.R. 19888, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
+Ex. Ord. No. 12606, Sept. 2, 1987, 52 F.R. 34188, which provided criteria for executive departments and agencies to follow in making policies and regulations to ensure consideration of effect of those policies and regulations on autonomy and rights of the family, was revoked by Ex. Ord. No. 13045, §7, Apr. 21, 1997, 62 F.R. 19888, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
 
-#### Ex. Ord. No. 12612. Federalism Considerations in Policy Formulation and Implementation
+#### Executive Order No. 12612
 
-Ex. Ord. No. 12612, Oct. 26, 1987, 52 F.R. 41685, provided:
-
-By the authority vested in me as President by the Constitution and laws of the United States of America, and in order to restore the division of governmental responsibilities between the national government and the States that was intended by the Framers of the Constitution and to ensure that the principles of federalism established by the Framers guide the Executive departments and agencies in the formulation and implementation of policies, it is hereby ordered as follows:
-
-Section 1. <i>Definitions</i>. For purposes of this Order:
-
-(a) “Policies that have federalism implications” refers to regulations, legislative comments or proposed legislation, and other policy statements or actions that have substantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government.
-
-(b) “State” or “States” refer to the States of the United States of America, individually or collectively, and, where relevant, to State governments, including units of local government and other political subdivisions established by the States.
-
-Sec. 2. <i>Fundamental Federalism Principles</i>. In formulating and implementing policies that have federalism implications, Executive departments and agencies shall be guided by the following fundamental federalism principles:
-
-(a) Federalism is rooted in the knowledge that our political liberties are best assured by limiting the size and scope of the national government.
-
-(b) The people of the States created the national government when they delegated to it those enumerated governmental powers relating to matters beyond the competence of the individual States. All other sovereign powers, save those expressly prohibited the States by the Constitution, are reserved to the States or to the people.
-
-(c) The constitutional relationship among sovereign governments, State and national, is formalized in and protected by the Tenth Amendment to the Constitution.
-
-(d) The people of the States are free, subject only to restrictions in the Constitution itself or in constitutionally authorized Acts of Congress, to define the moral, political, and legal character of their lives.
-
-(e) In most areas of governmental concern, the States uniquely possess the constitutional authority, the resources, and the competence to discern the sentiments of the people and to govern accordingly. In Thomas Jefferson's words, the States are “the most competent administrations for our domestic concerns and the surest bulwarks against antirepublican tendencies.”
-
-(f) The nature of our constitutional system encourages a healthy diversity in the public policies adopted by the people of the several States according to their own conditions, needs, and desires. In the search for enlightened public policy, individual States and communities are free to experiment with a variety of approaches to public issues.
-
-(g) Acts of the national government—whether legislative, executive, or judicial in nature—that exceed the enumerated powers of that government under the Constitution violate the principle of federalism established by the Framers.
-
-(h) Policies of the national government should recognize the responsibility of—and should encourage opportunities for—individuals, families, neighborhoods, local governments, and private associations to achieve their personal, social, and economic objectives through cooperative effort.
-
-(i) In the absence of clear constitutional or statutory authority, the presumption of sovereignty should rest with the individual States. Uncertainties regarding the legitimate authority of the national government should be resolved against regulation at the national level.
-
-Sec. 3. <i>Federalism Policymaking Criteria</i>. In addition to the fundamental federalism principles set forth in section 2, Executive departments and agencies shall adhere, to the extent permitted by law, to the following criteria when formulating and implementing policies that have federalism implications:
-
-(a) There should be strict adherence to constitutional principles. Executive departments and agencies should closely examine the constitutional and statutory authority supporting any Federal action that would limit the policymaking discretion of the States, and should carefully assess the necessity for such action. To the extent practicable, the States should be consulted before any such action is implemented. Executive Order No. 12372 (“Intergovernmental Review of Federal Programs”) \[31 U.S.C. 6506 note\] remains in effect for the programs and activities to which it is applicable.
-
-(b) Federal action limiting the policymaking discretion of the States should be taken only where constitutional authority for the action is clear and certain and the national activity is necessitated by the presence of a problem of national scope. For the purposes of this Order:
-
-(1) It is important to recognize the distinction between problems of national scope (which may justify Federal action) and problems that are merely common to the States (which will not justify Federal action because individual States, acting individually or together, can effectively deal with them).
-
-(2) Constitutional authority for Federal action is clear and certain only when authority for the action may be found in a specific provision of the Constitution, there is no provision in the Constitution prohibiting Federal action, and the action does not encroach upon authority reserved to the States.
-
-(c) With respect to national policies administered by the States, the national government should grant the States the maximum administrative discretion possible. Intrusive, Federal oversight of State administration is neither necessary nor desirable.
-
-(d) When undertaking to formulate and implement policies that have federalism implications, Executive departments and agencies shall:
-
-(1) Encourage States to develop their own policies to achieve program objectives and to work with appropriate officials in other States.
-
-(2) Refrain, to the maximum extent possible, from establishing uniform, national standards for programs and, when possible, defer to the States to establish standards.
-
-(3) When national standards are required, consult with appropriate officials and organizations representing the States in developing those standards.
-
-Sec. 4. <i>Special Requirements for Preemption</i>. (a) To the extent permitted by law, Executive departments and agencies shall construe, in regulations and otherwise, a Federal statute to preempt State law only when the statute contains an express preemption provision or there is some other firm and palpable evidence compelling the conclusion that the Congress intended preemption of State law, or when the exercise of State authority directly conflicts with the exercise of Federal authority under the Federal statute.
-
-(b) Where a Federal statute does not preempt State law (as addressed in subsection (a) of this section), Executive departments and agencies shall construe any authorization in the statute for the issuance of regulations as authorizing preemption of State law by rule-making only when the statute expressly authorizes issuance of preemptive regulations or there is some other firm and palpable evidence compelling the conclusion that the Congress intended to delegate to the department or agency the authority to issue regulations preempting State law.
-
-(c) Any regulatory preemption of State law shall be restricted to the minimum level necessary to achieve the objectives of the statute pursuant to which the regulations are promulgated.
-
-(d) As soon as an Executive department or agency foresees the possibility of a conflict between State law and Federally protected interests within its area of regulatory responsibility, the department or agency shall consult, to the extent practicable, with appropriate officials and organizations representing the States in an effort to avoid such a conflict.
-
-(e) When an Executive department or agency proposes to act through adjudication or rule-making to preempt State law, the department or agency shall provide all affected States notice and an opportunity for appropriate participation in the proceedings.
-
-Sec. 5. <i>Special Requirements for Legislative Proposals</i>. Executive departments and agencies shall not submit to the Congress legislation that would:
-
-(a) Directly regulate the States in ways that would interfere with functions essential to the States’ separate and independent existence or operate to directly displace the States’ freedom to structure integral operations in areas of traditional governmental functions;
-
-(b) Attach to Federal grants conditions that are not directly related to the purpose of the grant; or
-
-(c) Preempt State law, unless preemption is consistent with the fundamental federalism principles set forth in section 2, and unless a clearly legitimate national purpose, consistent with the federalism policymaking criteria set forth in section 3, cannot otherwise be met.
-
-Sec. 6. <i>Agency Implementation</i>. (a) The head of each Executive department and agency shall designate an official to be responsible for ensuring the implementation of this Order.
-
-(b) In addition to whatever other actions the designated official may take to ensure implementation of this Order, the designated official shall determine which proposed policies have sufficient federalism implications to warrant the preparation of a Federalism Assessment. With respect to each such policy for which an affirmative determination is made, a Federalism Assessment, as described in subsection (c) of this section, shall be prepared. The department or agency head shall consider any such Assessment in all decisions involved in promulgating and implementing the policy.
-
-(c) Each Federalism Assessment shall accompany any submission concerning the policy that is made to the Office of Management and Budget pursuant to Executive Order No. 12291 \[formerly set out above\] or OMB Circular No. A–19, and shall:
-
-(1) Contain the designated official's certification that the policy has been assessed in light of the principles, criteria, and requirements stated in sections 2 through 5 of this Order;
-
-(2) Identify any provision or element of the policy that is inconsistent with the principles, criteria, and requirements stated in sections 2 through 5 of this Order;
-
-(3) Identify the extent to which the policy imposes additional costs or burdens on the States, including the likely source of funding for the States and the ability of the States to fulfill the purposes of the policy; and
-
-(4) Identify the extent to which the policy would affect the States’ ability to discharge traditional State governmental functions, or other aspects of State sovereignty.
-
-Sec. 7. <i>Government-wide Federalism Coordination and Review</i>. (a) In implementing Executive Order Nos. 12291 \[formerly set out above\] and 12498 \[formerly set out above\] and OMB Circular No. A–19, the Office of Management and Budget, to the extent permitted by law and consistent with the provisions of those authorities, shall take action to ensure that the policies of the Executive departments and agencies are consistent with the principles, criteria, and requirements stated in sections 2 through 5 of this Order.
-
-(b) In submissions to the Office of Management and Budget pursuant to Executive Order No. 12291 \[formerly set out above\] and OMB Circular No. A–19, Executive departments and agencies shall identify proposed regulatory and statutory provisions that have significant federalism implications and shall address any substantial federalism concerns. Where the departments or agencies deem it appropriate, substantial federalism concerns should also be addressed in notices of proposed rule-making and messages transmitting legislative proposals to the Congress.
-
-Sec. 8. <i>Judicial Review</i>. This Order is intended only to improve the internal management of the Executive branch, and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
-
-Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-\[Ex. Ord. No. 13083, §7(c), May 14, 1998, 63 F.R. 27653, set out below, which directed the revocation of Ex. Ord. No. 12612, effective 90 days after May 14, 1998, was suspended by Ex. Ord. No. 13095, Aug. 5, 1998, 63 F.R. 42565, set out below.\]
+Ex. Ord. No. 12612, Oct. 26, 1987, 52 F.R. 41685, which set out fundamental federalism principles and policymaking criteria for Executive departments and agencies to follow in formulating and implementing policies and limited the instances when Executive departments and agencies could construe a Federal statute to preempt State law, was revoked by Ex. Ord. No. 13132, §10(b), Aug. 4, 1999, 64 F.R. 43259, set out below.
 
 #### Ex. Ord. No. 12630. Governmental Actions and Interference With Constitutionally Protected Property Rights
 
@@ -666,7 +576,7 @@ Sec. 5. <i>Existing Regulations</i>. In order to reduce the regulatory burden on
 
 Sec. 6. <i>Centralized Review of Regulations</i>. The guidelines set forth below shall apply to all regulatory actions, for both new and existing regulations, by agencies other than those agencies specifically exempted by the Administrator of OIRA:
 
-(a) <i>Agency Responsibilities</i>. (1) Each agency shall (consistent with its own rules, regulations, or procedures) provide the public with meaningful participation in the regulatory process. In particular, before issuing a notice of proposed rulemaking, each agency should, where appropriate, seek the involvement of those who are intended to benefit from and those expected to be burdened by any regulation (including, specifically, State, local, and tribal officials). In addition, each agency should afford the public a meaningful opportunity to comment on any proposed regulation, which in most cases should include a comment period of not less than 60 days. Each agency also is directed to explore and, where appropriate, use consensual mechanisms for developing regulations, including negotiated rulemaking.
+(a) <i>Agency Responsibilities</i>. (1) Each agency shall (consistent with its own rules, regulations, or procedures) provide the public with meaningful participation in theregulatory process. In particular, before issuing a notice of proposed rulemaking, each agency should, where appropriate, seek the involvement of those who are intended to benefit from and those expected to be burdened by any regulation (including, specifically, State, local, and tribal officials). In addition, each agency should afford the public a meaningful opportunity to comment on any proposed regulation, which in most cases should include a comment period of not less than 60 days. Each agency also is directed to explore and, where appropriate, use consensual mechanisms for developing regulations, including negotiated rulemaking.
 
 (2) Within 60 days of the date of this Executive order, each agency head shall designate a Regulatory Policy Officer who shall report to the agency head. The Regulatory Policy Officer shall be involved at each stage of the regulatory process to foster the development of effective, innovative, and least burdensome regulations and to further the principles set forth in this Executive order.
 
@@ -720,7 +630,7 @@ Sec. 6. <i>Centralized Review of Regulations</i>. The guidelines set forth below
 
 (B) All substantive communications between OIRA personnel and persons not employed by the executive branch of the Federal Government regarding a regulatory action under review shall be governed by the following guidelines: (i) A representative from the issuing agency shall be invited to any meeting between OIRA personnel and such person(s);
 
-(ii) OIRA shall forward to the issuing agency, within 10 working days of receipt of the communication(s), all written communications, regardless of format, between OIRA personnel and any person who is not employed by the executive branch of the Federal Government, andthe dates and names of individuals involved in all substantive oral communications (including meetings to which an agency representative was invited, but did not attend, and telephone conversations between OIRA personnel and any such persons); and
+(ii) OIRA shall forward to the issuing agency, within 10 working days of receipt of the communication(s), all written communications, regardless of format, between OIRA personnel and any person who is not employed by the executive branch of the Federal Government, and the dates and names of individuals involved in all substantive oral communications (including meetings to which an agency representative was invited, but did not attend, and telephone conversations between OIRA personnel and any such persons); and
 
 (iii) OIRA shall publicly disclose relevant information about such communication(s), as set forth below in subsection (b)(4)(C) of this section.
 
@@ -754,145 +664,17 @@ Sec. 11. <i>Revocations</i>. Executive Orders Nos. 12291 and 12498; all amendmen
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 12875. Enhancing the Intergovernmental Partnership
+#### Executive Order No. 12875
 
-Ex. Ord. No. 12875, Oct. 26, 1993, 58 F.R. 58093, provided:
+Ex. Ord. No. 12875, Oct. 26, 1993, 58 F.R. 58093, which provided for the reduction of unfunded mandates on State, local, or tribal governments and increased flexibility for State and local waivers of statutory or regulatory requirements, was revoked by Ex. Ord. No. 13132, §10(b), Aug. 4, 1999, 64 F.R. 43259, set out below.
 
-The Federal Government is charged with protecting the health and safety, as well as promoting other national interests, of the American people. However, the cumulative effect of unfunded Federal mandates has increasingly strained the budgets of State, local, and tribal governments. In addition, the cost, complexity, and delay in applying for and receiving waivers from Federal requirements in appropriate cases have hindered State, local, and tribal governments from tailoring Federal programs to meet the specific or unique needs of their communities. These governments should have more flexibility to design solutions to the problems faced by citizens in this country without excessive micromanagement and unnecessary regulation from the Federal Government.
+#### Executive Order No. 13083
 
-THEREFORE, by the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to reduce the imposition of unfunded mandates upon State, local, and tribal governments; to streamline the application process for and increase the availability of waivers to State, local, and tribal governments; and to establish regular and meaningful consultation and collaboration with State, local, and tribal governments on Federal matters that significantly or uniquely affect their communities, it is hereby ordered as follows:
+Ex. Ord. No. 13083, May 14, 1998, 63 F.R. 27651, which listed fundamental federalism principles and federalism policymaking criteria to guide agencies in formulating and implementing policies and required agencies to have a process to permit State and local governments to provide input into the development of regulatory policies that have federalism implications and to streamline the State and local government waiver process, was revoked by Ex. Ord. No. 13132, §10(b), Aug. 4, 1999, 64 F.R. 43259, set out below.
 
-Section 1. <i>Reduction of Unfunded Mandates</i>. (a) To the extent feasible and permitted by law, no executive department or agency (“agency”) shall promulgate any regulation that is not required by statute and that creates a mandate upon a State, local, or tribal government, unless:
+#### Executive Order No. 13095
 
-(1) funds necessary to pay the direct costs incurred by the State, local, or tribal government in complying with the mandate are provided by the Federal Government; or
-
-(2) the agency, prior to the formal promulgation of regulations containing the proposed mandate, provides to the Director of the Office of Management and Budget a description of the extent of the agency's prior consultation with representatives of affected State, local, and tribal governments, the nature of their concerns, any written communications submitted to the agency by such units of government, and the agency's position supporting the need to issue the regulation containing the mandate.
-
-(b) Each agency shall develop an effective process to permit elected officials and other representatives of State, local, and tribal governments to provide meaningful and timely input in the development of regulatory proposals containing significant unfunded mandates.
-
-Sec. 2. <i>Increasing Flexibility for State and Local Waivers</i>. (a) Each agency shall review its waiver application process and take appropriate steps to streamline that process.
-
-(b) Each agency shall, to the extent practicable and permitted by law, consider any application by a State, local, or tribal government for a waiver of statutory or regulatory requirements in connection with any program administered by that agency with a general view toward increasing opportunities for utilizing flexible policy approaches at the State, local, and tribal level in cases in which the proposed waiver is consistent with the applicable Federal policy objectives and is otherwise appropriate.
-
-(c) Each agency shall, to the fullest extent practicable and permitted by law, render a decision upon a complete application for a waiver within 120 days of receipt of such application by the agency. If the application for a waiver is not granted, the agency shall provide the applicant with timely written notice of the decision and the reasons therefor.
-
-(d) This section applies only to statutory or regulatory requirements of the programs that are discretionary and subject to waiver by the agency.
-
-Sec. 3. <i>Responsibility for Agency Implementation</i>. The Chief Operating Officer of each agency shall be responsible for ensuring the implementation of and compliance with this order.
-
-Sec. 4. <i>Executive Order No. 12866</i>. This order shall supplement but not supersede the requirements contained in Executive Order No. 12866 \[set out above\] (“Regulatory Planning and Review”).
-
-Sec. 5. <i>Scope</i>. (a) Executive agency means any authority of the United States that is an “agency” under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(10).
-
-(b) Independent agencies are requested to comply with the provisions of this order.
-
-Sec. 6. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
-
-Sec. 7. <i>Effective Date</i>. This order shall be effective 90 days after the date of this order.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-\[Ex. Ord. No. 13083, §7(c), May 14, 1998, 63 F.R. 27653, set out below, which directed the revocation of Ex. Ord. No. 12875, effective 90 days after May 14, 1998, was suspended by Ex. Ord. No. 13095, Aug. 5, 1998, 63 F.R. 42565, set out below.\]
-
-#### Ex. Ord. No. 13083. Federalism
-
-Ex. Ord. No. 13083, May 14, 1998, 63 F.R. 27651, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to guarantee the division of governmental responsibilities, embodied in the Constitution, between the Federal Government and the States that was intended by the Framers and application of those principles by the Executive departments and agencies in the formulation and implementation of policies, it is hereby ordered as follows:
-
-Section 1. <i>Definitions</i>. For purposes of this order:
-
-(a) “State” or “States” refer to the States of the United States of America, individually or collectively, and, where relevant, to State governments, including units of local government and other political subdivisions established by the States.
-
-(b) “Policies that have federalism implications” refers to Federal regulations, proposed legislation, and other policy statements or actions that have substantial direct effects on the States or on the relationship, or the distribution of power and responsibilities, between the Federal Government and the States.
-
-(c) “Agency” means any authority of the United States that is an “agency” under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(5).
-
-Sec. 2. <i>Fundamental Federalism Principles</i>. In formulating and implementing policies that have federalism implications, agencies shall be guided by the following fundamental federalism principles:
-
-(a) The structure of government established by the Constitution is premised upon a system of checks and balances.
-
-(b) The Constitution created a Federal Government of supreme, but limited, powers. The sovereign powers not granted to the Federal Government are reserved to the people or to the States, unless prohibited to the States by the Constitution.
-
-(c) Federalism reflects the principle that dividing power between the Federal Government and the States serves to protect individual liberty. Preserving State authority provides an essential balance to the power of the Federal Government, while preserving the supremacy of Federal law provides an essential balance to the power of the States.
-
-(d) The people of the States are at liberty, subject only to the limitations in the Constitution itself or in Federal law, to define the moral, political, and legal character of their lives.
-
-(e) Our constitutional system encourages a healthy diversity in the public policies adopted by the people of the several States according to their own conditions, needs, and desires. States and local governments are often uniquely situated to discern the sentiments of the people and to govern accordingly.
-
-(f) Effective public policy is often achieved when there is competition among the several States in the fashioning of different approaches to public policy issues. The search for enlightened public policy is often furthered when individual States and local governments are free to experiment with a variety of approaches to public issues. Uniform, national approaches to public policy problems can inhibit the creation of effective solutions to those problems.
-
-(g) Policies of the Federal Government should recognize the responsibility of—and should encourage opportunities for—States, local governments, private associations, neighborhoods, families, and individuals to achieve personal, social, environmental, and economic objectives through cooperative effort.
-
-Sec. 3. <i>Federalism Policymaking Criteria</i>. In addition to adhering to the fundamental federalism principles set forth in section 2 of this order, agencies shall adhere, to the extent permitted by law, to the following criteria when formulating and implementing policies that have federalism implications:
-
-(a) There should be strict adherence to constitutional principles. Agencies should closely examine the constitutional and statutory authority supporting any Federal action that would limit the policymaking discretion of States and local governments, and should carefully assess the necessity for such action.
-
-(b) Agencies may limit the policymaking discretion of States and local governments only after determining that there is constitutional and legal authority for the action.
-
-(c) With respect to Federal statutes and regulations administered by States and local governments, the Federal Government should grant States and local governments the maximum administrative discretion possible. Any Federal oversight of such State and local administration should not unnecessarily intrude on State and local discretion.
-
-(d) It is important to recognize the distinction between matters of national or multi-state scope (which may justify Federal action) and matters that are merely common to the States (which may not justify Federal action because individual States, acting individually or together, may effectively deal with them). Matters of national or multi-state scope that justify Federal action may arise in a variety of circumstances, including:
-
-(1) When the matter to be addressed by Federal action occurs interstate as opposed to being contained within one State's boundaries.
-
-(2) When the source of the matter to be addressed occurs in a State different from the State (or States) where a significant amount of the harm occurs.
-
-(3) When there is a need for uniform national standards.
-
-(4) When decentralization increases the costs of government thus imposing additional burdens on the taxpayer.
-
-(5) When States have not adequately protected individual rights and liberties.
-
-(6) When States would be reluctant to impose necessary regulations because of fears that regulated business activity will relocate to other States.
-
-(7) When placing regulatory authority at the State or local level would undermine regulatory goals because high costs or demands for specialized expertise will effectively place the regulatory matter beyond the resources of State authorities.
-
-(8) When the matter relates to Federally owned or managed property or natural resources, trust obligations, or international obligations.
-
-(9) When the matter to be regulated significantly or uniquely affects Indian tribal governments.
-
-Sec. 4. <i>Consultation</i>. (a) Each agency shall have an effective process to permit elected officials and other representatives of State and local governments to provide meaningful and timely input in the development of regulatory policies that have federalism implications.
-
-(b) To the extent practicable and permitted by law, no agency shall promulgate any regulation that is not required by statute, that has federalism implications, and that imposes substantial direct compliance costs on States and local governments, unless:
-
-&emsp;(1) funds necessary to pay the direct costs incurred by the State or local government in complying with the regulation are provided by the Federal Government; or
-
-&emsp;(2) the agency, prior to the formal promulgation of the regulation,
-
-&emsp;&emsp;(A) in a separately identified portion of the preamble to the regulation as it is to be issued in the Federal Register, provides to the Director of the Office of Management and Budget a description of the extent of the agency's prior consultation with representatives of affected States and local governments, a summary of the nature of their concerns, and the agency's position supporting the need to issue the regulation; and
-
-&emsp;&emsp;(B) makes available to the Director of the Office of Management and Budget any written communications submitted to the agency by States or local governments.
-
-Sec. 5. <i>Increasing Flexibility for State and Local Waivers</i>. (a) Agencies shall review the processes under which States and local governments apply for waivers of statutory and regulatory requirements and take appropriate steps to streamline those processes.
-
-(b) Each agency shall, to the extent practicable and permitted by law, consider any application by a State or local government for a waiver of statutory or regulatory requirements in connection with any program administered by that agency with a general view toward increasing opportunities for utilizing flexible policy approaches at the State or local level in cases in which the proposed waiver is consistent with applicable Federal policy objectives and is otherwise appropriate.
-
-(c) Each agency shall, to the extent practicable and permitted by law, render a decision upon a complete application for a waiver within 120 days of receipt of such application by the agency. If the application for a waiver is not granted, the agency shall provide the applicant with timely written notice of the decision and the reasons therefor.
-
-(d) This section applies only to statutory or regulatory requirements that are discretionary and subject to waiver by the agency.
-
-Sec. 6. <i>Independent Agencies</i>. Independent regulatory agencies are encouraged to comply with the provisions of this order.
-
-Sec. 7. <i>General Provisions</i>. (a) This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
-
-(b) This order shall supplement but not supersede the requirements contained in Executive Order 12866 (“Regulatory Planning and Review”) \[set out above\], Executive Order 12988 (“Civil Justice Reform”) \[28 U.S.C. 519 note\], and OMB Circular A–19.
-
-(c) Executive Order 12612 of October 26, 1987, and Executive Order 12875 of October 26, 1993, are revoked.
-
-(d) The consultation and waiver provisions in sections 4 and 5 of this order shall complement the Executive order entitled, “Consultation and Coordination with Indian Tribal Governments,” being issued on this day.
-
-(e) This order shall be effective 90 days after the date of this order.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Ex. Ord. No. 13095. Suspension of Executive Order 13083
-
-Ex. Ord. No. 13095, Aug. 5, 1998, 63 F.R. 42565, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America and in order to enable full and adequate consultation with State and local elected officials, their representative organizations, and other interested parties, it is hereby ordered that Executive Order 13083 \[set out above\], entitled “Federalism,” is suspended.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13095, Aug. 5, 1998, 63 F.R. 42565, which suspended Ex. Ord. No. 13083, was revoked by Ex. Ord. No. 13132, §10(b), Aug. 4, 1999, 64 F.R. 43259, set out below.
 
 #### Ex. Ord. No. 13107. Implementation of Human Rights Treaties
 
@@ -1056,11 +838,141 @@ To ensure the use of plain language, I direct you to do the following:
 
 &emsp;• By January 1, 1999, use plain language in all proposed and final rulemaking documents published in the Federal Register, unless you proposed the rule before that date. You should consider rewriting existing regulations in plain language when you have the opportunity and resources to do so.
 
-The National Partnership for Reinventing Government will issue guidance to help you comply with these directives and to explain more fully the elements of plain language. You should also use customer feedback and common sense to guide your plain language efforts.
+The National Partnership for Reinventing Government will issue guidance to help you comply with thesedirectives and to explain more fully the elements of plain language. You should also use customer feedback and common sense to guide your plain language efforts.
 
 I ask the independent agencies to comply with these directives.
 
 This memorandum does not confer any right or benefit enforceable by law against the United States or its representatives. The Director of the Office of Management and Budget will publish this memorandum in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13132. Federalism
+
+Ex. Ord. No. 13132, Aug. 4, 1999, 64 F.R. 43255, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to guarantee the division of governmental responsibilities between the national government and the States that was intended by the Framers of the Constitution, to ensure that the principles of federalism established by the Framers guide the executive departments and agencies in the formulation and implementation of policies, and to further the policies of the Unfunded Mandates Reform Act \[of 1995, Pub. L. 104–4, see Tables for classification\], it is hereby ordered as follows:
+
+Section 1. <i>Definitions</i>. For purposes of this order:
+
+(a) “Policies that have federalism implications” refers to regulations, legislative comments or proposed legislation, and other policy statements or actions that have substantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government.
+
+(b) “State” or “States” refer to the States of the United States of America, individually or collectively, and, where relevant, to State governments, including units of local government and other political subdivisions established by the States.
+
+(c) “Agency” means any authority of the United States that is an “agency” under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(5).
+
+(d) “State and local officials” means elected officials of State and local governments or their representative national organizations.
+
+Sec. 2. <i>Fundamental Federalism Principles</i>. In formulating and implementing policies that have federalism implications, agencies shall be guided by the following fundamental federalism principles:
+
+(a) Federalism is rooted in the belief that issues that are not national in scope or significance are most appropriately addressed by the level of government closest to the people.
+
+(b) The people of the States created the national government and delegated to it enumerated governmental powers. All other sovereign powers, save those expressly prohibited the States by the Constitution, are reserved to the States or to the people.
+
+(c) The constitutional relationship among sovereign governments, State and national, is inherent in the very structure of the Constitution and is formalized in and protected by the Tenth Amendment to the Constitution.
+
+(d) The people of the States are free, subject only to restrictions in the Constitution itself or in constitutionally authorized Acts of Congress, to define the moral, political, and legal character of their lives.
+
+(e) The Framers recognized that the States possess unique authorities, qualities, and abilities to meet the needs of the people and should function as laboratories of democracy.
+
+(f) The nature of our constitutional system encourages a healthy diversity in the public policies adopted by the people of the several States according to their own conditions, needs, and desires. In the search for enlightened public policy, individual States and communities are free to experiment with a variety of approaches to public issues. One-size-fits-all approaches to public policy problems can inhibit the creation of effective solutions to those problems.
+
+(g) Acts of the national government—whether legislative, executive, or judicial in nature—that exceed the enumerated powers of that government under the Constitution violate the principle of federalism established by the Framers.
+
+(h) Policies of the national government should recognize the responsibility of—and should encourage opportunities for—individuals, families, neighborhoods, local governments, and private associations to achieve their personal, social, and economic objectives through cooperative effort.
+
+(i) The national government should be deferential to the States when taking action that affects the policymaking discretion of the States and should act only with the greatest caution where State or local governments have identified uncertainties regarding the constitutional or statutory authority of the national government.
+
+Sec. 3. <i>Federalism Policymaking Criteria</i>. In addition to adhering to the fundamental federalism principles set forth in section 2, agencies shall adhere, to the extent permitted by law, to the following criteria when formulating and implementing policies that have federalism implications:
+
+(a) There shall be strict adherence to constitutional principles. Agencies shall closely examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the States and shall carefully assess the necessity for such action. To the extent practicable, State and local officials shall be consulted before any such action is implemented. Executive Order 12372 of July 14, 1982 (“Intergovernmental Review of Federal Programs”) \[31 U.S.C. 6506 note\] remains in effect for the programs and activities to which it is applicable.
+
+(b) National action limiting the policymaking discretion of the States shall be taken only where there is constitutional and statutory authority for the action and the national activity is appropriate in light of the presence of a problem of national significance. Where there are significant uncertainties as to whether national action is authorized or appropriate, agencies shall consult with appropriate State and local officials to determine whether Federal objectives can be attained by other means.
+
+(c) With respect to Federal statutes and regulations administered by the States, the national government shall grant the States the maximum administrative discretion possible. Intrusive Federal oversight of State administration is neither necessary nor desirable.
+
+(d) When undertaking to formulate and implement policies that have federalism implications, agencies shall:
+
+&emsp;(1) encourage States to develop their own policies to achieve program objectives and to work with appropriate officials in other States;
+
+&emsp;(2) where possible, defer to the States to establish standards;
+
+&emsp;(3) in determining whether to establish uniform national standards, consult with appropriate State and local officials as to the need for national standards and any alternatives that would limit the scope of national standards or otherwise preserve State prerogatives and authority; and
+
+&emsp;(4) where national standards are required by Federal statutes, consult with appropriate State and local officials in developing those standards.
+
+Sec. 4. <i>Special Requirements for Preemption</i>. Agencies, in taking action that preempts State law, shall act in strict accordance with governing law.
+
+(a) Agencies shall construe, in regulations and otherwise, a Federal statute to preempt State law only where the statute contains an express preemption provision or there is some other clear evidence that the Congress intended preemption of State law, or where the exercise of State authority conflicts with the exercise of Federal authority under the Federal statute.
+
+(b) Where a Federal statute does not preempt State law (as addressed in subsection (a) of this section), agencies shall construe any authorization in the statute for the issuance of regulations as authorizing preemption of State law by rulemaking only when the exercise of State authority directly conflicts with the exercise of Federal authority under the Federal statute or there is clear evidence to conclude that the Congress intended the agency to have the authority to preempt State law.
+
+(c) Any regulatory preemption of State law shall be restricted to the minimum level necessary to achieve the objectives of the statute pursuant to which the regulations are promulgated.
+
+(d) When an agency foresees the possibility of a conflict between State law and Federally protected interests within its area of regulatory responsibility, the agency shall consult, to the extent practicable, with appropriate State and local officials in an effort to avoid such a conflict.
+
+(e) When an agency proposes to act through adjudication or rulemaking to preempt State law, the agency shall provide all affected State and local officials notice and an opportunity for appropriate participation in the proceedings.
+
+Sec. 5. <i>Special Requirements for Legislative Proposals</i>. Agencies shall not submit to the Congress legislation that would:
+
+(a) directly regulate the States in ways that would either interfere with functions essential to the States’ separate and independent existence or be inconsistent with the fundamental federalism principles in section 2;
+
+(b) attach to Federal grants conditions that are not reasonably related to the purpose of the grant; or
+
+(c) preempt State law, unless preemption is consistent with the fundamental federalism principles set forth in section 2, and unless a clearly legitimate national purpose, consistent with the federalism policymaking criteria set forth in section 3, cannot otherwise be met.
+
+Sec. 6. <i>Consultation.</i>
+
+(a) Each agency shall have an accountable process to ensure meaningful and timely input by State and local officials in the development of regulatory policies that have federalism implications. Within 90 days after the effective date of this order, the head of each agency shall designate an official with principal responsibility for the agency's implementation of this order and that designated official shall submit to the Office of Management and Budget a description of the agency's consultation process.
+
+(b) To the extent practicable and permitted by law, no agency shall promulgate any regulation that has federalism implications, that imposes substantial direct compliance costs on State and local governments, and that is not required by statute, unless:
+
+&emsp;(1) funds necessary to pay the direct costs incurred by the State and local governments in complying with the regulation are provided by the Federal Government; or
+
+&emsp;(2) the agency, prior to the formal promulgation of the regulation,
+
+&emsp;&emsp;(A) consulted with State and local officials early in the process of developing the proposed regulation;
+
+&emsp;&emsp;(B) in a separately identified portion of the preamble to the regulation as it is to be issued in the Federal Register, provides to the Director of the Office of Management and Budget a federalism summary impact statement, which consists of a description of the extent of the agency's prior consultation with State and local officials, a summary of the nature of their concerns and the agency's position supporting the need to issue the regulation, and a statement of the extent to which the concerns of State and local officials have been met; and
+
+&emsp;&emsp;(C) makes available to the Director of the Office of Management and Budget any written communications submitted to the agency by State and local officials.
+
+(c) To the extent practicable and permitted by law, no agency shall promulgate any regulation that has federalism implications and that preempts State law, unless the agency, prior to the formal promulgation of the regulation,
+
+&emsp;(1) consulted with State and local officials early in the process of developing the proposed regulation;
+
+&emsp;(2) in a separately identified portion of the preamble to the regulation as it is to be issued in the Federal Register, provides to the Director of the Office of Management and Budget a federalism summary impact statement, which consists of a description of the extent of the agency's prior consultation with State and local officials, a summary of the nature of their concerns and the agency's position supporting the need to issue the regulation, and a statement of the extent to which the concerns of State and local officials have been met; and
+
+&emsp;(3) makes available to the Director of the Office of Management and Budget any written communications submitted to the agency by State and local officials.
+
+Sec. 7. <i>Increasing Flexibility for State and Local Waivers.</i>
+
+(a) Agencies shall review the processes under which State and local governments apply for waivers of statutory and regulatory requirements and take appropriate steps to streamline those processes.
+
+(b) Each agency shall, to the extent practicable and permitted by law, consider any application by a State for a waiver of statutory or regulatory requirements in connection with any program administered by that agency with a general view toward increasing opportunities for utilizing flexible policy approaches at the State or local level in cases in which the proposed waiver is consistent with applicable Federal policy objectives and is otherwise appropriate.
+
+(c) Each agency shall, to the extent practicable and permitted by law, render a decision upon a complete application for a waiver within 120 days of receipt of such application by the agency. If the application for a waiver is not granted, the agency shall provide the applicant with timely written notice of the decision and the reasons therefor.
+
+(d) This section applies only to statutory or regulatory requirements that are discretionary and subject to waiver by the agency.
+
+Sec. 8. <i>Accountability.</i>
+
+(a) In transmitting any draft final regulation that has federalism implications to the Office of Management and Budget pursuant to Executive Order 12866 of September 30, 1993 \[set out above\], each agency shall include a certification from the official designated to ensure compliance with this order stating that the requirements of this order have been met in a meaningful and timely manner.
+
+(b) In transmitting proposed legislation that has federalism implications to the Office of Management and Budget, each agency shall include a certification from the official designated to ensure compliance with this order that all relevant requirements of this order have been met.
+
+(c) Within 180 days after the effective date of this order, the Director of the Office of Management and Budget and the Assistant to the President for Intergovernmental Affairs shall confer with State and local officials to ensure that this order is being properly and effectively implemented.
+
+Sec. 9. <i>Independent Agencies</i>. Independent regulatory agencies are encouraged to comply with the provisions of this order.
+
+Sec. 10. <i>General Provisions.</i>
+
+(a) This order shall supplement but not supersede the requirements contained in Executive Order 12372 (“Intergovernmental Review of Federal Programs”) \[31 U.S.C. 6506 note\], Executive Order 12866 (“Regulatory Planning and Review”) \[set out above\], Executive Order 12988 (“Civil Justice Reform” \[28 U.S.C. 519 note\]), and OMB Circular A–19.
+
+(b) Executive Order 12612 (“Federalism”), Executive Order 12875 (“Enhancing the Intergovernmental Partnership”), Executive Order 13083 (“Federalism”), and Executive Order 13095 (“Suspension of Executive Order 13083”) are revoked.
+
+(c) This order shall be effective 90 days after the date of this order.
+
+Sec. 11. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch, and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

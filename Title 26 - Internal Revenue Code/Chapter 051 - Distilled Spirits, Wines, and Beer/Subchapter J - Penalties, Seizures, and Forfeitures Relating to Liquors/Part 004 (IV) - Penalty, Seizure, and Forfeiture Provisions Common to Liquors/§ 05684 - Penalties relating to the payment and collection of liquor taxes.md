@@ -26,7 +26,7 @@ The penalties imposed by subsection (a) shall be assessed, collected, and paid i
 
 #### Prior Provisions
 
-A prior section 5684, act Aug. 16, 1954, ch. 736, 68A Stat. 699, consisted of provisions similar to those comprising this section, prior to the general revision of thischapter by Pub. L. 85–859. See section 5687 of this title and criminal and civil penalties of subtitle F of this title.
+A prior section 5684, act Aug. 16, 1954, ch. 736, 68A Stat. 699, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859. See section 5687 of this title and criminal and civil penalties of subtitle F of this title.
 
 #### Amendments
 

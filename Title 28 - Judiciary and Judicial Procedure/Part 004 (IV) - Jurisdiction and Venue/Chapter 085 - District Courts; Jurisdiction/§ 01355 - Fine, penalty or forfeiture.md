@@ -6,7 +6,7 @@
 
 &emsp;(A) the district court for the district in which any of the acts or omissions giving rise to the forfeiture occurred, or
 
-&emsp;(B) any other district where venue for the forfeiture action or proceeding is specificallyprovided for in section 1395 of this title or any other statute.
+&emsp;(B) any other district where venue for the forfeiture action or proceeding is specifically provided for in section 1395 of this title or any other statute.
 
 (2) Whenever property subject to forfeiture under the laws of the United States is located in a foreign country, or has been detained or seized pursuant to legal process or competent authority of a foreign government, an action or proceeding for forfeiture may be brought as provided in paragraph (1), or in the United States District court <sup>1</sup> for the District of Columbia.
 

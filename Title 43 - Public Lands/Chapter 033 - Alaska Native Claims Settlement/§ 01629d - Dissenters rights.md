@@ -80,5 +80,5 @@
 
 This section is referred to in sections 1629b, 1629c of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “board of directors”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

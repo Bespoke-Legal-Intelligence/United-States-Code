@@ -10,7 +10,7 @@ For purposes of this section, the term “make and enforce contracts” includes
 
 #### (c) Protection against impairment
 
-The rights protected by this section are protected against impairment by nongovernmental discrimination and impairment under color of State law.
+The rights protected by this section are protected against impairment by nongovernmentaldiscrimination and impairment under color of State law.
 
 (R.S. §1977; Pub. L. 102–166, title I, §101, Nov. 21, 1991, 105 Stat. 1071.)
 
@@ -82,43 +82,9 @@ Section 116 of title I of Pub. L. 102–166 provided that: “Nothing in the ame
 
 Section 118 of title I of Pub. L. 102–166 provided that: “Where appropriate and to the extent authorized by law, the use of alternative means of dispute resolution, including settlement negotiations, conciliation, facilitation, mediation, factfinding, minitrials, and arbitration, is encouraged to resolve disputes arising under the Acts or provisions of Federal law amended by this title \[enacting section 1981a of this title and amending this section, sections 1988, 2000e, 2000e–1, 2000e–2, 2000e–4, 2000e–5, 2000e–16, 12111, and 12112 of this title, and section 626 of Title 29, Labor\].”
 
-#### Ex. Ord. No. 13050. President's Advisory Board on Race
+#### Executive Order No. 13050
 
-Ex. Ord. No. 13050, June 13, 1997, 62 F.R. 32987, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to establish a President's Advisory Board on Race, it is hereby ordered as follows:
-
-Section 1. <i>Establishment</i>. (a) There is established the President's Advisory Board on Race. The Advisory Board shall comprise 7 members from outside the Federal Government to be appointed by the President. Members shall each have substantial experience and expertise in the areas to be considered by the Advisory Board. Members shall be representative of the diverse perspectives in the areas to be considered by the Advisory Board.
-
-(b) The President shall designate a Chairperson from among the members of the Advisory Board.
-
-Sec. 2. <i>Functions</i>. (a) The Advisory Board shall advise the President on matters involving race and racial reconciliation, including ways in which the President can:
-
-(1) Promote a constructive national dialogue to confront and work through challenging issues that surround race;
-
-(2) Increase the Nation's understanding of our recent history of race relations and the course our Nation is charting on issues of race relations and racial diversity;
-
-(3) Bridge racial divides by encouraging leaders in communities throughout the Nation to develop and implement innovative approaches to calming racial tensions;
-
-(4) Identify, develop, and implement solutions to problems in areas in which race has a substantial impact, such as education, economic opportunity, housing, health care, and the administration of justice.
-
-(b) The Advisory Board also shall advise on such other matters as from time to time the President may refer to the Board.
-
-(c) In carrying out its functions, the Advisory Board shall coordinate with the staff of the President's Initiative on Race.
-
-Sec. 3. <i>Administration</i>. (a) To the extent permitted by law and subject to the availability of appropriations, the Department of Justice shall provide the financial and administrative support for the Advisory Board.
-
-(b) The heads of executive agencies shall, to the extent permitted by law, provide to the Advisory Board such information as it may require for the purpose of carrying out its functions.
-
-(c) The Chairperson may, from time to time, invite experts to submit information to the Advisory Board and may form subcommittees or working groups within the Advisory Board to review specific matters.
-
-(d) Members of the Advisory Board shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701-5707).
-
-Sec. 4. <i>General</i>. (a) Notwithstanding any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended, except that of reporting to the Congress, that are applicable to the Advisory Board shall be performed by the Attorney General, or his or her designee, in accordance with guidelines that have been issued by the Administrator of General Services.
-
-(b) The Advisory Board shall terminate on September 30, 1998, unless extended by the President prior to such date.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13050, June 13, 1997, 62 F.R. 32987, which established the President's Advisory Board on Race, was revoked by Ex. Ord. No. 13138, §3(e), Sept. 30, 1999, 64 F.R. 53880, set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

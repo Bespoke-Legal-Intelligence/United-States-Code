@@ -4,7 +4,7 @@
 
 #### (1) Processors and refiners
 
-&emsp;All sugarcane processors, cane sugar refiners, and sugar beet processors shall furnish the Secretary, on a monthly basis, such information as the Secretary may require to administer sugar programs, including the quantity of purchases of sugarcane, sugar beets, and sugar, and production, importation, distribution, and stock levels of sugar.
+&emsp;All sugarcane processors, cane sugar refiners, and sugar beet processors shall furnish the Secretary, on a monthly basis, such information as the Secretary may require to administer sugar programs, including the quantity of purchases of sugarcane, sugar beets, andsugar, and production, importation, distribution, and stock levels of sugar.
 
 #### (2) Manufacturers of crystalline fructose
 

@@ -168,7 +168,7 @@ The Director shall—
 
 #### (C) Notification of disapproval
 
-&emsp;&emsp;If the Director determines that a State dam safety program does not meet the requirements for approval, the Director shall immediately notify the State in writing and provide the reasons for the determination and the changes that are necessary for the plan to be approved.
+&emsp;&emsp;If the Director determines that a State dam safety program does not meet the requirements for approval, the Director shall immediately notify the State in writing and provide the reasons for the determinationand the changes that are necessary for the plan to be approved.
 
 #### (6) Review of State dam safety programs
 

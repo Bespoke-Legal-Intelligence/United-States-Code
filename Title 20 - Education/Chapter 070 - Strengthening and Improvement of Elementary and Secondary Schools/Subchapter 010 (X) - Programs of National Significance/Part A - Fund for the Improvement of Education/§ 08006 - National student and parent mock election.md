@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary is authorized to award grants to national nonprofit, nonpartisan organizations that work to promote voter participation in American elections to enable such organizationsto carry out voter education activities for students and their parents. Such activities shall—
+The Secretary is authorized to award grants to national nonprofit, nonpartisan organizations that work to promote voter participation in American elections to enable such organizations to carry out voter education activities for students and their parents. Such activities shall—
 
 &emsp;(1) be limited to simulated national elections that permit participation by students and parents from all 50 States in the United States; and
 

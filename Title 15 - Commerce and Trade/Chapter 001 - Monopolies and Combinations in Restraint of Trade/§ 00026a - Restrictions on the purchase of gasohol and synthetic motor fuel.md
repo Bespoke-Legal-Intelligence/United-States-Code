@@ -32,5 +32,5 @@ As used in this section, “United States” includes the several States, the Di
 
 #### Short Title
 
-For short title of Pub. L. 96–493 as the “Gasohol Competition Act of 1980”, see section 1 of Pub. L. 96–493, setout as a Short Title of 1980 Amendment note under section 1 of this title.
+For short title of Pub. L. 96–493 as the “Gasohol Competition Act of 1980”, see section 1 of Pub. L. 96–493, set out as a Short Title of 1980 Amendment note under section 1 of this title.
 

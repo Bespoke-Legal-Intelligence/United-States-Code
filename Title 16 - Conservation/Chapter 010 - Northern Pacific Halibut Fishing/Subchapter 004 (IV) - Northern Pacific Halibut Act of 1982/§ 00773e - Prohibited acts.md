@@ -6,7 +6,7 @@ It is unlawful—
 
 &emsp;&emsp;(1) to violate any provision of the Convention, this subchapter or any regulation adopted under this subchapter;
 
-&emsp;&emsp;(2) to refuse to permit any enforcement officer to board a fishing vessel subject to such person's control for purposes of conducting any search or inspection in connection with the enforcement of the Convention, this subchapter or any regulation adopted under this subchapter;
+&emsp;&emsp;(2) to refuse to permit any enforcement officer to board a fishing vessel subject to such person's control for purposes of conductingany search or inspection in connection with the enforcement of the Convention, this subchapter or any regulation adopted under this subchapter;
 
 &emsp;&emsp;(3) to forcibly assault, resist, oppose, impede, intimidate or interfere with any enforcement officer in the conduct of any search or inspection described in paragraph (2);
 

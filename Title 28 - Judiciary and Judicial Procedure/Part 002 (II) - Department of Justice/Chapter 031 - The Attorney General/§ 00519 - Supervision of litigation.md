@@ -52,7 +52,7 @@ Section 1. <i>Guidelines to Promote Just and Efficient Government Civil Litigati
 
 (a) <i>Pre-filing Notice of a Complaint</i>. No litigation counsel shall file a complaint initiating civil litigation without first making a reasonable effort to notify all disputants about the nature of the dispute and to attempt to achieve a settlement, or confirming that the referring agency that previously handled the dispute has made a reasonable effort to notify the disputants and to achieve a settlement or has used its conciliation processes.
 
-(b) <i>Settlement Conferences</i>. As soon as practicable after ascertaining the nature of a dispute in litigation, and throughout the litigation, litigation counsel shall evaluate settlement possibilities and make reasonable efforts to settle the litigation. Such efforts shall include offering to participate in a settlement conference or moving the court for a conference pursuant to Rule 16 of the Federal Rules of Civil Procedure \[28 App. U.S.C.\] in an attempt to resolve the dispute without additional civil litigation.
+(b) <i>Settlement Conferences</i>. As soon as practicable after ascertaining the nature of a dispute in litigation, and throughout the litigation, litigation counsel shallevaluate settlement possibilities and make reasonable efforts to settle the litigation. Such efforts shall include offering to participate in a settlement conference or moving the court for a conference pursuant to Rule 16 of the Federal Rules of Civil Procedure \[28 App. U.S.C.\] in an attempt to resolve the dispute without additional civil litigation.
 
 (c) <i>Alternative Methods of Resolving the Dispute in Litigation</i>. Litigation counsel shall make reasonable attempts to resolve a dispute expeditiously and properly before proceeding to trial.
 
@@ -70,7 +70,7 @@ Section 1. <i>Guidelines to Promote Just and Efficient Government Civil Litigati
 
 (e) <i>Sanctions</i>. Litigation counsel shall take steps to seek sanctions against opposing counsel and opposing parties where appropriate.
 
-(1) Litigation counsel shall evaluate filings made by opposing parties and, where appropriate, shall petitionthe court to impose sanctions against those responsible for abusive practices.
+(1) Litigation counsel shall evaluate filings made by opposing parties and, where appropriate, shall petition the court to impose sanctions against those responsible for abusive practices.
 
 (2) Prior to filing a motion for sanctions, litigation counsel shall submit the motion for review to the sanctions officer, or his or her designee, within the litigation counsel's agency. Such officer or designee shall be a senior supervising attorney within the agency, and shall be licensed to practice law before a State court, courts of the District of Columbia, or courts of any territory or Commonwealth of the United States. The sanctions officer or designee shall also review motions for sanctions that are filed against litigation counsel, the United States, its agencies, or its officers.
 
@@ -156,7 +156,7 @@ Sec. 3. <i>Principles to Enact Legislation and Promulgate Regulations Which Do N
 
 Sec. 4. <i>Principles to Promote Just and Efficient Administrative Adjudications.</i>
 
-(a) <i>Implementation of Administrative Conference Recommendations</i>. In order to promote just and efficient resolution of disputes, an agency that adjudicates administrative claims shall, to the extent reasonable and practicable, and when not in conflict with other sections of this order, implement the recommendations of the Administrative Conference of the United States, entitled“Case Management as a Tool for Improving Agency Adjudication,” as contained in 1 C.F.R. 305.86-7 (1991).
+(a) <i>Implementation of Administrative Conference Recommendations</i>. In order to promote just and efficient resolution of disputes, an agency that adjudicates administrative claims shall, to the extent reasonable and practicable, and when not in conflict with other sections of this order, implement the recommendations of the Administrative Conference of the United States, entitled “Case Management as a Tool for Improving Agency Adjudication,” as contained in 1 C.F.R. 305.86-7 (1991).
 
 (b) <i>Improvements in Administrative Adjudication</i>. All Federal agencies should review their administrative adjudicatory processes and develop specific procedures to reduce delay in decision-making, to facilitate self-representation where appropriate, to expand non-lawyer counseling and representation where appropriate, and to invest maximum discretion in fact-finding officers to encourage appropriate settlement of claims as early as possible.
 

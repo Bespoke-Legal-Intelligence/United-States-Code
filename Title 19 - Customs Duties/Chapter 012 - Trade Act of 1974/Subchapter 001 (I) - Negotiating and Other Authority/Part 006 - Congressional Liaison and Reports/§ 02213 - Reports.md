@@ -46,7 +46,7 @@
 
 (C) Before submitting the national trade policy agenda for any year, the President shall seek advice from the appropriate advisory committees established under section 2155 of this title and shall consult with the appropriate committees of the Congress.
 
-(D) The United States Trade Representative (hereafter referred to in this section as the“Trade Representative”) and other appropriate officials of the United States Government shall consult periodically with the appropriate committees of the Congress regarding the annual objectives and priorities set forth in each national trade policy agenda with respect to—
+(D) The United States Trade Representative (hereafter referred to in this section as the “Trade Representative”) and other appropriate officials of the United States Government shall consult periodically with the appropriate committees of the Congress regarding the annual objectives and priorities set forth in each national trade policy agenda with respect to—
 
 &emsp;(i) the status and results of the actions that have been undertaken to achieve the objectives and priorities; and
 
@@ -80,7 +80,7 @@
 
 &emsp;(C) conclusions and recommendations, based upon the projections referred to in subparagraph (B), for policy changes, including trade policy, exchange rate policy, fiscal policy, and other policies that should be implemented to improve the outlook.
 
-(2) To the extent that subjects referred to in paragraph (1)(A), (B), or (C) are covered in the national trade policy agenda required under subsection (a)(1)(B) of this section or in other reports required by this chapter or other law, the Trade Representative and the Secretary of the Treasury may, as appropriate, draw on the information, analysis, and conclusions, if any, in those reports for the purposes of preparing the report required by this subsection.
+(2) To the extent that subjects referred to in paragraph (1)(A), (B), or (C) are covered in the national trade policy agenda required under subsection (a)(1)(B) of this section or in other reports required by this chapter or other law, the Trade Representative and the Secretary of the Treasury may, as appropriate, draw on the information, analysis, and conclusions, if any, inthose reports for the purposes of preparing the report required by this subsection.
 
 (3) The Trade Representative and the Secretary of the Treasury shall consult with the Chairman of the Board of Governors of the Federal Reserve System in the preparation of each report required under this subsection.
 
@@ -104,7 +104,7 @@ This chapter, referred to in subsecs. (a)(1)(A) and (b), was in the original “
 
 #### Trade Deficit Review Commission
 
-Pub. L. 105–277, div. A, §127, Oct. 21, 1998, 112 Stat. 2681–547, provided that:
+Pub. L. 105–277, div. A, §127, Oct. 21, 1998, 112 Stat. 2681–547, as amended by Pub. L. 106–57, title III, §311, Sept. 29, 1999, 113 Stat. 427, provided that:
 
 “(a)
 
@@ -320,7 +320,7 @@ In general.—The Chairperson of the Commission may, without regard to the civil
 
 &emsp;&emsp;“(B)
 
-Compensation.—The Chairperson of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+Compensation.—The Chairperson of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceedthe rate payable for level V of the Executive Schedule under section 5316 of such title.
 
 &emsp;“(4)
 
@@ -330,13 +330,33 @@ Detail of government employees.—Any Federal Government employee may be detaile
 
 Procurement of temporary and intermittent services.—The Chairperson of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
 
+&emsp;“(6)
+
+Applicability of certain pay authorities.—
+
+&emsp;&emsp;“(A)
+
+In general.—An individual who is a member of the Commission and is an annuitant or otherwise covered by section 8344 or 8468 of title 5, United States Code, by reason of membership on the Commission is not subject to the provisions of section 8344 or 8468 (whichever is applicable) with respect to such membership.
+
+&emsp;&emsp;“(B)
+
+Uniformed service.—An individual who is a member of the Commission and is a member or former member of a uniformed service is not subject to the provisions of subsections (b) and (c) of section 5532 \[of title 5\], United States Code, with respect to membership on the Commission.
+
 “(h)
 
 Support Services.—The Administrator of the General Services Administration shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request.
 
 “(i)
 
-Appropriations.—There are appropriated $2,000,000 to the Commission to carry out the provisions of this section.”
+Appropriations.—There are appropriated $2,000,000 to the Commission to carry out the provisions of this section. Amounts appropriated pursuant to this subsection shall remain available until the date which is 90 days after the date on which the Commission submits the final report described in subsection (e).
+
+“(j)
+
+Federal Advisory Committee Act.—The provisions of the Federal Advisory Committee Act (Public Law 92–463; 5 U.S.C. App.) shall not apply to the Commission.
+
+“(k)
+
+Termination.—The Commission shall terminate 90 days after the date on which the Commission submits the final report under subsection (e).”
 
 #### Section Referred to in Other Sections
 

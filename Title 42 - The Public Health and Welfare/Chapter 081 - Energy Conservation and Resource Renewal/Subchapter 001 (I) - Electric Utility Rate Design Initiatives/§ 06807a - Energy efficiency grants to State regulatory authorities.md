@@ -28,7 +28,7 @@ Each State regulatory authority that receives a grant under this section shall k
 
 #### (e) “State regulatory authority” defined
 
-For purposes of this section, the term “State regulatory authority” shall have the same meaning as provided by section 2602 of title 16 in the case of electric utilities, and such term shall have the same meaning as provided by section 3202 of title 15 in the case of gas utilities, except that in the case of any State without a statewide ratemaking authority, such term shall mean the State energy office.
+For purposes of this section, the term “State regulatory authority” shall have the same meaning as provided by section 2602 of title 16 in the case of electric utilities, and such term shall have the same meaning as provided by section3202 of title 15 in the case of gas utilities, except that in the case of any State without a statewide ratemaking authority, such term shall mean the State energy office.
 
 #### (f) Authorization
 

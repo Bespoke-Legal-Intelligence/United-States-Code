@@ -12,7 +12,7 @@ Effect of Compensation or Type of Duty.—Subsection (a) shall apply without reg
 
 Regulations.—The Secretary concerned shall prescribe regulations, subject to the approval of the Secretary of Defense, to carry out this section.
 
-(Added Pub. L. 99–661, div. A, title VI, §656(a)(1), Nov. 14, 1986, 100 Stat. 3891, §1052; renumbered §1063, Pub. L. 100–370, §1(c)(2)(A), July 19, 1988, 102 Stat. 841; amended Pub. L. 101–510, div. A, title III, §321(a)(1), Nov. 5, 1990, 104 Stat. 1527; Pub. L. 102–484, div. A, title III, §365(a), (c)(1), Oct. 23, 1992, 106 Stat. 2382; Pub. L. 104–106, div. A, title XV, §1501(c)(9), Feb. 10, 1996, 110 Stat. 499; Pub. L. 105–261, div. A, title III, §362(a), (d)(1), Oct. 17, 1998, 112 Stat. 1984, 1985.)
+(Added Pub. L. 99–661, div. A, title VI, §656(a)(1), Nov. 14, 1986, 100 Stat. 3891, §1052; renumbered§1063, Pub. L. 100–370, §1(c)(2)(A), July 19, 1988, 102 Stat. 841; amended Pub. L. 101–510, div. A, title III, §321(a)(1), Nov. 5, 1990, 104 Stat. 1527; Pub. L. 102–484, div. A, title III, §365(a), (c)(1), Oct. 23, 1992, 106 Stat. 2382; Pub. L. 104–106, div. A, title XV, §1501(c)(9), Feb. 10, 1996, 110 Stat. 499; Pub. L. 105–261, div. A, title III, §362(a), (d)(1), Oct. 17, 1998, 112 Stat. 1984, 1985.)
 
 #### Amendments
 
@@ -54,5 +54,5 @@ Section 656(c) of Pub. L. 99–661 provided that: “Section 1052 \[now 1063\] o
 
 #### Commissary and Exchange Privileges for Survivors of Certain Reservists
 
-Pub. L. 99–145, title III, §308, Nov. 8, 1985, 99 Stat. 618, which required the Secretary of Defense to prescribe regulations to allow dependents of certain deceased members of the uniformed services to use commissary and exchange stores on the same basis as dependents ofmembers of the uniformed services who die while on active duty for a period of more than 30 days, was repealed and restated in section 1061 of this title by Pub. L. 100–370, §1(c)(1), (4), July 19, 1988, 102 Stat. 841.
+Pub. L. 99–145, title III, §308, Nov. 8, 1985, 99 Stat. 618, which required the Secretary of Defense to prescribe regulations to allow dependents of certain deceased members of the uniformed services to use commissary and exchange stores on the same basis as dependents of members of the uniformed services who die while on active duty for a period of more than 30 days, was repealed and restated in section 1061 of this title by Pub. L. 100–370, §1(c)(1), (4), July 19, 1988, 102 Stat. 841.
 

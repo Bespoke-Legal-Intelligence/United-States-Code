@@ -10,5 +10,5 @@ Section 2588, Pub. L. 87–297, title IV, §48, Sept. 26, 1961, 75 Stat. 638; Pu
 
 #### Effective Date of Repeal
 
-Repeal effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+Repeal effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
 

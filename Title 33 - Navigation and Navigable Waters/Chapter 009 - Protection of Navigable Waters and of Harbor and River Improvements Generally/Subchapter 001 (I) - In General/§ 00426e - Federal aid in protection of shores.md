@@ -2,7 +2,7 @@
 
 #### (a) Declaration of policy
 
-With the purpose of preventing damage to the shores and beaches of the United States, its Territories and possessions and promoting and encouraging the healthful recreation of the people, it is declared to be the policy of the UnitedStates, subject to sections 426e to 426h–1 of this title, to promote shore protection projects and related research that encourage the protection, restoration, and enhancement of sandy beaches, including beach restoration and periodic beach nourishment, on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprises. In carrying out this policy, preference shall be given to areas in which there has been a Federal investment of funds and areas with respect to which the need for prevention or mitigation of damage to shores and beaches is attributable to Federal navigation projects or other Federal activities.
+With the purpose of preventing damage to the shores and beaches of the United States, its Territories and possessions and promoting and encouraging the healthful recreation of the people, it is declared to be the policy of the United States, subject to sections 426e to 426h–1 of this title, to promote shore protection projects and related research that encourage the protection, restoration, and enhancement of sandy beaches, including beach restoration and periodic beach nourishment, on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprises. In carrying out this policy, preference shall be given toareas in which there has been a Federal investment of funds and areas with respect to which the need for prevention or mitigation of damage to shores and beaches is attributable to Federal navigation projects or other Federal activities.
 
 #### (b) Federal contribution; maximum amount; exceptions
 
@@ -70,7 +70,7 @@ Shores other than public will be eligible for Federal assistance if there is ben
 
 &emsp;&emsp;&emsp;&emsp;(I) specify the life of the project; and
 
-&emsp;&emsp;&emsp;&emsp;(II) ensure that the Federal Government and the non-Federal interest will cooperate in carrying out the project or separable element.
+&emsp;&emsp;&emsp;&emsp;(II) ensure that the Federal Government and the non-Federal interest willcooperate in carrying out the project or separable element.
 
 #### (C) Coordination of projects
 
@@ -98,13 +98,61 @@ Subsec. (e). Pub. L. 87–874, §103(a)(3), required approval of plans by Chief 
 
 1956—Act July 28, 1956, extended assistance to privately owned shores, to include shores of Territories and possessions, substituted “restoration” for “improvement”, defined “construction”, and struck out provisions which authorized Federal aid toward the repair and protection of seawalls constructed by political subdivisions to protect important public highways.
 
+#### Shore Management Program
+
+Pub. L. 106–53, title II, §213, Aug. 17, 1999, 113 Stat. 291, provided that:
+
+“(a)
+
+Review.—The Secretary shall review the implementation of the Corps of Engineers shore management program, with particular attention to—
+
+&emsp;“(1) inconsistencies in implementation among the divisions and districts of the Corps of Engineers; and
+
+&emsp;“(2) complaints by or potential inequities regarding property owners in the Savannah District, including an accounting of the number and disposition of complaints in the Savannah District during the 5-year period preceding the date of enactment of this Act \[Aug. 17, 1999\].
+
+“(b)
+
+Report.—As expeditiously as practicable, but not later than 1 year after the date of enactment of this Act \[Aug. 17, 1999\], the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing the results of the review under subsection (a).”
+
+#### Report on Shores of the United States
+
+Pub. L. 106–53, title II, §215(c), Aug. 17, 1999, 113 Stat. 293, provided that:
+
+“(1)
+
+In general.—Not later than 3 years after the date of enactment of this Act \[Aug. 17, 1999\], the Secretary shall report to Congress on the state of the shores of the United States.
+
+“(2)
+
+Contents.—The report shall include—
+
+&emsp;“(A) a description of—
+
+&emsp;&emsp;“(i) the extent of, and economic and environmental effects caused by, erosion and accretion along the shores of the United States; and
+
+&emsp;&emsp;“(ii) the causes of such erosion and accretion;
+
+&emsp;“(B) a description of resources committed by Federal, State, and local governments to restore and renourish shores;
+
+&emsp;“(C) a description of the systematic movement of sand along the shores of the United States; and
+
+&emsp;“(D) recommendations regarding—
+
+&emsp;&emsp;“(i) appropriate levels of Federal and non-Federal participation in shore protection; and
+
+&emsp;&emsp;“(ii) use of a systems approach to sand management.
+
+“(3)
+
+Use of specific location data.—In developing the report, the Secretary shall use data from specific locations on the coasts of the Atlantic Ocean, Pacific Ocean, Great Lakes, and Gulf of Mexico.”
+
 #### Report to Congress on Shoreline Protection Programs
 
 Pub. L. 101–640, title III, §309, Nov. 28, 1990, 104 Stat. 4638, provided that: “Not later than 1 year after the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary shall transmit to Congress a report on the advisability of not participating in the planning, implementation, or maintenance of any beach stabilization or renourishment project involving Federal funds unless the State in which the proposed project will be located has established or committed to establish a beach front management program that includes—
 
 &emsp;“(1) restrictions on new development seaward of an erosion setback line (based on preproject beach size) of at least 30 times the annual erosion rate;
 
-&emsp;“(2) restrictions on construction of new structural stabilization projects, such as seawalls and groins, and their reconstruction if damaged by 50 percent or more;
+&emsp;“(2) restrictions on construction of new structural stabilization projects, such as seawalls and groins,and their reconstruction if damaged by 50 percent or more;
 
 &emsp;“(3) provisions for the relocation of structures in erosion-prone areas;
 

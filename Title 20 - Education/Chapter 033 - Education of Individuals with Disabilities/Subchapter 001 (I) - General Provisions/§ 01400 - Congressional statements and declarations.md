@@ -24,7 +24,7 @@ The Congress finds the following:
 
 &emsp;&emsp;(E) because of the lack of adequate services within the public school system, families were often forced to find services outside the public school system, often at great distance from their residence and at their own expense.
 
-&emsp;(3) Since the enactment and implementation of the Education for All Handicapped Children Act of 1975, this chapter has been successful inensuring children with disabilities and the families of such children access to a free appropriate public education and in improving educational results for children with disabilities.
+&emsp;(3) Since the enactment and implementation of the Education for All Handicapped Children Act of 1975, this chapter has been successful in ensuring children with disabilities and the families of such children access to a free appropriate public education and in improving educational results for children with disabilities.
 
 &emsp;(4) However, the implementation of this chapter has been impeded by low expectations, and an insufficient focus on applying replicable research on proven methods of teaching and learning for children with disabilities.
 
@@ -74,7 +74,7 @@ The Congress finds the following:
 
 &emsp;(F) More than 50 percent of minority students in large cities drop out of school.
 
-&emsp;(9)(A) The opportunity for full participation in awards for grants and contracts; boards of organizations receiving funds under this chapter; and peer review panels; and training of professionals in the area of special education by minority individuals, organizations, andhistorically black colleges and universities is essential if we are to obtain greater success in the education of minority children with disabilities.
+&emsp;(9)(A) The opportunity for full participation in awards for grants and contracts; boards of organizations receiving funds under this chapter; and peer review panels; and training of professionals in the area of special education by minority individuals, organizations, and historically black colleges and universities is essential if we are to obtain greater success in the education of minority children with disabilities.
 
 &emsp;(B) In 1993, of the 915,000 college and university professors, 4.9 percent were African-American and 2.4 percent were Hispanic. Of the 2,940,000 teachers, prekindergarten through high school, 6.8 percent were African-American and 4.1 percent were Hispanic.
 
@@ -176,7 +176,7 @@ Pub. L. 99–372, §1, Aug. 5, 1986, 100 Stat. 796, provided that: “This Act \
 
 #### Short Title of 1983 Amendment
 
-Pub. L. 98–199, §1, Dec. 2, 1983, 97 Stat. 1357, provided: “That this Act \[enacting sections 1407 and 1427 of this title, amending sections 1401 to 1404, 1406, 1411 to 1414, 1416 to 1426, 1431 to 1435, 1441 to 1444, 1452, 1454, and 1461 of this title, repealing section 1461 of this title, omitting section 1436 of this title, enacting a provision set out as a note under section 1401 of this title, and amending provisions set out as notes under sections 101, 681, and 1411 of this title\] may be cited as the ‘Education of the Handicapped Act Amendments of 1983’.”
+Pub. L. 98–199, §1, Dec. 2, 1983, 97 Stat. 1357, provided: “That this Act \[enacting sections 1407 and 1427 of thistitle, amending sections 1401 to 1404, 1406, 1411 to 1414, 1416 to 1426, 1431 to 1435, 1441 to 1444, 1452, 1454, and 1461 of this title, repealing section 1461 of this title, omitting section 1436 of this title, enacting a provision set out as a note under section 1401 of this title, and amending provisions set out as notes under sections 101, 681, and 1411 of this title\] may be cited as the ‘Education of the Handicapped Act Amendments of 1983’.”
 
 #### Short Title of 1977 Amendment
 

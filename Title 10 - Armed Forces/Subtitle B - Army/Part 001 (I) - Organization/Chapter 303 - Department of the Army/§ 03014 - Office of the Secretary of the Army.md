@@ -38,7 +38,7 @@
 
 (3) The Secretary shall prescribe the relationship of each office or other entity established or designated under paragraph (2) to the Chief of Staff and to the Army Staff and shall ensure that each such office or entity provides the Chief of Staff such staff support as the Chief of Staff considers necessary to perform his duties and responsibilities.
 
-(4) The vesting in the Office of the Secretary of the Army of the responsibility for the conduct of a function specified in paragraph (1) does not preclude other elements of the executive part of the Department of the Army (including the Army Staff) from providing advice or assistance to the Chief of Staff or otherwise participating in that function within the executive part of the Department under the direction ofthe office assigned responsibility for that function in the Office of the Secretary of the Army.
+(4) The vesting in the Office of the Secretary of the Army of the responsibility for the conduct of a function specified in paragraph (1) does not preclude other elements of the executive part of the Department of the Army (including the Army Staff) from providing advice or assistance to the Chief of Staff or otherwise participating in that function within the executive part of the Department under the direction of the office assigned responsibility for that function in the Office of the Secretary of the Army.
 
 (5) The head of the office or other entity established or designated by the Secretary to conduct the auditing function shall have at least five years of professional experience in accounting or auditing. The position shall be considered to be a career reserved position as defined in section 3132(a)(8) of title 5.
 
@@ -68,7 +68,7 @@ The date of the enactment of this subsection, referred to in subsec. (f)(3), is 
 
 #### Prior Provisions
 
-A prior section 3014, acts Aug. 10, 1956, ch. 1041, 70A Stat. 158, §3013; Aug. 6, 1958, Pub. L. 85–599, §8(a), 72 Stat. 519; Sept. 2, 1958, Pub. L. 85–861, §1(58), 72 Stat. 1462; Aug. 14, 1964, Pub. L. 88–426, title III, §305(3), 78 Stat. 422; Dec. 1, 1967, Pub. L. 90–168, §2(12), 81 Stat. 523; Dec. 31, 1970, Pub. L. 91–611, title II, §211(a), 84 Stat. 1829; Nov. 9, 1979, Pub. L. 96–107, title VIII, §820(b), 93 Stat. 819; Sept. 24, 1983, Pub. L. 98–94, title XII, §1212(c)(1), 97 Stat. 687; renumbered §3014, Oct. 1, 1986, Pub. L. 99–433, title V, §501(a)(2), 100 Stat. 1034, related to Under Secretary and Assistant Secretaries of the Army, appointment, and duties, prior to repeal by Pub. L. 99–433, §501(a)(5). See sections 3015 and 3016 of this title.
+A prior section 3014, acts Aug. 10, 1956, ch. 1041, 70A Stat. 158, §3013; Aug. 6, 1958, Pub. L. 85–599, §8(a), 72Stat. 519; Sept. 2, 1958, Pub. L. 85–861, §1(58), 72 Stat. 1462; Aug. 14, 1964, Pub. L. 88–426, title III, §305(3), 78 Stat. 422; Dec. 1, 1967, Pub. L. 90–168, §2(12), 81 Stat. 523; Dec. 31, 1970, Pub. L. 91–611, title II, §211(a), 84 Stat. 1829; Nov. 9, 1979, Pub. L. 96–107, title VIII, §820(b), 93 Stat. 819; Sept. 24, 1983, Pub. L. 98–94, title XII, §1212(c)(1), 97 Stat. 687; renumbered §3014, Oct. 1, 1986, Pub. L. 99–433, title V, §501(a)(2), 100 Stat. 1034, related to Under Secretary and Assistant Secretaries of the Army, appointment, and duties, prior to repeal by Pub. L. 99–433, §501(a)(5). See sections 3015 and 3016 of this title.
 
 Another prior section 3014 was renumbered section 3015 of this title and subsequently repealed.
 

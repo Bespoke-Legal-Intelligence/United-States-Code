@@ -1,8 +1,8 @@
 ### §153. How issued
 
-Patents shall be issued in the name of the United States of America, under the seal of the Patent and Trademark Office, and shall be signed by the Commissioner or have his signature placed thereon and attested by an officer of the Patent and Trademark Office designated by the Commissioner, and shall be recorded in the Patent and Trademark Office.
+Patents shall be issued in the name of the United States of America, under the seal of the Patent and Trademark Office, and shall be signed by the Director or have his signature placed thereon and attested by an officer of the Patent and Trademark Office designated by the Director, and shall be recorded in the Patent and Trademark Office.
 
-(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949.)
+(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
 
 #### Historical and Revision Notes
 
@@ -12,7 +12,13 @@ The phrases referring to the attesting officers and to the recording of the pate
 
 #### Amendments
 
+1999—Pub. L. 106–113 substituted “Director” for “Commissioner” in two places.
+
 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” wherever appearing.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 #### Effective Date of 1975 Amendment
 

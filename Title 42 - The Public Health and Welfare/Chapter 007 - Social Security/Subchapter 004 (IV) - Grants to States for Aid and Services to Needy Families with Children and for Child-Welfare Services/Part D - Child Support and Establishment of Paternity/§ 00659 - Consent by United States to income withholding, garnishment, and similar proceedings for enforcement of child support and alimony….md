@@ -44,7 +44,7 @@ A governmental entity that is affected by legal process served for the enforceme
 
 #### (f) Relief from liability
 
-(1) Neither the United States, nor the government of the District of Columbia, nor any disbursing officer shall be liable with respect to any payment made from moneys due or payable from the United States to any individual pursuant to legal process regular on its face, if the payment is made in accordance with this section and the regulations issued to carry out this section.
+(1) Neither the United States, nor the government of the District of Columbia, nor any disbursing officer shall be liable with respect to any payment made from moneys due or payable from the United States to any individual pursuant to legal process regular on its face, if thepayment is made in accordance with this section and the regulations issued to carry out this section.
 
 (2) No Federal employee whose duties include taking actions necessary to comply with the requirements of subsection (a) of this section with regard to any individual shall be subject under any law to any disciplinary action or civil or criminal liability or penalty for, or on account of, any disclosure of information made by the employee in connection with the carrying out of such actions.
 
@@ -80,9 +80,11 @@ Authority to promulgate regulations for the implementation of this section shall
 
 &emsp;&emsp;&emsp;&emsp;(V) by the Secretary of Veterans Affairs as compensation for a service-connected disability paid by the Secretary to a former member of the Armed Forces who is in receipt of retired or retainer pay if the former member has waived a portion of the retired or retainer pay in order to receive such compensation;
 
-&emsp;&emsp;&emsp;(iii) worker's compensation benefits paid or payable under Federal or State law; and
+&emsp;&emsp;&emsp;(iii) worker's compensation benefits paid or payable under Federal or State law;
 
-&emsp;&emsp;&emsp;(iv) benefits paid or payable under the Railroad Retirement System, but
+&emsp;&emsp;&emsp;(iv) benefits paid or payable under the Railroad Retirement System,<sup>2</sup> and
+
+&emsp;&emsp;&emsp;(v) special benefits for certain World War II veterans payable under subchapter VIII of this chapter; but
 
 &emsp;&emsp;(B) do not include any payment—
 
@@ -114,7 +116,7 @@ For purposes of this section—
 
 #### (1) United States
 
-&emsp;The term “United States” includes any department, agency, or instrumentality of the legislative, judicial, or executive branch of the Federal Government, the United States Postal Service, the Postal Rate Commission, any Federal corporation created by an Act of Congress that is wholly owned by the Federal Government, and the governments of the territories and possessions of the United States.
+&emsp;The term “United States” includes any department, agency, or instrumentality of the legislative, judicial, or executive branch of the Federal Government, the United States Postal Service, the Postal Rate Commission, anyFederal corporation created by an Act of Congress that is wholly owned by the Federal Government, and the governments of the territories and possessions of the United States.
 
 #### (2) Child support
 
@@ -152,13 +154,15 @@ For purposes of this section—
 
 &emsp;&emsp;(B) which is directed to, and the purpose of which is to compel, a governmental entity which holds moneys which are otherwise payable to an individual to make a payment from the moneys to another party in order to satisfy a legal obligation of the individual to provide child support or make alimony payments.
 
-(Aug. 14, 1935, ch. 531, title IV, §459, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2357;amended Pub. L. 95–30, title V, §501(a), (b), May 23, 1977, 91 Stat. 157; Pub. L. 98–21, title III, §335(b)(1), Apr. 20, 1983, 97 Stat. 130; Pub. L. 104–193, title III, §362(a), Aug. 22, 1996, 110 Stat. 2242; Pub. L. 105–33, title V, §5542(a), (b), Aug. 5, 1997, 111 Stat. 631.)
+(Aug. 14, 1935, ch. 531, title IV, §459, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2357; amended Pub. L. 95–30, title V, §501(a), (b), May 23, 1977, 91 Stat. 157; Pub. L. 98–21, title III, §335(b)(1), Apr. 20, 1983, 97 Stat. 130; Pub. L. 104–193, title III, §362(a), Aug. 22, 1996, 110 Stat. 2242; Pub. L. 105–33, title V, §5542(a), (b), Aug. 5, 1997, 111 Stat. 631; Pub. L. 106–169, title II, §251(b)(3), Dec. 14, 1999, 113 Stat. 1855.)
 
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (h)(2)(C), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+1999—Subsec. (h)(1)(A)(v). Pub. L. 106–169 added cl. (v).
 
 1997—Subsec. (c)(2)(C). Pub. L. 105–33, §5542(a), substituted “withhold available sums in response to the order or process, or answer the interrogatory” for “respond to the order, process, or interrogatory”.
 
@@ -238,7 +242,7 @@ NOW, THEREFORE, by the authority vested in me as President by the Constitution a
 
 #### PART I—PURPOSE
 
-Section 101. This executive order: (a) Establishes the executive branch of the Federal Government, throughits civilian employees and Uniformed Services members, as a model employer in promoting and facilitating the establishment and enforcement of child support.
+Section 101. This executive order: (a) Establishes the executive branch of the Federal Government, through its civilian employees and Uniformed Services members, as a model employer in promoting and facilitating the establishment and enforcement of child support.
 
 (b) Requires all Federal agencies, including the Uniformed Services, to cooperate fully in efforts to establish paternity and child support orders and to enforce the collection of child and medical support in all situations where such actions may be required.
 
@@ -284,7 +288,7 @@ Sec. 402. <i>Additional Federal Agency Actions</i>. (a) OPM and HHS shall jointl
 
 (i) any changes that would be needed to ensure that Federal employees comply with child support orders that require them to provide health insurance coverage for their children;
 
-(ii) changes needed to ensure that more accurate and up-to-date data about civilian and uniformed personnelwho are being sought in conjunction with State paternity or child support actions can be obtained from Federal agencies and their payroll and personnel records, to improve efforts to locate noncustodial parents and their income and assets;
+(ii) changes needed to ensure that more accurate and up-to-date data about civilian and uniformed personnel who are being sought in conjunction with State paternity or child support actions can be obtained from Federal agencies and their payroll and personnel records, to improve efforts to locate noncustodial parents and their income and assets;
 
 (iii) changes needed for selecting Federal agencies to test and evaluate new approaches to the establishment and enforcement of child support obligations;
 
@@ -311,4 +315,6 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 This section is referred to in section 654 of this title; title 5 sections 5520a, 8437; title 10 section 1408; title 22 section 3612a.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

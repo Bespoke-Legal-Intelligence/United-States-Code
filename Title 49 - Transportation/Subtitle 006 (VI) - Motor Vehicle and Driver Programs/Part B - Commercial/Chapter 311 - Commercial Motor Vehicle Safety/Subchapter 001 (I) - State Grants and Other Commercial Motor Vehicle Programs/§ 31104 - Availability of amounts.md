@@ -180,7 +180,11 @@ Subsec. (j). Pub. L. 105–178, §4003(g)(4), redesignated subsec. (j) as (h).
 
 1997—Subsec. (a). Pub. L. 105–130 substituted “Not more” for “not more” in pars. (1) to (5) and added par. (6).
 
+#### Increased Authorizations for Motor Carrier Safety Grants
+
+Pub. L. 105–178, title IV, §4003(i), as added by Pub. L. 106–159, title I, §103(b)(1), Dec. 9, 1999, 113 Stat. 1753, provided that: “The amount made available to incur obligations to carry out section 31102 of title 49, United States Code, by section 31104(a) of such title for each of fiscal years 2001 through 2003 shall be increased by $65,000,000.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5708, 31102, 31103, 31141 of this title.
+This section is referred to in sections 5708, 31102, 31103, 31141 of this title; title 23 section 110.
 

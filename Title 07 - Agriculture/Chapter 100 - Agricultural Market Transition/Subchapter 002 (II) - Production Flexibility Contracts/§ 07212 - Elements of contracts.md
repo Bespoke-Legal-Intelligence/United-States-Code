@@ -54,17 +54,21 @@ At the time the Secretary enters into a contract, the Secretary shall provide an
 
 &emsp;&emsp;At the option of the owner or producer for fiscal year 1997 and each subsequent fiscal year, 50 percent of the annual contract payment shall be made on December 15 or January 15 of the fiscal year. The owner or producer may change the date selected under this subparagraph for a subsequent fiscal year by providing advance notice to the Secretary.
 
-#### (3) Special rule for fiscal year 1999
+#### (3) Special rule
 
-&emsp;Notwithstanding the requirements for making an annual contract payment specified in paragraphs (1) and (2), at the option of the owner or producer, the Secretary shall pay the full amount (or such portion as the owner or producer may specify) of the contract payment required to be paid for fiscal year 1999 at such time or times during that fiscal year as the owner or producer may specify.
+&emsp;Notwithstanding the requirements for making an annual contract payment specified in paragraphs (1) and (2), at the option of the owner or producer, the Secretary shall pay the full amount (or such portion as the owner or producer may specify) of the contract payment required to be paid for any of fiscal years 1999 through 2002 at such time or times during that fiscal year as the owner or producer may specify.
 
-(Pub. L. 104–127, title I, §112, Apr. 4, 1996, 110 Stat. 899; Pub. L. 105–228, §2, Aug. 12, 1998, 112 Stat. 1516.)
+(Pub. L. 104–127, title I, §112, Apr. 4, 1996, 110 Stat. 899; Pub. L. 105–228, §2, Aug. 12, 1998, 112 Stat. 1516; Pub. L. 106–78, title VIII, §811, Oct. 22, 1999, 113 Stat. 1181.)
 
 #### Amendments
+
+1999—Subsec. (d)(3). Pub. L. 106–78, in par. heading, struck out “for fiscal year 1999” after “rule” and, intext, substituted “any of fiscal years 1999 through 2002” for “fiscal year 1999”.
 
 1998—Subsec. (d)(3). Pub. L. 105–228 added par. (3).
 
 #### Production Flexibility Contract Payments
+
+Pub. L. 106–170, title V, §525, Dec. 17, 1999, 113 Stat. 1928, provided that: “Any option to accelerate the receipt of any payment under a production flexibility contract which is payable under the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7200 \[7201\] et seq.), as in effect on the date of the enactment of this Act \[Dec. 17, 1999\], shall be disregarded in determining the taxable year for which such payment is properly includible in gross income for purposes of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\].”
 
 Pub. L. 105–277, div. J, title II, §2012, Oct. 21, 1998, 112 Stat. 2681–902, provided that:
 

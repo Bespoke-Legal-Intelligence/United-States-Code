@@ -2,7 +2,7 @@
 
 #### (a) Authority of Commission
 
-If the Commission finds, after notice and opportunity for hearing, that any person is violating, has violated, or is about to violate any provision of this subchapter, or any rule or regulation thereunder, the Commission may publish its findings and enter an order requiring such person, and any other person that is, was, or would be a cause of the violation, due to an act or omission the person knew or should have known would contribute to such violation, to cease and desist from committing or causing such violation and any future violation of the same provision, rule, or regulation. Such order may, in addition to requiring a person to cease and desist from committing or causing a violation, require such person to comply, or to take steps to effect compliance, with such provision, rule, or regulation, upon such terms and conditions and within such time as the Commission may specify in such order. Any such order may, as the Commission deems appropriate, require future compliance or steps to effect future compliance, either permanently or for such period of time as the Commission may specify, with such provision, rule, or regulation with respect to any security, any issuer, or any other person.
+If the Commission finds, after notice and opportunity for hearing, that any person is violating, has violated, or is about to violate any provision of this subchapter, or any rule or regulation thereunder, the Commission may publish its findings and enter an order requiring such person, and any other person that is, was, or would be a cause of the violation, due to an act or omission the person knew or should have known would contribute to such violation, to cease and desist from committing or causingsuch violation and any future violation of the same provision, rule, or regulation. Such order may, in addition to requiring a person to cease and desist from committing or causing a violation, require such person to comply, or to take steps to effect compliance, with such provision, rule, or regulation, upon such terms and conditions and within such time as the Commission may specify in such order. Any such order may, as the Commission deems appropriate, require future compliance or steps to effect future compliance, either permanently or for such period of time as the Commission may specify, with such provision, rule, or regulation with respect to any security, any issuer, or any other person.
 
 #### (b) Hearing
 
@@ -16,7 +16,7 @@ The notice instituting proceedings pursuant to subsection (a) of this section sh
 
 #### (2) Applicability
 
-&emsp;This subsection shall apply only to a respondent that acts, or, at the time of the alleged misconduct acted, as a broker, dealer, investment adviser, investment company, municipal securities dealer, government securities broker, government securities dealer, ortransfer agent, or is, or was at the time of the alleged misconduct, an associated person of, or a person seeking to become associated with, any of the foregoing.
+&emsp;This subsection shall apply only to a respondent that acts, or, at the time of the alleged misconduct acted, as a broker, dealer, investment adviser, investment company, municipal securities dealer, government securities broker, government securities dealer, or transfer agent, or is, or was at the time of the alleged misconduct, an associated person of, or a person seeking to become associated with, any of the foregoing.
 
 #### (d) Review of temporary orders
 
@@ -50,7 +50,7 @@ In any cease-and-desist proceeding under subsection (a) of this section, the Com
 
 #### Effective Date
 
-Section effective Oct. 15, 1990, with provisions relating to civil penalties and accounting and disgorgement, see section 1(c)(1) and (2) of Pub. L. 101–429, set out in an Effective Date of 1990 Amendment note under section 77g of this title.
+Section effective Oct. 15, 1990, with provisions relating to civil penalties and accounting and disgorgement,see section 1(c)(1) and (2) of Pub. L. 101–429, set out in an Effective Date of 1990 Amendment note under section 77g of this title.
 
 #### Section Referred to in Other Sections
 

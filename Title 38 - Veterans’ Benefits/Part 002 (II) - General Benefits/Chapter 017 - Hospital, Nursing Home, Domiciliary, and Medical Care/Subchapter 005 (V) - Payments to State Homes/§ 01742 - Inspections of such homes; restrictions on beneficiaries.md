@@ -20,7 +20,7 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1976—Subsec. (a). Pub. L. 94–581 substituted “as the Administrator deems necessary” for “as he deems necessary” in existing provisions and inserted provision that no payment or grant may be made to any homeunder this subchapter unless such home is determined by the Administrator to meet such standards as the Administrator shall prescribe, which standards with respect to nursing home care shall be no less stringent than those prescribed pursuant to section 620(b) of this title.
+1976—Subsec. (a). Pub. L. 94–581 substituted “as the Administrator deems necessary” for “as he deems necessary” in existing provisions and inserted provision that no payment or grant may be made to any home under this subchapter unless such home is determined by the Administrator to meet such standards as the Administrator shall prescribe, which standards with respect to nursing home care shall be no less stringent than those prescribed pursuant to section 620(b) of this title.
 
 #### Effective Date of 1976 Amendment
 

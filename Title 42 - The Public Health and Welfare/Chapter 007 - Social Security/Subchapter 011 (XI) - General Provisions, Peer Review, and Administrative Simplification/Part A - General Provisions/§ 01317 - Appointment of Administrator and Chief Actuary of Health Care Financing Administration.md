@@ -6,7 +6,7 @@
 
 (2) The Chief Actuary shall be compensated at the highest rate of basic pay for the Senior Executive Service under section 5382(b) of title 5.
 
-(Aug. 14, 1935, ch. 531, title XI, §1117, as added Pub. L. 98–369, div. B, title III, §2332(a), July 18, 1984, 98 Stat. 1088; amended Pub. L. 105–33, title IV, §4643, Aug. 5, 1997, 111 Stat. 487.)
+(Aug. 14, 1935, ch. 531, title XI, §1117, as added Pub. L. 98–369, div. B, title III, §2332(a), July 18,1984, 98 Stat. 1088; amended Pub. L. 105–33, title IV, §4643, Aug. 5, 1997, 111 Stat. 487.)
 
 #### Prior Provisions
 

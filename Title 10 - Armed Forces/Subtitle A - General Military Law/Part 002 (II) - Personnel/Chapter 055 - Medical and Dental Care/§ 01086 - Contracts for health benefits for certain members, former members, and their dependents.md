@@ -56,7 +56,7 @@
 
 (e) A person covered by this section may elect to receive inpatient medical care either in (1) Government facilities, under the conditions prescribed in sections 1074 and 1076–1078 of this title, or (2) the facilities provided under a plan contracted for under this section. However, under joint regulations issued by the administering Secretaries, the right to make this election may be limited for those persons residing in an area where adequate facilities of the uniformed service are available. In addition, subsections (b) and (c) of section 1080 of this title shall apply in making the determination whether to issue a nonavailability of health care statement for a person covered by this section.
 
-(f) The provisions of section 1079(h) of this title shall apply to payments for services by anindividual health-care professional (or other noninstitutional health-care provider) under a plan contracted for under subsection (a).
+(f) The provisions of section 1079(h) of this title shall apply to payments for services by an individual health-care professional (or other noninstitutional health-care provider) under a plan contracted for under subsection (a).
 
 (g) Section 1079(j) of this title shall apply to a plan contracted for under this section, except that no person eligible for health benefits under this section may be denied benefits under this section with respect to care or treatment for any service-connected disability which is compensable under chapter 11 of title 38 solely on the basis that such person is entitled to care or treatment for such disability in facilities of the Department of Veterans Affairs.
 
@@ -88,7 +88,7 @@ Subsec. (e). Pub. L. 104–201 substituted “inpatient medical care” for “b
 
 &emsp;“(A) the sum of any deductibles, coinsurance, and balance billing charges that would be imposed on the person if payment for that care were made solely under that title; and
 
-&emsp;“(B) the sum of any deductibles, coinsurance, and balance billing charges that would be imposed on the person if payment for that care were made solely under the plan.”
+&emsp;“(B) the sum of any deductibles, coinsurance, and balance billing charges that would be imposed on theperson if payment for that care were made solely under the plan.”
 
 1993—Subsec. (d). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–190, §704(a). See 1991 Amendment note below.
 
@@ -176,7 +176,7 @@ Amendment by Pub. L. 99–145 applicable only with respect to dependents of memb
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–525 applicable only to health care furnished after Sept. 30, 1984, see section 632(a)(3) of Pub. L. 98–525, set out as a note under section 1079 of this title.
+Amendment by Pub. L. 98–525 applicable only to health care furnished after Sept. 30, 1984, see section632(a)(3) of Pub. L. 98–525, set out as a note under section 1079 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -200,7 +200,7 @@ Section 2 of Pub. L. 96–173 provided that: “The amendment made by the first 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–485 applicable with respect to claims submitted for payment for services providedon or after the first day of the first calendar year beginning after Oct. 20, 1978, see section 806(b) of Pub. L. 95–485, set out as a note under section 1079 of this title.
+Amendment by Pub. L. 95–485 applicable with respect to claims submitted for payment for services provided on or after the first day of the first calendar year beginning after Oct. 20, 1978, see section 806(b) of Pub. L. 95–485, set out as a note under section 1079 of this title.
 
 #### Effective Date
 
@@ -278,5 +278,5 @@ Section 705(b) of Pub. L. 102–484 provided that: “Subsection (d) of section 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1072, 1079, 1082, 1086a, 1087, 1095, 1096, 1097, 1098, 1100, 1104, 1105 of this title; title 38 section 1713; title 42 sections 300e–1, 1395cc, 1395ggg.
+This section is referred to in sections 1072, 1074g, 1079, 1082, 1086a, 1087, 1095, 1096, 1097, 1097b, 1098, 1100, 1104, 1105 of this title; title 38 section 1713; title 42 sections 300e–1, 1395cc, 1395ggg.
 

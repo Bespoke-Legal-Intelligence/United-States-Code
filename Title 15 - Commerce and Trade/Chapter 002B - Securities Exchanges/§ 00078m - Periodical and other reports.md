@@ -16,7 +16,7 @@ Every issuer of a security registered pursuant to section 78<i>l</i> of this tit
 
 (2) Every issuer which has a class of securities registered pursuant to section 78<i>l</i> of this title and every issuer which is required to file reports pursuant to section 78<i>o</i>(d) of this title shall—
 
-&emsp;(A) make and keep books, records, and accounts, which, in reasonable detail, accuratelyand fairly reflect the transactions and dispositions of the assets of the issuer; and
+&emsp;(A) make and keep books, records, and accounts, which, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the issuer; and
 
 &emsp;(B) devise and maintain a system of internal accounting controls sufficient to provide reasonable assurances that—
 
@@ -52,7 +52,7 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 &emsp;(B) the source and amount of the funds or other consideration used or to be used in making the purchases, and if any part of the purchase price is represented or is to be represented by funds or other consideration borrowed or otherwise obtained for the purpose of acquiring, holding, or trading such security, a description of the transaction and the names of the parties thereto, except that where a source of funds is a loan made in the ordinary course of business by a bank, as defined in section 78c(a)(6) of this title, if the person filing such statement so requests, the name of the bank shall not be made available to the public;
 
-&emsp;(C) if the purpose of the purchases or prospective purchases is to acquire control of the business of the issuer of the securities, any plans or proposals which such persons may have to liquidate such issuer, to sell its assetsto or merge it with any other persons, or to make any other major change in its business or corporate structure;
+&emsp;(C) if the purpose of the purchases or prospective purchases is to acquire control of the business of the issuer of the securities, any plans or proposals which such persons may have to liquidate such issuer, to sell its assets to or merge it with any other persons, or to make any other major change in its business or corporate structure;
 
 &emsp;(D) the number of shares of such security which are beneficially owned, and the number of shares concerning which there is a right to acquire, directly or indirectly, by (i) such person, and (ii) by each associate of such person, giving the background, identity, residence, and citizenship of each such associate; and
 
@@ -62,7 +62,7 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 (3) When two or more persons act as a partnership, limited partnership, syndicate, or other group for the purpose of acquiring, holding, or disposing of securities of an issuer, such syndicate or group shall be deemed a “person” for the purposes of this subsection.
 
-(4) In determining, for purposes of this subsection, any percentage of a class of any security, such class shall be deemed to consist of the amount of the outstanding securities of such class, exclusive of any securities of such class held by or for the account of the issuer or a subsidiary of the issuer.
+(4) In determining, for purposes of this subsection, any percentage of a class of any security, such class shall be deemed to consist of theamount of the outstanding securities of such class, exclusive of any securities of such class held by or for the account of the issuer or a subsidiary of the issuer.
 
 (5) The Commission, by rule or regulation or by order, may permit any person to file in lieu of the statement required by paragraph (1) of this subsection or the rules and regulations thereunder, a notice stating the name of such person, the number of shares of any equity securities subject to paragraph (1) which are owned by him, the date of their acquisition and such other information as the Commission may specify, if it appears to the Commission that such securities were acquired by such person in the ordinary course of his business and were not acquired for the purpose of and do not have the effect of changing or influencing the control of the issuer nor in connection with or as a participant in any transaction having such purpose or effect.
 
@@ -88,7 +88,7 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 (1) Every institutional investment manager which uses the mails, or any means or instrumentality of interstate commerce in the course of its business as an institutional investment manager and which exercises investment discretion with respect to accounts holding equity securities of a class described in subsection (d)(1) of this section having an aggregate fair market value on the last trading day in any of the preceding twelve months of at least $100,000,000 or such lesser amount (but in no case less than $10,000,000) as the Commission, by rule, may determine, shall file reports with the Commission in such form, for such periods, and at such times after the end of such periods as the Commission, by rule, may prescribe, but in no event shall such reports be filed for periods longer than one year or shorter than one quarter. Such reports shall include for each such equity security held on the last day of the reporting period by accounts (in aggregate or by type as the Commission, by rule, may prescribe) with respect to which the institutional investment manager exercises investment discretion (other than securities held in amounts which the Commission, by rule, determines to be insignificant for purposes of this subsection), the name of the issuer and the title, class, CUSIP number, number of shares or principal amount, and aggregate fair market value of each such security. Such reports may also include for accounts (in aggregate or by type) with respect to which the institutional investment manager exercises investment discretion such of the following information as the Commission, by rule, prescribes—
 
-&emsp;(A) the name of the issuer and the title, class, CUSIP number, number of shares or principal amount, and aggregate fair market value or cost or amortized cost of each other security (other than an exempted security) held on the last day of the reporting period by such accounts;
+&emsp;(A) the name of the issuer and the title, class, CUSIP number, number of shares or principal amount, and aggregate fair marketvalue or cost or amortized cost of each other security (other than an exempted security) held on the last day of the reporting period by such accounts;
 
 &emsp;(B) the aggregate fair market value or cost or amortized cost of exempted securities (in aggregate or by class) held on the last day of the reporting period by such accounts;
 
@@ -120,7 +120,7 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 (3) The Commission shall make available to the public for a reasonable fee a list of all equity securities of a class described in subsection (d)(1) of this section, updated no less frequently than reports are required to be filed pursuant to paragraph (1) of this subsection. The Commission shall tabulate the information contained in any report filed pursuant to this subsection in a manner which will, in the view of the Commission, maximize the usefulness of the information to other Federal and State authorities and the public. Promptly after the filing of any such report, the Commission shall make the information contained therein conveniently available to the public for a reasonable fee in such form as the Commission, by rule, may prescribe, except that the Commission, as it determines to be necessary or appropriate in the public interest or for the protection of investors, may delay or prevent public disclosure of any such information in accordance with section 552 of title 5. Notwithstanding the preceding sentence, any such information identifying the securities held by the account of a natural person or an estate or trust (other than a business trust or investment company) shall not be disclosed to the public.
 
-(4) In exercising its authority under this subsection, the Commission shall determine (and so state) that its action is necessary or appropriate in the public interest and for the protection of investors or to maintain fair and orderly markets or, in granting an exemption, that its action is consistent with the protection of investors and the purposes of this subsection. In exercising such authority the Commission shall take such steps as are within its power, including consulting with the Comptroller General of the United States, the Director of the Office of Management and Budget, the appropriate regulatory agencies, Federal and State authorities which, directly or indirectly, require reports from institutional investment managers of information substantially similar to that called for by this subsection, national securities exchanges, and registered securities associations, (A) to achieve uniform, centralized reporting of information concerning the securities holdings of and transactions by or for accounts with respect to which institutional investment managers exercise investment discretion, and (B) consistently with the objective set forth in the preceding subparagraph, to avoid unnecessarily duplicative reporting by, and minimize the compliance burden on,institutional investment managers. Federal authorities which, directly or indirectly, require reports from institutional investment managers of information substantially similar to that called for by this subsection shall cooperate with the Commission in the performance of its responsibilities under the preceding sentence. An institutional investment manager which is a bank, the deposits of which are insured in accordance with the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], shall file with the appropriate regulatory agency a copy of every report filed with the Commission pursuant to this subsection.
+(4) In exercising its authority under this subsection, the Commission shall determine (and so state) that its action is necessary or appropriate in the public interest and for the protection of investors or to maintain fair and orderly markets or, in granting an exemption, that its action is consistent with the protection of investors and the purposes of this subsection. In exercising such authority the Commission shall take such steps as are within its power, including consulting with the Comptroller General of the United States, the Director of the Office of Management and Budget, the appropriate regulatory agencies, Federal and State authorities which, directly or indirectly, require reports from institutional investment managers of information substantially similar to that called for by this subsection, national securities exchanges, and registered securities associations, (A) to achieve uniform, centralized reporting of information concerning the securities holdings of and transactions by or for accounts with respect to which institutional investment managers exercise investment discretion, and (B) consistently with the objective set forth in the preceding subparagraph, to avoid unnecessarily duplicative reporting by, and minimize the compliance burden on, institutional investment managers. Federal authorities which, directly or indirectly, require reports from institutional investment managers of information substantially similar to that called for by this subsection shall cooperate with the Commission in the performance of its responsibilities under the preceding sentence. An institutional investment manager which is a bank, the deposits of which are insured in accordance with the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], shall file with the appropriate regulatory agency a copy of every report filed with the Commission pursuant to this subsection.
 
 (5)(A) For purposes of this subsection the term “institutional investment manager” includes any person, other than a natural person, investing in or buying and selling securities for its own account, and any person exercising investment discretion with respect to the account of any other person.
 
@@ -156,7 +156,7 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 #### (2) Recordkeeping and reporting requirements for brokers and dealers
 
-&emsp;Every registered broker or dealer shall make and keep for prescribed periods such records as the Commission by rule or regulation prescribes as necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter, with respect to securities transactions that equal or exceed the reporting activity level effected directly or indirectly by or through such registered broker or dealer of or for any person that such broker or dealer knows is a large trader, or any person that such broker or dealer has reason to know is a large trader on the basis of transactions in securities effected by or through such broker or dealer. Such records shall be available for reporting to the Commission, or any self-regulatory organization that the Commission shall designate to receive such reports, on the morning of the day following the day the transactions were effected, and shall be reported to the Commission or a self-regulatory organization designated by the Commission immediately upon request by the Commission or such a self-regulatory organization. Such records and reports shall be in a format and transmitted in a manner prescribed by theCommission (including, but not limited to, machine readable form).
+&emsp;Every registered broker or dealer shall make and keep for prescribed periods such records as the Commission by rule or regulation prescribes as necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter, with respect to securities transactions that equal or exceed the reporting activity level effected directly or indirectly by or through such registered broker or dealer of or for any person that such broker or dealer knows is a large trader, or any person that such broker or dealer has reason to know is a large trader on the basis of transactions in securities effected by or through such broker or dealer. Such records shall be available for reporting to the Commission, or any self-regulatory organization that the Commission shall designate to receive such reports, on the morning of the day following the day the transactions were effected, and shall be reported to the Commission or a self-regulatory organization designated by the Commission immediately upon request by the Commission or such a self-regulatory organization. Such records and reports shall be in a format and transmitted in a manner prescribed by the Commission (including, but not limited to, machine readable form).
 
 #### (3) Aggregation rules
 
@@ -178,7 +178,7 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 #### (6) Exemptions
 
-&emsp;The Commission, by rule, regulation, or order, consistent with the purposes of this chapter, may exempt any person or class of persons or any transaction or class of transactions, either conditionally or upon specified terms and conditions or for stated periods, from the operation of this subsection, and the rules and regulations thereunder.
+&emsp;The Commission, by rule, regulation, or order, consistent with the purposes of thischapter, may exempt any person or class of persons or any transaction or class of transactions, either conditionally or upon specified terms and conditions or for stated periods, from the operation of this subsection, and the rules and regulations thereunder.
 
 #### (7) Authority of Commission to limit disclosure of information
 
@@ -260,6 +260,18 @@ Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L.
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
+#### Consultation
+
+Pub. L. 106–102, title II, §241, Nov. 12, 1999, 113 Stat. 1407, provided that:
+
+“(a)
+
+In General.—The Securities and Exchange Commission shall consult and coordinate comments with the appropriate Federal banking agency before taking any action or rendering any opinion with respect to the manner in which any insured depository institution or depository institution holding company reports loan loss reserves in its financial statement, including the amount of any such loan loss reserve.
+
+“(b)
+
+Definitions.—For purposes of subsection (a), the terms ‘insured depository institution’, ‘depository institution holding company’, and ‘appropriate Federal banking agency’ have the same meaning as given in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].”
+
 #### Cross References
 
 Effective date, see section 78hh of this title.
@@ -282,7 +294,7 @@ Withdrawal or striking from listing with national security exchange of security 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 77r, 77z–2, 77nnn, 78c, 78<i>l</i>, 78n, 78<i>o</i>, 78u–5, 78w, 78hh, 80a–8, 80a–29, 80a–54, 80a–63, 773 of this title; title 7 section 12a; title 11 section 1145; title 12 section 1817; title 16 section 824c; title 22 section 2197; title 26 sections 162, 952, 964; title 29 section 1343; title 42 section 2297b–6; title 43 section 1629c.
+This section is referred to in sections 77r, 77z–2, 77nnn, 78c, 78<i>l</i>, 78n, 78<i>o</i>, 78u–5, 78w, 78hh, 80a–8, 80a–29, 80a–54, 80a–63, 773 of this title; title 7 section 12a; title 11 section 1145; title 12 section 1817; title 16 section 824c; title 22 section 2197; title 26 sections 162, 952, 964; title 29 section 1343; title 43 section 1629c.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “account.”</i>
 

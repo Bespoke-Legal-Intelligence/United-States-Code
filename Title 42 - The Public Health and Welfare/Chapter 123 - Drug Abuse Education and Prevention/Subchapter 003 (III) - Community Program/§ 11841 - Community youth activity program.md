@@ -52,7 +52,7 @@ The Secretary of Health and Human Services shall make grants to eligible States 
 
 &emsp;&emsp;&emsp;(iii) if the State involved has proposed the funding of additional projects targeted at the areas of highest need;
 
-> &emsp;&emsp;to carry out the activities and projects that are consistent with the activities described in subsection (e)(1) of this section. The activities and projects for which such grants are made shall be selected by the Secretary from among proposed activities and projects submitted to the Secretary by the States. Such grants shall be made to the States for redistribution to the persons on whose behalf the State submitted an application under subsection (b) of this section.
+> &emsp;&emsp;to carry out the activities and projects that are consistent with the activities describedin subsection (e)(1) of this section. The activities and projects for which such grants are made shall be selected by the Secretary from among proposed activities and projects submitted to the Secretary by the States. Such grants shall be made to the States for redistribution to the persons on whose behalf the State submitted an application under subsection (b) of this section.
 
 #### (d) Priority
 
@@ -130,7 +130,7 @@ To carry out this section, there are authorized to be appropriated $40,000,000 f
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(8)(A), is Pub. L. 89–10,Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title IV of the Act is classified generally to subchapter IV (§7101 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(8)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title IV of the Act is classified generally to subchapter IV (§7101 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Amendments
 

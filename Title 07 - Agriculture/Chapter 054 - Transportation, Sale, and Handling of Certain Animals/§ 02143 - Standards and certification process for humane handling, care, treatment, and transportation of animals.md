@@ -60,7 +60,7 @@
 
 &emsp;(iii) an explanation for any deviation from the standards promulgated under this section.
 
-(8) Paragraph (1) shall not prohibit any State (or a political subdivision of such State) frompromulgating standards in addition to those standards promulgated by the Secretary under paragraph (1).
+(8) Paragraph (1) shall not prohibit any State (or a political subdivision of such State) from promulgating standards in addition to those standards promulgated by the Secretary under paragraph (1).
 
 #### (b) Research facility Committee; establishment, membership, functions, etc.
 
@@ -164,7 +164,7 @@ Subsec. (a)(4) to (8). Pub. L. 99–198, §1752(b), designated third and fourth 
 
 Subsecs. (b) to (h). Pub. L. 99–198, §1752(a)(1), (c), added subsecs. (b) to (f) and redesignated existing subsecs. (b) to (d) as (f) to (h), respectively.
 
-1976—Subsec. (a). Pub. L. 94–279, §9, designated existing provisions as subsec. (a) and inserted provisions authorizing Secretary to promulgate standards, rules andregulations relating to the transportation in commerce, handling, care, and treatment of animals covered under this chapter.
+1976—Subsec. (a). Pub. L. 94–279, §9, designated existing provisions as subsec. (a) and inserted provisions authorizing Secretary to promulgate standards, rules and regulations relating to the transportation in commerce, handling, care, and treatment of animals covered under this chapter.
 
 Subsecs. (b) to (d). Pub. L. 94–279, §10, added subsecs. (b) to (d).
 

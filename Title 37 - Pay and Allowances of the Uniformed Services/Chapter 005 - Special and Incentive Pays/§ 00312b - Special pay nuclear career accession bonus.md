@@ -1,6 +1,6 @@
 ### §312b. Special pay: nuclear career accession bonus
 
-(a)(1) Under regulations prescribed by the Secretary of the Navy, an individual who is selected for officer naval nuclear power training and who executes a written agreement to participate in a program of training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants may be paid a bonus not to exceed $10,000 upon acceptance by the Secretary of the written agreement. Upon acceptance of the agreement by the Secretary, the amounts payable upon selection for training and upon completion of training, respectively, as determined under subsection (b), shall become fixed.
+(a)(1) Under regulations prescribed by the Secretary of the Navy, an individual who is selected for officer naval nuclear power training and who executes a written agreement to participate in a program of training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants may be paid a bonus not to exceed $20,000 upon acceptance by the Secretary of the written agreement. Upon acceptance of the agreement by the Secretary, the amounts payable upon selection for training and upon completion of training, respectively, as determined under subsection (b), shall become fixed.
 
 (2) Under such regulations, and subject to such exceptions, as the Secretary of the Navy may prescribe, an individual who has entered into an agreement with the Secretary under this subsection, who has been paid a bonus under this subsection, and who fails to commence or satisfactorily complete the nuclear power training specified in the agreement shall be required to refund such bonus.
 
@@ -10,11 +10,15 @@
 
 &emsp;(2) upon successful completion, as a commissioned officer, of training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
 
-(c) The provisions of this section shall be effective only in the case of officers who, on or before December 31, 1999, have been accepted for training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
+(c) The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2000, have been accepted for training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
 
-(Added Pub. L. 94–356, §3, July 12, 1976, 90 Stat. 901; amended Pub. L. 96–579, §2(b), Dec. 23, 1980,94 Stat. 3359; Pub. L. 97–60, title I, §119, Oct. 14, 1981, 95 Stat. 997; Pub. L. 99–145, title VI, §632(b), title XIII, §1303(b)(4), Nov. 8, 1985, 99 Stat. 644, 740; Pub. L. 101–189, div. A, title VI, §614(b), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title XIII, §1322(c)(7), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(h), Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §613(f), Feb. 10, 1996, 110 Stat. 360; Pub. L. 104–201, div. A, title VI, §613(e), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(e), 624(b), Nov. 18, 1997, 111 Stat. 1786, 1793; Pub. L. 105–261, div. A, title VI, §613(e), Oct. 17, 1998, 112 Stat. 2039.)
+(Added Pub. L. 94–356, §3, July 12, 1976, 90 Stat. 901; amended Pub. L. 96–579, §2(b), Dec. 23, 1980, 94 Stat. 3359; Pub. L. 97–60, title I, §119, Oct. 14, 1981, 95 Stat. 997; Pub. L. 99–145, title VI, §632(b), title XIII, §1303(b)(4), Nov. 8, 1985, 99 Stat. 644, 740; Pub. L. 101–189, div. A, title VI, §614(b), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title XIII, §1322(c)(7), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(h), Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §613(f), Feb. 10, 1996, 110 Stat. 360; Pub. L. 104–201, div. A, title VI, §613(e), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(e), 624(b), Nov. 18, 1997, 111 Stat. 1786, 1793; Pub. L. 105–261, div. A, title VI, §613(e), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §§613(f), 624(b), Oct. 5, 1999, 113 Stat. 650, 654.)
 
 #### Amendments
+
+1999—Subsec. (a)(1). Pub. L. 106–65, §624(b), substituted “$20,000” for “$10,000”.
+
+Subsec. (c). Pub. L. 106–65, §613(f), substituted “December 31, 2000” for “December 31, 1999”.
 
 1998—Subsec. (c). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
 
@@ -59,6 +63,10 @@ Subsec. (b). Pub. L. 96–579, §2(b)(1)(A), redesignated former subsec. (a) as 
 Subsec. (c). Pub. L. 96–579, §2(b)(1)(A), (2), redesignated former subsec. (b) as (c) and inserted reference to the bonus authorized by subsec. (b) of this section. Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 96–579, §2(b)(1)(A), (3), redesignated former subsec. (c) as (d) and substituted “September 30, 1987” for “September 30, 1981”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by section 624(b) of Pub. L. 106–65 effective Oct. 1, 1999, and applicable to agreements under this section or section 312 of this title entered into on or after that date, see section 624(d)(1) of Pub. L. 106–65, set out as a note under section 312 of this title.
 
 #### Effective Date of 1997 Amendment
 

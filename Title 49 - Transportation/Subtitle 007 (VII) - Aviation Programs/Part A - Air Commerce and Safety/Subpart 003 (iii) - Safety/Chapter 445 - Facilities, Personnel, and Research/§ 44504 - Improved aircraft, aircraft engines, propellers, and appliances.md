@@ -24,7 +24,7 @@ Research.—The Administrator shall conduct or supervise research—
 
 (c)
 
-Authority To Buy Items Offering Special Advantages.—In carrying out this section, the Administrator, by negotiation or otherwise, may buy or exchange experimental aircraft, aircraft engines, propellers, and appliances that the Administrator decides may offer special advantages to aeronautics.
+Authority To Buy Items Offering Special Advantages.—In carrying out this section,the Administrator, by negotiation or otherwise, may buy or exchange experimental aircraft, aircraft engines, propellers, and appliances that the Administrator decides may offer special advantages to aeronautics.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1176.)
 

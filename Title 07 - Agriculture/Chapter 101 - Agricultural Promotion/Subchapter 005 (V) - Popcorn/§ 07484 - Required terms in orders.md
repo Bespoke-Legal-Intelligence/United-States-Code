@@ -112,7 +112,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 &emsp;&emsp;&emsp;(i) to pay expenses incurred in implementing and administering the order, with provision for a reasonable reserve; and
 
-&emsp;&emsp;&emsp;(ii) to cover such administrative costs as are incurred by the Secretary, except thatthe administrative costs incurred by the Secretary (other than any legal expenses incurred to defend and enforce the order) that may be reimbursed by the Board may not exceed 15 percent of the projected annual revenues of the Board.
+&emsp;&emsp;&emsp;(ii) to cover such administrative costs as are incurred by the Secretary, except that the administrative costs incurred by the Secretary (other than any legal expenses incurred to defend and enforce the order) that may be reimbursed by the Board may not exceed 15 percent of the projected annual revenues of the Board.
 
 #### (B) Expenditures based on source of assessments
 

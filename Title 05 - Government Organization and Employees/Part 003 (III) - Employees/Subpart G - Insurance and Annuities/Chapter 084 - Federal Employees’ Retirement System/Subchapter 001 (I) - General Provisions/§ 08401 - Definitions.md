@@ -110,7 +110,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(C) amounts deposited by an employee, Member, or survivor under section 8411(f); and
 
-&emsp;&emsp;(D) interest on the deductions and deposits which, for any calendar year, shall be equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of theTreasury during such fiscal year under section 8348(c), (d), and (e), as determined by the Secretary (compounded annually);
+&emsp;&emsp;(D) interest on the deductions and deposits which, for any calendar year, shall be equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 8348(c), (d), and (e), as determined by the Secretary (compounded annually);
 
 > &emsp;but does not include interest—
 
@@ -154,11 +154,7 @@ For the purpose of this chapter—
 
 &emsp;(29) the term “System” means the Federal Employees’ Retirement System described in section 8402(a);
 
-&emsp;(30) the term “military reserve technician” means a member of one of the reserve components of the armed forces specified in section 10101 of title 10 who—
-
-&emsp;&emsp;(A) is assigned to a civilian position as a technician in the administration and training of such reserve components or in the maintenance and repair of supplies issued to such reserve components; and
-
-&emsp;&emsp;(B) as a condition of employment in such position, is required to be a member of one of such reserve components serving in a specified military grade;
+&emsp;(30) the term “military technician (dual status)” means an employee described in section 10216 of title 10;
 
 &emsp;(31) the term “military service” means honorable active service—
 
@@ -174,7 +170,7 @@ For the purpose of this chapter—
 
 &emsp;(33) “Nuclear materials courier” has the meaning given that term in section 8331(27).
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(<i>o</i>), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(a)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–261, div. C, title XXXI, §3154(f), Oct. 17, 1998, 112 Stat. 2255.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(<i>o</i>), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(a)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–261, div. C, title XXXI, §3154(f), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(2), Oct. 5, 1999, 113 Stat. 597.)
 
 #### References in Text
 
@@ -184,11 +180,17 @@ Chapter 21 of the Internal Revenue Code of 1986, referred to in par. (11), is cl
 
 Section 103(6) of the Foreign Service Act of 1980, referred to in par. (11)(iii), is classified to section 3903(6) of Title 22, Foreign Relations and Intercourse.
 
-The Federal Employees’ Retirement System Act of 1986, referred to in par. (17)(B), is Pub. L. 99–335, June6, 1986, 100 Stat. 514, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 8401 of this title and Tables.
+The Federal Employees’ Retirement System Act of 1986, referred to in par. (17)(B), is Pub. L. 99–335, June 6, 1986, 100 Stat. 514, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 8401 of this title and Tables.
 
 The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, referred to in pars. (19)(A) and (27)(B)(iii)(II), is Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, as amended, which is set out as a note under section 8331 of this title.
 
 #### Amendments
+
+1999—Par. (30). Pub. L. 106–65 amended par. (30) generally. Prior to amendment, par. (30) read as follows: “the term ‘military reserve technician’ means a member of one of the reserve components of the armed forces specified in section 10101 of title 10 who—
+
+&emsp;“(A) is assigned to a civilian position as a technician in the administration and training of such reserve components or in the maintenance and repair of supplies issued to such reserve components; and
+
+&emsp;“(B) as a condition of employment in such position, is required to be a member of one of such reserve components serving in a specified military grade;”.
 
 1998—Par. (33). Pub. L. 105–261 added par. (33).
 
@@ -198,7 +200,7 @@ The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 198
 
 Par. (30). Pub. L. 103–337 substituted “section 10101” for “section 261(a)” in introductory provisions.
 
-Par. (31). Pub. L. 103–353, §5(c), in closing provisions, inserted before semicolon “or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990”.
+Par. (31). Pub. L. 103–353, §5(c), in closing provisions, inserted before semicolon “or full-time National Guard duty (as such term is defined in section 101(d) of title10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990”.
 
 1990—Par. (11)(C). Pub. L. 101–508, §7202(k)(1)(A)(i)–(iii), added subpar. (C).
 
@@ -268,13 +270,17 @@ Exceptions.—(1) Subchapter VII of chapter 84 of title 5, United States Code, a
 
 “(2) Except as provided in section 305 of this Act \[enacting and amending provisions set out as notes under section 8331 of this title\], title III of this Act, and the amendments made by such title \[amending sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8432, and 8472 of this title and section 6103 of Title 26, and amending provisions set out as a note under section 8331 of this title\], shall take effect on the date of the enactment of this Act.
 
-“(3) The amendments made by sections 204 and 205 of this Act \[enacting sections 8343a and 8350 of this titleand amending section 8342 of this title\] shall take effect on the date of the enactment of this Act.
+“(3) The amendments made by sections 204 and 205 of this Act \[enacting sections 8343a and 8350 of this title and amending section 8342 of this title\] shall take effect on the date of the enactment of this Act.
 
 “(4) Section 701 of this Act \[enacting provisions set out as a note under section 8472 of this title\] shall take effect on the date of the enactment of this Act.
 
 “(5) Sections 505 \[amending provisions formerly set out as a note under section 403 of Title 50, War and National Defense\] and 601 of this Act and the amendments made by such section 601 \[not classified to the Code\] shall take effect on the date of the enactment of this Act.”
 
 Reference to a specific date in section 702(a) of Pub. L. 99–335, set out above, for certain purposes, deemed to be a reference to the first day of the first pay period beginning after such date, or to the day before such day, as appropriate, see section 505 of Pub. L. 99–556, set out as a Coordination With Pay Periods note under section 8331 of this title.
+
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–168, title II, §201, Dec. 12, 1999, 113 Stat. 1817, provided that: “This title \[enacting section 8431 ofthis title, amending sections 8351, 8402, and 8411 of this title, and enacting provisions set out as notes under sections 8402 and 8431 of this title\] may be cited as the ‘Federal Reserve Board Retirement Portability Act’.”
 
 #### Short Title of 1998 Amendment
 

@@ -60,7 +60,7 @@ The administering authority shall review the information in the reports submitte
 
 &emsp;(1) consider the information in determining whether to initiate an investigation under section 1671a(a) or 1673a(a) of this title regarding any downstream product, and
 
-&emsp;(2) request the Commission to cease monitoring any downstream product if the information indicates that imports into the United States are not increasing and there is no reasonable likelihood of diversion with respect to component parts.
+&emsp;(2) request the Commission to cease monitoring any downstream product if the information indicates that imports into the UnitedStates are not increasing and there is no reasonable likelihood of diversion with respect to component parts.
 
 #### (d) Definitions
 

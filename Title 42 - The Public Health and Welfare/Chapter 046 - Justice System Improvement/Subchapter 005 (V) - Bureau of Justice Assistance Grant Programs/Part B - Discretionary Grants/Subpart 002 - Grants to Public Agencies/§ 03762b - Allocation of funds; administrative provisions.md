@@ -32,3 +32,7 @@ For prior section 516 of Pub. L. 90–351, see note set out preceding section 37
 
 Subsec. (b). Pub. L. 103–322, §330001(b)(2)(B), substituted “paragraph (1) or (3) of section 3762a(a)” for “section 3762a(a)(1) or (a)(3)”.
 
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
+

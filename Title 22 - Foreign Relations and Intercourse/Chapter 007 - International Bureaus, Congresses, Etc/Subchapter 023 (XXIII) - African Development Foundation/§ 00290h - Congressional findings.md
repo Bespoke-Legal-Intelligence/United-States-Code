@@ -12,7 +12,11 @@ The Congress finds that—
 
 &emsp;(5) an African Development Foundation similar in structure to the Inter-American Foundation, but adapted to the specific needs of Africa, can complement current United States development programs in Africa.
 
-(Pub. L. 96–533, title V, §502, Dec. 16, 1980, 94 Stat. 3151.)
+(Pub. L. 96–533, title V, §502, Dec. 16, 1980, 94 Stat. 3151; Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(h)(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–119.)
+
+#### Amendment of Section
+
+<i>For amendment of section by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(h)(1), (j)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–119, 1501A–120, see Abolition of the Inter-American Foundation note set out under section 290f of this title.</i>
 
 #### References in Text
 

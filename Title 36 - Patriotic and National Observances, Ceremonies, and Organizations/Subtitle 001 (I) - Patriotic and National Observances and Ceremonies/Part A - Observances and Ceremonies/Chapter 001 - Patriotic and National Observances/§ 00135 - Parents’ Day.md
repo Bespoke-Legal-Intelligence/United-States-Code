@@ -30,5 +30,7 @@ Oct. 14, 1994, Pub. L. 103–362, 108 Stat. 3465.
 
 36:142c–1.
 
+&nbsp;
+
 In subsection (b), the word “entities” is substituted for “bodies” for consistency in the revised title and with other titles of the United States Code.
 

@@ -28,6 +28,8 @@ Historical and Revision Notes
 
 36:668.
 
+&nbsp;
+
 In subsection (a)(1), the words “and referred to” are omitted as unnecessary.
 
 In subsection (a)(2), the words “at another regular interval as provided” are substituted for “at such other regular intervals as may be specified” for consistency in the revised title and to eliminate unnecessary words.

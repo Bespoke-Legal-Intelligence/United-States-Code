@@ -58,7 +58,7 @@ The responsible party for—
 
 #### (C) Greater amount
 
-&emsp;&emsp;If the President determines that an amount of financial responsibility for a responsible party greater than the amount required by subparagraph (B) is justified based on the relative operational, environmental, human health, and other risks posed by the quantity or quality of oil that is explored for, drilled for, produced, or transported by the responsible party, the evidence of financial responsibility required shall be for an amount determined by the President not exceeding $150,000,000.
+&emsp;&emsp;If the President determines that an amount of financial responsibility for a responsible party greater than the amount required by subparagraph (B) is justified based on the relative operational, environmental, human health, and other risks posed by the quantity or quality of oil that is explored for, drilled for, produced, or transported bythe responsible party, the evidence of financial responsibility required shall be for an amount determined by the President not exceeding $150,000,000.
 
 #### (D) Multiple facilities
 

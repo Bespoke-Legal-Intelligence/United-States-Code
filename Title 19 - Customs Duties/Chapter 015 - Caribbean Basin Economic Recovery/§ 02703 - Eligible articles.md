@@ -22,7 +22,7 @@
 
 &emsp;(B) dies, molds, tooling, and depreciation on machinery and equipment which are allocable to the specific merchandise.
 
-> Such phrase does not include costs which are not directly attributable to the merchandise concerned or are not costs of manufacturing the product, such as (i) profit, and (ii) general expenses of doing business which are either not allocable to the specific merchandise or are notrelated to the growth, production, manufacture, or assembly of the merchandise, such as administrative salaries, casualty and liability insurance, advertising, and salesmen's salaries, commissions or expenses.
+> Such phrase does not include costs which are not directly attributable to the merchandise concerned or are not costs of manufacturing the product, such as (i) profit, and (ii) general expenses of doing business which are either not allocable to the specific merchandise or are not related to the growth, production, manufacture, or assembly of the merchandise, such as administrative salaries, casualty and liability insurance, advertising, and salesmen's salaries, commissions or expenses.
 
 (4) Notwithstanding section 1311 of this title, the products of a beneficiary country which are imported directly from any beneficiary country into Puerto Rico may be entered under bond for processing or use in manufacturing in Puerto Rico. No duty shall be imposed on the withdrawal from warehouse of the product of such processing or manufacturing if, at the time of such withdrawal, such product meets the requirements of paragraph (1)(B).
 
@@ -82,7 +82,7 @@ The duty-free treatment provided under this chapter shall not apply to—
 
 (3) Before the President suspends duty-free treatment by reason of paragraph (2)(A), (B), or (C) to the sugar and beef products of a beneficiary country, he must offer to enter into consultation with the beneficiary country for purposes of formulating appropriate remedial action which may be taken by that country to avoid such suspension. If the beneficiary country thereafter enters into consultation within a reasonable time and undertakes to formulate remedial action in good faith, the President shall withhold the suspension of duty-free treatment on the condition that the remedial action agreed upon be appropriately implemented by that country.
 
-(4) The President shall monitor on a biennial basis the operation of the Plans implemented bybeneficiary countries, and shall submit a written report to Congress by March 15 following the close of each biennium, that—
+(4) The President shall monitor on a biennial basis the operation of the Plans implemented by beneficiary countries, and shall submit a written report to Congress by March 15 following the close of each biennium, that—
 
 &emsp;(A) specifies the extent to which each Plan, and remedial actions, if any, agreed upon under paragraph (4), have been implemented; and
 
@@ -106,7 +106,7 @@ No quantity of an agricultural product subject to a tariff-rate quota that excee
 
 (5)(A) Any action taken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] that is in effect when duty-free treatment pursuant to section 2701 <sup>2</sup> of this title is proclaimed shall remain in effect until modified or terminated.
 
-(B) If any article is subject to any such action at the time duty-free treatment is proclaimed pursuant to section 2701 of this title, the President may reduce or terminate the application of such action to the importation of such article from beneficiary countries prior to the otherwise scheduled date on which such reduction or termination would occur pursuant to the criteria and procedures of section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\].
+(B) If any article is subject to any such action at the time duty-free treatment is proclaimed pursuant to section 2701 of this title, the President may reduce or terminate the application ofsuch action to the importation of such article from beneficiary countries prior to the otherwise scheduled date on which such reduction or termination would occur pursuant to the criteria and procedures of section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\].
 
 #### (f) Petitions to International Trade Commission
 
@@ -136,7 +136,7 @@ No quantity of an agricultural product subject to a tariff-rate quota that excee
 
 &emsp;(B) fresh or chilled vegetables provided for in headings 0701 through 0709 (except subheading 0709.52.00) and heading 0714 of the HTS;
 
-&emsp;(C) fresh fruit provided for in subheadings 0804.20 through 0810.90 (except citrons of subheading 0805.90.00, tamarinds and kiwi fruit ofsubheading 0810.90.20, and cashew apples, mameyes colorados, sapodillas, soursops and sweetsops of subheading 0810.90.40) of the HTS; and
+&emsp;(C) fresh fruit provided for in subheadings 0804.20 through 0810.90 (except citrons of subheading 0805.90.00, tamarinds and kiwi fruit of subheading 0810.90.20, and cashew apples, mameyes colorados, sapodillas, soursops and sweetsops of subheading 0810.90.40) of the HTS; and
 
 &emsp;(D) concentrated citrus fruit juice provided for in subheadings 2009.11.00, 2009.19.40, 2009.20.40, 2009.30.20, and 2009.30.60 of the HTS.
 
@@ -168,7 +168,7 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 #### References in Text
 
-Section 423 of the Tax Reform Act of 1986, referred to in subsec. (a)(1), is section 423 of Pub. L. 99–514, title IV, Oct. 22, 1986, 100 Stat. 2230, which amended this section and General Headnote 3(a)(i) of the Tariff Schedules of the United States formerly set out under section 1202 of this title, and enacted provisions set out as a note below.
+Section 423 of the Tax Reform Act of 1986, referred to in subsec. (a)(1), is section 423 of Pub. L. 99–514, title IV,Oct. 22, 1986, 100 Stat. 2230, which amended this section and General Headnote 3(a)(i) of the Tariff Schedules of the United States formerly set out under section 1202 of this title, and enacted provisions set out as a note below.
 
 The Trade Act of 1974, referred to in subsecs. (b)(2), (e)(1), and (h)(1)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Trade Act of 1974 is classified generally to part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 

@@ -1,5 +1,5 @@
 
-36 U.S.C.<br>United States Code, 1998 Edition<br>Title 36 - PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS<br>From the U.S. Government Publishing Office, www.gpo.gov
+36 U.S.C.<br>United States Code, 1999 Edition<br>Title 36 - PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS
 
@@ -439,7 +439,7 @@ Rep.
 
 22710
 
-67g025<i>l</i>
+67<i>l</i>
 
 22704
 
@@ -447,7 +447,7 @@ Rep.
 
 22709
 
-67n, 67g025<i>o</i>
+67n, 67<i>o</i>
 
 22707
 
@@ -515,7 +515,7 @@ Elim.
 
 130107
 
-78g025<i>l</i>
+78<i>l</i>
 
 130109
 
@@ -527,7 +527,7 @@ Rep.
 
 130112
 
-78g025<i>o</i>
+78<i>o</i>
 
 130106
 
@@ -1075,7 +1075,7 @@ Rep.
 
 102
 
-169g025<i>l</i>
+169<i>l</i>
 
 129
 
@@ -1096,6 +1096,8 @@ T. 4 §§4–10
 901
 
 182a–184
+
+Rep.
 
 185
 

@@ -48,7 +48,7 @@ Other Definitions.—For purposes of subsection (a):
 
 &emsp;&emsp;(A) a stepchild of the member (except that such term does not include a stepchild after the divorce of the member from the stepchild's parent by blood);
 
-&emsp;&emsp;(B) an adopted child of the member, including a child placed in the home of themember by a placement agency (recognized by the Secretary of Defense) in anticipation of the legal adoption of the child by the member; and
+&emsp;&emsp;(B) an adopted child of the member, including a child placed in the home of the member by a placement agency (recognized by the Secretary of Defense) in anticipation of the legal adoption of the child by the member; and
 
 &emsp;&emsp;(C) an illegitimate child of the member if the member's parentage of the child is established in accordance with criteria prescribed in regulations by the Secretary concerned.
 
@@ -80,7 +80,7 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §102(g) (less last proviso of last sentence), 63 Stat. 804; Sept. 8, 1950, ch. 922, §1, 64 Stat. 794; Mar. 23, 1953, ch. 8 (as applicable to §102(g)), 67 Stat. 6; June 30, 1955, ch. 250, §103 (as applicable to §102(g)), 69 Stat. 224; Mar. 23, 1959, Pub. L. 86–4, §3 (as applicable to §102(g)), 73 Stat. 13.
 
-The words “lawful”, “at all times and in all places”, “except as hereinafter limited in this subsection”, and “in addition to those persons otherwise defined as dependents in this subsection” are omitted as surplusage. In clause (1), the word “spouse” is substituted for words “wife” and “husband”. Clause (2) is substituted for the 16th through 24th words of the first sentence of section 231(g) of existing title 37 and the third sentence (less last proviso) of section 231(g) of existing title 37. Clause (3) is substituted for the second sentence of section 231(g) of existing title 37 and the last sentence (less provisos) of section 231(g) of existing title 37. The second sentence is substituted for the last proviso of the third sentence of section 231(g) of existing title 37. The last sentence is substituted for the first proviso of the last sentence of section 231(g) of existing title 37.
+The words “lawful”, “at all times and in all places”, “except as hereinafter limited in this subsection”, and “in addition to those persons otherwise defined as dependents in this subsection” are omitted as surplusage. In clause (1), the word “spouse” is substituted for words “wife” and “husband”. Clause (2) is substituted for the16th through 24th words of the first sentence of section 231(g) of existing title 37 and the third sentence (less last proviso) of section 231(g) of existing title 37. Clause (3) is substituted for the second sentence of section 231(g) of existing title 37 and the last sentence (less provisos) of section 231(g) of existing title 37. The second sentence is substituted for the last proviso of the third sentence of section 231(g) of existing title 37. The last sentence is substituted for the first proviso of the last sentence of section 231(g) of existing title 37.
 
 #### Amendments
 

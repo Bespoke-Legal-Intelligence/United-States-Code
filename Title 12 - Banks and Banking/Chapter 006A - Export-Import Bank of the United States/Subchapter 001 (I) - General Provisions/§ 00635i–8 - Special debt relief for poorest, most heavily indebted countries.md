@@ -2,7 +2,7 @@
 
 #### (a) Debt reduction authority
 
-The President may reduce amounts of principle <sup>1</sup> and interest owed by any eligible countryto the Bank as a result of loans or guarantees made under this subchapter.
+The President may reduce amounts of principle <sup>1</sup> and interest owed by any eligible country to the Bank as a result of loans or guarantees made under this subchapter.
 
 #### (b) Limitations
 

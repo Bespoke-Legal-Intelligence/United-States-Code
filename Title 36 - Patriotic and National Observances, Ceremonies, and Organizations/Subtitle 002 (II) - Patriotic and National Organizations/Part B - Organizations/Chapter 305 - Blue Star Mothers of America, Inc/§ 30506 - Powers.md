@@ -40,7 +40,7 @@ In clause (1), the word “alter” is omitted as included in “amend”. The w
 
 In clause (2), the word “use” is omitted as unnecessary.
 
-In clause (4), the words “make contracts” are substituted for “to contract and be contracted with” forconsistency in the revised title and to eliminate unnecessary words.
+In clause (4), the words “make contracts” are substituted for “to contract and be contracted with” for consistency in the revised title and to eliminate unnecessary words.
 
 Clause (5) is substituted for “take by lease, gift, purchase, grant, devise, or bequest from any public body or agency or any private corporation, association, partnership, firm, or individual and to hold absolutely or in trust for any of the purposes of the corporation any property, real, personal, or mixed, necessary or convenient for attaining the objects and carrying into effect the purposes of the corporation” and “transfer, convey, lease, sublease, mortgage, encumber and otherwise alienate real, personal, or mixed property” for consistency in the revised title and to eliminate unnecessary words. The words “subject, however, to applicable provisions of law of any State (A) governing the amount of or kind of property which may be held by, or (B) otherwise limiting or controlling the ownership of property by, a corporation operating in such State” are omitted as unnecessary.
 

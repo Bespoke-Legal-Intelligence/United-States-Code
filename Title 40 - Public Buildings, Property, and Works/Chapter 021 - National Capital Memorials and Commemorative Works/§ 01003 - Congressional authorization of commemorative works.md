@@ -62,7 +62,7 @@ Martin Luther King, Jr. Memorial.—Pub. L. 104–333, div. I, title V, §508, N
 
 National Peace Garden.—Pub. L. 100–63, June 30, 1987, 101 Stat. 379; Pub. L. 103–321, §1(a)(3), (b), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 105–202, July 16, 1998, 112 Stat. 676.
 
-Thomas Paine Memorial.—Pub. L. 102–407, Oct. 13, 1992, 106 Stat. 1991; Pub. L. 102–459, Oct. 23, 1992, 106 Stat. 2268; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356.
+Thomas Paine Memorial.—Pub. L. 102–407, Oct. 13, 1992, 106 Stat. 1991; Pub. L. 102–459, Oct. 23, 1992, 106 Stat. 2268; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §142\], Nov. 29, 1999, 113 Stat. 1535, 1501A–171.
 
 Victims of Communism Memorial.—Pub. L. 103–199, title IX, §905, Dec. 17, 1993, 107 Stat. 2331; Pub. L. 105–277, div. A, §101(e) \[title III, §326\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–291.
 
@@ -70,7 +70,7 @@ Vietnam Women's Memorial.—Pub. L. 100–660, Nov. 15, 1988, 102 Stat. 3922; Pu
 
 Women in Military Service for America Memorial.—Pub. L. 99–500, §101(h) \[title I, §117\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, §101(h) \[title I, §117\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–590, title IX, §§901, 902, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 99–610, Nov. 6, 1986, 100 Stat. 3477; Pub. L. 103–321, §1(a)(2), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 103–337, div. B, title XXVIII, §2855, Oct. 5, 1994, 108 Stat. 3073.
 
-World War II Memorial.—Pub. L. 103–32, May 25, 1993, 107 Stat. 90; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356.
+World War II Memorial.—Pub. L. 103–32, May 25, 1993, 107 Stat. 90; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–58, title VI, §652, Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–117, title VI, §601(b), Nov. 30, 1999, 113 Stat. 1578.
 
 #### Section Referred to in Other Sections
 

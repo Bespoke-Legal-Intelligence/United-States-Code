@@ -44,15 +44,15 @@
 
 &emsp;(2) the court may deny reclamation to such a producer or fisherman with a right of reclamation that has made such a demand only if the court secures such claim by a lien.
 
-(e) Notwithstanding sections 544, 545, 547, 548(a)(2), and 548(b) of this title, the trustee may not avoid a transfer that is a margin payment, as defined in section 101, 741, or 761 of this title, or settlement payment, as defined in section 101 or 741 of this title, made by or to a commodity broker, forward contract merchant, stockbroker, financial institution, or securities clearing agency, that is made before the commencement of the case, except under section 548(a)(1) of this title.
+(e) Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) of this title, the trustee may not avoid a transfer that is a margin payment, as defined in section 101, 741, or 761 of this title, or settlement payment, as defined in section 101 or 741 of this title, made by or to a commodity broker, forward contract merchant, stockbroker, financial institution, or securities clearing agency, that is made before the commencement of the case, except under section 548(a)(1)(A) of this title.
 
-(f) Notwithstanding sections 544, 545, 547, 548(a)(2), and 548(b) of this title, the trustee may not avoid a transfer that is a margin payment, as defined in section 741 or 761 of this title, or settlement payment, as defined in section 741 of this title, made by or to a repo participant, in connection with a repurchase agreement and that is made before the commencement of the case, except under section 548(a)(1) of this title.
+(f) Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) of this title, the trustee may not avoid a transfer that is a margin payment, as defined in section 741 or 761 of this title, or settlement payment, as defined in section 741 of this title, made by or to a repo participant, in connection with a repurchase agreement and that is made before the commencement of the case, except under section 548(a)(1)(A) of this title.
 
-(g) Notwithstanding sections 544, 545, 547, 548(a)(2) and 548(b) of this title, the trustee may not avoid a transfer under a swap agreement, made by or to a swap participant, in connection with a swap agreement and that is made before the commencement of the case, except under section 548(a)(1) of this title.
+(g) Notwithstanding sections 544, 545, 547, 548(a)(1)(B) and 548(b) of this title, the trustee may not avoid a transfer under a swap agreement, made by or to a swap participant, in connection with a swap agreement and that is made before the commencement of the case, except under section 548(a)(1)(A) of this title.
 
 (g) <sup>1</sup> Notwithstanding the rights and powers of a trustee under sections 544(a), 545, 547, 549, and 553, if the court determines on a motion by the trustee made not later than 120 days after the date of the order for relief in a case under chapter 11 of this title and after notice and a hearing, that a return is in the best interests of the estate, the debtor, with the consent of a creditor, may return goods shipped to the debtor by the creditor before the commencement of the case, and the creditor may offset the purchase price of such goods against any claim of the creditor against the debtor that arose before the commencement of the case.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 97–222, §4, July 27, 1982, 96 Stat. 236; Pub. L. 98–353, title III, §§351, 393, 461, July 10, 1984, 98 Stat. 358, 365, 377; Pub. L. 99–554, title II, §§257(d), 283(<i>l</i>), Oct. 27, 1986, 100 Stat. 3114, 3117; Pub. L. 101–311, title I, §103, title II, §203, June 25, 1990, 104 Stat. 268, 269; Pub. L. 103–394, title II, §§204(b), 209, 216, 222(a), title V, §501(b)(4), Oct. 22, 1994, 108 Stat. 4122, 4125, 4126, 4129, 4142.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 97–222, §4, July 27, 1982, 96 Stat. 236; Pub. L. 98–353, title III, §§351, 393, 461, July 10, 1984, 98 Stat. 358, 365, 377; Pub. L. 99–554, title II, §§257(d), 283(<i>l</i>), Oct. 27, 1986, 100 Stat. 3114, 3117; Pub. L. 101–311, title I, §103, title II, §203, June 25, 1990, 104 Stat. 268, 269; Pub. L. 103–394, title II, §§204(b), 209, 216, 222(a), title V, §501(b)(4), Oct. 22, 1994, 108 Stat. 4122, 4125, 4126, 4129, 4142; Pub. L. 105–183, §3(c), June 19, 1998, 112 Stat. 518.)
 
 #### Historical and Revision Notes
 
@@ -71,6 +71,8 @@ Subsection (b) \[enacted as (c)\] specifies that the trustee's rights and powers
 Subsection (c) \[enacted as (a)\] adds a statute of limitations to the use by the trustee of the avoiding powers. The limitation is two years after his appointment, or the time the case is closed or dismissed, whichever occurs later.
 
 #### Amendments
+
+1998—Subsecs. (e) to (g). Pub. L. 105–183 substituted “548(a)(1)(B)” for “548(a)(2)” and “548(a)(1)(A)” for “548(a)(1)”.
 
 1994—Subsec. (a)(1). Pub. L. 103–394, §216, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “two years after the appointment of a trustee under section 702, 1104, 1163, 1302, or 1202 of this title; or”.
 
@@ -109,6 +111,10 @@ Subsec. (e). Pub. L. 98–353, §§351(2), 461(d), redesignated former subsec. (
 Subsec. (f). Pub. L. 98–353, §393, added subsec. (f).
 
 1982—Subsec. (d). Pub. L. 97–222 added subsec. (d).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–183 applicable to any case brought under an applicable provision of this title that is pending or commenced on or after June 19, 1998, see section 5 of Pub. L. 105–183, set out as a note under section 544 of this title.
 
 #### Effective Date of 1994 Amendment
 

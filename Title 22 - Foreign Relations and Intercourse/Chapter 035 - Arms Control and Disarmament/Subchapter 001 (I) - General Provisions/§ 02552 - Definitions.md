@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-&emsp;(a) The terms “arms control” and “disarmament” mean the identification, verification, inspection, limitation, control, reduction, or elimination, of armed forces and armaments of all kinds under international agreement including the necessary steps taken under such an agreement to establish an effective systemof international control, or to create and strengthen international organizations for the maintenance of peace.
+&emsp;(a) The terms “arms control” and “disarmament” mean the identification, verification, inspection, limitation, control, reduction, or elimination, of armed forces and armaments of all kinds under international agreement including the necessary steps taken under such an agreement to establish an effective system of international control, or to create and strengthen international organizations for the maintenance of peace.
 
 &emsp;(b) The term “Government agency” means any executive department, commission, agency, independent establishment, corporation wholly or partly owned by the United States which is an instrumentality of the United States, or any board, bureau, division, service, office, officer, authority, administration, or other establishment in the executive branch of Government.
 
@@ -14,5 +14,5 @@ As used in this chapter—
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
 

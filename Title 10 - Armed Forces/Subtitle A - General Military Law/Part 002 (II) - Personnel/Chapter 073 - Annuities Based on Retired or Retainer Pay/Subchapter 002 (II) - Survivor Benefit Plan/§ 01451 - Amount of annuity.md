@@ -26,7 +26,7 @@ Rule if beneficiary eligible for social security offset computation.—If the be
 
 &emsp;(2)
 
-Reserve-component annuity.—In the case of a reserve-component annuity provided to a beneficiary under section 1450(a) of this title (other than under section 1450(a)(4)), the monthly annuity payable to the beneficiary shall be determined as follows:
+Reserve-component annuity.—In the case of a reserve-component annuity provided to a beneficiary under section 1450(a) of this title (other than under section 1450(a)(4)), themonthly annuity payable to the beneficiary shall be determined as follows:
 
 &emsp;&emsp;(A)
 
@@ -114,7 +114,7 @@ Servicemembers not yet granted retired pay.—In the case of an annuity provided
 
 &emsp;(4)
 
-Rate of pay to be used in computing annuity.—In the case of an annuity paid under section 1448(f) of this title by reason of the service of a person who first became a member of a uniformed service before September 8, 1980, the retired pay of the person providing the annuity shall for the purposes of paragraph (1) be computed on the basis of the rates of basic pay in effect on the effective date of the annuity.
+Rate of pay to be used in computing annuity.—In the case of an annuity paid under section 1448(f) of this title by reason of the service of a person who first became a member of a uniformed service before September 8, 1980, the retired pay of the person providingthe annuity shall for the purposes of paragraph (1) be computed on the basis of the rates of basic pay in effect on the effective date of the annuity.
 
 (d)
 
@@ -262,13 +262,13 @@ Recomputation at age 62.—When the retired pay of a person who first became a m
 
 &emsp;(3)
 
-Disregarding of retired pay reductions for retirement before 30 years of service.—Computation of a member's retired pay for purposes of this section shall be made without regard to any reduction under section 1409(b)(2) of this title.
+Disregarding of retired pay reductions for retirement of certain members before 30 years of service.—Computation of a member's retired pay for purposes of this section shall be made without regard to any reduction under section 1409(b)(2) of this title.
 
 (i)
 
 Recomputation of Annuity for Certain Beneficiaries.—In the case of an annuity under the Plan which is computed on the basis of the retired pay of a person who would have been entitled to have that retired pay recomputed under section 1410 of this title upon attaining 62 years of age, but who dies before attaining that age, the annuity shall be recomputed, effective on the first day of the first month beginning after the date on which the member or former member would have attained 62 years of age, so as to be the amount equal to the amount of the annuity that would be in effect on that date if increases under subsection (h)(1) in the base amount applicable to that annuity to the time of the death of the member or former member, and increases in such annuity under subsection (g)(1), had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section).
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 709; amended Pub. L. 94–496, §1(4), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §204, Sept. 30, 1978, 92 Stat. 846; Pub. L. 96–402, §3, Oct. 9, 1980, 94 Stat. 1705; Pub. L. 97–22, §11(a)(4), July 10, 1981, 95 Stat. 137; Pub. L. 98–94, title IX, §922(a)(14)(B), Sept. 24, 1983, 97 Stat. 642; Pub. L. 98–525, title VI, §641(a), Oct. 19, 1984, 98 Stat. 2545; Pub. L. 99–145, title VII, §711(a), (b), Nov. 8, 1985, 99 Stat. 666, 670; Pub. L. 99–348, title III, §301(a)(2), (b), (c), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title VI, §642(b), title XIII, §1343(a)(8)(D), Nov. 14, 1986, 100 Stat. 3886, 3992; Pub. L. 100–26, §7(h)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–224, §3(a), (c), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 100–456, div. A, title VI, §652(a), Sept. 29, 1988, 102 Stat. 1991; Pub. L. 101–189, div. A, title XIV, §§1403(a), 1407(a)(5)–(8), (b)(1), Nov. 29, 1989, 103 Stat. 1579, 1588, 1589; Pub. L. 103–337, div. A, title X, §1070(e)(4), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2566; Pub. L. 105–85, div. A, title X, §1073(a)(28), Nov. 18, 1997, 111 Stat. 1901.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 709; amended Pub. L. 94–496, §1(4), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §204, Sept. 30, 1978, 92 Stat. 846; Pub. L. 96–402, §3, Oct. 9, 1980, 94 Stat. 1705; Pub. L. 97–22, §11(a)(4), July 10, 1981, 95 Stat. 137; Pub. L. 98–94, title IX, §922(a)(14)(B), Sept. 24, 1983, 97 Stat. 642; Pub. L. 98–525, title VI, §641(a), Oct. 19, 1984, 98 Stat. 2545; Pub. L. 99–145, title VII, §711(a), (b), Nov. 8, 1985, 99 Stat. 666, 670; Pub. L. 99–348, title III, §301(a)(2), (b), (c), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title VI, §642(b), title XIII, §1343(a)(8)(D), Nov. 14, 1986, 100 Stat. 3886, 3992; Pub. L. 100–26, §7(h)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–224, §3(a), (c), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 100–456, div. A, title VI, §652(a), Sept. 29, 1988, 102 Stat. 1991; Pub. L. 101–189, div. A, title XIV, §§1403(a), 1407(a)(5)–(8), (b)(1), Nov. 29, 1989, 103 Stat. 1579, 1588, 1589; Pub. L. 103–337, div. A, title X, §1070(e)(4), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2566; Pub. L. 105–85, div. A, title X, §1073(a)(28), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 106–65, div. A, title VI, §643(a)(1), Oct. 5, 1999, 113 Stat. 663.)
 
 #### References in Text
 
@@ -277,6 +277,12 @@ The Social Security Act, referred to in subsec. (e)(3)(A), (4)(A), is act Aug. 1
 Section 6413(c) of the Internal Revenue Code of 1986, referred to in subsec. (e)(4)(B)(ii), is classified to section 6413(c) of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+1999—Subsec. (h)(3). Pub. L. 106–65 inserted “
+
+of certain members” after “
+
+retirement” in heading.
 
 1997—Subsec. (a)(2). Pub. L. 105–85 substituted “
 
@@ -290,7 +296,7 @@ annuity—” in heading.
 
 1989—Subsec. (c)(3). Pub. L. 101–189, §1403(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In the case of an annuity provided by a member described in section 1448(d)(1)(C) of this title, the retired pay to which the member would have been entitled when he died shall be determined based upon the rate of basic pay in effect at the time of death for the highest grade other than a commissioned officer grade in which the member served on active duty satisfactorily, as determined by the Secretary concerned.”
 
-Subsec. (c)(4). Pub. L. 101–189, §1407(a)(5), inserted “by reason of the service of a person who first became a member of a uniformed service before September 8, 1980”.
+Subsec. (c)(4). Pub. L. 101–189, §1407(a)(5), inserted “by reason of the service of a person who first became amember of a uniformed service before September 8, 1980”.
 
 Subsec. (e)(1). Pub. L. 101–189, §1407(a)(6), substituted “beneficiaries under the Plan” for “beneficiaries under the plan” in introductory provisions.
 
@@ -328,7 +334,7 @@ Subsec. (g)(1). Pub. L. 99–348, §301(b), struck out “by the same total perc
 
 Subsecs. (h), (i). Pub. L. 99–348, §301(a)(2), (c), added subsecs. (h) and (i).
 
-1985—Pub. L. 99–145, §711(a), amended section generally, eliminating the social security offset to the Planand establishing a two-tier system under which the beneficiary would receive 55 percent of retired pay before age 62 and 35 percent thereafter in recognition of the entitlement to social security based on military service, and providing benefits to certain beneficiaries under either the old social security offset system or the new two-tier system, whichever is higher.
+1985—Pub. L. 99–145, §711(a), amended section generally, eliminating the social security offset to the Plan and establishing a two-tier system under which the beneficiary would receive 55 percent of retired pay before age 62 and 35 percent thereafter in recognition of the entitlement to social security based on military service, and providing benefits to certain beneficiaries under either the old social security offset system or the new two-tier system, whichever is higher.
 
 Subsec. (a)(3). Pub. L. 99–145, §711(b), repealed Pub. L. 98–525, §641(a), effective Sept. 1, 1985. See 1984 Amendment note below.
 
@@ -352,9 +358,13 @@ Subsec. (d). Pub. L. 95–397, §204(d), added subsec. (d).
 
 1976—Subsec. (b). Pub. L. 94–496 substituted “(a)(4)” for “(a)(3)”.
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–65 effective Oct. 1, 1999, see section 644 of Pub. L. 106–65, set out as a note under section 1401a of this title.
+
 #### Effective Date of 1989 Amendment
 
-Section 1407(b)(2) of Pub. L. 101–189 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply only with respect to the computation of an annuity for a person who becomes a former spouse under a divorce that becomes final after the date of the enactment of this Act \[Nov. 29, 1989\].”
+Section 1407(b)(2) of Pub. L. 101–189 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply only with respect to the computation of an annuity for a person who becomes aformer spouse under a divorce that becomes final after the date of the enactment of this Act \[Nov. 29, 1989\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -404,7 +414,7 @@ Recomputation.—The Secretary concerned shall recompute the annuity of any pers
 
 &emsp;“(2)
 
-Amount of recomputed annuities.—The amount of the annuity as so recomputed shall be theamount that would be in effect for that annuity on the effective date specified in subsection (d) if the annuity had originally been computed subject to the provisions of paragraph (3) of section 1451(c) of title 10, United States Code, as amended by subsection (a).
+Amount of recomputed annuities.—The amount of the annuity as so recomputed shall be the amount that would be in effect for that annuity on the effective date specified in subsection (d) if the annuity had originally been computed subject to the provisions of paragraph (3) of section 1451(c) of title 10, United States Code, as amended by subsection (a).
 
 “(c)
 

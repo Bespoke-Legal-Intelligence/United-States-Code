@@ -34,7 +34,7 @@ Section 101 of title I of Pub. L. 96–561 provided that: “This title \[enacti
 
 #### Research and Development Program To Improve Salmon Survival
 
-Pub. L. 104–303, title V, §511, Oct. 12, 1996, 110 Stat. 3761, provided that:
+Pub. L. 104–303, title V, §511, Oct. 12, 1996, 110 Stat. 3761, as amended by Pub. L. 106–53, title V, §582, Aug. 17, 1999, 113 Stat. 375, provided that:
 
 “(a)
 
@@ -42,7 +42,7 @@ Salmon Survival Activities.—
 
 &emsp;“(1)
 
-In general.—The Secretary shall accelerate ongoing research and development activities, and may carry out or participate in additional research and development activities, for the purpose of developing innovative methods and technologies for improving the survival of salmon, especially salmon in the Columbia River Basin.
+In general.—In conjunction with the Secretary of Commerce and the Secretary of the Interior, the Secretary shall accelerate ongoing research and development activities, and may carry out or participate in additional research and development activities, for the purpose of developing innovative methods and technologies for improving the survival of salmon, especially salmon in the Columbia/Snake River Basin.
 
 &emsp;“(2)
 
@@ -64,13 +64,13 @@ Accelerated activities.—Accelerated research and development activities referr
 
 Additional activities.—Additional research and development activities referred to in paragraph (1) may include research and development related to—
 
-&emsp;&emsp;“(A) marine mammal predation on salmon;
+&emsp;&emsp;“(A) studies of juvenile salmon survival in spawning and rearing areas;
 
-&emsp;&emsp;“(B) studies of juvenile salmon survival in spawning and rearing areas;
+&emsp;&emsp;“(B) estuary and near-ocean juvenile and adult salmon survival;
 
-&emsp;&emsp;“(C) estuary and near-ocean juvenile and adult salmon survival;
+&emsp;&emsp;“(C) impacts on salmon life cycles from sources other than water resources projects;
 
-&emsp;&emsp;“(D) impacts on salmon life cycles from sources other than water resources projects; and
+&emsp;&emsp;“(D) cryopreservation of fish gametes and formation of a germ plasma repository for threatened and endangered populations of native fish; and
 
 &emsp;&emsp;“(E) other innovative technologies and actions intended to improve fish survival, including the survival of resident fish.
 
@@ -80,7 +80,7 @@ Coordination.—The Secretary shall coordinate any activities carried out under 
 
 &emsp;“(5)
 
-Report.—Not later than 3 years after the date of the enactment of this Act \[Oct. 12, 1996\], the Secretary shall transmit to Congress a report on the research and development activities carried out under this subsection, including any recommendations of the Secretary concerning the research and development activities.
+Report.—Not later than 3 years after the date of enactment of the Water Resources Development Act of 1999 \[Aug. 17, 1999\], the Secretary shall submit to Congress a report on the research and development activities carried out under this subsection, including any recommendations of the Secretary concerning the research and development activities.
 
 &emsp;“(6)
 
@@ -92,13 +92,25 @@ Advanced Turbine Development.—
 
 &emsp;“(1)
 
-In general.—In conjunction with the Secretary of Energy, the Secretary shall accelerate efforts toward developing innovative, efficient, and environmentally safe hydropower turbines, including design of ‘fish-friendly’ turbines, for use on the Columbia River hydrosystem.
+In general.—In conjunction with the Secretary of Energy, the Secretary shall accelerate efforts toward developing and installing in Corps of Engineers-operated dams innovative, efficient, and environmentally safe hydropower turbines, including design of fish-friendly turbines, for use on the Columbia/Snake River hydrosystem.
 
 &emsp;“(2)
 
-Authorization of appropriations.—There is authorized to be appropriated $12,000,000 to carry out this subsection.
+Authorization of appropriations.—There is authorized to be appropriated $35,000,000 to carry out this subsection.
 
 “(c)
+
+Management of Predation on Columbia/Snake River System Native Fishes.—
+
+&emsp;“(1)
+
+Nesting avian predators.—In conjunction with the Secretary of Commerce and the Secretary of the Interior, and consistent with a management plan to be developed by the United States Fish and Wildlife Service, the Secretary shall carry out methods to reduce nesting populations of avian predators on dredge spoil islands in the Columbia River under the jurisdiction of the Secretary.
+
+&emsp;“(2)
+
+Authorization of appropriations.—There is authorized to be appropriated $1,000,000 to carry out research and development activities under this subsection.
+
+“(d)
 
 Implementation.—Nothing in this section affects the authority of the Secretary to implement the results of the research and development carried out under this section or any other law.”
 

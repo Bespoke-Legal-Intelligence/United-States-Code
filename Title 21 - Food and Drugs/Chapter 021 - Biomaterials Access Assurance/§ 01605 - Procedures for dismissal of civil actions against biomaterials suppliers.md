@@ -42,7 +42,7 @@ The following rules shall apply to any proceeding on a motion to dismiss filed b
 
 #### (A) Defendant
 
-&emsp;&emsp;A defendant may submit affidavits supporting the grounds for dismissal containedin its motion to dismiss under subsection (a) of this section. If the motion is made under subsection (a)(1) of this section, the defendant may submit an affidavit demonstrating that the defendant has not included the implant on a list, if any, filed with the Secretary pursuant to section 360(j) of this title.
+&emsp;&emsp;A defendant may submit affidavits supporting the grounds for dismissal contained in its motion to dismiss under subsection (a) of this section. If the motion is made under subsection (a)(1) of this section, the defendant may submit an affidavit demonstrating that the defendant has not included the implant on a list, if any, filed with the Secretary pursuant to section 360(j) of this title.
 
 #### (B) Claimant
 
@@ -78,7 +78,7 @@ The following rules shall apply to any proceeding on a motion to dismiss filed b
 
 #### (A) Basis for entry of judgment
 
-&emsp;&emsp;If a motion to dismiss of a biomaterials supplier is to be treated as a motion for summary judgment under subsection (c)(4) of this section or if a biomaterials supplier moves for summary judgment, the biomaterials supplier shall be entitled to entry of judgment without trial if the court finds there is no genuine issue of material fact for each applicable element set forth in paragraphs (1) and (2) of section 1604(d) of this title.
+&emsp;&emsp;If a motion to dismiss of a biomaterials supplier is to be treated as a motion for summary judgment under subsection (c)(4) of this section or if a biomaterials supplier moves for summary judgment, the biomaterials supplier shall be entitled to entry of judgment without trial if the court findsthere is no genuine issue of material fact for each applicable element set forth in paragraphs (1) and (2) of section 1604(d) of this title.
 
 #### (B) Issues of material fact
 

@@ -4,7 +4,7 @@
 
 (b) Chapter 13 of this title applies to a member of the Reserve under the same conditions and limitations as it applies to a member of the Regular Coast Guard.
 
-(c) A member of the Reserve who suffers sickness, disease, disability, or death is entitled tothe same benefits as prescribed by law for a member of the Naval Reserve who suffers sickness, disease, disability, or death under similar conditions.
+(c) A member of the Reserve who suffers sickness, disease, disability, or death is entitled to the same benefits as prescribed by law for a member of the Naval Reserve who suffers sickness, disease, disability, or death under similar conditions.
 
 (d) A member of the Reserve on active duty or when retired for disability is entitled to the benefits of section 253(a) of title 42. A member of the Reserve when on active duty (other than for training) or when retired for disability is entitled to the benefits of chapter 55 of title 10.
 

@@ -38,6 +38,8 @@ Historical and Revision Notes
 
 36:99.
 
+&nbsp;
+
 In this section, the text of 36:99 is omitted as executed and obsolete.
 
 In clause (1), the words “to carry out its purposes, not inconsistent with the laws of the United States or of any State” are omitted as unnecessary.
@@ -48,7 +50,7 @@ In clause (3), the words “adopt emblems and badges” are substituted for “t
 
 In clause (4), the word “activities” is substituted for “business” for consistency in the revised title.
 
-Clause (6) is substituted for “receive, hold, own, use, and dispose of such real estate and personal property as shall be necessary for its corporate purposes” for consistency in the revised title and to eliminate unnecessary words. The words “subject to section 22506(b) of this title” are added to alert the reader to the restriction in that section.
+Clause (6) is substituted for “receive, hold, own, use, and dispose of such real estate and personal property as shall be necessary for its corporate purposes” for consistency in the revised title and to eliminate unnecessary words. The words “subject to section 22506(b) ofthis title” are added to alert the reader to the restriction in that section.
 
 In clause (8), the words “in courts of law and equity” are omitted as unnecessary.
 

@@ -30,7 +30,7 @@ The program funded under this section may include—
 
 &emsp;&emsp;(A) the needs of such students; and
 
-&emsp;&emsp;(B) the provision of those support services to the families of such students that are needed to enable such students to benefit from the program.
+&emsp;&emsp;(B) the provision of those support services to the families of such students that areneeded to enable such students to benefit from the program.
 
 #### (c) Information provision
 

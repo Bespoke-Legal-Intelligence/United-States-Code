@@ -56,7 +56,7 @@ Section 31330(c) makes the president or chief executive officer of a corporation
 
 #### house floor statement
 
-Subsection (a) of this section adds criminal and civil penalties for a preferred mortgagor's failure to carry out certain requirements under chapter 313 of title 46 (as enacted by this Act).
+Subsection (a) of this section adds criminal and civil penalties for a preferred mortgagor's failure to carryout certain requirements under chapter 313 of title 46 (as enacted by this Act).
 
 #### Amendments
 

@@ -1,6 +1,6 @@
 ### §3287. Wartime suspension of limitations
 
-When the United States is at war the running of any statute of limitations applicable to anyoffense (1) involving fraud or attempted fraud against the United States or any agency thereof in any manner, whether by conspiracy or not, or (2) committed in connection with the acquisition, care, handling, custody, control or disposition of any real or personal property of the United States, or (3) committed in connection with the negotiation, procurement, award, performance, payment for, interim financing, cancelation, or other termination or settlement, of any contract, subcontract, or purchase order which is connected with or related to the prosecution of the war, or with any disposition of termination inventory by any war contractor or Government agency, shall be suspended until three years after the termination of hostilities as proclaimed by the President or by a concurrent resolution of Congress.
+When the United States is at war the running of any statute of limitations applicable to any offense (1) involving fraud or attempted fraud against the United States or any agency thereof in any manner, whether by conspiracy or not, or (2) committed in connection with the acquisition, care, handling, custody, control or disposition of any real or personal property of the United States, or (3) committed in connection with the negotiation, procurement, award, performance, payment for, interim financing, cancelation, or other termination or settlement, of any contract, subcontract, or purchase order which is connected with or related to the prosecution of the war, or with any disposition of termination inventory by any war contractor or Government agency, shall be suspended until three years after the termination of hostilities as proclaimed by the President or by a concurrent resolution of Congress.
 
 Definitions of terms in section 103 of title 41 shall apply to similar terms used in this section.
 
@@ -16,7 +16,7 @@ Phrase (2), reading “or committed in connection with the acquisition, care, ha
 
 The revised section extends its provisions to all offenses involving the disposition of any property, real or personal, of the United States. This extension is more apparent than real since phrase (2), added as the result of said Act, was merely a more specific statement of offenses embraced in phrase (1) of this section.
 
-The revised section is written in general terms as permanent legislation applicable whenever the United States is at war. (See, also, reviser's note under section 284 of this title.)
+The revised section is written in general terms as permanent legislation applicable whenever the UnitedStates is at war. (See, also, reviser's note under section 284 of this title.)
 
 The last paragraph was added to obviate any possibility of doubt as to meaning of terms defined in section 103 of title 41, U.S.C., 1940 ed., Public Contracts.
 

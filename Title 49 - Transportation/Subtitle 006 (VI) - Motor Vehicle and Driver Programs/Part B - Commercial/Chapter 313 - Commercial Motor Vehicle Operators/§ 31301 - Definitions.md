@@ -46,15 +46,25 @@ In this chapter—
 
 &emsp;&emsp;(B) reckless driving, as defined under State or local law;
 
-&emsp;&emsp;(C) a violation of a State or local law on motor vehicle traffic control (except a parking violation) and involving a fatality; and
+&emsp;&emsp;(C) a violation of a State or local law on motor vehicle traffic control (except a parking violation) and involving a fatality, other than a violation to which section 31310(b)(1)(E) or 31310(c)(1)(E) applies;
 
-&emsp;&emsp;(D) any other similar violation of a State or local law on motor vehicle traffic control (except a parking violation) that the Secretary designates by regulation as serious.
+&emsp;&emsp;(D) driving a commercial motor vehicle when the individual has not obtained a commercial driver's license;
+
+&emsp;&emsp;(E) driving a commercial motor vehicle when the individual does not have in his or her possession a commercial driver's license unless the individual provides, by the date that the individual must appear in court or pay any fine with respect to the citation, to the enforcement authority that issued the citation proof that the individual held a valid commercial driver's license on the date of the citation;
+
+&emsp;&emsp;(F) driving a commercial motor vehicle when the individual has not met the minimum testing standards—
+
+&emsp;&emsp;&emsp;(i) under section 31305(a)(3) for the specific class of vehicle the individual is operating; or
+
+&emsp;&emsp;&emsp;(ii) under section 31305(a)(5) for the type of cargo the vehicle is carrying; and
+
+&emsp;&emsp;(G) any other similar violation of a State or local law on motor vehicle traffic control (except a parking violation) that the Secretary designates by regulation as serious.
 
 &emsp;(13) “State” means a State of the United States and the District of Columbia.
 
 &emsp;(14) “United States” means the States of the United States and the District of Columbia.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1014; Pub. L. 105–178, title IV, §4011(a), June 9, 1998, 112 Stat. 407.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1014; Pub. L. 105–178, title IV, §4011(a), June 9, 1998, 112 Stat. 407; Pub. L. 106–159, title II, §201(a)(3), (c), Dec. 9, 1999, 113 Stat. 1759, 1760.)
 
 Historical and Revision Notes
 
@@ -139,6 +149,10 @@ In clause (11), the words “public streets, roads, or” are added for consiste
 In clause (12)(C), the words “involving a fatality” are substituted for “arising in connection with a fatal traffic accident” to eliminate unnecessary words.
 
 #### Amendments
+
+1999—Par. (12)(C). Pub. L. 106–159, §201(a)(3), inserted “, other than a violation to which section 31310(b)(1)(E) or 31310(c)(1)(E) applies” after “a fatality”.
+
+Par. (12)(D) to (G). Pub. L. 106–159, §201(c), added subpars. (D) to (F) and redesignated former subpar. (D) as (G).
 
 1998—Par. (4)(A). Pub. L. 105–178, §4011(a)(1), inserted “or gross vehicle weight” after “rating” first two places that term appears and “, whichever is greater,” after “26,001 pounds”.
 

@@ -36,7 +36,7 @@
 
 &emsp;(2) parcels not exceeding 70 pounds in weight and 100 inches in length and girth combined, which are mailed at any such Armed Forces post office; and
 
-&emsp;(3) parcels exceeding 15 pounds but not exceeding 70 pounds in weight and not exceeding100 inches in length and girth combined, including surface-type official mail, which are mailed at or addressed to any such Armed Forces post office where adequate surface transportation is not available.
+&emsp;(3) parcels exceeding 15 pounds but not exceeding 70 pounds in weight and not exceeding 100 inches in length and girth combined, including surface-type official mail, which are mailed at or addressed to any such Armed Forces post office where adequate surface transportation is not available.
 
 > Whenever adequate service by scheduled United States air carriers is not available to provide transportation of mail matter by air in accordance with this subsection, the transportation of such mail may be authorized by other than scheduled United States air carriers.
 

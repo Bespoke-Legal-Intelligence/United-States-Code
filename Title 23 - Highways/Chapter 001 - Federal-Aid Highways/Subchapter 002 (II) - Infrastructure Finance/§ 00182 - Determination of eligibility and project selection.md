@@ -62,7 +62,7 @@ In general.—The selection criteria shall include the following:
 
 &emsp;&emsp;&emsp;(iii) The extent to which assistance under this subchapter would foster innovative public-private partnerships and attract private debt or equity investment.
 
-&emsp;&emsp;&emsp;(iv) The likelihood that assistance under this subchapter would enable the projectto proceed at an earlier date than the project would otherwise be able to proceed.
+&emsp;&emsp;&emsp;(iv) The likelihood that assistance under this subchapter would enable the project to proceed at an earlier date than the project would otherwise be able to proceed.
 
 &emsp;&emsp;&emsp;(v) The extent to which the project uses new technologies, including intelligent transportation systems, that enhance the efficiency of the project.
 

@@ -34,6 +34,11 @@
 | (c) | Responsibility of government entities. |
 | (d) | Information available from Parent Locator Service. |
 | (e) | Recordkeeping. |
+| [11608a.](%C2%A7%2011608a%20-%20Office%20of%20Children%27s%20Issues.md) | Office of Children's Issues. |
+| (a) | Director requirements. |
+| (b) | Case officer staffing. |
+| (c) | Embassy contact. |
+| (d) | Reports to parents. |
 | [11609\.](%C2%A7%2011609%20-%20Interagency%20coordinating%20group.md) | Interagency coordinating group. |
 | [11610\.](%C2%A7%2011610%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
@@ -52,5 +57,6 @@
 - [&sect; 11606 - United States Central Authority](%C2%A7%2011606%20-%20United%20States%20Central%20Authority.md)
 - [&sect; 11607 - Costs and fees](%C2%A7%2011607%20-%20Costs%20and%20fees.md)
 - [&sect; 11608 - Collection, maintenance, and dissemination of information](%C2%A7%2011608%20-%20Collection%2C%20maintenance%2C%20and%20dissemination%20of%20information.md)
+- [&sect; 11608a - Office of Children's Issues](%C2%A7%2011608a%20-%20Office%20of%20Children%27s%20Issues.md)
 - [&sect; 11609 - Interagency coordinating group](%C2%A7%2011609%20-%20Interagency%20coordinating%20group.md)
 - [&sect; 11610 - Authorization of appropriations](%C2%A7%2011610%20-%20Authorization%20of%20appropriations.md)

@@ -22,7 +22,7 @@ Each appropriate Federal banking agency shall, for all insured depository instit
 
 #### (b) Asset quality, earnings, and stock valuation standards
 
-Each appropriate Federal banking agency shall prescribe standards, by regulation orguideline, for all insured depository institutions relating to asset quality, earnings, and stock valuation that the agency determines to be appropriate.
+Each appropriate Federal banking agency shall prescribe standards, by regulation or guideline, for all insured depository institutions relating to asset quality, earnings, and stock valuation that the agency determines to be appropriate.
 
 #### (c) Compensation standards
 
@@ -192,7 +192,7 @@ Section 318(d) of Pub. L. 103–325 provided that: “The amendments made by thi
 
 Section 132(c) of Pub. L. 102–242 provided that: “The amendment made by subsection (a) \[enacting this section\] shall become effective on the earlier of—
 
-&emsp;“(1) the date on which final regulations promulgated in accordance with subsection (b) \[set outbelow\] become effective \[Final rules were published July 10, 1995, 60 F.R. 35674, eff. Aug. 9, 1995.\]; or
+&emsp;“(1) the date on which final regulations promulgated in accordance with subsection (b) \[set out below\] become effective \[Final rules were published July 10, 1995, 60 F.R. 35674, eff. Aug. 9, 1995.\]; or
 
 &emsp;“(2) December 1, 1993.”
 
@@ -202,5 +202,5 @@ Section 132(b) of Pub. L. 102–242 provided that: “Each appropriate Federal b
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1464, 1818 of this title.
+This section is referred to in sections 1464, 1818 of this title; title 15 section 6805.
 

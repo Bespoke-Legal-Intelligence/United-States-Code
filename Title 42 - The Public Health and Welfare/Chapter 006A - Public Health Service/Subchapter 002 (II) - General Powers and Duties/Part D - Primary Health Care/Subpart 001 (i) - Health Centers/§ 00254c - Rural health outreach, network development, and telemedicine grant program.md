@@ -24,7 +24,7 @@ Under the program referred to in subsection (a) of this section, the Secretary, 
 
 &emsp;&emsp;&emsp;(iii) a description of the manner in which the activities funded under the grant will meet health care needs of underserved rural populations within the State; and
 
-&emsp;&emsp;&emsp;(iv) a description of how the local community or region to be served by the network or proposed network will be involved in the development and ongoing operations of the network.
+&emsp;&emsp;&emsp;(iv) a description of how the local community or region to be served by the network or proposed network will be involvedin the development and ongoing operations of the network.
 
 #### (2) For-profit entities
 
@@ -76,7 +76,7 @@ In awarding grants under this section, the Secretary shall give preference to ap
 
 &emsp;&emsp;An entity described in subsection (c)(3) of this section may not use in excess of—
 
-&emsp;&emsp;&emsp;(i) 40 percent of the amounts provided under a grant under this section to carryout activities under paragraph (3)(A)(iii); and
+&emsp;&emsp;&emsp;(i) 40 percent of the amounts provided under a grant under this section to carry out activities under paragraph (3)(A)(iii); and
 
 &emsp;&emsp;&emsp;(ii) 20 percent of the amounts provided under a grant under this section to pay for the indirect costs associated with carrying out the purposes of such grant.
 
@@ -116,11 +116,31 @@ For the purpose of carrying out this section there are authorized to be appropri
 
 #### Prior Provisions
 
-A prior section 254c, act July 1, 1944, ch. 373, title III, §330, as added July 29, 1975, Pub. L. 94–63, title V, §501(a), 89 Stat. 342; amended Apr. 22, 1976, Pub. L. 94–278, title VIII, §801(b), 90 Stat. 415; Aug. 1, 1977, Pub. L. 95–83, title III, §304, 91 Stat. 388; Nov. 10, 1978, Pub. L. 95–626, title I, §104(a)–(d)(3)(B), (4), (5), (e), (f), 92 Stat. 3556–3559; July 10, 1979, Pub. L. 96–32, §§6(b)–(d), 7(c), 93 Stat. 83, 84; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Oct. 19, 1980, Pub. L. 96–470, title I, §106(e), 94 Stat. 2238; Aug. 13, 1981, Pub. L. 97–35, title IX, §§903(a), 905, 906, 95 Stat. 561, 562; Jan. 4, 1983, Pub. L. 97–414, §8(e), 96 Stat. 2060; Apr. 24, 1986, Pub. L. 99–280, §§2–4, 100 Stat. 399, 400; Aug. 10, 1988, Pub. L. 100–386, §§3, 4, 102 Stat. 921, 923; Nov. 4, 1988, Pub. L. 100–607, title I, §163(3), 102 Stat. 3062; Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(e)(5), 103 Stat. 2207; Nov. 6, 1990, Pub. L. 101–527, §9(a), 104 Stat. 2332; Oct. 27, 1992, Pub. L. 102–531, title III, §309(b), 106 Stat. 3500, related to community health centers, prior to the general amendment of this subpart by Pub. L. 104–299, §2.
+A prior section 254c, act July 1, 1944, ch. 373, title III, §330, as added July 29, 1975, Pub. L. 94–63, title V, §501(a), 89 Stat. 342; amended Apr. 22, 1976, Pub. L. 94–278, title VIII, §801(b), 90 Stat. 415; Aug. 1, 1977, Pub. L. 95–83, title III, §304, 91 Stat. 388; Nov. 10, 1978, Pub. L. 95–626, title I, §104(a)–(d)(3)(B), (4), (5), (e), (f), 92 Stat. 3556–3559; July 10, 1979, Pub. L. 96–32, §§6(b)–(d), 7(c), 93 Stat. 83, 84; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Oct. 19, 1980, Pub. L. 96–470, title I, §106(e), 94 Stat. 2238; Aug. 13, 1981, Pub. L. 97–35, title IX, §§903(a), 905, 906, 95 Stat. 561, 562; Jan. 4, 1983, Pub. L. 97–414, §8(e), 96 Stat. 2060; Apr. 24, 1986, Pub. L. 99–280, §§2–4, 100 Stat. 399, 400; Aug. 10, 1988, Pub. L. 100–386, §§3, 4, 102 Stat. 921, 923; Nov. 4, 1988, Pub. L. 100–607, title I, §163(3), 102 Stat. 3062; Dec. 19, 1989, Pub.L. 101–239, title VI, §6103(e)(5), 103 Stat. 2207; Nov. 6, 1990, Pub. L. 101–527, §9(a), 104 Stat. 2332; Oct. 27, 1992, Pub. L. 102–531, title III, §309(b), 106 Stat. 3500, related to community health centers, prior to the general amendment of this subpart by Pub. L. 104–299, §2.
 
 #### Effective Date
 
 Section effective Oct. 1, 1996, see section 5 of Pub. L. 104–299, as amended, set out as an Effective Date of 1996 Amendment note under section 233 of this title.
+
+#### Report on Telemedicine
+
+Pub. L. 106–129, §6, Dec. 6, 1999, 113 Stat. 1675, provided that: “Not later than January 10, 2001, the Secretary of Health and Human Services shall submit to the Congress a report that—
+
+&emsp;“(1) identifies any factors that inhibit the expansion and accessibility of telemedicine services, including factors relating to telemedicine networks;
+
+&emsp;“(2) identifies any factors that, in addition to geographical isolation, should be used to determine which patients need or require access to telemedicine care;
+
+&emsp;“(3) determines the extent to which—
+
+&emsp;&emsp;“(A) patients receiving telemedicine service have benefited from the services, and are satisfied with the treatment received pursuant to the services; and
+
+&emsp;&emsp;“(B) the medical outcomes for such patients would have differed if telemedicine services had not been available to the patients;
+
+&emsp;“(4) determines the extent to which physicians involved with telemedicine services have been satisfied with the medical aspects of the services;
+
+&emsp;“(5) determines the extent to which primary care physicians are enhancing their medical knowledge and experience through the interaction with specialists provided by telemedicine consultations; and
+
+&emsp;“(6) identifies legal and medical issues relating to State licensing of health professionals that are presented by telemedicine services, and provides any recommendations of the Secretary for responding to such issues.”
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

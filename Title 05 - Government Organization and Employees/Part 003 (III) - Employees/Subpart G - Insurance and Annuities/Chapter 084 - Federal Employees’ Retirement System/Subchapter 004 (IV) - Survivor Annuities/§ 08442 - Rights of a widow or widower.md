@@ -76,7 +76,7 @@
 
 &emsp;(2) the surviving spouse of the individual had been previously married to such individual and subsequently divorced, and the aggregate time married is at least 9 months.
 
-(f)(1) Subject to paragraph (4), a survivor who is entitled to an annuity under subsection (a) shall also be entitled to a supplementary annuity under this subsection.
+(f)(1) Subject to paragraph (4), a survivor who is entitled to an annuity under subsection (a)shall also be entitled to a supplementary annuity under this subsection.
 
 (2) A supplementary annuity under this subsection shall be equal to the lesser of—
 
@@ -110,7 +110,7 @@
 
 (6) An amount payable under this subsection shall be adjusted under section 8462 and shall otherwise be treated under this chapter in the same way as an amount payable under subsection (a).
 
-(g)(1) If the widow or widower of an annuitant under section 8452 (hereinafter in this subsectionreferred to as a “disability annuitant”) is determined under subsection (a) to be entitled to an annuity based on the service of such disability annuitant, the annuity of the widow or widower shall be equal to 50 percent of the amount determined under paragraph (2) (or one-half thereof if designated for this purpose under section 8419 of this title), rather than of the amount referred to in subsection (a).
+(g)(1) If the widow or widower of an annuitant under section 8452 (hereinafter in this subsection referred to as a “disability annuitant”) is determined under subsection (a) to be entitled to an annuity based on the service of such disability annuitant, the annuity of the widow or widower shall be equal to 50 percent of the amount determined under paragraph (2) (or one-half thereof if designated for this purpose under section 8419 of this title), rather than of the amount referred to in subsection (a).
 
 (2)(A) Except as provided in subparagraph (B), the amount on which the annuity of the widow or widower of a disability annuitant is based shall be the amount of the annuity to which such disability annuitant was entitled, as computed under section 8452 (including appropriate reduction under subsection (a)(2) of such section and any adjustments under section 8462 allowed under section 8452), as of the day before the date of the disability annuitant's death.
 

@@ -12,7 +12,7 @@
 
 (c)(1) A vocational training program for a child under this section—
 
-&emsp;(A) shall consist of such vocationally oriented services and assistance, including such placement and post-placement services and personal and work adjustment training, as the Secretary determines are necessary to enable the child to prepare for and participate in vocational training or employment; and
+&emsp;(A) shall consist of such vocationally oriented services and assistance, including such placement and post-placement services and personal and work adjustment training, as the Secretary determines are necessary to enablethe child to prepare for and participate in vocational training or employment; and
 
 &emsp;(B) may include a program of education at an institution of higher learning if the Secretary determines that the program of education is predominantly vocational in content.
 

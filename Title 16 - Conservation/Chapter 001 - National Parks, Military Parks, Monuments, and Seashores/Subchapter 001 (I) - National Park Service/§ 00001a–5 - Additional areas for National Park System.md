@@ -74,7 +74,7 @@ At the beginning of each calendar year, along with the annual budget submission,
 
 #### (f) Authorization of appropriations
 
-For the purposes of carrying out the studies for potential new Park System units and for monitoring the welfare of those resources, there are authorized to be appropriated annually notto exceed $1,000,000. For the purposes of monitoring the welfare and integrity of the national landmarks, there are authorized to be appropriated annually not to exceed $1,500,000. For carrying out subsections (b) through (d) of this section there are authorized to be appropriated $2,000,000 for each fiscal year.
+For the purposes of carrying out the studies for potential new Park System units and for monitoring the welfare of those resources, there are authorized to be appropriated annually not to exceed $1,000,000. For the purposes of monitoring the welfare and integrity of the national landmarks, there are authorized to be appropriated annually not to exceed $1,500,000. For carrying out subsections (b) through (d) of this section there are authorized to be appropriated $2,000,000 for each fiscal year.
 
 (Pub. L. 91–383, §8, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1940; amended Pub. L. 95–625, title VI, §604(1), Nov. 10, 1978, 92 Stat. 3518; Pub. L. 96–199, title I, §104, Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–344, §8, Sept. 8, 1980, 94 Stat. 1135; Pub. L. 103–437, §6(b), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 104–333, div. I, title VIII, §814(d)(1)(I), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 105–391, title III, §303, Nov. 13, 1998, 112 Stat. 3501.)
 
@@ -112,6 +112,62 @@ Subsec. (b). Pub. L. 96–199, §104(b), added subsec. (b).
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
+#### National Park Service Studies
+
+Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §326\], Nov. 29, 1999, 113 Stat. 1535, 1501A–194, provided that:
+
+“(a)
+
+Short Title.—This section may be cited as the ‘National Park Service Studies Act of 1999’.
+
+“(b)
+
+Authorization of Studies.—
+
+&emsp;“(1)
+
+In general.—The Secretary of the Interior (‘the Secretary’) shall conduct studies of the geographical areas and historic and cultural themes described in subsection (b)(3) to determine the appropriateness of including such areas or themes in the National Park System.
+
+&emsp;“(2)
+
+Criteria.—In conducting the studies authorized by this Act, the Secretary shall use the criteria for the study of areas for potential inclusion in the National Park System in accordance with section 8 of Public Law 91–383 \[16 U.S.C. 1a–5\], as amended by section 303 of the National Parks Omnibus Management Act (Public Law 105–391; 112 Stat. 3501) \[16 U.S.C. 1a–5\].
+
+&emsp;“(3)
+
+Study areas.—The Secretary shall conduct studies of the following:
+
+&emsp;&emsp;“(A) Anderson Cottage, Washington, District of Columbia.
+
+&emsp;&emsp;“(B) Bioluminescent Bay, Puerto Rico.
+
+&emsp;&emsp;“(C) Civil Rights Sites, multi-State.
+
+&emsp;&emsp;“(D) Crossroads of the American Revolution, Central New Jersey.
+
+&emsp;&emsp;“(E) Fort Hunter Liggett, California.
+
+&emsp;&emsp;“(F) Fort King, Florida.
+
+&emsp;&emsp;“(G) Gaviota Coast Seashore, California.
+
+&emsp;&emsp;“(H) Kate Mullany House, New York.
+
+&emsp;&emsp;“(I) Loess Hills, Iowa.
+
+&emsp;&emsp;“(J) Low Country Gullah Culture, multi-State.
+
+&emsp;&emsp;“(K) Nan Madol, State of Ponape, Federated States of Micronesia (upon the request of the Government of the Federated States of Micronesia).
+
+&emsp;&emsp;“(L) Walden Pond and Woods, Massachusetts.
+
+&emsp;&emsp;“(M) World War II Sites, Commonwealth of the Northern Marianas.
+
+&emsp;&emsp;“(N) World War II Sites, Republic of Palau (upon the request of the Government of the Republic of Palau).
+
+“(c)
+
+Reports.—The Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives a report on the findings, conclusions, and recommendations of each study under subsection (b) within three fiscal years following the date on which funds are first made available for each study.”
+
 #### Purpose of 1998 Amendment
 
 Pub. L. 105–391, title III, §302, Nov. 13, 1998, 112 Stat. 3501, provided that: “It is the purpose of this title \[amending this section and enacting provisions set out as a note under section 1 of this title\] to reform the process by which areas are considered for addition to the National Park System.”
@@ -142,7 +198,7 @@ Pub. L. 102–50, §8, May 24, 1991, 105 Stat. 257, directed Secretary of the In
 
 #### Underground Railroad Study
 
-Pub. L. 101–628, title VI, Nov. 28, 1990, 104 Stat. 4495, directed Secretary of the Interior to conduct a study of alternatives for commemorating the Underground Railroad in order to preserve and protect this aspect of American history, directed preparation of an interpretive handbook on the Underground Railroad in larger context of American antebellum society, including history of slavery and abolitionism, and authorized establishment of Underground Railroad Advisory Committee to meet and consult with Secretary on matters relating to the study.
+Pub. L. 101–628, title VI, Nov. 28, 1990, 104 Stat. 4495, directed Secretary of the Interior to conduct a study of alternatives for commemorating the Underground Railroad in order to preserve and protect this aspect of American history, directed preparation of an interpretive handbook on the Underground Railroad in largercontext of American antebellum society, including history of slavery and abolitionism, and authorized establishment of Underground Railroad Advisory Committee to meet and consult with Secretary on matters relating to the study.
 
 #### Civil War and Other Studies
 
@@ -158,7 +214,7 @@ Pub. L. 95–629, title IV, §401, Nov. 10, 1978, 92 Stat. 3640, directed Secret
 
 #### Crow Creek Village Archeological Site, South Dakota; Feasibility/Suitability Study; Transmittal to Congressional Committees; Cost Estimates; Site Preservation
 
-Section 512 of Pub. L. 95–625 directed Secretary to prepare and transmit to Committee on Energy and Natural Resources of Senate and Committee on Interior and Insular Affairs of House of Representatives within two years from Nov. 10, 1978, a feasibility/suitability study of Crow Creek Village archeological site, Buffalo County, South Dakota, as a unit of National Park System, including cost estimates for any necessary acquisition, development, operation and maintenance, as well as any feasible alternatives for administration and protection of area, including, but not limited to, Federal financial and technical assistance to State of South Dakota, Buffalo County or other suitable entity, and directed Secretary of the Army to take such actions as may be necessary to preserve and protect suchsite from any adverse impact on site and to refrain from any activities which might cause such impact until two years from date of submission of study by Secretary.
+Section 512 of Pub. L. 95–625 directed Secretary to prepare and transmit to Committee on Energy and Natural Resources of Senate and Committee on Interior and Insular Affairs of House of Representatives within two years from Nov. 10, 1978, a feasibility/suitability study of Crow Creek Village archeological site, Buffalo County, South Dakota, as a unit of National Park System, including cost estimates for any necessary acquisition, development, operation and maintenance, as well as any feasible alternatives for administration and protection of area, including, but not limited to, Federal financial and technical assistance to State of South Dakota, Buffalo County or other suitable entity, and directed Secretary of the Army to take such actions as may be necessary to preserve and protect such site from any adverse impact on site and to refrain from any activities which might cause such impact until two years from date of submission of study by Secretary.
 
 #### Ridgelands Area Study; Consultation and Coordination; Report to President and Congress; Authorization of Appropriations
 

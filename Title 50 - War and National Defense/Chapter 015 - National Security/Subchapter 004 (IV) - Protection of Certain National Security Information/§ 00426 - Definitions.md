@@ -10,7 +10,7 @@ For the purposes of this subchapter:
 
 &emsp;(4) The term “covert agent” means—
 
-&emsp;&emsp;(A) an officer or employee of an intelligence agency or a member of the Armed Forces assigned to duty with an intelligence agency—
+&emsp;&emsp;(A) a present or retired officer or employee of an intelligence agency or a present or retired member of the Armed Forces assigned to duty with an intelligence agency—
 
 &emsp;&emsp;&emsp;(i) whose identity as such an officer, employee, or member is classified information, and
 
@@ -36,7 +36,11 @@ For the purposes of this subchapter:
 
 &emsp;(10) The term “pattern of activities” requires a series of acts with a common purpose or objective.
 
-(July 26, 1947, ch. 343, title VI, §606, as added Pub. L. 97–200, §2(a), June 23, 1982, 96 Stat. 123.)
+(July 26, 1947, ch. 343, title VI, §606, as added Pub. L. 97–200, §2(a), June 23, 1982, 96 Stat. 123; amended Pub. L. 106–120, title III, §304(a), Dec. 3, 1999, 113 Stat. 1611.)
+
+#### Amendments
+
+1999—Par. (4)(A). Pub. L. 106–120 substituted “a present or retired officer or employee” for “an officer or employee” and “a present or retired member” for “a member”.
 
 #### Termination of Trust Territory of the Pacific Islands
 

@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(B) a spurious designation that is identical with, or substantially indistinguishable from, a designation as to which the remedies of the Lanham Act are made available by reason of section 220706 of title 36;
 
-> &emsp;but such term does not include any mark or designation used in connection with goods or services of which the manufacturer or producer was, at the time of the manufacture orproduction in question authorized to use the mark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation;
+> &emsp;but such term does not include any mark or designation used in connection with goods or services of which the manufacturer or producer was, at the time of the manufacture or production in question authorized to use the mark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation;
 
 &emsp;(2) the term “traffic” means transport, transfer, or otherwise dispose of, to another, as consideration for anything of value, or make or obtain control of with intent so to transport, transfer, or dispose of; and
 

@@ -2,7 +2,7 @@
 
 #### (a) Structural and mechanical care
 
-Upon occupancy by the United States of the building and other improvements constructed under this chapter, the structural and mechanical care and maintenance of such building and improvements (including the care and maintenance of the grounds of such building) shall be the responsibility of the Architect, under the direction of the Commission, in the same manner and to the same extent as the structural and mechanical care and maintenance of the United States Supreme Court Building under section 13a of this title, and all other duties and work required for the operation and domestic care of such building and improvements shall be performed by the Architect, under the direction of the Commission.
+Upon occupancy by the United States of the building and other improvements constructed under this chapter, the structural and mechanical care and maintenance of such building and improvements (including the care and maintenance of the grounds of such building) shall be the responsibility of the Architect, under the direction of the Commission, in the same mannerand to the same extent as the structural and mechanical care and maintenance of the United States Supreme Court Building under section 13a of this title, and all other duties and work required for the operation and domestic care of such building and improvements shall be performed by the Architect, under the direction of the Commission.
 
 #### (b) Security
 
@@ -16,7 +16,7 @@ Upon occupancy by the United States of the building and other improvements const
 
 #### (3) Reimbursement
 
-&emsp;The Architect shall transfer from the account established by section 1207 of this title such amounts as may be necessary to reimburse the United States Capitol Police for expenses incurred in providing exterior security under this subsection. The United States Capitol Police may accept amounts transferred by the Architect under this paragraph, and suchamounts shall be credited to the appropriation account charged by the United States Capitol Police in executing the performance of security duties.
+&emsp;The Architect shall transfer from the account established by section 1207 of this title such amounts as may be necessary to reimburse the United States Capitol Police for expenses incurred in providing exterior security under this subsection. The United States Capitol Police may accept amounts transferred by the Architect under this paragraph, and such amounts shall be credited to the appropriation account charged by the United States Capitol Police in executing the performance of security duties.
 
 #### (c) Authority of Capitol Police
 

@@ -2,7 +2,7 @@
 
 #### (a) Permanent or temporary promotions; examination
 
-Promotions of officers of the Regular Corps to any grade up to and including the director grade shall be either permanent promotions based on length of service, other permanent promotions to fill vacancies, or temporary promotions. Permanent promotions shall be made by the President, by and with the advice and consent of the Senate, and temporary promotions shall be made by the President. Each permanent promotion shall be to the next higher grade, and shall be made only after examination given in accordance with regulations of the President.
+Promotions of officers of the Regular Corps to any grade up to and including the director gradeshall be either permanent promotions based on length of service, other permanent promotions to fill vacancies, or temporary promotions. Permanent promotions shall be made by the President, by and with the advice and consent of the Senate, and temporary promotions shall be made by the President. Each permanent promotion shall be to the next higher grade, and shall be made only after examination given in accordance with regulations of the President.
 
 #### (b) Promotion to certain grades only to fill vacancies; regulations; “restricted grade” defined
 
@@ -18,7 +18,7 @@ Officers of the Regular Corps, found pursuant to subsection (c) of this section 
 
 &emsp;(1) Officers in the warrant officer (W–1) grade, chief warrant officer (W–2) grade, chief warrant officer (W–3) grade, chief warrant officer (W–4) grade, and junior assistant grade shall be promoted at such times as may be prescribed in regulations of the President.
 
-&emsp;(2) Officers with permanent rank in the assistant grade, the senior assistant grade, and the full grade shall (except as provided in regulations under subsection (b) of this section) be promoted after completion of three, ten, and seventeen years, respectively, of service in grades above the junior assistant grade; and such promotions, when made, shall be effective, for purposes of pay and seniority in grade, as of the day following the completion of such years of service. An officer with permanent rank in the assistant, senior assistant, or full grade who has not completed such yearsof service shall be promoted at the same time, and his promotion shall be effective as of the same day, as any officer junior to him in the same grade in the same professional category who is promoted under this paragraph.
+&emsp;(2) Officers with permanent rank in the assistant grade, the senior assistant grade, and the full grade shall (except as provided in regulations under subsection (b) of this section) be promoted after completion of three, ten, and seventeen years, respectively, of service in grades above the junior assistant grade; and such promotions, when made, shall be effective, for purposes of pay and seniority in grade, as of the day following the completion of such years of service. An officer with permanent rank in the assistant, senior assistant, or full grade who has not completed such years of service shall be promoted at the same time, and his promotion shall be effective as of the same day, as any officer junior to him in the same grade in the same professional category who is promoted under this paragraph.
 
 #### (e) Promotion of professional category officers to fill certain vacancies
 
@@ -38,7 +38,7 @@ If, for reasons other than physical disability, an officer of the Regular Corps 
 
 &emsp;(3) if in the full grade he shall be considered as not in line for promotion and shall, at such time thereafter as the Surgeon General may determine, be retired from the Service with retired pay (unless he is entitled to a greater amount by reason of another provision of law)—
 
-&emsp;&emsp;(A) in the case of an officer who first became a member of a uniformed service before September 8, 1980, at the rate of 21/2 percent of the retired pay base determined under section 1406(h) of title 10 for each year, not in excess of 30, of his active commissioned service in the Service; or
+&emsp;&emsp;(A) in the case of an officer who first became a member of a uniformed service before September 8, 1980, at the rate of 21/2 percent of the retired pay base determined under section 1406(h) of title 10 for each year,not in excess of 30, of his active commissioned service in the Service; or
 
 &emsp;&emsp;(B) in the case of an officer who first became a member of a uniformed service on or after September 8, 1980, at the rate determined by multiplying—
 
@@ -62,7 +62,7 @@ At the end of his first three years of service, the record of each officer of th
 
 #### (k) Temporary promotions; fill vacancy in higher grade; war or national emergency; selection of officers; termination of appointment
 
-Any commissioned officer of the Regular Corps in any grade in any professional categorymay be recommended to the President for temporary promotion to fill a vacancy in any higher grade in such category, up to and including the director grade. In time of war, or of national emergency proclaimed by the President, any commissioned officer of the Regular Corps in any grade in any professional category may be recommended to the President for promotion to any higher grade in such category, up to and including the director grade, whether or not a vacancy exists in such grade. The selection of officers to be recommended for temporary promotions shall be made in accordance with regulations of the President. Promotion of an officer recommended pursuant to this subsection may be made without regard to length of service, without examination, and without vacating his permanent appointment, and shall carry with it the pay and allowances of the grade to which promoted. Such promotions may be terminated at any time, as may be directed by the President.
+Any commissioned officer of the Regular Corps in any grade in any professional category may be recommended to the President for temporary promotion to fill a vacancy in any higher grade in such category, up to and including the director grade. In time of war, or of national emergency proclaimed by the President, any commissioned officer of the Regular Corps in any grade in any professional category may be recommended to the President for promotion to any higher grade in such category, up to and including the director grade, whether or not a vacancy exists in such grade. The selection of officers to be recommended for temporary promotions shall be made in accordance with regulations of the President. Promotion of an officer recommended pursuant to this subsection may be made without regard to length of service, without examination, and without vacating his permanent appointment, and shall carry with it the pay and allowances of the grade to which promoted. Such promotions may be terminated at any time, as may be directed by the President.
 
 #### (<i>l</i>) Determination of requirements of Service by Secretary; assignment of Reserve Officers to professional categories; temporary promotions; termination of temporary promotions
 
@@ -72,7 +72,7 @@ Whenever the number of officers of the Regular Corps on active duty, plus the nu
 
 Any officer of the Regular Corps, or any officer of the Reserve Corps on active duty, who is promoted to a higher grade shall, unless he expressly declines such promotion, be deemed for all purposes to have accepted such promotion; and shall not be required to renew his oath of office, or to execute a new affidavit as required by section 3332 of title 5.
 
-(July 1, 1944, ch. 373, title II, §210, 58 Stat. 687; Feb. 28, 1948, ch. 83, §6(a), 62 Stat. 42; Oct. 12, 1949, ch. 681, title V, §521(c), 63 Stat. 835; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Apr. 27, 1956, ch. 211, §4(a), 70 Stat. 117; Pub. L. 86–415, §5(c), Apr. 8, 1960, 74 Stat. 34; Pub. L. 87–649, §11(2), Sept. 7, 1962, 76 Stat. 497; Pub. L. 96–76, title III, §307, Sept. 29, 1979, 93 Stat. 585; Pub. L. 96–342, title VIII, §813(h)(1), Sept. 8, 1980, 94 Stat. 1110; Pub. L. 99–348, title II, §207(a), July 1, 1986, 100 Stat. 701.)
+(July 1, 1944, ch. 373, title II, §210, 58 Stat. 687; Feb. 28, 1948, ch. 83, §6(a), 62 Stat. 42; Oct. 12, 1949, ch. 681, title V, §521(c), 63 Stat. 835; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Apr. 27, 1956, ch. 211, §4(a), 70 Stat. 117; Pub. L. 86–415, §5(c), Apr. 8, 1960, 74 Stat. 34; Pub. L. 87–649, §11(2), Sept. 7, 1962, 76 Stat. 497; Pub. L. 96–76, title III, §307, Sept. 29,1979, 93 Stat. 585; Pub. L. 96–342, title VIII, §813(h)(1), Sept. 8, 1980, 94 Stat. 1110; Pub. L. 99–348, title II, §207(a), July 1, 1986, 100 Stat. 701.)
 
 #### Codification
 
@@ -116,7 +116,7 @@ Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of ac
 
 #### Transfer of Functions
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred toSecretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
 

@@ -16,7 +16,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) the Secretary determines, in consultation with the Administrator of the Environmental Protection Agency and the Commissioner of Customs, that taxable chemicals constitute more than 50 percent of the weight (or more than 50 percent of the value) of the materials used to produce such substance (determined on the basis of the predominant method of production).
 
-> &emsp;If an importer or exporter of any substance requests that the Secretary determine whether such substance be listed as a taxable substance under paragraph (1) or be removed from such listing, the Secretary shall make such determination within 180 days after the date the request was filed.
+> &emsp;If an importer or exporter of any substance requests that the Secretary determine whether such substance be listed as a taxable substance under paragraph (1) or be removed fromsuch listing, the Secretary shall make such determination within 180 days after the date the request was filed.
 
 #### (3) Initial list of taxable substances
 

@@ -50,7 +50,7 @@ Subsec. (e)(2). Pub. L. 99–576, §701(70)(D), substituted “the” for “his
 
 1982—Subsec. (e)(2)(B). Pub. L. 97–295 substituted “before October 9, 1978,” for “within one year after the date of enactment of this paragraph”, “before October 9, 1977,” for “on or prior to the date of enactment of this paragraph”, and “October 8, 1977” for “such enactment date”.
 
-1977—Subsec. (a). Pub. L. 95–126, §1(a)(1), inserted provisions barring a person in the Armed Forces from being a recipient of benefits when discharged on the basis of an absence without authority from active duty for a continuous period of at least one hundred and eighty days if such person was discharged under conditions other than honorable unless such person demonstrates to the satisfaction of the Administrator that there are compelling circumstances to warrant such prolonged unauthorized absence and barred benefits notwithstanding any action subsequent to the date of such discharge by a board established pursuant to section 1553 of Title 10.
+1977—Subsec. (a). Pub. L. 95–126, §1(a)(1), inserted provisions barring a person in the Armed Forces frombeing a recipient of benefits when discharged on the basis of an absence without authority from active duty for a continuous period of at least one hundred and eighty days if such person was discharged under conditions other than honorable unless such person demonstrates to the satisfaction of the Administrator that there are compelling circumstances to warrant such prolonged unauthorized absence and barred benefits notwithstanding any action subsequent to the date of such discharge by a board established pursuant to section 1553 of Title 10.
 
 Subsec. (e). Pub. L. 95–126, §1(a)(2), added subsec. (e).
 

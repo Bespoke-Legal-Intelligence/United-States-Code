@@ -180,7 +180,7 @@ Capitalization grant.—For the purposes of this section, Federal funds contribu
 
 &emsp;“(3)
 
-Special rule for urbanized areas of over 200,000.—Funds that are apportioned or allocated to a State under section 104(b)(3) of title 23, United StatesCode, and attributed to urbanized areas of a State with a population of over 200,000 individuals under section 133(d)(2) of such title may be used to provide assistance from an infrastructure bank under this section with respect to a project only if the metropolitan planning organization designated for the area concurs, in writing, with the provision of the assistance.
+Special rule for urbanized areas of over 200,000.—Funds that are apportioned or allocated to a State under section 104(b)(3) of title 23, United States Code, and attributed to urbanized areas of a State with a population of over 200,000 individuals under section 133(d)(2) of such title may be used to provide assistance from an infrastructure bank under this section with respect to a project only if the metropolitan planning organization designated for the area concurs, in writing, with the provision of the assistance.
 
 “(d)
 
@@ -204,7 +204,7 @@ Qualifying Projects.—
 
 &emsp;“(1)
 
-In general.—Subject to paragraph (2), funds in an infrastructure bank established under this section may be used only to provide assistance with respect to projects eligible for assistance under title 23, United States Code, for capital projects (as defined in section 5302 of title 49, United States Code), or for any other project related to surface transportation that the Secretary determines to be appropriate.
+In general.—Subject to paragraph (2), funds in an infrastructure bank established under this section may be used only to provide assistance with respect to projects eligible for assistance under title 23, United States Code, for capital projects (as defined insection 5302 of title 49, United States Code), or for any other project related to surface transportation that the Secretary determines to be appropriate.
 
 &emsp;“(2)
 
@@ -394,7 +394,7 @@ Secretarial Requirements.—In administering this section, the Secretary shall�
 
 &emsp;“(1) ensure that Federal disbursements shall be at a rate consistent with historic rates for the Federal-aid highway program and the Federal transit program, respectively;
 
-&emsp;“(2) issue guidelines to ensure that all requirements of title 23, United States Code, or title 49, UnitedStates Code, that would otherwise apply to funds made available under such title and projects assisted with such funds apply to—
+&emsp;“(2) issue guidelines to ensure that all requirements of title 23, United States Code, or title 49, United States Code, that would otherwise apply to funds made available under such title and projects assisted with such funds apply to—
 
 &emsp;&emsp;“(A) funds made available under such title and contributed to an infrastructure bank established under this section; and
 

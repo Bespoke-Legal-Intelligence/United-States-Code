@@ -12,7 +12,7 @@ The location, replacement, or expansion of chanceries in the District of Columbi
 
 &emsp;(A) in any area which is zoned medium-high or high density residential, and
 
-&emsp;(B) in any other area, determined on the basis of existing uses, which includes office or institutional uses, including but not limitedto any area zoned mixed-use diplomatic or special purpose,
+&emsp;(B) in any other area, determined on the basis of existing uses, which includes office or institutional uses, including but not limited to any area zoned mixed-use diplomatic or special purpose,
 
 > subject to disapproval by the District of Columbia Board of Zoning Adjustment in accordance with this section.
 

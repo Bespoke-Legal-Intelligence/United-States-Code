@@ -16,7 +16,7 @@ Subsection (a) of this section shall not apply with respect to the following Sta
 
 &emsp;(2) Short-term, non-cash, in-kind emergency disaster relief.
 
-&emsp;(3) Programs comparable to assistance or benefits under the National School Lunch Act \[42 U.S.C. 1751 et seq.\].
+&emsp;(3) Programs comparable to assistance or benefits under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\].
 
 &emsp;(4) Programs comparable to assistance or benefits under the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\].
 
@@ -26,17 +26,19 @@ Subsection (a) of this section shall not apply with respect to the following Sta
 
 &emsp;(7) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General of a State, after consultation with appropriate agencies and departments, which (A) deliver in-kind services at the community level, including through public or private nonprofit agencies; (B) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient's income or resources; and (C) are necessary for the protection of life or safety.
 
-(Pub. L. 104–193, title IV, §422, Aug. 22, 1996, 110 Stat. 2271; Pub. L. 104–208, div. C, title V, §551(b)(1), Sept. 30, 1996, 110 Stat. 3009–679; Pub. L. 105–33, title V, §5581(b)(2), Aug. 5, 1997, 111 Stat. 643.)
+(Pub. L. 104–193, title IV, §422, Aug. 22, 1996, 110 Stat. 2271; Pub. L. 104–208, div. C, title V, §551(b)(1), Sept. 30, 1996, 110 Stat. 3009–679; Pub. L. 105–33, title V, §5581(b)(2), Aug. 5, 1997, 111 Stat. 643; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169.)
 
 #### References in Text
 
 Section 1183a of this title (as added by section 423 and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), referred to in subsec. (a)(1), is section 1183a of this title as added by section 423 of Pub. L. 104–193 and amended by section 551(a) of div. C of Pub. L. 104–208.
 
-The National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 The Child Nutrition Act of 1966, referred to in subsec. (b)(4), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
 #### Amendments
+
+1999—Subsec. (b)(3). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
 1997—Subsec. (a). Pub. L. 105–33 struck out “(as defined in section 1622(c) of this title)” after “public benefits” in introductory provisions.
 

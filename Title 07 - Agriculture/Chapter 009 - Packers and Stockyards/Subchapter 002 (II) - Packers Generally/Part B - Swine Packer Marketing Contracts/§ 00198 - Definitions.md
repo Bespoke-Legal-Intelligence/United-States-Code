@@ -1,0 +1,50 @@
+### §198. Definitions
+
+Except as provided in section 198b(a) of this title, in this part:
+
+#### (1) Market
+
+&emsp;The term “market” means the sale or disposition of swine, pork, or pork products in commerce.
+
+#### (2) Packer
+
+&emsp;The term “packer” has the meaning given the term in section 1635i of this title.
+
+#### (3) Pork
+
+&emsp;The term “pork” means the meat of a porcine animal.
+
+#### (4) Pork product
+
+&emsp;The term “pork product” means a product or byproduct produced or processed in whole or in part from pork.
+
+#### (5) State
+
+&emsp;The term “State” means each of the 50 States.
+
+#### (6) Swine
+
+&emsp;The term “swine” means a porcine animal raised to be a feeder pig, raised for seedstock, or raised for slaughter.
+
+#### (7) Type of contract
+
+&emsp;The term “type of contract” means the classification of contracts or risk management agreements for the purchase of swine by—
+
+&emsp;&emsp;(A) the mechanism used to determine the base price for swine committed to a packer, grouped into practicable classifications by the Secretary (including swine or pork market formula purchases, other market formula purchases, and other purchase arrangements); and
+
+&emsp;&emsp;(B) the presence or absence of an accrual account or ledger that must be repaid by the producer or packer that receives the benefit of the contract pricing mechanism in relation to negotiated prices.
+
+#### (8) Other terms
+
+&emsp;Except as provided in this part, a term has the meaning given the term in section 1635a or 1635i of this title.
+
+(Aug. 15, 1921, ch. 64, title II, §221, as added Pub. L. 106–78, title IX, §934(2), Oct. 22, 1999, 113 Stat. 1208.)
+
+#### Termination of Section
+
+<i>For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under section 1635 of this title.</i>
+
+#### Termination Date
+
+Part to terminate 5 years after Oct. 22, 1999, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
+

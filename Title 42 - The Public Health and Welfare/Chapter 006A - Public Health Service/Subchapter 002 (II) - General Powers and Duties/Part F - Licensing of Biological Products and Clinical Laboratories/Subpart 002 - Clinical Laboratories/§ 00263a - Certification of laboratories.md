@@ -178,7 +178,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish standards for the proficiency testing programs for laboratories issued a certificate under this section which are conducted by the Secretary, conducted by an organization approved under subparagraph (C), or conducted by an approved accrediting body. The standards shall require that a laboratory issued a certificate under this section be tested for each examination and procedure conducted within a category of examinations or procedures for which it has received a certificate, except for examinations and procedures for which the Secretary has determined that a proficiency test cannot reasonably be developed. The testing shall be conducted on a quarterly basis, except where the Secretary determines for technical and scientific reasons that a particular examination or procedure may be tested less frequently (but not less often than twice per year).
+&emsp;&emsp;The Secretary shall establish standards for the proficiency testing programs for laboratories issued a certificate under this section which are conducted by the Secretary, conducted by an organization approved under subparagraph (C), or conducted by an approved accrediting body. The standards shall require that a laboratory issued a certificateunder this section be tested for each examination and procedure conducted within a category of examinations or procedures for which it has received a certificate, except for examinations and procedures for which the Secretary has determined that a proficiency test cannot reasonably be developed. The testing shall be conducted on a quarterly basis, except where the Secretary determines for technical and scientific reasons that a particular examination or procedure may be tested less frequently (but not less often than twice per year).
 
 #### (B) Criteria
 
@@ -220,7 +220,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 &emsp;&emsp;&emsp;(ii) requirements that a clinical laboratory maintain a record of (I) the number of cytology slides screened during each 24-hour period by each individual who examines cytology slides for the laboratory, and (II) the number of hours devoted during each 24-hour period to screening cytology slides by such individual,
 
-&emsp;&emsp;&emsp;(iii) criteria for requiring rescreening of cytological preparations, such as (I) random rescreening of cytology specimens determined to be in the benign category, (II) focused rescreening of such preparations in high risk groups, and (III) for each abnormal cytological result, rescreening of allprior cytological specimens for the patient, if available,
+&emsp;&emsp;&emsp;(iii) criteria for requiring rescreening of cytological preparations, such as (I) random rescreening of cytology specimens determined to be in the benign category, (II) focused rescreening of such preparations in high risk groups, and (III) for each abnormal cytological result, rescreening of all prior cytological specimens for the patient, if available,
 
 &emsp;&emsp;&emsp;(iv) periodic confirmation and evaluation of the proficiency of individuals involved in screening or interpreting cytological preparations, including announced and unannounced on-site proficiency testing of such individuals, with such testing to take place, to the extent practicable, under normal working conditions,
 
@@ -342,7 +342,7 @@ Any person who intentionally violates any requirement of this section or any reg
 
 #### (2) Additional fees
 
-&emsp;The Secretary shall require the payment of fees for inspections of laboratories which arenot accredited and for the cost of performing proficiency testing on laboratories which do not participate in proficiency testing programs approved under subsection (f)(3)(C) of this section.
+&emsp;The Secretary shall require the payment of fees for inspections of laboratories which are not accredited and for the cost of performing proficiency testing on laboratories which do not participate in proficiency testing programs approved under subsection (f)(3)(C) of this section.
 
 #### (3) Criteria
 
@@ -416,7 +416,7 @@ The Social Security Act, referred to in subsecs. (i)(3) and (n)(6), is act Aug. 
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1997 Amendment
 

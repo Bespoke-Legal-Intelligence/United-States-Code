@@ -14,6 +14,10 @@
 
 Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under section 2151–1 of this title.
 
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
 #### Authority for Exchange Training Through Specified Professional Military Education Institution Outside United States
 
 Pub. L. 101–189, div. A, title IX, §935, Nov. 29, 1989, 103 Stat. 1538, provided that:

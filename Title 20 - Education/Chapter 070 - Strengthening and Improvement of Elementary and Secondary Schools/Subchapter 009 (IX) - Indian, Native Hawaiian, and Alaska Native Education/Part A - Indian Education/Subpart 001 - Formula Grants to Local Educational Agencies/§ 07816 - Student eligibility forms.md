@@ -30,7 +30,7 @@ The Secretary shall require that, as part of an application for a grant under th
 
 #### (2) Minimum information
 
-&emsp;In order for a child to be eligible to be counted for the purpose of computing the amount of a grant award made under section 7813 of this title, an eligibility form prepared pursuant to this section for a child shall include—
+&emsp;In order for a child to be eligible to be counted for the purpose of computing theamount of a grant award made under section 7813 of this title, an eligibility form prepared pursuant to this section for a child shall include—
 
 &emsp;&emsp;(A) the name of the child;
 

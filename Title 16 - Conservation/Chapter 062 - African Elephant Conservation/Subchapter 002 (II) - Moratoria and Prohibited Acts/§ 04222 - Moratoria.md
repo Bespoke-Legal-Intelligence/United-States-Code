@@ -8,7 +8,7 @@
 
 #### (2) Later establishment
 
-&emsp;With regard to any ivory producing country for which the Secretary has insufficient information to make a determination pursuant to section 4221(b) of this title, the Secretary shall establish a moratorium on the importation ofraw and worked ivory from such country not later than January 1, 1990, unless, based on new information, the Secretary concludes before that date that the country meets all of the criteria set forth in section 4221(b)(1) of this title.
+&emsp;With regard to any ivory producing country for which the Secretary has insufficient information to make a determination pursuant to section 4221(b) of this title, the Secretary shall establish a moratorium on the importation of raw and worked ivory from such country not later than January 1, 1990, unless, based on new information, the Secretary concludes before that date that the country meets all of the criteria set forth in section 4221(b)(1) of this title.
 
 #### (b) Intermediary countries
 
@@ -44,7 +44,7 @@ The Secretary shall suspend a moratorium established under this section if, afte
 
 #### (e) Sport-hunted trophies
 
-Individuals may import sport-hunted elephant trophies that they have legally taken in an ivory producing country that has submitted an ivory quota. The Secretary shall not establish any moratorium under this section, pursuant to a petition or otherwise, which prohibits the importation into the United States of sport-hunted trophies from elephants that are legally taken by the importer or the importer's principal in an ivory producing country that has submitted an ivory quota.
+Individuals may import sport-hunted elephant trophies that they have legally taken in an ivory producing country that has submitted an ivory quota. The Secretary shall not establish any moratorium under this section, pursuant to a petition or otherwise, which prohibits the importation into the United States of sport-hunted trophies from elephants that are legally taken by the importer or the importer's principal in anivory producing country that has submitted an ivory quota.
 
 #### (f) Confiscated ivory
 

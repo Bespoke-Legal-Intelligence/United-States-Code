@@ -12,7 +12,7 @@ Not later than 90 days after October 1, 1988, the Administrator of the Office of
 
 The regulations required by subsection (a) of this section shall apply to the following types of consulting services:
 
-&emsp;(1) advisory and assistance services provided to the Government to the extent necessary toidentify and evaluate the potential for conflicts of interest that could be prejudicial to the interests of the United States;
+&emsp;(1) advisory and assistance services provided to the Government to the extent necessary to identify and evaluate the potential for conflicts of interest that could be prejudicial to the interests of the United States;
 
 &emsp;(2) services related to support of the preparation or submission of bids and proposals for Federal contracts to the extent that inclusion of such services in such regulations is necessary to identify and evaluate the potential for conflicts of interest that could be prejudicial to the interests of the United States; and
 

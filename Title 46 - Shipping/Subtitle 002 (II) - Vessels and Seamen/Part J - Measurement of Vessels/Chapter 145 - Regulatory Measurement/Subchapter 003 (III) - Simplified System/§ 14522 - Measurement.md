@@ -8,7 +8,7 @@
 
 (c) The resulting gross tonnages, taken as a group, reasonably shall reflect the relative internal volumes of the vessels measured under this subchapter. The resulting net tonnages shall be in approximately the same ratios to corresponding gross tonnages as are the net and gross tonnages of comparable vessels measured under subchapter II of this chapter.
 
-(d) Under regulations prescribed by the Secretary, the Secretary may determine the grossand net tonnages of a vessel representative of a designated class, model, or type, and then assign those gross and net tonnages to other vessels of the same class, model, or type.
+(d) Under regulations prescribed by the Secretary, the Secretary may determine the gross and net tonnages of a vessel representative of a designated class, model, or type, and then assign those gross and net tonnages to other vessels of the same class, model, or type.
 
 (Added Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1925.)
 

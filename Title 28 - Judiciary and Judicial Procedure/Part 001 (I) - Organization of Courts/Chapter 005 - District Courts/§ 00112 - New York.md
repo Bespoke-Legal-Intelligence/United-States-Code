@@ -18,7 +18,7 @@ New York is divided into four judicial districts to be known as the Northern, So
 
 (c) The Eastern District comprises the counties of Kings, Nassau, Queens, Richmond, and Suffolk and concurrently with the Southern District, the waters within the counties of Bronx and New York.
 
-&emsp;&emsp;Court for the Eastern District shall be held at Brooklyn, Hauppauge, and Hempstead (including the village of Uniondale).
+&emsp;&emsp;Court for the Eastern District shall be held at Brooklyn, Hauppauge, Hempstead (including the village of Uniondale), and Central Islip.
 
 ### Western District
 
@@ -26,7 +26,7 @@ New York is divided into four judicial districts to be known as the Northern, So
 
 &emsp;&emsp;Court for the Western District shall be held at Buffalo, Canandaigua, Elmira, Jamestown, and Rochester.
 
-(June 25, 1948, ch. 646, 62 Stat. 885; Pub. L. 90–217, Dec. 18, 1967, 81 Stat. 662; Pub. L. 91–546, §1, Dec. 14, 1970, 84 Stat. 1412; Pub. L. 95–271, §1, Apr. 28, 1978, 92 Stat. 221; Pub. L. 95–408, §4(c), Oct. 2, 1978, 92 Stat. 885; Pub. L. 95–573, §3, Nov. 2, 1978, 92 Stat. 2458; Pub. L. 98–620, title IV, §405, Nov. 8, 1984, 98 Stat. 3361; Pub. L. 101–650, title III, §324(a)(2), Dec. 1, 1990, 104 Stat. 5120; Pub. L. 104–317, title VI, §609, Oct. 19, 1996, 110 Stat. 3860.)
+(June 25, 1948, ch. 646, 62 Stat. 885; Pub. L. 90–217, Dec. 18, 1967, 81 Stat. 662; Pub. L. 91–546, §1, Dec. 14, 1970, 84 Stat. 1412; Pub. L. 95–271, §1, Apr. 28, 1978, 92 Stat. 221; Pub. L. 95–408, §4(c), Oct. 2, 1978, 92 Stat. 885; Pub. L. 95–573, §3, Nov. 2, 1978, 92 Stat. 2458; Pub. L. 98–620, title IV, §405, Nov. 8, 1984, 98 Stat. 3361; Pub. L. 101–650, title III, §324(a)(2), Dec. 1, 1990, 104 Stat. 5120; Pub. L. 104–317, title VI, §609, Oct. 19, 1996, 110 Stat. 3860; Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §306\], Nov. 29, 1999, 113 Stat. 1535, 1501A–37.)
 
 #### Historical and Revision Notes
 
@@ -53,6 +53,8 @@ Lockport was omitted as a place of holding court in the Western District. Court 
 Changes were made in arrangement and phraseology.
 
 #### Amendments
+
+1999—Subsec. (c). Pub. L. 106–113 amended last sentence generally. Prior to amendment, last sentence read as follows: “Court for the Eastern District shall be held at Brooklyn, Hauppauge, and Hempstead (including the village of Uniondale).”
 
 1996—Subsec. (b). Pub. L. 104–317 amended last sentence generally, substituting “Court for the Southern District shall be held at New York, White Plains, and in the Middletown-Wallkill area of Orange County or such nearby location as may be deemed appropriate.” for “Court for the Southern District shall be held at New York and White Plains.”
 

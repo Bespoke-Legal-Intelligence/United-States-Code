@@ -18,7 +18,7 @@ The registration requirements of section 851 of this title do not apply to any p
 
 &emsp;(h) Who <sup>1</sup> is an officially acknowledged and sponsored representative of a foreign government and is in the United States on an official mission for the purpose of conferring or otherwise cooperating with United States intelligence or security personnel;
 
-&emsp;(i) who is a civilian or one of the military personnel of a foreign armed service coming tothe United States pursuant to arrangements made under a mutual defense treaty or agreement, or who has been invited to the United States at the request of an agency of the United States Government; or
+&emsp;(i) who is a civilian or one of the military personnel of a foreign armed service coming to the United States pursuant to arrangements made under a mutual defense treaty or agreement, or who has been invited to the United States at the request of an agency of the United States Government; or
 
 &emsp;(j) who is a person designated by a foreign government to serve as its representative in or to an international organization in which the United States participates or is an officer or employee of such an organization or who is a member of the immediate family of, and resides with, such a representative, officer, or employee.
 

@@ -2536,7 +2536,7 @@ Termination of authorities.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1786, 1818 of this title; title 15 sections 1607, 1691c; title 18 section 1030; title 42 section 9601.
+This chapter is referred to in sections 1786, 1818 of this title; title 15 sections 1607, 1691c, 6505; title 18 section 1030; title 42 section 9601.
 
 
 ---

@@ -50,7 +50,7 @@ In general.—For purposes of chapter 13 of the Internal Revenue Code of 1986, t
 
 &emsp;&emsp;“(B)
 
-Treatment of transfers in trust.—For purposes of subparagraph (A), a transfer in trust for the benefit of a grandchild shall be treated as a transfer to such grandchild if (and only if)—
+Treatment of transfers in trust.—For purposes of subparagraph (A), a transfer in trust forthe benefit of a grandchild shall be treated as a transfer to such grandchild if (and only if)—
 
 &emsp;&emsp;&emsp;“(i) during the life of the grandchild, no portion of the corpus or income of the trust may be distributed to (or for the benefit of) any person other than such grandchild,
 

@@ -2,7 +2,7 @@
 
 (a)(1) For the purposes of section 1110 of this title, and subject to section 1113 of this title—
 
-&emsp;(A) a disease specified in paragraph (2) of this subsection becoming manifest as specified in that paragraph in a veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975; and
+&emsp;(A) a disease specified in paragraph (2) of this subsection becoming manifest as specified in that paragraph in a veteran who, during active military, naval, or air service, served inthe Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975; and
 
 &emsp;(B) each additional disease (if any) that (i) the Secretary determines in regulations prescribed under this section warrants a presumption of service-connection by reason of having positive association with exposure to an herbicide agent, and (ii) becomes manifest within the period (if any) prescribed in such regulations in a veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, and while so serving was exposed to that herbicide agent,
 
@@ -42,7 +42,7 @@
 
 (d) Whenever a disease is removed from regulations prescribed under this section—
 
-&emsp;(1) a veteran who was awarded compensation for such disease on the basis of the presumption provided in subsection (a) before the effective date of the removal shall continue to be entitled to receive compensation on that basis; and
+&emsp;(1) a veteran who was awarded compensation for such disease on the basis of the presumption provided in subsection (a) before the effective date of the removal shall continue tobe entitled to receive compensation on that basis; and
 
 &emsp;(2) a survivor of a veteran who was awarded dependency and indemnity compensation for the death of a veteran resulting from such disease on the basis of such presumption shall continue to be entitled to receive dependency and indemnity compensation on such basis.
 
@@ -394,7 +394,7 @@ Reports.—(1) Not later than 24 months after the date of the approval of the pr
 
 &emsp;“(B) any administrative actions or recommended legislation, or both, and any additional comments which the Administrator considers appropriate in light of such results.
 
-“(2) Not later than 90 days after the date on which each report required by paragraph (1) is submitted, the Administrator shall publish in the Federal Register, for public review and comment, a description of any action that the Administrator plans or proposes to take withrespect to programs administered by the Veterans’ Administration based on—
+“(2) Not later than 90 days after the date on which each report required by paragraph (1) is submitted, the Administrator shall publish in the Federal Register, for public review and comment, a description of any action that the Administrator plans or proposes to take with respect to programs administered by the Veterans’ Administration based on—
 
 &emsp;“(A) the results described in such report;
 

@@ -4,7 +4,7 @@
 
 (1) There shall be within the Department an Energy Information Administration to be headed by an Administrator who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate provided for in level IV of the Executive Schedule under section 5315 of title 5. The Administrator shall be a person who, by reason of professional background and experience, is specially qualified to manage an energy information system.
 
-(2) The Administrator shall be responsible for carrying out a central, comprehensive, and unified energy data and information program whichwill collect, evaluate, assemble, analyze, and disseminate data and information which is relevant to energy resource reserves, energy production, demand, and technology, and related economic and statistical information, or which is relevant to the adequacy of energy resources to meet demands in the near and longer term future for the Nation's economic and social needs.
+(2) The Administrator shall be responsible for carrying out a central, comprehensive, and unified energy data and information program which will collect, evaluate, assemble, analyze, and disseminate data and information which is relevant to energy resource reserves, energy production, demand, and technology, and related economic and statistical information, or which is relevant to the adequacy of energy resources to meet demands in the near and longer term future for the Nation's economic and social needs.
 
 #### (b) Delegation of functions
 
@@ -122,7 +122,7 @@ Pursuant to section 52(a) of the Federal Energy Administration Act of 1974 (15 U
 
 #### (<i>l</i>) Data collection
 
-In order to improve the ability to evaluate the effectiveness of the Nation's energy efficiency policies and programs, the Administrator shall, in carrying out the data collection provisions of subsections (i) and (k) of this section, consider—
+In order to improve the ability to evaluate the effectiveness of the Nation's energy efficiencypolicies and programs, the Administrator shall, in carrying out the data collection provisions of subsections (i) and (k) of this section, consider—
 
 &emsp;(1) expanding the survey instruments to include questions regarding participation in Government and utility conservation programs;
 

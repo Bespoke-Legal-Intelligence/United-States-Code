@@ -14,7 +14,7 @@ In the administration of this chapter, the Board shall, to the maximum extent po
 
 #### (d) Allotment of funds to Federal and State agencies
 
-The Secretary may allot to bureaus and offices of the Department or transfer to such otheragencies of the State and Federal Governments that the Secretary requests to assist in carrying out this chapter any funds made available pursuant to the provisions of section 1516 of this title.
+The Secretary may allot to bureaus and offices of the Department or transfer to such other agencies of the State and Federal Governments that the Secretary requests to assist in carrying out this chapter any funds made available pursuant to the provisions of section 1516 of this title.
 
 #### (e) Utilization of producer cooperative associations
 
@@ -28,7 +28,7 @@ The Board should use, to the maximum extent possible, the resources, data, board
 
 (1) The Corporation shall establish a management-level position to be known as the Specialty Crops Coordinator.
 
-(2) The Specialty Crops Coordinator shall have primary responsibility for addressing the needs of specialty crop producers, and for providing information and advice, in connection with the activities of the Corporation to improve and expand the insurance program for specialty crops. In carrying out this paragraph, the Specialty Crops Coordinator shall act as the liaison of the Corporation with representatives of specialty crop producers and assist the Corporation with the knowledge, expertise, and familiarity of the producers with risk management and production issues pertaining to specialty crops.
+(2) The Specialty Crops Coordinator shall have primary responsibility for addressing the needs of specialty crop producers, and for providing information and advice, in connection with the activities of the Corporation to improve and expand the insurance program for specialty crops. In carrying out this paragraph, the Specialty Crops Coordinator shall act as the liaison of the Corporation with representatives of specialty crop producers and assist the Corporation withthe knowledge, expertise, and familiarity of the producers with risk management and production issues pertaining to specialty crops.
 
 (3) The Specialty Crops Coordinator shall use information collected from Corporation field office directors in States in which specialty crops have a significant economic effect and from other sources, including the extension service and colleges and universities.
 

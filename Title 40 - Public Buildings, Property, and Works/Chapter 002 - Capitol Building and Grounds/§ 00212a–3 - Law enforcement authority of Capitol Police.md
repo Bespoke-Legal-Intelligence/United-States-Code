@@ -38,3 +38,7 @@ Section is also set out in D.C. Code, §9–115.2.
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 136, 174b–1, 184a, 193h, 193i, 193<i>l</i>, 193m of this title.
+

@@ -2,7 +2,7 @@
 
 (a) The Congress finds that personal injuries and illnesses arising out of work situations impose a substantial burden upon, and are a hindrance to, interstate commerce in terms of lost production, wage loss, medical expenses, and disability compensation payments.
 
-(b) The Congress declares it to be its purpose and policy, through the exercise of its powers to regulate commerce among the several States and with foreign nations and to provide for the general welfare, to assure so far as possible every working man and woman in the Nation safe and healthful working conditions and to preserve our human resources—
+(b) The Congress declares it to be its purpose and policy, through the exercise of its powers to regulate commerce among the several States and with foreign nations and to provide for the general welfare, to assure so far as possible every working man and woman in the Nationsafe and healthful working conditions and to preserve our human resources—
 
 &emsp;(1) by encouraging employers and employees in their efforts to reduce the number of occupational safety and health hazards at their places of employment, and to stimulate employers and employees to institute new and to perfect existing programs for providing safe and healthful working conditions;
 

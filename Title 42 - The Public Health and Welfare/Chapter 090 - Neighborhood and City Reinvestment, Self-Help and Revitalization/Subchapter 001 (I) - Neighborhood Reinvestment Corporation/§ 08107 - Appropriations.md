@@ -78,7 +78,7 @@ Findings.—The Congress finds that—
 
 “(b)
 
-Purpose.—It is the purpose of this section \[amending this section\] to authorize appropriations forthe Neighborhood Reinvestment Corporation for fiscal years 1991 and 1992 to permit the corporation—
+Purpose.—It is the purpose of this section \[amending this section\] to authorize appropriations for the Neighborhood Reinvestment Corporation for fiscal years 1991 and 1992 to permit the corporation—
 
 &emsp;“(1) to carefully expand the capacities of the national neighborhood housing services network;
 

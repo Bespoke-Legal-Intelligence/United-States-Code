@@ -120,7 +120,7 @@
 
 #### (5) Limitations
 
-&emsp;A deduction made by a State as described in paragraph (4) shall not be made until suchtime as the Governor has taken appropriate corrective action to ensure full compliance within such local area with regard to appropriate expenditures of funds under this chapter.
+&emsp;A deduction made by a State as described in paragraph (4) shall not be made until such time as the Governor has taken appropriate corrective action to ensure full compliance within such local area with regard to appropriate expenditures of funds under this chapter.
 
 #### (d) Repayment of amounts
 
@@ -150,7 +150,7 @@ In emergency situations, if the Secretary determines it is necessary to protect 
 
 #### (f) Discrimination against participants
 
-If the Secretary determines that any recipient under this chapter has discharged or in any other manner discriminated against a participant or against any individual in connection with the administration of the program involved, or against any individual because such individual has filed any complaint or instituted or caused to be instituted any proceeding under or related to this chapter, or has testified or is about to testify in any such proceeding or investigation under or related to this chapter, or otherwise unlawfully denied to any individual a benefit to which that individual is entitled under the provisions of this chapter or the Secretary's regulations, the Secretary shall, within 30 days, take such action or order such corrective measures, as necessary, with respect to the recipient or the aggrieved individual, or both.
+If the Secretary determines that any recipient under this chapter has discharged or in any other manner discriminated against a participant or against any individual in connection with the administration of the program involved, or against any individual because such individual has filed any complaint or instituted or caused to be instituted any proceeding under or related to this chapter, or has testified or is about to testify in any such proceeding or investigation under or related to this chapter, or otherwise unlawfully denied to any individual a benefit to which that individual is entitled under the provisions of this chapter or the Secretary's regulations, the Secretary shall, within30 days, take such action or order such corrective measures, as necessary, with respect to the recipient or the aggrieved individual, or both.
 
 #### (g) Remedies
 

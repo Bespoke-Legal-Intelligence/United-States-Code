@@ -34,9 +34,13 @@ May 23, 1986, Pub. L. 99–318, §§6, 7, 8 (related to directors and officers),
 
 36:3807.
 
+&nbsp;
+
 230505(c)
 
 36:3808 (related to directors and officers).
+
+&nbsp;
 
 In subsections (a) and (b), the words “Except as provided in section 3808 of this title” are omitted because the prohibition on discrimination is restated in this section. The words “and in conformity with the laws of the State in which it is incorporated” are omitted as unnecessary.
 

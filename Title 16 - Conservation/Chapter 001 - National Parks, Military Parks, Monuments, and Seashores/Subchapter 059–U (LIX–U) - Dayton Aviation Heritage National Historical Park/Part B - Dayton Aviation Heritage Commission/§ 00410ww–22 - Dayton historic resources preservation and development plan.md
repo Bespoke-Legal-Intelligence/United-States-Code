@@ -26,7 +26,7 @@ The plan referred to in subsection (a) of this section shall—
 
 &emsp;(9) establish standards and criteria applicable to the construction, preservation, restoration, alteration, and use of the properties among such resources;
 
-&emsp;(10) establish an index which shall contain documentary evidence of historical and cultural significance and which includes property in the Miami Valley associated with theWright brothers, the history of aviation, or Paul Laurence Dunbar.
+&emsp;(10) establish an index which shall contain documentary evidence of historical and cultural significance and which includes property in the Miami Valley associated with the Wright brothers, the history of aviation, or Paul Laurence Dunbar.
 
 #### (c) Consultation
 

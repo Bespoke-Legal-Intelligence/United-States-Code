@@ -1,0 +1,96 @@
+### §1469. United States Advisory Commission on Public Diplomacy
+
+#### (a) Establishment
+
+(1) There is established an advisory commission to be known as the United States Advisory Commission on Public Diplomacy.
+
+(2) The Commission shall consist of seven members appointed by the President, by and with the advice and consent of the Senate. The members of the Commission shall represent the public interest and shall be selected from a cross section of educational, communications, cultural, scientific, technical, public service, labor, business, and professional backgrounds. Not more than four members shall be from any one political party.
+
+(3) The term of each member shall be 3 years, except that of the original seven appointments, two shall be for a term of 1 year and two shall be for a term of 2 years.
+
+(4) Any member appointed to fill a vacancy occurring before the expiration of the term for which a predecessor was appointed shall be appointed for the remainder of such term. Upon the expiration of a member's term of office, such member may continue to serve until a successor is appointed and qualified.
+
+(5) The President shall designate a member to chair the Commission.
+
+#### (b) Staff
+
+The Commission shall have a staff director who shall be appointed by the chairperson of the Commission. Subject to such rules and regulations as may be adopted by the Commission, the chairperson of the Commission may—
+
+&emsp;(1) appoint such additional personnel for the staff of the Commission as the chairperson considers necessary; and
+
+&emsp;(2) procure temporary and intermittent services to the same extent as is authorized by section 3109(b) of title 5, but at rates for individuals not to exceed the daily equivalent of the annual rate of basic pay payable for grade GS–18 of the General Schedule under section 5332 of title 5.
+
+#### (c) Duties and responsibilities
+
+(1) The Commission shall formulate and recommend to the Director of the United States Information Agency, the Secretary of State, and the President policies and programs to carry out the functions vested in the Director or the Agency, and shall appraise the effectiveness of policies and programs of the Agency.
+
+(2) The Commission shall submit to the Congress, the President, the Secretary of State, and the Director of the United States Information Agency annual reports on programs and activities carried out by the Agency, including appraisals, where feasible, as to the effectiveness of the several programs. The Commission shall also include in such reports such recommendations as shall have been made by the Commission to the Director for effectuating the purposes of the Agency, and the action taken to carry out such recommendations.
+
+(3) The Commission may also submit such other reports to the Congress as it considers appropriate, and shall make reports to the public in the United States and abroad to develop a better understanding of and support for the programs conducted by the Agency.
+
+(4) The Commission's reports to the Congress shall include assessments of the degree to which the scholarly integrity and nonpolitical character of the educational and cultural exchange activities vested in the Director of the United States Information Agency have been maintained, and assessments of the attitudes of foreign scholars and governments regarding such activities.
+
+#### (d) Limitation on authority
+
+The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO.
+
+(Jan. 27, 1948, ch. 36, title VI, §604, as added Pub. L. 96–60, title II, §203(f), Aug. 15, 1979, 93 Stat. 399; amended Pub. L. 100–204, title II, §213, Dec. 22, 1987, 101 Stat. 1376; Pub. L. 101–246, title II, §206(a), Feb. 16, 1990, 104 Stat. 51; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334(b), Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a), (c)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447.)
+
+#### Repeal of Section
+
+<i>Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(c)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501–447, provided that, effective Sept. 30, 2001, this section is repealed.</i>
+
+#### Amendments
+
+1999—Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(a), (c)(1)\], amended Pub. L. 105–277, §1334, generally (see 1998 Amendment note below) and provided for reenactment of this section. See Reenactment and Repeal of Certain Provisions of Law note below.
+
+1998—Pub. L. 105–277, §1334(b), which directed the repeal of this section, was amended generally by Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(a)\], and, as so amended, no longer contains provisions repealing this section. See 1999 Amendment note above.
+
+1990—Pub. L. 101–246 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to redesignation of United States Advisory Commission on International Communication, Cultural and Educational Affairs as United States Advisory Commission on Public Diplomacy, appointment of members, appointment of staff director and staff personnel, date of section entering into force as being Jan. 20, 1989, and repeal of prohibition limiting membership of individuals from same political party.
+
+1987—Pub. L. 100–204 amended section generally, revising and restating as subsecs. (a) to (d) provisions of former subsecs. (a) and (b).
+
+#### Effective Date
+
+Section effective Oct. 1, 1979, and applicable only with respect to funds appropriated after Aug. 15, 1979, where new authorities provide for expenditure of appropriated funds, see section 209 of Pub. L. 96–60, set out as an Effective Date of 1979 Amendment note under section 1471 of this title.
+
+#### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+
+#### Reenactment and Repeal of Certain Provisions of Law
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that:
+
+“(1)
+
+Reenactment.—The provisions of law repealed by section 1334 \[22 U.S.C. 6553\] of the Foreign Affairs Reform and Restructuring Act of 1998 \[repealing this section and section 8 of Reorganization Plan No. 2 of 1977, set out under section 1461 of this title and in the Appendix to Title 5, Government Organization and Employees\], as in effect before the date of the enactment of this Act \[Nov. 29, 1999\], are hereby reenacted into law.
+
+“(2)
+
+Repeal.—Effective September 30, 2001, section 604 of the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1469) and section 8 of the Reorganization Plan Numbered 2 of 1977 are repealed.”
+
+#### Continuity of Advisory Commission
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that: “Notwithstanding any other provision of law, any period of discontinuity of the United States Advisory Commission on Public Diplomacy shall not affect the appointment or terms of service of members of the commission.”
+
+#### Reduction in Staff and Budget
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that: “Notwithstanding section 604(b) of the United States Information and Educational Exchange Act of 1948 \[22 U.S.C. 1469(b)\], effective on the date of the enactment of this Act \[Nov. 29, 1999\], the United States Advisory Commission on Public Diplomacy shall have not more than 2 individuals who are compensated staff, and not more than 50 percent of the resources allocated in fiscal year 1999.”
+
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
+
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+#### Continued Service of Commission Members
+
+Pub. L. 101–246, title II, §206(b), Feb. 16, 1990, 104 Stat. 53, provided that each member of the United States Advisory Commission on Public Diplomacy as in existence on the day before Jan. 20, 1989, was to continue to serve for the remainder of the term to which such member was appointed.
+
+#### Cross References
+
+United States Advisory Commission on Public Diplomacy to continue until Oct. 1, 2001, see section 6553 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6553 of this title.
+

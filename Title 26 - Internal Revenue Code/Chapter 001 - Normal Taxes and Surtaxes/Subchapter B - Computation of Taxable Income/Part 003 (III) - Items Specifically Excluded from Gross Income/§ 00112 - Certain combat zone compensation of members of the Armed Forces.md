@@ -96,6 +96,54 @@ Section 3(a)(1) of Pub. L. 92–279 provided that: “The amendment made by the 
 
 Section 2 of Pub. L. 89–739 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to compensation received in taxable years ending after December 31, 1965, for periods of active service after such date.”
 
+#### Sense of Congress Regarding Treatment Under Internal Revenue Code of Members Receiving Hostile Fire or Imminent Danger Special Pay During Contingency Operations
+
+Pub. L. 106–65, div. A, title VI, §677, Oct. 5, 1999, 113 Stat. 676, provided that: “It is the sense of Congress that a member of the Armed Forces who is receiving special pay under section 310 of title 37, United States Code, while assigned to duty in support of a contingency operation should be treated under the Internal Revenue Code of 1986 in the same manner as a member of the Armed Forces serving in a combat zone (as defined in section 112 of the Internal Revenue Code of 1986).”
+
+#### Availability of Certain Tax Benefits for Services as Part of Operation Allied Force
+
+Pub. L. 106–21, §1, Apr. 19, 1999, 113 Stat. 34, provided that:
+
+“(a)
+
+General Rule.—For purposes of the following provisions of the Internal Revenue Code of 1986, a qualified hazardous duty area shall be treated in the same manner as if it were a combat zone (as determined under section 112 of such Code):
+
+&emsp;“(1) Section 2(a)(3) (relating to special rule where deceased spouse was in missing status).
+
+&emsp;“(2) Section 112 (relating to the exclusion of certain combat pay of members of the Armed Forces).
+
+&emsp;“(3) Section 692 (relating to income taxes of members of Armed Forces on death).
+
+&emsp;“(4) Section 2201 (relating to members of the Armed Forces dying in combat zone or by reason of combat-zone-incurred wounds, etc.).
+
+&emsp;“(5) Section 3401(a)(1) (defining wages relating to combat pay for members of the Armed Forces).
+
+&emsp;“(6) Section 4253(d) (relating to the taxation of phone service originating from a combat zone from members of the Armed Forces).
+
+&emsp;“(7) Section 6013(f)(1) (relating to joint return where individual is in missing status).
+
+&emsp;“(8) Section 7508 (relating to time for performing certain acts postponed by reason of service in combat zone).
+
+“(b)
+
+Qualified Hazardous Duty Area.—For purposes of this section, the term ‘qualified hazardous duty area’ means any area of the Federal Republic of Yugoslavia (Serbia/Montenegro), Albania, the Adriatic Sea, and the northern Ionian Sea (above the 39th parallel) during the period (which includes the date of the enactment of this Act \[Apr. 19, 1999\]) that any member of the Armed Forces of the United States is entitled to special pay under section 310 of title 37, United States Code (relating to special pay: duty subject to hostile fire or imminent danger) for services performed in such area.
+
+“(c)
+
+Special Rule for Section 7508.—Solely for purposes of applying section 7508 of the Internal Revenue Code of 1986, in the case of an individual who is performing services as part of Operation Allied Force outside the United States while deployed away from such individual's permanent duty station, the term ‘qualified hazardous duty area’ includes, during the period for which the entitlement referred to in subsection (b) is in effect, any area in which such services are performed.
+
+“(d)
+
+Effective Dates.—
+
+&emsp;“(1)
+
+In general.—Except as provided in paragraph (2), this section shall take effect on March 24, 1999.
+
+&emsp;“(2)
+
+Withholding.—Subsection (a)(5) shall apply to remuneration paid after the date of the enactment of this Act \[Apr. 19, 1999\].”
+
 #### Treatment of Certain Individuals Performing Services in Certain Hazardous Duty Areas; Effective Date
 
 Section 1 of Pub. L. 104–117 provided that:
@@ -178,7 +226,7 @@ Ex. Ord. No. 11216, Apr. 24, 1965, 30 F.R. 5817, provided:
 
 Pursuant to the authority vested in me by section 112 of the Internal Revenue Code of 1954 \[now I.R.C. 1986\], I hereby designate, for the purposes of that section, as an area in which Armed Forces of the United States are and have been engaged in combat:
 
-Vietnam, including the waters adjacent thereto within the following-described limits: From a point on the East Coast of Vietnam at the juncture of Vietnam with China southeastward to 21° N Lat., 108°15 E Long.; thence southward to 18° N Lat., 108°15 E Long.; thence southeastward to 17°30 N Lat., 111° E Long.; thence southward to 11° N Lat., 111° E Long.; thence southwestward to 7° N Lat., 105° E Long.; thence westward to 7° N Lat., 103° E Long.; thence northward to 9°30 NLat., 103° E Long.; thence northeastward to 10°15 N Lat., 104°27 E Long.; thence northward to a point on the West Coast of Vietnam at the juncture of Vietnam with Cambodia.
+Vietnam, including the waters adjacent thereto within the following-described limits: From a point on the East Coast of Vietnam at the juncture of Vietnam with China southeastward to 21° N Lat., 108°15 E Long.; thence southward to 18° N Lat., 108°15 E Long.; thence southeastward to 17°30 N Lat., 111° E Long.; thence southward to 11° N Lat., 111° E Long.; thence southwestward to 7° N Lat., 105° E Long.; thence westward to 7° N Lat., 103° E Long.; thence northward to 9°30 N Lat., 103° E Long.; thence northeastward to 10°15 N Lat., 104°27 E Long.; thence northward to a point on the West Coast of Vietnam at the juncture of Vietnam with Cambodia.
 
 The date of the commencing of combatant activities in such area is hereby designated as January 1, 1964.
 
@@ -214,6 +262,24 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Ex. Ord. No. 13119. Designation of Federal Republic of Yugoslavia (Serbia/Montenegro), Albania, the Airspace Above, and Adjacent Waters as a Combat Zone
+
+Ex. Ord. No. 13119, April 13, 1999, 64 F.R. 18797, provided:
+
+Pursuant to the authority vested in me as President by the Constitution and laws of the United States ofAmerica, including section 112 of the Internal Revenue Code of 1986 (26 U.S.C. 112), I designate, for the purposes of that section, the following locations, including the airspace above such locations, as an area in which Armed Forces of the United States are and have been engaged in combat:
+
+—The Federal Republic of Yugoslavia (Serbia/Montenegro);
+
+—Albania;
+
+—the Adriatic Sea;
+
+—the Ionian Sea north of the 39th parallel.
+
+For the purposes of this order, I designate March 24, 1999, as the date of the commencement of combatant activities in such zone.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Cross References
 
 Additional estate taxes inapplicable to members of armed forces dying in combat zone or by reason of combat-zone-incurred wounds, etc., see section 2201 of this title.
@@ -230,5 +296,5 @@ Wages as excluding remuneration paid to members of armed services entitled to be
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2, 692, 2201, 3401, 4253, 6013, 7508 of this title; title 5 section 6326.
+This section is referred to in sections 2, 692, 2201, 3401, 4253, 6013, 7508 of this title; title 5 sections 6304, 6326; title 10 section 1580.
 

@@ -68,7 +68,7 @@
 
 &emsp;(A) that an individual subject to this chapter has been convicted by an impartial court of appropriate jurisdiction within a foreign country in circumstances in which the conduct violates the provisions of law enumerated in subsections (b)(1) and (c)(1), or would violate such provisions had such conduct taken place within the United States, and that such conviction is not being appealed or that final action has been taken on such appeal;
 
-&emsp;(B) that such conviction was obtained in accordance with procedures that provided the defendant due process rights comparable to such rights provided by the United States Constitution, and such conviction was based upon evidence which would have been admissible in the courts of the United States; and
+&emsp;(B) that such conviction was obtained in accordance with procedures that provided the defendant due process rights comparable tosuch rights provided by the United States Constitution, and such conviction was based upon evidence which would have been admissible in the courts of the United States; and
 
 &emsp;(C) that such conviction occurred after the date of enactment of this subsection.
 

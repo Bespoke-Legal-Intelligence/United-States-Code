@@ -40,5 +40,5 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1378, 1413 of this title; title 10 section 7524.
+This section is referred to in section 1378 of this title; title 10 section 7524.
 

@@ -36,7 +36,7 @@ Not later than March 1 of each year the Secretary shall submit to the Committee 
 
 &emsp;(4) The number of inspectors licensed by each country from which any imports subject to the provisions of this section were imported who were assigned, during the calendar year concerned, to inspect such imports and the facilities in which such imports were handled and the frequency and effectiveness of such inspections.
 
-&emsp;(5) The total volume of carcasses or meat or meat products referred to in subsection (a) of this section which was imported into the United States during the calendar year concerned from each country, including a separate itemization of the volume of each major category of such imports from each country during such year, and a detailed report of rejections of plants and products because of failure to meet appropriate standards prescribed by this chapter.
+&emsp;(5) The total volume of carcasses or meat or meat products referred to in subsection (a) ofthis section which was imported into the United States during the calendar year concerned from each country, including a separate itemization of the volume of each major category of such imports from each country during such year, and a detailed report of rejections of plants and products because of failure to meet appropriate standards prescribed by this chapter.
 
 &emsp;(6) The name of each foreign country that applies standards for the importation of meat articles from the United States that are described in subsection (h)(2) of this section.
 

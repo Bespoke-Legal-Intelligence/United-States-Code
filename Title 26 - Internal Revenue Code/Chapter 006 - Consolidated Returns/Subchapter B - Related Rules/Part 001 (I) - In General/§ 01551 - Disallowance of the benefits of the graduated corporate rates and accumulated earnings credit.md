@@ -16,7 +16,7 @@ If—
 
 For purposes of subsection (a), the term “control” means—
 
-&emsp;(1) With respect to a transferee corporation described in subsection (a)(1) or (2), the ownership by the transferor corporation, its shareholders, or both, of stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least80 percent of the total value of shares of all classes of the stock; or
+&emsp;(1) With respect to a transferee corporation described in subsection (a)(1) or (2), the ownership by the transferor corporation, its shareholders, or both, of stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of the stock; or
 
 &emsp;(2) With respect to each corporation described in subsection (a)(3), the ownership by the five or fewer individuals described in such subsection of stock possessing—
 

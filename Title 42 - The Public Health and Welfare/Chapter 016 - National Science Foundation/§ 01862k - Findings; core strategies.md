@@ -84,7 +84,7 @@ In general.—The Director of the Office of Science and Technology Policy, in co
 
 &emsp;“(2)
 
-Report to congress.—The report prepared under paragraph (1) shall be submitted to Congressnot later than 1 year after the date of enactment of this Act \[July 29, 1998\].”
+Report to congress.—The report prepared under paragraph (1) shall be submitted to Congress not later than 1 year after the date of enactment of this Act \[July 29, 1998\].”
 
 #### Notice; Enhancement of Science and Mathematics Programs
 
@@ -128,7 +128,7 @@ Reports.—
 
 &emsp;&emsp;“(A)
 
-In general.—Not later than 1 year after the date of enactment of this Act \[July 29, 1998\], and annually thereafter, the Director shall prepare and submit to the President a report that meets the requirements of this paragraph. The President shall submit that report to Congress at the same time as the President submits a budget request to Congress under section 1105(a) of title 31, United States Code.
+In general.—Not later than 1 year after the date of enactment of this Act \[July 29, 1998\], andannually thereafter, the Director shall prepare and submit to the President a report that meets the requirements of this paragraph. The President shall submit that report to Congress at the same time as the President submits a budget request to Congress under section 1105(a) of title 31, United States Code.
 
 &emsp;&emsp;“(B)
 

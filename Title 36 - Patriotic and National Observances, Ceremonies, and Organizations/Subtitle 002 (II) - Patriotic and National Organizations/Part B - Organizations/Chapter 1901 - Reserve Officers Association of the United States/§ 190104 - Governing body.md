@@ -46,25 +46,37 @@ June 30, 1950, ch. 431, §§6, 7(a)–(d), 64 Stat. 313.
 
 36:227(a), (d).
 
+&nbsp;
+
 190104(c)(1)
 
 36:226.
+
+&nbsp;
 
 190104(c)(2)
 
 36:227(b) (1st sentence 1st–14th words, 32d–last words).
 
+&nbsp;
+
 190104(c)(3)
 
 36:227(b) (1st sentence 15th–31st words).
+
+&nbsp;
 
 190104(d)(1)
 
 36:227(b) (2d, 3d sentences).
 
+&nbsp;
+
 190104(d)(2)
 
 36:227(b) (last sentence).
+
+&nbsp;
 
 In subsection (a), the first sentence is added for clarity and is implied by 36:227(b) (12th–14th words).
 

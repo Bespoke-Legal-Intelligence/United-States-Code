@@ -1,6 +1,6 @@
 ### §597. Expenditures to influence voting
 
-Whoever makes or offers to make an expenditure to any person, either to vote or withhold his vote, or to vote for or against any candidate; and
+Whoever makes or offers to make an expenditure to any person, either to vote or withholdhis vote, or to vote for or against any candidate; and
 
 Whoever solicits, accepts, or receives any such expenditure in consideration of his vote or the withholding of his vote—
 

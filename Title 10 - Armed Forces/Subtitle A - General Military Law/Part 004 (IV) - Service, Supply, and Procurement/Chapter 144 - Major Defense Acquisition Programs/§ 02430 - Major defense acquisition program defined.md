@@ -6,19 +6,17 @@
 
 &emsp;(2) that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement of more than $1,800,000,000 (based on fiscal year 1990 constant dollars).
 
-(b) The Secretary of Defense may adjust the amounts (and the base fiscal year) provided in subsection (a)(2) on the basis of Department of Defense escalation rates. An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives.
+(b) The Secretary of Defense may adjust the amounts (and the base fiscal year) provided in subsection (a)(2) on the basis of Department of Defense escalation rates. An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
-(Added Pub. L. 100–26, §7(b)(2)(A), Apr. 21, 1987, 101 Stat. 279; amended Pub. L. 102–484, div. A, title VIII, §817(b), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502.)
+(Added Pub. L. 100–26, §7(b)(2)(A), Apr. 21, 1987, 101 Stat. 279; amended Pub. L. 102–484, div. A, title VIII, §817(b), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 1996—Subsec. (b). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
 1992—Pub. L. 102–484 designated existing provisions as subsec. (a), in par. (2) substituted “$300,000,000” for “$200,000,000”, “1990” for “1980” in two places, and “$1,800,000,000” for “$1,000,000,000”, and added subsec. (b).
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Environmental Consequence Analysis of Major Defense Acquisition Programs
 
@@ -98,7 +96,7 @@ Commercial-derivative aircraft (cda).—
 
 &emsp;&emsp;“(B) For purposes of this paragraph, the term ‘commercial-derivative aircraft’ means any of the following:
 
-&emsp;&emsp;&emsp;“(i) Any aircraft (including spare parts, support services, support equipment, technical manuals, and data related thereto) that is or was of a type customarily used in the course of normal business operations for other than Federal Government purposes, that has been issued a type certificateby the Administrator of the Federal Aviation Administration, and that has been sold or leased for use in the commercial marketplace or that has been offered for sale or lease for use in the commercial marketplace.
+&emsp;&emsp;&emsp;“(i) Any aircraft (including spare parts, support services, support equipment, technical manuals, and data related thereto) that is or was of a type customarily used in the course of normal business operations for other than Federal Government purposes, that has been issued a type certificate by the Administrator of the Federal Aviation Administration, and that has been sold or leased for use in the commercial marketplace or that has been offered for sale or lease for use in the commercial marketplace.
 
 &emsp;&emsp;&emsp;“(ii) Any aircraft that, but for modifications of a type customarily available in the commercial marketplace, or minor modifications made to meet Federal Government requirements, would satisfy or would have satisfied the criteria in subclause (I).
 
@@ -190,7 +188,7 @@ Pub. L. 101–510, div. A, title VIII, §809, Nov. 5, 1990, 104 Stat. 1593, as a
 
 “(a)
 
-Authority To Conduct Pilot Program.—The Secretary of Defense may conduct a pilot program forthe purpose of determining the potential for increasing the efficiency and effectiveness of the acquisition process in defense acquisition programs.
+Authority To Conduct Pilot Program.—The Secretary of Defense may conduct a pilot program for the purpose of determining the potential for increasing the efficiency and effectiveness of the acquisition process in defense acquisition programs.
 
 “(b)
 
@@ -224,7 +222,7 @@ Conduct of Pilot Program.—(1) In the case of each defense acquisition program 
 
 “(d)
 
-Publication of Policies and Guidelines.—The Secretary shall publish in the Federal Register a proposed memorandum setting forth policies and guidelines for implementation of the pilot program under this section and provide an opportunity for public comment on the proposed memorandum for a period of 60 days after the date of publication. The Secretary shall publish in the Federal Register any subsequent proposed change to the memorandum and provide an opportunity for public comment on each such proposed change for a period of 60 days after the date of publication.
+Publication of Policies and Guidelines.—The Secretary shall publish in the Federal Register a proposed memorandum setting forth policies and guidelines for implementation of the pilot program under this section and provide an opportunity for public comment on the proposed memorandum for a period of 60 days after the date of publication. The Secretary shallpublish in the Federal Register any subsequent proposed change to the memorandum and provide an opportunity for public comment on each such proposed change for a period of 60 days after the date of publication.
 
 “(e)
 

@@ -4,7 +4,7 @@ When used in this part unless the context otherwise indicates—
 
 (a) The term “treaty” means the Patent Co- operation Treaty done at Washington, on June 19, 1970.
 
-(b) The term “Regulations”, when capitalized, means the Regulations under the treaty, done at Washington on the same date as the treaty. The term “regulations”, when not capitalized, means the regulations established by the Commissioner under this title.
+(b) The term “Regulations”, when capitalized, means the Regulations under the treaty, done at Washington on the same date as the treaty. The term “regulations”, when not capitalized, means the regulations established by the Director under this title.
 
 (c) The term “international application” means an application filed under the treaty.
 
@@ -20,9 +20,11 @@ When used in this part unless the context otherwise indicates—
 
 (i) Terms and expressions not defined in this part are to be taken in the sense indicated by the treaty and the Regulations.
 
-(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 685; amended Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 99–616, §2(a)–(c), Nov. 6, 1986, 100 Stat. 3485.)
+(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 685; amended Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 99–616, §2(a)–(c), Nov. 6, 1986, 100 Stat. 3485; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–113 substituted “Director” for “Commissioner”.
 
 1986—Subsec. (a). Pub. L. 99–616, §2(a), struck out “, excluding chapter II thereof” after “June 19, 1970”.
 
@@ -32,11 +34,15 @@ Subsec. (g). Pub. L. 99–616, §2(c), substituted “The terms ‘International
 
 1984—Subsec. (d). Pub. L. 98–622 substituted “Patent and Trademark Office” for “Patent Office”.
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
+
 #### Effective Date of 1986 Amendment
 
 Section 9 of Pub. L. 99–616 provided that: “Sections 2 through 8 of this Act \[amending this section and sections 361, 362, 364, 368, 371, and 376 of this title\] shall come into force on the same day as the effective date of entry into force of chapter II of the Patent Cooperation Treaty with respect to the United States, by virtue of the withdrawal of the declaration under article 64(1)(a) of the Patent Cooperation Treaty. It shall apply to all international applications pending before or after its effective date.”
 
-\[The Patent Cooperation Treaty became effective for the United States on Jan. 24, 1978. The United States, however, was one of six countries (out of the 40 countries who have ratified or acceded to the Treaty) which had reservations not to be bound by Chapter II. The document removing the reservation as to Chapter II was deposited with the Director General of the World Intellectual Property Organization on Apr. 1, 1987. Accordingly, Chapter II of the Treaty for the United States of America and Pub. L. 99–616 became effective 3 months later on July 1, 1987. See 52 F.R. 20038, 20041, May 28, 1987.\]
+\[The Patent Cooperation Treaty became effective for the United States on Jan. 24, 1978. The United States, however, was one of six countries (out of the 40 countries who have ratified or acceded to the Treaty) which had reservations not to be bound by Chapter II. The document removing the reservation as to Chapter II was deposited with the Director General of the WorldIntellectual Property Organization on Apr. 1, 1987. Accordingly, Chapter II of the Treaty for the United States of America and Pub. L. 99–616 became effective 3 months later on July 1, 1987. See 52 F.R. 20038, 20041, May 28, 1987.\]
 
 #### Effective Date of 1984 Amendment
 
@@ -57,4 +63,8 @@ Section 11 of Pub. L. 94–131 provided that:
 #### Short Title of 1986 Amendment
 
 Section 1 of Pub. L. 99–616 provided: “That this Act \[amending this section and sections 361, 362, 364, 368, 371, and 376 of this title and enacting provisions set out as a note above\] may be cited as the ‘Act to authorize the United States to participate in chapter II of the Patent Cooperation Treaty’.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 102, 154, 374 of this title.
 

@@ -1,6 +1,6 @@
 ### §92b. Pay of clerical assistants as affected by death or resignation of Member of House
 
-Notwithstanding the provisions of section 92a of this title, in case of the death or resignation of a Member of the House during his term of office, the clerical assistants designated by him and borne upon the clerk hire pay rolls of the House of Representatives on the date of such death or resignation shall be continued upon such pay rolls at their respective salaries untilthe successor to such Member of the House is elected to fill the vacancy.
+Notwithstanding the provisions of section 92a of this title, in case of the death or resignation of a Member of the House during his term of office, the clerical assistants designated by him and borne upon the clerk hire pay rolls of the House of Representatives on the date of such death or resignation shall be continued upon such pay rolls at their respective salaries until the successor to such Member of the House is elected to fill the vacancy.
 
 (Aug. 21, 1935, ch. 600, §1, 49 Stat. 679; Apr. 24, 1950, ch. 96, 64 Stat. 82; July 15, 1952, ch. 759, §1, 66 Stat. 662; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 657.)
 

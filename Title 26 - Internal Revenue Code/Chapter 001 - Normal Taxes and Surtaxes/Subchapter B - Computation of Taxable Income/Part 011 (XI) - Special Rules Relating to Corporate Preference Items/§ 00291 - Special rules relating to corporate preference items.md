@@ -84,7 +84,7 @@ For purposes of this subtitle—
 
 #### (d) Special rule for real estate investment trusts
 
-In the case of a real estate investment trust (as defined in section 856), the difference between the amounts described in subparagraphs (A) and (B) of subsection (a)(1) shall be reduced to the extent that a capital gain dividend (as defined in section 857(b)(3)(C), applied without regard to this section) is treated as paid out of such difference. Any capital gain dividend treated as having been paid out of such difference to a shareholder which is an applicable corporation retains its character in the hands of the shareholder as gain from the disposition of section 1250 property for purposes of applying subsection (a)(1) to such shareholder.
+In the case of a real estate investment trust (as defined in section 856), the difference between the amounts described in subparagraphs (A) and (B) of subsection (a)(1) shall be reduced to the extent that a capital gain dividend (as defined in section 857(b)(3)(C), applied without regard to this section) is treated as paid out of such difference. Any capital gain dividend treated as having been paid out of such difference toa shareholder which is an applicable corporation retains its character in the hands of the shareholder as gain from the disposition of section 1250 property for purposes of applying subsection (a)(1) to such shareholder.
 
 #### (e) Definitions
 
@@ -160,7 +160,7 @@ Pub. L. 99–514, §1804(k)(1), substituted “If a C corporation” for “If a
 
 Subsec. (b)(1). Pub. L. 99–514, §411(a)(1), (b)(2)(C)(ii), substituted “30 percent” for “20 percent” in closing provisions and “617(a)” for “617” in subpar. (B).
 
-Subsec. (b)(2) to (6). Pub. L. 99–514, §411(a)(2), added pars. (2) to (5) and struck out former pars. (2) to (6) as follows: former par. (2), special rule for amounts not allowable as deductions under paragraph (1), related in subpar. (A) to intangible drilling costs and in subpar. (B) to mineral exploration and development costs; former par. (3) defined applicable percentage in accordance with table for taxable years 1 to 5; former par. (4) dispositions, related in subpar. (A) to oil, gas, and geothermal property, in subpar. (B) to application of section 617(d) of this title, and in subpar. (C) to recapture of investment credit; former par. (5) defined integrated oil company; and former par. (6) related to coordination with cost depletion.
+Subsec. (b)(2) to (6). Pub. L. 99–514, §411(a)(2), added pars. (2) to (5) and struck out former pars. (2) to (6) asfollows: former par. (2), special rule for amounts not allowable as deductions under paragraph (1), related in subpar. (A) to intangible drilling costs and in subpar. (B) to mineral exploration and development costs; former par. (3) defined applicable percentage in accordance with table for taxable years 1 to 5; former par. (4) dispositions, related in subpar. (A) to oil, gas, and geothermal property, in subpar. (B) to application of section 617(d) of this title, and in subpar. (C) to recapture of investment credit; former par. (5) defined integrated oil company; and former par. (6) related to coordination with cost depletion.
 
 Subsec. (c)(1). Pub. L. 99–514, §201(d)(5)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For purposes of subclause (1) of section 168(d)(1)(A)(ii), a taxpayer shall not be treated as electing the amortization deduction under section 169 with respect to that portion of the basis not taken into account under section 169 by reason of subsection (a)(5).”
 
@@ -224,7 +224,7 @@ Amendment by section 1616(b)(5) of Pub. L. 104–188 applicable to taxable years
 
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, seesection 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
+Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, see section 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
 
 #### Effective Date of 1986 Amendment
 

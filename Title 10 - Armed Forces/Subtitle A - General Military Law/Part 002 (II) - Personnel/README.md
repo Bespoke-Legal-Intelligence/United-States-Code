@@ -19,6 +19,7 @@
 | [<b>47.</b>](Chapter%20047%20-%20Uniform%20Code%20of%20Military%20Justice/README.md) | <b>Uniform Code of Military Justice</b> | <b>801</b> |
 | [<b>48.</b>](Chapter%20048%20-%20Military%20Correctional%20Facilities/README.md) | <b>Military Correctional Facilities</b> | <b>951</b> |
 | [<b>49.</b>](Chapter%20049%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md) | <b>Miscellaneous Prohibitions and Penalties</b> | <b>971</b> |
+| [<b>50.</b>](Chapter%20050%20-%20Miscellaneous%20Command%20Responsibilities/README.md) | <b>Miscellaneous Command Responsibilities</b> | <b>991</b> |
 | [<b>51.</b>](Chapter%20051%20-%20Reserve%20Components%20Standards%20and%20Procedures%20for%20Retention%20and%20Promotion/README.md) | <b>Reserve Components: Standards and Procedures for Retention and Promotion</b> | <b>1001</b> |
 | [<b>53.</b>](Chapter%20053%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>1031</b> |
 | [<b>54.</b>](Chapter%20054%20-%20Commissary%20and%20Exchange%20Benefits/README.md) | <b>Commissary and Exchange Benefits</b> | <b>1061</b> |
@@ -35,7 +36,7 @@
 | [<b>71.</b>](Chapter%20071%20-%20Computation%20of%20Retired%20Pay/README.md) | <b>Computation of Retired Pay</b> | <b>1401</b> |
 | [<b>73.</b>](Chapter%20073%20-%20Annuities%20Based%20on%20Retired%20or%20Retainer%20Pay/README.md) | <b>Annuities Based on Retired or Retainer Pay</b> | <b>1431</b> |
 | [<b>74.</b>](Chapter%20074%20-%20Department%20of%20Defense%20Military%20Retirement%20Fund/README.md) | <b>Department of Defense Military Retirement Fund</b> | <b>1461</b> |
-| [<b>75.</b>](Chapter%20075%20-%20Death%20Benefits/README.md) | <b>Death Benefits</b> | <b>1475</b> |
+| [<b>75.</b>](Chapter%20075%20-%20Deceased%20Personnel/README.md) | <b>Deceased Personnel</b> | <b>1471</b> |
 | [<b>76.</b>](Chapter%20076%20-%20Missing%20Persons/README.md) | <b>Missing Persons</b> | <b>1501</b> |
 | [<b>77.</b>](Chapter%20077%20-%20Posthumous%20Commissions%20and%20Warrants/README.md) | <b>Posthumous Commissions and Warrants</b> | <b>1521</b> |
 | [<b>79.</b>](Chapter%20079%20-%20Correction%20of%20Military%20Records/README.md) | <b>Correction of Military Records</b> | <b>1551</b> |
@@ -50,6 +51,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title V, §586(c)(1), title VII, §721(c)(2), Oct. 5, 1999, 113 Stat. 638, 694, added item for chapter 50 and substituted “Deceased Personnel” for “Death Benefits” and “1471” for “1475” in item for chapter 75.
 
 1997—Pub. L. 105–85, div. A, title V, §591(a)(2), Nov. 18, 1997, 111 Stat. 1762, added item for chapter 80.
 
@@ -127,6 +130,7 @@ Particular provisions relating to personnel—
 - [Chapter 047 - Uniform Code of Military Justice](Chapter%20047%20-%20Uniform%20Code%20of%20Military%20Justice/README.md)
 - [Chapter 048 - Military Correctional Facilities](Chapter%20048%20-%20Military%20Correctional%20Facilities/README.md)
 - [Chapter 049 - Miscellaneous Prohibitions and Penalties](Chapter%20049%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md)
+- [Chapter 050 - Miscellaneous Command Responsibilities](Chapter%20050%20-%20Miscellaneous%20Command%20Responsibilities/README.md)
 - [Chapter 051 - Reserve Components Standards and Procedures for Retention and Promotion](Chapter%20051%20-%20Reserve%20Components%20Standards%20and%20Procedures%20for%20Retention%20and%20Promotion/README.md)
 - [Chapter 053 - Miscellaneous Rights and Benefits](Chapter%20053%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md)
 - [Chapter 054 - Commissary and Exchange Benefits](Chapter%20054%20-%20Commissary%20and%20Exchange%20Benefits/README.md)
@@ -143,7 +147,7 @@ Particular provisions relating to personnel—
 - [Chapter 071 - Computation of Retired Pay](Chapter%20071%20-%20Computation%20of%20Retired%20Pay/README.md)
 - [Chapter 073 - Annuities Based on Retired or Retainer Pay](Chapter%20073%20-%20Annuities%20Based%20on%20Retired%20or%20Retainer%20Pay/README.md)
 - [Chapter 074 - Department of Defense Military Retirement Fund](Chapter%20074%20-%20Department%20of%20Defense%20Military%20Retirement%20Fund/README.md)
-- [Chapter 075 - Death Benefits](Chapter%20075%20-%20Death%20Benefits/README.md)
+- [Chapter 075 - Deceased Personnel](Chapter%20075%20-%20Deceased%20Personnel/README.md)
 - [Chapter 076 - Missing Persons](Chapter%20076%20-%20Missing%20Persons/README.md)
 - [Chapter 077 - Posthumous Commissions and Warrants](Chapter%20077%20-%20Posthumous%20Commissions%20and%20Warrants/README.md)
 - [Chapter 079 - Correction of Military Records](Chapter%20079%20-%20Correction%20of%20Military%20Records/README.md)

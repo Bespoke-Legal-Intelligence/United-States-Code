@@ -98,11 +98,11 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), the term “aggregate gross assets” means the amount of cash and the aggregate adjusted bases of other property held by the corporation.
+&emsp;&emsp;For purposes of paragraph (1), the term “aggregate gross assets” means the amountof cash and the aggregate adjusted bases of other property held by the corporation.
 
 #### (B) Treatment of contributed property
 
-&emsp;&emsp;For purposes of subparagraph (A), the adjusted basis of any property contributed to the corporation (or other property with a basis determined in whole or in part by reference to the adjusted basis of property so contributed) shall be determined as if thebasis of the property contributed to the corporation (immediately after such contribution) were equal to its fair market value as of the time of such contribution.
+&emsp;&emsp;For purposes of subparagraph (A), the adjusted basis of any property contributed to the corporation (or other property with a basis determined in whole or in part by reference to the adjusted basis of property so contributed) shall be determined as if the basis of the property contributed to the corporation (immediately after such contribution) were equal to its fair market value as of the time of such contribution.
 
 #### (3) Aggregation rules
 
@@ -192,7 +192,7 @@ For purposes of this section—
 
 #### (7) Maximum real estate holdings
 
-&emsp;A corporation shall not be treated as meeting the requirements of paragraph (1) for anyperiod during which more than 10 percent of the total value of its assets consists of real property which is not used in the active conduct of a qualified trade or business. For purposes of the preceding sentence, the ownership of, dealing in, or renting of real property shall not be treated as the active conduct of a qualified trade or business.
+&emsp;A corporation shall not be treated as meeting the requirements of paragraph (1) for any period during which more than 10 percent of the total value of its assets consists of real property which is not used in the active conduct of a qualified trade or business. For purposes of the preceding sentence, the ownership of, dealing in, or renting of real property shall not be treated as the active conduct of a qualified trade or business.
 
 #### (8) Computer software royalties
 
@@ -278,7 +278,7 @@ For purposes of this section—
 
 #### (C) Successive application
 
-&emsp;&emsp;For purposes of this paragraph, stock treated as qualified small business stock under subparagraph (A) shall be so treatedfor subsequent transactions or reorganizations, except that the limitation of subparagraph (B) shall be applied as of the time of the first transfer to which such limitation applied (determined after the application of the second sentence of subparagraph (B)).
+&emsp;&emsp;For purposes of this paragraph, stock treated as qualified small business stock under subparagraph (A) shall be so treated for subsequent transactions or reorganizations, except that the limitation of subparagraph (B) shall be applied as of the time of the first transfer to which such limitation applied (determined after the application of the second sentence of subparagraph (B)).
 
 #### (D) Control test
 

@@ -34,7 +34,7 @@ All resolutions introduced in the House of Representatives shall be referred to 
 
 (4) All appeals from the decisions of the Chair relating to the application of the Rules of the House of Representatives to the procedure relating to a resolution shall be decided without debate.
 
-(5) Except to the extent specifically provided in the preceding provisions of this subsection,consideration of a resolution in the House of Representatives shall be governed by the Rules of the House of Representatives applicable to other resolutions in similar circumstances.
+(5) Except to the extent specifically provided in the preceding provisions of this subsection, consideration of a resolution in the House of Representatives shall be governed by the Rules of the House of Representatives applicable to other resolutions in similar circumstances.
 
 #### (e) Floor consideration in the Senate
 

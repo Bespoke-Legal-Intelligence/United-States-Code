@@ -16,7 +16,7 @@ Non-Federal interests are authorized to undertake shoreline protection projects 
 
 #### (c) Completion of studies
 
-The Secretary is authorized to complete and transmit to the appropriate non-Federal interests any study for shoreline protection which was initiated before October 31, 1992, or, upon the request of such non-Federal interest, to terminate the study and transmit the partially completed study to the non-Federal interest for completion. Studies subject to this subsection shall be completed without regard to the requirements of subsection (b) of this section.
+The Secretary is authorized to complete and transmit to the appropriate non-Federal interests any study for shoreline protection which was initiated before October 31, 1992, or, upon the request of such non-Federal interest, to terminate the study and transmit the partially completed study to the non-Federal interest forcompletion. Studies subject to this subsection shall be completed without regard to the requirements of subsection (b) of this section.
 
 #### (d) Authority to carry out improvement
 

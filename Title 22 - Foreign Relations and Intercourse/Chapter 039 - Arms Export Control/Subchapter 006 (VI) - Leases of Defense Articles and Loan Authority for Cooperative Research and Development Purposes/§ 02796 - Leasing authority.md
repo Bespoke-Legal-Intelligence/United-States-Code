@@ -40,7 +40,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (c), is Pub. L. 87–
 
 #### Codification
 
-Amendment by Pub. L. 102–145 is based on section 545 of H.R. 2621, One Hundred Second Congress, 1st Session, as passed by the House of Representatives on June 19, 1991, which was enacted into law by Pub. L. 102–145, §118, as added by Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93. Section 118 of Pub. L. 102–145 provided that the authority and conditions provided in such section 545 shall be applicable to funds appropriated by Pub. L. 102–145 (and are hereby enacted) in lieu of the authority and conditions provided in section 546 of Pub. L. 101–513. See 1990, 1991, and 1992 Amendment notes below.
+Amendment by Pub. L. 102–145 is based on section 545 of H.R. 2621, One Hundred Second Congress, 1st Session,as passed by the House of Representatives on June 19, 1991, which was enacted into law by Pub. L. 102–145, §118, as added by Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93. Section 118 of Pub. L. 102–145 provided that the authority and conditions provided in such section 545 shall be applicable to funds appropriated by Pub. L. 102–145 (and are hereby enacted) in lieu of the authority and conditions provided in section 546 of Pub. L. 101–513. See 1990, 1991, and 1992 Amendment notes below.
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
@@ -64,7 +64,7 @@ Subsec. (a)(4). Pub. L. 104–164, §146, substituted “and, if the articles ar
 
 1994—Subsec. (a). Pub. L. 103–306 substituted “1995” for “1994” in par. (B).
 
-Pub. L. 103–236 struck out “and” at end of par. (2), added par. (3), redesignated former par. (3) as (4), andsubstituted “paragraph (4)” for “paragraph (3)” in two places in provisions following par. (4).
+Pub. L. 103–236 struck out “and” at end of par. (2), added par. (3), redesignated former par. (3) as (4), and substituted “paragraph (4)” for “paragraph (3)” in two places in provisions following par. (4).
 
 1993—Subsec. (a). Pub. L. 103–87 substituted “1994” for “1993” in par. (B).
 

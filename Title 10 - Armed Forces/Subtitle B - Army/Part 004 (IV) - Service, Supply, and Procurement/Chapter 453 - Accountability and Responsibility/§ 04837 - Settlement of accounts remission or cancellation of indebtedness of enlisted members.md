@@ -70,7 +70,7 @@ In subsection (d), the words “If he considers it in the best interest of the U
 
 In subsection (e), the words “member” and “his” are substituted for the words “officer or soldier”. The words “or implement” are omitted as surplusage.
 
-In subsection (f), the words “or if an article of military supply with whose issue a commissioned officer is charged is damaged” are substituted for 10:872 (last sentence). The words “that he was not at fault” are substituted for the words “that said deficiency \[such damage\] was not occasioned by any fault on his part”.
+In subsection (f), the words “or if an article of military supply with whose issue a commissioned officer ischarged is damaged” are substituted for 10:872 (last sentence). The words “that he was not at fault” are substituted for the words “that said deficiency \[such damage\] was not occasioned by any fault on his part”.
 
 In subsection (g), the words “bought on credit under section 4621(a)(1) of this title” are substituted for the words “designated by the officers of the Inspector-General's Department of the Army and purchased on credit from commissaries of subsistence”.
 

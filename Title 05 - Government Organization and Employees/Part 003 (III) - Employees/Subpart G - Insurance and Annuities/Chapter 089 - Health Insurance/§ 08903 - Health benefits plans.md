@@ -70,7 +70,7 @@ Par. (4)(C). Pub. L. 99–251, §111, added subpar. (C).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–654 applicable with respect to any calendar year beginning, and contracts entered into or renewed for any calendar year beginning, after end of 9-month period beginning Nov. 14, 1988, andwith respect to any qualifying event occurring on or after first day of first calendar year beginning after end of such 9-month period, see section 203 of Pub. L. 100–654, set out as a note under section 8902 of this title.
+Amendment by Pub. L. 100–654 applicable with respect to any calendar year beginning, and contracts entered into or renewed for any calendar year beginning, after end of 9-month period beginning Nov. 14, 1988, and with respect to any qualifying event occurring on or after first day of first calendar year beginning after end of such 9-month period, see section 203 of Pub. L. 100–654, set out as a note under section 8902 of this title.
 
 #### Effective Date of 1984 Amendment
 

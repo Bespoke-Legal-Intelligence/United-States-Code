@@ -1,6 +1,6 @@
 ### §331. Judicial Conference of the United States
 
-The Chief Justice of the United States shall summon annually the chief judge of each judicial circuit, the chief judge of the Court of International Trade, and a district judge from each judicial circuit to a conference at such time and place in the United States as he may designate. He shall preside at such conference which shallbe known as the Judicial Conference of the United States. Special sessions of the Conference may be called by the Chief Justice at such times and places as he may designate.
+The Chief Justice of the United States shall summon annually the chief judge of each judicial circuit, the chief judge of the Court of International Trade, and a district judge from each judicial circuit to a conference at such time and place in the United States as he may designate. He shall preside at such conference which shall be known as the Judicial Conference of the United States. Special sessions of the Conference may be called by the Chief Justice at such times and places as he may designate.
 
 The district judge to be summoned from each judicial circuit shall be chosen by the circuit and district judges of the circuit and shall serve as a member of the Judicial Conference of the United States for a term of not less than 3 successive years nor more than 5 successive years, as established by majority vote of all circuit and district judges of the circuit. A district judge serving as a member of the Judicial Conference may be either a judge in regular active service or a judge retired from regular active service under section 371(b) of this title.
 
@@ -138,7 +138,7 @@ Purposes.—The purposes of the Committee are to—
 
 “(a)
 
-Appointments.—The Committee shall be composed of fifteen members to be appointed by the ChiefJustice of the United States, within ten days after the effective date of this title.
+Appointments.—The Committee shall be composed of fifteen members to be appointed by the Chief Justice of the United States, within ten days after the effective date of this title.
 
 “(b)
 

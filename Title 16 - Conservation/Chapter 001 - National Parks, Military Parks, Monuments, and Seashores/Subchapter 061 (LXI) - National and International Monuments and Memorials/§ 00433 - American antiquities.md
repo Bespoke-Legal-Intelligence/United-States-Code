@@ -1,6 +1,6 @@
 ### §433. American antiquities
 
-Any person who shall appropriate, excavate, injure, or destroy any historic or prehistoric ruin or monument, or any object of antiquity, situated on lands owned or controlled by theGovernment of the United States, without the permission of the Secretary of the Department of the Government having jurisdiction over the lands on which said antiquities are situated, shall, upon conviction, be fined in a sum of not more than $500 or be imprisoned for a period of not more than ninety days, or shall suffer both fine and imprisonment, in the discretion of the court.
+Any person who shall appropriate, excavate, injure, or destroy any historic or prehistoric ruin or monument, or any object of antiquity, situated on lands owned or controlled by the Government of the United States, without the permission of the Secretary of the Department of the Government having jurisdiction over the lands on which said antiquities are situated, shall, upon conviction, be fined in a sum of not more than $500 or be imprisoned for a period of not more than ninety days, or shall suffer both fine and imprisonment, in the discretion of the court.
 
 (June 8, 1906, ch. 3060, §1, 34 Stat. 225.)
 

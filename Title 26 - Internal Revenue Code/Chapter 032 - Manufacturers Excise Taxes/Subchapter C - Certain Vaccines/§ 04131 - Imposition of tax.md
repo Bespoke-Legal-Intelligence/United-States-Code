@@ -50,7 +50,7 @@ In general.—The amount of the tax imposed by subsection (a) shall be determine
 
 &emsp;&emsp;DPT vaccine
 
-$4.56&nbsp;
+$4.56 
 
 &emsp;&emsp;DT vaccine
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Annual Reports.—Not later than the date on which the President submits the budget for a fiscal year to Congress pursuant to section 1105 of title 31, the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives a report on transfers during the preceding fiscal year from funds available for each covered budget activity.
+Annual Reports.—Not later than the date on which the President submits the budget for a fiscal year to Congress pursuant to section 1105 of title 31, the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report on transfers during the preceding fiscal year from funds available for each covered budget activity.
 
 (b)
 
@@ -90,9 +90,9 @@ Covered Budget Activity Defined.—In this section, the term “covered budget a
 
 Termination.—The requirements specified in subsections (a) and (b) shall terminate upon the submission of the annual report under subsection (a) covering fiscal year 2000.
 
-(Added Pub. L. 105–85, div. A, title III, §323(a), Nov. 18, 1997, 111 Stat. 1675.)
+(Added Pub. L. 105–85, div. A, title III, §323(a), Nov. 18, 1997, 111 Stat. 1675; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
-#### Change of Name
+#### Amendments
 
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+1999—Subsec. (a). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 

@@ -18,7 +18,7 @@
 
 (b) A defendant who has been found guilty of—
 
-&emsp;(1) an offense referred to in section 408(c)(1) of the Controlled Substances Act (21 U.S.C. 848(c)(1)), committed as part of a continuingcriminal enterprise offense under the conditions described in subsection (b) of that section which involved not less than twice the quantity of controlled substance described in subsection (b)(2)(A) or twice the gross receipts described in subsection (b)(2)(B); or
+&emsp;(1) an offense referred to in section 408(c)(1) of the Controlled Substances Act (21 U.S.C. 848(c)(1)), committed as part of a continuing criminal enterprise offense under the conditions described in subsection (b) of that section which involved not less than twice the quantity of controlled substance described in subsection (b)(2)(A) or twice the gross receipts described in subsection (b)(2)(B); or
 
 &emsp;(2) an offense referred to in section 408(c)(1) of the Controlled Substances Act (21 U.S.C. 848(c)(1)), committed as part of a continuing criminal enterprise offense under that section, where the defendant is a principal administrator, organizer, or leader of such an enterprise, and the defendant, in order to obstruct the investigation or prosecution of the enterprise or an offense involved in the enterprise, attempts to kill or knowingly directs, advises, authorizes, or assists another to attempt to kill any public officer, juror, witness, or members of the family or household of such a person,
 
@@ -28,7 +28,7 @@
 
 #### Short Title
 
-Section 60001 of title VI of Pub. L. 103–322 provided that: “This title \[enacting this chapter and sections 36, 37, 1118 to 1121, 2245, 2280, 2281, and 2332a of this title, amending sections 34, 241, 242, 245, 247, 794, 844, 924, 930, 1091, 1111, 1114, 1116, 1117, 1201, 1203, 1503, 1512, 1513, 1716, 1958, 1959, 1992, 2113, 2119, 2251, 2332, 2340A, 3005, and 3432 of this title and section 1324 of Title 8, Aliens and Nationality, renumbering former section 2245 of this title as 2246, repealing section 46503 of Title 49, Transportation, and enacting provisions set out as notes under this section and sections 36, 37, and 2280 of this title\] may be cited as the ‘Federal Death Penalty Act of 1994’.”
+Section 60001 of title VI of Pub. L. 103–322 provided that: “This title \[enacting this chapter and sections 36, 37, 1118 to 1121, 2245, 2280, 2281, and 2332a of this title, amending sections 34, 241, 242, 245, 247, 794, 844, 924, 930, 1091, 1111, 1114, 1116, 1117, 1201, 1203, 1503, 1512, 1513, 1716, 1958, 1959, 1992, 2113, 2119, 2251, 2332, 2340A, 3005, and 3432 of this title and section 1324 of Title 8, Aliens and Nationality, renumbering former section 2245 of this title as 2246, repealing section 46503 of Title 49, Transportation, and enacting provisions set out as notes underthis section and sections 36, 37, and 2280 of this title\] may be cited as the ‘Federal Death Penalty Act of 1994’.”
 
 #### Applicability to Uniform Code of Military Justice
 

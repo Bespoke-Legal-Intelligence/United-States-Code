@@ -4,9 +4,19 @@ The term of four years for which a President and Vice President shall be elected
 
 (June 25, 1948, ch. 644, 62 Stat. 678.)
 
-#### Old Executive Office Building
+#### Dwight D. Eisenhower Executive Office Building
 
-Pub. L. 100–461, title V, §590, Oct. 1, 1988, 102 Stat. 2268–52, provided that:
+Pub. L. 106–92, Nov. 9, 1999, 113 Stat. 1309, provided that:
+
+#### “SECTION 1. DESIGNATION OF DWIGHT D. EISENHOWER EXECUTIVE OFFICE BUILDING.
+
+“The Old Executive Office Building located at 17th Street and Pennsylvania Avenue, NW, in Washington, District of Columbia, shall be known and designated as the ‘Dwight D. Eisenhower Executive Office Building’.
+
+#### “SEC. 2. REFERENCES.
+
+“Any reference in a law, map, regulation, document, paper, or other record of the United States to the building referred to in section 1 shall be deemed to be a reference to the ‘Dwight D. Eisenhower Executive Office Building’.”
+
+Pub. L. 100–461, title V, §590, Oct. 1, 1988, 102 Stat. 2268–52, as amended by Pub. L. 106–92, §2, Nov. 9, 1999, 113 Stat. 1309, provided that:
 
 “(a)
 
@@ -16,7 +26,7 @@ Acceptance of Gifts of Money and Property.—The Director of the Office of Admin
 
 &emsp;“(2) accept and utilize voluntary and uncompensated services;
 
-> for the purpose of aiding, benefiting, or facilitating the work of preservation, restoration, renovation, rehabilitation, or historic furnishing of the Old Executive Office Building and the grounds thereof.
+> for the purpose of aiding, benefiting, or facilitating the work of preservation, restoration, renovation, rehabilitation, or historic furnishing of the Dwight D. Eisenhower Executive Office Building and the grounds thereof.
 
 “(b)
 

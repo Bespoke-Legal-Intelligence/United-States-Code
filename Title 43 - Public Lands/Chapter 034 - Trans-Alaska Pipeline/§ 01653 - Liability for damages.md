@@ -2,7 +2,7 @@
 
 #### (a) Activities along or in vicinity of pipeline right-of-way; strict liability; limitation on liability; subrogation; emergency subsistence and other aid; exemption for State of Alaska
 
-(1) Except when the holder of the pipeline right-of-way granted pursuant to this chapter can prove that damages in connection with or resulting from activities along or in the vicinity of the proposed trans-Alaskan pipeline right-of-way were caused solely by an act of war or negligence of the United States, other government entity, or the damaged party, such holder shall be strictly liable to all damaged parties, public or private, without regard to fault for such damages, and without regard to ownership of any affected lands, structures, fish, wildlife, or biotic or other natural resources relied upon by Alaska Natives, Native organizations, or others for subsistence or economic purposes. Claims for such injury or damages may be determined by arbitration or judicial proceedings.
+(1) Except when the holder of the pipeline right-of-way granted pursuant to this chaptercan prove that damages in connection with or resulting from activities along or in the vicinity of the proposed trans-Alaskan pipeline right-of-way were caused solely by an act of war or negligence of the United States, other government entity, or the damaged party, such holder shall be strictly liable to all damaged parties, public or private, without regard to fault for such damages, and without regard to ownership of any affected lands, structures, fish, wildlife, or biotic or other natural resources relied upon by Alaska Natives, Native organizations, or others for subsistence or economic purposes. Claims for such injury or damages may be determined by arbitration or judicial proceedings.
 
 (2) Liability under paragraph (1) of this subsection shall be limited to $350,000,000 for any one incident, and the holders of the right-of-way or permit shall be liable for any claim allowed in proportion to their ownership interest in the right-of-way or permit. Liability of such holders for damages in excess of $350,000,000 shall be in accord with ordinary rules of negligence.
 
@@ -84,7 +84,7 @@ If any area in the State of Alaska within or without the right-of-way or permit 
 
 Section 1321(p) of title 33, referred to in subsec. (c)(3), was repealed by Pub. L. 101–380, title II, §2002(b)(4), Aug. 18, 1990, 104 Stat. 507.
 
-The Oil Pollution Act of 1990, referred to in subsec. (c)(14), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§2701 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 33 and Tables.
+The Oil Pollution Act of 1990, referred to in subsec. (c)(14), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484,which is classified principally to chapter 40 (§2701 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 33 and Tables.
 
 #### Amendments
 
@@ -126,7 +126,7 @@ Pub. L. 105–277, div. A, §101(g) \[title III, §329(a), (b)\], Oct. 21, 1998,
 
 “(a)
 
-Transfer of Funds.—Notwithstanding any other provision of law, the remainder of the balance inthe Trans-Alaska Pipeline Liability Fund that is transferred and deposited into the Oil Spill Liability Trust Fund under section 8102(a)(2)(B)(ii) of the Oil Pollution Act of 1990 (43 U.S.C. 1653 note) after June 16, 1998 shall be used in accordance with this section.
+Transfer of Funds.—Notwithstanding any other provision of law, the remainder of the balance in the Trans-Alaska Pipeline Liability Fund that is transferred and deposited into the Oil Spill Liability Trust Fund under section 8102(a)(2)(B)(ii) of the Oil Pollution Act of 1990 (43 U.S.C. 1653 note) after June 16, 1998 shall be used in accordance with this section.
 
 “(b)
 
@@ -166,7 +166,7 @@ Section 8102(a)(5)(B) of Pub. L. 101–380 provided that: “Upon the effective 
 
 #### Preservation of Rights and Remedies of Contributors to TAPS Fund
 
-Section 8102(a)(6) provided that: “This subsection \[amending this section and enacting provisions set out as notes above\] is intended expressly to preserve any and all rights and remedies of contributors to the TAPS Fund under section 1491 of title 28, United States Code (commonly referred to as the ‘Tucker Act’).”
+Section 8102(a)(6) provided that: “This subsection \[amending this section and enacting provisions set out as notes above\] is intended expressly to preserve anyand all rights and remedies of contributors to the TAPS Fund under section 1491 of title 28, United States Code (commonly referred to as the ‘Tucker Act’).”
 
 #### Section Referred to in Other Sections
 

@@ -22,7 +22,7 @@ Section 104 represents a compromise between the House bill and the Senate amendm
 
 #### senate report no. 95–989
 
-This section requires that the Director of the Administrative Office of the U. S. Courts report to Congress and the President before Oct. 1, 1985, and before May 1 every 6 years thereafter a recommendation for adjustment in dollar amounts found in this title. The Committee feels that regular adjustment of the dollar amounts by the Director will conserve congressional time and yet assure that the relative dollar amounts used in the bill are maintained. Changes in the cost of living should be a significant, but not necessarily the only, factor considered by the Director. The fact that there has been an increase in the cost of living does not necessarily mean that an adjustment of dollar amounts would be needed or warranted.
+This section requires that the Director of the Administrative Office of the U. S. Courts report to Congress and the President before Oct. 1, 1985, and before May 1 every 6 years thereafter a recommendation for adjustment in dollar amounts found in this title. The Committee feels that regular adjustment of the dollaramounts by the Director will conserve congressional time and yet assure that the relative dollar amounts used in the bill are maintained. Changes in the cost of living should be a significant, but not necessarily the only, factor considered by the Director. The fact that there has been an increase in the cost of living does not necessarily mean that an adjustment of dollar amounts would be needed or warranted.
 
 #### house report no. 95–595
 
@@ -37,4 +37,32 @@ If the Judicial Conference has policy recommendations concerning the appropriate
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+
+#### Adjustment of Dollar Amounts
+
+By notice dated Feb. 3, 1998, 63 F.R. 7179, the Judicial Conference of the United States adjusted the dollar amounts in provisions specified in subsec. (b) of this section, effective Apr. 1, 1998, as follows:
+
+&nbsp;
+
+| 11 U.S.C. | Dollar amount to be adjusted | New (adjusted) dollar amount |
+| :--- | :---: | ---: |
+| Section 109(e)—allowable debt limits for filing bankruptcy under Chapter 13 | $250,000 (each time it appears)750,000 (each time it appears) | $269,250 (each time it appears).807,750 (each time it appears). |
+| Section 303(b)—minimum aggregate claims needed for the commencement of an involuntary bankruptcy: |  |  |
+| (1)—in paragraph (1) | 10,000 | 10,775. |
+| (2)—in paragraph (2) | 10,000 | 10,775. |
+| Section 507(a)—priority claims: |  |  |
+| (1)—in paragraph (3) | 4,000 | 4,300. |
+| (2)—in paragraph (4)(B)(i) | 4,000 | 4,300. |
+| (3)—in paragraph (5) | 4,000 | 4,300. |
+| (4)—in paragraph (6) | 1,800 | 1,950. |
+| Section 522(d)—value of property exemptions allowed to the debtor: |  |  |
+| (1)—in paragraph (1) | 15,000 | 16,150. |
+| (2)—in paragraph (2) | 2,400 | 2,575. |
+| (3)—in paragraph (3) | 4008,000 | 4258,625. |
+| (4)—in paragraph (4) | 1,000 | 1,075. |
+| (5)—in paragraph (5) | 8007,500 | 8508,075. |
+| (6)—in paragraph (6) | 1,500 | 1,625. |
+| (7)—in paragraph (8) | 8,000 | 8,625. |
+| (8)—in paragraph (11)(D) | 15,000 | 16,150. |
+| Section 523(a)(2)(C)—“luxury goods and services” or cash advances obtained by the consumer debtor within 60 days before the filing of a bankruptcy petition, which are considered nondischargeable. | 1,000 (each time it appears) | 1,075 (each time it appears). |
 

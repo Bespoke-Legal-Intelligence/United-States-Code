@@ -20,7 +20,7 @@ Shall be fined under this title or imprisoned not more than five years, or both.
 
 Based on subsections (a), paragraphs (1), (16), (17), (19), (32), (b), (d), and (<i>l</i>) of section 746 of title 8, U.S.C., 1940 ed., Aliens and Nationality (Oct. 14, 1940, ch. 876, §346(a), pars. (1), (16), (17), (19), (32), (b), (d), and (<i>l</i>), 45 Stat. 1163, 1165, 1167).
 
-Section consolidates, with minor changes, subsection (a), paragraphs (1), (16), (17), (19), (32), and subsections (b), (d), and (<i>l</i>), of section 746 of title 8, U.S.C., 1940 ed., Aliens and Nationality.
+Section consolidates, with minor changes, subsection (a), paragraphs (1), (16), (17), (19), (32), and subsections\(b), (d), and (<i>l</i>), of section 746 of title 8, U.S.C., 1940 ed., Aliens and Nationality.
 
 Such changes of arrangement and phraseology were made as were appropriate and necessary.
 

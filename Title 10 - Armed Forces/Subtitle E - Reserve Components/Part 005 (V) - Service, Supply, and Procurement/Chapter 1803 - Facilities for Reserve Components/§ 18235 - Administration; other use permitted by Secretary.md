@@ -1,6 +1,6 @@
 ### §18235. Administration; other use permitted by Secretary
 
-(a) The Secretary of Defense, after consulting the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives on matters of policy, may—
+(a) The Secretary of Defense, after consulting the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives on matters of policy, may—
 
 &emsp;(1) administer, operate, maintain, and equip facilities constructed, expanded, rehabilitated, or converted under section 18233 of this title or otherwise acquired and used for the purposes of this chapter;
 
@@ -14,7 +14,7 @@
 
 &emsp;(2) in time of war or national emergency, by other units of the armed forces or by the United States for any other purpose.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 122, §2235; renumbered §18235 and amended Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (7), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 122, §2235; renumbered §18235 and amended Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (7), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 Historical and Revision Notes
 
@@ -40,15 +40,13 @@ In subsection (b), the words “United States” are substituted for the words �
 
 #### Amendments
 
+1999—Subsec. (a). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
+
 1996—Subsec. (a). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
 
 1994—Pub. L. 103–337, §1664(b)(2), renumbered section 2235 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 103–337, §1664(b)(7), substituted “18233” for “2233(a)(1)”.
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1994 Amendment
 

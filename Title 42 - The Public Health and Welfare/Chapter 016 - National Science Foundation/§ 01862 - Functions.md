@@ -36,7 +36,7 @@ In exercising the authority and discharging the functions referred to in the for
 
 #### (f) Annual report to the President and Congress
 
-The Foundation shall render an annual report to the President for submission on or before the 15th day of April of each year to the Congress summarizing the activities of the Foundation and making such recommendations as it maydeem appropriate. Such report shall include information as to the acquisition and disposition by the Foundation of any patents and patent rights.
+The Foundation shall render an annual report to the President for submission on or before the 15th day of April of each year to the Congress summarizing the activities of the Foundation and making such recommendations as it may deem appropriate. Such report shall include information as to the acquisition and disposition by the Foundation of any patents and patent rights.
 
 #### (g) Support of access to computer networks
 
@@ -104,7 +104,7 @@ Subsec. (b). Pub. L. 90–407 redesignated former subsec. (a)(3) as (b) and subs
 
 Subsec. (c). Pub. L. 90–407 added subsec. (c). Former subsec. (c) redesignated (f).
 
-Subsec. (d). Pub. L. 90–407 redesignated former subsec. (a)(1) as (d) and substituted provisions authorizing theBoard and the Director to recommend and encourage national policies promoting basic research and education in the sciences for provisions authorizing and directing the Foundation to develop and encourage such policies.
+Subsec. (d). Pub. L. 90–407 redesignated former subsec. (a)(1) as (d) and substituted provisions authorizing the Board and the Director to recommend and encourage national policies promoting basic research and education in the sciences for provisions authorizing and directing the Foundation to develop and encourage such policies.
 
 Subsec. (e). Pub. L. 90–407 redesignated former subsec. (b) as (e), substituted “the foregoing subsections” for “subsection (a) of this section”, “strengthen research” for “strengthen basic research”, and struck out reference to the territories and possessions of the United States.
 
@@ -182,7 +182,7 @@ Section 5 of Pub. L. 95–99 provided that:
 
 &emsp;“(5) new and existing programs using radio or television to increase public understanding of public policy issues with significant scientific and technical components; and
 
-&emsp;“(6) bona fide public interest groups to acquire necessary scientific and technical expertise relating tothe scientific and technical aspects of public policy issues and to enable such groups to bring together in appropriate forums experts whose research has been directed to the resolution of such issues.”
+&emsp;“(6) bona fide public interest groups to acquire necessary scientific and technical expertise relating to the scientific and technical aspects of public policy issues and to enable such groups to bring together in appropriate forums experts whose research has been directed to the resolution of such issues.”
 
 #### Establishment of “Science for Citizens Program” Conducted in Conjunction With “Public Understanding of Science Program”
 
@@ -204,7 +204,7 @@ Section 5 of Pub. L. 94–471 provided that:
 
 “(c) No contract, grant or other arrangement shall be made under this Section without the prior approval of the National Science Board.
 
-“(d) To assist the Congress in evaluating activities initiated pursuant to this Section, the Director of the National Science Foundation, in consultation with a review panel having a balanced representation from the scientific and nonscientific community and the public and private sectors, is directed to prepare a comprehensive analysis and assessment of such activities to be submitted to the House Committee on Science and Technology and the Senate Committee on Labor and Public Welfare \[now the Committee on Labor and Human Resources\], not later than October 31, 1977. An interim report is required no later than March 1, 1977.”
+“(d) To assist the Congress in evaluating activities initiated pursuant to this Section, the Director of the National Science Foundation, in consultation with a review panel having a balanced representation from the scientific and nonscientific community and the publicand private sectors, is directed to prepare a comprehensive analysis and assessment of such activities to be submitted to the House Committee on Science and Technology and the Senate Committee on Labor and Public Welfare \[now the Committee on Labor and Human Resources\], not later than October 31, 1977. An interim report is required no later than March 1, 1977.”
 
 #### Development of Program Plan for Continuing Education in Science and Engineering
 
@@ -286,7 +286,7 @@ Ex. Ord. No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended Ex. Ord. No. 11381, 
 
 #### Abolition of Federal Council for Science and Technology
 
-Pub. L. 94–282, title IV, §402, May 11, 1976, 90 Stat. 472, provided that: “The Federal Council for Science andTechnology, established pursuant to Executive Order No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended by Executive Order No. 11381, Nov. 8, 1967, 32 F.R. 15629, is hereby abolished.”
+Pub. L. 94–282, title IV, §402, May 11, 1976, 90 Stat. 472, provided that: “The Federal Council for Science and Technology, established pursuant to Executive Order No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended by Executive Order No. 11381, Nov. 8, 1967, 32 F.R. 15629, is hereby abolished.”
 
 #### Section Referred to in Other Sections
 

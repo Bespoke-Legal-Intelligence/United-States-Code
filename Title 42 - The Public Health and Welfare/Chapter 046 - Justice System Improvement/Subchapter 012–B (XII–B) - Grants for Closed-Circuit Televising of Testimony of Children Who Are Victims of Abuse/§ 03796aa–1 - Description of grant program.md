@@ -8,6 +8,10 @@ The Director is authorized to make grants to provide equipment and personnel tra
 
 1994—Pub. L. 103–322 struck out “to States, for the use of States and units of local government in the States” after “make grants”.
 
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3796aa–2, 3796aa–3, 3796aa–6 of this title.

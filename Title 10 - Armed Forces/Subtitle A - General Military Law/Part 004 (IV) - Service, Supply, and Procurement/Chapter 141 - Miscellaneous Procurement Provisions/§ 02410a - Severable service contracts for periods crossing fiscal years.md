@@ -8,7 +8,7 @@ Authority.—The Secretary of Defense, the Secretary of a military department, o
 
 Obligation of Funds.—Funds made available for a fiscal year may be obligated for the total amount of a contract entered into under the authority of subsection (a).
 
-(Added Pub. L. 100–370, §1(h)(2), July 19, 1988, 102 Stat. 847; amended Pub. L. 102–190, div. A, title III, §342, Dec. 5, 1991, 105 Stat. 1343; Pub. L. 104–324, title II, §214(b), Oct. 19, 1996, 110 Stat.3915; Pub. L. 105–85, div. A, title VIII, §801(a), Nov. 18, 1997, 111 Stat. 1831.)
+(Added Pub. L. 100–370, §1(h)(2), July 19, 1988, 102 Stat. 847; amended Pub. L. 102–190, div. A, title III, §342, Dec. 5, 1991, 105 Stat. 1343; Pub. L. 104–324, title II, §214(b), Oct. 19, 1996, 110 Stat. 3915; Pub. L. 105–85, div. A, title VIII, §801(a), Nov. 18, 1997, 111 Stat. 1831.)
 
 #### Historical and Revision Notes
 

@@ -13,6 +13,10 @@
 
 1997—Pub. L. 105–85, div. A, title III, §350(b), Nov. 18, 1997, 111 Stat. 1692, added item 2378.
 
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in title 42 sections 14713, 14715, 14732.
+
 
 ---
 

@@ -2,7 +2,7 @@
 
 #### (a) Assistance to Administrator
 
-Each department, agency, and instrumentality of the executive branch of the Federal Government and each independent regulatory agency of the United States is authorized and directed to furnish to the Administrator, upon written request, on a reimbursable basis or otherwise, such assistance as the Administrator deems necessary to carry out his functions and duties pursuant to this chapter, including, but not limited to, transfer of personnel with theirconsent and without prejudice to their position and ratings.
+Each department, agency, and instrumentality of the executive branch of the Federal Government and each independent regulatory agency of the United States is authorized and directed to furnish to the Administrator, upon written request, on a reimbursable basis or otherwise, such assistance as the Administrator deems necessary to carry out his functions and duties pursuant to this chapter, including, but not limited to, transfer of personnel with their consent and without prejudice to their position and ratings.
 
 #### (b) Powers of Administrator
 

@@ -90,7 +90,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 &emsp;(2) for purposes of section 481(a)(2), such change shall be treated as a change not initiated by the taxpayer, and
 
-&emsp;(3) under regulations prescribed by the Secretary, the net amount of adjustments required by section 481(a) to be taken into account by the taxpayer in computing taxable income shall be taken into account in each of the 10 taxable years (or the remaining taxable years where there is a stated future life of lessthan 10 taxable years) beginning with the year of change.
+&emsp;(3) under regulations prescribed by the Secretary, the net amount of adjustments required by section 481(a) to be taken into account by the taxpayer in computing taxable income shall be taken into account in each of the 10 taxable years (or the remaining taxable years where there is a stated future life of less than 10 taxable years) beginning with the year of change.
 
 #### (g) Certain annual accrual accounting methods
 
@@ -188,7 +188,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### (1) In general
 
-&emsp;If any family corporation is required by this section to change its method of accounting for any taxable year (hereinafter in this subsection referred to as the “year of the change”), notwithstanding subsection (f), such corporation shall establish a suspense account under this subsection in lieu of taking into account adjustments under section 481(a) with respect to amounts included in the suspense account.
+&emsp;If any family corporation is required by this section to change its method of accounting for any taxable year (hereinafter in this subsection referred to as the “year of the change”), notwithstanding subsection (f), such corporation shall establish a suspense accountunder this subsection in lieu of taking into account adjustments under section 481(a) with respect to amounts included in the suspense account.
 
 #### (2) Initial opening balance
 
@@ -250,7 +250,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### (D) Amounts after 20th year
 
-&emsp;&emsp;Any amount in the account as of the close of the 20th year referred to in subparagraph\(C) shall be treated as the applicable portion for each succeeding year thereafter to the extent not reduced under this paragraph for any prior taxable year after such 20th year.
+&emsp;&emsp;Any amount in the account as of the close of the 20th year referred to in subparagraph (C) shall be treated as the applicable portion for each succeeding year thereafter to the extent not reduced under this paragraph for any prior taxable year after such 20th year.
 
 (Added Pub. L. 94–455, title II, §207(c)(1)(A), Oct. 4, 1976, 90 Stat. 1538; amended Pub. L. 95–600, title III, §§351(a), 353(a), title VII, §§701(<i>l</i>)(1), 703(d), Nov. 6, 1978, 92 Stat. 2846, 2847, 2906, 2939; Pub. L. 97–248, title II, §230(a), Sept. 3, 1982, 96 Stat. 495; Pub. L. 97–354, §5(a)(28), (29), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 99–514, title VIII, §803(b)(7), Oct. 22, 1986, 100 Stat. 2356; Pub. L. 100–203, title X, §10205(a)–(c), Dec. 22, 1987, 101 Stat. 1330–395 to 1330–397; Pub. L. 100–647, title I, §1008(b)(5), (6), Nov. 10, 1988, 102 Stat. 3438; Pub. L. 101–508, title XI, §11702(b), Nov. 5, 1990, 104 Stat. 1388–514; Pub. L. 105–34, title X, §1081(a), Aug. 5, 1997, 111 Stat. 949.)
 
@@ -424,7 +424,7 @@ Section 701(<i>l</i>)(2) of Pub. L. 95–600 provided that: “If—
 
 &emsp;“(B) such syndicate elects an accrual method of accounting (including the capitalization of preproductive period expenses described in section 447(b) of such Code) for a taxable year beginning before January 1, 1979,
 
-> then such election shall be treated as having been made with the consent of the Secretary of the Treasury or his delegate and, under regulations prescribed by the Secretary of the Treasury or his delegate, the net amount of the adjustments required by section 481(a) of such Code to be taken into account by the taxpayer in computing taxable income shall be taken into accountin each of the 10 taxable years (or the remaining taxable years where there is a stated future life of less than 10 taxable years) beginning with the year of change.”
+> then such election shall be treated as having been made with the consent of the Secretary of the Treasury or his delegate and, under regulations prescribed by the Secretary of the Treasury or his delegate, the net amount of the adjustments required by section 481(a) of such Code to be taken into account by the taxpayer in computing taxable income shall be taken into account in each of the 10 taxable years (or the remaining taxable years where there is a stated future life of less than 10 taxable years) beginning with the year of change.”
 
 #### Election To Change From Static Value Method to Accrual Method of Accounting
 
@@ -444,7 +444,7 @@ In general.—If—
 
 &emsp;“(B)
 
-Coordination with section 447 of the code.—A corporation which elects under subparagraph (A) to change to the annual accrual method of accounting shall, for purposes of section 447(g) of the Internal Revenue Code of 1986, be deemed to be a corporation which has computed its taxable income on an annual accrual method of accounting for its 10 taxable years ending with its first taxable year beginning after December 31, 1975.
+Coordination with section 447 of the code.—A corporation which elects under subparagraph (A) to change to the annual accrual method of accountingshall, for purposes of section 447(g) of the Internal Revenue Code of 1986, be deemed to be a corporation which has computed its taxable income on an annual accrual method of accounting for its 10 taxable years ending with its first taxable year beginning after December 31, 1975.
 
 &emsp;“(C)
 

@@ -34,7 +34,7 @@ For the purposes of subsection (d) of this section—
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–354, §293(b)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec.\(b) which read as follows: “The Secretary shall maintain within the Department of Agriculture a separate enforcement unit to administer and enforce subchapter II of this chapter.”
+1994—Subsec. (b). Pub. L. 103–354, §293(b)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The Secretary shall maintain within the Department of Agriculture a separate enforcement unit to administer and enforce subchapter II of this chapter.”
 
 Subsec. (c). Pub. L. 103–437, which directed the amendment of subsec. (d) by substituting “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”, was executed by making the amendment to subsec. (c) to reflect the probable intent of Congress and the intervening redesignation of subsec. (d) as (c) by Pub. L. 103–354. See below.
 

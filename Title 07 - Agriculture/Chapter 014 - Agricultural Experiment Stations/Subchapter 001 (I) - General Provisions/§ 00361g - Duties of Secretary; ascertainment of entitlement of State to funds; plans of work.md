@@ -52,7 +52,7 @@ Section was formerly classified to section 379 of this title. See section 361h o
 
 1998—Pub. L. 105–185, §202(b), inserted section catchline, designated existing provisions as subsecs. (a) to (c), inserted subsec. headings, and added subsecs. (d) to (g).
 
-Pub. L. 105–185, §103(f)(2), struck out at end “If the Secretary of Agriculture shall withhold from any State any portion of the appropriations available for allotment, the facts and reasons therefor shall be reported to the President and the amount involved shall be kept separate in the Treasury until the close of the next Congress. If the next Congress shall not direct such sum to be paid, it shall be carried to surplus.”
+Pub. L. 105–185, §103(f)(2), struck out at end “If the Secretary of Agriculture shall withhold from any State any portion of the appropriations available for allotment, the facts and reasons therefor shall be reported to the President and the amount involved shall be keptseparate in the Treasury until the close of the next Congress. If the next Congress shall not direct such sum to be paid, it shall be carried to surplus.”
 
 1976—Pub. L. 94–273 substituted “October” for “July” in second par.
 

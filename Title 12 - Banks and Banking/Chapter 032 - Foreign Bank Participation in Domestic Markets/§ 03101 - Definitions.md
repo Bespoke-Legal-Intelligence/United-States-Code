@@ -14,7 +14,7 @@ For the purposes of this chapter—
 
 &emsp;(6) “Federal branch” means a branch of a foreign bank established and operating under section 3102 of this title;
 
-&emsp;(7) “foreign bank” means any company organized under the laws of a foreign country, a territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands, which engages in the business of banking, or any subsidiary or affiliate, organized under such laws, of any such company. For the purposes of this chapter the term “foreign bank” includes, without limitation, foreign commercial banks, foreign merchant banks and other foreign institutions that engage in banking activities usual in connection with the business of banking in the countries where such foreign institutions are organized or operating;
+&emsp;(7) “foreign bank” means any company organized under the laws of a foreign country, a territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands, which engages in the business of banking, or any subsidiary or affiliate, organized under such laws, of any such company. For the purposes of this chapter the term “foreign bank”includes, without limitation, foreign commercial banks, foreign merchant banks and other foreign institutions that engage in banking activities usual in connection with the business of banking in the countries where such foreign institutions are organized or operating;
 
 &emsp;(8) “foreign country” means any country other than the United States, and includes any colony, dependency, or possession of any such country;
 
@@ -30,13 +30,13 @@ For the purposes of this chapter—
 
 &emsp;(14) “consolidated” means consolidated in accordance with generally accepted accounting principles in the United States consistently applied;
 
-&emsp;(15) the term “representative office” means any office of a foreign bank which is located in any State and is not a Federal branch, Federal agency, State branch, State agency, or subsidiary of a foreign bank;
+&emsp;(15) the term “representative office” means any office of a foreign bank which is located in any State and is not a Federal branch, Federal agency, State branch, or State agency;
 
 &emsp;(16) the term “office” means any branch, agency, or representative office; and
 
 &emsp;(17) the term “State bank supervisor” has the meaning given to such term in section 1813 of this title.
 
-(Pub. L. 95–369, §1(b), Sept. 17, 1978, 92 Stat. 607; Pub. L. 102–242, title II, §202(e), Dec. 19, 1991, 105 Stat. 2290.)
+(Pub. L. 95–369, §1(b), Sept. 17, 1978, 92 Stat. 607; Pub. L. 102–242, title II, §202(e), Dec. 19, 1991, 105 Stat. 2290; Pub. L. 106–102, title I, §142(a), Nov. 12, 1999, 113 Stat. 1384.)
 
 #### References in Text
 
@@ -46,13 +46,19 @@ The Bank Holding Company Act of 1956, referred to in par. (13), is act May 9, 19
 
 #### Amendments
 
+1999—Par. (15). Pub. L. 106–102 substituted “or State agency;” for “State agency, or subsidiary of a foreign bank;”.
+
 1991—Par. (13). Pub. L. 102–242, §202(e)(1), inserted reference to affiliate after first reference to “the terms”.
 
 Pars. (15) to (17). Pub. L. 102–242, §202(e)(2), added pars. (15) to (17).
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as a note under section 24 of this title.
+
 #### Short Title of 1991 Amendment
 
-Section 201 of Pub. L. 102–242 provided that: “This subtitle \[subtitle A (§§201–215) of title II of Pub. L. 102–242, enacting sections 3109 to 3111 of this title, amending this section and sections 1467a, 1817, 1820, 1842, 2803, 2804, 3102, 3104 to 3108, and 4009 of this title and sections 44, 57a, 1607, 1681s, 1691c, 1692<i>l</i>, and 1693<i>o</i> of Title 15, Commerce and Trade, and enacting provisionsset out as a note under section 3102 of this title\] may be cited as the ‘Foreign Bank Supervision Enhancement Act of 1991’.”
+Section 201 of Pub. L. 102–242 provided that: “This subtitle \[subtitle A (§§201–215) of title II of Pub. L. 102–242, enacting sections 3109 to 3111 of this title, amending this section and sections 1467a, 1817, 1820, 1842, 2803, 2804, 3102, 3104 to 3108, and 4009 of this title and sections 44, 57a, 1607, 1681s, 1691c, 1692<i>l</i>, and 1693<i>o</i> of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 3102 of this title\] may be cited as the ‘Foreign Bank Supervision Enhancement Act of 1991’.”
 
 #### Short Title
 
@@ -90,7 +96,7 @@ Sec. 902. The Board of Governors of the Federal Reserve System, the Comptroller 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 347d, 1813, 1817, 1828, 2804, 4009, 4402 of this title; title 15 sections 57a, 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>; title 18 sections 20, 212, 213, 648, 655, 1004, 1014, 1030, 1906, 1956, 2113; title 31 section 5313.
+This section is referred to in sections 347d, 1813, 1817, 1828, 1843, 2804, 4009, 4402 of this title; title 15 sections 57a, 78c, 78q, 80a–2, 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 6805; title 18 sections 20, 212, 213, 648, 655, 1004, 1014, 1030, 1906, 1956, 2113; title 31 section 5313.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should follow the quotation marks.</i>
 

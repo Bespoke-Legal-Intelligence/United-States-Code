@@ -6,7 +6,7 @@ The Secretary is authorized to develop and implement a program to share the cost
 
 #### (b) Cooperative agreements
 
-To implement the program under this section, the Secretary is authorized to enter into cooperative agreements with non-Federal public and private entities to provide for operation and management of recreation facilities and natural resources at civil works projects under the Secretary's jurisdiction where such facilities and resources are being maintained at complete Federal expense.
+To implement the program under this section, the Secretary is authorized to enter into cooperative agreements with non-Federal public andprivate entities to provide for operation and management of recreation facilities and natural resources at civil works projects under the Secretary's jurisdiction where such facilities and resources are being maintained at complete Federal expense.
 
 #### (c) Contributions
 
@@ -24,7 +24,7 @@ Section was enacted as part of the Water Resources Development Act of 1992, and 
 
 #### Recreation Partnership Initiative
 
-Section 519 of Pub. L. 104–303 provided that:
+Section 519 of Pub. L. 104–303, as amended by Pub. L. 106–53, title III, §350(a), Aug. 17, 1999, 113 Stat. 310, provided that:
 
 “(a)
 
@@ -43,6 +43,10 @@ Recreation infrastructure improvements.—In determining the feasibility of the 
 Agreement.—The Secretary shall enter into an agreement with an appropriate non-Federal public entity to ensure that the infrastructure improvements constructed by the Secretary on non-project lands pursuant to paragraph (1) are transferred to and operated and maintained by the non-Federal public entity.
 
 &emsp;“(3)
+
+Engineering and design services.—The Secretary may perform engineering and design services for project infrastructure expected to be associated with the development of the site at Raystown Lake, Hesston, Pennsylvania.
+
+&emsp;“(4)
 
 Authorization of appropriations.—There is authorized to be appropriated to carry out this subsection $3,000,000.
 

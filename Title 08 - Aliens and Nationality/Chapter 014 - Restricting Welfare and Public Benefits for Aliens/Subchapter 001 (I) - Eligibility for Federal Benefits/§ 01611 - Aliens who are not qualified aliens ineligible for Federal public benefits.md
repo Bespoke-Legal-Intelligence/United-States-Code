@@ -32,7 +32,7 @@ Notwithstanding any other provision of law and except as provided in subsection 
 
 &emsp;(A) any grant, contract, loan, professional license, or commercial license provided by an agency of the United States or by appropriated funds of the United States; and
 
-&emsp;(B) any retirement, welfare, health, disability, public or assisted housing, postsecondary education, food assistance, unemployment benefit, or any other similar benefit for whichpayments or assistance are provided to an individual, household, or family eligibility unit by an agency of the United States or by appropriated funds of the United States.
+&emsp;(B) any retirement, welfare, health, disability, public or assisted housing, postsecondary education, food assistance, unemployment benefit, or any other similar benefit for which payments or assistance are provided to an individual, household, or family eligibility unit by an agency of the United States or by appropriated funds of the United States.
 
 (2) Such term shall not apply—
 
@@ -50,7 +50,7 @@ The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 5
 
 The Housing Act of 1949, referred to in subsec. (b)(1)(E), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
-The Railroad Retirement Act of 1974, referred to in subsec. (b)(4), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (b)(4), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Forfurther details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 The Railroad Unemployment Insurance Act, referred to in subsec. (b)(4), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
 

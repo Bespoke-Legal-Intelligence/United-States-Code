@@ -92,11 +92,11 @@ As used in this subchapter:
 
 &emsp;(28) The term “basic Phase II allowance allocations” means:
 
-&emsp;&emsp;(A) For calendar years 2000 through 2009 inclusive, allocations of allowances made by the Administrator pursuant to section 7651b of this title and subsections (b)(1), (3), and\(4); (c)(1), (2), (3), and (5); (d)(1), (2), (4), and (5); (e); (f); (g)(1), (2), (3), (4), and (5); (h)(1); (i) and (j) of section 7651d of this title.
+&emsp;&emsp;(A) For calendar years 2000 through 2009 inclusive, allocations of allowances made by the Administrator pursuant to section 7651b of this title and subsections (b)(1), (3), and (4); (c)(1), (2), (3), and (5); (d)(1), (2), (4), and (5); (e); (f); (g)(1), (2), (3), (4), and (5); (h)(1); (i) and (j) of section 7651d of this title.
 
 &emsp;&emsp;(B) For each calendar year beginning in 2010, allocations of allowances made by the Administrator pursuant to section 7651b of this title and subsections (b)(1), (3), and (4); (c)(1), (2), (3), and (5); (d)(1), (2), (4) and (5); (e); (f); (g)(1), (2), (3), (4), and (5); (h)(1) and (3); (i) and (j) of section 7651d of this title.
 
-&emsp;(29) The term “Phase II bonus allowance allocations” means, for calendar year 2000 through 2009, inclusive, and only for such years, allocations made by the Administrator pursuant to section 7651b of this title, subsections (a)(2), (b)(2), (c)(4), (d)(3) (except as otherwise provided therein), and (h)(2) of section 7651d of this title, and section 7651e of this title.
+&emsp;(29) The term “Phase II bonus allowance allocations” means, for calendar year 2000 through 2009, inclusive, and only for such years, allocations made by the Administratorpursuant to section 7651b of this title, subsections (a)(2), (b)(2), (c)(4), (d)(3) (except as otherwise provided therein), and (h)(2) of section 7651d of this title, and section 7651e of this title.
 
 (July 14, 1955, ch. 360, title IV, §402, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2585.)
 

@@ -46,7 +46,7 @@ As used in this subchapter:
 
 (15) The term “manufacture” means the production, preparation, propagation, compounding, or processing of a drug or other substance, either directly or indirectly or by extraction from substances of natural origin, or independently by means of chemical synthesis or by a combination of extraction and chemical synthesis, and includes any packaging or repackaging of such substance or labeling or relabeling of its container; except that such term does not include the preparation, compounding, packaging, or labeling of a drug or other substance in conformity with applicable State or local law by a practitioner as an incident to his administration or dispensing of such drug or substance in the course of his professional practice. The term “manufacturer” means a person who manufactures a drug or other substance.
 
-(16) The term “marihuana” means all parts of the plant Cannabis sativa L., whether growingor not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin. Such term does not include the mature stalks of such plant, fiber produced from such stalks, oil or cake made from the seeds of such plant, any other compound, manufacture, salt, derivative, mixture, or preparation of such mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of such plant which is incapable of germination.
+(16) The term “marihuana” means all parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin. Such term does not include the mature stalks of such plant, fiber produced from such stalks, oil or cake made from the seeds of such plant, any other compound, manufacture, salt, derivative, mixture, or preparation of such mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of such plant which is incapable of germination.
 
 (17) The term “narcotic drug” means any of the following whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis:
 
@@ -108,7 +108,7 @@ As used in this subchapter:
 
 &emsp;(ii) which has a stimulant, depressant, or hallucinogenic effect on the central nervous system that is substantially similar to or greater than the stimulant, depressant, or hallucinogenic effect on the central nervous system of a controlled substance in schedule I or II; or
 
-&emsp;(iii) with respect to a particular person, which such person represents or intends to have a stimulant, depressant, or hallucinogenic effect on the central nervous system that is substantially similar to or greater than the stimulant, depressant, or hallucinogeniceffect on the central nervous system of a controlled substance in schedule I or II.
+&emsp;(iii) with respect to a particular person, which such person represents or intends to have a stimulant, depressant, or hallucinogenic effect on the central nervous system that is substantially similar to or greater than the stimulant, depressant, or hallucinogenic effect on the central nervous system of a controlled substance in schedule I or II.
 
 (B) Such term does not include—
 
@@ -194,7 +194,7 @@ As used in this subchapter:
 
 &emsp;(J) Hydrochloric gas.
 
-(36) The term “regular customer” means, with respect to a regulated person, a customer with whom the regulated person has an established business relationship that is reported to the Attorney General.
+(36) The term “regular customer” means, with respect to a regulated person, a customer withwhom the regulated person has an established business relationship that is reported to the Attorney General.
 
 (37) The term “regular importer” means, with respect to a listed chemical, a person that has an established record as an importer of that listed chemical that is reported to the Attorney General.
 
@@ -336,7 +336,7 @@ Section 401(d) of the Comprehensive Methamphetamine Control Act of 1996, referre
 
 1997—Par. (9)(A). Pub. L. 105–115 redesignated cl. (i) as subpar. (A) and struck out cl. (ii) which read as follows: “any derivative of barbituric acid which has been designated by the Secretary as habit forming under section 352(d) of this title; or”.
 
-1996—Par. (26). Pub. L. 104–294, §607(j)(1), amended par. (26) generally. Prior to amendment, par. (26) read as follows: “The term ‘State’ means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and the Canal Zone.”
+1996—Par. (26). Pub. L. 104–294, §607(j)(1), amended par. (26) generally. Prior to amendment, par. (26) readas follows: “The term ‘State’ means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and the Canal Zone.”
 
 Par. (34)(P), (S), (U). Pub. L. 104–237, §209(1), substituted “Isosafrole” for “Insosafrole” in subpar. (P), “N-Methylephedrine” for “N-Methylepherdrine” in subpar. (S), and “Hydriodic acid” for “Hydriotic acid” in subpar. (U).
 
@@ -428,7 +428,7 @@ Par. (32). Pub. L. 99–570, §1203, added par. (32).
 
 1984—Pars. (14) to (16). Pub. L. 98–473, §507(a), added par. (14) and redesignated former pars. (14) to (16) as (15) to (17), respectively.
 
-Par. (17). Pub. L. 98–473, §507, redesignated former par. (16) as (17), and expanded and revised definition of “narcotic drug”, including within term poppy straw, cocaine, and ecgonine. Former par. (17) redesignated (18).
+Par. (17). Pub. L. 98–473, §507, redesignated former par. (16) as (17), and expanded and revised definition of “narcotic drug”, including within term poppy straw,cocaine, and ecgonine. Former par. (17) redesignated (18).
 
 Pars. (18) to (28). Pub. L. 98–473, §507(a), redesignated former pars. (17) to (27) as (18) to (28), respectively.
 
@@ -464,7 +464,7 @@ Section 330024(f) of Pub. L. 103–322 provided that: “The amendments made by 
 
 #### Effective Date of 1993 Amendment
 
-Section 11 of Pub. L. 103–200 provided that: “This Act \[enacting section 814 of this title, amending this section and sections 821 to 824, 830, 843, 880, 957, 958, 960,and 971 of this title, and enacting provisions set out as a note under section 801 of this title\] and the amendments made by this Act shall take effect on the date that is 120 days after the date of enactment of this Act \[Dec. 17, 1993\].”
+Section 11 of Pub. L. 103–200 provided that: “This Act \[enacting section 814 of this title, amending this section and sections 821 to 824, 830, 843, 880, 957, 958, 960, and 971 of this title, and enacting provisions set out as a note under section 801 of this title\] and the amendments made by this Act shall take effect on the date that is 120 days after the date of enactment of this Act \[Dec. 17, 1993\].”
 
 #### Effective Date of 1990 Amendment
 
@@ -508,7 +508,7 @@ Conditions.—In order to establish a single-transaction limit of 24 grams of ps
 
 &emsp;&emsp;“(B)
 
-Violation.—Any individual or business that violates the thresholds established in this paragraph shall, with respect to the first such violation, receive a warning letter from the Attorney General and, if a business, the business shall be required to conduct mandatory education of the sales employees of the firm with regard to the legal sales of pseudoephedrine. For a second violation occurring within 2 years of the first violation, the business or individual shall be subject to a civil penalty of not more than $5,000. For any subsequent violation occurring within 2 years of the previous violation, the business or individual shall be subject to a civil penalty not to exceed the amount of the previous civil penalty plus $5,000.
+Violation.—Any individual or business that violates the thresholds established in this paragraph shall, with respect to the first such violation, receive a warning letter from the Attorney General and, if a business, the business shall be required to conduct mandatory education of the sales employees of the firm with regard to the legal sales of pseudoephedrine. For a second violation occurring within 2 years of the first violation, the business or individual shall be subject to a civil penalty of notmore than $5,000. For any subsequent violation occurring within 2 years of the previous violation, the business or individual shall be subject to a civil penalty not to exceed the amount of the previous civil penalty plus $5,000.
 
 &emsp;“(2)
 
@@ -602,5 +602,5 @@ Date of Issuance of Regulations.—The Attorney General shall issue regulations 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 814, 822, 823, 830, 862a, 889, 951, 956, 957, 958, 967, 1115, 1701 of this title; title 7 sections 2015, 2021; title 8 sections 1101, 1182, 1227; title 16 section 559b; title 18 sections 342, 521, 842, 922, 924, 1791, 1952, 1961, 2118, 3142, 3563, 3592; title 19 sections 1401, 1584, 1607; title 20 section 1091; title 22 sections 2291, 2708, 2714; title 23 section 410; title 25 section 4103; title 28 section 2901; title 29 sections 1111, 1854; title 42 sections 201, 1437a, 1437d, 1437f, 1769, 2000e–2, 2473c, 3411, 3602, 3607, 5667, 5667a, 11851, 11905, 11924, 12602; title 46 section 2101; title 46 App. section 1903; title 48 sections 1902, 1903; title 49 sections 5331, 20140, 30301, 31102, 31301, 31306, 44106, 44111, 44703, 44710, 44713, 45101, 46306, 80302.
+This section is referred to in sections 814, 822, 823, 830, 862a, 889, 951, 956, 957, 958, 967, 1115, 1701, 1907 of this title; title 7 sections 2015, 2021; title 8 sections 1101, 1182, 1227; title 16 section 559b; title 18 sections 342, 521, 842, 922, 924, 1791, 1952, 1961, 2118, 3142, 3563, 3592; title 19 sections 1401, 1584, 1607; title 20 section 1091; title 22 sections 2291, 2708, 2714; title 23 section 410; title 25 section 4103; title 28 section 2901; title 29 sections 1111, 1854, 2892; title 42 sections 201, 1437a, 1437d, 1437f, 1786, 2000e–2, 2473c, 3411, 3602, 3607, 5667, 5667a, 9919, 11851, 11905, 11924, 12602; title 46 section 2101; title 46 App. section 1903; title 48 sections 1902, 1903; title 49 sections 5331, 20140, 30301, 31102, 31301, 31306, 44106, 44111, 44703, 44710, 44713, 45101, 46306, 80302; title 50 section 404i.
 

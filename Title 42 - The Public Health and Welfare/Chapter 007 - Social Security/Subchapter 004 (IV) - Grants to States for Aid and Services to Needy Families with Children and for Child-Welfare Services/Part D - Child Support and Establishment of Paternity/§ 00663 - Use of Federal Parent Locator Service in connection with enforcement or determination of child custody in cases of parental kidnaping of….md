@@ -48,7 +48,7 @@ The Secretary shall enter into an agreement with the Attorney General of the Uni
 
 > The Federal Parent Locator Service shall charge no fees for services requested pursuant to this subsection.
 
-(Aug. 14, 1935, ch. 531, title IV, §463, as added Pub. L. 96–611, §9(b), Dec. 28, 1980, 94 Stat. 3572; amended Pub. L. 100–300, §11, Apr. 29, 1988, 102 Stat. 441; Pub. L. 103–432, title II, §214(a), (b), Oct. 31, 1994, 108 Stat. 4461; Pub. L. 104–193, title III, §§316(e)(1), 395(d)(1)(G), Aug. 22, 1996, 110 Stat. 2215, 2259; Pub. L. 105–33, title V, §5534(b), Aug. 5, 1997, 111 Stat. 629.)
+(Aug. 14, 1935, ch. 531, title IV, §463, as added Pub. L. 96–611, §9(b), Dec. 28, 1980, 94 Stat. 3572; amended Pub. L. 100–300, §11, Apr. 29, 1988, 102 Stat. 441; Pub. L. 103–432, title II, §214(a), (b),Oct. 31, 1994, 108 Stat. 4461; Pub. L. 104–193, title III, §§316(e)(1), 395(d)(1)(G), Aug. 22, 1996, 110 Stat. 2215, 2259; Pub. L. 105–33, title V, §5534(b), Aug. 5, 1997, 111 Stat. 629.)
 
 #### Amendments
 

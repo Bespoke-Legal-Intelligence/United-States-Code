@@ -12,7 +12,7 @@ No person, firm, or corporation shall, with respect to any cattle, sheep, swine,
 
 #### (c) Sales, transportation, and other transactions
 
-&emsp;sell, transport, offer for sale or transportation, or receive for transportation, in commerce, (1) any such articles which (A) are capable of use as human food and (B) are adulterated or misbranded at the time of such sale, transportation, offer for sale or transportation, or receipt for transportation; or (2) any articles required to be inspected under this subchapter unless they have been so inspected and passed;
+&emsp;sell, transport, offer for sale or transportation, or receive for transportation, in commerce, (1) any such articles which (A) are capable of use as human food and (B) are adulterated or misbranded at the time of such sale, transportation, offer for sale or transportation, or receipt for transportation; or (2) any articles required to be inspected under thissubchapter unless they have been so inspected and passed;
 
 #### (d) Adulteration or misbranding
 
@@ -38,7 +38,7 @@ Section was formerly classified to section 78 of this title.
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–445 effective one year after Oct. 10, 1978, and an additional eighteen month periodthereafter in hardship cases, see section 7 of Pub. L. 95–445, set out as an Effective Date of 1978 Amendment note under section 603 of this title.
+Amendment by Pub. L. 95–445 effective one year after Oct. 10, 1978, and an additional eighteen month period thereafter in hardship cases, see section 7 of Pub. L. 95–445, set out as an Effective Date of 1978 Amendment note under section 603 of this title.
 
 #### Effective Date of 1967 Amendment
 

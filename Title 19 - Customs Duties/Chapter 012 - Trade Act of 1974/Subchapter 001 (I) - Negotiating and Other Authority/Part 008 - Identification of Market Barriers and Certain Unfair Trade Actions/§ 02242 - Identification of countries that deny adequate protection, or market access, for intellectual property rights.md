@@ -34,7 +34,7 @@ By no later than the date that is 30 days after the date on which the annual rep
 
 (2) In identifying priority foreign countries under subsection (a)(2) of this section, the Trade Representative shall—
 
-&emsp;(A) consult with the Register of Copyrights, the Commissioner of Patents and Trademarks, other appropriate officers of the Federal Government, and
+&emsp;(A) consult with the Register of Copyrights, the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, other appropriate officers of the Federal Government, and
 
 &emsp;(B) take into account information from such sources as may be available to the Trade Representative and such information as may be submitted to the Trade Representative by interested persons, including information contained in reports submitted under section 2241(b) of this title and petitions submitted under section 2412 of this title.
 
@@ -96,7 +96,7 @@ The Trade Representative shall publish in the Federal Register a list of foreign
 
 #### (2) Special rules for identifications
 
-&emsp;For purposes of section 2412(b)(2)(A) of this title, an act, policy, or practice identified under this subsection shall be treated as an act, policy, or practice that is the basis for identification of a country under subsection (a)(2) of this section, unless the United States has already taken action pursuant to article 2106 of the North American Free Trade Agreement in response to such act, policy, or practice. In deciding whether to identify an act, policy, or practice under paragraph (1), the Trade Representative shall—
+&emsp;For purposes of section 2412(b)(2)(A) of this title, an act, policy, or practice identified under this subsection shall be treated as an act, policy, or practice that is the basis for identification of a country under subsection\(a)(2) of this section, unless the United States has already taken action pursuant to article 2106 of the North American Free Trade Agreement in response to such act, policy, or practice. In deciding whether to identify an act, policy, or practice under paragraph (1), the Trade Representative shall—
 
 &emsp;&emsp;(A) consult with and take into account the views of representatives of the relevant domestic industries, appropriate committees established pursuant to section 2155 of this title, and appropriate officers of the Federal Government, and
 
@@ -120,9 +120,11 @@ The Trade Representative shall publish in the Federal Register a list of foreign
 
 The Trade Representative shall, by not later than the date by which countries are identified under subsection (a) of this section, transmit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate, a report on actions taken under this section during the 12 months preceding such report, and the reasons for such actions, including a description of progress made in achieving improved intellectual property protection and market access for persons relying on intellectual property rights.
 
-(Pub. L. 93–618, title I, §182, as added Pub. L. 100–418, title I, §1303(b), Aug. 23, 1988, 102 Stat. 1179; amended Pub. L. 103–182, title V, §513, Dec. 8, 1993, 107 Stat. 2156; Pub. L. 103–465, title III, §313, Dec. 8, 1994, 108 Stat. 4938.)
+(Pub. L. 93–618, title I, §182, as added Pub. L. 100–418, title I, §1303(b), Aug. 23, 1988, 102 Stat. 1179; amended Pub. L. 103–182, title V, §513, Dec. 8, 1993, 107 Stat. 2156; Pub. L. 103–465, title III, §313, Dec. 8, 1994, 108 Stat. 4938; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(8)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584.)
 
 #### Amendments
+
+1999—Subsec. (b)(2)(A). Pub. L. 106–113 substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents and Trademarks”.
 
 1994—Subsec. (b)(4). Pub. L. 103–465, §313(1), added par. (4).
 
@@ -133,6 +135,10 @@ Subsec. (d)(4). Pub. L. 103–465, §313(2)(B), added par. (4).
 Subsec. (g). Pub. L. 103–465, §313(3), added subsec. (g).
 
 1993—Subsec. (f). Pub. L. 103–182 added subsec. (f).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1994 Amendment
 

@@ -49,6 +49,7 @@
 | [31145\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031145%20-%20Coordination%20of%20Governmental%20activities%20and%20paperwork.md) | Coordination of Governmental activities and paperwork. |
 | [31146\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031146%20-%20Relationship%20to%20other%20laws.md) | Relationship to other laws. |
 | [31147\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031147%20-%20Limitations%20on%20authority.md) | Limitations on authority. |
+| [31148\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031148%20-%20Certified%20motor%20carrier%20safety%20auditors.md) | Certified motor carrier safety auditors. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -62,7 +63,13 @@
 
 #### Amendments
 
+1999—Pub. L. 106–159, title II, §211(b), Dec. 9, 1999, 113 Stat. 1766, added item 31148.
+
 1998—Pub. L. 105–178, title IV, §§4002(b), 4004(d), 4008(c), (d), 4010, June 9, 1998, 112 Stat. 395, 400, 404, 407, inserted “AND OTHER COMMERCIAL MOTOR VEHICLE PROGRAMS” after “GRANTS” in subchapter I heading, added item 31100, substituted “Information systems” for “Commercial motor vehicle information system program” in item 31106 and “Contract authority funding for information systems” for “Truck and bus accident grant program” in item 31107, struck out items 31134 “Commercial Motor Vehicle Safety Regulatory Review Panel” and 31140 “Submission of State laws and regulations for review”, subchapter IV heading “MISCELLANEOUS”, and items 31161 “Procedures to ensure timely correction of safety violations” and 31162 “Compliance review priority”.
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in sections 113, 521, 13905 of this title.
 
 
 ---

@@ -32,7 +32,7 @@
 
 (d) The procedures provided in regulations referred to in subsection (a) shall provide for notice of the requirements of subparagraphs (B), (C), and (D) of section 3011(a)(3) and of subparagraph (A) of section 3012(a)(3) of this title. Receipt of such notice shall be acknowledged in writing.
 
-(Added Pub. L. 104–275, title I, §106(a), Oct. 9, 1996, 110 Stat. 3327; amended Pub. L. 105–114, title IV, §401(c), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–368, title II, §203(a), Nov. 11, 1998, 112 Stat. 3326.)
+(Added Pub. L. 104–275, title I, §106(a), Oct. 9, 1996, 110 Stat. 3327; amended Pub. L. 105–114, titleIV, §401(c), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–368, title II, §203(a), Nov. 11, 1998, 112 Stat. 3326.)
 
 #### Amendments
 

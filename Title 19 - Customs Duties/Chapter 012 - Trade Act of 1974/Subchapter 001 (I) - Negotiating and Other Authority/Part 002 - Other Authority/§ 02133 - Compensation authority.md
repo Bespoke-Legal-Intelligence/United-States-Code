@@ -10,7 +10,7 @@ Whenever—
 
 > increases or imposes any duty or other import restriction, the President—
 
-&emsp;(A) may enter into trade agreements with foreign countries or instrumentalities for the purpose of granting new concessions as compensation in order to maintain the general level of reciprocal and mutually advantageous concessions; and
+&emsp;(A) may enter into trade agreements with foreign countries or instrumentalities for the purpose of granting new concessions as compensation in order to maintain the generallevel of reciprocal and mutually advantageous concessions; and
 
 &emsp;(B) may proclaim such modification or continuance of any existing duty, or such continuance of existing duty-free or excise treatment, as he determines to be required or appropriate to carry out any such agreement.
 
@@ -38,7 +38,7 @@ Notwithstanding the provisions of subsection (a) of this section, the authority 
 
 #### (e) International obligations determination prerequisite to application of authority
 
-The provisions of this section shall apply by reason of action taken under subchapter III of this chapter only if the President determinesthat action authorized under this section is necessary or appropriate to meet the international obligations of the United States.
+The provisions of this section shall apply by reason of action taken under subchapter III of this chapter only if the President determines that action authorized under this section is necessary or appropriate to meet the international obligations of the United States.
 
 (Pub. L. 93–618, title I, §123, Jan. 3, 1975, 88 Stat. 1989; Pub. L. 100–418, title I, §§1104, 1401(b)(1)(A), Aug. 23, 1988, 102 Stat. 1132, 1239.)
 

@@ -14,7 +14,7 @@ For purposes of enforcement of this chapter, records of any department or indepe
 
 #### (d) Information on patents for drugs
 
-The Secretary is authorized and directed, upon request from the Commissioner of Patents and Trademarks, to furnish full and complete information with respect to such questions relating to drugs as the Commissioner may submit concerning any patent application. The Secretary is further authorized, upon receipt of any such request, to conduct or cause to be conducted, such research as may be required.
+The Secretary is authorized and directed, upon request from the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, to furnish full and complete information with respect to such questions relating to drugs as the Director may submit concerning any patent application. The Secretary is further authorized, upon receipt of any such request, to conduct or cause to be conducted, such research as may be required.
 
 #### (e) Powers of enforcement personnel
 
@@ -30,9 +30,11 @@ Any officer or employee of the Department designated by the Secretary to conduct
 
 &emsp;(5) make, prior to the institution of libel proceedings under section 334(a)(2) of this title, seizures of drugs or containers or of equipment, punches, dies, plates, stones, labeling, or other things, if they are, or he has reasonable grounds to believe that they are, subject to seizure and condemnation under such section 334(a)(2). In the event of seizure pursuant to this paragraph (5), libel proceedings under section 334(a)(2) of this title shall be instituted promptly and the property seized be placed under the jurisdiction of the court.
 
-(June 25, 1938, ch. 675, §702, 52 Stat. 1056; Pub. L. 87–781, title III, §§307(b), 308, Oct. 10, 1962, 76 Stat. 796; Pub. L. 89–74, §8(a), July 15, 1965, 79 Stat. 234; Pub. L. 91–513, title II, §701(f), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 102–300, §6(b)(2), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(dd)(2), Aug. 13, 1993, 107 Stat. 779.)
+(June 25, 1938, ch. 675, §702, 52 Stat. 1056; Pub. L. 87–781, title III, §§307(b), 308, Oct. 10, 1962, 76 Stat. 796; Pub. L. 89–74, §8(a), July 15, 1965, 79 Stat. 234; Pub. L. 91–513, title II, §701(f), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 102–300, §6(b)(2), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(dd)(2), Aug. 13, 1993, 107 Stat. 779; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(12)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584.)
 
 #### Amendments
+
+1999—Subsec. (d). Pub. L. 106–113, in first sentence, substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents” and “Director” for “Commissioner”.
 
 1993—Subsec. (c). Pub. L. 103–80 struck out “of Agriculture” after “Department”.
 
@@ -46,9 +48,9 @@ Any officer or employee of the Department designated by the Secretary to conduct
 
 Subsec. (d). Pub. L. 87–781, §308, added subsec. (d).
 
-#### Change of Name
+#### Effective Date of 1999 Amendment
 
-“Commissioner of Patents and Trademarks” substituted for “Commissioner of Patents” in subsec. (d) pursuant to section 3 of Pub. L. 93–596, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1970 Amendment
 
@@ -68,7 +70,7 @@ For transfer of functions of Federal Security Administrator to Secretary of Heal
 
 #### Federal Rules of Civil Procedure
 
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
+Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil andadmiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

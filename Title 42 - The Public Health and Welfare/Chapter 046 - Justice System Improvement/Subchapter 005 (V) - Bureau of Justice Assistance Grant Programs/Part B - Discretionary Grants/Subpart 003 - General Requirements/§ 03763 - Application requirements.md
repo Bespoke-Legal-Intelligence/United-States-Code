@@ -10,7 +10,7 @@
 
 &emsp;(4) agrees to conduct such evaluation according to the procedures and terms established by the Bureau.
 
-(b) Each applicant for funds under this part shall certify that its program or project meets all the applicable requirements of this section, that all the applicable information contained inthe application is correct, and that the applicant will comply with all the applicable provisions of this part and all other applicable Federal laws. Such certification shall be made in a form acceptable to the Director.
+(b) Each applicant for funds under this part shall certify that its program or project meets all the applicable requirements of this section, that all the applicable information contained in the application is correct, and that the applicant will comply with all the applicable provisions of this part and all other applicable Federal laws. Such certification shall be made in a form acceptable to the Director.
 
 (Pub. L. 90–351, title I, §517, formerly §513, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4336; renumbered §517 and amended Pub. L. 101–647, title XVIII, §1801(a)(4), (6), Nov. 29, 1990, 104 Stat. 4847.)
 
@@ -23,6 +23,10 @@ For prior section 517 of Pub. L. 90–351 and prior sections 3763 of this title,
 1990—Subsec. (a)(1). Pub. L. 101–647, §1801(a)(4)(A), inserted “or 3762a” after “3761”.
 
 Subsec. (b). Pub. L. 101–647, §1801(a)(4)(B), inserted “applicable” after “all the” in three places.
+
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -36,7 +36,7 @@ Section 109(c)(1) of Pub. L. 97–362 provided that: “The amendment made by su
 
 #### Effective Date of 1974 Amendment
 
-Section 3(d)(1) of Pub. L. 93–499 provided that: “The amendments made by this section \[enacting section 4424 and amending this section and section 4411 of this title\] take effect on December 1, 1974, and shall apply only with respect to wagers placed on or after such date.”
+Section 3(d)(1) of Pub. L. 93–499 provided that: “The amendments made by this section \[enacting section4424 and amending this section and section 4411 of this title\] take effect on December 1, 1974, and shall apply only with respect to wagers placed on or after such date.”
 
 #### Effective Date of 1958 Amendment
 

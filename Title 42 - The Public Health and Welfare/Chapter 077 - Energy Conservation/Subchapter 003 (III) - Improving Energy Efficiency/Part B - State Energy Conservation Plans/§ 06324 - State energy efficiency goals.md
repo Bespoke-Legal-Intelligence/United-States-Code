@@ -1,6 +1,6 @@
 ### §6324. State energy efficiency goals
 
-Each State energy conservation plan with respect to which assistance is made available under this part on or after October 1, 1991, shall contain a goal, consisting of an improvement of 10 percent or more in the efficiency of use of energy in the State concerned in the calendar year 2000 as compared to the calendar year 1990, and may contain interim goals.
+Each State energy conservation plan with respect to which assistance is made availableunder this part on or after October 1, 1991, shall contain a goal, consisting of an improvement of 10 percent or more in the efficiency of use of energy in the State concerned in the calendar year 2000 as compared to the calendar year 1990, and may contain interim goals.
 
 (Pub. L. 94–163, title III, §364, Dec. 22, 1975, 89 Stat. 935; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 101–440, §2(a)(1), Oct. 18, 1990, 104 Stat. 1006.)
 

@@ -36,19 +36,31 @@ The Congress finds and declares that—
 
 &emsp;(6) the lack of proper geologic maps has led to the poor design of such structures as dams and waste-disposal facilities;
 
-&emsp;(7) geologic maps have proven indispensable in the search for needed fossil-fuel and mineral resources; and
+&emsp;(7) geologic maps have proven indispensable in the search for needed fossil-fuel and mineral resources;
 
-&emsp;(8) a comprehensive nationwide program of geologic mapping is required in order to systematically build the Nation's geologic-map data base at a pace that responds to increasing demand.
+&emsp;(8) geologic map information is required for the sustainable and balanced development of natural resources of all types, including energy, minerals, land, water, and biological resources;
+
+&emsp;(9) advances in digital technology and geographical information system science have made geologic map databases increasingly important as decision support tools for land and resource management; and
+
+&emsp;(10) a comprehensive nationwide program of geologic mapping of surficial and bedrock deposits is required in order to systematically build the Nation's geologic-map data base at a pace that responds to increasing demand.
 
 #### (b) Purpose
 
 The purpose of sections 31a to 31h of this title is to expedite the production of a geologic-map data base for the Nation, to be located within the United States Geological Survey, which can be applied to land-use management, assessment, and utilization, conservation of natural resources, groundwater management, and environmental protection.
 
-(Pub. L. 102–285, §2, May 18, 1992, 106 Stat. 166.)
+(Pub. L. 102–285, §2, May 18, 1992, 106 Stat. 166; Pub. L. 106–148, §2, Dec. 9, 1999, 113 Stat. 1719.)
 
 #### References in Text
 
 Sections 31a to 31h of this title, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 102–285, which is classified principally to sections 31a to 31h of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### Amendments
+
+1999—Subsec. (a)(8) to (10). Pub. L. 106–148 added pars. (8) and (9) and redesignated former par. (8) as (10) and inserted “of surficial and bedrock deposits” after “geologic mapping”.
+
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–148, §1, Dec. 9, 1999, 113 Stat. 1719, provided that: “This Act \[enacting sections 31e, 31g and 31h of this title, amending sections 31a to 31d and 31f of this title, and repealing former sections 31e, 31g, and 31h of this title\] may be cited as the ‘National Geologic Mapping Reauthorization Act of 1999’.”
 
 #### Short Title of 1997 Amendment
 
@@ -82,5 +94,5 @@ Pub. L. 105–36, §2, Aug. 5, 1997, 111 Stat. 1107, provided that: “Congress 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 31b, 31d, 31f, 31g, 31h of this title.
+This section is referred to in sections 31b, 31h of this title.
 

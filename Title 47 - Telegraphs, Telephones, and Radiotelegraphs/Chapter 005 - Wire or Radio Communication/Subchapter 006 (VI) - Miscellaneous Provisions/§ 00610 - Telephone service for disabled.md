@@ -54,7 +54,7 @@ The Commission shall establish or approve such technical standards as are requir
 
 #### (d) Labeling of packaging materials for equipment
 
-The Commission shall establish such requirements for the labeling of packaging materials for equipment as are needed to provide adequate information to consumers on the compatibility between telephones and hearing aids.
+The Commission shall establish such requirements for the labeling of packaging materials for equipment as are needed to provide adequateinformation to consumers on the compatibility between telephones and hearing aids.
 
 #### (e) Costs and benefits; encouragement of use of currently available technology
 
@@ -86,7 +86,7 @@ Subsec. (f). Pub. L. 100–394, §3(b), substituted “The Commission shall comp
 
 Section 2 of Pub. L. 100–394 provided that: “The Congress finds that—
 
-&emsp;“(1) to the fullest extent made possible by technology and medical science, hearing-impaired personsshould have equal access to the national telecommunications network;
+&emsp;“(1) to the fullest extent made possible by technology and medical science, hearing-impaired persons should have equal access to the national telecommunications network;
 
 &emsp;“(2) present technology provides effective coupling of telephones to hearing aids used by some severely hearing-impaired persons for communicating by voice telephone;
 

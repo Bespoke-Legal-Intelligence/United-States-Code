@@ -34,7 +34,7 @@ Pub. L. 105–261, div. C, title XXXI, §3134(b), Oct. 17, 1998, 112 Stat. 2247,
 
 #### Applicability of Occupational Safety and Health Requirements to Activities Under License
 
-Pub. L. 105–261, div. C, title XXXI, §3134(c), Oct. 17, 1998, 112 Stat. 2247, provided that: “Any activities carried out under a license required pursuant to section 202(5) of the Energy Reorganization Act of 1974 (42U.S.C. 5842), as added by subsection (a), shall be subject to regulation under the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.).”
+Pub. L. 105–261, div. C, title XXXI, §3134(c), Oct. 17, 1998, 112 Stat. 2247, provided that: “Any activities carried out under a license required pursuant to section 202(5) of the Energy Reorganization Act of 1974 (42 U.S.C. 5842), as added by subsection (a), shall be subject to regulation under the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.).”
 
 #### Verbal Communications Between Commission Headquarters and Regional Offices and Licensed Utilization Facilities
 

@@ -18,7 +18,7 @@ Transcripts and Recordings.—(1) Except as provided by this subsection, a party
 
 (3) Except as provided in paragraph (4)(A) of this subsection, a court may allow discovery by a party of a cockpit voice recorder recording if, after an in camera review of the recording, the court decides that—
 
-&emsp;(A) the parts of the transcript made available to the public under section 1114(c) of thistitle and to the party through discovery under paragraph (2) of this subsection do not provide the party with sufficient information for the party to receive a fair trial; and
+&emsp;(A) the parts of the transcript made available to the public under section 1114(c) of this title and to the party through discovery under paragraph (2) of this subsection do not provide the party with sufficient information for the party to receive a fair trial; and
 
 &emsp;(B) discovery of the cockpit voice recorder recording is necessary to provide the party with sufficient information for the party to receive a fair trial.
 

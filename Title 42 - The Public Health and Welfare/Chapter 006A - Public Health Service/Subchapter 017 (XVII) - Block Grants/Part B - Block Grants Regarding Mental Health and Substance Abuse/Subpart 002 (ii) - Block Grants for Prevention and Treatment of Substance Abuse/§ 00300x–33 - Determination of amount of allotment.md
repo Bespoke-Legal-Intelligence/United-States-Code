@@ -34,23 +34,7 @@
 
 #### (b) Minimum allotments for States
 
-(1)
-
-In general.—With respect to fiscal year 1999, the amount of the allotment of a State under section 300x–21 of this title shall not be less than the amount the State received under section 300x–21 of this title for fiscal year 1998 increased by 30.65 percent of the percentage by which the amount allotted to the States for fiscal year 1999 exceeds the amount allotted to the States for fiscal year 1998.
-
-(2)
-
-Limitation
-
-&emsp;(A)
-
-In general.—Except as provided in subparagraph (B), a State shall not receive an allotment under section 300x–21 of this title for fiscal year 1999 in an amount that is less than an amount equal to 0.375 percent of theamount appropriated under section 300x–35(a) of this title for such fiscal year.
-
-&emsp;(B)
-
-Exception.—In applying subparagraph (A), the Secretary shall ensure that no State receives an increase in its allotment under section 300x–21 of this title for fiscal year 1999 (as compared to the amount allotted to the State in the fiscal year 1998) that is in excess of an amount equal to 300 percent of the percentage by which the amount appropriated under section 300x–35(a) of this title for fiscal year 1999 exceeds the amount appropriated for the prior fiscal year.
-
-(3) Only for the purposes of calculating minimum allotments under this subsection, any reference to the amount appropriated under section 300x–35(a) of this title for fiscal year 1998, allotments to States under section 300x–21 <sup>1</sup> of this title and any references to amounts received by States in fiscal year 1998 shall include amounts appropriated or received under the amendments made by section 105 of the Contract with America Advancement Act of 1996 (Public Law 104–121).
+Each State's allotment for fiscal year 2000 for programs under this subpart shall be equal to such State's allotment for such programs for fiscal year 1999, except that, if the amount appropriated in fiscal year 2000 is less than the amount appropriated in fiscal year 1999, then the amount of a State's allotment under section 300x–21 of this title shall be equal to the amount that the State received under section 300x–21 of this title in fiscal year 1999 decreased by the percentage by which the amount appropriated for fiscal year 2000 is less than the amount appropriated for such section for fiscal year 1999.
 
 #### (c) Territories
 
@@ -96,33 +80,25 @@ Exception.—In applying subparagraph (A), the Secretary shall ensure that no St
 
 &emsp;&emsp;(A) receives a request from the governing body of an Indian tribe or tribal organization within any State that funds under this subpart be provided directly by the Secretary to such tribe or organization; and
 
-&emsp;&emsp;(B) makes a determination that the members of such tribe or tribal organization would be better served by means of grants made directly by the Secretary under this; <sup>2</sup>
+&emsp;&emsp;(B) makes a determination that the members of such tribe or tribal organization would be better served by means of grants made directly by the Secretary under this; <sup>1</sup>
 
 > &emsp;the Secretary shall reserve from the allotment under section 300x–21 of this title for the State for the fiscal year involved an amount that bears the same ratio to the allotment as the amount provided under this subpart to the tribe or tribal organization for fiscal year 1991 for activities relating to the prevention and treatment of the abuse of alcohol and other drugs bore to the amount of the portion of the allotment under this subpart for the State for such fiscal year that was expended for such activities.
 
 #### (2) Tribe or tribal organization as grantee
 
-&emsp;The amount reserved by the Secretary on the basis of a determination under this paragraph <sup>3</sup> shall be granted to the Indian tribe or tribal organization serving the individuals for whom such a determination has been made.
+&emsp;The amount reserved by the Secretary on the basis of a determination under this paragraph <sup>2</sup> shall be granted to the Indian tribe or tribal organization serving the individuals for whom such a determination has been made.
 
 #### (3) Application
 
-&emsp;In order for an Indian tribe or tribal organization to be eligible for a grant for a fiscal year under this paragraph,<sup>3</sup> it shall submit to the Secretary a plan for such fiscal year that meets such criteria as the Secretary may prescribe.
+&emsp;In order for an Indian tribe or tribal organization to be eligible for a grant for a fiscal year under this paragraph,<sup>2</sup> it shall submit to the Secretary a plan for such fiscal year that meets such criteria as the Secretary may prescribe.
 
 #### (4) Definitions
 
-&emsp;The terms “Indian tribe” and “tribal organization” have the same meaning given such terms in subsections (b) and (c) <sup>4</sup> of section 450b of title 25.
+&emsp;The terms “Indian tribe” and “tribal organization” have the same meaning given such terms in subsections (b) and (c) <sup>3</sup> of section 450b of title 25.
 
-(July 1, 1944, ch. 373, title XIX, §1933, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 400; amended Pub. L. 102–352, §2(a)(11), Aug. 26, 1992, 106 Stat. 938; Pub. L. 105–277, div. A, §101(f) \[title II, §218(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–362.)
-
-#### Amendment of Subsection (b)
-
-<i>For termination of amendment by section 101(f) \[title II, §218(c)\] of Pub. L. 105–277, see</i><i>Effective and Termination Dates of 1998 Amendment note below.</i>
+(July 1, 1944, ch. 373, title XIX, §1933, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 400; amended Pub. L. 102–352, §2(a)(11), Aug. 26, 1992, 106 Stat. 938; Pub. L. 105–277, div. A, §101(f) \[title II, §218(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–362; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §212(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–239.)
 
 #### References in Text
-
-Section 300x–21 of this title, referred to in subsec. (b)(3), was in the original “section 21”, meaning section 21 of act July 1, 1944, and was translated as reading section 1921 to reflect the probable intent of Congress because of context and because act July 1, 1944 does not contain a section 21.
-
-Section 105 of the Contract with America Advancement Act of 1996, referred to in subsec. (b)(3), is section 105 of Pub. L. 104–121, title I, Mar. 29, 1996, 110 Stat. 852, which enacted section 1383e of this title, amended sections 405, 422, 423, 425, 1382, 1382c, 1383, and 1383c of this title, enacted provisions set out as notes under sections 405 and 1382 of this title, and repealed provisions set out as a note under section 425 of this title.
 
 Section 450b of title 25, referred to in subsec. (d)(4), was amended, and subsecs. (b) and (c) of section 450 no longer define the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in that section.
 
@@ -132,11 +108,33 @@ A prior section 1933 of act July 1, 1944, was classified to section 300y–23 of
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–277, temporarily amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “For each of the fiscal years 1993 and 1994, the amount of the allotment required in section 300x–21 of this title for a State for the fiscal year involved shall be the greater of—
+1999—Subsec. (b). Pub. L. 106–113 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “For each of the fiscal years 1993 and 1994, the amount of the allotment required in section 300x–21 of this title for a State for the fiscal year involved shall be the greater of—
 
 &emsp;“(1) the amount determined under subsection (a) of this section for the State for the fiscal year; and
 
 &emsp;“(2) an amount equal to 79.4 percent of the amount received by the State from allotments made pursuant to this part for fiscal year 1992 (including reallotments under section 205(a) of the ADAMHA Reorganization Act).”
+
+1998—Subsec. (b). Pub. L. 105–277, temporarily amended subsec. (b) to read as follows: “(b)
+
+Minimum allotments for States.—
+
+&emsp;“(1)
+
+In general.—With respect to fiscal year 1999, the amount of the allotment of a State under section 300x–21 of this title shall not be less than the amount the State received under section 300x–21 of this title for fiscal year 1998 increased by 30.65 percent of the percentage by which the amount allotted to the States for fiscal year 1999 exceeds the amount allotted to the States for fiscal year 1998.
+
+&emsp;“(2)
+
+Limitation
+
+&emsp;&emsp;“(A)
+
+In general.—Except as provided in subparagraph (B), a State shall not receive an allotment under section 300x–21 of this title for fiscal year 1999 in an amount that is less than an amount equal to 0.375 percent of the amount appropriated under section 300x–35(a) of this title for such fiscal year.
+
+&emsp;&emsp;“(B)
+
+Exception.—In applying subparagraph (A), the Secretary shall ensure that no State receives an increase in its allotment under section 300x–21 ofthis title for fiscal year 1999 (as compared to the amount allotted to the State in the fiscal year 1998) that is in excess of an amount equal to 300 percent of the percentage by which the amount appropriated under section 300x–35(a) of this title for fiscal year 1999 exceeds the amount appropriated for the prior fiscal year.
+
+&emsp;“(3) Only for the purposes of calculating minimum allotments under this subsection, any reference to the amount appropriated under section 300x–35(a) of this title for fiscal year 1998, allotments to States under section 300x–21 of this title and any references to amounts received by States in fiscal year 1998 shall include amounts appropriated or received under the amendments made by section 105 of the Contract with America Advancement Act of 1996 (Public Law 104–121).”
 
 > See Effective and Termination Dates of 1998 Amendment note below.
 
@@ -154,11 +152,9 @@ Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendm
 
 This section is referred to in sections 300x–21, 300x–26, 300x–32, 300x–64 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “this subpart;”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “this subpart;”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “subsection”.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “subsection”.</i>
-
-<i><sup>4</sup></i><i> See References in Text note below.</i>
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

@@ -14,11 +14,11 @@ Property referred to in subsection (a) of this section is the following property
 
 &emsp;(1) The personal property and equipment at the facility that the Secretary determines to be excess to the needs of the Department of Energy.
 
-&emsp;(2) Any personal property and equipment at the facility (other than the property andequipment referred to in paragraph (1)) the replacement cost of which does not exceed an amount equal to 110 percent of the costs of relocating the property or equipment to another facility of the Department of Energy.
+&emsp;(2) Any personal property and equipment at the facility (other than the property and equipment referred to in paragraph (1)) the replacement cost of which does not exceed an amount equal to 110 percent of the costs of relocating the property or equipment to another facility of the Department of Energy.
 
 (Pub. L. 103–160, div. C, title XXXI, §3155, Nov. 30, 1993, 107 Stat. 1953.)
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1994, and not as part of the Department of Energy Organization Act which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1994, and not as partof the Department of Energy Organization Act which comprises this chapter.
 

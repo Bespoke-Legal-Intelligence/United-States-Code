@@ -18,7 +18,7 @@ Limitation on Contracting.—(1) Except as provided in paragraph (2), performanc
 
 (2) The Secretary of Defense may waive paragraph (1) in the case of any such logistics capability and provide that performance of the workload needed to maintain that capability shall be considered for conversion to contractor performance in accordance with OMB Circular A–76. Any such waiver shall be made under regulations prescribed by the Secretary and shall be based on a determination by the Secretary that Government performance of the workload is no longer required for national defense reasons. Such regulations shall include criteria for determining whether Government performance of any such workload is no longer required for national defense reasons.
 
-(3)(A) A waiver under paragraph (2) may not take effect until the expiration of the first period of 30 days of continuous session of Congress that begins on or after the date on which the Secretary submits a report on the waiver to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives.
+(3)(A) A waiver under paragraph (2) may not take effect until the expiration of the first period of 30 days of continuous session of Congress that begins on or after the date on which the Secretary submits a report on the waiver to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
 
 (B) For the purposes of subparagraph (A)—
 
@@ -36,13 +36,15 @@ Notification of Determinations Regarding Certain Commercial Items.—The first t
 
 &emsp;(3) A comparison of the estimated life cycle logistics support costs that would be incurred by the Government if the item were maintained by the private sector with the estimated life cycle logistics support costs that would be incurred by the Government if the item were maintained by the Government.
 
-(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 853; amended Pub. L. 101–189, div. A, title XVI, §1622(c)(7), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 104–106, div. A, title III, §314, Feb. 10, 1996, 110 Stat. 251; Pub. L. 105–85, div. A, title III, §356(a), Nov. 18, 1997, 111 Stat. 1694; Pub. L. 105–261, div. A, title III, §343(a), Oct. 17, 1998, 112 Stat. 1976.)
+(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 853; amended Pub. L. 101–189, div. A, title XVI, §1622(c)(7), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 104–106, div. A, title III, §314, Feb. 10, 1996, 110 Stat. 251; Pub. L. 105–85, div. A, title III, §356(a), Nov. 18, 1997, 111 Stat. 1694; Pub. L. 105–261, div. A, title III, §343(a), Oct. 17, 1998, 112 Stat. 1976; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Historical and Revision Notes
 
 Section is based on Pub. L. 98–525, title III, §307, Oct. 19, 1984, 98 Stat. 2514, as amended by Pub. L. 99–145, title XII, §1231(f), Nov. 8, 1985, 99 Stat. 733.
 
 #### Amendments
+
+1999—Subsec. (b)(3)(A). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 1998—Subsec. (c). Pub. L. 105–261 added subsec. (c).
 
@@ -60,25 +62,25 @@ Section is based on Pub. L. 98–525, title III, §307, Oct. 19, 1984, 98 Stat. 
 
 1989—Subsec. (b)(3)(A). Pub. L. 101–189 substituted “Committees on Appropriations” for “Committee on Appropriations”.
 
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
-
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–261, div. A, title III, §343(b), Oct. 17, 1998, 112 Stat. 1976, provided that: “Subsection (c) of section 2464 of title 10, United States Code (as added by subsection (a)), shall apply with respect to determinations made after the date of the enactment of this Act \[Oct. 17, 1998\].”
 
 #### Conditions on Expansion of Functions Performed Under Prime Vendor Contracts for Depot-Level Maintenance and Repair
 
-Pub. L. 105–261, div. A, title III, §346, Oct. 17, 1998, 112 Stat. 1979, provided that:
+Pub. L. 105–261, div. A, title III, §346, Oct. 17, 1998, 112 Stat. 1979, as amended by Pub. L. 106–65, div. A, title III, §336, Oct. 5, 1999, 113 Stat. 568, provided that:
 
 “(a)
 
 Conditions on Expanded Use.—The Secretary of Defense or the Secretary of a military department, as the case may be, may not enter into a prime vendor contract for depot-level maintenance and repair of a weapon system or other military equipment described in section 2464(a)(3) of title 10, United States Code, before the end of the 30-day period beginning on the date on which the Secretary submits to Congress a report, specific to the proposed contract, that—
 
-&emsp;“(1) describes the competitive procedures to be used to award the prime vendor contract; and
+&emsp;“(1) describes the competitive procedures to be used to award the prime vendor contract;
 
-&emsp;“(2) contains an analysis of costs and benefits that demonstrates that use of the prime vendor contract will result in savings to the Government over the life of the contract.
+&emsp;“(2) contains an analysis of costs and benefits that demonstrates that use of the prime vendor contract will result in savings to the Government over the life of the contract;
+
+&emsp;“(3) contains an analysis of the extent to which the contract conforms to the requirements of section 2466 of title 10, United States Code; and
+
+&emsp;“(4) describes the measures taken to ensure that the contract does not violate the core logistics policies, requirements, and restrictions set forth in section 2464 of that title.
 
 “(b)
 
@@ -116,7 +118,7 @@ Sense of Congress.—It is the sense of Congress that there is a compelling need
 
 “(c)
 
-Requirement for Policy.—Not later than March 31, 1996, the Secretary of Defense shall develop and report to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a comprehensive policy on the performance of depot-level maintenance and repair for the Department of Defense that maintains the capability described in section 2464 of title 10, United States Code.
+Requirement for Policy.—Not later than March 31, 1996, the Secretary of Defense shall develop and report to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a comprehensive policy on the performance of depot-level maintenance and repair for the Department of Defense that maintains the capability described in section 2464 of title 10, United States Code.
 
 “(d)
 

@@ -4,7 +4,7 @@ Section, Pub. L. 99–662, title II, §211, Nov. 17, 1986, 100 Stat. 4106; Pub. 
 
 #### Sediments Decontamination Technology
 
-Pub. L. 102–580, title IV, §405, Oct. 31, 1992, 106 Stat. 4863, as amended by Pub. L. 104–303, title II, §226, Oct. 12, 1996, 110 Stat. 3697, provided that:
+Pub. L. 102–580, title IV, §405, Oct. 31, 1992, 106 Stat. 4863, as amended by Pub. L. 104–303, title II, §226, Oct. 12, 1996, 110 Stat. 3697; Pub. L. 106–53, title II, §204, Aug. 17, 1999, 113 Stat. 285, provided that:
 
 “(a)
 
@@ -16,11 +16,19 @@ Selection of technologies.—Based upon a review of decontamination technologies
 
 &emsp;“(2)
 
-Recommended program.—Upon selection of technologies, the Administrator and the Secretary shall jointly recommend a program of selected technologies to assess their effectiveness in renderingsediments acceptable for unrestricted ocean disposal or beneficial reuse, or both.
+Recommended program.—Upon selection of technologies, the Administrator and the Secretary shall jointly recommend a program of selected technologies to assess their effectiveness in rendering sediments acceptable for unrestricted ocean disposal or beneficial reuse, or both.
 
 &emsp;“(3)
 
 Project purpose.—The purpose of the project to be carried out under this section is to provide for the development of 1 or more sediment decontamination technologies on a pilot scale demonstrating a capacity of at least 500,000 cubic yards per year.
+
+&emsp;“(4)
+
+Practical end-use products.—Technologies selected for demonstration at the pilot scale shall be intended to result in practical end-use products.
+
+&emsp;“(5)
+
+Assistance by the secretary.—The Secretary shall assist the project to ensure expeditious completion by providing sufficient quantities of contaminated dredged material to conduct the full-scale demonstrations to stated capacity.
 
 “(b)
 
@@ -28,11 +36,15 @@ Decontamination Defined.—For purposes of this section, ‘decontamination’ m
 
 “(c)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $10,000,000. Such sums shall remain available until expended.
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $22,000,000 to complete technology testing, technology commercialization, and the development of full scale processing facilities within the New York/New Jersey Harbor. Such sums shall remain available until expended.
 
 “(d)
 
-Reports.—Not later than September 30, 1998, and periodically thereafter, the Administrator and the Secretary shall transmit to Congress a report on the results of the project to be carried out under this section, including an assessment of the progress made in achieving the purpose of the project set forth in subsection (a)(3).”
+Reports.—Not later than September 30, 1998, and periodically thereafter, the Administrator and the Secretary shall transmit to Congress a report on the results of the project to be carried out under this section, including an assessment of the progress made in achieving the purpose of the project set forth in subsection (a)(3).
+
+“(e)
+
+Support.—In carrying out the program under this section, the Secretary is encouraged to use contracts, cooperative agreements, and grants with colleges and universities and other non-Federal entities.”
 
 #### Alternatives to Mud Dump Site for Disposal of Dredged Material
 

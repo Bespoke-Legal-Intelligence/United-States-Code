@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(iii) permit a contractor or subcontractor to license directly to a third party the use of technical data which the contractor is otherwise allowed to restrict, if necessary to develop alternative sources of supply and manufacture.
 
-(3) The Secretary of Defense shall define the terms “developed”, “exclusively with Federal funds”, and “exclusively at private expense” in regulations prescribed under paragraph (1). In defining such terms, the Secretary shall specify the manner in which indirect costs shall be treated and shall specify that amounts spent for independent research and development and bid and proposal costs shall not be considered to be Federal funds for the purposes of definitions under this paragraph.
+(3) The Secretary of Defense shall define the terms “developed”, “exclusively with Federalfunds”, and “exclusively at private expense” in regulations prescribed under paragraph (1). In defining such terms, the Secretary shall specify the manner in which indirect costs shall be treated and shall specify that amounts spent for independent research and development and bid and proposal costs shall not be considered to be Federal funds for the purposes of definitions under this paragraph.
 
 (b) Regulations prescribed under subsection (a) shall require that, whenever practicable, a contract for supplies or services entered into by an agency named in section 2303 of this title contain appropriate provisions relating to technical data, including provisions—
 
@@ -102,7 +102,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 1994—Subsec. (b)(1). Pub. L. 103–355 inserted before semicolon at end “and providing that, in the case of a contract for a commercial item, the item shall be presumed to be developed at private expense unless shown otherwise in accordance with section 2321(f)”.
 
-1989—Subsec. (a)(4). Pub. L. 101–189 struck out par. (4) which provided that for purposes of this subsection, theterm “Federal Acquisition Regulation” means the single system of Government-wide procurement regulations as defined in section 4(4) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(4)).
+1989—Subsec. (a)(4). Pub. L. 101–189 struck out par. (4) which provided that for purposes of this subsection, the term “Federal Acquisition Regulation” means the single system of Government-wide procurement regulations as defined in section 4(4) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(4)).
 
 1987—Subsec. (a)(1). Pub. L. 100–180, §808(a)(1), inserted at end “Such regulations also may not impair the right of a contractor or subcontractor to receive from a third party a fee or royalty for the use of technical data pertaining to an item or process developed exclusively at private expense by the contractor or subcontractor, except as otherwise specifically provided by law.”
 
@@ -156,67 +156,7 @@ Section applicable with respect to solicitations issued after the end of the one
 
 #### Government-Industry Committee on Rights in Technical Data
 
-Pub. L. 102–190, div. A, title VIII, §807, Dec. 5, 1991, 105 Stat. 1421, as amended by Pub. L. 102–484, div. A, title VIII, §814, Oct. 23, 1992, 106 Stat. 2454; Pub. L. 105–85, div. A, title X, §1073(d)(3), Nov. 18, 1997, 111 Stat. 1905, provided that:
-
-“(a)
-
-Regulations.—(1) Not later than September 15, 1992, the Secretary of Defense shall prescribe final regulations required by subsection (a) of section 2320 of title 10, United States Code, that supersede the interim regulations prescribed before the date of the enactment of this Act \[Dec. 5, 1991\] for the purposes of that section.
-
-“(2) In prescribing such regulations, the Secretary shall give thorough consideration to the recommendations of the government-industry committee appointed pursuant to subsection (b).
-
-“(3) Not less than 30 days before prescribing such regulations, the Secretary shall—
-
-&emsp;“(A) transmit, on a day on which both Houses of Congress are in session, to the Committees on Armed Services of the Senate and House of Representatives a report containing such regulations, the recommendations of the committee, and any matters required by subsection (b)(4); and
-
-&emsp;“(B) publish such regulations for comment in the Federal Register.
-
-“(4) The regulations shall apply to contracts entered into on or after November 1, 1992, or, if provided in the regulations, an earlier date. The regulations may be applied to any other contract upon the agreement of the parties to the contract.
-
-“(b)
-
-Government-Industry Committee.—(1) Not later than 60 days after the date of the enactment of this Act\[Dec. 5, 1991\], the Secretary of Defense shall appoint a government-industry committee for the purpose of developing regulations to recommend to the Secretary of Defense for purposes of carrying out subsection (a).
-
-“(2) The membership of the committee shall include, at a minimum, representatives of the following:
-
-&emsp;“(A) The Under Secretary of Defense for Acquisition and Technology.
-
-&emsp;“(B) The acquisition executives of the military departments.
-
-&emsp;“(C) Prime contractors under major defense acquisition programs.
-
-&emsp;“(D) Subcontractors and suppliers under major defense acquisition programs.
-
-&emsp;“(E) Contractors under contracts other than contracts under major defense acquisition programs.
-
-&emsp;“(F) Subcontractors and suppliers under contracts other than contracts under major defense acquisition programs.
-
-&emsp;“(G) Small businesses.
-
-&emsp;“(H) Contractors and subcontractors primarily involved in the sale of commercial products to the Department of Defense.
-
-&emsp;“(I) Contractors and subcontractors primarily involved in the sale of spare or repair parts to the Department of Defense.
-
-&emsp;“(J) Institutions of higher education.
-
-“(3) Not later than June 1, 1992, the committee shall submit to the Secretary a report containing the following matters:
-
-&emsp;“(A) Proposals for the regulations to be prescribed by the Secretary pursuant to subsection (a).
-
-&emsp;“(B) Proposed legislation that the committee considers necessary to achieve the purposes of section 2320 of title 10, United States Code.
-
-&emsp;“(C) Any other recommendations that the committee considers appropriate.
-
-“(4) If the Secretary omits from the regulations prescribed pursuant to subsection (a) any regulation proposed by the advisory committee, any regulation proposed by a minority of the committee in any minority report accompanying the committee's report, or any part of such a proposed regulation, the Secretary shall set forth his reasons for each such omission in the report submitted to Congress pursuant to subsection (a)(3)(A).
-
-“(c)
-
-Restriction.—(1) Before the expiration of the period described in paragraph (2), the Secretary may not revise or supersede the interim regulations implementing section 2320 of title 10, United States Code, prescribed before the date of the enactment of this Act \[Dec. 5, 1991\], except to the extent required by law or necessitated by urgent and unforeseen circumstances affecting the national defense.
-
-“(2) The period referred to in paragraph (1) is the period of 30 days of continuous session of Congress beginning on the date on which the report required by subsection (a)(3) is transmitted to the Committees on Armed Services of the Senate and House of Representatives. For purposes of this paragraph, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of the 30-day period.
-
-“(d)
-
-Definition.—In this section, the term ‘major defense acquisition program’ has the meaning given such term by section 2430 of title 10, United States Code.”
+Pub. L. 102–190, div. A, title VIII, §807, Dec. 5, 1991, 105 Stat. 1421, as amended by Pub. L. 102–484, div. A, title VIII, §814, Oct. 23, 1992, 106 Stat. 2454; Pub. L. 105–85, div. A, title X, §1073(d)(3), Nov. 18, 1997, 111 Stat. 1905, provided that not later than Sept. 15, 1992, the Secretary of Defense was to prescribe final regulations required by subsec. (a) of this section that supersede the interim regulations prescribed before Dec. 5, 1991, for the purposes of this section and contained various provisions relating to a government-industry advisory committee, reports to Congress, publication of the regulations, and application of the regulations.
 
 #### Control of Government Personnel Work Product
 

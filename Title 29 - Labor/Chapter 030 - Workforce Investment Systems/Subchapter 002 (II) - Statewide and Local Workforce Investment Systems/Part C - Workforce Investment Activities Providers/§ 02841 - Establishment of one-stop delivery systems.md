@@ -34,7 +34,7 @@ Consistent with the State plan, the local board for a local area, with the agree
 
 &emsp;&emsp;&emsp;(iv) programs authorized under title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.) (other than part C of title I of such Act \[29 U.S.C. 741\] and subject to subsection (f) of this section);
 
-&emsp;&emsp;&emsp;(v) programs authorized under section 403(a)(5) of the Social Security Act (42 U.S.C. 603(a)(5)) (as added by section 5001 of the Balanced Budget Act of 1997);
+&emsp;&emsp;&emsp;(v) programs authorized under section 403(a)(5) of the Social Security Act (42U.S.C. 603(a)(5)) (as added by section 5001 of the Balanced Budget Act of 1997);
 
 &emsp;&emsp;&emsp;(vi) activities authorized under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.);
 
@@ -130,7 +130,7 @@ Consistent with the State plan, the local board for a local area, with the agree
 
 #### (3) Exception
 
-&emsp;Elementary schools and secondary schools shall not be eligible for designation or certification as one-stop operators, except that nontraditional public secondary schools and area vocational education schools shall be eligible for such designation or certification.
+&emsp;Elementary schools and secondary schools shall not be eligible for designation or certification as one-stop operators, except that nontraditional public secondary schools and areavocational education schools shall be eligible for such designation or certification.
 
 #### (e) Established one-stop delivery system
 

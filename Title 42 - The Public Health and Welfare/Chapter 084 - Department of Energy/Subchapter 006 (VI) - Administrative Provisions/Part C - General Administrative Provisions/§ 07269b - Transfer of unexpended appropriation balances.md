@@ -1,6 +1,6 @@
 ### §7269b. Transfer of unexpended appropriation balances
 
-The unexpended balances of prior appropriations provided for activities in this Act or subsequent Energy and Water Development Appropriations Acts may on and after October 2, 1992,be transferred to appropriation accounts for such activities established pursuant to this title.<sup>1</sup> Balances so transferred may be merged with funds in the applicable established accounts and thereafter may be accounted for as one fund for the same time period as originally enacted.
+The unexpended balances of prior appropriations provided for activities in this Act or subsequent Energy and Water Development Appropriations Acts may on and after October 2, 1992, be transferred to appropriation accounts for such activities established pursuant to this title.<sup>1</sup> Balances so transferred may be merged with funds in the applicable established accounts and thereafter may be accounted for as one fund for the same time period as originally enacted.
 
 (Pub. L. 102–377, title III, §303, Oct. 2, 1992, 106 Stat. 1339.)
 

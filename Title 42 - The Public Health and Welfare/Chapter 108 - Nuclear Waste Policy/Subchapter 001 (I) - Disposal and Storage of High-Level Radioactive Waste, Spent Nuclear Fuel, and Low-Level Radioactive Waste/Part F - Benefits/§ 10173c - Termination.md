@@ -4,7 +4,7 @@
 
 The Secretary may terminate a benefits agreement under this subchapter if—
 
-&emsp;(1) the site under consideration is disqualified for its failure to comply with guidelinesand technical requirements established by the Secretary in accordance with this chapter; or
+&emsp;(1) the site under consideration is disqualified for its failure to comply with guidelines and technical requirements established by the Secretary in accordance with this chapter; or
 
 &emsp;(2) the Secretary determines that the Commission cannot license the facility within a reasonable time.
 

@@ -18,7 +18,7 @@ Based on title 28, U.S.C., 1940 ed., §§71, 114 (Mar. 3, 1911, ch. 231, §§28,
 
 Section consolidates removal provisions of sections 71 and 114 of title 28, U.S.C., 1940 ed., and is intended to resolve ambiguities and conflicts of decisions.
 
-Phrases such as “in suits of a civil nature, at law or in equity,” the words “case,” “cause,” “suit,” and the like have been omitted and the words “civil action” substituted in harmony with Rules 2 and 81(c) of the Federal Rules of Civil Procedure.
+Phrases such as “in suits of a civil nature, at law or in equity,” the words “case,” “cause,” “suit,” and thelike have been omitted and the words “civil action” substituted in harmony with Rules 2 and 81(c) of the Federal Rules of Civil Procedure.
 
 Ambiguous phrases such as “the District Court of the United States for the proper district” have been clarified by the substitution of the phrase “the district and division embracing the place where such action is pending.” (See <i>General Investment Co. v. Lake Shore \& M.S. Ry. Co</i>., 1922, 43 S.Ct. 107, 112, 260 U.S. 261, 67 L.Ed. 244 and cases cited therein.)
 

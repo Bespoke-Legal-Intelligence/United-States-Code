@@ -186,7 +186,7 @@ Computation of taxable income.—For purposes of this paragraph, taxable income 
 
 Subsec. (d)(1). Pub. L. 100–647, §1002(a)(19), substituted “tangible property (to which section 168 applies)” for “recovery property”.
 
-1986—Subsec. (b). Pub. L. 99–514, §202(a), in amending subsec. (b) generally, substituted “Limitations” for “Dollar limitation” in heading, in par. (1) substituted as heading “Dollar limitation” for “In general” and in text “shall not exceed $10,000” for “shall not exceed the following applicable amount:” and a table specifying amounts for specific years, added pars. (2) to (4), and struck out former par. (2) which read as follows: “In the case of a husband and wife filing separate returns for a taxable year, the applicable amount under paragraph (1) shall be equal to 50 percent of the amount otherwise determined under paragraph (1).”
+1986—Subsec. (b). Pub. L. 99–514, §202(a), in amending subsec. (b) generally, substituted “Limitations” for “Dollar limitation” in heading, in par. (1) substituted as heading “Dollar limitation” for “In general” and in text “shall not exceed $10,000” for “shall not exceed the following applicable amount:” and a table specifying amounts for specific years, added pars. (2) to (4), and struck out former par. (2) which read as follows: “In the case of a husband and wife filing separate returnsfor a taxable year, the applicable amount under paragraph (1) shall be equal to 50 percent of the amount otherwise determined under paragraph (1).”
 
 Subsec. (d)(1). Pub. L. 99–514, §202(b), inserted “in the active conduct of”.
 
@@ -226,7 +226,7 @@ Section 13116(b) of Pub. L. 103–66 provided that: “The amendment made by sub
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicableto any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Effective Date of 1988 Amendment
 

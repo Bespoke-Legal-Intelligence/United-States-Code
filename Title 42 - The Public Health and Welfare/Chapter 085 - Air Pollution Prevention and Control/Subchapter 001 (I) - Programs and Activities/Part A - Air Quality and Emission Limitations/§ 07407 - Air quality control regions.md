@@ -14,7 +14,7 @@ For purposes of developing and carrying out implementation plans under section 7
 
 #### (c) Authority of Administrator to designate regions; notification of Governors of affected States
 
-The Administrator shall, within 90 days after December 31, 1970, after consultation with appropriate State and local authorities, designate as an air quality control region any interstate area or major intrastate area which he deems necessary or appropriate for the attainment andmaintenance of ambient air quality standards. The Administrator shall immediately notify the Governors of the affected States of any designation made under this subsection.
+The Administrator shall, within 90 days after December 31, 1970, after consultation with appropriate State and local authorities, designate as an air quality control region any interstate area or major intrastate area which he deems necessary or appropriate for the attainment and maintenance of ambient air quality standards. The Administrator shall immediately notify the Governors of the affected States of any designation made under this subsection.
 
 #### (d) Designations
 
@@ -84,7 +84,7 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 #### (A) Ozone and carbon monoxide
 
-&emsp;&emsp;(i) Within 120 days after November 15, 1990, each Governor of each State shall submit to the Administrator a list that designates, affirms or reaffirms the designation of, or redesignates (as the case may be), all areas (or portions thereof) of the Governor's State as attainment, nonattainment, or unclassifiable with respect to the national ambient air quality standards for ozone and carbon monoxide.
+&emsp;&emsp;(i) Within 120 days after November 15, 1990, each Governor of each State shall submit to the Administrator a list that designates, affirms or reaffirms the designation of, or redesignates (as the case may be), all areas (orportions thereof) of the Governor's State as attainment, nonattainment, or unclassifiable with respect to the national ambient air quality standards for ozone and carbon monoxide.
 
 &emsp;&emsp;(ii) No later than 120 days after the date the Governor is required to submit the list of areas (or portions thereof) required under clause (i) of this subparagraph, the Administrator shall promulgate such designations, making such modifications as the Administrator may deem necessary, in the same manner, and under the same procedure, as is applicable under clause (ii) of paragraph (1)(B), except that the phrase “60 days” shall be substituted for the phrase “120 days” in that clause. If the Governor does not submit, in accordance with clause (i) of this subparagraph, a designation for an area (or portion thereof), the Administrator shall promulgate the designation that the Administrator deems appropriate.
 
@@ -196,7 +196,7 @@ Pub. L. 105–178, title VI, June 9, 1998, 112 Stat. 463, provided that:
 
 #### Pending Actions and Proceedings
 
-Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L.95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

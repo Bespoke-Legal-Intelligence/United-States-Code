@@ -6,7 +6,7 @@ Exchange Program Authorized.—The Secretary of the Air Force may permit a stude
 
 (b)
 
-Limitations on Number and Duration of Exchanges.—An exchange agreement under this section between the Secretary and a foreign country shall provide for the exchange of students on a one-for-one basis each fiscal year. Not more than 10 Air Force cadets and a comparable number of students from all foreign military academies participating in the exchange program may be exchanged during any fiscal year. The duration of an exchange may not exceed the equivalent of one academic semester at the Air Force Academy.
+Limitations on Number and Duration of Exchanges.—An exchange agreement under this section between the Secretary and a foreign country shall provide for the exchange of students on a one-for-one basis each fiscal year. Not more than 24 Air Force cadets and a comparable number of students from all foreign military academies participating in the exchange program may be exchanged during any fiscal year. The duration of an exchange may not exceed the equivalent of one academic semester at the Air Force Academy.
 
 (c)
 
@@ -14,7 +14,7 @@ Costs and Expenses.—(1) A student from a military academy of a foreign country
 
 (2) The Secretary may provide a student from a foreign country under the exchange program, during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreign country provides comparable support and services to the exchanged Air Force cadet in that foreign country.
 
-(3) The Air Force Academy shall bear all costs of the exchange program from funds appropriated for the Academy. Expenditures in support of the exchange program may not exceed $50,000 during any fiscal year.
+(3) The Air Force Academy shall bear all costs of the exchange program from funds appropriated for the Academy. Expenditures in support of the exchange program may not exceed $120,000 during any fiscal year.
 
 (d)
 
@@ -24,9 +24,15 @@ Application of Other Laws.—Subsections (c) and (d) of section 9344 of this tit
 
 Regulations.—The Secretary shall prescribe regulations to implement this section. Such regulations may include qualification criteria and methods of selection for students of foreign military academies to participate in the exchange program.
 
-(Added Pub. L. 105–85, div. A, title V, §542(c)(1), Nov. 18, 1997, 111 Stat. 1742.)
+(Added Pub. L. 105–85, div. A, title V, §542(c)(1), Nov. 18, 1997, 111 Stat. 1742; amended Pub. L. 106–65, div. A, title V, §535(c), Oct. 5, 1999, 113 Stat. 606.)
 
 #### Prior Provisions
 
 A prior section 9345, act Aug. 10, 1956, ch. 1041, 70A Stat. 565, related to selection of Filipinos for instruction at the Air Force Academy, prior to repeal by Pub. L. 98–94, title X, §1004(c)(2), (d), Sept. 24, 1983, 97 Stat. 660, effective one year after Sept. 24, 1983.
+
+#### Amendments
+
+1999—Subsec. (b). Pub. L. 106–65, §535(c)(1), substituted “24 Air Force cadets” for “10 Air Force cadets”.
+
+Subsec. (c)(3). Pub. L. 106–65, §535(c)(2), substituted “$120,000” for “$50,000”.
 

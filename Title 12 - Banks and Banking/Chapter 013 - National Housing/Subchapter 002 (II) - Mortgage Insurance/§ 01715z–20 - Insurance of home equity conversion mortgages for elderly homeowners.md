@@ -12,7 +12,7 @@ The purpose of this section is to authorize the Secretary to carry out a program
 
 For purposes of this section:
 
-&emsp;(1) The terms “elderly homeowner” and “homeowner” mean any homeowner who is, or whose spouse is, at least 62 years of age or such higher age as the Secretary may prescribe.
+&emsp;(1) The terms “elderly homeowner” and “homeowner” mean any homeowner who is, orwhose spouse is, at least 62 years of age or such higher age as the Secretary may prescribe.
 
 &emsp;(2) The terms “mortgage”, “mortgagee”, “mortgagor”, and “State” have the meanings given such terms in section 1707 of this title.
 
@@ -20,7 +20,7 @@ For purposes of this section:
 
 #### (c) Insurance authority
 
-The Secretary may, upon application by a mortgagee, insure any home equity conversionmortgage eligible for insurance under this section and, upon such terms and conditions as the Secretary may prescribe, make commitments for the insurance of such mortgages prior to the date of their execution or disbursement to the extent that the Secretary determines such mortgages—
+The Secretary may, upon application by a mortgagee, insure any home equity conversion mortgage eligible for insurance under this section and, upon such terms and conditions as the Secretary may prescribe, make commitments for the insurance of such mortgages prior to the date of their execution or disbursement to the extent that the Secretary determines such mortgages—
 
 &emsp;(1) have promise for improving the financial situation or otherwise meeting the special needs of elderly homeowners;
 
@@ -84,7 +84,7 @@ The Secretary shall require each mortgagee of a mortgage insured under this sect
 
 &emsp;(1) at the time of the loan application, a written list of the names and addresses of third-party information sources who are approved by the Secretary as responsible and able to provide the information required by subsection (f) of this section;
 
-&emsp;(2) at least 10 days prior to loan closing, a statement informing the homeowner that the liability of the homeowner under the mortgage is limited and explaining the homeowner's rights, obligations, and remedies with respect to temporary absences from the home, late payments, and payment default by the lender, all conditions requiring satisfaction of the loan obligation, and any other information that the Secretary may require;
+&emsp;(2) at least 10 days prior to loan closing, a statement informing the homeowner that the liability of the homeowner under the mortgage is limited and explaining the homeowner's rights, obligations, and remedies withrespect to temporary absences from the home, late payments, and payment default by the lender, all conditions requiring satisfaction of the loan obligation, and any other information that the Secretary may require;
 
 &emsp;(3) on an annual basis (but not later than January 31 of each year), a statement summarizing the total principal amount paid to the homeowner under the loan secured by the mortgage, the total amount of deferred interest added to the principal, and the outstanding loan balance at the end of the preceding year; and
 
@@ -160,7 +160,7 @@ Of any amounts made available for any of fiscal years 2000 through 2003 for hous
 
 &emsp;For transfer to the departmental salaries and expenses account for consumer education and outreach activities.
 
-(June 27, 1934, ch. 847, title II, §255, as added Pub. L. 100–242, title IV, §417(a), Feb. 5, 1988, 101Stat. 1908; amended Pub. L. 100–628, title X, §1066, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 101–508, title II, §2106, Nov. 5, 1990, 104 Stat. 1388–20; Pub. L. 101–625, title III, §334(b)–(d), Nov. 28, 1990, 104 Stat. 4141, 4142; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592; Pub. L. 102–550, title V, §§503(c)(2), 520, Oct. 28, 1992, 106 Stat. 3779, 3793; Pub. L. 104–99, title IV, §406, Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–120, §6, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–276, title V, §593(a)–(e)(1), Oct. 21, 1998, 112 Stat. 2654, 2655.)
+(June 27, 1934, ch. 847, title II, §255, as added Pub. L. 100–242, title IV, §417(a), Feb. 5, 1988, 101 Stat. 1908; amended Pub. L. 100–628, title X, §1066, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 101–508, title II, §2106, Nov. 5, 1990, 104 Stat. 1388–20; Pub. L. 101–625, title III, §334(b)–(d), Nov. 28, 1990, 104 Stat. 4141, 4142; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592; Pub. L. 102–550, title V, §§503(c)(2), 520, Oct. 28, 1992, 106 Stat. 3779, 3793; Pub. L. 104–99, title IV, §406, Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–120, §6, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–276, title V, §593(a)–(e)(1), Oct. 21, 1998, 112 Stat. 2654, 2655.)
 
 #### Amendments
 

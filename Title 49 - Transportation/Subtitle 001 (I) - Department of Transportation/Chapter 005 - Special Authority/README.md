@@ -36,7 +36,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 104 of this title.
+This chapter is referred to in sections 113, 13905, 31148 of this title.
 
 
 ---

@@ -22,22 +22,6 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;“Copyright owner”, with respect to any one of the exclusive rights comprised in a copyright, refers to the owner of that particular right.
 
-&emsp;For purposes of section 411, a work is a “United States work” only if—
-
-&emsp;&emsp;(1) in the case of a published work, the work is first published—
-
-&emsp;&emsp;&emsp;(A) in the United States;
-
-&emsp;&emsp;&emsp;(B) simultaneously in the United States and another treaty party or parties, whose law grants a term of copyright protection that is the same as or longer than the term provided in the United States;
-
-&emsp;&emsp;&emsp;(C) simultaneously in the United States and a foreign nation that is not a treaty party; or
-
-&emsp;&emsp;&emsp;(D) in a foreign nation that is not a treaty party, and all of the authors of the work are nationals, domiciliaries, or habitual residents of, or in the case of an audiovisual work legal entities with headquarters in, the United States;
-
-&emsp;&emsp;(2) in the case of an unpublished work, all the authors of the work are nationals, domiciliaries, or habitual residents of the United States, or, in the case of an unpublished audiovisual work, all the authors are legal entities with headquarters in the United States; or
-
-&emsp;&emsp;(3) in the case of a pictorial, graphic, or sculptural work incorporated in a building or structure, the building or structure is located in the United States.
-
 &emsp;A work is “created” when it is fixed in a copy or phonorecord for the first time; where a work is prepared over a period of time, the portion of it that has been fixed at any particular time constitutes the work as of that time, and where the work has been prepared in different versions, each version constitutes a separate work.
 
 &emsp;A “derivative work” is a work based upon one or more preexisting works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted. A work consisting of editorial revisions, annotations, elaborations, or other modifications which, as a whole, represent an original work of authorship, is a “derivative work”.
@@ -92,11 +76,11 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;“Pictorial, graphic, and sculptural works” include two-dimensional and three-dimensional works of fine, graphic, and applied art, photographs, prints and art reproductions, maps, globes, charts, diagrams, models, and technical drawings, including architectural plans. Such works shall include works of artistic craftsmanship insofar as their form but not their mechanical or utilitarian aspects are concerned; the design of a useful article, as defined in this section, shall be considered a pictorial, graphic, or sculptural work only if, and only to the extent that, such design incorporates pictorial, graphic, or sculptural features that can be identified separately from, and are capable of existing independently of, the utilitarian aspects of the article.
 
-&emsp;A “proprietor” is an individual, corporation, partnership, or other entity, as the case may be, that owns an establishment or a food service or drinking establishment, except that no owner or operator of a radio or television station licensed by the Federal Communications Commission, cable system or satellite carrier, cable or satellite carrier service or programmer, provider of online services or network access or the operator of facilities therefor, telecommunications company, or any other such audio or audiovisual service or programmer now known or as may be developed in the future, commercial subscription music service, or owner or operator of any other transmission service, shall under any circumstances be deemed to be a proprietor.
+&emsp;For purposes of section 513, a “proprietor” is an individual, corporation, partnership, or other entity, as the case may be, that owns an establishment or a food service or drinking establishment, except that no owner or operator of a radio or television station licensed by the Federal Communications Commission, cable system or satellite carrier, cable or satellite carrier service or programmer, provider of online services or network access or the operator of facilities therefor, telecommunications company, or any other such audio or audiovisual service or programmer now known or as may be developed in the future, commercial subscription music service, or owner or operator of any other transmission service, shall under any circumstances be deemed to be a proprietor.
 
 &emsp;A “pseudonymous work” is a work on the copies or phonorecords of which the author is identified under a fictitious name.
 
-&emsp;“Publication” is the distribution of copies or phonorecords of a work to the public by sale or other transfer of ownership, or by rental, lease, or lending. The offering to distribute copies or phonorecords to a group of persons for purposes of further distribution, public performance, or public display, constitutes publication. A public performance or displayof a work does not of itself constitute publication.
+&emsp;“Publication” is the distribution of copies or phonorecords of a work to the public by sale or other transfer of ownership, or by rental, lease, or lending. The offering to distribute copies or phonorecords to a group of persons for purposes of further distribution, public performance, or public display, constitutes publication. A public performance or display of a work does not of itself constitute publication.
 
 &emsp;“Registration”, for purposes of sections 205(c)(2), 405, 406, 410(d), 411, 412, and 506(e), means a registration of a claim in the original or the renewed and extended term of copyright.
 
@@ -106,7 +90,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;&emsp;(2) to transmit or otherwise communicate a performance or display of the work to a place specified by clause (1) or to the public, by means of any device or process, whether the members of the public capable of receiving the performance or display receive it in the same place or in separate places and at the same time or at different times.
 
-&emsp;“Sound recordings” are works that result from the fixation of a series of musical, spoken, or other sounds, but not including the sounds accompanying a motion picture or other audiovisual work, regardless of the nature of the material objects, such as disks, tapes, or other phonorecords, in which they are embodied.
+&emsp;“Sound recordings” are works that result from the fixation of a series of musical, spoken, or other sounds, but not including thesounds accompanying a motion picture or other audiovisual work, regardless of the nature of the material objects, such as disks, tapes, or other phonorecords, in which they are embodied.
 
 &emsp;“State” includes the District of Columbia and the Commonwealth of Puerto Rico, and any territories to which this title is made applicable by an Act of Congress.
 
@@ -119,6 +103,22 @@ Except as otherwise provided in this title, as used in this title, the following
 &emsp;A “treaty party” is a country or intergovernmental organization other than the United States that is a party to an international agreement.
 
 &emsp;The “United States”, when used in a geographical sense, comprises the several States, the District of Columbia and the Commonwealth of Puerto Rico, and the organized territories under the jurisdiction of the United States Government.
+
+&emsp;For purposes of section 411, a work is a “United States work” only if—
+
+&emsp;&emsp;(1) in the case of a published work, the work is first published—
+
+&emsp;&emsp;&emsp;(A) in the United States;
+
+&emsp;&emsp;&emsp;(B) simultaneously in the United States and another treaty party or parties, whose law grants a term of copyright protection that is the same as or longer than the term provided in the United States;
+
+&emsp;&emsp;&emsp;(C) simultaneously in the United States and a foreign nation that is not a treaty party; or
+
+&emsp;&emsp;&emsp;(D) in a foreign nation that is not a treaty party, and all of the authors of the work are nationals, domiciliaries, or habitual residents of, or in the case of an audiovisual work legal entities with headquarters in, the United States;
+
+&emsp;&emsp;(2) in the case of an unpublished work, all the authors of the work are nationals, domiciliaries, or habitual residents of the United States, or, in the case of an unpublished audiovisual work, all the authors are legal entities with headquarters in the United States; or
+
+&emsp;&emsp;(3) in the case of a pictorial, graphic, or sculptural work incorporated in a building or structure, the building or structure is located in the United States.
 
 &emsp;A “useful article” is an article having an intrinsic utilitarian function that is not merely to portray the appearance of the article or to convey information. An article that is normally a part of a useful article is considered a “useful article”.
 
@@ -148,13 +148,13 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;&emsp;(1) a work prepared by an employee within the scope of his or her employment; or
 
-&emsp;&emsp;(2) a work specially ordered or commissioned for use as a contribution to a collective work, as a part of a motion picture or other audiovisual work, as a translation, as a supplementary work, as a compilation, as an instructional text, as a test, as answer material for a test, or as an atlas, if the parties expressly agree in a written instrument signed by them that the work shall be considered a work made for hire. For the purpose of the foregoing sentence, a “supplementary work” is a work prepared for publication as a secondary adjunct to a work by another author for the purpose of introducing, concluding, illustrating, explaining, revising, commenting upon, or assisting in the use of the other work, such as forewords, afterwords, pictorial illustrations, maps, charts, tables, editorial notes, musical arrangements, answer material for tests, bibliographies, appendixes, and indexes, and an “instructional text” is a literary, pictorial, or graphic work prepared for publication and with the purpose of use in systematic instructional activities.
+&emsp;&emsp;(2) a work specially ordered or commissioned for use as a contribution to a collective work, as a part of a motion picture or other audiovisual work, as a sound recording, as a translation, as a supplementary work, as a compilation, as an instructional text, as a test, as answer material for a test, or as an atlas, if the parties expressly agree in a written instrument signed by them that the work shall be considered a work made for hire. For the purpose of the foregoing sentence, a “supplementary work” is a work prepared for publication as a secondary adjunct to a work by another author for the purpose of introducing, concluding, illustrating, explaining, revising, commenting upon, or assisting in the use of the other work, such as forewords, afterwords, pictorial illustrations, maps, charts, tables, editorial notes, musical arrangements, answer material for tests, bibliographies, appendixes, and indexes, and an “instructional text” is a literary, pictorial, or graphic work prepared for publication and with the purpose of use in systematic instructional activities.
 
-&emsp;The terms “WTO Agreement” and “WTO member country” have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.
+&emsp;The terms “WTO Agreement” and “WTO member country” have the meanings giventhose terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.
 
 &emsp;A “computer program” is a set of statements or instructions to be used directly or indirectly in a computer in order to bring about a certain result.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, §5(a), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §12(a)(3), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–147, §2(a), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 105–298, title II, §205, Oct. 27, 1998, 112 Stat. 2833; Pub. L. 105–304, title I, §102(a), Oct. 28, 1998, 112 Stat. 2861.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, §5(a), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §12(a)(3), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–147, §2(a), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 105–298, title II, §205, Oct. 27, 1998, 112 Stat. 2833; Pub. L. 105–304, title I, §102(a), Oct. 28, 1998, 112 Stat. 2861; Pub. L. 106–44, §1(g)(1), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1011(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–544.)
 
 #### Amendment of Section
 
@@ -179,6 +179,12 @@ The Universal Copyright Convention, referred to in definition of “internationa
 Section 2 of the Uruguay Round Agreements Act, referred to in definitions of “WTO Agreement” and “WTO member country”, is classified to section 3501 of Title 19, Customs Duties.
 
 #### Amendments
+
+1999—Pub. L. 106–113, which directed the insertion of “as a sound recording,” after “audiovisual work” in par. (2) of definition relating to work made for hire, was executed by making the insertion after “audiovisual work,” to reflect the probable intent of Congress.
+
+Pub. L. 106–44, §1(g)(1)(B), in definition of “proprietor”, substituted “For purposes of section 513, a ‘proprietor’ ” for “A ‘proprietor’ ”.
+
+Pub. L. 106–44, §1(g)(1)(A), transferred definition of “United States work” to appear after definition of “United States”.
 
 1998—Pub. L. 105–304, §102(a)(1), struck out definition of “Berne Convention work”.
 
@@ -219,6 +225,10 @@ Pub. L. 100–568, §4(a)(1)(C), inserted definition of “country of origin”.
 Pub. L. 100–568, §4(a)(1)(A), in definition of “Pictorial, graphic, and sculptural works” substituted “diagrams, models, and technical drawings, including architectural plans” for “technical drawings, diagrams, and models”.
 
 1980—Pub. L. 96–517 inserted definition of “computer program”.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1012\], Nov. 29, 1999, 113 Stat. 1536, 1501A–544, provided that: “Sections 1001, 1003, 1005, 1007, 1008, 1009, 1010, and 1011 \[enacting sections 338 and 339 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, amending this section, sections 111, 119, 501, and 510 of this title, and section 325 of Title 47, enacting provisions set out as a note under this section and section 325 of Title 47, and amending provisions set out as a note under section 119 of this title\] (and the amendments made by such sections) shall take effect on the date of the enactment of this Act \[Nov. 29, 1999\]. The amendments made by sections 1002, 1004, and 1006 \[enacting section 122 of this title and amending sections 119 and 501 of this title\] shall be effective as of July 1, 1999.”
 
 #### Effective Date of 1998 Amendments
 
@@ -292,13 +302,19 @@ Effective Date.—This Act and the amendments made by this Act \[enacting sectio
 
 Effect on Pending Cases.—Any cause of action arising under title 17, United States Code, before the effective date of this Act shall be governed by the provisions of such title as in effect when the cause of action arose.”
 
+#### Short Title of 1999 Amendments
+
+Pub. L. 106–160, §1, Dec. 9, 1999, 113 Stat. 1774, provided that: “This Act \[amending section 504 of this title and enacting provisions set out as notes under section 504 of this title and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Digital Theft Deterrence and Copyright Damages Improvement Act of 1999’.”
+
+Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1001\], Nov. 29, 1999, 113 Stat. 1536, 1501A–523, provided that: “This title \[enacting section 122 of this title and sections 338 and 339 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, amending this section, sections 111, 119, 501, and 510 of this title, and section 325 of Title 47, enacting provisions set out as notes under this section and section 325 of Title 47, and amending provisions set out as a note under section 119 of this title\] may be cited as the ‘Satellite Home Viewer Improvement Act of 1999’.”
+
 #### Short Title of 1998 Amendments
 
 Pub. L. 105–304, §1, Oct. 28, 1998, 112 Stat. 2860, provided that: “This Act \[enacting section 512 and chapters 12 and 13 of this title and section 4001 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 104, 104A, 108, 112, 114, 117, 411, 507, 701, and 801 to 803 of this title, section 5314 of Title 5, Government Organization and Employees, sections 1338, 1400, and 1498 of Title 28, and section 3 of Title 35, Patents, and enacting provisions set out as notes under this section and sections 108, 109, 112, 114, 512, and 1301 of this title\] may be cited as the ‘Digital Millennium Copyright Act’.”
 
 Pub. L. 105–304, title I, §101, Oct. 28, 1998, 112 Stat. 2861, provided that: “This title \[enacting chapter 12 of this title, amending this section and sections 104, 104A, 411, and 507 of this title, and enacting provisions set out as notes under this section and section 109 of this title\] may be cited as the ‘WIPO Copyright and Performances and Phonograms Treaties Implementation Act of 1998’.”
 
-Pub. L. 105–304, title II, §201, Oct. 28, 1998, 112 Stat. 2877, provided that: “This title \[enacting section 512 of this title and provisions set out as a note under section 512 of this title\] may be cited as the ‘Online Copyright Infringement Liability Limitation Act’.”
+Pub. L. 105–304, title II, §201, Oct. 28, 1998, 112 Stat. 2877, provided that: “This title \[enacting section 512 ofthis title and provisions set out as a note under section 512 of this title\] may be cited as the ‘Online Copyright Infringement Liability Limitation Act’.”
 
 Pub. L. 105–304, title III, §301, Oct. 28, 1998, 112 Stat. 2886, provided that: “This title \[amending section 117 of this title\] may be cited as the ‘Computer Maintenance Competition Assurance Act’.”
 
@@ -322,7 +338,7 @@ Pub. L. 103–198, §1, Dec. 17, 1993, 107 Stat. 2304, provided that: “This Ac
 
 #### Short Title of 1992 Amendment
 
-Section 1 of Pub. L. 102–307 provided that: “This Act \[enacting sections 179 to 179k of Title 2, The Congress,amending this section and sections 108, 304, 408, 409, and 708 of this title, repealing sections 178 to 178<i>l</i> of Title 2, enacting provisions set out as notes under this section, section 304 of this title, and section 179 of Title 2, and repealing provisions set out as a note under section 178 of Title 2\] may be cited as the ‘Copyright Amendments Act of 1992’.”
+Section 1 of Pub. L. 102–307 provided that: “This Act \[enacting sections 179 to 179k of Title 2, The Congress, amending this section and sections 108, 304, 408, 409, and 708 of this title, repealing sections 178 to 178<i>l</i> of Title 2, enacting provisions set out as notes under this section, section 304 of this title, and section 179 of Title 2, and repealing provisions set out as a note under section 178 of Title 2\] may be cited as the ‘Copyright Amendments Act of 1992’.”
 
 Section 101 of title I of Pub. L. 102–307 provided that: “This title \[amending this section and sections 304, 408, 409, and 708 of this title and enacting provisions set out as notes under this section and section 304 of this title\] may be referred to as the ‘Copyright Renewal Act of 1992’.”
 
@@ -394,7 +410,7 @@ Section 12 of Pub. L. 100–568 provided that: “Title 17, United States Code, 
 
 #### Definitions
 
-Pub. L. 103–465, title V, §501, Dec. 8, 1994, 108 Stat. 4973, provided that: “For purposes of this title \[enacting section 1101 of this title and section 2319A of Title18, Crimes and Criminal Procedure, amending sections 104A and 109 of this title, sections 1052 and 1127 of Title 15, Commerce and Trade, and sections 41, 104, 111, 119, 154, 156, 172, 173, 252, 262, 271, 272, 287, 292, 295, 307, 365, and 373 of Title 35, Patents, enacting provisions set out as notes under section 1052 of Title 15 and sections 104 and 154 of Title 35, and amending provisions set out as a note under section 109 of this title\]—
+Pub. L. 103–465, title V, §501, Dec. 8, 1994, 108 Stat. 4973, provided that: “For purposes of this title \[enacting section 1101 of this title and section 2319A of Title 18, Crimes and Criminal Procedure, amending sections 104A and 109 of this title, sections 1052 and 1127 of Title 15, Commerce and Trade, and sections 41, 104, 111, 119, 154, 156, 172, 173, 252, 262, 271, 272, 287, 292, 295, 307, 365, and 373 of Title 35, Patents, enacting provisions set out as notes under section 1052 of Title 15 and sections 104 and 154 of Title 35, and amending provisions set out as a note under section 109 of this title\]—
 
 &emsp;“(1) the term ‘WTO Agreement’ has the meaning given that term in section 2(9) of the Uruguay Round Agreements Act \[19 U.S.C. 3501(9)\]; and
 
@@ -402,5 +418,5 @@ Pub. L. 103–465, title V, §501, Dec. 8, 1994, 108 Stat. 4973, provided that: 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106A, 114 of this title; title 2 section 179u; title 18 sections 2318, 2319; title 28 section 4001.
+This section is referred to in sections 106A, 114 of this title; title 2 section 179u; title 15 section 1129; title 18 sections 2318, 2319; title 28 section 4001.
 

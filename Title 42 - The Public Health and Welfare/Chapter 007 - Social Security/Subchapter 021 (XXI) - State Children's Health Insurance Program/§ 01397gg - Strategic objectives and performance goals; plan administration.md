@@ -82,3 +82,7 @@ The following sections of this chapter shall apply to States under this subchapt
 
 (Aug. 14, 1935, ch. 531, title XXI, §2107, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 565.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1397hh of this title.
+

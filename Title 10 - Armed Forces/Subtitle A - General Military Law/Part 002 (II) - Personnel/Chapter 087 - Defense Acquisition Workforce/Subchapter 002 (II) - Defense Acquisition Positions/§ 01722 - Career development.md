@@ -2,7 +2,7 @@
 
 (a)
 
-Career Paths.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, shall ensure that appropriate career paths for civilian and military personnel who wish to pursue careers in acquisition are identified in terms of the education, training, experience, and assignments necessary for career progression of civilians and members of the armed forces to the most senior acquisition positions. The Secretary shall make available published information on such career paths.
+Career Paths.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall ensure that appropriate career paths for civilian and military personnel who wish to pursue careers in acquisition are identified in terms of the education, training, experience, and assignments necessary for career progression of civilians and members of the armed forces to the most senior acquisition positions. The Secretary shall make available published information on such career paths.
 
 (b)
 
@@ -10,7 +10,7 @@ Limitation on Preference for Military Personnel.—(1) The Secretary of Defense 
 
 (2)(A) The Secretary shall establish a policy permitting a particular acquisition position to be specified as available only to members of the armed forces if a determination is made, under criteria specified in the policy, that a member of the armed forces is required for that position by law, is essential for performance of the duties of the position, or is necessary for another compelling reason.
 
-(B) Not later than December 15 of each year, the Under Secretary of Defense for Acquisition and Technology shall submit to the Secretary a report that lists each acquisition position that is restricted to members of the armed forces under such policy and the recommendation of the Under Secretary as to whether such position should remain so restricted.
+(B) Not later than December 15 of each year, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the Secretary a report that lists each acquisition position that is restricted to members of the armed forces under such policy and the recommendation of the Under Secretary as to whether such position should remain so restricted.
 
 (c)
 
@@ -36,11 +36,13 @@ Performance Appraisals.—The Secretary of each military department, acting thro
 
 (h)
 
-Balanced Workforce Policy.—In the development of defense acquisition workforce policies under this chapter with respect to any civilian employees or applicants for employment,the Secretary of Defense or the Secretary of a military department (as applicable) shall, consistent with the merit system principles set out in paragraphs (1) and (2) of section 2301(b) of title 5, take into consideration the need to maintain a balanced workforce in which women and members of racial and ethnic minority groups are appropriately represented in Government service.
+Balanced Workforce Policy.—In the development of defense acquisition workforce policies under this chapter with respect to any civilian employees or applicants for employment, the Secretary of Defense or the Secretary of a military department (as applicable) shall, consistent with the merit system principles set out in paragraphs (1) and (2) of section 2301(b) of title 5, take into consideration the need to maintain a balanced workforce in which women and members of racial and ethnic minority groups are appropriately represented in Government service.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1641; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1641; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717.)
 
 #### Amendments
+
+1999—Subsecs. (a), (b)(2)(B). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 1993—Subsecs. (a), (b)(2)(B). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 

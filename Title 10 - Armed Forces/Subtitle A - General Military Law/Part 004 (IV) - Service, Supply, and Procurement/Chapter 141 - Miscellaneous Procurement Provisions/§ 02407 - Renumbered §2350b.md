@@ -10,7 +10,7 @@ Section 1103 of Pub. L. 99–145, title XI, §1103, Nov. 8, 1985, 99 Stat. 712, 
 
 #### Authority of Secretary of Defense in Connection With NATO AWACS Program
 
-Pub. L. 97–86, title I, §103, Dec. 1, 1981, 95 Stat. 1100, as amended by Pub. L. 97–252, title I, §106, Sept. 8, 1982, 96 Stat. 720; Pub. L. 98–94, title I, §105, Sept. 24, 1983, 97 Stat. 620; Pub. L. 98–525, title I, §106, Oct. 19, 1984, 98 Stat. 2503; Pub. L. 99–145, title I, §106(b), Nov. 8, 1985, 99Stat. 596; Pub. L. 99–661, title I, §106, Nov. 14, 1986, 100 Stat. 3827; Pub. L. 100–180, title I, §109, Dec. 4, 1987, 101 Stat. 1036, which set forth authority of Secretary of Defense in connection with NATO AWACS Program, was repealed by Pub. L. 101–189, div. A, title IX, §932(b), Nov. 29, 1989, 103 Stat. 1537. See section 2350e of this title. Similar provisions were contained in the following prior authorization acts:
+Pub. L. 97–86, title I, §103, Dec. 1, 1981, 95 Stat. 1100, as amended by Pub. L. 97–252, title I, §106, Sept. 8, 1982, 96 Stat. 720; Pub. L. 98–94, title I, §105, Sept. 24, 1983, 97 Stat. 620; Pub. L. 98–525, title I, §106, Oct. 19, 1984, 98 Stat. 2503; Pub. L. 99–145, title I, §106(b), Nov. 8, 1985, 99 Stat. 596; Pub. L. 99–661, title I, §106, Nov. 14, 1986, 100 Stat. 3827; Pub. L. 100–180, title I, §109, Dec. 4, 1987, 101 Stat. 1036, which set forth authority of Secretary of Defense in connection with NATO AWACS Program, was repealed by Pub. L. 101–189, div. A, title IX, §932(b), Nov. 29, 1989, 103 Stat. 1537. See section 2350e of this title. Similar provisions were contained in the following prior authorization acts:
 
 Pub. L. 96–342, title I, §103, Sept. 8, 1980, 94 Stat. 1078.
 

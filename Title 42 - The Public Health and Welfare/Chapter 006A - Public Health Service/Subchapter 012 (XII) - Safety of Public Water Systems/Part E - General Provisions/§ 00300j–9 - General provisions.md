@@ -12,7 +12,7 @@ The Administrator, with the consent of the head of any other agency of the Unite
 
 #### (c) Assignment of Agency personnel to State or interstate agencies
 
-Upon the request of a State or interstate agency, the Administrator may assign personnel ofthe Agency to such State or interstate agency for the purposes of carrying out the provisions of this subchapter.
+Upon the request of a State or interstate agency, the Administrator may assign personnel of the Agency to such State or interstate agency for the purposes of carrying out the provisions of this subchapter.
 
 #### (d) Payments of grants; adjustments; advances; reimbursement; installments; conditions; eligibility for grants; “nonprofit agency or institution” defined
 
@@ -56,7 +56,7 @@ Not later than April 1 of each year, the Administrator shall submit to the Commi
 
 (B) An order of the Secretary with respect to which review could have been obtained under subparagraph (A) shall not be subject to judicial review in any criminal or other civil proceeding.
 
-(4) Whenever a person has failed to comply with an order issued under paragraph (2)(B), the Secretary shall file a civil action in the United States District Court for the district in which the violation was found to occur to enforce such order. In actions brought under this paragraph, the district courts shall have jurisdiction to grant all appropriate relief including, but not limited to, injunctive relief, compensatory, and exemplary damages.
+(4) Whenever a person has failed to comply with an order issued under paragraph (2)(B), the Secretary shall file a civil action in the United States District Court for the district in which the violation was found to occur to enforce such order. In actions brought under this paragraph, the district courts shall have jurisdiction to grant all appropriate relief including, but notlimited to, injunctive relief, compensatory, and exemplary damages.
 
 (5) Any nondiscretionary duty imposed by this section is enforceable in mandamus proceeding brought under section 1361 of title 28.
 

@@ -98,7 +98,7 @@ To the extent that, on the extinguishing of liabilities assumed by the Assistanc
 
 #### (5) Suspension of preservation agreements
 
-&emsp;During the 5-year period beginning on January 6, 1988, and thereafter whenever funds from the Farm Credit System Insurance Fund are available for use in assisting System institutions to meet their obligations on their debtinstruments, activation of the Thirty-Seven Banks Capital Preservation Agreement, the Federal Land Banks Capital Preservation Agreement, the Federal Intermediate Credit Banks Capital Preservation Agreement, and the Banks for Cooperatives Loss Sharing Agreement shall be suspended, in exchange for the benefits flowing to the signatories to such agreements under the Agricultural Credit Act of 1987.
+&emsp;During the 5-year period beginning on January 6, 1988, and thereafter whenever funds from the Farm Credit System Insurance Fund are available for use in assisting System institutions to meet their obligations on their debt instruments, activation of the Thirty-Seven Banks Capital Preservation Agreement, the Federal Land Banks Capital Preservation Agreement, the Federal Intermediate Credit Banks Capital Preservation Agreement, and the Banks for Cooperatives Loss Sharing Agreement shall be suspended, in exchange for the benefits flowing to the signatories to such agreements under the Agricultural Credit Act of 1987.
 
 (Pub. L. 92–181, title VI, §6.9, as added Pub. L. 100–233, title II, §201, Jan. 6, 1988, 101 Stat. 1591; amended Pub. L. 100–399, title II, §201(k), (<i>l</i>), Aug. 17, 1988, 102 Stat. 991; Pub. L. 102–552, title III, §301, Oct. 28, 1992, 106 Stat. 4107.)
 

@@ -42,7 +42,7 @@
 
 &emsp;(C) by 1998 (when model year 1999 begins) or the date specified by the Secretary in such rule for initiating a fleet requirement program—
 
-&emsp;&emsp;(i) there exists sufficient evidence to ensure that the fuel and the needed infrastructure, including the supply and deliverability systems, will be installed and located at convenient places in the fleet areas subject to the rule and will be fully operational when the rule is effective to offer a reliable and timely supply of the applicable alternative fuel at reasonable costs (as compared to conventional fuels) to meet the fleet requirement program, as demonstrated through useof the provisions of section 13255(1) of this title regarding voluntary commitments or other adequate, reliable, and convincing forms of agreements, arrangements, or representations that such fuels and infrastructure are in existence or will exist when the rule is effective and will be expanded as the percentages increase annually;
+&emsp;&emsp;(i) there exists sufficient evidence to ensure that the fuel and the needed infrastructure, including the supply and deliverability systems, will be installed and located at convenient places in the fleet areas subject to the rule and will be fully operational when the rule is effective to offer a reliable and timely supply of the applicable alternative fuel at reasonable costs (as compared to conventional fuels) to meet the fleet requirement program, as demonstrated through use of the provisions of section 13255(1) of this title regarding voluntary commitments or other adequate, reliable, and convincing forms of agreements, arrangements, or representations that such fuels and infrastructure are in existence or will exist when the rule is effective and will be expanded as the percentages increase annually;
 
 &emsp;&emsp;(ii) there will be a sufficient number of new alternative fueled vehicles from original equipment manufacturers that comply with all applicable requirements of the Clean Air Act \[42 U.S.C. 7401 et seq.\] and chapter 301 of title 49;
 
@@ -94,7 +94,7 @@ If the Secretary determines, based on findings under subsection (b) or (e) of th
 
 #### (g) Fleet requirement program
 
-(1) If the Secretary determines under subsection (e) of this section that a fleet requirement program is necessary, the Secretary shall,by January 1, 2000, by rule require that, except as provided in paragraph (2), of the total number of new light duty motor vehicles acquired for a fleet, other than a Federal fleet, State fleet, or fleet owned, operated, leased, or otherwise controlled by a covered person under section 13251 of this title—
+(1) If the Secretary determines under subsection (e) of this section that a fleet requirement program is necessary, the Secretary shall, by January 1, 2000, by rule require that, except as provided in paragraph (2), of the total number of new light duty motor vehicles acquired for a fleet, other than a Federal fleet, State fleet, or fleet owned, operated, leased, or otherwise controlled by a covered person under section 13251 of this title—
 
 &emsp;(A) 20 percent of the motor vehicles acquired in model year 2002;
 

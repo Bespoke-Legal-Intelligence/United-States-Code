@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each manufacturer of a covered product to which a rule under section 6294 of this title applies shall provide a label which meets, and is displayed in accordance with, the requirements of such rule. If such manufacturer or any distributor, retailer, or private labeler of such product advertises such product in a catalog from which it may be purchased, such catalog shall contain all information required to be displayed on the label, except as otherwise provided by rule of the Commission. The preceding sentence shall not require that a catalog contain information respecting a covered product if the distribution of such catalog commenced before the effective date of the labeling rule undersection 6294 of this title applicable to such product.
+Each manufacturer of a covered product to which a rule under section 6294 of this title applies shall provide a label which meets, and is displayed in accordance with, the requirements of such rule. If such manufacturer or any distributor, retailer, or private labeler of such product advertises such product in a catalog from which it may be purchased, such catalog shall contain all information required to be displayed on the label, except as otherwise provided by rule of the Commission. The preceding sentence shall not require that a catalog contain information respecting a covered product if the distribution of such catalog commenced before the effective date of the labeling rule under section 6294 of this title applicable to such product.
 
 #### (b) Notification
 
@@ -20,7 +20,7 @@ Each manufacturer of a covered product to which a rule under section 6294 of thi
 
 &emsp;(B) by the Commission for purposes of ascertaining whether the information set out on a label of a product, as required under section 6294 of this title, is accurate,
 
-> each manufacturer of such a product shall supply at his expense a reasonable number of such covered products to any laboratory designated by the Secretary or the Commission, as the case may be. Any reasonable charge levied by the laboratory for such testing shall be borne by the United States, if and to the extent provided in appropriation Acts.
+> each manufacturer of such a product shall supply at his expense a reasonable number of suchcovered products to any laboratory designated by the Secretary or the Commission, as the case may be. Any reasonable charge levied by the laboratory for such testing shall be borne by the United States, if and to the extent provided in appropriation Acts.
 
 (4) Each manufacturer of a covered product to which a rule under section 6294 of this title applies shall annually, at a time specified by the Commission, supply to the Commission relevant data respecting energy consumption or water use developed in accordance with the test procedures applicable to such product under section 6293 of this title.
 

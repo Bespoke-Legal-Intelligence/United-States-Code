@@ -12,7 +12,7 @@ As used in this subchapter—
 
 &emsp;(1) the renovation of facilities if (A) the amount of the expenditure of Federal funds for such purpose in the case of any project does not exceed $250,000, or (B) two-thirds of the members of the National Council on the Arts or the National Council on the Humanities, as the case may be (who are present and voting) approve of the grant or contract involving an expenditure for such purpose; and
 
-&emsp;(2) for purposes of sections 954(p), 956(c)(10), and 956(h) of this title only, the construction of facilities if (A) such construction is for demonstration purposes or under unusual circumstances where there is no other manner in which to accomplish an artistic or humanistic purpose, and (B) two-thirds of the members of the National Council on the Arts and the National Council on the Humanities, as the case may be, (who are present and voting) approve of the grant or contract involving an expenditure for such purpose.
+&emsp;(2) for purposes of sections 954(p), 956(c)(10), and 956(h) of this title only, the construction of facilities if (A) such construction is for demonstration purposes or under unusual circumstances where there is no other manner inwhich to accomplish an artistic or humanistic purpose, and (B) two-thirds of the members of the National Council on the Arts and the National Council on the Humanities, as the case may be, (who are present and voting) approve of the grant or contract involving an expenditure for such purpose.
 
 (e) The term “group” includes any State or other public agency, and any nonprofit society, institution, organization, association, museum, or establishment in the United States, whether or not incorporated.
 

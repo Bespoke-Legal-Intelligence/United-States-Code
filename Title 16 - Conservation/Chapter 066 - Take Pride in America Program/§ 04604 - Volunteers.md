@@ -6,7 +6,7 @@ The Secretary is authorized to recruit, train, and accept the services of indivi
 
 #### (b) Incidental expenses
 
-The Secretary is authorized to provide for the incidental expenses of such volunteers, such astransportation, uniforms, lodging, or subsistence.
+The Secretary is authorized to provide for the incidental expenses of such volunteers, such as transportation, uniforms, lodging, or subsistence.
 
 #### (c) Volunteers’ status as Federal employees
 

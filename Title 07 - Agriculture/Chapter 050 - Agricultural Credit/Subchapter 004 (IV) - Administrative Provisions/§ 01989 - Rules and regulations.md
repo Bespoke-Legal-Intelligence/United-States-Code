@@ -12,7 +12,7 @@ Notwithstanding subsection (a) of this section, in providing farmer program loan
 
 &emsp;(2) to cover the necessary living expenses of the family of the borrower; and
 
-&emsp;(3) to pay all other obligations and expenses of the borrower not financed through debt obligations referred to in paragraph (1), including expenses of replacing capital items (determined after taking into account depreciation of the items).
+&emsp;(3) to pay all other obligations and expenses of the borrower not financed through debt obligations referred to in paragraph (1).
 
 #### (c) Certified Lenders Program
 
@@ -78,13 +78,15 @@ Notwithstanding subsection (a) of this section, in providing farmer program loan
 
 &emsp;&emsp;(C) be deemed to have guaranteed 80 percent of a loan made by a preferred certified lending institution as described in paragraph (1), if the Secretary fails to approve or reject the application of such institution within 14 calendar days after the date that the lending institution presented the application to the Secretary. If the Secretary rejects the application within the 14-day period, the Secretary shall state, in writing, the reasons the application was rejected.
 
-(Pub. L. 87–128, title III, §339, Aug. 8, 1961, 75 Stat. 318; Pub. L. 102–554, §18, Oct. 28, 1992, 106 Stat. 4155.)
+(Pub. L. 87–128, title III, §339, Aug. 8, 1961, 75 Stat. 318; Pub. L. 102–554, §18, Oct. 28, 1992, 106 Stat. 4155; Pub. L. 106–31, title III, §3019(a), May 21, 1999, 113 Stat. 99.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in text, see note set out under section 1921 of this title.
 
 #### Amendments
+
+1999—Subsec. (b)(3). Pub. L. 106–31 struck out “, including expenses of replacing capital items (determined after taking into account depreciation of the items)” after “paragraph (1)”.
 
 1992—Pub. L. 102–554, inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (d).
 
@@ -94,7 +96,7 @@ Section 23 of Pub. L. 102–554 provided that:
 
 “(a)
 
-Interim Regulations.—Not later than 180 days after the date of enactment of this Act \[Oct. 28, 1992\],the Secretary of Agriculture shall issue such interim regulations as are necessary to implement this Act \[see Short Title of 1992 Amendment note set out under section 1921 of this title\] and the amendments made by this Act.
+Interim Regulations.—Not later than 180 days after the date of enactment of this Act \[Oct. 28, 1992\], the Secretary of Agriculture shall issue such interim regulations as are necessary to implement this Act \[see Short Title of 1992 Amendment note set out under section 1921 of this title\] and the amendments made by this Act.
 
 “(b)
 
@@ -110,7 +112,7 @@ Pub. L. 100–233, title VI, §621, Jan. 6, 1988, 101 Stat. 1684, provided that:
 
 Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 429, provided in part that:
 
-“Hereafter, funds appropriated or available to the Farmers Home Administration under this or any other Act to make or to service farm loans shall be available for continuing assistance to delinquent borrowers on the basis of the policies contained in Farmers Home Administration Announcement Number 1113–1960, dated November 30, 1984.
+“Hereafter, funds appropriated or available to the Farmers Home Administration under this or any otherAct to make or to service farm loans shall be available for continuing assistance to delinquent borrowers on the basis of the policies contained in Farmers Home Administration Announcement Number 1113–1960, dated November 30, 1984.
 
 “Hereafter, none of the funds appropriated or made available by this or any other Act, or otherwise made available to the Secretary of Agriculture or the Farmers Home Administration, may be used to implement section 1944.16(c)(1) of title 7, Code of Federal Regulations, as published in 52 Federal Register 11983 (April 14, 1987) or any other regulation that would have the same effect as such regulation.”
 

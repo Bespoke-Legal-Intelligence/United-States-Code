@@ -24,7 +24,7 @@ Authority and Purpose.—
 
 &emsp;“(1)
 
-Authority.—This agreement, denoted a Self-Determination Contract (referred to in this agreement as the ‘Contract’), is entered into by the Secretary of the Interior or the Secretary of Health and Human Services (referred to in this agreement as the ‘Secretary’), for and on behalf of the United States pursuant to title I of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) and by the authority of the \_\_\_\_\_\_\_\_\_\_\_\_ tribal government or tribal organization (referred to in this agreement as the ‘Contractor’). The provisions of title I of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) are incorporated in this agreement.
+Authority.—This agreement, denoted a Self-Determination Contract (referred to in this agreement as the ‘Contract’), is entered into by the Secretary of the Interior or the Secretary of Health and Human Services (referred to in this agreement as the ‘Secretary’), for and on behalf of the United States pursuant to title I of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) and by the authority of the \_\_\_\_\_\_\_\_\_\_\_\_ tribal government or tribal organization (referred to in this agreement as the ‘Contractor’). The provisions of title I of the IndianSelf-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) are incorporated in this agreement.
 
 &emsp;“(2)
 
@@ -96,7 +96,7 @@ Recordkeeping system.—The Contractor shall maintain a recordkeeping system and
 
 &emsp;&emsp;“(C)
 
-Responsibilities of contractor.—The Contractor shall be responsible for managing the day-to-day operations conducted under this Contract and for monitoring activities conducted under this Contract to ensure compliance with the Contract and applicable Federal requirements. With respect to the monitoring activities of the Secretary, the routine monitoring visits shall be limited to not more than one performance monitoring visit for this Contract by the head of each operating division, departmental bureau, or departmental agency, or duly authorized representative of such head unless—
+Responsibilities of contractor.—The Contractor shall be responsible for managing the day-to-day operations conducted under this Contract and for monitoring activities conducted under this Contract to ensure compliance with the Contract and applicable Federal requirements. With respectto the monitoring activities of the Secretary, the routine monitoring visits shall be limited to not more than one performance monitoring visit for this Contract by the head of each operating division, departmental bureau, or departmental agency, or duly authorized representative of such head unless—
 
 &emsp;&emsp;&emsp;“(i) the Contractor agrees to one or more additional visits; or
 
@@ -130,7 +130,7 @@ Confiscated or excess property.—The Secretary shall assist the Contractor in o
 
 &emsp;&emsp;“(F)
 
-Screener identification card.—A screener identification card (General Services Administration form numbered 2946) shall be issued to the Contractor not later than the effective date of this Contract. The designated official shall, upon request, assistthe Contractor in securing the use of the card.
+Screener identification card.—A screener identification card (General Services Administration form numbered 2946) shall be issued to the Contractor not later than the effective date of this Contract. The designated official shall, upon request, assist the Contractor in securing the use of the card.
 
 &emsp;&emsp;“(G)
 
@@ -180,7 +180,7 @@ Alternative procedures.—In addition to, or as an alternative to, remedies and 
 
 &emsp;&emsp;“(C)
 
-Effect of decisions.—The Secretary shall be bound by decisions made pursuant to the processes set forth in subparagraph (B), except that the Secretary shall not be bound by any decision that significantly conflicts with the interests of Indians or the United States.
+Effect of decisions.—The Secretary shall be bound by decisions made pursuantto the processes set forth in subparagraph (B), except that the Secretary shall not be bound by any decision that significantly conflicts with the interests of Indians or the United States.
 
 &emsp;“(13)
 
@@ -280,7 +280,7 @@ Other Provisions.—
 
 &emsp;“(1)
 
-Designated officials.—Not later than the effective date of this Contract, the United States shall provide to the Contractor, and the Contractor shall provide to the United States, a written designation of a senior official to serve as a representative for notices, proposed amendments to the Contract, and other purposes for this Contract.
+Designated officials.—Not later than the effective date of this Contract, the United States shall provide to the Contractor, and the Contractor shall provide to the United States,a written designation of a senior official to serve as a representative for notices, proposed amendments to the Contract, and other purposes for this Contract.
 
 &emsp;“(2)
 

@@ -96,7 +96,7 @@ Funds made available under this part may not be used to—
 
 #### (f) Certification of compliance
 
-The requirements of section 3545(d) of this title shall be satisfied by a certification by aparticipating jurisdiction to the Secretary that the combination of Federal assistance provided to any housing project shall not be any more than is necessary to provide affordable housing.
+The requirements of section 3545(d) of this title shall be satisfied by a certification by a participating jurisdiction to the Secretary that the combination of Federal assistance provided to any housing project shall not be any more than is necessary to provide affordable housing.
 
 #### (g) Limitation on operating assistance
 

@@ -12,7 +12,7 @@
 
 &emsp;(i) the consumption of the energy source for which a target is established during the corresponding month in the 12-month period prior to the first month for which the target is established; and
 
-&emsp;(ii) a growth adjustment factor, which shall be determined on the basis of the trends in the use in that State of such energy source during the 36-month period prior to the first month for which the target is established.
+&emsp;(ii) a growth adjustment factor, which shall be determined on the basis of the trends in theuse in that State of such energy source during the 36-month period prior to the first month for which the target is established.
 
 (C)(i) The President shall adjust, to the extent he determines necessary, any State base period consumption to insure that achievement of a target established for that State under this subsection will not impair the attainment of the objectives of section 753(b)(1) <sup>1</sup> of title 15.
 

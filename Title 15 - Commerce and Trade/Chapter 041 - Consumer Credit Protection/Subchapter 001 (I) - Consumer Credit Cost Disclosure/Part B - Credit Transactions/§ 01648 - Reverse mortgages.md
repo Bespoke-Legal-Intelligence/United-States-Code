@@ -12,7 +12,7 @@ In addition to the disclosures required under this subchapter, for each reverse 
 
 &emsp;&emsp;(C) such longer term as the Board deems appropriate; and
 
-&emsp;(2) a statement that the consumer is not obligated to complete the reverse mortgagetransaction merely because the consumer has received the disclosure required under this section or has signed an application for the reverse mortgage.
+&emsp;(2) a statement that the consumer is not obligated to complete the reverse mortgage transaction merely because the consumer has received the disclosure required under this section or has signed an application for the reverse mortgage.
 
 #### (b) Projected total cost
 

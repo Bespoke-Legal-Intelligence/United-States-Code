@@ -12,7 +12,7 @@ For purposes of this chapter—
 
 &emsp;(e) “division” shall mean: (1) one or more statutory divisions of a judicial district; or (2) in statutory divisions that contain more than one place of holding court, or in judicial districts where there are no statutory divisions, such counties, parishes, or similar political subdivisions surrounding the places where court is held as the district court plan shall determine: <i>Provided</i>, That each county, parish, or similar political subdivision shall be included in some such division;
 
-&emsp;(f) “district court of the United States”, “district court”, and “court” shall mean any district court established by chapter 5 of this title, and any court which is created by Act of Congress in a territory and is invested with any jurisdiction of a district court established by chapter 5 of this title;
+&emsp;(f) “district court of the United States”, “district court”, and “court” shall mean any district court established by chapter 5 of this title, and any court which is created by Act ofCongress in a territory and is invested with any jurisdiction of a district court established by chapter 5 of this title;
 
 &emsp;(g) “jury wheel” shall include any device or system similar in purpose or function, such as a properly programed electronic data processing system or device;
 

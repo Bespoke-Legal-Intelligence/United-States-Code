@@ -2,7 +2,7 @@
 
 #### (a) Compliance with standards and regulations; status after importation
 
-No slaughtered poultry, or parts or products thereof, of any kind shall be imported into the United States unless they are healthful, wholesome, fit for human food, not adulterated, and contain no dye, chemical, preservative, or ingredient which renders them unhealthful, unwholesome, adulterated, or unfit for human food and unless they also comply with the rules and regulations made by the Secretary of Agriculture to assure that imported poultry or poultry products comply with the standards provided for in this chapter. All imported, slaughtered poultry, or parts or products thereof, shall after entry into the United States in compliance with such rules and regulations be deemed and treated as domestic slaughtered poultry, or parts or products thereof, within the meaning and subject to the provisions of this chapter and the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], and Acts amendatory of, supplemental to, or in substitution for such chapter and Act.
+No slaughtered poultry, or parts or products thereof, of any kind shall be imported into theUnited States unless they are healthful, wholesome, fit for human food, not adulterated, and contain no dye, chemical, preservative, or ingredient which renders them unhealthful, unwholesome, adulterated, or unfit for human food and unless they also comply with the rules and regulations made by the Secretary of Agriculture to assure that imported poultry or poultry products comply with the standards provided for in this chapter. All imported, slaughtered poultry, or parts or products thereof, shall after entry into the United States in compliance with such rules and regulations be deemed and treated as domestic slaughtered poultry, or parts or products thereof, within the meaning and subject to the provisions of this chapter and the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], and Acts amendatory of, supplemental to, or in substitution for such chapter and Act.
 
 #### (b) Rules and regulations; destruction and exportation of refused imports
 
@@ -10,7 +10,7 @@ The Secretary of Agriculture is authorized to make rules and regulations to carr
 
 #### (c) Storage, cartage and labor charges for imports refused admission
 
-All charges for storage, cartage, and labor with respect to any product which is refused admission pursuant to this section shall be paid by the owner or consignee, and in default of such payment shall constitute a lien against anyother products imported thereafter by or for such owner or consignee.
+All charges for storage, cartage, and labor with respect to any product which is refused admission pursuant to this section shall be paid by the owner or consignee, and in default of such payment shall constitute a lien against any other products imported thereafter by or for such owner or consignee.
 
 #### (d) Domestic standards and processing facilities applicable; enforcement
 

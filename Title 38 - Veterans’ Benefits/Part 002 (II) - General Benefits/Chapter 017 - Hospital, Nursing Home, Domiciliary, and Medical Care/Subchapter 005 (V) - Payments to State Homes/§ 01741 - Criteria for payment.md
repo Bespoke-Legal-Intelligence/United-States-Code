@@ -8,21 +8,23 @@
 
 > for each veteran receiving such care in a State home, if such veteran is eligible for such care in a Department facility.
 
-(2) The Secretary may pay each State per diem at a rate determined by the Secretary for each veteran receiving adult day health care in a State home, if such veteran is eligible for such care under laws administered by the Secretary.
+(2) The Secretary may pay each State per diem at a rate determined by the Secretary for each veteran receiving extended care services described in any of paragraphs (4) through (6) of section 1710B(a) of this title under a program administered by a State home, if such veteran is eligible for such care under laws administered by the Secretary.
 
 (b) In no case shall the payments made with respect to any veteran under this section exceed one-half of the cost of the veterans’ care in such State home.
 
-(c) Whenever the Secretary makes a determination pursuant to section 1720(a)(2)(A) of this title that the cost of care furnished by the Department in a general hospital under the direct jurisdiction of the Secretary has increased, the Secretary may, effective no earlier than the date of such determination, increase the rates paid under subsection (a) of this section by a percentage not greater than the percentage by which the Secretary has determined that such cost of care has increased.
+(c) Whenever the Secretary makes a determination pursuant to section 1720(a)(2)(A) of this title that the cost of care furnished by the Department in a general hospital under the direct jurisdiction of the Secretary has increased, the Secretary may, effective no earlier than the date of such determination, increase the rates paid under subsection (a) of this section by apercentage not greater than the percentage by which the Secretary has determined that such cost of care has increased.
 
 (d) Subject to section 1743 of this title, the payment of per diem for care furnished in a State home facility shall commence on the date of the completion of the inspection for recognition of the facility under section 1742(a) of this title if the Secretary determines, as a result of that inspection, that the State home meets the standards described in such section.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, §641; Pub. L. 86–625, July 12, 1960, 74 Stat. 424; Pub. L. 87–819, §1, Oct. 15, 1962, 76 Stat. 935; Pub. L. 88–450, §3(a), Aug. 19, 1964, 78 Stat. 500; Pub. L. 90–432, §1, July 26, 1968, 82 Stat. 448; Pub. L. 91–178, §1, Dec. 30, 1969, 83 Stat. 836; Pub. L. 93–82, title IV, §403(a), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–417, §1(a), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 94–581, title II, §202(<i>o</i>), Oct. 21, 1976, 90 Stat. 2856; Pub. L. 96–151, title I, §101(b)(1), Dec. 20, 1979, 93 Stat. 1092; Pub. L. 98–160, title I, §105(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 100–322, title I, §134(a), May 20, 1988, 102 Stat. 507; renumbered §1741 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title IV, §406, Nov. 4, 1992, 106 Stat. 4954; Pub. L. 104–66, title I, §1141(a), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title III, §342(a), Oct. 9, 1996, 110 Stat. 3206.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, §641; Pub. L. 86–625, July 12, 1960, 74 Stat. 424; Pub. L. 87–819, §1, Oct. 15, 1962, 76 Stat. 935; Pub. L. 88–450, §3(a), Aug. 19, 1964, 78 Stat. 500; Pub. L. 90–432, §1, July 26, 1968, 82 Stat. 448; Pub. L. 91–178, §1, Dec. 30, 1969, 83 Stat. 836; Pub. L. 93–82, title IV, §403(a), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–417, §1(a), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 94–581, title II, §202(<i>o</i>), Oct. 21, 1976, 90 Stat. 2856; Pub. L. 96–151, title I, §101(b)(1), Dec. 20, 1979, 93 Stat. 1092; Pub. L. 98–160, title I, §105(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 100–322, title I, §134(a), May 20, 1988, 102 Stat. 507; renumbered §1741 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title IV, §406, Nov. 4, 1992, 106 Stat. 4954; Pub. L. 104–66, title I, §1141(a), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title III, §342(a), Oct. 9, 1996, 110 Stat. 3206; Pub. L. 106–117, title I, §101(g), Nov. 30, 1999, 113 Stat. 1550.)
 
 #### Prior Provisions
 
 Prior sections 1740 and 1741 were renumbered sections 3540 and 3541 of this title, respectively.
 
 #### Amendments
+
+1999—Subsec. (a)(2). Pub. L. 106–117 substituted “extended care services described in any of paragraphs (4) through (6) of section 1710B(a) of this title under a program administered by a State home” for “adult day health care in a State home”.
 
 1996—Subsec. (a). Pub. L. 104–262 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
@@ -66,7 +68,7 @@ Subsec. (c). Pub. L. 98–160, §105(a)(2), added subsec. (c).
 
 1976—Pub. L. 94–581 struck out “of any war or of service after January 31, 1955” after “for each veteran” in provisions following par. (3).
 
-Pub. L. 94–417 designated existing provisions as subsec. (a), increased from $4.50 to $5.50 the per diem ratefor domiciliary care, from $6 to $10.50 the per diem rate for nursing home care, and from $10 to $11.50 the per diem rate for hospital care, struck out “of any war or of service after January 31, 1955” after “for each veteran”, “, in the case of such a veteran receiving domiciliary or hospital care,” after “if”, and provisions relating to the case of a veteran receiving nursing home care, and added subsec. (b).
+Pub. L. 94–417 designated existing provisions as subsec. (a), increased from $4.50 to $5.50 the per diem rate for domiciliary care, from $6 to $10.50 the per diem rate for nursing home care, and from $10 to $11.50 the per diem rate for hospital care, struck out “of any war or of service after January 31, 1955” after “for each veteran”, “, in the case of such a veteran receiving domiciliary or hospital care,” after “if”, and provisions relating to the case of a veteran receiving nursing home care, and added subsec. (b).
 
 1973—Pub. L. 93–82 increased from $3.50 to $4.50 the per diem rate for domiciliary care, from $5 to $6 the per diem rate for nursing home care, and from $7.50 to $10 the per diem rate for hospital care, and substituted “veteran of any war or of service after January 31, 1955” for “veteran of any war”.
 
@@ -120,5 +122,5 @@ Section 3(b) of Pub. L. 88–450 provided that: “No payment shall be made to a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2303, 5503, 8122, 8126 of this title; title 42 sections 1396a, 1396r–8.
+This section is referred to in sections 2303, 5503, 8122, 8126, 8134 of this title; title 42 sections 1396a, 1396r–8.
 

@@ -1,6 +1,6 @@
 ### §1557. Authority for exemptions in appropriation laws
 
-A provision of an appropriation law may exempt an appropriation from the provisions ofthis subchapter and fix the period for which the appropriation remains available for expenditure.
+A provision of an appropriation law may exempt an appropriation from the provisions of this subchapter and fix the period for which the appropriation remains available for expenditure.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 937; Pub. L. 101–510, div. A, title XIV, §1405(a)(1), Nov. 5, 1990, 104 Stat. 1679.)
 

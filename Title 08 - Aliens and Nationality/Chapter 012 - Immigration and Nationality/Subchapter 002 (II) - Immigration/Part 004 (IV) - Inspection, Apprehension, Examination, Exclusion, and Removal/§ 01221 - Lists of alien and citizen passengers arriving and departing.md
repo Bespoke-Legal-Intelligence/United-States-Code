@@ -50,7 +50,7 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Automated Entry-Exit Control System
 
-Section 110 of div. C of Pub. L. 104–208, as amended by Pub. L. 105–259, §1, Oct. 15, 1998, 112 Stat. 1918; Pub. L. 105–277, div. A, title I, §101(b) \[title I, §116\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, provided that:
+Section 110 of div. C of Pub. L. 104–208, as amended by Pub. L. 105–259, §1, Oct. 15, 1998, 112 Stat. 1918; Pub. L. 105–277, div. A, §101(b) \[title I, §116\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, provided that:
 
 “(a)
 

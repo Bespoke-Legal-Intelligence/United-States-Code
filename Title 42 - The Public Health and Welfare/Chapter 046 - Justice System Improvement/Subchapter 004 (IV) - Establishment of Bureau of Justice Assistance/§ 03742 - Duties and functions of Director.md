@@ -28,3 +28,7 @@ For prior sections 402 of Pub. L. 90–351 and prior sections 3742 of this title
 
 1990—Par. (1). Pub. L. 101–647 substituted “subchapters V and XII–B” for “subchapter V”.
 
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in pars. (3) to (6) of this section, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
+

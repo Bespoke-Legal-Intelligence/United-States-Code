@@ -114,7 +114,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to paragraph (5) and except as provided in paragraph (6), a State may not use more than 10 percent of amounts received under a grant awarded under this part for administration. In the case of entities and subcontractors to which the State allocates amounts received by the State under the grant (including consortia under section 300ff–23 of this title), the State shall ensure that, of the aggregate amount so allocated, the total of the expenditures by such entities for administrative expenses does not exceed 10 percent (without regard to whether particular entities expend more than 10 percent for such expenses).
+&emsp;&emsp;Subject to paragraph (5) and except as provided in paragraph (6), a State may not use more than 10 percent of amounts received under a grant awarded under this part for administration. In the case of entities and subcontractors to which the State allocates amounts received by the State under the grant (including consortia under section 300ff–23 of this title), the State shall ensure that, of the aggregate amount so allocated,the total of the expenditures by such entities for administrative expenses does not exceed 10 percent (without regard to whether particular entities expend more than 10 percent for such expenses).
 
 #### (B) Administrative activities
 

@@ -10,7 +10,7 @@ The Administrator shall, in consultation and cooperation with the Secretary of H
 
 (2)(A) The Administrator shall, in consultation and cooperation with the Secretary of Health and Human Services and other heads of appropriate departments and agencies design, establish, and coordinate an efficient and effective system for the retrieval of toxicological and other scientific data which could be useful to the Administrator in carrying out the purposes of this chapter. Systematized retrieval shall be developed for use by all Federal and other departments and agencies with responsibilities in the area of regulation or study of chemical substances and mixtures and their effect on health or the environment.
 
-(B) The Administrator, in consultation and cooperation with the Secretary of Health and Human Services, may make grants and enter into contracts for the development of a data retrieval system described in subparagraph (A). Contracts may be entered into under this subparagraph without regard to section 3324(a) and (b) of title 31 and section 5 of title 41.
+(B) The Administrator, in consultation and cooperation with the Secretary of Health andHuman Services, may make grants and enter into contracts for the development of a data retrieval system described in subparagraph (A). Contracts may be entered into under this subparagraph without regard to section 3324(a) and (b) of title 31 and section 5 of title 41.
 
 #### (c) Screening techniques
 
@@ -41,6 +41,10 @@ In subsecs. (a) and (b)(2)(B), “section 3324(a) and (b) of title 31” substit
 #### Change of Name
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (a), (b)(2), (d), (e), and (g), and “Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (c), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+#### Availability of Grants
+
+Grants awarded under this section are available for research, development, monitoring, public education, training, demonstrations, and studies, beginning in fiscal year 2000 and thereafter, see provisions of title III of Pub. L. 106–74, set out as a note under section 136r of Title 7, Agriculture.
 
 #### Section Referred to in Other Sections
 

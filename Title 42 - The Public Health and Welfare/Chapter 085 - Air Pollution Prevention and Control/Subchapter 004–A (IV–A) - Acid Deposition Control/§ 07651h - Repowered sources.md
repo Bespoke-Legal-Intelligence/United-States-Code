@@ -28,7 +28,7 @@ Not later than December 31, 1997, the owner or operator of an existing unit subj
 
 #### (d) Control requirements
 
-Any unit qualifying for an extension under this section that does not increase actual hourly emissions for any pollutant regulated under the <sup>2</sup> chapter shall not be subject to any standard of performance under section 7411 of this title. Notwithstanding the provisions of thissubsection, no new unit (1) designated as a replacement for an existing unit, (2) qualifying for the extension under subsection (b) of this section, and (3) located at a different site than the existing unit shall receive an exemption from the requirements imposed under section 7411 of this title.
+Any unit qualifying for an extension under this section that does not increase actual hourly emissions for any pollutant regulated under the <sup>2</sup> chapter shall not be subject to any standard of performance under section 7411 of this title. Notwithstanding the provisions of this subsection, no new unit (1) designated as a replacement for an existing unit, (2) qualifying for the extension under subsection (b) of this section, and (3) located at a different site than the existing unit shall receive an exemption from the requirements imposed under section 7411 of this title.
 
 #### (e) Expedited permitting
 

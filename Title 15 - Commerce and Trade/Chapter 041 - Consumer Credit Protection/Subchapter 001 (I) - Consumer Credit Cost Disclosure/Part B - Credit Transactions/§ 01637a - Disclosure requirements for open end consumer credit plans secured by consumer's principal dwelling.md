@@ -36,7 +36,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 &emsp;&emsp;(F) a statement of the maximum annual percentage rate that may be imposed at any time under the plan;
 
-&emsp;&emsp;(G) subject to subsection (b)(3) of this section, a table, based on a $10,000 extension of credit, showing how the annual percentage rate and the minimum periodic payment amount under each repayment option of theplan would have been affected during the preceding 15-year period by changes in any index used to compute such rate;
+&emsp;&emsp;(G) subject to subsection (b)(3) of this section, a table, based on a $10,000 extension of credit, showing how the annual percentage rate and the minimum periodic payment amount under each repayment option of the plan would have been affected during the preceding 15-year period by changes in any index used to compute such rate;
 
 &emsp;&emsp;(H) a statement of—
 
@@ -50,7 +50,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 #### (3) Other fees imposed by the creditor
 
-&emsp;An itemization of any fees imposed by the creditor in connection with the availability or use of credit under such plan, including annual fees, application fees, transaction fees, and closing costs (including costs commonly described as “points”), and the time when such fees are payable.
+&emsp;An itemization of any fees imposed by the creditor in connection with the availability or use of credit under such plan, including annual fees, application fees, transaction fees, andclosing costs (including costs commonly described as “points”), and the time when such fees are payable.
 
 #### (4) Estimates of fees which may be imposed by third parties
 
@@ -126,7 +126,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 &emsp;&emsp;(B) would repay less than the outstanding balance by the end of such period,
 
-> &emsp;as the case may be, a statement of such fact, including an explicit statement that at theend of such repayment period a balloon payment (as defined in section 1665b(f) of this title) would result which would be required to be paid in full at that time.
+> &emsp;as the case may be, a statement of such fact, including an explicit statement that at the end of such repayment period a balloon payment (as defined in section 1665b(f) of this title) would result which would be required to be paid in full at that time.
 
 #### (11) Negative amortization
 

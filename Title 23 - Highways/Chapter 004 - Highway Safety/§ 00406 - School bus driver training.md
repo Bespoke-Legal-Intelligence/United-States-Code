@@ -24,5 +24,5 @@
 
 #### Effective Date of 1978 Amendment
 
-Amendment Pub. L. 95–599 effective with respect to obligations incurred after Nov. 6, 1978, see section 129(h) of Pub. L. 95–599, set out as a note under section 120 of this title.
+Amendment Pub. L. 95–599 effective with respect to obligations incurred after Nov. 6, 1978, see section 129(h)of Pub. L. 95–599, set out as a note under section 120 of this title.
 

@@ -8,7 +8,7 @@ Corridor Planning Assistance.—(1) The Secretary may provide under this section
 
 (b)
 
-Eligible Activities.—(1) A corridor planning activity is eligible for financial assistance under subsection (a) if the Secretary determines that it is necessary to establish appropriate engineering, operational, financial, environmental, or socioeconomic projections for the establishment of high-speed rail service in the corridor and that it leads toward development of aprudent financial and institutional plan for implementation of specific high-speed rail improvements. Eligible corridor planning activities include—
+Eligible Activities.—(1) A corridor planning activity is eligible for financial assistance under subsection (a) if the Secretary determines that it is necessary to establish appropriate engineering, operational, financial, environmental, or socioeconomic projections for the establishment of high-speed rail service in the corridor and that it leads toward development of a prudent financial and institutional plan for implementation of specific high-speed rail improvements. Eligible corridor planning activities include—
 
 &emsp;(A) environmental assessments;
 
@@ -38,7 +38,7 @@ Eligible Activities.—(1) A corridor planning activity is eligible for financia
 
 (c)
 
-Criteria for Determining Financial Assistance.—Selection by the Secretary of recipients of financial assistance under this section shall be based on such criteria as the Secretary considers appropriate, including—
+Criteria for Determining Financial Assistance.—Selection by the Secretary of recipients of financial assistance under this sectionshall be based on such criteria as the Secretary considers appropriate, including—
 
 &emsp;(1) the relationship of the corridor to the Secretary's national high-speed ground transportation policy;
 

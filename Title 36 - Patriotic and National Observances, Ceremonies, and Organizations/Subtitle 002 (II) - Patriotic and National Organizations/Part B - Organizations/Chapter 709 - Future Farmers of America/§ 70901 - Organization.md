@@ -22,11 +22,13 @@ Historical and Revision Notes
 
 70901D36:271.DAug. 30, 1950, ch. 823, §§1, 2, 20, 64 Stat. 563, 567.
 
-&nbsp;D36:272.
+&nbsp;D36:272.D&nbsp;
 
 &nbsp;
 
 36:290.
+
+&nbsp;
 
 This section is substituted for 36:271 for consistency in the revised title and to eliminate executed and unnecessary words. The text of 36:272 and 290 is omitted as executed and obsolete.
 

@@ -18,7 +18,7 @@ The Secretary shall prescribe regulations under which, in cases where 2 or more 
 
 #### (d) Definitions
 
-For purposes of this section, the terms “return” and “claim for refund” have the respective meanings given to such terms by section6696(e), and the term “return period” has the meaning given to such term by section 6060(c).
+For purposes of this section, the terms “return” and “claim for refund” have the respective meanings given to such terms by section 6696(e), and the term “return period” has the meaning given to such term by section 6060(c).
 
 (Added Pub. L. 94–455, title XII, §1203(c), Oct. 4, 1976, 90 Stat. 1690.)
 

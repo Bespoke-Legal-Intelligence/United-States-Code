@@ -16,7 +16,7 @@
 
 #### (4) Distilled spirits withdrawn free of tax
 
-&emsp;Any person who removes, sells, transports, or uses distilled spirits, withdrawn free of tax under section 5214(a) or section 7510, in violation of laws or regulations now or hereafter in force pertaining thereto, and all such distilled spirits shall be subject to all provisions of law relating to distilled spirits subject to tax, including those requiring payment of the tax thereon; and the person so removing, selling,transporting, or using the distilled spirits shall be required to pay such tax.
+&emsp;Any person who removes, sells, transports, or uses distilled spirits, withdrawn free of tax under section 5214(a) or section 7510, in violation of laws or regulations now or hereafter in force pertaining thereto, and all such distilled spirits shall be subject to all provisions of law relating to distilled spirits subject to tax, including those requiring payment of the tax thereon; and the person so removing, selling, transporting, or using the distilled spirits shall be required to pay such tax.
 
 #### (5) Denatured distilled spirits or articles
 
@@ -114,7 +114,7 @@ Electronic transfer provisions.—The amendments made by subsection (c) \[amendi
 
 #### Effective Date of 1979 Amendment
 
-Section 810 of title VIII of Pub. L. 96–39 provided that: “The amendments made by this title \[amending this section and sections 5002 to 5008, 5043, 5061, 5064, 5066, 5116, 5171 to 5173, 5175 to 5178, 5180, 5181, 5201 to 5205, 5207, 5211 to 5215, 5221 to 5223, 5231, 5232, 5235, 5241, 5273, 5291, 5301, 5352, 5361 to 5363, 5365, 5381, 5391, 5551, 5601, 5604, 5610, 5612, 5615, 5663, 5681, 5682, and 5691 of this title, repealing sections 5009, 5021 to 5026, 5081 to 5084, 5174, 5233, 5234, 5251, 5252, 5364, and 5521 to 5523 of this title, and enacting provisions set out as notes under sections 1, 5061, 5171, and 5173 of this title\] shall take effect on January 1, 1980.”
+Section 810 of title VIII of Pub. L. 96–39 provided that: “The amendments made by this title \[amending this section and sections 5002 to 5008, 5043, 5061, 5064, 5066, 5116, 5171 to 5173, 5175 to 5178, 5180, 5181, 5201 to 5205, 5207, 5211 to 5215, 5221 to 5223, 5231, 5232, 5235, 5241, 5273,5291, 5301, 5352, 5361 to 5363, 5365, 5381, 5391, 5551, 5601, 5604, 5610, 5612, 5615, 5663, 5681, 5682, and 5691 of this title, repealing sections 5009, 5021 to 5026, 5081 to 5084, 5174, 5233, 5234, 5251, 5252, 5364, and 5521 to 5523 of this title, and enacting provisions set out as notes under sections 1, 5061, 5171, and 5173 of this title\] shall take effect on January 1, 1980.”
 
 #### Effective Date of 1965 Amendment
 
@@ -186,7 +186,7 @@ Exception for small domestic producers.—
 
 “(3)
 
-Exception for certain small wholesale or retail dealers.—No tax shall be imposed by paragraph\(1) on tax- increased articles held on January 1, 1991, by any dealer if—
+Exception for certain small wholesale or retail dealers.—No tax shall be imposed by paragraph (1) on tax- increased articles held on January 1, 1991, by any dealer if—
 
 &emsp;“(A) the aggregate liquid volume of tax-increased articles held by such dealer on such date does not exceed 500 wine gallons, and
 
@@ -354,7 +354,7 @@ Controlled groups of corporations.—In the case of a controlled group—
 
 &emsp;&emsp;“(iii) the $500,000 amount specified in paragraph (4)(C)(iii),
 
-> &emsp;shall be apportioned among the dealers who are component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term ‘controlled group’ has the meaning given to such term by subsection (a) of section 1563 of the Internal Revenue Code of 1986; except that for such purposes the phrase ‘more than 50 percent’ shall be substituted for the phrase ‘at least 80 percent’ each place it appears in such subsection.
+> &emsp;shall be apportioned among the dealers who are component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term ‘controlled group’ has the meaning given to such term by subsection (a) of section 1563 of the Internal Revenue Code of 1986; except that for such purposes the phrase‘more than 50 percent’ shall be substituted for the phrase ‘at least 80 percent’ each place it appears in such subsection.
 
 &emsp;“(B)
 

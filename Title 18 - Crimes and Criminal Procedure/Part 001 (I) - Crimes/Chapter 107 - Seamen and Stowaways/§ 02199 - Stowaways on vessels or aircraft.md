@@ -18,7 +18,7 @@ Based on title 18, U.S.C., 1940 ed., §§469–474 (June 11, 1940, ch. 326, §§
 
 Sections consolidated and rewritten with changes of phraseology and substance.
 
-In section 469 of title 18, U.S.C., 1940 ed., the element of intent not to pay for transportation was omitted as unnecessary since the payment of transportation will invariably remove the stowaway from the operation of the section by purchasing the master's “consent”.
+In section 469 of title 18, U.S.C., 1940 ed., the element of intent not to pay for transportation was omitted asunnecessary since the payment of transportation will invariably remove the stowaway from the operation of the section by purchasing the master's “consent”.
 
 In section 472 of title 18, U.S.C., 1940 ed., the enumerations of State, Territory, Possession, District of Columbia, and The Canal Zone, was omitted as adequately covered by “place within the jurisdiction of the United States.”
 

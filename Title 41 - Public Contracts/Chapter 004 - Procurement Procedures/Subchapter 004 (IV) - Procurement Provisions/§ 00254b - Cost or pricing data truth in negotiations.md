@@ -2,7 +2,7 @@
 
 #### (a) Required cost or pricing data and certification
 
-(1) The head of an executive agency shall require offerors, contractors, and subcontractors to make cost or pricing data available as follows:
+(1) The head of an executive agency shall require offerors, contractors, and subcontractorsto make cost or pricing data available as follows:
 
 &emsp;(A) An offeror for a prime contract under this subchapter to be entered into using procedures other than sealed-bid procedures shall be required to submit cost or pricing data before the award of a contract if—
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(ii) in the case of a change or modification to a subcontract referred to in subparagraph (C)(iii), the price adjustment is expected to exceed $100,000.
 
-(2) A person required, as an offeror, contractor, or subcontractor, to submit cost or pricing data under paragraph (1) (or required by the head of the procuring activity concerned to submit such data under subsection (c) of this section) shall be required to certify that, to thebest of the person's knowledge and belief, the cost or pricing data submitted are accurate, complete, and current.
+(2) A person required, as an offeror, contractor, or subcontractor, to submit cost or pricing data under paragraph (1) (or required by the head of the procuring activity concerned to submit such data under subsection (c) of this section) shall be required to certify that, to the best of the person's knowledge and belief, the cost or pricing data submitted are accurate, complete, and current.
 
 (3) Cost or pricing data required to be submitted under paragraph (1) (or under subsection (c) of this section), and a certification required to be submitted under paragraph (2), shall be submitted—
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(B) for the acquisition of a commercial item; or
 
-&emsp;&emsp;(C) in an exceptional case when the head of the procuring activity, without delegation, determines that the requirements of this section may be waived and justifies in writing the reasons for such determination.
+&emsp;&emsp;(C) in an exceptional case when the head of the procuring activity, without delegation,determines that the requirements of this section may be waived and justifies in writing the reasons for such determination.
 
 #### (2) Modifications of contracts and subcontracts for commercial items
 
@@ -90,7 +90,7 @@
 
 #### (1) Authority to require submission
 
-&emsp;When certified cost or pricing data are not required to be submitted under this section for a contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in subsection (b)(1)(A) of this section, the contracting officer shall require that the data submitted include, at a minimum, appropriate information on theprices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement.
+&emsp;When certified cost or pricing data are not required to be submitted under this section for a contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in subsection (b)(1)(A) of this section, the contracting officer shall require that the data submitted include, at a minimum, appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement.
 
 #### (2) Limitations on authority
 
@@ -146,7 +146,7 @@
 
 &emsp;&emsp;(ii) at the current rate prescribed by the Secretary of the Treasury under section 6621 of title 26; and
 
-&emsp;(B) if the submission of such defective data was a knowing submission, for an additionalamount equal to the amount of the overpayment.
+&emsp;(B) if the submission of such defective data was a knowing submission, for an additional amount equal to the amount of the overpayment.
 
 (2) Any liability under this subsection of a contractor that submits cost or pricing data but refuses to submit the certification required by subsection (a)(2) of this section with respect to the cost or pricing data shall not be affected by the refusal to submit such certification.
 
@@ -180,7 +180,7 @@ Subsec. (d)(1). Pub. L. 105–261, §808(b), substituted “the contracting offi
 
 1996—Subsec. (b). Pub. L. 104–106, §4201(b)(1), amended subsec. (b) generally, substituting pars. (1) and (2) relating to submission of certified cost or pricing data for former pars. (1) and (2) relating to submission of cost or pricing data and striking out par. (3) relating to FAR standards.
 
-Subsec. (c). Pub. L. 104–106, §4201(b)(1), amended subsec. (c) generally, substituting pars. (1) to (3) relating to authority to require submission of certified cost or pricing data for former par. (1) relating to authority to require submission of cost or pricing data and striking out former par. (2) relating to authority to require information other than certified cost or pricing data.
+Subsec. (c). Pub. L. 104–106, §4201(b)(1), amended subsec. (c) generally, substituting pars. (1) to (3) relating to authority to require submission of certified cost or pricing data for former par. (1) relating to authority torequire submission of cost or pricing data and striking out former par. (2) relating to authority to require information other than certified cost or pricing data.
 
 Subsec. (c)(1). Pub. L. 104–106, §4321(e)(3), which directed amendment of heading of par. (1) by changing each letter that is capitalized (other than the first letter of the first word) to lowercase, could not be executed because of the general amendment of subsec. (c) by Pub. L. 104–106, §4201(b)(1). See above.
 

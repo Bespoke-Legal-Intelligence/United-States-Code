@@ -40,7 +40,7 @@ The Secretary may not make a direct operating loan under subchapter II of this c
 
 The Secretary may not provide to a borrower debt forgiveness on a direct loan made under this chapter if the borrower has received debt forgiveness on another direct loan made under this chapter.
 
-(Pub. L. 87–128, title III, §373, as added Pub. L. 104–127, title VI, §648(b), Apr. 4, 1996, 110 Stat. 1104; amended Pub. L. 105–277, div. A, title I, §101(a) \[title VIII, §801\], Oct. 21, 1998, 112 Stat. 2681, 2681–37.)
+(Pub. L. 87–128, title III, §373, as added Pub. L. 104–127, title VI, §648(b), Apr. 4, 1996, 110 Stat. 1104; amended Pub. L. 105–277, div. A, §101(a) \[title VIII, §801\], Oct. 21, 1998, 112 Stat. 2681, 2681–37.)
 
 #### References in Text
 

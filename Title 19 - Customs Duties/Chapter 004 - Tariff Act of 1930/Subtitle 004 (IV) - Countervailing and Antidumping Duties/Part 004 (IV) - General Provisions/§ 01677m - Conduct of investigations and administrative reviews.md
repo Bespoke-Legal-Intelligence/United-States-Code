@@ -2,7 +2,7 @@
 
 #### (a) Treatment of voluntary responses in countervailing or antidumping duty investigations and reviews
 
-In any investigation under part I or II of this subtitle or a review under section 1675(a) of this title in which the administering authority has, under section 1677f–1(c)(2) of this title or section 1677f–1(e)(2)(A) of this title (whichever is applicable), limited the number of exporters or producers examined, or determined a single country-wide rate, the administering authority shall establish an individual countervailable subsidy rate or an individual weighted average dumping margin for any exporter or producer not initially selected for individual examination under such sections who submits to the administering authority the information requested from exporters or producers selected for examination, if—
+In any investigation under part I or II of this subtitle or a review under section 1675(a) of this title in which the administering authority has, under section 1677f–1(c)(2) of this title or section 1677f–1(e)(2)(A) of this title (whichever is applicable), limited the number of exporters or producers examined, or determined a single country-wide rate, the administering authority shall establish an individual countervailable subsidyrate or an individual weighted average dumping margin for any exporter or producer not initially selected for individual examination under such sections who submits to the administering authority the information requested from exporters or producers selected for examination, if—
 
 &emsp;(1) such information is so submitted by the date specified—
 

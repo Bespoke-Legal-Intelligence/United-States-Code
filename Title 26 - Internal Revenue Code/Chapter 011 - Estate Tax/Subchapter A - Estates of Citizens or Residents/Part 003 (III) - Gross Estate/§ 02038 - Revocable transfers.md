@@ -10,7 +10,7 @@ The value of the gross estate shall include the value of all property.
 
 #### (2) Transfers on or before June 22, 1936
 
-&emsp;To the extent of any interest therein of which the decedent has at any time made a transfer (except in case of a bona fide sale for an adequate and full consideration in money or money's worth), by trust or otherwise, where the enjoyment thereof was subject at the date of his death to any change through the exercise of a power, either by the decedent alone or in conjunction with any person, to alter, amend, or revoke, or where the decedent relinquished any such power during the 3 yearperiod ending on the date of the decedent's death. Except in the case of transfers made after June 22, 1936, no interest of the decedent of which he has made a transfer shall be included in the gross estate under paragraph (1) unless it is includible under this paragraph.
+&emsp;To the extent of any interest therein of which the decedent has at any time made a transfer (except in case of a bona fide sale for an adequate and full consideration in money or money's worth), by trust or otherwise, where the enjoyment thereof was subject at the date of his death to any change through the exercise of a power, either by the decedent alone or in conjunction with any person, to alter, amend, or revoke, or where the decedent relinquished any such power during the 3 year period ending on the date of the decedent's death. Except in the case of transfers made after June 22, 1936, no interest of the decedent of which he has made a transfer shall be included in the gross estate under paragraph (1) unless it is includible under this paragraph.
 
 #### (b) Date of existence of power
 

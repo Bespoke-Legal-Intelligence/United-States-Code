@@ -56,7 +56,7 @@ The Secretary may designate any discrete area of the marine environment as a nat
 
 #### (3) Resource assessment report
 
-&emsp;In making determinations and findings, the Secretary shall draft, as part of the environmental impact statement referred to in section 1434(a)(2) of this title, a resource assessment report documenting present and potential uses of the area, including commercial and recreational fishing, research and education, minerals and energy development, subsistence uses, and other commercial, governmental, or recreational uses. The Secretary, in consultation with the Secretary of the Interior, shall draft a resource assessment section for the report regarding any commercial, governmental, or recreational resource uses in the area under consideration that are subject to the primary jurisdiction of the Department of the Interior. The Secretary, in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator, shall draft a resource assessment section for the report, including information on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary. Public disclosure by the Secretary of such information shall be consistent with national security regulations.
+&emsp;In making determinations and findings, the Secretary shall draft, as part of the environmental impact statement referred to in section 1434(a)(2) of this title, a resource assessment report documenting present and potential uses of the area, including commercial and recreational fishing, research and education, minerals and energy development, subsistence uses, and other commercial, governmental, or recreational uses. The Secretary, in consultation with the Secretary of the Interior, shall draft a resource assessment section for the report regarding any commercial, governmental, or recreational resource uses in the area under consideration that are subject to the primary jurisdiction of the Department of the Interior. The Secretary, in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator, shall drafta resource assessment section for the report, including information on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary. Public disclosure by the Secretary of such information shall be consistent with national security regulations.
 
 (Pub. L. 92–532, title III, §303, Oct. 23, 1972, 86 Stat. 1062; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2297; Pub. L. 102–587, title II, §2103, Nov. 4, 1992, 106 Stat. 5041.)
 
@@ -100,11 +100,13 @@ Key Largo National Marine Sanctuary.—41 F.R. 2379, Jan. 16, 1976; 48 F.R. 5511
 
 Looe Key National Marine Sanctuary.—46 F.R. 7949, Jan. 26, 1981.
 
-MONITOR Marine Sanctuary.—40 F.R. 5349, Feb. 5, 1975; 40 F.R. 21706, May 19, 1975; 15 C.F.R. part 922, subpart F.
+MONITOR National Marine Sanctuary.—40 F.R. 5349, Feb. 5, 1975; 40 F.R. 21706, May 19, 1975; 15 C.F.R. part 922, subpart F.
 
 Monterey Bay National Marine Sanctuary.—57 F.R. 43310, Sept. 18, 1992; 15 C.F.R. part 922, subpart M; Pub. L. 100–627, title II, §205(a)(3), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–368, title I, §102, Sept. 23, 1992, 106 Stat. 1119; Pub. L. 102–587, title II, §2203, Nov. 4, 1992, 106 Stat. 5048.
 
 Olympic Coast National Marine Sanctuary.—59 F.R. 24586, May 11, 1994; 15 C.F.R. 922, subpart O; Pub. L. 100–627, title II, §205(a)(4), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–587, title II, §2207, Nov. 4, 1992, 106 Stat. 5053.
+
+Thunder Bay National Marine Sanctuary and Underwater Preserve.—65 F.R. 39042, June 19, 2000; 15 C.F.R. part 922, subpart R.
 
 #### Northwest Straits
 

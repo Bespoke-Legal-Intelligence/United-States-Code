@@ -28,5 +28,5 @@ For effective date and applicability of chapter, see section 6303 of Pub. L. 100
 
 #### Short Title
 
-Section 5201 of Pub. L. 100–297 provided that: “This part \[part B (§§5201–5212) of title V of Pub. L. 100–297,enacting this chapter\] may be cited as the ‘Tribally Controlled Schools Act of 1988’.”
+Section 5201 of Pub. L. 100–297 provided that: “This part \[part B (§§5201–5212) of title V of Pub. L. 100–297, enacting this chapter\] may be cited as the ‘Tribally Controlled Schools Act of 1988’.”
 

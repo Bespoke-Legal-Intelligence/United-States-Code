@@ -30,7 +30,7 @@ There is hereby imposed a tax on any failure of a group health plan to meet the 
 
 &emsp;&emsp;&emsp;(ii) which occurred or continued during the period under examination,
 
-> &emsp;&emsp;the amount of tax imposed by subsection (a) by reason of such failures with respect to such individual shall not be less than the lesser of $2,500 or the amount of tax whichwould be imposed by subsection (a) without regard to such paragraphs.
+> &emsp;&emsp;the amount of tax imposed by subsection (a) by reason of such failures with respect to such individual shall not be less than the lesser of $2,500 or the amount of tax which would be imposed by subsection (a) without regard to such paragraphs.
 
 #### (B) Higher minimum tax where violations are more than de minimis
 
@@ -52,7 +52,7 @@ There is hereby imposed a tax on any failure of a group health plan to meet the 
 
 &emsp;&emsp;(A) such failure was due to reasonable cause and not to willful neglect, and
 
-&emsp;&emsp;(B)(i) in the case of a plan other than a church plan (as defined in section 414(e)), such failure is corrected during the 30-day period beginning on the first date the person otherwise liable for such tax knew, or exercising reasonable diligence would have known, that such failure existed, and
+&emsp;&emsp;(B)(i) in the case of a plan other than a church plan (as defined in section 414(e)),such failure is corrected during the 30-day period beginning on the first date the person otherwise liable for such tax knew, or exercising reasonable diligence would have known, that such failure existed, and
 
 &emsp;&emsp;(ii) in the case of a church plan (as so defined), such failure is corrected before the close of the correction period (determined under the rules of section 414(e)(4)(C)).
 
@@ -108,7 +108,7 @@ There is hereby imposed a tax on any failure of a group health plan to meet the 
 
 #### (B) Employers not in existence in preceding year
 
-&emsp;&emsp;In the case of an employer which was not in existence throughout the preceding calendar year, the determination of whether such employer is a small employer shall bebased on the average number of employees that it is reasonably expected such employer will employ on business days in the current calendar year.
+&emsp;&emsp;In the case of an employer which was not in existence throughout the preceding calendar year, the determination of whether such employer is a small employer shall be based on the average number of employees that it is reasonably expected such employer will employ on business days in the current calendar year.
 
 #### (C) Predecessors
 

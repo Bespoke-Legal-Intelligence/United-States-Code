@@ -24,6 +24,48 @@ A prior section 2401a was renumbered section 2350f of this title.
 
 1996—Pub. L. 104–106 substituted “Lease of vehicles, equipment, vessels, and aircraft” for “Lease of vessels, aircraft, and vehicles” as section catchline, designated existing text as subsec. (b), inserted subsec. (b) heading, and added subsec. (a).
 
+#### Multi-Year Aircraft Lease Pilot Program
+
+Pub. L. 106–79, title VIII, §8133, Oct. 25, 1999, 113 Stat. 1267, provided that:
+
+“(a) The Secretary of the Air Force may establish a multi-year pilot program for leasing aircraft for operational support purposes, including transportation for the combatant Commanders in Chief, on such terms and conditions as the Secretary may deem appropriate, consistent with this section.
+
+“(b) Sections 2401 and 2401a of title 10, United States Code, shall not apply to any aircraft lease authorized by this section.
+
+“(c) Under the aircraft lease Pilot Program authorized by this section:
+
+&emsp;“(1) The Secretary may include terms and conditions in lease agreements that are customary in aircraft leases by a non-Government lessor to a non-Government lessee.
+
+&emsp;“(2) The term of any individual lease agreement into which the Secretary enters under this section shall not exceed 10 years.
+
+&emsp;“(3) The Secretary may provide for special payments to a lessor if either the Secretary terminates or cancels the lease prior to the expiration of its term or aircraft are damaged or destroyed prior to the expiration of the term of the lease. Such special payments shall not exceed an amount equal to the value of one year's lease payment under the lease. The amount of special payments shall be subject to negotiation between the Air Force and lessors.
+
+&emsp;“(4) Notwithstanding any other provision of law, any payments required under a lease under this section, and any payments made pursuant to subsection (3) above may be made from:
+
+&emsp;&emsp;“(A) appropriations available for the performance of the lease at the time the lease takes effect;
+
+&emsp;&emsp;“(B) appropriations for the operation and maintenance available at the time which the payment is due; and
+
+&emsp;&emsp;“(C) funds appropriated for those payments.
+
+&emsp;“(5) The Secretary may lease aircraft, on such terms and conditions as the Secretary may deem appropriate, consistent with this section, through an operating lease consistent with OMB Circular A–11.
+
+&emsp;“(6) The Secretary may exchange or sell existing aircraft and apply the exchange allowance or sale proceeds in whole or in part toward the cost of leasing replacement aircraft under this section.
+
+&emsp;“(7) Lease arrangements authorized by this section may not commence until:
+
+&emsp;&emsp;“(A) The Secretary submits a report to the congressional defense committees \[Committees on Armed Services and Subcommittees on Defense of the Committees on Appropriations of the Senate and the House of Representatives\] outlining the plans for implementing the Pilot Program. The report shall describe the terms and conditions of proposed contracts and the savings in operations andsupport costs expected to be derived from retiring older aircraft as compared to the expected cost of leasing newer replacement aircraft.
+
+&emsp;&emsp;“(B) A period of not less than 30 calendar days has elapsed after submitting the report.
+
+&emsp;“(8) Not later than 1 year after the date on which the first aircraft is delivered under this Pilot Program, and yearly thereafter on the anniversary of the first delivery, the Secretary shall submit a report to the congressional defense committees describing the status of the Pilot Program. The Report will be based on at least 6 months of experience in operating the Pilot Program.
+
+&emsp;“(9) No lease of operational support aircraft may be entered into under this section after September 30, 2004.
+
+“(d) The authority granted to the Secretary of the Air Force by this section is separate from and in addition to, and shall not be construed to impair or otherwise affect, the authority of the Secretary to procure transportation or enter into leases under a provision of law other than this section.
+
+“(e) The authority provided under this section may be used to lease not more than a total of six aircraft for the purposes of providing operational support.”
+
 #### Lease of Firefighting, Crash Rescue, and Snow Removal Equipment
 
 Pub. L. 105–262, title VIII, §8126, Oct. 17, 1998, 112 Stat. 2333, provided that:
@@ -36,7 +78,7 @@ Pub. L. 105–262, title VIII, §8126, Oct. 17, 1998, 112 Stat. 2333, provided t
 
 #### Pilot Program for Leasing Commercial Utility Cargo Vehicles
 
-Section 807(c) of Pub. L. 104–106 provided that:
+Section 807(c) of Pub. L. 104–106, as amended by Pub. L. 106–65, div. A, title X, §1067(6), Oct. 5, 1999, 113 Stat. 774, provided that:
 
 “(1) The Secretary of the Army may conduct a pilot program for leasing commercial utility cargo vehicles in accordance with this subsection.
 
@@ -44,7 +86,7 @@ Section 807(c) of Pub. L. 104–106 provided that:
 
 &emsp;“(A) the Secretary may trade existing commercial utility cargo vehicles of the Army for credit against the costs of leasing new replacement commercial utility cargo vehicles for the Army;
 
-&emsp;“(B) the quantities and trade-in value of commercial utility cargo vehicles to be traded in shall be subject to negotiation between the Secretary and thelessors of the new replacement commercial utility cargo vehicles;
+&emsp;“(B) the quantities and trade-in value of commercial utility cargo vehicles to be traded in shall be subject to negotiation between the Secretary and the lessors of the new replacement commercial utility cargo vehicles;
 
 &emsp;“(C) the lease agreement for a new commercial utility cargo vehicle may be executed with or without an option to purchase at the end of the lease period;
 
@@ -56,11 +98,11 @@ Section 807(c) of Pub. L. 104–106 provided that:
 
 “(4) The pilot program may not be commenced until—
 
-&emsp;“(A) the Secretary submits to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report that contains the plans of the Secretary for implementing the program and that sets forth in detail the savings in operating and support costs expected to be derived from retiring older commercial utility cargo vehicles, as compared to the expected costs of leasing newer commercial utility cargo vehicles; and
+&emsp;“(A) the Secretary submits to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report that contains the plans of the Secretary for implementing the program and that sets forth in detail the savings in operating and support costs expected to be derived from retiring older commercial utility cargo vehicles, as compared to the expected costs of leasing newer commercial utility cargo vehicles; and
 
 &emsp;“(B) a period of 30 calendar days has elapsed after submission of such report.
 
-“(5) Not later than one year after the date on which the first lease under the pilot program is entered into, the Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the status of the pilot program. Such report shall be based on at least six months of experience in operating the pilot program.
+“(5) Not later than one year after the date on which the first lease under the pilot program is entered into, the Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the status of the pilot program. Such report shall be based on at least six months of experience in operating the pilot program.
 
 “(6) The Secretary may exercise an option provided for under paragraph (2) only after a period of 60 days has elapsed after the submission of the report.
 

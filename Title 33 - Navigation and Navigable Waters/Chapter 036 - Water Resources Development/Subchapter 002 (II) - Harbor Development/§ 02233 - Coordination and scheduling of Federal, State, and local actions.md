@@ -26,7 +26,7 @@ The Secretary may revise the agreement once to extend the schedule to allow the 
 
 #### (g) Progress reports
 
-Six months before the final date of the schedule, the Secretary shall provide to Congress awritten progress report for each navigation project for a harbor or inland harbor subject to this section. The Secretary shall transmit the report to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Environment and Public Works of the Senate. The report shall summarize all work completed under the agreement and shall include a detailed work program that will assure completion of all remaining work under the agreement.
+Six months before the final date of the schedule, the Secretary shall provide to Congress a written progress report for each navigation project for a harbor or inland harbor subject to this section. The Secretary shall transmit the report to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Environment and Public Works of the Senate. The report shall summarize all work completed under the agreement and shall include a detailed work program that will assure completion of all remaining work under the agreement.
 
 #### (h) Final decision
 
@@ -34,7 +34,7 @@ Not later than the final day of the schedule, the Secretary shall notify the non
 
 #### (i) Report on timesavings methods
 
-Not later than one year after November 17, 1986, the Secretary shall prepare and transmit to Congress a report estimating the time required for the issuance of all Federal, State, and local permits for the construction of navigation projects for harbors or inland harbors and associated activities. The Secretary shall include in that report recommendations for further reducing the amount of time required for the issuance of those permits, including any proposed changes in existing law.
+Not later than one year after November 17, 1986, the Secretary shall prepare and transmit toCongress a report estimating the time required for the issuance of all Federal, State, and local permits for the construction of navigation projects for harbors or inland harbors and associated activities. The Secretary shall include in that report recommendations for further reducing the amount of time required for the issuance of those permits, including any proposed changes in existing law.
 
 (Pub. L. 99–662, title II, §205, Nov. 17, 1986, 100 Stat. 4101.)
 

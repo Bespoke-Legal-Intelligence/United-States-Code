@@ -164,7 +164,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “earned income” means wages, salaries, or professional fees, and other amounts received as compensation for personal services actually rendered, but does not include that part of the compensation derived by the taxpayer for personal services rendered by him to a corporation which represents a distribution of earnings or profits rather than a reasonable allowance as compensation for the personal services actually rendered.
+&emsp;&emsp;The term “earned income” means wages, salaries, or professional fees, and otheramounts received as compensation for personal services actually rendered, but does not include that part of the compensation derived by the taxpayer for personal services rendered by him to a corporation which represents a distribution of earnings or profits rather than a reasonable allowance as compensation for the personal services actually rendered.
 
 #### (B) Taxpayer engaged in trade or business
 
@@ -196,7 +196,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) an individual who has earned income from sources within a foreign country submits a statement to the authorities of that country that he is not a resident of that country, and
 
-&emsp;&emsp;(B) such individual is held not subject as a resident of that country to the income tax ofthat country by its authorities with respect to such earnings,
+&emsp;&emsp;(B) such individual is held not subject as a resident of that country to the income tax of that country by its authorities with respect to such earnings,
 
 > &emsp;then such individual shall not be considered a bona fide resident of that country for purposes of paragraph (1)(A).
 
@@ -234,7 +234,7 @@ For purposes of this section—
 
 #### (9) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations providing rules—
+&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate tocarry out the purposes of this section, including regulations providing rules—
 
 &emsp;&emsp;(A) for cases where a husband and wife each have earned income from sources outside the United States, and
 
@@ -318,7 +318,7 @@ Subsec. (c)(1)(D), (E). Pub. L. 96–595, §4(b)(2), added subpars. (D) and (E).
 
 1978—Pub. L. 95–615, §202(f)(1), substituted “Income earned by individuals in certain camps” for “Earned income from sources without the United States” in section catchline.
 
-Subsec. (a). Pub. L. 95–615, §202(a), in introductory provisions inserted reference to an individual described in section 913(a) who, because of his employment, resides in a camp located in a hardship area, in par. (1) substituted reference to amounts received from sources within a foreign country or countries for reference to amounts received from sources without the United States, in par. (2) substituted reference to amounts received from sources within qualified foreign countries for reference to amounts received from sources without the United States, and in provisions following par. (2) struck out “any deductions (other than those allowed by section 151, relating to personal exemptions),” after “deduction from his gross income” and inserted “, other than the deductions allowed by sections 217 (relating to moving expenses)” after “subsection”.
+Subsec. (a). Pub. L. 95–615, §202(a), in introductory provisions inserted reference to an individual described in section 913(a) who, because of his employment, resides in a camp located in a hardship area, in par. (1) substituted reference to amounts received from sources within a foreign country or countries for reference to amounts received from sources without the United States, in par. (2) substituted reference to amounts received from sources within qualified foreign countries for reference to amounts received from sources without the United States, and in provisions following par. (2) struck out “any deductions (other than those allowedby section 151, relating to personal exemptions),” after “deduction from his gross income” and inserted “, other than the deductions allowed by sections 217 (relating to moving expenses)” after “subsection”.
 
 Pub. L. 95–600, §701(u)(10)(A), inserted provisions setting forth formula for determining amount of reduction of taxes, and struck out provisions relating to the credit against taxes.
 
@@ -390,7 +390,7 @@ Section 115 of subtitle B (§§111–115) of title I of Pub. L. 97–34 provided
 
 Section 4(d) of Pub. L. 96–595 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1978.”
 
-Amendment by section 107(a)(3)(B) of Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
+Amendment by section 107(a)(3)(B) of Pub. L. 96–222 effective, except as otherwise provided, as if it had beenincluded in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
 Amendment by section 108(a)(1)(A), (C), (D) of Pub. L. 96–222 effective as if included in the Foreign Earned Income Act of 1978, Pub. L. 95–615, see section 108(a)(2)(A) of Pub. L. 96–222, set out as a note under section 3 of this title.
 
@@ -476,7 +476,7 @@ Section 208 of Pub. L. 95–615, as amended by Pub. L. 97–34, title I, §114, 
 
 “(a)
 
-General Rule.—As soon as practicable after December 31, 1993, and as soon as practicable after the close of each fifth calendar year thereafter, the Secretary of the Treasury shall transmit a report to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate on the operation and effects of sections 911 and 912 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
+General Rule.—As soon as practicable after December 31, 1993, and as soon as practicable after the close of each fifth calendar year thereafter, the Secretary of the Treasury shall transmit a report to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate on the operation and effects of sections 911 and912 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
 
 “(b)
 

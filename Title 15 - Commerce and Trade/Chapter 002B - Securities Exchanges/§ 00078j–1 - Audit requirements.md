@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each audit required pursuant to this chapter of the financial statements of an issuer by an independent public accountant shall include, in accordance with generally accepted auditing standards, as may be modified or supplemented from time to time by the Commission—
+Each audit required pursuant to this chapter of the financial statements of an issuer by anindependent public accountant shall include, in accordance with generally accepted auditing standards, as may be modified or supplemented from time to time by the Commission—
 
 &emsp;(1) procedures designed to provide reasonable assurance of detecting illegal acts that would have a direct and material effect on the determination of financial statement amounts;
 
@@ -44,7 +44,7 @@ Each audit required pursuant to this chapter of the financial statements of an i
 
 #### (4) Report after resignation
 
-&emsp;If an independent public accountant resigns from an engagement under paragraph (3)(A), the accountant shall, not later than 1 businessday following the failure by the issuer to notify the Commission under paragraph (3), furnish to the Commission a copy of the accountant's report (or the documentation of any oral report given).
+&emsp;If an independent public accountant resigns from an engagement under paragraph (3)(A), the accountant shall, not later than 1 business day following the failure by the issuer to notify the Commission under paragraph (3), furnish to the Commission a copy of the accountant's report (or the documentation of any oral report given).
 
 #### (c) Auditor liability limitation
 

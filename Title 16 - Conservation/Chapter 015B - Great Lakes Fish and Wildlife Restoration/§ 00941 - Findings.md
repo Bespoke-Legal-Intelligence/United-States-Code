@@ -12,7 +12,7 @@ The Congress finds and declares the following:
 
 &emsp;(5) Over 80 percent of the original wetlands in the Great Lakes Basin have been destroyed and such losses continue at a rate of 20,000 acres annually.
 
-&emsp;(6) Contaminant burdens in the fish and wildlife resources of the Great Lakes Basin are substantial and the impacts of those contaminants on the life functions of important fish and wildlife resources are poorly understood.Concern over the effects of those contaminants on human health have resulted in numerous public health advisories recommending restricted or no consumption of Great Lakes fish.
+&emsp;(6) Contaminant burdens in the fish and wildlife resources of the Great Lakes Basin are substantial and the impacts of those contaminants on the life functions of important fish and wildlife resources are poorly understood. Concern over the effects of those contaminants on human health have resulted in numerous public health advisories recommending restricted or no consumption of Great Lakes fish.
 
 &emsp;(7) The lower Great Lakes are uniquely different from the upper Great Lakes biologically, physically, and in the degree of human use and shoreline development, and special fishery resource assessments and management activities are necessary to respond effectively to these special circumstances.
 

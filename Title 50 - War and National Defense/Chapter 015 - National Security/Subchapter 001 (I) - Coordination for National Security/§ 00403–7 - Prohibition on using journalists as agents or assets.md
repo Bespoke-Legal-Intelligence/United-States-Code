@@ -10,7 +10,7 @@ It is the policy of the United States that an element of the Intelligence Commun
 
 #### (b) Waiver
 
-Pursuant to such procedures as the President may prescribe, the President or the Director ofCentral Intelligence may waive subsection (a) of this section in the case of an individual if the President or the Director, as the case may be, makes a written determination that the waiver is necessary to address the overriding national security interest of the United States. The Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate shall be notified of any waiver under this subsection.
+Pursuant to such procedures as the President may prescribe, the President or the Director of Central Intelligence may waive subsection (a) of this section in the case of an individual if the President or the Director, as the case may be, makes a written determination that the waiver is necessary to address the overriding national security interest of the United States. The Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate shall be notified of any waiver under this subsection.
 
 #### (c) Voluntary cooperation
 

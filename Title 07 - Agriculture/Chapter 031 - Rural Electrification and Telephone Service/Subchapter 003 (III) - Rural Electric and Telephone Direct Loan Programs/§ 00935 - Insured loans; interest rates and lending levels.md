@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary is authorized to make insured loans under this subchapter and at the interest rates hereinafter provided to the full extent of the assets available in the fund, subject only to limitations as to amounts authorized for loans and advances as may be from time to time imposed by the Congress of the United States forloans to be made in any one year, which amounts shall remain available until expended: <i>Provided</i>, That the Congress in the annual appropriation Act may also authorize the transfer of any excess cash in the fund for deposit into the Treasury as miscellaneous receipts: <i>And provided further</i>, That any such loans and advances shall not be included in the totals of the budget of the United States Government and shall be exempt from any general limitation imposed by statute on expenditures and net lending (budget outlays) of the United States.
+The Secretary is authorized to make insured loans under this subchapter and at the interest rates hereinafter provided to the full extent of the assets available in the fund, subject only to limitations as to amounts authorized for loans and advances as may be from time to time imposed by the Congress of the United States for loans to be made in any one year, which amounts shall remain available until expended: <i>Provided</i>, That the Congress in the annual appropriation Act may also authorize the transfer of any excess cash in the fund for deposit into the Treasury as miscellaneous receipts: <i>And provided further</i>, That any such loans and advances shall not be included in the totals of the budget of the United States Government and shall be exempt from any general limitation imposed by statute on expenditures and net lending (budget outlays) of the United States.
 
 #### (b) Insured loans
 
@@ -110,7 +110,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 #### (B) Authority to waive tier requirement
 
-&emsp;&emsp;The Secretary may waive the requirement of subparagraph (A)(ii) in any case in which the Secretary determines (and sets forth the reasons for the waiver in writing) that the requirement would prevent emergency restoration of the telephone system of the applicant or result in severe hardship to the applicant.
+&emsp;&emsp;The Secretary may waive the requirement of subparagraph (A)(ii) in any case in whichthe Secretary determines (and sets forth the reasons for the waiver in writing) that the requirement would prevent emergency restoration of the telephone system of the applicant or result in severe hardship to the applicant.
 
 #### (C) Effect of lack of funds
 
@@ -132,7 +132,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 &emsp;&emsp;&emsp;(i) consider the application to be for a loan under this paragraph and a loan under section 948 of this title; and
 
-&emsp;&emsp;&emsp;(ii) if the applicant is eligible for a loan, make a loan to the applicant under this paragraph in an amount equal to the amount that bears the same ratio to thetotal amount of loans for which the applicant is eligible under this paragraph and under section 948 of this title, as the amount made available for loans under this paragraph for the fiscal year bears to the total amount made available for loans under this paragraph and under section 948 of this title for the fiscal year.
+&emsp;&emsp;&emsp;(ii) if the applicant is eligible for a loan, make a loan to the applicant under this paragraph in an amount equal to the amount that bears the same ratio to the total amount of loans for which the applicant is eligible under this paragraph and under section 948 of this title, as the amount made available for loans under this paragraph for the fiscal year bears to the total amount made available for loans under this paragraph and under section 948 of this title for the fiscal year.
 
 #### (C) Effect of lack of funds
 
@@ -174,7 +174,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 &emsp;&emsp;A telecommunications modernization plan approved under subparagraph (A) may not subsequently be disapproved. Notwithstanding paragraphs (1)(A)(iii) and (2)(A)(iii),<sup>1</sup> and section 948(b)(4)(C) <sup>2</sup> of this title, the Secretary and the Governor of the telephone bank may make a loan to a borrower serving a State that does not have a telecommunication modernization plan approved by the Secretary if the loan is made less than 1 year after the Secretary has adopted final regulations implementing this paragraph.
 
-(May 20, 1936, ch. 432, title III, §305, as added Pub. L. 93–32, §2, May 11, 1973, 87 Stat. 68; amended Pub. L. 94–570, §3, Oct. 20, 1976, 90 Stat. 2701; Pub. L. 97–35, title I, §165(a), Aug. 13, 1981, 95 Stat. 379; Pub. L. 101–624, title XXIII, §2361, Nov. 28, 1990, 104 Stat. 4042; Pub. L. 103–129, §2(a)(1), (c)(6), Nov. 1, 1993, 107 Stat. 1356, 1364; Pub. L. 103–354, title II, §235(a)(8), (13), Oct. 13, 1994, 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title III, §305, as added Pub. L. 93–32, §2, May 11, 1973, 87 Stat. 68; amended Pub. L. 94–570, §3, Oct. 20, 1976, 90 Stat.2701; Pub. L. 97–35, title I, §165(a), Aug. 13, 1981, 95 Stat. 379; Pub. L. 101–624, title XXIII, §2361, Nov. 28, 1990, 104 Stat. 4042; Pub. L. 103–129, §2(a)(1), (c)(6), Nov. 1, 1993, 107 Stat. 1356, 1364; Pub. L. 103–354, title II, §235(a)(8), (13), Oct. 13, 1994, 108 Stat. 3221.)
 
 #### Amendments
 
@@ -198,7 +198,7 @@ Subsec. (d). Pub. L. 103–129, §2(a)(1)(A), (C), added subsec. (d) and struck 
 
 1981—Subsec. (b). Pub. L. 97–35 substituted provisions establishing an interest rate at 5 per centum per annum and a lower rate, but not less than 2 per cent, under the enumerated criteria, for provisions establishing standard and special rates, with special rates applicable under enumerated criteria.
 
-1976—Subsec. (b). Pub. L. 94–570 struck out from introductory text “meets either of the following conditions” after “borrower which”; limited par. (1) to the telephone borrowers, substituting provision for an average subscriber density of three or fewer per mile at the end of the most recent calendar year ending atleast six months before approval of the loan for prior provision for an average consumer or subscriber density of two or fewer per mile; substituted in par. (2) provision, limited to electric borrowers, respecting having an average consumer density of two or fewer per mile or an average adjusted plant revenue ratio of over 9.0 at end of the most recent calendar year ending at least six months before approval of the loan, determination of such ratio, and defining sum of distribution plant and general plant, gross revenue, and cost of power for prior provision for and average gross revenue per mile which is at least $450 below the average gross revenue per mile of REA-financed electric systems, in the case of electric borrowers, or at least $300 below the average gross revenue per mile of REA-financed telephone systems, in the case of telephone borrowers; and inserted in proviso of par. (2) “to a telephone or electric borrower” after “make a loan”.
+1976—Subsec. (b). Pub. L. 94–570 struck out from introductory text “meets either of the following conditions” after “borrower which”; limited par. (1) to the telephone borrowers, substituting provision for an average subscriber density of three or fewer per mile at the end of the most recent calendar year ending at least six months before approval of the loan for prior provision for an average consumer or subscriber density of two or fewer per mile; substituted in par. (2) provision, limited to electric borrowers, respecting having an average consumer density of two or fewer per mile or an average adjusted plant revenue ratio of over 9.0 at end of the most recent calendar year ending at least six months before approval of the loan, determination of such ratio, and defining sum of distribution plant and general plant, gross revenue, and cost of power for prior provision for and average gross revenue per mile which is at least $450 below the average gross revenue per mile of REA-financed electric systems, in the case of electric borrowers, or at least $300 below the average gross revenue per mile of REA-financed telephone systems, in the case of telephone borrowers; and inserted in proviso of par. (2) “to a telephone or electric borrower” after “make a loan”.
 
 #### Effective Date of 1981 Amendment
 

@@ -26,7 +26,7 @@ For purposes of this chapter, the term—
 
 &emsp;(5) “training” includes formal or informal instruction of foreign students in the United States or overseas by officers or employees of the United States, contract technicians, or contractors (including instruction at civilian institutions), or by correspondence courses, technical, educational, or information publications and media of all kinds, training aid, orientation, training exercise, and military advice to foreign military units and forces;
 
-&emsp;(6) “major defense equipment” means any item of significant military equipment on the United States Munitions List having a nonrecurring research and development cost of more than $50,000,000 or a total production cost of more than $200,000,000;
+&emsp;(6) “major defense equipment” means any item of significant military equipment on theUnited States Munitions List having a nonrecurring research and development cost of more than $50,000,000 or a total production cost of more than $200,000,000;
 
 &emsp;(7) “defense articles and defense services” means, with respect to commercial exports subject to the provisions of section 2778 of this title, those items designated by the President pursuant to subsection (a)(1) of such section;
 
@@ -42,7 +42,7 @@ For purposes of this chapter, the term—
 
 #### References in Text
 
-The Atomic Energy Act of 1954, as amended, referred to in par. (3), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified principally to chapter 23 (§2011 etseq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, as amended, referred to in par. (3), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 #### Amendments
 

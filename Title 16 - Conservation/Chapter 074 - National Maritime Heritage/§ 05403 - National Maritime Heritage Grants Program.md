@@ -132,7 +132,7 @@ To qualify for a subgrant from the National Trust under subsection (b) of this s
 
 #### (h) Direct grant and subgrant administration
 
-The National Trust shall be responsible for administering subgrants for maritime heritageeducation projects under subsection (b) of this section, the Secretary shall be responsible for administering direct grants for maritime heritage preservation projects under subsection (c) of this section, and the various State Historic Preservation Officers shall be responsible for administering subgrants for maritime heritage preservation projects under subsection (c) of this section, by—
+The National Trust shall be responsible for administering subgrants for maritime heritage education projects under subsection (b) of this section, the Secretary shall be responsible for administering direct grants for maritime heritage preservation projects under subsection (c) of this section, and the various State Historic Preservation Officers shall be responsible for administering subgrants for maritime heritage preservation projects under subsection (c) of this section, by—
 
 &emsp;(1) publicizing the Program to prospective grantees, subgrantees, and to the public at large, in cooperation with the National Park Service, the Maritime Administration, and other appropriate government agencies and private institutions;
 

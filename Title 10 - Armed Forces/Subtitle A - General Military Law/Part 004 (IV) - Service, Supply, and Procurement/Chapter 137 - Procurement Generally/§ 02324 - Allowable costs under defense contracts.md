@@ -74,7 +74,7 @@ Specific Costs Not Allowable.—(1) The following costs are not allowable under 
 
 &emsp;(O) Costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States or a State, to the extent provided in subsection (k).
 
-&emsp;(P) Costs of compensation of senior executives of contractors for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator for Federal Procurement Policy under section 39 of the Office of Federal Procurement Policy Act (41 U.S.C. 435).
+&emsp;(P) Costs of compensation of senior executives of contractors for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds thebenchmark compensation amount determined applicable for the fiscal year by the Administrator for Federal Procurement Policy under section 39 of the Office of Federal Procurement Policy Act (41 U.S.C. 435).
 
 (2)(A) The Secretary of Defense may provide in a military banking contract that the provisions of paragraphs (1)(M) and (1)(N) shall not apply to costs incurred under the contract by the contractor for payment of mandated foreign national severance pay. The Secretary may include such a provision in a military banking contract only if the Secretary determines, with respect to that contract, that the contractor has taken (or has established plans to take) appropriate actions within the contractor's control to minimize the amount and number of incidents of the payment of severance pay by the contractor to employees under the contract who are foreign nationals.
 
@@ -90,7 +90,7 @@ Specific Costs Not Allowable.—(1) The following costs are not allowable under 
 
 &emsp;(i) the application of such provisions to the contract would adversely affect the continuation of a program, project, or activity that provides significant support services for members of the armed forces stationed or deployed outside the United States;
 
-&emsp;(ii) the contractor has taken (or has established plans to take) appropriate actions within the contractor's control to minimize the amount and number of incidents of the payment of severance pay by the contractor toemployees under the contract who are foreign nationals; and
+&emsp;(ii) the contractor has taken (or has established plans to take) appropriate actions within the contractor's control to minimize the amount and number of incidents of the payment of severance pay by the contractor to employees under the contract who are foreign nationals; and
 
 &emsp;(iii) the payment of severance pay is necessary in order to comply with a law that is generally applicable to a significant number of businesses in the country in which the foreign national receiving the payment performed services under the contract or is necessary to comply with a collective bargaining agreement.
 
@@ -180,7 +180,7 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 (2) A disposition referred to in paragraph (1)(B) is any of the following:
 
-&emsp;(A) In the case of a criminal proceeding, a conviction (including a conviction pursuant toa plea of nolo contendere) by reason of the violation or failure referred to in paragraph (1).
+&emsp;(A) In the case of a criminal proceeding, a conviction (including a conviction pursuant to a plea of nolo contendere) by reason of the violation or failure referred to in paragraph (1).
 
 &emsp;(B) In the case of a civil or administrative proceeding involving an allegation of fraud or similar misconduct, a determination of contractor liability on the basis of the violation or failure referred to in paragraph (1).
 
@@ -208,7 +208,7 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 (ii) Regulations issued for the purpose of clause (i) shall provide for appropriate consideration of the complexity of procurement litigation, generally accepted principles governing the award of legal fees in civil actions involving the United States as a party, and such other factors as may be appropriate.
 
-(C) In the case of a proceeding referred to in subparagraph (A), contractor costs otherwise allowable as reimbursable costs under this paragraph are not allowable if (i) such proceeding involves the same contractor misconduct alleged as the basis of another criminal, civil, or administrative proceeding, and (ii) the costs of such other proceeding are not allowable under paragraph (1).
+(C) In the case of a proceeding referred to in subparagraph (A), contractor costs otherwise allowable as reimbursable costs under this paragraph are not allowable if (i) such proceeding involves the same contractor misconduct alleged as the basis of another criminal, civil, or administrative proceeding, and (ii) the costs of suchother proceeding are not allowable under paragraph (1).
 
 (6) In this subsection:
 
@@ -248,7 +248,7 @@ Definitions.—In this section:
 
 &emsp;(6) The term “fiscal year” means a fiscal year established by a contractor for accounting purposes.
 
-(Added Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 682; amended Pub. L. 99–190, §101(b)\[title VIII, §8112(a)\], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VIII, §805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, §1(f)(2)(A), (3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, §322(a), title VIII, §§826(a), 832(a), Sept. 29, 1988, 102 Stat. 1952, 2022, 2023; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 100–700 §8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, §311(a)(1), title VIII, §853(a)(1), (b)(3), Nov. 29, 1989, 103 Stat. 1411, 1518; Pub. L. 101–510, div. A, title XIII, §1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, §346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title VIII, §818(a), title X, §1052(26), title XIII, §1352(b), Oct. 23, 1992, 106 Stat. 2457, 2500, 2559; Pub. L. 103–355, title II, §2101(a)–(d), Oct. 13, 1994, 108 Stat. 3306–3308; Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), (b)(9), Feb. 10, 1996, 110 Stat. 671, 672; Pub. L. 105–85, div. A, title VIII, §808(a), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(a), Oct. 17, 1998, 112 Stat. 2083.)
+(Added Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 682; amended Pub. L. 99–190, §101(b) \[title VIII, §8112(a)\], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VIII, §805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, §1(f)(2)(A), (3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, §322(a), title VIII, §§826(a), 832(a), Sept. 29, 1988, 102 Stat. 1952, 2022, 2023; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 100–700 §8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, §311(a)(1), title VIII, §853(a)(1), (b)(3), Nov. 29, 1989, 103 Stat. 1411, 1518; Pub. L. 101–510, div. A, title XIII, §1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, §346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title VIII, §818(a), title X, §1052(26), title XIII, §1352(b), Oct. 23, 1992, 106 Stat. 2457, 2500, 2559; Pub. L. 103–355, title II, §2101(a)–(d), Oct. 13, 1994, 108 Stat. 3306–3308; Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), (b)(9), Feb. 10, 1996, 110 Stat. 671, 672; Pub. L. 105–85, div. A, title VIII, §808(a), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(a), Oct. 17, 1998, 112 Stat. 2083.)
 
 #### Historical and Revision Notes
 
@@ -316,7 +316,7 @@ Subsec. (e)(3)(A). Pub. L. 103–355, §2101(a)(5)(F), substituted “the Federa
 
 Subsec. (e)(4). Pub. L. 103–355, §2101(a)(5)(G), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Secretary shall prescribe regulations to implement this section. Such regulations may establish appropriate definitions, exclusions, limitations, and qualifications.”
 
-Subsec. (f)(1). Pub. L. 103–355, §2101(a)(6)(A), inserted heading and substituted “(1) The Federal AcquisitionRegulation shall contain provisions on the allowability of contractor costs. Such provisions” for “(1) The Secretary shall prescribe proposed regulations to amend those provisions of the Department of Defense Supplement to the Federal Acquisition Regulation dealing with the allowability of contractor costs. The amendments” and “The regulations” for “These regulations”.
+Subsec. (f)(1). Pub. L. 103–355, §2101(a)(6)(A), inserted heading and substituted “(1) The Federal Acquisition Regulation shall contain provisions on the allowability of contractor costs. Such provisions” for “(1) The Secretary shall prescribe proposed regulations to amend those provisions of the Department of Defense Supplement to the Federal Acquisition Regulation dealing with the allowability of contractor costs. The amendments” and “The regulations” for “These regulations”.
 
 Subsec. (f)(1)(Q). Pub. L. 103–355, §2101(c), added subpar. (Q).
 
@@ -506,7 +506,7 @@ Section 826(b) of Pub. L. 100–456 provided that: “The Secretary of Defense s
 
 Section 832(b) of Pub. L. 100–456 related to regulations for the implementation of subsec. (e)(1)(N) of this section, prior to repeal by Pub. L. 100–700, §8(c), Nov. 19, 1988, 102 Stat. 4638.
 
-Section 101(b) \[title VIII, §8112(b), (c)\] of Pub. L. 99–190 required the regulations required under section 911(b) of Pub. L. 99–145, set out below, to be submitted to Congress before the publication of such regulations in accordance with 41 U.S.C. 418b and directed the Comptroller General, within 180 days of publication of the regulations, to submit to Congress a report on the Comptroller General's initial evaluation under subsection (j)(1) of this section.
+Section 101(b) \[title VIII, §8112(b), (c)\] of Pub. L. 99–190 required the regulations required under section911(b) of Pub. L. 99–145, set out below, to be submitted to Congress before the publication of such regulations in accordance with 41 U.S.C. 418b and directed the Comptroller General, within 180 days of publication of the regulations, to submit to Congress a report on the Comptroller General's initial evaluation under subsection (j)(1) of this section.
 
 Section 911(b) of Pub. L. 99–145 provided that:
 
@@ -600,7 +600,7 @@ Section 833 of Pub. L. 100–456, as amended by Pub. L. 101–189, div. A, title
 
 “(a)
 
-Air Fare Discount Agreements.—The Administrator of General Services shall enter into negotiations with commercial air carriers with a view to achieving agreements that permit personnel of contractors who are traveling solely in the performance of covered contracts to be transported by such carriers at the same discount air passenger transportation rates as such carriers charge for travel by Federal Government employees traveling at Government expense.
+Air Fare Discount Agreements.—The Administrator of General Services shall enter into negotiations with commercial air carriers with a view to achieving agreements that permit personnel of contractors who are traveling solely in the performance of covered contracts to be transported by such carriers at the samediscount air passenger transportation rates as such carriers charge for travel by Federal Government employees traveling at Government expense.
 
 “(b)
 

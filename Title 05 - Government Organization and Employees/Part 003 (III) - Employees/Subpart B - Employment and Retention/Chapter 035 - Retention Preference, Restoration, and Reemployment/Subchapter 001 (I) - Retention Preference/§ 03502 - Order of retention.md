@@ -86,11 +86,11 @@
 
 (5) No authority under paragraph (1) may be exercised after September 30, 2001.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 428; Pub. L. 90–367, §3, June 29, 1968, 82 Stat. 278; Pub. L. 90–623, §1(23), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–454, title III, §307(e), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1149, 1224; Pub. L. 99–251, title III, §306(a), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(c), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 102–484, div. D, title XLIV, §4433(a)(1), Oct. 23, 1992, 106 Stat. 2721; Pub. L. 104–106, div. A, title X, §§1034, 1043(d)(1), Feb. 10, 1996, 110 Stat. 430, 438; Pub. L. 104–201, div. A, title XVI, §1609, Sept. 23, 1996, 110 Stat. 2738; Pub. L. 105–277, div. A, title I, §101(f) \[title VIII, §405(d)(1), (f)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417, 2681–429.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 428; Pub. L. 90–367, §3, June 29, 1968, 82 Stat. 278; Pub. L. 90–623, §1(23), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–454, title III, §307(e), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1149, 1224; Pub. L. 99–251, title III, §306(a), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(c), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 102–484, div. D, title XLIV, §4433(a)(1), Oct. 23, 1992, 106 Stat. 2721; Pub. L. 104–106, div. A, title X, §§1034, 1043(d)(1), Feb. 10, 1996, 110 Stat. 430, 438; Pub. L. 104–201, div. A, title XVI, §1609, Sept. 23, 1996, 110 Stat. 2738; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(1), (f)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417, 2681–429.)
 
 #### Amendment of Subsection (d)
 
-<i>Pub. L. 105–277, div. A, title I, §101(f) \[title VIII, §405(f)(1), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–429, 2681–435, provided that, effective July 1, 2000, subsection (d) of this section is amended:</i>
+<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(1), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–429, 2681–435, provided that, effective July 1, 2000, subsection (d) of this section is amended:</i>
 
 <i>(1) in paragraph (3)—</i>
 
@@ -188,7 +188,7 @@ Subsec. (a)(C). Pub. L. 90–367 added subsec. (a)(C).
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. A, title I, §101(f) \[title VIII, §405(g)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–434, provided that:
+Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(g)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–434, provided that:
 
 “(1)
 
@@ -204,7 +204,7 @@ Stewart b. mckinney homeless assistance act.—The amendments made by subsection
 
 &emsp;“(B)
 
-Job training partnership act.—The amendments made by subsection (f) \[amending this section and sections 2014, 2015, and 2026 of Title 7, Agriculture, sections 1255a and 1613 of Title 8, Aliens and Nationality, sections 636 and 3116 of Title 15, Commerce and Trade, sections 2296 and 2311 of Title 19, Customs Duties, sections 1070d–2, 1087vv, 6365, 6434, 6453, and 6455 of Title 20, Education, section 2102 of Title 29, Labor, section 6703 of Title 31, Money and Finance, sections 4102A, 4103A, and 4213 of Title 38, Veterans’ Benefits, and sections 603, 1437u, 1474, 3013, 3056, 3056a, 3056h, 3796ee, 4368a, 4953, 4959, 6864, 6873, 7274h, 9806, 11302, 12653c, 12655m, 12899c, and 13823 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 1183a and 1522 of Title 8, sections 1143, 2501, 2701, and 2687 of Title 10, Armed Forces, section 3304 of Title 26, Internal Revenue Code, section 1721 of Title 29, and section 4101 of Title 38\] shall take effect on July 1, 2000.”
+Job training partnership act.—The amendments made by subsection (f) \[amending this section and sections 2014, 2015, and 2026 of Title 7, Agriculture, sections 1255a and 1613 of Title 8, Aliens and Nationality, sections 636 and 3116 of Title 15, Commerce and Trade, sections 2296 and 2311 of Title 19, Customs Duties, sections 1070d–2, 1087vv, 6365, 6434, 6453, and 6455 of Title 20, Education, section 2102 of Title 29, Labor, section 6703 of Title 31, Money and Finance, sections 4102A, 4103A, and 4213 of Title 38, Veterans’ Benefits, and sections 603, 1437u, 1474, 3013, 3056, 3056a, 3056h, 3796ee, 4368a, 4953, 4959, 6864, 6873, 7274h, 9806, 11302, 12653c, 12655m, 12899c, and 13823 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 1183a and 1522 of Title 8, sections 1143, 2501, 2687, and 2701 of Title 10, Armed Forces, section 3304 of Title 26, Internal Revenue Code, section 1721 of Title 29, and section 4101 of Title 38\] shall take effect on July 1, 2000.”
 
 #### Effective Date of 1996 Amendment
 

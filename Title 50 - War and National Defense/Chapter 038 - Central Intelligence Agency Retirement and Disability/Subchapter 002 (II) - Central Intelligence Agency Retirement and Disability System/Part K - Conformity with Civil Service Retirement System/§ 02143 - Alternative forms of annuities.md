@@ -10,7 +10,7 @@ The regulations and alternative forms of annuity shall, to the maximum extent pr
 
 #### (c) Lump-sum credit
 
-Any lump-sum credit provided pursuant to an election under subsection (a) of this section shall not preclude an individual from receiving other benefits provided under that subsection.
+Any lump-sum credit provided pursuant to an election under subsection (a) of this sectionshall not preclude an individual from receiving other benefits provided under that subsection.
 
 #### (d) Submission of regulations to congressional intelligence committees
 

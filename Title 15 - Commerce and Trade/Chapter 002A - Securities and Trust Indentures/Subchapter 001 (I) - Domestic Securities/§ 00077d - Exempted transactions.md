@@ -10,7 +10,7 @@ The provisions of section 77e of this title shall not apply to—
 
 &emsp;&emsp;(A) transactions taking place prior to the expiration of forty days after the first date upon which the security was bona fide offered to the public by the issuer or by or through an underwriter,
 
-&emsp;&emsp;(B) transactions in a security as to which a registration statement has been filed taking place prior to the expiration of forty days after the effective date of such registration statement or prior to the expiration offorty days after the first date upon which the security was bona fide offered to the public by the issuer or by or through an underwriter after such effective date, whichever is later (excluding in the computation of such forty days any time during which a stop order issued under section 77h of this title is in effect as to the security), or such shorter period as the Commission may specify by rules and regulations or order, and
+&emsp;&emsp;(B) transactions in a security as to which a registration statement has been filed taking place prior to the expiration of forty days after the effective date of such registration statement or prior to the expiration of forty days after the first date upon which the security was bona fide offered to the public by the issuer or by or through an underwriter after such effective date, whichever is later (excluding in the computation of such forty days any time during which a stop order issued under section 77h of this title is in effect as to the security), or such shorter period as the Commission may specify by rules and regulations or order, and
 
 &emsp;&emsp;(C) transactions as to securities constituting the whole or a part of an unsold allotment to or subscription by such dealer as a participant in the distribution of such securities by the issuer or by or through an underwriter.
 
@@ -30,7 +30,7 @@ The provisions of section 77e of this title shall not apply to—
 
 &emsp;&emsp;(ii) where such securities are originated by a mortgagee approved by the Secretary of Housing and Urban Development pursuant to sections 1709 and 1715b of title 12 and are offered or sold subject to the three conditions specified in subparagraph (A)(i) to any institution described in such subparagraph or to any insurance company subject to the supervision of the insurance commissioner, or any agency or officer performing like function, of any State or territory of the United States or the District of Columbia, or the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, or the Government National Mortgage Association.
 
-&emsp;(B) Transactions <sup>1</sup> between any of the entities described in subparagraph (A)(i) or (A)(ii) involving non-assignable contracts to buy or sell the foregoing securities which are to be completed within two years, where the seller of the foregoing securities pursuant to any such contract is one of the parties described in subparagraph (A)(i) or (A)(ii) who may originate such securities and the purchaser of such securities pursuant to any such contract is any institution described in subparagraph (A)(i) or any insurance company described in subparagraph (A)(ii), the Federal Home Loan Mortgage Corporation, Federal National Mortgage Association, or the Government National Mortgage Association and where the foregoing securities are subject to the three conditions for sale set forth in subparagraphs (A)(i)(a) through (c).
+&emsp;(B) Transactions <sup>1</sup> between any of the entities described in subparagraph (A)(i) or (A)(ii) involving non-assignable contracts to buy or sell the foregoing securities which are to be completed within two years, where the seller of the foregoing securities pursuant to any such contract is one of the parties described in subparagraph (A)(i) or (A)(ii) who may originate such securities and the purchaser of such securities pursuant to any such contract is any institution described in subparagraph (A)(i) or any insurance company described insubparagraph (A)(ii), the Federal Home Loan Mortgage Corporation, Federal National Mortgage Association, or the Government National Mortgage Association and where the foregoing securities are subject to the three conditions for sale set forth in subparagraphs (A)(i)(a) through (c).
 
 &emsp;(C) The <sup>1</sup> exemption provided by subparagraphs (A) and (B) shall not apply to resales of the securities acquired pursuant thereto, unless each of the conditions for sale contained in subparagraphs (A)(i)(a) through (c) are satisfied.
 
@@ -80,7 +80,7 @@ Trust Indenture Act of 1939, application to transactions exempted by this sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 77p, 77r, 77r–1, 78bb, 80a–24 of this title; title 12 sections 24, 1464, 1757; title 26 section 67.
+This section is referred to in sections 77p, 77r, 77r–1, 78c, 78<i>o</i>–3, 78bb, 80a–24 of this title; title 12 sections 24, 1464, 1757; title 26 section 67.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

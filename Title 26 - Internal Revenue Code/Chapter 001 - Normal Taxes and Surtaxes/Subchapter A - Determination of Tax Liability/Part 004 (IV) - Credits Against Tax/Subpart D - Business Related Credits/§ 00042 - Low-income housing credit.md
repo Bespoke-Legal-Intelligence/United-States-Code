@@ -120,7 +120,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) to which the amendments made by section 201(a) of the Tax Reform Act of 1986 apply.
 
-> &emsp;Such term does not include any building with respect to which moderate rehabilitation assistance is provided, at any time during the compliance period, under section 8(e)(2) <sup>1</sup> of theUnited States Housing Act of 1937 (other than assistance under the Stewart B. McKinney Homeless Assistance Act (as in effect on the date of the enactment of this sentence)).
+> &emsp;Such term does not include any building with respect to which moderate rehabilitation assistance is provided, at any time during the compliance period, under section 8(e)(2) <sup>1</sup> of the United States Housing Act of 1937 (other than assistance under the Stewart B. McKinney Homeless Assistance Act (as in effect on the date of the enactment of this sentence)).
 
 #### (d) Eligible basis
 
@@ -188,7 +188,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(III) by any governmental unit or qualified nonprofit organization (as defined in subsection (h)(5)) if the requirements of subparagraph (B)(ii) are met with respect to the placement in service by such unit or organization and all the income from such property is exempt from Federal income taxation,
 
-&emsp;&emsp;&emsp;&emsp;(IV) by any person who acquired such building by foreclosure (or by instrument in lieu of foreclosure) of any purchase-money security interest held by such person if the requirements of subparagraph (B)(ii) are met with respect to the placement in service by such person and such building is resold within 12 months after the date such building is placed in service by such person after such foreclosure, or
+&emsp;&emsp;&emsp;&emsp;(IV) by any person who acquired such building by foreclosure (or by instrument in lieu of foreclosure) of any purchase-money security interest held by such person if the requirements of subparagraph (B)(ii) are met with respect to the placement in service by such personand such building is resold within 12 months after the date such building is placed in service by such person after such foreclosure, or
 
 &emsp;&emsp;&emsp;&emsp;(V) of a single-family residence by any individual who owned and used such residence for no other purpose than as his principal residence.
 
@@ -342,7 +342,7 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of subparagraph (A), the term “appropriate Federal official” means—
 
-&emsp;&emsp;&emsp;(i) the Secretary of Housing and Urban Development in the case of any building described in subparagraph (B) by reason of clause (i) or (ii) thereof, and
+&emsp;&emsp;&emsp;(i) the Secretary of Housing and Urban Development in the case of any buildingdescribed in subparagraph (B) by reason of clause (i) or (ii) thereof, and
 
 &emsp;&emsp;&emsp;(ii) the Secretary of Agriculture in the case of any building described in subparagraph (B) by reason of clause (iii) thereof.
 
@@ -514,7 +514,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), a residential unit is rent-restricted if the gross rent with respect to such unit does not exceed 30 percent of the imputed income limitation applicable to such unit. For purposes of the preceding sentence, the amount of the income limitation under paragraph (1) applicable for any period shall not be less than such limitation applicable for the earliest period the building (which contains the unit) was included in the determination of whether the project is a qualified low-income housing project.
+&emsp;&emsp;For purposes of paragraph (1), a residential unit is rent-restricted if the gross rent with respect to such unit does not exceed 30 percent of the imputed income limitation applicable to such unit. For purposes of the preceding sentence, the amount of the incomelimitation under paragraph (1) applicable for any period shall not be less than such limitation applicable for the earliest period the building (which contains the unit) was included in the determination of whether the project is a qualified low-income housing project.
 
 #### (B) Gross rent
 
@@ -638,7 +638,7 @@ For purposes of this section—
 
 #### (B) Time for making allocation
 
-&emsp;&emsp;Except in the case of an allocation which meets the requirements of subparagraph (C), (D), (E), or (F), an allocation shall be taken into account under subparagraph (A) only if it is made not later than the close of the calendar year in which the building is placed in service.
+&emsp;&emsp;Except in the case of an allocation which meets the requirements of subparagraph (C), (D), (E), or (F), an allocation shall be takeninto account under subparagraph (A) only if it is made not later than the close of the calendar year in which the building is placed in service.
 
 #### (C) Exception where binding commitment
 
@@ -808,7 +808,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) such organization is described in paragraph (3) or (4) of section 501(c) and is exempt from tax under section 501(a),
 
-&emsp;&emsp;&emsp;(ii) such organization is determined by the State housing credit agency not to beaffiliated with or controlled by a for-profit organization; <sup>4</sup> and
+&emsp;&emsp;&emsp;(ii) such organization is determined by the State housing credit agency not to be affiliated with or controlled by a for-profit organization; <sup>4</sup> and
 
 &emsp;&emsp;&emsp;(iii) 1 of the exempt purposes of such organization includes the fostering of low-income housing.
 
@@ -956,7 +956,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The amount of the credit determined under this section with respect to anybuilding shall not exceed the clause (ii) percentage of the amount of the credit which would (but for this subparagraph) be determined under this section with respect to such building.
+&emsp;&emsp;&emsp;The amount of the credit determined under this section with respect to any building shall not exceed the clause (ii) percentage of the amount of the credit which would (but for this subparagraph) be determined under this section with respect to such building.
 
 #### (ii) Determination of percentage
 
@@ -1114,7 +1114,7 @@ For purposes of this section—
 
 #### (6) Application to estates and trusts
 
-&emsp;In the case of an estate or trust, the amount of the credit determined under subsection (a) and any increase in tax under subsection (j) shall be apportioned between the estate or trust and the beneficiaries on the basis of the income of the estate or trust allocable to each.
+&emsp;In the case of an estate or trust, the amount of the credit determined under subsection (a) and any increase in tax under subsection (j) shall be apportioned between the estate ortrust and the beneficiaries on the basis of the income of the estate or trust allocable to each.
 
 #### (7) Impact of tenant's right of 1st refusal to acquire property
 
@@ -1126,7 +1126,7 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of subparagraph (A), the minimum purchase price under this subparagraph is an amount equal to the sum of—
 
-&emsp;&emsp;&emsp;(i) the principal amount of outstanding indebtedness secured by the building (other than indebtedness incurred withinthe 5-year period ending on the date of the sale to the tenants), and
+&emsp;&emsp;&emsp;(i) the principal amount of outstanding indebtedness secured by the building (other than indebtedness incurred within the 5-year period ending on the date of the sale to the tenants), and
 
 &emsp;&emsp;&emsp;(ii) all Federal, State, and local taxes attributable to such sale.
 
@@ -1274,7 +1274,7 @@ For purposes of this section—
 
 #### (3) Present value of financing
 
-&emsp;If the rate of interest on any financing described in paragraph (2)(A) is less than the rate which is 1 percentage point below the applicable Federal rate as of the time such financing is incurred, then the qualified basis (to which such financing relates) of the qualified low-income building shall be the present value of the amount of such financing, using as the discount rate such applicable Federal rate. For purposes of the preceding sentence, the rate of interest on any financing shall be determined by treating interest to the extent of government subsidies as not payable.
+&emsp;If the rate of interest on any financing described in paragraph (2)(A) is less than therate which is 1 percentage point below the applicable Federal rate as of the time such financing is incurred, then the qualified basis (to which such financing relates) of the qualified low-income building shall be the present value of the amount of such financing, using as the discount rate such applicable Federal rate. For purposes of the preceding sentence, the rate of interest on any financing shall be determined by treating interest to the extent of government subsidies as not payable.
 
 #### (4) Failure to fully repay
 
@@ -1442,7 +1442,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(4) providing the opportunity for housing credit agencies to correct administrative errors and omissions with respect to allocations and record keeping within a reasonable period after their discovery, taking into account the availability of regulations and other administrative guidance from the Secretary.
 
-(Added Pub. L. 99–514, title II, §252(a), Oct. 22, 1986, 100 Stat. 2189; amended Pub. L. 99–509, title VIII, §8072(a), Oct. 21, 1986, 100 Stat. 1964; Pub. L. 100–647, title I, §§1002(<i>l</i>)(1)–(25), (32), 1007(g)(3)(B), title IV, §§4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, 102 Stat. 3373–3381, 3435, 3643, 3644; Pub. L. 101–239, title VII, §§7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, 103 Stat. 2306–2321, 2406, 2426, 2429; Pub. L. 101–508, title XI, §§11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, 104 Stat. 1388–474, 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; Pub. L. 102–227, title I, §107(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13142(a)(1), (b)(1)–(5), Aug. 10, 1993, 107 Stat. 437–439; Pub. L. 104–188, title I, §1704(t)(53), (64), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title VI, §6004(g)(5), July 22, 1998, 112 Stat. 796.)
+(Added Pub. L. 99–514, title II, §252(a), Oct. 22, 1986, 100 Stat. 2189; amended Pub. L. 99–509, title VIII, §8072(a), Oct. 21, 1986, 100 Stat. 1964; Pub. L. 100–647, title I, §§1002(<i>l</i>)(1)–(25), (32), 1007(g)(3)(B), title IV, §§4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, 102 Stat. 3373–3381, 3435, 3643, 3644; Pub. L. 101–239, title VII, §§7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, 103 Stat. 2306–2321, 2406, 2426, 2429; Pub. L. 101–508, title XI, §§11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, 104 Stat. 1388–474, 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; Pub. L. 102–227, title I, §107(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13142(a)(1), (b)(1)–(5), Aug. 10, 1993, 107 Stat. 437–439; Pub. L.104–188, title I, §1704(t)(53), (64), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title VI, §6004(g)(5), July 22, 1998, 112 Stat. 796.)
 
 #### References in Text
 
@@ -1476,7 +1476,7 @@ The date of the enactment of this clause, referred to in subsec. (i)(3)(B)(iii)(
 
 The Social Security Act, referred to in subsec. (i)(3)(D)(i)(I), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IV of the Act is classified generally to subchapter IV (§601 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Job Training Partnership Act, referred to in subsec. (i)(3)(D)(i)(II), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (i)(3)(D)(i)(II), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Prior Provisions
 
@@ -1690,7 +1690,7 @@ Subsec. (i)(6). Pub. L. 101–239, §7831(c)(3), added par. (6).
 
 Subsec. (i)(8). Pub. L. 101–239, §7108(q), added par. (8).
 
-Subsec. (k)(2)(D). Pub. L. 101–239, §7108(<i>o</i>), added provision at end relating to the applicability of cl. (ii) toqualified nonprofit organizations not described in section 46(c)(8)(D)(iv)(II) with respect to a building.
+Subsec. (k)(2)(D). Pub. L. 101–239, §7108(<i>o</i>), added provision at end relating to the applicability of cl. (ii) to qualified nonprofit organizations not described in section 46(c)(8)(D)(iv)(II) with respect to a building.
 
 Subsec. (<i>l</i>)(1). Pub. L. 101–239, §7108(p), in introductory provisions, substituted “Following” for “Not later than the 90th day following” and inserted “at such time and” before “in such form”.
 
@@ -1754,7 +1754,7 @@ Subsec. (g)(4). Pub. L. 100–647, §1002(<i>l</i>)(13), inserted “; except t
 
 Subsec. (g)(6). Pub. L. 100–647, §1002(<i>l</i>)(32), added par. (6).
 
-Subsec. (h)(1). Pub. L. 100–647, §1002(<i>l</i>)(14)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “No credit shall be allowed by reason of this section for any taxable year with respect to any building in excess of the housing credit dollar amount allocated to such building under this subsection. An allocation shall be taken into account under the preceding sentence only if it occurs not later than the earlier of—
+Subsec. (h)(1). Pub. L. 100–647, §1002(<i>l</i>)(14)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “No credit shall be allowed by reason of thissection for any taxable year with respect to any building in excess of the housing credit dollar amount allocated to such building under this subsection. An allocation shall be taken into account under the preceding sentence only if it occurs not later than the earlier of—
 
 &emsp;“(A) the 60th day after the close of the taxable year, or
 
@@ -1862,7 +1862,7 @@ In general.—Except as otherwise provided in this paragraph, the amendments mad
 
 “(B)
 
-Tenant rights, etc.—The amendments made by paragraphs (1), (6), (8), and (9) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\].
+Tenant rights, etc.—The amendments made by paragraphs (1), (6), (8), and (9) \[amending this section\]shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\].
 
 “(C)
 
@@ -1884,7 +1884,7 @@ Section 11812(c) of Pub. L. 101–508 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 56, 167, 168, 312, 381, 404, 460, 642, 1016, 1250, and 7701 of this title\] shall apply to property placed in service after the date of the enactment of this Act \[Nov. 5, 1990\].
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 56, 167, 168, 312, 381, 404, 460, 642, 1016, 1250, and 7701 of this title\] shall apply to property placed in service after the date of the enactment of this Act \[Nov. 5, 1990\].
 
 “(2)
 
@@ -1952,7 +1952,7 @@ Amendment by section 7831(c) of Pub. L. 101–239 effective as if included in th
 
 #### Effective Date of 1988 Amendment
 
-Amendment by sections 1002(<i>l</i>)(1)–(25), (32) and 1007(g)(3)(B) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by sections 1002(<i>l</i>)(1)–(25), (32) and 1007(g)(3)(B) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the TaxReform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Section 4003(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section and provisions set out as a note under section 469 of this title\] shall apply to amounts allocated in calendar years after 1987.”
 
@@ -2056,7 +2056,7 @@ Project described.—A project is described in this subparagraph if—
 
 &emsp;“(C)
 
-Additional units eligible for credit.—In the case of a building to which subparagraph (A) applies and which is part of a project which meets the requirements of subparagraph (D), for each low-income unit in such building which is occupied by individuals whose income is 30 percent or less of area median gross income, one additional unit (not otherwise a low-income unit) in such building shall be treated as a low-income unit for purposes of such section 42.
+Additional units eligible for credit.—In the case of a building to which subparagraph (A) appliesand which is part of a project which meets the requirements of subparagraph (D), for each low-income unit in such building which is occupied by individuals whose income is 30 percent or less of area median gross income, one additional unit (not otherwise a low-income unit) in such building shall be treated as a low-income unit for purposes of such section 42.
 
 &emsp;“(D)
 
@@ -2098,7 +2098,7 @@ In general.—There is hereby allocated to each housing credit agency described 
 
 Housing credit agencies described.—The housing credit agencies described in this subparagraph are:
 
-&emsp;&emsp;“(i) A corporate governmental agency constituted as a public benefit corporation and established in1971 under the provisions of Article XII of the Private Housing Finance Law of the State.
+&emsp;&emsp;“(i) A corporate governmental agency constituted as a public benefit corporation and established in 1971 under the provisions of Article XII of the Private Housing Finance Law of the State.
 
 &emsp;&emsp;“(ii) A city department established on December 20, 1979, pursuant to chapter XVIII of a municipal code of such city for the purpose of supervising and coordinating the formation and execution of projects and programs affecting housing within such city.
 
@@ -2192,7 +2192,7 @@ Transitional rule.—In the case of any rehabilitation expenditures incurred wit
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 38, 39, 55, 469, 772, 774 of this title; title 15 section 632; title 42 sections 1437, 1437<i>l</i>, 1485, 1490p–2, 12745.
+This section is referred to in sections 38, 39, 55, 469, 772, 774 of this title; title 15 section 632; title 42 sections 1437, 1437z–7, 1485, 1490p–2, 12745.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

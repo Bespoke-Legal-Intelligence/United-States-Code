@@ -36,7 +36,7 @@ Nothing in this chapter or any other Act shall be construed as authorizing the C
 
 #### (2) Other reports generally
 
-&emsp;The Commission shall submit such other reports to the President and the Congress as the Commission, the Congress, or the President shall deem appropriate.
+&emsp;The Commission shall submit such other reports to the President and the Congress as theCommission, the Congress, or the President shall deem appropriate.
 
 #### (d) Advisory committees
 

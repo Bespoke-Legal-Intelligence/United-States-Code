@@ -2,7 +2,7 @@
 
 #### (a) Articles made from imported merchandise
 
-Upon the exportation or destruction under customs supervision of articles manufactured or produced in the United States with the use of imported merchandise, provided that those articles have not been used prior to such exportation or destruction, the full amount of the duties paid upon the merchandise so used shall be refunded as drawback, less 1 per centum of such duties, except that such duties shall not be so refunded upon the exportation or destruction of flour or by-products produced from imported wheat. Where two or more products result from the manipulation of imported merchandise, the drawback shall be distributed to the several products in accordance with their relative values at the time of separation.
+Upon the exportation or destruction under customs supervision of articles manufactured or produced in the United States with the use of imported merchandise, provided that those articles have not been used prior to such exportation or destruction, the full amount of the duties paid upon the merchandise so used shall be refunded as drawback, less 1 per centum of such duties, except that such duties shall not be so refunded upon the exportation or destruction offlour or by-products produced from imported wheat. Where two or more products result from the manipulation of imported merchandise, the drawback shall be distributed to the several products in accordance with their relative values at the time of separation.
 
 #### (b) Substitution for drawback purposes
 
@@ -42,7 +42,7 @@ The provisions of this section shall apply to materials imported and used in the
 
 #### (h) Jet aircraft engines
 
-Upon the exportation of jet aircraft engines manufactured or produced abroad that havebeen overhauled, repaired, rebuilt, or reconditioned in the United States with the use of imported merchandise, including parts, there shall be refunded, upon satisfactory proof that such imported merchandise has been so used, the duties which have been paid thereon, in amounts not less than $100.
+Upon the exportation of jet aircraft engines manufactured or produced abroad that have been overhauled, repaired, rebuilt, or reconditioned in the United States with the use of imported merchandise, including parts, there shall be refunded, upon satisfactory proof that such imported merchandise has been so used, the duties which have been paid thereon, in amounts not less than $100.
 
 #### (i) Time limitation on exportation
 
@@ -60,7 +60,7 @@ No drawback shall be allowed under the provisions of this section unless the com
 
 &emsp;(B) is not used within the United States before such exportation or destruction;
 
-> then upon such exportation or destruction 99 percent of the amount of each duty, tax, or fee so paid shall be refunded as drawback. The exporter (or destroyer) has the right to claim drawback under this paragraph, but may endorse such right to the importer or any intermediate party.
+> then upon such exportation or destruction 99 percent of the amount of each duty, tax, or feeso paid shall be refunded as drawback. The exporter (or destroyer) has the right to claim drawback under this paragraph, but may endorse such right to the importer or any intermediate party.
 
 (2) Subject to paragraph (4), if there is, with respect to imported merchandise on which was paid any duty, tax, or fee imposed under Federal law because of its importation, any other merchandise (whether imported or domestic), that—
 
@@ -108,7 +108,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;(A) the term “NAFTA Act” means the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3301 et seq.\];
 
-&emsp;(B) the terms “NAFTA country” and “good subject to NAFTA drawback” have the samerespective meanings that are given such terms in sections 2(4) and 203(a) of the NAFTA Act \[19 U.S.C. 3301(4), 3333(a)\]; and
+&emsp;(B) the terms “NAFTA country” and “good subject to NAFTA drawback” have the same respective meanings that are given such terms in sections 2(4) and 203(a) of the NAFTA Act \[19 U.S.C. 3301(4), 3333(a)\]; and
 
 &emsp;(C) a refund, waiver, or reduction of duty under paragraph (2) of this subsection or paragraph (1) of subsection (<i>o</i>) of this section is subject to section 1508(b)(2)(B) of this title.
 
@@ -118,7 +118,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;(B) the total amount of customs duties paid on the good to the NAFTA country.
 
-(3) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsections (a), (b), (f), (h), (j)(2), and (q) of this section, the shipment to Canada during the period such Agreement is in operation of an article made from or substituted for, as appropriate, a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988 does not constitute an exportation.
+(3) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsections (a), (b), (f), (h), (j)(2), and (q) of this section, the shipment to Canada during the period such Agreement is in operation of an article made from or substituted for, as appropriate, adrawback eligible good under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988 does not constitute an exportation.
 
 #### (<i>o</i>) Vessels built for account of resident of NAFTA country
 
@@ -144,7 +144,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;&emsp;(C) a drawback claim is filed regarding the exported article;
 
-> &emsp;the amount of the duties paid on, or attributable to, such qualified article shall be refunded as drawback to the drawback claimant.
+> &emsp;drawback shall be allowed as described in paragraph (4).
 
 #### (2) Requirements
 
@@ -152,13 +152,13 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;&emsp;(A) The exporter of the exported article—
 
-&emsp;&emsp;&emsp;(i) manufactured or produced the qualified article in a quantity equal to or greater than the quantity of the exported article,
+&emsp;&emsp;&emsp;(i) manufactured or produced a qualified article in a quantity equal to or greater than the quantity of the exported article,
 
-&emsp;&emsp;&emsp;(ii) purchased or exchanged, directly or indirectly, the qualified article from a manufacturer or producer described in subsection (a) or (b) of this section in a quantity equal to or greater than the quantity of the exported article,
+&emsp;&emsp;&emsp;(ii) purchased or exchanged, directly or indirectly, a qualified article from a manufacturer or producer described in subsection (a) or (b) of this section in a quantity equal to or greater than the quantity of the exported article,
 
-&emsp;&emsp;&emsp;(iii) imported the qualified article in a quantity equal to or greater than the quantity of the exported article, or
+&emsp;&emsp;&emsp;(iii) imported a qualified article in a quantity equal to or greater than the quantity of the exported article, or
 
-&emsp;&emsp;&emsp;(iv) purchased or exchanged, directly or indirectly, an imported qualified article from an importer in a quantity equal to or greater than the quantity of the exported article.
+&emsp;&emsp;&emsp;(iv) purchased or exchanged, directly or indirectly, a qualified article from an importer in a quantity equal to or greater than the quantity of the exported article.
 
 &emsp;&emsp;(B) In the case of the requirement described in subparagraph (A)(ii), the manufacturer or producer produced the qualified article in a quantity equal to or greater than the quantity of the exported article.
 
@@ -170,7 +170,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;&emsp;(F) Except as otherwise specifically provided in this subsection, the drawback claimant complies with all requirements of this section, including providing certificates which establish the drawback eligibility of articles for which drawback is claimed.
 
-&emsp;&emsp;(G) The manufacturer, producer, importer, exporter, and drawback claimant of the qualified article and the exported article maintain all records required by regulation.
+&emsp;&emsp;(G) The manufacturer, producer, importer, transferor, exporter, and drawback claimant of the qualified article and the exported article maintain all records required by regulation.
 
 #### (3) “Qualified article” defined, etc.
 
@@ -180,19 +180,23 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;&emsp;&emsp;(i) described in—
 
-&emsp;&emsp;&emsp;&emsp;(I) headings 2707, 2708, 2710, 2711, 2712, 2713, 2714, 2715, 2901, and 2902 of the Harmonized Tariff Schedule of the United States, or
+&emsp;&emsp;&emsp;&emsp;(I) headings 2707, 2708, 2710, 2711, 2712, 2713, 2714, 2715, 2901, 2902, and 2909.19.14 of the Harmonized Tariff Schedule of the United States, or
 
-&emsp;&emsp;&emsp;&emsp;(II) headings 3901 through 3914 of such Schedule (as such headings apply to liquids, pastes, powders, granules, and flakes), and
+&emsp;&emsp;&emsp;&emsp;(II) headings 3901 through 3914 of such Schedule (as such headings apply to the primary forms provided under Note 6 to chapter 39 of the Harmonized Tariff Schedule of the United States), and
 
 &emsp;&emsp;&emsp;(ii) which is—
 
-&emsp;&emsp;&emsp;&emsp;(I) manufactured or produced as described in subsection (a) or (b) of this section from crude petroleum or a petroleum derivative, or
+&emsp;&emsp;&emsp;&emsp;(I) manufactured or produced as described in subsection (a) or (b) of this section from crude petroleum or a petroleum derivative,
 
-&emsp;&emsp;&emsp;&emsp;(II) imported duty-paid.
+&emsp;&emsp;&emsp;&emsp;(II) imported duty-paid, or
 
-&emsp;&emsp;(B) An exported article is of the same kind and quality as the qualified article for which it is substituted under this subsection if it is a product that is commercially interchangeable with or referred to under the same eight-digit classification of the Harmonized Tariff Schedule of the United States as the qualified article.
+&emsp;&emsp;&emsp;&emsp;(III) an article of the same kind and quality as described in subparagraph (B), or any combination thereof, that is transferred, as so certified in a certificate of delivery or certificate of manufacture and delivery in a quantity not greater than the quantity of articles purchased or exchanged.
 
-&emsp;&emsp;(C) The term “drawback claimant” means the exporter of the exported article or the refiner, producer, or importer of such article. Any person eligible to file a drawback claim under this subparagraph may designate another person to file such claim.
+&emsp;&emsp;&nbsp;The transferred merchandise described in subclause (III), regardless of its origin, so designated on the certificate of delivery or certificate of manufacture and delivery shall be the qualified article for purposes of this section. A party who issues a certificate of delivery, or certificate of manufacture and delivery, shall also certify to the Commissioner of Customs that it has not, and will not, issue such certificates for a quantity greater than the amount eligible for drawback and that appropriate records will be maintained to demonstrate that fact.
+
+&emsp;&emsp;(B) An article, including an imported, manufactured, substituted, or exported article, is of the same kind and quality as the qualified article for which it is substituted under this subsection if it is a product that is commercially interchangeable with or referred to under the same eight-digit classification of the Harmonized Tariff Schedule of the United States as the qualified article.
+
+&emsp;&emsp;(C) The term “drawback claimant” means the exporter of the exported article or the refiner, producer, or importer of either the qualified article or the exported article. Any person eligible to file a drawback claim under this subparagraph may designate another person to file such claim.
 
 #### (4) Limitation on drawback
 
@@ -200,11 +204,17 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;&emsp;(A) manufactured or produced under subsection (a) or (b) of this section by the manufacturer or producer described in clause (i) or (ii) of paragraph (2)(A), or
 
-&emsp;&emsp;(B) imported under clause (iii) or (iv) of paragraph (2)(A).
+&emsp;&emsp;(B) imported under clause (iii) or (iv) of paragraph (2)(A) had the claim qualified for drawback under subsection (j) of this section.
 
 #### (q) Packaging material
 
-Packaging material, when used on or for articles or merchandise exported or destroyed under subsection (a), (b), (c), or (j) of this section, shall be eligible under such subsection for refund, as drawback, of 99 percent of any duty, tax, or fee imposed under Federal law on the importation of such material.
+#### (1) In general
+
+&emsp;Packaging material, when used on or for articles or merchandise exported or destroyed under subsection (a), (b), (c), or (j) of this section, shall be eligible under such subsection for refund, as drawback, of 99 percent of any duty, tax, or fee imposed under Federal law on the importation of such material.
+
+#### (2) Additional eligibility
+
+&emsp;Packaging material produced in the United States, which is used by the manufacturer or any other person on or for articles which are exported or destroyed under subsection (a) or (b) of this section, shall be eligible under such subsection for refund, as drawback, of 99 percent of any duty, tax, or fee imposed on the importation of such material used to manufacture or produce the packaging material.
 
 #### (r) Filing drawback claims
 
@@ -244,7 +254,7 @@ Packaging material, when used on or for articles or merchandise exported or dest
 
 &emsp;(A) all or substantially all of the rights, privileges, immunities, powers, duties, and liabilities of the predecessor; or
 
-&emsp;(B) the assets and other business interests of a division, plant, or other business unit of such predecessor, but only if in such transfer the value of the transferred realty, personalty, and intangibles (other than drawback rights, inchoate or otherwise) exceeds the value of all transferred drawback rights, inchoate or otherwise.
+&emsp;(B) the assets and other business interests of a division, plant, or other business unit of such predecessor, but only if in such transfer the value of the transferred realty, personalty,and intangibles (other than drawback rights, inchoate or otherwise) exceeds the value of all transferred drawback rights, inchoate or otherwise.
 
 (4) No drawback shall be paid under this subsection until either the predecessor or the drawback successor (who shall also certify that it has the predecessor's records) certifies that—
 
@@ -274,7 +284,7 @@ Merchandise that is exported or destroyed to satisfy any claim for drawback shal
 
 &emsp;Notwithstanding paragraph (1), drawback shall also be available pursuant to subsection (a) of this section with respect to any tobacco subject to the over-quota rate of duty established under a tariff-rate quota.
 
-(June 17, 1930, ch. 497, title III, §313, 46 Stat. 693; May 17, 1932, ch. 190, 47 Stat. 158; June 26, 1936, ch. 830, title IV, §§402, 403, 49 Stat. 1960; Aug. 8, 1951, ch. 297, 65 Stat. 175; Aug. 8, 1953, ch. 397, §12, 67 Stat. 515; Aug. 6, 1956, ch. 1021, §2, 70 Stat. 1076; Pub. L. 85–673, §1, Aug. 18, 1958, 72 Stat. 624; Pub. L. 90–630, §2(b), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–692, §3(a), Jan. 12, 1971, 84 Stat. 2076; Pub. L. 96–609, title II, §201(a), Dec. 28, 1980, 94 Stat. 3560; Pub. L. 98–573, title II, §202, Oct. 30, 1984, 98 Stat. 2973; Pub. L. 99–514, title XVIII, §1888(2), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title II, §204(c)(3), Sept. 28, 1988, 102 Stat. 1862; Pub. L. 101–382, title I, §134(a)(1), (2), title III, §484A(a), Aug. 20, 1990, 104 Stat. 649, 707; Pub. L. 103–182, title II, §203(b)(3), (c), title VI, §632(a), Dec. 8, 1993, 107 Stat. 2089, 2092, 2192; Pub. L. 103–465, title IV, §§404(e)(5)(A), 422(d), Dec. 8, 1994, 108 Stat. 4961, 4965; Pub. L. 104–295, §§7, 10, 21(e)(4), Oct. 11, 1996, 110 Stat. 3518, 3519, 3530.)
+(June 17, 1930, ch. 497, title III, §313, 46 Stat. 693; May 17, 1932, ch. 190, 47 Stat. 158; June 26, 1936, ch. 830, title IV, §§402, 403, 49 Stat. 1960; Aug. 8, 1951, ch. 297, 65 Stat. 175; Aug. 8, 1953, ch. 397, §12, 67 Stat. 515; Aug. 6, 1956, ch. 1021, §2, 70 Stat. 1076; Pub. L. 85–673, §1, Aug. 18, 1958, 72 Stat. 624; Pub. L. 90–630, §2(b), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–692, §3(a), Jan. 12, 1971, 84 Stat. 2076; Pub. L. 96–609, title II, §201(a), Dec. 28, 1980, 94 Stat. 3560; Pub. L. 98–573, title II, §202, Oct. 30, 1984, 98 Stat. 2973; Pub. L. 99–514, title XVIII, §1888(2), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title II, §204(c)(3), Sept. 28, 1988, 102 Stat. 1862; Pub. L. 101–382, title I, §134(a)(1), (2), title III, §484A(a), Aug. 20, 1990, 104 Stat. 649, 707; Pub. L. 103–182, title II, §203(b)(3), (c), title VI, §632(a), Dec. 8, 1993, 107 Stat. 2089, 2092, 2192; Pub. L. 103–465, title IV, §§404(e)(5)(A), 422(d), Dec. 8, 1994, 108 Stat. 4961, 4965; Pub. L. 104–295, §§7, 10, 21(e)(4), Oct. 11, 1996, 110 Stat. 3518, 3519, 3530; Pub. L. 106–36, title II, §§2404(a), 2419(a), 2420(a)–(d), June 25, 1999, 113 Stat. 169, 178, 179.)
 
 #### References in Text
 
@@ -301,6 +311,28 @@ R.S. §3048, which was not repealed, read as follows: “So much money as may be
 Permanent appropriations to pay debentures and other charges arising from duties, drawbacks, bounties, and allowances were also contained in R.S. §3689, incorporated in section 711 of former Title 31, Money and Finance, prior to repeal effective July 1, 1935, by act June 26, 1934, ch. 756, §§1, 2, 48 Stat. 1225.
 
 #### Amendments
+
+1999—Subsec. (p)(1). Pub. L. 106–36, §2420(a), substituted concluding provisions for former concluding provisions which read as follows: “the amount of the duties paid on, or attributable to, such qualified article shall be refunded as drawback to the drawback claimant”.
+
+Subsec. (p)(2)(A)(i) to (iii). Pub. L. 106–36, §2420(b)(1)(A), substituted “a qualified article” for “the qualified article”.
+
+Subsec. (p)(2)(A)(iv). Pub. L. 106–36, §2420(b)(1)(B), substituted “a qualified article” for “an imported qualified article”.
+
+Subsec. (p)(2)(G). Pub. L. 106–36, §2420(b)(2), inserted “transferor,” after “importer,”.
+
+Subsec. (p)(3)(A)(i)(I). Pub. L. 106–36, §2419(a), substituted “2902, and 2909.19.14” for “and 2902”.
+
+Subsec. (p)(3)(A)(i)(II). Pub. L. 106–36, §2420(c)(1)(A), substituted “the primary forms provided under Note 6 to chapter 39 of the Harmonized Tariff Schedule of the United States” for “liquids, pastes, powders, granules, and flakes”.
+
+Subsec. (p)(3)(A)(ii). Pub. L. 106–36, §2420(c)(1)(B), added subcl. (III) and concluding provisions.
+
+Subsec. (p)(3)(B). Pub. L. 106–36, §2420(c)(2), substituted “article, including an imported, manufactured, substituted, or exported article,” for “exported article”.
+
+Subsec. (p)(3)(C). Pub. L. 106–36, §2420(c)(3), substituted “either the qualified article or the exported article.” for “such article.”
+
+Subsec. (p)(4)(B). Pub. L. 106–36, §2420(d), inserted “had the claim qualified for drawback under subsection (j) of this section” before period at end.
+
+Subsec. (q). Pub. L. 106–36, §2404(a), designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
 
 1996—Subsec. (j)(2). Pub. L. 104–295, §21(e)(4)(A), realigned margins.
 
@@ -374,6 +406,14 @@ Subsec. (i). Act Aug. 8, 1953, §12(c), broadened the authority of the Secretary
 
 “Puerto Rico” substituted in subsec. (j) for “Porto Rico” pursuant to act May 17, 1932, which is classified to section 731a of Title 48, Territories and Insular Possessions.
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–36, title II, §2404(b), June 25, 1999, 113 Stat. 169, provided that: “The amendment made by this section \[amending this section\] applies with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act \[June 25, 1999\].”
+
+Pub. L. 106–36, title II, §2419(b), June 25, 1999, 113 Stat. 178, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[June 25, 1999\], and shall apply to drawback claims filed on and after such date.”
+
+Pub. L. 106–36, title II, §2420(e), June 25, 1999, 113 Stat. 179, provided that: “The amendments made by this section \[amending this section\] shall take effect as if included in the amendment made by section 632(a)(6) of the North American Free Trade Agreement Implementation Act \[Pub. L. 103–182, amending this section\]. For purposes of section 632(b) of that Act \[set out as a note below\], the 3-year requirement set forth in section 313(r) of the Tariff Act of 1930 \[19 U.S.C. 1313(r)\] shall not apply to any drawback claim filed within 6 months after the date of the enactment of this Act \[June 25, 1999\] for which that 3-year period would have expired.”
+
 #### Effective Date of 1994 Amendment
 
 Section 404(e)(5)(B) of Pub. L. 103–465 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect on the earlier of the date of entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\] or January 1, 1995.”
@@ -382,7 +422,7 @@ Amendment by section 422(d) of Pub. L. 103–465 effective Sept. 13, 1995, see s
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 203(b)(3) of Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico onJan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
+Amendment by section 203(b)(3) of Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
 
 Amendment by section 203(c) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
 
@@ -430,7 +470,7 @@ Amendment by section 203(c) of Pub. L. 103–182 to be made after amendment by s
 
 #### Transfer of Functions
 
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of suchDepartment transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

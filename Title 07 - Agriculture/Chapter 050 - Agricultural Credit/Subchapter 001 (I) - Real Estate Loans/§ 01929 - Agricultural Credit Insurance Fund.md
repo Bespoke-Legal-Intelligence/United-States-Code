@@ -32,7 +32,7 @@ The Secretary may utilize the fund—
 
 &emsp;(4) to pay for contract services, taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections and other expenses and advances authorized in connection with insured loans, including the difference between interest payable by borrowers and interest to which insured lenders or insured holders are entitled under agreements with the Secretary included in contracts of insurance;
 
-&emsp;(5) to pay the Secretary's costs of administration necessary to insure, make grants, service, and otherwise carry out the programs under this chapter not specifically covered by the Rural Development Insurance Fund of section 1929a of this title, including costs of the Secretary incidental to guaranteeing loansunder this chapter, either directly from the Fund or by transfers from the Fund to, and merger with, any appropriations for administrative expenses.
+&emsp;(5) to pay the Secretary's costs of administration necessary to insure, make grants, service, and otherwise carry out the programs under this chapter not specifically covered by the Rural Development Insurance Fund of section 1929a of this title, including costs of the Secretary incidental to guaranteeing loans under this chapter, either directly from the Fund or by transfers from the Fund to, and merger with, any appropriations for administrative expenses.
 
 #### (g) Transfer of funds from Farmers Home Administration direct loan account and Emergency Credit Revolving Fund; abolition of such account and fund; payments from Agricultural Credit Insurance Fund; interest
 
@@ -42,7 +42,7 @@ The Secretary may utilize the fund—
 
 #### (h) Guaranteed loans; interest rate for loans sold into secondary market; loan fees
 
-(1) The Secretary may provide financial assistance to borrowers for purposes provided in this chapter by guaranteeing loans made by any Federal or State chartered bank, savings and loan association, cooperative lending agency, or other legally organized lending agency.
+(1) The Secretary may provide financial assistance to borrowers for purposes provided in thischapter by guaranteeing loans made by any Federal or State chartered bank, savings and loan association, cooperative lending agency, or other legally organized lending agency.
 
 (2) The interest rate payable by a borrower on the portion of a guaranteed loan that is sold by a lender to the secondary market under this chapter may be lower than the interest rate charged on the portion retained by the lender, but shall not exceed the average interest rate charged by the lender on loans made to farm and ranch borrowers.
 

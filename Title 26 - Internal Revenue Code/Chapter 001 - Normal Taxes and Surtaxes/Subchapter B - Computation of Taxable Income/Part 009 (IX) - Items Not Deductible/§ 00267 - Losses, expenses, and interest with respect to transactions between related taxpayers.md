@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) at the close of the taxable year of the taxpayer for which (but for this paragraph) the amount would be deductible under this chapter, both the taxpayer and the person to whom the payment is to be made are persons specified in any of the paragraphs of subsection (b),
 
-> &emsp;then any deduction allowable under this chapter in respect of such amount shall be allowable as of the day as of which such amount is includible in the gross income of the person to whom the payment is made (or, if later, as of the day on which it would be so allowable butfor this paragraph). For purposes of this paragraph, in the case of a personal service corporation (within the meaning of section 441(i)(2)), such corporation and any employee-owner (within the meaning of section 269A(b)(2), as modified by section 441(i)(2)) shall be treated as persons specified in subsection (b).
+> &emsp;then any deduction allowable under this chapter in respect of such amount shall be allowable as of the day as of which such amount is includible in the gross income of the person to whom the payment is made (or, if later, as of the day on which it would be so allowable but for this paragraph). For purposes of this paragraph, in the case of a personal service corporation (within the meaning of section 441(i)(2)), such corporation and any employee-owner (within the meaning of section 269A(b)(2), as modified by section 441(i)(2)) shall be treated as persons specified in subsection (b).
 
 #### (3) Payments to foreign persons
 
@@ -186,11 +186,11 @@ If—
 
 &emsp;&emsp;Except to the extent provided in regulations prescribed by the Secretary, subsection (a)(1) shall not apply to the sale or exchange of property between members of the same controlled group (or persons described in subsection (b)(10)) if—
 
-&emsp;&emsp;&emsp;(i) such property in the hands of the transferor is property described in section 1221(1),
+&emsp;&emsp;&emsp;(i) such property in the hands of the transferor is property described in section 1221(a)(1),
 
 &emsp;&emsp;&emsp;(ii) such sale or exchange is in the ordinary course of the transferor's trade or business,
 
-&emsp;&emsp;&emsp;(iii) such property in the hands of the transferee is property described in section 1221(1), and
+&emsp;&emsp;&emsp;(iii) such property in the hands of the transferee is property described in section 1221(a)(1), and
 
 &emsp;&emsp;&emsp;(iv) the transferee or the transferor is a foreign corporation.
 
@@ -206,13 +206,15 @@ If—
 
 Subsection (a)(1) shall not apply to any transfer described in section 1041(a) (relating to transfers of property between spouses or incident to divorce).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 78; Pub. L. 95–628, §2(a), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 97–354, §3(h), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 98–369, div. A, title I, §174(a)–(b)(4), title VII, §721(s), July 18, 1984, 98 Stat. 704–707, 970; Pub. L. 99–514, title VIII, §§803(b)(5), 806(c)(2), title XVIII, §§1812(c)(1), (2), (3)(C), (4)(A), 1842(a), Oct. 22, 1986, 100 Stat. 2356, 2364, 2834, 2835, 2852; Pub. L. 100–647, title I, §§1006(e)(9), 1008(e)(6), Nov. 10, 1988, 102 Stat. 3401, 3441; Pub. L. 105–34, title XIII, §1308(a), title XVI, §1604(e)(1), Aug. 5, 1997, 111 Stat. 1041, 1098.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 78; Pub. L. 95–628, §2(a), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 97–354, §3(h), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 98–369, div. A, title I, §174(a)–(b)(4), title VII, §721(s), July 18, 1984, 98 Stat. 704–707, 970; Pub. L. 99–514, title VIII, §§803(b)(5), 806(c)(2), title XVIII, §§1812(c)(1), (2), (3)(C), (4)(A), 1842(a), Oct. 22, 1986, 100 Stat. 2356, 2364, 2834, 2835, 2852; Pub. L. 100–647, title I, §§1006(e)(9), 1008(e)(6), Nov. 10, 1988, 102 Stat. 3401, 3441; Pub. L. 105–34, title XIII, §1308(a), title XVI, §1604(e)(1), Aug. 5, 1997, 111 Stat. 1041, 1098; Pub. L. 106–170, title V, §532(c)(2)(C), Dec. 17, 1999, 113 Stat. 1930.)
 
 #### References in Text
 
 Sections 24(b) and 118 of the Internal Revenue Code of 1939, referred to in subsec. (d), were classified to sections 24(b) and 118 of former Title 26, Internal Revenue Code. Sections 24(b) and 118 were repealed by section 7851(a)(1) of this title. For table of comparisons of the 1939 Code to the 1986 Code \[formerly I.R.C. 1954\], see Table I preceding section 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
 #### Amendments
+
+1999—Subsec. (f)(3)(B)(i), (iii). Pub. L. 106–170 substituted “1221(a)(1)” for “1221(1)”.
 
 1997—Subsec. (b)(13). Pub. L. 105–34, §1308(a), added par. (13).
 
@@ -260,6 +262,10 @@ Subsec. (f). Pub. L. 97–354, §3(h)(2), added subsec. (f).
 
 1978—Subsec. (e). Pub. L. 95–628 added subsec. (e).
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Section 1308(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 1239 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
@@ -288,7 +294,7 @@ Section 174(c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22
 
 Subsections (a)
 
-and (b)(1).—The amendments made by subsections (a) and (b)(1) \[amending this section\] shall apply to amounts allowable as deductions under chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for taxable years beginning after December 31, 1983. For purposes of the preceding sentence, the allowability of a deduction shall be determined without regard to any disallowance or postponement of deductions under section 267 of such Code.
+and (b)(1).—The amendments made by subsections (a) and (b)(1) \[amending this section\] shall apply to amounts allowable as deductionsunder chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for taxable years beginning after December 31, 1983. For purposes of the preceding sentence, the allowability of a deduction shall be determined without regard to any disallowance or postponement of deductions under section 267 of such Code.
 
 “(2)
 

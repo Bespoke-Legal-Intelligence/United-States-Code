@@ -2,7 +2,7 @@
 
 (a)
 
-Factors To Be Considered in Imposing a Sentence.—The court shall impose a sentencesufficient, but not greater than necessary, to comply with the purposes set forth in paragraph (2) of this subsection. The court, in determining the particular sentence to be imposed, shall consider—
+Factors To Be Considered in Imposing a Sentence.—The court shall impose a sentence sufficient, but not greater than necessary, to comply with the purposes set forth in paragraph (2) of this subsection. The court, in determining the particular sentence to be imposed, shall consider—
 
 &emsp;(1) the nature and circumstances of the offense and the history and characteristics of the defendant;
 

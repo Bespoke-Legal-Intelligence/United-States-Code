@@ -30,3 +30,7 @@ Another prior section 1301 of Pub. L. 90–351, title VIII, June 19, 1968, 82 St
 
 For other prior sections 1301 of Pub. L. 90–351 and prior section 3796h of this title, see note set out preceding this section.
 
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
+

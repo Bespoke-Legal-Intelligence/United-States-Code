@@ -18,7 +18,7 @@ For purpose of this subchapter—
 
 &emsp;(8) The term “environment” means (A) the navigable waters, the waters of the contiguous zone, and the ocean waters of which the natural resources are under the exclusive management authority of the United States under the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\], and (B) any other surface water, ground water, drinking water supply, land surface or subsurface strata, or ambient air within the United States or under the jurisdiction of the United States.
 
-&emsp;(9) The term “facility” means (A) any building, structure, installation, equipment, pipe or pipeline (including any pipe into a sewer orpublicly owned treatment works), well, pit, pond, lagoon, impoundment, ditch, landfill, storage container, motor vehicle, rolling stock, or aircraft, or (B) any site or area where a hazardous substance has been deposited, stored, disposed of, or placed, or otherwise come to be located; but does not include any consumer product in consumer use or any vessel.
+&emsp;(9) The term “facility” means (A) any building, structure, installation, equipment, pipe or pipeline (including any pipe into a sewer or publicly owned treatment works), well, pit, pond, lagoon, impoundment, ditch, landfill, storage container, motor vehicle, rolling stock, or aircraft, or (B) any site or area where a hazardous substance has been deposited, stored, disposed of, or placed, or otherwise come to be located; but does not include any consumer product in consumer use or any vessel.
 
 &emsp;(10) The term “federally permitted release” means (A) discharges in compliance with a permit under section 1342 of title 33, (B) discharges resulting from circumstances identified and reviewed and made part of the public record with respect to a permit issued or modified under section 1342 of title 33 and subject to a condition of such permit, (C) continuous or anticipated intermittent discharges from a point source, identified in a permit or permit application under section 1342 of title 33, which are caused by events occurring within the scope of relevant operating or treatment systems, (D) discharges in compliance with a legally enforceable permit under section 1344 of title 33, (E) releases in compliance with a legally enforceable final permit issued pursuant to section 3005(a) through (d) of the Solid Waste Disposal Act \[42 U.S.C. 6925(a)–(d)\] from a hazardous waste treatment, storage, or disposal facility when such permit specifically identifies the hazardous substances and makes such substances subject to a standard of practice, control procedure or bioassay limitation or condition, or other control on the hazardous substances in such releases, (F) any release in compliance with a legally enforceable permit issued under section 1412 of title 33 of <sup>1</sup> section 1413 of title 33, (G) any injection of fluids authorized under Federal underground injection control programs or State programs submitted for Federal approval (and not disapproved by the Administrator of the Environmental Protection Agency) pursuant to part C of the Safe Drinking Water Act \[42 U.S.C. 300h et seq.\], (H) any emission into the air subject to a permit or control regulation under section 111 \[42 U.S.C. 7411\], section 112 \[42 U.S.C. 7412\], title I part C \[42 U.S.C. 7470 et seq.\], title I part D \[42 U.S.C. 7501 et seq.\], or State implementation plans submitted in accordance with section 110 of the Clean Air Act \[42 U.S.C. 7410\] (and not disapproved by the Administrator of the Environmental Protection Agency), including any schedule or waiver granted, promulgated, or approved under these sections, (I) any injection of fluids or other materials authorized under applicable State law (i) for the purpose of stimulating or treating wells for the production of crude oil, natural gas, or water, (ii) for the purpose of secondary, tertiary, or other enhanced recovery of crude oil or natural gas, or (iii) which are brought to the surface in conjunction with the production of crude oil or natural gas and which are reinjected, (J) the introduction of any pollutant into a publicly owned treatment works when such pollutant is specified in and in compliance with applicable pretreatment standards of section 1317 (b) or (c) of title 33 and enforceable requirements in a pretreatment program submitted by a State or municipality for Federal approval under section 1342 of title 33, and (K) any release of source, special nuclear, or byproduct material, as those terms are defined in the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\], in compliance with a legally enforceable license, permit, regulation, or order issued pursuant to the Atomic Energy Act of 1954.
 
@@ -34,7 +34,7 @@ For purpose of this subchapter—
 
 &emsp;(16) The term “natural resources” means land, fish, wildlife, biota, air, water, ground water, drinking water supplies, and other such resources belonging to, managed by, held in trust by, appertaining to, or otherwise controlled by the United States (including the resources of the fishery conservation zone established by the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\]), any State or local government, any foreign government, any Indian tribe, or, if such resources are subject to a trust restriction on alienation, any member of an Indian tribe.
 
-&emsp;(17) The term “offshore facility” means any facility of any kind located in, on, or under, any of the navigable waters of the United States, and any facility of any kind which is subject to the jurisdiction of the UnitedStates and is located in, on, or under any other waters, other than a vessel or a public vessel.
+&emsp;(17) The term “offshore facility” means any facility of any kind located in, on, or under, any of the navigable waters of the United States, and any facility of any kind which is subject to the jurisdiction of the United States and is located in, on, or under any other waters, other than a vessel or a public vessel.
 
 &emsp;(18) The term “onshore facility” means any facility (including, but not limited to, motor vehicles and rolling stock) of any kind located in, on, or under, any land or nonnavigable waters within the United States.
 
@@ -168,7 +168,7 @@ Operational function.—The term “operational function” includes a function 
 
 &emsp;&emsp;(vi)
 
-Security interest.—The term “security interest” includes a right under a mortgage, deed of trust, assignment, judgmentlien, pledge, security agreement, factoring agreement, or lease and any other right accruing to a person to secure the repayment of money, the performance of a duty, or any other obligation by a nonaffiliated person.
+Security interest.—The term “security interest” includes a right under a mortgage, deed of trust, assignment, judgment lien, pledge, security agreement, factoring agreement, or lease and any other right accruing to a person to secure the repayment of money, the performance of a duty, or any other obligation by a nonaffiliated person.
 
 &emsp;(21) The term “person” means an individual, firm, corporation, association, partnership, consortium, joint venture, commercial entity, United States Government, State, municipality, commission, political subdivision of a State, or any interstate body.
 
@@ -200,7 +200,7 @@ Security interest.—The term “security interest” includes a right under a m
 
 &emsp;(35)(A) The term “contractual relationship”, for the purpose of section 9607(b)(3) of this title, includes, but is not limited to, land contracts, deeds or other instruments transferring title or possession, unless the real property on which the facility concerned is located was acquired by the defendant after the disposal or placement of the hazardous substance on, in, or at the facility, and one or more of the circumstances described in clause (i), (ii), or (iii) is also established by the defendant by a preponderance of the evidence:
 
-&emsp;&emsp;(i) At the time the defendant acquired the facility the defendant did not know and had no reason to know that any hazardous substance which is the subject of the release or threatened release was disposed of on, in, or at the facility.
+&emsp;&emsp;(i) At the time the defendant acquired the facility the defendant did not know and had no reason to know that any hazardous substance which is the subject of the release orthreatened release was disposed of on, in, or at the facility.
 
 &emsp;&emsp;(ii) The defendant is a government entity which acquired the facility by escheat, or through any other involuntary transfer or acquisition, or through the exercise of eminent domain authority by purchase or condemnation.
 
@@ -228,7 +228,7 @@ Security interest.—The term “security interest” includes a right under a m
 
 &emsp;(38) The term “incineration vessel” means any vessel which carries hazardous substances for the purpose of incineration of such substances, so long as such substances or residues of such substances are on board.
 
-(Pub. L. 96–510, title I, §101, Dec. 11, 1980, 94 Stat. 2767; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 99–499, title I, §§101, 114(b), 127(a), title V, §517(c)(2), Oct. 17, 1986, 100 Stat. 1615, 1652, 1692, 1774; Pub. L. 100–707, title I, §109(v), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 103–429, §7(e)(1), Oct. 31, 1994, 108 Stat. 4390; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], title II, §2502(b), Sept. 30, 1996, 110 Stat. 3009, 3009–41, 3009–464; Pub. L. 104–287, §6(j)(1), Oct. 11, 1996, 110 Stat. 3399.)
+(Pub. L. 96–510, title I, §101, Dec. 11, 1980, 94 Stat. 2767; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 99–499, title I, §§101, 114(b), 127(a), title V, §517(c)(2), Oct. 17, 1986, 100 Stat. 1615, 1652, 1692, 1774; Pub. L. 100–707, title I, §109(v), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 103–429, §7(e)(1), Oct. 31, 1994, 108 Stat. 4390; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], title II, §2502(b), Sept. 30, 1996, 110 Stat. 3009, 3009–41, 3009–464; Pub. L. 104–287, §6(j)(1), Oct. 11, 1996, 110 Stat. 3399; Pub. L. 106–74, title IV, §427, Oct. 20, 1999, 113 Stat. 1095.)
 
 #### References in Text
 
@@ -236,7 +236,7 @@ This chapter, referred to in pars. (5), (13), (20)(D), (G), and (35)(C), (D), wa
 
 The Safe Drinking Water Act, referred to in pars. (7) and (10), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. Part C of the Safe Drinking Water Act is classified generally to part C (§300h et seq.) of subchapter XII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in pars. (8) and (16), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. The fishery conservation zone established by this Act, referred to in par. (16), was established by section 101 of this Act (16 U.S.C. 1811), which as amended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, relates to United States sovereign rights and fishery management authority over fish within the exclusive economic zone as defined in section 1802 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in pars. (8) and (16), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. The fishery conservation zone established by this Act, referred to in par. (16), was established by section 101 of this Act (16 U.S.C. 1811), which as amended generally by Pub. L. 99–659,title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, relates to United States sovereign rights and fishery management authority over fish within the exclusive economic zone as defined in section 1802 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
 The Clean Air Act, referred to in par. (10), is act July 14, 1955, ch. 360, as amended generally by Pub. L. 88–206, Dec. 17, 1963, 77 Stat. 392, and later by Pub. L. 95–95, Aug. 7, 1977, 91 Stat. 685. The Clean Air Act was originally classified to chapter 15B (§1857 et seq.) of this title. On enactment of Pub. L. 95–95, the Act was reclassified to chapter 85 (§7401 et seq.) of this title. Parts C and D of title I of the Clean Air Act are classified generally to parts C (§7470 et seq.) and D (§7501 et seq.), respectively, of subchapter I of chapter 85 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
@@ -251,6 +251,8 @@ The Disaster Relief and Emergency Assistance Act, referred to in par. (23), is P
 Section 1321(c) of title 33, referred to in par. (31), was amended generally by Pub. L. 101–380, title IV, §4201(a), Aug. 18, 1990, 104 Stat. 523, and no longer contains provisions directing the publishing of a National Contingency Plan. However, such provisions are contained in section 1321(d) of Title 33, Navigation and Navigable Waters.
 
 #### Amendments
+
+1999—Par. (20)(D). Pub. L. 106–74, which directed the amendment of subpar. (D) by inserting “through seizure or otherwise in connection with law enforcement activity” before “involuntary” the first place it appears, could not be executed because the word “involuntary” does not appear in subpar. (D).
 
 1996—Pars. (8), (16). Pub. L. 104–208, §101(a) \[title II, §211(b)\], substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
@@ -346,7 +348,7 @@ Section 1 of Pub. L. 99–499 provided that: “This Act \[enacting subchapter I
 
 #### Short Title
 
-Section 1 of Pub. L. 96–510 provided: “That this Act \[enacting this chapter, section 6911a of this title, andsections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code, amending section 6911 of this title, section 1364 of Title 33, Navigation and Navigable Waters, and section 11901 of Title 49, Transportation, and enacting provisions set out as notes under section 6911 of this title and sections 1 and 4611 of Title 26\] may be cited as the ‘Comprehensive Environmental Response, Compensation, and Liability Act of 1980’.”
+Section 1 of Pub. L. 96–510 provided: “That this Act \[enacting this chapter, section 6911a of this title, and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code, amending section 6911 of this title, section 1364 of Title 33, Navigation and Navigable Waters, and section 11901 of Title 49, Transportation, and enacting provisions set out as notes under section 6911 of this title and sections 1 and 4611 of Title 26\] may be cited as the ‘Comprehensive Environmental Response, Compensation, and Liability Act of 1980’.”
 
 #### Transfer of Functions
 
@@ -355,6 +357,10 @@ For transfer of certain functions from Nuclear Regulatory Commission to Chairman
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
+
+#### Contiguous Zone of United States
+
+For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Definitions
 

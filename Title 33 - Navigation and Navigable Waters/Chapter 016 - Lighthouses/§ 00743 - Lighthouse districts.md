@@ -8,7 +8,7 @@ The ocean, gulf, and lake coasts and the rivers of the United States, Puerto Ric
 
 This section was enacted as part of section 11 of act June 17, 1910, which also enacted section 717 of this title.
 
-The original text provided “that the commissioner of lighthouses, subject to the approval of the Secretary of Commerce and Labor, as soon as practicable” shouldrearrange the ocean, gulf and lake coasts and the rivers of the United States, Puerto Rico and the naval station in Cuba into not exceeding nineteen lighthouse districts.
+The original text provided “that the commissioner of lighthouses, subject to the approval of the Secretary of Commerce and Labor, as soon as practicable” should rearrange the ocean, gulf and lake coasts and the rivers of the United States, Puerto Rico and the naval station in Cuba into not exceeding nineteen lighthouse districts.
 
 #### Prior Provisions
 

@@ -1,6 +1,6 @@
 ### §87h. Appropriations
 
-There are hereby authorized to be appropriated such sums as are necessary for standardization and compliance activities, monitoring inforeign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 1988 through 2000, to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
+There are hereby authorized to be appropriated such sums as are necessary for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 1988 through 2000, to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
 
 (Aug. 11, 1916, ch. 313, pt. B, §19, as added Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 769; amended Pub. L. 94–582, §21, Oct. 21, 1976, 90 Stat. 2886; Pub. L. 95–113, title XVI, §§1602(c), 1604(n), Sept. 29, 1977, 91 Stat. 1025, 1029; Pub. L. 97–35, title I, §155(4), Aug. 13, 1981, 95 Stat. 372; Pub. L. 98–469, §2(3), Oct. 11, 1984, 98 Stat. 1832; Pub. L. 100–518, §2(4), Oct. 24, 1988, 102 Stat. 2586; Pub. L. 103–156, §3, Nov. 24, 1993, 107 Stat. 1525.)
 

@@ -24,7 +24,7 @@ Indian forest land management activities undertaken by the Secretary shall be de
 
 &emsp;(4) the development of Indian forest lands and associated value-added industries by Indians and Indian tribes to promote self-sustaining communities, so that Indians may receive from their Indian forest land not only stumpage value, but also the benefit of all the labor and profit that such Indian forest land is capable of yielding;
 
-&emsp;(5) the retention of Indian forest land in its natural state when an Indian tribe determines that the recreational, cultural, aesthetic, or traditional values of the Indian forest land represents the highest and best use of the land;
+&emsp;(5) the retention of Indian forest land in its natural state when an Indian tribe determines that the recreational, cultural, aesthetic, or traditional values of the Indian forest landrepresents the highest and best use of the land;
 
 &emsp;(6) the management and protection of forest resources to retain the beneficial effects to Indian forest lands of regulating water run-off and minimizing soil erosion; and
 

@@ -18,7 +18,7 @@ The Trade Representative shall seek the establishment by the General Council and
 
 #### (d) Notification of disputes
 
-Promptly after a dispute settlement panel is established to consider the consistency of Federal or State law with any of the UruguayRound Agreements, the Trade Representative shall notify the appropriate congressional committees of—
+Promptly after a dispute settlement panel is established to consider the consistency of Federal or State law with any of the Uruguay Round Agreements, the Trade Representative shall notify the appropriate congressional committees of—
 
 &emsp;(1) the nature of the dispute, including the matters set forth in the request for the establishment of the panel, the legal basis of the complaint, and the specific measures, in particular any State or Federal law cited in the request for establishment of the panel;
 

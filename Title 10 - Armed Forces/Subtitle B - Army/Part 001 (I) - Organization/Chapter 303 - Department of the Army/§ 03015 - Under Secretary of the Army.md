@@ -16,7 +16,7 @@ Another prior section 3015 was renumbered section 3040 of this title and subsequ
 
 #### Order of Succession
 
-For order of succession in event of death, disability, or resignation of Secretary of Defense, see Ex. Ord. No.13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+For order of succession in event of death, disability, or resignation of Secretary of Defense, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 For order of succession in event of death, permanent disability, or resignation of Secretary of the Army, see Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907, set out as a note under section 3345 of Title 5.
 

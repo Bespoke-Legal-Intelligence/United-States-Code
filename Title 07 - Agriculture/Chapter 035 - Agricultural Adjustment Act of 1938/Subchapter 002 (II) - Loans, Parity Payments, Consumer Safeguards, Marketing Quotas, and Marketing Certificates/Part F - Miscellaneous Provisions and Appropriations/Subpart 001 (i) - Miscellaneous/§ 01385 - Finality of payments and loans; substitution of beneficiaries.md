@@ -64,5 +64,5 @@ Functions of Corporations of Department of Agriculture, boards of directors and 
 
 #### Determination of Rate of Loans, Payments, and Purchases Under Price Support Program for 1986 Through 1990 Crops; Notice and Public Participation in Rulemaking Not Required
 
-Section 1017(b) of Pub. L. 99–198, as amended by Pub. L. 101–624, title XI, §1144, Nov. 28, 1990, 104 Stat. 3516, provided that: “The Secretary of Agriculture shall determine the rate of loans, payments, and purchases under a program established under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.) for any of the 1991 through 1995 crops of a commodity without regard to the requirements for notice and public participation in rulemaking prescribed in section 553 of title 5, United States Code, or in any directive of the Secretary.”
+Section 1017(b) of Pub. L. 99–198, as amended by Pub. L. 101–624, title XI, §1144, Nov. 28, 1990, 104 Stat. 3516, provided that: “The Secretary of Agriculture shall determine the rate of loans, payments, and purchases under a program established under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.) for any of the 1991 through 1995 crops of a commodity without regard to the requirements for notice and public participation inrulemaking prescribed in section 553 of title 5, United States Code, or in any directive of the Secretary.”
 

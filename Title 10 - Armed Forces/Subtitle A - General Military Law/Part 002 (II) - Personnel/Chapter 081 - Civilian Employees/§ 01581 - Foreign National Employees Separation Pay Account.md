@@ -12,7 +12,7 @@ Deposits Into Account.—(1) The Secretary of the Treasury shall deposit into th
 
 (c)
 
-Payments From Account.—Amounts in the account shall remain available for expenditure in accordance with the purpose for which obligated until expended.
+Payments From Account.—Amounts in the account shall remain available for expenditurein accordance with the purpose for which obligated until expended.
 
 (d)
 

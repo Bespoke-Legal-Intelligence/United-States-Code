@@ -48,7 +48,7 @@ Any person who is authorized to enforce this chapter may—
 
 #### (1) In general
 
-&emsp;Any vessel (including the vessel's equipment, stores, and cargo) and other item used, and any sanctuary resource taken or retained, in any manner, in connection with or as a result of any violation of this chapter or of any regulation or permit issued under this chapter shall be subject to forfeiture to the United States pursuant to a civil proceeding under this subsection. The proceeds from forfeiture actions under this subsection shall constitute a separate recovery in addition to any amounts recovered as civil penalties under this section or as civil damages under section 1443 of this title. None of those proceeds shall be subject to set-off.
+&emsp;Any vessel (including the vessel's equipment, stores, and cargo) and other item used, and any sanctuary resource taken or retained,in any manner, in connection with or as a result of any violation of this chapter or of any regulation or permit issued under this chapter shall be subject to forfeiture to the United States pursuant to a civil proceeding under this subsection. The proceeds from forfeiture actions under this subsection shall constitute a separate recovery in addition to any amounts recovered as civil penalties under this section or as civil damages under section 1443 of this title. None of those proceeds shall be subject to set-off.
 
 #### (2) Application of the customs laws
 
@@ -124,7 +124,7 @@ In general.—Notwithstanding any other law, the Secretary may use amounts recei
 
 &emsp;“(A) the reasonable and necessary costs incurred by the Secretary in providing temporary storage, care, and maintenance of any sanctuary resource or other property seized under this section pending disposition of any civil proceeding relating to any alleged violation with respect to which such property or sanctuary resource was seized; and
 
-&emsp;“(B) a reward to any person who furnishes information leading to an assessment of a civil penalty, or toa forfeiture of property, for a violation of this chapter or of any regulation or permit issued under this chapter.”
+&emsp;“(B) a reward to any person who furnishes information leading to an assessment of a civil penalty, or to a forfeiture of property, for a violation of this chapter or of any regulation or permit issued under this chapter.”
 
 Subsec. (j). Pub. L. 102–587, §2107(e), added subsec. (j).
 

@@ -26,7 +26,7 @@
 
 #### (B) Eligibility
 
-&emsp;&emsp;A separate facility of a qualified handler shall be considered to be an eligible separate facility if the annual sales of cut flowers and cut greens to retailers and exempt handlers from the facility are $750,000 or more.
+&emsp;&emsp;A separate facility of a qualified handler shall be considered to be an eligible separatefacility if the annual sales of cut flowers and cut greens to retailers and exempt handlers from the facility are $750,000 or more.
 
 #### (C) Annual sales determined
 

@@ -10,7 +10,7 @@ Upon receipt of any claim under this section, the Secretary shall transmit a cop
 
 #### (c) Notification to persons engaged in activities associated with Outer Continental Shelf energy activities; response of persons notified; submittal of evidence
 
-The Secretary of the Interior shall make reasonable efforts to notify all persons known to have engaged in activities associated with Outer Continental Shelf energy activity in the vicinity. Each such person shall promptly notify the Secretary and the Secretary of the Interior as to whether he admits or denies responsibility for the damages claimed. Any such person, including lessees or permittees or their contractors orsubcontractors, may submit evidence at any proceeding conducted with respect to such claim.
+The Secretary of the Interior shall make reasonable efforts to notify all persons known to have engaged in activities associated with Outer Continental Shelf energy activity in the vicinity. Each such person shall promptly notify the Secretary and the Secretary of the Interior as to whether he admits or denies responsibility for the damages claimed. Any such person, including lessees or permittees or their contractors or subcontractors, may submit evidence at any proceeding conducted with respect to such claim.
 
 #### (d) Acceptance of claim by Secretary; time to render decision; review of initial determination
 
@@ -58,7 +58,7 @@ Any proceeding conducted with respect to an initial determination on a claim und
 
 Any claimant or other person who suffers a legal wrong or who is adversely affected or aggrieved by a final determination of the Secretary under subsection (d) of this section, may, no later than 30 days after such determination is made, seek judicial review of the determination in the United States district court for such United States judicial district as may be mutually agreeable to the parties concerned or, if no agreement can be reached, in the United States district court for the United States judicial district in which is located the home port of the claimant.
 
-(Pub. L. 95–372, title IV, §405, Sept. 18, 1978, 92 Stat. 688; Pub. L. 97–212, §5, June 30, 1982, 96Stat. 145; Pub. L. 98–498, title IV, §420(3), (4), Oct. 19, 1984, 98 Stat. 2309, 2310.)
+(Pub. L. 95–372, title IV, §405, Sept. 18, 1978, 92 Stat. 688; Pub. L. 97–212, §5, June 30, 1982, 96 Stat. 145; Pub. L. 98–498, title IV, §420(3), (4), Oct. 19, 1984, 98 Stat. 2309, 2310.)
 
 #### References in Text
 

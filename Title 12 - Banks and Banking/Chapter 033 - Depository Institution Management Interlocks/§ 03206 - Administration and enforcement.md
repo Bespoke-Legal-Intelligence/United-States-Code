@@ -10,7 +10,7 @@ This chapter shall be administered and enforced by—
 
 &emsp;(4) the Director of the Office of Thrift Supervision with respect to a savings association (the deposits of which are insured by the Federal Deposit Insurance Corporation) and savings and loan holding companies,
 
-&emsp;(5) the National Credit Union Administration with respect to credit unions the accounts of which are insured by the National Credit Union Administration, and
+&emsp;(5) the National Credit Union Administration with respect to credit unions the accountsof which are insured by the National Credit Union Administration, and
 
 &emsp;(6) upon referral by the agencies named in the foregoing paragraphs (1) through (5), the Attorney General shall have the authority to enforce compliance by any person with this chapter.
 

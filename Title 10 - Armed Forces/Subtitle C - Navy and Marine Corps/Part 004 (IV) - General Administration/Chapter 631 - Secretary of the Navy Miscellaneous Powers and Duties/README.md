@@ -28,10 +28,13 @@
 | [7229\.](%C2%A7%2007229%20-%20Purchase%20of%20fuel.md) | Purchase of fuel. |
 | \[7230. | Repealed.\] |
 | [7231\.](%C2%A7%2007231%20-%20Accounting%20for%20expenditures%20for%20obtaining%20information.md) | Accounting for expenditures for obtaining information. |
+| [7233\.](%C2%A7%2007233%20-%201%20Auxiliary%20vessels%20extended%20lease%20authority.md) | Auxiliary vessels: extended lease authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title X, §1014(a)(2), Oct. 5, 1999, 113 Stat. 742, added item 7233.
 
 1996—Pub. L. 104–201, div. A, title X, §1073(b)(2)(B), Sept. 23, 1996, 110 Stat. 2657, substituted “Naval Historical Center Fund” for “Office of Naval Records and History gift fund” in item 7222.
 
@@ -95,3 +98,4 @@
 - [&sect; 07229 - Purchase of fuel](%C2%A7%2007229%20-%20Purchase%20of%20fuel.md)
 - [&sect; 07230 - Repealed. Pub. L. 103&#8211;160, div. A, title VIII, &sect;824(a)(4), Nov. 30, 1993, 107 Stat. 1707](%C2%A7%2007230%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93160%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7824%28a%29%284%29%2C%20Nov.%2030%2C%201993%2C%20107%20Stat.%201707.md)
 - [&sect; 07231 - Accounting for expenditures for obtaining information](%C2%A7%2007231%20-%20Accounting%20for%20expenditures%20for%20obtaining%20information.md)
+- [&sect; 07233 - 1 Auxiliary vessels extended lease authority](%C2%A7%2007233%20-%201%20Auxiliary%20vessels%20extended%20lease%20authority.md)

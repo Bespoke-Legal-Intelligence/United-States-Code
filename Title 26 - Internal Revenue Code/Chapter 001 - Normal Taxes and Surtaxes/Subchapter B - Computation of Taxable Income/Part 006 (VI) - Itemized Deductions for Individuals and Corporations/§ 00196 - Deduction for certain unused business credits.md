@@ -6,7 +6,7 @@ If any portion of the qualified business credits determined for any taxable year
 
 #### (b) Taxpayer's dying or ceasing to exist
 
-If a taxpayer dies or ceases to exist before the first taxable year following the last taxable year for which the qualified business credits could, under section 39, have been allowed as a credit,the amount described in subsection (a) (or the proper portion thereof) shall, under regulations prescribed by the Secretary, be allowed to the taxpayer as a deduction for the taxable year in which such death or cessation occurs.
+If a taxpayer dies or ceases to exist before the first taxable year following the last taxable year for which the qualified business credits could, under section 39, have been allowed as a credit, the amount described in subsection (a) (or the proper portion thereof) shall, under regulations prescribed by the Secretary, be allowed to the taxpayer as a deduction for the taxable year in which such death or cessation occurs.
 
 #### (c) Qualified business credits
 
@@ -158,5 +158,5 @@ Certain projects with respect to historic structures.—In the case of any certi
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11813(b)(12) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by section 11813(b)(12) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending afterNov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 

@@ -26,7 +26,7 @@ The purpose of this subchapter is to establish the Adams National Historical Par
 
 #### References in Text
 
-Public Law 92–272, referred to in subsec. (a)(3), is Pub. L. 92–272, Apr. 11, 1972, 86 Stat. 120. Provisions of Pub.L. 92–272 relating to Adams National Historic Site appear at 86 Stat. 121 and are not classified to the Code.
+Public Law 92–272, referred to in subsec. (a)(3), is Pub. L. 92–272, Apr. 11, 1972, 86 Stat. 120. Provisions of Pub. L. 92–272 relating to Adams National Historic Site appear at 86 Stat. 121 and are not classified to the Code.
 
 Public Law 95–625, referred to in subsec. (a)(4), is Pub. L. 95–625, Nov. 10, 1978, 92 Stat. 3467, as amended. Provisions of Pub. L. 95–625 relating to Adams National Historic Site appear at 92 Stat. 3479 and are not classified to the Code.
 

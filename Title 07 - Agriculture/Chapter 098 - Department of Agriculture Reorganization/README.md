@@ -38,7 +38,7 @@
 | (a) | Authorization. |
 | (b) | Confirmation required. |
 | (c) | Succession. |
-| [6919\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006919%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20A%2C%20title%20I%2C%20%C2%A7101%28e%29%20%5Btitle%20III%2C%20%C2%A7362%5D%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93231%2C%202681%E2%80%93305.md) | Repealed. |
+| [6919\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006919%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20A%2C%20%C2%A7101%28e%29%20%5Btitle%20III%2C%20%C2%A7362%5D%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93231%2C%202681%E2%80%93305.md) | Repealed. |
 | [6920\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006920%20-%20Office%20of%20Energy%20Policy%20and%20New%20Uses.md) | Office of Energy Policy and New Uses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

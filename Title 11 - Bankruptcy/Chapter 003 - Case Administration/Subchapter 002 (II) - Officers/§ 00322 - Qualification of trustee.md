@@ -10,7 +10,7 @@
 
 &emsp;(B) the sufficiency of the surety on such bond.
 
-(c) A trustee is not liable personally or on such trustee's bond in favor of the United Statesfor any penalty or forfeiture incurred by the debtor.
+(c) A trustee is not liable personally or on such trustee's bond in favor of the United States for any penalty or forfeiture incurred by the debtor.
 
 (d) A proceeding on a trustee's bond may not be commenced after two years after the date on which such trustee was discharged.
 

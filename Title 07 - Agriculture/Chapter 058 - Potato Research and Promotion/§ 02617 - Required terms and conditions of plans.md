@@ -52,7 +52,7 @@ Providing the board with authority to enter into contracts or agreements, with t
 
 Providing that the board shall maintain books and records and prepare and submit to the Secretary such reports from time to time as may be prescribed for appropriate accounting with respect to the receipt and disbursement of funds entrusted to it and cause a complete audit report to be submitted to the Secretary at the end of each fiscal period.
 
-(Pub. L. 91–670, title III, §308, Jan. 11, 1971, 84 Stat. 2042; Pub. L. 97–244, §2, Aug. 26, 1982, 96 Stat. 310; Pub. L. 98–171, §2(a), Nov. 29, 1983, 97 Stat. 1117; Pub. L. 101–624, title XIX, §1940, Nov. 28, 1990, 104 Stat. 3866.)
+(Pub. L. 91–670, title III, §308, Jan. 11, 1971, 84 Stat. 2042; Pub. L. 97–244, §2, Aug. 26, 1982, 96 Stat. 310; Pub. L. 98–171, §2(a), Nov. 29, 1983, 97Stat. 1117; Pub. L. 101–624, title XIX, §1940, Nov. 28, 1990, 104 Stat. 3866.)
 
 #### Amendments
 

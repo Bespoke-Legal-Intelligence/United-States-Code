@@ -52,7 +52,7 @@
 
 &emsp;(G) for purchase of evidence of any violation of the Controlled Substances Act, the Controlled Substances Import and Export Act, chapter 96 of title 18, or sections 1956 and 1957 of title 18;
 
-&emsp;(H) the payment of State and local property taxes on forfeited real property that accrued between the date of the violation giving riseto the forfeiture and the date of the forfeiture order; and <sup>1</sup>
+&emsp;(H) the payment of State and local property taxes on forfeited real property that accrued between the date of the violation giving rise to the forfeiture and the date of the forfeiture order; and <sup>1</sup>
 
 &emsp;(I) payment of overtime salaries, travel, fuel, training, equipment, and other similar costs of State or local law enforcement officers that are incurred in a joint law enforcement operation with a Federal law enforcement agency participating in the Fund; <sup>2</sup>
 
@@ -124,7 +124,7 @@
 
 &emsp;(A) a judicial forfeiture proceeding when the underlying seizure was made by an officer of a Federal law enforcement agency participating in the Department of Justice Assets Forfeiture Fund or the property was maintained by the United States Marshals Service; or
 
-&emsp;(B) a civil administrative forfeiture proceeding conducted by a Department of Justice law enforcement component or pursuant to the authority of the Secretary of Commerce.
+&emsp;(B) a civil administrative forfeiture proceeding conducted by a Department of Justice lawenforcement component or pursuant to the authority of the Secretary of Commerce.
 
 (d)(1) The Attorney General may accept, hold, administer, and use gifts, devises, and bequests of any property or services for the purpose of aiding or facilitating the work of the Department of Justice.
 
@@ -140,7 +140,7 @@
 
 (5) For purposes of federal <sup>9</sup> income, estate, and gift taxes, property accepted hereunder shall be considered a gift, devise, or bequest to, or for the use of, the United States.
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 615; amended Pub. L. 97–258, §2(g)(1)(B)–(D), Sept. 13, 1982, 96 Stat. 1060; Pub. L. 98–473, title II, §§310, 2303, Oct. 12, 1984, 98 Stat. 2052, 2193; Pub. L. 99–570, title I, §1152(a), Oct. 27, 1986, 100 Stat. 3207–12; Pub. L. 99–646, §27, Nov. 10, 1986, 100 Stat. 3597; Pub. L. 100–202, §101(a) \[title II, §210(a)\], Dec. 22, 1987, 101 Stat. 1329, 1329–18; Pub. L. 100–690, title VI, §6072, Nov. 18, 1988, 102 Stat. 4320; Pub. L. 101–509, title III, §1, Nov. 5, 1990, 104 Stat. 1403; Pub. L. 101–647, title XVI, §1601, title XX, §§2001(a), 2002, 2005, 2006, Nov. 29, 1990, 104 Stat. 4842, 4854, 4855; Pub. L. 102–27, title II, §101,Apr. 10, 1991, 105 Stat. 135; Pub. L. 102–140, title I, §112, Oct. 28, 1991, 105 Stat. 795; Pub. L. 102–393, title VI, §638(f), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–395, title I, §114(b), (c), Oct. 6, 1992, 106 Stat. 1845; Pub. L. 102–550, title XV, §1529, Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–121, title I, §109, Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–317, title I, §110, Aug. 26, 1994, 108 Stat. 1735; Pub. L. 103–322, title IX, §90205(b), title XXXII, §§320301, 320302, 320913(a), Sept. 13, 1994, 108 Stat. 1994, 2114, 2128; Pub. L. 104–66, title I, §1091(h), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–134, title I, §101\[(a)\] \[title I, §122\], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §§108, 114, 116, 117\], Sept. 30, 1996, 110 Stat. 3009, 3009–18, 3009–22, 3009–23; Pub. L. 105–119, title I, §§108, 124, title II, §211(b), Nov. 26, 1997, 111 Stat. 2457, 2471, 2487; Pub. L. 105–272, title VI, §605, Oct. 20, 1998, 112 Stat. 2413.)
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 615; amended Pub. L. 97–258, §2(g)(1)(B)–(D), Sept. 13, 1982, 96 Stat. 1060; Pub. L. 98–473, title II, §§310, 2303, Oct. 12, 1984, 98 Stat. 2052, 2193; Pub. L. 99–570, title I, §1152(a), Oct. 27, 1986, 100 Stat. 3207–12; Pub. L. 99–646, §27, Nov. 10, 1986, 100 Stat. 3597; Pub. L. 100–202, §101(a) \[title II, §210(a)\], Dec. 22, 1987, 101 Stat. 1329, 1329–18; Pub. L. 100–690, title VI, §6072, Nov. 18, 1988, 102 Stat. 4320; Pub. L. 101–509, title III, §1, Nov. 5, 1990, 104 Stat. 1403; Pub. L. 101–647, title XVI, §1601, title XX, §§2001(a), 2002, 2005, 2006, Nov. 29, 1990, 104 Stat. 4842, 4854, 4855; Pub. L. 102–27, title II, §101, Apr. 10, 1991, 105 Stat. 135; Pub. L. 102–140, title I, §112, Oct. 28, 1991, 105 Stat. 795; Pub. L. 102–393, title VI, §638(f), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–395, title I, §114(b), (c), Oct. 6, 1992, 106 Stat. 1845; Pub. L. 102–550, title XV, §1529, Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–121, title I, §109, Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–317, title I, §110, Aug. 26, 1994, 108 Stat. 1735; Pub. L. 103–322, title IX, §90205(b), title XXXII, §§320301, 320302, 320913(a), Sept. 13, 1994, 108 Stat. 1994, 2114, 2128; Pub. L. 104–66, title I, §1091(h), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–134, title I, §101\[(a)\] \[title I, §122\], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §§108, 114, 116, 117\], Sept. 30, 1996, 110 Stat. 3009, 3009–18, 3009–22, 3009–23; Pub. L. 105–119, title I, §§108, 124, title II, §211(b), Nov. 26, 1997, 111 Stat. 2457, 2471, 2487; Pub. L. 105–272, title VI, §605, Oct. 20, 1998, 112 Stat. 2413.)
 
 Historical and Revision Notes<br>1966
 
@@ -194,7 +194,7 @@ Section 9703 of title 31, referred to in subsec. (c)(4)(C), (10), (11), probably
 
 Paragraph (7), referred to in subsec. (c)(6)(C), was struck out by Pub. L. 104–66 and par. (8) was redesignated as par. (7).
 
-The effective date of the Comprehensive Forfeiture Act of 1983, referred to in subsec. (c)(7), probably means the date of enactment of the Comprehensive Forfeiture Act of 1984, chapter III (§§301 to 323) of title II of Pub. L. 98–473, which was approved Oct. 12, 1984.
+The effective date of the Comprehensive Forfeiture Act of 1983, referred to in subsec. (c)(7), probably meansthe date of enactment of the Comprehensive Forfeiture Act of 1984, chapter III (§§301 to 323) of title II of Pub. L. 98–473, which was approved Oct. 12, 1984.
 
 Section 6073 of the Anti-Drug Abuse Act of 1988, referred to in subsec. (c)(8)(B), is classified to section 1509 of Title 21, Food and Drugs.
 
@@ -224,7 +224,7 @@ Pub. L. 104–134 struck out subpar. (E), as added by Pub. L. 103–317, which r
 
 Pub. L. 104–91, as amended by Pub. L. 104–99, which directed amendment of subsec. (c)(9) of this section by adding subpar. (E) relating to excess unobligated balance remaining in the Fund on Sept. 30, 1995, was executed by adding subpar. (E) at the end of subsec. (c)(8), to reflect the redesignation of subsec. (c)(9) as (c)(8) by Pub. L. 104–66. See below.
 
-Subsec. (c)(9). Pub. L. 104–208, §101(a) \[title I, §117\], amended par. (9) generally. Prior to amendment, par.\(9) read as follows: “Following the completion of procedures for the forfeiture of property pursuant to any law enforced or administered by the Department, the Attorney General is authorized, at his discretion, to warrant clear title to any subsequent purchaser or transferee of such forfeited property.”
+Subsec. (c)(9). Pub. L. 104–208, §101(a) \[title I, §117\], amended par. (9) generally. Prior to amendment, par. (9) read as follows: “Following the completion of procedures for the forfeiture of property pursuant to any law enforced or administered by the Department, the Attorney General is authorized, at his discretion, to warrant clear title to any subsequent purchaser or transferee of such forfeited property.”
 
 Subsec. (d). Pub. L. 104–208, §101(a) \[title I, §116\], added subsec. (d).
 
@@ -262,7 +262,7 @@ Subsec. (c)(9)(E). Pub. L. 103–317 added subpar. (E).
 
 Pub. L. 102–395, §114(c), amended generally the first sentence of par. following subpar. (H). Prior to amendment, that sentence read as follows: “Amounts for paying the expenses authorized by subparagraphs (A)(ii), (B), (C), (F), and (G) shall be specified in appropriations acts.”
 
-Subsec. (c)(1)(A). Pub. L. 102–393, §638(f)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the payment, at the discretion of the Attorney General, of any expenses necessary to seize, detain, inventory, safeguard, maintain, advertise, or sell property under seizure, detention, or forfeited pursuant to any law enforced or administered by the Department of Justice, or of any other necessary expenses incident to the seizure, detention, or forfeiture of such property; such payments may include—
+Subsec. (c)(1)(A). Pub. L. 102–393, §638(f)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the payment, at the discretion of the Attorney General, of any expenses necessary to seize, detain, inventory, safeguard, maintain, advertise,or sell property under seizure, detention, or forfeited pursuant to any law enforced or administered by the Department of Justice, or of any other necessary expenses incident to the seizure, detention, or forfeiture of such property; such payments may include—
 
 &emsp;“(i) payments for contract services, the employment of outside contractors to operate and manage properties or provide other specialized services as necessary to dispose of such properties in an effort to maximize the return from such properties, and payments to reimburse any Federal, State, or local agency for any expenditures made to perform the foregoing functions; and
 
@@ -326,7 +326,7 @@ Pub. L. 101–647, §1601, which directed substitution of “the payment of awar
 
 Subsec. (c)(6). Pub. L. 101–647, §2006, struck out “two” after “fiscal year,” in introductory provisions and added subpar. (C).
 
-Subsec. (c)(9). Pub. L. 101–647, §2001(a), inserted “(A)” before “There” and substituted subpars. (B) to (D) for “For each of fiscal years 1991, 1992, and 1993, the Attorney General shall transfer not to exceed $150,000,000 in unobligated amounts available in the Fund to the Special Forfeiture Fund: <i>Provided</i>, That such amounts will be transferred on a quarterly basis: <i>Provided further</i>, That, upon each transfer, not to exceed $15,000,000, or, if determined by the Attorney General to be necessary to meet forfeiture program expenses, an amount not to exceed one-tenth of the previous year's obligations shall be retained in the Fund and remain available for payment of authorized expenses: <i>Provided further</i>, That, any unobligated amounts in excess of $150,000,000 shall remain on deposit in the Fund.”
+Subsec. (c)(9). Pub. L. 101–647, §2001(a), inserted “(A)” before “There” and substituted subpars. (B) to (D) for “For each of fiscal years 1991, 1992, and 1993, the Attorney General shall transfer not to exceed $150,000,000 inunobligated amounts available in the Fund to the Special Forfeiture Fund: <i>Provided</i>, That such amounts will be transferred on a quarterly basis: <i>Provided further</i>, That, upon each transfer, not to exceed $15,000,000, or, if determined by the Attorney General to be necessary to meet forfeiture program expenses, an amount not to exceed one-tenth of the previous year's obligations shall be retained in the Fund and remain available for payment of authorized expenses: <i>Provided further</i>, That, any unobligated amounts in excess of $150,000,000 shall remain on deposit in the Fund.”
 
 Pub. L. 101–509 amended second sentence generally, substituting sentence providing for transfers to Special Forfeiture Fund in fiscal years 1991, 1992, and 1993 for sentence that read as follows: “At the end of each of fiscal years 1990, 1991, and 1992, unobligated amounts not to exceed $150,000,000 remaining in the Fund shall be deposited in the Special Forfeiture Fund, except that an amount not to exceed $15,000,000 or, if determined necessary by the Attorney General to meet asset specific expenses, an amount equal to one-twelfth of the previous year's expenditures may be carried forward and remain available for appropriation in the next fiscal year.”
 
@@ -363,6 +363,32 @@ Subsecs. (a), (b). Pub. L. 97–258, §2(g)(1)(C), (D), designated existing prov
 #### Effective Date of 1994 Amendment
 
 Section 320913(b) of Pub. L. 103–322 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to all claims pending at the time of or commenced subsequent to the date of enactment of this Act \[Sept. 13, 1994\].”
+
+#### Acquisition of Equipment or Interim Services With Counterterrorism Funds
+
+Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §109\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that: “Sections 115 \[set out below\] and 127 \[42 U.S.C. 1997e note\] of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999 (as contained in section 101(b) of division A of Public Law 105–277) shall apply to fiscal year 2000 and thereafter.”
+
+Pub. L. 105–277, div. A, §101(b) \[title I, §115\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, provided that:
+
+“(a)(1) Notwithstanding any other provision of law, for fiscal year 1999, the Attorney General may obligate any funds appropriated for or reimbursed to the Counterterrorism programs, projects or activities of the Department of Justice to purchase or lease equipment or any related items, or to acquire interim services, without regard to any otherwise applicable Federal acquisition rule, if the Attorney General determines that—
+
+&emsp;“(A) there is an exigent need for the equipment, related items, or services in order to support an ongoing counterterrorism, national security, or computer-crime investigation or prosecution;
+
+&emsp;“(B) the equipment, related items, or services required are not available within the Department of Justice; and
+
+&emsp;“(C) adherence to that Federal acquisition rule would—
+
+&emsp;&emsp;“(i) delay the timely acquisition of the equipment, related items, or services; and
+
+&emsp;&emsp;“(ii) adversely affect an ongoing counterterrorism, national security, or computer-crime investigation or prosecution.
+
+“(2) In this subsection, the term ‘Federal acquisition rule’ means any provision of title II or IX of the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 481 et seq., 541 et seq.\], the Office of Federal Procurement Policy Act \[41 U.S.C. 401 et seq.\], the Small Business Act \[15 U.S.C. 631 et seq.\], the Federal Acquisition Regulation, or any other provision of law or regulation that establishes policies, procedures, requirements, conditions, or restrictions for procurements by the head of a department or agency or the Federal Government.
+
+“(b) The Attorney General shall immediately notify the Committees on Appropriations of the House of Representatives and the Senate in writing of each expenditure under subsection (a), which notification shall include sufficient information to explain the circumstances necessitating the exercise of the authority under that subsection.”
+
+#### Grant Programs; “Tribe”, “Indian Tribe”, or “Tribal” Defined
+
+Pub. L. 105–277, div. A, §101(b) \[title I, §113\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67, as amended by Pub. L. 106–31, title III, §3028, May 21, 1999, 113 Stat. 102; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §116\], Nov. 29, 1999, 113 Stat. 1535, 1501A–21, provided that: “Notwithstanding any other provision of law for fiscal year 2000 and hereafter, with respect to any grant program for which amounts are made available under this title, the terms‘tribe’, ‘Indian tribe’ or ‘tribal’ mean of or relating to an Indian tribe as that term is defined in section 4(e) of the Indian Self Determination and Education Assistance Act (Public Law 93–638, as amended; 25 U.S.C. 450b(e) (1998)).”
 
 #### Counterterrorism Fund
 

@@ -25,6 +25,9 @@
 | (c) | Authority to require additional bonds. |
 | (d) | Coverage for taxes in performance bond. |
 | [270b.](%C2%A7%2000270b%20-%20Rights%20of%20persons%20furnishing%20labor%20or%20material.md) | Rights of persons furnishing labor or material. |
+| (a) | Right to sue on payment bond. |
+| (b) | Civil action; jurisdiction; statute of limitations; costs and expenses. |
+| (c) | Nonwaiver of rights. |
 | [270c.](%C2%A7%2000270c%20-%20Right%20of%20person%20furnishing%20labor%20or%20material%20to%20copy%20of%20bond.md) | Right of person furnishing labor or material to copy of bond. |
 | [270d.](%C2%A7%2000270d%20-%20%E2%80%9CPerson%E2%80%9D%20defined.md) | “Person” defined. |
 | 270d–1. | Waiver of sections 270a to 270d with respect to small contracts. |

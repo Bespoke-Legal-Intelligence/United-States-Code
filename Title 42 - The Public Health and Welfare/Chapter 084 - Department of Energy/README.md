@@ -22,6 +22,9 @@
 | :--- | ---: |
 | [7131\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007131%20-%20Establishment.md) | Establishment. |
 | [7132\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007132%20-%20Principal%20officers.md) | Principal officers. |
+| (a) | Deputy Secretary. |
+| (b) | Under Secretary; General Counsel. |
+| (c) | Under Secretary for Nuclear Security. |
 | [7133\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007133%20-%20Assistant%20Secretaries%3B%20appointment%20and%20confirmation%3B%20identification%20of%20responsibilities.md) | Assistant Secretaries; appointment and confirmation; identification of responsibilities. |
 | [7134\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007134%20-%20Federal%20Energy%20Regulatory%20Commission%3B%20compensation%20of%20Chairman%20and%20members.md) | Federal Energy Regulatory Commission; compensation of Chairman and members. |
 | [7135\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007135%20-%20Energy%20Information%20Administration.md) | Energy Information Administration. |
@@ -55,10 +58,21 @@
 | (a) | Recognition and status. |
 | (b) | Volunteers. |
 | (c) | Authority. |
-| [7143\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007143%20-%20Office%20of%20Fissile%20Materials%20Disposition.md) | Office of Fissile Materials Disposition. |
+| [7143\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007143%20-%20Repealed.%20Pub.%20L.%20106%E2%80%9365%2C%20div.%20C%2C%20title%20XXXII%2C%20%C2%A73294%28d%29%281%29%2C%20Oct.%205%2C%201999%2C%20113%20Stat.%20970.md) | Repealed. |
+| [7144\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007144%20-%20Establishment%20of%20policy%20for%20National%20Nuclear%20Security%20Administration.md) | Establishment of policy for National Nuclear Security Administration. |
+| (a) | Responsibility for establishing policy. |
+| (b) | Review of programs and activities. |
+| (c) | Staff. |
+| [7144a.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007144a%20-%20Establishment%20of%20security%2C%20counterintelligence%2C%20and%20intelligence%20policies.md) | Establishment of security, counterintelligence, and intelligence policies. |
+| [7144b.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007144b%20-%20Office%20of%20Counterintelligence.md) | Office of Counterintelligence. |
 | (a) | Establishment. |
-| (b) | Designation of head of Office. |
-| (c) | Responsibilities of head of Office. |
+| (b) | Director. |
+| (c) | Duties. |
+| (d) | Annual reports. |
+| [7144c.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007144c%20-%20Office%20of%20Intelligence.md) | Office of Intelligence. |
+| (a) | Establishment. |
+| (b) | Director. |
+| (c) | Duties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -195,6 +209,21 @@
 | (c) | Filling vacancy from outside agency. |
 | (d) | Job placement and counseling services. |
 | [7238\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20B%20-%20Personnel%20Provisions/%C2%A7%2007238%20-%20Temporary%20appointments%20for%20scientific%20and%20technical%20experts%20in%20Department%20of%20Energy%20research%20and%20development%20programs.md) | Temporary appointments for scientific and technical experts in Department of Energy research and development programs. |
+| [7239\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20B%20-%20Personnel%20Provisions/%C2%A7%2007239%20-%20Whistleblower%20protection%20program.md) | Whistleblower protection program. |
+| (a) | Program required. |
+| (b) | Covered individuals. |
+| (c) | Protected disclosures. |
+| (d) | Persons and entities to which disclosures may be made. |
+| (e) | Official capacity of persons to whom information is disclosed. |
+| (f) | Assistance and guidance. |
+| (g) | Regulations. |
+| (h) | Notification to covered individuals. |
+| (i) | Complaint by covered individuals. |
+| (j) | Investigation by Office of Hearings and Appeals. |
+| (k) | Remedial action. |
+| (<i>l</i>) | Relationship to other laws. |
+| (m) | Annual report. |
+| (n) | Implementation report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -274,11 +303,7 @@
 | [7270a.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007270a%20-%20Guards%20for%20Strategic%20Petroleum%20Reserve%20facilities.md) | Guards for Strategic Petroleum Reserve facilities. |
 | [7270b.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007270b%20-%20Trespass%20on%20Strategic%20Petroleum%20Reserve%20facilities.md) | Trespass on Strategic Petroleum Reserve facilities. |
 | [7271\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007271%20-%20Common%20defense%20and%20security%20program%20requests%20of%20single%20authorization%20of%20appropriations.md) | Common defense and security program requests of single authorization of appropriations. |
-| [7271a.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007271a%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73152%28h%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%202042.md) | Repealed. |
-| [7271b.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007271b%20-%20Requirement%20for%20annual%20five-year%20budget%20for%20national%20security%20programs%20of%20Department%20of%20Energy.md) | Requirement for annual five-year budget for national security programs of Department of Energy. |
-| (a) | Requirement. |
-| (b) | Submittal. |
-| [7271c.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007271c%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73152%28b%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%202042.md) | Repealed. |
+| 7271a to 7271c. Repealed. |  |
 | [7272\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007272%20-%20Restriction%20on%20licensing%20requirement%20for%20certain%20defense%20activities%20and%20facilities.md) | Restriction on licensing requirement for certain defense activities and facilities. |
 | [7273\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007273%20-%20Restriction%20on%20use%20of%20funds%20to%20pay%20penalties%20under%20Clean%20Air%20Act.md) | Restriction on use of funds to pay penalties under Clean Air Act. |
 | [7273a.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007273a%20-%20Restriction%20on%20use%20of%20funds%20to%20pay%20penalties%20under%20environmental%20laws.md) | Restriction on use of funds to pay penalties under environmental laws. |
@@ -362,7 +387,8 @@
 | (a) | Reports by heads of laboratories and plants. |
 | (b) | Transmittal by Assistant Secretary. |
 | (c) | Omitted. |
-| (d) | Definitions. |
+| (d) | Inclusion of reports in annual stockpile certification. |
+| (e) | Definitions. |
 | [7274p.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274p%20-%20Advice%20to%20President%20and%20Congress%20regarding%20safety%2C%20security%2C%20and%20reliability%20of%20United%20States%20nuclear%20weapons%20stockpile.md) | Advice to President and Congress regarding safety, security, and reliability of United States nuclear weapons stockpile. |
 | (a) | Findings. |
 | (b) | Policy. |
@@ -531,6 +557,64 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER XV—MATTERS RELATING TO SAFEGUARDS, SECURITY, AND COUNTERINTELLIGENCE
+
+|  |  |
+| :--- | ---: |
+| [7383\.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383%20-%20Commission%20on%20Safeguards%2C%20Security%2C%20and%20Counterintelligence%20at%20Department%20of%20Energy%20Facilities.md) | Commission on Safeguards, Security, and Counterintelligence at Department of Energy Facilities. |
+| (a) | Establishment. |
+| (b) | Membership and organization. |
+| (c) | Duties. |
+| (d) | Reports. |
+| (e) | Personnel matters. |
+| (f) | Applicability of FACA. |
+| (g) | Funding. |
+| [7383a.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383a%20-%20Background%20investigations%20of%20certain%20personnel%20at%20Department%20of%20Energy%20facilities.md) | Background investigations of certain personnel at Department of Energy facilities. |
+| (a) | In general. |
+| (b) | Compliance. |
+| [7383b.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383b%20-%20Protection%20of%20classified%20information%20during%20laboratory-to-laboratory%20exchanges.md) | Protection of classified information during laboratory-to-laboratory exchanges. |
+| (a) | Provision of training. |
+| (b) | Countering of espionage and intelligence-gathering abroad. |
+| [7383c.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383c%20-%20Restrictions%20on%20access%20to%20national%20laboratories%20by%20foreign%20visitors%20from%20sensitive%20countries.md) | Restrictions on access to national laboratories by foreign visitors from sensitive countries. |
+| (a) | Background review required. |
+| (b) | Moratorium pending certification. |
+| (c) | Waiver of moratorium. |
+| (d) | Exception to moratorium for certain individuals. |
+| (e) | Exception to moratorium for certain programs. |
+| (f) | Sense of Congress regarding background reviews. |
+| (g) | Definitions. |
+| [7383d.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383d%20-%20Notice%20to%20congressional%20committees%20of%20certain%20security%20and%20counterintelligence%20failures%20within%20nuclear%20energy%20defense%20programs.md) | Notice to congressional committees of certain security and counterintelligence failures within nuclear energy defense programs. |
+| (a) | Required notification. |
+| (b) | Significant nuclear defense intelligence losses. |
+| (c) | Manner of notification. |
+| (d) | Procedures. |
+| (e) | Statutory construction. |
+| [7383e.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383e%20-%20Annual%20report%20by%20the%20President%20on%20espionage%20by%20the%20People%27s%20Republic%20of%20China.md) | Annual report by the President on espionage by the People's Republic of China. |
+| (a) | Annual report required. |
+| (b) | Initial report. |
+| [7383f.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383f%20-%20Report%20on%20counterintelligence%20and%20security%20practices%20at%20national%20laboratories.md) | Report on counterintelligence and security practices at national laboratories. |
+| (a) | In general. |
+| (b) | Content of report. |
+| [7383g.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383g%20-%20Report%20on%20security%20vulnerabilities%20of%20national%20laboratory%20computers.md) | Report on security vulnerabilities of national laboratory computers. |
+| (a) | Report required. |
+| (b) | Preparation of report. |
+| (c) | Submission of report to Secretary of Energy and to FBI Director. |
+| (d) | Forwarding to congressional committees. |
+| (e) | First report. |
+| [7383h.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383h%20-%20Counterintelligence%20polygraph%20program.md) | Counterintelligence polygraph program. |
+| (a) | Program required. |
+| (b) | Covered persons. |
+| (c) | High-risk programs. |
+| (d) | Initial testing and consent. |
+| (e) | Additional testing. |
+| (f) | Counterintelligence polygraph examination. |
+| (g) | Regulations. |
+| (h) | Plan for extension of program. |
+| [7383i.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383i%20-%20Definitions%20of%20national%20laboratory%20and%20nuclear%20weapons%20production%20facility.md) | Definitions of national laboratory and nuclear weapons production facility. |
+| [7383j.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383j%20-%20Definition%20of%20Restricted%20Data.md) | Definition of Restricted Data. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 5905 of this title; title 15 section 3393; title 16 section 824a–1; title 30 section 1303; title 43 section 1331, 1866.
@@ -555,3 +639,4 @@ This chapter is referred to in section 5905 of this title; title 15 section 3393
 - [Subchapter 012 (XII) - Renewable Energy Initiatives](Subchapter%20012%20%28XII%29%20-%20Renewable%20Energy%20Initiatives/README.md)
 - [Subchapter 013 (XIII) - Department of Energy Science Education Programs](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/README.md)
 - [Subchapter 014 (XIV) - Albert Einstein Distinguished Educator Fellowships](Subchapter%20014%20%28XIV%29%20-%20Albert%20Einstein%20Distinguished%20Educator%20Fellowships/README.md)
+- [Subchapter 015 (XV) - Matters Relating to Safeguards, Security, and Counterintelligence](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/README.md)

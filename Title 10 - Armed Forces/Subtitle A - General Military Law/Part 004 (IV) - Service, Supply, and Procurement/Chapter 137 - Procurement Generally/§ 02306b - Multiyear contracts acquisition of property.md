@@ -58,7 +58,7 @@ Cancellation or Termination for Insufficient Funding.—In the event funds are n
 
 (g)
 
-Contract Cancellation Ceilings Exceeding $100,000,000.—Before any contract described in subsection (a) that contains a clause setting forth a cancellation ceiling in excess of $100,000,000 may be awarded, the head of the agency concerned shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives, and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
+Contract Cancellation Ceilings Exceeding $100,000,000.—Before any contract described in subsection (a) that contains a clause setting forth a cancellation ceiling in excess of $100,000,000 may be awarded, the head of the agency concerned shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives, and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
 
 (h)
 
@@ -78,7 +78,7 @@ Defense Acquisitions Specifically Authorized by Law.—(1) A multiyear contract 
 
 (2) If for any fiscal year a multiyear contract to be entered into under this section is authorized by law for a particular procurement program and that authorization is subject to certain conditions established by law (including a condition as to cost savings to be achieved under the multiyear contract in comparison to specified other contracts) and if it appears (after negotiations with contractors) that such savings cannot be achieved, but that substantial savings could nevertheless be achieved through the use of a multiyear contract rather than specified other contracts, the President may submit to Congress a request for relief from the specified cost savings that must be achieved through multiyear contracting for that program. Any such request by the President shall include details about the request for a multiyear contract, including details about the negotiated contract terms and conditions.
 
-(3) In the case of the Department of Defense, a multiyear contract in an amount equal to or greater than $500,000,000 may not be entered into for any fiscal year under this section unless the contract is specifically authorized by law in an Act other than an appropriations Act.
+(3) In the case of the Department of Defense, a multiyear contract in an amount equal to or greater than $500,000,000 may not be entered into for any fiscal year under this section unless thecontract is specifically authorized by law in an Act other than an appropriations Act.
 
 (j)
 
@@ -106,21 +106,59 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 (3) The head of an agency may not initiate a multiyear procurement contract for any system (or component thereof) if the value of the multiyear contract would exceed $500,000,000 unless authority for the contract is specifically provided in an appropriations Act.
 
-(4) The head of an agency may not terminate a multiyear procurement contract until 10 days after the date on which notice of the proposed termination is provided to the congressional defense committees.
+(4) The head of an agency may not enter into a multiyear contract (or extend an existing multiyear contract) until the Secretary of Defense submits to the congressional defense committees a report with respect to that contract (or contract extension) that provides the following information, shown for each year in the current future-years defense program and in the aggregate over the period of the current future-years defense program:
 
-(5) The execution of multiyear contracting authority shall require the use of a present value analysis to determine lowest cost compared to an annual procurement.
+&emsp;(A) The amount of total obligational authority under the contract (or contract extension) and the percentage that such amount represents of—
 
-(6) This subsection does not apply to the National Aeronautics and Space Administration or to the Coast Guard.
+&emsp;&emsp;(i) the applicable procurement account; and
 
-(7) In this subsection, the term “congressional defense committees” means the following:
+&emsp;&emsp;(ii) the agency procurement total.
+
+&emsp;(B) The amount of total obligational authority under all multiyear procurements of the agency concerned (determined without regard to the amount of the multiyear contract (or contract extension)) under multiyear contracts in effect immediately before the contract (or contract extension) is entered into and the percentage that such amount represents of—
+
+&emsp;&emsp;(i) the applicable procurement account; and
+
+&emsp;&emsp;(ii) the agency procurement total.
+
+&emsp;(C) The amount equal to the sum of the amounts under subparagraphs (A) and (B), and the percentage that such amount represents of—
+
+&emsp;&emsp;(i) the applicable procurement account; and
+
+&emsp;&emsp;(ii) the agency procurement total.
+
+&emsp;(D) The amount of total obligational authority under all Department of Defense multiyear procurements (determined without regard to the amount of the multiyear contract (or contract extension)), including any multiyear contract (or contract extension) that has been authorized by the Congress but not yet entered into, and the percentage that such amount represents of the procurement accounts of the Department of Defense treated in the aggregate.
+
+(5) The head of an agency may not terminate a multiyear procurement contract until 10 days after the date on which notice of the proposed termination is provided to the congressional defense committees.
+
+(6) The execution of multiyear contracting authority shall require the use of a present value analysis to determine lowest cost compared to an annual procurement.
+
+(7) This subsection does not apply to the National Aeronautics and Space Administration or to the Coast Guard.
+
+(8) In this subsection, the term “congressional defense committees” means the following:
 
 &emsp;(A) The Committee on Armed Services of the Senate and the Subcommittee on Defense of the Committee on Appropriations of the Senate.
 
-&emsp;(B) The Committee on National Security of the House of Representatives and the Subcommittee on National Security of the Committee on Appropriations of the House of Representatives.
+&emsp;(B) The Committee on Armed Services of the House of Representatives and the Subcommittee on National Security of the Committee on Appropriations of the House of Representatives.
 
-(Added Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; amended Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, §806(a)(1), (b)(1), (c), title X, §1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903.)
+(9) In this subsection:
+
+&emsp;(A) The term “applicable procurement account” means, with respect to a multiyear procurement contract (or contract extension), the appropriation account from which payments to execute the contract will be made.
+
+&emsp;(B) The term “agency procurement total” means the procurement accounts of the agency entering into a multiyear procurement contract (or contract extension) treated in the aggregate.
+
+(Added Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; amended Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, §806(a)(1), (b)(1), (c), title X, §1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, §809, title X, §1067(1), Oct. 5, 1999, 113 Stat. 705, 774.)
 
 #### Amendments
+
+1999—Subsec. (g). Pub. L. 106–65, §1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+
+Subsec. (<i>l</i>)(4) to (7). Pub. L. 106–65, §809(1), (2), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively. Former par. (7) redesignated (8).
+
+Subsec. (<i>l</i>)(8). Pub. L. 106–65, §809(1), redesignated par. (7) as (8).
+
+Subsec. (<i>l</i>)(8)(B). Pub. L. 106–65, §1067(1), substituted “Committee on Armed Services” for “Committee on National Security”.
+
+Subsec. (<i>l</i>)(9). Pub. L. 106–65, §809(3), added par. (9).
 
 1997—Pub. L. 105–85, §1073(a)(48)(A), inserted “: acquisition of property” in section catchline.
 
@@ -141,10 +179,6 @@ Subsec. (<i>l</i>). Pub. L. 105–85, §806(b)(1), added subsec. (<i>l</i>).
 Subsecs. (k), (<i>l</i>). Pub. L. 104–106, §5601(b), redesignated subsec. (<i>l</i>) as (k) and struck out former subsec. (k) which read as follows: “
 
 Inapplicability to Automatic Data Processing Contracts.—This section does not apply to contracts for the purchase of property to which section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759) applies.”
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1997 Amendment
 
@@ -183,6 +217,8 @@ Pub. L. 105–56, title VIII, §8008, Oct. 8, 1997, 111 Stat. 1221, provided tha
 &emsp;“(3) the Secretary of Defense makes such request in writing to the congressional defense committees.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 106–79, title VIII, §8008, Oct. 25, 1999, 113 Stat. 1232.
 
 Pub. L. 105–262, title VIII, §8008, Oct. 17, 1998, 112 Stat. 2298.
 

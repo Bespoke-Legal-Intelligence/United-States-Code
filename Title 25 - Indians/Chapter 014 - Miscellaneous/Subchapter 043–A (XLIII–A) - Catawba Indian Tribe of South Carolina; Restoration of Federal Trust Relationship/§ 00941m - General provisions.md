@@ -18,7 +18,7 @@ Notwithstanding the provisions of any other law or regulation, the Tribe shall b
 
 #### (e) General applicability of State law
 
-Consistent with the provisions of section 941b(a)(2) of this title, the provisions of South Carolina Code Annotated, section 27–16–40, and section 19.1 of the Settlement Agreement are approved, ratified, and confirmed by the United States, and shall be complied with in the same manner and to the same extent as if they had been enacted into Federal law.
+Consistent with the provisions of section 941b(a)(2) of this title, the provisions of SouthCarolina Code Annotated, section 27–16–40, and section 19.1 of the Settlement Agreement are approved, ratified, and confirmed by the United States, and shall be complied with in the same manner and to the same extent as if they had been enacted into Federal law.
 
 #### (f) Subsequent amendments to Settlement Agreement or State Act
 

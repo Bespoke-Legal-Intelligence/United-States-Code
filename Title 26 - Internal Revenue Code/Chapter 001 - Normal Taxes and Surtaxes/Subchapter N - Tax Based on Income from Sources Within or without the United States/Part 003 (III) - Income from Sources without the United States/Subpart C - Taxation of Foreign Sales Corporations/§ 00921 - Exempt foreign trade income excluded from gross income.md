@@ -40,7 +40,7 @@ A prior section 921, acts Aug. 16, 1954, ch. 736, 68A Stat. 290; Oct. 4, 1976, P
 
 #### Effective Date
 
-Section 805(a) of title VIII of div. A of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1876(i), (<i>o</i>), (p)(4), Oct. 22, 1986, 100 Stat. 2095, 2900–2902, provided that:
+Section 805(a) of title VIII of div. A of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1876(i),\(<i>o</i>), (p)(4), Oct. 22, 1986, 100 Stat. 2095, 2900–2902, provided that:
 
 “(1)
 

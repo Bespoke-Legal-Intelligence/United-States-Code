@@ -78,11 +78,11 @@ Effective July 1, 1974, no defense article shall be furnished to any country on 
 
 &emsp;&emsp;(I) extraordinary circumstances exist which necessitate a continuation of such assistance or education and training transaction, and, if so, a description of such circumstances and the extent to which such assistance or education and training transaction should be continued (subject to such conditions as Congress may impose under this section), and
 
-&emsp;&emsp;(II) on all the facts it is in the national interest of the United States to continue such assistance or education and training transaction; and
+&emsp;&emsp;(II) on all the facts it is in the national interest of the United States to continue suchassistance or education and training transaction; and
 
 &emsp;(iv) such other information as such committee may request.
 
-(B) In the event a statement with respect to an assistance or training transaction is requested pursuant to subparagraph (A) of this paragraph but is not transmitted in accordancetherewith within 60 days after receipt of such request, such assistance or training transaction shall be suspended unless and until such statement is transmitted.
+(B) In the event a statement with respect to an assistance or training transaction is requested pursuant to subparagraph (A) of this paragraph but is not transmitted in accordance therewith within 60 days after receipt of such request, such assistance or training transaction shall be suspended unless and until such statement is transmitted.
 
 (C)(i) In the event a statement with respect to an assistance or training transaction is transmitted under subparagraph (A) of this paragraph, the Congress may at any time thereafter adopt a joint resolution terminating or restricting such assistance or training transaction.
 
@@ -152,9 +152,7 @@ Section 203(b) of Pub. L. 94–329 provided that the amendment made by that sect
 
 #### Delegation of Functions
 
-Functions of President under this section, with exception of those under subsec. (b) respecting countries that do not agree to conditions set forth in subsec. (b), those respecting determinations under subsec. (d)(2)(A), (3), and certain other specified exceptions, delegated to Secretary of Defense by sections 1–301(a) and 1–701(d), (e)(2) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56675, 56677, as amended, set out as a note under section 2381 of this title.
-
-Functions of President under subsec. (a) relating to other provisions which may be required by President, subsec. (a)(1) and (4) relating to consent, subsec. (b) to the extent it pertains to countries agreeing to conditions set forth therein, and subsecs. (d) to (g) delegated to Secretary of State, with authorization to find whether proposed transfer of defense article or related training or related defense service would strengthen United States security and promote world peace, by sections 1–201(a)(4)–(6) and 1–701(e)(1) of Ex. Ord. No. 12163.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

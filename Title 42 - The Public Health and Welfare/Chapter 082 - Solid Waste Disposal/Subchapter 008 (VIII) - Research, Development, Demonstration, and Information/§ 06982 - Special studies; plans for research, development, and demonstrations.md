@@ -16,7 +16,7 @@ For purposes of determining priorities for research on recovery of materials and
 
 &emsp;(2) the potential for research, development, and demonstration without Federal action, including the degree of restraint on such potential posed by the risks involved, and
 
-&emsp;(3) the magnitude of effort and period of time necessary to develop the technology to the point where Federal assistance can be ended.
+&emsp;(3) the magnitude of effort and period of time necessary to develop the technology tothe point where Federal assistance can be ended.
 
 #### (d) Small-scale and low technology study
 
@@ -82,7 +82,7 @@ The Administrator shall conduct research and report on the economics of, and imp
 
 &emsp;(E) the need for further research, development, and demonstration in the area of resource conservation.
 
-(2) The study required in paragraph (1)(D) may include pilot scale projects, and shall considerand evaluate alternative strategies with respect to—
+(2) The study required in paragraph (1)(D) may include pilot scale projects, and shall consider and evaluate alternative strategies with respect to—
 
 &emsp;(A) the product categories on which such charges would be imposed;
 
@@ -208,7 +208,7 @@ The Administrator shall compile, and not later than October 1, 1986, submit to t
 
 #### (s) Extending landfill life and reusing landfilled areas
 
-The Administrator shall conduct detailed, comprehensive studies of methods to extend the useful life of sanitary landfills and to better use sites in which filled or closed landfills are located. Such studies shall address—
+The Administrator shall conduct detailed, comprehensive studies of methods to extend the useful life of sanitary landfills and to better usesites in which filled or closed landfills are located. Such studies shall address—
 
 &emsp;(1) methods to reduce the volume of materials before placement in landfills;
 

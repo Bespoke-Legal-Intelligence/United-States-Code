@@ -32,7 +32,7 @@ Pub. L. 105–119, title I, §115(a)(8)(C), Nov. 26, 1997, 111 Stat. 2466, provi
 
 “(i) The Secretary of Defense shall specify categories of conduct punishable under the Uniform Code of Military Justice which encompass a range of conduct comparable to that described in section 170101(a)(3)(A) and (B) of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 14071(a)(3)(A) and (B)), and such other conduct as the Secretary deems appropriate for inclusion for purposes of this subparagraph.
 
-“(ii) In relation to persons sentenced by a court martial for conduct in the categories specified under clause (i), the Secretary shall prescribe procedures and implement a system to—
+“(ii) In relation to persons sentenced by a court martial for conduct in the categories specified under clause\(i), the Secretary shall prescribe procedures and implement a system to—
 
 &emsp;“(I) provide notice concerning the release from confinement or sentencing of such persons;
 

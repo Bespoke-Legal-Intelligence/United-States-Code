@@ -1,0 +1,100 @@
+### §1828a. Prudential safeguards
+
+#### (a) Comptroller of the Currency
+
+#### (1) In general
+
+&emsp;The Comptroller of the Currency may, by regulation or order, impose restrictions or requirements on relationships or transactions between a national bank and a subsidiary of the national bank that the Comptroller finds are—
+
+&emsp;&emsp;(A) consistent with the purposes of this Act, title LXII of the Revised Statutes of the United States, and other Federal law applicable to national banks; and
+
+&emsp;&emsp;(B) appropriate to avoid any significant risk to the safety and soundness of insured depository institutions or any Federal deposit insurance fund or other adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interests, or unsound banking practices.
+
+#### (2) Review
+
+&emsp;The Comptroller of the Currency shall regularly—
+
+&emsp;&emsp;(A) review all restrictions or requirements established pursuant to paragraph (1) to determine whether there is a continuing need for any such restriction or requirement to carry out the purposes of the Act, including the avoidance of any adverse effect referred to in paragraph (1)(B); and
+
+&emsp;&emsp;(B) modify or eliminate any such restriction or requirement the Comptroller finds is no longer required for such purposes.
+
+#### (b) Board of Governors of the Federal Reserve System
+
+#### (1) In general
+
+&emsp;The Board of Governors of the Federal Reserve System may, by regulation or order, impose restrictions or requirements on relationships or transactions—
+
+&emsp;&emsp;(A) between a depository institution subsidiary of a bank holding company and any affiliate of such depository institution (other than a subsidiary of such institution); or
+
+&emsp;&emsp;(B) between a State member bank and a subsidiary of such bank;
+
+> &emsp;if the Board makes a finding described in paragraph (2) with respect to such restriction or requirement.
+
+#### (2) Finding
+
+&emsp;The Board of Governors of the Federal Reserve System may exercise authority under paragraph (1) if the Board finds that the exercise of such authority is—
+
+&emsp;&emsp;(A) consistent with the purposes of this Act, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], the Federal Reserve Act \[12 U.S.C. 221 et seq.\], and other Federal law applicable to depository institution subsidiaries of bank holding companies or State member banks, as the case may be; and
+
+&emsp;&emsp;(B) appropriate to prevent an evasion of any provision of law referred to in subparagraph (A) or to avoid any significant risk to the safety and soundness of depository institutions or any Federal deposit insurance fund or other adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interests, or unsound banking practices.
+
+#### (3) Review
+
+&emsp;The Board of Governors of the Federal Reserve System shall regularly—
+
+&emsp;&emsp;(A) review all restrictions or requirements established pursuant to paragraph (1) or (4) to determine whether there is a continuing need for any such restriction or requirement to carry out the purposes of the Act, including the avoidance of any adverse effect referred to in paragraph (2)(B) or (4)(B); and
+
+&emsp;&emsp;(B) modify or eliminate any such restriction or requirement the Board finds is no longer required for such purposes.
+
+#### (4) Foreign banks
+
+&emsp;The Board may, by regulation or order, impose restrictions or requirements on relationships or transactions between a branch, agency, or commercial lending company of a foreign bank in the United States and any affiliate in the United States of such foreign bank that the Board finds are—
+
+&emsp;&emsp;(A) consistent with the purposes of this Act, the Bank Holding Company Act of 1956, the Federal Reserve Act, and other Federal law applicable to foreign banks and their affiliates in the United States; and
+
+&emsp;&emsp;(B) appropriate to prevent an evasion of any provision of law referred to in subparagraph (A) or to avoid any significant risk to the safety and soundness of depository institutions or any Federal deposit insurance fund or other adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interests, or unsound banking practices.
+
+#### (c) Federal Deposit Insurance Corporation
+
+#### (1) In general
+
+&emsp;The Federal Deposit Insurance Corporation may, by regulation or order, impose restrictions or requirements on relationships or transactions between a State nonmember bank (as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]) and a subsidiary of the State nonmember bank that the Corporation finds are—
+
+&emsp;&emsp;(A) consistent with the purposes of this Act, the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], or other Federal law applicable to State nonmember banks; and
+
+&emsp;&emsp;(B) appropriate to avoid any significant risk to the safety and soundness of depository institutions or any Federal deposit insurance fund or other adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interests, or unsound banking practices.
+
+#### (2) Review
+
+&emsp;The Federal Deposit Insurance Corporation shall regularly—
+
+&emsp;&emsp;(A) review all restrictions or requirements established pursuant to paragraph (1) to determine whether there is a continuing need for any such restriction or requirement to carry out the purposes of the Act, including the avoidance of any adverse effect referred to in paragraph (1)(B); and
+
+&emsp;&emsp;(B) modify or eliminate any such restriction or requirement the Corporation finds is no longer required for such purposes.
+
+(Pub. L. 106–102, title I, §114, Nov. 12, 1999, 113 Stat. 1369.)
+
+#### References in Text
+
+This Act and the Act, referred to in text, probably are references to Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
+
+Title LXII of the Revised Statutes, referred to in subsec. (a)(1)(A), is title 62 of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to sections 21, 22 to 24a, 25a, 26 to 29, 35 to 37, 39, 43, 51, 52, 53, 56, 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 101a, 102, 104, 107 to 110, 123, 124, 131 to 138, 141 to 144, 151, 152, 161, 164, 168 to 175, 181 to 186, 192 to 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
+
+The Bank Holding Company Act of 1956, referred to in subsec. (b)(2)(A), (4)(A), is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+
+The Federal Reserve Act, referred to in subsec. (b)(2)(A), (4)(A), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+
+The Federal Deposit Insurance Act, referred to in subsec. (c)(1)(A), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+
+#### Codification
+
+Section was enacted as part of the Gramm-Leach-Bliley Act, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
+
+#### Effective Date
+
+Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as an Effective Date of 1999 Amendment note under section 24 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3106 of this title.
+

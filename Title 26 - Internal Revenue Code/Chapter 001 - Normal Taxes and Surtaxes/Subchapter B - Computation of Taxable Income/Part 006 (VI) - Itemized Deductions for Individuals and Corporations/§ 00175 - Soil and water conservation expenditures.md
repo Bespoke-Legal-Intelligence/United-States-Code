@@ -18,7 +18,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(B) any amount paid or incurred which is allowable as a deduction without regard to this section.
 
-> &emsp;Notwithstanding the preceding sentences, such term also includes any amount, not otherwise allowable as a deduction, paid or incurred to satisfy any part of an assessment levied by a soil or water conservation or drainage district to defray expenditures made by such district (i) which, if paid or incurred by the taxpayer, would without regard to this sentence constitute expenditures deductible under this section, or (ii) for property of a character subject to the allowance for depreciation provided in section 167 and used in the soil or water conservation or drainage district's business as such (to the extent that the taxpayer's share of the assessment levied on the members of the district for such property does not exceed 10 percent of such assessment).
+> &emsp;Notwithstanding the preceding sentences, such term also includes any amount, not otherwiseallowable as a deduction, paid or incurred to satisfy any part of an assessment levied by a soil or water conservation or drainage district to defray expenditures made by such district (i) which, if paid or incurred by the taxpayer, would without regard to this sentence constitute expenditures deductible under this section, or (ii) for property of a character subject to the allowance for depreciation provided in section 167 and used in the soil or water conservation or drainage district's business as such (to the extent that the taxpayer's share of the assessment levied on the members of the district for such property does not exceed 10 percent of such assessment).
 
 &emsp;(2) The term “land used in farming” means land used (before or simultaneously with the expenditures described in paragraph (1)) by the taxpayer or his tenant for the production of crops, fruits, or other agricultural products or for the sustenance of livestock.
 
@@ -60,7 +60,7 @@ The method adopted under this section shall apply to all expenditures described 
 
 #### (1) Amounts treated as paid or incurred over 9-year period
 
-&emsp;In the case of an assessment levied to defray expenditures for property described in clause\(ii) of the last sentence of subsection (c)(1), if the amount of such assessment paid or incurred by the taxpayer during the taxable year (determined without the application of this paragraph) is in excess of an amount equal to 10 percent of the aggregate amounts which have been and will be assessed as the taxpayer's share of the expenditures by the district for such property, and if such excess is more than $500, the entire excess shall be treated as paid or incurred ratably over each of the 9 succeeding taxable years.
+&emsp;In the case of an assessment levied to defray expenditures for property described in clause (ii) of the last sentence of subsection (c)(1), if the amount of such assessment paid or incurred by the taxpayer during the taxable year (determined without the application of this paragraph) is in excess of an amount equal to 10 percent of the aggregate amounts which have been and will be assessed as the taxpayer's share of the expenditures by the district for such property, and if such excess is more than $500, the entire excess shall be treated as paid or incurred ratably over each of the 9 succeeding taxable years.
 
 #### (2) Disposition of land during 9-year period
 
@@ -96,7 +96,7 @@ Amendment by section 1901(a)(30) of Pub. L. 94–455 applicable with respect to 
 
 #### Effective Date of 1968 Amendment
 
-Section 5(c) of Pub. L. 90–630 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to assessments levied after the date of the enactment of this Act \[Oct. 22, 1968\] in taxable years ending after such date.”
+Section 5(c) of Pub. L. 90–630 provided that: “The amendments made by subsections (a) and (b) \[amendingthis section\] shall apply to assessments levied after the date of the enactment of this Act \[Oct. 22, 1968\] in taxable years ending after such date.”
 
 #### Cross References
 

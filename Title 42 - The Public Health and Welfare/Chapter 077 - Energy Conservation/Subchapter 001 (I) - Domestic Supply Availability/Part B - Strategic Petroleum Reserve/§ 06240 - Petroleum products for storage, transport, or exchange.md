@@ -56,7 +56,7 @@ The Secretary shall, to the greatest extent practicable, acquire petroleum produ
 
 &emsp;(C) produced for national defense purposes under section 7422(b)(2) of title 10, pursuant to an authorization of Congress under that section during the preceding 9-month period.
 
-(3) In determining the number of barrels of crude oil for purposes of subparagraph (A) of paragraph (1), any crude oil drawndown from the Reserve as a result of any drawdown and distribution carried out under section 6241(g) of this title and not replaced under section 6241(g)(6)(B) of this title shall be considered to be within the Reserve.
+(3) In determining the number of barrels of crude oil for purposes of subparagraph (A) ofparagraph (1), any crude oil drawndown from the Reserve as a result of any drawdown and distribution carried out under section 6241(g) of this title and not replaced under section 6241(g)(6)(B) of this title shall be considered to be within the Reserve.
 
 (4) For any fiscal year in which purchases of petroleum products are suspended, or the sale of petroleum products is carried out, under subsection (f) of this section, the fill-rate requirements of paragraph (1)(B) shall be reduced by—
 
@@ -112,7 +112,7 @@ If the Secretary finds that a severe energy supply interruption may be imminent,
 
 &emsp;(B) shall not exceed the price that would have been paid if the Secretary had acquired petroleum products of a similar quality on the open market under competitive bid procedures without regard to the source of the petroleum products.
 
-(Pub. L. 94–163, title I, §160, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 96–294, title VIII, §§801(a), 802(a), 803, June 30, 1980, 94 Stat. 775, 776; Pub. L. 97–35, title X, §1033, Aug. 13, 1981, 95 Stat. 618; Pub. L. 97–229, §4(a)(1), (b)(2)(C), Aug. 3, 1982, 96 Stat. 250, 252; Pub. L. 99–58, title I, §§102(b), 103(b)(1), July 2, 1985, 99 Stat. 103, 104; Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 342; Pub. L. 99–272, title VII, §7102, Apr. 7, 1986, 100 Stat. 141; Pub. L. 99–509, title III, §3202, Oct. 21, 1986, 100 Stat. 1889; Pub. L. 101–383, §§4(b), (c), 5(a), (b)(3), 7, Sept. 15, 1990, 104 Stat. 728, 729, 734; Pub. L. 101–548, §1, Nov. 14, 1990, 104 Stat. 2398; Pub. L. 102–486, title XIV, §1404(a), (b)(2), Oct. 24, 1992, 106 Stat. 2994, 2995; Pub. L. 104–66, title I, §1051(f), Dec. 21, 1995, 109 Stat. 716.)
+(Pub. L. 94–163, title I, §160, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9,1978, 92 Stat. 3288; Pub. L. 96–294, title VIII, §§801(a), 802(a), 803, June 30, 1980, 94 Stat. 775, 776; Pub. L. 97–35, title X, §1033, Aug. 13, 1981, 95 Stat. 618; Pub. L. 97–229, §4(a)(1), (b)(2)(C), Aug. 3, 1982, 96 Stat. 250, 252; Pub. L. 99–58, title I, §§102(b), 103(b)(1), July 2, 1985, 99 Stat. 103, 104; Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 342; Pub. L. 99–272, title VII, §7102, Apr. 7, 1986, 100 Stat. 141; Pub. L. 99–509, title III, §3202, Oct. 21, 1986, 100 Stat. 1889; Pub. L. 101–383, §§4(b), (c), 5(a), (b)(3), 7, Sept. 15, 1990, 104 Stat. 728, 729, 734; Pub. L. 101–548, §1, Nov. 14, 1990, 104 Stat. 2398; Pub. L. 102–486, title XIV, §1404(a), (b)(2), Oct. 24, 1992, 106 Stat. 2994, 2995; Pub. L. 104–66, title I, §1051(f), Dec. 21, 1995, 109 Stat. 716.)
 
 #### References in Text
 
@@ -236,7 +236,7 @@ Section 805 of Pub. L. 96–294 provided that:
 
 “(d) For purposes of this section—
 
-&emsp;“(1) the terms ‘entitlements’, ‘crude oil’, and ‘allocation’ shall have the same meaning as those terms have as used in the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\] (and the regulation thereunder);
+&emsp;“(1) the terms ‘entitlements’, ‘crude oil’, and ‘allocation’ shall have the same meaning as those termshave as used in the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\] (and the regulation thereunder);
 
 &emsp;“(2) the term ‘lower tier crude oil’ means crude oil which is subject to the price ceiling established under section 212.73 of title 10, Code of Federal Regulations;
 

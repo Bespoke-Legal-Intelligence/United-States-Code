@@ -1,6 +1,6 @@
 ### §506. Determination of secured status
 
-(a) An allowed claim of a creditor secured by a lien on property in which the estate has an interest, or that is subject to setoff under section 553 of this title, is a secured claim to the extent of the value of such creditor's interest in the estate's interest in such property, or to the extentof the amount subject to setoff, as the case may be, and is an unsecured claim to the extent that the value of such creditor's interest or the amount so subject to setoff is less than the amount of such allowed claim. Such value shall be determined in light of the purpose of the valuation and of the proposed disposition or use of such property, and in conjunction with any hearing on such disposition or use or on a plan affecting such creditor's interest.
+(a) An allowed claim of a creditor secured by a lien on property in which the estate has an interest, or that is subject to setoff under section 553 of this title, is a secured claim to the extent of the value of such creditor's interest in the estate's interest in such property, or to the extent of the amount subject to setoff, as the case may be, and is an unsecured claim to the extent that the value of such creditor's interest or the amount so subject to setoff is less than the amount of such allowed claim. Such value shall be determined in light of the purpose of the valuation and of the proposed disposition or use of such property, and in conjunction with any hearing on such disposition or use or on a plan affecting such creditor's interest.
 
 (b) To the extent that an allowed secured claim is secured by property the value of which, after any recovery under subsection (c) of this section, is greater than the amount of such claim, there shall be allowed to the holder of such claim, interest on such claim, and any reasonable fees, costs, or charges provided for under the agreement under which such claim arose.
 
@@ -48,7 +48,7 @@ Subsection (d) permits liens to pass through the bankruptcy case unaffected. How
 
 Subsec. (d)(1). Pub. L. 98–353, §448(b), substituted “such claim was disallowed only under section 502(b)(5) or 502(e) of this title” for “a party in interest has not requested that the court determine and allow or disallow such claim under section 502 of this title”.
 
-Subsec. (d)(2). Pub. L. 98–353, §448(b), substituted “such claim is not an allowed secured claim due onlyto the failure of any entity to file a proof of such claim under section 501 of this title” for “such claim was disallowed only under section 502(e) of this title”.
+Subsec. (d)(2). Pub. L. 98–353, §448(b), substituted “such claim is not an allowed secured claim due only to the failure of any entity to file a proof of such claim under section 501 of this title” for “such claim was disallowed only under section 502(e) of this title”.
 
 #### Effective Date of 1984 Amendment
 

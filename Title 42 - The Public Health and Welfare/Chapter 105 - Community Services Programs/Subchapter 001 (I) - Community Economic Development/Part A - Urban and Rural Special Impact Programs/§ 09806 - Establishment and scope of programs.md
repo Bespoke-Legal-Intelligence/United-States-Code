@@ -6,7 +6,7 @@
 
 &emsp;(2) community physical development programs, including industrial parks and housing activities, which contribute to an improved environment and which create new training, employment and ownership opportunities for residents of such area;
 
-&emsp;(3) training and public service employment programs and related services for unemployedor low-income persons which support and complement community development programs financed under this part, including, without limitation, activities such as the activities described in the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\]; and
+&emsp;(3) training and public service employment programs and related services for unemployed or low-income persons which support and complement community development programs financed under this part, including, without limitation, activities such as the activities described in the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\]; and
 
 &emsp;(4) social service programs which support and complement community business and commercial development programs financed under this part, including child care, educational services, health services, credit counseling, energy conservation, recreation services, and programs for the maintenance of housing facilities.
 

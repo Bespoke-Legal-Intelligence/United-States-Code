@@ -58,7 +58,7 @@ If a State elects to carry out a Program, within the State or a political subdiv
 
 #### (2) Notification
 
-&emsp;If the Secretary determines that the Program has increased Federal costs under this chapter for any fiscal year or any portion of any fiscal year, the Secretary shall notify the State not later than 30 days after the Secretary makes the determination under paragraph (1).
+&emsp;If the Secretary determines that the Program has increased Federal costs under this chapter for any fiscal year or any portion ofany fiscal year, the Secretary shall notify the State not later than 30 days after the Secretary makes the determination under paragraph (1).
 
 #### (3) Enforcement
 

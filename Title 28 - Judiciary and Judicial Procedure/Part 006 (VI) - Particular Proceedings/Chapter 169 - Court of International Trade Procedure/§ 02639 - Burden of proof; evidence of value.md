@@ -20,15 +20,5 @@ Sections 515, 516, and 516A of the Tariff Act of 1930, referred to in subsec. (a
 
 #### Prior Provisions
 
-A prior section 2639, acts June 25, 1948, ch. 646, 62 Stat. 982; June 2, 1970, Pub. L. 91–271, title I, §120, 84 Stat. 281, provided for retrial or rehearing, prior to the general revision of this chapter by Pub. L. 96–417. See section 2646 of this title.
-
-#### Effective Date
-
-Subsec. (a)(2) of this section applicable with respect to civil actions commenced on or after the 90th day after Nov. 1, 1980, see section 701(c)(1)(A) of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under section 251 of this title.
-
-Subsec. (b) of this section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(1)(B) of Pub. L. 96–417.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2641 of this title; title 19 section 1499.
+A prior section 2639, acts June 25, 1948, ch. 646, 62 Stat. 982; June 2, 1970, Pub. L. 91–271, title I, §120, 84 Stat. 281, provided for retrial or rehearing, prior to the general revision of this chapter by Pub
 

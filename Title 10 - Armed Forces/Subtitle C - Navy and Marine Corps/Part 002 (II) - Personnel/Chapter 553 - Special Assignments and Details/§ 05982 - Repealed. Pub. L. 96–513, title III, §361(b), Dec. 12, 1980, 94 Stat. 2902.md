@@ -1,6 +1,6 @@
 ### \[§5982. Repealed. Pub. L. 96–513, title III, §361(b), Dec. 12, 1980, 94 Stat. 2902\]
 
-Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 373, authorized a detail of retired officers to command shipsand squadrons in time of war. See section 688 of this title.
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 373, authorized a detail of retired officers to command ships and squadrons in time of war. See section 688 of this title.
 
 #### Effective Date of Repeal
 

@@ -2,7 +2,7 @@ Part A—Magnet Schools Assistance
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 5891, 6212 of this title.
+This part is referred to in section 6212 of this title.
 
 
 ---

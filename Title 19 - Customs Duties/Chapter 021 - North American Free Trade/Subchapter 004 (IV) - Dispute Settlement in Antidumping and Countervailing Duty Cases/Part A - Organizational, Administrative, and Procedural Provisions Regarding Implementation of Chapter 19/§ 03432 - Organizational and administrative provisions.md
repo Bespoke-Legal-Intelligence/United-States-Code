@@ -30,7 +30,7 @@
 
 #### (2) Consultation with chief judges
 
-&emsp;The Trade Representative shall consult, from time to time, with the chief judges of the Federal judicial circuits regarding the interest in, and availability for, participation in binational panels, extraordinary challenge committees, and special committees, of judges within their respective circuits. If the chief judge of a Federal judicial circuit determines that it is appropriate for one or more judges within that circuit to be included on a roster described in subsection (a)(1)(D) of this section, the chief judge shall identify all such judges for the Chief Justice of the United States who may, upon his or her approval, submit the names of such judges to the Trade Representative. The Trade Representative shall include the names of such judges on the roster.
+&emsp;The Trade Representative shall consult, from time to time, with the chief judges of theFederal judicial circuits regarding the interest in, and availability for, participation in binational panels, extraordinary challenge committees, and special committees, of judges within their respective circuits. If the chief judge of a Federal judicial circuit determines that it is appropriate for one or more judges within that circuit to be included on a roster described in subsection (a)(1)(D) of this section, the chief judge shall identify all such judges for the Chief Justice of the United States who may, upon his or her approval, submit the names of such judges to the Trade Representative. The Trade Representative shall include the names of such judges on the roster.
 
 #### (3) Submission of lists to Congress
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(iii) exercise oversight of the administration of the United States Section that is authorized to be established under section 3315 of this title; and
 
-&emsp;&emsp;&emsp;(iv) make recommendations to the Trade Representative regarding the convening ofextraordinary challenge committees and special committees under chapter 19.
+&emsp;&emsp;&emsp;(iv) make recommendations to the Trade Representative regarding the convening of extraordinary challenge committees and special committees under chapter 19.
 
 #### (3) Preliminary candidate lists
 
@@ -150,7 +150,7 @@
 
 #### (5) Treatment of responses
 
-&emsp;For purposes of applying section 1001 of title 18, the written or oral responses of individuals to inquiries of the interagency group established under paragraph (2)(A) or of the Trade Representative regarding their personal and professional qualifications, and financial and other relevant interests, that bear on their suitability for the placements and appointments described in subsection (a)(1) of this section, shall be treated as matters within the jurisdiction of an agency of the United States.
+&emsp;For purposes of applying section 1001 of title 18, the written or oral responses of individuals to inquiries of the interagency group established under paragraph (2)(A) or of the Trade Representative regarding their personal and professional qualifications, and financial and other relevant interests, that bear on theirsuitability for the placements and appointments described in subsection (a)(1) of this section, shall be treated as matters within the jurisdiction of an agency of the United States.
 
 #### (d) Selection and appointment
 

@@ -6,9 +6,9 @@
 
 &emsp;(2) in time of war declared by the Congress or during a national emergency, on the order of any officer or employee of the United States designated by the President to have authority to issue disposal orders under this subsection, if such officer or employee determines that the release of such materials is required for purposes of the national defense.
 
-(b) Any order issued under subsection (a) of this section shall be promptly reported by the President, or by the officer or employee issuing such order, in writing, to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives.
+(b) Any order issued under subsection (a) of this section shall be promptly reported by the President, or by the officer or employee issuing such order, in writing, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
-(June 7, 1939, ch. 190, §7, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 322; amended Pub. L. 104–106, div. A, title XV, §1502(e)(2), Feb. 10, 1996, 110 Stat. 509.)
+(June 7, 1939, ch. 190, §7, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 322; amended Pub. L. 104–106, div. A, title XV, §1502(e)(2), Feb. 10, 1996, 110 Stat. 509; Pub. L. 106–65, div. A, title X, §1067(13), Oct. 5, 1999, 113 Stat. 775.)
 
 #### Prior Provisions
 
@@ -18,11 +18,9 @@ Provisions similar to those in this section were contained in former section 98d
 
 #### Amendments
 
+1999—Subsec. (b). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+
 1996—Subsec. (b). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Section Referred to in Other Sections
 

@@ -4,7 +4,7 @@ In formulating a remedy for a denial of equal educational opportunity or a denia
 
 &emsp;(a) assigning students to the schools closest to their places of residence which provide the appropriate grade level and type of education for such students, taking into account school capacities and natural physical barriers;
 
-&emsp;(b) assigning students to the schools closest to their places of residence which provide theappropriate grade level and type of education for such students, taking into account only school capacities;
+&emsp;(b) assigning students to the schools closest to their places of residence which provide the appropriate grade level and type of education for such students, taking into account only school capacities;
 
 &emsp;(c) permitting students to transfer from a school in which a majority of the students are of their race, color, or national origin to a school in which a minority of the students are of their race, color, or national origin;
 

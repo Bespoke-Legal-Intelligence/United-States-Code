@@ -32,7 +32,7 @@ Further, the Secretary of the Treasury shall instruct each Executive Director of
 
 (2) Each report required by paragraph (1) shall—
 
-&emsp;(A) include a list of all loans considered by the Board <sup>1</sup> of Executive Directors of the institutions listed in subsection (a) of this sectionand shall specify with respect to each such loan—
+&emsp;(A) include a list of all loans considered by the Board <sup>1</sup> of Executive Directors of the institutions listed in subsection (a) of this section and shall specify with respect to each such loan—
 
 &emsp;&emsp;(i) the institution involved;
 
@@ -128,7 +128,7 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
+Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set outas an Effective Date note under section 6301 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -158,7 +158,7 @@ Implementation of United States policy opposing the practice of torture by forei
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 262r, 2799aa–1, 5605, 6302 of this title.
+This section is referred to in sections 262r, 2799aa–1, 5605, 6302, 6445, 6713 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Boards”.</i>
 

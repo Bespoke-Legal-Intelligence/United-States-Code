@@ -6,7 +6,7 @@ Whoever, being a claim agent, attorney, or other person engaged in the collectio
 
 #### Historical and Revision Notes
 
-Based on section 100 of title 31, Money and Finance, section 130 of title 38, Pensions, Bonuses, and Veterans’Relief, and section 841 of title 43, Public Lands, all U.S.C., 1940 ed. (May 21, 1872, ch. 178, 17 Stat. 137).
+Based on section 100 of title 31, Money and Finance, section 130 of title 38, Pensions, Bonuses, and Veterans’ Relief, and section 841 of title 43, Public Lands, all U.S.C., 1940 ed. (May 21, 1872, ch. 178, 17 Stat. 137).
 
 Words “deemed guilty of a misdemeanor” were deleted as unnecessary. (See definition of “misdemeanor” in section 1 of this title.)
 

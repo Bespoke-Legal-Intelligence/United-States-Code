@@ -44,7 +44,7 @@ In any action under subsection (a) of this section, the franchisee shall have th
 
 &emsp;(B) in the case of any such action which is based upon conduct of the franchisor which was in willful disregard of the requirements of section 2802 or 2803 of this title, or the rights of the franchisee thereunder, to exemplary damages, where appropriate; and
 
-&emsp;(C) to reasonable attorney and expert witness fees to be paid by the franchisor, unlessthe court determines that only nominal damages are to be awarded to such franchisee, in which case the court, in its discretion, need not direct that such fees be paid by the franchisor.
+&emsp;(C) to reasonable attorney and expert witness fees to be paid by the franchisor, unless the court determines that only nominal damages are to be awarded to such franchisee, in which case the court, in its discretion, need not direct that such fees be paid by the franchisor.
 
 (2) The question of whether to award exemplary damages and the amount of any such award shall be determined by the court and not by a jury.
 

@@ -88,7 +88,7 @@ COMMISSIONED OFFICERS
 | O–5 | 260 | 265 | 265 | 285 | 300 | 315 | 340 |
 | O–6 | 290 | 300 | 310 | 325 | 340 | 355 | 380 |
 
-(c) Under regulations prescribed by the President, a member of a uniformed service who is entitled to career sea pay under this section who has served 36 consecutive months of sea duty (other than an enlisted member in a pay grade above E–4 with more than five years of sea duty) is entitled to a career sea pay premium of $100 a month for the thirty-seventh consecutive month and each subsequent consecutive month of sea duty served by such member.
+(c) Under regulations prescribed by the President, a member of a uniformed service who is entitled to career sea pay under this section whohas served 36 consecutive months of sea duty (other than an enlisted member in a pay grade above E–4 with more than five years of sea duty) is entitled to a career sea pay premium of $100 a month for the thirty-seventh consecutive month and each subsequent consecutive month of sea duty served by such member.
 
 (d)(1) In this section, the term “sea duty” means duty performed by a member—
 
@@ -134,7 +134,7 @@ Subsec. (b). Pub. L. 102–190, in table pertaining to warrant officers, added p
 
 1987—Subsec. (b). Pub. L. 100–224 substituted “Over 14” for “Over 13” in table relating to warrant officers.
 
-Pub. L. 100–180, §621(a), in amending subsec. (b) generally, struck out “of this section” after “subsection (a)” in introductory provisions and amended table pertaining to enlisted members so as to reflect downward adjustment in monthly special pay rates for persons in pay grade E–4 having over 2 years of sea duty and forpersons in pay grades E–5 through E–9 having less than 5 years of sea duty, and amended table so as to reflect upward adjustment for persons in pay grades E–5 through E–9 having over 5 years of sea duty, amended table pertaining to warrant officers so as to reflect upward adjustment for persons in pay grades W–1 through W–3 having over 9 years of sea duty and for persons in pay grade W–4 having over 10 years of sea duty, and in table pertaining to officers for pay grade O–4 substituted “220” for “215” in the column for “Over 8”.
+Pub. L. 100–180, §621(a), in amending subsec. (b) generally, struck out “of this section” after “subsection (a)” in introductory provisions and amended table pertaining to enlisted members so as to reflect downward adjustment in monthly special pay rates for persons in pay grade E–4 having over 2 years of sea duty and for persons in pay grades E–5 through E–9 having less than 5 years of sea duty, and amended table so as to reflect upward adjustment for persons in pay grades E–5 through E–9 having over 5 years of sea duty, amended table pertaining to warrant officers so as to reflect upward adjustment for persons in pay grades W–1 through W–3 having over 9 years of sea duty and for persons in pay grade W–4 having over 10 years of sea duty, and in table pertaining to officers for pay grade O–4 substituted “220” for “215” in the column for “Over 8”.
 
 Subsec. (c). Pub. L. 100–180, §621(b), inserted “(other than an enlisted member in a pay grade above E–4 with more than five years of sea duty)” after first reference to “sea duty”.
 
@@ -148,7 +148,7 @@ Subsec. (d). Pub. L. 100–180, §621(c), amended subsec. (d) generally. Prior t
 
 Pub. L. 100–26 substituted “In this section,” for “For the purposes of this section,”.
 
-1985—Subsec. (b). Pub. L. 99–145 amended table for warrant officers for pay grade W–3 by substituting “330” for “310” in column for “Over 12”, and for pay grade W–4, substituted “320” for “310” in column for “Over 10”, substituted “330” for “310” in column for “Over 11”, and “350” for “310” in column for “Over 12”, inserted columns for “Over 14”, “Over 16”, “Over 18”, and “Over 20”, and in table for commissioned officers inserted columns for “Over 14”, “Over 16”, “Over 18”, and “Over 20”, and struck out the subscript qualifier for pay grades O–1 and O–2, which read: “Commissioned officers with at least four years of active service as enlisted members or as noncommissioned warrant officers”.
+1985—Subsec. (b). Pub. L. 99–145 amended table for warrant officers for pay grade W–3 by substituting “330” for “310” in column for “Over 12”, and for pay grade W–4, substituted “320” for “310” in column for “Over 10”, substituted “330” for “310” in column for“Over 11”, and “350” for “310” in column for “Over 12”, inserted columns for “Over 14”, “Over 16”, “Over 18”, and “Over 20”, and in table for commissioned officers inserted columns for “Over 14”, “Over 16”, “Over 18”, and “Over 20”, and struck out the subscript qualifier for pay grades O–1 and O–2, which read: “Commissioned officers with at least four years of active service as enlisted members or as noncommissioned warrant officers”.
 
 1984—Subsec. (b). Pub. L. 98–525 amended table relating to rates of pay for enlisted members by substituting “265” for “255” and “320” for “310” in column for “Over 10”, “265” for “255” and “330” for “310” in column for “Over 11”, “280” for “255”, “320” for “310”, and “350” for “310” in column for “Over 12”, and inserted columns for “Over 13”, “Over 14”, “Over 16”, and “Over 18”.
 
@@ -202,7 +202,7 @@ Section 623(c) of Pub. L. 98–525 provided that: “The amendments made by this
 
 #### Effective Date of 1980 Amendments
 
-Section 4(b) of Pub. L. 96–579 provided: “The amendment made by this section \[amending this section\]shall be effective with respect to special pay payable under section 305a of title 37, United States Code, for months after the month in which this section is enacted \[December 1980\].”
+Section 4(b) of Pub. L. 96–579 provided: “The amendment made by this section \[amending this section\] shall be effective with respect to special pay payable under section 305a of title 37, United States Code, for months after the month in which this section is enacted \[December 1980\].”
 
 Section 3(c) of Pub. L. 96–343 provided that: “The amendments made by this section \[amending this section and repealing section 804(a)(2) of Pub. L. 95–485, formerly set out as a note below\] shall be effective with respect to special pay payable under section 305a of title 37, United States Code, for months after August 1980.”
 

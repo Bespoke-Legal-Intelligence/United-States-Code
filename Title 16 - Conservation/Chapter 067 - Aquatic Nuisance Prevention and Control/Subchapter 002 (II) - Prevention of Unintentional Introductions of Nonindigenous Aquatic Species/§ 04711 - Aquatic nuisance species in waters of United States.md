@@ -90,7 +90,7 @@
 
 &emsp;&emsp;&emsp;(i) carry out the exchange of ballast water of the vessel in waters beyond the exclusive economic zone;
 
-&emsp;&emsp;&emsp;(ii) exchange the ballast water of the vessel in other waters where the exchange does not pose a threat of infestation or spread of nonindigenous species in watersof the United States, as recommended by the Task Force under section 4712(a)(1) of this title; or
+&emsp;&emsp;&emsp;(ii) exchange the ballast water of the vessel in other waters where the exchange does not pose a threat of infestation or spread of nonindigenous species in waters of the United States, as recommended by the Task Force under section 4712(a)(1) of this title; or
 
 &emsp;&emsp;&emsp;(iii) use environmentally sound alternative ballast water management methods, including modification of the vessel ballast water tanks and intake systems, if the Secretary determines that such alternative methods are at least as effective as ballast water exchange in preventing and controlling infestations of aquatic nuisance species;
 

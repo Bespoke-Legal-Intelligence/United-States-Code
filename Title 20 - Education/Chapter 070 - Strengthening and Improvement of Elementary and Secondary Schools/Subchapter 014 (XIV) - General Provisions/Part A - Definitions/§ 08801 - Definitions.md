@@ -110,7 +110,7 @@ Except as otherwise provided, for the purposes of this chapter, the following te
 
 #### (16) Gifted and talented
 
-&emsp;The term “gifted and talented”, when used with respect to students, children or youth,means students, children or youth who give evidence of high performance capability in areas such as intellectual, creative, artistic, or leadership capacity, or in specific academic fields, and who require services or activities not ordinarily provided by the school in order to fully develop such capabilities.
+&emsp;The term “gifted and talented”, when used with respect to students, children or youth, means students, children or youth who give evidence of high performance capability in areas such as intellectual, creative, artistic, or leadership capacity, or in specific academic fields, and who require services or activities not ordinarily provided by the school in order to fully develop such capabilities.
 
 #### (17) Institution of higher education
 
@@ -192,7 +192,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1003, 1687, 2302, 4020, 4514, 5502, 5802, 8821, 9001, 9202 of this title; title 2 sections 117b–2, 117e; title 7 section 3152; title 10 section 2194; title 15 sections 2642, 2662; title 26 section 1397E; title 29 sections 762, 794, 1503, 2618; title 42 sections 300j–21, 2000d–4a, 3030g–12, 3030<i>o</i>, 6107, 7382b, 9855, 9877, 12511; title 47 section 254.
+This section is referred to in sections 1003, 1687, 2302, 4020, 4514, 5502, 5802, 5891a, 8821, 9001, 9202 of this title; title 2 sections 117b–2, 117e; title 7 section 3152; title 10 section 2194; title 15 sections 2642, 2662; title 26 section 1397E; title 29 sections 762, 794, 1503, 2618, 2801; title 42 sections 300j–21, 2000d–4a, 3030g–12, 3030<i>o</i>, 6107, 7382b, 9877, 9923, 12511; title 47 section 254.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

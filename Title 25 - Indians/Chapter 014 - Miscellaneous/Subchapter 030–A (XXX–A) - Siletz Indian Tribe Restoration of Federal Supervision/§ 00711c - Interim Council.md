@@ -10,7 +10,7 @@ The Interim Council shall represent the tribe and its members in the implementat
 
 #### (c) Council vacancies; notice; meeting; election
 
-Within thirty days after receiving notice of a vacancy on the Interim Council, the Interim Council shall hold a general council meeting for the purpose of electing a person to fill such vacancy. The Interim Council shall provide notice of the time, place, and purpose of such meeting and election to members described in section 711b(d) of this title at least ten days before suchgeneral meeting and election. The person nominated to fill such vacancy at the general council meeting who received the highest number of votes in the election shall fill such vacancy.
+Within thirty days after receiving notice of a vacancy on the Interim Council, the Interim Council shall hold a general council meeting for the purpose of electing a person to fill such vacancy. The Interim Council shall provide notice of the time, place, and purpose of such meeting and election to members described in section 711b(d) of this title at least ten days before such general meeting and election. The person nominated to fill such vacancy at the general council meeting who received the highest number of votes in the election shall fill such vacancy.
 
 (Pub. L. 95–195, §5, Nov. 18, 1977, 91 Stat. 1416; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 

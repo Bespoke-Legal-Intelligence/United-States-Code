@@ -30,6 +30,8 @@ Historical and Revision Notes
 
 36:4205.
 
+&nbsp;
+
 In clause (1), the word “regulations” is substituted for “rules and regulations” to avoid redundancy.
 
 In clause (2), the words “created by death, resignation, or otherwise” in 36:4203 are omitted as unnecessary.

@@ -42,11 +42,11 @@ Pub. L. 102–484, div. A, title XI, Oct. 23, 1992, 106 Stat. 2536, as amended b
 
 “(a)
 
-Additional Prior Active Duty Officers.—The Secretary of the Army shall increase the number of qualified prior active-duty officers in the Army National Guard by providing a program that permits the separation of officers on active duty with at least two, but less than three, years of active service upon condition that the officer is accepted for appointment in the Army National Guard. The Secretary shall have a goal of having not fewer than 150 officers become membersof the Army National Guard each year under this section.
+Additional Prior Active Duty Officers.—The Secretary of the Army shall increase the number of qualified prior active-duty officers in the Army National Guard by providing a program that permits the separation of officers on active duty with at least two, but less than three, years of active service upon condition that the officer is accepted for appointment in the Army National Guard. The Secretary shall have a goal of having not fewer than 150 officers become members of the Army National Guard each year under this section.
 
 “(b)
 
-Additional Prior Active Duty Enlisted Members.—The Secretary of the Army shall increase the number of qualified prior active-duty enlisted members in the Army National Guard through the use of enlistments as described in section 8020 of the Department of Defense Appropriations Act, 1994 (Public Law 103–139) \[107 Stat. 1441\]. The Secretary shall enlist not fewer than 1,000 new enlisted members each year under enlistments described in that section.
+Additional Prior Active Duty Enlisted Members.—The Secretary of the Army shall increase the number of qualified prior active-duty enlisted membersin the Army National Guard through the use of enlistments as described in section 8020 of the Department of Defense Appropriations Act, 1994 (Public Law 103–139) \[107 Stat. 1441\]. The Secretary shall enlist not fewer than 1,000 new enlisted members each year under enlistments described in that section.
 
 “(c)
 
@@ -134,7 +134,7 @@ Time for Qualification for Deployment.—(1) If at the end of 24 months after a 
 
 #### “SEC. 1121. DEPLOYABILITY RATING SYSTEM.
 
-“The Secretary of the Army shall modify the readiness rating system for units of the Army Reserve and Army National Guard to ensure that the rating system provides an accurate assessment of the deployability of a unit and those shortfalls of a unit that require the provision of additional resources. In making such modifications, the Secretary shall ensure that the unit readiness rating system is designed so—
+“The Secretary of the Army shall modify the readiness rating system for units of the Army Reserve andArmy National Guard to ensure that the rating system provides an accurate assessment of the deployability of a unit and those shortfalls of a unit that require the provision of additional resources. In making such modifications, the Secretary shall ensure that the unit readiness rating system is designed so—
 
 &emsp;“(1) that the personnel readiness rating of a unit reflects—
 

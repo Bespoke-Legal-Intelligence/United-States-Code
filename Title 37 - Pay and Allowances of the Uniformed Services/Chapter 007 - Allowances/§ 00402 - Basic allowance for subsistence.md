@@ -2,7 +2,7 @@
 
 (a)
 
-Entitlement to Allowance.—(1) Except as provided in paragraph (2) or otherwise providedby law, each member of a uniformed service who is entitled to basic pay is entitled to a basic allowance for subsistence as set forth in this section.
+Entitlement to Allowance.—(1) Except as provided in paragraph (2) or otherwise provided by law, each member of a uniformed service who is entitled to basic pay is entitled to a basic allowance for subsistence as set forth in this section.
 
 (2) An enlisted member is not entitled to the basic allowance for subsistence during basic training.
 
@@ -116,7 +116,7 @@ In subsection (c), the words “who are entitled to basic pay” are inserted to
 
 In subsection (d), the reference in section 251(a) of existing title 37 to the allowance of $1.05 per day for enlisted members granted permission to mess separately is omitted as superseded by section 251a.
 
-In subsection (e), the words “Effective April 15, 1955,” are omitted as executed. The words “United States”are substituted for the word “Government”. The words “messing facilities” are substituted for the word “messes” to conform to subsections (b) and (d).
+In subsection (e), the words “Effective April 15, 1955,” are omitted as executed. The words “United States” are substituted for the word “Government”. The words “messing facilities” are substituted for the word “messes” to conform to subsections (b) and (d).
 
 #### Amendments
 
@@ -258,7 +258,7 @@ Transitional Rates.—
 
 &emsp;“(1)
 
-Allowance for officers.—The monthly rate of basic allowance for subsistence for a year (beginning on January 1 of that year) that is payable to officers of the uniformed services shall be the amount that is equal to 101 percent of the rate of basic allowance for subsistence that was payable to officers of the uniformed services for the preceding year.
+Allowance for officers.—The monthly rate of basic allowance for subsistence for a year (beginning on January 1 of that year) that is payable to officers of the uniformed services shall be the amountthat is equal to 101 percent of the rate of basic allowance for subsistence that was payable to officers of the uniformed services for the preceding year.
 
 &emsp;“(2)
 

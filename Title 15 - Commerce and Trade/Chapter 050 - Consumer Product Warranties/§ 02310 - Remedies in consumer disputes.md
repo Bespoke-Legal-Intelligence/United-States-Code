@@ -18,7 +18,7 @@
 
 (4) The Commission on its own initiative may, or upon written complaint filed by any interested person shall, review the bona fide operation of any dispute settlement procedure resort to which is stated in a written warranty to be a prerequisite to pursuing a legal remedy under this section. If the Commission finds that such procedure or its implementation fails to comply with the requirements of the rules under paragraph (2), the Commission may take appropriate remedial action under any authority it may have under this chapter or any other provision of law.
 
-(5) Until rules under paragraph (2) take effect, this subsection shall not affect the validity of any informal dispute settlement procedure respecting consumer warranties, but in any actionunder subsection (d) of this section, the court may invalidate any such procedure if it finds that such procedure is unfair.
+(5) Until rules under paragraph (2) take effect, this subsection shall not affect the validity of any informal dispute settlement procedure respecting consumer warranties, but in any action under subsection (d) of this section, the court may invalidate any such procedure if it finds that such procedure is unfair.
 
 #### (b) Prohibited acts
 
@@ -32,7 +32,7 @@ It shall be a violation of section 45(a)(1) of this title for any person to fail
 
 #### (d) Civil action by consumer for damages, etc.; jurisdiction; recovery of costs and expenses; cognizable claims
 
-(1) Subject to subsections (a)(3) and (e) of this section, a consumer who is damaged by the failure of a supplier, warrantor, or service contractor to comply with any obligation under this chapter, or under a written warranty, implied warranty, or service contract, may bring suit for damages and other legal and equitable relief—
+(1) Subject to subsections (a)(3) and (e) of this section, a consumer who is damaged by the failure of a supplier, warrantor, or service contractor to comply with any obligation under thischapter, or under a written warranty, implied warranty, or service contract, may bring suit for damages and other legal and equitable relief—
 
 &emsp;(A) in any court of competent jurisdiction in any State or the District of Columbia; or
 
@@ -54,7 +54,7 @@ No action (other than a class action or an action respecting a warranty to which
 
 #### (f) Warrantors subject to enforcement of remedies
 
-For purposes of this section, only the warrantor actually making a written affirmation of fact, promise, or undertaking shall be deemed to have created a written warranty, and any rights arising thereunder may be enforced under thissection only against such warrantor and no other person.
+For purposes of this section, only the warrantor actually making a written affirmation of fact, promise, or undertaking shall be deemed to have created a written warranty, and any rights arising thereunder may be enforced under this section only against such warrantor and no other person.
 
 (Pub. L. 93–637, title I, §110, Jan. 4, 1975, 88 Stat. 2189.)
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;This section shall apply only to a recovery, by a domestic corporation subject to the tax imposed by section 11 or 801, of a foreign expropriation loss sustained by such corporation and only if such corporation was subject to the tax imposed by section 11 or 801, as the case may be, for the year of the loss and elects to have the provisions of this section apply with respect to such loss.
+&emsp;This section shall apply only to a recovery, by a domestic corporation subject to the tax imposed by section 11 or 801, of a foreign expropriation loss sustained by such corporation and only if such corporation was subject to the tax imposed by section 11 or 801, as the casemay be, for the year of the loss and elects to have the provisions of this section apply with respect to such loss.
 
 #### (2) Time, manner, and scope
 
@@ -62,7 +62,7 @@ For purposes of this section, if the value of any interest in, or with respect t
 
 #### (h) Special rule for evidences of indebtedness
 
-Bonds or other evidences of indebtedness received as a recovery of a foreign expropriation loss to which this section applies shall not be considered to have any original issue discount within the meaning of section 1273(a).
+Bonds or other evidences of indebtedness received as a recovery of a foreign expropriationloss to which this section applies shall not be considered to have any original issue discount within the meaning of section 1273(a).
 
 #### (i) Adjustments for succeeding years
 

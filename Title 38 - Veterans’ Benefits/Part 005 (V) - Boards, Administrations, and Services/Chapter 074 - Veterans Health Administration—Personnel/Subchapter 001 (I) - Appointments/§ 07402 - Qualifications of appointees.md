@@ -68,7 +68,7 @@ Psychologist.—To be eligible to be appointed to a psychologist position, a per
 
 (9)
 
-Social Worker.—To be eligible to be appointed to a social worker position, a person must hold a master's degree in social work from a college or university approved by the Secretary and satisfy the social worker licensure, certification, or registration requirements, if any, of the State in which the social worker is to be employed, except that the Secretary may waive the licensure, certification, or registration requirement of this paragraph for an individual social worker for a reasonable period, not to exceed 3 years, in order for the social worker to take any actions necessary to satisfy the licensure, certification, or registration requirements of such State.
+Social Worker.—To be eligible to be appointed to a social worker position, a person must hold a master's degree in social work froma college or university approved by the Secretary and satisfy the social worker licensure, certification, or registration requirements, if any, of the State in which the social worker is to be employed, except that the Secretary may waive the licensure, certification, or registration requirement of this paragraph for an individual social worker for a reasonable period, not to exceed 3 years, in order for the social worker to take any actions necessary to satisfy the licensure, certification, or registration requirements of such State.
 
 (10)
 
@@ -80,13 +80,25 @@ Other Health-Care Positions.—To be appointed as a physician assistant, expande
 
 (e) A person may not serve as Chief of Staff of a Department health-care facility if the person is not serving on a full-time basis.
 
-(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–86, title III, §305(a), Aug. 14, 1991, 105 Stat. 417; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+(f) A person may not be employed in a position under subsection (b) (other than under paragraph (4) of that subsection) if—
+
+&emsp;(1) the person is or has been licensed, registered, or certified (as applicable to such position) in more than one State; and
+
+&emsp;(2) either—
+
+&emsp;&emsp;(A) any of those States has terminated such license, registration, or certification for cause; or
+
+&emsp;&emsp;(B) the person has voluntarily relinquished such license, registration, or certification in any of those States after being notified in writing by that State of potential termination for cause.
+
+(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–86, title III, §305(a), Aug. 14, 1991, 105 Stat. 417; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–117, title II, §209, Nov. 30, 1999, 113 Stat. 1569.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 4105 and 4108(b) of this title prior to the repeal of those sections as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+
+1999—Subsec. (f). Pub. L. 106–117 added subsec. (f).
 
 1992—Subsec. (d). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
 

@@ -116,6 +116,10 @@ Subsec. (b)(25). Pub. L. 103–322, §210302(a), added par. (25).
 
 Section 210302(c)(4) of Pub. L. 103–322 provided that: “The amendments made by this section \[enacting subchapter XII–L of this chapter and amending this section and sections 3753, 3793, and 3797 of this title\] shall take effect on the date that is 60 days after the date of enactment of this Act \[Sept. 13, 1994\].”
 
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
+
 #### Drug-Free Prisons and Jails
 
 Pub. L. 105–277, div. D, title I, subtitle B, Oct. 21, 1998, 112 Stat. 2681–753, provided that:
@@ -232,7 +236,7 @@ Director.—The term ‘Director’ means the Director of the Bureau of Justice 
 
 &emsp;“(3)
 
-Substance-involved offender.—The term ‘substance-involved offender’ means an individualunder the supervision of a State or local criminal justice system, awaiting trial or serving a sentence imposed by the criminal justice system, who—
+Substance-involved offender.—The term ‘substance-involved offender’ means an individual under the supervision of a State or local criminal justice system, awaiting trial or serving a sentence imposed by the criminal justice system, who—
 
 &emsp;&emsp;“(A) violated or has been arrested for violating a drug or alcohol law;
 

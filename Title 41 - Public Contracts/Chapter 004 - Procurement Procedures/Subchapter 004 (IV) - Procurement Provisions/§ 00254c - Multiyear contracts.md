@@ -22,7 +22,7 @@ Before any contract described in subsection (a) of this section that contains a 
 
 #### (d) Multiyear contract defined
 
-For the purposes of this section, a multiyear contract is a contract for the purchase of property or services for more than one, but not more than five, program years. Such a contract may provide that performance under the contract during the second and subsequent years of the contract is contingent upon the appropriation of funds and (if it does so provide) may provide for a cancellation payment to be made to the contractor if such appropriations are not made.
+For the purposes of this section, a multiyear contract is a contract for the purchase of property or services for more than one, but not more than five, program years. Such a contract may provide that performance under the contract during the second and subsequent years of the contract is contingent upon the appropriation offunds and (if it does so provide) may provide for a cancellation payment to be made to the contractor if such appropriations are not made.
 
 #### (e) Rule of construction
 
@@ -36,5 +36,5 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 253<i>l</i>–1 of this title; title 42 section 7274n.
+This section is referred to in sections 253<i>l</i>–1, 253<i>l</i>–2 of this title; title 42 section 7274n.
 

@@ -8,7 +8,7 @@ If any one of the transfers, trusts, interests, rights, or powers enumerated and
 
 #### (1) In general
 
-&emsp;For purposes of this chapter, a relinquishment or promised relinquishment of dower or curtesy, or of a statutory estate created inlieu of dower or curtesy, or of other marital rights in the decedent's property or estate, shall not be considered to any extent a consideration “in money or money's worth”.
+&emsp;For purposes of this chapter, a relinquishment or promised relinquishment of dower or curtesy, or of a statutory estate created in lieu of dower or curtesy, or of other marital rights in the decedent's property or estate, shall not be considered to any extent a consideration “in money or money's worth”.
 
 #### (2) Exception
 

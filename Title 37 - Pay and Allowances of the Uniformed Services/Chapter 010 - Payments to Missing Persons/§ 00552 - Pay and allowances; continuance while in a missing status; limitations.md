@@ -78,7 +78,7 @@ In subsection (e), the words “A member in a missing status” are substituted 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–106, §569(c)(2)(A), substituted “for all purposes” for “for all purposes, eventhough the Secretary concerned determines under section 556(b) of this title that the member died before the promotion was made”.
+1996—Subsec. (a). Pub. L. 104–106, §569(c)(2)(A), substituted “for all purposes” for “for all purposes, even though the Secretary concerned determines under section 556(b) of this title that the member died before the promotion was made”.
 
 Subsec. (b)(2). Pub. L. 104–106, §569(c)(2)(B), inserted “or under chapter 76 of title 10” before period at end.
 

@@ -8,7 +8,7 @@ Except as otherwise provided in this section, any amount actually distributed to
 
 #### (1) Contributions
 
-&emsp;Contributions to an employees’ trust made by an employer during a taxable year of theemployer which ends with or within a taxable year of the trust for which the trust is not exempt from tax under section 501(a) shall be included in the gross income of the employee in accordance with section 83 (relating to property transferred in connection with performance of services), except that the value of the employee's interest in the trust shall be substituted for the fair market value of the property for purposes of applying such section.
+&emsp;Contributions to an employees’ trust made by an employer during a taxable year of the employer which ends with or within a taxable year of the trust for which the trust is not exempt from tax under section 501(a) shall be included in the gross income of the employee in accordance with section 83 (relating to property transferred in connection with performance of services), except that the value of the employee's interest in the trust shall be substituted for the fair market value of the property for purposes of applying such section.
 
 #### (2) Distributions
 
@@ -146,173 +146,9 @@ Except as otherwise provided in this section, any amount actually distributed to
 
 &emsp;If any distribution attributable to an employee is paid to the spouse of the employee after the employee's death, the preceding provisions of this subsection shall apply to such distribution in the same manner as if the spouse were the employee; except that a trust or plan described in clause (iii) or (iv) of paragraph (8)(B) shall not be treated as an eligible retirement plan with respect to such distribution.
 
-#### (10) Denial of averaging for subsequent distributions
+#### (d) Taxability of beneficiary of certain foreign situs trusts
 
-&emsp;If paragraph (1) applies to any distribution paid to any employee, paragraphs (1) and (3) of subsection (d) shall not apply to any distribution (paid after such distribution) of the balance to the credit of the employee under the plan under which the preceding distribution was made (or under any other plan which, under subsection (d)(4)(C), would be aggregated with such plan).
-
-#### (d) Tax on lump sum distributions
-
-#### (1) Imposition of separate tax on lump sum distributions
-
-#### (A) Separate tax
-
-&emsp;&emsp;There is hereby imposed a tax (in the amount determined under subparagraph (B)) on a lump sum distribution.
-
-#### (B) Amount of tax
-
-&emsp;&emsp;The amount of tax imposed by subparagraph (A) for any taxable year is an amount equal to 5 times the tax which would be imposed by subsection (c) of section 1 if the recipient were an individual referred to in such subsection and the taxable income were an amount equal to 1/5 of the excess of—
-
-&emsp;&emsp;&emsp;(i) the total taxable amount of the lump sum distribution for the taxable year, over
-
-&emsp;&emsp;&emsp;(ii) the minimum distribution allowance.
-
-#### (C) Minimum distribution allowance
-
-&emsp;&emsp;For purposes of this paragraph, the minimum distribution allowance for any taxable year is an amount equal to—
-
-&emsp;&emsp;&emsp;(i) the lesser of $10,000 or one-half of the total taxable amount of the lump sum distribution for the taxable year, reduced (but not below zero) by
-
-&emsp;&emsp;&emsp;(ii) 20 percent of the amount (if any) by which such total taxable amount exceeds $20,000.
-
-#### (D) Liability for tax
-
-&emsp;&emsp;The recipient shall be liable for the tax imposed by this paragraph.
-
-#### (2) Distributions of annuity contracts
-
-#### (A) In general
-
-&emsp;&emsp;In the case of any recipient of a lump sum distribution for any taxable year, if the distribution (or any part thereof) is an annuity contract, the total taxable amount of the distribution shall be aggregated for purposes of computing the tax imposed by paragraph (1)(A), except that the amount of tax so computed shall be reduced (but not below zero) by that portion of the tax on the aggregate total taxable amount which is attributable to annuity contracts.
-
-#### (B) Beneficiaries
-
-&emsp;&emsp;For purposes of this paragraph, a beneficiary of a trust to which a lump sum distribution is made shall be treated as the recipient of such distribution if the beneficiary is an employee (including an employee within the meaning of section 401(c)(1)) with respect to the plan under which the distribution is made or if the beneficiary is treated as the owner of such trust for purposes of subpart E of part I of subchapter J.
-
-#### (C) Annuity contracts
-
-&emsp;&emsp;For purposes of this paragraph, in the case of the distribution of an annuity contract, the taxable amount of such distribution shall be deemed to be the current actuarial value of the contract, determined on the date of such distribution.
-
-#### (D) Trusts
-
-&emsp;&emsp;In the case of a lump sum distribution with respect to any individual which is made only to 2 or more trusts, the tax imposed by paragraph (1)(A) shall be computed as if such distribution was made to a single trust, but the liability for such tax shall be apportioned among such trusts according to the relative amounts received by each.
-
-#### (E) Regulations
-
-&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this paragraph.
-
-#### (3) Allowance of deduction
-
-&emsp;The total taxable amount of a lump sum distribution for any taxable year shall be allowed as a deduction from gross income for such taxable year, but only to the extent included in the taxpayer's gross income for such taxable year.
-
-#### (4) Definitions and special rules
-
-#### (A) Lump sum distribution
-
-&emsp;&emsp;For purposes of this section and section 403, the term “lump sum distribution” means the distribution or payment within 1 taxable year of the recipient of the balance to the credit of an employee which becomes payable to the recipient—
-
-&emsp;&emsp;&emsp;(i) on account of the employee's death,
-
-&emsp;&emsp;&emsp;(ii) after the employee attains age 591/2,
-
-&emsp;&emsp;&emsp;(iii) on account of the employee's separation from the service, or
-
-&emsp;&emsp;&emsp;(iv) after the employee has become disabled (within the meaning of section 72(m)(7)),
-
-> &emsp;&emsp;from a trust which forms a part of a plan described in section 401(a) and which is exempt from tax under section 501 or from a plan described in section 403(a). Clause (iii) of this subparagraph shall be applied only with respect to an individual who is an employee without regard to section 401(c)(1), and clause (iv) shall be applied only with respect to an employee within the meaning of section 401(c)(1). A distribution of an annuity contract from a trust or annuity plan referred to in the first sentence of this subparagraph shall be treated as a lump sum distribution. For purposes of this subparagraph, a distribution to 2 or more trusts shall be treated as a distribution to 1 recipient. For purposes of this subsection, the balance to the credit of the employee does not include the accumulated deductible employee contributions under the plan (within the meaning of section 72(<i>o</i>)(5)).
-
-#### (B) Averaging to apply to 1 lump sum distribution after age 591/2
-
-&emsp;&emsp;Paragraph (1) shall apply to a lump sum distribution with respect to an employee under subparagraph (A) only if—
-
-&emsp;&emsp;&emsp;(i) such amount is received on or after the date on which the employee has attained age 591/2, and
-
-&emsp;&emsp;&emsp;(ii) the taxpayer elects for the taxable year to have all such amounts received during such taxable year so treated.
-
-> &emsp;&emsp;Not more than 1 election may be made under this subparagraph by any taxpayer with respect to any employee. No election may be made under this subparagraph by any taxpayer other than an individual, an estate, or a trust. In the case of a lump sum distribution made with respect to an employee to 2 or more trusts, the election under this subparagraph shall be made by the personal representative of the taxpayer.
-
-#### (C) Aggregation of certain trusts and plans
-
-&emsp;&emsp;For purposes of determining the balance to the credit of an employee under subparagraph (A)—
-
-&emsp;&emsp;&emsp;(i) all trusts which are part of a plan shall be treated as a single trust, all pension plans maintained by the employer shall be treated as a single plan, all profit-sharing plans maintained by the employer shall be treated as a single plan, and all stock bonus plans maintained by the employer shall be treated as a single plan, and
-
-&emsp;&emsp;&emsp;(ii) trusts which are not qualified trusts under section 401(a) and annuity contracts which do not satisfy the requirements of section 404(a)(2) shall not be taken into account.
-
-#### (D) Total taxable amount
-
-&emsp;&emsp;For purposes of this section and section 403, the term “total taxable amount” means, with respect to a lump sum distribution, the amount of such distribution which exceeds the sum of—
-
-&emsp;&emsp;&emsp;(i) the amounts considered contributed by the employee (determined by applying section 72(f)), reduced by any amounts previously distributed which were not includible in gross income, and
-
-&emsp;&emsp;&emsp;(ii) the net unrealized appreciation attributable to that part of the distributionwhich consists of the securities of the employer corporation so distributed.
-
-#### (E) Community property laws
-
-&emsp;&emsp;The provisions of this subsection, other than paragraph (3), shall be applied without regard to community property laws.
-
-#### (F) Minimum period of service
-
-&emsp;&emsp;For purposes of this subsection, no amount distributed to an employee from or under a plan may be treated as a lump sum distribution under subparagraph (A) unless the employee has been a participant in the plan for 5 or more taxable years before the taxable year in which such amounts are distributed.
-
-#### (G) Amounts subject to penalty
-
-&emsp;&emsp;This subsection shall not apply to amounts described in subparagraph (A) of section 72(m)(5) to the extent that section 72(m)(5) applies to such amounts.
-
-#### (H) Balance to credit of employee not to include amounts payable under qualified domestic relations order
-
-&emsp;&emsp;For purposes of this subsection, the balance to the credit of an employee shall not include any amount payable to an alternate payee under a qualified domestic relations order (within the meaning of section 414(p)).
-
-#### (I) Transfers to cost-of-living arrangement not treated as distribution
-
-&emsp;&emsp;For purposes of this subsection, the balance to the credit of an employee under a defined contribution plan shall not include any amount transferred from such defined contribution plan to a qualified cost-of-living arrangement (within the meaning of section 415(k)(2)) under a defined benefit plan.
-
-#### (J) Lump sum distributions of alternate payees
-
-&emsp;&emsp;If any distribution or payment of the balance to the credit of an employee would be treated as a lump sum distribution, then, for purposes of this subsection, the payment under a qualified domestic relations order (within the meaning of section 414(p)) of the balance to the credit of an alternate payee who is the spouse or former spouse of the employee shall be treated as a lump sum distribution. For purposes of this subparagraph, the balance to the credit of the alternate payee shall not include any amount payable to the employee.
-
-#### (K) Treatment of portion not rolled over
-
-&emsp;&emsp;If any portion of a lump sum distribution is transferred in a transfer to which subsection (c) applies, paragraphs (1) and (3) shall not apply with respect to the distribution.
-
-#### (L) Securities
-
-&emsp;&emsp;For purposes of this subsection, the terms “securities” and “securities of the employer corporation” have the respective meanings provided by subsection (e)(4)(E).
-
-#### (5) Special rule where portions of lump sum distribution attributable to rollover of bond purchased under qualified bond purchase plan
-
-&emsp;If any portion of a lump sum distribution is attributable to a transfer described in section 405(d)(3)(A)(ii) (as in effect before its repeal by the Tax Reform Act of 1984), paragraphs (1) and (3) of this subsection shall not apply to such portion.
-
-#### (6) Treatment of potential future vesting
-
-#### (A) In general
-
-&emsp;&emsp;For purposes of determining whether any distribution which becomes payable to the recipient on account of the employee's separation from service is a lump sum distribution, the balance to the credit of the employee shall be determined without regard to any increase in vesting which may occur if the employee is reemployed by the employer.
-
-#### (B) Recapture in certain cases
-
-&emsp;&emsp;If—
-
-&emsp;&emsp;&emsp;(i) an amount is treated as a lump sum distribution by reason of subparagraph (A),
-
-&emsp;&emsp;&emsp;(ii) special lump sum treatment applies to such distribution,
-
-&emsp;&emsp;&emsp;(iii) the employee is subsequently reemployed by the employer, and
-
-&emsp;&emsp;&emsp;(iv) as a result of services performed after being so reemployed, there is an increase in the employee's vesting for benefits accrued before the separation referred to in subparagraph (A),
-
-> &emsp;&emsp;under regulations prescribed by the Secretary, the tax imposed by this chapter for the taxable year (in which the increase in vesting first occurs) shall be increased by the reduction in tax which resulted from the special lump sum treatment (and any election under paragraph (4)(B) shall not be taken into account for purposes of determining whether the employee may make another election under paragraph (4)(B)).
-
-#### (C) Special lump sum treatment
-
-&emsp;&emsp;For purposes of this paragraph, special lump sum treatment applies to any distribution if any portion of such distribution is taxed under the subsection by reason of an election under paragraph (4)(B).
-
-#### (D) Vesting
-
-&emsp;&emsp;For purposes of this paragraph, the term “vesting” means the portion of the accrued benefits derived from employer contributions to which the participant has a nonforfeitable right.
-
-#### (7) Coordination with foreign tax credit limitations
-
-&emsp;Subsections (a), (b), and (c) of section 904 shall be applied separately with respect to any lump sum distribution on which tax is imposed under paragraph (1), and the amount of such distribution shall be treated as the taxable income for purposes of such separate application.
+For purposes of subsections (a), (b), and (c), a stock bonus, pension, or profit-sharing trust which would qualify for exemption from tax under section 501(a) except for the fact that it is a trust created or organized outside the United States shall be treated as if it were a trust exempt from tax under section 501(a).
 
 #### (e) Other rules applicable to exempt trusts
 
@@ -320,7 +156,7 @@ Except as otherwise provided in this section, any amount actually distributed to
 
 #### (A) Alternate payee treated as distributee
 
-&emsp;&emsp;For purposes of subsection (a) and section 72, an alternate payee who is the spouse or former spouse of the participant shall be treated as the distributee of any distributionor payment made to the alternate payee under a qualified domestic relations order (as defined in section 414(p)).
+&emsp;&emsp;For purposes of subsection (a) and section 72, an alternate payee who is the spouse or former spouse of the participant shall be treated as the distributee of any distribution or payment made to the alternate payee under a qualified domestic relations order (as defined in section 414(p)).
 
 #### (B) Rollovers
 
@@ -354,9 +190,51 @@ Except as otherwise provided in this section, any amount actually distributed to
 
 &emsp;&emsp;For purposes of subparagraphs (A) and (B), net unrealized appreciation and the resulting adjustments to basis shall be determined in accordance with regulations prescribed by the Secretary.
 
-#### (D) Lump sum distribution
+#### (D) Lump-sum distribution
 
-&emsp;&emsp;For purposes of this paragraph, the term “lump sum distribution” has the meaning given such term by subsection (d)(4)(A) (without regard to subsection (d)(4)(F)).
+&emsp;&emsp;For purposes of this paragraph—
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “lump-sum distribution” means the distribution or payment within one taxable year of the recipient of the balance to the credit of an employee which becomes payable to the recipient—
+
+&emsp;&emsp;&emsp;&emsp;(I) on account of the employee's death,
+
+&emsp;&emsp;&emsp;&emsp;(II) after the employee attains age 591/2,
+
+&emsp;&emsp;&emsp;&emsp;(III) on account of the employee's separation from service, or
+
+&emsp;&emsp;&emsp;&emsp;(IV) after the employee has become disabled (within the meaning of section 72(m)(7)),
+
+&emsp;&emsp;from a trust which forms a part of a plan described in section 401(a) and which is exempt from tax under section 501 or from a plan described in section 403(a). Subclause (III) of this clause shall be applied only with respect to an individual who is an employee without regard to section 401(c)(1), and subclause (IV) shall be applied only with respect to an employee within the meaning of section 401(c)(1). For purposes of this clause, a distribution to two or more trusts shall be treated as a distribution to one recipient. For purposes of this paragraph, the balance to the credit of the employee does not include the accumulated deductible employee contributions under the plan (within the meaning of section 72(<i>o</i>)(5)).
+
+#### (ii) Aggregation of certain trusts and plans
+
+&emsp;&emsp;&emsp;For purposes of determining the balance to the credit of an employee under clause (i)—
+
+&emsp;&emsp;&emsp;&emsp;(I) all trusts which are part of a plan shall be treated as a single trust, all pension plans maintained by the employer shall be treated as a single plan, all profit-sharing plans maintained by the employer shall be treated as a single plan, and all stock bonus plans maintained by the employer shall be treated as a single plan, and
+
+&emsp;&emsp;&emsp;&emsp;(II) trusts which are not qualified trusts under section 401(a) and annuity contracts which do not satisfy the requirements of section 404(a)(2) shall not be taken into account.
+
+#### (iii) Community property laws
+
+&emsp;&emsp;&emsp;The provisions of this paragraph shall be applied without regard to community property laws.
+
+#### (iv) Amounts subject to penalty
+
+&emsp;&emsp;&emsp;This paragraph shall not apply to amounts described in subparagraph (A) of section 72(m)(5) to the extent that section 72(m)(5) applies to such amounts.
+
+#### (v) Balance to credit of employee not to include amounts payable under qualified domestic relations order
+
+&emsp;&emsp;&emsp;For purposes of this paragraph, the balance to the credit of an employee shall not include any amount payable to an alternate payee under a qualified domestic relations order (within the meaning of section 414(p)).
+
+#### (vi) Transfers to cost-of-living arrangement not treated as distribution
+
+&emsp;&emsp;&emsp;For purposes of this paragraph, the balance to the credit of an employee under a defined contribution plan shall not include any amount transferred from such defined contribution plan to a qualified cost-of-living arrangement (within the meaning of section 415(k)(2)) under a defined benefit plan.
+
+#### (vii) Lump-sum distributions of alternate payees
+
+&emsp;&emsp;&emsp;If any distribution or payment of the balance to the credit of an employee would be treated as a lump-sum distribution, then, for purposes of this paragraph, the payment under a qualified domestic relations order (within the meaning of section 414(p)) of the balance to the credit of an alternate payee who is the spouse or former spouse of the employee shall be treated as a lump-sum distribution. For purposes of this clause, the balance to the credit of the alternate payee shall not include any amount payable to the employee.
 
 #### (E) Definitions relating to securities
 
@@ -370,13 +248,11 @@ Except as otherwise provided in this section, any amount actually distributed to
 
 &emsp;&emsp;&emsp;The term “securities of the employer corporation” includes securities of a parent or subsidiary corporation (as defined in subsections (e) and (f) of section 424) of the employer corporation.
 
-#### (5) Taxability of beneficiary of certain foreign situs trusts
-
-&emsp;For purposes of subsections (a), (b), and (c), a stock bonus, pension, or profit-sharing trust which would qualify for exemption from tax under section 501(a) except for the fact that it is a trust created or organized outside the United States shall be treated as if it were a trust exempt from tax under section 501(a).
+#### \[(5) Repealed. Pub. L. 104–188, title I, §1401(b)(13), Aug. 20, 1996, 110 Stat. 1789\]
 
 #### (6) Direct trustee-to-trustee transfers
 
-&emsp;Any amount transferred in a direct trustee-to-trustee transfer in accordance with section 401(a)(31) shall not be includible in gross income for the taxable year of such transfer.
+&emsp;Any amount transferred in a direct trustee-to-trustee transfer in accordance with section401(a)(31) shall not be includible in gross income for the taxable year of such transfer.
 
 #### (f) Written explanation to recipients of distributions eligible for rollover treatment
 
@@ -460,7 +336,7 @@ Except as otherwise provided in this section, any amount actually distributed to
 
 #### (5) Cost-of-living adjustment
 
-&emsp;The Secretary shall adjust the $7,000 amount under paragraph (1) at the same time and in the same manner as under section 415(d); except that any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
+&emsp;The Secretary shall adjust the $7,000 amount under paragraph (1) at the same time and inthe same manner as under section 415(d); except that any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
 
 #### (6) Disregard of community property laws
 
@@ -524,7 +400,7 @@ For purposes of this chapter—
 
 #### (i) Treatment of self-employed individuals
 
-For purposes of this section, except as otherwise provided in subparagraph (A) of subsection (d)(4), the term “employee” includes a self-employed individual (as defined in section 401(c)(1)(B)) and the employer of such individual shall be the person treated as his employer under section 401(c)(4).
+For purposes of this section, except as otherwise provided in subparagraph (A) of subsection (d)(4),<sup>1</sup> the term “employee” includes a self-employed individual (as defined in section 401(c)(1)(B)) and the employer of such individual shall be the person treated as his employer under section 401(c)(4).
 
 #### (j) Effect of disposition of stock by plan on net unrealized appreciation
 
@@ -546,71 +422,9 @@ Rules similar to the rules of paragraphs (1) and (3) of subsection (h) shall app
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 135; Pub. L. 86–437, §§1, 2(a), Apr. 22, 1960, 74 Stat. 79; Pub. L. 87–792, §4(c), Oct. 10, 1962, 76 Stat. 825; Pub. L. 88–272, title II, §§221(c)(1), 232(e)(1)–(3), Feb. 26, 1964, 78 Stat. 75, 111; Pub. L. 91–172, title III, §321(b)(1), title V, §515(a)(1), Dec. 30, 1969, 83 Stat. 590, 643; Pub. L. 93–406, title II, §§2002(g)(5), 2005(a), (b)(1), (c)(1), (2), Sept. 2, 1974, 88 Stat. 968, 987, 990, 991: Pub. L. 94–267, §1(a), Apr. 15, 1976, 90 Stat. 365; Pub. L. 94–455, title XIV, §1402(b)(1)(C), (2), title XV, §1512(a), title XIX, §§1901(a)(57)(A)–(C)(i), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1731, 1732, 1742, 1773, 1774, 1834; Pub. L. 95–30, title I, §102(b)(4), May 23, 1977, 91 Stat. 137; Pub. L. 95–458, §4(a), (c), Oct. 14, 1978, 92 Stat. 1257, 1259; Pub. L. 95–600, title I, §§101(d)(1), 135(b), 157(f)(1), (g)(1), (h)(1), Nov. 6, 1978, 92 Stat. 2770, 2787, 2806–2808; Pub. L. 96–222, title I, §101(a)(14)(C), (E)(i), Apr. 1, 1980, 94 Stat. 204, 205; Pub. L. 96–608, §2(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title III, §§311(b)(2), (3)(A), (c), 314(c)(1), Aug. 13, 1981, 95 Stat. 280, 286; Pub. L. 97–448, title I, §§101(b), 103(c)(7), (8)(A), (12)(D), Jan. 12, 1983, 96 Stat. 2366, 2376, 2377; Pub. L. 98–369, div. A, title IV, §491(c)(2), (d)(9)–(11), title V, §522(a)(1), (b)–(d)(8), title VII, §713(c)(3), title X, §1001(b)(3), (e), July 18, 1984, 98 Stat. 848, 849, 868–870, 957, 1011, 1012; Pub. L. 98–397, title II, §§204(c)(1), (3), (4), 207(a), Aug. 23, 1984, 98 Stat. 1448, 1449; Pub. L. 99–272, title XI, §11012(c), Apr. 7, 1986, 100 Stat. 260; Pub. L. 99–514, title I, §104(b)(5), title XI, §§1105(a), 1106(c)(2), 1108(b), 1112(c), 1121(c)(1), 1122(a), (b)(1)(A), (2), (e)(1), (2)(A), (g), title XVIII, §§1852(a)(5)(A), (b)(1)–(7), (c)(5), 1854(f)(2), 1875(c)(1)(A), 1898(a)(2), (3), (c)(1)(A), (7)(A)(i), (e), Oct. 22, 1986, 100 Stat. 2105, 2417, 2423, 2432, 2444, 2465, 2466, 2469, 2470, 2865–2867, 2881, 2894, 2942, 2943, 2951, 2954, 2955; Pub. L. 100–647, title I, §§1011(c)(1)–(6)(B), (11), (h)(4), 1011A(a)(1), (b)(4)(A)–(D), (5)–(8), (10), (c)(9), 1018(t)(8)(A), (C), (u)(1), (6), (7), title VI, §6068(a), Nov. 10, 1988, 102 Stat. 3457–3459, 3464, 3472–3474, 3476, 3589, 3590, 3703; Pub. L. 101–239, title VII, §7811(g)(2), (i)(13), Dec. 19, 1989, 103 Stat. 2409, 2411; Pub. L. 101–508, title XI, §11801(c)(9)(I), Nov. 5, 1990, 104 Stat. 1388–526; Pub. L. 102–318, title V, §§521(a), (b)(9)–(11), 522(c)(1), July 3, 1992, 106 Stat. 300, 310, 311, 315; Pub. L. 103–465, title VII, §732(c), Dec. 8, 1994, 108 Stat. 5005; Pub. L. 104–188, title I, §§1401(a)–(b)(2), (13), 1421(b)(3)(A), (9)(B), 1450(a)(2), 1704(t)(68), Aug. 20, 1996, 110 Stat. 1787–1789, 1796, 1798, 1814, 1891; Pub. L. 105–34, title XV, §1501(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 105–206, title VI, §6005(c)(2)(A), July 22, 1998, 112 Stat. 800.)
 
-#### Amendment of Section
-
-<i>Pub. L. 104–188, title I, §1401(a)–(b)(2), (13), (c), Aug. 20, 1996, 110 Stat. 1787–1789, provided that, applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, this section is amended as follows:</i>
-
-<i>(1) Subsection (c) is amended by striking par. (10).</i>
-
-<i>(2) Subsection (d) is amended to read as follows:</i>
-
-#### (d) Taxability of beneficiary of certain foreign situs trusts
-
-For purposes of subsections (a), (b), and (c), a stock bonus, pension, or profit-sharing trust which would qualify for exemption from tax under section 501(a) except for the fact that it is a trust created or organized outside the United States shall be treated as if it were a trust exempt from tax under section 501(a).
-
-<i>(3) Subsection (e)(4)(D) is amended to read as follows:</i>
-
-#### (D) Lump-sum distribution
-
-For purposes of this paragraph—
-
-#### (i) In general
-
-&emsp;The term “lump-sum distribution” means the distribution or payment within one taxable year of the recipient of the balance to the credit of an employee which becomes payable to the recipient—
-
-&emsp;&emsp;(I) on account of the employee's death,
-
-&emsp;&emsp;(II) after the employee attains age 591/2,
-
-&emsp;&emsp;(III) on account of the employee's separation from service, or
-
-&emsp;&emsp;(IV) after the employee has become disabled (within the meaning of section 72(m)(7)),
-
-> &emsp;from a trust which forms a part of a plan described in section 401(a) and which is exempt from tax under section 501 or from a plan described in section 403(a). Subclause (III) of this clause shall be applied only with respect to an individual who is an employee without regard to section 401(c)(1), and subclause (IV) shall be applied only with respect to an employee within the meaning of section 401(c)(1). For purposes of this clause, a distribution to two or more trusts shall be treated as a distribution to one recipient. For purposes of this paragraph, the balance to the credit of the employee does not include the accumulated deductible employee contributions under the plan (within the meaning of section 72(<i>o</i>)(5)).
-
-#### (ii) Aggregation of certain trusts and plans
-
-&emsp;For purposes of determining the balance to the credit of an employee under clause (i)—
-
-&emsp;&emsp;(I) all trusts which are part of a plan shall be treated as a single trust, all pension plans maintained by the employer shall be treated as a single plan, all profit-sharing plans maintained by the employer shall be treated as a single plan, and all stock bonus plans maintained by the employer shall be treated as a single plan, and
-
-&emsp;&emsp;(II) trusts which are not qualified trusts under section 401(a) and annuity contracts which do not satisfy the requirements of section 404(a)(2) shall not be taken into account.
-
-#### (iii) Community property laws
-
-&emsp;The provisions of this paragraph shall be applied without regard to community property laws.
-
-#### (iv) Amounts subject to penalty
-
-&emsp;This paragraph shall not apply to amounts described in subparagraph (A) of section 72(m)(5) to the extent that section 72(m)(5) applies to such amounts.
-
-#### (v) Balance to credit of employee not to include amounts payable under qualified domestic relations order
-
-&emsp;For purposes of this paragraph, the balance to the credit of an employee shall not include anyamount payable to an alternate payee under a qualified domestic relations order (within the meaning of section 414(p)).
-
-#### (vi) Transfers to cost-of-living arrangement not treated as distribution
-
-&emsp;For purposes of this paragraph, the balance to the credit of an employee under a defined contribution plan shall not include any amount transferred from such defined contribution plan to a qualified cost-of-living arrangement (within the meaning of section 415(k)(2)) under a defined benefit plan.
-
-#### (vii) Lump-sum distributions of alternate payees
-
-&emsp;If any distribution or payment of the balance to the credit of an employee would be treated as a lump-sum distribution, then, for purposes of this paragraph, the payment under a qualified domestic relations order (within the meaning of section 414(p)) of the balance to the credit of an alternate payee who is the spouse or former spouse of the employee shall be treated as a lump-sum distribution. For purposes of this clause, the balance to the credit of the alternate payee shall not include any amount payable to the employee.
-
-<i>(4) Subsection (e) is amended by striking par. (5).</i>
-
 #### References in Text
 
-Section 405(d)(3)(A)(ii) (as in effect before its repeal by the Tax Reform Act of 1984), referred to in subsec. (d)(5), means section 405(d)(3)(A)(ii) of this title prior to repeal by section 491(a) of Pub. L. 98–369. For text of section 405(d)(3)(A)(ii), see note set out under section 405 of this title.
+Subsection (d), referred to in subsec. (i), was amended generally by Pub. L. 104–188, title I, §1401(a), Aug. 20, 1996, 110 Stat. 1787, and as so amended, no longer contains a par. (4).
 
 The civil service retirement laws, referred to in subsec. (e)(2), are classified generally to subchapter III (§8331 et seq.) of chapter 83 of Title 5, Government Organization and Employees.
 
@@ -620,7 +434,27 @@ The civil service retirement laws, referred to in subsec. (e)(2), are classified
 
 1997—Subsec. (g)(9). Pub. L. 105–34 added par. (9).
 
-1996—Subsec. (e)(3). Pub. L. 104–188, §1450(a)(2), inserted “or which is part of a salary reduction agreement under section 403(b)” after “section 401(k)(2))”.
+1996—Subsec. (c)(10). Pub. L. 104–188, §1401(b)(2), struck out par. (10) which read as follows:
+
+“(10)
+
+Denial of averaging for subsequent distributions.—If paragraph (1) applies to any distribution paid to any employee, paragraphs (1) and (3) of subsection (d) shall not apply to any distribution (paid after such distribution) of the balance to the credit of the employee under the plan under which the preceding distribution was made (or under any other plan which, under subsection (d)(4)(C), would be aggregated with such plan).”
+
+Subsec. (d). Pub. L. 104–188, §1401(a), amended subsec. (d) generally, substituting provisions relating to taxability of beneficiary of certain foreign situs trusts for former provisions relating to tax on lump sum distributions.
+
+Subsec. (e)(3). Pub. L. 104–188, §1450(a)(2), inserted “or which is part of a salary reduction agreement under section 403(b)” after “section 401(k)(2))”.
+
+Subsec. (e)(4)(D). Pub. L. 104–188, §1401(b)(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows:
+
+“(D)
+
+Lump sum distribution.—For purposes of this paragraph, the term ‘lump sum distribution’ has the meaning given such term by subsection (d)(4)(A) (without regard to subsection (d)(4)(F)).”
+
+Subsec. (e)(5). Pub. L. 104–188, §1401(b)(13), struck out par. (5) which read as follows:
+
+“(5)
+
+Taxability of beneficiary of certain foreign situs trusts.—For purposes of subsections (a), (b), and (c), a stock bonus, pension, or profit-sharing trust which would qualify for exemption from tax under section 501(a) except for the fact that it is a trust created or organized outside the United States shall be treated as if it were a trust exempt from tax under section 501(a).”
 
 Subsec. (g)(3)(A). Pub. L. 104–188, §1704(t)(68), substituted “subsection (e)(3)” for “subsection (a)(8)”.
 
@@ -810,7 +644,7 @@ Subsec. (e)(4)(B). Pub. L. 99–514, §1122(a)(1), amended subpar. (B) generally
 
 Subsec. (e)(4)(E). Pub. L. 99–514, §1122(b)(2)(D), struck out subpar. (E) defining “ordinary income portion” with respect to a lump sum distribution.
 
-Subsec. (e)(4)(F). Pub. L. 99–514, §1852(b)(3)(B), struck out subpar. (F) defining “employee”. See subsec. (g) of this section relating to treatment of self-employed individuals.
+Subsec. (e)(4)(F). Pub. L. 99–514, §1852(b)(3)(B), struck out subpar. (F) defining “employee”. See subsec. (g) ofthis section relating to treatment of self-employed individuals.
 
 Subsec. (e)(4)(H). Pub. L. 99–514, §1122(b)(2)(E), struck out “(but not for purposes of subsection (a)(2) or section 403(a)(2)(A))” after “For purposes of this subsection”.
 
@@ -860,7 +694,7 @@ Subsec. (a)(5)(F)(ii). Pub. L. 98–369, §522(d)(5), substituted “subparagrap
 
 Pub. L. 98–369, §491(d)(11), substituted “(III) or (IV)” for “(IV) and (V)”.
 
-Pub. L. 98–369, §713(c)(3), substituted “Key employees” for “Self-employed individuals and owner-employees” in heading and “attributable to contributions made on behalf of the employee while he was a key employee in a top-heavy plan” for “attributable to a trust forming part of a plan under which the employee was an employee within the meaning of section 401(c)(1) atthe time contributions were made on his behalf under the plan” in text, and inserted sentence adopting the meaning of “key employee” and “top-heavy plan” used in section 416.
+Pub. L. 98–369, §713(c)(3), substituted “Key employees” for “Self-employed individuals and owner-employees” in heading and “attributable to contributions made on behalf of the employee while he was a key employee in a top-heavy plan” for “attributable to a trust forming part of a plan under which the employee was an employee within the meaning of section 401(c)(1) at the time contributions were made on his behalf under the plan” in text, and inserted sentence adopting the meaning of “key employee” and “top-heavy plan” used in section 416.
 
 Subsec. (a)(6)(A), (B). Pub. L. 98–369, §522(d)(6), substituted “paragraph (5)(E)(i)” for “paragraph (5)(D)(i)”.
 
@@ -904,7 +738,7 @@ Subsec. (a)(6)(E). Pub. L. 96–608 added subpar. (E).
 
 Subsec. (a)(7)(A)(i). Pub. L. 96–222, §101(a)(14)(C), substituted “qualifying rollover distribution attributable to an employee is paid to the spouse of the employee after” for “lump-sum distribution from a qualified trust is paid to the spouse of the employee on account of”.
 
-1978—Subsec. (a)(5). Pub. L. 95–458, §4(a), among other changes, substituted provision permitting tax-free treatment for any portion of a lump sum distribution from a qualified retirement plan which is deposited in an individual retirement account or another qualifying plan for provision which required transfer of all such property received.
+1978—Subsec. (a)(5). Pub. L. 95–458, §4(a), among other changes, substituted provision permitting tax-free treatment for any portion of a lump sum distributionfrom a qualified retirement plan which is deposited in an individual retirement account or another qualifying plan for provision which required transfer of all such property received.
 
 Subsec. (a)(5)(D)(i)(II). Pub. L. 95–600, §157(h)(1), substituted “subparagraphs (B) and (H) of subsection (e)(4)” for “subsection (e)(4)(B)”.
 
@@ -958,7 +792,7 @@ Subsec. (e). Pub. L. 93–406, §2005(a), substituted provisions covering tax on
 
 1969—Subsec. (a)(5). Pub. L. 91–172, §515(a)(1), added par. (5).
 
-Subsec. (b). Pub. L. 91–172, §321(b)(1), substituted provision for inclusion of contributions made by an employer to a nonexempt trust in the “gross income ofthe employee in accordance with section 83 (relating to property transferred in connection with performance of services), except that the value of the employee's interest in the trust shall be substituted for the fair market value of the property for purposes of applying such section” for prior provision for inclusion in the “gross income of an employee for the taxable year in which the contribution is made to the trust in the case of an employee whose beneficial interest in such contribution is nonforfeitable at the time the contribution is made”, and provided that distributions of income of such trust before the annuity starting date (as defined in section 72(c)(4)) shall be included in the gross income of the employee without regard to section 72(e)(1) (relating to amount not received as annuities) and that a beneficiary of any such trust shall not be considered the owner of any portion of such trust under subpart E of part I of subch. J (relating to grantors and others treated as substantial owners).
+Subsec. (b). Pub. L. 91–172, §321(b)(1), substituted provision for inclusion of contributions made by an employer to a nonexempt trust in the “gross income of the employee in accordance with section 83 (relating to property transferred in connection with performance of services), except that the value of the employee's interest in the trust shall be substituted for the fair market value of the property for purposes of applying such section” for prior provision for inclusion in the “gross income of an employee for the taxable year in which the contribution is made to the trust in the case of an employee whose beneficial interest in such contribution is nonforfeitable at the time the contribution is made”, and provided that distributions of income of such trust before the annuity starting date (as defined in section 72(c)(4)) shall be included in the gross income of the employee without regard to section 72(e)(1) (relating to amount not received as annuities) and that a beneficiary of any such trust shall not be considered the owner of any portion of such trust under subpart E of part I of subch. J (relating to grantors and others treated as substantial owners).
 
 1964—Subsec. (a)(1). Pub. L. 88–272, §232(e)(1), struck out “except that section 72(e)(3) shall not apply” after “(relating to annuities)”.
 
@@ -994,7 +828,7 @@ Retention of certain transition rules.—The amendments made by this section sha
 
 Amendment by section 1421(b)(3)(A), (9)(B) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
 
-Amendment by section 1450(a)(2) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1450(a)(3) of Pub. L. 104–188, set out in a Modifications of Subsection (b) of This Section note under section 403 of this title.
+Amendment by section 1450(a)(2) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995,see section 1450(a)(3) of Pub. L. 104–188, set out in a Modifications of Subsection (b) of This Section note under section 403 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -1164,7 +998,7 @@ Lump sum distributions to which paragraph applies.—This paragraph shall apply 
 
 “(5)
 
-Election of 10-year averaging.—An employee who has attained age 50 before January 1, 1986, and elects the application of paragraph (3) or section402(e)(1) of the Internal Revenue Code of 1986 (as amended by this Act) may elect to have such section applied by substituting ‘10 times’ for ‘5 times’ and ‘1/10’ for ‘1/5’ in subparagraph (B) thereof. For purposes of the preceding sentence, section 402(e)(1) of such Code shall be applied by using the rate of tax in effect under section 1 of the Internal Revenue Code of 1954 for taxable years beginning during 1986 and by including in gross income the zero bracket amount in effect under section 63(d) of such Code for such years. This paragraph shall also apply to an individual, estate, or trust which receives a distribution with respect to an employee described in this paragraph.
+Election of 10-year averaging.—An employee who has attained age 50 before January 1, 1986, and elects the application of paragraph (3) or section 402(e)(1) of the Internal Revenue Code of 1986 (as amended by this Act) may elect to have such section applied by substituting ‘10 times’ for ‘5 times’ and ‘1/10’ for ‘1/5’ in subparagraph (B) thereof. For purposes of the preceding sentence, section 402(e)(1) of such Code shall be applied by using the rate of tax in effect under section 1 of the Internal Revenue Code of 1954 for taxable years beginning during 1986 and by including in gross income the zero bracket amount in effect under section 63(d) of such Code for such years. This paragraph shall also apply to an individual, estate, or trust which receives a distribution with respect to an employee described in this paragraph.
 
 “(6)
 
@@ -1190,7 +1024,7 @@ Amendment by section 1852(a)(5)(A), (b)(1)–(7), (c)(5) of Pub. L. 99–514 eff
 
 Section 1854(f)(4)(C) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1011(c)(6)(C), Nov. 10, 1988, 102 Stat. 3458, provided that: “The amendments made by paragraph (2) \[amending this section\] shall apply to any transaction occurring after December 31, 1984, except that in the case of any transaction occurring before the date of the enactment of this Act \[Oct. 22, 1986\], the period under which proceeds are required to be invested under section 402(j) of the Internal Revenue Code of 1954 \[now 1986\] (as added by paragraph (2)) shall not end before the earlier of 1 year after the date of such transaction or 180 days after the date of the enactment of this Act.”
 
-Section 1875(c)(1)(B) of Pub. L. 99–514 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 1986\]. Such amendments shall apply also to distributions after 1983 and on or before the date of the enactment of this Act to individuals who are not 5-percent owners (as defined in section 402(a)(5)(F)(ii) of the Internal Revenue Code of 1954 \[now 1986\] (as amended by this paragraph)).”
+Section 1875(c)(1)(B) of Pub. L. 99–514 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 1986\]. Such amendments shall apply also to distributions after 1983and on or before the date of the enactment of this Act to individuals who are not 5-percent owners (as defined in section 402(a)(5)(F)(ii) of the Internal Revenue Code of 1954 \[now 1986\] (as amended by this paragraph)).”
 
 Amendment by section 1898(a)(2), (3), (c)(7)(A)(i), (e) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L. 98–397, to which such amendment relates, except as otherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of this title.
 
@@ -1392,7 +1226,7 @@ Refund or Credit of Overpayment Barred by Statute of Limitations.—Notwithstand
 
 #### Transitional Rule in Case of Rollover Contributions to Employee Trusts or Annuities
 
-Section 157(h)(3)(B) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §101(a)(14)(A), (D), Apr. 1, 1980, 94Stat. 204, 205; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of any payment made during 1978 which is described in section 402(a)(5)(A) or 403(a)(4)(A) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] by reason of the amendments made by this subsection \[amending sections 402 and 408 of this title\], the applicable period specified in section 402(a)(5)(C) of such Code (or in the case of an individual retirement annuity, such section as made applicable by section 403(a)(4)(B) of such code) shall not expire before the close of December 31, 1980.”
+Section 157(h)(3)(B) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §101(a)(14)(A), (D), Apr. 1, 1980, 94 Stat. 204, 205; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of any payment made during 1978 which is described in section 402(a)(5)(A) or 403(a)(4)(A) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] by reason of the amendments made by this subsection \[amending sections 402 and 408 of this title\], the applicable period specified in section 402(a)(5)(C) of such Code (or in the case of an individual retirement annuity, such section as made applicable by section 403(a)(4)(B) of such code) shall not expire before the close of December 31, 1980.”
 
 #### Transitional Rules Relating to Period for Rollover Contribution
 
@@ -1416,7 +1250,7 @@ General rule.—If the initial portion of a payment the applicable period for wh
 
 &emsp;&emsp;&emsp;“(ii)
 
-Regulations.—For purposes of this subparagraph, the tax imposed on a payment by chapter 1 of the Internal Revenue Code of 1986, and the date a credit or refund is allowed by the Secretary of the Treasury or his delegate under section 6402 with respect to a contribution, shall be determined under regulations prescribed by the Secretary of the Treasury or his delegate.
+Regulations.—For purposes of this subparagraph, the tax imposed on a payment by chapter 1 of the Internal Revenue Code of 1986,and the date a credit or refund is allowed by the Secretary of the Treasury or his delegate under section 6402 with respect to a contribution, shall be determined under regulations prescribed by the Secretary of the Treasury or his delegate.
 
 &emsp;&emsp;“(C)
 
@@ -1436,5 +1270,7 @@ Nonrecognition of gain or loss.—For purposes of the Internal Revenue Code of 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 55, 62, 72, 219, 401, 403, 404, 406, 407, 408, 411, 414, 415, 457, 501, 691, 871, 911, 3121, 3306, 3401, 3405, 4972, 4973, 6048, 6051, 6652, 7701 of this title; title 4 section 114; title 5 sections 8334, 8433, 8440; title 29 sections 1053, 1107; title 38 section 4318; title 42 section 409.
+This section is referred to in sections 72, 219, 401, 403, 404, 408, 411, 414, 415, 457, 501, 871, 911, 3121, 3306, 3401, 3405, 4972, 4973, 6048, 6051, 6652, 7701 of this title; title 4 section 114; title 5 sections 8334, 8433, 8440; title 29 sections 1053, 1107; title 38 section 4318; title 42 section 409.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -162,7 +162,7 @@ Except as provided in subsection (h), this section applies to a plan if, for any
 
 #### (B) Election with respect to bonds
 
-&emsp;&emsp;The value of a bond or other evidence of indebtedness which is not in default as to principal or interest may, at the election of the plan administrator, be determined on anamortized basis running from initial cost at purchase to par value at maturity or earliest call date. Any election under this subparagraph shall be made at such time and in such manner as the Secretary shall by regulations provide, shall apply to all such evidences of indebtedness, and may be revoked only with the consent of the Secretary. In the case of a plan other than a multiemployer plan, this subparagraph shall not apply, but the Secretary may by regulations provide that the value of any dedicated bond portfolio of such plan shall be determined by using the interest rate under subsection (b)(5).
+&emsp;&emsp;The value of a bond or other evidence of indebtedness which is not in default as toprincipal or interest may, at the election of the plan administrator, be determined on an amortized basis running from initial cost at purchase to par value at maturity or earliest call date. Any election under this subparagraph shall be made at such time and in such manner as the Secretary shall by regulations provide, shall apply to all such evidences of indebtedness, and may be revoked only with the consent of the Secretary. In the case of a plan other than a multiemployer plan, this subparagraph shall not apply, but the Secretary may by regulations provide that the value of any dedicated bond portfolio of such plan shall be determined by using the interest rate under subsection (b)(5).
 
 #### (3) Actuarial assumptions must be reasonable
 

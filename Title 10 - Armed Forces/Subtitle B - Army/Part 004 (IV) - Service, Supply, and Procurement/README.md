@@ -9,7 +9,7 @@
 | [<b>439.</b>](Chapter%20439%20-%20Sale%20of%20Serviceable%20Material/README.md) | <b>Sale of Serviceable Material</b> | <b>4621</b> |
 | [<b>441.</b>](Chapter%20441%20-%20Issue%20of%20Serviceable%20Material%20Other%20Than%20to%20Armed%20Forces/README.md) | <b>Issue of Serviceable Material Other Than to Armed Forces</b> | <b>4651</b> |
 | [<b>443.</b>](Chapter%20443%20-%20Disposal%20of%20Obsolete%20or%20Surplus%20Material/README.md) | <b>Disposal of Obsolete or Surplus Material</b> | <b>4681</b> |
-| [<b>445.</b>](Chapter%20445%20-%20Inquests%3B%20Disposition%20of%20Effects%20of%20Deceased%20Persons%3B%20Captured%20Flags/README.md) | <b>Inquests; Disposition of Effects of Deceased Persons; Captured Flags</b> | <b>4711</b> |
+| [<b>445.</b>](Chapter%20445%20-%20Disposition%20of%20Effects%20of%20Deceased%20Persons%3B%20Captured%20Flags/README.md) | <b>Disposition of Effects of Deceased Persons; Captured Flags</b> | <b>4712</b> |
 | [<b>447.</b>](Chapter%20447%20-%20Transportation/README.md) | <b>Transportation</b> | <b>4741</b> |
 | [<b>449.</b>](Chapter%20449%20-%20Real%20Property/README.md) | <b>Real Property</b> | <b>4771</b> |
 | [<b>451.</b>](Chapter%20451%20-%20Military%20Claims/README.md) | <b>Military Claims</b> | <b>4801</b> |
@@ -18,6 +18,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title VII, §721(c)(7), Oct. 5, 1999, 113 Stat. 695, substituted “Disposition” for “Inquests; Disposition” and “4712” for “4711” in item for chapter 445.
 
 1993—Pub. L. 103–160, div. A, title VIII, §828(b)(2), Nov. 30, 1993, 107 Stat. 1714, struck out item for chapter 431 “Industrial Mobilization, Research, and Development”.
 
@@ -37,7 +39,7 @@ General military law provisions, see section 2202 et seq. of this title.
 - [Chapter 439 - Sale of Serviceable Material](Chapter%20439%20-%20Sale%20of%20Serviceable%20Material/README.md)
 - [Chapter 441 - Issue of Serviceable Material Other Than to Armed Forces](Chapter%20441%20-%20Issue%20of%20Serviceable%20Material%20Other%20Than%20to%20Armed%20Forces/README.md)
 - [Chapter 443 - Disposal of Obsolete or Surplus Material](Chapter%20443%20-%20Disposal%20of%20Obsolete%20or%20Surplus%20Material/README.md)
-- [Chapter 445 - Inquests; Disposition of Effects of Deceased Persons; Captured Flags](Chapter%20445%20-%20Inquests%3B%20Disposition%20of%20Effects%20of%20Deceased%20Persons%3B%20Captured%20Flags/README.md)
+- [Chapter 445 - Disposition of Effects of Deceased Persons; Captured Flags](Chapter%20445%20-%20Disposition%20of%20Effects%20of%20Deceased%20Persons%3B%20Captured%20Flags/README.md)
 - [Chapter 447 - Transportation](Chapter%20447%20-%20Transportation/README.md)
 - [Chapter 449 - Real Property](Chapter%20449%20-%20Real%20Property/README.md)
 - [Chapter 451 - Military Claims](Chapter%20451%20-%20Military%20Claims/README.md)

@@ -30,7 +30,7 @@ Funds made available under this chapter may be used for procurement outside the 
 
 #### (e) Revocation and suspension provisions of contracts for sale and export licenses; appropriations for refunds
 
-(1) Each contract for sale entered into under sections 2761, 2762, 2769 and 2770 of this title, and each contract entered into under section 2767(d) of this title, shall provide that such contract may be canceled in whole or in part, or its execution suspended, by the United States at any time under unusual or compelling circumstances if the national interest so requires.
+(1) Each contract for sale entered into under sections 2761, 2762, 2769 and 2770 of this title, and each contract entered into under section 2767(d) of this title, shall provide that such contract may be canceled in whole or in part, or its execution suspended, by the United States at anytime under unusual or compelling circumstances if the national interest so requires.
 
 (2)(A) Each export license issued under section 2778 of this title shall provide that such license may be revoked, suspended, or amended by the Secretary of State, without prior notice, whenever the Secretary deems such action to be advisable.
 
@@ -42,7 +42,7 @@ Funds made available under this chapter may be used for procurement outside the 
 
 The President shall, to the maximum extent possible and consistent with the purposes of this chapter, use civilian contract personnel in any foreign country to perform defense services sold under this chapter.
 
-(Pub. L. 90–629, ch. 4, §42, Oct. 22, 1968, 82 Stat. 1326; Pub. L. 92–226, pt. IV, §401(e), (f), Feb. 7, 1972, 86 Stat. 33; Pub. L. 94–141, title I, §150(b), Nov. 29, 1975, 89 Stat. 760; Pub. L. 94–329, title II, §213, title VI, §605(b), June 30, 1976, 90 Stat. 745, 768; Pub. L. 96–533, title I, §105(e)(3), Dec. 16, 1980, 94 Stat. 3135; Pub. L. 97–392, §2, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 99–83, title I, §115(b)(3), Aug. 8, 1985, 99 Stat. 201; Pub. L. 99–145, title XI, §1102(a)(4), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–661, div. A, title XIII, §1342(e), Nov. 14, 1986,100 Stat. 3991; Pub. L. 103–236, title VII, §714(a)(2), Apr. 30, 1994, 108 Stat. 497; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(3), Oct. 21, 1998, 112 Stat. 2681–773.)
+(Pub. L. 90–629, ch. 4, §42, Oct. 22, 1968, 82 Stat. 1326; Pub. L. 92–226, pt. IV, §401(e), (f), Feb. 7, 1972, 86 Stat. 33; Pub. L. 94–141, title I, §150(b), Nov. 29, 1975, 89 Stat. 760; Pub. L. 94–329, title II, §213, title VI, §605(b), June 30, 1976, 90 Stat. 745, 768; Pub. L. 96–533, title I, §105(e)(3), Dec. 16, 1980, 94 Stat. 3135; Pub. L. 97–392, §2, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 99–83, title I, §115(b)(3), Aug. 8, 1985, 99 Stat. 201; Pub. L. 99–145, title XI, §1102(a)(4), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–661, div. A, title XIII, §1342(e), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 103–236, title VII, §714(a)(2), Apr. 30, 1994, 108 Stat. 497; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(3), Oct. 21, 1998, 112 Stat. 2681–773.)
 
 #### Amendments
 
@@ -72,7 +72,7 @@ Subsecs. (b) to (d). Pub. L. 92–226, §401(f)(2), added subsec. (b) and redesi
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
 
 #### Effective Date of 1985 Amendment
 

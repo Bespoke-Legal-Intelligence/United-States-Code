@@ -1,6 +1,6 @@
 ### §1063. Opposition to registration
 
-(a) Any person who believes that he would be damaged by the registration of a mark upon the principal register may, upon payment of the prescribed fee, file an opposition in the Patent and Trademark Office, stating the grounds therefor, within thirty days after the publication under subsection (a) of section 1062 of this title of the mark sought to be registered. Upon written request prior to the expiration of the thirty-day period, the time for filing opposition shall be extended for an additional thirty days, and further extensions of time for filing opposition may be granted by the Commissioner for good cause when requested prior to the expiration of an extension. The Commissioner shall notify the applicant of each extension of the time for filing opposition. An opposition may be amended under such conditions as may be prescribed by the Commissioner.
+(a) Any person who believes that he would be damaged by the registration of a mark upon the principal register, including as a result of dilution under section 1125(c) of this title, may, upon payment of the prescribed fee, file an opposition in the Patent and Trademark Office, stating the grounds therefor, within thirty days after the publication under subsection (a) of section 1062 of this title of the mark sought to be registered. Upon written request prior to the expiration of the thirty-day period, the time for filing opposition shall be extended for an additional thirty days, and further extensions of time for filing opposition may be granted by the Director for good cause when requested prior to the expiration of an extension. The Director shall notify the applicant of each extension of the time for filing opposition. An opposition may be amended under such conditions as may be prescribed by the Director.
 
 (b) Unless registration is successfully opposed—
 
@@ -8,13 +8,17 @@
 
 &emsp;(2) a notice of allowance shall be issued to the applicant if the applicant applied for registration under section 1051(b) of this title.
 
-(July 5, 1946, ch. 540, title I, §13, 60 Stat. 433; Pub. L. 87–772, §8, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–600, §1, Jan. 2, 1975, 88 Stat. 1955; Pub. L. 97–247, §9(a), Aug. 27, 1982, 96 Stat. 320; Pub. L. 100–667, title I, §114, Nov. 16, 1988, 102 Stat. 3940.)
+(July 5, 1946, ch. 540, title I, §13, 60 Stat. 433; Pub. L. 87–772, §8, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–600, §1, Jan. 2, 1975, 88 Stat. 1955; Pub. L. 97–247, §9(a), Aug. 27, 1982, 96 Stat. 320; Pub. L. 100–667, title I, §114, Nov. 16, 1988, 102 Stat. 3940; Pub. L. 106–43, §2(b), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
 #### Prior Provisions
 
 Acts Feb. 20, 1905, ch. 592, §§6, 7, 33 Stat. 726; Mar. 2, 1907, ch. 2573, §2, 34 Stat. 1252.
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
+
+Pub. L. 106–43 inserted “, including as a result of dilution under section 1125(c) of this title,” after “principal register” in first sentence.
 
 1988—Pub. L. 100–667 designated existing provisions as subsec. (a), substituted “prescribed fee” for “required fee”, and added subsec. (b).
 
@@ -25,6 +29,12 @@ Acts Feb. 20, 1905, ch. 592, §§6, 7, 33 Stat. 726; Mar. 2, 1907, ch. 2573, §2
 Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
 1962—Pub. L. 87–772 inserted “An opposition may be amended under such conditions as may be prescribed by the Commissioner”, and struck out “notice of” after “file a verified” and “time for filing”.
+
+#### Effective Date of 1999 Amendments
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+
+Amendment by Pub. L. 106–43 effective Aug. 5, 1999, and applicable only to any application for registration filed on or after Jan. 16, 1996, see section 2(e) of Pub. L. 106–43, set out as a note under section 1052 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -54,5 +64,5 @@ Supplemental register, section inapplicable to trademarks on, see section 1094 o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1051, 1094 of this title.
+This section is referred to in sections 1051, 1052, 1094 of this title.
 

@@ -38,6 +38,8 @@ Historical and Revision Notes
 
 36:90g.
 
+&nbsp;
+
 In this section, the text of 36:90g is omitted as executed and obsolete.
 
 In clause (1), the words “not inconsistent with the laws of the United States or any State” are omitted as unnecessary.

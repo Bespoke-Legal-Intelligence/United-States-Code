@@ -2,7 +2,7 @@
 
 #### (a) Revolving fund; establishment within House contingent fund
 
-Effective at the beginning of the Ninety-eighth Congress and until otherwise provided by law, there is established a revolving fund within the contingent fund of the House of Representatives for the page residence hall and the page meal plan.
+Effective at the beginning of the Ninety-eighth Congress and until otherwise provided bylaw, there is established a revolving fund within the contingent fund of the House of Representatives for the page residence hall and the page meal plan.
 
 #### (b) Deposits in revolving fund; disbursements by Chief Administrative Officer of House
 

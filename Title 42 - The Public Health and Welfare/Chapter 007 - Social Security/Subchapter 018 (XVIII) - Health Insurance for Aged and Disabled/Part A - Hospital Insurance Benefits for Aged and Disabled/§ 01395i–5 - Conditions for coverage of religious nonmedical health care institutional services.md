@@ -88,7 +88,7 @@ Subject to subsections (c) and (d) of this section, payment under this part may 
 
 #### (D) Prohibition of administrative and judicial review
 
-&emsp;&emsp;There shall be no administrative or judicial review under section 1395ff of this title, 1395<i>oo</i> of this title, or otherwise of the estimation of expenditures under subparagraph (A) or the application of reduction amounts under subparagraph (B).
+&emsp;&emsp;There shall be no administrative or judicial review under section 1395ff of this title,1395<i>oo</i> of this title, or otherwise of the estimation of expenditures under subparagraph (A) or the application of reduction amounts under subparagraph (B).
 
 #### (E) Effect on billing
 
@@ -104,7 +104,7 @@ Subject to subsections (c) and (d) of this section, payment under this part may 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the Secretary determines that such level for a fiscal year exceeded, or was less than, the trigger level for that fiscal year, then, subject to clause (ii), the trigger level for the succeeding fiscal year shall bereduced, or increased, respectively, by the amount of such excess or deficit.
+&emsp;&emsp;&emsp;If the Secretary determines that such level for a fiscal year exceeded, or was less than, the trigger level for that fiscal year, then, subject to clause (ii), the trigger level for the succeeding fiscal year shall be reduced, or increased, respectively, by the amount of such excess or deficit.
 
 #### (ii) Limitation on carryforward
 

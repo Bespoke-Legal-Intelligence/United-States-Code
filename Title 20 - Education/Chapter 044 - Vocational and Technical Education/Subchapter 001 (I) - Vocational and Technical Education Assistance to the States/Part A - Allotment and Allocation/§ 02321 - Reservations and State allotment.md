@@ -32,7 +32,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law and subject to subparagraphs (B) and (C), and paragraph (4), no State shall receive for a fiscal year under this subsection lessthan 1/2 of 1 percent of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for such fiscal year. Amounts necessary for increasing such payments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.
+&emsp;&emsp;Notwithstanding any other provision of law and subject to subparagraphs (B) and (C), and paragraph (4), no State shall receive for a fiscal year under this subsection less than 1/2 of 1 percent of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for such fiscal year. Amounts necessary for increasing such payments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.
 
 #### (B) Requirement
 
@@ -68,7 +68,7 @@
 
 #### (b) Reallotment
 
-If the Secretary determines that any amount of any State's allotment under subsection (a) of this section for any fiscal year will not be required for such fiscal year for carrying out the activities for which such amount has been allotted, the Secretary shall make such amount available for reallotment. Any such reallotment among other States shall occur on such dates during the same year as the Secretary shall fix, and shall be made on the basis of criteria established by regulation. No funds may be reallotted for any use other than the use for which the funds were appropriated. Any amount reallotted to a State under this subsection for any fiscal year shall remain available for obligation during the succeeding fiscal year and shall be deemed to be part of the State's allotment for the year in which the amount is obligated.
+If the Secretary determines that any amount of any State's allotment under subsection (a) ofthis section for any fiscal year will not be required for such fiscal year for carrying out the activities for which such amount has been allotted, the Secretary shall make such amount available for reallotment. Any such reallotment among other States shall occur on such dates during the same year as the Secretary shall fix, and shall be made on the basis of criteria established by regulation. No funds may be reallotted for any use other than the use for which the funds were appropriated. Any amount reallotted to a State under this subsection for any fiscal year shall remain available for obligation during the succeeding fiscal year and shall be deemed to be part of the State's allotment for the year in which the amount is obligated.
 
 #### (c) Allotment ratio
 
@@ -104,7 +104,7 @@ For the purpose of this section, the term “State” means each of the several 
 
 #### References in Text
 
-Section 101 and part A of title I of the Carl D. Perkins Vocational and Applied Technology Education Act, as such section and part were in effect on the day before October 31, 1998, referred to in subsec. (a)(3)(B), (C),\(4)(A), means section 101 and part A of title I of Pub. L. 88–210, as added by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2438, as amended, which were classified, respectively, to section 2311 of this title and part A (§2311 et seq.) of subchapter I of this chapter prior to the general amendment of this chapter by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
+Section 101 and part A of title I of the Carl D. Perkins Vocational and Applied Technology Education Act, as such section and part were in effect on the day before October 31, 1998, referred to in subsec. (a)(3)(B), (C), (4)(A), means section 101 and part A of title I of Pub. L. 88–210, as added by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2438, as amended, which were classified, respectively, to section 2311 of this title and part A (§2311 et seq.) of subchapter I of this chapter prior to the general amendment of this chapter by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
 
 #### Prior Provisions
 

@@ -40,7 +40,7 @@
 
 #### (A) Number
 
-&emsp;&emsp;A cooperative agreement entered into under paragraph (1) shall specify the number of students that the Department will hosteach year and a list of work assignments to be provided for the students.
+&emsp;&emsp;A cooperative agreement entered into under paragraph (1) shall specify the number of students that the Department will host each year and a list of work assignments to be provided for the students.
 
 #### (B) Selection
 

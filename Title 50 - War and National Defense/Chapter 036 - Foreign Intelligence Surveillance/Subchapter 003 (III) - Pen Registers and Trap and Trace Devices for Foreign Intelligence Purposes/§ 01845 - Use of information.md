@@ -4,7 +4,7 @@
 
 (1) Information acquired from the use of a pen register or trap and trace device installed pursuant to this subchapter concerning any United States person may be used and disclosed by Federal officers and employees without the consent of the United States person only in accordance with the provisions of this section.
 
-(2) No information acquired from a pen register or trap and trace device installed and usedpursuant to this subchapter may be used or disclosed by Federal officers or employees except for lawful purposes.
+(2) No information acquired from a pen register or trap and trace device installed and used pursuant to this subchapter may be used or disclosed by Federal officers or employees except for lawful purposes.
 
 #### (b) Disclosure for law enforcement purposes
 
@@ -42,7 +42,7 @@ Whenever any State or political subdivision thereof intends to enter into eviden
 
 #### (h) Binding final orders
 
-Orders granting motions or requests under subsection (g) of this section, decisions under this section that the use of a pen register or trap and trace device was not lawfully authorized orconducted, and orders of the United States district court requiring review or granting disclosure of applications, orders, or other materials relating to the installation and use of a pen register or trap and trace device shall be final orders and binding upon all courts of the United States and the several States except a United States Court of Appeals or the Supreme Court.
+Orders granting motions or requests under subsection (g) of this section, decisions under this section that the use of a pen register or trap and trace device was not lawfully authorized or conducted, and orders of the United States district court requiring review or granting disclosure of applications, orders, or other materials relating to the installation and use of a pen register or trap and trace device shall be final orders and binding upon all courts of the United States and the several States except a United States Court of Appeals or the Supreme Court.
 
 (Pub. L. 95–511, title IV, §405, as added Pub. L. 105–272, title VI, §601(2), Oct. 20, 1998, 112 Stat. 2408.)
 

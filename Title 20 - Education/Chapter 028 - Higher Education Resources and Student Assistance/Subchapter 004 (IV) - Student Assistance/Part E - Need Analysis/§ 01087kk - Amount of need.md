@@ -32,7 +32,7 @@ and Thereafter.—The amendments made by sections 472, 473, 474, and 475 \[amend
 
 #### Effective Date of 1992 Amendment
 
-Section 471(b) of Pub. L. 102–325 provided that: “The changes made in part F of title IV of the Act \[this part\] by the amendment made by this section \[amending sections 1087kk to 1087vv of this title\] shall apply with respect to determinations of need under such part F for award years beginning on or after July 1, 1993.”
+Section 471(b) of Pub. L. 102–325 provided that: “The changes made in part F of title IV of the Act \[this part\]by the amendment made by this section \[amending sections 1087kk to 1087vv of this title\] shall apply with respect to determinations of need under such part F for award years beginning on or after July 1, 1993.”
 
 #### Effective Date
 
@@ -44,7 +44,7 @@ Section 406(b)(1)–(3) of Pub. L. 99–498, as amended by Pub. L. 100–50, §2
 
 &emsp;“(B) for any preceding academic year, determinations of need shall be made in accordance with regulations prescribed by the Secretary of Education in accordance with the Student Financial Assistance Technical Amendments Act of 1982 \[Pub. L. 97–301, see Short Title of 1982 Amendment note set out under section 1001 of this title\].
 
-“(2) With respect to an application filed after the date of enactment of this Act \[Oct. 17, 1986\] for a loan under part B of such title \[part B of this subchapter\] for any academic year preceding academic year 1988–1989, any determination of expected family contribution shall be made using the system of financial need analysis approved by the Secretary of Education for use under subpart 2 of part A and parts C and E ofsuch title \[subpart 2 of part A of this subchapter and part C of subchapter I of chapter 34 of Title 42, The Public Health and Welfare, and part D of this subchapter\].
+“(2) With respect to an application filed after the date of enactment of this Act \[Oct. 17, 1986\] for a loan under part B of such title \[part B of this subchapter\] for any academic year preceding academic year 1988–1989, any determination of expected family contribution shall be made using the system of financial need analysis approved by the Secretary of Education for use under subpart 2 of part A and parts C and E of such title \[subpart 2 of part A of this subchapter and part C of subchapter I of chapter 34 of Title 42, The Public Health and Welfare, and part D of this subchapter\].
 
 “(3) For purposes of sections 413D(d)(2)(B) \[now 413D(c)(2)(B)\], 442(d)(2)(B) and 462(d)(2)(B) \[20 U.S.C. 1070b–3(c)(2)(B), 42 U.S.C. 2752(d)(2)(B), 20 U.S.C. 1087bb(d)(2)(B)\] for any academic year preceding academic year 1988–1989, the Secretary shall, in lieu of average expected family contribution, use the procedures for sampling expected family contribution within income categories that was employed for academic year 1986–1987, adjusted to reflect changes in data.
 

@@ -6,7 +6,7 @@ The tax imposed by section 2101 shall be credited with the amounts determined in
 
 #### (b) Special limitation
 
-The maximum credit allowed under section 2011 against the tax imposed by section 2101 for State death taxes paid shall be an amount which bears the same ratio to the credit computed as provided in section 2011(b) as the value of the property, as determined for purposes of this chapter, upon which State death taxes were paidand which is included in the gross estate under section 2103 bears to the value of the total gross estate under section 2103. For purposes of this subsection, the term “State death taxes” means the taxes described in section 2011(a).
+The maximum credit allowed under section 2011 against the tax imposed by section 2101 for State death taxes paid shall be an amount which bears the same ratio to the credit computed as provided in section 2011(b) as the value of the property, as determined for purposes of this chapter, upon which State death taxes were paid and which is included in the gross estate under section 2103 bears to the value of the total gross estate under section 2103. For purposes of this subsection, the term “State death taxes” means the taxes described in section 2011(a).
 
 #### (c) Unified credit
 

@@ -30,7 +30,7 @@ The national objectives of this chapter are—
 
 #### (4) Preference for tribal members and other Indian families
 
-&emsp;The Indian housing plan for an Indian tribe may require preference, for housing or housing assistance provided through affordable housing activities assisted with grant amounts provided under this chapter on behalf of such tribe, to be given (to the extent practicable) to Indian families who are members of such tribe, or to other Indian families. In any case in which the applicable Indian housing plan for an Indian tribe provides for preference under this paragraph, the recipient for the tribe shall ensure that housing activities that are assisted with grant amounts under this chapter for such tribe are subject to such preference.
+&emsp;The Indian housing plan for an Indian tribe may require preference, for housing or housing assistance provided through affordable housing activities assisted with grant amounts provided under this chapter on behalf of suchtribe, to be given (to the extent practicable) to Indian families who are members of such tribe, or to other Indian families. In any case in which the applicable Indian housing plan for an Indian tribe provides for preference under this paragraph, the recipient for the tribe shall ensure that housing activities that are assisted with grant amounts under this chapter for such tribe are subject to such preference.
 
 #### (5) Exemption
 

@@ -6,7 +6,7 @@
 
 (2) Paragraph (1) applies to any person who—
 
-&emsp;(A) is a present or former official of the United States, or a person who is acting or has acted for or on behalf of, or who is advising or has advised the United States with respect to, a Federal agency procurement; and
+&emsp;(A) is a present or former official of the United States, or a person who is acting or hasacted for or on behalf of, or who is advising or has advised the United States with respect to, a Federal agency procurement; and
 
 &emsp;(B) by virtue of that office, employment, or relationship has or had access to contractor bid or proposal information or source selection information.
 
@@ -38,7 +38,7 @@ A person shall not, other than as provided by law, knowingly obtain contractor b
 
 (1) A former official of a Federal agency may not accept compensation from a contractor as an employee, officer, director, or consultant of the contractor within a period of one year after such former official—
 
-&emsp;(A) served, at the time of selection of the contractor or the award of a contract to that contractor, as the procuring contracting officer, the source selection authority, a member of the source selection evaluation board, or the chief of a financial or technical evaluationteam in a procurement in which that contractor was selected for award of a contract in excess of $10,000,000;
+&emsp;(A) served, at the time of selection of the contractor or the award of a contract to that contractor, as the procuring contracting officer, the source selection authority, a member of the source selection evaluation board, or the chief of a financial or technical evaluation team in a procurement in which that contractor was selected for award of a contract in excess of $10,000,000;
 
 &emsp;(B) served as the program manager, deputy program manager, or administrative contracting officer for a contract in excess of $10,000,000 awarded to that contractor; or
 
@@ -138,7 +138,7 @@ As used in this section:
 
 &emsp;(5) The term “contracting officer” means a person who, by appointment in accordance with applicable regulations, has the authority to enter into a Federal agency procurement contract on behalf of the Government and to make determinations and findings with respect to such a contract.
 
-&emsp;(6) The term “protest” means a written objection by an interested party to the award or proposed award of a Federal agency procurement contract, pursuant to subchapter V of chapter 35 of title 31.
+&emsp;(6) The term “protest” means a written objection by an interested party to the award orproposed award of a Federal agency procurement contract, pursuant to subchapter V of chapter 35 of title 31.
 
 &emsp;(7) The term “official” means the following:
 
@@ -268,11 +268,11 @@ Section 815(b) of Pub. L. 101–510 provided that: “Not later than 30 days aft
 
 #### Suspension of Effect of Section
 
-Section 815(a)(1) of Pub. L. 101–510 provided that subsection (f) of this section shall have no force or effectduring the period beginning on Dec. 1, 1990, and ending on May 31, 1991.
+Section 815(a)(1) of Pub. L. 101–510 provided that subsection (f) of this section shall have no force or effect during the period beginning on Dec. 1, 1990, and ending on May 31, 1991.
 
 Pub. L. 101–194, title V, §507(1), Nov. 30, 1989, 103 Stat. 1759, provided that the provisions of this section shall have no force or effect during the period beginning Dec. 1, 1989, and ending one year after such date.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 15 section 657a; title 22 section 3861; title 43 section 1475a.
+This section is referred to in title 15 section 657a; title 22 section 3861; title 42 sections 1396a, 1396u–2; title 43 section 1475a.
 

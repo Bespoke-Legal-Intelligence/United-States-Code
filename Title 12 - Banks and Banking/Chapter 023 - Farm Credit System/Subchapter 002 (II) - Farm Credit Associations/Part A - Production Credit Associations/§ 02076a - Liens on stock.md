@@ -10,5 +10,5 @@ A prior section 2.6 of Pub. L. 92–181 was renumbered section 2.7 and is classi
 
 #### Effective Date
 
-Section effective Jan. 7, 1988, see section 1861(d) of Pub. L. 101–624, set out as an Effective Date of 1990Amendment note under section 2001 of Title 7, Agriculture.
+Section effective Jan. 7, 1988, see section 1861(d) of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 2001 of Title 7, Agriculture.
 

@@ -42,7 +42,7 @@ Act of September 23, 1950 (Public Law 815, 81st Congress), referred to in par. (
 
 The General Education Provisions Act, referred to in par. (3), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
-The Indian Education Act, referred to in par. (4), is Pub. L. 92–318, title IV, June 23, 1972, 86 Stat. 334, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 241aa of this title and Tables.
+The Indian Education Act, referred to in par. (4), is Pub. L. 92–318, title IV, June 23, 1972, 86 Stat. 334, asamended. For complete classification of this Act to the Code, see Short Title note set out under section 241aa of this title and Tables.
 
 The Education Amendments of 1978, referred to in par. (5), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Education Amendments of 1978 is classified principally to chapter 22 (§2001 et seq.) of Title 25, Indians. Title XIV of the Education Amendments of 1978 is known as the Defense Dependents Education Act of 1978 and is classified principally to chapter 25A (§921 et seq.) of this title. Title XV of the Education Amendments of 1978 enacted sections 1221j and 1226c–1 of this title, repealed sections 1901, 1921, 1941 to 1944, 1961 to 1966, and 1981 to 1983 of this title, and enacted provisions set out as a note under section 1231a of this title, provisions formerly set out as notes under sections 1123 and 2711 of this title, and provisions set out as a note under section 287 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of this title and Tables.
 
@@ -60,7 +60,7 @@ The Civil Rights Act of 1964, referred to in par. (11), is Pub. L. 88–352, Jul
 
 The Navajo Community College Act, referred to in par. (12), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 640a of Title 25 and Tables.
 
-The Tribally Controlled College or University Assistance Act of 1978, referred to in par. (12), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which isclassified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled College or University Assistance Act of 1978, referred to in par. (12), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in pars. (13) and (14), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Prior to the general amendment of that Act by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 140, part C of title IX of the Act was classified generally to part C (§3341 et seq.) of subchapter IX of chapter 47 of this title, and title VII of the Act, known as the Bilingual Education Act, was classified generally to subchapter VII (§3281 et seq.) of chapter 47 of this title.
 

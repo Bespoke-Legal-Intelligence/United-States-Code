@@ -2,7 +2,7 @@
 
 #### (a) Hospital facility agreements; reasonable costs of services
 
-(1) Any hospital (other than a hospital which has in effect a waiver under subparagraph (A) of the last sentence of section 1395x(e) of this title) which has an agreement under section 1395cc of this title may (subject to subsection (b) of this section) enter into an agreement with the Secretary under which its inpatient hospital facilities may be used for the furnishing of services of the type which, if furnished by a skilled nursing facility, would constitute extended care services.
+(1) Any hospital which has an agreement under section 1395cc of this title may (subject to subsection (b) of this section) enter into an agreement with the Secretary under which its inpatient hospital facilities may be used for the furnishing of services of the type which, if furnished by a skilled nursing facility, would constitute extended care services.
 
 (2)(A) Notwithstanding any other provision of this subchapter, payment to any hospital for services furnished under an agreement entered into under this section shall be based upon the reasonable cost of the services as determined under subparagraph (B).
 
@@ -18,29 +18,15 @@
 
 #### (b) Eligible facilities
 
-The Secretary may not enter into an agreement under this section with any hospital unless—
-
-&emsp;(1) except as provided under subsection (g) of this section, the hospital is located in a rural area and has less than 100 beds, and
-
-&emsp;(2) the hospital has been granted a certificate of need for the provision of long-term care services from the State health planning and development agency (designated under section 300m <sup>1</sup> of this title) for the State in which the hospital is located.
+The Secretary may not enter into an agreement under this section with any hospital unless, except as provided under subsection (g) of this section, the hospital is located in a rural area and has less than 100 beds.
 
 #### (c) Terms and conditions of facility agreements
 
-An agreement with a hospital under this section shall, except as otherwise provided under regulations of the Secretary, be of the same duration and subject to termination on the same conditions as are agreements with skilled nursing facilities under section 1395cc of this title and shall, where not inconsistent with any provision of this section, impose the same duties, responsibilities, conditions, and limitations, as those imposed under such agreements entered into under section 1395cc of this title; except that no such agreement with any hospital shall be in effect for any period during which the hospital does not have in effect an agreement under section 1395cc of this title, or during which there is in effect for the hospital a waiver under subparagraph (A) of the last sentence of section 1395x(e) of this title. A hospital with respect to which an agreement under this section has been terminated shall not be eligible to enter into a new agreement until a two-year period has elapsed from the termination date.
+An agreement with a hospital under this section shall, except as otherwise provided under regulations of the Secretary, be of the same duration and subject to termination on the same conditions as are agreements with skilled nursing facilities under section 1395cc of this title and shall, where not inconsistent with any provision of this section, impose the same duties, responsibilities, conditions, and limitations, as those imposed under such agreements entered into under section 1395cc of this title; except that no such agreement with any hospital shall be in effect for any period during which the hospital does not have in effect an agreement under section 1395cc of this title. A hospital with respect to which an agreement under this section has been terminated shall not be eligible to enter into a new agreement until a two-year period has elapsed from the termination date.
 
 #### (d) Post-hospital extended care services
 
-(1) Any agreement with a hospital under this section shall provide that payment for services will be made only for services for which payment would be made as post-hospital extended care services if those services had been furnished by a skilled nursing facility under an agreement entered into under section 1395cc of this title; and any individual who is furnished services, for which payment may be made under an agreement under this section, shall, for purposes of this subchapter (other than this section), be deemed to have received post-hospital extended care services in like manner and to the same extent as if the services furnished to him had been post-hospital extended care services furnished by a skilled nursing facility under an agreement under section 1395cc of this title.
-
-(2)(A) Any agreement under this section with a hospital with more than 49 beds shall provide that no payment may be made for extended care services which are furnished to an extended care patient after the end of the 5-day period (excluding weekends and holidays) beginning on an availability date for a skilled nursing facility, unless the patient's physician certifies, within such 5-day period, that the transfer of that patient to that facility is not medically appropriate on the availability date. The Secretary shall prescribe regulations to provide for notice by skilled nursing facilities of availability datesto hospitals which have agreements under this section and which are located within the same geographic region (as defined by the Secretary).
-
-(B) In this paragraph:
-
-&emsp;(i) The term “availability date” means, with respect to an extended care patient at a hospital, any date on which a bed is available for the patient in a skilled nursing facility located within the geographic region in which the hospital is located.
-
-&emsp;(ii) The term “extended care patient” means an individual being furnished extended care services at a hospital pursuant to an agreement with the Secretary under this section.
-
-(3) In the case of an agreement for a cost reporting period under this section with a hospital that has more than 49 beds, payment may not be made in the period for patient-days of extended care services that exceed 15 percent of the product of the number of days in the period and the average number of licensed beds in the hospital in the period, except that such payment shall continue to be made in the period for those patients who are receiving extended care services at the time the hospital reaches the limit specified in this paragraph.
+Any agreement with a hospital under this section shall provide that payment for services will be made only for services for which payment would be made as post-hospital extended care services if those services had been furnished by a skilled nursing facility under an agreement entered into under section 1395cc of this title; and any individual who is furnished services, for which payment may be made under an agreement under this section, shall, for purposes of this subchapter (other than this section), be deemed to have received post-hospital extended care services in like manner and to the same extent as if the services furnished to him had been post-hospital extended care services furnished by a skilled nursing facility under an agreement under section 1395cc of this title.
 
 #### (e) Reimbursement for routine hospital services
 
@@ -48,19 +34,27 @@ During a period for which a hospital has in effect an agreement under this secti
 
 #### (f) Conditions applicable to skilled nursing facilities
 
-A hospital which enters into an agreement with the Secretary under this section shall be required to meet those conditions applicable to skilled nursing facilities relating to discharge planning and the social services function (and staffing requirements to satisfy it) which are promulgated by the Secretary under section 1395i–3 of this title. Services furnished by such a hospital which would otherwise constitute post-hospital extended care services if furnished by a skilled nursing facility shall be subject to the same requirements applicable to such services when furnished by a skilled nursing facility except for those requirements the Secretary determines are inappropriate in the case of these services being furnished by a hospital under this section.
+A hospital which enters into an agreement with the Secretary under this section shall be required to meet those conditions applicable to skilled nursing facilities relating to discharge planning and the social services function (and staffing requirements to satisfy it) which are promulgated by the Secretary under section 1395i–3 of this title. Services furnished by such a hospital which would otherwise constitute post-hospital extended care services if furnished by a skilled nursing facility shall be subject to the same requirements applicable to such serviceswhen furnished by a skilled nursing facility except for those requirements the Secretary determines are inappropriate in the case of these services being furnished by a hospital under this section.
 
 #### (g) Agreements on demonstration basis
 
 The Secretary may enter into an agreement under this section on a demonstration basis with any hospital which does not meet the requirement of subsection (b)(1) of this section, if the hospital otherwise meets the requirements of this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1883, as added Pub. L. 96–499, title IX, §904(a)(1), Dec. 5, 1980, 94 Stat. 2615; amended Pub. L. 100–203, title IV, §§4005(b)(1), (2), 4201(d)(3), Dec. 22, 1987, 101 Stat. 1330–48, as amended Pub. L. 100–360, title IV, §411(<i>l</i>)(1)(C), July 1, 1988, as added Pub. L. 100–485, title VI, §608(d)(27)(B), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 100–360, title I, §104(d)(6), title IV, §411(b)(4)(D), July 1, 1988, 102 Stat. 689, 770; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–508, title IV, §4008(j)(1), Nov. 5, 1990, 104 Stat. 1388–51; Pub. L. 105–33, title IV, §4432(b)(5)(G), Aug. 5, 1997, 111 Stat. 422.)
-
-#### References in Text
-
-Section 300m of this title, referred to in subsec. (b)(2), was in the original a reference to section 1521 of act July 1, 1944, which was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799. Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 410, enacted section 1503 of act July 1, 1944, which is classified to section 300m of this title.
+(Aug. 14, 1935, ch. 531, title XVIII, §1883, as added Pub. L. 96–499, title IX, §904(a)(1), Dec. 5, 1980, 94 Stat. 2615; amended Pub. L. 100–203, title IV, §§4005(b)(1), (2), 4201(d)(3), Dec. 22, 1987, 101 Stat. 1330–48, as amended Pub. L. 100–360, title IV, §411(<i>l</i>)(1)(C), July 1, 1988, as added Pub. L. 100–485, title VI, §608(d)(27)(B), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 100–360, title I, §104(d)(6), title IV, §411(b)(4)(D), July 1, 1988, 102 Stat. 689, 770; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–508, title IV, §4008(j)(1), Nov. 5, 1990, 104 Stat. 1388–51; Pub. L. 105–33, title IV, §4432(b)(5)(G), Aug. 5, 1997, 111 Stat. 422; Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §§403(f), 408(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–371, 1501A–375.)
 
 #### Amendments
+
+1999—Subsec. (a)(1). Pub. L. 106–113, §1000(a)(6) \[title IV, §403(f)(1)\], struck out “(other than a hospital which has in effect a waiver under subparagraph (A) of the last sentence of section 1395x(e) of this title)” after “Any hospital”.
+
+Subsec. (b). Pub. L. 106–113, §1000(a)(6) \[title IV, §408(a)\], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary may not enter into an agreement under this section with any hospital unless—
+
+&emsp;“(1) except as provided under subsection (g) of this section, the hospital is located in a rural area and has less than 100 beds, and
+
+&emsp;“(2) the hospital has been granted a certificate of need for the provision of long-term care services from the State health planning and development agency (designated under section 300m of this title) for the State in which the hospital is located.”
+
+Subsec. (c). Pub. L. 106–113, §1000(a)(6) \[title IV, §403(f)(2)\], struck out “, or during which there is in effect for the hospital a waiver under subparagraph (A) of the last sentence of section 1395x(e) of this title” before the period at end of first sentence.
+
+Subsec. (d). Pub. L. 106–113, §1000(a)(6) \[title IV, §408(b)\], struck out “(1)” before “Any agreement with a hospital” and struck out pars. (2) and (3), which related to limiting payments under extended care service agreements pursuant to this section to hospitals with more than 49 beds where skilled nursing facilities were available or where such payments exceeded a designated maximum.
 
 1997—Subsec. (a)(2)(B)(ii)(II). Pub. L. 105–33 inserted “subsections (a) through (d) of” before “section 1395yy”.
 
@@ -82,9 +76,13 @@ Subsec. (d). Pub. L. 100–203, §4005(b)(2), designated existing provisions as 
 
 Subsec. (f). Pub. L. 100–203, §4201(d)(3), as added by Pub. L. 100–360, §411(<i>l</i>)(1)(C), and Pub. L. 100–485, §608(d)(27)(B), substituted “section 1395i–3” for “section 1395x(j)(15)”.
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §408(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–375, provided that: “The amendments made by this section \[amending this section\] take effect on the date that is the first day after the expiration of the transition period under section 1888(e)(2)(E) of the Social Security Act (42 U.S.C. 1395yy(e)(2)(E)) for payments for covered skilled nursing facility services under the medicare program.”
+
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 applicable to items and services furnished on or after July 1, 1998, see section4432(d) of Pub. L. 105–33, set out as a note under section 1395i–3 of this title.
+Amendment by Pub. L. 105–33 applicable to items and services furnished on or after July 1, 1998, see section 4432(d) of Pub. L. 105–33, set out as a note under section 1395i–3 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -130,7 +128,5 @@ Section 904(c) of Pub. L. 96–499 directed Secretary of Health and Human Servic
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395yy, 1396<i>l</i> of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 1395i–4, 1395yy, 1396<i>l</i> of this title.
 

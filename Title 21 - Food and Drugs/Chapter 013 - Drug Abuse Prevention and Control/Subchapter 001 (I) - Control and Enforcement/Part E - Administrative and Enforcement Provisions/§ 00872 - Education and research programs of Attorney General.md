@@ -34,7 +34,7 @@ The Attorney General, on his own motion or at the request of the Secretary, may 
 
 #### (f) Program to curtail diversion of precursor and essential chemicals
 
-The Attorney General shall maintain an active program, both domestic and international, to curtail the diversion of precursor chemicals and essential chemicals used in the illicit manufacture of controlled substances.
+The Attorney General shall maintain an active program, both domestic and international,to curtail the diversion of precursor chemicals and essential chemicals used in the illicit manufacture of controlled substances.
 
 (Pub. L. 91–513, title II, §502, Oct. 27, 1970, 84 Stat. 1271; Pub. L. 95–633, title I, §108(a), Nov. 10, 1978, 92 Stat. 3773; Pub. L. 100–690, title VI, §6060, Nov. 18, 1988, 102 Stat. 4320.)
 
@@ -66,7 +66,7 @@ Pub. L. 104–237, title II, §202, Oct. 3, 1996, 110 Stat. 3101, provided that:
 
 “(a)
 
-Study.—The Attorney General of the United States shall conduct a study on possible measures to effectively prevent the diversion of red phosphorous, iodine, hydrochloric gas, and other agents for use in the production of methamphetamine. Nothing in this section shall preclude the Attorney General from taking any action the Attorney General already is authorizedto take with regard to the regulation of listed chemicals under current law.
+Study.—The Attorney General of the United States shall conduct a study on possible measures to effectively prevent the diversion of red phosphorous, iodine, hydrochloric gas, and other agents for use in the production of methamphetamine. Nothing in this section shall preclude the Attorney General from taking any action the Attorney General already is authorized to take with regard to the regulation of listed chemicals under current law.
 
 “(b)
 

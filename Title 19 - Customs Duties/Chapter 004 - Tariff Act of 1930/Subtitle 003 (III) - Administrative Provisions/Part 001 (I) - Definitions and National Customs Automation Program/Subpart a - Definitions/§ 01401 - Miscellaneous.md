@@ -46,7 +46,7 @@ The term “customs waters” means, in the case of a foreign vessel subject to 
 
 The term “hovering vessel” means—
 
-&emsp;(1) any vessel which is found or kept off the coast of the United States within or without the customs waters, if, from the history, conduct, character, or location of the vessel, it is reasonable to believe that such vessel is being used or may be used to introduce or promote or facilitate the introduction or attempted introduction of merchandise into the UnitedStates in violation of the laws of the United States; and
+&emsp;(1) any vessel which is found or kept off the coast of the United States within or without the customs waters, if, from the history, conduct, character, or location of the vessel, it is reasonable to believe that such vessel is being used or may be used to introduce or promote or facilitate the introduction or attempted introduction of merchandise into the United States in violation of the laws of the United States; and
 
 &emsp;(2) any vessel which has visited a vessel described in paragraph (1).
 
@@ -110,7 +110,7 @@ Section III of the Underwood Tariff Act of Oct. 3, 1913, ch. 16, 38 Stat. 181, a
 
 Section III, by subdivision A thereof, amended the Customs Administrative Act of June 10, 1890, ch. 407, 26 Stat. 131, as previously amended, to read as set forth in section III, subdivisions B–CC. By that amendment and reenactment, the Customs Administrative Act of June 10, 1890, and the amendments thereof by act July 24, 1897, ch. 11, §32, 30 Stat. 211, act May 17, 1898, ch. 341, 30 Stat. 417, Act Dec. 15, 1902, ch. 1, 32 Stat. 753, act May 27, 1908, ch. 205, 35 Stat. 403, and the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 91, were superseded, except the provisions thereof mentioned in a proviso of section IV, S, of that act.
 
-The Customs Administrative Act of June 10, 1890, as originally enacted and as amended previous to the Payne-Aldrich Tariff Act, consisted of thirty sections, of which section 30 prescribed the time when the act should go into effect. Of the preceding twenty-nine sections of the original act, section 15 providing for review by the courts of decisions of the Board of General Appraisers, was omitted from the act as further amended by the Payne-Aldrich Tariff Act, and the remaining twenty-eight sections were amended thereby, constituting sections 1–28 thereof. A new section, designated as section 29, was added by the Payne-Aldrich Tariff Act, which created a Court of Customs Appeals and prescribed its jurisdiction and powers, proceedings, etc. Its provisions were incorporated in and supersededby chapter 8 of the Judicial Code of March 3, 1911. Another new section, designated as section 30, was also added by the Payne-Aldrich Tariff Act, which provided for the appointment of an Assistant Attorney-General, a Deputy Assistant Attorney-General, and attorneys, in charge of matters of reappraisement, etc., of imported goods and litigation incident thereto. Section 30 was incorporated into the Code as section 296 of former Title 5, Executive Departments and Government Officers and Employees, and subsequently repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632.
+The Customs Administrative Act of June 10, 1890, as originally enacted and as amended previous to the Payne-Aldrich Tariff Act, consisted of thirty sections, of which section 30 prescribed the time when the act should go into effect. Of the preceding twenty-nine sections of the original act, section 15 providing for review by the courts of decisions of the Board of General Appraisers, was omitted from the act as further amended by the Payne-Aldrich Tariff Act, and the remaining twenty-eight sections were amended thereby, constituting sections 1–28 thereof. A new section, designated as section 29, was added by the Payne-Aldrich Tariff Act, which created a Court of Customs Appeals and prescribed its jurisdiction and powers, proceedings, etc. Its provisions were incorporated in and superseded by chapter 8 of the Judicial Code of March 3, 1911. Another new section, designated as section 30, was also added by the Payne-Aldrich Tariff Act, which provided for the appointment of an Assistant Attorney-General, a Deputy Assistant Attorney-General, and attorneys, in charge of matters of reappraisement, etc., of imported goods and litigation incident thereto. Section 30 was incorporated into the Code as section 296 of former Title 5, Executive Departments and Government Officers and Employees, and subsequently repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632.
 
 #### Amendments
 
@@ -185,6 +185,10 @@ Functions of all officers of Department of the Treasury and functions of all age
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
+
+#### Contiguous Zone of United States
+
+For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 

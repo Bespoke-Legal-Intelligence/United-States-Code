@@ -8,7 +8,7 @@ There shall be given notice of the commencement of a case under this chapter, no
 
 I74legislative statements
 
-Section 923 of the House amendment represents a compromise with respect to the notice provisions contained in comparable provisions of the House bill andSenate amendment. As a general matter, title 11 leaves most procedural issues to be determined by the Rules of Bankruptcy Procedure. Section 923 of the House amendment contains certain important aspects of procedure that have been retained from present law. It is anticipated that the Rules of Bankruptcy Procedure will adopt rules similar to the present rules for chapter IX of the Bankruptcy Act \[chapter 9 of former title 11\].
+Section 923 of the House amendment represents a compromise with respect to the notice provisions contained in comparable provisions of the House bill and Senate amendment. As a general matter, title 11 leaves most procedural issues to be determined by the Rules of Bankruptcy Procedure. Section 923 of the House amendment contains certain important aspects of procedure that have been retained from present law. It is anticipated that the Rules of Bankruptcy Procedure will adopt rules similar to the present rules for chapter IX of the Bankruptcy Act \[chapter 9 of former title 11\].
 
 #### house report no. 95–595
 

@@ -18,7 +18,7 @@ The requirement that certain laborers and mechanics be paid in accordance with t
 
 #### (b) Expenses
 
-Payments of expenses, reasonable benefits, or a nominal fee may be provided to volunteers described in subsection (a) of this section only in accordance with regulations issued by the Secretary of Labor. In prescribing the regulations, the Secretary shall take into consideration criteria such as the total amount of payments made (relating to expenses, benefits, or fees) inthe context of the economic realities. The regulations shall include provisions that provide that—
+Payments of expenses, reasonable benefits, or a nominal fee may be provided to volunteers described in subsection (a) of this section only in accordance with regulations issued by the Secretary of Labor. In prescribing the regulations, the Secretary shall take into consideration criteria such as the total amount of payments made (relating to expenses, benefits, or fees) in the context of the economic realities. The regulations shall include provisions that provide that—
 
 &emsp;(1) a payment for an expense may be received by a volunteer for items such as uniform allowances, protective gear and clothing, reimbursement for approximate out-of-pocket expenses, or for the cost or expense of meals and transportation;
 

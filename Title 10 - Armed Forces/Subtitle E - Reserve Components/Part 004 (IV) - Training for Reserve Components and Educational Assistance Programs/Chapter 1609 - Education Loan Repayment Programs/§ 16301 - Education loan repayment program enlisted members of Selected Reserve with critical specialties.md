@@ -22,13 +22,17 @@
 
 (f) The Secretary of Defense shall, by regulation, prescribe a schedule for the allocation of funds made available to carry out the provisions of this section and section 2171 of this title during any year for which funds are not sufficient to pay the sum of the amounts eligible for repayment under subsection (a) and section 2171(a) of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1663(d)(1), Oct. 5, 1994, 108 Stat. 3008; amended Pub. L. 104–106, div. A, title X, §1079(b), Feb. 10, 1996, 110 Stat. 451.)
+(g) The Secretary of Transportation may repay loans described in subsection (a)(1) and otherwise administer this section in the case of members of the Selected Reserve of the Coast Guard Reserve when the Coast Guard is not operating as a service in the Navy.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1663(d)(1), Oct. 5, 1994, 108 Stat. 3008; amended Pub. L. 104–106, div. A, title X, §1079(b), Feb. 10, 1996, 110 Stat. 451; Pub. L. 106–65, div. A, title VI, §676, Oct. 5, 1999, 113 Stat. 676.)
 
 #### References in Text
 
 The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B, D, and E of title IV of the Act are classified to parts B (§1071 et seq.), C (§1087a et seq.), and D (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
+
+1999—Subsec. (g). Pub. L. 106–65 added subsec. (g).
 
 1996—Subsec. (a)(1). Pub. L. 104–106 struck out “or” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
 

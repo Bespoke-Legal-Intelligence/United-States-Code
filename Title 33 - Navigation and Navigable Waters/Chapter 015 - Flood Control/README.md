@@ -119,8 +119,9 @@
 | [709\.](%C2%A7%2000709%20-%20Regulations%20for%20use%20of%20storage%20waters%3B%20application%20to%20Tennessee%20Valley%20Authority.md) | Regulations for use of storage waters; application to Tennessee Valley Authority. |
 | [709a.](%C2%A7%2000709a%20-%20Information%20on%20floods%20and%20flood%20damage.md) | Information on floods and flood damage. |
 | (a) | Compilation and dissemination. |
-| (b) | Fees. |
-| (c) | Fiscal year limitation on expenditures. |
+| (b) | Flood prevention coordination. |
+| (c) | Fees. |
+| (d) | Fiscal year limitation on expenditures. |
 | [709b.](%C2%A7%2000709b%20-%20Flood%20hazard%20information.md) | Flood hazard information. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

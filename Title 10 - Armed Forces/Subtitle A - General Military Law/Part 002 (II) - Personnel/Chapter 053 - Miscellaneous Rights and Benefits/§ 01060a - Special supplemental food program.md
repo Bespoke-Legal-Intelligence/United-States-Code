@@ -2,19 +2,21 @@
 
 (a)
 
-Authority.—The Secretary of Defense may carry out a program to provide special supplemental food benefits to members of the armed forces on duty at stations outside the United States (and its territories and possessions) and to eligible civilians serving with, employed by, or accompanying the armed forces outside the United States (and its territories and possessions).
+Program Required.—The Secretary of Defense shall carry out a program to provide supplemental foods and nutrition education to members of the armed forces on duty at stations outside the United States (and its territories and possessions) and to eligible civilians serving with, employed by, or accompanying the armed forces outside the United States (and its territories and possessions).
 
 (b)
 
-Federal Payments and Commodities.—For the purpose of obtaining Federal payments and commodities in order to carry out the program referred to in subsection (a), the Secretary of Agriculture shall make available to the Secretary of Defense the same payments and commodities as are made for the special supplemental food program in the United States under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786). The Secretary of Defense may use funds available for the Department of Defense to carry out the program under subsection (a).
+Funding Mechanism.—The Secretary of Defense shall use funds available for the Department of Defense to carry out the program under subsection (a).
 
 (c)
 
-Program Administration.—(1)(A) The Secretary of Defense shall administer the program referred to in subsection (a) and, except as provided in subparagraph (B), shall determine eligibility for program benefits under the criterionpublished by the Secretary of Agriculture under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786).
+Program Administration.—(1)(A) The Secretary of Defense shall administer the program referred to in subsection (a) and, except as provided in subparagraph (B), shall determine eligibility for program benefits under the criterion published by the Secretary of Agriculture under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786). In determining eligibility for benefits, a person already certified for participation in the special supplemental nutrition program for women, infants, and children under such section 17 shall be considered eligible for the duration of the certification period under that special supplemental nutrition program.
 
-(B) The Secretary of Defense shall prescribe regulations governing computation of income eligibility standards for families of individuals participating in the program under this section.
+(B) In determining eligibility for families of individuals participating in the program under this section, the Secretary of Defense shall, to the extent practicable, use the criterion described in subparagraph (A), including nutritional risk standards. The Secretary shall also consider the value of housing in kind provided to the individual when determining program eligibility.
 
-(2) The program benefits provided under the program shall be similar to benefits provided by State and local agencies in the United States.
+(2) The program benefits provided under the program shall be similar to benefits provided by State and local agencies in the United States, particularly with respect to nutrition education.
+
+(3) The Secretary of Agriculture shall provide technical assistance to the Secretary of Defense, if so requested by the Secretary of Defense, for the purpose of carrying out the program under subsection (a).
 
 (d)
 
@@ -44,13 +46,29 @@ Definitions.—In this section:
 
 &emsp;(3) The term “dependent” has the meaning given such term in subparagraphs (A), (D), (E), and (I) of section 1072(2) of this title.
 
-(Added Pub. L. 103–337, div. A, title VI, §653(a), Oct. 5, 1994, 108 Stat. 2794; amended Pub. L. 104–106, div. A, title XV, §1503(a)(9), Feb. 10, 1996, 110 Stat. 511; Pub. L. 105–85, div. A, title VI, §655(b)(1), Nov. 18, 1997, 111 Stat. 1805.)
+&emsp;(4) The terms “nutrition education” and “supplemental foods” have the meanings given the terms in section 17(b) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(b)).
+
+(Added Pub. L. 103–337, div. A, title VI, §653(a), Oct. 5, 1994, 108 Stat. 2794; amended Pub. L. 104–106, div. A, title XV, §1503(a)(9), Feb. 10, 1996, 110 Stat. 511; Pub. L. 105–85, div. A, title VI, §655(b)(1), Nov. 18, 1997, 111 Stat. 1805; Pub. L. 106–65, div. A, title VI, §674(a)–(d), Oct. 5, 1999, 113 Stat. 675.)
 
 #### References in Text
 
 The Immigration and Nationality Act, referred to in subsec. (f)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–65, §674(a), substituted “Program Required” for “Authority” in heading and “The Secretary of Defense shall carry out a program to provide supplemental foods and nutrition education” for “The Secretary of Defense may carry out a program to provide special supplemental food benefits” in text.
+
+Subsec. (b). Pub. L. 106–65, §674(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “For the purpose of obtaining Federal payments and commodities in order to carry out the program referred to in subsection (a), the Secretary of Agriculture shall make available to the Secretary of Defense the same payments and commodities as are made for the special supplemental food program in the United States under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786). The Secretary of Defense may use funds available for the Department of Defense to carry out the program under subsection (a).”
+
+Subsec. (c)(1)(A). Pub. L. 106–65, §674(c)(1), inserted at end “In determining eligibility for benefits, a person already certified for participation in the special supplemental nutrition program for women, infants, and children under such section 17 shall be considered eligible for the duration of the certification period under that special supplemental nutrition program.”
+
+Subsec. (c)(1)(B). Pub. L. 106–65, §674(c)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “The Secretary of Defense shall prescribe regulations governing computation of income eligibility standards for families of individuals participating in the program under this section.”
+
+Subsec. (c)(2). Pub. L. 106–65, §674(c)(3), inserted “, particularly with respect to nutrition education” before period at end.
+
+Subsec. (c)(3). Pub. L. 106–65, §674(c)(4), added par. (3).
+
+Subsec. (f)(4). Pub. L. 106–65, §674(d), added par. (4).
 
 1997—Subsec. (b). Pub. L. 105–85 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For the purpose of obtaining Federal payments and commodities in order to carry out the program referred to in subsection (a), the Secretary of Agriculture shall make available to the Secretary of Defense from funds appropriated for such purpose, the same payments and commodities as are made for the special supplemental food program in the United States under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786).”
 

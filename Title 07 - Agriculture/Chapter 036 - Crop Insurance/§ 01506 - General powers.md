@@ -90,7 +90,7 @@ The Corporation may enter into and carry out contracts or agreements, and issue 
 
 &emsp;&emsp;(B) establishing in counties, to the extent practicable, a crop insurance option based on area yields in a manner that allows an insured producer to qualify for an indemnity if a loss has occurred in a specified area in which the farm of the insured producer is located;
 
-&emsp;&emsp;(C) establishing a database that contains the social security account and employee identification numbers of participating producers, agents, and loss adjusters and using the numbers to identify insured producers, agents, and loss adjusters who are high risk for actuarial purposes and insured producers who have not documented at least 4 years of production history, to assess the performance of insurance providers, and for other purposes permitted by law; and
+&emsp;&emsp;(C) establishing a database that contains the social security account and employee identification numbers of participating producers, agents, and loss adjusters and using the numbers to identify insured producers,agents, and loss adjusters who are high risk for actuarial purposes and insured producers who have not documented at least 4 years of production history, to assess the performance of insurance providers, and for other purposes permitted by law; and
 
 &emsp;&emsp;(D) taking any other measures authorized by law to improve the actuarial soundness of the Federal crop insurance program while maintaining fairness and effective coverage for agricultural producers.
 
@@ -166,7 +166,7 @@ Subsec. (m). Pub. L. 103–354, §104(1), redesignated subsec. (<i>l</i>) as (m)
 
 Subsec. (n). Pub. L. 103–354, §104(1), redesignated subsec. (m) as (n). Former subsec. (n) redesignated (<i>o</i>).
 
-Subsec. (n)(1)(B). Pub. L. 103–354, §104(4), added subpar. (B) and struck out former subpar. (B) which read as follows: “disqualify the person from receiving any benefit under this chapter for a period of not to exceed 10 years.”
+Subsec. (n)(1)(B). Pub. L. 103–354, §104(4), added subpar. (B) and struck out former subpar. (B) which read as follows: “disqualify the person from receiving anybenefit under this chapter for a period of not to exceed 10 years.”
 
 Subsec. (<i>o</i>). Pub. L. 103–354, §104(1), (5)(B), redesignated subsec. (n) as (<i>o</i>) and reenacted heading without change.
 
@@ -236,7 +236,7 @@ Subsec. (k). Pub. L. 96–365, §103(4), added subsec. (k).
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–185, title V, §537, June 23, 1998, 112 Stat. 584, provided that: “Except as provided in section 535 \[112 Stat. 583\], this subtitle \[subtitle C (§§531–537) of title V of Pub. L. 105–185, amending this section andsections 1508 and 1516 of this title and enacting provisions set out as notes under this section\] and the amendments made by this subtitle take effect on July 1, 1998.”
+Pub. L. 105–185, title V, §537, June 23, 1998, 112 Stat. 584, provided that: “Except as provided in section 535 \[112 Stat. 583\], this subtitle \[subtitle C (§§531–537) of title V of Pub. L. 105–185, amending this section and sections 1508 and 1516 of this title and enacting provisions set out as notes under this section\] and the amendments made by this subtitle take effect on July 1, 1998.”
 
 #### Effective Date of 1994 Amendment
 

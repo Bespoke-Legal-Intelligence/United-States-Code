@@ -24,7 +24,7 @@ For exclusion of interest for purposes of Federal income taxation, see section 1
 
 #### References in Text
 
-Section 103, referred to in subsec. (a), which related to interest on certain governmental obligations wasamended generally by Pub. L. 99–514, title XIII, §1301(a), Oct. 22, 1986, 100 Stat. 2602, and as so amended relates to interest on State and local bonds. Section 103(b)(2), which prior to the general amendment defined industrial development bond, relates to the applicability of the interest exclusion to arbitrage bonds.
+Section 103, referred to in subsec. (a), which related to interest on certain governmental obligations was amended generally by Pub. L. 99–514, title XIII, §1301(a), Oct. 22, 1986, 100 Stat. 2602, and as so amended relates to interest on State and local bonds. Section 103(b)(2), which prior to the general amendment defined industrial development bond, relates to the applicability of the interest exclusion to arbitrage bonds.
 
 #### Amendments
 

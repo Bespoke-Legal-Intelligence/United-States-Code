@@ -64,7 +64,7 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 #### (B) Safe harbor
 
-&emsp;&emsp;The requirement of subparagraph (A) shall be treated as met if the amount paid notlater than September 29 is not less than 11/15 of the taxes on distilled spirits, wines, and beer for the period beginning on September 1 and ending on September 15.
+&emsp;&emsp;The requirement of subparagraph (A) shall be treated as met if the amount paid not later than September 29 is not less than 11/15 of the taxes on distilled spirits, wines, and beer for the period beginning on September 1 and ending on September 15.
 
 #### (C) Taxpayers not required to use electronic funds transfer
 
@@ -156,7 +156,7 @@ Section 2003(b)(2) of Pub. L. 100–647 provided that: “The amendments made by
 
 #### Effective Date of 1986 Amendments
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions ofthe Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 Section 8011(c) of Pub. L. 99–509, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
@@ -248,7 +248,7 @@ Taxpaid stock may remain on bonded premises during 1980.—Section 5612(a) of th
 
 &emsp;“(2)
 
-Separation of taxpaid stock.—All distilled spirits and wine on which tax has been paid andwhich are on the bonded premises of a distilled spirits plant shall be physically separated from other distilled spirits and wine. Such separation shall be by the use of separate tanks, rooms, or buildings, or by partitioning, or by such other methods as the Secretary finds will distinguish such distilled spirits and wine from other distilled spirits and wine on the bonded premises of the distilled spirits plant.
+Separation of taxpaid stock.—All distilled spirits and wine on which tax has been paid and which are on the bonded premises of a distilled spirits plant shall be physically separated from other distilled spirits and wine. Such separation shall be by the use of separate tanks, rooms, or buildings, or by partitioning, or by such other methods as the Secretary finds will distinguish such distilled spirits and wine from other distilled spirits and wine on the bonded premises of the distilled spirits plant.
 
 “(d)
 

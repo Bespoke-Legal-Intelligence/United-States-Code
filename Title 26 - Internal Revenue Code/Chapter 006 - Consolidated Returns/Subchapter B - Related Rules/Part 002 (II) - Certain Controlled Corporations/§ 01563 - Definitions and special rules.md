@@ -8,7 +8,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;One or more chains of corporations connected through stock ownership with a common parent corporation if—
 
-&emsp;&emsp;(A) stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of stock of each of the corporations, except the common parent corporation, isowned (within the meaning of subsection (d)(1)) by one or more of the other corporations; and
+&emsp;&emsp;(A) stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of stock of each of the corporations, except the common parent corporation, is owned (within the meaning of subsection (d)(1)) by one or more of the other corporations; and
 
 &emsp;&emsp;(B) the common parent corporation owns (within the meaning of subsection (d)(1)) stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of stock of at least one of the other corporations, excluding, in computing such voting power or value, stock owned directly by such other corporations.
 
@@ -88,7 +88,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (A) Parent-subsidiary controlled group
 
-&emsp;&emsp;For purposes of subsection (a)(1), if a corporation (referred to in this paragraph as “parent corporation”) owns (within the meaning of subsections (d)(1) and (e)(4)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in anothercorporation (referred to in this paragraph as “subsidiary corporation”), the following stock of the subsidiary corporation shall be treated as excluded stock—
+&emsp;&emsp;For purposes of subsection (a)(1), if a corporation (referred to in this paragraph as “parent corporation”) owns (within the meaning of subsections (d)(1) and (e)(4)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in another corporation (referred to in this paragraph as “subsidiary corporation”), the following stock of the subsidiary corporation shall be treated as excluded stock—
 
 &emsp;&emsp;&emsp;(i) stock in the subsidiary corporation held by a trust which is part of a plan of deferred compensation for the benefit of the employees of the parent corporation or the subsidiary corporation,
 
@@ -106,7 +106,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;&emsp;&emsp;(ii) stock in such corporation owned (within the meaning of subsection (d)(2)) by an employee of the corporation if such stock is subject to conditions which run in favor of any of such common owners (or such corporation) and which substantially restrict or limit the employee's right (or if the employee constructively owns such stock, the direct owner's right) to dispose of such stock. If a condition which limits or restricts the employee's right (or the direct owner's right) to dispose of such stock also applies to the stock held by any of the common owners pursuant to a bona fide reciprocal stock purchase arrangement, such condition shall not be treated as one which restricts or limits the employee's right to dispose of such stock, or
 
-&emsp;&emsp;&emsp;(iii) stock in such corporation owned (within the meaning of subsection (d)(2)) by an organization to which section 501 (relating to certain educational and charitable organizations which are exempt from tax) applies and which is controlled directly or indirectly by such corporation, by an individual, estate, or trust that is a principal stockholder (within the meaning of subparagraph (A)(ii)) of such corporation, by an officer of such corporation, or by any combination thereof.
+&emsp;&emsp;&emsp;(iii) stock in such corporation owned (within the meaning of subsection (d)(2)) by an organization to which section 501 (relating to certain educational and charitable organizations which are exempt fromtax) applies and which is controlled directly or indirectly by such corporation, by an individual, estate, or trust that is a principal stockholder (within the meaning of subparagraph (A)(ii)) of such corporation, by an officer of such corporation, or by any combination thereof.
 
 #### (d) Rules for determining stock ownership
 
@@ -178,7 +178,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (1) Employee defined
 
-&emsp;For purposes of this section the term “employee” has the same meaning such term is given by paragraphs (1) and (2) of section 3121(d).
+&emsp;For purposes of this section the term “employee” has the same meaning such term isgiven by paragraphs (1) and (2) of section 3121(d).
 
 #### (2) Operating rules
 
@@ -244,7 +244,7 @@ Subsec. (c)(2)(B). Pub. L. 91–172, §401(d)(2), substituted “5 or fewer pers
 
 #### Effective Date of 1988 Amendment
 
-Section 1018(s)(3)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Section 1018(s)(3)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1986 Amendment
 

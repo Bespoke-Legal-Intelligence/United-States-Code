@@ -38,9 +38,13 @@ Aug. 6, 1956, ch. 976, §6, 70 Stat. 1053.
 
 36:696(a) (last sentence).
 
+&nbsp;
+
 31103(c)
 
 36:696(b).
+
+&nbsp;
 
 In subsection (a), the words “are as provided in the constitution and bylaws of the corporation” are substituted for “shall . . . be determined as the constitution and bylaws of the corporation may provide” for consistency in the revised title and to eliminate unnecessary words.
 

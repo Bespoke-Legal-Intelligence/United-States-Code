@@ -54,5 +54,5 @@ Subsec. (d). Pub. L. 95–17 added subsec. (d) which provisions were formerly se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 908, 909 of this title; title 22 section 2587; title 42 section 2941.
+This section is referred to in sections 908, 909 of this title; title 42 section 2941.
 

@@ -52,7 +52,7 @@ Subsec. (c). Pub. L. 93–559 added subsec. (c).
 
 1972—Subsec. (a). Pub. L. 92–226 authorized appropriations not to exceed $30,000,000 for fiscal years 1972 and 1973, and struck out provision for authorization of not to exceed $15,000,000 for fiscal year 1970, and not to exceed $30,000,000 for fiscal year 1971.
 
-1971—Subsec. (a). Pub. L. 91–652 substituted “1971 not to exceed $30,000,000” for “1971 not to exceed$15,000,000”, and inserted proviso which required $15,000,000 of the amount authorized for the fiscal year 1971 to be used for the relief of cyclone, etc., victims in East Pakistan.
+1971—Subsec. (a). Pub. L. 91–652 substituted “1971 not to exceed $30,000,000” for “1971 not to exceed $15,000,000”, and inserted proviso which required $15,000,000 of the amount authorized for the fiscal year 1971 to be used for the relief of cyclone, etc., victims in East Pakistan.
 
 1969—Subsec. (a). Pub. L. 91–175 substituted “ fiscal year 1970 not to exceed $15,000,000, and for the fiscal year 1971 not to exceed $15,000,000” for “fiscal year 1968 not to exceed $50,000,000, and for the fiscal year 1969 not to exceed $10,000,000”.
 
@@ -80,7 +80,7 @@ Subsec. (b). Pub. L. 87–565, §109(b), substituted “provide quarterly report
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of State by section 1–201(a)(2) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Appropriation for Disaster Relief of Unallocated Excess Foreign Currencies Held in Pakistan
 
@@ -88,5 +88,5 @@ Section 6(b) of Pub. L. 91–652 authorized the appropriation of excess foreign 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2360, 2413 of this title.
+This section is referred to in sections 287e–2, 2360, 2413 of this title.
 

@@ -2,7 +2,7 @@
 
 Section 1811, Pub. L. 95–372, title III, §301, Sept. 18, 1978, 92 Stat. 670, defined terms used in this subchapter.
 
-Section 1812, Pub. L. 95–372, title III, §302, Sept. 18, 1978, 92 Stat. 672; Pub. L. 101–239, title IX, §9001(a), Dec.19, 1989, 103 Stat. 2470, established Offshore Oil Pollution Compensation Fund.
+Section 1812, Pub. L. 95–372, title III, §302, Sept. 18, 1978, 92 Stat. 672; Pub. L. 101–239, title IX, §9001(a), Dec. 19, 1989, 103 Stat. 2470, established Offshore Oil Pollution Compensation Fund.
 
 Section 1813, Pub. L. 95–372, title III, §303, Sept. 18, 1978, 92 Stat. 674, provided for asserting claims for economic loss from oil pollution.
 

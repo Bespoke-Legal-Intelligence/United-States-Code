@@ -96,7 +96,7 @@ Subsec. (g)(3)(A). Pub. L. 101–147, §103(c), substituted last four sentences 
 
 1988—Subsec. (g)(3)(A). Pub. L. 100–356, §2(c), inserted at end “The Secretary shall complete action on any claim submitted under this subparagraph not later than 45 days after June 28, 1988.”
 
-Pub. L. 100–356, §2(a), inserted at end “The Secretary, in computing losses sustained by any school district under the preceding sentence, shall base such computation on the actual amount of assistance received by such school district under this chapter for the school year ending June 30, 1982, including—
+Pub. L. 100–356, §2(a), inserted at end “The Secretary, in computing losses sustained by any school districtunder the preceding sentence, shall base such computation on the actual amount of assistance received by such school district under this chapter for the school year ending June 30, 1982, including—
 
 &emsp;“(i) the value of assistance in the form of commodities provided in addition to those provided pursuant to section 1755(e) of this title; and
 

@@ -6,5 +6,5 @@ Stock not held by member banks shall not be entitled to voting power.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 377, 481 of this title.
+This section is referred to in section 481 of this title.
 

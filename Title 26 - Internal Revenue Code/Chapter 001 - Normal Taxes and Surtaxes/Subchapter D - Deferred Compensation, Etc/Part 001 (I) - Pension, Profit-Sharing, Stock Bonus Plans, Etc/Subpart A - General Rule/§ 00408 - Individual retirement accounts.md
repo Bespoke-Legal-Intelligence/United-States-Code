@@ -4,7 +4,7 @@
 
 For purposes of this section, the term “individual retirement account” means a trust created or organized in the United States for the exclusive benefit of an individual or his beneficiaries, but only if the written governing instrument creating the trust meets the following requirements:
 
-&emsp;(1) Except in the case of a rollover contribution described in subsection (d)(3) in section 402(c), 403(a)(4), or 403(b)(8), no contribution will be accepted unless it is in cash, and contributions will not be accepted for the taxable year in excess of $2,000 on behalf of any individual.
+&emsp;(1) Except in the case of a rollover contribution described in subsection (d)(3) in <sup>1</sup> section 402(c), 403(a)(4), or 403(b)(8), no contribution will be accepted unless it is in cash, and contributions will not be accepted for the taxable year in excess of $2,000 on behalf of any individual.
 
 &emsp;(2) The trustee is a bank (as defined in subsection (n)) or such other person who demonstrates to the satisfaction of the Secretary that the manner in which such other person will administer the trust will be consistent with the requirements of this section.
 
@@ -50,7 +50,7 @@ A trust created or organized in the United States by an employer for the exclusi
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, any amount paid or distributed out of an individual retirement plan shall be included in gross income by the payee or distributee, as the case may be, in the manner provided under section 72.
+&emsp;Except as otherwise provided in this subsection, any amount paid or distributed out ofan individual retirement plan shall be included in gross income by the payee or distributee, as the case may be, in the manner provided under section 72.
 
 #### (2) Special rules for applying section 72
 
@@ -132,7 +132,7 @@ A trust created or organized in the United States by an employer for the exclusi
 
 #### (4) Contributions returned before due date of return
 
-&emsp;Paragraph (1) does not apply to the distribution of any contribution paid during a taxableyear to an individual retirement account or for an individual retirement annuity if—
+&emsp;Paragraph (1) does not apply to the distribution of any contribution paid during a taxable year to an individual retirement account or for an individual retirement annuity if—
 
 &emsp;&emsp;(A) such distribution is received on or before the day prescribed by law (including extensions of time) for filing such individual's return for such taxable year,
 
@@ -198,7 +198,7 @@ A trust created or organized in the United States by an employer for the exclusi
 
 #### (B) Account treated as distributing all its assets
 
-&emsp;&emsp;In any case in which any account ceases to be an individual retirement account by reason of subparagraph (A) as of the first day of any taxable year, paragraph (1) of subsection (d) applies as if there were a distribution onsuch first day in an amount equal to the fair market value (on such first day) of all assets in the account (on such first day).
+&emsp;&emsp;In any case in which any account ceases to be an individual retirement account by reason of subparagraph (A) as of the first day of any taxable year, paragraph (1) of subsection (d) applies as if there were a distribution on such first day in an amount equal to the fair market value (on such first day) of all assets in the account (on such first day).
 
 #### (3) Effect of borrowing on annuity contract
 
@@ -440,7 +440,7 @@ In the case of any simplified employee pension, subsections (a)(1) and (b)(2) of
 
 #### (1) In general
 
-&emsp;The acquisition by an individual retirement account or by an individually-directed accountunder a plan described in section 401(a) of any collectible shall be treated (for purposes of this section and section 402) as a distribution from such account in an amount equal to the cost to such account of such collectible.
+&emsp;The acquisition by an individual retirement account or by an individually-directed account under a plan described in section 401(a) of any collectible shall be treated (for purposes of this section and section 402) as a distribution from such account in an amount equal to the cost to such account of such collectible.
 
 #### (2) Collectible defined
 
@@ -472,7 +472,7 @@ In the case of any simplified employee pension, subsections (a)(1) and (b)(2) of
 
 &emsp;&emsp;&emsp;(iv) a coin issued under the laws of any State, or
 
-&emsp;&emsp;(B) any gold, silver, platinum, or palladium bullion of a fineness equal to or exceeding the minimum fineness that a contract market (as described in section 7 of the Commodity Exchange Act, 7 U.S.C. 7) <sup>1</sup> requires for metals which may be delivered in satisfaction of a regulated futures contract,
+&emsp;&emsp;(B) any gold, silver, platinum, or palladium bullion of a fineness equal to or exceeding the minimum fineness that a contract market (as described in section 7 of the Commodity Exchange Act, 7 U.S.C. 7) <sup>2</sup> requires for metals which may be delivered in satisfaction of a regulated futures contract,
 
 > &emsp;if such bullion is in the physical possession of a trustee described under subsection (a) of this section.
 
@@ -704,7 +704,7 @@ For purposes of subsection (a)(2), the term “bank” means—
 
 #### (8) Coordination with maximum limitation under subsection (a)
 
-&emsp;In the case of any simple retirement account, subsections (a)(1) and (b)(2) shall be applied by substituting “the sum of the dollaramount in effect under paragraph (2)(A)(ii) of this subsection and the employer contribution required under subparagraph (A)(iii) or (B)(i) of paragraph (2) of this subsection, whichever is applicable” for “$2,000”.
+&emsp;In the case of any simple retirement account, subsections (a)(1) and (b)(2) shall be applied by substituting “the sum of the dollar amount in effect under paragraph (2)(A)(ii) of this subsection and the employer contribution required under subparagraph (A)(iii) or (B)(i) of paragraph (2) of this subsection, whichever is applicable” for “$2,000”.
 
 #### (9) Matching contributions on behalf of self-employed individuals not treated as elective employer contributions
 
@@ -830,7 +830,7 @@ Subsec. (d)(3)(A). Pub. L. 100–647, §1011A(a)(2)(A), struck out at end “Cla
 
 Subsec. (d)(3)(E). Pub. L. 100–647, §1018(t)(3)(D), substituted “paragraph” for “subparagraph”.
 
-Subsec. (d)(4). Pub. L. 100–647, §1011(b)(2), substituted “Contributions” for “Excess contributions” in heading, struck out “to the extent that such contribution exceeds the amount allowable as a deduction under section 219” after “individual retirement annuity” in introductory provisions, and substituted “such contribution” for “such excess contribution” in subpars. (B) and (C) and in last sentence.
+Subsec. (d)(4). Pub. L. 100–647, §1011(b)(2), substituted “Contributions” for “Excess contributions” in heading,struck out “to the extent that such contribution exceeds the amount allowable as a deduction under section 219” after “individual retirement annuity” in introductory provisions, and substituted “such contribution” for “such excess contribution” in subpars. (B) and (C) and in last sentence.
 
 Subsec. (d)(5). Pub. L. 100–647, §1011(b)(3), substituted “shall be computed without regard to section 219(g)” for “(after application of section 408(<i>o</i>)(2)(B)(ii)) shall be increased by the nondeductible limit under section 408(<i>o</i>)(2)(B)” in last sentence.
 
@@ -922,7 +922,7 @@ Pub. L. 99–514, §1108(g)(1)(A), substituted “any highly compensated employe
 
 Subsec. (k)(3)(C). Pub. L. 99–514, §1108(g)(1)(B), inserted “and except as provided in subparagraph (D),” and “(other than contributions under an arrangement described in paragraph (6))”, and struck out end sentence which read as follows: “The Secretary shall annually adjust the $200,000 amount contained in the preceding sentence at the same time and in the same manner as he adjusts the dollar amount contained in section 415(c)(1)(A).”
 
-Subsec. (k)(3)(D), (E). Pub. L. 99–514, §1108(g)(1)(C), added subpar. (D) and struck out former subpar. (D),treatment of certain contributions and taxes, which read “Except as provided in this subparagraph, employer contributions do not meet the requirements of this paragraph unless such contributions meet the requirements of this paragraph without taking into account contributions or benefits under chapter 2 (relating to tax on self-employment income), chapter 21 (relating to Federal Insurance Contribution Act), title II of the Social Security Act, or any other Federal or State law. If the employer does not maintain an integrated plan at any time during the taxable year, OASDI contributions (as defined in section 401(<i>l</i>)(2)) may, for purposes of this paragraph, be taken into account as contributions by the employer to the employee's simplified employee pension, but only if such contributions are so taken into account with respect to each employee maintaining a simplified employee pension.”, and former subpar. (E), integrated plan defined, which read “For purposes of subparagraph (D), the term ‘integrated plan’ means a plan which meets the requirements of section 401(a) or 403(a) but would not meet such requirements if contributions or benefits under chapter 2 (relating to tax on self-employment income), chapter 21 (relating to Federal Insurance Contributions Act), title II of the Social Security Act, or any other Federal or State law were not taken into account.”
+Subsec. (k)(3)(D), (E). Pub. L. 99–514, §1108(g)(1)(C), added subpar. (D) and struck out former subpar. (D), treatment of certain contributions and taxes, which read “Except as provided in this subparagraph, employer contributions do not meet the requirements of this paragraph unless such contributions meet the requirements of this paragraph without taking into account contributions or benefits under chapter 2 (relating to tax on self-employment income), chapter 21 (relating to Federal Insurance Contribution Act), title II of the Social Security Act, or any other Federal or State law. If the employer does not maintain an integrated plan at any time during the taxable year, OASDI contributions (as defined in section 401(<i>l</i>)(2)) may, for purposes of this paragraph, be taken into account as contributions by the employer to the employee's simplified employee pension, but only if such contributions are so taken into account with respect to each employee maintaining a simplified employee pension.”, and former subpar. (E), integrated plan defined, which read “For purposes of subparagraph (D), the term ‘integrated plan’ means a plan which meets the requirements of section 401(a) or 403(a) but would not meet such requirements if contributions or benefits under chapter 2 (relating to tax on self-employment income), chapter 21 (relating to Federal Insurance Contributions Act), title II of the Social Security Act, or any other Federal or State law were not taken into account.”
 
 Subsec. (k)(6). Pub. L. 99–514, §1108(a), added par. (6).
 
@@ -966,7 +966,7 @@ Subsec. (k)(1). Pub. L. 98–369, §713(f)(2), amended par. (1) generally, desig
 
 Subsec. (k)(3)(C). Pub. L. 98–369, §713(f)(5)(B), inserted provision which required annual adjustment of the $200,000 amount concurrently with the dollar amount adjustment in section 415(c)(1)(A).
 
-Subsec. (k)(3)(D). Pub. L. 98–369, §713(j), substituted in penultimate sentence “OASDI contributions (as defined in section 401(<i>l</i>)(2)” for “taxes paid under section 3111 (relating to tax on employers) with respect to an employee” and “as contributions by the employer to the employee's simplified employee pension, but only if such contributions are so taken into account with respect to each employee maintaining a simplified employee pension” for “as a contribution by the employer to an employee's simplified pension” and struck out third sentence which provided “If contributions are made to the simplified employee pension of an owner-employee, the preceding sentence shall not apply unless taxes paid by all such owner-employees under chapter 2, and the taxes which would be payable under chapter 2 by such owner-employees but for paragraphs (4) and (5) of section 1402(c), are taken into account as contributions by the employer on behalf of such owner-employees.”
+Subsec. (k)(3)(D). Pub. L. 98–369, §713(j), substituted in penultimate sentence “OASDI contributions (as defined in section 401(<i>l</i>)(2)” for “taxes paid under section 3111 (relating to tax on employers) with respect to an employee” and “as contributions by the employer to the employee's simplified employee pension, but only if such contributions are so taken into account with respect to each employee maintaining a simplified employee pension” for “as a contribution by the employer to an employee's simplified pension” and struck out third sentence which provided “If contributions are made to the simplified employee pension of an owner-employee, the preceding sentence shall not apply unless taxes paid by all such owner-employees under chapter 2, and the taxes which would be payable underchapter 2 by such owner-employees but for paragraphs (4) and (5) of section 1402(c), are taken into account as contributions by the employer on behalf of such owner-employees.”
 
 Subsec. (k)(3)(E). Pub. L. 98–369, §491(d)(24), substituted “or 403(a)” for “, 403(a), or 405(a)”.
 
@@ -1128,7 +1128,7 @@ Section 1898(a)(5) of Pub. L. 99–514 provided that the amendment made by that 
 
 Amendment by section 147(a) of Pub. L. 98–369 applicable to contributions made after Dec. 31, 1984, see section 147(d)(1) of Pub. L. 98–369, set out as a note under section 219 of this title.
 
-Amendment by section 491(d)(19)–(24) of Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, seesection 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
+Amendment by section 491(d)(19)–(24) of Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
 
 Amendment by section 521(b) of Pub. L. 98–369 applicable to years beginning after Dec. 31, 1984, see section 521(e) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
@@ -1196,7 +1196,7 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L.102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -1214,5 +1214,7 @@ Section 157(d)(3) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct.
 
 This section is referred to in sections 1, 72, 219, 220, 280G, 401, 402, 403, 408A, 414, 415, 416, 530, 818, 1397B, 3121, 3306, 3401, 4972, 4973, 4974, 4975, 4979, 6012, 6047, 6058, 6104, 6332, 6693, 6724, 7701 of this title; title 4 section 114; title 11 section 522; title 12 sections 1464, 1787, 1821; title 29 sections 1021, 1051, 1081, 1103, 1104, 1107, 1108; title 42 section 409.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

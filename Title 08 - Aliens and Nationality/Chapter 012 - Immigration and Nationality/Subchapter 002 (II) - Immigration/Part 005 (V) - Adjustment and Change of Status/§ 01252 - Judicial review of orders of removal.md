@@ -114,7 +114,7 @@ With respect to review of an order of removal under subsection (a)(1) of this se
 
 #### (D) Limitation on filing petitions for review
 
-&emsp;&emsp;The defendant in a criminal proceeding under section 1253(a) of this title may notfile a petition for review under subsection (a) of this section during the criminal proceeding.
+&emsp;&emsp;The defendant in a criminal proceeding under section 1253(a) of this title may not file a petition for review under subsection (a) of this section during the criminal proceeding.
 
 #### (8) Construction
 
@@ -144,7 +144,7 @@ A court may review a final order of removal only if—
 
 &emsp;(1) the alien has exhausted all administrative remedies available to the alien as of right, and
 
-&emsp;(2) another court has not decided the validity of the order, unless the reviewing court finds that the petition presents grounds that could not have been presented in the prior judicial proceeding or that the remedy provided by the prior proceeding was inadequate or ineffective to test the validity of the order.
+&emsp;(2) another court has not decided the validity of the order, unless the reviewing courtfinds that the petition presents grounds that could not have been presented in the prior judicial proceeding or that the remedy provided by the prior proceeding was inadequate or ineffective to test the validity of the order.
 
 #### (e) Judicial review of orders under section 1225(b)(1)
 
@@ -194,7 +194,7 @@ A court may review a final order of removal only if—
 
 &emsp;&emsp;(A) is an alien who was not ordered removed under section 1225(b)(1) of this title, or
 
-&emsp;&emsp;(B) has demonstrated by a preponderance of the evidence that the alien is an alien lawfully admitted for permanent residence, has been admitted as a refugee under section 1157 of this title, or has been granted asylum under section 1158 of this title, the court may order no remedy or relief other than to require that the petitioner be provided ahearing in accordance with section 1229a of this title. Any alien who is provided a hearing under section 1229a of this title pursuant to this paragraph may thereafter obtain judicial review of any resulting final order of removal pursuant to subsection (a)(1) of this section.
+&emsp;&emsp;(B) has demonstrated by a preponderance of the evidence that the alien is an alien lawfully admitted for permanent residence, has been admitted as a refugee under section 1157 of this title, or has been granted asylum under section 1158 of this title, the court may order no remedy or relief other than to require that the petitioner be provided a hearing in accordance with section 1229a of this title. Any alien who is provided a hearing under section 1229a of this title pursuant to this paragraph may thereafter obtain judicial review of any resulting final order of removal pursuant to subsection (a)(1) of this section.
 
 #### (5) Scope of inquiry
 
@@ -212,7 +212,7 @@ A court may review a final order of removal only if—
 
 #### (g) Exclusive jurisdiction
 
-Except as provided in this section and notwithstanding any other provision of law, no court shall have jurisdiction to hear any cause or claim by or on behalf of any alien arising from the decision or action by the Attorney General to commence proceedings, adjudicate cases, or execute removal orders against any alien under this chapter.
+Except as provided in this section and notwithstanding any other provision of law, nocourt shall have jurisdiction to hear any cause or claim by or on behalf of any alien arising from the decision or action by the Attorney General to commence proceedings, adjudicate cases, or execute removal orders against any alien under this chapter.
 
 (June 27, 1952, ch. 477, title II, ch. 5, §242, 66 Stat. 208; Sept. 3, 1954, ch. 1263, §17, 68 Stat. 1232; Pub. L. 97–116, §18(h)(1), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 98–473, title II, §220(b), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–603, title VII, §701, Nov. 6, 1986, 100 Stat. 3445; Pub. L. 100–525, §9(n), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 100–690, title VII, §7343(a), Nov. 18, 1988, 102 Stat. 4470; Pub. L. 101–649, title V, §§504(a), 545(e), title VI, §603(b)(2), Nov. 29, 1990, 104 Stat. 5049, 5066, 5085; Pub. L. 102–232, title III, §§306(a)(4), (c)(7), 307(m)(2), 309(b)(9), Dec. 12, 1991, 105 Stat. 1751, 1753, 1757, 1759; Pub. L. 103–322, title II, §20301(a), title XIII, §130001(a), Sept. 13, 1994, 108 Stat. 1823, 2023; Pub. L. 103–416, title II, §§219(h), 224(b), Oct. 25, 1994, 108 Stat. 4317, 4324; Pub. L. 104–132, title IV, §§436(a), (b)(1), 438(a), 440(c), (h), Apr. 24, 1996, 110 Stat. 1275, 1277, 1279; Pub. L. 104–208, div. C, title III, §§306(a), (d), 308(g)(10)(H), 371(b)(6), Sept. 30, 1996, 110 Stat. 3009–607, 3009–612, 3009–625, 3009–645.)
 
@@ -330,7 +330,7 @@ Section 20301(b) of Pub. L. 103–322 provided that: “The amendment made by su
 
 #### Effective Date of 1991 Amendment
 
-Amendment by section 306(a)(4), (c)(7) of Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by section 306(a)(4), (c)(7) of Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 Section 307(m)(2) of Pub. L. 102–232 provided that the amendment made by that section is effective as if included in section 603(b) of the Immigration Act of 1990, Pub. L. 101–649.
 

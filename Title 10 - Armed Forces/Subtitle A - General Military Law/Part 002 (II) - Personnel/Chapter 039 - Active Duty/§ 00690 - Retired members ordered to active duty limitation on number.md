@@ -16,17 +16,23 @@ Limitation by Service.—(1) Not more than 25 officers of any one armed force ma
 
 &emsp;(C) Any officer assigned to duty with the American Battle Monuments Commission for the period of active duty to which ordered.
 
+&emsp;(D) Any member of the Retiree Council of the Army, Navy, or Air Force for the period on active duty to attend the annual meeting of the Retiree Council.
+
 (c)
 
 Waiver for Periods of War or National Emergency.—Subsection (a) does not apply in time of war or of national emergency declared by Congress or the President after November 30, 1980. Subsection (b) does not apply in time of war or of national emergency declared by Congress or the President.
 
-(Added Pub. L. 104–201, div. A, title V, §521(a), Sept. 23, 1996, 110 Stat. 2516.)
+(Added Pub. L. 104–201, div. A, title V, §521(a), Sept. 23, 1996, 110 Stat. 2516; amended Pub. L. 106–65, div. A, title V, §507, Oct. 5, 1999, 113 Stat. 591.)
 
 #### Prior Provisions
 
 A prior section 690 was renumbered section 12321 of this title.
 
 Provisions similar to those in subsecs. (a) and (c) of this section were contained in section 688(c) of this title prior to repeal by Pub. L. 104–201, §521(a).
+
+#### Amendments
+
+1999—Subsec. (b)(2)(D). Pub. L. 106–65 added subpar. (D).
 
 #### Effective Date
 

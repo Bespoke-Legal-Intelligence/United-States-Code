@@ -18,7 +18,7 @@ Any other provision of this section notwithstanding, there may be retained in th
 
 This Act, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended, known as the Federal Property and Administrative Services Act of 1949. For complete classification of this Act, including titles II, III, and VI thereof, to the Code, see Short Title note set out under section 471 of this title and Tables.
 
-Reorganization Plan Numbered 1 of 1947, referred to in subsec. (b), is Reorg. Plan No. 1 of 1947, 12 F.R. 4534, 61 Stat. 952, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Reorganization Plan Numbered 1 of 1947, referred to in subsec. (b), is Reorg. Plan No. 1 of 1947, 12 F.R. 4534, 61 Stat. 951, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 

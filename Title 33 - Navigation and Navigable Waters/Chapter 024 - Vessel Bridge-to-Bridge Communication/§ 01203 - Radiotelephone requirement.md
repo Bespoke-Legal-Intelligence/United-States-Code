@@ -16,7 +16,7 @@ Except as provided in section 1206 of this title—
 
 #### (b) Vessels upon navigable waters of United States inside high seas lines
 
-The radiotelephone required by subsection (a) of this section shall be carried on board the described vessels, dredges, and floating plants upon the navigable waters of the United States inside the lines established pursuant to section 151 of this title.
+The radiotelephone required by subsection (a) of this section shall be carried on board the described vessels, dredges, and floating plants upon the navigable waters of the United Statesinside the lines established pursuant to section 151 of this title.
 
 (Pub. L. 92–63, §4, Aug. 4, 1971, 85 Stat. 164; Pub. L. 102–241, §16, Dec. 19, 1991, 105 Stat. 2213; Pub. L. 104–324, title VII, §704, Oct. 19, 1996, 110 Stat. 3933.)
 

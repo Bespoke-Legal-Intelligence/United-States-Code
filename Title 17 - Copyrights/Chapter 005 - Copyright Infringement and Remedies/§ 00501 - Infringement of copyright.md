@@ -1,6 +1,6 @@
 ### §501. Infringement of copyright
 
-(a) Anyone who violates any of the exclusive rights of the copyright owner as provided by sections 106 through 118 or of the author as provided in section 106A(a), or who imports copies or phonorecords into the United States in violation of section 602, is an infringer of the copyright or right of the author, as the case may be. For purposes of this chapter (other than section 506), any reference to copyright shall be deemed to include the rights conferred by section 106A(a). As used in this subsection, the term “anyone” includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this title in the same manner and to the same extent as any nongovernmental entity.
+(a) Anyone who violates any of the exclusive rights of the copyright owner as provided by sections 106 through 121 or of the author as provided in section 106A(a), or who imports copies or phonorecords into the United States in violation of section 602, is an infringer of the copyright or right of the author, as the case may be. For purposes of this chapter (other than section 506), any reference to copyright shall be deemed to include the rights conferred by section 106A(a). As used in this subsection, the term “anyone” includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this title in the same manner and to the same extent as any nongovernmental entity.
 
 (b) The legal or beneficial owner of an exclusive right under a copyright is entitled, subject to the requirements of section 411, to institute an action for any infringement of that particular right committed while he or she is the owner of it. The court may require such owner to serve written notice of the action with a copy of the complaint upon any person shown, by the records of the Copyright Office or otherwise, to have or claim an interest in the copyright, and shall require that such notice be served upon any person whose interest is likely to be affected by a decision in the case. The court may require the joinder, and shall permit the intervention, of any person having or claiming an interest in the copyright.
 
@@ -8,9 +8,13 @@
 
 (d) For any secondary transmission by a cable system that is actionable as an act of infringement pursuant to section 111(c)(3), the following shall also have standing to sue: (i) the primary transmitter whose transmission has been altered by the cable system; and (ii) any broadcast station within whose local service area the secondary transmission occurs.
 
-(e) With respect to any secondary transmission that is made by a satellite carrier of a primary transmission embodying the performance or display of a work and is actionable as an act of infringement under section 119(a)(5), a network station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local service area of that station.
+(e) With respect to any secondary transmission that is made by a satellite carrier of a performance or display of a work embodied in a primary transmission and is actionable as an act of infringement under section 119(a)(5), a network station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local service area of that station.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2584; Pub. L. 100–568, §10(a), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, §202(3), Nov. 16, 1988, 102 Stat. 3957; Pub. L. 101–553, §2(a)(1), Nov. 15, 1990, 104 Stat. 2749; Pub. L. 101–650, title VI, §606(a), Dec. 1, 1990, 104 Stat. 5131.)
+(f)(1) With respect to any secondary transmission that is made by a satellite carrier of a performance or display of a work embodied in a primary transmission and is actionable as an act of infringement under section 122, a television broadcast station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local market of that station.
+
+(2) A television broadcast station may file a civil action against any satellite carrier that has refused to carry television broadcast signals, as required under section 122(a)(2), to enforce that television broadcast station's rights under section 338(a) of the Communications Act of 1934.
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2584; Pub. L. 100–568, §10(a), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, §202(3), Nov. 16, 1988, 102 Stat. 3957; Pub. L. 101–553, §2(a)(1), Nov. 15, 1990, 104 Stat. 2749; Pub. L. 101–650, title VI, §606(a), Dec. 1, 1990, 104 Stat. 5131; Pub. L. 106–44, §1(g)(5), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §§1002(b), 1011(b)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–527, 1501A–544.)
 
 #### Historical and Revision Notes
 
@@ -30,7 +34,17 @@ Section 501 contains two provisions conferring standing to sue under the statue 
 
 <b>Vicarious Liability for Infringing Performances.</b> The committee has considered and rejected an amendment to this section intended to exempt the proprietors of an establishment, such as a ballroom or night club, from liability for copyright infringement committed by an independent contractor, such as an orchestra leader. A well-established principle of copyright law is that a person who violates any of the exclusive rights of the copyright owner is an infringer, including persons who can be considered related or vicarious infringers. To be held a related or vicarious infringer in the case of performing rights, a defendant must either actively operate or supervise the operation of the place wherein the performances occur, or control the content of the infringing program, and expect commercial gain from the operation and either direct or indirect benefit from the infringing performance. The committee has decided that no justification exists for changing existing law, and causing a significant erosion of the public performance right.
 
+#### References in Text
+
+Section 338(a) of the Communications Act of 1934, referred to in subsec. (f)(2), is classified to section 338(a)of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–44 substituted “121” for “118”.
+
+Subsec. (e). Pub. L. 106–113, §1000(a)(9) \[title I, §1011(b)(3)\], substituted “performance or display of a work embodied in a primary transmission” for “primary transmission embodying the performance or display of a work”.
+
+Subsec. (f). Pub. L. 106–113, §1000(a)(9) \[title I, §1002(b)\], added subsec. (f).
 
 1990—Subsec. (a). Pub. L. 101–650 inserted “or of the author as provided in section 106A(a)” after “118” and substituted “copyright or right of the author, as the case may be. For purposes of this chapter (other than section 506), any reference to copyright shall be deemed to include the rights conferred by section 106A(a).” for “copyright.”
 
@@ -39,6 +53,10 @@ Pub. L. 101–553 inserted sentences at end defining “anyone” and providing 
 1988—Subsec. (b). Pub. L. 100–568 substituted “section 411” for “sections 205(d) and 411”.
 
 Subsec. (e). Pub. L. 100–667 added subsec. (e).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by section 1000(a)(9) \[title I, §1002(b)\] of Pub. L. 106–113 effective July 1, 1999, and amendment by section 1000(a)(9) \[title I, §1011(b)(3)\] of Pub. L. 106–113 effective Nov. 29, 1999, see section 1000(a)(9) \[title I, §1012\] of Pub. L. 106–113, set out as a note under section 101 of this title.
 
 #### Effective Date of 1990 Amendments
 
@@ -88,5 +106,5 @@ Works consisting of sounds, images, or both, the first fixation of which is made
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 109, 111, 115, 119, 411, 510, 602 of this title.
+This section is referred to in sections 109, 111, 115, 119, 122, 411, 510, 602 of this title.
 

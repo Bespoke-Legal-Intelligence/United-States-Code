@@ -12,7 +12,7 @@ Except as otherwise provided in subsection (c) of this section, the Secretary sh
 
 #### (b) Preliminary reservation of assistance at time of initial approval of project
 
-In making available the assistance authorized by section 1483 of this title and section 1490a(a) of this title with respect to projects involvinginsured and guaranteed loans and interest credits and rental assistance payments, the Secretary shall process and approve requests for such assistance in a manner that provides for a preliminary reservation of assistance at the time of initial approval of the project.
+In making available the assistance authorized by section 1483 of this title and section 1490a(a) of this title with respect to projects involving insured and guaranteed loans and interest credits and rental assistance payments, the Secretary shall process and approve requests for such assistance in a manner that provides for a preliminary reservation of assistance at the time of initial approval of the project.
 
 #### (c) Prioritization of section 1485 housing assistance
 
@@ -40,7 +40,7 @@ In making available the assistance authorized by section 1483 of this title and 
 
 #### (4) Designation
 
-&emsp;A designation under this subsection shall not be effective for a period of more than 3 years, but may be renewed by the Secretary in accordance with the procedure set forth in this subsection. The Secretary shall take such other reasonable actions as the Secretary considers to be appropriate to notify the public of such designations.
+&emsp;A designation under this subsection shall not be effective for a period of more than 3years, but may be renewed by the Secretary in accordance with the procedure set forth in this subsection. The Secretary shall take such other reasonable actions as the Secretary considers to be appropriate to notify the public of such designations.
 
 (July 15, 1949, ch. 338, title V, §532, as added Pub. L. 98–181, title V, §521, Nov. 30, 1983, 97 Stat. 1250; amended Pub. L. 104–180, title VII, §734(f), Aug. 6, 1996, 110 Stat. 1604.)
 

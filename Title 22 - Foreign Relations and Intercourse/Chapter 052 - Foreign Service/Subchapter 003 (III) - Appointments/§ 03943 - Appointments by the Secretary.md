@@ -6,7 +6,7 @@ The Secretary may appoint the members of the Service (other than the members of 
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 #### Prohibition on Certain Employment at United States Diplomatic and Consular Missions in Communist Countries
 
@@ -72,5 +72,5 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3903, 3946, 3948, 3951, 4001, 4006 of this title.
+This section is referred to in sections 3903, 3922, 3946, 3948, 3951, 4001, 4006 of this title; title 5 section 5927.
 

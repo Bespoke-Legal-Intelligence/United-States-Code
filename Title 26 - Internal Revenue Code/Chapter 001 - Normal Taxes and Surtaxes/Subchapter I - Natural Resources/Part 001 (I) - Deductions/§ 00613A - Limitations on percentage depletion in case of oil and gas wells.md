@@ -86,7 +86,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 &emsp;&emsp;Except as provided in subsection (d) and subparagraph (B), the allowance for depletion under section 611 shall be computed in accordance with section 613 with respect to—
 
-&emsp;&emsp;&emsp;(i) so much of the taxpayer's average daily marginal production of domesticcrude oil as does not exceed the taxpayer's depletable oil quantity (determined without regard to paragraph (3)(A)(ii)), and
+&emsp;&emsp;&emsp;(i) so much of the taxpayer's average daily marginal production of domestic crude oil as does not exceed the taxpayer's depletable oil quantity (determined without regard to paragraph (3)(A)(ii)), and
 
 &emsp;&emsp;&emsp;(ii) so much of the taxpayer's average daily marginal production of domestic natural gas as does not exceed the taxpayer's depletable natural gas quantity (determined without regard to paragraph (3)(A)(ii)),
 
@@ -138,17 +138,17 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 #### (H) Temporary suspension of taxable income limit with respect to marginal production
 
-&emsp;&emsp;The second sentence of subsection (a) of section 613 shall not apply to so much of the allowance for depletion as is determined under subparagraph (A) for any taxable year beginning after December 31, 1997, and before January 1, 2000.
+&emsp;&emsp;The second sentence of subsection (a) of section 613 shall not apply to so much of the allowance for depletion as is determined under subparagraph (A) for any taxable year beginning after December 31, 1997, and before January 1, 2002.
 
 #### (7) Special rules
 
 #### (A) Production of crude oil in excess of depletable oil quantity
 
-&emsp;&emsp;If the taxpayer's average daily production of domestic crude oil exceeds his depletable oil quantity, the allowance under paragraph (1)(A) with respect to oil produced during the taxable year from each property in the United States shall be that amount which bears the same ratio to the amount of depletion which would have been allowable under section 613(a) for all of the taxpayer's oil produced from such property during the taxable year (computed as if section 613 applied to all of such production at the rate specified in paragraph (1) or (6), as the case may be) as his depletable oil quantity bears to the aggregate number of barrels representing the average daily production of domestic crude oil of the taxpayer for such year.
+&emsp;&emsp;If the taxpayer's average daily production of domestic crude oil exceeds his depletableoil quantity, the allowance under paragraph (1)(A) with respect to oil produced during the taxable year from each property in the United States shall be that amount which bears the same ratio to the amount of depletion which would have been allowable under section 613(a) for all of the taxpayer's oil produced from such property during the taxable year (computed as if section 613 applied to all of such production at the rate specified in paragraph (1) or (6), as the case may be) as his depletable oil quantity bears to the aggregate number of barrels representing the average daily production of domestic crude oil of the taxpayer for such year.
 
 #### (B) Production of natural gas in excess of depletable natural gas quantity
 
-&emsp;&emsp;If the taxpayer's average daily production of domestic natural gas exceeds his depletable natural gas quantity, the allowance under paragraph (1)(B) with respect to natural gas produced during the taxable year from each property in the United States shall be that amount which bears the same ratio to the amount of depletion which would have been allowable under section 613(a) for all of the taxpayers <sup>1</sup> natural gas produced from such property during the taxable year (computed as if section 613 applied to all of such production at the rate specified in paragraph (1) or (6), as the case may be) as the amount of his depletable naturalgas quantity in cubic feet bears to the aggregate number of cubic feet representing the average daily production of domestic natural gas of the taxpayer for such year.
+&emsp;&emsp;If the taxpayer's average daily production of domestic natural gas exceeds his depletable natural gas quantity, the allowance under paragraph (1)(B) with respect to natural gas produced during the taxable year from each property in the United States shall be that amount which bears the same ratio to the amount of depletion which would have been allowable under section 613(a) for all of the taxpayers <sup>1</sup> natural gas produced from such property during the taxable year (computed as if section 613 applied to all of such production at the rate specified in paragraph (1) or (6), as the case may be) as the amount of his depletable natural gas quantity in cubic feet bears to the aggregate number of cubic feet representing the average daily production of domestic natural gas of the taxpayer for such year.
 
 #### (C) Taxable income from the property
 
@@ -186,7 +186,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 #### (9) Special rule for fiscal year taxpayers
 
-&emsp;In applying this subsection to a taxable year which is not a calendar year, each portion of such taxable year which occurs during a single calendar year shall be treated as if it were a short taxable year.
+&emsp;In applying this subsection to a taxable year which is not a calendar year, each portion ofsuch taxable year which occurs during a single calendar year shall be treated as if it were a short taxable year.
 
 #### (10) Certain production not taken into account
 
@@ -272,7 +272,7 @@ For purposes of this section—
 
 &emsp;The term “barrel” means 42 United States gallons.
 
-(Added Pub. L. 94–12, title V, §501(a), Mar. 29, 1975, 89 Stat. 47; amended Pub. L. 94–455, title XIX, §§1901(a)(86), 1906(b)(13)(A), title XXI, §2115(a)–(c)(1), (d), (e), Oct. 4, 1976, 90 Stat. 1779, 1834, 1907–1909; Pub. L. 95–30, title I, §102(b)(7), May 23, 1977, 91 Stat. 138; Pub. L. 95–618, title IV, §403(a)(2)(B), (b), Nov. 9, 1978, 92 Stat. 3204; Pub. L. 96–603, §3(a), Dec. 28, 1980, 94 Stat. 3511; Pub. L. 97–354, §3(a), Oct. 19, 1982, 96 Stat. 1687; Pub. L. 97–448, title II, §202(d), Jan. 12, 1983, 96 Stat. 2396; Pub. L. 98–369, div. A, title I, §§25(b), 71(b), July 18, 1984, 98 Stat. 506, 589; Pub. L. 99–514, title I, §104(b)(9), title IV, §412(a)(1), Oct. 22, 1986, 100 Stat. 2105, 2227; Pub. L. 101–508, title XI, §§11521(a), (b), 11522(b)(1), 11523(a), (b), 11815(a), Nov. 5, 1990, 104 Stat. 1388–485 to 1388–487, 1388–557; Pub. L. 104–188, title I, §1702(e)(2), Aug. 20, 1996, 110 Stat. 1870; Pub. L. 105–34, title IX, §972(a), Aug. 5, 1997, 111 Stat. 897.)
+(Added Pub. L. 94–12, title V, §501(a), Mar. 29, 1975, 89 Stat. 47; amended Pub. L. 94–455, title XIX, §§1901(a)(86), 1906(b)(13)(A), title XXI, §2115(a)–(c)(1), (d), (e), Oct. 4, 1976, 90 Stat. 1779, 1834, 1907–1909; Pub. L. 95–30, title I, §102(b)(7), May 23, 1977, 91 Stat. 138; Pub. L. 95–618, title IV, §403(a)(2)(B), (b), Nov. 9, 1978, 92 Stat. 3204; Pub. L. 96–603, §3(a), Dec. 28, 1980, 94 Stat. 3511; Pub. L. 97–354, §3(a), Oct. 19, 1982, 96 Stat. 1687; Pub. L. 97–448, title II, §202(d), Jan. 12, 1983, 96 Stat. 2396; Pub. L. 98–369, div. A, title I, §§25(b), 71(b), July 18, 1984, 98 Stat. 506, 589; Pub. L. 99–514, title I, §104(b)(9), title IV, §412(a)(1), Oct. 22, 1986, 100 Stat. 2105, 2227; Pub. L. 101–508, title XI, §§11521(a), (b), 11522(b)(1), 11523(a), (b), 11815(a), Nov. 5, 1990, 104 Stat. 1388–485 to 1388–487, 1388–557; Pub. L. 104–188, title I, §1702(e)(2), Aug. 20, 1996, 110 Stat. 1870; Pub. L. 105–34, title IX, §972(a), Aug. 5, 1997, 111 Stat. 897; Pub. L. 106–170, title V, §504(a), Dec. 17, 1999, 113 Stat. 1921.)
 
 #### References in Text
 
@@ -281,6 +281,8 @@ Section 503 of the Natural Gas Policy Act of 1978, referred to in subsec. (b)(3)
 The Subchapter S Revision Act of 1982, referred to in subsec. (c)(11)(B), is Pub. L. 97–354, Oct. 19, 1982, 96 Stat. 1669, which is classified principally to subchapter S (§1361 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title of 1982 Amendments note set out under section 1 of this title and Tables.
 
 #### Amendments
+
+1999—Subsec. (c)(6)(H). Pub. L. 106–170 substituted “January 1, 2002” for “January 1, 2000”.
 
 1997—Subsec. (c)(6)(H). Pub. L. 105–34 added subpar. (H).
 
@@ -364,6 +366,10 @@ Subsec. (d)(2). Pub. L. 94–455, §2115(a), inserted “(excluding bulk sales o
 
 Subsec. (d)(3). Pub. L. 94–455, §2115(d), inserted provision following subpar. (C) relating to the determination of a significant ownership interest of a corporation, partnership, trust, or estate.
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–170, title V, §504(b), Dec. 17, 1999, 113 Stat. 1921, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1999.”
+
 #### Effective Date of 1997 Amendment
 
 Section 972(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
@@ -402,7 +408,7 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1980 Amendment
 
-Section 3(b) of Pub. L. 96–603, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to transfers in taxable years ending after December 31, 1974, but only for purposes of applying section 613A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] to periods after December 31, 1979.”
+Section 3(b) of Pub. L. 96–603, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendments made by subsection (a) \[amending this section\] shall apply to transfers in taxable years ending after December 31, 1974, but only for purposes of applying section 613A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] to periods after December 31, 1979.”
 
 #### Effective Date of 1978 Amendment
 
@@ -424,7 +430,7 @@ Section 501(c) of Pub. L. 94–12 provided that: “The amendments made by this 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11815(a) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending afterNov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by section 11815(a) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Transfer of Functions
 

@@ -92,7 +92,7 @@ Value engineering defined.—In this subsection, the term “value engineering a
 
 Financial Plan.—A recipient of Federal financial assistance for a project under this title with an estimated total cost of $1,000,000,000 or more shall submit to the Secretary an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 892; Pub. L. 88–157, §7(a), Oct. 24, 1963, 77 Stat. 278; Pub. L. 91–605, title I, §§106(e), 142, Dec. 31, 1970, 84 Stat. 1717, 1737; Pub. L. 94–280, title I, §114, May 5, 1976, 90 Stat. 436; Pub. L. 100–17, title I, §133(b)(4), Apr. 2, 1987, 101 Stat. 171; Pub. L. 102–240, title I, §§1016(b), 1018(a), Dec. 18, 1991, 105 Stat. 1945, 1948; Pub. L. 104–59, title III, §303, Nov. 28, 1995, 109 Stat. 578; Pub. L. 105–178, title I, §1305(a)–(c), June 9, 1998, 112 Stat. 227–229.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 892; Pub. L. 88–157, §7(a), Oct. 24, 1963, 77 Stat. 278; Pub. L.91–605, title I, §§106(e), 142, Dec. 31, 1970, 84 Stat. 1717, 1737; Pub. L. 94–280, title I, §114, May 5, 1976, 90 Stat. 436; Pub. L. 100–17, title I, §133(b)(4), Apr. 2, 1987, 101 Stat. 171; Pub. L. 102–240, title I, §§1016(b), 1018(a), Dec. 18, 1991, 105 Stat. 1945, 1948; Pub. L. 104–59, title III, §303, Nov. 28, 1995, 109 Stat. 578; Pub. L. 105–178, title I, §1305(a)–(c), June 9, 1998, 112 Stat. 227–229.)
 
 #### References in Text
 

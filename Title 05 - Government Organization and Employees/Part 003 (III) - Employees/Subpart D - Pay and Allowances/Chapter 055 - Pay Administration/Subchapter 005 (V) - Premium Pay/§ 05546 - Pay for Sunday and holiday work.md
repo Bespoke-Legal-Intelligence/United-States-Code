@@ -14,7 +14,7 @@
 
 (e) Premium pay under this section is in addition to premium pay which may be due for the same work under section 5545(a) and (b) of this title, providing premium pay for nightwork.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 488; Pub. L. 90–83, §1(29), Sept. 11, 1967, 81 Stat. 201; Pub. L. 90–623, §1(13), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 105–277, div. G, title XXIII, §2317(2), Oct. 21, 1998, 112 Stat. 2681–829.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 488; Pub. L. 90–83, §1(29), Sept. 11, 1967, 81 Stat. 201; Pub. L. 90–623, §1(13), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2317(2), Oct. 21, 1998, 112 Stat. 2681–829.)
 
 Historical and Revision Notes<br>1966
 
@@ -82,11 +82,11 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 #### Transfer of Functions
 
-District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2,1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, classified to section 1–211 of the District of Columbia Code, and replaced by Council of District of Columbia, as provided by Pub. L. 93–198, title IV, §401, Dec. 24, 1973, 87 Stat. 785, classified to section 1–221 of the District of Columbia Code.
+District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, classified to section 1–211 of the District of Columbia Code, and replaced by Council of District of Columbia, as provided by Pub. L. 93–198, title IV, §401, Dec. 24, 1973, 87 Stat. 785, classified to section 1–221 of the District of Columbia Code.
 
 #### Condition of Performance
 
-Pub. L. 105–277, div. A, title I, §101(h) \[title VI, §624\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–518, provided that: “Notwithstanding any other provision of law, no part of any funds provided by this Act or any other Act beginning in fiscal year 1999 and thereafter shall be available for paying Sunday premium pay to any employee unless such employee actually performed work during the time corresponding to such premium pay.”
+Pub. L. 105–277, div. A, §101(h) \[title VI, §624\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–518, provided that: “Notwithstanding any other provision of law, no part of any funds provided by this Act or any other Act beginning in fiscal year 1999 and thereafter shall be available for paying Sunday premium pay to any employee unless such employee actually performed work during the time corresponding to such premium pay.”
 
 Similar provisions were contained in the following prior appropriations act:
 

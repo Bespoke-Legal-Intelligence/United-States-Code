@@ -14,7 +14,7 @@ Notwithstanding section 10(a)(1) of the Contract Disputes Act of 1978 (41 U.S.C.
 
 #### (c) Exclusive jurisdiction to decide protests
 
-The Board shall decide protests submitted to it under this subsection by interested parties in accordance with subchapter V <sup>1</sup> of title 31. Notwithstanding section 3556 of that title, section 1491(b) of title 28, and any other provision of law, the Board shall have exclusive jurisdiction to decide such protests. For purposes of this subsection—
+The Board shall decide protests submitted to it under this subsection by interested parties inaccordance with subchapter V <sup>1</sup> of title 31. Notwithstanding section 3556 of that title, section 1491(b) of title 28, and any other provision of law, the Board shall have exclusive jurisdiction to decide such protests. For purposes of this subsection—
 
 &emsp;(1) except as provided in paragraph (2), each reference to the Comptroller General in sections 3551 through 3555 of title 31, is deemed to be a reference to the Board;
 
@@ -36,7 +36,7 @@ The Board shall begin to function as soon as it has been established and has pre
 
 #### (f) Transition
 
-The Board shall have jurisdiction under subsections (b) and (c) of this section over any appeals and protests filed on or after the date onwhich the Board begins to function. Any appeals and protests filed before such date shall remain before the forum in which they were filed.
+The Board shall have jurisdiction under subsections (b) and (c) of this section over any appeals and protests filed on or after the date on which the Board begins to function. Any appeals and protests filed before such date shall remain before the forum in which they were filed.
 
 #### (g) Other functions
 

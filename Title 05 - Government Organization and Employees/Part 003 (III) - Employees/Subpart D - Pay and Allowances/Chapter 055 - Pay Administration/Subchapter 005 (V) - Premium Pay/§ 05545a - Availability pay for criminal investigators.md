@@ -100,7 +100,7 @@
 
 &emsp;(C) paragraph (2)(B) of such subsection shall be applied by substituting for “Office of Personnel Management” the following: “Office of Personnel Management or the Secretary of State (to the extent that matters exclusively within the jurisdiction of the Secretary are concerned)”.
 
-(Added Pub. L. 103–329, title VI, §633(b)(1), Sept. 30, 1994, 108 Stat. 2425; amended Pub. L. 104–19, title I, §§901, 902(a), July 27, 1995, 109 Stat. 230; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(b)(2)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–277, div. A, title I, §101(b) \[title IV, §407(a), (c)(1)\], div. G, title XXIII, §2316(a), (c)(1), Oct. 21, 1998, 112 Stat. 2681–50, 2681–101, 2681–102, 2681–828.)
+(Added Pub. L. 103–329, title VI, §633(b)(1), Sept. 30, 1994, 108 Stat. 2425; amended Pub. L. 104–19, title I, §§901, 902(a), July 27, 1995, 109 Stat. 230; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(b)(2)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–277, div. A, §101(b) \[title IV, §407(a), (c)(1)\], div. G, subdiv. B, title XXIII, §2316(a), (c)(1), Oct. 21, 1998, 112 Stat. 2681–50, 2681–101, 2681–102, 2681–828.)
 
 #### References in Text
 
@@ -146,7 +146,7 @@ Section 633(e) of Pub. L. 103–329 provided that: “The amendments made by thi
 
 #### Implementation
 
-Pub. L. 105–277, div. A, title I, §101(b) \[title IV, §407(b)\], div. G, §2316(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–102, 2681–828, provided that: “Not later than the date on which the amendments made by this section \[amending this section and section 5542 of this title\] take effect \[see Effective Date of 1998 Amendment note set out above\], each special agent of the Diplomatic Security Service who satisfies the requirements of subsection (k)(1) of section 5545a of title 5, United States Code, as amended by this section, and the appropriate supervisory officer, to be designated by the Secretary of State, shall make an initial certification to the Secretary of State that the special agent is expected to meet the requirements of subsection (d) of such section 5545a. The Secretary of State may prescribe procedures necessary to administer this subsection.”
+Pub. L. 105–277, div. A, §101(b) \[title IV, §407(b)\], div. G, subdiv. B, title XXIII, §2316(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–102, 2681–828, provided that: “Not later than the date on which the amendments made by this section \[amending this section and section 5542 of this title\] take effect \[see Effective Date of 1998 Amendment note set out above\], each special agent of the Diplomatic Security Service who satisfies the requirements of subsection (k)(1) of section 5545a of title 5, United States Code, as amended by this section, and the appropriate supervisory officer, to be designated by the Secretary of State, shall make an initial certification to the Secretary of State that the special agent is expected to meet the requirements of subsection (d) of such section 5545a. The Secretary of State may prescribe procedures necessary to administer this subsection.”
 
 #### Certification of Criminal Investigators
 

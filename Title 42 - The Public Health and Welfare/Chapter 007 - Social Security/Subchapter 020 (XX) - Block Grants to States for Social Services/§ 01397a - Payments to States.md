@@ -2,7 +2,7 @@
 
 #### (a) Amount; covered services
 
-(1) Each State shall be entitled to payment under this subchapter for each fiscal year in an amount equal to its allotment for such fiscal year, to be used by such State for services directed at the goals set forth in section 1397 ofthis title, subject to the requirements of this subchapter.
+(1) Each State shall be entitled to payment under this subchapter for each fiscal year in an amount equal to its allotment for such fiscal year, to be used by such State for services directed at the goals set forth in section 1397 of this title, subject to the requirements of this subchapter.
 
 (2) For purposes of paragraph (1)—
 
@@ -66,7 +66,7 @@ A prior section 1397a, acts Aug. 14, 1935, ch. 531, title XX, §2002, as added J
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting anyright, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Temporary Suspension of Child Day Care Services Requirements
 

@@ -20,7 +20,7 @@ Income of a trust shall not be considered taxable to the grantor under subsectio
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–514 substituted “the occurrence of an event” for “the expiration of a period” and “the occurrence of the event” for “the expiration of the period” in last sentence.
+1986—Subsec. (a). Pub. L. 99–514 substituted “the occurrence of an event” for “the expiration of a period”and “the occurrence of the event” for “the expiration of the period” in last sentence.
 
 1969—Subsec. (a)(1) to (3). Pub. L. 91–172, §332(a)(1), inserted “or the grantor's spouse” after “the grantor” in pars. (1), (2), and (3).
 

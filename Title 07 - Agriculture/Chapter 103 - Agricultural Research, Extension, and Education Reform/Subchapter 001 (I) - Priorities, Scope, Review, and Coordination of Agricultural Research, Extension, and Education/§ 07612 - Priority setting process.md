@@ -30,7 +30,7 @@ To the maximum extent practicable, the Secretary shall ensure that federally sup
 
 &emsp;(2) encourages regional and multistate programs to address relevant issues of common concern and to better leverage scarce resources; and
 
-&emsp;(3) achieves agricultural research, extension, and education objectives through multi-institutional and multifunctional approaches andby conducting research at facilities and institutions best equipped to achieve those objectives.
+&emsp;(3) achieves agricultural research, extension, and education objectives through multi-institutional and multifunctional approaches and by conducting research at facilities and institutions best equipped to achieve those objectives.
 
 (Pub. L. 105–185, title I, §102, June 23, 1998, 112 Stat. 526.)
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Proclamations and Executive Orders; Documents Having General Applicability andLegal Effect; Documents Required To Be Published by Congress. There shall be published in the Federal Register—
+Proclamations and Executive Orders; Documents Having General Applicability and Legal Effect; Documents Required To Be Published by Congress. There shall be published in the Federal Register—
 
 &emsp;(1) Presidential proclamations and Executive orders, except those not having general applicability and legal effect or effective only against Federal agencies or persons in their capacity as officers, agents, or employees thereof;
 
@@ -24,7 +24,7 @@ Suspension of Requirements for Filing of Documents; Alternate Systems for Promul
 
 &emsp;(2) under existing conditions publication in the Federal Register would not serve to give appropriate notice to the public of the contents of documents, the President may, without regard to any other provision of law, suspend all or part of the requirements of law or regulation for filing with the Office or publication in the Federal Register of documents or classes of documents.
 
-The suspensions shall remain in effect until revoked by the President, or by concurrent resolution of the Congress. The President shall establish alternate systems for promulgating, filing, or publishing documents or classes of documents affected by such suspensions, including requirements relating to their effectiveness or validity, that may be considered under the then existing circumstances practicable to provide public notice of the issuance and of the contents of the documents. The alternate systems may, without limitation, provide for the use of regional or specialized publications or depositories for documents, or of the press, the radio, or similar mediums of general communication. Compliance with alternate systems of filing or publication shall have the same effect as filing with the Office or publication in the Federal Register under this chapter or other law or regulation. With respect to documents promulgated under alternate systems, each agency shall preserve the original and two duplicate originals or two certified copies for filing with the Office when the President determines that it is practicable.
+The suspensions shall remain in effect until revoked by the President, or by concurrent resolution of the Congress. The President shall establish alternate systems for promulgating, filing, or publishing documents or classes of documents affected by such suspensions, including requirements relating to their effectiveness or validity, that may be considered under the thenexisting circumstances practicable to provide public notice of the issuance and of the contents of the documents. The alternate systems may, without limitation, provide for the use of regional or specialized publications or depositories for documents, or of the press, the radio, or similar mediums of general communication. Compliance with alternate systems of filing or publication shall have the same effect as filing with the Office or publication in the Federal Register under this chapter or other law or regulation. With respect to documents promulgated under alternate systems, each agency shall preserve the original and two duplicate originals or two certified copies for filing with the Office when the President determines that it is practicable.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1274.)
 

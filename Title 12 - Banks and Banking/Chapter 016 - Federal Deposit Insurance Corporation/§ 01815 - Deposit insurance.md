@@ -36,7 +36,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;(3) its future earnings prospects,
 
-&emsp;(4) the general character and fitness of its management, including but not limited to themanagement of the branch proposed to be insured,
+&emsp;(4) the general character and fitness of its management, including but not limited to the management of the branch proposed to be insured,
 
 &emsp;(5) the risk presented to the Bank Insurance Fund or the Savings Association Insurance Fund,
 
@@ -90,7 +90,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;For purposes of this paragraph, the term “conversion transaction” means—
 
-&emsp;&emsp;&emsp;(i) the change of status of an insured depository institution from a Bank Insurance Fund member to a Savings Association Insurance Fund member or from aSavings Association Insurance Fund member to a Bank Insurance Fund member;
+&emsp;&emsp;&emsp;(i) the change of status of an insured depository institution from a Bank Insurance Fund member to a Savings Association Insurance Fund member or from a Savings Association Insurance Fund member to a Bank Insurance Fund member;
 
 &emsp;&emsp;&emsp;(ii) the merger or consolidation of a Bank Insurance Fund member with a Savings Association Insurance Fund member;
 
@@ -146,11 +146,11 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;&emsp;&emsp;(II) shall be paid to the Financing Corporation, if the Secretary of the Treasury determines that the Financing Corporation has exhausted all other sources of funding for interest payments on the obligations of the Financing Corporation and orders that such fees be paid to the Financing Corporation;
 
-&emsp;&emsp;&emsp;(ii) in the case of a conversion transaction in which the resulting or acquiring depository institution is not a Bank Insurance Fund member, an exit fee in an amount to be determined by the Corporation (and assessed in accordance with subparagraph (F)(ii)) which shall be deposited in the Bank Insurance Fund; and
+&emsp;&emsp;&emsp;(ii) in the case of a conversion transaction in which the resulting or acquiringdepository institution is not a Bank Insurance Fund member, an exit fee in an amount to be determined by the Corporation (and assessed in accordance with subparagraph (F)(ii)) which shall be deposited in the Bank Insurance Fund; and
 
 &emsp;&emsp;&emsp;(iii) an entrance fee in an amount to be determined by the Corporation (and assessed in accordance with subparagraph (F)(ii)), except that—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of a conversion transaction in which the resulting or acquiring depository institution is a Bank Insurance Fund member, the fee shall bethe approximate amount which the Corporation calculates as necessary to prevent dilution of the Bank Insurance Fund, and shall be paid to the Bank Insurance Fund; and
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a conversion transaction in which the resulting or acquiring depository institution is a Bank Insurance Fund member, the fee shall be the approximate amount which the Corporation calculates as necessary to prevent dilution of the Bank Insurance Fund, and shall be paid to the Bank Insurance Fund; and
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a conversion transaction in which the resulting or acquiring depository institution is a Savings Association Insurance Fund member, the fee shall be the approximate amount which the Corporation calculates as necessary to prevent dilution of the Savings Association Insurance Fund, and shall be paid to the Savings Association Insurance Fund.
 
@@ -216,7 +216,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (ii) No transfer of deposit insurance permitted
 
-&emsp;&emsp;&emsp;This paragraph shall not be construed as authorizing transactions which result inthe transfer of any insured depository institution's Federal deposit insurance from 1 Federal deposit insurance fund to the other Federal deposit insurance fund.
+&emsp;&emsp;&emsp;This paragraph shall not be construed as authorizing transactions which result in the transfer of any insured depository institution's Federal deposit insurance from 1 Federal deposit insurance fund to the other Federal deposit insurance fund.
 
 #### (iii) Capital requirements
 
@@ -364,7 +364,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation, in its discretion, may exempt any insured depository institution from the provisions of this subsection if the Corporation determines that such exemptionis in the best interests of the Bank Insurance Fund or the Savings Association Insurance Fund.
+&emsp;&emsp;The Corporation, in its discretion, may exempt any insured depository institution from the provisions of this subsection if the Corporation determines that such exemption is in the best interests of the Bank Insurance Fund or the Savings Association Insurance Fund.
 
 #### (B) Condition
 
@@ -418,7 +418,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;(B) 1 depository institution is controlled by another depository institution.
 
-(Sept. 21, 1950, ch. 967, §2\[5\], 64 Stat. 876; Pub. L. 95–369, §6(c)(7), Sept. 17, 1978, 92 Stat. 616; Pub. L. 97–320, title VII, §703(c), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 101–73, title II, §§201(a), 206(a), Aug. 9, 1989, 103 Stat. 187, 195; Pub. L. 102–242, title I, §115(a), title III, §302(e)(1), (2), title V, §501(a), Dec. 19, 1991, 105 Stat. 2249, 2349, 2388; Pub. L. 102–550, title XVI, §§1605(a)(5)(B), 1607(a), Oct. 28, 1992, 106 Stat. 4085, 4089; Pub. L. 102–558, title III, §§303(b)(6)(B), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–204, §9, Dec. 17, 1993, 107 Stat. 2388; Pub. L. 103–325, title III, §319(b), title VI, §602(a)(2), (3), Sept. 23, 1994, 108 Stat. 2225, 2288; Pub. L. 104–208, div. A, title II, §§2201(a), 2702(i), 2704(d)(14)(B)–(E), Sept. 30, 1996, 110 Stat. 3009–403, 3009–483, 3009–491.)
+(Sept. 21, 1950, ch. 967, §2\[5\], 64 Stat. 876; Pub. L. 95–369, §6(c)(7), Sept. 17, 1978, 92 Stat. 616; Pub. L. 97–320, title VII, §703(c), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 101–73, title II, §§201(a), 206(a), Aug. 9, 1989, 103 Stat. 187, 195; Pub. L. 102–242, title I, §115(a), title III, §302(e)(1), (2), title V, §501(a),Dec. 19, 1991, 105 Stat. 2249, 2349, 2388; Pub. L. 102–550, title XVI, §§1605(a)(5)(B), 1607(a), Oct. 28, 1992, 106 Stat. 4085, 4089; Pub. L. 102–558, title III, §§303(b)(6)(B), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–204, §9, Dec. 17, 1993, 107 Stat. 2388; Pub. L. 103–325, title III, §319(b), title VI, §602(a)(2), (3), Sept. 23, 1994, 108 Stat. 2225, 2288; Pub. L. 104–208, div. A, title II, §§2201(a), 2702(i), 2704(d)(14)(B)–(E), Sept. 30, 1996, 110 Stat. 3009–403, 3009–483, 3009–491.)
 
 #### Amendment of Section
 

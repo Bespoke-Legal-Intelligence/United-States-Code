@@ -40,5 +40,5 @@ Section effective Mar. 1, 1977, see section 312 of Pub. L. 94–265, formerly se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1853, 3606, 3637, 5103, 5106, 5606 of this title.
+This section is referred to in sections 1853, 3606, 3637, 5103, 5106, 5606 of this title; title 46 App. section 1273a.
 

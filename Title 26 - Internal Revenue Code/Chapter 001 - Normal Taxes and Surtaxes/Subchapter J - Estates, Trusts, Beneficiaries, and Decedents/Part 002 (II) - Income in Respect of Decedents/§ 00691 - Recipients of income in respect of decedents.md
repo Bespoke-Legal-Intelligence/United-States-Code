@@ -14,7 +14,7 @@
 
 #### (2) Income in case of sale, etc.
 
-&emsp;If a right, described in paragraph (1), to receive an amount is transferred by the estate of the decedent or a person who received such right by reason of the death of the decedent or by bequest, devise, or inheritance from the decedent, there shall be included in the gross income of the estate or such person, as the case may be, for the taxable period in which the transfer occurs, the fair market value of suchright at the time of such transfer plus the amount by which any consideration for the transfer exceeds such fair market value. For purposes of this paragraph, the term “transfer” includes sale, exchange, or other disposition, or the satisfaction of an installment obligation at other than face value, but does not include transmission at death to the estate of the decedent or a transfer to a person pursuant to the right of such person to receive such amount by reason of the death of the decedent or by bequest, devise, or inheritance from the decedent.
+&emsp;If a right, described in paragraph (1), to receive an amount is transferred by the estate of the decedent or a person who received such right by reason of the death of the decedent or by bequest, devise, or inheritance from the decedent, there shall be included in the gross income of the estate or such person, as the case may be, for the taxable period in which the transfer occurs, the fair market value of such right at the time of such transfer plus the amount by which any consideration for the transfer exceeds such fair market value. For purposes of this paragraph, the term “transfer” includes sale, exchange, or other disposition, or the satisfaction of an installment obligation at other than face value, but does not include transmission at death to the estate of the decedent or a transfer to a person pursuant to the right of such person to receive such amount by reason of the death of the decedent or by bequest, devise, or inheritance from the decedent.
 
 #### (3) Character of income determined by reference to decedent
 
@@ -94,10 +94,6 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;For purposes of sections 1(h), 1201, 1202, and 1211, the amount of any gain taken into account with respect to any item described in subsection (a)(1) shall be reduced (but not below zero) by the amount of the deduction allowable under paragraph (1) of this subsection with respect to such item.
 
-#### (5) Coordination with section 402(d)
-
-&emsp;For purposes of section 402(d) (other than paragraph (1)(C) thereof), the total taxable amount of any lump sum distribution shall be reduced by the amount of the deduction allowable under paragraph (1) of this subsection which is attributable to the total taxable amount (determined without regard to this paragraph).
-
 #### (d) Amounts received by surviving annuitant under joint and survivor annuity contract
 
 #### (1) Deduction for estate tax
@@ -128,17 +124,19 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;&emsp;<b>For application of this section to income in respect of a deceased partner, see section 753.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 235; Pub. L. 88–272, title II, §221(c)(2), Feb. 26, 1964, 78 Stat. 75; Pub. L. 88–570, §1, Sept. 2, 1964, 78 Stat. 854; Pub. L. 94–455, title XIX, §§1901(a)(91), 1906(b)(13)(A), 1951(b)(10)(A), title XX, §§2005(a)(4), 2006(b)(3), Oct. 4, 1976, 90 Stat. 1779, 1834, 1839, 1876, 1889; Pub. L. 95–600, title VII, §702(b)(1), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 96–222, title I, §101(a)(8)(A), Apr. 1, 1980, 94 Stat. 201; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 96–471, §§2(b)(5), 3, Oct. 19, 1980, 94 Stat. 2254; Pub. L. 97–34, title IV, §403(a)(2)(C), Aug. 13, 1981, 95 Stat. 301; Pub. L. 98–369, div. A, title IV, §474(r)(18), July 18, 1984, 98 Stat. 843; Pub. L. 99–514, title III, §301(b)(8), title XIV, §1432(a)(3), Oct. 22, 1986, 100 Stat. 2217, 2729; Pub. L. 100–203, title X, §10202(c)(3), Dec. 22,1987, 101 Stat. 1330–392; Pub. L. 100–647, title I, §1011A(g)(10), Nov. 10, 1988, 102 Stat. 3482; Pub. L. 101–239, title VII, §7841(d)(3), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 101–508, title XI, §11101(d)(4), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 102–318, title V, §521(b)(27), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §13113(d)(4), Aug. 10, 1993, 107 Stat. 430; Pub. L. 104–188, title I, §§1401(b)(9), 1704(t)(73), Aug. 20, 1996, 110 Stat. 1789, 1891; Pub. L. 105–34, title X, §1073(b)(1), Aug. 5, 1997, 111 Stat. 948.)
-
-#### Amendment of Subsection (c)
-
-<i>Pub. L. 104–188, title I, §1401(b)(9), (c), Aug. 20, 1996, 110 Stat. 1789, provided that, applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, subsection (c) of this section is amended by striking par. (5).</i>
+(Aug. 16, 1954, ch. 736, 68A Stat. 235; Pub. L. 88–272, title II, §221(c)(2), Feb. 26, 1964, 78 Stat. 75; Pub. L. 88–570, §1, Sept. 2, 1964, 78 Stat. 854; Pub. L. 94–455, title XIX, §§1901(a)(91), 1906(b)(13)(A), 1951(b)(10)(A), title XX, §§2005(a)(4), 2006(b)(3), Oct. 4, 1976, 90 Stat. 1779, 1834, 1839, 1876, 1889; Pub. L. 95–600, title VII, §702(b)(1), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 96–222, title I, §101(a)(8)(A), Apr. 1, 1980, 94 Stat. 201; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 96–471, §§2(b)(5), 3, Oct. 19, 1980, 94 Stat. 2254; Pub. L. 97–34, title IV, §403(a)(2)(C), Aug. 13, 1981, 95 Stat. 301; Pub. L. 98–369, div. A, title IV, §474(r)(18), July 18, 1984, 98 Stat. 843; Pub. L. 99–514, title III, §301(b)(8), title XIV, §1432(a)(3), Oct. 22, 1986, 100 Stat. 2217, 2729; Pub. L. 100–203, title X, §10202(c)(3), Dec. 22, 1987, 101 Stat. 1330–392; Pub. L. 100–647, title I, §1011A(g)(10), Nov. 10, 1988, 102 Stat. 3482; Pub. L. 101–239, title VII, §7841(d)(3), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 101–508, title XI, §11101(d)(4), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 102–318, title V, §521(b)(27), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §13113(d)(4), Aug. 10, 1993, 107 Stat. 430; Pub. L. 104–188, title I, §§1401(b)(9), 1704(t)(73), Aug. 20, 1996, 110 Stat. 1789, 1891; Pub. L. 105–34, title X, §1073(b)(1), Aug. 5, 1997, 111 Stat. 948.)
 
 #### Amendments
 
 1997—Subsec. (c)(1)(C). Pub. L. 105–34 struck out heading and text of subpar. (C). Text read as follows: “For purposes of this subsection, no deduction shall be allowed for the portion of the estate tax attributable to the increase in such tax under section 4980A(d).”
 
 1996—Subsec. (c)(5). Pub. L. 104–188, §1704(t)(73), provided that section 521(b)(27) of Pub. L. 102–318 shall be applied as if “Section 691(c)(5)” appeared instead of “Section 691(c)”. See 1992 Amendment note below.
+
+Pub. L. 104–188, §1401(b)(9), struck out par. (5) which read as follows:
+
+“(5)
+
+Coordination with section 402(d).—For purposes of section 402(d) (other than paragraph (1)(C) thereof), the total taxable amount of any lump sum distribution shall be reduced by the amount of the deduction allowable under paragraph (1) of this subsection which is attributable to the total taxable amount (determined without regard to this paragraph).”
 
 1993—Subsec. (c)(4). Pub. L. 103–66 inserted “1202,” after “1201,”.
 
@@ -186,7 +184,7 @@ Subsec. (c)(3). Pub. L. 94–455, §2006(b)(3), added par. (3).
 
 Subsec. (d)(3)(A), (B). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsecs. (e), (f). Pub. L. 94–455, §1951(b)(10)(A), redesignated subsec. (f) as (e) and struck out former subsec. (e) relating to certain installment obligations transmitted at death.
+Subsecs. (e), (f). Pub. L. 94–455, §1951(b)(10)(A), redesignated subsec. (f) as (e) and struck out former subsec.\(e) relating to certain installment obligations transmitted at death.
 
 1964—Subsec. (c)(2)(B). Pub. L. 88–272 substituted “421(c)(2), relating to the deduction for estate tax with respect to stock options to which part II of subchapter D applies” for “421(d)(6)(B), relating to the deduction for estate tax with respect to restricted stock options”.
 
@@ -214,7 +212,7 @@ Amendment by Pub. L. 101–508 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -268,7 +266,7 @@ Pub. L. 94–455, §2005(a)(4), cited as a credit to this section, and the amend
 
 #### Savings Provision
 
-Section 1951(b)(10)(B) of Pub. L. 94–455 provided that: “Notwithstanding subparagraph (A) \[amending this section\], any election made under section 691(e) to have subsection (a)(4) of such section apply in the case of an installment obligation shall continue to be effective with respect to taxable years beginning after December 31, 1976. Section 691(c) shall not apply in respect of any amount included in gross income by reason of the preceding sentence. The liability under bond filed under section 44(d) of the Internal Revenue Code of 1939 (or corresponding provisions of prior law) in respect of which such an election applies is hereby released with respect to taxable years to which such election applies.”
+Section 1951(b)(10)(B) of Pub. L. 94–455 provided that: “Notwithstanding subparagraph (A) \[amending this section\], any election made under section 691(e) to have subsection (a)(4) of such section apply in the case of an installment obligation shall continue to be effective with respect to taxable years beginning after December 31, 1976. Section 691(c) shall not apply in respect of any amount included in gross income by reason of the preceding sentence. The liability under bond filed under section 44(d) of the Internal Revenue Code of 1939 (or corresponding provisions of prior law) in respect ofwhich such an election applies is hereby released with respect to taxable years to which such election applies.”
 
 #### Plan Amendments Not Required Until January 1, 1998
 

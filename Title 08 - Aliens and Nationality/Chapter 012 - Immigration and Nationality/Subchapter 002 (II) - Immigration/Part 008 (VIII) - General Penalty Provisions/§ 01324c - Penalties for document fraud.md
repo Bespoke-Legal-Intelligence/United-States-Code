@@ -42,7 +42,7 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 #### (A) In general
 
-&emsp;&emsp;Before imposing an order described in paragraph (3) against a person or entity under this subsection for a violation of subsection (a) of this section, the Attorney General shall provide the person or entity withnotice and, upon request made within a reasonable time (of not less than 30 days, as established by the Attorney General) of the date of the notice, a hearing respecting the violation.
+&emsp;&emsp;Before imposing an order described in paragraph (3) against a person or entity under this subsection for a violation of subsection (a) of this section, the Attorney General shall provide the person or entity with notice and, upon request made within a reasonable time (of not less than 30 days, as established by the Attorney General) of the date of the notice, a hearing respecting the violation.
 
 #### (B) Conduct of hearing
 
@@ -54,7 +54,7 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 #### (3) Cease and desist order with civil money penalty
 
-&emsp;With respect to a violation of subsection (a) of this section, the order under this subsection shall require the person or entity to cease and desist from such violations and to pay a civil penalty in an amount of—
+&emsp;With respect to a violation of subsection (a) of this section, the order under this subsectionshall require the person or entity to cease and desist from such violations and to pay a civil penalty in an amount of—
 
 &emsp;&emsp;(A) not less than $250 and not more than $2,000 for each document that is the subject of a violation under subsection (a) of this section, or
 
@@ -108,7 +108,7 @@ Subsec. (d)(3)(A), (B). Pub. L. 104–208, §212(c), substituted “each documen
 
 Subsec. (d)(4). Pub. L. 104–208, §379(a)(2), substituted “the final agency decision and order under this subsection” for “a final order under this subsection”.
 
-Pub. L. 104–208, §379(a)(1), substituted “unless either (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B) within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations” for “unless, within 30 days, the Attorney General modifies or vacates the decision and order”.
+Pub. L. 104–208, §379(a)(1), substituted “unless either (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B)within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations” for “unless, within 30 days, the Attorney General modifies or vacates the decision and order”.
 
 Subsec. (d)(7). Pub. L. 104–208, §308(g)(10)(D), substituted “withholding of removal under section 241(b)(3) of this title” for “withholding of deportation under section 1253(h) of this title”.
 

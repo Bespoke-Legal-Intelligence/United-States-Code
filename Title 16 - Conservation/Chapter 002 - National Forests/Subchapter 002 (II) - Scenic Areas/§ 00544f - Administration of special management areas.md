@@ -6,7 +6,7 @@
 
 #### (b) Withdrawal of Federal lands
 
-Subject to valid existing rights, all Federal lands located in the special management areas are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws, from location, entry, and patent under the mining laws of the United States, and from disposition under all laws pertaining to mineral and geothermal leasing: <i>Provided</i>, That the Secretary may allow the exploration, development, or production of sand, gravel, and crushed rock as necessary to construct, maintain, or reconstruct roads in the special management areas.
+Subject to valid existing rights, all Federal lands located in the special management areas are hereby withdrawn from all forms of entry,appropriation, or disposal under the public land laws, from location, entry, and patent under the mining laws of the United States, and from disposition under all laws pertaining to mineral and geothermal leasing: <i>Provided</i>, That the Secretary may allow the exploration, development, or production of sand, gravel, and crushed rock as necessary to construct, maintain, or reconstruct roads in the special management areas.
 
 #### (c) Resource inventory
 
@@ -50,7 +50,7 @@ Within three years after November 17, 1986, the Secretary shall develop land use
 
 #### (j) Concurrence by Secretary
 
-(1) Upon receipt of a special management area land use ordinance from the Commission, the Secretary shall notify the public of such receipt and shall, within ninety days thereafter, concurwith the Commission's tentative determination of consistency with the management plan unless the Secretary determines the ordinance is inconsistent. Any ordinance submitted to the Secretary shall become effective upon notification of concurrence. Should the Secretary fail to act within ninety days, the Secretary shall be deemed to have concurred with the Commission's tentative consistency determination.
+(1) Upon receipt of a special management area land use ordinance from the Commission, the Secretary shall notify the public of such receipt and shall, within ninety days thereafter, concur with the Commission's tentative determination of consistency with the management plan unless the Secretary determines the ordinance is inconsistent. Any ordinance submitted to the Secretary shall become effective upon notification of concurrence. Should the Secretary fail to act within ninety days, the Secretary shall be deemed to have concurred with the Commission's tentative consistency determination.
 
 (2)
 
@@ -96,7 +96,7 @@ The public land laws, referred to in subsec. (b), are classified generally to Ti
 
 The mining laws of the United States, referred to in subsec. (b), are classified generally to Title 30, Mineral Lands and Mining.
 
-Laws pertaining to mineral leasing, referred to in subsec. (b), have been defined in sections 351, 505, 530, and 541e of Title 30 to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+Laws pertaining to mineral leasing, referred to in subsec. (b), have been defined in sections 351, 505, 530, and 541e of Title 30 to mean acts Oct. 20, 1914, ch. 330,38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
 
 Laws pertaining to geothermal leasing, referred to in subsec. (b), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
 

@@ -12,6 +12,7 @@
 - [&sect; 01373 - Regulations on taking of marine mammals](%C2%A7%2001373%20-%20Regulations%20on%20taking%20of%20marine%20mammals.md)
 - [&sect; 01374 - Permits](%C2%A7%2001374%20-%20Permits.md)
 - [&sect; 01375 - Penalties](%C2%A7%2001375%20-%20Penalties.md)
+- [&sect; 01375a - Use of fines for protection and recovery of manatees, polar bears, sea otters, and walruses](%C2%A7%2001375a%20-%20Use%20of%20fines%20for%20protection%20and%20recovery%20of%20manatees%2C%20polar%20bears%2C%20sea%20otters%2C%20and%20walruses.md)
 - [&sect; 01376 - Seizure and forfeiture of cargo](%C2%A7%2001376%20-%20Seizure%20and%20forfeiture%20of%20cargo.md)
 - [&sect; 01377 - Enforcement](%C2%A7%2001377%20-%20Enforcement.md)
 - [&sect; 01378 - International program](%C2%A7%2001378%20-%20International%20program.md)

@@ -12,7 +12,7 @@ The following shall be subject to forfeiture to the United States and no propert
 
 &emsp;(4) All conveyances, including aircraft, vehicles, or vessels, which are used, or are intended for use, to transport, or in any manner to facilitate the transportation, sale, receipt, possession, or concealment of property described in paragraph (1), (2), or (9), except that—
 
-&emsp;&emsp;(A) no conveyance used by any person as a common carrier in the transaction of business as a common carrier shall be forfeited under the provisions of this section unless it shall appear that the owner or other personin charge of such conveyance was a consenting party or privy to a violation of this subchapter or subchapter II of this chapter;
+&emsp;&emsp;(A) no conveyance used by any person as a common carrier in the transaction of business as a common carrier shall be forfeited under the provisions of this section unless it shall appear that the owner or other person in charge of such conveyance was a consenting party or privy to a violation of this subchapter or subchapter II of this chapter;
 
 &emsp;&emsp;(B) no conveyance shall be forfeited under the provisions of this section by reason of any act or omission established by the owner thereof to have been committed or omitted by any person other than such owner while such conveyance was unlawfully in the possession of a person other than the owner in violation of the criminal laws of the United States, or of any State; and
 
@@ -100,7 +100,7 @@ The provisions of law relating to the seizure, summary and judicial forfeiture, 
 
 (4)(A) With respect to real property described in subparagraph (B), if the chief executive officer of the State involved submits to the Attorney General a request for purposes of such subparagraph, the authority established in such subparagraph is in lieu of the authority established in paragraph (1)(B).
 
-(B) In the case of property described in paragraph (1)(B) that is civilly or criminally forfeited under this subchapter, if the property is real property that is appropriate for use as a public area reserved for recreational or historic purposes or for the preservation of natural conditions, the Attorney General, upon the request of the chief executive officer of the State in which the property is located, may transfer title to the property to the State, either without charge or for a nominal charge, through a legal instrument providing that—
+(B) In the case of property described in paragraph (1)(B) that is civilly or criminally forfeited under this subchapter, if the property is real property that is appropriate for use as a public area reserved for recreational or historic purposes or for the preservation of natural conditions, the Attorney General, upon the requestof the chief executive officer of the State in which the property is located, may transfer title to the property to the State, either without charge or for a nominal charge, through a legal instrument providing that—
 
 &emsp;(i) such use will be the principal use of the property; and
 
@@ -234,7 +234,7 @@ Section 6077(c) of Pub. L. 100–690, as amended by Pub. L. 101–162, title II,
 
 #### Transfer of Functions
 
-Bureau of Narcotics and Dangerous Drugs, including office of Director thereof, in Department of Justice abolished by Reorg. Plan No. 2 of 1973, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 2 of 1973 also created in Department of Justice a single, comprehensive agency for enforcement of drug laws to be known as Drug Enforcement Administration, empowered Attorney General to authorize performance by officers, employees, and agencies of Department of functions transferred to him, and directed Attorney General to coordinate all drug law enforcement functions to assure maximum cooperation between Drug Enforcement Administration, Federal Bureau of Investigation, and other units of Department of Justice involved in drug law enforcement.
+Bureau of Narcotics and Dangerous Drugs, including office of Director thereof, in Department of Justiceabolished by Reorg. Plan No. 2 of 1973, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 2 of 1973 also created in Department of Justice a single, comprehensive agency for enforcement of drug laws to be known as Drug Enforcement Administration, empowered Attorney General to authorize performance by officers, employees, and agencies of Department of functions transferred to him, and directed Attorney General to coordinate all drug law enforcement functions to assure maximum cooperation between Drug Enforcement Administration, Federal Bureau of Investigation, and other units of Department of Justice involved in drug law enforcement.
 
 #### Constructive Seizure Procedures
 
@@ -246,7 +246,7 @@ Section 6079 of Pub. L. 100–690 provided that:
 
 “(a)
 
-In General.—Not later than 90 days after the date of enactment of this Act \[Nov. 18, 1988\], the Attorney General and the Secretary of the Treasury shall consult, and after providing a 30-day public comment period, shall prescribe regulations for expedited administrative procedures for seizures under section 511(a)(4), (6), and (7) of the Controlled Substances Act (21 U.S.C. 881(a)(4), (6), and (7)); section 596 of the Tariff Act of 1930 (19 U.S.C. 1595a(a)); and section 2 of the Act of August 9, 1939 (53 Stat. 1291; 49 U.S.C. App. 782 \[now 49U.S.C. 80303\]) for violations involving the possession of personal use quantities of a controlled substance.
+In General.—Not later than 90 days after the date of enactment of this Act \[Nov. 18, 1988\], the Attorney General and the Secretary of the Treasury shall consult, and after providing a 30-day public comment period, shall prescribe regulations for expedited administrative procedures for seizures under section 511(a)(4), (6), and (7) of the Controlled Substances Act (21 U.S.C. 881(a)(4), (6), and (7)); section 596 of the Tariff Act of 1930 (19 U.S.C. 1595a(a)); and section 2 of the Act of August 9, 1939 (53 Stat. 1291; 49 U.S.C. App. 782 \[now 49 U.S.C. 80303\]) for violations involving the possession of personal use quantities of a controlled substance.
 
 “(b)
 

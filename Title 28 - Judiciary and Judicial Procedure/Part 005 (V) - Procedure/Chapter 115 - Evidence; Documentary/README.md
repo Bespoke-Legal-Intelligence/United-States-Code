@@ -23,13 +23,15 @@
 | [1741\.](%C2%A7%2001741%20-%20Foreign%20official%20documents.md) | Foreign official documents. |
 | \[1742. | Repealed.\] |
 | [1743\.](%C2%A7%2001743%20-%20Demand%20on%20postmaster.md) | Demand on postmaster. |
-| [1744\.](%C2%A7%2001744%20-%20Copies%20of%20Patent%20Office%20documents%2C%20generally.md) | Copies of patent office documents generally.<sup>1</sup> |
+| [1744\.](%C2%A7%2001744%20-%20Copies%20of%20United%20States%20Patent%20and%20Trademark%20Office%20documents%2C%20generally.md) | Copies of United States Patent and Trademark Office documents generally.<sup>1</sup> |
 | [1745\.](%C2%A7%2001745%20-%20Copies%20of%20foreign%20patent%20documents.md) | Copies of foreign patent documents. |
 | [1746\.](%C2%A7%2001746%20-%20Unsworn%20declarations%20under%20penalty%20of%20perjury.md) | Unsworn declarations under penalty of perjury. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(15)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584, which directed the amendment of item 1744 by substituting “United States Patent and Trademark Office” for “Patent Office”, was executed by making the substitution for “patent office” to reflect the probable intent of Congress.
 
 1996—Pub. L. 104–199, §2(b), Sept. 21, 1996, 110 Stat. 2419, added item 1738C.
 
@@ -84,6 +86,6 @@ Criminal cases—
 - [&sect; 01741 - Foreign official documents](%C2%A7%2001741%20-%20Foreign%20official%20documents.md)
 - [&sect; 01742 - Repealed. Pub. L. 88&#8211;619, &sect;6(a), Oct. 3, 1964, 78 Stat. 996](%C2%A7%2001742%20-%20Repealed.%20Pub.%20L.%2088%E2%80%93619%2C%20%C2%A76%28a%29%2C%20Oct.%203%2C%201964%2C%2078%20Stat.%20996.md)
 - [&sect; 01743 - Demand on postmaster](%C2%A7%2001743%20-%20Demand%20on%20postmaster.md)
-- [&sect; 01744 - Copies of Patent Office documents, generally](%C2%A7%2001744%20-%20Copies%20of%20Patent%20Office%20documents%2C%20generally.md)
+- [&sect; 01744 - Copies of United States Patent and Trademark Office documents, generally](%C2%A7%2001744%20-%20Copies%20of%20United%20States%20Patent%20and%20Trademark%20Office%20documents%2C%20generally.md)
 - [&sect; 01745 - Copies of foreign patent documents](%C2%A7%2001745%20-%20Copies%20of%20foreign%20patent%20documents.md)
 - [&sect; 01746 - Unsworn declarations under penalty of perjury](%C2%A7%2001746%20-%20Unsworn%20declarations%20under%20penalty%20of%20perjury.md)

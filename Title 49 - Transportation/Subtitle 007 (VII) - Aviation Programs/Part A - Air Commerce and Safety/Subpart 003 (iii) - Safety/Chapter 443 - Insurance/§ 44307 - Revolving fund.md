@@ -12,7 +12,7 @@ Investment.—On request of the Secretary of Transportation, the Secretary of th
 
 (c)
 
-Excess Amounts.—The balance in the revolving fund in excess of an amount the Secretary of Transportation determines is necessary for the requirements of the fund and for reasonable reserves to maintain the solvency of the fund shall be deposited at least annually in the Treasury as miscellaneous receipts.
+Excess Amounts.—The balance in the revolving fund in excess of an amount the Secretary of Transportation determines is necessary for the requirements of the fund and forreasonable reserves to maintain the solvency of the fund shall be deposited at least annually in the Treasury as miscellaneous receipts.
 
 (d)
 

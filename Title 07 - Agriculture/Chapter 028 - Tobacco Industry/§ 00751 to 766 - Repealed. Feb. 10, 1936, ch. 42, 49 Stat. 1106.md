@@ -1,6 +1,6 @@
 ### §§751 to 766. Repealed. Feb. 10, 1936, ch. 42, 49 Stat. 1106
 
-Sections, act June 28, 1934, ch. 866, §§1–16, 48 Stat. 1275–1280, as amended by act Aug. 24, 1935, ch. 641, §§44 to 54, 49 Stat. 778 to 780, related to marketing and taxation of tobacco.
+Sections, act June 28, 1934, ch. 866, §§1–16, 48 Stat. 1275–1280, as amended by act Aug. 24, 1935, ch. 641, §§44to 54, 49 Stat. 778 to 780, related to marketing and taxation of tobacco.
 
 #### Collection of Unpaid Taxes
 

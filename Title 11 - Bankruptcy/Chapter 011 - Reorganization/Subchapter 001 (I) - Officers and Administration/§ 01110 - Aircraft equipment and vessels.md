@@ -60,7 +60,7 @@ The date of enactment of this subsection, referred to in subsec. (c), is the dat
 
 &emsp;“(1) before 60 days after the date of the order for relief under this chapter, the trustee, subject to the court's approval, agrees to perform all obligations of the debtor that become due on or after such date under such security agreement, lease, or conditional sale contract, as the case may be; and
 
-&emsp;“(2) any default, other than a default of a kind specified in section 365(b)(2) of this title, under suchsecurity agreement, lease, or conditional sale contract, as the case may be—
+&emsp;“(2) any default, other than a default of a kind specified in section 365(b)(2) of this title, under such security agreement, lease, or conditional sale contract, as the case may be—
 
 &emsp;&emsp;“(A) that occurred before such date is cured before the expiration of such 60-day period; and
 
@@ -92,7 +92,7 @@ Pub. L. 103–7, Mar. 17, 1993, 107 Stat. 36, provided that:
 
 #### “SEC. 2. TREATMENT OF AIRCRAFT EQUIPMENT SETTLEMENT LEASES WITH THE PENSION BENEFIT GUARANTY CORPORATION.
 
-“In the case of any settlement of liability under title IV of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1301 et seq.\] entered into by the Pension Benefit Guaranty Corporation and one or more other parties, if—
+“In the case of any settlement of liability under title IV of the Employee Retirement Income Security Act of1974 \[29 U.S.C. 1301 et seq.\] entered into by the Pension Benefit Guaranty Corporation and one or more other parties, if—
 
 &emsp;“(1) such settlement was entered into before, on, or after the date of the enactment of this Act \[Mar. 17, 1993\],
 

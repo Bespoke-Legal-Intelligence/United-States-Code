@@ -32,7 +32,7 @@
 
 (4) Notwithstanding any other provision of this section, if there has been a default in an unexpired lease of the debtor, other than a default of a kind specified in paragraph (2) of this subsection, the trustee may not require a lessor to provide services or supplies incidental to such lease before assumption of such lease unless the lessor is compensated under the terms of such lease for any services and supplies provided under such lease before assumption of such lease.
 
-(c) The trustee may not assume or assign any executory contract or unexpired lease of the debtor, whether or not such contract or lease prohibits or restricts assignment of rights or delegation of duties, if—
+(c) The trustee may not assume or assign any executory contract or unexpired lease of thedebtor, whether or not such contract or lease prohibits or restricts assignment of rights or delegation of duties, if—
 
 &emsp;(1)(A) applicable law excuses a party, other than the debtor, to such contract or lease from accepting performance from or rendering performance to an entity other than the debtor or the debtor in possession, whether or not such contract or lease prohibits or restricts assignment of rights or delegation of duties; and
 
@@ -52,7 +52,7 @@
 
 (4) Notwithstanding paragraphs (1) and (2), in a case under any chapter of this title, if the trustee does not assume or reject an unexpired lease of nonresidential real property under which the debtor is the lessee within 60 days after the date of the order for relief, or within such additional time as the court, for cause, within such 60-day period, fixes, then such lease is deemed rejected, and the trustee shall immediately surrender such nonresidential real property to the lessor.
 
-(5) Notwithstanding paragraphs (1) and (4) of this subsection, in a case under any chapter of this title, if the trustee does not assume or reject an unexpired lease of nonresidential real property under which the debtor is an affected air carrier that is the lessee of an aircraft terminal or aircraft gate before the occurrence of a termination event, then (unless the court orders the trustee to assume such unexpired leases within 5 days after the termination event), at the option of the airport operator, such lease is deemed rejected 5 days after the occurrence of atermination event and the trustee shall immediately surrender possession of the premises to the airport operator; except that the lease shall not be deemed to be rejected unless the airport operator first waives the right to damages related to the rejection. In the event that the lease is deemed to be rejected under this paragraph, the airport operator shall provide the affected air carrier adequate opportunity after the surrender of the premises to remove the fixtures and equipment installed by the affected air carrier.
+(5) Notwithstanding paragraphs (1) and (4) of this subsection, in a case under any chapter of this title, if the trustee does not assume or reject an unexpired lease of nonresidential real property under which the debtor is an affected air carrier that is the lessee of an aircraft terminal or aircraft gate before the occurrence of a termination event, then (unless the court orders the trustee to assume such unexpired leases within 5 days after the termination event), at the option of the airport operator, such lease is deemed rejected 5 days after the occurrence of a termination event and the trustee shall immediately surrender possession of the premises to the airport operator; except that the lease shall not be deemed to be rejected unless the airport operator first waives the right to damages related to the rejection. In the event that the lease is deemed to be rejected under this paragraph, the airport operator shall provide the affected air carrier adequate opportunity after the surrender of the premises to remove the fixtures and equipment installed by the affected air carrier.
 
 (6) For the purpose of paragraph (5) of this subsection and paragraph (f)(1) of this section, the occurrence of a termination event means, with respect to a debtor which is an affected air carrier that is the lessee of an aircraft terminal or aircraft gate—
 
@@ -90,7 +90,7 @@
 
 &emsp;(B) such contract is a contract to make a loan, or extend other debt financing or financial accommodations, to or for the benefit of the debtor, or to issue a security of the debtor.
 
-(f)(1) Except as provided in subsection (c) of this section, notwithstanding a provision in an executory contract or unexpired lease of the debtor, or in applicable law, that prohibits, restricts, or conditions the assignment of such contract or lease, the trustee may assign such contract or lease under paragraph (2) of this subsection; except that the trustee may not assign an unexpired lease of nonresidential real property under which the debtor is an affected air carrier that is the lessee of an aircraft terminalor aircraft gate if there has occurred a termination event.
+(f)(1) Except as provided in subsection (c) of this section, notwithstanding a provision in an executory contract or unexpired lease of the debtor, or in applicable law, that prohibits, restricts, or conditions the assignment of such contract or lease, the trustee may assign such contract or lease under paragraph (2) of this subsection; except that the trustee may not assign an unexpired lease of nonresidential real property under which the debtor is an affected air carrier that is the lessee of an aircraft terminal or aircraft gate if there has occurred a termination event.
 
 (2) The trustee may assign an executory contract or unexpired lease of the debtor only if—
 
@@ -138,7 +138,7 @@
 
 (2) If such purchaser remains in possession—
 
-&emsp;(A) such purchaser shall continue to make all payments due under such contract, but may, offset against such payments any damages occurring after the date of the rejection of such contract caused by the nonperformance of any obligation of the debtor after suchdate, but such purchaser does not have any rights against the estate on account of any damages arising after such date from such rejection, other than such offset; and
+&emsp;(A) such purchaser shall continue to make all payments due under such contract, but may, offset against such payments any damages occurring after the date of the rejection of such contract caused by the nonperformance of any obligation of the debtor after such date, but such purchaser does not have any rights against the estate on account of any damages arising after such date from such rejection, other than such offset; and
 
 &emsp;(B) the trustee shall deliver title to such purchaser in accordance with the provisions of such contract, but is relieved of all other obligations to perform under such contract.
 
@@ -154,7 +154,7 @@
 
 &emsp;(A) to treat such contract as terminated by such rejection if such rejection by the trustee amounts to such a breach as would entitle the licensee to treat such contract as terminated by virtue of its own terms, applicable nonbankruptcy law, or an agreement made by the licensee with another entity; or
 
-&emsp;(B) to retain its rights (including a right to enforce any exclusivity provision of such contract, but excluding any other right under applicable nonbankruptcy law to specific performance of such contract) under such contract and under any agreement supplementary to such contract, to such intellectual property (including any embodiment of such intellectual property to the extent protected by applicable nonbankruptcy law), as such rights existed immediately before the case commenced, for—
+&emsp;(B) to retain its rights (including a right to enforce any exclusivity provision of such contract, but excluding any other right under applicable nonbankruptcy law to specific performance of such contract) under such contract and under any agreement supplementaryto such contract, to such intellectual property (including any embodiment of such intellectual property to the extent protected by applicable nonbankruptcy law), as such rights existed immediately before the case commenced, for—
 
 &emsp;&emsp;(i) the duration of such contract; and
 
@@ -248,7 +248,7 @@ Subsection (k) relieves the trustee and the estate of liability for a breach of 
 
 #### house report no. 95–595
 
-Subsection (c) prohibits the trustee from assuming or assigning a contract or lease if applicable nonbankruptcy law excuses the other party from performance to someone other than the debtor, unless the other party consents. This prohibition applies only in the situation in which applicable law excuses the other party from performance independent of any restrictive language in the contract or lease itself. The purpose of this subsection, at least in part, is to prevent the trustee from requiring new advances of money or other property. The section permits the trustee to continue to use and pay for property already advanced, but is not designed to permit the trustee to demand new loans or additional transfers of property under lease commitments.
+Subsection (c) prohibits the trustee from assuming or assigning a contract or lease if applicable nonbankruptcy law excuses the other party from performance to someone other than the debtor, unless the other party consents. This prohibition applies only in the situation in which applicable law excuses the other party from performance independent of any restrictive language in the contract or lease itself. The purpose ofthis subsection, at least in part, is to prevent the trustee from requiring new advances of money or other property. The section permits the trustee to continue to use and pay for property already advanced, but is not designed to permit the trustee to demand new loans or additional transfers of property under lease commitments.
 
 Thus, under this provision, contracts such as loan commitments and letters of credit are nonassignable, and may not be assumed by the trustee.
 
@@ -276,7 +276,7 @@ Subsec. (h). Pub. L. 103–394, §205(a), amended subsec. (h) generally. Prior t
 
 “(h)(1) If the trustee rejects an unexpired lease of real property of the debtor under which the debtor is the lessor, or a timeshare interest under a timeshare plan under which the debtor is the timeshare interest seller, the lessee or timeshare interest purchaser under such lease or timeshare plan may treat such lease or timeshare plan as terminated by such rejection, where the disaffirmance by the trustee amounts to such a breach as would entitle the lessee or timeshare interest purchaser to treat such lease or timeshare plan as terminated by virtue of its own terms, applicable nonbankruptcy law, or other agreements the lessee or timeshare interest purchaser has made with other parties; or, in the alternative, the lessee or timeshare interest purchaser may remain in possession of the leasehold or timeshare interest under any lease or timeshare plan the term of which has commenced for the balance of such term and for any renewal or extension of such term that is enforceable by such lessee or timeshare interest purchaser under applicable nonbankruptcy law.
 
-“(2) If such lessee or timeshare interest purchaser remains in possession as provided in paragraph (1) of thissubsection, such lessee or timeshare interest purchaser may offset against the rent reserved under such lease or moneys due for such timeshare interest for the balance of the term after the date of the rejection of such lease or timeshare interest, and any such renewal or extension thereof, any damages occurring after such date caused by the nonperformance of any obligation of the debtor under such lease or timeshare plan after such date, but such lessee or timeshare interest purchaser does not have any rights against the estate on account of any damages arising after such date from such rejection, other than such offset.”
+“(2) If such lessee or timeshare interest purchaser remains in possession as provided in paragraph (1) of this subsection, such lessee or timeshare interest purchaser may offset against the rent reserved under such lease or moneys due for such timeshare interest for the balance of the term after the date of the rejection of such lease or timeshare interest, and any such renewal or extension thereof, any damages occurring after such date caused by the nonperformance of any obligation of the debtor under such lease or timeshare plan after such date, but such lessee or timeshare interest purchaser does not have any rights against the estate on account of any damages arising after such date from such rejection, other than such offset.”
 
 Subsec. (n)(1)(B). Pub. L. 103–394, §501(d)(10)(C), substituted “a right to” for “a right to to”.
 
@@ -340,7 +340,7 @@ Section 19(f) of Pub. L. 102–365 provided that: “The amendments made by this
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–506 effective Oct. 18, 1988, but not applicable to any case commenced under thistitle before such date, see section 2 of Pub. L. 100–506, set out as a note under section 101 of this title.
+Amendment by Pub. L. 100–506 effective Oct. 18, 1988, but not applicable to any case commenced under this title before such date, see section 2 of Pub. L. 100–506, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 

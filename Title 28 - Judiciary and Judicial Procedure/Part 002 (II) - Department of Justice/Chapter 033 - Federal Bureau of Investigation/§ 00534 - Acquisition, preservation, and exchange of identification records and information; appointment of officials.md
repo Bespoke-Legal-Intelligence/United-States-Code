@@ -32,7 +32,7 @@
 
 &emsp;(A) the term “national crime information databases” means the National Crime Information Center and its incorporated criminal history databases, including the Interstate Identification Index; and
 
-&emsp;(B) the term “protection order” includes an injunction or any other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including temporary and final orders issued by civil or criminal courts (otherthan support or child custody orders) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.
+&emsp;(B) the term “protection order” includes an injunction or any other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including temporary and final orders issued by civil or criminal courts (other than support or child custody orders) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.
 
 (Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 97–292, §§2, 3(a), Oct. 12, 1982, 96 Stat. 1259; Pub. L. 100–690, title VII, §7333, Nov. 18, 1988, 102 Stat. 4469; Pub. L. 103–322, title IV, §40601(a), Sept. 13, 1994, 108 Stat. 1950.)
 
@@ -54,7 +54,7 @@ Aug. 31, 1964, Pub. L. 88–527, §201 (1st 105 words of 1st par. under “Feder
 
 June 11, 1930, ch. 455, 46 Stat. 554.
 
-The sections are combined and reorganized for clarity. Former section 300 of title 5 was from the Department of Justice Appropriation Act, 1965. Similar provisions were contained in each appropriation Act for the Department of Justice running back to 1921, which Acts are identified in a note under former section 300 of title 5, U.S.C. 1964 ed.
+The sections are combined and reorganized for clarity. Former section 300 of title 5 was from the Department of Justice Appropriation Act, 1965. Similar provisions were contained in each appropriation Act for theDepartment of Justice running back to 1921, which Acts are identified in a note under former section 300 of title 5, U.S.C. 1964 ed.
 
 In subsection (a), the word “shall” is substituted for “has the duty” as a more direct expression. The function of acquiring, collecting, classifying, etc., referred to in former section 340 of title 5 was transferred to the Attorney General by 1950 Reorg., Plan No. 2, §1, eff. May 24, 1950, 64 Stat. 1261, which is codified in section 509 of this title. Accordingly, the first 29 words and last 30 words of former section 340 are omitted as unnecessary.
 
@@ -114,7 +114,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(2) these acts are a danger to the constitutional form of government of the United States; and
 
-&emsp;“(3) more information is needed relating to the extent and nature of the danger to these employees and their families so that actions can be taken to protectpublic servants at all levels of government in the performance of their duties.
+&emsp;“(3) more information is needed relating to the extent and nature of the danger to these employees and their families so that actions can be taken to protect public servants at all levels of government in the performance of their duties.
 
 “(b)
 
@@ -142,7 +142,7 @@ Use of data.—Except with respect to the summary published under paragraph (1),
 
 “(e)
 
-Exemption.—The Attorney General, the Secretary of State, and the United States Secret Service is not required to participate in any statistical reporting activity under this section with respect to any direct or indirect threat made against any individual for whom that official or Service is authorized to provide protection.”
+Exemption.—The Attorney General, the Secretary of State, and the United States Secret Service isnot required to participate in any statistical reporting activity under this section with respect to any direct or indirect threat made against any individual for whom that official or Service is authorized to provide protection.”
 
 #### Rulemaking Relating to Access to Federal Criminal Information Databases
 
@@ -236,7 +236,7 @@ Establishment of System.—
 
 &emsp;“(1)
 
-In general.—The Attorney General shall acquire, collect, classify, and preserve national data on Federal criminal offenses as part of the Uniform Crime Reports.
+In general.—The Attorney General shall acquire, collect, classify, and preserve national data onFederal criminal offenses as part of the Uniform Crime Reports.
 
 &emsp;“(2)
 

@@ -16,6 +16,7 @@
 - [&sect; 00248 - Enumerated powers](%C2%A7%2000248%20-%20Enumerated%20powers.md)
 - [&sect; 00248&#8211;1 - Rules and regulations for transfer of funds and charges therefor among banks; clearing houses](%C2%A7%2000248%E2%80%931%20-%20Rules%20and%20regulations%20for%20transfer%20of%20funds%20and%20charges%20therefor%20among%20banks%3B%20clearing%20houses.md)
 - [&sect; 00248a - Pricing of services](%C2%A7%2000248a%20-%20Pricing%20of%20services.md)
+- [&sect; 00248b - Annual independent audits of Federal reserve banks and Board](%C2%A7%2000248b%20-%20Annual%20independent%20audits%20of%20Federal%20reserve%20banks%20and%20Board.md)
 - [&sect; 00249 - Repealed. Pub. L. 94&#8211;412, title V, &sect;501(c), Sept. 14, 1976, 90 Stat. 1258](%C2%A7%2000249%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93412%2C%20title%20V%2C%20%C2%A7501%28c%29%2C%20Sept.%2014%2C%201976%2C%2090%20Stat.%201258.md)
 - [&sect; 00250 - Independence of financial regulatory agencies](%C2%A7%2000250%20-%20Independence%20of%20financial%20regulatory%20agencies.md)
 - [&sect; 00251 - Repealed. Pub. L. 104&#8211;208, div. A, title II, &sect;2224(a), Sept. 30, 1996, 110 Stat. 3009&#8211;415](%C2%A7%2000251%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93208%2C%20div.%20A%2C%20title%20II%2C%20%C2%A72224%28a%29%2C%20Sept.%2030%2C%201996%2C%20110%20Stat.%203009%E2%80%93415.md)

@@ -32,7 +32,7 @@ The items referred to in subsection (a) are:
 
 &emsp;&emsp;(B) In determining the net operating loss deduction, the portion of such deduction attributable to the net operating loss carryovers of the distributor or transferor corporation to the first taxable year of the acquiring corporation ending after the date of distribution or transfer shall be limited to an amount which bears the same ratio to the taxable income (determined without regard to a net operating loss deduction) of the acquiring corporation in such taxable year as the number of days in the taxable year after the date of distribution or transfer bears to the total number of days in the taxable year.
 
-&emsp;&emsp;(C) For the purpose of determining the amount of the net operating loss carryovers under section 172(b)(2), a net operating loss for a taxable year (hereinafter in this subparagraph referred to as the “loss year”) of a distributor or transferor corporation which ends on or before the end of a loss year of the acquiring corporation shall be considered to be a net operating loss for a year prior to such loss year of the acquiring corporation. For the same purpose, the taxable income for a “prior taxable year” (as the term is used in section 172(b)(2)) shall becomputed as provided in such section; except that, if the date of distribution or transfer is on a day other than the last day of a taxable year of the acquiring corporation—
+&emsp;&emsp;(C) For the purpose of determining the amount of the net operating loss carryovers under section 172(b)(2), a net operating loss for a taxable year (hereinafter in this subparagraph referred to as the “loss year”) of a distributor or transferor corporation which ends on or before the end of a loss year of the acquiring corporation shall be considered to be a net operating loss for a year prior to such loss year of the acquiring corporation. For the same purpose, the taxable income for a “prior taxable year” (as the term is used in section 172(b)(2)) shall be computed as provided in such section; except that, if the date of distribution or transfer is on a day other than the last day of a taxable year of the acquiring corporation—
 
 &emsp;&emsp;&emsp;(i) such taxable year shall (for the purpose of this subparagraph only) be considered to be 2 taxable years (hereinafter in this subparagraph referred to as the “pre-acquisition part year” and the “post-acquisition part year”);
 
@@ -80,7 +80,7 @@ The items referred to in subsection (a) are:
 
 #### (8) Installment method
 
-&emsp;If the acquiring corporation acquires installment obligations (the income from which thedistributor or transferor corporation reports on the installment basis under section 453) the acquiring corporation shall, for purposes of section 453, be treated as if it were the distributor or transferor corporation.
+&emsp;If the acquiring corporation acquires installment obligations (the income from which the distributor or transferor corporation reports on the installment basis under section 453) the acquiring corporation shall, for purposes of section 453, be treated as if it were the distributor or transferor corporation.
 
 #### (9) Amortization of bond discount or premium
 
@@ -134,7 +134,7 @@ The items referred to in subsection (a) are:
 
 #### (22) Successor insurance company
 
-&emsp;If the acquiring corporation is an insurance company taxable under subchapter L, there shall be taken into account (to the extentproper to carry out the purposes of this section and of subchapter L, and under such regulations as may be prescribed by the Secretary) the items required to be taken into account for purposes of subchapter L in respect of the distributor or transferor corporation.
+&emsp;If the acquiring corporation is an insurance company taxable under subchapter L, there shall be taken into account (to the extent proper to carry out the purposes of this section and of subchapter L, and under such regulations as may be prescribed by the Secretary) the items required to be taken into account for purposes of subchapter L in respect of the distributor or transferor corporation.
 
 #### (23) Deficiency dividend of regulated investment company or real estate investment trust
 
@@ -146,7 +146,7 @@ The items referred to in subsection (a) are:
 
 #### (25) Credit under section 53
 
-&emsp;The acquiring corporation shall take into account (to the extent proper to carry out the purposes of this section and section 53, and under such regulations as may be prescribed by the Secretary) the items required to be taken into account for purposes of section 53 in respect of the distributor or transferor corporation.
+&emsp;The acquiring corporation shall take into account (to the extent proper to carry out thepurposes of this section and section 53, and under such regulations as may be prescribed by the Secretary) the items required to be taken into account for purposes of section 53 in respect of the distributor or transferor corporation.
 
 #### (26) Enterprise zone provisions
 
@@ -270,7 +270,7 @@ Subsec. (d). Pub. L. 86–69, §3(c)(2), added subsec. (d).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11812(b)(6) of Pub. L. 101–508 applicable to property placed in service after Nov. 5,1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
+Amendment by section 11812(b)(6) of Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -352,7 +352,7 @@ Amendment by Pub. L. 90–240 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1964 Amendment
 
-Amendment by section 225(i)(3) of Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963,see section 225(<i>l</i>) of Pub. L. 88–272 set out as a note under section 316 of this title.
+Amendment by section 225(i)(3) of Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 225(<i>l</i>) of Pub. L. 88–272 set out as a note under section 316 of this title.
 
 Amendment by section 209(d)(2) of Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, with respect to contributions paid or treated as paid under section 170(a)(2) of this title, in taxable years beginning after Dec. 31, 1961, see section 209(f)(2) of Pub. L. 88–272, set out as a note under section 170 of this title.
 
@@ -434,7 +434,7 @@ Treatment of certain dividends.—Subject to such regulations as the Secretary o
 
 &emsp;“(5)
 
-Determination of date prescribed.—For purposes of this section, the determination of the last date prescribed for payment or for filing a return shall be made without regard to any extension oftime therefor and without regard to any provision of this section.
+Determination of date prescribed.—For purposes of this section, the determination of the last date prescribed for payment or for filing a return shall be made without regard to any extension of time therefor and without regard to any provision of this section.
 
 &emsp;“(6)
 

@@ -20,7 +20,7 @@
 
 (B) Unless otherwise authorized by the Commission by rule or regulation, all commodity trading advisors and commodity pool operators shall make a full and complete disclosure to their subscribers, clients, or participants of all futures market positions taken or held by the individual principals of their organization.
 
-(4) Every commodity pool operator shall regularly furnish statements of account to each participant in his operations. Such statements shall be in such form and manner as may be prescribed by the Commission and shall includecomplete information as to the current status of all trading accounts in which such participant has an interest.
+(4) Every commodity pool operator shall regularly furnish statements of account to each participant in his operations. Such statements shall be in such form and manner as may be prescribed by the Commission and shall include complete information as to the current status of all trading accounts in which such participant has an interest.
 
 (Sept. 21, 1922, ch. 369, §4n, as added Pub. L. 93–463, title II, §205(a), Oct. 23, 1974, 88 Stat. 1398; amended Pub. L. 95–405, §9, Sept. 30, 1978, 92 Stat. 870; Pub. L. 97–444, title II, §213, Jan. 11, 1983, 96 Stat. 2305.)
 

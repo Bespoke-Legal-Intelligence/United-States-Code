@@ -80,7 +80,7 @@
 
 #### (5) Appeals
 
-&emsp;A unit of general local government (including a combination of such units) or grant recipient that requests but is not granted designation of an area as a local area under paragraph (2) or (3) may submit an appeal to the State board under an appeal process established in the State plan. If the appeal does not result in such a designation, the Secretary, after receiving a request for review from the unit or grant recipient and on determining that the unit or grant recipient was not accorded procedural rights under the appeal process established in the State plan or that the area meets the requirements of paragraph (2) or (3), as appropriate, may require that thearea be designated as a local area under such paragraph.
+&emsp;A unit of general local government (including a combination of such units) or grant recipient that requests but is not granted designation of an area as a local area under paragraph (2) or (3) may submit an appeal to the State board under an appeal process established in the State plan. If the appeal does not result in such a designation, the Secretary, after receiving a request for review from the unit or grant recipient and on determining that the unit or grant recipient was not accorded procedural rights under the appeal process established in the State plan or that the area meets the requirements of paragraph (2) or (3), as appropriate, may require that the area be designated as a local area under such paragraph.
 
 #### (b) Small States
 

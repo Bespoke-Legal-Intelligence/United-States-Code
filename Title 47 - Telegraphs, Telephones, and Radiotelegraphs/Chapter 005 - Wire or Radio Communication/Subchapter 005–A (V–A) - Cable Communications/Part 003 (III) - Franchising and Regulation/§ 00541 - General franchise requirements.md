@@ -68,7 +68,7 @@ No provision of this chapter shall be construed to—
 
 &emsp;(2) require such local or municipal authority to secure a franchise to operate as a multichannel video programming distributor.
 
-(June 19, 1934, ch. 652, title VI, §621, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2786; amended Pub. L. 102–385, §§7(a)(1), (b), (c), Oct. 5,1992, 106 Stat. 1483; Pub. L. 104–104, §3(d)(3), title III, §303(a), Feb. 8, 1996, 110 Stat. 61, 124.)
+(June 19, 1934, ch. 652, title VI, §621, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2786; amended Pub. L. 102–385, §§7(a)(1), (b), (c), Oct. 5, 1992, 106 Stat. 1483; Pub. L. 104–104, §3(d)(3), title III, §303(a), Feb. 8, 1996, 110 Stat. 61, 124.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Use of moneys in Senate contingent fund
 
-Effective with the fiscal year ending September 30, 1999, and each fiscal year thereafter, subject to the approval of the Committee on Appropriations of the Senate, any unexpended and unobligated funds in the appropriation account for the “Secretary of the Senate” within the contingent fund of the Senate which have not been withdrawn in accordance with section 102a of title 2, shall be available for the expenses incurred, without regard to the fiscal year in which incurred, for the conservation, restoration, and replication or replacement, in whole or in part, of items of art, fine art, and historical items within the Senate wing of the United States Capitol, any Senate Office Building, or any room, corridor, or other space therein. In the case of replication or replacement of such items, the funds available under this subsection shall be available for any such items previously contained within the Senate wing of the Capitol, or an item historically accurate.
+Effective with the fiscal year ending September 30, 2000, and each fiscal year thereafter, subject to the approval of the Committee on Appropriations of the Senate, any unexpended and unobligated funds in the appropriation account for the “Secretary of the Senate” within the contingent fund of the Senate which have not been withdrawn in accordance with section 102a of title 2, shall be available for the expenses incurred, without regard to the fiscal year in which incurred, for the conservation, restoration, and replication or replacement, in whole or in part, of items of art, fine art, and historical items within the Senate wing of the United States Capitol, any Senate Office Building, or any room, corridor, or other space therein. In the case of replication or replacement of such items, the funds available under this subsection shall be available for any such items previously contained within the Senate wing of the Capitol, or an item historically accurate.
 
 #### (b) United States Senate Collection
 
@@ -12,9 +12,11 @@ All such items of art referred to in subsection (a) of this section shall be kno
 
 Disbursements for expenses incurred for the purposes in subsection (a) of this section shall be made upon vouchers approved by the Chairman of the Senate Commission on Art or the Executive Secretary of the Senate Commission on Art.
 
-(Pub. L. 101–302, title III, §316, May 25, 1990, 104 Stat. 246; Pub. L. 101–520, title III, §323, Nov. 5, 1990, 104 Stat. 2285; Pub. L. 102–90, title III, §310, Aug. 14, 1991, 105 Stat. 467; Pub. L. 102–392, title III, §312, Oct. 6, 1992, 106 Stat. 1723; Pub. L. 103–69, title III, §314, Aug. 11, 1993, 107 Stat. 713; Pub. L. 103–283, title III, §309, July 22, 1994, 108 Stat. 1442; Pub. L. 104–53, title III, §311, Nov. 19, 1995, 109 Stat. 538; Pub. L. 104–197, title III, §313, Sept. 16, 1996, 110 Stat. 2415; Pub. L. 105–55, title III, §309, Oct. 7, 1997, 111 Stat. 1198; Pub. L. 105–275, title III, §311, Oct. 21, 1998, 112 Stat. 2457.)
+(Pub. L. 101–302, title III, §316, May 25, 1990, 104 Stat. 246; Pub. L. 101–520, title III, §323, Nov. 5, 1990, 104 Stat. 2285; Pub. L. 102–90, title III, §310, Aug. 14, 1991, 105 Stat. 467; Pub. L. 102–392, title III, §312, Oct. 6, 1992, 106 Stat. 1723; Pub. L. 103–69, title III, §314, Aug. 11, 1993, 107 Stat. 713; Pub. L. 103–283, title III, §309, July 22, 1994, 108 Stat. 1442; Pub. L. 104–53, title III, §311, Nov. 19, 1995, 109 Stat. 538; Pub. L. 104–197, title III, §313, Sept. 16, 1996, 110 Stat. 2415; Pub. L. 105–55, title III, §309, Oct. 7, 1997, 111 Stat. 1198; Pub. L. 105–275, title III, §311, Oct. 21, 1998, 112 Stat. 2457; Pub. L. 106–57, title III, §309, Sept. 29, 1999, 113 Stat. 427.)
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–57 substituted “2000” for “1999”.
 
 1998—Subsec. (a). Pub. L. 105–275 substituted “1999” for “1998”.
 

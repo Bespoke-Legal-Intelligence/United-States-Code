@@ -40,7 +40,7 @@ Effective Tariffs and Prices When Tariff Is Suspended, Canceled, or Rejected.—
 
 (2)(A) During the period of suspension, or after the cancellation or rejection, of a newly filed tariff (including a tariff that has gone into effect provisionally), the affected air carrier or foreign air carrier shall maintain in effect and use—
 
-&emsp;(i) the corresponding seasonal prices, or the classifications, rules, and practices affecting those prices or the value of transportationprovided under those prices, that were in effect for the carrier immediately before the new tariff was filed; or
+&emsp;(i) the corresponding seasonal prices, or the classifications, rules, and practices affecting those prices or the value of transportation provided under those prices, that were in effect for the carrier immediately before the new tariff was filed; or
 
 &emsp;(ii) another price provided for under an applicable intergovernmental agreement or understanding.
 

@@ -26,7 +26,7 @@ The Secretary may provide technical support to a non-Federal interest for a proj
 
 #### Amendments
 
-1996—Pub. L. 104–303 substituted “Floodplain management requirements” for “Compliance with flood plainmanagement and insurance programs” in section catchline and amended text generally. Prior to amendment, text read as follows: “Before construction of any project for local flood protection or any project for hurricane or storm damage reduction, the non-Federal interests shall agree to participate in and comply with applicable Federal flood plain management and flood insurance programs.”
+1996—Pub. L. 104–303 substituted “Floodplain management requirements” for “Compliance with flood plain management and insurance programs” in section catchline and amended text generally. Prior to amendment, text read as follows: “Before construction of any project for local flood protection or any project for hurricane or storm damage reduction, the non-Federal interests shall agree to participate in and comply with applicable Federal flood plain management and flood insurance programs.”
 
 1988—Pub. L. 100–676 inserted “or any project for hurricane or storm damage reduction” after “local flood protection”.
 

@@ -44,7 +44,7 @@ For purposes of this section, a distribution to which section 355 (or so much of
 
 #### (1) In general
 
-&emsp;Where, as part of the consideration to the taxpayer, another party to the exchange assumed a liability of the taxpayer or acquired from the taxpayer property subject to a liability, such assumption or acquisition (in the amount of the liability) shall, for purposes of this section, be treated as money received by the taxpayer on the exchange.
+&emsp;Where, as part of the consideration to the taxpayer, another party to the exchange assumed a liability of the taxpayer, such assumption shall, for purposes of this section, be treated as money received by the taxpayer on the exchange.
 
 #### (2) Exception
 
@@ -68,9 +68,11 @@ In the case of a distribution to which section 355 (or so much of section 356 as
 
 > to appropriately reflect the proper treatment of such distribution.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 117; Pub. L. 85–866, title I, §21(a), Sept. 2, 1958, 72 Stat. 1620; Pub. L. 90–621, §2(a), Oct. 22, 1968, 82 Stat. 1311; Pub. L. 94–253, §1(b), Mar. 31, 1976, 90 Stat. 296; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, §365(b), Nov. 6, 1978, 92 Stat. 2855; Pub. L. 100–647, title I, §1018(d)(5)(B), Nov. 10, 1988, 102 Stat. 3580; Pub. L. 101–508, title XI, §11801(c)(8)(G), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 105–34, title X, §1012(b)(2), Aug. 5, 1997, 111 Stat. 916.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 117; Pub. L. 85–866, title I, §21(a), Sept. 2, 1958, 72 Stat. 1620; Pub. L. 90–621, §2(a), Oct. 22, 1968, 82 Stat. 1311; Pub. L. 94–253, §1(b), Mar. 31, 1976, 90 Stat. 296; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, §365(b), Nov. 6, 1978, 92 Stat. 2855; Pub. L. 100–647, title I, §1018(d)(5)(B), Nov. 10, 1988, 102 Stat. 3580; Pub. L. 101–508, title XI, §11801(c)(8)(G), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 105–34, title X, §1012(b)(2), Aug. 5, 1997, 111 Stat. 916; Pub. L. 106–36, title III, §3001(a)(2), (d)(6), June 25, 1999, 113 Stat. 182, 184.)
 
 #### Amendments
+
+1999—Subsec. (d)(1). Pub. L. 106–36 struck out “or acquired from the taxpayer property subject to a liability” after “liability of the taxpayer” and “or acquisition (in the amount of the liability)” after “such assumption”.
 
 1997—Subsec. (g). Pub. L. 105–34 added subsec. (g).
 
@@ -92,13 +94,17 @@ Pub. L. 94–253, §1(b)(2), added par. (3).
 
 1958—Subsec. (a)(1)(A)(iii). Pub. L. 85–866 added cl. (iii).
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–36 applicable to transfers after Oct. 18, 1998, see section 3001(e) of Pub. L. 106–36, set out as a note under section 351 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–34 applicable, with certain exceptions, to distributions after Apr. 16, 1997, pursuant to a plan (or series of related transactions) which involves an acquisition described in section 355(e)(2)(A)(ii) of this title occurring after such date, see section 1012(d) of Pub. L. 105–34, set out as a note under section 351 of this title.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -126,5 +132,5 @@ United States Railway Association abolished effective Apr. 1, 1987, all powers, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 304, 351 of this title.
+This section is referred to in sections 304, 351, 357 of this title.
 

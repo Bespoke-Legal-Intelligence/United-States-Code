@@ -2,7 +2,7 @@
 
 The Office, after consultation with other agencies concerned, shall—
 
-&emsp;(1) prescribe regulations concerning administration of training for employees and officials of State and local governments provided for inthis subchapter, including requirements for coordination of and reasonable consistency in such training programs;
+&emsp;(1) prescribe regulations concerning administration of training for employees and officials of State and local governments provided for in this subchapter, including requirements for coordination of and reasonable consistency in such training programs;
 
 &emsp;(2) coordinate the training support given to State and local governments under authority of this chapter with training support given such governments under other Federal programs; and
 

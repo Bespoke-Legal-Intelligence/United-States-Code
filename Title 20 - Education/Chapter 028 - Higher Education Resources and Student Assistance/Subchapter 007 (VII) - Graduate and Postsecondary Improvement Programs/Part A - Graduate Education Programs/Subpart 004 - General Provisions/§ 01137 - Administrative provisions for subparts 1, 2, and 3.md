@@ -6,7 +6,7 @@ In carrying out the purpose described in section 1133(1) of this title, the Secr
 
 #### (b) Hiring authority
 
-For purposes of carrying out subparts 1, 2, and 3 of this part, the Secretary shall appoint, without regard to the provisions of title 5 that govern appointments in the competitive service, such administrative and technical employees, with the appropriate educational background, as shall be needed to assist in the administration of such parts.<sup>1</sup> The employees shall be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+For purposes of carrying out subparts 1, 2, and 3 of this part, the Secretary shall appoint, without regard to the provisions of title 5 that govern appointments in the competitive service, such administrative and technical employees, with the appropriate educational background, as shall be needed to assist in the administration of such parts <sup>1</sup>. The employees shall be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
 #### (c) Use for religious purposes prohibited
 
@@ -18,7 +18,7 @@ The Secretary shall evaluate the success of assistance provided to individuals u
 
 #### (e) Continuation awards
 
-The Secretary, using funds appropriated to carry out subparts 1 and 2 of this part, and before awarding any assistance under such parts <sup>2</sup> to a recipient that did not receive assistance under part C or D of title IX (as such parts were in effect prior to October 7, 1998) shall continue to provide funding to recipients of assistance under such part C or D (as so in effect), as the case may be, pursuant to any multiyear award of such assistance.
+The Secretary, using funds appropriated to carry out subparts 1 and 2 of this part, and before awarding any assistance under such parts <sup>1</sup> to a recipient that did not receive assistance under part C or D of title IX (as such parts were in effect prior to October 7, 1998) shall continue to provide funding to recipients of assistanceunder such part C or D (as so in effect), as the case may be, pursuant to any multiyear award of such assistance.
 
 (Pub. L. 89–329, title VII, §731, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1795.)
 

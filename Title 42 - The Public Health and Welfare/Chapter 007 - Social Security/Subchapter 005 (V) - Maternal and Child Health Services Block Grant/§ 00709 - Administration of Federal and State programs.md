@@ -8,7 +8,7 @@
 
 &emsp;(3) disseminating information to the States in such areas as preventive health services and advances in the care and treatment of mothers and children;
 
-&emsp;(4) providing technical assistance, upon request, to the States in such areas as programplanning, establishment of goals and objectives, standards of care, and evaluation and in developing consistent and accurate data collection mechanisms in order to report the information required under section 706(a)(2) of this title;
+&emsp;(4) providing technical assistance, upon request, to the States in such areas as program planning, establishment of goals and objectives, standards of care, and evaluation and in developing consistent and accurate data collection mechanisms in order to report the information required under section 706(a)(2) of this title;
 
 &emsp;(5) in cooperation with the National Center for Health Statistics and in a manner that avoids duplication of data collection, collection, maintenance, and dissemination of information relating to the health status and health service needs of mothers and children in the United States;
 
@@ -20,7 +20,7 @@
 
 (b) The State health agency of each State shall be responsible for the administration (or supervision of the administration) of programs carried out with allotments made to the State under this subchapter, except that, in the case of a State which on July 1, 1967, provided for administration (or supervision thereof) of the State plan under this subchapter (as in effect on such date) by a State agency other than the State health agency, that State shall be considered to comply <sup>2</sup> the requirement of this subsection if it would otherwise comply but for the fact that such other State agency administers (or supervises the administration of) any such program providing services for children with special health care needs.
 
-(Aug. 14, 1935, ch. 531, title V, §509, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 825; amended Pub. L. 99–272, title IX, §9527(e), Apr. 7, 1986, 100 Stat. 219; Pub. L. 101–239, title VI, §§6503(c)(4), 6505, Dec. 19, 1989, 103 Stat. 2278, 2281.)
+(Aug. 14, 1935, ch. 531, title V, §509, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 825; amended Pub. L. 99–272, title IX, §9527(e),Apr. 7, 1986, 100 Stat. 219; Pub. L. 101–239, title VI, §§6503(c)(4), 6505, Dec. 19, 1989, 103 Stat. 2278, 2281.)
 
 #### Prior Provisions
 

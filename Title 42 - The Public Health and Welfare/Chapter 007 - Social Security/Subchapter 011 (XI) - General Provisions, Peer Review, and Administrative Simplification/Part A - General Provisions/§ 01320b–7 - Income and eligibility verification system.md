@@ -8,9 +8,9 @@ In order to meet the requirements of this section, a State must have in effect a
 
 &emsp;(2) wage information from agencies administering State unemployment compensation laws available pursuant to section 3304(a)(16) of the Internal Revenue Code of 1986, wage information reported pursuant to paragraph (3) of this subsection, and wage, income, and other information from the Social Security Administration and the Internal Revenue Service available pursuant to section 6103(<i>l</i>)(7) of such Code, shall be requested and utilized to the extent that such information may be useful in verifying eligibility for, and the amount of, benefits available under any program listed in subsection (b) of this section, as determined by the Secretary of Health and Human Services (or, in the case of the unemployment compensation program, by the Secretary of Labor, or, in the case of the food stamp program, by the Secretary of Agriculture);
 
-&emsp;(3) employers (including State and local governmental entities and labor organizations (as defined in section 653a(a)(2)(B)(iii) <sup>1</sup> of this title) <sup>2</sup> in such State are required, effective September 30, 1988, to make quarterly wage reports to a State agency (which may be the agency administering the State's unemployment compensation law) except that the Secretary of Labor (in consultation with the Secretary of Health and Human Services and the Secretary of Agriculture) may waive the provisions of this paragraph if he determines that the State has in effect an alternative system which is as effective and timely for purposes of providing employment related income and eligibility data for the purposes described in paragraph (2), and except that no report shall be filed with respect to an employee of a State or local agency performing intelligence or counterintelligence functions, if the head of such agency has determined that filing such a report could endanger the safety of the employee or compromise an ongoing investigation or intelligence mission;
+&emsp;(3) employers (as defined in section 653a(a)(2)(B) of this title) (including State and local governmental entities and labor organizations) in such State are required, effective September 30, 1988, to make quarterly wage reports to a State agency (which may be the agency administering the State's unemployment compensation law) except that the Secretary of Labor (in consultation with the Secretary of Health and Human Services and the Secretary of Agriculture) may waive the provisions of this paragraph if he determines that the State has in effect an alternative system which is as effective and timely for purposes of providing employment related income and eligibility data for the purposes described in paragraph (2), and except that no report shall be filed with respect to an employee of a State or local agency performing intelligence or counterintelligence functions, if the head of such agency has determined that filing such areport could endanger the safety of the employee or compromise an ongoing investigation or intelligence mission, and except that in the case of wage reports with respect to domestic service employment, a State may permit employers (as so defined) that make returns with respect to such employment on a calendar year basis pursuant to section 3510 of the Internal Revenue Code of 1986 to make such reports on an annual basis;
 
-&emsp;(4) the State agencies administering the programs listed in subsection (b) of this section adhere to standardized formats and procedures established by the Secretary of Health andHuman Services (in consultation with the Secretary of Agriculture) under which—
+&emsp;(4) the State agencies administering the programs listed in subsection (b) of this section adhere to standardized formats and procedures established by the Secretary of Health and Human Services (in consultation with the Secretary of Agriculture) under which—
 
 &emsp;&emsp;(A) the agencies will exchange with each other information in their possession which may be of use in establishing or verifying eligibility or benefit amounts under any other such program;
 
@@ -22,7 +22,7 @@ In order to meet the requirements of this section, a State must have in effect a
 
 &emsp;&emsp;(A) the information exchanged by the State agencies is made available only to the extent necessary to assist in the valid administrative needs of the program receiving such information, and the information released pursuant to section 6103(<i>l</i>) of the Internal Revenue Code of 1986 is only exchanged with agencies authorized to receive such information under such section 6103(<i>l</i>); and
 
-&emsp;&emsp;(B) the information is adequately protected against unauthorized disclosure for other purposes, as provided in regulations established by the Secretary of Health and Human Services, or, in the case of the unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture, or <sup>3</sup> in the case of information released pursuant to section 6103(<i>l</i>) of the Internal Revenue Code of 1986, the Secretary of the Treasury;
+&emsp;&emsp;(B) the information is adequately protected against unauthorized disclosure for other purposes, as provided in regulations established by the Secretary of Health and Human Services, or, in the case of the unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture, or <sup>1</sup> in the case of information released pursuant to section 6103(<i>l</i>) of the Internal Revenue Code of 1986, the Secretary of the Treasury;
 
 &emsp;(6) all applicants for and recipients of benefits under any such program shall be notified at the time of application, and periodically thereafter, that information available through the system will be requested and utilized; and
 
@@ -64,7 +64,7 @@ The requirements of this subsection, with respect to an income and eligibility v
 
 &emsp;&emsp;(ii) in the case in which eligibility for program benefits is determined on a family or household basis, by any adult member of such individual's family or household (as applicable), or
 
-&emsp;&emsp;(iii) in the case of an individual born into a family or household receiving benefits under such program, by any adult member of such family or household no later than the next redetermination of eligibility of such family or household following the birth of such individual,
+&emsp;&emsp;(iii) in the case of an individual born into a family or household receiving benefitsunder such program, by any adult member of such family or household no later than the next redetermination of eligibility of such family or household following the birth of such individual,
 
 > &emsp;stating whether the individual is a citizen or national of the United States, and, if that individual is not a citizen or national of the United States, that the individual is in a satisfactory immigration status.
 
@@ -126,17 +126,25 @@ Each Federal agency responsible for administration of a program described in sub
 
 Subsections (a)(1) and (d) of this section shall not apply with respect to aliens seeking medical assistance for the treatment of an emergency medical condition under section 1396b(v)(2) of this title.
 
-(Aug. 14, 1935, ch. 531, title XI, §1137, as added Pub. L. 98–369, div. B, title VI, §2651(a), July 18, 1984, 98 Stat. 1147; amended Pub. L. 99–509, title IX, §9101, Oct. 21, 1986, 100 Stat. 1972; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–603, title I, §121(a)(1), Nov. 6, 1986, 100 Stat. 3384; Pub. L. 100–360, title IV, §411(k)(15)(A), July 1, 1988, 102 Stat. 799; Pub. L. 103–432, title II, §231, Oct. 31, 1994, 108 Stat. 4462; Pub. L. 104–193, title I, §108(g)(8), title III, §313(c), Aug. 22, 1996, 110 Stat. 2168, 2212; Pub. L. 104–208, div. C, title V, §507(a), Sept. 30, 1996, 110 Stat. 3009–673.)
+(Aug. 14, 1935, ch. 531, title XI, §1137, as added Pub. L. 98–369, div. B, title VI, §2651(a), July 18, 1984, 98 Stat. 1147; amended Pub. L. 99–509, title IX, §9101, Oct. 21, 1986, 100 Stat. 1972; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–603, title I, §121(a)(1), Nov. 6, 1986, 100 Stat.3384; Pub. L. 100–360, title IV, §411(k)(15)(A), July 1, 1988, 102 Stat. 799; Pub. L. 103–432, title II, §231, Oct. 31, 1994, 108 Stat. 4462; Pub. L. 104–193, title I, §108(g)(8), title III, §313(c), Aug. 22, 1996, 110 Stat. 2168, 2212; Pub. L. 104–208, div. C, title V, §507(a), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 106–169, title IV, §401(p), Dec. 14, 1999, 113 Stat. 1859; Pub. L. 106–170, title IV, §405(a), (b), Dec. 17, 1999, 113 Stat. 1911.)
 
 #### References in Text
 
 Parts A and D of subchapter IV of this chapter, referred to in subsecs. (a)(4)(B) and (b)(1), are classified to sections 601 et seq. and 651 et seq., respectively, of this title.
 
-The Internal Revenue Code of 1986, referred to in subsecs. (a)(2), (4)(B), (5), (b)(3), and (c)(1), is classified generally to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1986, referred to in subsecs. (a)(2), (3), (4)(B), (5), (b)(3), and (c)(1), is classified generally to Title 26, Internal Revenue Code.
 
 The Food Stamp Act of 1977, referred to in subsec. (b)(4), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 #### Amendments
+
+1999—Subsec. (a)(3). Pub. L. 106–170, §405(b)(2), inserted “(as defined in section 653a(a)(2)(B) of this title)” after “employers”.
+
+Pub. L. 106–170, §405(b)(1), which directed striking out “(as defined in section 653a(a)(2)(B)(iii) of this title)” after “labor organizations”, was executed by striking “(as defined in section 653a(a)(2)(B)(ii) of this title)” to reflect the probable intent of Congress and the amendment by Pub. L. 106–169.
+
+Pub. L. 106–170, §405(a), inserted before semicolon at end: “, and except that in the case of wage reports with respect to domestic service employment, a State may permit employers (as so defined) that make returns with respect to such employment on a calendar year basis pursuant to section 3510 of the Internal Revenue Code of 1986 to make such reports on an annual basis”.
+
+Pub. L. 106–169, substituted “653a(a)(2)(B)(ii) of this title))” for “653a(a)(2)(B)(iii) of this title)”. See Effective Date of 1999 Amendment note below.
 
 1996—Subsec. (a)(3). Pub. L. 104–193, §313(c), inserted “(including State and local governmental entities and labor organizations (as defined in section 653a(a)(2)(B)(iii) of this title)” after “employers” and “, and except that no report shall be filed with respect to an employee of a State or local agency performing intelligence or counterintelligence functions, if the head of such agency has determined that filing such a report could endanger the safety of the employee or compromise an ongoing investigation or intelligence mission” before semicolon at end.
 
@@ -164,6 +172,12 @@ Subsecs. (b)(3), (c)(1). Pub. L. 99–514 substituted “Internal Revenue Code o
 
 Subsecs. (d), (e). Pub. L. 99–603, §121(a)(1)(C), added subsecs. (d) and (e).
 
+#### Effective Date of 1999 Amendments
+
+Pub. L. 106–170, title IV, §405(c), Dec. 17, 1999, 113 Stat. 1911, provided that: “The amendments made by this section \[amending this section\] shall apply to wage reports required to be submitted on and after the date of the enactment of this Act \[Dec. 17, 1999\].”
+
+Amendment by section 401(p) of Pub. L. 106–169 effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 401(q) of Pub. L. 106–169, set out as a note under section 602 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by section 108(g)(8) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
@@ -180,7 +194,7 @@ Section 121(c)(3), (4) of Pub. L. 99–603 provided that:
 
 “(3)
 
-Use of verification system required in fiscal year 1989.—Except as provided in paragraph (4), the amendments made by subsection (a) \[amending this section, section 1436a of this title, and section 1091 of Title 20, Education\] take effect on October 1, 1988. States have until that date to begin complying with the requirements imposed by those amendments.
+Use of verification system required in fiscal year 1989.—Except as provided in paragraph (4), the amendments made by subsection (a) \[amending thissection, section 1436a of this title, and section 1091 of Title 20, Education\] take effect on October 1, 1988. States have until that date to begin complying with the requirements imposed by those amendments.
 
 “(4)
 
@@ -270,9 +284,13 @@ Section 2651(<i>l</i>) of Pub. L. 98–369 provided that:
 
 “(2) Except as otherwise specifically provided, the amendments made by subsections (a) through (i) \[enacting this section, amending sections 302, 503, 602, 1202, 1352, and 1396a of this title and section 2020 of Title 7, Agriculture, repealing section 611 of this title, and amending provisions set out as a note under section 1382 of this title\] shall become effective on April 1, 1985. In the case of any State which submits a plan describing a good faith effort by such State to come into compliance with the requirements of such subsections, the Secretary of Health and Human Services (or, in the case of the State unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture) may by waiver grant a delay in the effective date of such subsections, except that no such waiver may delay the effective date of section 1137(c) of the Social Security Act \[subsec. (c) of this section\] (as added by subsection (a) of this section), or delay the effective date of any other provision of or added by this section beyond September 30, 1986.”
 
+#### Construction of 1999 Amendment
+
+Amendment by Pub. L. 106–170 to be executed as if Pub. L. 106–169 had been enacted after the enactment of Pub. L. 106–170, see section 121(c)(1) of Pub. L. 106–169, set out as a note under section 1396a of this title.
+
 #### Immigration and Naturalization Service To Establish Verification System by October 1, 1987
 
-Section 121(c)(1) of Pub. L. 99–603 provided that: “The Commissioner of Immigration and Naturalization shall implement a system for the verification of immigration status under paragraphs (3) and (4)(B)(i) of section 1137(d) of the Social Security Act \[subsec. (d)(3) and (4)(B)(i) of this section\] (as amended by this section) so that the system is available to all the States by not later than October 1, 1987. Such system shall not be used by the Immigration and Naturalization Service for administrative (non-criminal) immigration enforcement purposes and shall be implemented in a manner that provides for verification of immigration status without regard to the sex, color, race, religion, or nationality of the individual involved.”
+Section 121(c)(1) of Pub. L. 99–603 provided that: “The Commissioner of Immigration and Naturalization shall implement a system for the verification of immigration status under paragraphs (3) and (4)(B)(i) of section 1137(d) of the Social Security Act \[subsec. (d)(3) and (4)(B)(i) of this section\] (as amended by this section) so that the system is available to all the States by not later than October 1, 1987. Such system shall not beused by the Immigration and Naturalization Service for administrative (non-criminal) immigration enforcement purposes and shall be implemented in a manner that provides for verification of immigration status without regard to the sex, color, race, religion, or nationality of the individual involved.”
 
 #### General Accounting Office Reports
 
@@ -282,9 +300,5 @@ Section 121(d) of Pub. L. 99–603 directed Comptroller General to examine curre
 
 This section is referred to in sections 302, 502, 503, 609, 653a, 1202, 1352, 1383, 1396a, 1396b of this title; title 5 section 552a; title 7 sections 2020, 2025; title 8 sections 1183a, 1642.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “653a(a)(2)(B)(ii)”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “title))”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

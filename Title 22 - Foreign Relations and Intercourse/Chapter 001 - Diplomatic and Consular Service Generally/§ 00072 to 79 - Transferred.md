@@ -8,7 +8,7 @@ Section 73, R.S. §1707, which related to receipt of protests and declarations b
 
 Section 74, R.S. §1708, which related to lists and returns of seamen and vessels, was transferred to section 4194 of this title.
 
-Section 75, R.S. §1709, which related to handling of estates of decedents by consular officers, was transferred to section 4195 of this title.
+Section 75, R.S. §1709, which related to handling of estates of decedents by consular officers, was transferred to section 4195 of this title and subsequently repealed.
 
 Section 76, R.S. §1710, which related to notification of death of a decedent by a consular officer, was transferred to section 4196 of this title.
 

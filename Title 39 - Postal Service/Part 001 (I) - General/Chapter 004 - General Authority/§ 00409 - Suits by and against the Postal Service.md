@@ -40,5 +40,5 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3012 of this title.
+This section is referred to in sections 3007, 3012 of this title.
 

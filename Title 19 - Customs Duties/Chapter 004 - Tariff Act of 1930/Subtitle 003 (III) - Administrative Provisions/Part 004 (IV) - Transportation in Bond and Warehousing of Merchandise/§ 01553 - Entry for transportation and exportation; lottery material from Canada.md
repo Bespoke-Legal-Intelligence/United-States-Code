@@ -16,7 +16,7 @@ A provision that baggage or personal effects in transit to a foreign country mig
 
 R.S. §2803, on the same subject, was superseded by section 28 of the Customs Administrative Act of June 10, 1890, and repealed by section 642 of the act of Sept. 21, 1922.
 
-R.S. §2866, provided for the entry and conveyance in transit, without payment of duties, of merchandise arriving at certain ports in the United States destined forthe British possessions in North America, and for conveyance in transit from such possessions for export from said ports, in pursuance of provisions of the treaty with Great Britain of May 8, 1871. It was repealed on the termination of articles 18–25, 30, of that treaty, pursuant to the Joint Resolution of Mar. 3, 1883, No. 22, 22 Stat. 641.
+R.S. §2866, provided for the entry and conveyance in transit, without payment of duties, of merchandise arriving at certain ports in the United States destined for the British possessions in North America, and for conveyance in transit from such possessions for export from said ports, in pursuance of provisions of the treaty with Great Britain of May 8, 1871. It was repealed on the termination of articles 18–25, 30, of that treaty, pursuant to the Joint Resolution of Mar. 3, 1883, No. 22, 22 Stat. 641.
 
 #### Amendments
 

@@ -32,7 +32,7 @@ For the purpose of this subchapter—
 
 &emsp;(4) “monthly pay” means the monthly pay at the time of injury, or the monthly pay at the time disability begins, or the monthly pay at the time compensable disability recurs, if the recurrence begins more than 6 months after the injured employee resumes regular full-time employment with the United States, whichever is greater, except when otherwise determined under section 8113 of this title with respect to any period;
 
-&emsp;(5) “injury” includes, in addition to injury by accident, a disease proximately caused by the employment, and damage to or destruction of medical braces, artificial limbs, and other prosthetic devices which shall be replaced or repaired, and such time lost while such device or appliance is being replaced or repaired; except that eyeglasses and hearing aids would not be replaced, repaired, or otherwise compensated for, unless the damages or destruction is incident to a personal injury requiring medical services;
+&emsp;(5) “injury” includes, in addition to injury by accident, a disease proximately caused by the employment, and damage to or destruction of medical braces, artificial limbs, andother prosthetic devices which shall be replaced or repaired, and such time lost while such device or appliance is being replaced or repaired; except that eyeglasses and hearing aids would not be replaced, repaired, or otherwise compensated for, unless the damages or destruction is incident to a personal injury requiring medical services;
 
 &emsp;(6) “widow” means the wife living with or dependent for support on the decedent at the time of his death, or living apart for reasonable cause or because of his desertion;
 
@@ -48,7 +48,7 @@ For the purpose of this subchapter—
 
 &emsp;(12) “compensation” includes the money allowance payable to an employee or his dependents and any other benefits paid for from the Employees’ Compensation Fund, but this does not in any way reduce the amount of the monthly compensation payable for disability or death;
 
-&emsp;(13) “war-risk hazard” means a hazard arising during a war in which the United States is engaged; during an armed conflict in which the United States is engaged, whether or not war has been declared; or during a war or armed conflict between military forces of anyorigin, occurring in the country in which an individual to whom this subchapter applies is serving; from—
+&emsp;(13) “war-risk hazard” means a hazard arising during a war in which the United States is engaged; during an armed conflict in which the United States is engaged, whether or not war has been declared; or during a war or armed conflict between military forces of any origin, occurring in the country in which an individual to whom this subchapter applies is serving; from—
 
 &emsp;&emsp;(A) the discharge of a missile, including liquids and gas, or the use of a weapon, explosive, or other noxious thing by a hostile force or individual or in combating an attack or an imagined attack by a hostile force or individual;
 
@@ -88,7 +88,7 @@ For the purpose of this subchapter—
 
 &emsp;(19) “organ” means a part of the body that performs a special function, and for purposes of this subchapter excludes the brain, heart, and back; and
 
-&emsp;(20) “United States medical officers and hospitals” includes medical officers and hospitals of the Army, Navy, Air Force, Department of Veterans Affairs, and United States Public Health Service, and any other medical officer or hospital designated as a United States medical officer or hospital by the Secretary of Labor.
+&emsp;(20) “United States medical officers and hospitals” includes medical officers and hospitals of the Army, Navy, Air Force, Department of Veterans Affairs, and United States Public Health Service, and any other medical officeror hospital designated as a United States medical officer or hospital by the Secretary of Labor.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 532; Pub. L. 90–83, §1(4), (48), Sept. 11, 1967, 81 Stat. 196, 209; Pub. L. 93–416, §1, Sept. 7, 1974, 88 Stat. 1143; Pub. L. 96–499, title IV, §421(b), Dec. 5, 1980, 94 Stat. 2608; Pub. L. 97–463, §4, Jan. 12, 1983, 96 Stat. 2532; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274.)
 
@@ -270,7 +270,7 @@ Pub. L. 101–534, §1, Nov. 7, 1990, 104 Stat. 2352, provided that: “This Act
 
 #### Transfer of Functions
 
-Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpendedbalances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau \[now National Weather Service\], Coast and Geodetic Survey \[now National Ocean Survey\], Environmental Data Services, National Environmental Satellite Center, and ESSA Research Laboratories.
+Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau \[now National Weather Service\], Coast and Geodetic Survey \[now National Ocean Survey\], Environmental Data Services, National Environmental Satellite Center, and ESSA Research Laboratories.
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service, transferred to Secretary of Health, Education, and Welfare by 1966 Reorg. Plan No. 3, 31 F.R. 8855, 80 Stat. 1610, effective June 25, 1966, set out in the Appendix to this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508 of Title 20, Education.
 
@@ -304,7 +304,7 @@ Third party tort liability to United States for hospital and medical care, see s
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3373, 3374, 7902, 8110, 8118, 8133, 8191, 8192 of this title; title 16 sections 1a–6, 18i, 558c, 742f, 773a, 4604; title 20 section 76<i>l</i>; title 22 section 3973; title 29 section 1706; title 30 section 902; title 42 sections 3796b, 5055, 12620, 12651g, 12655n.
+This section is referred to in sections 3373, 3374, 7902, 8110, 8118, 8133, 8191, 8192 of this title; title 16 sections 1a–6, 18i, 558c, 670c, 742f, 773a, 4604; title 20 section 76<i>l</i>; title 22 section 3973; title 29 sections 1706, 2897; title 30 section 902; title 42 sections 3796b, 5055, 12620, 12651g, 12655n.
 
 <i><sup>1</sup></i><i> So in original. Pub. L. 93–416 added par. (F) immediately after par. (iv), rather than after par. (E).</i>
 

@@ -12,9 +12,13 @@
 
 (3) A survivor annuity computed under section 8341, or subchapter IV of chapter 84, of title 5 based on the service of an individual described in paragraph (1) shall be computed based upon such individual's annuity as determined in accordance with such paragraph.
 
-(c) The Secretary may authorize an exception to the restrictions in subsections (a), (b), and (c) of section 5532 of title 5 if necessary to meet special or emergency employment needs which result from a severe shortage of well-qualified candidates in physician positions, and registered nurse positions, which otherwise cannot be readily met. The authority of the Secretary under the preceding sentence with respect to registered-nurse positions expires on December 31, 1994.
+(c) The Secretary may authorize an exception to the restrictions in subsections (a), (b), and (c) of section 5532 <sup>1</sup> of title 5 if necessary to meet special or emergency employment needs which result from a severe shortage of well-qualified candidates in physician positions, and registered nurse positions, which otherwise cannot be readily met. The authority of the Secretary under the preceding sentence with respect to registered-nurse positions expires on December 31, 1994.
 
 (Added Pub. L. 102–40, title IV, §401(b)(3)(B), May 7, 1991, 105 Stat. 231; amended Pub. L. 102–585, title V, §522, Nov. 4, 1992, 106 Stat. 4959.)
+
+#### References in Text
+
+Section 5532 of title 5, referred to in subsec. (c), was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
 #### Prior Provisions
 

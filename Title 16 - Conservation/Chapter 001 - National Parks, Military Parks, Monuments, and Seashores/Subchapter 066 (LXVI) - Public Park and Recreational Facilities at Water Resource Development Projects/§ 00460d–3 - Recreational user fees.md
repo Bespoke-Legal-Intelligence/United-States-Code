@@ -32,7 +32,7 @@ No entrance or admission fees shall be collected after March 31, 1970, by any of
 
 #### Alternative to Annual Passes
 
-Section 208(c) of Pub. L. 104–303 provided that:
+Section 208(c) of Pub. L. 104–303, as amended by Pub. L. 106–53, title II, §218, Aug. 17, 1999, 113 Stat. 294, provided that:
 
 “(1)
 
@@ -48,5 +48,5 @@ Report.—Not later than December 31, 1999, the Secretary shall transmit to Cong
 
 “(4)
 
-Expiration of authority.—The authority to establish an annual pass under paragraph (2) shall expire on the later of December 31, 1999, or the date of transmittal of the report under paragraph (3).”
+Expiration of authority.—The authority to establish an annual pass under paragraph (2) shall expire on the \[sic\] December 31, 2003.”
 

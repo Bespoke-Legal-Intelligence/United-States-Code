@@ -24,7 +24,7 @@ General Definitions.—In this part—
 
 &emsp;(6) “aircraft” means any contrivance invented, used, or designed to navigate, or fly in, the air.
 
-&emsp;(7) “aircraft engine” means an engine used, or intended to be used, to propel an aircraft,including a part, appurtenance, and accessory of the engine, except a propeller.
+&emsp;(7) “aircraft engine” means an engine used, or intended to be used, to propel an aircraft, including a part, appurtenance, and accessory of the engine, except a propeller.
 
 &emsp;(8) “airman” means an individual—
 

@@ -72,7 +72,7 @@ The Secretary may permit any importer or refiner who owns any petroleum products
 
 &emsp;(D) below the level of an aggregate of 500,000,000 barrels of petroleum product stored in the Reserve.
 
-(3) During any period in which there is a drawdown and distribution of the Reserve in effect under this subsection, the Secretary shall transmit a monthly report to the Congress containing an account of the drawdown and distribution ofpetroleum products under this subsection and an assessment of its effect.
+(3) During any period in which there is a drawdown and distribution of the Reserve in effect under this subsection, the Secretary shall transmit a monthly report to the Congress containing an account of the drawdown and distribution of petroleum products under this subsection and an assessment of its effect.
 
 (4) In no case may the drawdown under this subsection be extended beyond 60 days with respect to any domestic energy supply shortage.
 
@@ -186,7 +186,7 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 #### (C) Barred company
 
-&emsp;&emsp;If the Secretary has notified the Governor of the State of Hawaii that a company has been barred from bidding (either prior to, or at the time that a notice of sale is issued), the Governor shall not certify the company under this paragraph.
+&emsp;&emsp;If the Secretary has notified the Governor of the State of Hawaii that a company hasbeen barred from bidding (either prior to, or at the time that a notice of sale is issued), the Governor shall not certify the company under this paragraph.
 
 #### (8) Supplies of petroleum products
 
@@ -196,9 +196,9 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 #### References in Text
 
-This chapter, referred to in subsec. (j)(6), (7)(A), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
-
 Section 753 of title 15, referred to in subsec. (e), was omitted from the Code pursuant to section 760g of Title 15, Commerce and Trade, which provided for the expiration of the President's authority under that section on Sept. 30, 1981.
+
+This chapter, referred to in subsec. (j)(6), (7)(A), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
 

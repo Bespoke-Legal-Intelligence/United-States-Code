@@ -12,7 +12,7 @@ The Commission shall assess and collect application fees at such rates as the Co
 
 #### (c) Additional application fee; assessment as penalty; amount; dismissal of application or other filing
 
-(1) The Commission shall prescribe by regulation an additional application fee which shall be assessed as a penalty for late payment of application fees required by subsection (a) of this section. Such penalty shall be 25 percent of the amount of the application fee which was not paid in a timely manner.
+(1) The Commission shall prescribe by regulation an additional application fee which shall beassessed as a penalty for late payment of application fees required by subsection (a) of this section. Such penalty shall be 25 percent of the amount of the application fee which was not paid in a timely manner.
 
 (2) The Commission may dismiss any application or other filing for failure to pay in a timely manner any application fee or penalty under this section.
 

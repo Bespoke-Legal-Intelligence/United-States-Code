@@ -2,7 +2,7 @@
 
 #### (a) Original appointments to Regular and Reserve Corps; limitation on appointment and call to active duty
 
-(1) Except as provided in subsections (b) and (e) of this section, original appointments to the Regular Corps may be made only in the warrant officer (W–1), chief warrant officer (W–2), chief warrant officer (W–3), chief warrant officer (W–4), junior assistant, assistant, and senior assistant grades and original appointments to a grade above junior assistant shall be made only after passage of an examination, given in accordance with regulations of the President, in one or more of the several branches of medicine, dentistry, hygiene, sanitary engineering, pharmacy, psychology, nursing, or related scientific specialties in the field of public health.
+(1) Except as provided in subsections (b) and (e) of this section, original appointments to theRegular Corps may be made only in the warrant officer (W–1), chief warrant officer (W–2), chief warrant officer (W–3), chief warrant officer (W–4), junior assistant, assistant, and senior assistant grades and original appointments to a grade above junior assistant shall be made only after passage of an examination, given in accordance with regulations of the President, in one or more of the several branches of medicine, dentistry, hygiene, sanitary engineering, pharmacy, psychology, nursing, or related scientific specialties in the field of public health.
 
 (2) Original appointments to the Reserve Corps may be made to any grade up to and including the director grade but only after passage of an examination given in accordance with regulations of the President. Reserve commissions shall be for an indefinite period and may be terminated at any time, as the President may direct.
 
@@ -12,7 +12,7 @@
 
 (1) Not more than 10 per centum of the original appointments to the Regular Corps authorized to be made during any fiscal year may be made to grades above that of senior assistant, but no such appointment (other than an appointment under section 205 of this title) may be made to a grade above that of director. For the purpose of this subsection the number of original appointments authorized to be made during a fiscal year shall be (1) the excess of the number of officers of the Regular Corps authorized by the appropriation Act or Acts for such year over the number of officers on active duty in the Regular Corps on the first day of such year, plus (2) the number of such officers of the Regular Corps who, during such fiscal year, have been or will be retired upon attainment of age sixty-four or have for any other reason ceased to be on active duty. In determining the number of appointments authorized by this subsection an appointment shall be deemed to be made in the fiscal year in which the nomination is transmitted by the President to the Senate.
 
-(2) In addition to the number of original appointments to the Regular Corps authorized by paragraph (1) to be made to grades above that ofsenior assistant, original appointments authorized to be made to the Regular Corps in any year may be made to grades above that of senior assistant, but not above that of director, in the case of any individual who—
+(2) In addition to the number of original appointments to the Regular Corps authorized by paragraph (1) to be made to grades above that of senior assistant, original appointments authorized to be made to the Regular Corps in any year may be made to grades above that of senior assistant, but not above that of director, in the case of any individual who—
 
 &emsp;(A)(i) was on active duty in the Reserve Corps on July 1, 1960, (ii) was on such active duty continuously for not less than one year immediately prior to such date, and (iii) applies for appointment to the Regular Corps prior to July 1, 1962; or
 
@@ -32,7 +32,7 @@ Commissions evidencing the appointment by the President of officers of the Regul
 
 (3) For purposes of promotion, any person originally appointed in the Regular Corps to the senior assistant grade or above who has had active service in the Reserve Corps shall be considered as having had on the date of appointment the length of service provided for in paragraph (1) of this subsection, plus whichever of the following is greater: (A) The excess of his total active service in the Reserve Corps (above the grade of junior assistant) over the length of service provided in such paragraph, to the extent that such excess is on account of service in the Reserve Corps in or above the grade to which he is appointed in the Regular Corps or (B) his active service in the same or any higher grade in the Reserve Corps after the first day on which, under regulations in effect on the date of his appointment to the Regular Corps, he would have had the training and experience necessary for such appointment.
 
-(4) For purposes of promotion, any person whose original appointment is to the assistant grade in the Regular Corps shall be considered as having had on the date of appointment service equal to his total active service in the Reserve Corps in and above the assistant grade.
+(4) For purposes of promotion, any person whose original appointment is to the assistant grade in the Regular Corps shall be consideredas having had on the date of appointment service equal to his total active service in the Reserve Corps in and above the assistant grade.
 
 #### (e) Reappointment; credit for service
 
@@ -134,7 +134,7 @@ Functions of President delegated to Secretary of Health and Human Services and S
 
 #### Term of Reserve Commissions in Effect on April 27, 1956
 
-Section 3(c)(2) of act Apr. 27, 1956, provided that: “The enactment of paragraph (1) of this subsection\[amending subsec. (a)(2) of this section\] shall not affect the term of the commission of any officer in the Reserve Corps in effect on the date of such enactment \[Apr. 27, 1956\] unless such officer consents in writing to the extension of his commission for an indefinite period, in which event his commission shall be so extended without the necessity of a new appointment.”
+Section 3(c)(2) of act Apr. 27, 1956, provided that: “The enactment of paragraph (1) of this subsection \[amending subsec. (a)(2) of this section\] shall not affect the term of the commission of any officer in the Reserve Corps in effect on the date of such enactment \[Apr. 27, 1956\] unless such officer consents in writing to the extension of his commission for an indefinite period, in which event his commission shall be so extended without the necessity of a new appointment.”
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@
 
 (1) The allotment to any State under subsection (a) of this section for any fiscal year which is less than—
 
-&emsp;(A) $50,000 for the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or Guam and $100,000 for any other State, in the case of an allotment for grants for the construction of public or other nonprofit rehabilitation facilities,
+&emsp;(A) $50,000 for the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or Guam and $100,000 for any other State, in the case of an allotment for grantsfor the construction of public or other nonprofit rehabilitation facilities,
 
 &emsp;(B) $100,000 for the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or Guam and $200,000 for any other State in the case of an allotment for grants for the construction of public or other nonprofit outpatient facilities,
 
@@ -56,7 +56,7 @@ For the purposes of this part—
 
 &emsp;(B) in the case of a request to transfer a portion of an allotment for grants for the construction of public or other nonprofit hospitals and public health centers, use of such portion as requested by such State agency will better carry out the purposes of this subchapter,
 
-> the Secretary shall promptly (but after application of subsection (b) of this section) adjust the allotments of such State in accordance with such request and shall notify the State agency.
+> the Secretary shall promptly (but after application of subsection (b) of this section) adjust theallotments of such State in accordance with such request and shall notify the State agency.
 
 (3) In addition to the transfer of portions of allotments under paragraph (1) or (2), upon the request of any State that a specified portion of an allotment of such State under paragraph (2) of subsection (a) of this section be added to an allotment of such State under paragraph (1) of such subsection for grants for the construction of public or other nonprofit hospitals and public health centers, and upon simultaneous certification by the State agency in such State to the effect that the need for new public or other nonprofit hospitals and public health centers is substantially greater than the need for modernization of facilities referred to in paragraph (a) or (b) of section 291a of this title, the Secretary shall promptly (but after application of subsection (b) of this section) adjust the allotments of such State in accordance with such request and shall notify the State agency.
 
@@ -76,7 +76,7 @@ A prior section 291c, act July 1, 1944, ch. 373, title VI, §624, as added Aug. 
 
 A prior section 291g, act July 1, 1944, ch. 373, title VI, §624, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended June 29, 1948, ch. 728, §1, 62 Stat. 1103; Oct. 25, 1949, ch. 722, §§3(b), 7, 63 Stat. 899, 901; Aug. 1, 1956, ch. 852, §19(c), 70 Stat. 911; Sept. 25, 1962, Pub. L. 87–688, §4(a)(3), 76 Stat. 587, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
-A prior section 291i(a) to (d), act July 1, 1944, ch. 373, title VI, §631, as added Aug. 13, 1946, ch. 958, §2, 60 Stat.1041; amended June 19, 1948, ch. 544, 62 Stat. 531; Aug. 1, 1956, ch. 852, §19(a), (b), 70 Stat. 911; June 25, 1959, Pub. L. 86–70, §31(c), 73 Stat. 149; July 12, 1960, Pub. L. 86–624, §29(d), 74 Stat. 419; Sept. 25, 1962, Pub. L. 87–688, §4(a)(2), 76 Stat. 587, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
+A prior section 291i(a) to (d), act July 1, 1944, ch. 373, title VI, §631, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended June 19, 1948, ch. 544, 62 Stat. 531; Aug. 1, 1956, ch. 852, §19(a), (b), 70 Stat. 911; June 25, 1959, Pub. L. 86–70, §31(c), 73 Stat. 149; July 12, 1960, Pub. L. 86–624, §29(d), 74 Stat. 419; Sept. 25, 1962, Pub. L. 87–688, §4(a)(2), 76 Stat. 587, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
 A prior section 291n–1, act July 1, 1944, ch. 373, title VI, §637, formerly §654(c), as added July 12, 1954, ch. 471, §3, 68 Stat. 463, renumbered and amended Aug. 14, 1959, Pub. L. 86–158, title II, §201, 73 Stat. 349, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
@@ -138,7 +138,7 @@ Pub. L. 93–641, §5(b), Jan. 4, 1975, 88 Stat. 2274, provided that any State h
 
 #### Allotment Study; Report to Congress
 
-Section 103(c) of Pub. L. 91–296 directed Secretary to study effects of the formula specified in subsec. (a)(1) of this section for allotment among the States for construction of health facilities, with results of such studytogether with recommendations for change to be reported to Congress on May 15, 1972.
+Section 103(c) of Pub. L. 91–296 directed Secretary to study effects of the formula specified in subsec. (a)(1) of this section for allotment among the States for construction of health facilities, with results of such study together with recommendations for change to be reported to Congress on May 15, 1972.
 
 #### Approval of Application for Modernization Prior to July 1, 1965, or Before Approval of a State Plan
 

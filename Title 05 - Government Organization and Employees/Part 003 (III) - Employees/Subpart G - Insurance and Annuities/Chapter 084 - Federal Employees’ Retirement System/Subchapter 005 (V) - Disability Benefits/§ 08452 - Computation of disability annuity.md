@@ -74,7 +74,7 @@ Subsec. (a)(2)(B)(i). Pub. L. 100–238, §122(a), amended cl. (i) generally. Pr
 
 &emsp;“(II) all adjustments made under section 8462(b) between the date on which the annuity commenced, or was restored, and the start of the month involved (without regard to whether the annuitant's annuity was affected by any of those adjustments).
 
-> For purposes of computing the assumed disability insurance benefit, the month in which the annuitant's disability began (as determined under section 216(i)(2)(C) of the Social Security Act) shall be the month in which the annuity commenced or, if earlier (and if a determination was actually made) the month determined under such section.”
+> For purposes of computing the assumed disability insurance benefit, the month in which the annuitant'sdisability began (as determined under section 216(i)(2)(C) of the Social Security Act) shall be the month in which the annuity commenced or, if earlier (and if a determination was actually made) the month determined under such section.”
 
 Subsec. (a)(3). Pub. L. 100–238, §122(c)(2)(B), added par. (3).
 

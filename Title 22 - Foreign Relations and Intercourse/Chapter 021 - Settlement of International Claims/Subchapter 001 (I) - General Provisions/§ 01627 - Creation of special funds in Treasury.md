@@ -2,7 +2,7 @@
 
 #### (a) Credits to, and payment from funds
 
-There are created in the Treasury of the United States (1) a special fund to be known as the Yugoslav Claims Fund; and (2) such other special funds as may, in the discretion of the Secretary of the Treasury, be required, each to be a claims fund to be known by the name of the foreign government which has entered into a settlement agreement with the Government of the United States as described in subsection (a) of section 1623 of this title. There shall be covered into the Treasury to the credit of the proper special fund all funds hereinafter specified. All payments authorized under section 1626 of this title shall be disbursed from the proper fund, as the case may be, and all amounts covered into the Treasury to the credit of the aforesaid funds are permanently appropriated for the making of the payments authorized by section 1626 of this title.
+There are created in the Treasury of the United States (1) a special fund to be known as the Yugoslav Claims Fund; and (2) such other special funds as may, in the discretion of the Secretary of the Treasury, be required, each to be a claims fund to be known by the name of the foreign government which has entered into a settlement agreement with the Government of the United States as described in subsection (a) of section 1623 of this title. There shall be covered into the Treasury to the credit of the proper special fund all funds hereinafter specified. All payments authorized under section 1626 of this title shall be disbursed from the properfund, as the case may be, and all amounts covered into the Treasury to the credit of the aforesaid funds are permanently appropriated for the making of the payments authorized by section 1626 of this title.
 
 #### (b) Credits to Yugoslav Claims Fund; credits to other funds
 
@@ -48,7 +48,7 @@ Except as provided in subsection (f) of this section, the Secretary of the Treas
 
 &emsp;(B) Thereafter, except as provided in paragraph (2), to the extent there remain unpaid principal balances on awards, payments from time to time on account of the unpaid principal balance of each remaining award which bear to such unpaid principal balance the same proportion as the total amount available for distribution at the time such payments are made bears to the aggregate unpaid principal balance of all such awards.
 
-&emsp;(C) Thereafter, payments from time to time on account of the unpaid balance of each award of interest which bear to such unpaid balance of interest the same proportion as the total amount available for distribution at the time such payments are made bears to the aggregate unpaid balance of interest of all such awards.
+&emsp;(C) Thereafter, payments from time to time on account of the unpaid balance of eachaward of interest which bear to such unpaid balance of interest the same proportion as the total amount available for distribution at the time such payments are made bears to the aggregate unpaid balance of interest of all such awards.
 
 (2)(A) For the purpose of computing the payments to be made under paragraph (1) to any claimant which was an incorporated business enterprise on the date of nationalization or other taking of property, the award certified by the Commission under subchapter V of this chapter shall be reduced by the amount of Federal tax benefits derived by such claimant on account of the losses upon which such claim was based, but in no case shall such payments be reduced below the amount paid to such claimant on account of such claim before October 13, 1980. For purposes of this subparagraph, such Federal tax benefits shall be the amount by which the claimant's taxes in any prior taxable year or years under chapters 1, 2A, 2B, 2D, and 2E of the Internal Revenue Code of 1939, or subtitle A of the Internal Revenue Code of 1986, were decreased with respect to the loss or losses upon which the claim was based. The sum of the amounts which would otherwise be payable but for this paragraph which are not paid to any such claimant shall be aggregated, and the Secretary of the Treasury is authorized and directed to make payments out of such aggregated sums in accordance with subparagraph (B).
 
@@ -98,7 +98,7 @@ Subsec. (e). Pub. L. 90–421, §1(5), added subsec. (e).
 
 #### Abolition of International Claims Commission and Transfer of Functions
 
-International Claims Commission of the United States, including offices of its members, abolished andfunctions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
+International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
 
 For provisions transferring Foreign Claims Settlement Commission of the United States as a separate agency within the Department of Justice, see section 1622a et seq. of this title.
 

@@ -32,7 +32,7 @@ Sec. 6. As part of the development of the Annual Federal Plan, each Executive de
 
 Sec. 7. The Director of the Office of Personnel Management, in consultation with the Secretary and the Secretary of Labor, to the extent permitted by law, shall develop a program to promote recruitment of Hispanic students for part-time, summer, and permanent positions in the Federal Government.
 
-Sec. 8. I have determined that the Commission shall be established in compliance with the Federal Advisory Committee Act, as amended (5 U.S.C. App.). Notwithstanding any other Executive order, the responsibilities of the President under the Federal Advisory Committee Act, as amended, shall be performed by the Secretary, in accordance with the guidelines and procedures established by the Administrator of General Services.
+Sec. 8. I have determined that the Commission shall be established in compliance with the Federal AdvisoryCommittee Act, as amended (5 U.S.C. App.). Notwithstanding any other Executive order, the responsibilities of the President under the Federal Advisory Committee Act, as amended, shall be performed by the Secretary, in accordance with the guidelines and procedures established by the Administrator of General Services.
 
 Sec. 9. <i>Administration</i>. (a) Members of the Commission shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707).
 
@@ -48,5 +48,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 1999, by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(d), Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

@@ -21,5 +21,5 @@
 - [&sect; 00375a - Loans to executive officers of banks](%C2%A7%2000375a%20-%20Loans%20to%20executive%20officers%20of%20banks.md)
 - [&sect; 00375b - Extensions of credit to executive officers, directors, and principal shareholders of member banks](%C2%A7%2000375b%20-%20Extensions%20of%20credit%20to%20executive%20officers%2C%20directors%2C%20and%20principal%20shareholders%20of%20member%20banks.md)
 - [&sect; 00376 - Rate of interest paid to directors, etc](%C2%A7%2000376%20-%20Rate%20of%20interest%20paid%20to%20directors%2C%20etc.md)
-- [&sect; 00377 - Affiliation with organization dealing in securities; penalties](%C2%A7%2000377%20-%20Affiliation%20with%20organization%20dealing%20in%20securities%3B%20penalties.md)
+- [&sect; 00377 - Repealed. Pub. L. 106&#8211;102, title I, &sect;101(a), Nov. 12, 1999, 113 Stat. 1341](%C2%A7%2000377%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93102%2C%20title%20I%2C%20%C2%A7101%28a%29%2C%20Nov.%2012%2C%201999%2C%20113%20Stat.%201341.md)
 - [&sect; 00378 - Dealers in securities engaging in banking business; individuals or associations engaging in banking business; examinations and reports&#8230;](%C2%A7%2000378%20-%20Dealers%20in%20securities%20engaging%20in%20banking%20business%3B%20individuals%20or%20associations%20engaging%20in%20banking%20business%3B%20examinations%20and%20reports%E2%80%A6.md)

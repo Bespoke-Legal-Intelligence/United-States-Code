@@ -12,7 +12,7 @@ In prescribing procedures under subsection (a) of this section, the Secretary sh
 
 #### Prior Provisions
 
-A prior section 1070a–33, Pub. L. 89–329, title IV, §406C, as added Pub. L. 102–325, title IV, §402(a)(4), July23, 1992, 106 Stat. 497, related to eligibility of scholars, prior to the general amendment of this division by Pub. L. 105–244.
+A prior section 1070a–33, Pub. L. 89–329, title IV, §406C, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 497, related to eligibility of scholars, prior to the general amendment of this division by Pub. L. 105–244.
 
 #### Section Referred to in Other Sections
 

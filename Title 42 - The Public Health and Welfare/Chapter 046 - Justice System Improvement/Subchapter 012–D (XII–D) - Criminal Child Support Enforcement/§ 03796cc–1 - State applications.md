@@ -16,6 +16,10 @@ The office designated under section 3757 of this title—
 
 (Pub. L. 90–351, title I, §1602, as added Pub. L. 102–521, §4(a)(3), Oct. 25, 1992, 106 Stat. 3404.)
 
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3796cc–2, 3796cc–3, 3796cc–4 of this title.

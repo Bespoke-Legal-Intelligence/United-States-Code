@@ -6,7 +6,7 @@ For fiscal year 1998 and each succeeding fiscal year, the Chief Administrative O
 
 #### (b) Regulations
 
-An advance payment authorized by subsection (a) of this section shall be made in accordance with regulations issued by the Committee on House Oversight of the House of Representatives.
+An advance payment authorized by subsection (a) of this section shall be made in accordancewith regulations issued by the Committee on House Oversight of the House of Representatives.
 
 #### (c) Effective date
 

@@ -78,5 +78,3 @@ Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–24
 
 This section is referred to in section 1078–10 of this title.
 
-)
-

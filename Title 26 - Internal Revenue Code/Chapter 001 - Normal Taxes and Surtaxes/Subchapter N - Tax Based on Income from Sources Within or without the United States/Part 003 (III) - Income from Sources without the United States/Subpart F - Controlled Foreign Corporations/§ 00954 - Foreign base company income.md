@@ -86,7 +86,7 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 &emsp;&emsp;&emsp;(iii) which does not give rise to any income.
 
-> &emsp;&emsp;Gains and losses from the sale or exchange of any property which, in the hands of the controlled foreign corporation, is property described in section 1221(1) shall not be taken into account under this subparagraph.
+> &emsp;&emsp;Gains and losses from the sale or exchange of any property which, in the hands of the controlled foreign corporation, is property described in section 1221(a)(1) shall not be taken into account under this subparagraph.
 
 #### (C) Commodities transactions
 
@@ -108,7 +108,7 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 #### (F) Income from notional principal contracts
 
-&emsp;&emsp;Net income from notional principal contracts.<sup>3</sup> Any item of income, gain, deduction, or loss from a notional principal contract entered into for purposes of hedging any item described in any preceding subparagraph shall not be taken into account for purposes of this subparagraph but shall betaken into account under such other subparagraph.
+&emsp;&emsp;Net income from notional principal contracts.<sup>3</sup> Any item of income, gain, deduction, or loss from a notional principal contract entered into for purposes of hedging any item described in any preceding subparagraph shall not be taken into account for purposes of this subparagraph but shall be taken into account under such other subparagraph.
 
 #### (G) Payments in lieu of dividends
 
@@ -176,7 +176,7 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 &emsp;&emsp;(B) such person is a corporation, partnership, trust, or estate which is controlled by the same person or persons which control the controlled foreign corporation.
 
-> &emsp;For purposes of the preceding sentence, control means, with respect to a corporation, the ownership, directly or indirectly, of stock possessing more than 50 percent of the total voting power of all classes of stock entitled to vote or of the total value of stock of such corporation. In the case of a partnership, trust, or estate, control means the ownership, directly or indirectly, of more than 50 percent (by value) of the beneficial interests in such partnership, trust, or estate. For purposes of this paragraph, rules similar to the rules of section 958 shall apply.
+> &emsp;For purposes of the preceding sentence, control means, with respect to a corporation, the ownership, directly or indirectly, of stock possessing more than 50 percent of the total voting power of all classes of stock entitled to vote or of the total value of stock of such corporation. In the case of a partnership, trust, orestate, control means the ownership, directly or indirectly, of more than 50 percent (by value) of the beneficial interests in such partnership, trust, or estate. For purposes of this paragraph, rules similar to the rules of section 958 shall apply.
 
 #### (4) Special rule for certain timber products
 
@@ -310,7 +310,7 @@ For purposes of this section—
 
 #### (D) Determinations made separately
 
-&emsp;&emsp;For purposes of this paragraph, the qualified banking or financing income of an eligible controlled foreign corporation and eachqualified business unit of such corporation shall be determined separately for such corporation and each such unit by taking into account—
+&emsp;&emsp;For purposes of this paragraph, the qualified banking or financing income of an eligible controlled foreign corporation and each qualified business unit of such corporation shall be determined separately for such corporation and each such unit by taking into account—
 
 &emsp;&emsp;&emsp;(i) in the case of the eligible controlled foreign corporation, only items of income, deduction, gain, or loss and activities of such corporation not properly allocable or attributable to any qualified business unit of such corporation, and
 
@@ -334,7 +334,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the corporation (or qualified business unit) rendering services or making facilities available, or
 
-&emsp;&emsp;&emsp;(ii) another corporation (or qualified business unit of a corporation) which is a member of the same affiliated group (as defined in section 1504, but determined without regard to section 1504(b)(3)).
+&emsp;&emsp;&emsp;(ii) another corporation (or qualified business unit of a corporation) which is a member of the same affiliated group (asdefined in section 1504, but determined without regard to section 1504(b)(3)).
 
 #### (5) Other definitions
 
@@ -396,7 +396,7 @@ For purposes of this section—
 
 #### (9) Application
 
-&emsp;This subsection, subsection (c)(2)(C)(ii), and the last sentence of subsection (e)(2) shall apply only to the first taxable year of a foreign corporation beginning after December 31, 1998, and before January 1, 2000, and to taxable years of United States shareholders with or within which such taxable year of such foreign corporation ends.
+&emsp;This subsection, subsection (c)(2)(C)(ii), and the last sentence of subsection (e)(2) shall apply only to taxable years of a foreign corporation beginning after December 31, 1998, and before January 1, 2002, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends.
 
 #### (i) Special rule for income derived in the active conduct of insurance business
 
@@ -464,7 +464,7 @@ For purposes of this section—
 
 &emsp;For purposes of this subsection, any term used in this subsection which is also used in section 953(e) shall have the meaning given such term by section 953.
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1009; amended Pub. L. 91–172, title IX, §909(a), Dec. 30, 1969, 83 Stat. 718; Pub. L. 94–12, title VI, §602(b), (c)(1), (2), (d)(1), (e), Mar. 29, 1975, 89 Stat. 58, 60, 64; Pub. L. 94–455, title X, §§1023(a), 1024(a), title XIX, §1906(b)(13)(A), Oct.4, 1976, 90 Stat. 1620, 1834; Pub. L. 97–248, title II, §212(a)–(e), Sept. 3, 1982, 96 Stat. 451, 452; Pub. L. 98–369, div. A, title I, §137(a), title VII, §712(f), July 18, 1984, 98 Stat. 672, 947; Pub. L. 99–514, title XII, §§1201(c), 1221(a)(1), (b)(3)(B), (c)(1)–(3)(A), (d), (e), 1223(a), title XVIII, §1810(k), Oct. 22, 1986, 100 Stat. 2525, 2549, 2553, 2557, 2830; Pub. L. 100–647, title I, §§1012(i)(12), (14)(A), (18), (20), (25)(B), 1018(u)(38), Nov. 10, 1988, 102 Stat. 3509–3512, 3592; Pub. L. 101–239, title VII, §7811(i)(3), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 103–66, title XIII, §§13233(a)(1), 13235(a)(3), (b), 13239(d), Aug. 10, 1993, 107 Stat. 502, 504, 505, 509; Pub. L. 104–188, title I, §1704(t)(25), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title X, §1051(a), (b), title XI, §1175(a), (b), Aug. 5, 1997, 111 Stat. 940, 990, 993; Pub. L. 105–277, div. J, title I, §1005(a), (b)(2), (c)–(e), title IV, §4003(j), Oct. 21, 1998, 112 Stat. 2681–890, 2681–897, 2681–899, 2681–900, 2681–910.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1009; amended Pub. L. 91–172, title IX, §909(a), Dec. 30, 1969, 83 Stat. 718; Pub. L. 94–12, title VI, §602(b), (c)(1), (2), (d)(1), (e), Mar. 29, 1975, 89 Stat. 58, 60, 64; Pub. L. 94–455, title X, §§1023(a), 1024(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1620, 1834; Pub. L. 97–248, title II, §212(a)–(e), Sept. 3, 1982, 96 Stat. 451, 452; Pub. L. 98–369, div. A, title I, §137(a), title VII, §712(f), July 18, 1984, 98 Stat. 672, 947; Pub. L. 99–514, title XII, §§1201(c), 1221(a)(1), (b)(3)(B), (c)(1)–(3)(A), (d), (e), 1223(a), title XVIII, §1810(k), Oct. 22, 1986, 100 Stat. 2525, 2549, 2553, 2557, 2830; Pub. L. 100–647, title I, §§1012(i)(12), (14)(A), (18), (20), (25)(B), 1018(u)(38), Nov. 10, 1988, 102 Stat. 3509–3512, 3592; Pub. L. 101–239, title VII, §7811(i)(3), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 103–66, title XIII, §§13233(a)(1), 13235(a)(3), (b), 13239(d), Aug. 10, 1993, 107 Stat. 502, 504, 505, 509; Pub. L. 104–188, title I, §1704(t)(25), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title X, §1051(a), (b), title XI, §1175(a), (b), Aug. 5, 1997, 111 Stat. 940, 990, 993; Pub. L. 105–277, div. J, title I, §1005(a), (b)(2), (c)–(e), title IV, §4003(j), Oct. 21, 1998, 112 Stat. 2681–890, 2681–897, 2681–899, 2681–900, 2681–910; Pub. L. 106–170, title V, §§503(a), 532(c)(2)(Q), Dec. 17, 1999, 113 Stat. 1921, 1931.)
 
 #### References in Text
 
@@ -472,7 +472,11 @@ Sections 15(a) and 15C(a) of the Securities Exchange Act of 1934, referred to in
 
 #### Amendments
 
-1998—Subsec. (c)(1)(B)(i). Pub. L. 105–277, §1005(e), inserted “other than property which gives rise to income not treated as foreign personal holding company income by reason of subsection (h) or (i) for the taxable year” before comma at end.
+1999—Subsec. (c)(1)(B). Pub. L. 106–170, §532(c)(2)(Q), which directed amendment of subsec. (c)(1)(B)(iii) by substituting “section 1221(a)(1)” for “section 1221(1)”, was executed by making the substitution in concluding provisions to reflect the probable intent of Congress.
+
+Subsec. (h)(9). Pub. L. 106–170, §503(a), substituted “taxable years” for “the first taxable year”, “January 1, 2002” for “January 1, 2000”, and “within which any such” for “within which such”.
+
+1998—Subsec. (c)(1)(B)(i). Pub. L. 105–277, §1005(e), inserted “other than property which gives rise to incomenot treated as foreign personal holding company income by reason of subsection (h) or (i) for the taxable year” before comma at end.
 
 Subsec. (c)(2)(C). Pub. L. 105–277, §1005(c), amended heading and text of subpar. (C), generally. Prior to amendment, text read as follows: “Except as provided in subparagraph (A), (E), or (G) of paragraph (1) or by regulations, in the case of a regular dealer in property (within the meaning of paragraph (1)(B)), forward contracts, option contracts, or similar financial instruments (including notional principal contracts and all instruments referenced to commodities), there shall not be taken into account in computing foreign personal holding income any item of income, gain, deduction, or loss from any transaction (including hedging transactions) entered into in the ordinary course of such dealer's trade or business as such a dealer.”
 
@@ -528,7 +532,7 @@ Subsec. (e)(3). Pub. L. 100–647, §1018(u)(38), related to execution of amendm
 
 Subsec. (b)(2). Pub. L. 99–514, §1221(c)(1), struck out par. (2), exclusion for reinvested shipping income, which read as follows: “For purposes of subsection (a), foreign base company income does not include foreign base company shipping income to the extent that the amount of such income does not exceed the increase for the taxable year in qualified investments in foreign base company shipping operations of the controlled foreign corporation (as determined under subsection (g)).”
 
-Subsec. (b)(3). Pub. L. 99–514, §1223(a), amended par. (3) generally. Prior to amendment, par. (3), special rulewhere foreign base company income is less than 10 percent or more than 70 percent of gross income, read as follows: “For purposes of subsection (a)—
+Subsec. (b)(3). Pub. L. 99–514, §1223(a), amended par. (3) generally. Prior to amendment, par. (3), special rule where foreign base company income is less than 10 percent or more than 70 percent of gross income, read as follows: “For purposes of subsection (a)—
 
 &emsp;“(A) If the foreign base company income (determined without regard to paragraphs (2) and (5)) is less than 10 percent of gross income, no part of the gross income of the taxable year shall be treated as foreign base company income.
 
@@ -540,7 +544,7 @@ Subsec. (b)(4). Pub. L. 99–514, §1221(d), amended par. (4) generally. Prior t
 
 &emsp;“(B) the effecting of the transaction giving rise to such income through the controlled foreign corporation,
 
-> has as one of its significant purposes a substantial reduction of income, war profits, or excess profits or similar taxes. The preceding sentence shall not apply to foreign base company oil related income described in subsection (a)(5).”
+> has as one of its significant purposes a substantial reduction of income, war profits, or excess profits orsimilar taxes. The preceding sentence shall not apply to foreign base company oil related income described in subsection (a)(5).”
 
 Subsec. (b)(5). Pub. L. 99–514, §1201(c), inserted at end “Except to the extent provided in regulations prescribed by the Secretary, any interest which is paid or accrued by the controlled foreign corporation to any United States shareholder in such corporation (or any controlled foreign corporation related to such a shareholder) shall be allocated first to foreign personal holding company income which is passive income (within the meaning of section 904(d)(2)) of such corporation to the extent thereof. The Secretary may, by regulations, provide that the preceding sentence shall apply also to interest paid or accrued to other persons.”
 
@@ -598,7 +602,7 @@ Subsec. (c)(3)(C). Pub. L. 94–455, §1023(a), added subpar. (C).
 
 Subsec. (b)(1). Pub. L. 94–12, §602(c)(1), struck out subsec. (b)(1) which related to the exclusion of certain dividends, interest, and gains from qualified investments in less developed countries.
 
-Subsec. (b)(2). Pub. L. 94–12, §602(d)(1)(B), substituted “foreign base company shipping income to the extentthat the amount of such income does not exceed the increase for the taxable year in qualified investments in foreign base company shipping operations of the controlled foreign corporation (as determined under subsection (g))” for “income derived from, or in connection with, the use (or hiring or leasing for use) of any aircraft or vessel in foreign commerce, or the performance of services directly related to the use of any such aircraft or vessel” in text and “Exclusion for reinvested shipping income” for “Exclusion of certain shipping income” in heading.
+Subsec. (b)(2). Pub. L. 94–12, §602(d)(1)(B), substituted “foreign base company shipping income to the extent that the amount of such income does not exceed the increase for the taxable year in qualified investments in foreign base company shipping operations of the controlled foreign corporation (as determined under subsection (g))” for “income derived from, or in connection with, the use (or hiring or leasing for use) of any aircraft or vessel in foreign commerce, or the performance of services directly related to the use of any such aircraft or vessel” in text and “Exclusion for reinvested shipping income” for “Exclusion of certain shipping income” in heading.
 
 Subsec. (b)(3). Pub. L. 94–12, §602(d)(1)(C), (D), (e), substituted “10 percent” for “30 percent” in heading, substituted “paragraphs (2) and (5)” for “paragraphs (1) and (5)” and “10 percent” for “30 percent” in subpar. (A), and substituted “paragraphs (2) and (5)” for “paragraphs (1) and (5)” and “paragraphs (2), (4), and (5)” for “paragraphs (1), (2), (4), and (5)” in subpar. (B).
 
@@ -611,6 +615,12 @@ Subsec. (d)(1). Pub. L. 94–12, §602(b), provided that for purposes of subsec.
 Subsecs. (f), (g). Pub. L. 94–12, §602(c)(2), (d)(1)(G), added subsecs. (f) and (g).
 
 1969—Subsec. (b)(4). Pub. L. 91–172 inserted reference to a foreign corporation which is an acquired corporation, and made the effecting of a transaction giving rise to foreign base income through the controlled foreign corporation subject to the Secretary's power to disallow inclusion of any item of such income where such inclusion will have one of the effects prescribed by this section.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by section 503(a) of Pub. L. 106–170 applicable to taxable years beginning after Dec. 31, 1999, see section 503(c) of Pub. L. 106–170, set out as a note under section 953 of this title.
+
+Amendment by section 532(c)(2)(Q) of Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -700,11 +710,11 @@ Qualified controlled foreign insurer.—For purposes of this paragraph, the term
 
 &emsp;&emsp;“(i) any controlled foreign corporation which on August 16, 1986, was a member of an affiliated group (as defined in section 1504(a) of the Internal Revenue Code of 1986 without regard to subsection (b)(3) thereof) which had as its common parent a corporation incorporated in Delaware on June 9, 1967, with executive offices in New York, New York, or
 
-&emsp;&emsp;“(ii) any controlled foreign corporation which on August 16, 1986, was a member of an affiliated group\(as so defined) which had as its common parent a corporation incorporated in Delaware on November 3, 1981, with executive offices in Philadelphia, Pennsylvania.
+&emsp;&emsp;“(ii) any controlled foreign corporation which on August 16, 1986, was a member of an affiliated group (as so defined) which had as its common parent a corporation incorporated in Delaware on November 3, 1981, with executive offices in Philadelphia, Pennsylvania.
 
 &emsp;“(D)
 
-Qualified reinsurance income.—For purposes of this paragraph, the term ‘qualified reinsurance income’ means any insurance income attributable to risks (other than risks described in section 953(a) or 954(e) of such Code as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) assumed under a reinsurance contract. For purposes of this subparagraph, insurance income shall mean the underwriting income (as defined in section 832(b)(3) of such Code) and investment income derived from an amount of assets (to be segregated and separately identified) equivalent to the ordinary and necessary insurance reserves and necessary surplus equal to 1/3 of earned premium attributable to such contracts. For purposes of this paragraph, the amount of qualified reinsurance income shall not exceed the amount of insurance income from reinsurance contracts for calendar year 1985. In the case of controlled foreign corporations described in subparagraph (C)(ii), the preceding sentence shall not apply and the qualified reinsurance income of any such corporation shall not exceed such corporation's proportionate share of $27,000,000 (determined on the basis of respective amounts of qualified reinsurance income determined without regard to this subparagraph).”
+Qualified reinsurance income.—For purposes of this paragraph, the term ‘qualified reinsurance income’ means any insurance income attributable to risks (other than risks described in section 953(a) or 954(e) of such Code as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) assumed under a reinsurance contract. For purposes of this subparagraph, insurance income shall mean the underwriting income (as defined in section 832(b)(3) of such Code) and investment income derived from an amount of assets (to be segregated and separately identified) equivalent to the ordinary and necessary insurance reserves and necessary surplus equal to 1/3 of earned premium attributable to such contracts. For purposes of this paragraph, the amount of qualified reinsurance income shall not exceed the amount of insurance income from reinsurance contracts forcalendar year 1985. In the case of controlled foreign corporations described in subparagraph (C)(ii), the preceding sentence shall not apply and the qualified reinsurance income of any such corporation shall not exceed such corporation's proportionate share of $27,000,000 (determined on the basis of respective amounts of qualified reinsurance income determined without regard to this subparagraph).”
 
 Amendment by section 1223(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1223(c) of Pub. L. 99–514, set out as a note under section 864 of this title.
 

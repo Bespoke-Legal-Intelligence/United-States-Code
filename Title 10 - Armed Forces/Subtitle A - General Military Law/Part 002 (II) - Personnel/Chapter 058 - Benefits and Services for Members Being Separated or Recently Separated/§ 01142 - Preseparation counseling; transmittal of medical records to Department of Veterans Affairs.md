@@ -16,7 +16,7 @@ Matters To Be Covered By Counseling.—Counseling under this section shall inclu
 
 &emsp;(3) An explanation of the procedures for and advantages of affiliating with the Selected Reserve.
 
-&emsp;(4) Information concerning Government and private-sector programs for job search and job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement programs established under sections 1151, 1152, and 1153 of this title.
+&emsp;(4) Information concerning Government and private-sector programs for job search and job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement programs established under sections 1151,<sup>1</sup> 1152, and 1153 of this title.
 
 &emsp;(5) If the member has a spouse, job placement counseling for the spouse.
 
@@ -36,9 +36,13 @@ Transmittal of Medical Information to Department of Veterans Affairs.—In the c
 
 (Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1552; amended Pub. L. 102–190, div. A, title X, §1061(a)(5), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4401, 4441(b), 4462(b), Oct. 23, 1992, 106 Stat. 2701, 2730, 2740; Pub. L. 103–35, title II, §201(i)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1332(c), Nov. 30, 1993, 107 Stat. 1797.)
 
+#### References in Text
+
+Section 1151 of this title, referred to in subsec. (b)(4), was repealed by Pub. L. 106–65, div. A, title XVII, §1707(a)(1), Oct. 5, 1999, 113 Stat. 823.
+
 #### Amendments
 
-1993—Subsec. (b)(4). Pub. L. 103–160 substituted “programs established under sections 1151, 1152, and 1153 of this title” for “program established under section 1151 of this title to assist members to obtain employment as elementary or secondary school teachers or teachers’ aides”.
+1993—Subsec. (b)(4). Pub. L. 103–160 substituted “programs established under sections 1151, 1152, and 1153 ofthis title” for “program established under section 1151 of this title to assist members to obtain employment as elementary or secondary school teachers or teachers’ aides”.
 
 Pub. L. 103–35 substituted “job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement program established under section 1151 of this title to assist members to obtain employment as elementary or secondary school teachers or teachers’ aides” for “job placement assistance and information regarding the placement program established under section 1151 of this title to assist members obtain employment as elementary or secondary school teachers or teachers’ aides., including the public and community service jobs program carried out under section 1143a of this title”.
 
@@ -62,5 +66,7 @@ Pub. L. 103–337, div. A, title V, §543(h), Oct. 5, 1994, 108 Stat. 2772, prov
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1078a, 1144, 1151 of this title.
+This section is referred to in sections 1078a, 1144 of this title; title 20 section 9303.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

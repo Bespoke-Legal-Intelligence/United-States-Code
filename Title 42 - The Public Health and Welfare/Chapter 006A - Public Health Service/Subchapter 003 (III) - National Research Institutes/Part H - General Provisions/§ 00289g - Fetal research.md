@@ -38,7 +38,7 @@ Section 121(c) of Pub. L. 103–43 provided that: “The provisions of Executive
 
 #### Executive Order No. 12806. Establishment of Fetal Tissue Bank
 
-Ex. Ord. No. 12806, May 19, 1992, 57 F.R. 21589, which established a human fetal tissue bank, was nullified byPub. L. 103–43, title I, §121(c), June 10, 1993, 107 Stat. 133, set out above.
+Ex. Ord. No. 12806, May 19, 1992, 57 F.R. 21589, which established a human fetal tissue bank, was nullified by Pub. L. 103–43, title I, §121(c), June 10, 1993, 107 Stat. 133, set out above.
 
 #### Federal Funding of Fetal Tissue Transplantation Research
 

@@ -88,7 +88,7 @@ If a State fails to submit a management program under subsection (b) of this sec
 
 #### (f) Technical assistance for States
 
-Upon request of a State, the Administrator may provide technical assistance to such State in developing a management program approved under subsection (b) of this section for those portions of the navigable waters requested by such State.
+Upon request of a State, the Administrator may provide technical assistance to such Statein developing a management program approved under subsection (b) of this section for those portions of the navigable waters requested by such State.
 
 #### (g) Interstate management conference
 
@@ -132,11 +132,11 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (6) Availability for obligation
 
-&emsp;The funds granted to each State pursuant to this subsection in a fiscal year shall remain available for obligation by such State for the fiscal year for which appropriated. The amount of any such funds not obligated by the end of such fiscal year shall be available to the Administrator for granting to other States under this subsection in the next fiscal year.
+&emsp;The funds granted to each State pursuant to this subsection in a fiscal year shall remain available for obligation by such State for the fiscal year for which appropriated. The amount of any such funds not obligated by theend of such fiscal year shall be available to the Administrator for granting to other States under this subsection in the next fiscal year.
 
 #### (7) Limitation on use of funds
 
-&emsp;States may use funds from grants made pursuant to this section for financial assistanceto persons only to the extent that such assistance is related to the costs of demonstration projects.
+&emsp;States may use funds from grants made pursuant to this section for financial assistance to persons only to the extent that such assistance is related to the costs of demonstration projects.
 
 #### (8) Satisfactory progress
 

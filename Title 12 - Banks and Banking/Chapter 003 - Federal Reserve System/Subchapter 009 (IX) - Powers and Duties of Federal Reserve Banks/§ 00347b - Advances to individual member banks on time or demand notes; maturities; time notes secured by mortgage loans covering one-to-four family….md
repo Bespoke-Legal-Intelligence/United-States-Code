@@ -150,5 +150,5 @@ Right to amend, separability of provisions, of act Mar. 9, 1933, see section 212
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 347a, 463, 1831r of this title.
+This section is referred to in sections 347a, 412, 463, 1831r of this title.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;All exporters of wheat and wheat flour, feed grains, oil seeds, cotton and products thereof, and other commodities that the Secretary may designate produced in the United States shall report to the Secretary of Agriculture, on a weekly basis, the following information regarding any contract for export sales entered into or subsequently modified in any manner during the reporting period:
+&emsp;All exporters of wheat and wheat flour, feed grains, oil seeds, cotton, beef, and products thereof, and other commodities that the Secretary may designate produced in the United States shall report to the Secretary of Agriculture, on a weekly basis, the following information regarding any contract for export sales entered into or subsequently modified in any manner during the reporting period:
 
 &emsp;&emsp;(A) type, class, and quantity of the commodity sought to be exported;
 
@@ -48,7 +48,11 @@ Notwithstanding any other provision of law, the President shall not prohibit or 
 
 > except that the President may prohibit or curtail the export of any agricultural commodity during a period for which the President has declared a national emergency or for which the Congress has declared war.
 
-(Pub. L. 95–501, title VI, §602, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3688; amended Pub. L. 102–237, title III, §327, Dec. 13, 1991, 105 Stat. 1858.)
+(Pub. L. 95–501, title VI, §602, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3688; amended Pub. L. 102–237, title III, §327, Dec. 13, 1991, 105 Stat. 1858; Pub. L. 106–78, title IX, §921, Oct. 22, 1999, 113 Stat. 1206.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 942 of Pub. L. 106–78, see Termination Date of 1999 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -56,7 +60,13 @@ A prior section 602 of Pub. L. 95–501 enacted section 1765b–1 of this title 
 
 #### Amendments
 
+1999—Subsec. (a)(1). Pub. L. 106–78, §§921, 942, temporarily inserted “, beef,” after “cotton” in introductory provisions. See Termination Date of 1999 Amendment note below.
+
 1991—Subsec. (a)(1). Pub. L. 102–237, §327(1), substituted “designate produced” for “designate as produced” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 102–237, §327(2), struck out “in accordance with subsection (c)” after “shall remain confidential”.
+
+#### Termination Date of 1999 Amendment
+
+Amendment by Pub. L. 106–78 to terminate 5 years after Oct. 22, 1999, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
 

@@ -21,4 +21,4 @@
 - [&sect; 00228b&#8211;4 - Violation of final order by live poultry dealer; penalty](%C2%A7%2000228b%E2%80%934%20-%20Violation%20of%20final%20order%20by%20live%20poultry%20dealer%3B%20penalty.md)
 - [&sect; 00228c - Federal preemption of State and local requirements](%C2%A7%2000228c%20-%20Federal%20preemption%20of%20State%20and%20local%20requirements.md)
 - [&sect; 00229 - Separability](%C2%A7%2000229%20-%20Separability.md)
-- [&sect; 00229a - Mandatory domestic reporting pilot investigation](%C2%A7%2000229a%20-%20Mandatory%20domestic%20reporting%20pilot%20investigation.md)
+- [&sect; 00229a - Repealed. Pub. L. 106&#8211;78, title IX, &sect;913(a), Oct. 22, 1999, 113 Stat. 1205](%C2%A7%2000229a%20-%20Repealed.%20Pub.%20L.%20106%E2%80%9378%2C%20title%20IX%2C%20%C2%A7913%28a%29%2C%20Oct.%2022%2C%201999%2C%20113%20Stat.%201205.md)

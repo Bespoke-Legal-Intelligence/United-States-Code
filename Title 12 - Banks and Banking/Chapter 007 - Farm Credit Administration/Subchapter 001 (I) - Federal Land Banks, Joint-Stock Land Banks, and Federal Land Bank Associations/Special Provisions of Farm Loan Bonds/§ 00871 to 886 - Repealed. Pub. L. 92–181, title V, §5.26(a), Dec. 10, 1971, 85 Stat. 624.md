@@ -16,7 +16,7 @@ Section 877, act July 17, 1916, ch. 245, title I, §21 (par.), as added Mar. 4, 
 
 Section 878, act July 17, 1916, ch. 245, title I, §21 (par.), as added Mar. 4, 1923, ch. 252, title III, §308, 42 Stat. 1476; amended Mar. 4, 1925, ch. 524, §6, 43 Stat. 1264; June 16, 1933, ch. 98, title VIII, §§80(a), 81, 48 Stat. 273, directed that land banks on whose behalf consolidated bonds are issued be bound by acts of Land Bank Commissioner and any deputy land bank commissioner.
 
-Section 879, act July 17, 1916, ch. 245, title I, §21 (par.), as added Mar. 4, 1923, ch. 252, title III, §308, 42 Stat. 1476; amended June 16, 1933, ch. 98, title VIII, §§80(a), 81, 48 Stat. 273, directed that boards of directors of landbanks, before participating in a consolidated issue, obligate such banks to be liable on farm loan bonds and to be bound by action of Land Bank Commissioner and any deputy land bank commissioner.
+Section 879, act July 17, 1916, ch. 245, title I, §21 (par.), as added Mar. 4, 1923, ch. 252, title III, §308, 42 Stat. 1476; amended June 16, 1933, ch. 98, title VIII, §§80(a), 81, 48 Stat. 273, directed that boards of directors of land banks, before participating in a consolidated issue, obligate such banks to be liable on farm loan bonds and to be bound by action of Land Bank Commissioner and any deputy land bank commissioner.
 
 Section 880, act July 17, 1916, ch. 245, title I, §21 (par.), as added Mar. 4, 1923, ch. 252, title III, §308, 42 Stat. 1476; amended Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title VII, §75(b), title VIII, §80(a), 48 Stat. 271, 273; June 30, 1945, ch. 204 §10(b), 59 Stat. 269, covered certificate of Land Bank Commissioner appearing on face of every farm loan bond issued.
 

@@ -8,7 +8,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 #### (1) Authority
 
-&emsp;Whenever a mortgagor of property that includes 5 or more living units and that has a mortgage insured, co-insured, or held pursuant to this chapter, who has agreed in writing, as a condition of a transfer of physical assets, a flexible subsidy loan, a capital improvementloan, a modification of the mortgage terms, or a workout agreement, to use nonproject income to make cash contributions for payments due under the note and mortgage, for payments to the reserve for replacements, to restore the project to good physical condition, or to pay other project liabilities, knowingly and materially fails to comply with any of these commitments, the Secretary may impose a civil money penalty on that mortgagor, on a general partner of a partnership mortgagor, or on any officer or director of a corporate mortgagor in accordance with the provisions of this section.
+&emsp;Whenever a mortgagor of property that includes 5 or more living units and that has a mortgage insured, co-insured, or held pursuant to this chapter, who has agreed in writing, as a condition of a transfer of physical assets, a flexible subsidy loan, a capital improvement loan, a modification of the mortgage terms, or a workout agreement, to use nonproject income to make cash contributions for payments due under the note and mortgage, for payments to the reserve for replacements, to restore the project to good physical condition, or to pay other project liabilities, knowingly and materially fails to comply with any of these commitments, the Secretary may impose a civil money penalty on that mortgagor, on a general partner of a partnership mortgagor, or on any officer or director of a corporate mortgagor in accordance with the provisions of this section.
 
 #### (2) Amount of penalty
 
@@ -58,7 +58,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 &emsp;&emsp;(xii) Failure to make promptly all payments due under the note and mortgage, including mortgage insurance premiums, tax and insurance escrow payments, and payments to the reserve for replacements when there is adequate project income available to make such payments.
 
-&emsp;&emsp;(xiii) Failure to maintain the premises, accommodations, any living unit in theproject, and the grounds and equipment appurtenant thereto in good repair and condition in accordance with regulations and requirements of the Secretary, except that nothing in this clause shall have the effect of altering the provisions of an existing regulatory agreement or federally insured mortgage on the property.
+&emsp;&emsp;(xiii) Failure to maintain the premises, accommodations, any living unit in the project, and the grounds and equipment appurtenant thereto in good repair and condition in accordance with regulations and requirements of the Secretary, except that nothing in this clause shall have the effect of altering the provisions of an existing regulatory agreement or federally insured mortgage on the property.
 
 &emsp;&emsp;(xiv) Failure, by a mortgagor, a general partner of a partnership mortgagor, or an officer or director of a corporate mortgagor, to provide management for the project that is acceptable to the Secretary pursuant to regulations and requirements of the Secretary.
 
@@ -114,11 +114,11 @@ The penalties set forth in this section shall be in addition to any other availa
 
 #### (4) Order to pay penalty
 
-&emsp;Notwithstanding any other provision of law, in any such review, the court shall have the power to order payment of the penalty imposed by the Secretary.
+&emsp;Notwithstanding any other provision of law, in any such review, the court shall have thepower to order payment of the penalty imposed by the Secretary.
 
 #### (f) Civil money penalties against multifamily mortgagors, general partners of partnership mortgagors, officers and directors of corporate mortgagors, and certain managing agents
 
-If a mortgagor, general partner of a partnership mortgagor, officer or director of a corporate mortgagor, or identity of interest agent employed to manage the property fails to comply with the Secretary's determination or order imposing a civil money penalty under subsection (b) or (c) of this section, after the determination or order is no longer subject to reviewas provided by subsections (d)(1) and (e) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the mortgagor, general partner of a partnership mortgagor, officer or director of a corporate mortgagor, or identity of interest agent employed to manage the property and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
+If a mortgagor, general partner of a partnership mortgagor, officer or director of a corporate mortgagor, or identity of interest agent employed to manage the property fails to comply with the Secretary's determination or order imposing a civil money penalty under subsection (b) or (c) of this section, after the determination or order is no longer subject to review as provided by subsections (d)(1) and (e) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the mortgagor, general partner of a partnership mortgagor, officer or director of a corporate mortgagor, or identity of interest agent employed to manage the property and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
 
 #### (g) Settlement by Secretary
 

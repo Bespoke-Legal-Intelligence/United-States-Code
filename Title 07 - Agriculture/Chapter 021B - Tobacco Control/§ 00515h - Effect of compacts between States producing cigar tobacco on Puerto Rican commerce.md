@@ -16,7 +16,7 @@ The Secretary shall establish for each farm in Puerto Rico for each crop year a 
 
 #### (d) Uniform adjustment of marketing quotas
 
-The marketing quota established for Puerto Rico and the marketing quotas established for farms in Puerto Rico for any crop year pursuant to subsections (b) and (c) of this section shall be subject to such uniform adjustment during the crop year, not exceeding 10 per centum of said quotas, as the Secretary shall determine to be necessary to establish and maintain normal world stocks of cigar-filler tobacco produced in the continental United States and Puerto Rico and otherwise to effectuate the purposes of this chapter.
+The marketing quota established for Puerto Rico and the marketing quotas established forfarms in Puerto Rico for any crop year pursuant to subsections (b) and (c) of this section shall be subject to such uniform adjustment during the crop year, not exceeding 10 per centum of said quotas, as the Secretary shall determine to be necessary to establish and maintain normal world stocks of cigar-filler tobacco produced in the continental United States and Puerto Rico and otherwise to effectuate the purposes of this chapter.
 
 #### (e) Issuance of marketing certificates
 

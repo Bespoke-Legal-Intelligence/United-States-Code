@@ -1,6 +1,6 @@
 ### §7265. Authorized activities
 
-Grants under this part shall be used to carry out activities and services described in applications approved under section 7264 <sup>1</sup> of this title. In addition, grants may be used for educational, occupational, and basic skills testing services and activities, including—
+Grants under this part shall be used to carry out activities and services described in applications approved under section 7264 <sup>1</sup> of this title. In addition, grants may be used for educational,occupational, and basic skills testing services and activities, including—
 
 &emsp;(1) the establishment of systemwide or school-level policies, procedures, and plans for dropout prevention and school reentry;
 

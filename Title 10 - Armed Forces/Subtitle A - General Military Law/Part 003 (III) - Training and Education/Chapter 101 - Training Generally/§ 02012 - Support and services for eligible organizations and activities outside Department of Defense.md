@@ -56,7 +56,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations governing th
 
 &emsp;(1) Rules governing the types of assistance that may be provided.
 
-&emsp;(2) Procedures governing the delivery of assistance that ensure, to the maximum extent practicable, that such assistance is provided in conjunction with, rather than separate from, civilian efforts.
+&emsp;(2) Procedures governing the delivery of assistance that ensure, to the maximum extent practicable, that such assistance is provided inconjunction with, rather than separate from, civilian efforts.
 
 &emsp;(3) Procedures for appropriate coordination with civilian officials to ensure that the assistance—
 
@@ -116,7 +116,7 @@ The Federal Advisory Committee Act, referred to in subsec. (h)(3), is Pub. L. 92
 
 #### Implementation
 
-Pub. L. 105–261, div. A, title V, §525(b), Oct. 17, 1998, 112 Stat. 2014, provided that: “The Secretary of Defense may not initiate any project under section 2012 of title 10, United States Code, after October 1, 1998, until the program required by subsection (i) of that section (as added by subsection (a)) has been established.”
+Pub. L. 105–261, div. A, title V, §525(b), Oct. 17, 1998, 112 Stat. 2014, as amended by Pub. L. 106–65, div. A, title X, §1066(b)(4), Oct. 5, 1999, 113 Stat. 772, provided that: “The Secretary of Defense may not initiate any project under section 2012 of title 10, United States Code, after October 1, 1998, until the program required by subsection (j) of that section (as added by subsection (a)) has been established.”
 
 #### Termination of Funding for Office of Civil-Military Programs in Office of the Secretary of Defense
 

@@ -10,7 +10,17 @@ The Secretary is authorized to carry out a program for the purpose of making suc
 
 #### (c) Restoration of environmental quality
 
-If the Secretary determines that construction of a water resources project by the Secretary or operation of a water resources project constructed by the Secretary has contributed to the degradation of the quality of the environment, the Secretary may undertake measures for restoration of environmental quality and measures for enhancement of environmental quality that are associated with the restoration, through modifications either at the project site or at other locations that have been affected by the construction or operation of the project, if such measures do not conflict with the authorized project purposes.
+#### (1) In general
+
+&emsp;If the Secretary determines that construction of a water resources project by the Secretary or operation of a water resources project constructed by the Secretary has contributed to the degradation of the quality of the environment, the Secretary may undertake measures for restoration of environmental quality and measures for enhancement of environmental quality that are associated with the restoration, through modifications either at the project site or at other locations that have been affected by the construction or operation of the project, if such measures do not conflict with the authorized project purposes.
+
+#### (2) Control of sea lamprey
+
+&emsp;Congress finds that—
+
+&emsp;&emsp;(A) the Great Lakes navigation system has been instrumental in the spread of sea lamprey and the associated impacts on its fishery; and
+
+&emsp;&emsp;(B) the use of the authority under this subsection for control of sea lamprey at any Great Lakes basin location is appropriate.
 
 #### (d) Non-Federal share; limitation on maximum Federal expenditure
 
@@ -32,13 +42,15 @@ There is authorized to be appropriated not to exceed $25,000,000 annually to car
 
 In this section, the term “water resources project constructed by the Secretary” includes a water resources project constructed or funded jointly by the Secretary and the head of any other Federal agency (including the Natural Resources Conservation Service).
 
-(Pub. L. 99–662, title XI, §1135, Nov. 17, 1986, 100 Stat. 4251; Pub. L. 100–676, §41, Nov. 17, 1988, 102 Stat. 4040; Pub. L. 101–640, title III, §304, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 102–580, title II, §202, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, §204, Oct. 12, 1996, 110 Stat. 3678.)
+(Pub. L. 99–662, title XI, §1135, Nov. 17, 1986, 100 Stat. 4251; Pub. L. 100–676, §41, Nov. 17, 1988, 102 Stat. 4040; Pub. L. 101–640, title III, §304, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 102–580, title II, §202, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, §204, Oct. 12, 1996, 110 Stat. 3678; Pub. L. 106–53, title V, §506, Aug. 17, 1999, 113 Stat. 338.)
 
 #### Codification
 
 Section was formerly set out as a note under section 2294 of this title.
 
 #### Amendments
+
+1999—Subsec. (c). Pub. L. 106–53 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 1996—Subsec. (a). Pub. L. 104–303, §204(a), struck out “the operation of” after “to review” and inserted before period at end “and to determine if the operation of such projects has contributed to the degradation of the quality of the environment”.
 

@@ -66,7 +66,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation shall require any insured State bank to divest any equity investment the retention of which is not permissible under this subsection as quickly as can be prudently done, and in any event before the end of the 5-year period beginning on December 19, 1991.
+&emsp;&emsp;The Corporation shall require any insured State bank to divest any equity investment the retention of which is not permissible under this subsection as quickly as can be prudently done, and in any event before theend of the 5-year period beginning on December 19, 1991.
 
 #### (B) Treatment of noncompliance during divestment
 
@@ -90,7 +90,7 @@
 
 #### (B) Continuation of existing activities
 
-&emsp;&emsp;Notwithstanding subparagraph (A), a well-capitalized insured State bank or any of itssubsidiaries that was lawfully providing insurance as principal in a State on November 21, 1991, may continue to provide, as principal, insurance of the same type to residents of the State (including companies or partnerships incorporated in, organized under the laws of, licensed to do business in, or having an office in the State, but only on behalf of their employees resident in or property located in the State), individuals employed in the State, and any other person to whom the bank or subsidiary has provided insurance as principal, without interruption, since such person resided in or was employed in such State.
+&emsp;&emsp;Notwithstanding subparagraph (A), a well-capitalized insured State bank or any of its subsidiaries that was lawfully providing insurance as principal in a State on November 21, 1991, may continue to provide, as principal, insurance of the same type to residents of the State (including companies or partnerships incorporated in, organized under the laws of, licensed to do business in, or having an office in the State, but only on behalf of their employees resident in or property located in the State), individuals employed in the State, and any other person to whom the bank or subsidiary has provided insurance as principal, without interruption, since such person resided in or was employed in such State.
 
 #### (C) Exception
 
@@ -146,7 +146,7 @@
 
 &emsp;Notwithstanding paragraph (1), an insured State bank may, to the extent permitted by the Corporation, acquire and retain ownership of securities described in paragraph (1) to the extent the aggregate amount of such investment does not exceed an amount equal to 100 percent of the bank's capital if such bank—
 
-&emsp;&emsp;(A) is located in a State that permitted, as of September 30, 1991, investment in common or preferred stock listed on a national securities exchange or shares of an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\]; and
+&emsp;&emsp;(A) is located in a State that permitted, as of September 30, 1991, investment in common or preferred stock listed on a national securities exchange or shares of an investment company registered under the InvestmentCompany Act of 1940 \[15 U.S.C. 80a–1 et seq.\]; and
 
 &emsp;&emsp;(B) made or maintained an investment in such securities during the period beginning on September 30, 1990, and ending on November 26, 1991.
 
@@ -174,7 +174,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;During each year in the 3-year period beginning on December 19, 1991, each insured State bank shall reduce by not less than 1/3of its shares (as of December 19, 1991) the bank's ownership of securities in excess of the amount equal to 100 percent of the capital of such bank.
+&emsp;&emsp;During each year in the 3-year period beginning on December 19, 1991, each insured State bank shall reduce by not less than 1/3 of its shares (as of December 19, 1991) the bank's ownership of securities in excess of the amount equal to 100 percent of the capital of such bank.
 
 #### (B) Compliance at end of period
 
@@ -234,7 +234,7 @@ This section shall not be construed as limiting the authority of any appropriate
 
 #### (4) Definitions
 
-&emsp;The terms “host State”, “home State”, and “out-of-State bank” have the same meanings as in section 1831u(f) of this title.
+&emsp;The terms “host State”, “home State”, and “out-of-State bank” have the same meanings as in section 1831u(f) <sup>1</sup> of this title.
 
 (Sept. 21, 1950, ch. 967, §2\[24\], as added Pub. L. 102–242, title III, §303(a), Dec. 19, 1991, 105 Stat. 2349; amended Pub. L. 102–550, title XVI, §1605(a)(8), Oct. 28, 1992, 106 Stat. 4086; Pub. L. 103–328, title I, §102(b)(3)(B), Sept. 29, 1994, 108 Stat. 2351; Pub. L. 104–208, div. A, title II, §§2217, 2704(d)(14)(W), Sept. 30, 1996, 110 Stat. 3009–414, 3009–494; Pub. L. 105–24, §2(a), July 3, 1997, 111 Stat. 238.)
 
@@ -246,9 +246,11 @@ This section shall not be construed as limiting the authority of any appropriate
 
 The Investment Company Act of 1940, referred to in subsec. (f)(2)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
+Section 1831u of this title, referred to in subsec. (j)(4), was subsequently amended, and subsec. (f) of section 1831u no longer defines the terms “host State”, “home State”, and “out-of-State bank”. However, such terms are defined elsewhere in that section.
+
 #### Prior Provisions
 
-A prior section 1831a, act Sept. 21, 1950, ch. 967, §2\[24\], as added Dec. 28, 1979, Pub. L. 96–161, title II, §202, 93 Stat. 1235, provided that if the applicable rate prescribed in subsec. (a) exceeded the rate a State bank would be permitted to charge in absence of that subsection, that State bank could for a business or agricultural loan of $25,000 or more, notwithstanding State law, take or charge on any evidence of debt, interest of not more than 5 per centum in excess of the discount rate in effect at the Federal Reserve Bank in the district where the bank was located, that the taking or charging of interest at a greater rate than that prescribed by subsec. (a), if knowingly done, would bedeemed a forfeit of the entire interest on that particular evidence of debt, and that if such greater rate of interest had already been paid, the payor could recover twice the amount of such payment in a civil action commenced within two years of such payment, prior to repeal by Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168, effective at close of Mar. 31, 1980.
+A prior section 1831a, act Sept. 21, 1950, ch. 967, §2\[24\], as added Dec. 28, 1979, Pub. L. 96–161, title II, §202, 93 Stat. 1235, provided that if the applicable rate prescribed in subsec. (a) exceeded the rate a State bank would be permitted to charge in absence of that subsection, that State bank could for a business or agricultural loan of $25,000 or more, notwithstanding State law, take or charge on any evidence of debt, interest of not more than 5 per centum in excess of the discount rate in effect at the Federal Reserve Bank in the district where the bank was located, that the taking or charging of interest at a greater rate than that prescribed by subsec. (a), if knowingly done, would be deemed a forfeit of the entire interest on that particular evidence of debt, and that if such greater rate of interest had already been paid, the payor could recover twice the amount of such payment in a civil action commenced within two years of such payment, prior to repeal by Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168, effective at close of Mar. 31, 1980.
 
 Another prior section 1831a, act Sept. 21, 1950, ch. 967, §2\[24\], as added Nov. 5, 1979, Pub. L. 96–104, title I, §102, 93 Stat. 789, identical to this section as added by Pub. L. 96–161, was repealed by section 212 of Pub. L. 96–161, effective at the close of Dec. 27, 1979, except that its provisions would continue to apply to any loan made in any State on or after Nov. 5, 1979, but prior to such repeal.
 
@@ -280,5 +282,7 @@ Section 3 of Pub. L. 105–24 provided that: “Nothing in this Act \[amending t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 330 of this title.
+This section is referred to in sections 330, 1831w of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

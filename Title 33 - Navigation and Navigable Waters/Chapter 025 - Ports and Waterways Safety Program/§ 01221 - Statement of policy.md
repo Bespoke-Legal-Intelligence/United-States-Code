@@ -42,5 +42,5 @@ Section 6(c) of Pub. L. 95–474 provided that: “If a provision of this Act \[
 
 #### Establishment of Vessel Traffic Control System for Prince William Sound and Valdez, Alaska
 
-Pub. L. 93–153, title IV, §402, Nov. 16, 1973, 87 Stat. 589, provided that: “The Secretary of the Department in which the Coast Guard is operating is hereby directed to establish a vessel traffic control system for Prince William Sound and Valdez, Alaska, pursuant to authority contained in title I of the Ports and Waterways Safety Act of 1972 (86 Stat. 424, Public Law 92–340) \[this chapter, prior to the amendment by Pub. L. 95–474, Oct. 17, 1978, 92 Stat. 1471\].”
+Pub. L. 93–153, title IV, §402, Nov. 16, 1973, 87 Stat. 589, provided that: “The Secretary of the Department inwhich the Coast Guard is operating is hereby directed to establish a vessel traffic control system for Prince William Sound and Valdez, Alaska, pursuant to authority contained in title I of the Ports and Waterways Safety Act of 1972 (86 Stat. 424, Public Law 92–340) \[this chapter, prior to the amendment by Pub. L. 95–474, Oct. 17, 1978, 92 Stat. 1471\].”
 

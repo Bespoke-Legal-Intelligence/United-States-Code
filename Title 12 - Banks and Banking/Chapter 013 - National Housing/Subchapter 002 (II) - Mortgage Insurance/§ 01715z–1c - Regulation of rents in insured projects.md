@@ -6,7 +6,7 @@ After December 1, 1987, the Secretary of Housing and Urban Development shall con
 
 &emsp;(2)(A) the project was, as of December 1, 1987, receiving a housing assistance payment under a contract pursuant to section 1437f of title 42 (other than under the existing housing certificate program of section 1437f(b)(1) of title 42); or
 
-&emsp;(B) not less than 50 percent of the units in the project are occupied by lower income families (as defined in section 1437a(a)(2) of title 42).
+&emsp;(B) not less than 50 percent of the units in the project are occupied by lower income families (as defined in section 1437a(a)(2) <sup>1</sup> of title 42).
 
 (Pub. L. 100–242, title IV, §425, Feb. 5, 1988, 101 Stat. 1915.)
 
@@ -17,4 +17,6 @@ The National Housing Act, as amended, referred to in text, is act June 27, 1934,
 #### Codification
 
 Section was enacted as part of the Housing and Community Development Act of 1987, and not as part of the National Housing Act which comprises this chapter.
+
+<i><sup>1</sup></i><i> Probably should be a reference to section 1437a(b)(2).</i>
 

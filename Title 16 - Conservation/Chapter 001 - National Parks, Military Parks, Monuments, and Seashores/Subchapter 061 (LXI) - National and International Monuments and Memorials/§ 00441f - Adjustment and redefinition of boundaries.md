@@ -1,6 +1,6 @@
 ### §441f. Adjustment and redefinition of boundaries
 
-In order to establish a more appropriate boundary for the Badlands National Park and to consolidate Federal land ownership therein, the Secretary of the Interior, in his discretion, is authorized to adjust and redefine the exterior boundaries of the national park by appropriate reductions or additions of land: <i>Provided</i>, That the total acreage of the national park, as revised pursuant to sections 441f to 441i of thistitle, shall not exceed its area of approximately one hundred fifty-four thousand one hundred and nineteen acres as of May 7, 1952.
+In order to establish a more appropriate boundary for the Badlands National Park and to consolidate Federal land ownership therein, the Secretary of the Interior, in his discretion, is authorized to adjust and redefine the exterior boundaries of the national park by appropriate reductions or additions of land: <i>Provided</i>, That the total acreage of the national park, as revised pursuant to sections 441f to 441i of this title, shall not exceed its area of approximately one hundred fifty-four thousand one hundred and nineteen acres as of May 7, 1952.
 
 (May 7, 1952, ch. 244, §1, 66 Stat. 65; Pub. L. 95–625, title VI, §611, Nov. 10, 1978, 92 Stat. 3521.)
 

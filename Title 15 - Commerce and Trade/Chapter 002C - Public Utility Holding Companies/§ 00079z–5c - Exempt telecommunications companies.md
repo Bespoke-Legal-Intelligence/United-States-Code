@@ -64,7 +64,7 @@ The relationship between an exempt telecommunications company and a registered h
 
 #### (3) Authority to limit disclosure of information
 
-&emsp;Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any information required to be reported under this subsection. Nothing in this subsection shall authorize the Commission to withhold the information from Congress, or prevent the Commission from complying witha request for information from any other Federal or State department or agency requesting the information for purposes within the scope of its jurisdiction. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552.
+&emsp;Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any information required to be reported under this subsection. Nothing in this subsection shall authorize the Commission to withhold the information from Congress, or prevent the Commission from complying with a request for information from any other Federal or State department or agency requesting the information for purposes within the scope of its jurisdiction. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552.
 
 #### (g) Assumption of liabilities
 
@@ -104,7 +104,7 @@ Reciprocal arrangements among companies that are not affiliates or associate com
 
 &emsp;(B) any exempt telecommunications company selling products or services to such public utility company or to an associate company of such public utility company; and
 
-&emsp;(C) any associate company or affiliate of an exempt telecommunications company which sells products or services to a public utility company referred to in subparagraph (A),
+&emsp;(C) any associate company or affiliate of an exempt telecommunications company whichsells products or services to a public utility company referred to in subparagraph (A),
 
 > wherever located, if such examination is required for the effective discharge of the State commission's regulatory responsibilities affecting the provision of electric or gas service in connection with the activities of such exempt telecommunications company.
 

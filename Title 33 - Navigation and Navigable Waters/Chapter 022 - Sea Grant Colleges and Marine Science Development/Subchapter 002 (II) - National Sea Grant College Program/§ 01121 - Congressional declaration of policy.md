@@ -70,7 +70,7 @@ Section 3101 of subtitle A (§§3101–3111) of title III of Pub. L. 100–220 p
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–461 provided: “That this Act \[enacting sections 1124a, 1125, 1126, 1127, 1128, 1129, 1130,and 1131 of this title and amending this section, sections 1122, 1123, and 1124 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, and provisions set out as notes under this section, section 1511 of Title 15, Commerce and Trade, and in the Appendix to Title 5, Government Organization and Employees\] may be cited as the ‘Sea Grant Program Improvement Act of 1976’.”
+Section 1 of Pub. L. 94–461 provided: “That this Act \[enacting sections 1124a, 1125, 1126, 1127, 1128, 1129, 1130, and 1131 of this title and amending this section, sections 1122, 1123, and 1124 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, and provisions set out as notes under this section, section 1511 of Title 15, Commerce and Trade, and in the Appendix to Title 5, Government Organization and Employees\] may be cited as the ‘Sea Grant Program Improvement Act of 1976’.”
 
 #### Short Title
 

@@ -326,6 +326,16 @@ Section 405 of Pub. L. 90–77 provided that:
 
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under section 1114 of this title.
 
+#### Short Title of 1999 Amendments
+
+Pub. L. 106–118, §1(a), Nov. 30, 1999, 113 Stat. 1601, provided that: “This Act \[amending sections 1114, 1115, 1162, 1311, 1313, and 1314 of this title and enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 1999’.”
+
+Pub. L. 106–117, §1(a), Nov. 30, 1999, 113 Stat. 1545, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans Millennium Health Care and Benefits Act’.”
+
+Pub. L. 106–117, title V, §501(a), Nov. 30, 1999, 113 Stat. 1573, provided that: “This section \[amending section 1318 of this title\] may be cited as the ‘John William Rolen Act’.”
+
+Pub. L. 106–117, title X, §1001, Nov. 30, 1999, 113 Stat. 1587, provided that: “This title \[enacting sections 7257 and 7299 of this title, amending sections 7253, 7254, 7281, and 7296 to 7298 of this title, and enacting provisions set out as notes under sections 7253 and 7296 of this title\] may be cited as the ‘Court of Appeals for Veterans Claims Amendments of 1999’.”
+
 #### Short Title of 1998 Amendments
 
 Pub. L. 105–368, §1(a), Nov. 11, 1998, 112 Stat. 3315, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans Programs Enhancement Act of 1998’.”
@@ -338,7 +348,7 @@ Pub. L. 105–178, title VIII, §8201, June 9, 1998, 112 Stat. 492, provided tha
 
 #### Short Title of 1997 Amendments
 
-Pub. L. 105–114, §1(a), Nov. 21, 1997, 111 Stat. 2277, provided that: “This Act \[enacting sections 319, 516, 1771 to 1774, and 7322 of this title, amending sections 1710, 1717, 1720, 1720A, 1720C, 1801, 1804, 1806, 2303, 3015, 3018C, 3680A, 3735, 3761, 3762, 5310, 7618, 8153, and 8169 of this title and sections 11448 and 11450 of Title 42, The Public Health and Welfare, repealing section 8168 of this title, enacting provisions set out as notes under sections 319, 516, 1710, 1801, 7322, and 7611 of this title, amending provisions set out as a note under section 7721 of this title, and repealing provisions set out as notes under sections 527, 1712, 1718, and 7721 of this title\] may be cited as the ‘Veterans’ Benefits Act of 1997’.”
+Pub. L. 105–114, §1(a), Nov. 21, 1997, 111 Stat. 2277, provided that: “This Act \[enacting sections 319, 516, 1771 to 1774, and 7322 of this title, amending sections 1710, 1717, 1720, 1720A, 1720C, 1801, 1804, 1806, 2303, 3015, 3018C, 3680A, 3735, 3761, 3762, 5310, 7618, 8153, and 8169 of this title and sections 11448 and 11450 of Title 42, The Public Healthand Welfare, repealing section 8168 of this title, enacting provisions set out as notes under sections 319, 516, 1710, 1801, 7322, and 7611 of this title, amending provisions set out as a note under section 7721 of this title, and repealing provisions set out as notes under sections 527, 1712, 1718, and 7721 of this title\] may be cited as the ‘Veterans’ Benefits Act of 1997’.”
 
 Pub. L. 105–98, §1(a), Nov. 19, 1997, 111 Stat. 2155, provided that: “This Act \[amending sections 1114, 1115, 1162, 1311, 1313, and 1314 of this title and enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Rate Amendments of 1997’.”
 
@@ -510,7 +520,7 @@ Pub. L. 97–37, §1(a), Aug. 14, 1981, 95 Stat. 935, provided that: “this Act
 
 #### Short Title of 1980 Amendments
 
-Pub. L. 96–466, §1(a), Oct. 17, 1980, 94 Stat. 2171, provided that: “this Act \[see Tables for classification\] may be cited as the ‘Veterans’ Rehabilitation and Education Amendments of 1980’.”
+Pub. L. 96–466, §1(a), Oct. 17, 1980, 94 Stat. 2171, provided that: “this Act \[see Tables for classification\] maybe cited as the ‘Veterans’ Rehabilitation and Education Amendments of 1980’.”
 
 Pub. L. 96–385, §1(a), Oct. 7, 1980, 94 Stat. 1528, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Disability Compensation and Housing Benefits Amendments of 1980’.”
 
@@ -520,7 +530,7 @@ Pub. L. 96–330, §1(a), Aug. 26, 1980, 94 Stat. 1030, provided that: “this A
 
 Pub. L. 96–151, §1(a), Dec. 20, 1979, 93 Stat. 1092, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans Health Programs Extension and Improvement Act of 1979’.”
 
-Pub. L. 96–128, §1, Nov. 28, 1979, 93 Stat. 982, provided: “That this Act \[see Tables for classification\] may becited as the ‘Veterans’ Disability Compensation and Survivors’ Benefits Amendments of 1979’.”
+Pub. L. 96–128, §1, Nov. 28, 1979, 93 Stat. 982, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans’ Disability Compensation and Survivors’ Benefits Amendments of 1979’.”
 
 Section 1(a) of Pub. L. 96–22 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Health Care Amendments of 1979’.”
 
@@ -672,6 +682,14 @@ IN WITNESS WHEREOF, I have hereunto set my hand this seventh day of May in the y
 
 Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Secretary and Department Defined
+
+Pub. L. 106–117, §3, Nov. 30, 1999, 113 Stat. 1547, provided that: “For purposes of this Act \[see Tables for classification\]—
+
+&emsp;“(1) the term ‘Secretary’ means the Secretary of Veterans Affairs; and
+
+&emsp;“(2) the term ‘Department’ means the Department of Veterans Affairs.”
+
 #### Definition of Administrator for 1988 Amendments
 
 Pub. L. 100–687, div. B, §1002, Nov. 18, 1988, 102 Stat. 4122, provided that: “For purposes of this division \[see Tables for classification\], the term ‘Administrator’ means the Administrator of Veterans’ Affairs.”
@@ -680,5 +698,5 @@ Section 3 of Pub. L. 100–322 provided that: “For purposes of this Act \[see 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2301, 3771, 4303, 5302, 8111A of this title; title 5 sections 2108, 3501, 5532, 6303; title 7 section 1983; title 8 sections 1612, 1613, 1622; title 10 sections 1491, 2641, 2641a; title 26 sections 3121, 6334; title 42 sections 410, 1477, 11448; title 49 section 47112; title 50 App. section 591.
+This section is referred to in sections 2301, 3771, 4303, 5302, 8111A of this title; title 5 sections 2108, 3501, 6303; title 7 section 1983; title 8 sections 1612, 1613, 1622; title 10 sections 1413, 1491, 2641; title 15 section 632; title 26 sections 3121, 6334; title 42 sections 410, 1477, 11448; title 43 section 1629g; title 49 section 47112; title 50 App. section 591.
 

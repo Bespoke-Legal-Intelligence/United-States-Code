@@ -58,7 +58,7 @@ Section 4302 of this title, referred to in subsec. (a)(3)(D), was subsequently a
 
 #### Prior Provisions
 
-A prior section 37 of act Aug. 1, 1956, was renumbered section 38 by section 125(a) of Pub. L. 99–93, and subsequently renumbered, and was set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
+A prior section 37 of act Aug. 1, 1956, was renumbered section 38 by section 125(a) of Pub. L. 99–93, and subsequently renumbered, and was set out as a Short Titleof 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
 
 #### Amendments
 

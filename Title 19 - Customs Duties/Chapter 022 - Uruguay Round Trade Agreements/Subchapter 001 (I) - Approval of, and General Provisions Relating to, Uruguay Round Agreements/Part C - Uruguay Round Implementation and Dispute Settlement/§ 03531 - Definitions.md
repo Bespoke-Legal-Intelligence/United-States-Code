@@ -48,7 +48,7 @@ For purposes of this part:
 
 #### References in Text
 
-This part, referred to in text, was in the original “this subtitle”, meaning subtitle C (§§121 to 130) of titleI of Pub. L. 103–465, which enacted this part, amended sections 1516a, 2155, and 2254 of this title, and enacted provisions set out below. For complete classification of subtitle C to the Code, see Tables.
+This part, referred to in text, was in the original “this subtitle”, meaning subtitle C (§§121 to 130) of title I of Pub. L. 103–465, which enacted this part, amended sections 1516a, 2155, and 2254 of this title, and enacted provisions set out below. For complete classification of subtitle C to the Code, see Tables.
 
 #### Effective Date
 

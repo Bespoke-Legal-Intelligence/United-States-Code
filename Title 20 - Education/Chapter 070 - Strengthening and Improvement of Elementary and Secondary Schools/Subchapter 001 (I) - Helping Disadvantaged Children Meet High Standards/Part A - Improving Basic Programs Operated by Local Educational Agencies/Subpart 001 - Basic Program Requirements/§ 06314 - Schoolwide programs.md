@@ -72,7 +72,7 @@
 
 &emsp;&emsp;&emsp;(II) address how the school will determine if such needs have been met; and
 
-&emsp;&emsp;&emsp;(vii) <sup>1</sup> are consistent with, and are designed to implement, the State and local improvement plans, if any, approved under title III of the Goals 2000: Educate America Act \[20 U.S.C. 5881 et seq.\].
+&emsp;&emsp;&emsp;(vii) <sup>1</sup> are consistent with, and are designed to implement, the State and local improvement plans, if any, approved under title III <sup>2</sup> of the Goals 2000: Educate America Act.
 
 &emsp;&emsp;(C) Instruction by highly qualified professional staff.
 
@@ -142,9 +142,9 @@ A schoolwide program under this section shall be subject to the school improveme
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (a)(4)(A), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which isclassified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (a)(4)(A), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Goals 2000: Educate America Act, referred to in subsec. (b)(1)(B)(vii), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsec. (b)(1)(B)(vii), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act was classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title and was repealed by Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §310(i)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–265. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 The Improving America's Schools Act of 1994, referred to in subsec. (b)(2)(C)(i)(II), is Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 3518. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 6301 of this title and Tables.
 
@@ -160,7 +160,9 @@ The National and Community Service Act of 1990, referred to in subsec. (b)(2)(C)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1413, 6311, 6312, 6313, 6315, 6319, 6320, 6394, 6396, 6672, 7815, 8102, 8622, 8651, 8941 of this title; title 42 sections 3030g–12, 9855c.
+This section is referred to in sections 1413, 6311, 6312, 6313, 6315, 6319, 6320, 6394, 6396, 6672, 7815, 8102, 8622, 8651, 8941 of this title; title 42 section 3030g–12.
 
 <i><sup>1</sup></i><i> So in original. No cls. (v) and (vi) have been enacted.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

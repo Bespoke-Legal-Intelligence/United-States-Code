@@ -4,7 +4,7 @@
 
 #### (1) Cider
 
-&emsp;Subject to regulations prescribed by the Secretary, the noneffervescent product of the normal alcoholic fermentation of apple juice only, which is produced at a place other thana bonded wine cellar and without the use of preservative methods or materials, and which is sold or offered for sale as cider and not as wine or as a substitute for wine, shall not be subject to tax as wine nor to the provisions of subchapter F.
+&emsp;Subject to regulations prescribed by the Secretary, the noneffervescent product of the normal alcoholic fermentation of apple juice only, which is produced at a place other than a bonded wine cellar and without the use of preservative methods or materials, and which is sold or offered for sale as cider and not as wine or as a substitute for wine, shall not be subject to tax as wine nor to the provisions of subchapter F.
 
 #### (2) Wine for personal or family use
 

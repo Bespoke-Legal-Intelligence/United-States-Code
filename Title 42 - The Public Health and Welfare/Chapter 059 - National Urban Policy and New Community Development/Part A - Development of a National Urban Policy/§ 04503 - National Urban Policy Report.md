@@ -2,7 +2,7 @@
 
 #### (a) Transmittal to Congress; contents
 
-The President shall transmit to the Congress, not later than June 1, 1993, and not later than the first day of June of every odd-numbered year thereafter, a Report on National Urban Policy which shall contribute to the formulation of such a policy, and in addition shall include—
+The President shall transmit to the Congress, not later than June 1, 1993, and not later thanthe first day of June of every odd-numbered year thereafter, a Report on National Urban Policy which shall contribute to the formulation of such a policy, and in addition shall include—
 
 &emsp;(1) information, statistics, and significant trends relating to the pattern of urban development for the preceding two years;
 

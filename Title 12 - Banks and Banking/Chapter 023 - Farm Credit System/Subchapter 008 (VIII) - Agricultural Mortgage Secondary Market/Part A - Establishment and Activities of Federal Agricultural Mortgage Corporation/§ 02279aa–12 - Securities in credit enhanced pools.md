@@ -46,7 +46,7 @@
 
 #### (d) State usury laws superseded
 
-A provision of the Constitution or law of any State shall not apply to an agricultural loan made by an originator or a certified facility in accordance with this subchapter for sale to theCorporation or to a certified facility for inclusion in a pool for which the Corporation has provided, or has committed to provide, a guarantee, if the loan, not later than 180 days after the date the loan was made, is sold to the Corporation or included in a pool for which the Corporation has provided a guarantee, if the provision—
+A provision of the Constitution or law of any State shall not apply to an agricultural loan made by an originator or a certified facility in accordance with this subchapter for sale to the Corporation or to a certified facility for inclusion in a pool for which the Corporation has provided, or has committed to provide, a guarantee, if the loan, not later than 180 days after the date the loan was made, is sold to the Corporation or included in a pool for which the Corporation has provided a guarantee, if the provision—
 
 &emsp;(1) limits the rate or amount of interest, discount points, finance charges, or other charges that may be charged, taken, received, or reserved by an agricultural lender or a certified facility; or
 

@@ -64,5 +64,5 @@ Section 414(b)(2) of Pub. L. 95–454 required President to transmit by Jan. 1, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 33 section 2309.
+This section is referred to in title 21 section 1703; title 33 section 2309.
 

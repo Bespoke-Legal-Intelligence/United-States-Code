@@ -38,7 +38,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B) in the case of a party which is not a major party, the same period as the expenditure report period of the major party which has the shortest expenditure report period for such presidential election under subparagraph (A).
 
-(Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 563; amended Pub. L. 93–443, titleIV, §404(c)(1)–(3), Oct. 15, 1974, 88 Stat. 1292; Pub. L. 94–283, title I, §115(c)(1), title III, §306(a)(1), May 11, 1976, 90 Stat. 495, 499.)
+(Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 563; amended Pub. L. 93–443, title IV, §404(c)(1)–(3), Oct. 15, 1974, 88 Stat. 1292; Pub. L. 94–283, title I, §115(c)(1), title III, §306(a)(1), May 11, 1976, 90 Stat. 495, 499.)
 
 #### References in Text
 

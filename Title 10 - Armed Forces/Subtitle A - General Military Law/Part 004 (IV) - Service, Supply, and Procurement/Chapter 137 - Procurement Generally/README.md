@@ -105,7 +105,7 @@ Particular provisions relating to Navy procurement, see section 7521 et seq. of 
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 167, 2350b, 2350d, 2373, 2809, 2835, 2836, 2837 of this title; title 15 sections 205<i>l</i>, 637; title 22 section 2761; title 40 section 474; title 41 section 421; title 42 section 13556.
+This chapter is referred to in sections 167, 2350b, 2350d, 2373, 2809, 2835, 2836, 2837 of this title; title 15 sections 205<i>l</i>, 637; title 22 section 2761; title 40 section 474; title 41 section 421; title 42 sections 13556, 14713, 14715, 14732.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

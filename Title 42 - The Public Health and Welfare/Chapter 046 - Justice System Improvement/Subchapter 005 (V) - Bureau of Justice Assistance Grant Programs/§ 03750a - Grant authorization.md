@@ -14,6 +14,10 @@ The Director of the Bureau of Justice Assistance shall make grants to Anti Car T
 
 Section was enacted as part of the Anti Car Theft Act of 1992, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
 
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3750b, 3750c, 3750d of this title.

@@ -50,7 +50,7 @@ Loans between related persons
 
 &emsp;&emsp;&emsp;(ii) a member of a controlled group of corporations which includes such employer.
 
-> &emsp;For purposes of this paragraph, subparagraphs (A) and (B) shall not apply to any loan which, but for such subparagraphs, would be a securities acquisition loan if such loan was not originated by the employerof any employees who are covered by the plan or by any member of the controlled group of corporations which includes such employer, except that this section shall not apply to any interest received on such loan during such time as such loan is held by such employer (or any member of such controlled group).
+> &emsp;For purposes of this paragraph, subparagraphs (A) and (B) shall not apply to any loan which, but for such subparagraphs, would be a securities acquisition loan if such loan was not originated by the employer of any employees who are covered by the plan or by any member of the controlled group of corporations which includes such employer, except that this section shall not apply to any interest received on such loan during such time as such loan is held by such employer (or any member of such controlled group).
 
 &emsp;(3)
 
@@ -60,7 +60,7 @@ Terms applicable to certain securities acquisition loans
 
 &emsp;&emsp;(A) repayment terms which are substantially similar to the terms of the loan of such corporation from a lender described in subsection (a), or
 
-&emsp;&emsp;(B) repayment terms providing for more rapid repayment of principal or interest on such loan, but only if allocations under the plan attributable to such repayment do not discriminate in favor of highly compensated employees (within the meaning of section 414(q)).
+&emsp;&emsp;(B) repayment terms providing for more rapid repayment of principal or interest on such loan, but only if allocations under the plan attributable tosuch repayment do not discriminate in favor of highly compensated employees (within the meaning of section 414(q)).
 
 &emsp;(4)
 
@@ -216,7 +216,7 @@ In general.—The amendments made by this section \[amending sections 291, 812, 
 
 “(2)
 
-Refinancings.—The amendments made by this section shall not apply to loans made after the date of the enactment of this Act to refinance securities acquisition loans (determined without regard to section133(b)(1)(B) of the Internal Revenue Code of 1986, as in effect on the day before the date of the enactment of this Act) \[set out above\] made on or before such date or to refinance loans described in this paragraph if—
+Refinancings.—The amendments made by this section shall not apply to loans made after the date of the enactment of this Act to refinance securities acquisition loans (determined without regard to section 133(b)(1)(B) of the Internal Revenue Code of 1986, as in effect on the day before the date of the enactment of this Act) \[set out above\] made on or before such date or to refinance loans described in this paragraph if—
 
 &emsp;“(A) the refinancing loans meet the requirements of section 133 of such Code (as so in effect),
 
@@ -228,5 +228,5 @@ Refinancings.—The amendments made by this section shall not apply to loans mad
 
 “(3)
 
-Exception.—Any loan made pursuant to a binding written contract in effect before June 10, 1996, and at all times thereafter before such loan is made, shall be treated for purposes of paragraphs (1) and (2) as a loan made on or before the date of the enactment of this Act.”
+Exception.—Any loan made pursuant to a binding written contract in effect before June 10, 1996, and at all times thereafter before such loan is made, shall be treated for purposes of paragraphs (1) and (2) as aloan made on or before the date of the enactment of this Act.”
 

@@ -34,7 +34,7 @@ Required Cost or Pricing Data and Certification.—(1) The head of an agency sha
 
 (2) A person required, as an offeror, contractor, or subcontractor, to submit cost or pricing data under paragraph (1) (or required by the head of the agency concerned to submit such data under subsection (c)) shall be required to certify that, to the best of the person's knowledge and belief, the cost or pricing data submitted are accurate, complete, and current.
 
-(3) Cost or pricing data required to be submitted under paragraph (1) (or under subsection (c)),and a certification required to be submitted under paragraph (2), shall be submitted—
+(3) Cost or pricing data required to be submitted under paragraph (1) (or under subsection (c)), and a certification required to be submitted under paragraph (2), shall be submitted—
 
 &emsp;(A) in the case of a submission by a prime contractor (or an offeror for a prime contract), to the contracting officer for the contract (or to a designated representative of the contracting officer); or
 
@@ -134,7 +134,7 @@ Price Reductions for Defective Cost or Pricing Data.—(1)(A) A prime contract (
 
 &emsp;(i) the contractor certifies to the contracting officer (or to a designated representative of the contracting officer) that, to the best of the contractor's knowledge and belief, the contractor is entitled to the offset; and
 
-&emsp;(ii) the contractor proves that the cost or pricing data were available before the date of agreement on the price of the contract (or price of the modification) or, if applicable consistent with paragraph (1)(B), another date agreed upon between the parties, and that the data were not submitted as specified in subsection (a)(3) before such date.
+&emsp;(ii) the contractor proves that the cost or pricing data were available before the date ofagreement on the price of the contract (or price of the modification) or, if applicable consistent with paragraph (1)(B), another date agreed upon between the parties, and that the data were not submitted as specified in subsection (a)(3) before such date.
 
 (B) A contractor shall not be allowed to offset an amount otherwise authorized to be offset under subparagraph (A) if—
 
@@ -204,7 +204,7 @@ Subsec. (c). Pub. L. 104–106, §4201(a)(1), amended subsec. (c) generally, rev
 
 Subsec. (d). Pub. L. 104–106, §4321(b)(7)(A), which directed amendment of subsec. (d)(2)(A)(ii), by inserting “to” after “The information referred”, could not be executed because subsec. (d)(2)(A) did not contain a cl. (ii) or the language “The information referred” subsequent to amendment by Pub. L. 104–106, §4201(a)(1). See below.
 
-Pub. L. 104–106, §4201(a)(1), amended subsec. (d) generally, revising and restating as pars. (1) and (2) provisions of former subsecs. (c)(2) and (d)(2), (4) and striking out provisions of former subsec. (d)(1), (3) relating to procurements based on adequate price competition and authority to audit.
+Pub. L. 104–106, §4201(a)(1), amended subsec. (d) generally, revising and restating as pars. (1) and (2) provisions of former subsecs. (c)(2) and (d)(2), (4) and striking out provisions of former subsec. (d)(1), (3) relating toprocurements based on adequate price competition and authority to audit.
 
 Subsec. (e)(4)(B)(ii). Pub. L. 104–106, §4321(b)(7)(B), struck out second comma after “parties”.
 
@@ -240,7 +240,7 @@ Subsec. (b). Pub. L. 103–355, §1202(a), as amended by Pub. L. 104–106, §43
 
 &emsp;“(2) in an exceptional case when the head of the agency determines that the requirements of this section may be waived and states in writing his reasons for such determination.”
 
-Subsec. (c). Pub. L. 103–355, §1203, amended heading and text of subsec. (c) generally. Prior to amendment,text read as follows: “When cost or pricing data are not required to be submitted by subsection (a), such data may nevertheless be required to be submitted by the head of the agency if the head of the agency determines that such data are necessary for the evaluation by the agency of the reasonableness of the price of the contract or subcontract. In any case in which the head of the agency requires such data to be submitted under this subsection, the head of the agency shall document in writing the reasons for such requirement.”
+Subsec. (c). Pub. L. 103–355, §1203, amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “When cost or pricing data are not required to be submitted by subsection (a), such data may nevertheless be required to be submitted by the head of the agency if the head of the agency determines that such data are necessary for the evaluation by the agency of the reasonableness of the price of the contract or subcontract. In any case in which the head of the agency requires such data to be submitted under this subsection, the head of the agency shall document in writing the reasons for such requirement.”
 
 Subsec. (d). Pub. L. 103–355, §1204, added subsec. (d) and redesignated former subsec. (d) as (e).
 
@@ -354,7 +354,7 @@ Section 803(c) of Pub. L. 101–510, directed Secretary of Defense to prescribe 
 
 #### Defense Commercial Pricing Management Improvement
 
-Pub. L. 105–261, div. A, title VIII, §803, Oct. 17, 1998, 112 Stat. 2081, provided that:
+Pub. L. 105–261, div. A, title VIII, §803, Oct. 17, 1998, 112 Stat. 2081, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, provided that:
 
 “(a)
 
@@ -392,7 +392,7 @@ Commercial Price Trend Analysis.—(1) The Secretary of Defense shall develop an
 
 “(3) The head of a Department of Defense agency or the Secretary of a military department shall take appropriate action to address any unreasonable escalation in prices being paid for items procured by that agency or military department as identified in an analysis conducted pursuant to paragraph (1).
 
-“(4) Not later than April 1 of each of fiscal years 2000, 2001, and 2002, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the analyses of price trends that were conducted for categories of exempt commercial items during the preceding fiscal year under the procedures prescribed pursuant to paragraph (1). The report shall include a description of the actions taken to identify and address any unreasonable price escalation for the categories of items.
+“(4) Not later than April 1 of each of fiscal years 2000, 2001, and 2002, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives\] a report on the analyses of price trends that were conducted for categories of exempt commercial items during the preceding fiscal year under the procedures prescribed pursuant to paragraph (1). The report shall include a description of the actions taken to identify and address any unreasonable price escalation for the categories of items.
 
 “(d)
 

@@ -38,7 +38,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (ii) Realizable disposition value
 
-&emsp;&emsp;&emsp;The term “realizable disposition value” means the estimated sale price that the Corporation reasonably would be able to obtain upon the sale of a property by the Corporation under the provisions of this chapter, not including this section, and any other applicable laws. Not later than the expiration of the 120-day period beginning upon the commencement of the first fiscal year for which amounts are provided pursuant to paragraph (2)(A), the Corporation shall establish, and publish in the Federal Register, procedures for determining the realizable disposition value of a property transferred under this section, which shall take into consideration such factors as the Corporation considers appropriate, including the actual sale prices of properties disposed of by the Resolution Trust Corporation under section 1441a(c) of this title, the prices of other properties sold under similar programs, and the appraised value of the property transferred under this section. Until such procedures are established, the Corporation may consider the realizable disposition value of any eligible residential or condominium property to be equal to the appraised value of the property.
+&emsp;&emsp;&emsp;The term “realizable disposition value” means the estimated sale price that the Corporation reasonably would be able toobtain upon the sale of a property by the Corporation under the provisions of this chapter, not including this section, and any other applicable laws. Not later than the expiration of the 120-day period beginning upon the commencement of the first fiscal year for which amounts are provided pursuant to paragraph (2)(A), the Corporation shall establish, and publish in the Federal Register, procedures for determining the realizable disposition value of a property transferred under this section, which shall take into consideration such factors as the Corporation considers appropriate, including the actual sale prices of properties disposed of by the Resolution Trust Corporation under section 1441a(c) of this title, the prices of other properties sold under similar programs, and the appraised value of the property transferred under this section. Until such procedures are established, the Corporation may consider the realizable disposition value of any eligible residential or condominium property to be equal to the appraised value of the property.
 
 #### (3) Existing contracts
 
@@ -94,7 +94,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (4) Offers by qualifying multifamily purchasers
 
-&emsp;A qualifying multifamily purchaser receiving notice in accordance with paragraph (3)shall have 45 days (from the date notice is received) to make a bona fide offer to purchase the property. The Corporation shall accept an offer that complies with the terms and conditions established by the Corporation. If, before the expiration of such 45-day period, any offer to purchase a property initially accepted by the Corporation is subsequently rejected or fails (for any reason), the Corporation shall accept another offer to purchase the property made during such period that complies with the terms and conditions established by the Corporation (if such another offer is made). The preceding sentence may not be construed to require a qualifying multifamily purchaser whose offer is accepted during the 45-day period to purchase the property before the expiration of the period.
+&emsp;A qualifying multifamily purchaser receiving notice in accordance with paragraph (3) shall have 45 days (from the date notice is received) to make a bona fide offer to purchase the property. The Corporation shall accept an offer that complies with the terms and conditions established by the Corporation. If, before the expiration of such 45-day period, any offer to purchase a property initially accepted by the Corporation is subsequently rejected or fails (for any reason), the Corporation shall accept another offer to purchase the property made during such period that complies with the terms and conditions established by the Corporation (if such another offer is made). The preceding sentence may not be construed to require a qualifying multifamily purchaser whose offer is accepted during the 45-day period to purchase the property before the expiration of the period.
 
 #### (5) Extension of restricted offer periods
 
@@ -150,7 +150,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (B) Financial infeasibility
 
-&emsp;&emsp;The Secretary or the State housing finance agency for the State in which an eligible multifamily housing property is located may temporarily reduce the low-income occupancy requirements under paragraph (7)applicable to the property, if the Secretary or such agency determines that an owner's compliance with such requirements is no longer financially feasible. The owner of the property shall make a good-faith effort to return low-income occupancy to the level required under paragraph (7), and the Secretary or the State housing finance agency, as appropriate, shall review the reduction annually to determine whether financial infeasibility continues to exist.
+&emsp;&emsp;The Secretary or the State housing finance agency for the State in which an eligible multifamily housing property is located may temporarily reduce the low-income occupancy requirements under paragraph (7) applicable to the property, if the Secretary or such agency determines that an owner's compliance with such requirements is no longer financially feasible. The owner of the property shall make a good-faith effort to return low-income occupancy to the level required under paragraph (7), and the Secretary or the State housing finance agency, as appropriate, shall review the reduction annually to determine whether financial infeasibility continues to exist.
 
 #### (e) Rent limitations
 
@@ -182,7 +182,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (A) Sale price
 
-&emsp;&emsp;The Corporation shall establish a market value for each eligible multifamily housing property. The Corporation shall sell eligible multifamily housing property at the net realizable market value, except that the Corporation may agree to sell eligible multifamily housing property at a price below the net realizable market value to the extent necessary to facilitate an expedited sale of such property and enable a public agency or nonprofit organization to comply with the low-income occupancy requirements applicable to such property under subsection (d)(7) of this section. The Corporation may sell eligible single family property or eligible condominium property to qualifying households, nonprofit organizations, and public agencies without regard to any minimum sale price.
+&emsp;&emsp;The Corporation shall establish a market value for each eligible multifamily housing property. The Corporation shall sell eligible multifamily housing property at the net realizable market value, except that the Corporation may agree to sell eligible multifamily housing property at a price below the net realizable market value to the extentnecessary to facilitate an expedited sale of such property and enable a public agency or nonprofit organization to comply with the low-income occupancy requirements applicable to such property under subsection (d)(7) of this section. The Corporation may sell eligible single family property or eligible condominium property to qualifying households, nonprofit organizations, and public agencies without regard to any minimum sale price.
 
 #### (B) Purchase loan
 
@@ -224,7 +224,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (A) In general
 
-&emsp;&emsp;With respect to such properties, the Secretary may, consistent with statutory authorities, work through the Federal Housing Administration, the Government National Mortgage Association, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, and other secondary market entities to develop risk-sharing structures, mortgage insurance, and other credit enhancements to assist in the provision of property ownership, rental, and cooperative housing opportunities for low- and moderate-income families.
+&emsp;&emsp;With respect to such properties, the Secretary may, consistent with statutory authorities, work through the Federal Housing Administration, the Government National Mortgage Association, the Federal NationalMortgage Association, the Federal Home Loan Mortgage Corporation, and other secondary market entities to develop risk-sharing structures, mortgage insurance, and other credit enhancements to assist in the provision of property ownership, rental, and cooperative housing opportunities for low- and moderate-income families.
 
 #### (B) Certain tax-exempt bonds
 
@@ -322,7 +322,7 @@ Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporat
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), any nonprofit organization, public agency, or for-profit entity that purchases an eligible condominium property shall (i) make the property available for occupancy by and maintain it as affordable for low-income families for the remaining useful life of the property, or (ii) make the property availablefor purchase by any such family who, except as provided in paragraph (5), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months. The restriction described in clause (i) of the preceding sentence shall be contained in the deed or other recorded instrument.
+&emsp;&emsp;Except as provided in subparagraph (B), any nonprofit organization, public agency, or for-profit entity that purchases an eligible condominium property shall (i) make the property available for occupancy by and maintain it as affordable for low-income families for the remaining useful life of the property, or (ii) make the property available for purchase by any such family who, except as provided in paragraph (5), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months. The restriction described in clause (i) of the preceding sentence shall be contained in the deed or other recorded instrument.
 
 #### (B) Multiple-unit purchases
 
@@ -496,7 +496,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) a nonprofit organization; or
 
-&emsp;&emsp;(C) a for-profit entity, which makes a commitment (for itself or any related entity) to comply with the low-income occupancy requirements under subsection (d)(7) of this section for any eligible multifamily housing property for which an offer to purchase is made during or after the periods specified under subsection (d) of this section.
+&emsp;&emsp;(C) a for-profit entity, which makes a commitment (for itself or any related entity) to comply with the low-income occupancy requirements under subsection (d)(7) of thissection for any eligible multifamily housing property for which an offer to purchase is made during or after the periods specified under subsection (d) of this section.
 
 #### (14) Secretary
 
@@ -626,7 +626,7 @@ Terms of initial appointees.—
 
 &emsp;“(A)
 
-Permanent positions.—As designated by the Secretary of Housing and Urban Development at the time of appointment, of the members first appointed under paragraph (2)(D)—
+Permanent positions.—As designated by the Secretary of Housing and Urban Development at thetime of appointment, of the members first appointed under paragraph (2)(D)—
 
 &emsp;&emsp;“(i) 1 shall be appointed for a term of 1 year;
 
@@ -672,7 +672,7 @@ Sunset.—The Advisory Board established under this subsection shall terminate o
 
 #### Coordination and Consultation Between Federal Deposit Insurance Corporation and Resolution Trust Corporation Under Affordable Housing Programs
 
-Section 241(b) of Pub. L. 102–242, as amended by Pub. L. 102–550, title XVI, §1604(c)(1), Oct. 28, 1992, 106 Stat. 4083, provided that: “The Federal Deposit Insurance Corporation and the Resolution Trust Corporationshall consult and coordinate with each other in carrying out their respective responsibilities under the affordable housing programs under section 40 of the Federal Deposit Insurance Act \[12 U.S.C. 1831q\] and section 21A(c) of the Federal Home Loan Bank Act \[12 U.S.C. 1441a(c)\]. Such corporations shall develop any procedures, and may enter into any agreements, necessary to provide for the coordinated, efficient, and effective operation of such programs.”
+Section 241(b) of Pub. L. 102–242, as amended by Pub. L. 102–550, title XVI, §1604(c)(1), Oct. 28, 1992, 106 Stat. 4083, provided that: “The Federal Deposit Insurance Corporation and the Resolution Trust Corporation shall consult and coordinate with each other in carrying out their respective responsibilities under the affordable housing programs under section 40 of the Federal Deposit Insurance Act \[12 U.S.C. 1831q\] and section 21A(c) of the Federal Home Loan Bank Act \[12 U.S.C. 1441a(c)\]. Such corporations shall develop any procedures, and may enter into any agreements, necessary to provide for the coordinated, efficient, and effective operation of such programs.”
 
 #### Section Referred to in Other Sections
 

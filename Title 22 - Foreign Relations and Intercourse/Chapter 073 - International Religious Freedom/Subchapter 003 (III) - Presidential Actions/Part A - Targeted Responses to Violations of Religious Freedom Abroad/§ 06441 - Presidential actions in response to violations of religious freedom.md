@@ -40,7 +40,7 @@
 
 #### (3) Authority for delay of Presidential actions
 
-&emsp;The President may delay action under paragraph (2) described in any of paragraphs (9) through (15) of section 6445(a) of this title (or commensurate action in substitution thereto)if he determines and certifies to Congress that a single, additional period of time, not to exceed 90 days, is necessary pursuant to the same provisions applying to countries of particular concern for religious freedom under section 6442(c)(3) of this title.
+&emsp;The President may delay action under paragraph (2) described in any of paragraphs (9) through (15) of section 6445(a) of this title (or commensurate action in substitution thereto) if he determines and certifies to Congress that a single, additional period of time, not to exceed 90 days, is necessary pursuant to the same provisions applying to countries of particular concern for religious freedom under section 6442(c)(3) of this title.
 
 #### (c) Implementation
 
@@ -63,6 +63,22 @@
 &emsp;&emsp;(B) the humanitarian activities of United States and foreign nongovernmental organizations in such country.
 
 (Pub. L. 105–292, title IV, §401, Oct. 27, 1998, 112 Stat. 2800.)
+
+#### Delegation of Responsibilities Under the International Religious Freedom Act of 1998
+
+Memorandum of President of the United States, Aug. 17, 1999, 64 F.R. 47345, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me by the Constitution and the laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate to the Secretary of State the functions and authorities vested in the President by title IV, subtitle I (sections 401–409) of the International Religious Freedom Act of 1998 \[22 U.S.C. 6441 et seq.\] (Public Law 105–292) (the “Act”).
+
+Any reference in this memorandum to any act shall be deemed to be a reference to such act as amended from time to time.
+
+The functions delegated by this memorandum may be delegated within the Department of State.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 The Administrator shall, by making grants to and entering into contracts with local educational agencies (each of which agency shall be in partnership with a public or private agency, institution, or business), establish and support programs and activities for the purpose of implementing mentoring programs that—
 
-&emsp;(1) are designed to link at-risk children, particularly children living in high crime areas and children experiencing educational failure, with responsible adults such as law enforcement officers, persons working with local businesses, and adults working for community-based organizations and agencies; and
+&emsp;(1) are designed to link at-risk children, particularly children living in high crime areasand children experiencing educational failure, with responsible adults such as law enforcement officers, persons working with local businesses, and adults working for community-based organizations and agencies; and
 
 &emsp;(2) are intended to achieve 1 or more of the following goals:
 

@@ -72,7 +72,7 @@ For purposes of this section, the term “center” means a national research an
 
 (2) The center designated under subsection (a)(2)(D) of this section shall coordinate its activities with the sustainable agriculture research and education program established under subtitle B of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 \[7 U.S.C. 5801 et seq.\].
 
-(Pub. L. 95–113, title XIV, §1448, as added Pub. L. 101–624, title XVI, §1612(c), Nov. 28, 1990, 104 Stat. 3723; amended Pub. L. 104–127, title VIII, §814, Apr. 4, 1996, 110 Stat. 1166; Pub. L. 105–185, title III, §301(a)(10), June 23, 1998, 112 Stat. 562.)
+(Pub. L. 95–113, title XIV, §1448, as added Pub. L. 101–624, title XVI, §1612(c), Nov. 28, 1990, 104 Stat.3723; amended Pub. L. 104–127, title VIII, §814, Apr. 4, 1996, 110 Stat. 1166; Pub. L. 105–185, title III, §301(a)(10), June 23, 1998, 112 Stat. 562.)
 
 #### References in Text
 

@@ -30,5 +30,5 @@ Functions of President under this section delegated to Secretary of the Treasury
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1738d, 1738e of this title.
+This section is referred to in sections 1738d, 1738e of this title; title 22 section 2431e.
 

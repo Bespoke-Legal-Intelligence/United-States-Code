@@ -18,7 +18,7 @@ The individual serving as liaison for educational programs for individuals who a
 
 Nothing in this section may be construed to affect the authority of the Secretary under this chapter or any other Act with respect to Gallaudet University or the National Technical Institute for the Deaf.
 
-(Pub. L. 99–371, title II, §206, formerly title IV, §406, Aug. 4, 1986, 100 Stat. 790; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; renumbered title II, §206, and amended Pub. L. 102–421, title I, §§101(b)(5), (6), 136, 151(a)(4), (5), Oct. 16, 1992, 106 Stat. 2151, 2159, 2164; Pub. L. 103–73, title II, §204(e), Aug. 11, 1993, 107 Stat. 735.)
+(Pub. L. 99–371, title II, §206, formerly title IV, §406, Aug. 4, 1986, 100 Stat. 790; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; renumbered title II, §206, and amended Pub. L.102–421, title I, §§101(b)(5), (6), 136, 151(a)(4), (5), Oct. 16, 1992, 106 Stat. 2151, 2159, 2164; Pub. L. 103–73, title II, §204(e), Aug. 11, 1993, 107 Stat. 735.)
 
 #### References in Text
 

@@ -18,7 +18,7 @@ If an application filed pursuant to section 355 of this title is approved for a 
 
 &emsp;(2) such holder provides the Secretary in writing the consent of such holder for the approval of other applications or the issuance of other licenses before the expiration of such seven-year period.
 
-(June 25, 1938, ch. 675, §527, as added Pub. L. 97–414, §2(a), Jan. 4, 1983, 96 Stat. 2050; amendedPub. L. 98–417, title I, §102(b)(6), Sept. 24, 1984, 98 Stat. 1593; Pub. L. 99–91, §§2, 3(a)(3), Aug. 15, 1985, 99 Stat. 387, 388; Pub. L. 103–80, §3(v), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title I, §125(b)(2)(J), (K), Nov. 21, 1997, 111 Stat. 2326.)
+(June 25, 1938, ch. 675, §527, as added Pub. L. 97–414, §2(a), Jan. 4, 1983, 96 Stat. 2050; amended Pub. L. 98–417, title I, §102(b)(6), Sept. 24, 1984, 98 Stat. 1593; Pub. L. 99–91, §§2, 3(a)(3), Aug. 15, 1985, 99 Stat. 387, 388; Pub. L. 103–80, §3(v), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title I, §125(b)(2)(J), (K), Nov. 21, 1997, 111 Stat. 2326.)
 
 #### Amendments
 

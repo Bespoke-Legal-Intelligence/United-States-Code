@@ -190,7 +190,7 @@ For purposes of this section—
 
 #### (iii) Permissible range
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “permissible range” means a rate of interest which is not more than 20 percent above, and not more than 20 percent below, the average rate of interest for long-term corporate bonds in the appropriate countryfor the 15-year period ending on the last day before the beginning of the taxable year.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “permissible range” means a rate of interest which is not more than 20 percent above, and not more than 20 percent below, the average rate of interest for long-term corporate bonds in the appropriate country for the 15-year period ending on the last day before the beginning of the taxable year.
 
 #### (4) Accounting method
 
@@ -230,7 +230,7 @@ Section 2(e) of Pub. L. 96–603, as amended by Pub. L. 97–448, title III, §3
 
 “(1)
 
-In general.—The amendments made by this section \[enacting this section and section 6689 of this title and amending sections 679 and 905 of this title\] shall apply with respect to employer contributions or accruals for taxable years beginning after December 31, 1979.
+In general.—The amendments made by this section \[enacting this section and section 6689 of this titleand amending sections 679 and 905 of this title\] shall apply with respect to employer contributions or accruals for taxable years beginning after December 31, 1979.
 
 “(2)
 
@@ -290,7 +290,7 @@ Time.—An election under paragraph (2) or (3) may be made only on or before the
 
 &emsp;“(B)
 
-Manner.—An election under paragraph (2) may be made only by a statement attached to the taxpayer's return for its first taxable year ending on or after December 31, 1980. An election under paragraph (3) may be made only if the taxpayer, on or before the last day for making the election, files with the Secretary of the Treasury or his delegate such amended return and such other information as the Secretary of the Treasury or his delegate may require, andagrees to the assessment of a deficiency for any closed year falling within the open period, to the extent such deficiency is attributable to the operation of such election.”
+Manner.—An election under paragraph (2) may be made only by a statement attached to the taxpayer's return for its first taxable year ending on or after December 31, 1980. An election under paragraph (3) may be made only if the taxpayer, on or before the last day for making the election, files with the Secretary of the Treasury or his delegate such amended return and such other information as the Secretary of the Treasury or his delegate may require, and agrees to the assessment of a deficiency for any closed year falling within the open period, to the extent such deficiency is attributable to the operation of such election.”
 
 \[Pub. L. 97–448, title III, §311(c)(1), Jan. 12, 1983, 96 Stat. 2411, provided that: “The amendment made by subsection (a) of section 305 \[amending par. (2)(E) of this note\] shall take effect on December 28, 1980.”\]
 

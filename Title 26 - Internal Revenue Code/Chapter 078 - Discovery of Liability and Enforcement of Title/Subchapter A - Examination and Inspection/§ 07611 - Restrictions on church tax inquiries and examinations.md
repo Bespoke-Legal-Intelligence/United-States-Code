@@ -12,7 +12,7 @@
 
 #### (2) Reasonable belief requirements
 
-&emsp;The requirements of this paragraph are met with respect to any church tax inquiry if an appropriate high-level Treasury official reasonably believes (on the basis of facts and circumstances recorded in writing) that the church—
+&emsp;The requirements of this paragraph are met with respect to any church tax inquiry if anappropriate high-level Treasury official reasonably believes (on the basis of facts and circumstances recorded in writing) that the church—
 
 &emsp;&emsp;(A) may not be exempt, by reason of its status as a church, from tax under section 501(a), or
 
@@ -126,7 +126,7 @@
 
 &emsp;&emsp;(B)(i) send a notice of deficiency of any tax involved in a church tax examination, or
 
-&emsp;&emsp;(ii) in the case of any tax with respect to which subchapter B of chapter 63 (relating todeficiency procedures) does not apply, assess any underpayment of such tax involved in a church tax examination,
+&emsp;&emsp;(ii) in the case of any tax with respect to which subchapter B of chapter 63 (relating to deficiency procedures) does not apply, assess any underpayment of such tax involved in a church tax examination,
 
 > &emsp;only if the appropriate regional counsel of the Internal Revenue Service determines in writing that there has been substantial compliance with the requirements of this section and approves in writing of such revocation, notice of deficiency, or assessment.
 

@@ -44,7 +44,7 @@ Funds allotted under section 1652 of this title may be used—
 
 &emsp;(D) to provide or obtain appropriate financial and technical advice and liaison with economic development agencies and other organizations to assist in efforts to avert worker dislocations;
 
-&emsp;(E) to disseminate information throughout the State on the availability of services andactivities carried out by the dislocated worker unit or office; and
+&emsp;(E) to disseminate information throughout the State on the availability of services and activities carried out by the dislocated worker unit or office; and
 
 &emsp;(F) to assist the local community in developing its own coordinated response and in obtaining access to State economic development assistance.
 
@@ -132,7 +132,7 @@ Funds allotted under section 1652 of this title may be used to provide basic rea
 
 (1) Funds allocated to a State under section 1652 of this title may be used for coordination of worker readjustment programs and the unemployment compensation system, consistent with the limitation on administrative expenses in section 1661d of this title. Each State shall be responsible for coordinating the unemployment compensation system and worker readjustment programs within such State.
 
-(2) An eligible dislocated worker participating in training (except for on-the-job training) under this subchapter shall be deemed to be in training with the approval of the State agency for purposes of section 3304(a)(8) of title 26.
+(2) An eligible dislocated worker participating in training (except for on-the-job training) under this subchapter shall be deemed to be intraining with the approval of the State agency for purposes of section 3304(a)(8) of title 26.
 
 #### (g) Joint funding
 

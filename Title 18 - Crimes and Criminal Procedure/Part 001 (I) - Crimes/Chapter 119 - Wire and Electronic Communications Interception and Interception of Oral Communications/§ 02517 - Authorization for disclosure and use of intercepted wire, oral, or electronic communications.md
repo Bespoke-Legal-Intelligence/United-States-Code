@@ -16,7 +16,7 @@
 
 1986—Pub. L. 99–508 substituted “wire, oral, or electronic” for “wire or oral” in section catchline and wherever appearing in text.
 
-1970—Par. (3). Pub. L. 91–452 substituted “proceeding held under the authority of the United States or of any State or political subdivision thereof” for “criminal proceeding in any court of the United States or of any State or in any Federal or State grand jury proceeding”.
+1970—Par. (3). Pub. L. 91–452 substituted “proceeding held under the authority of the United States or of any State or political subdivision thereof” for “criminal proceeding in any court of the United States or of anyState or in any Federal or State grand jury proceeding”.
 
 #### Effective Date of 1986 Amendment
 

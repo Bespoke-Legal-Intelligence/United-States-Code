@@ -143,6 +143,9 @@
 | [608\.](Subchapter%20004%20%28IV%29%20-%20Particular%20Work%20or%20Improvements/%C2%A7%2000608%20-%20Construction%20of%20fishways.md) | Construction of fishways. |
 | [609\.](Subchapter%20004%20%28IV%29%20-%20Particular%20Work%20or%20Improvements/%C2%A7%2000609%20-%20Sluices%20and%20other%20work%20in%20dams%20for%20development%20of%20water%20power.md) | Sluices and other work in dams for development of water power. |
 | [610\.](Subchapter%20004%20%28IV%29%20-%20Particular%20Work%20or%20Improvements/%C2%A7%2000610%20-%20Control%20of%20aquatic%20plant%20growths.md) | Control of aquatic plant growths. |
+| (a) | In general. |
+| (b) | Appropriations. |
+| (c) | Support. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -59,6 +59,7 @@
 | (c) | Continued occupancy. |
 | (d) | Required acceptance of section 1437f assistance. |
 | (e) | Regional pools. |
+| (f) | Enhanced voucher assistance for certain tenants. |
 | [4114\.](Subchapter%20001%20%28I%29%20-%20Prepayment%20of%20Mortgages%20Insured%20under%20National%20Housing%20Act/%C2%A7%2004114%20-%20Permissible%20prepayment%20or%20voluntary%20termination%20and%20modification%20of%20commitments.md) | Permissible prepayment or voluntary termination and modification of commitments. |
 | (a) | In general. |
 | (b) | Section 1437f rental assistance. |

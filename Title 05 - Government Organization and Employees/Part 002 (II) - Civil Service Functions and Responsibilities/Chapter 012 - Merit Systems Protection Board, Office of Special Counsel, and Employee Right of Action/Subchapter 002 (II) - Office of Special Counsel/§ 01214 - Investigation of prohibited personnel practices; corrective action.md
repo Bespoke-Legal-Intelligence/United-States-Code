@@ -42,7 +42,7 @@
 
 (5) In addition to any authority granted under paragraph (1), the Special Counsel may, in the absence of an allegation, conduct an investigation for the purpose of determining whether there are reasonable grounds to believe that a prohibited personnel practice (or a pattern of prohibited personnel practices) has occurred, exists, or is to be taken.
 
-(b)(1)(A)(i) The Special Counsel may request any member of the Merit Systems ProtectionBoard to order a stay of any personnel action for 45 days if the Special Counsel determines that there are reasonable grounds to believe that the personnel action was taken, or is to be taken, as a result of a prohibited personnel practice.
+(b)(1)(A)(i) The Special Counsel may request any member of the Merit Systems Protection Board to order a stay of any personnel action for 45 days if the Special Counsel determines that there are reasonable grounds to believe that the personnel action was taken, or is to be taken, as a result of a prohibited personnel practice.
 
 (ii) Any member of the Board requested by the Special Counsel to order a stay under clause (i) shall order such stay unless the member determines that, under the facts and circumstances involved, such a stay would not be appropriate.
 
@@ -86,7 +86,7 @@
 
 (2) A petition for review under this subsection shall be filed with such court, and within such time, as provided for under section 7703(b).
 
-(d)(1) If, in connection with any investigation under this subchapter, the Special Counsel determines that there is reasonable cause to believe that a criminal violation has occurred, the Special Counsel shall report the determination to the Attorney General and to the head of the agency involved, and shall submit a copy of the report to the Director of the Office of Personnel Management and the Director of the Office of Management and Budget.
+(d)(1) If, in connection with any investigation under this subchapter, the Special Counsel determines that there is reasonable cause to believe that a criminal violation has occurred, theSpecial Counsel shall report the determination to the Attorney General and to the head of the agency involved, and shall submit a copy of the report to the Director of the Office of Personnel Management and the Director of the Office of Management and Budget.
 
 (2) In any case in which the Special Counsel determines that there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken, the Special Counsel shall proceed with any investigation or proceeding unless—
 

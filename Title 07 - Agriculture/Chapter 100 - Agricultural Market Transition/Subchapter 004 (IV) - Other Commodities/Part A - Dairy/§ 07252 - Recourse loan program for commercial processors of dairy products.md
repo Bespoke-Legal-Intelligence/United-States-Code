@@ -18,7 +18,11 @@ In this section, the term “eligible dairy products” means cheddar cheese, bu
 
 #### (e) Effective date
 
-This section shall be effective beginning January 1, 2000.
+This section shall be effective beginning January 1, 2001.
 
-(Pub. L. 104–127, title I, §142, Apr. 4, 1996, 110 Stat. 915.)
+(Pub. L. 104–127, title I, §142, Apr. 4, 1996, 110 Stat. 915; Pub. L. 106–78, title VIII, §807(b), Oct. 22, 1999, 113 Stat. 1181.)
+
+#### Amendments
+
+1999—Subsec. (e). Pub. L. 106–78 substituted “2001” for “2000”.
 

@@ -20,7 +20,7 @@
 
 #### (3) “Government-guaranteed loans” defined
 
-&emsp;As used in this section and section 2020(b) of this title, the term “government-guaranteed loans” means loans or credits, or portions of loans or credits, that are guaranteed—
+&emsp;As used in this section and section 2020(b) of this title, the term “government-guaranteedloans” means loans or credits, or portions of loans or credits, that are guaranteed—
 
 &emsp;&emsp;(A) by the full faith and credit of the United States Government or any State government;
 
@@ -134,7 +134,7 @@ For the purpose of subsections (a), (c), and (e) of this section, the principal 
 
 &emsp;&emsp;&emsp;(ii) interest earned on any amounts that would have been paid as described in clause (i) from the date on which the payments would have been paid as described in clause (i); and
 
-&emsp;&emsp;&emsp;(iii) the payment to be made in the initial year described in subparagraph (A), based on the amount in each Account after subtracting the amounts to be paid under clauses (i) and (ii).
+&emsp;&emsp;&emsp;(iii) the payment to be made in the initial year described in subparagraph (A),based on the amount in each Account after subtracting the amounts to be paid under clauses (i) and (ii).
 
 (Pub. L. 92–181, title V, §5.55, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1612; amended Pub. L. 100–399, title III, §302(c)–(e), Aug. 17, 1988, 102 Stat. 994; Pub. L. 101–220, §6(a), Dec. 12, 1989, 103 Stat. 1879; Pub. L. 104–105, title II, §215(a)(1), (2)(A), (b), (c), Feb. 10, 1996, 110 Stat. 175, 176, 179.)
 

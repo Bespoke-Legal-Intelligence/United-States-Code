@@ -4,7 +4,7 @@
 
 &emsp;(1) who advocates or teaches, or who is a member of or affiliated with any organization that advocates or teaches, opposition to all organized government; or
 
-&emsp;(2) who is a member of or affiliated with (A) the Communist Party of the United States; (B)any other totalitarian party of the United States; (C) the Communist Political Association; (D) the Communist or other totalitarian party of any State of the United States, of any foreign state, or of any political or geographical subdivision of any foreign state; (E) any section, subsidiary, branch, affiliate, or subdivision of any such association or party; or (F) the direct predecessors or successors of any such association or party, regardless of what name such group or organization may have used, may now bear, or may hereafter adopt, unless such alien establishes that he did not have knowledge or reason to believe at the time he became a member of or affiliated with such an organization (and did not thereafter and prior to the date upon which such organization was so registered or so required to be registered have such knowledge or reason to believe) that such organization was a Communist-front organization; or
+&emsp;(2) who is a member of or affiliated with (A) the Communist Party of the United States; (B) any other totalitarian party of the United States; (C) the Communist Political Association; (D) the Communist or other totalitarian party of any State of the United States, of any foreign state, or of any political or geographical subdivision of any foreign state; (E) any section, subsidiary, branch, affiliate, or subdivision of any such association or party; or (F) the direct predecessors or successors of any such association or party, regardless of what name such group or organization may have used, may now bear, or may hereafter adopt, unless such alien establishes that he did not have knowledge or reason to believe at the time he became a member of or affiliated with such an organization (and did not thereafter and prior to the date upon which such organization was so registered or so required to be registered have such knowledge or reason to believe) that such organization was a Communist-front organization; or
 
 &emsp;(3) who, although not within any of the other provisions of this section, advocates the economic, international, and governmental doctrines of world communism or the establishment in the United States of a totalitarian dictatorship, or who is a member of or affiliated with any organization that advocates the economic, international, and governmental doctrines of world communism or the establishment in the United States of a totalitarian dictatorship, either through its own utterances or through any written or printed publications issued or published by or with the permission or consent of or under authority of such organization or paid for by the funds of such organization; or
 
@@ -14,19 +14,31 @@
 
 &emsp;(6) who is a member of or affiliated with any organization that writes, circulates, distributes, prints, publishes, or displays, or causes to be written, circulated, distributed, printed, published, or displayed, or that has in its possession for the purpose of circulation, distribution, publication, issue, or display, any written or printed matter of the character described in subparagraph (5) of this subsection.
 
-(b) The provisions of this section or of any other section of this title shall not be construed as declaring that any of the organizations referred to in this section or in any other section of this title do not advocate the overthrow of the Government of the United States by force, violence, or other unconstitutional means.
+(b) The provisions of this section or of any other section of this chapter shall not be construed as declaring that any of the organizations referred to in this section or in any other section of this chapter do not advocate the overthrow of the Government of the United States by force, violence, or other unconstitutional means.
 
 (c) The provisions of this section shall be applicable to any applicant for naturalization who at any time within a period of ten years immediately preceding the filing of the application for naturalization or after such filing and before taking the final oath of citizenship is, or has been found to be within any of the classes enumerated within this section, notwithstanding that at the time the application is filed he may not be included within such classes.
 
 (d) Any person who is within any of the classes described in subsection (a) of this section solely because of past membership in, or past affiliation with, a party or organization may be naturalized without regard to the provisions of subsection (c) of this section if such person establishes that such membership or affiliation is or was involuntary, or occurred and terminated prior to the attainment by such alien of the age of sixteen years, or that such membership or affiliation is or was by operation of law, or was for purposes of obtaining employment, food rations, or other essentials of living and where necessary for such purposes.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §313, 66 Stat. 240; Pub. L. 100–525, §9(u), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §407(c)(1), Nov. 29, 1990, 104 Stat. 5041; Pub. L. 102–232, title III, §309(b)(13), Dec. 12, 1991, 105 Stat. 1759; Pub. L. 103–416, title II, §219(v), Oct. 25, 1994, 108 Stat. 4318.)
+(e) A person may be naturalized under this subchapter without regard to the prohibitions in subsections (a)(2) and (c) of this section if the person—
+
+&emsp;(1) is otherwise eligible for naturalization;
+
+&emsp;(2) is within the class described in subsection (a)(2) of this section solely because of past membership in, or past affiliation with, a party or organization described in that subsection;
+
+&emsp;(3) does not fall within any other of the classes described in that subsection; and
+
+&emsp;(4) is determined by the Director of Central Intelligence, in consultation with the Secretary of Defense, and with the concurrence of the Attorney General, to have made a contribution to the national security or to the national intelligence mission of the United States.
+
+(June 27, 1952, ch. 477, title III, ch. 2, §313, 66 Stat. 240; Pub. L. 100–525, §9(u), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §407(c)(1), Nov. 29, 1990, 104 Stat. 5041; Pub. L. 102–232, title III, §309(b)(13), Dec. 12, 1991, 105 Stat. 1759; Pub. L. 103–416, title II, §219(v), Oct. 25, 1994, 108 Stat. 4318; Pub. L. 106–120, title III, §306, Dec. 3, 1999, 113 Stat. 1612.)
 
 #### References in Text
 
 Section 405(b) of this Act, referred to in subsec. (a), is section 405(b) of act June 27, 1952, ch. 477, title IV, 66 Stat. 280, which is set out as a Savings Clause note under section 1101 of this title.
 
 #### Amendments
+
+1999—Subsec. (e). Pub. L. 106–120 added subsec. (e).
 
 1994—Subsec. (a)(2). Pub. L. 103–416 substituted “or” for “and” before “(F)”.
 

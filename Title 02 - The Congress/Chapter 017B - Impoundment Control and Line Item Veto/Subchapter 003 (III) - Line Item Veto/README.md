@@ -6,7 +6,7 @@
 
 #### Constitutionality of Line Item Veto
 
-For decision holding line item veto unconstitutional, see <i>Clinton v. City of New York</i>, —— U.S. ——, 118 S.Ct. 2091, 141 L.Ed. 2d 393 (1998).
+For decision holding line item veto unconstitutional, see <i>Clinton v. City of New York</i>, 524 U.S. 417, 118 S.Ct. 2091, 141 L.Ed. 2d 393 (1998).
 
 #### Subchapter Referred to in Other Sections
 

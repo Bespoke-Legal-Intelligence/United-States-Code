@@ -1,6 +1,6 @@
 ### §1772b. Findings by Secretary
 
-(a) Section 1772c of this title shall not take effect until 180 days after December 31, 1987, or the date the last of the events described in subsection (b) of this section have occurred and the Secretary so finds, whichever date occurs later.
+(a) Section 1772c of this title shall not take effect until 180 days after December 31, 1987, or thedate the last of the events described in subsection (b) of this section have occurred and the Secretary so finds, whichever date occurs later.
 
 (b) The events referred to in subsection (a) of this section are—
 

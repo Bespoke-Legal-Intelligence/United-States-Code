@@ -274,7 +274,7 @@ Subsec. (d). Pub. L. 90–364 redesignated former subsec. (c) as (d).
 
 #### Effective Date of 1988 Amendment
 
-Section 1013(a)(34)(B) of Pub. L. 100–647 provided that: “Subparagraph (A) \[amending this section\] shall apply to obligations sold after May 2, 1978, and to which Treasury regulation section 1.103–13 (1979) was provided to apply.”
+Section 1013(a)(34)(B) of Pub. L. 100–647 provided that: “Subparagraph (A) \[amending this section\] shall applyto obligations sold after May 2, 1978, and to which Treasury regulation section 1.103–13 (1979) was provided to apply.”
 
 #### Effective Date of 1986 Amendment
 
@@ -495,7 +495,7 @@ Exception.—Subparagraph (A) shall not apply with respect to the amendment made
 
 &emsp;“(4)
 
-Repeal of advance refunding of qualified public facilities.—The amendment made by section 628(g) \[amending this section\] shall apply to refunding obligations issued after the date of the enactment of this Act \[July 18, 1984\]; except that if substantially all the proceeds of the refunded issue were used to provide airports or docks, such amendment shall only apply to refunding obligations issued after December 31, 1984. In the case of refunding obligations not to exceed $100,000,000 issued after October 21, 1986, by Dade County, Florida, for the purpose of advance refunding its Aviation Revenue Bonds (Series J), the first sentence of this paragraph shall be applied by substituting ‘the date which is 1 year after the date of the enactment of the Technical and Miscellaneous Revenue Act of 1988 \[Nov. 10, 1988\]’ for ‘December 31, 1984’ and the amendments made by section 1301 of the Tax Reform Act of 1986 \[section 1301 of Pub. L. 99–514, enacting sections 141 to 150 and 7703 of this title, amending this section and sections 2, 22, 25, 32, 86, 105, 152, 153, 163, 194, 269A, 414, 879, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing section 103A of this title, enacting provisions set out as notes under sections 141 and 148 of this title, and amending provisions set out as a note under section 103A of this title\] shall not apply. In the case of refunding obligations not exceeding $100,000,000 issued by the Alabama State Docks Department, the first sentence of thisparagraph shall be applied by substituting ‘December 31, 1987’ for ‘December 31, 1984’ and the Internal Revenue Code of 1986 shall be applied without regard to section 149(d)(2)..\[sic\]
+Repeal of advance refunding of qualified public facilities.—The amendment made by section 628(g) \[amending this section\] shall apply to refunding obligations issued after the date of the enactment of this Act \[July 18, 1984\]; except that if substantially all the proceeds of the refunded issue were used to provide airports or docks, such amendment shall only apply to refunding obligations issued after December 31, 1984. In the case of refunding obligations not to exceed $100,000,000 issued after October 21, 1986, by Dade County, Florida, for the purpose of advance refunding its Aviation Revenue Bonds (Series J), the first sentence of this paragraph shall be applied by substituting ‘the date which is 1 year after the date of the enactment of the Technical and Miscellaneous Revenue Act of 1988 \[Nov. 10, 1988\]’ for ‘December 31, 1984’ and the amendments made by section 1301 of the Tax Reform Act of 1986 \[section 1301 of Pub. L. 99–514, enacting sections 141 to 150 and 7703 of this title, amending this section and sections 2, 22, 25, 32, 86, 105, 152, 153, 163, 194, 269A, 414, 879, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing section 103A of this title, enacting provisions set out as notes under sections 141 and 148 of this title, and amending provisions set out as a note under section 103A of this title\] shall not apply. In the case of refunding obligations not exceeding $100,000,000 issued by the Alabama State Docks Department, the first sentence of this paragraph shall be applied by substituting ‘December 31, 1987’ for ‘December 31, 1984’ and the Internal Revenue Code of 1986 shall be applied without regard to section 149(d)(2)..\[sic\]
 
 &emsp;“(5)
 
@@ -611,7 +611,7 @@ Section 221(d) of Pub. L. 97–248 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 1104 of Pub. L. 96–499, formerly set out as a note under section 103A of this title\] shallapply to obligations issued after the date of the enactment of this Act \[Sept. 3, 1982\].
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 1104 of Pub. L. 96–499, formerly set out as a note under section 103A of this title\] shall apply to obligations issued after the date of the enactment of this Act \[Sept. 3, 1982\].
 
 “(2)
 
@@ -787,7 +787,7 @@ Solid waste disposal facility.—A solid waste disposal facility is described in
 
 Limitations.—
 
-&emsp;“(A) In the case of a solid waste disposal facility described in paragraph (2)(A), the aggregate face amount of obligations to which paragraph (1) applies shall not exceed $65,000,000.
+&emsp;“(A) In the case of a solid waste disposal facility described in paragraph (2)(A), the aggregate faceamount of obligations to which paragraph (1) applies shall not exceed $65,000,000.
 
 &emsp;“(B) In the case of a solid waste disposal facility described in paragraph (2)(B), the aggregate face amount of obligations to which paragraph (1) applies shall not exceed $20,000,000. Such amount shall be in addition to the amount permitted under the Internal Revenue Service ruling referred to in paragraph (2)(B)(ii).
 
@@ -1019,7 +1019,7 @@ Publication of regulations.—Notwithstanding clause (i), the qualified date sha
 
 &emsp;&emsp;“(C)
 
-Refunding obligations.—Regulations prescribed by the Secretary under paragraph (1) shallnot apply to any obligation (or series of refunding obligations) issued exclusively to refund any qualified student loan bond which was issued before the qualified date, except that the requirements of subparagraphs (A) and (B) of section 626(b)(4) of this Act \[set out in Effective Date of 1984 Amendment note above\] must be met with respect to such refunding.
+Refunding obligations.—Regulations prescribed by the Secretary under paragraph (1) shall not apply to any obligation (or series of refunding obligations) issued exclusively to refund any qualified student loan bond which was issued before the qualified date, except that the requirements of subparagraphs (A) and (B) of section 626(b)(4) of this Act \[set out in Effective Date of 1984 Amendment note above\] must be met with respect to such refunding.
 
 &emsp;&emsp;“(D)
 
@@ -1215,7 +1215,7 @@ Refund profit.—The term ‘Refund profit’ means interest, profit, or other a
 
 &emsp;“(2)
 
-Charitable organization.—The term ‘charitable organization’ means an organization described in section 501(c)(3) of such Code and exempt from taxation under section 501(a) of such Code other than an organization described in section 509(a) of such Code.
+Charitable organization.—The term ‘charitable organization’ means an organization describedin section 501(c)(3) of such Code and exempt from taxation under section 501(a) of such Code other than an organization described in section 509(a) of such Code.
 
 &emsp;“(3)
 

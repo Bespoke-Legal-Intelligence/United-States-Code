@@ -34,7 +34,7 @@ The collection of amounts under subsection (c) of this section shall cease after
 
 #### (f) Continuation of deposits
 
-Except as provided in subsection (e) of this section, deposits shall continue to be made intothe Fund under subsection (d) of this section for the period specified in such subsection.
+Except as provided in subsection (e) of this section, deposits shall continue to be made into the Fund under subsection (d) of this section for the period specified in such subsection.
 
 #### (g) Treatment of assessment
 

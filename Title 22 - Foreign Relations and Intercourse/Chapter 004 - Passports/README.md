@@ -8,9 +8,7 @@
 | [213\.](%C2%A7%2000213%20-%20Application%20for%20passport%3B%20verification%20by%20oath%20of%20initial%20passport.md) | Application for passport; verification by oath of initial passport. |
 | [214\.](%C2%A7%2000214%20-%20Fees%20for%20execution%20and%20issuance%20of%20passports%3B%20persons%20excused%20from%20payment.md) | Fees for execution and issuance of passports; persons excused from payment. |
 | [214a.](%C2%A7%2000214a%20-%20Fees%20erroneously%20charged%20and%20paid%3B%20refund.md) | Fees erroneously charged and paid; refund. |
-| [215\.](%C2%A7%2000215%20-%20Omitted.md) | Omitted. |
-| [216\.](%C2%A7%2000216%20-%20Return%20of%20fees%20on%20refusal%20to%20vise%EF%BF%BDAE1.md) | Return of fees on refusal to vise�AE1. |
-| [217\.](%C2%A7%2000217%20-%20Repealed.%20July%203%2C%201926%2C%20ch.%20772%2C%20%C2%A74%2C%2044%20Stat.%20887.md) | Repealed. |
+| 215 to 217. | Omitted or Repealed. |
 | [217a.](%C2%A7%2000217a%20-%20Validity%20of%20passport%3B%20limitation%20of%20time.md) | Validity of passport; limitation of time. |
 | [218\.](%C2%A7%2000218%20-%20Returns%20as%20to%20passports%20issued%2C%20etc.md) | Returns as to passports issued, etc. |
 | 219 to 229. Repealed. |  |
@@ -33,7 +31,7 @@ Immigration and Nationality Act, see section 1101 et seq. of Title 8, Aliens and
 - [&sect; 00214 - Fees for execution and issuance of passports; persons excused from payment](%C2%A7%2000214%20-%20Fees%20for%20execution%20and%20issuance%20of%20passports%3B%20persons%20excused%20from%20payment.md)
 - [&sect; 00214a - Fees erroneously charged and paid; refund](%C2%A7%2000214a%20-%20Fees%20erroneously%20charged%20and%20paid%3B%20refund.md)
 - [&sect; 00215 - Omitted](%C2%A7%2000215%20-%20Omitted.md)
-- [&sect; 00216 - Return of fees on refusal to vise&#65533;AE1](%C2%A7%2000216%20-%20Return%20of%20fees%20on%20refusal%20to%20vise%EF%BF%BDAE1.md)
+- [&sect; 00216 - Repealed. Pub. L. 106&#8211;113, div. B, &sect;1000(a)(7) \[div. A, title II, &sect;233(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A&#8211;426](%C2%A7%2000216%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93113%2C%20div.%20B%2C%20%C2%A71000%28a%29%287%29%20%5Bdiv.%20A%2C%20title%20II%2C%20%C2%A7233%28b%29%5D%2C%20Nov.%2029%2C%201999%2C%20113%20Stat.%201536%2C%201501A%E2%80%93426.md)
 - [&sect; 00217 - Repealed. July 3, 1926, ch. 772, &sect;4, 44 Stat. 887](%C2%A7%2000217%20-%20Repealed.%20July%203%2C%201926%2C%20ch.%20772%2C%20%C2%A74%2C%2044%20Stat.%20887.md)
 - [&sect; 00217a - Validity of passport; limitation of time](%C2%A7%2000217a%20-%20Validity%20of%20passport%3B%20limitation%20of%20time.md)
 - [&sect; 00218 - Returns as to passports issued, etc](%C2%A7%2000218%20-%20Returns%20as%20to%20passports%20issued%2C%20etc.md)

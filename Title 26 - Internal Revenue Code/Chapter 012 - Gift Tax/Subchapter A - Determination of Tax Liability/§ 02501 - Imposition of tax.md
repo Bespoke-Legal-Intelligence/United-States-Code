@@ -26,7 +26,7 @@
 
 #### (D) Credit for foreign gift taxes
 
-&emsp;&emsp;The tax imposed by this section solely by reason of this paragraph shall be creditedwith the amount of any gift tax actually paid to any foreign country in respect of any gift which is taxable under this section solely by reason of this paragraph.
+&emsp;&emsp;The tax imposed by this section solely by reason of this paragraph shall be credited with the amount of any gift tax actually paid to any foreign country in respect of any gift which is taxable under this section solely by reason of this paragraph.
 
 #### (E) Cross reference
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 105–34 effective as if included in the provisions of the 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–191 applicable to individuals losing United States citizenship on or after Feb. 6, 1995, and to long-term residents of the United Stateswith respect to whom an event described in section 877(e)(1)(A) or (B) of this title occurs on or after Feb. 6, 1995, with special rule for certain individuals who performed an act of expatriation specified in section 1481(a)(1)–(4) of Title 8, Aliens and Nationality, before Feb. 6, 1995, see section 511(g) of Pub. L. 104–191, set out as a note under section 877 of this title.
+Amendment by Pub. L. 104–191 applicable to individuals losing United States citizenship on or after Feb. 6, 1995, and to long-term residents of the United States with respect to whom an event described in section 877(e)(1)(A) or (B) of this title occurs on or after Feb. 6, 1995, with special rule for certain individuals who performed an act of expatriation specified in section 1481(a)(1)–(4) of Title 8, Aliens and Nationality, before Feb. 6, 1995, see section 511(g) of Pub. L. 104–191, set out as a note under section 877 of this title.
 
 #### Effective Date of 1990 Amendment
 

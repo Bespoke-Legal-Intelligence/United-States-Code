@@ -70,7 +70,7 @@ In subsection (a), 10:20 (1st 19 words) is omitted as surplusage. The word “Co
 
 In subsection (c), the words “consists of” are substituted for the word “includes”.
 
-In subsection (c)(1), the words “the Army National Guard while in the service of the United States” are substituted for the words “all persons serving in the Army under call \* \* \* under any provision of law, including members of the National Guard of the several States, Territories, and the District of Columbia when in the service of the United States pursuant to call as provided by law”. 10:1b (words between 1st and 3d semicolons) and 50:1021 (last sentence) are omitted, since the components listed include their members.
+In subsection (c)(1), the words “the Army National Guard while in the service of the United States” are substituted for the words “all persons serving in the Army under call \* \* \* under any provision of law, including members of the National Guard of the several States, Territories, and the District of Columbia when in the service of the United States pursuant to call asprovided by law”. 10:1b (words between 1st and 3d semicolons) and 50:1021 (last sentence) are omitted, since the components listed include their members.
 
 In subsection (c)(2), the words “or inducted” are omitted as covered by the word “conscripted”.
 

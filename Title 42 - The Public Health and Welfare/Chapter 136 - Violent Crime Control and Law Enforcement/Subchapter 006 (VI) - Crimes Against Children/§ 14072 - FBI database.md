@@ -6,7 +6,7 @@ For purposes of this section—
 
 &emsp;(1) the term “FBI” means the Federal Bureau of Investigation;
 
-&emsp;(2) the terms “criminal offense against a victim who is a minor”, “sexually violent offense”, “sexually violent predator”, “mentalabnormality”, “predatory”, “employed, carries on a vocation”, and “student” have the same meanings as in section 14071(a)(3) of this title; and
+&emsp;(2) the terms “criminal offense against a victim who is a minor”, “sexually violent offense”, “sexually violent predator”, “mental abnormality”, “predatory”, “employed, carries on a vocation”, and “student” have the same meanings as in section 14071(a)(3) of this title; and
 
 &emsp;(3) the term “minimally sufficient sexual offender registration program” means any State sexual offender registration program that—
 

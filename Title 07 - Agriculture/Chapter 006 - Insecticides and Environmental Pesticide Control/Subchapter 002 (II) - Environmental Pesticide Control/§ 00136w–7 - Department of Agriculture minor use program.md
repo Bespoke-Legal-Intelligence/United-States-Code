@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Agriculture (hereinafter in this section referred to as the “Secretary”) shall assure the coordination of the responsibilities of the Department of Agriculture related to minor uses of pesticides, including—
+The Secretary of Agriculture (hereinafter in this section referred to as the “Secretary”) shall assure the coordination of the responsibilities ofthe Department of Agriculture related to minor uses of pesticides, including—
 
 &emsp;(1) carrying out the Inter-Regional Project Number 4 (IR–4) as described in section 450i of this title and the national pesticide resistance monitoring program established under section 1651 <sup>1</sup> of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5882);
 
@@ -26,7 +26,7 @@ The Secretary of Agriculture (hereinafter in this section referred to as the “
 
 #### (C) Data ownership
 
-&emsp;&emsp;Any data that is developed under a grant under subparagraph (A) shall be jointlyowned by the Department of Agriculture and the person who received the grant. Such a person shall enter into an agreement with the Secretary under which such person shall share any fee paid to such person under section 136a(c)(1)(F) of this title.
+&emsp;&emsp;Any data that is developed under a grant under subparagraph (A) shall be jointly owned by the Department of Agriculture and the person who received the grant. Such a person shall enter into an agreement with the Secretary under which such person shall share any fee paid to such person under section 136a(c)(1)(F) of this title.
 
 #### (2) Minor Use Pesticide Data Revolving Fund
 

@@ -6,7 +6,7 @@ Energy Performance Goal and Plan.—(1) The Secretary of Defense shall designate
 
 (2) To achieve the goal designated under paragraph (1), the Secretary shall develop a comprehensive plan to identify and accomplish energy conservation measures to achieve maximum cost-effective energy savings.
 
-(3) For the purpose of implementing any energy performance plan, the Secretary shall provide that the selection of energy conservation measures, including energy efficient maintenance or water efficient maintenance, under such plan shall be limited to those with a positive net present value over a period of 10 years or less.
+(3) For the purpose of implementing any energy performance plan, the Secretary shall provide that the selection of energy conservation measures, including energy efficient maintenance or water efficient maintenance, undersuch plan shall be limited to those with a positive net present value over a period of 10 years or less.
 
 (4) In paragraph (3), the term “energy efficient maintenance or water efficient maintenance” includes—
 
@@ -108,7 +108,7 @@ Subsec. (a)(4). Pub. L. 103–160, §2804(a)(2), added par. (4).
 
 Subsec. (b)(1). Pub. L. 103–160, §2804(b)(1), substituted “Two-thirds” for “The Secretary shall provide that two-thirds” and struck out “for any fiscal year beginning after fiscal year 1990” after “described in subsection (d)(2),”.
 
-Subsec. (b)(2). Pub. L. 103–160, §2804(b)(2), added introductory provisions and subpar. (A) and struck out former introductory provisions and subpar. (A) which read as follows: “The amount that remains availablefor obligation under paragraph (1) shall be utilized as follows:
+Subsec. (b)(2). Pub. L. 103–160, §2804(b)(2), added introductory provisions and subpar. (A) and struck out former introductory provisions and subpar. (A) which read as follows: “The amount that remains available for obligation under paragraph (1) shall be utilized as follows:
 
 &emsp;“(A) One-half of the amount shall be used for the implementation of additional energy conservation measures at such buildings, facilities, or installations of the Department of Defense as the head of the department, agency, or instrumentality that realized the savings may designate in accordance with regulations prescribed by the Secretary of Defense.”
 

@@ -30,6 +30,8 @@ Apr. 6, 1988, Pub. L. 100–281, §§5, 8 (related to membership), 102 Stat. 73,
 
 36:4008 (related to membership).
 
+&nbsp;
+
 In subsection (a), the words “Except as provided in this chapter” are substituted for “Except as provided in section 4008 of this title” for consistency in the revised title.
 
 In subsection (b), the words “The terms of membership” are substituted for “In establishing the conditions of membership in the corporation” for consistency in the revised title and to eliminate unnecessary words.

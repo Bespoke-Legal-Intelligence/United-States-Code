@@ -40,7 +40,7 @@ Except as provided in subsection (b) of this section, the costs of decontaminati
 
 #### (i) Determination of excess
 
-&emsp;&emsp;&emsp;The Secretary shall determine as of July 31, 2005, whether the amount authorized tobe appropriated pursuant to section 2296a–2 of this title, when considered with the $6.25 per dry short ton limit on reimbursement, exceeds the amount reimbursable to the licensees under subsection (b)(2) of this section.
+&emsp;&emsp;&emsp;The Secretary shall determine as of July 31, 2005, whether the amount authorized to be appropriated pursuant to section 2296a–2 of this title, when considered with the $6.25 per dry short ton limit on reimbursement, exceeds the amount reimbursable to the licensees under subsection (b)(2) of this section.
 
 #### (ii) In the event of excess
 

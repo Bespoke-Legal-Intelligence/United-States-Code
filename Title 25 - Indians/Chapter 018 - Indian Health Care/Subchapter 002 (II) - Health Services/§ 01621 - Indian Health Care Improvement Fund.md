@@ -136,7 +136,7 @@ Subsec. (e)(1). Pub. L. 102–573, §201(a)(5)(B), substituted “health status 
 
 Subsec. (e)(2). Pub. L. 102–573, §201(a)(5)(C), substituted “the extent of the health status and resource deficiency of” for “the level of health resources deficiency for”.
 
-Subsec. (e)(3). Pub. L. 102–573, §201(a)(5)(D), substituted “eliminate the health status and resource deficiencies of all Indian tribes served by the Service; and” for “raise all Indian tribes served by the Service belowhealth resources deficiency level II to health resources deficiency level II;”.
+Subsec. (e)(3). Pub. L. 102–573, §201(a)(5)(D), substituted “eliminate the health status and resource deficiencies of all Indian tribes served by the Service; and” for “raise all Indian tribes served by the Service below health resources deficiency level II to health resources deficiency level II;”.
 
 Subsec. (e)(4) to (6). Pub. L. 102–573, §201(a)(5)(E), redesignated par. (6) as (4) and struck out former pars. (4) and (5) which read as follows:
 
@@ -152,7 +152,7 @@ Subsec. (h). Pub. L. 102–573, §217(b)(1), substituted “this section” for 
 
 1980—Subsec. (c)(1). Pub. L. 96–537, §4(a)(1), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
 
-Subsec. (c)(2). Pub. L. 96–537, §4(a)(2), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
+Subsec. (c)(2). Pub. L. 96–537, §4(a)(2), inserted provisions authorizing appropriation of specific amounts forfiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
 
 Subsec. (c)(3). Pub. L. 96–537, §4(a)(3), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
 

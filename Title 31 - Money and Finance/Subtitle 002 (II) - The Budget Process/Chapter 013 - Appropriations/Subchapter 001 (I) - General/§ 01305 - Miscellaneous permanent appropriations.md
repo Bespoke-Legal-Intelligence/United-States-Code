@@ -8,7 +8,7 @@ Necessary amounts are appropriated for the following:
 
 &emsp;(3) to pay proceeds from derelict and salvage cases adjudged by the courts of the United States to salvors.
 
-&emsp;(4) to make payments required under contracts made under section 108 of the Housing and Community Development Act of 1974 (42U.S.C. 5308) for the payment of interest on obligations guaranteed by the Secretary of Housing and Urban Development under section 108.
+&emsp;(4) to make payments required under contracts made under section 108 of the Housing and Community Development Act of 1974 (42 U.S.C. 5308) for the payment of interest on obligations guaranteed by the Secretary of Housing and Urban Development under section 108.
 
 &emsp;(5) to make payments required under contracts made under section 103(b) of the Housing Act of 1949 (42 U.S.C. 1453(b)) for projects or programs for which amounts had been committed before January 1, 1975, and for which amounts have not been appropriated.
 
@@ -78,7 +78,7 @@ This amends 31:1305(6) to conform to the Smithsonian Institution charter as amen
 
 #### References in Text
 
-Section 103(b) of the Housing Act of 1949 (42 U.S.C. 1453(b)), referred to in par. (5), was omitted from theCode pursuant to section 5316 of Title 42, The Public Health and Welfare, which terminated the authority to make grants or loans under title I of that Act (42 U.S.C. 1450 et seq.) after Jan. 1, 1975.
+Section 103(b) of the Housing Act of 1949 (42 U.S.C. 1453(b)), referred to in par. (5), was omitted from the Code pursuant to section 5316 of Title 42, The Public Health and Welfare, which terminated the authority to make grants or loans under title I of that Act (42 U.S.C. 1450 et seq.) after Jan. 1, 1975.
 
 The Housing Act of 1950, referred to in par. (8), is act Apr. 20, 1950, ch. 94, 64 Stat. 48, as amended. Title IV of the Housing Act of 1950, which was classified generally to subchapter IX (§1749 et seq.) of chapter 13 of Title 12, Banks and Banking, was repealed by Pub. L. 99–498, title VII, §702, Oct. 17, 1986, 100 Stat. 1545. For complete classification of this Act to the Code, see Short Title of 1950 Amendment note set out under section 1701 of Title 12 and Tables.
 

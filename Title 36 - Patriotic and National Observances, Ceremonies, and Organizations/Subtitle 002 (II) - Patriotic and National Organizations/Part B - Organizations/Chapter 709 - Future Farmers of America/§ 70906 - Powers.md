@@ -44,6 +44,8 @@ Historical and Revision Notes
 
 36:289.
 
+&nbsp;
+
 In this section, the text of 36:289 is omitted as executed and obsolete.
 
 In clause (1), the word “amend” is substituted for “alter” for consistency in the revised title. The words “not inconsistent with the laws of the United States or any State in which such corporation is to operate” are omitted as unnecessary.
@@ -52,7 +54,7 @@ In clause (2), the word “use” is omitted as unnecessary.
 
 In clause (5), the words “make contracts” are substituted for “contract and be contracted with” to eliminate unnecessary words.
 
-Clause (6) is substituted for “to take and hold by lease, gift, purchase, grant, devise, or bequest any property, real or personal, necessary for attaining the objects and accomplishing the purposes of the corporation” and “to transfer and convey real or personal property” for consistency in the revised title and to eliminate unnecessary words. The words “subject to applicable provisions of law of any State (A) governing the amount or kind of real and personal property which may be held by, or (B) otherwise limiting or controlling the ownership of real and personal property by, a corporation operating in such State” are omitted as unnecessary.
+Clause (6) is substituted for “to take and hold by lease, gift, purchase, grant, devise, or bequest any property, real or personal, necessary for attaining the objects and accomplishing the purposes of the corporation” and “to transfer and convey real or personal property” for consistency in the revised title and to eliminate unnecessary words. The words “subject to applicable provisions of law of any State (A) governing the amount or kind of real and personal property which may be held by, or (B) otherwise limiting or controllingthe ownership of real and personal property by, a corporation operating in such State” are omitted as unnecessary.
 
 In clause (7), the words “for the purposes of the corporation” are omitted as unnecessary. The words “issue instruments of indebtedness, and secure its obligations by granting security interests in its property” are substituted for “issue bonds therefor, and secure the same by mortgage” for consistency in the revised title. The words “subject to all applicable provisions of Federal or State law” are omitted as unnecessary.
 

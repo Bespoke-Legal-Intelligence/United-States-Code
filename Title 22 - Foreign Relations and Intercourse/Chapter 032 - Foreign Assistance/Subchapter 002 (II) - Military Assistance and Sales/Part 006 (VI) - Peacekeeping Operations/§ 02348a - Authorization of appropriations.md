@@ -40,11 +40,11 @@ Subsec. (c). Pub. L. 96–92, §10(c), added subsec. (c).
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
 
-#### Delegation of Functions; Allocation of Funds
+#### Delegation of Functions
 
-Functions of President under this part, except those with respect to determinations, certifications, directives, or transfers of funds under subsecs. (c) and (e) of this section, delegated to Secretary of State and funds available to President for carrying out this part allocated to Secretary by sections 1–201(a)(8), 1–701(d), and 1–801(c) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, 56678, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2411 of this title.
+This section is referred to in sections 287b, 287e–2, 2411 of this title.
 

@@ -1,0 +1,48 @@
+### §2193b. Improvement of education in technical fields: program for support of elementary and secondary education in science, mathematics, and technology
+
+(a)
+
+Authority for Program.—The Secretary of Defense may conduct a science, mathematics, and technology education improvement program known as the “Department of Defense STARBASE Program”. The Secretary shall carry out the program in coordination with the Secretaries of the military departments.
+
+(b)
+
+Purpose.—The purpose of the program is to improve knowledge and skills of students in kindergarten through twelfth grade in mathematics, science, and technology.
+
+(c)
+
+STARBASE Academies.—(1) The Secretary shall provide for the establishment of at least 25 academies under the program.
+
+(2) The Secretary of Defense shall establish guidelines, criteria, and a process for the establishment of STARBASE programs in addition to those in operation on the date of the enactment of this section.
+
+(3) The Secretary may support the establishment and operation of any academy in excess of two academies in a State only if the Secretary has first authorized in writing the establishment of the academy and the costs of the establishment and operation of the academy are paid out of funds provided by sources other than the Department of Defense. Any such costs that are paid out of appropriated funds shall be considered as paid out of funds provided by such other sources if such sources fully reimburse the United States for the costs.
+
+(d)
+
+Persons Eligible To Participate in Program.—The Secretary shall prescribe standards and procedures for selection of persons for participation in the program.
+
+(e)
+
+Regulations.—The Secretary of Defense shall prescribe regulations governing the conduct of the program.
+
+(f)
+
+Authority to Accept Financial and Other Support.—The Secretary of Defense and the Secretaries of the military departments may accept financial and other support for the program from other departments and agencies of the Federal Government, State governments, local governments, and not-for-profit and other organizations in the private sector.
+
+(g)
+
+Annual Report.—Not later than 90 days after the end of each fiscal year, the Secretary of Defense shall submit to Congress a report on the program under this section. The report shall contain a discussion of the design and conduct of the program and an evaluation of the effectiveness of the program.
+
+(h)
+
+State Defined.—In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, and Guam.
+
+(Added Pub. L. 106–65, div. A, title V, §580(a), Oct. 5, 1999, 113 Stat. 631.)
+
+#### References in Text
+
+The date of the enactment of this section, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 106–65, which was approved Oct. 5, 1999.
+
+#### Existing STARBASE Academies
+
+Pub. L. 106–65, div. A, title V, §580(b), Oct. 5, 1999, 113 Stat. 632, provided that: “While continuing in operation, the academies existing on the date of the enactment of this Act \[Oct. 5, 1999\] under the Department of Defense STARBASE Program, as such program is in effect on such date, shall be counted for the purpose of meeting the requirement under section 2193b(c)(1) of title 10, United States Code (as added by subsection (a)), relating to the minimum number of STARBASE academies.”
+

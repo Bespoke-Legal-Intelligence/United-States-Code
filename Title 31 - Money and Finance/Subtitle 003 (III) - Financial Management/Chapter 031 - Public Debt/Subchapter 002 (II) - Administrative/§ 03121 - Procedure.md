@@ -52,7 +52,7 @@
 
 (h)(1) The Secretary shall prescribe by regulation standards for the safeguarding and use of obligations issued under this chapter, and obligations otherwise issued or guaranteed as to principal or interest by the United States. Such regulations shall apply only to a depository institution that is not a government securities broker or a government securities dealer and that holds such obligations as fiduciary, custodian, or otherwise for the account of a customer and not for its own account. Such regulations shall provide for the adequate segregation of obligations so held, including obligations which are purchased or sold subject to resale or repurchase.
 
-(2) Violation of a regulation prescribed under paragraph (1) shall constitute adequate basis for the issuance of an order under section 5239(a) or (b) of the Revised Statutes (12 U.S.C. 93(a) or (b)), section 8(b) or 8(c) of the Federal DepositInsurance Act, section 5(d)(2) or 5(d)(3) <sup>1</sup> of the Home Owners’ Loan Act of 1933, section 407(e) or 407(f) <sup>1</sup> of the National Housing Act, or section 206(e) or 206(f) of the Federal Credit Union Act. Such an order may be issued with respect to a depository institution by its appropriate regulatory agency and with respect to a federally insured credit union by the National Credit Union Administration Board.
+(2) Violation of a regulation prescribed under paragraph (1) shall constitute adequate basis for the issuance of an order under section 5239(a) or (b) of the Revised Statutes (12 U.S.C. 93(a) or (b)), section 8(b) or 8(c) of the Federal Deposit Insurance Act, section 5(d)(2) or 5(d)(3) <sup>1</sup> of the Home Owners’ Loan Act of 1933, section 407(e) or 407(f) <sup>1</sup> of the National Housing Act, or section 206(e) or 206(f) of the Federal Credit Union Act. Such an order may be issued with respect to a depository institution by its appropriate regulatory agency and with respect to a federally insured credit union by the National Credit Union Administration Board.
 
 (3) Nothing in this subsection shall be construed to affect in any way the powers of such agencies under any other provision of law.
 
@@ -282,7 +282,7 @@ In general.—Except as provided in subparagraph (B), any meeting of the Treasur
 
 &emsp;&emsp;“(B)
 
-Exception.—Subparagraph (A) shall not apply with respect to any part of any meeting ofthe advisory committee in which the advisory committee—
+Exception.—Subparagraph (A) shall not apply with respect to any part of any meeting of the advisory committee in which the advisory committee—
 
 &emsp;&emsp;&emsp;“(i) discusses and debates the issues presented to the advisory committee by the Secretary of the Treasury; or
 
@@ -322,7 +322,7 @@ Removal from advisory committee for violations of this paragraph.—In addition 
 
 &emsp;&emsp;&emsp;“(i) remove a member of the advisory committee who violates a provision of this paragraph from the advisory committee and permanently bar such person from serving as a member of the advisory committee; and
 
-&emsp;&emsp;&emsp;“(ii) prohibit any director, officer, or employee of the firm of which the member referred to in clause (i) is a director, officer, or employee (at the time the member is removed from the advisory committee) from serving as a member of the advisory committee at any time during the 5-year period beginning on the date of such removal.
+&emsp;&emsp;&emsp;“(ii) prohibit any director, officer, or employee of the firm of which the member referred to in clause (i) is a director, officer, or employee (at the time the member is removed from the advisory committee) from serving as a member of theadvisory committee at any time during the 5-year period beginning on the date of such removal.
 
 “(d)
 

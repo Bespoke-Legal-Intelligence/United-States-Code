@@ -6,7 +6,7 @@
 
 (c) It is not a defense to a prosecution under this section that the person solicited could not be convicted of the crime because he lacked the state of mind required for its commission, because he was incompetent or irresponsible, or because he is immune from prosecution or is not subject to prosecution.
 
-(Added Pub. L. 98–473, title II, §1003(a), Oct. 12, 1984, 98 Stat. 2138; amended Pub. L. 99–646, §26,Nov. 10, 1986, 100 Stat. 3597; Pub. L. 103–322, title XXXIII, §330016(2)(A), Sept. 13, 1994, 108 Stat. 2148.)
+(Added Pub. L. 98–473, title II, §1003(a), Oct. 12, 1984, 98 Stat. 2138; amended Pub. L. 99–646, §26, Nov. 10, 1986, 100 Stat. 3597; Pub. L. 103–322, title XXXIII, §330016(2)(A), Sept. 13, 1994, 108 Stat. 2148.)
 
 #### Amendments
 

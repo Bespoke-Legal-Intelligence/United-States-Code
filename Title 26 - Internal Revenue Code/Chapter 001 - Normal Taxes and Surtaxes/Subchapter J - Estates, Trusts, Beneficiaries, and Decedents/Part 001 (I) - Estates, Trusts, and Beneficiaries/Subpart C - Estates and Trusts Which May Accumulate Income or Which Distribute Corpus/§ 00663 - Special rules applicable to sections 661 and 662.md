@@ -30,7 +30,7 @@ There shall not be included as amounts falling within section 661(a) or 662(a)�
 
 For the sole purpose of determining the amount of distributable net income in the application of sections 661 and 662, in the case of a single trust having more than one beneficiary, substantially separate and independent shares of different beneficiaries in the trust shall be treated as separate trusts. Rules similar to the rules of the preceding provisions of this subsection shall apply to treat substantially separate and independent shares of different beneficiaries in an estate having more than 1 beneficiary as separate estates. The existence of such substantially separate and independent shares and the manner of treatment as separate trusts or estates, including the application of subpart D, shall be determined in accordance with regulations prescribed by the Secretary.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 222; Pub. L. 91–172, title I, §101(j)(17), title III, §331(b), Dec.30, 1969, 83 Stat. 528, 598; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XIII, §§1306(a), (b), 1307(a), (b), Aug. 5, 1997, 111 Stat. 1041.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 222; Pub. L. 91–172, title I, §101(j)(17), title III, §331(b), Dec. 30, 1969, 83 Stat. 528, 598; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XIII, §§1306(a), (b), 1307(a), (b), Aug. 5, 1997, 111 Stat. 1041.)
 
 #### Amendments
 

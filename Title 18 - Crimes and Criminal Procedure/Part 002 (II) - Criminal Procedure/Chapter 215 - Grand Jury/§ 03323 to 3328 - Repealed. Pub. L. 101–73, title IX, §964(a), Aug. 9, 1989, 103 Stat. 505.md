@@ -2,7 +2,7 @@
 
 Section 3323, act June 25, 1948, ch. 645, 62 Stat. 829, related to challenging the array of grand jurors or individual grand jurors and motions to dismiss. See Rule 6(b) of the Federal Rules of Criminal Procedure, set out in the Appendix to this title.
 
-Section 3324, act June 25, 1948, ch. 645, 62 Stat. 829, related to the appointment of the grand jury foreman anddeputy foreman, oaths, affirmations and indictments, and records of jurors concurring. See Rule 6(c) of the Federal Rules of Criminal Procedure, set out in the Appendix to this title.
+Section 3324, act June 25, 1948, ch. 645, 62 Stat. 829, related to the appointment of the grand jury foreman and deputy foreman, oaths, affirmations and indictments, and records of jurors concurring. See Rule 6(c) of the Federal Rules of Criminal Procedure, set out in the Appendix to this title.
 
 Section 3325, act June 25, 1948, ch. 645, 62 Stat. 829, related to persons who may be present while the grand jury is in session, and exclusion while the jury is deliberating or voting. See Rule 6(d) of the Federal Rules of Criminal Procedure, set out in the Appendix to this title.
 

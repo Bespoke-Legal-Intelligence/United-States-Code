@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in title 18 section 1030; title 20 section 1080a; title 50 section 436.
+This subchapter is referred to in sections 6802, 6806 of this title; title 18 section 1030; title 20 section 1080a; title 50 section 436.
 
 
 ---

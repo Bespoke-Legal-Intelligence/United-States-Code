@@ -18,7 +18,7 @@
 
 &emsp;(2) the vessel or its cargo is in distress or jeopardy.
 
-(e) A Canadian vessel regularly operating on the Great Lakes or between ports on the Great Lakes and the Saint Lawrence River, with only an occasional voyage to ports in the maritime provinces of Canada in the Canadian coastal trade, is exempt from subsection (a) of this section as long as Canada permits enrolled vessels of the United States to be operated on Canadian waters of the Great Lakes under the direction of individuals licensed under section 7101 of this title.
+(e) A Canadian vessel regularly operating on the Great Lakes or between ports on the Great Lakes and the Saint Lawrence River, with only an occasional voyage to ports in the maritime provinces of Canada in the Canadian coastal trade, is exempt from subsection (a) of this section as long as Canada permits enrolled vessels of the United States to be operated on Canadianwaters of the Great Lakes under the direction of individuals licensed under section 7101 of this title.
 
 (f) A documented vessel regularly operating on the Great Lakes or between ports on the Great Lakes and the St. Lawrence River is exempt from the requirements of subsection (a) of this section.
 
@@ -40,7 +40,7 @@ Historical and Revision Notes
 
 Section 9302 sets forth the requirements for pilots on the waters of the Great Lakes under the jurisdiction of the United States or Canada.
 
-Subsection (a) requires each United States vessel sailing on register and each foreign vessel to engage a United States or Canadian registered pilot who shall direct the navigation of the vessel in designated waters of the Great Lakes or be available to direct the navigation of the vessel in undesignated waters of the Great Lakes. The President must make the designation withregard to public interest, effective use of navigable waters, marine safety, and United States foreign relations. The direction of the vessel by an authorized pilot is subject to the customary authority of the master.
+Subsection (a) requires each United States vessel sailing on register and each foreign vessel to engage a United States or Canadian registered pilot who shall direct the navigation of the vessel in designated waters of the Great Lakes or be available to direct the navigation of the vessel in undesignated waters of the Great Lakes. The President must make the designation with regard to public interest, effective use of navigable waters, marine safety, and United States foreign relations. The direction of the vessel by an authorized pilot is subject to the customary authority of the master.
 
 Subsection (b) provides that a crewmember licensed for Great Lakes navigation under section 7101 or equivalent Canadian law may serve as the pilot on undesignated waters.
 

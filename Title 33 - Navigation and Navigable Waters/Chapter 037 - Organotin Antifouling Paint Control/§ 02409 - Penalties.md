@@ -4,7 +4,7 @@
 
 (1) Any person violating section 2403 or 2404 of this title shall be assessed a civil penalty of not more than $5,000 for each offense.
 
-(2) After notice and an opportunity for a hearing, a person found by the Administrator to have violated section 2403 or 2404 of this title is liable to the United States Government for the civil penalty assessed under subsection (a) of this section. The amount of the civil penalty shall be assessed by the Administrator by written notice. In determining the amount of the penalty, the Administrator shall consider the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and other matters that justice requires.
+(2) After notice and an opportunity for a hearing, a person found by the Administrator to have violated section 2403 or 2404 of this title is liable to the United States Government for the civil penalty assessed under subsection (a) ofthis section. The amount of the civil penalty shall be assessed by the Administrator by written notice. In determining the amount of the penalty, the Administrator shall consider the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and other matters that justice requires.
 
 (3) The Administrator may compromise, modify, or remit, with or without consideration, a civil penalty assessed under this section until the assessment is referred to the Attorney General.
 

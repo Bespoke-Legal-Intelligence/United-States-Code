@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (1) Reserve must be nondiscriminatory
 
-&emsp;No reserve may be taken into account under subsection (c)(2) for post-retirement medical benefits or life insurance benefits to be provided to covered employees unless the plan meets the requirements of section 505(b) with respect to such benefits (whether or not suchrequirements apply to such plan). The preceding sentence shall not apply to any plan maintained pursuant to an agreement between employee representatives and 1 or more employers if the Secretary finds that such agreement is a collective bargaining agreement and that post-retirement medical benefits or life insurance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
+&emsp;No reserve may be taken into account under subsection (c)(2) for post-retirement medical benefits or life insurance benefits to be provided to covered employees unless the plan meets the requirements of section 505(b) with respect to such benefits (whether or not such requirements apply to such plan). The preceding sentence shall not apply to any plan maintained pursuant to an agreement between employee representatives and 1 or more employers if the Secretary finds that such agreement is a collective bargaining agreement and that post-retirement medical benefits or life insurance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
 
 #### (2) Limitation on amount of life insurance benefits
 
@@ -288,7 +288,7 @@ Pub. L. 99–514, §1851(a)(4), which directed amendment of par. (5) by substitu
 
 Subsec. (f)(7)(C), (D). Pub. L. 99–514, §1851(a)(7), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “For purposes of this paragraph, the term ‘existing excess reserve’ means the excess (if any) of—
 
-&emsp;“(i) the amount of assets set aside for purposes described in subsection (a) as of the close of the first taxable year ending after the date of the enactment of the Tax Reform Act of 1984, over
+&emsp;“(i) the amount of assets set aside for purposes described in subsection (a) as of the close of the firsttaxable year ending after the date of the enactment of the Tax Reform Act of 1984, over
 
 &emsp;“(ii) the account limit which would have applied under this section to such taxable year if this section had applied to such taxable year.”
 
@@ -310,7 +310,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Application of Section 419A(e) to Group-Term Life Insurance
 
-Section 1851(a)(3)(B) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1018(t)(2)(D), Nov. 10, 1988, 102Stat. 3587, provided that: “Subsection (e) of section 419A, section 505, and section 4976(b)(1)(B) of the Internal Revenue Code of 1954 \[now 1986\] (as amended by subparagraph (A)) shall not apply to any group-term life insurance to the extent that the amendments made by section 223(a) of the Tax Reform Act of 1984 \[section 223(a) of Pub. L. 98–369, amending section 79 of this title\] do not apply to such insurance by reason of paragraph (2) of section 223(d) of such Act \[set out as a note under section 79 of this title\].”
+Section 1851(a)(3)(B) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1018(t)(2)(D), Nov. 10, 1988, 102 Stat. 3587, provided that: “Subsection (e) of section 419A, section 505, and section 4976(b)(1)(B) of the Internal Revenue Code of 1954 \[now 1986\] (as amended by subparagraph (A)) shall not apply to any group-term life insurance to the extent that the amendments made by section 223(a) of the Tax Reform Act of 1984 \[section 223(a) of Pub. L. 98–369, amending section 79 of this title\] do not apply to such insurance by reason of paragraph (2) of section 223(d) of such Act \[set out as a note under section 79 of this title\].”
 
 #### Section Referred to in Other Sections
 

@@ -42,9 +42,9 @@ Subsec. (b). Pub. L. 87–565, §302(h)(2), struck out “to the Secretary of St
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
 
-#### Allocation of Funds
+#### Delegation of Functions
 
-Funds available to President for carrying out subsec. (b) of this section allocated to Secretary of State by section 1–801(c) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

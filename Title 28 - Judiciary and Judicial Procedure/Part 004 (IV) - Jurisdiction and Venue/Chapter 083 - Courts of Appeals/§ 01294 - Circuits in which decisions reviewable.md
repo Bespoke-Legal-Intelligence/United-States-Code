@@ -20,7 +20,7 @@ Section consolidates the venue provisions of sections 645, 864, 1356, and 1392 o
 
 Paragraph (3) of section 1141(b) of title 26, U.S.C., 1940 ed., was omitted as executed. It made such subsection applicable to all decisions of the Board of Tax Appeals (Tax Court) rendered on and after May 10, 1934.
 
-Provisions of section 225(d) of title 28, U.S.C., 1940 ed., for review of the decisions of the United States Court for China were omitted. (See reviser's note under section 411 of this title.)
+Provisions of section 225(d) of title 28, U.S.C., 1940 ed., for review of the decisions of the United States Courtfor China were omitted. (See reviser's note under section 411 of this title.)
 
 Subsection (b) rephrases and rearranges the relevant provisions of section 1141(b)(1)(2)(3) of title 26, U.S.C., 1940 ed.
 

@@ -34,7 +34,7 @@ Each State plan—
 
 In this section:
 
-&emsp;(1) The term “group health plan” has the meaning given such term in section 5000(b)(1) of the Internal Revenue Code of 1986, and includes the provision of continuation coverage by such a plan pursuant to title XXII of thePublic Health Service Act \[42 U.S.C. 300bb–1 et seq.\], section 4980B of the Internal Revenue Code of 1986, or title VI <sup>1</sup> of the Employee Retirement Income Security Act of 1974.
+&emsp;(1) The term “group health plan” has the meaning given such term in section 5000(b)(1) of the Internal Revenue Code of 1986, and includes the provision of continuation coverage by such a plan pursuant to title XXII of the Public Health Service Act \[42 U.S.C. 300bb–1 et seq.\], section 4980B of the Internal Revenue Code of 1986, or title VI <sup>1</sup> of the Employee Retirement Income Security Act of 1974.
 
 &emsp;(2) The term “cost-effective” means, as established by the Secretary, that the reduction in expenditures under this subchapter with respect to an individual who is enrolled in a group health plan is likely to be greater than the additional expenditures for premiums and cost-sharing required under this section with respect to such enrollment.
 

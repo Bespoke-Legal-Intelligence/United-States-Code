@@ -12,7 +12,7 @@ Section 901 of title 2, referred to in text, was amended by Pub. L. 105–33, ti
 
 #### Codification
 
-Section was enacted as part of the Dire Emergency Supplemental Appropriations and Transfers for Relief From the Effects of Natural Disasters, for Other Urgent Needs, and for Incremental Cost of “Operation Desert Shield/Desert Storm” Act of 1992, and not as a part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
+Section was enacted as part of the Dire Emergency Supplemental Appropriations and Transfers for ReliefFrom the Effects of Natural Disasters, for Other Urgent Needs, and for Incremental Cost of “Operation Desert Shield/Desert Storm” Act of 1992, and not as a part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ No grant may be made under this subchapter—
 
 &emsp;(1) unless application therefor is submitted to the Secretary in accordance with regulations and procedures prescribed by him;
 
-&emsp;(2) unless the application is in accordance with the comprehensive statewide historicpreservation plan which has been approved by the Secretary after considering its relationship to the comprehensive statewide outdoor recreation plan prepared pursuant to the Land and Water Conservation Fund Act of 1965 (78 Stat. 897) \[16 U.S.C. 460<i>l</i>–4 of this title\];
+&emsp;(2) unless the application is in accordance with the comprehensive statewide historic preservation plan which has been approved by the Secretary after considering its relationship to the comprehensive statewide outdoor recreation plan prepared pursuant to the Land and Water Conservation Fund Act of 1965 (78 Stat. 897) \[16 U.S.C. 460<i>l</i>–4 of this title\];
 
 &emsp;(3) for more than 60 percent of the aggregate costs of carrying out projects and programs under the administrative control of the State Historic Preservation Officer as specified in section 470a(b)(3) of this title in any one fiscal year.<sup>1</sup>
 

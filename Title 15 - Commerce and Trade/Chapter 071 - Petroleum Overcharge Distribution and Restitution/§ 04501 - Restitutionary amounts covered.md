@@ -36,7 +36,7 @@ Subject to subsections (b) and (c) of this section, the amounts covered by subse
 
 #### (e) Interest
 
-Consistent with the disbursement requirements of this chapter, the Secretary of the Treasury shall provide that amounts described in subsection (a) of this section shall earn interest at the maximum rate earned on investments of Federal trust funds by the Secretary of the Treasury in short-term and long-term securities issued by the Federal Government (including minority bank investments).
+Consistent with the disbursement requirements of this chapter, the Secretary of theTreasury shall provide that amounts described in subsection (a) of this section shall earn interest at the maximum rate earned on investments of Federal trust funds by the Secretary of the Treasury in short-term and long-term securities issued by the Federal Government (including minority bank investments).
 
 (Pub. L. 99–509, title III, §3002, Oct. 21, 1986, 100 Stat. 1881.)
 

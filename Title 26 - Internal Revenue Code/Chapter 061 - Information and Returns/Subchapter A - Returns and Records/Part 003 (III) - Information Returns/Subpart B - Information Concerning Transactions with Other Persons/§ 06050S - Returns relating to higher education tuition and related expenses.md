@@ -64,7 +64,7 @@ For purposes of this section, the terms “eligible educational institution” a
 
 #### (f) Returns which would be required to be made by 2 or more persons
 
-Except to the extent provided in regulations prescribed by the Secretary, in the case of any amount received by any person on behalf of another person, only the person first receiving such amount shall be required to make the return under subsection (a).
+Except to the extent provided in regulations prescribed by the Secretary, in the case of anyamount received by any person on behalf of another person, only the person first receiving such amount shall be required to make the return under subsection (a).
 
 #### (g) Regulations
 

@@ -62,13 +62,15 @@
 
 (e) For the purposes of subsection (a)(2) of this section, an individual who was on active duty on August 2, 1990, and who completes the requirements of a secondary school diploma (or equivalency certificate) before October 28, 1994, shall be considered to have completed such requirements within the individual's initial obligated period of active duty.
 
-(f)(1) For the purposes of this chapter, a member referred to in paragraph (2) of this subsection who serves the periods of active duty referred to in that paragraph shall be deemed to have served a continuous period of active duty the length of which is the aggregate length of the periods of active duty referred to in that paragraph.
+(f)(1) For the purposes of this chapter, a member referred to in paragraph (2) or (3) of this subsection who serves the periods of active duty referred to in that paragraph shall be deemed to have served a continuous period of active duty the length of which is the aggregate length of the periods of active duty referred to in that paragraph.
 
 (2) This subsection applies to a member who—
 
 &emsp;(A) after a period of continuous active duty of not more than 12 months, is discharged or released from active duty under subclause (I) or (III) of subsection (a)(1)(A)(ii) of this section; and
 
 &emsp;(B) after such discharge or release, reenlists or re-enters on a period of active duty.
+
+(3) This subsection applies to a member who after a period of continuous active duty as an enlisted member or warrant officer, and following successful completion of officer training school, is discharged in order to accept, without a break in service, a commission as an officer in the Armed Forces for a period of active duty.
 
 (g) Notwithstanding section 3002(6)(A) of this title, a period during which an individual is assigned full time by the Armed Forces to a civilian institution for a course of education as described in such section 3002(6)(A) shall not be considered a break in service or a break in a continuous period of active duty of the individual for the purposes of this chapter.
 
@@ -86,9 +88,9 @@
 
 &emsp;(C) re-enters on a period of active duty.
 
-(i) The Secretary concerned shall inform any member of the Armed Forces who has not completed that member's initial obligated period of active duty (as described in subsection (a)(1)(A)) and who indicates the intent to be discharged or released from such duty for the convenience of the Federal Government of the minimum active duty requirements for entitlement to educational assistance benefits under this chapter. Such information shall be provided to the member in a timely manner.
+(i) The Secretary concerned shall inform any member of the Armed Forces who has not completed that member's initial obligated period of active duty (as described in subsection (a)(1)(A)) and who indicates the intent to be discharged or released from such duty for the convenience of the Government of the minimum active duty requirements for entitlement to educational assistance benefits under this chapter. Such information shall be provided to the member in a timely manner.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2554, §1411; amended Pub. L. 99–145, title VI, §674(1), Nov. 8, 1985, 99 Stat. 665; Pub. L. 99–576, title III, §§303(a)(1), 307(a)(1), 321(1), title VII, §702(8), Oct. 28, 1986, 100 Stat. 3268, 3269, 3277, 3302; Pub. L. 100–48, §3(a), June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I, §§102(a), 103(b)(1), 104(a), 111(a)(2)(A), (3), Nov. 18, 1988, 102 Stat. 4162, 4165, 4166, 4170, 4171; Pub. L. 101–237, title IV, §§409, 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2092; Pub. L. 101–510, div. A, title V, §562(a)(1), (2), (b), Nov. 5, 1990, 104 Stat. 1573, 1574; Pub. L. 102–16, §10(a)(1), Mar. 22, 1991, 105 Stat. 55; renumbered §3011, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §§302(a)(1), 303(a)(1), 304(a), 305(a), 306(a), Oct. 29, 1992, 106 Stat. 4326–4328; Pub. L. 103–446, title XII, §1201(e)(10), (f)(2), Nov. 2, 1994, 108 Stat. 4685, 4687; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(A), Feb. 10, 1996, 110 Stat. 501; Pub. L. 104–201, div. A, title V, §556(a), Sept. 23, 1996, 110 Stat. 2528; Pub. L. 105–368, title II, §§203(a), 207(a), Nov. 11, 1998, 112 Stat. 3326, 3328.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2554, §1411; amended Pub. L. 99–145, title VI, §674(1), Nov. 8, 1985, 99 Stat. 665; Pub. L. 99–576, title III, §§303(a)(1), 307(a)(1), 321(1), title VII, §702(8), Oct. 28, 1986, 100 Stat. 3268, 3269, 3277, 3302; Pub. L. 100–48, §3(a), June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I, §§102(a), 103(b)(1), 104(a), 111(a)(2)(A), (3), Nov. 18, 1988, 102 Stat. 4162, 4165, 4166, 4170, 4171; Pub. L. 101–237, title IV, §§409, 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2092; Pub. L. 101–510, div. A, title V, §562(a)(1), (2), (b), Nov. 5, 1990, 104 Stat. 1573,1574; Pub. L. 102–16, §10(a)(1), Mar. 22, 1991, 105 Stat. 55; renumbered §3011, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §§302(a)(1), 303(a)(1), 304(a), 305(a), 306(a), Oct. 29, 1992, 106 Stat. 4326–4328; Pub. L. 103–446, title XII, §1201(e)(10), (f)(2), Nov. 2, 1994, 108 Stat. 4685, 4687; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(A), Feb. 10, 1996, 110 Stat. 501; Pub. L. 104–201, div. A, title V, §556(a), Sept. 23, 1996, 110 Stat. 2528; Pub. L. 105–368, title II, §§203(a), 207(a), Nov. 11, 1998, 112 Stat. 3326, 3328; Pub. L. 106–117, title VII, §§702(a), 704, Nov. 30, 1999, 113 Stat. 1583, 1584.)
 
 #### Prior Provisions
 
@@ -97,6 +99,12 @@ Prior section 3011 was renumbered section 5111 of this title.
 Another prior section 3011, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1227; Pub. L. 86–490, June 8, 1960, 74 Stat. 161, related to the effective date of an award of increased compensation, dependency and indemnity compensation, or pension, prior to repeal by Pub. L. 87–825, §5(a), Oct. 15, 1962, 76 Stat. 950.
 
 #### Amendments
+
+1999—Subsec. (f)(1). Pub. L. 106–117, §702(a)(1), substituted “paragraph (2) or (3)” for “paragraph (2)”.
+
+Subsec. (f)(3). Pub. L. 106–117, §702(a)(2), added par. (3).
+
+Subsec. (i). Pub. L. 106–117, §704, struck out “Federal” before “Government”.
 
 1998—Subsec. (a)(2). Pub. L. 105–368, §203(a), substituted “successfully completed (or otherwise received academic credit for)” for “successfully completed” in two places in concluding provisions.
 
@@ -169,6 +177,10 @@ Subsec. (a)(1)(B)(ii)(II). Pub. L. 99–576, §321(1)(B), inserted “continuous
 Subsec. (b). Pub. L. 99–576, §303(a)(1), substituted “Any amount by which the basic pay of an individual is reduced under this subsection shall revert to the Treasury and shall not, for purposes of any Federal law, be considered to have been received by or to be within the control of such individual” for “Amounts withheld from basic pay under this subsection shall revert to the Treasury”.
 
 1985—Subsec. (a)(1)(B). Pub. L. 99–145 struck out “and without a break in service on active duty since December 31, 1976,” after “chapter 34 of this title”.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–117, title VII, §702(c), Nov. 30, 1999, 113 Stat. 1583, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 30, 1999\] and apply with respect to an individual first appointed as a commissioned officer on or after July 1, 1985.”
 
 #### Effective Date of 1998 Amendment
 

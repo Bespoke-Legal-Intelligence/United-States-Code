@@ -66,5 +66,5 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 #### Degrees for Persons Who Graduated Before Accrediting of Military Academy
 
-Section 35 of act Aug. 10, 1956, provided in part that, under conditions prescribed by the Secretary of the Army, the Superintendent of the United States Military Academy may confer the degree of bachelor of science upon living graduates of the Academy who were graduated before the date of accrediting of the Academy and who have met the requirements of the Academy for that degree.
+Section 35 of act Aug. 10, 1956, provided in part that, under conditions prescribed by the Secretary of the Army, the Superintendent of the United States Military Academy may confer the degree of bachelor of science upon living graduates of the Academy who weregraduated before the date of accrediting of the Academy and who have met the requirements of the Academy for that degree.
 

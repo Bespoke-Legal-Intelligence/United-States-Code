@@ -18,7 +18,7 @@ In financing any forest development road pursuant to section 535 of this title, 
 
 #### (d) Authorization of harvesting
 
-In each sale of national forest timber or other forest products referred to in this section, the Secretary of Agriculture is encouraged to authorize harvest of the timber or other forest products in a unit included in the sale as soon as road work for that unit is completed and the road work is approved by the Secretary.
+In each sale of national forest timber or other forest products referred to in this section, the Secretary of Agriculture is encouraged to authorize harvest of the timber or other forestproducts in a unit included in the sale as soon as road work for that unit is completed and the road work is approved by the Secretary.
 
 #### (e) Construction standard
 

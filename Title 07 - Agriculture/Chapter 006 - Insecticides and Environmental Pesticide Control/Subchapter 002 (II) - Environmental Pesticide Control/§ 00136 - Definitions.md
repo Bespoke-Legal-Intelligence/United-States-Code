@@ -126,7 +126,7 @@ The term “insect” means any of the numerous small invertebrate animals gener
 
 &emsp;&emsp;(F) the labeling accompanying it does not contain directions for use which are necessary for effecting the purpose for which the product is intended and if complied with, together with any requirements imposed under section 136a(d) of this title, are adequate to protect health and the environment;
 
-&emsp;&emsp;(G) the label does not contain a warning or caution statement which may be necessary and if complied with, together with any requirements imposed under section 136a(d) of this title, is adequate to protect health and the environment; or
+&emsp;&emsp;(G) the label does not contain a warning or caution statement which may be necessary and if complied with, together with any requirements imposed under section 136a(d) ofthis title, is adequate to protect health and the environment; or
 
 &emsp;&emsp;(H) in the case of a pesticide not registered in accordance with section 136a of this title and intended for export, the label does not contain, in words prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or graphic matter in the labeling) as to render it likely to be noted by the ordinary individual under customary conditions of purchase and use, the following: “Not Registered for Use in the United States of America”.
 
@@ -176,7 +176,7 @@ The term “pesticide” means (1) any substance or mixture of substances intend
 
 #### (v) Plant regulator
 
-The term “plant regulator” means any substance or mixture of substances intended, through physiological action, for accelerating or retarding the rate of growth or rate of maturation, or for otherwise altering the behavior of plants or the produce thereof, but shall not include substances to the extent that they are intended as plant nutrients, trace elements, nutritional chemicals, plant inoculants, and soil amendments. Also, the term “plant regulator” shall not be required to include any of such of those nutrient mixtures or soil amendments as are commonly known as vitamin-hormone horticultural products, intended for improvement, maintenance, survival, health, and propagation of plants, and as are not for pest destruction and are nontoxic, nonpoisonous in the undiluted packaged concentration.
+The term “plant regulator” means any substance or mixture of substances intended, through physiological action, for accelerating or retarding the rate of growth or rate of maturation, or for otherwise altering the behavior of plants or the produce thereof, but shall not include substances to the extent that they are intended as plant nutrients, trace elements, nutritional chemicals, plant inoculants, and soil amendments. Also, the term “plant regulator” shall not be required to include any of such of those nutrient mixtures or soil amendments as are commonly known as vitamin-hormone horticultural products, intended for improvement, maintenance, survival, health, and propagationof plants, and as are not for pest destruction and are nontoxic, nonpoisonous in the undiluted packaged concentration.
 
 #### (w) Producer and produce
 
@@ -300,7 +300,7 @@ The term “minor use” means the use of a pesticide on an animal, on a commerc
 
 #### (3) Included products
 
-&emsp;The term “antimicrobial pesticide” does include any other chemical sterilant product (other than liquid chemical sterilant products exempt under subsection (u) of this section), any other disinfectant product, any other industrial microbiocide product, and any other preservative product that is not excluded by paragraph (2).
+&emsp;The term “antimicrobial pesticide” does include any other chemical sterilant product (other than liquid chemical sterilant products exempt under subsection (u) of this section), any other disinfectant product, any other industrial microbiocide product, and any otherpreservative product that is not excluded by paragraph (2).
 
 #### (nn) Public health pesticide
 
@@ -308,7 +308,7 @@ The term “public health pesticide” means any minor use pesticide product reg
 
 #### (<i>oo</i>) Vector
 
-The term “vector” means any organism capable of transmitting the causative agent of human disease or capable of producing humandiscomfort or injury, including mosquitoes, flies, fleas, cockroaches, or other insects and ticks, mites, or rats.
+The term “vector” means any organism capable of transmitting the causative agent of human disease or capable of producing human discomfort or injury, including mosquitoes, flies, fleas, cockroaches, or other insects and ticks, mites, or rats.
 
 (June 25, 1947, ch. 125, §2, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 975; amended Pub. L. 93–205, §13(f), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–140, §9, Nov. 28, 1975, 89 Stat. 754; Pub. L. 95–396, §1, Sept. 30, 1978, 92 Stat. 819; Pub. L. 100–532, title I, §101, title VI, §601(a), title VIII, §801(a), Oct. 25, 1988, 102 Stat. 2655, 2677, 2679; Pub. L. 102–237, title X, §1006(a)(1), (2), (b)(3)(A), (B), Dec. 13, 1991, 105 Stat. 1894, 1895; Pub. L. 104–170, title I, §§105(a), 120, title II, §§210(a), 221, 230, title III, §304, Aug. 3, 1996, 110 Stat. 1490, 1492, 1493, 1502, 1508, 1512.)
 
@@ -388,7 +388,7 @@ Subsec. (ee). Pub. L. 95–396, §1(7), added subsec. (ee).
 
 #### Effective Date of 1988 Amendment
 
-Section 901 of Pub. L. 100–532 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1988 Amendmentnote below\] shall take effect on the expiration of 60 days after the date of enactment of this Act \[Oct. 25, 1988\].”
+Section 901 of Pub. L. 100–532 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1988 Amendment note below\] shall take effect on the expiration of 60 days after the date of enactment of this Act \[Oct. 25, 1988\].”
 
 #### Effective Date of 1973 Amendment
 

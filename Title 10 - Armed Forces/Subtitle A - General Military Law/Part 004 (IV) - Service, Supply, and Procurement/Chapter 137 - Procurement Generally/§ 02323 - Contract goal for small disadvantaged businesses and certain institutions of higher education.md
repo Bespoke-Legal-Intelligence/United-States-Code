@@ -8,7 +8,7 @@ Goal.—(1) Except as provided in subsection (d), a goal of 5 percent of the amo
 
 &emsp;(B) historically Black colleges and universities, including any nonprofit research institution that was an integral part of such a college or university before November 14, 1986; and
 
-&emsp;(C) minority institutions (as defined in section 1046(3) of the Higher Education Act of 1965 (20 U.S.C. 1135d–5(3))), which, for the purposes of this section, shall include Hispanic-serving institutions (as defined in section 316(b)(1) of such Act (20 U.S.C. 1059c(b)(1))).
+&emsp;(C) minority institutions (as defined in section 1046(3) <sup>1</sup> of the Higher Education Act of 1965 (20 U.S.C. 1135d–5(3))), which, for the purposes of this section, shall include Hispanic-serving institutions (as defined in section 316(b)(1) <sup>1</sup> of such Act (20 U.S.C. 1059c(b)(1))).
 
 (2) The head of the agency shall establish a specific goal within the overall 5 percent goal for the award of prime contracts and subcontracts to historically Black colleges and universities and minority institutions in order to increase the participation of such colleges and universities in the program provided for by this section.
 
@@ -34,7 +34,7 @@ Amount.—(1) With respect to the Department of Defense, the requirements of sub
 
 Types of Assistance.—(1) To attain the goal specified in subsection (a)(1), the head of an agency shall provide technical assistance to the entities referred to in that subsection and, in the case of historically Black colleges and universities and minority institutions, shall also provide infrastructure assistance.
 
-(2) Technical assistance provided under this section shall include information about the program, advice about agency procurement procedures, instruction in preparation of proposals, and other such assistance as the head of the agency considers appropriate. If the resources of the agency are inadequate to provide such assistance, the head of the agency may enter into contracts with minority private sector entities with experience and expertise in the design, development, and delivery of technical assistance services to eligible individuals, business firmsand institutions, acquisition agencies, and prime contractors. Agency contracts with such entities shall be awarded annually, based upon, among other things, the number of minority small business concerns, historically Black colleges and universities, and minority institutions that each such entity brings into the program.
+(2) Technical assistance provided under this section shall include information about the program, advice about agency procurement procedures, instruction in preparation of proposals, and other such assistance as the head of the agency considers appropriate. If the resources of the agency are inadequate to provide such assistance, the head of the agency may enter into contracts with minority private sector entities with experience and expertise in the design, development, and delivery of technical assistance services to eligible individuals, business firms and institutions, acquisition agencies, and prime contractors. Agency contracts with such entities shall be awarded annually, based upon, among other things, the number of minority small business concerns, historically Black colleges and universities, and minority institutions that each such entity brings into the program.
 
 (3) Infrastructure assistance provided by the Department of Defense under this section to historically Black colleges and universities and to minority institutions may include programs to do the following:
 
@@ -150,7 +150,7 @@ Annual Report.—(1) Not later than December 15 of each year, the head of the ag
 
 (3) The report required under paragraph (1) shall also include the following:
 
-&emsp;(A) The aggregate differential between the fair market price of all contracts awarded pursuant to subsection (e)(3) and the estimatedfair market price of all such contracts had such contracts been entered into using full and open competitive procedures.
+&emsp;(A) The aggregate differential between the fair market price of all contracts awarded pursuant to subsection (e)(3) and the estimated fair market price of all such contracts had such contracts been entered into using full and open competitive procedures.
 
 &emsp;(B) An analysis of the impact that subsection (a) shall have on the ability of small business concerns not owned and controlled by socially and economically disadvantaged individuals to compete for contracts with the agency.
 
@@ -168,15 +168,17 @@ Definitions.—In this section:
 
 (k)
 
-Effective Date.—(1) This section applies in the Department of Defense to each of fiscal years 1987 through 2000.
+Effective Date.—(1) This section applies in the Department of Defense to each of fiscal years 1987 through 2003.
 
-(2) This section applies in the Coast Guard and the National Aeronautics and Space Administration in each of fiscal years 1995 through 2000.
+(2) This section applies in the Coast Guard and the National Aeronautics and Space Administration in each of fiscal years 1995 through 2003.
 
-(Added and amended Pub. L. 102–484, div. A, title VIII, §§801(a)(1), (b)–(f), 802, Oct. 23, 1992, 106 Stat. 2442–2444, 2446; Pub. L. 103–35, title II, §202(a)(6), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VIII, §811(a)–(c), (e), Nov. 30, 1993, 107 Stat. 1702; Pub. L. 103–355, title VII, §7105, Oct. 13, 1994, 108 Stat. 3369; Pub. L. 104–106, div. D, title XLIII, §4321(b)(8), Feb. 10, 1996, 110 Stat. 672; Pub. L. 105–135, title VI, §604(a), Dec. 2, 1997, 111 Stat. 2632; Pub. L. 105–261, div. A, title VIII, §801, Oct. 17, 1998, 112 Stat. 2080.)
+(Added and amended Pub. L. 102–484, div. A, title VIII, §§801(a)(1), (b)–(f), 802, Oct. 23, 1992, 106 Stat. 2442–2444, 2446; Pub. L. 103–35, title II, §202(a)(6), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VIII, §811(a)–(c), (e), Nov. 30, 1993, 107 Stat. 1702; Pub. L. 103–355, title VII, §7105, Oct. 13, 1994, 108 Stat. 3369; Pub. L. 104–106, div. D, title XLIII, §4321(b)(8), Feb. 10, 1996, 110 Stat. 672; Pub. L. 105–135, title VI, §604(a), Dec. 2, 1997, 111 Stat. 2632; Pub. L. 105–261, div. A, title VIII, §801, Oct. 17, 1998, 112 Stat. 2080; Pub. L. 106–65, div. A, title VIII, §808, Oct. 5, 1999, 113 Stat. 705.)
 
 #### References in Text
 
 Section 3(p) of the Small Business Act, referred to in subsecs. (a)(1)(A) and (f)(1), is classified to section 632(p) of Title 15, Commerce and Trade.
+
+Section 1046 of the Higher Education Act of 1965, referred to in subsec. (a)(1)(C), was renumbered section 365 of that act by Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1067k of Title 20, Education. Section 316 of that act was amended generally by Pub. L. 105–244, title III, §303(e), Oct. 7, 1998, 112 Stat. 1639, and, as so amended, no longer relates to Hispanic-serving institutions.
 
 Section 8(a) of the Small Business Act, referred to in subsec. (e)(3)(A), is classified to section 637(a) of Title 15, Commerce and Trade.
 
@@ -189,6 +191,8 @@ Section, as added by Pub. L. 102–484, §801(a)(1), consists of text of Pub. L.
 A prior section 2323, added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2598; amended Pub. L. 99–500, §101(c) \[title X, §926(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §926(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title IX, formerly title IV, §926(a)(1), Nov. 14, 1986, 100 Stat. 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, related to commercial pricing for spare or repair parts, prior to repeal by Pub. L. 101–510, div. A, title VIII, §804(a), Nov. 5, 1990, 104 Stat. 1591.
 
 #### Amendments
+
+1999—Subsec. (k). Pub. L. 106–65 substituted “2003” for “2000” in pars. (1) and (2).
 
 1998—Subsec. (e)(3). Pub. L. 105–261 designated existing provisions as subpar. (A), inserted “, except as provided in subparagraph (B),” after “the head of an agency may” in first sentence, and added subpar. (B).
 
@@ -280,5 +284,7 @@ Section 811(d) of Pub. L. 103–160 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2304, 2304e, 2323a of this title; title 15 section 644; title 41 section 428.
+This section is referred to in sections 2304, 2304e, 2323a of this title; title 15 section 644; title 20 section 1067k; title 41 section 428.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,0 +1,86 @@
+### §299a. General authorities
+
+#### (a) In general
+
+In carrying out section 299(b) of this title, the Director shall conduct and support research, evaluations, and training, support demonstration projects, research networks, and multidisciplinary centers, provide technical assistance, and disseminate information on health care and on systems for the delivery of such care, including activities with respect to—
+
+&emsp;(1) the quality, effectiveness, efficiency, appropriateness and value of health care services;
+
+&emsp;(2) quality measurement and improvement;
+
+&emsp;(3) the outcomes, cost, cost-effectiveness, and use of health care services and access to such services;
+
+&emsp;(4) clinical practice, including primary care and practice-oriented research;
+
+&emsp;(5) health care technologies, facilities, and equipment;
+
+&emsp;(6) health care costs, productivity, organization, and market forces;
+
+&emsp;(7) health promotion and disease prevention, including clinical preventive services;
+
+&emsp;(8) health statistics, surveys, database development, and epidemiology; and
+
+&emsp;(9) medical liability.
+
+#### (b) Health services training grants
+
+#### (1) In general
+
+&emsp;The Director may provide training grants in the field of health services research related to activities authorized under subsection (a) of this section, to include pre- and post-doctoral fellowships and training programs, young investigator awards, and other programs and activities as appropriate. In carrying out this subsection, the Director shall make use of funds made available under section 288(d)(3) of this title as well as other appropriated funds.
+
+#### (2) Requirements
+
+&emsp;In developing priorities for the allocation of training funds under this subsection, the Director shall take into consideration shortages in the number of trained researchers who are addressing health care issues for the priority populations identified in section 299(c)(1)(B) of this title and in addition, shall take into consideration indications of long-term commitment, amongst applicants for training funds, to addressing health care needs of the priority populations.
+
+#### (c) Multidisciplinary centers
+
+The Director may provide financial assistance to assist in meeting the costs of planning and establishing new centers, and operating existing and new centers, for multidisciplinary health services research, demonstration projects, evaluations, training, and policy analysis with respect to the matters referred to in subsection (a) of this section.
+
+#### (d) Relation to certain authorities regarding social security
+
+Activities authorized in this section shall be appropriately coordinated with experiments, demonstration projects, and other related activities authorized by the Social Security Act \[42 U.S.C. 301 et seq.\] and the Social Security Amendments of 1967. Activities under subsection (a)(2) of this section that affect the programs under titles XVIII, XIX and XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\] shall be carried out consistent with section 1142 of such Act \[42 U.S.C. 1320b–12\].
+
+#### (e) Disclaimer
+
+The Agency shall not mandate national standards of clinical practice or quality health care standards. Recommendations resulting from projects funded and published by the Agency shall include a corresponding disclaimer.
+
+#### (f) Rule of construction
+
+Nothing in this section shall be construed to imply that the Agency's role is to mandate a national standard or specific approach to quality measurement and reporting. In research and quality improvement activities, the Agency shall consider a wide range of choices, providers, health care delivery systems, and individual preferences.
+
+#### (g) Annual report
+
+Beginning with fiscal year 2003, the Director shall annually submit to the Congress a report regarding prevailing disparities in health care delivery as it relates to racial factors and socioeconomic factors in priority populations.
+
+(July 1, 1944, ch. 373, title IX, §902, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1654.)
+
+#### References in Text
+
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of this title. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+The Social Security Amendments of 1967, referred to in subsec. (d), is Pub. L. 90–248, Jan. 2, 1968, 81 Stat. 821, as amended. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under section 1305 of this title and Tables.
+
+#### Prior Provisions
+
+A prior section 299a, act July 1, 1944, ch. 373, title IX, §902, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2189; amended Pub. L. 101–639, §3(d), Nov. 28, 1990, 104 Stat. 4603; Pub. L. 102–410, §2(b), Oct. 13, 1992, 106 Stat. 2094, required Administrator to conduct and support research, demonstration projects, evaluations, training, guideline development, and dissemination of information on health care services and on systems for delivery of such services, prior to the general amendment of this subchapter by Pub. L. 106–129.
+
+Another prior section 299a, act July 1, 1944, ch. 373, title IX, §901, as added Oct. 6, 1965, Pub. L. 89–239, §2, 79 Stat. 926; amended Oct. 15, 1968, Pub. L. 90–574, title I, §§101, 102, 107, 82 Stat. 1005, 1006; June 30, 1970, Pub. L. 91–296, title IV, §401(b)(1)(F), 84 Stat. 352; Oct. 30, 1970, Pub. L. 91–515, title I, §103, 84 Stat. 1298; June 18, 1973, Pub. L. 93–45, title I, §110, 87 Stat. 93, authorized appropriations for grants and contracts to carry out purposes of this subchapter and set forth extent of and limitations on grants, prior to repeal by Pub. L. 99–117, §12(d), Oct. 7, 1985, 99 Stat. 495.
+
+A prior section 902 of act July 1, 1944, was classified to section 299b of this title prior to repeal by Pub. L. 99–117.
+
+Prior sections 299a–1 to 299a–3 were omitted in the general amendment of this chapter by Pub. L. 106–129.
+
+Section 299a–1, act July 1, 1944, ch. 373, title IX, §903, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2190; amended Pub. L. 102–410, §3, Oct. 13, 1992, 106 Stat. 2094; Pub. L. 103–43, title XIV, §1422(a), June 10, 1993, 107 Stat. 172, related to public dissemination of information about studies and projects. See section 299c–3 of this title.
+
+A prior section 903 of act July 1, 1944, was classified to section 299c of this title prior to repeal by Pub. L. 99–117.
+
+Section 299a–2, act July 1, 1944, ch. 373, title IX, §904, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2191; amended Pub. L. 102–410, §4(a), Oct. 13, 1992, 106 Stat. 2095; Pub. L. 103–43, title XX, §2013(1), June 10, 1993, 107 Stat. 214, related to health care technology assessment. See section 299b–5 of this title.
+
+A prior section 904 of act July 1, 1944, was classified to section 299d of this title prior to repeal by Pub. L. 99–117.
+
+Section 299a–3, act July 1, 1944, ch. 373, title IX, §905, as added Pub. L. 105–115, title IV, §409, Nov. 21, 1997, 111 Stat. 2371, established demonstration program regarding centers for education and research on therapeutics. See section 299b–1(b) of this title.
+
+#### Reducing Administrative Health Care Costs
+
+Pub. L. 103–43, title XIX, §1909, June 10, 1993, 107 Stat. 205, as amended by Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670, provided that: “The Secretary of Health and Human Services, acting through the Agency for Healthcare Research and Quality and, to the extent possible, in consultation with the Health Care Financing Administration, may fund research to develop a text-based standardized billing process, through the utilization of text-based information retrieval and natural language processing techniques applied to automatic coding and analysis of textual patient discharge summaries and other text-based electronic medical records, within a parallel general purpose (shared memory) high performance computing environment. The Secretary shall determine whether such a standardized approach to medical billing, through the utilization of the text-based hospital discharge summary as well as electronic patient records can reduce the administrative billing costs of health care delivery.”
+

@@ -10,7 +10,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 9501 of this title.
+This subchapter is referred to in sections 170, 9501 of this title.
 
 
 ---

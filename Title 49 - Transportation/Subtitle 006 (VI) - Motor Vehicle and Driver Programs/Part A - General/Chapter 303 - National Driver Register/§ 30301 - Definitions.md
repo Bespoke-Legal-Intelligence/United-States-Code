@@ -56,7 +56,7 @@ Pub. L. 105–178, title II, §2006(c), June 9, 1998, 112 Stat. 336, provided th
 
 “(1)
 
-Evaluation.—The Secretary shall evaluate the implementation of chapter 303 of title 49, United StatesCode, and the programs under sections 31106 and 31309 of such title and identify alternatives to improve the ability of the States to exchange information about unsafe drivers and to identify drivers with multiple licenses.
+Evaluation.—The Secretary shall evaluate the implementation of chapter 303 of title 49, United States Code, and the programs under sections 31106 and 31309 of such title and identify alternatives to improve the ability of the States to exchange information about unsafe drivers and to identify drivers with multiple licenses.
 
 “(2)
 

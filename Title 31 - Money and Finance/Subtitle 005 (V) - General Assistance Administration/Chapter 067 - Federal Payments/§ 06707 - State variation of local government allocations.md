@@ -10,7 +10,7 @@ State Formula.—A State government may provide by law for the allocation of amo
 
 (b)
 
-Certification.—A variation by a State government under this section may apply only ifthe Secretary certifies that the variation complies with this section. The Secretary may certify a variation only if the Secretary is notified of the variation at least 30 days before the first payment period in which the variation applies.
+Certification.—A variation by a State government under this section may apply only if the Secretary certifies that the variation complies with this section. The Secretary may certify a variation only if the Secretary is notified of the variation at least 30 days before the first payment period in which the variation applies.
 
 (Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1872.)
 

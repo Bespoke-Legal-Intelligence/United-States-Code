@@ -24,9 +24,7 @@ The following vessels shall not be required to make entry under section 1434 of 
 
 &emsp;(5) Vessels arriving in distress or for the purpose of taking on bunker coal, bunker oil, sea stores, or ship's stores and which shall depart within twenty-four hours after arrival without having landed or taken on board any passengers, or any merchandise other than bunker coal, bunker oil, sea stores, or ship's stores: <i>Provided</i>, That the master, owner, or agent of such vessel shall report under oath to the appropriate customs officer the hour and date of arrival and departure and the quantity of bunker coal, bunker oil, sea stores, or ship's stores taken on board.
 
-&emsp;(6) Tugs documented under chapter 121 of title 46 with a Great Lakes endorsement <sup>1</sup> when towing vessels which are required by law to enter and clear.
-
-(June 17, 1930, ch. 497, title IV, §441, 46 Stat. 712; Aug. 5, 1935, ch. 438, title III, §302, 49 Stat. 527; Aug. 14, 1937, ch. 620, §1, 50 Stat. 638; Sept. 1, 1954, ch. 1213, title V, §501(b), 68 Stat. 1140; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 98–573, title II, §204, Oct. 30, 1984, 98 Stat. 2974; Pub. L. 103–182, title VI, §655, Dec. 8, 1993, 107 Stat. 2210; Pub. L. 104–295, §21(e)(5), Oct. 11, 1996, 110 Stat. 3530.)
+(June 17, 1930, ch. 497, title IV, §441, 46 Stat. 712; Aug. 5, 1935, ch. 438, title III, §302, 49 Stat. 527; Aug. 14, 1937, ch. 620, §1, 50 Stat. 638; Sept. 1, 1954, ch. 1213, title V, §501(b), 68 Stat. 1140; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 98–573, title II, §204, Oct. 30, 1984, 98 Stat. 2974; Pub. L. 103–182, title VI, §655, Dec. 8, 1993, 107 Stat. 2210; Pub. L. 104–295, §21(e)(5), Oct. 11, 1996, 110 Stat. 3530; Pub. L. 106–36, title I, §1001(b)(10), June 25, 1999, 113 Stat. 132.)
 
 #### References in Text
 
@@ -34,13 +32,13 @@ The customs laws of the United States, referred to in pars. (3)(A) and (4)(A), a
 
 The navigation laws of the United States, referred to in pars. (3)(A) and (4)(A), are classified generally to Title 33, Navigation and Navigable Waters.
 
-Tugs documented under chapter 121 of title 46 with a Great Lakes endorsement, referred to in par. (6), probably means tugs documented with a Great Lakes endorsement pursuant to section 12107 of Title 46, Shipping, which was repealed by Pub. L. 104–324, title XI, §1115(a), Oct. 19, 1996, 110 Stat. 3972.
-
 #### Prior Provisions
 
-Provisions somewhat similar to those in par. (1) of this section were contained in R.S. §2791. R.S. §3123 provided that steam-tugs duly enrolled and licensed to engage in the foreign and coasting trade on the northern, northeastern, and northwestern frontiers of the United States, when exclusively employed in towing vessels, should not be required to report and clear at the custom-house but that when employed in towing rafts or other vessels without sale or steam motive-power, not required to be enrolled or licensed they should report and clear in the same manner as other vessels. Both sections were superseded and more closely assimilated to this section by act Sept. 21, 1922, ch. 356,title IV, §441, 42 Stat. 952, and repealed by section 642 thereof. Section 441 of the 1922 act was superseded by section 441 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions somewhat similar to those in par. (1) of this section were contained in R.S. §2791. R.S. §3123 provided that steam-tugs duly enrolled and licensed to engage in the foreign and coasting trade on the northern, northeastern, and northwestern frontiers of the United States, when exclusively employed in towing vessels, should not be required to report and clear at the custom-house but that when employed in towing rafts or other vessels without sale or steam motive-power, not required to be enrolled or licensed they should report and clear in the same manner as other vessels. Both sections were superseded and more closely assimilated to this section by act Sept. 21, 1922, ch. 356, title IV, §441, 42 Stat. 952, and repealed by section 642 thereof. Section 441 of the 1922 act was superseded by section 441 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
+
+1999—Par. (6). Pub. L. 106–36 struck out par. (6) which read as follows: “Tugs documented under chapter 121 of title 46 with a Great Lakes endorsement when towing vessels which are required by law to enter and clear.”
 
 1996—Pars. (1), (2), (4), (5). Pub. L. 104–295 substituted period for semicolon at end of pars. (1), (2), and (4) and substituted period for “; and” at end of par. (5).
 
@@ -77,6 +75,4 @@ Section 2 of act Aug. 14, 1937, provided as follows: “The amendment made by th
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1448 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

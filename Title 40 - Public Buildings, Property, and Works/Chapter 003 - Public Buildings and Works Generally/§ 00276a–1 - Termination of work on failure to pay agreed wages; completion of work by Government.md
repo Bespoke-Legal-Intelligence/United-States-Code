@@ -6,5 +6,5 @@ Every contract within the scope of sections 276a to 276a–5 of this title shall
 
 #### Enforcement of Labor Standards
 
-Labor standards under provisions of this section to be prescribed and enforced by Secretary of Labor, see Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176,64 Stat. 1267, set out in the Appendix to Title 5, Government Organization and Employees.
+Labor standards under provisions of this section to be prescribed and enforced by Secretary of Labor, see Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, set out in the Appendix to Title 5, Government Organization and Employees.
 

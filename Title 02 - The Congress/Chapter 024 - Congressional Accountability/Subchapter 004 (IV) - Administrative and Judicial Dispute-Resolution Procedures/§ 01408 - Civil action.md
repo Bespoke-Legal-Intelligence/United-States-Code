@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction
 
-The district courts of the United States shall have jurisdiction over any civil action commenced under section 1404 of this title and this section by a covered employee who has completed counseling under section 1402 of this titleand mediation under section 1403 of this title. A civil action may be commenced by a covered employee only to seek redress for a violation for which the employee has completed counseling and mediation.
+The district courts of the United States shall have jurisdiction over any civil action commenced under section 1404 of this title and this section by a covered employee who has completed counseling under section 1402 of this title and mediation under section 1403 of this title. A civil action may be commenced by a covered employee only to seek redress for a violation for which the employee has completed counseling and mediation.
 
 #### (b) Parties
 

@@ -2,7 +2,7 @@
 
 #### (a) General requirements
 
-Each local educational agency that receives a grant under this subpart shall use the grant funds, in a manner consistent with the purpose specified in section 7811 of this title, for services and activities that—
+Each local educational agency that receives a grant under this subpart shall use the grantfunds, in a manner consistent with the purpose specified in section 7811 of this title, for services and activities that—
 
 &emsp;(1) are designed to carry out the comprehensive plan of the local educational agency for Indian students, and described in the application of the local educational agency submitted to the Secretary under section 7814(b) of this title;
 
@@ -46,7 +46,7 @@ The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to 
 
 #### Amendments
 
-1998—Subsec. (b)(5). Pub. L. 105–332, which directed substitution of “Carl D. Perkins Vocational and Technical Education Act of 1998” for “Carl D. Perkins Vocational and Technical Education Act”, was executed bymaking the substitution for “Carl D. Perkins Vocational and Applied Technology Education Act” to reflect the probable intent of Congress.
+1998—Subsec. (b)(5). Pub. L. 105–332, which directed substitution of “Carl D. Perkins Vocational and Technical Education Act of 1998” for “Carl D. Perkins Vocational and Technical Education Act”, was executed by making the substitution for “Carl D. Perkins Vocational and Applied Technology Education Act” to reflect the probable intent of Congress.
 
 #### Section Referred to in Other Sections
 

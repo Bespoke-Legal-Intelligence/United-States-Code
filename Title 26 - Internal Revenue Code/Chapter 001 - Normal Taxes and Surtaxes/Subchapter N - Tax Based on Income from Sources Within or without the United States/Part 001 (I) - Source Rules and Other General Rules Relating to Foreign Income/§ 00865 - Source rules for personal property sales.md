@@ -60,7 +60,7 @@ In the case of income derived from the sale of inventory property—
 
 #### (B) Depreciation adjustments
 
-&emsp;&emsp;The term “depreciation adjustments” means adjustments reflected in the adjusted basis of any property on account of depreciation deductions (whether allowed with respect to such property or other property andwhether allowed to the taxpayer or to any other person).
+&emsp;&emsp;The term “depreciation adjustments” means adjustments reflected in the adjusted basis of any property on account of depreciation deductions (whether allowed with respect to such property or other property and whether allowed to the taxpayer or to any other person).
 
 #### (C) Depreciation deductions
 
@@ -130,7 +130,7 @@ If—
 
 &emsp;(3) more than 50 percent of the gross income of such affiliate for the 3-year period ending with the close of such affiliate's taxable year immediately preceding the year in which the sale occurred was derived from the active conduct of a trade or business in such foreign country,
 
-> any gain from such sale shall be sourced outside the United States. For purposes of paragraphs (2) and (3), the United States resident may elect to treat an affiliate and all other corporations which are wholly owned (directly or indirectly) by the affiliate as one corporation.
+> any gain from such sale shall be sourced outside the United States. For purposes of paragraphs\(2) and (3), the United States resident may elect to treat an affiliate and all other corporations which are wholly owned (directly or indirectly) by the affiliate as one corporation.
 
 #### (g) United States resident; nonresident
 
@@ -158,7 +158,7 @@ For purposes of this section—
 
 #### (2) Special rules for United States citizens and resident aliens
 
-&emsp;For purposes of this section, a United States citizen or resident alien shall not be treated asa nonresident with respect to any sale of personal property unless an income tax equal to at least 10 percent of the gain derived from such sale is actually paid to a foreign country with respect to that gain.
+&emsp;For purposes of this section, a United States citizen or resident alien shall not be treated as a nonresident with respect to any sale of personal property unless an income tax equal to at least 10 percent of the gain derived from such sale is actually paid to a foreign country with respect to that gain.
 
 #### (3) Special rule for certain stock sales by residents of Puerto Rico
 
@@ -208,7 +208,7 @@ For purposes of this section—
 
 #### (1) Inventory property
 
-&emsp;The term “inventory property” means personal property described in paragraph (1) of section 1221.
+&emsp;The term “inventory property” means personal property described in paragraph (1) of section 1221(a).
 
 #### (2) Sale includes exchange
 
@@ -242,9 +242,11 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;&emsp;<b>(2) For sourcing of income from certain foreign currency transactions, see section 988.</b>
 
-(Added Pub. L. 99–514, title XII, §1211(a), Oct. 22, 1986, 100 Stat. 2533; amended Pub. L. 100–647, title I, §1012(d)(1)–(6), (8), (9), (11), (12), Nov. 10, 1988, 102 Stat. 3497–3499; Pub. L. 101–508, title XI, §11813(b)(18), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 103–66, title XIII, §13239(c), Aug. 10, 1993, 107 Stat. 509; Pub. L. 104–188, title I, §1704(f)(4)(A), Aug. 20, 1996, 110 Stat. 1880.)
+(Added Pub. L. 99–514, title XII, §1211(a), Oct. 22, 1986, 100 Stat. 2533; amended Pub. L. 100–647, title I, §1012(d)(1)–(6), (8), (9), (11), (12), Nov. 10, 1988, 102 Stat. 3497–3499; Pub. L. 101–508, title XI, §11813(b)(18), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 103–66, title XIII, §13239(c), Aug. 10, 1993, 107 Stat. 509; Pub. L. 104–188, title I, §1704(f)(4)(A), Aug. 20, 1996, 110 Stat. 1880; Pub. L. 106–170, title V, §532(c)(1)(E), Dec. 17, 1999, 113 Stat. 1930.)
 
 #### Amendments
+
+1999—Subsec. (i)(1). Pub. L. 106–170 substituted “section 1221(a)” for “section 1221”.
 
 1996—Subsec. (b)(2). Pub. L. 104–188 substituted “863” for “863(b)”.
 
@@ -296,6 +298,10 @@ Subsec. (j)(3). Pub. L. 100–647, §1012(d)(6)(B), added par. (3) to subsec. (i
 
 Subsec. (k). Pub. L. 100–647, §1012(d)(8), redesignated former subsec. (j) as (k).
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Section 1704(f)(4)(B) of Pub. L. 104–188 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendments made by section 1211 of the Tax Reform Act of 1986 \[Pub. L. 99–514\].”
@@ -328,7 +334,7 @@ Special rule for foreign persons.—In the case of any foreign person other than
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

@@ -6,7 +6,7 @@ In the performance of, and with respect to, the functions, powers, and duties, v
 
 &emsp;(1) prescribe such regulations as may be necessary to carry out the purposes of this part, including regulations applicable to third party servicers (including regulations concerning financial responsibility standards for, and the assessment of liabilities for program violations against, such servicers) to establish minimum standards with respect to sound management and accountability of programs under this part, except that in no case shall damages be assessed against the United States for the actions or inactions of such servicers;
 
-&emsp;(2) sue and be sued in any court of record of a State having general jurisdiction or in any district court of the United States, and such district courts shall have jurisdiction of civil actions arising under this part without regard to the amount in controversy, and action instituted under this subsection by or against the Secretary shall survive notwithstanding any change in the person occupying the office of Secretary or any vacancy in that office; but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Secretary or property under the Secretary's control and nothing herein shall be construed to except litigation arising out of activities under this part from the application of sections 509, 517, 547, and 2679 of title 28;
+&emsp;(2) sue and be sued in any court of record of a State having general jurisdiction or in any district court of the United States, and such district courts shall have jurisdiction of civil actions arising under this part without regard to the amount in controversy, and action instituted under this subsection by or against the Secretary shall survive notwithstandingany change in the person occupying the office of Secretary or any vacancy in that office; but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Secretary or property under the Secretary's control and nothing herein shall be construed to except litigation arising out of activities under this part from the application of sections 509, 517, 547, and 2679 of title 28;
 
 &emsp;(3) include in any contract for Federal loan insurance such terms, conditions, and covenants relating to repayment of principal and payment of interest, relating to the Secretary's obligations and rights to those of eligible lenders, and borrowers in case of default, and relating to such other matters as the Secretary determines to be necessary to assure that the purposes of this part will be achieved; and any term, condition, and covenant made pursuant to this paragraph or pursuant to any other provision of this part may be modified by the Secretary, after notice and opportunity for a hearing, if the Secretary finds that the modification is necessary to protect the United States from the risk of unreasonable loss;
 
@@ -56,7 +56,7 @@ The Secretary shall, with respect to the financial operations arising by reason 
 
 &emsp;&emsp;(B) receiving claims for payments under section 1080(a) of this title, examining those claims, and pursuant to regulations of the Secretary, approving claims for payment, or requiring lenders to take additional collection action as a condition for payment of claims; and
 
-&emsp;&emsp;(C) certifying to the central office when collection of defaulted loans has been completed, compromising or agreeing to the modification of any Federal claim against a borrower (pursuant to regulations of the Secretary issued under subsection (a) of this section), and recommending litigation with respect to any such claim.
+&emsp;&emsp;(C) certifying to the central office when collection of defaulted loans has been completed, compromising or agreeing to the modification of any Federal claim against aborrower (pursuant to regulations of the Secretary issued under subsection (a) of this section), and recommending litigation with respect to any such claim.
 
 #### (e) Use of information on borrowers
 
@@ -120,7 +120,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (6) Compromise
 
-&emsp;Until a matter is referred to the Attorney General, any civil penalty under paragraph (1) of this subsection may be compromised by the Secretary. In determining the amount of such penalty, or the amount agreed upon in compromise, the Secretary shall consider the appropriateness of the penalty to the resources of the lender or guaranty agency subject to the determination; the gravity of the violation, failure, or substantial misrepresentation; the frequency and persistence of the violation, failure, or substantial misrepresentation; and the amount of any losses resulting from the violation, failure, or substantial misrepresentation. The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the lender or agency charged, unless the lender or agency has, in the case of a final agency determination, commenced proceedings for judicial review within 90 days of the determination, in which case the deduction may not be made during the pendency of the proceeding.
+&emsp;Until a matter is referred to the Attorney General, any civil penalty under paragraph (1)of this subsection may be compromised by the Secretary. In determining the amount of such penalty, or the amount agreed upon in compromise, the Secretary shall consider the appropriateness of the penalty to the resources of the lender or guaranty agency subject to the determination; the gravity of the violation, failure, or substantial misrepresentation; the frequency and persistence of the violation, failure, or substantial misrepresentation; and the amount of any losses resulting from the violation, failure, or substantial misrepresentation. The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the lender or agency charged, unless the lender or agency has, in the case of a final agency determination, commenced proceedings for judicial review within 90 days of the determination, in which case the deduction may not be made during the pendency of the proceeding.
 
 #### (h) Authority of the Secretary to impose and enforce limitations, suspensions, and terminations
 
@@ -196,7 +196,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 &emsp;If the Secretary—
 
-&emsp;&emsp;(A) receives information, determined by the Secretary to be reliable, that a lender is violating any provision of this subchapter and part C of subchapter I of chapter 34 of title 42, any regulation prescribed under thissubchapter and part C of subchapter I of chapter 34 of title 42, or any applicable special arrangement, agreement, or limitation;
+&emsp;&emsp;(A) receives information, determined by the Secretary to be reliable, that a lender is violating any provision of this subchapter and part C of subchapter I of chapter 34 of title 42, any regulation prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, or any applicable special arrangement, agreement, or limitation;
 
 &emsp;&emsp;(B) determines that immediate action is necessary to prevent misuse of Federal funds; and
 
@@ -278,7 +278,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, in cooperation with representatives of guaranty agencies, eligiblelenders, and organizations involved in student financial assistance, shall prescribe common application forms and promissory notes, or master promissory notes, to be used for applying for loans under this part.
+&emsp;&emsp;The Secretary, in cooperation with representatives of guaranty agencies, eligible lenders, and organizations involved in student financial assistance, shall prescribe common application forms and promissory notes, or master promissory notes, to be used for applying for loans under this part.
 
 #### (B) Requirements
 
@@ -398,7 +398,7 @@ Subsec. (p). Pub. L. 105–244, §427(e), struck out “State postsecondary revi
 
 &emsp;“(1) prepare annually and submit a budget program as provided for wholly owned Government corporations by chapter 91 of title 31; and
 
-&emsp;“(2) maintain with respect to insurance under this part an integral set of accounts and prepare financial statements in accordance with generally accepted accounting principles, which shall be audited annually by the General Accounting Office in conformity with generally accepted Government auditing standardsexcept that the transactions of the Secretary, including the settlement of insurance claims and of claims for payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government.”
+&emsp;“(2) maintain with respect to insurance under this part an integral set of accounts and prepare financial statements in accordance with generally accepted accounting principles, which shall be audited annually by the General Accounting Office in conformity with generally accepted Government auditing standards except that the transactions of the Secretary, including the settlement of insurance claims and of claims for payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government.”
 
 1993—Subsec. (h)(2)(A), (3)(A). Pub. L. 103–208 amended directory language of Pub. L. 102–325, §425(d)(1). See 1992 Amendment notes below.
 

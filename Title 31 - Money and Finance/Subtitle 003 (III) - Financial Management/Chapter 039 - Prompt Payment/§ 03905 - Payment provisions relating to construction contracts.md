@@ -38,7 +38,7 @@
 
 &emsp;(1) furnish to the subcontractor a notice conforming to the standards of subsection (g) of this section as soon as practicable upon ascertaining the cause giving rise to a withholding, but prior to the due date for subcontractor payment;
 
-&emsp;(2) furnish to the Government, as soon as practicable, a copy of the notice furnished tothe subcontractor pursuant to paragraph (1) of this subsection;
+&emsp;(2) furnish to the Government, as soon as practicable, a copy of the notice furnished to the subcontractor pursuant to paragraph (1) of this subsection;
 
 &emsp;(3) reduce the subcontractor's progress payment by an amount not to exceed the amount specified in the notice of withholding furnished under paragraph (1) of this subsection;
 

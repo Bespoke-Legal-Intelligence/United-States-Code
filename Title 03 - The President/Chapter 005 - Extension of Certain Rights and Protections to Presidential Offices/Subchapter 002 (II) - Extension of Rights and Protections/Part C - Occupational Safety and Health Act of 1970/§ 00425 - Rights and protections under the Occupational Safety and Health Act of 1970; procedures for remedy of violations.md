@@ -34,7 +34,7 @@ Citations, notices, and notifications.—The Secretary of Labor shall have the a
 
 &emsp;&emsp;(A) a citation or notice to any employing office responsible for correcting a violation of subsection (a); or
 
-&emsp;&emsp;(B) a notification to any employing office that the Secretary of Labor believes hasfailed to correct a violation for which a citation has been issued within the period permitted for its correction.
+&emsp;&emsp;(B) a notification to any employing office that the Secretary of Labor believes has failed to correct a violation for which a citation has been issued within the period permitted for its correction.
 
 &emsp;(3)
 

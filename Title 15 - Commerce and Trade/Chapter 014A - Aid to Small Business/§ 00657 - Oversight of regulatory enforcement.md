@@ -10,7 +10,7 @@ For purposes of this section, the term—
 
 #### (b) SBA Enforcement Ombudsman
 
-(1) Not later than 180 days after March 29, 1996, the Administrator shall designate a Small Business and Agriculture Regulatory Enforcement Ombudsman, who shall report directly to theAdministrator, utilizing personnel of the Small Business Administration to the extent practicable. Other agencies shall assist the Ombudsman and take actions as necessary to ensure compliance with the requirements of this section. Nothing in this section is intended to replace or diminish the activities of any Ombudsman or similar office in any other agency.
+(1) Not later than 180 days after March 29, 1996, the Administrator shall designate a Small Business and Agriculture Regulatory Enforcement Ombudsman, who shall report directly to the Administrator, utilizing personnel of the Small Business Administration to the extent practicable. Other agencies shall assist the Ombudsman and take actions as necessary to ensure compliance with the requirements of this section. Nothing in this section is intended to replace or diminish the activities of any Ombudsman or similar office in any other agency.
 
 (2) The Ombudsman shall—
 

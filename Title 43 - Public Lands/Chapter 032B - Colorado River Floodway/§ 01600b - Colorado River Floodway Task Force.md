@@ -2,7 +2,7 @@
 
 #### (a) Establishment and membership
 
-To advise the Secretary and the Congress there shall be a Colorado River Floodway Task Force, which shall include one representative of—
+To advise the Secretary and the Congress there shall be a Colorado River Floodway TaskForce, which shall include one representative of—
 
 &emsp;(1) each State (appointed by the Governor) and Indian reservation in which the Floodway is located;
 

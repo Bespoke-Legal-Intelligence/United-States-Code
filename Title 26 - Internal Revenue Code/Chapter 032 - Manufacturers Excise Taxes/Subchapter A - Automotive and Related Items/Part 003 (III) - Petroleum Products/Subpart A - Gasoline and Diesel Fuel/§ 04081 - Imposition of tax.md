@@ -86,7 +86,7 @@ Under regulations prescribed by the Secretary—
 
 #### (A) Alcohol
 
-&emsp;&emsp;The term “alcohol” includes methanol and ethanol but does not include alcohol produced from petroleum, natural gas, or coal (including peat). Such term does not includealcohol with a proof of less than 190 (determined without regard to any added denaturants).
+&emsp;&emsp;The term “alcohol” includes methanol and ethanol but does not include alcohol produced from petroleum, natural gas, or coal (including peat). Such term does not include alcohol with a proof of less than 190 (determined without regard to any added denaturants).
 
 #### (B) Qualified alcohol mixture
 
@@ -162,7 +162,7 @@ Under regulations prescribed by the Secretary—
 
 Under regulations prescribed by the Secretary, if any person who paid the tax imposed by this section with respect to any taxable fuel establishes to the satisfaction of the Secretary that a prior tax was paid (and not credited or refunded) with respect to such taxable fuel, then an amount equal to the tax paid by such person shall be allowed as a refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 483; Mar. 30, 1955, ch. 18, §3(a)(3), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(3), 70 Stat. 66; June 29, 1956, ch. 462, title II, §205, 70 Stat. 389; Pub. L. 86–342, title II, §201(a), Sept. 21, 1959, 73 Stat. 613; Pub. L. 87–61, title II, §201(b)–(d), June 29, 1961, 75 Stat. 123, 124; Pub. L. 91–605, title III, §303(a)(6), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(6), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §502(a)(5), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 95–618, title II, §221(a)(1), Nov. 9, 1978, 92 Stat. 3185; Pub. L. 96–223, title II, §232(a)(1), (b)(3)(A), (d)(3), Apr. 2, 1980, 94 Stat. 273, 276, 277; Pub. L. 97–424, title V, §§511(a)(1), (d)(1), 516(a)(3), Jan. 6, 1983, 96 Stat. 2169, 2171, 2182; Pub. L. 98–369, div. A, title VII, §732(a)(1), (2), title IX, §912(b), (f), July 18, 1984, 98 Stat. 976, 977, 1007; Pub. L. 99–499, title V, §521(a)(1), Oct. 17, 1986, 100 Stat. 1774; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2774; Pub. L. 100–17, title V, §502(a)(4), (c)(2), Apr. 2, 1987, 101 Stat. 256, 257; Pub. L. 100–203, title X, §10502(d)(2), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 100–647, title I, §1017(c)(1), (14), title II, §2001(d)(5), title VI, §6104(a), Nov. 10, 1988, 102 Stat. 3575, 3577, 3595, 3711; Pub. L.101–508, title XI, §§11211(a)(1)–(3), (5)(A)–(C), (c)(3), (e)(3), 11212(a), (d)(1), (e)(2), 11215(a), Nov. 5, 1990, 104 Stat. 1388–423, 1388–424, 1388–426, 1388–427, 1388–430, 1388–432, 1388–436; Pub. L. 102–240, title VIII, §8002(a)(3), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 102–486, title XIX, §1920(a), (b), Oct. 24, 1992, 106 Stat. 3026; Pub. L. 103–66, title XIII, §§13241(a), 13242(a), Aug. 10, 1993, 107 Stat. 510, 514; Pub. L. 104–188, title I, §1609(a)(2), (g)(1), (2), (4)(B), Aug. 20, 1996, 110 Stat. 1841–1843; Pub. L. 105–2, §2(a)(2), Feb. 28, 1997, 111 Stat. 4; Pub. L. 105–34, title X, §§1031(a)(2), 1032(b), 1033, Aug. 5, 1997, 111 Stat. 929, 933, 937; Pub. L. 105–178, title IX, §§9002(a)(1)(F), 9003(a)(1)(C), (b)(2)(B), (C), June 9, 1998, 112 Stat. 499, 502, 503.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 483; Mar. 30, 1955, ch. 18, §3(a)(3), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(3), 70 Stat. 66; June 29, 1956, ch. 462, title II, §205, 70 Stat. 389; Pub. L. 86–342, title II, §201(a), Sept. 21, 1959, 73 Stat. 613; Pub. L. 87–61, title II, §201(b)–(d), June 29, 1961, 75 Stat. 123, 124; Pub. L. 91–605, title III, §303(a)(6), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(6), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §502(a)(5), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 95–618, title II, §221(a)(1), Nov. 9, 1978, 92 Stat. 3185; Pub. L. 96–223, title II, §232(a)(1), (b)(3)(A), (d)(3), Apr. 2, 1980, 94 Stat. 273, 276, 277; Pub. L. 97–424, title V, §§511(a)(1), (d)(1), 516(a)(3), Jan. 6, 1983, 96 Stat. 2169, 2171, 2182; Pub. L. 98–369, div. A, title VII, §732(a)(1), (2), title IX, §912(b), (f), July 18, 1984, 98 Stat. 976, 977, 1007; Pub. L. 99–499, title V, §521(a)(1), Oct. 17, 1986, 100 Stat. 1774; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2774; Pub. L. 100–17, title V, §502(a)(4), (c)(2), Apr. 2, 1987, 101 Stat. 256, 257; Pub. L. 100–203, title X, §10502(d)(2), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 100–647, title I, §1017(c)(1), (14), title II, §2001(d)(5), title VI, §6104(a), Nov. 10, 1988, 102 Stat. 3575, 3577, 3595, 3711; Pub. L. 101–508, title XI, §§11211(a)(1)–(3), (5)(A)–(C), (c)(3), (e)(3), 11212(a), (d)(1), (e)(2), 11215(a), Nov. 5, 1990, 104 Stat. 1388–423, 1388–424, 1388–426, 1388–427, 1388–430, 1388–432, 1388–436; Pub. L. 102–240, title VIII, §8002(a)(3), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 102–486, title XIX, §1920(a), (b), Oct. 24, 1992, 106 Stat. 3026; Pub. L. 103–66, title XIII, §§13241(a), 13242(a), Aug. 10, 1993, 107 Stat. 510, 514; Pub. L. 104–188, title I, §1609(a)(2), (g)(1), (2), (4)(B), Aug. 20, 1996, 110 Stat. 1841–1843; Pub. L. 105–2, §2(a)(2), Feb. 28, 1997, 111 Stat. 4; Pub. L. 105–34, title X, §§1031(a)(2), 1032(b), 1033, Aug. 5, 1997, 111 Stat. 929, 933, 937; Pub. L. 105–178, title IX, §§9002(a)(1)(F), 9003(a)(1)(C), (b)(2)(B), (C), June 9, 1998, 112 Stat. 499, 502, 503.)
 
 #### Amendment of Section
 
@@ -240,7 +240,7 @@ Subsec. (c)(4). Pub. L. 102–486, §1920(b)(2), substituted heading for one whi
 
 1991—Subsec. (d)(1). Pub. L. 102–240 substituted “1999” for “1995”.
 
-1990—Subsec. (a)(1). Pub. L. 101–508, §11212(a), substituted heading for one which read: “In general” andamended text generally. Prior to amendment, text read as follows: “There is hereby imposed a tax at the rate specified in paragraph (2) on the earlier of—
+1990—Subsec. (a)(1). Pub. L. 101–508, §11212(a), substituted heading for one which read: “In general” and amended text generally. Prior to amendment, text read as follows: “There is hereby imposed a tax at the rate specified in paragraph (2) on the earlier of—
 
 &emsp;“(A) the removal, or
 
@@ -482,7 +482,7 @@ Due date for deposit of taxes imposed by this section which would be required to
 
 #### Delayed Deposits of Airport Trust Fund Tax Revenues
 
-Due date for deposit of taxes imposed by subsec. (a)(2)(A)(ii) of this section which would be required to be made after July 31, 1998, and before Oct. 1, 1998, to be Oct. 5, 1998, see section 1031(g) of Pub. L. 105–34, set out as a note under section 6302 of this title.
+Due date for deposit of taxes imposed by subsec. (a)(2)(A)(ii) of this section which would be required tobe made after July 31, 1998, and before Oct. 1, 1998, to be Oct. 5, 1998, see section 1031(g) of Pub. L. 105–34, set out as a note under section 6302 of this title.
 
 #### Floor Stocks Taxes
 
@@ -584,7 +584,7 @@ Liability for tax and method of payment.—
 
 &emsp;“(A)
 
-Liability for tax.—A person holding, on the tax effective date, any aviation liquid to which thetax imposed by paragraph (1) applies shall be liable for such tax.
+Liability for tax.—A person holding, on the tax effective date, any aviation liquid to which the tax imposed by paragraph (1) applies shall be liable for such tax.
 
 &emsp;“(B)
 
@@ -822,7 +822,7 @@ Other Laws Applicable.—All provisions of law, including penalties, applicable 
 
 Section 11211(j) of Pub. L. 101–508 imposed a floor stocks tax on (A) gasoline and diesel fuel on which tax was imposed under section 4081 or 4091 of this title before Dec. 1, 1990, and which was held on such date by any person, or (B) diesel fuel on which no tax was imposed under section 4091 of this title at the Highway Trust Fund financing rate before Dec. 1, 1990, and which was held on such date by any person for use as fuel in a train.
 
-Section 1703(f) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1017(c)(13), title II, §2001(d)(4), Nov. 10, 1988, 102 Stat. 3577, 3595, imposed a floor stocks tax at the rate of 9.1 cents per gallon on gasoline subject to tax under section 4081 of this title which, on Jan. 1, 1988, was held by a dealer for sale, and with respect to which no tax had been imposed under such section.
+Section 1703(f) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1017(c)(13), title II, §2001(d)(4), Nov.10, 1988, 102 Stat. 3577, 3595, imposed a floor stocks tax at the rate of 9.1 cents per gallon on gasoline subject to tax under section 4081 of this title which, on Jan. 1, 1988, was held by a dealer for sale, and with respect to which no tax had been imposed under such section.
 
 #### Study of Evasion of Gasoline Tax
 
@@ -872,5 +872,5 @@ Floor stocks refunds, see section 6412 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40, 4041, 4042, 4082, 4091, 4093, 4101, 4103, 4221, 6206, 6412, 6416, 6420, 6421, 6427, 9502, 9503, 9508 of this title; title 10 section 2398; title 46 section 13106.
+This section is referred to in sections 40, 4041, 4042, 4082, 4091, 4093, 4101, 4103, 4221, 6206, 6412, 6416, 6420, 6421, 6427, 9502, 9503, 9508 of this title; title 10 section 2398.
 

@@ -94,7 +94,7 @@ For effective date of amendment by section 506(a) of Pub. L. 94–566, see secti
 
 #### Effective Date
 
-Section applicable with respect to certifications of State laws for 1972 and subsequent years, but only withrespect to service performed after Dec. 31, 1971, see section 104(d)(1) of Pub. L. 91–373, set out as a note under section 3304 of this title.
+Section applicable with respect to certifications of State laws for 1972 and subsequent years, but only with respect to service performed after Dec. 31, 1971, see section 104(d)(1) of Pub. L. 91–373, set out as a note under section 3304 of this title.
 
 #### Section Referred to in Other Sections
 

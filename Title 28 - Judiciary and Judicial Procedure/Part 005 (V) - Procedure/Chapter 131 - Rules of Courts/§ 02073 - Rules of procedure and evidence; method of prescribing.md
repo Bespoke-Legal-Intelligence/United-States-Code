@@ -8,7 +8,7 @@
 
 (c)(1) Each meeting for the transaction of business under this chapter by any committee appointed under this section shall be open to the public, except when the committee so meeting, in open session and with a majority present, determines that it is in the public interest that all or part of the remainder of the meeting on that day shall be closed to the public, and states the reason for so closing the meeting. Minutes of each meeting for the transaction of business under this chapter shall be maintained by the committee and made available to the public, except that any portion of such minutes, relating to a closed meeting and made available to the public, may contain such deletions as may be necessary to avoid frustrating the purposes of closing the meeting.
 
-(2) Any meeting for the transaction of business under this chapter, by a committee appointed under this section, shall be preceded by sufficient notice to enable all interested persons to attend.
+(2) Any meeting for the transaction of business under this chapter, by a committee appointedunder this section, shall be preceded by sufficient notice to enable all interested persons to attend.
 
 (d) In making a recommendation under this section or under section 2072 or 2075, the body making that recommendation shall provide a proposed rule, an explanatory note on the rule, and a written report explaining the body's action, including any minority or other separate views.
 

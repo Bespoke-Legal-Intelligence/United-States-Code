@@ -8,7 +8,7 @@ In this chapter:
 
 &emsp;&emsp;(B) a civilian employee of the Department of Defense or an employee of a contractor of the Department of Defense who serves in direct support of, or accompanies, the armed forces in the field under orders and who is in a missing status.
 
-> &emsp;Such term includes an unaccounted for person described in section 1509(b) of this title, under the circumstances specified in the last sentence of section 1509(a) <sup>1</sup> of this title.
+> &emsp;Such term includes an unaccounted for person described in section 1509(b) of this title who is required by section 1509(a)(1) of this title to be considered a missing person.
 
 &emsp;(2) The term “missing status” means the status of a missing person who is determined to be absent in a category of any of the following:
 
@@ -54,9 +54,11 @@ In this chapter:
 
 &emsp;(8) The term “theater component commander” means, with respect to any of the combatant commands, an officer of any of the armed forces who (A) is commander of all forces of that armed force assigned to that combatant command, and (B) is directly subordinate to the commander of the combatant command.
 
-(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 350; amended Pub. L. 104–201, div. A, title V, §578(a)(4), (b)(3), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(4), (b)(2), Nov. 18, 1997, 111 Stat. 1768.)
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 350; amended Pub. L. 104–201, div. A, title V, §578(a)(4), (b)(3), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(4), (b)(2), Nov. 18, 1997, 111 Stat. 1768; Pub. L. 106–65, div. A, title X, §1066(a)(15), Oct. 5, 1999, 113 Stat. 771.)
 
 #### Amendments
+
+1999—Par. (1). Pub. L. 106–65 substituted “who is required by section 1509(a)(1) of this title to be considered a missing person” for “, under the circumstances specified in the last sentence of section 1509(a) of this title” in concluding provisions.
 
 1997—Par. (1). Pub. L. 105–85, §599(a)(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘missing person’ means a member of the armed forces on active duty who is in a missing status.”
 

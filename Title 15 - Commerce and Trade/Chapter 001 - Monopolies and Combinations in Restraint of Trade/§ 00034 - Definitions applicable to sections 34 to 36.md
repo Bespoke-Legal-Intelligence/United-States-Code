@@ -8,7 +8,7 @@ For purposes of sections 34 to 36 of this title—
 
 &emsp;&emsp;(B) a school district, sanitary district, or any other special function governmental unit established by State law in one or more States,
 
-&emsp;(2) the term “person” has the meaning given it in subsection (a) of the first section of theClayton Act \[15 U.S.C. 12(a)\], but does not include any local government as defined in paragraph (1) of this section, and
+&emsp;(2) the term “person” has the meaning given it in subsection (a) of the first section of the Clayton Act \[15 U.S.C. 12(a)\], but does not include any local government as defined in paragraph (1) of this section, and
 
 &emsp;(3) the term “State” has the meaning given it in section 4G(2) of the Clayton Act (15 U.S.C. 15g(2)).
 

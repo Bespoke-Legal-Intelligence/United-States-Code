@@ -14,7 +14,7 @@
 
 &emsp;(3) A transfer under section 12213, 12214, 14514, or 14515 of this title.
 
-&emsp;(4) A separation of an officer who is in an inactive status in the Standby Reserve and whois not qualified for transfer to the Retired Reserve or is qualified for transfer to the Retired Reserve and does not apply for such a transfer.
+&emsp;(4) A separation of an officer who is in an inactive status in the Standby Reserve and who is not qualified for transfer to the Retired Reserve or is qualified for transfer to the Retired Reserve and does not apply for such a transfer.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(i)(1), Oct. 5, 1994, 108 Stat. 2997; amended Pub. L. 105–85, div. A, title V, §516, Nov. 18, 1997, 111 Stat. 1733; Pub. L. 105–261, div. A, title X, §1069(a)(8), Oct. 17, 1998, 112 Stat. 2136.)
 

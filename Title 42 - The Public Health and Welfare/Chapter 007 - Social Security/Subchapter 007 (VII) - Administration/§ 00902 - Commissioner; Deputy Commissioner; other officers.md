@@ -34,7 +34,7 @@
 
 #### (c) Chief Actuary
 
-(1) There shall be in the Administration a Chief Actuary, who shall be appointed by, and indirect line of authority to, the Commissioner. The Chief Actuary shall be appointed from individuals who have demonstrated, by their education and experience, superior expertise in the actuarial sciences. The Chief Actuary shall serve as the chief actuarial officer of the Administration, and shall exercise such duties as are appropriate for the office of the Chief Actuary and in accordance with professional standards of actuarial independence. The Chief Actuary may be removed only for cause.
+(1) There shall be in the Administration a Chief Actuary, who shall be appointed by, and in direct line of authority to, the Commissioner. The Chief Actuary shall be appointed from individuals who have demonstrated, by their education and experience, superior expertise in the actuarial sciences. The Chief Actuary shall serve as the chief actuarial officer of the Administration, and shall exercise such duties as are appropriate for the office of the Chief Actuary and in accordance with professional standards of actuarial independence. The Chief Actuary may be removed only for cause.
 
 (2) The Chief Actuary shall be compensated at the highest rate of basic pay for the Senior Executive Service under section 5382(b) of title 5.
 
@@ -106,7 +106,7 @@ Report by Secretary.—Not later than January 1, 1993, the Secretary shall submi
 
 “(d)
 
-GAO Report.—The Comptroller General of the United States shall review the level of telephone access by the public to the local offices of the Social Security Administration. The Comptroller General shall file an interim report with the Committee on Ways and Means of the House of Representatives and the Committee onFinance of the Senate describing such level of telephone access not later than 120 days after the date of the enactment of this Act \[Nov. 5, 1990\] and shall file a final report with such Committees describing such level of access not later than 210 days after such date.
+GAO Report.—The Comptroller General of the United States shall review the level of telephone access by the public to the local offices of the Social Security Administration. The Comptroller General shall file an interim report with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate describing such level of telephone access not later than 120 days after the date of the enactment of this Act \[Nov. 5, 1990\] and shall file a final report with such Committees describing such level of access not later than 210 days after such date.
 
 “(e)
 
@@ -122,7 +122,7 @@ Pub. L. 98–21, title III, §338, Apr. 20, 1983, 97 Stat. 132, as amended by Pu
 
 #### Earnings Sharing Implementation Report
 
-Pub. L. 98–21, title III, §343, Apr. 20, 1983, 97 Stat. 136, directed Secretary of Health and Human Services to develop, in consultation with Committee on Finance of the Senate and Committee on Ways and Means of the House of Representatives, proposals for earnings sharing legislation (i.e., proposals that combined earnings of a husband and wife during period of their marriage be divided equally and shared between them for social security benefit purposes) and report such proposals to such committees not later than July 1, 1984.
+Pub. L. 98–21, title III, §343, Apr. 20, 1983, 97 Stat. 136, directed Secretary of Health and Human Services to develop, in consultation with Committee on Finance of the Senate and Committee on Ways and Means of the House of Representatives, proposals for earnings sharing legislation (i.e., proposals that combined earnings of a husband and wife during period of their marriagebe divided equally and shared between them for social security benefit purposes) and report such proposals to such committees not later than July 1, 1984.
 
 #### Universal Coverage of Social Security Programs; Study and Report to President and Congress Respecting Scope, Alternatives, etc.; Consultation by Secretary
 

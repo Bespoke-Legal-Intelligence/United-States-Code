@@ -328,7 +328,7 @@ In this chapter:
 
 #### (50) Vocational education
 
-&emsp;The term “vocational education” has the meaning given the term in section 2471 <sup>1</sup> of title 20.
+&emsp;The term “vocational education” has the meaning given the term in section 2471 <sup>2</sup> of title 20.
 
 #### (51) Workforce investment activity
 
@@ -372,5 +372,5 @@ For provisions relating to transition from authority under the Job Training Part
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 705 of this title; title 20 sections 9202, 9272.
+This section is referred to in section 705 of this title; title 20 sections 9202, 9272; title 42 sections 603, 9908.
 

@@ -6,7 +6,7 @@ The Congress hereby finds and declares that the purpose of this subchapter is to
 
 #### (b) Loans; obligations of development companies
 
-The Administration is authorized to make loans to State development companies to assist in carrying out the purposes of this chapter. Any funds advanced under this subsection shall be in exchange for obligations of the development company which bear interest at such rate, and contain such other terms, as the Administration may fix, and funds may be so advanced without regard to the use and investment by thedevelopment company of funds secured by it from other sources.
+The Administration is authorized to make loans to State development companies to assist in carrying out the purposes of this chapter. Any funds advanced under this subsection shall be in exchange for obligations of the development company which bear interest at such rate, and contain such other terms, as the Administration may fix, and funds may be so advanced without regard to the use and investment by the development company of funds secured by it from other sources.
 
 #### (c) Maximum loans to development companies
 
@@ -30,21 +30,25 @@ In order to qualify for assistance under this subchapter, the development compan
 
 &emsp;&emsp;(D) rural development,
 
-&emsp;&emsp;(E) enhanced economic competition, including the advancement of technology, plan retooling, conversion to robotics, or competition with imports,
+&emsp;&emsp;(E) expansion of small business concerns owned and controlled by veterans, as defined in section 632(q) of this title, especially service-disabled veterans, as defined in such section 632(q) of this title,
 
-&emsp;&emsp;(F) changes necessitated by Federal budget cutbacks, including defense related industries, or
+&emsp;&emsp;(F) enhanced economic competition, including the advancement of technology, plan retooling, conversion to robotics, or competition with imports,
 
-&emsp;&emsp;(G) business restructuring arising from Federally mandated standards or policies affecting the environment or the safety and health of employees.
+&emsp;&emsp;(G) changes necessitated by Federal budget cutbacks, including defense related industries, or
 
-> If eligibility is based upon the criteria set forth in paragraph (2) or (3), the project need not meet the job creation or job preservation criteria developed by the Administration if the overall portfolio of the development company meets or exceeds such job creation or retention criteria.
+&emsp;&emsp;(H) business restructuring arising from Federally mandated standards or policies affecting the environment or the safety and health of employees.
 
-(Pub. L. 85–699, title V, §501, Aug. 21, 1958, 72 Stat. 696; Pub. L. 100–590, title I, §115(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997; Pub. L. 101–574, title II, §214(a), (b), Nov. 15, 1990, 104 Stat. 2821.)
+> If eligibility is based upon the criteria set forth in paragraph (2) or (3), the project need not meetthe job creation or job preservation criteria developed by the Administration if the overall portfolio of the development company meets or exceeds such job creation or retention criteria.
+
+(Pub. L. 85–699, title V, §501, Aug. 21, 1958, 72 Stat. 696; Pub. L. 100–590, title I, §115(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997; Pub. L. 101–574, title II, §214(a), (b), Nov. 15, 1990, 104 Stat. 2821; Pub. L. 106–50, title IV, §405, Aug. 17, 1999, 113 Stat. 246.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in subsec. (b), see References in Text note set out under section 661 of this title.
 
 #### Amendments
+
+1999—Subsec. (d)(3)(E)–(H). Pub. L. 106–50 added subpar. (E) and redesignated former subpars. (E) to (G) as (F) to (H), respectively.
 
 1990—Subsec. (a). Pub. L. 101–574, §214(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Congress hereby finds and declares that the purpose of this subchapter is to foster economic development in both urban and rural areas by providing long term financing for small business concerns through the development company program authorized by this subchapter. In order to carry out this objective, the Administration is hereby directed to place greater emphasis on the needs of rural areas and the promotion of the development company program in such areas, and is further directed to develop a plan for greater outreach of procurement and export trade seminars in such areas. As used in this subchapter, the term ‘rural areas’ means those localities with populations of less than 20,000.”
 

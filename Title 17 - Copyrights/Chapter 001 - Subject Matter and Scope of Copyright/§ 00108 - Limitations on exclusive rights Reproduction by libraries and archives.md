@@ -14,7 +14,7 @@
 
 &emsp;(2) any such copy or phonorecord that is reproduced in digital format is not otherwise distributed in that format and is not made available to the public in that format outside the premises of the library or archives.
 
-(c) The right of reproduction under this section applies to three copies or phonorecords of a published work duplicated solely for the purpose of replacement of a copy or phonorecord that is damaged, deteriorating, lost, or stolen, or if the existing format in which the work is stored has become obsolete, if—
+(c) The right of reproduction under this section applies to three copies or phonorecords of a published work duplicated solely for the purposeof replacement of a copy or phonorecord that is damaged, deteriorating, lost, or stolen, or if the existing format in which the work is stored has become obsolete, if—
 
 &emsp;(1) the library or archives has, after a reasonable effort, determined that an unused replacement cannot be obtained at a fair price; and
 
@@ -38,7 +38,7 @@
 
 &emsp;(1) shall be construed to impose liability for copyright infringement upon a library or archives or its employees for the unsupervised use of reproducing equipment located on its premises: <i>Provided</i>, That such equipment displays a notice that the making of a copy may be subject to the copyright law;
 
-&emsp;(2) excuses a person who uses such reproducing equipment or who requests a copy or phonorecord under subsection (d) from liability for copyright infringement for any suchact, or for any later use of such copy or phonorecord, if it exceeds fair use as provided by section 107;
+&emsp;(2) excuses a person who uses such reproducing equipment or who requests a copy or phonorecord under subsection (d) from liability for copyright infringement for any such act, or for any later use of such copy or phonorecord, if it exceeds fair use as provided by section 107;
 
 &emsp;(3) shall be construed to limit the reproduction and distribution by lending of a limited number of copies and excerpts by a library or archives of an audiovisual news program, subject to clauses (1), (2), and (3) of subsection (a); or
 
@@ -122,7 +122,7 @@ The National Commission on New Technological Uses of Copyrighted Works (CONTU) o
 
 <b>Works Excluded.</b> Subsection (h) provides that the rights of reproduction and distribution under this section do not apply to a musical work, a pictorial, graphic or sculptural work, or a motion picture or other audiovisual work other than “an audiovisual work dealing with news.” The latter term is intended as the equivalent in meaning of the phrase “audiovisual news program” in section 108(f)(3). The exclusions under subsection (h) do not apply to archival reproduction under subsection (b), to replacement of damaged or lost copies or phonorecords under subsection (c), or to “pictorial or graphic works published as illustrations, diagrams, or similar adjuncts to works of which copies are reproduced or distributed in accordance with subsections (d) and (e).”
 
-Although subsection (h) generally removes musical, graphic, and audiovisual works from the specific exemptions of section 108, it is important to recognize that the doctrine of fair use under section 107 remains fully applicable to the photocopying or other reproduction of such works. In the case of music, for example, it would be fair use for a scholar doing musicological research to have a library supply a copy of a portion of a score or to reproduce portions of a phonorecord of a work. Nothing in section 108 impairs the applicability of the fair use doctrine to a wide variety of situations involving photocopying or other reproduction by a library of copyrighted material in its collections, where the user requests the reproduction for legitimate scholarly or research purposes.
+Although subsection (h) generally removes musical, graphic, and audiovisual works from the specific exemptions of section 108, it is important to recognize that the doctrine of fair use under section 107 remains fully applicable to the photocopying or other reproduction of such works. In the case of music, for example, it would be fair use for a scholar doing musicological research to have a library supply a copy of a portion of a score or to reproduce portions of a phonorecord of a work. Nothing in section 108 impairs the applicability of the fair use doctrine to a wide variety of situations involving photocopying or other reproduction by a library of copyrighted material in its collections, wherethe user requests the reproduction for legitimate scholarly or research purposes.
 
 #### Amendments
 
@@ -156,7 +156,7 @@ Subsecs. (h), (i). Pub. L. 105–298 added subsec. (h) and redesignated former s
 
 Pub. L. 105–304, title IV, §407, Oct. 28, 1998, 112 Stat. 2905, provided that: “Except as otherwise provided in this title \[enacting section 4001 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 112, 114, 701, and 801 to 803 of this title, section 5314 of Title 5, Government Organization and Employees, and section 3 of Title 35, Patents, and enacting provisions set out as notes under sections 112 and 114 of this title\], this title and the amendments made by this title shall take effect on the date of the enactment of this Act \[Oct. 28, 1998\].”
 
-Pub. L. 105–298, title I, §106, Oct. 27, 1998, 112 Stat. 2829, provided that: “This title \[amending this section and sections 203 and 301 to 304 of this title, enacting provisions set out as a note under section 101 of this title, and amending provisions set out as notes undersections 101 and 304 of this title\] and the amendments made by this title shall take effect on the date of the enactment of this Act \[Oct. 27, 1998\].”
+Pub. L. 105–298, title I, §106, Oct. 27, 1998, 112 Stat. 2829, provided that: “This title \[amending this section and sections 203 and 301 to 304 of this title, enacting provisions set out as a note under section 101 of this title, and amending provisions set out as notes under sections 101 and 304 of this title\] and the amendments made by this title shall take effect on the date of the enactment of this Act \[Oct. 27, 1998\].”
 
 #### Cross References
 

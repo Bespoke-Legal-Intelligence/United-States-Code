@@ -22,7 +22,7 @@ The Secretary of the Interior is authorized, in the name of the United States, t
 
 #### (f) Contracts by Bureau
 
-Subject to the provisions of this chapter, the Bureau is authorized, in the name of the UnitedStates, to negotiate and enter into such contracts, agreements, and arrangements as it shall find necessary or appropriate to carry out the purposes of this chapter.
+Subject to the provisions of this chapter, the Bureau is authorized, in the name of the United States, to negotiate and enter into such contracts, agreements, and arrangements as it shall find necessary or appropriate to carry out the purposes of this chapter.
 
 (May 18, 1938, ch. 250, §2, 52 Stat. 404; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 

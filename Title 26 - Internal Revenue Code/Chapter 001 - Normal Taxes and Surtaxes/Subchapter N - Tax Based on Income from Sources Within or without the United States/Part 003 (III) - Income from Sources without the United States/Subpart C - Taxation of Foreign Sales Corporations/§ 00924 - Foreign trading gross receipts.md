@@ -26,7 +26,7 @@ Except as otherwise provided in this section, for purposes of this subpart, the 
 
 &emsp;Except as provided in paragraph (2)—
 
-&emsp;&emsp;(A) a FSC shall be treated as having foreign trading gross receipts for the taxable year only if the management of such corporation during such taxable year takes place outside the United States as required by subsection (c), and
+&emsp;&emsp;(A) a FSC shall be treated as having foreign trading gross receipts for the taxableyear only if the management of such corporation during such taxable year takes place outside the United States as required by subsection (c), and
 
 &emsp;&emsp;(B) a FSC has foreign trading gross receipts from any transaction only if economic processes with respect to such transaction take place outside the United States as required by subsection (d).
 
@@ -146,7 +146,7 @@ Amendment by section 1876(<i>l</i>) of Pub. L. 99–514 effective, except as oth
 
 #### Effective Date
 
-Section applicable to transactions after Dec. 31, 1984, in taxable years ending after such date, with a specialrule for application of subsecs. (c) and (d) for certain contracts, see section 805(a)(1) and (2) of Pub. L. 98–369, set out as a note under section 921 of this title.
+Section applicable to transactions after Dec. 31, 1984, in taxable years ending after such date, with a special rule for application of subsecs. (c) and (d) for certain contracts, see section 805(a)(1) and (2) of Pub. L. 98–369, set out as a note under section 921 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

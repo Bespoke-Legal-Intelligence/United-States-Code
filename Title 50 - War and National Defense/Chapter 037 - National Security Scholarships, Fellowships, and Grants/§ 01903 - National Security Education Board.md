@@ -54,7 +54,7 @@ The Board shall perform the following functions:
 
 &emsp;(8) Review the administration of the program required under this chapter.
 
-(Pub. L. 102–183, title VIII, §803, Dec. 4, 1991, 105 Stat. 1273; Pub. L. 102–496, title IV, §404(d), Oct. 24, 1992, 106 Stat. 3186; Pub. L. 104–201, div. A,title X, §1078(e), Sept. 23, 1996, 110 Stat. 2666; Pub. L. 105–272, title III, §305(a)(3), (b), Oct. 20, 1998, 112 Stat. 2401; Pub. L. 105–277, div. G, title XIII, §1335(g), Oct. 21, 1998, 112 Stat. 2681–788.)
+(Pub. L. 102–183, title VIII, §803, Dec. 4, 1991, 105 Stat. 1273; Pub. L. 102–496, title IV, §404(d), Oct. 24, 1992, 106 Stat. 3186; Pub. L. 104–201, div. A, title X, §1078(e), Sept. 23, 1996, 110 Stat. 2666; Pub. L. 105–272, title III, §305(a)(3), (b), Oct. 20, 1998, 112 Stat. 2401; Pub. L. 105–277, div. G, title XIII, §1335(g), Oct. 21, 1998, 112 Stat. 2681–788.)
 
 #### Amendments
 

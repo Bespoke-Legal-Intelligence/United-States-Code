@@ -6,7 +6,7 @@ United States active participation in international financial institution activi
 
 #### (b) Effect of country adjustment programs; minimization of projected adverse impacts; avoidance of government subsidization
 
-The Secretary of the Treasury shall instruct the representatives of the United States to the international financial institutions described in subsection (d) of this section to take into account in their review of loans, credits, or other utilization of the resources of their respective institutions, the effect that country adjustment programs would have upon individual industry sectors and international commodity markets in order to—
+The Secretary of the Treasury shall instruct the representatives of the United States to theinternational financial institutions described in subsection (d) of this section to take into account in their review of loans, credits, or other utilization of the resources of their respective institutions, the effect that country adjustment programs would have upon individual industry sectors and international commodity markets in order to—
 
 &emsp;(1) minimize any projected adverse impacts on such sector or markets of making such loans, credits, or utilization of resources; and
 

@@ -2,7 +2,7 @@
 
 #### (a) Appointment and supervision
 
-Unless otherwise prescribed by the Secretary, the Commissioner of Internal Revenue is authorized to employ such number of persons as the Commissioner deems proper for the administration and enforcement of the internal revenue laws, and the Commissioner shall issue all necessary directions, instructions, orders, and rules applicable to such persons.
+Unless otherwise prescribed by the Secretary, the Commissioner of Internal Revenue is authorized to employ such number of persons as the Commissioner deems proper for the administration and enforcement of the internal revenuelaws, and the Commissioner shall issue all necessary directions, instructions, orders, and rules applicable to such persons.
 
 #### (b) Posts of duty of employees in field service or traveling
 
@@ -18,7 +18,7 @@ Unless otherwise prescribed by the Secretary—
 
 #### (c) Delinquent Internal Revenue officers and employees
 
-If any officer or employee of the Treasury Department acting in connection with the internalrevenue laws fails to account for and pay over any amount of money or property collected or received by him in connection with the internal revenue laws, the Secretary shall issue notice and demand to such officer or employee for payment of the amount which he failed to account for and pay over, and, upon failure to pay the amount demanded within the time specified in such notice, the amount so demanded shall be deemed imposed upon such officer or employee and assessed upon the date of such notice and demand, and the provisions of chapter 64 and all other provisions of law relating to the collection of assessed taxes shall be applicable in respect of such amount.
+If any officer or employee of the Treasury Department acting in connection with the internal revenue laws fails to account for and pay over any amount of money or property collected or received by him in connection with the internal revenue laws, the Secretary shall issue notice and demand to such officer or employee for payment of the amount which he failed to account for and pay over, and, upon failure to pay the amount demanded within the time specified in such notice, the amount so demanded shall be deemed imposed upon such officer or employee and assessed upon the date of such notice and demand, and the provisions of chapter 64 and all other provisions of law relating to the collection of assessed taxes shall be applicable in respect of such amount.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 916; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–206, title I, §1104(a), July 22, 1998, 112 Stat. 710.)
 
@@ -94,7 +94,7 @@ In general.—The Commissioner of Internal Revenue may take a personnel action o
 
 &emsp;“(2)
 
-Discretion.—The exercise of authority under paragraph (1) shall be at the sole discretion of the Commissioner of Internal Revenue and may not be delegated to any other officer. The Commissioner of Internal Revenue, in his sole discretion, may establish a procedure which will be used to determine whether an individual should be referred to the Commissioner of Internal Revenue for a determination by the Commissioner under paragraph (1).
+Discretion.—The exercise of authority under paragraph (1) shall be at the sole discretion of the Commissioner of Internal Revenue and may not bedelegated to any other officer. The Commissioner of Internal Revenue, in his sole discretion, may establish a procedure which will be used to determine whether an individual should be referred to the Commissioner of Internal Revenue for a determination by the Commissioner under paragraph (1).
 
 &emsp;“(3)
 
@@ -158,9 +158,11 @@ Pub. L. 104–168, title XII, §1211, July 30, 1996, 110 Stat. 1474, provided th
 
 #### Taxpayers’ Rights, Courtesy and Cross-Cultural Relations Training
 
-Pub. L. 105–277, div. A, §101(h) \[title I, §102\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–488, provided that: “The Internal Revenue Service shall maintain a training program to ensure that Internal Revenue Service employees are trained in taxpayers’ rights, in dealing courteously with the taxpayers, and in cross-cultural relations.”
+Pub. L. 106–58, title I, §102, Sept. 29, 1999, 113 Stat. 437, provided that: “The Internal Revenue Service shall maintain a training program to ensure that Internal Revenue Service employees are trained in taxpayers’ rights, in dealing courteously with the taxpayers, and in cross-cultural relations.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–277, div. A, §101(h) \[title I, §102\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–488.
 
 Pub. L. 105–61, title I, §102, Oct. 10, 1997, 111 Stat. 1281.
 
@@ -230,7 +232,7 @@ Findings.—The Congress hereby finds that—
 
 &emsp;“(4) Increased funding should be provided for compilation and analysis of statistics of income and research.
 
-> The Internal Revenue Service must issue a report on the extent of the tax gap and the measures that couldbe undertaken to decrease the tax gap. The report must utilize more current data than has been utilized recently. The report must be issued by April 15, 1989. The Internal Revenue Service must also report annually on the improvements being made in the audit rate, taxpayer assistance, and enforcement efforts.”
+> The Internal Revenue Service must issue a report on the extent of the tax gap and the measures that could be undertaken to decrease the tax gap. The report must utilize more current data than has been utilized recently. The report must be issued by April 15, 1989. The Internal Revenue Service must also report annually on the improvements being made in the audit rate, taxpayer assistance, and enforcement efforts.”
 
 #### Tax Counseling for the Elderly
 

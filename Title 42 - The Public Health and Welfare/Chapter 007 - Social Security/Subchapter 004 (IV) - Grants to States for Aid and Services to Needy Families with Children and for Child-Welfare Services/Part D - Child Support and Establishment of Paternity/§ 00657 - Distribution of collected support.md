@@ -72,7 +72,7 @@ Subject to subsections (e) and (f) of this section, an amount collected on behal
 
 #### (bb) Reimbursement of governments for assistance provided to the family
 
-&emsp;&emsp;&emsp;&emsp;&emsp;After the application of clause (i)(II)(aa) and division (aa) with respectto the amount so collected, the State shall retain the State share of the amount so collected, and pay to the Federal Government the Federal share (as defined in subsection (c)(2) of this section) of the amount so collected, but only to the extent necessary to reimburse amounts paid to the family as assistance by the State.
+&emsp;&emsp;&emsp;&emsp;&emsp;After the application of clause (i)(II)(aa) and division (aa) with respect to the amount so collected, the State shall retain the State share of the amount so collected, and pay to the Federal Government the Federal share (as defined in subsection (c)(2) of this section) of the amount so collected, but only to the extent necessary to reimburse amounts paid to the family as assistance by the State.
 
 #### (cc) Distribution of the remainder to the family
 
@@ -112,7 +112,7 @@ Subject to subsections (e) and (f) of this section, an amount collected on behal
 
 &emsp;&emsp;(B) whether early implementation of a pre-assistance arrearage program by some States has been effective in moving people off of welfare and keeping them off of welfare;
 
-&emsp;&emsp;(C) what the overall impact has been of the amendments made by the Personal Responsibility and Work Opportunity Act of 1996 with respect to child support enforcement in moving people off of welfare and keeping them off of welfare; and
+&emsp;&emsp;(C) what the overall impact has been of the amendments made by the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 with respect to child support enforcement in moving people off of welfare and keeping them off of welfare; and
 
 &emsp;&emsp;(D) based on the information and data the Secretary has obtained, what changes, if any, should be made in the policies related to the distribution of child support arrearages.
 
@@ -152,9 +152,17 @@ As used in subsection (a) of this section:
 
 &emsp;The term “State share” means 100 percent minus the Federal share.
 
-#### (d) Hold harmless provision
+#### (d) Hold-harmless provision
 
-If the amounts collected which could be retained by the State in the fiscal year (to the extent necessary to reimburse the State for amounts paid to families as assistance by the State) are less than the State share of the amounts collected in fiscal year 1995 (determined in accordance with this section as in effect on the day before August 22, 1996), the State share for the fiscal year shall be an amount equal to the State share in fiscal year 1995.
+If—
+
+&emsp;(1) the State share of amounts collected in the fiscal year which could be retained to reimburse the State for amounts paid to families as assistance by the State is less than the State share of such amounts collected in fiscal year 1995 (determined in accordance with this section as in effect on August 21, 1996); and
+
+&emsp;(2)(A) the State has distributed to families that include an adult receiving assistance under the program under part A of this subchapter at least 80 percent of the current support payments collected during the preceding fiscal year on behalf of such families, and the amounts distributed were disregarded in determining the amount or type of assistance provided under the program under part A of this subchapter; or
+
+&emsp;(B) the State has distributed to families that formerly received assistance under the program under part A of this subchapter the State share of the amounts collected pursuant to section 664 of this title that could have been retained as reimbursement for assistance paid to such families,
+
+> then the State share otherwise determined for the fiscal year shall be increased by an amount equal to one-half of the amount (if any) by which the State share for fiscal year 1995 exceeds the State share for the fiscal year (determined without regard to this subsection).
 
 #### (e) Gap payments not subject to distribution under this section
 
@@ -172,19 +180,37 @@ Notwithstanding the preceding provisions of this section, amounts collected by a
 
 > and any balance shall be paid to the State agency responsible for supervising the placement of the child, for use by such agency in accordance with paragraph (2).
 
-(Aug. 14, 1935, ch. 531, title IV, §457, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2356; amended Pub. L. 95–171, §11, Nov. 12, 1977, 91 Stat. 1357; Pub. L. 97–35, title XXIII, §2332(e), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2640(b), July 18, 1984, 98 Stat. 1145; Pub. L. 98–378, §§7(a), 11(a), Aug. 16, 1984, 98 Stat. 1315, 1317; Pub. L. 99–514, title XVIII, §§1883(b)(6), 1899(a), Oct. 22, 1986, 100 Stat. 2917, 2957; Pub. L. 100–203, title IX, §9141(a)(1), Dec. 22, 1987, 101 Stat. 1330–321; Pub. L. 100–485, title I, §102(b), Oct. 13, 1988, 102 Stat. 2346; Pub. L. 104–193, title III, §302(a), Aug. 22, 1996, 110 Stat. 2200; Pub. L. 105–33, title V, §§5532(a), (b)(1), (c)–(h), 5547, Aug. 5, 1997, 111 Stat. 626, 627, 632.)
+(Aug. 14, 1935, ch. 531, title IV, §457, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2356; amended Pub. L. 95–171, §11, Nov. 12, 1977, 91 Stat. 1357; Pub. L. 97–35, title XXIII, §2332(e), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2640(b), July 18, 1984, 98 Stat. 1145; Pub. L. 98–378, §§7(a), 11(a), Aug. 16, 1984, 98 Stat. 1315, 1317; Pub. L. 99–514, title XVIII, §§1883(b)(6), 1899(a), Oct. 22, 1986, 100 Stat. 2917, 2957; Pub. L. 100–203, title IX, §9141(a)(1), Dec. 22, 1987, 101 Stat. 1330–321; Pub. L. 100–485, title I, §102(b),Oct. 13, 1988, 102 Stat. 2346; Pub. L. 104–193, title III, §302(a), Aug. 22, 1996, 110 Stat. 2200; Pub. L. 105–33, title V, §§5532(a), (b)(1), (c)–(h), 5547, Aug. 5, 1997, 111 Stat. 626, 627, 632; Pub. L. 106–169, title III, §301(a), (c), title IV, §401(j), (k), Dec. 14, 1999, 113 Stat. 1857, 1858.)
+
+#### Amendment of Section
+
+<i>Pub. L. 106–169, title III, §301(c), Dec. 14, 1999, 113 Stat. 1857, provided that, effective Oct. 1, 2001, this section is amended as follows:</i>
+
+<i>(1) in subsection (a), by substituting “subsections (d) and (e)” for “subsections (e) and (f)”;</i>
+
+<i>(2) by striking out subsection (d);</i>
+
+<i>(3) in subsection (e), by striking out the second sentence; and</i>
+
+<i>(4) by redesignating subsections (e) and (f) as (d) and (e), respectively.</i>
 
 #### References in Text
 
-The Personal Responsibility and Work Opportunity Act of 1996, referred to in subsec. (a)(5)(C), probably means the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, which is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1305 of this title and Tables.
+The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(5)(C), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1305 of this title and Tables.
 
-Parts A and E of this subchapter, referred to in subsecs. (b), (c)(1), and (f), are classified to sections 601 et seq. and 670 et seq., respectively, of this title.
-
-#### Codification
-
-August 22, 1996, referred to in subsec. (a)(2)(B)(i)(I), was in the original “the date of the enactment of section 302 of the Personal Responsibility and Work Opportunity Act Reconciliation of 1996”, and that date, referred to in subsecs. (b), (c)(1)(A), and (d), was in the original “the date of the enactment of the Personal Responsibility and Work Opportunity Act of 1996”, which were translated as meaning the date of enactment of Pub. L. 104–193, the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, to reflect the probable intent of Congress.
+Parts A and E of this subchapter, referred to in subsecs. (b), (c)(1), (d)(2), and (f), are classified to sections 601 et seq. and 670 et seq., respectively, of this title.
 
 #### Amendments
+
+1999—Subsec. (a)(2)(B)(i)(I). Pub. L. 106–169, §401(j), made technical amendment to reference in original act which appears in text as reference to August 22, 1996.
+
+Subsec. (a)(5)(C). Pub. L. 106–169, §401(k), substituted “Opportunity Reconciliation Act” for “Opportunity Act”.
+
+Subsecs. (a)(6), (c)(1)(A). Pub. L. 106–169, §401(k), made technical amendment to reference in original act which appears in text as reference to August 22, 1996.
+
+Subsec. (d). Pub. L. 106–169, §301(a), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “If the amounts collected which could be retained by the State in the fiscal year (to the extent necessary to reimburse the State for amounts paid to families as assistance by the State) are less than the State share of the amounts collected in fiscal year 1995 (determined in accordance with this section as in effect on the day before August 22, 1996), the State share for the fiscal year shall be an amount equal to the State share in fiscal year 1995.”
+
+Pub. L. 106–169, §401(k), made technical amendment to reference in original act which appears in text as reference to August 22, 1996.
 
 1997—Subsec. (a). Pub. L. 105–33, §5547(1), substituted “subsections (e) and (f)” for “subsection (e)” in introductory provisions.
 
@@ -194,7 +220,7 @@ Subsec. (a)(2)(B)(i)(I), (ii)(I). Pub. L. 105–33, §5532(f)(1), in introductor
 
 Subsec. (a)(2)(B)(ii)(II). Pub. L. 105–33, §5532(f)(2), substituted “paragraph (5)” for “paragraph (4)”.
 
-Subsec. (a)(4). Pub. L. 105–33, §5532(d), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “In the case of a family receivingassistance from an Indian tribe, distribute the amount so collected pursuant to an agreement entered into pursuant to a State plan under section 654(33) of this title.”
+Subsec. (a)(4). Pub. L. 105–33, §5532(d), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “In the case of a family receiving assistance from an Indian tribe, distribute the amount so collected pursuant to an agreement entered into pursuant to a State plan under section 654(33) of this title.”
 
 Subsec. (a)(5). Pub. L. 105–33, §5532(e), substituted “1999” for “1998” in introductory provisions.
 
@@ -238,9 +264,17 @@ Subsec. (d). Pub. L. 98–378, §11(a)(1), added subsec. (d).
 
 1981—Subsec. (b). Pub. L. 97–35, §2332(e)(1), substituted in provision preceding par. (1) “as support” for “as child support”.
 
-Subsec. (c). Pub. L. 97–35, §2332(e)(2), substituted in provision preceding par. (1) “whom support payments” for “whom child support payments” and in pars. (1) and (2) “amounts of support payments” for “amounts of child support payments” in two places and “amounts of support so” for “amounts of child support so”.
+Subsec. (c). Pub. L. 97–35, §2332(e)(2), substituted in provision preceding par. (1) “whom support payments” for “whom child support payments” and in pars. (1) and\(2) “amounts of support payments” for “amounts of child support payments” in two places and “amounts of support so” for “amounts of child support so”.
 
 1977—Subsec. (c). Pub. L. 95–171, §11(a)–(c), in par. (1), substituted “amounts of child support payments which represent monthly support payments” for “such support payments” and inserted “, which represent monthly support payments,” after “amounts so collected”; in par. (2), substituted “amounts of child support payments which represent monthly support payments” for “such support payments” and inserted “, which represents monthly support payments,” after “amount so collected”; changed to a comma the period at end of par. (2); and inserted provision for distribution of child support proceeds.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–169, title III, §301(b), Dec. 14, 1999, 113 Stat. 1857, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to calendar quarters occurring during the period that begins on October 1, 1998, and ends on September 30, 2001.”
+
+Pub. L. 106–169, title III, §301(c), Dec. 14, 1999, 113 Stat. 1857, provided that the amendment made by section 301(c) is effective Oct. 1, 2001.
+
+Amendment by section 401(j), (k) of Pub. L. 106–169 effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 401(q) of Pub. L. 106–169, set out as a note under section 602 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -276,7 +310,7 @@ Section 7(b) of Pub. L. 98–378 provided that: “The amendments made by subsec
 
 Amendment by section 11(a) of Pub. L. 98–378 effective Oct. 1, 1984, and applicable to collections made on or after that date, see section 11(e) of Pub. L. 98–378, set out as a note under section 654 of this title.
 
-Section 2646 of Pub. L. 98–369 provided that: “Except as otherwise specifically provided in this subtitle \[subtitle B (§§2611–2646) of Pub. L. 98–369\], the provisions of parts 1 and 2 \[sections 2611 to 2642 of Pub. L. 98–369, enacting section 1320b–6 of this title, amending this section and sections 602, 609, 614, 615, 1320a–6, 1382 to 1382b, 1382j, and 1383 of this title and section 51 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 602, 609, 614, 1320a–6, 1382a, and 1383of this title and section 51 of Title 26\] and the amendments made thereby shall take effect on October 1, 1984.”
+Section 2646 of Pub. L. 98–369 provided that: “Except as otherwise specifically provided in this subtitle \[subtitle B (§§2611–2646) of Pub. L. 98–369\], the provisions of parts 1 and 2 \[sections 2611 to 2642 of Pub. L. 98–369, enacting section 1320b–6 of this title, amending this section and sections 602, 609, 614, 615, 1320a–6, 1382 to 1382b, 1382j, and 1383 of this title and section 51 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 602, 609, 614, 1320a–6, 1382a, and 1383 of this title and section 51 of Title 26\] and the amendments made thereby shall take effect on October 1, 1984.”
 
 #### Effective Date of 1981 Amendment
 

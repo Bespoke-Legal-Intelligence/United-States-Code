@@ -6,7 +6,7 @@ The Secretary is authorized to establish in the Department the position of Under
 
 #### (b) Confirmation required
 
-If the Secretary establishes the position of Under Secretary of Agriculture for Research, Education, and Economics authorized under subsection (a) of this section, the Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
+If the Secretary establishes the position of Under Secretary of Agriculture for Research,Education, and Economics authorized under subsection (a) of this section, the Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
 
 #### (c) Functions of Under Secretary
 

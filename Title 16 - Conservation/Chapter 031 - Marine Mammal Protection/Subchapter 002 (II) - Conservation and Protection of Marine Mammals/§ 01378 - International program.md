@@ -8,9 +8,17 @@ The Secretary, through the Secretary of State, shall—
 
 &emsp;(2) initiate—
 
-&emsp;&emsp;(A) negotiations as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, commercial fishing operations which are found by the Secretary to be unduly harmful to any species or population stock of marine mammal, for the purpose of entering into bilateral and multilateral treaties with such countries to protect marine mammals, with the Secretary of State to prepare a draft agenda relating to this matter for discussion at appropriate international meetings and forums; and
+&emsp;&emsp;(A) negotiations as soon as possible with all foreign governments which are engagedin, or which have persons or companies engaged in, commercial fishing operations which are found by the Secretary to be unduly harmful to any species or population stock of marine mammal, for the purpose of entering into bilateral and multilateral treaties with such countries to protect marine mammals, with the Secretary of State to prepare a draft agenda relating to this matter for discussion at appropriate international meetings and forums;
 
 &emsp;&emsp;(B) discussions with foreign governments whose vessels harvest yellowfin tuna with purse seines in the eastern tropical Pacific Ocean, for the purpose of concluding, through the Inter-American Tropical Tuna Commission or such other bilateral or multilateral institutions as may be appropriate, international arrangements for the conservation of marine mammals taken incidentally in the course of harvesting such tuna, which should include provisions for (i) cooperative research into alternative methods of locating and catching yellowfin tuna which do not involve the taking of marine mammals, (ii) cooperative research on the status of affected marine mammal population stocks, (iii) reliable monitoring of the number, rate, and species of marine mammals taken by vessels of harvesting nations, (iv) limitations on incidental take levels based upon the best scientific information available, and (v) the use of the best marine mammal safety techniques and equipment that are economically and technologically practicable to reduce the incidental kill and serious injury of marine mammals to insignificant levels approaching a zero mortality and serious injury rate;
+
+&emsp;&emsp;(C) negotiations to revise the Convention for the Establishment of an Inter-American Tropical Tuna Commission (1 U.S.T. 230; TIAS 2044) which will incorporate—
+
+&emsp;&emsp;&emsp;(i) the conservation and management provisions agreed to by the nations which have signed the Declaration of Panama and in the Straddling Fish Stocks and Highly Migratory Fish Stocks Agreement, as opened for signature on December 4, 1995; and
+
+&emsp;&emsp;&emsp;(ii) a revised schedule of annual contributions to the expenses of the Inter-American Tropical Tuna Commission that is equitable to participating nations; and
+
+&emsp;&emsp;(D) discussions with those countries participating, or likely to participate, in the International Dolphin Conservation Program, for the purpose of identifying sources of funds needed for research and other measures promoting effective protection of dolphins, other marine species, and the marine ecosystem;
 
 &emsp;(3) encourage such other agreements to promote the purposes of this chapter with other nations for the protection of specific ocean and land regions which are of special significance to the health and stability of marine mammals;
 
@@ -36,31 +44,17 @@ The Secretary, through the Secretary of State, shall—
 
 &emsp;(B) as a result of the study required under paragraph (1)(B) of this subsection, that modifications of the Convention are desirable to make it and this chapter consistent;
 
-> he shall, through the Secretary of State, immediately initiate negotiations to modify the Convention so as to (i) reduce or halt the taking of seals to the extent required to assure that such herds attain and remain at their optimum sustainable population, or (ii) make the Convention and this chapter consistent; or both, as the case may be. If negotiations to so modify the Convention are unsuccessful, the Secretary shall, through the Secretary of State, take such steps as may be necessary to continue the existing Convention beyond its present termination date so as to continue to protect and conserve the North Pacific fur seals and to prevent a return to pelagic sealing.
+> he shall, through the Secretary of State, immediately initiate negotiations to modify the Convention so as to (i) reduce or halt the taking of seals to the extent required to assure that such herds attain and remain at their optimum sustainable population, or (ii) make the Convention and this chapter consistent; or both, as the case may be. If negotiations to so modify the Convention are unsuccessful, the Secretary shall, through the Secretary of State, take such steps as may be necessary to continue the existing Convention beyond its present termination date so as to continue to protect and conserve theNorth Pacific fur seals and to prevent a return to pelagic sealing.
 
 #### (c) Description of annual results of discussions; proposals for further action
 
-The Secretary shall include a description of the annual results of discussions initiated and conducted pursuant to subsection (a)(2)(B) ofthis section, as well as any proposals for further action to achieve the purposes of that subsection, in the report required under section 1373(f) of this title.
+The Secretary shall include a description of the annual results of discussions initiated and conducted pursuant to subsection (a)(2)(B) of this section, as well as any proposals for further action to achieve the purposes of that subsection, in the report required under section 1373(f) of this title.
 
 (Pub. L. 92–522, title I, §108, Oct. 21, 1972, 86 Stat. 1038; Pub. L. 100–711, §4(b), (c), Nov. 23, 1988, 102 Stat. 4766, 4767; Pub. L. 105–42, §4(e), Aug. 15, 1997, 111 Stat. 1125.)
 
-#### Amendment of Subsection (a)(2)
-
-<i>Pub. L. 105–42, §§4(e), 8, Aug. 15, 1997, 111 Stat. 1125, 1139, provided that, effective as provided by section 8 of Pub. L. 105–42, see Effective Date of 1997 Amendment note below, subsection (a)(2) of this section is amended as follows:</i>
-
-<i>(1) by striking “and” at the end of subparagraph (A); and</i>
-
-<i>(2) by inserting after subparagraph (B) the following:</i>
-
-“(C) negotiations to revise the Convention for the Establishment of an Inter-American Tropical Tuna Commission (1 U.S.T. 230; TIAS 2044) which will incorporate—
-
-&emsp;“(i) the conservation and management provisions agreed to by the nations which have signed the Declaration of Panama and in the Straddling Fish Stocks and Highly Migratory Fish Stocks Agreement, as opened for signature on December 4, 1995; and
-
-&emsp;“(ii) a revised schedule of annual contributions to the expenses of the Inter-American Tropical Tuna Commission that is equitable to participating nations; and
-
-“(D) discussions with those countries participating, or likely to participate, in the International Dolphin Conservation Program, for the purpose of identifying sources of funds needed for research and other measures promoting effective protection of dolphins, other marine species, and the marine ecosystem;”.
-
 #### Amendments
+
+1997—Subsecs. (a)(2)(C), (D). Pub. L. 105–42 added subpars. (C) and (D).
 
 1988—Subsec. (a)(2). Pub. L. 100–711, §4(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “initiate negotiations as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, commercial fishing operations which are found by the Secretary to be unduly harmful to any species of marine mammal, for the purpose of entering into bilateral and multilateral treaties with such countries to protect marine mammals. The Secretary of State shall prepare a draft agenda relating to this matter for discussion at appropriate international meetings and forums;”.
 
@@ -68,5 +62,5 @@ Subsec. (c). Pub. L. 100–711, §4(c), added subsec. (c).
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–42, effective upon certification by Secretary of Commerce that sufficient funding is available to complete first year of study required by section 1414a(a) of this title and that study has commenced, and certification by Secretary of State to Congress that binding resolution of Inter-American Tropical Tuna Commission or other legally binding instrument establishing International Dolphin Conservation Program has been adopted and is in force, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
+For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
 

@@ -14,13 +14,9 @@ Members on Active Duty.—Upon a determination by the President that it is neces
 
 (d)
 
-Notification to Congress.—The Secretary of Defense—
+Notification to Congress.—The Secretary of Defense shall immediately notify Congress of the use of any authority under this section.
 
-&emsp;(1) shall immediately notify Congress of the use of any authority under this section; and
-
-&emsp;(2) shall submit monthly reports to Congress on the estimated obligations incurred pursuant to subsections (b) and (c).
-
-(Added Pub. L. 100–370, §1(d)(1)(A), July 19, 1988, 102 Stat. 841.)
+(Added Pub. L. 100–370, §1(d)(1)(A), July 19, 1988, 102 Stat. 841; amended Pub. L. 106–65, div. A, title X, §1032(a)(1), Oct. 5, 1999, 113 Stat. 751.)
 
 #### Historical and Revision Notes
 
@@ -31,4 +27,8 @@ In two instances, the source law to be codified by the bill includes provisions 
 #### Prior Provisions
 
 A prior section 2201, act Aug. 10, 1956, ch. 1041, 70A Stat. 119, prescribed the general functions of the Secretary of Defense, prior to repeal by Pub. L. 85–599, §3(c), Aug. 6, 1958, 72 Stat. 516. See section 113 of this title.
+
+#### Amendments
+
+1999—Subsec. (d). Pub. L. 106–65 substituted “Defense” for “Defense—”, struck out par. (1) designation, substituted “this section.” for “this section; and”, and struck out par. (2) which read as follows: “shall submit monthly reports to Congress on the estimated obligations incurred pursuant to subsections (b) and (c).”
 

@@ -14,7 +14,7 @@
 
 > Loans may be made under this section only for projects affecting more than 2,500 square feet of surface and in which the asbestos material to be contained or removed consists of a minimum asbestos level, as determined by the Secretary under section 3606(a)(2) of this title.
 
-(3) If the Secretary determines that an applicant has limited fiscal resources and would be unable to carry out the projects described in paragraph (2) without receiving a loan under this section for an amount greater than the amount permitted under such paragraph, the Secretary may increase the amount of the loan payable to such applicant to an amount the Secretary considers appropriate to enable the applicant to carry out such projects.
+(3) If the Secretary determines that an applicant has limited fiscal resources and would be unable to carry out the projects described in paragraph (2) without receiving a loan under this section for an amount greater than the amount permitted under such paragraph, the Secretary may increase the amount of the loanpayable to such applicant to an amount the Secretary considers appropriate to enable the applicant to carry out such projects.
 
 #### (b) Loan agreements; required terms; additional terms and conditions
 
@@ -46,7 +46,7 @@ Loans under this section shall be made pursuant to loan agreements which shall p
 
 &emsp;&emsp;(ii) no child or school employee shall be permitted in the vicinity of any asbestos containment or removal activity; and
 
-&emsp;&emsp;(iii) the local educational agency shall pay employees engaged in containment, removal,or replacement activities to carry out programs under this section at reasonable rates of pay, as established by the Secretary on the basis of prevailing wage rates in the location of such work.
+&emsp;&emsp;(iii) the local educational agency shall pay employees engaged in containment, removal, or replacement activities to carry out programs under this section at reasonable rates of pay, as established by the Secretary on the basis of prevailing wage rates in the location of such work.
 
 (2) The Secretary shall provide the Task Force with a copy of any application submitted to the Secretary under paragraph (1).
 

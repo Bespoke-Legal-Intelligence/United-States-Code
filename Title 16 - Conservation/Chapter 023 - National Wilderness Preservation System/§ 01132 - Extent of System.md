@@ -10,7 +10,7 @@ All areas within the national forests classified at least 30 days before Septemb
 
 #### (b) Review by Secretary of Agriculture of classifications as primitive areas; Presidential recommendations to Congress; approval of Congress; size of primitive areas; Gore Range-Eagles Nest Primitive Area, Colorado
 
-The Secretary of Agriculture shall, within ten years after September 3, 1964, review, as to its suitability or nonsuitability for preservation as wilderness, each area in the national forests classified on September 3, 1964 by the Secretary of Agriculture or the Chief of the Forest Service as “primitive” and report his findings to the President. The President shall advise the United States Senate and House of Representatives of his recommendations with respect to the designation as “wilderness” or other reclassification of each area on which review has been completed, together with maps and a definition of boundaries. Such advice shall be given with respect to not less than one-third of all the areas now classified as “primitive” within three yearsafter September 3, 1964, not less than two-thirds within seven years after September 3, 1964, and the remaining areas within ten years after September 3, 1964. Each recommendation of the President for designation as “wilderness” shall become effective only if so provided by an Act of Congress. Areas classified as “primitive” on September 3, 1964 shall continue to be administered under the rules and regulations affecting such areas on September 3, 1964 until Congress has determined otherwise. Any such area may be increased in size by the President at the time he submits his recommendations to the Congress by not more than five thousand acres with no more than one thousand two hundred and eighty acres of such increase in any one compact unit; if it is proposed to increase the size of any such area by more than five thousand acres or by more than one thousand two hundred and eighty acres in any one compact unit the increase in size shall not become effective until acted upon by Congress. Nothing herein contained shall limit the President in proposing, as part of his recommendations to Congress, the alteration of existing boundaries of primitive areas or recommending the addition of any contiguous area of national forest lands predominantly of wilderness value. Notwithstanding any other provisions of this chapter, the Secretary of Agriculture may complete his review and delete such area as may be necessary, but not to exceed seven thousand acres, from the southern tip of the Gore Range-Eagles Nest Primitive Area, Colorado, if the Secretary determines that such action is in the public interest.
+The Secretary of Agriculture shall, within ten years after September 3, 1964, review, as to its suitability or nonsuitability for preservation as wilderness, each area in the national forestsclassified on September 3, 1964 by the Secretary of Agriculture or the Chief of the Forest Service as “primitive” and report his findings to the President. The President shall advise the United States Senate and House of Representatives of his recommendations with respect to the designation as “wilderness” or other reclassification of each area on which review has been completed, together with maps and a definition of boundaries. Such advice shall be given with respect to not less than one-third of all the areas now classified as “primitive” within three years after September 3, 1964, not less than two-thirds within seven years after September 3, 1964, and the remaining areas within ten years after September 3, 1964. Each recommendation of the President for designation as “wilderness” shall become effective only if so provided by an Act of Congress. Areas classified as “primitive” on September 3, 1964 shall continue to be administered under the rules and regulations affecting such areas on September 3, 1964 until Congress has determined otherwise. Any such area may be increased in size by the President at the time he submits his recommendations to the Congress by not more than five thousand acres with no more than one thousand two hundred and eighty acres of such increase in any one compact unit; if it is proposed to increase the size of any such area by more than five thousand acres or by more than one thousand two hundred and eighty acres in any one compact unit the increase in size shall not become effective until acted upon by Congress. Nothing herein contained shall limit the President in proposing, as part of his recommendations to Congress, the alteration of existing boundaries of primitive areas or recommending the addition of any contiguous area of national forest lands predominantly of wilderness value. Notwithstanding any other provisions of this chapter, the Secretary of Agriculture may complete his review and delete such area as may be necessary, but not to exceed seven thousand acres, from the southern tip of the Gore Range-Eagles Nest Primitive Area, Colorado, if the Secretary determines that such action is in the public interest.
 
 #### (c) Review by Secretary of the Interior of roadless areas of national park system and national wildlife refuges and game ranges and suitability of areas for preservation as wilderness; authority of Secretary of the Interior to maintain roadless areas in national park system unaffected
 
@@ -30,13 +30,13 @@ Within ten years after September 3, 1964 the Secretary of the Interior shall rev
 
 #### (e) Modification or adjustment of boundaries; public notice and hearings; administrative and executive recommendations to Congress; approval of Congress
 
-Any modification or adjustment of boundaries of any wilderness area shall be recommended by the appropriate Secretary after public notice of such proposal and public hearing or hearings as provided in subsection (d) of this section. The proposed modification or adjustment shall then be recommended with map and description thereof to the President. The President shall advise the United States Senate and the House of Representatives of his recommendations with respect to such modification or adjustment and such recommendations shall become effective only in the same manner as provided for in subsections (b) and (c) of this section.
+Any modification or adjustment of boundaries of any wilderness area shall be recommended by the appropriate Secretary after public notice of such proposal and public hearing or hearings as provided in subsection (d) of this section. The proposed modification or adjustment shall then be recommended with map and descriptionthereof to the President. The President shall advise the United States Senate and the House of Representatives of his recommendations with respect to such modification or adjustment and such recommendations shall become effective only in the same manner as provided for in subsections (b) and (c) of this section.
 
 (Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891.)
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energyand Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
+Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
@@ -142,7 +142,7 @@ Birkhead Mountains Wilderness, Uwharrie National Forest, North Carolina.—Pub. 
 
 Bisti/De-Na-Zin Wilderness, Albuquerque and Farmington Districts of Bureau of Land Management, New Mexico.—Pub. L. 98–603, title I, §102, Oct. 30, 1984, 98 Stat. 3155; Pub. L. 104–333, div. I, title X, §1022(b), Nov. 12, 1996, 110 Stat. 4211.
 
-Black Canyon of the Gunnison Wilderness, Black Canyon of the Gunnison National Monument, Colorado.—Pub. L. 94–567, §1(b), Oct. 20, 1976, 90 Stat. 2692.
+Black Canyon of the Gunnison Wilderness, Black Canyon of the Gunnison National Monument, Colorado.—Pub. L. 94–567, §1(b), Oct. 20, 1976, 90 Stat. 2692; Pub. L. 106–76, §6, Oct. 21, 1999, 113 Stat. 1129.
 
 Black Canyon Wilderness, Ochoco National Forest, Oregon.—Pub. L. 98–328, §3(18), June 26, 1984, 98 Stat. 274.
 
@@ -362,6 +362,8 @@ Drift Creek Wilderness, Siuslaw National Forest, Oregon.—Pub. L. 98–328, §3
 
 Dry Creek Wilderness, Ouachita National Forest, Arkansas.—Pub. L. 98–508, §3(b), Oct. 19, 1984, 98 Stat. 2350.
 
+Dugger Mountain Wilderness, Alabama.—Pub. L. 106–156, §2(a), Dec. 9, 1999, 113 Stat. 1741.
+
 Eagle Cap Wilderness, Wallowa and Whitman National Forests, Oregon.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 92–521, Oct. 21, 1972, 86 Stat. 1026; Pub. L. 98–328, §3(28), June 26, 1984, 98 Stat. 275.
 
 Eagles Nest Wilderness, Arapaho and White River National Forests, Colorado.—Pub. L. 94–352, July 12, 1976, 90 Stat. 870; Pub. L. 105–75, §1, Nov. 12, 1997, 111 Stat. 1462.
@@ -477,6 +479,8 @@ Gros Ventre Wilderness, Bridger-Teton National Forest, Wyoming.—Pub. L. 98–5
 Guadalupe Mountains Wilderness, Guadalupe Mountains National Park, Texas.—Pub. L. 95–625, title IV, §401(4), Nov. 10, 1978, 92 Stat. 3490.
 
 Gulf Islands Wilderness, Gulf Islands National Seashore, Florida and Mississippi.—Pub. L. 95–625, title IV, §401(5), Nov. 10, 1978, 92 Stat. 3490.
+
+Gunnison Gorge Wilderness, Gunnison Gorge National Conservation Area, Colorado.—Pub. L. 106–76, §8, Oct. 21, 1999, 113 Stat. 1130.
 
 Haleakala Wilderness, Haleakala National Park, Hawaii.—Pub. L. 94–567, §1(e), Oct. 20, 1976, 90 Stat. 2692.
 
@@ -861,6 +865,8 @@ Oregon Islands Wilderness, Oregon Islands National Wildlife Refuge, Oregon.—Pu
 Organ Pipe Cactus Wilderness, Organ Pipe Cactus National Monument, Arizona.—Pub. L. 95–625, title IV, §401(7), Nov. 10, 1978, 92 Stat. 3490.
 
 Orocopia Mountains Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(44), Oct. 31, 1994, 108 Stat. 4478.
+
+Otay Mountain Wilderness, California.—Pub. L. 106–145, §3, Dec. 9, 1999, 113 Stat. 1711.
 
 Otter Creek Wilderness Monongahela National Forest, West Virginia.—Pub. L. 93–622, §3(a)(14), Jan. 3, 1975, 88 Stat. 2098.
 

@@ -18,7 +18,7 @@ Section 3711(a)–(c) of title XXXVII of Pub. L. 102–575, as amended by Pub. L
 
 “(a)
 
-Effective Date of Authorization.—The authorization contained in section 3708(b) of this title \[106 Stat. 4748\] shall become effective as of the date the Secretary causes to be published in the Federal Register a statement of findings that—
+Effective Date of Authorization.—The authorization contained in section 3708(b) of this title \[106 Stat. 4748\] shall become effective as of the date the Secretary causes to be published in the Federal Register a statement of findings \[The statement was published in the Federal Register on Dec. 28, 1999, 64 F.R. 72674.\] that—
 
 &emsp;“(1) the Secretary has fulfilled the requirements of sections 3704 and 3706 \[106 Stat. 4742, 4745\];
 
@@ -42,7 +42,7 @@ Conditions.—(1) If the actions described in paragraphs (1), (2), (3), (4), (5)
 
 “(c)
 
-Extension for River System General Adjudication.—If, at any time prior to March 31, 1999, the Secretary notifies the Committee on Indian Affairs of the United States Senate or the Committee on Resources in the United States House of Representatives that the Settlement Agreement, as executed by the Secretary, has been submitted to the Superior Court of the State of Arizona in and for Maricopa County for consideration and approval as part of the General Adjudication of the Gila River System and Source, the \[sic\] March 31, 1999, referred to in subsection (b)(1) shall be deemed to be changed to December 31, 1999.”
+Extension for River System General Adjudication.—If, at any time prior to March 31, 1999, theSecretary notifies the Committee on Indian Affairs of the United States Senate or the Committee on Resources in the United States House of Representatives that the Settlement Agreement, as executed by the Secretary, has been submitted to the Superior Court of the State of Arizona in and for Maricopa County for consideration and approval as part of the General Adjudication of the Gila River System and Source, the \[sic\] March 31, 1999, referred to in subsection (b)(1) shall be deemed to be changed to December 31, 1999. \[The Secretary notified the Committees on Mar. 30, 1999.\]”
 
 \[For definitions of terms used in section 3711(a)–(c) of Pub. L. 102–575, set out above, see section 3703 of Pub. L. 102–575, title XXXVII, Oct. 30, 1992, 106 Stat. 4741, as amended.\]
 

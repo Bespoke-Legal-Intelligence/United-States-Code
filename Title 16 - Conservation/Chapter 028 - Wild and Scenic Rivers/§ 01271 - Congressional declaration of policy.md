@@ -1,12 +1,16 @@
 ### §1271. Congressional declaration of policy
 
-It is hereby declared to be the policy of the United States that certain selected rivers of the Nation which, with their immediate environments, possess outstandingly remarkable scenic, recreational, geologic, fish and wildlife, historic, cultural, or other similar values, shall be preserved in free-flowing condition, and that they and their immediate environments shall be protected for the benefit and enjoyment of present and future generations. The Congress declares that the established national policy of dam and other construction at appropriate sections of the rivers of the United States needs to be complemented by a policy that would preserve other selected rivers or sections thereof in their free-flowing condition to protect the water quality of such rivers and to fulfill other vital national conservation purposes.
+It is hereby declared to be the policy of the United States that certain selected rivers of the Nation which, with their immediate environments, possess outstandingly remarkable scenic, recreational, geologic, fish and wildlife, historic, cultural, or other similar values, shall be preserved in free-flowing condition, and that they and their immediate environments shall be protected for the benefit and enjoyment of present and future generations. The Congress declares that the established national policy of dam andother construction at appropriate sections of the rivers of the United States needs to be complemented by a policy that would preserve other selected rivers or sections thereof in their free-flowing condition to protect the water quality of such rivers and to fulfill other vital national conservation purposes.
 
 (Pub. L. 90–542, §1(b), Oct. 2, 1968, 82 Stat. 906.)
 
 #### Codification
 
 Section consists of subsec. (b) of section 1 of Pub. L. 90–542. Subsecs. (a) and (c) of section 1 are classified to section 1272 of this title and as a note under this section, respectively.
+
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–20, §1, Apr. 9, 1999, 113 Stat. 30, provided that: “This Act \[amending section 1274 of this title and enacting provisions set out as a note under section 1274 of this title\] may be cited as the ‘Sudbury, Assabet, and Concord Wild and Scenic River Act’.”
 
 #### Short Title of 1994 Amendments
 

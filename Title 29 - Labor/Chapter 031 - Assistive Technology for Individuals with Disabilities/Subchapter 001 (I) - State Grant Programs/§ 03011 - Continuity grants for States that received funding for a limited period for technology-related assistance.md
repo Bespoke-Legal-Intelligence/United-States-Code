@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;Any State that receives a grant under this section shall use the funds made available through the grant to carry out the activities described in paragraph (2) and may use the funds to carry out the activities described in paragraph (3).
+&emsp;Any State that receives a grant under this section shall use the funds made available through the grant to carry out the activitiesdescribed in paragraph (2) and may use the funds to carry out the activities described in paragraph (3).
 
 #### (2) Required activities
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) the benefits of assistive technology devices and assistive technology services with respect to enhancing the capacity of individuals with disabilities of all ages to perform activities of daily living;
 
-&emsp;&emsp;&emsp;&emsp;(II) the development of procedures for providing direct communication betweenproviders of assistive technology and targeted individuals; and
+&emsp;&emsp;&emsp;&emsp;(II) the development of procedures for providing direct communication between providers of assistive technology and targeted individuals; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the development and dissemination, to targeted individuals, of information about State efforts related to assistive technology.
 
@@ -160,7 +160,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) identify support groups and systems designed to help individuals with disabilities make effective use of an activity carried out under another paragraph of this subsection, including groups that provide evaluations of assistive technology devices and assistive technology services; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) maintain a record of the extent to which citizens of the State use or makeinquiries of the system established in clause (i), and of the nature of such inquiries.
+&emsp;&emsp;&emsp;&emsp;(IV) maintain a record of the extent to which citizens of the State use or make inquiries of the system established in clause (i), and of the nature of such inquiries.
 
 #### (E) Interstate activities
 

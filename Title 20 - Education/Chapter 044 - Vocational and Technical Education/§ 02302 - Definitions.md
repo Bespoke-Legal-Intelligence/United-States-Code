@@ -120,7 +120,7 @@ In this chapter:
 
 &emsp;The term “postsecondary educational institution” means—
 
-&emsp;&emsp;(A) an institution of higher education that provides not less than a 2-year program of instruction that is acceptable for credit toward a bachelor's degree;
+&emsp;&emsp;(A) an institution of higher education that provides not less than a 2-year program ofinstruction that is acceptable for credit toward a bachelor's degree;
 
 &emsp;&emsp;(B) a tribally controlled college or university; or
 
@@ -174,7 +174,7 @@ In this chapter:
 
 &emsp;&emsp;(D) builds student competence in mathematics, science, and communications (including through applied academics) in a coherent sequence of courses; and
 
-&emsp;&emsp;(E) leads to an associate degree or a certificate in a specific career field, and to highskill, high wage employment, or further education.
+&emsp;&emsp;(E) leads to an associate degree or a certificate in a specific career field, and to high skill, high wage employment, or further education.
 
 #### (27) Tribally controlled college or university
 
@@ -210,7 +210,7 @@ In this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “vocational and technical student organization” means an organization for individuals enrolled in a vocational and technical education program that engages in vocational and technical activities as an integral part of the instructional program.
+&emsp;&emsp;The term “vocational and technical student organization” means an organizationfor individuals enrolled in a vocational and technical education program that engages in vocational and technical activities as an integral part of the instructional program.
 
 #### (B) State and national units
 
@@ -237,6 +237,10 @@ Section 1001 of this title, referred to in par. (28), contains a paragraph (2) i
 Provisions similar to this section were contained in section 2471 of this title, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 A prior section 2302, Pub. L. 88–210, §3, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2437; amended Pub. L. 100–418, title VI, §§6131(b), 6134(b), Aug. 23, 1988, 102 Stat. 1511, 1512; Pub. L. 101–392, §3, Sept. 25, 1990, 104 Stat. 756, authorized appropriations for fiscal years 1991 to 1995 to carry out former subchapters I to IV of this chapter, prior to the general amendment of this chapter by Pub. L. 105–332.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 29 section 2801.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

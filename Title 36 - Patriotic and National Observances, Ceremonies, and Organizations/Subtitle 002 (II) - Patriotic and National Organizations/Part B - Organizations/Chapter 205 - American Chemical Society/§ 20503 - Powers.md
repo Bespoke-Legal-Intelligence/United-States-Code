@@ -30,6 +30,8 @@ Historical and Revision Notes
 
 36:3205.
 
+&nbsp;
+
 Before clause (1), the word “may” is substituted for “shall have power to” in 36:3203 and “be, and the same is hereby, authorized and empowered to” in 36:3205 for consistency in the revised title and to eliminate unnecessary words.
 
 In clause (1), the word “adopt” is substituted for “make” for consistency in the revised title. The word “regulations” is substituted for “rules, and regulations” to avoid redundancy. The words “its own organization” are omitted as included in “constitution, bylaws, and regulations”.

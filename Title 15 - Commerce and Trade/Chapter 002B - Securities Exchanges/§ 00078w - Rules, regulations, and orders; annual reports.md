@@ -34,7 +34,7 @@
 
 &emsp;(H) a statement detailing its administration of the Freedom of Information Act, section 552 of title 5, including a copy of the report filed pursuant to subsection (d) of such section; and
 
-&emsp;(I) the steps that have been taken and the progress that has been made in promoting the timely public dissemination and availability for analytical purposes (on a fair, reasonable,and nondiscriminatory basis) of information concerning government securities transactions and quotations, and its recommendations, if any, for legislation to assure timely dissemination of (i) information on transactions in regularly traded government securities sufficient to permit the determination of the prevailing market price for such securities, and (ii) reports of the highest published bids and lowest published offers for government securities (including the size at which persons are willing to trade with respect to such bids and offers).
+&emsp;(I) the steps that have been taken and the progress that has been made in promoting the timely public dissemination and availability for analytical purposes (on a fair, reasonable, and nondiscriminatory basis) of information concerning government securities transactions and quotations, and its recommendations, if any, for legislation to assure timely dissemination of (i) information on transactions in regularly traded government securities sufficient to permit the determination of the prevailing market price for such securities, and (ii) reports of the highest published bids and lowest published offers for government securities (including the size at which persons are willing to trade with respect to such bids and offers).
 
 #### (c) Procedure for adjudication
 

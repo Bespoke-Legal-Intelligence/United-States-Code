@@ -38,7 +38,7 @@ Subsec. (e). Pub. L. 92–512 added subsec. (e).
 
 #### Effective Date of 1990 Amendment
 
-Section 11834(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\], except that such amendment shall not apply with respect to any refund or credit with respect to a report has been made before such date of enactment under section 6405 of the Internal Revenue Code of 1986.”
+Section 11834(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\], except that such amendment shall not apply with respect to any refund or credit with respect to a report has been made before such dateof enactment under section 6405 of the Internal Revenue Code of 1986.”
 
 #### Effective Date of 1986 Amendment
 

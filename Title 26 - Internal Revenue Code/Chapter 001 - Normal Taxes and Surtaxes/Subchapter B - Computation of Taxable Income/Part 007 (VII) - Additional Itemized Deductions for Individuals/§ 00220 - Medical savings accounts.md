@@ -284,7 +284,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The tax imposed by this chapter on the account holder for any taxable year in which there is a payment or distribution from a medical savings account of such holder which is includible in gross income under paragraph (2) shall be increased by 15 percent of the amount which is so includible.
+&emsp;&emsp;The tax imposed by this chapter on the account holder for any taxable year in which there is a payment or distribution from a medical savings account of such holder which is includible in gross income underparagraph (2) shall be increased by 15 percent of the amount which is so includible.
 
 #### (B) Exception for disability or death
 
@@ -318,7 +318,7 @@ For purposes of this section—
 
 #### (A) Treatment if designated beneficiary is spouse
 
-&emsp;&emsp;If the account holder's surviving spouse acquires such holder's interest in a medical savings account by reason of being the designated beneficiary of such account at the death of the account holder, such medicalsavings account shall be treated as if the spouse were the account holder.
+&emsp;&emsp;If the account holder's surviving spouse acquires such holder's interest in a medical savings account by reason of being the designated beneficiary of such account at the death of the account holder, such medical savings account shall be treated as if the spouse were the account holder.
 
 #### (B) Other cases
 
@@ -402,7 +402,7 @@ The Secretary may require the trustee of a medical savings account to make such 
 
 #### (iii) Self-employed individuals
 
-&emsp;&emsp;&emsp;In the case of an individual described in subclause (II) of subsection (c)(1)(A)(iii),the cut-off date is November 1 of the cut-off year.
+&emsp;&emsp;&emsp;In the case of an individual described in subclause (II) of subsection (c)(1)(A)(iii), the cut-off date is November 1 of the cut-off year.
 
 #### (iv) Special rules for 1997
 
@@ -506,9 +506,9 @@ The Secretary may require the trustee of a medical savings account to make such 
 
 (Added Pub. L. 104–191, title III, §301(a), Aug. 21, 1996, 110 Stat. 2037; amended Pub. L. 105–33, title IV, §4006(b)(2), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title XVI, §1602(a)(2), (3), Aug. 5, 1997, 111 Stat. 1093, 1094.)
 
-#### Adjustment of Annual Deductible Amounts for Tax Years Beginning in 1999
+#### Adjustment of Annual Deductible Amounts for Tax Years Beginning in 2000
 
-<i>For adjustment of annual deductible amounts in determining “high deductible health plan” under subsec. (c)(2)(A) of this section for tax years beginning in 1999, see section 3.10 of Revenue Procedure 98–61, set out as a note under section 1 of this title.</i>
+<i>For adjustment of annual deductible amounts in determining “high deductible health plan” under subsec. (c)(2)(A) of this section for tax years beginning in 2000, see section 3.11 of Revenue Procedure 99–42, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 

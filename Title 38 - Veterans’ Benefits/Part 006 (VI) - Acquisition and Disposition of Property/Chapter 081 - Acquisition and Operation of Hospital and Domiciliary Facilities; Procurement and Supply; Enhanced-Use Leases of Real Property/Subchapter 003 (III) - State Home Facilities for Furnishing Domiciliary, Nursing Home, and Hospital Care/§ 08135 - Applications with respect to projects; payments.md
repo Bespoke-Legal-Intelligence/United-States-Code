@@ -1,26 +1,36 @@
 ### §8135. Applications with respect to projects; payments
 
-(a) Any State desiring to receive assistance for a project for construction of State home facilities (or acquisition of a facility to be used as a State home facility) must submit to the Secretary an application. Such application shall set forth—
+(a) Any State desiring to receive assistance for a project for construction of State home facilities (or acquisition of a facility to be used as a State home facility) must submit to the Secretary an application. Such application shall set forth the following:
 
-&emsp;(1) the amount of the grant requested with respect to such project which may not exceed 65 percent of the estimated cost of construction (or of the estimated cost of facility acquisition and construction) of such project,
+&emsp;(1) The amount of the grant requested with respect to such project which may not exceed 65 percent of the estimated cost of construction (or of the estimated cost of facility acquisition and construction) of such project.
 
-&emsp;(2) a description of the site for such project,
+&emsp;(2) A description of the site for such project.
 
-&emsp;(3) plans and specifications for such project in accordance with regulations prescribed by the Secretary pursuant to section 8134(a)(2) of this title,
+&emsp;(3) Plans and specifications for such project in accordance with regulations prescribed by the Secretary pursuant to section 8134(a)(2) of this title.
 
-&emsp;(4) reasonable assurance that upon completion of such project the facilities will be used principally to furnish to veterans the level of care for which such application is made and that not more than 25 percent of the bed occupancy at any one time will consist of patients who are not receiving such level of care as veterans,
+&emsp;(4) Reasonable assurance that upon completion of such project the facilities will be used principally to furnish to veterans the level of care for which such application is made and that not more than 25 percent of the bed occupancy at any one time will consist of patients who are not receiving such level of care as veterans.
 
-&emsp;(5) reasonable assurance that title to such site is or will be vested solely in the applicant, a State home, or another agency or instrumentality of the State,
+&emsp;(5) Reasonable assurance that title to such site is or will be vested solely in the applicant, a State home, or another agency or instrumentality of the State.
 
-&emsp;(6) reasonable assurance that adequate financial support will be available for the construction of the project (or for facility acquisition and construction of the project) by July 1 of the fiscal year for which the application is approved and for its maintenance and operation when complete,
+&emsp;(6) Reasonable assurance that adequate financial support will be available for the construction of the project (or for facility acquisition and construction of the project) by July 1 of the fiscal year for which the application is approved and for its maintenance and operation when complete.
 
-&emsp;(7) reasonable assurance that the State will make such reports in such form and containing such information as the Secretary may from time to time reasonably require, and give the Secretary, upon demand, access to the records upon which such information is based,
+&emsp;(7) Reasonable assurance that the State will make such reports in such form and containing such information as the Secretary may from time to time reasonably require, and give the Secretary, upon demand, access to the records upon which such information is based.
 
-&emsp;(8) reasonable assurance that the rates of pay for laborers and mechanics engaged in construction of the project will be not less than the prevailing local wage rates for similar work as determined in accordance with the Act of March 3, 1931 (40 U.S.C. 276a—276a–5) (known as the Davis-Bacon Act), and
+&emsp;(8) Reasonable assurance that the rates of pay for laborers and mechanics engaged in construction of the project will be not less than the prevailing local wage rates for similar work as determined in accordance with the Act of March 3, 1931 (40 U.S.C. 276a—276a–5) (known as the Davis-Bacon Act).
 
-&emsp;(9) in the case of a project for acquisition of a facility, reasonable assurance that the estimated total cost of acquisition of the facility and of any expansion, remodeling, and alteration of the acquired facility will not be greater than the estimated cost of construction of an equivalent new facility.
+&emsp;(9) In the case of a project for acquisition of a facility, reasonable assurance that the estimated total cost of acquisition of the facility and of any expansion, remodeling, and alteration of the acquired facility will not be greater than the estimated cost of construction of an equivalent new facility.
 
-(b)(1) Upon receipt of an application for a grant under subsection (a) of this section, the Secretary—
+(b)(1) Any State seeking to receive assistance under this subchapter for a project that would involve construction or acquisition of either nursing home or domiciliary facilities shall include with its application under subsection (a) the following:
+
+&emsp;(A) Documentation (i) that the site for the project is in reasonable proximity to a sufficient concentration and population of veterans who are 65 years of age and older, and (ii) that there is a reasonable basis to conclude that the facilities when complete will be fully occupied.
+
+&emsp;(B) A financial plan for the first three years of operation of such facilities.
+
+&emsp;(C) A five-year capital plan for the State home program for that State.
+
+(2) Failure to provide adequate documentation under paragraph (1)(A) or to provide an adequate financial plan under paragraph (1)(B) shall be a basis for disapproving the application.
+
+(c)(1) Upon receipt of an application under subsection (a) for financial assistance under this subchapter, the Secretary—
 
 &emsp;(A) shall determine whether the application meets the requirements of this section and of the regulations prescribed under section 8134 of this title;
 
@@ -30,17 +40,25 @@
 
 (2) Subject to paragraphs (3) and (5)(C) of this subsection, the Secretary shall accord priority to applications in the following order:
 
-&emsp;(A) An application from a State that has made sufficient funds available for the construction or acquisition of the project for which the grant is requested so that such project may proceed upon approval of the grant without further action required by the State to make such funds available for such purpose.
+&emsp;(A) An application from a State that has made sufficient funds available for the project for which the grant is requested so that such project may proceed upon approval of the grant without further action required by the State to make such funds available for such purpose.
 
-&emsp;(B) An application from a State that does not have a State home facility constructed or acquired with assistance under this subchapter (or for which such a grant has been made).
+&emsp;(B) An application from a State for a project at an existing facility to remedy a condition or conditions that have been cited by an accrediting institution, by the Secretary, or by a local licensing or approving body of the State as being threatening to the lives or safety of the patients in the facility.
 
-&emsp;(C) An application from a State which the Secretary determines, in accordance with criteria and procedures specified in regulations which the Secretary shall prescribe, has a greater need for nursing home or domiciliary beds or adult day health care facilities than other States from which applications are received.
+&emsp;(C) An application from a State that has not previously applied for award of a grant under this subchapter for construction or acquisition of a State nursing home.
 
-&emsp;(D) An application that meets such other criteria as the Secretary determines are appropriate and has established in regulations.
+&emsp;(D) An application for construction or acquisition of a nursing home or domiciliary from a State that the Secretary determines, in accordance with regulations under this subchapter, has a great need for the beds to be established at such home or facility.
+
+&emsp;(E) An application from a State for renovations to a State home facility other than renovations described in subparagraph (B).
+
+&emsp;(F) An application for construction or acquisition of a nursing home or domiciliary from a State that the Secretary determines, in accordance with regulations under this subchapter, has a significant need for the beds to be established at such home or facility.
+
+&emsp;(G) An application that meets other criteria as the Secretary determines appropriate and has established in regulations.
+
+&emsp;(H) An application for construction or acquisition of a nursing home or domiciliary from a State that the Secretary determines, in accordance with regulations under this subchapter, has a limited need for the beds to be established at such home or facility.
 
 (3) In according priorities to projects under paragraph (2) of this subsection, the Secretary—
 
-&emsp;(A) shall accord priority only to projects which would involve construction or acquisition of either nursing home or domiciliary buildings or construction (other than new construction) of adult day health care buildings; and
+&emsp;(A) may not accord any priority to a project for the construction or acquisition of a hospital; and
 
 &emsp;(B) may not accord any priority to a project which would expand a State's capacity to furnish hospital care in a State home.
 
@@ -62,19 +80,41 @@
 
 (B) A grant may not be increased under subparagraph (A) of this paragraph by more than 10 percent of the amount of the grant initially awarded for such project, and the amount of such grant, as increased, may not exceed 65 percent of the cost of the project.
 
-(c) No application submitted to the Secretary under this section shall be disapproved until the Secretary has afforded the applicant notice and an opportunity for a hearing.
+(d) No application submitted to the Secretary under this section shall be disapproved until the Secretary has afforded the applicant notice and an opportunity for a hearing.
 
-(d) The amount of a grant under this subchapter shall be paid to the applicant or, if designated by the applicant, the State home for which such project is being carried out or any other agency or instrumentality of the applicant. Such amount shall be paid, in advance or by way of reimbursement, and in such installments consistent with the progress of the project as the Secretary may determine and certify for payment to the Secretary of the Treasury. Funds paid under this section for an approved project shall be used solely for carrying out such project as so approved.
+(e) The amount of a grant under this subchapter shall be paid to the applicant or, if designated by the applicant, the State home for which such project is being carried out or any other agency or instrumentality of the applicant. Such amount shall be paid, in advance or by way of reimbursement, and in such installments consistent with the progress of the project as the Secretary may determine and certify for payment to the Secretary of the Treasury. Funds paid under this section for an approved project shall be used solely for carrying out such project as so approved.
 
-(e) Any amendment of any application, whether or not approved, shall be subject to approval in the same manner as an original application.
+(f) Any amendment of any application, whether or not approved, shall be subject to approval in the same manner as an original application.
 
-(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 502, §5035; amended Pub. L. 89–311, §7(a), Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title IV, §403(e), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title II, §§206(b), 210(e)(10), Oct. 21, 1976, 90 Stat. 2859, 2865; Pub. L. 95–62, §3(7)–(12), July 5, 1977, 91 Stat. 262, 263; Pub. L. 97–295, §4(92), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–528, title I, §105(3), Oct. 19, 1984, 98 Stat. 2689; Pub. L. 99–166, title II, §205, Dec. 3, 1985, 99 Stat. 953; Pub. L. 99–576, title II, §224(b), (c), Oct. 28, 1986, 100 Stat. 3262, 3263; Pub. L. 100–322, title II, §206, May 20, 1988, 102 Stat. 513; renumbered §8135 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(7), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title IV, §§403(a), 404(a), Nov. 4, 1992, 106 Stat. 4954; Pub. L. 103–446, title XII, §1201(d)(18), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–262, title III, §342(b)(3), Oct. 9, 1996, 110 Stat. 3206.)
+(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 502, §5035; amended Pub. L. 89–311, §7(a), Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title IV, §403(e), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title II, §§206(b), 210(e)(10), Oct. 21, 1976, 90 Stat. 2859, 2865; Pub. L. 95–62, §3(7)–(12), July 5, 1977, 91 Stat. 262, 263; Pub. L. 97–295, §4(92), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–528, title I, §105(3), Oct. 19, 1984, 98 Stat. 2689; Pub. L. 99–166, title II, §205, Dec. 3, 1985, 99 Stat. 953; Pub. L. 99–576, title II, §224(b), (c), Oct. 28, 1986, 100 Stat. 3262, 3263; Pub. L. 100–322, title II, §206, May 20, 1988, 102 Stat. 513; renumbered §8135 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(7), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title IV, §§403(a), 404(a), Nov. 4, 1992, 106 Stat. 4954; Pub. L. 103–446, title XII, §1201(d)(18), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–262, title III, §342(b)(3), Oct. 9, 1996, 110 Stat. 3206; Pub. L. 106–117, title II, §207(b), Nov. 30, 1999, 113 Stat. 1565.)
 
 #### References in Text
 
 Act of March 3, 1931, referred to in subsec. (a)(8), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis-Bacon Act, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–117, §207(b)(1), in introductory provisions, substituted “set forth the following:” for “set forth—”, in pars. (1) to (7), capitalized the first letter of the first word and substituted a period for the comma at the end, in par. (8), capitalized the first letter of the first word and substituted a period for “, and” at the end, and in par. (9), capitalized the first letter of the first word.
+
+Subsec. (b). Pub. L. 106–117, §207(b)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 106–117, §207(b)(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+
+Subsec. (c)(1). Pub. L. 106–117, §207(b)(4)(A), in introductory provisions, substituted “under subsection (a) for financial assistance under this subchapter” for “for a grant under subsection (a) of this section”.
+
+Subsec. (c)(2)(A). Pub. L. 106–117, §207(b)(4)(B)(i), struck out “the construction or acquisition of” after “sufficient funds available for”.
+
+Subsec. (c)(2)(B) to (H). Pub. L. 106–117, §207(b)(4)(B)(ii), added subpars. (B) to (H) and struck out former subpars. (B) to (D) which read as follows:
+
+“(B) An application from a State that does not have a State home facility constructed or acquired with assistance under this subchapter (or for which such a grant has been made).
+
+“(C) An application from a State which the Secretary determines, in accordance with criteria and procedures specified in regulations which the Secretary shall prescribe, has a greater need for nursing home or domiciliary beds or adult day health care facilities than other States from which applications are received.
+
+“(D) An application that meets such other criteria as the Secretary determines are appropriate and has established in regulations.”
+
+Subsec. (c)(3)(A). Pub. L. 106–117, §207(b)(4)(C), added subpar. (A) and struck out former subpar. (A) which read as follows: “shall accord priority only to projects which would involve construction or acquisition of either nursing home or domiciliary buildings or construction (other than new construction) of adult day health care buildings; and”.
+
+Subsecs. (d) to (f). Pub. L. 106–117, §207(b)(2), redesignated subsecs. (c) to (e) as (d) to (f), respectively.
 
 1996—Subsec. (b)(2)(C). Pub. L. 104–262, §342(b)(3)(A), inserted “or adult day health care facilities” after “domiciliary beds”.
 
@@ -106,7 +146,7 @@ Subsec. (b)(6), (7). Pub. L. 100–322, §206(b)(2), added pars. (6) and (7).
 
 1986—Subsec. (b). Pub. L. 99–576, §224(b), amended subsec. (b) generally, substituting provisions consisting of pars. (1) to (5) for former provisions consisting of pars. (1) and (2).
 
-Subsec. (d). Pub. L. 99–576, §224(c), struck out par. (1) designation, substituted “The amount of a grant under this subchapter shall be paid” for “Upon approving an application under this section, the Administrator shall certify to the Secretary of the Treasury the amount of the grant so approved, but in no event an amount greater than 65 percent of the estimated cost of construction (or of the estimated cost of facility acquisition and construction) of the project, and shall designate the appropriation from which it shall be paid. Such certification shall provide for payment” and struck out par. (2) which read as follows: “No one State may receive in any fiscal year in the aggregate under this subchapter more than one-third of the amount appropriated for carrying out this subchapter in such fiscal year.”
+Subsec. (d). Pub. L. 99–576, §224(c), struck out par. (1) designation, substituted “The amount of a grant underthis subchapter shall be paid” for “Upon approving an application under this section, the Administrator shall certify to the Secretary of the Treasury the amount of the grant so approved, but in no event an amount greater than 65 percent of the estimated cost of construction (or of the estimated cost of facility acquisition and construction) of the project, and shall designate the appropriation from which it shall be paid. Such certification shall provide for payment” and struck out par. (2) which read as follows: “No one State may receive in any fiscal year in the aggregate under this subchapter more than one-third of the amount appropriated for carrying out this subchapter in such fiscal year.”
 
 1985—Subsec. (a)(6). Pub. L. 99–166, §205(a), inserted “by July 1 of the fiscal year for which the application is approved”.
 
@@ -170,7 +210,27 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L. 93–82, set out as a note under section 1701 of this title.
 
-#### Deadline for Regulations
+#### Regulations
 
 Section 224(f) of Pub. L. 99–576 provided that: “The Administrator of Veterans’ Affairs shall prescribe regulations not later than April 1, 1987, to implement the amendments made by this section \[amending this section and sections 5031 and 5033 \[now 8131 and 8133\] of this title\].”
+
+#### Transition Provisions
+
+Pub. L. 106–117, title II, §207(c), Nov. 30, 1999, 113 Stat. 1566, provided that:
+
+“(1) The provisions of sections 8134 and 8135 of title 38, United States Code, as in effect on November 10, 1999, shall continue in effect after that date with respect to applications described in section 8135(b)(2)(A) of such title, as in effect on that date, that are identified in paragraph (2) (and to projects and grants pursuant to those applications). The Secretary \[of Veterans Affairs\] shall accord priority among those applications in the order listed in paragraph (2).
+
+“(2) Applications covered by paragraph (1) are the following:
+
+&emsp;“(A) Any application for a fiscal year 1999 priority one project.
+
+&emsp;“(B) Any application for a fiscal year 2000 priority one project that was submitted by a State that (i) did not receive grant funds from amounts appropriated for fiscal year 1999 under the State home grant program, and (ii) does not have any fiscal year 1999 priority one projects.
+
+“(3) For purposes of this subsection—
+
+&emsp;“(A) the term ‘fiscal year 1999 priority one project’ means a project on the list of approved projects established by the Secretary on October 29, 1998, under section 8135(b)(4) of title 38, United States Code, as in effect on that date that (pursuant to section 8135(b)(2)(A) of that title) is in the grouping of projects on that list designated as Priority Group 1;
+
+&emsp;“(B) the term ‘fiscal year 2000 priority one project’ means a project on the list of approved projects established by the Secretary on November 3, 1999, under section 8135(b)(4) of title 38, United States Code, as in effect on that date that (pursuant to section 8135(b)(2)(A) of that title) is in the grouping of projects on that list designated as Priority Group 1; and
+
+&emsp;“(C) the term ‘State home grant program’ means the grant program under subchapter III of chapter 81 of title 38, United States Code.”
 

@@ -20,7 +20,7 @@ In order to carry out his responsibilities for the management of international s
 
 #### (b) Furnishing of advisory and training assistance
 
-Advisory and training assistance conducted by military personnel assigned under this section shall be kept to an absolute minimum. It is the sense of the Congress that advising and training assistance in countries to which military personnel are assigned under this section shall be provided primarily by other personnel who are not assigned under this section and who are detailed for limited periods to perform specific tasks.
+Advisory and training assistance conducted by military personnel assigned under this sectionshall be kept to an absolute minimum. It is the sense of the Congress that advising and training assistance in countries to which military personnel are assigned under this section shall be provided primarily by other personnel who are not assigned under this section and who are detailed for limited periods to perform specific tasks.
 
 #### (c) Number of personnel assigned; waiver; procedures applicable
 
@@ -66,7 +66,7 @@ Subsec. (b). Pub. L. 97–113 substituted provision directing that advisory and 
 
 Subsec. (c). Pub. L. 97–113 substituted provision designating the maximum number of personnel assignable, waiver of this limitation, and the procedures applicable for provision relating to assignment of military personnel to countries not specified in former subsec. (b) of this section for performance of accounting and other management functions, the maximum number assignable, and an exception to that number if the Chief of the Diplomatic Mission so requests.
 
-Subsec. (d). Pub. L. 97–113 substituted provision directing that, effective Oct. 1, 1982, the entire costs of overseas management of international security assistance programs be charged or reimbursed from fundsmade available to carry out this part, other than costs paid directly for defense services under section 2761(a) of this title or reimbursed from charges for services collected from foreign governments pursuant to sections 2761(e) and 2792(b) of this title, for provision that the maximum number of members of the Armed Forces assignable for fiscal year 1979 to all countries not exceed 790.
+Subsec. (d). Pub. L. 97–113 substituted provision directing that, effective Oct. 1, 1982, the entire costs of overseas management of international security assistance programs be charged or reimbursed from funds made available to carry out this part, other than costs paid directly for defense services under section 2761(a) of this title or reimbursed from charges for services collected from foreign governments pursuant to sections 2761(e) and 2792(b) of this title, for provision that the maximum number of members of the Armed Forces assignable for fiscal year 1979 to all countries not exceed 790.
 
 Subsec. (e). Pub. L. 97–113 substituted “under this section” for “under subsection (b) or (c) of this section” and “to that country” for “in that country”.
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Defense by section 1–301(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56675, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

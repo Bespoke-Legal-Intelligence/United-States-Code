@@ -16,7 +16,7 @@ Any entity specified in subsection (a) of this section shall establish, maintain
 
 &emsp;(2) inform its employees and recognized employee organizations of the equal employment opportunity policy and program and enlist their cooperation;
 
-&emsp;(3) communicate its equal employment opportunity policy and program and its employment needs to sources of qualified applicantswithout regard to race, color, religion, national origin, age, or sex, and solicit their recruitment assistance on a continuing basis;
+&emsp;(3) communicate its equal employment opportunity policy and program and its employment needs to sources of qualified applicants without regard to race, color, religion, national origin, age, or sex, and solicit their recruitment assistance on a continuing basis;
 
 &emsp;(4) conduct a continuing program to exclude every form of prejudice or discrimination based on race, color, religion, national origin, age, or sex, from its personnel policies and practices and working conditions; and
 
@@ -80,7 +80,7 @@ Any entity specified in subsection (a) of this section shall establish, maintain
 
 (1) On an annual basis, the Commission shall certify each entity described in subsection (a) of this section as in compliance with this section if, on the basis of information in the possession of the Commission, including the report filed pursuant to subsection (d)(3) of this section, such entity was in compliance, during the annual period involved, with the requirements of subsections (b), (c), and (d) of this section.
 
-(2) The Commission shall, periodically but not less frequently than every five years, investigate the employment practices of each entity described in subsection (a) of this section, in the aggregate, as well as in individual job categories, and determine whether such entity is in compliance with the requirements of subsections (b), (c), and (d) of this section, including whether such entity's employment practices deny or abridge women and minorities equal employment opportunities. As part of such investigation, the Commission shall review whether the entity's reports filed pursuant to subsection (d)(3) of this section accurately reflect employeeresponsibilities in the reported job classifications.
+(2) The Commission shall, periodically but not less frequently than every five years, investigate the employment practices of each entity described in subsection (a) of this section, in the aggregate, as well as in individual job categories, and determine whether such entity is in compliance with the requirements of subsections (b), (c), and (d) of this section, including whether such entity's employment practices deny or abridge women and minorities equal employment opportunities. As part of such investigation, the Commission shall review whether the entity's reports filed pursuant to subsection (d)(3) of this section accurately reflect employee responsibilities in the reported job classifications.
 
 #### (f) Substantial failure to comply; penalties; notice to public and franchising authorities
 
@@ -132,7 +132,7 @@ For “the effective date of this subchapter”, referred to in subsec. (i)(1)(C
 
 1992—Subsec. (d)(1). Pub. L. 102–385, §22(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Not later than 270 days after the effective date of this section, and after notice and opportunity for hearing, the Commission shall prescribe rules to carry out this section.”
 
-Subsec. (d)(3). Pub. L. 102–385, §22(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows:“Such rules also shall require an entity specified in subsection (a) of this section with more than 5 full-time employees to file with the Commission an annual statistical report identifying by race and sex the number of employees in each of the following full-time and part-time job categories:
+Subsec. (d)(3). Pub. L. 102–385, §22(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Such rules also shall require an entity specified in subsection (a) of this section with more than 5 full-time employees to file with the Commission an annual statistical report identifying by race and sex the number of employees in each of the following full-time and part-time job categories:
 
 &emsp;“(A) officials and managers;
 

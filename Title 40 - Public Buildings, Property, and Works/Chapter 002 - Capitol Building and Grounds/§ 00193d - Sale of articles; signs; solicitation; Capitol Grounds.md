@@ -14,5 +14,5 @@ Pub. L. 96–432, §6(c), Oct. 10, 1980, 94 Stat. 1853, provided that, in order 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 136, 174b–1, 184a, 193h, 193i, 193j, 193k, 193<i>l</i>, 193m, 212a, 1205 of this title; title 2 sections 121c, 121d.
+This section is referred to in sections 136, 174b–1, 174j–1, 184a, 193h, 193i, 193j, 193k, 193<i>l</i>, 193m, 212a, 1205 of this title; title 2 sections 121b–1, 121c, 121d.
 

@@ -28,7 +28,7 @@
 
 #### (b) Forests
 
-The Secretary shall conduct a study on the emissions of methane, nitrous oxide, and hydrocarbons from tropical and temperate forests, the manner in which such emissions may affect global climate change; the manner in which global climate change may affect such emissions; and the manner in which such emissions may be reduced through management practices. The study shall, at a minimum—
+The Secretary shall conduct a study on the emissions of methane, nitrous oxide, and hydrocarbons from tropical and temperate forests, the manner in which such emissions may affectglobal climate change; the manner in which global climate change may affect such emissions; and the manner in which such emissions may be reduced through management practices. The study shall, at a minimum—
 
 &emsp;(1) obtain measurements of nitrous oxide, methane, and nonmethane hydrocarbons from tropical and temperate forests;
 

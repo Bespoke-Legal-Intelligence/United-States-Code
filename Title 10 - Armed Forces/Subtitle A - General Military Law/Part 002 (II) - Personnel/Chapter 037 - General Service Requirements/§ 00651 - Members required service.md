@@ -50,7 +50,7 @@ In subsection (a), the word “male” is inserted, since the source statute (Un
 
 In subsection (b), the words “who is not a Reserve” are inserted, since the eight year obligation for Reserves is covered by subsection (a). The words “active duty” are substituted for the words “active training and service”. The last eight words are substituted for the words “and shall serve therein for the remainder of the period which he is required to serve under this paragraph”. The words “physically and mentally” and 50 App.:454(d)(3) (last 15 words of 2d sentence) are omitted as surplusage.
 
-In \[former\] subsection (c), the words “who is released from active duty” are inserted for clarity. The words “shall become a member” are substituted for the words “it shall be the duty of such person to enlist, enroll, or accept appointment in, or accept assignment to”. The words “there is a vacancy” are substituted for the words “enlistment, enrollment, or appointment in, orassignment to”. 50 App.:454(d)(3) (last sentence) is omitted as surplusage.
+In \[former\] subsection (c), the words “who is released from active duty” are inserted for clarity. The words “shall become a member” are substituted for the words “it shall be the duty of such person to enlist, enroll, or accept appointment in, or accept assignment to”. The words “there is a vacancy” are substituted for the words “enlistment, enrollment, or appointment in, or assignment to”. 50 App.:454(d)(3) (last sentence) is omitted as surplusage.
 
 1958
 

@@ -126,7 +126,7 @@ Section 401(h) of Pub. L. 91–172 provided that:
 
 #### Effective Date
 
-Section applicable with respect to taxable years ending after Dec. 31, 1963, see section 235(d) of Pub. L. 88–272, set out as an Effective Date of 1964 Amendment note under section 1551 of this title.
+Section applicable with respect to taxable years ending after Dec. 31, 1963, see section 235(d) of Pub. L.88–272, set out as an Effective Date of 1964 Amendment note under section 1551 of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

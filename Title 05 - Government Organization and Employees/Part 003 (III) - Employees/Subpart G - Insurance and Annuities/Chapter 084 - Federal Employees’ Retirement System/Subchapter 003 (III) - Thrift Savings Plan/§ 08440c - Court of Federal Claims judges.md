@@ -10,7 +10,7 @@
 
 (3) No contributions shall be made under section 8432(c) of this title for the benefit of a Court of Federal Claims judge making contributions under subsection (a) of this section.
 
-(4)(A) Section 8433(b) of this title applies to a Court of Federal Claims judge who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires entitled to an annuity under section 178 oftitle 28 (including a disability annuity under subsection (c) of such section).
+(4)(A) Section 8433(b) of this title applies to a Court of Federal Claims judge who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires entitled to an annuity under section 178 of title 28 (including a disability annuity under subsection (c) of such section).
 
 (B) Section 8433(b) of this title applies to any Court of Federal Claims judge who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before becoming entitled to an annuity under section 178 of title 28.
 
@@ -38,7 +38,7 @@ Subsec. (b)(8). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(
 
 Subsec. (b)(5). Pub. L. 103–226, §9(g)(2), substituted “any of the actions described in paragraph (4)(A) or (B) shall be considered” for “retirement under section 178 of title 28 is”.
 
-Subsec. (b)(8), (9). Pub. L. 103–226, §9(g)(3), (4), redesignated par. (9) as (8), substituted “Notwithstanding paragraph (4)” for “Notwithstanding paragraph (4)(A)”, and struck out former par. (8) which read as follows: “Notwithstanding paragraph (4)(B), if any Court of Federal Claims judge who elects to make contributions to the Thrift Savings Fund under subsection (a) retires before becoming entitled to an annuity under section 178 of title 28, and such judge's nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the judge elects, at such time and otherwise in such manner as the Executive Director prescribes, to have the nonforfeitable account balance transferred to an eligible retirement plan as provided in section 8433(e).”
+Subsec. (b)(8), (9). Pub. L. 103–226, §9(g)(3), (4), redesignated par. (9) as (8), substituted “Notwithstanding paragraph (4)” for “Notwithstanding paragraph (4)(A)”,and struck out former par. (8) which read as follows: “Notwithstanding paragraph (4)(B), if any Court of Federal Claims judge who elects to make contributions to the Thrift Savings Fund under subsection (a) retires before becoming entitled to an annuity under section 178 of title 28, and such judge's nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the judge elects, at such time and otherwise in such manner as the Executive Director prescribes, to have the nonforfeitable account balance transferred to an eligible retirement plan as provided in section 8433(e).”
 
 1992—Pub. L. 102–572, §902(b)(2), substituted “Court of Federal Claims” for “Claims Court” in section catchline.
 

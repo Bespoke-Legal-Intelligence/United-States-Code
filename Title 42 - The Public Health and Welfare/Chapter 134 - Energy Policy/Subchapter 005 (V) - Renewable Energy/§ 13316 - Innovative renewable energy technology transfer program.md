@@ -16,7 +16,7 @@ The purposes of the technology transfer program under this section are to—
 
 &emsp;(4) develop markets for United States renewable energy technologies to be utilized in meeting the energy and environmental requirements of foreign countries;
 
-&emsp;(5) better ensure that United States participation in energy-related projects in foreign countries includes participation by United States firms as well as utilization of United States technologies that have been developed or demonstrated in the United States through publicly or privately funded demonstration programs;
+&emsp;(5) better ensure that United States participation in energy-related projects in foreign countries includes participation by United States firms as well as utilization of UnitedStates technologies that have been developed or demonstrated in the United States through publicly or privately funded demonstration programs;
 
 &emsp;(6) ensure the introduction of United States firms and expertise in foreign countries;
 
@@ -32,7 +32,7 @@ Pursuant to the agreements required by subsection (a) of this section, the Secre
 
 #### (d) Financial mechanisms
 
-(1) Pursuant to the agreements under subsection (a) of this section, the Secretary,through the Agency for International Development, shall—
+(1) Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, shall—
 
 &emsp;(A) establish appropriate financial mechanisms to increase the participation of United States firms in energy projects utilizing United States renewable energy technologies, and services related thereto, in developing countries;
 
@@ -80,7 +80,7 @@ Pursuant to the agreements under subsection (a) of this section, the Secretary, 
 
 #### (h) Selection of projects
 
-(1) Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, shall, not later than 120 days after receipt of proposals in response to a solicitation under subsection (e) of this section, select one or more proposals under this section.
+(1) Pursuant to the agreements under subsection (a) of this section, the Secretary,through the Agency for International Development, shall, not later than 120 days after receipt of proposals in response to a solicitation under subsection (e) of this section, select one or more proposals under this section.
 
 (2) In selecting a proposal under this section, the Secretary, through the Agency for International Development, shall consider—
 

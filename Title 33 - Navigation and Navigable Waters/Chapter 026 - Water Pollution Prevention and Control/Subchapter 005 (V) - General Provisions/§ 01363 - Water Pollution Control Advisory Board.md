@@ -24,7 +24,7 @@ Travel expenses, including per diem in lieu of subsistence as authorized by law,
 
 #### Continuation of Term of Office
 
-Pub. L. 87–88, §6(c), July 20, 1961, 75 Stat. 207, provided that members of the Water Pollution Control Advisory Board holding office immediately preceding July 20, 1961 were to remain in office as members of the Board as established by section 6(a) of Pub. L. 87–88 until the expiration of the terms of office for which they were originally appointed.
+Pub. L. 87–88, §6(c), July 20, 1961, 75 Stat. 207, provided that members of the Water Pollution Control AdvisoryBoard holding office immediately preceding July 20, 1961 were to remain in office as members of the Board as established by section 6(a) of Pub. L. 87–88 until the expiration of the terms of office for which they were originally appointed.
 
 #### Terms of Office of Members of Water Pollution Control Advisory Board
 

@@ -92,7 +92,7 @@ Subsec. (a)(4)(C). Pub. L. 99–563, §4(a)(3), amended subpar. (C) generally. P
 
 Subsec. (a)(4)(E) to (H). Pub. L. 99–563, §4(a)(4), added subpars. (E) to (H), and struck out former subpar. (E) which read as follows: “which is composed of member each of whose principal activity consists of the manufacture, design, importation, distribution, packaging, labeling, lease, or sale of a product or products;”.
 
-Subsec. (a)(5). Pub. L. 99–563, §4(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “ ‘purchasing group’ means any group of persons which has as one of its purposes the purchase of product liability or completed operations liability insurance on a group basis;”.
+Subsec. (a)(5). Pub. L. 99–563, §4(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “ ‘purchasing group’ means any group of persons whichhas as one of its purposes the purchase of product liability or completed operations liability insurance on a group basis;”.
 
 Subsec. (a)(7). Pub. L. 99–563, §3(b), added par. (7).
 

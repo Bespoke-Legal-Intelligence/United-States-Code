@@ -74,7 +74,7 @@ Pub. L. 101–510, div. A, title XIV, §1481(h)(2), div. B, title XXVIII, §2804
 
 Pub. L. 100–180, div. A, title XI, §1112(b)(3), Dec. 4, 1987, 101 Stat. 1147, inserted “or security-guard” before “functions” in item 2693.
 
-1986—Pub. L. 99–661, div. A, title XII, §§1205(a)(2), 1222(a)(2), Nov. 14, 1986, 100 Stat. 3972, 3976, substituted “Fuel sources for heating systems” for “Restriction onfuel sources for new heating systems” in item 2690 and added item 2693.
+1986—Pub. L. 99–661, div. A, title XII, §§1205(a)(2), 1222(a)(2), Nov. 14, 1986, 100 Stat. 3972, 3976, substituted “Fuel sources for heating systems” for “Restriction on fuel sources for new heating systems” in item 2690 and added item 2693.
 
 Pub. L. 98–115, title VIII, §807(c)(2), Oct. 11, 1983, 97 Stat. 789; Pub. L. 99–167, title VIII, §806(a), Dec. 3, 1985, 99 Stat. 988, struck out item 2667a “Sale and replacement of nonexcess real property”, eff. Oct. 1, 1986.
 

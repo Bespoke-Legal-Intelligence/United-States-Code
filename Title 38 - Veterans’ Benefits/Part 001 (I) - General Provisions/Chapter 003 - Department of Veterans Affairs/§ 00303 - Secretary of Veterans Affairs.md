@@ -100,7 +100,7 @@ Required Elements of Information Program.—In conducting the program under subs
 
 “(c)
 
-Training in AIDS Prevention.—The Secretary shall establish and carry out a program that provides for education, training, and other activities (including continuing education and infection control programs) regarding AIDS and the human immunodeficiency virus designed to improve the effectiveness and safety of all health-care personnel and all health-care support personnel involved in the furnishing of care under programs administered by the Department of Veterans Affairs.”
+Training in AIDS Prevention.—The Secretary shall establish and carry out a program that providesfor education, training, and other activities (including continuing education and infection control programs) regarding AIDS and the human immunodeficiency virus designed to improve the effectiveness and safety of all health-care personnel and all health-care support personnel involved in the furnishing of care under programs administered by the Department of Veterans Affairs.”
 
 #### Emergency Preparedness Functions
 

@@ -6,7 +6,7 @@ Upon the vesting of title in the United States to such additional lands as may b
 
 #### Change of Name
 
-Chalmette National Historical Park redesignated Chalmette Unit of Jean Lafitte National Historical Park and references to Park deemed references to Chalmette Unit pursuant to Pub. L. 95–625, title IX, §909, Nov. 10, 1978, 92 Stat. 3538, which is classified to section 230h of this title.
+Chalmette National Historical Park redesignated Chalmette Unit of Jean Lafitte National HistoricalPark and references to Park deemed references to Chalmette Unit pursuant to Pub. L. 95–625, title IX, §909, Nov. 10, 1978, 92 Stat. 3538, which is classified to section 230h of this title.
 
 #### Acquisition of Lands
 

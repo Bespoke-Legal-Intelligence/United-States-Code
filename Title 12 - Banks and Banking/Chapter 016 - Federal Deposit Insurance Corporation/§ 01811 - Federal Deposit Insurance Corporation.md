@@ -40,6 +40,10 @@ Section is derived from subsec. (a) of former section 264 of this title. See Cod
 
 Section 22(b) of Pub. L. 103–204 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on July 1, 1995.”
 
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–102, §1(a), Nov. 12, 1999, 113 Stat. 1338, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Gramm-Leach-Bliley Act’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–277, div. H, §1, Oct. 21, 1998, 112 Stat. 2681–854, provided that: “This Division \[amending section 1828 of this title\] may be cited as the ‘Depository Institution-GSE Affiliation Act of 1998’.”
@@ -110,6 +114,12 @@ Pub. L. 102–242, title IV, §481, Dec. 19, 1991, 105 Stat. 2388, provided that
 
 Section 1221 of Pub. L. 101–73 provided that: “If any provision of this Act \[see Short Title of 1989 Amendment note above\] or the application thereof to any person or circumstance is held invalid, the remainder of the Act and the application of the provision to other persons not similarly situated or to other circumstances shall not be affected thereby.”
 
+#### Construction of 1999 Amendments
+
+Pub. L. 106–102, title II, §210, Nov. 12, 1999, 113 Stat. 1396, provided that: “Nothing in this Act \[see Short Title of 1999 Amendment note above\] shall supersede, affect, or otherwise limit the scope and applicability of the Commodity Exchange Act (7 U.S.C. 1 et seq.).”
+
+Pub. L. 106–102, title VII, §714, Nov. 12, 1999, 113 Stat. 1470, provided that: “Nothing in this Act \[see Short Title of 1999 Amendment note above\] shall be construed to repeal any provision of the Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\].”
+
 #### Construction of 1997 Amendment
 
 Pub. L. 105–18, title V, §50006, June 12, 1997, 111 Stat. 213, provided that: “No provision of this title \[see Short Title of 1997 Amendments note above\] shall be construed as limiting the authority of any department or agency under any other provision of law.”
@@ -130,7 +140,7 @@ Pub. L. 103–76, §7, Aug. 12, 1993, 107 Stat. 755, provided that: “Nothing i
 
 #### Construction of 1992 Amendments
 
-Pub. L. 102–485, §8, Oct. 23, 1992, 106 Stat. 2775, provided that: “Nothing in this Act \[see Short Title of 1992 Amendments note above\] limits the authority of any department or agency under any other provision of law.”
+Pub. L. 102–485, §8, Oct. 23, 1992, 106 Stat. 2775, provided that: “Nothing in this Act \[see Short Title of 1992Amendments note above\] limits the authority of any department or agency under any other provision of law.”
 
 #### Year 2000 Readiness for Financial Institutions
 
@@ -170,7 +180,9 @@ Definitions.—For purposes of this section—
 
 “(c)
 
-Seminars and Model Approaches to Year 2000 Computer Problem.—
+Seminars and Model Approaches to Year 2000
+
+Computer Problem.—
 
 &emsp;“(1)
 
@@ -384,7 +396,7 @@ Topics.—As part of the study required under subsection (a), the Secretary of t
 
 &emsp;&emsp;“(C) combining Federal with private insurance in order to bring the market discipline of private insurance to bear on the management of the depository institution; and
 
-&emsp;&emsp;“(D) ensuring, by law or regulation, that on the closing of any insured depository institution, the appropriate Federal insurance fund will honor only its explicit liabilities, and will never make good any losses on deposits not explicitly covered by Federal deposit insurance.
+&emsp;&emsp;“(D) ensuring, by law or regulation, that on the closing of any insured depository institution, the appropriate Federal insurance fund will honor onlyits explicit liabilities, and will never make good any losses on deposits not explicitly covered by Federal deposit insurance.
 
 &emsp;“(3) The scope of deposit insurance coverage and its impact on the liability of the insurance fund.
 

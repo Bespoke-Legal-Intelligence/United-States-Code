@@ -74,7 +74,7 @@ Any State program or activity to protect the integrity of the electoral process 
 
 &emsp;(B)(i) has failed to respond to a notice described in paragraph (2); and
 
-&emsp;(ii) has not voted or appeared to vote (and, if necessary, correct the registrar's record of theregistrant's address) in an election during the period beginning on the date of the notice and ending on the day after the date of the second general election for Federal office that occurs after the date of the notice.
+&emsp;(ii) has not voted or appeared to vote (and, if necessary, correct the registrar's record of the registrant's address) in an election during the period beginning on the date of the notice and ending on the day after the date of the second general election for Federal office that occurs after the date of the notice.
 
 (2) A notice is described in this paragraph if it is a postage prepaid and pre-addressed return card, sent by forwardable mail, on which the registrant may state his or her current address, together with a notice to the following effect:
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General Entitlement.—(1) Except as otherwise provided by law, a member of a uniformed service who is entitled to basic pay is entitled to a basic allowance for housing at the monthly rates prescribed under this section or another provision of law with regard to the applicable component of the basic allowance for housing. The amount of the basic allowance forhousing for a member will vary according to the pay grade in which the member is assigned or distributed for basic pay purposes, the dependency status of the member, and the geographic location of the member. The basic allowance for housing may be paid in advance.
+General Entitlement.—(1) Except as otherwise provided by law, a member of a uniformed service who is entitled to basic pay is entitled to a basic allowance for housing at the monthly rates prescribed under this section or another provision of law with regard to the applicable component of the basic allowance for housing. The amount of the basic allowance for housing for a member will vary according to the pay grade in which the member is assigned or distributed for basic pay purposes, the dependency status of the member, and the geographic location of the member. The basic allowance for housing may be paid in advance.
 
 (2) A member of a uniformed service with dependents is not entitled to a basic allowance for housing as a member with dependents unless the member makes a certification to the Secretary concerned indicating the status of each dependent of the member. The certification shall be made in accordance with regulations prescribed by the Secretary of Defense.
 
@@ -90,7 +90,7 @@ Ineligibility During Initial Field Duty or Sea Duty.—(1) A member of a uniform
 
 (g)
 
-Reserve Members.—(1) A member of a reserve component without dependents who is called or ordered to active duty in support of a contingency operation, or a retired member without dependents who is ordered to active duty under section 688(a) of title 10 in support of a contingency operation, may not be denied abasic allowance for housing if, because of that call or order, the member is unable to continue to occupy a residence—
+Reserve Members.—(1) A member of a reserve component without dependents who is called or ordered to active duty in support of a contingency operation, or a retired member without dependents who is ordered to active duty under section 688(a) of title 10 in support of a contingency operation, may not be denied a basic allowance for housing if, because of that call or order, the member is unable to continue to occupy a residence—
 
 &emsp;(A) which is maintained as the primary residence of the member at the time of the call or order; and
 
@@ -106,7 +106,7 @@ Rental of Public Quarters.—Notwithstanding any other law (including those rest
 
 (i)
 
-Temporary Housing Allowance While in Travel or Leave Status.—A member of a uniformed service who is in a pay grade E–4 (4 or more years of service) or above is entitled to a temporary basic allowance for housing (at a rate determined by the Secretary of Defense) while the member is in a travel or leave status between permanent duty stations, including time granted as delay en route or proceed time, when the member is not assigned to quarters of the United States.
+Temporary Housing Allowance While in Travel or Leave Status.—A member of a uniformed service who is in a pay grade E–4 (4 or more years of service) or above is entitled to a temporary basic allowance for housing (at a ratedetermined by the Secretary of Defense) while the member is in a travel or leave status between permanent duty stations, including time granted as delay en route or proceed time, when the member is not assigned to quarters of the United States.
 
 (j)
 
@@ -142,7 +142,7 @@ Members Paying Child Support.—(1) A member of a uniformed service with depende
 
 &emsp;(B) the member is assigned to sea duty, and elects not to occupy assigned quarters for unaccompanied personnel, unless the member is in a pay grade above E–4.
 
-(2) A member of a uniformed service assigned to quarters of the United States or a housing facility under the jurisdiction of a uniformed service who is not otherwise authorized a basic allowance for housing and who pays child support is entitled to the basic allowance for housing differential, except for months for which theamount payable for the child support is less than the rate of the differential. Payment of a basic allowance for housing differential does not affect any entitlement of the member to a partial allowance for quarters under subsection (n).
+(2) A member of a uniformed service assigned to quarters of the United States or a housing facility under the jurisdiction of a uniformed service who is not otherwise authorized a basic allowance for housing and who pays child support is entitled to the basic allowance for housing differential, except for months for which the amount payable for the child support is less than the rate of the differential. Payment of a basic allowance for housing differential does not affect any entitlement of the member to a partial allowance for quarters under subsection (n).
 
 (3) The basic allowance for housing differential to which a member is entitled under paragraph (2) is the amount equal to the difference between—
 
@@ -445,7 +445,7 @@ Section 602(f) of Pub. L. 98–525, as amended by Pub. L. 99–145, title VI, §
 
 “(3) For the period beginning on January 1, 1985, and ending on September 30, 1985, the limitation applicable under subsection (d)(1) of section 403a of title 37, United States Code (as added by subsection (d)), on the total amount that may be paid during a fiscal year for the variable housing allowance authorized members of the uniformed services by that section shall be 15 percent of the median annual costs of housing in the United States for members of the uniformed services as measured during fiscal year 1984. In determining for the purposes of clause (A) of such subsection the total amount authorized to be paid for such allowance for fiscal year 1985, such amount shall be determined as if the amendments made by this section took effect on October 1, 1984.”
 
-\[Amendment of this note by Pub. L. 99–661 effective Nov. 14, 1986, see section 1342(h)(1) of Pub. L. 99–661, setout as an Effective Date of 1986 Amendment note under section 301 of this title.\]
+\[Amendment of this note by Pub. L. 99–661 effective Nov. 14, 1986, see section 1342(h)(1) of Pub. L. 99–661, set out as an Effective Date of 1986 Amendment note under section 301 of this title.\]
 
 Section 604(b) of Pub. L. 98–525 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to members making an election under section 403(b) of title 37, United States Code, after September 30, 1984.”
 
@@ -511,7 +511,7 @@ Pub. L. 99–190, §101(b) \[title VIII, §8088\], Dec. 19, 1985, 99 Stat. 1185,
 
 #### Basic Allowance for Quarters and Variable Housing Allowance
 
-Section 602(a) of Pub. L. 98–525, as amended by Pub. L. 99–661, div. A, title XIII, §1341(a), Nov. 14, 1986, 100 Stat. 3990, revised, effective Jan. 1, 1985, the rates of the basic allowance for quarters authorized by subsec. (a)(1) of this section and provided that, during the period beginning on Jan. 1, 1985, and ending on the effective date of a change made by law in the rates of basic allowance for quarters that increased the rates for such allowance to a level not less than 7 percent greaterthan the rates in effect on Jan. 1, 1985, the rate of the basic allowance for quarters authorized by subsec. (a)(1) of this section which was payable to a member of the uniformed services who was entitled to that allowance during such period and who was entitled to that allowance on Dec. 31, 1984, was not to be less than the rate of the basic allowance for quarters that was in effect for that member on Dec. 31, 1984, with certain exceptions.
+Section 602(a) of Pub. L. 98–525, as amended by Pub. L. 99–661, div. A, title XIII, §1341(a), Nov. 14, 1986, 100 Stat. 3990, revised, effective Jan. 1, 1985, the rates of the basic allowance for quarters authorized by subsec. (a)(1) of this section and provided that, during the period beginning on Jan. 1, 1985, and ending on the effective date of a change made by law in the rates of basic allowance for quarters that increased the rates for such allowance to a level not less than 7 percent greater than the rates in effect on Jan. 1, 1985, the rate of the basic allowance for quarters authorized by subsec. (a)(1) of this section which was payable to a member of the uniformed services who was entitled to that allowance during such period and who was entitled to that allowance on Dec. 31, 1984, was not to be less than the rate of the basic allowance for quarters that was in effect for that member on Dec. 31, 1984, with certain exceptions.
 
 #### Freeze of Variable Housing Allowance at Fiscal Year 1983 Rates
 

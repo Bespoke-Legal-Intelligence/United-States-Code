@@ -16,7 +16,7 @@ Technology Transfer.—(1) No official of the United States may enter into a mem
 
 (2) Paragraph (1) shall not apply in the case of a memorandum of understanding or agreement described in paragraph (1) if the Secretary of Defense, in consultation with the Secretary of Commerce and the Secretary of State, determines that a transfer of United States defense technology pursuant to such understanding or agreement will result in strengthening the national security of the United States and so certifies to Congress.
 
-(3) If a United States firm is required under the terms of a memorandum of understanding, or other agreement entered into by the United States with a foreign country, to transfer defense technology to a foreign country, the United States firm may protest the determination to the Secretary of Defense on the grounds that the transfer of such technology would adversely affect the defense industrial base of the United States and would result in substantial financial loss to the protesting firm. The Secretary of Defense, in consultation with the Secretary of Commerce and the Secretary of State, shall make the final determination of the validity of the protesting firm's claim.
+(3) If a United States firm is required under the terms of a memorandum of understanding, or other agreement entered into by the United States with a foreign country, to transfer defense technology to a foreign country, the United States firm may protest the determination to the Secretary of Defense on the grounds that the transfer of such technology would adversely affect the defense industrial base of the United States and would result in substantial financial loss to the protesting firm. The Secretary of Defense, in consultation with the Secretary of Commerce and the Secretary of State,shall make the final determination of the validity of the protesting firm's claim.
 
 (c)
 
@@ -92,7 +92,7 @@ Section 825(d) of Pub. L. 100–456 provided that:
 
 “(2) Not later than March 15, 1990, the President shall transmit to Congress a report containing a discussion of appropriate actions to be taken by the United States with respect to purchases from United States firms by a foreign country (or a firm of that country) when that country or firm requires an offset arrangement in connection with the purchase of defense equipment or supplies in favor of such country. The report shall include a discussion of the following possible actions:
 
-&emsp;“(A) A requirement for an offset in favor of the United States or United States firms in any case in which the Department of Defense or any other department or agency of the United States purchases goods from such foreign country or a firm of such country.
+&emsp;“(A) A requirement for an offset in favor of the United States or United States firms in any case inwhich the Department of Defense or any other department or agency of the United States purchases goods from such foreign country or a firm of such country.
 
 &emsp;“(B) A demand for offset credits from such foreign country to be used, to the extent practicable, to meet offset obligations of United States firms to such foreign country or to a firm of such country.
 

@@ -20,7 +20,7 @@
 
 &emsp;Programs assisted under this chapter shall not be carried on in a manner involving the use of program funds, the provision of services, or the employment or assignment of personnel, in a manner supporting or resulting in the identification of such programs with—
 
-&emsp;&emsp;(A) any partisan or nonpartisan political activity or any political activity associated with a candidate, or contending faction or group, in an election for public or party office;
+&emsp;&emsp;(A) any partisan or nonpartisan political activity or any political activity associated with a candidate, or contending faction orgroup, in an election for public or party office;
 
 &emsp;&emsp;(B) any activity to provide voters or prospective voters with transportation to the polls or similar assistance in connection with any such election; or
 

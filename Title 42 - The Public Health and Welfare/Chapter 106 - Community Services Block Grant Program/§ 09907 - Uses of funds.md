@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(C) supporting statewide coordination and communication among eligible entities;
 
-&emsp;&emsp;(D) analyzing the distribution of funds made available under this chapter within the State to determine if such funds have been targeted to the areas of greatest need;
+&emsp;&emsp;(D) analyzing the distribution of funds made available under this chapter withinthe State to determine if such funds have been targeted to the areas of greatest need;
 
 &emsp;&emsp;(E) supporting asset-building programs for low-income individuals, such as programs supporting individual development accounts;
 

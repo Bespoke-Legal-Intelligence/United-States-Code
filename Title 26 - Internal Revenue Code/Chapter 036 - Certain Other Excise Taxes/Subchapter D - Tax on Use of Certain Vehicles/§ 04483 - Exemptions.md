@@ -6,7 +6,7 @@ Under regulations prescribed by the Secretary, no tax shall be imposed by sectio
 
 #### (b) Exemption for United States
 
-The Secretary of the Treasury may authorize exemption from the tax imposed by section 4481 as to the use by the United States of any particular highway motor vehicle, or class of highway motor vehicles, if he determines that the imposition of such tax with respect to such use will cause substantial burden or expense which can be avoided by granting tax exemption and that full benefit of such exemption, if granted, will accrue to the United States.
+The Secretary of the Treasury may authorize exemption from the tax imposed by section 4481as to the use by the United States of any particular highway motor vehicle, or class of highway motor vehicles, if he determines that the imposition of such tax with respect to such use will cause substantial burden or expense which can be avoided by granting tax exemption and that full benefit of such exemption, if granted, will accrue to the United States.
 
 #### (c) Certain transit-type buses
 
@@ -66,7 +66,7 @@ Under regulations prescribed by the Secretary, no tax shall be imposed by sectio
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an agricultural vehicle, paragraphs (1) and (2) shall be applied bysubstituting “7,500” for “5,000” each place it appears.
+&emsp;&emsp;In the case of an agricultural vehicle, paragraphs (1) and (2) shall be applied by substituting “7,500” for “5,000” each place it appears.
 
 #### (B) Definitions
 

@@ -6,7 +6,7 @@ For the reasons hereinafter enumerated, transactions in securities as commonly c
 
 &emsp;(2) The prices established and offered in such transactions are generally disseminated and quoted throughout the United States and foreign countries and constitute a basis for determining and establishing the prices at which securities are bought and sold, the amount of certain taxes owing to the United States and to the several States by owners, buyers, and sellers of securities, and the value of collateral for bank loans.
 
-&emsp;(3) Frequently the prices of securities on such exchanges and markets are susceptible to manipulation and control, and the dissemination of such prices gives rise to excessive speculation, resulting in sudden and unreasonable fluctuations in the prices of securities which (a) cause alternately unreasonable expansion and unreasonable contraction of the volume of credit available for trade, transportation, and industry in interstate commerce, (b) hinder the proper appraisal of the value of securities and thus prevent a fair calculation of taxes owing to the United States and to the several States by owners, buyers, and sellers of securities, and (c) prevent the fair valuation of collateral for bank loans and/or obstruct the effective operation of the national banking system and Federal Reserve System.
+&emsp;(3) Frequently the prices of securities on such exchanges and markets are susceptible to manipulation and control, and the dissemination of such prices gives rise to excessive speculation, resulting in sudden and unreasonable fluctuations in the prices of securities which (a) cause alternately unreasonable expansion and unreasonable contraction of the volume of credit available for trade, transportation, and industry in interstate commerce, (b) hinder the proper appraisal of the value of securities and thus prevent a fair calculation of taxesowing to the United States and to the several States by owners, buyers, and sellers of securities, and (c) prevent the fair valuation of collateral for bank loans and/or obstruct the effective operation of the national banking system and Federal Reserve System.
 
 &emsp;(4) National emergencies, which produce widespread unemployment and the dislocation of trade, transportation, and industry, and which burden interstate commerce and adversely affect the general welfare, are precipitated, intensified, and prolonged by manipulation and sudden and unreasonable fluctuations of security prices and by excessive speculation on such exchanges and markets, and to meet such emergencies the Federal Government is put to such great expense as to burden the national credit.
 
@@ -136,7 +136,7 @@ Pub. L. 93–479, Oct. 26, 1974, 88 Stat. 1450, directed Secretary of the Treasu
 
 Ex. Ord. No. 11858, May 7, 1975, 40 F.R. 20263, as amended by Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 989; Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779; Ex. Ord. No. 12860, Sept. 3, 1993, 58 F.R. 47201, provided:
 
-By virtue of the authority vested in me by the Constitution and statutes of the United States of America, including the Act of February 14, 1903, as amended (15 U.S.C. 1501 et seq.), section 10 of the Gold Reserve Act of 1934, as amended (31 U.S.C. 822a), and section 301 oftitle 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
+By virtue of the authority vested in me by the Constitution and statutes of the United States of America, including the Act of February 14, 1903, as amended (15 U.S.C. 1501 et seq.), section 10 of the Gold Reserve Act of 1934, as amended (31 U.S.C. 822a), and section 301 of title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 
 Section 1. (a) There is hereby established the Committee on Foreign Investment in the United States (hereinafter referred to as the Committee). The Committee shall be composed of the following:
 
@@ -190,7 +190,7 @@ Sec. 2. The Secretary of Commerce, with respect to the collection and use of dat
 
 (e) the compilation of data and preparation of evaluations of significant investment transactions; and
 
-(f) the submission to the Committee of appropriate reports, analyses, data and recommendations relating to foreign investment in the United States, including recommendations as to how information on foreign investment can be kept current.
+(f) the submission to the Committee of appropriate reports, analyses, data and recommendations relatingto foreign investment in the United States, including recommendations as to how information on foreign investment can be kept current.
 
 Sec. 3. The Secretary of the Treasury is authorized, without further approval of the President, to make reasonable use of the resources of the Exchange Stabilization Fund, in accordance with section 10 of the Gold Reserve Act of 1934, as amended (31 U.S.C. 822a) \[31 U.S.C. 5302\], to pay any of the expenses directly incurred by the Secretary of Commerce in the performance of the functions and activities provided by this order. This authority shall be in effect for one year, unless revoked prior thereto.
 

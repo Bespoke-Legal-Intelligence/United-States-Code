@@ -112,7 +112,7 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, §204(a)(3a) (1st sentence); added Aug. 3, 
 
 Throughout the chapter, the words “Secretary of Transportation” are substituted for “Interstate Commerce Commission” because 49:1655(e)(6)(B)–(D) transferred the authority of the Interstate Commerce Commission under the provisions restated in this chapter to the Secretary of Transportation.
 
-Subsection (a) is included to maintain the jurisdictional scope of the source provisions from which subsections (b) and (c) of the revised section are taken. Subsections (b) and (c) are based on 49:304 which, as part of 49:ch. 8, is now restated as subchapter II of chapter 105 of the revised title. In addition, 49:303(a)(11)\(last sentence) extended the jurisdictional scope of 49:304 as provided in subsection (a) of the revised section.
+Subsection (a) is included to maintain the jurisdictional scope of the source provisions from which subsections (b) and (c) of the revised section are taken. Subsections (b) and (c) are based on 49:304 which, as part of 49:ch. 8, is now restated as subchapter II of chapter 105 of the revised title. In addition, 49:303(a)(11) (last sentence) extended the jurisdictional scope of 49:304 as provided in subsection (a) of the revised section.
 
 In subsection (b), before clause (1), the words “and to that end” are omitted as surplus. The word “prescribe” is substituted for “establish” for consistency. The word “reasonable” is omitted as surplus.
 

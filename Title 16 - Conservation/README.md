@@ -1,5 +1,5 @@
 
-16 U.S.C.<br>United States Code, 1998 Edition<br>Title 16 - CONSERVATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+16 U.S.C.<br>United States Code, 1999 Edition<br>Title 16 - CONSERVATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 16—CONSERVATION
 
@@ -113,7 +113,7 @@
 | [<b>65.</b>](Chapter%20065%20-%20International%20Forestry%20Cooperation/README.md) | <b>International Forestry Cooperation</b> | <b>4501</b> |
 | [<b>66.</b>](Chapter%20066%20-%20Take%20Pride%20in%20America%20Program/README.md) | <b>Take Pride in America Program</b> | <b>4601</b> |
 | [<b>67.</b>](Chapter%20067%20-%20Aquatic%20Nuisance%20Prevention%20and%20Control/README.md) | <b>Aquatic Nuisance Prevention and Control</b> | <b>4701</b> |
-| [<b>68.</b>](Chapter%20068%20-%20Pacific%20Yew%20Conservation%20and%20Management/README.md) | <b>Pacific Yew Conservation and Management</b> | <b>4801</b> |
+| [<b>68.</b>](Chapter%20068%20-%20Pacific%20Yew%20Conservation%20and%20Management/README.md) | <b>Pacific Yew Conservation and Management \[Omitted or Repealed\]</b> | <b>4801</b> |
 | [<b>69.</b>](Chapter%20069%20-%20Wild%20Exotic%20Bird%20Conservation/README.md) | <b>Wild Exotic Bird Conservation</b> | <b>4901</b> |
 | [<b>70.</b>](Chapter%20070%20-%20North%20Pacific%20Anadromous%20Stocks%20Convention/README.md) | <b>North Pacific Anadromous Stocks Convention</b> | <b>5001</b> |
 | [<b>71.</b>](Chapter%20071%20-%20Atlantic%20Coastal%20Fisheries%20Cooperative%20Management/README.md) | <b>Atlantic Coastal Fisheries Cooperative Management</b> | <b>5101</b> |

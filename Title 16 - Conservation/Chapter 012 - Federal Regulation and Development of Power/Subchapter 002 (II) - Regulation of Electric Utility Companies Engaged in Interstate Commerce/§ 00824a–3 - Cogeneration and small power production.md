@@ -50,7 +50,7 @@ For purposes of this section, the term “incremental cost of alternative electr
 
 (1) Beginning on or before the date one year after any rule is prescribed by the Commission under subsection (a) of this section or revised under such subsection, each State regulatory authority shall, after notice and opportunity for public hearing, implement such rule (or revised rule) for each electric utility for which it has ratemaking authority.
 
-(2) Beginning on or before the date one year after any rule is prescribed by the Commissionunder subsection (a) of this section or revised under such subsection, each nonregulated electric utility shall, after notice and opportunity for public hearing, implement such rule (or revised rule).
+(2) Beginning on or before the date one year after any rule is prescribed by the Commission under subsection (a) of this section or revised under such subsection, each nonregulated electric utility shall, after notice and opportunity for public hearing, implement such rule (or revised rule).
 
 #### (g) Judicial review and enforcement
 
@@ -60,7 +60,7 @@ For purposes of this section, the term “incremental cost of alternative electr
 
 #### (h) Commission enforcement
 
-(1) For purposes of enforcement of any rule prescribed by the Commission under subsection (a) of this section with respect to any operations of an electric utility, a qualifying cogeneration facility or a qualifying small power production facility which are subject to the jurisdiction of the Commission under part II of the Federal Power Act \[16 U.S.C. 824 et seq.\], such rule shall be treated as a rule under the Federal Power Act \[16 U.S.C. 791a et seq.\]. Nothing in subsection (g) of this section shall apply to so much of the operations of an electric utility, a qualifying cogeneration facility or a qualifying small power production facility as are subject to the jurisdiction of the Commission under part II of the Federal Power Act.
+(1) For purposes of enforcement of any rule prescribed by the Commission under subsection (a) of this section with respect to any operations of an electric utility, a qualifying cogeneration facility or a qualifying small power production facility which are subject to the jurisdiction of the Commission under part II of the Federal Power Act \[16 U.S.C. 824 et seq.\], such rule shall be treated as a rule under the Federal Power Act\[16 U.S.C. 791a et seq.\]. Nothing in subsection (g) of this section shall apply to so much of the operations of an electric utility, a qualifying cogeneration facility or a qualifying small power production facility as are subject to the jurisdiction of the Commission under part II of the Federal Power Act.
 
 (2)(A) The Commission may enforce the requirements of subsection (f) of this section against any State regulatory authority or nonregulated electric utility. For purposes of any such enforcement, the requirements of subsection (f)(1) of this section shall be treated as a rule enforceable under the Federal Power Act \[16 U.S.C. 791a et seq.\]. For purposes of any such action, a State regulatory authority or nonregulated electric utility shall be treated as a person within the meaning of the Federal Power Act. No enforcement action may be brought by the Commission under this section other than—
 
@@ -92,7 +92,7 @@ Except for a hydroelectric project located at a Government dam (as defined in se
 
 #### (3) Fish and wildlife terms and conditions
 
-&emsp;The project meets the terms and conditions set by fish and wildlife agencies under thesame procedures as provided for under section 30(c) of the Federal Power Act \[16 U.S.C. 823a(c)\].
+&emsp;The project meets the terms and conditions set by fish and wildlife agencies under the same procedures as provided for under section 30(c) of the Federal Power Act \[16 U.S.C. 823a(c)\].
 
 #### (k) “New dam or diversion” defined
 
@@ -110,7 +110,7 @@ The Commission, referred to in subsecs. (a), (e)(1), (2), (f), (h), and (j)(1), 
 
 The Secretary, referred to in subsec. (g)(2), means the Secretary of Energy. See section 2602(14) of this title.
 
-The Federal Power Act, referred to in subsecs. (e), (h), and (j)(1), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to this chapter (§791a et seq.). Part I of the Federal Power Act is classified generally to subchapter I (§791a et seq.) of this chapter. Part II of the Federal Power Act is classified generally to this subchapter (§824 et seq.). For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act, referred to in subsecs. (e), (h), and (j)(1), is act June 10, 1920, ch. 285, 41 Stat. 1063,as amended, which is classified generally to this chapter (§791a et seq.). Part I of the Federal Power Act is classified generally to subchapter I (§791a et seq.) of this chapter. Part II of the Federal Power Act is classified generally to this subchapter (§824 et seq.). For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 The Public Utility Holding Company Act, referred to in subsec. (e), probably means the Public Utility Holding Company Act of 1935, act Aug. 26, 1935, ch. 687, title I, 49 Stat. 838, as amended, which is classified generally to chapter 2C (§79 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 79 of Title 15 and Tables.
 
@@ -160,7 +160,7 @@ Pub. L. 102–486, title XIII, §1335, Oct. 24, 1992, 106 Stat. 2984, provided t
 
 Pub. L. 100–202, §101(d) \[title III, §310\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–126, provided that:
 
-“(a) The amendments made by section 643(b) of the Energy Security Act (Public Law 96–294) \[amending this section\] and any regulations issued to implement such amendment shall apply to qualifying small power production facilities (as such term is defined in the Federal Power Act \[16 U.S.C. 791a et seq.\]) using solar energy as the primary energy source to the same extent such amendments and regulations apply to qualifying small power production facilities using geothermal energy as the primary energy source, except that nothing in this Act \[see Tables for classification\] shall preclude the Federal Energy Regulatory Commission from revising its regulations to limit the availability of exemptions authorized under this Act as it determines to be required in the public interest and consistent with its obligations and duties under section 210 of the Public Utility Regulatory Policies Act of 1978 \[this section\].
+“(a) The amendments made by section 643(b) of the Energy Security Act (Public Law 96–294) \[amending this section\] and any regulations issued to implement such amendment shall apply to qualifying small power production facilities (as such term is defined in the Federal Power Act \[16 U.S.C. 791a et seq.\]) using solar energy as the primary energy source to the same extent such amendments and regulations apply to qualifying small power production facilities using geothermal energy as the primary energy source, except that nothing in this Act \[see Tables for classification\]shall preclude the Federal Energy Regulatory Commission from revising its regulations to limit the availability of exemptions authorized under this Act as it determines to be required in the public interest and consistent with its obligations and duties under section 210 of the Public Utility Regulatory Policies Act of 1978 \[this section\].
 
 “(b) The provisions of subsection (a) shall apply to a facility using solar energy as the primary energy source only if either of the following is submitted to the Federal Energy Regulatory Commission during the two-year period beginning on the date of enactment of this Act \[Dec. 22, 1987\]:
 

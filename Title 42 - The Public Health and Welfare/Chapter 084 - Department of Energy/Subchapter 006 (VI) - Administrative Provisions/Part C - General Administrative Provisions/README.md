@@ -1,5 +1,7 @@
 Part C—General Administrative Provisions
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 
@@ -39,7 +41,7 @@ Part C—General Administrative Provisions
 - [&sect; 07270b - Trespass on Strategic Petroleum Reserve facilities](%C2%A7%2007270b%20-%20Trespass%20on%20Strategic%20Petroleum%20Reserve%20facilities.md)
 - [&sect; 07271 - Common defense and security program requests of single authorization of appropriations](%C2%A7%2007271%20-%20Common%20defense%20and%20security%20program%20requests%20of%20single%20authorization%20of%20appropriations.md)
 - [&sect; 07271a - Repealed. Pub. L. 105&#8211;85, div. C, title XXXI, &sect;3152(h), Nov. 18, 1997, 111 Stat. 2042](%C2%A7%2007271a%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73152%28h%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%202042.md)
-- [&sect; 07271b - Requirement for annual five-year budget for national security programs of Department of Energy](%C2%A7%2007271b%20-%20Requirement%20for%20annual%20five-year%20budget%20for%20national%20security%20programs%20of%20Department%20of%20Energy.md)
+- [&sect; 07271b - Repealed. Pub. L. 106&#8211;65, div. C, title XXXII, &sect;3294(f), Oct. 5, 1999, 113 Stat. 970](%C2%A7%2007271b%20-%20Repealed.%20Pub.%20L.%20106%E2%80%9365%2C%20div.%20C%2C%20title%20XXXII%2C%20%C2%A73294%28f%29%2C%20Oct.%205%2C%201999%2C%20113%20Stat.%20970.md)
 - [&sect; 07271c - Repealed. Pub. L. 105&#8211;85, div. C, title XXXI, &sect;3152(b), Nov. 18, 1997, 111 Stat. 2042](%C2%A7%2007271c%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73152%28b%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%202042.md)
 - [&sect; 07272 - Restriction on licensing requirement for certain defense activities and facilities](%C2%A7%2007272%20-%20Restriction%20on%20licensing%20requirement%20for%20certain%20defense%20activities%20and%20facilities.md)
 - [&sect; 07273 - Restriction on use of funds to pay penalties under Clean Air Act](%C2%A7%2007273%20-%20Restriction%20on%20use%20of%20funds%20to%20pay%20penalties%20under%20Clean%20Air%20Act.md)

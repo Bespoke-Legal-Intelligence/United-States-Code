@@ -124,7 +124,7 @@ Subsecs. (b), (c). Pub. L. 95–557, §907(b)(1), (2), added subsec. (b) and red
 
 1974—Subsec. (a)(11). Pub. L. 93–383 added par. (11).
 
-1969—Subsec. (a)(10). Pub. L. 91–152 substituted provisions requiring a personal on-the-lot inspection of the real estate for provisions requiring a personal inspection of the lot and restricted definition of terms “liens”, “encumbrances”, and “adverse claims” so as not to include taxes and assessments imposed by a State, a public body having authority to assess and tax property, or a property owners’ association, which, under the applicable law, constitute liens before they are due and payable, and so as not to include beneficial property restrictions enforceable by other lot owners or lessees in the subdivision under the specified conditions.
+1969—Subsec. (a)(10). Pub. L. 91–152 substituted provisions requiring a personal on-the-lot inspection of the real estate for provisions requiring a personal inspection of the lot and restricted definition of terms “liens”, “encumbrances”, and “adverse claims” so as not to include taxes and assessments imposed by aState, a public body having authority to assess and tax property, or a property owners’ association, which, under the applicable law, constitute liens before they are due and payable, and so as not to include beneficial property restrictions enforceable by other lot owners or lessees in the subdivision under the specified conditions.
 
 #### Effective Date of 1979 Amendment
 

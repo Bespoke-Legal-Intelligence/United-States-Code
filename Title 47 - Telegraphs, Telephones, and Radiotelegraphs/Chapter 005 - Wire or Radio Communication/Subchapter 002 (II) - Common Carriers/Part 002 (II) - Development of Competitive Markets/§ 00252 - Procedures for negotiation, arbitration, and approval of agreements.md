@@ -42,13 +42,13 @@
 
 #### (5) Refusal to negotiate
 
-&emsp;The refusal of any other party to the negotiation to participate further in the negotiations, to cooperate with the State commission in carrying out its function as an arbitrator, or to continue to negotiate in good faith in the presence, or with the assistance, of the State commission shall be considered a failure to negotiate in good faith.
+&emsp;The refusal of any other party to the negotiation to participate further in the negotiations, to cooperate with the State commission in carrying out its function as an arbitrator, or to continue to negotiate in good faith in thepresence, or with the assistance, of the State commission shall be considered a failure to negotiate in good faith.
 
 #### (c) Standards for arbitration
 
 In resolving by arbitration under subsection (b) of this section any open issues and imposing conditions upon the parties to the agreement, a State commission shall—
 
-&emsp;(1) ensure that such resolution and conditions meet the requirements of section 251 ofthis title, including the regulations prescribed by the Commission pursuant to section 251 of this title;
+&emsp;(1) ensure that such resolution and conditions meet the requirements of section 251 of this title, including the regulations prescribed by the Commission pursuant to section 251 of this title;
 
 &emsp;(2) establish any rates for interconnection, services, or network elements according to subsection (d) of this section; and
 
@@ -118,7 +118,7 @@ In resolving by arbitration under subsection (b) of this section any open issues
 
 #### (5) Commission to act if State will not act
 
-&emsp;If a State commission fails to act to carry out its responsibility under this section in any proceeding or other matter under this section, then the Commission shall issue an order preempting the State commission's jurisdiction of that proceeding or matter within 90 days after being notified (or taking notice) of such failure, and shall assume the responsibility of the State commission under this section with respect to the proceeding or matter and act for the State commission.
+&emsp;If a State commission fails to act to carry out its responsibility under this section in anyproceeding or other matter under this section, then the Commission shall issue an order preempting the State commission's jurisdiction of that proceeding or matter within 90 days after being notified (or taking notice) of such failure, and shall assume the responsibility of the State commission under this section with respect to the proceeding or matter and act for the State commission.
 
 #### (6) Review of State commission actions
 

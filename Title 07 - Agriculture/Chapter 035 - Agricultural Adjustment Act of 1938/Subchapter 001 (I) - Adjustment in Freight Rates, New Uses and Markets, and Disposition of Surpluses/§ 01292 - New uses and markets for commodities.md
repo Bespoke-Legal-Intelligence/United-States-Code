@@ -10,7 +10,7 @@ For the purposes of subsection (a) of this section, the Secretary is authorized 
 
 #### (c) Cooperation with governmental agencies, associations, etc.
 
-In carrying out the purposes of subsection (a) of this section, the Secretary is authorized and directed to cooperate with other departments or agencies of the Federal Government, States, State agricultural experiment stations, and other State agencies and institutions, counties, municipalities, business or other organizations, corporations, associations, universities, scientific societies, and individuals, upon such terms and conditions as he may prescribe.
+In carrying out the purposes of subsection (a) of this section, the Secretary is authorized anddirected to cooperate with other departments or agencies of the Federal Government, States, State agricultural experiment stations, and other State agencies and institutions, counties, municipalities, business or other organizations, corporations, associations, universities, scientific societies, and individuals, upon such terms and conditions as he may prescribe.
 
 #### (d) Appropriation for purposes of subsection (a)
 

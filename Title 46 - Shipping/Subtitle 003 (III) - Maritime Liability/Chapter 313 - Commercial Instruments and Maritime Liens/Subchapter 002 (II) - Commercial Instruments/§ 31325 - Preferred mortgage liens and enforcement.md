@@ -122,7 +122,7 @@ Subsec. (f). Pub. L. 104–324, §1124(b), added subsec. (f).
 
 #### Construction of 1996 Amendments
 
-Section 1124(c) of Pub. L. 104–324 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] may not be construed to imply that remedies other than judicial remedies were not available before the date of enactment of this section \[Oct. 19, 1996\] to enforce claims for outstanding indebtedness secured by mortgaged vessels.”
+Section 1124(c) of Pub. L. 104–324 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] may not be construed to imply that remedies other than judicial remedies were not available before the date of enactment of this section \[Oct. 19,1996\] to enforce claims for outstanding indebtedness secured by mortgaged vessels.”
 
 #### Section Referred to in Other Sections
 

@@ -20,11 +20,11 @@ The Chief Information Officer of an agency that is listed in section 901(b) of t
 
 &emsp;(2) monitor the performance of information technology programs of the agency, evaluate the performance of those programs on the basis of the applicable performance measurements, and advise the head of the agency regarding whether to continue, modify, or terminate a program or project; and
 
-&emsp;(3) annually, as part of the strategic planning and performance evaluation process required (subject to section 1117 of title 31) under section 306 of title 5 and sections 1105(a)(29), 1115, 1116, 1117, and 9703 <sup>1</sup> of title 31—
+&emsp;(3) annually, as part of the strategic planning and performance evaluation process required (subject to section 1117 of title 31) under section 306 of title 5 and sections 1105(a)(29),<sup>1</sup> 1115, 1116, 1117, and 9703 <sup>1</sup> of title 31—
 
 &emsp;&emsp;(A) assess the requirements established for agency personnel regarding knowledge and skill in information resources management and the adequacy of such requirements for facilitating the achievement of the performance goals established for information resources management;
 
-&emsp;&emsp;(B) assess the extent to which the positions and personnel at the executive level ofthe agency and the positions and personnel at management level of the agency below the executive level meet those requirements;
+&emsp;&emsp;(B) assess the extent to which the positions and personnel at the executive level of the agency and the positions and personnel at management level of the agency below the executive level meet those requirements;
 
 &emsp;&emsp;(C) in order to rectify any deficiency in meeting those requirements, develop strategies and specific plans for hiring, training, and professional development; and
 
@@ -39,6 +39,8 @@ In this section, the term “information technology architecture”, with respec
 #### References in Text
 
 This chapter, referred to in subsec. (b)(1), was in the original “this division” meaning division E (§§5001–5703) of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 679, which is classified principally to this chapter. For complete classification of division E to the Code, see Short Title note set out under section 1401 of this title and Tables.
+
+Section 1105(a)(29) of title 31, referred to in subsec. (c)(3), was redesignated section 1105(a)(28) of such title by Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388.
 
 Section 9703 of title 31, referred to in subsec. (c)(3), probably means the section 9703 added by section 5(a) of Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 289.
 

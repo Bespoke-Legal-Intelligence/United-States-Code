@@ -12,7 +12,7 @@ Except in the case of amounts attributable to (and not in excess of) deductions 
 
 Gross income does not include amounts referred to in subsection (a) to the extent such amounts—
 
-&emsp;(1) constitute payment for the permanent loss or loss of use of a member or function of the body, or the permanent disfigurement, of the taxpayer, his spouse, or a dependent (as defined in section 152), and
+&emsp;(1) constitute payment for the permanent loss or loss of use of a member or function of the body, or the permanent disfigurement, ofthe taxpayer, his spouse, or a dependent (as defined in section 152), and
 
 &emsp;(2) are computed with reference to the nature of the injury without regard to the period the employee is absent from work.
 
@@ -34,7 +34,7 @@ For purposes of section 213(a) (relating to medical, dental, etc., expenses) amo
 
 #### (g) Self-employed individual not considered an employee
 
-For purposes of this section, the term “employee” does not include an individual who is anemployee within the meaning of section 401(c)(1) (relating to self-employed individuals).
+For purposes of this section, the term “employee” does not include an individual who is an employee within the meaning of section 401(c)(1) (relating to self-employed individuals).
 
 #### (h) Amount paid to highly compensated individuals under a discriminatory self-insured medical expense reimbursement plan
 
@@ -166,7 +166,7 @@ Subsec. (h). Pub. L. 95–600, §366(a), added subsec. (h).
 
 Subsec. (e)(2). Pub. L. 94–455, §1901(c)(2), struck out “a territory” after “of a State”.
 
-1964—Subsec. (d). Pub. L. 88–272 substituted provisions stating that “The preceding sentence shall not apply to amounts attributable to the first 30” days if the amounts exceed 75 percent of regular weekly wages, and if they do not exceed said 75 percent, the first sentence of this subsection shall not apply to the extent the amounts exceed $75 weekly and shall not apply to amounts attributable to the first 7 calendar days unless the employee is hospitalized for injury or sickness for at least 1 day in such period, for provisions stating that said “preceding sentence” did not apply in cases of sickness, to amounts attributable to the first 7 days unless the employee was hospitalized for sickness for at least 1 day during such period.
+1964—Subsec. (d). Pub. L. 88–272 substituted provisions stating that “The preceding sentence shall not apply to amounts attributable to the first 30” days ifthe amounts exceed 75 percent of regular weekly wages, and if they do not exceed said 75 percent, the first sentence of this subsection shall not apply to the extent the amounts exceed $75 weekly and shall not apply to amounts attributable to the first 7 calendar days unless the employee is hospitalized for injury or sickness for at least 1 day in such period, for provisions stating that said “preceding sentence” did not apply in cases of sickness, to amounts attributable to the first 7 days unless the employee was hospitalized for sickness for at least 1 day during such period.
 
 1962—Subsec. (g). Pub. L. 87–792 added subsec. (g).
 
@@ -242,7 +242,7 @@ Pub. L. 95–30, title III, §301(d), May 23, 1977, 91 Stat. 152, provided that:
 
 #### Effective Date of Changes in Exclusion for Sick Pay
 
-Pub. L. 95–30, title III, §301(e), May 23, 1977, 91 Stat. 152, as amended by Pub. L. 95–600, title VII, §701(c)(2)(B), Nov. 6, 1978, 92 Stat. 2900; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting and amending provisions set out as notes under this section\] shall take effect on October 4, 1976, but shall not apply—
+Pub. L. 95–30, title III, §301(e), May 23, 1977, 91 Stat. 152, as amended by Pub. L. 95–600, title VII,§701(c)(2)(B), Nov. 6, 1978, 92 Stat. 2900; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting and amending provisions set out as notes under this section\] shall take effect on October 4, 1976, but shall not apply—
 
 &emsp;“(1) with respect to any taxpayer who makes or has made an election under section 105(d)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] or under section 505(d) of the Tax Reform Act of 1976 \[set out below\] (as such sections were in effect before the enactment of this Act \[May 23, 1977\]) for a taxable year beginning in 1976, if such election is not revoked under subsection (c) of this section \[set out above\], and
 
@@ -250,7 +250,7 @@ Pub. L. 95–30, title III, §301(e), May 23, 1977, 91 Stat. 152, as amended by 
 
 #### Special Rule for Existing Permanent and Total Disability Cases
 
-Section 505(c) of Pub. L. 94–455, as amended by Pub. L. 95–30, title III, §301(b)(1), (2), May 23, 1977, 91 Stat. 151; Pub. L. 95–600, title VII, §701(c)(2)(A), Nov. 6, 1978, 92 Stat. 2900; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat.2095, provided that: “In the case of any individual who—
+Section 505(c) of Pub. L. 94–455, as amended by Pub. L. 95–30, title III, §301(b)(1), (2), May 23, 1977, 91 Stat. 151; Pub. L. 95–600, title VII, §701(c)(2)(A), Nov. 6, 1978, 92 Stat. 2900; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of any individual who—
 
 &emsp;“(1) retired before January 1, 1977,
 

@@ -100,7 +100,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of subtitle A, in the case of a gift loan directly between individuals, the amount treated as retransferred by the borrower to the lender as of the close of anyyear shall not exceed the borrower's net investment income for such year.
+&emsp;&emsp;For purposes of subtitle A, in the case of a gift loan directly between individuals, the amount treated as retransferred by the borrower to the lender as of the close of any year shall not exceed the borrower's net investment income for such year.
 
 #### (B) Limitation not to apply where 1 of principal purposes is tax avoidance
 
@@ -190,7 +190,7 @@ For purposes of this section—
 
 #### (5) Demand loan
 
-&emsp;The term “demand loan” means any loan which is payable in full at any time on the demand of the lender. Such term also includes (for purposes other than determining the applicable Federal rate under paragraph (2)) any loan if the benefits of the interest arrangements of such loan are not transferable and are conditioned on the future performance of substantial services by an individual. To the extent provided in regulations, such term also includes any loan with an indefinite maturity.
+&emsp;The term “demand loan” means any loan which is payable in full at any time on the demand of the lender. Such term also includes (for purposes other than determining the applicable Federal rate under paragraph (2)) any loan if the benefits of the interest arrangements of such loan are not transferable and are conditioned on the future performance of substantial services by an individual. To theextent provided in regulations, such term also includes any loan with an indefinite maturity.
 
 #### (6) Term loan
 
@@ -382,7 +382,7 @@ In general.—The amendments made by section 201 \[amending this section\] shall
 
 &emsp;“(2)
 
-Section 7872 not to apply to certain loans.—Section 7872 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall not apply to loans made on or before the date of the enactment of this Act \[Oct. 11, 1985\] to any qualified continuing care facility pursuant to a continuing care contract. For purposes ofthis paragraph, the terms ‘qualified continuing care facility’ and ‘continuing care contract’ have the meanings given such terms by section 7872(g) of such Code (as added by section 201).
+Section 7872 not to apply to certain loans.—Section 7872 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall not apply to loans made on or before the date of the enactment of this Act \[Oct. 11, 1985\] to any qualified continuing care facility pursuant to a continuing care contract. For purposes of this paragraph, the terms ‘qualified continuing care facility’ and ‘continuing care contract’ have the meanings given such terms by section 7872(g) of such Code (as added by section 201).
 
 “(b)
 
@@ -440,5 +440,5 @@ Section 1812(b)(5) of Pub. L. 99–514, as amended by Pub. L. 101–179, title I
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 142, 4941 of this title.
+This section is referred to in sections 142, 856, 4941 of this title.
 

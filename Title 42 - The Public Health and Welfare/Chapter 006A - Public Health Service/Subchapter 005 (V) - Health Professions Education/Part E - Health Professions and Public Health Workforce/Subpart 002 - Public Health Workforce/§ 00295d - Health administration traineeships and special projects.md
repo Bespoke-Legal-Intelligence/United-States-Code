@@ -32,7 +32,7 @@ In making grants under subsection (a) of this section, the Secretary shall give 
 
 #### (2) Preference for certain students
 
-&emsp;Each entity applying for a grant under subsection (a) of this section for traineeships shall assure to the satisfaction of the Secretary that the entity will give priority to awarding the traineeships to students who demonstrate a commitment to employment with public or nonprofit private entities in the fields with respect to which the traineeships are awarded.
+&emsp;Each entity applying for a grant under subsection (a) of this section for traineeships shall assure to the satisfaction of the Secretary that the entity will give priority to awarding the traineeships to students who demonstrate a commitment to employment with public or nonprofit private entities in thefields with respect to which the traineeships are awarded.
 
 (July 1, 1944, ch. 373, title VII, §769, as added Pub. L. 105–392, title I, §105, Nov. 13, 1998, 112 Stat. 3556.)
 

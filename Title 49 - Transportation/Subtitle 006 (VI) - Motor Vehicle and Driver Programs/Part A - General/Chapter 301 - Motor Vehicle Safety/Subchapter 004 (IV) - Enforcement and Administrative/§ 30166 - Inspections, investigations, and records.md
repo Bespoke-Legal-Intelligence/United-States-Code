@@ -192,7 +192,7 @@ In subsection (d), the words “for the purpose of inspection” and “the auth
 
 In subsection (e), the words “establish and” are omitted as surplus. The words “This subsection does not impose” are substituted for “Nothing in this subsection shall be construed as imposing” for consistency and to eliminate unnecessary words.
 
-In subsection (f), the words “notices, bulletins, and other” are omitted as surplus. The words “with a motor vehicle safety standard prescribed under this chapter” are added for clarity. The text of 15:1397(a)(1)(D) (related to 15:1418(a)(1)) is omitted as surplus.
+In subsection (f), the words “notices, bulletins, and other” are omitted as surplus. The words “with a motor vehicle safety standard prescribed under this chapter” are added for clarity. The text of15:1397(a)(1)(D) (related to 15:1418(a)(1)) is omitted as surplus.
 
 In subsection (g)(1), before clause (A), the words “or on the authorization of the Secretary, any officer or employee of the Department of Transportation” are omitted as surplus because of 49:322(b). In clause (A), the words “in writing”, “in such form as the Secretary may prescribe”, “relating to any function of the Secretary under this subchapter”, and “shall be filed with the Secretary within such reasonable period as the Secretary may prescribe” are omitted as surplus. In clause (B), the words “sit and act at such times and places” are omitted as being included in “conduct hearings”. The word “records” is substituted for “such books, papers, correspondence, memorandums, contracts, agreements, or other records” for consistency in the revised title and with other titles of the United States Code.
 

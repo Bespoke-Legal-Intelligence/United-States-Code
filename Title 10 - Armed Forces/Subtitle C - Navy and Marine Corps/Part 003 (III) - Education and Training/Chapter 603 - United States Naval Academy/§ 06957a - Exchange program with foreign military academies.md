@@ -6,7 +6,7 @@ Exchange Program Authorized.—The Secretary of the Navy may permit a student en
 
 (b)
 
-Limitations on Number and Duration of Exchanges.—An exchange agreement under this section between the Secretary and a foreign country shall provide for the exchange of students on a one-for-one basis each fiscal year. Not more than 10 midshipmen and a comparable number of students from all foreign military academies participating in the exchange program may be exchanged during any fiscal year. The duration of an exchange may not exceed the equivalent of one academic semester at the Naval Academy.
+Limitations on Number and Duration of Exchanges.—An exchange agreement under this section between the Secretary and a foreign country shall provide for the exchange of students on a one-for-one basis each fiscal year. Not more than 24 midshipmen and a comparable number of students from all foreign military academies participating in the exchange program may be exchanged during any fiscal year. The duration of an exchange may not exceed the equivalent of one academic semester at the Naval Academy.
 
 (c)
 
@@ -14,7 +14,7 @@ Costs and Expenses.—(1) A student from a military academy of a foreign country
 
 (2) The Secretary may provide a student from a foreign country under the exchange program, during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreign country provides comparable support and services to the exchanged midshipman in that foreign country.
 
-(3) The Naval Academy shall bear all costs of the exchange program from funds appropriated for the Academy. Expenditures in support of the exchange program may not exceed $50,000 during any fiscal year.
+(3) The Naval Academy shall bear all costs of the exchange program from funds appropriated for the Academy. Expenditures in support of the exchange program may not exceed $120,000 during any fiscal year.
 
 (d)
 
@@ -24,5 +24,11 @@ Application of Other Laws.—Subsections (c) and (d) of section 6957 of this tit
 
 Regulations.—The Secretary shall prescribe regulations to implement this section. Such regulations may include qualification criteria and methods of selection for students of foreign military academies to participate in the exchange program.
 
-(Added Pub. L. 105–85, div. A, title V, §542(b)(1), Nov. 18, 1997, 111 Stat. 1741.)
+(Added Pub. L. 105–85, div. A, title V, §542(b)(1), Nov. 18, 1997, 111 Stat. 1741; amended Pub. L. 106–65, div. A, title V, §535(b), Oct. 5, 1999, 113 Stat. 605.)
+
+#### Amendments
+
+1999—Subsec. (b). Pub. L. 106–65, §535(b)(1), substituted “24 midshipmen” for “10 midshipmen”.
+
+Subsec. (c)(3). Pub. L. 106–65, §535(b)(2), substituted “$120,000” for “$50,000”.
 

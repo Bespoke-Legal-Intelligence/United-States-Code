@@ -62,7 +62,7 @@ Regulations.—Regulations to carry out this section shall be prescribed by the 
 
 “(a) The Secretary of the Army shall submit annually to Congress recommendations and estimates for the establishment and maintenance of indoor and outdoor rifle ranges under a plan to provide facilities for rifle practice in all sections of the country.
 
-“(b) All rifle ranges established under subsection (a) and all rifle ranges already constructed, in whole or inpart with funds provided by the United States, may be used by members of the armed forces and by all able-bodied persons capable of bearing arms, under regulations prescribed by the authorities controlling those ranges and approved by the Secretary.”
+“(b) All rifle ranges established under subsection (a) and all rifle ranges already constructed, in whole or in part with funds provided by the United States, may be used by members of the armed forces and by all able-bodied persons capable of bearing arms, under regulations prescribed by the authorities controlling those ranges and approved by the Secretary.”
 
 1985—Subsec. (b). Pub. L. 99–145 substituted “persons” for “males”.
 

@@ -6,7 +6,7 @@ A district court of the United States shall have jurisdiction to enforce, and to
 
 #### (b) Referral to Attorney General
 
-A civil action brought under subsection (a) of this section shall be referred to the Attorney General for appropriate action, except that the Secretary is not required to refer to the Attorney General a violation of this chapter, or an order or regulation issued under this chapter, if the Secretary believes that the administration and enforcement of this chapter would be adequately served by administrative action under subsection (c) of this section or suitable written notice or warning to the person who committed or is committing the violation.
+A civil action brought under subsection (a) of this section shall be referred to the AttorneyGeneral for appropriate action, except that the Secretary is not required to refer to the Attorney General a violation of this chapter, or an order or regulation issued under this chapter, if the Secretary believes that the administration and enforcement of this chapter would be adequately served by administrative action under subsection (c) of this section or suitable written notice or warning to the person who committed or is committing the violation.
 
 #### (c) Civil penalties and orders
 
@@ -30,7 +30,7 @@ A civil action brought under subsection (a) of this section shall be referred to
 
 #### (3) Notice and hearing
 
-&emsp;No penalty shall be assessed or cease and desist order issued by the Secretary under this subsection unless the Secretary gives the person against whom the penalty is assessed or the order is issued notice and opportunity for a hearing before the Secretary with respect to the violation. Any such hearing shall be conducted in accordance with section 6809(b)(2) of this title and shall be held within the UnitedStates judicial district in which the residence or principal place of business of the person is located.
+&emsp;No penalty shall be assessed or cease and desist order issued by the Secretary under this subsection unless the Secretary gives the person against whom the penalty is assessed or the order is issued notice and opportunity for a hearing before the Secretary with respect to the violation. Any such hearing shall be conducted in accordance with section 6809(b)(2) of this title and shall be held within the United States judicial district in which the residence or principal place of business of the person is located.
 
 #### (4) Finality
 

@@ -282,22 +282,23 @@ I74subpart i—gang-free schools and communities
 |  |  |
 | :--- | ---: |
 | [5711\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Runaway%20and%20Homeless%20Youth%20Grant%20Program/%C2%A7%2005711%20-%20Authority%20to%20make%20grants.md) | Authority to make grants. |
-| (a) | Establishment and operation of runaway and homeless youth centers. |
+| (a) | Grants for centers and services. |
 | (b) | Allotment of funds for grants; priority given to certain private entities. |
-| (c) | Street-based services. |
-| (d) | Home-based services. |
 | [5712\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Runaway%20and%20Homeless%20Youth%20Grant%20Program/%C2%A7%2005712%20-%20Eligibility%3B%20plan%20requirements.md) | Eligibility; plan requirements. |
 | (a) | Runaway and homeless youth center; project providing temporary shelter; counseling services. |
 | (b) | Provisions of plan. |
-| (c) | Street-based service project. |
-| (d) | Home-based service project. |
+| (c) | Applicants providing street-based services. |
+| (d) | Applicants providing home-based services. |
+| (e) | Applicants providing drug abuse education and prevention services. |
 | 5712a to 5712c. Repealed. |  |
 | [5712d.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Runaway%20and%20Homeless%20Youth%20Grant%20Program/%C2%A7%2005712d%20-%20Grants%20for%20prevention%20of%20sexual%20abuse%20and%20exploitation.md) | Grants for prevention of sexual abuse and exploitation. |
 | (a) | In general. |
 | (b) | Priority. |
 | (c) | Authorization of appropriations. |
 | (d) | Definitions. |
-| [5713\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Runaway%20and%20Homeless%20Youth%20Grant%20Program/%C2%A7%2005713%20-%20Approval%20of%20application%20by%20Secretary%3B%20priority.md) | Approval of application by Secretary; priority. |
+| [5713\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Runaway%20and%20Homeless%20Youth%20Grant%20Program/%C2%A7%2005713%20-%20Approval%20of%20applications.md) | Approval of applications. |
+| (a) | In general. |
+| (b) | Priority. |
 | [5714\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Runaway%20and%20Homeless%20Youth%20Grant%20Program/%C2%A7%2005714%20-%20Grants%20to%20private%20entities%3B%20staffing.md) | Grants to private entities; staffing. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -306,7 +307,7 @@ I74subpart i—gang-free schools and communities
 
 |  |  |
 | :--- | ---: |
-| 5714–1. | Purpose and authority for program. |
+| 5714–1. | Authority for program. |
 | 5714–2. | Eligibility. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -325,41 +326,48 @@ I74subpart i—gang-free schools and communities
 | :--- | ---: |
 | 5714–21. | Coordination. |
 | 5714–22. | Grants for technical assistance and training. |
-| 5714–23. | Authority to make grants for research, demonstration, and service projects. |
+| 5714–23. | Authority to make grants for research, evaluation, demonstration, and service projects. |
 | (a) | Authorization; purposes. |
 | (b) | Selection factors; special consideration. |
 | (c) | Priority. |
 | 5714–24. | Temporary demonstration projects to provide services to youth in rural areas. |
+| 5714–25. | Study. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part E—General Provisions
+#### Part E—Sexual Abuse Prevention Program
 
 |  |  |
 | :--- | ---: |
-| [5714a.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20E%20-%20General%20Provisions/%C2%A7%2005714a%20-%20Assistance%20to%20potential%20grantees.md) | Assistance to potential grantees. |
-| [5714b.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20E%20-%20General%20Provisions/%C2%A7%2005714b%20-%20Lease%20of%20surplus%20Federal%20facilities%20for%20use%20as%20runaway%20and%20homeless%20youth%20centers%20or%20as%20transitional%20living%20youth%20shelter%20facilities.md) | Lease of surplus Federal facilities for use as runaway and homeless youth centers or as transitional living youth shelter facilities. |
+| 5714–41. | Authority to make grants. |
+| (a) | In general. |
+| (b) | Priority. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part F—General Provisions
+
+|  |  |
+| :--- | ---: |
+| [5714a.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005714a%20-%20Assistance%20to%20potential%20grantees.md) | Assistance to potential grantees. |
+| [5714b.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005714b%20-%20Lease%20of%20surplus%20Federal%20facilities%20for%20use%20as%20runaway%20and%20homeless%20youth%20centers%20or%20as%20transitional%20living%20youth%20shelter%20facilities.md) | Lease of surplus Federal facilities for use as runaway and homeless youth centers or as transitional living youth shelter facilities. |
 | (a) | Conditions of lease arrangements. |
 | (b) | Period of availability; rent-free use; structural changes: Federal ownership and consent. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part F—Administrative Provisions
-
-|  |  |
-| :--- | ---: |
-| [5715\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20Administrative%20Provisions/%C2%A7%2005715%20-%20Reports.md) | Reports. |
-| [5716\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20Administrative%20Provisions/%C2%A7%2005716%20-%20Federal%20and%20non-Federal%20share%3B%20methods%20of%20payment.md) | Federal and non-Federal share; methods of payment. |
-| [5731\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20Administrative%20Provisions/%C2%A7%2005731%20-%20Restrictions%20on%20disclosure%20and%20transfer.md) | Restrictions on disclosure and transfer. |
-| [5732\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20Administrative%20Provisions/%C2%A7%2005732%20-%20Annual%20program%20priorities.md) | Annual program priorities. |
-| [5733\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20Administrative%20Provisions/%C2%A7%2005733%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93586%2C%20%C2%A73%28g%29%282%29%28E%29%2C%20Nov.%204%2C%201992%2C%20106%20Stat.%205025.md) | Repealed. |
-| [5741\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20Administrative%20Provisions/%C2%A7%2005741%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93473%2C%20title%20II%2C%20%C2%A7656%2C%20Oct.%2012%2C%201984%2C%2098%20Stat.%202124.md) | Repealed. |
-| [5751\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20Administrative%20Provisions/%C2%A7%2005751%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | Part A of this subchapter. |
-| (b) | Part B of this subchapter. |
-| (c) | Temporary demonstration projects for youth in rural areas. |
-| (d) | Consultative and coordinating requirements. |
-| (e) | Conditions for use of funds. |
+| [5715\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005715%20-%20Reports.md) | Reports. |
+| (a) | In general. |
+| (b) | Contents of reports. |
+| [5716\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005716%20-%20Federal%20and%20non-Federal%20share%3B%20methods%20of%20payment.md) | Federal and non-Federal share; methods of payment. |
+| [5731\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005731%20-%20Restrictions%20on%20disclosure%20and%20transfer.md) | Restrictions on disclosure and transfer. |
+| [5731a.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005731a%20-%20Consolidated%20review%20of%20applications.md) | Consolidated review of applications. |
+| [5732\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005732%20-%20Evaluation%20and%20information.md) | Evaluation and information. |
+| (a) | In general. |
+| (b) | Cooperation. |
+| [5732a.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005732a%20-%20Definitions.md) | Definitions. |
+| [5733\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005733%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93586%2C%20%C2%A73%28g%29%282%29%28E%29%2C%20Nov.%204%2C%201992%2C%20106%20Stat.%205025.md) | Repealed. |
+| [5741\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005741%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93473%2C%20title%20II%2C%20%C2%A7656%2C%20Oct.%2012%2C%201984%2C%2098%20Stat.%202124.md) | Repealed. |
+| [5751\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005751%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| (a) | In general. |
+| (b) | Separate identification required. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -368,11 +376,12 @@ I74subpart i—gang-free schools and communities
 |  |  |
 | :--- | ---: |
 | [5771\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005771%20-%20Findings.md) | Findings. |
-| [5772\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005772%20-%20%E2%80%9CMissing%20child%E2%80%9D%20and%20%E2%80%9CAdministrator%E2%80%9D%20defined.md) | “Missing child” and “Administrator” defined. |
+| [5772\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005772%20-%20Definitions.md) | Definitions. |
 | [5773\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005773%20-%20Duties%20and%20functions%20of%20the%20Administrator.md) | Duties and functions of the Administrator. |
 | (a) | Description of activities. |
-| (b) | Establishment of toll-free telephone line and national resource center and clearinghouse; national incidence studies; use of school records and birth certificates. |
-| (c) | Independent status of other Federal agencies. |
+| (b) | Annual grant to National Center for Missing and Exploited Children. |
+| (c) | National incidence studies. |
+| (d) | Independent status of other Federal agencies. |
 | [5774\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005774%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93690%2C%20title%20VII%2C%20%C2%A77286%2C%20Nov.%2018%2C%201988%2C%20102%20Stat.%204460.md) | Repealed. |
 | [5775\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005775%20-%20Grants.md) | Grants. |
 | (a) | Authority of Administrator; description of research, demonstration projects, and service programs. |

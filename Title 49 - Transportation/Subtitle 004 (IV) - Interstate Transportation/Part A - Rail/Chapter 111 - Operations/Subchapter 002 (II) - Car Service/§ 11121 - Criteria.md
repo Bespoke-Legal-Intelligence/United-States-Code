@@ -18,5 +18,5 @@
 
 #### Prior Provisions
 
-A prior section 11121, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1421; Pub. L. 96–258, §1(11), June 3, 1980, 94 Stat.426, related to criteria of rail carriers to furnish safe and adequate car service, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+A prior section 11121, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1421; Pub. L. 96–258, §1(11), June 3, 1980, 94 Stat. 426, related to criteria of rail carriers to furnish safe and adequate car service, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 

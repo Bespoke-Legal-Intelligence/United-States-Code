@@ -38,7 +38,7 @@ Annual Report.—(1) Not later than April 15 of each year, the Secretary of Vete
 
 #### Homeless Veterans Comprehensive Service Programs
 
-Pub. L. 102–590, §§2–4, Nov. 10, 1992, 106 Stat. 5136–5139, as amended by Pub. L. 103–446, title X, §1003, Nov. 2, 1994, 108 Stat. 4679; Pub. L. 104–110, title I, §102(c)(1), (2), Feb. 13, 1996, 110 Stat. 769; Pub. L. 105–114, title II, §§202(c)(3), 203(b), Nov. 21, 1997, 111 Stat. 2287, 2288, provided that:
+Pub. L. 102–590, §§2–4, Nov. 10, 1992, 106 Stat. 5136–5139, as amended by Pub. L. 103–446, title X, §1003, Nov. 2, 1994, 108 Stat. 4679; Pub. L. 104–110, title I, §102(c)(1), (2), Feb. 13, 1996, 110 Stat. 769; Pub. L. 105–114, title II, §§202(c)(3), 203(b), Nov. 21, 1997, 111 Stat. 2287, 2288; Pub. L. 106–117, title IX, §903(1)–(3), Nov. 30, 1999, 113 Stat. 1587, provided that:
 
 #### “\[SEC. 2. Repealed. Pub. L. 105–114, title II, §202(c)(3), Nov. 21, 1997, 111 Stat. 2287.\]
 
@@ -46,9 +46,9 @@ Pub. L. 102–590, §§2–4, Nov. 10, 1992, 106 Stat. 5136–5139, as amended b
 
 “(a)
 
-Authority To Make Grants.—(1) Subject to the availability of appropriations provided for under section 12 \[set out below\], the Secretary of Veterans Affairs, during \[sic\] shall make grants to assist eligible entities in establishing new programs to furnish outreach, rehabilitative services, vocational counseling and training, and transitional housing assistance to homeless veterans.
+Authority To Make Grants.—(1) Subject to the availability of appropriations provided for under section 12 \[set out below\], the Secretary of Veterans Affairs, during \[sic\] shall make grants to assist eligible entities in establishing new programs to furnish, and expanding existing programs for furnishing, outreach, rehabilitative services, vocational counseling and training, and transitional housing assistance to homeless veterans.
 
-“(2) The authority of the Secretary to make grants under this section expires on September 30, 1999.
+“(2) The authority of the Secretary to make grants under this section expires on September 30, 2003.
 
 “(b)
 
@@ -56,7 +56,7 @@ Criteria for Award of Grants.—The Secretary shall establish criteria and requi
 
 &emsp;“(1) Specification as to the kinds of projects for which such grant support is available, which shall include (A) expansion, remodeling, or alteration of existing buildings, or acquisition of facilities, for use as service centers, transitional housing, or other facilities to serve homeless veterans, and (B) procurement of vans for use in outreach to, and transportation for, homeless veterans to carry out the purposes set forth in subsection (a).
 
-&emsp;“(2) Specification as to the number of projects for which grant support is available, which shall include provision for no more than 25 service centers and no more than 20 programs which incorporate the procurement of vans as described in paragraph (1).
+&emsp;“(2) Specification as to the number of projects for which grant support is available, which shall include provision for no more than 25 service centers.
 
 &emsp;“(3) Appropriate criteria for the staffing for the provision of the services for which a grant under this section is furnished.
 
@@ -90,7 +90,7 @@ Application Requirement.—An entity described in subsection (d) desiring to rec
 
 &emsp;“(3) plans, specifications, and the schedule for implementation of such project in accordance with requirements prescribed by the Secretary under subsection (b); and
 
-&emsp;“(4) reasonable assurance that upon completion of the work for which assistance is sought, the program will become operational and the facilities will be used principally to provide to veterans the services for which the project was designed, and that not more than 25 percent of the services provided will serve clients who are not receiving such services as veterans.
+&emsp;“(4) reasonable assurance that upon completion of the work for which assistance is sought, the program will become operational and the facilities will be used principally to provide to veterans the services forwhich the project was designed, and that not more than 25 percent of the services provided will serve clients who are not receiving such services as veterans.
 
 “(f)
 
@@ -150,5 +150,5 @@ Pub. L. 102–590, §10, Nov. 10, 1992, 106 Stat. 5141, directed Secretary of Ve
 
 #### Authorization of Appropriations
 
-Pub. L. 102–590, §12, Nov. 10, 1992, 106 Stat. 5142, as amended by Pub. L. 103–446, title X, §1004, Nov. 2, 1994, 108 Stat. 4679; Pub. L. 104–110, title I, §102(c)(3), Feb. 13, 1996, 110 Stat. 769, provided that: “There are authorized to be appropriated to carry out this Act \[see Short Title of 1992 Amendment note set out under section 101 of this title\] (other than section 8 \[amending section 3735 of this title\]) $48,000,000 for each of fiscal years 1993 through 1997. Nothing in this Act shall be construed to diminish funds for, continuation of, or expansion of existing programs administered by the Secretary of Veterans Affairs to serve veterans.”
+Pub. L. 102–590, §12, Nov. 10, 1992, 106 Stat. 5142, as amended by Pub. L. 103–446, title X, §1004, Nov. 2, 1994, 108 Stat. 4679; Pub. L. 104–110, title I, §102(c)(3), Feb. 13, 1996, 110 Stat. 769; Pub. L. 106–117, title IX, §903(4), Nov. 30, 1999, 113 Stat. 1587, provided that: “There are authorized to be appropriated to carry out this Act \[see Short Title of 1992 Amendment note set out under section 101 of this title\] (other than section 8 \[amending section 3735 of this title\]) $48,000,000 for each of fiscal years 1993 through 1997 and $50,000,000 for each of fiscal years 2000 and 2001. Nothing in this Act shall be construed to diminish funds for, continuation of, or expansion of existing programs administered by the Secretary of Veterans Affairs to serve veterans.”
 

@@ -10,7 +10,7 @@ Definitions.—In this section—
 
 (b)
 
-Preference.—Subject to subsections (c) and (d) of this section, the Administrator of the Federal Aviation Administration may make, with a domestic firm, a contract related to a grant made under section 44511, 44512, or 44513 ofthis title that, under competitive procedures, would be made with a foreign firm, if—
+Preference.—Subject to subsections (c) and (d) of this section, the Administrator of the Federal Aviation Administration may make, with a domestic firm, a contract related to a grant made under section 44511, 44512, or 44513 of this title that, under competitive procedures, would be made with a foreign firm, if—
 
 &emsp;(1) the Administrator decides, and the Secretary of Commerce and the United States Trade Representative concur, that the public interest requires making the contract with the domestic firm, considering United States international obligations and trade relations;
 
@@ -26,7 +26,7 @@ Nonapplication.—Subsection (b) of this section does not apply if—
 
 &emsp;(1) compelling national security considerations require that subsection (b) of this section not apply; or
 
-&emsp;(2) the Trade Representative decides that making the contract would violate the General Agreement on Tariffs and Trade or an international agreement to which the United States is a party.
+&emsp;(2) the Trade Representative decides that making the contract would violate the multilateral trade agreements (as defined in section 3501(4) of title 19) or an international agreement to which the United States is a party.
 
 (d)
 
@@ -42,11 +42,11 @@ Report.—The Administrator shall submit a report to Congress on—
 
 &emsp;(1) contracts to which this section applies that are made with foreign firms in the fiscal years ending September 30, 1991, and September 30, 1992;
 
-&emsp;(2) the number of contracts that meet the requirements of subsection (b) of this section, but that the Trade Representative decides would violate the General Agreement on Tariffs and Trade or an international agreement to which the United States is a party; and
+&emsp;(2) the number of contracts that meet the requirements of subsection (b) of this section, but that the Trade Representative decides would violate the multilateral trade agreements (as defined in section 3501(4) of title 19) or an international agreement to which the United States is a party; and
 
 &emsp;(3) the number of contracts made under this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1298, §49103; renumbered §50103, Pub. L. 104–287, §5(88)(D), Oct. 11, 1996, 110 Stat. 3398.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1298, §49103; renumbered §50103, Pub. L. 104–287, §5(88)(D), Oct. 11, 1996, 110 Stat. 3398; amended Pub. L. 106–36, title I, §1002(i), June 25, 1999, 113 Stat. 134.)
 
 Historical and Revision Notes
 
@@ -91,6 +91,8 @@ In subsection (e)(1), the words “foreign firms” are substituted for “forei
 Subsection (e)(3) is substituted for “the number of contracts covered under this subtitle (including the amendments made by this subtitle) and awarded based upon the parameters of this section” to eliminate unnecessary words.
 
 #### Amendments
+
+1999—Subsecs. (c)(2), (e)(2). Pub. L. 106–36 substituted “multilateral trade agreements (as defined in section 3501(4) of title 19)” for “General Agreement on Tariffs and Trade”.
 
 1996—Pub. L. 104–287 renumbered section 49103 of this title as this section.
 

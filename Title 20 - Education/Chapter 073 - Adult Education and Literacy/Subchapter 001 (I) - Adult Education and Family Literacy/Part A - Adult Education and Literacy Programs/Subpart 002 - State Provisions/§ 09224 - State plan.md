@@ -42,7 +42,7 @@ In developing the State plan, and any revisions to the State plan, the eligible 
 
 &emsp;&emsp;(D) individuals with multiple barriers to educational enhancement, including individuals with limited English proficiency;
 
-&emsp;(11) a description of how the adult education and literacy activities that will be carried outwith any funds received under this part will be integrated with other adult education, career development, and employment and training activities in the State or outlying area served by the eligible agency; and
+&emsp;(11) a description of how the adult education and literacy activities that will be carried out with any funds received under this part will be integrated with other adult education, career development, and employment and training activities in the State or outlying area served by the eligible agency; and
 
 &emsp;(12) a description of the steps the eligible agency will take to ensure direct and equitable access, as required in section 9241(c)(1) of this title.
 

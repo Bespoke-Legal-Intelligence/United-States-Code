@@ -112,7 +112,7 @@ For purposes of subsection (a), a controlled foreign corporation shall, under re
 
 #### (e) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations to prevent the avoidance of the provisons <sup>2</sup> of this section through reorganizations or otherwise.
+The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations to preventthe avoidance of the provisons <sup>2</sup> of this section through reorganizations or otherwise.
 
 (Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1015; amended Pub. L. 94–455, title X, §1021(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1618, 1834; Pub. L. 98–369, div. A, title I, §123(b), title VIII, §801(d)(8), July 18, 1984, 98 Stat. 646, 996; Pub. L. 99–514, title XVIII, §1810(c)(1), Oct. 22, 1986, 100 Stat. 2824; Pub. L. 103–66, title XIII, §13232(a), (b), Aug. 10, 1993, 107 Stat. 501; Pub. L. 104–188, title I, §1501(b)(2), (3), Aug. 20, 1996, 110 Stat. 1825; Pub. L. 105–34, title XI, §1173(a), title XVI, §1601(e), Aug. 5, 1997, 111 Stat. 988, 1090.)
 

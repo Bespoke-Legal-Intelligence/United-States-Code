@@ -28,7 +28,7 @@ Amendment by Pub. L. 92–197 effective Jan. 1, 1972, see section 10 of Pub. L. 
 
 Section 13(c) of Pub. L. 91–291 provided that: “No dependency and indemnity compensation shall be payable to any person by virtue of the amendments made by subsection (a) of this section \[amending this section\] for any person prior to the effective date of this Act \[June 25, 1970\].”
 
-Section 14(a) of Pub. L. 91–291 provided that: “The amendments made by this Act \[amending this section and sections 705, 707, 745, 765, 767, 768, 769, 770, and 774 \[now 1905, 1907, 1945, 1965, 1967, 1968, 1969, 1970, and 1974\] of this title and enacting provisions set out as notesunder this section\] shall take effect as of the date of enactment \[June 25, 1970\], except that sections 10 and 12 \[amending sections 717 and 752 \[now 1917 and 1952\] of this title\] shall take effect as of the first day of the first calendar month which begins more than six calendar months after the date of enactment of this Act \[June 25, 1970\].”
+Section 14(a) of Pub. L. 91–291 provided that: “The amendments made by this Act \[amending this section and sections 705, 707, 745, 765, 767, 768, 769, 770, and 774 \[now 1905, 1907, 1945, 1965, 1967, 1968, 1969, 1970, and 1974\] of this title and enacting provisions set out as notes under this section\] shall take effect as of the date of enactment \[June 25, 1970\], except that sections 10 and 12 \[amending sections 717 and 752 \[now 1917 and 1952\] of this title\] shall take effect as of the first day of the first calendar month which begins more than six calendar months after the date of enactment of this Act \[June 25, 1970\].”
 
 #### Dependency and Indemnity Compensation; Eligibility
 

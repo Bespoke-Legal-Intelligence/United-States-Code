@@ -18,7 +18,7 @@ The Commission shall consist of 17 members to be appointed no later than six mon
 
 &emsp;(5) One member, with experience in and knowledge of historic preservation within the New Orleans area.
 
-&emsp;(6) Two members, one from recommendations submitted by the Secretary of the Smithsonian Institution and one member from recommendations submitted by the Chairmanof the National Endowment of the Arts, who are recognized musicians with knowledge and experience in the development of jazz in New Orleans.
+&emsp;(6) Two members, one from recommendations submitted by the Secretary of the Smithsonian Institution and one member from recommendations submitted by the Chairman of the National Endowment of the Arts, who are recognized musicians with knowledge and experience in the development of jazz in New Orleans.
 
 &emsp;(7) Two members, one from recommendations submitted by the Secretary of the Smithsonian Institution and one member from recommendations submitted by the Director of the Louisiana State Museum with recognized expertise in the interpretation of jazz history or traditions related to jazz in New Orleans.
 

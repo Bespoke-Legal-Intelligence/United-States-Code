@@ -30,9 +30,9 @@ The congressional committees referred to in subsection (a) of this section are t
 
 &emsp;(1) The Committee on Armed Services and the Committee on Foreign Relations of the Senate.
 
-&emsp;(2) The Committee on National Security and the Committee on International Relations of the House of Representatives.
+&emsp;(2) The Committee on Armed Services and the Committee on International Relations of the House of Representatives.
 
-(Pub. L. 101–510, div. A, title XIV, §1457, Nov. 5, 1990, 104 Stat. 1696; Pub. L. 104–106, div. A, title XV, §1502(c)(4)(C), Feb. 10, 1996, 110 Stat. 507.)
+(Pub. L. 101–510, div. A, title XIV, §1457, Nov. 5, 1990, 104 Stat. 1696; Pub. L. 104–106, div. A, title XV, §1502(c)(4)(C), Feb. 10, 1996, 110 Stat. 507; Pub. L. 106–65, div. A, title X, §1067(10), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Codification
 
@@ -40,13 +40,11 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
+1999—Subsec. (d)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+
 1996—Subsec. (a). Pub. L. 104–106, §1502(c)(4)(C)(i), substituted “shall submit to the congressional committees specified in subsection (d) of this section each year” for “shall submit to the Committees on Armed Services and on Foreign Affairs of the House of Representatives and the Committees on Armed Services and Foreign Relations of the Senate each year”.
 
 Subsec. (c). Pub. L. 104–106, §1502(c)(4)(C)(ii), substituted “The President” for “(1) Except as provided in paragraph (2), the President” and struck out par. (2) which read as follows: “In the case of the report required to be submitted in 1991, the evaluation, plan, and assessment referred to in paragraphs (2), (3), and (4) of subsection (b) of this section may be submitted not later than May 1, 1991.”
 
 Subsec. (d). Pub. L. 104–106, §1502(c)(4)(C)(iii), added subsec. (d).
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 

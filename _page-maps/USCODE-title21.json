@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title21",
- "package": "USCODE-1998-title21",
+ "package": "USCODE-1999-title21",
  "pieces": [
   {
    "id": "21_",
@@ -45,7 +45,7 @@
      14,
      [
       [
-       496,
+       111,
        "[Page 2]"
       ]
      ]
@@ -113,30 +113,30 @@
   },
   {
    "id": "21_17",
-   "marks": [],
-   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 002 (II) - Miscellaneous Provisions/§ 00017 - Penalty for sale or introduction of falsely labeled dairy or food products; venue.md",
-   "printed_pages": [
-    2,
-    2
-   ]
-  },
-  {
-   "id": "21_18",
    "marks": [
     [
      "I",
-     2,
+     8,
      [
       [
-       141,
+       108,
        "[Page 3]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 002 (II) - Miscellaneous Provisions/§ 00018 - Suspension of importation of adulterated articles.md",
+   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 002 (II) - Miscellaneous Provisions/§ 00017 - Penalty for sale or introduction of falsely labeled dairy or food products; venue.md",
    "printed_pages": [
     2,
+    3
+   ]
+  },
+  {
+   "id": "21_18",
+   "marks": [],
+   "path": "Chapter 001 - Adulterated or Misbranded Foods or Drugs/Subchapter 002 (II) - Miscellaneous Provisions/§ 00018 - Suspension of importation of adulterated articles.md",
+   "printed_pages": [
+    3,
     3
    ]
   },
@@ -202,7 +202,7 @@
      2,
      [
       [
-       834,
+       458,
        "[Page 4]"
       ]
      ]
@@ -258,7 +258,7 @@
      8,
      [
       [
-       509,
+       128,
        "[Page 5]"
       ]
      ]
@@ -302,10 +302,10 @@
    "marks": [
     [
      "I",
-     53,
+     46,
      [
       [
-       17,
+       59,
        "[Page 6]"
       ]
      ]
@@ -331,10 +331,10 @@
    "marks": [
     [
      "I",
-     18,
+     14,
      [
       [
-       108,
+       164,
        "[Page 7]"
       ]
      ]
@@ -426,7 +426,7 @@
      2,
      [
       [
-       569,
+       233,
        "[Page 8]"
       ]
      ]
@@ -455,7 +455,7 @@
      20,
      [
       [
-       1024,
+       595,
        "[Page 9]"
       ]
      ]
@@ -471,10 +471,14 @@
    "id": "21_105",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 10]",
-     true
+     "I",
+     18,
+     [
+      [
+       214,
+       "[Page 10]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 002 (II) - Importation of Cattle and Quarantine/§ 00105 - Inspection of animals.md",
@@ -521,30 +525,26 @@
   },
   {
    "id": "21_112a",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 11]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00112a - Omitted.md",
    "printed_pages": [
     10,
-    10
+    11
    ]
   },
   {
    "id": "21_113",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       185,
-       "[Page 11]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00113 - Measures to prevent exportation of diseased livestock and live poultry.md",
    "printed_pages": [
-    10,
+    11,
     11
    ]
   },
@@ -552,10 +552,14 @@
    "id": "21_113a",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 12]",
-     true
+     "I",
+     28,
+     [
+      [
+       160,
+       "[Page 12]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00113a - Establishment of research laboratories for foot-and-mouth disease and other animal diseases; research contracts; employment of….md",
@@ -590,7 +594,7 @@
      2,
      [
       [
-       419,
+       92,
        "[Page 13]"
       ]
      ]
@@ -615,14 +619,10 @@
    "id": "21_114c",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       110,
-       "[Page 14]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 14]",
+     true
     ]
    ],
    "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00114c - Use of funds.md",
@@ -671,10 +671,14 @@
    "id": "21_114f",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 15]",
-     true
+     "I",
+     2,
+     [
+      [
+       93,
+       "[Page 15]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00114f - “State” defined; authorization of appropriations.md",
@@ -718,7 +722,7 @@
      2,
      [
       [
-       838,
+       419,
        "[Page 16]"
       ]
      ]
@@ -741,30 +745,26 @@
   },
   {
    "id": "21_117",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 17]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00117 - Penalties for transportation of diseased livestock or live poultry.md",
    "printed_pages": [
     16,
-    16
+    17
    ]
   },
   {
    "id": "21_118",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       90,
-       "[Page 17]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00118 - Duty of United States attorneys.md",
    "printed_pages": [
-    16,
+    17,
     17
    ]
   },
@@ -794,7 +794,7 @@
      2,
      [
       [
-       568,
+       234,
        "[Page 18]"
       ]
      ]
@@ -832,7 +832,7 @@
      2,
      [
       [
-       932,
+       564,
        "[Page 19]"
       ]
      ]
@@ -875,10 +875,14 @@
    "id": "21_128",
    "marks": [
     [
-     "L",
-     4,
-     "[Page 20]",
-     true
+     "I",
+     2,
+     [
+      [
+       90,
+       "[Page 20]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00128 - Extension of quarantine law to carriers in interstate commerce.md",
@@ -904,7 +908,7 @@
      2,
      [
       [
-       800,
+       322,
        "[Page 21]"
       ]
      ]
@@ -957,10 +961,10 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       90,
+       883,
        "[Page 22]"
       ]
      ]
@@ -983,30 +987,26 @@
   },
   {
    "id": "21_134c",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 23]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00134c - Regulations for movement of animals affected or exposed to communicable disease.md",
    "printed_pages": [
     22,
-    22
+    23
    ]
   },
   {
    "id": "21_134d",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       229,
-       "[Page 23]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00134d - Inspections and seizures; issuance of warrants.md",
    "printed_pages": [
-    22,
+    23,
     23
    ]
   },
@@ -1032,10 +1032,14 @@
    "id": "21_134g",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 24]",
-     true
+     "I",
+     8,
+     [
+      [
+       112,
+       "[Page 24]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00134g - Authority in addition to other laws; repeal of inconsistent provisions.md",
@@ -1073,30 +1077,26 @@
   },
   {
    "id": "21_135b",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 25]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00135b - Authorization of appropriations.md",
    "printed_pages": [
     24,
-    24
+    25
    ]
   },
   {
    "id": "21_136",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       94,
-       "[Page 25]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00136 - Additional inspection services.md",
    "printed_pages": [
-    24,
+    25,
     25
    ]
   },
@@ -1105,19 +1105,23 @@
    "marks": [
     [
      "I",
-     64,
+     60,
      [
       [
-       185,
+       89,
        "[Page 26]"
       ]
      ]
     ],
     [
-     "L",
-     138,
-     "[Page 27]",
-     true
+     "I",
+     132,
+     [
+      [
+       92,
+       "[Page 27]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 003 (III) - Prevention of Introduction and Spread of Contagion/§ 00136a - Collection of fees for inspection services.md",
@@ -1152,7 +1156,7 @@
      2,
      [
       [
-       925,
+       745,
        "[Page 28]"
       ]
      ]
@@ -1166,30 +1170,26 @@
   },
   {
    "id": "21_143",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 29]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 004 (IV) - Importation of Milk and Cream/§ 00143 - Inspection; certified statement in lieu thereof; waiver of requirements of section 142; regulations; suspension and revocation of permits.md",
    "printed_pages": [
     28,
-    28
+    29
    ]
   },
   {
    "id": "21_144",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       90,
-       "[Page 29]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - Animals, Meats, and Meat and Dairy Products/Subchapter 004 (IV) - Importation of Milk and Cream/§ 00144 - Unlawful receiving of imported milk or cream.md",
    "printed_pages": [
-    28,
+    29,
     29
    ]
   },
@@ -1255,7 +1255,7 @@
      2,
      [
       [
-       898,
+       671,
        "[Page 30]"
       ]
      ]
@@ -1278,30 +1278,26 @@
   },
   {
    "id": "21_153",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 31]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Viruses, Serums, Toxins, Antitoxins, and Analogous Products/§ 00153 - Inspection of imports; denial of entry and destruction.md",
    "printed_pages": [
     30,
-    30
+    31
    ]
   },
   {
    "id": "21_154",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       182,
-       "[Page 31]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Viruses, Serums, Toxins, Antitoxins, and Analogous Products/§ 00154 - Regulations for preparation and sale; licenses.md",
    "printed_pages": [
-    30,
+    31,
     31
    ]
   },
@@ -1328,10 +1324,10 @@
    "marks": [
     [
      "I",
-     10,
+     8,
      [
       [
-       106,
+       340,
        "[Page 32]"
       ]
      ]
@@ -1387,7 +1383,7 @@
      10,
      [
       [
-       975,
+       871,
        "[Page 33]"
       ]
      ]
@@ -1440,7 +1436,7 @@
    "marks": [
     [
      "L",
-     12,
+     10,
      "[Page 34]",
      true
     ]
@@ -1516,30 +1512,30 @@
   },
   {
    "id": "21_196",
-   "marks": [],
-   "path": "Chapter 006 - Narcotic Drugs/Miscellaneous/§ 00196 - Repealed. July 1, 1944, ch. 373, title XIII, §1313, 58 Stat. 714.md",
-   "printed_pages": [
-    34,
-    34
-   ]
-  },
-  {
-   "id": "21_197,_198",
    "marks": [
     [
      "I",
-     2,
+     6,
      [
       [
-       111,
+       347,
        "[Page 35]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 006 - Narcotic Drugs/Miscellaneous/§ 00197, 198 - Repealed. Pub. L. 91–513, title III, §1101(a)(4), Oct. 27, 1970, 84 Stat. 1291.md",
+   "path": "Chapter 006 - Narcotic Drugs/Miscellaneous/§ 00196 - Repealed. July 1, 1944, ch. 373, title XIII, §1313, 58 Stat. 714.md",
    "printed_pages": [
     34,
+    35
+   ]
+  },
+  {
+   "id": "21_197,_198",
+   "marks": [],
+   "path": "Chapter 006 - Narcotic Drugs/Miscellaneous/§ 00197, 198 - Repealed. Pub. L. 91–513, title III, §1101(a)(4), Oct. 27, 1970, 84 Stat. 1291.md",
+   "printed_pages": [
+    35,
     35
    ]
   },
@@ -1587,7 +1583,7 @@
      2,
      [
       [
-       1949,
+       1627,
        "[Page 36]"
       ]
      ]
@@ -1652,7 +1648,7 @@
      2,
      [
       [
-       380,
+       91,
        "[Page 37]"
       ]
      ]
@@ -1681,7 +1677,7 @@
      4,
      [
       [
-       1518,
+       1188,
        "[Page 38]"
       ]
      ]
@@ -1743,7 +1739,7 @@
    "marks": [
     [
      "L",
-     6,
+     4,
      "[Page 39]",
      true
     ]
@@ -1777,30 +1773,30 @@
    "marks": [
     [
      "I",
-     68,
+     66,
      [
       [
-       22,
+       19,
        "[Page 40]"
       ]
      ]
     ],
     [
      "I",
-     175,
+     174,
      [
       [
-       90,
+       79,
        "[Page 41]"
       ]
      ]
     ],
     [
      "I",
-     270,
+     269,
      [
       [
-       77,
+       55,
        "[Page 42]"
       ]
      ]
@@ -3170,29 +3166,41 @@
      ]
     ],
     [
-     "L",
+     "I",
      400,
-     "[Page 147]",
-     true
-    ],
-    [
-     "L",
-     456,
-     "[Page 148]",
-     true
-    ],
-    [
-     "L",
-     514,
-     "[Page 149]",
-     true
+     [
+      [
+       102,
+       "[Page 147]"
+      ]
+     ]
     ],
     [
      "I",
-     598,
+     456,
      [
       [
-       160,
+       1136,
+       "[Page 148]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     514,
+     [
+      [
+       94,
+       "[Page 149]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     600,
+     [
+      [
+       102,
        "[Page 150]"
       ]
      ]
@@ -3209,23 +3217,19 @@
    "marks": [
     [
      "I",
-     40,
+     34,
      [
       [
-       94,
+       145,
        "[Page 151]"
       ]
      ]
     ],
     [
-     "I",
-     94,
-     [
-      [
-       94,
-       "[Page 152]"
-      ]
-     ]
+     "L",
+     86,
+     "[Page 152]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00355a - Pediatric studies of drugs.md",
@@ -3239,10 +3243,10 @@
    "marks": [
     [
      "I",
-     54,
+     46,
      [
       [
-       326,
+       324,
        "[Page 153]"
       ]
      ]
@@ -3258,10 +3262,14 @@
    "id": "21_356a",
    "marks": [
     [
-     "L",
-     44,
-     "[Page 154]",
-     true
+     "I",
+     36,
+     [
+      [
+       92,
+       "[Page 154]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00356a - Manufacturing changes.md",
@@ -3275,10 +3283,10 @@
    "marks": [
     [
      "I",
-     42,
+     32,
      [
       [
-       113,
+       112,
        "[Page 155]"
       ]
      ]
@@ -3312,10 +3320,14 @@
    "id": "21_358",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 156]",
-     true
+     "I",
+     12,
+     [
+      [
+       795,
+       "[Page 156]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00358 - Authority to designate official names.md",
@@ -3337,69 +3349,60 @@
    "id": "21_360",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       552,
-       "[Page 157]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 157]",
+     true
     ],
     [
      "I",
-     68,
+     62,
      [
       [
-       190,
+       325,
        "[Page 158]"
       ]
      ]
     ],
     [
      "I",
-     102,
+     100,
      [
       [
-       473,
+       238,
        "[Page 159]"
       ]
      ]
     ],
     [
      "I",
-     158,
+     150,
      [
       [
-       167,
+       105,
        "[Page 160]"
       ]
      ]
+    ],
+    [
+     "L",
+     212,
+     "[Page 161]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360 - Registration of producers of drugs or devices.md",
    "printed_pages": [
     156,
-    160
+    161
    ]
   },
   {
    "id": "21_360a",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       110,
-       "[Page 161]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360a - Repealed. Pub. L. 91–513, title II, §701(a), Oct. 27, 1970, 84 Stat. 1281.md",
    "printed_pages": [
-    160,
+    161,
     161
    ]
   },
@@ -3408,7 +3411,7 @@
    "marks": [
     [
      "I",
-     44,
+     40,
      [
       [
        92,
@@ -3418,124 +3421,128 @@
     ],
     [
      "I",
-     60,
+     56,
      [
       [
-       139,
+       1167,
        "[Page 163]"
       ]
      ]
     ],
     [
      "I",
-     88,
+     82,
      [
       [
-       134,
+       412,
        "[Page 164]"
       ]
      ]
     ],
     [
      "I",
-     120,
+     118,
      [
       [
-       93,
+       764,
        "[Page 165]"
       ]
      ]
     ],
     [
+     "L",
+     144,
+     "[Page 166]",
+     true
+    ],
+    [
+     "L",
+     168,
+     "[Page 167]",
+     true
+    ],
+    [
      "I",
-     146,
+     212,
      [
       [
-       98,
-       "[Page 166]"
+       102,
+       "[Page 168]"
       ]
      ]
     ],
     [
      "I",
-     172,
+     250,
      [
       [
-       508,
-       "[Page 167]"
+       234,
+       "[Page 169]"
       ]
      ]
     ],
     [
      "L",
-     218,
-     "[Page 168]",
-     true
-    ],
-    [
-     "L",
-     258,
-     "[Page 169]",
+     284,
+     "[Page 170]",
      true
     ],
     [
      "I",
-     286,
+     316,
      [
       [
-       705,
-       "[Page 170]"
+       93,
+       "[Page 171]"
       ]
      ]
     ],
     [
-     "L",
-     320,
-     "[Page 171]",
-     true
-    ],
-    [
      "I",
-     360,
+     358,
      [
       [
-       503,
+       221,
        "[Page 172]"
       ]
      ]
     ],
     [
      "I",
-     412,
+     408,
      [
       [
-       226,
+       97,
        "[Page 173]"
       ]
      ]
     ],
     [
-     "L",
-     482,
-     "[Page 174]",
-     true
+     "I",
+     472,
+     [
+      [
+       108,
+       "[Page 174]"
+      ]
+     ]
     ],
     [
      "I",
-     552,
+     546,
      [
       [
-       330,
+       103,
        "[Page 175]"
       ]
      ]
     ],
     [
      "I",
-     598,
+     600,
      [
       [
-       812,
+       105,
        "[Page 176]"
       ]
      ]
@@ -3551,52 +3558,56 @@
    "id": "21_360c",
    "marks": [
     [
-     "L",
-     54,
-     "[Page 177]",
-     true
-    ],
-    [
      "I",
-     90,
+     46,
      [
       [
-       182,
-       "[Page 178]"
+       95,
+       "[Page 177]"
       ]
      ]
     ],
     [
+     "L",
+     80,
+     "[Page 178]",
+     true
+    ],
+    [
      "I",
-     128,
+     122,
      [
       [
-       237,
+       102,
        "[Page 179]"
       ]
      ]
     ],
     [
      "I",
-     164,
+     160,
      [
       [
-       134,
+       704,
        "[Page 180]"
       ]
      ]
     ],
     [
      "L",
-     208,
+     202,
      "[Page 181]",
      true
     ],
     [
-     "L",
-     276,
-     "[Page 182]",
-     true
+     "I",
+     270,
+     [
+      [
+       33,
+       "[Page 182]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360c - Classification of devices intended for human use.md",
@@ -3609,30 +3620,30 @@
    "id": "21_360d",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       188,
-       "[Page 183]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 183]",
+     true
     ],
     [
      "I",
-     68,
+     60,
      [
       [
-       97,
+       273,
        "[Page 184]"
       ]
      ]
     ],
     [
-     "L",
-     108,
-     "[Page 185]",
-     true
+     "I",
+     90,
+     [
+      [
+       304,
+       "[Page 185]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360d - Performance standards.md",
@@ -3645,60 +3656,52 @@
    "id": "21_360e",
    "marks": [
     [
-     "I",
-     22,
-     [
-      [
-       92,
-       "[Page 186]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 186]",
+     true
     ],
     [
      "I",
-     72,
+     66,
      [
       [
-       229,
+       96,
        "[Page 187]"
       ]
      ]
     ],
     [
      "I",
-     126,
+     114,
      [
       [
-       96,
+       97,
        "[Page 188]"
       ]
      ]
     ],
     [
+     "I",
+     156,
+     [
+      [
+       422,
+       "[Page 189]"
+      ]
+     ]
+    ],
+    [
      "L",
-     166,
-     "[Page 189]",
+     214,
+     "[Page 190]",
      true
     ],
     [
-     "I",
-     218,
-     [
-      [
-       94,
-       "[Page 190]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     248,
-     [
-      [
-       603,
-       "[Page 191]"
-      ]
-     ]
+     "L",
+     242,
+     "[Page 191]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360e - Premarket approval.md",
@@ -3711,14 +3714,10 @@
    "id": "21_360f",
    "marks": [
     [
-     "I",
-     14,
-     [
-      [
-       380,
-       "[Page 192]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 192]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360f - Banned devices.md",
@@ -3732,7 +3731,7 @@
    "marks": [
     [
      "L",
-     38,
+     30,
      "[Page 193]",
      true
     ]
@@ -3748,17 +3747,17 @@
    "marks": [
     [
      "I",
-     26,
+     24,
      [
       [
-       700,
+       560,
        "[Page 194]"
       ]
      ]
     ],
     [
      "L",
-     84,
+     72,
      "[Page 195]",
      true
     ]
@@ -3774,104 +3773,112 @@
    "marks": [
     [
      "L",
-     58,
+     48,
      "[Page 196]",
      true
     ],
     [
      "I",
-     136,
+     120,
      [
       [
-       91,
+       87,
        "[Page 197]"
       ]
      ]
     ],
     [
      "L",
-     224,
+     208,
      "[Page 198]",
      true
+    ],
+    [
+     "I",
+     280,
+     [
+      [
+       536,
+       "[Page 199]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360i - Records and reports on devices.md",
    "printed_pages": [
     195,
-    198
+    199
    ]
   },
   {
    "id": "21_360j",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       94,
-       "[Page 199]"
-      ]
-     ]
-    ],
-    [
      "L",
-     50,
+     40,
      "[Page 200]",
      true
     ],
     [
      "L",
-     94,
+     88,
      "[Page 201]",
      true
     ],
     [
-     "L",
-     134,
-     "[Page 202]",
-     true
+     "I",
+     128,
+     [
+      [
+       372,
+       "[Page 202]"
+      ]
+     ]
     ],
     [
      "I",
-     176,
+     172,
      [
       [
-       326,
+       365,
        "[Page 203]"
       ]
      ]
     ],
     [
      "I",
-     228,
+     226,
      [
       [
-       380,
+       192,
        "[Page 204]"
       ]
      ]
     ],
     [
      "I",
-     266,
+     258,
      [
       [
-       280,
+       233,
        "[Page 205]"
       ]
      ]
     ],
     [
-     "L",
-     330,
-     "[Page 206]",
-     true
+     "I",
+     318,
+     [
+      [
+       164,
+       "[Page 206]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360j - General provisions respecting control of devices intended for human use.md",
    "printed_pages": [
-    198,
+    199,
     206
    ]
   },
@@ -3888,10 +3895,14 @@
    "id": "21_360l",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 207]",
-     true
+     "I",
+     12,
+     [
+      [
+       661,
+       "[Page 207]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360l - Postmarket surveillance.md",
@@ -3905,15 +3916,25 @@
    "marks": [
     [
      "L",
-     70,
+     54,
      "[Page 208]",
      true
+    ],
+    [
+     "I",
+     132,
+     [
+      [
+       627,
+       "[Page 209]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part A - Drugs and Devices/§ 00360m - Accredited persons.md",
    "printed_pages": [
     207,
-    208
+    209
    ]
   },
   {
@@ -3921,23 +3942,16 @@
    "marks": [],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part B - Drugs for Rare Diseases or Conditions/README.md",
    "printed_pages": [
-    208,
-    208
+    209,
+    209
    ]
   },
   {
    "id": "21_360aa",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 209]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part B - Drugs for Rare Diseases or Conditions/§ 00360aa - Recommendations for investigations of drugs for rare diseases or conditions.md",
    "printed_pages": [
-    208,
+    209,
     209
    ]
   },
@@ -3946,7 +3960,7 @@
    "marks": [
     [
      "L",
-     14,
+     8,
      "[Page 210]",
      true
     ]
@@ -3962,10 +3976,10 @@
    "marks": [
     [
      "I",
-     20,
+     14,
      [
       [
-       99,
+       144,
        "[Page 211]"
       ]
      ]
@@ -3991,10 +4005,10 @@
    "marks": [
     [
      "I",
-     20,
+     18,
      [
       [
-       962,
+       142,
        "[Page 212]"
       ]
      ]
@@ -4019,10 +4033,14 @@
    "id": "21_360hh",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 213]",
-     true
+     "I",
+     16,
+     [
+      [
+       94,
+       "[Page 213]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360hh - Definitions.md",
@@ -4035,10 +4053,14 @@
    "id": "21_360ii",
    "marks": [
     [
-     "L",
-     48,
-     "[Page 214]",
-     true
+     "I",
+     34,
+     [
+      [
+       182,
+       "[Page 214]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360ii - Program of control.md",
@@ -4049,11 +4071,18 @@
   },
   {
    "id": "21_360jj",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     48,
+     "[Page 215]",
+     true
+    ]
+   ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360jj - Studies by Secretary.md",
    "printed_pages": [
     214,
-    214
+    215
    ]
   },
   {
@@ -4061,29 +4090,25 @@
    "marks": [
     [
      "I",
-     4,
+     38,
      [
       [
-       567,
-       "[Page 215]"
+       94,
+       "[Page 216]"
       ]
      ]
     ],
     [
-     "I",
-     48,
-     [
-      [
-       141,
-       "[Page 216]"
-      ]
-     ]
+     "L",
+     98,
+     "[Page 217]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360kk - Performance standards for electronic products.md",
    "printed_pages": [
-    214,
-    216
+    215,
+    217
    ]
   },
   {
@@ -4091,20 +4116,10 @@
    "marks": [
     [
      "I",
-     6,
+     36,
      [
       [
-       98,
-       "[Page 217]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     42,
-     [
-      [
-       101,
+       141,
        "[Page 218]"
       ]
      ]
@@ -4112,7 +4127,7 @@
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360ll - Notification of defects in and repair or replacement of electronic products.md",
    "printed_pages": [
-    216,
+    217,
     218
    ]
   },
@@ -4120,10 +4135,14 @@
    "id": "21_360mm",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 219]",
-     true
+     "I",
+     16,
+     [
+      [
+       327,
+       "[Page 219]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360mm - Imports.md",
@@ -4137,10 +4156,10 @@
    "marks": [
     [
      "I",
-     24,
+     20,
      [
       [
-       1198,
+       470,
        "[Page 220]"
       ]
      ]
@@ -4154,30 +4173,26 @@
   },
   {
    "id": "21_360oo",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     28,
+     "[Page 221]",
+     true
+    ]
+   ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360oo - Prohibited acts.md",
    "printed_pages": [
     220,
-    220
+    221
    ]
   },
   {
    "id": "21_360pp",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       293,
-       "[Page 221]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360pp - Enforcement.md",
    "printed_pages": [
-    220,
+    221,
     221
    ]
   },
@@ -4194,10 +4209,14 @@
    "id": "21_360rr",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 222]",
-     true
+     "I",
+     2,
+     [
+      [
+       96,
+       "[Page 222]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part C - Electronic Product Radiation Control/§ 00360rr - Federal-State cooperation.md",
@@ -4229,19 +4248,23 @@
    "marks": [
     [
      "I",
-     46,
+     34,
      [
       [
-       136,
+       99,
        "[Page 223]"
       ]
      ]
     ],
     [
-     "L",
-     128,
-     "[Page 224]",
-     true
+     "I",
+     118,
+     [
+      [
+       96,
+       "[Page 224]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part D - Dissemination of Treatment Information/§ 00360aaa - Requirements for dissemination of treatment information on drugs or devices.md",
@@ -4273,15 +4296,19 @@
    "marks": [
     [
      "L",
-     16,
+     6,
      "[Page 225]",
      true
     ],
     [
-     "L",
-     90,
-     "[Page 226]",
-     true
+     "I",
+     78,
+     [
+      [
+       172,
+       "[Page 226]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part D - Dissemination of Treatment Information/§ 00360aaa–3 - Requirement regarding submission of supplemental application for new use; exemption from requirement.md",
@@ -4292,26 +4319,26 @@
   },
   {
    "id": "21_360aaa-4",
-   "marks": [],
-   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part D - Dissemination of Treatment Information/§ 00360aaa–4 - Corrective actions; cessation of dissemination.md",
-   "printed_pages": [
-    226,
-    226
-   ]
-  },
-  {
-   "id": "21_360aaa-5",
    "marks": [
     [
      "L",
-     8,
+     44,
      "[Page 227]",
      true
     ]
    ],
-   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part D - Dissemination of Treatment Information/§ 00360aaa–5 - Definitions.md",
+   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part D - Dissemination of Treatment Information/§ 00360aaa–4 - Corrective actions; cessation of dissemination.md",
    "printed_pages": [
     226,
+    227
+   ]
+  },
+  {
+   "id": "21_360aaa-5",
+   "marks": [],
+   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 005 (V) - Drugs and Devices/Part D - Dissemination of Treatment Information/§ 00360aaa–5 - Definitions.md",
+   "printed_pages": [
+    227,
     227
    ]
   },
@@ -4338,7 +4365,7 @@
    "marks": [
     [
      "L",
-     16,
+     10,
      "[Page 228]",
      true
     ]
@@ -4354,10 +4381,10 @@
    "marks": [
     [
      "I",
-     8,
+     2,
      [
       [
-       106,
+       328,
        "[Page 229]"
       ]
      ]
@@ -4392,7 +4419,7 @@
    "marks": [
     [
      "L",
-     40,
+     24,
      "[Page 230]",
      true
     ]
@@ -4423,11 +4450,18 @@
   },
   {
    "id": "21_364",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 231]",
+     true
+    ]
+   ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 006 (VI) - Cosmetics/§ 00364 - Repealed. Pub. L. 86–618, title I, §103(a)(3), July 12, 1960, 74 Stat. 398.md",
    "printed_pages": [
     230,
-    230
+    231
    ]
   },
   {
@@ -4435,8 +4469,8 @@
    "marks": [],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/README.md",
    "printed_pages": [
-    230,
-    230
+    231,
+    231
    ]
   },
   {
@@ -4444,8 +4478,8 @@
    "marks": [],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/README.md",
    "printed_pages": [
-    230,
-    230
+    231,
+    231
    ]
   },
   {
@@ -4453,34 +4487,28 @@
    "marks": [
     [
      "I",
-     12,
+     32,
      [
       [
-       91,
-       "[Page 231]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     42,
-     [
-      [
-       192,
+       240,
        "[Page 232]"
       ]
      ]
     ],
     [
-     "L",
-     92,
-     "[Page 233]",
-     true
+     "I",
+     80,
+     [
+      [
+       390,
+       "[Page 233]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00371 - Regulations and hearings.md",
    "printed_pages": [
-    230,
+    231,
     233
    ]
   },
@@ -4489,11 +4517,21 @@
    "marks": [
     [
      "I",
-     12,
+     4,
      [
       [
-       91,
+       327,
        "[Page 234]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     72,
+     [
+      [
+       105,
+       "[Page 235]"
       ]
      ]
     ]
@@ -4501,7 +4539,7 @@
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00372 - Examinations and investigations.md",
    "printed_pages": [
     233,
-    234
+    235
    ]
   },
   {
@@ -4509,27 +4547,16 @@
    "marks": [],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00372a - Transferred.md",
    "printed_pages": [
-    234,
-    234
+    235,
+    235
    ]
   },
   {
    "id": "21_373",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       747,
-       "[Page 235]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00373 - Records of interstate shipment.md",
    "printed_pages": [
-    234,
+    235,
     235
    ]
   },
@@ -4538,17 +4565,17 @@
    "marks": [
     [
      "I",
-     14,
+     4,
      [
       [
-       187,
+       2566,
        "[Page 236]"
       ]
      ]
     ],
     [
      "L",
-     68,
+     56,
      "[Page 237]",
      true
     ]
@@ -4573,10 +4600,10 @@
    "marks": [
     [
      "I",
-     14,
+     2,
      [
       [
-       170,
+       1310,
        "[Page 238]"
       ]
      ]
@@ -4602,10 +4629,10 @@
    "marks": [
     [
      "I",
-     38,
+     24,
      [
       [
-       313,
+       143,
        "[Page 239]"
       ]
      ]
@@ -4637,30 +4664,30 @@
   },
   {
    "id": "21_379b",
-   "marks": [],
-   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00379b - Consolidated administrative and laboratory facility.md",
-   "printed_pages": [
-    239,
-    239
-   ]
-  },
-  {
-   "id": "21_379c",
    "marks": [
     [
      "I",
-     4,
+     8,
      [
       [
-       115,
+       94,
        "[Page 240]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00379c - Transferred.md",
+   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00379b - Consolidated administrative and laboratory facility.md",
    "printed_pages": [
     239,
+    240
+   ]
+  },
+  {
+   "id": "21_379c",
+   "marks": [],
+   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part A - General Administrative Provisions/§ 00379c - Transferred.md",
+   "printed_pages": [
+    240,
     240
    ]
   },
@@ -4687,49 +4714,49 @@
    "marks": [
     [
      "I",
-     26,
+     20,
      [
       [
-       95,
+       89,
        "[Page 241]"
       ]
      ]
     ],
     [
      "I",
-     48,
+     38,
      [
       [
-       548,
+       741,
        "[Page 242]"
       ]
      ]
     ],
     [
-     "L",
-     76,
-     "[Page 243]",
-     true
+     "I",
+     68,
+     [
+      [
+       378,
+       "[Page 243]"
+      ]
+     ]
     ],
     [
      "I",
-     136,
+     134,
      [
       [
-       1369,
+       255,
        "[Page 244]"
       ]
      ]
     ],
     [
-     "I",
-     172,
-     [
-      [
-       668,
-       "[Page 245]"
-      ]
-     ]
+     "L",
+     170,
+     "[Page 245]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part B - Colors/§ 00379e - Listing and certification of color additives for foods, drugs, devices, and cosmetics.md",
@@ -4778,32 +4805,42 @@
    "id": "21_379g",
    "marks": [
     [
+     "L",
+     4,
+     "[Page 246]",
+     true
+    ],
+    [
      "I",
-     18,
+     60,
      [
       [
-       647,
-       "[Page 246]"
+       182,
+       "[Page 247]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     122,
+     [
+      [
+       218,
+       "[Page 248]"
       ]
      ]
     ],
     [
      "L",
-     76,
-     "[Page 247]",
-     true
-    ],
-    [
-     "L",
-     138,
-     "[Page 248]",
+     194,
+     "[Page 249]",
      true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part C - Fees/Subpart 002 - Fees Relating to Drugs/§ 00379g - Definitions.md",
    "printed_pages": [
     245,
-    248
+    249
    ]
   },
   {
@@ -4811,46 +4848,36 @@
    "marks": [
     [
      "I",
-     14,
+     58,
      [
       [
-       265,
-       "[Page 249]"
+       101,
+       "[Page 250]"
       ]
      ]
     ],
     [
      "L",
-     74,
-     "[Page 250]",
+     130,
+     "[Page 251]",
      true
     ],
     [
      "I",
-     148,
+     200,
      [
       [
-       100,
-       "[Page 251]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     214,
-     [
-      [
-       102,
+       227,
        "[Page 252]"
       ]
      ]
     ],
     [
      "I",
-     276,
+     270,
      [
       [
-       482,
+       223,
        "[Page 253]"
       ]
      ]
@@ -4858,7 +4885,7 @@
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part C - Fees/Subpart 002 - Fees Relating to Drugs/§ 00379h - Authority to assess and use drug fees.md",
    "printed_pages": [
-    248,
+    249,
     253
    ]
   },
@@ -4873,26 +4900,26 @@
   },
   {
    "id": "21_379k",
-   "marks": [],
-   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part D - Information and Education/§ 00379k - Information system.md",
-   "printed_pages": [
-    253,
-    253
-   ]
-  },
-  {
-   "id": "21_379l",
    "marks": [
     [
      "L",
-     24,
+     14,
      "[Page 254]",
      true
     ]
    ],
-   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part D - Information and Education/§ 00379l - Education.md",
+   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part D - Information and Education/§ 00379k - Information system.md",
    "printed_pages": [
     253,
+    254
+   ]
+  },
+  {
+   "id": "21_379l",
+   "marks": [],
+   "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part D - Information and Education/§ 00379l - Education.md",
+   "printed_pages": [
+    254,
     254
    ]
   },
@@ -4928,7 +4955,7 @@
    "marks": [
     [
      "L",
-     68,
+     48,
      "[Page 255]",
      true
     ]
@@ -4959,11 +4986,22 @@
   },
   {
    "id": "21_379v",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       606,
+       "[Page 256]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 007 (VII) - General Authority/Part G - Safety Reports/§ 00379v - Safety report disclaimers.md",
    "printed_pages": [
     255,
-    255
+    256
    ]
   },
   {
@@ -4971,8 +5009,8 @@
    "marks": [],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 008 (VIII) - Imports and Exports/README.md",
    "printed_pages": [
-    255,
-    255
+    256,
+    256
    ]
   },
   {
@@ -4980,17 +5018,7 @@
    "marks": [
     [
      "I",
-     4,
-     [
-      [
-       372,
-       "[Page 256]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     26,
+     20,
      [
       [
        94,
@@ -5000,70 +5028,69 @@
     ],
     [
      "I",
-     86,
+     70,
      [
       [
-       107,
+       268,
        "[Page 258]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     136,
+     [
+      [
+       315,
+       "[Page 259]"
       ]
      ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 008 (VIII) - Imports and Exports/§ 00381 - Imports and exports.md",
    "printed_pages": [
-    255,
-    258
+    256,
+    259
    ]
   },
   {
    "id": "21_382",
    "marks": [
     [
-     "I",
-     10,
-     [
-      [
-       188,
-       "[Page 259]"
-      ]
-     ]
+     "L",
+     52,
+     "[Page 260]",
+     true
     ],
     [
      "I",
-     62,
+     110,
      [
       [
-       138,
-       "[Page 260]"
+       186,
+       "[Page 261]"
       ]
      ]
     ],
     [
      "L",
-     124,
-     "[Page 261]",
+     170,
+     "[Page 262]",
      true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 008 (VIII) - Imports and Exports/§ 00382 - Exports of certain unapproved products.md",
    "printed_pages": [
-    258,
-    261
+    259,
+    262
    ]
   },
   {
    "id": "21_383",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 262]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 008 (VIII) - Imports and Exports/§ 00383 - Office of International Relations.md",
    "printed_pages": [
-    261,
+    262,
     262
    ]
   },
@@ -5089,10 +5116,14 @@
    "id": "21_392",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 263]",
-     true
+     "I",
+     18,
+     [
+      [
+       460,
+       "[Page 263]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 009 (IX) - Miscellaneous/§ 00392 - Exemption of meats and meat food products.md",
@@ -5105,20 +5136,20 @@
    "id": "21_393",
    "marks": [
     [
-     "L",
-     70,
-     "[Page 264]",
-     true
-    ],
-    [
      "I",
-     164,
+     54,
      [
       [
-       111,
-       "[Page 265]"
+       373,
+       "[Page 264]"
       ]
      ]
+    ],
+    [
+     "L",
+     144,
+     "[Page 265]",
+     true
     ]
    ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 009 (IX) - Miscellaneous/§ 00393 - Food and Drug Administration.md",
@@ -5138,11 +5169,22 @@
   },
   {
    "id": "21_395",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     28,
+     [
+      [
+       296,
+       "[Page 266]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 009 (IX) - Miscellaneous/§ 00395 - Loan repayment program.md",
    "printed_pages": [
     265,
-    265
+    266
    ]
   },
   {
@@ -5150,27 +5192,16 @@
    "marks": [],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 009 (IX) - Miscellaneous/§ 00396 - Practice of medicine.md",
    "printed_pages": [
-    265,
-    265
+    266,
+    266
    ]
   },
   {
    "id": "21_397",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       222,
-       "[Page 266]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Federal Food, Drug, and Cosmetic Act/Subchapter 009 (IX) - Miscellaneous/§ 00397 - Contracts for expert review.md",
    "printed_pages": [
-    265,
+    266,
     266
    ]
   },
@@ -5179,10 +5210,10 @@
    "marks": [
     [
      "I",
-     35,
+     20,
      [
       [
-       80,
+       102,
        "[Page 267]"
       ]
      ]
@@ -5199,10 +5230,10 @@
    "marks": [
     [
      "I",
-     8,
+     2,
      [
       [
-       1073,
+       414,
        "[Page 268]"
       ]
      ]
@@ -5216,11 +5247,22 @@
   },
   {
    "id": "21_452",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       143,
+       "[Page 269]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00452 - Congressional declaration of policy.md",
    "printed_pages": [
     268,
-    268
+    269
    ]
   },
   {
@@ -5228,26 +5270,16 @@
    "marks": [
     [
      "L",
-     4,
-     "[Page 269]",
+     40,
+     "[Page 270]",
      true
     ],
     [
      "I",
-     54,
+     82,
      [
       [
-       379,
-       "[Page 270]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     100,
-     [
-      [
-       92,
+       136,
        "[Page 271]"
       ]
      ]
@@ -5255,7 +5287,7 @@
    ],
    "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00453 - Definitions.md",
    "printed_pages": [
-    268,
+    269,
     271
    ]
   },
@@ -5263,17 +5295,21 @@
    "id": "21_454",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 272]",
-     true
+     "I",
+     8,
+     [
+      [
+       403,
+       "[Page 272]"
+      ]
+     ]
     ],
     [
      "I",
-     26,
+     22,
      [
       [
-       517,
+       889,
        "[Page 273]"
       ]
      ]
@@ -5289,10 +5325,14 @@
    "id": "21_455",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 274]",
-     true
+     "I",
+     12,
+     [
+      [
+       416,
+       "[Page 274]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00455 - Inspection in official establishments.md",
@@ -5314,10 +5354,14 @@
    "id": "21_457",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 275]",
-     true
+     "I",
+     12,
+     [
+      [
+       95,
+       "[Page 275]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00457 - Labeling and container standards.md",
@@ -5330,14 +5374,10 @@
    "id": "21_458",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       517,
-       "[Page 276]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 276]",
+     true
     ]
    ],
    "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00458 - Prohibited acts.md",
@@ -5359,14 +5399,10 @@
    "id": "21_460",
    "marks": [
     [
-     "I",
-     22,
-     [
-      [
-       574,
-       "[Page 277]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 277]",
+     true
     ]
    ],
    "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00460 - Miscellaneous activities subject to regulation.md",
@@ -5380,7 +5416,7 @@
    "marks": [
     [
      "L",
-     24,
+     10,
      "[Page 278]",
      true
     ]
@@ -5414,20 +5450,20 @@
    "marks": [
     [
      "I",
-     22,
+     10,
      [
       [
-       314,
+       272,
        "[Page 279]"
       ]
      ]
     ],
     [
      "I",
-     66,
+     46,
      [
       [
-       214,
+       135,
        "[Page 280]"
       ]
      ]
@@ -5453,11 +5489,21 @@
    "marks": [
     [
      "I",
-     12,
+     4,
      [
       [
-       231,
+       92,
        "[Page 281]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     62,
+     [
+      [
+       112,
+       "[Page 282]"
       ]
      ]
     ]
@@ -5465,36 +5511,36 @@
    "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00466 - Imports.md",
    "printed_pages": [
     280,
-    281
+    282
    ]
   },
   {
    "id": "21_467",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       610,
-       "[Page 282]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00467 - Inspection services.md",
    "printed_pages": [
-    281,
+    282,
     282
    ]
   },
   {
    "id": "21_467a",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       519,
+       "[Page 283]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00467a - Administrative detention; duration; pending judicial proceedings; notification of government authorities; release; removal of official….md",
    "printed_pages": [
     282,
-    282
+    283
    ]
   },
   {
@@ -5502,34 +5548,27 @@
    "marks": [
     [
      "I",
-     4,
+     40,
      [
       [
-       329,
-       "[Page 283]"
+       168,
+       "[Page 284]"
       ]
      ]
     ]
    ],
    "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00467b - Seizure and condemnation.md",
    "printed_pages": [
-    282,
-    283
+    283,
+    284
    ]
   },
   {
    "id": "21_467c",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 284]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00467c - Federal court jurisdiction of enforcement and injunction proceedings and other kinds of cases; limitations; United States as plaintiff….md",
    "printed_pages": [
-    283,
+    284,
     284
    ]
   },
@@ -5553,30 +5592,30 @@
   },
   {
    "id": "21_467f",
-   "marks": [],
-   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00467f - Federal Food, Drug, and Cosmetic Act applications.md",
-   "printed_pages": [
-    284,
-    284
-   ]
-  },
-  {
-   "id": "21_468",
    "marks": [
     [
      "I",
-     2,
+     4,
      [
       [
-       236,
+       286,
        "[Page 285]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00468 - Cost of inspection; overtime.md",
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00467f - Federal Food, Drug, and Cosmetic Act applications.md",
    "printed_pages": [
     284,
+    285
+   ]
+  },
+  {
+   "id": "21_468",
+   "marks": [],
+   "path": "Chapter 010 - Poultry and Poultry Products Inspection/§ 00468 - Cost of inspection; overtime.md",
+   "printed_pages": [
+    285,
     285
    ]
   },
@@ -5618,11 +5657,18 @@
   },
   {
    "id": "21_501_to_517",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 286]",
+     true
+    ]
+   ],
    "path": "Chapter 011 - Manufacture of Narcotic Drugs/§ 00501 to 517 - Repealed. Pub. L. 91–513, title III, §1101(a)(10), Oct. 27, 1970, 84 Stat. 1292.md",
    "printed_pages": [
     285,
-    285
+    286
    ]
   },
   {
@@ -5630,20 +5676,10 @@
    "marks": [
     [
      "I",
-     15,
+     65,
      [
       [
-       120,
-       "[Page 286]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     94,
-     [
-      [
-       149,
+       154,
        "[Page 287]"
       ]
      ]
@@ -5651,7 +5687,7 @@
    ],
    "path": "Chapter 012 - Meat Inspection/README.md",
    "printed_pages": [
-    285,
+    286,
     287
    ]
   },
@@ -5668,28 +5704,24 @@
    "id": "21_601",
    "marks": [
     [
-     "I",
-     30,
-     [
-      [
-       189,
-       "[Page 288]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 288]",
+     true
     ],
     [
      "I",
-     74,
+     68,
      [
       [
-       281,
+       97,
        "[Page 289]"
       ]
      ]
     ],
     [
      "L",
-     140,
+     120,
      "[Page 290]",
      true
     ]
@@ -5713,10 +5745,14 @@
    "id": "21_603",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 291]",
-     true
+     "I",
+     10,
+     [
+      [
+       97,
+       "[Page 291]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00603 - Inspection of meat and meat food products.md",
@@ -5739,10 +5775,10 @@
    "marks": [
     [
      "I",
-     16,
+     2,
      [
       [
-       162,
+       93,
        "[Page 292]"
       ]
      ]
@@ -5759,7 +5795,7 @@
    "marks": [
     [
      "L",
-     46,
+     26,
      "[Page 293]",
      true
     ]
@@ -5775,34 +5811,33 @@
    "marks": [
     [
      "I",
-     20,
+     12,
      [
       [
-       94,
+       275,
        "[Page 294]"
       ]
      ]
+    ],
+    [
+     "L",
+     62,
+     "[Page 295]",
+     true
     ]
    ],
    "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00607 - Labeling, marking, and container requirements.md",
    "printed_pages": [
     293,
-    294
+    295
    ]
   },
   {
    "id": "21_608",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 295]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00608 - Sanitary inspection and regulation of slaughtering and packing establishments; rejection of adulterated meat or meat food products.md",
    "printed_pages": [
-    294,
+    295,
     295
    ]
   },
@@ -5820,10 +5855,10 @@
    "marks": [
     [
      "I",
-     40,
+     14,
      [
       [
-       107,
+       366,
        "[Page 296]"
       ]
      ]
@@ -5846,30 +5881,26 @@
   },
   {
    "id": "21_612",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 297]",
+     true
+    ]
+   ],
    "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00612 - Inspection of animals for export.md",
    "printed_pages": [
     296,
-    296
+    297
    ]
   },
   {
    "id": "21_613",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       108,
-       "[Page 297]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00613 - Inspectors of animals for export; certificates of condition.md",
    "printed_pages": [
-    296,
+    297,
     297
    ]
   },
@@ -5893,26 +5924,30 @@
   },
   {
    "id": "21_616",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       100,
+       "[Page 298]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00616 - Inspectors of carcasses, etc., meat of which is intended for export; certificates of condition.md",
    "printed_pages": [
     297,
-    297
+    298
    ]
   },
   {
    "id": "21_617",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 298]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00617 - Clearance prohibited to vessel carrying meat for export without inspector's certificate.md",
    "printed_pages": [
-    297,
+    298,
     298
    ]
   },
@@ -5927,11 +5962,22 @@
   },
   {
    "id": "21_619",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       211,
+       "[Page 299]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00619 - Marking, labeling, or other identification of kinds of animals of articles’ derivation; separate establishments for preparation and….md",
    "printed_pages": [
     298,
-    298
+    299
    ]
   },
   {
@@ -5939,34 +5985,28 @@
    "marks": [
     [
      "I",
-     4,
+     38,
      [
       [
-       1107,
-       "[Page 299]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     44,
-     [
-      [
-       1375,
+       97,
        "[Page 300]"
       ]
      ]
     ],
     [
-     "L",
-     98,
-     "[Page 301]",
-     true
+     "I",
+     76,
+     [
+      [
+       229,
+       "[Page 301]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00620 - Imports.md",
    "printed_pages": [
-    298,
+    299,
     301
    ]
   },
@@ -5974,10 +6014,14 @@
    "id": "21_621",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 302]",
-     true
+     "I",
+     2,
+     [
+      [
+       853,
+       "[Page 302]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00621 - Inspectors to make examinations provided for; appointment; duties; regulations.md",
@@ -6000,10 +6044,10 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       88,
+       653,
        "[Page 303]"
       ]
      ]
@@ -6017,11 +6061,22 @@
   },
   {
    "id": "21_624",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       136,
+       "[Page 304]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 012 - Meat Inspection/Subchapter 001 (I) - Inspection Requirements; Adulteration and Misbranding/§ 00624 - Storage and handling regulations; violations; exemption of establishments subject to non-Federal jurisdiction.md",
    "printed_pages": [
     303,
-    303
+    304
    ]
   },
   {
@@ -6029,27 +6084,16 @@
    "marks": [],
    "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Meat Processors and Related Industries/README.md",
    "printed_pages": [
-    303,
-    303
+    304,
+    304
    ]
   },
   {
    "id": "21_641",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       371,
-       "[Page 304]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Meat Processors and Related Industries/§ 00641 - Prohibition of subchapter I inspection of articles not intended for use as human food; denaturation or other identification prior to….md",
    "printed_pages": [
-    303,
+    304,
     304
    ]
   },
@@ -6064,11 +6108,22 @@
   },
   {
    "id": "21_643",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       660,
+       "[Page 305]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Meat Processors and Related Industries/§ 00643 - Registration of business, name of person, and trade names.md",
    "printed_pages": [
     304,
-    304
+    305
    ]
   },
   {
@@ -6076,27 +6131,16 @@
    "marks": [],
    "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Meat Processors and Related Industries/§ 00644 - Regulation of transactions, transportation, or importation of 4–D animals to prevent use as human food.md",
    "printed_pages": [
-    304,
-    304
+    305,
+    305
    ]
   },
   {
    "id": "21_645",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       330,
-       "[Page 305]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Meat Inspection/Subchapter 002 (II) - Meat Processors and Related Industries/§ 00645 - Federal provisions applicable to State or Territorial business transactions of a local nature and not subject to local authority.md",
    "printed_pages": [
-    304,
+    305,
     305
    ]
   },
@@ -6114,20 +6158,20 @@
    "marks": [
     [
      "I",
-     30,
+     16,
      [
       [
-       146,
+       674,
        "[Page 306]"
       ]
      ]
     ],
     [
      "I",
-     42,
+     34,
      [
       [
-       560,
+       1085,
        "[Page 307]"
       ]
      ]
@@ -6152,10 +6196,14 @@
    "id": "21_671",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 308]",
-     true
+     "I",
+     6,
+     [
+      [
+       140,
+       "[Page 308]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 012 - Meat Inspection/Subchapter 004 (IV) - Auxiliary Provisions/§ 00671 - Inspection services; refusal or withdrawal; hearing; business unfitness based upon certain convictions; other provisions for withdrawal of….md",
@@ -6177,10 +6225,14 @@
    "id": "21_673",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 309]",
-     true
+     "I",
+     6,
+     [
+      [
+       377,
+       "[Page 309]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 012 - Meat Inspection/Subchapter 004 (IV) - Auxiliary Provisions/§ 00673 - Seizure and condemnation.md",
@@ -6200,26 +6252,26 @@
   },
   {
    "id": "21_675",
-   "marks": [],
-   "path": "Chapter 012 - Meat Inspection/Subchapter 004 (IV) - Auxiliary Provisions/§ 00675 - Assaulting, resisting, or impeding certain persons; murder; protection of such persons.md",
-   "printed_pages": [
-    309,
-    309
-   ]
-  },
-  {
-   "id": "21_676",
    "marks": [
     [
      "L",
-     18,
+     10,
      "[Page 310]",
      true
     ]
    ],
-   "path": "Chapter 012 - Meat Inspection/Subchapter 004 (IV) - Auxiliary Provisions/§ 00676 - Violations.md",
+   "path": "Chapter 012 - Meat Inspection/Subchapter 004 (IV) - Auxiliary Provisions/§ 00675 - Assaulting, resisting, or impeding certain persons; murder; protection of such persons.md",
    "printed_pages": [
     309,
+    310
+   ]
+  },
+  {
+   "id": "21_676",
+   "marks": [],
+   "path": "Chapter 012 - Meat Inspection/Subchapter 004 (IV) - Auxiliary Provisions/§ 00676 - Violations.md",
+   "printed_pages": [
+    310,
     310
    ]
   },
@@ -6234,26 +6286,30 @@
   },
   {
    "id": "21_678",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       938,
+       "[Page 311]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 012 - Meat Inspection/Subchapter 004 (IV) - Auxiliary Provisions/§ 00678 - Non-Federal jurisdiction of federally regulated matters; prohibition of additional or different requirements for establishments with….md",
    "printed_pages": [
     310,
-    310
+    311
    ]
   },
   {
    "id": "21_679",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 311]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Meat Inspection/Subchapter 004 (IV) - Auxiliary Provisions/§ 00679 - Application of Federal Food, Drug, and Cosmetic Act.md",
    "printed_pages": [
-    310,
+    311,
     311
    ]
   },
@@ -6262,10 +6318,10 @@
    "marks": [
     [
      "I",
-     80,
+     46,
      [
       [
-       88,
+       91,
        "[Page 312]"
       ]
      ]
@@ -6306,11 +6362,18 @@
   },
   {
    "id": "21_692",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 313]",
+     true
+    ]
+   ],
    "path": "Chapter 012 - Meat Inspection/Subchapter 005 (V) - Miscellaneous Provisions/§ 00692 - Inspection extended to reindeer.md",
    "printed_pages": [
     312,
-    312
+    313
    ]
   },
   {
@@ -6318,27 +6381,16 @@
    "marks": [],
    "path": "Chapter 012 - Meat Inspection/Subchapter 005 (V) - Miscellaneous Provisions/§ 00693 - Inspection of dairy products for export.md",
    "printed_pages": [
-    312,
-    312
+    313,
+    313
    ]
   },
   {
    "id": "21_694",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       91,
-       "[Page 313]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Meat Inspection/Subchapter 005 (V) - Miscellaneous Provisions/§ 00694 - Authorization of appropriations.md",
    "printed_pages": [
-    312,
+    313,
     313
    ]
   },
@@ -6356,31 +6408,41 @@
    "marks": [
     [
      "I",
-     66,
+     25,
      [
       [
-       49,
+       24,
        "[Page 314]"
       ]
      ]
     ],
     [
      "I",
-     192,
+     147,
      [
       [
-       44,
+       27,
        "[Page 315]"
       ]
      ]
     ],
     [
      "I",
-     313,
+     269,
      [
       [
-       37,
+       35,
        "[Page 316]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     388,
+     [
+      [
+       17,
+       "[Page 317]"
       ]
      ]
     ]
@@ -6388,7 +6450,7 @@
    "path": "Chapter 013 - Drug Abuse Prevention and Control/README.md",
    "printed_pages": [
     313,
-    316
+    317
    ]
   },
   {
@@ -6396,8 +6458,8 @@
    "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/README.md",
    "printed_pages": [
-    316,
-    316
+    317,
+    317
    ]
   },
   {
@@ -6405,75 +6467,69 @@
    "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part A - Introductory Provisions/README.md",
    "printed_pages": [
-    316,
-    316
+    317,
+    317
    ]
   },
   {
    "id": "21_801",
    "marks": [
     [
+     "L",
+     44,
+     "[Page 318]",
+     true
+    ],
+    [
      "I",
-     4,
+     102,
      [
       [
-       132,
-       "[Page 317]"
+       116,
+       "[Page 319]"
       ]
      ]
     ],
     [
      "I",
-     68,
+     194,
      [
       [
-       115,
-       "[Page 318]"
+       261,
+       "[Page 320]"
       ]
      ]
     ],
     [
-     "L",
-     118,
-     "[Page 319]",
-     true
-    ],
-    [
-     "L",
-     238,
-     "[Page 320]",
-     true
-    ],
-    [
      "I",
-     318,
+     288,
      [
       [
-       156,
+       219,
        "[Page 321]"
       ]
      ]
     ],
     [
-     "L",
-     400,
-     "[Page 322]",
-     true
-    ],
-    [
      "I",
-     486,
+     364,
      [
       [
-       153,
-       "[Page 323]"
+       259,
+       "[Page 322]"
       ]
      ]
+    ],
+    [
+     "L",
+     448,
+     "[Page 323]",
+     true
     ]
    ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part A - Introductory Provisions/§ 00801 - Congressional findings and declarations controlled substances.md",
    "printed_pages": [
-    316,
+    317,
     323
    ]
   },
@@ -6482,10 +6538,10 @@
    "marks": [
     [
      "I",
-     24,
+     6,
      [
       [
-       97,
+       537,
        "[Page 324]"
       ]
      ]
@@ -6502,63 +6558,81 @@
    "marks": [
     [
      "I",
-     48,
+     30,
      [
       [
-       90,
+       232,
        "[Page 325]"
       ]
      ]
     ],
     [
+     "L",
+     86,
+     "[Page 326]",
+     true
+    ],
+    [
      "I",
-     110,
+     196,
      [
       [
-       270,
-       "[Page 326]"
+       91,
+       "[Page 327]"
       ]
      ]
     ],
     [
      "L",
-     214,
-     "[Page 327]",
-     true
-    ],
-    [
-     "L",
-     308,
+     272,
      "[Page 328]",
      true
     ],
     [
-     "L",
-     372,
-     "[Page 329]",
-     true
+     "I",
+     338,
+     [
+      [
+       108,
+       "[Page 329]"
+      ]
+     ]
     ],
     [
      "I",
-     466,
+     430,
      [
       [
-       169,
+       162,
        "[Page 330]"
       ]
      ]
     ],
     [
-     "L",
-     546,
-     "[Page 331]",
-     true
+     "I",
+     510,
+     [
+      [
+       506,
+       "[Page 331]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     600,
+     [
+      [
+       265,
+       "[Page 332]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part A - Introductory Provisions/§ 00802 - Definitions.md",
    "printed_pages": [
     324,
-    331
+    332
    ]
   },
   {
@@ -6566,8 +6640,8 @@
    "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part A - Introductory Provisions/§ 00803 - Repealed. Pub. L. 95–137, §1(b), Oct. 18, 1977, 91 Stat. 1169.md",
    "printed_pages": [
-    331,
-    331
+    332,
+    332
    ]
   },
   {
@@ -6575,8 +6649,8 @@
    "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part B - Authority to Control; Standards and Schedules/README.md",
    "printed_pages": [
-    331,
-    331
+    332,
+    332
    ]
   },
   {
@@ -6584,40 +6658,30 @@
    "marks": [
     [
      "I",
-     14,
+     42,
      [
       [
-       282,
-       "[Page 332]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     48,
-     [
-      [
-       757,
+       377,
        "[Page 333]"
       ]
      ]
     ],
     [
      "I",
-     72,
+     64,
      [
       [
-       94,
+       649,
        "[Page 334]"
       ]
      ]
     ],
     [
      "I",
-     112,
+     94,
      [
       [
-       93,
+       136,
        "[Page 335]"
       ]
      ]
@@ -6625,7 +6689,7 @@
    ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part B - Authority to Control; Standards and Schedules/§ 00811 - Authority and criteria for classification of substances.md",
    "printed_pages": [
-    331,
+    332,
     335
    ]
   },
@@ -6634,39 +6698,41 @@
    "marks": [
     [
      "I",
-     62,
+     8,
      [
       [
-       108,
+       138,
        "[Page 336]"
       ]
      ]
     ],
     [
+     "L",
+     184,
+     "[Page 337]",
+     true
+    ],
+    [
      "I",
-     244,
+     328,
      [
       [
-       339,
-       "[Page 337]"
+       137,
+       "[Page 338]"
       ]
      ]
     ],
     [
-     "I",
-     374,
-     [
-      [
-       228,
-       "[Page 338]"
-      ]
-     ]
+     "L",
+     416,
+     "[Page 339]",
+     true
     ]
    ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part B - Authority to Control; Standards and Schedules/§ 00812 - Schedules of controlled substances.md",
    "printed_pages": [
     335,
-    338
+    339
    ]
   },
   {
@@ -6674,24 +6740,28 @@
    "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part B - Authority to Control; Standards and Schedules/§ 00813 - Treatment of controlled substance analogues.md",
    "printed_pages": [
-    338,
-    338
+    339,
+    339
    ]
   },
   {
    "id": "21_814",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 339]",
-     true
+     "I",
+     60,
+     [
+      [
+       99,
+       "[Page 340]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part B - Authority to Control; Standards and Schedules/§ 00814 - Removal of exemption of certain drugs.md",
    "printed_pages": [
-    338,
-    339
+    339,
+    340
    ]
   },
   {
@@ -6699,8 +6769,8 @@
    "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/README.md",
    "printed_pages": [
-    339,
-    339
+    340,
+    340
    ]
   },
   {
@@ -6708,33 +6778,23 @@
    "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/§ 00821 - Rules and regulations.md",
    "printed_pages": [
-    339,
-    339
+    340,
+    340
    ]
   },
   {
    "id": "21_822",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       141,
-       "[Page 340]"
-      ]
-     ]
-    ],
-    [
      "L",
-     86,
+     42,
      "[Page 341]",
      true
     ]
    ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/§ 00822 - Persons required to register.md",
    "printed_pages": [
-    339,
+    340,
     341
    ]
   },
@@ -6743,19 +6803,23 @@
    "marks": [
     [
      "I",
-     68,
+     38,
      [
       [
-       280,
+       237,
        "[Page 342]"
       ]
      ]
     ],
     [
-     "L",
-     130,
-     "[Page 343]",
-     true
+     "I",
+     94,
+     [
+      [
+       91,
+       "[Page 343]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/§ 00823 - Registration requirements.md",
@@ -6769,65 +6833,65 @@
    "marks": [
     [
      "I",
-     40,
+     28,
      [
       [
-       234,
+       89,
        "[Page 344]"
       ]
      ]
+    ],
+    [
+     "L",
+     92,
+     "[Page 345]",
+     true
     ]
    ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/§ 00824 - Denial, revocation, or suspension of registration.md",
    "printed_pages": [
     343,
-    344
-   ]
-  },
-  {
-   "id": "21_825",
-   "marks": [
-    [
-     "I",
-     26,
-     [
-      [
-       107,
-       "[Page 345]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/§ 00825 - Labeling and packaging.md",
-   "printed_pages": [
-    344,
     345
    ]
   },
   {
-   "id": "21_826",
+   "id": "21_825",
    "marks": [],
-   "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/§ 00826 - Production quotas for controlled substances.md",
+   "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/§ 00825 - Labeling and packaging.md",
    "printed_pages": [
     345,
     345
    ]
   },
   {
+   "id": "21_826",
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       278,
+       "[Page 346]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/§ 00826 - Production quotas for controlled substances.md",
+   "printed_pages": [
+    345,
+    346
+   ]
+  },
+  {
    "id": "21_827",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 346]",
-     true
-    ],
-    [
      "I",
-     48,
+     30,
      [
       [
-       99,
+       91,
        "[Page 347]"
       ]
      ]
@@ -6835,7 +6899,7 @@
    ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/§ 00827 - Records and reports of registrants.md",
    "printed_pages": [
-    345,
+    346,
     347
    ]
   },
@@ -6843,10 +6907,14 @@
    "id": "21_828",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 348]",
-     true
+     "I",
+     16,
+     [
+      [
+       95,
+       "[Page 348]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part C - Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances/§ 00828 - Order forms.md",
@@ -6868,21 +6936,17 @@
    "id": "21_830",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       133,
-       "[Page 349]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 349]",
+     true
     ],
     [
      "I",
-     108,
+     72,
      [
       [
-       106,
+       110,
        "[Page 350]"
       ]
      ]
@@ -6908,47 +6972,53 @@
    "marks": [
     [
      "I",
-     40,
+     34,
      [
       [
-       1771,
+       142,
        "[Page 351]"
       ]
      ]
     ],
     [
      "I",
-     72,
+     70,
      [
       [
-       717,
+       189,
        "[Page 352]"
       ]
      ]
     ],
     [
-     "I",
-     126,
-     [
-      [
-       98,
-       "[Page 353]"
-      ]
-     ]
+     "L",
+     94,
+     "[Page 353]",
+     true
     ],
     [
      "L",
-     178,
+     156,
      "[Page 354]",
      true
     ],
     [
      "I",
-     242,
+     230,
      [
       [
-       219,
+       109,
        "[Page 355]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     284,
+     [
+      [
+       649,
+       "[Page 356]"
       ]
      ]
     ]
@@ -6956,24 +7026,18 @@
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00841 - Prohibited acts A.md",
    "printed_pages": [
     350,
-    355
+    356
    ]
   },
   {
    "id": "21_842",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 356]",
-     true
-    ],
-    [
      "I",
-     52,
+     40,
      [
       [
-       263,
+       336,
        "[Page 357]"
       ]
      ]
@@ -6981,7 +7045,7 @@
    ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00842 - Prohibited acts B.md",
    "printed_pages": [
-    355,
+    356,
     357
    ]
   },
@@ -6990,19 +7054,23 @@
    "marks": [
     [
      "I",
-     26,
+     14,
      [
       [
-       608,
+       89,
        "[Page 358]"
       ]
      ]
     ],
     [
-     "L",
-     88,
-     "[Page 359]",
-     true
+     "I",
+     58,
+     [
+      [
+       228,
+       "[Page 359]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00843 - Prohibited acts C.md",
@@ -7016,10 +7084,10 @@
    "marks": [
     [
      "I",
-     18,
+     4,
      [
       [
-       166,
+       2658,
        "[Page 360]"
       ]
      ]
@@ -7035,10 +7103,14 @@
    "id": "21_844a",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 361]",
-     true
+     "I",
+     20,
+     [
+      [
+       91,
+       "[Page 361]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00844a - Civil penalty for possession of small amounts of certain controlled substances.md",
@@ -7058,11 +7130,22 @@
   },
   {
    "id": "21_846",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       109,
+       "[Page 362]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00846 - Attempt and conspiracy.md",
    "printed_pages": [
     361,
-    361
+    362
    ]
   },
   {
@@ -7070,69 +7153,59 @@
    "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00847 - Additional penalties.md",
    "printed_pages": [
-    361,
-    361
+    362,
+    362
    ]
   },
   {
    "id": "21_848",
    "marks": [
     [
-     "I",
-     10,
-     [
-      [
-       95,
-       "[Page 362]"
-      ]
-     ]
+     "L",
+     50,
+     "[Page 363]",
+     true
     ],
     [
      "I",
-     74,
+     82,
      [
       [
-       92,
-       "[Page 363]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     100,
-     [
-      [
-       187,
+       2114,
        "[Page 364]"
       ]
      ]
     ],
     [
      "L",
-     166,
+     156,
      "[Page 365]",
      true
     ],
     [
      "I",
-     206,
+     200,
      [
       [
-       568,
+       138,
        "[Page 366]"
       ]
      ]
     ],
     [
-     "L",
-     258,
-     "[Page 367]",
-     true
+     "I",
+     234,
+     [
+      [
+       103,
+       "[Page 367]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00848 - Continuing criminal enterprise.md",
    "printed_pages": [
-    361,
+    362,
     367
    ]
   },
@@ -7147,26 +7220,30 @@
   },
   {
    "id": "21_850",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       231,
+       "[Page 368]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00850 - Information for sentencing.md",
    "printed_pages": [
     367,
-    367
+    368
    ]
   },
   {
    "id": "21_851",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 368]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00851 - Proceedings to establish prior convictions.md",
    "printed_pages": [
-    367,
+    368,
     368
    ]
   },
@@ -7184,35 +7261,45 @@
    "marks": [
     [
      "I",
-     24,
+     4,
      [
       [
-       282,
+       91,
        "[Page 369]"
       ]
      ]
     ],
     [
      "I",
-     62,
+     54,
      [
       [
-       811,
+       277,
        "[Page 370]"
       ]
      ]
     ],
     [
      "L",
-     116,
+     104,
      "[Page 371]",
      true
+    ],
+    [
+     "I",
+     176,
+     [
+      [
+       110,
+       "[Page 372]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00853 - Criminal forfeitures.md",
    "printed_pages": [
     368,
-    371
+    372
    ]
   },
   {
@@ -7220,27 +7307,16 @@
    "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00853a - Transferred.md",
    "printed_pages": [
-    371,
-    371
+    372,
+    372
    ]
   },
   {
    "id": "21_854",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       986,
-       "[Page 372]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00854 - Investment of illicit drug profits.md",
    "printed_pages": [
-    371,
+    372,
     372
    ]
   },
@@ -7273,30 +7349,26 @@
   },
   {
    "id": "21_858",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 373]",
+     true
+    ]
+   ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00858 - Endangering human life while illegally manufacturing controlled substance.md",
    "printed_pages": [
     372,
-    372
+    373
    ]
   },
   {
    "id": "21_859",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       103,
-       "[Page 373]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00859 - Distribution to persons under age twenty-one.md",
    "printed_pages": [
-    372,
+    373,
     373
    ]
   },
@@ -7304,17 +7376,21 @@
    "id": "21_860",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 374]",
-     true
+     "I",
+     4,
+     [
+      [
+       920,
+       "[Page 374]"
+      ]
+     ]
     ],
     [
      "I",
-     74,
+     58,
      [
       [
-       167,
+       157,
        "[Page 375]"
       ]
      ]
@@ -7331,10 +7407,10 @@
    "marks": [
     [
      "I",
-     38,
+     18,
      [
       [
-       154,
+       383,
        "[Page 376]"
       ]
      ]
@@ -7351,7 +7427,7 @@
    "marks": [
     [
      "L",
-     46,
+     22,
      "[Page 377]",
      true
     ]
@@ -7366,12 +7442,18 @@
    "id": "21_862a",
    "marks": [
     [
+     "L",
+     8,
+     "[Page 378]",
+     true
+    ],
+    [
      "I",
-     30,
+     88,
      [
       [
-       100,
-       "[Page 378]"
+       110,
+       "[Page 379]"
       ]
      ]
     ]
@@ -7379,7 +7461,7 @@
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00862a - Denial of assistance and benefits for certain drug-related convictions.md",
    "printed_pages": [
     377,
-    378
+    379
    ]
   },
   {
@@ -7387,28 +7469,24 @@
    "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00862b - Sanctioning for testing positive for controlled substances.md",
    "printed_pages": [
-    378,
-    378
+    379,
+    379
    ]
   },
   {
    "id": "21_863",
    "marks": [
     [
-     "I",
-     18,
-     [
-      [
-       186,
-       "[Page 379]"
-      ]
-     ]
+     "L",
+     88,
+     "[Page 380]",
+     true
     ]
    ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part D - Offenses and Penalties/§ 00863 - Drug paraphernalia.md",
    "printed_pages": [
-    378,
-    379
+    379,
+    380
    ]
   },
   {
@@ -7416,27 +7494,16 @@
    "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/README.md",
    "printed_pages": [
-    379,
-    379
+    380,
+    380
    ]
   },
   {
    "id": "21_871",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       92,
-       "[Page 380]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00871 - Attorney General.md",
    "printed_pages": [
-    379,
+    380,
     380
    ]
   },
@@ -7445,10 +7512,10 @@
    "marks": [
     [
      "I",
-     68,
+     36,
      [
       [
-       363,
+       87,
        "[Page 381]"
       ]
      ]
@@ -7474,15 +7541,21 @@
    "marks": [
     [
      "L",
-     38,
+     22,
      "[Page 382]",
+     true
+    ],
+    [
+     "L",
+     104,
+     "[Page 383]",
      true
     ]
    ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00873 - Cooperative arrangements.md",
    "printed_pages": [
     381,
-    382
+    383
    ]
   },
   {
@@ -7490,27 +7563,16 @@
    "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00874 - Advisory committees.md",
    "printed_pages": [
-    382,
-    382
+    383,
+    383
    ]
   },
   {
    "id": "21_875",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       87,
-       "[Page 383]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00875 - Administrative hearings.md",
    "printed_pages": [
-    382,
+    383,
     383
    ]
   },
@@ -7525,30 +7587,30 @@
   },
   {
    "id": "21_877",
-   "marks": [],
-   "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00877 - Judicial review.md",
-   "printed_pages": [
-    383,
-    383
-   ]
-  },
-  {
-   "id": "21_878",
    "marks": [
     [
      "I",
-     20,
+     2,
      [
       [
-       105,
+       519,
        "[Page 384]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00878 - Powers of enforcement personnel.md",
+   "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00877 - Judicial review.md",
    "printed_pages": [
     383,
+    384
+   ]
+  },
+  {
+   "id": "21_878",
+   "marks": [],
+   "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00878 - Powers of enforcement personnel.md",
+   "printed_pages": [
+    384,
     384
    ]
   },
@@ -7566,11 +7628,21 @@
    "marks": [
     [
      "I",
-     50,
+     20,
      [
       [
-       184,
+       508,
        "[Page 385]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     72,
+     [
+      [
+       102,
+       "[Page 386]"
       ]
      ]
     ]
@@ -7578,7 +7650,7 @@
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00880 - Administrative inspections and warrants.md",
    "printed_pages": [
     384,
-    385
+    386
    ]
   },
   {
@@ -7586,42 +7658,36 @@
    "marks": [
     [
      "I",
-     14,
+     46,
      [
       [
-       229,
-       "[Page 386]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     62,
-     [
-      [
-       745,
+       100,
        "[Page 387]"
       ]
      ]
     ],
     [
-     "L",
-     114,
-     "[Page 388]",
-     true
+     "I",
+     102,
+     [
+      [
+       331,
+       "[Page 388]"
+      ]
+     ]
     ],
     [
      "L",
-     182,
+     152,
      "[Page 389]",
      true
     ],
     [
      "I",
-     248,
+     236,
      [
       [
-       551,
+       103,
        "[Page 390]"
       ]
      ]
@@ -7629,7 +7695,7 @@
    ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00881 - Forfeitures.md",
    "printed_pages": [
-    385,
+    386,
     390
    ]
   },
@@ -7644,11 +7710,18 @@
   },
   {
    "id": "21_882",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 391]",
+     true
+    ]
+   ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00882 - Injunctions.md",
    "printed_pages": [
     390,
-    390
+    391
    ]
   },
   {
@@ -7656,56 +7729,41 @@
    "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00883 - Enforcement proceedings.md",
    "printed_pages": [
-    390,
-    390
+    391,
+    391
    ]
   },
   {
    "id": "21_884",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       425,
-       "[Page 391]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00884 - Immunity and privilege.md",
    "printed_pages": [
-    390,
+    391,
     391
    ]
   },
   {
    "id": "21_885",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     26,
+     "[Page 392]",
+     true
+    ]
+   ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00885 - Burden of proof; liabilities.md",
    "printed_pages": [
     391,
-    391
+    392
    ]
   },
   {
    "id": "21_886",
-   "marks": [
-    [
-     "I",
-     20,
-     [
-      [
-       95,
-       "[Page 392]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00886 - Payments and advances.md",
    "printed_pages": [
-    391,
+    392,
     392
    ]
   },
@@ -7720,26 +7778,30 @@
   },
   {
    "id": "21_887",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       137,
+       "[Page 393]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00887 - Coordination and consolidation of post-seizure administration.md",
    "printed_pages": [
     392,
-    392
+    393
    ]
   },
   {
    "id": "21_888",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 393]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00888 - Expedited procedures for seized conveyances.md",
    "printed_pages": [
-    392,
+    393,
     393
    ]
   },
@@ -7747,14 +7809,10 @@
    "id": "21_889",
    "marks": [
     [
-     "I",
-     48,
-     [
-      [
-       169,
-       "[Page 394]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 394]",
+     true
     ]
    ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part E - Administrative and Enforcement Provisions/§ 00889 - Production control of controlled substances.md",
@@ -7801,26 +7859,30 @@
   },
   {
    "id": "21_903",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       93,
+       "[Page 395]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part F - General Provisions/§ 00903 - Application of State law.md",
    "printed_pages": [
     394,
-    394
+    395
    ]
   },
   {
    "id": "21_904",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 395]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 001 (I) - Control and Enforcement/Part F - General Provisions/§ 00904 - Payment of tort claims.md",
    "printed_pages": [
-    394,
+    395,
     395
    ]
   },
@@ -7838,10 +7900,10 @@
    "marks": [
     [
      "I",
-     42,
+     34,
      [
       [
-       111,
+       341,
        "[Page 396]"
       ]
      ]
@@ -7858,10 +7920,10 @@
    "marks": [
     [
      "I",
-     42,
+     24,
      [
       [
-       112,
+       316,
        "[Page 397]"
       ]
      ]
@@ -7877,14 +7939,10 @@
    "id": "21_953",
    "marks": [
     [
-     "I",
-     46,
-     [
-      [
-       139,
-       "[Page 398]"
-      ]
-     ]
+     "L",
+     34,
+     "[Page 398]",
+     true
     ]
    ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 002 (II) - Import and Export/§ 00953 - Exportation of controlled substances.md",
@@ -7913,30 +7971,30 @@
   },
   {
    "id": "21_955a_to_955d",
-   "marks": [],
-   "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 002 (II) - Import and Export/§ 00955a to 955d - Transferred.md",
-   "printed_pages": [
-    398,
-    398
-   ]
-  },
-  {
-   "id": "21_956",
    "marks": [
     [
      "I",
-     10,
+     4,
      [
       [
-       126,
+       112,
        "[Page 399]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 002 (II) - Import and Export/§ 00956 - Exemption authority.md",
+   "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 002 (II) - Import and Export/§ 00955a to 955d - Transferred.md",
    "printed_pages": [
     398,
+    399
+   ]
+  },
+  {
+   "id": "21_956",
+   "marks": [],
+   "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 002 (II) - Import and Export/§ 00956 - Exemption authority.md",
+   "printed_pages": [
+    399,
     399
    ]
   },
@@ -7945,10 +8003,10 @@
    "marks": [
     [
      "I",
-     58,
+     28,
      [
       [
-       111,
+       232,
        "[Page 400]"
       ]
      ]
@@ -7965,10 +8023,10 @@
    "marks": [
     [
      "I",
-     30,
+     26,
      [
       [
-       849,
+       463,
        "[Page 401]"
       ]
      ]
@@ -7985,10 +8043,10 @@
    "marks": [
     [
      "I",
-     22,
+     4,
      [
       [
-       106,
+       90,
        "[Page 402]"
       ]
      ]
@@ -8005,27 +8063,27 @@
    "marks": [
     [
      "I",
-     56,
+     42,
      [
       [
-       92,
+       766,
        "[Page 403]"
       ]
      ]
     ],
     [
      "I",
-     82,
+     72,
      [
       [
-       96,
+       1812,
        "[Page 404]"
       ]
      ]
     ],
     [
      "L",
-     150,
+     122,
      "[Page 405]",
      true
     ]
@@ -8038,30 +8096,30 @@
   },
   {
    "id": "21_961",
-   "marks": [],
-   "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 002 (II) - Import and Export/§ 00961 - Prohibited acts B.md",
-   "printed_pages": [
-    405,
-    405
-   ]
-  },
-  {
-   "id": "21_962",
    "marks": [
     [
      "I",
-     4,
+     2,
      [
       [
-       144,
+       92,
        "[Page 406]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 002 (II) - Import and Export/§ 00962 - Second or subsequent offenses.md",
+   "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 002 (II) - Import and Export/§ 00961 - Prohibited acts B.md",
    "printed_pages": [
     405,
+    406
+   ]
+  },
+  {
+   "id": "21_962",
+   "marks": [],
+   "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 002 (II) - Import and Export/§ 00962 - Second or subsequent offenses.md",
+   "printed_pages": [
+    406,
     406
    ]
   },
@@ -8085,26 +8143,30 @@
   },
   {
    "id": "21_965",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       857,
+       "[Page 407]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 002 (II) - Import and Export/§ 00965 - Applicability of part E of subchapter I.md",
    "printed_pages": [
     406,
-    406
+    407
    ]
   },
   {
    "id": "21_966",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 407]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 002 (II) - Import and Export/§ 00966 - Authority of Secretary of the Treasury.md",
    "printed_pages": [
-    406,
+    407,
     407
    ]
   },
@@ -8128,26 +8190,30 @@
   },
   {
    "id": "21_969",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       374,
+       "[Page 408]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 002 (II) - Import and Export/§ 00969 - Contempt proceedings.md",
    "printed_pages": [
     407,
-    407
+    408
    ]
   },
   {
    "id": "21_970",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 408]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 002 (II) - Import and Export/§ 00970 - Criminal forfeitures.md",
    "printed_pages": [
-    407,
+    408,
     408
    ]
   },
@@ -8155,10 +8221,14 @@
    "id": "21_971",
    "marks": [
     [
-     "L",
-     52,
-     "[Page 409]",
-     true
+     "I",
+     30,
+     [
+      [
+       105,
+       "[Page 409]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Drug Abuse Prevention and Control/Subchapter 002 (II) - Import and Export/§ 00971 - Notification, suspension of shipment, and penalties with respect to importation and exportation of listed chemicals.md",
@@ -8190,10 +8260,10 @@
    "marks": [
     [
      "I",
-     21,
+     9,
      [
       [
-       116,
+       89,
        "[Page 410]"
       ]
      ]
@@ -8209,10 +8279,14 @@
    "id": "21_1031",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 411]",
-     true
+     "I",
+     2,
+     [
+      [
+       687,
+       "[Page 411]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 015 - Egg Products Inspection/§ 01031 - Congressional statement of findings.md",
@@ -8234,18 +8308,14 @@
    "id": "21_1033",
    "marks": [
     [
-     "I",
-     38,
-     [
-      [
-       185,
-       "[Page 412]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 412]",
+     true
     ],
     [
      "L",
-     102,
+     84,
      "[Page 413]",
      true
     ]
@@ -8260,10 +8330,14 @@
    "id": "21_1034",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 414]",
-     true
+     "I",
+     16,
+     [
+      [
+       381,
+       "[Page 414]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 015 - Egg Products Inspection/§ 01034 - Inspection of egg products.md",
@@ -8283,31 +8357,38 @@
   },
   {
    "id": "21_1036",
-   "marks": [],
-   "path": "Chapter 015 - Egg Products Inspection/§ 01036 - Pasteurization and labeling of egg products at official plants.md",
-   "printed_pages": [
-    414,
-    414
-   ]
-  },
-  {
-   "id": "21_1037",
    "marks": [
     [
      "I",
      8,
      [
       [
-       99,
+       859,
        "[Page 415]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 015 - Egg Products Inspection/§ 01037 - Prohibited acts.md",
+   "path": "Chapter 015 - Egg Products Inspection/§ 01036 - Pasteurization and labeling of egg products at official plants.md",
    "printed_pages": [
     414,
     415
+   ]
+  },
+  {
+   "id": "21_1037",
+   "marks": [
+    [
+     "L",
+     56,
+     "[Page 416]",
+     true
+    ]
+   ],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01037 - Prohibited acts.md",
+   "printed_pages": [
+    415,
+    416
    ]
   },
   {
@@ -8315,23 +8396,16 @@
    "marks": [],
    "path": "Chapter 015 - Egg Products Inspection/§ 01038 - Cooperation with appropriate State and other governmental agencies; utilization of employees; reimbursement.md",
    "printed_pages": [
-    415,
-    415
+    416,
+    416
    ]
   },
   {
    "id": "21_1039",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 416]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 015 - Egg Products Inspection/§ 01039 - Eggs and egg products not intended for use as human food; inspection; denaturing or otherwise identifying.md",
    "printed_pages": [
-    415,
+    416,
     416
    ]
   },
@@ -8349,7 +8423,7 @@
    "marks": [
     [
      "L",
-     38,
+     24,
      "[Page 417]",
      true
     ]
@@ -8371,26 +8445,26 @@
   },
   {
    "id": "21_1043",
-   "marks": [],
-   "path": "Chapter 015 - Egg Products Inspection/§ 01043 - Rules and regulations; administration and enforcement.md",
-   "printed_pages": [
-    417,
-    417
-   ]
-  },
-  {
-   "id": "21_1044",
    "marks": [
     [
      "L",
-     14,
+     6,
      "[Page 418]",
      true
     ]
    ],
-   "path": "Chapter 015 - Egg Products Inspection/§ 01044 - Exemption of certain activities.md",
+   "path": "Chapter 015 - Egg Products Inspection/§ 01043 - Rules and regulations; administration and enforcement.md",
    "printed_pages": [
     417,
+    418
+   ]
+  },
+  {
+   "id": "21_1044",
+   "marks": [],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01044 - Exemption of certain activities.md",
+   "printed_pages": [
+    418,
     418
    ]
   },
@@ -8408,10 +8482,10 @@
    "marks": [
     [
      "I",
-     28,
+     10,
      [
       [
-       96,
+       443,
        "[Page 419]"
       ]
      ]
@@ -8434,30 +8508,26 @@
   },
   {
    "id": "21_1048",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 420]",
+     true
+    ]
+   ],
    "path": "Chapter 015 - Egg Products Inspection/§ 01048 - Administrative detention of violative articles; duration; release; removal of official marks.md",
    "printed_pages": [
     419,
-    419
+    420
    ]
   },
   {
    "id": "21_1049",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       1451,
-       "[Page 420]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 015 - Egg Products Inspection/§ 01049 - Seizure and condemnation proceedings.md",
    "printed_pages": [
-    419,
+    420,
     420
    ]
   },
@@ -8472,46 +8542,42 @@
   },
   {
    "id": "21_1051",
-   "marks": [],
-   "path": "Chapter 015 - Egg Products Inspection/§ 01051 - Other Federal laws applicable for administration and enforcement of chapter; prosecution of inquiries; exercise of jurisdiction.md",
-   "printed_pages": [
-    420,
-    420
-   ]
-  },
-  {
-   "id": "21_1052",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       567,
-       "[Page 421]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 421]",
+     true
     ]
    ],
-   "path": "Chapter 015 - Egg Products Inspection/§ 01052 - State or local regulation.md",
+   "path": "Chapter 015 - Egg Products Inspection/§ 01051 - Other Federal laws applicable for administration and enforcement of chapter; prosecution of inquiries; exercise of jurisdiction.md",
    "printed_pages": [
     420,
     421
    ]
   },
   {
-   "id": "21_1053",
+   "id": "21_1052",
    "marks": [
     [
      "L",
-     18,
+     38,
      "[Page 422]",
      true
     ]
    ],
-   "path": "Chapter 015 - Egg Products Inspection/§ 01053 - Inspection and administration costs.md",
+   "path": "Chapter 015 - Egg Products Inspection/§ 01052 - State or local regulation.md",
    "printed_pages": [
     421,
+    422
+   ]
+  },
+  {
+   "id": "21_1053",
+   "marks": [],
+   "path": "Chapter 015 - Egg Products Inspection/§ 01053 - Inspection and administration costs.md",
+   "printed_pages": [
+    422,
     422
    ]
   },
@@ -8547,10 +8613,10 @@
    "marks": [
     [
      "I",
-     61,
+     7,
      [
       [
-       40,
+       56,
        "[Page 423]"
       ]
      ]
@@ -8573,30 +8639,30 @@
   },
   {
    "id": "21_1101",
-   "marks": [],
-   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 001 (I) - General Provisions/§ 01101 - Congressional findings.md",
-   "printed_pages": [
-    423,
-    423
-   ]
-  },
-  {
-   "id": "21_1102",
    "marks": [
     [
      "I",
-     4,
+     42,
      [
       [
-       96,
+       293,
        "[Page 424]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 001 (I) - General Provisions/§ 01102 - Congressional declaration of national policy.md",
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 001 (I) - General Provisions/§ 01101 - Congressional findings.md",
    "printed_pages": [
     423,
+    424
+   ]
+  },
+  {
+   "id": "21_1102",
+   "marks": [],
+   "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 001 (I) - General Provisions/§ 01102 - Congressional declaration of national policy.md",
+   "printed_pages": [
+    424,
     424
    ]
   },
@@ -8631,10 +8697,14 @@
    "id": "21_1111_to_1114",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 425]",
-     true
+     "I",
+     10,
+     [
+      [
+       114,
+       "[Page 425]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 002 (II) - Drug Abuse Policy Coordination/§ 01111 to 1114 - Repealed. Pub. L. 100–690, title I, §1007(c)(1), Nov. 18, 1988, 102 Stat. 4187.md",
@@ -8663,11 +8733,18 @@
   },
   {
    "id": "21_1117",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 426]",
+     true
+    ]
+   ],
    "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 002 (II) - Drug Abuse Policy Coordination/§ 01117 - Repealed. Pub. L. 98–24, §4(b), Apr. 26, 1983, 97 Stat. 183.md",
    "printed_pages": [
     425,
-    425
+    426
    ]
   },
   {
@@ -8675,27 +8752,16 @@
    "marks": [],
    "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 002 (II) - Drug Abuse Policy Coordination/§ 01118 to 1120 - Omitted.md",
    "printed_pages": [
-    425,
-    425
+    426,
+    426
    ]
   },
   {
    "id": "21_1121_to_1123",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       110,
-       "[Page 426]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 002 (II) - Drug Abuse Policy Coordination/§ 01121 to 1123 - Repealed. Pub. L. 92–255, title I, §104, Mar. 21, 1972, 86 Stat. 67.md",
    "printed_pages": [
-    425,
+    426,
     426
    ]
   },
@@ -8719,11 +8785,18 @@
   },
   {
    "id": "21_1151_to_1155",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 427]",
+     true
+    ]
+   ],
    "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 002 (II) - Drug Abuse Policy Coordination/§ 01151 to 1155 - Repealed. Pub. L. 92–255, title I, §104, Mar. 21, 1972, 86 Stat. 67.md",
    "printed_pages": [
     426,
-    426
+    427
    ]
   },
   {
@@ -8731,23 +8804,16 @@
    "marks": [],
    "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 003 (III) - National Drug Abuse Strategy/README.md",
    "printed_pages": [
-    426,
-    426
+    427,
+    427
    ]
   },
   {
    "id": "21_1161_to_1165",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 427]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 003 (III) - National Drug Abuse Strategy/§ 01161 to 1165 - Repealed. Pub. L. 98–509, title III, §301(d), Oct. 19, 1984, 98 Stat. 2364.md",
    "printed_pages": [
-    426,
+    427,
     427
    ]
   },
@@ -8810,21 +8876,31 @@
    "marks": [
     [
      "I",
-     14,
+     8,
      [
       [
-       1201,
+       94,
        "[Page 428]"
       ]
      ]
     ],
     [
      "I",
-     50,
+     38,
      [
       [
-       88,
+       91,
        "[Page 429]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     88,
+     [
+      [
+       109,
+       "[Page 430]"
       ]
      ]
     ]
@@ -8832,22 +8908,15 @@
    "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 004 (IV) - Other Federal Programs/§ 01177 - Special project grants and contracts.md",
    "printed_pages": [
     427,
-    429
+    430
    ]
   },
   {
    "id": "21_1178",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 430]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 004 (IV) - Other Federal Programs/§ 01178 - Records and audit.md",
    "printed_pages": [
-    429,
+    430,
     430
    ]
   },
@@ -8871,11 +8940,22 @@
   },
   {
    "id": "21_1181",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       462,
+       "[Page 431]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 004 (IV) - Other Federal Programs/§ 01181 - Contract authority.md",
    "printed_pages": [
     430,
-    430
+    431
    ]
   },
   {
@@ -8883,8 +8963,8 @@
    "marks": [],
    "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 005 (V) - National Institute on Drug Abuse/README.md",
    "printed_pages": [
-    430,
-    430
+    431,
+    431
    ]
   },
   {
@@ -8892,27 +8972,16 @@
    "marks": [],
    "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 005 (V) - National Institute on Drug Abuse/§ 01191 to 1193 - Transferred.md",
    "printed_pages": [
-    430,
-    430
+    431,
+    431
    ]
   },
   {
    "id": "21_1194",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       118,
-       "[Page 431]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 016 - Drug Abuse Prevention, Treatment, and Rehabilitation/Subchapter 005 (V) - National Institute on Drug Abuse/§ 01194 - Repealed. Pub. L. 98–24, §2(c)(2), Apr. 26, 1983, 97 Stat. 182.md",
    "printed_pages": [
-    430,
+    431,
     431
    ]
   },
@@ -8954,26 +9023,26 @@
   },
   {
    "id": "21_1302",
-   "marks": [],
-   "path": "Chapter 018 - President's Media Commission on Alcohol and Drug Abuse Prevention/§ 01302 - Duties of Commission.md",
-   "printed_pages": [
-    431,
-    431
-   ]
-  },
-  {
-   "id": "21_1303",
    "marks": [
     [
      "L",
-     26,
+     16,
      "[Page 432]",
      true
     ]
    ],
-   "path": "Chapter 018 - President's Media Commission on Alcohol and Drug Abuse Prevention/§ 01303 - Membership.md",
+   "path": "Chapter 018 - President's Media Commission on Alcohol and Drug Abuse Prevention/§ 01302 - Duties of Commission.md",
    "printed_pages": [
     431,
+    432
+   ]
+  },
+  {
+   "id": "21_1303",
+   "marks": [],
+   "path": "Chapter 018 - President's Media Commission on Alcohol and Drug Abuse Prevention/§ 01303 - Membership.md",
+   "printed_pages": [
+    432,
     432
    ]
   },
@@ -8997,11 +9066,18 @@
   },
   {
    "id": "21_1306",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 433]",
+     true
+    ]
+   ],
    "path": "Chapter 018 - President's Media Commission on Alcohol and Drug Abuse Prevention/§ 01306 - Powers of Commission.md",
    "printed_pages": [
     432,
-    432
+    433
    ]
   },
   {
@@ -9009,8 +9085,8 @@
    "marks": [],
    "path": "Chapter 018 - President's Media Commission on Alcohol and Drug Abuse Prevention/§ 01307 - Report.md",
    "printed_pages": [
-    432,
-    432
+    433,
+    433
    ]
   },
   {
@@ -9018,27 +9094,16 @@
    "marks": [],
    "path": "Chapter 018 - President's Media Commission on Alcohol and Drug Abuse Prevention/§ 01308 - Termination.md",
    "printed_pages": [
-    432,
-    432
+    433,
+    433
    ]
   },
   {
    "id": "21_-ch19",
-   "marks": [
-    [
-     "I",
-     14,
-     [
-      [
-       40,
-       "[Page 433]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 019 - Pesticide Monitoring Improvements/README.md",
    "printed_pages": [
-    432,
+    433,
     433
    ]
   },
@@ -9047,10 +9112,10 @@
    "marks": [
     [
      "I",
-     72,
+     56,
      [
       [
-       111,
+       83,
        "[Page 434]"
       ]
      ]
@@ -9067,7 +9132,7 @@
    "marks": [
     [
      "L",
-     34,
+     12,
      "[Page 435]",
      true
     ]
@@ -9089,11 +9154,22 @@
   },
   {
    "id": "21_-ch20",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     62,
+     [
+      [
+       48,
+       "[Page 436]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 020 - National Drug Control Program/README.md",
    "printed_pages": [
     435,
-    435
+    436
    ]
   },
   {
@@ -9101,27 +9177,16 @@
    "marks": [],
    "path": "Chapter 020 - National Drug Control Program/Subchapter 001 (I) - Office of National Drug Control Policy/README.md",
    "printed_pages": [
-    435,
-    435
+    436,
+    436
    ]
   },
   {
    "id": "21_1501,_1502",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       226,
-       "[Page 436]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 020 - National Drug Control Program/Subchapter 001 (I) - Office of National Drug Control Policy/§ 01501, 1502 - Repealed. Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188, as amended by Pub. L. 105–20, §2(b), June 27, 1997….md",
    "printed_pages": [
-    435,
+    436,
     436
    ]
   },
@@ -9145,11 +9210,18 @@
   },
   {
    "id": "21_1505a",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 437]",
+     true
+    ]
+   ],
    "path": "Chapter 020 - National Drug Control Program/Subchapter 001 (I) - Office of National Drug Control Policy/§ 01505a - Annual report on development and deployment of narcotics detection technologies.md",
    "printed_pages": [
     436,
-    436
+    437
    ]
   },
   {
@@ -9157,28 +9229,24 @@
    "marks": [],
    "path": "Chapter 020 - National Drug Control Program/Subchapter 001 (I) - Office of National Drug Control Policy/§ 01506 to 1508 - Repealed. Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188, as amended by Pub. L. 105–20, §2(b), June 27….md",
    "printed_pages": [
-    436,
-    436
+    437,
+    437
    ]
   },
   {
    "id": "21_1509",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       91,
-       "[Page 437]"
-      ]
-     ]
+     "L",
+     52,
+     "[Page 438]",
+     true
     ]
    ],
    "path": "Chapter 020 - National Drug Control Program/Subchapter 001 (I) - Office of National Drug Control Policy/§ 01509 - Establishment of Special Forfeiture Fund.md",
    "printed_pages": [
-    436,
-    437
+    437,
+    438
    ]
   },
   {
@@ -9186,27 +9254,16 @@
    "marks": [],
    "path": "Chapter 020 - National Drug Control Program/Subchapter 002 (II) - Drug-Free Communities/README.md",
    "printed_pages": [
-    437,
-    437
+    438,
+    438
    ]
   },
   {
    "id": "21_1521",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       94,
-       "[Page 438]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 020 - National Drug Control Program/Subchapter 002 (II) - Drug-Free Communities/§ 01521 - Findings.md",
    "printed_pages": [
-    437,
+    438,
     438
    ]
   },
@@ -9221,26 +9278,30 @@
   },
   {
    "id": "21_1523",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       83,
+       "[Page 439]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 020 - National Drug Control Program/Subchapter 002 (II) - Drug-Free Communities/§ 01523 - Definitions.md",
    "printed_pages": [
     438,
-    438
+    439
    ]
   },
   {
    "id": "21_1524",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 439]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 020 - National Drug Control Program/Subchapter 002 (II) - Drug-Free Communities/§ 01524 - Authorization of appropriations.md",
    "printed_pages": [
-    438,
+    439,
     439
    ]
   },
@@ -9266,24 +9327,16 @@
    "id": "21_1532",
    "marks": [
     [
-     "I",
-     64,
-     [
-      [
-       136,
-       "[Page 440]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 440]",
+     true
     ],
     [
-     "I",
-     156,
-     [
-      [
-       216,
-       "[Page 441]"
-      ]
-     ]
+     "L",
+     114,
+     "[Page 441]",
+     true
     ]
    ],
    "path": "Chapter 020 - National Drug Control Program/Subchapter 002 (II) - Drug-Free Communities/Part A - Drug-Free Communities Support Program/§ 01532 - Program authorization.md",
@@ -9294,26 +9347,30 @@
   },
   {
    "id": "21_1533",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       274,
+       "[Page 442]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 020 - National Drug Control Program/Subchapter 002 (II) - Drug-Free Communities/Part A - Drug-Free Communities Support Program/§ 01533 - Information collection and dissemination with respect to grant recipients.md",
    "printed_pages": [
     441,
-    441
+    442
    ]
   },
   {
    "id": "21_1534",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 442]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 020 - National Drug Control Program/Subchapter 002 (II) - Drug-Free Communities/Part A - Drug-Free Communities Support Program/§ 01534 - Technical assistance and training.md",
    "printed_pages": [
-    441,
+    442,
     442
    ]
   },
@@ -9337,11 +9394,18 @@
   },
   {
    "id": "21_1542",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     36,
+     "[Page 443]",
+     true
+    ]
+   ],
    "path": "Chapter 020 - National Drug Control Program/Subchapter 002 (II) - Drug-Free Communities/Part B - Advisory Commission/§ 01542 - Duties.md",
    "printed_pages": [
     442,
-    442
+    443
    ]
   },
   {
@@ -9349,23 +9413,16 @@
    "marks": [],
    "path": "Chapter 020 - National Drug Control Program/Subchapter 002 (II) - Drug-Free Communities/Part B - Advisory Commission/§ 01543 - Membership.md",
    "printed_pages": [
-    442,
-    442
+    443,
+    443
    ]
   },
   {
    "id": "21_1544",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 443]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 020 - National Drug Control Program/Subchapter 002 (II) - Drug-Free Communities/Part B - Advisory Commission/§ 01544 - Compensation.md",
    "printed_pages": [
-    442,
+    443,
     443
    ]
   },
@@ -9407,11 +9464,22 @@
   },
   {
    "id": "21_-ch21",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       84,
+       "[Page 444]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 021 - Biomaterials Access Assurance/README.md",
    "printed_pages": [
     443,
-    443
+    444
    ]
   },
   {
@@ -9419,46 +9487,43 @@
    "marks": [
     [
      "L",
-     30,
-     "[Page 444]",
-     true
-    ]
-   ],
-   "path": "Chapter 021 - Biomaterials Access Assurance/§ 01601 - Findings.md",
-   "printed_pages": [
-    443,
-    444
-   ]
-  },
-  {
-   "id": "21_1602",
-   "marks": [
-    [
-     "L",
-     46,
+     66,
      "[Page 445]",
      true
     ]
    ],
-   "path": "Chapter 021 - Biomaterials Access Assurance/§ 01602 - Definitions.md",
+   "path": "Chapter 021 - Biomaterials Access Assurance/§ 01601 - Findings.md",
    "printed_pages": [
     444,
     445
    ]
   },
   {
-   "id": "21_1603",
+   "id": "21_1602",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 446]",
-     true
+     "I",
+     110,
+     [
+      [
+       98,
+       "[Page 446]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 021 - Biomaterials Access Assurance/§ 01603 - General requirements; applicability; preemption.md",
+   "path": "Chapter 021 - Biomaterials Access Assurance/§ 01602 - Definitions.md",
    "printed_pages": [
     445,
+    446
+   ]
+  },
+  {
+   "id": "21_1603",
+   "marks": [],
+   "path": "Chapter 021 - Biomaterials Access Assurance/§ 01603 - General requirements; applicability; preemption.md",
+   "printed_pages": [
+    446,
     446
    ]
   },
@@ -9466,16 +9531,26 @@
    "id": "21_1604",
    "marks": [
     [
+     "I",
+     24,
+     [
+      [
+       100,
+       "[Page 447]"
+      ]
+     ]
+    ],
+    [
      "L",
-     56,
-     "[Page 447]",
+     96,
+     "[Page 448]",
      true
     ]
    ],
    "path": "Chapter 021 - Biomaterials Access Assurance/§ 01604 - Liability of biomaterials suppliers.md",
    "printed_pages": [
     446,
-    447
+    448
    ]
   },
   {
@@ -9483,64 +9558,68 @@
    "marks": [
     [
      "I",
-     44,
+     80,
      [
       [
-       92,
-       "[Page 448]"
+       307,
+       "[Page 449]"
       ]
      ]
     ]
    ],
    "path": "Chapter 021 - Biomaterials Access Assurance/§ 01605 - Procedures for dismissal of civil actions against biomaterials suppliers.md",
    "printed_pages": [
-    447,
-    448
-   ]
-  },
-  {
-   "id": "21_1606",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       182,
-       "[Page 449]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 021 - Biomaterials Access Assurance/§ 01606 - Subsequent impleader of dismissed biomaterials supplier.md",
-   "printed_pages": [
     448,
     449
    ]
   },
   {
-   "id": "21_-ch22",
+   "id": "21_1606",
    "marks": [],
-   "path": "Chapter 022 - National Drug Control Policy/README.md",
+   "path": "Chapter 021 - Biomaterials Access Assurance/§ 01606 - Subsequent impleader of dismissed biomaterials supplier.md",
    "printed_pages": [
     449,
     449
+   ]
+  },
+  {
+   "id": "21_-ch22",
+   "marks": [
+    [
+     "I",
+     13,
+     [
+      [
+       45,
+       "[Page 450]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 022 - National Drug Control Policy/README.md",
+   "printed_pages": [
+    449,
+    450
    ]
   },
   {
    "id": "21_1701",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 450]",
-     true
+     "I",
+     70,
+     [
+      [
+       89,
+       "[Page 451]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 022 - National Drug Control Policy/§ 01701 - Definitions.md",
    "printed_pages": [
-    449,
-    450
+    450,
+    451
    ]
   },
   {
@@ -9548,78 +9627,91 @@
    "marks": [
     [
      "L",
-     28,
-     "[Page 451]",
+     96,
+     "[Page 452]",
      true
     ]
    ],
    "path": "Chapter 022 - National Drug Control Policy/§ 01702 - Office of National Drug Control Policy.md",
    "printed_pages": [
-    450,
-    451
+    451,
+    452
    ]
   },
   {
    "id": "21_1703",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 452]",
-     true
-    ],
-    [
      "I",
-     76,
+     44,
      [
       [
-       93,
+       228,
        "[Page 453]"
       ]
      ]
     ],
     [
      "L",
-     142,
+     110,
      "[Page 454]",
      true
     ],
     [
      "I",
-     218,
+     190,
      [
       [
-       182,
+       221,
        "[Page 455]"
       ]
      ]
     ],
     [
-     "L",
-     310,
-     "[Page 456]",
-     true
+     "I",
+     270,
+     [
+      [
+       136,
+       "[Page 456]"
+      ]
+     ]
     ],
     [
-     "L",
-     376,
-     "[Page 457]",
-     true
+     "I",
+     350,
+     [
+      [
+       104,
+       "[Page 457]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 022 - National Drug Control Policy/§ 01703 - Appointment and duties of Director and Deputy Directors.md",
    "printed_pages": [
-    451,
+    452,
     457
    ]
   },
   {
    "id": "21_1704",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     48,
+     [
+      [
+       90,
+       "[Page 458]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 022 - National Drug Control Policy/§ 01704 - Coordination with National Drug Control Program agencies in demand reduction, supply reduction, and State and local affairs.md",
    "printed_pages": [
     457,
-    457
+    458
    ]
   },
   {
@@ -9627,64 +9719,60 @@
    "marks": [
     [
      "I",
-     20,
+     64,
      [
       [
-       98,
-       "[Page 458]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     90,
-     [
-      [
-       139,
+       310,
        "[Page 459]"
       ]
      ]
     ],
     [
-     "I",
-     170,
-     [
-      [
-       96,
-       "[Page 460]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 022 - National Drug Control Policy/§ 01705 - Development, submission, implementation, and assessment of National Drug Control Strategy.md",
-   "printed_pages": [
-    457,
-    460
-   ]
-  },
-  {
-   "id": "21_1706",
-   "marks": [
+     "L",
+     134,
+     "[Page 460]",
+     true
+    ],
     [
      "L",
-     28,
+     210,
      "[Page 461]",
      true
     ]
    ],
+   "path": "Chapter 022 - National Drug Control Policy/§ 01705 - Development, submission, implementation, and assessment of National Drug Control Strategy.md",
+   "printed_pages": [
+    458,
+    461
+   ]
+  },
+  {
+   "id": "21_1706",
+   "marks": [],
    "path": "Chapter 022 - National Drug Control Policy/§ 01706 - High Intensity Drug Trafficking Areas Program.md",
    "printed_pages": [
-    460,
+    461,
     461
    ]
   },
   {
    "id": "21_1707",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     34,
+     [
+      [
+       176,
+       "[Page 462]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 022 - National Drug Control Policy/§ 01707 - Counter-Drug Technology Assessment Center.md",
    "printed_pages": [
     461,
-    461
+    462
    ]
   },
   {
@@ -9692,24 +9780,14 @@
    "marks": [
     [
      "L",
-     36,
-     "[Page 462]",
+     90,
+     "[Page 463]",
      true
-    ],
-    [
-     "I",
-     162,
-     [
-      [
-       412,
-       "[Page 463]"
-      ]
-     ]
     ]
    ],
    "path": "Chapter 022 - National Drug Control Policy/§ 01708 - President's Council on Counter-Narcotics.md",
    "printed_pages": [
-    461,
+    462,
     463
    ]
   },
@@ -9718,7 +9796,7 @@
    "marks": [
     [
      "L",
-     92,
+     34,
      "[Page 464]",
      true
     ]
@@ -9734,7 +9812,7 @@
    "marks": [
     [
      "L",
-     46,
+     6,
      "[Page 465]",
      true
     ]
@@ -9765,11 +9843,22 @@
   },
   {
    "id": "21_1713",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       92,
+       "[Page 466]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 022 - National Drug Control Policy/§ 01713 - Authorization of use of environmentally-approved herbicides to eliminate illicit narcotics crops.md",
    "printed_pages": [
     465,
-    465
+    466
    ]
   },
   {
@@ -9777,8 +9866,8 @@
    "marks": [],
    "path": "Chapter 023 - National Youth Anti-Drug Media Campaign/README.md",
    "printed_pages": [
-    465,
-    465
+    466,
+    466
    ]
   },
   {
@@ -9786,33 +9875,37 @@
    "marks": [],
    "path": "Chapter 023 - National Youth Anti-Drug Media Campaign/§ 01801 - Requirement to conduct national media campaign.md",
    "printed_pages": [
-    465,
-    465
+    466,
+    466
    ]
   },
   {
    "id": "21_1802",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 466]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 023 - National Youth Anti-Drug Media Campaign/§ 01802 - Use of funds.md",
    "printed_pages": [
-    465,
+    466,
     466
    ]
   },
   {
    "id": "21_1803",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       140,
+       "[Page 467]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 023 - National Youth Anti-Drug Media Campaign/§ 01803 - Reports to Congress.md",
    "printed_pages": [
     466,
-    466
+    467
    ]
   },
   {
@@ -9820,11 +9913,149 @@
    "marks": [],
    "path": "Chapter 023 - National Youth Anti-Drug Media Campaign/§ 01804 - Authorization of appropriations.md",
    "printed_pages": [
-    466,
-    466
+    467,
+    467
+   ]
+  },
+  {
+   "id": "21_-ch24",
+   "marks": [],
+   "path": "Chapter 024 - International Narcotics Trafficking/README.md",
+   "printed_pages": [
+    467,
+    467
+   ]
+  },
+  {
+   "id": "21_1901",
+   "marks": [],
+   "path": "Chapter 024 - International Narcotics Trafficking/§ 01901 - Findings and policy.md",
+   "printed_pages": [
+    467,
+    467
+   ]
+  },
+  {
+   "id": "21_1902",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       94,
+       "[Page 468]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 024 - International Narcotics Trafficking/§ 01902 - Purpose.md",
+   "printed_pages": [
+    467,
+    468
+   ]
+  },
+  {
+   "id": "21_1903",
+   "marks": [
+    [
+     "I",
+     54,
+     [
+      [
+       189,
+       "[Page 469]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 024 - International Narcotics Trafficking/§ 01903 - Public identification of significant foreign narcotics traffickers and required reports.md",
+   "printed_pages": [
+    468,
+    469
+   ]
+  },
+  {
+   "id": "21_1904",
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       362,
+       "[Page 470]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 024 - International Narcotics Trafficking/§ 01904 - Blocking assets and prohibiting transactions.md",
+   "printed_pages": [
+    469,
+    470
+   ]
+  },
+  {
+   "id": "21_1905",
+   "marks": [],
+   "path": "Chapter 024 - International Narcotics Trafficking/§ 01905 - Authorities.md",
+   "printed_pages": [
+    470,
+    470
+   ]
+  },
+  {
+   "id": "21_1906",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       97,
+       "[Page 471]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 024 - International Narcotics Trafficking/§ 01906 - Enforcement.md",
+   "printed_pages": [
+    470,
+    471
+   ]
+  },
+  {
+   "id": "21_1907",
+   "marks": [],
+   "path": "Chapter 024 - International Narcotics Trafficking/§ 01907 - Definitions.md",
+   "printed_pages": [
+    471,
+    471
+   ]
+  },
+  {
+   "id": "21_1908",
+   "marks": [
+    [
+     "L",
+     38,
+     "[Page 472]",
+     true
+    ],
+    [
+     "L",
+     94,
+     "[Page 473]",
+     true
+    ]
+   ],
+   "path": "Chapter 024 - International Narcotics Trafficking/§ 01908 - Judicial Review Commission on Foreign Asset Control.md",
+   "printed_pages": [
+    471,
+    473
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1998-title21 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1999-title21 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 21 - Food and Drugs"
 }

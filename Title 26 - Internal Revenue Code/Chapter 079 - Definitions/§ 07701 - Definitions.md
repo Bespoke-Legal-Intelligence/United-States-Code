@@ -40,7 +40,7 @@
 
 #### (10) State
 
-&emsp;The term “State” shall be construed to include the District of Columbia, where suchconstruction is necessary to carry out provisions of this title.
+&emsp;The term “State” shall be construed to include the District of Columbia, where such construction is necessary to carry out provisions of this title.
 
 #### (11) Secretary of the Treasury and Secretary
 
@@ -80,7 +80,7 @@
 
 #### (16) Withholding agent
 
-&emsp;The term “withholding agent” means any person required to deduct and withhold any tax under the provisions of section 1441, 1442, 1443, or 1461.
+&emsp;The term “withholding agent” means any person required to deduct and withhold anytax under the provisions of section 1441, 1442, 1443, or 1461.
 
 #### (17) Husband and wife
 
@@ -122,7 +122,7 @@
 
 &emsp;&emsp;&emsp;(xi) any regular or residual interest in a REMIC, and any regular interest in a FASIT, but only in the proportion which the assets of such REMIC or FASIT consist of property described in any of the preceding clauses of this subparagraph; except that if 95 percent or more of the assets of such REMIC or FASIT are assets described in clauses (i) through (x), the entire interest in the REMIC or FASIT shall qualify.
 
-> &emsp;&emsp;At the election of the taxpayer, the percentage specified in this subparagraph shall be applied on the basis of the average assets outstanding during the taxable year, in lieu of the close of the taxable year, computed under regulations prescribed by the Secretary. For purposes of clause (v), if a multifamily structure securing a loan is used in part for nonresidential purposes, the entire loan is deemed a residential real property loan if the planned residential use exceeds 80 percent of the property's planned use (determined as of the time the loan is made). For purposes of clause (v), loans made to finance the acquisition or development of land shall be deemed to be loans secured by an interest in residential real property if, under regulations prescribed by the Secretary, there is reasonable assurance that the property will become residential real property within a period of 3 years from the date of acquisition of such land; but this sentence shall not apply for any taxable year unless, within such 3-year period, such land becomes residential real property. For purposes of determining whether any interest in a REMIC qualifies under clause (xi), any regular interest in another REMIC held by such REMIC shall be treated as a loan described in a preceding clause under principles similar to the principles of clause (xi); except that, if such REMIC's are part of a tiered structure, they shall be treated as 1 REMIC for purposes of clause (xi).
+> &emsp;&emsp;At the election of the taxpayer, the percentage specified in this subparagraph shall be applied on the basis of the average assets outstanding during the taxable year, in lieu of the close of the taxable year, computed under regulations prescribed by the Secretary. For purposes of clause (v), if a multifamily structure securing a loan is used in part for nonresidential purposes, the entire loan is deemed a residential real property loan if the planned residential use exceeds 80 percent of the property's planned use (determined as of the time the loan is made). For purposes of clause (v), loans made to finance the acquisition or development of land shall be deemed to be loans secured by an interest in residential real property if, under regulations prescribed by the Secretary, there is reasonable assurance that the property will become residential real property within a period of 3 years from the date of acquisition of such land; but this sentence shall notapply for any taxable year unless, within such 3-year period, such land becomes residential real property. For purposes of determining whether any interest in a REMIC qualifies under clause (xi), any regular interest in another REMIC held by such REMIC shall be treated as a loan described in a preceding clause under principles similar to the principles of clause (xi); except that, if such REMIC's are part of a tiered structure, they shall be treated as 1 REMIC for purposes of clause (xi).
 
 #### (20) Employee
 
@@ -308,7 +308,7 @@
 
 #### (44) Exchanged basis property
 
-&emsp;The term “exchanged basis property” means property having a basis determined under anyprovision of subtitle A (or under any corresponding provision of prior income tax law) providing that the basis shall be determined in whole or in part by reference to other property held at any time by the person for whom the basis is to be determined.
+&emsp;The term “exchanged basis property” means property having a basis determined under any provision of subtitle A (or under any corresponding provision of prior income tax law) providing that the basis shall be determined in whole or in part by reference to other property held at any time by the person for whom the basis is to be determined.
 
 #### (45) Nonrecognition transaction
 
@@ -350,7 +350,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If an alien individual is a resident of the United States under paragraph (1)(A) with respect to any calendar year, but was not a resident of the United States at any time during the preceding calendar year, such alien individual shall be treated as a resident of the United States only for the portion of such calendar year which begins on the residency starting date.
+&emsp;&emsp;&emsp;If an alien individual is a resident of the United States under paragraph (1)(A) withrespect to any calendar year, but was not a resident of the United States at any time during the preceding calendar year, such alien individual shall be treated as a resident of the United States only for the portion of such calendar year which begins on the residency starting date.
 
 #### (ii) Residency starting date for individuals lawfully admitted for permanent residence
 
@@ -444,7 +444,7 @@
 
 &emsp;(A) An alien individual shall be deemed to meet the requirements of this subparagraph if such individual—
 
-&emsp;&emsp;(i) is not a resident of the United States under clause (i) or (ii) of paragraph (1)(A) with respect to a calendar year (hereinafter referred to as the “election year”),
+&emsp;&emsp;(i) is not a resident of the United States under clause (i) or (ii) of paragraph (1)(A)with respect to a calendar year (hereinafter referred to as the “election year”),
 
 &emsp;&emsp;(ii) was not a resident of the United States under paragraph (1)(A) with respect to the calendar year immediately preceding the election year,
 
@@ -574,7 +574,7 @@
 
 &emsp;If—
 
-&emsp;&emsp;(A) an alien individual was treated as a resident of the United States during any period which includes at least 3 consecutivecalendar years (hereinafter referred to as the “initial residency period”), and
+&emsp;&emsp;(A) an alien individual was treated as a resident of the United States during any period which includes at least 3 consecutive calendar years (hereinafter referred to as the “initial residency period”), and
 
 &emsp;&emsp;(B) such individual ceases to be treated as a resident of the United States but subsequently becomes a resident of the United States before the close of the 3rd calendar year beginning after the close of the initial residency period,
 
@@ -660,7 +660,7 @@ For purposes of chapter 1—
 
 &emsp;&emsp;&emsp;(ii) the service recipient (or a related entity) bears any significant financial burden if there is nonperformance under the contract or arrangement (other than for reasons beyond the control of the service provider),
 
-&emsp;&emsp;&emsp;(iii) the service recipient (or a related entity) receives any significant financialbenefit if the operating costs of such facility are less than the standards of performance or operation under the contract or arrangement, or
+&emsp;&emsp;&emsp;(iii) the service recipient (or a related entity) receives any significant financial benefit if the operating costs of such facility are less than the standards of performance or operation under the contract or arrangement, or
 
 &emsp;&emsp;&emsp;(iv) the service recipient (or a related entity) has an option to purchase, or may be required to purchase, all or a part of such facility at a fixed and determinable price (other than for fair market value).
 
@@ -742,7 +742,7 @@ For purposes of subtitle A, in determining the amount of gain or loss (or deemed
 
 &emsp;&emsp;An agreement meets the requirements of this subparagraph if such agreement contains a separate written statement separately signed by the lessee—
 
-&emsp;&emsp;&emsp;(i) under which the lessee certifies, under penalty of perjury, that it intends that more than 50 percent of the use of theproperty subject to such agreement is to be in a trade or business of the lessee, and
+&emsp;&emsp;&emsp;(i) under which the lessee certifies, under penalty of perjury, that it intends that more than 50 percent of the use of the property subject to such agreement is to be in a trade or business of the lessee, and
 
 &emsp;&emsp;&emsp;(ii) which clearly and legibly states that the lessee has been advised that it will not be treated as the owner of the property subject to the agreement for Federal income tax purposes.
 
@@ -872,7 +872,7 @@ The Secretary may prescribe regulations recharacterizing any multiple-party fina
 
 &emsp;&emsp;<b>For effect of cross references in this title, see section 7806(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 911; Pub. L. 86–70, §22(g), (h), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(i), (j), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title I, §103(t), Sept. 13, 1960, 74 Stat. 941; Pub. L. 87–834, §§6(c), 7(h), Oct. 16, 1962, 76 Stat. 982, 988; Pub. L. 87–870, §5(a), Oct. 23, 1962, 76 Stat. 1161; Pub. L. 88–272, title II, §§204(a)(3), 234(b)(3), Feb. 26, 1964, 78 Stat. 36, 114; Pub. L. 89–368, title I, §102(b)(5), Mar. 15, 1966, 80 Stat. 64; Pub. L. 89–809, title I, §103(<i>l</i>)(1), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 90–364, title I, §103(e)(6), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IV, §432(c), (d), title IX, §960(j), Dec. 30, 1969, 83 Stat. 622, 623, 735; Pub. L. 92–606, §1(f)(4), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 93–406, title III, §3043, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 94–455, title XII, §1203(a), title XIX, §1906(a)(57), (b)(13)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1688, 1832, 1834, 1835; Pub. L. 95–600, title I, §157(k)(2), title VII, §701(cc)(2), Nov. 6, 1978, 92 Stat. 2809, 2923; Pub. L. 97–34, title VII, §725(c)(4), Aug. 13, 1981, 95 Stat. 346; Pub. L. 97–248, title II, §201(d)(10), formerly §201(c)(10), title III, §§307(a)(17), 308(a), 336(a), Sept. 3, 1982, 96 Stat. 421, 590, 591, 628, renumbered §201(d)(10) and amended Pub. L. 97–448, title III, §306(a)(1)(A)(i), (b)(3), Jan. 12, 1983, 96 Stat. 2400, 2406; Pub. L. 97–449, §5(e), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 97–473, title II, §203, Jan. 14, 1983, 96 Stat. 2611; Pub. L. 98–67, title I, §§102(a), 104(d)(1), Aug. 5, 1983, 97 Stat. 369, 379; Pub. L. 98–216, §3(c)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. A, title I, §§31(e), 43(a)(1), 53(c), 75(c), 138(a), title IV, §§412(b)(11), 422(d)(3), 474(r)(29)(K), 491(d)(53), title V, §526(c)(1), July 18, 1984, 98 Stat. 518, 558, 567, 595, 672, 792, 798, 845, 852, 874; Pub. L. 98–443, §9(q), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–514, title II, §201(c), (d)(14), title VI, §§671(b)(3), 673, title XI, §§1137, 1147(a), 1166(a), title XVIII, §§1802(a)(9)(C), 1810(<i>l</i>)(1)–(5)(A), 1842(d), 1899A(63), (64), Oct. 22, 1986, 100 Stat. 2138, 2142, 2317, 2319, 2486, 2493, 2511, 2790, 2830–2832, 2853, 2962; Pub. L. 100–202, §101(m) \[title VI, §624(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–429; Pub. L. 100–647, §1(c), title I, §§1001(d)(2)(D), 1002(a)(2), 1006(t)(12), (25)(A), 1011A(m)(1), 1011B(e), 1018(g)(3), Nov. 10, 1988, 102 Stat. 3342, 3351, 3352, 3422, 3426, 3483, 3489, 3583; Pub. L. 101–194, title VI, §602, Nov. 30, 1989, 103 Stat. 1762; Pub. L. 101–508, title XI, §§11704(a)(34), 11812(b)(13), Nov. 5, 1990, 104 Stat. 1388–519, 1388–536; Pub. L. 102–90, title III, §314(e), Aug. 14, 1991, 105 Stat. 470; Pub. L. 102–318, title V, §521(b)(43), July 3, 1992, 106 Stat. 313; Pub. L. 103–66, title XIII, §13238, Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(3), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 104–88, title III, §304(e), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–188, title I, §§1402(b)(3), 1621(b)(8), (9), 1907(a)(1), (2), Aug. 20, 1996, 110 Stat. 1790, 1867, 1916; Pub. L. 105–34, title XI, §§1151(a), 1174(b), title XVI, §1601(i)(3)(A), Aug. 5, 1997, 111 Stat. 986, 989, 1093.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 911; Pub. L. 86–70, §22(g), (h), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(i), (j), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title I, §103(t), Sept. 13, 1960, 74 Stat. 941; Pub. L. 87–834, §§6(c), 7(h), Oct. 16, 1962, 76 Stat. 982, 988; Pub. L. 87–870, §5(a), Oct. 23, 1962, 76 Stat. 1161; Pub. L. 88–272, title II, §§204(a)(3), 234(b)(3), Feb. 26, 1964, 78 Stat. 36, 114; Pub. L. 89–368, title I, §102(b)(5), Mar. 15, 1966, 80 Stat. 64;Pub. L. 89–809, title I, §103(<i>l</i>)(1), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 90–364, title I, §103(e)(6), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IV, §432(c), (d), title IX, §960(j), Dec. 30, 1969, 83 Stat. 622, 623, 735; Pub. L. 92–606, §1(f)(4), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 93–406, title III, §3043, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 94–455, title XII, §1203(a), title XIX, §1906(a)(57), (b)(13)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1688, 1832, 1834, 1835; Pub. L. 95–600, title I, §157(k)(2), title VII, §701(cc)(2), Nov. 6, 1978, 92 Stat. 2809, 2923; Pub. L. 97–34, title VII, §725(c)(4), Aug. 13, 1981, 95 Stat. 346; Pub. L. 97–248, title II, §201(d)(10), formerly §201(c)(10), title III, §§307(a)(17), 308(a), 336(a), Sept. 3, 1982, 96 Stat. 421, 590, 591, 628, renumbered §201(d)(10) and amended Pub. L. 97–448, title III, §306(a)(1)(A)(i), (b)(3), Jan. 12, 1983, 96 Stat. 2400, 2406; Pub. L. 97–449, §5(e), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 97–473, title II, §203, Jan. 14, 1983, 96 Stat. 2611; Pub. L. 98–67, title I, §§102(a), 104(d)(1), Aug. 5, 1983, 97 Stat. 369, 379; Pub. L. 98–216, §3(c)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. A, title I, §§31(e), 43(a)(1), 53(c), 75(c), 138(a), title IV, §§412(b)(11), 422(d)(3), 474(r)(29)(K), 491(d)(53), title V, §526(c)(1), July 18, 1984, 98 Stat. 518, 558, 567, 595, 672, 792, 798, 845, 852, 874; Pub. L. 98–443, §9(q), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–514, title II, §201(c), (d)(14), title VI, §§671(b)(3), 673, title XI, §§1137, 1147(a), 1166(a), title XVIII, §§1802(a)(9)(C), 1810(<i>l</i>)(1)–(5)(A), 1842(d), 1899A(63), (64), Oct. 22, 1986, 100 Stat. 2138, 2142, 2317, 2319, 2486, 2493, 2511, 2790, 2830–2832, 2853, 2962; Pub. L. 100–202, §101(m) \[title VI, §624(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–429; Pub. L. 100–647, §1(c), title I, §§1001(d)(2)(D), 1002(a)(2), 1006(t)(12), (25)(A), 1011A(m)(1), 1011B(e), 1018(g)(3), Nov. 10, 1988, 102 Stat. 3342, 3351, 3352, 3422, 3426, 3483, 3489, 3583; Pub. L. 101–194, title VI, §602, Nov. 30, 1989, 103 Stat. 1762; Pub. L. 101–508, title XI, §§11704(a)(34), 11812(b)(13), Nov. 5, 1990, 104 Stat. 1388–519, 1388–536; Pub. L. 102–90, title III, §314(e), Aug. 14, 1991, 105 Stat. 470; Pub. L. 102–318, title V, §521(b)(43), July 3, 1992, 106 Stat. 313; Pub. L. 103–66, title XIII, §13238, Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(3), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 104–88, title III, §304(e), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–188, title I, §§1402(b)(3), 1621(b)(8), (9), 1907(a)(1), (2), Aug. 20, 1996, 110 Stat. 1790, 1867, 1916; Pub. L. 105–34, title XI, §§1151(a), 1174(b), title XVI, §1601(i)(3)(A), Aug. 5, 1997, 111 Stat. 986, 989, 1093.)
 
 #### References in Text
 
@@ -882,7 +882,7 @@ Part A and part B of title I of the Housing Act of 1949, referred to in subsec. 
 
 Section 103 of the Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (a)(19)(C)(vi), which was classified to section 3303 of Title 42, was omitted from the Code pursuant to section 5316 of Title 42, which terminated authority to make new loans and grants under title I (§101 et seq.) of that Act after Jan. 1, 1975.
 
-The Internal Revenue Code of 1939, referred to in subsec. (a)(29), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, asamended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. The Internal Revenue Code of 1954 was redesignated The Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
+The Internal Revenue Code of 1939, referred to in subsec. (a)(29), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. The Internal Revenue Code of 1954 was redesignated The Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(35), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Subtitle C of title III of the Employee Retirement Income Security Act of 1974 is classified to subtitle C (§1241 et seq.) of subchapter II of chapter 18 of Title 29, Labor and amended subsec. (a)(35) of this section. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
@@ -914,7 +914,7 @@ Subsec. (a)(20). Pub. L. 104–188, §1402(b)(3), struck out “, for the purpo
 
 Subsec. (a)(30)(C) to (E). Pub. L. 104–188, §1907(a)(1), struck out “and” at end of subpar. (C), added subpars. (D) and (E), and struck out former subpar. (D) which read as follows: “any estate or trust (other than a foreign estate or foreign trust, within the meaning of section 7701(a)(31)).”
 
-Subsec. (a)(31). Pub. L. 104–188, §1907(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The terms ‘foreign estate’ and ‘foreign trust’ mean an estate or trust, as the case may be, the income of which, from sources without the United States which is not effectively connected with the conduct of a trade or business within the United States, is not includible in gross income under subtitle A.”
+Subsec. (a)(31). Pub. L. 104–188, §1907(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The terms‘foreign estate’ and ‘foreign trust’ mean an estate or trust, as the case may be, the income of which, from sources without the United States which is not effectively connected with the conduct of a trade or business within the United States, is not includible in gross income under subtitle A.”
 
 Subsec. (i)(2)(A). Pub. L. 104–188, §1621(b)(9), inserted “or a FASIT” after “a REMIC” in introductory provisions.
 
@@ -1188,7 +1188,7 @@ Amendment by title I of Pub. L. 100–647 effective, except as otherwise provide
 
 Amendment by section 201(c), (d)(14) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
-Amendment by section 201(c), (d)(14) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
+Amendment by section 201(c), (d)(14) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3)of Pub. L. 99–514, set out as a note under section 46 of this title.
 
 Amendment by section 671(b)(3) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 675 of Pub. L. 99–514, set out as an Effective Date note under section 860A of this title.
 
@@ -1268,7 +1268,7 @@ Amendment by Pub. L. 97–34 applicable to estimated tax for taxable years begin
 
 Amendment by section 157(k)(2) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1974, see section 157(k)(3) of Pub. L. 95–600, set out as a note under section 6058 of this title.
 
-Amendment by section 701(cc)(2) of Pub. L. 95–600 applicable to documents prepared after Dec. 31, 1976, see section 701(cc)(3) of Pub. L. 95–600, set out as a note under section 6695 of this title.
+Amendment by section 701(cc)(2) of Pub. L. 95–600 applicable to documents prepared after Dec. 31, 1976, seesection 701(cc)(3) of Pub. L. 95–600, set out as a note under section 6695 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -1354,7 +1354,7 @@ Definitions.—For purposes of this section—
 
 Contract.—The term ‘contract’ means a contract which during its term—
 
-&emsp;&emsp;“(A) requires such author or artist to give the corporation first reading or first refusal on writings or drawings of specified types, and prohibits him from offering any such writing or drawing to any other publication unless it has been offered to and rejected by the corporation; or
+&emsp;&emsp;“(A) requires such author or artist to give the corporation first reading or first refusal on writingsor drawings of specified types, and prohibits him from offering any such writing or drawing to any other publication unless it has been offered to and rejected by the corporation; or
 
 &emsp;&emsp;“(B) requires such author or artist to use his best efforts to produce work of specified types for the corporation.
 
@@ -1386,7 +1386,7 @@ Partnership and partner, see section 761 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 56, 118, 168, 246A, 269B, 312, 401, 408, 408A, 542, 593, 597, 679, 682, 853, 860F, 865, 877, 881, 884, 904, 958, 988, 993, 1246, 1247, 1249, 1313, 1341, 3405, 4975, 6038, 6038A, 6039F, 6046, 6059, 6694, 7213 of this title; title 4 section 114; title 5 section 8351; title 12 sections 1464, 1467a, 1823; title 22 sections 2314, 2755; title 29 section 1108; title 42 section 1320a–7e.
+This section is referred to in sections 56, 118, 168, 246A, 269B, 312, 357, 362, 401, 408, 408A, 542, 593, 597, 679, 682, 853, 860F, 865, 877, 881, 884, 904, 958, 988, 993, 1246, 1247, 1249, 1313, 1341, 3405, 4975, 6038, 6038A, 6039F, 6046, 6059, 6694, 7213 of this title; title 4 section 114; title 5 section 8351; title 12 sections 1464, 1467a, 1823; title 22 sections 2314, 2755; title 29 section 1108; title 42 section 1320a–7e.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

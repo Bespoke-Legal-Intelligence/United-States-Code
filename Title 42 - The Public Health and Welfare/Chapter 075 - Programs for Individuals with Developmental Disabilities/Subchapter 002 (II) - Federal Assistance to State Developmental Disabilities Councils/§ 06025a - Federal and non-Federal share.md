@@ -4,7 +4,7 @@
 
 The Federal share of all projects in a State supported by an allotment to the State under this subchapter may not exceed 75 percent of the aggregate necessary costs of all such projects as determined by the Secretary, except that—
 
-&emsp;(1) in the case of projects whose activities or products target individuals with developmental disabilities who live in urban or rural poverty areas, the Federal share of all such projects may not exceed 90 percent of the aggregate necessary costs of such projects or activities, as determined by the Secretary; and
+&emsp;(1) in the case of projects whose activities or products target individuals with developmental disabilities who live in urban or rural poverty areas, the Federal share of all suchprojects may not exceed 90 percent of the aggregate necessary costs of such projects or activities, as determined by the Secretary; and
 
 &emsp;(2) in the case of projects or activities undertaken by the Council or Council staff to implement State plan priority activities, the Federal share of all such activities may be up to 100 percent of the aggregate necessary costs of such activities.
 

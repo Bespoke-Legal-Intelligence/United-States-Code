@@ -68,7 +68,7 @@ No area may be designated under this section unless the application for such des
 
 &emsp;&emsp;(B) describes the process by which the affected community is a full partner in the process of developing and implementing the plan and the extent to which local institutions and organizations have contributed to the planning process,
 
-&emsp;&emsp;(C) identifies the amount of State, local, and private resources that will be available in the nominated area and the private/public partnerships to be used, which may include participation by, and cooperation with, universities, medical centers, and other private and public entities,
+&emsp;&emsp;(C) identifies the amount of State, local, and private resources that will be available in the nominated area and the private/public partnerships to be used, which may includeparticipation by, and cooperation with, universities, medical centers, and other private and public entities,
 
 &emsp;&emsp;(D) identifies the funding requested under any Federal program in support of the proposed economic, human, community, and physical development and related activities,
 
@@ -118,7 +118,7 @@ No area may be designated under this section unless the application for such des
 
 #### (v) Special rule for rural empowerment zone
 
-&emsp;&emsp;&emsp;The Secretary of Agriculture may designate not more than 1 empowerment zonein a rural area without regard to clause (i) if such area satisfies emigration criteria specified by the Secretary of Agriculture.
+&emsp;&emsp;&emsp;The Secretary of Agriculture may designate not more than 1 empowerment zone in a rural area without regard to clause (i) if such area satisfies emigration criteria specified by the Secretary of Agriculture.
 
 #### (B) Size limitation
 
@@ -178,7 +178,7 @@ Section 951(c) of Pub. L. 105–34 provided that: “The amendments made by this
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1392, 1393, 1394, 1396, 1397A of this title; title 12 section 4702; title 42 section 5302.
+This section is referred to in sections 1392, 1393, 1394, 1396, 1397A of this title; title 12 section 4702; title 29 section 2914; title 42 section 5302.
 
 <i><sup>1</sup></i><i> So in original. Par. (1) does not contain subpars.</i>
 

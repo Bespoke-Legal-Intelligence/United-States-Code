@@ -242,7 +242,7 @@ Notwithstanding any other provision of law, this section shall be effective only
 
 #### References in Text
 
-The Agricultural Act of 1949, as amended, referred to in subsec. (e), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended. Title I of the Act is classified generally to subchapter II (§1441 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, as amended, referred to in subsec. (e), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051,as amended. Title I of the Act is classified generally to subchapter II (§1441 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### Amendments
 
@@ -290,7 +290,7 @@ Subsec. (b)(8). Pub. L. 104–127, §155(i)(5), added par. (8).
 
 Pub. L. 104–127, §155(i)(4)(A)(iii), struck out par. (8) which provided for increase in quota for undermarketings in previous marketing years.
 
-Subsec. (b)(9). Pub. L. 104–127, §155(i)(4)(A)(iii), struck out heading and text of par. (9). Prior to amendment,text read as follows: “Notwithstanding the foregoing provisions of this subsection, if the total of all increases in individual farm poundage quotas under paragraph (8) exceeds 10 percent of the national poundage quota for the marketing year in which the increases shall be applicable, the Secretary shall adjust the increases so that the total of all the increases does not exceed 10 percent of the national poundage quota.”
+Subsec. (b)(9). Pub. L. 104–127, §155(i)(4)(A)(iii), struck out heading and text of par. (9). Prior to amendment, text read as follows: “Notwithstanding the foregoing provisions of this subsection, if the total of all increases in individual farm poundage quotas under paragraph (8) exceeds 10 percent of the national poundage quota for the marketing year in which the increases shall be applicable, the Secretary shall adjust the increases so that the total of all the increases does not exceed 10 percent of the national poundage quota.”
 
 Subsec. (f). Pub. L. 104–127, §155(i)(1)(A)(vii), substituted “2002” for “1997”.
 

@@ -59,7 +59,7 @@
 |  |  |
 | :--- | ---: |
 | [5531\.](Subchapter%20004%20%28IV%29%20-%20Dual%20Pay%20and%20Dual%20Employment/%C2%A7%2005531%20-%20Definitions.md) | Definitions. |
-| [5532\.](Subchapter%20004%20%28IV%29%20-%20Dual%20Pay%20and%20Dual%20Employment/%C2%A7%2005532%20-%20Employment%20of%20retired%20members%20of%20the%20uniformed%20services%3B%20reduction%20in%20retired%20or%20retainer%20pay.md) | Employment of retired members of the uniformed services; reduction in retired or retainer pay. |
+| \[5532. | Repealed.\] |
 | [5533\.](Subchapter%20004%20%28IV%29%20-%20Dual%20Pay%20and%20Dual%20Employment/%C2%A7%2005533%20-%20Dual%20pay%20from%20more%20than%20one%20position%3B%20limitations%3B%20exceptions.md) | Dual pay from more than one position; limitations; exceptions. |
 | [5534\.](Subchapter%20004%20%28IV%29%20-%20Dual%20Pay%20and%20Dual%20Employment/%C2%A7%2005534%20-%20Dual%20employment%20and%20pay%20of%20Reserves%20and%20National%20Guardsmen.md) | Dual employment and pay of Reserves and National Guardsmen. |
 | [5534a.](Subchapter%20004%20%28IV%29%20-%20Dual%20Pay%20and%20Dual%20Employment/%C2%A7%2005534a%20-%20Dual%20employment%20and%20pay%20during%20terminal%20leave%20from%20uniformed%20services.md) | Dual employment and pay during terminal leave from uniformed services. |
@@ -141,7 +141,9 @@
 
 #### Amendments
 
-1998—Pub. L. 105–277, div. A, title I, §101(h) \[title VI, §628(b)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521, added item 5545b.
+1999—Pub. L. 106–65, div. A, title VI, §651(a)(2), Oct. 5, 1999, 113 Stat. 664, struck out item 5532 “Employment of retired members of the uniformed services; reduction in retired or retainer pay.”
+
+1998—Pub. L. 105–277, div. A, §101(h) \[title VI, §628(b)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521, added item 5545b.
 
 1994—Pub. L. 103–329, title VI, §633(b)(3), Sept. 30, 1994, 108 Stat. 2427, added item 5545a.
 

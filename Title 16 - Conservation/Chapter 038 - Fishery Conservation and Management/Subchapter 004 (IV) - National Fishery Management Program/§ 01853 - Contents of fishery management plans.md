@@ -30,7 +30,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(7) describe and identify essential fish habitat for the fishery based on the guidelines established by the Secretary under section 1855(b)(1)(A) of this title, minimize to the extent practicable adverse effects on such habitat caused by fishing, and identify other actions to encourage the conservation and enhancement of such habitat;
 
-&emsp;(8) in the case of a fishery management plan that, after January 1, 1991, is submitted to the Secretary for review under section 1854(a) of this title (including any plan for which an amendment is submitted to the Secretary forsuch review) or is prepared by the Secretary, assess and specify the nature and extent of scientific data which is needed for effective implementation of the plan;
+&emsp;(8) in the case of a fishery management plan that, after January 1, 1991, is submitted to the Secretary for review under section 1854(a) of this title (including any plan for which an amendment is submitted to the Secretary for such review) or is prepared by the Secretary, assess and specify the nature and extent of scientific data which is needed for effective implementation of the plan;
 
 &emsp;(9) include a fishery impact statement for the plan or amendment (in the case of a plan or amendment thereto submitted to or prepared by the Secretary after October 1, 1990) which shall assess, specify, and describe the likely effects, if any, of the conservation and management measures on—
 
@@ -96,7 +96,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(8) require that one or more observers be carried on board a vessel of the United States engaged in fishing for species that are subject to the plan, for the purpose of collecting data necessary for the conservation and management of the fishery; except that such a vessel shall not be required to carry an observer on board if the facilities of the vessel for the quartering of an observer, or for carrying out observer functions, are so inadequate or unsafe that the health or safety of the observer or the safe operation of the vessel would be jeopardized;
 
-&emsp;(9) assess and specify the effect which the conservation and management measures of theplan will have on the stocks of naturally spawning anadromous fish in the region;
+&emsp;(9) assess and specify the effect which the conservation and management measures of the plan will have on the stocks of naturally spawning anadromous fish in the region;
 
 &emsp;(10) include, consistent with the other provisions of this chapter, conservation and management measures that provide harvest incentives for participants within each gear group to employ fishing practices that result in lower levels of bycatch or in lower levels of the mortality of bycatch;
 
@@ -152,7 +152,7 @@ Proposed regulations which the Council deems necessary or appropriate for the pu
 
 #### Amendment of Subsection (b)(1)(A)
 
-<i>Pub. L. 102–251, title III, §§301(g), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between</i><i>the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(1)(A) is amended by inserting “or special areas,” after “exclusive economic zone” and “or areas” after “such zone”.</i>
+<i>Pub. L. 102–251, title III, §§301(g), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(1)(A) is amended by inserting “or special areas,” after “exclusive economic zone” and “or areas” after “such zone”.</i>
 
 #### References in Text
 
@@ -188,7 +188,7 @@ Subsecs. (d) to (f). Pub. L. 104–297, §108(e), added subsec. (d) and struck o
 
 Subsec. (a)(1)(C). Pub. L. 101–627, §109(a)(2), inserted “regulations implementing recommendations by international organizations in which the United States participates (including but not limited to closed areas, quotas, and size limits),” after “this chapter,”.
 
-Subsec. (a)(6). Pub. L. 101–627, §109(a)(3), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “consider, and may provide for, temporary adjustments, after consultation with the Coast Guard and persons utilizing the fishery, regarding access to the fishery for vessels otherwise prevented from harvesting because of weather or other ocean conditions affecting the safety of the vessels; and”.
+Subsec. (a)(6). Pub. L. 101–627, §109(a)(3), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “consider, and may provide for, temporary adjustments, after consultation with the Coast Guard andpersons utilizing the fishery, regarding access to the fishery for vessels otherwise prevented from harvesting because of weather or other ocean conditions affecting the safety of the vessels; and”.
 
 Subsec. (a)(8), (9). Pub. L. 101–627, §109(a)(4), (5), added pars. (8) and (9).
 
@@ -252,7 +252,7 @@ Section 108(f)(1) to (5) of Pub. L. 104–297, as amended by Pub. L. 104–208, 
 
 &emsp;“(G) threshold criteria for determining whether a fishery may be considered for individual fishing quota management, including criteria related to the geographical range, population dynamics and condition of a fish stock, the socioeconomic characteristics of a fishery (including participants’ involvement in multiple fisheries in the region), and participation by commercial, charter, and recreational fishing sectors in the fishery;
 
-&emsp;“(H) mechanisms to ensure that vessel owners, vessel masters, crew members, and United States fish processors are treated fairly and equitably in initial allocations, to require persons holding individual fishing quotas to be on board the vessel using such quotas, and to facilitate new entry under individual fishing quota programs;
+&emsp;“(H) mechanisms to ensure that vessel owners, vessel masters, crew members, and United States fish processors are treated fairly and equitably in initial allocations, to require persons holding individual fishing quotas to be on board the vessel using suchquotas, and to facilitate new entry under individual fishing quota programs;
 
 &emsp;“(I) potential social and economic costs and benefits to the nation, individual fishing quota recipients, and any recipients of Federal permits described in subparagraph (D) under individual fishing quota programs, including from capital gains revenue, the allocation of such quotas or permits through Federal auctions, annual fees and transfer fees at various levels, or other measures;
 
@@ -270,7 +270,7 @@ Section 108(f)(1) to (5) of Pub. L. 104–297, as amended by Pub. L. 104–208, 
 
 #### Existing Quota Plans
 
-Section 108(i) of Pub. L. 104–297 provided that: “Nothing in this Act \[see Short Title of 1996 Amendment noteunder section 1801 of this title\] or the amendments made by this Act shall be construed to require a reallocation of individual fishing quotas under any individual fishing quota program approved by the Secretary before January 4, 1995.”
+Section 108(i) of Pub. L. 104–297 provided that: “Nothing in this Act \[see Short Title of 1996 Amendment note under section 1801 of this title\] or the amendments made by this Act shall be construed to require a reallocation of individual fishing quotas under any individual fishing quota program approved by the Secretary before January 4, 1995.”
 
 #### Section Referred to in Other Sections
 

@@ -22,11 +22,31 @@ In the case of any study or design documents for a flood control project that we
 
 #### (1) In general
 
-&emsp;Any non-Federal interest that has received from the Secretary pursuant to subsection (b) or (c) of this section a favorable recommendation to carry out a flood control project, or separable element of a flood control project, based on the results of completed studies and design documents for the project or element may carry out the project or element if a final environmental impact statement under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) has been filed for the project or element.
+#### (A) Studies and design activities under subsection (b)
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A non-Federal interest may carry out construction for which studies and designdocuments are prepared under subsection (b) of this section only if the Secretary approves the project for construction.
+
+#### (ii) Criteria for approval
+
+&emsp;&emsp;&emsp;The Secretary shall approve a project for construction if the Secretary determines that the project is technically sound, economically justified, and environmentally acceptable and meets the requirements for obtaining the appropriate permits required under the authority of the Secretary.
+
+#### (iii) No unreasonable withholding of approval
+
+&emsp;&emsp;&emsp;The Secretary shall not unreasonably withhold approval of a project for construction.
+
+#### (iv) No effect on regulatory authority
+
+&emsp;&emsp;&emsp;Nothing in this subparagraph affects any regulatory authority of the Secretary.
+
+#### (B) Studies and design activities under subsection (c)
+
+&emsp;&emsp;Any non-Federal interest that has received from the Secretary under subsection (c) of this section a favorable recommendation to carry out a flood control project, or separable element of a flood control project, based on the results of completed studies and design documents for the project or element may carry out the project or element if a final environmental impact statement under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) has been filed for the project or element.
 
 #### (2) Permits
 
-&emsp;Any plan of improvement proposed to be implemented in accordance with this subsection shall be deemed to satisfy the requirements for obtaining the appropriate permits required under the Secretary's authority. Such permits shall be granted subject to the non-Federal interest's acceptance of the terms and conditions of such permits if the Secretary determines that the applicable regulatory criteria and procedures have been satisfied.
+&emsp;Any plan of improvement proposed to be implemented in accordance with this subsection (other than paragraph (1)(A)) shall be deemed to satisfy the requirements for obtaining the appropriate permits required under the Secretary's authority. Such permits shall be granted subject to the non-Federal interest's acceptance of the terms and conditions of such permits if the Secretary determines that the applicable regulatory criteria and procedures have been satisfied.
 
 #### (3) Monitoring
 
@@ -36,17 +56,19 @@ In the case of any study or design documents for a flood control project that we
 
 #### (1) General rule
 
-&emsp;Subject to appropriations Acts, the Secretary may reimburse any non-Federal interest an amount equal to the estimate of the Federal share, without interest, of the cost of any authorized flood control project, or separable element of a flood control project, constructed pursuant to this section—
+&emsp;Subject to appropriations Acts, the Secretary may reimburse any non-Federal interest an amount equal to the estimate of the Federal share, without interest, of the cost of any authorized flood control project, or separable element of a flood control project, constructed pursuant to this section and provide credit for the non-Federal share of the project—
 
-&emsp;&emsp;(A) if, after authorization and before initiation of construction of the project or separable element, the Secretary approves the plans for construction of such project by the non-Federal interest; and
+&emsp;&emsp;(A) if, after authorization and before initiation of construction of the project or separable element, the Secretary approves the plans for construction of such project by the non-Federal interest;
 
-&emsp;&emsp;(B) if the Secretary finds, after a review of studies and design documents prepared pursuant to this section, that construction of the project or separable element is economically justified and environmentally acceptable.
+&emsp;&emsp;(B) if the Secretary finds, after a review of studies and design documents prepared pursuant to this section, that construction of the project or separable element is economically justified and environmentally acceptable; and
+
+&emsp;&emsp;(C) if the construction work is substantially in accordance with plans prepared under subsection (b) of this section.
 
 #### (2) Special rules
 
-#### (A) Reimbursement
+#### (A) Reimbursement or credit
 
-&emsp;&emsp;For work (including work associated with studies, planning, design, and construction) carried out by a non-Federal interest with respect to a project described in subsection (f) of this section, the Secretary shall, subject to amounts being made available in advance in appropriations Acts, reimburse, without interest, the non-Federal interest an amount equal to the estimated Federal share of the cost of such work if such work is later recommended by the Chief of Engineers and approved by the Secretary.
+&emsp;&emsp;For work (including work associated with studies, planning, design, and construction) carried out by a non-Federal interest with respect to a project described in subsection (f) of this section, the Secretary shall, subject to the availability of appropriations, reimburse, without interest, the non-Federal interest an amount equal to the estimated Federal share of the cost of such work, or provide credit (depending on the request of the non-Federal interest) for the non-Federal share of such work, if such work is later recommended by the Chief of Engineers and approved by the Secretary.
 
 #### (B) Credit
 
@@ -63,6 +85,24 @@ In the case of any study or design documents for a flood control project that we
 #### (5) Limitation on reimbursements
 
 &emsp;The Secretary may not make any reimbursement under this section until the Secretary determines that the work for which reimbursement is requested has been performed in accordance with applicable permits and approved plans.
+
+#### (6) Schedule and manner of reimbursement
+
+#### (A) Budgeting
+
+&emsp;&emsp;The Secretary shall budget and request appropriations for reimbursements under this section on a schedule that is consistent with a Federal construction schedule.
+
+#### (B) Commencement of reimbursements
+
+&emsp;&emsp;Reimbursements under this section may commence on approval of a project by the Secretary.
+
+#### (C) Credit
+
+&emsp;&emsp;At the request of a non-Federal interest, the Secretary may reimburse the non-Federal interest by providing credit toward future non-Federal costs of the project.
+
+#### (D) Scheduling
+
+&emsp;&emsp;Nothing in this paragraph affects the discretion of the President to schedule new construction starts.
 
 #### (f) Specific projects
 
@@ -104,7 +144,7 @@ For the purpose of demonstrating the potential advantages and effectiveness of n
 
 For the purposes of this section, flood damage prevention measures at or in the vicinity of Morgan City and Berwick, Louisiana, shall be treated as an authorized separable element of the Atchafalaya Basin feature of the project for flood control, Mississippi River and Tributaries.
 
-(Pub. L. 104–303, title II, §211, Oct. 12, 1996, 110 Stat. 3681.)
+(Pub. L. 104–303, title II, §211, Oct. 12, 1996, 110 Stat. 3681; Pub. L. 106–53, title II, §223, Aug. 17, 1999, 113 Stat. 296; Pub. L. 106–60, title VI, §606, Sept. 29, 1999, 113 Stat. 501.)
 
 #### References in Text
 
@@ -113,4 +153,18 @@ The National Environmental Policy Act of 1969, referred to in subsec. (d)(1), is
 Section 101 of the Water Resources Development Act of 1990, referred to in subsec. (f)(1), (2), (6), is section 101 of Pub. L. 101–640, title I, Nov. 28, 1990, 104 Stat. 4605, which is not classified to the Code.
 
 Section 101(13) of the Water Resources Development Act of 1992, referred to in subsec. (f)(5), is section 101(13) of Pub. L. 102–580, title I, Oct. 31, 1992, 106 Stat. 4803, which is not classified to the Code.
+
+#### Amendments
+
+1999—Subsec. (d)(1). Pub. L. 106–53, §223(a)(1), added subpar. (A), designated existing provisions as subpar. (B), inserted subpar. heading, and substituted “under subsection (c)” for “pursuant to subsection (b) or (c)”.
+
+Subsec. (d)(2). Pub. L. 106–53, §223(a)(2), inserted “(other than paragraph (1)(A))” after “this subsection” in first sentence.
+
+Subsec. (e)(1). Pub. L. 106–53, §223(b)(1), inserted “and provide credit for the non-Federal share of the project” after “constructed pursuant to this section” in introductory provisions, and added subpar. (C).
+
+Subsec. (e)(2)(A). Pub. L. 106–60, which directed the amendment of subpar. (A) by striking out “in advance in appropriations Acts”, could not be executed because that phrase did not appear in text subsequent to the amendment by Pub. L. 106–53, §223(b)(2). See below.
+
+Pub. L. 106–53, §223(b)(2), in subpar. heading, inserted “or credit” after “Reimbursement” and, in text, substituted “subject to the availability of appropriations” for “subject to amounts being made available in advance in appropriations Acts” and inserted “, or provide credit (depending on the request of the non-Federal interest) for the non-Federal share of such work,” after “the cost of such work”.
+
+Subsec. (e)(6). Pub. L. 106–53, §223(b)(3), added par. (6).
 

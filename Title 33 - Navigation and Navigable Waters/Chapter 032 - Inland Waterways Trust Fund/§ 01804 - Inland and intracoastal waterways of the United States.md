@@ -12,7 +12,7 @@ For purposes of section 4042 of title 26 (relating to tax on fuel used in commer
 
 &emsp;(5) Atchafalaya River: From RM 0 at its intersection with the Gulf Intracoastal Waterway at Morgan City, Louisiana, upstream to junction with Red River at RM 116.8.
 
-&emsp;(6) Atlantic Intracoastal Waterway: Two inland water routes approximately parallelingthe Atlantic coast between Norfolk, Virginia, and Miami, Florida, for 1,192 miles via both the Albermarle <sup>3</sup> and Chesapeake Canal and Great Dismal Swamp Canal routes.
+&emsp;(6) Atlantic Intracoastal Waterway: Two inland water routes approximately paralleling the Atlantic coast between Norfolk, Virginia, and Miami, Florida, for 1,192 miles via both the Albermarle <sup>3</sup> and Chesapeake Canal and Great Dismal Swamp Canal routes.
 
 &emsp;(7) Black Warrior-Tombigbee-Mobile Rivers: Black Warrior River System from RM 2.9, Mobile River (at Chickasaw Creek) to confluence with Tombigbee River at RM 45. Tombigbee River (to Demopolis at RM 215.4) to port of Birmingham, RM's 374–411 and upstream to head of navigation on Mulberry Fork (RM 429.6), Locust Fork (RM 407.8), and Sipsey Fork (RM 430.4).
 

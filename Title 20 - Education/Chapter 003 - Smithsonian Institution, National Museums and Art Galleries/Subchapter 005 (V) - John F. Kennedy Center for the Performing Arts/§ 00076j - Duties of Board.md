@@ -120,7 +120,7 @@ Authorization of appropriations.—There is authorized to be appropriated out of
 
 “(4)
 
-Applicability of title 23, united states code.—Funds authorized by this subsection shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United StatesCode; except that the Federal share of the cost of activities conducted using such funds shall be 100 percent and such funds shall remain available until expended.”
+Applicability of title 23, united states code.—Funds authorized by this subsection shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that the Federal share of the cost of activities conducted using such funds shall be 100 percent and such funds shall remain available until expended.”
 
 #### Section Referred to in Other Sections
 

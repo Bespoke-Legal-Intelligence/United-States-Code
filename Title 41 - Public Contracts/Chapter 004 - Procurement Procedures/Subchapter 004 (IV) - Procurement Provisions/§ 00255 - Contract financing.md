@@ -24,7 +24,7 @@ Payments made under subsection (a) of this section may not exceed the unpaid con
 
 #### (d) Security for advance payments
 
-Advance payments under subsection (a) of this section may be made only upon adequate security and a determination by the agency head that to do so would be in the public interest. Such security may be in the form of a lien in favor of the Government on the property contracted for, on the balance in an account in which such payments are deposited, and on such of the property acquired for performance of the contract as the parties may agree. This lien shall be paramount to all other liens and is effective immediately upon the first advancement of funds without filing, notice, or any other action by the United States.
+Advance payments under subsection (a) of this section may be made only upon adequate security and a determination by the agency head that to do so would be in the public interest. Such security may be in the form of a lien in favor of the Government on the property contracted for, on the balance in an account in which such payments are deposited, and on such of the property acquired for performance of the contract as the parties may agree. This lienshall be paramount to all other liens and is effective immediately upon the first advancement of funds without filing, notice, or any other action by the United States.
 
 #### (e) Conditions for progress payments
 

@@ -8,7 +8,7 @@ Except as provided in subsection (b), no amount shall be included in the gross i
 
 #### (1) Highly compensated participants
 
-&emsp;In the case of a highly compensated participant, subsection (a) shall not apply to anybenefit attributable to a plan year for which the plan discriminates in favor of—
+&emsp;In the case of a highly compensated participant, subsection (a) shall not apply to any benefit attributable to a plan year for which the plan discriminates in favor of—
 
 &emsp;&emsp;(A) highly compensated individuals as to eligibility to participate, or
 
@@ -24,7 +24,7 @@ Except as provided in subsection (b), no amount shall be included in the gross i
 
 #### (c) Discrimination as to benefits or contributions
 
-For purposes of subparagraph (B) of subsection (b)(1), a cafeteria plan does not discriminate where qualified benefits and total benefits (or employer contributions allocable to qualified benefits and employer contributions for total benefits) do not discriminate in favor of highly compensated participants.
+For purposes of subparagraph (B) of subsection (b)(1), a cafeteria plan does not discriminatewhere qualified benefits and total benefits (or employer contributions allocable to qualified benefits and employer contributions for total benefits) do not discriminate in favor of highly compensated participants.
 
 #### (d) Cafeteria plan defined
 
@@ -96,7 +96,7 @@ For purposes of this section, the term “qualified benefit” means any benefit
 
 &emsp;&emsp;&emsp;(i) equals 100 percent of the cost of the health benefit coverage under the plan of the majority of the highly compensated participants similarly situated, or
 
-&emsp;&emsp;&emsp;(ii) equals or exceeds 75 percent of the cost of the health benefit coverage of the participant (similarly situated) having thehighest cost health benefit coverage under the plan, and
+&emsp;&emsp;&emsp;(ii) equals or exceeds 75 percent of the cost of the health benefit coverage of the participant (similarly situated) having the highest cost health benefit coverage under the plan, and
 
 &emsp;&emsp;(B) contributions or benefits under the plan in excess of those described in subparagraph (A) bear a uniform relationship to compensation.
 

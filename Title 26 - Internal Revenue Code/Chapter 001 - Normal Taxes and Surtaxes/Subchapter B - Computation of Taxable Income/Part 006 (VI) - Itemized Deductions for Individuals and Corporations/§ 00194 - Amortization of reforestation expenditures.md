@@ -32,7 +32,7 @@ In the case of any qualified timber property with respect to which the taxpayer 
 
 #### (4) Estates
 
-&emsp;The benefit of the deduction for amortization provided by this section shall be allowedto estates in the same manner as in the case of an individual. The allowable deduction shall be apportioned between the income beneficiary and the fiduciary under regulations prescribed by the Secretary. Any amount so apportioned to a beneficiary shall be taken into account for purposes of determining the amount allowable as a deduction under this section to such beneficiary.
+&emsp;The benefit of the deduction for amortization provided by this section shall be allowed to estates in the same manner as in the case of an individual. The allowable deduction shall be apportioned between the income beneficiary and the fiduciary under regulations prescribed by the Secretary. Any amount so apportioned to a beneficiary shall be taken into account for purposes of determining the amount allowable as a deduction under this section to such beneficiary.
 
 #### (c) Definitions and special rule
 

@@ -16,15 +16,15 @@ Such assistance shall be available—
 
 &emsp;(2) to provide research and training to health care providers outside of treatment centers or programs described in subsection (b) of this section, for the purpose of enabling such providers to provide the services described in paragraph (1).
 
-(Pub. L. 87–195, pt. I, §129, as added Pub. L. 105–320, §4(a), Oct. 30, 1998, 112 Stat. 3017.)
+(Pub. L. 87–195, pt. I, §130, formerly §129, as added Pub. L. 105–320, §4(a), Oct. 30, 1998, 112 Stat. 3017; renumbered §130, Pub. L. 106–87, §6(a), Nov. 3, 1999, 113 Stat. 1302.)
 
-#### Codification
+#### Delegation of Functions
 
-Another section 129 of Pub. L. 87–195 is classified to section 2151aa of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Torture Victims Relief; Effective Date
 
-Pub. L. 105–320, Oct. 30, 1998, 112 Stat. 3016, provided that:
+Pub. L. 105–320, Oct. 30, 1998, 112 Stat. 3016, as amended by Pub. L. 106–87, §6(b), Nov. 3, 1999, 113 Stat. 1302, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -40,7 +40,7 @@ Pub. L. 105–320, Oct. 30, 1998, 112 Stat. 3016, provided that:
 
 &emsp;“(3) By eliminating the leadership of their opposition and frightening the general public, repressive governments often use torture as a weapon against democracy.
 
-&emsp;“(4) Torture survivors remain under physical and psychological threats, especially in communities where the perpetrators are not brought to justice. In many nations, even those who treat torture survivors are threatened with reprisals, including torture, for carrying out their ethical duty to provide care. Both the survivors of torture and their treatment providers should be accorded protection from further repression.
+&emsp;“(4) Torture survivors remain under physical and psychological threats, especially in communitieswhere the perpetrators are not brought to justice. In many nations, even those who treat torture survivors are threatened with reprisals, including torture, for carrying out their ethical duty to provide care. Both the survivors of torture and their treatment providers should be accorded protection from further repression.
 
 &emsp;“(5) A significant number of refugees and asylees entering the United States have been victims of torture. Those claiming asylum deserve prompt consideration of their applications for political asylum to minimize their insecurity and sense of danger. Many torture survivors now live in the United States. They should be provided with the rehabilitation services which would enable them to become productive members of our communities.
 
@@ -66,7 +66,7 @@ Funding.—
 
 &emsp;“(1)
 
-Authorization of appropriations.—Of the amounts authorized to be appropriated for fiscal years 1999 and 2000 pursuant to chapter 1 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President $5,000,000 for fiscal year 1999 and $7,500,000 for fiscal year 2000 to carry out section 129 of the Foreign Assistance Act of 1961 \[this section\], as added by subsection (a).
+Authorization of appropriations.—Of the amounts authorized to be appropriated for fiscal years 1999 and 2000 pursuant to chapter 1 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President $5,000,000 for fiscal year 1999 and $7,500,000 for fiscal year 2000 to carry out section 130 of the Foreign Assistance Act of 1961 \[this section\] (as redesignated by section 6(a) of the Torture Victims Relief Reauthorization Act of 1999).
 
 &emsp;“(2)
 

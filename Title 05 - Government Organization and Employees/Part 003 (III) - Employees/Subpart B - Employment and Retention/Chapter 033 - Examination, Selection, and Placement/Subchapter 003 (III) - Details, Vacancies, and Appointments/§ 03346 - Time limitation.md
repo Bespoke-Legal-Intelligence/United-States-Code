@@ -1,6 +1,6 @@
 ### §3346. Time limitation
 
-(a) Except in the case of a vacancy caused by sickness, the person serving as an acting officer as described under section 3345 may serve in the office—
+(a) Except in the case of a vacancy caused by sickness, the person serving as an acting officeras described under section 3345 may serve in the office—
 
 &emsp;(1) for no longer than 210 days beginning on the date the vacancy occurs; or
 

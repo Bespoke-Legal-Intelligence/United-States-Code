@@ -30,56 +30,6 @@ For purposes of this section—
 
 #### (d) Labeling standard
 
-(1) It is a violation of section 45 of title 15 for any producer, importer, exporter, distributor, or seller of any tuna product that is exported from or offered for sale in the United States to include on the label of that product the term “Dolphin Safe” or any other term or symbol that falsely claims or suggests that the tuna contained in the product was harvested using a method of fishing that is not harmful to dolphins if the product contains—
-
-&emsp;(A) tuna harvested on the high seas by a vessel engaged in driftnet fishing; or
-
-&emsp;(B) tuna harvested in the eastern tropical Pacific Ocean by a vessel using purse seine nets which do not meet the requirements for being considered dolphin safe under paragraph (2).
-
-(2) For purposes of paragraph (1)(B), a tuna product that contains tuna harvested in the eastern tropical Pacific Ocean by a fishing vessel using purse seine nets is dolphin safe if—
-
-&emsp;(A) the vessel is of a type and size that the Secretary has determined is not capable of deploying its purse seine nets on or to encircle dolphin; or
-
-&emsp;(B)(i) the product is accompanied by a written statement executed by the captain of the vessel which harvested the tuna certifying that no tuna were caught on the trip in which such tuna were harvested using a purse seine net intentionally deployed on or to encircle dolphin;
-
-&emsp;(ii) the product is accompanied by a written statement executed by—
-
-&emsp;&emsp;(I) the Secretary or the Secretary's designee, or
-
-&emsp;&emsp;(II) a representative of the Inter-American Tropical Tuna Commission,
-
-> &emsp;which states that there was an approved observer on board the vessel during the entire trip and that purse seine nets were not intentionally deployed during the trip on or to encircle dolphin; and
-
-&emsp;(iii) the statements referred to in clauses (i) and (ii) are endorsed in writing by each exporter, importer, and processor of the product.
-
-#### (e) Enforcement
-
-Any person who knowingly and willfully makes a statement or endorsement described in subsection (d)(2)(B) of this section that is false is liable for a civil penalty of not to exceed $100,000 assessed in an action brought in any appropriate district court of the United States on behalf of the Secretary.
-
-#### (f) Regulations
-
-The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations to implement this section not later than 6 months after November 28, 1990, including regulations establishing procedures and requirements for ensuring that tuna products are labeled in accordance with subsection (d) of this section.
-
-#### (g) Omitted
-
-#### (h) Negotiations
-
-The Secretary of State shall immediately seek, through negotiations and discussions with appropriate foreign governments, to reduce and, as soon as possible, eliminate the practice of harvesting tuna through the use of purse seine nets intentionally deployed to encircle dolphins.
-
-#### (i) Effective date
-
-Subsections (d) and (e) of this section shall take effect 6 months after November 28, 1990.
-
-(Pub. L. 101–627, title IX, §901, Nov. 28, 1990, 104 Stat. 4465; Pub. L. 105–42, §5, Aug. 15, 1997, 111 Stat. 1125.)
-
-#### Amendment of Section
-
-<i>Pub. L. 105–42, §§5(a), 8, Aug. 15, 1997, 111 Stat. 1125, 1139, provided that, effective as pro</i><i>vided by section 8 of Pub. L. 105–42, see Effective Date of 1997 Amendment note below, this section is amended as follows:</i>
-
-<i>(1) Subsection (d) is amended to read as follows:</i>
-
-#### (d) Labeling standard
-
 (1) It is a violation of section 45 of title 15 for any producer, importer, exporter, distributor, or seller of any tuna product that is exported from or offered for sale in the United States to include on the label of that product the term “dolphin safe” or any other term or symbol that falsely claims or suggests that the tuna contained in the product were harvested using a method of fishing that is not harmful to dolphins if the product contains tuna harvested—
 
 &emsp;(A) on the high seas by a vessel engaged in driftnet fishing;
@@ -114,7 +64,7 @@ Subsections (d) and (e) of this section shall take effect 6 months after Novembe
 
 &emsp;(C) the written statements and endorsements referred to in subparagraph (B) comply with regulations promulgated by the Secretary which provide for the verification of tuna products as dolphin safe.
 
-(3)(A) The Secretary of Commerce shall develop an official mark that may be used to label tuna products as dolphin safe in accordance with this section.
+(3)(A) The Secretary of Commerce shall develop an official mark that may be used to label tuna products as dolphin safe in accordance with this Act.<sup>1</sup>
 
 (B) A tuna product that bears the dolphin safe mark developed under subparagraph (A) shall not bear any other label or mark that refers to dolphins, porpoises, or marine mammals.
 
@@ -130,11 +80,13 @@ Subsections (d) and (e) of this section shall take effect 6 months after Novembe
 
 (E) It is a violation of section 45 of title 15 willingly and knowingly to use a label referred to in subparagraph (C) in a campaign or effort to mislead or deceive consumers about the level of protection afforded dolphins under the International Dolphin Conservation Program.
 
-<i>(2) Subsection (f) is amended to read as follows:</i>
+#### (e) Enforcement
+
+Any person who knowingly and willfully makes a statement or endorsement described in subsection (d)(2)(B) of this section that is false is liable for a civil penalty of not to exceed $100,000 assessed in an action brought in any appropriate district court of the United States on behalf of the Secretary.
 
 #### (f) Regulations
 
-The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations to implement this section, including regulations to establish a domestic tracking and verification program that provides for the effective tracking of tuna labeled under subsection (d) of this section. In the development of these regulations, the Secretary shall establish appropriate procedures for ensuring the confidentiality of proprietary information the submission of which is voluntary or mandatory. The regulations shall address each of the following items:
+The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations to implement this Act,<sup>1</sup> including regulations to establish a domestic tracking and verification program that provides for the effective tracking of tuna labeled under subsection (d) of this section. In the development of these regulations, the Secretary shall establish appropriate procedures for ensuring the confidentiality of proprietary information the submission of which is voluntary or mandatory. The regulations shall address each of the following items:
 
 &emsp;(1) The use of weight calculation for purposes of tracking tuna caught, landed, processed, and exported.
 
@@ -148,11 +100,9 @@ The Secretary, in consultation with the Secretary of the Treasury, shall issue r
 
 &emsp;(6) The use of periodic audits and spot checks for caught, landed, and processed tuna products labeled in accordance with subsection (d) of this section.
 
-&emsp;(7) The provision of timely access to data required under this subsection by the Secretary from harvesting nations to undertake the actions required in paragraph (6) of this paragraph.
+&emsp;(7) The provision of timely access to data required under this subsection by the Secretary from harvesting nations to undertake the actions required in paragraph (6) of this paragraph.<sup>2</sup>
 
 > The Secretary may make such adjustments as may be appropriate to the regulations promulgated under this subsection to implement an international tracking and verification program that meets or exceeds the minimum requirements established by the Secretary under this subsection.
-
-<i>(3) Subsections (g) to (i) are struck out and new subsections (g) and (h) are inserted reading as follows:</i>
 
 #### (g) Secretarial findings
 
@@ -172,21 +122,61 @@ The Secretary, in consultation with the Secretary of the Treasury, shall issue r
 
 &emsp;(C) after the effective date of the finding under subsection (g)(2) of this section, where such finding is that the intentional deployment on or encirclement of dolphins is having a significant adverse impact on any such depleted stock.
 
-#### References in Text
-
-This section, referred to in subsecs. (d)(3)(A) and (f) (first place appearing), as set out in italicized note above, was in the original “this Act” and was translated as meaning section 901 of Pub. L. 101–627, known as the Dolphin Protection Consumer Information Act, which is classified to this section, to reflect the probable intent of Congress.
+(Pub. L. 101–627, title IX, §901, Nov. 28, 1990, 104 Stat. 4465; Pub. L. 105–42, §5, Aug. 15, 1997, 111 Stat. 1125.)
 
 #### Codification
 
-Section is comprised of section 901 of Pub. L. 101–627. Subsec. (g) of section 901 of Pub. L. 101–627 amended section 1371 of this title.
-
 Section was not enacted as part of the Marine Mammal Protection Act of 1972 which comprises this chapter.
+
+#### Amendments
+
+1997—Subsec. (d). Pub. L. 105–42, §5(a), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
+
+“(1) It is a violation of section 45 of title 15 for any producer, importer, exporter, distributor, or seller of any tuna product that is exported from or offered for sale in the United States to include on the label of that product the term ‘Dolphin Safe’ or any other term or symbol that falsely claims or suggests that the tuna contained in the product was harvested using a method of fishing that is not harmful to dolphins if the product contains—
+
+&emsp;“(A) tuna harvested on the high seas by a vessel engaged in driftnet fishing; or
+
+&emsp;“(B) tuna harvested in the eastern tropical Pacific Ocean by a vessel using purse seine nets which do not meet the requirements for being considered dolphin safe under paragraph (2).
+
+“(2) For purposes of paragraph (1)(B), a tuna product that contains tuna harvested in the eastern tropical Pacific Ocean by a fishing vessel using purse seine nets is dolphin safe if—
+
+&emsp;“(A) the vessel is of a type and size that the Secretary has determined is not capable of deploying its purse seine nets on or to encircle dolphin; or
+
+&emsp;“(B)(i) the product is accompanied by a written statement executed by the captain of the vessel which harvested the tuna certifying that no tuna were caught on the trip in which such tuna were harvested using a purse seine net intentionally deployed on or to encircle dolphin;
+
+&emsp;“(ii) the product is accompanied by a written statement executed by—
+
+&emsp;&emsp;“(I) the Secretary or the Secretary's designee, or
+
+&emsp;&emsp;“(II) a representative of the Inter-American Tropical Tuna Commission,
+
+> &emsp;which states that there was an approved observer on board the vessel during the entire trip and that purse seine nets were not intentionally deployed during the trip on or to encircle dolphin; and
+
+&emsp;“(iii) the statements referred to in clauses (i) and (ii) are endorsed in writing by each exporter, importer, and processor of the product.”
+
+Subsec. (f). Pub. L. 105–42, §5(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations to implement this section not later than 6 months after November 28, 1990, including regulations establishing procedures and requirements for ensuring that tuna products are labeled in accordance with subsection (d) of this section.”
+
+Subsec. (g). Pub. L. 105–42, §5(c), added subsec. (g) and struck out former subsec. (g), which had amended section 1371 of this title.
+
+Subsecs. (h), (i). Pub. L. 105–42, §5(c), added subsec. (h) and struck out former subsecs. (h) and (i) which read as follows:
+
+“(h)
+
+Negotiations.—The Secretary of State shall immediately seek, through negotiations and discussions with appropriate foreign governments, to reduce and, as soon as possible, eliminate the practice of harvesting tuna through the use of purse seine nets intentionally deployed to encircle dolphins.
+
+“(i)
+
+Effective Date.—Subsections (d) and (e) of this section shall take effect 6 months after November 28, 1990.”
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–42 effective upon certification by Secretary of Commerce that sufficient funding is available to complete first year of study required by section 1414a(a) of this title and that study has commenced, and certification by Secretary of State to Congress that binding resolution of Inter-American Tropical Tuna Commission or other legally binding instrument establishing International Dolphin Conservation Program has been adopted and is in force, except that Secretary of Commerce may issue regulations under subsec. (f)(2) of this section at any time after Aug. 15,1997, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
+For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1371, 1414a, 1417 of this title.
+This section is referred to in sections 1371, 1414a of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “this section”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “this subsection”.</i>
 

@@ -60,7 +60,7 @@ For purposes of this subchapter—
 
 #### (b) Empowerment zone; enterprise community
 
-For purposes of this title, the terms “empowerment zone” and “enterprise community” mean areas designated as such under section 1391.
+For purposes of this title, the terms “empowerment zone” and “enterprise community”mean areas designated as such under section 1391.
 
 (Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 547.)
 
@@ -70,5 +70,5 @@ A prior section 1393, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 198, 1391 of this title; title 42 section 1397f.
+This section is referred to in sections 198, 1391 of this title; title 12 section 1715z–2; title 42 section 1397f.
 

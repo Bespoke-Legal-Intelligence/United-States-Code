@@ -2,11 +2,11 @@
 
 #### (a) Authority of President; dependable undertaking by foreign country or international organization; interest rates
 
-Except as otherwise provided in this section, the President may, without requirement forcharge to any appropriation or contract authorization otherwise provided, enter into contracts for the procurement of defense articles or defense services for sale for United States dollars to any foreign country or international organization if such country or international organization provides the United States Government with a dependable undertaking (1) to pay the full amount of such contract which will assure the United States Government against any loss on the contract, and (2) to make funds available in such amounts and at such times as may be required to meet the payments required by the contract, and any damages and costs that may accrue from the cancellation of such contract, in advance of the time such payments, damages, or costs are due. Interest shall be charged on any net amount by which any such country or international organization is in arrears under all of its outstanding unliquidated dependable undertakings, considered collectively. The rate of interest charged shall be a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding short-term obligations of the United States as of the last day of the month preceding the net arrearage and shall be computed from the date of net arrearage.
+Except as otherwise provided in this section, the President may, without requirement for charge to any appropriation or contract authorization otherwise provided, enter into contracts for the procurement of defense articles or defense services for sale for United States dollars to any foreign country or international organization if such country or international organization provides the United States Government with a dependable undertaking (1) to pay the full amount of such contract which will assure the United States Government against any loss on the contract, and (2) to make funds available in such amounts and at such times as may be required to meet the payments required by the contract, and any damages and costs that may accrue from the cancellation of such contract, in advance of the time such payments, damages, or costs are due. Interest shall be charged on any net amount by which any such country or international organization is in arrears under all of its outstanding unliquidated dependable undertakings, considered collectively. The rate of interest charged shall be a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding short-term obligations of the United States as of the last day of the month preceding the net arrearage and shall be computed from the date of net arrearage.
 
 #### (b) Issuance of letters of offer under emergency determination; availability of appropriations for payment
 
-The President may, if he determines it to be in the national interest, issue letters of offer under this section which provide for billing upon delivery of the defense article or rendering of the defense service and for payment within one hundred and twenty days after the date of billing. This authority may be exercised, however, only if the President also determines that the emergency requirements of the purchaser for acquisition of such defense articles and services exceed the ready availability to the purchaser of funds sufficient to make payments on a dependable undertaking basis and submits both determinations to the Congress together with a special emergency request for authorization and appropriation of additional funds to finance such purchases under this chapter. Appropriations available to the Department of Defense may be used to meet the payments required by the contracts for the procurement of defense articles and defense services and shall be reimbursed by the amounts subsequently received from the country or international organization to whom articles or services are sold.
+The President may, if he determines it to be in the national interest, issue letters of offer under this section which provide for billing upon delivery of the defense article or rendering of the defense service and for payment within one hundred and twenty days after the date of billing.This authority may be exercised, however, only if the President also determines that the emergency requirements of the purchaser for acquisition of such defense articles and services exceed the ready availability to the purchaser of funds sufficient to make payments on a dependable undertaking basis and submits both determinations to the Congress together with a special emergency request for authorization and appropriation of additional funds to finance such purchases under this chapter. Appropriations available to the Department of Defense may be used to meet the payments required by the contracts for the procurement of defense articles and defense services and shall be reimbursed by the amounts subsequently received from the country or international organization to whom articles or services are sold.
 
 #### (c) Applicability of Renegotiation Act of 1951
 
@@ -14,15 +14,19 @@ The provisions of the Renegotiation Act of 1951 \[50 App. U.S.C. 1211 et seq.\] 
 
 #### (d) Competitive pricing
 
-Procurement contracts made in implementation of sales under this section for defense articles and defense services wholly paid for from funds made available on a nonrepayable basis shall be priced on the same costing basis with regard to profit, overhead, independent research and development, bid and proposal, and other costing elements, as is applicable to procurements of like items purchased by the Department of Defense for its own use.
+(1) Procurement contracts made in implementation of sales under this section for defense articles and defense services wholly paid for from funds made available on a nonrepayable basis shall be priced on the same costing basis with regard to profit, overhead, independent research and development, bid and proposal, and other costing elements, as is applicable to procurements of like items purchased by the Department of Defense for its own use.
 
-(Pub. L. 90–629, ch. 2, §22, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 93–189, §25(3), Dec. 17, 1973, 87 Stat. 730; Pub. L. 94–329, title II, §207, June 30, 1976, 90 Stat. 738; Pub. L. 95–384, §17, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–533, title I, §105(b)(2), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 104–107, title V, §531A(a), Feb. 12, 1996, 110 Stat. 731.)
+(2) Direct costs associated with meeting additional or unique requirements of the purchaser shall be allowable under contracts described in paragraph (1). Loadings applicable to such direct costs shall be permitted at the same rates applicable to procurement of like items purchased by the Department of Defense for its own use.
+
+(Pub. L. 90–629, ch. 2, §22, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 93–189, §25(3), Dec. 17, 1973, 87 Stat. 730; Pub. L. 94–329, title II, §207, June 30, 1976, 90 Stat. 738; Pub. L. 95–384, §17, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–533, title I, §105(b)(2), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 104–107, title V, §531A(a), Feb. 12, 1996, 110 Stat. 731; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1223\], Nov. 29, 1999, 113 Stat. 1536, 1501A–498.)
 
 #### References in Text
 
 The Renegotiation Act of 1951, referred to in subsec. (c), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of Title 50, Appendix, War and National Defense, prior to its omission from the Code. See Codification note set out under section 1211 of Title 50, Appendix.
 
 #### Amendments
+
+1999—Subsec. (d). Pub. L. 106–113 designated existing provisions as par. (1) and added par. (2).
 
 1996—Subsec. (d). Pub. L. 104–107 added subsec. (d).
 
@@ -52,9 +56,11 @@ Functions of President under subsec. (a) of this section delegated to Secretary 
 
 #### Direct Costs Allowable
 
-Pub. L. 105–277, div. A, §101(d) \[title V, §536\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–181, provided that: “Direct costs associated with meeting a foreign customer's additional or unique requirements will continue to be allowable under contracts under section 22(d) of the Arms Export Control Act \[22 U.S.C. 2762(d)\]. Loadings applicable to such direct costs shall be permitted at the same rates applicable to procurement of like items purchased by the Department of Defense for its own use.”
+Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §556\], Nov. 29, 1999, 113 Stat. 1535, 1501A–100, provided that: “Direct costs associated with meeting a foreign customer's additional or unique requirements will continue to be allowable under contracts under section 22(d) of the Arms Export Control Act \[22 U.S.C. 2762(d)\]. Loadings applicable to such direct costs shall be permitted at the same rates applicable to procurement of like items purchased by the Department of Defense for its own use.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–277, div. A, §101(d) \[title V, §536\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–181.
 
 Pub. L. 105–118, title V, §535, Nov. 26, 1997, 111 Stat. 2416.
 

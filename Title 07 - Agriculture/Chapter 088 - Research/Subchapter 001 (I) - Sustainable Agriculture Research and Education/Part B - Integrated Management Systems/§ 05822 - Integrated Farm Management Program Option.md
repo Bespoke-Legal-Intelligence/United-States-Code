@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Agriculture (hereafter in this section referred to as the “Secretary”) shall, by regulation, establish a voluntary program, to be known as the “Integrated Farm Management Program Option” (hereafter referred to in this section as the “program”), designed to assist producers of agricultural commodities in adopting integrated, multiyear, site-specific farm management plans by reducing farm program barriers to resource stewardship practices and systems.
+The Secretary of Agriculture (hereafter in this section referred to as the “Secretary”) shall, by regulation, establish a voluntary program, to beknown as the “Integrated Farm Management Program Option” (hereafter referred to in this section as the “program”), designed to assist producers of agricultural commodities in adopting integrated, multiyear, site-specific farm management plans by reducing farm program barriers to resource stewardship practices and systems.
 
 #### (b) Definitions
 
@@ -84,7 +84,7 @@ Each plan approved by the Secretary shall—
 
 #### (B) Technical assistance
 
-&emsp;&emsp;In administering the program, the Secretary, in consultation with the local conservation districts, and any State or local authorities deemed appropriate by the Secretary, shall provide technical assistance to producers in developing and implementing plans, evaluating the effectiveness of plans, and assessing the costs and benefits of farming operations and practices. The plans may draw on handbooks and technical guides and may also include other practices appropriate to the particular circumstances of the producer and the purposes of the program.
+&emsp;&emsp;In administering the program, the Secretary, in consultation with the local conservation districts, and any State or local authorities deemed appropriate by the Secretary, shall provide technical assistance to producers in developing and implementing plans, evaluating the effectiveness of plans,and assessing the costs and benefits of farming operations and practices. The plans may draw on handbooks and technical guides and may also include other practices appropriate to the particular circumstances of the producer and the purposes of the program.
 
 #### (C) Flexibility
 
@@ -142,7 +142,7 @@ Each plan approved by the Secretary shall—
 
 #### (B) Limitation on permitted haying and grazing
 
-&emsp;&emsp;Notwithstanding any other provision of this section, if the Secretary determinesthat implementation of this section will result in a significant adverse economic impact on hay or livestock prices in a particular geographic area, the Secretary may limit the quantity of hay that can be harvested or grazed from that area. Such limit may include restrictions on the number of times that hay may be harvested or grazed from the acres per year, the timing of such harvesting and grazing, or the number of years that such land may remain in the same hay stand, or a prohibition on the harvesting or grazing of hay from acres on which a small grain was not originally interplanted with the hay crop and harvested for grain.
+&emsp;&emsp;Notwithstanding any other provision of this section, if the Secretary determines that implementation of this section will result in a significant adverse economic impact on hay or livestock prices in a particular geographic area, the Secretary may limit the quantity of hay that can be harvested or grazed from that area. Such limit may include restrictions on the number of times that hay may be harvested or grazed from the acres per year, the timing of such harvesting and grazing, or the number of years that such land may remain in the same hay stand, or a prohibition on the harvesting or grazing of hay from acres on which a small grain was not originally interplanted with the hay crop and harvested for grain.
 
 #### (6) Base acre adjustments
 

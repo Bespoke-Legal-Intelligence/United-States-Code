@@ -60,7 +60,7 @@
 
 #### (3) Correction
 
-&emsp;In the case of a disapproval of a plan or plan amendment, the Secretary shall provide a State with a reasonable opportunity for correction before taking financial sanctions against the State on the basis of such disapproval.
+&emsp;In the case of a disapproval of a plan or plan amendment, the Secretary shall provide aState with a reasonable opportunity for correction before taking financial sanctions against the State on the basis of such disapproval.
 
 #### (d) Program operation
 

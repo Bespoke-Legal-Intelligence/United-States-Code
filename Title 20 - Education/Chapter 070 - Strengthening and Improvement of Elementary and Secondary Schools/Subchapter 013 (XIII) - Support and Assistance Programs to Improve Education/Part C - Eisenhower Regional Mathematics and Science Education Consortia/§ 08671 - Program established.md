@@ -38,7 +38,7 @@ Pub. L. 85–875, Sept. 2, 1958, 72 Stat. 1700, provided: “That in order to st
 
 “
 
-Sec. 2. (a) The Commissioner of Education \[now Secretary of Education\] shall carry out his duties under the first section with a view to the ultimate chartering by the Congress of a Corporation, similar to the Future Farmers of America, which will seek to—
+Sec. 2. (a) The Commissioner of Education \[now Secretary of Education\] shall carry out his duties underthe first section with a view to the ultimate chartering by the Congress of a Corporation, similar to the Future Farmers of America, which will seek to—
 
 &emsp;“(1) develop an interest in science on the part of the young people of America,
 

@@ -26,7 +26,7 @@ After March 31, 2012, each institution with which the Secretary has made an agre
 
 #### Prior Provisions
 
-A prior section 1087ff, Pub. L. 89–329, title IV, §466, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 278; amended Pub. L. 94–482, title I, §130(h), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 96–374, title IV, §442(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440, 1503, related to distribution of assets from student loan funds, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087ff, Pub. L. 89–329, title IV, §466, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 278; amended Pub. L. 94–482, title I, §130(h), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 96–374, title IV, §442(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440, 1503, related to distribution of assets from student loan funds,prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Section Referred to in Other Sections
 

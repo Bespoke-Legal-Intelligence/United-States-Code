@@ -106,7 +106,7 @@ Reduction in regulatory de minimis exemption.—In carrying out paragraph (1), e
 
 “(4)
 
-Additional relevant considerations.—In carrying out paragraph (1), each Federal banking agencyshall also consider the importance of maintaining and improving the availability of credit to all sectors of the United States economy, including the international trade finance sector of the United State economy.
+Additional relevant considerations.—In carrying out paragraph (1), each Federal banking agency shall also consider the importance of maintaining and improving the availability of credit to all sectors of the United States economy, including the international trade finance sector of the United State economy.
 
 “(5)
 

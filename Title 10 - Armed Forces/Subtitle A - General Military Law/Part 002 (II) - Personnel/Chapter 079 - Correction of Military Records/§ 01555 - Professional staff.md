@@ -12,11 +12,15 @@
 
 &emsp;(1) with respect to the Department of the Army, the Army Review Boards Agency;
 
-&emsp;(2) with respect to the Department of the Navy, the Board for Correction of Naval Records; and
+&emsp;(2) with respect to the Department of the Navy, the Navy Council of Personnel Boards and the Board for Correction of Naval Records; and
 
 &emsp;(3) with respect to the Department of the Air Force, the Air Force Review Boards Agency.
 
-(Added Pub. L. 105–261, div. A, title V, §542(a)(1), Oct. 17, 1998, 112 Stat. 2020.)
+(Added Pub. L. 105–261, div. A, title V, §542(a)(1), Oct. 17, 1998, 112 Stat. 2020; amended Pub. L. 106–65, div. A, title V, §582, Oct. 5, 1999, 113 Stat. 634.)
+
+#### Amendments
+
+1999—Subsec. (c)(2). Pub. L. 106–65 inserted “the Navy Council of Personnel Boards and” after “Department of the Navy,”.
 
 #### Effective Date
 

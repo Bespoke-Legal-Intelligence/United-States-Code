@@ -4,7 +4,7 @@
 
 #### (1) Agreement
 
-&emsp;The Administrator and the Commission shall enter into an agreement for the Commission to lease from the Administrator not to exceed 500,000 square feet of occupiable space in the building to be constructed under section 1104 of this title to serve as an international cultural and trade center.
+&emsp;The Administrator and the Commission shall enter into an agreement for the Commission to lease from the Administrator not to exceed 500,000 square feet of occupiable spacein the building to be constructed under section 1104 of this title to serve as an international cultural and trade center.
 
 #### (2) Size
 
@@ -84,7 +84,7 @@
 
 #### (2) Contents
 
-&emsp;The account shall include all amounts deposited by the Commission under subsection\(c) of this section and section 1106(h) of this title.
+&emsp;The account shall include all amounts deposited by the Commission under subsection (c) of this section and section 1106(h) of this title.
 
 #### (3) Availability
 

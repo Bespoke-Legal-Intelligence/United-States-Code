@@ -1,6 +1,6 @@
 ### §12302. Ready Reserve
 
-(a) In time of national emergency declared by the President after January 1, 1953, or when otherwise authorized by law, an authority designated by the Secretary concerned may, without the consent of the persons concerned, order any unit, and any member not assigned to a unit organized to serve as a unit, in the Ready Reserve under the jurisdiction of that Secretary to active duty (other than for training) for not more than 24 consecutive months.
+(a) In time of national emergency declared by the President after January 1, 1953, or whenotherwise authorized by law, an authority designated by the Secretary concerned may, without the consent of the persons concerned, order any unit, and any member not assigned to a unit organized to serve as a unit, in the Ready Reserve under the jurisdiction of that Secretary to active duty (other than for training) for not more than 24 consecutive months.
 
 (b) To achieve fair treatment as between members in the Ready Reserve who are being considered for recall to duty without their consent, consideration shall be given to—
 
@@ -10,13 +10,13 @@
 
 &emsp;(3) employment necessary to maintain the national health, safety, or interest.
 
-> The Secretary of Defense shall prescribe such policies and procedures as he considers necessary to carry out this subsection. He shall report on those policies and procedures at least once a year to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives.
+> The Secretary of Defense shall prescribe such policies and procedures as he considers necessary to carry out this subsection. He shall report on those policies and procedures at least once a year to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
 (c) Not more than 1,000,000 members of the Ready Reserve may be on active duty (other than for training), without their consent, under this section at any one time.
 
 (d) Whenever one or more units of the Ready Reserve are ordered to active duty, the President shall, on the first day of the second fiscal year quarter immediately following the quarter in which the first unit or units are ordered to active duty and on the first day of each succeeding six-month period thereafter, so long as such unit is retained on active duty, submit a report to the Congress regarding the necessity for such unit or units being ordered to and retained on active duty. The President shall include in each such report a statement of the mission of each such unit ordered to active duty, an evaluation of such unit's performance of that mission, where each such unit is being deployed at the time of the report, and such other information regarding each unit as the President deems appropriate.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 28, §673; Pub. L. 85–861, §§1(14), 33(a)(5), Sept. 2, 1958, 72 Stat. 1441, 1564; Pub. L. 93–155, title III, §303(a), Nov. 16, 1973, 87 Stat. 607; renumbered §12302, Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 28, §673; Pub. L. 85–861, §§1(14), 33(a)(5), Sept. 2, 1958, 72 Stat. 1441, 1564; Pub. L. 93–155, title III, §303(a), Nov. 16, 1973, 87 Stat. 607; renumbered §12302, Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 Historical and Revision Notes<br>1956
 
@@ -70,6 +70,8 @@ The changes are necessary to reflect section 101(b) of the Armed Forces Reserve 
 
 #### Amendments
 
+1999—Subsec. (b). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in concluding provisions.
+
 1996—Subsec. (b). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
 
 1994—Pub. L. 103–337 renumbered section 673 of this title as this section.
@@ -79,10 +81,6 @@ The changes are necessary to reflect section 101(b) of the Armed Forces Reserve 
 1958—Subsec. (a). Pub. L. 85–861, §§1(14)(A), 33(a)(5), inserted “(other than for training)” after “active duty”, and struck out provisions that made subsection inapplicable unless Congress determined how many members of the reserve components were necessary, in the interest of national security, to be ordered to active duty.
 
 Subsec. (c). Pub. L. 85–861, §1(14)(B), added subsec. (c).
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1973 Amendment
 

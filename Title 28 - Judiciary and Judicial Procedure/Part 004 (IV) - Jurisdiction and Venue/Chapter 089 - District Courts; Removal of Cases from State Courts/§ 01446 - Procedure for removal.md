@@ -6,7 +6,7 @@
 
 If the case stated by the initial pleading is not removable, a notice of removal may be filed within thirty days after receipt by the defendant, through service or otherwise, of a copy of an amended pleading, motion, order or other paper from which it may first be ascertained that the case is one which is or has become removable, except that a case may not be removed on the basis of jurisdiction conferred by section 1332 of this title more than 1 year after commencement of the action.
 
-(c)(1) A notice of removal of a criminal prosecution shall be filed not later than thirty days after the arraignment in the State court, or at any time before trial, whichever is earlier, except that for good cause shown the United States district court may enter an order granting the defendant or defendants leave to file the notice at a later time.
+(c)(1) A notice of removal of a criminal prosecution shall be filed not later than thirty days after the arraignment in the State court, or at any time before trial, whichever is earlier, except that for good cause shown the UnitedStates district court may enter an order granting the defendant or defendants leave to file the notice at a later time.
 
 (2) A notice of removal of a criminal prosecution shall include all grounds for such removal. A failure to state grounds which exist at the time of the filing of the notice shall constitute a waiver of such grounds, and a second notice may be filed only on grounds not existing at the time of the original notice. For good cause shown, the United States district court may grant relief from the limitations of this paragraph.
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 103–465 applicable with respect to complaints filed under
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–78 effective Oct. 1, 1977, see section 4 of Pub. L. 95–78, set out as an Effective Date of Pub. L. 95–78 note under section 3771 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 95–78 effective Oct. 1, 1977, see section 4 of Pub. L. 95–78, set out as an Effective Dateof Pub. L. 95–78 note under section 3771 of Title 18, Crimes and Criminal Procedure.
 
 #### Federal Rules of Civil Procedure
 

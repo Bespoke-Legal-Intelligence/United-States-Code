@@ -48,7 +48,7 @@ Subsec. (a)(2). Pub. L. 105–368, §602(e)(1)(F)(i)(II), substituted “fund,�
 
 Subsec. (b). Pub. L. 105–368, §602(e)(1)(F)(ii), substituted “the fund” for “each fund” in introductory provisions.
 
-Subsec. (b)(2)(B) to (G). Pub. L. 105–368, §602(e)(1)(F)(iii), redesignated subpars. (C) to (G) as (B) to (F), respectively, in subpar. (B), substituted “section 3729(a)(3)” for “subsections (a)(3) and (c)(2) of section 3729”, and struck out former subpar. (B) which read as follows: “Federal Government contributions made under clauses (A) and (B) of section 3725(c)(2) of this title.”
+Subsec. (b)(2)(B) to (G). Pub. L. 105–368, §602(e)(1)(F)(iii), redesignated subpars. (C) to (G) as (B) to (F), respectively, in subpar. (B), substituted “section 3729(a)(3)” for “subsections (a)(3) and (c)(2) of section 3729”, and struck out former subpar. (B) which read asfollows: “Federal Government contributions made under clauses (A) and (B) of section 3725(c)(2) of this title.”
 
 Subsec. (c). Pub. L. 105–368, §602(d), added subsec. (c).
 

@@ -152,7 +152,7 @@ If two or more restructuring alternatives are available to a qualified lender un
 
 #### (1) Establishment
 
-&emsp;Each bank board of directors shall develop a policy within 60 days after January 6, 1988, that is consistent with this section, to govern the restructuring of distressed loans. Suchpolicy shall constitute the restructuring policy of each qualified lender within the district.
+&emsp;Each bank board of directors shall develop a policy within 60 days after January 6, 1988, that is consistent with this section, to govern the restructuring of distressed loans. Such policy shall constitute the restructuring policy of each qualified lender within the district.
 
 #### (2) Contents of policy
 
@@ -194,7 +194,7 @@ Each Farm Credit Bank, on request of any production credit association, may assi
 
 #### Amendments
 
-1996—Subsec. (a)(5). Pub. L. 104–105 designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Subject to subparagraph (B), the term” for “The term”, and added subpar. (B).
+1996—Subsec. (a)(5). Pub. L. 104–105 designated existing provisions as subpar. (A), inserted subpar. heading,substituted “Subject to subparagraph (B), the term” for “The term”, and added subpar. (B).
 
 1988—Subsec. (a). Pub. L. 100–399, §102(a), struck out “(other than in sections 2205 and 2206 of this title)” after “in this part”.
 

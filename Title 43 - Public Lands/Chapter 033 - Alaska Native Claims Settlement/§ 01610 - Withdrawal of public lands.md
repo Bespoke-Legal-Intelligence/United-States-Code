@@ -16,7 +16,7 @@
 
 (3)(A) If the Secretary determines that the lands withdrawn by subsections (a)(1) and (2) hereof are insufficient to permit a Village or Regional Corporation to select the acreage it is entitled to select, the Secretary shall withdraw three times the deficiency from the nearest unreserved, vacant and unappropriated public lands. In making this withdrawal the Secretary shall, insofar as possible, withdraw public lands of a character similar to those on which the village is located and in order of their proximity to the center of the Native village: <i>Provided</i>, That if the Secretary, pursuant to section 1616, and 1621(e) of this title determines there is a need to expand the boundaries of a National Wildlife Refuge to replace any acreage selected in the Wildlife Refuge System by the Village Corporation the withdrawal under this section shall not include lands in the Refuge.
 
-(B) The Secretary shall make the withdrawal provided for in subsection (3)(A) hereof on thebasis of the best available information within sixty days of December 18, 1971, or as soon thereafter as practicable.
+(B) The Secretary shall make the withdrawal provided for in subsection (3)(A) hereof on the basis of the best available information within sixty days of December 18, 1971, or as soon thereafter as practicable.
 
 #### (b) List of Native villages subject to chapter; review; eligibility for benefits; expiration of withdrawals for villages; alternative eligibility; eligibility of unlisted villages
 
@@ -462,5 +462,5 @@ The Alaska Statehood Act, as amended, referred to in subsec. (a)(1), (2), is Pub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1602, 1611, 1613, 1615, 1616, 1621, 1629g, 1634, 1635, 1641 of this title; title 16 section 3215.
+This section is referred to in sections 1602, 1611, 1613, 1615, 1616, 1621, 1629g, 1634, 1635, 1641 of this title; title 7 section 2025; title 16 section 3215.
 

@@ -14,7 +14,7 @@ Quorum.—The number of members necessary for a quorum at an annual or special m
 
 (d)
 
-Locations.—The members and the executive board may hold meetings and keep the sealand records of the corporation in or outside the District of Columbia.
+Locations.—The members and the executive board may hold meetings and keep the seal and records of the corporation in or outside the District of Columbia.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1326.)
 

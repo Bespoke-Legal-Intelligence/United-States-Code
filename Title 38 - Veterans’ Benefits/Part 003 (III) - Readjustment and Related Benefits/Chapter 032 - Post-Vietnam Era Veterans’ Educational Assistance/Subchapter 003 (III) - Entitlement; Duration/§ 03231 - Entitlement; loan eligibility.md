@@ -64,7 +64,7 @@ Sections 672, 673, and 673b of title 10, referred to in subsec. (a)(5)(B)(i), we
 
 “(d)(1) The amount of the monthly benefit payment to an individual pursuing a cooperative program under this chapter shall be 80 percent of the monthly benefit otherwise payable to such individual (computed on the basis of the formula provided in subsection (a)(2) of this section).
 
-“(2) For each month that an individual is paid a monthly benefit payment for pursuit of a cooperative program under this chapter, the individual's entitlement under this chapter shall be charged at the rate 80 percent of a month.”
+“(2) For each month that an individual is paid a monthly benefit payment for pursuit of a cooperativeprogram under this chapter, the individual's entitlement under this chapter shall be charged at the rate 80 percent of a month.”
 
 1992—Subsec. (f)(1). Pub. L. 102–568, §310(c)(1), struck out “(other than tuition and fees charged for or attributable to solo flying hours)” after “for tuition and fees”.
 

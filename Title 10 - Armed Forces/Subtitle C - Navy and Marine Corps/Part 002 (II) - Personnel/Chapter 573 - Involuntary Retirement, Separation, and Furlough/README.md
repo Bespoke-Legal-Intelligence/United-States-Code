@@ -2,7 +2,8 @@
 
 | Sec. |  |
 | :--- | ---: |
-| \[6371 to 6382. Repealed.\] |  |
+| [6371\.](%C2%A7%2006371%20-%20Mandatory%20retirement%20Superintendent%20of%20the%20United%20States%20Naval%20Academy.md) | Mandatory retirement: Superintendent of the United States Naval Academy. |
+| \[6372 to 6382. Repealed.\] |  |
 | [6383\.](%C2%A7%2006383%20-%20Regular%20Navy%20and%20Regular%20Marine%20Corps%3B%20officers%20designated%20for%20limited%20duty%20retirement%20for%20length%20of%20service%20or%20failures%20of%20selection%20for%E2%80%A6.md) | Regular Navy and Regular Marine Corps; officers designated for limited duty: retirement for length of service or failures of selection for promotion; discharge for failures of selection for promotion; reversion to prior status; retired grade; retired pay. |
 | \[6384 to 6388. Repealed.\] |  |
 | [6389\.](%C2%A7%2006389%20-%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%3B%20officers%20elimination%20from%20active%20status%3B%20computation%20of%20total%20commissioned%20service.md) | Naval Reserve and Marine Corps Reserve; officers: elimination from active status; computation of total commissioned service. |
@@ -16,7 +17,9 @@
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title XVI, §1673(b)(4), Oct. 5, 1994, 108 Stat. 3016, struck out items 6391 “NavalReserve and Marine Corps Reserve; officers: retirement at age 62”, 6392 “Retention in active status of certain officers”, 6397 “Naval Reserves; officers in the Nurse Corps: elimination from active status”, 6403 “Naval Reserve and Marine Corps Reserve; women officers: elimination from active status”, and 6410 “Naval Reserve and Marine Corps Reserve; officers: elimination from active status to provide a flow of promotion”.
+1999—Pub. L. 106–65, div. A, title V, §532(a)(4)(C), Oct. 5, 1999, 113 Stat. 604, added item 6371.
+
+1994—Pub. L. 103–337, div. A, title XVI, §1673(b)(4), Oct. 5, 1994, 108 Stat. 3016, struck out items 6391 “Naval Reserve and Marine Corps Reserve; officers: retirement at age 62”, 6392 “Retention in active status of certain officers”, 6397 “Naval Reserves; officers in the Nurse Corps: elimination from active status”, 6403 “Naval Reserve and Marine Corps Reserve; women officers: elimination from active status”, and 6410 “Naval Reserve and Marine Corps Reserve; officers: elimination from active status to provide a flow of promotion”.
 
 1987—Pub. L. 100–180, div. A, title VII, §717(b)(2), Dec. 4, 1987, 101 Stat. 1114, added item 6392.
 
@@ -30,7 +33,7 @@
 
 1967—Pub. L. 90–130, §1(24)(B), (G), (H), Nov. 8, 1967, 81 Stat. 380, 382 struck out “or for age” after “length of service” in item 6377, substituted “officers in Nurse Corps in grades below commander: retirement or discharge” for “officers in Nurse Corps: retirement for age or length of service; retired grade and pay” in item 6396, substituted “Regular Navy; women captains and commanders; Regular Marine Corps; women colonels and lieutenant colonels: retirement for length of service; retired grade and pay” for “Regular Navy, women commanders; Regular Marine Corps, women lieutenant colonels: retirement for age of length or service; retired grade and pay” in item 6398, and eliminated item 6399 which read: “Regular Navy, women lieutenant commanders and below; Regular Marine Corps, women majors and below: retirement at age 50; retired grade and pay”.
 
-1961—Pub. L. 87–123, §5(30), Aug. 3, 1961, 75 Stat. 267, struck out “not restricted in performance of duty” after “brigadier generals” and “colonels” in items 6374 and 6376, respectively, “; Regular Marine Corps, colonels designated for supply duty” after “Nurse Corps commanders;” in items 6377 and 6378, and struck out item 6375 “Regular Marine Corps; brigadier generals designated for supply duty: retention on active list; retirement”.
+1961—Pub. L. 87–123, §5(30), Aug. 3, 1961, 75 Stat. 267, struck out “not restricted in performance of duty”after “brigadier generals” and “colonels” in items 6374 and 6376, respectively, “; Regular Marine Corps, colonels designated for supply duty” after “Nurse Corps commanders;” in items 6377 and 6378, and struck out item 6375 “Regular Marine Corps; brigadier generals designated for supply duty: retention on active list; retirement”.
 
 1958—Pub. L. 85–861, §1(144)(G), Sept. 2, 1958, 72 Stat. 1512, added items 6389, 6391, 6397, 6403, 6410.
 
@@ -45,7 +48,8 @@ This chapter is referred to in sections 12645, 12646, 12647 of this title.
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 06371 to 6374 - Repealed. Pub. L. 96&#8211;513, title III, &sect;335, Dec. 12, 1980, 94 Stat. 2898](%C2%A7%2006371%20to%206374%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20III%2C%20%C2%A7335%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202898.md)
+- [&sect; 06371 - Mandatory retirement Superintendent of the United States Naval Academy](%C2%A7%2006371%20-%20Mandatory%20retirement%20Superintendent%20of%20the%20United%20States%20Naval%20Academy.md)
+- [&sect; 06372 to 6374 - Repealed. Pub. L. 96&#8211;513, title III, &sect;335, Dec. 12, 1980, 94 Stat. 2898](%C2%A7%2006372%20to%206374%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20III%2C%20%C2%A7335%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202898.md)
 - [&sect; 06375 - Repealed. Pub. L. 87&#8211;123, &sect;5(26), Aug. 3, 1961, 75 Stat. 266](%C2%A7%2006375%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93123%2C%20%C2%A75%2826%29%2C%20Aug.%203%2C%201961%2C%2075%20Stat.%20266.md)
 - [&sect; 06376 to 6382 - Repealed. Pub. L. 96&#8211;513, title III, &sect;335, Dec. 12, 1980, 94 Stat. 2898](%C2%A7%2006376%20to%206382%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20III%2C%20%C2%A7335%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202898.md)
 - [&sect; 06383 - Regular Navy and Regular Marine Corps; officers designated for limited duty retirement for length of service or failures of selection for&#8230;](%C2%A7%2006383%20-%20Regular%20Navy%20and%20Regular%20Marine%20Corps%3B%20officers%20designated%20for%20limited%20duty%20retirement%20for%20length%20of%20service%20or%20failures%20of%20selection%20for%E2%80%A6.md)

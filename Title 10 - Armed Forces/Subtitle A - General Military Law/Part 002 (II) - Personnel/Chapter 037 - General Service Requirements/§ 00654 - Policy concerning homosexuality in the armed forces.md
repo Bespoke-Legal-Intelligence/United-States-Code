@@ -8,7 +8,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;(2) There is no constitutional right to serve in the armed forces.
 
-&emsp;(3) Pursuant to the powers conferred by section 8 of article I of the Constitution of the United States, it lies within the discretion of the Congress to establish qualifications for and conditions of service in the armed forces.
+&emsp;(3) Pursuant to the powers conferred by section 8 of article I of the Constitution of theUnited States, it lies within the discretion of the Congress to establish qualifications for and conditions of service in the armed forces.
 
 &emsp;(4) The primary purpose of the armed forces is to prepare for and to prevail in combat should the need arise.
 
@@ -115,4 +115,8 @@ Sense of Congress.—It is the sense of Congress that—
 &emsp;“(1) the suspension of questioning concerning homosexuality as part of the processing of individuals for accession into the Armed Forces under the interim policy of January 29, 1993, should be continued, but the Secretary of Defense may reinstate that questioning with such questions or such revised questions as he considers appropriate if the Secretary determines that it is necessary to do so in order to effectuate the policy set forth in section 654 of title 10, United States Code, as added by subsection (a); and
 
 &emsp;“(2) the Secretary of Defense should consider issuing guidance governing the circumstances under which members of the Armed Forces questioned about homosexuality for administrative purposes should be afforded warnings similar to the warnings under section 831(b) of title 10, United States Code (article 31(b) of the Uniform Code of Military Justice).”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 983 of this title.
 

@@ -22,7 +22,7 @@ Procedure.—The Secretary shall maintain by regulation a procedure for determin
 
 &emsp;(3) Specific time frames within which the Secretary will determine whether an owner or operator is fit.
 
-(c)
+(c) <sup>1</sup>
 
 Prohibited Transportation.—
 
@@ -52,7 +52,7 @@ In general.—Not later than 45 days after an unfit owner or operator requests a
 
 &emsp;(2)
 
-Owners or operators transporting passengers.—Not later than 30 days after an unfit owner or operator of commercial motor vehicles designed or used to transport passengers requests a review, the Secretary shall review such owner's or operator's compliance with those requirements with which the owner or operator failed to comply and resulted in the Secretary determining that the owner or operator was not fit.
+Owners or operators transporting passengers.—Not later than 30 days after an unfit owner or operator of commercial motorvehicles designed or used to transport passengers requests a review, the Secretary shall review such owner's or operator's compliance with those requirements with which the owner or operator failed to comply and resulted in the Secretary determining that the owner or operator was not fit.
 
 &emsp;(3)
 
@@ -62,7 +62,27 @@ Owners or operators transporting hazardous material.—Not later than 30 days af
 
 Prohibited Government Use.—A department, agency, or instrumentality of the United States Government may not use to provide any transportation service an owner or operator who the Secretary has determined is not fit until the Secretary determines such owner or operator is fit.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1012; Pub. L. 104–88, title I, §104(g), Dec. 29, 1995, 109 Stat. 920; Pub. L. 105–178, title IV, §4009(a), June 9, 1998, 112 Stat. 405.)
+(c) <sup>1</sup>
+
+Safety Reviews of New Operators.—
+
+&emsp;(1)
+
+In general.—The Secretary shall require, by regulation, each owner and each operator granted new operating authority, after the date on which section 31148(b) is first implemented, to undergo a safety review within the first 18 months after the owner or operator, as the case may be, begins operations under such authority.
+
+&emsp;(2)
+
+Elements.—In the regulations issued pursuant to paragraph (1), the Secretary shall establish the elements of the safety review, including basic safety management controls. In establishing such elements, the Secretary shall consider their effects on small businesses and shall consider establishing alternate locations where such reviews may be conducted for the convenience of small businesses.
+
+&emsp;(3)
+
+Phase-in of requirement.—The Secretary shall phase in the requirements of paragraph (1) in a manner that takes into account the availability of certified motor carrier safety auditors.
+
+&emsp;(4)
+
+New entrant authority.—Notwithstanding any other provision of this title, any new operating authority granted after the date on which section 31148(b) is first implemented shall be designated as new entrant authority until the safety review required by paragraph (1) is completed.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1012; Pub. L. 104–88, title I, §104(g), Dec. 29, 1995, 109 Stat. 920; Pub. L. 105–178, title IV, §4009(a), June 9, 1998, 112 Stat. 405; Pub. L. 106–159, title II, §210(a), Dec. 9, 1999, 113 Stat. 1764.)
 
 Historical and Revision Notes
 
@@ -94,6 +114,8 @@ In subsection (a)(1), the words “after notice and opportunity for comment” a
 
 #### Amendments
 
+1999—Subsec. (c). Pub. L. 106–159 added subsec. (c) relating to safety reviews of new operators.
+
 1998—Pub. L. 105–178 reenacted section catchline without change and amended text generally, substituting, in subsec. (a), general provisions for provisions relating to procedure and, in subsec. (b), provisions relating to procedure for provisions relating to findings and action on registrations, and adding subsecs. (c) to (e).
 
 1995—Subsec. (a)(1). Pub. L. 104–88, §104(g)(1)–(3), in first sentence substituted “The Secretary” for “In cooperation with the Interstate Commerce Commission, the Secretary” and “section 13902” for “sections 10922 and 10923” and in subpar. (C) struck out “and the Commission” after “Secretary”.
@@ -110,7 +132,13 @@ Findings and Action on Applications.—The Commission shall—
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 
+#### Minimum Requirements
+
+Pub. L. 106–159, title II, §210(b), Dec. 9, 1999, 113 Stat. 1765, provided that: “The Secretary shall initiate a rulemaking to establish minimum requirements for applicant motor carriers, including foreign motor carriers, seeking Federal interstate operating authority to ensure applicant carriers are knowledgeable about applicable Federal motor carrier safety standards. As part of that rulemaking, the Secretary shall consider the establishment of a proficiency examination for applicant motor carriers as well as other requirements to ensure such applicants understand applicable safety regulations before being granted operating authority.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5113, 13902, 13905 of this title.
+
+<i><sup>1</sup></i><i> So in original. Two subsecs. (c) have been enacted.</i>
 

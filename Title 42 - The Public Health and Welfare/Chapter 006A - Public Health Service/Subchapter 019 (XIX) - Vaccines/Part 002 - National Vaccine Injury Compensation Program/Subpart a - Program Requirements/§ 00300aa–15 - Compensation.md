@@ -210,7 +210,7 @@ Amendment by Pub. L. 101–502 effective Sept. 30, 1990, see section 5(h) of Pub
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 applicable to all pending and subsequently filed petitions, see section 6601(s)(2) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
+Amendment by Pub. L. 101–239 applicable to all pending and subsequently filed petitions, see section6601(s)(2) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
 
 #### Effective Date of 1988 Amendment
 

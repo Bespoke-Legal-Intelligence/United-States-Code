@@ -6,5 +6,5 @@ The Secretary shall designate and classify positions in the Department and at Fo
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3982, 4001, 4102, 4155 of this title.
+This section is referred to in sections 3982, 4102, 4155 of this title.
 

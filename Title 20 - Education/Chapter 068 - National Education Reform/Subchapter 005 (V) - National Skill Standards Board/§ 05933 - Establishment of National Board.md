@@ -48,7 +48,7 @@ There is established a National Skill Standards Board (hereafter in this subchap
 
 &emsp;&emsp;(B) Six members (two from each class of members described in subparagraphs (D), (E), and (F) of paragraph (1)) shall be appointed by the Speaker of the House of Representatives, of whom three members (one from each class of members described in subparagraphs (D), (E), and (F) of paragraph (1)) shall be selected from recommendations made by the Majority Leader of the House of Representatives and three members (one from each class of members described in subparagraphs (D), (E), and (F) of paragraph (1)) shall be selected from recommendations made by the Minority Leader of the House of Representatives.
 
-&emsp;&emsp;(C) Six members (two from each class of members described in subparagraphs (D), (E), and (F) of paragraph (1)) shall be appointed by the President pro tempore of the Senate, of whom three members (one from each class of members described in subparagraphs (D), (E), and (F) of paragraph (1))shall be selected from recommendations made by the Majority Leader of the Senate and three members (one from each class of members described in subparagraphs (D), (E), and (F) of paragraph (1)) shall be selected from recommendations made by the Minority Leader of the Senate.
+&emsp;&emsp;(C) Six members (two from each class of members described in subparagraphs (D), (E), and (F) of paragraph (1)) shall be appointed by the President pro tempore of the Senate, of whom three members (one from each class of members described in subparagraphs (D), (E), and (F) of paragraph (1)) shall be selected from recommendations made by the Majority Leader of the Senate and three members (one from each class of members described in subparagraphs (D), (E), and (F) of paragraph (1)) shall be selected from recommendations made by the Minority Leader of the Senate.
 
 #### (4) Ex officio nonvoting members
 
@@ -132,7 +132,7 @@ Notwithstanding section 1342 of title 31, the National Board is authorized, in c
 
 #### (2) Staff of Federal agencies
 
-&emsp;Upon the request of the National Board, the head of any Federal agency of the UnitedStates may detail to the National Board, on a reimbursable basis, any of the personnel of such Federal agency to assist the National Board in carrying out this subchapter. Such detail shall be without interruption or loss of civil service status or privilege.
+&emsp;Upon the request of the National Board, the head of any Federal agency of the United States may detail to the National Board, on a reimbursable basis, any of the personnel of such Federal agency to assist the National Board in carrying out this subchapter. Such detail shall be without interruption or loss of civil service status or privilege.
 
 #### (h) Conflict of interest
 

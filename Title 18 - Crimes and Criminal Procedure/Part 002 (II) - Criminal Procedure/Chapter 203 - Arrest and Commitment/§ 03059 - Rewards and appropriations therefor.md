@@ -70,7 +70,9 @@ The criminal laws of the United States, referred to in subsec. (a)(1), are class
 
 Pub. L. 104–19, title III, §3001, July 27, 1995, 109 Stat. 250, provided that: “Any funds made available to the Attorney General heretofore or hereafter in any Act shall not be subject to the spending limitations contained in sections 3059 and 3072 of title 18, United States Code: <i>Provided</i>, That any reward of $100,000 or more, up to a maximum of $2,000,000, may not be made without the personal approval of the President or the Attorney General, and such approval may not be delegated.”
 
-Similar provisions were contained in the following appropriations acts:
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §106\], Nov. 29, 1999, 113 Stat. 1535, 1501A–19.
 
 Pub. L. 105–277, div. A, §101(b) \[title I, §106\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–66.
 

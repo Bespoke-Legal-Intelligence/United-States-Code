@@ -6,7 +6,7 @@ Whenever a diplomatic or consular officer of the United States has reason to bel
 
 #### References in Text
 
-Chapter IV of the Nationality Act of 1940, as amended, referred to in text, which was classified to sections800 to 810 of this title, was repealed by section 403(a)(42) of act June 27, 1952.
+Chapter IV of the Nationality Act of 1940, as amended, referred to in text, which was classified to sections 800 to 810 of this title, was repealed by section 403(a)(42) of act June 27, 1952.
 
 #### Codification
 

@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(I) the biological product that is the subject of the application is safe, pure, and potent; and
 
-&emsp;&emsp;(II) the facility in which the biological product is manufactured, processed, packed, or held meets standards designed to assure that the biological product continues to be safe, pure, and potent; and
+&emsp;&emsp;(II) the facility in which the biological product is manufactured, processed, packed,or held meets standards designed to assure that the biological product continues to be safe, pure, and potent; and
 
 &emsp;(ii) if the applicant (or other appropriate person) consents to the inspection of the facility that is the subject of the application, in accordance with subsection (c) of this section.
 
@@ -74,7 +74,7 @@ In this section, the term “biological product” means a virus, therapeutic se
 
 The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] applies to a biological product subject to regulation under this section, except that a product for which a license has been approved under subsection (a) shall not be required to have an approved application under section 505 of such Act \[21 U.S.C. 355\].
 
-(July 1, 1944, ch. 373, title III, §351, 58 Stat. 702; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 85–881, §2, Sept. 2, 1958, 72 Stat. 1704; Pub. L. 91–515, title II, §291, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–660, title I, §105(a), title III, §315, Nov. 14, 1986, 100 Stat. 3751, 3783; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 104–134, title II, §§2102(d)(2), 2104, Apr. 26, 1996, 110 Stat. 1321–319,1321–320; Pub. L. 105–115, title I, §123(a)–(d), (g), Nov. 21, 1997, 111 Stat. 2323, 2324.)
+(July 1, 1944, ch. 373, title III, §351, 58 Stat. 702; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 85–881, §2, Sept. 2, 1958, 72 Stat. 1704; Pub. L. 91–515, title II, §291, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–660, title I, §105(a), title III, §315, Nov. 14, 1986, 100 Stat. 3751, 3783; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 104–134, title II, §§2102(d)(2), 2104, Apr. 26, 1996, 110 Stat. 1321–319, 1321–320; Pub. L. 105–115, title I, §123(a)–(d), (g), Nov. 21, 1997, 111 Stat. 2323, 2324.)
 
 #### References in Text
 
@@ -84,7 +84,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (g), (h), and 
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–115, §123(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to intrastate and interstate traffic in biological products and suspension or revocation of licenses as affecting prior sales.
+1997—Subsec. (a). Pub. L. 105–115, §123(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a)related to intrastate and interstate traffic in biological products and suspension or revocation of licenses as affecting prior sales.
 
 Subsec. (b). Pub. L. 105–115, §123(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No person shall falsely label or mark any package or container of any virus, serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or other product aforesaid; nor alter any label or mark on any package or container of any virus, serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or other product aforesaid so as to falsify such label or mark.”
 
@@ -140,7 +140,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(3) the transfer and possession of potentially hazardous biological agents should be regulated to protect public health and safety; and
 
-&emsp;“(4) efforts to protect the public from exposure to such agents should ensure that individuals andgroups with legitimate objectives continue to have access to such agents for clinical and research purposes.
+&emsp;“(4) efforts to protect the public from exposure to such agents should ensure that individuals and groups with legitimate objectives continue to have access to such agents for clinical and research purposes.
 
 “(b)
 

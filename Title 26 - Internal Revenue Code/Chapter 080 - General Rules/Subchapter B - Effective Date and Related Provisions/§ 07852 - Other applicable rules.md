@@ -38,7 +38,7 @@ The Privacy Act of 1974, referred to in subsec. (e), is Pub. L. 93–579, Dec. 3
 
 #### Amendments
 
-1988—Subsec. (d). Pub. L. 100–647 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No provision of this title shall apply in any case where its application would be contrary to any treaty obligation of the United States in effect on the date of enactment of this title.”
+1988—Subsec. (d). Pub. L. 100–647 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No provision of this title shall apply in any casewhere its application would be contrary to any treaty obligation of the United States in effect on the date of enactment of this title.”
 
 1976—Subsec. (e). Pub. L. 94–455 added subsec. (e).
 

@@ -42,7 +42,7 @@ No State may enforce, or attempt to enforce, any State law or regulation relatin
 
 &emsp;(A) such determination shall be treated, for purposes of applying this subchapter beyond the territory of the State, as a determination made in accordance with section 1373 of this title and as an applicable waiver under section 1371(a)(3) of this title;
 
-&emsp;(B) the Secretary shall regulate, without regard to this section other than the allocations specified under such an agreement, the taking of the species—
+&emsp;(B) the Secretary shall regulate, without regard to this section other than the allocationsspecified under such an agreement, the taking of the species—
 
 &emsp;&emsp;(i) incidentally in the course of commercial fishing operations (whether provided for under section 1371(a)(2) or (4) of this title), or in the course of other specified activities provided for under section 1371(a)(5) of this title, in the zone described in section 1362(14)(B) <sup>1</sup> of this title, and
 
@@ -72,7 +72,7 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 (1) If the range of a species with respect to which a determination under paragraph (1)(C)(i) of subsection (b) of this section is made extends beyond the territorial waters of the State, the State agency and the Secretary (who shall first coordinate with the Marine Mammal Commission and the appropriate Regional Fishery Management Council established under section 1852 of this title) shall enter into a cooperative allocation agreement providing procedures for allocating, on a timely basis, such of the number of animals, as determined under paragraph (1)(C)(i)(II) of subsection (b) of this section, as may be appropriate with priority of allocation being given firstly to taking for subsistence uses in the case of the State of Alaska, and secondly to taking for purposes provided for under section 1371(a) of this title within the zone described in section 1362(14)(B) <sup>2</sup> of this title.
 
-(2) If the State agency requests the Secretary to regulate the taking of a species to which paragraph (1) applies within the zone described in section 1362(14)(B) <sup>2</sup> of this title for subsistence uses or for hunting, or both, in a manner consistent with the regulation by the State agency of such taking within the State, the Secretary shall adopt, and enforce within such zone,such of the State agency's regulatory provisions as the Secretary considers to be consistent with his administration of section 1371(a) of this title within such zone. The Secretary shall adopt such provisions through the issuance of regulations under section 553 of title 5, and with respect to such issuance the Regulatory Flexibility Act \[5 U.S.C. 601 et seq.\], the Paperwork Reduction Act,<sup>2</sup> Executive Order Numbered 12291, dated February 17, 1981, and the thirty-day notice requirement in subsection (d) of such section 553 shall not apply. For purposes of sections 1375, 1376, and 1377 of this title, such regulations shall be treated as having been issued under this subchapter.
+(2) If the State agency requests the Secretary to regulate the taking of a species to which paragraph (1) applies within the zone described in section 1362(14)(B) <sup>2</sup> of this title for subsistence uses or for hunting, or both, in a manner consistent with the regulation by the State agency of such taking within the State, the Secretary shall adopt, and enforce within such zone, such of the State agency's regulatory provisions as the Secretary considers to be consistent with his administration of section 1371(a) of this title within such zone. The Secretary shall adopt such provisions through the issuance of regulations under section 553 of title 5, and with respect to such issuance the Regulatory Flexibility Act \[5 U.S.C. 601 et seq.\], the Paperwork Reduction Act,<sup>2</sup> Executive Order Numbered 12291, dated February 17, 1981, and the thirty-day notice requirement in subsection (d) of such section 553 shall not apply. For purposes of sections 1375, 1376, and 1377 of this title, such regulations shall be treated as having been issued under this subchapter.
 
 #### (e) Revocation of transfer of management authority
 
@@ -80,7 +80,7 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 (2)(A) The Secretary may not revoke a transfer of management authority under paragraph (1) unless—
 
-&emsp;(i) the Secretary provides to the State a written notice of intent to revoke together with a statement, in detail, of those actions, or failures to act, on which such intent is based; and
+&emsp;(i) the Secretary provides to the State a written notice of intent to revoke togetherwith a statement, in detail, of those actions, or failures to act, on which such intent is based; and
 
 &emsp;(ii) during the ninety-day period after the date of the notice of intent to revoke—
 

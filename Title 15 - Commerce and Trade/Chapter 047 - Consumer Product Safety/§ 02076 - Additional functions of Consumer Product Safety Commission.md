@@ -36,7 +36,7 @@ The Commission shall also have the power—
 
 #### (c) Noncompliance with subpena or Commission order; contempt
 
-Any United States district court within the jurisdiction of which any inquiry is carried on,may, upon petition by the Commission (subject to subsection (b)(7) of this section) or by the Attorney General, in case of refusal to obey a subpena or order of the Commission issued under subsection (b) of this section, issue an order requiring compliance therewith; and any failure to obey the order of the court may be punished by the court as a contempt thereof.
+Any United States district court within the jurisdiction of which any inquiry is carried on, may, upon petition by the Commission (subject to subsection (b)(7) of this section) or by the Attorney General, in case of refusal to obey a subpena or order of the Commission issued under subsection (b) of this section, issue an order requiring compliance therewith; and any failure to obey the order of the court may be punished by the court as a contempt thereof.
 
 #### (d) Disclosure of information
 
@@ -66,7 +66,7 @@ The Commission may plan, construct, and operate a facility or facilities suitabl
 
 #### (j) Report to President and Congress
 
-The Commission shall prepare and submit to the President and the Congress at the beginning of each regular session of Congress a comprehensive report on the administration of this chapter for the preceding fiscal year. Such report shall include—
+The Commission shall prepare and submit to the President and the Congress at the beginningof each regular session of Congress a comprehensive report on the administration of this chapter for the preceding fiscal year. Such report shall include—
 
 &emsp;(1) a thorough appraisal, including statistical analyses, estimates, and long-term projections, of the incidence of injury and effects to the population resulting from consumer products, with a breakdown, insofar as practicable, among the various sources of such injury;
 

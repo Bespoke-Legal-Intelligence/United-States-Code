@@ -36,7 +36,7 @@ Nothing in this section shall be deemed to affect, diminish, or eliminate the pe
 
 #### (i) Federal payment
 
-In the event any of the Federal payments are not paid as set forth in section 941c of this title, such failure to pay shall give rise to a cause of action by the Tribe against the United States for money damages for the amount authorized to be paid to the Tribe in section 941c(a) of this title in settlement of the Tribe's claim, and the Tribe is authorized to bring an action in the United States Court of Claims for such funds plus applicable interest. The United States hereby waives any affirmative defense to such action.
+In the event any of the Federal payments are not paid as set forth in section 941c of this title, such failure to pay shall give rise to a cause of action by the Tribe against the United States for money damages for the amount authorized to be paid to the Tribe in section 941c(a) of thistitle in settlement of the Tribe's claim, and the Tribe is authorized to bring an action in the United States Court of Claims for such funds plus applicable interest. The United States hereby waives any affirmative defense to such action.
 
 #### (j) State payment
 

@@ -1,6 +1,6 @@
 ### §9308. International cooperation; examination of impact on national magnetic fusion program; exploration of prospects for joint funding in construction of fusion engineering device; report to Congressional committees on results of examination and exploration
 
-(a)(1) The Secretary in consultation with the Secretary of State shall actively seek to enter into or to strengthen existing international cooperative agreements in magnetic fusion research and development activities of mutual benefit to all parties.
+(a)(1) The Secretary in consultation with the Secretary of State shall actively seek to enterinto or to strengthen existing international cooperative agreements in magnetic fusion research and development activities of mutual benefit to all parties.
 
 (2) The Secretary shall seek to achieve equitable exchange of information, data, scientific personnel, and other considerations in the conduct of cooperative efforts with technologically advanced nations.
 

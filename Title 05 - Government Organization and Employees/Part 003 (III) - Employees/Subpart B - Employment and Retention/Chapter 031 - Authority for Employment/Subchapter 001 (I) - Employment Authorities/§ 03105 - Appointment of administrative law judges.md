@@ -56,7 +56,7 @@ Functions vested by section 551 et seq. of this title in hearing examiners emplo
 
 #### Hearing Examiners Appointed for Indian Probate Work
 
-Hearing examiners appointed for Indian probate work pursuant to former section 372–1 of Title 25, Indians, having met qualifications required for appointment pursuant to this section, deemed to have been appointed pursuant to this section, see section 12(b) of Pub. L. 101–301, set out as a Savings Provision note under former section 372–1 of Title 25.
+Hearing examiners appointed for Indian probate work pursuant to former section 372–1 of Title 25, Indians,having met qualifications required for appointment pursuant to this section, deemed to have been appointed pursuant to this section, see section 12(b) of Pub. L. 101–301, set out as a Savings Provision note under former section 372–1 of Title 25.
 
 #### Cross References
 

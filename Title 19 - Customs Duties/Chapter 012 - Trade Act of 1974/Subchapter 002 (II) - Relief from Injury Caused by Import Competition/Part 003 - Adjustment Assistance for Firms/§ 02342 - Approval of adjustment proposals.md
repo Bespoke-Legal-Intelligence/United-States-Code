@@ -2,7 +2,7 @@
 
 #### (a) Application for adjustment assistance
 
-A firm certified under section 2341 of this title as eligible to apply for adjustment assistance may, at any time within 2 years after the date of such certification, file an application with the Secretary for adjustment assistance under this part. Such application shall include a proposal for the economic adjustment of such firm.
+A firm certified under section 2341 of this title as eligible to apply for adjustment assistance may, at any time within 2 years after the dateof such certification, file an application with the Secretary for adjustment assistance under this part. Such application shall include a proposal for the economic adjustment of such firm.
 
 #### (b) Technical assistance
 
@@ -18,7 +18,7 @@ A firm certified under section 2341 of this title as eligible to apply for adjus
 
 #### (c) Termination of certification of eligibility
 
-Whenever the Secretary determines that any firm no longer requires assistance under this part, he shall terminate the certification of eligibility of such firm and promptly have noticeof such termination published in the Federal Register. Such termination shall take effect on the termination date specified by the Secretary.
+Whenever the Secretary determines that any firm no longer requires assistance under this part, he shall terminate the certification of eligibility of such firm and promptly have notice of such termination published in the Federal Register. Such termination shall take effect on the termination date specified by the Secretary.
 
 (Pub. L. 93–618, title II, §252, Jan. 3, 1975, 88 Stat. 2030; Pub. L. 99–272, title XIII, §13006(a)(1), (2), Apr. 7, 1986, 100 Stat. 304.)
 

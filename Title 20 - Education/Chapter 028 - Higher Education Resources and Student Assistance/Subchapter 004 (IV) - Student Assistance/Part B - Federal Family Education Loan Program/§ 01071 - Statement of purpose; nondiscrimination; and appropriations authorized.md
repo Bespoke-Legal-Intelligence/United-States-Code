@@ -132,7 +132,7 @@ Effective Dates.—The changes made in part B of title IV of the Act \[20 U.S.C.
 
 “(c)
 
-Changes Effective Without Regard to Regulations; Republication of Regulations.—The changes made in part B of title IV of the Act \[20 U.S.C. 1071 et seq.\] by the amendment made by subsection (a) of this section shall be effective in accordance with subsection (b) of this section without regard to whether such changes are reflected in the regulations prescribed by the Secretary of Education for the purpose of such part.
+Changes Effective Without Regard to Regulations; Republication of Regulations.—The changes made in part B of title IV of the Act \[20 U.S.C. 1071 etseq.\] by the amendment made by subsection (a) of this section shall be effective in accordance with subsection (b) of this section without regard to whether such changes are reflected in the regulations prescribed by the Secretary of Education for the purpose of such part.
 
 “(d)
 

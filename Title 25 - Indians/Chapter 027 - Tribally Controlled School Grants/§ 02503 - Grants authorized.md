@@ -28,7 +28,7 @@
 
 (2) Funds provided under any grant made under this chapter may not be used in connection with religious worship or sectarian instruction.
 
-(3) Funds provided under any grant made under this chapter may not be expended for administrative costs (as defined under section 1128A(e)(1) <sup>1</sup> of the Education Amendments of1978) in excess of the amount generated for such costs under section 1128A <sup>1</sup> of such Act.
+(3) Funds provided under any grant made under this chapter may not be expended for administrative costs (as defined under section 1128A(e)(1) <sup>1</sup> of the Education Amendments of 1978) in excess of the amount generated for such costs under section 1128A <sup>1</sup> of such Act.
 
 #### (c) Limitation on transfer of funds among schoolsites
 
@@ -100,7 +100,7 @@ Subsec. (f). Pub. L. 100–427, §10(b)(2), (3), struck out “Indian” after �
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2007, 2504 of this title; title 20 section 5895.
+This section is referred to in sections 2007, 2504 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

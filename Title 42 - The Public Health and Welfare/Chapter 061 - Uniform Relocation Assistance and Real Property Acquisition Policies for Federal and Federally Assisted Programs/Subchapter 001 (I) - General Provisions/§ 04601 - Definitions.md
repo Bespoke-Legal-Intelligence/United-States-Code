@@ -30,7 +30,7 @@ As used in this chapter—
 
 &emsp;(i) a person who has been determined, according to criteria established by the head of the lead agency, to be either in unlawful occupancy of the displacement dwelling or to have occupied such dwelling for the purpose of obtaining assistance under this chapter;
 
-&emsp;(ii) in any case in which the displacing agency acquires property for a program or project, any person (other than a person who was an occupant of such property at the time it was acquired) who occupies such property on a rental basis for a short term or a period subject to termination when the property is needed for the program or project.
+&emsp;(ii) in any case in which the displacing agency acquires property for a program or project, any person (other than a person who was an occupant of such property at the time it was acquired) who occupies such property on arental basis for a short term or a period subject to termination when the property is needed for the program or project.
 
 (7) The term “business” means any lawful activity, excepting a farm operation, conducted primarily—
 
@@ -46,7 +46,7 @@ As used in this chapter—
 
 (9) The term “mortgage” means such classes of liens as are commonly given to secure advances on, or the unpaid purchase price of, real property, under the laws of the State in which the real property is located, together with the credit instruments, if any, secured thereby.
 
-(10) The term “comparable replacement dwelling” means any dwelling that is (A) decent, safe, and sanitary; (B) adequate in size to accommodate the occupants; (C) within the financial means of the displaced person; (D) functionally equivalent; (E) in an area not subject to unreasonable adverse environmental conditions; and\(F) in a location generally not less desirable than the location of the displaced person's dwelling with respect to public utilities, facilities, services, and the displaced person's place of employment.
+(10) The term “comparable replacement dwelling” means any dwelling that is (A) decent, safe, and sanitary; (B) adequate in size to accommodate the occupants; (C) within the financial means of the displaced person; (D) functionally equivalent; (E) in an area not subject to unreasonable adverse environmental conditions; and (F) in a location generally not less desirable than the location of the displaced person's dwelling with respect to public utilities, facilities, services, and the displaced person's place of employment.
 
 (11) The term “displacing agency” means any Federal agency carrying out a program or project, and any State, State agency, or person carrying out a program or project with Federal financial assistance, which causes a person to be a displaced person.
 
@@ -86,7 +86,7 @@ Section 221 of Pub. L. 91–646 provided that:
 
 “(b) Until July 1, 1972, sections 210 and 305 \[sections 4630 and 4655 of this title\] shall be applicable to a State only to the extent that such State is able under its laws to comply with such sections. After July 1, 1972, such sections \[sections 4630 and 4655 of this title\] shall be completely applicable to all States.
 
-“(c) The repeals made by paragraphs (4) \[repealing section 1606(b) of former Title 49, Transportation\], (5) \[repealing section 1465 of this title\], (6) \[repealing section 1415(7)(b)(iii) and (8) second sentence of this title\], (8) \[repealing section 3074 of this title\], (9) \[repealing section 3307(b), (c) of this title\], (10) \[repealing chapter 5 (sections 501–511) of Title 23, Highways\], (11) \[repealing provisions set out as notes under sections 501 and 510 of Title 23\], and (12) of section 220(a) of this title and section 306 of title III \[repealing sections 3071 to 3073 of this title, section 141 of Title 23, and section 596 of Title 33, Navigation and Navigable Waters\] shall not apply to any State so long as sections 210 and 305 \[sections 4630 and 4655 of this title\] are not applicable in such State.”
+“(c) The repeals made by paragraphs (4) \[repealing section 1606(b) of former Title 49, Transportation\], (5)\[repealing section 1465 of this title\], (6) \[repealing section 1415(7)(b)(iii) and (8) second sentence of this title\], (8) \[repealing section 3074 of this title\], (9) \[repealing section 3307(b), (c) of this title\], (10) \[repealing chapter 5 (sections 501–511) of Title 23, Highways\], (11) \[repealing provisions set out as notes under sections 501 and 510 of Title 23\], and (12) of section 220(a) of this title and section 306 of title III \[repealing sections 3071 to 3073 of this title, section 141 of Title 23, and section 596 of Title 33, Navigation and Navigable Waters\] shall not apply to any State so long as sections 210 and 305 \[sections 4630 and 4655 of this title\] are not applicable in such State.”
 
 #### Short Title of 1987 Amendment
 

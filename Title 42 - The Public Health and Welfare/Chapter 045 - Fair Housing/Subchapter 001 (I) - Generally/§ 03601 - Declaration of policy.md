@@ -32,7 +32,7 @@ Pub. L. 100–430, §12, Sept. 13, 1988, 102 Stat. 1636, provided that: “Nothi
 
 #### Initial Rulemaking
 
-Pub. L. 100–430, §13(b), Sept. 13, 1988, 102 Stat. 1636, provided that: “In consultation with other appropriate Federal agencies, the Secretary shall, not later than the 180th day after the date of the enactment of this Act \[Sept. 13, 1988\], issue rules to implement title VIII \[this subchapter\] as amended by this Act \[see Short Title of 1988 Amendment note above\]. The Secretaryshall give public notice and opportunity for comment with respect to such rules.”
+Pub. L. 100–430, §13(b), Sept. 13, 1988, 102 Stat. 1636, provided that: “In consultation with other appropriate Federal agencies, the Secretary shall, not later than the 180th day after the date of the enactment of this Act \[Sept. 13, 1988\], issue rules to implement title VIII \[this subchapter\] as amended by this Act \[see Short Title of 1988 Amendment note above\]. The Secretary shall give public notice and opportunity for comment with respect to such rules.”
 
 #### Federally Protected Activities; Penalties
 

@@ -16,7 +16,7 @@ Section is comprised of fifth and sixth pars. of section 16 of act Dec. 23, 1913
 
 1968—Pub. L. 90–349 added Special Drawing Right certificates to the types of deposits which Federal Reserve banks may use in reducing their liability for outstanding Federal Reserve notes.
 
-Pub. L. 90–269 repealed second par. (sixth par, of section 16 of Act Dec. 23, 1913) which provided that the Federal Reserve agent shall hold the gold certificates and lawful money for exchange for the outstanding Federal Reserve notes and that upon the request of the Secretary of the Treasury, the Board of Governors shall require the agent to transmit to the Treasurer of the United States as many gold certificates held by him as collateral as may be required for the exclusive purpose of the redemption of such Federal Reserve notes.
+Pub. L. 90–269 repealed second par. (sixth par, of section 16 of Act Dec. 23, 1913) which provided that the Federal Reserve agent shall hold the gold certificates and lawful money for exchange for the outstanding Federal Reserve notes and that upon the request of theSecretary of the Treasury, the Board of Governors shall require the agent to transmit to the Treasurer of the United States as many gold certificates held by him as collateral as may be required for the exclusive purpose of the redemption of such Federal Reserve notes.
 
 1961—Pub. L. 87–66 provided for reduction of liability for outstanding notes by payment of notes of series prior to 1928.
 

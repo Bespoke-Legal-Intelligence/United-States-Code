@@ -14,7 +14,7 @@ Of the funds allocated to a substate grantee or to the Governor under this part 
 
 #### (c) Administrative cost limitation
 
-Of the funds allocated to a substate grantee or to the Governor under this part for any program year, not more than 15 percent may be expended to cover the administrative cost of programs. For purposes of this subsection, administrative cost does not include the cost of activities under section 1661c(b) of this title.
+Of the funds allocated to a substate grantee or to the Governor under this part for any program year, not more than 15 percent may be expended to cover the administrative cost of programs. For purposes of this subsection, administrativecost does not include the cost of activities under section 1661c(b) of this title.
 
 #### (d) Combination of funds
 

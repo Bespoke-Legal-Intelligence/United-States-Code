@@ -36,7 +36,7 @@ As used in this section:
 
 &emsp;&emsp;(A) which rate is above the maximum efficient rate of production established for such field; and
 
-&emsp;&emsp;(B) which may be maintained for a temporary period of less than 90 days withoutreservoir damage and without significant loss of ultimate recovery of crude oil or natural gas, or both, from such field.
+&emsp;&emsp;(B) which may be maintained for a temporary period of less than 90 days without reservoir damage and without significant loss of ultimate recovery of crude oil or natural gas, or both, from such field.
 
 #### (f) Naval Petroleum Reserves
 

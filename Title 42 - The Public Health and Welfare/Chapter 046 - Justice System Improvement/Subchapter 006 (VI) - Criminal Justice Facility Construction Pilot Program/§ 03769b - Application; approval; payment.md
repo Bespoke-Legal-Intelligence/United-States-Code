@@ -2,7 +2,7 @@
 
 #### (a) Terms and conditions of application
 
-A State, unit of local government, or combination of such units desiring to receive assistance under this subchapter for a correctional facility project shall submit to the Director an application which shall include—
+A State, unit of local government, or combination of such units desiring to receive assistance under this subchapter for a correctional facilityproject shall submit to the Director an application which shall include—
 
 &emsp;(1) reasonable assurance that the applicant has developed an acceptable plan for reducing overcrowding and improving conditions of confinement in its correctional facilities and has implemented, or is in the process of implementing, such plan through legislative, executive, or judicial initiatives;
 
@@ -47,4 +47,8 @@ A prior section 603 of Pub. L. 90–351 was renumbered section 503 and classifie
 #### Amendments
 
 1994—Subsec. (a)(6). Pub. L. 103–322 substituted “section 3769d” for “section 3769c”.
+
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
 

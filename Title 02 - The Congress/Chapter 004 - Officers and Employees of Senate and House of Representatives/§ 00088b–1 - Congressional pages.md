@@ -24,7 +24,7 @@ Repeal of subsecs. (c) and (d) of this section is based on section 304(a) of H.R
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–186, §204(36)(A), substituted “the period specified in writing at the time of the appointment” for “a period of not less than two months”.
+1996—Subsec. (a)(1). Pub. L. 104–186, §204(36)(A), substituted “the period specified in writing at the time ofthe appointment” for “a period of not less than two months”.
 
 Subsec. (b). Pub. L. 104–186, §204(36)(B), substituted a period for “; or” at end of par. (2) and struck out concluding provisions which read as follows: “(except in the case of a chief page, telephone page, or riding page) during any session of the Congress which begins after he has attained the age of eighteen years.”
 

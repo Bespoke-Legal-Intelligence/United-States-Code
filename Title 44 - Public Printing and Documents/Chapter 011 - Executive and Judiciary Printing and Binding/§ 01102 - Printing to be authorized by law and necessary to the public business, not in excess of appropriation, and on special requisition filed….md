@@ -16,5 +16,5 @@ This section incorporates the first paragraph of former section 213 and the firs
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 

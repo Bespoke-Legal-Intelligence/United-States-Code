@@ -10,7 +10,7 @@
 
 &emsp;(2) by the Postal Service, alleging that one or more labor organizations has presented to it a claim to be recognized as the representative;
 
-> the National Labor Relations Board shall investigate such petition and, if it has reasonable cause to believe that a question of representation exists, shall provide for an appropriate hearing upon due notice. Such hearing may be conducted by an officer or employee of the National Labor Relations Board, who shall not make any recommendations with respect thereto. If the National Labor Relations Board finds upon the record of such hearing that such a question of representation exists, it shall direct an election by secret ballot and shall certify the results thereof.
+> the National Labor Relations Board shall investigate such petition and, if it has reasonable cause to believe that a question of representation exists, shall provide for an appropriate hearing upon due notice. Such hearing may be conducted by an officer or employee of the National Labor Relations Board, who shall not make any recommendations with respect thereto. If the National Labor Relations Board finds upon the record of such hearing that such aquestion of representation exists, it shall direct an election by secret ballot and shall certify the results thereof.
 
 (d) A petition filed under subsection (c)(1) of this section shall be accompanied by a statement signed by at least 30 percent of the employees in the appropriate unit stating that they desire that an election be conducted for either of the purposes set forth in such subsection.
 

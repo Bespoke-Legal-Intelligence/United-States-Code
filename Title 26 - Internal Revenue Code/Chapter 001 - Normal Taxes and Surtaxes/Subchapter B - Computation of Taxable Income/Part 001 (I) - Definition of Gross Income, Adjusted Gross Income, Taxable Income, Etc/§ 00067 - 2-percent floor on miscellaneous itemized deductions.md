@@ -142,7 +142,7 @@ Section 4011(b) of Pub. L. 100–647 provided that: “The amendment made by sub
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note under section 1 of this title.
+Section applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set outas an Effective Date of 1986 Amendment note under section 1 of this title.
 
 #### 1-Year Delay in Treatment of Publicly Offered Regulated Investment Companies Under 2-Percent Floor
 
@@ -150,7 +150,7 @@ Pub. L. 100–203, title X, §10104(a), Dec. 22, 1987, 101 Stat. 1330–386, pro
 
 “(1)
 
-General rule.—Section 67(c) of the Internal Revenue Code of 1986 to the extent it relates to indirectdeductions through a publicly offered regulated investment company shall apply only to taxable years beginning after December 31, 1987.
+General rule.—Section 67(c) of the Internal Revenue Code of 1986 to the extent it relates to indirect deductions through a publicly offered regulated investment company shall apply only to taxable years beginning after December 31, 1987.
 
 “(2)
 

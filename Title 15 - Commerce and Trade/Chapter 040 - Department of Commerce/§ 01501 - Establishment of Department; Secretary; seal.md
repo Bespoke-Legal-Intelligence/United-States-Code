@@ -1,6 +1,6 @@
 ### §1501. Establishment of Department; Secretary; seal
 
-There shall be at the seat of government an executive department to be known as the Department of Commerce, and a Secretary of Commerce, who shall be the head thereof, who shall be appointed by the President, by and with theadvice and consent of the Senate, and whose term and tenure of office shall be like that of the heads of the other executive departments; and the provisions of title 4 of the Revised Statutes, including all amendments thereto, shall be applicable to said department. The said Secretary shall cause a seal of office to be made for the said department of such device as the President shall approve, and judicial notice shall be taken of the said seal.
+There shall be at the seat of government an executive department to be known as the Department of Commerce, and a Secretary of Commerce, who shall be the head thereof, who shall be appointed by the President, by and with the advice and consent of the Senate, and whose term and tenure of office shall be like that of the heads of the other executive departments; and the provisions of title 4 of the Revised Statutes, including all amendments thereto, shall be applicable to said department. The said Secretary shall cause a seal of office to be made for the said department of such device as the President shall approve, and judicial notice shall be taken of the said seal.
 
 (Feb. 14, 1903, ch. 552, §1, 32 Stat. 825; Feb. 17, 1909, ch. 137, §§1, 2, 35 Stat. 626; Mar. 4, 1909, ch. 297, §1, 35 Stat. 861; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; Mar. 3, 1917, ch. 163, §1, 39 Stat. 1111; Mar. 4, 1925, ch. 549, §4, 43 Stat. 1301.)
 
@@ -10,7 +10,7 @@ Title 4 of the Revised Statutes, referred to in text, was entitled “Provisions
 
 #### Codification
 
-Section was formerly classified to section 591 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 591 of Title 5 prior to the general revision and enactment of Title5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
 #### Transfer of Functions
 
@@ -62,7 +62,7 @@ I transmit herewith Reorganization Plan No. 5 of 1950, prepared in accordance wi
 
 After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 5 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
 
-I have found and hereby declare that it is necessary to include in the accompanying reorganization plan, byreason of reorganizations made thereby, provisions for the appointment and compensation of an Administrative Assistant Secretary of Commerce. The rate of compensation fixed for this officer is that which I have found to prevail in respect to comparable officers in the executive branch of the Government.
+I have found and hereby declare that it is necessary to include in the accompanying reorganization plan, by reason of reorganizations made thereby, provisions for the appointment and compensation of an Administrative Assistant Secretary of Commerce. The rate of compensation fixed for this officer is that which I have found to prevail in respect to comparable officers in the executive branch of the Government.
 
 The taking effect of the reorganizations included in this plan may not in itself result in substantial immediate savings. However, many benefits in improved operations are probable during the next years which will result in a reduction in expenditures as compared with those that would be otherwise necessary. An itemization of these reductions in advance of actual experience under this plan is not practicable.
 
@@ -72,7 +72,7 @@ The White House, March 13, 1950.
 
 #### Federal Maritime Board, and Maritime Functions of Secretary of Commerce
 
-Section 307 of Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix to Title 5, Government Organization and Employees, provided that the functions transferred by the provisions of that Plan should not be subject to the provisions of Reorg. Plan No. 5 of 1950, set out above. Said Reorg. Plan No. 21 of 1950 created, within the Department of Commerce, the Federal Maritime Board, and the Maritime Administration, the latter, with a Maritime Administrator at its head. It abolished the United States Maritime Commission, transferring some of its functions and some of the functions of its Chairman to said Federal Maritime Board. It transferred the remainder of the functions of that Commission and its Chairman to the Secretary of Commerce, with power vested in him to authorize their performance by said Maritime Administrator.
+Section 307 of Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix to Title 5, Government Organization and Employees, provided that the functions transferred by the provisions of that Plan should not be subject to the provisions of Reorg. Plan No. 5 of 1950, set out above. Said Reorg. Plan No. 21 of 1950 created, within the Department of Commerce, the Federal Maritime Board, and the Maritime Administration, the latter, with a Maritime Administrator at its head. It abolished the United States Maritime Commission, transferring some of its functions and some of the functions of its Chairman to said Federal Maritime Board. It transferred the remainder of the functions of that Commission and its Chairman to the Secretary of Commerce, with powervested in him to authorize their performance by said Maritime Administrator.
 
 #### Cross References
 

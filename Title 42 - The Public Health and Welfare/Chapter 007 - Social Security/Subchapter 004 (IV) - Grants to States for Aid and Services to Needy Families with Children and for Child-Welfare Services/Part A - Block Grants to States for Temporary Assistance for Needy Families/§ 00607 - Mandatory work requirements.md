@@ -215,11 +215,11 @@ As used in this section, the term “work activities” means—
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), an adult in a family receiving assistance under a State program funded under this part attributable to funds provided by the Federal Government may fill a vacant employment position in order to engage in a work activity described in subsection (d) of this section.
+&emsp;Subject to paragraph (2), an adult in a family receiving assistance under a State program funded under this part attributable to funds provided by the Federal Government may filla vacant employment position in order to engage in a work activity described in subsection (d) of this section.
 
 #### (2) No filling of certain vacancies
 
-&emsp;No adult in a work activity described in subsection (d) of this section which is funded, inwhole or in part, by funds provided by the Federal Government shall be employed or assigned—
+&emsp;No adult in a work activity described in subsection (d) of this section which is funded, in whole or in part, by funds provided by the Federal Government shall be employed or assigned—
 
 &emsp;&emsp;(A) when any other individual is on layoff from the same or any substantially equivalent job; or
 
@@ -281,7 +281,7 @@ Subsec. (e)(2). Pub. L. 105–33, §5504(j), substituted “engage in work requi
 
 #### Effective Date of 1997 Amendment
 
-Section 5003(b) of Pub. L. 105–33 provided that: “The amendment made by subsection (a) of this section\[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
+Section 5003(b) of Pub. L. 105–33 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
 
 Amendment by section 5504 of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Permanent ineligibility
 
-Notwithstanding the provisions of section 405(b) <sup>1</sup> but subject to subsection (c) of this section, any alien who applies or has applied for exemption or discharge from training or service in the Armed Forces or in the National Security Training Corps of the United States on the ground that he is an alien, and is or was relieved or discharged from such training or service on such ground, shall be permanently ineligible to become a citizen of the United States.
+Notwithstanding the provisions of section 405(b) <sup>1</sup> but subject to subsection (c) of this section, any alien who applies or has applied for exemption or discharge from training or service in the Armed Forces or in the National Security Training Corps of the United States on the ground that he is an alien, and is or was relieved or discharged from such training or service onsuch ground, shall be permanently ineligible to become a citizen of the United States.
 
 #### (b) Conclusiveness of records
 

@@ -4,5 +4,5 @@ Section, added Pub. L. 98–369, div. A, title I, §75(a), July 18, 1984, 98 Sta
 
 #### Effective Date of Repeal
 
-Repeal effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note under section 1 of this title.
+Repeal effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as an EffectiveDate of 1988 Amendment note under section 1 of this title.
 

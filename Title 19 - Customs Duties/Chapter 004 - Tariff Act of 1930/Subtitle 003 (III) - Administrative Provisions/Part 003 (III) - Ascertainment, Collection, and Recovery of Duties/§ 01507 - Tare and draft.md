@@ -18,7 +18,7 @@ A prior provision relative to the allowance of tare, prohibiting any allowance f
 
 #### Amendments
 
-1988—Pub. L. 100–418 designated existing provision as subsec. (a), substituted “(except as otherwise provided in this section) there shall not be” for “in no case shall there be”, and added subsec. (b).
+1988—Pub. L. 100–418 designated existing provision as subsec. (a), substituted “(except as otherwise providedin this section) there shall not be” for “in no case shall there be”, and added subsec. (b).
 
 #### Effective Date of 1988 Amendment
 

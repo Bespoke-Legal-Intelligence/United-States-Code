@@ -122,7 +122,7 @@ Uniform Applicability.—The regulations shall apply uniformly to the Army, Navy
 
 &emsp;&emsp;“(A) is immediately eligible for retired pay based on military service under any provision of law;
 
-&emsp;&emsp;“(B) is serving as a military technician, as defined in section 8401(30) of title 5, United States Code, and would be immediately eligible for an unreduced annuity under the provisions of subchapter III of chapter 83 of such title, relating to the Civil Service Retirement and Disability System, or the provisions of chapter 84 of such title, relating to the Federal Employees’ Retirement System; or
+&emsp;&emsp;“(B) is serving as a military technician, as defined in section 8401(30) of title 5, United StatesCode, and would be immediately eligible for an unreduced annuity under the provisions of subchapter III of chapter 83 of such title, relating to the Civil Service Retirement and Disability System, or the provisions of chapter 84 of such title, relating to the Federal Employees’ Retirement System; or
 
 &emsp;&emsp;“(C) is eligible for separation pay under section 1174 of title 10, United States Code.
 

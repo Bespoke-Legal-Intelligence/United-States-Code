@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-From funds reserved under section 6661i(b)(2) of this title, the National Institute for Literacy shall disseminate information on scientificallybased reading research and information on subgrantee projects under section 6661d or 6661e of this title that have proven effective. At a minimum, the institute shall disseminate such information to all recipients of Federal financial assistance under subchapters I and VII of this chapter, the Head Start Act \[42 U.S.C. 9831 et seq.\], the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], and the Adult Education and Family Literacy Act \[20 U.S.C. 9201 et seq.\].
+From funds reserved under section 6661i(b)(2) of this title, the National Institute for Literacy shall disseminate information on scientifically based reading research and information on subgrantee projects under section 6661d or 6661e of this title that have proven effective. At a minimum, the institute shall disseminate such information to all recipients of Federal financial assistance under subchapters I and VII of this chapter, the Head Start Act \[42 U.S.C. 9831 et seq.\], the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], and the Adult Education and Family Literacy Act \[20 U.S.C. 9201 et seq.\].
 
 #### (b) Coordination
 
@@ -10,7 +10,7 @@ In carrying out this section, the National Institute for Literacy—
 
 &emsp;(1) shall use, to the extent practicable, information networks developed and maintained through other public and private persons, including the Secretary, the National Center for Family Literacy, and the Readline Program;
 
-&emsp;(2) shall work in conjunction with any panel convened by the National Institute of Child Health and Human Development and the Secretary and any panel convened by the Office of Educational Research and Improvement to assess the current status of research-based knowledge on reading development, including the effectiveness of various approaches to teaching children to read, with respect to determining the criteria by which the National Institute for Literacy judges scientifically based reading research and the design of strategies to disseminate such information; and
+&emsp;(2) shall work in conjunction with any panel convened by the National Institute of ChildHealth and Human Development and the Secretary and any panel convened by the Office of Educational Research and Improvement to assess the current status of research-based knowledge on reading development, including the effectiveness of various approaches to teaching children to read, with respect to determining the criteria by which the National Institute for Literacy judges scientifically based reading research and the design of strategies to disseminate such information; and
 
 &emsp;(3) may assist any State educational agency selected to receive a grant under section 6661b of this title, and that requests such assistance—
 

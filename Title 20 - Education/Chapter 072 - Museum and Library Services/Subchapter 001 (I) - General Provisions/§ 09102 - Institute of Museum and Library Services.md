@@ -66,7 +66,7 @@ Effect on Personnel.—
 
 &emsp;“(1)
 
-In general.—Except as otherwise provided by this section, the transfer pursuant to this section of full-time personnel (except special Government employees) and part-time personnel holding permanent positions shall not cause any such employee to be separated or reduced in grade or compensation for 1 year after the date of transfer of such employee under this section.
+In general.—Except as otherwise provided by this section, the transfer pursuant to this section of full-time personnel (except special Government employees) and part-time personnel holding permanent positions shall not cause any such employee to be separated or reduced in grade or compensation for 1year after the date of transfer of such employee under this section.
 
 &emsp;“(2)
 

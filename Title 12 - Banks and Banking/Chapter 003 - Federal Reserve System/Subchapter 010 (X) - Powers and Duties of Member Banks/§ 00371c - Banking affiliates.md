@@ -90,6 +90,10 @@ For the purpose of this section—
 
 &emsp;&emsp;(D) an asset whose terms have been renegotiated or compromised due to the deteriorating financial condition of the obligor.
 
+&emsp;(11)
+
+Rebuttable presumption of control of portfolio companies.—In addition to paragraph (3), a company or shareholder shall be presumed to control any other company if the company or shareholder, directly or indirectly, or acting through 1 or more other persons, owns or controls 15 percent or more of the equity capital of the other company pursuant to subparagraph (H) or (I) of section 1843(k)(4) of this title or rules adopted under section 122 of the Gramm-Leach-Bliley Act, if any, unless the company or shareholder provides information acceptable to the Board to rebut this presumption of control.
+
 #### (c) Collateral for certain transactions with affiliates
 
 (1) Each loan or extension of credit to, or guarantee, acceptance, or letter of credit issued on behalf of, an affiliate by a member bank or its subsidiary shall be secured at the time of the transaction by collateral having a market value equal to—
@@ -148,19 +152,73 @@ The provisions of this section, except subsection (a)(4) of this section, shall 
 
 &emsp;(7) purchasing from an affiliate a loan or extension of credit that was originated by the member bank and sold to the affiliate subject to a repurchase agreement or with recourse.
 
-#### (e) Rulemaking and additional exemptions
+#### (e) Rules relating to banks with financial subsidiaries
+
+#### (1) Financial subsidiary defined
+
+&emsp;For purposes of this section and section 371c–1 of this title, the term “financial subsidiary” means any company that is a subsidiary of a bank that would be a financial subsidiary of a national bank under section 24a of this title.
+
+#### (2) Financial subsidiary treated as an affiliate
+
+&emsp;For purposes of applying this section and section 371c–1 of this title, and notwithstanding subsection (b)(2) of this section or section 371c–1(d)(1) of this title, a financial subsidiary of a bank—
+
+&emsp;&emsp;(A) shall be deemed to be an affiliate of the bank; and
+
+&emsp;&emsp;(B) shall not be deemed to be a subsidiary of the bank.
+
+#### (3) Exceptions for transactions with financial subsidiaries
+
+#### (A) Exception from limit on covered transactions with any individual financial subsidiary
+
+&emsp;&emsp;Notwithstanding paragraph (2), the restriction contained in subsection (a)(1)(A) of this section shall not apply with respect to covered transactions between a bank and any individual financial subsidiary of the bank.
+
+#### (B) Exception for earnings retained by financial subsidiaries
+
+&emsp;&emsp;Notwithstanding paragraph (2) or subsection (b)(7) of this section, a bank's investment in a financial subsidiary of the bank shall not include retained earnings of the financial subsidiary.
+
+#### (4) Anti-evasion provision
+
+&emsp;For purposes of this section and section 371c–1 of this title—
+
+&emsp;&emsp;(A) any purchase of, or investment in, the securities of a financial subsidiary of a bank by an affiliate of the bank shall be considered to be a purchase of or investment in such securities by the bank; and
+
+&emsp;&emsp;(B) any extension of credit by an affiliate of a bank to a financial subsidiary of the bank shall be considered to be an extension of credit by the bank to the financial subsidiary if the Board determines that such treatment is necessary or appropriate to prevent evasions of this chapter and the Gramm-Leach-Bliley Act.
+
+#### (f) Rulemaking and additional exemptions
 
 (1) The Board may issue such further regulations and orders, including definitions consistent with this section, as may be necessary to administer and carry out the purposes of this section and to prevent evasions thereof.
 
 (2) The Board may, at its discretion, by regulation or order exempt transactions or relationships from the requirements of this section if it finds such exemptions to be in the public interest and consistent with the purposes of this section.
 
-(Dec. 23, 1913, ch. 6, §23A, as added June 16, 1933, ch. 89, §13, 48 Stat. 183; amended Aug. 23, 1935, ch. 614, title III, §327, 49 Stat. 717; June 30, 1954, ch. 434, §1, 68 Stat. 358; Pub. L. 86–230, §1(b), Sept. 8, 1959, 73 Stat. 457; Pub. L. 89–485, §§12(a), 13(h), July 1, 1966, 80 Stat. 241, 243; Pub. L. 97–320, title IV, §410(b), Oct. 15, 1982, 96 Stat. 1515; Pub. L. 97–457, §22, Jan. 12, 1983, 96 Stat. 2509.)
+(3)
+
+Rulemaking required concerning derivative transactions and intraday credit.—
+
+&emsp;(A)
+
+In general.—Not later than 18 months after November 12, 1999, the Board shall adopt final rules under this section to address as covered transactions credit exposure arising out of derivative transactions between member banks and their affiliates and intraday extensions of credit by member banks to their affiliates.
+
+&emsp;(B)
+
+Effective date.—The effective date of any final rule adopted by the Board pursuant to subparagraph (A) shall be delayed for such period as the Board deems necessary or appropriate to permit banks to conform their activities to the requirements of the final rule without undue hardship.
+
+(Dec. 23, 1913, ch. 6, §23A, as added June 16, 1933, ch. 89, §13, 48 Stat. 183; amended Aug. 23, 1935, ch. 614, title III, §327, 49 Stat. 717; June 30, 1954, ch. 434, §1, 68 Stat. 358; Pub. L. 86–230, §1(b), Sept. 8, 1959, 73 Stat. 457; Pub. L. 89–485, §§12(a), 13(h), July 1, 1966, 80 Stat. 241, 243; Pub. L. 97–320, title IV, §410(b), Oct. 15, 1982, 96 Stat. 1515; Pub. L. 97–457, §22, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 106–102, title I, §121(b), Nov. 12, 1999, 113 Stat. 1378.)
 
 #### References in Text
 
 The effective date of this Act, referred to in subsec. (b)(2)(E), probably means the effective date as provided by Pub. L. 97–320, which completely revised this section. Section 410(c) of Pub. L. 97–320 set out as an Effective Date of 1982 Amendment note below, provided that this section shall apply to any transaction entered into after Oct. 15, 1982 with certain exceptions.
 
+The Gramm-Leach-Bliley Act, referred to in subsecs. (b)(11) and (e)(4)(B), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Section 122 of the Act is set out as a note under section 1843 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
+
+This chapter, referred to in subsec. (e)(4)(B), was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. For complete classification of this act to the Code, see References in Text note set out under section 226 of this title and Tables.
+
 #### Amendments
+
+1999—Subsec. (b)(11). Pub. L. 106–102, §121(b)(2), added par. (11).
+
+Subsec. (e). Pub. L. 106–102, §121(b)(1)(B), added subsec. (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 106–102, §121(b)(1)(A), (3), redesignated subsec. (e) as (f) and added par. (3).
 
 1983—Subsec. (d)(1). Pub. L. 97–457, §22(1), substituted “subject to the prohibition contained in subsection (a)(3) of this section” for “except for the purchase of a low-quality asset which is prohibited”.
 
@@ -178,15 +236,19 @@ Subsec. (d)(6). Pub. L. 97–457, §22(2), inserted “, subject to the prohibi
 
 “For the purposes of this section, the term ‘affiliate’ shall include, with respect to any member bank, any bank holding company of which such member bank is a subsidiary within the meaning of the Bank Holding Company Act of 1956, as amended \[12 U.S.C. 1841 et seq.\], and any other subsidiary of such company.
 
-“The provisions of this section shall not apply to (1) stock, bonds, debentures, or other obligations of any company of the kinds described in section 4(c)(1) of the Bank Holding Company Act of 1956, as amended \[12 U.S.C. 1843(c)(1)\]; (2) stock, bonds, debentures, or other obligations accepted as security for debts previously contracted, provided that such collateral shall not be held for a period of over two years; (3) shares which are of the kinds and amounts eligible for investment by national banks under the provisions of section 24 of this title; (4) any extension of credit by a member bank to a bank holding company of which such bank is a subsidiary or to another subsidiary of such bank holding company, if made within one year after July 1, 1966, and pursuant to a contract lawfully entered into prior to January 1, 1966; or (5) any transaction by a member bank with another bank the deposits of which are insured by the Federal Deposit Insurance Corporation, if more than 50 per centum of the voting stock of such other bank is owned by the member bank or held by trustees for the benefit of the shareholders of the member bank.”
+“The provisions of this section shall not apply to (1) stock, bonds, debentures, or other obligations of anycompany of the kinds described in section 4(c)(1) of the Bank Holding Company Act of 1956, as amended \[12 U.S.C. 1843(c)(1)\]; (2) stock, bonds, debentures, or other obligations accepted as security for debts previously contracted, provided that such collateral shall not be held for a period of over two years; (3) shares which are of the kinds and amounts eligible for investment by national banks under the provisions of section 24 of this title; (4) any extension of credit by a member bank to a bank holding company of which such bank is a subsidiary or to another subsidiary of such bank holding company, if made within one year after July 1, 1966, and pursuant to a contract lawfully entered into prior to January 1, 1966; or (5) any transaction by a member bank with another bank the deposits of which are insured by the Federal Deposit Insurance Corporation, if more than 50 per centum of the voting stock of such other bank is owned by the member bank or held by trustees for the benefit of the shareholders of the member bank.”
 
-1966—Pub. L. 89–485 added last three pars. and struck out from third par. introductory statement that term “affiliate” shall include holding company affiliates as well as other affiliates, respectively. Such added pars. make “extension of credit” cover all purchases under repurchase agreements and the discount of promissory notes, bills of exchange, conditional sales contracts, or similar paper, whether with or without recourse, excluding therefrom such discounts by one bank for another, if without recourse, exclude from being deemed a loan, advance, or extension of credit noninterest bearing deposits to the credit of a bank or the giving of immediate credit to a bank for uncollected items received in the ordinary course of business, define term “affiliate” (superseding one stricken from par. three),and exempt stocks, bonds, debentures, or other obligations of companies described in section 4(c)(1) of the Bank Holding Company Act of 1956, as amended; or accepted as security for debts previously contracted, shares of the kind and amounts eligible for investment by national banks under section 24 of this title, loans by a bank to its holding company or a fellow subsidiary if made within one year after July 1, 1966 and pursuant to a contract lawfully entered before Jan. 1, 1966, and transactions between a member bank and a majority-owned insured bank.
+1966—Pub. L. 89–485 added last three pars. and struck out from third par. introductory statement that term “affiliate” shall include holding company affiliates as well as other affiliates, respectively. Such added pars. make “extension of credit” cover all purchases under repurchase agreements and the discount of promissory notes, bills of exchange, conditional sales contracts, or similar paper, whether with or without recourse, excluding therefrom such discounts by one bank for another, if without recourse, exclude from being deemed a loan, advance, or extension of credit noninterest bearing deposits to the credit of a bank or the giving of immediate credit to a bank for uncollected items received in the ordinary course of business, define term “affiliate” (superseding one stricken from par. three), and exempt stocks, bonds, debentures, or other obligations of companies described in section 4(c)(1) of the Bank Holding Company Act of 1956, as amended; or accepted as security for debts previously contracted, shares of the kind and amounts eligible for investment by national banks under section 24 of this title, loans by a bank to its holding company or a fellow subsidiary if made within one year after July 1, 1966 and pursuant to a contract lawfully entered before Jan. 1, 1966, and transactions between a member bank and a majority-owned insured bank.
 
 1959—Pub. L. 86–230 struck out from second and third pars. references to Home Owners’ Loan Corporation after Federal Home Loan Banks.
 
 1954—Act June 30, 1954, amended third par. substituting “solely” for “on June 16, 1934” after “(1) engaged” and struck out “or in maintaining and operating properties acquired for banking purposes prior to such date” after “is affiliated”.
 
 1935—Act Aug. 23, 1935, amended third par.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as a note under section 24 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -200,5 +262,5 @@ Section not to be affected by fact that transaction takes place outside the Unit
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 371c–1, 504, 601, 1468, 1815, 1828, 1831<i>o</i>, 1841, 1843, 3909 of this title.
+This section is referred to in sections 371c–1, 504, 601, 1468, 1815, 1828, 1831<i>o</i>, 1831w, 1841, 1843, 3909 of this title.
 

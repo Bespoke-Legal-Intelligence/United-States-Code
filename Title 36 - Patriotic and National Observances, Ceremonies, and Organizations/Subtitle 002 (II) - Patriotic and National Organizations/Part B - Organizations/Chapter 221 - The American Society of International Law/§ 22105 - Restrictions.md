@@ -18,7 +18,7 @@ Distribution of Income or Assets.—The income or assets of the corporation may 
 
 (e)
 
-Loans.—The corporation may not make a loan or advance to an officer or member of the executive council. Members of the council who vote for or assent to making a loan or advance to an officer or member of the council, and officers who participate in making the loan or advance, are jointly and severally liable to thecorporation for the amount of the loan or advance until it is repaid.
+Loans.—The corporation may not make a loan or advance to an officer or member of the executive council. Members of the council who vote for or assent to making a loan or advance to an officer or member of the council, and officers who participate in making the loan or advance, are jointly and severally liable to the corporation for the amount of the loan or advance until it is repaid.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1301.)
 
@@ -42,17 +42,25 @@ Sept. 20, 1950, ch. 958, §§2 (2d, last sentences), 7, 64 Stat. 870, 871.
 
 36:347 (1st sentence words before 2d comma).
 
+&nbsp;
+
 22105(c)
 
 36:342 (last sentence).
+
+&nbsp;
 
 22105(d)
 
 36:342 (2d sentence words after 1st comma).
 
+&nbsp;
+
 22105(e)
 
 36:347 (1st sentence words after 2d comma, last sentence).
+
+&nbsp;
 
 In subsection (b), the words “shares of” are omitted as unnecessary.
 

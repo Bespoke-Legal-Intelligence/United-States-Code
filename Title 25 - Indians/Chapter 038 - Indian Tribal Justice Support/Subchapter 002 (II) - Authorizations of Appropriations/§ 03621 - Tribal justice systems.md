@@ -2,7 +2,7 @@
 
 #### (a) Office
 
-There is authorized to be appropriated to carry out the provisions of sections 3611 and 3612of this title, $7,000,000 for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000. None of the funds provided under this subsection may be used for the administrative expenses of the Office.
+There is authorized to be appropriated to carry out the provisions of sections 3611 and 3612 of this title, $7,000,000 for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000. None of the funds provided under this subsection may be used for the administrative expenses of the Office.
 
 #### (b) Base support funding for tribal justice systems
 

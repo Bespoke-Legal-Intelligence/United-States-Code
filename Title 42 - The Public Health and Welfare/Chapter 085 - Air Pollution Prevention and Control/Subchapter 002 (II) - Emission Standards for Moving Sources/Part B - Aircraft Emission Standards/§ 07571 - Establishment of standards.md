@@ -40,7 +40,7 @@ Subsec. (c). Pub. L. 95–95, §225, substituted “Any regulations in effect un
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of Title 49, Transportation.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of Title 49, Transportation.
 
 #### Effective Date of 1977 Amendment
 
@@ -56,7 +56,7 @@ Pub. L. 101–549, title II, §233, Nov. 15, 1990, 104 Stat. 2529, provided that
 
 “(a)
 
-Study.—The Administrator of the Environmental Protection Agency and the Secretary of Transportation, in consultation with the Secretary of Defense, shall commence a study and investigation of the testing of uninstalled aircraft engines in enclosed test cells that shall address at a minimum the following issues and such other issues as they shall deem appropriate—
+Study.—The Administrator of the Environmental Protection Agency and the Secretary of Transportation, in consultation with the Secretary of Defense, shall commence a study and investigation of the testing of uninstalled aircraft engines in enclosed testcells that shall address at a minimum the following issues and such other issues as they shall deem appropriate—
 
 &emsp;“(1) whether technologies exist to control some or all emissions of oxides of nitrogen from test cells;
 

@@ -31,7 +31,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 275, 509, 2055, 6104, 6161, 6211, 6212, 6213, 6214, 6344, 6405, 6501, 6503, 6511, 6512, 6684, 6862, 6871, 7422 of this title.
+This chapter is referred to in sections 170, 275, 509, 2055, 6104, 6161, 6211, 6212, 6213, 6214, 6344, 6405, 6501, 6503, 6511, 6512, 6684, 6862, 6871, 7422 of this title.
 
 
 ---

@@ -16,12 +16,6 @@ Eggs and egg products found to be adulterated at official plants shall be condem
 
 The Secretary shall cause such other inspections to be made of the business premises, facilities, inventory, operations, and records of egg handlers, and the records and inventory of other persons required to keep records under section 1040 of this title, as he deems appropriate (and in the case of shell egg packers, packing eggs for the ultimate consumer, at least once each calendar quarter) to assure that only eggs fit for human food are used for such purpose, and otherwise to assure compliance by egg handlers and other persons with the requirements of section 1037 of this title, except that the Secretary of Health and Human Services shall cause such inspections to be made as he deems appropriate to assure compliance with such requirements at food manufacturing establishments, institutions, and restaurants, other than plants processing egg products. Representatives of said Secretaries shall be afforded access to all such places of business for purposes of making the inspections provided for in this chapter.
 
-(Pub. L. 91–597, §5, Dec. 29, 1970, 84 Stat. 1624; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–237, title X, §1012(b), Dec. 13, 1991, 105 Stat. 1899.)
-
-#### Enactment of Subsection (e)
-
-<i>Pub. L. 102–237, title X, §1012(b), (h), Dec. 13, 1991, 105 Stat. 1899, 1901, provided that, effective 12 months after promulgation of final implementing regulations, this section is amended by adding the following new subsection:</i>
-
 #### (e) Refrigeration and labeling requirements
 
 (1) Subject to paragraphs (2), (3), and (4), the Secretary shall make such inspections as the Secretary considers appropriate of a facility of an egg handler (including a transport vehicle) to determine if shell eggs destined for the ultimate consumer—
@@ -37,6 +31,12 @@ The Secretary shall cause such other inspections to be made of the business prem
 (4) The Secretary shall not make an inspection as provided in paragraph (1) on any egg handler with a flock of not more than 3,000 layers.
 
 (5) A representative of the Secretary and the Secretary of Health and Human Services shall be afforded access to a place of business referred to in this subsection, including a transport vehicle, for purposes of making an inspection required under this subsection.
+
+(Pub. L. 91–597, §5, Dec. 29, 1970, 84 Stat. 1624; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–237, title X, §1012(b), Dec. 13, 1991, 105 Stat. 1899.)
+
+#### Amendments
+
+1991—Subsec. (e). Pub. L. 102–237 added subsec. (e).
 
 #### Change of Name
 

@@ -122,7 +122,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### References in Text
 
-The Agricultural Act of 1949, as amended, referred to in subsec. (d), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
+The Agricultural Act of 1949, as amended, referred to in subsec. (d), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051,as amended, which is classified principally to chapter 35A (§1421 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
 
 The Disaster Assistance Act of 1988, referred to in subsec. (d), is Pub. L. 100–387, Aug. 11, 1988, 102 Stat. 924. Title II of the Disaster Assistance Act of 1988 is set out as a note under section 1421 of Title 7. For complete classification of this Act to the Code, see Tables.
 
@@ -198,7 +198,7 @@ Change in method of accounting.—If a taxpayer is required by the amendments ma
 
 “(3)
 
-Special rule for certain cycle billing.—If a taxpayer for any taxable year beginning before August 16, 1986, for purposes of chapter 1 of the Internal Revenue Code of 1986 took into account income from services described in section 451(f) of such Code (as added bysubsection (a)) on the basis of the period in which the customers’ meters were read, then such treatment for such year shall be deemed to be proper. The preceding sentence shall also apply to any taxable year beginning after August 16, 1986, and before January 1, 1987, if the taxpayer treated such income in the same manner for the taxable year preceding such taxable year.”
+Special rule for certain cycle billing.—If a taxpayer for any taxable year beginning before August 16, 1986, for purposes of chapter 1 of the Internal Revenue Code of 1986 took into account income from services described in section 451(f) of such Code (as added by subsection (a)) on the basis of the period in which the customers’ meters were read, then such treatment for such year shall be deemed to be proper. The preceding sentence shall also apply to any taxable year beginning after August 16, 1986, and before January 1, 1987, if the taxpayer treated such income in the same manner for the taxable year preceding such taxable year.”
 
 Section 905(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1009(d)(2), Nov. 10, 1988, 102 Stat. 3450, provided that:
 
@@ -314,7 +314,7 @@ Cost allocation.—
 
 &emsp;&emsp;“(A)
 
-In general.—Any modification to Income Tax Regulation 1.451–3 made under subsection (a)(3) which requires additional costs to be allocated to a contract shall apply only to the applicable percentage of such additional costs incurred in taxableyears beginning after December 31, 1982, with respect to contracts entered into after such date.
+In general.—Any modification to Income Tax Regulation 1.451–3 made under subsection (a)(3) which requires additional costs to be allocated to a contract shall apply only to the applicable percentage of such additional costs incurred in taxable years beginning after December 31, 1982, with respect to contracts entered into after such date.
 
 &emsp;&emsp;“(B)
 

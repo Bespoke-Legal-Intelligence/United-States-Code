@@ -88,7 +88,7 @@ The Strategic Petroleum Reserve Plan shall include:
 
 #### (f) Purpose of drawdown and distribution; requests for funds for storage
 
-(1) The drawdown and distribution of petroleum products from the Strategic Petroleum Reserve is authorized only under section 6241 ofthis title, and drawdown and distribution of petroleum products for purposes other than those described in section 6241 of this title shall be prohibited.
+(1) The drawdown and distribution of petroleum products from the Strategic Petroleum Reserve is authorized only under section 6241 of this title, and drawdown and distribution of petroleum products for purposes other than those described in section 6241 of this title shall be prohibited.
 
 (2) In the Secretary's annual budget submission, the Secretary shall request funds for acquisition, transportation, and injection of petroleum products for storage in the Reserve. If no requests for funds are made, the Secretary shall provide a written explanation of the reason therefore.
 
@@ -104,7 +104,7 @@ The Strategic Petroleum Reserve Plan shall include:
 
 #### Strategic Petroleum Reserve Drawdown Plan
 
-Pub. L. 97–229, §4(c), Aug. 3, 1982, 96 Stat. 252, provided that: “On or before December 1, 1982, the President shall transmit to the Congress a drawdown plan for the Strategic Petroleum Reserve consistent with the requirements of section 154 of the Energy Policy and Conservation Act \[this section\]. Such plan shall be transmitted to the Congress as an amendment to the Strategic Petroleum Reserve Plan. Such amendment shall take effect on the date it is transmitted to the Congress and shall not be subject to section 159(e) of such Act \[section 6239(e) of this title\] relating to Congressional review. Subsequent amendments to such plan shall be in accordance with subsections (d) and (e) of such section 159.”
+Pub. L. 97–229, §4(c), Aug. 3, 1982, 96 Stat. 252, provided that: “On or before December 1, 1982, the President shall transmit to the Congress a drawdown plan for the Strategic Petroleum Reserve consistent with the requirements of section 154 of the Energy Policy and Conservation Act \[this section\]. Such plan shall be transmitted to the Congress as an amendment to the Strategic Petroleum Reserve Plan. Such amendment shall take effect on the date it is transmitted to the Congress and shall not be subject to section 159(e) of suchAct \[section 6239(e) of this title\] relating to Congressional review. Subsequent amendments to such plan shall be in accordance with subsections (d) and (e) of such section 159.”
 
 #### Section Referred to in Other Sections
 

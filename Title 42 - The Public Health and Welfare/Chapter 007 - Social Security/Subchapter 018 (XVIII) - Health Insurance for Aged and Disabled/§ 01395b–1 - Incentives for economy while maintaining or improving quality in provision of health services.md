@@ -4,7 +4,7 @@
 
 (1) The Secretary of Health and Human Services is authorized, either directly or through grants to public or private agencies, institutions, and organizations or contracts with public or private agencies, institutions, and organizations, to develop and engage in experiments and demonstration projects for the following purposes:
 
-&emsp;(A) to determine whether, and if so which, changes in methods of payment or reimbursement (other than those dealt with in section 222(a) of the Social Security Amendments of 1972) for health care and services under health programs established by this chapter, including a change to methods based on negotiated rates, would have the effect of increasing the efficiency and economy of health services under such programs through the creation of additional incentives to these ends without adversely affecting the quality of such services;
+&emsp;(A) to determine whether, and if so which, changes in methods of payment or reimbursement (other than those dealt with in section222(a) of the Social Security Amendments of 1972) for health care and services under health programs established by this chapter, including a change to methods based on negotiated rates, would have the effect of increasing the efficiency and economy of health services under such programs through the creation of additional incentives to these ends without adversely affecting the quality of such services;
 
 &emsp;(B) to determine whether payments for services other than those for which payment may be made under such programs (and which are incidental to services for which payment may be made under such programs) would, in the judgment of the Secretary, result in more economical provision and more effective utilization of services for which payment may be made under such program, where such services are furnished by organizations and institutions which have the capability of providing—
 
@@ -48,7 +48,7 @@
 
 > For purposes of this subsection, “health programs established by this chapter” means the program established by this subchapter and a program established by a plan of a State approved under subchapter XIX of this chapter.
 
-(2) Grants, payments under contracts, and other expenditures made for experiments and demonstration projects under paragraph (1) shall be made in appropriate part from the Federal Hospital Insurance Trust Fund (established by section 1395i of this title) and the Federal Supplementary Medical Insurance Trust Fund (established by section 1395t of this title) and from funds appropriated under subchapter XIX of this chapter. Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this section. With respect to any such grant, payment, or other expenditure, the amount to be paid from each of such trust funds (and from funds appropriated under such subchapter XIX of this chapter) shall be determined by the Secretary, giving due regard to the purposes of the experiment or project involved.
+(2) Grants, payments under contracts, and other expenditures made for experiments and demonstration projects under paragraph (1) shall be made in appropriate part from the Federal Hospital Insurance Trust Fund (established by section 1395i of this title) and the Federal Supplementary Medical Insurance Trust Fund\(established by section 1395t of this title) and from funds appropriated under subchapter XIX of this chapter. Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this section. With respect to any such grant, payment, or other expenditure, the amount to be paid from each of such trust funds (and from funds appropriated under such subchapter XIX of this chapter) shall be determined by the Secretary, giving due regard to the purposes of the experiment or project involved.
 
 #### (b) Waiver of certain payment or reimbursement requirements; advice and recommendations of specialists preceding experiments and demonstration projects
 
@@ -108,7 +108,7 @@ For effective date, savings, and transitional provisions relating to amendment b
 
 #### Medicare Coordinated Care Demonstration Project
 
-Pub. L. 105–33, title IV, §4016, Aug. 5, 1997, 111 Stat. 343, provided that:
+Pub. L. 105–33, title IV, §4016, Aug. 5, 1997, 111 Stat. 343, as amended by Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §535\], Nov. 29, 1999, 113 Stat. 1536, 1501A–390, provided that:
 
 “(a)
 
@@ -204,11 +204,11 @@ In general.—
 
 &emsp;&emsp;&emsp;“(i)
 
-State projects.—Except as provided in clause (ii), the Secretary shall provide for the transfer from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Insurance Trust Fund under title XVIII of the Social Security Act (42 U.S.C. 1395i, 1395t), in such proportions as the Secretary determines to be appropriate, of such funds as are necessary for the costs of carrying out the demonstration projects under this section.
+State projects.—Except as provided in clause (ii), the Secretary shall provide for the transfer from the Federal Hospital Insurance Trust Fund and the Federal Supplementary \[Medical\] Insurance Trust Fund under title XVIII of the Social Security Act (42 U.S.C. 1395i, 1395t), in such proportions as the Secretary determines to be appropriate, of such funds as are necessary for the costs of carrying out the demonstration projects under this section.
 
 &emsp;&emsp;&emsp;“(ii)
 
-Cancer hospital.—In the case of the project described in subsection (b)(2)(C), amounts shall be available only as provided in any Federal law making appropriations for the District of Columbia.
+Cancer hospital.—In the case of the project described in subsection (b)(2)(C), the Secretary shall provide for the transfer from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Insurance Trust Fund \[Medical\] under title XVIII of the Social Security Act (42 U.S.C. 1395i, 1395t), in such proportions as the Secretary determines to be appropriate, of such funds as are necessary to cover costs of the project, including costs for information infrastructure and recurring costs of case management services, flexible benefits, and program management.
 
 &emsp;&emsp;“(B)
 
@@ -220,7 +220,7 @@ Evaluation and report.—There are authorized to be appropriated such sums as ar
 
 #### Informatics, Telemedicine, and Education Demonstration Project
 
-Pub. L. 105–33, title IV, §4207, Aug. 5, 1997, 111 Stat. 379, provided that:
+Pub. L. 105–33, title IV, §4207, Aug. 5, 1997, 111 Stat. 379, as amended by Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §413\], Nov. 29, 1999, 113 Stat. 1536, 1501A–377, provided that:
 
 “(a)
 
@@ -228,7 +228,7 @@ Purpose and Authorization.—
 
 &emsp;“(1)
 
-In general.—Not later than 9 months after the date of enactment of this section \[Aug. 5, 1997\], the Secretary of Health and Human Services shall provide for a demonstration project described in paragraph (2).
+In general.—Not later than 9 months after the date of enactment of this section \[Aug. 5, 1997\], the Secretary of Health and Human Services shall provide for a demonstration project described in paragraph (2). The Secretary shall make an award for such project not later than 3 months after the date of the enactment of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act of 1999 \[Nov. 29, 1999\]. The Secretary shall accept the proposal adjudged to be the best technical proposal as of such date of enactment without the need for additional review or resubmission of proposals.
 
 &emsp;“(2)
 
@@ -236,7 +236,7 @@ Description of project.—
 
 &emsp;&emsp;“(A)
 
-In general.—The demonstration project described in this paragraph is a single demonstration project to use eligible health care provider telemedicine networks to apply high-capacity computing and advanced networks to improve primary care (and prevent health care complications) to medicare beneficiaries with diabetes mellitus who are residents of medically underserved rural areas or residents of medically underserved inner-city areas.
+In general.—The demonstration project described in this paragraph is a single demonstration project to use eligible health care provider telemedicine networks to apply high-capacity computing and advanced networks to improve primary care (and prevent health care complications) to medicare beneficiaries with diabetes mellitus who are residents of medically underserved rural areas or residents of medically underserved inner-city areas that qualify as Federally designated medically underserved areas or health professional shortage areas at the time of enrollment of beneficiaries under the project.
 
 &emsp;&emsp;“(B)
 
@@ -272,7 +272,7 @@ Eligible Health Care Provider Telemedicine Network Defined.—For purposes of th
 
 &emsp;“(1) The consortium is located in an area with a high concentration of medical schools and tertiary care facilities in the United States and has appropriate arrangements (within or outside the consortium) with such schools and facilities, universities, and telecommunications providers, in order to conduct the project.
 
-&emsp;“(2) The consortium submits to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a description of the use to which the consortium would apply any amounts received under the project and the source and amount of non-Federal funds used in the project.
+&emsp;“(2) The consortium submits to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a description of the use to which the consortium would apply any amounts received under the project.
 
 &emsp;“(3) The consortium guarantees that it will be responsible for payment for all costs of the project that are not paid under this section and that the maximum amount of payment that may be made to the consortium under this section shall not exceed the amount specified in subsection (d)(3).
 
@@ -290,13 +290,13 @@ Payments.—
 
 &emsp;&emsp;“(A)
 
-In general.—Subject to paragraph (3), payment for such services shall be made at a rate of 50 percent of the costs that are reasonable and related to the provision of such services. In computing such costs, the Secretary shall include costs described in subparagraph (B), but may not include costs described in subparagraph (C).
+In general.—Subject to paragraph (3), payment for such services shall be made for the costs that are related to the provision of such services. In computing such costs, the Secretary shall include costs described in subparagraph (B), but may not include costs described in subparagraph (C).
 
 &emsp;&emsp;“(B)
 
 Costs that may be included.—The costs described in this subparagraph are the permissible costs (as recognized by the Secretary) for the following:
 
-&emsp;&emsp;&emsp;“(i) The acquisition of telemedicine equipment for use in patients’ homes (but only in the case of patients located in medically underserved areas).
+&emsp;&emsp;&emsp;“(i) The acquisition of telemedicine equipment for use in patients’ homes or at sites providing health care to patients located in medically underserved areas.
 
 &emsp;&emsp;&emsp;“(ii) Curriculum development and training of health professionals in medical informatics and telemedicine.
 
@@ -308,7 +308,7 @@ Costs that may be included.—The costs described in this subparagraph are the p
 
 Costs not included.—The costs described in this subparagraph are costs for any of the following:
 
-&emsp;&emsp;&emsp;“(i) The purchase or installation of transmission equipment (other than such equipment used by health professionals to deliver medical informatics services under the project).
+&emsp;&emsp;&emsp;“(i) The purchase or installation of transmission equipment (other than such equipment used by health professionals for activities related to the project).
 
 &emsp;&emsp;&emsp;“(ii) The establishment or operation of a telecommunications common carrier network.
 
@@ -320,7 +320,7 @@ Limitation.—The total amount of the payments that may be made under this secti
 
 &emsp;“(4)
 
-Limitation on cost-sharing.—The project may not impose cost sharing on a medicare beneficiary for the receipt of services under the project in excess of 20 percent of the costs that are reasonable and related to the provision of such services.
+Cost-sharing.—The project may not impose cost-sharing on a medicare beneficiary for the receipt of services under the project. Project costs will cover all costs to medicare beneficiaries and providers related to participation in the project.
 
 “(e)
 
@@ -530,9 +530,9 @@ For treatment of hospitals in States which have had a waiver approved under this
 
 #### Extension of Certain Medicare Municipal Health Services Demonstration Projects
 
-Pub. L. 99–272, title IX, §9215, Apr. 7, 1986, 100 Stat. 180, as amended by Pub. L. 101–239, title VI, §6135, Dec. 19, 1989, 103 Stat. 2222; Pub. L. 103–66, title XIII, §13557, Aug. 10, 1993, 107 Stat. 592; Pub. L. 105–33, title IV, §4017, Aug. 5, 1997, 111 Stat. 345, provided that:
+Pub. L. 99–272, title IX, §9215, Apr. 7, 1986, 100 Stat. 180, as amended by Pub. L. 101–239, title VI, §6135, Dec. 19, 1989, 103 Stat. 2222; Pub. L. 103–66, title XIII, §13557, Aug. 10, 1993, 107 Stat. 592; Pub. L. 105–33, title IV, §4017, Aug. 5, 1997, 111 Stat. 345; Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §534\], Nov. 29, 1999, 113 Stat. 1536, 1501A–390, provided that:
 
-“(a) The Secretary of Health and Human Services shall extend through December 31, 1997, approval of four municipal health services demonstration projects (located in Baltimore, Cincinnati, Milwaukee, and San Jose) authorized under section 402(a) of the Social Security Amendments of 1967 \[subsec. (a) of this section\]. The Secretary shall submit a report to Congress on the waiver program with respect to the quality of health care, beneficiary costs, costs to the medicaid program and other payers, access to care, outcomes, beneficiary satisfaction, utilization differences among the different populations served by the projects, and such other factors as may be appropriate. Subject to subsection (c), the Secretary may further extend such demonstration projects through December 31, 2000, but only with respect to individuals who received at least one service during the period beginning on January 1, 1996, and ending on the date of the enactment of the Balanced Budget Act of 1997 \[Aug. 5, 1997\].
+“(a) The Secretary of Health and Human Services shall extend through December 31, 1997, approval of four municipal health services demonstration projects (located in Baltimore, Cincinnati, Milwaukee, and San Jose) authorized under section 402(a) of the Social Security Amendments of 1967 \[subsec. (a) of this section\]. The Secretary shall submit a report to Congress on the waiver program with respect to the quality of health care, beneficiary costs, costs to the medicaid program and other payers, access to care, outcomes, beneficiary satisfaction, utilization differences among the different populations served by the projects, and such other factors as may be appropriate. Subject to subsection (c), the Secretary may further extend such demonstration projects through December 31, 2002, but only with respect to individuals who received at least one service during the period beginning on January 1, 1996, and ending on the date of the enactment of the Balanced Budget Act of 1997 \[Aug. 5, 1997\].
 
 “(b) The Secretary shall work with each such demonstration project to develop a plan, to be submitted to the Committee on Ways and Means and the Committee on Commerce of the House of Representatives and the Committee on Finance of the Senate by March 31, 1998, for the orderly transition of demonstration projects and the project participants to a non-demonstration project health care delivery system, such as through integration with a private or public health plan, including a medicaid managed care or Medicare+Choice plan.
 
@@ -616,7 +616,7 @@ Reports to Congress.—(1) Not later than three years after the date of the enac
 
 “(f)
 
-Funding.—Expenditures made for the demonstration program shall be made from the Federal Supplementary Medical Insurance Trust Fund (established by section 1841 of the Social Security Act \[section 1395t of this title\]). Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this section. Funding for the administrative costs of the demonstration program shall not exceed $7,500,000 over the duration of the program and shall not exceed$3,000,000 for the comprehensive evaluation referred to in subsection (e)(3).
+Funding.—Expenditures made for the demonstration program shall be made from the Federal Supplementary Medical Insurance Trust Fund (established by section 1841 of the Social Security Act \[section 1395t of this title\]). Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this section. Funding for the administrative costs ofthe demonstration program shall not exceed $7,500,000 over the duration of the program and shall not exceed $3,000,000 for the comprehensive evaluation referred to in subsection (e)(3).
 
 “(g)
 

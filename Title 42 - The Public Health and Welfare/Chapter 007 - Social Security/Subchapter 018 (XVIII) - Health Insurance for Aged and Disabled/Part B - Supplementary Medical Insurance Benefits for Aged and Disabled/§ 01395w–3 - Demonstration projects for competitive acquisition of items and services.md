@@ -32,7 +32,7 @@
 
 #### (2) Conditions for awarding contract
 
-&emsp;The Secretary may not award a contract to any entity under the competition conducted pursuant to paragraph (1) to furnish an item or service unless the Secretary finds that the entity meets quality standards specified by the Secretary that the total amounts to be paid under the contract are expected to be less than the total amounts that would otherwise be paid.
+&emsp;The Secretary may not award a contract to any entity under the competition conducted pursuant to paragraph (1) to furnish an item or service unless the Secretary finds that the entity meets quality standards specified by the Secretary and that the total amounts to be paid under the contract are expected to be less than the total amounts that would otherwise be paid.
 
 #### (3) Contents of contract
 
@@ -66,11 +66,19 @@ The items and services to which this section applies are all items and services 
 
 Notwithstanding any other provision of this section, all projects under this section shall terminate not later than December 31, 2002.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1847, as added Pub. L. 105–33, title IV, §4319(a), Aug. 5, 1997, 111 Stat. 392.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1847, as added Pub. L. 105–33, title IV, §4319(a), Aug. 5, 1997, 111 Stat. 392; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366.)
 
 #### Prior Provisions
 
-A prior section 1395w–3, act Aug. 14, 1935, ch. 531, title XVIII, §1847, as added July 1, 1988, Pub. L. 100–360, title II, §202(j), 102 Stat. 719; amended Oct. 13, 1988, Pub. L.100–485, title VI, §608(d)(5)(I), 102 Stat. 2414, provided for appointment of Prescription Drug Payment Review Commission by Director of Congressional Office of Technology Assessment, prior to repeal by Pub. L. 101–234, title II, §201(a), (c), Dec. 13, 1989, 103 Stat. 1981, effective Jan. 1, 1990.
+A prior section 1395w–3, act Aug. 14, 1935, ch. 531, title XVIII, §1847, as added July 1, 1988, Pub. L. 100–360, title II, §202(j), 102 Stat. 719; amended Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(5)(I), 102 Stat. 2414, provided for appointment of Prescription Drug Payment Review Commission by Director of Congressional Office of Technology Assessment, prior to repeal by Pub. L. 101–234, title II, §201(a), (c), Dec. 13, 1989, 103 Stat. 1981, effective Jan. 1, 1990.
+
+#### Amendments
+
+1999—Subsec. (b)(2). Pub. L. 106–113 inserted “and” after “specified by the Secretary”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective as if included in the enactment of the Balanced Budget Act of 1997, Pub. L. 105–33, except as otherwise provided, see section 1000(a)(6) \[title III, §321(m)\] of Pub. L. 106–113, set out as a note under section 1395d of this title.
 
 #### Study by GAO
 

@@ -52,5 +52,5 @@ Amendment by Pub. L. 95–561 effective Oct. 1, 1978, see section 1530(a) of Pub
 
 #### National Institute of Education
 
-The National Institute of Education consisting of a National Council on Educational Research and a Director of the Institute was established by section 1221e of this title which, as amended generally by Pub. L. 99–498, title XIV, §1401(a), Oct. 17, 1986, 100 Stat. 1589, provided objectives and duties for the Office of Educational Research and Improvement and established the National Advisory Council on Educational Research and Improvement, and section 1401(b) of Pub. L. 99–498 transferred the property and records of the National Institute of Education to the Office of Educational Research and Improvement.
+The National Institute of Education consisting of a National Council on Educational Research and a Director of the Institute was established by section 1221e of this title which, as amended generally by Pub. L. 99–498, title XIV, §1401(a), Oct. 17, 1986, 100 Stat. 1589, provided objectives and duties for the Office of Educational Research and Improvement and established the National Advisory Council on Educational Research and Improvement, and section 1401(b) of Pub. L.99–498 transferred the property and records of the National Institute of Education to the Office of Educational Research and Improvement.
 

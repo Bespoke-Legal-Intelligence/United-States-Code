@@ -26,7 +26,7 @@ Notwithstanding a valid protest was not filed, the Customs Service may, in accor
 
 #### (d) Goods qualifying under NAFTA rules of origin
 
-Notwithstanding the fact that a valid protest was not filed, the Customs Service may, in accordance with regulations prescribed by the Secretary, reliquidate an entry to refund any excess duties paid on a good qualifying under the rules of origin set out in section 3332 of this title for which no claim for preferential tariff treatment was made at the time of importation if the importer, within 1 year after the date of importation, files, in accordance with those regulations, a claim that includes—
+Notwithstanding the fact that a valid protest was not filed, the Customs Service may, in accordance with regulations prescribed by the Secretary, reliquidate an entry to refund any excess duties (including any merchandise processing fees) paid on a good qualifying under the rules of origin set out in section 3332 of this title for which no claim for preferential tariff treatment was made at the time of importation if the importer, within 1 year after the date of importation, files, in accordance with those regulations, a claim that includes—
 
 &emsp;(1) a written declaration that the good qualified under those rules at the time of importation;
 
@@ -34,7 +34,7 @@ Notwithstanding the fact that a valid protest was not filed, the Customs Service
 
 &emsp;(3) such other documentation relating to the importation of the goods as the Customs Service may require.
 
-(June 17, 1930, ch. 497, title IV, §520, 46 Stat. 739; June 26, 1934, ch. 756, §2, 48 Stat. 1225; June 25, 1938, ch. 679, §18, 52 Stat. 1086; Aug. 8, 1953, ch. 397, §20, 67 Stat. 519; Pub. L. 91–271, title II, §210, June 2, 1970, 84 Stat. 287; Pub. L. 95–410, title II, §210, Oct. 3, 1978, 92 Stat. 903; Pub. L. 98–573, title II, §§210(b), 212(c)(B), formerly §212(b)(7)(B), Oct. 30, 1984, 98 Stat. 2977, 2984, renumbered Pub. L. 99–514, title XVIII, §1889(3), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title II, §206, title VI, §§642(b), 646, Dec. 8, 1993, 107 Stat. 2095, 2205, 2207.)
+(June 17, 1930, ch. 497, title IV, §520, 46 Stat. 739; June 26, 1934, ch. 756, §2, 48 Stat. 1225; June 25, 1938, ch. 679, §18, 52 Stat. 1086; Aug. 8, 1953, ch. 397, §20, 67 Stat. 519; Pub. L. 91–271, title II, §210, June 2, 1970, 84 Stat. 287; Pub. L. 95–410, title II, §210, Oct. 3, 1978, 92 Stat. 903; Pub. L. 98–573, title II, §§210(b), 212(c)(B), formerly §212(b)(7)(B), Oct. 30, 1984, 98 Stat. 2977, 2984, renumbered Pub. L. 99–514, title XVIII, §1889(3), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title II, §206, title VI, §§642(b), 646, Dec. 8, 1993, 107 Stat. 2095, 2205, 2207; Pub. L. 106–36, title II, §2408(a), June 25, 1999, 113 Stat. 171.)
 
 #### Codification
 
@@ -50,11 +50,13 @@ Prior provisions somewhat similar to those in subdivisions (1) and (3) of paragr
 
 Provisions concerning the refund of moneys collected as duties in accordance with any decision, etc., of the Secretary of the Treasury, with provisos concerning reliquidations, correction of errors, household effects and other articles exempt from duty, were contained in act March 3, 1875, ch. 136, 18 Stat. 469, which was also repealed by section 643 of the act of Sept. 21, 1922.
 
-R.S. §3011 (as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, and act Feb. 1, 1888, ch. 4, 25 Stat. 6) and section 3012, relative to actions to recover duties paid under protest, and sections 30121/2 and 3013, relative to refunds, were repealed by the Customs Administrative Act of June 10, 1890, ch. 407, §29. 26 Stat. 141.
+R.S. §3011 (as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, and act Feb. 1, 1888, ch. 4, 25 Stat. 6) andsection 3012, relative to actions to recover duties paid under protest, and sections 30121/2 and 3013, relative to refunds, were repealed by the Customs Administrative Act of June 10, 1890, ch. 407, §29. 26 Stat. 141.
 
 Act June 7, 1924, ch. 357, 43 Stat. 660, authorizing the remission of unpaid customs duties on material belonging to the United States and theretofore imported by the War Department, was omitted from the Code as temporary.
 
 #### Amendments
+
+1999—Subsec. (d). Pub. L. 106–36 inserted “(including any merchandise processing fees)” after “excess duties” in introductory provisions.
 
 1993—Subsec. (a)(1), (4). Pub. L. 103–182, §646(1), inserted “or reconciliation” after “entry”.
 
@@ -79,6 +81,10 @@ Subsec. (d). Pub. L. 98–573, §210(b), added subsec. (d).
 Subsec. (c)(2). Act Aug. 8, 1953, permitted correction of assessments of duty on household or personal effects which are subject to duty.
 
 1938—Subsecs. (b), (c). Act June 25, 1938, added subsecs. (b) and (c).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–36 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after June 25, 1999, see section 2408(c) of Pub. L. 106–36, set out as a note under section 1514 of this title.
 
 #### Effective Date of 1993 Amendment
 

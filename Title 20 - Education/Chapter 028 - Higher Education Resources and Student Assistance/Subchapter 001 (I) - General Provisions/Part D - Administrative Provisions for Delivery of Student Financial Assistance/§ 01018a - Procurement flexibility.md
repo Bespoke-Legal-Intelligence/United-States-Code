@@ -56,7 +56,7 @@ Except as provided in this section, the PBO shall abide by all applicable Federa
 
 #### (A) In general
 
-&emsp;&emsp;The contracting officer shall conduct the second phase of the source selection process in accordance with sections 253a and 253b of title 41.
+&emsp;&emsp;The contracting officer shall conduct the second phase of the source selection processin accordance with sections 253a and 253b of title 41.
 
 #### (B) Eligible participants
 
@@ -148,7 +148,7 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 #### (B) Exception
 
-&emsp;&emsp;Publication of a notice is not required under this paragraph with respect to a use ofprocedures authorized under paragraph (4) if the contractor referred to in that subparagraph (who is to be solicited to submit an offer) has previously provided a module for the system under a contract that contained cost, schedule, and performance goals and the contractor met those goals.
+&emsp;&emsp;Publication of a notice is not required under this paragraph with respect to a use of procedures authorized under paragraph (4) if the contractor referred to in that subparagraph (who is to be solicited to submit an offer) has previously provided a module for the system under a contract that contained cost, schedule, and performance goals and the contractor met those goals.
 
 #### (C) Content of notice
 
@@ -232,9 +232,9 @@ In this section:
 
 #### References in Text
 
-Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (e)(2), is section 4202(e) of Pub. L. 104–106, which is set out as a note under section 2304 of Title 10, Armed Forces.
+Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (e)(2), is section 4202(e) of Pub. L.104–106, which is set out as a note under section 2304 of Title 10, Armed Forces.
 
 #### Prior Provisions
 
-A prior section 1018a, Pub. L. 89–329, title I, §142, as added Pub. L. 100–418, title VI, §6201, Aug. 23, 1988, 102Stat. 1515, related to grants for literacy corps programs, prior to the general amendment of this subchapter by Pub. L. 102–325.
+A prior section 1018a, Pub. L. 89–329, title I, §142, as added Pub. L. 100–418, title VI, §6201, Aug. 23, 1988, 102 Stat. 1515, related to grants for literacy corps programs, prior to the general amendment of this subchapter by Pub. L. 102–325.
 

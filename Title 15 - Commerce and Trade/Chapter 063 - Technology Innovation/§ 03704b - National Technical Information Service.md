@@ -98,7 +98,7 @@ This section, referred to in subsec. (a)(1), was in the original “this subtitl
 
 Section 3710c(a)(4) of this title, referred to in subsec. (a)(3), was in the original a reference to section 13(a)(4) of the Stevenson-Wydler Technology Innovation Act of 1980 which was translated as reading section 14(a)(4) of the Act to reflect the probable intent of Congress and the renumbering of section 13 of the Act as section 14 by section 5122(a)(1) of Pub. L. 100–418.
 
-The Act entitled “An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes” enacted September 9, 1950, referred to in subsec. (e)(6), is act Sept. 9, 1950, ch. 936, 64 Stat. 823, as amended, which is classified generally to chapter 23\(§1151 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Act entitled “An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes” enacted September 9, 1950, referred to in subsec. (e)(6), is act Sept. 9, 1950, ch. 936, 64 Stat. 823, as amended, which is classified generally to chapter 23 (§1151 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

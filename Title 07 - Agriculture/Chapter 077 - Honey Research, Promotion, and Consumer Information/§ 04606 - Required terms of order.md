@@ -192,7 +192,7 @@ Nonmembers.—As a condition of certification under this paragraph, an organizat
 
 (7)
 
-Minimum percentage of honey producers.—Notwithstanding any other provision of this subsection, at least 50 percent of the members of the Honey Board shall be honey producers.
+Minimum percentage of honey producers.—Notwithstanding any other provision ofthis subsection, at least 50 percent of the members of the Honey Board shall be honey producers.
 
 (8) Members of the Honey Board shall serve for three-year terms with no member serving more than two consecutive three-year terms except that appointments to the Honey Board may be staggered periodically, as determined by the Secretary, to maintain continuity of the Honey Board with respect to all members and with respect to members representing particular groups..<sup>1</sup>
 
@@ -310,7 +310,7 @@ The Honey Board shall maintain books and records and prepare and submit to the S
 
 Any patent on any product, copyright on any material, or any invention, product formulation or publication developed through the use of funds collected by the Honey Board shall be the property of the Honey Board. The funds generated from any such patent, copyright, invention, product formulation, or publication shall inure to the benefit of the Honey Board.
 
-(Pub. L. 98–590, §7, Oct. 30, 1984, 98 Stat. 3117; Pub. L. 101–624, title XIX, §§1983, 1984(a), Nov. 28, 1990, 104 Stat. 3905; Pub. L. 105–185, title VI, §605(f), June 23, 1998, 112 Stat. 590; Pub. L. 105–277, div. A, title I, §101(a) \[title VII, §753(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33.)
+(Pub. L. 98–590, §7, Oct. 30, 1984, 98 Stat. 3117; Pub. L. 101–624, title XIX, §§1983, 1984(a), Nov. 28, 1990, 104 Stat. 3905; Pub. L. 105–185, title VI, §605(f), June 23, 1998, 112 Stat. 590; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33.)
 
 #### Amendments
 

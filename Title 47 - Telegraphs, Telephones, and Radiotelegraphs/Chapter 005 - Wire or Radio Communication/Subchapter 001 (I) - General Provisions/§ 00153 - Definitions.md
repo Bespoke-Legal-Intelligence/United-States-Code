@@ -18,7 +18,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 &emsp;The term “Bell operating company”—
 
-&emsp;&emsp;(A) means any of the following companies: Bell Telephone Company of Nevada, Illinois Bell Telephone Company, Indiana Bell Telephone Company, Incorporated, Michigan Bell Telephone Company, New England Telephone and Telegraph Company, New JerseyBell Telephone Company, New York Telephone Company, U S West Communications Company, South Central Bell Telephone Company, Southern Bell Telephone and Telegraph Company, Southwestern Bell Telephone Company, The Bell Telephone Company of Pennsylvania, The Chesapeake and Potomac Telephone Company, The Chesapeake and Potomac Telephone Company of Maryland, The Chesapeake and Potomac Telephone Company of Virginia, The Chesapeake and Potomac Telephone Company of West Virginia, The Diamond State Telephone Company, The Ohio Bell Telephone Company, The Pacific Telephone and Telegraph Company, or Wisconsin Telephone Company; and
+&emsp;&emsp;(A) means any of the following companies: Bell Telephone Company of Nevada, Illinois Bell Telephone Company, Indiana Bell Telephone Company, Incorporated, Michigan Bell Telephone Company, New England Telephone and Telegraph Company, New Jersey Bell Telephone Company, New York Telephone Company, U S West Communications Company, South Central Bell Telephone Company, Southern Bell Telephone and Telegraph Company, Southwestern Bell Telephone Company, The Bell Telephone Company of Pennsylvania, The Chesapeake and Potomac Telephone Company, The Chesapeake and Potomac Telephone Company of Maryland, The Chesapeake and Potomac Telephone Company of Virginia, The Chesapeake and Potomac Telephone Company of West Virginia, The Diamond State Telephone Company, The Ohio Bell Telephone Company, The Pacific Telephone and Telegraph Company, or Wisconsin Telephone Company; and
 
 &emsp;&emsp;(B) includes any successor or assign of any such company that provides wireline telephone exchange service; but
 
@@ -74,7 +74,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (17) Foreign communication
 
-&emsp;The term “foreign communication” or “foreign transmission” means communication or transmission from or to any place in the United States to or from a foreign country, or between a station in the United States and a mobile station located outside the United States.
+&emsp;The term “foreign communication” or “foreign transmission” means communication ortransmission from or to any place in the United States to or from a foreign country, or between a station in the United States and a mobile station located outside the United States.
 
 #### (18) Great Lakes Agreement
 
@@ -134,7 +134,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (31) Operator
 
-&emsp;(A) The term “operator” on a ship of the United States means, for the purpose of parts II and III of subchapter III of this chapter, a person holding a radio operator's license of the proper class as prescribed and issued by the Commission.
+&emsp;(A) The term “operator” on a ship of the United States means, for the purpose of partsII and III of subchapter III of this chapter, a person holding a radio operator's license of the proper class as prescribed and issued by the Commission.
 
 &emsp;(B) “Operator” on a foreign ship means, for the purpose of part II of subchapter III of this chapter, a person holding a certificate as such of the proper class complying with the provisions of the radio regulations annexed to the International Telecommunication Convention in force, or complying with an agreement or treaty between the United States and the country in which the ship is registered.
 
@@ -148,7 +148,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (34) Radio officer
 
-&emsp;(A) The term “radio officer” on a ship of the United States means, for the purpose of part II of subchapter III of this chapter, a person holding at least a first or second class radiotelegraph operator's license as prescribed and issued by the Commission. When such person is employed to operate a radiotelegraph station aboard a ship of the United States, he isalso required to be licensed as a “radio officer” in accordance with chapter 71 of title 46.
+&emsp;(A) The term “radio officer” on a ship of the United States means, for the purpose of part II of subchapter III of this chapter, a person holding at least a first or second class radiotelegraph operator's license as prescribed and issued by the Commission. When such person is employed to operate a radiotelegraph station aboard a ship of the United States, he is also required to be licensed as a “radio officer” in accordance with chapter 71 of title 46.
 
 &emsp;(B) “Radio officer” on a foreign ship means, for the purpose of part II of subchapter III of this chapter, a person holding at least a first or second class radiotelegraph operator's certificate complying with the provisions of the radio regulations annexed to the International Telecommunication Convention in force.
 
@@ -198,7 +198,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (41) State commission
 
-&emsp;The term “State commission” means the commission, board, or official (by whatever name designated) which under the laws of any State has regulatory jurisdiction with respect to intrastate operations of carriers.
+&emsp;The term “State commission” means the commission, board, or official (by whatevername designated) which under the laws of any State has regulatory jurisdiction with respect to intrastate operations of carriers.
 
 #### (42) Station license
 
@@ -262,7 +262,7 @@ Part II of subchapter III of this chapter, referred to in pars. (31), (34), and 
 
 In par. (34)(A), “chapter 71 of title 46” substituted for “the Act of May 12, 1948 (46 U.S.C. 229a–h)” on authority of Pub. L. 98–89, §2(b), Aug. 26, 1983, 97 Stat. 598, section 1 of which enacted Title 46, Shipping.
 
-References to Philippine Islands in pars. (22) and (51) of this section omitted on authority of Proc. No. 2695, issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse, which proclamation recognized the independence of Philippine Islands as of July 4, 1946. Proc. No. 2695 is set out under section 1394 of Title 22.
+References to Philippine Islands in pars. (22) and (51) of this section omitted on authority of Proc. No. 2695, issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse, which proclamation recognizedthe independence of Philippine Islands as of July 4, 1946. Proc. No. 2695 is set out under section 1394 of Title 22.
 
 #### Amendments
 

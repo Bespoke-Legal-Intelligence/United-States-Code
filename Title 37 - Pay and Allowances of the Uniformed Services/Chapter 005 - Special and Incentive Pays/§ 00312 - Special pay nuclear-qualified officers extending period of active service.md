@@ -8,7 +8,7 @@
 
 &emsp;(3) executes a written agreement to remain on active duty in connection with supervision, operation, and maintenance of naval nuclear propulsion plants for a period of three, four, or five years, so long as the new period of obligated active service does not extend beyond the end of 26 years of commissioned service, in addition to any other period of obligated active service,
 
-> may, upon the acceptance by the Secretary or his designee of the written agreement, in addition to all other compensation to which he is entitled, be paid a sum of money not to exceed $15,000 for each year of the active-service agreement. The Secretary of the Navy shall determine annually the necessity for continuance of the special pay and the rate of special pay per year for such active-service agreements accepted within each 12-month period. Upon acceptance of the agreement by the Secretary or his designee, the total amount payable shall be paid in equal annual installments over the length of the contract, commencing at the expiration of any existing period of obligated active service. The Secretary (or his designee) may accept an active service agreement under this section not more than one year in advance of the end of an officer's existing period of obligated active service under such an agreement. In such a case, the amount of the special pay may be paid commencing with the date of acceptance of the agreement, with the number of installments being equal to the number of years covered by the contract plus one.
+> may, upon the acceptance by the Secretary or his designee of the written agreement, in addition to all other compensation to which he is entitled, be paid a sum of money not to exceed $25,000 for each year of the active-service agreement. The Secretary of the Navy shall determine annually the necessity for continuance of the special pay and the rate of special pay per year for such active-service agreements accepted within each 12-month period. Upon acceptance of the agreement by the Secretary or his designee, the total amount payable shall be paid in equal annual installments over the length of the contract, commencing at the expiration of any existing period of obligated active service. The Secretary (or his designee) may accept an active service agreement under this section not more than one year in advance of the end of an officer's existing period of obligated active service under such an agreement. In such a case, the amount of the special pay may be paid commencing with the date of acceptance of theagreement, with the number of installments being equal to the number of years covered by the contract plus one.
 
 (b) Pursuant to regulations prescribed by the Secretary of the Navy and subject to such exceptions as may be prescribed in those regulations, refunds, on a pro rata basis, of sums paid pursuant to this section may be required if the officer having received the payment fails to complete the full period of active duty in connection with supervision, operation, and maintenance of naval nuclear propulsion plants which he agreed to serve.
 
@@ -18,11 +18,15 @@
 
 (2) This subsection shall be carried out under regulations prescribed by the Secretary of the Navy.
 
-(e) The provisions of this section shall be effective only in the case of officers who, on or before December 31, 1999, execute the required written agreement to remain in active service.
+(e) The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2000, execute the required written agreement to remain in active service.
 
-(Added Pub. L. 91–20, §1(1), June 3, 1969, 83 Stat. 12; amended Pub. L. 92–581, §1(1), (2), Oct. 27, 1972, 86 Stat. 1277; Pub. L. 94–356, §2, July 12, 1976, 90 Stat. 901; Pub. L. 96–513, title V, §516(8), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §2(a), Dec. 23, 1980, 94 Stat. 3359; Pub. L. 99–145, title VI, §632(a), Nov. 8, 1985, 99 Stat. 643; Pub. L. 101–189, div. A, title VI, §614(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(g), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(e), Feb. 10, 1996, 110 Stat. 360; Pub. L. 104–201, div. A, title VI, §613(d), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(d), 624(a), Nov. 18, 1997, 111 Stat. 1786, 1793; Pub. L. 105–261, div. A, title VI, §613(d), Oct. 17, 1998, 112 Stat. 2039.)
+(Added Pub. L. 91–20, §1(1), June 3, 1969, 83 Stat. 12; amended Pub. L. 92–581, §1(1), (2), Oct. 27, 1972, 86 Stat. 1277; Pub. L. 94–356, §2, July 12, 1976, 90 Stat. 901; Pub. L. 96–513, title V, §516(8), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §2(a), Dec. 23, 1980, 94 Stat. 3359; Pub. L. 99–145, title VI, §632(a), Nov. 8, 1985, 99 Stat. 643; Pub. L. 101–189, div. A, title VI, §614(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(g), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(e), Feb. 10, 1996, 110 Stat. 360; Pub. L. 104–201, div. A, title VI, §613(d), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(d), 624(a), Nov. 18, 1997, 111 Stat. 1786, 1793; Pub. L. 105–261, div. A, title VI, §613(d), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §§613(e), 624(a), Oct. 5, 1999, 113 Stat. 650, 654.)
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–65, §624(a), substituted “$25,000” for “$15,000” in concluding provisions.
+
+Subsec. (e). Pub. L. 106–65, §613(e), substituted “December 31, 2000” for “December 31, 1999”.
 
 1998—Subsec. (e). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
 
@@ -73,6 +77,10 @@ Subsec. (c). Pub. L. 92–581, §1(2)(C), substituted “duty in connection with
 Subsec. (d). Pub. L. 92–581, §1(2)(D), struck out “submarine”.
 
 Subsec. (e). Pub. L. 92–581, §1(2)(E), substituted “1975” for “1973”.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–65, div. A, title VI, §624(d)(1), Oct. 5, 1999, 113 Stat. 654, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 312b of this title\] shall take effect on October 1, 1999, and shall apply to agreements under section 312 or 312b of such title entered into on or after that date.”
 
 #### Effective Date of 1997 Amendment
 

@@ -132,7 +132,7 @@
 
 (b) Funds appropriated for any fiscal year may remain available for obligation until expended.
 
-(c) Notwithstanding any other provision of law, no funds appropriated under this section for subchapter V of this chapter may be transferred or reprogrammed for carrying out any activity which is not authorized under such subchapter.
+(c) Notwithstanding any other provision of law, no funds appropriated under this section forsubchapter V of this chapter may be transferred or reprogrammed for carrying out any activity which is not authorized under such subchapter.
 
 (Pub. L. 90–351, title I, §1001, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1218; amended Pub. L. 98–473, title II, §609D(a), Oct. 12, 1984, 98 Stat. 2097; Pub. L. 99–570, title I, §1552(c), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 100–690, title VI, §6093, Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–647, title II, §241(c), title VIII, §801(b), title XVIII, §1801(e), title XXVIII, §2801, Nov. 29, 1990, 104 Stat. 4814, 4826, 4849, 4912; Pub. L. 102–521, §4(c), Oct. 25, 1992, 106 Stat. 3406; Pub. L. 102–534, §1, Oct. 27, 1992, 106 Stat. 3524; Pub. L. 103–322, title I, §10003(c), title II, §20201(d), title III, §32101(d), title IV, §§40121(c), 40156(c)(1), 40231(c), title V, §50001(c), title XVIII, §180101(a), title XXI, §§210201(c), 210302(c)(3), 210601, title XXXIII, §330001(b)(3), (h)(14), Sept. 13, 1994, 108 Stat. 1814, 1823, 1901, 1916, 1923, 1934, 1958, 2045, 2064, 2068, 2073, 2138, 2140; Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(b)(1)(B)(i)\], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–181, §3(b), June 16, 1998, 112 Stat. 515.)
 

@@ -1,6 +1,6 @@
 ### §1201. Statement of purpose
 
-It is the purpose of this chapter to provide a positive means whereby the operators of approaching vessels can communicate their intentions to one another through voice radio, located convenient to the operator's navigationstation. To effectively accomplish this, there is need for a specific frequency or frequencies dedicated to the exchange of navigational information, on navigable waters of the United States.
+It is the purpose of this chapter to provide a positive means whereby the operators of approaching vessels can communicate their intentions to one another through voice radio, located convenient to the operator's navigation station. To effectively accomplish this, there is need for a specific frequency or frequencies dedicated to the exchange of navigational information, on navigable waters of the United States.
 
 (Pub. L. 92–63, §2, Aug. 4, 1971, 85 Stat. 164.)
 

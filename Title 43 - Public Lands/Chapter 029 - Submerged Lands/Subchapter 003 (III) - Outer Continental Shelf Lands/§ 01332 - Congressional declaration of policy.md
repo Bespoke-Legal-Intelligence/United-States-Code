@@ -12,7 +12,7 @@ It is hereby declared to be the policy of the United States that—
 
 &emsp;&emsp;(A) such States and their affected local governments may require assistance in protecting their coastal zones and other affected areas from any temporary or permanent adverse effects of such impacts;
 
-&emsp;&emsp;(B) the distribution of a portion of the receipts from the leasing of mineral resources of the outer Continental Shelf adjacent to State lands, as provided under section 1337(g) of this title, will provide affected coastal States and localities with funds which may be used for the mitigation of adverse economic and environmental effects related to the development of such resources; and
+&emsp;&emsp;(B) the distribution of a portion of the receipts from the leasing of mineral resourcesof the outer Continental Shelf adjacent to State lands, as provided under section 1337(g) of this title, will provide affected coastal States and localities with funds which may be used for the mitigation of adverse economic and environmental effects related to the development of such resources; and
 
 &emsp;&emsp;(C) such States, and through such States, affected local governments, are entitled to an opportunity to participate, to the extent consistent with the national interest, in the policy and planning decisions made by the Federal Government relating to exploration for, and development and production of, minerals of the outer Continental Shelf.<sup>1</sup>
 

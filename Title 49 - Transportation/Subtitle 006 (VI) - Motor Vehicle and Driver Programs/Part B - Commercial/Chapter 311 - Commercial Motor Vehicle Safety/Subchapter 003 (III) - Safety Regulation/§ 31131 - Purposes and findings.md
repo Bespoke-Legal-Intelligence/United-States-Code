@@ -46,3 +46,15 @@ Oct. 30, 1984, Pub. L. 98–554, §§202, 203, 98 Stat. 2832.
 
 In subsection (a)(3), the words “this chapter” are substituted for “this Act” because title II of the Act of October 30, 1984 (Public Law 98–554, 98 Stat. 2832), amended and enacted provisions restated in this chapter.
 
+#### Traffic Law Initiative
+
+Pub. L. 106–159, title II, §220, Dec. 9, 1999, 113 Stat. 1769, provided that:
+
+“(a)
+
+In General.—In cooperation with one or more States, the Secretary may carry out a program to develop innovative methods of improving motor carrier compliance with traffic laws. Such methods may include the use of photography and other imaging technologies.
+
+“(b)
+
+Report.—The Secretary shall transmit to Congress a report on the results of any program conducted under this section, together with any recommendations as the Secretary determines appropriate.”
+

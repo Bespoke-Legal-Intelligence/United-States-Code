@@ -20,7 +20,7 @@ There shall be a President of the Export-Import Bank of the United States, who s
 
 (5) The directors, in addition to their duties as members of the Board, shall perform such additional duties and may hold such other offices in the administration of the Bank as the President of the Bank may from time to time prescribe.
 
-(6) A majority of the Board of Directors shall constitute a quorum.
+(6) A quorum of the Board of Directors shall consist of at least three members.
 
 (7) The Board of Directors shall adopt, and may from time to time amend, such bylaws as are necessary for the proper management and functioning of the Bank, and shall, in such bylaws, designate the vice presidents and other officers of the Bank and prescribe their duties.
 
@@ -62,17 +62,19 @@ There shall be a President of the Export-Import Bank of the United States, who s
 
 #### (e) Conflicting personal interests
 
-(1) No director, officer, attorney, agent, or employee of the Bank shall in any manner, directly or indirectly, participate in the deliberation upon or the determination of any question affecting such individual's personal interests, or the interests of any corporation, partnership orassociation in which such individual is directly or indirectly personally interested.
+(1) No director, officer, attorney, agent, or employee of the Bank shall in any manner, directly or indirectly, participate in the deliberation upon or the determination of any question affecting such individual's personal interests, or the interests of any corporation, partnership or association in which such individual is directly or indirectly personally interested.
 
 (2) The General Counsel of the Bank shall ensure that the directors, officers, and employees of the Bank have available appropriate legal counsel for advice on, and oversight of, issues relating to personnel matters and other administrative law matters by designating an attorney to serve as Assistant General Counsel for Administration, whose duties, under the supervision of the General Counsel, shall be concerned solely or primarily with such issues.
 
-(July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Pub. L. 90–267, §1(a), (d), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 98–181, title VI, §§613, 614(a), 620(b), Nov. 30, 1983, 97 Stat. 1255, 1261; Pub. L. 99–472, §18, Oct. 15, 1986, 100 Stat. 1205; Pub. L. 102–429, title I, §113, Oct. 21, 1992, 106 Stat. 2195; (As amended Pub. L. 105–121, §§6, 8, Nov. 26, 1997, 111 Stat. 2529, 2530.)
+(July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Pub. L. 90–267, §1(a), (d), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 98–181, title VI, §§613, 614(a), 620(b), Nov. 30, 1983, 97 Stat. 1255, 1261; Pub. L. 99–472, §18, Oct. 15, 1986, 100 Stat. 1205; Pub. L. 102–429, title I, §113, Oct. 21, 1992, 106 Stat. 2195; (As amended Pub. L. 105–121, §§6, 8, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–46, §1(a), Aug. 11, 1999, 113 Stat. 227.)
 
 #### Codification
 
 Provisions of subsecs. (b) and (c)(3) of this section, which prescribed the annual compensation of the President, the First Vice President, and other members of the Board of Directors, were omitted to conform to the provisions of the Executive Schedule. See sections 5314 and 5315 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1999—Subsec. (c)(6). Pub. L. 106–46 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “A majority of the Board of Directors shall constitute a quorum.”
 
 1997—Subsec. (d)(2). Pub. L. 105–121, §8, designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -97,6 +99,10 @@ Subsec. (d). Pub. L. 90–267, §1(d), substituted provisions for compensation o
 #### Effective Date of 1954 Amendment
 
 Section 4 of act Aug. 9, 1954, provided that: “The provisions of this Act for the appointment of a President and a First Vice President of the Bank and the members of the Board of Directors shall be effective upon its enactment \[Aug. 9, 1954\]. The remaining provisions of this Act shall become effective when the President and First Vice President of the Bank and one other member of the Board of Directors initially appointed hereunder enter upon office, and shall thereupon supersede Reorganization Plan No. 5 of 1953 \[set out below\].”
+
+#### Board of Directors; Exception to Quorum Requirement
+
+Pub. L. 106–46, §1(b), Aug. 11, 1999, 113 Stat. 227, as amended by Pub. L. 106–62, §122, Sept. 30, 1999, 113 Stat. 509; Pub. L. 106–85, Oct. 29, 1999, 113 Stat. 1297; Pub. L. 106–88, Nov. 5, 1999, 113 Stat. 1304; Pub. L. 106–94, Nov. 10, 1999, 113 Stat. 1311; Pub. L. 106–105, Nov. 18, 1999, 113 Stat. 1484; Pub. L. 106–106, Nov. 19, 1999, 113 Stat. 1485, provided that: “Notwithstanding section 3(c)(6) of the Export-Import Bank Act of 1945 \[12 U.S.C. 635a(c)(6)\], if, during the period that begins on July 21, 1999, and ends on December 2, 1999, there are fewer than three persons holding office on the Board of Directors of the Export-Import Bank of the United States, the entire membership of such Board of Directors shall constitute a quorum until the end of such period.”
 
 #### Compensation of Employees
 
@@ -126,9 +132,11 @@ Report.—Not later than 1 year after the date of enactment of this Act, the Exp
 
 &emsp;&emsp;“(B) whether or not the authority of subsection (a) should be extended.”
 
-\[Pub. L. 105–277, div. A, §101(d) \[title I\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–151, provided in part: “That, notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 1999.”
+\[Pub. L. 106–113, div. B, §1000(a)(2) \[title I\], Nov. 29, 1999, 113 Stat. 1535, 1501A–64, provided in part: “That, notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 2000.”
 
 \[Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
+
+\[Pub. L. 105–277, div. A, §101(d) \[title I\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–151.
 
 \[Pub. L. 105–118, title I, Nov. 26, 1997, 111 Stat. 2387.
 
@@ -196,7 +204,7 @@ The following are hereby abolished: (1) The Board of Directors of the Export-Imp
 
 #### Sec. 8. Effective Date
 
-Sections 3 to 7, inclusive, of this reorganization plan shall become effective when the Managing Director first appointed hereunder enters upon office pursuant to the provisions of this reorganization plan.
+Sections 3 to 7, inclusive, of this reorganization plan shall become effective when the Managing Directorfirst appointed hereunder enters upon office pursuant to the provisions of this reorganization plan.
 
 \[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, which amended this section. The Board had previously been abolished and its functions transferred to the Managing Director of the Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See this section and 1954 Amendment and Effective Date of 1954 Amendment notes set out above. The “Export-Import Bank of Washington” was renamed the “Export-Import Bank of the United States” by Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47.\]
 

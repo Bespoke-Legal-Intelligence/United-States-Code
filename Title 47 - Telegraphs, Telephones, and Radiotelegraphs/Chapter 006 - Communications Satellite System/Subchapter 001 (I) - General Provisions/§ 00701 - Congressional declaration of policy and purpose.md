@@ -30,7 +30,7 @@ For short title of title V of Pub. L. 87–624, as added by Pub. L. 95–564, No
 
 #### Stylistic Consistency
 
-Pub. L. 103–414, title III, §303(f), Oct. 25, 1994, 108 Stat. 4296, provided that: “The Communications Act of 1934 \[47 U.S.C. 151 et seq.\] and the Communications Satellite Act of 1962 \[47 U.S.C. 701 et seq.\] are amended so that the section designation and section heading of each section of such Acts shall be in the form and typefaceof the section designation and heading of this section \[108 Stat. 4294\].”
+Pub. L. 103–414, title III, §303(f), Oct. 25, 1994, 108 Stat. 4296, provided that: “The Communications Act of 1934\[47 U.S.C. 151 et seq.\] and the Communications Satellite Act of 1962 \[47 U.S.C. 701 et seq.\] are amended so that the section designation and section heading of each section of such Acts shall be in the form and typeface of the section designation and heading of this section \[108 Stat. 4294\].”
 
 #### International Telecommunications Satellite Organization
 

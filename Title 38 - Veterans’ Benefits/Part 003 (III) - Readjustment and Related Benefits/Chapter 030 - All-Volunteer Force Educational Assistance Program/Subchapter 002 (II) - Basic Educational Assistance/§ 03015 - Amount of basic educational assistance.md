@@ -62,7 +62,7 @@ Pub. L. 105–261, §565(a), inserted “, at the time the individual first bec
 
 Subsec. (g). Pub. L. 105–178, §8203(a)(2), substituted “, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the rates payable under subsections (a)(1) and (b)(1)” for “beginning on or after October 1, 1994, the Secretary shall continue to pay, in lieu of the rates payable under subsection (a)(1) or (b)(1) of this section, the monthly rates payable under this subsection for the previous fiscal year and shall provide, for any such fiscal year, a percentage increase in such rates”.
 
-1997—Subsec. (e)(1)(A). Pub. L. 105–114, §401(b)(1), substituted “(1)(A) Except as provided in subparagraph (B) of this paragraph and subject to paragraph (2)” for “(1) Subject to paragraph (2)”.
+1997—Subsec. (e)(1)(A). Pub. L. 105–114, §401(b)(1), substituted “(1)(A) Except as provided in subparagraph (B)of this paragraph and subject to paragraph (2)” for “(1) Subject to paragraph (2)”.
 
 Subsec. (e)(1)(B). Pub. L. 105–114, §401(b)(2), added subpar. (B).
 

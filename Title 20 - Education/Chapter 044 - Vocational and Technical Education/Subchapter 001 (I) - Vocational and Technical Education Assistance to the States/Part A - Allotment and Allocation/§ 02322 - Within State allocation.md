@@ -32,7 +32,7 @@ Each eligible agency receiving funds made available under subsection (a)(3) of t
 
 #### (1) In general
 
-&emsp;From amounts made available under subsection (a)(1) of this section to carry out this subsection, an eligible agency may award grants to eligible recipients for vocational and technical education activities described in section 2355 of this title in—
+&emsp;From amounts made available under subsection (a)(1) of this section to carry out thissubsection, an eligible agency may award grants to eligible recipients for vocational and technical education activities described in section 2355 of this title in—
 
 &emsp;&emsp;(A) rural areas;
 

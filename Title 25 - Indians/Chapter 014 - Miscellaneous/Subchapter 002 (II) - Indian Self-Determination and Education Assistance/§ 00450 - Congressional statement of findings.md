@@ -26,7 +26,7 @@ Pub. L. 103–413, §1, Oct. 25, 1994, 108 Stat. 4250, provided that: “This Ac
 
 Pub. L. 103–413, title I, §101, Oct. 25, 1994, 108 Stat. 4250, provided that: “This title \[enacting section 450<i>l</i> of this title and amending sections 450b, 450c, 450e, 450f, 450j to 450k, 450m, and 450m–1 of this title\] may be cited as the ‘Indian Self-Determination Contract Reform Act of 1994’.”
 
-Pub. L. 103–413, title II, §201, Oct. 25, 1994, 108 Stat. 4270, provided that: “This title \[enacting part D (§458aa et seq.) of this subchapter and provisions set out as notes under section 458aa of this title\] may be cited as the ‘Tribal Self-Governance Act of 1994’.”
+Pub. L. 103–413, title II, §201, Oct. 25, 1994, 108 Stat. 4270, provided that: “This title \[enacting part D (§458aa et seq.) of this subchapter and provisions set out asnotes under section 458aa of this title\] may be cited as the ‘Tribal Self-Governance Act of 1994’.”
 
 #### Short Title of 1990 Amendment
 
@@ -38,7 +38,7 @@ Pub. L. 100–472, title I, §101, Oct. 5, 1988, 102 Stat. 2285, provided that: 
 
 #### Short Title
 
-Section 1 of Pub. L. 93–638 provided: “That this Act \[enacting this subchapter, section 13a of this title, andsection 2004b of Title 42, The Public Health and Welfare, amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 456 of Title 50, Appendix, War and National Defense, and enacting provisions set out as notes under sections 450f, 455, and 457 of this title\] may be cited as the ‘Indian Self-Determination and Education Assistance Act’.”
+Section 1 of Pub. L. 93–638 provided: “That this Act \[enacting this subchapter, section 13a of this title, and section 2004b of Title 42, The Public Health and Welfare, amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 456 of Title 50, Appendix, War and National Defense, and enacting provisions set out as notes under sections 450f, 455, and 457 of this title\] may be cited as the ‘Indian Self-Determination and Education Assistance Act’.”
 
 Section 101 of title I of Pub. L. 93–638 provided that: “This title \[enacting part A (§450f et seq.) of this subchapter and section 2004b of Title 42, The Public Health and Welfare, and amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 456 of the Appendix to Title 50, War and National Defense\] may be cited as the ‘Indian Self-Determination Act’.”
 
@@ -102,7 +102,7 @@ Sec. 7. <i>General provisions</i>. (a) This order is intended only to improve th
 
 (b) This order shall supplement but not supersede the requirements contained in Executive Order 12866 (“Regulatory Planning and Review”) \[5 U.S.C. 601 note\], Executive Order 12988 (“Civil Justice Reform”) \[28 U.S.C. 519 note\], OMB Circular A–19, and the Executive Memorandum of April 29, 1994 \[set out below\], on Government-to-Government Relations with Native American Tribal Governments.
 
-(c) This order shall complement the consultation and waiver provisions in sections 4 and 5 of the Executive order, entitled “Federalism,” \[Ex. Ord. No. 13083, 5 U.S.C. 601 note\] being issued on this day.
+(c) This order shall complement the consultation and waiver provisions in sections 4 and 5 of the Executive order, entitled “Federalism,” \[Ex. Ord. No. 13083, former 5 U.S.C. 601 note\] being issued on this day.
 
 (d) This order shall be effective 90 days after the date of this order.
 

@@ -16,7 +16,7 @@ The Secretary may not make a grant under subsection (a) of this section unless, 
 
 &emsp;(4) to give priority to providing services to individuals who are intravenous drug abusers, to pregnant women, to homeless individuals, and to residents of publicly-assisted housing;
 
-&emsp;(5) with respect to women with dependent children, to provide child care to such women seeking treatment services for substance abuse;
+&emsp;(5) with respect to women with dependent children, to provide child care to such womenseeking treatment services for substance abuse;
 
 &emsp;(6) to conduct outreach activities to inform individuals of the availability of the services of the program;
 
@@ -80,7 +80,7 @@ The Secretary may not make a grant under subsection (a) of this section unless, 
 
 #### (g) “National capital area” defined
 
-For purposes of this section, the term “national capital area” means the metropolitan Washington area, including the District of Columbia, the cities of Alexandria, Falls Church, and Fairfax in the State of Virginia, the counties of Arlington and Fairfax in such State (and the political subdivisions located in such counties), and the counties of Montgomery and Prince George's in the State of Maryland (and the political subdivisions located in such counties).
+For purposes of this section, the term “national capital area” means the metropolitanWashington area, including the District of Columbia, the cities of Alexandria, Falls Church, and Fairfax in the State of Virginia, the counties of Arlington and Fairfax in such State (and the political subdivisions located in such counties), and the counties of Montgomery and Prince George's in the State of Maryland (and the political subdivisions located in such counties).
 
 #### (h) Obligation of funds
 

@@ -42,7 +42,9 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 #### Salary Increases
 
-1999—Salaries of district judges continued at $136,700 per annum, by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+2000—Salaries of district judges increased to $141,300 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2000, by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+
+1999—Salaries of district judges continued at $136,700 per annum, by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, formerly set out as a note under section 5332 of Title 5.
 
 1998—Salaries of district judges increased to $136,700 per annum, effective on first day of first pay period beginning on or after Jan. 1, 1998, by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, formerly set out as a note under section 5332 of Title 5.
 
@@ -54,7 +56,7 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 1993—Salaries of district judges increased to $133,600 per annum, effective on first day of first pay period beginning on or after Jan. 1, 1993, by Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909, formerly set out as a note under section 5332 of Title 5.
 
-1992—Salaries of district judges increased to $129,500 per annum, effective on first day of first pay period beginning on or after Jan. 1, 1992, by Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453, formerly set out as a note under section 5332 of Title 5.
+1992—Salaries of district judges increased to $129,500 per annum, effective on first day of first pay period beginning on or after Jan. 1, 1992, by Ex. Ord. No. 12786,Dec. 26, 1991, 56 F.R. 67453, formerly set out as a note under section 5332 of Title 5.
 
 1991—Salaries of district judges increased to $125,100 per annum, effective on first day of first pay period beginning on or after Jan. 1, 1991, by Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385, formerly set out as a note under section 5332 of Title 5.
 

@@ -14,7 +14,7 @@ There is established a Federal Acquisition Regulatory Council (hereinafter in th
 
 &emsp;(C) the Administrator of General Services.
 
-(2) Notwithstanding section 205(d) of the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 486(d)\], the officials specified in subparagraphs (A), (B), and (C) of paragraph (1) may designate to serve on and attend meetings of the Council in place of that official (A) the official assigned by statute with the responsibility for acquisition policy in each of their respective agencies or, in the case of the Secretary of Defense, an official at an organizational level not lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition and Technology; or (B) if no official of such agency is assigned by statute with the responsibility for acquisition policy forthat agency, the official designated pursuant to section 414(3) of this title. No other official or employee may be designated to serve on the Council.
+(2) Notwithstanding section 205(d) of the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 486(d)\], the officials specified in subparagraphs (A), (B), and (C) of paragraph (1) may designate to serve on and attend meetings of the Council in place of that official (A) the official assigned by statute with the responsibility for acquisition policy in each of their respective agencies or, in the case of the Secretary of Defense, an official at an organizational level not lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics; or (B) if no official of such agency is assigned by statute with the responsibility for acquisition policy for that agency, the official designated pursuant to section 414(3) of this title. No other official or employee may be designated to serve on the Council.
 
 #### (c) Functions
 
@@ -28,7 +28,7 @@ There is established a Federal Acquisition Regulatory Council (hereinafter in th
 
 (B) Unless the request is frivolous or does not, on its face, state a valid basis for such review, the Administrator shall complete such a review not later than 60 days after receiving the request. The time for completion of the review may be extended if the Administrator determines that an additional period of review is required. The Administrator shall advise the requester of the reasons for the extension and the date by which the review will be completed.
 
-(5) If the Administrator determines that a regulation relating to procurement is inconsistent with the Federal Acquisition Regulation or that the regulation should otherwise be revised to remove an inconsistency with any policies issued under section 405(a) of this title, the Administrator shall rescind or deny the promulgation of the regulation or take such other action authorized under section 405 of this title as may be necessary to remove the inconsistency. If the Administrator determines that such a regulation, although not inconsistent with the Federal Acquisition Regulation or such policies, should be revised to improve compliance with such Regulation or policies, the Administrator shall take such action authorized under section 405 of this title as may be necessary and appropriate.
+(5) If the Administrator determines that a regulation relating to procurement is inconsistent with the Federal Acquisition Regulation or that the regulation should otherwise be revised to remove an inconsistency with any policies issued under section 405(a) of this title, the Administrator shall rescind or deny the promulgation of the regulation or take such other action authorized under section 405 of this title as may be necessary to remove the inconsistency. If theAdministrator determines that such a regulation, although not inconsistent with the Federal Acquisition Regulation or such policies, should be revised to improve compliance with such Regulation or policies, the Administrator shall take such action authorized under section 405 of this title as may be necessary and appropriate.
 
 (6) The decisions of the Administrator shall be in writing and made publicly available. The Administrator shall provide a listing of such decisions in the annual report to Congress required by section 407 <sup>1</sup> of this title.
 
@@ -52,7 +52,7 @@ All actions of the Council and of members of the Council shall be in accordance 
 
 Subject to section 405(b) of this title, the Council shall manage, coordinate, control, and monitor the maintenance of, and issuance of and changes in, the Federal Acquisition Regulation.
 
-(Pub. L. 93–400, §25, as added Pub. L. 100–679, §4, Nov. 17, 1988, 102 Stat. 4056; amended Pub. L. 101–510, div. A, title VIII, §807, Nov. 5, 1990, 104 Stat. 1593; Pub. L. 104–106, div. D, title XLIII, §4322(a)(2), Feb. 10, 1996, 110 Stat. 677; Pub. L. 104–201, div. A, title VIII, §822, title X, §1074(f)(3), Sept. 23, 1996, 110 Stat. 2609, 2661; Pub. L. 105–85, div. A, title VIII, §841(d), Nov. 18, 1997, 111 Stat. 1843.)
+(Pub. L. 93–400, §25, as added Pub. L. 100–679, §4, Nov. 17, 1988, 102 Stat. 4056; amended Pub. L. 101–510, div. A, title VIII, §807, Nov. 5, 1990, 104 Stat. 1593; Pub. L. 104–106, div. D, title XLIII, §4322(a)(2), Feb. 10, 1996, 110 Stat. 677; Pub. L. 104–201, div. A, title VIII, §822, title X, §1074(f)(3), Sept. 23, 1996, 110 Stat. 2609, 2661; Pub. L. 105–85, div. A, title VIII, §841(d), Nov. 18, 1997, 111 Stat. 1843; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717.)
 
 #### References in Text
 
@@ -65,6 +65,8 @@ Section 407 of this title, referred to in subsec. (c)(6), was repealed by Pub. L
 Section 3502 of title 44, referred to in subsec. (d)(2), which in par. (11) defined “information collection request”, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. Pub. L. 104–13 enacted a new section 3502 of Title 44 which does not define “information collection request”.
 
 #### Amendments
+
+1999—Subsec. (b)(2). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 1997—Subsec. (g). Pub. L. 105–85 struck out subsec. (g) which required the Administrator for Federal Procurement to publish an annual report relating to the development of procurement regulations.
 
@@ -94,7 +96,7 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 #### Status of Director of Defense Procurement
 
-Pub. L. 102–190, div. A, title VIII, §809, Dec. 5, 1991, 105 Stat. 1423, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that: “For the purposes of the amendment made by section 807 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1593) to section 25(b)(2) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(b)(2)), the Director of Defense Procurement of the Department of Defense shall be considered to be an official at an organizational level of an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition and Technology.”
+Pub. L. 102–190, div. A, title VIII, §809, Dec. 5, 1991, 105 Stat. 1423, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that: “For the purposes of the amendment made by section 807 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1593) to section 25(b)(2) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(b)(2)), the Director of Defense Procurement of the Department of Defense shall be considered to be an official at an organizational level of an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics.”
 
 #### Section Referred to in Other Sections
 

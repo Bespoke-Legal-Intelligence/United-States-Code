@@ -62,7 +62,7 @@ To ensure the liquidity of securities for which guarantees have been provided un
 
 #### (1) Initial year
 
-&emsp;During the first year after January 6, 1988, the Corporation may not provide guaranteesfor securities representing interests in, or obligations backed by, qualified loans (other than loans which back securities issued by Farm Credit System institutions for which the Corporation provides a guarantee) in an aggregate principal amount in excess of 2 percent of the total agricultural real estate debt outstanding at the close of the prior calendar year (as published by the Board of Governors of the Federal Reserve System), less all Farmers Home Administration agricultural real estate debt.
+&emsp;During the first year after January 6, 1988, the Corporation may not provide guarantees for securities representing interests in, or obligations backed by, qualified loans (other than loans which back securities issued by Farm Credit System institutions for which the Corporation provides a guarantee) in an aggregate principal amount in excess of 2 percent of the total agricultural real estate debt outstanding at the close of the prior calendar year (as published by the Board of Governors of the Federal Reserve System), less all Farmers Home Administration agricultural real estate debt.
 
 #### (2) Second year
 
@@ -90,7 +90,7 @@ To ensure the liquidity of securities for which guarantees have been provided un
 
 #### (A) Terms
 
-&emsp;&emsp;The obligations issued under this subsection shall have maturities and bear rates of interest as determined by the Corporation, and may be redeemable at the option of the Corporation before maturity in the manner stipulated in the obligations.
+&emsp;&emsp;The obligations issued under this subsection shall have maturities and bear ratesof interest as determined by the Corporation, and may be redeemable at the option of the Corporation before maturity in the manner stipulated in the obligations.
 
 #### (B) Requirement
 
@@ -124,7 +124,7 @@ Subsec. (c). Pub. L. 104–105, §109(a), redesignated subsec. (e) as (c) and st
 
 Subsec. (d). Pub. L. 104–105, §109(a)(2), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (b).
 
-Subsec. (d)(4) to (7). Pub. L. 104–105, §107(2), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out heading and text of former par. (4). Textread as follows: “Each loan in the pool shall have been sold to the certified facility without recourse to the originator of such loan (other than recourse to any interest of such originator in a reserve established in connection with such loan or any subordinated participation interest of such originator in such loan).”
+Subsec. (d)(4) to (7). Pub. L. 104–105, §107(2), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out heading and text of former par. (4). Text read as follows: “Each loan in the pool shall have been sold to the certified facility without recourse to the originator of such loan (other than recourse to any interest of such originator in a reserve established in connection with such loan or any subordinated participation interest of such originator in such loan).”
 
 Subsecs. (e), (f). Pub. L. 104–105, §109(a)(2), redesignated subsecs. (f) and (g) as (d) and (e), respectively. Former subsec. (e) redesignated (c).
 

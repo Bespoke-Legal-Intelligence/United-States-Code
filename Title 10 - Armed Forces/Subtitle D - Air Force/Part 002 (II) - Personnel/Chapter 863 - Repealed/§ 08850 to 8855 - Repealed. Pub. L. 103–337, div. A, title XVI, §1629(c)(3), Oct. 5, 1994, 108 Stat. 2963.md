@@ -8,7 +8,7 @@ Section 8852, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 1537; am
 
 Section 8853, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 1538; amended Pub. L. 86–559, §1(75), June 30, 1960, 74 Stat. 280; Pub. L. 98–94, title X, §1016(c), Sept. 24, 1983, 97 Stat. 668, related to computation of years of service. See section 14706 of this title.
 
-Section 8855, added Pub. L. 86–559, §1(76), June 30, 1960, 74 Stat. 280; amended Pub. L. 96–107, title IV, §403(b), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–513, title II, §215(b), Dec. 12, 1980, 94 Stat. 2885; Pub. L. 100–180, div. A, title VII, §717(c), (d)(2)(A), Dec. 4, 1987, 101 Stat. 1114; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1233(<i>l</i>)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VII, §710(c), Nov. 29, 1989, 103 Stat. 1477, related to retention in active status of certain reserve officers. See section 14703(a)(3), (b) of this title.
+Section 8855, added Pub. L. 86–559, §1(76), June 30, 1960, 74 Stat. 280; amended Pub. L. 96–107, title IV, §403(b), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–513, title II, §215(b), Dec. 12, 1980, 94 Stat. 2885; Pub. L. 100–180, div.A, title VII, §717(c), (d)(2)(A), Dec. 4, 1987, 101 Stat. 1114; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1233(<i>l</i>)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VII, §710(c), Nov. 29, 1989, 103 Stat. 1477, related to retention in active status of certain reserve officers. See section 14703(a)(3), (b) of this title.
 
 #### Effective Date of Repeal
 

@@ -70,7 +70,7 @@ Committees established under subsection (c) of this section shall meet at the ca
 
 #### (e) Meeting of advisory committees at conclusion of negotiations
 
-(1) The Advisory Committee for Trade Policy and Negotiations, each appropriate policy advisory committee, and each sectoral or functional advisory committee, if the sector or area which such committee represents is affected, shall meet at the conclusion of negotiations for each trade agreement entered into under section 2902 of this title, to provide to the President, to Congress, and to the United States Trade Representative a report on such agreement. Each report that applies to a trade agreement entered into under section 2902 of this title shall be provided under the preceding sentence not later than the date on which the President notifies the Congress under section 2903(a)(1)(A) of this title of his intention to enter into that agreement.
+(1) The Advisory Committee for Trade Policy and Negotiations, each appropriate policy advisory committee, and each sectoral or functional advisory committee, if the sector or area whichsuch committee represents is affected, shall meet at the conclusion of negotiations for each trade agreement entered into under section 2902 of this title, to provide to the President, to Congress, and to the United States Trade Representative a report on such agreement. Each report that applies to a trade agreement entered into under section 2902 of this title shall be provided under the preceding sentence not later than the date on which the President notifies the Congress under section 2903(a)(1)(A) of this title of his intention to enter into that agreement.
 
 (2) The report of the Advisory Committee for Trade Policy and Negotiations and each appropriate policy advisory committee shall include an advisory opinion as to whether and to what extent the agreement promotes the economic interests of the United States and achieves the applicable overall and principal negotiating objectives set forth in section 2901 of this title, as appropriate.
 
@@ -128,7 +128,7 @@ Nothing contained in this section shall be construed to authorize or permit any 
 
 #### (<i>l</i>) Advisory committees established by Department of Agriculture
 
-The provisions of title XVIII of the Food and Agriculture Act of 1977 (7 U.S.C. 2281 et seq.)shall not apply to any advisory committee established under subsection (c) of this section.
+The provisions of title XVIII of the Food and Agriculture Act of 1977 (7 U.S.C. 2281 et seq.) shall not apply to any advisory committee established under subsection (c) of this section.
 
 #### (m) “Non-Federal government” defined
 
@@ -182,7 +182,7 @@ Subsec. (c)(2). Pub. L. 96–39, §1103(6)–(9), substituted “The President s
 
 Subsec. (d). Pub. L. 96–39, §1103(10), required committee meetings to be also summoned at joint instance of Secretary of Agriculture, Commerce, or Labor, as appropriate, previously required to be called before and during trade negotiations, struck out item (1) through (3) designation for “policy advice”, “technical advice” and “advice on other factors”, struck out “on negotiations” and “on negotiations on particular products both domestic and foreign” after “policy advice” and “technical advice and information” and substituted “factors relevant to the matters referred to in subsection (a) of this section” for “factors relevant to positions of the United States in trade negotiations.”
 
-Subsec. (e). Pub. L. 96–39, §1103(11)–(14), redesignated par. (1) as entire provision, and in provision as so redesignated, substituted “each sector or functional advisory committee, if the sector or area” for “each sector advisory committee, if the sector”, “appropriate sector or functional area” for “appropriate sector”, and “within the sector or within the functional area” for “within the sector”, and struck out par. (2) which required a report to Congress by the Advisory Committeefor Trade Negotiations by each policy advisory committee, and, each sector advisory committee as soon as practicable at end of the period ending 5 years after Jan. 3, 1975, including advisory opinions of the respective committees as to how the trade agreements serve the economic interests of United States and how provision is made for equity and reciprocity within the sector.
+Subsec. (e). Pub. L. 96–39, §1103(11)–(14), redesignated par. (1) as entire provision, and in provision as so redesignated, substituted “each sector or functional advisory committee, if the sector or area” for “each sector advisory committee, if the sector”, “appropriate sector or functional area” for “appropriate sector”, and “within the sector or within the functional area” for “within the sector”, and struck out par. (2) which required a report to Congress by the Advisory Committee for Trade Negotiations by each policy advisory committee, and, each sector advisory committee as soon as practicable at end of the period ending 5 years after Jan. 3, 1975, including advisory opinions of the respective committees as to how the trade agreements serve the economic interests of United States and how provision is made for equity and reciprocity within the sector.
 
 Subsec. (f)(2). Pub. L. 96–39, §1103(15)(A), (B), substituted “committees” for “groups” and “with respect to matters referred to in subsection (a) of this section” for “on the negotiation of any trade agreement”.
 
@@ -246,11 +246,13 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Trade and Environment Policy Advisory Committee
 
-Term of Trade and Environment Policy Committee extended until Sept. 30, 1999, by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, set out under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Trade and Environment Policy Committee extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of Trade and Environment Policy Committee extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of Trade and Environment Policy Committee extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(<i>o</i>), Sept. 29, 1997, 62 F.R. 51755, formerly set out under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of Trade and Environment Policy Committee extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2114, 2154, 2213, 2241, 2242, 2412, 2413, 2414, 2512, 2514, 2547, 2902, 2903, 3108,3313, 3437, 3524, 3533, 3537 of this title; title 7 section 1748; title 8 section 1184; title 22 section 6062; title 50 App. section 2405.
+This section is referred to in sections 2114, 2154, 2213, 2241, 2242, 2412, 2413, 2414, 2512, 2514, 2547, 2902, 2903, 3108, 3313, 3437, 3524, 3533, 3537 of this title; title 7 section 1748; title 8 section 1184; title 22 section 6062; title 50 App. section 2405.
 

@@ -20,19 +20,19 @@
 
 #### (1) Lead agency
 
-&emsp;The Survey shall be the lead Federal agency responsible for planning, developing priorities, coordinating, and managing the geologic mapping program. In carrying out this paragraph, the Secretary, acting through the Director, shall—
+&emsp;The Survey shall be the lead Federal agency responsible for planning, developing national priorities and standards for, coordinating, and managing the geologic mapping program. In carrying out this paragraph, the Secretary, acting through the Director, shall—
 
-&emsp;&emsp;(A) develop a geologic mapping program implementation plan in accordance with section 31e of this title, which plan shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate within 300 days after August 5, 1997;
+&emsp;&emsp;(A) develop a 5-year strategic plan for the geologic mapping program in accordance with section 31e of this title, which plan shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 1 year after December 9, 1999;
 
-&emsp;&emsp;(B) appoint, with the advice and consultation of the Association, the advisory committee within 90 days after August 5, 1997, in accordance with section 31d of this title; and
+&emsp;&emsp;(B) appoint, with the advice and consultation of the Association, the advisory committee not later than 1 year after December 9, 1999, in accordance with section 31d of this title; and
 
-&emsp;&emsp;(C) within 210 days after August 5, 1997, submit a report to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Resources of the House of Representatives identifying—
+&emsp;&emsp;(C) not later than 3 years after December 9, 1999, and biennially thereafter, submit a report to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Resources of the House of Representatives identifying—
 
-&emsp;&emsp;&emsp;(i) how the Survey and the Association will coordinate the development and implementation of the geologic mapping program;
+&emsp;&emsp;&emsp;(i) how the Survey and the Association are coordinating the development and implementation of the geologic mapping program;
 
-&emsp;&emsp;&emsp;(ii) how the Survey and the Association will establish goals, mapping priorities, and target dates for implementation of the geologic mapping program; and
+&emsp;&emsp;&emsp;(ii) how the Survey and the Association establish goals, mapping priorities, and target dates for implementation of the geologic mapping program; and
 
-&emsp;&emsp;&emsp;(iii) how long-term staffing plans for the various components of the geologic mapping program will lead to successful implementation of the geologic mapping program.
+&emsp;&emsp;&emsp;(iii) how long-term staffing plans for the various components of the geologic mapping program affect successful implementation of the geologic mapping program.
 
 #### (2) Responsibilities of the Secretary
 
@@ -46,7 +46,7 @@
 
 The objectives of the geologic mapping program shall include—
 
-&emsp;(1) determining the Nation's geologic framework through systematic development of geologic maps at scales appropriate to the geologic setting and the perceived applications, such maps to be contributed to the national geologic map <sup>1</sup> data base;
+&emsp;(1) determining the Nation's geologic framework through systematic development of geologic maps at scales appropriate to the geologic setting and the perceived applications, such maps to be contributed to the national geologic map data base;
 
 &emsp;(2) development of a complementary national geophysical-map data base, geochemical-map data base, and a geochronologic and paleontologic data base that provide value-added descriptive and interpretative information to the geologic-map data base;
 
@@ -56,59 +56,123 @@ The objectives of the geologic mapping program shall include—
 
 #### (d) Program components
 
-The geologic mapping program shall include the following components:
-
 #### (1) Federal component
 
-&emsp;A Federal geologic mapping component, whose objective shall be determining the geologic framework of areas determined to be vital to the economic, social, or scientific welfare of the Nation. Mapping priorities shall be based on—
+#### (A) In general
 
-&emsp;&emsp;(A) national requirements for geologic-map information in areas of multiple-issue need or areas of compelling single-issue need; and
+&emsp;&emsp;The geologic mapping program shall include a Federal geologic mapping component, the objective of which shall be to determine the geologic framework of areas determined to be vital to the economic, social, environmental, or scientific welfare of the United States.
 
-&emsp;&emsp;(B) national requirements for geologic-map information in areas where mapping is required to solve critical earth-science problems.
+#### (B) Mapping priorities
 
-#### (2) Support component
+&emsp;&emsp;For the Federal component, mapping priorities—
 
-&emsp;A geologic mapping support component, whose objective shall be providing interdisciplinary support for the Federal Geologic Mapping Component. Representative categories of interdisciplinary support shall include—
+&emsp;&emsp;&emsp;(i) shall be described in the 5-year plan under section 31e of this title; and
 
-&emsp;&emsp;(A) establishment of a national geologic-map data base, established pursuant to section 31f of this title;
+&emsp;&emsp;&emsp;(ii) shall be based on—
 
-&emsp;&emsp;(B) studies that lead to the implementation of cost-effective digital methods for the acquisition, compilation, analysis, cartographic production, and dissemination of geologic-map information;
+&emsp;&emsp;&emsp;&emsp;(I) national requirements for geologic map information in areas of multiple-issue need or areas of compelling single-issue need; and
 
-&emsp;&emsp;(C) paleontologic investigations that provide information critical to understanding the age and depositional environment of fossil-bearing geologic-map units, which investigations shall be contributed to a national paleontologic data base;
+&emsp;&emsp;&emsp;&emsp;(II) national requirements for geologic map information in areas where mapping is required to solve critical earth science problems.
 
-&emsp;&emsp;(D) geochronologic and isotopic investigations that—
+#### (C) Interdisciplinary studies
 
-&emsp;&emsp;&emsp;(i) provide radiometric age dates for geologic-map units; and
+#### (i) In general
 
-&emsp;&emsp;&emsp;(ii) fingerprint the geothermometry, geobarometry, and alteration history of geologic-map units,
+&emsp;&emsp;&emsp;The Federal component shall include interdisciplinary studies that add value to geologic mapping.
 
-> &emsp;&emsp;which investigations shall be contributed to a national geochronologic data base;
+#### (ii) Representative categories
 
-&emsp;&emsp;(E) geophysical investigations that assist in delineating and mapping the physical characteristics and three-dimensional distribution of geologic materials and geologic structures, which investigations shall be contributed to a national geophysical-map data base; and
+&emsp;&emsp;&emsp;Interdisciplinary studies under clause (i) may include—
 
-&emsp;&emsp;(F) geochemical investigations and analytical operations that characterize the major- and minor-element composition of geologic-map units, and that lead to the recognition of stable and anomalous geochemical signatures for geologic terrains, which investigations shall be contributed to a national geochemical-map data base.
+&emsp;&emsp;&emsp;&emsp;(I) establishment of a national geologic map database under section 31f of this title;
 
-#### (3) State component
+&emsp;&emsp;&emsp;&emsp;(II) studies that lead to the implementation of cost-effective digital methods for the acquisition, compilation, analysis, cartographic production, and dissemination of geologic map information;
 
-&emsp;A State geologic mapping component, whose objective shall be determining the geologic framework of areas that the State geological surveys determine to be vital to the economic, social, or scientific welfare of individual States. Mapping priorities shall be determined by multirepresentational State panels and shall be integrated with national priorities. Federal funding for the State component shall be matched on a one-to-one basis with non-Federal funds.
+&emsp;&emsp;&emsp;&emsp;(III) paleontologic, geochrono-logic, and isotopic investigations that provide information critical to understanding the age and history of geologic map units;
 
-#### (4) Education component
+&emsp;&emsp;&emsp;&emsp;(IV) geophysical investigations that assist in delineating and mapping the physical characteristics and 3-dimensional distribution of geologic materials and geologic structures; and
 
-&emsp;A geologic mapping education component—
+&emsp;&emsp;&emsp;&emsp;(V) geochemical investigations and analytical operations that characterize the composition of geologic map units.
 
-&emsp;&emsp;(A) the objectives of which shall be—
+#### (iii) Use of results
 
-&emsp;&emsp;&emsp;(i) to develop the academic programs that teach earth-science students the fundamental principles of geologic mapping and field analysis; and
+&emsp;&emsp;&emsp;The results of investigations under clause (ii) shall be contributed to national databases.
 
-&emsp;&emsp;&emsp;(ii) to provide for broad education in geologic mapping and field analysis through support of field studies;
+#### (2) State component
 
-&emsp;&emsp;(B) investigations under which shall be integrated with the other mapping components of the geologic mapping program and shall respond to priorities identified for those components; and
+#### (A) In general
 
-&emsp;&emsp;(C) Federal funding for which shall be matched by non-Federal sources on a 1-to-1 basis.
+&emsp;&emsp;The geologic mapping program shall include a State geologic mapping component, the objective of which shall be to establish the geologic framework of areas determined to be vital to the economic, social, environmental, or scientific welfare of individual States.
 
-(Pub. L. 102–285, §4, May 18, 1992, 106 Stat. 167; Pub. L. 103–437, §16(a)(1), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 105–36, §3(b), Aug. 5, 1997, 111 Stat. 1108.)
+#### (B) Mapping priorities
+
+&emsp;&emsp;For the State component, mapping priorities—
+
+&emsp;&emsp;&emsp;(i) shall be determined by State panels representing a broad range of users of geologic maps; and
+
+&emsp;&emsp;&emsp;(ii) shall be based on—
+
+&emsp;&emsp;&emsp;&emsp;(I) State requirements for geologic map information in areas of multiple-issue need or areas of compelling single-issue need; and
+
+&emsp;&emsp;&emsp;&emsp;(II) State requirements for geologic map information in areas where mapping is required to solve critical earth science problems.
+
+#### (C) Integration of Federal and State priorities
+
+&emsp;&emsp;A national panel including representatives of the Survey shall integrate the State mapping priorities under this paragraph with the Federal mapping priorities under paragraph (1).
+
+#### (D) Use of funds
+
+&emsp;&emsp;The Survey and recipients of grants under the State component shall not use more than 15.25 percent of the Federal funds made available under the State component for any fiscal year to pay indirect, servicing, or program management charges.
+
+#### (E) Federal share
+
+&emsp;&emsp;The Federal share of the cost of activities under the State component for any fiscal year shall not exceed 50 percent.
+
+#### (3) Education component
+
+#### (A) In general
+
+&emsp;&emsp;The geologic mapping program shall include a geologic mapping education component for the training of geologic mappers, the objectives of which shall be—
+
+&emsp;&emsp;&emsp;(i) to provide for broad education in geologic mapping and field analysis through support of field studies; and
+
+&emsp;&emsp;&emsp;(ii) to develop academic programs that teach students of earth science the fundamental principles of geologic mapping and field analysis.
+
+#### (B) Investigations
+
+&emsp;&emsp;The education component may include the conduct of investigations, which—
+
+&emsp;&emsp;&emsp;(i) shall be integrated with the Federal component and the State component; and
+
+&emsp;&emsp;&emsp;(ii) shall respond to mapping priorities identified for the Federal component and the State component.
+
+#### (C) Use of funds
+
+&emsp;&emsp;The Survey and recipients of grants under the education component shall not use more than 15.25 percent of the Federal funds made available under the education component for any fiscal year to pay indirect, servicing, or program management charges.
+
+#### (D) Federal share
+
+&emsp;&emsp;The Federal share of the cost of activities under the education component for any fiscal year shall not exceed 50 percent.
+
+(Pub. L. 102–285, §4, May 18, 1992, 106 Stat. 167; Pub. L. 103–437, §16(a)(1), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 105–36, §3(b), Aug. 5, 1997, 111 Stat. 1108; Pub. L. 106–148, §4, Dec. 9, 1999, 113 Stat. 1720.)
 
 #### Amendments
+
+1999—Subsec. (b)(1). Pub. L. 106–148, §4(1)(A), substituted “national priorities and standards for” for “priorities” in first sentence.
+
+Subsec. (b)(1)(A). Pub. L. 106–148, §4(1)(B), substituted “develop a 5-year strategic plan for the geologic mapping program” for “develop a geologic mapping program implementation plan” and “not later than 1 year after December 9, 1999” for “within 300 days after August 5, 1997”.
+
+Subsec. (b)(1)(B). Pub. L. 106–148, §4(1)(C), substituted “not later than 1 year after December 9, 1999,” for “within 90 days after August 5, 1997,”.
+
+Subsec. (b)(1)(C). Pub. L. 106–148, §4(1)(D)(i), substituted “not later than 3 years after December 9, 1999, and biennially thereafter” for “within 210 days after August 5, 1997” in introductory provisions.
+
+Subsec. (b)(1)(C)(i). Pub. L. 106–148, §4(1)(D)(ii), substituted “are coordinating” for “will coordinate”.
+
+Subsec. (b)(1)(C)(ii). Pub. L. 106–148, §4(1)(D)(iii), substituted “establish” for “will establish”.
+
+Subsec. (b)(1)(C)(iii). Pub. L. 106–148, §4(1)(D)(iv), substituted “affect” for “will lead to”.
+
+Subsec. (d). Pub. L. 106–148, §4(2), added subsec. (d) and struck out former subsec. (d) which set out the Federal, support, State, and education components of the geological mapping program.
 
 1997—Subsec. (a). Pub. L. 105–36, §3(b)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There is established in the United States Geological Survey a National Cooperative Geologic Mapping Program. The geologic mapping program shall be developed in consultation with the advisory committee and shall be designed and administered to achieve the objectives set forth in subsection (c) of this section.”
 
@@ -144,7 +208,7 @@ Subsec. (d)(2)(D). Pub. L. 105–36, §3(b)(4)(B)(ii), added subpar. (D) and str
 
 Subsec. (d)(3). Pub. L. 105–36, §3(b)(4)(C), inserted heading.
 
-Subsec. (d)(4). Pub. L. 105–36, §3(b)(4)(D), added par. (4) and struck out former par. (4) which read as follows:“A geologic mapping education component, whose objective shall be—
+Subsec. (d)(4). Pub. L. 105–36, §3(b)(4)(D), added par. (4) and struck out former par. (4) which read as follows: “A geologic mapping education component, whose objective shall be—
 
 &emsp;“(A) to develop the academic programs that teach earth-science students the fundamental principles of geologic mapping and field analysis; and
 
@@ -156,7 +220,5 @@ Subsec. (d)(4). Pub. L. 105–36, §3(b)(4)(D), added par. (4) and struck out fo
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 31b, 31f of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “geologic-map”.</i>
+This section is referred to in sections 31b, 31d, 31f, 31g, 31h of this title.
 

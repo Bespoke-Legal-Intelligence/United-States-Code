@@ -34,7 +34,7 @@
 
 &emsp;The Secretary shall—
 
-&emsp;&emsp;(A) prepare a draft environmental impact statement, as provided by the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), on the proposal that includes the resource assessment report required under section 1433(b)(3) of this title, maps depicting the boundaries of the proposed designatedarea, and the existing and potential uses and resources of the area; and
+&emsp;&emsp;(A) prepare a draft environmental impact statement, as provided by the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), on the proposal that includes the resource assessment report required under section 1433(b)(3) of this title, maps depicting the boundaries of the proposed designated area, and the existing and potential uses and resources of the area; and
 
 &emsp;&emsp;(B) make copies of the draft environmental impact statement available to the public.
 
@@ -116,7 +116,7 @@ This Act, referred to in subsec. (b)(1), means Pub. L. 92–532, which enacted t
 
 1996—Subsec. (b)(3). Pub. L. 104–283 struck out “(A)” before “In computing the forty-five-day”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, adjusted margins, and struck out former subpars. (B) and (C) which read as follows:
 
-“(B) When the committee to which a joint resolution has been referred has reported such a resolution, it shall at any time thereafter be in order to move to proceed to the consideration of the resolution. The motion shall be privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
+“(B) When the committee to which a joint resolution has been referred has reported such a resolution, it shall at any time thereafter be in order to move to proceed to the consideration of the resolution. The motion shall be privileged and shall not be debatable. Anamendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 
 “(C) This subsection is enacted by Congress as an exercise of the rulemaking power of each House of Congress, respectively, and as such is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in the case of resolutions described in this subsection. This subsection supersedes other rules only to the extent that they are inconsistent therewith, and is enacted with full recognition of the constitutional right of either House to change the rules (so far as those relate to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House.”
 
@@ -126,7 +126,7 @@ Subsec. (a)(5). Pub. L. 102–587, §2104(a)(3), substituted “Exclusive Econom
 
 Subsec. (a)(6). Pub. L. 102–587, §2104(a)(1), substituted “documents” for “prospectus” wherever appearing.
 
-Subsec. (b)(1). Pub. L. 102–587, §2104(b)(1), substituted at end “, in the case of a national marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect in the area of the sanctuary lying within the seaward boundary ofthe State.” for the dash after “unless” and subpars. (A) and (B) which read as follows:
+Subsec. (b)(1). Pub. L. 102–587, §2104(b)(1), substituted at end “, in the case of a national marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect in the area of the sanctuary lying within the seaward boundary of the State.” for the dash after “unless” and subpars. (A) and (B) which read as follows:
 
 “(A) the designation or any of its terms is disapproved by enactment of a joint resolution of disapproval described in paragraph (3); or
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established as an independent entity of the executive branch of the United States Government, the Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation.
+There is established as an independent entity of the executive branch of the United StatesGovernment, the Morris K. Udall Scholarship and Excellence in National Environmental Policy Foundation.
 
 #### (b) Board of Trustees
 
@@ -36,7 +36,7 @@ In general.—The term of office of each member of the Board shall be six years,
 
 &emsp;&emsp;(i) as designated by the President, one Trustee appointed pursuant to subsection (b)(2) of this section and two trustees appointed pursuant to subsection (b)(3) of this section shall each serve two years; and
 
-&emsp;&emsp;(ii) as designated by the President, one Trustee appointed pursuant to subsection\(b)(1) of this section and two Trustees appointed pursuant to subsection (b)(3) of this section shall each serve four years; and
+&emsp;&emsp;(ii) as designated by the President, one Trustee appointed pursuant to subsection (b)(1) of this section and two Trustees appointed pursuant to subsection (b)(3) of this section shall each serve four years; and
 
 &emsp;&emsp;(iii) as designated by the President, one Trustee appointed pursuant to subsection (b)(1) of this section, one Trustee appointed pursuant to subsection (b)(2) of this section, and one Trustee appointed pursuant to subsection (b)(3) of this section shall each serve six years;
 

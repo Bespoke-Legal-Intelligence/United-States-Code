@@ -16,5 +16,5 @@
 
 #### Contracts for Recovery of Indebtedness
 
-Pub. L. 101–165, title IX, §9019, Nov. 21, 1989, 103 Stat. 1133, provided that: “During the current fiscal year and hereafter, the Department of Defense may enter into contracts to recover indebtedness to the United States pursuant to section 3718 of title 31, United States Code.”
+Pub. L. 101–165, title IX, §9019, Nov. 21, 1989, 103 Stat. 1133, provided that: “During the current fiscal year andhereafter, the Department of Defense may enter into contracts to recover indebtedness to the United States pursuant to section 3718 of title 31, United States Code.”
 

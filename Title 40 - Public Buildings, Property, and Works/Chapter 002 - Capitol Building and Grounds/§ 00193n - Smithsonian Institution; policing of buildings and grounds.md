@@ -16,7 +16,7 @@ Reference to section 5375 of title 5 substituted in text for section 5365 of tit
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–34 effective at beginning of first pay period which commences on or after June 30,1969, see section 3(a) of Pub. L. 91–34, set out as an Effective Date note under section 5375 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 91–34 effective at beginning of first pay period which commences on or after June 30, 1969, see section 3(a) of Pub. L. 91–34, set out as an Effective Date note under section 5375 of Title 5, Government Organization and Employees.
 
 #### Reduction of Basic Pay Rate
 

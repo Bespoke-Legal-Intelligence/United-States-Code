@@ -1,6 +1,6 @@
 ### §8101. Complement of inspected vessels
 
-(a) The certificate of inspection issued to a vessel under part B of this subtitle shall state the complement of licensed individuals and crew (including lifeboatmen) considered by the Secretary to be necessary for safe operation. A manning requirement imposed on—
+(a) The certificate of inspection issued to a vessel under part B of this subtitle shall state the complement of licensed individuals and crew\(including lifeboatmen) considered by the Secretary to be necessary for safe operation. A manning requirement imposed on—
 
 &emsp;(1) a sailing school vessel shall consider the participation of sailing school instructors and sailing school students in the operation of that vessel;
 

@@ -352,7 +352,7 @@ Safety and effectiveness data and information which has been submitted in an app
 
 #### (m) “Patent” defined
 
-For purposes of this section, the term “patent” means a patent issued by the Patent and Trademark Office of the Department of Commerce.
+For purposes of this section, the term “patent” means a patent issued by the United States Patent and Trademark Office.
 
 #### (n) Scientific advisory panels
 
@@ -382,7 +382,7 @@ For purposes of this section, the term “patent” means a patent issued by the
 
 (8) Within 90 days after a scientific advisory panel makes recommendations on any matter under its review, the Food and Drug Administration official responsible for the matter shall review the conclusions and recommendations of the panel, and notify the affected persons of the final decision on the matter, or of the reasons that no such decision has been reached. Each such final decision shall be documented including the rationale for the decision.
 
-(June 25, 1938, ch. 675, §505, 52 Stat. 1052; Pub. L. 86–507, §1(18), June 11, 1960, 74 Stat. 201; Pub. L. 87–781, title I, §§102(b)–(d), 103(a), (b), 104(a)–(d)(2), Oct. 10, 1962, 76 Stat. 781–783, 784, 785; Pub. L. 92–387, §4(d), Aug. 16, 1972, 86 Stat. 562; Pub. L. 98–417, title I, §§101, 102(a)–(b)(5), 103, 104, Sept. 24, 1984, 98 Stat. 1585, 1592, 1593, 1597; Pub. L. 102–282, §5, May 13, 1992, 106 Stat. 161; Pub. L. 103–80, §3(n), Aug. 13, 1993, 107 Stat. 777; Pub. L. 105–115, title I, §§115, 117, 119, 120, 124(a), Nov. 21, 1997, 111 Stat. 2313, 2315, 2316, 2318, 2324.)
+(June 25, 1938, ch. 675, §505, 52 Stat. 1052; Pub. L. 86–507, §1(18), June 11, 1960, 74 Stat. 201; Pub. L. 87–781, title I, §§102(b)–(d), 103(a), (b), 104(a)–(d)(2), Oct. 10, 1962, 76 Stat. 781–783, 784, 785; Pub. L. 92–387, §4(d), Aug. 16, 1972, 86 Stat. 562; Pub. L. 98–417, title I, §§101, 102(a)–(b)(5), 103, 104, Sept. 24, 1984, 98 Stat. 1585, 1592, 1593, 1597; Pub. L. 102–282, §5, May 13, 1992, 106 Stat. 161; Pub. L. 103–80, §3(n), Aug. 13, 1993, 107 Stat. 777; Pub. L. 105–115, title I, §§115, 117, 119, 120, 124(a), Nov. 21, 1997, 111 Stat. 2313, 2315, 2316, 2318, 2324; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(11)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584.)
 
 #### References in Text
 
@@ -390,13 +390,15 @@ The General Schedule, referred to in subsec. (n)(6), is set out under section 53
 
 #### Amendments
 
+1999—Subsec. (m). Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “Patent and Trademark Office of the Department of Commerce”.
+
 1997—Subsec. (b)(1). Pub. L. 105–115, §115(b), inserted at end “The Secretary shall, in consultation with the Director of the National Institutes of Health and with representatives of the drug manufacturing industry, review and develop guidance, as appropriate, on the inclusion of women and minorities in clinical trials required by clause (A).”
 
 Subsec. (b)(4). Pub. L. 105–115, §119(a), added par. (4).
 
 Subsec. (c)(4). Pub. L. 105–115, §124(a), added par. (4).
 
-Subsec. (d). Pub. L. 105–115, §115(a), inserted at end “If the Secretary determines, based on relevant science, that data from one adequate and well-controlled clinical investigation and confirmatory evidence (obtained prior to or after such investigation) are sufficient to establish effectiveness, the Secretary may consider such data and evidence to constitute substantial evidence for purposes of the preceding sentence.”
+Subsec. (d). Pub. L. 105–115, §115(a), inserted at end “If the Secretary determines, based on relevantscience, that data from one adequate and well-controlled clinical investigation and confirmatory evidence (obtained prior to or after such investigation) are sufficient to establish effectiveness, the Secretary may consider such data and evidence to constitute substantial evidence for purposes of the preceding sentence.”
 
 Subsec. (i). Pub. L. 105–115, §117, inserted “(1)” after “(i)”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), added pars. (2) to (4), and struck out closing provisions which read as follows: “Such regulations shall provide that such exemption shall be conditioned upon the manufacturer, or the sponsor of the investigation, requiring that experts using such drugs for investigational purposes certify to such manufacturer or sponsor that they will inform any human beings to whom such drugs, or any controls used in connection therewith, are being administered, or their representatives, that such drugs are being used for investigational purposes and will obtain the consent of such human beings or their representatives, except where they deem it not feasible or, in their professional judgment, contrary to the best interests of such human beings. Nothing in this subsection shall be construed to require any clinical investigator to submit directly to the Secretary reports on the investigational use of drugs.”
 
@@ -452,7 +454,7 @@ Subsec. (c). Pub. L. 87–781, §104(b), substituted provisions requiring the Se
 
 Subsec. (d). Pub. L. 87–781, §102(c), inserted references to subsec. (c), added cls. (5) and (6), provided that if after notice and opportunity for hearing, the Secretary finds that cls. (1) to (6) do not apply, he shall approve the application, and defined “substantial evidence” as used in this subsection and subsec. (e) of this section.
 
-Subsec. (e). Pub. L. 87–781, §102(d), amended subsec. (e) generally, and among other changes, directed the Secretary to withdraw approval of an application if by tests, other scientific data or experience, or new evidence of clinical experience not contained in the application or available at the time of its approval, the drug is shown to be unsafe, or on the basis of new information, there is shown a lack of substantial evidence that the drug has the effect it is represented to have, and provided that if the Secretary, or acting Secretary, finds there is an imminent hazard to the public health, he may suspend approval immediately, notify the applicant, and give him opportunity for an expedited hearing, that the Secretary may withdraw approval if the applicant fails to establish a system for maintaining required records, or has repeatedly or deliberately failed to maintain records and make reports, or has refused access to, or copying or verification of such records, or if the Secretary finds on new evidence that the methods, facilities and controls in the manufacturing, processing, and packing are inadequate to assure and preserve the drugs’ identity, strength, quality and purity, and were not made adequate within a reasonable time after receipt of written notice thereof, or finds on new evidence, that the labeling is false or misleading and was not corrected within a reasonable time after receipt of written notice thereof.
+Subsec. (e). Pub. L. 87–781, §102(d), amended subsec. (e) generally, and among other changes, directed the Secretary to withdraw approval of an application if by tests, other scientific data or experience, or new evidence of clinical experience not contained in the application or available at the time of its approval, the drug is shown to be unsafe, or on the basis of new information, there is shown a lack of substantial evidence that the drug has the effect it is represented to have, and provided that if the Secretary, or acting Secretary, finds there is an imminent hazard to the public health, he may suspend approval immediately, notify the applicant, and give him opportunity for an expedited hearing, that the Secretary may withdraw approval if the applicant fails to establish a system for maintaining required records, or has repeatedly or deliberately failed to maintain records and make reports, or has refused access to, or copying or verification of such records, or if the Secretary finds on new evidence that the methods, facilities and controls in the manufacturing, processing, and packing are inadequate to assureand preserve the drugs’ identity, strength, quality and purity, and were not made adequate within a reasonable time after receipt of written notice thereof, or finds on new evidence, that the labeling is false or misleading and was not corrected within a reasonable time after receipt of written notice thereof.
 
 Subsec. (f). Pub. L. 87–781, §104(c), substituted provisions requiring the Secretary to revoke any previous order under subsecs. (d) or (e) of this section refusing, withdrawing, or suspending approval of an application and to approve such application or reinstate such approval, for provisions which required him to revoke an order refusing effectiveness to an application.
 
@@ -463,6 +465,10 @@ Subsec. (i). Pub. L. 87–781, §103(b), inserted “the foregoing subsections o
 Subsec. (j). Pub. L. 87–781, §103(a), added subsec. (j).
 
 1960—Subsec. (g). Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1997 Amendment
 
@@ -592,7 +598,7 @@ Exception.—The following subsections of section 505 (21 U.S.C. 355) shall not 
 
 “(3)
 
-Publication.—For purposes of this section, the Secretary is authorized to make available to the public the established name of each antibiotic drug that was the subject of any application for marketing received by the Secretary for Health and Human Services under section 507 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 357) before the date of enactment of this Act \[Nov. 21, 1997\].”
+Publication.—For purposes of this section, the Secretary is authorized to make available to the publicthe established name of each antibiotic drug that was the subject of any application for marketing received by the Secretary for Health and Human Services under section 507 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 357) before the date of enactment of this Act \[Nov. 21, 1997\].”
 
 #### Termination of Advisory Panels
 
@@ -604,7 +610,7 @@ Section 104(d)(3) of Pub. L. 87–781 made amendments to subsec. (h) of this sec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 321, 331, 333, 334, 335a, 352, 353, 353a, 355a, 356, 356a, 356c, 360, 360b, 360j, 360aa to 360ee, 360aaa, 360bbb, 360bbb–1, 374, 379g, 379h, 379r, 381, 382, 802, 811, 827 of this title; title 10 section 1107; title 16 section 4804; title 26 section 45C; title 28 section 2201; title 35 sections 155A, 156, 271; title 42 sections 236, 262, 282, 300cc–12, 300cc–13, 300cc–17, 1395y, 1396r–8.
+This section is referred to in sections 321, 331, 333, 334, 335a, 352, 353, 353a, 355a, 356, 356a, 356c, 360, 360b, 360j, 360aa to 360ee, 360aaa, 360bbb, 360bbb–1, 374, 379g, 379h, 379r, 381, 382, 802, 811, 827 of this title; title 10 section 1107; title 26 section 45C; title 28 section 2201; title 35 sections 155A, 156, 271; title 42 sections 236, 262, 282, 300cc–12, 300cc–13, 300cc–17, 1395y, 1396r–8.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “bioavailability”.</i>
 

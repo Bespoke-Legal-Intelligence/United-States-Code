@@ -30,9 +30,9 @@ Section 401(e) of Pub. L. 96–223 provided that: “The amendments made by this
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(127) of Pub. L. 94–455 applicable with respect to taxable years beginning afterDec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(127) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Repeals
 
-Pub. L. 94–455, §1901(a)(127), cited as a credit to this section, which renumbered this section as section 1024 of this title, was repealed by Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, resulting in the redesignation of this section as section 1023 of this title. See Effective Date of 1980 Amendments and Revival of Prior Law note set out above.
+Pub. L. 94–455, §1901(a)(127), cited as a credit to this section, which renumbered this section as section 1024of this title, was repealed by Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, resulting in the redesignation of this section as section 1023 of this title. See Effective Date of 1980 Amendments and Revival of Prior Law note set out above.
 

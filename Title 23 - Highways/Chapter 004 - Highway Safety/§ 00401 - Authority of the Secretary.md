@@ -176,7 +176,7 @@ Section 225 of Pub. L. 93–87 mandated a study by the Secretary of Transportati
 
 #### National Highway Traffic Safety Administration; Creation; Appointment of Administrator and Deputy Administrator; Duties; Retroactive Effect
 
-Section 201 of Pub. L. 89–564, as amended by Pub. L. 89–670, §8(h), Oct. 15, 1966, 80 Stat. 943; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 224; Pub. L. 91–605, title II, §202(a), Dec. 31, 1970, 84 Stat. 1739, which provided forthe creation of National Highway Traffic Safety Administration in the Department of Transportation, was repealed by Pub. L. 97–449, §7(b), Jan. 12, 1983, 96 Stat. 2444, and reenacted by section 1(b) of Pub. L. 97–449 as section 105 of Title 49, Transportation.
+Section 201 of Pub. L. 89–564, as amended by Pub. L. 89–670, §8(h), Oct. 15, 1966, 80 Stat. 943; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 224; Pub. L. 91–605, title II, §202(a), Dec. 31, 1970, 84 Stat. 1739, which provided for the creation of National Highway Traffic Safety Administration in the Department of Transportation, was repealed by Pub. L. 97–449, §7(b), Jan. 12, 1983, 96 Stat. 2444, and reenacted by section 1(b) of Pub. L. 97–449 as section 105 of Title 49, Transportation.
 
 #### Acting Administrator of National Highway Traffic Safety Administration
 

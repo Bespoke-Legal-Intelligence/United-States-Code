@@ -34,7 +34,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the vesting requirements of subsection (c)(2), and
 
-&emsp;&emsp;&emsp;(iii) the minimum benefits requirements of subsection (c)(3).
+&emsp;&emsp;&emsp;(iii) the minimum cost requirements of subsection (c)(3).
 
 #### (2) Only 1 transfer per year
 
@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (5) Expiration
 
-&emsp;No transfer in any taxable year beginning after December 31, 2000, shall be treated as a qualified transfer.
+&emsp;No transfer made after December 31, 2005, shall be treated as a qualified transfer.
 
 #### (c) Requirements of plans transferring assets
 
@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any assets transferred to a health benefits account in a qualified transfer (and any income allocable thereto) which are not used as provided in subparagraph (A)shall be transferred out of the account to the transferor plan.
+&emsp;&emsp;&emsp;Any assets transferred to a health benefits account in a qualified transfer (and any income allocable thereto) which are not used as provided in subparagraph (A) shall be transferred out of the account to the transferor plan.
 
 #### (ii) Tax treatment of amounts
 
@@ -112,19 +112,35 @@ For purposes of this section—
 
 &emsp;&emsp;In the case of a qualified transfer described in subsection (b)(4), the requirements of this paragraph are met with respect to any participant who separated from service during the taxable year to which such transfer relates by recomputing such participant's benefits as if subparagraph (A) had applied immediately before such separation.
 
-#### (3) Maintenance of benefit requirements
+#### (3) Minimum cost requirements
 
 #### (A) In general
 
-&emsp;&emsp;The requirements of this paragraph are met if each group health plan or arrangement under which applicable health benefits are provided provides that the applicable health benefits provided by the employer during each taxable year during the benefit maintenance period are substantially the same as the applicable health benefits provided by the employer during the taxable year immediately preceding the taxable year of the qualified transfer.
+&emsp;&emsp;The requirements of this paragraph are met if each group health plan or arrangement under which applicable health benefits are provided provides that the applicable employer cost for each taxable year during the cost maintenance period shall not be less than the higher of the applicable employer costs for each of the 2 taxable years immediately preceding the taxable year of the qualified transfer.
 
-#### (B) Election to apply separately
+#### (B) Applicable employer cost
+
+&emsp;&emsp;For purposes of this paragraph, the term “applicable employer cost” means, with respect to any taxable year, the amount determined by dividing—
+
+&emsp;&emsp;&emsp;(i) the qualified current retiree health liabilities of the employer for such taxable year determined—
+
+&emsp;&emsp;&emsp;&emsp;(I) without regard to any reduction under subsection (e)(1)(B), and
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a taxable year in which there was no qualified transfer, in the same manner as if there had been such a transfer at the end of the taxable year, by
+
+&emsp;&emsp;&emsp;(ii) the number of individuals to whom coverage for applicable health benefits was provided during such taxable year.
+
+#### (C) Election to compute cost separately
 
 &emsp;&emsp;An employer may elect to have this paragraph applied separately with respect to individuals eligible for benefits under title XVIII of the Social Security Act at any time during the taxable year and with respect to individuals not so eligible.
 
-#### (C) Benefit maintenance period
+#### (D) Cost maintenance period
 
-&emsp;&emsp;For purposes of this paragraph, the term “benefit maintenance period” means the period of 5 taxable years beginning with the taxable year in which the qualified transfer occurs. If a taxable year is in 2 or more benefit maintenance periods, this paragraph shall be applied by taking into account the highest level of benefits required to be provided under subparagraph (A) for such taxable year.
+&emsp;&emsp;For purposes of this paragraph, the term “cost maintenance period” means the period of 5 taxable years beginning with the taxable year in which the qualified transfer occurs. If a taxable year is in two or more overlapping cost maintenance periods, this paragraph shall be applied by taking into account the highest applicable employer cost required to be provided under subparagraph (A) for such taxable year.
+
+#### (E) Regulations
+
+&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary to prevent an employer who significantly reduces retiree health coverage during the cost maintenance period from being treated as satisfying the minimum cost requirement of this subsection.
 
 #### (d) Limitations on employer
 
@@ -184,7 +200,7 @@ For purposes of this section—
 
 #### (D) Key employees excluded
 
-&emsp;&emsp;If an employee is a key employee (within the meaning of section 416(i)(1)) with respect to any plan year ending in a taxable year, such employee shall not be taken into account in computing qualified current retiree health liabilities for such taxable year and shall not be subject to the minimum benefit requirements of subsection (c)(3).
+&emsp;&emsp;If an employee is a key employee (within the meaning of section 416(i)(1)) with respect to any plan year ending in a taxable year, such employee shall not be taken into account in computing qualified current retiree health liabilities for such taxable year or in calculating applicable employer cost under subsection (c)(3)(B).
 
 #### (2) Excess pension assets
 
@@ -212,13 +228,21 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the plan shall be treated as having a net experience loss under section 412(b)(2)(B)(iv) in an amount equal to the amount of such transfer (reduced by any amounts transferred back to the pension plan under subsection (c)(1)(B)) and for which amortization charges begin for the first plan year after the plan year in which such transfer occurs, except that such section shall be applied to such amount by substituting “10 plan years” for “5 plan years”.
 
-(Added Pub. L. 101–508, title XII, §12011(a), Nov. 5, 1990, 104 Stat. 1388–567; amended Pub. L. 103–465, title VII, §731(a)–(c)(3), Dec. 8, 1994, 108 Stat. 5003, 5004; Pub. L. 104–188, title I, §1704(a), (t)(32), Aug. 20, 1996, 110 Stat. 1878, 1889.)
+(Added Pub. L. 101–508, title XII, §12011(a), Nov. 5, 1990, 104 Stat. 1388–567; amended Pub. L. 103–465, title VII, §731(a)–(c)(3), Dec. 8, 1994, 108 Stat. 5003, 5004; Pub. L. 104–188, title I, §1704(a), (t)(32), Aug. 20, 1996, 110 Stat. 1878, 1889; Pub. L. 106–170, title V, §535(a)(1), (b), Dec. 17, 1999, 113 Stat. 1934.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(3)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(3)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+1999—Subsec. (b)(1)(C)(iii). Pub. L. 106–170, §535(b)(2)(A), substituted “cost” for “benefits”.
+
+Subsec. (b)(5). Pub. L. 106–170, §535(a)(1), substituted “made after December 31, 2005” for “in any taxable year beginning after December 31, 2000”.
+
+Subsec. (c)(3). Pub. L. 106–170, §535(b)(1), amended heading and text of par. (3) generally, substituting present provisions for provisions relating to maintenance of benefit requirements.
+
+Subsec. (e)(1)(D). Pub. L. 106–170, §535(b)(2)(B), substituted “or in calculating applicable employer cost under subsection (c)(3)(B)” for “and shall not be subject to the minimum benefit requirements of subsection (c)(3)”.
 
 1996—Pub. L. 104–188, §1704(a), provided that, except as otherwise expressly provided, whenever in title XII of Pub. L. 101–508 an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986. Section 12011(a) of title XII of Pub. L. 101–508 directed the amendment of part I of subchapter D of chapter 1 by adding this subpart, including this section, without specifying that amendment was to the Internal Revenue Code of 1986.
 
@@ -233,6 +257,18 @@ Subsec. (c)(3). Pub. L. 103–465, §731(b), amended par. (3) generally, substit
 Subsec. (e)(1)(B). Pub. L. 103–465, §731(c)(2), reenacted subpar. (B) heading without change and amended text generally. Prior to amendment, text read as follows: “The amount determined under subparagraph (A) shall be reduced by any amount previously contributed to a health benefits account or welfare benefit fund (as defined in section 419(e)(1)) to pay for the qualified current retiree health liabilities. The portion of any reserves remaining as of the close of December 31, 1990, shall be allocated on a pro rata basis to qualified current retiree health liabilities.”
 
 Subsec. (e)(1)(D). Pub. L. 103–465, §731(c)(3), substituted “and shall not be subject to the minimum benefit requirements of subsection (c)(3)” for “or in calculating applicable employer cost under subsection (c)(3)(B)”.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–170, title V, §535(c), Dec. 17, 1999, 113 Stat. 1935, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section and sections 1021, 1103, and 1108 of Title 29, Labor\] shall apply to qualified transfers occurring after the date of the enactment of this Act \[Dec. 17, 1999\].
+
+“(2)
+
+Transition rule.—If the cost maintenance period for any qualified transfer after the date of the enactment of this Act \[Dec. 17, 1999\] includes any portion of a benefit maintenance period for any qualified transfer on or before such date, the amendments made by subsection (b) \[amending this section\] shall not apply to such portion of the cost maintenance period (and such portion shall be treated as a benefit maintenance period).”
 
 #### Effective Date of 1994 Amendment
 

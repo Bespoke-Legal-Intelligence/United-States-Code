@@ -18,7 +18,7 @@
 
 #### (b) Report to Task Force
 
-(1) Each department and agency described in subsection (a)(1) of this section shall, not later than 60 days following October 24, 1992, report to the Task Force the following information:
+(1) Each department and agency described in subsection (a)(1) of this section shall, not laterthan 60 days following October 24, 1992, report to the Task Force the following information:
 
 &emsp;(A) Those individuals employed by such department or agency on October 24, 1992, who qualify as trained energy managers.
 

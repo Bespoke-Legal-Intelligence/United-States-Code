@@ -15,10 +15,15 @@
 | [2781\.](%C2%A7%2002781%20-%20Availability%20of%20appropriations%20exchange%20fees%3B%20losses%20in%20accounts.md) | Availability of appropriations: exchange fees; losses in accounts. |
 | [2782\.](%C2%A7%2002782%20-%20Damage%20to%20real%20property%20disposition%20of%20amounts%20recovered.md) | Damage to real property: disposition of amounts recovered. |
 | [2783\.](%C2%A7%2002783%20-%20Nonappropriated%20fund%20instrumentalities%20financial%20management%20and%20use%20of%20nonappropriated%20funds.md) | Nonappropriated fund instrumentalities: financial management and use of nonappropriated funds. |
+| [2784\.](%C2%A7%2002784%20-%20Management%20of%20credit%20cards.md) | Management of credit cards. |
+| [2785\.](%C2%A7%2002785%20-%20Remittance%20addresses%20regulation%20of%20alterations.md) | Remittance addresses: regulation of alterations. |
+| [2786\.](%C2%A7%2002786%20-%20Department%20of%20Defense%20payments%20by%20electronic%20transfers%20of%20funds%20exercise%20of%20authority%20for%20waivers.md) | Department of Defense payments by electronic transfers of funds: exercise of authority for waivers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title IX, §933(a)(2), title X, §1008(a)(2), Oct. 5, 1999, 113 Stat. 730, 738, added items 2784 to 2786.
 
 1996—Pub. L. 104–316, title I, §105(d), Oct. 19, 1996, 110 Stat. 3830, struck out item 2778 “Accounts of the military departments”.
 
@@ -78,3 +83,6 @@ Particular provisions relating to—
 - [&sect; 02781 - Availability of appropriations exchange fees; losses in accounts](%C2%A7%2002781%20-%20Availability%20of%20appropriations%20exchange%20fees%3B%20losses%20in%20accounts.md)
 - [&sect; 02782 - Damage to real property disposition of amounts recovered](%C2%A7%2002782%20-%20Damage%20to%20real%20property%20disposition%20of%20amounts%20recovered.md)
 - [&sect; 02783 - Nonappropriated fund instrumentalities financial management and use of nonappropriated funds](%C2%A7%2002783%20-%20Nonappropriated%20fund%20instrumentalities%20financial%20management%20and%20use%20of%20nonappropriated%20funds.md)
+- [&sect; 02784 - Management of credit cards](%C2%A7%2002784%20-%20Management%20of%20credit%20cards.md)
+- [&sect; 02785 - Remittance addresses regulation of alterations](%C2%A7%2002785%20-%20Remittance%20addresses%20regulation%20of%20alterations.md)
+- [&sect; 02786 - Department of Defense payments by electronic transfers of funds exercise of authority for waivers](%C2%A7%2002786%20-%20Department%20of%20Defense%20payments%20by%20electronic%20transfers%20of%20funds%20exercise%20of%20authority%20for%20waivers.md)

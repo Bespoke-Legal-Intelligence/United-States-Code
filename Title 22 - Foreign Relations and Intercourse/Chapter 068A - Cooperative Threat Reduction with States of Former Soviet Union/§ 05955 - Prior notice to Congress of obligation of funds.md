@@ -30,9 +30,41 @@ Any report under subsection (a) of this section that covers proposed demilitariz
 
 For delegation of certain authorities and duties of the President under this section to Secretary of Defense, see Memorandum of President of the United States, Jan. 29, 1994, 59 F.R. 5929, set out as a note under section 5952 of this title.
 
+#### Russian Nonstrategic Nuclear Arms
+
+Pub. L. 106–65, div. A, title XIII, §1312, Oct. 5, 1999, 113 Stat. 796, provided that:
+
+“(a)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;“(1) it is in the interest of Russia to fully implement the Presidential Nuclear Initiatives announced in 1991 and 1992 by then-President of the Soviet Union Gorbachev and then-President of Russia Yeltsin;
+
+&emsp;“(2) the President of the United States should call on Russia to match the unilateral reductions in the United States inventory of tactical nuclear weapons, which have reduced the inventory by nearly 90 percent; and
+
+&emsp;“(3) if the re-certification under section 1310 \[113 Stat. 795\] is made, the President should emphasize the continued interest of the United States in working cooperatively with Russia to reduce the dangers associated with Russia's tactical nuclear arsenal.
+
+“(b)
+
+Annual Reporting Requirement.—(1) Each annual report on accounting for United States assistance under Cooperative Threat Reduction programs \[for definition, see section 1301(a) of Pub. L. 106–65, set out as a note under section 5952 of this title\] that is submitted to Congress under section 1206 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 471; 22 U.S.C. 5955 note) after fiscal year 1999 shall include, regarding Russia's arsenal of tactical nuclear warheads, the following:
+
+&emsp;“(A) Estimates regarding current types, numbers, yields, viability, locations, and deployment status of the warheads.
+
+&emsp;“(B) An assessment of the strategic relevance of the warheads.
+
+&emsp;“(C) An assessment of the current and projected threat of theft, sale, or unauthorized use of the warheads.
+
+&emsp;“(D) A summary of past, current, and planned United States efforts to work cooperatively with Russia to account for, secure, and reduce Russia's stockpile of tactical nuclear warheads and associated fissile material.
+
+“(2) The Secretary of Defense shall include in the annual report described in paragraph (1) the views on the report provided under subsection (c).
+
+“(c)
+
+Views of the Director of Central Intelligence.—The Director of Central Intelligence shall submit to the Secretary of Defense, for inclusion as an appendix in the annual report described in subsection (b), the Director's views on the matters described in paragraph (1) of that subsection regarding Russia's tactical nuclear weapons.”
+
 #### Congressional Reports on Cooperative Threat Reduction Programs
 
-Pub. L. 104–106, div. A, title XII, §§1201, 1205, 1206, Feb. 10, 1996, 110 Stat. 469, 470, 471, as amended by Pub. L. 104–201, div. A, title XIV, §1431, Sept. 23, 1996, 110 Stat. 2726, provided that:
+Pub. L. 104–106, div. A, title XII, §§1201, 1205, 1206, Feb. 10, 1996, 110 Stat. 469, 470, 471, as amended by Pub. L. 104–201, div. A, title XIV, §1431, Sept. 23, 1996, 110 Stat. 2726; Pub. L. 106–65, div. A, title X, §1067(6), title XIII, §1311, Oct. 5, 1999, 113 Stat. 774, 796, provided that:
 
 #### “SEC. 1201. SPECIFICATION OF COOPERATIVE THREAT REDUCTION PROGRAMS.
 
@@ -62,7 +94,7 @@ Annual Requirement.—(1) Not less than 15 days before any obligation of any fun
 
 &emsp;“(A) The Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate.
 
-&emsp;“(B) The Committee on National Security \[now Committee on Armed Services\], the Committee on International Relations, and the Committee on Appropriations of the House of Representatives.
+&emsp;“(B) The Committee on Armed Services, the Committee on International Relations, and the Committee on Appropriations of the House of Representatives.
 
 “(b)
 
@@ -80,7 +112,7 @@ Matters To Be Specified in Reports.—Each such report shall specify—
 
 Report.—(1) The Secretary of Defense shall submit to Congress an annual report on the efforts made by the United States (including efforts through the use of audits, examinations, and on-site inspections) to ensure that assistance provided under Cooperative Threat Reduction programs is fully accounted for and that such assistance is being used for its intended purposes.
 
-“(2) A report shall be submitted under this section not later than January 31 of each year until the Cooperative Threat Reduction programs are completed.
+“(2) The report shall be submitted under this section not later than January 31 of each year and shall cover the fiscal year ending in the preceding calendar year. No report is required under this section after the completion of the Cooperative Threat Reduction programs.
 
 “(b)
 

@@ -18,7 +18,7 @@ Except as otherwise provided in this title, for purposes of this title, the term
 
 &emsp;&emsp;(A) the plan provides for the allocation for the plan year of all employer securities transferred to it or purchased by it (because of the requirements of section 41(c)(1)(B)) <sup>1</sup> to the accounts of all participants who are entitled to share in such allocation, and
 
-&emsp;&emsp;(B) for the plan year the allocation to each participant so entitled is an amount whichbears substantially the same proportion to the amount of all such securities allocated to all such participants in the plan for that year as the amount of compensation paid to such participant during that year bears to the compensation paid to all such participants during that year.
+&emsp;&emsp;(B) for the plan year the allocation to each participant so entitled is an amount which bears substantially the same proportion to the amount of all such securities allocated to all such participants in the plan for that year as the amount of compensation paid to such participant during that year bears to the compensation paid to all such participants during that year.
 
 #### (2) Compensation in excess of $100,000 disregarded
 
@@ -86,11 +86,11 @@ A plan meets the requirements of this subsection only if it provides that no emp
 
 #### (2) Special rule for first year
 
-&emsp;A plan which otherwise meets the requirements of this section shall not be considered to have failed to meet the requirements of section 401(a) merely because it was not established by the close of the first taxable year of the employer for which an employee plan credit is claimed by the employer with respect to the plan.
+&emsp;A plan which otherwise meets the requirements of this section shall not be consideredto have failed to meet the requirements of section 401(a) merely because it was not established by the close of the first taxable year of the employer for which an employee plan credit is claimed by the employer with respect to the plan.
 
 #### (g) Transferred amounts must stay in plan even though investment credit is redetermined or recaptured
 
-A plan meets the requirement of this subsection only if it provides that amounts whichare transferred to the plan (because of the requirements of section 48(n)(1) or 41(c)(1)(B)) <sup>2</sup> shall remain in the plan (and, if allocated under the plan, shall remain so allocated) even though part or all of the employee plan credit or the credit allowed under section 41 <sup>2</sup> (relating to employee stock ownership credit) is recaptured or redetermined. For purposes of the preceding sentence, the references to section 48(n)(1) <sup>2</sup> and the employee plan credit shall refer to such section and credit as in effect before the enactment of the Tax Reform Act of 1984.
+A plan meets the requirement of this subsection only if it provides that amounts which are transferred to the plan (because of the requirements of section 48(n)(1) or 41(c)(1)(B)) <sup>2</sup> shall remain in the plan (and, if allocated under the plan, shall remain so allocated) even though part or all of the employee plan credit or the credit allowed under section 41 <sup>2</sup> (relating to employee stock ownership credit) is recaptured or redetermined. For purposes of the preceding sentence, the references to section 48(n)(1) <sup>2</sup> and the employee plan credit shall refer to such section and credit as in effect before the enactment of the Tax Reform Act of 1984.
 
 #### (h) Right to demand employer securities; put option
 
@@ -156,7 +156,7 @@ A plan which otherwise meets the requirements of this section shall not be treat
 
 &emsp;As reimbursement for the expenses of establishing the plan, the employer may withhold from amounts due the plan for the taxable year for which the plan is established (or the plan may pay) so much of the amounts paid or incurred in connection with the establishment of the plan as does not exceed the sum of—
 
-&emsp;&emsp;(A) 10 percent of the first $100,000 which the employer is required to transfer to theplan for that taxable year under section 41(c)(1)(B),<sup>3</sup> and
+&emsp;&emsp;(A) 10 percent of the first $100,000 which the employer is required to transfer to the plan for that taxable year under section 41(c)(1)(B),<sup>3</sup> and
 
 &emsp;&emsp;(B) 5 percent of any amount so required to be transferred in excess of the first $100,000; and
 
@@ -220,11 +220,11 @@ For purposes of this section—
 
 #### (B) Where common parent owns at least 50 percent of first tier subsidiary
 
-&emsp;&emsp;For purposes of subparagraph (A), if the common parent owns directly stock possessing at least 50 percent of the voting power of all classes of stock and at least 50 percent of each class of nonvoting stock in a first tier subsidiary, such subsidiary (and all other corporations below it in the chain which would meet the 80 percent test of section 1563(a) if the first tier subsidiary were the common parent) shall be treated as includible corporations.
+&emsp;&emsp;For purposes of subparagraph (A), if the common parent owns directly stock possessing at least 50 percent of the voting power of all classes of stock and at least 50 percent of each class of nonvoting stock in a first tier subsidiary, such subsidiary (and all other corporations below it in the chain whichwould meet the 80 percent test of section 1563(a) if the first tier subsidiary were the common parent) shall be treated as includible corporations.
 
 #### (C) Where common parent owns 100 percent of first tier subsidiary
 
-&emsp;&emsp;For purposes of subparagraph (A), if the common parent owns directly stock possessing all of the voting power of all classes of stock and all of the nonvoting stock, in afirst tier subsidiary, and if the first tier subsidiary owns directly stock possessing at least 50 percent of the voting power of all classes of stock, and at least 50 percent of each class of nonvoting stock, in a second tier subsidiary of the common parent, such second tier subsidiary (and all other corporations below it in the chain which would meet the 80 percent test of section 1563(a) if the second tier subsidiary were the common parent) shall be treated as includible corporations.
+&emsp;&emsp;For purposes of subparagraph (A), if the common parent owns directly stock possessing all of the voting power of all classes of stock and all of the nonvoting stock, in a first tier subsidiary, and if the first tier subsidiary owns directly stock possessing at least 50 percent of the voting power of all classes of stock, and at least 50 percent of each class of nonvoting stock, in a second tier subsidiary of the common parent, such second tier subsidiary (and all other corporations below it in the chain which would meet the 80 percent test of section 1563(a) if the second tier subsidiary were the common parent) shall be treated as includible corporations.
 
 #### (5) Nonvoting common stock may be acquired in certain cases
 
@@ -304,7 +304,7 @@ A plan meets the requirements of this subsection if—
 
 #### (A) In general
 
-&emsp;&emsp;The plan provides that, if the participant and, if applicable pursuant to sections 401(a)(11) and 417, with the consent of theparticipant's spouse elects, the distribution of the participant's account balance in the plan will commence not later than 1 year after the close of the plan year—
+&emsp;&emsp;The plan provides that, if the participant and, if applicable pursuant to sections 401(a)(11) and 417, with the consent of the participant's spouse elects, the distribution of the participant's account balance in the plan will commence not later than 1 year after the close of the plan year—
 
 &emsp;&emsp;&emsp;(i) in which the participant separates from service by reason of the attainment of normal retirement age under the plan, disability, or death, or
 
@@ -356,7 +356,7 @@ A prior section 409, added Pub. L. 93–406, title II, §2002(c), Sept. 2, 1974,
 
 #### Amendments
 
-1997—Subsec. (h)(2). Pub. L. 105–34 designated existing provisions as subpar. (A), inserted subpar. heading, struck out “In the case of an employer whose charter or bylaws restrict the ownership of substantially all outstanding employer securities to employees or to a trust described in section 401(a), a plan which otherwise meets the requirements of this subsection or section 4975(e)(7) shall not be considered to have failed to meet the requirements of this subsection or of section 401(a) merely because it does not permit a participant to exercise the right described in paragraph (1)(A) if such plan provides that participants entitled to a distribution from the plan shall have a right to receive such distribution in cash, except that such plan may distribute employer securities subject to a requirement that such securities may be resold to the employer under terms which meet the requirements of paragraph (1)(B).” after “employer securities.”, and added subpar. (B).
+1997—Subsec. (h)(2). Pub. L. 105–34 designated existing provisions as subpar. (A), inserted subpar. heading, struck out “In the case of an employer whose charter or bylaws restrict the ownership of substantially all outstanding employer securities to employees or to a trust described in section 401(a), a plan which otherwise meets the requirements of this subsection or section 4975(e)(7) shall not be considered to have failed to meet the requirements of this subsection or of section 401(a) merely because it does not permit a participant to exercise the right described in paragraph (1)(A) if such plan provides that participants entitled to a distribution from the plan shall have a right to receive such distribution in cash, except that such plan may distribute employer securities subject to a requirement that such securities may be resold to the employer under terms which meet the requirements of paragraph\(1)(B).” after “employer securities.”, and added subpar. (B).
 
 1989—Subsec. (<i>l</i>)(5). Pub. L. 101–239, §7811(h)(1), substituted “the second sentence” for “the last sentence”.
 
@@ -462,7 +462,7 @@ Subsec. (a). Pub. L. 96–222, §101(a)(7)(L)(ii)(I), (v)(VI), substituted in he
 
 Subsec. (b)(4). Pub. L. 96–222, §101(a)(7)(L)(iii)(V), substituted “employee plan credit” for “ESOP credit”.
 
-Subsec. (d). Pub. L. 96–222, §101(a)(7)(F), inserted “(or allocated to a participant's account in connection withmatched employer and employee contributions)” after “under subsection (b)”.
+Subsec. (d). Pub. L. 96–222, §101(a)(7)(F), inserted “(or allocated to a participant's account in connection with matched employer and employee contributions)” after “under subsection (b)”.
 
 Subsec. (f)(1). Pub. L. 96–222, §101(a)(7)(I)(i), substituted “only if it is established on or before the due date (including any extension of such date) for the filing of the employer's tax return for the first taxable year of the employer for which an employee plan credit is claimed by the employer with respect to the plan” for “for a plan year only if it is established on or before the due date for the filing of the employer's tax return for the taxable year (including any extension of such date) in which or with which the plan year ends”.
 
@@ -536,7 +536,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 331(c)(1) of Pub. L. 97–34 applicable to taxable years ending after Dec. 31, 1982, seesection 331(f)(2) of Pub. L. 97–34, set out as a note under section 404 of this title.
+Amendment by section 331(c)(1) of Pub. L. 97–34 applicable to taxable years ending after Dec. 31, 1982, see section 331(f)(2) of Pub. L. 97–34, set out as a note under section 404 of this title.
 
 Section 337(b) of Pub. L. 97–34, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply to distributions described in section 409A(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (or any corresponding provision of prior law) made after March 29, 1975.”
 

@@ -16,7 +16,7 @@
 
 #### (3) Qualification of franchising authority
 
-&emsp;A franchising authority that seeks to exercise the regulatory jurisdiction permitted under paragraph (2)(A) shall file with the Commission a written certification that—
+&emsp;A franchising authority that seeks to exercise the regulatory jurisdiction permittedunder paragraph (2)(A) shall file with the Commission a written certification that—
 
 &emsp;&emsp;(A) the franchising authority will adopt and administer regulations with respect to the rates subject to regulation under this section that are consistent with the regulations prescribed by the Commission under subsection (b) of this section;
 
@@ -136,7 +136,7 @@
 
 #### (B) Exception; limitation
 
-&emsp;&emsp;The prohibition in subparagraph (A) shall not apply to a cable system that, by reason of the lack of addressable converter boxes or other technological limitations, does not permit the operator to offer programming on a per channel or per program basis in the same manner required by subparagraph (A). This subparagraph shall not be available to any cable operator after—
+&emsp;&emsp;The prohibition in subparagraph (A) shall not apply to a cable system that, by reason of the lack of addressable converter boxes or other technological limitations, does not permit the operator to offer programming on a per channel or per program basis in the same manner required by subparagraph (A).This subparagraph shall not be available to any cable operator after—
 
 &emsp;&emsp;&emsp;(i) the technology utilized by the cable system is modified or improved in a way that eliminates such technological limitation; or
 

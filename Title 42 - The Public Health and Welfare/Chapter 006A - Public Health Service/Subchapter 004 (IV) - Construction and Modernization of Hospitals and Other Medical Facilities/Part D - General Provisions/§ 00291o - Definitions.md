@@ -12,7 +12,7 @@ For the purposes of this subchapter—
 
 (4) Notwithstanding the provisions of paragraphs (2) and (3) of this subsection, the Federal share shall, at the option of the State agency, be equal to the per centum provided under such paragraphs plus an incentive per centum (which when combined with the per centum provided under such paragraphs shall not exceed 90 per centum) specified by the State agency in the case of (A) projects that will provide services primarily for persons in an area determined by the Secretary to be a rural or urban poverty area, and (B) projects that offer potential for reducing health care costs through shared services among health care facilities, through interfacility cooperation, or through the construction or modernization of free-standing outpatient facilities.
 
-(c) The term “hospital” includes general, tuberculosis, and other types of hospitals, and related facilities, such as laboratories, outpatient departments, nurses’ home facilities, extended care facilities, facilities related to programs forhome health services, self-care units, and central service facilities, operated in connection with hospitals, and also includes education or training facilities for health professions personnel operated as an integral part of a hospital, but does not include any hospital furnishing primarily domiciliary care.
+(c) The term “hospital” includes general, tuberculosis, and other types of hospitals, and related facilities, such as laboratories, outpatient departments, nurses’ home facilities, extended care facilities, facilities related to programs for home health services, self-care units, and central service facilities, operated in connection with hospitals, and also includes education or training facilities for health professions personnel operated as an integral part of a hospital, but does not include any hospital furnishing primarily domiciliary care.
 
 (d) The term “public health center” means a publicly owned facility for the provision of public health services, including related publicly owned facilities such as laboratories, clinics, and administrative offices operated in connection with such a facility.
 
@@ -92,7 +92,7 @@ Amendment by section 119(d) of Pub. L. 91–296 applicable with respect to allot
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–581 effective with respect to applications for grants from appropriations for fiscal years beginning after June 30, 1965, see section 3(b) of Pub. L. 88–581, set out as a note under section 291c of this title.
+Amendment by Pub. L. 88–581 effective with respect to applications for grants from appropriations for fiscal years beginning after June 30, 1965, see section 3(b) ofPub. L. 88–581, set out as a note under section 291c of this title.
 
 #### Transfer of Functions
 

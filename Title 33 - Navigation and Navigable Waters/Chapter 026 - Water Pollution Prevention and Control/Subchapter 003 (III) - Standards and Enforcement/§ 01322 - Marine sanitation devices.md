@@ -56,7 +56,7 @@ For the purpose of this section, the term—
 
 #### (b) Federal standards of performance
 
-(1) As soon as possible, after October 18, 1972, and subject to the provisions of section 1254(j) of this title, the Administrator, after consultation with the Secretary of the department in which the Coast Guard is operating, after giving appropriate consideration to the economic costs involved, and within the limits of available technology, shall promulgate Federal standards of performance for marine sanitation devices (hereafter in this section referred to as “standards”) which shall be designed to prevent the discharge of untreated or inadequately treated sewage into or upon the navigable waters from new vessels and existing vessels, except vessels not equipped with installed toilet facilities. Such standards and standards established under subsection (c)(1)(B) of this section shall be consistent with maritime safety and the marine and navigation laws and regulations and shall be coordinated with the regulations issued under this subsection by the Secretary of the department in which the Coast Guard is operating. The Secretary of the department in which the Coast Guard is operating shall promulgate regulations, which are consistent with standards promulgated under this subsection and subsection (c) of this section and with maritime safety and the marine and navigation laws and regulations governing the design, construction, installation, and operation of any marine sanitation device on board such vessels.
+(1) As soon as possible, after October 18, 1972, and subject to the provisions of section 1254(j) of this title, the Administrator, after consultation with the Secretary of the department in which the Coast Guard is operating, after giving appropriate consideration to the economic costs involved, and within the limits of available technology, shall promulgate Federal standards of performance for marine sanitation devices\(hereafter in this section referred to as “standards”) which shall be designed to prevent the discharge of untreated or inadequately treated sewage into or upon the navigable waters from new vessels and existing vessels, except vessels not equipped with installed toilet facilities. Such standards and standards established under subsection (c)(1)(B) of this section shall be consistent with maritime safety and the marine and navigation laws and regulations and shall be coordinated with the regulations issued under this subsection by the Secretary of the department in which the Coast Guard is operating. The Secretary of the department in which the Coast Guard is operating shall promulgate regulations, which are consistent with standards promulgated under this subsection and subsection (c) of this section and with maritime safety and the marine and navigation laws and regulations governing the design, construction, installation, and operation of any marine sanitation device on board such vessels.
 
 (2) Any existing vessel equipped with a marine sanitation device on the date of promulgation of initial standards and regulations under this section, which device is in compliance with such initial standards and regulations, shall be deemed in compliance with this section until such time as the device is replaced or is found not to be in compliance with such initial standards and regulations.
 
@@ -84,7 +84,7 @@ Before the standards and regulations under this section are promulgated, the Adm
 
 (2) If, after promulgation of the initial standards and regulations and prior to their effective date, a vessel is equipped with a marine sanitation device in compliance with such standards and regulations and the installation and operation of such device is in accordance with such standards and regulations, such standards and regulations shall, for the purposes of paragraph (1) of this subsection, become effective with respect to such vessel on the date of such compliance.
 
-(3) After the effective date of the initial standards and regulations promulgated under this section, if any State determines that the protection and enhancement of the quality of some or all of the waters within such State require greater environmental protection, such State may completely prohibit the discharge from all vessels of any sewage, whether treated or not, into such waters, except that no such prohibition shall apply until the Administrator determines that adequate facilities for the safe and sanitary removal and treatment of sewage from all vessels are reasonably available for such water to which such prohibition would apply. Upon application of the State, the Administrator shall make such determination within 90 days of the date of such application.
+(3) After the effective date of the initial standards and regulations promulgated under this section, if any State determines that the protection and enhancement of the quality of some or all of the waters within such State require greater environmental protection, such State may completely prohibit the discharge from all vessels of any sewage, whether treated or not, into such waters, except that no such prohibition shall apply until the Administrator determines that adequate facilities for the safe and sanitary removal and treatment of sewage from all vessels are reasonably available for such water to which such prohibition would apply.Upon application of the State, the Administrator shall make such determination within 90 days of the date of such application.
 
 (4)(A) If the Administrator determines upon application by a State that the protection and enhancement of the quality of specified waters within such State requires such a prohibition, he shall by regulation completely prohibit the discharge from a vessel of any sewage (whether treated or not) into such waters.
 
@@ -116,7 +116,7 @@ The district courts of the United States shall have jurisdictions to restrain vi
 
 #### (j) Penalties
 
-Any person who violates subsection (g)(1) of this section, clause (1) or (2) of subsection (h) ofthis section, or subsection (n)(8) of this section shall be liable to a civil penalty of not more than $5,000 for each violation. Any person who violates clause (4) of subsection (h) of this section or any regulation issued pursuant to this section shall be liable to a civil penalty of not more than $2,000 for each violation. Each violation shall be a separate offense. The Secretary of the department in which the Coast Guard is operating may assess and compromise any such penalty. No penalty shall be assessed until the person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by said Secretary.
+Any person who violates subsection (g)(1) of this section, clause (1) or (2) of subsection (h) of this section, or subsection (n)(8) of this section shall be liable to a civil penalty of not more than $5,000 for each violation. Any person who violates clause (4) of subsection (h) of this section or any regulation issued pursuant to this section shall be liable to a civil penalty of not more than $2,000 for each violation. Each violation shall be a separate offense. The Secretary of the department in which the Coast Guard is operating may assess and compromise any suchpenalty. No penalty shall be assessed until the person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by said Secretary.
 
 #### (k) Enforcement authority
 
@@ -182,7 +182,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (4) Regulations for use of marine pollution control devices
 
-&emsp;The Secretary of Defense, after consultation with the Administrator and the Secretary of the department in which the Coast Guard is operating, shall promulgate such regulations governing the design, construction, installation, and use of marine pollution control devices on board vessels of the Armed Forces as are necessary to achieve the standards promulgated under paragraph (3).
+&emsp;The Secretary of Defense, after consultation with the Administrator and the Secretary ofthe department in which the Coast Guard is operating, shall promulgate such regulations governing the design, construction, installation, and use of marine pollution control devices on board vessels of the Armed Forces as are necessary to achieve the standards promulgated under paragraph (3).
 
 #### (5) Deadlines; effective date
 
@@ -256,7 +256,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Upon application of a State, the Administrator shall by regulation prohibit thedischarge from a vessel of 1 or more discharges incidental to the normal operation of a vessel, whether treated or not treated, into the waters covered by the application if the Administrator determines that—
+&emsp;&emsp;&emsp;Upon application of a State, the Administrator shall by regulation prohibit the discharge from a vessel of 1 or more discharges incidental to the normal operation of a vessel, whether treated or not treated, into the waters covered by the application if the Administrator determines that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the protection and enhancement of the quality of the specified waters within the State require a prohibition of the discharge into the waters;
 
@@ -464,7 +464,7 @@ Matching grants.—The Secretary of the Interior may obligate an amount not to e
 
 &emsp;&emsp;&emsp;“(iii) constructing and renovating pumpout stations and waste reception facilities; and
 
-&emsp;&emsp;&emsp;“(iv) conducting a program to educate recreational boaters about the problem of human body waste discharges from vessels and inform them of the location of pumpout stations and waste reception facilities.
+&emsp;&emsp;&emsp;“(iv) conducting a program to educate recreational boaters about the problem of human body waste discharges from vessels and informthem of the location of pumpout stations and waste reception facilities.
 
 &emsp;&emsp;“(B) inland States, which can demonstrate to the Secretary of the Interior that there are an inadequate number of pumpout stations and waste reception facilities to meet the needs of recreational vessels in the waters of that State, to pay 75 percent of the cost to that State of—
 
@@ -557,6 +557,10 @@ Notification.—Not later than one month after the guidance issued under subsect
 &emsp;&emsp;“(B) leased, rented, or chartered to another for the latter's pleasure; and
 
 &emsp;“(8) ‘waste reception facility’ means a facility specifically designed to receive wastes from portable toilets carried on vessels, and does not include lavatories.”
+
+#### Contiguous Zone of United States
+
+For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 

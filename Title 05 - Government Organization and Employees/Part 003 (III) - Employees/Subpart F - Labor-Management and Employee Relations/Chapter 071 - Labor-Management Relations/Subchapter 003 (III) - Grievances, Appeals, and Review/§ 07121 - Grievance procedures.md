@@ -64,7 +64,7 @@
 
 &emsp;(B) the remedy described in paragraph (3)(B) if such person has timely filed a grievance in writing, in accordance with the provisions of the parties’ negotiated procedure; or
 
-&emsp;(C) the remedy described in paragraph (3)(C) if such person has sought corrective actionfrom the Office of Special Counsel by making an allegation under section 1214(a)(1).
+&emsp;(C) the remedy described in paragraph (3)(C) if such person has sought corrective action from the Office of Special Counsel by making an allegation under section 1214(a)(1).
 
 (h) Settlements and awards under this chapter shall be subject to the limitations in section 5596(b)(4) of this title.
 

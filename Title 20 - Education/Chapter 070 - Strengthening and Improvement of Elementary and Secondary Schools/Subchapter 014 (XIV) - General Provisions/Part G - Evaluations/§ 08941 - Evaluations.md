@@ -6,7 +6,7 @@
 
 &emsp;Except as provided in paragraph (2), the Secretary is authorized to reserve not more than 0.50 percent of the amount appropriated to carry out each program authorized under this chapter—
 
-&emsp;&emsp;(A) to carry out comprehensive evaluations of categorical programs and demonstration projects, and studies of program effectiveness, under this chapter, and the administrative impact of such programs on schools and local educational agencies in accordance with subsection (b) of this section;
+&emsp;&emsp;(A) to carry out comprehensive evaluations of categorical programs and demonstration projects, and studies of programeffectiveness, under this chapter, and the administrative impact of such programs on schools and local educational agencies in accordance with subsection (b) of this section;
 
 &emsp;&emsp;(B) to evaluate the aggregate short- and long-term effects and cost efficiencies across Federal programs under this chapter and related Federal preschool, elementary and secondary programs under other Federal law; and
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(vi) promising means of identifying and disseminating effective management and educational practices;
 
-&emsp;&emsp;&emsp;(vii) the effect of such programs on school and local educational agencies’ administrative responsibilities and structure, including the use of local and Stateresources, with particular attention to schools and agencies serving a high concentration of disadvantaged students; and
+&emsp;&emsp;&emsp;(vii) the effect of such programs on school and local educational agencies’ administrative responsibilities and structure, including the use of local and State resources, with particular attention to schools and agencies serving a high concentration of disadvantaged students; and
 
 &emsp;&emsp;&emsp;(viii) the effect of Federal categorical programs at the elementary and secondary levels on the proliferation of State categorical education aid programs and regulations, including an evaluation of the State regulations that are developed in response to Federal education laws;
 
@@ -90,7 +90,7 @@
 
 #### (c) Recipient evaluation and quality assurance improvement
 
-The Secretary is authorized to provide guidance, technical assistance, and model programs to recipients of assistance under this chapter to strengthen information for quality assurance and performance information feedback at State and local levels. Such guidance and assistance shall promote the development, measurement and reporting of valid, reliable, timely and consistent performance indicators within a programin order to promote continuous program improvement. Nothing in this subsection shall be construed to establish a national data system.
+The Secretary is authorized to provide guidance, technical assistance, and model programs to recipients of assistance under this chapter to strengthen information for quality assurance and performance information feedback at State and local levels. Such guidance and assistance shall promote the development, measurement and reporting of valid, reliable, timely and consistent performance indicators within a program in order to promote continuous program improvement. Nothing in this subsection shall be construed to establish a national data system.
 
 (Pub. L. 89–10, title XIV, §14701, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3908; amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(b)(5)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 

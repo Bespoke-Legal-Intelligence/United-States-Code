@@ -20,7 +20,7 @@ All records of persons described in subsection (a) of this section are subject a
 
 (3) The Commission and the appropriate regulatory agency for a clearing agency, transfer agent, or municipal securities dealer for which the Commission is not the appropriate regulatory agency shall each notify the other and make a report of any examination conducted by it of such clearing agency, transfer agent, or municipal securities dealer, and, upon request, furnish to the other a copy of such report and any data supplied to it in connection with such examination.
 
-(4) The Commission or the appropriate regulatory agency may specify that documents required to be filed pursuant to this subsection with the Commission or such agency, respectively, may be retained by the originating clearing agency, transfer agent, or municipal securities dealer, or filed with another appropriate regulatory agency. The Commission or the appropriate regulatory agency (as the case may be) making such a specification shall continue to have access to the document on request.
+(4) The Commission or the appropriate regulatory agency may specify that documents required to be filed pursuant to this subsectionwith the Commission or such agency, respectively, may be retained by the originating clearing agency, transfer agent, or municipal securities dealer, or filed with another appropriate regulatory agency. The Commission or the appropriate regulatory agency (as the case may be) making such a specification shall continue to have access to the document on request.
 
 #### (d) Self-regulatory organizations
 
@@ -52,7 +52,7 @@ All records of persons described in subsection (a) of this section are subject a
 
 &emsp;(B) make such inquiry with respect to information reported pursuant to this subsection as the Commission, by rule, prescribes as necessary or appropriate in the public interest or for the protection of investors, to determine whether securities in their custody or control, for which they are responsible, or in which they are effecting, clearing, or settling a transaction have been reported as missing, lost, counterfeit, or stolen.
 
-(2) Every member of a national securities exchange, broker, dealer, registered transfer agent, and registered clearing agency, shall require that each of its partners, directors, officers, and employees be fingerprinted and shall submit such fingerprints, or cause the same to be submitted, to the Attorney General of the United States for identification and appropriate processing. The Commission, by rule, may exempt from the provisions of this paragraph upon specified terms, conditions, and periods, any class of partners, directors, officers, or employees of any such member, broker, dealer, transferagent, or clearing agency, if the Commission finds that such action is not inconsistent with the public interest or the protection of investors. Notwithstanding any other provision of law, in providing identification and processing functions, the Attorney General shall provide the Commission and self-regulatory organizations designated by the Commission with access to all criminal history record information.
+(2) Every member of a national securities exchange, broker, dealer, registered transferagent, and registered clearing agency, shall require that each of its partners, directors, officers, and employees be fingerprinted and shall submit such fingerprints, or cause the same to be submitted, to the Attorney General of the United States for identification and appropriate processing. The Commission, by rule, may exempt from the provisions of this paragraph upon specified terms, conditions, and periods, any class of partners, directors, officers, or employees of any such member, broker, dealer, transfer agent, or clearing agency, if the Commission finds that such action is not inconsistent with the public interest or the protection of investors. Notwithstanding any other provision of law, in providing identification and processing functions, the Attorney General shall provide the Commission and self-regulatory organizations designated by the Commission with access to all criminal history record information.
 
 (3)(A) In order to carry out the authority under paragraph (1) above, the Commission or its designee may enter into agreement with the Attorney General to use the facilities of the National Crime Information Center (“NCIC”) to receive, store, and disseminate information in regard to missing, lost, counterfeit, or stolen securities and to permit direct inquiry access to NCIC's file on such securities for the financial community.
 
@@ -86,7 +86,7 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 #### (A) Cooperation in implementation
 
-&emsp;&emsp;In developing and implementing reporting requirements pursuant to paragraph (1) of this subsection with respect to associated persons subject to examination by or reporting requirements of a Federal banking agency, the Commission shall consult with and consider the views of each such Federal banking agency. If a Federal banking agencycomments in writing on a proposed rule of the Commission under this subsection that has been published for comment, the Commission shall respond in writing to such written comment before adopting the proposed rule. The Commission shall, at the request of the Federal banking agency, publish such comment and response in the Federal Register at the time of publishing the adopted rule.
+&emsp;&emsp;In developing and implementing reporting requirements pursuant to paragraph (1) of this subsection with respect to associated persons subject to examination by or reporting requirements of a Federal banking agency, the Commission shall consult with and consider the views of each such Federal banking agency. If a Federal banking agency comments in writing on a proposed rule of the Commission under this subsection that has been published for comment, the Commission shall respond in writing to such written comment before adopting the proposed rule. The Commission shall, at the request of the Federal banking agency, publish such comment and response in the Federal Register at the time of publishing the adopted rule.
 
 #### (B) Use of banking agency reports
 
@@ -120,7 +120,7 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 &emsp;The Commission by rule or order may exempt any person or class of persons, under such terms and conditions and for such periods as the Commission shall provide in such rule or order, from the provisions of this subsection, and the rules thereunder. In granting such exemptions, the Commission shall consider, among other factors—
 
-&emsp;&emsp;(A) whether information of the type required under this subsection is available from a supervisory agency (as defined in section 3401(6) of title 12), a State insurance commission or similar State agency, the Commodity Futures Trading Commission, or a similar foreign regulator;
+&emsp;&emsp;(A) whether information of the type required under this subsection is available from a supervisory agency (as defined in section 3401(6) <sup>1</sup> of title 12), a State insurance commission or similar State agency, the Commodity Futures Trading Commission, or a similar foreign regulator;
 
 &emsp;&emsp;(B) the primary business of any associated person;
 
@@ -134,7 +134,131 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 &emsp;Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any information required to be reported under this subsection, or any information supplied to the Commission by any domestic or foreign regulatory agency that relates to the financial or operational condition of any associated person of a registered broker, dealer, government securities broker, government securities dealer, or municipal securities dealer. Nothing in this subsection shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. In prescribing regulations to carry out the requirements of this subsection, the Commission shall designate information described in or obtained pursuant to subparagraph (B) or (C) of paragraph (3) of this subsection as confidential information for purposes of section 78x(b)(2) of this title.
 
-#### (i) Coordination of examining authorities
+#### (i) Investment bank holding companies
+
+#### (1) Elective supervision of an investment bank holding company not having a bank or savings association affiliate
+
+#### (A) In general
+
+&emsp;&emsp;An investment bank holding company that is not—
+
+&emsp;&emsp;&emsp;(i) an affiliate of an insured bank (other than an institution described in subparagraph (D), (F), or (G) of section 1841(c)(2), or held under section 1843(f), of title 12), or a savings association;
+
+&emsp;&emsp;&emsp;(ii) a foreign bank, foreign company, or company that is described in section 3106(a) of title 12; or
+
+&emsp;&emsp;&emsp;(iii) a foreign bank that controls, directly or indirectly, a corporation chartered under section 25A of the Federal Reserve Act \[12 U.S.C. 611 et seq.\],
+
+> &emsp;&emsp;may elect to become supervised by filing with the Commission a notice of intention to become supervised, pursuant to subparagraph (B) of this paragraph. Any investment bank holding company filing such a notice shall be supervised in accordance with this section and comply with the rules promulgated by the Commission applicable to supervised investment bank holding companies.
+
+#### (B) Notification of status as a supervised investment bank holding company
+
+&emsp;&emsp;An investment bank holding company that elects under subparagraph (A) to become supervised by the Commission shall file with the Commission a written notice of intention to become supervised by the Commission in such form and containing such information and documents concerning such investment bank holding company as the Commission, by rule, may prescribe as necessary or appropriate in furtherance of the purposes of this section. Unless the Commission finds that such supervision is not necessary or appropriate in furtherance of the purposes of this section, such supervision shall become effective 45 days after the date of receipt of such written notice by the Commission or within such shorter time period as the Commission, by rule or order, may determine.
+
+#### (2) Election not to be supervised by the Commission as an investment bank holding company
+
+#### (A) Voluntary withdrawal
+
+&emsp;&emsp;A supervised investment bank holding company that is supervised pursuant to paragraph (1) may, upon such terms and conditions as the Commission deems necessary or appropriate, elect not to be supervised by the Commission by filing a written notice of withdrawal from Commission supervision. Such notice shall not become effective until 1 year after receipt by the Commission, or such shorter or longer period as the Commission deems necessary or appropriate to ensure effective supervision of the material risks to the supervised investment bank holding company and to the affiliated broker or dealer, or to prevent evasion of the purposes of this section.
+
+#### (B) Discontinuation of Commission supervision
+
+&emsp;&emsp;If the Commission finds that any supervised investment bank holding company that is supervised pursuant to paragraph (1) is no longer in existence or has ceased to be an investment bank holding company, or if the Commission finds that continued supervision of such a supervised investment bank holding company is not consistent with the purposes of this section, the Commission may discontinue the supervision pursuant to a rule or order, if any, promulgated by the Commission under this section.
+
+#### (3) Supervision of investment bank holding companies
+
+#### (A) Recordkeeping and reporting
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Every supervised investment bank holding company and each affiliate thereof shall make and keep for prescribed periods such records, furnish copies thereof, and make such reports, as the Commission may require by rule, in order to keep the Commission informed as to—
+
+&emsp;&emsp;&emsp;&emsp;(I) the company's or affiliate's activities, financial condition, policies, systems for monitoring and controlling financial and operational risks, and transactions and relationships between any broker or dealer affiliate of the supervised investment bank holding company; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the extent to which the company or affiliate has complied with the provisions of this chapter and regulations prescribed and orders issued under this chapter.
+
+#### (ii) Form and contents
+
+&emsp;&emsp;&emsp;Such records and reports shall be prepared in such form and according to such specifications (including certification by an independent public accountant), as the Commission may require and shall be provided promptly at any time upon request by the Commission. Such records and reports may include—
+
+&emsp;&emsp;&emsp;&emsp;(I) a balance sheet and income statement;
+
+&emsp;&emsp;&emsp;&emsp;(II) an assessment of the consolidated capital of the supervised investment bank holding company;
+
+&emsp;&emsp;&emsp;&emsp;(III) an independent auditor's report attesting to the supervised investment bank holding company's compliance with its internal risk management and internal control objectives; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) reports concerning the extent to which the company or affiliate has complied with the provisions of this chapter and any regulations prescribed and orders issued under this chapter.
+
+#### (B) Use of existing reports
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Commission shall, to the fullest extent possible, accept reports in fulfillment of the requirements under this paragraph that the supervised investment bank holding company or its affiliates have been required to provide to another appropriate regulatory agency or self-regulatory organization.
+
+#### (ii) Availability
+
+&emsp;&emsp;&emsp;A supervised investment bank holding company or an affiliate of such company shall provide to the Commission, at the request of the Commission, any report referred to in clause (i).
+
+#### (C) Examination authority
+
+#### (i) Focus of examination authority
+
+&emsp;&emsp;&emsp;The Commission may make examinations of any supervised investment bank holding company and any affiliate of such company in order to—
+
+&emsp;&emsp;&emsp;&emsp;(I) inform the Commission regarding—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the nature of the operations and financial condition of the supervised investment bank holding company and its affiliates;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the financial and operational risks within the supervised investment bank holding company that may affect any broker or dealer controlled by such supervised investment bank holding company; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the systems of the supervised investment bank holding company and its affiliates for monitoring and controlling those risks; and
+
+&emsp;&emsp;&emsp;&emsp;(II) monitor compliance with the provisions of this subsection, provisions governing transactions and relationships between any broker or dealer affiliated with the supervised investment bank holding company and any of the company's other affiliates, and applicable provisions of subchapter II of chapter 53, title 31 (commonly referred to as the “Bank Secrecy Act”) and regulations thereunder.
+
+#### (ii) Restricted focus of examinations
+
+&emsp;&emsp;&emsp;The Commission shall limit the focus and scope of any examination of a supervised investment bank holding company to—
+
+&emsp;&emsp;&emsp;&emsp;(I) the company; and
+
+&emsp;&emsp;&emsp;&emsp;(II) any affiliate of the company that, because of its size, condition, or activities, the nature or size of the transactions between such affiliate and any affiliated broker or dealer, or the centralization of functions within the holding company system, could, in the discretion of the Commission, have a materially adverse effect on the operational or financial condition of the broker or dealer.
+
+#### (iii) Deference to other examinations
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the Commission shall, to the fullest extent possible, use the reports of examination of an institution described in subparagraph (D), (F), or (G) of section 1841(c)(2), or held under section 1843(f), of title 12 made by the appropriate regulatory agency, or of a licensed insurance company made by the appropriate State insurance regulator.
+
+#### (4) Functional regulation of banking and insurance activities of supervised investment bank holding companies
+
+&emsp;The Commission shall defer to—
+
+&emsp;&emsp;(A) the appropriate regulatory agency with regard to all interpretations of, and the enforcement of, applicable banking laws relating to the activities, conduct, ownership, and operations of banks, and institutions described in subparagraph (D), (F), and (G) of section 1841(c)(2), or held under section 1843(f), of title 12; and
+
+&emsp;&emsp;(B) the appropriate State insurance regulators with regard to all interpretations of,and the enforcement of, applicable State insurance laws relating to the activities, conduct, and operations of insurance companies and insurance agents.
+
+#### (5) Definitions
+
+&emsp;For purposes of this subsection:
+
+&emsp;&emsp;(A) The term “investment bank holding company” means—
+
+&emsp;&emsp;&emsp;(i) any person other than a natural person that owns or controls one or more brokers or dealers; and
+
+&emsp;&emsp;&emsp;(ii) the associated persons of the investment bank holding company.
+
+&emsp;&emsp;(B) The term “supervised investment bank holding company” means any investment bank holding company that is supervised by the Commission pursuant to this subsection.
+
+&emsp;&emsp;(C) The terms “affiliate”, “bank”, “bank holding company”, “company”, “control”, and “savings association” have the same meanings as given in section 1841 of title 12.
+
+&emsp;&emsp;(D) The term “insured bank” has the same meaning as given in section 1813 of title 12.
+
+&emsp;&emsp;(E) The term “foreign bank” has the same meaning as given in section 3101(7) of title 12.
+
+&emsp;&emsp;(F) The terms “person associated with an investment bank holding company” and “associated person of an investment bank holding company” mean any person directly or indirectly controlling, controlled by, or under common control with, an investment bank holding company.
+
+#### (j) Authority to limit disclosure of information
+
+Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any information required to be reported under subsection (h) or (i) of this section or any information supplied to the Commission by any domestic or foreign regulatory agency that relates to the financial or operational condition of any associated person of a broker or dealer, investment bank holding company, or any affiliate of an investment bank holding company. Nothing in this subsection shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with a request for information from any other Federal department or agency or any self-regulatory organization requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. In prescribing regulations to carry out the requirements of this subsection, the Commission shall designate information described in or obtained pursuant to subparagraphs (A), (B), and (C) of subsection (i)(5) <sup>2</sup> of this section as confidential information for purposes of section 78x(b)(2) of this title.
+
+#### (k) Coordination of examining authorities
 
 #### (1) Elimination of duplication
 
@@ -162,15 +286,21 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 &emsp;For purposes of this subsection, the term “examining authority” means a self-regulatory organization registered with the Commission under this chapter (other than a registered clearing agency) with the authority to examine, inspect, and otherwise oversee the activities of a registered broker or dealer.
 
-(June 6, 1934, ch. 404, title I, §17, 48 Stat. 897; May 27, 1936, ch. 462, §4, 49 Stat. 1379; June 25, 1938, ch. 677, §5, 52 Stat. 1076; Pub. L. 94–29, §14, June 4, 1975, 89 Stat. 137; Pub. L. 99–571, title I, §102(h), (i), Oct. 28, 1986, 100 Stat. 3219; Pub. L. 100–181, title III, §321, title VIII, §801(b), Dec. 4, 1987, 101 Stat. 1257, 1265; Pub. L. 101–432, §4(a), Oct. 16, 1990, 104 Stat. 966; Pub. L. 104–290, title I, §108, Oct. 11, 1996, 110 Stat. 3425; Pub. L. 105–353, title III, §301(b)(5), Nov. 3, 1998, 112 Stat. 3236.)
+(June 6, 1934, ch. 404, title I, §17, 48 Stat. 897; May 27, 1936, ch. 462, §4, 49 Stat. 1379; June 25, 1938, ch. 677, §5, 52 Stat. 1076; Pub. L. 94–29, §14, June 4, 1975, 89 Stat. 137; Pub. L. 99–571, title I, §102(h), (i), Oct. 28, 1986, 100 Stat. 3219; Pub. L. 100–181, title III, §321, title VIII, §801(b), Dec. 4, 1987, 101 Stat. 1257, 1265; Pub. L. 101–432, §4(a), Oct. 16, 1990, 104 Stat. 966; Pub. L. 104–290, title I, §108, Oct. 11, 1996, 110 Stat. 3425; Pub. L. 105–353, title III, §301(b)(5), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §231(a), Nov. 12, 1999, 113 Stat. 1402.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1), (b), (d)(1)(A), (B), (e)(2), (g), and (i)(5), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a)(1), (b), (d)(1)(A), (B), (e)(2), (g), (i)(3)(A)(ii)(V), and (k)(5), was in the original “this title”, and this chapter, referred to in subsec. (i)(3)(A)(i)(II), was in the original “this Act”. See References in Text note set out under section 78a of this title.
 
-Subchapter VIII of chapter 3 of title 12, referred to in subsec. (h)(3)(B), was in the original “section 9 of the Federal Reserve Act”, meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified generally to subchapter VIII (§321 et seq.) of chapter 3 of Title 12, Banks and Banking.
+Subchapter VIII of chapter 3 of title 12, referred to in subsec. (h)(3)(B), was in the original “section 9 of the Federal Reserve Act”, meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classifiedgenerally to subchapter VIII (§321 et seq.) of chapter 3 of Title 12, Banks and Banking.
+
+Section 3401(6) of title 12, referred to in subsec. (h)(4)(A), was redesignated section 3401(7) of title 12 by Pub. L. 101–73, title IX, §941(1), Aug. 9, 1989, 103 Stat. 496.
+
+Section 25A of the Federal Reserve Act, referred to in subsec. (i)(1)(A)(iii), is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking.
 
 #### Amendments
+
+1999—Subsecs. (i) to (k). Pub. L. 106–102 added subsecs. (i) and (j) and redesignated former subsec. (i) as (k).
 
 1998—Subsec. (g). Pub. L. 105–353 substituted “Board of Governors of the Federal Reserve System” for “Federal Reserve Board” in first sentence.
 
@@ -223,4 +353,8 @@ Rules and regulations, power of Commission and Board of Governors of Federal Res
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 78c, 78f, 78<i>o</i>–3, 78<i>o</i>–4, 78<i>o</i>–5, 78q–1, 78s, 78y, 78hh, 78fff–1, 78iii of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be subsection “(i)(3)”.</i>
 

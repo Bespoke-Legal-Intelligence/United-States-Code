@@ -12,7 +12,7 @@ The Director, in consultation with the Committee, shall encourage the developmen
 
 #### (2) Requirements for proposals
 
-&emsp;A proposal under paragraph (1) shall be submitted in the manner and form prescribed by the Director and shall be consistent with the goals of the Great Lakes Water Quality Agreement, as revised in 1987, the 1954 Great Lakes Fisheries Convention, the 1980 Joint Strategic Plan for the Management of Great Lakes fishery resources, the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (16 U.S.C. 4701 et seq.), and the North American Waterfowl Management Plan and joint ventures established under the plan.
+&emsp;A proposal under paragraph (1) shall be submitted in the manner and form prescribed by the Director and shall be consistent with the goals of the Great Lakes Water Quality Agreement, as revised in 1987, the 1954 Great LakesFisheries Convention, the 1980 Joint Strategic Plan for the Management of Great Lakes fishery resources, the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (16 U.S.C. 4701 et seq.), and the North American Waterfowl Management Plan and joint ventures established under the plan.
 
 #### (3) Sea lamprey authority
 

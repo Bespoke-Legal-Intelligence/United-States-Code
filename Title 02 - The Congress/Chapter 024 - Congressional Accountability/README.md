@@ -244,10 +244,7 @@
 | (a) | Transition provisions for employees of House of Representatives and of Senate. |
 | (b) | Transition provisions for employees of Architect of Capitol. |
 | (c) | Transition provision relating to matters other than employment under section 12209 of title 42. |
-| [1436\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001436%20-%20Use%20of%20frequent%20flyer%20miles.md) | Use of frequent flyer miles. |
-| (a) | Limitation on use of travel awards; exception. |
-| (b) | Regulations. |
-| (c) | Definitions. |
+| [1436\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001436%20-%20Repealed.%20Pub.%20L.%20106%E2%80%9357%2C%20title%20III%2C%20%C2%A7313%2C%20Sept.%2029%2C%201999%2C%20113%20Stat.%20428.md) | Repealed. |
 | [1437\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001437%20-%20Sense%20of%20Senate%20regarding%20adoption%20of%20simplified%20and%20streamlined%20acquisition%20procedures%20for%20Senate%20acquisitions.md) | Sense of Senate regarding adoption of simplified and streamlined acquisition procedures for Senate acquisitions. |
 | [1438\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001438%20-%20Severability.md) | Severability. |
 

@@ -36,7 +36,7 @@ State Grants.—(1) Not more than the following amounts may be appropriated to t
 
 &emsp;(D) $12,000,000 for fiscal year 1996.
 
-&emsp;(E) $14,000,000 for fiscal year 1997, of which $12,500,000 is to be derived from user fees for fiscal year 1997 collected under section 60301 of this title.
+&emsp;(E) $14,000,000 for fiscal year 1997, of which $12,500,000 is to be derived from user fees forfiscal year 1997 collected under section 60301 of this title.
 
 &emsp;(F) $14,490,000 for fiscal year 1998, of which $12,900,000 is to be derived from user fees for fiscal year 1998 collected under section 60301 of this title.
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) Cooperatives and other entities that have received a loan, loan commitment, or loan guarantee from the Rural Electrification Administration, or a loan or loan commitment from the Rural Telephone Bank, or that are eligible under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.) for a loan, loan commitment, or loan guarantee from the Administration or the Bank (or a successor of the Administration or the Bank), and subsidiaries of such cooperatives or other entities.
 
-&emsp;&emsp;(B) Any legal entity that (i) holds more than 50 percent of the voting control of an association or other entity that is eligible to borrow from a bank for cooperatives under subsection (a) of this section or subparagraph (A) of this paragraph, and (ii) borrows for the purpose of making funds available to that association or entity, and makes funds available to that association or entity underthe same terms and conditions that the funds are borrowed from a bank for cooperatives.
+&emsp;&emsp;(B) Any legal entity that (i) holds more than 50 percent of the voting control of an association or other entity that is eligible to borrow from a bank for cooperatives under subsection (a) of this section or subparagraph (A) of this paragraph, and (ii) borrows for the purpose of making funds available to that association or entity, and makes funds available to that association or entity under the same terms and conditions that the funds are borrowed from a bank for cooperatives.
 
 &emsp;&emsp;(C) Any cooperative or other entity described in subsection (b) or (f) of section 2128 of this title.
 
@@ -38,7 +38,7 @@ The Rural Electrification Act of 1936, referred to in subsec. (b)(1)(A), is act 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–105, §204(a), inserted at end “Any such association that has received a loan from a bank for cooperatives shall, without regard to the requirements of paragraphs (1) through (4), continue to be eligible for so long as more than 50 percent (or such higher percentage as is established by the bank board) of the voting control of the association is held by farmers, producers or harvesters of aquatic products, or eligible cooperative associations.”
+1996—Subsec. (a). Pub. L. 104–105, §204(a), inserted at end “Any such association that has received a loanfrom a bank for cooperatives shall, without regard to the requirements of paragraphs (1) through (4), continue to be eligible for so long as more than 50 percent (or such higher percentage as is established by the bank board) of the voting control of the association is held by farmers, producers or harvesters of aquatic products, or eligible cooperative associations.”
 
 Subsec. (b)(1)(A). Pub. L. 104–105, §205, substituted “are eligible under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.) for” for “have been certified by the Administrator of the Rural Electrification Administration to be eligible for such” and “loan guarantee from the Administration or the Bank (or a successor of the Administration or the Bank), and” for “loan guarantee, and”.
 
@@ -78,7 +78,7 @@ Amendment by section 502(f) of Pub. L. 102–237 effective as if included in the
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, whichwas approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
 #### Section Referred to in Other Sections
 

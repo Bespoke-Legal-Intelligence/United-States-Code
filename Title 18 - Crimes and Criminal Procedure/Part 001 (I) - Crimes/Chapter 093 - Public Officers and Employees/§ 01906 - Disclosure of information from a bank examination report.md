@@ -6,7 +6,7 @@ Whoever, being an examiner, public or private, or a General Accounting Office em
 
 #### Historical and Revision Notes
 
-Based on section 594 of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 23, 1913, ch. 6, §22 \[second and third sentences of second paragraph\], 38 Stat. 272, 273; Sept. 26, 1918, ch. 177, §5 \[22(b), second paragraph\], 40 Stat. 970; Aug. 23, 1935, ch. 614, §326(b), 49 Stat. 716).
+Based on section 594 of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 23, 1913, ch. 6, §22 \[second and thirdsentences of second paragraph\], 38 Stat. 272, 273; Sept. 26, 1918, ch. 177, §5 \[22(b), second paragraph\], 40 Stat. 970; Aug. 23, 1935, ch. 614, §326(b), 49 Stat. 716).
 
 Other provisions of section 594 of title 12, U.S.C., 1940 ed., Banks and Banking, were consolidated with similar provisions from other sections, to form section 1909 of this title.
 
@@ -24,7 +24,7 @@ Section 3(s) of the Federal Deposit Insurance Act, referred to in text, is class
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-1990—Pub. L. 101–647 substituted “System, any bank insured” for “System, or bank insured” and inserted “, any branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), or any organization operating under section 25 or section 25(a) of the Federal Reserve Act,” after “by the Federal Deposit Insurance Corporation”, “branch, agency, or organization,” after “proper officers of such bank,”, “or a Federal branch or Federal agency (as such terms are defined in paragraphs (5) and (6) of section 1(b) of the International Banking Act of 1978)” after “national bank”, “, an uninsured State branch or State agency (as such terms are defined in paragraphs (11) and (12) ofsection 1(b) of the International Banking Act of 1978), or an organization operating under section 25 or section 25(a) of the Federal Reserve Act” after “as to a State member bank”, “, including any insured branch (as defined in section 3(s) of the Federal Deposit Insurance Act),” after “any other insured bank”, and “or organization” after “board of directors of such bank”.
+1990—Pub. L. 101–647 substituted “System, any bank insured” for “System, or bank insured” and inserted “, any branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), or any organization operating under section 25 or section 25(a) of the Federal Reserve Act,” after “by the Federal Deposit Insurance Corporation”, “branch, agency, or organization,” after “proper officers of such bank,”, “or a Federal branch or Federal agency (as such terms are defined in paragraphs (5) and (6) of section 1(b) of the International Banking Act of 1978)” after “national bank”, “, an uninsured State branch or State agency (as such terms are defined in paragraphs (11) and (12) of section 1(b) of the International Banking Act of 1978), or an organization operating under section 25 or section 25(a) of the Federal Reserve Act” after “as to a State member bank”, “, including any insured branch (as defined in section 3(s) of the Federal Deposit Insurance Act),” after “any other insured bank”, and “or organization” after “board of directors of such bank”.
 
 1982—Pub. L. 97–258 substituted “section 714 of title 31” for “section 117(e) of the Accounting and Auditing Act of 1950” wherever appearing.
 

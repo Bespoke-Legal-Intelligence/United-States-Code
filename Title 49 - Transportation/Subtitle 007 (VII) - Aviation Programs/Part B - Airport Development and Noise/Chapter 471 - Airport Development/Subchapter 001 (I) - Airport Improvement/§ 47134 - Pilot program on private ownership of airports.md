@@ -80,7 +80,7 @@ Interests of General Aviation Users.—In approving an application of an airport
 
 (g)
 
-Passenger Facility Fees; Apportionments; Service Charges.—Notwithstandingthat the sponsor of an airport receiving an exemption under subsection (b) is not a public agency, the sponsor shall not be prohibited from—
+Passenger Facility Fees; Apportionments; Service Charges.—Notwithstanding that the sponsor of an airport receiving an exemption under subsection (b) is not a public agency, the sponsor shall not be prohibited from—
 
 &emsp;(1) imposing a passenger facility fee under section 40117 of this title;
 

@@ -62,7 +62,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 16 section 471j; title 25 section 450i.
+This section is referred to in title 16 sections 1a–2, 471j; title 25 section 450i.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “this title,”.</i>
 

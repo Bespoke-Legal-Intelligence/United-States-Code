@@ -8,7 +8,7 @@
 
 #### (2) Timing
 
-&emsp;An environmental impact statement prepared under paragraph (1) shall be prepared before the hearing on the issuance of a licensefor the construction and operation of a uranium enrichment facility is completed.
+&emsp;An environmental impact statement prepared under paragraph (1) shall be prepared before the hearing on the issuance of a license for the construction and operation of a uranium enrichment facility is completed.
 
 #### (b) Adjudicatory hearing
 
@@ -30,7 +30,7 @@ Prior to commencement of operation of a uranium enrichment facility licensed her
 
 #### (d) Insurance and decommissioning
 
-(1) The Commission shall require, as a condition of the issuance of a license under sections 2073 and 2093 of this title for a uranium enrichment facility, that the licensee have and maintain liability insurance of such type and in such amounts as the Commission judges appropriate to cover liability claims arising out of any occurrence within the United States, causing, within or outside the United States, bodily injury, sickness, disease, or death, or loss of or damage to property, or loss of use of property, arising out of or resulting from the radioactive, toxic, explosive, or other hazardous properties of chemical compounds containing source or special nuclear material.
+(1) The Commission shall require, as a condition of the issuance of a license under sections2073 and 2093 of this title for a uranium enrichment facility, that the licensee have and maintain liability insurance of such type and in such amounts as the Commission judges appropriate to cover liability claims arising out of any occurrence within the United States, causing, within or outside the United States, bodily injury, sickness, disease, or death, or loss of or damage to property, or loss of use of property, arising out of or resulting from the radioactive, toxic, explosive, or other hazardous properties of chemical compounds containing source or special nuclear material.
 
 (2) The Commission shall require, as a condition for the issuance of a license under sections 2073 and 2093 of this title for a uranium enrichment facility, that the licensee provide adequate assurance of the availability of funds for the decommissioning (including decontamination) of such facility using funding mechanisms that may include, but are not necessarily limited to, the following:
 

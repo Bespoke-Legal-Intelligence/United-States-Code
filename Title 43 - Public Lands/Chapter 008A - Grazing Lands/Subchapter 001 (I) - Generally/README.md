@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 315m–2, 1751, 1752, 1903 of this title; title 16 sections 272b, 460iii–3;title 25 section 621; title 30 section 601; title 50 App. section 561.
+This subchapter is referred to in sections 315m–2, 1751, 1752, 1903 of this title; title 16 sections 272b, 460iii–3; title 25 section 621; title 30 section 601; title 50 App. section 561.
 
 
 ---

@@ -6,7 +6,7 @@ If a participant dies and no claim for annuity is payable under this part, the l
 
 #### (b) Surviving spouse
 
-If a participant who has at least 18 months of civilian service credit toward retirement under the System dies before retirement or other separation from the Service and is survived by a spouse or former spouse qualifying for an annuity under section 4054(b) of this title, such surviving spouse shall be entitled to an annuity equal to 55 percent of the annuity computed in accordance with subsections (e) and (g) of this section and section 4046(a) of this title and any surviving former spouse shall be entitled to an annuity under section 4054(b) of this title as if the participant died after being entitled to an annuity under this part. If the participant had less than 3 years creditable civilian service atthe time of death, the survivor annuity shall be computed on the basis of the average salary for the entire period of such service.
+If a participant who has at least 18 months of civilian service credit toward retirement under the System dies before retirement or other separation from the Service and is survived by a spouse or former spouse qualifying for an annuity under section 4054(b) of this title, such surviving spouse shall be entitled to an annuity equal to 55 percent of the annuity computed in accordance with subsections (e) and (g) of this section and section 4046(a) of this title and any surviving former spouse shall be entitled to an annuity under section 4054(b) of this title as if the participant died after being entitled to an annuity under this part. If the participant had less than 3 years creditable civilian service at the time of death, the survivor annuity shall be computed on the basis of the average salary for the entire period of such service.
 
 #### (c) Surviving spouse or former spouse, and children
 
@@ -14,7 +14,7 @@ If a participant who has at least 18 months of civilian service credit toward re
 
 #### (d) Surviving children
 
-If a participant who has at least 18 months of civilian service credit toward retirement under the System dies before retirement or other separation from the Service and is not survived by a spouse, or a former spouse who is the natural or adoptive parent of a surviving child of the annuitant, but by a child or children, each surviving child shall be entitled to an annuity computed in accordance with subsections (c)(2) and (d) of section 4046 of this title.
+If a participant who has at least 18 months of civilian service credit toward retirement underthe System dies before retirement or other separation from the Service and is not survived by a spouse, or a former spouse who is the natural or adoptive parent of a surviving child of the annuitant, but by a child or children, each surviving child shall be entitled to an annuity computed in accordance with subsections (c)(2) and (d) of section 4046 of this title.
 
 #### (e) Service credit; presumption of qualification
 

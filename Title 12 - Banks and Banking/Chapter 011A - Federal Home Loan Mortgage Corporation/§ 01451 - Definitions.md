@@ -42,7 +42,7 @@ The National Energy Conservation Policy Act, referred to in subsec. (h), is Pub.
 
 1984—Subsec. (d). Pub. L. 98–440, §202(a), inserted reference to a manufactured home that is personal property under the laws of the State in which the manufactured home is located.
 
-Subsec. (h). Pub. L. 98–440, §203(b)(1), substituted “status as a lien” for “status as a first lien” and “Such term shall also include other secured loans that are secured by a subordinate lien against a property as to which the Corporation may purchase a residential mortgage as defined under the first sentence of this subsection” for “The maximum principal obligation of loans purchased by virtue of the preceding sentence shall not exceed the dollar limits prescribed by the Federal Home Loan Bank Board with respect to similar types of loans made by Federal savings and loan associations”.
+Subsec. (h). Pub. L. 98–440, §203(b)(1), substituted “status as a lien” for “status as a first lien” and “Such term shall also include other secured loans that are secured by a subordinate lien against a property as to which the Corporation may purchase a residential mortgage as defined under the first sentence of this subsection” for “The maximum principal obligation of loans purchased by virtue of the preceding sentenceshall not exceed the dollar limits prescribed by the Federal Home Loan Bank Board with respect to similar types of loans made by Federal savings and loan associations”.
 
 Pub. L. 98–440, §202(b), inserted provision that term “residential mortgage” also includes a loan or advance of credit secured by a mortgage or other lien on a manufactured home that is the principal residence of the borrower, without regard to whether the security property is real, personal, or mixed.
 

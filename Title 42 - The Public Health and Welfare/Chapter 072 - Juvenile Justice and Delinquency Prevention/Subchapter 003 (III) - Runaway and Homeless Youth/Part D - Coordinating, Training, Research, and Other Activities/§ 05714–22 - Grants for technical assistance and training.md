@@ -6,5 +6,5 @@ The Secretary may make grants to statewide and regional nonprofit organizations 
 
 #### Prior Provisions
 
-A prior section 342 of Pub. L. 93–415 was renumbered section 372 and is classified to section 5714b of this title.
+A prior section 342 of Pub. L. 93–415 was renumbered section 381 and is classified to section 5714b of this title.
 

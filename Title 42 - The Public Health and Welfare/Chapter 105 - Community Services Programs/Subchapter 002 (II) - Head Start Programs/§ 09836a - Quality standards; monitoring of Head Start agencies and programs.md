@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(v) guidelines and standards currently in effect or under consideration that promote child health services, and projected needs of expanding Head Start programs;
 
-&emsp;&emsp;&emsp;(vi) changes in the population of children who are eligible to participate in Head Start programs, including the languagebackground and family structure of such children; and
+&emsp;&emsp;&emsp;(vi) changes in the population of children who are eligible to participate in Head Start programs, including the language background and family structure of such children; and
 
 &emsp;&emsp;&emsp;(vii) the need for, and state-of-the-art developments relating to, local policies and activities designed to ensure that children participating in Head Start programs make a successful transition to public schools; and
 
@@ -200,7 +200,7 @@ Subsec. (a)(4). Pub. L. 105–285, §108(a)(3), redesignated par. (4) as (3).
 
 Subsec. (b). Pub. L. 105–285, §108(b)(1), inserted “Results-based” in heading.
 
-Subsec. (b)(1). Pub. L. 105–285, §108(b)(2), substituted “The Secretary” for “Not later than 1 year after May18, 1994, the Secretary”, “early childhood education and” for “child”, and “results-based performance measures” for “performance measures” and inserted “, and the impact of the services provided through the programs to children and their families” before “(referred”.
+Subsec. (b)(1). Pub. L. 105–285, §108(b)(2), substituted “The Secretary” for “Not later than 1 year after May 18, 1994, the Secretary”, “early childhood education and” for “child”, and “results-based performance measures” for “performance measures” and inserted “, and the impact of the services provided through the programs to children and their families” before “(referred”.
 
 Subsec. (b)(2). Pub. L. 105–285, §108(b)(3)(A), (B), (F), substituted “Characteristics” for “Design” in heading and “shall—” for “shall be designed—” in introductory provisions and inserted concluding provisions.
 

@@ -12,7 +12,7 @@ June 28, 1944, ch. 296, 58 Stat. 456.
 
 July 12, 1943, ch. 215, 57 Stat. 425.
 
-Section 436, act July 30, 1946, ch. 698, §1, 60 Stat. 711, authorized Secretary of Agriculture, for a period not to exceed three years from July 30, 1946, to dispose of lands comprising or incident to resettlement and rural rehabilitation projects.
+Section 436, act July 30, 1946, ch. 698, §1, 60 Stat. 711, authorized Secretary of Agriculture, for a period not to exceed three years from July 30, 1946, to dispose oflands comprising or incident to resettlement and rural rehabilitation projects.
 
 Section 437, act July 30, 1946, ch. 698, §2, 60 Stat. 711, authorized Secretary to sell units not to exceed 640 acres in any one sale at the earning capacity value as determined by him.
 

@@ -42,7 +42,7 @@ Section 1328(a) adopts a provision contained in the Senate amendment permitting 
 
 The court is to enter a discharge, unless waived, as soon as practicable after completion of payments under the plan. The debtor is to be discharged of all debts provided for by the plan or disallowed under section 502, except a debt provided for under the plan the last payment on which was not due until after the completion of the plan, or a debt incurred for willful and malicious conversion of or injury to the property or person of another.
 
-Subsection (b) is the successor to Bankruptcy Act Section 661 \[section 1061 of former title 11\]. This subsection permits the bankruptcy judge to grant the debtor a discharge at any time after confirmation of aplan, if the court determines, after notice and hearing, that the failure to complete payments under the plan is due to circumstances for which the debtor should not justly be held accountable, the distributions made to each creditor under the plan equal in value the amount that would have been paid to the creditor had the estate been liquidated under chapter 7 of title 11 at the date of the hearing under this subsection, and that modification of the plan is impracticable. The discharge granted under subsection (b) relieves the debtor from all unsecured debts provided for by the plan or disallowed under section 502, except nondischargeable debts described in section 523(a) of title 11 or debts of the type covered by section 1322(b)(5).
+Subsection (b) is the successor to Bankruptcy Act Section 661 \[section 1061 of former title 11\]. This subsection permits the bankruptcy judge to grant the debtor a discharge at any time after confirmation of a plan, if the court determines, after notice and hearing, that the failure to complete payments under the plan is due to circumstances for which the debtor should not justly be held accountable, the distributions made to each creditor under the plan equal in value the amount that would have been paid to the creditor had the estate been liquidated under chapter 7 of title 11 at the date of the hearing under this subsection, and that modification of the plan is impracticable. The discharge granted under subsection (b) relieves the debtor from all unsecured debts provided for by the plan or disallowed under section 502, except nondischargeable debts described in section 523(a) of title 11 or debts of the type covered by section 1322(b)(5).
 
 Subsection (d) excepts from any chapter 13 discharge a debt based on an allowed section 1305(a)(2) postpetition claim, if prior trustee approval of the incurring of the debt was practicable but was not obtained.
 
@@ -88,5 +88,5 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 523, 524 of this title; title 12 section 1715z–1a; title 26 sections 6327, 7434.
+This section is referred to in sections 523, 524 of this title; title 12 section 1715z–1a; title 26 sections 6327, 7437.
 

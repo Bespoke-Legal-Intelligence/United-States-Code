@@ -72,7 +72,7 @@ With respect to any undercover or other enforcement operation which is necessary
 
 &emsp;(3) use appropriations to establish or acquire proprietary corporations or business entities as part of an undercover operation, operate such corporations or business entities on a commercial basis, lease space and make other necessary expenditures, and use the proceeds from such undercover operations to offset necessary and reasonable expenses incurred in such operations: <i>Provided</i>, That at the conclusion of each such operation the proceeds shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
-(Pub. L. 95–616, §3 (less (e)–(j)), Nov. 8, 1978, 92 Stat. 3110; Pub. L. 97–396, §7, Dec. 31, 1982, 96Stat. 2006; Pub. L. 105–328, §3, Oct. 30, 1998, 112 Stat. 3058.)
+(Pub. L. 95–616, §3 (less (e)–(j)), Nov. 8, 1978, 92 Stat. 3110; Pub. L. 97–396, §7, Dec. 31, 1982, 96 Stat. 2006; Pub. L. 105–328, §3, Oct. 30, 1998, 112 Stat. 3058.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Each health care provider who administers a vaccine set forth in the Vaccine Injury Table toany person shall record, or ensure that there is recorded, in such person's permanent medical record (or in a permanent office log or file to which a legal representative shall have access upon request) with respect to each such vaccine—
+Each health care provider who administers a vaccine set forth in the Vaccine Injury Table to any person shall record, or ensure that there is recorded, in such person's permanent medical record (or in a permanent office log or file to which a legal representative shall have access upon request) with respect to each such vaccine—
 
 &emsp;(1) the date of administration of the vaccine,
 
@@ -16,7 +16,7 @@ Each health care provider who administers a vaccine set forth in the Vaccine Inj
 
 (1) Each health care provider and vaccine manufacturer shall report to the Secretary—
 
-&emsp;(A) the occurrence of any event set forth in the Vaccine Injury Table, including the events set forth in section 300aa–14(b) of this title which occur within 7 days of the administration of any vaccine set forth in the Table or within such longer period as is specified in the Table or section,
+&emsp;(A) the occurrence of any event set forth in the Vaccine Injury Table, including the events set forth in section 300aa–14(b) of this titlewhich occur within 7 days of the administration of any vaccine set forth in the Table or within such longer period as is specified in the Table or section,
 
 &emsp;(B) the occurrence of any contraindicating reaction to a vaccine which is specified in the manufacturer's package insert, and
 

@@ -16,15 +16,17 @@
 
 &emsp;(1) the Secretary, after consultation with the Secretary of State, determines that the designation of such country for such purpose is in the interest of the national security of the United States; and
 
-&emsp;(2) in the case of a country which is not a member of the North Atlantic Treaty Organization, the Secretary submits to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives notice of the intended designation at least 30 days before the date on which such country is designated by the Secretary under subsection (a).
+&emsp;(2) in the case of a country which is not a member of the North Atlantic Treaty Organization, the Secretary submits to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on International Relations of the House of Representatives notice of the intended designation at least 30 days before the date on which such country is designated by the Secretary under subsection (a).
 
 (c) The Secretary of Defense may not use the authority of this subchapter to procure from any foreign government or international organization any goods or services reasonably available from United States commercial sources.
 
 (d) The Secretary shall prescribe regulations to ensure that contracts entered into under this subchapter are free from self-dealing, bribery, and conflict of interests.
 
-(Added Pub. L. 96–323, §2(a), Aug. 4, 1980, 94 Stat. 1016, §2322; renumbered §2342 and amended Pub. L. 99–145, title XIII, §1304(a)(1), (4), Nov. 8, 1985, 99 Stat. 741; Pub. L. 99–661, div. A, title XI, §1104(a), Nov. 14, 1986, 100 Stat. 3963; Pub. L. 100–180, div. A, title XII, §1231(9), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 101–189, div. A, title IX, §931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 101–510, div. A, title XIV, §1451(a), Nov. 5, 1990, 104 Stat. 1692; Pub. L. 103–337, div. A, title XIII, §1317(b), Oct. 5, 1994, 108 Stat. 2900; Pub. L. 104–106, div. A, title XV, §1502(a)(16), Feb. 10, 1996, 110 Stat. 504.)
+(Added Pub. L. 96–323, §2(a), Aug. 4, 1980, 94 Stat. 1016, §2322; renumbered §2342 and amended Pub. L. 99–145, title XIII, §1304(a)(1), (4), Nov. 8, 1985, 99 Stat. 741; Pub. L. 99–661, div. A, title XI, §1104(a), Nov. 14, 1986, 100 Stat. 3963; Pub. L. 100–180, div. A, title XII, §1231(9), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 101–189, div. A, title IX, §931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 101–510, div. A, title XIV, §1451(a), Nov. 5, 1990, 104 Stat. 1692; Pub. L. 103–337, div. A, title XIII, §1317(b), Oct. 5, 1994, 108 Stat. 2900; Pub. L. 104–106, div. A, title XV, §1502(a)(16), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Amendments
+
+1999—Subsec. (b)(2). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 1996—Subsec. (b). Pub. L. 104–106 inserted “unless” after “section” in introductory provisions, struck out “unless” after “(1)” in par. (1), and substituted “the Secretary submits to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives notice of the intended designation” for “notifies the Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs of the House of Representatives” in par. (2).
 
@@ -43,10 +45,6 @@ Subsec. (c). Pub. L. 103–337, §1317(b)(3), substituted “or international or
 1986—Pub. L. 99–661 amended section generally, restating existing provisions in introductory text and par. (1) of subsec. (a), adding pars. (2) and (3) of subsec. (a), and adding subsecs. (b) to (d).
 
 1985—Pub. L. 99–145 renumbered section 2322 of this title as this section and substituted “section 2343” for “section 2323”.
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1994 Amendment
 

@@ -16,7 +16,7 @@
 
 #### (2) Assessment; etc.
 
-&emsp;Any penalty imposed under paragraph (1) may be assessed and collected by the Board in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
+&emsp;Any penalty imposed under paragraph (1) may be assessed and collected by the Board in the manner provided in subparagraphs (E), (F),\(G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
 
 #### (3) Hearing
 
@@ -84,7 +84,7 @@ The resignation, termination of employment or participation, or separation of an
 
 Subsec. (b). Pub. L. 101–73, §907(j)(2), added headings and amended text generally. Prior to amendment, subsec. (b) read as follows:
 
-“(1) Any company which violates or any individual who participates in a violation of any provision of this chapter, or any regulation or order issued pursuant thereto, shall forfeit and pay a civil penalty of not more than $1,000 per day for each day during which such violation continues: <i>Provided</i>, That the Board may, in its discretion, compromise, modify, or remit any civil money penalty which is subject to imposition or has been imposed under authority of this subsection. The penalty may be assessed and collected by the Board by written notice. As used in the section, the term ‘violates’ includes without any limitation any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
+“(1) Any company which violates or any individual who participates in a violation of any provision of this chapter, or any regulation or order issued pursuant thereto, shall forfeit and pay a civil penalty of notmore than $1,000 per day for each day during which such violation continues: <i>Provided</i>, That the Board may, in its discretion, compromise, modify, or remit any civil money penalty which is subject to imposition or has been imposed under authority of this subsection. The penalty may be assessed and collected by the Board by written notice. As used in the section, the term ‘violates’ includes without any limitation any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
 
 “(2) In determining the amount of the penalty the Board shall take into account the appropriateness of the penalty with respect to the size of financial resources and good faith of the company or person charged, the gravity of the violation, the history of previous violations, and such other matters as justice may require.
 

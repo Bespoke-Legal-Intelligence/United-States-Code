@@ -46,7 +46,7 @@ The Secretary may include in the wetland reserve established under this subpart,
 
 &emsp;(1) farmed wetland and adjoining lands, enrolled in the conservation reserve, with the highest wetland functions and values, and that are likely to return to production after they leave the conservation reserve;
 
-&emsp;(2) other wetland of an owner that would not otherwise be eligible if the Secretary determines that the inclusion of such wetland insuch easement would significantly add to the functional value of the easement; or
+&emsp;(2) other wetland of an owner that would not otherwise be eligible if the Secretary determines that the inclusion of such wetland in such easement would significantly add to the functional value of the easement; or
 
 &emsp;(3) riparian areas that link wetlands that are protected by easements or some other device or circumstance that achieves the same purpose as an easement.
 

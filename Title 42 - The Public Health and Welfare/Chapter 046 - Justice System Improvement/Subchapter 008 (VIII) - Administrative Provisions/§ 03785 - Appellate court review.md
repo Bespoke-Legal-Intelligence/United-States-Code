@@ -10,7 +10,7 @@ The court shall have jurisdiction to affirm or modify a final action or to set i
 
 #### (c) Determination by court of appeals; Supreme Court review
 
-Upon the filing of such petition, the court shall have jurisdiction to affirm the action of the Office of Justice Programs, Bureau of Justice Assistance, the Bureau of Justice Statistics, the Office of Juvenile Justice and Delinquency Prevention, or the National Institute of Justice, or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon writ of certiorari or certifications as provided in section 1254 of title 28.
+Upon the filing of such petition, the court shall have jurisdiction to affirm the action of the Office of Justice Programs, Bureau of Justice Assistance, the Bureau of Justice Statistics, the Office of Juvenile Justice and Delinquency Prevention, or the National Institute ofJustice, or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon writ of certiorari or certifications as provided in section 1254 of title 28.
 
 (Pub. L. 90–351, title I, §804, formerly §805, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1203; renumbered §804 and amended Pub. L. 98–473, title II, §609B(d), (f), Oct. 12, 1984, 98 Stat. 2093; Pub. L. 103–322, title XXXIII, §330001(h)(9), Sept. 13, 1994, 108 Stat. 2139.)
 

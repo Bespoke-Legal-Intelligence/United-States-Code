@@ -32,13 +32,13 @@ If the Secretary makes a written request to the holder of an approved applicatio
 
 &emsp;(ii) the period referred to in clauses (iii) and (iv) of subsection (c)(3)(D) of such section, and in clauses (iii) and (iv) of subsection (j)(4)(D) of such section, is deemed to be three years and six months rather than three years; and
 
-&emsp;(B) if the drug is designated under section 360bb of this title for a rare disease or condition, the period referred to in section 360cc(a) of this title is deemed to be seven years and six months rather than seven years; and
+&emsp;(B) if the drug is designated under section 360bb of this title for a rare disease or condition, the period referred to in section 360cc(a)of this title is deemed to be seven years and six months rather than seven years; and
 
 &emsp;(2)(A) if the drug is the subject of—
 
 &emsp;&emsp;(i) a listed patent for which a certification has been submitted under subsection (b)(2)(A)(ii) or (j)(2)(A)(vii)(II) of section 355 of this title and for which pediatric studies were submitted prior to the expiration of the patent (including any patent extensions); or
 
-&emsp;&emsp;(ii) a listed patent for which a certification has been submitted under subsection\(b)(2)(A)(iii) or (j)(2)(A)(vii)(III) of section 355 of this title,
+&emsp;&emsp;(ii) a listed patent for which a certification has been submitted under subsection (b)(2)(A)(iii) or (j)(2)(A)(vii)(III) of section 355 of this title,
 
 > &emsp;the period during which an application may not be approved under section 355(c)(3) of this title or section 355(j)(4)(B) of this title shall be extended by a period of six months after the date the patent expires (including any patent extensions); or
 
@@ -92,7 +92,7 @@ Notwithstanding any other provision of law, if any pediatric study is required p
 
 #### (j) Sunset
 
-A drug may not receive any six-month period under subsection (a) or (c) of this section unlessthe application for the drug under section 355(b)(1) of this title is submitted on or before January 1, 2002. After January 1, 2002, a drug shall receive a six-month period under subsection (c) of this section if—
+A drug may not receive any six-month period under subsection (a) or (c) of this section unless the application for the drug under section 355(b)(1) of this title is submitted on or before January 1, 2002. After January 1, 2002, a drug shall receive a six-month period under subsection (c) of this section if—
 
 &emsp;(1) the drug was in commercial distribution as of November 21, 1997;
 

@@ -50,7 +50,7 @@ A cable operator of a cable system with a capacity of more than 36 usable activa
 
 #### (f) Waiver of nonduplication rights
 
-A qualified local noncommercial educational television station whose signal is carried by a cable operator shall not assert any network nonduplication rights it may have pursuant to section 76.92 of title 47, Code of Federal Regulations, to require the deletion of programs aired on other qualified local noncommercial educational television stations whose signals are carried by that cable operator.
+A qualified local noncommercial educational television station whose signal is carried by a cable operator shall not assert any network nonduplication rights it may have pursuant to section 76.92 of title 47, Code of Federal Regulations, to require the deletion of programs airedon other qualified local noncommercial educational television stations whose signals are carried by that cable operator.
 
 #### (g) Conditions of carriage
 
@@ -68,7 +68,7 @@ A qualified local noncommercial educational television station whose signal is c
 
 #### (4) Good quality signal required
 
-&emsp;Notwithstanding the other provisions of this section, a cable operator shall not be requiredto carry the signal of any qualified local noncommercial educational television station which does not deliver to the cable system's principal headend a signal of good quality or a baseband video signal, as may be defined by the Commission.
+&emsp;Notwithstanding the other provisions of this section, a cable operator shall not be required to carry the signal of any qualified local noncommercial educational television station which does not deliver to the cable system's principal headend a signal of good quality or a baseband video signal, as may be defined by the Commission.
 
 #### (5) Channel positioning
 
@@ -100,7 +100,7 @@ Signals carried in fulfillment of the carriage obligations of a cable operator u
 
 #### (3) Remedial actions; dismissal
 
-&emsp;Within 120 days after the date a complaint is filed under this subsection, the Commission shall determine whether the cable operator has complied with the requirements of this section. If the Commission determines that the cable operator has failed to comply with such requirements, the Commission shall state with particularity the basis for such findings and order the cable operator to take such remedial action as is necessary to meet such requirements. If the Commission determines that the cable operator has fully complied with such requirements, the Commission shall dismiss the complaint.
+&emsp;Within 120 days after the date a complaint is filed under this subsection, the Commission shall determine whether the cable operator has complied with the requirements of this section. If the Commission determines that the cable operator has failed to comply with such requirements, the Commission shall state with particularity the basis for such findings and order the cable operator to take such remedial action as is necessary to meet such requirements. If the Commission determinesthat the cable operator has fully complied with such requirements, the Commission shall dismiss the complaint.
 
 #### (k) Identification of signals
 
@@ -126,7 +126,7 @@ For purposes of this section—
 
 &emsp;The term “qualified local noncommercial educational television station” means a qualified noncommercial educational television station—
 
-&emsp;&emsp;(A) which is licensed to a principal community whose reference point, as defined insection 76.53 of title 47, Code of Federal Regulations (as in effect on March 29, 1990), or any successor regulations thereto, is within 50 miles of the principal headend of the cable system; or
+&emsp;&emsp;(A) which is licensed to a principal community whose reference point, as defined in section 76.53 of title 47, Code of Federal Regulations (as in effect on March 29, 1990), or any successor regulations thereto, is within 50 miles of the principal headend of the cable system; or
 
 &emsp;&emsp;(B) whose Grade B service contour, as defined in section 73.683(a) of such title (as in effect on March 29, 1990), or any successor regulations thereto, encompasses the principal headend of the cable system.
 
@@ -138,5 +138,5 @@ Section effective 60 days after Oct. 5, 1992, see section 28 of Pub. L. 102–38
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 325, 336, 532, 534, 543, 555, 573 of this title.
+This section is referred to in sections 325, 336, 338, 532, 534, 543, 555, 573 of this title.
 

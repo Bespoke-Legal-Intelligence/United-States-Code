@@ -48,7 +48,7 @@ Digital musical recording.—A complaining party may recover an award of statuto
 
 &emsp;&emsp;&emsp;(iii)
 
-Transmission.—A complaining party may recover an award of damagesfor each transmission or communication that violates section 1002(e) in the sum of not more than $10,000, as the court considers just.
+Transmission.—A complaining party may recover an award of damages for each transmission or communication that violates section 1002(e) in the sum of not more than $10,000, as the court considers just.
 
 &emsp;(2)
 

@@ -8,7 +8,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (1) Recipients
 
-&emsp;For the purposes described in subsection (a) of this section, the Secretary is authorized,without regard to section 5 of title 41, to make grants to, and contracts with, institutions of higher education, public and private agencies and organizations, combinations of such institutions, agencies and organizations, and in exceptional circumstances, secondary schools, for planning, developing, or carrying out one or more of the services assisted under this division.
+&emsp;For the purposes described in subsection (a) of this section, the Secretary is authorized, without regard to section 5 of title 41, to make grants to, and contracts with, institutions of higher education, public and private agencies and organizations, combinations of such institutions, agencies and organizations, and in exceptional circumstances, secondary schools, for planning, developing, or carrying out one or more of the services assisted under this division.
 
 #### (2) Duration
 
@@ -58,7 +58,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (6) Coordination with other programs for disadvantaged students
 
-&emsp;The Secretary shall encourage coordination of programs assisted under this division with other programs for disadvantaged students operated by the sponsoring institution or agency, regardless of the funding source of such programs. The Secretary shall not limit an entity's eligibility to receive funds under this division because such entity sponsors a program similar to the program to be assisted under this division, regardless of the funding source of such program. The Secretary shall permit the Director of a program receiving funds under this division to administer one or more additional programs for disadvantaged students operated by the sponsoring institution or agency, regardless of the funding sources of such programs.
+&emsp;The Secretary shall encourage coordination of programs assisted under this division with other programs for disadvantaged students operated by the sponsoring institution or agency, regardless of the funding source of such programs. The Secretary shall not limit an entity's eligibility to receive funds under this division because such entity sponsors a program similar to the program to be assisted under this division, regardless of the funding sourceof such program. The Secretary shall permit the Director of a program receiving funds under this division to administer one or more additional programs for disadvantaged students operated by the sponsoring institution or agency, regardless of the funding sources of such programs.
 
 #### (7) Application status
 
@@ -140,7 +140,7 @@ For the purpose of this division:
 
 #### References in Text
 
-The Higher Education Amendments of 1992, referred to in subsec. (f), is Pub. L. 102–325, July 23, 1992, 106Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1001 of this title and Tables.
+The Higher Education Amendments of 1992, referred to in subsec. (f), is Pub. L. 102–325, July 23, 1992, 106 Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1001 of this title and Tables.
 
 #### References to Subpart 2, 3, or 4 of This Part Deemed To Refer to Subpart 3, 4, or 2 of This Part
 
@@ -204,7 +204,7 @@ Requirements for Approval of Applications.—In approving applications for grant
 
 &emsp;“(2) require an assurance that any funds received under this section, other than funds used in accordance with subsection (d), shall be used only to pay advanced placement test fees;
 
-&emsp;“(3) contain such information as the Secretary may require to demonstrate that the State will ensure that a student is eligible for payments under this section, including the documentation required by chapter 1 of subpart 2 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070a–11 et seq.); and
+&emsp;“(3) contain such information as the Secretary may require to demonstrate that the State will ensurethat a student is eligible for payments under this section, including the documentation required by chapter 1 of subpart 2 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070a–11 et seq.); and
 
 &emsp;“(4) consider the number of children eligible to be counted under section 1124(c) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6333(c)\] in the State in relation to the number of such children in all the States in determining grant award amounts.
 

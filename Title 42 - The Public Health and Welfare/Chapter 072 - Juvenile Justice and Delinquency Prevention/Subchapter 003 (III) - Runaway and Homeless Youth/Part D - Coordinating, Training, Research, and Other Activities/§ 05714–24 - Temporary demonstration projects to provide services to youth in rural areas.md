@@ -1,6 +1,6 @@
 ### §5714–24. Temporary demonstration projects to provide services to youth in rural areas
 
-(a)(1) With funds appropriated under section 5751(c) of this title, the Secretary may make grants on a competitive basis to States, localities, and private entities (and combinations of such entities) to provide services (including transportation) authorized to be provided under part A of this subchapter, to runaway and homeless youth in rural areas.
+(a)(1) The Secretary may make grants on a competitive basis to States, localities, and private entities (and combinations of such entities) to provide services (including transportation) authorized to be provided under part A of this subchapter, to runaway and homeless youth in rural areas.
 
 (2)(A) Each grant made under paragraph (1) may not exceed $100,000.
 
@@ -30,9 +30,9 @@
 
 &emsp;&emsp;&emsp;(iv) such other information as the Secretary may require.
 
-(Pub. L. 93–415, title III, §344, as added Pub. L. 102–586, §3(g)(1)(C), Nov. 4, 1992, 106 Stat. 5024.)
+(Pub. L. 93–415, title III, §344, as added Pub. L. 102–586, §3(g)(1)(C), Nov. 4, 1992, 106 Stat. 5024; amended Pub. L. 106–71, §3(r)(2), Oct. 12, 1999, 113 Stat. 1043.)
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in section 5751 of this title.
+1999—Subsec. (a)(1). Pub. L. 106–71 substituted “The Secretary” for “With funds appropriated under section 5751(c) of this title, the Secretary”.
 

@@ -166,7 +166,7 @@ chlorofluorocarbon-13 (CFC–13)
 
 chlorofluorocarbon-111 (CFC–111)
 
-&nbsp;1.0 
+&nbsp;1.0&nbsp;
 
 chlorofluorocarbon-112 (CFC–112)
 
@@ -226,7 +226,7 @@ halon-2402
 
 carbon tetrachloride
 
-&nbsp;1.1&nbsp;
+&nbsp;1.1 
 
 methyl chloroform
 

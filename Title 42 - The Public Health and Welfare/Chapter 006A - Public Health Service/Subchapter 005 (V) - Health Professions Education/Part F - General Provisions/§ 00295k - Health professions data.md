@@ -18,7 +18,7 @@ The Secretary shall establish a program, including a uniform health professions 
 
 &emsp;The Secretary is authorized to make grants and to enter into contracts with States (or an appropriate nonprofit private entity in any State) for the purpose of participating in the program established under subsection (a) of this section. The Secretary shall determine the amount and scope of any such grant or contract. To be eligible for a grant or contract under this paragraph a State or entity shall submit an application in such form and manner and containing such information as the Secretary shall require. Such application shall include reasonable assurance, satisfactory to the Secretary, that—
 
-&emsp;&emsp;(A) such State (or nonprofit entity within a State) will establish a program of mandatory annual registration of the health professions personnel described in subsection (a)of this section who reside or practice in such State and of health institutions licensed by such State, which registration shall include such information as the Secretary shall determine to be appropriate;
+&emsp;&emsp;(A) such State (or nonprofit entity within a State) will establish a program of mandatory annual registration of the health professions personnel described in subsection (a) of this section who reside or practice in such State and of health institutions licensed by such State, which registration shall include such information as the Secretary shall determine to be appropriate;
 
 &emsp;&emsp;(B) such State or entity shall collect such information and report it to the Secretary in such form and manner as the Secretary shall prescribe; and
 
@@ -85,6 +85,18 @@ Another prior section 792 of act July 1, 1944, was classified to section 295h–
 #### Amendments
 
 1998—Subsec. (a). Pub. L. 105–392 inserted “professional counselors,” after “clinical psychologists,”.
+
+#### Study Regarding Shortages of Licensed Pharmacists
+
+Pub. L. 106–129, §5, Dec. 6, 1999, 113 Stat. 1675, provided that:
+
+“(a)
+
+In General.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’), acting through the appropriate agencies of the Public Health Service, shall conduct a study to determine whether and to what extent there is a shortage of licensed pharmacists. In carrying out the study, the Secretary shall seek the comments of appropriate public and private entities regarding any such shortage.
+
+“(b)
+
+Report to Congress.—Not later than 1 year after the date of the enactment of this Act \[Dec. 6, 1999\], the Secretary shall complete the study under subsection (a) and submit to the Congress a report that describes the findings made through the study and that contains a summary of the comments received by the Secretary pursuant to such subsection.”
 
 #### Advisory Council on Graduate Medical Education
 

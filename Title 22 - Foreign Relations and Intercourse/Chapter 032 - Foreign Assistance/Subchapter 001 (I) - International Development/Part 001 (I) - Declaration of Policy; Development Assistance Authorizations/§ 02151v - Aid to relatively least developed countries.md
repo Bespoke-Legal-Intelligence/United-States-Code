@@ -54,6 +54,10 @@ Section 112(a)(2) of Pub. L. 94–424 provided that: “The authority granted by
 
 Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as an Effective Date of 1978 Amendment note under section 2151 of this title.
 
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
 #### Presidential Authority During Fiscal Years 1990 and 1991
 
 Pub. L. 100–461, title V, §572, Oct. 1, 1988, 102 Stat. 2268–44, provided that during fiscal years 1990 and 1991, President could use authority of paragraphs (A) and (B) of subsection (c)(1) of this section with respect to such aggregate amounts of principal and interest payable during each of those fiscal years as President determined, or at any time after Sept. 30, 1989, President could, if he determined it was in national interest to do so, use authority of those paragraphs with respect to such aggregate amounts of outstanding principal and interest payable at any time after that date, and that such authority could be exercised with respect to specified countries, and be exercised notwithstanding subsection (c)(2) of this section.

@@ -10,7 +10,7 @@
 
 &emsp;(C) voluntary testing, counseling, and information and education programs with respect to genetic diseases and conditions, taking into account the essential equality of all human beings, born and unborn;
 
-&emsp;(D) the differences in the availability of health services as determined by the income or residence of the persons receiving the services;
+&emsp;(D) the differences in the availability of health services as determined by the incomeor residence of the persons receiving the services;
 
 &emsp;(E) current procedures and mechanisms designed (i) to safeguard the privacy of human subjects of behavioral and biomedical research, (ii) to ensure the confidentiality of individually identifiable patient records, and (iii) to ensure appropriate access of patients to information continued <sup>1</sup> in such records,<sup>2</sup> and
 

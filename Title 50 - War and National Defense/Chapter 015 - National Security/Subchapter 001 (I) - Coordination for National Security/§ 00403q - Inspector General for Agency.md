@@ -20,7 +20,7 @@ In order to—
 
 (2) The Inspector General shall report directly to and be under the general supervision of the Director.
 
-(3) The Director may prohibit the Inspector General from initiating, carrying out, or completing any audit, inspection, or investigation,or from issuing any subpoena, after the Inspector General has decided to initiate, carry out, or complete such audit, inspection, or investigation or to issue such subpoena, if the Director determines that such prohibition is necessary to protect vital national security interests of the United States.
+(3) The Director may prohibit the Inspector General from initiating, carrying out, or completing any audit, inspection, or investigation, or from issuing any subpoena, after the Inspector General has decided to initiate, carry out, or complete such audit, inspection, or investigation or to issue such subpoena, if the Director determines that such prohibition is necessary to protect vital national security interests of the United States.
 
 (4) If the Director exercises any power under paragraph (3), he shall submit an appropriately classified statement of the reasons for the exercise of such power within seven days to the intelligence committees. The Director shall advise the Inspector General at the time such report is submitted, and, to the extent consistent with the protection of intelligence sources and methods, provide the Inspector General with a copy of any such report. In such cases, the Inspector General may submit such comments to the intelligence committees that he considers appropriate.
 
@@ -122,7 +122,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 (D) In the case of contumacy or refusal to obey a subpoena issued under this paragraph, the subpoena shall be enforceable by order of any appropriate district court of the United States.
 
-(E) Not later than January 31 and July 31 of each year, the Inspector General shall submit to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives a report of the Inspector General's exercise of authority under this paragraph during the preceding six months.
+(E) Not later than January 31 and July 31 of each year, the Inspector General shall submit to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives areport of the Inspector General's exercise of authority under this paragraph during the preceding six months.
 
 (6) The Inspector General shall be provided with appropriate and adequate office space at central and field office locations, together with such equipment, office supplies, maintenance services, and communications facilities and services as may be necessary for the operation of such offices.
 

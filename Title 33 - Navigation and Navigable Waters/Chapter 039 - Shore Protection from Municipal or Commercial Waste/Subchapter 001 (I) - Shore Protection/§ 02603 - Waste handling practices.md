@@ -4,7 +4,7 @@
 
 #### (1) Loading
 
-&emsp;The owner or operator of the waste source shall take all reasonable steps to assure that all municipal or commercial waste is loaded onto a vessel in a manner that assures that waste deposited in coastal waters is minimized.
+&emsp;The owner or operator of the waste source shall take all reasonable steps to assure thatall municipal or commercial waste is loaded onto a vessel in a manner that assures that waste deposited in coastal waters is minimized.
 
 #### (2) Securing
 
@@ -12,7 +12,7 @@
 
 #### (3) Offloading
 
-&emsp;The owner or operator of the receiving facility shall take all reasonable steps to assurethat any municipal or commercial waste is offloaded from a vessel in a manner that assures that waste deposited into coastal waters is minimized.
+&emsp;The owner or operator of the receiving facility shall take all reasonable steps to assure that any municipal or commercial waste is offloaded from a vessel in a manner that assures that waste deposited into coastal waters is minimized.
 
 #### (4) Cleaning up
 

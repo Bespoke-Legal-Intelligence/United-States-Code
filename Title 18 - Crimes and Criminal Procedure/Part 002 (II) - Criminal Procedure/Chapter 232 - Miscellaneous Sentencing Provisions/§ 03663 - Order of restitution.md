@@ -78,7 +78,7 @@ The Controlled Substances Act, referred to in subsec. (c)(4), is title II of Pub
 
 Subsec. (a)(1)(A). Pub. L. 104–294, §601(r)(1), inserted at end “The court may also order, if agreed to by the parties in a plea agreement, restitution to persons other than the victim of the offense.”
 
-Subsec. (a)(2). Pub. L. 104–132, §205(a)(1)(F), as amended by Pub. L. 104–294, §605(<i>l</i>), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the purposes of restitution, a victim of an offense thatinvolves as an element a scheme, a conspiracy, or a pattern of criminal activity means any person directly harmed by the defendant's criminal conduct in the course of the scheme, conspiracy, or pattern.”
+Subsec. (a)(2). Pub. L. 104–132, §205(a)(1)(F), as amended by Pub. L. 104–294, §605(<i>l</i>), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the purposes of restitution, a victim of an offense that involves as an element a scheme, a conspiracy, or a pattern of criminal activity means any person directly harmed by the defendant's criminal conduct in the course of the scheme, conspiracy, or pattern.”
 
 Subsec. (c). Pub. L. 104–132, §205(a)(2), (3), added subsec. (c) and struck out former subsec. (c) which read as follows: “If the court decides to order restitution under this section, the court shall, if the victim is deceased, order that the restitution be made to the victim's estate.”
 

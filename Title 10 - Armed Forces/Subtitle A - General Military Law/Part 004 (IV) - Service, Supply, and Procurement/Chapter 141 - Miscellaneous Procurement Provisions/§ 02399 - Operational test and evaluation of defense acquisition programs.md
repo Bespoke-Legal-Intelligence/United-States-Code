@@ -20,7 +20,7 @@ Operational Test and Evaluation.—(1) Operational testing of a major defense ac
 
 &emsp;(B) whether the results of such test and evaluation confirm that the items or components actually tested are effective and suitable for combat.
 
-(3) The Director shall submit each report under paragraph (2) to the Secretary of Defense, the Under Secretary of Defense for Acquisition and Technology, and the congressional defense committees. Each such report shall be submitted to those committees in precisely the same form and with precisely the same content as the report originally was submitted to the Secretary and Under Secretary and shall be accompanied by such comments as the Secretary may wish to make on the report.
+(3) The Director shall submit each report under paragraph (2) to the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the congressional defense committees. Each such report shall be submitted to those committees in precisely the same form and with precisely the same content as the report originally was submitted to the Secretary and Under Secretary and shall be accompanied by such comments as the Secretary may wish to make on the report.
 
 (4) A final decision within the Department of Defense to proceed with a major defense acquisition program beyond low-rate initial production may not be made until the Director has submitted to the Secretary of Defense the report with respect to that program under paragraph (2) and the congressional defense committees have received that report.
 
@@ -36,7 +36,7 @@ Determination of Quantity of Articles Required for Operational Testing.—The qu
 
 (d)
 
-Impartiality of Contractor Testing Personnel.—In the case of a major defense acquisition program (as defined in subsection (a)(2)), no person employed by the contractor for the system being tested may be involved in the conduct of the operational test and evaluation required under subsection (a). The limitation in the preceding sentence does not apply to the extent that the Secretary of Defense plans for persons employed by that contractor to be involved in the operation, maintenance, and support of the system being tested when the system is deployed in combat.
+Impartiality of Contractor Testing Personnel.—In the case of a major defense acquisition program (as defined in subsection (a)(2)), noperson employed by the contractor for the system being tested may be involved in the conduct of the operational test and evaluation required under subsection (a). The limitation in the preceding sentence does not apply to the extent that the Secretary of Defense plans for persons employed by that contractor to be involved in the operation, maintenance, and support of the system being tested when the system is deployed in combat.
 
 (e)
 
@@ -72,15 +72,19 @@ Definitions.—In this section:
 
 &emsp;&emsp;(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 
-&emsp;&emsp;(B) the Committee on National Security and the Committee on Appropriations of the House of Representatives.
+&emsp;&emsp;(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
 
-(Added Pub. L. 101–189, div. A, title VIII, §802(a)(1), Nov. 29, 1989, 103 Stat. 1484; amended Pub. L. 102–484, div. A, title VIII, §819, Oct. 23, 1992, 106 Stat. 2458; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, §1070(a)(11), (f), Oct. 5, 1994, 108 Stat. 2856, 2859; Pub. L. 104–106, div. A, title XV, §1502(a)(19), Feb. 10, 1996, 110 Stat. 504.)
+(Added Pub. L. 101–189, div. A, title VIII, §802(a)(1), Nov. 29, 1989, 103 Stat. 1484; amended Pub. L. 102–484, div. A, title VIII, §819, Oct. 23, 1992, 106 Stat. 2458; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, §1070(a)(11), (f), Oct. 5, 1994, 108 Stat. 2856, 2859; Pub. L. 104–106, div. A, title XV, §1502(a)(19), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 717, 774.)
 
 #### Prior Provisions
 
 A prior section 2399, added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1293, which related to limitation on availability of appropriations to reimburse a contractor for the cost of commercial insurance, was repealed by Pub. L. 100–370, §1(f)(2)(B), July 19, 1988, 102 Stat. 846, and was restated in section 2324(e)(1)(L) of this title by section 1(f)(2)(A) of Pub. L. 100–370.
 
 #### Amendments
+
+1999—Subsec. (b)(3). Pub. L. 106–65, §911(a)(1), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+
+Subsec. (h)(2)(B). Pub. L. 106–65, §1067(1), substituted “Committee on Armed Services” for “Committee on National Security”.
 
 1996—Subsec. (h)(2). Pub. L. 104–106 substituted “means—” and subpars. (A) and (B) for “means the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives.”
 
@@ -95,10 +99,6 @@ Subsec. (h)(1). Pub. L. 103–337, §1070(a)(11)(C), substituted “139(a)(2)(A)
 1993—Subsec. (b)(3). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
 1992—Subsec. (e)(3). Pub. L. 102–484 designated existing provisions as subpar. (A) and added subpar. (B).
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Servicesof House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Assessment of Risk in Concurrent Development of Major Defense Acquisition Systems
 

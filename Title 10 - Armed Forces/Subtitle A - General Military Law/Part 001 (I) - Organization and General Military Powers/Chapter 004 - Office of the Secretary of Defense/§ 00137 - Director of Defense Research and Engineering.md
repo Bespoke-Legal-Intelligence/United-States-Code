@@ -2,9 +2,9 @@
 
 (a) There is a Director of Defense Research and Engineering, appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
-(b) Except as otherwise prescribed by the Secretary of Defense, the Director of Defense Research and Engineering shall perform such duties relating to research and engineering as the Under Secretary of Defense for Acquisition and Technology may prescribe.
+(b) Except as otherwise prescribed by the Secretary of Defense, the Director of Defense Research and Engineering shall perform such duties relating to research and engineering as the Under Secretary of Defense for Acquisition, Technology, and Logistics may prescribe.
 
-(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §135; amended Pub. L. 92–596, §4(2), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §2(a), Oct. 21, 1977, 91 Stat. 1172; Pub. L. 99–348, title V, §501(b)(1), (2), (e)(1), July 1, 1986, 100 Stat. 707, 708; Pub. L. 99–433, title I, §105, Oct. 1, 1986, 100 Stat. 997; Pub. L. 99–500, §101(c) \[title X, §903(b)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, §101(c) \[title X, §903(b)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–661, div. A, title IX, formerly title IV, §903(b)(1), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; renumbered §137 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(1), 904(d)(1), Nov. 30, 1993, 107 Stat. 1726, 1728; Pub. L. 104–106, div. A, title IX, §903(c)(3), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617.)
+(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §135; amended Pub. L. 92–596, §4(2), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §2(a), Oct. 21, 1977, 91 Stat. 1172; Pub. L. 99–348, title V, §501(b)(1), (2), (e)(1), July 1, 1986, 100 Stat. 707, 708; Pub. L. 99–433, title I, §105, Oct. 1, 1986, 100 Stat. 997; Pub. L. 99–500, §101(c) \[title X, §903(b)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, §101(c) \[title X, §903(b)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–661, div. A, title IX, formerly title IV, §903(b)(1), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; renumbered §137 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(1), 904(d)(1), Nov. 30, 1993, 107 Stat. 1726, 1728; Pub. L. 104–106, div. A, title IX, §903(c)(3), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719.)
 
 Historical and Revision Notes
 
@@ -42,6 +42,8 @@ Another prior section 137 was renumbered section 140 of this title.
 
 #### Amendments
 
+1999—Subsec. (b). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+
 1996—Pub. L. 104–106, §903(a), (c)(3), which directed repeal of this section eff. Jan. 31, 1997, was repealed by Pub. L. 104–201.
 
 1993—Pub. L. 103–160, §901(a)(1), renumbered section 135 of this title as this section.
@@ -54,7 +56,7 @@ Pub. L. 99–348, §501(e)(1), substituted “Under Secretary of Defense for Pol
 
 Subsec. (a). Pub. L. 99–433, §105(1), substituted a new subsec. (a) for former provisions establishing the positions of Under Secretary of Defense for Policy and Director of Defense for Research and Engineering to be appointed from civilian life by the President with the advice and consent of the Senate and prohibiting the appointment as Under Secretary of Defense for Policy of a person within ten years after relief from active duty as a commissioned officer of a regular component of an armed force. See section 134 of this title.
 
-Pub. L. 99–348, §501(b)(1), substituted “is an Under Secretary of Defense for Policy and a Director of Defense Research and Engineering” for “are two Under Secretaries of Defense, one of whom shall be the Under Secretary of Defense for Policy and one of whom shall be the Under Secretary of Defense for Research and Engineering” and “They shall” for “The Under Secretaries of Defense shall”.
+Pub. L. 99–348, §501(b)(1), substituted “is an Under Secretary of Defense for Policy and a Director of Defense Research and Engineering” for “are two Under Secretaries of Defense, one of whom shall be the UnderSecretary of Defense for Policy and one of whom shall be the Under Secretary of Defense for Research and Engineering” and “They shall” for “The Under Secretaries of Defense shall”.
 
 Subsec. (b). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended section identically adding subsec. (b) and striking out former subsec. (b) which read as follows: “The Director of Defense Research and Engineering shall perform such duties relating to research and engineering as the Secretary of Defense may prescribe, including—
 

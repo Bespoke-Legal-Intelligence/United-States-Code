@@ -2,13 +2,13 @@
 
 #### (a) Preparation for United States participation
 
-It is the sense of the Congress that, in order to continue to build the structure of peace in the Middle East, the United States should be prepared to participate, at an appropriate time, in trilateral cooperative projects of a scientific and technological nature involving Egypt, Israel, and the United States.
+It is the sense of the Congress that, in order to continue to build the structure of peace in theMiddle East, the United States should be prepared to participate, at an appropriate time, in trilateral cooperative projects of a scientific and technological nature involving Egypt, Israel, and the United States.
 
 #### (b) Plan development
 
 Therefore, the President shall develop a plan to guide the participation of both United States Government agencies and private institutions in such projects. This plan shall identify—
 
-&emsp;(1) potential projects in a variety of areas appropriate for scientific and technologicalcooperation by the three countries, including agriculture, health, energy, the environment, education, and water resources;
+&emsp;(1) potential projects in a variety of areas appropriate for scientific and technological cooperation by the three countries, including agriculture, health, energy, the environment, education, and water resources;
 
 &emsp;(2) the resources which are available or which would be needed to implement such projects; and
 

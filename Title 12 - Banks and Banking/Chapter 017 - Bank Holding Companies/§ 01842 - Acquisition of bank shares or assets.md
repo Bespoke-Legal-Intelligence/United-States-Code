@@ -34,7 +34,7 @@ It shall be unlawful, except with the prior approval of the Board, (1) for any a
 
 &emsp;The Board shall not approve—
 
-&emsp;&emsp;(A) any acquisition or merger or consolidation under this section which would result ina monopoly, or which would be in furtherance of any combination or conspiracy to monopolize or to attempt to monopolize the business of banking in any part of the United States, or
+&emsp;&emsp;(A) any acquisition or merger or consolidation under this section which would result in a monopoly, or which would be in furtherance of any combination or conspiracy to monopolize or to attempt to monopolize the business of banking in any part of the United States, or
 
 &emsp;&emsp;(B) any other proposed acquisition or merger or consolidation under this section whose effect in any section of the country may be substantially to lessen competition, or to tend to create a monopoly, or which in any other manner would be in restraint or <sup>4</sup> trade, unless it finds that the anticompetitive effects of the proposed transaction are clearly outweighed in the public interest by the probable effect of the transaction in meeting the convenience and needs of the community to be served.
 
@@ -90,7 +90,7 @@ It shall be unlawful, except with the prior approval of the Board, (1) for any a
 
 &emsp;&emsp;&emsp;(iii) the Federal Deposit Insurance Corporation has not determined that compliance with such State law would result in an unacceptable risk to the appropriate deposit insurance fund; and
 
-&emsp;&emsp;&emsp;(iv) the appropriate Federal banking agency for such bank has not found that compliance with such State law wouldplace the bank in an unsafe or unsound condition.
+&emsp;&emsp;&emsp;(iv) the appropriate Federal banking agency for such bank has not found that compliance with such State law would place the bank in an unsafe or unsound condition.
 
 #### (2) Concentration limits
 
@@ -152,43 +152,7 @@ It shall be unlawful, except with the prior approval of the Board, (1) for any a
 
 Every bank that is a holding company and every bank that is a subsidiary of such a company shall become and remain an insured depository institution as defined in section 1813 of this title.
 
-#### (f) Savings bank subsidiaries of bank holding companies
-
-#### (1) In general
-
-&emsp;Notwithstanding any other provision of this chapter (other than paragraphs (2) and (3)), any qualified savings bank which is a subsidiary of a bank holding company may engage, directly or through a subsidiary, in any activity in which such savings bank may engage (as a State chartered savings bank) pursuant to express, incidental, or implied powers under any statute or regulation, or under any judicial interpretation of any law, of the State in which such savings bank is located.
-
-#### (2) Insurance activities
-
-&emsp;Except as provided in paragraph (3), any insurance activities of any qualified savings bank which is a subsidiary of a bank holding company shall be limited to insurance activities allowed under section 1843(c)(8) of this title.
-
-#### (3) Savings bank life insurance
-
-&emsp;Any qualified savings bank permitted, as of March 5, 1987, to engage in the sale or underwriting of savings bank life insurance may sell or underwrite such insurance after such savings bank is a subsidiary of a bank holding company if—
-
-&emsp;&emsp;(A) the savings bank is located in the State of Connecticut, Massachusetts, or New York;
-
-&emsp;&emsp;(B) such activity is expressly authorized by the law of the State in which such savings bank is located;
-
-&emsp;&emsp;(C) the savings bank retains its character as a savings bank;
-
-&emsp;&emsp;(D) such activity is carried out by the savings bank directly and not by—
-
-&emsp;&emsp;&emsp;(i) any subsidiary or affiliate of the savings bank; or
-
-&emsp;&emsp;&emsp;(ii) the bank holding company which controls such savings bank;
-
-&emsp;&emsp;(E) such activity is carried out by the savings bank in accordance with any residency or employment limitations set forth in the savings bank life insurance statute in effect on March 5, 1987, in the State in which such bank is located; and
-
-&emsp;&emsp;(F) such activity is otherwise carried out in the same manner as savings bank life insurance activity is carried out in the State in which such bank is located by savings banks which are not subsidiaries of any bank holding company registered under this chapter.
-
-#### (4) Subsection shall cease to apply under certain circumstances
-
-&emsp;If any company which is not a savings bank or a savings bank holding company acquires control of a qualified savings bank, such savings bank shall cease to engage in any activity authorized under paragraph (1) or (3) before the end of the 2-year period beginning on the date such company acquires control, unless such activity is otherwise authorized pursuant to this chapter.
-
-#### (5) Special asset aggregation rule for purposes of paragraph (3)
-
-&emsp;For the sole purpose of determining whether a qualified savings bank may continue to sell and underwrite savings bank life insurance in accordance with this subsection after control of such savings bank is acquired by a bank holding company, the assets of any other bank affiliated with, or under contract to affiliate with, such savings bank as of March 5, 1987, shall be treated as assets of the savings bank in determining whether such bank holding company is a savings bank holding company.
+#### (f) \[Repealed\]
 
 #### (g) Mutual bank holding company
 
@@ -196,17 +160,21 @@ Every bank that is a holding company and every bank that is a subsidiary of such
 
 &emsp;Notwithstanding any provision of Federal law other than this chapter, a savings bank or cooperative bank operating in mutual form may reorganize so as to form a holding company.
 
-#### (2) Regulation
+#### (2) Regulations
 
-&emsp;A corporation organized as a holding company under this subsection shall be regulated on the same terms and be subject to the same limitations as any other holding company which controls a savings bank.
+&emsp;A bank holding company organized as a mutual holding company shall be regulated on terms, and shall be subject to limitations, comparable to those applicable to any other bank holding company.
 
-(May 9, 1956, ch. 240, §3, 70 Stat. 134; Pub. L. 89–485, §7, July 1, 1966, 80 Stat. 237; Pub. L. 91–607, title I, §102, Dec. 31, 1970, 84 Stat. 1763; Pub. L. 95–188, title III, §§301(a), 302, Nov. 16, 1977, 91 Stat. 1388, 1389; Pub. L. 96–221, title VII, §§712(b), (c), 713, Mar. 31, 1980, 94 Stat. 189, 190; Pub. L. 97–320, title I, §§118(c), 141(a)(4), title IV, §404(d)(2), Oct. 15, 1982, 96 Stat. 1479, 1489, 1512; Pub. L. 100–86, title I, §§101(d), 107(b), title V, §§502(h)(1), 509(a), Aug. 10, 1987, 101 Stat. 561, 579, 628, 635; Pub. L. 101–73, title VI, §602(b), Aug. 9, 1989, 103 Stat. 409; Pub. L. 102–242, title II, §§202(d), 210, Dec. 19, 1991, 105 Stat. 2290, 2298; Pub. L. 103–325, title III, §§319(a), 322(c)(1), Sept. 23, 1994, 108 Stat. 2224, 2227; Pub. L. 103–328, title I, §101(a), Sept. 29, 1994, 108 Stat. 2339.)
+(May 9, 1956, ch. 240, §3, 70 Stat. 134; Pub. L. 89–485, §7, July 1, 1966, 80 Stat. 237; Pub. L. 91–607, title I, §102, Dec. 31, 1970, 84 Stat. 1763; Pub. L. 95–188, title III, §§301(a), 302, Nov. 16, 1977, 91 Stat. 1388, 1389; Pub. L. 96–221, title VII, §§712(b), (c), 713, Mar. 31, 1980, 94 Stat. 189, 190; Pub. L. 97–320, title I, §§118(c), 141(a)(4), title IV, §404(d)(2), Oct. 15, 1982, 96 Stat. 1479, 1489, 1512; Pub. L. 100–86, title I, §§101(d), 107(b), title V, §§502(h)(1), 509(a), Aug. 10, 1987, 101 Stat. 561, 579, 628, 635; Pub. L. 101–73, title VI, §602(b), Aug. 9, 1989, 103 Stat. 409; Pub. L. 102–242, title II, §§202(d), 210, Dec. 19, 1991, 105 Stat. 2290, 2298; Pub. L. 103–325, title III, §§319(a), 322(c)(1), Sept. 23, 1994, 108 Stat. 2224, 2227; Pub. L. 103–328, title I, §101(a), Sept. 29, 1994, 108 Stat. 2339; Pub. L. 106–102, title I, §§105, 118, Nov. 12, 1999, 113 Stat. 1359, 1373.)
 
 #### References in Text
 
 Section 1823(f)(8)(D) of this title, referred to in subsec. (b)(2), which defined “bank in danger of closing”, was repealed by Pub. L. 101–73, title II, §217(5)(H), Aug. 9, 1989, 103 Stat. 257.
 
 #### Amendments
+
+1999—Subsec. (f). Pub. L. 106–102, §118, amended subsec. (f) generally, substituting “(f) \[Repealed\].” for provisions relating to authorized activities of qualified savings banks which are subsidiaries of bank holding companies.
+
+Subsec. (g)(2). Pub. L. 106–102, §105, amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “A corporation organized as a holding company under this subsection shall be regulated on the same terms and be subject to the same limitations as any other holding company which controls a savings bank.”
 
 1994—Subsec. (a). Pub. L. 103–325, §319(a), substituted “(B)” for “or (B)” and added subpar. (C).
 
@@ -254,6 +222,10 @@ Subsec. (c). Pub. L. 89–485, §7(c), inserted provision prohibiting any acquis
 
 Subsec. (d). Pub. L. 89–485, §7(d), substituted provisions restricting expansion to state in which the operations of the bank holding company's banking subsidiaries were principally conducted, defined, as that state in which total deposits of all such banking subsidiaries were largest, on July 1, 1966, or the date on which the company became a bank holding company, whichever is later, for provisions restricting expansion to state in which the holding company maintains its principal office and place of business or in which it conducts its principal operations.
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as a note under section 24 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–328 effective at end of 1-year period beginning on Sept. 29, 1994, see section 101(e) of Pub. L. 103–328, set out as a note under section 1828 of this title.
@@ -272,7 +244,7 @@ Section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 619, 1815, 1817, 1823, 1843, 1849, 1850, 2902, 3103, 3105 of this title; title 15 sections 18a, 77c.
+This section is referred to in sections 619, 1815, 1817, 1823, 1828b, 1843, 1844, 1849, 1850, 2902, 3105 of this title; title 15 sections 18a, 77c.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

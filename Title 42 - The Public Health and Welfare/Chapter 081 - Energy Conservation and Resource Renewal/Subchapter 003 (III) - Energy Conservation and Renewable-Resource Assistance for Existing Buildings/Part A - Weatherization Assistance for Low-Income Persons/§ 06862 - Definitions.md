@@ -60,7 +60,7 @@ The Low-Income Home Energy Assistance Act of 1981, referred to in par. (7), is t
 
 #### Amendments
 
-1998—Par. (5)(A). Pub. L. 105–220 substituted “an individual with a disability, as defined in section 705 of title 29” for “a handicapped individual as defined in section 7(7) of the Rehabilitation Act of 1973”.
+1998—Par. (5)(A). Pub. L. 105–220 substituted “an individual with a disability, as defined in section 705 oftitle 29” for “a handicapped individual as defined in section 7(7) of the Rehabilitation Act of 1973”.
 
 1992—Par. (9)(G) to (J). Pub. L. 102–486 realigned margin of subpar. (G), added subpars. (H) and (I), and redesignated former subpar. (H) as (J).
 

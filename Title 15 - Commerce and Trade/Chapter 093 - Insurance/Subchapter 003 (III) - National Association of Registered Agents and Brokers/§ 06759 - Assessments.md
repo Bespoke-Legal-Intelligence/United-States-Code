@@ -1,0 +1,16 @@
+### §6759. Assessments
+
+#### (a) Insurance producers subject to assessment
+
+The Association may establish such application and membership fees as the Association finds necessary to cover the costs of its operations, including fees made reimbursable to the NAIC under subsection (b) of this section, except that, in setting such fees, the Association may not discriminate against smaller insurance producers.
+
+#### (b) NAIC assessments
+
+The NAIC may assess the Association for any costs that the NAIC incurs under this subchapter.
+
+(Pub. L. 106–102, title III, §329, Nov. 12, 1999, 113 Stat. 1430.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6762 of this title.
+

@@ -10,7 +10,7 @@
 
 &emsp;(2) A living quarters allowance for rent, heat, light, fuel, gas, electricity, and water, without regard to section 3324(a) and (b) of title 31.
 
-&emsp;(3) Under unusual circumstances, payment or reimbursement for extraordinary, necessary, and reasonable expenses, not otherwise compensated for, incurred in initial repairs, alterations, and improvements to the privately leased residence of an employee at a post of assignment in a foreign area, if—
+&emsp;(3) Under unusual circumstances, payment or reimbursement for extraordinary, necessary, and reasonable expenses, not otherwise compensated for, incurred in initial repairs,alterations, and improvements to the privately leased residence of an employee at a post of assignment in a foreign area, if—
 
 &emsp;&emsp;(A) the expenses are administratively approved in advance; and
 

@@ -10,7 +10,7 @@ For purposes of this section:
 
 &emsp;(3) The term “stationary source” means any building, structure, facility, or installation which emits or may emit any air pollutant. Nothing in subchapter II of this chapter relating to nonroad engines shall be construed to apply to stationary internal combustion engines.
 
-&emsp;(4) The term “modification” means any physical change in, or change in the method of operation of, a stationary source which increases the amount of any air pollutant emitted by such source or which results in the emission of any air pollutant not previously emitted.
+&emsp;(4) The term “modification” means any physical change in, or change in the method ofoperation of, a stationary source which increases the amount of any air pollutant emitted by such source or which results in the emission of any air pollutant not previously emitted.
 
 &emsp;(5) The term “owner or operator” means any person who owns, leases, operates, controls, or supervises a stationary source.
 
@@ -84,7 +84,7 @@ After the effective date of standards of performance promulgated under this sect
 
 #### (g) Revision of regulations
 
-(1) Upon application by the Governor of a State showing that the Administrator has failedto specify in regulations under subsection (f)(1) of this section any category of major stationary sources required to be specified under such regulations, the Administrator shall revise such regulations to specify any such category.
+(1) Upon application by the Governor of a State showing that the Administrator has failed to specify in regulations under subsection (f)(1) of this section any category of major stationary sources required to be specified under such regulations, the Administrator shall revise such regulations to specify any such category.
 
 (2) Upon application of the Governor of a State, showing that any category of stationary sources which is not included in the list under subsection (b)(1)(A) of this section contributes significantly to air pollution which may reasonably be anticipated to endanger public health or welfare (notwithstanding that such category is not a category of major stationary sources), the Administrator shall revise such regulations to specify such category of stationary sources.
 
@@ -128,7 +128,7 @@ Any regulations promulgated by the Administrator under this section applicable t
 
 &emsp;(i) the proposed system or systems have not been adequately demonstrated,
 
-&emsp;(ii) the proposed system or systems will operate effectively and there is a substantiallikelihood that such system or systems will achieve greater continuous emission reduction than that required to be achieved under the standards of performance which would otherwise apply, or achieve at least an equivalent reduction at lower cost in terms of energy, economic, or nonair quality environmental impact,
+&emsp;(ii) the proposed system or systems will operate effectively and there is a substantial likelihood that such system or systems will achieve greater continuous emission reduction than that required to be achieved under the standards of performance which would otherwise apply, or achieve at least an equivalent reduction at lower cost in terms of energy, economic, or nonair quality environmental impact,
 
 &emsp;(iii) the owner or operator of the proposed source has demonstrated to the satisfaction of the Administrator that the proposed system will not cause or contribute to an unreasonable risk to public health, welfare, or safety in its operation, function, or malfunction, and
 
@@ -178,7 +178,7 @@ Any regulations promulgated by the Administrator under this section applicable t
 
 Such Act, referred to in subsec. (a)(8), means Pub. L. 93–319, June 22, 1974, 88 Stat. 246, as amended, known as the Energy Supply and Environmental Coordination Act of 1974, which is classified principally to chapter 16C (§791 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 791 of Title 15 and Tables.
 
-Section 7413 of this title, referred to in subsec. (a)(8), was amended generally by Pub. L. 101–549, title VII,§701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, subsec. (d) of section 7413 no longer relates to final compliance orders.
+Section 7413 of this title, referred to in subsec. (a)(8), was amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, subsec. (d) of section 7413 no longer relates to final compliance orders.
 
 Subsection (a)(1) of this section, referred to in subsec. (b)(6), was amended generally by Pub. L. 101–549, title VII, §403(a), Nov. 15, 1990, 104 Stat. 2631, and, as so amended, no longer contains subpars.
 
@@ -246,7 +246,7 @@ Pub. L. 95–95, §109(e), added subsec. (k).
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d)of Pub. L. 95–95, set out as a note under section 7401 of this title.
+Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
 #### Regulations
 

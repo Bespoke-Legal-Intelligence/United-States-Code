@@ -82,7 +82,7 @@ For purposes of this section—
 
 &emsp;(2) the term “Council” means the United States Alternative Fuels Council established under subsection (e)(1) of this section.
 
-(Pub. L. 94–163, title III, §400DD, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2445;amended Pub. L. 102–486, title IV, §402(2), (3), Oct. 24, 1992, 106 Stat. 2876.)
+(Pub. L. 94–163, title III, §400DD, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2445; amended Pub. L. 102–486, title IV, §402(2), (3), Oct. 24, 1992, 106 Stat. 2876.)
 
 #### References in Text
 
@@ -90,7 +90,7 @@ The Federal Advisory Committee Act, referred to in subsec. (e)(1), is Pub. L. 92
 
 #### Amendments
 
-1992—Subsec. (d). Pub. L. 102–486 substituted “alternative fuels” for “alternative motor fuels” in pars. (1), (3), and (4) and “alternative fuels” for “alcohols, natural gas, and other potential alternative motor fuels” in par. (2).
+1992—Subsec. (d). Pub. L. 102–486 substituted “alternative fuels” for “alternative motor fuels” in pars. (1),\(3), and (4) and “alternative fuels” for “alcohols, natural gas, and other potential alternative motor fuels” in par. (2).
 
 Subsec. (e). Pub. L. 102–486, §402(3), substituted “alternative fuels” for “alternative motor fuels” in par. (1) and in two places in par. (2)(E).
 

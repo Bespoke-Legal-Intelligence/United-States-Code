@@ -18,7 +18,7 @@ A person shall not sell, import, or export, or attempt to sell, import, or expor
 
 #### (B) Manner of assessment and collection
 
-&emsp;&emsp;A civil penalty under this paragraph shall be assessed, and may be collected, in the manner in which a civil penalty under the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\] may be assessed and collected under section 11(a) of that Act (16 U.S.C. 1540(a)).
+&emsp;&emsp;A civil penalty under this paragraph shall be assessed, and may be collected, in themanner in which a civil penalty under the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\] may be assessed and collected under section 11(a) of that Act (16 U.S.C. 1540(a)).
 
 #### (c) Products, items, and substances
 
@@ -30,7 +30,7 @@ After consultation with the Secretary of the Treasury, the Secretary of Health a
 
 #### (e) Enforcement
 
-The Secretary, the Secretary of the Treasury, and the Secretary of the department in whichthe Coast Guard is operating shall enforce this section in the manner in which the Secretaries carry out enforcement activities under section 11(e) of the Endangered Species Act of 1973 (16 U.S.C. 1540(e)).
+The Secretary, the Secretary of the Treasury, and the Secretary of the department in which the Coast Guard is operating shall enforce this section in the manner in which the Secretaries carry out enforcement activities under section 11(e) of the Endangered Species Act of 1973 (16 U.S.C. 1540(e)).
 
 #### (f) Use of penalty amounts
 

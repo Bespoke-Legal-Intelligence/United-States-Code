@@ -22,7 +22,7 @@ For purposes of this subchapter the term “same kind of fruit” includes, in t
 
 #### (f) Own production
 
-For purposes of this subchapter the term “own production”, when used with reference to wine in a bonded wine cellar, means wine produced by fermentation in the same bonded wine cellar,whether or not produced by a predecessor in interest at such bonded wine cellar. This term may also include, under regulations, wine produced by fermentation in bonded wine cellars owned or controlled by the same or affiliated persons or firms when located within the same State; the term “affiliated” shall be deemed to include any one or more bonded wine cellar proprietors associated as members of any farm cooperative, or any one or more bonded wine cellar proprietors affiliated within the meaning of section 17(a)(5) of the Federal Alcohol Administration Act, as amended (27 U.S.C. 211).<sup>1</sup>
+For purposes of this subchapter the term “own production”, when used with reference to wine in a bonded wine cellar, means wine produced by fermentation in the same bonded wine cellar, whether or not produced by a predecessor in interest at such bonded wine cellar. This term may also include, under regulations, wine produced by fermentation in bonded wine cellars owned or controlled by the same or affiliated persons or firms when located within the same State; the term “affiliated” shall be deemed to include any one or more bonded wine cellar proprietors associated as members of any farm cooperative, or any one or more bonded wine cellar proprietors affiliated within the meaning of section 17(a)(5) of the Federal Alcohol Administration Act, as amended (27 U.S.C. 211).<sup>1</sup>
 
 #### (g) Liquid sugar
 

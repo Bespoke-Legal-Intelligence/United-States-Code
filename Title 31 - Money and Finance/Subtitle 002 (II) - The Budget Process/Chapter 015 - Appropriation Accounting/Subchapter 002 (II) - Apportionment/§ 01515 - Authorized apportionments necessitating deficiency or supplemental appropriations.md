@@ -48,5 +48,5 @@ In subsection (b)(2), the words “proposed deficiency or supplemental appropria
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–202 added subsec. (a) and struck out former subsec. (a) which read as follows:“An appropriation required to be apportioned under section 1512 of this title may be apportioned on a basis that indicates a necessity for a deficiency or supplemental appropriation to the extent necessary to permit payment of pay increases for prevailing rate employees whose pay is fixed and adjusted under subchapter IV of chapter 53 of title 5.”
+1987—Subsec. (a). Pub. L. 100–202 added subsec. (a) and struck out former subsec. (a) which read as follows: “An appropriation required to be apportioned under section 1512 of this title may be apportioned on a basis that indicates a necessity for a deficiency or supplemental appropriation to the extent necessary to permit payment of pay increases for prevailing rate employees whose pay is fixed and adjusted under subchapter IV of chapter 53 of title 5.”
 

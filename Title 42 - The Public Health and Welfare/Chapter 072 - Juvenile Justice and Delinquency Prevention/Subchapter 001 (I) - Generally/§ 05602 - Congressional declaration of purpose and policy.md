@@ -10,7 +10,7 @@
 
 &emsp;(4) to establish a centralized research effort on the problems of juvenile delinquency, including the dissemination of the findings of such research and all data related to juvenile delinquency;
 
-&emsp;(5) to develop and encourage the implementation of national standards for the administration of juvenile justice, including recommendations for administrative, budgetary, and legislative action at the Federal, State, and local level to facilitate the adoption of such standards;
+&emsp;(5) to develop and encourage the implementation of national standards for the administration of juvenile justice, including recommendations for administrative, budgetary, and legislative action at the Federal, State, andlocal level to facilitate the adoption of such standards;
 
 &emsp;(6) to assist States and local communities with resources to develop and implement programs to keep students in elementary and secondary schools and to prevent unwarranted and arbitrary suspensions and expulsions;
 

@@ -2,7 +2,7 @@
 
 #### (a) Freedom of Information Act exemption for certain Convention information
 
-Except as provided in subsection (b) or (c) of this section, any confidential business information, as defined in section 6713(g) of this title, reported to, or otherwise acquired by, the United States Government under this chapter or under the Convention shall not be disclosed under section 552(a) of title 5.
+Except as provided in subsection (b) or (c) of this section, any confidential business information, as defined in section 6713(g) of this title, reported to, or otherwise acquired by, theUnited States Government under this chapter or under the Convention shall not be disclosed under section 552(a) of title 5.
 
 #### (b) Exceptions
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may make a grant to an eligible entity (as defined in subsection (d)(1) of thissection) under this section for the awarding of scholarships by schools to any full-time student who is an eligible individual as defined in subsection (d) of this section. Such scholarships may be expended only for tuition expenses, other reasonable educational expenses, and reasonable living expenses incurred in the attendance of such school.
+The Secretary may make a grant to an eligible entity (as defined in subsection (d)(1) of this section) under this section for the awarding of scholarships by schools to any full-time student who is an eligible individual as defined in subsection (d) of this section. Such scholarships may be expended only for tuition expenses, other reasonable educational expenses, and reasonable living expenses incurred in the attendance of such school.
 
 #### (b) Preference in providing scholarships
 
@@ -20,7 +20,7 @@ In this section:
 
 &emsp;The term “eligible entities” means an entity that—
 
-&emsp;&emsp;(A) is a school of medicine, osteopathic medicine, dentistry, nursing (as defined in section 296 of this title), pharmacy, podiatric medicine, optometry, veterinary medicine, public health, chiropractic, or allied health, a school offering a graduate program in behavioral and mental health practice, or an entity providing programs for the training of physician assistants; and
+&emsp;&emsp;(A) is a school of medicine, osteopathic medicine, dentistry, nursing (as defined insection 296 of this title), pharmacy, podiatric medicine, optometry, veterinary medicine, public health, chiropractic, or allied health, a school offering a graduate program in behavioral and mental health practice, or an entity providing programs for the training of physician assistants; and
 
 &emsp;&emsp;(B) is carrying out a program for recruiting and retaining students from disadvantaged backgrounds, including students who are members of racial and ethnic minority groups.
 

@@ -74,7 +74,7 @@ Section 1491c, Pub. L. 91–230, title VI, §704, as added Pub. L. 103–382, ti
 
 Section 1491d, Pub. L. 91–230, title VI, §705, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3944, related to information and assurances required in application for grant.
 
-Section 1491e, Pub. L. 91–230, title VI, §706, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat.3946, related to designation of lead entity by State desiring to receive grant.
+Section 1491e, Pub. L. 91–230, title VI, §706, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3946, related to designation of lead entity by State desiring to receive grant.
 
 Section 1491f, Pub. L. 91–230, title VI, §707, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3946, related to designation or establishment by State of a State Policy Council for Families of Children with Disabilities and its composition, functions, etc.
 

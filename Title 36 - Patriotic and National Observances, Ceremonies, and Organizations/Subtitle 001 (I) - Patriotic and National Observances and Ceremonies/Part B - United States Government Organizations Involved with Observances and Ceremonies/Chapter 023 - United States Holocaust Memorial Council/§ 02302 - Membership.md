@@ -72,25 +72,37 @@ Oct. 7, 1980, Pub. L. 96–388, §2, 94 Stat. 1547; Nov. 20, 1981, Pub. L. 97–
 
 36:1402(b) (last sentence), (c)(1), (2).
 
+&nbsp;
+
 2302(c)
 
 36:1402(d)(1) (1st sentence), (2).
+
+&nbsp;
 
 2302(d)(1)
 
 36:1402(a) (last sentence).
 
+&nbsp;
+
 2302(d)(2)
 
 36:1402(c)(3).
+
+&nbsp;
 
 2302(d)(3)
 
 36:1402(d)(1) (last sentence).
 
+&nbsp;
+
 2302(e)
 
 36:1402(e).
+
+&nbsp;
 
 2302(f)
 

@@ -46,6 +46,8 @@ June 30, 1906, ch. 3929, §4, 34 Stat. 805.
 
 36:5304 (last proviso).
 
+&nbsp;
+
 In subsections (a) and (b), the words “the purposes provided in section 151102 of this title” are substituted for “the educational or other purposes of the corporation as aforesaid” and “educational purposes aforesaid” for clarity. The words “<i>Provided, however</i>, That this exemption shall not apply to any property of the corporation which shall not be used for or the income of which shall not be applied to the educational purposes of the corporation” are omitted as unnecessary.
 
 In subsection (b), the words “and funds” are omitted as included in “personal property”. The words “held” and “invested” are omitted as included in “used . . . to produce income”.

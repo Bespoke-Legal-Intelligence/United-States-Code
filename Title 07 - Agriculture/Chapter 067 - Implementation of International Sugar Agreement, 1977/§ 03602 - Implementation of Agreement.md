@@ -40,8 +40,6 @@ Pub. L. 100–461, title V, §565, Oct. 1, 1988, 102 Stat. 2268–42.
 
 Pub. L. 100–202, §101(e) \[title V, §571\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–175.
 
-\[Functions of the President under section 562 of Pub. L. 101–167, set out above, were delegated to the Secretary of State by section 1–201(a)(28) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of Title 22, Foreign Relations and Intercourse.\]
-
 #### Ex. Ord. No. 12224. Implementation of the International Sugar Agreement
 
 Ex. Ord. No. 12224, July 1, 1980, 45 F.R. 45243, provided:

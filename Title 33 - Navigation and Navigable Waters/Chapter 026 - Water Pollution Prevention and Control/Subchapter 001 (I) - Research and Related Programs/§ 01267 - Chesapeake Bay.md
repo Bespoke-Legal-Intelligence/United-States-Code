@@ -16,7 +16,7 @@ The Administrator shall continue the Chesapeake Bay Program and shall establish 
 
 #### (1) Authority
 
-&emsp;The Administrator shall, at the request of the Governor of a State affected by the interstate management plan developed pursuant to the Chesapeake Bay Program (hereinafter in this section referred to as the “plan”), make agrant for the purpose of implementing the management mechanisms contained in the plan if such State has, within 1 year after February 4, 1987, approved and committed to implement all or substantially all aspects of the plan. Such grants shall be made subject to such terms and conditions as the Administrator considers appropriate.
+&emsp;The Administrator shall, at the request of the Governor of a State affected by the interstate management plan developed pursuant to the Chesapeake Bay Program (hereinafter in this section referred to as the “plan”), make a grant for the purpose of implementing the management mechanisms contained in the plan if such State has, within 1 year after February 4, 1987, approved and committed to implement all or substantially all aspects of the plan. Such grants shall be made subject to such terms and conditions as the Administrator considers appropriate.
 
 #### (2) Submission of proposal
 
@@ -43,4 +43,16 @@ There are hereby authorized to be appropriated the following sums, to remain ava
 &emsp;(2) $10,000,000 per fiscal year for each of the fiscal years 1987, 1988, 1989, and 1990, for grants to States under subsection (b) of this section.
 
 (June 30, 1948, ch. 758, title I, §117, as added Pub. L. 100–4, title I, §103, Feb. 4, 1987, 101 Stat. 10.)
+
+#### Nutrient Loading Resulting From Dredged Material Disposal
+
+Pub. L. 106–53, title IV, §457, Aug. 17, 1999, 113 Stat. 332, provided that:
+
+“(a)
+
+Study.—The Secretary shall conduct a study of nutrient loading that occurs as a result of discharges of dredged material into open-water sites in the Chesapeake Bay.
+
+“(b)
+
+Report.—Not later than 18 months after the date of enactment of this Act \[Aug. 17, 1999\], the Secretary shall submit to Congress a report on the results of the study.”
 

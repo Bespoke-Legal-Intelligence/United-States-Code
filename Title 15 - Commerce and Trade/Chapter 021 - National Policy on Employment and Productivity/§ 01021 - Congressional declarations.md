@@ -10,7 +10,7 @@ The Congress further declares and establishes as a national goal the fulfillment
 
 #### (c) Inflation
 
-The Congress further declares that inflation is a major national problem requiring improved government policies relating to food, energy,improved and coordinated fiscal and monetary management, the reform of outmoded rules and regulations of the Federal Government, the correction of structural defects in the economy that prevent or seriously impede competition in private markets, and other measures to reduce the rate of inflation.
+The Congress further declares that inflation is a major national problem requiring improved government policies relating to food, energy, improved and coordinated fiscal and monetary management, the reform of outmoded rules and regulations of the Federal Government, the correction of structural defects in the economy that prevent or seriously impede competition in private markets, and other measures to reduce the rate of inflation.
 
 #### (d) Coordination of Federal policies and programs
 
@@ -18,7 +18,7 @@ The Congress further declares that it is the purpose of the Full Employment and 
 
 #### (e) Federal controls
 
-The Congress further declares that, although it is the purpose under the Full Employment and Balanced Growth Act of 1978 \[15 U.S.C. 3101 et seq.\] to seek diligently and to encourage the voluntary cooperation of the private sector in helping to achieve the objectives of such Act, no provisions of such Act or this chapter shall be used, with respect to any portion of the private sector of the economy, to provide for Federal Government control of production, employment, allocation of resources, or wages and prices, except to the extent authorized under other Federal laws.
+The Congress further declares that, although it is the purpose under the Full Employment and Balanced Growth Act of 1978 \[15 U.S.C. 3101 et seq.\] to seek diligently and to encourage the voluntary cooperation of the private sector in helping to achieve the objectives of such Act, no provisions of such Act or this chapter shall be used, with respect to any portion of the privatesector of the economy, to provide for Federal Government control of production, employment, allocation of resources, or wages and prices, except to the extent authorized under other Federal laws.
 
 #### (f) Expansion of private employment
 

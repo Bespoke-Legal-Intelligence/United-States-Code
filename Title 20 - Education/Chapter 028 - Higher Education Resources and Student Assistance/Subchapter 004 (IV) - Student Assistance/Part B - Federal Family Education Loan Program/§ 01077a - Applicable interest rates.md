@@ -22,7 +22,7 @@ If for any 12-month period beginning on or after January 1, 1981, the Secretary,
 
 #### (2) Reduction of rate after decline in Treasury bill rates
 
-&emsp;If for any 12-month period beginning on or after October 1, 1981, the Secretary, after consultation with the Secretary of the Treasury, determines that the average of the bond equivalent rates of 91-day Treasury bills auctioned for such 12-month period is equal to or less than 14 percent, the applicable rate of interest for loans made pursuant to section 1078–1 <sup>1</sup> or 1078–2 of this title on and after the first day of the first month beginning after the date of publication of such determination shall be 12 percent per year on the unpaid principal balance of the loan.
+&emsp;If for any 12-month period beginning on or after October 1, 1981, the Secretary, after consultation with the Secretary of the Treasury, determines that the average of the bond equivalent rates of 91-day Treasury bills auctioned for such 12-month period is equal to or less than 14 percent, the applicable rate of interestfor loans made pursuant to section 1078–1 <sup>1</sup> or 1078–2 of this title on and after the first day of the first month beginning after the date of publication of such determination shall be 12 percent per year on the unpaid principal balance of the loan.
 
 #### (3) Increase of rate after increase in Treasury bill rates
 
@@ -88,7 +88,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (1) In general
 
-&emsp;Notwithstanding subsections (a), (b), (d), and (e) of this section, with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 1994, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;Notwithstanding subsections (a), (b), (d), and (e) of this section, with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 1994, the applicable rate of interest shall, duringany 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;(A) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1; plus
 
@@ -292,7 +292,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (<i>l</i>) Lesser rates permitted
 
-Nothing in this section or section 1078–3 of this title shall be construed to prohibit a lender from charging a borrower interest at a rate less than the rate which is applicable under this part.
+Nothing in this section or section 1078–3 of this title shall be construed to prohibit a lender fromcharging a borrower interest at a rate less than the rate which is applicable under this part.
 
 #### (m) Definitions
 
@@ -306,7 +306,7 @@ For the purpose of subsections (a) and (d) of this section—
 
 #### References in Text
 
-Section 1078–1 of this title, referred to in subsecs. (c) to (e)(1), was repealed by Pub. L. 103–66, title IV,§4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
+Section 1078–1 of this title, referred to in subsecs. (c) to (e)(1), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
 #### Codification
 

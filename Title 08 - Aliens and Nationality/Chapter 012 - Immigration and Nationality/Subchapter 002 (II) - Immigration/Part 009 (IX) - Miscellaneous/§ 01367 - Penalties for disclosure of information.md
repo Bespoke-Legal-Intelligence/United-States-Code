@@ -56,7 +56,7 @@ Section is comprised of section 384 of div. C of Pub. L. 104–208. Subsec. (d) 
 
 #### Effective Date of 1997 Amendment
 
-Section 5582 of title V of Pub. L. 105–33 provided that: “Except as otherwise provided, the amendments made by this chapter \[chapter 4 (§§5561–5582) of subtitle F of title V of Pub. L. 105–33, amending this section, sections 1611 to 1613, 1621, 1622, 1631, 1632, 1641 to 1643, and 1645 of this title, and sections 608, 1383, and 1437y of Title 42, The Public Health and Welfare\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
+Section 5582 of title V of Pub. L. 105–33 provided that: “Except as otherwise provided, the amendments madeby this chapter \[chapter 4 (§§5561–5582) of subtitle F of title V of Pub. L. 105–33, amending this section, sections 1611 to 1613, 1621, 1622, 1631, 1632, 1641 to 1643, and 1645 of this title, and sections 608, 1383, and 1437y of Title 42, The Public Health and Welfare\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
 
 #### Effective Date of 1996 Amendment
 

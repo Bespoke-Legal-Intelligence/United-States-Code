@@ -2,7 +2,7 @@
 
 #### (a) Program authority
 
-The Secretary shall carry out a program to be known as the “Ronald E. McNair Postbaccalaureate Achievement Program” that shall be designed to provide disadvantaged college students with effective preparation for doctoral study.
+The Secretary shall carry out a program to be known as the “Ronald E. McNair Postbaccalaureate Achievement Program” that shall bedesigned to provide disadvantaged college students with effective preparation for doctoral study.
 
 #### (b) Services
 

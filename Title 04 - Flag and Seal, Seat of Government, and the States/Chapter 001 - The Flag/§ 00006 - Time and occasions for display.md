@@ -6,7 +6,7 @@
 
 (c) The flag should not be displayed on days when the weather is inclement, except when an all weather flag is displayed.
 
-(d) The flag should be displayed on all days, especially on New Year's Day, January 1; Inauguration Day, January 20; Lincoln's Birthday, February 12; Washington's Birthday, third Monday in February; Easter Sunday (variable); Mother's Day, second Sunday in May; Armed Forces Day, third Saturday in May; Memorial Day (half-staff until noon), the last Monday in May; Flag Day, June 14; Independence Day, July 4; Labor Day, first Monday in September; Constitution Day, September 17; Columbus Day, second Monday in October; Navy Day, October 27; Veterans Day, November 11; Thanksgiving Day, fourth Thursday in November; Christmas Day, December 25; and such other days as may be proclaimed by the President of the United States; the birthdays of States (date of admission); and on State holidays.
+(d) The flag should be displayed on all days, especially on New Year's Day, January 1; Inauguration Day, January 20; Martin Luther King Jr.'s birthday, third Monday in January; Lincoln's Birthday, February 12; Washington's Birthday, third Monday in February; Easter Sunday (variable); Mother's Day, second Sunday in May; Armed Forces Day, third Saturday in May; Memorial Day (half-staff until noon), the last Monday in May; Flag Day, June 14; Independence Day, July 4; Labor Day, first Monday in September; Constitution Day, September 17; Columbus Day, second Monday in October; Navy Day, October 27; Veterans Day, November 11; Thanksgiving Day, fourth Thursday in November; Christmas Day, December 25; and such other days as may be proclaimed by the President of the United States; the birthdays of States (date of admission); and on State holidays.
 
 (e) The flag should be displayed daily on or near the main administration building of every public institution.
 
@@ -14,7 +14,7 @@
 
 (g) The flag should be displayed during school days in or near every schoolhouse.
 
-(Added Pub. L. 105–225, §2(a), Aug. 12, 1998, 112 Stat. 1494.)
+(Added Pub. L. 105–225, §2(a), Aug. 12, 1998, 112 Stat. 1494; amended Pub. L. 106–80, §1, Oct. 25, 1999, 113 Stat. 1285.)
 
 Historical and Revision Notes
 
@@ -33,4 +33,8 @@ Historical and Revision Notes
 June 22, 1942, ch. 435, §2, 56 Stat. 378; Dec. 22, 1942, ch. 806, §2, 56 Stat. 1074; July 7, 1976, Pub. L. 94–344, (2)–(5), 90 Stat. 810.
 
 In subsection (d), the words “Veterans Day” are substituted for “Armistice Day” because of the Act of June 1, 1954 (ch. 250, 68 Stat. 168).
+
+#### Amendments
+
+1999—Subsec. (d). Pub. L. 106–80 inserted “Martin Luther King Jr.'s birthday, third Monday in January;” after “January 20;”.
 

@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title29",
- "package": "USCODE-1998-title29",
+ "package": "USCODE-1999-title29",
  "pieces": [
   {
    "id": "29_",
@@ -1802,25 +1802,27 @@
     ],
     [
      "L",
-     166,
+     170,
      "[Page 61]",
      true
     ],
     [
-     "I",
-     230,
-     [
-      [
-       106,
-       "[Page 62]"
-      ]
-     ]
+     "L",
+     226,
+     "[Page 62]",
+     true
+    ],
+    [
+     "L",
+     302,
+     "[Page 63]",
+     true
     ]
    ],
    "path": "Chapter 008 - Fair Labor Standards/§ 00203 - Definitions.md",
    "printed_pages": [
     57,
-    62
+    63
    ]
   },
   {
@@ -1828,24 +1830,18 @@
    "marks": [
     [
      "I",
-     8,
+     28,
      [
       [
-       319,
-       "[Page 63]"
+       649,
+       "[Page 64]"
       ]
      ]
-    ],
-    [
-     "L",
-     42,
-     "[Page 64]",
-     true
     ]
    ],
    "path": "Chapter 008 - Fair Labor Standards/§ 00204 - Administration.md",
    "printed_pages": [
-    62,
+    63,
     64
    ]
   },
@@ -1854,10 +1850,10 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       416,
+       542,
        "[Page 65]"
       ]
      ]
@@ -1874,59 +1870,63 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       980,
+       130,
        "[Page 66]"
       ]
      ]
     ],
     [
      "I",
-     42,
+     34,
      [
       [
-       226,
+       241,
        "[Page 67]"
       ]
      ]
     ],
     [
      "I",
-     100,
+     88,
      [
       [
-       115,
+       275,
        "[Page 68]"
       ]
      ]
     ],
     [
      "I",
-     128,
+     124,
      [
       [
-       269,
+       469,
        "[Page 69]"
       ]
      ]
     ],
     [
      "I",
-     202,
+     184,
      [
       [
-       101,
+       500,
        "[Page 70]"
       ]
      ]
     ],
     [
-     "L",
-     330,
-     "[Page 71]",
-     true
+     "I",
+     310,
+     [
+      [
+       89,
+       "[Page 71]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008 - Fair Labor Standards/§ 00206 - Minimum wage.md",
@@ -1940,61 +1940,57 @@
    "marks": [
     [
      "I",
-     14,
+     4,
      [
       [
-       92,
+       88,
        "[Page 72]"
       ]
      ]
     ],
     [
      "I",
-     52,
+     46,
      [
       [
-       134,
+       420,
        "[Page 73]"
       ]
      ]
     ],
     [
-     "L",
-     84,
-     "[Page 74]",
-     true
-    ],
-    [
      "I",
-     140,
+     78,
      [
       [
-       133,
-       "[Page 75]"
+       513,
+       "[Page 74]"
       ]
      ]
     ],
     [
      "L",
-     194,
+     130,
+     "[Page 75]",
+     true
+    ],
+    [
+     "L",
+     188,
      "[Page 76]",
      true
     ],
     [
      "L",
-     250,
+     246,
      "[Page 77]",
      true
     ],
     [
-     "I",
-     334,
-     [
-      [
-       106,
-       "[Page 78]"
-      ]
-     ]
+     "L",
+     320,
+     "[Page 78]",
+     true
     ]
    ],
    "path": "Chapter 008 - Fair Labor Standards/§ 00207 - Maximum hours.md",
@@ -2008,93 +2004,84 @@
    "marks": [
     [
      "I",
-     12,
+     8,
      [
       [
-       513,
+       413,
        "[Page 79]"
       ]
      ]
     ],
     [
+     "I",
+     54,
+     [
+      [
+       102,
+       "[Page 80]"
+      ]
+     ]
+    ],
+    [
      "L",
-     68,
-     "[Page 80]",
+     132,
+     "[Page 81]",
      true
     ]
    ],
    "path": "Chapter 008 - Fair Labor Standards/§ 00208 - Wage orders in American Samoa.md",
    "printed_pages": [
     78,
-    80
-   ]
-  },
-  {
-   "id": "29_209",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       313,
-       "[Page 81]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 008 - Fair Labor Standards/§ 00209 - Attendance of witnesses.md",
-   "printed_pages": [
-    80,
     81
    ]
   },
   {
-   "id": "29_210",
+   "id": "29_209",
    "marks": [],
-   "path": "Chapter 008 - Fair Labor Standards/§ 00210 - Court review of wage orders in Puerto Rico and the Virgin Islands.md",
+   "path": "Chapter 008 - Fair Labor Standards/§ 00209 - Attendance of witnesses.md",
    "printed_pages": [
     81,
     81
    ]
   },
   {
-   "id": "29_211",
+   "id": "29_210",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       176,
-       "[Page 82]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 82]",
+     true
     ]
    ],
-   "path": "Chapter 008 - Fair Labor Standards/§ 00211 - Collection of data.md",
+   "path": "Chapter 008 - Fair Labor Standards/§ 00210 - Court review of wage orders in Puerto Rico and the Virgin Islands.md",
    "printed_pages": [
     81,
     82
    ]
   },
   {
-   "id": "29_212",
+   "id": "29_211",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       750,
-       "[Page 83]"
-      ]
-     ]
+     "L",
+     50,
+     "[Page 83]",
+     true
     ]
    ],
-   "path": "Chapter 008 - Fair Labor Standards/§ 00212 - Child labor provisions.md",
+   "path": "Chapter 008 - Fair Labor Standards/§ 00211 - Collection of data.md",
    "printed_pages": [
     82,
+    83
+   ]
+  },
+  {
+   "id": "29_212",
+   "marks": [],
+   "path": "Chapter 008 - Fair Labor Standards/§ 00212 - Child labor provisions.md",
+   "printed_pages": [
+    83,
     83
    ]
   },
@@ -2103,92 +2090,88 @@
    "marks": [
     [
      "I",
-     14,
+     10,
      [
       [
-       366,
+       135,
        "[Page 84]"
       ]
      ]
     ],
     [
-     "I",
-     72,
-     [
-      [
-       93,
-       "[Page 85]"
-      ]
-     ]
+     "L",
+     62,
+     "[Page 85]",
+     true
     ],
     [
      "I",
-     122,
+     112,
      [
       [
-       143,
+       410,
        "[Page 86]"
       ]
      ]
     ],
     [
-     "I",
-     182,
-     [
-      [
-       95,
-       "[Page 87]"
-      ]
-     ]
+     "L",
+     168,
+     "[Page 87]",
+     true
     ],
     [
      "I",
-     250,
+     242,
      [
       [
-       414,
+       511,
        "[Page 88]"
       ]
      ]
     ],
     [
-     "L",
-     312,
-     "[Page 89]",
-     true
+     "I",
+     304,
+     [
+      [
+       479,
+       "[Page 89]"
+      ]
+     ]
     ],
     [
      "I",
-     382,
+     372,
      [
       [
-       383,
+       372,
        "[Page 90]"
       ]
      ]
     ],
     [
      "I",
-     436,
+     422,
      [
       [
-       113,
+       329,
        "[Page 91]"
       ]
      ]
     ],
     [
      "L",
-     516,
+     488,
      "[Page 92]",
      true
     ],
     [
      "I",
-     620,
+     596,
      [
       [
-       109,
+       107,
        "[Page 93]"
       ]
      ]
@@ -2204,30 +2187,34 @@
    "id": "29_214",
    "marks": [
     [
+     "L",
+     12,
+     "[Page 94]",
+     true
+    ],
+    [
      "I",
-     26,
+     48,
      [
       [
-       95,
-       "[Page 94]"
+       372,
+       "[Page 95]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     100,
+     [
+      [
+       94,
+       "[Page 96]"
       ]
      ]
     ],
     [
      "L",
-     64,
-     "[Page 95]",
-     true
-    ],
-    [
-     "L",
-     116,
-     "[Page 96]",
-     true
-    ],
-    [
-     "L",
-     168,
+     144,
      "[Page 97]",
      true
     ]
@@ -2240,11 +2227,18 @@
   },
   {
    "id": "29_215",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     40,
+     "[Page 98]",
+     true
+    ]
+   ],
    "path": "Chapter 008 - Fair Labor Standards/§ 00215 - Prohibited acts; prima facie evidence.md",
    "printed_pages": [
     97,
-    97
+    98
    ]
   },
   {
@@ -2252,50 +2246,39 @@
    "marks": [
     [
      "I",
-     8,
+     20,
      [
       [
-       804,
-       "[Page 98]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     28,
-     [
-      [
-       513,
+       249,
        "[Page 99]"
       ]
      ]
     ],
     [
      "L",
-     84,
+     58,
      "[Page 100]",
+     true
+    ],
+    [
+     "L",
+     136,
+     "[Page 101]",
      true
     ]
    ],
    "path": "Chapter 008 - Fair Labor Standards/§ 00216 - Penalties.md",
    "printed_pages": [
-    97,
-    100
+    98,
+    101
    ]
   },
   {
    "id": "29_216a",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 101]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 008 - Fair Labor Standards/§ 00216a - Repealed. Oct. 26, 1949, ch. 736, §16(f), 63 Stat. 920.md",
    "printed_pages": [
-    100,
+    101,
     101
    ]
   },
@@ -2310,30 +2293,26 @@
   },
   {
    "id": "29_217",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     40,
+     "[Page 102]",
+     true
+    ]
+   ],
    "path": "Chapter 008 - Fair Labor Standards/§ 00217 - Injunction proceedings.md",
    "printed_pages": [
     101,
-    101
+    102
    ]
   },
   {
    "id": "29_218",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       363,
-       "[Page 102]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 008 - Fair Labor Standards/§ 00218 - Relation to other laws.md",
    "printed_pages": [
-    101,
+    102,
     102
    ]
   },
@@ -2348,30 +2327,30 @@
   },
   {
    "id": "29_-ch9",
-   "marks": [],
-   "path": "Chapter 009 - Portal-to-Portal Pay/README.md",
-   "printed_pages": [
-    102,
-    102
-   ]
-  },
-  {
-   "id": "29_251",
    "marks": [
     [
      "I",
-     2,
+     24,
      [
       [
-       1024,
+       56,
        "[Page 103]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 009 - Portal-to-Portal Pay/§ 00251 - Congressional findings and declaration of policy.md",
+   "path": "Chapter 009 - Portal-to-Portal Pay/README.md",
    "printed_pages": [
     102,
+    103
+   ]
+  },
+  {
+   "id": "29_251",
+   "marks": [],
+   "path": "Chapter 009 - Portal-to-Portal Pay/§ 00251 - Congressional findings and declaration of policy.md",
+   "printed_pages": [
+    103,
     103
    ]
   },
@@ -2380,10 +2359,10 @@
    "marks": [
     [
      "I",
-     12,
+     4,
      [
       [
-       183,
+       90,
        "[Page 104]"
       ]
      ]
@@ -2400,10 +2379,10 @@
    "marks": [
     [
      "I",
-     26,
+     4,
      [
       [
-       112,
+       612,
        "[Page 105]"
       ]
      ]
@@ -2417,59 +2396,55 @@
   },
   {
    "id": "29_254",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     36,
+     "[Page 106]",
+     true
+    ]
+   ],
    "path": "Chapter 009 - Portal-to-Portal Pay/§ 00254 - Relief from liability and punishment under the Fair Labor Standards Act of 1938, the Walsh-Healey Act, and the Bacon-Davis Act for failure….md",
    "printed_pages": [
     105,
-    105
+    106
    ]
   },
   {
    "id": "29_255",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       216,
-       "[Page 106]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Portal-to-Portal Pay/§ 00255 - Statute of limitations.md",
    "printed_pages": [
-    105,
+    106,
     106
    ]
   },
   {
    "id": "29_256",
-   "marks": [],
-   "path": "Chapter 009 - Portal-to-Portal Pay/§ 00256 - Determination of commencement of future actions.md",
-   "printed_pages": [
-    106,
-    106
-   ]
-  },
-  {
-   "id": "29_257",
    "marks": [
     [
      "I",
      2,
      [
       [
-       190,
+       479,
        "[Page 107]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 009 - Portal-to-Portal Pay/§ 00257 - Pending collective and representative actions.md",
+   "path": "Chapter 009 - Portal-to-Portal Pay/§ 00256 - Determination of commencement of future actions.md",
    "printed_pages": [
     106,
+    107
+   ]
+  },
+  {
+   "id": "29_257",
+   "marks": [],
+   "path": "Chapter 009 - Portal-to-Portal Pay/§ 00257 - Pending collective and representative actions.md",
+   "printed_pages": [
+    107,
     107
    ]
   },
@@ -2484,30 +2459,26 @@
   },
   {
    "id": "29_259",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 108]",
+     true
+    ]
+   ],
    "path": "Chapter 009 - Portal-to-Portal Pay/§ 00259 - Reliance in future on administrative rulings, etc.md",
    "printed_pages": [
     107,
-    107
+    108
    ]
   },
   {
    "id": "29_260",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       510,
-       "[Page 108]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Portal-to-Portal Pay/§ 00260 - Liquidated damages.md",
    "printed_pages": [
-    107,
+    108,
     108
    ]
   },
@@ -2522,11 +2493,22 @@
   },
   {
    "id": "29_262",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     18,
+     [
+      [
+       164,
+       "[Page 109]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 009 - Portal-to-Portal Pay/§ 00262 - Definitions.md",
    "printed_pages": [
     108,
-    108
+    109
    ]
   },
   {
@@ -2534,23 +2516,16 @@
    "marks": [],
    "path": "Chapter 010 - Disclosure of Welfare and Pension Plans/README.md",
    "printed_pages": [
-    108,
-    108
+    109,
+    109
    ]
   },
   {
    "id": "29_301_to_309",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 109]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Disclosure of Welfare and Pension Plans/§ 00301 to 309 - Repealed. Pub. L. 93–406, title I, §111(a)(1), Sept. 2, 1974, 88 Stat. 851.md",
    "printed_pages": [
-    108,
+    109,
     109
    ]
   },
@@ -2559,10 +2534,10 @@
    "marks": [
     [
      "I",
-     78,
+     53,
      [
       [
-       171,
+       54,
        "[Page 110]"
       ]
      ]
@@ -2588,10 +2563,10 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       464,
+       97,
        "[Page 111]"
       ]
      ]
@@ -2608,17 +2583,17 @@
    "marks": [
     [
      "I",
-     24,
+     16,
      [
       [
-       97,
+       227,
        "[Page 112]"
       ]
      ]
     ],
     [
      "L",
-     80,
+     64,
      "[Page 113]",
      true
     ]
@@ -2649,26 +2624,30 @@
   },
   {
    "id": "29_412",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       91,
+       "[Page 114]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 002 (II) - Bill of Rights of Members of Labor Organizations/§ 00412 - Civil action for infringement of rights; jurisdiction.md",
    "printed_pages": [
     113,
-    113
+    114
    ]
   },
   {
    "id": "29_413",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 114]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 002 (II) - Bill of Rights of Members of Labor Organizations/§ 00413 - Retention of existing rights of members.md",
    "printed_pages": [
-    113,
+    114,
     114
    ]
   },
@@ -2703,14 +2682,10 @@
    "id": "29_431",
    "marks": [
     [
-     "I",
-     36,
-     [
-      [
-       428,
-       "[Page 115]"
-      ]
-     ]
+     "L",
+     26,
+     "[Page 115]",
+     true
     ]
    ],
    "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 003 (III) - Reporting by Labor Organizations, Officers and Employees of Labor Organizations, and Employers/§ 00431 - Report of labor organizations.md",
@@ -2724,7 +2699,7 @@
    "marks": [
     [
      "L",
-     40,
+     28,
      "[Page 116]",
      true
     ]
@@ -2739,14 +2714,10 @@
    "id": "29_433",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       378,
-       "[Page 117]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 117]",
+     true
     ]
    ],
    "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 003 (III) - Reporting by Labor Organizations, Officers and Employees of Labor Organizations, and Employers/§ 00433 - Report of employers.md",
@@ -2775,30 +2746,30 @@
   },
   {
    "id": "29_436",
-   "marks": [],
-   "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 003 (III) - Reporting by Labor Organizations, Officers and Employees of Labor Organizations, and Employers/§ 00436 - Retention of records.md",
-   "printed_pages": [
-    117,
-    117
-   ]
-  },
-  {
-   "id": "29_437",
    "marks": [
     [
      "I",
-     4,
+     2,
      [
       [
-       305,
+       230,
        "[Page 118]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 003 (III) - Reporting by Labor Organizations, Officers and Employees of Labor Organizations, and Employers/§ 00437 - Time for making reports.md",
+   "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 003 (III) - Reporting by Labor Organizations, Officers and Employees of Labor Organizations, and Employers/§ 00436 - Retention of records.md",
    "printed_pages": [
     117,
+    118
+   ]
+  },
+  {
+   "id": "29_437",
+   "marks": [],
+   "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 003 (III) - Reporting by Labor Organizations, Officers and Employees of Labor Organizations, and Employers/§ 00437 - Time for making reports.md",
+   "printed_pages": [
+    118,
     118
    ]
   },
@@ -2833,10 +2804,14 @@
    "id": "29_441",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 119]",
-     true
+     "I",
+     2,
+     [
+      [
+       604,
+       "[Page 119]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 003 (III) - Reporting by Labor Organizations, Officers and Employees of Labor Organizations, and Employers/§ 00441 - Surety company reports; contents; waiver or modification of requirements respecting contents of reports.md",
@@ -2874,30 +2849,30 @@
   },
   {
    "id": "29_463",
-   "marks": [],
-   "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 004 (IV) - Trusteeships/§ 00463 - Unlawful acts relating to labor organization under trusteeship.md",
-   "printed_pages": [
-    119,
-    119
-   ]
-  },
-  {
-   "id": "29_464",
    "marks": [
     [
      "I",
-     4,
+     2,
      [
       [
-       605,
+       477,
        "[Page 120]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 004 (IV) - Trusteeships/§ 00464 - Civil action for enforcement.md",
+   "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 004 (IV) - Trusteeships/§ 00463 - Unlawful acts relating to labor organization under trusteeship.md",
    "printed_pages": [
     119,
+    120
+   ]
+  },
+  {
+   "id": "29_464",
+   "marks": [],
+   "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 004 (IV) - Trusteeships/§ 00464 - Civil action for enforcement.md",
+   "printed_pages": [
+    120,
     120
    ]
   },
@@ -2933,11 +2908,21 @@
    "marks": [
     [
      "I",
-     16,
+     12,
      [
       [
-       225,
+       896,
        "[Page 121]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     50,
+     [
+      [
+       109,
+       "[Page 122]"
       ]
      ]
     ]
@@ -2945,26 +2930,15 @@
    "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 005 (V) - Elections/§ 00481 - Terms of office and election procedures.md",
    "printed_pages": [
     120,
-    121
+    122
    ]
   },
   {
    "id": "29_482",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       147,
-       "[Page 122]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 005 (V) - Elections/§ 00482 - Enforcement.md",
    "printed_pages": [
-    121,
+    122,
     122
    ]
   },
@@ -2991,10 +2965,10 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       561,
+       881,
        "[Page 123]"
       ]
      ]
@@ -3017,11 +2991,22 @@
   },
   {
    "id": "29_503",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       91,
+       "[Page 124]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 006 (VI) - Safeguards for Labor Organizations/§ 00503 - Financial transactions between labor organization and officers and employees.md",
    "printed_pages": [
     123,
-    123
+    124
    ]
   },
   {
@@ -3029,20 +3014,10 @@
    "marks": [
     [
      "I",
-     4,
+     38,
      [
       [
-       136,
-       "[Page 124]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     46,
-     [
-      [
-       333,
+       752,
        "[Page 125]"
       ]
      ]
@@ -3050,7 +3025,7 @@
    ],
    "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 006 (VI) - Safeguards for Labor Organizations/§ 00504 - Prohibition against certain persons holding office.md",
    "printed_pages": [
-    123,
+    124,
     125
    ]
   },
@@ -3065,30 +3040,30 @@
   },
   {
    "id": "29_521",
-   "marks": [],
-   "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 007 (VII) - Miscellaneous Provisions/§ 00521 - Investigations by Secretary; applicability of other laws.md",
-   "printed_pages": [
-    125,
-    125
-   ]
-  },
-  {
-   "id": "29_522",
    "marks": [
     [
      "I",
-     2,
+     4,
      [
       [
-       142,
+       236,
        "[Page 126]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 007 (VII) - Miscellaneous Provisions/§ 00522 - Extortionate picketing; penalty for violation.md",
+   "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 007 (VII) - Miscellaneous Provisions/§ 00521 - Investigations by Secretary; applicability of other laws.md",
    "printed_pages": [
     125,
+    126
+   ]
+  },
+  {
+   "id": "29_522",
+   "marks": [],
+   "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 007 (VII) - Miscellaneous Provisions/§ 00522 - Extortionate picketing; penalty for violation.md",
+   "printed_pages": [
+    126,
     126
    ]
   },
@@ -3112,11 +3087,22 @@
   },
   {
    "id": "29_524a",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       220,
+       "[Page 127]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 007 (VII) - Miscellaneous Provisions/§ 00524a - Elimination of racketeering activities threat; State legislation governing collective bargaining representative.md",
    "printed_pages": [
     126,
-    126
+    127
    ]
   },
   {
@@ -3124,27 +3110,16 @@
    "marks": [],
    "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 007 (VII) - Miscellaneous Provisions/§ 00525 - Service of process.md",
    "printed_pages": [
-    126,
-    126
+    127,
+    127
    ]
   },
   {
    "id": "29_526",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       94,
-       "[Page 127]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 011 - Labor-Management Reporting and Disclosure Procedure/Subchapter 007 (VII) - Miscellaneous Provisions/§ 00526 - Applicability of administrative procedure provisions.md",
    "printed_pages": [
-    126,
+    127,
     127
    ]
   },
@@ -3197,10 +3172,14 @@
    "id": "29_-ch12",
    "marks": [
     [
-     "L",
-     35,
-     "[Page 128]",
-     true
+     "I",
+     11,
+     [
+      [
+       48,
+       "[Page 128]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 012 - Department of Labor/README.md",
@@ -3222,14 +3201,10 @@
    "id": "29_552",
    "marks": [
     [
-     "I",
-     26,
-     [
-      [
-       321,
-       "[Page 129]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 129]",
+     true
     ]
    ],
    "path": "Chapter 012 - Department of Labor/§ 00552 - Deputy Secretary; appointment; duties.md",
@@ -3258,55 +3233,59 @@
   },
   {
    "id": "29_555",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       108,
+       "[Page 130]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 012 - Department of Labor/§ 00555 - Solicitor.md",
    "printed_pages": [
     129,
-    129
+    130
    ]
   },
   {
    "id": "29_556",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 130]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Department of Labor/§ 00556 - Chief clerk; other employees.md",
    "printed_pages": [
-    129,
+    130,
     130
    ]
   },
   {
    "id": "29_557",
-   "marks": [],
-   "path": "Chapter 012 - Department of Labor/§ 00557 - Bureaus and offices in Department.md",
-   "printed_pages": [
-    130,
-    130
-   ]
-  },
-  {
-   "id": "29_557a",
    "marks": [
     [
      "I",
-     2,
+     48,
      [
       [
-       566,
+       384,
        "[Page 131]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 012 - Department of Labor/§ 00557a - Mine Safety and Health Administration.md",
+   "path": "Chapter 012 - Department of Labor/§ 00557 - Bureaus and offices in Department.md",
    "printed_pages": [
     130,
+    131
+   ]
+  },
+  {
+   "id": "29_557a",
+   "marks": [],
+   "path": "Chapter 012 - Department of Labor/§ 00557a - Mine Safety and Health Administration.md",
+   "printed_pages": [
+    131,
     131
    ]
   },
@@ -3330,30 +3309,30 @@
   },
   {
    "id": "29_560",
-   "marks": [],
-   "path": "Chapter 012 - Department of Labor/§ 00560 - Reports and investigations.md",
-   "printed_pages": [
-    131,
-    131
-   ]
-  },
-  {
-   "id": "29_561",
    "marks": [
     [
      "I",
-     8,
+     12,
      [
       [
-       111,
+       106,
        "[Page 132]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 012 - Department of Labor/§ 00561 - Records and papers and furniture transferred to Department.md",
+   "path": "Chapter 012 - Department of Labor/§ 00560 - Reports and investigations.md",
    "printed_pages": [
     131,
+    132
+   ]
+  },
+  {
+   "id": "29_561",
+   "marks": [],
+   "path": "Chapter 012 - Department of Labor/§ 00561 - Records and papers and furniture transferred to Department.md",
+   "printed_pages": [
+    132,
     132
    ]
   },
@@ -3371,10 +3350,10 @@
    "marks": [
     [
      "I",
-     14,
+     12,
      [
       [
-       960,
+       415,
        "[Page 133]"
       ]
      ]
@@ -3424,26 +3403,26 @@
   },
   {
    "id": "29_567",
-   "marks": [],
-   "path": "Chapter 012 - Department of Labor/§ 00567 - Labor-management dispute settlement expenses.md",
-   "printed_pages": [
-    133,
-    133
-   ]
-  },
-  {
-   "id": "29_568",
    "marks": [
     [
      "L",
-     10,
+     24,
      "[Page 134]",
      true
     ]
    ],
-   "path": "Chapter 012 - Department of Labor/§ 00568 - Acceptance of donations by Secretary.md",
+   "path": "Chapter 012 - Department of Labor/§ 00567 - Labor-management dispute settlement expenses.md",
    "printed_pages": [
     133,
+    134
+   ]
+  },
+  {
+   "id": "29_568",
+   "marks": [],
+   "path": "Chapter 012 - Department of Labor/§ 00568 - Acceptance of donations by Secretary.md",
+   "printed_pages": [
+    134,
     134
    ]
   },
@@ -3488,10 +3467,10 @@
    "marks": [
     [
      "I",
-     38,
+     26,
      [
       [
-       50,
+       216,
        "[Page 135]"
       ]
      ]
@@ -3508,10 +3487,10 @@
    "marks": [
     [
      "I",
-     46,
+     34,
      [
       [
-       268,
+       336,
        "[Page 136]"
       ]
      ]
@@ -3536,66 +3515,58 @@
    "id": "29_623",
    "marks": [
     [
-     "I",
-     22,
-     [
-      [
-       228,
-       "[Page 137]"
-      ]
-     ]
+     "L",
+     12,
+     "[Page 137]",
+     true
     ],
     [
      "L",
-     82,
+     74,
      "[Page 138]",
      true
     ],
     [
      "L",
-     134,
+     120,
      "[Page 139]",
      true
     ],
     [
      "I",
-     190,
+     182,
      [
       [
-       338,
+       146,
        "[Page 140]"
       ]
      ]
     ],
     [
+     "I",
+     246,
+     [
+      [
+       104,
+       "[Page 141]"
+      ]
+     ]
+    ],
+    [
      "L",
-     256,
-     "[Page 141]",
+     348,
+     "[Page 142]",
      true
     ],
     [
-     "I",
-     360,
-     [
-      [
-       196,
-       "[Page 142]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     460,
-     [
-      [
-       145,
-       "[Page 143]"
-      ]
-     ]
+     "L",
+     452,
+     "[Page 143]",
+     true
     ],
     [
      "L",
-     552,
+     538,
      "[Page 144]",
      true
     ]
@@ -3620,10 +3591,10 @@
    "marks": [
     [
      "I",
-     16,
+     10,
      [
       [
-       313,
+       97,
        "[Page 145]"
       ]
      ]
@@ -3639,21 +3610,17 @@
    "id": "29_626",
    "marks": [
     [
-     "I",
-     48,
-     [
-      [
-       96,
-       "[Page 146]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 146]",
+     true
     ],
     [
      "I",
      104,
      [
       [
-       826,
+       113,
        "[Page 147]"
       ]
      ]
@@ -3696,14 +3663,18 @@
    "id": "29_630",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 148]",
-     true
+     "I",
+     12,
+     [
+      [
+       95,
+       "[Page 148]"
+      ]
+     ]
     ],
     [
      "L",
-     62,
+     58,
      "[Page 149]",
      true
     ]
@@ -3719,7 +3690,7 @@
    "marks": [
     [
      "L",
-     38,
+     32,
      "[Page 150]",
      true
     ]
@@ -3741,11 +3712,18 @@
   },
   {
    "id": "29_633",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 151]",
+     true
+    ]
+   ],
    "path": "Chapter 014 - Age Discrimination in Employment/§ 00633 - Federal-State relationship.md",
    "printed_pages": [
     150,
-    150
+    151
    ]
   },
   {
@@ -3753,24 +3731,18 @@
    "marks": [
     [
      "I",
-     4,
+     40,
      [
       [
-       333,
-       "[Page 151]"
+       298,
+       "[Page 152]"
       ]
      ]
-    ],
-    [
-     "L",
-     50,
-     "[Page 152]",
-     true
     ]
    ],
    "path": "Chapter 014 - Age Discrimination in Employment/§ 00633a - Nondiscrimination on account of age in Federal Government employment.md",
    "printed_pages": [
-    150,
+    151,
     152
    ]
   },
@@ -3788,20 +3760,20 @@
    "marks": [
     [
      "I",
-     21,
+     18,
      [
       [
-       104,
+       168,
        "[Page 153]"
       ]
      ]
     ],
     [
      "I",
-     77,
+     75,
      [
       [
-       40,
+       80,
        "[Page 154]"
       ]
      ]
@@ -3818,10 +3790,10 @@
    "marks": [
     [
      "I",
-     6,
+     4,
      [
       [
-       94,
+       275,
        "[Page 155]"
       ]
      ]
@@ -3837,10 +3809,14 @@
    "id": "29_652",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 156]",
-     true
+     "I",
+     12,
+     [
+      [
+       129,
+       "[Page 156]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 015 - Occupational Safety and Health/§ 00652 - Definitions.md",
@@ -3857,7 +3833,7 @@
      16,
      [
       [
-       227,
+       113,
        "[Page 157]"
       ]
      ]
@@ -3882,17 +3858,21 @@
    "id": "29_655",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 158]",
-     true
+     "I",
+     10,
+     [
+      [
+       1205,
+       "[Page 158]"
+      ]
+     ]
     ],
     [
      "I",
      36,
      [
       [
-       226,
+       88,
        "[Page 159]"
       ]
      ]
@@ -3902,27 +3882,23 @@
      64,
      [
       [
-       141,
+       94,
        "[Page 160]"
       ]
      ]
     ],
     [
-     "I",
+     "L",
      130,
-     [
-      [
-       105,
-       "[Page 161]"
-      ]
-     ]
+     "[Page 161]",
+     true
     ],
     [
      "I",
      236,
      [
       [
-       456,
+       353,
        "[Page 162]"
       ]
      ]
@@ -3938,14 +3914,10 @@
    "id": "29_656",
    "marks": [
     [
-     "I",
+     "L",
      22,
-     [
-      [
-       95,
-       "[Page 163]"
-      ]
-     ]
+     "[Page 163]",
+     true
     ]
    ],
    "path": "Chapter 015 - Occupational Safety and Health/§ 00656 - Administration.md",
@@ -7278,7 +7250,7 @@
     ],
     [
      "L",
-     128,
+     126,
      "[Page 339]",
      true
     ]
@@ -7297,7 +7269,7 @@
      4,
      [
       [
-       1046,
+       760,
        "[Page 340]"
       ]
      ]
@@ -7317,33 +7289,33 @@
      22,
      [
       [
-       461,
+       190,
        "[Page 341]"
       ]
      ]
     ],
     [
-     "L",
-     60,
-     "[Page 342]",
-     true
-    ],
-    [
      "I",
-     94,
+     56,
      [
       [
-       135,
-       "[Page 343]"
+       1079,
+       "[Page 342]"
       ]
      ]
     ],
     [
+     "L",
+     86,
+     "[Page 343]",
+     true
+    ],
+    [
      "I",
-     156,
+     154,
      [
       [
-       144,
+       91,
        "[Page 344]"
       ]
      ]
@@ -7360,20 +7332,20 @@
    "marks": [
     [
      "I",
-     10,
+     8,
      [
       [
-       229,
+       235,
        "[Page 345]"
       ]
      ]
     ],
     [
      "I",
-     48,
+     46,
      [
       [
-       291,
+       388,
        "[Page 346]"
       ]
      ]
@@ -7390,10 +7362,10 @@
    "marks": [
     [
      "I",
-     16,
+     12,
      [
       [
-       95,
+       97,
        "[Page 347]"
       ]
      ]
@@ -7419,7 +7391,7 @@
    "marks": [
     [
      "L",
-     10,
+     6,
      "[Page 348]",
      true
     ]
@@ -7452,14 +7424,10 @@
    "id": "29_1030",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       104,
-       "[Page 349]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 349]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 001 - Reporting and Disclosure/§ 01030 - Alternative methods of compliance.md",
@@ -7490,10 +7458,14 @@
    "id": "29_1051",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 350]",
-     true
+     "I",
+     8,
+     [
+      [
+       191,
+       "[Page 350]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 002 - Participation and Vesting/§ 01051 - Coverage.md",
@@ -7507,17 +7479,17 @@
    "marks": [
     [
      "I",
-     18,
+     16,
      [
       [
-       90,
+       134,
        "[Page 351]"
       ]
      ]
     ],
     [
      "L",
-     90,
+     88,
      "[Page 352]",
      true
     ]
@@ -7532,39 +7504,47 @@
    "id": "29_1053",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 353]",
-     true
-    ],
-    [
-     "L",
-     82,
-     "[Page 354]",
-     true
-    ],
-    [
-     "L",
-     154,
-     "[Page 355]",
-     true
+     "I",
+     12,
+     [
+      [
+       95,
+       "[Page 353]"
+      ]
+     ]
     ],
     [
      "I",
-     230,
+     80,
      [
       [
-       104,
-       "[Page 356]"
+       89,
+       "[Page 354]"
       ]
      ]
+    ],
+    [
+     "I",
+     150,
+     [
+      [
+       181,
+       "[Page 355]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     230,
+     "[Page 356]",
+     true
     ],
     [
      "I",
      292,
      [
       [
-       334,
+       226,
        "[Page 357]"
       ]
      ]
@@ -7581,53 +7561,49 @@
    "marks": [
     [
      "I",
-     30,
+     28,
      [
       [
-       145,
+       97,
        "[Page 358]"
       ]
      ]
     ],
     [
      "I",
-     68,
+     66,
      [
       [
-       139,
+       284,
        "[Page 359]"
       ]
      ]
     ],
     [
      "I",
-     118,
+     116,
      [
       [
-       142,
+       279,
        "[Page 360]"
       ]
      ]
     ],
     [
-     "I",
-     172,
-     [
-      [
-       95,
-       "[Page 361]"
-      ]
-     ]
+     "L",
+     166,
+     "[Page 361]",
+     true
     ],
     [
      "L",
-     250,
+     248,
      "[Page 362]",
      true
     ],
     [
      "L",
-     328,
+     320,
      "[Page 363]",
      true
     ]
@@ -7643,38 +7619,38 @@
    "marks": [
     [
      "L",
-     10,
+     8,
      "[Page 364]",
      true
     ],
     [
      "L",
-     84,
+     78,
      "[Page 365]",
      true
     ],
     [
      "L",
-     152,
+     150,
      "[Page 366]",
      true
     ],
     [
      "I",
-     234,
+     232,
      [
       [
-       88,
+       97,
        "[Page 367]"
       ]
      ]
     ],
     [
      "I",
-     316,
+     314,
      [
       [
-       219,
+       272,
        "[Page 368]"
       ]
      ]
@@ -7684,7 +7660,7 @@
      390,
      [
       [
-       435,
+       107,
        "[Page 369]"
       ]
      ]
@@ -7704,32 +7680,36 @@
      32,
      [
       [
-       512,
+       228,
        "[Page 370]"
       ]
      ]
     ],
     [
-     "I",
+     "L",
      100,
+     "[Page 371]",
+     true
+    ],
+    [
+     "I",
+     160,
      [
       [
-       236,
-       "[Page 371]"
+       319,
+       "[Page 372]"
       ]
      ]
     ],
     [
-     "L",
-     164,
-     "[Page 372]",
-     true
-    ],
-    [
-     "L",
-     238,
-     "[Page 373]",
-     true
+     "I",
+     234,
+     [
+      [
+       111,
+       "[Page 373]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 002 - Participation and Vesting/§ 01056 - Form and payment of benefits.md",
@@ -8141,21 +8121,17 @@
    "id": "29_1104",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       140,
-       "[Page 402]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 402]",
+     true
     ],
     [
      "I",
-     88,
+     84,
      [
       [
-       104,
+       110,
        "[Page 403]"
       ]
      ]
@@ -8172,10 +8148,10 @@
    "marks": [
     [
      "I",
-     46,
+     42,
      [
       [
-       88,
+       281,
        "[Page 404]"
       ]
      ]
@@ -8200,20 +8176,28 @@
    "id": "29_1107",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 405]",
-     true
+     "I",
+     28,
+     [
+      [
+       138,
+       "[Page 405]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     84,
+     [
+      [
+       191,
+       "[Page 406]"
+      ]
+     ]
     ],
     [
      "L",
-     86,
-     "[Page 406]",
-     true
-    ],
-    [
-     "L",
-     142,
+     140,
      "[Page 407]",
      true
     ]
@@ -8232,26 +8216,26 @@
      4,
      [
       [
-       606,
+       330,
        "[Page 408]"
       ]
      ]
     ],
     [
      "L",
-     54,
+     52,
      "[Page 409]",
      true
     ],
     [
      "L",
-     118,
+     114,
      "[Page 410]",
      true
     ],
     [
      "L",
-     192,
+     188,
      "[Page 411]",
      true
     ]
@@ -8285,10 +8269,10 @@
    "marks": [
     [
      "I",
-     12,
+     10,
      [
       [
-       634,
+       93,
        "[Page 412]"
       ]
      ]
@@ -8298,7 +8282,7 @@
      52,
      [
       [
-       1028,
+       161,
        "[Page 413]"
       ]
      ]
@@ -8314,10 +8298,14 @@
    "id": "29_1112",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 414]",
-     true
+     "I",
+     26,
+     [
+      [
+       229,
+       "[Page 414]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 004 - Fiduciary Responsibility/§ 01112 - Bonding.md",
@@ -8340,7 +8328,7 @@
    "marks": [
     [
      "L",
-     18,
+     14,
      "[Page 415]",
      true
     ]
@@ -8374,41 +8362,41 @@
    "marks": [
     [
      "L",
-     24,
+     18,
      "[Page 416]",
      true
     ],
     [
      "I",
-     58,
+     52,
      [
       [
-       91,
+       325,
        "[Page 417]"
       ]
      ]
     ],
     [
      "L",
-     114,
+     106,
      "[Page 418]",
      true
     ],
     [
-     "I",
-     182,
-     [
-      [
-       167,
-       "[Page 419]"
-      ]
-     ]
+     "L",
+     172,
+     "[Page 419]",
+     true
     ],
     [
-     "L",
-     272,
-     "[Page 420]",
-     true
+     "I",
+     262,
+     [
+      [
+       495,
+       "[Page 420]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 005 - Administration and Enforcement/§ 01132 - Civil enforcement.md",
@@ -8439,21 +8427,17 @@
    "id": "29_1135",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       311,
-       "[Page 421]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 421]",
+     true
     ],
     [
      "I",
-     90,
+     82,
      [
       [
-       91,
+       162,
        "[Page 422]"
       ]
      ]
@@ -8478,10 +8462,14 @@
    "id": "29_1137",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 423]",
-     true
+     "I",
+     6,
+     [
+      [
+       88,
+       "[Page 423]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 005 - Administration and Enforcement/§ 01137 - Administration.md",
@@ -8521,10 +8509,14 @@
    "id": "29_1141",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 424]",
-     true
+     "I",
+     2,
+     [
+      [
+       149,
+       "[Page 424]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 005 - Administration and Enforcement/§ 01141 - Coercive interference.md",
@@ -8535,30 +8527,30 @@
   },
   {
    "id": "29_1142",
-   "marks": [],
-   "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 005 - Administration and Enforcement/§ 01142 - Advisory Council on Employee Welfare and Pension Benefit Plans.md",
-   "printed_pages": [
-    424,
-    424
-   ]
-  },
-  {
-   "id": "29_1143",
    "marks": [
     [
      "I",
-     4,
+     44,
      [
       [
-       89,
+       105,
        "[Page 425]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 005 - Administration and Enforcement/§ 01143 - Research, studies, and reports.md",
+   "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 005 - Administration and Enforcement/§ 01142 - Advisory Council on Employee Welfare and Pension Benefit Plans.md",
    "printed_pages": [
     424,
+    425
+   ]
+  },
+  {
+   "id": "29_1143",
+   "marks": [],
+   "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 005 - Administration and Enforcement/§ 01143 - Research, studies, and reports.md",
+   "printed_pages": [
+    425,
     425
    ]
   },
@@ -8576,26 +8568,22 @@
    "marks": [
     [
      "L",
-     12,
+     6,
      "[Page 426]",
      true
     ],
     [
-     "I",
-     60,
-     [
-      [
-       94,
-       "[Page 427]"
-      ]
-     ]
+     "L",
+     58,
+     "[Page 427]",
+     true
     ],
     [
      "I",
-     146,
+     142,
      [
       [
-       101,
+       104,
        "[Page 428]"
       ]
      ]
@@ -8621,7 +8609,7 @@
    "marks": [
     [
      "L",
-     62,
+     56,
      "[Page 429]",
      true
     ]
@@ -8636,17 +8624,21 @@
    "id": "29_1147",
    "marks": [
     [
-     "L",
-     60,
-     "[Page 430]",
-     true
+     "I",
+     56,
+     [
+      [
+       99,
+       "[Page 430]"
+      ]
+     ]
     ],
     [
      "I",
      138,
      [
       [
-       176,
+       91,
        "[Page 431]"
       ]
      ]
@@ -10970,20 +10962,20 @@
    "id": "29_1501",
    "marks": [
     [
-     "I",
-     30,
-     [
-      [
-       107,
-       "[Page 561]"
-      ]
-     ]
+     "L",
+     32,
+     "[Page 561]",
+     true
     ],
     [
-     "L",
+     "I",
      98,
-     "[Page 562]",
-     true
+     [
+      [
+       112,
+       "[Page 562]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 019 - Job Training Partnership/§ 01501 - Statement of purpose.md",
@@ -10996,10 +10988,14 @@
    "id": "29_1502",
    "marks": [
     [
-     "L",
+     "I",
      74,
-     "[Page 563]",
-     true
+     [
+      [
+       115,
+       "[Page 563]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 019 - Job Training Partnership/§ 01502 - Authorization of appropriations.md",
@@ -11012,16 +11008,24 @@
    "id": "29_1503",
    "marks": [
     [
-     "L",
+     "I",
      28,
-     "[Page 564]",
-     true
+     [
+      [
+       93,
+       "[Page 564]"
+      ]
+     ]
     ],
     [
-     "L",
+     "I",
      74,
-     "[Page 565]",
-     true
+     [
+      [
+       91,
+       "[Page 565]"
+      ]
+     ]
     ],
     [
      "L",
@@ -11999,10 +12003,14 @@
    "id": "29_1635",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 615]",
-     true
+     "I",
+     4,
+     [
+      [
+       105,
+       "[Page 615]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 019 - Job Training Partnership/Subchapter 002 (II) - Training Services for the Disadvantaged/Part B - Summer Youth Employment and Training Program/§ 01635 - Transfer of funds.md",
@@ -12034,19 +12042,23 @@
    "marks": [
     [
      "I",
-     44,
+     42,
      [
       [
-       229,
+       139,
        "[Page 616]"
       ]
      ]
     ],
     [
-     "L",
-     120,
-     "[Page 617]",
-     true
+     "I",
+     114,
+     [
+      [
+       98,
+       "[Page 617]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 019 - Job Training Partnership/Subchapter 002 (II) - Training Services for the Disadvantaged/Part C - Youth Training Program/§ 01642 - Allotment and allocation.md",
@@ -12060,10 +12072,10 @@
    "marks": [
     [
      "I",
-     78,
+     72,
      [
       [
-       183,
+       97,
        "[Page 618]"
       ]
      ]
@@ -12080,23 +12092,19 @@
    "marks": [
     [
      "I",
-     34,
+     18,
      [
       [
-       90,
+       181,
        "[Page 619]"
       ]
      ]
     ],
     [
-     "I",
-     130,
-     [
-      [
-       103,
-       "[Page 620]"
-      ]
-     ]
+     "L",
+     122,
+     "[Page 620]",
+     true
     ]
    ],
    "path": "Chapter 019 - Job Training Partnership/Subchapter 002 (II) - Training Services for the Disadvantaged/Part C - Youth Training Program/§ 01644 - Program design.md",
@@ -12109,21 +12117,17 @@
    "id": "29_1645",
    "marks": [
     [
-     "I",
-     22,
-     [
-      [
-       136,
-       "[Page 621]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 621]",
+     true
     ],
     [
      "I",
-     94,
+     84,
      [
       [
-       109,
+       107,
        "[Page 622]"
       ]
      ]
@@ -12158,7 +12162,7 @@
    "marks": [
     [
      "L",
-     44,
+     38,
      "[Page 623]",
      true
     ]
@@ -12173,14 +12177,10 @@
    "id": "29_1652",
    "marks": [
     [
-     "I",
-     38,
-     [
-      [
-       182,
-       "[Page 624]"
-      ]
-     ]
+     "L",
+     32,
+     "[Page 624]",
+     true
     ]
    ],
    "path": "Chapter 019 - Job Training Partnership/Subchapter 003 (III) - Employment and Training Assistance for Dislocated Workers/§ 01652 - Allotment.md",
@@ -12193,14 +12193,10 @@
    "id": "29_1653",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       136,
-       "[Page 625]"
-      ]
-     ]
+     "L",
+     30,
+     "[Page 625]",
+     true
     ]
    ],
    "path": "Chapter 019 - Job Training Partnership/Subchapter 003 (III) - Employment and Training Assistance for Dislocated Workers/§ 01653 - Recapture and reallotment of unexpended funds.md",
@@ -12223,10 +12219,10 @@
    "marks": [
     [
      "I",
-     44,
+     42,
      [
       [
-       97,
+       90,
        "[Page 626]"
       ]
      ]
@@ -12243,7 +12239,7 @@
    "marks": [
     [
      "L",
-     20,
+     14,
      "[Page 627]",
      true
     ]
@@ -12259,7 +12255,7 @@
    "marks": [
     [
      "L",
-     30,
+     24,
      "[Page 628]",
      true
     ]
@@ -12275,19 +12271,23 @@
    "marks": [
     [
      "I",
-     46,
+     42,
      [
       [
-       93,
+       191,
        "[Page 629]"
       ]
      ]
     ],
     [
-     "L",
-     142,
-     "[Page 630]",
-     true
+     "I",
+     134,
+     [
+      [
+       139,
+       "[Page 630]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 019 - Job Training Partnership/Subchapter 003 (III) - Employment and Training Assistance for Dislocated Workers/Part A - State Delivery of Services/§ 01661c - Use of funds; services to be provided.md",
@@ -12300,10 +12300,14 @@
    "id": "29_1661d",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 631]",
-     true
+     "I",
+     16,
+     [
+      [
+       236,
+       "[Page 631]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 019 - Job Training Partnership/Subchapter 003 (III) - Employment and Training Assistance for Dislocated Workers/Part A - State Delivery of Services/§ 01661d - Limitations on uses of funds.md",
@@ -12326,7 +12330,7 @@
    "marks": [
     [
      "L",
-     20,
+     16,
      "[Page 632]",
      true
     ]
@@ -12369,10 +12373,10 @@
    "marks": [
     [
      "I",
-     28,
+     24,
      [
       [
-       92,
+       552,
        "[Page 633]"
       ]
      ]
@@ -12397,14 +12401,10 @@
    "id": "29_1662d",
    "marks": [
     [
-     "I",
+     "L",
      18,
-     [
-      [
-       96,
-       "[Page 634]"
-      ]
-     ]
+     "[Page 634]",
+     true
     ]
    ],
    "path": "Chapter 019 - Job Training Partnership/Subchapter 003 (III) - Employment and Training Assistance for Dislocated Workers/Part B - Federal Responsibilities/§ 01662d - Defense conversion adjustment program.md",
@@ -15238,25 +15238,25 @@
    "marks": [
     [
      "L",
-     34,
+     28,
      "[Page 738]",
      true
     ],
     [
      "L",
-     136,
+     126,
      "[Page 739]",
      true
     ],
     [
      "L",
-     230,
+     226,
      "[Page 740]",
      true
     ],
     [
      "L",
-     314,
+     310,
      "[Page 741]",
      true
     ]
@@ -15299,17 +15299,17 @@
    "marks": [
     [
      "I",
-     14,
+     4,
      [
       [
-       90,
+       134,
        "[Page 742]"
       ]
      ]
     ],
     [
      "L",
-     102,
+     92,
      "[Page 743]",
      true
     ]
@@ -15324,14 +15324,18 @@
    "id": "29_2822",
    "marks": [
     [
-     "L",
-     44,
-     "[Page 744]",
-     true
+     "I",
+     38,
+     [
+      [
+       513,
+       "[Page 744]"
+      ]
+     ]
     ],
     [
      "L",
-     104,
+     100,
      "[Page 745]",
      true
     ]
@@ -15356,7 +15360,7 @@
    "marks": [
     [
      "L",
-     32,
+     22,
      "[Page 746]",
      true
     ],
@@ -15365,7 +15369,7 @@
      82,
      [
       [
-       675,
+       136,
        "[Page 747]"
       ]
      ]
@@ -15382,36 +15386,36 @@
    "marks": [
     [
      "L",
-     24,
+     16,
      "[Page 748]",
      true
     ],
     [
      "I",
-     102,
+     94,
      [
       [
-       94,
+       91,
        "[Page 749]"
       ]
      ]
     ],
     [
      "I",
-     182,
+     174,
      [
       [
-       93,
+       234,
        "[Page 750]"
       ]
      ]
     ],
     [
      "I",
-     268,
+     260,
      [
       [
-       97,
+       99,
        "[Page 751]"
       ]
      ]
@@ -15428,10 +15432,10 @@
    "marks": [
     [
      "I",
-     24,
+     22,
      [
       [
-       273,
+       95,
        "[Page 752]"
       ]
      ]
@@ -15456,55 +15460,67 @@
    "id": "29_2841",
    "marks": [
     [
-     "L",
-     44,
-     "[Page 753]",
-     true
+     "I",
+     36,
+     [
+      [
+       96,
+       "[Page 753]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     132,
+     [
+      [
+       185,
+       "[Page 754]"
+      ]
+     ]
     ],
     [
      "L",
-     138,
-     "[Page 754]",
+     188,
+     "[Page 755]",
      true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 002 (II) - Statewide and Local Workforce Investment Systems/Part C - Workforce Investment Activities Providers/§ 02841 - Establishment of one-stop delivery systems.md",
    "printed_pages": [
     752,
-    754
+    755
    ]
   },
   {
    "id": "29_2842",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 755]",
-     true
-    ],
-    [
      "I",
-     82,
+     72,
      [
       [
-       92,
+       137,
        "[Page 756]"
       ]
      ]
     ],
     [
-     "L",
-     148,
-     "[Page 757]",
-     true
+     "I",
+     142,
+     [
+      [
+       403,
+       "[Page 757]"
+      ]
+     ]
     ],
     [
      "I",
-     206,
+     196,
      [
       [
-       182,
+       283,
        "[Page 758]"
       ]
      ]
@@ -15512,7 +15528,7 @@
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 002 (II) - Statewide and Local Workforce Investment Systems/Part C - Workforce Investment Activities Providers/§ 02842 - Identification of eligible providers of training services.md",
    "printed_pages": [
-    754,
+    755,
     758
    ]
   },
@@ -15547,34 +15563,22 @@
    "id": "29_2852",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       141,
-       "[Page 759]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 759]",
+     true
     ],
     [
-     "I",
-     96,
-     [
-      [
-       176,
-       "[Page 760]"
-      ]
-     ]
+     "L",
+     88,
+     "[Page 760]",
+     true
     ],
     [
-     "I",
-     168,
-     [
-      [
-       184,
-       "[Page 761]"
-      ]
-     ]
+     "L",
+     160,
+     "[Page 761]",
+     true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 002 (II) - Statewide and Local Workforce Investment Systems/Part D - Youth Activities/§ 02852 - State allotments.md",
@@ -15587,12 +15591,18 @@
    "id": "29_2853",
    "marks": [
     [
+     "L",
+     26,
+     "[Page 762]",
+     true
+    ],
+    [
      "I",
-     34,
+     96,
      [
       [
-       360,
-       "[Page 762]"
+       94,
+       "[Page 763]"
       ]
      ]
     ]
@@ -15600,34 +15610,24 @@
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 002 (II) - Statewide and Local Workforce Investment Systems/Part D - Youth Activities/§ 02853 - Within State allocations.md",
    "printed_pages": [
     761,
-    762
+    763
    ]
   },
   {
    "id": "29_2854",
    "marks": [
     [
-     "I",
-     6,
-     [
-      [
-       91,
-       "[Page 763]"
-      ]
-     ]
-    ],
-    [
      "L",
-     86,
+     68,
      "[Page 764]",
      true
     ],
     [
      "I",
-     162,
+     158,
      [
       [
-       485,
+       185,
        "[Page 765]"
       ]
      ]
@@ -15635,7 +15635,7 @@
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 002 (II) - Statewide and Local Workforce Investment Systems/Part D - Youth Activities/§ 02854 - Use of funds for youth activities.md",
    "printed_pages": [
-    762,
+    763,
     765
    ]
   },
@@ -15661,23 +15661,31 @@
    "id": "29_2862",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 766]",
-     true
-    ],
-    [
-     "L",
-     106,
-     "[Page 767]",
-     true
+     "I",
+     24,
+     [
+      [
+       259,
+       "[Page 766]"
+      ]
+     ]
     ],
     [
      "I",
-     178,
+     92,
      [
       [
-       95,
+       366,
+       "[Page 767]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     170,
+     [
+      [
+       94,
        "[Page 768]"
       ]
      ]
@@ -15694,7 +15702,7 @@
    "marks": [
     [
      "L",
-     68,
+     58,
      "[Page 769]",
      true
     ]
@@ -15710,47 +15718,51 @@
    "marks": [
     [
      "L",
-     18,
+     8,
      "[Page 770]",
      true
     ],
     [
      "I",
-     84,
+     72,
      [
       [
-       100,
+       145,
        "[Page 771]"
       ]
      ]
     ],
     [
-     "L",
-     162,
-     "[Page 772]",
-     true
+     "I",
+     148,
+     [
+      [
+       222,
+       "[Page 772]"
+      ]
+     ]
     ],
     [
      "L",
-     234,
+     224,
      "[Page 773]",
      true
     ],
     [
-     "L",
-     314,
-     "[Page 774]",
-     true
-    ],
-    [
      "I",
-     384,
+     302,
      [
       [
-       164,
-       "[Page 775]"
+       314,
+       "[Page 774]"
       ]
      ]
+    ],
+    [
+     "L",
+     376,
+     "[Page 775]",
+     true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 002 (II) - Statewide and Local Workforce Investment Systems/Part E - Adult and Dislocated Worker Employment and Training Activities/§ 02864 - Use of funds for employment and training activities.md",
@@ -15772,37 +15784,33 @@
    "id": "29_2871",
    "marks": [
     [
-     "I",
-     58,
-     [
-      [
-       99,
-       "[Page 776]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     118,
-     [
-      [
-       99,
-       "[Page 777]"
-      ]
-     ]
+     "L",
+     44,
+     "[Page 776]",
+     true
     ],
     [
      "L",
-     174,
-     "[Page 778]",
+     106,
+     "[Page 777]",
      true
     ],
     [
      "I",
-     246,
+     168,
      [
       [
-       399,
+       93,
+       "[Page 778]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     240,
+     [
+      [
+       143,
        "[Page 779]"
       ]
      ]
@@ -15846,7 +15854,7 @@
    "marks": [
     [
      "L",
-     48,
+     36,
      "[Page 780]",
      true
     ]
@@ -15880,10 +15888,10 @@
    "marks": [
     [
      "I",
-     58,
+     50,
      [
       [
-       94,
+       190,
        "[Page 781]"
       ]
      ]
@@ -15909,10 +15917,10 @@
    "marks": [
     [
      "I",
-     18,
+     12,
      [
       [
-       539,
+       91,
        "[Page 782]"
       ]
      ]
@@ -15929,10 +15937,10 @@
    "marks": [
     [
      "I",
-     32,
+     20,
      [
       [
-       92,
+       183,
        "[Page 783]"
       ]
      ]
@@ -15955,26 +15963,26 @@
   },
   {
    "id": "29_2890",
-   "marks": [],
-   "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02890 - Support.md",
-   "printed_pages": [
-    783,
-    783
-   ]
-  },
-  {
-   "id": "29_2891",
    "marks": [
     [
      "L",
-     20,
+     22,
      "[Page 784]",
      true
     ]
    ],
-   "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02891 - Operating plan.md",
+   "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02890 - Support.md",
    "printed_pages": [
     783,
+    784
+   ]
+  },
+  {
+   "id": "29_2891",
+   "marks": [],
+   "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02891 - Operating plan.md",
+   "printed_pages": [
+    784,
     784
    ]
   },
@@ -16001,7 +16009,7 @@
    "marks": [
     [
      "L",
-     26,
+     12,
      "[Page 785]",
      true
     ]
@@ -16032,30 +16040,26 @@
   },
   {
    "id": "29_2897",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     28,
+     "[Page 786]",
+     true
+    ]
+   ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02897 - Application of provisions of Federal law.md",
    "printed_pages": [
     785,
-    785
+    786
    ]
   },
   {
    "id": "29_2898",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       89,
-       "[Page 786]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02898 - Special provisions.md",
    "printed_pages": [
-    785,
+    786,
     786
    ]
   },
@@ -16064,19 +16068,23 @@
    "marks": [
     [
      "I",
-     34,
+     24,
      [
       [
-       92,
+       94,
        "[Page 787]"
       ]
      ]
     ],
     [
-     "L",
-     120,
-     "[Page 788]",
-     true
+     "I",
+     106,
+     [
+      [
+       91,
+       "[Page 788]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02899 - Management information.md",
@@ -16117,26 +16125,22 @@
    "marks": [
     [
      "L",
-     26,
+     12,
      "[Page 789]",
      true
     ],
     [
-     "I",
-     112,
-     [
-      [
-       97,
-       "[Page 790]"
-      ]
-     ]
+     "L",
+     94,
+     "[Page 790]",
+     true
     ],
     [
      "I",
-     188,
+     174,
      [
       [
-       161,
+       95,
        "[Page 791]"
       ]
      ]
@@ -16153,10 +16157,10 @@
    "marks": [
     [
      "I",
-     50,
+     42,
      [
       [
-       85,
+       93,
        "[Page 792]"
       ]
      ]
@@ -16173,7 +16177,7 @@
    "marks": [
     [
      "L",
-     28,
+     12,
      "[Page 793]",
      true
     ]
@@ -16188,14 +16192,10 @@
    "id": "29_2914",
    "marks": [
     [
-     "I",
-     78,
-     [
-      [
-       89,
-       "[Page 794]"
-      ]
-     ]
+     "L",
+     62,
+     "[Page 794]",
+     true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 004 (IV) - National Programs/§ 02914 - Youth opportunity grants.md",
@@ -16208,10 +16208,14 @@
    "id": "29_2915",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 795]",
-     true
+     "I",
+     24,
+     [
+      [
+       97,
+       "[Page 795]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 004 (IV) - National Programs/§ 02915 - Technical assistance.md",
@@ -16224,20 +16228,20 @@
    "id": "29_2916",
    "marks": [
     [
-     "I",
-     82,
-     [
-      [
-       93,
-       "[Page 796]"
-      ]
-     ]
+     "L",
+     56,
+     "[Page 796]",
+     true
     ],
     [
-     "L",
-     150,
-     "[Page 797]",
-     true
+     "I",
+     138,
+     [
+      [
+       274,
+       "[Page 797]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 004 (IV) - National Programs/§ 02916 - Demonstration, pilot, multiservice, research, and multistate projects.md",
@@ -16248,46 +16252,54 @@
   },
   {
    "id": "29_2917",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     42,
+     [
+      [
+       92,
+       "[Page 798]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 004 (IV) - National Programs/§ 02917 - Evaluations.md",
    "printed_pages": [
     797,
-    797
+    798
    ]
   },
   {
    "id": "29_2918",
    "marks": [
     [
-     "I",
-     14,
-     [
-      [
-       91,
-       "[Page 798]"
-      ]
-     ]
-    ],
-    [
      "L",
-     94,
+     70,
      "[Page 799]",
      true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 004 (IV) - National Programs/§ 02918 - National emergency grants.md",
    "printed_pages": [
-    797,
+    798,
     799
    ]
   },
   {
    "id": "29_2919",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     28,
+     "[Page 800]",
+     true
+    ]
+   ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 004 (IV) - National Programs/§ 02919 - Authorization of appropriations.md",
    "printed_pages": [
     799,
-    799
+    800
    ]
   },
   {
@@ -16295,43 +16307,29 @@
    "marks": [],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/README.md",
    "printed_pages": [
-    799,
-    799
+    800,
+    800
    ]
   },
   {
    "id": "29_2931",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       95,
-       "[Page 800]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     82,
-     [
-      [
-       91,
-       "[Page 801]"
-      ]
-     ]
+     "L",
+     56,
+     "[Page 801]",
+     true
     ],
     [
      "L",
-     156,
+     136,
      "[Page 802]",
      true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02931 - Requirements and restrictions.md",
    "printed_pages": [
-    799,
+    800,
     802
    ]
   },
@@ -16346,11 +16344,18 @@
   },
   {
    "id": "29_2933",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 803]",
+     true
+    ]
+   ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02933 - Monitoring.md",
    "printed_pages": [
     802,
-    802
+    803
    ]
   },
   {
@@ -16358,25 +16363,25 @@
    "marks": [
     [
      "L",
-     24,
-     "[Page 803]",
+     98,
+     "[Page 804]",
      true
     ],
     [
      "I",
-     122,
+     152,
      [
       [
-       92,
-       "[Page 804]"
+       699,
+       "[Page 805]"
       ]
      ]
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02934 - Fiscal controls; sanctions.md",
    "printed_pages": [
-    802,
-    804
+    803,
+    805
    ]
   },
   {
@@ -16384,20 +16389,10 @@
    "marks": [
     [
      "I",
-     14,
+     74,
      [
       [
-       235,
-       "[Page 805]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     102,
-     [
-      [
-       92,
+       270,
        "[Page 806]"
       ]
      ]
@@ -16405,7 +16400,7 @@
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02935 - Reports; recordkeeping; investigations.md",
    "printed_pages": [
-    804,
+    805,
     806
    ]
   },
@@ -16422,10 +16417,14 @@
    "id": "29_2937",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 807]",
-     true
+     "I",
+     6,
+     [
+      [
+       242,
+       "[Page 807]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02937 - Judicial review.md",
@@ -16439,10 +16438,10 @@
    "marks": [
     [
      "I",
-     54,
+     34,
      [
       [
-       110,
+       529,
        "[Page 808]"
       ]
      ]
@@ -16459,11 +16458,21 @@
    "marks": [
     [
      "I",
-     52,
+     40,
      [
       [
-       378,
+       94,
        "[Page 809]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     96,
+     [
+      [
+       98,
+       "[Page 810]"
       ]
      ]
     ]
@@ -16471,27 +16480,23 @@
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02939 - Administrative provisions.md",
    "printed_pages": [
     808,
-    809
+    810
    ]
   },
   {
    "id": "29_2940",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       94,
-       "[Page 810]"
-      ]
-     ]
+     "L",
+     52,
+     "[Page 811]",
+     true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02940 - References.md",
    "printed_pages": [
-    809,
-    810
+    810,
+    811
    ]
   },
   {
@@ -16499,48 +16504,41 @@
    "marks": [],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02941 - State legislative authority.md",
    "printed_pages": [
-    810,
-    810
+    811,
+    811
    ]
   },
   {
    "id": "29_2942",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 811]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02942 - Workforce flexibility plans.md",
    "printed_pages": [
-    810,
+    811,
     811
    ]
   },
   {
    "id": "29_2943",
-   "marks": [],
-   "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02943 - Use of certain real property.md",
-   "printed_pages": [
-    811,
-    811
-   ]
-  },
-  {
-   "id": "29_2944",
    "marks": [
     [
      "L",
-     10,
+     12,
      "[Page 812]",
      true
     ]
    ],
-   "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02944 - Continuation of State activities and policies.md",
+   "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02943 - Use of certain real property.md",
    "printed_pages": [
     811,
+    812
+   ]
+  },
+  {
+   "id": "29_2944",
+   "marks": [],
+   "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02944 - Continuation of State activities and policies.md",
+   "printed_pages": [
+    812,
     812
    ]
   },
@@ -16548,10 +16546,14 @@
    "id": "29_2945",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 813]",
-     true
+     "I",
+     12,
+     [
+      [
+       96,
+       "[Page 813]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02945 - General program requirements.md",
@@ -16565,10 +16567,10 @@
    "marks": [
     [
      "I",
-     94,
+     53,
      [
       [
-       56,
+       57,
        "[Page 814]"
       ]
      ]
@@ -16584,16 +16586,24 @@
    "id": "29_3001",
    "marks": [
     [
-     "L",
-     50,
-     "[Page 815]",
-     true
+     "I",
+     44,
+     [
+      [
+       96,
+       "[Page 815]"
+      ]
+     ]
     ],
     [
-     "L",
-     108,
-     "[Page 816]",
-     true
+     "I",
+     88,
+     [
+      [
+       186,
+       "[Page 816]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/§ 03001 - Findings and purposes.md",
@@ -16607,23 +16617,19 @@
    "marks": [
     [
      "I",
-     60,
+     38,
      [
       [
-       141,
+       95,
        "[Page 817]"
       ]
      ]
     ],
     [
-     "I",
-     152,
-     [
-      [
-       133,
-       "[Page 818]"
-      ]
-     ]
+     "L",
+     120,
+     "[Page 818]",
+     true
     ]
    ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/§ 03002 - Definitions and rule.md",
@@ -16646,79 +16652,11 @@
    "marks": [
     [
      "I",
-     42,
+     16,
      [
       [
-       101,
+       137,
        "[Page 819]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     106,
-     "[Page 820]",
-     true
-    ],
-    [
-     "I",
-     162,
-     [
-      [
-       103,
-       "[Page 821]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     238,
-     "[Page 822]",
-     true
-    ],
-    [
-     "I",
-     328,
-     [
-      [
-       94,
-       "[Page 823]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/Subchapter 001 (I) - State Grant Programs/§ 03011 - Continuity grants for States that received funding for a limited period for technology-related assistance.md",
-   "printed_pages": [
-    818,
-    823
-   ]
-  },
-  {
-   "id": "29_3012",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 824]",
-     true
-    ]
-   ],
-   "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/Subchapter 001 (I) - State Grant Programs/§ 03012 - State grants for protection and advocacy related to assistive technology.md",
-   "printed_pages": [
-    823,
-    824
-   ]
-  },
-  {
-   "id": "29_3013",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       93,
-       "[Page 825]"
       ]
      ]
     ],
@@ -16727,7 +16665,79 @@
      86,
      [
       [
-       89,
+       104,
+       "[Page 820]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     150,
+     [
+      [
+       264,
+       "[Page 821]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     214,
+     [
+      [
+       311,
+       "[Page 822]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     298,
+     "[Page 823]",
+     true
+    ],
+    [
+     "L",
+     370,
+     "[Page 824]",
+     true
+    ]
+   ],
+   "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/Subchapter 001 (I) - State Grant Programs/§ 03011 - Continuity grants for States that received funding for a limited period for technology-related assistance.md",
+   "printed_pages": [
+    818,
+    824
+   ]
+  },
+  {
+   "id": "29_3012",
+   "marks": [
+    [
+     "I",
+     56,
+     [
+      [
+       94,
+       "[Page 825]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/Subchapter 001 (I) - State Grant Programs/§ 03012 - State grants for protection and advocacy related to assistive technology.md",
+   "printed_pages": [
+    824,
+    825
+   ]
+  },
+  {
+   "id": "29_3013",
+   "marks": [
+    [
+     "I",
+     62,
+     [
+      [
+       92,
        "[Page 826]"
       ]
      ]
@@ -16735,7 +16745,7 @@
    ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/Subchapter 001 (I) - State Grant Programs/§ 03013 - Administrative provisions.md",
    "printed_pages": [
-    824,
+    825,
     826
    ]
   },
@@ -16744,30 +16754,29 @@
    "marks": [
     [
      "L",
-     74,
+     46,
      "[Page 827]",
+     true
+    ],
+    [
+     "L",
+     122,
+     "[Page 828]",
      true
     ]
    ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/Subchapter 001 (I) - State Grant Programs/§ 03014 - Technical assistance program.md",
    "printed_pages": [
     826,
-    827
+    828
    ]
   },
   {
    "id": "29_3015",
-   "marks": [
-    [
-     "L",
-     26,
-     "[Page 828]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/Subchapter 001 (I) - State Grant Programs/§ 03015 - Authorization of appropriations.md",
    "printed_pages": [
-    827,
+    828,
     828
    ]
   },
@@ -16793,10 +16802,14 @@
    "id": "29_3032",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 829]",
-     true
+     "I",
+     12,
+     [
+      [
+       90,
+       "[Page 829]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/Subchapter 002 (II) - National Activities/§ 03032 - Technology transfer and universal design.md",
@@ -16837,7 +16850,7 @@
    "marks": [
     [
      "L",
-     36,
+     10,
      "[Page 830]",
      true
     ]
@@ -16880,7 +16893,7 @@
    "marks": [
     [
      "L",
-     42,
+     16,
      "[Page 831]",
      true
     ]
@@ -16902,26 +16915,26 @@
   },
   {
    "id": "29_3054",
-   "marks": [],
-   "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/Subchapter 003 (III) - Alternative Financing Mechanisms/§ 03054 - Contracts with community-based organizations.md",
-   "printed_pages": [
-    831,
-    831
-   ]
-  },
-  {
-   "id": "29_3055",
    "marks": [
     [
      "L",
-     8,
+     12,
      "[Page 832]",
      true
     ]
    ],
-   "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/Subchapter 003 (III) - Alternative Financing Mechanisms/§ 03055 - Grant administration requirements.md",
+   "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/Subchapter 003 (III) - Alternative Financing Mechanisms/§ 03054 - Contracts with community-based organizations.md",
    "printed_pages": [
     831,
+    832
+   ]
+  },
+  {
+   "id": "29_3055",
+   "marks": [],
+   "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/Subchapter 003 (III) - Alternative Financing Mechanisms/§ 03055 - Grant administration requirements.md",
+   "printed_pages": [
+    832,
     832
    ]
   },
@@ -16953,6 +16966,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1998-title29 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1999-title29 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 29 - Labor"
 }

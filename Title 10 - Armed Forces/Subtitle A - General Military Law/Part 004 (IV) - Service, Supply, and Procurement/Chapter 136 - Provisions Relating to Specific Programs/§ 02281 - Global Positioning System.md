@@ -28,7 +28,7 @@ Federal Radionavigation Plan.—The Secretary of Defense and the Secretary of Tr
 
 (d)
 
-Biennial Report.—(1) Not later than 30 days after the end of each even-numbered fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the Global Positioning System. The report shall include a discussion of the following matters:
+Biennial Report.—(1) Not later than 30 days after the end of each even-numbered fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the Global Positioning System. The report shall include a discussion of the following matters:
 
 &emsp;(A) The operational status of the system.
 
@@ -60,15 +60,15 @@ Definitions.—In this section:
 
 &emsp;(2) The term “GPS Standard Positioning Service” means the civil and commercial service provided by the basic Global Positioning System as defined in the 1996 Federal Radionavigation Plan (published jointly by the Secretary of Defense and the Secretary of Transportation in July 1997).
 
-(Added Pub. L. 105–85, div. A, title X, §1074(d)(1), Nov. 18, 1997, 111 Stat. 1909.)
+(Added Pub. L. 105–85, div. A, title X, §1074(d)(1), Nov. 18, 1997, 111 Stat. 1909; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### References in Text
 
 Section 507 of the International Maritime Satellite Telecommunications Act, referred to in subsec. (c), is section 507 of Pub. L. 87–624 which was classified to section 756 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, prior to repeal by Pub. L. 103–414, title III, §304(b)(5), Oct. 25, 1994, 108 Stat. 4298.
 
-#### Change of Name
+#### Amendments
 
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+1999—Subsec. (d)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
 #### Enhanced Global Positioning System Program
 

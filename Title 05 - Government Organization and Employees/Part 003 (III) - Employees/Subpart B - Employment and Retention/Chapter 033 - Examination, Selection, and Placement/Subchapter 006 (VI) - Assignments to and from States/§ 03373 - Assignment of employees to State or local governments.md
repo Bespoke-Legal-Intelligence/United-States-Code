@@ -8,7 +8,7 @@
 
 > An employee assigned either on detail or on leave without pay remains an employee of his agency. The Federal Tort Claims Act and any other Federal tort liability statute apply to an employee so assigned. The supervision of the duties of an employee on detail may be governed by agreement between the Federal agency and the State or local government concerned.
 
-(b) The assignment of an employee of a Federal agency either on detail or on leave without pay to a State or local government under this subchapter may be made with or without reimbursement by the State or local government forthe travel and transportation expenses to or from the place of assignment and for the pay, or supplemental pay, or a part thereof, of the employee during assignment. Any reimbursements shall be credited to the appropriation of the Federal agency used for paying the travel and transportation expenses or pay.
+(b) The assignment of an employee of a Federal agency either on detail or on leave without pay to a State or local government under this subchapter may be made with or without reimbursement by the State or local government for the travel and transportation expenses to or from the place of assignment and for the pay, or supplemental pay, or a part thereof, of the employee during assignment. Any reimbursements shall be credited to the appropriation of the Federal agency used for paying the travel and transportation expenses or pay.
 
 (c) For any employee so assigned and on leave without pay—
 

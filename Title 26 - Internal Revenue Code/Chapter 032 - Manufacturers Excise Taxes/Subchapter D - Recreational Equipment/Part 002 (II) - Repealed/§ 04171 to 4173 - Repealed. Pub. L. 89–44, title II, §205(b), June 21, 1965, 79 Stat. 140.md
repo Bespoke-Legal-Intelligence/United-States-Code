@@ -8,5 +8,5 @@ Section 4173, act Aug. 16, 1954, ch. 736, 68A Stat. 490, granted exemptions for 
 
 #### Effective Date of Repeal
 
-Repeal applicable with respect to articles sold on or after June 22, 1965, see section 701(a) of Pub. L. 84–44,set out as an Effective Date of 1965 Amendment note under section 4161 of this title.
+Repeal applicable with respect to articles sold on or after June 22, 1965, see section 701(a) of Pub. L. 84–44, set out as an Effective Date of 1965 Amendment note under section 4161 of this title.
 

@@ -6,7 +6,7 @@ As used in this chapter:
 
 &emsp;(2) The term “Federal Reclamation laws” means the Act of June 17, 1902 (32 Stat. 388) and Acts supplementary thereto and amendatory thereof.
 
-&emsp;(3) The term “Federal Reclamation project” means any project constructed or funded under Federal Reclamation law. Such term includes projects having approved loans underthe Small Reclamation Projects Act of 1956 (70 Stat. 1044) \[43 U.S.C. 422a et seq.\].
+&emsp;(3) The term “Federal Reclamation project” means any project constructed or funded under Federal Reclamation law. Such term includes projects having approved loans under the Small Reclamation Projects Act of 1956 (70 Stat. 1044) \[43 U.S.C. 422a et seq.\].
 
 (Pub. L. 102–250, §2, Mar. 5, 1992, 106 Stat. 53.)
 

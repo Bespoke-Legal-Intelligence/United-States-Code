@@ -12,7 +12,7 @@
 
 #### (b) Appointment and size
 
-Except as provided in subsection (c)(3) of this section, the members of a State Commission fora State shall be appointed by the chief executive officer of the State. A State Commission shall consist of not fewer than 15, and not more than 25, voting members, and any ex officio nonvoting members, as described in paragraph (3) or (4) of subsection (c) of this section.
+Except as provided in subsection (c)(3) of this section, the members of a State Commission for a State shall be appointed by the chief executive officer of the State. A State Commission shall consist of not fewer than 15, and not more than 25, voting members, and any ex officio nonvoting members, as described in paragraph (3) or (4) of subsection (c) of this section.
 
 #### (c) Composition and membership
 
@@ -94,7 +94,7 @@ Except as provided in subsection (c)(3) of this section, the members of a State 
 
 &emsp;&emsp;&emsp;(i) a grant application relating to such program is pending before the Commission (or such entity); and
 
-&emsp;&emsp;&emsp;(ii) the application was submitted by a program or entity of which such memberis, or in the 1-year period before the submission of such application was, an officer, director, trustee, full-time volunteer, or employee.
+&emsp;&emsp;&emsp;(ii) the application was submitted by a program or entity of which such member is, or in the 1-year period before the submission of such application was, an officer, director, trustee, full-time volunteer, or employee.
 
 #### (B) Exception
 
@@ -166,7 +166,7 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 #### (1) Submission to Corporation
 
-&emsp;The chief executive officer for a State shall notify the Corporation of the establishment or designation of the State Commission or use of an alternative administrative entity for the State. The notification shall include a description of—
+&emsp;The chief executive officer for a State shall notify the Corporation of the establishment or designation of the State Commission or use of an alternative administrative entity for theState. The notification shall include a description of—
 
 &emsp;&emsp;(A) the composition and membership of the State Commission or alternative administrative entity; and
 
@@ -236,7 +236,7 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 #### (B) Limitation
 
-&emsp;&emsp;This paragraph shall not be construed to limit personal liability for criminal acts or omissions, willful or malicious misconduct, acts or omissions for private gain, or any other act or omission outside the scope of the service of such member on the State Commission or alternative administrative entity.
+&emsp;&emsp;This paragraph shall not be construed to limit personal liability for criminal acts oromissions, willful or malicious misconduct, acts or omissions for private gain, or any other act or omission outside the scope of the service of such member on the State Commission or alternative administrative entity.
 
 #### (3) Effect on other law
 

@@ -122,9 +122,9 @@ In subsection (d), the words “United States” are substituted for “Governme
 
 In subsection (e), the words “head of the agency concerned or his designee” are substituted for “head of the department concerned, or such subordinates as he may designate”. The words “employee in a missing status” are substituted for “person entitled to receive or be credited with pay and allowances under section 2 of this Act” to conform to the definitions in section 5561(2) and (5). The words “United States” are substituted for “Government” to conform to the style of this title.
 
-In subsections (f) and (g), the words “employee in a missing status” are substituted for “person missing under the conditions specified in section 2 of this Act” to conform to the definitions in section 5561(2) and (5).
+In subsections (f) and (g), the words “employee in a missing status” are substituted for “person missingunder the conditions specified in section 2 of this Act” to conform to the definitions in section 5561(2) and (5).
 
-In subsection (h), the words “employee in a missing status” are substituted for “persons entitled under section 2 or 14 of this Act to receive pay and allowances”to conform to the definitions in section 5561(2) and (5). In paragraph (2), the words “heretofore or hereafter” are omitted as unnecessary.
+In subsection (h), the words “employee in a missing status” are substituted for “persons entitled under section 2 or 14 of this Act to receive pay and allowances” to conform to the definitions in section 5561(2) and (5). In paragraph (2), the words “heretofore or hereafter” are omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

@@ -10,7 +10,7 @@ The Administrator shall conduct a study of the feasibility of implementing the r
 
 &emsp;(1) whether the Federal Government or the Space Shuttle contractor should own the Space Shuttle orbiters and ground facilities;
 
-&emsp;(2) whether the Federal Government should indemnify the contractor for any third partyliability arising from Space Shuttle operations, and, if so, under what terms and conditions;
+&emsp;(2) whether the Federal Government should indemnify the contractor for any third party liability arising from Space Shuttle operations, and, if so, under what terms and conditions;
 
 &emsp;(3) whether payloads other than National Aeronautics and Space Administration payloads should be allowed to be launched on the Space Shuttle, how missions will be prioritized, and who will decide which mission flies and when;
 

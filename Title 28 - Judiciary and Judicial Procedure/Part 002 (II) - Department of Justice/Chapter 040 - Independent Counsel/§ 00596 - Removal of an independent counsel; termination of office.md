@@ -46,7 +46,7 @@ Audits.—(1) On or before June 30 of each year, an independent counsel shall pr
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–270, §5, substituted “physical or mental disability (if not prohibited by law protecting persons from discrimination on the basis of such a disability),” for “physical disability, mental incapacity”.
+1994—Subsec. (a)(1). Pub. L. 103–270, §5, substituted “physical or mental disability (if not prohibited by law protecting persons from discrimination on the basis ofsuch a disability),” for “physical disability, mental incapacity”.
 
 Subsec. (b)(2). Pub. L. 103–270, §3(h), inserted at end “If the Attorney General has not made a request under this paragraph, the division of the court shall determine on its own motion whether termination is appropriate under this paragraph no later than 2 years after the appointment of an independent counsel, at the end of the succeeding 2-year period, and thereafter at the end of each succeeding 1-year period.”
 

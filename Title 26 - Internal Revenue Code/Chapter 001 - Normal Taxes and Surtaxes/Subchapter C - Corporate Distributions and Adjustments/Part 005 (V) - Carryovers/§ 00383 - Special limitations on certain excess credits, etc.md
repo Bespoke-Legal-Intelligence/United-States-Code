@@ -86,7 +86,7 @@ Pub. L. 94–455, §806(f)(2), which substituted, in sections 383 as related to 
 
 Amendment by section 621(b) of Pub. L. 99–514 applicable to any ownership change after Dec. 31, 1986, except as otherwise provided, see section 621(f) of Pub. L. 99–514, as amended, set out as a note under section 382 of this title.
 
-Repeal of amendment by section 806(f)(1) of Pub. L. 94–455 effective Jan. 1, 1986, with certain exceptions, seesection 621(f)(2) of Pub. L. 99–514, set out as a note under section 382 of this title.
+Repeal of amendment by section 806(f)(1) of Pub. L. 94–455 effective Jan. 1, 1986, with certain exceptions, see section 621(f)(2) of Pub. L. 99–514, set out as a note under section 382 of this title.
 
 #### Effective Date of 1984 Amendment
 

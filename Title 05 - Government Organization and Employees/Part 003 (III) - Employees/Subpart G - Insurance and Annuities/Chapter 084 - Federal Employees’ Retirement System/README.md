@@ -39,10 +39,11 @@
 
 |  |  |
 | :--- | ---: |
-| \[8431. | Repealed.\] |
+| [8431\.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008431%20-%20Certain%20transfers%20to%20be%20treated%20as%20a%20separation.md) | Certain transfers to be treated as a separation. |
 | [8432\.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008432%20-%20Contributions.md) | Contributions. |
 | [8432a.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008432a%20-%20Payment%20of%20lost%20earnings.md) | Payment of lost earnings. |
 | [8432b.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008432b%20-%20Contributions%20of%20persons%20who%20perform%20military%20service.md) | Contributions of persons who perform military service. |
+| [8432c.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008432c%20-%20Contributions%20of%20certain%20persons%20reemployed%20after%20service%20with%20international%20organizations.md) | Contributions of certain persons reemployed after service with international organizations. |
 | [8433\.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008433%20-%20Benefits%20and%20election%20of%20benefits.md) | Benefits and election of benefits. |
 | [8434\.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008434%20-%20Annuities%20methods%20of%20payment%3B%20election%3B%20purchase.md) | Annuities: methods of payment; election; purchase. |
 | [8435\.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008435%20-%20Protections%20for%20spouses%20and%20former%20spouses.md) | Protections for spouses and former spouses. |
@@ -118,7 +119,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Contingent Amendment of Analysis
+
+<i>Pub. L. 106–65, div. A, title VI, §§661(a)(2)(B), 663, Oct. 5, 1999, 113 Stat. 671, 673, provided that effective only if the President proposes in the 2001 fiscal year budget and there is enacted in the second session of the One Hundred Sixth Congress qualifying offsetting legislation, the table of sections at the beginning of this chapter is amended by adding after the item relating to section 8440d the following: “8440e. Members of the uniformed services.”</i>
+
 #### Amendments
+
+1999—Pub. L. 106–168, title II, §203(a)(2), Dec. 12, 1999, 113 Stat. 1820, added item 8431.
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §334(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–441, added item 8432c.
 
 1998—Pub. L. 105–368, title V, §512(b)(2)(B), Nov. 11, 1998, 112 Stat. 3342, substituted “Judges of the United States Court of Appeals for Veterans Claims” for “Judges of the United States Court of Veterans Appeals” in item 8440d.
 
@@ -150,7 +159,7 @@ Pub. L. 100–238, title I, §124(a)(2), (b)(2), Jan. 8, 1988, 101 Stat. 1756, a
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2105, 3329, 5304, 5362, 5541, 5597, 5724, 8116, 8342, 8344, 8347, 8348, 8350, 8351, 8440a, 8440d, 8901 of this title; title 2 section 92; title 10 section 942; title 20 section 4416; title 22 sections 3649, 3658, 3664, 3673, 3951, 4067, 4069, 4071, 4071c, 4071d, 4071h; title 25 section 450i; title 26 sections 3121, 6103; title 28 sections 155, 178, 375, 376, 377, 611, 627, 636, 753, 797; title 31 section 772; title 38 sections 7297, 7438, 7453, 7458; title 39 section 1005; title 40 section 214d; title 42 sections 402, 410, 3035r, 7237, 10704; title 49 section 49107; title 50 sections 2021, 2151, 2152, 2153, 2154, 2155, 2157.
+This chapter is referred to in sections 2105, 3329, 5304, 5362, 5541, 5597, 5724, 8116, 8342, 8344, 8347, 8348, 8350, 8351, 8440a, 8440d, 8901 of this title; title 2 section 92; title 10 section 942; title 20 section 4416; title 22 sections 3649, 3658, 3664, 3673, 3951, 4009, 4064, 4067, 4069, 4071, 4071c, 4071d, 4071h; title 25 section 450i; title 26 sections 3121, 6103; title 28 sections 155, 178, 375, 376, 377, 611, 627, 636, 753, 797; title 31 section 772; title 38 sections 7297, 7438, 7453, 7458; title 39 section 1005; title 40 section 214d; title 42 sections 402, 410, 3035r, 7237, 10704; title 49 section 49107; title 50 sections 2021, 2151, 2152, 2153, 2154, 2155, 2157.
 
 
 ---

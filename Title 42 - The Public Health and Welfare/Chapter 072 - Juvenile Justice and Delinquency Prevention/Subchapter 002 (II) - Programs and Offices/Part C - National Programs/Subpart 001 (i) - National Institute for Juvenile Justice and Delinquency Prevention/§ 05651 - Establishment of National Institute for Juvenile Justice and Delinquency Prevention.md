@@ -86,7 +86,7 @@ Subsecs. (f), (g). Pub. L. 98–473, §631(d)(1), (2), added subsec. (f) and red
 
 Subsec. (h). Pub. L. 98–473, §631(d)(3), added subsec. (h).
 
-1980—Subsec. (b). Pub. L. 96–509, §19(j)(1), substituted “Administrator” for “Associate Administrator” and “Deputy Administrator” for “Deputy Associate Administrator”.
+1980—Subsec. (b). Pub. L. 96–509, §19(j)(1), substituted “Administrator” for “Associate Administrator” and“Deputy Administrator” for “Deputy Associate Administrator”.
 
 Subsec. (c). Pub. L. 96–509, §19(j)(2), substituted “National Institute of Justice” for “National Institute of Law Enforcement and Criminal Justice”.
 

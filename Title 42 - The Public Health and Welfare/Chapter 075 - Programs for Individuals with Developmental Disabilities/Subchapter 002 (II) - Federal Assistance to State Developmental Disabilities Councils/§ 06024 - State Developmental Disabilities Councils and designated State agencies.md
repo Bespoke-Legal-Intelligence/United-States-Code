@@ -58,7 +58,7 @@ A Council, through Council members, staff, consultants, contractors, or subgrant
 
 #### (2) Examination of priority areas
 
-&emsp;Not less than once every 3 years, the Council shall examine the provision of and need for the four Federal priority areas and an optional State priority area to address, on a statewide and comprehensive basis, urgent needs for services, supports, and other assistance for individuals with developmental disabilities and their families, pursuant to section 6022 of this title.
+&emsp;Not less than once every 3 years, the Council shall examine the provision of and need for the four Federal priority areas and an optional State priority area to address, on a statewide and comprehensive basis, urgent needs for services, supports, and other assistance for individuals with developmental disabilities andtheir families, pursuant to section 6022 of this title.
 
 #### (3) State plan development
 
@@ -184,7 +184,7 @@ A Council, through Council members, staff, consultants, contractors, or subgrant
 
 #### (ii) Criteria for continued designation
 
-&emsp;&emsp;&emsp;The determination at the discretion of the Governor (or legislature as the casemay be) shall be made after the Governor has considered the comments and recommendations of the general public and a majority of the non-State agency members of the Council with respect to the designation of such State agency, and after the Governor (or legislature as the case may be) has made an independent assessment that the designation of such agency shall not interfere with the budget, personnel, priorities, or other action of the Council, and the ability of the Council to serve as an advocate for individuals with developmental disabilities.
+&emsp;&emsp;&emsp;The determination at the discretion of the Governor (or legislature as the case may be) shall be made after the Governor has considered the comments and recommendations of the general public and a majority of the non-State agency members of the Council with respect to the designation of such State agency, and after the Governor (or legislature as the case may be) has made an independent assessment that the designation of such agency shall not interfere with the budget, personnel, priorities, or other action of the Council, and the ability of the Council to serve as an advocate for individuals with developmental disabilities.
 
 #### (C) Review of designation
 
@@ -246,7 +246,7 @@ Not later than January 1, 1990, each Council shall complete the reviews, analyse
 
 #### (1) Comprehensive review and analysis
 
-&emsp;Each Council shall conduct a comprehensive review and analysis of the eligibility for services provided, and the extent, scope, and effectiveness of, services provided and functions performed by, all State agencies (including agencies that provide public assistance) that affect or that potentially affect the ability of individuals with developmental disabilities to achieve the goals of independence, productivity, and integration and inclusion into thecommunity, including individuals with developmental disabilities attributable to physical impairment, mental impairment, or a combination of physical and mental impairments.
+&emsp;Each Council shall conduct a comprehensive review and analysis of the eligibility for services provided, and the extent, scope, and effectiveness of, services provided and functions performed by, all State agencies (including agencies that provide public assistance) that affect or that potentially affect the ability of individuals with developmental disabilities to achieve the goals of independence, productivity, and integration and inclusion into the community, including individuals with developmental disabilities attributable to physical impairment, mental impairment, or a combination of physical and mental impairments.
 
 #### (2) Consumer satisfaction
 
@@ -290,7 +290,7 @@ This chapter, referred to in subsec. (c)(6), (8)(B), (11)(B), was in the origina
 
 1990—Subsec. (a). Pub. L. 101–496, §12(1), substituted “to” for “which will” and inserted “by carrying out priority area activities” before period at end.
 
-Subsec. (c)(1). Pub. L. 101–496, §12(2), substituted “shall” for “may” and “fund all activities under this subchapter (except administrative costs described in section 6022(d)(1) of this title) and to hire” for “hire”.
+Subsec. (c)(1). Pub. L. 101–496, §12(2), substituted “shall” for “may” and “fund all activities under thissubchapter (except administrative costs described in section 6022(d)(1) of this title) and to hire” for “hire”.
 
 Subsec. (c)(2), (3). Pub. L. 101–496, §12(3), added par. (2) and redesignated former par. (2) as (3).
 
@@ -310,7 +310,7 @@ Amendment by Pub. L. 100–146 effective Oct. 1, 1987, see section 601 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1396u, 6001, 6022, 6025a, 6026 of this title; title 29 section 725.
+This section is referred to in sections 1320b–20, 1396u, 6001, 6022, 6025a, 6026 of this title; title 29 section 725.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

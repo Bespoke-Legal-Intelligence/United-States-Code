@@ -34,6 +34,8 @@ Historical and Revision Notes
 
 36:987.
 
+&nbsp;
+
 In this section, the text of 36:987 is omitted as executed and obsolete.
 
 In clause (1), the words “and alter” are omitted as unnecessary.

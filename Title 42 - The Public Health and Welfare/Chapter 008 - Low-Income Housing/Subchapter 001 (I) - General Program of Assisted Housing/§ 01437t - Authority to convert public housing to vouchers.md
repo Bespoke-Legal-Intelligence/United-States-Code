@@ -22,7 +22,7 @@ A public housing agency may convert any public housing project (or portion there
 
 #### (2) Timing
 
-&emsp;Not later than 2 years after the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, each public housing agency shall conduct an assessment under paragraph (1) or (3) of the status of each public housing project owned by such agency and shall submit to the Secretary such assessment. A public housing agency may otherwise undertake an assessment under thissubsection at any time and for any public housing project (or portion thereof) owned by the agency. A public housing agency may update a previously conducted assessment for a project (or portion thereof) for purposes of compliance with the one-year limitation under subsection (c) of this section.
+&emsp;Not later than 2 years after the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, each public housing agency shall conduct an assessment under paragraph (1) or (3) of the status of each public housing project owned by such agency and shall submit to the Secretary such assessment. A public housing agency may otherwise undertake an assessment under this subsection at any time and for any public housing project (or portion thereof) owned by the agency. A public housing agency may update a previously conducted assessment for a project (or portion thereof) for purposes of compliance with the one-year limitation under subsection (c) of this section.
 
 #### (3) Streamlined assessment
 

@@ -98,7 +98,7 @@ In this Compact:
 
 #### (15) National Identification Index
 
-&emsp;The term “National Identification Index” means an index maintained by the FBI consisting of names, identifying numbers, and other descriptive information relating to record subjects about whom there are criminal history records in the III System.
+&emsp;The term “National Identification Index” means an index maintained by the FBI consisting of names, identifying numbers, and other descriptive information relating torecord subjects about whom there are criminal history records in the III System.
 
 #### (16) National indices
 
@@ -110,7 +110,7 @@ In this Compact:
 
 #### (18) Noncriminal justice purposes
 
-&emsp;The term “noncriminal justice purposes” means uses of criminal history records for purposes authorized by Federal or State law otherthan purposes relating to criminal justice activities, including employment suitability, licensing determinations, immigration and naturalization matters, and national security clearances.
+&emsp;The term “noncriminal justice purposes” means uses of criminal history records for purposes authorized by Federal or State law other than purposes relating to criminal justice activities, including employment suitability, licensing determinations, immigration and naturalization matters, and national security clearances.
 
 #### (19) Party State
 
@@ -172,7 +172,7 @@ The Director of the FBI shall—
 
 &emsp;&emsp;(B) information from Party States that is available from the FBI through the III System, but is not available from the Party State through the III System;
 
-&emsp;(3) provide a telecommunications network and maintain centralized facilities for the exchange of criminal history records for both criminal justice purposes and the noncriminal justice purposes described in Article IV, and ensure that the exchange of such records for criminal justice purposes has priority over exchange for noncriminal justice purposes; and
+&emsp;(3) provide a telecommunications network and maintain centralized facilities for the exchange of criminal history records for both criminal justice purposes and the noncriminal justice purposes described in Article IV, and ensure that the exchange of such records forcriminal justice purposes has priority over exchange for noncriminal justice purposes; and
 
 &emsp;(4) modify or enter into user agreements with Nonparty State criminal history record repositories to require them to establish record request procedures conforming to those prescribed in Article V.
 
@@ -246,7 +246,7 @@ Each request for criminal history record checks utilizing the national indices m
 
 A State criminal history record repository or the FBI—
 
-&emsp;(1) may charge a fee, in accordance with applicable law, for handling a request involving fingerprint processing for noncriminal justice purposes; and
+&emsp;(1) may charge a fee, in accordance with applicable law, for handling a request involvingfingerprint processing for noncriminal justice purposes; and
 
 &emsp;(2) may not charge a fee for providing criminal history records in response to an electronic request for a record that does not involve a request to process fingerprints.
 
@@ -338,7 +338,7 @@ The Chairman may establish committees as necessary to carry out this Compact and
 
 ### ARTICLE VII—RATIFICATION OF COMPACT
 
-This Compact shall take effect upon being entered into by 2 or more States as between those States and the Federal Government. Upon subsequent entering into this Compact by additional States, it shall become effective among those States and the Federal Government andeach Party State that has previously ratified it. When ratified, this Compact shall have the full force and effect of law within the ratifying jurisdictions. The form of ratification shall be in accordance with the laws of the executing State.
+This Compact shall take effect upon being entered into by 2 or more States as between those States and the Federal Government. Upon subsequent entering into this Compact by additional States, it shall become effective among those States and the Federal Government and each Party State that has previously ratified it. When ratified, this Compact shall have the full force and effect of law within the ratifying jurisdictions. The form of ratification shall be in accordance with the laws of the executing State.
 
 ### ARTICLE VIII—MISCELLANEOUS PROVISIONS
 
@@ -404,7 +404,7 @@ The Privacy Act of 1974, referred to in Article IV(a), (b), is Pub. L. 93–579,
 
 The Federal Advisory Committee Act, referred to in Article VIII(a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973, referred to in Article VIII(c), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109, as amended. For complete classification of this Act to the Code, see Tables.
+The Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act,1973, referred to in Article VIII(c), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109, as amended. For complete classification of this Act to the Code, see Tables.
 
 #### Section Referred to in Other Sections
 

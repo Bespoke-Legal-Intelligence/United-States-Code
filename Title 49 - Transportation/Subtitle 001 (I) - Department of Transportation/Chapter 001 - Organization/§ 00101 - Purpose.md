@@ -54,6 +54,10 @@ In subsection (b)(6), the words “transportation objectives” are substituted 
 
 1991—Subsec. (b)(4). Pub. L. 102–240 inserted “, through research and development or otherwise” after “advances in transportation”.
 
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–159, §1(a), Dec. 9, 1999, 113 Stat. 1748, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Motor Carrier Safety Improvement Act of 1999’.”
+
 #### Short Title of 1995 Amendment
 
 Pub. L. 104–88, §1(a), Dec. 29, 1995, 109 Stat. 803, provided that: “This Act \[see Tables for classification\] may be cited as the ‘ICC Termination Act of 1995’.”
@@ -72,5 +76,7 @@ Section 2 of Pub. L. 102–240, which provided that it was the policy of the Uni
 
 #### “Secretary” Defined
 
-Section 3 of Pub. L. 102–240 provided that: “As used in this Act \[see Short Title of 1991 Amendment note set out above\], the term ‘Secretary’ means the Secretary of Transportation.”
+Pub. L. 106–159, §2, Dec. 9, 1999, 113 Stat. 1749, provided that: “In this Act \[see Tables for classification\], the term ‘Secretary’ means the Secretary of Transportation.”
+
+Section 3 of Pub. L. 102–240 provided that: “As used in this Act \[see Short Title of 1991 Amendment note setout above\], the term ‘Secretary’ means the Secretary of Transportation.”
 

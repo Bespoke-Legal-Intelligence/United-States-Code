@@ -1,6 +1,6 @@
 ### §2504. Annual report to Congress
 
-The Secretary of Defense shall transmit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives by March 1 of each year a report which shall include the following information:
+The Secretary of Defense shall transmit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives by March 1 of each year a report which shall include the following information:
 
 &emsp;(1) A description of the departmental guidance prepared pursuant to section 2506 of this title.
 
@@ -8,9 +8,9 @@ The Secretary of Defense shall transmit to the Committee on Armed Services of th
 
 &emsp;(3) A description of the assessments prepared pursuant to section 2505 of this title and other analyses used in developing the budget submission of the Department of Defense for the next fiscal year.
 
-&emsp;(4) Identification of each program designed to sustain specific essential technological andindustrial capabilities and processes of the national technology and industrial base.
+&emsp;(4) Identification of each program designed to sustain specific essential technological and industrial capabilities and processes of the national technology and industrial base.
 
-(Added Pub. L. 104–201, div. A, title VIII, §829(e), Sept. 23, 1996, 110 Stat. 2614.)
+(Added Pub. L. 104–201, div. A, title VIII, §829(e), Sept. 23, 1996, 110 Stat. 2614; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Prior Provisions
 
@@ -18,9 +18,9 @@ A prior section 2504, added Pub. L. 102–484, div. D, title XLII, §4214(a), Oc
 
 Another prior section 2504 was renumbered section 2531 of this title.
 
-#### Change of Name
+#### Amendments
 
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+1999—Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
 #### Section Referred to in Other Sections
 

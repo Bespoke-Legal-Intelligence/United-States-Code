@@ -18,7 +18,7 @@ Lease Payments Through Pay Allotments.—The Secretary may require members of th
 
 #### References in Text
 
-Section 403 of title 37, referred to in subsec. (b), was amended generally by Pub. L. 105–85, div. A, title VI, §603(a), Nov. 18, 1997, 111 Stat. 1775, and, as so amended, section 403 relates to basic allowance for housing and subsec. (b) of section 403 does not refer to quarters of the United States or housing facilities under the jurisdiction of a uniformed service.
+Section 403 of title 37, referred to in subsec. (b), was amended generally by Pub. L. 105–85, div. A, title VI, §603(a), Nov. 18, 1997, 111 Stat. 1775, and, as so amended, section 403 relates to basic allowance for housing andsubsec. (b) of section 403 does not refer to quarters of the United States or housing facilities under the jurisdiction of a uniformed service.
 
 Section 403a of title 37, referred to in subsec. (b)(2), was repealed by Pub. L. 105–85, div. A, title VI, §603(c)(1), Nov. 18, 1997, 111 Stat. 1781.
 

@@ -4,7 +4,7 @@
 
 (2) When the President, during time of war or threatened war, demands that preference and precedence be given to the transportation of troops and material of war over all other traffic, all rail carriers providing transportation subject to the jurisdiction of the Board under this part shall adopt every means within their control to facilitate and expedite the military traffic.
 
-(b) An embargo imposed by any such rail carrier does not apply to shipments consigned toagents of the United States Government for its use. The rail carrier shall deliver those shipments as promptly as possible.
+(b) An embargo imposed by any such rail carrier does not apply to shipments consigned to agents of the United States Government for its use. The rail carrier shall deliver those shipments as promptly as possible.
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 834.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Limitation on acquisition of lands and interests in lands
 
-There are hereby authorized to be appropriated such sums as may be necessary to carryout the purposes of this subchapter, but not more than $70,100,000 for the acquisition of lands and interests in lands.
+There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this subchapter, but not more than $70,100,000 for the acquisition of lands and interests in lands.
 
 #### (b) Development of plan; consultation with State; transmittal to Congressional committees; contents
 

@@ -14,7 +14,7 @@ Exemptions.—If necessary to carry out the objectives of paragraph (1), the Sec
 
 &emsp;(3)
 
-Assurance of access.—If the Secretary finds that an exemption under paragraph (2) would significantly increase operational delays, the Secretary shall take such action as may be necessary to ensure that an air carrier providing or selected to provide basic essential air service is able to obtain access to a high density airport; except that the Secretary shall not be required to make slots available at O'Hare International Airport in Chicago, Illinois, if the number of slots available for basic essential air service (including slots specifically designated as essential air service slots and slots used for such purposes) to and from such airport is at least 132 slots.
+Assurance of access.—If the Secretary finds that an exemption under paragraph (2) would significantly increase operational delays, the Secretary shall take such action as may be necessary to ensure that an air carrier providing or selected to provide basic essential air service is able to obtain access to a highdensity airport; except that the Secretary shall not be required to make slots available at O'Hare International Airport in Chicago, Illinois, if the number of slots available for basic essential air service (including slots specifically designated as essential air service slots and slots used for such purposes) to and from such airport is at least 132 slots.
 
 &emsp;(4)
 

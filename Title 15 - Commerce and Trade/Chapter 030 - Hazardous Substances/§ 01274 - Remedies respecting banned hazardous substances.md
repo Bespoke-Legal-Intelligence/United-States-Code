@@ -28,7 +28,7 @@ If any article or substance sold in commerce is defined as a banned hazardous su
 
 > &emsp;whichever first occurs).
 
-> An order under this subsection may also require the person to whom it applies to submit a plan, satisfactory to the Commission, for taking the action which such person has elected to take. The Commission shall specify in the order the persons to whom refunds must be made if the person to whom the order is directed elects to take the action described in paragraph (3). If an order under this subsection is directed to more than one person, the Commission shall specify which person has the election under this subsection. An order under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in generalnote 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, with respect to the article or substance with respect to which the order was issued.
+> An order under this subsection may also require the person to whom it applies to submit a plan, satisfactory to the Commission, for taking the action which such person has elected to take. The Commission shall specify in the order the persons to whom refunds must be made if the person to whom the order is directed elects to take the action described in paragraph (3). If an order under this subsection is directed to more than one person, the Commission shall specify which person has the election under this subsection. An order under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, with respect to the article or substance with respect to which the order was issued.
 
 #### (c) Discretionary remedial activities available to Commission; orders; contents
 
@@ -68,7 +68,7 @@ For purposes of this section (1) the term “manufacturer” includes an importe
 
 #### (g) Cost-benefit analysis of notification or other action not required
 
-Nothing in this section shall be construed to require the Commission, in determining that an article or substance distributed in commerce presents a substantial product hazard and thatnotification or other action under this section should be taken, to prepare a comparison of the costs that would be incurred in providing notification or taking other action under this section with the benefits from such notification or action.
+Nothing in this section shall be construed to require the Commission, in determining that an article or substance distributed in commerce presents a substantial product hazard and that notification or other action under this section should be taken, to prepare a comparison of the costs that would be incurred in providing notification or taking other action under this section with the benefits from such notification or action.
 
 (Pub. L. 86–613, §15, as added Pub. L. 91–113, §4(a), Nov. 6, 1969, 83 Stat. 189; amended Pub. L. 97–35, title XII, §1211(f)(1), Aug. 13, 1981, 95 Stat. 721; Pub. L. 97–414, §9(<i>l</i>), Jan. 4, 1983, 96 Stat. 2065; Pub. L. 98–491, §2, Oct. 17, 1984, 98 Stat. 2269; Pub. L. 100–418, title I, §1214(c), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, §111(b), Nov. 16, 1990, 104 Stat. 3114.)
 

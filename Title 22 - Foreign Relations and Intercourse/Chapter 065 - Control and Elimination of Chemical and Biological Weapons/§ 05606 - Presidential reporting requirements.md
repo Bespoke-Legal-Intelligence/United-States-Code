@@ -2,7 +2,7 @@
 
 #### (a) Reports to Congress
 
-Not later than 90 days after December 4, 1991, and every 12 months thereafter, the President shall transmit to the Congress a report which shall include—
+Not later than 90 days after December 4, 1991, and every 12 months thereafter, the Presidentshall transmit to the Congress a report which shall include—
 
 &emsp;(1) a description of the actions taken to carry out this chapter, including the amendments made by this chapter;
 

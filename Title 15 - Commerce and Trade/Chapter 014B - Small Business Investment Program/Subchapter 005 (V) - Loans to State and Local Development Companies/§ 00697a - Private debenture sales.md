@@ -50,5 +50,5 @@ Section 18008(b) of Pub. L. 99–272 provided that: “The Administration shall 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 697, 697d, 697e, 697f of this title.
+This section is referred to in sections 636, 697, 697d, 697e, 697f of this title.
 

@@ -15,10 +15,13 @@
 | [2110\.](%C2%A7%2002110%20-%20Logistical%20support.md) | Logistical support. |
 | [2111\.](%C2%A7%2002111%20-%20Personnel%20administrators%20and%20instructors.md) | Personnel: administrators and instructors. |
 | [2111a.](%C2%A7%2002111a%20-%20Support%20for%20senior%20military%20colleges.md) | Support for senior military colleges. |
+| [2111b.](%C2%A7%2002111b%20-%20Senior%20military%20colleges%20Department%20of%20Defense%20international%20student%20program.md) | Senior military colleges: Department of Defense international student program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title V, §541(a)(2), Oct. 5, 1999, 113 Stat. 606, added item 2111b.
 
 1997—Pub. L. 105–85, div. A, title V, §544(f)(2), Nov. 18, 1997, 111 Stat. 1746, substituted “Support for” for “Detail of officers to” in item 2111a.
 
@@ -54,3 +57,4 @@ This chapter is referred to in title 5 section 8140; title 37 section 209.
 - [&sect; 02110 - Logistical support](%C2%A7%2002110%20-%20Logistical%20support.md)
 - [&sect; 02111 - Personnel administrators and instructors](%C2%A7%2002111%20-%20Personnel%20administrators%20and%20instructors.md)
 - [&sect; 02111a - Support for senior military colleges](%C2%A7%2002111a%20-%20Support%20for%20senior%20military%20colleges.md)
+- [&sect; 02111b - Senior military colleges Department of Defense international student program](%C2%A7%2002111b%20-%20Senior%20military%20colleges%20Department%20of%20Defense%20international%20student%20program.md)

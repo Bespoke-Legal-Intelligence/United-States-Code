@@ -20,7 +20,7 @@ In carrying out subsection (a) of this section, the Secretary shall take into co
 
 #### (3) Ineligibility
 
-&emsp;A recipient described in paragraph (2) shall be ineligible for continued funding under thissection if the plan of the recipient fails to improve the rates within the 1-year period beginning on the date such plan is implemented.
+&emsp;A recipient described in paragraph (2) shall be ineligible for continued funding under this section if the plan of the recipient fails to improve the rates within the 1-year period beginning on the date such plan is implemented.
 
 (July 1, 1944, ch. 373, title VIII, §821, as added Pub. L. 105–392, title I, §123(4), Nov. 13, 1998, 112 Stat. 3568.)
 

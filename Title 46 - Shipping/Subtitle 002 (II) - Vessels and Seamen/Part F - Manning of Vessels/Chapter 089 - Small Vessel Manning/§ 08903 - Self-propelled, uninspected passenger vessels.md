@@ -1,6 +1,6 @@
 ### §8903. Self-propelled, uninspected passenger vessels
 
-A self-propelled, uninspected passenger vessel shall be operated by an individual licensed by the Secretary to operate that type of vessel, under prescribed regulations.
+A self-propelled, uninspected passenger vessel shall be operated by an individual licensed bythe Secretary to operate that type of vessel, under prescribed regulations.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 555; Pub. L. 99–307, §1(14)(B), (C), May 19, 1986, 100 Stat. 446.)
 

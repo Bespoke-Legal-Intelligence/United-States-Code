@@ -66,7 +66,7 @@ Section 2(e) of Pub. L. 102–291 provided that: “The following actions of the
 
 &emsp;“(1) A failure to reduce the disability rating of a veteran who began to engage in a substantially gainful occupation during that period.
 
-&emsp;“(2) The provision of a vocational training program (including related evaluations and other related services) to a veteran under section 1524 of title 38, UnitedStates Code, and the making of related determinations under that section.
+&emsp;“(2) The provision of a vocational training program (including related evaluations and other related services) to a veteran under section 1524 of title 38, United States Code, and the making of related determinations under that section.
 
 &emsp;“(3) The provision of health care and services to a veteran pursuant to section 1525 of title 38, United States Code.”
 

@@ -24,7 +24,7 @@ In carrying out the provisions of this section, the Administrator shall conduct,
 
 &emsp;(1) waste management methods applicable to point and nonpoint sources of pollutants to eliminate the discharge of pollutants, including, but not limited to, elimination of runoff of pollutants and the effects of pollutants from inplace or accumulated sources;
 
-&emsp;(2) advanced waste treatment methods applicable to point and nonpoint sources, including inplace or accumulated sources of pollutants, and methods for reclaiming and recyclingwater and confining pollutants so they will not migrate to cause water or other environmental pollution; and
+&emsp;(2) advanced waste treatment methods applicable to point and nonpoint sources, including inplace or accumulated sources of pollutants, and methods for reclaiming and recycling water and confining pollutants so they will not migrate to cause water or other environmental pollution; and
 
 &emsp;(3) improved methods and procedures to identify and measure the effects of pollutants on the chemical, physical, and biological integrity of water, including those pollutants created by new technological developments.
 
@@ -40,7 +40,7 @@ Federal grants under subsection (a) of this section shall be subject to the foll
 
 &emsp;(1) No grant shall be made for any project unless such project shall have been approved by the appropriate State water pollution control agency or agencies and by the Administrator;
 
-&emsp;(2) No grant shall be made for any project in an amount exceeding 75 per centum of cost thereof as determined by the Administrator; and
+&emsp;(2) No grant shall be made for any project in an amount exceeding 75 per centum of costthereof as determined by the Administrator; and
 
 &emsp;(3) No grant shall be made for any project unless the Administrator determines that such project will serve as a useful demonstration for the purpose set forth in clause (1) or (2) of subsection (a) of this section.
 

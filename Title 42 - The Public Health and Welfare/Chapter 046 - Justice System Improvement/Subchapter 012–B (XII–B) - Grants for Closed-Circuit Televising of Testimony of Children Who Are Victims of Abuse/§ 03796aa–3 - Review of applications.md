@@ -16,7 +16,7 @@ An applicant is eligible to receive a grant under this subchapter if—
 
 &emsp;&emsp;(D) the child witness must submit to cross-examination; and
 
-&emsp;&emsp;(E) the finder of fact must be permitted to observe the demeanor of the child witness inmaking his or her statement and the defendant must be able to contemporaneously communicate with his defense attorney; and
+&emsp;&emsp;(E) the finder of fact must be permitted to observe the demeanor of the child witness in making his or her statement and the defendant must be able to contemporaneously communicate with his defense attorney; and
 
 &emsp;(3) the Director determines that the application submitted under section 3796aa–1 of this title or amendment to such application is consistent with the requirements of this chapter.
 
@@ -47,4 +47,8 @@ Subsec. (a)(4). Pub. L. 103–322, §40156(c)(4)(A)(vi), struck out par. (4) whi
 Subsec. (b). Pub. L. 103–322, §40156(c)(4)(A)(vii), (viii), designated concluding provisions of subsec. (a) as subsec. (b) and substituted “the Director” for “the Bureau” wherever appearing. Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 103–322, §40156(c)(4)(B), redesignated subsec. (b), relating to reconsideration of applications, as (c) and substituted “The Director” for “The Bureau”.
+
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
 

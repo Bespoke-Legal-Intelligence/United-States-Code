@@ -70,7 +70,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 2. Transfer of Functions
 
-(a) Subject to subsection (c) of this section, there are hereby transferred to the Director (1) the functions vested in the Secretary of State by Title V of the United States Information and Educational Exchange Act of 1948, as amended \[22 U.S.C. 1461, 1462\], and so much of functions with respect to the interchange of books and periodicals and aid to libraries and community centers under sections 202 and 203 of the said Act \[22 U.S.C. 1447, 1448\] as is an integral part of information programs under that Act \[22 U.S.C. 1431–1479\], together with so much of the functions vested in the Secretary of State by other provisions of the said Act \[22 U.S.C. 1431–1479\] as is incidental to or is necessary for the performance of the functions under Title V and sections 202 and 203 transferred by this section, and (2) \[Superseded. Reorg. Plan No. 2 of 1977, §9(b), eff. Oct. 11, 1977, 42 F.R. 62461, 91 Stat. 1639. Paragraph related to functions of the Secretary of State with respect to information programs relating to Germany and Austria.\]
+(a) Subject to subsection (c) of this section, there are hereby transferred to the Director (1) the functionsvested in the Secretary of State by Title V of the United States Information and Educational Exchange Act of 1948, as amended \[22 U.S.C. 1461, 1462\], and so much of functions with respect to the interchange of books and periodicals and aid to libraries and community centers under sections 202 and 203 of the said Act \[22 U.S.C. 1447, 1448\] as is an integral part of information programs under that Act \[22 U.S.C. 1431–1479\], together with so much of the functions vested in the Secretary of State by other provisions of the said Act \[22 U.S.C. 1431–1479\] as is incidental to or is necessary for the performance of the functions under Title V and sections 202 and 203 transferred by this section, and (2) \[Superseded. Reorg. Plan No. 2 of 1977, §9(b), eff. Oct. 11, 1977, 42 F.R. 62461, 91 Stat. 1639. Paragraph related to functions of the Secretary of State with respect to information programs relating to Germany and Austria.\]
 
 (b) \[Superseded. Reorg. Plan No. 2 of 1977, §9(b), eff. Oct. 11, 1977, 42 F.R. 62461, 91 Stat. 1639. Subsection related to the transfer to the Director of functions vested in the Director for Mutual Security by the Mutual Security Act of 1951, as amended, act Oct. 10, 1951, ch. 479, 65 Stat. 373, which related to foreign information programs, as formerly provided for in section 1652 of this title.\]
 
@@ -112,7 +112,7 @@ The White House, June 1, 1953.
 
 #### <b>REORGANIZATION PLAN NO. 2 OF 1977</b>
 
-#### 42 F.R. 62461, 91 Stat. 1636, as amended Pub. L. 101–246, title II, §204(c), Feb. 16, 1990, 104 Stat. 50; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1334(b), 1336(6), Oct. 21, 1998, 112 Stat. 2681–786, 2681–790
+#### 42 F.R. 62461, 91 Stat. 1636, as amended Pub. L. 101–246, title II, §204(c), Feb. 16, 1990, 104 Stat. 50; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1334(b), 1336(6), Oct. 21, 1998, 112 Stat. 2681–786, 2681–790; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447
 
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, October 11, 1977,<sup>1</sup> pursuant to the provisions of chapter 9 of title 5 of the United States Code.<sup>2</sup>
 
@@ -190,7 +190,19 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 8. Establishment of the United States Advisory Commission on International Communication, Cultural, and Educational Affairs
 
-\[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334(b), Oct. 21, 1998, 112 Stat. 2681–786. Section provided for establishment and functions of United States Advisory Commission on International Communication, Cultural and Educational Affairs.\]
+(a) There is hereby established an advisory commission, to be known as the United States Advisory Commission on International Communication, Cultural and Educational Affairs (the “Commission”) \[the United States Advisory Commission on Public Diplomacy\]. The Commission shall consist of seven members who shall be appointed by the President, by and with the advice and consent of the Senate. The members of the Commission shall represent the public interest and shall be selected from the cross section of educational, communications, cultural, scientific, technical, public service, labor and business and professional backgrounds. Not more than four members shall be from any one political party. The term of each member shall be three years except that of the original seven appointments, two shall be for a term of one year and two shall be for a term of two years. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which a predecessor was appointed shall be appointed for the remainder of such term. Upon the expiration of a member's term of office, such member may continue to serve until a successor is appointed and has qualified. The President shall designate a member to chair the Commission.
+
+(b) The functions now vested in the United States Advisory Commission on Information and in the United States Advisory Commission on International Educational and Cultural Affairs under sections 601 through 603 and 801(6) of the United States Information and Educational Exchange Act of 1948, as amended (22 U.S.C. 1466–1468, 1471(6)), and under sections 106(b) and 107 of the Mutual Educational and Cultural Exchange Act of 1961, as amended (22 U.S.C. 2456(b), 2457), respectively, are hereby consolidated and vested in the Commission, as follows:
+
+The Commission shall formulate and recommend to the Director, the Secretary of State, and the President policies and programs to carry out the functions vested in the Director or the Agency, and shall appraise the effectiveness of policies and programs of the Agency. The Commission shall submit to the Congress, the President, the Secretary of State and the Director annual reports on programs and activities carried on by the Agency, including appraisals, where feasible, as to the effectiveness of the several programs. The Commission shall also include in such reports such recommendations as shall have been made by the Commission to the Director for effectuating the purposes of the Agency, and the action taken to carry out such recommendations. The Commission may also submit such other reports to the Congress as it deems appropriate, and shall make reports to the public in the United States and abroad to develop a better understanding of and support for the programs conducted by the Agency. The Commission's reports to the Congress shall include assessments of the degree to which the scholarly integrity and nonpolitical character of the educational and cultural exchange activities vested in the Director have been maintained, and assessments of the attitudes of foreign scholars and governments regarding such activities.
+
+(c) The Commission shall have no authority with respect to the J. William Fulbright Foreign ScholarshipBoard or the United States National Commission for UNESCO. \[As amended Pub. L. 101–246, title II, §204(c), Feb. 16, 1990, 104 Stat. 50; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334(b), Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a), (c)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447.\]
+
+\[The United States Advisory Commission on Public Diplomacy, established under section 8 of Reorganization Plan Numbered 2 of 1977, set out above, to continue to exist and operate until Oct. 1, 2001, see section 6553 of this title. Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(c)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that, effective Sept. 30, 2001, section 8 of Reorganization Plan Numbered 2 of 1977 is repealed.\]
+
+\[Any provisions of section 8 of Reorg. Plan No. 2 of 1977 inconsistent with 22 U.S.C. 1469 to no longer have legal effect on Jan. 20, 1989, and prohibition limiting membership of individuals from same political party is repealed, see 22 U.S.C. 1469(d).\]
+
+\[United States Advisory Commission on International Communication, Cultural and Educational Affairs was redesignated the United States Advisory Commission on Public Diplomacy by 22 U.S.C. 1469.\]
 
 #### Sec. 9. Abolitions and Supersessions
 
@@ -220,7 +232,7 @@ So much of the personnel, property, records, and unexpended balances of appropri
 
 This Reorganization Plan shall become effective at such time or times, on or before July 1, 1978, as the President shall specify, but not sooner than the earliest time allowable under section 906 of title 5 of the United States Code.
 
-\[Amendment to Reorganization Plan No. 2 of 1977 \[set out above\] by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.\]
+\[Amendment to Reorganization Plan No. 2 of 1977 \[set out above\] by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.\]
 
 \[Pursuant to Ex. Ord. No. 12048, set out below, this Reorg. Plan is effective July 1, 1978.\]
 
@@ -256,7 +268,7 @@ Thus the new agency will lay heavy emphasis on listening to others, so as to lea
 
 Several principles guided me in shaping this reorganization plan. Among the most important were:
 
-&emsp;—Maintaining the integrity of the educational and cultural exchange programs is imperative. To this end, the plan retains the Board of Foreign Scholarships, whose strong leadership has done so much to insure the high quality of the educational exchange program. In addition, I intend to nominate an Associate Director who will be responsible for the administration and supervision of educational and cultural functions consolidated in the new Agency. The responsibilities presently exercised by the Department of State in relation to the Center forTechnical and Cultural Interchange Between East and West, Inc., will be transferred to the new agency without alteration.
+&emsp;—Maintaining the integrity of the educational and cultural exchange programs is imperative. To this end, the plan retains the Board of Foreign Scholarships, whose strong leadership has done so much to insure the high quality of the educational exchange program. In addition, I intend to nominate an Associate Director who will be responsible for the administration and supervision of educational and cultural functions consolidated in the new Agency. The responsibilities presently exercised by the Department of State in relation to the Center for Technical and Cultural Interchange Between East and West, Inc., will be transferred to the new agency without alteration.
 
 &emsp;—Keeping the Voice of America's news gathering and reporting functions independent and objective. The Voice's charter, enacted into law in 1976, provides that “VOA news will be accurate, objective, and comprehensive”; that VOA will “present a balanced and comprehensive projection of significant American thought and institutions”; and that VOA will present U.S. policies “clearly and effectively, and will also present responsible discussion and opinion on these policies.” Under this Administration, VOA will be solely responsible for the content of news broadcasts—for there is no more valued coin than candor in the international marketplace of ideas. I also plan to nominate an Associate Director who will be responsible for the administration and supervision of the Voice of America.
 
@@ -292,7 +304,7 @@ By virtue of the authority vested in me by the Constitution and laws of the Unit
 
 Section 1. (a) Reorganization Plan No. 2 of 1977 (42 FR 62461), which establishes the International Communication Agency, except for Section 7(a)(14) thereof, is hereby effective.
 
-(b) Section 7(a)(14) of Reorganization Plan No. 2 of 1977, relating to the Woodrow Wilson Memorial Act of 1968 \[20 U.S.C. 80e et seq.\], shall be effective on July 1, 1978.
+(b) Section 7(a)(14) of Reorganization Plan No. 2 of 1977, relating to the Woodrow Wilson Memorial Act of1968 \[20 U.S.C. 80e et seq.\], shall be effective on July 1, 1978.
 
 Sec. 2. The functions vested in the Secretary of State by Executive Order No. 11312 are assigned and redelegated to the Director of the International Communication Agency. All authority vested in the United States Information Agency or its Director by Executive order is reassigned and redelegated to the International Communication Agency or its Director, respectively.
 
@@ -300,7 +312,7 @@ Sec. 3. In order to ensure appropriate coordination among the Executive agencies
 
 Sec. 4. The Director of the International Communication Agency, with the assistance of the Secretary of Education, shall prepare and submit to the President the reports which the President is to transmit to the Congress pursuant to Section 108(b) of the Mutual Educational and Cultural Exchange Act of 1961, as amended (22 U.S.C. 2458).
 
-Sec. 5. The functions vested in the President by Sections 108(c) and 108(d) of the Mutual Educational andCultural Exchange Act of 1961, as amended \[22 U.S.C. 2458(c) and (d)\], are delegated to the Director of the International Communication Agency; because, (a) such a delegation is in the interest of the purposes expressed in that Act and the efficient administration of the programs undertaken pursuant thereto, (b) the Director is an appropriate official to perform those functions, and (c) those functions are not now delegated to any other officer of the Government.
+Sec. 5. The functions vested in the President by Sections 108(c) and 108(d) of the Mutual Educational and Cultural Exchange Act of 1961, as amended \[22 U.S.C. 2458(c) and (d)\], are delegated to the Director of the International Communication Agency; because, (a) such a delegation is in the interest of the purposes expressed in that Act and the efficient administration of the programs undertaken pursuant thereto, (b) the Director is an appropriate official to perform those functions, and (c) those functions are not now delegated to any other officer of the Government.
 
 Sec. 6. The Director of the International Communication Agency shall be the principal adviser to the President, the National Security Council, and the Secretary of State on international informational, educational, and cultural matters. As such, the Director shall provide advice within the policy formulation activities of the National Security Council when such matters are considered. The Director shall ensure that the senior official of the Agency at each diplomatic mission provides advice to the Chief of Mission on such matters. The scope of the Director's advice shall include assessments of the impact of actual and proposed United States foreign policy decisions on public opinion abroad.
 
@@ -316,7 +328,7 @@ Sec. 10. In accord with the name change provisions of Section 303 of Public Law 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1461–1a, 1465bb of this title.
+This section is referred to in sections 1461–1a, 1465bb, 6552 of this title.
 
 <i><sup>1</sup></i><i> Actually transmitted Oct. 12, 1977.</i>
 

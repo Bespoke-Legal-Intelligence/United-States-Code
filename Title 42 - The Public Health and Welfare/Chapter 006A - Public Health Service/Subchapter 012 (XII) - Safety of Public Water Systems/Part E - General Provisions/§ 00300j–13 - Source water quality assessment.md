@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(C) Delineations or assessments of surface or ground water sources under a State pesticide management plan developed pursuant to the Pesticide and Ground Water State Management Plan Regulation (subparts I and J of part 152 of title 40, Code of Federal Regulations), promulgated under section 136a(d) of title 7.
 
-&emsp;&emsp;(D) Delineations or assessments of surface water sources under a State watershed initiative or to satisfy the watershed criterion for determining if filtration is required under the Surface Water Treatment Rule\(section 141.70 of title 40, Code of Federal Regulations).
+&emsp;&emsp;(D) Delineations or assessments of surface water sources under a State watershed initiative or to satisfy the watershed criterion for determining if filtration is required under the Surface Water Treatment Rule (section 141.70 of title 40, Code of Federal Regulations).
 
 &emsp;&emsp;(E) Delineations or assessments of surface or ground water sources under programs or plans pursuant to the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\].
 

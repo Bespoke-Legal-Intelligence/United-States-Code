@@ -30,7 +30,7 @@ Apportionment of costs.—No shipper may be charged more than half of the cost f
 
 &emsp;(6)
 
-Requests.—The carrier must not require the shipper to agree to utilize arbitration prior to the time that a dispute arises. If the dispute involves a claim for $1,000 or less and the shipper requests arbitration, such arbitration shall be binding on the parties. If the dispute involves a claim for more than $1,000 and the shipper requests arbitration, such arbitration shall be binding on the parties only if the carrier agrees to arbitration.
+Requests.—The carrier must not require the shipper to agree to utilize arbitration prior to the time that a dispute arises. If the dispute involves a claim for $5,000 or less and the shipper requests arbitration, such arbitration shall be binding on the parties. If the dispute involves a claim for more than $5,000 and the shipper requests arbitration, such arbitration shall be binding on the parties only if the carrier agrees to arbitration.
 
 &emsp;(7)
 
@@ -58,7 +58,7 @@ Attorney's Fees to Shippers.—In any court action to resolve a dispute between 
 
 (e)
 
-Attorney's Fees to Carriers.—In any court action to resolve a dispute between a shipper of household goods and a carrier providing transportation, or service subject to jurisdiction under subchapter I or III of chapter 135 concerning the transportation of household goods by such carrier, such carrier may be awarded reasonable attorney's fees by the court only if the shipper brought such action in bad faith—
+Attorney's Fees to Carriers.—In any court action to resolve a dispute between a shipper of household goods and a carrier providingtransportation, or service subject to jurisdiction under subchapter I or III of chapter 135 concerning the transportation of household goods by such carrier, such carrier may be awarded reasonable attorney's fees by the court only if the shipper brought such action in bad faith—
 
 &emsp;(1) after resolution of such dispute through arbitration under this section; or
 
@@ -76,13 +76,15 @@ Limitation of Applicability to Collect-on-Delivery Transportation.—The provisi
 
 Review by Secretary.—Not later than 18 months after January 1, 1996, the Secretary shall complete a review of the dispute settlement program established under this section. If, after notice and opportunity for comment, the Secretary determines that changes are necessary to such program to ensure the fair and equitable resolution of disputes under this section, the Secretary shall implement such changes and transmit a report to Congress on such changes.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 910; amended Pub. L. 104–287, §5(38), Oct. 11, 1996, 110 Stat. 3392.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 910; amended Pub. L. 104–287, §5(38), Oct. 11, 1996, 110 Stat. 3392; Pub. L. 106–159, title II, §209(b), Dec. 9, 1999, 113 Stat. 1764.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11711 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 #### Amendments
+
+1999—Subsec. (b)(6). Pub. L. 106–159 substituted “$5000” for “$1000” in two places.
 
 1996—Subsec. (g). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this section”.
 

@@ -34,7 +34,7 @@
 
 #### (1) Petition requirements
 
-&emsp;An antidumping proceeding shall be initiated whenever an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title files a petition with the administering authority, on behalf of an industry, which alleges the elements necessary for the imposition of the duty imposed by section 1673 of this title, and which is accompanied by information reasonably available to the petitioner supporting those allegations. The petition may be amended at such time, and upon such conditions, as the administering authority and the Commission may permit.
+&emsp;An antidumping proceeding shall be initiated whenever an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title files a petition with the administering authority, on behalf of an industry, which alleges the elements necessary for the imposition of the duty imposed by section 1673 of this title, and which is accompanied by information reasonably available to the petitioner supporting those allegations. The petition may be amended at suchtime, and upon such conditions, as the administering authority and the Commission may permit.
 
 #### (2) Simultaneous filing with Commission
 
@@ -106,11 +106,11 @@
 
 #### (ii) Producers who are importers
 
-&emsp;&emsp;&emsp;The administering authority may disregard the position of domestic producersof a domestic like product who are importers of the subject merchandise.
+&emsp;&emsp;&emsp;The administering authority may disregard the position of domestic producers of a domestic like product who are importers of the subject merchandise.
 
 #### (C) Special rule for regional industries
 
-&emsp;&emsp;If the petition alleges the industry is a regional industry, the administering authority shall determine whether the petition has been filed by or on behalf of the industry by applying subparagraph (A) on the basis of production in the region.
+&emsp;&emsp;If the petition alleges the industry is a regional industry, the administering authority shall determine whether the petition has been filed by or on behalf of the industry byapplying subparagraph (A) on the basis of production in the region.
 
 #### (D) Polling the industry
 
@@ -176,7 +176,7 @@ Subsec. (c). Pub. L. 103–465, §212(a)(2), amended heading and text of subsec.
 
 Subsec. (e). Pub. L. 103–465, §233(a)(5)(R), in concluding provisions, substituted “subject merchandise” for “class or kind of merchandise that is the subject of the investigation” in two places.
 
-Subsec. (e)(1). Pub. L. 103–465, §233(a)(5)(P), substituted “the subject merchandise” for “class or kindof the merchandise which is the subject of the investigation”.
+Subsec. (e)(1). Pub. L. 103–465, §233(a)(5)(P), substituted “the subject merchandise” for “class or kind of the merchandise which is the subject of the investigation”.
 
 Subsec. (e)(2). Pub. L. 103–465, §233(a)(5)(Q), substituted “subject merchandise” for “merchandise which is the subject of the investigation”.
 

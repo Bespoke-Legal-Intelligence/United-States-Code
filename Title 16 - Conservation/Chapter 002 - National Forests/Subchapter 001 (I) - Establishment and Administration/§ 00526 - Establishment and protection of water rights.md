@@ -66,7 +66,7 @@ Subjects to be studied.—The Task Force shall study and make recommendations on
 
 &emsp;&emsp;“(D) the effects of any of the recommendations made under this paragraph on existing State laws, regulations, and customs of water usage; and
 
-&emsp;&emsp;“(E) measures that would be useful in avoiding or resolving conflicts between the Forest Service's responsibilities for natural resource and environmental protection, the public interest, and the property rights and interests of water holders with special use permits for water facilities, including the study of the Federal acquisition of water rights, dispute resolution, mitigation, and compensation.
+&emsp;&emsp;“(E) measures that would be useful in avoiding or resolving conflicts between the Forest Service's responsibilities for natural resource and environmental protection, the public interest, and the property rights and interests of water holders with special use permits for water facilities, includingthe study of the Federal acquisition of water rights, dispute resolution, mitigation, and compensation.
 
 &emsp;“(4)
 

@@ -24,21 +24,11 @@ For purposes of applying this part with respect to a pension, profit-sharing, or
 
 &emsp;For purposes of applying paragraph (5) of section 401(a) with respect to an individual who is treated as an employee of an American employer under subsection (a)—
 
-&emsp;&emsp;(A) the total compensation of such individual shall be the remuneration paid to such individual by the foreign affiliate which would constitute his total compensation ifhis services had been performed for such American employer, and the basic or regular rate of compensation of such individual shall be determined under regulations prescribed by the Secretary; and
+&emsp;&emsp;(A) the total compensation of such individual shall be the remuneration paid to such individual by the foreign affiliate which would constitute his total compensation if his services had been performed for such American employer, and the basic or regular rate of compensation of such individual shall be determined under regulations prescribed by the Secretary; and
 
 &emsp;&emsp;(B) such individual shall be treated as having paid the amount paid by such American employer which is equivalent to the tax imposed by section 3101.
 
-#### (c) Termination of status as deemed employee not to be treated as separation from service for purposes of limitation of tax
-
-For purposes of applying section 402(d) with respect to an individual who is treated as an employee of an American employer under subsection (a), such individual shall not be considered as separated from the service of such American employer solely by reason of the fact that—
-
-&emsp;(1) the agreement entered into by such American employer under section 3121(<i>l</i>) which covers the employment of such individual is terminated under the provisions of such section,
-
-&emsp;(2) such individual becomes an employee of a foreign affiliate with respect to which such agreement does not apply,
-
-&emsp;(3) such individual ceases to be an employee of the foreign affiliate by reason of which he is treated as an employee of such American employer, if he becomes an employee of another entity in which such American employer has not less than a 10-percent interest (within the meaning of section 3121(<i>l</i>)(6)(B)), or
-
-&emsp;(4) the provision of the plan described in subsection (a)(2) is terminated.
+#### \[(c) Repealed. Pub. L. 104–188, title I, §1401(b)(7), Aug. 20, 1996, 110 Stat. 1789\]
 
 #### (d) Deductibility of contributions
 
@@ -60,15 +50,13 @@ An individual who is treated as an employee of an American employer under subsec
 
 &emsp;(2) Section 2039 (relating to annuities).
 
-(Added Pub. L. 88–272, title II, §220(a), Feb. 26, 1964, 78 Stat. 58; amended Pub. L. 91–172, title V, §515(c)(2), Dec. 30, 1969, 83 Stat. 645; Pub. L. 93–406, title II, §§1016(a)(4), 2005(c)(12), Sept. 2, 1974, 88 Stat. 929, 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title III, §321(c), (e)(2)(A)–(D)(i), Apr. 20, 1983, 97 Stat. 119, 120; Pub. L. 98–369, div. A, title IV, §491(d)(13)–(15), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title XI, §§1112(d)(3), 1114(b)(9)(A), (C), title XVIII, §1852(e)(2)(C), Oct. 22, 1986, 100 Stat. 2445, 2451, 2868; Pub. L. 100–647, title I, §1011A(b)(1)(C), (16), Nov. 10, 1988, 102 Stat. 3472, 3475; Pub. L. 101–239, title VII, §§7811(g)(3), 7831(f), title X, §10201(b)(1), (2), Dec. 19, 1989, 103 Stat. 2409, 2427, 2472; Pub. L. 102–318, title V, §521(b)(14), July 3, 1992, 106 Stat. 311; Pub. L. 104–188, title I, §§1401(b)(7), 1402(b)(2), Aug. 20, 1996, 110 Stat. 1789, 1790.)
-
-#### Repeal of Subsection (c)
-
-<i>Pub. L. 104–188, title I, §1401(b)(7), (c), Aug. 20, 1996, 110 Stat. 1789, provided that, applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, subsection (c) of this section is repealed.</i>
+(Added Pub. L. 88–272, title II, §220(a), Feb. 26, 1964, 78 Stat. 58; amended Pub. L. 91–172, title V, §515(c)(2), Dec. 30, 1969, 83 Stat. 645; Pub. L. 93–406, title II, §§1016(a)(4), 2005(c)(12), Sept. 2, 1974, 88 Stat. 929, 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title III, §321(c), (e)(2)(A)–(D)(i), Apr. 20, 1983, 97 Stat. 119, 120; Pub. L. 98–369, div. A, title IV, §491(d)(13)–(15), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title XI, §§1112(d)(3), 1114(b)(9)(A), (C), title XVIII, §1852(e)(2)(C), Oct. 22, 1986, 100 Stat. 2445, 2451, 2868; Pub. L. 100–647, title I, §1011A(b)(1)(C), (16), Nov. 10, 1988, 102 Stat. 3472, 3475; Pub. L. 101–239, title VII, §§7811(g)(3), 7831(f), title X, §10201(b)(1), (2), Dec. 19, 1989, 103 Stat. 2409, 2427, 2472; Pub. L. 102–318, title V, §521(b)(14), July 3, 1992, 106 Stat. 311; Pub. L.104–188, title I, §§1401(b)(7), 1402(b)(2), Aug. 20, 1996, 110 Stat. 1789, 1790.)
 
 #### Amendments
 
-1996—Subsec. (e)(2), (3). Pub. L. 104–188, §1402(b)(2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Section 101(b) (relating to employees’ death benefits).”
+1996—Subsec. (c). Pub. L. 104–188, §1401(b)(7), struck out subsec. (c) which related to treatment of termination of status as deemed employee.
+
+Subsec. (e)(2), (3). Pub. L. 104–188, §1402(b)(2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Section 101(b) (relating to employees’ death benefits).”
 
 1992—Subsec. (c). Pub. L. 102–318 substituted “402(d)” for “402(e)”.
 
@@ -92,7 +80,7 @@ Subsec. (b)(1)(B). Pub. L. 99–514, §1114(b)(9)(C), inserted “(as so defined
 
 Subsec. (e)(5). Pub. L. 99–514, §1852(e)(2)(C), struck out par. (5) which read as follows: “Section 2517 (relating to certain annuities under qualified plans).”
 
-1984—Subsec. (a). Pub. L. 98–369, §491(d)(13), substituted in introductory provision “or an annuity plandescribed in section 403(a)” for “, an annuity plan described in section 403(a), or a bond purchase plan described in section 405(a)”.
+1984—Subsec. (a). Pub. L. 98–369, §491(d)(13), substituted in introductory provision “or an annuity plan described in section 403(a)” for “, an annuity plan described in section 403(a), or a bond purchase plan described in section 405(a)”.
 
 Subsec. (a)(3). Pub. L. 98–369, §491(d)(14), substituted “or 403(a)” for “, 403(a), or 405(a)”.
 
@@ -142,7 +130,7 @@ Section 10201(c) of Pub. L. 101–239 provided that: “The amendments made by t
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to whichsuch amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -166,7 +154,7 @@ Section 321(f) of Pub. L. 98–21 provided that:
 
 “(2)(A) The amendments made by subsection (d) \[amending section 407 of this title\] shall apply to plans established after the date of the enactment of this Act \[Apr. 20, 1983\].
 
-“(B) At the election of any domestic parent corporation the amendments made by subsection (d) shall alsoapply to any plan established on or before the date of the enactment of this Act. Any such election shall be made at such time and in such manner as the Secretary may by regulations prescribe.”
+“(B) At the election of any domestic parent corporation the amendments made by subsection (d) shall also apply to any plan established on or before the date of the enactment of this Act. Any such election shall be made at such time and in such manner as the Secretary may by regulations prescribe.”
 
 #### Effective Date of 1974 Amendment
 

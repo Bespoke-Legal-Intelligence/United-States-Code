@@ -8,7 +8,7 @@
 
 &emsp;(3) solutions to long-term (the period beyond 10 years after submission of the plan or its annual revision) energy supply system and associated environmental problems.
 
-(b)(1) Based on the comprehensive energy research, development, and demonstration plan developed under subsection (a) of this section, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 \[42 U.S.C. 13522\], shall develop and transmit to the Congress, on or before June 30, 1975, a comprehensive nonnuclear energy research, development, and demonstration program to implement the nonnuclear research, development, and demonstration aspects of the comprehensive plan. Such program shall be updated and transmitted to the Congress annually as part of the report required under section 5914 of this title.
+(b)(1) Based on the comprehensive energy research, development, and demonstration plandeveloped under subsection (a) of this section, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 \[42 U.S.C. 13522\], shall develop and transmit to the Congress, on or before June 30, 1975, a comprehensive nonnuclear energy research, development, and demonstration program to implement the nonnuclear research, development, and demonstration aspects of the comprehensive plan. Such program shall be updated and transmitted to the Congress annually as part of the report required under section 5914 of this title.
 
 (2) This program shall be designed to achieve solutions to the energy supply and associated environmental problems in the immediate and short-term, middle-term, and long-term time intervals described in subsection (a)(1) through (3) of this section. In formulating the nonnuclear aspects of this program, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 \[42 U.S.C. 13522\], shall evaluate the economic, environmental, and technological merits of each aspect of the program.
 
@@ -62,7 +62,7 @@
 
 (c) Based upon the comprehensive plan developed under subsection (a) of this section, the Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992 \[42 U.S.C. 13522\], shall develop and transmit to the Congress, on or before September 1, 1978, a comprehensive environment and safety program to insure the full consideration and evaluation of all environmental, health, and safety impacts of each element, program, or initiative contained in the nuclear and nonnuclear energy research, development, and demonstration plans. Such program shall be updated and transmitted to the Congress annually as part of the report required under section 5914 of this title.
 
-(Pub. L. 93–577, §6, Dec. 31, 1974, 88 Stat. 1881; Pub. L. 95–91, title III, §301(a), title VII, §§703,707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 95–238, title II, §206(a), Feb. 25, 1978, 92 Stat. 61; Pub. L. 102–486, title XXIII, §2303(a), Oct. 24, 1992, 106 Stat. 3092.)
+(Pub. L. 93–577, §6, Dec. 31, 1974, 88 Stat. 1881; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 95–238, title II, §206(a), Feb. 25, 1978, 92 Stat. 61; Pub. L. 102–486, title XXIII, §2303(a), Oct. 24, 1992, 106 Stat. 3092.)
 
 #### References in Text
 

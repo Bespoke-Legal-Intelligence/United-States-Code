@@ -20,7 +20,7 @@ A State may submit to the Secretaries a request for a waiver of 1 or more requir
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the State does not make a determination to submit or not submit the request within the 30-day time period specified insubparagraph (A), the local partnership may submit the application to the Secretaries.
+&emsp;&emsp;&emsp;If the State does not make a determination to submit or not submit the request within the 30-day time period specified in subparagraph (A), the local partnership may submit the application to the Secretaries.
 
 #### (ii) Requirements
 

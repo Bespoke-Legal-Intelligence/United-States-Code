@@ -60,7 +60,7 @@ In subsection (d), the words “county or” are omitted as unnecessary because 
 
 “(b) A unit of general local government may not receive a payment for land for which payment under this chapter otherwise may be received if the land was owned or administered by a State or unit and was exempt from real estate taxes when the land was conveyed to the United States Government. This subsection does not apply to payments for land a State or unit acquires from a private party to donate to the Government within 8 years of acquisition, nor does this subsection apply to payments for lands in Utah acquired by the United States if at the time of such acquisition units, under applicable State law, were entitled to receive payments from the State for such lands, but in such case no payment under this chapter with respect to such acquired lands shall exceed the payment that would have been made under State law if such lands had not been acquired.
 
-“(c) A unit of general local government receiving payment for a fiscal year for land under the Act of August 28, 1937 (43 U.S.C. 1181a et seq.), or the Act of May24, 1939 (ch. 144, 53 Stat. 753), may not receive a payment under this chapter for the land for that fiscal year. This chapter does not apply to either Act.
+“(c) A unit of general local government receiving payment for a fiscal year for land under the Act of August 28, 1937 (43 U.S.C. 1181a et seq.), or the Act of May 24, 1939 (ch. 144, 53 Stat. 753), may not receive a payment under this chapter for the land for that fiscal year. This chapter does not apply to either Act.
 
 “(d) If the total payment to a unit of general local government for a fiscal year would be less than $100, the Secretary may not make the payment.”
 

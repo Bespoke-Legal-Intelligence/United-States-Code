@@ -16,7 +16,7 @@ The Congress finds that—
 
 &emsp;(6) imposition of mandatory standards applicable to arbitrators resolving arbitration disputes involving interstate compact agencies operating in the national capital area will ensure that wage increases are justified and do not exceed the ability of transit patrons and taxpayers to fund the increase; and
 
-&emsp;(7) Federal legislation is necessary under Article I of section 8 of the United States Constitution to balance the need to moderate and lower labor costs while maintaining industrial peace.
+&emsp;(7) Federal legislation is necessary under Article I of section 8 <sup>1</sup> of the United States Constitution to balance the need to moderate and lower labor costs while maintaining industrial peace.
 
 #### (b) Purpose
 
@@ -31,4 +31,6 @@ This chapter, referred to in subsec. (b), was in the original “this Act” and
 #### Short Title
 
 Section 401 of title IV of Pub. L. 104–50 provided that: “This title \[enacting this chapter\] may be cited as the ‘National Capital Area Interest Arbitration Standards Act of 1995’.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section 8 of article I”.</i>
 

@@ -104,7 +104,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (E) Conduct of assessment by interdisciplinary teams
 
-&emsp;&emsp;An assessment under subparagraph (A) and a review under subparagraph (D) must beconducted by an interdisciplinary team designated by the State. The Secretary shall permit a State to provide for assessments and reviews through teams under contracts—
+&emsp;&emsp;An assessment under subparagraph (A) and a review under subparagraph (D) must be conducted by an interdisciplinary team designated by the State. The Secretary shall permit a State to provide for assessments and reviews through teams under contracts—
 
 &emsp;&emsp;&emsp;(i) with public organizations; or
 
@@ -366,7 +366,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (A) In general
 
-&emsp;&emsp;If a State finds, on the basis of a review under subsection (i)(2) of this section or otherwise, that a provider of home or community care no longer meets the requirements of this section, the State may terminate the provider's participation under the State plan and may provide in addition for a civil money penalty. Nothing in this subparagraph shall be construed as restricting the remedies available to a State to remedy a provider's deficiencies. If the State finds that a provider meets such requirements but, as of a previous period, did not meet such requirements, the State may provide for a civil money penalty under paragraph\(2)(A) for the period during which it finds that the provider was not in compliance with such requirements.
+&emsp;&emsp;If a State finds, on the basis of a review under subsection (i)(2) of this section or otherwise, that a provider of home or community care no longer meets the requirements of this section, the State may terminate the provider's participation under the State plan and may provide in addition for a civil money penalty. Nothing in this subparagraph shall be construed as restricting the remedies available to a State to remedy a provider's deficiencies. If the State finds that a provider meets such requirements but, as of a previous period, did not meet such requirements, the State may provide for a civil money penalty under paragraph (2)(A) for the period during which it finds that the provider was not in compliance with such requirements.
 
 #### (B) Civil money penalty
 
@@ -390,7 +390,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (C) Civil money penalty
 
-&emsp;&emsp;If the Secretary finds on the basis of a review under subsection (i)(2) of this section or otherwise that a home or community care provider no longer meets the requirements of this section, the Secretary shall impose a civil money penalty in an amount not to exceed $10,000 for each day of noncompliance. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall specify criteria, as to when and how this remedy is to be applied and the amounts of any penalties. Such criteria shall be designed so as to minimize the time between the identification of violations and final imposition of the penalties and shall provide for the imposition of incrementally more severe penalties for repeated or uncorrected deficiencies.
+&emsp;&emsp;If the Secretary finds on the basis of a review under subsection (i)(2) of this section or otherwise that a home or community care provider no longer meets the requirements of this section, the Secretary shall impose acivil money penalty in an amount not to exceed $10,000 for each day of noncompliance. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall specify criteria, as to when and how this remedy is to be applied and the amounts of any penalties. Such criteria shall be designed so as to minimize the time between the identification of violations and final imposition of the penalties and shall provide for the imposition of incrementally more severe penalties for repeated or uncorrected deficiencies.
 
 #### (k) Secretarial responsibilities
 
@@ -400,7 +400,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 &emsp;&emsp;The Secretary shall publish, by December 1, 1991, a proposed regulation that sets forth interim requirements, consistent with subparagraph (B), for the provision of home and community care and for community care settings, including—
 
-&emsp;&emsp;&emsp;(i) the requirements of subsection (c)(2) of this section (relating to comprehensive functional assessments, including the use of assessment instruments), of subsection (d)(2)(E) of this section (relating to qualifications for qualified case managers), of subsection (f) of this section (relating to minimum requirements for home and community care), of subsection (g) of this section (relating to minimum requirements for small community care settings), and of subsection (h) of this section (relating to minimum requirements for large community care settings,<sup>2</sup> and
+&emsp;&emsp;&emsp;(i) the requirements of subsection (c)(2) of this section (relating to comprehensive functional assessments, including the use of assessment instruments), of subsection (d)(2)(E) of this section (relating to qualifications for qualified case managers), of subsection (f) of this section (relating to minimum requirements for home and community care), of subsection (g) of this section (relating to minimum requirements for small community care settings), and of subsection (h) of this section (relating to minimum requirements for large community care settings), and
 
 &emsp;&emsp;&emsp;(ii) survey protocols (for use under subsection (i)(3)(A) of this section) which relate to such requirements.
 
@@ -412,7 +412,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 &emsp;The Secretary shall develop, by not later than October 1, 1992—
 
-&emsp;&emsp;(A) final requirements, consistent with paragraph (1)(B), respecting the provision of appropriate, quality home and communitycare and respecting community care settings under this section, and including at least the requirements referred to in paragraph (1)(A)(i), and
+&emsp;&emsp;(A) final requirements, consistent with paragraph (1)(B), respecting the provision of appropriate, quality home and community care and respecting community care settings under this section, and including at least the requirements referred to in paragraph (1)(A)(i), and
 
 &emsp;&emsp;(B) survey protocols and methods for evaluating and assuring the quality of community care settings.
 
@@ -426,9 +426,9 @@ In this subchapter, the term “home and community care” means one or more of 
 
 &emsp;Nothing in this section shall be construed as preventing States from imposing requirements that are more stringent than the requirements published or developed by the Secretary under this subsection.
 
-#### (<i>l</i>) Waiver of statewideness
+#### (<i>l</i>) Waiver of Statewideness
 
-States may waive the requirement of section 1396a(a)(1) of this title (related to State wideness) <sup>3</sup> for a program of home and community care under this section.
+States may waive the requirement of section 1396a(a)(1) of this title (related to Statewideness) for a program of home and community care under this section.
 
 #### (m) Limitation on amount of expenditures as medical assistance
 
@@ -448,11 +448,19 @@ States may waive the requirement of section 1396a(a)(1) of this title (related t
 
 &emsp;The Secretary shall establish a limitation on the amount of Federal medical assistance available to any State during the State's election period under paragraph (2). The limitation under this paragraph shall take into account the limitation under paragraph (1) and the number of elderly individuals age 65 or over residing in such State in relation to the number of such elderly individuals in the United States during 1990. For purposes of the previous sentence, elderly individuals shall, to the maximum extent practicable, be low-income elderly individuals.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1929, as added Pub. L. 101–508, title IV, §4711(b), Nov. 5, 1990, 104 Stat. 1388–174.)
+(Aug. 14, 1935, ch. 531, title XIX, §1929, as added Pub. L. 101–508, title IV, §4711(b), Nov. 5, 1990, 104 Stat. 1388–174; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(v)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398.)
 
 #### Codification
 
 Pub. L. 101–508, title IV, §4711(b)(1), Nov. 5, 1990, 104 Stat. 1388–174, which directed renumbering of section 1929 of the Social Security Act, act Aug. 14, 1935, as section 1930, could not be executed because there was no section 1929.
+
+#### Amendments
+
+1999—Subsec. (c)(2)(E)(i), (ii). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(v)(1)\], realigned margins.
+
+Subsec. (k)(1)(A)(i). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(v)(2)\], substituted “large community care settings),” for “large community care settings,”.
+
+Subsec. (<i>l</i>). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(v)(3)\], substituted “Statewideness” for “State wideness”.
 
 #### Effective Date
 
@@ -463,8 +471,4 @@ Section applicable to home and community care furnished on or after July 1, 1991
 This section is referred to in section 1396d of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “settings),”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “statewideness)”.</i>
 

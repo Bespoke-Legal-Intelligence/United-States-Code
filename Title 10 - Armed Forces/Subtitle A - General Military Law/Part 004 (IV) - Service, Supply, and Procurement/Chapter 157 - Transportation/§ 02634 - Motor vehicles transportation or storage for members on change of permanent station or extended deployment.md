@@ -86,7 +86,7 @@ Pub. L. 105–261, div. A, title VI, §653(e), Oct. 17, 1998, 112 Stat. 2052, pr
 
 “(1) Reimbursement for motor vehicle rental expenses may not be provided under the amendments made by this section \[amending this section and sections 405a, 406, and 554 of Title 37, Pay and Allowances of the Uniformed Services\] until after the date on which the Secretary of Defense submits to Congress a report containing a certification that the Department of Defense has in place and operational a system to recover the cost of providing such reimbursement from commercial carriers that are responsible for the delay in the delivery of the motor vehicles of members of the Armed Forces and their dependents. The Secretary of Defense shall prepare the report in consultation with the Secretary of Transportation, with respect to the Coast Guard.
 
-“(2) The amendments shall apply with respect to rental expenses described in such amendments that are incurred on or after the date of the submission of the report. The report shall be submitted not later than six months after the date of the enactment of this Act \[Oct. 17, 1998\] and shall include, in addition to the certification, a description of the system to be used to recover from commercial carriers the costs incurred under such amendments.”
+“(2) The amendments shall apply with respect to rental expenses described in such amendments that are incurred on or after the date of the submission of the report. The report shall be submitted not later than six months after the date of the enactment of this Act\[Oct. 17, 1998\] and shall include, in addition to the certification, a description of the system to be used to recover from commercial carriers the costs incurred under such amendments.”
 
 #### Effective Date of 1996 Amendment
 
@@ -94,7 +94,7 @@ Section 368(c) of Pub. L. 104–201 provided that: “The amendments made by thi
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–661, applicable with respect to members whose dependents are unable to accompanythem to an overseas permanent duty station because of circumstances arising on or after Nov. 14, 1986, see section 620(c)(2) of Pub. L. 99–661, set out as a note under section 406 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 99–661, applicable with respect to members whose dependents are unable to accompany them to an overseas permanent duty station because of circumstances arising on or after Nov. 14, 1986, see section 620(c)(2) of Pub. L. 99–661, set out as a note under section 406 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1965 Amendment; Reimbursement of Expenses
 

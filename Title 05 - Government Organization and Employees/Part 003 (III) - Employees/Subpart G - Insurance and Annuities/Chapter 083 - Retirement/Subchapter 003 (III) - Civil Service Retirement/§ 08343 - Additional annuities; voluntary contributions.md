@@ -52,7 +52,7 @@ This section amends 5 U.S.C. 8343(a)(1) for consistency within the subchapter an
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–253 effective with respect to deposits for service performed, on or after Oct. 1,1982, and with respect to refunds for which application is received by Office of Personnel Management on or after Oct. 1, 1982, see section 303(d)(1) of Pub. L. 97–253, as amended by Pub. L. 97–346, §3(j)(1), Oct. 15, 1982, 96 Stat. 1649, set out as a note under section 8334 of this title.
+Amendment by Pub. L. 97–253 effective with respect to deposits for service performed, on or after Oct. 1, 1982, and with respect to refunds for which application is received by Office of Personnel Management on or after Oct. 1, 1982, see section 303(d)(1) of Pub. L. 97–253, as amended by Pub. L. 97–346, §3(j)(1), Oct. 15, 1982, 96 Stat. 1649, set out as a note under section 8334 of this title.
 
 #### Effective Date of 1978 Amendment
 

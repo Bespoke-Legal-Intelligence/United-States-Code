@@ -38,7 +38,7 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 (2) For each calendar quarter beginning with the first complete calendar quarter following June 22, 1974, the Federal Energy Administrator shall develop and publish a report containing the following energy information:
 
-&emsp;(A) Imports of crude oil, residual fuel oil, refined petroleum products (by product), naturalgas, and coal, identifying (with respect to each such oil, product, gas, or coal) country of origin, arrival point, quantity received, and the geographic distribution within the United States.
+&emsp;(A) Imports of crude oil, residual fuel oil, refined petroleum products (by product), natural gas, and coal, identifying (with respect to each such oil, product, gas, or coal) country of origin, arrival point, quantity received, and the geographic distribution within the United States.
 
 &emsp;(B) Domestic reserves and production of crude oil, natural gas, and coal.
 

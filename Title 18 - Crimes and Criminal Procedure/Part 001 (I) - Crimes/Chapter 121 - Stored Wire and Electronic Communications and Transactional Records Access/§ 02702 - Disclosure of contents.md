@@ -20,7 +20,7 @@ Exceptions.—A person or entity may divulge the contents of a communication—
 
 &emsp;(2) as otherwise authorized in section 2517, 2511(2)(a), or 2703 of this title;
 
-&emsp;(3) with the lawful consent of the originator or an addressee or intended recipient of suchcommunication, or the subscriber in the case of remote computing service;
+&emsp;(3) with the lawful consent of the originator or an addressee or intended recipient of such communication, or the subscriber in the case of remote computing service;
 
 &emsp;(4) to a person employed or authorized or whose facilities are used to forward such communication to its destination;
 

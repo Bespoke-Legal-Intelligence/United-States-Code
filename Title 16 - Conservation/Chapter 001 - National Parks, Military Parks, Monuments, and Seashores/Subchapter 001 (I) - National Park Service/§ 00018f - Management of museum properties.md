@@ -6,7 +6,7 @@ The purpose of this section and sections 18f–2 and 18f–3 of this title shall
 
 Accept donations and bequests of money or other personal property, and hold, use, expend, and administer the same for purposes of this section and sections 18f–2 and 18f–3 of this title;
 
-#### (b) Use of donations
+#### (b) Purchases
 
 Purchase museum objects, museum collections, and other personal properties at prices he considers to be reasonable;
 

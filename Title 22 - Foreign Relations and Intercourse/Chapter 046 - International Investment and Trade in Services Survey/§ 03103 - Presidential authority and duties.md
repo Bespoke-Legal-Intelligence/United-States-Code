@@ -20,7 +20,7 @@ With respect to foreign direct investment in the United States, the President sh
 
 &emsp;(1) identify the location, nature, and magnitude of, and changes in total investment by any parent in each of its affiliates and the financial transactions between any parent and each of its affiliates;
 
-&emsp;(2) obtain (A) information on the balance sheet of parents and affiliates and related financial data, (B) income statements, including the gross sales by primary line of business (with as much product line detail as is necessary and feasible) of parents and affiliates in each country in which they have significant operations, and (C) related information regarding trade (including trade in both goods and services) between a parent and each of its affiliates and between each parent or affiliate and any other person;
+&emsp;(2) obtain (A) information on the balance sheet of parents and affiliates and related financial data, (B) income statements, including the gross sales by primary line of business (with as much product line detail as is necessary and feasible) of parents and affiliates in each country in which they have significant operations, and (C) related information regarding trade (including trade in both goodsand services) between a parent and each of its affiliates and between each parent or affiliate and any other person;
 
 &emsp;(3) collect employment data showing both the number of United States and foreign employees of each parent and affiliate and the levels of compensation, by country, industry, and skill level;
 
@@ -40,7 +40,7 @@ The President shall conduct a study of the feasibility of establishing a system 
 
 #### (e) Report on cost of monitoring and compiling data on legislation enacted by foreign nations regulating and restricting foreign inward investment
 
-The Secretary of Commerce shall prepare a report on the estimated cost of monitoring and compiling data on legislation enacted by the major trading partners of the United States, and such other foreign nations as the Secretarydeems appropriate, which regulates or restricts foreign inward investment in such foreign nations.
+The Secretary of Commerce shall prepare a report on the estimated cost of monitoring and compiling data on legislation enacted by the major trading partners of the United States, and such other foreign nations as the Secretary deems appropriate, which regulates or restricts foreign inward investment in such foreign nations.
 
 #### (f) Reporting, recordkeeping, and documentation
 

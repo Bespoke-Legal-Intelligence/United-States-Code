@@ -18,7 +18,7 @@ The sentence added by Pub. L. 89–321, as amended by Pub. L. 90–559, which di
 
 #### Effective and Termination Dates of 1970 Amendment
 
-Section 403(a) of Pub. L. 91–524 provided that the amendment made by that section is effective only with respect to marketing years beginning July 1, 1971, July 1, 1972, and July 1, 1973.
+Section 403(a) of Pub. L. 91–524 provided that the amendment made by that section is effective only withrespect to marketing years beginning July 1, 1971, July 1, 1972, and July 1, 1973.
 
 #### Inapplicability of Section
 

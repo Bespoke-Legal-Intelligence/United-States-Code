@@ -10,7 +10,7 @@ Each application submitted under subsection (a) of this section shall include a 
 
 &emsp;(1) provides programs and activities to meet the culturally related academic needs of American Indian and Alaska Native students;
 
-&emsp;(2)(A) is consistent with, and promotes the goals in, the State and local improvement plans, either approved or being developed, under title III of the Goals 2000: Educate America Act \[20 U.S.C. 5881 et seq.\] or, if such plans are not approved or being developed, with the State and local plans under sections 6311 and 6312 of this title; and
+&emsp;(2)(A) is consistent with, and promotes the goals in, the State and local improvement plans, either approved or being developed, under title III <sup>1</sup> of the Goals 2000: EducateAmerica Act or, if such plans are not approved or being developed, with the State and local plans under sections 6311 and 6312 of this title; and
 
 &emsp;(B) includes academic content and student performance goals for such children, and benchmarks for attaining such goals, that are based on the challenging State standards adopted under subchapter I of this chapter for all children;
 
@@ -54,7 +54,7 @@ Each application submitted under subsection (a) of this section shall include as
 
 &emsp;&emsp;(B) will use the best available talents and resources, including individuals from the Indian community; and
 
-&emsp;&emsp;(C) was developed by such agency in open consultation with parents of Indian childrenand teachers, and, if appropriate, Indian students from secondary schools, including public hearings held by such agency to provide the individuals described in this subparagraph a full opportunity to understand the program and to offer recommendations regarding the program; and
+&emsp;&emsp;(C) was developed by such agency in open consultation with parents of Indian children and teachers, and, if appropriate, Indian students from secondary schools, including public hearings held by such agency to provide the individuals described in this subparagraph a full opportunity to understand the program and to offer recommendations regarding the program; and
 
 &emsp;(4) the local educational agency developed the program with the participation and written approval of a committee—
 
@@ -80,9 +80,11 @@ Each application submitted under subsection (a) of this section shall include as
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in subsec. (b)(2)(A), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsec. (b)(2)(A), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act was classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title and was repealed by Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §310(i)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–265. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 7812, 7815 of this title; title 25 section 456.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

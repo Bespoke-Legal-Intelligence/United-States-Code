@@ -60,7 +60,7 @@ Section 211(a)–(g) of Pub. L. 105–78 provided that:
 
 “(a) The Secretary of Health and Human Services may in accordance with this section provide for the relocation of the Federal facility known as the Gillis W. Long Hansen's Disease Center (located in the vicinity of Carville, in the State of Louisiana), including the relocation of the patients of the Center.
 
-“(b)(1) Subject to paragraph (2), in relocating the Center the Secretary may on behalf of the United States transfer to the State of Louisiana, without charge, title to the real property and improvements that as of the date of the enactment of this Act \[Nov. 13, 1997\] constitute the Center. Such real property is aparcel consisting of approximately 330 acres. The exact acreage and legal description used for purposes of the transfer shall be in accordance with a survey satisfactory to the Secretary.
+“(b)(1) Subject to paragraph (2), in relocating the Center the Secretary may on behalf of the United States transfer to the State of Louisiana, without charge, title to the real property and improvements that as of the date of the enactment of this Act \[Nov. 13, 1997\] constitute the Center. Such real property is a parcel consisting of approximately 330 acres. The exact acreage and legal description used for purposes of the transfer shall be in accordance with a survey satisfactory to the Secretary.
 
 “(2) Any conveyance under paragraph (1) is not effective unless the deed or other instrument of conveyance contains the conditions specified in subsection (d); the instrument specifies that the United States and the State of Louisiana agree to such conditions; and the instrument specifies that, if the State engages in a material breach of the conditions, title to the real property and improvements involved reverts to the United States at the election of the Secretary.
 
@@ -114,7 +114,7 @@ Section 211(a)–(g) of Pub. L. 105–78 provided that:
 
 &emsp;“(C) In the determination pursuant to subparagraph (A) of whether the individual is eligible for Federal disability coverage (during the applicable period of time under such subparagraph), service as an employee of the State after the date of the transfer under subsection (b) shall be counted toward the service requirement specified in the first sentence of section 8337(a) or 8451(a)(1)(A) of such title 5 (whichever is applicable).
 
-“(3) In the case of each individual who as of the date of the enactment of this Act is a Federal employee with a position at the Center and is, for duty at the Center,receiving the pay differential under section 208(e) of the Public Health Service Act \[section 210(e) of this title\] or under section 5545(d) of title 5, United States Code:
+“(3) In the case of each individual who as of the date of the enactment of this Act is a Federal employee with a position at the Center and is, for duty at the Center, receiving the pay differential under section 208(e) of the Public Health Service Act \[section 210(e) of this title\] or under section 5545(d) of title 5, United States Code:
 
 &emsp;“(A) If as of the date of the transfer under subsection (b) the individual is eligible for an annuity under section 8336 or 8412 of title 5, United States Code, then once the individual separates from the service and thereby becomes entitled to receive the annuity, the pay differential shall be included in the computation of the annuity if the individual separated from the service not later than the expiration of the 90-day period beginning on the date of the transfer.
 

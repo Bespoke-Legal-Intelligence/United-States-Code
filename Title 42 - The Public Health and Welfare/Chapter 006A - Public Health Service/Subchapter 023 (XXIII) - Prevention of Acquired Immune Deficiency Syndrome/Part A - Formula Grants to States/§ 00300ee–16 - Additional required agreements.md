@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may not, except as provided in subsection (b) of this section, make paymentsunder section 300ee–11(a) of this title for a fiscal year unless the State involved agrees that—
+The Secretary may not, except as provided in subsection (b) of this section, make payments under section 300ee–11(a) of this title for a fiscal year unless the State involved agrees that—
 
 &emsp;(1) all programs conducted or supported by the State with such payments will establish objectives for the program and will determine the extent to which the objectives are met;
 
@@ -86,7 +86,7 @@ Subsec. (b). Pub. L. 100–690, §2619(d)(5) \[(e)(5)\], added subsec. (b).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approved Nov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
+Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approvedNov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 

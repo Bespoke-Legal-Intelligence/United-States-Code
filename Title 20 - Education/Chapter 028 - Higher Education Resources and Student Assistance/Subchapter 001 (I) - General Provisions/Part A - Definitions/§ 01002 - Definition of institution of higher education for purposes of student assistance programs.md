@@ -44,7 +44,7 @@
 
 #### (D) Special rule
 
-&emsp;&emsp;If, pursuant to this paragraph, an institution loses eligibility to participate in the programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, then a student enrolled at such institution may, notwithstanding such loss of eligibility, continue to be eligible to receive a loan under part B <sup>1</sup> while attending such institution for the academic year succeeding the academic year in which such loss of eligibility occurred.
+&emsp;&emsp;If, pursuant to this paragraph, an institution loses eligibility to participate in the programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, then a student enrolled at such institution may, notwithstanding such loss of eligibility, continue to be eligible to receive a loan under part B <sup>1</sup> while attendingsuch institution for the academic year succeeding the academic year in which such loss of eligibility occurred.
 
 #### (3) Limitations based on course of study or enrollment
 
@@ -132,7 +132,7 @@ Another prior section 1002, Pub. L. 89–329, title I, §102, Nov. 8, 1965, 79 S
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1001, 1011c, 1078–11, 1085, 1093, 1094, 1099b, 1099c, 1099c–2, 2373, 6103 of this title; title 42 sections 292d, 12604.
+This section is referred to in sections 1001, 1011c, 1078–11, 1085, 1093, 1094, 1099b, 1099c, 1099c–2, 2373, 6103 of this title; title 29 section 2801; title 42 sections 292d, 12604.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “part B of subchapter IV of this chapter”.</i>
 

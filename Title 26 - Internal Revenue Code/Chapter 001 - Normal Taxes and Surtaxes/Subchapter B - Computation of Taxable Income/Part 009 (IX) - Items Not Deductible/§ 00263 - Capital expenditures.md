@@ -38,7 +38,7 @@ In the case of expenditures in connection with the rehabilitation of a unit of r
 
 #### (f) Railroad ties
 
-In the case of a domestic common carrier by rail (including a railroad switching or terminal company) which uses the retirement-replacement method of accounting for depreciation ofits railroad track, expenditures for acquiring and installing replacement ties of any material (and fastenings related to such ties) shall be accorded the same tax accounting treatment as expenditures for replacement ties of wood (and fastenings related to such ties).
+In the case of a domestic common carrier by rail (including a railroad switching or terminal company) which uses the retirement-replacement method of accounting for depreciation of its railroad track, expenditures for acquiring and installing replacement ties of any material (and fastenings related to such ties) shall be accorded the same tax accounting treatment as expenditures for replacement ties of wood (and fastenings related to such ties).
 
 #### (g) Certain interest and carrying costs in the case of straddles
 
@@ -196,7 +196,7 @@ Subsec. (e). Pub. L. 94–455, §§1904(b)(10)(A)(i)(I), 1906(b)(13)(A), redesig
 
 Subsec. (f). Pub. L. 94–455, §§1701(a), 1904(b)(10)(A)(i)(I), added subsec. (f). Former subsec. (f) redesignated (e).
 
-1971—Subsec. (e). Pub. L. 92–178, §109(c), substituted “shall, at the election of the taxpayer, be treated” for “shall be treated” and inserted provisions respecting making of election under this subsection for any taxable year at such time and in such manner as Secretary or his delegate prescribed by regulation and prohibiting making of election for any taxable year to which anelection under subsec. (f) applies to railroad rolling stock (other than locomotives).
+1971—Subsec. (e). Pub. L. 92–178, §109(c), substituted “shall, at the election of the taxpayer, be treated” for “shall be treated” and inserted provisions respecting making of election under this subsection for any taxable year at such time and in such manner as Secretary or his delegate prescribed by regulation and prohibiting making of election for any taxable year to which an election under subsec. (f) applies to railroad rolling stock (other than locomotives).
 
 Subsec. (f). Pub. L. 92–178, §109(b), added subsec. (f).
 

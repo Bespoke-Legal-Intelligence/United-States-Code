@@ -34,9 +34,13 @@ Oct. 30, 1984, Pub. L. 98–565, §§5 (words after 3d comma related to discrimi
 
 36:3007.
 
+&nbsp;
+
 210305(c)
 
 36:3005 (words after 3d comma related to discrimination in holding office).
+
+&nbsp;
 
 The words “and in conformity with the laws of the State or States in which it is incorporated” in 36:3006 and “and in conformity with the laws of the State or States wherein it is incorporated” in 36:3007 are omitted as unnecessary.
 

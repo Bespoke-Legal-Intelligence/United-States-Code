@@ -37,10 +37,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Termination of Chapter
-
-<i>For termination of chapter by section 505 of Pub. L. 105–304, see Effective and Termination Dates note set out under section 1301 of this title.</i>
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in title 28 sections 1338, 1498.

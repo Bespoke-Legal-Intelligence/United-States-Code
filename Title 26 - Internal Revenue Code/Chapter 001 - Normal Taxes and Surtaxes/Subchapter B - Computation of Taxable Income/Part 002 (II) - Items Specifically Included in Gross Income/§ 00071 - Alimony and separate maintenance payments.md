@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (3) Special rule where payment is less than amount specified in instrument
 
-&emsp;For purposes of this subsection, if any payment is less than the amount specified in the instrument, then so much of such payment as does not exceed the sum payable for support shall be considered a payment for such support.
+&emsp;For purposes of this subsection, if any payment is less than the amount specified in the instrument, then so much of such payment as does not exceed the sum payable for supportshall be considered a payment for such support.
 
 #### (d) Spouse
 
@@ -160,7 +160,7 @@ In general.—The amendment made by paragraph (1) \[amending this section\] shal
 
 &emsp;“(B)
 
-Modifications of instruments executed before january 1, 1987.—The amendments made by paragraph (1) \[amending this section\] shall also apply toany divorce or separation instrument (as so defined) executed before January 1, 1987, but modified on or after such date if the modification expressly provides that the amendments made by paragraph (1) shall apply to such modification.
+Modifications of instruments executed before january 1, 1987.—The amendments made by paragraph (1) \[amending this section\] shall also apply to any divorce or separation instrument (as so defined) executed before January 1, 1987, but modified on or after such date if the modification expressly provides that the amendments made by paragraph (1) shall apply to such modification.
 
 “(3)
 

@@ -14,7 +14,7 @@ Civil Actions.—No civil action shall be maintained under the provisions of thi
 
 I74house report no. 94–1476
 
-Section 507, which is substantially identical with section 115 of the present law \[section 115 of former title 17\], establishes a three-year statute of limitations for both criminal proceedings and civil actions. The language of this section, which was adopted by the act of September 7, 1957 (71 Stat. 633) \[Pub. L. 85–313, §1, Sept. 7, 1957, 71 Stat. 633\], represents a reconciliation of views, and has therefore been left unaltered.
+Section 507, which is substantially identical with section 115 of the present law \[section 115 of former title17\], establishes a three-year statute of limitations for both criminal proceedings and civil actions. The language of this section, which was adopted by the act of September 7, 1957 (71 Stat. 633) \[Pub. L. 85–313, §1, Sept. 7, 1957, 71 Stat. 633\], represents a reconciliation of views, and has therefore been left unaltered.
 
 #### Amendments
 

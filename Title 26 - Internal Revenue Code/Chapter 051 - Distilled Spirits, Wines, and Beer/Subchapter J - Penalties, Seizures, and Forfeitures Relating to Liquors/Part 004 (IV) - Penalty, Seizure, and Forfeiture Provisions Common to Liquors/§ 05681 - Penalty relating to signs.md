@@ -24,7 +24,7 @@ A prior section 5681, act Aug. 16, 1954, ch. 736, 68A Stat. 698, consisted of pr
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–34, §1415(b)(1), struck out “, and every wholesale dealer in liquors,” after“spirits operations” and “section 5115(a) or” after “sign required by”.
+1997—Subsec. (a). Pub. L. 105–34, §1415(b)(1), struck out “, and every wholesale dealer in liquors,” after “spirits operations” and “section 5115(a) or” after “sign required by”.
 
 Subsec. (c). Pub. L. 105–34, §1415(b)(2), substituted “on which no sign required by” for “or wholesale liquor establishment, on which no sign required by section 5115(a) or” and substituted “or who” for “or wholesale liquor establishment, or who”.
 

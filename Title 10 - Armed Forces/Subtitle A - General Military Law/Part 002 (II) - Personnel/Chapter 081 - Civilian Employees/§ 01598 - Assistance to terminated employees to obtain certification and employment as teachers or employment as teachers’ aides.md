@@ -30,7 +30,7 @@ Eligible Employees.—(1) A civilian employee of the Department of Defense or th
 
 &emsp;(C) satisfies such other criteria for selection as the Secretary of Defense may prescribe.
 
-(2) The Secretary of Defense may accept an application from a civilian employee referred to in paragraph (1) who was terminated during the period beginning on October 1, 1990, and ending on October 1, 1992, if the employee otherwise satisfies the eligibility criteria specified in that paragraph.
+(2) The Secretary of Defense may accept an application from a civilian employee referred to inparagraph (1) who was terminated during the period beginning on October 1, 1990, and ending on October 1, 1992, if the employee otherwise satisfies the eligibility criteria specified in that paragraph.
 
 (c)
 
@@ -38,7 +38,7 @@ Selection of Participants.—(1) Selection of civilian employees to participate 
 
 (2) In selecting participants to receive assistance for placement as elementary or secondary school teachers, the Secretary of Defense shall give priority to civilian employees who—
 
-&emsp;(A) have educational, military, or employment experience in science, mathematics, orengineering and agree to seek employment as science, mathematics, or engineering teachers in elementary or secondary schools; or
+&emsp;(A) have educational, military, or employment experience in science, mathematics, or engineering and agree to seek employment as science, mathematics, or engineering teachers in elementary or secondary schools; or
 
 &emsp;(B) have educational, military, or employment experience in another subject area identified by the Secretary, in consultation with the Secretary of Education, as important for national educational objectives and agree to seek employment in that subject area in elementary or secondary schools.
 
@@ -52,9 +52,9 @@ Agreement.—A civilian employee selected to participate in the placement progra
 
 &emsp;(2) to accept—
 
-&emsp;&emsp;(A) in the case of an employee selected for assistance for placement as a teacher, an offer of full-time employment as an elementary or secondary school teacher for not less than two school years with a local educational agency identified under section 1151(b)(2) of this title, to begin the school year after obtaining that certification or licensure; or
+&emsp;&emsp;(A) in the case of an employee selected for assistance for placement as a teacher, an offer of full-time employment as an elementary or secondary school teacher for not less than two school years with a local educational agency identified under section 1151(b)(2) <sup>1</sup> of this title, to begin the school year after obtaining that certification or licensure; or
 
-&emsp;&emsp;(B) in the case of an employee selected for assistance for placement as a teacher's aide, an offer of full-time employment as a teacher's aide in an elementary or secondary school for not less than two school years with a local educational agency identified under section 1151(b)(3) of this title, to begin the school year after obtaining the necessary credentials.
+&emsp;&emsp;(B) in the case of an employee selected for assistance for placement as a teacher's aide, an offer of full-time employment as a teacher's aide in an elementary or secondary school for not less than two school years with a local educational agency identified under section 1151(b)(3) <sup>1</sup> of this title, to begin the school year after obtaining the necessary credentials.
 
 (e)
 
@@ -70,13 +70,15 @@ Stipend for Participants.—(1) Except as provided in paragraph (2), the Secreta
 
 (f)
 
-Placement of Participants as Teachers and Teachers’ Aides.—Subsections (h) through (k) of section 1151 of this title shall apply with respect to the placement program authorized by this section.
+Placement of Participants as Teachers and Teachers’ Aides.—Subsections (h) through (k) of section 1151 <sup>1</sup> of this title shall apply with respect to the placement program authorized by this section.
 
 (Added Pub. L. 102–484, div. D, title XLIV, §4442(a), Oct. 23, 1992, 106 Stat. 2730; amended Pub. L. 103–35, title II, §201(h)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1331(c)(2), Nov. 30, 1993, 107 Stat. 1792; Pub. L. 103–382, title III, §391(b)(3), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, §1503(a)(14), Feb. 10, 1996, 110 Stat. 511; Pub. L. 104–201, div. A, title V, §576(b), Sept. 23, 1996, 110 Stat. 2535.)
 
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+
+Section 1151 of this title, referred to in subsecs. (d)(2)(A), (B) and (f), was repealed by Pub. L. 106–65, div. A, title XVII, §1707(a)(1), Oct. 5, 1999, 113 Stat. 823.
 
 The Higher Education Act of 1965, referred to in subsec. (e)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
@@ -94,9 +96,15 @@ Subsec. (e)(4). Pub. L. 103–35 struck out par. (4) which read as follows: “A
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–160 not applicable with respect to persons selected by Secretary of Defense before Nov. 30, 1993, to participate in teacher and teacher's aide placement programs established pursuant to sections 1151, 1598, and 2410j of this title or agreements entered into by Secretary before such date with local educational agencies under such sections, see section 1331(h) of Pub. L. 103–160, set out as a note under section 1151 of this title.
+Pub. L. 103–160, div. A, title XIII, §1331(h), Nov. 30, 1993, 107 Stat. 1793, provided that: “The amendments made by subsections (c) and (d) \[amending this section and sections 1151 and 2410j of this title\] shall not apply with respect to—
+
+&emsp;“(1) persons selected by the Secretary of Defense before the date of the enactment of this Act \[Nov. 30, 1993\] to participate in the teacher and teacher's aide placement programs established pursuant to sections 1151, 1598, and 2410j of title 10, United States Code; or
+
+&emsp;“(2) agreements entered into by the Secretary before such date with local educational agencies under such sections.”
 
 #### Savings Provision
 
-Amendments by section 576 of Pub. L. 104–201 not to affect obligations under agreements entered into in accordance with section 1151, 1598, or 2410j of this title before Sept. 23, 1996, see section 576(d) of Pub. L. 104–201, set out as a note under section 1151 of this title.
+Pub. L. 104–201, div. A, title V, §576(d), Sept. 23, 1996, 110 Stat. 2535, provided that: “The amendments made by this section \[amending this section and sections 1151 and 2410j of this title\] do not affect obligations under agreements entered into in accordance with section 1151, 1598, or 2410j of title 10, United States Code, before the date of the enactment of this Act \[Sept. 23, 1996\].”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

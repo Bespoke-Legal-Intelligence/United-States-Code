@@ -22,7 +22,7 @@ Report.—(1) If the aggregate of the amounts specified in paragraphs (1) and (2
 
 &emsp;(B) the aggregate of the amounts authorized to be appropriated for the fiscal year preceding the fiscal year referred to in subparagraph (A) for the procurement of items of equipment, and for military construction, for the reserve components.
 
-(Added Pub. L. 104–201, div. A, title XII, §1257(a)(1), Sept. 23, 1996, 110 Stat. 2699; amendedPub. L. 105–85, div. A, title X, §1009(a), Nov. 18, 1997, 111 Stat. 1872.)
+(Added Pub. L. 104–201, div. A, title XII, §1257(a)(1), Sept. 23, 1996, 110 Stat. 2699; amended Pub. L. 105–85, div. A, title X, §1009(a), Nov. 18, 1997, 111 Stat. 1872.)
 
 #### Amendments
 

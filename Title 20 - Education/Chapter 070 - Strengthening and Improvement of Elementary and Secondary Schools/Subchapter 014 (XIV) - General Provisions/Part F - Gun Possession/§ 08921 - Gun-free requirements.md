@@ -12,7 +12,7 @@ This section may be cited as the “Gun-Free Schools Act of 1994”.
 
 #### (2) Construction
 
-&emsp;Nothing in this subchapter shall be construed to prevent a State from allowing a local educational agency that has expelled a student from such a student's regular school setting from providing educational services to such student in an alternative setting.
+&emsp;Nothing in this subchapter shall be construed to prevent a State from allowing a local educational agency that has expelled astudent from such a student's regular school setting from providing educational services to such student in an alternative setting.
 
 #### (3) Special rule
 

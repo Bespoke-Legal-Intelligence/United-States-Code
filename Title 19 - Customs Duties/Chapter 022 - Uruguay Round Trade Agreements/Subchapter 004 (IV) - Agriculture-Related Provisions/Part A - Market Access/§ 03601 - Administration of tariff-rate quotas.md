@@ -16,7 +16,7 @@ The Secretary of Agriculture shall monitor the domestic supply of agricultural p
 
 #### (1) Exclusions
 
-&emsp;The President may, subject to terms and conditions determined appropriate by the President, provide that the entry, or withdrawal from warehouse, for consumption in the United States of an agricultural product shall not be subject to the over-quota rate of duty established under a tariff-rate quota if the agricultural product—
+&emsp;The President may, subject to terms and conditions determined appropriate by thePresident, provide that the entry, or withdrawal from warehouse, for consumption in the United States of an agricultural product shall not be subject to the over-quota rate of duty established under a tariff-rate quota if the agricultural product—
 
 &emsp;&emsp;(A) is imported by, or for the account of, any agency of the United States or of any foreign embassy;
 
@@ -61,6 +61,26 @@ Section 451 of title IV of Pub. L. 103–465 provided that: “Except as otherwi
 Authority of President under subsec. (d)(3) of this section delegated to United States Trade Representative by par. (3) of Proc. No. 6763, Dec. 23, 1994, 60 F.R. 1010, set out as a note under section 3511 of this title.
 
 Authority of President under this section to implement certain Memorandum of Understanding with Argentina delegated to United States Trade Representative by par. (5) of Proc. No. 6780, Mar. 23, 1995, 60 F.R. 15847, set out as a note under section 3511 of this title.
+
+#### Proc. No. 7235. To Delegate Authority for the Administration of the Tariff-Rate Quotas on Sugar-Containing Products and Other Agricultural Products to the United States Trade Representative and the Secretary of Agriculture
+
+Proc. No. 7235, Oct. 7, 1999, 64 F.R. 55611, provided:
+
+1\. On April 15, 1994, the President entered into trade agreements resulting from the Uruguay Round of multilateral trade negotiations (“Uruguay Round Agreements”). As part of those agreements, the United States converted quotas on imports of beef, cotton, dairy products, peanuts, peanut butter and peanut paste, sugar, and sugar-containing products (as defined in additional U.S. notes 2 and 3 of the Harmonized Tariff Schedule of the United States \[see 19 U.S.C. 1202\]) into tariff-rate quotas. In section 101(a) of the Uruguay Round Agreements Act \[19 U.S.C. 3511(a)\] (the “URAA”) (Public Law 103–65 \[Pub. L. 103–465\]; 108 Stat. 4809), Congress approved the Uruguay Round Agreements listed in section 101(d) of that Act, including the General Agreement on Tariffs and Trade 1994.
+
+2\. On December 23, 1994, the President issued Presidential Proclamation 6763 \[19 U.S.C. 3511 note\], implementing the Uruguay Round Agreements consistent with the URAA. Presidential Proclamation 6763 included a delegation of the President's authority under the statutes cited in the proclamation, including section 404(a) of the URAA, 19 U.S.C. 3601(a), to the Secretary of Agriculture, the Secretary of the Treasury, and the United States Trade Representative, as necessary to perform functions assigned to them to implement the proclamation. Section 404(a) directs the President to take such action as may be necessary in implementing the tariff-rate quotas set out in Schedule XX - United States of America, annexed to the Marrakesh Protocol to the General Agreement on Tariffs and Trade 1994, to ensure that imports of agricultural products do not disrupt the orderly marketing of commodities in the United States.
+
+3\. I have determined that it is necessary to delegate my authority under section 404(a) to administer the tariff-rate quotas relating to cotton, dairy products, peanuts, peanut butter and peanut paste, sugar, and sugar-containing products to the United States Trade Representative and to delegate to the Secretary of Agriculture authority to issue licenses governing the importation of such products under the applicable tariff-rate quotas. The Secretary of Agriculture shall exercise such licensing authority in consultation with the United States Trade Representative.
+
+NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America, acting under the authority vested in me by the Constitution and the laws of the United States of America, including but not limited to section 301 of title 3, United States Code, and section 404(a) of the URAA, do hereby proclaim:
+
+(1) The United States Trade Representative is authorized to exercise my authority pursuant to section 404(a) of the URAA to take all action necessary, including the promulgation of regulations, to administer the tariff-rate quotas relating respectively, to cotton, dairy products, peanuts, peanut butter and peanut paste, sugar, and sugar-containing products, as the latter products are defined in additional U.S. notes 2 and 3 of the Harmonized Tariff Schedule of the United States. The Secretary of Agriculture, in consultation with the United States Trade Representative, is authorized to exercise my authority pursuant to section 404(a) to issue import licenses governing the importation of such products within the applicable tariff-rate quotas.
+
+(2) All provisions of previous proclamations and Executive orders that are inconsistent with the actions taken in this proclamation are superseded to the extent of such inconsistency.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this seventh day of October, in the year of our Lord nineteen hundred and ninety-nine, and of the Independence of the United States of America the two hundred and twenty-fourth.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

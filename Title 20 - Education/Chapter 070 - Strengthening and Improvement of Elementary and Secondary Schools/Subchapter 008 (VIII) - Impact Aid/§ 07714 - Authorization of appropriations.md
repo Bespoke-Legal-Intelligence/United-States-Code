@@ -6,7 +6,7 @@ For the purpose of making payments under section 7702 of this title, there are a
 
 #### (b) Basic payments; payments for heavily impacted local educational agencies
 
-For the purpose of making payments under subsections (b) and (f) of section 7703 of this title, there are authorized to be appropriated $775,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years, of which 6 percent shall be available, until expended, for each such fiscal year to carry out section 7703(f) of this title.
+For the purpose of making payments under subsections (b) and (f) of section 7703 of thistitle, there are authorized to be appropriated $775,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years, of which 6 percent shall be available, until expended, for each such fiscal year to carry out section 7703(f) of this title.
 
 #### (c) Payments for children with disabilities
 

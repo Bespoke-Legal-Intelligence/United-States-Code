@@ -46,7 +46,7 @@ General rule.—In making a determination under this subsection, the administeri
 
 &emsp;(B)
 
-Exception for developing countries.—In the case of subject merchandise imported from a Subsidies Agreement country (other than a country to which subparagraph (C) applies) designated by the Trade Representative as a developing country in accordance withsection 1677(36) of this title, a countervailable subsidy is de minimis if the administering authority determines that the aggregate of the net countervailable subsidies does not exceed 2 percent ad valorem or the equivalent specific rate for the subject merchandise.
+Exception for developing countries.—In the case of subject merchandise imported from a Subsidies Agreement country (other than a country to which subparagraph (C) applies) designated by the Trade Representative as a developing country in accordance with section 1677(36) of this title, a countervailable subsidy is de minimis if the administering authority determines that the aggregate of the net countervailable subsidies does not exceed 2 percent ad valorem or the equivalent specific rate for the subject merchandise.
 
 &emsp;(C)
 
@@ -134,7 +134,7 @@ If the preliminary determination of the administering authority under subsection
 
 #### (1) In general
 
-&emsp;If a petitioner alleges critical circumstances in its original petition, or by amendment at any time more than 20 days before the date of a final determination by the administering authority, then the administering authority shall promptly (at any time after the initiation of the investigation under this part) determine, on the basis of the information available to it at that time, whether there is a reasonable basis to believe or suspect that—
+&emsp;If a petitioner alleges critical circumstances in its original petition, or by amendment at any time more than 20 days before the date of a final determination by the administering authority, then the administering authorityshall promptly (at any time after the initiation of the investigation under this part) determine, on the basis of the information available to it at that time, whether there is a reasonable basis to believe or suspect that—
 
 &emsp;&emsp;(A) the alleged countervailable subsidy is inconsistent with the Subsidies Agreement, and
 
@@ -258,7 +258,7 @@ Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub
 
 #### Uruguay Round Agreements: Entry Into Force
 
-The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
+The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -8,7 +8,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 18, U.S.C., 1940 ed., §§246, 247, 252, 661, 662c, 753i, 910 (R.S. §5277; Mar. 4, 1909, ch. 321, §§141, 143,35 Stat. 1114; May 14, 1930, ch. 274, §10, 46 Stat. 327; May 27, 1930, ch. 339, §10, 46 Stat. 390; Mar. 22, 1934, ch. 73, §2, 48 Stat. 455; May 18, 1934, ch. 303, §1, 48 Stat. 782).
+Based on title 18, U.S.C., 1940 ed., §§246, 247, 252, 661, 662c, 753i, 910 (R.S. §5277; Mar. 4, 1909, ch. 321, §§141, 143, 35 Stat. 1114; May 14, 1930, ch. 274, §10, 46 Stat. 327; May 27, 1930, ch. 339, §10, 46 Stat. 390; Mar. 22, 1934, ch. 73, §2, 48 Stat. 455; May 18, 1934, ch. 303, §1, 48 Stat. 782).
 
 Section consolidated escape and rescue provisions of sections 246, 247, 252, 661, 662c, 753i, and 910 of title 18, U.S.C., 1940 ed. Remaining provisions of those sections are in sections 1071, 1072, 1502, 1792, 3183, and 3195 of this title.
 

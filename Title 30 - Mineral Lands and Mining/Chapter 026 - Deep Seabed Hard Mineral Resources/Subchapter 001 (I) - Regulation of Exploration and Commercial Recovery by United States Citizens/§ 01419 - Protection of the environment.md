@@ -32,7 +32,7 @@ Each license and permit issued under this subchapter shall contain such terms, c
 
 &emsp;(B) afford all interested parties a reasonable time after such dates of publication to submit comments to the Administrator on such draft statements; and
 
-&emsp;(C) thereafter prepare (giving full consideration to all comments submitted under subparagraph (B)) and publish final programmatic environmental impact statements regarding such areas.
+&emsp;(C) thereafter prepare (giving full consideration to all comments submitted under subparagraph (B)) and publish final programmaticenvironmental impact statements regarding such areas.
 
 (2) With respect to the area of the oceans in which exploration and commercial recovery by any United States citizen will likely first occur under the authority of this chapter, the Administrator shall prepare a draft and final programmatic environmental impact statement as required under paragraph (1), except that—
 

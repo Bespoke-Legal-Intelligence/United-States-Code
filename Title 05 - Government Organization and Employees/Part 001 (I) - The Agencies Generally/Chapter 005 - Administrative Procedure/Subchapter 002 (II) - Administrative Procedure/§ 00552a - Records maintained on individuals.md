@@ -38,7 +38,7 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) matches performed, by an agency (or component thereof) which performs as its principal function any activity pertaining to the enforcement of criminal laws, subsequent to the initiation of a specific criminal or civil law enforcement investigation of a named person or persons for the purpose of gathering evidence against such person or persons;
 
-&emsp;&emsp;&emsp;(iv) matches of tax information (I) pursuant to section 6103(d) of the Internal Revenue Code of 1986, (II) for purposes of tax administration as defined in section6103(b)(4) of such Code, (III) for the purpose of intercepting a tax refund due an individual under authority granted by section 404(e), 464, or 1137 of the Social Security Act; or (IV) for the purpose of intercepting a tax refund due an individual under any other tax refund intercept program authorized by statute which has been determined by the Director of the Office of Management and Budget to contain verification, notice, and hearing requirements that are substantially similar to the procedures in section 1137 of the Social Security Act;
+&emsp;&emsp;&emsp;(iv) matches of tax information (I) pursuant to section 6103(d) of the Internal Revenue Code of 1986, (II) for purposes of tax administration as defined in section 6103(b)(4) of such Code, (III) for the purpose of intercepting a tax refund due an individual under authority granted by section 404(e), 464, or 1137 of the Social Security Act; or (IV) for the purpose of intercepting a tax refund due an individual under any other tax refund intercept program authorized by statute which has been determined by the Director of the Office of Management and Budget to contain verification, notice, and hearing requirements that are substantially similar to the procedures in section 1137 of the Social Security Act;
 
 &emsp;&emsp;&emsp;(v) matches—
 
@@ -48,15 +48,17 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;&nbsp;if the purpose of the match is not to take any adverse financial, personnel, disciplinary, or other adverse action against Federal personnel;
 
-&emsp;&emsp;&emsp;(vi) matches performed for foreign counterintelligence purposes or to produce background checks for security clearances of Federal personnel or Federal contractor personnel; or
+&emsp;&emsp;&emsp;(vi) matches performed for foreign counterintelligence purposes or to produce background checks for security clearances of Federal personnel or Federal contractor personnel;
 
-&emsp;&emsp;&emsp;(vii) matches performed incident to a levy described in section 6103(k)(8) of the Internal Revenue Code of 1986;
+&emsp;&emsp;&emsp;(vii) matches performed incident to a levy described in section 6103(k)(8) of the Internal Revenue Code of 1986; or
+
+&emsp;&emsp;&emsp;(viii) matches performed pursuant to section 202(x)(3) or 1611(e)(1) of the Social Security Act (42 U.S.C. 402(x)(3), 1382(e)(1));
 
 &emsp;(9) the term “recipient agency” means any agency, or contractor thereof, receiving records contained in a system of records from a source agency for use in a matching program;
 
 &emsp;(10) the term “non-Federal agency” means any State or local government, or agency thereof, which receives records contained in a system of records from a source agency for use in a matching program;
 
-&emsp;(11) the term “source agency” means any agency which discloses records contained in a system of records to be used in a matching program, or any State or local government, or agency thereof, which discloses records to be used in a matching program;
+&emsp;(11) the term “source agency” means any agency which discloses records contained in asystem of records to be used in a matching program, or any State or local government, or agency thereof, which discloses records to be used in a matching program;
 
 &emsp;(12) the term “Federal benefit program” means any program administered or funded by the Federal Government, or by any agent or State on behalf of the Federal Government, providing cash or in-kind assistance in the form of payments, grants, loans, or loan guarantees to individuals; and
 
@@ -162,7 +164,7 @@ Agency Requirements.—Each agency that maintains a system of records shall—
 
 &emsp;&emsp;(G) the agency procedures whereby an individual can be notified at his request if the system of records contains a record pertaining to him;
 
-&emsp;&emsp;(H) the agency procedures whereby an individual can be notified at his request howhe can gain access to any record pertaining to him contained in the system of records, and how he can contest its content; and
+&emsp;&emsp;(H) the agency procedures whereby an individual can be notified at his request how he can gain access to any record pertaining to him contained in the system of records, and how he can contest its content; and
 
 &emsp;&emsp;(I) the categories of sources of records in the system;
 
@@ -178,7 +180,7 @@ Agency Requirements.—Each agency that maintains a system of records shall—
 
 &emsp;(10) establish appropriate administrative, technical, and physical safeguards to insure the security and confidentiality of records and to protect against any anticipated threats or hazards to their security or integrity which could result in substantial harm, embarrassment, inconvenience, or unfairness to any individual on whom information is maintained;
 
-&emsp;(11) at least 30 days prior to publication of information under paragraph (4)(D) of this subsection, publish in the Federal Register notice of any new use or intended use of the information in the system, and provide an opportunity for interested persons to submit written data, views, or arguments to the agency; and
+&emsp;(11) at least 30 days prior to publication of information under paragraph (4)(D) of thissubsection, publish in the Federal Register notice of any new use or intended use of the information in the system, and provide an opportunity for interested persons to submit written data, views, or arguments to the agency; and
 
 &emsp;(12) if such agency is a recipient agency or a source agency in a matching program with a non-Federal agency, with respect to any establishment or revision of a matching program, at least 30 days prior to conducting such program, publish in the Federal Register notice of such establishment or revision.
 
@@ -256,7 +258,7 @@ Specific Exemptions.—The head of any agency may promulgate rules, in accordanc
 
 &emsp;(1) subject to the provisions of section 552(b)(1) of this title;
 
-&emsp;(2) investigatory material compiled for law enforcement purposes, other than material within the scope of subsection (j)(2) of this section: <i>Provided, however</i>, That if any individual is denied any right, privilege, or benefit that he would otherwise be entitled by Federal law, or for which he would otherwise be eligible, as a result of the maintenance of such material, such material shall be provided to such individual, except to the extent that the disclosure of such material would reveal the identity of a source who furnished information tothe Government under an express promise that the identity of the source would be held in confidence, or, prior to the effective date of this section, under an implied promise that the identity of the source would be held in confidence;
+&emsp;(2) investigatory material compiled for law enforcement purposes, other than material within the scope of subsection (j)(2) of this section: <i>Provided, however</i>, That if any individual is denied any right, privilege, or benefit that he would otherwise be entitled by Federal law, or for which he would otherwise be eligible, as a result of the maintenance of such material, such material shall be provided to such individual, except to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the Government under an express promise that the identity of the source would be held in confidence, or, prior to the effective date of this section, under an implied promise that the identity of the source would be held in confidence;
 
 &emsp;(3) maintained in connection with providing protective services to the President of the United States or other individuals pursuant to section 3056 of title 18;
 
@@ -272,7 +274,7 @@ Specific Exemptions.—The head of any agency may promulgate rules, in accordanc
 
 (<i>l</i>)
 
-Archival Records.—Each agency record which is accepted by the Archivist of the United States for storage, processing, and servicing in accordance with section 3103 of title 44 shall, for the purposes of this section, be considered to be maintained by the agency which deposited the record and shall be subject to the provisions of this section. The Archivist of the United States shall not disclose the record except to the agency which maintains the record, or under rules established by that agency which are not inconsistent with the provisions of this section.
+Archival Records.—Each agency record which is accepted by the Archivist of the UnitedStates for storage, processing, and servicing in accordance with section 3103 of title 44 shall, for the purposes of this section, be considered to be maintained by the agency which deposited the record and shall be subject to the provisions of this section. The Archivist of the United States shall not disclose the record except to the agency which maintains the record, or under rules established by that agency which are not inconsistent with the provisions of this section.
 
 (2) Each agency record pertaining to an identifiable individual which was transferred to the National Archives of the United States as a record which has sufficient historical or other value to warrant its continued preservation by the United States Government, prior to the effective date of this section, shall, for the purposes of this section, be considered to be maintained by the National Archives and shall not be subject to the provisions of this section, except that a statement generally describing such records (modeled after the requirements relating to records subject to subsections (e)(4)(A) through (G) of this section) shall be published in the Federal Register.
 
@@ -330,7 +332,7 @@ Matching Agreements.—(1) No record which is contained in a system of records m
 
 (C) Such an agreement shall remain in effect only for such period, not to exceed 18 months, as the Data Integrity Board of the agency determines is appropriate in light of the purposes, and length of time necessary for the conduct, of the matching program.
 
-(D) Within 3 months prior to the expiration of such an agreement pursuant to subparagraph (C), the Data Integrity Board of the agency may, without additional review, renew the matching agreement for a current, ongoing matching program for not more than one additional year if—
+(D) Within 3 months prior to the expiration of such an agreement pursuant to subparagraph\(C), the Data Integrity Board of the agency may, without additional review, renew the matching agreement for a current, ongoing matching program for not more than one additional year if—
 
 &emsp;(i) such program will be conducted without any change; and
 
@@ -376,7 +378,7 @@ Sanctions.—(1) Notwithstanding any other provision of law, no source agency ma
 
 (r)
 
-Report on New Systems and Matching Programs.—Each agency that proposes to establish or make a significant change in a system of records or a matching program shall provideadequate advance notice of any such proposal (in duplicate) to the Committee on Government Operations of the House of Representatives, the Committee on Governmental Affairs of the Senate, and the Office of Management and Budget in order to permit an evaluation of the probable or potential effect of such proposal on the privacy or other rights of individuals.
+Report on New Systems and Matching Programs.—Each agency that proposes to establish or make a significant change in a system of records or a matching program shall provide adequate advance notice of any such proposal (in duplicate) to the Committee on Government Operations of the House of Representatives, the Committee on Governmental Affairs of the Senate, and the Office of Management and Budget in order to permit an evaluation of the probable or potential effect of such proposal on the privacy or other rights of individuals.
 
 (s)
 
@@ -438,7 +440,7 @@ Data Integrity Boards.—(1) Every agency conducting or participating in a match
 
 (C) A cost-benefit analysis shall not be required under subparagraph (A) prior to the initial approval of a written agreement for a matching program that is specifically required by statute. Any subsequent written agreement for such a program shall not be approved by the Data Integrity Board unless the agency has submitted a cost-benefit analysis of the program as conducted under the preceding approval of such agreement.
 
-(5)(A) If a matching agreement is disapproved by a Data Integrity Board, any party to such agreement may appeal the disapproval to the Director of the Office of Management and Budget. Timely notice of the filing of such an appeal shall be provided by the Director of the Office ofManagement and Budget to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House of Representatives.
+(5)(A) If a matching agreement is disapproved by a Data Integrity Board, any party to such agreement may appeal the disapproval to the Director of the Office of Management and Budget. Timely notice of the filing of such an appeal shall be provided by the Director of the Office of Management and Budget to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House of Representatives.
 
 (B) The Director of the Office of Management and Budget may approve a matching agreement notwithstanding the disapproval of a Data Integrity Board if the Director determines that—
 
@@ -462,7 +464,7 @@ Office of Management and Budget Responsibilities.—The Director of the Office o
 
 &emsp;(2) provide continuing assistance to and oversight of the implementation of this section by agencies.
 
-(Added Pub. L. 93–579, §3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, §2(2), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 97–365, §2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, §201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, §2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, §2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L. 98–497, title I, §107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII, §7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, §13581(c), Aug. 10, 1993, 107 Stat. 611; Pub. L. 104–193, title I, §110(w), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–226, §1(b)(3), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–316, title I, §115(g)(2)(B), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–34, title X, §1026(b)(2), Aug. 5, 1997, 111 Stat. 925; Pub. L. 105–362, title XIII, §1301(d), Nov. 10, 1998, 112 Stat. 3293.)
+(Added Pub. L. 93–579, §3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, §2(2), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 97–365, §2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, §201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, §2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, §2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L.98–497, title I, §107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII, §7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, §13581(c), Aug. 10, 1993, 107 Stat. 611; Pub. L. 104–193, title I, §110(w), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–226, §1(b)(3), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–316, title I, §115(g)(2)(B), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–34, title X, §1026(b)(2), Aug. 5, 1997, 111 Stat. 925; Pub. L. 105–362, title XIII, §1301(d), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 106–170, title IV, §402(a)(2), Dec. 17, 1999, 113 Stat. 1908.)
 
 #### References in Text
 
@@ -483,6 +485,8 @@ For classification of the Privacy Act of 1974, referred to in subsec. (s)(4), se
 Section 552a of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 2244 of Title 7, Agriculture.
 
 #### Amendments
+
+1999—Subsec. (a)(8)(B)(viii). Pub. L. 106–170 added cl. (viii).
 
 1998—Subsec. (u)(6), (7). Pub. L. 105–362 redesignated par. (7) as (6), substituted “paragraph (3)(D)” for “paragraphs (3)(D) and (6)”, and struck out former par. (6) which read as follows: “The Director of the Office of Management and Budget shall, annually during the first 3 years after the date of enactment of this subsection and biennially thereafter, consolidate in a report to the Congress the information contained in the reports from the various Data Integrity Boards under paragraph (3)(D). Such report shall include detailed information about costs and benefits of matching programs that are conducted during the period covered by such consolidated report, and shall identify each waiver granted by a Data Integrity Board of the requirement for completion and submission of a cost-benefit analysis and the reasons for granting the waiver.”
 
@@ -542,7 +546,11 @@ Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Operations of House of Representatives treated as referring to Committee onGovernment Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to individuals whose period of confinement in an institution commences on or after the first day of the fourth month beginning after December 1999, see section 402(a)(4) of Pub. L. 106–170, set out as a note under section 402 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1997 Amendment
 
@@ -602,7 +610,7 @@ Section 1 of Pub. L. 100–503 provided that: “This Act \[amending this sectio
 
 #### Short Title
 
-Section 1 of Pub. L. 93–579 provided: “That this Act \[enacting this section and provisions set out as notesunder this section\] may be cited as the ‘Privacy Act of 1974’.”
+Section 1 of Pub. L. 93–579 provided: “That this Act \[enacting this section and provisions set out as notes under this section\] may be cited as the ‘Privacy Act of 1974’.”
 
 #### Delegation of Functions
 
@@ -706,7 +714,7 @@ For provisions relating to a response to a request for information under this se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 552b, 1212, 3111, 7133, 8148 of this title; title 7 sections 2204b, 2279b; title 10 sections 1102, 1506, 1588; title 12 section 1715z; title 14 section 645; title 15 section 278g–3; title 16 sections 410cc–35, 1536; title 19 section 1631; title 20 sections 1080a, 9010; title 22 section 4355; title 25 section 3205; title 26 sections 6103, 7852; title 31 sections 3701, 3711, 3716, 3718, 3729, 3733, 7701; title 38 sections 3684A, 5701; title 39 section 410; title 42 sections 300aa–25, 402, 405, 904, 1306, 1382, 3544, 9660, 14614, 14616; title 44 sections 2906, 3501, 3504, 3506; title 46 sections 7702, 9303; title 49 sections 111, 30305; title 50 App. section 2159.
+This section is referred to in sections 552b, 1212, 3111, 7133, 8148 of this title; title 7 sections 2204b, 2279b; title 10 sections 1102, 1506, 1588; title 12 section 1715z; title 14 section 645; title 15 section 278g–3; title 16 sections 410cc–35, 1536; title 19 section 1631; title 20 sections 1080a, 1090, 9010; title 22 section 4355; title 25 section 3205; title 26 sections 6103, 7852; title 29 section 1908; title 31 sections 3701, 3711, 3716, 3718, 3729, 3733, 7701; title 38 sections 3684A, 5701; title 39 section 410; title 42 sections 247b–4, 300aa–25, 402, 405, 904, 1306, 1382, 3544, 9660, 14614, 14616; title 44 sections 2906, 3501, 3504, 3506; title 46 sections 7702, 9303; title 49 section 30305; title 50 App. section 2159.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

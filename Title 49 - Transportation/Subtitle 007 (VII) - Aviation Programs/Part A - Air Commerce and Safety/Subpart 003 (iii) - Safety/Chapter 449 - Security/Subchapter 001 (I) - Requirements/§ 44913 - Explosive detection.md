@@ -66,7 +66,7 @@ Section 303 of Pub. L. 104–264 provided that:
 
 “(a)
 
-In General.—The Administrator of the Federal Aviation Administration shall enter into an arrangement with the Director of the National Academy of Sciences (or if the National Academy of Sciences is not available, the head of another equivalent entity) to conduct a study in accordance to this section.
+In General.—The Administrator of the Federal Aviation Administration shall enter into an arrangement with the Director of the National Academy of Sciences (or if the National Academy of Sciences is notavailable, the head of another equivalent entity) to conduct a study in accordance to this section.
 
 “(b)
 

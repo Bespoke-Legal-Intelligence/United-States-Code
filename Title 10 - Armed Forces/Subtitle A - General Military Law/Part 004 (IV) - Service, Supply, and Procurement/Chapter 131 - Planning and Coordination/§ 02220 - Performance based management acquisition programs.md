@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Goals.—(1) The Secretary of Defense shall approve or define the cost, performance, and schedule goals for major defense acquisition programs of the Department of Defense and for each phase of the acquisition cycle of such programs.
+Establishment of Goals.—(1) The Secretary of Defense shall approve or define thecost, performance, and schedule goals for major defense acquisition programs of the Department of Defense and for each phase of the acquisition cycle of such programs.
 
 (2) The Under Secretary of Defense (Comptroller) shall evaluate the cost goals proposed for each major defense acquisition program of the Department.
 

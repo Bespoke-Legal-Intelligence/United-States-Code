@@ -40,7 +40,7 @@ In the case of a deficiency as defined in section 6211 (relating to income, esta
 
 #### (1) Net operating loss or capital loss carryback
 
-&emsp;If the amount of any tax imposed by subtitle A is reduced by reason of a carryback of a net operating loss or net capital loss, such reduction in tax shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which the net operating loss or net capital loss arises.
+&emsp;If the amount of any tax imposed by subtitle A is reduced by reason of a carryback of a netoperating loss or net capital loss, such reduction in tax shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which the net operating loss or net capital loss arises.
 
 #### (2) Foreign tax credit carrybacks
 
@@ -146,7 +146,7 @@ This section shall not apply to any failure to make a payment of tax imposed by 
 
 #### Adjustment of Dollar Amount of Estate Tax Payable in Installments in Determining “2-Percent Portion”
 
-<i>For adjustment of dollar amount of estate tax payable in installments in determining “2-per</i><i>cent portion” under subsec. (j) of this section in the case of decedents dying in calendar year 1999, see section 3.23 of Revenue Procedure 98–61, set out as a note under section 1 of this title.</i>
+<i>For adjustment of dollar amount of estate tax payable in installments in determining “2-percent portion” under subsec. (j) of this section in the case of decedents dying in calendar year 2000, see section 3.25 of Revenue Procedure 99–42, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -162,7 +162,7 @@ Subsec. (d)(2) to (4). Pub. L. 105–34, §1055(a), added par. (2) and redesigna
 
 Subsec. (j). Pub. L. 105–34, §503(c)(3), substituted “2-percent” for “4-percent” in heading.
 
-Subsec. (j)(1). Pub. L. 105–34, §503(a), reenacted par. heading without change and amended text generally. Prior to amendment, text read as follows: “If the time for payment of an amount of tax imposed by chapter 11 is extended as provided in section 6166, interest on the 4-percent portion of such amount shall (in lieu of the annual rate provided by subsection (a)) be paid at the rate of 4 percent. For purposes of this subsection, the amount of any deficiency which is prorated to installments payable under section 6166 shall be treated as an amount of tax payable in installments under such section.”
+Subsec. (j)(1). Pub. L. 105–34, §503(a), reenacted par. heading without change and amended text generally.Prior to amendment, text read as follows: “If the time for payment of an amount of tax imposed by chapter 11 is extended as provided in section 6166, interest on the 4-percent portion of such amount shall (in lieu of the annual rate provided by subsection (a)) be paid at the rate of 4 percent. For purposes of this subsection, the amount of any deficiency which is prorated to installments payable under section 6166 shall be treated as an amount of tax payable in installments under such section.”
 
 Subsec. (j)(2). Pub. L. 105–34, §503(a), amended heading and text generally. Prior to amendment, text read as follows: “For purposes of this subsection, the term ‘4-percent portion’ means the lesser of—
 
@@ -316,7 +316,7 @@ Amendment by section 7106(c)(5) of Pub. L. 100–647 applicable to remuneration 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 31, 1987, see section 10301(c)of Pub. L. 100–203, set out as a note under section 585 of this title.
+Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 31, 1987, see section 10301(c) of Pub. L. 100–203, set out as a note under section 585 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -422,7 +422,7 @@ For effective date of amendment by section 206(e) of Pub. L. 85–866, see secti
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Administration of Penalties and Interest
 
@@ -458,7 +458,7 @@ War, time disregarded in determining interest liability, see section 7508 of thi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 163, 815, 860, 936, 995, 1016, 1291, 1363, 2053, 5684, 6166, 6167, 6404, 6504, 6621, 7404, 7518 of this title; title 29 section 1307; title 46 App. section 1177.
+This section is referred to in sections 163, 815, 860, 936, 995, 1016, 1260, 1291, 1363, 2053, 5684, 6166, 6167, 6404, 6504, 6621, 7404, 7518 of this title; title 29 section 1307; title 46 App. section 1177.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

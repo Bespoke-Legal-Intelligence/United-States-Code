@@ -8,11 +8,17 @@ For the purposes of this chapter—
 
 (3) The term “program of education”—
 
-&emsp;(A) has the meaning given such term in section 3452(b) of this title, and
+&emsp;(A) has the meaning given such term in section 3452(b) of this title;
 
-&emsp;(B) in the case of an individual who is not serving on active duty, includes (i) a full-time program of apprenticeship or of other on-job training approved as provided in clause (1) or (2), as appropriate, of section 3687(a) of this title, and (ii) a cooperative program (as defined in section 3482(a)(2) of this title).
+&emsp;(B) includes—
 
-(4) The term “Selected Reserve” means the Selected Reserve of the Ready Reserve of any of the reserve components (including the Army National Guard of the United States and the Air National Guard of the United States) of the Armed Forces, as required to be maintained under section 10143(a) of title 10.
+&emsp;&emsp;(i) a preparatory course for a test that is required or used for admission to an institution of higher education; and
+
+&emsp;&emsp;(ii) a preparatory course for a test that is required or used for admission to a graduate school; and
+
+&emsp;(C) in the case of an individual who is not serving on active duty, includes (i) a full-time program of apprenticeship or of other on-job training approved as provided in clause (1) or (2), as appropriate, of section 3687(a) of this title, and (ii) a cooperative program (as defined in section 3482(a)(2) of this title).
+
+(4) The term “Selected Reserve” means the Selected Reserve of the Ready Reserve of any ofthe reserve components (including the Army National Guard of the United States and the Air National Guard of the United States) of the Armed Forces, as required to be maintained under section 10143(a) of title 10.
 
 (5) The term “Secretary of Defense” means the Secretary of Defense, except that it means the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy.
 
@@ -22,7 +28,7 @@ For the purposes of this chapter—
 
 (8) The term “educational institution” has the meaning given such term in section 3452(c) of this title.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2554, §1402; amended Pub. L. 99–576, title III, §301(a), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–689, title I, §§108(a)(1), 111(a)(1), Nov. 18, 1988, 102 Stat. 4169, 4170; Pub. L. 101–237, title IV, §423(b)(3), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §563(a), Nov. 5, 1990, 104 Stat. 1575; renumbered §3002 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–337, div. A, title XVI, §1677(d)(2), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 103–446, title VI, §603(b), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, §107(a), Oct. 9, 1996, 110 Stat. 3329.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2554, §1402; amended Pub. L. 99–576, title III, §301(a), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–689, title I, §§108(a)(1), 111(a)(1), Nov. 18, 1988, 102 Stat. 4169, 4170; Pub. L. 101–237, title IV, §423(b)(3), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §563(a), Nov. 5, 1990, 104 Stat. 1575; renumbered §3002 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–337, div. A, title XVI, §1677(d)(2), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 103–446, title VI, §603(b), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, §107(a), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 106–117, title VII, §701, Nov. 30, 1999, 113 Stat. 1582.)
 
 #### Prior Provisions
 
@@ -33,6 +39,8 @@ Another prior section 3004, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, rela
 Prior sections 3005 to 3010 were renumbered sections 5105 to 5110 of this title, respectively.
 
 #### Amendments
+
+1999—Par. (3)(B), (C). Pub. L. 106–117 added subpar. (B) and redesignated former subpar. (B) as (C).
 
 1996—Par. (7). Pub. L. 104–275 substituted “June 30, 1985” for “November 29, 1989”.
 

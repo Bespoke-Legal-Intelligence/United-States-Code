@@ -18,7 +18,7 @@ Disqualification under subsection (a) of this section shall be—
 
 &emsp;&emsp;(B) the first occasion or any subsequent occasion of a disqualification based on the purchase of coupons or trafficking in coupons or authorization cards by a retail food store or wholesale food concern, except that the Secretary shall have the discretion to impose a civil money penalty of up to $20,000 for each violation (except that the amount of civil money penalties imposed for violations occurring during a single investigation may not exceed $40,000) in lieu of disqualification under this subparagraph, for such purchase of coupons or trafficking in coupons or cards that constitutes a violation of the provisions of this chapter or the regulations issued pursuant to this chapter, if the Secretary determines that there is substantial evidence that such store or food concern had an effective policy and program in effect to prevent violations of the chapter and the regulations, including evidence that—
 
-&emsp;&emsp;&emsp;(i) the ownership of the store or food concern was not aware of, did not approveof, did not benefit from, and was not involved in the conduct of the violation; and
+&emsp;&emsp;&emsp;(i) the ownership of the store or food concern was not aware of, did not approve of, did not benefit from, and was not involved in the conduct of the violation; and
 
 &emsp;&emsp;&emsp;(ii)(I) the management of the store or food concern was not aware of, did not approve of, did not benefit from, and was not involved in the conduct of the violation; or
 
@@ -34,7 +34,7 @@ The action of disqualification or the imposition of a civil money penalty shall 
 
 #### (d) Bonds
 
-As a condition of authorization to accept and redeem coupons, the Secretary may require a retail food store or wholesale food concern which has been disqualified or subjected to a civil penalty pursuant to subsection (a) of this section to furnish a bond to cover the value of coupons which such store or concern may in the future accept and redeem in violation of this chapter. The Secretary shall, by regulation, prescribe the amount, terms, and conditions of such bond. If the Secretary finds that such store or concern has accepted and redeemed coupons in violation of this chapter after furnishing such bond, such store or concern shall forfeit to the Secretary an amount of such bond which is equal to the value of coupons accepted and redeemed by such store or concern in violation of this chapter. Such store or concern may obtain a hearing on such forfeiture pursuant to section 2023 of this title.
+As a condition of authorization to accept and redeem coupons, the Secretary may require a retail food store or wholesale food concern which has been disqualified or subjected to a civil penalty pursuant to subsection (a) of this section to furnish a bond to cover the value of coupons which such store or concern may in the future accept and redeem in violation of this chapter. The Secretary shall, by regulation, prescribe the amount, terms, and conditions of such bond. If the Secretary finds that such store or concern has accepted and redeemed coupons in violation of this chapter after furnishing such bond, such store or concern shall forfeit to the Secretary anamount of such bond which is equal to the value of coupons accepted and redeemed by such store or concern in violation of this chapter. Such store or concern may obtain a hearing on such forfeiture pursuant to section 2023 of this title.
 
 #### (e) Transfer of ownership; penalty in lieu of disqualification period; fines for acceptance of loose coupons; judicial action to recover penalty or fine
 
@@ -52,7 +52,7 @@ The Secretary may impose a fine against any person not approved by the Secretary
 
 #### (1) In general
 
-&emsp;The Secretary shall issue regulations providing criteria for the disqualification under thischapter of an approved retail food store or a wholesale food concern that is disqualified from accepting benefits under the special supplemental nutrition program for women, infants, and children established under section 1786 of title 42.
+&emsp;The Secretary shall issue regulations providing criteria for the disqualification under this chapter of an approved retail food store or a wholesale food concern that is disqualified from accepting benefits under the special supplemental nutrition program for women, infants, and children established under section 1786 of title 42.
 
 #### (2) Terms
 

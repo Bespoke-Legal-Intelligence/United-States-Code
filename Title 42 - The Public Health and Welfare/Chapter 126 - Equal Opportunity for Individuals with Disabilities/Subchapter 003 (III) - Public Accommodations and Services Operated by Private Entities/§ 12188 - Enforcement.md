@@ -60,7 +60,7 @@
 
 #### (4) Punitive damages
 
-&emsp;For purposes of subsection (b)(2)(B) of this section, the term “monetary damages” and “such other relief” does not include punitive damages.
+&emsp;For purposes of subsection (b)(2)(B) of this section, the term “monetary damages” and“such other relief” does not include punitive damages.
 
 #### (5) Judicial consideration
 

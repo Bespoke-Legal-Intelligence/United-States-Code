@@ -50,13 +50,13 @@
 
 #### (5) Income excluded under prior law
 
-&emsp;Amounts invested in less developed country corporations described in section 955(c)(2) (asin effect before the enactment of the Tax Reduction Act of 1975) shall be treated as qualified investments in foreign base company shipping operations and shall not be treated as investments in less developed countries for purposes of section 951(a)(1)(A)(ii).
+&emsp;Amounts invested in less developed country corporations described in section 955(c)(2) (as in effect before the enactment of the Tax Reduction Act of 1975) shall be treated as qualified investments in foreign base company shipping operations and shall not be treated as investments in less developed countries for purposes of section 951(a)(1)(A)(ii).
 
 (Added Pub. L. 94–12, title VI, §602(d)(3)(A), Mar. 29, 1975, 89 Stat. 62; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XII, §1221(c)(3)(B), (C), Oct. 22, 1986, 100 Stat. 2553; Pub. L. 100–647, title I, §1012(i)(11), Nov. 10, 1988, 102 Stat. 3509.)
 
 #### References in Text
 
-Section 955(c)(2) (as in effect before the enactment of the Tax Reduction Act of 1975), referred to in subsecs. (a)(2) and (b)(5), refers to section 955(c)(2) as added by Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1013, and as in effect from 1962 until the repeal of that section and the enactment of this section by Pub. L. 94–12.
+Section 955(c)(2) (as in effect before the enactment of the Tax Reduction Act of 1975), referred to in subsecs.\(a)(2) and (b)(5), refers to section 955(c)(2) as added by Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1013, and as in effect from 1962 until the repeal of that section and the enactment of this section by Pub. L. 94–12.
 
 The Tax Reduction Act of 1975, referred to in subsecs. (a)(2) and (b)(5), is Pub. L. 94–12, Mar. 29, 1975, 89 Stat. 26, as amended, which was enacted Mar. 29, 1975. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under section 1 of this title and Tables.
 

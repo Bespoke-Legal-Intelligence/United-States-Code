@@ -38,7 +38,7 @@ Pub. L. 97–35, title I, §125, Aug. 13, 1981, 95 Stat. 369, provided that: “
 
 #### Transfer of Functions From Secretary of Interior to Secretary of Agriculture
 
-Pub. L. 86–509, June 11, 1960, 74 Stat. 205, which enacted provisions of Reorganization Plan Numbered 1 of 1959, provided: “That, except as otherwise provided insection 2 hereof, the following functions are hereby transferred to the Secretary of Agriculture:
+Pub. L. 86–509, June 11, 1960, 74 Stat. 205, which enacted provisions of Reorganization Plan Numbered 1 of 1959, provided: “That, except as otherwise provided in section 2 hereof, the following functions are hereby transferred to the Secretary of Agriculture:
 
 “(a) The functions of the Secretary of the Interior under the Act of March 20, 1922, 42 Stat. 465, as amended (16 U.S.C. 485, 486), with respect to exchanges of non-Federal lands for national forest lands or timber.
 
@@ -54,7 +54,7 @@ Pub. L. 86–509, June 11, 1960, 74 Stat. 205, which enacted provisions of Reorg
 
 “(g) The functions of the Secretary of the Interior under the Act of June 15, 1926 (44 Stat. 746), with respect to exchanges of State lands for national forest lands in New Mexico.
 
-“(h) The functions of the Secretary of the Interior under the Act of December 7, 1942 (56 Stat. 1042), with respect to exchange transactions in which lands under the jurisdiction of the Secretary of Agriculture are exchanged for State lands in Minnesota which are to be under the jurisdiction of the Secretary of Agriculture after their acquisition by the United States.
+“(h) The functions of the Secretary of the Interior under the Act of December 7, 1942 (56 Stat. 1042), withrespect to exchange transactions in which lands under the jurisdiction of the Secretary of Agriculture are exchanged for State lands in Minnesota which are to be under the jurisdiction of the Secretary of Agriculture after their acquisition by the United States.
 
 “(i) The function of the Secretary of the Interior (originally vested in the Commissioner of the General Land Office) under section 6 of the Act of April 28, 1930 (46 Stat. 257; 43 U.S.C. 872), with respect to execution of quitclaim deeds for lands conveyed to the United States in connection with exchange transactions involving lands under the jurisdiction of the Secretary of Agriculture.
 

@@ -56,9 +56,21 @@ In general.—The court in its discretion may reduce or remit the total award of
 
 &emsp;&emsp;(B)
 
-Nonprofit library, archives, or educational institutions.—In the case of a nonprofit library, archives, or educational institution, the court shall remit damages in any case in which the library, archives, or educational institution sustains the burden of proving, and the court finds, that the library, archives, or educational institution was not aware and had no reason to believe that its acts constituted a violation.
+Nonprofit library, archives, educational institutions, or public broadcasting entities.—
 
-(Added Pub. L. 105–304, title I, §103(a), Oct. 28, 1998, 112 Stat. 2874.)
+&emsp;&emsp;&emsp;(i)
+
+Definition.—In this subparagraph, the term “public broadcasting entity” has the meaning given such term under section 118(g).
+
+&emsp;&emsp;&emsp;(ii)
+
+In general.—In the case of a nonprofit library, archives, educational institution, or public broadcasting entity, the court shall remit damages in any case in which the library, archives, educational institution, or public broadcasting entity sustains the burden of proving, and the court finds, that the library, archives, educational institution, or public broadcasting entity was not aware and had no reason to believe that its acts constituted a violation.
+
+(Added Pub. L. 105–304, title I, §103(a), Oct. 28, 1998, 112 Stat. 2874; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5004(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–593.)
+
+#### Amendments
+
+1999—Subsec. (c)(5)(B). Pub. L. 106–113 amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “In the case of a nonprofit library, archives, or educational institution, the court shall remit damages in any case in which the library, archives, or educational institution sustains the burden of proving, and the court finds, that the library, archives, or educational institution was not aware and had no reason to believe that its acts constituted a violation.”
 
 #### Section Referred to in Other Sections
 

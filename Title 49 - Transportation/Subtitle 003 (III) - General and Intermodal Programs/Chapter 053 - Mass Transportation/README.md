@@ -57,7 +57,7 @@ Pub. L. 105–178, title III, §3027(d), as added by Pub. L. 105–206, title IX
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 23 sections 103, 104, 120, 133, 134, 142, 181, 182, 183; title 40 section 819; title 42 section 7506.
+This chapter is referred to in title 23 sections 103, 104, 110, 120, 133, 134, 142, 181, 182, 183; title 40 section 819; title 42 section 7506.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

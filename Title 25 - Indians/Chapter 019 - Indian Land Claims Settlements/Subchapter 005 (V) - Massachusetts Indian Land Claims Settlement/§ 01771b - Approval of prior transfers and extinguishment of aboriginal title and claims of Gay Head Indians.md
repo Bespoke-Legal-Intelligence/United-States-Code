@@ -10,7 +10,7 @@ Any aboriginal title held by the Wampanoag Tribal Council of Gay Head, Inc. or a
 
 #### (c) Extinguishment of claims arising from prior transfers or extinguishment of aboriginal title
 
-Any claim (including any claim for damages for use and occupancy) by the Wampanoag Tribal Council of Gay Head, Inc., the Gay Head Indians, or any other Indian, Indian nation, or tribe or band of Indians against the United States, any State or political subdivision of a State, or any other person which is based on—
+Any claim (including any claim for damages for use and occupancy) by the Wampanoag Tribal Council of Gay Head, Inc., the Gay Head Indians, or any other Indian, Indian nation, or tribe or band of Indians against the United States,any State or political subdivision of a State, or any other person which is based on—
 
 &emsp;(1) any transfer of land or natural resources which is consented to and approved in subsection (a) of this section, or
 

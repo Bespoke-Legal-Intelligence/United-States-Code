@@ -82,7 +82,7 @@ Provisions similar to those in this section were contained in sections 3218, 545
 
 #### Amendments
 
-1998—Subsec. (c)(1). Pub. L. 105–261, §415(1), in table, inserted item relating to Medical Department staffcorps and struck out items relating to Medical Corps, Dental Corps, Nurse Corps, and Medical Service Corps.
+1998—Subsec. (c)(1). Pub. L. 105–261, §415(1), in table, inserted item relating to Medical Department staff corps and struck out items relating to Medical Corps, Dental Corps, Nurse Corps, and Medical Service Corps.
 
 Subsec. (c)(4). Pub. L. 105–261, §415(2), added par. (4).
 

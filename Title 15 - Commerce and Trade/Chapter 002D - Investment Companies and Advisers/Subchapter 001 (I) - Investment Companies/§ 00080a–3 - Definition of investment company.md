@@ -36,7 +36,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;(B) For purposes of this paragraph—
 
-&emsp;&emsp;(i) the term “market intermediary” means any person that regularly holds itself out asbeing willing contemporaneously to engage in, and that is regularly engaged in, the business of entering into transactions on both sides of the market for a financial contract or one or more such financial contracts; and
+&emsp;&emsp;(i) the term “market intermediary” means any person that regularly holds itself out as being willing contemporaneously to engage in, and that is regularly engaged in, the business of entering into transactions on both sides of the market for a financial contract or one or more such financial contracts; and
 
 &emsp;&emsp;(ii) the term “financial contract” means any arrangement that—
 
@@ -74,7 +74,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;(D) An issuer that is excepted under this paragraph shall nonetheless be deemed to be an investment company for purposes of the limitations set forth in subparagraphs (A)(i) and (B)(i) of section 80a–12(d)(1) of this title relating to the purchase or other acquisition by such issuer of any security issued by any registered investment company and the sale of any security issued by any registered open-end investment company to any such issuer.
 
-&emsp;(E) For purposes of determining compliance with this paragraph and paragraph (1), an issuer that is otherwise excepted under this paragraph and an issuer that is otherwise excepted under paragraph (1) shall not be treatedby the Commission as being a single issuer for purposes of determining whether the outstanding securities of the issuer excepted under paragraph (1) are beneficially owned by not more than 100 persons or whether the outstanding securities of the issuer excepted under this paragraph are owned by persons that are not qualified purchasers. Nothing in this subparagraph shall be construed to establish that a person is a bona fide qualified purchaser for purposes of this paragraph or a bona fide beneficial owner for purposes of paragraph (1).
+&emsp;(E) For purposes of determining compliance with this paragraph and paragraph (1), an issuer that is otherwise excepted under this paragraph and an issuer that is otherwise excepted under paragraph (1) shall not be treated by the Commission as being a single issuer for purposes of determining whether the outstanding securities of the issuer excepted under paragraph (1) are beneficially owned by not more than 100 persons or whether the outstanding securities of the issuer excepted under this paragraph are owned by persons that are not qualified purchasers. Nothing in this subparagraph shall be construed to establish that a person is a bona fide qualified purchaser for purposes of this paragraph or a bona fide beneficial owner for purposes of paragraph (1).
 
 &emsp;(8) Any company subject to regulation under the Public Utility Holding Company Act of 1935 \[15 U.S.C. 79 et seq.\].
 
@@ -130,7 +130,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;&emsp;(vi) the term “charitable gift annuity” means an annuity issued by a charitable organization that is described in section 501(m)(5) of title 26.
 
-&emsp;(11) Any employee's stock bonus, pension, or profit-sharing trust which meets the requirements for qualification under section 401 of title 26; or any governmental plan described in section 77c(a)(2)(C) of this title; or any collective trust fund maintained by a bank consisting solely of assets of such trusts or governmental plans, or both; or any separate account the assets of which are derived solely from (A) contributions under pension or profit-sharing plans which meet the requirements of section 401 of title 26 or the requirements for deduction of the employer's contribution under section 404(a)(2) of title 26, (B) contributions under governmental plans in connection with which interests, participations, or securities are exempted from the registration provisions of section 77e of this title by section 77c(a)(2)(C) of this title, and (C) advances made by an insurance company in connection with the operation of such separate account.
+&emsp;(11) Any employee's stock bonus, pension, or profit-sharing trust which meets the requirements for qualification under section 401 oftitle 26; or any governmental plan described in section 77c(a)(2)(C) of this title; or any collective trust fund maintained by a bank consisting solely of assets of such trusts or governmental plans, or both; or any separate account the assets of which are derived solely from (A) contributions under pension or profit-sharing plans which meet the requirements of section 401 of title 26 or the requirements for deduction of the employer's contribution under section 404(a)(2) of title 26, (B) contributions under governmental plans in connection with which interests, participations, or securities are exempted from the registration provisions of section 77e of this title by section 77c(a)(2)(C) of this title, and (C) advances made by an insurance company in connection with the operation of such separate account.
 
 &emsp;(12) Any voting trust the assets of which consist exclusively of securities of a single issuer which is not an investment company.
 
@@ -146,7 +146,21 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;&emsp;&emsp;(ii) administering or providing benefits pursuant to church plans.
 
-(Aug. 22, 1940, ch. 686, title I, §3, 54 Stat. 797; Oct. 21, 1942, ch. 619, title I, §162(e), 56 Stat. 867; Pub. L. 89–485, §13(i), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §3(a), (b), Dec. 14, 1970, 84 Stat. 1414; Pub. L. 94–210, title III, §308(c), Feb. 5, 1976, 90 Stat. 57; Pub. L. 96–477, title I, §102, title VII, §703, Oct. 21, 1980, 94 Stat. 2276, 2295; Pub. L. 100–181, title VI, §§604–606, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 104–62, §2(a), Dec. 8, 1995, 109 Stat. 682; Pub. L. 104–290, title II, §209(a), (c), title V, §508(a), Oct. 11, 1996, 110 Stat. 3432, 3435, 3447; Pub. L. 105–353, title III, §301(c)(2), Nov. 3, 1998, 112 Stat. 3236.)
+(Aug. 22, 1940, ch. 686, title I, §3, 54 Stat. 797; Oct. 21, 1942, ch. 619, title I, §162(e), 56 Stat. 867; Pub. L. 89–485, §13(i), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §3(a), (b), Dec. 14, 1970, 84 Stat. 1414; Pub. L. 94–210, title III, §308(c), Feb. 5, 1976, 90 Stat. 57; Pub. L. 96–477, title I, §102, title VII, §703, Oct. 21, 1980, 94 Stat. 2276, 2295; Pub. L. 100–181, title VI, §§604–606, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 104–62, §2(a), Dec. 8, 1995, 109 Stat. 682; Pub. L. 104–290, title II, §209(a), (c), title V, §508(a), Oct. 11, 1996, 110 Stat. 3432, 3435, 3447; Pub. L. 105–353, title III, §301(c)(2), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §221(c), Nov. 12, 1999, 113 Stat. 1401.)
+
+#### Amendment of Subsection (c)(3)
+
+<i>Pub. L. 106–102, title II, §§221(c), 225, Nov. 12, 1999, 113 Stat. 1401, 1402, provided that, effective 18 months after Nov. 12, 1999, subsection (c)(3) of this section is amended by inserting before the period the following: “, if—</i>
+
+&emsp;“(A) such fund is employed by the bank solely as an aid to the administration of trusts, estates, or other accounts created and maintained for a fiduciary purpose;
+
+&emsp;“(B) except in connection with the ordinary advertising of the bank's fiduciary services, interests in such fund are not—
+
+&emsp;&emsp;“(i) advertised; or
+
+&emsp;&emsp;“(ii) offered for sale to the general public; and
+
+&emsp;“(C) fees and expenses charged by such fund are not in contravention of fiduciary principles established under applicable Federal or State law”.
 
 #### References in Text
 
@@ -210,6 +224,10 @@ Subsecs. (c)(12) to (15). Pub. L. 91–547, §3(b)(2), redesignated pars. (14) a
 
 1942—Subsec. (c)(13). Act Oct. 31, 1942, inserted “as amended”.
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–102 effective 18 months after Nov. 12, 1999, see section 225 of Pub. L. 106–102, set out as a note under section 77c of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by section 209 of Pub. L. 104–290 effective on earlier of 180 days after Oct. 11, 1996, or date on which required rulemaking is completed, see section 209(e) of Pub. L. 104–290 set out as a note under section 80a–2 of this title.
@@ -254,7 +272,7 @@ Taxable Years to Which Amendments Applicable.—The amendments made by this sect
 
 Section 209(d)(1) of Pub. L. 104–290 provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules to implement the requirements of section 3(c)(1)(B) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(c)(1)(B)), as amended by this section.”
 
-Section 209(d)(3) of Pub. L. 104–290 provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules pursuant to its authority under section 6 of the Investment Company Act of 1940 \[15 U.S.C. 80a–6\] to permit the ownership of securities by knowledgeable employees of the issuer of the securities or an affiliated person without loss of the exception of the issuer underparagraph (1) or (7) of section 3(c) of that Act \[15 U.S.C. 80a–3(c)\] from treatment as an investment company under that Act \[15 U.S.C. 80a–1 et seq.\].”
+Section 209(d)(3) of Pub. L. 104–290 provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules pursuant to its authority under section 6 of the Investment Company Act of 1940 \[15 U.S.C. 80a–6\] to permit the ownership of securities by knowledgeable employees of the issuer of the securities or an affiliated person without loss of the exception of the issuer under paragraph (1) or (7) of section 3(c) of that Act \[15 U.S.C. 80a–3(c)\] from treatment as an investment company under that Act \[15 U.S.C. 80a–1 et seq.\].”
 
 Section 209(d)(4) of Pub. L. 104–290 provided that: “Not later than 180 days after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules defining the term ‘beneficial owner’ for purposes of section 3(c)(7)(B) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(7)(B)\], as amended by this Act.”
 
@@ -282,5 +300,5 @@ Value as to assets of registered investment companies, definition of, see sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 77c, 77z–2, 78c, 78<i>l</i>, 78u–5, 80a–2, 80a–3a, 80a–6, 80a–7, 80a–29, 80a–58, 80a–62, 80a–64, 80b–3, 80b–5, 6102 of this title; title 26 sections 851, 6049.
+This section is referred to in sections 77c, 77z–2, 78c, 78<i>l</i>, 78u–5, 80a–2, 80a–3a, 80a–6, 80a–7, 80a–29, 80a–58, 80a–62, 80a–64, 80b–3, 80b–5, 6102, 6827 of this title; title 12 section 1843; title 26 sections 851, 6049.
 

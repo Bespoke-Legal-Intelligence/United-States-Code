@@ -32,7 +32,7 @@ In awarding grants under subsection (b) of this section, the Secretary shall giv
 
 #### (1) In general
 
-&emsp;To be eligible for a grant under subsection (b) of this section, a recipient institution must have a significant demonstrable commitment to higher education teaching programs in the food and agricultural sciences and to each specific subject area for which the grant is to be used.
+&emsp;To be eligible for a grant under subsection (b) of this section, a recipient institution musthave a significant demonstrable commitment to higher education teaching programs in the food and agricultural sciences and to each specific subject area for which the grant is to be used.
 
 #### (2) Minority groups
 
@@ -106,7 +106,7 @@ Funds authorized in section 22 of the Act of June 29, 1935 (49 Stat. 439, chapte
 
 &emsp;&emsp;(D) to promote the incorporation of agriscience and agribusiness subject matter into other instructional programs, particularly classes in science, business, and consumer education;
 
-&emsp;&emsp;(E) to facilitate joint initiatives by the grant recipient with other secondary schools, institutions of higher education that award an associate's degree, and institutions of higher education that award a bachelor's degree to maximize the development and use of resources, such as faculty, facilities, and equipment, to improve agriscience and agribusiness education; and
+&emsp;&emsp;(E) to facilitate joint initiatives by the grant recipient with other secondaryschools, institutions of higher education that award an associate's degree, and institutions of higher education that award a bachelor's degree to maximize the development and use of resources, such as faculty, facilities, and equipment, to improve agriscience and agribusiness education; and
 
 &emsp;&emsp;(F) to support other initiatives designed to meet local, State, regional, or national needs related to promoting excellence in agriscience and agribusiness education.
 
@@ -170,7 +170,7 @@ Subsec. (d). Pub. L. 99–198, §1412(b), amended subsec. (d) generally. Prior t
 
 Subsec. (e). Pub. L. 99–198, §1412(c), added subsec. (e).
 
-1981—Subsec. (a). Pub. L. 97–98, §1418(a), substituted provisions authorizing the Secretary to promote and develop higher education in the food and agricultural science by formulating and administering higher education programs, to make grants to land-grant colleges and universities and other institutions capable of teaching food and agricultural education for specified purposes for a period not to exceed five years without regard to matching funds and to make competitive grants to colleges and universities to develop or administer programs to meet unique food and agricultural educational problems, and to administer and conductspecialized programs and graduate fellowship programs for a period not to exceed five years without regard to matching funds for provisions relating to competitive grants to all colleges and universities for the purpose of furthering education in the food and agricultural sciences in two specified categories.
+1981—Subsec. (a). Pub. L. 97–98, §1418(a), substituted provisions authorizing the Secretary to promote and develop higher education in the food and agricultural science by formulating and administering higher education programs, to make grants to land-grant colleges and universities and other institutions capable of teaching food and agricultural education for specified purposes for a period not to exceed five years without regard to matching funds and to make competitive grants to colleges and universities to develop or administer programs to meet unique food and agricultural educational problems, and to administer and conduct specialized programs and graduate fellowship programs for a period not to exceed five years without regard to matching funds for provisions relating to competitive grants to all colleges and universities for the purpose of furthering education in the food and agricultural sciences in two specified categories.
 
 Subsec. (c). Pub. L. 97–98 inserted provisions relating to the transfer to the Secretary of all the functions and duties of the Secretary of Education under the act of June 29, 1935, applicable to the activities and programs for which funds are made available under section 329 of this title.
 

@@ -4,7 +4,7 @@
 
 Whenever the Secretary of Agriculture has reason to believe that:
 
-&emsp;(a) The current average farm price for any basic agricultural commodity is less than the fair exchange value thereof, or the average farm price of such commodity is likely to be less than the fair exchange value thereof for the period in which the production of such commodity during the current or next succeeding marketing year is normally marketed, and
+&emsp;(a) The current average farm price for any basic agricultural commodity is less than thefair exchange value thereof, or the average farm price of such commodity is likely to be less than the fair exchange value thereof for the period in which the production of such commodity during the current or next succeeding marketing year is normally marketed, and
 
 &emsp;(b) The conditions of and factors relating to the production, marketing, and consumption of such commodity are such that the exercise of any one or more of the powers conferred upon the Secretary under subsections (2) and (3) of this section would tend to effectuate the declared policy of this chapter,
 

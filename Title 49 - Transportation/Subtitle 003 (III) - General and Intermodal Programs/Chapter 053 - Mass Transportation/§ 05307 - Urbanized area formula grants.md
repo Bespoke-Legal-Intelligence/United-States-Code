@@ -12,7 +12,7 @@ Associated capital maintenance items.—The term “associated capital maintenan
 
 Designated recipient.—The term “designated recipient” means—
 
-&emsp;&emsp;(A) a person designated, consistent with the planning process under sections 5303–5306 of this title, by the chief executive officer of a State, responsible local officials, and publicly owned operators of mass transportation to receive and apportion amounts under section 5336 of this title that are attributable to transportation management areas established under section 5305(a) of this title; or
+&emsp;&emsp;(A) a person designated, consistent with the planning process under sections 5303–5306 of this title, by the chief executive officer ofa State, responsible local officials, and publicly owned operators of mass transportation to receive and apportion amounts under section 5336 of this title that are attributable to transportation management areas established under section 5305(a) of this title; or
 
 &emsp;&emsp;(B) a State or regional authority if the authority is responsible under the laws of a State for a capital project and for financing and directly providing mass transportation.
 
@@ -78,7 +78,7 @@ Grant Recipient Requirements.—A recipient may receive a grant in a fiscal year
 
 &emsp;&emsp;(I) has a locally developed process to solicit and consider public comment before raising a fare or carrying out a major reduction of transportation; and
 
-&emsp;&emsp;(J)(i) will expend for each fiscal year for mass transportation security projects, including increased lighting in or adjacent to a mass transportation system (including bus stops, subway stations, parking lots, and garages), increased camera surveillance of an area in or adjacent to that system, providing an emergency telephone line to contact law enforcement or security personnel in an area in or adjacent to that system, and any other project intended to increase the security and safety of an existing or planned mass transportation system, at least one percent of the amount the recipient receives for each fiscal year under section 5336 of this title; or
+&emsp;&emsp;(J)(i) will expend for each fiscal year for mass transportation security projects, including increased lighting in or adjacent to a mass transportation system (including bus stops, subway stations, parking lots, and garages), increased camera surveillance of anarea in or adjacent to that system, providing an emergency telephone line to contact law enforcement or security personnel in an area in or adjacent to that system, and any other project intended to increase the security and safety of an existing or planned mass transportation system, at least one percent of the amount the recipient receives for each fiscal year under section 5336 of this title; or
 
 &emsp;&emsp;(ii) has decided that the expenditure for security projects is not necessary; and
 
@@ -96,7 +96,7 @@ Statewide Operating Assistance.—(1) A State authority that is a designated rec
 
 (g)
 
-Undertaking Projects in Advance.—(1) When a recipient obligates all amounts apportioned to it under section 5336 of this title and then carries out a part of a project described in this section (except a project for operating expenses) without amounts of the Government andaccording to all applicable procedures and requirements (except to the extent the procedures and requirements limit a State to carrying out a project with amounts of the Government previously apportioned to it), the Secretary may pay to the recipient the Government's share of the cost of carrying out that part when additional amounts are apportioned to the recipient under section 5336 if—
+Undertaking Projects in Advance.—(1) When a recipient obligates all amounts apportioned to it under section 5336 of this title and then carries out a part of a project described in this section (except a project for operating expenses) without amounts of the Government and according to all applicable procedures and requirements (except to the extent the procedures and requirements limit a State to carrying out a project with amounts of the Government previously apportioned to it), the Secretary may pay to the recipient the Government's share of the cost of carrying out that part when additional amounts are apportioned to the recipient under section 5336 if—
 
 &emsp;(A) the recipient applies for the payment;
 
@@ -456,11 +456,11 @@ Contents of report.—The report required by this subsection shall include—
 
 #### Pilot Program for Intercity Rail Infrastructure Investment From Mass Transit Account of Highway Trust Fund
 
-Pub. L. 105–178, title III, §3021, June 9, 1998, 112 Stat. 363; as amended by Pub. L. 105–206, title IX, §9009(m), July 22, 1998, 112 Stat. 857; Pub. L. 105–277, div. A, §101(g) \[title III, §354\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–476, provided that:
+Pub. L. 105–178, title III, §3021, June 9, 1998, 112 Stat. 363; as amended by Pub. L. 105–206, title IX, §9009(m), July 22, 1998, 112 Stat. 857; Pub. L. 105–277, div. A, §101(g) \[title III, §354\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–476; Pub. L. 106–69, title III, §323, Oct. 9, 1999, 113 Stat. 1020, provided that:
 
 “(a)
 
-In General.—The Secretary \[of Transportation\] shall establish a single-State pilot program to determine the benefits of using funds from the Mass Transit Account of the Highway Trust Fund for intercity passenger rail. Any assistance provided to the State of Oklahoma or the State of Vermont under sections 5307 and 5311 of title 49, United States Code, during fiscal years 1998 through 2003 may be used for capital improvements to, and operating assistance for, intercity passenger rail service.
+In General.—The Secretary \[of Transportation\] shall establish a pilot program to determine the benefits of using funds from the Mass Transit Account of the Highway Trust Fund for intercity passenger rail. The funds made available to the State of Oklahoma andthe State of Vermont to carry out sections 5307 and 5311 of title 49, United States Code during fiscal years 1998 through 2003 may be used for capital improvements to, and operating assistance for, intercity passenger rail service.
 
 “(b)
 
@@ -484,7 +484,7 @@ Contents.—The report submitted under paragraph (1) shall include—
 
 #### Continuation of Operating Assistance to Certain Larger Urbanized Areas
 
-Pub. L. 105–178, title III, §3027(c), June 9, 1998, 112 Stat. 366; as amended by Pub. L. 105–206, title IX, §9009(<i>o</i>)(1), July 22, 1998, 112 Stat. 858; Pub. L. 105–277, div. A, §101(g) \[title III, §360\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–477, provided that:
+Pub. L. 105–178, title III, §3027(c), June 9, 1998, 112 Stat. 366; as amended by Pub. L. 105–206, title IX, §9009(<i>o</i>)(1), July 22, 1998, 112 Stat. 858; Pub. L. 105–277, div. A, §101(g) \[title III, §360\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–477; Pub. L. 106–31, title VI, §6004, May 21, 1999, 113 Stat. 113, provided that:
 
 “(1)
 
@@ -508,9 +508,7 @@ Period described.—For purposes of paragraph (1), the period described in this 
 
 “(3)
 
-Services for elderly and persons with disabilities.—In addition to assistance made available under paragraph (1), the Secretary may provide assistance under section 5307 of title 49, United States Code, to a transit provider that operates 20 or fewer vehicles in an urbanized area with a population of at least 200,000 to finance the operating costs of equipment andfacilities used by the transit provider in providing mass transportation services to elderly and persons with disabilities, provided that such assistance to all entities shall not exceed $1,000,000 annually.”
-
-\[Pub. L. 105–277, div. A, §101(g) \[title III, §360\], which directed amendment of section 3027 of Pub. L. 105–178 by adding a new par. (3) at end, was executed by adding the par. (3) at the end of section 3027(c) of Pub. L. 105–178, set out above, to reflect the probable intent of Congress and the amendment by Pub. L. 105–206, §9009(<i>o</i>)(2), adding subsec. (d).\]
+Services for elderly and persons with disabilities.—In addition to assistance made available under paragraph (1), the Secretary may provide assistance under section 5307 of title 49, United States Code, to a transit provider that operates 20 or fewer vehicles in an urbanized area with a population of at least 200,000 to finance the operating costs of equipment and facilities used by the transit provider in providing mass transportation services to elderly and persons with disabilities, provided that such assistance to all entities shall not exceed $1,000,000 annually.”
 
 #### Section Referred to in Other Sections
 

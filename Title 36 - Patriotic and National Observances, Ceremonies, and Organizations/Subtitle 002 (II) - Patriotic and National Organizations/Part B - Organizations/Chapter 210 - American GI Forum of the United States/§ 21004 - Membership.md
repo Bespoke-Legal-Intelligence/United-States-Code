@@ -30,7 +30,9 @@ Aug. 13, 1998, Pub. L. 105–231, §§5, 8(g) (related to membership), 112 Stat.
 
 36 App.:5908(g) (related to membership).
 
-In subsection (a), the words “Except as provided in this chapter” are substituted for “Except as providedin section 5908(g) of this title” for consistency in the revised title.
+&nbsp;
+
+In subsection (a), the words “Except as provided in this chapter” are substituted for “Except as provided in section 5908(g) of this title” for consistency in the revised title.
 
 In subsection (b), the words “The terms of membership” are substituted for “In establishing the conditions of membership in the corporation” for consistency in the revised title and to eliminate unnecessary words.
 

@@ -70,27 +70,39 @@ Oct. 26, 1992, Pub. L. 102–522, title II, §§203(a)–(f), 204(c)(2) (words a
 
 36:5202(a)(1) (words after 1st comma), (2), (b), (c).
 
+&nbsp;
+
 151303(c)
 
 36:5202(d).
+
+&nbsp;
 
 151303(d)
 
 36:5202(e).
 
+&nbsp;
+
 151303(e)
 
 36:5202(f).
+
+&nbsp;
 
 151303(f)
 
 36:5202(a)(3), (4).
 
+&nbsp;
+
 151303(g)
 
 36:5203(c)(2) (words after 2d comma).
 
-Subsection (a) is substituted for “The Foundation shall have a governing Board of Directors (hereafter in this chapter referred to as the ‘Board’)” for consistency in the revised title and to eliminate unnecessary words.
+&nbsp;
+
+Subsection (a) is substituted for “The Foundation shall have a governing Board of Directors (hereafter inthis chapter referred to as the ‘Board’)” for consistency in the revised title and to eliminate unnecessary words.
 
 In subsection (b)(1), the words “(hereafter in this chapter referred to as the ‘Administrator’)” in 36:5202(a)(2) are omitted as unnecessary. The words “Within 3 months after October 26, 1992” in 36:5202(b) are omitted as obsolete.
 

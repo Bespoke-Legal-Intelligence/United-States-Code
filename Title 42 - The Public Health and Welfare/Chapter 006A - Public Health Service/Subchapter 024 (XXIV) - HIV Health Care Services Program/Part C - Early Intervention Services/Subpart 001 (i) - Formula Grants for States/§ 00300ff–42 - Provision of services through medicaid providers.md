@@ -16,7 +16,7 @@ Subject to subsection (b) of this section, the Secretary may not make a grant un
 
 #### (2) Acceptance of voluntary donations
 
-&emsp;A determination by the Secretary of whether an entity referred to in paragraph (1) meetsthe criteria for a waiver under such subparagraph shall be made without regard to whether the entity accepts voluntary donations for the purpose of providing services to the public.
+&emsp;A determination by the Secretary of whether an entity referred to in paragraph (1) meets the criteria for a waiver under such subparagraph shall be made without regard to whether the entity accepts voluntary donations for the purpose of providing services to the public.
 
 (July 1, 1944, ch. 373, title XXVI, §2642, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 599.)
 

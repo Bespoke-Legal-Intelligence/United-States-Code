@@ -30,5 +30,7 @@ Dec. 4, 1980, Pub. L. 96–497, §§1, 15 (last sentence), 94 Stat. 2595, 2597.
 
 36:1614 (last sentence).
 
+&nbsp;
+
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
 

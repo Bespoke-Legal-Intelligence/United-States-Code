@@ -22,7 +22,7 @@ The following items of gross income shall be treated as income from sources with
 
 &emsp;&emsp;(A) from a domestic corporation other than a corporation which has an election in effect under section 936, or
 
-&emsp;&emsp;(B) from a foreign corporation unless less than 25 percent of the gross income from all sources of such foreign corporation for the 3-year period ending with the close of its taxable year preceding the declaration of such dividends (or for such part of such period as the corporation has been in existence) was effectively connected (or treated as effectively connected other than income described in section 884(d)(2)) with the conduct of a trade or business within the United States; but only in an amount which bears the same ratio to such dividends as the gross income of the corporation for such periodwhich was effectively connected (or treated as effectively connected other than income described in section 884(d)(2)) with the conduct of a trade or business within the United States bears to its gross income from all sources; but dividends (other than dividends for which a deduction is allowable under section 245(b)) from a foreign corporation shall, for purposes of subpart A of part III (relating to foreign tax credit), be treated as income from sources without the United States to the extent (and only to the extent) exceeding the amount which is 100/70th of the amount of the deduction allowable under section 245 in respect of such dividends, or
+&emsp;&emsp;(B) from a foreign corporation unless less than 25 percent of the gross income from all sources of such foreign corporation for the 3-year period ending with the close of its taxable year preceding the declaration of such dividends (or for such part of such period as the corporation has been in existence) was effectively connected (or treated as effectively connected other than income described in section 884(d)(2)) with the conduct of a trade or business within the United States; but only in an amount which bears the same ratio to such dividends as the gross income of the corporation for such period which was effectively connected (or treated as effectively connected other than income described in section 884(d)(2)) with the conduct of a trade or business within the United States bears to its gross income from all sources; but dividends (other than dividends for which a deduction is allowable under section 245(b)) from a foreign corporation shall, for purposes of subpart A of part III (relating to foreign tax credit), be treated as income from sources without the United States to the extent (and only to the extent) exceeding the amount which is 100/70th of the amount of the deduction allowable under section 245 in respect of such dividends, or
 
 &emsp;&emsp;(C) from a foreign corporation to the extent that such amount is required by section 243(e) (relating to certain dividends from foreign corporations) to be treated as dividends from a domestic corporation which is subject to taxation under this chapter, and to such extent subparagraph (B) shall not apply to such amount, or
 
@@ -130,7 +130,7 @@ For purposes of subsection (a)(2)(B), if the foreign corporation has no gross in
 
 #### (2) Paragraph (1) not to apply where lessor is a member of controlled group which includes a railroad
 
-&emsp;Paragraph (1) shall not apply to a lease between two members of the same controlled group of corporations (as defined in section 1563) if any member of such group is a domestic common carrier by railroad or a switching or terminal company all of whose stock is owned by one or more domestic common carriers by railroad.
+&emsp;Paragraph (1) shall not apply to a lease between two members of the same controlled group of corporations (as defined in section 1563) if any member of such group is a domestic common carrier by railroad or a switchingor terminal company all of whose stock is owned by one or more domestic common carriers by railroad.
 
 #### (3) Denial of foreign tax credit
 
@@ -140,7 +140,7 @@ For purposes of subsection (a)(2)(B), if the foreign corporation has no gross in
 
 &emsp;&emsp;<b>For treatment of interest paid by the branch of a foreign corporation, see section 884(f).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 275; Pub. L. 86–779, §3(b), Sept. 14, 1960, 74 Stat. 998; Pub. L. 87–834, §9(c), Oct. 16, 1962, 76 Stat. 1001; Pub. L. 89–809, title I, §102(a)(1)–(3), (b), (c), Nov. 13, 1966, 80 Stat. 1541–1543; Pub. L. 91–172, title IV, §435(a), Dec. 30, 1969, 83 Stat. 625; Pub. L. 92–9, §3(a)(2),Apr. 1, 1971, 85 Stat. 15; Pub. L. 92–178, title III, §314(a), title V, §503, Dec. 10, 1971, 85 Stat. 528, 550; Pub. L. 93–625, §§8, 9(a), Jan. 3, 1975, 88 Stat. 2116; Pub. L. 94–455, title X, §§1036(a), 1041, 1051(h)(3), title XIX, §§1901(b)(26)(A), (B), (c)(7), 1904(b)(10)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1633, 1634, 1647, 1798, 1803, 1817, 1834; Pub. L. 95–30, title I, §102(b)(9), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title III, §370(a), title V, §540(a), Nov. 6, 1978, 92 Stat. 2858, 2887; Pub. L. 96–499, title XI, §1124, Dec. 5, 1980, 94 Stat. 2690; Pub. L. 96–605, title I, §104(a), Dec. 28, 1980, 94 Stat. 3523; Pub. L. 98–21, title I, §121(d), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, title I, §104(b)(11), title XII, §§1211(b)(1)(B), 1212(d), 1214(a), (b), (c)(5), 1241(b), Oct. 22, 1986, 100 Stat. 2105, 2536, 2539, 2541–2543, 2579; Pub. L. 100–203, title X, §10221(d)(4), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §§1012(g)(3), (i)(10), (14)(B), (q)(7), (9), (15), 1018(u)(39), Nov. 10, 1988, 102 Stat. 3501, 3509, 3510, 3524, 3525, 3592; Pub. L. 101–239, title VII, §§7811(i)(2), 7841(d)(9), Dec. 19, 1989, 103 Stat. 2409, 2428; Pub. L. 101–508, title XI, §§11801(a)(29), (c)(6)(C), (14), 11813(b)(17), Nov. 5, 1990, 104 Stat. 1388–521, 1388–524, 1388–527, 1388–555; Pub. L. 104–188, title I, §1702(h)(9), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title XI, §1174(a)(1), Aug. 5, 1997, 111 Stat. 989.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 275; Pub. L. 86–779, §3(b), Sept. 14, 1960, 74 Stat. 998; Pub. L. 87–834, §9(c), Oct. 16, 1962, 76 Stat. 1001; Pub. L. 89–809, title I, §102(a)(1)–(3), (b), (c), Nov. 13, 1966, 80 Stat. 1541–1543; Pub. L. 91–172, title IV, §435(a), Dec. 30, 1969, 83 Stat. 625; Pub. L. 92–9, §3(a)(2), Apr. 1, 1971, 85 Stat. 15; Pub. L. 92–178, title III, §314(a), title V, §503, Dec. 10, 1971, 85 Stat. 528, 550; Pub. L. 93–625, §§8, 9(a), Jan. 3, 1975, 88 Stat. 2116; Pub. L. 94–455, title X, §§1036(a), 1041, 1051(h)(3), title XIX, §§1901(b)(26)(A), (B), (c)(7), 1904(b)(10)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1633, 1634, 1647, 1798, 1803, 1817, 1834; Pub. L. 95–30, title I, §102(b)(9), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title III, §370(a), title V, §540(a), Nov. 6, 1978, 92 Stat. 2858, 2887; Pub. L. 96–499, title XI, §1124, Dec. 5, 1980, 94 Stat. 2690; Pub. L. 96–605, title I, §104(a), Dec. 28, 1980, 94 Stat. 3523; Pub. L. 98–21, title I, §121(d), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, title I, §104(b)(11), title XII, §§1211(b)(1)(B), 1212(d), 1214(a), (b), (c)(5), 1241(b), Oct. 22, 1986, 100 Stat. 2105, 2536, 2539, 2541–2543, 2579; Pub. L. 100–203, title X, §10221(d)(4), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §§1012(g)(3), (i)(10), (14)(B), (q)(7), (9), (15), 1018(u)(39), Nov. 10, 1988, 102 Stat. 3501, 3509, 3510, 3524, 3525, 3592; Pub. L. 101–239, title VII, §§7811(i)(2), 7841(d)(9), Dec. 19, 1989, 103 Stat. 2409, 2428; Pub. L. 101–508, title XI, §§11801(a)(29), (c)(6)(C), (14), 11813(b)(17), Nov. 5, 1990, 104 Stat. 1388–521, 1388–524, 1388–527, 1388–555; Pub. L. 104–188, title I, §1702(h)(9), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title XI, §1174(a)(1), Aug. 5, 1997, 111 Stat. 989.)
 
 #### Amendments
 
@@ -192,9 +192,9 @@ Subsec. (a)(2)(B). Pub. L. 100–203, §10221(d)(4)(A), which directed that subp
 
 1986—Subsec. (a)(1). Pub. L. 99–514, §1241(b)(1)(A), substituted “noncorporate residents or domestic corporations” for “residents, corporate or otherwise,” in introductory text.
 
-Subsec. (a)(1)(A). Pub. L. 99–514, §1214(a)(1), (c)(5)(A), amended subpar. (B) generally and redesignated it as (A). Prior to amendment and redesignation, former subpar. (B) read as follows: “interest received from a resident alien individual or a domestic corporation, when it is shown to the satisfaction of the Secretary that less than 20 percent of the gross income from all sources of such individual or such corporation has been derived from sources within the United States, as determined under the provisions of this part, for the 3-year period ending with the close of the taxable year of such individual or such corporation preceding the payment of such interest, or for such part of such period as may be applicable,”. Former subpar. (A), which read “interest on amounts described in subsection (c) received by a nonresident alien individual or a foreign corporation, if such interest is not effectively connected with the conduct of a trade or business within the United States,”, was struck out.
+Subsec. (a)(1)(A). Pub. L. 99–514, §1214(a)(1), (c)(5)(A), amended subpar. (B) generally and redesignated it as\(A). Prior to amendment and redesignation, former subpar. (B) read as follows: “interest received from a resident alien individual or a domestic corporation, when it is shown to the satisfaction of the Secretary that less than 20 percent of the gross income from all sources of such individual or such corporation has been derived from sources within the United States, as determined under the provisions of this part, for the 3-year period ending with the close of the taxable year of such individual or such corporation preceding the payment of such interest, or for such part of such period as may be applicable,”. Former subpar. (A), which read “interest on amounts described in subsection (c) received by a nonresident alien individual or a foreign corporation, if such interest is not effectively connected with the conduct of a trade or business within the United States,”, was struck out.
 
-Subsec. (a)(1)(B). Pub. L. 99–514, §1241(b)(1)(B), redesignated subpar. (D), as previously redesignated and amended by §1214(c)(5)(A), (B) of Pub. L. 99–514, as (B) and struck out former subpar. (B) \[previously (C)\] which read as follows: “interest received from a foreigncorporation (other than interest paid or credited by a domestic branch of a foreign corporation, if such branch is engaged in the commercial banking business), when it is shown to the satisfaction of the Secretary that less than 50 percent of the gross income from all sources of such foreign corporation for the 3-year period ending with the close of its taxable year preceding the payment of such interest (or for such part of such period as the corporation has been in existence) was effectively connected with the conduct of a trade or business within the United States,”.
+Subsec. (a)(1)(B). Pub. L. 99–514, §1241(b)(1)(B), redesignated subpar. (D), as previously redesignated and amended by §1214(c)(5)(A), (B) of Pub. L. 99–514, as (B) and struck out former subpar. (B) \[previously (C)\] which read as follows: “interest received from a foreign corporation (other than interest paid or credited by a domestic branch of a foreign corporation, if such branch is engaged in the commercial banking business), when it is shown to the satisfaction of the Secretary that less than 50 percent of the gross income from all sources of such foreign corporation for the 3-year period ending with the close of its taxable year preceding the payment of such interest (or for such part of such period as the corporation has been in existence) was effectively connected with the conduct of a trade or business within the United States,”.
 
 Pub. L. 99–514, §1214(c)(5)(A), (B), redesignated former subpar. (F) as (D), substituted in cl. (ii), “subparagraph (B) of section 871(i)(3)” for “paragraph (2) of subsection (c)”, and redesignated former subpar. (C) as (B). Former subpar. (B) redesignated (A).
 
@@ -438,7 +438,7 @@ Section 435(a)(1) of Pub. L. 91–172 provided that the amendment made by that s
 
 Section 102(e) of Pub. L. 89–809, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1) The amendments made by subsections (a), (c), and (d) \[amending this section and sections 864 and 895 of this title\] shall apply with respect to taxable years beginning after December 31, 1966; except that in applying section 864(c)(4)(B)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (d)) with respect to a binding contract entered into on or before February 24, 1966, activities in the United States on or before such date in negotiating or carrying out such contract shall not be taken into account.
+“(1) The amendments made by subsections (a), (c), and (d) \[amending this section and sections 864 and 895 of this title\] shall apply with respect to taxable yearsbeginning after December 31, 1966; except that in applying section 864(c)(4)(B)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (d)) with respect to a binding contract entered into on or before February 24, 1966, activities in the United States on or before such date in negotiating or carrying out such contract shall not be taken into account.
 
 “(2) The amendments made by subsection (b) \[amending this section\] shall apply with respect to amounts received after December 31, 1966.”
 
@@ -448,7 +448,7 @@ Amendment by Pub. L. 87–834 applicable in respect of any distribution received
 
 #### Effective Date of 1960 Amendment
 
-Amendment by Pub. L. 86–779 applicable to dividends received after Dec. 31, 1959, in taxable years endingafter such date, see section 3(c) of Pub. L. 86–779, set out as a note under section 243 of this title.
+Amendment by Pub. L. 86–779 applicable to dividends received after Dec. 31, 1959, in taxable years ending after such date, see section 3(c) of Pub. L. 86–779, set out as a note under section 243 of this title.
 
 #### Short Title of 1971 Amendment
 
@@ -516,7 +516,7 @@ Section 4009 of Pub. L. 100–647 provided that:
 
 “(a)
 
-General Rule.—For purposes of sections 861(b), 862(b), and 863(b) of the 1986 Code, qualified research and experimental expenditures shall be allocated and apportioned as follows:
+General Rule.—For purposes of sections 861(b), 862(b), and 863(b) of the 1986 Code, qualified researchand experimental expenditures shall be allocated and apportioned as follows:
 
 &emsp;“(1) Any qualified research and experimental expenditures expended solely to meet legal requirements imposed by a political entity with respect to the improvement or marketing of specific products or processes for purposes not reasonably expected to generate gross income (beyond de minimis amounts) outside the jurisdiction of the political entity shall be allocated only to gross income from sources within such jurisdiction.
 
@@ -626,7 +626,7 @@ Effective Date.—This section shall apply to taxable years beginning after Augu
 
 #### Allocation Under Section 861 of Research and Experimental Expenditures
 
-Pub. L. 98–369, div. A, title I, §126, July 18, 1984, 98 Stat. 648, as amended by Pub. L. 99–272, title XIII, §13211, Apr. 7, 1986, 100 Stat. 324; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, §126, July 18, 1984, 98 Stat. 648, as amended by Pub. L. 99–272, title XIII,§13211, Apr. 7, 1986, 100 Stat. 324; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 
@@ -658,7 +658,7 @@ In general.—This section shall apply to taxable years beginning after August 1
 
 &emsp;“(2)
 
-Special rule.—If the taxpayer's 4th taxable year beginning after August 13, 1981, is not describedin paragraph (1), this section shall apply also to such 4th taxable year.”
+Special rule.—If the taxpayer's 4th taxable year beginning after August 13, 1981, is not described in paragraph (1), this section shall apply also to such 4th taxable year.”
 
 #### Conformity of Amendments Made by Foreign Investors Tax Act of 1966 With Treaty Obligations of the United States
 

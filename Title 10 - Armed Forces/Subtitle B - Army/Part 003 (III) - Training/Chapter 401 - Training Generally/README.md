@@ -16,10 +16,13 @@
 | [4318\.](%C2%A7%2004318%20-%20Drill%20sergeant%20trainees%20human%20relations%20training.md) | Drill sergeant trainees: human relations training. |
 | [4319\.](%C2%A7%2004319%20-%20Recruit%20basic%20training%20separate%20housing%20for%20male%20and%20female%20recruits.md) | Recruit basic training: separate housing for male and female recruits. |
 | [4320\.](%C2%A7%2004320%20-%20Recruit%20basic%20training%20privacy.md) | Recruit basic training: privacy. |
+| [4321\.](%C2%A7%2004321%20-%20United%20States%20Army%20War%20College%20master%20of%20strategic%20studies%20degree.md) | United States Army War College: master of strategic studies degree. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title V, §542(b), Oct. 5, 1999, 113 Stat. 607, added item 4321.
 
 1998—Pub. L. 105–261, div. A, title V, §§521(a)(2), 522(a)(2), Oct. 17, 1998, 112 Stat. 2010, 2012, added items 4319 and 4320.
 
@@ -27,7 +30,7 @@ Pub. L. 105–225, §6(b), Aug. 12, 1998, 112 Stat. 1499, repealed items 4312 �
 
 1997—Pub. L. 105–85, div. A, title V, §557(a)(2), Nov. 18, 1997, 111 Stat. 1750, added item 4318.
 
-1996—Pub. L. 104–106, div. A, title V, §562(a)(2), title XVI, §1624(a)(2), Feb. 10, 1996, 110 Stat. 324, 522, addeditem 4303 and struck out items 4307 “Director of civilian marksmanship: detail”, 4308 “Promotion of civilian marksmanship: authority of the Secretary of the Army”, 4310 “Rifle instruction: detail of members of Army”, and 4311 “Rifle instruction: issue of rifles and ammunition”.
+1996—Pub. L. 104–106, div. A, title V, §562(a)(2), title XVI, §1624(a)(2), Feb. 10, 1996, 110 Stat. 324, 522, added item 4303 and struck out items 4307 “Director of civilian marksmanship: detail”, 4308 “Promotion of civilian marksmanship: authority of the Secretary of the Army”, 4310 “Rifle instruction: detail of members of Army”, and 4311 “Rifle instruction: issue of rifles and ammunition”.
 
 1993—Pub. L. 103–35, title II, §201(b)(2)(B), (g)(10)(B), May 31, 1993, 107 Stat. 98, 100, substituted “National Matches and small-arms school” for “Promotion of civilian marksmanship” in item 4313, struck out item 4316 “Military history fellowships”, and added item 4317.
 
@@ -65,3 +68,4 @@ This chapter is referred to in title 18 section 925.
 - [&sect; 04318 - Drill sergeant trainees human relations training](%C2%A7%2004318%20-%20Drill%20sergeant%20trainees%20human%20relations%20training.md)
 - [&sect; 04319 - Recruit basic training separate housing for male and female recruits](%C2%A7%2004319%20-%20Recruit%20basic%20training%20separate%20housing%20for%20male%20and%20female%20recruits.md)
 - [&sect; 04320 - Recruit basic training privacy](%C2%A7%2004320%20-%20Recruit%20basic%20training%20privacy.md)
+- [&sect; 04321 - United States Army War College master of strategic studies degree](%C2%A7%2004321%20-%20United%20States%20Army%20War%20College%20master%20of%20strategic%20studies%20degree.md)

@@ -8,7 +8,7 @@ The purposes of this chapter are—
 
 &emsp;(3) to pay tribute to President Eisenhower's leadership in war and peace, through his diverse understanding of history, practical affairs, and the hearts of humankind;
 
-&emsp;(4) to address America's need for the best possible higher education of its young talentfor a competitive world which shares a common and endangered environment;
+&emsp;(4) to address America's need for the best possible higher education of its young talent for a competitive world which shares a common and endangered environment;
 
 &emsp;(5) to advance the network of friendship and trust already established in President Eisenhower's name, so that it may continue to grow to the imminent challenges of the 21st century;
 

@@ -44,7 +44,7 @@ This title, referred to in text, is title VI of Pub. L. 102–550, Oct. 28, 1992
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 13601, 13618, 13619, 13631, 13632 of this title.
+This section is referred to in sections 13601, 13618, 13619, 13631, 13632 of this title; title 12 section 1701q–2.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

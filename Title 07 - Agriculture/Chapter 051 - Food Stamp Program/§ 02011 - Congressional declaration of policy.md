@@ -134,7 +134,7 @@ Reports.—Not later than July 1, 1993, the Committee shall prepare and submit, 
 
 #### Rules
 
-Pub. L. 99–198, title XV, §1583, Dec. 23, 1985, 99 Stat. 1595, provided that: “Not later than April 1, 1987, theSecretary shall issue rules to carry out the amendments made by this title \[amending sections 612c, 1431e, 2012 to 2023, and 2025 to 2029 of this title, section 49b of Title 29, Labor, and section 503 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under section 612c of this title\].”
+Pub. L. 99–198, title XV, §1583, Dec. 23, 1985, 99 Stat. 1595, provided that: “Not later than April 1, 1987, the Secretary shall issue rules to carry out the amendments made by this title \[amending sections 612c, 1431e, 2012 to 2023, and 2025 to 2029 of this title, section 49b of Title 29, Labor, and section 503 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under section 612c of this title\].”
 
 #### Implementation of 1977 Amendment; Savings Provision; Availability of Appropriated Funds; Report
 

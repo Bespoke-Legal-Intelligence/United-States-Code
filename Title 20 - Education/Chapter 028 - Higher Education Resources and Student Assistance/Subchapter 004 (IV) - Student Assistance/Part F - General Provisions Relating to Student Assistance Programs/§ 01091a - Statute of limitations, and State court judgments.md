@@ -12,7 +12,7 @@
 
 &emsp;(C) an institution that has an agreement with the Secretary pursuant to section 1087c or 1087cc(a) of this title that is seeking the repayment of the amount due from a borrower on a loan made under part C or D of this subchapter after the default of the borrower on such loan; or
 
-&emsp;(D) the Secretary, the Attorney General, or the administrative head of another Federal agency, as the case may be, for payment of a refund due from a student on a grant madeunder this subchapter and part C of subchapter I of chapter 34 of title 42, or for the repayment of the amount due from a borrower on a loan made under this subchapter and part C of subchapter I of chapter 34 of title 42 that has been assigned to the Secretary under this subchapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;(D) the Secretary, the Attorney General, or the administrative head of another Federal agency, as the case may be, for payment of a refund due from a student on a grant made under this subchapter and part C of subchapter I of chapter 34 of title 42, or for the repayment of the amount due from a borrower on a loan made under this subchapter and part C of subchapter I of chapter 34 of title 42 that has been assigned to the Secretary under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (b) Assessment of costs and other charges
 

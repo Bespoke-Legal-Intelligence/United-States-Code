@@ -4,7 +4,7 @@
 
 #### (1) Civil actions
 
-&emsp;In any case in which the attorney general of a State has reason to believe that an interestof the residents of that State has been or is threatened or adversely affected by the engagement of any person in a practice that violates any regulation of the Commission prescribed under section 6502(b) of this title, the State, as parens patriae, may bring a civil action on behalf of the residents of the State in a district court of the United States of appropriate jurisdiction to—
+&emsp;In any case in which the attorney general of a State has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by the engagement of any person in a practice that violates any regulation of the Commission prescribed under section 6502(b) of this title, the State, as parens patriae, may bring a civil action on behalf of the residents of the State in a district court of the United States of appropriate jurisdiction to—
 
 &emsp;&emsp;(A) enjoin that practice;
 

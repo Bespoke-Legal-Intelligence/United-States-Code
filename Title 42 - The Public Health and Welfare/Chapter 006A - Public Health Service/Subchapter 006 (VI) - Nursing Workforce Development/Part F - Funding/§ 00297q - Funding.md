@@ -14,13 +14,13 @@ For the purpose of carrying out parts B, C, and D of this subchapter (subject to
 
 #### (B) Fiscal years 1999 through 2002
 
-&emsp;&emsp;Of the amount appropriated under subsection (a) of this section for fiscal year 1999 or any of the fiscal years 2000 through 2002, the Secretary, subject to subsection (d) of this section, shall reserve for the fiscal year involved, for making awards of grants and contracts under part B of this subchapter with respect to nurse practitioners and nurse midwives, not less than the percentageconstituted by the ratio of the amount appropriated under section 296m of this title as such section was in effect for fiscal year 1998 to the total of the amounts appropriated under this subchapter for such fiscal year. For purposes of the preceding sentence, the Secretary, in determining the amount that has been reserved for the fiscal year involved, shall include any amounts appropriated under subsection (a) of this section for the fiscal year that are obligated by the Secretary to continue in effect grants or contracts under section 296m of this title as such section was in effect for fiscal year 1998.
+&emsp;&emsp;Of the amount appropriated under subsection (a) of this section for fiscal year 1999 or any of the fiscal years 2000 through 2002, the Secretary, subject to subsection (d) of this section, shall reserve for the fiscal year involved, for making awards of grants and contracts under part B of this subchapter with respect to nurse practitioners and nurse midwives, not less than the percentage constituted by the ratio of the amount appropriated under section 296m of this title as such section was in effect for fiscal year 1998 to the total of the amounts appropriated under this subchapter for such fiscal year. For purposes of the preceding sentence, the Secretary, in determining the amount that has been reserved for the fiscal year involved, shall include any amounts appropriated under subsection (a) of this section for the fiscal year that are obligated by the Secretary to continue in effect grants or contracts under section 296m of this title as such section was in effect for fiscal year 1998.
 
 #### (2) Nurse anesthetists
 
 #### (A) Fiscal year 1998
 
-&emsp;&emsp;Of the amount appropriated under subsection (a) of this section for fiscal year 1998, the Secretary shall reserve not less than $2,761,000 for making awards of grants and contracts under section 297–1 of this title as such section was in effect for fiscal year 1998.
+&emsp;&emsp;Of the amount appropriated under subsection (a) of this section for fiscal year 1998,the Secretary shall reserve not less than $2,761,000 for making awards of grants and contracts under section 297–1 of this title as such section was in effect for fiscal year 1998.
 
 #### (B) Fiscal years 1999 through 2002
 
@@ -78,7 +78,7 @@ For the purpose of carrying out parts B, C, and D of this subchapter (subject to
 
 #### (d) Use of methodology before fiscal year 2003
 
-With respect to the fiscal years 1999 through 2002, if the report required in subsection (c)(3) of this section is submitted in accordance with such subsection not later than 90 days before the beginning of such a fiscal year, the Secretary may for such year implement the methodology described in the report (rather than implementing the methodology in fiscal year 2003), in which case subsection (b) of this section ceases to be in effect. The authority under the preceding sentence is subject to the condition that the fiscal year for which the methodology is implemented be the same fiscal year identified in such report as the fiscal year for which the methodology will first be in effect.
+With respect to the fiscal years 1999 through 2002, if the report required in subsection (c)(3) ofthis section is submitted in accordance with such subsection not later than 90 days before the beginning of such a fiscal year, the Secretary may for such year implement the methodology described in the report (rather than implementing the methodology in fiscal year 2003), in which case subsection (b) of this section ceases to be in effect. The authority under the preceding sentence is subject to the condition that the fiscal year for which the methodology is implemented be the same fiscal year identified in such report as the fiscal year for which the methodology will first be in effect.
 
 #### (e) Authority for use of additional factors in methodology
 

@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 Jan. 6, 1951, ch. 1213, §703, 64 Stat. 1235.
 
-The reference to section 2392(d) of title 22 is substituted for the reference to section 1574(b) of that title to reflect section 542(b) of the Act of August 26, 1954, ch. 937 (68 Stat. 861) and section 642(a)(2) and (b) of the Act of September 4, 1961, Pub. L. 87–195 (75 Stat. 460).
+The reference to section 2392(d) of title 22 is substituted for the reference to section 1574(b) of that titleto reflect section 542(b) of the Act of August 26, 1954, ch. 937 (68 Stat. 861) and section 642(a)(2) and (b) of the Act of September 4, 1961, Pub. L. 87–195 (75 Stat. 460).
 
 #### Amendments
 

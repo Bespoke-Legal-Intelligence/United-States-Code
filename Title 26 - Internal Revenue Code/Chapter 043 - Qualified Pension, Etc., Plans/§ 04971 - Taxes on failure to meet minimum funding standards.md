@@ -48,7 +48,7 @@ Before issuing a notice of deficiency with respect to the tax imposed by subsect
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a plan other than a multiemployer plan, if the employer referred to in paragraph (1) is a member of a controlled group, each member of such group shall bejointly and severally liable for the tax imposed by subsection (a), (b), or (f).
+&emsp;&emsp;In the case of a plan other than a multiemployer plan, if the employer referred to in paragraph (1) is a member of a controlled group, each member of such group shall be jointly and severally liable for the tax imposed by subsection (a), (b), or (f).
 
 #### (B) Controlled group
 
@@ -138,7 +138,7 @@ Amendment by Pub. L. 103–465 applicable to plan years beginning after Dec. 31,
 
 #### Effective Date of 1987 Amendment
 
-Section 9304(c)(2) of Pub. L. 100–203 provided that: “The amendments made by this subsection \[amendingthis section\] shall apply to plan years beginning after 1988.”
+Section 9304(c)(2) of Pub. L. 100–203 provided that: “The amendments made by this subsection \[amending this section\] shall apply to plan years beginning after 1988.”
 
 Amendment by section 9305(a) of Pub. L. 100–203 applicable with respect to plan years beginning after December 31, 1987, see section 9305(d) of Pub. L. 100–203, set out as a note under section 412 of this title.
 

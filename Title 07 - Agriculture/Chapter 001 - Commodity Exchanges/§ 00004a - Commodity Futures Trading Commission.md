@@ -116,6 +116,22 @@ For effective date of section, see section 418 of Pub. L. 93–463, set out as a
 
 Section 413 of Pub. L. 93–463 provided that: “If any provision of this Act \[see Short Title of 1974 Amendment note set out under section 1 of this title\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and the application of such provisions to other persons or circumstances shall not be affected thereby.”
 
+#### Educational Events and Symposia
+
+Pub. L. 106–78, title VI, Oct. 22, 1999, 113 Stat. 1160, provided in part: “That for fiscal year 2000 and thereafter, the Commission \[Commodity Futures Trading Commission\] is authorized to charge reasonable fees to attendees of Commission sponsored educational events and symposia to cover the Commission's costs of providing those events and symposia, and notwithstanding 31 U.S.C. 3302, said fees shall be credited to this account, to be available without further appropriation.”
+
+Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 105–277, div. A, §101(a) \[title VI\], Oct. 21, 1998, 112 Stat. 2681, 2681–24.
+
+Pub. L. 105–86, title VI, Nov. 18, 1997, 111 Stat. 2104.
+
+Pub. L. 104–180, title VI, Aug. 6, 1996, 110 Stat. 1596.
+
+Pub. L. 104–37, title VI, Oct. 21, 1995, 109 Stat. 327.
+
+Pub. L. 103–330, title VI, Sept. 30, 1994, 108 Stat. 2466.
+
 #### Competitiveness Study
 
 Section 219 of Pub. L. 102–546 provided that:
@@ -156,7 +172,7 @@ Section 417 of Pub. L. 93–463 required that the Commodity Futures Trading Comm
 
 #### Transfer of Operations to Commodity Futures Trading Commission
 
-Section 411 of Pub. L. 93–463 provided that all operations of the Commodity Exchange Commission and of the Secretary of Agriculture under the Commodity Exchange Act \[this chapter\], including all pending administrative proceedings, be transferred to the Commodity Futures Trading Commission as of the effective date of Pub. L. 93–463 \[see Effective Date of 1974 Amendment note set out under section 2 of this title\] and continue to completion and that all rules, regulations, and orders theretofore issued by the Commodity Exchange Commission and by The Secretary of Agriculture under the Commodity Exchange Act \[this chapter\] to the extent not inconsistent with the provisions of Pub. L. 93–463 \[see Short Title note set out under section 1 of this title\] continue in full force and effect unless and until terminated, modified, or suspended by the Commodity Futures Trading Commission.
+Section 411 of Pub. L. 93–463 provided that all operations of the Commodity Exchange Commission and ofthe Secretary of Agriculture under the Commodity Exchange Act \[this chapter\], including all pending administrative proceedings, be transferred to the Commodity Futures Trading Commission as of the effective date of Pub. L. 93–463 \[see Effective Date of 1974 Amendment note set out under section 2 of this title\] and continue to completion and that all rules, regulations, and orders theretofore issued by the Commodity Exchange Commission and by The Secretary of Agriculture under the Commodity Exchange Act \[this chapter\] to the extent not inconsistent with the provisions of Pub. L. 93–463 \[see Short Title note set out under section 1 of this title\] continue in full force and effect unless and until terminated, modified, or suspended by the Commodity Futures Trading Commission.
 
 #### Transfer of Personnel, Property, Records, and Funds to Commodity Futures Trading Commission
 

@@ -34,7 +34,7 @@ The requirements of this subsection are met with respect to a unit of general lo
 
 &emsp;(6) the local policy board is empowered to make all recommendations for distribution of funds and evaluation of activities funded under this subchapter; and
 
-&emsp;(7) the unit or State has agreed to provide a 50 percent match of the amount of the grant, including the value of in-kind contributions, to fund the activity.
+&emsp;(7) the unit or State has agreed to provide a 50 percent match of the amount of the grant,including the value of in-kind contributions, to fund the activity.
 
 #### (c) Priority
 

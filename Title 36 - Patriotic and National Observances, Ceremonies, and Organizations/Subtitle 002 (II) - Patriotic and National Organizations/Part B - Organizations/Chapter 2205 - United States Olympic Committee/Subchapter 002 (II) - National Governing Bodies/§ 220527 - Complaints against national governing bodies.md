@@ -20,7 +20,7 @@ Hearings.—If the corporation decides that all available remedies have been exh
 
 Disposition of Complaint.—(1) If the corporation decides, as a result of the hearing, that the national governing body is complying with sections 220522, 220524, and 220525 of this title, it shall so notify the complainant and the national governing body.
 
-(2) If the corporation decides, as a result of the hearing, that the national governing body is notcomplying with sections 220522, 220524, and 220525 of this title, it shall—
+(2) If the corporation decides, as a result of the hearing, that the national governing body is not complying with sections 220522, 220524, and 220525 of this title, it shall—
 
 &emsp;(A) place the national governing body on probation for a specified period of time, not to exceed 180 days, which the corporation considers necessary to enable the national governing body to comply with those sections; or
 
@@ -50,21 +50,31 @@ Sept. 21, 1950, ch. 975, title II, §205(a), as added Nov. 8, 1978, Pub. L. 95�
 
 36:395(a)(1) (3d sentence).
 
+&nbsp;
+
 220527(b)(1)
 
 36:395(a)(1) (2d sentence).
+
+&nbsp;
 
 220527(b)(2)
 
 36:395(a)(2).
 
+&nbsp;
+
 220527(c)
 
 36:395(a)(3)(A).
 
+&nbsp;
+
 220527(d)
 
 36:395(a)(3)(B)–(D).
+
+&nbsp;
 
 In subsection (b)(2), the words “or person” are added for clarity and consistency in the section. The words “all available remedies” are substituted for “its remedies” for consistency with subsection (b)(1) of this section. The words “within the applicable national governing body” are omitted as unnecessary.
 

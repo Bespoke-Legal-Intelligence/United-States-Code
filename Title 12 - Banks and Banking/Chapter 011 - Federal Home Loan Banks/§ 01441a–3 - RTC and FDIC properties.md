@@ -52,7 +52,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) that—
 
-&emsp;&emsp;&emsp;(i) is located within the Coastal Barrier Resources System; or
+&emsp;&emsp;&emsp;(i) is located within the John H. Chafee Coastal Barrier Resources System; or
 
 &emsp;&emsp;&emsp;(ii) is undeveloped, greater than 50 acres in size, and adjacent to or contiguous with any lands managed by a governmental agency primarily for wildlife refuge, sanctuary, open space, recreational, historical, cultural, or natural resource conservation purposes.
 
@@ -68,9 +68,13 @@ For purposes of this section:
 
 &emsp;&emsp;(B) having natural, cultural, recreational, or scientific value of special significance.
 
-(Pub. L. 101–591, §10, Nov. 16, 1990, 104 Stat. 2939.)
+(Pub. L. 101–591, §10, Nov. 16, 1990, 104 Stat. 2939; Pub. L. 106–167, §3(c)(5), Dec. 9, 1999, 113 Stat. 1804.)
 
 #### Codification
 
 Section was enacted as part of the Coastal Barrier Improvement Act of 1990, and not as part of the Federal Home Loan Bank Act which comprises this chapter.
+
+#### Amendments
+
+1999—Subsec. (c)(2)(B)(i). Pub. L. 106–167 substituted “John H. Chafee Coastal Barrier Resources System” for “Coastal Barrier Resources System”.
 

@@ -114,7 +114,7 @@ Except as provided in section 443 (relating to returns for periods of less than 
 
 > &emsp;A corporation shall not be treated as a personal service corporation unless more than 10 percent of the stock (by value) in such corporation is held by employee-owners (within the meaning of section 269A(b)(2), as modified by the preceding sentence). If a corporation is a member of an affiliated group filing a consolidated return, all members of such group shall be taken into account in determining whether such corporation is a personal service corporation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 148; Pub. L. 88–272, title II, §235(c)(3), Feb. 26, 1964, 78 Stat. 127; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–30, title I, §102(b)(5), May 23, 1977, 91 Stat. 137; Pub. L. 98–369, div. A, title IV, §474(b)(2), title VIII, §803, July 18, 1984, 98 Stat. 830, 1000; Pub. L. 99–514,title I, §104(b)(6), title VIII, §806(c)(1), (d), Oct. 22, 1986, 100 Stat. 2105, 2364; Pub. L. 100–647, title I, §1008(e)(4), Nov. 10, 1988, 102 Stat. 3440.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 148; Pub. L. 88–272, title II, §235(c)(3), Feb. 26, 1964, 78 Stat. 127; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–30, title I, §102(b)(5), May 23, 1977, 91 Stat. 137; Pub. L. 98–369, div. A, title IV, §474(b)(2), title VIII, §803, July 18, 1984, 98 Stat. 830, 1000; Pub. L. 99–514, title I, §104(b)(6), title VIII, §806(c)(1), (d), Oct. 22, 1986, 100 Stat. 2105, 2364; Pub. L. 100–647, title I, §1008(e)(4), Nov. 10, 1988, 102 Stat. 3440.)
 
 #### Amendments
 
@@ -140,7 +140,7 @@ Subsec. (h). Pub. L. 98–369, §803(b), added subsec. (h).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

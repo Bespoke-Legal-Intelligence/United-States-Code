@@ -62,7 +62,6 @@
 | (c) | Transfer and availability of amounts earned. |
 | (d) | Projects. |
 | (e) | Marine research activities. |
-| (f) | Sunset. |
 | [1475\.](%C2%A7%2001475%20-%20Bureau%20of%20Reclamation%20acceptance%20of%20services%20of%20volunteers.md) | Bureau of Reclamation acceptance of services of volunteers. |
 | [1475a.](%C2%A7%2001475a%20-%20Participation%20of%20non-Federal%20entities%20in%20contract%20negotiations%20and%20source%20selection%20proceedings.md) | Participation of non-Federal entities in contract negotiations and source selection proceedings. |
 

@@ -18,7 +18,7 @@ Upon receipt of evidence that a violation has occurred, the Secretary shall caus
 
 &emsp;(B) to comply with a request from a party to the MARPOL Protocol or the Antarctic Protocol for an investigation as to whether the ship may have discharged a harmful substance anywhere in violation of the MARPOL Protocol or Annex IV to the Antarctic Protocol. An investigation may be undertaken under this clause only when the requesting party has furnished sufficient evidence to allow the Secretary reasonably to believe that a discharge has occurred.
 
-> If an inspection under this subsection indicates that a violation has occurred, the investigatingofficer shall forward a report to the Secretary for appropriate action. The Secretary shall undertake to notify the master of the ship concerned and, acting in coordination with the Secretary of State, shall take any additional action required by Article 6 of the Convention.
+> If an inspection under this subsection indicates that a violation has occurred, the investigating officer shall forward a report to the Secretary for appropriate action. The Secretary shall undertake to notify the master of the ship concerned and, acting in coordination with the Secretary of State, shall take any additional action required by Article 6 of the Convention.
 
 #### (d) Garbage disposal inspections; covered ships; enforcement actions
 
@@ -36,7 +36,7 @@ Upon receipt of evidence that a violation has occurred, the Secretary shall caus
 
 Remedies and requirements of this chapter supplement and neither amend nor repeal any other provisions of law, except as expressly provided in this chapter. Nothing in this chapter shall limit, deny, amend, modify, or repeal any other remedy available to the United States or any other person, except as expressly provided in this chapter.
 
-(Pub. L. 96–478, §8, Oct. 21, 1980, 94 Stat. 2300; Pub. L. 100–220, title II, §2104, Dec. 29, 1987, 101 Stat. 1462; Pub. L. 101–225, title II, §201(2), (3), Dec. 12, 1989, 103 Stat. 1910; Pub. L. 104–227, title II, §201(e), Oct. 2, 1996, 110 Stat. 3043.)
+(Pub. L. 96–478, §8, Oct. 21, 1980, 94 Stat. 2300; Pub. L. 100–220, title II, §2104, Dec. 29, 1987, 101 Stat. 1462; Pub. L. 101–225, title II, §201(2), (3),Dec. 12, 1989, 103 Stat. 1910; Pub. L. 104–227, title II, §201(e), Oct. 2, 1996, 110 Stat. 3043.)
 
 #### Amendments
 

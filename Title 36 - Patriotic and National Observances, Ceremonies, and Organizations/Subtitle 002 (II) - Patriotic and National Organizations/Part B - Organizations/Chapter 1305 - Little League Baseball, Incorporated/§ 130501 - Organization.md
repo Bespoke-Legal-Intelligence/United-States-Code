@@ -26,5 +26,7 @@ Historical and Revision Notes
 
 36:1072.
 
+&nbsp;
+
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words. The text of 36:1072 is omitted as executed.
 

@@ -12,7 +12,7 @@ For purposes of this chapter, the generation to which any person (other than the
 
 #### (2) On spouse's side
 
-&emsp;An individual who is a lineal descendant of a grandparent of a spouse (or former spouse) of the transferor (other than such spouse) shall be assigned to that generation which results from comparing the number of generations between such grandparent and such individual with the number of generations between such grandparent and such spouse.
+&emsp;An individual who is a lineal descendant of a grandparent of a spouse (or former spouse) of the transferor (other than such spouse) shallbe assigned to that generation which results from comparing the number of generations between such grandparent and such individual with the number of generations between such grandparent and such spouse.
 
 #### (3) Treatment of legal adoptions, etc.
 

@@ -14,7 +14,7 @@ In this section:
 
 #### (3) Excess Federal power
 
-&emsp;The term “excess Federal power” means such electric power that has become surplus to the firm contractual obligations of the Administrator under section 839c(f) of this title due to either—
+&emsp;The term “excess Federal power” means such electric power that has become surplus tothe firm contractual obligations of the Administrator under section 839c(f) of this title due to either—
 
 &emsp;&emsp;(A) any reduction in the quantity of electric power that the Administrator is contractually required to supply under subsections (b) and (d) of section 839c of this title, due to the election by customers of the Bonneville Power Administration to purchase electric power from other suppliers, as compared to the quantity of electric power that the Administrator was contractually required to supply as of January 1, 1995; or
 
@@ -24,7 +24,7 @@ In this section:
 
 Notwithstanding section 837a of this title, subsections (a), (b), and (c) of section 837b of this title, and section 837f of this title, and section 839f(c) of this title, the Administrator may, as permitted by otherwise applicable law, sell or otherwise dispose of excess Federal power—
 
-&emsp;(1) outside the Pacific Northwest on a firm basis for a contract term of not to exceed 7years, if the excess Federal power is first offered for a reasonable period of time and under the same essential rate, terms and conditions to those Pacific Northwest public body, cooperative and investor-owned utilities and those direct service industrial customers identified in subsection (b) or (d)(1)(A) of section 839c of this title; and
+&emsp;(1) outside the Pacific Northwest on a firm basis for a contract term of not to exceed 7 years, if the excess Federal power is first offered for a reasonable period of time and under the same essential rate, terms and conditions to those Pacific Northwest public body, cooperative and investor-owned utilities and those direct service industrial customers identified in subsection (b) or (d)(1)(A) of section 839c of this title; and
 
 &emsp;(2) in any region without the prohibition on resale established by the second sentence of section 832d(a) of this title.
 

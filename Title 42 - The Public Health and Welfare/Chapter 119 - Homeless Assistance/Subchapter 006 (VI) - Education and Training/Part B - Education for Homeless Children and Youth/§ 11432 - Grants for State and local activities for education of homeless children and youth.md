@@ -46,7 +46,7 @@ Grants under this section shall be used—
 
 &emsp;(A) Subject to subparagraph (B), if the amount allotted to the State educational agency for any fiscal year under this part exceeds the amount such agency received for fiscal year 1990 under this part, such agency shall provide grants to local educational agencies for purposes of section 11433 of this title.
 
-&emsp;(B) The State educational agency may reserve not more than the greater of 5 percent of the amount such agency receives under this part for any fiscal year, or the amount such agency received under this part for fiscal year1990, to conduct activities under subsection (f) of this section directly or through grants or contracts.
+&emsp;(B) The State educational agency may reserve not more than the greater of 5 percent ofthe amount such agency receives under this part for any fiscal year, or the amount such agency received under this part for fiscal year 1990, to conduct activities under subsection (f) of this section directly or through grants or contracts.
 
 #### (2) Special rule
 
@@ -112,7 +112,7 @@ The Coordinator of Education of Homeless Children and Youth established in each 
 
 #### (3) Local educational agency requirements
 
-&emsp;(A) The local educational agency of each homeless child and youth to be assisted underthis part shall, according to the child's or youth's best interest, either—
+&emsp;(A) The local educational agency of each homeless child and youth to be assisted under this part shall, according to the child's or youth's best interest, either—
 
 &emsp;&emsp;(i) continue the child's or youth's education in the school of origin—
 
@@ -184,7 +184,7 @@ This chapter, referred to in subsec. (c)(2)(B)(i), was in the original “this A
 
 This part, referred to in subsec. (c)(2)(B)(ii), is unidentifiable in the original because subtitle B (§§721–726) of title VII of Pub. L. 100–77 does not contain any parts.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (g)(4)(B), is Pub. L. 89–10,Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (g)(4)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 The Runaway and Homeless Youth Act, referred to in subsec. (g)(6), is title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1129, which is classified generally to subchapter III (§5701 et seq.) of chapter 72 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 

@@ -30,5 +30,7 @@ Historical and Revision Notes
 
 36:1048.
 
+&nbsp;
+
 Subsection (a) is substituted for the source provision for consistency in the revised title. The text of 36:1047(a) and the word “Thereafter” in 36:1047(b) are omitted as obsolete.
 

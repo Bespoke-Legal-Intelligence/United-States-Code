@@ -72,7 +72,7 @@ For purposes of this section, the following are covered securities:
 
 #### (ii) Schedule
 
-&emsp;&emsp;&emsp;The fees required by this subparagraph shall be paid, and all necessary supportingdata on sales or offers for sales required under subparagraph (A), shall be reported on the same schedule as would have been applicable had the issuer not relied on the exemption provided in subsection (a) of this section.
+&emsp;&emsp;&emsp;The fees required by this subparagraph shall be paid, and all necessary supporting data on sales or offers for sales required under subparagraph (A), shall be reported on the same schedule as would have been applicable had the issuer not relied on the exemption provided in subsection (a) of this section.
 
 #### (C) Availability of preemption contingent on payment of fees
 
@@ -160,5 +160,5 @@ Jurisdiction of other tribunals unaffected insofar as not in conflict with—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 77p, 78bb of this title.
+This section is referred to in sections 77p, 78bb, 6701 of this title.
 

@@ -28,7 +28,7 @@ Notwithstanding any other provision of law, the Secretary may enter into an agre
 
 Subsec. (a)(2). Pub. L. 101–147, §303(b), substituted “the” for “the the” before “school year beginning”.
 
-1981—Subsec. (a). Pub. L. 97–35 designated existing provisions as subsec. (a) and substituted provisions relating to funds appropriated to carry out section 1753 ofthis title during any fiscal year, for provisions relating to funds appropriated to carry out sections 1753 and 1754 of this title during any fiscal year.
+1981—Subsec. (a). Pub. L. 97–35 designated existing provisions as subsec. (a) and substituted provisions relating to funds appropriated to carry out section 1753 of this title during any fiscal year, for provisions relating to funds appropriated to carry out sections 1753 and 1754 of this title during any fiscal year.
 
 Subsecs. (b), (c). Pub. L. 97–35 added subsecs. (b) and (c).
 

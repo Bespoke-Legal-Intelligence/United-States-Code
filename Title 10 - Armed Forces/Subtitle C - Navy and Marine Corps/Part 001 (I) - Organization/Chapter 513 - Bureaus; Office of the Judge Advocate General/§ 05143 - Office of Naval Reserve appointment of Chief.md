@@ -22,7 +22,7 @@ Appointment.—The President, by and with the advice and consent of the Senate, 
 
 Grade.—(1) The Chief of Naval Reserve holds office for a term determined by the Chief of Naval Operations, normally four years, but may be removed for cause at any time. He is eligible to succeed himself.
 
-(2) The Chief of Naval Reserve, while so serving, has a grade above rear admiral (lower half), without vacating the officer's permanent grade.
+(2) The Chief of Naval Reserve, while so serving, has a grade <sup>1</sup> rear admiral, without vacating the officer's permanent grade. However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of vice admiral.
 
 (d)
 
@@ -32,15 +32,25 @@ Budget.—The Chief of Naval Reserve is the official within the executive part o
 
 Annual Report.—(1) The Chief of Naval Reserve shall submit to the Secretary of Defense, through the Secretary of the Navy, an annual report on the state of the Naval Reserve and the ability of the Naval Reserve to meet its missions. The report shall be prepared in conjunction with the Chief of Naval Operations and may be submitted in classified and unclassified versions.
 
-(2) The Secretary of Defense shall transmit the annual report of the Chief of Naval Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.
+(2) The Secretary of Defense shall transmit the annual report of the Chief of Naval Reserveunder paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.
 
-(Added Pub. L. 104–201, div. A, title XII, §1212(b)(1), Sept. 23, 1996, 110 Stat. 2691.)
+(Added Pub. L. 104–201, div. A, title XII, §1212(b)(1), Sept. 23, 1996, 110 Stat. 2691; amended Pub. L. 106–65, div. A, title V, §554(c), Oct. 5, 1999, 113 Stat. 617.)
 
 #### Prior Provisions
 
 A prior section 5143, acts Aug. 10, 1956, ch. 1041, 70A Stat. 288; Sept. 7, 1962, Pub. L. 87–649, §6(c)(3), 76 Stat. 494; Nov. 8, 1967, Pub. L. 90–130, §14(B), (C), 81 Stat. 376, established in Bureau of Naval Personnel the position of Assistant Chief of Naval Personnel for Women, prior to repeal by Pub. L. 96–513, title III, §344(a), title VII, §701, Dec. 12, 1980, 94 Stat. 2901, 2955, effective Sept. 15, 1981.
 
+#### Amendments
+
+1999—Subsec. (c)(2). Pub. L. 106–65 substituted “rear admiral” for “above rear admiral (lower half)” and inserted at end “However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of vice admiral.”
+
+#### Effective Date of 1999 Amendment; Applicability to Incumbents
+
+Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who is a covered position incumbent who is appointed under that amendment to the grade of lieutenant general or vice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as an Effective Date note under section 12505 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 641 of this title.
+This section is referred to in sections 641, 12505 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
 

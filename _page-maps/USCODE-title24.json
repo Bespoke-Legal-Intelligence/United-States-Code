@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title24",
- "package": "USCODE-1998-title24",
+ "package": "USCODE-1999-title24",
  "pieces": [
   {
    "id": "24_",
@@ -1772,10 +1772,14 @@
    "id": "24_411",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 32]",
-     true
+     "I",
+     8,
+     [
+      [
+       89,
+       "[Page 32]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00411 - Establishment of Armed Forces Retirement Home.md",
@@ -1789,7 +1793,7 @@
    "marks": [
     [
      "L",
-     48,
+     44,
      "[Page 33]",
      true
     ]
@@ -1814,7 +1818,7 @@
    "marks": [
     [
      "L",
-     54,
+     46,
      "[Page 34]",
      true
     ]
@@ -1829,14 +1833,10 @@
    "id": "24_415",
    "marks": [
     [
-     "I",
-     78,
-     [
-      [
-       130,
-       "[Page 35]"
-      ]
-     ]
+     "L",
+     72,
+     "[Page 35]",
+     true
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00415 - Composition and operation of Retirement Home Board.md",
@@ -1850,7 +1850,7 @@
    "marks": [
     [
      "L",
-     14,
+     6,
      "[Page 36]",
      true
     ]
@@ -1865,10 +1865,14 @@
    "id": "24_417",
    "marks": [
     [
-     "L",
-     46,
-     "[Page 37]",
-     true
+     "I",
+     42,
+     [
+      [
+       89,
+       "[Page 37]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00417 - Directors and staff.md",
@@ -1882,7 +1886,7 @@
    "marks": [
     [
      "L",
-     30,
+     22,
      "[Page 38]",
      true
     ]
@@ -1907,17 +1911,17 @@
    "marks": [
     [
      "I",
-     26,
+     22,
      [
       [
-       330,
+       240,
        "[Page 39]"
       ]
      ]
     ],
     [
      "L",
-     94,
+     84,
      "[Page 40]",
      true
     ]
@@ -1941,19 +1945,24 @@
    "id": "24_422",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       282,
-       "[Page 41]"
-      ]
-     ]
+     "L",
+     34,
+     "[Page 41]",
+     true
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00422 - Authority to accept certain uncompensated services.md",
    "printed_pages": [
     40,
+    41
+   ]
+  },
+  {
+   "id": "24_423",
+   "marks": [],
+   "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00423 - Preservation of historic buildings and grounds at United States Soldiers’ and Airmen's Home.md",
+   "printed_pages": [
+    41,
     41
    ]
   },
@@ -1986,14 +1995,21 @@
   },
   {
    "id": "24_441",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 42]",
+     true
+    ]
+   ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 003 (III) - Authorization of Appropriations/§ 00441 - Authorization of appropriations for United States Soldiers’ and Airmen's Home.md",
    "printed_pages": [
     41,
-    41
+    42
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1998-title24 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1999-title24 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 24 - Hospitals and Asylums"
 }

@@ -44,7 +44,7 @@ In this subchapter, the following definitions apply:
 
 #### (5) Federal Guidelines for Dam Safety
 
-&emsp;The term “Federal Guidelines for Dam Safety” means the FEMA publication, numbered 93 and dated June 1979, that defines management practices for dam safety at all Federal agencies.
+&emsp;The term “Federal Guidelines for Dam Safety” means the FEMA publication, numbered93 and dated June 1979, that defines management practices for dam safety at all Federal agencies.
 
 #### (6) FEMA
 

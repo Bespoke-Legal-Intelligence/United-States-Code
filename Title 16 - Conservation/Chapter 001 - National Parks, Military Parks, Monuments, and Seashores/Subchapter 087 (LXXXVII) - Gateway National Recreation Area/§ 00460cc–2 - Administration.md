@@ -6,7 +6,9 @@ The Secretary shall administer the recreation area in accordance with the provis
 
 #### (b) William Fitts Ryan Visitor Center; designation
 
-The Secretary shall designate the principal visitor center within the recreation area as the “William Fitts Ryan Visitor Center” in commemoration of the leadership and contributions which Representative William Fitts Ryan made with respect to the creation and establishment of this public recreation area. To inform the public of the contributions of Representative Ryan to the creation of the recreation area, the Secretary shall provide such signs, markers, maps, interpretive materials, literature, and programs as he deems appropriate. Not later than December 31, 1980, the Secretary shall take such additional actions as he deems appropriate to recognize and commemorate the contributions of Representative Ryan to the recreation area.
+(1) The Secretary shall designate the principal visitor center within the recreation area as the “William Fitts Ryan Visitor Center” in commemoration of the leadership and contributions which Representative William Fitts Ryan made with respect to the creation and establishment of this public recreation area. To inform the public of the contributions of Representative Ryan to the creation of the recreation area, the Secretary shall provide such signs, markers, maps, interpretive materials, literature, and programs as he deems appropriate. Not later than December 31, 1980, the Secretary shall take such additional actions as he deems appropriate to recognize and commemorate the contributions of Representative Ryan to the recreation area.
+
+(2) The portion of the Staten Island Unit of the recreation area known as Miller Field is hereby designated as “World War Veterans Park at Miller Field”. Any reference to such Miller Field in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to “World War Veterans Park at Miller Field”.
 
 #### (c) Federal-State cooperative agreements for police and fire protection
 
@@ -22,7 +24,7 @@ The authority of the Secretary of Transportation to maintain and operate existin
 
 #### (f) Hunting, fishing, and trapping
 
-The Secretary shall permit hunting, fishing, shellfishing, trapping, and the taking of specimens on the lands and waters under his jurisdiction within the Gateway National Recreation Area in accordance with the applicable laws of the United States and the laws of the States ofNew York and New Jersey and political subdivisions thereof, except that the Secretary may designate zones where and establish periods when these activities may not be permitted, for reasons of public safety, administration, fish or wildlife management, or public use and enjoyment.
+The Secretary shall permit hunting, fishing, shellfishing, trapping, and the taking of specimens on the lands and waters under his jurisdiction within the Gateway National Recreation Area in accordance with the applicable laws of the United States and the laws of the States of New York and New Jersey and political subdivisions thereof, except that the Secretary may designate zones where and establish periods when these activities may not be permitted, for reasons of public safety, administration, fish or wildlife management, or public use and enjoyment.
 
 #### (g) Sandy Hook and Staten Island Units; programs for preservation, restoration, interpretation, and utilization of sites and structures
 
@@ -36,9 +38,11 @@ Notwithstanding any other provision of law, the Secretary is authorized to accep
 
 Notwithstanding the provisions of subsection (a) of this section, the United States hereby conveys to the city of New York all rights to the methane gas and associated byproducts resulting from solid waste decomposition on the area within the Jamaica Bay Unit known as the Fountain Avenue Landfill site, subject to payments to the United States of 50 per centum of the revenue received by the city of New York, if any, from the development of such rights. The Secretary shall grant to the City, its lessee or assignee, all rights-of-way and other permits necessary from the Department of the Interior to extract and transport the gas from the site: <i>Provided</i>, That the rights-of-way and other permits shall provide for reasonable restoration of the site, including removal of any processing or storage facilities used in the disposal, development, or extraction of the gas, access by the Secretary to the site for safety and other recreation area purposes, and such other reasonable conditions as the Secretary deems necessary to further purposes of the recreation area. All such payments to the United States shall be credited to the appropriations of the National Park Service for the development and improvement of Gateway National Recreation Area.
 
-(Pub. L. 92–592, §3, Oct. 27, 1972, 86 Stat. 1309; Pub. L. 96–344, §11(1), Sept. 8, 1980, 94 Stat. 1136; Pub. L. 97–232, §1, Aug. 9, 1982, 96 Stat. 259.)
+(Pub. L. 92–592, §3, Oct. 27, 1972, 86 Stat. 1309; Pub. L. 96–344, §11(1), Sept. 8, 1980, 94 Stat. 1136; Pub. L. 97–232, §1, Aug. 9, 1982, 96 Stat. 259; Pub. L. 106–132, §1, Dec. 7, 1999, 113 Stat. 1681.)
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–132 designated existing provisions as par. (1) and added par. (2).
 
 1982—Subsec. (i). Pub. L. 97–232 added subsec. (i).
 

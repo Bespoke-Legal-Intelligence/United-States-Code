@@ -2,7 +2,7 @@
 
 #### (a) Exclusion of cash payments in determination of income of individuals for purposes of eligibility for benefits; agreement by Commissioner and State for Commissioner to make supplementary payments on behalf of State or subdivision
 
-Any cash payments which are made by a State (or political subdivision thereof) on a regular basis to individuals who are receiving benefits under this subchapter or who would but for their income be eligible to receive benefits under this subchapter, as assistance based on need in supplementation of such benefits (as determined by the Commissioner of Social Security), shall be excluded under section 1382a(b)(6) of this title in determining the income of such individuals for purposes of this subchapter and the Commissioner of Social Security and such State may enter into an agreement which satisfies subsection (b) of this section under which the Commissioner of Social Security will, on behalf of such State (or subdivision) make such supplementary payments to all such individuals.
+Any cash payments which are made by a State (or political subdivision thereof) on a regular basis to individuals who are receiving benefits under this subchapter or who would but for their income be eligible to receive benefits under this subchapter, as assistance based on need in supplementation of such benefits (as determined by the Commissioner of Social Security), shall be excluded under section 1382a(b)(6) of this title indetermining the income of such individuals for purposes of this subchapter and the Commissioner of Social Security and such State may enter into an agreement which satisfies subsection (b) of this section under which the Commissioner of Social Security will, on behalf of such State (or subdivision) make such supplementary payments to all such individuals.
 
 #### (b) Agreement between Commissioner and State; contents
 
@@ -16,7 +16,7 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 #### (c) Residence requirement by State or subdivision for supplementary payments; disregarding amounts of certain income by State or subdivision in determining eligibility for supplementary payments
 
-(1) Any State (or political subdivision) making supplementary payments described in subsection (a) of this section may at its option impose as a condition of eligibility for such payments, and include in the State's agreement with the Commissioner of Social Security under such subsection, a residence requirement which excludes individuals who have resided in theState (or political subdivision) for less than a minimum period prior to application for such payments.
+(1) Any State (or political subdivision) making supplementary payments described in subsection (a) of this section may at its option impose as a condition of eligibility for such payments, and include in the State's agreement with the Commissioner of Social Security under such subsection, a residence requirement which excludes individuals who have resided in the State (or political subdivision) for less than a minimum period prior to application for such payments.
 
 (2) Any State (or political subdivision), in determining the eligibility of any individual for supplementary payments described in subsection (a) of this section, may disregard amounts of earned and unearned income in addition to other amounts which it is required or permitted to disregard under this section in determining such eligibility, and shall include a provision specifying the amount of any such income that will be disregarded, if any.
 
@@ -24,7 +24,7 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 #### (d) Payment to Commissioner by State of amount equal to expenditures by Commissioner as supplementary payments; time and manner of payment by State; fees for Federal administration of State supplementary payments
 
-(1) Any State which has entered into an agreement with the Commissioner of Social Security under this section which provides that the Commissioner of Social Security will, on behalf of the State (or political subdivision), make the supplementary payments to individuals who are receiving benefits under this subchapter (or who would but for their income be eligible to receive such benefits), shall, at such times and in such installments as may be agreed upon between the Commissioner of Social Security and such State, pay to the Commissioner of Social Security an amount equal to the expenditures made by the Commissioner of Social Security as such supplementary payments, plus an administration fee assessed in accordance with paragraph (2) and any additional services fee charged in accordance with paragraph (3).
+(1) Any State which has entered into an agreement with the Commissioner of Social Security under this section which provides that the Commissioner of Social Security will, on behalf of the State (or political subdivision), make the supplementary payments to individuals who are receiving benefits under this subchapter (or who would but for their income be eligible to receive such benefits), shall, in accordance with paragraph (5) pay to the Commissioner of Social Security an amount equal to the expenditures made by the Commissioner of Social Security as such supplementary payments, plus an administration fee assessed in accordance with paragraph (2) and any additional services fee charged in accordance with paragraph (3).
 
 (2)(A) The Commissioner of Social Security shall assess each State an administration fee in an amount equal to—
 
@@ -62,7 +62,7 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 (D) All fees assessed pursuant to this paragraph shall be transferred to the Commissioner of Social Security at the same time that amounts for such supplementary payments are required to be so transferred.
 
-(3)(A) The Commissioner of Social Security may charge a State an additional services fee if, at the request of the State, the Commissioner of Social Security provides additional services beyond the level customarily provided, in the administration of State supplementary payments pursuant to this section.
+(3)(A) The Commissioner of Social Security may charge a State an additional services fee if,at the request of the State, the Commissioner of Social Security provides additional services beyond the level customarily provided, in the administration of State supplementary payments pursuant to this section.
 
 (B) The additional services fee shall be in an amount that the Commissioner of Social Security determines is necessary to cover all costs (including indirect costs) incurred by the Federal Government in furnishing the additional services referred to in subparagraph (A).
 
@@ -70,21 +70,41 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 (B) That portion of each administration fee in excess of $5, and 100 percent of each additional services fee charged pursuant to paragraph (3), upon collection for fiscal year 1998 and each subsequent fiscal year, shall be credited to a special fund established in the Treasury of the United States for State supplementary payment fees. The amounts so credited, to the extent and in the amounts provided in advance in appropriations Acts, shall be available to defray expenses incurred in carrying out this subchapter and related laws.
 
+(5)(A)(i) Any State which has entered into an agreement with the Commissioner of Social Security under this section shall remit the payments and fees required under this subsection with respect to monthly benefits paid to individuals under this subchapter no later than—
+
+&emsp;(I) the business day preceding the date that the Commissioner pays such monthly benefits; or
+
+&emsp;(II) with respect to such monthly benefits paid for the month that is the last month of the State's fiscal year, the fifth business day following such date.
+
+(ii) The Commissioner may charge States a penalty in an amount equal to 5 percent of the payment and the fees due if the remittance is received after the date required by clause (i).
+
+(B) The Cash Management Improvement Act of 1990 shall not apply to any payments or fees required under this subsection that are paid by a State before the date required by subparagraph (A)(i).
+
+(C) Notwithstanding subparagraph (A)(i), the Commissioner may make supplementary payments on behalf of a State with funds appropriated for payment of benefits under this subchapter, and subsequently to be reimbursed for such payments by the State at such times as the Commissioner and State may agree. Such authority may be exercised only if extraordinary circumstances affecting a State's ability to make payment when required by subparagraph (A)(i) are determined by the Commissioner to exist.
+
 #### (e) State standards; establishment; annual public review; annual certification; payments to individuals
 
 (1) Each State shall establish or designate one or more State or local authorities which shall establish, maintain, and insure the enforcement of standards for any category of institutions, foster homes, or group living arrangements in which (as determined by the State) a significant number of recipients of supplemental security income benefits is residing or is likely to reside. Such standards shall be appropriate to the needs of such recipients and the character of the facilities involved, and shall govern such matters as admission policies, safety, sanitation, and protection of civil rights.
 
-(2) Each State shall annually make available for public review a summary of the standards established pursuant to paragraph (1), and shall make available to any interested individual a copy of such standards, along with the procedures available in the State to insure the enforcement of such standards and a list of anywaivers of such standards and any violations of such standards which have come to the attention of the authority responsible for their enforcement.
+(2) Each State shall annually make available for public review a summary of the standards established pursuant to paragraph (1), and shall make available to any interested individual a copy of such standards, along with the procedures available in the State to insure the enforcement of such standards and a list of any waivers of such standards and any violations of such standards which have come to the attention of the authority responsible for their enforcement.
 
 (3) Each State shall certify annually to the Commissioner of Social Security that it is in compliance with the requirements of this subsection.
 
 (4) Payments made under this subchapter with respect to an individual shall be reduced by an amount equal to the amount of any supplementary payment (as described in subsection (a) of this section) or other payment made by a State (or political subdivision thereof) which is made for or on account of any medical or any other type of remedical care provided by an institution of the type described in paragraph (1) to such individual as a resident or an inpatient of such institution if such institution is not approved as meeting the standards described in such paragraph by the appropriate State or local authorities.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1616, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1474; amended Pub. L. 93–233, §14, Dec. 31, 1973, 87 Stat. 965; Pub. L. 94–566, title V, §505(c), (d), Oct. 20, 1976, 90 Stat. 2687; Pub. L. 96–265, title II, §201(b)(1), June 9, 1980, 94 Stat. 446; Pub. L. 97–35, title XXIII, §2353(n), Aug. 13, 1981, 95 Stat. 873; Pub. L. 99–272, title XII, §12201(b), Apr. 7, 1986, 100 Stat. 290; Pub. L. 103–66, title XIII, §13731(a)(1), Aug. 10, 1993, 107 Stat. 660; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 105–33, title V, §5102(a)(1), (b)(1)(A), Aug. 5, 1997, 111 Stat. 595, 596; Pub. L. 105–78, title V, §516(a)(1), (b)(1)(A), Nov. 13, 1997, 111 Stat. 1517, 1518.)
+(Aug. 14, 1935, ch. 531, title XVI, §1616, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1474; amended Pub. L. 93–233, §14, Dec. 31, 1973, 87 Stat. 965; Pub. L. 94–566, title V, §505(c), (d), Oct. 20, 1976, 90 Stat. 2687; Pub. L. 96–265, title II, §201(b)(1), June 9, 1980, 94 Stat. 446; Pub. L. 97–35, title XXIII, §2353(n), Aug. 13, 1981, 95 Stat. 873; Pub. L. 99–272, title XII, §12201(b), Apr. 7, 1986, 100 Stat. 290; Pub. L. 103–66, title XIII, §13731(a)(1), Aug. 10, 1993, 107 Stat. 660; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 105–33, title V, §5102(a)(1), (b)(1)(A), Aug. 5, 1997, 111 Stat. 595, 596; Pub. L. 105–78, title V, §516(a)(1), (b)(1)(A), Nov. 13, 1997, 111 Stat. 1517, 1518; Pub. L. 106–170, title IV, §410(a)(1), Dec. 17, 1999, 113 Stat. 1916.)
+
+#### References in Text
+
+The Cash Management Improvement Act of 1990, referred to in subsec. (d)(5)(B), is Pub. L. 101–453, Oct. 24, 1990, 104 Stat. 1058, as amended. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 6501 of Title 31, Money and Finance, and Tables.
 
 #### Amendments
 
-1997—Subsec. (d)(2)(B)(iii) to (x). Pub. L. 105–33, §5102(a)(1)(A), and Pub. L. 105–78, §516(a)(1)(A), amended subpar. (B) identically, striking out “and” at end of cl. (iii), adding cls. (iv) to (x) and striking out former cl. (iv) which read as follows: “for fiscal year 1997 and each succeeding fiscal year, $5.00, or such different rate as the Commissioner of Social Security determines is appropriate for the State.”
+1999—Subsec. (d)(1). Pub. L. 106–170, §410(a)(1)(A), substituted “in accordance with paragraph (5)” for “at such times and in such installments as may be agreed upon between the Commissioner of Social Security and such State”.
+
+Subsec. (d)(5). Pub. L. 106–170, §410(a)(1)(B), added par. (5).
+
+1997—Subsec. (d)(2)(B)(iii) to (x). Pub. L. 105–33, §5102(a)(1)(A), and Pub. L. 105–78, §516(a)(1)(A), amendedsubpar. (B) identically, striking out “and” at end of cl. (iii), adding cls. (iv) to (x) and striking out former cl. (iv) which read as follows: “for fiscal year 1997 and each succeeding fiscal year, $5.00, or such different rate as the Commissioner of Social Security determines is appropriate for the State.”
 
 Subsec. (d)(2)(C). Pub. L. 105–33, §5102(a)(1)(B), and Pub. L. 105–78, §516(a)(1)(B), amended subpar. (C) identically, substituting “subparagraph (B)(x)(II)” for “subparagraph (B)(iv)”.
 
@@ -109,6 +129,10 @@ Pub. L. 105–33, §5102(b)(1)(A), amended par. (4) generally. Prior to amendmen
 1976—Subsec. (e). Pub. L. 94–566, §505(d), added subsec. (e), effective Oct. 1, 1977. Pub. L. 94–566, §505(c), repealed former subsec. (e) which provided for reduction of supplemental security income payments to individuals provided institutional medical or other remedial care, State financed under Federal grants for medical assistance, effective Oct. 1, 1976. See Effective Date of 1976 Amendment note below.
 
 1973—Subsec. (e). Pub. L. 93–233 added subsec. (e).
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–170, title IV, §410(b), Dec. 17, 1999, 113 Stat. 1917, provided that: “The amendments made by subsection (a) \[amending this section and provisions set out as a note under section 1382 of this title\] shall apply to payments and fees arising under an agreement between a State and the Commissioner of Social Security under section 1616 of the Social Security Act (42 U.S.C. 1382e) or under section 212 of Public Law 93-66 (42 U.S.C. 1382 note) with respect to monthly benefits paid to individuals under title XVI of the Social Security Act \[this subchapter\] for months after September 2009 (October 2009 in the case of a State with a fiscal year that coincides with the Federal fiscal year), without regard to whether the agreement has been modified to reflect such amendments or the Commissioner has promulgated regulations implementing such amendments.”
 
 #### Effective Date of 1994 Amendment
 
@@ -140,7 +164,7 @@ Section 301 of Pub. L. 92–603 provided that this section is effective Jan. 1, 
 
 Section 516(b)(2) of Pub. L. 105–78 provided that: “From amounts credited pursuant to section 1616(d)(4)(B) of the Social Security Act \[subsec. (d)(4)(B) of this section\] and section 212(b)(3)(D)(ii) of Public Law 93–66 \[set out as a note under section 1382 of this title\] to the special fund established in the Treasury of the United States for State supplementary payment fees, there is authorized to be appropriated an amount not to exceed $35,000,000 for fiscal year 1998, and such sums as may be necessary for each fiscal year thereafter, for administrative expenses in carrying out the supplemental security income program under title XVI of the Social Security Act \[this subchapter\] and related laws.”
 
-Section 5102(b)(2) of Pub. L. 105–33 provided that: “From amounts credited pursuant to section 1616(d)(4)(B) of the Social Security Act \[subsec. (d)(4)(B) of this section\] and section 212(b)(3)(D)(ii) of Public Law 93–66 \[set out as a note under section 1382 of this title\] to the special fund established in the Treasury of the United States for State supplementary payment fees, there is authorized to be appropriated an amount not to exceed $35,000,000 for fiscal year 1998, and such sums as may be necessary for each fiscal year thereafter.”
+Section 5102(b)(2) of Pub. L. 105–33 provided that: “From amounts credited pursuant to section 1616(d)(4)(B) of the Social Security Act \[subsec. (d)(4)(B) of this section\] and section 212(b)(3)(D)(ii) of Public Law 93–66 \[set out as a note under section 1382 of this title\] to the special fund established in the Treasury of the United States for State supplementary payment fees, there is authorized to be appropriated an amount not to exceed $35,000,000 for fiscal year 1998, and suchsums as may be necessary for each fiscal year thereafter.”
 
 #### Period Within Which California May Make Cash Payments in Lieu of Food Stamps to Recipients of Supplemental Security Income Benefits
 
@@ -192,7 +216,7 @@ Enactment of provisions of Pub. L. 92–603, eff. Jan. 1, 1974, not applicable t
 
 Section 401 of Pub. L. 92–603, as amended by Pub. L. 93–233, §18(h), Dec. 31, 1973, 87 Stat. 969; Pub. L. 94–566, title V, §504(a), Oct. 20, 1976, 90 Stat. 2686; Pub. L. 94–585 §2(b), Oct. 21, 1976, 90 Stat. 2902; Pub. L. 97–248, title I, §184(a), Sept. 3, 1982, 96 Stat. 406, provided that:
 
-“(a)(1) The amount payable to the Secretary by a State for any fiscal year, other than fiscal year 1974, pursuant to its agreement or agreements under section 1616 of the Social Security Act \[this section\] shall not exceed the non-Federal share of expenditures as aid or assistance for quarters in the calendar year 1972 under the plans of the State approved under titles I, X, XIV, and XVI of the Social Security Act \[subchapters I, X, XIV, and XVI of this chapter\] (as defined in subsection (c) of this section), and the amount payable for fiscal year 1974 pursuant to such agreement or agreements shall not exceed one-half of the non-Federal share of such expenditures.
+“(a)(1) The amount payable to the Secretary by a State for any fiscal year, other than fiscal year 1974,pursuant to its agreement or agreements under section 1616 of the Social Security Act \[this section\] shall not exceed the non-Federal share of expenditures as aid or assistance for quarters in the calendar year 1972 under the plans of the State approved under titles I, X, XIV, and XVI of the Social Security Act \[subchapters I, X, XIV, and XVI of this chapter\] (as defined in subsection (c) of this section), and the amount payable for fiscal year 1974 pursuant to such agreement or agreements shall not exceed one-half of the non-Federal share of such expenditures.
 
 “(2) Paragraph (1) of this subsection shall only apply with respect to that portion of the supplementary payments made by the Secretary on behalf of the State under such agreements in any fiscal year which does not exceed in the case of any individual the difference between—
 
@@ -228,7 +252,7 @@ Section 401 of Pub. L. 92–603, as amended by Pub. L. 93–233, §18(h), Dec. 3
 
 \[Amendment of section 401(a)(2) of Pub. L. 92–603, set out above, by Pub. L. 94–585 inserting parenthetical text in subpar. (B) and enacting last sentence, such amendments being identical to amendments by Pub. L. 94–566 less the words “and before July 1, 1979” following “June 30, 1977”, effective with respect to benefits payable for months after June 1977, see section 2(c) of Pub. L. 94–585, set out as a note under section 1382g of this title.\]
 
-\[Amendment of section 401(a)(2) of Pub. L. 92–603, set out above, by Pub. L. 94–566 inserting parenthetical text in subpar. (B) and enacting last sentence effective under provisions of Pub. L. 94–566, title V, §504(b), Oct.20, 1976, 90 Stat. 2686, with respect to benefits payable for months after June 1977.\]
+\[Amendment of section 401(a)(2) of Pub. L. 92–603, set out above, by Pub. L. 94–566 inserting parenthetical text in subpar. (B) and enacting last sentence effective under provisions of Pub. L. 94–566, title V, §504(b), Oct. 20, 1976, 90 Stat. 2686, with respect to benefits payable for months after June 1977.\]
 
 \[Amendment of section 401 of Pub. L. 92–603, set out above, by section 18(h) of Pub. L. 93–233 effective Jan. 1, 1974, see section 18(z–3)(1) of Pub. L. 93–233.\]
 
@@ -236,7 +260,7 @@ Section 401 of Pub. L. 92–603, as amended by Pub. L. 93–233, §18(h), Dec. 3
 
 #### Transitional Administration of Programs by State Pursuant to Agreement Between State and Secretary
 
-Section 402 of Pub. L. 92–603, as amended by Pub. L. 93–233, §18(i), Dec. 31, 1973, 87 Stat. 970, provided that: “In order for a State to be eligible for any payments pursuant to title IV, V, XVI, or XIX of the Social Security Act \[subchapter IV, V, XVI, or XIX of this chapter\] with respect to expenditures for the third and fourth quarters in the fiscal year ending June 30, 1974, and any quarter in the fiscal year ending June 30, 1975, and for the purpose of providing an orderly transition from State to Federal administration of the Supplemental Security Income Program, such State shall enter into an agreement with the Secretary of Health, Education, and Welfare under which the State agencies responsible for administering or for supervising the administration of the plans approved under titles I, X, XIV, and XVI of the Social Security Act \[subchapters I, X, XIV, and XVI of this chapter\] will, on behalf of the Secretary, administer all or such part or parts of the program established by section 301 of this Act \[enacting this subchapter\], during such portion of the third and fourth quarters of the fiscal year ending June 30, 1974, and any quarter of the fiscal year ending June 30, 1975, as may be provided in such agreement.”
+Section 402 of Pub. L. 92–603, as amended by Pub. L. 93–233, §18(i), Dec. 31, 1973, 87 Stat. 970, provided that: “In order for a State to be eligible for any payments pursuant to title IV, V, XVI, or XIX of the Social Security Act \[subchapter IV, V, XVI, or XIX of this chapter\] with respect to expenditures for the third and fourth quarters in the fiscal year ending June 30, 1974, and any quarter in the fiscal year ending June 30, 1975, and forthe purpose of providing an orderly transition from State to Federal administration of the Supplemental Security Income Program, such State shall enter into an agreement with the Secretary of Health, Education, and Welfare under which the State agencies responsible for administering or for supervising the administration of the plans approved under titles I, X, XIV, and XVI of the Social Security Act \[subchapters I, X, XIV, and XVI of this chapter\] will, on behalf of the Secretary, administer all or such part or parts of the program established by section 301 of this Act \[enacting this subchapter\], during such portion of the third and fourth quarters of the fiscal year ending June 30, 1974, and any quarter of the fiscal year ending June 30, 1975, as may be provided in such agreement.”
 
 #### Election of Payments Under Combined State Plan Rather Than Separate Plans
 
@@ -248,5 +272,5 @@ Pub. L. 87–543, §141(f), July 25, 1962, 76 Stat. 205, provided that: “In th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 402, 404, 426, 1310, 1320a–6, 1320b–17, 1382d, 1382g, 1382i, 1383, 1383c, 1396a, 1396d, 3002 of this title; title 7 sections 2012, 2015; title 8 section 1612; title 12 section 1715w; title 26 sections 51, 6103.
+This section is referred to in sections 402, 404, 426, 1012, 1310, 1320a–6, 1320a–8a, 1320b–6, 1320b–17, 1382d, 1382g, 1382i, 1383, 1383c, 1396a, 1396d, 3002 of this title; title 7 sections 2012, 2015; title 8 section 1612; title 12 section 1715w; title 26 sections 51, 6103.
 

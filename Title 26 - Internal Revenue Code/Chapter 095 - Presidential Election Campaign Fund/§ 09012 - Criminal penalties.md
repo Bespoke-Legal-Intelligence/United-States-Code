@@ -22,7 +22,7 @@
 
 &emsp;(B) to repay loans the proceeds of which were used, or otherwise to restore funds (other than contributions to defray qualified campaign expenses which were received and expended) which were used, to defray such qualified campaign expenses.
 
-(2) It shall be unlawful for the national committee of a major party or minor party which receives any payment under section 9008(b)(3) to use, or authorize the use of, such payment for any purpose other than a purpose authorized by section 9008(c).
+(2) It shall be unlawful for the national committee of a major party or minor party which receives any payment under section 9008(b)(3) to use, or authorize the use of, such payment forany purpose other than a purpose authorized by section 9008(c).
 
 (3) Any person who violates paragraph (1) shall be fined not more than $10,000, or imprisoned not more than five years, or both.
 

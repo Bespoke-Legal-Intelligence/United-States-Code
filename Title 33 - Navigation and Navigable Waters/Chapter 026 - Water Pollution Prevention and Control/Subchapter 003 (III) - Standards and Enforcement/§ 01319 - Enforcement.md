@@ -4,13 +4,13 @@
 
 (1) Whenever, on the basis of any information available to him, the Administrator finds that any person is in violation of any condition or limitation which implements section 1311, 1312, 1316, 1317, 1318, 1328, or 1345 of this title in a permit issued by a State under an approved permit program under section 1342 or 1344 of this title he shall proceed under his authority in paragraph (3) of this subsection or he shall notify the person in alleged violation and such State of such finding. If beyond the thirtieth day after the Administrator's notification the State has not commenced appropriate enforcement action, the Administrator shall issue an order requiring such person to comply with such condition or limitation or shall bring a civil action in accordance with subsection (b) of this section.
 
-(2) Whenever, on the basis of information available to him, the Administrator finds that violations of permit conditions or limitations as set forth in paragraph (1) of this subsection are so widespread that such violations appear to result from a failure of the State to enforce such permit conditions or limitations effectively, he shall so notify the State. If the Administrator finds such failure extends beyond the thirtieth day after such notice, he shall give public notice of such finding. During the period beginning with such public notice and ending when such State satisfies the Administrator that it will enforce such conditions and limitations (hereafterreferred to in this section as the period of “federally assumed enforcement”), except where an extension has been granted under paragraph (5)(B) of this subsection, the Administrator shall enforce any permit condition or limitation with respect to any person—
+(2) Whenever, on the basis of information available to him, the Administrator finds that violations of permit conditions or limitations as set forth in paragraph (1) of this subsection are so widespread that such violations appear to result from a failure of the State to enforce such permit conditions or limitations effectively, he shall so notify the State. If the Administrator finds such failure extends beyond the thirtieth day after such notice, he shall give public notice of such finding. During the period beginning with such public notice and ending when such State satisfies the Administrator that it will enforce such conditions and limitations (hereafter referred to in this section as the period of “federally assumed enforcement”), except where an extension has been granted under paragraph (5)(B) of this subsection, the Administrator shall enforce any permit condition or limitation with respect to any person—
 
 &emsp;(A) by issuing an order to comply with such condition or limitation, or
 
 &emsp;(B) by bringing a civil action under subsection (b) of this section.
 
-(3) Whenever on the basis of any information available to him the Administrator finds that any person is in violation of section 1311, 1312, 1316, 1317, 1318, 1328, or 1345 of this title, or is in violation of any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by him or by a State or in a permit issued under section 1344 of this title by a State, he shall issue an order requiring such person to comply with such section or requirement, or he shall bring a civil action in accordance with subsection (b) of this section.
+(3) Whenever on the basis of any information available to him the Administrator finds thatany person is in violation of section 1311, 1312, 1316, 1317, 1318, 1328, or 1345 of this title, or is in violation of any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by him or by a State or in a permit issued under section 1344 of this title by a State, he shall issue an order requiring such person to comply with such section or requirement, or he shall bring a civil action in accordance with subsection (b) of this section.
 
 (4) A copy of any order issued under this subsection shall be sent immediately by the Administrator to the State in which the violation occurs and other affected States. In any case in which an order under this subsection (or notice to a violator under paragraph (1) of this subsection) is issued to a corporation, a copy of such order (or notice) shall be served on any appropriate corporate officers. An order issued under this subsection relating to a violation of section 1318 of this title shall not take effect until the person to whom it is issued has had an opportunity to confer with the Administrator concerning the alleged violation.
 
@@ -90,7 +90,7 @@ The Administrator is authorized to commence a civil action for appropriate relie
 
 #### (7) Hazardous substance defined
 
-&emsp;For the purpose of this subsection, the term “hazardous substance” means (A) any substance designated pursuant to section 1321(b)(2)(A) of this title, (B) any element, compound, mixture, solution, or substance designated pursuant to section 9602 of title 42, (C) any hazardous waste having the characteristics identified under or listed pursuant to section 3001 of the Solid Waste Disposal Act \[42 U.S.C. 6921\] (but not including any waste the regulation of which under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] has been suspended by Act of Congress), (D) any toxic pollutant listed under section 1317(a) of this title, and (E) any imminently hazardous chemical substance or mixture with respect to which the Administrator has taken action pursuant to section 2606 of title 15.
+&emsp;For the purpose of this subsection, the term “hazardous substance” means (A) any substance designated pursuant to section 1321(b)(2)(A) of this title, (B) any element, compound, mixture, solution, or substance designated pursuant to section 9602 of title 42, (C) any hazardous waste having the characteristics identified under or listed pursuant to section 3001 of the Solid Waste Disposal Act \[42 U.S.C. 6921\] (but not including any wastethe regulation of which under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] has been suspended by Act of Congress), (D) any toxic pollutant listed under section 1317(a) of this title, and (E) any imminently hazardous chemical substance or mixture with respect to which the Administrator has taken action pursuant to section 2606 of title 15.
 
 #### (d) Civil penalties; factors considered in determining amount
 
@@ -124,7 +124,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 #### (B) Class II
 
-&emsp;&emsp;The amount of a class II civil penalty under paragraph (1) may not exceed $10,000per day for each day during which the violation continues; except that the maximum amount of any class II civil penalty under this subparagraph shall not exceed $125,000. Except as otherwise provided in this subsection, a class II civil penalty shall be assessed and collected in the same manner, and subject to the same provisions, as in the case of civil penalties assessed and collected after notice and opportunity for a hearing on the record in accordance with section 554 of title 5. The Administrator and the Secretary may issue rules for discovery procedures for hearings under this subparagraph.
+&emsp;&emsp;The amount of a class II civil penalty under paragraph (1) may not exceed $10,000 per day for each day during which the violation continues; except that the maximum amount of any class II civil penalty under this subparagraph shall not exceed $125,000. Except as otherwise provided in this subsection, a class II civil penalty shall be assessed and collected in the same manner, and subject to the same provisions, as in the case of civil penalties assessed and collected after notice and opportunity for a hearing onthe record in accordance with section 554 of title 5. The Administrator and the Secretary may issue rules for discovery procedures for hearings under this subparagraph.
 
 #### (3) Determining amount
 
@@ -176,7 +176,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 #### (8) Judicial review
 
-&emsp;Any person against whom a civil penalty is assessed under this subsection or who commented on the proposed assessment of suchpenalty in accordance with paragraph (4) may obtain review of such assessment—
+&emsp;Any person against whom a civil penalty is assessed under this subsection or who commented on the proposed assessment of such penalty in accordance with paragraph (4) may obtain review of such assessment—
 
 &emsp;&emsp;(A) in the case of assessment of a class I civil penalty, in the United States District Court for the District of Columbia or in the district in which the violation is alleged to have occurred, or
 
@@ -226,7 +226,7 @@ Subsec. (g). Pub. L. 100–4, §314(a), added subsec. (g).
 
 Subsec. (a)(2). Pub. L. 95–217, §56(a), substituted “except where an extension has been granted under paragraph (5)(B) of this subsection, the Administrator shall enforce any permit condition or limitation” for “the Administrator shall enforce any permit condition or limitation”.
 
-Subsec. (a)(3). Pub. L. 95–217, §§55(b), 67(c)(2)(B), substituted “1318, 1328, or 1345 of this title” for “or 1318 ofthis title” and inserted “or in a permit issued under section 1344 of this title by a State” after “in a permit issued under section 1342 of this title by him or by a State”.
+Subsec. (a)(3). Pub. L. 95–217, §§55(b), 67(c)(2)(B), substituted “1318, 1328, or 1345 of this title” for “or 1318 of this title” and inserted “or in a permit issued under section 1344 of this title by a State” after “in a permit issued under section 1342 of this title by him or by a State”.
 
 Subsec. (a)(4). Pub. L. 95–217, §56(b), struck out provision that any order issued under this subsection had to be by personal service and had to state with reasonable specificity the nature of the violation and a time for compliance, not to exceed thirty days, which the Administrator determined to be reasonable, taking into account the seriousness of the violation and any good faith efforts to comply with applicable requirements. See section subsec. (a)(5) of this section.
 

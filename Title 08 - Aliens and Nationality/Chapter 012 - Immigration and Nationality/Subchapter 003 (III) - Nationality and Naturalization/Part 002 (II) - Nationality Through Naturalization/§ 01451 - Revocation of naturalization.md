@@ -6,7 +6,7 @@ It shall be the duty of the United States attorneys for the respective districts
 
 #### (b) Notice to party
 
-The party to whom was granted the naturalization alleged to have been illegally procured or procured by concealment of a material fact or by willful misrepresentation shall, in any such proceedings under subsection (a) of this section, have sixty days’ personal notice, unless waived by such party, in which to make answers to the petition of the United States; and if such naturalized person be absent from the United States or from the judicial district in whichsuch person last had his residence, such notice shall be given either by personal service upon him or by publication in the manner provided for the service of summons by publication or upon absentees by the laws of the States or the place where such suit is brought.
+The party to whom was granted the naturalization alleged to have been illegally procured or procured by concealment of a material fact or by willful misrepresentation shall, in any such proceedings under subsection (a) of this section, have sixty days’ personal notice, unless waived by such party, in which to make answers to the petition of the United States; and if such naturalized person be absent from the United States or from the judicial district in which such person last had his residence, such notice shall be given either by personal service upon him or by publication in the manner provided for the service of summons by publication or upon absentees by the laws of the States or the place where such suit is brought.
 
 #### (c) Membership in certain organizations; prima facie evidence
 
@@ -36,7 +36,7 @@ Nothing contained in this section shall be regarded as limiting, denying, or res
 
 #### References In Text
 
-Section 702 of the Nationality Act of 1940, as amended, referred to in subsec. (g), which was classified tosection 1002 of this title, was repealed by section 403(a)(42) of act June 27, 1952. See section 1440 of this title.
+Section 702 of the Nationality Act of 1940, as amended, referred to in subsec. (g), which was classified to section 1002 of this title, was repealed by section 403(a)(42) of act June 27, 1952. See section 1440 of this title.
 
 #### Amendments
 
@@ -68,7 +68,7 @@ Subsec. (b). Pub. L. 87–301, §18(b), inserted “illegally procured or” bef
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub.L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1986 Amendment
 

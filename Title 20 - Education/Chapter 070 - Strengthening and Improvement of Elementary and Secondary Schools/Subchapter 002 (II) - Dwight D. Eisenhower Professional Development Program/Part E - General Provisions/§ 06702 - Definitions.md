@@ -2,9 +2,9 @@
 
 As used in this subchapter (other than part C)—
 
-&emsp;(1) the term “core academic subjects” means those subjects listed in the State plan under title III of the Goals 2000: Educate America Act \[20 U.S.C. 5881 et seq.\] or under the third National Education Goal as set forth in section 102(3) of such Act \[20 U.S.C. 5812(3)\];
+&emsp;(1) the term “core academic subjects” means those subjects listed in the State plan under title III <sup>1</sup> of the Goals 2000: Educate America Act or under the third National Education Goal as set forth in section 102(3) of such Act \[20 U.S.C. 5812(3)\];
 
-&emsp;(2) the term “performance indicators” means measures of specific outcomes that the State or local educational agency identifies as assessing progress toward the goal of ensuring that all teachers have the knowledge and skills necessary to assist their students to meet challenging State content standards and challenging State student performance standards in the core academic subjects, such as—
+&emsp;(2) the term “performance indicators” means measures of specific outcomes that the State or local educational agency identifies as assessing progress toward the goal of ensuring that all teachers have the knowledge and skills necessary to assist their students tomeet challenging State content standards and challenging State student performance standards in the core academic subjects, such as—
 
 &emsp;&emsp;(A) the degree to which licensure requirements are tied to challenging State content standards and challenging State student performance standards;
 
@@ -34,7 +34,7 @@ As used in this subchapter (other than part C)—
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in par. (1), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in par. (1), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act was classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title and was repealed by Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §310(i)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–265. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Amendments
 

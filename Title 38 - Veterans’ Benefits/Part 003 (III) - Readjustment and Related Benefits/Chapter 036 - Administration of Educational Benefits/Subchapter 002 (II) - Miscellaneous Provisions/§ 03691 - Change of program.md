@@ -28,7 +28,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Amendments
 
-1992—Subsec. (d). Pub. L. 102–568 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “As used in this section the term ‘change of program of education’ shall not be deemed to include a change from the pursuit of one program to pursuit of another where the first program is prerequisite to, or generally required for, entrance into pursuit of the second.”
+1992—Subsec. (d). Pub. L. 102–568 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “As used in this section the term ‘change of program of education’ shall not be deemed to include achange from the pursuit of one program to pursuit of another where the first program is prerequisite to, or generally required for, entrance into pursuit of the second.”
 
 1991—Pub. L. 102–83 renumbered section 1791 of this title as this section.
 

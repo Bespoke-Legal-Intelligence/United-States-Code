@@ -28,7 +28,7 @@ Except as provided in subsection (b) <sup>1</sup> of this section and the secon
 
 (2) In making such a finding, the Secretary shall consider, among other factors with respect to a national accreditation body, its requirements for accreditation, its survey procedures, its ability to provide adequate resources for conducting required surveys and supplying information for use in enforcement activities, its monitoring procedures for provider entities found out of compliance with the conditions or requirements, and its ability to provide the Secretary with necessary data for validation.
 
-(3)(A) Except as provided in subparagraph (B), not later than 60 days after the date of receipt of a written request for a finding under paragraph (1) (with any documentation necessary to make a determination on the request), the Secretary shall publish a notice identifying the national accreditation body making the request, describing the nature of the request, and providing a period of at least 30 days for the public to comment on the request. The Secretary shall approve or deny a request for such a finding, and shall publish notice of such approval or denial, not later than 210 days after the date of receipt of the request (with such documentation). Such an approval shall be effective with respect to accreditation determinations made on or after such effective date (which may not be later than the date of publication of the approval) as the Secretary specifies in the publication notice.
+(3)(A) Except as provided in subparagraph (B), not later than 60 days after the date of receipt of a written request for a finding under paragraph (1) (with any documentation necessary to make a determination on the request), the Secretary shall publish a notice identifying the national accreditation body making the request, describing the nature of the request, and providing a period of at least 30 days for the public to comment on the request. The Secretary shall approve or deny a request for such a finding, and shall publish notice of such approval or denial,not later than 210 days after the date of receipt of the request (with such documentation). Such an approval shall be effective with respect to accreditation determinations made on or after such effective date (which may not be later than the date of publication of the approval) as the Secretary specifies in the publication notice.
 
 (B) The 210-day and 60-day deadlines specified in subparagraph (A) shall not apply in the case of any request for a finding with respect to accreditation of a provider entity to which the conditions and requirements of section <sup>3</sup> 1395i–3 and 1395x(j) of this title apply.
 
@@ -162,7 +162,7 @@ Amendment by section 234(h) of Pub. L. 92–603 applicable with respect to provi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1320c–9, 1395x, 1395aa of this title.
+This section is referred to in sections 1320c–9, 1395w–22, 1395x, 1395aa of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Constitution and United States laws; laws of adjacent States; publication of projected State lines; international boundary disputes; restriction on State taxation and jurisdiction
 
-(1) The Constitution and laws and civil and political jurisdiction of the United States are extended to the subsoil and seabed of the outer Continental Shelf and to all artificial islands,and all installations and other devices permanently or temporarily attached to the seabed, which may be erected thereon for the purpose of exploring for, developing, or producing resources therefrom, or any such installation or other device (other than a ship or vessel) for the purpose of transporting such resources, to the same extent as if the outer Continental Shelf were an area of exclusive Federal jurisdiction located within a State: <i>Provided, however</i>, That mineral leases on the outer Continental Shelf shall be maintained or issued only under the provisions of this subchapter.
+(1) The Constitution and laws and civil and political jurisdiction of the United States are extended to the subsoil and seabed of the outer Continental Shelf and to all artificial islands, and all installations and other devices permanently or temporarily attached to the seabed, which may be erected thereon for the purpose of exploring for, developing, or producing resources therefrom, or any such installation or other device (other than a ship or vessel) for the purpose of transporting such resources, to the same extent as if the outer Continental Shelf were an area of exclusive Federal jurisdiction located within a State: <i>Provided, however</i>, That mineral leases on the outer Continental Shelf shall be maintained or issued only under the provisions of this subchapter.
 
 (2)(A) To the extent that they are applicable and not inconsistent with this subchapter or with other Federal laws and regulations of the Secretary now in effect or hereafter adopted, the civil and criminal laws of each adjacent State, now in effect or hereafter adopted, amended, or repealed are declared to be the law of the United States for that portion of the subsoil and seabed of the outer Continental Shelf, and artificial islands and fixed structures erected thereon, which would be within the area of the State if its boundaries were extended seaward to the outer margin of the outer Continental Shelf, and the President shall determine and publish in the Federal Register such projected lines extending seaward and defining each such area. All of such applicable laws shall be administered and enforced by the appropriate officers and courts of the United States. State taxation laws shall not apply to the outer Continental Shelf.
 
@@ -22,7 +22,7 @@ With respect to disability or death of an employee resulting from any injury occ
 
 #### (c) National Labor Relations Act applicable
 
-For the purposes of the National Labor Relations Act, as amended \[29 U.S.C. 151 et seq.\], any unfair labor practice, as defined in such Act, occurring upon any artificial island, installation, or other device referred to in subsection (a) of this section shall be deemed to have occurred within the judicial district of the State, the laws of which apply to such artificial island, installation, or other device pursuant to such subsection, except that until the President determines the areas within which such State laws are applicable, the judicial district shall be that of the State nearest the place of location of such artificial island, installation, or other device.
+For the purposes of the National Labor Relations Act, as amended \[29 U.S.C. 151 et seq.\], any unfair labor practice, as defined in such Act, occurring upon any artificial island, installation, or other device referred to in subsection (a) of this section shall be deemed to have occurred within the judicial district of the State, thelaws of which apply to such artificial island, installation, or other device pursuant to such subsection, except that until the President determines the areas within which such State laws are applicable, the judicial district shall be that of the State nearest the place of location of such artificial island, installation, or other device.
 
 #### (d) Coast Guard regulations; marking of artificial islands, installations, and other devices; failure of owner suitably to mark according to regulations
 
@@ -66,7 +66,7 @@ Subsec. (e). Pub. L. 95–372, §203(e)(2), (h), redesignated subsec. (f) as (e)
 
 Subsecs. (f), (g). Pub. L. 95–372, §203(e)(3), (h), redesignated subsec. (g) as (f) and substituted “the artificial islands, installations, and other devices” for “the artificial islands and fixed structures”. Former subsec. (f) redesignated (e).
 
-1975—Subsec. (a)(2). Pub. L. 93–627 substituted “now in effect or hereafter adopted, amended, or repealed” for “as of the effective date of this Act” in first sentence.
+1975—Subsec. (a)(2). Pub. L. 93–627 substituted “now in effect or hereafter adopted, amended, or repealed”for “as of the effective date of this Act” in first sentence.
 
 #### Cross References
 

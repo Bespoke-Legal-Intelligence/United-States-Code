@@ -6,7 +6,7 @@ Offense.—Any person who—
 
 &emsp;(1) willfully fails to pay a support obligation with respect to a child who resides in another State, if such obligation has remained unpaid for a period longer than 1 year, or is greater than $5,000;
 
-&emsp;(2) travels in interstate or foreign commerce with the intent to evade a support obligation, if such obligation has remained unpaid for a period longer than 1 year, or is greater than $5,000; or
+&emsp;(2) travels in interstate or foreign commerce with the intent to evade a support obligation, if such obligation has remained unpaid for aperiod longer than 1 year, or is greater than $5,000; or
 
 &emsp;(3) willfully fails to pay a support obligation with respect to a child who resides in another State, if such obligation has remained unpaid for a period longer than 2 years, or is greater than $10,000;
 
@@ -52,7 +52,7 @@ Definitions.—As used in this section—
 
 #### Amendments
 
-1998—Pub. L. 105–187 reenacted section catchline without change and amended text generally. Prior toamendment, section consisted of subsecs. (a) to (d) relating to a description of the offense, punishment for an offense, restitution upon conviction of an offense, and definitions of terms used in this section.
+1998—Pub. L. 105–187 reenacted section catchline without change and amended text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to a description of the offense, punishment for an offense, restitution upon conviction of an offense, and definitions of terms used in this section.
 
 1996—Subsec. (d)(2). Pub. L. 104–294 inserted “commonwealth,” before “possession or territory of the United States”.
 

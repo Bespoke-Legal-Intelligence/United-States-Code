@@ -84,7 +84,7 @@
 
 (h) Notwithstanding section 410(a) of title 39, this section applies to the United States Postal Service.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 924; Pub. L. 99–550, §1(a), Oct. 27, 1986, 100 Stat. 3067; Pub. L. 100–180, div. A, title XIII, §1314(d)(2), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–202, §101(a) \[title IV, §407\], Dec. 22, 1987, 101 Stat. 1329, 1329–26;Pub. L. 101–510, div. A, title III, §326(b), Nov. 5, 1990, 104 Stat. 1531; Pub. L. 103–272, §4(f)(2), July 5, 1994, 108 Stat. 1363; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 924; Pub. L. 99–550, §1(a), Oct. 27, 1986, 100 Stat. 3067; Pub. L. 100–180, div. A, title XIII, §1314(d)(2), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–202, §101(a) \[title IV, §407\], Dec. 22, 1987, 101 Stat. 1329, 1329–26; Pub. L. 101–510, div. A, title III, §326(b), Nov. 5, 1990, 104 Stat. 1531; Pub. L. 103–272, §4(f)(2), July 5, 1994, 108 Stat. 1363; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37.)
 
 Historical and Revision Notes
 
@@ -174,7 +174,7 @@ Pub. L. 101–194, title V, §503, Nov. 30, 1989, 103 Stat. 1755, as amended by 
 
 #### Use of Official Vehicles of House of Representatives
 
-Pub. L. 101–194, title VIII, §802(d), Nov. 30, 1989, 103 Stat. 1773, as amended by Pub. L. 104–186, title II,§219(a), Aug. 20, 1996, 110 Stat. 1747, provided that: “The Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives shall take such action as may be necessary to carry out section 503 \[set out above\] with respect to vehicles of the House of Representatives.”
+Pub. L. 101–194, title VIII, §802(d), Nov. 30, 1989, 103 Stat. 1773, as amended by Pub. L. 104–186, title II, §219(a), Aug. 20, 1996, 110 Stat. 1747, provided that: “The Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives shall take such action as may be necessary to carry out section 503 \[set out above\] with respect to vehicles of the House of Representatives.”
 
 #### Section Referred to in Other Sections
 

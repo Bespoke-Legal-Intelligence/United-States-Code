@@ -32,11 +32,13 @@ Historical and Revision Notes
 
 Aug. 6, 1956, ch. 974, §10, as added Jan. 30, 1968, Pub. L. 90–251, §4, 82 Stat. 4.
 
-504(b)D36:725 (3d sentence).
+504(b)D36:725 (3d sentence).D&nbsp;
 
 504(c)
 
 36:725 (last sentence).
+
+&nbsp;
 
 In subsection (a), the words “lighting or other” and “for illumination or other purposes” are omitted as unnecessary.
 

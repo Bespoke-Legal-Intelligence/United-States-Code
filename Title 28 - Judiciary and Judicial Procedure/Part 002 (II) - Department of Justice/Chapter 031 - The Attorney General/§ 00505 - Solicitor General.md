@@ -1,6 +1,6 @@
 ### §505. Solicitor General
 
-The President shall appoint in the Department of Justice, by and with the advice and consent of the Senate, a Solicitor General, learned in the law, to assist the Attorney General in the performance of his duties.
+The President shall appoint in the Department of Justice, by and with the advice and consent ofthe Senate, a Solicitor General, learned in the law, to assist the Attorney General in the performance of his duties.
 
 (Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 612.)
 

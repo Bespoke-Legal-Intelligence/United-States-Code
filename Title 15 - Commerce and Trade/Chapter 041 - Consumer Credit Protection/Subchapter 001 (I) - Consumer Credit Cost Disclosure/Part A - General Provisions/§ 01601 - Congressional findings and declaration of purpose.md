@@ -28,6 +28,10 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 
 Section 504(a) of Pub. L. 90–321 provided that this part is effective May 29, 1968.
 
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–102, title VII, §701, Nov. 12, 1999, 113 Stat. 1463, provided that: “This subtitle \[subtitle A (§§701–705) of title VII of Pub. L. 106–102, amending sections 1693b, 1693c, and 1693h of this title\] may be cited as the ‘ATM Fee Reform Act of 1999’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–347, §1, Nov. 2, 1998, 112 Stat. 3208, provided that: “This Act \[amending sections 1681a to 1681c, 1681g, 1681i, 1681k, and 1681s of this title and enacting provisions set out as a note under section 1681a of this title\] may be cited as the ‘Consumer Reporting Employment Clarification Act of 1998’.”
@@ -58,11 +62,11 @@ Pub. L. 100–583, §1, Nov. 3, 1988, 102 Stat. 2960, provided that: “This Act
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–25, §1, July 27, 1981, 95 Stat. 144, provided: “That this Act \[amending sections 1602 and 1666f of thistitle, section 29 of Title 12, Banks and Banking, and sections 205 and 212 of Title 42, The Public Health and Welfare; enacting provisions set out as notes under this section and sections 1602 and 1666f of this title; and amending provisions set out as notes under sections 1602 and 1666f of this title\] may be cited as the ‘Cash Discount Act’.”
+Pub. L. 97–25, §1, July 27, 1981, 95 Stat. 144, provided: “That this Act \[amending sections 1602 and 1666f of this title, section 29 of Title 12, Banks and Banking, and sections 205 and 212 of Title 42, The Public Health and Welfare; enacting provisions set out as notes under this section and sections 1602 and 1666f of this title; and amending provisions set out as notes under sections 1602 and 1666f of this title\] may be cited as the ‘Cash Discount Act’.”
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–221, title VI, §601, Mar. 31, 1980, 94 Stat. 168, provided that: “This title \[enacting section 1646 of this title, amending sections 57a, 1602 to 1607, 1610, 1612, 1613, 1631, 1632, 1635, 1637, 1638, 1640, 1641, 1643, 1663, 1664, 1665a, 1666, 1666d, 1667d, and 1691f of this title, repealing sections 1614, 1636, and 1639 of this title, and enacting provisions set out as notes under sections 1602 and 1607 of this title\] may be cited as the ‘Truth in Lending Simplification and Reform Act’.”
+Pub. L. 96–221, title VI, §601, Mar. 31, 1980, 94 Stat. 168, provided that: “This title \[enacting section 1646 of this title, amending sections 57a, 1602 to 1607, 1610, 1612, 1613,1631, 1632, 1635, 1637, 1638, 1640, 1641, 1643, 1663, 1664, 1665a, 1666, 1666d, 1667d, and 1691f of this title, repealing sections 1614, 1636, and 1639 of this title, and enacting provisions set out as notes under sections 1602 and 1607 of this title\] may be cited as the ‘Truth in Lending Simplification and Reform Act’.”
 
 #### Short Title of 1976 Amendments
 

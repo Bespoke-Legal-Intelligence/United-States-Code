@@ -20,7 +20,7 @@ Consistent with the provisions of the Indian Self-Determination and Education As
 
 (1) To meet the management objectives of this section, a 10-year Indian agriculture resource management and monitoring plan shall be developed and implemented as follows:
 
-&emsp;(A) Pursuant to a self-determination contract or self-governance compact, an Indian tribe may develop or implement an Indian agriculture resource plan. Subject to the provisions of subparagraph (C), the tribe shall havebroad discretion in designing and carrying out the planning process.
+&emsp;(A) Pursuant to a self-determination contract or self-governance compact, an Indian tribe may develop or implement an Indian agriculture resource plan. Subject to the provisions of subparagraph (C), the tribe shall have broad discretion in designing and carrying out the planning process.
 
 &emsp;(B) If a tribe chooses not to contract the development or implementation of the plan, the Secretary shall develop or implement, as appropriate, the plan in close consultation with the affected tribe.
 

@@ -20,7 +20,7 @@ If any indenture trustee has or shall acquire any conflicting interest as herein
 
 &emsp;(ii) in the event that such trustee shall fail to comply with the provisions of clause (i) of this subsection, such trustee shall, within 10 days after the expiration of such 90-day period, transmit notice of such failure to the indenture security holders in the manner and to the extent provided in subsection (c) of section 77mmm of this title; and
 
-&emsp;(iii) subject to the provisions of subsection (e) of section 77<i>ooo</i> of this title, unless such trustee's duty to resign is stayed as provided below in this subsection, any security holder who has been a bona fide holder of indenture securities for at least six months may, on behalf of himself and all others similarly situated, petition any court of competent jurisdiction for the removal of such trustee, and the appointment of a successor, if such trustee fails, after written request thereof by such holder to comply with the provisions of clause (i) of this subsection.
+&emsp;(iii) subject to the provisions of subsection (e) of section 77<i>ooo</i> of this title, unless such trustee's duty to resign is stayed as provided below in this subsection, any security holder who has been a bona fide holder of indenturesecurities for at least six months may, on behalf of himself and all others similarly situated, petition any court of competent jurisdiction for the removal of such trustee, and the appointment of a successor, if such trustee fails, after written request thereof by such holder to comply with the provisions of clause (i) of this subsection.
 
 For the purposes of this subsection, an indenture trustee shall be deemed to have a conflicting interest if the indenture securities are in default (as such term is defined in such indenture, but exclusive of any period of grace or requirement of notice) and—
 
@@ -36,7 +36,7 @@ For the purposes of this subsection, an indenture trustee shall be deemed to hav
 
 &emsp;&emsp;(i) the indenture to be qualified and any such other indenture or indentures (and all series of securities issuable thereunder) are wholly unsecured and rank equally, and such other indenture or indentures (and such series) are specifically described in the indenture to be qualified or are thereafter qualified under this subchapter, unless the Commission shall have found and declared by order pursuant to subsection (b) of section 77eee of this title or subsection (c) of section 77ggg of this title that differences exist between the provisions of the indenture (or such series) to be qualified and the provisions of such other indenture or indentures (or such series) which are so likely to involve a material conflict of interest as to make it necessary in the public interest or for the protection of investors to disqualify such trustee from acting as such under one of such indentures, or
 
-&emsp;&emsp;(ii) the issuer shall have sustained the burden of proving, on application to the Commission and after opportunity for hearingthereon, that trusteeship under the indenture to be qualified and such other indenture or under more than one outstanding series under a single indenture is not so likely to involve a material conflict of interest as to make it necessary in the public interest or for the protection of investors to disqualify such trustee from acting as such under one of such indentures or with respect to such series;
+&emsp;&emsp;(ii) the issuer shall have sustained the burden of proving, on application to the Commission and after opportunity for hearing thereon, that trusteeship under the indenture to be qualified and such other indenture or under more than one outstanding series under a single indenture is not so likely to involve a material conflict of interest as to make it necessary in the public interest or for the protection of investors to disqualify such trustee from acting as such under one of such indentures or with respect to such series;
 
 &emsp;(2) such trustee or any of its directors or executive officers is an underwriter for an obligor upon the indenture securities;
 
@@ -54,7 +54,7 @@ For the purposes of this subsection, an indenture trustee shall be deemed to hav
 
 &emsp;(6) such trustee is the beneficial owner of, or holds as collateral security for an obligation which is in default as hereinafter defined—
 
-&emsp;&emsp;(A) 5 per centum or more of the voting securities, or 10 per centum or more of any other class of security, of an obligor upon the indenture securities, not including indentures <sup>2</sup> securities and securities issued under any other indenture under which such trustee is also trustee, or
+&emsp;&emsp;(A) 5 per centum or more of the voting securities, or 10 per centum or more of any other class of security, of an obligor upon the indenture securities, not including indentures <sup>2</sup> securities and securities issuedunder any other indenture under which such trustee is also trustee, or
 
 &emsp;&emsp;(B) 10 per centum or more of any class of security of an underwriter for any such obligor;
 
@@ -82,7 +82,7 @@ For the purposes of this subsection, the term “underwriter” when used with r
 
 Except in the case of a default in the payment of the principal of or interest on any indenture security, or in the payment of any sinking or purchase fund installment, the indenture trustee shall not be required to resign as provided by this subsection if such trustee shall have sustained the burden of proving, on application to the Commission and after opportunity for hearing thereon, that—
 
-&emsp;(i) the default under the indenture may be cured or waived during a reasonable period and under the procedures described in such application, and
+&emsp;(i) the default under the indenture may be cured or waived during a reasonable periodand under the procedures described in such application, and
 
 &emsp;(ii) a stay of the trustee's duty to resign will not be inconsistent with the interests of holders of the indenture securities. The filing of such an application shall automatically stay the performance of the duty to resign until the Commission orders otherwise.
 

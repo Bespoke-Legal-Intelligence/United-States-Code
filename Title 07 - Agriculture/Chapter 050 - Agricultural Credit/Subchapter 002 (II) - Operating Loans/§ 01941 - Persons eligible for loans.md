@@ -34,9 +34,9 @@ Youth enterprises not farming or ranching.—The operation of an enterprise by a
 
 #### (3) Transition rule
 
-&emsp;If, as of April 4, 1996, a farmer or rancher has received a direct operating loan under thissubchapter during each of 4 or more previous years, the borrower shall be eligible to receive a direct operating loan under this subchapter during 3 additional years after April 4, 1996.
+&emsp;If, as of April 4, 1996, a farmer or rancher has received a direct operating loan under this subchapter during each of 4 or more previous years, the borrower shall be eligible to receive a direct operating loan under this subchapter during 3 additional years after April 4, 1996.
 
-(Pub. L. 87–128, title III, §311, Aug. 8, 1961, 75 Stat. 310; Pub. L. 92–419, title I, §120(a), Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–334, title I, §114, Aug. 4, 1978, 92 Stat. 425; Pub. L. 97–98, title XVI, §1601(b), Dec. 22, 1981, 95 Stat. 1346; Pub. L. 99–198, title XIII, §§1301(a), 1302(b), 1303, Dec. 23, 1985, 99 Stat. 1518, 1519; Pub. L. 104–127, title VI, §§611, 661(f), Apr. 4, 1996, 110 Stat. 1087, 1107; Pub. L. 105–277, div. A, title I, §101(a) \[title VIII, §805(2)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39.)
+(Pub. L. 87–128, title III, §311, Aug. 8, 1961, 75 Stat. 310; Pub. L. 92–419, title I, §120(a), Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–334, title I, §114, Aug. 4, 1978, 92 Stat. 425; Pub. L. 97–98, title XVI, §1601(b), Dec. 22, 1981, 95 Stat. 1346; Pub. L. 99–198, title XIII, §§1301(a), 1302(b), 1303, Dec. 23, 1985, 99 Stat. 1518, 1519; Pub. L. 104–127, title VI, §§611, 661(f), Apr. 4, 1996, 110 Stat. 1087, 1107; Pub. L. 105–277, div. A, §101(a) \[title VIII, §805(2)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39.)
 
 #### References in Text
 

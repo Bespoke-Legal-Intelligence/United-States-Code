@@ -44,7 +44,7 @@ A prior section 302 of act July 10, 1954, ch. 469, title III, 68 Stat. 458, whic
 
 #### Amendments
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions setting outcriteria for eligibility of developing countries for distribution of commodities, minimum aggregate value of agreements for such distribution, waiver of minimum, and participatory requirements.
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions setting out criteria for eligibility of developing countries for distribution of commodities, minimum aggregate value of agreements for such distribution, waiver of minimum, and participatory requirements.
 
 1985—Subsec. (c)(1)(C). Pub. L. 99–198 substituted “10” for “15” percent.
 

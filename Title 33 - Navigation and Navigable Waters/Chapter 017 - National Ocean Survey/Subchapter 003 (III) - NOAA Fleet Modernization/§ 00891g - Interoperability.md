@@ -6,5 +6,5 @@ The Secretary shall consult with the Oceanographer of the Navy regarding appropr
 
 #### Interoperability of Vessels
 
-Section 401(b)(5) of Pub. L. 102–567 provided that: “The Secretary of Commerce shall consult with the Oceanographer of the Navy regarding appropriate cost effective and practical measures to allow vessels of the National Oceanic and Atmospheric Administration to be interoperable with vessels of the Department of the Navy, including with respect to operation, maintenance, and repair of those vessels.”
+Section 401(b)(5) of Pub. L. 102–567 provided that: “The Secretary of Commerce shall consult with the Oceanographer of the Navy regarding appropriate cost effective and practical measures to allow vessels of theNational Oceanic and Atmospheric Administration to be interoperable with vessels of the Department of the Navy, including with respect to operation, maintenance, and repair of those vessels.”
 

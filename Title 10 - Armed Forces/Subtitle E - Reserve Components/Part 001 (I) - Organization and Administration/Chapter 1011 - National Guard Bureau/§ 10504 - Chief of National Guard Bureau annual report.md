@@ -6,7 +6,7 @@ Annual Report.—The Chief of the National Guard Bureau shall submit to the Secr
 
 (b)
 
-Submission of Report to Congress.—The Secretary of Defense shall transmit the annual report of the Chief of the National Guard Bureau to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113(c) of this title is submitted to Congress.
+Submission of Report to Congress.—The Secretary of Defense shall transmit the annual report of the Chief of the National Guard Bureau to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at thesame time each year that the annual report of the Secretary under section 113(c) of this title is submitted to Congress.
 
 (Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2825.)
 

@@ -72,15 +72,15 @@ Subsec. (d). Pub. L. 98–473, §517(b), added subsec. (d).
 
 #### National Drug Intelligence Center
 
-Pub. L. 105–272, title I, §104(e), Oct. 20, 1998, 112 Stat. 2398, provided that:
+Pub. L. 106–120, title I, §104(e), Dec. 3, 1999, 113 Stat. 1609, provided that:
 
 “(1)
 
-In general.—Of the amount appropriated pursuant to the authorization in subsection (a) \[112 Stat. 2398\], the amount of $27,000,000 shall be available for the National Drug Intelligence Center. Within such amount, funds provided for research, development, test, and evaluation purposes shall remain available until September 30, 2000, and funds provided for procurement purposes shall remain available until September 30, 2001.
+In general.—Of the amount authorized to be appropriated in subsection (a) \[113 Stat. 1608\], $27,000,000 shall be available for the National Drug Intelligence Center. Within such amount, funds provided for research, development, test, and evaluation purposes shall remain available until September 30, 2001, and funds provided for procurement purposes shall remain available until September 30, 2002.
 
 “(2)
 
-Transfer of funds.—The Director of Central Intelligence shall transfer to the Attorney General of the United States funds available for the National Drug Intelligence Center under paragraph (1). The Attorney General shall utilize funds so transferred for the activities of the National Drug Intelligence Center.
+Transfer of funds.—The Director of Central Intelligence shall transfer to the Attorney General of the United States funds available for the National Drug Intelligence Center under paragraph (1). The Attorney General shall utilize funds so transferred for activities of the Center.
 
 “(3)
 
@@ -91,6 +91,8 @@ Limitation.—Amounts available for the National Drug Intelligence Center may no
 Authority.—Notwithstanding any other provision of law, the Attorney General shall retain full authority over the operations of the National Drug Intelligence Center.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–272, title I, §104(e), Oct. 20, 1998, 112 Stat. 2398.
 
 Pub. L. 105–107, title I, §104(e), Nov. 20, 1997, 111 Stat. 2250.
 

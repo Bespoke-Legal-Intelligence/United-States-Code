@@ -14,7 +14,7 @@
 
 (g) All knives having a blade which opens automatically (1) by hand pressure applied to a button or other device in the handle of the knife, or (2) by operation of inertia, gravity, or both, are nonmailable and shall not be deposited in or carried by the mails or delivered by any officer or employee of the Postal Service. Such knives may be conveyed in the mails, under such regulations as the Postal Service shall prescribe—
 
-&emsp;(1) to civilian or Armed Forces supply or procurement officers and employees of theFederal Government ordering, procuring, or purchasing such knives in connection with the activities of the Federal Government;
+&emsp;(1) to civilian or Armed Forces supply or procurement officers and employees of the Federal Government ordering, procuring, or purchasing such knives in connection with the activities of the Federal Government;
 
 &emsp;(2) to supply or procurement officers of the National Guard, the Air National Guard, or militia of a State ordering, procuring, or purchasing such knives in connection with the activities of such organizations;
 

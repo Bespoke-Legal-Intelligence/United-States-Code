@@ -58,7 +58,7 @@ To be eligible to receive a grant under this section, an entity (other than a lo
 
 &emsp;&emsp;(A) meets the poverty rate criteria set forth in subsections (a)(4), (b), and (d) of section 1392 of title 26; and
 
-&emsp;&emsp;(B) is located on an Indian reservation or serves Oklahoma Indians or Alaska Native villages or Native groups (as such terms are defined in section 1602 of title 43).
+&emsp;&emsp;(B) is located on an Indian reservation or serves Oklahoma Indians or Alaska Natives.
 
 #### (e) Application
 
@@ -76,7 +76,7 @@ To be eligible to receive a grant under this section, a local board or entity sh
 
 #### (1) In general
 
-&emsp;The Secretary shall negotiate and reach agreement with the local board or entity onperformance measures for the indicators of performance referred to in subparagraphs (A) and (B) of section 2871(b)(2) of this title that will be used to evaluate the performance of the local board or entity in carrying out the activities described in subsection (b) of this section. Each local performance measure shall consist of such a <sup>1</sup> indicator of performance, and a performance level referred to in paragraph (2).
+&emsp;The Secretary shall negotiate and reach agreement with the local board or entity on performance measures for the indicators of performance referred to in subparagraphs (A) and (B) of section 2871(b)(2) of this title that will be used to evaluate the performance of the local board or entity in carrying out the activities described in subsection (b) of this section. Each local performance measure shall consist of such a <sup>1</sup> indicator of performance, and a performance level referred to in paragraph (2).
 
 #### (2) Performance levels
 
@@ -100,7 +100,11 @@ To be eligible to receive a grant under this section, a local board or entity sh
 
 &emsp;&emsp;(B) include vocational training, secondary school course work leading to a secondary school diploma or recognized equivalent, and the use of mentors who serve as role models and who provide academic training and career counseling to the youth.
 
-(Pub. L. 105–220, title I, §169, Aug. 7, 1998, 112 Stat. 1028.)
+(Pub. L. 105–220, title I, §169, Aug. 7, 1998, 112 Stat. 1028; Pub. L. 106–113, div. B, §1000(a)(4) \[title V, §518\], Nov. 29, 1999, 113 Stat. 1535, 1501A–276.)
+
+#### Amendments
+
+1999—Subsec. (d)(2)(B). Pub. L. 106–113 substituted “or Alaska Natives.” for “or Alaska Native villages or Native groups (as such terms are defined in section 1602 of title 43).”
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director of the Prevention Center may make grants to public and nonprofit private entities for the purpose of assisting business organizations in establishing employee assistance programs to provide appropriate services for employees of the organizations regarding substance abuse, including education and prevention services and referrals for treatment.
+The Director of the Prevention Center may make grants to public and nonprofit private entities for the purpose of assisting business organizations in establishing employee assistance programs to provide appropriate services for employees of the organizations regarding substanceabuse, including education and prevention services and referrals for treatment.
 
 #### (b) Certain requirements
 

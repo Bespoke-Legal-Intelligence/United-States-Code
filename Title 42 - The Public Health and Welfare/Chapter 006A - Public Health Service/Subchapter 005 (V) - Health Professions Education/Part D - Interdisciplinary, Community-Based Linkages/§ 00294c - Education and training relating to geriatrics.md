@@ -66,7 +66,7 @@
 
 &emsp;For purposes of this subsection:
 
-&emsp;&emsp;(A) The term “graduate medical education program” means a program sponsored by a school of medicine, a school of osteopathicmedicine, a hospital, or a public or private institution that—
+&emsp;&emsp;(A) The term “graduate medical education program” means a program sponsored by a school of medicine, a school of osteopathic medicine, a hospital, or a public or private institution that—
 
 &emsp;&emsp;&emsp;(i) offers postgraduate medical training in the specialties and subspecialties of medicine; and
 

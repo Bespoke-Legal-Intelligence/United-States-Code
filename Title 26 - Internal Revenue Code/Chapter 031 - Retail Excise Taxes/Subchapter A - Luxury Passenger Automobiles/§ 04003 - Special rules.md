@@ -66,13 +66,13 @@ Parts and accessories sold on, in connection with, or with the sale of any passe
 
 #### (d) Partial payments, etc.
 
-In the case of a contract, sale, or arrangement described in paragraph (2), (3), or (4) of section 4216(c), rules similar to the rules of section 4217(e)(2) shall apply for purposes of this subchapter.
+In the case of a contract, sale, or arrangement described in paragraph (2), (3), or (4) of section4216(c), rules similar to the rules of section 4217(e)(2) shall apply for purposes of this subchapter.
 
 (Added Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–439; amended Pub. L. 103–66, title XIII, §13161(a), Aug. 10, 1993, 107 Stat. 451; Pub. L. 105–34, title IX, §906(b)(3), (4), title XIV, §1401(a), Aug. 5, 1997, 111 Stat. 875, 1045.)
 
-#### Adjustment of Threshold Price for Purposes of Determining Excise Tax Under This Section for Tax Years Beginning in 1999
+#### Adjustment of Threshold Price for Purposes of Determining Excise Tax Under This Section for Tax Years Beginning in 2000
 
-<i>For adjustment of threshold price above which purchase of luxury passenger vehicle becomes subject to excise tax under this section for tax years beginning in 1999, see section 3.18 of Revenue Procedure 98–61, set out as a note under section 1 of this title.</i>
+<i>For adjustment of threshold price above which purchase of luxury passenger vehicle becomes subject to excise tax under this section for tax years beginning in 2000, see section 3.19 of Revenue Procedure 99–42, set out as a note under section 1 of this title.</i>
 
 #### Prior Provisions
 

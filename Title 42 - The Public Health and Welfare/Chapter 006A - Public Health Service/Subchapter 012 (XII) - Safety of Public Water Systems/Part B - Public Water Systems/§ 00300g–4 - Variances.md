@@ -16,7 +16,7 @@ Notwithstanding any other provision of this part, variances from national primar
 
 &emsp;(C) Before a variance proposed to be granted by a State under subparagraph (A) or (B) may take effect, such State shall provide notice and opportunity for public hearing on the proposed variance. A notice given pursuant to the preceding sentence may cover the granting of more than one variance and a hearing held pursuant to such notice shall include each of the variances covered by the notice. The State shall promptly notify the Administrator of all variances granted by it. Such notification shall contain the reason for the variance (and in the case of a variance under subparagraph (A), the basis for the finding required by that subparagraph before the granting of the variance) and documentation of the need for the variance.
 
-&emsp;(D) Each public water system's variance granted by a State under subparagraph (A) shall be conditioned by the State upon compliance by the public water system with the schedule prescribed by the State pursuant to that subparagraph. The requirements of each schedule prescribed by a State pursuant to that subparagraph shall be enforceable by the State under its laws. Any requirement of a schedule on which a variance granted under that subparagraph is conditioned may be enforced under section 300g–3 of this title as if such requirement was part of a national primary drinking water regulation.
+&emsp;(D) Each public water system's variance granted by a State under subparagraph (A) shall be conditioned by the State upon compliance by the public water system with the schedule prescribed by the State pursuant to that subparagraph. The requirements of each schedule prescribed by a State pursuant to that subparagraph shall be enforceable by the State under its laws. Any requirement of a schedule on which a variance granted under that subparagraph is conditioned may be enforced under section 300g–3 of this title as ifsuch requirement was part of a national primary drinking water regulation.
 
 &emsp;(E) Each schedule prescribed by a State pursuant to subparagraph (A) shall be deemed approved by the Administrator unless the variance for which it was prescribed is revoked by the Administrator under subparagraph (G) or the schedule is revised by the Administrator under such subparagraph.
 
@@ -92,7 +92,7 @@ For purposes of this section, the term “treatment technique requirement” mea
 
 #### (5) Duration of variances
 
-&emsp;The Administrator (or the State in the case of a State that has primary enforcement responsibility under section 300g–2 of this title) shall review each variance granted under thissubsection not less often than every 5 years after the compliance date established in the variance to determine whether the system remains eligible for the variance and is conforming to each condition of the variance.
+&emsp;The Administrator (or the State in the case of a State that has primary enforcement responsibility under section 300g–2 of this title) shall review each variance granted under this subsection not less often than every 5 years after the compliance date established in the variance to determine whether the system remains eligible for the variance and is conforming to each condition of the variance.
 
 #### (6) Ineligibility for variances
 

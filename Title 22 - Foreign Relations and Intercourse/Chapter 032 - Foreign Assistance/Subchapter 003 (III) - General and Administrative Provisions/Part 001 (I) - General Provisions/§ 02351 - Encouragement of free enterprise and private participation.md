@@ -14,7 +14,7 @@ In order to encourage and facilitate participation by private enterprise to the 
 
 &emsp;(3) accelerate a program of negotiating treaties for commerce and trade, including tax treaties, which shall include provisions to encourage and facilitate the flow of private investment to, and its equitable treatment in, friendly countries and areas participating in programs under this chapter;
 
-&emsp;(4) seek, consistent with the national interest, compliance by other countries or areaswith all treaties for commerce and trade and taxes, and take all reasonable measures under this chapter or other authority to secure compliance therewith and to assist United States citizens in obtaining just compensation for losses sustained by them or payments exacted from them as a result of measures taken or imposed by any country or area thereof in violation of any such treaty;
+&emsp;(4) seek, consistent with the national interest, compliance by other countries or areas with all treaties for commerce and trade and taxes, and take all reasonable measures under this chapter or other authority to secure compliance therewith and to assist United States citizens in obtaining just compensation for losses sustained by them or payments exacted from them as a result of measures taken or imposed by any country or area thereof in violation of any such treaty;
 
 &emsp;(5) to the maximum extent practicable carry out programs of assistance through private channels and to the extent practicable in conjunction with local private or governmental participation, including loans under the authority of section 2151t of this title to any individual, corporation, or other body of persons;
 
@@ -82,9 +82,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Delegation of Functions
 
-Functions of President under subsec. (b)(1) of this section, as they relate to drawing attention of private enterprise to opportunities for investment and development in less developed friendly countries and areas, delegated to Secretary of Commerce pursuant to section 1–502 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as a note under section 2381 of this title.
-
-Functions of President under subsec. (b)(3), (4), and (6) delegated to Secretary of State pursuant to section 1–201(a)(9) of Ex. Ord. No. 12163.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Termination of Advisory Council
 

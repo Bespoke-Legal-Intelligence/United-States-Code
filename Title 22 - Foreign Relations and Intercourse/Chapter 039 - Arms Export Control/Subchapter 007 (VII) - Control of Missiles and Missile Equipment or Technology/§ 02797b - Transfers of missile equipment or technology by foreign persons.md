@@ -2,7 +2,7 @@
 
 #### (a) Sanctions
 
-(1) Subject to subsections (c) through (g) <sup>1</sup> of this section, if the President determines that aforeign person, after November 5, 1990, knowingly—
+(1) Subject to subsections (c) through (g) <sup>1</sup> of this section, if the President determines that a foreign person, after November 5, 1990, knowingly—
 
 &emsp;(A) exports, transfers, or otherwise engages in the trade of any MTCR equipment or technology that contributes to the acquisition, design, development, or production of missiles in a country that is not an MTCR adherent and would be, if it were United States-origin equipment or technology, subject to the jurisdiction of the United States under this chapter,
 
@@ -30,15 +30,29 @@
 
 #### (b) Inapplicability with respect to MTCR adherents
 
-Subsection (a) of this section does not apply with respect to—
+#### (1) In general
 
-&emsp;(1) any export, transfer, or trading activity that is authorized by the laws of an MTCR adherent, if such authorization is not obtained by misrepresentation or fraud; or
+&emsp;Except as provided in paragraph (2), subsection (a) of this section does not apply with respect to—
 
-&emsp;(2) any export, transfer, or trade of an item to an end user in a country that is an MTCR adherent.
+&emsp;(A) any export, transfer, or trading activity that is authorized by the laws of an MTCR adherent, if such authorization is not obtained by misrepresentation or fraud; or
+
+&emsp;(B) any export, transfer, or trade of an item to an end user in a country that is an MTCR adherent.
+
+#### (2) Limitation
+
+&emsp;Notwithstanding paragraph (1), subsection (a) of this section shall apply to an entity subordinate to a government that engages in exports or transfers described in section 2295a(b)(3)(A) of this title.
 
 #### (c) Effect of enforcement actions by MTCR adherents
 
-Sanctions set forth in subsection (a) of this section may not be imposed under this section on a person with respect to acts described in such subsection or, if such sanctions are in effect against a person on account of such acts, such sanctions shall be terminated, if an MTCR adherent is taking judicial or other enforcement action against that person with respect to such acts, or that person has been found by the government of an MTCR adherent to be innocent of wrongdoing with respect to such acts.
+Sanctions set forth in subsection (a) of this section may not be imposed under this section on a person with respect to acts described in such subsection or, if such sanctions are in effect against a person on account of such acts, such sanctions shall be terminated, if an MTCR adherent is taking judicial or other enforcement action against that person with respect to such acts, or that person has been found by the government of an MTCR adherent to be innocent of wrongdoing with respect to such acts, and if the President certifies to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives that—
+
+&emsp;(1) for any judicial or other enforcement action taken by the MTCR adherent, such action has—
+
+&emsp;&emsp;(A) been comprehensive; and
+
+&emsp;&emsp;(B) been performed to the satisfaction of the United States; and
+
+&emsp;(2) with respect to any finding of innocence of wrongdoing, the United States is satisfied with the basis for such finding.
 
 #### (d) Advisory opinions
 
@@ -60,7 +74,7 @@ The President may waive the imposition of sanctions under paragraph (1) on a per
 
 &emsp;(1) the product or service is essential to the national security of the United States; and
 
-&emsp;(2) such person is a sole source supplier of the product or service, the product or service is not available from any alternative reliablesupplier, and the need for the product or service cannot be met in a timely manner by improved manufacturing processes or technological developments.
+&emsp;(2) such person is a sole source supplier of the product or service, the product or service is not available from any alternative reliable supplier, and the need for the product or service cannot be met in a timely manner by improved manufacturing processes or technological developments.
 
 #### (h) Exceptions
 
@@ -86,13 +100,25 @@ The President shall not apply the sanction under this section prohibiting the im
 
 &emsp;&emsp;(D) information and technology essential to United States products or production.
 
-(Pub. L. 90–629, ch. 7, §73, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1746; amended Pub. L. 102–138, title III, §323(a), Oct. 28, 1991, 105 Stat. 711; Pub. L. 103–236, title VII, §§714(a)(7), 734(b), Apr. 30, 1994, 108 Stat. 497, 505; Pub. L. 104–106, div. A, title XIV, §1408(d), Feb. 10, 1996, 110 Stat. 494; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(8), Oct. 21, 1998, 112 Stat. 2681–773.)
+(Pub. L. 90–629, ch. 7, §73, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1746; amended Pub. L. 102–138, title III, §323(a), Oct. 28, 1991, 105 Stat. 711; Pub. L. 103–236, title VII, §§714(a)(7), 734(b), Apr. 30, 1994, 108 Stat. 497, 505; Pub. L. 104–106, div. A, title XIV, §1408(d), Feb. 10, 1996, 110 Stat. 494; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(8), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1136(b), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–495.)
 
 #### References in Text
 
 Subsections (f) and (g) of this section, referred to in subsec. (a)(1), were redesignated subsecs. (g) and (h), respectively, by Pub. L. 103–236, title VII, §734(b)(1), Apr. 30, 1994, 108 Stat. 505.
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–113, §1000(a)(7) \[title XI, §1136(b)\], designated existing provisions as par. (1), inserted par. heading, in introductory provisions, substituted “Except as provided in paragraph (2), subsection (a)” for “Subsection (a)”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+
+Subsec. (c). Pub. L. 106–113, §1000(a)(7) \[title XI, §1136(c)\], inserted before period at end “, and if the President certifies to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives that—
+
+&emsp;“(1) for any judicial or other enforcement action taken by the MTCR adherent, such action has—
+
+&emsp;&emsp;“(A) been comprehensive; and
+
+&emsp;&emsp;“(B) been performed to the satisfaction of the United States; and
+
+&emsp;“(2) with respect to any finding of innocence of wrongdoing, the United States is satisfied with the basis for such finding”.
 
 1998—Subsec. (d). Pub. L. 105–277 substituted “and the Secretary of Commerce” for “, the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency”.
 
@@ -110,7 +136,7 @@ Committee on National Security of House of Representatives changed to Committee 
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
 
 #### Delegation of Functions
 
@@ -118,7 +144,7 @@ For delegation of certain functions of the President under this section, see Ex.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2375 of this title; title 50 App. section 2410b.
+This section is referred to in sections 2375, 2797b–1, 2797b–2, 2797c of this title; title 50 App. section 2410b.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -158,7 +158,7 @@ Pub. L. 95–251, §2(c)(4), Mar. 27, 1978, 92 Stat. 184, substituted “Adminis
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 3372, 5363, 9503 of this title; title 10 section 9314; title 15 section 770; title 20 section 3502; title 22 sections 2124c, 2385, 3963, 4606; title 38 sections 7404, 7451; title 40 section 166b–3b; title 42 sections 5872, 7292.
+This chapter is referred to in sections 3372, 5363, 9503 of this title; title 10 section 9314; title 15 section 770; title 20 sections 1018, 3502; title 22 sections 2124c, 2385, 3963, 4606; title 38 sections 7404, 7451; title 40 section 166b–3b; title 42 sections 5872, 7292.
 
 
 ---

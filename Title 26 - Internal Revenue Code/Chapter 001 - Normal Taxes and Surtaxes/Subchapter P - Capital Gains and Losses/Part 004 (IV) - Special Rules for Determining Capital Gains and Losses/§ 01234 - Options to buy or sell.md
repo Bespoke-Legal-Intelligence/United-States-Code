@@ -14,7 +14,7 @@
 
 &emsp;This subsection shall not apply to—
 
-&emsp;&emsp;(A) an option which constitutes property described in paragraph (1) of section 1221;
+&emsp;&emsp;(A) an option which constitutes property described in paragraph (1) of section 1221(a);
 
 &emsp;&emsp;(B) in the case of gain attributable to the sale or exchange of an option, any income derived in connection with such option which, without regard to this subsection, is treated as other than gain from the sale or exchange of a capital asset; and
 
@@ -58,17 +58,19 @@
 
 &emsp;&emsp;For purposes of subparagraph (A), the term “cash settlement option” means any option which on exercise settles in (or could be settled in) cash or property other than the underlying property.
 
-(Aug. 16, 1954, ch. 376, 68A Stat. 329; Pub. L. 85–866, title I, §53, Sept. 2, 1958, 72 Stat. 1644; Pub. L. 89–809, title II, §210(a), Nov. 13, 1966, 80 Stat. 1580; Pub. L. 94–455, title XIV, §1402(b)(1)(U), (2), title XXI, §2136(a), Oct. 4, 1976, 90 Stat. 1732, 1929; Pub. L. 98–369, div. A, title I, §105(a), title X, §1001(b)(18), (e), July 18, 1984, 98 Stat. 629, 1012.)
+(Aug. 16, 1954, ch. 376, 68A Stat. 329; Pub. L. 85–866, title I, §53, Sept. 2, 1958, 72 Stat. 1644; Pub. L. 89–809, title II, §210(a), Nov. 13, 1966, 80 Stat. 1580; Pub. L. 94–455, title XIV, §1402(b)(1)(U), (2), title XXI, §2136(a), Oct. 4, 1976, 90 Stat. 1732, 1929; Pub. L. 98–369, div. A, title I, §105(a), title X, §1001(b)(18), (e), July 18, 1984, 98 Stat. 629, 1012; Pub. L. 106–170, title V, §532(c)(1)(H), Dec. 17, 1999, 113 Stat. 1930.)
 
 #### Amendments
+
+1999—Subsec. (a)(3)(A). Pub. L. 106–170 substituted “section 1221(a)” for “section 1221”.
 
 1984—Subsec. (b)(1). Pub. L. 98–369, §1001(b)(18), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
 Subsec. (c). Pub. L. 98–369, §105(a), added subsec. (c).
 
-1976—Subsec. (a). Pub. L. 94–455, §2136(a), inserted in heading “in the case of the purchaser”; designated existing provisions as par. “(1) General rule” and substituted “an option” and “the option” for “a privilege or option” and “the option or privilege”; redesignated existing subsec. (b) as par. (2) and substituted “an option” and “the option” for “a privilege or option” and “the privilege or option”; and redesignated existing subsec. (d)(1) to (3) as par. (3)(A) to (C) and substituted in heading and introductory text “Nonapplication” and “subsection” for “Non-application” and “section”, in par. (3)(A) “an option” for “a privilege or option”, in par. (3)(B) “an option”, “such option” and “subsection” for “a privilege or option”, “such privilege or option” and “section” and in par. (3)(C) substituted a period for “; or”.
+1976—Subsec. (a). Pub. L. 94–455, §2136(a), inserted in heading “in the case of the purchaser”; designated existing provisions as par. “(1) General rule” and substituted “an option” and “the option” for “a privilege or option” and “the option or privilege”; redesignated existing subsec. (b) as par. (2) and substituted “an option” and “the option” for “a privilege or option” and “the privilege or option”; and redesignated existing subsec. (d)(1) to (3) as par. (3)(A) to (C) and substituted in heading and introductory text “Nonapplication” and “subsection” for “Non-application” and “section”, in par. (3)(A) “an option” for “a privilege or option”, inpar. (3)(B) “an option”, “such option” and “subsection” for “a privilege or option”, “such privilege or option” and “section” and in par. (3)(C) substituted a period for “; or”.
 
-Subsec. (b). Pub. L. 94–455, §2136(a), added subsec. (b), incorporating provisions of a prior subsec. (c) providing for a special rule for grantors of straddles, par. (1) relating to “gain on lapse” and reading “In the case ofgain on lapse of an option granted by the taxpayer as part of a straddle, the gain shall be deemed to be gain from the sale or exchange of a capital asset held for not more than 6 months on the day that the option expired.”; par. (2) relating to “exception” and reading “This subsection shall not apply to any person who holds securities for sale to customers in the ordinary course of his trade or business.”, now covered in subsec. (b)(3); and par. (3) relating to definitions of “straddle” and “security”.
+Subsec. (b). Pub. L. 94–455, §2136(a), added subsec. (b), incorporating provisions of a prior subsec. (c) providing for a special rule for grantors of straddles, par. (1) relating to “gain on lapse” and reading “In the case of gain on lapse of an option granted by the taxpayer as part of a straddle, the gain shall be deemed to be gain from the sale or exchange of a capital asset held for not more than 6 months on the day that the option expired.”; par. (2) relating to “exception” and reading “This subsection shall not apply to any person who holds securities for sale to customers in the ordinary course of his trade or business.”, now covered in subsec. (b)(3); and par. (3) relating to definitions of “straddle” and “security”.
 
 Subsec. (b)(1). Pub. L. 94–455, §1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
@@ -81,6 +83,10 @@ Subsec. (d). Pub. L. 94–455, §2136(a), struck out provision respecting non-ap
 1966—Subsecs. (c), (d). Pub. L. 89–809 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1958—Pub. L. 85–866 amended section generally and among other changes provided in subsec. (a) that gain or loss resulting from option to buy or sell property is to be considered gain or loss arising from property which has the same character as the property underlying the option, incorporated existing provisions in subsecs. (b) and (c)(3), and inserted provisions set out in subsec. (c)(1), (2), (4).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
 
 #### Effective Date of 1984 Amendment
 

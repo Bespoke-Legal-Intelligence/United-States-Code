@@ -12,7 +12,7 @@ It shall be unlawful for any person, by the use of the mails or by any means or 
 
 #### (c) Information to holders of record prior to annual or other meeting
 
-Unless proxies, consents, or authorizations in respect of a security registered pursuant to section 78<i>l</i> of this title, or a security issued by an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], are solicited by or on behalf of the management of the issuer from the holders of record of such security in accordance with the rules and regulations prescribed under subsection (a) of this section, prior to any annual or other meeting of the holders of such security, such issuer shall, in accordance with rules and regulations prescribed by the Commission, file with the Commission and transmit to all holders of record of such security information substantially equivalent to the information which would be required to be transmitted if a solicitation were made, but no information shall be required to be filed or transmitted pursuant to this subsection before July 1, 1964.
+Unless proxies, consents, or authorizations in respect of a security registered pursuant to section 78<i>l</i> of this title, or a security issued by an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], are solicited by or on behalf of the management of the issuer from the holders of record of such security in accordance with the rulesand regulations prescribed under subsection (a) of this section, prior to any annual or other meeting of the holders of such security, such issuer shall, in accordance with rules and regulations prescribed by the Commission, file with the Commission and transmit to all holders of record of such security information substantially equivalent to the information which would be required to be transmitted if a solicitation were made, but no information shall be required to be filed or transmitted pursuant to this subsection before July 1, 1964.
 
 #### (d) Tender offer by owner of more than five per centum of class of securities; exceptions
 
@@ -114,7 +114,7 @@ If, pursuant to any arrangement or understanding with the person or persons acqu
 
 &emsp;&emsp;(H) provide that, if the general partner or sponsor has not obtained any opinion on the fairness of the proposed limited partnership rollup transaction to investors in each of the affected partnerships, such soliciting materials shall contain or be accompanied by a statement of such partner's or sponsor's reasons for concluding that such an opinion is not necessary in order to permit the limited partners to make an informed decision on the proposed transaction;
 
-&emsp;&emsp;(I) require that the soliciting material include a clear, concise, and comprehensible summary of the limited partnership rollup transaction (including a summary of the matters referred to in clauses (i) through (vii) of subparagraph (D) and a summary of the matter referred to in subparagraphs (F), (G), and (H)), with the risks of the limited partnership rollup transaction set forth prominently in the fore part thereof;
+&emsp;&emsp;(I) require that the soliciting material include a clear, concise, and comprehensible summary of the limited partnership rollup transaction (including a summary of the matters referred to in clauses (i) through (vii) of subparagraph (D) and a summary of the matter referred to in subparagraphs (F), (G), and (H)), with the risks of the limitedpartnership rollup transaction set forth prominently in the fore part thereof;
 
 &emsp;&emsp;(J) provide that any solicitation or offering period with respect to any proxy solicitation, tender offer, or information statement in a limited partnership rollup transaction shall be for not less than the lesser of 60 calendar days or the maximum number of days permitted under applicable State law; and
 
@@ -160,7 +160,7 @@ If, pursuant to any arrangement or understanding with the person or persons acqu
 
 &emsp;&emsp;(F) a transaction, except as the Commission may otherwise provide by rule for the protection of investors, in which the securities offered to investors are securities of another entity that are reported under a transaction reporting plan declared effective before December 17, 1993, by the Commission under section 78k–1 of this title, if—
 
-&emsp;&emsp;&emsp;(i) such other entity was formed, and such class of securities was reported and regularly traded, not less than 12 monthsbefore the date on which soliciting material is mailed to investors; and
+&emsp;&emsp;&emsp;(i) such other entity was formed, and such class of securities was reported and regularly traded, not less than 12 months before the date on which soliciting material is mailed to investors; and
 
 &emsp;&emsp;&emsp;(ii) the securities of that entity issued to investors in the transaction do not exceed 20 percent of the total outstanding securities of the entity, exclusive of any securities of such class held by or for the account of the entity or a subsidiary of the entity.
 

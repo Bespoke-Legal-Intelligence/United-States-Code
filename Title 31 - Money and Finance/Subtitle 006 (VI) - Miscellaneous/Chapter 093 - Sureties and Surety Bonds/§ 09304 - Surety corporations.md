@@ -1,6 +1,6 @@
 ### §9304. Surety corporations
 
-(a) When a law of the United States Government requires or permits a person to give a surety bond through a surety, the person satisfiesthe law if the surety bond is provided for the person by a corporation—
+(a) When a law of the United States Government requires or permits a person to give a surety bond through a surety, the person satisfies the law if the surety bond is provided for the person by a corporation—
 
 &emsp;(1) incorporated under the laws of—
 

@@ -6,7 +6,7 @@ Filing.—An air carrier or foreign air carrier may file with the Secretary of T
 
 (b)
 
-Approval.—The Secretary of Transportation shall approve an agreement, request, modification, or cancellation referred to in subsection (a) of this section when the Secretary finds it is not adverse to the public interest and is not in violation of this part. However, the Secretary shall disapprove—
+Approval.—The Secretary of Transportation shall approve an agreement, request, modification, or cancellation referred to in subsection (a) of this section when the Secretaryfinds it is not adverse to the public interest and is not in violation of this part. However, the Secretary shall disapprove—
 
 &emsp;(1) or, after periodic review, end approval of, an agreement, request, modification, or cancellation, that substantially reduces or eliminates competition unless the Secretary finds that—
 

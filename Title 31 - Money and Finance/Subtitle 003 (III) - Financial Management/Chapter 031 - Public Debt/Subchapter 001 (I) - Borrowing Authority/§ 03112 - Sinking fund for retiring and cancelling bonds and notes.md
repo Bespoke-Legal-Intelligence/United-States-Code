@@ -60,7 +60,7 @@ The Third Liberty Bond Act, referred to in subsec. (b)(2), is act Apr. 4, 1918, 
 
 The Fourth Liberty Bond Act, referred to in subsec. (b)(2), is act July 9, 1918, ch. 142, 40 Stat. 844, which enacted sections 750 and 772 and amended sections 752 and 774 of former Title 31, and was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1072.
 
-The Victory Liberty Loan Act, referred to in subsec. (b)(2), is act Mar. 3, 1919, ch. 100, 40 Stat. 1309, which enacted sections 749, 753, 763, 767, 802, and 803 and amended sections 750, 754, and 774 of former Title 31 and section 343 of Title 15, Commerce and Trade, and was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1072.
+The Victory Liberty Loan Act, referred to in subsec. (b)(2), is act Mar. 3, 1919, ch. 100, 40 Stat. 1309, which enacted sections 749, 753, 763, 767, 802, and 803 and amendedsections 750, 754, and 774 of former Title 31 and section 343 of Title 15, Commerce and Trade, and was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1072.
 
 Sections 301 and 302 of the Emergency Relief and Construction Act of 1932, referred to in subsec. (b)(3), are sections 301 and 302 of act July 21, 1932, ch. 520, 47 Stat. 709, which are not classified to the Code.
 

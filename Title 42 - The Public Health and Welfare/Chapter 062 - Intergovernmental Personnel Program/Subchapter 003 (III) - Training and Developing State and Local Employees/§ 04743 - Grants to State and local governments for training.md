@@ -6,7 +6,7 @@ If in its judgment training is not adequately provided for under grant-in-aid or
 
 #### (b) Application; time of making; information; terms and conditions; waiver; development costs
 
-An application for a grant from a State or general local government shall be made at such time or times, and shall contain such information, as the Office may prescribe. The Office may make a grant under subsection (a) of this section, only if the application therefor meets requirements established by this subsection unless any requirement is specifically waived by the Office. Such grant to a State, or to a general local government under subsection (c) of this section, may cover the costs of developing the program covered by the application. The program covered by the application shall—
+An application for a grant from a State or general local government shall be made at suchtime or times, and shall contain such information, as the Office may prescribe. The Office may make a grant under subsection (a) of this section, only if the application therefor meets requirements established by this subsection unless any requirement is specifically waived by the Office. Such grant to a State, or to a general local government under subsection (c) of this section, may cover the costs of developing the program covered by the application. The program covered by the application shall—
 
 &emsp;(1) provide for designation, by the Governor or chief executive authority, of the State office that will have primary authority and responsibility for the development and administration of the program at the State level;
 
@@ -40,7 +40,7 @@ For effective date of the grant provisions of this chapter, referred to in subse
 
 #### Transfer of Functions
 
-“Office”, meaning Office of Personnel Management, substituted in text for “Commission”, meaning Civil Service Commission, pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission and Chairman thereof to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as providedby section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Office”, meaning Office of Personnel Management, substituted in text for “Commission”, meaning Civil Service Commission, pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission and Chairman thereof to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 #### Section Referred to in Other Sections
 

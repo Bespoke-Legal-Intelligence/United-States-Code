@@ -16,7 +16,7 @@ As used in this part:
 
 &emsp;&emsp;(F) does not charge tuition;
 
-&emsp;&emsp;(G) complies with the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], title VI ofthe Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and part B of the Individuals with Disabilities Education Act \[20 U.S.C. 1411 et seq.\];
+&emsp;&emsp;(G) complies with the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and part B of the Individuals with Disabilities Education Act \[20 U.S.C. 1411 et seq.\];
 
 &emsp;&emsp;(H) is a school to which parents choose to send their children, and that admits students on the basis of a lottery, if more students apply for admission than can be accommodated;
 
@@ -34,7 +34,7 @@ As used in this part:
 
 &emsp;(4) The term “authorized public chartering agency” means a State educational agency, local educational agency, or other public entity that has the authority pursuant to State law and approved by the Secretary to authorize or approve a charter school.
 
-(Pub. L. 89–10, title X, §10310, formerly §10306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3829; renumbered §10310 and amended, Pub. L. 105–278, §3(g)(1), (h), Oct. 22, 1998, 112 Stat. 2687, 2688.)
+(Pub. L. 89–10, title X, §10310, formerly §10306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994,108 Stat. 3829; renumbered §10310 and amended, Pub. L. 105–278, §3(g)(1), (h), Oct. 22, 1998, 112 Stat. 2687, 2688.)
 
 #### References in Text
 

@@ -50,7 +50,7 @@ The Secretary shall designate one of the members initially appointed to the Coun
 
 #### (e) Executive Director and employees
 
-The Council shall appoint and fix the compensation of an Executive Director, who shallhire and fix the compensation of such additional employees as may be necessary to assist the Council in carrying out its functions. In hiring such additional employees, the Executive Director shall ensure that no individual hired has a conflict of interest with the responsibilities of the Council.
+The Council shall appoint and fix the compensation of an Executive Director, who shall hire and fix the compensation of such additional employees as may be necessary to assist the Council in carrying out its functions. In hiring such additional employees, the Executive Director shall ensure that no individual hired has a conflict of interest with the responsibilities of the Council.
 
 #### (f) Funding
 

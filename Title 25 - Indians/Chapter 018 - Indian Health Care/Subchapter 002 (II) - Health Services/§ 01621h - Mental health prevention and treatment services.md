@@ -32,7 +32,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 &emsp;(C) take actions necessary to protect the exercise of such right;
 
-&emsp;(5) delineate the responsibilities of the Bureau of Indian Affairs and the Service, including mental health identification, prevention, education, referral, and treatment services (including services through multidisciplinaryresource teams), at the central, area, and agency and service unit levels to address the problems identified in paragraph (1);
+&emsp;(5) delineate the responsibilities of the Bureau of Indian Affairs and the Service, including mental health identification, prevention, education, referral, and treatment services (including services through multidisciplinary resource teams), at the central, area, and agency and service unit levels to address the problems identified in paragraph (1);
 
 &emsp;(6) provide a strategy for the comprehensive coordination of the mental health services provided by the Bureau of Indian Affairs and the Service to meet the needs identified pursuant to paragraph (1), including—
 
@@ -94,7 +94,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 (2) In carrying out paragraph (1), the Secretary shall develop a program providing for—
 
-&emsp;(A) the payment of bonuses (which shall not be more favorable than those provided for under sections 1616i and 1616j of this title) for service in hardship posts;
+&emsp;(A) the payment of bonuses (which shall not be more favorable than those provided forunder sections 1616i and 1616j of this title) for service in hardship posts;
 
 &emsp;(B) the repayment of loans (for which the provisions of repayment contracts shall not be more favorable than the repayment contracts under section 1616a of this title) for health professions education as a recruitment incentive; and
 

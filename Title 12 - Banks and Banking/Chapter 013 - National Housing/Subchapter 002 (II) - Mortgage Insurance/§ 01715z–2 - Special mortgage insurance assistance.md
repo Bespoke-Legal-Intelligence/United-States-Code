@@ -6,7 +6,7 @@ The purpose of this section is to help provide adequate housing for families of 
 
 #### (b) Authorization to insure mortgages meeting requirements of section
 
-The Secretary is authorized upon application by the mortgagee to insure under this sectionnot more than 26 percent of the total principal obligation (including such initial service charges, and such appraisal, inspection, and other fees as the Secretary shall approve) of any mortgage meeting the requirements of this section.
+The Secretary is authorized upon application by the mortgagee to insure under this section not more than 26 percent of the total principal obligation (including such initial service charges, and such appraisal, inspection, and other fees as the Secretary shall approve) of any mortgage meeting the requirements of this section.
 
 #### (c) Eligibility for insurance
 
@@ -32,7 +32,7 @@ The Secretary shall give preference in approving mortgage insurance applications
 
 #### (e) Budget, debt management, and related counseling services
 
-The Secretary is authorized to provide, or contract with community development financial institutions under section 4702(5) of this title to provide, such budget, debt management, and related counseling services to mortgagors whose mortgages are insured under this section as he determines to be necessary to meet the objectives of this section. The Secretary may also provide such counseling to otherwise eligible families who lack sufficient funds to supply a down payment to help them to save an amount necessary for that purpose.
+The Secretary is authorized to provide, or contract with community development financial institutions under section 4702(5) of this title to provide, such budget, debt management, and related counseling services to mortgagors whose mortgages are insured under this section as he determines to be necessary to meet the objectives of this section. The Secretary may also provide such counseling to otherwise eligible families who lack sufficient funds to supply adown payment to help them to save an amount necessary for that purpose.
 
 #### (f) Aggregate principal balance of mortgages insured
 
@@ -44,7 +44,7 @@ Mortgages insured under this section shall be subject to an insurance premium fe
 
 #### (h) Assumption of loss
 
-Before insuring a mortgage under this section, the Secretary shall enter into such contracts orother agreements as may be necessary to ensure that the mortgagee or other holder of the mortgage shall assume not less than 10 percent and not more than 50 percent of any loss on the insured mortgage, subject to any reasonable limit on the liability of the mortgagee or holder of the mortgage that may be specified in the event of unusual or catastrophic losses that may be incurred by any one mortgagee or mortgage holder.
+Before insuring a mortgage under this section, the Secretary shall enter into such contracts or other agreements as may be necessary to ensure that the mortgagee or other holder of the mortgage shall assume not less than 10 percent and not more than 50 percent of any loss on the insured mortgage, subject to any reasonable limit on the liability of the mortgagee or holder of the mortgage that may be specified in the event of unusual or catastrophic losses that may be incurred by any one mortgagee or mortgage holder.
 
 #### (i) Guarantees
 

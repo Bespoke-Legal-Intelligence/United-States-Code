@@ -36,7 +36,7 @@ The Secretary, through the Under Secretary, as appropriate, shall—
 
 &emsp;(7) identify technological needs, problems, and opportunities within and across industrial sectors that, if addressed, could make a significant contribution to the economy of the United States;
 
-&emsp;(8) assess whether the capital, technical and other resources being allocated to domestic industrial sectors which are likely to generate new technologies are adequate to meet private and social demands for goods and services and to promote productivity and economic growth;
+&emsp;(8) assess whether the capital, technical and other resources being allocated to domestic industrial sectors which are likely to generatenew technologies are adequate to meet private and social demands for goods and services and to promote productivity and economic growth;
 
 &emsp;(9) propose and support studies and policy experiments, in cooperation with other Federal agencies, to determine the effectiveness of measures with the potential of advancing United States technological innovation;
 

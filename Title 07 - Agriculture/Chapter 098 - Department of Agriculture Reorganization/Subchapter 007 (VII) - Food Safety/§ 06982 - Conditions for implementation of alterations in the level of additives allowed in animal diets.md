@@ -2,7 +2,7 @@
 
 #### (a) Conditions
 
-The Food and Drug Administration shall not implement or enforce the final rule described in subsection (b) of this section to alter the level of selenium allowed to be used as a supplement in animal diets unless the Commissioner of the Food and Drug Administration makes a determination that—
+The Food and Drug Administration shall not implement or enforce the final rule described insubsection (b) of this section to alter the level of selenium allowed to be used as a supplement in animal diets unless the Commissioner of the Food and Drug Administration makes a determination that—
 
 &emsp;(1) selenium additives are not essential, at levels authorized in the absence of such final rule, to maintain animal nutrition and protect animal health;
 

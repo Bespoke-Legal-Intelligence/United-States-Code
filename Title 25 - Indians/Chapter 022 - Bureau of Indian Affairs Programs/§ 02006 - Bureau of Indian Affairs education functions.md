@@ -6,7 +6,7 @@ The Secretary shall vest in the Assistant Secretary for Indian Affairs all funct
 
 #### (b) Direction and supervision of personnel operations
 
-The Director of the Office shall direct and supervise the operations of all personnel directly and substantially involved with provision of education services by the Bureau, including school or institution custodial or maintenance personnel. The Assistant Secretary for Indian Affairs shall provide for the adequate coordination between the affected Bureau Offices and the Office to facilitate the consideration of all contract functions relating to education. Except as required by section 2009 of this title, nothing in this Act shall be construed to require the provision of separate support services for Indian education.
+The Director of the Office shall direct and supervise the operations of all personnel directlyand substantially involved with provision of education services by the Bureau, including school or institution custodial or maintenance personnel. The Assistant Secretary for Indian Affairs shall provide for the adequate coordination between the affected Bureau Offices and the Office to facilitate the consideration of all contract functions relating to education. Except as required by section 2009 of this title, nothing in this Act shall be construed to require the provision of separate support services for Indian education.
 
 #### (c) Evaluation of programs; services and support functions; technical and coordinating assistance
 
@@ -54,7 +54,7 @@ For the purpose of this section the term “functions” includes powers and dut
 
 #### References in Text
 
-This Act, referred to in subsecs. (b) and (d)(2)(B), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, asamended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20, Education, and Tables.
+This Act, referred to in subsecs. (b) and (d)(2)(B), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20, Education, and Tables.
 
 #### Prior Provisions
 

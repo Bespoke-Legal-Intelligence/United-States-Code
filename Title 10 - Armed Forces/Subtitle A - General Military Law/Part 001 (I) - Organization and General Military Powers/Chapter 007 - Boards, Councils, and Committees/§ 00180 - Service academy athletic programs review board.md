@@ -24,13 +24,19 @@ Duties.—The board shall, on an annual basis—
 
 (d)
 
-Administrative Provisions.—(1) Each member of the board who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for grade GS–18 of the General Schedule under section 5332 of title 5, for each day (including travel time) during which such member is engaged in the performance of the duties of the board. Members of the board who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
+Administrative Provisions.—(1) Each member of the board who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for Executive Schedule Level IV under section 5376 of title 5,<sup>1</sup> for each day (including travel time) during which such member is engaged in the performance of the duties of the board. Members of the board who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
 
 (2) The members of the board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the board.
 
-(Added Pub. L. 102–190, div. A, title V, §513(a), Dec. 5, 1991, 105 Stat. 1360.)
+(Added Pub. L. 102–190, div. A, title V, §513(a), Dec. 5, 1991, 105 Stat. 1360; amended Pub. L. 106–65, div. A, title X, §1066(a)(2), Oct. 5, 1999, 113 Stat. 770.)
 
-#### References in Other Laws to GS–16, 17, or 18 Pay Rates
+#### References in Text
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+Level IV of the Executive Schedule, referred to in subsec. (d)(1), is set out in section 5315 of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1999—Subsec. (d)(1). Pub. L. 106–65 substituted “Executive Schedule Level IV under section 5376 of title 5” for “grade GS–18 of the General Schedule under section 5332 of title 5”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

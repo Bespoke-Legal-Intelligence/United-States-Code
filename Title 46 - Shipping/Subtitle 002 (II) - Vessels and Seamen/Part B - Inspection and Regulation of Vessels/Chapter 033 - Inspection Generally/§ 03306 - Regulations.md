@@ -32,7 +32,7 @@
 
 &emsp;(2) include requirements for notice to sailing school instructors and sailing school students about the specialized nature of sailing school vessels and applicable safety regulations.
 
-(d) In prescribing regulations for nautical school vessels operated by the United States Merchant Marine Academy or by a State maritime academy (as defined in section 1302(3) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1295a(3))), the Secretary shall consider the function, purpose, and operation of the vessels, their routes, and the number of individuals who may be carried on the vessels.
+(d) In prescribing regulations for nautical school vessels operated by the United States Merchant Marine Academy or by a State maritime academy (as defined in section 1302(3) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1295a(3))), the Secretary shall consider the function, purpose, and operation of the vessels, theirroutes, and the number of individuals who may be carried on the vessels.
 
 (e) When the Secretary finds it in the public interest, the Secretary may suspend or grant exemptions from the requirements of a regulation prescribed under this section related to lifesaving and firefighting equipment, muster lists, ground tackle and hawsers, and bilge systems.
 

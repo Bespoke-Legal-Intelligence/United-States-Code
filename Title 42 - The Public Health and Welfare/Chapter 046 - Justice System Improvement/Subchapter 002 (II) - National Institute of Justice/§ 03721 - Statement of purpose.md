@@ -206,7 +206,7 @@ Pub. L. 101–515, title II, §211(B), Nov. 5, 1990, 104 Stat. 2122, as amended 
 
 &emsp;“(7) a comprehensive study of law enforcement issues, including the role of the Federal Government in supporting law enforcement officers, working conditions, and responsibility for crime control would assist in redefining the relationships between the Federal Government, the public, and law enforcement officials.
 
-“(c) There is established a national commission to be known as the ‘National Commission to Support LawEnforcement’ (referred to in this section as the ‘Commission’).
+“(c) There is established a national commission to be known as the ‘National Commission to Support Law Enforcement’ (referred to in this section as the ‘Commission’).
 
 “(d) The Commission shall study and recommend changes regarding law enforcement agencies and law enforcement issues on the Federal, State, and local levels, including the following:
 

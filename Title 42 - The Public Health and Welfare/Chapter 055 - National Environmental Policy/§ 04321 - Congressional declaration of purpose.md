@@ -98,7 +98,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (5) So much of the functions of the Council on Environmental Quality under section 204(5) of the National Environmental Policy Act of 1969 (Public Law 91–190, approved January 1, 1970, 83 Stat. 855) \[42 U.S.C. 4344(5)\], as pertains to ecological systems.
 
-(6) The functions of the Atomic Energy Commission under the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], administered through its Division of Radiation Protection Standards, to the extent that such functions of the Commission consist of establishing generally applicable environmental standards for the protection of the general environment from radioactive material. As used herein, standards mean limits on radiation exposures or levels, or concentrations or quantities of radioactive material, in the general environment outside the boundaries of locations under the control of persons possessing or using radio-active material.
+(6) The functions of the Atomic Energy Commission under the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], administered through its Division of Radiation Protection Standards, to the extent that such functions of the Commission consist of establishing generally applicable environmental standards for the protection of the general environment from radioactive material. As used herein, standards mean limitson radiation exposures or levels, or concentrations or quantities of radioactive material, in the general environment outside the boundaries of locations under the control of persons possessing or using radio-active material.
 
 (7) All functions of the Federal Radiation Council (42 U.S.C. 2021(h)).
 
@@ -128,7 +128,7 @@ The Administrator may from time to time make such provisions as he shall deem ap
 
 (b) The President may similarly authorize any such person to act as Deputy Administrator, authorize any such person to act as Assistant Administrator, and authorize any such person to act as the head of any principal constituent organizational entity of the Administration.
 
-(c) The President may authorize any person who serves in an acting capacity under the foregoing provisions of this section to receive the compensation attached to the office in respect of which he so serves. Such compensation, if authorized, shall be in lieu of,but not in addition to, other compensation from the United States to which such person may be entitled.
+(c) The President may authorize any person who serves in an acting capacity under the foregoing provisions of this section to receive the compensation attached to the office in respect of which he so serves. Such compensation, if authorized, shall be in lieu of, but not in addition to, other compensation from the United States to which such person may be entitled.
 
 #### Sec. 6. Abolitions
 
@@ -212,7 +212,7 @@ Under the terms of Reorganization Plan No. 3, the following would be moved to th
 
 &emsp;—Certain functions respecting radiation criteria and standards now vested in the Atomic Energy Commission and the Federal Radiation Council.
 
-&emsp;—Functions respecting pesticides registration and related activities now carried out by the AgriculturalResearch Service (from the Department of Agriculture).
+&emsp;—Functions respecting pesticides registration and related activities now carried out by the Agricultural Research Service (from the Department of Agriculture).
 
 With its broad mandate, EPA would also develop competence in areas of environmental protection that have not previously been given enough attention, such, for example, as the problem of noise, and it would provide an organization to which new programs in these areas could be added.
 
@@ -226,7 +226,7 @@ National Air Pollution Control Administration.—As the principal Federal agency
 
 Elements of the Environmental Control Administration.—ECA is the focal point within HEW for evaluation and control of a broad range of environmental health problems, including water quality, solid wastes, and radiation. Programs in the ECA involve research, development of criteria and standards, and the administration of planning and demonstration grants. From the ECA, the activities of the Bureaus of Water Hygiene and Solid Waste Management and portions of the activities of the Bureau of Radiological Health would be transferred. Other functions of the ECA including those related to the regulation of radiation from consumer products and occupational safety and health would remain in HEW.
 
-Pesticides research and standard-setting programs of the Food and Drug Administration.—FDA's pesticides program consists of setting and enforcing standards which limit pesticide residues in food. EPA would have the authority to set pesticide standards and to monitor compliance with them, as well as to conduct related research. However, as an integral part of its food protection activities, FDA would retain its authority to remove from the market food with excess pesticide residues.
+Pesticides research and standard-setting programs of the Food and Drug Administration.—FDA's pesticides program consists of setting and enforcing standards which limit pesticide residues in food. EPA would havethe authority to set pesticide standards and to monitor compliance with them, as well as to conduct related research. However, as an integral part of its food protection activities, FDA would retain its authority to remove from the market food with excess pesticide residues.
 
 General ecological research from the Council on Environmental Quality.—This authority to perform studies and research relating to ecological systems would be in addition to EPA's other specific research authorities, and it would help EPA to measure the impact of pollutants. The Council on Environmental Quality would retain its authority to conduct studies and research relating to environmental quality.
 
@@ -248,7 +248,7 @@ In proposing that the Environmental Protection Agency be set up as a separate ne
 
 In the first place, almost every part of government is concerned with the environment in some way, and affects it in some way. Yet each department also has its own primary mission—such as resource development, transportation, health, defense, urban growth or agriculture—which necessarily affects its own view of environmental questions.
 
-In the second place, if the critical standard-setting functions were centralized within any one existing department, it would require that department constantly to make decisions affecting other departments—inwhich, whether fairly or unfairly, its own objectivity as an impartial arbiter could be called into question.
+In the second place, if the critical standard-setting functions were centralized within any one existing department, it would require that department constantly to make decisions affecting other departments—in which, whether fairly or unfairly, its own objectivity as an impartial arbiter could be called into question.
 
 Because environmental protection cuts across so many jurisdictions, and because arresting environmental deterioration is of great importance to the quality of life in our country and the world, I believe that in this case a strong, independent agency is needed. That agency would, of course, work closely with and draw upon the expertise and assistance of other agencies having experience in the environmental area.
 
@@ -326,7 +326,7 @@ In brief, these are the principal functions of the programs and agencies to be c
 
 ESSA's activities include observing and predicting the state of the oceans, the state of the lower and upper atmosphere, and the size and shape of the earth. It maintains the nation's warning systems for such natural hazards as hurricanes, tornadoes, floods, earthquakes and seismic sea waves. It provides information for national defense, agriculture, transportation and industry.
 
-ESSA monitors atmospheric, oceanic and geophysical phenomena on a global basis, through an unparalleledcomplex of air, ocean, earth and space facilities. It also prepares aeronautical and marine maps and charts.
+ESSA monitors atmospheric, oceanic and geophysical phenomena on a global basis, through an unparalleled complex of air, ocean, earth and space facilities. It also prepares aeronautical and marine maps and charts.
 
 Bureau of Commercial Fisheries and marine sport fish activities.—Those fishery activities of the Department of the Interior's U.S. Fish and Wildlife Service which are ocean related and those which are directed toward commercial fishing would be transferred. The Fish and Wildlife Service's Bureau of Commercial Fisheries has the dual function of strengthening the fishing industry and promoting conservation of fishery stocks. It conducts research on important marine species and on fundamental oceanography, and operates a fleet of oceanographic vessels and a number of laboratories. Most of its activities would be transferred. From the Fish and Wildlife Service's Bureau of Sport Fisheries and Wildlife, the marine sport fishing program would be transferred. This involves five supporting laboratories and three ships engaged in activities to enhance marine sport fishing opportunities.
 
@@ -470,7 +470,7 @@ Sec. 2. <i>Responsibilities of Federal agencies</i>. Consonant with Title I of t
 
 (c) Insure that information regarding existing or potential environmental problems and control methods developed as part of research, development, demonstration, test, or evaluation activities is made available to Federal agencies, States, counties, municipalities, institutions, and other entities, as appropriate.
 
-(d) Review their agencies’ statutory authority, administrative regulations, policies, and procedures, including those relating to loans, grants, contracts, leases, licenses, or permits, in order to identify any deficiencies or inconsistencies therein which prohibit or limit full compliance with the purposes and provisions of the Act. A report on this review and the corrective actions taken or planned, including such measures to be proposed to the President as may be necessary to bring their authority and policies into conformance with the intent, purposes, and procedures of the Act, shall be provided to the Council on Environmental Quality not later than September 1, 1970.
+(d) Review their agencies’ statutory authority, administrative regulations, policies, and procedures, including those relating to loans, grants, contracts, leases, licenses, or permits, in order to identify any deficiencies or inconsistencies therein which prohibit or limit full compliance with the purposes and provisions of the Act. A report on this review and the corrective actions taken or planned, including such measures to be proposed to the President as may be necessary to bring their authority and policies into conformancewith the intent, purposes, and procedures of the Act, shall be provided to the Council on Environmental Quality not later than September 1, 1970.
 
 (e) Engage in exchange of data and research results, and cooperate with agencies of other governments to foster the purposes of the Act.
 
@@ -580,7 +580,7 @@ Sec. 2. <i>Definitions</i>. As used in this order, the term:
 
 (4) “official use” means use by an employee, agent, or designated representative of the Federal Government or one of its contractors in the course of his employment, agency, or representation.
 
-Sec. 3. <i>Zones of Use</i>. (a) Each respective agency head shall develop and issue regulations and administrative instructions, within six months of the date of this order, to provide for administrative designation of the specific areas and trails on public lands on which the use of off-road vehicles may be permitted, and areas inwhich the use of off-road vehicles may not be permitted, and set a date by which such designation of all public lands shall be completed. Those regulations shall direct that the designation of such areas and trails will be based upon the protection of the resources of the public lands, promotion of the safety of all users of those lands, and minimization of conflicts among the various uses of those lands. The regulations shall further require that the designation of such areas and trails shall be in accordance with the following—
+Sec. 3. <i>Zones of Use</i>. (a) Each respective agency head shall develop and issue regulations and administrative instructions, within six months of the date of this order, to provide for administrative designation of the specific areas and trails on public lands on which the use of off-road vehicles may be permitted, and areas in which the use of off-road vehicles may not be permitted, and set a date by which such designation of all public lands shall be completed. Those regulations shall direct that the designation of such areas and trails will be based upon the protection of the resources of the public lands, promotion of the safety of all users of those lands, and minimization of conflicts among the various uses of those lands. The regulations shall further require that the designation of such areas and trails shall be in accordance with the following—
 
 (1) Areas and trails shall be located to minimize damage to soil, watershed, vegetation, or other resources of the public lands.
 
@@ -636,7 +636,7 @@ Sec. 2. In carrying out the activities described in Section 1 of this Order, eac
 
 (c) Each agency shall take floodplain management into account when formulating or evaluating any water and land use plans and shall require land and water resources use appropriate to the degree of hazard involved. Agencies shall include adequate provision for the evaluation and consideration of flood hazards in the regulations and operating procedures for the licenses, permits, loan or grants-in-aid programs that they administer. Agencies shall also encourage and provide appropriate guidance to applicants to evaluate the effects of their proposals in floodplains prior to submitting applications for Federal licenses, permits, loans or grants.
 
-(d) As allowed by law, each agency shall issue or amend existing regulations and procedures within one year to comply with this Order. These procedures shall incorporate the Unified National Program for Floodplain Management of the Water Resources Council, and shall explain the means that the agency will employ to pursue the nonhazardous use of riverine, coastal and other floodplains in connection with the activities under its authority. To the extent possible, existing processes, such as those of the Council on Environmental Quality and the Water Resources Council, shall be utilized to fulfill the requirements of this Order. Agencies shall prepare their procedures in consultation with the Water Resources Council, the Director of the Federal Emergency Management Agency, and the Council on Environmental Quality, and shall update such procedures as necessary.
+(d) As allowed by law, each agency shall issue or amend existing regulations and procedures within oneyear to comply with this Order. These procedures shall incorporate the Unified National Program for Floodplain Management of the Water Resources Council, and shall explain the means that the agency will employ to pursue the nonhazardous use of riverine, coastal and other floodplains in connection with the activities under its authority. To the extent possible, existing processes, such as those of the Council on Environmental Quality and the Water Resources Council, shall be utilized to fulfill the requirements of this Order. Agencies shall prepare their procedures in consultation with the Water Resources Council, the Director of the Federal Emergency Management Agency, and the Council on Environmental Quality, and shall update such procedures as necessary.
 
 Sec. 3. In addition to the requirements of Section 2, agencies with responsibilities for Federal real property and facilities shall take the following measures:
 
@@ -714,7 +714,7 @@ Sec. 10. To the extent the provisions of Sections 2 and 5 of this Order are appl
 
 Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, as amended by Ex. Ord. No. 12580, Jan. 23, 1987, 52 F.R. 2928, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 22 of the Toxic Substances Control Act (15 U.S.C. 2621), Section 313 of the Federal Water Pollution Control Act, as amended (33 U.S.C. 1323), Section 1447 of the Public Health Service Act, as amended by the Safe Drinking Water Act \[now Safe Drinking Water Act of 1974\] (42 U.S.C. 300j–6), Section 118 of the Clean Air Act, as amended (42 U.S.C. 7418(b)), Section 4 of the Noise Control Act of 1972 (42 U.S.C.4903), Section 6001 of the Solid Waste Disposal Act, as amended (42 U.S.C. 6961), and Section 301 of Title 3 of the United States Code, and to ensure Federal compliance with applicable pollution control standards, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 22 of the Toxic Substances Control Act (15 U.S.C. 2621), Section 313 of the Federal Water Pollution Control Act, as amended (33 U.S.C. 1323), Section 1447 of the Public Health Service Act, as amended by the Safe Drinking Water Act \[now Safe Drinking Water Act of 1974\] (42 U.S.C. 300j–6), Section 118 of the Clean Air Act, as amended (42 U.S.C. 7418(b)), Section 4 of the Noise Control Act of 1972 (42 U.S.C. 4903), Section 6001 of the Solid Waste Disposal Act, as amended (42 U.S.C. 6961), and Section 301 of Title 3 of the United States Code, and to ensure Federal compliance with applicable pollution control standards, it is hereby ordered as follows:
 
 #### 1–1. Applicability of Pollution Control Standards
 
@@ -916,7 +916,7 @@ Ex. Ord. No. 12194, Feb. 21, 1980, 45 F.R. 12209, which established the Radiatio
 
 #### Executive Order No. 12737
 
-Ex. Ord. No. 12737, Dec. 12, 1990, 55 F.R. 51681, which established President's Commission on Environmental Quality and provided for its functions and administration, was revoked by Ex. Ord. No. 12852, §4(c), June 29, 1993, 58 F.R. 35841, set out below.
+Ex. Ord. No. 12737, Dec. 12, 1990, 55 F.R. 51681, which established President's Commission on Environmental Quality and provided for its functions and administration, was revoked by Ex. Ord. No. 12852, §4(c), June 29, 1993, 58 F.R. 35841, formerly set out below.
 
 #### Ex. Ord. No. 12761. Establishment of President's Environment and Conservation Challenge Awards
 
@@ -942,41 +942,15 @@ Sec. 3. <i>Awards</i>. (a) Up to three awards in each of the following four cate
 
 (b) Presidential citations shall be given to eligible program finalists who demonstrate notable or unique achievements, but who are not selected to receive awards.
 
-Sec. 4. <i>Eligibility</i>. Only residents of the United States and organizations, groups, or entities doing business inthe United States are eligible to receive an award under this program. An award under this program shall be given only for achievements in the United States or its territories. Organizations, groups, or entities may be profit or nonprofit, public or private entities.
+Sec. 4. <i>Eligibility</i>. Only residents of the United States and organizations, groups, or entities doing business in the United States are eligible to receive an award under this program. An award under this program shall be given only for achievements in the United States or its territories. Organizations, groups, or entities may be profit or nonprofit, public or private entities.
 
 Sec. 5. <i>Information System</i>. The Council on Environmental Quality shall establish and maintain a data bank with information about award nominees to catalogue and publicize model conservation or environmental protection programs which could be replicated.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 12852. President's Council on Sustainable Development
+#### Executive Order No. 12852
 
-Ex. Ord. No. 12852, June 29, 1993, 58 F.R. 35841, as amended by Ex. Ord. No. 12855, July 19, 1993, 58 F.R. 39107; Ex. Ord. No. 12965, June 27, 1995, 60 F.R. 34087; Ex. Ord. No. 12980, Nov. 17, 1995, 60 F.R. 57819; Ex. Ord. No. 13053, June 30, 1997, 62 F.R. 39945 \[35945\]; Ex. Ord. No. 13114, Feb. 25, 1999, 64 F.R. 10099, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
-
-Section 1. <i>Establishment</i>. There is established the “President's Council on Sustainable Development” (“Council”). The Council shall consist of not more than 35 members to be appointed by the President from the public and private sectors and who represent industrial, environmental, governmental, and not-for-profit organizations with experience relating to matters of sustainable development. The President shall designate from among the Council members such official or officials to be chairperson, chairpersons, vice-chairperson, or vice-chairpersons of the Council as he shall deem appropriate. The Council shall coordinate with and report to such officials of the executive branch as the President or the Director of the White House Office on Environmental Policy shall from time to time determine.
-
-Sec. 2. <i>Functions</i>. (a) The Council shall advise the President on matters involving sustainable development. “Sustainable development” is broadly defined as economic growth that will benefit present and future generations without detrimentally affecting the resources or biological systems of the planet.
-
-(b) The Council shall develop and recommend to the President a national sustainable development action strategy that will foster economic vitality.
-
-(c) The chairperson or chairpersons may, from time to time, invite experts to submit information to the Council and may form subcommittees of the Council to review and report to the Council on the development of national and local sustainable development plans.
-
-Sec. 3. <i>Administration</i>. (a) The heads of executive agencies shall, to the extent permitted by law, provide to the Council such information with respect to sustainable development as the Council requires to carry out its functions.
-
-(b) Members of the Council shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707).
-
-(c) The White House Office on Environmental Policy shall obtain funding for the Council from the Department of the Interior or such other sources (including other Federal agencies) as may lawfully contribute to such activities. The funding received shall provide for the administrative and financial support of the Council.
-
-(d) The Department of Energy shall, on a reimbursable basis, provide such administrative services for the Council as may be required\[.\]
-
-Sec. 4. <i>General</i>. (a) I have determined that the Council shall be established in compliance with the Federal Advisory Committee Act, as amended (5 U.S.C. App.). Notwithstanding any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended, except that of reporting to the Congress, which are applicable to the Council, shall be performed by the Department of Energy in accord with the guidelines and procedures established by the Administrator of General Services.
-
-(b) The Council shall exist until June 30, 1999, unless otherwise extended.
-
-(c) Executive Order No. 12737, which established the President's Commission on Environmental Quality, is revoked.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 12852, June 29, 1993, 58 F.R. 35841, as amended by Ex. Ord. No. 12855, July 19, 1993, 58 F.R. 39107; Ex. Ord. No. 12965, June 27, 1995, 60 F.R. 34087; Ex. Ord. No. 12980, Nov. 17, 1995, 60 F.R. 57819; Ex. Ord. No. 13053, June 30, 1997, 62 F.R. 39945 \[35945\]; Ex. Ord. No. 13114, Feb. 25, 1999, 64 F.R. 10099, which established the President's Council on Sustainable Development, was revoked by Ex. Ord. No. 13138, §3(f), Sept. 30, 1999, 64 F.R. 53880, set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 12898. Federal Actions To Address Environmental Justice in Minority Populations and Low-Income Populations
 
@@ -988,7 +962,7 @@ Section 1–1. IMPLEMENTATION.
 
 1–101. <i>Agency Responsibilities</i>. To the greatest extent practicable and permitted by law, and consistent with the principles set forth in the report on the National Performance Review, each Federal agency shall make achieving environmental justice part of its mission by identifying and addressing, as appropriate, disproportionately high and adverse human health or environmental effects of its programs, policies, and activities on minority populations and low-income populations in the United States and its territories and possessions, the District of Columbia, the Commonwealth of Puerto Rico, and the Commonwealth of the Mariana Islands.
 
-1–102. <i>Creation of an Interagency Working Group on Environmental Justice</i>. (a) Within 3 months of the date of this order, the Administrator of the Environmental Protection Agency (“Administrator”) or the Administrator's designee shall convene an interagency Federal Working Group on Environmental Justice (“Working Group”). The Working Group shall comprise the heads of the following executive agencies and offices, or their designees: (a) Department of Defense; (b) Department of Health and Human Services; (c) Department of Housing and Urban Development; (d) Department of Labor; (e) Department of Agriculture; (f) Department of Transportation; (g) Department of Justice; (h) Department of the Interior; (i) Department of Commerce; (j) Department of Energy; (k) Environmental Protection Agency; (<i>l</i>) Office of Management and Budget; (m) Office of Science and Technology Policy; (n) Office of the Deputy Assistant to the President for Environmental Policy; (<i>o</i>) Office of the Assistant to the President for Domestic Policy; (p) National Economic Council; (q) Council of Economic Advisers; and (r) such other Government officials as the President may designate. The Working Group shall report to the President through the Deputy Assistant to the President for Environmental Policy and the Assistant to the President for Domestic Policy.
+1–102. <i>Creation of an Interagency Working Group on Environmental Justice</i>. (a) Within 3 months of the date of this order, the Administrator of the Environmental Protection Agency (“Administrator”) or the Administrator's designee shall convene an interagency Federal Working Group on Environmental Justice (“Working Group”). The Working Group shall comprise the heads of the following executive agencies and offices, or their designees: (a) Department of Defense; (b) Department of Health and Human Services; (c) Department of Housing and Urban Development; (d) Department of Labor; (e) Department of Agriculture; (f) Department ofTransportation; (g) Department of Justice; (h) Department of the Interior; (i) Department of Commerce; (j) Department of Energy; (k) Environmental Protection Agency; (<i>l</i>) Office of Management and Budget; (m) Office of Science and Technology Policy; (n) Office of the Deputy Assistant to the President for Environmental Policy; (<i>o</i>) Office of the Assistant to the President for Domestic Policy; (p) National Economic Council; (q) Council of Economic Advisers; and (r) such other Government officials as the President may designate. The Working Group shall report to the President through the Deputy Assistant to the President for Environmental Policy and the Assistant to the President for Domestic Policy.
 
 (b) The Working Group shall: (1) provide guidance to Federal agencies on criteria for identifying disproportionately high and adverse human health or environmental effects on minority populations and low-income populations;
 
@@ -1034,7 +1008,7 @@ Sec. 3–3. RESEARCH, DATA COLLECTION, AND ANALYSIS.
 
 (b) In connection with the development and implementation of agency strategies in section 1–103 of this order, each Federal agency, whenever practicable and appropriate, shall collect, maintain and analyze information on the race, national origin, income level, and other readily accessible and appropriate information for areas surrounding facilities or sites expected to have a substantial environmental, human health, or economic effect on the surrounding populations, when such facilities or sites become the subject of a substantial Federal environmental administrative or judicial action. Such information shall be made available to the public, unless prohibited by law; and
 
-(c) Each Federal agency, whenever practicable and appropriate, shall collect, maintain, and analyze information on the race, national origin, income level, and other readily accessible and appropriate information for areas surrounding Federal facilities that are: (1) subject to the reporting requirements under the Emergency Planning and Community Right-to-Know Act, 42 U.S.C. section 11001–11050 as mandated in Executive Order No. 12856 \[42 U.S.C. 11001 note\]; and (2) expected to have a substantial environmental, human health, or economic effect on surrounding populations. Such information shall be made available to the public, unless prohibited by law.
+(c) Each Federal agency, whenever practicable and appropriate, shall collect, maintain, and analyze information on the race, national origin, income level, andother readily accessible and appropriate information for areas surrounding Federal facilities that are: (1) subject to the reporting requirements under the Emergency Planning and Community Right-to-Know Act, 42 U.S.C. section 11001–11050 as mandated in Executive Order No. 12856 \[42 U.S.C. 11001 note\]; and (2) expected to have a substantial environmental, human health, or economic effect on surrounding populations. Such information shall be made available to the public, unless prohibited by law.
 
 (d) In carrying out the responsibilities in this section, each Federal agency, whenever practicable and appropriate, shall share information and eliminate unnecessary duplication of efforts through the use of existing data systems and cooperative agreements among Federal agencies and with State, local, and tribal governments.
 
@@ -1042,7 +1016,7 @@ Sec. 4–4. SUBSISTENCE CONSUMPTION OF FISH AND WILDLIFE.
 
 4–401. <i>Consumption Patterns</i>. In order to assist in identifying the need for ensuring protection of populations with differential patterns of subsistence consumption of fish and wildlife, Federal agencies, whenever practicable and appropriate, shall collect, maintain, and analyze information on the consumption patterns of populations who principally rely on fish and/or wildlife for subsistence. Federal agencies shall communicate to the public the risks of those consumption patterns.
 
-4–402. <i>Guidance</i>. Federal agencies, whenever practicable and appropriate, shall work in a coordinated manner to publish guidance reflecting the latest scientific information available concerning methods for evaluating the human health risks associated with the consumption of pollutant-bearing fish or wildlife.Agencies shall consider such guidance in developing their policies and rules.
+4–402. <i>Guidance</i>. Federal agencies, whenever practicable and appropriate, shall work in a coordinated manner to publish guidance reflecting the latest scientific information available concerning methods for evaluating the human health risks associated with the consumption of pollutant-bearing fish or wildlife. Agencies shall consider such guidance in developing their policies and rules.
 
 Sec. 5–5. PUBLIC PARTICIPATION AND ACCESS TO INFORMATION. (a) The public may submit recommendations to Federal agencies relating to the incorporation of environmental justice principles into Federal agency programs or policies. Each Federal agency shall convey such recommendations to the Working Group.
 
@@ -1096,7 +1070,7 @@ Sec. 2. <i>Definitions</i>. The following definitions shall apply to this order.
 
 2–202. “Covered regulatory action” means any substantive action in a rulemaking, initiated after the date of this order or for which a Notice of Proposed Rulemaking is published 1 year after the date of this order, that is likely to result in a rule that may:
 
-(a) be “economically significant” under Executive Order 12866 \[5 U.S.C. 601 note\] (a rulemaking that has an annual effect on the economy of $100 million or more or would adversely affect in a material way the economy, a sector of the economy, productivity, competition, jobs, the environment, public health or safety, or State, local, or tribal governments or communities); and
+(a) be “economically significant” under Executive Order 12866 \[5 U.S.C. 601 note\] (a rulemaking that hasan annual effect on the economy of $100 million or more or would adversely affect in a material way the economy, a sector of the economy, productivity, competition, jobs, the environment, public health or safety, or State, local, or tribal governments or communities); and
 
 (b) concern an environmental health risk or safety risk that an agency has reason to believe may disproportionately affect children.
 
@@ -1202,7 +1176,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13061, Sept. 11, 1997, 62 F.R. 48445, as amended by Ex. Ord. No. 13093, July 27, 1998, 63 F.R. 40357, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Environmental PolicyAct of 1969 (Public Law 91–190) \[42 U.S.C. 4321 et seq.\], and in order to protect and restore rivers and their adjacent communities, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Environmental Policy Act of 1969 (Public Law 91–190) \[42 U.S.C. 4321 et seq.\], and in order to protect and restore rivers and their adjacent communities, it is hereby ordered as follows:
 
 Section 1. <i>Policies.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Program authority
 
-The Secretary shall carry out a program to be known as upward bound which shall be designedto generate skills and motivation necessary for success in education beyond secondary school.
+The Secretary shall carry out a program to be known as upward bound which shall be designed to generate skills and motivation necessary for success in education beyond secondary school.
 
 #### (b) Permissible services
 

@@ -2,7 +2,7 @@
 
 As used in this subchapter:
 
-&emsp;(1) The term “action team” means a rural forestry and economic diversification action team established by the Secretary pursuant to section 6613(b) of this title.
+&emsp;(1) The term “action team” means a rural natural resources and economic diversification action team established by the Secretary pursuant to section 6613(b) of this title.
 
 &emsp;(2) The term “economically disadvantaged” means economic hardship due to the loss of jobs or income (labor or proprietor) derived from forestry, the wood products industry, or related commercial enterprises such as recreation and tourism in the national forest.
 
@@ -14,9 +14,11 @@ As used in this subchapter:
 
 &emsp;(4) The term “Secretary” means the Secretary of Agriculture.
 
-(Pub. L. 101–624, title XXIII, §2374, Nov. 28, 1990, 104 Stat. 4046; Pub. L. 103–115, Oct. 26, 1993, 107 Stat. 1117.)
+(Pub. L. 101–624, title XXIII, §2374, Nov. 28, 1990, 104 Stat. 4046; Pub. L. 103–115, Oct. 26, 1993, 107 Stat. 1117; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §345(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–203.)
 
 #### Amendments
+
+1999—Par. (1). Pub. L. 106–113 substituted “natural resources” for “forestry”.
 
 1993—Par. (3). Pub. L. 103–115 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘rural community’ means—
 

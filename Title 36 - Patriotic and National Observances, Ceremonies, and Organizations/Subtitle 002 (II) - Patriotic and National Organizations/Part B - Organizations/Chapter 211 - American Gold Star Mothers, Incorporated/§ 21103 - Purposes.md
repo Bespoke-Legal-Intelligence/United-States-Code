@@ -8,7 +8,7 @@ The purposes of the corporation are as provided in the articles of incorporation
 
 &emsp;(3) inculcate a sense of individual obligation to the community, State, and Nation;
 
-&emsp;(4) assist veterans of World War I, World War II, the Korean Conflict, Vietnam, and otherstrategic areas and their dependents in the presentation of claims to the Department of Veterans Affairs, and aid in any way in their power the men and women who served and died or were wounded or incapacitated during hostilities;
+&emsp;(4) assist veterans of World War I, World War II, the Korean Conflict, Vietnam, and other strategic areas and their dependents in the presentation of claims to the Department of Veterans Affairs, and aid in any way in their power the men and women who served and died or were wounded or incapacitated during hostilities;
 
 &emsp;(5) perpetuate the memory of those whose lives were sacrificed in our wars;
 

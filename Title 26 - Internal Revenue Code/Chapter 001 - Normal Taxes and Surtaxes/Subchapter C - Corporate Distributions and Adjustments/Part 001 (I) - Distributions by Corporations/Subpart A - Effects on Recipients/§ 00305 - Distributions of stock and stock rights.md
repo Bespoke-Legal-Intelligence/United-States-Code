@@ -196,7 +196,7 @@ Section 421(b) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22
 
 &emsp;“(ii) additional stock of that class of stock which meets the requirements of subparagraph (A)(iii), or
 
-&emsp;“(iii) preferred stock which is convertible into stock which meets the requirements of subparagraph\(A)(iii) at a fixed conversion ratio which takes account of all stock dividends and stock splits with respect to the stock into which such convertible stock is convertible.
+&emsp;“(iii) preferred stock which is convertible into stock which meets the requirements of subparagraph (A)(iii) at a fixed conversion ratio which takes account of all stock dividends and stock splits with respect to the stock into which such convertible stock is convertible.
 
 “(D) For purposes of this paragraph, the term ‘stock’ includes rights to acquire such stock.
 

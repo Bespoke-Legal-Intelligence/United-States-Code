@@ -2,7 +2,7 @@
 
 #### (a) Importation prohibited
 
-Except as provided in subsection (d) of this section, it shall be unlawful to import into theUnited States any merchandise of foreign manufacture if such merchandise, or the label, sign, print, package, wrapper, or receptacle, bears a trademark owned by a citizen of, or by a corporation or association created or organized within, the United States, and registered in the Patent and Trademark Office by a person domiciled in the United States, under the provisions of sections 81 to 109 of title 15, and if a copy of the certificate of registration of such trademark is filed with the Secretary of the Treasury, in the manner provided in section 106 of said title 15, unless written consent of the owner of such trademark is produced at the time of making entry.
+Except as provided in subsection (d) of this section, it shall be unlawful to import into the United States any merchandise of foreign manufacture if such merchandise, or the label, sign, print, package, wrapper, or receptacle, bears a trademark owned by a citizen of, or by a corporation or association created or organized within, the United States, and registered in the Patent and Trademark Office by a person domiciled in the United States, under the provisions of sections 81 to 109 of title 15, and if a copy of the certificate of registration of such trademark is filed with the Secretary of the Treasury, in the manner provided in section 106 of said title 15, unless written consent of the owner of such trademark is produced at the time of making entry.
 
 #### (b) Seizure and forfeiture
 
@@ -14,7 +14,7 @@ Any person dealing in any such merchandise may be enjoined from dealing therein 
 
 #### (d) Exemptions; publication in Federal Register; forfeitures; rules and regulations
 
-(1) The trademark provisions of this section and section 1124 of title 15, do not apply to the importation of articles accompanying any person arriving in the United States when such articles are for his personal use and not for sale if (A) such articles are within the limits of types and quantities determined by the Secretary pursuant to paragraph (2) of this subsection, and (B) such person has not been granted an exemption under this subsection within thirty days immediately preceding his arrival.
+(1) The trademark provisions of this section and section 1124 of title 15, do not apply to the importation of articles accompanying any person arriving in the United States when such articles are for his personal use and not for sale if (A) such articles are within the limits of types and quantities determined by the Secretary pursuant to paragraph (2) of this subsection, and (B) such person has not been granted an exemptionunder this subsection within thirty days immediately preceding his arrival.
 
 (2) The Secretary shall determine and publish in the Federal Register lists of the types of articles and the quantities of each which shall be entitled to the exemption provided by this subsection. In determining such quantities of particular types of trade-marked articles, the Secretary shall give such consideration as he deems necessary to the numbers of such articles usually purchased at retail for personal use.
 
@@ -54,7 +54,7 @@ The customs laws, referred to in subsec. (b), are classified generally to this t
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §526, 42Stat. 975. That section was superseded by section 526 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §526, 42 Stat. 975. That section was superseded by section 526 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 

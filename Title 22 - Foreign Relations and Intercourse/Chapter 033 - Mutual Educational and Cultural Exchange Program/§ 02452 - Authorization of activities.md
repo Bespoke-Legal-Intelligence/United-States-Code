@@ -16,7 +16,7 @@ The Director of the United States Information Agency is authorized, when he cons
 
 &emsp;&emsp;(i) visits and interchanges between the United States and other countries of leaders, experts in fields of specialized knowledge or skill, and other influential or distinguished persons;
 
-&emsp;&emsp;(ii) tours in countries abroad by creative and performing artists and athletes from the United States, individually and in groups, representing any field of the arts, sports, or any other form of cultural attainment;
+&emsp;&emsp;(ii) tours in countries abroad by creative and performing artists and athletes from the United States, individually and in groups,representing any field of the arts, sports, or any other form of cultural attainment;
 
 &emsp;&emsp;(iii) United States representation in international artistic, dramatic, musical, sports, and other cultural festivals, competitions, meetings, and like exhibitions and assemblies;
 
@@ -38,7 +38,7 @@ In furtherance of the purposes of this chapter, the President is further authori
 
 &emsp;(5) promoting and supporting medical, scientific, cultural, and educational research and development;
 
-&emsp;(6) promoting modern foreign language training and area studies in United Statesschools, colleges, and universities by supporting visits and study in foreign countries by teachers and prospective teachers in such schools, colleges, and universities for the purpose of improving their skill in languages and their knowledge of the culture of the people of those countries, and by financing visits by teachers from those countries to the United States for the purpose of participating in foreign language training and area studies in United States schools, colleges, and universities;
+&emsp;(6) promoting modern foreign language training and area studies in United States schools, colleges, and universities by supporting visits and study in foreign countries by teachers and prospective teachers in such schools, colleges, and universities for the purpose of improving their skill in languages and their knowledge of the culture of the people of those countries, and by financing visits by teachers from those countries to the United States for the purpose of participating in foreign language training and area studies in United States schools, colleges, and universities;
 
 &emsp;(7) United States representation at international nongovernmental educational, scientific, and technical meetings;
 
@@ -70,7 +70,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Effective Date of 1962 Amendment
 
-Section 403 of Pub. L. 87–565 provided in part that: “The amendment made by this section \[amending this section\] shall not be applicable with respect to any fair or exposition within the United States for which an appropriation has been provided.”
+Section 403 of Pub. L. 87–565 provided in part that: “The amendment made by this section \[amending thissection\] shall not be applicable with respect to any fair or exposition within the United States for which an appropriation has been provided.”
 
 #### Transfer of Functions
 
@@ -86,19 +86,31 @@ Authorization of performance of functions under subsec. (a)(2) and (3) of this s
 
 #### Conduct of Certain Educational and Cultural Exchange Programs
 
-Pub. L. 104–319, title I, §102, Oct. 19, 1996, 110 Stat. 3865, provided that: “In carrying out programs of educational and cultural exchange in countries whose people do not fully enjoy freedom and democracy (including but not limited to China, Vietnam, Cambodia, Tibet, and Burma), the Director of the United States Information Agency shall take appropriate steps to provide opportunities for participation in such programs to human rights and democracy leaders of such countries.”
+Pub. L. 104–319, title I, §102, Oct. 19, 1996, 110 Stat. 3865, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §402\], Nov. 29, 1999, 113 Stat. 1536, 1501A–445, provided that:
 
-\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
+“(a)
+
+In General.—In carrying out programs of educational and cultural exchange in countries whose people do not fully enjoy freedom and democracy, the Secretary of State, with the assistance of the Under Secretary of State for Public Diplomacy, shall provide, where appropriate, opportunities for significant participation in such programs to nationals of such countries who are—
+
+&emsp;“(1) human rights or democracy leaders of such countries; or
+
+&emsp;“(2) committed to advancing human rights and democratic values in such countries.
+
+“(b)
+
+Grantee Organizations.—To the extent practicable, grantee organizations selected to operate programs described in subsection (a) shall be selected through an open competitive process. Among the factors that should be considered in the selection of such a grantee are the willingness and ability of the organization to—
+
+&emsp;“(1) recruit a broad range of participants, including those described in paragraphs (1) and (2) of subsection (a); and
+
+&emsp;“(2) ensure that the governments of the countries described in subsection (a) do not have inappropriate influence in the selection process.”
 
 #### Limitation on Participation in International Expositions or Fairs
 
-Pub. L. 103–236, title II, §230, Apr. 30, 1994, 108 Stat. 424, provided that: “Notwithstanding any other provision of law, the United States Information Agency shall not obligate or expend any funds for a United States Government funded pavilion or other major exhibit at any international exposition or world's fair registered by the Bureau of International Expositions in excess of amounts expressly authorized and appropriated for such purpose.”
-
-\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
+Pub. L. 103–236, title II, §230, Apr. 30, 1994, 108 Stat. 424, which provided that United States Information Agency could not obligate or expend funds for a United States Government funded pavilion or major exhibit at any international exposition or world's fair in excess of amounts expressly authorized and appropriated for such purpose, was repealed by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §204(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–421. See section 2452b of this title.
 
 #### International Exchange, Scholarship, and Training Programs
 
-Pub. L. 104–319, title I, §103, Oct. 19, 1996, 110 Stat. 3865, as amended by Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2415, Oct. 21, 1998, 112 Stat. 2681–834, authorized establishment of educational and cultural exchange programs between United States and people of Tibet and authorized scholarships for Tibetans and Burmese.
+Pub. L. 104–319, title I, §103, Oct. 19, 1996, 110 Stat. 3865, as amended by Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2415, Oct. 21, 1998, 112 Stat. 2681–834; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §401\], Nov. 29, 1999, 113 Stat. 1536, 1501A–445, authorized establishment of educational and cultural exchange programs between United States and people of Tibet and authorized scholarships for Tibetans and Burmese.
 
 Pub. L. 103–236, title II, §235, Apr. 30, 1994, 108 Stat. 425, authorized establishment and maintenance of American studies collections at appropriate foreign university libraries to further the study of the United States.
 
@@ -124,7 +136,7 @@ Pub. L. 102–138, title II, §214, Oct. 28, 1991, 105 Stat. 696, established Is
 
 Pub. L. 102–138, title II, §225, Oct. 28, 1991, 105 Stat. 699, authorized establishment of an endowment fund to support an exchange program among secondary school students from United States and former Warsaw Pact countries, prior to repeal, eff. 6 months after Oct. 24, 1992, by Pub. L. 102–511, title VIII, §807(c), Oct. 24, 1992, 106 Stat. 3354.
 
-Pub. L. 102–138, title II, §226, Oct. 28, 1991, 105 Stat. 699, authorized scholarships for foreign and United States students and scholars awarded by Bureau of Educational and Cultural Affairs of United States Information Agency to facilitate study, research, and teaching within United States.
+Pub. L. 102–138, title II, §226, Oct. 28, 1991, 105 Stat. 699, authorized scholarships for foreign and UnitedStates students and scholars awarded by Bureau of Educational and Cultural Affairs of United States Information Agency to facilitate study, research, and teaching within United States.
 
 Pub. L. 102–138, title II, §227, Oct. 28, 1991, 105 Stat. 700, as amended by Pub. L. 102–511, title VIII, §801, Oct. 24, 1992, 106 Stat. 3352; Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2413, Oct. 21, 1998, 112 Stat. 2681–832, established Muskie Fellowship Program to award scholarships to graduate students from independent states of the former Soviet Union, Lithuania, Latvia, and Estonia for study within United States.
 
@@ -142,7 +154,7 @@ Ex. Ord. No. 10716, June 18, 1957, 22 F.R. 4345, as amended by Ex. Ord. No. 1091
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2453, 2454, 2455, 2456, 2458, 2458a, 2460, 4712 of this title.
+This section is referred to in sections 2452b, 2453, 2454, 2455, 2456, 2458, 2458a, 2460, 4712 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -30,6 +30,18 @@ A prior section 124, added Pub. L. 87–651, title II, §201(a), Sept. 7, 1962, 
 
 1991—Subsec. (a). Pub. L. 102–190 designated existing provisions as par. (1) and added par. (2).
 
+#### Condition on Development of Forward Operating Locations for United States Southern Command Counter-Drug Detection and Monitoring Flights
+
+Pub. L. 106–65, div. A, title X, §1024, Oct. 5, 1999, 113 Stat. 748, provided that:
+
+“(a)
+
+Condition.—Except as provided in subsection (b), none of the funds appropriated or otherwise made available to the Department of Defense for any fiscal year may be obligated or expended for the purpose of improving the physical infrastructure at any proposed forward operating location outside the United States from which the United States Southern Command may conduct counter-drug detection and monitoring flights until a formal agreement regarding the extent and use of, and host nation support for, the forward operating location is executed by both the host nation and the United States.
+
+“(b)
+
+Exception.—The limitation in subsection (a) does not apply to an unspecified minor military construction project authorized by section 2805 of title 10, United States Code.”
+
 #### Counter-Drug Detection and Monitoring Systems Plan
 
 Pub. L. 102–484, div. A, title X, §1043, Oct. 23, 1992, 106 Stat. 2492, provided that:

@@ -48,7 +48,7 @@
 
 Subsec. (b)(3)(A). Pub. L. 103–432, §102(g)(2), substituted “inpatient hospital services or inpatient rural primary care hospital services” for “inpatient hospital services”.
 
-Subsec. (b)(3)(B). Pub. L. 103–432, §102(g)(3), substituted “inpatient hospital services, inpatient rural primary care hospital services” for “inpatient hospital services”.
+Subsec. (b)(3)(B). Pub. L. 103–432, §102(g)(3), substituted “inpatient hospital services, inpatient ruralprimary care hospital services” for “inpatient hospital services”.
 
 1989—Subsecs. (a)(1) to (3), (b)(3). Pub. L. 101–234 repealed Pub. L. 100–360, §102, subject to an exception for blood deduction, and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment notes below.
 

@@ -28,7 +28,7 @@ For purposes of section 38, the renewable electricity production credit for any 
 
 #### (2) Credit and phaseout adjustment based on inflation
 
-&emsp;The 1.5 cent amount in subsection (a) and the 8 cent amount in paragraph (1) shall each be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale occurs. If any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
+&emsp;The 1.5 cent amount in subsection (a) and the 8 cent amount in paragraph (1) shall eachbe adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale occurs. If any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
 
 #### (3) Credit reduced for grants, tax-exempt bonds, subsidized energy financing, and other credits
 
@@ -38,7 +38,7 @@ For purposes of section 38, the renewable electricity production credit for any 
 
 &emsp;&emsp;&emsp;(i) grants provided by the United States, a State, or a political subdivision of a State for use in connection with the project,
 
-&emsp;&emsp;&emsp;(ii) proceeds of an issue of State or local government obligations used to provide financing for the project the interest onwhich is exempt from tax under section 103,
+&emsp;&emsp;&emsp;(ii) proceeds of an issue of State or local government obligations used to provide financing for the project the interest on which is exempt from tax under section 103,
 
 &emsp;&emsp;&emsp;(iii) the aggregate amount of subsidized energy financing provided (directly or indirectly) under a Federal, State, or local program provided in connection with the project, and
 
@@ -56,9 +56,11 @@ For purposes of this section—
 
 &emsp;The term “qualified energy resources” means—
 
-&emsp;&emsp;(A) wind, and
+&emsp;&emsp;(A) wind,
 
-&emsp;&emsp;(B) closed-loop biomass.
+&emsp;&emsp;(B) closed-loop biomass, and
+
+&emsp;&emsp;(C) poultry waste.
 
 #### (2) Closed-loop biomass
 
@@ -66,7 +68,21 @@ For purposes of this section—
 
 #### (3) Qualified facility
 
-&emsp;The term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after December 31, 1993 (December 31, 1992, in the case of a facility using closed-loop biomass to produce electricity), and before July 1, 1999.
+#### (A) Wind facility
+
+&emsp;&emsp;In the case of a facility using wind to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after December 31, 1993, and before January 1, 2002.
+
+#### (B) Closed-loop biomass facility
+
+&emsp;&emsp;In the case of a facility using closed-loop biomass to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after December 31, 1992, and before January 1, 2002.
+
+#### (C) Poultry waste facility
+
+&emsp;&emsp;In the case of a facility using poultry waste to produce electricity, the term “qualified facility” means any facility of the taxpayer which is originally placed in service after December 31, 1999, and before January 1, 2002.
+
+#### (4) Poultry waste
+
+&emsp;The term “poultry waste” means poultry manure and litter, including wood shavings, straw, rice hulls, and other bedding material for the disposition of manure.
 
 #### (d) Definitions and special rules
 
@@ -96,7 +112,7 @@ For purposes of this section—
 
 #### (3) Production attributable to the taxpayer
 
-&emsp;In the case of a facility in which more than 1 person has an ownership interest, except to the extent provided in regulations prescribed by the Secretary, production from the facility shall be allocated among such persons in proportion to their respective ownership interests in the gross sales from such facility.
+&emsp;In the case of a facility in which more than 1 person has an ownership interest, except to the extent provided in regulations prescribed by the Secretary, production from the facilityshall be allocated among such persons in proportion to their respective ownership interests in the gross sales from such facility.
 
 #### (4) Related persons
 
@@ -106,11 +122,59 @@ For purposes of this section—
 
 &emsp;Under regulations prescribed by the Secretary, rules similar to the rules of subsection (d) of section 52 shall apply.
 
-(Added Pub. L. 102–486, title XIX, §1914(a), Oct. 24, 1992, 106 Stat. 3020.)
+#### (6) Credit eligibility in the case of government-owned facilities using poultry waste
+
+&emsp;In the case of a facility using poultry waste to produce electricity and owned by a governmental unit, the person eligible for the credit under subsection (a) is the lessee or the operator of such facility.
+
+#### (7) Credit not to apply to electricity sold to utilities under certain contracts
+
+#### (A) In general
+
+&emsp;&emsp;The credit determined under subsection (a) shall not apply to electricity—
+
+&emsp;&emsp;&emsp;(i) produced at a qualified facility described in paragraph (3)(A) which is placed in service by the taxpayer after June 30, 1999, and
+
+&emsp;&emsp;&emsp;(ii) sold to a utility pursuant to a contract originally entered into before January 1, 1987 (whether or not amended or restated after that date).
+
+#### (B) Exception
+
+&emsp;&emsp;Subparagraph (A) shall not apply if—
+
+&emsp;&emsp;&emsp;(i) the prices for energy and capacity from such facility are established pursuant to an amendment to the contract referred to in subparagraph (A)(ii),
+
+&emsp;&emsp;&emsp;(ii) such amendment provides that the prices set forth in the contract which exceed avoided cost prices determined at the time of delivery shall apply only to annual quantities of electricity (prorated for partial years) which do not exceed the greater of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the average annual quantity of electricity sold to the utility under the contract during calendar years 1994, 1995, 1996, 1997, and 1998, or
+
+&emsp;&emsp;&emsp;&emsp;(II) the estimate of the annual electricity production set forth in the contract, or, if there is no such estimate, the greatest annual quantity of electricity sold to the utility under the contract in any of the calendar years 1996, 1997, or 1998, and
+
+&emsp;&emsp;&emsp;(iii) such amendment provides that energy and capacity in excess of the limitation in clause (ii) may be—
+
+&emsp;&emsp;&emsp;&emsp;(I) sold to the utility only at prices that do not exceed avoided cost prices determined at the time of delivery, or
+
+&emsp;&emsp;&emsp;&emsp;(II) sold to a third party subject to a mutually agreed upon advance notice to the utility.
+
+> &emsp;&emsp;For purposes of this subparagraph, avoided cost prices shall be determined as provided for in 18 CFR 292.304(d)(1) or any successor regulation.
+
+(Added Pub. L. 102–486, title XIX, §1914(a), Oct. 24, 1992, 106 Stat. 3020; amended Pub. L. 106–170, title V, §507(a)–(c), Dec. 17, 1999, 113 Stat. 1922.)
 
 #### Prior Provisions
 
 A prior section 45 was renumbered section 35 of this title.
+
+#### Amendments
+
+1999—Subsec. (c)(1)(C). Pub. L. 106–170, §507(b)(1), added subpar. (C).
+
+Subsec. (c)(3). Pub. L. 106–170, §507(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualified facility’ means any facility owned by the taxpayer which is originally placed in service after December 31, 1993 (December 31, 1992, in the case of a facility using closed-loop biomass to produce electricity), and before July 1, 1999.”
+
+Subsec. (c)(4). Pub. L. 106–170, §507(b)(2), added par. (4).
+
+Subsec. (d)(6), (7). Pub. L. 106–170, §507(c), added pars. (6) and (7).
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–170, title V, §507(d), Dec. 17, 1999, 113 Stat. 1923, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 17, 1999\].”
 
 #### Effective Date
 

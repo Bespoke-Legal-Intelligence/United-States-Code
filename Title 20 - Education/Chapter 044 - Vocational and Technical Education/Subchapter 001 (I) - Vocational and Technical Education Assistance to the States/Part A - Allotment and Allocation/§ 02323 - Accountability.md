@@ -48,7 +48,7 @@ The purpose of this section is to establish a State performance accountability s
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each eligible agency, with input from eligible recipients, shall establish in the State plan submitted under section 2342 of this title, levels of performance for each of the core indicators of performance described in paragraph (2)(A) for vocational and technical education activities authorized under this subchapter. The levels of performance established under this subparagraph shall, at a minimum—
+&emsp;&emsp;&emsp;Each eligible agency, with input from eligible recipients, shall establish in the State plan submitted under section 2342 of this title, levels of performance for each ofthe core indicators of performance described in paragraph (2)(A) for vocational and technical education activities authorized under this subchapter. The levels of performance established under this subparagraph shall, at a minimum—
 
 &emsp;&emsp;&emsp;&emsp;(I) be expressed in a percentage or numerical form, so as to be objective, quantifiable, and measurable; and
 
@@ -118,7 +118,7 @@ A prior section 2323, Pub. L. 88–210, title I, §113, as added Pub. L. 98–52
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2324, 2342, 2343, 2344, 2354 of this title.
+This section is referred to in sections 2324, 2342, 2343, 2344, 2354 of this title; title 29 section 2821.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established a National Board of the Fund for the Improvement of Postsecondary Education (in this part referred to as the “Board”). The Board shall consist of 15 members appointed by the Secretary for overlapping 3-year terms. A majority of the Board shall constitute a quorum. Any member of the Board who has served for 6 consecutive years shall thereafter be ineligible for appointment to the Board during a 2-year period following the expiration of such sixth year.
+There is established a National Board of the Fund for the Improvement of PostsecondaryEducation (in this part referred to as the “Board”). The Board shall consist of 15 members appointed by the Secretary for overlapping 3-year terms. A majority of the Board shall constitute a quorum. Any member of the Board who has served for 6 consecutive years shall thereafter be ineligible for appointment to the Board during a 2-year period following the expiration of such sixth year.
 
 #### (b) Membership
 
@@ -36,7 +36,7 @@ Provisions similar to this section were contained in section 1135a of this title
 
 A prior section 1138a, Pub. L. 89–329, title XI, §1142, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 789; amended Pub. L. 103–208, §2(j)(47), Dec. 20, 1993, 107 Stat. 2485, authorized grants for student literacy corps and student mentoring corps programs, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
 
-Another prior section 1138a, Pub. L. 89–329, title XI, §1122, as added Pub. L. 99–498, title XI, §1101, Oct. 17,1986, 100 Stat. 1571, authorized appropriations to carry out parts A and B of subchapter XI of this chapter, prior to the general amendment of such subchapter by Pub. L. 102–325.
+Another prior section 1138a, Pub. L. 89–329, title XI, §1122, as added Pub. L. 99–498, title XI, §1101, Oct. 17, 1986, 100 Stat. 1571, authorized appropriations to carry out parts A and B of subchapter XI of this chapter, prior to the general amendment of such subchapter by Pub. L. 102–325.
 
 A prior section 742 of Pub. L. 89–329 was classified to section 1132e–1 of this title, prior to the general amendment of this subchapter by Pub. L. 99–498.
 

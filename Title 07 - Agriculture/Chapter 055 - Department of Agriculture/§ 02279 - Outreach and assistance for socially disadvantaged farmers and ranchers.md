@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Agriculture (hereafter referred to in this section as the “Secretary”) shall provide outreach and technical assistance to encourage and assist socially disadvantaged farmers and ranchers to own and operate farms and ranches and to participate in agricultural programs. This assistance should include information on application and bidding procedures, farm management, and other essential information to participate in agricultural programs.
+&emsp;The Secretary of Agriculture (hereafter referred to in this section as the “Secretary”) shall provide outreach and technical assistance to encourage and assist socially disadvantaged farmers and ranchers to own and operate farms and ranches and to participate in agricultural programs. This assistanceshould include information on application and bidding procedures, farm management, and other essential information to participate in agricultural programs.
 
 #### (2) Grants and contracts
 
@@ -146,7 +146,7 @@ The Consolidated Farm and Rural Development Act, referred to in subsec. (e)(3)(B
 
 The Agricultural Adjustment Act of 1938, referred to in subsec. (e)(3)(C), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
-The Soil Conservation Act and the Domestic Allotment Assistance Act, referred to in subsec. (e)(3)(D) and (E), respectively, probably mean the Soil Conservation and Domestic Allotment Act, act Apr. 27, 1935, ch. 85, 49 Stat. 163, as amended, which is classified generally tochapter 3B (§590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
+The Soil Conservation Act and the Domestic Allotment Assistance Act, referred to in subsec. (e)(3)(D) and (E), respectively, probably mean the Soil Conservation and Domestic Allotment Act, act Apr. 27, 1935, ch. 85, 49 Stat. 163, as amended, which is classified generally to chapter 3B (§590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
 
 The Food Security Act of 1985, referred to in subsec. (e)(3)(F), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
@@ -164,7 +164,7 @@ Subsec. (d)(3). Pub. L. 102–237, §1003(3), substituted “November 28, 1991�
 
 #### Waiver of Statute of Limitations
 
-Pub. L. 105–277, div. A, title I, §101(a) \[title VII, §741\], Oct. 21, 1998, 112 Stat. 2681, 2681–30, provided that:
+Pub. L. 105–277, div. A, §101(a) \[title VII, §741\], Oct. 21, 1998, 112 Stat. 2681, 2681–30, provided that:
 
 “(a) To the extent permitted by the Constitution, any civil action to obtain relief with respect to the discrimination alleged in an eligible complaint, if commenced not later than 2 years after the date of the enactment of this Act \[Oct. 21, 1998\], shall not be barred by any statute of limitations.
 

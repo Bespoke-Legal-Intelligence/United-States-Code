@@ -12,7 +12,7 @@ If a share of stock is transferred to an individual in a transfer in respect of 
 
 #### (b) Effect of disqualifying disposition
 
-If the transfer of a share of stock to an individual pursuant to his exercise of an option would otherwise meet the requirements of section 422(a) or 423(a) except that there is a failure to meet any of the holding period requirements of section 422(a)(1) or 423(a)(1), then any increase in the income of such individual or deduction from the income of his employer corporation for the taxable year in which such exercise occurred attributable to such disposition, shall be treated as an increase in income or a deduction from income in the taxable year of such individual or of such employer corporation in which such disposition occurred.
+If the transfer of a share of stock to an individual pursuant to his exercise of an option would otherwise meet the requirements of section 422(a) or 423(a) except that there is a failure to meet any of the holding period requirements of section 422(a)(1) or 423(a)(1), then any increase in the income of such individual or deduction from the income of his employer corporation for the taxable year in which such exercise occurred attributable to such disposition, shall be treatedas an increase in income or a deduction from income in the taxable year of such individual or of such employer corporation in which such disposition occurred.
 
 #### (c) Exercise by estate
 
@@ -78,7 +78,7 @@ Section 221(e) of Pub. L. 88–272, as amended by Pub. L. 99–514, §2, Oct. 22
 
 “(1) Except as provided in paragraphs (2) and (3), the amendments made by this section \[enacting sections 422 to 425 and 6039, amending this section, sections 402, 691, 6652, 6678, and the analysis preceding sections 401 and 6031, and renumbering section 3039 as 3040 of this title\] shall apply to taxable years ending after December 31, 1963.
 
-“(2) The amendments made by paragraphs (1) and (3) of subsection (b) \[enacting section 3039, renumbering former section 3039 as 3040, and amending section 6678 of this title\] and paragraph (2) of section 6652(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by paragraph (2) of subsection (b)), shall apply to stock transferred pursuant to options exercised on or after January 1, 1964.
+“(2) The amendments made by paragraphs (1) and (3) of subsection (b) \[enacting section 3039, renumbering former section 3039 as 3040, and amending section 6678 of this title\] and paragraph (2) of section 6652(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (asamended by paragraph (2) of subsection (b)), shall apply to stock transferred pursuant to options exercised on or after January 1, 1964.
 
 “(3) In the case of an option granted after December 31, 1963, and before January 1, 1965—
 

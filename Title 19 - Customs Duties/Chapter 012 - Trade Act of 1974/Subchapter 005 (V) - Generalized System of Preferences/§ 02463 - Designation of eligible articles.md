@@ -10,7 +10,7 @@
 
 #### (B) Least-developed beneficiary developing countries
 
-&emsp;&emsp;Except for articles described in subparagraphs (A), (B), and (E) of subsection (b)(1) of this section and articles described in paragraphs (2) and (3) of subsection (b) of this section, the President may, in carrying out section 2462(d)(1) of this title and subsection (c)(1) of this section, designate articles as eligible articles only for countries designated as least-developed beneficiary developingcountries under section 2462(a)(2) of this title if, after receiving the advice of the International Trade Commission in accordance with subsection (e) of this section, the President determines that such articles are not import-sensitive in the context of imports from least-developed beneficiary developing countries.
+&emsp;&emsp;Except for articles described in subparagraphs (A), (B), and (E) of subsection (b)(1) of this section and articles described in paragraphs (2) and (3) of subsection (b) of this section, the President may, in carrying out section 2462(d)(1) of this title and subsection (c)(1) of this section, designate articles as eligible articles only for countries designated as least-developed beneficiary developing countries under section 2462(a)(2) of this title if, after receiving the advice of the International Trade Commission in accordance with subsection (e) of this section, the President determines that such articles are not import-sensitive in the context of imports from least-developed beneficiary developing countries.
 
 #### (C) Three-year rule
 
@@ -28,7 +28,9 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the cost or value of the materials produced in the beneficiary developing country or any two or more such countries that are members of the same association of countries and are treated as one country under section 2467(2) of this title, plus
 
-&emsp;&emsp;&emsp;&emsp;(II) the direct costs of processing operations performed in such beneficiary developing country or such member countries, is not less than 35 percent of the appraised value of such article at the time it is entered.
+&emsp;&emsp;&emsp;&emsp;(II) the direct costs of processing operations performed in such beneficiary developing country or such member countries,
+
+&emsp;&emsp;&nbsp;is not less than 35 percent of the appraised value of such article at the time it is entered.
 
 #### (B) Exclusions
 
@@ -86,11 +88,11 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii) and subject to subsection (d) of this section, whenever the President determines that a beneficiary developing country has exported\(directly or indirectly) to the United States during any calendar year beginning after December 31, 1995—
+&emsp;&emsp;&emsp;Except as provided in clause (ii) and subject to subsection (d) of this section, whenever the President determines that a beneficiary developing country has exported (directly or indirectly) to the United States during any calendar year beginning after December 31, 1995—
 
 &emsp;&emsp;&emsp;&emsp;(I) a quantity of an eligible article having an appraised value in excess of the applicable amount for the calendar year, or
 
-&emsp;&emsp;&emsp;&emsp;(II) a quantity of an eligible article equal to or exceeding 50 percent of the appraised value of the total imports of that article into the United States during any calendar year,
+&emsp;&emsp;&emsp;&emsp;(II) a quantity of an eligible article equal to or exceeding 50 percent of theappraised value of the total imports of that article into the United States during any calendar year,
 
 &emsp;&emsp;&nbsp;the President shall, not later than July 1 of the next calendar year, terminate the duty-free treatment for that article from that beneficiary developing country.
 
@@ -168,11 +170,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;The President may not exercise the waiver authority under this subsection with respectto a quantity of an eligible article entered during any calendar year beginning after 1995, the aggregate appraised value of which equals or exceeds 30 percent of the aggregate appraised value of all articles that entered duty-free under this subchapter during the preceding calendar year.
+&emsp;&emsp;The President may not exercise the waiver authority under this subsection with respect to a quantity of an eligible article entered during any calendar year beginning after 1995, the aggregate appraised value of which equals or exceeds 30 percent of the aggregate appraised value of all articles that entered duty-free under this subchapter during the preceding calendar year.
 
 #### (B) Other waiver limits
 
-&emsp;&emsp;The President may not exercise the waiver authority provided under this subsection with respect to a quantity of an eligible article entered during any calendar year beginning after 1995, the aggregate appraised value of which exceeds 15 percent of the aggregate appraised value of all articles that have entered duty-free under this subchapter during the preceding calendar year from those beneficiary developing countries which for the preceding calendar year—
+&emsp;&emsp;The President may not exercise the waiver authority provided under this subsectionwith respect to a quantity of an eligible article entered during any calendar year beginning after 1995, the aggregate appraised value of which exceeds 15 percent of the aggregate appraised value of all articles that have entered duty-free under this subchapter during the preceding calendar year from those beneficiary developing countries which for the preceding calendar year—
 
 &emsp;&emsp;&emsp;(i) had a per capita gross national product (calculated on the basis of the best available information, including that of the International Bank for Reconstruction and Development) of $5,000 or more; or
 
@@ -198,11 +200,15 @@ Before designating articles as eligible articles under subsection (a)(1) of this
 
 No action under this subchapter may affect any tariff duty imposed by the Legislature of Puerto Rico pursuant to section 1319 of this title on coffee imported into Puerto Rico.
 
-(Pub. L. 93–618, title V, §503, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1921.)
+(Pub. L. 93–618, title V, §503, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1921; amended Pub. L. 106–36, title I, §1001(a)(7), June 25, 1999, 113 Stat. 130.)
 
 #### Prior Provisions
 
 A prior section 2463, Pub. L. 93–618, title V, §503, Jan. 3, 1975, 88 Stat. 2069; Pub. L. 96–39, title XI, §1111(a)(3), July 26, 1979, 93 Stat. 315; Pub. L. 98–573, title V, §504, Oct. 30, 1984, 98 Stat. 3020; Pub. L. 99–47, §8(b)(2), June 11, 1985, 99 Stat. 85; Pub. L. 99–514, title XVIII, §1889(7), Oct. 22, 1986, 100 Stat. 2926; Pub. L. 100–418, title I, §1903, Aug. 23, 1988, 102 Stat. 1313; Pub. L. 101–382, title II, §226, Aug. 20, 1990, 104 Stat. 660; Pub. L. 103–465, title IV, §404(e)(3), Dec. 8, 1994, 108 Stat. 4961, related to eligible articles, prior to the general amendment of this subchapter by Pub. L. 104–188.
+
+#### Amendments
+
+1999—Subsec. (a)(2)(A)(ii). Pub. L. 106–36 added subcl. (II) and concluding provisions and struck out former subcl. (II) which read as follows: “the direct costs of processing operations performed in such beneficiary developing country or such member countries, is not less than 35 percent of the appraised value of such article at the time it is entered.”
 
 #### Section Referred to in Other Sections
 

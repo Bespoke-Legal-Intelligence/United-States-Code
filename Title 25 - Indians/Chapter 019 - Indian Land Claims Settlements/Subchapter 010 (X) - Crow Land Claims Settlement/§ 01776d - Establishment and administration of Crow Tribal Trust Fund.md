@@ -60,7 +60,7 @@ At the request of the Secretary, the Secretary of the Treasury shall invest all 
 
 #### (e) Use of interest for economic development
 
-Notwithstanding any other provision of law, the Crow Tribe may, subject to approval by the Secretary, assign the right of the Crow Tribe to the interest earned on monies in the Crow Tribal Trust Fund to a third party in connection with loans made for economic development projects on or near the Crow Indian Reservation.
+Notwithstanding any other provision of law, the Crow Tribe may, subject to approval by the Secretary, assign the right of the Crow Tribe tothe interest earned on monies in the Crow Tribal Trust Fund to a third party in connection with loans made for economic development projects on or near the Crow Indian Reservation.
 
 #### (f) Limitation
 

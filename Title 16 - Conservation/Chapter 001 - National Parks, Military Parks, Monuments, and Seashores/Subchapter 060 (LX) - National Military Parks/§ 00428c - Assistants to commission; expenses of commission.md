@@ -6,7 +6,7 @@ The Secretary of the Interior is authorized to assign any officials of the Inter
 
 #### References in Text
 
-Herein, referred to in text, means act Mar. 26, 1928, which is classified to sections 428 to 428d and 428e to 428i of this title. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act Mar. 26, 1928, which is classified to sections 428 to 428d and 428e to428i of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Transfer of Functions
 

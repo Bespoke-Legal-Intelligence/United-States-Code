@@ -36,7 +36,7 @@ In this chapter:
 
 &emsp;The term “capacity building and advocacy activities” means efforts that—
 
-&emsp;&emsp;(A) result in laws, regulations, policies, practices, procedures, or organizational structures that promote consumer-responsive programs or entities; and
+&emsp;&emsp;(A) result in laws, regulations, policies, practices, procedures, or organizationalstructures that promote consumer-responsive programs or entities; and
 
 &emsp;&emsp;(B) facilitate and increase access to, provision of, and funding for, assistive technology devices and assistive technology services,
 
@@ -58,7 +58,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(iii) inclusion, integration, and full participation of such individuals in society;
 
-&emsp;&emsp;&emsp;(iv) support for the involvement in decisions of a family member, a guardian, an advocate, or an authorized representative,if an individual with a disability requests, desires, or needs such involvement; and
+&emsp;&emsp;&emsp;(iv) support for the involvement in decisions of a family member, a guardian, an advocate, or an authorized representative, if an individual with a disability requests, desires, or needs such involvement; and
 
 &emsp;&emsp;&emsp;(v) support for individual and systems advocacy and community involvement; and
 
@@ -150,7 +150,7 @@ In this chapter:
 
 #### (16) Underrepresented population
 
-&emsp;The term “underrepresented population” means a population that is typically underrepresented in service provision, and includespopulations such as persons who have low-incidence disabilities, persons who are minorities, poor persons, persons with limited-English proficiency, older individuals, or persons from rural areas.
+&emsp;The term “underrepresented population” means a population that is typically underrepresented in service provision, and includes populations such as persons who have low-incidence disabilities, persons who are minorities, poor persons, persons with limited-English proficiency, older individuals, or persons from rural areas.
 
 #### (17) Universal design
 

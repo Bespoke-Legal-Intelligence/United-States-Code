@@ -16,7 +16,7 @@ Provisions similar to those in this section were contained in the following prio
 
 July 5, 1955, ch. 272, 69 Stat. 254.
 
-July 1, 1954, ch. 499, 68 Stat. 386.
+July 1, 1954, ch. 449, 68 Stat. 386.
 
 July 31, 1953, ch. 299, 67 Stat. 290.
 

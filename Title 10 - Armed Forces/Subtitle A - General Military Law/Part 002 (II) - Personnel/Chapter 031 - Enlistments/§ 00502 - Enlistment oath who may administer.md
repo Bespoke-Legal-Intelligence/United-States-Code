@@ -32,7 +32,7 @@ The Uniform Code of Military Justice, referred to in the oath, is classified to 
 
 1989—Pub. L. 101–189 struck out “or affirmation” after “This oath”.
 
-1962—Pub. L. 87–751 substituted “support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same” for “bear true faith and allegiance to the United States of America; that I willserve them honestly and faithfully against all their enemies whomsoever” and inserted “So help me God” in the oath, and “or affirmation” in text.
+1962—Pub. L. 87–751 substituted “support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same” for “bear true faith and allegiance to the United States of America; that I will serve them honestly and faithfully against all their enemies whomsoever” and inserted “So help me God” in the oath, and “or affirmation” in text.
 
 #### Effective Date of 1962 Amendment
 

@@ -58,7 +58,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;(B) does not include minor parts (including nuts, bolts, clips, screws, pins, braces, and other attachment hardware) and other similar items the Secretary of Transportation may prescribe by regulation after consulting with manufacturers and labor.
 
-&emsp;(13) “percentage (by value)”, when referring to passenger motor vehicle equipment of United States/Canadian origin, means the percentage remaining after subtracting the percentage (by value) of passenger motor vehicle equipment that is not of United States/Canadian origin that will be installed or included on those vehicles produced in a carline, from 100 percent—
+&emsp;(13) “percentage (by value)”, when referring to passenger motor vehicle equipment ofUnited States/Canadian origin, means the percentage remaining after subtracting the percentage (by value) of passenger motor vehicle equipment that is not of United States/Canadian origin that will be installed or included on those vehicles produced in a carline, from 100 percent—
 
 &emsp;&emsp;(A) with value being expressed in terms of the purchase price; and
 
@@ -96,7 +96,7 @@ Vehicle Content Percentage by Assembly Plant.—A manufacturer may display separ
 
 Value Added Determination.—If a manufacturer or allied supplier requests information in a timely manner from one or more of its outside suppliers concerning the United States/Canadian content of particular equipment, but does not receive that information despite a good faith effort to obtain it, the manufacturer or allied supplier may make its own good faith value added determinations, subject to the following:
 
-&emsp;(1) The manufacturer or allied supplier shall make the same value added determinations as would be made by the outside supplier, that is, whether 70 percent or more of the value ofequipment is added in the United States and/or Canada.
+&emsp;(1) The manufacturer or allied supplier shall make the same value added determinations as would be made by the outside supplier, that is, whether 70 percent or more of the value of equipment is added in the United States and/or Canada.
 
 &emsp;(2) The manufacturer or allied supplier shall consider the amount of value added and the location in which the value was added for all of the stages that the outside supplier would be required to consider.
 
@@ -118,7 +118,7 @@ Dealer Requirement.—Each dealer engaged in the sale or distribution of a new p
 
 (g)
 
-Form and Content of Label.—The Secretary of Transportation shall prescribe by regulation the form and content of the label required under subsection (b) of this section and the manner and location in which the label is attached. The Secretary shall permit a manufacturer to comply with this section by allowing the manufacturer to disclose the information required under subsection (b)(1) on the label required by section 3 of the Automobile Information Disclosure Act (15 U.S.C. 1232), on the label required by section 32908 of this title, or on a separate label that is readily visible. A manufacturer may add to the label required under subsection (b) a line stating the country in which vehicle assembly was completed.
+Form and Content of Label.—The Secretary of Transportation shall prescribe by regulation the form and content of the label required under subsection (b) of this section and the manner and location in which the label is attached. The Secretary shall permit a manufacturer to comply with this section by allowing the manufacturer to disclose the information required under subsection (b)(1) on the label required by section 3 of the Automobile Information Disclosure Act (15 U.S.C. 1232), on the label required by section 32908 of this title, or on a separate labelthat is readily visible. A manufacturer may add to the label required under subsection (b) a line stating the country in which vehicle assembly was completed.
 
 (h)
 

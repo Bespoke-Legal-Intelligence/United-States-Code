@@ -8,7 +8,7 @@ The Secretaries may not provide a development grant under section 6122 of this t
 
 Such application shall include—
 
-&emsp;(1) a timetable and an estimate of the amount of funding needed to complete the planning and development necessary to implement a comprehensive statewide School-to-Work Opportunities system for all students;
+&emsp;(1) a timetable and an estimate of the amount of funding needed to complete theplanning and development necessary to implement a comprehensive statewide School-to-Work Opportunities system for all students;
 
 &emsp;(2) a description of how—
 
@@ -58,7 +58,7 @@ A State seeking assistance under both this part and the Goals 2000: Educate Amer
 
 Section 2321(b)(1) of this title, referred to in subsec. (b)(2)(I), was omitted in the general amendment of chapter 44 (§2301 et seq.) of this title by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
 
-The Job Training Partnership Act, referred to in subsec. (b)(2)(J), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was repealed by Pub. L. 105–220,title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Title VII of the Act was classified to subchapter VI (§1792 et seq.) of chapter 19 of Title 29, Labor. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of this title and Tables.
+The Job Training Partnership Act, referred to in subsec. (b)(2)(J), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Title VII of the Act was classified to subchapter VI (§1792 et seq.) of chapter 19 of Title 29, Labor. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
 The Goals 2000: Educate America Act, referred to in subsec. (c), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 

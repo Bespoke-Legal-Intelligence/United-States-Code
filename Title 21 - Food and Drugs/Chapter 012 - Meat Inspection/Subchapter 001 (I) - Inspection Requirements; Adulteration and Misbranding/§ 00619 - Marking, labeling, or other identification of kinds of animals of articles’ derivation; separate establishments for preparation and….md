@@ -10,7 +10,7 @@ Section was formerly classified to section 87 of this title.
 
 #### Amendments
 
-1967—Pub. L. 90–201, §9, substituted provisions for marking, labeling, or other identification of kinds of animals whence the articles are derived and for separate establishments for preparation and slaughtering activities for prohibition against transportation or sale of meat or meat food products without complying with inspection provisions. See section 610(b) of this title.
+1967—Pub. L. 90–201, §9, substituted provisions for marking, labeling, or other identification of kinds of animals whence the articles are derived and for separate establishments for preparation and slaughteringactivities for prohibition against transportation or sale of meat or meat food products without complying with inspection provisions. See section 610(b) of this title.
 
 #### Effective Date of 1967 Amendment
 

@@ -14,3 +14,7 @@ Assistance under this section shall be furnished in accordance with the policies
 
 (Pub. L. 87–195, pt. I, §495J, as added Pub. L. 97–208, June 30, 1982, 96 Stat. 138.)
 
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+

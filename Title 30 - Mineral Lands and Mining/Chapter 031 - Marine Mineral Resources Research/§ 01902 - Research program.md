@@ -26,7 +26,7 @@ In carrying out the program, the Secretary shall—
 
 &emsp;(3) identify, and promote cooperation among agency programs that are developing, technologies developed by other Federal programs that may hold promise for facilitating undersea applications related to marine mineral resources, including technologies related to vessels and other platforms, underwater vehicles, survey and mapping systems, remote power sources, data collection and transmission systems, and various seabed research systems; and
 
-&emsp;(4) foster communication and coordination between Federal and State agencies, universities, and private entities concerning marine mineral research on seabeds of the continental shelf, ocean basins, and arctic and cold water areas.
+&emsp;(4) foster communication and coordination between Federal and State agencies, universities, and private entities concerning marinemineral research on seabeds of the continental shelf, ocean basins, and arctic and cold water areas.
 
 > In carrying out these responsibilities, the Secretary shall ensure the participation of non-Federal users of technologies and data related to marine mineral resources in planning and priority setting.
 

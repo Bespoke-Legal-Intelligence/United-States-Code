@@ -1,10 +1,8 @@
 ### §1720D. Counseling and treatment for sexual trauma
 
-(a)(1) During the period through December 31, 2001, the Secretary may provide counseling to a veteran who the Secretary determines requires such counseling to overcome psychological trauma, which in the judgment of a mental health professional employed by the Department, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred while the veteran was serving on active duty.
+(a)(1) During the period through December 31, 2004, the Secretary shall operate a program under which the Secretary provides counseling and appropriate care and services to veterans who the Secretary determines require such counseling and care and services to overcome psychological trauma, which in the judgment of a mental health professional employed by the Department, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred while the veteran was serving on active duty.
 
-(2) During the period referred to in paragraph (1), the Secretary may provide appropriate care and services to a veteran for an injury, illness, or other psychological condition that the Secretary determines to be the result of a physical assault, battery, or harassment referred to in that paragraph.
-
-(3) In furnishing counseling to a veteran under this subsection, the Secretary may, during the period through December 31, 2001, provide such counseling pursuant to a contract with a qualified mental health professional if (A) in the judgment of a mental health professional employed by the Department, the receipt of counseling by that veteran in facilities of the Department would be clinically inadvisable, or (B) Department facilities are not capable of furnishing such counseling to that veteran economically because of geographical inaccessibility.
+(2) In furnishing counseling to a veteran under this subsection, the Secretary may, during the period through December 31, 2004, provide such counseling pursuant to a contract with a qualified mental health professional if (A) in thejudgment of a mental health professional employed by the Department, the receipt of counseling by that veteran in facilities of the Department would be clinically inadvisable, or (B) Department facilities are not capable of furnishing such counseling to that veteran economically because of geographical inaccessibility.
 
 (b)(1) The Secretary shall give priority to the establishment and operation of the program to provide counseling and care and services under subsection (a). In the case of a veteran eligible for counseling and care and services under subsection (a), the Secretary shall ensure that the veteran is furnished counseling and care and services under this section in a way that is coordinated with the furnishing of such care and services under this chapter.
 
@@ -16,17 +14,33 @@
 
 &emsp;(C) provide referral services to assist veterans who are not eligible for services under this chapter to obtain those from sources outside the Department.
 
-(c) The Secretary shall provide information on the counseling available to veterans under this section. Efforts by the Secretary to provide such information—
+(c) The Secretary shall provide information on the counseling and treatment available to veterans under this section. Efforts by the Secretary to provide such information—
 
-&emsp;(1) shall include availability of a toll-free telephone number (commonly referred to as an 800 number); and
+&emsp;(1) shall include availability of a toll-free telephone number (commonly referred to as an 800 number);
 
-&emsp;(2) shall include coordination with the Secretary of Defense seeking to ensure that individuals who are being separated from active military, naval, or air service are provided appropriate information about programs, requirements, and procedures for applying for counseling under this section.
+&emsp;(2) shall ensure that information about the counseling and treatment available to veterans under this section—
+
+&emsp;&emsp;(A) is revised and updated as appropriate;
+
+&emsp;&emsp;(B) is made available and visibly posted at appropriate facilities of the Department; and
+
+&emsp;&emsp;(C) is made available through appropriate public information services; and
+
+&emsp;(3) shall include coordination with the Secretary of Defense seeking to ensure that individuals who are being separated from active military, naval, or air service are provided appropriate information about programs, requirements, and procedures for applying for counseling and treatment under this section.
 
 (d) In this section, the term “sexual harassment” means repeated, unsolicited verbal or physical contact of a sexual nature which is threatening in character.
 
-(Added Pub. L. 102–585, title I, §102(a)(1), Nov. 4, 1992, 106 Stat. 4945; amended Pub. L. 103–452, title I, §101(a)–(d), (f)(1), (2)(A), (g)(1), Nov. 2, 1994, 108 Stat. 4783, 4784; Pub. L. 105–368, title IX, §902, Nov. 11, 1998, 112 Stat. 3360.)
+(Added Pub. L. 102–585, title I, §102(a)(1), Nov. 4, 1992, 106 Stat. 4945; amended Pub. L. 103–452, title I, §101(a)–(d), (f)(1), (2)(A), (g)(1), Nov. 2, 1994, 108 Stat. 4783, 4784; Pub. L. 105–368, title IX, §902, Nov. 11, 1998, 112 Stat. 3360; Pub. L. 106–117, title I, §115(a)–(c), Nov. 30, 1999, 113 Stat. 1558.)
 
 #### Amendments
+
+1999—Subsec. (a)(1). Pub. L. 106–117, §115(a)(1), (b)(1), substituted “December 31, 2004” for “December 31, 2001” and “shall operate a program under which the Secretary provides counseling and appropriate care and services to veterans who the Secretary determines require such counseling and care and services” for “may provide counseling to a veteran who the Secretary determines requires such counseling”.
+
+Subsec. (a)(2), (3). Pub. L. 106–117, §115(a)(2), (b)(2), redesignated par. (3) as (2), substituted “December 31, 2004” for “December 31, 2001”, and struck out former par. (2) which read as follows: “During the period referred to in paragraph (1), the Secretary may provide appropriate care and services to a veteran for an injury, illness, or other psychological condition that the Secretary determines to be the result of a physical assault, battery, or harassment referred to in that paragraph.”
+
+Subsec. (c). Pub. L. 106–117, §115(c)(1), inserted “and treatment” after “counseling” in first sentence.
+
+Subsec. (c)(2), (3). Pub. L. 106–117, §115(c), added par. (2), redesignated former par. (2) as (3), and inserted “and treatment” after “counseling”.
 
 1998—Subsec. (a)(1), (3). Pub. L. 105–368 substituted “December 31, 2001” for “December 31, 1998”.
 

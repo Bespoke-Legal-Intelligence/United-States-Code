@@ -32,7 +32,7 @@ Persons Eligible for Plan.—The following persons are eligible to enroll in the
 
 &emsp;&emsp;(B) who is described in section 1448(d)(1) of this title; or
 
-&emsp;&emsp;(C) who died while on active duty for a period of more than 30 days and whose eligible dependents are not eligible, or no longer eligible, for dental benefits under section 1076a of this title pursuant to subsection (i)(2) of such section.
+&emsp;&emsp;(C) who died while on active duty for a period of more than 30 days and whose eligible dependents are not eligible, or no longer eligible, for dental benefits under section 1076a <sup>1</sup> of this title pursuant to subsection (i)(2) of such section.
 
 (c)
 
@@ -42,7 +42,7 @@ Premiums.—(1) A member enrolled in the dental insurance plan established under
 
 (d)
 
-Benefits Available Under the Plan.—The dental insurance plan established under subsection (a) shall provide benefits for basic dental care and treatment, including diagnostic services, preventative services, basic restorative services (including endodontics), surgical services, and emergency services.
+Benefits Available Under the Plan.—The dental insurance plan established under subsection (a) shall provide benefits for dental care and treatment which may be comparable to the benefits authorized under section 1076a of this title for plans established under that section and shall include diagnostic services, preventative services, endodontics and other basic restorative services, surgical services, and emergency services.
 
 (e)
 
@@ -78,9 +78,15 @@ Definitions.—In this section:
 
 &emsp;(3) The term “retired pay” includes retainer pay.
 
-(Added Pub. L. 104–201, div. A, title VII, §703(a)(1), Sept. 23, 1996, 110 Stat. 2588; amended Pub. L. 105–85, div. A, title VII, §§701, 733(b), 734, Nov. 18, 1997, 111 Stat. 1807, 1812, 1813; Pub. L. 105–261, div. A, title VII, §702, Oct. 17, 1998, 112 Stat. 2056.)
+(Added Pub. L. 104–201, div. A, title VII, §703(a)(1), Sept. 23, 1996, 110 Stat. 2588; amended Pub. L. 105–85, div. A, title VII, §§701, 733(b), 734, Nov. 18, 1997, 111 Stat. 1807, 1812, 1813; Pub. L. 105–261, div. A, title VII, §702, Oct. 17, 1998, 112 Stat. 2056; Pub. L. 106–65, div. A, title VII, §704, Oct. 5, 1999, 113 Stat. 683.)
+
+#### References in Text
+
+Section 1076a of this title, referred to in subsec. (b)(5)(C), was repealed and a new section 1076a was added by Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685. The new section 1076a does not contain a subsec. (i)(2).
 
 #### Amendments
+
+1999—Subsec. (d). Pub. L. 106–65 amended heading and text of subsec. (d) generally. Text read as follows: “The dental insurance plan established under subsection (a) shall provide benefits for basic dental care and treatment, including diagnostic services, preventative services, basic restorative services (including endodontics), surgical services, and emergency services.”
 
 1998—Subsec. (b)(4), (5). Pub. L. 105–261, §702(a), added par. (4) and redesignated former par. (4) as (5).
 
@@ -100,7 +106,7 @@ Subsec. (h). Pub. L. 105–85, §734(b)(2), substituted “other administering S
 
 #### Limitation on Implementation of Alternative Collection Procedures
 
-For provisions prohibiting the Secretary of Defense from implementing procedures for collecting premiums under subsec. (c)(2) of this section other than by deductions and withholding from pay until 120 days after the date that the Secretary submits a report to Congress describing justification for implementing alternative procedures, see section 733(d) of Pub. L. 105–85, set out as note under section 1076b of this title.
+Pub. L. 105–85, div. A, title VII, §733(d), Nov. 18, 1997, 111 Stat. 1813, provided that: “The Secretary of Defense may not implement procedures for collecting premiums under \[former\] section 1076b(b)(3) of title 10, United States Code, or section 1076c(c)(2) of such title other than by deductions and withholding from pay until 120 days after the date that the Secretary submits a report to Congress describing the justifications for implementing such alternative procedures.”
 
 #### Implementation of Dental Plan
 
@@ -109,4 +115,6 @@ Section 703(b) of Pub. L. 104–201, as amended by Pub. L. 105–85, div. A, tit
 &emsp;“(1) offer members of the Armed Forces and other persons described in subsection (b) of section 1076c of title 10, United States Code (as added by subsection (a)(1) of this section), the opportunity to enroll in the dental insurance plan required under that section; and
 
 &emsp;“(2) begin to provide benefits under the plan.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

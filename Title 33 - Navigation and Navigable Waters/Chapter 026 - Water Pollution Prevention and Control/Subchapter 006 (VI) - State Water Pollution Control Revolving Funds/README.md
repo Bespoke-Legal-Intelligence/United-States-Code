@@ -4,6 +4,8 @@
 
 This subchapter is referred to in sections 1285, 1330, 1414b of this title; title 42 section 300j–14.
 
+<i><sup>1</sup></i><i> So in original. Probably should be subsection “(e)”.</i>
+
 
 ---
 

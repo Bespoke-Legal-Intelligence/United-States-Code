@@ -56,9 +56,11 @@ Definitions.—In this section, the terms ‘illegal drugs’ and ‘employee in
 
 #### Annual Certification of Drug-Free Workplace Plan Administrators
 
-Pub. L. 105–277, div. A, title I, §101(h) \[title VI, §634\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–524, provided that: “Notwithstanding any provision of law, the President, or his designee, must certify to Congress, annually, that no person or persons with direct or indirect responsibility for administering the Executive Office of the President's Drug-Free Workplace Plan are themselves subject to a program of individual random drug testing.”
+Pub. L. 106–58, title VI, §624, Sept. 29, 1999, 113 Stat. 471, provided that: “Notwithstanding any provision of law, the President, or his designee, must certify to Congress, annually, that no person or persons with direct or indirect responsibility for administering the Executive Office of the President's Drug-Free Workplace Plan are themselves subject to a program of individual random drug testing.”
 
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 105–277, div. A, §101(h) \[title VI, §634\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–524.
 
 Pub. L. 105–61, title VI, §621, Oct. 10, 1997, 111 Stat. 1313.
 
@@ -82,7 +84,7 @@ Pub. L. 96–303, July 3, 1980, 94 Stat. 855, which provided that each agency, u
 
 #### Agency Acceptance of Donations for Federal Employees
 
-Pub. L. 102–368, title XI, §901, Sept. 23, 1992, 106 Stat. 1156, effective through Sept. 30, 1993, authorized Federal agencies to accept gifts of property, money, or anything else of value from non-Federal sources for extraordinary and unanticipated expenses incurred by agency employees in their personal capacity withinareas designated as disaster areas pursuant to President's declaration of a disaster resulting from Hurricane Andrew, Typhoon Omar, and Hurricane Iniki, directed agencies to establish written procedures to implement this program, and authorized agencies to accept gifts designated for individual employees.
+Pub. L. 102–368, title XI, §901, Sept. 23, 1992, 106 Stat. 1156, effective through Sept. 30, 1993, authorized Federal agencies to accept gifts of property, money, or anything else of value from non-Federal sources for extraordinary and unanticipated expenses incurred by agency employees in their personal capacity within areas designated as disaster areas pursuant to President's declaration of a disaster resulting from Hurricane Andrew, Typhoon Omar, and Hurricane Iniki, directed agencies to establish written procedures to implement this program, and authorized agencies to accept gifts designated for individual employees.
 
 #### Restriction on Availability of Funds To Administer or Implement Drug Testing
 
@@ -181,6 +183,8 @@ Pub. L. 100–71, title V, §503, July 11, 1987, 101 Stat. 468, as amended by Pu
 “(f) Each agency covered by Executive Order Numbered 12564 \[set out as a note below\] shall submit to the Committees on Appropriations of the House of Representatives and the Senate, and other appropriate committees of the Congress, an annual report relating to drug-testing activities conducted by such agency pursuant to such executive order. Each such annual report shall be submitted at the time of the President's budget submission to the Congress under section 1105(a) of title 31, United States Code.
 
 “(g) For purposes of this section, the terms ‘agency’ and ‘Employee Assistance Program’ each has the meaning given such term under section 7(b) of Executive Order Numbered 12564 \[set out as a note below\], as in effect on September 15, 1986.”
+
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.\]
 
 #### Limitation on Gratuities at Naval Shipbuilding Ceremonies
 
@@ -524,7 +528,7 @@ Sec. 2. <i>Definitions</i>. As used herein and in the pledges:
 
 (3) communicating or appearing with regard to any government grant, contract or similar benefit on behalf of and as an officer or employee of:
 
-(A) an accredited, degree-granting institution of higher education, as defined in section 1201(a) of title 20, United States Code; or
+(A) an accredited, degree-granting institution of higher education, as defined in section 1201(a) of title 20, United States Code \[probably means former section 1141(a) of Title 20, Education\]; or
 
 (B) a hospital; a medical, scientific or environmental research institution; or a charitable or educational institution; provided that such entity is a not-for-profit organization exempted from Federal income taxes under sections 501(a) and 501(c)(3) of title 26, United States Code;
 
@@ -590,7 +594,7 @@ Sec. 4. <i>Administration</i>. (a) The head of every executive agency shall esta
 
 (d) In order to promote clarity and fairness in the application of paragraph 3 of the senior appointee pledge:
 
-(1) the Attorney General shall, within six months after the issuance of this order, publish in the Federal Register a “Statement of Covered Activities,” based on the statute, applicable regulations and published guidelines, and any other material reflecting the Attorney General's current interpretation of the law, describing in sufficient detail to provide adequate guidance the activities on behalf of a foreign government or foreign political party which, if undertaken as of January 20,1993, would require a person to register as an agent for such foreign government or political party under the Foreign Agents Registration Act of 1938, as amended; and
+(1) the Attorney General shall, within six months after the issuance of this order, publish in the Federal Register a “Statement of Covered Activities,” based on the statute, applicable regulations and published guidelines, and any other material reflecting the Attorney General's current interpretation of the law, describing in sufficient detail to provide adequate guidance the activities on behalf of a foreign government or foreign political party which, if undertaken as of January 20, 1993, would require a person to register as an agent for such foreign government or political party under the Foreign Agents Registration Act of 1938, as amended; and
 
 (2) the Attorney General's “Statement of Covered Activities” shall be presumed to be the definitive statement of the activities in which the senior appointee agrees not to engage under paragraph 3 of the pledge.
 

@@ -8,7 +8,7 @@ For the purposes of this subchapter—
 
 (3) The term “child” means a legitimate child, an adopted child, and, if designated as beneficiary by the insured, a stepchild or an illegitimate child.
 
-(4) The terms “parent”, “father”, and “mother” mean a father, mother, father through adoption, mother through adoption, persons who have stood in loco parentis to a member of themilitary or naval forces at any time before entry into active service for a period of not less than one year, and a stepparent, if designated as beneficiary by the insured.
+(4) The terms “parent”, “father”, and “mother” mean a father, mother, father through adoption, mother through adoption, persons who have stood in loco parentis to a member of the military or naval forces at any time before entry into active service for a period of not less than one year, and a stepparent, if designated as beneficiary by the insured.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1148, §701; renumbered §1901, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 

@@ -16,7 +16,7 @@ The Director shall submit to the Committee on Banking, Finance and Urban Affairs
 
 &emsp;&emsp;(B) the results and conclusions of any examination, as determined necessary by the Director, to determine the compliance of the enterprises with the requirements of section 4012a(b)(3) of title 42, which shall include a description of the methods used to determine compliance and the types and sources of deficiencies (if any), and identify any corrective measures that have been taken to remedy any such deficiencies,
 
-> &emsp;except that the information described in this paragraph shall be included only in each of the first, third, and fifth annual reports under this subsection required to be submitted after theexpiration of the 1-year period beginning on September 23, 1994.
+> &emsp;except that the information described in this paragraph shall be included only in each of the first, third, and fifth annual reports under this subsection required to be submitted after the expiration of the 1-year period beginning on September 23, 1994.
 
 #### (b) Report on enforcement actions
 
@@ -40,7 +40,7 @@ Not later than March 15 of each year, the Director shall submit to the Committee
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(1), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
+This chapter, referred to in subsec. (a)(1), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classifiedprincipally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
 #### Amendments
 

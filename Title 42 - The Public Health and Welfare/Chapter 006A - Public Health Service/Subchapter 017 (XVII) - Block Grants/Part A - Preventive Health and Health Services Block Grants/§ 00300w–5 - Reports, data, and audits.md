@@ -40,7 +40,7 @@
 
 Title XVII of the Omnibus Budget Reconciliation Act of 1981 shall not apply with respect to audits of funds allotted under this part.
 
-(July 1, 1944, ch. 373, title XIX, §1906, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat.540; amended Pub. L. 98–555, §5(b), (c), Oct. 30, 1984, 98 Stat. 2855, 2856; Pub. L. 100–607, title III, §301(d), Nov. 4, 1988, 102 Stat. 3112; Pub. L. 102–531, title I, §104, Oct. 27, 1992, 106 Stat. 3473.)
+(July 1, 1944, ch. 373, title XIX, §1906, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 540; amended Pub. L. 98–555, §5(b), (c), Oct. 30, 1984, 98 Stat. 2855, 2856; Pub. L. 100–607, title III, §301(d), Nov. 4, 1988, 102 Stat. 3112; Pub. L. 102–531, title I, §104, Oct. 27, 1992, 106 Stat. 3473.)
 
 #### References in Text
 

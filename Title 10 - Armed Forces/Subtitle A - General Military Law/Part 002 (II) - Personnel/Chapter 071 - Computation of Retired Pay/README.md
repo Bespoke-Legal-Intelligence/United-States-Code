@@ -13,13 +13,16 @@
 | [1407\.](%C2%A7%2001407%20-%20Retired%20pay%20base%20for%20members%20who%20first%20became%20members%20after%20September%207%2C%201980%20high-36%20month%20average.md) | Retired pay base for members who first became members after September 7, 1980: high-36 month average. |
 | [1408\.](%C2%A7%2001408%20-%20Payment%20of%20retired%20or%20retainer%20pay%20in%20compliance%20with%20court%20orders.md) | Payment of retired or retainer pay in compliance with court orders. |
 | [1409\.](%C2%A7%2001409%20-%20Retired%20pay%20multiplier.md) | Retired pay multiplier. |
-| [1410\.](%C2%A7%2001410%20-%20Restoral%20of%20full%20retirement%20amount%20at%20age%2062%20for%20members%20entering%20on%20or%20after%20August%201%2C%201986.md) | Restoral of full retirement amount at age 62 for members entering on or after August 1, 1986. |
+| [1410\.](%C2%A7%2001410%20-%20Restoral%20of%20full%20retirement%20amount%20at%20age%2062%20for%20certain%20members%20entering%20on%20or%20after%20August%201%2C%201986.md) | Restoral of full retirement amount at age 62 for certain members entering on or after August 1, 1986. |
 | [1411\.](%C2%A7%2001411%20-%20Rules%20of%20construction.md) | Rules of construction. |
 | [1412\.](%C2%A7%2001412%20-%20Rounding%20to%20next%20lower%20dollar.md) | Rounding to next lower dollar. |
+| [1413\.](%C2%A7%2001413%20-%20Special%20compensation%20for%20certain%20severely%20disabled%20uniformed%20services%20retirees.md) | Special compensation for certain severely disabled uniformed services retirees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title VI, §§643(b)(3)(B), 658(a)(2), Oct. 5, 1999, 113 Stat. 664, 669, inserted “certain” before “members” in item 1410 and added item 1413.
 
 1987—Pub. L. 100–26, §7(h)(2)(B), Apr. 21, 1987, 101 Stat. 282, substituted colon for semicolon and “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” in item 1403.
 
@@ -67,6 +70,7 @@ This chapter is referred to in sections 642, 1275, 1315 of this title; title 4 s
 - [&sect; 01407 - Retired pay base for members who first became members after September 7, 1980 high-36 month average](%C2%A7%2001407%20-%20Retired%20pay%20base%20for%20members%20who%20first%20became%20members%20after%20September%207%2C%201980%20high-36%20month%20average.md)
 - [&sect; 01408 - Payment of retired or retainer pay in compliance with court orders](%C2%A7%2001408%20-%20Payment%20of%20retired%20or%20retainer%20pay%20in%20compliance%20with%20court%20orders.md)
 - [&sect; 01409 - Retired pay multiplier](%C2%A7%2001409%20-%20Retired%20pay%20multiplier.md)
-- [&sect; 01410 - Restoral of full retirement amount at age 62 for members entering on or after August 1, 1986](%C2%A7%2001410%20-%20Restoral%20of%20full%20retirement%20amount%20at%20age%2062%20for%20members%20entering%20on%20or%20after%20August%201%2C%201986.md)
+- [&sect; 01410 - Restoral of full retirement amount at age 62 for certain members entering on or after August 1, 1986](%C2%A7%2001410%20-%20Restoral%20of%20full%20retirement%20amount%20at%20age%2062%20for%20certain%20members%20entering%20on%20or%20after%20August%201%2C%201986.md)
 - [&sect; 01411 - Rules of construction](%C2%A7%2001411%20-%20Rules%20of%20construction.md)
 - [&sect; 01412 - Rounding to next lower dollar](%C2%A7%2001412%20-%20Rounding%20to%20next%20lower%20dollar.md)
+- [&sect; 01413 - Special compensation for certain severely disabled uniformed services retirees](%C2%A7%2001413%20-%20Special%20compensation%20for%20certain%20severely%20disabled%20uniformed%20services%20retirees.md)

@@ -8,7 +8,7 @@
 
 (2) Each foreign country from which a cadet is permitted to receive instruction at the Academy under this section shall reimburse the United States for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1) unless a written waiver of reimbursement is granted by the Secretary of Defense. The Secretary of the Army shall prescribe the rates for reimbursement under this paragraph, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a cadet appointed from the United States.
 
-(3) The amount of reimbursement waived under paragraph (2) may not exceed 35 percent of the per-person reimbursement amount otherwise required to be paid by a foreign country under such paragraph, except in the case of not more than five persons receiving instruction at the Academy under this section at any one time.
+(3) The amount of reimbursement waived under paragraph (2) may not exceed 50 percent of the per-person reimbursement amount otherwise required to be paid by a foreign country under such paragraph, except in the case of not more than 20 persons receiving instruction at the Academy under this section at any one time.
 
 (c)(1) Except as the Secretary of the Army determines, a person receiving instruction under this section is subject to the same regulations governing admission, attendance, discipline, resignation, discharge, dismissal, and graduation as a cadet at the Academy appointed from the United States. The Secretary may prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a cadet at the Academy appointed from the United States.
 
@@ -16,7 +16,7 @@
 
 (d) A person receiving instruction under this section is not subject to section 4346(d) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 242; Pub. L. 98–94, title X, §1004(a)(1), Sept. 24, 1983, 97 Stat. 657; Pub. L. 105–85, div. A, title V, §543(a), Nov. 18, 1997, 111 Stat. 1743.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 242; Pub. L. 98–94, title X, §1004(a)(1), Sept. 24, 1983, 97 Stat. 657; Pub. L. 105–85, div. A, title V, §543(a), Nov. 18, 1997, 111 Stat. 1743; Pub. L. 106–65, div. A, title V, §534(a), Oct. 5, 1999, 113 Stat. 605.)
 
 Historical and Revision Notes
 
@@ -56,6 +56,8 @@ In subsection (d), the words “and 1101” are omitted, since section 1321 of t
 
 #### Amendments
 
+1999—Subsec. (b)(3). Pub. L. 106–65 substituted “50 percent” for “35 percent” and “20 persons” for “five persons”.
+
 1997—Subsec. (b)(2). Pub. L. 105–85, §543(a)(1), inserted before period at end “, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a cadet appointed from the United States”.
 
 Subsec. (b)(3). Pub. L. 105–85, §543(a)(2), added par. (3).
@@ -75,6 +77,10 @@ Subsec. (c)(1). Pub. L. 98–94 redesignated first sentence of existing subsec. 
 Subsec. (c)(2). Pub. L. 98–94 redesignated second sentence of existing subsec. (c) as par. (2) and substituted “appointment in an armed force of the United States” for “appointment in the United States Army”.
 
 Subsec. (d). Pub. L. 98–94 reenacted subsec. (d) without change.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–65, div. A, title V, §534(d), Oct. 5, 1999, 113 Stat. 605, provided that: “The amendments made by this section \[amending this section and sections 6957 and 9344 of this title\] apply with respect to students from a foreign country entering the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy on or after May 1, 1999.”
 
 #### Effective Date of 1997 Amendment
 

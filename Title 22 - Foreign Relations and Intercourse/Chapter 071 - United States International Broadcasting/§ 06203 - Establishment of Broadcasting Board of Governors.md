@@ -28,7 +28,7 @@
 
 &emsp;(B) The Secretary of State who shall also be a voting member.
 
-(2) The President shall designate one member (other than the Secretary of State) as Chairman of the Board.
+(2) The President shall appoint one member (other than the Secretary of State) as Chairman of the Board, subject to the advice and consent of the Senate.
 
 (3) Exclusive of the Secretary of State, not more than 4 of the members of the Board appointed by the President shall be of the same political party.
 
@@ -48,7 +48,11 @@ Members of the Board, while attending meetings of the Board or while engaged in 
 
 Decisions of the Board shall be made by majority vote, a quorum being present. A quorum shall consist of 5 members.
 
-(Pub. L. 103–236, title III, §304, Apr. 30, 1994, 108 Stat. 434; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1322, 1323(b), (c), Oct. 21, 1998, 112 Stat. 2681–777, 2681–778.)
+#### (g) Immunity from civil liability
+
+Notwithstanding any other provision of law, any and all limitations on liability that apply to the members of the Broadcasting Board of Governors also shall apply to such members when acting in their capacities as members of the boards of directors of RFE/RL, Incorporated and Radio Free Asia.
+
+(Pub. L. 103–236, title III, §304, Apr. 30, 1994, 108 Stat. 434; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1322, 1323(b), (c), Oct. 21, 1998, 112 Stat. 2681–777, 2681–778; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title V, §§502, 504\], Nov. 29, 1999, 113 Stat. 1536, 1501A–451.)
 
 #### References in Text
 
@@ -57,6 +61,12 @@ For the effective date of title XIII of the Foreign Affairs Agencies Consolidati
 The Inspector General Act of 1978, referred to in subsec. (a)(3)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1999—Subsec. (b)(2). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §502(2)\], which directed amendment of par. (2) by inserting “, subject to the advice and consent of the Senate” at end, was executed by making the insertion before period at end, to reflect the probable intent of Congress.
+
+Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §502(1)\], substituted “appoint” for “designate”.
+
+Subsec. (g). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §504\], added subsec. (g).
 
 1998—Subsec. (a). Pub. L. 105–277, §1322, amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There is hereby established within the United States Information Agency a Broadcasting Board of Governors (hereafter in this chapter referred to as the ‘Board’).”
 
@@ -68,7 +78,7 @@ Subsec. (e). Pub. L. 105–277, §1323(b), substituted “Secretary of State” 
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
 #### Section Referred to in Other Sections
 

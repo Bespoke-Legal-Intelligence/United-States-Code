@@ -24,21 +24,19 @@ Waiver.—(1) The President may waive the application of subsection (a) to a cou
 
 (2) The President shall—
 
-&emsp;(A) notify the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives at least 15 days before the waiver takes effect; and
+&emsp;(A) notify the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on International Relations of the House of Representatives at least 15 days before the waiver takes effect; and
 
 &emsp;(B) publish a notice of the waiver in the Federal Register.
 
 (c)
 
-Definition.—In this section, the term “international terrorism” has the meaning given that term in section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f(d)).
+Definition.—In this section, the term “international terrorism” has the meaning given that term in section 140(d) of the ForeignRelations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f(d)).
 
-(Added Pub. L. 104–106, div. A, title XIII, §1341(a), Feb. 10, 1996, 110 Stat. 485; amended Pub. L. 105–85, div. A, title X, §1073(a)(40), Nov. 18, 1997, 111 Stat. 1902.)
+(Added Pub. L. 104–106, div. A, title XIII, §1341(a), Feb. 10, 1996, 110 Stat. 485; amended Pub. L. 105–85, div. A, title X, §1073(a)(40), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Amendments
 
+1999—Subsec. (b)(2)(A). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+
 1997—Subsec. (a)(1). Pub. L. 105–85 substituted “50 U.S.C. App. 2405(j)(1)(A)” for “50 App. 2405(j)”.
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 

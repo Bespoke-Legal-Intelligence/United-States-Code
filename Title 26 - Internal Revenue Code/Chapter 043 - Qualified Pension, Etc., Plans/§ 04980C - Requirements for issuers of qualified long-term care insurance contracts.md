@@ -32,7 +32,7 @@ The requirements of this subsection are as follows:
 
 &emsp;&emsp;&emsp;(iv) Section 21 (relating to standards for marketing), including inaccurate completion of medical histories, other than sections 21C(1) and 21C(6) thereof, except that—
 
-&emsp;&emsp;&emsp;&emsp;(I) in addition to such requirements, no person shall, in selling or offering to sella qualified long-term care insurance contract, misrepresent a material fact; and
+&emsp;&emsp;&emsp;&emsp;(I) in addition to such requirements, no person shall, in selling or offering to sell a qualified long-term care insurance contract, misrepresent a material fact; and
 
 &emsp;&emsp;&emsp;&emsp;(II) no such requirements shall include a requirement to inquire or identify whether a prospective applicant or enrollee for long-term care insurance has accident and sickness insurance.
 

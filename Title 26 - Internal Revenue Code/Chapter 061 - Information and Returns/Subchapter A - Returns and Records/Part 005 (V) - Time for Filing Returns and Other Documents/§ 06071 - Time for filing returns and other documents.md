@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-When not otherwise provided for by this title, the Secretary shall by regulations prescribe the time for filing any return, statement, or other document required by this title or by regulations.
+When not otherwise provided for by this title, the Secretary shall by regulations prescribe thetime for filing any return, statement, or other document required by this title or by regulations.
 
 #### (b) Electronically filed information returns
 
@@ -12,7 +12,7 @@ Returns made under subparts B and C of part III of this subchapter which are fil
 
 &emsp;&emsp;<b>For payment of special taxes before engaging in certain trades and businesses, see section 4901 and section 5142.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 749; Pub. L. 85–859, title II, §204(1), Sept. 2, 1958, 72 Stat. 1428;Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–206, title II, §2002(a), July 22, 1998, 112 Stat. 724.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 749; Pub. L. 85–859, title II, §204(1), Sept. 2, 1958, 72 Stat. 1428; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–206, title II, §2002(a), July 22, 1998, 112 Stat. 724.)
 
 #### Amendments
 

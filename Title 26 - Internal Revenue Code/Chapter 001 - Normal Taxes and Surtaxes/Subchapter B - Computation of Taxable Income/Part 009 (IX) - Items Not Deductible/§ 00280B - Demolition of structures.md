@@ -22,7 +22,7 @@ Subsec. (b). Pub. L. 97–34, §212(d)(2)(C)(ii), substituted “section 48(g)(3
 
 1980—Subsec. (c). Pub. L. 96–541 added subsec. (c).
 
-1978—Subsec. (b). Pub. L. 95–600 substituted “registered historic district (as defined in section 191(d)(2))” for “Registered Historic District” and “Secretary of the Interior has certified that such structure is not a certified historic structure, and that such structure is not of historic significance to the district, and if such certification occurs after the beginning of the demolition of such structure, the taxpayer has certified to the Secretary that, at the time of such demolition, he in good faith was not aware of the certification requirement by the Secretary of the Interior” for “Secretary of the Interior has certified, prior to the demolition of such structure, that such structure is not of historic significance to the district”.
+1978—Subsec. (b). Pub. L. 95–600 substituted “registered historic district (as defined in section 191(d)(2))” for “Registered Historic District” and “Secretary of the Interior has certified that such structure is not a certified historic structure, and that such structure is not of historic significance to the district, and if suchcertification occurs after the beginning of the demolition of such structure, the taxpayer has certified to the Secretary that, at the time of such demolition, he in good faith was not aware of the certification requirement by the Secretary of the Interior” for “Secretary of the Interior has certified, prior to the demolition of such structure, that such structure is not of historic significance to the district”.
 
 #### Effective Date of 1984 Amendment
 

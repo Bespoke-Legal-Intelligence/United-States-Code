@@ -20,7 +20,7 @@ The Secretary shall forward the claim and a copy of the Administrator's determin
 
 #### (d) Adjudication
 
-In the case of a dispute arising in connection with a claim under this section, the UnitedStates Court of Federal Claims shall have jurisdiction to adjudicate the claim and enter judgment accordingly.
+In the case of a dispute arising in connection with a claim under this section, the United States Court of Federal Claims shall have jurisdiction to adjudicate the claim and enter judgment accordingly.
 
 (Pub. L. 93–498, §11, Oct. 29, 1974, 88 Stat. 1543; Pub. L. 97–164, title I, §146, Apr. 2, 1982, 96 Stat. 45; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 

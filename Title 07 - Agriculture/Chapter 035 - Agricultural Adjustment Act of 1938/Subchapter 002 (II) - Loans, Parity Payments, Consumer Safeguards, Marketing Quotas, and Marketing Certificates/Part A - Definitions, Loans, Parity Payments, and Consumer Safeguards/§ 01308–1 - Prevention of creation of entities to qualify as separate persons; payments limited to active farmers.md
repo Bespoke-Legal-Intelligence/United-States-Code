@@ -30,7 +30,7 @@ For the purposes of preventing the use of multiple legal entities to avoid the e
 
 #### (1) In general
 
-&emsp;To be separately eligible for farm program payments (as described in paragraphs (1) and (2) of section 1308 of this title as being subject to limitation) with respect to a particular farming operation (whether in the person's own right or as a partner in a general partnership, a grantor of a revocable trust, a participant in a joint venture, or a participant in a similar entity (as determined by the Secretary) that is the producer of the crops involved), a person must be an individual or entity described in section 1308(5)(B)(i) of this title and actively engaged in farming with respect to such operation, as provided under paragraphs (2), (3), and (4).
+&emsp;To be separately eligible for farm program payments (as described in paragraphs (1) and (2) of section 1308 of this title as being subject to limitation) with respect to a particularfarming operation (whether in the person's own right or as a partner in a general partnership, a grantor of a revocable trust, a participant in a joint venture, or a participant in a similar entity (as determined by the Secretary) that is the producer of the crops involved), a person must be an individual or entity described in section 1308(5)(B)(i) of this title and actively engaged in farming with respect to such operation, as provided under paragraphs (2), (3), and (4).
 
 #### (2) General classes actively engaged in farming
 
@@ -76,7 +76,7 @@ For the purposes of preventing the use of multiple legal entities to avoid the e
 
 #### (A) Landowners
 
-&emsp;&emsp;A person that is a landowner contributing the owned land to the farming operation ifthe landowner receives rent or income for such use of the land based on the land's production or the operation's operating results, and the person meets the standard provided in clauses (ii) and (iii) of paragraph (2)(A).
+&emsp;&emsp;A person that is a landowner contributing the owned land to the farming operation if the landowner receives rent or income for such use of the land based on the land's production or the operation's operating results, and the person meets the standard provided in clauses (ii) and (iii) of paragraph (2)(A).
 
 #### (B) Family members
 
@@ -104,7 +104,7 @@ For the purposes of preventing the use of multiple legal entities to avoid the e
 
 #### (6) Growers of hybrid seed
 
-&emsp;To determine whether a person growing hybrid seed under contract shall be considered to be actively engaged in farming, the Secretary shall not take into consideration the existence of a hybrid seed contract.
+&emsp;To determine whether a person growing hybrid seed under contract shall be considered tobe actively engaged in farming, the Secretary shall not take into consideration the existence of a hybrid seed contract.
 
 (Pub. L. 99–198, title X, §1001A, as added and amended Pub. L. 100–203, title I, §§1301(a)(3), 1302, Dec. 22, 1987, 101 Stat. 1330–12, 1330–14; Pub. L. 101–624, title XI, §1111(d), (f), Nov. 28, 1990, 104 Stat. 3498, 3499; Pub. L. 102–237, title I, §118(c), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 104–127, title I, §115(c)(1), Apr. 4, 1996, 110 Stat. 903.)
 

@@ -74,7 +74,7 @@ Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as 
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of State to be exercised in cooperation with Director of United States International Development Cooperation Agency by section 1–201(a)(7) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56674, as amended, set out as a note under section 2381 of this title. United States International Development Cooperation Agency (other than Agency for International Development and Overseas Private Investment Corporation) abolished and functions and authorities transferred, see sections 6561 and 6562 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Anti-Narcotics Update
 

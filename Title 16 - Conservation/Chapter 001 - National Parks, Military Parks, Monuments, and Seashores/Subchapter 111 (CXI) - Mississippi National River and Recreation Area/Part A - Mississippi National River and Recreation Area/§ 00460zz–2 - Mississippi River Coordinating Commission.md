@@ -110,7 +110,7 @@ Within 3 years after appointment of the full membership of the Commission, the C
 
 #### (j) Development of plan
 
-(1) In developing the plan the Commission shall consult on a regular basis with appropriate officials of any local government or Federal or State agency which has jurisdiction over lands and waters within the Area.
+(1) In developing the plan the Commission shall consult on a regular basis with appropriateofficials of any local government or Federal or State agency which has jurisdiction over lands and waters within the Area.
 
 (2) In developing the plan the Commission shall consult with interested conservation, business, professional and citizen organizations.
 

@@ -22,5 +22,5 @@ Subsec. (b). Pub. L. 98–369, §2673(2), substituted “$10,000,000” for “$
 
 #### Effective Date
 
-Section effective Aug. 13, 1981, except as otherwise provided with respect to applications for adjustment assistance, see section 2529 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 2343 of this title.
+Section effective Aug. 13, 1981, except as otherwise provided with respect to applications for adjustment assistance, see section 2529 of Pub. L. 97–35, set out asan Effective Date of 1981 Amendment note under section 2343 of this title.
 

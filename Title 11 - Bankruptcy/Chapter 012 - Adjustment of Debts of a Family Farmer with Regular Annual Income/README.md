@@ -33,13 +33,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Repeal of Chapter
+#### Termination of Chapter
 
-<i>Pub. L. 99–554, title III, §302(f), Oct. 27, 1986, 100 Stat. 3124, as amended by Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311, provided that, effective Oct. 1, 1998, this chapter is repealed, that all cases commenced or pending under this chapter, and all matters and proceedings in or relating to such cases, shall be conducted and determined under this chapter as if such chapter had not been repealed, and that the substantive rights of parties in connection with such cases, matters, and proceedings shall continue to be governed under the laws applicable to such cases, matters, and proceedings as if such chapter had not been repealed.</i>
+<i>For termination of reenactment of this chapter by section 149(a) of Pub. L. 105–277, as amended, see Repeal, Reenactment, and Termination of Chapter note set out under section 1201 of this title.</i>
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 101, 103, 109, 321, 326, 327, 329, 330, 346, 347, 362, 363, 365, 502, 706, 1106, 1112, 1306, 1307 of this title; title 7 section 2005; title 20 section 1087; title 28 sections 157, 586, 1930.
+This chapter is referred to in sections 101, 103, 109, 321, 326, 327, 329, 330, 346, 347, 362, 363, 365, 502, 706, 1106, 1112, 1306, 1307 of this title; title 7 sections 2005, 2008h; title 20 section 1087; title 28 sections 157, 586, 1930.
 
 
 ---

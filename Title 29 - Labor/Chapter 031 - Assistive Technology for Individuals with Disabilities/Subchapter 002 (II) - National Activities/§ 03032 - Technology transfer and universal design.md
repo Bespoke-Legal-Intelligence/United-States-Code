@@ -10,7 +10,7 @@ In promoting the technology transfer, the Director and the Consortium described 
 
 &emsp;(1) to enable the National Institute on Disability and Rehabilitation Research to work more effectively with the Consortium, and to enable the Consortium to fulfill the responsibilities of the Consortium to assist Federal agencies with technology transfer under the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq);
 
-&emsp;(2) to increase the awareness of staff members of the Federal Laboratories regarding assistive technology issues and the principles of universal design;
+&emsp;(2) to increase the awareness of staff members of the Federal Laboratories regardingassistive technology issues and the principles of universal design;
 
 &emsp;(3) to compile a compendium of current and projected Federal Laboratory technologies and projects that have or will have an intended or recognized impact on the available range of assistive technology for individuals with disabilities, including technologies and projects that incorporate the principles of universal design, as appropriate;
 

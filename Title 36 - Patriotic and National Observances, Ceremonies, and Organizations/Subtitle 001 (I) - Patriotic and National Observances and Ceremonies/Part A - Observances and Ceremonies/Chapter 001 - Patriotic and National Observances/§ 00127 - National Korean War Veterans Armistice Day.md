@@ -34,5 +34,7 @@ July 27, 1995, Pub. L. 104–19, title II, §2005, 109 Stat. 247.
 
 36:169m (words after “Armistice Day’ ”).
 
+&nbsp;
+
 In subsection (b)(2), the words “departments, agencies, and instrumentalities” are substituted for “departments and agencies of the United States” for consistency in the revised title and with other titles of the United States Code.
 

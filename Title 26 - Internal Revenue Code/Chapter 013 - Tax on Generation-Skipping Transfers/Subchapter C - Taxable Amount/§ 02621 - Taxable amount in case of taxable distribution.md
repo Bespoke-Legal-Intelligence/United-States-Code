@@ -6,7 +6,7 @@ For purposes of this chapter, the taxable amount in the case of any taxable dist
 
 &emsp;(1) the value of the property received by the transferee, reduced by
 
-&emsp;(2) any expense incurred by the transferee in connection with the determination, collection,or refund of the tax imposed by this chapter with respect to such distribution.
+&emsp;(2) any expense incurred by the transferee in connection with the determination, collection, or refund of the tax imposed by this chapter with respect to such distribution.
 
 #### (b) Payment of GST tax treated as taxable distribution
 

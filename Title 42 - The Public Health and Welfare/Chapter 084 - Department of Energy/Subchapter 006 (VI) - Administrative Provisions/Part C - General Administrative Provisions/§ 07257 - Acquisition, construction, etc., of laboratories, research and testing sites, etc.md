@@ -4,6 +4,62 @@ The Secretary is authorized to acquire (by purchase, lease, condemnation, or oth
 
 (Pub. L. 95–91, title VI, §647, Aug. 4, 1977, 91 Stat. 599.)
 
+#### Pilot Program for Project Management Oversight Regarding Department of Energy Construction Projects
+
+Pub. L. 106–65, div. C, title XXXI, §3175, Oct. 5, 1999, 113 Stat. 950, provided that:
+
+“(a)
+
+Requirement.—(1) The Secretary of Energy shall carry out a pilot program on use of project management oversight services (in this section referred to as ‘PMO services’) for construction projects of the Department of Energy.
+
+“(2) The purpose of the pilot program shall be to provide a basis for determining whether or not the use of competitively procured, external PMO services for those construction projects would permit the Department to control excessive costs and schedule delays associated with those construction projects that have large capital costs.
+
+“(b)
+
+Projects Covered by Program.—(1) Subject to paragraph (2), the Secretary shall carry out the pilot program at construction projects selected by the Secretary. The projects shall include one or more construction projects authorized pursuant to section 3101 \[113 Stat. 915\] and one construction project authorized pursuant to section 3102 \[113 Stat. 917\].
+
+“(2) Each project selected by the Secretary shall be a project having capital construction costs anticipated to be not less than $25,000,000.
+
+“(c)
+
+Services Under Program.—The PMO services used under the pilot program shall include the following services:
+
+&emsp;“(1) Monitoring the overall progress of a project.
+
+&emsp;“(2) Determining whether or not a project is on schedule.
+
+&emsp;“(3) Determining whether or not a project is within budget.
+
+&emsp;“(4) Determining whether or not a project conforms with plans and specifications approved by the Department.
+
+&emsp;“(5) Determining whether or not a project is being carried out efficiently and effectively.
+
+&emsp;“(6) Any other management oversight services that the Secretary considers appropriate for purposes of the pilot program.
+
+“(d)
+
+Procurement of Services Under Program.—Any PMO services procured under the pilot program shall be acquired—
+
+&emsp;“(1) on a competitive basis; and
+
+&emsp;“(2) from among commercial entities that—
+
+&emsp;&emsp;“(A) do not currently manage or operate facilities at a location where the pilot program is being conducted; and
+
+&emsp;&emsp;“(B) have an expertise in the management of large construction projects.
+
+“(e)
+
+Report.—Not later than February 1, 2000, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program. The report shall include the assessment of the Secretary as to the feasibility and desirability of using PMO services for construction projects of the Department.”
+
+#### Laboratory Funding Plan
+
+Pub. L. 106–60, title III, §310, Sept. 29, 1999, 113 Stat. 496, provided that:
+
+“(a) None of the funds in this Act or any future Energy and Water Development Appropriations Act may be expended after December 31 of each year under a covered contract unless the funds are expended in accordance with a Laboratory Funding Plan that has been approved by the Secretary of Energy. At the beginning of each fiscal year, the Secretary shall issue directions to the laboratories for the programs, projects, and activities to be conducted in that fiscal year. The Secretary and the Laboratories shall devise a Laboratory Funding Plan that identifies the resources needed to carry out these programs, projects, and activities. Funds shall be released to the Laboratories only after the Secretary has approved the Laboratory Funding Plan. The Secretary of Energy may provide exceptions to this requirement as the Secretary considers appropriate.
+
+“(b) For purposes of this section, ‘covered contract’ means a contract for the management and operation of the following laboratories: Argonne National Laboratory, Brookhaven National Laboratory, Idaho National Engineering and Environmental Laboratory, Lawrence Berkeley National Laboratory, Lawrence Livermore National Laboratory, Los Alamos National Laboratory, Oak Ridge National Laboratory, Pacific Northwest National Laboratory, and Sandia National Laboratories.”
+
 #### Termination or Changes in Activities of Government-Owned and Contractor-Operated Facilities, National Laboratories, Etc.; Reports by Secretary of Energy Concerning Proposals Prior to Implementation; Contents; Submission Date
 
 Pub. L. 95–238, title I, §104(c), Feb. 25, 1978, 92 Stat. 53, provided that: “As part of the Department of Energy's responsibility to keep the Congress fully and currently informed, the Secretary shall make the following reports:

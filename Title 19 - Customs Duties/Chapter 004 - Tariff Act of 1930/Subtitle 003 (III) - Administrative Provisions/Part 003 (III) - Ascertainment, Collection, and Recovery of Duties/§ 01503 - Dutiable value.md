@@ -2,7 +2,7 @@
 
 Except as provided in section 1520(c) of this title (relating to reliquidations on the basis of authorized corrections of errors) or section 1562 of this title (relating to withdrawal from manipulating warehouses), the basis for the assessment of duties on imported merchandise subject to ad valorem rates of duty or rates based upon or regulated in any manner by the value of the merchandise, shall be the appraised value determined upon liquidation, in accordance with section 1500 of this title or any adjustment thereof made pursuant to section 1501 of this title. <i>Provided, however</i>, That if reliquidation is required pursuant to a final judgment or order of the United States Court of International Trade which includes a reappraisement of imported merchandise, the basis for such assessment shall be the final appraised value determined by such court.
 
-(June 17, 1930, ch. 497, title IV, §503, 46 Stat. 731; Aug. 8, 1953, ch. 397, §18(d), 67 Stat. 518; Pub. L.91–271, title II, §206, June 2, 1970, 84 Stat. 284; Pub. L. 96–417, title VI, §601(4), Oct. 10, 1980, 94 Stat. 1744.)
+(June 17, 1930, ch. 497, title IV, §503, 46 Stat. 731; Aug. 8, 1953, ch. 397, §18(d), 67 Stat. 518; Pub. L. 91–271, title II, §206, June 2, 1970, 84 Stat. 284; Pub. L. 96–417, title VI, §601(4), Oct. 10, 1980, 94 Stat. 1744.)
 
 #### Prior Provisions
 

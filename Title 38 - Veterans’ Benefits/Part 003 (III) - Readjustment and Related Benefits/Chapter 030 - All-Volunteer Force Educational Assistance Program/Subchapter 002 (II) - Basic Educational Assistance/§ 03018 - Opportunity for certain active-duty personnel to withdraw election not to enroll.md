@@ -42,7 +42,7 @@
 
 (d) A withdrawal under subsection (b)(1) of this section is irrevocable.
 
-(Added Pub. L. 100–689, title I, §103(a), Nov. 18, 1988, 102 Stat. 4164, §1418; amended Pub. L. 101–237, title IV, §423(b)(1)(A), (4)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §10(a)(2), Mar. 22, 1991, 105 Stat. 55; renumbered §3018 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §506(b)(2), Aug. 14, 1991, 105 Stat. 426; Pub. L. 102–568, title III, §309(a), Oct. 29, 1992, 106 Stat. 4329; Pub. L. 105–368, title II, §203(a), Nov. 11, 1998, 112 Stat. 3326.)
+(Added Pub. L. 100–689, title I, §103(a), Nov. 18, 1988, 102 Stat. 4164, §1418; amended Pub. L. 101–237, title IV, §423(b)(1)(A), (4)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §10(a)(2), Mar.22, 1991, 105 Stat. 55; renumbered §3018 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §506(b)(2), Aug. 14, 1991, 105 Stat. 426; Pub. L. 102–568, title III, §309(a), Oct. 29, 1992, 106 Stat. 4329; Pub. L. 105–368, title II, §203(a), Nov. 11, 1998, 112 Stat. 3326.)
 
 #### Amendments
 

@@ -22,7 +22,7 @@ In determining his income tax, each partner shall take into account separately h
 
 #### (b) Character of items constituting distributive share
 
-The character of any item of income, gain, loss, deduction, or credit included in a partner's distributive share under paragraphs (1) through\(7) of subsection (a) shall be determined as if such item were realized directly from the source from which realized by the partnership, or incurred in the same manner as incurred by the partnership.
+The character of any item of income, gain, loss, deduction, or credit included in a partner's distributive share under paragraphs (1) through (7) of subsection (a) shall be determined as if such item were realized directly from the source from which realized by the partnership, or incurred in the same manner as incurred by the partnership.
 
 #### (c) Gross income of a partner
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 301(b)(5) of Pub. L. 97–34 applicable to taxable years ending after Sept. 30, 1981, and amendment by section 301(b)(6)(C) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 301(d) of Pub. L. 97–34, set out as a note under section 265 of this title.
+Amendment by section 301(b)(5) of Pub. L. 97–34 applicable to taxable years ending after Sept. 30, 1981, andamendment by section 301(b)(6)(C) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 301(d) of Pub. L. 97–34, set out as a note under section 265 of this title.
 
 #### Effective and Termination Dates of 1980 Amendment
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 349, 377, 501, 1818 of this title; title 7 section 6f; title 15 sections 78<i>o</i>–5, 78q.
+This subchapter is referred to in sections 349, 501, 1818 of this title; title 7 section 6f; title 15 sections 78<i>o</i>–5, 78q.
 
 
 ---

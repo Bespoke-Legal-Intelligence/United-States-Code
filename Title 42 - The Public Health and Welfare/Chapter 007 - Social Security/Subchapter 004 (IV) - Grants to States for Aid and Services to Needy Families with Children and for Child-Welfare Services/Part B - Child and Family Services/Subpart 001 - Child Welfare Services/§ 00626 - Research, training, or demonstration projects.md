@@ -20,7 +20,7 @@ There are hereby authorized to be appropriated for each fiscal year such sums as
 
 (2) The demonstration projects conducted under this section may include—
 
-&emsp;(A) multidisciplinary projects designed to prevent the inappropriate hospitalization of infants and to allow infants described in paragraph (1) to remain with or return to a parent in a residential setting, where appropriate care for the infant and suitable treatment for the parent (including treatment for drug or alcohol addiction) may be assured, with the goal (where possible) of rehabilitating the parent and eliminating the need for such care for the infant;
+&emsp;(A) multidisciplinary projects designed to prevent the inappropriate hospitalization of infants and to allow infants described in paragraph (1) to remain with or return to a parent in a residential setting, where appropriatecare for the infant and suitable treatment for the parent (including treatment for drug or alcohol addiction) may be assured, with the goal (where possible) of rehabilitating the parent and eliminating the need for such care for the infant;
 
 &emsp;(B) multidisciplinary projects that assure appropriate, individualized care for such infants in a foster home or other non-medical residential setting in cases where such infant does not require hospitalization and would otherwise remain in inappropriate hospital settings, including projects to demonstrate methods to recruit, train, and retain foster care families; and
 

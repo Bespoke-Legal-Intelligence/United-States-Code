@@ -48,7 +48,7 @@ The Commercial Service shall place primary emphasis on the promotion of exports 
 
 #### (2) Headquarters
 
-&emsp;The headquarters of the Commercial Service shall provide such managerial, administrative,research, and other services as the Secretary considers necessary to carry out the purposes of the Commercial Service.
+&emsp;The headquarters of the Commercial Service shall provide such managerial, administrative, research, and other services as the Secretary considers necessary to carry out the purposes of the Commercial Service.
 
 #### (3) District offices
 

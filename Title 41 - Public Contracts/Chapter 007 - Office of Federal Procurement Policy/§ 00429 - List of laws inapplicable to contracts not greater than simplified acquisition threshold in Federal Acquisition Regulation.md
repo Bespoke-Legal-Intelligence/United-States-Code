@@ -4,7 +4,7 @@
 
 (1) The Federal Acquisition Regulation shall include a list of provisions of law that are inapplicable to contracts or subcontracts in amounts not greater than the simplified acquisition threshold. A provision of law that is properly included on the list pursuant to paragraph (2) may not be construed as applicable to such contracts or subcontracts (as the case may be) by an executive agency. Nothing in this section shall be construed to render inapplicable to contracts and subcontracts in amounts not greater than the simplified acquisition threshold any provision of law that is not included on such list.
 
-(2) A provision of law described in subsection (b) of this section that is enacted after October13, 1994, shall be included on the list of inapplicable provisions of law required by paragraph (1), unless the Federal Acquisition Regulatory Council makes a written determination that it would not be in the best interest of the Federal Government to exempt contracts or subcontracts in amounts not greater than the simplified acquisition threshold from the applicability of the provision.
+(2) A provision of law described in subsection (b) of this section that is enacted after October 13, 1994, shall be included on the list of inapplicable provisions of law required by paragraph (1), unless the Federal Acquisition Regulatory Council makes a written determination that it would not be in the best interest of the Federal Government to exempt contracts or subcontracts in amounts not greater than the simplified acquisition threshold from the applicability of the provision.
 
 #### (b) Covered law
 

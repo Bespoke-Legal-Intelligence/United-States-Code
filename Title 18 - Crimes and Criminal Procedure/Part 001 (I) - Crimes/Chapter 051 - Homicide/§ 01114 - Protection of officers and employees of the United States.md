@@ -124,7 +124,7 @@ Section 802(g)(3) of Pub. L. 96–466 provided in part that the amendment made b
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub.L. 95–630, set out as an Effective Date note under section 375b of Title 12, Banks and Banking.
+Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as an Effective Date note under section 375b of Title 12, Banks and Banking.
 
 #### Effective Date of 1970 Amendments
 

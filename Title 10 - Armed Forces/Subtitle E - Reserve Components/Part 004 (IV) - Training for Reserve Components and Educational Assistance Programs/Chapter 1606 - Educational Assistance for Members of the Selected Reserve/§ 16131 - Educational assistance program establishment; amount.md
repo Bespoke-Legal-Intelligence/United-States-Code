@@ -2,7 +2,7 @@
 
 (a) To encourage membership in units of the Selected Reserve of the Ready Reserve, the Secretary of each military department, under regulations prescribed by the Secretary of Defense, and the Secretary of Transportation, under regulations prescribed by the Secretary with respect to the Coast Guard when it is not operating as a service in the Navy, shall establish and maintain a program to provide educational assistance to members of the Selected Reserve of the Ready Reserve of the armed forces under the jurisdiction of the Secretary concerned who agree to remain members of the Selected Reserve for a period of not less than six years.
 
-(b)(1) Except as provided <sup>1</sup> subsections (d) through (f), each educational assistance program established under subsection (a) shall provide for payment by the Secretary concerned, through the Secretary of Veterans Affairs, to each person entitled to educational assistance under this chapter who is pursuing a program of education of an educational assistance allowance at the following rates:
+(b)(1) Except as provided in subsections (d) through (f), each educational assistance program established under subsection (a) shall provide for payment by the Secretary concerned, through the Secretary of Veterans Affairs, to each person entitled to educational assistance under this chapter who is pursuing a program of education of an educational assistance allowance at the following rates:
 
 &emsp;(A) $251 (as increased from time to time under paragraph (2)) per month for each month of full-time pursuit of a program of education;
 
@@ -84,13 +84,13 @@
 
 (B) The Secretary of Veterans Affairs shall not approve individualized tutorial assistance for a person pursuing a program of education under this paragraph unless such assistance is necessary for the person to successfully complete the program of education.
 
-(2)(A) Subject to subparagraph (B), the Secretary concerned, through the Secretary of Veterans Affairs, shall pay to a person receiving individualized tutorial assistance pursuant to paragraph (1) a tutorial assistance allowance. The amount of the allowance payable under this paragraph may not exceed $100 for any month, nor aggregate more than $1,200. The amount of the allowance paid under this paragraph shall bein addition to the amount of educational assistance allowance payable to a person under this chapter.
+(2)(A) Subject to subparagraph (B), the Secretary concerned, through the Secretary of Veterans Affairs, shall pay to a person receiving individualized tutorial assistance pursuant to paragraph (1) a tutorial assistance allowance. The amount of the allowance payable under this paragraph may not exceed $100 for any month, nor aggregate more than $1,200. The amount of the allowance paid under this paragraph shall be in addition to the amount of educational assistance allowance payable to a person under this chapter.
 
 (B) A tutorial assistance allowance may not be paid to a person under this paragraph until the educational institution at which the person is enrolled certifies that—
 
 &emsp;(i) the individualized tutorial assistance is essential to correct a deficiency of the person in a subject required as a part of, or which is prerequisite to, or which is indispensable to the satisfactory pursuit of, an approved program of education;
 
-&emsp;(ii) the tutor chosen to perform such assistance is qualified to provide such assistance and is not the person's parent, spouse, child (whether or not married or over eighteen years of age), brother, or sister; and
+&emsp;(ii) the tutor chosen to perform such assistance is qualified to provide such assistanceand is not the person's parent, spouse, child (whether or not married or over eighteen years of age), brother, or sister; and
 
 &emsp;(iii) the charges for such assistance do not exceed the customary charges for such tutorial assistance.
 
@@ -106,9 +106,11 @@
 
 (3) The authority provided by paragraphs (1) and (2) shall be exercised by the Secretaries concerned under regulations prescribed by the Secretary of Defense.
 
-(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 328, §2131; amended Pub. L. 96–107, title IV, §402(a), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–342, title IX, §906(a)(1), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 96–513, title V, §511(68), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2565; Pub. L. 100–689, title I, §§110(a), 111(b)(1), Nov. 18, 1988, 102 Stat. 4170, 4172; Pub. L. 101–189, div. A, title VI, §§642(a), (b), 645(a)(1), (b)(1), Nov. 29, 1989, 103 Stat. 1456, 1458; Pub. L. 101–237, title IV, §422(b)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–25, title III, §337(b), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–127, §2(d), Oct. 10, 1991, 105 Stat. 621; Pub. L. 102–568, title III, §§301(b), (d), 310(b), 318, 320(a)(1), Oct. 29, 1992, 106 Stat. 4326, 4330, 4334, 4335; Pub. L. 103–66, title XII, §12009(b), Aug. 10, 1993, 107 Stat. 416; Pub. L. 103–160, div. A, title V, §518, Nov. 30, 1993, 107 Stat. 1651; renumbered §16131 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (3), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title X, §1076, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–275, title I, §105(d), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–85, div. A, title V, §553(a), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 105–178, title VIII, §8203(b)(1)–(3), June 9, 1998, 112 Stat. 493, 494.)
+(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 328, §2131; amended Pub. L. 96–107, title IV, §402(a), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–342, title IX, §906(a)(1), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 96–513, title V, §511(68), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2565; Pub. L. 100–689, title I, §§110(a), 111(b)(1), Nov. 18, 1988, 102 Stat. 4170, 4172; Pub. L. 101–189, div. A, title VI, §§642(a), (b), 645(a)(1), (b)(1), Nov. 29, 1989, 103 Stat. 1456, 1458; Pub. L. 101–237, title IV, §422(b)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–25, title III, §337(b), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–127, §2(d), Oct. 10, 1991, 105 Stat. 621; Pub. L. 102–568, title III, §§301(b), (d), 310(b), 318, 320(a)(1), Oct. 29, 1992, 106 Stat. 4326, 4330, 4334, 4335; Pub. L. 103–66, title XII, §12009(b), Aug. 10, 1993, 107 Stat. 416; Pub. L. 103–160, div. A, title V, §518, Nov. 30, 1993, 107 Stat. 1651; renumbered §16131 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (3), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title X, §1076, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–275, title I, §105(d), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–85, div. A, title V, §553(a), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 105–178, title VIII, §8203(b)(1)–(3), June 9, 1998, 112 Stat. 493, 494; Pub. L. 106–65, div. A, title X, §1066(a)(33), Oct. 5, 1999, 113 Stat. 772.)
 
 #### Amendments
+
+1999—Subsec. (b)(1). Pub. L. 106–65 inserted “in” after “Except as provided” in introductory provisions.
 
 1998—Subsec. (b)(1). Pub. L. 105–178, §8203(b)(3), struck out “in paragraph (2) and” after “Except as provided” in introductory provisions.
 
@@ -140,7 +142,7 @@ Subsec. (c)(3)(B)(i). Pub. L. 103–337, §1663(b)(3)(A), substituted “12301(a
 
 Subsec. (g)(1). Pub. L. 103–337, §1663(b)(3)(B), substituted “16136(c)” for “2136(c)”.
 
-1993—Subsec. (b)(2). Pub. L. 103–66 struck out subpar. (A), struck out subpar. (B) designation before “With respect to”, redesignated former cls. (i) and (ii) as subpars. (A) and (B), respectively, and in subpar. (B) substituted “subparagraph (A)” for “clause (i)”. Prior to amendment, subpar. (A) read as follows: “With respect to the fiscal year beginning on October 1, 1993, the Secretary shall provide a percentage increase in the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1) equal to the percentage by which the Consumer Price Index (all items, United States city average, published by the Bureau of Labor Statistics) for the 12-month period ending June 30, 1993, exceeds such Consumer Price Index for the 12-month period ending June 30, 1992.”
+1993—Subsec. (b)(2). Pub. L. 103–66 struck out subpar. (A), struck out subpar. (B) designation before “With respect to”, redesignated former cls. (i) and (ii) as subpars. (A) and (B), respectively, and in subpar. (B) substituted “subparagraph (A)” for “clause (i)”. Prior to amendment, subpar. (A) read as follows: “With respect to the fiscal year beginning on October 1, 1993, the Secretary shall provide a percentage increase in themonthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1) equal to the percentage by which the Consumer Price Index (all items, United States city average, published by the Bureau of Labor Statistics) for the 12-month period ending June 30, 1993, exceeds such Consumer Price Index for the 12-month period ending June 30, 1992.”
 
 Subsec. (c)(1). Pub. L. 103–160, §518(1), struck out “other than a program of education in a course of instruction beyond the baccalaureate degree level” after “title 38”.
 
@@ -245,6 +247,4 @@ Section 12009(c) of Pub. L. 103–66 provided that: “The fiscal year 1995 cost
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2131, 16132, 16135 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “provided in”.</i>
 

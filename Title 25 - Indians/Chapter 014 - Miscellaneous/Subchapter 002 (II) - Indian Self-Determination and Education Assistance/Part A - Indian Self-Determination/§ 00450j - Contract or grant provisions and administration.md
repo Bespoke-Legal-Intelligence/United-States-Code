@@ -16,7 +16,7 @@
 
 (B) A list of the Federal requirements that meet the requirements of clauses (i) through (iii) of subparagraph (A) shall be included in an attachment to the contract pursuant to negotiations between the Secretary and the tribal organization.
 
-(C)(i) Except as provided in subparagraph (B), no Federal law listed in clause (ii) or any other provision of Federal law (including an Executive order) relating to acquisition by the Federal Government shall apply to a construction contract that a tribe or tribal organization enters into under this subchapter, unless expressly provided in such law.
+(C)(i) Except as provided in subparagraph (B), no Federal law listed in clause (ii) or any other provision of Federal law (including an Executiveorder) relating to acquisition by the Federal Government shall apply to a construction contract that a tribe or tribal organization enters into under this subchapter, unless expressly provided in such law.
 
 (ii) The laws listed in this paragraph are as follows:
 
@@ -86,7 +86,7 @@ In connection with any self-determination contract or grant made pursuant to sec
 
 &emsp;&emsp;(A) subject to the provisions of subparagraph (B), title to property and equipment furnished by the Federal Government for use in the performance of the contract or purchased with funds under any self-determination contract or grant agreement shall, unless otherwise requested by the tribe or tribal organization, vest in the appropriate tribe or tribal organization;
 
-&emsp;&emsp;(B) if property described in subparagraph (A) has a value in excess of $5,000 at the time of the retrocession, rescission, or termination of the self-determination contract or grant agreement, at the option of the Secretary, upon the retrocession, rescission, or termination, title to such property and equipment shall revert to the Department of the Interior or the Department of Health and Human Services, as appropriate; and
+&emsp;&emsp;(B) if property described in subparagraph (A) has a value in excess of $5,000 at the time of the retrocession, rescission, or termination of the self-determination contract or grant agreement, at the option of the Secretary, upon the retrocession, rescission, ortermination, title to such property and equipment shall revert to the Department of the Interior or the Department of Health and Human Services, as appropriate; and
 
 &emsp;&emsp;(C) all property referred to in subparagraph (A) shall remain eligible for replacement on the same basis as if title to such property were vested in the United States; and
 
@@ -128,7 +128,7 @@ For purposes of section 201(a) of the Federal Property and Administrative Servic
 
 &emsp;(B) section 314 of the Department of the Interior and Related Agencies Appropriations Act, 1991 (104 Stat. 1959).
 
-(2) In providing technical assistance to tribes and tribal organizations in the development of construction contract proposals, the Secretary shall provide, not later than 30 days after receiving a request from a tribe or tribal organization, all information available to the Secretary regarding the construction project, including construction drawings, maps, engineering reports, design reports, plans of requirements, cost estimates, environmental assessments or environmental impact reports, and archaeological reports.
+(2) In providing technical assistance to tribes and tribal organizations in the development of construction contract proposals, the Secretaryshall provide, not later than 30 days after receiving a request from a tribe or tribal organization, all information available to the Secretary regarding the construction project, including construction drawings, maps, engineering reports, design reports, plans of requirements, cost estimates, environmental assessments or environmental impact reports, and archaeological reports.
 
 (3) Prior to finalizing a construction contract proposal pursuant to section 450f(a) of this title, and upon request of the tribe or tribal organization that submits the proposal, the Secretary shall provide for a precontract negotiation phase in the development of a contract proposal. Such phase shall include, at a minimum, the following elements:
 
@@ -136,7 +136,7 @@ For purposes of section 201(a) of the Federal Property and Administrative Servic
 
 &emsp;(B) A joint scoping session between the Secretary and the tribe or tribal organization to review all plans, specifications, engineering reports, cost estimates, and other information available to the parties, for the purpose of identifying all areas of agreement and disagreement.
 
-&emsp;(C) An opportunity for the Secretary to revise the plans, designs, or cost estimates ofthe Secretary in response to concerns raised, or information provided by, the tribe or tribal organization.
+&emsp;(C) An opportunity for the Secretary to revise the plans, designs, or cost estimates of the Secretary in response to concerns raised, or information provided by, the tribe or tribal organization.
 
 &emsp;(D) A negotiation session during which the Secretary and the tribe or tribal organization shall seek to develop a mutually agreeable contract proposal.
 
@@ -180,7 +180,7 @@ Notwithstanding any other provision of law, the rental rates for housing provide
 
 The Office of Federal Procurement Policy Act, referred to in subsec. (a)(3)(A), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, as amended, which is classified principally to chapter 7 (§401 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 41 and Tables.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a)(3)(C)(ii)(I), (IV), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the Act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a)(3)(C)(ii)(I), (IV), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the Act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41. Forcomplete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 Section 9(c) of the Act of Aug. 2, 1946, referred to in subsec. (a)(3)(C)(ii)(III), is section 9(c) of act Aug. 2, 1946, ch. 744, 60 Stat. 809, which amended section 5 of Title 41.
 
@@ -236,7 +236,7 @@ Subsec. (c). Pub. L. 100–472, §204(e), added subsec. (c) and struck out forme
 
 Subsec. (d). Pub. L. 100–472, §204(e), added subsec. (d) and struck out former subsec. (d) which related to revision or amendment of contracts or grants at request or with consent of tribal organization and effective date for retrocession of contracts.
 
-Subsec. (e). Pub. L. 100–472, §204(e), added subsec. (e) and struck out former subsec. (e) which authorized the Secretary to permit tribal organizations to use existing school buildings, hospitals, and other facilities and equipment therein in carrying out grants or contracts.
+Subsec. (e). Pub. L. 100–472, §204(e), added subsec. (e) and struck out former subsec. (e) which authorized theSecretary to permit tribal organizations to use existing school buildings, hospitals, and other facilities and equipment therein in carrying out grants or contracts.
 
 Subsec. (f). Pub. L. 100–472, §204(e), added subsec. (f). Former subsec. (f) redesignated (g).
 

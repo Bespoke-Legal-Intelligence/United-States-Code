@@ -88,7 +88,7 @@
 
 &emsp;&emsp;&emsp;(i) an assessment of drug use and availability in the United States; and
 
-&emsp;&emsp;&emsp;(ii) an estimate of the effectiveness of interdiction, treatment, prevention, law enforcement, and international programsunder the National Drug Control Strategy in effect during the preceding year, or in effect as of the date on which the report is submitted;
+&emsp;&emsp;&emsp;(ii) an estimate of the effectiveness of interdiction, treatment, prevention, law enforcement, and international programs under the National Drug Control Strategy in effect during the preceding year, or in effect as of the date on which the report is submitted;
 
 &emsp;&emsp;(B) any modifications of the National Drug Control Strategy or the performance measurement system described in subsection (c) of this section;
 
@@ -168,7 +168,7 @@
 
 &emsp;&emsp;(A) the targets described in subsection (a) of this section are important to the reduction of overall drug use in the United States;
 
-&emsp;&emsp;(B) the President should seek to achieve those targets during the 5 years covered bythe National Drug Control Strategy required to be submitted under subsection (a) of this section;
+&emsp;&emsp;(B) the President should seek to achieve those targets during the 5 years covered by the National Drug Control Strategy required to be submitted under subsection (a) of this section;
 
 &emsp;&emsp;(C) the purpose of such targets and the annual reports to Congress on the progress towards achieving the targets is to allow for the annual restructuring of appropriations by the Appropriations Committees and authorizing committees of jurisdiction of Congress to meet the goals described in this chapter;
 

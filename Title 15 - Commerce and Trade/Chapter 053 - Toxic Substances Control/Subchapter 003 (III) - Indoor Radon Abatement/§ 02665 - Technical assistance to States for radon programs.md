@@ -94,7 +94,7 @@ The Administrator, or another Federal department or agency designated by the Adm
 
 #### (e) Authorization
 
-(1) There is authorized to be appropriated for the purposes of carrying out sections 2663, 2664,and 2665 of this title an amount not to exceed $3,000,000 for each of fiscal years 1989, 1990, and 1991.
+(1) There is authorized to be appropriated for the purposes of carrying out sections 2663, 2664, and 2665 of this title an amount not to exceed $3,000,000 for each of fiscal years 1989, 1990, and 1991.
 
 (2) No amount appropriated under this subsection may be used by the Environmental Protection Agency to administer the grant program under section 2666 of this title.
 

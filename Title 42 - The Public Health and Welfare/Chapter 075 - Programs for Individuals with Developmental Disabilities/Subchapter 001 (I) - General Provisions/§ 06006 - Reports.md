@@ -14,7 +14,7 @@ By January 1 of each year, each State Developmental Disabilities Council shall p
 
 &emsp;(5) a description of—
 
-&emsp;&emsp;(A) the trends and progress made in the State concerning systemic change (including policy reform), capacity building, advocacy, and other actions on behalf of individuals with developmental disabilities, with attention to individuals who are traditionally unserved and underserved, particularly individuals who are members of ethnic and racial minority groups, and individuals from underserved geographic areas;
+&emsp;&emsp;(A) the trends and progress made in the State concerning systemic change (including policy reform), capacity building, advocacy, and other actions on behalf of individualswith developmental disabilities, with attention to individuals who are traditionally unserved and underserved, particularly individuals who are members of ethnic and racial minority groups, and individuals from underserved geographic areas;
 
 &emsp;&emsp;(B) systemic change, capacity building, and advocacy activities that affect individuals with disabilities other than developmental disabilities; and
 
@@ -26,7 +26,7 @@ By January 1 of each year, each State Developmental Disabilities Council shall p
 
 #### (b) Protection and advocacy system reports
 
-By January 1 of each year, each protection and advocacy system established in a State pursuant to subchapter III of this chapter shall prepare and transmit to the Secretary a reportwhich describes the activities, accomplishments, and expenditures of the system during the preceding fiscal year, including a description of the system's priorities for such fiscal year, the process used to obtain public input, the nature of such input, and how such input was used.
+By January 1 of each year, each protection and advocacy system established in a State pursuant to subchapter III of this chapter shall prepare and transmit to the Secretary a report which describes the activities, accomplishments, and expenditures of the system during the preceding fiscal year, including a description of the system's priorities for such fiscal year, the process used to obtain public input, the nature of such input, and how such input was used.
 
 #### (c) Secretary reports
 
@@ -72,7 +72,7 @@ Subsec. (a)(4). Pub. L. 103–230, §108(b)(1)(D), substituted “State Developm
 
 Subsec. (a)(5) to (7). Pub. L. 103–230, §108(b)(1)(E), (F), added pars. (5) to (7) and struck out former par. (5) which read as follows: “a description of the progress made in the State in, and any identifiable trends concerning, the setting of priorities for, policy reform concerning, advocacy for, and other actions on behalf of and with persons with developmental disabilities which are attributable to physical impairment, mental impairment, or a combination of physical and mental impairments, particularly unserved and underserved groups, including any other subpopulation of persons with developmental disabilities (including minorities), and a summary of actions taken to improve access to and services for unserved and underserved groups that the State Planning Council may have identified.”
 
-Subsec. (b). Pub. L. 103–230, §108(b)(2), inserted heading and inserted in text before period at end “, including a description of the system's priorities for such fiscal year, the process used to obtain public input, the nature of such input, and how such input was used”.
+Subsec. (b). Pub. L. 103–230, §108(b)(2), inserted heading and inserted in text before period at end“, including a description of the system's priorities for such fiscal year, the process used to obtain public input, the nature of such input, and how such input was used”.
 
 Subsec. (c). Pub. L. 103–230, §108(b)(3)(C), inserted heading.
 
@@ -86,7 +86,7 @@ Subsec. (c)(1)(C). Pub. L. 103–230, §108(b)(3)(E)(ii), added subpar. (C) and 
 
 Subsec. (c)(1)(D). Pub. L. 103–230, §108(b)(3)(E)(iii), substituted “individuals” for “persons”.
 
-Subsec. (c)(2). Pub. L. 103–230, §108(b)(3)(B), (F), inserted heading and in text substituted “include andanalyze” for “use and include”, struck out “to the Secretary” after “information submitted”, and realigned margins.
+Subsec. (c)(2). Pub. L. 103–230, §108(b)(3)(B), (F), inserted heading and in text substituted “include and analyze” for “use and include”, struck out “to the Secretary” after “information submitted”, and realigned margins.
 
 1990—Subsec. (a)(4). Pub. L. 101–496, §6(1)(A), substituted “any intermediate care facility for the mentally retarded in such State, and with respect to each annual survey report prepared pursuant to section 1396a(a)(31)(C) of this title and each correction or reduction plan prepared pursuant to section 1396r–3 of this title” for “each annual survey report and plan of corrections for cited deficiencies prepared pursuant to section 1396a(a)(31)(B) of this title with respect to any intermediate care facility for the mentally retarded in such State”.
 

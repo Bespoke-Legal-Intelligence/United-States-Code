@@ -2,7 +2,7 @@
 
 #### (a) Maintenance of records by recipients of assistance
 
-Each recipient of adjustment assistance under section 1913, 1914, or 1917 <sup>1</sup> of this title, shallkeep records which fully disclose the amount and disposition by such recipient of the proceeds, if any, of such adjustment assistance, and which will facilitate an effective audit. The recipient shall also keep such other records as the Secretary of Commerce may prescribe.
+Each recipient of adjustment assistance under section 1913, 1914, or 1917 <sup>1</sup> of this title, shall keep records which fully disclose the amount and disposition by such recipient of the proceeds, if any, of such adjustment assistance, and which will facilitate an effective audit. The recipient shall also keep such other records as the Secretary of Commerce may prescribe.
 
 #### (b) Access to books, documents, papers, and records for purpose of audit and examination
 

@@ -20,7 +20,7 @@ Subject to such limitations as may be provided for under this section, the Board
 
 &emsp;(C) conduct of outreach activities to establish new local Congressional Award Councils, particularly in inner-city areas and rural areas;
 
-&emsp;(D) in addition to those activities authorized under subparagraph (C), conduct of outreachactivities to encourage, where appropriate, the establishment and development of Statewide Congressional Award Councils;
+&emsp;(D) in addition to those activities authorized under subparagraph (C), conduct of outreach activities to encourage, where appropriate, the establishment and development of Statewide Congressional Award Councils;
 
 &emsp;(E) fundraising;
 
@@ -72,7 +72,7 @@ The Board may enter into and perform such contracts as may be appropriate to car
 
 > The Board may permit donors to use the name of the Board or the name “Congressional Award Program” in advertising.
 
-(2) Except as otherwise provided in this chapter, the Board may not receive any Federal funds or resources. The Board may benefit from in-kind and indirect resources provided by Offices of Members of Congress or the Congress. Further, the Board is not prohibited from receiving indirect benefits from efforts or activities undertaken in collaboration with entities which receive Federal funds or resources.
+(2) Except as otherwise provided in this chapter, the Board may not receive any Federal funds or resources. The Board may benefit fromin-kind and indirect resources provided by Offices of Members of Congress or the Congress. Further, the Board is not prohibited from receiving indirect benefits from efforts or activities undertaken in collaboration with entities which receive Federal funds or resources.
 
 #### (f) Acceptance and utilization of services of voluntary, uncompensated personnel
 

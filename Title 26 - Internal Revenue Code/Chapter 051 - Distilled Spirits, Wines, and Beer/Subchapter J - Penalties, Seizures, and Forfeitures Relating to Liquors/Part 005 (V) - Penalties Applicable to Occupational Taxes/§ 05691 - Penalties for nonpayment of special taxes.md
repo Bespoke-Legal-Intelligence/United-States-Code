@@ -30,7 +30,7 @@ Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 10512(h) of P
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective on first day of first calendar month which begins more than 90 daysafter July 18, 1984, see section 456(a) of Pub. L. 98–369, set out as an Effective Date note under section 5101 of this title.
+Amendment by Pub. L. 98–369 effective on first day of first calendar month which begins more than 90 days after July 18, 1984, see section 456(a) of Pub. L. 98–369, set out as an Effective Date note under section 5101 of this title.
 
 #### Effective Date of 1979 Amendment
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall assess the extent to which entities that receive grants pursuant tothis subchapter are complying with the applicable requirements of this subchapter and achieving the goals that are consistent with the requirements of the grant programs under which the entities applied for the grants.
+&emsp;The Secretary shall assess the extent to which entities that receive grants pursuant to this subchapter are complying with the applicable requirements of this subchapter and achieving the goals that are consistent with the requirements of the grant programs under which the entities applied for the grants.
 
 #### (2) Onsite visits of States receiving certain grants
 
@@ -60,7 +60,7 @@
 
 &emsp;Such report shall include information on—
 
-&emsp;&emsp;(A) the demonstrated successes of the funded activities in improving interagency coordination relating to assistive technology, streamlining access to funding for assistive technology, and producing beneficial outcomes for users of assistive technology;
+&emsp;&emsp;(A) the demonstrated successes of the funded activities in improving interagencycoordination relating to assistive technology, streamlining access to funding for assistive technology, and producing beneficial outcomes for users of assistive technology;
 
 &emsp;&emsp;(B) the demonstration activities carried out through the funded activities to—
 
@@ -84,7 +84,7 @@
 
 #### (d) Effect on other assistance
 
-This subchapter may not be construed as authorizing a Federal or a State agency to reducemedical or other assistance available, or to alter eligibility for a benefit or service, under any other Federal law.
+This subchapter may not be construed as authorizing a Federal or a State agency to reduce medical or other assistance available, or to alter eligibility for a benefit or service, under any other Federal law.
 
 (Pub. L. 105–394, title I, §103, Nov. 13, 1998, 112 Stat. 3646.)
 

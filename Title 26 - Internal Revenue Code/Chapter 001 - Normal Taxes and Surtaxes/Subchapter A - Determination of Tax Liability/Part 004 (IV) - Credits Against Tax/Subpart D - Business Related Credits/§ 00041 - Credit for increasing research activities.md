@@ -98,7 +98,7 @@ For purposes of this section—
 
 #### (4) Trade or business requirement disregarded for in-house research expenses of certain startup ventures
 
-&emsp;In the case of in-house research expenses, a taxpayer shall be treated as meeting the trade or business requirement of paragraph (1) if, at the time such in-house research expenses are paid or incurred, the principal purpose of the taxpayer in making such expenditures is to use the results of the research in the active conduct of a future trade or business—
+&emsp;In the case of in-house research expenses, a taxpayer shall be treated as meeting the trade or business requirement of paragraph (1) if, atthe time such in-house research expenses are paid or incurred, the principal purpose of the taxpayer in making such expenditures is to use the results of the research in the active conduct of a future trade or business—
 
 &emsp;&emsp;(A) of the taxpayer, or
 
@@ -146,7 +146,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(IV) in the case of the taxpayer's 8th such taxable year, 1/2 of the percentage which the aggregate qualified research expenses of the taxpayer for the 5th, 6th, and 7th such taxable years is of the aggregate gross receipts of the taxpayer for such years,
 
-&emsp;&emsp;&emsp;&emsp;(V) in the case of the taxpayer's 9th such taxable year, 2/3 of the percentagewhich the aggregate qualified research expenses of the taxpayer for the 5th, 6th, 7th, and 8th such taxable years is of the aggregate gross receipts of the taxpayer for such years,
+&emsp;&emsp;&emsp;&emsp;(V) in the case of the taxpayer's 9th such taxable year, 2/3 of the percentage which the aggregate qualified research expenses of the taxpayer for the 5th, 6th, 7th, and 8th such taxable years is of the aggregate gross receipts of the taxpayer for such years,
 
 &emsp;&emsp;&emsp;&emsp;(VI) in the case of the taxpayer's 10th such taxable year, 5/6 of the percentage which the aggregate qualified research expenses of the taxpayer for the 5th, 6th, 7th, 8th, and 9th such taxable years is of the aggregate gross receipts of the taxpayer for such years, and
 
@@ -170,11 +170,11 @@ For purposes of this section—
 
 &emsp;&emsp;At the election of the taxpayer, the credit determined under subsection (a)(1) shall be equal to the sum of—
 
-&emsp;&emsp;&emsp;(i) 1.65 percent of so much of the qualified research expenses for the taxable year as exceeds 1 percent of the average described in subsection (c)(1)(B) but does not exceed 1.5 percent of such average,
+&emsp;&emsp;&emsp;(i) 2.65 percent of so much of the qualified research expenses for the taxable year as exceeds 1 percent of the average described in subsection (c)(1)(B) but does not exceed 1.5 percent of such average,
 
-&emsp;&emsp;&emsp;(ii) 2.2 percent of so much of such expenses as exceeds 1.5 percent of such average but does not exceed 2 percent of such average, and
+&emsp;&emsp;&emsp;(ii) 3.2 percent of so much of such expenses as exceeds 1.5 percent of such average but does not exceed 2 percent of such average, and
 
-&emsp;&emsp;&emsp;(iii) 2.75 percent of so much of such expenses as exceeds 2 percent of such average.
+&emsp;&emsp;&emsp;(iii) 3.75 percent of so much of such expenses as exceeds 2 percent of such average.
 
 #### (B) Election
 
@@ -192,7 +192,7 @@ For purposes of this section—
 
 #### (6) Gross receipts
 
-&emsp;For purposes of this subsection, gross receipts for any taxable year shall be reduced by returns and allowances made during the taxable year. In the case of a foreign corporation, there shall be taken into account only gross receipts which are effectively connected with the conduct of a trade or business within the United States.
+&emsp;For purposes of this subsection, gross receipts for any taxable year shall be reduced by returns and allowances made during the taxable year. In the case of a foreign corporation, there shall be taken into account only gross receipts which are effectively connected with the conduct of a trade or business within the United States, the Commonwealth of Puerto Rico, or any possession of the United States.
 
 #### (d) Qualified research defined
 
@@ -292,7 +292,7 @@ For purposes of this section—
 
 #### (F) Foreign research
 
-&emsp;&emsp;Any research conducted outside the United States.
+&emsp;&emsp;Any research conducted outside the United States, the Commonwealth of Puerto Rico, or any possession of the United States.
 
 #### (G) Social sciences, etc.
 
@@ -556,7 +556,7 @@ For purposes of this section—
 
 #### (4) Short taxable years
 
-&emsp;In the case of any short taxable year, qualified research expenses and gross receipts shall be annualized in such circumstances and undersuch methods as the Secretary may prescribe by regulation.
+&emsp;In the case of any short taxable year, qualified research expenses and gross receipts shall be annualized in such circumstances and under such methods as the Secretary may prescribe by regulation.
 
 #### (5) Controlled group of corporations
 
@@ -588,15 +588,13 @@ In the case of an individual who—
 
 &emsp;&emsp;(A) after June 30, 1995, and before July 1, 1996, or
 
-&emsp;&emsp;(B) after June 30, 1999.
-
-> &emsp;Notwithstanding the preceding sentence, in the case of a taxpayer making an election under subsection (c)(4) for its first taxable year beginning after June 30, 1996, and before July 1, 1997, this section shall apply to amounts paid or incurred during the 36-month period beginning with the first month of such year. The 36 months referred to in the preceding sentence shall be reduced by the number of full months after June 1996 (and before the first month of such first taxable year) during which the taxpayer paid or incurred any amount which is taken into account in determining the credit under this section.
+&emsp;&emsp;(B) after June 30, 2004.
 
 #### (2) Computation of base amount
 
 &emsp;In the case of any taxable year with respect to which this section applies to a number of days which is less than the total number of days in such taxable year, the base amount with respect to such taxable year shall be the amount which bears the same ratio to the base amount for such year (determined without regard to this paragraph) as the number of days in such taxable year to which this section applies bears to the total number of days in such taxable year.
 
-(Added Pub. L. 97–34, title II, §221(a), Aug. 13, 1981, 95 Stat. 241, §44F; amended Pub. L. 97–354, §5(a)(3), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title I, §102(b)(2), Jan. 12, 1983, 96 Stat. 2372; renumbered §30 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(i)(1), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; renumbered §41 and amended Pub. L. 99–514, title II, §231(a)(1), (b), (c), (d)(2), (3)(C)(ii), (e), title XVIII, §1847(b)(1), Oct. 22, 1986, 100 Stat. 2173, 2175, 2178–2180, 2856; Pub. L. 100–647, title I, §1002(h)(1), title IV, §§4007(a), 4008(b)(1), Nov. 10, 1988, 102 Stat. 3370, 3652; Pub. L. 101–239, title VII, §§7110(a)(1), (b), (b)\[(c)\], 7814(e)(2)(C), Dec. 19, 1989, 103 Stat. 2322, 2323, 2325, 2414; Pub. L. 101–508, title XI, §§11101(d)(1)(C), 11402(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–473; Pub. L. 102–227, title I, §102(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §§13111(a)(1), 13112(a), (b), 13201(b)(3)(C), Aug. 10, 1993, 107 Stat. 420, 421, 459; Pub. L. 104–188, title I, §§1201(e)(1), (4), 1204(a)–(d), Aug. 20, 1996, 110 Stat. 1772–1774; Pub. L. 105–34, title VI, §601(a), (b)(1), Aug. 5, 1997, 111 Stat. 861; Pub. L. 105–277, div. J, title I, §1001(a), Oct. 21, 1998, 112 Stat. 2681–888.)
+(Added Pub. L. 97–34, title II, §221(a), Aug. 13, 1981, 95 Stat. 241, §44F; amended Pub. L. 97–354,§5(a)(3), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title I, §102(b)(2), Jan. 12, 1983, 96 Stat. 2372; renumbered §30 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(i)(1), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; renumbered §41 and amended Pub. L. 99–514, title II, §231(a)(1), (b), (c), (d)(2), (3)(C)(ii), (e), title XVIII, §1847(b)(1), Oct. 22, 1986, 100 Stat. 2173, 2175, 2178–2180, 2856; Pub. L. 100–647, title I, §1002(h)(1), title IV, §§4007(a), 4008(b)(1), Nov. 10, 1988, 102 Stat. 3370, 3652; Pub. L. 101–239, title VII, §§7110(a)(1), (b), (b)\[(c)\], 7814(e)(2)(C), Dec. 19, 1989, 103 Stat. 2322, 2323, 2325, 2414; Pub. L. 101–508, title XI, §§11101(d)(1)(C), 11402(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–473; Pub. L. 102–227, title I, §102(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §§13111(a)(1), 13112(a), (b), 13201(b)(3)(C), Aug. 10, 1993, 107 Stat. 420, 421, 459; Pub. L. 104–188, title I, §§1201(e)(1), (4), 1204(a)–(d), Aug. 20, 1996, 110 Stat. 1772–1774; Pub. L. 105–34, title VI, §601(a), (b)(1), Aug. 5, 1997, 111 Stat. 861; Pub. L. 105–277, div. J, title I, §1001(a), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(1), (b)(1), (c)(1), Dec. 17, 1999, 113 Stat. 1919.)
 
 #### Prior Provisions
 
@@ -605,6 +603,18 @@ A prior section 41, added Pub. L. 97–34, title III, §331(a), Aug. 13, 1981, 9
 Another prior section 41 was renumbered section 24 of this title.
 
 #### Amendments
+
+1999—Subsec. (c)(4)(A)(i). Pub. L. 106–170, §502(b)(1)(A), substituted “2.65 percent” for “1.65 percent”.
+
+Subsec. (c)(4)(A)(ii). Pub. L. 106–170, §502(b)(1)(B), substituted “3.2 percent” for “2.2 percent”.
+
+Subsec. (c)(4)(A)(iii). Pub. L. 106–170, §502(b)(1)(C), substituted “3.75 percent” for “2.75 percent”.
+
+Subsecs. (c)(6), (d)(4)(F). Pub. L. 106–170, §502(c)(1), inserted “, the Commonwealth of Puerto Rico, or any possession of the United States” before period at end.
+
+Subsec. (h)(1). Pub. L. 106–170, §502(a)(1)(B), struck out concluding provisions which read as follows: “Notwithstanding the preceding sentence, in the case of a taxpayer making an election under subsection (c)(4) for its first taxable year beginning after June 30, 1996, and before July 1, 1997, this section shall apply to amounts paid or incurred during the 36-month period beginning with the first month of such year. The 36 months referred to in the preceding sentence shall be reduced by the number of full months after June 1996 (and before the first month of such first taxable year) during which the taxpayer paid or incurred any amount which is taken into account in determining the credit under this section.”
+
+Subsec. (h)(1)(B). Pub. L. 106–170, §502(a)(1)(A), substituted “June 30, 2004” for “June 30, 1999”.
 
 1998—Subsec. (h)(1). Pub. L. 105–277 substituted “June 30, 1999” for “June 30, 1998” in subpar. (B) and substituted “36-month” for “24-month” and “36 months” for “24 months” in concluding provisions.
 
@@ -616,7 +626,7 @@ Subsec. (h)(1). Pub. L. 105–34, §601(a), substituted “June 30, 1998” for 
 
 Subsec. (b)(3)(C). Pub. L. 104–188, §1204(d), added subpar. (C).
 
-Subsec. (c)(3)(B)(i). Pub. L. 104–188, §1204(b), reenacted heading without change and amended text generally.Prior to amendment, text read as follows: “The fixed-base percentage shall be determined under this subparagraph if there are fewer than 3 taxable years beginning after December 31, 1983, and before January 1, 1989, in which the taxpayer had both gross receipts and qualified research expenses.”
+Subsec. (c)(3)(B)(i). Pub. L. 104–188, §1204(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The fixed-base percentage shall be determined under this subparagraph if there are fewer than 3 taxable years beginning after December 31, 1983, and before January 1, 1989, in which the taxpayer had both gross receipts and qualified research expenses.”
 
 Subsec. (c)(4) to (6). Pub. L. 104–188, §1204(c), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
@@ -700,7 +710,7 @@ Subsec. (b)(2)(A)(iii). Pub. L. 99–514, §231(e), amended cl. (iii) generally.
 
 Subsec. (b)(2)(D)(iii). Pub. L. 99–514, §1847(b)(1), substituted “targeted jobs credit” for “new jobs or WIN credit” in heading.
 
-Subsec. (d). Pub. L. 99–514, §231(b), inserted “defined” in heading and amended text generally. Prior toamendment, text read as follows: “For purposes of this section the term ‘qualified research’ has the same meaning as the term research or experimental has under section 174, except that such term shall not include—
+Subsec. (d). Pub. L. 99–514, §231(b), inserted “defined” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of this section the term ‘qualified research’ has the same meaning as the term research or experimental has under section 174, except that such term shall not include—
 
 &emsp;“(1) qualified research conducted outside the United States,
 
@@ -722,11 +732,19 @@ Subsec. (g)(1)(A). Pub. L. 98–369, §612(e)(1), substituted “section 26(b)�
 
 Pub. L. 98–369, §474(i)(1)(B), amended subpar. (A) generally, substituting “shall not exceed the taxpayer's tax liability for the taxable year (as defined in section 25(b)), reduced by the sum of the credits allowable under subpart A and sections 27, 28, and 29” for “shall not exceed the amount of the tax imposed by this chapter reduced by the sum of the credits allowable under a section of this part having a lower number or letter designation than this section, other than the credits allowable by sections 31, 39, and 43. For purposes of the preceding sentence, the term ‘tax imposed by this chapter’ shall not include any tax treated as not imposed by this chapter under the last sentence of section 53(a)”.
 
-1983—Subsec. (b)(2)(A). Pub. L. 97–448 inserted provision that cl. (iii) would not apply to any amount to the extent that the taxpayer (or any person with whom the taxpayer must aggregate expenditures under subsection (f)(1)) received or accrued any amount from any other person for the right to use substantially identical personal property.
+1983—Subsec. (b)(2)(A). Pub. L. 97–448 inserted provision that cl. (iii) would not apply to any amount to the extent that the taxpayer (or any person with whom the taxpayer must aggregate expenditures under subsection\(f)(1)) received or accrued any amount from any other person for the right to use substantially identical personal property.
 
 1982—Subsec. (f)(2)(A). Pub. L. 97–354, §5(a)(3)(A), substituted “Pass-thru in the case of estates and trusts” for “Pass-through in the case of subchapter S corporations, etc.” in subpar. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
 
 Subsec. (g)(1)(B)(iv). Pub. L. 97–354, §5(a)(3)(B), substituted “an S corporation” for “an electing small business corporation (within the meaning of section 1371(b))”.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–170, title V, §502(a)(3), Dec. 17, 1999, 113 Stat. 1919, provided that: “The amendments made by this subsection \[amending this section and section 45C of this title\] shall apply to amounts paid or incurred after June 30, 1999.”
+
+Pub. L. 106–170, title V, §502(b)(2), Dec. 17, 1999, 113 Stat. 1919, provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years beginning after June 30, 1999.”
+
+Pub. L. 106–170, title V, §502(c)(3), Dec. 17, 1999, 113 Stat. 1920, provided that: “The amendments made by this subsection \[amending this section and section 280C of this title\] shall apply to amounts paid or incurred after June 30, 1999.”
 
 #### Effective Date of 1998 Amendment
 
@@ -812,7 +830,7 @@ Amendment by section 612(e)(1) of Pub. L. 98–369 applicable to interest paid o
 
 #### Effective Date of 1983 Amendment
 
-Section 102(h)(2) of Pub. L. 97–448 provided that the amendment made by that section is effective only with respect to amounts paid or incurred after March 31, 1982.
+Section 102(h)(2) of Pub. L. 97–448 provided that the amendment made by that section is effective only withrespect to amounts paid or incurred after March 31, 1982.
 
 #### Effective Date of 1982 Amendment
 
@@ -837,6 +855,72 @@ In general.—If, with respect to the first taxable year to which the amendments
 &emsp;“(B)
 
 Definitions.—For purposes of the preceding sentence, the terms ‘qualified research expenses’ and ‘base period’ have the meanings given to such terms by section 44F \[now 41\] of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section).”
+
+#### Special Rule for Credit Attributable to Suspension Periods
+
+Pub. L. 106–170, title V, §502(d), Dec. 17, 1999, 113 Stat. 1920, provided that:
+
+“(1)
+
+In general.—For purposes of the Internal Revenue Code of 1986, the credit determined under section 41 of such Code which is otherwise allowable under such Code—
+
+&emsp;“(A) shall not be taken into account prior to October 1, 2000, to the extent such credit is attributable to the first suspension period; and
+
+&emsp;“(B) shall not be taken into account prior to October 1, 2001, to the extent such credit is attributable to the second suspension period.
+
+> On or after the earliest date that an amount of credit may be taken into account, such amount may be taken into account through the filing of an amended return, an application for expedited refund, an adjustment of estimated taxes, or other means allowed by such Code.
+
+“(2)
+
+Suspension periods.—For purposes of this subsection—
+
+&emsp;“(A) the first suspension period is the period beginning on July 1, 1999, and ending on September 30, 2000; and
+
+&emsp;“(B) the second suspension period is the period beginning on October 1, 2000, and ending on September 30, 2001.
+
+“(3)
+
+Expedited refunds.—
+
+&emsp;“(A)
+
+In general.—If there is an overpayment of tax with respect to a taxable year by reason of paragraph (1), the taxpayer may file an application for a tentative refund of such overpayment. Such application shall be in such manner and form, and contain such information, as the Secretary may prescribe.
+
+&emsp;“(B)
+
+Deadline for applications.—Subparagraph (A) shall apply only to an application filed before the date which is 1 year after the close of the suspension period to which the application relates.
+
+&emsp;“(C)
+
+Allowance of adjustments.—Not later than 90 days after the date on which an application is filed under this paragraph, the Secretary shall—
+
+&emsp;&emsp;“(i) review the application;
+
+&emsp;&emsp;“(ii) determine the amount of the overpayment; and
+
+&emsp;&emsp;“(iii) apply, credit, or refund such overpayment,
+
+> &emsp;in a manner similar to the manner provided in section 6411(b) of such Code.
+
+&emsp;“(D)
+
+Consolidated returns.—The provisions of section 6411(c) of such Code shall apply to an adjustment under this paragraph in such manner as the Secretary may provide.
+
+“(4)
+
+Credit attributable to suspension period.—
+
+&emsp;“(A)
+
+In general.—For purposes of this subsection, in the case of a taxable year which includes a portion of the suspension period, the amount of credit determined under section 41 of such Code for such taxable year which is attributable to such period is the amount which bears the same ratio to the amount of credit determined under such section 41 for such taxable year as the number of months in the suspension period which are during such taxable year bears to the number of months in such taxable year.
+
+&emsp;“(B)
+
+Waiver of estimated tax penalties.—No addition to tax shall be made under section 6654 or 6655 of such Code for any period before July 1, 1999, with respect to any underpayment of tax imposed by such Code to the extent such underpayment was created or increased by reason of subparagraph (A).
+
+“(5)
+
+Secretary.—For purposes of this subsection, the term ‘Secretary’ means the Secretary of the Treasury (or such Secretary's delegate).”
 
 #### Special Rules for Taxable Years Beginning Before Oct. 1, 1990, and Ending After Sept. 30, 1990
 

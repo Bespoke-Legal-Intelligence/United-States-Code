@@ -70,7 +70,7 @@ In this part—
 
 &emsp;“Indian tribe” means a tribe, band, pueblo, nation, or other organized group or community of Indians, including Alaska Native village (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-&emsp;“State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
+&emsp;“State” means a State, the District of Columbia, the Commonwealth of Puerto Rico,the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 
 (Pub. L. 103–322, title III, §30701, Sept. 13, 1994, 108 Stat. 1855.)
 

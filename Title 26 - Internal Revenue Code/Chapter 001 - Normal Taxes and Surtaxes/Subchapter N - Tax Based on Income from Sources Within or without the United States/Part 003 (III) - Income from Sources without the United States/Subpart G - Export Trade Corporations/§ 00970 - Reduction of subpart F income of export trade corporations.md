@@ -14,11 +14,11 @@
 
 #### (2) Overall limitation
 
-&emsp;The reduction under paragraph (1) for any taxable year shall not exceed an amount which bears the same ratio to the increase in the investments in export trade assets (as defined in section 971(c)) of such corporation for such year as the export trade income whichconstitutes foreign base company income of such corporation for such year bears to the entire export trade income of such corporation for such year.
+&emsp;The reduction under paragraph (1) for any taxable year shall not exceed an amount which bears the same ratio to the increase in the investments in export trade assets (as defined in section 971(c)) of such corporation for such year as the export trade income which constitutes foreign base company income of such corporation for such year bears to the entire export trade income of such corporation for such year.
 
 #### (b) Inclusion of certain previously excluded amounts
 
-Each United States shareholder of a controlled foreign corporation which for any prior taxable year was an export trade corporation shall include in his gross income under section 951(a)(1)(A)(ii), as an amount to which section 955 (relating to withdrawal of previously excluded subpart F income from qualified investment) applies, his pro rata share of the amount of decrease in the investments in export trade assets of such corporation for such year, but only to the extent that his pro rata share of such amount does not exceed an amount equal to—
+Each United States shareholder of a controlled foreign corporation which for any prior taxable year was an export trade corporation shall include in his gross income under section 951(a)(1)(A)(ii), as an amount to which section 955 (relating to withdrawal of previously excluded subpart F income from qualified investment) applies, his pro rata share of the amount of decrease in the investments in export trade assets of such corporation for such year, butonly to the extent that his pro rata share of such amount does not exceed an amount equal to—
 
 &emsp;(1) his pro rata share of the sum of (A) the amounts by which the subpart F income of such corporation was reduced for all prior taxable years under subsection (a), and (B) the amounts not included in subpart F income (determined without regard to this subpart) for all prior taxable years by reason of the treatment (under section 972 as in effect before the date of the enactment of the Tax Reform Act of 1976) of two or more controlled foreign corporations which are export trade corporations as a single controlled foreign corporation, reduced by
 
@@ -90,7 +90,7 @@ In general.—If a corporation (hereinafter in this section called ‘parent’)
 
 &emsp;&emsp;“(C) the adjusted basis of the assets transferred to the DISC shall be the same in the hands of the DISC as in the hands of the export trade corporation;
 
-&emsp;&emsp;“(D) the earnings and profits of the export trade corporation shall be reduced by the amount transferred to the DISC, to the extent thereof, with the reduction being applied first to the untaxed subpart F income and then to the other earnings and profits in the order in which they were most recently accumulated;
+&emsp;&emsp;“(D) the earnings and profits of the export trade corporation shall be reduced by the amount transferred to the DISC, to the extent thereof, with thereduction being applied first to the untaxed subpart F income and then to the other earnings and profits in the order in which they were most recently accumulated;
 
 &emsp;&emsp;“(E) the basis of the parent's stock in the export trade corporation shall be decreased by the amount obtained by multiplying its basis in such stock by a fraction the numerator of which is the amount transferred to the DISC and the denominator of which is the aggregate adjusted basis of all the assets of the export trade corporation immediately before such transfer;
 

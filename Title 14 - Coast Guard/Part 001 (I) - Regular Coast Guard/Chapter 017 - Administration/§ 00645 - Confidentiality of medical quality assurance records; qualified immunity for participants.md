@@ -6,7 +6,7 @@
 
 &emsp;(2) “medical quality assurance record” means the proceedings, records, minutes, and reports that emanate from quality assurance program activities described in paragraph (1) and are produced or compiled by the Coast Guard as part of a medical quality assurance program.
 
-&emsp;(3) “health care provider” means any military or civilian health care professional who, under regulations prescribed by the Secretary, is granted clinical practice privileges to provide health care services in a military medical or dental treatment facility or who is licensed or certified to perform health care services by a governmental board or agency or professional health care society or organization.
+&emsp;(3) “health care provider” means any military or civilian health care professional who,under regulations prescribed by the Secretary, is granted clinical practice privileges to provide health care services in a military medical or dental treatment facility or who is licensed or certified to perform health care services by a governmental board or agency or professional health care society or organization.
 
 (b) Medical quality assurance records created by or for the Coast Guard as part of a medical quality assurance program are confidential and privileged. The records may not be disclosed to any person or entity except as provided in subsection (d).
 
@@ -36,7 +36,7 @@
 
 (f) Medical quality assurance records may not be made available to any person under section 552 of title 5.
 
-(g) An individual who participates in or provides information to an individual that reviewsor creates medical quality assurance records is not civilly liable for participating or providing the information if the participation or provision of information was in good faith based on prevailing professional standards at the time the medical quality assurance program activity took place.
+(g) An individual who participates in or provides information to an individual that reviews or creates medical quality assurance records is not civilly liable for participating or providing the information if the participation or provision of information was in good faith based on prevailing professional standards at the time the medical quality assurance program activity took place.
 
 (h) Nothing in this section shall be construed as—
 

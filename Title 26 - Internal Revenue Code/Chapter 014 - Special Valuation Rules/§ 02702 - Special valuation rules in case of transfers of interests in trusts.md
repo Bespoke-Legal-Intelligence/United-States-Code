@@ -38,7 +38,7 @@ For purposes of this section, the term “qualified interest” means—
 
 &emsp;(1) any interest which consists of the right to receive fixed amounts payable not less frequently than annually,
 
-&emsp;(2) any interest which consists of the right to receive amounts which are payable not less frequently than annually and are a fixed percentage of the fair market value of the property in the trust (determined annually), and
+&emsp;(2) any interest which consists of the right to receive amounts which are payable not lessfrequently than annually and are a fixed percentage of the fair market value of the property in the trust (determined annually), and
 
 &emsp;(3) any noncontingent remainder interest if all of the other interests in the trust consist of interests described in paragraph (1) or (2).
 

@@ -2,7 +2,7 @@
 
 #### (a) Review of regulations in Circuit Court of Appeals of the United States for the District of Columbia
 
-Review of any regulation promulgated under this chapter may be had upon application by any interested person only in the Circuit Court of Appeals of the United States for the District of Columbia. Any such application shall be made within ninety days from the date of promulgation of such regulations. Any matter with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement or to obtain damages or recovery of response costs.
+Review of any regulation promulgated under this chapter may be had upon application by anyinterested person only in the Circuit Court of Appeals of the United States for the District of Columbia. Any such application shall be made within ninety days from the date of promulgation of such regulations. Any matter with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement or to obtain damages or recovery of response costs.
 
 #### (b) Jurisdiction; venue
 
@@ -110,7 +110,7 @@ In any action commenced under this chapter or under the Solid Waste Disposal Act
 
 #### (2) Standard
 
-&emsp;In considering objections raised in any judicial action under this chapter, the court shall uphold the President's decision in selecting the response action unless the objecting party can demonstrate, on the administrative record, that the decision was arbitrary and capricious or otherwise not in accordance with law.
+&emsp;In considering objections raised in any judicial action under this chapter, the court shall uphold the President's decision in selecting the response action unless the objecting partycan demonstrate, on the administrative record, that the decision was arbitrary and capricious or otherwise not in accordance with law.
 
 #### (3) Remedy
 

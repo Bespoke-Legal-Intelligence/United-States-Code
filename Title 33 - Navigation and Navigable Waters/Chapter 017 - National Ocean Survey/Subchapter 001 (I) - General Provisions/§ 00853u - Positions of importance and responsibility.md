@@ -28,7 +28,7 @@ An appointment of an officer under this section—
 
 #### (e) Retirement rank, pay, and allowances
 
-The provisions of section 2(g) of Reorganization Plan Numbered 4 of 1970 (84 Stat. 2090, 5 U.S.C. App.) apply to an officer who serves in a grade above captain under an appointment under this section in the same manner as if the officer served in that grade under section 2(d) or 2(f) of that Reorganization Plan.
+The provisions of section 2(g) of Reorganization Plan Numbered 4 of 1970 (84 Stat. 2090, 5U.S.C. App.) apply to an officer who serves in a grade above captain under an appointment under this section in the same manner as if the officer served in that grade under section 2(d) or 2(f) of that Reorganization Plan.
 
 (June 3, 1948, ch. 390, §24, as added Pub. L. 98–498, title III, §320(c)(1), Oct. 19, 1984, 98 Stat. 2308; amended Pub. L. 99–145, title V, §514(a)(3), Nov. 8, 1985, 99 Stat. 628; Pub. L. 105–384, title III, §307(b), Nov. 13, 1998, 112 Stat. 3458.)
 

@@ -112,7 +112,7 @@
 
 #### Part Referred to in Other Sections
 
-This part is referred to in title 28 section 996; title 29 section 795b; title 42 section 3056b; title 44 section 2105; title 47 sections 154, 332.
+This part is referred to in title 28 section 996; title 42 section 3056b; title 44 section 2105; title 47 sections 154, 332.
 
 
 ---

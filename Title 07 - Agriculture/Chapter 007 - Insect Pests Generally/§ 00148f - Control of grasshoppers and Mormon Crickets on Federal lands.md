@@ -28,7 +28,7 @@ On request of the administering agency or the Department of Agriculture of an af
 
 The Secretary of Agriculture shall—
 
-&emsp;(1) pay out of appropriated funds made available to the Secretary or transferred to the Secretary by the Secretary of the Interior—100 percent of the cost of grasshopper or Mormon Cricket control on Federal lands;
+&emsp;(1) pay out of appropriated funds made available to the Secretary or transferred to theSecretary by the Secretary of the Interior—100 percent of the cost of grasshopper or Mormon Cricket control on Federal lands;
 
 &emsp;(2) pay out of appropriated funds made available to the Secretary—
 

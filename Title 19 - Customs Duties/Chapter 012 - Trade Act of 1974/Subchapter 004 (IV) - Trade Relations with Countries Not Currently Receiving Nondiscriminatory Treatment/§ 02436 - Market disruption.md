@@ -58,7 +58,7 @@ For purposes of this section—
 
 &emsp;&emsp;(iv) evidence of disruptive pricing practices, or other efforts to unfairly manage trade patterns.
 
-(Pub. L. 93–618, title IV, §406, Jan. 3, 1975, 88 Stat. 2062; 1979 Reorg. Plan No. 3, §1(b)(1), eff. Jan. 2, 1980, 44 F.R. 69273, 93 Stat. 1381; Pub. L. 100–418, title I, §1411(a), (b), Aug. 23, 1988, 102 Stat. 1241, 1242.)
+(Pub. L. 93–618, title IV, §406, Jan. 3, 1975, 88 Stat. 2062; 1979 Reorg. Plan No. 3, §1(b)(1), eff. Jan. 2, 1980, 44 F.R. 69273, 93 Stat. 1381; Pub. L. 100–418, title I, §1411(a), (b), Aug. 23, 1988, 102 Stat. 1241, 1242; Pub. L. 106–36, title I, §1001(a)(6), June 25, 1999, 113 Stat. 130.)
 
 #### References in Text
 
@@ -69,6 +69,8 @@ The date of the enactment of the Omnibus Trade and Competitiveness Act of 1988, 
 Section 1401 of such Act of 1988, referred to in subsec. (b)(2), is section 1401 of Pub. L. 100–418, known as the Omnibus Trade and Competitiveness Act of 1988, which enacted section 2254 of this title, amended sections 1330, 2133, 2251 to 2253, 2274, 2354, and 2703 of this title, enacted a provision set out as a note under section 2251 of this title, and amended a provision set out as a note under section 2112 of this title.
 
 #### Amendments
+
+1999—Subsec. (e)(2)(B), (C). Pub. L. 106–36 realigned margins.
 
 1988—Subsec. (a)(1). Pub. L. 100–418, §1411(b)(1), substituted “section 2252(a)” for “section 2251(a)(1)”.
 
@@ -86,7 +88,7 @@ Subsec. (e)(2). Pub. L. 100–418, §1411(a)(3), designated existing provisions 
 
 #### Change of Name
 
-“United States Trade Representative” substituted for “Special Representative for Trade Negotiations” in subsec. (a)(1), pursuant to Reorg. Plan No. 3 of 1979, §1(b)(1), 44 F.R. 69273, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title. See, also, section 2171 of this title as amended by Pub. L. 97–456.
+“United States Trade Representative” substituted for “Special Representative for Trade Negotiations” in subsec. (a)(1), pursuant to Reorg. Plan No. 3 of 1979, §1(b)(1), 44 F.R. 69273, 93 Stat. 1381, eff. Jan. 2, 1980, asprovided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title. See, also, section 2171 of this title as amended by Pub. L. 97–456.
 
 #### Effective Date of 1988 Amendment
 

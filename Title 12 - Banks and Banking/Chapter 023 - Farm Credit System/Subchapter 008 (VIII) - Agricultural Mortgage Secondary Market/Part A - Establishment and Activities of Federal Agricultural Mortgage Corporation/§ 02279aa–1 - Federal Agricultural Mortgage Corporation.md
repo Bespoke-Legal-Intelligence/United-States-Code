@@ -30,7 +30,7 @@ The Corporation shall—
 
 &emsp;(3) provide guarantees for the timely repayment of principal and interest on securities representing interests in, or obligations backed by, pools of qualified loans; and
 
-&emsp;(4) purchase qualified loans and issue securities representing interests in, or obligations backed by, the qualified loans, guaranteed forthe timely repayment of principal and interest.
+&emsp;(4) purchase qualified loans and issue securities representing interests in, or obligations backed by, the qualified loans, guaranteed for the timely repayment of principal and interest.
 
 (Pub. L. 92–181, title VIII, §8.1, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1687; amended Pub. L. 104–105, title I, §103, Feb. 10, 1996, 110 Stat. 163.)
 

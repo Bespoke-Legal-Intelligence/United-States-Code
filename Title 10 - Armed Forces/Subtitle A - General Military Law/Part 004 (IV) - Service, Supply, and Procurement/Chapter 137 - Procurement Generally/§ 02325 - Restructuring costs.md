@@ -2,7 +2,7 @@
 
 (a)
 
-Limitation on Payment of Restructuring Costs.—(1) The Secretary of Defense may not pay, under section 2324 of this title, a defense contractor for restructuring costs associated with a business combination of the contractor unless the Secretary determines in writing either—
+Limitation on Payment of Restructuring Costs.—(1) The Secretary of Defense may not pay, under section 2324 of this title, a defense contractor for restructuring costs associated with a business combination of the contractor that occurs after November 18, 1997, unless the Secretary determines in writing either—
 
 &emsp;(A) that the amount of projected savings for the Department of Defense associated with the restructuring will be at least twice the amount of the costs allowed; or
 
@@ -38,13 +38,17 @@ Report.—Not later than March 1 in each of 1998, 1999, 2000, 2001, and 2002, th
 
 Definition.—In this section, the term “business combination” includes a merger or acquisition.
 
-(Added Pub. L. 105–85, div. A, title VIII, §804(a)(1), Nov. 18, 1997, 111 Stat. 1832.)
+(Added Pub. L. 105–85, div. A, title VIII, §804(a)(1), Nov. 18, 1997, 111 Stat. 1832; amended Pub. L. 106–65, div. A, title X, §1066(a)(19), Oct. 5, 1999, 113 Stat. 771.)
 
 #### Prior Provisions
 
 A prior section 2325, added Pub. L. 99–500, §101(c) \[title X, §907(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–137, and Pub. L. 99–591, §101(c) \[title X, §907(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–137; Pub. L. 99–661, div. A, title IX, formerly title IV, §907(a)(1), Nov. 14, 1986, 100 Stat. 3917, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 101–189, div. A, title XVI, §1622(c)(5), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 101–510, div. A, title VIII, §810, Nov. 5, 1990, 104 Stat. 1595; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728, directed Secretary of Defense to ensure that requirements of Department of Defense with respect to procurement of supplies be stated in terms of functions to be performed, performance required, or essential physical characteristics, and related to preference for nondevelopmental items in procurement of supplies, prior to repeal by Pub. L. 103–355, title VIII, §8104(b)(1), Oct. 13, 1994, 108 Stat. 3391. See sections 2376 and 2377 of this title.
 
 Another prior section 2325 was renumbered section 2345 of this title.
+
+#### Amendments
+
+1999—Subsec. (a)(1). Pub. L. 106–65 inserted “that occurs after November 18, 1997,” after “of the contractor” in introductory provisions.
 
 #### Effective Date
 

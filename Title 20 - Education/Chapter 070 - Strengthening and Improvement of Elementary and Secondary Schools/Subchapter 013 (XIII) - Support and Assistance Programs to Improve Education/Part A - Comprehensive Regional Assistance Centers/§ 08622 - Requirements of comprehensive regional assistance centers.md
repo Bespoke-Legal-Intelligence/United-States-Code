@@ -20,7 +20,7 @@ Each comprehensive regional assistance center established under section 8621(a) 
 
 &emsp;&emsp;(G) implementing educational applications of technology;
 
-&emsp;&emsp;(H) coordinating services and programs to meet the needs of students so that students can fully participate in the educational program of the school;
+&emsp;&emsp;(H) coordinating services and programs to meet the needs of students so that studentscan fully participate in the educational program of the school;
 
 &emsp;&emsp;(I) expanding the involvement and participation of parents in the education of their children;
 

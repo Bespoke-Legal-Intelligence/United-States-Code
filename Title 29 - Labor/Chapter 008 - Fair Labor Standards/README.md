@@ -94,7 +94,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 251 to 262, 721, 1802 of this title; title 2 sections 60k, 1302, 1313, 1371, 1434; title 3 sections 402, 413; title 5 section 2105; title 7 sections 2015, 2026, 2029; title 15 sections 1014, 3152; title 38 section 1718; title 41 section 355; title 42 sections 1437t, 3056, 5044, 8009, 8011, 12655<i>l.</i>
+This chapter is referred to in sections 251 to 262, 721, 1802 of this title; title 2 sections 60k, 1302, 1313, 1371, 1434; title 3 sections 402, 413; title 5 section 2105; title 7 sections 2015, 2026, 2029; title 15 sections 1014, 3152; title 38 section 1718; title 41 section 355; title 42 sections 3056, 5044, 8009, 8011, 12655<i>l.</i>
 
 
 ---

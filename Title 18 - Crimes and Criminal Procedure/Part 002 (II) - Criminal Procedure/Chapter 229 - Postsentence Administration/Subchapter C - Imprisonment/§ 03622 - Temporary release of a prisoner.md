@@ -22,7 +22,7 @@ The Bureau of Prisons may release a prisoner from the place of his imprisonment 
 
 &emsp;&emsp;(1) the rates of pay and other conditions of employment will not be less than those paid or provided for work of a similar nature in the community; and
 
-&emsp;&emsp;(2) the prisoner agrees to pay to the Bureau such costs incident to official detention as the Bureau finds appropriate and reasonable under all the circumstances, such coststo be collected by the Bureau and deposited in the Treasury to the credit of the appropriation available for such costs at the time such collections are made.
+&emsp;&emsp;(2) the prisoner agrees to pay to the Bureau such costs incident to official detention as the Bureau finds appropriate and reasonable under all the circumstances, such costs to be collected by the Bureau and deposited in the Treasury to the credit of the appropriation available for such costs at the time such collections are made.
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2007.)
 

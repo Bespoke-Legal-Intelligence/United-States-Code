@@ -50,7 +50,7 @@ For purposes of this section, the term “distributable amount” means, with re
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1)(A), the fair market value of securities for which marketquotations are readily available shall be determined on a monthly basis. For all other assets, the fair market value shall be determined at such times and in such manner as the Secretary shall by regulations prescribe.
+&emsp;&emsp;For purposes of paragraph (1)(A), the fair market value of securities for which market quotations are readily available shall be determined on a monthly basis. For all other assets, the fair market value shall be determined at such times and in such manner as the Secretary shall by regulations prescribe.
 
 #### (B) Reductions in value for blockage or similar factors
 
@@ -124,13 +124,13 @@ For purposes of this section, the term “distributable amount” means, with re
 
 &emsp;&emsp;An amount set aside for a specific project shall meet the requirements of this subparagraph if at the time of the set-aside the foundation establishes to the satisfaction of the Secretary that the amount will be paid for the specific project within 5 years, and either—
 
-&emsp;&emsp;&emsp;(i) at the time of the set-aside the private foundation establishes to the satisfaction of the Secretary that the project isone which can better be accomplished by such set-aside than by immediate payment of funds, or
+&emsp;&emsp;&emsp;(i) at the time of the set-aside the private foundation establishes to the satisfaction of the Secretary that the project is one which can better be accomplished by such set-aside than by immediate payment of funds, or
 
 &emsp;&emsp;&emsp;(ii)(I) the project will not be completed before the end of the taxable year of the foundation in which the set-aside is made,
 
 &emsp;&emsp;&emsp;(II) the private foundation in each taxable year beginning after December 31, 1975 (or after the end of the fourth taxable year following the year of its creation, whichever is later), distributes amounts, in cash or its equivalent, equal to not less than the distributable amount determined under subsection (d) (without regard to subsection (i)) for purposes described in section 170(c)(2)(B) (including but not limited to payments with respect to set-asides which were treated as qualifying distributions in one or more prior years), and
 
-&emsp;&emsp;&emsp;(III) the private foundation has distributed (including but not limited to payments with respect to set-asides which were treated as qualifying distributions in one or more prior years) during the four taxable years immediately preceding its first taxable year beginning after December 31, 1975, or the fifth taxable year following the year of its creation, whichever is later, an aggregate amount, in cash or its equivalent, of not less than the sum of the following: 80 percent of the first preceding taxable year's distributable amount; 60 percent of the second preceding taxable year's distributable amount; 40 percent of the third preceding taxable year's distributable amount; and 20 percent of the fourth preceding taxable year's distributable amount.
+&emsp;&emsp;&emsp;(III) the private foundation has distributed (including but not limited to payments with respect to set-asides which were treated as qualifying distributions in one or more prior years) during the four taxable years immediately preceding its first taxable year beginning after December 31, 1975, or the fifth taxable year following the year of its creation, whichever is later, an aggregate amount, in cash or its equivalent, of not less than the sum of the following: 80 percent of the first preceding taxable year's distributable amount; 60 percent of the second precedingtaxable year's distributable amount; 40 percent of the third preceding taxable year's distributable amount; and 20 percent of the fourth preceding taxable year's distributable amount.
 
 #### (C) Certain failures to distribute
 

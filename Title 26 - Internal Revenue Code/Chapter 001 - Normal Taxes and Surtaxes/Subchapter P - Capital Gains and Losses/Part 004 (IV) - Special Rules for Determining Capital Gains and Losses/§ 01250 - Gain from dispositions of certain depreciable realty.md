@@ -20,7 +20,7 @@ Except as otherwise provided in this section—
 
 &emsp;&emsp;For purposes of subparagraph (A), the term “applicable percentage” means—
 
-&emsp;&emsp;&emsp;(i) in the case of section 1250 property with respect to which a mortgage is insured under section 221(d)(3) or 236 of the National Housing Act, or housing financed or assisted by direct loan or tax abatement under similar provisions of State or local laws and with respect to which the owneris subject to the restrictions described in section 1039(b)(1)(B) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 100 full months;
+&emsp;&emsp;&emsp;(i) in the case of section 1250 property with respect to which a mortgage is insured under section 221(d)(3) or 236 of the National Housing Act, or housing financed or assisted by direct loan or tax abatement under similar provisions of State or local laws and with respect to which the owner is subject to the restrictions described in section 1039(b)(1)(B) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 100 full months;
 
 &emsp;&emsp;&emsp;(ii) in the case of dwelling units which, on the average, were held for occupancy by families or individuals eligible to receive subsidies under section 8 of the United States Housing Act of 1937, as amended, or under the provisions of State or local law authorizing similar levels of subsidy for lower-income families, 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 100 full months;
 
@@ -132,7 +132,7 @@ For purposes of this section, the term “section 1250 property” means any rea
 
 #### (3) Certain tax-free transactions
 
-&emsp;If the basis of property in the hands of a transferee is determined by reference to its basis in the hands of the transferor by reason of the application of section 332, 351, 361, 721, or 731, then the amount of gain taken into account by the transferor under subsection (a) shall not exceed the amount of gain recognized to the transferor on the transfer of such property (determined without regard to this section). Except as provided in paragraph (9), this paragraph shall not apply to a disposition toan organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter.
+&emsp;If the basis of property in the hands of a transferee is determined by reference to its basis in the hands of the transferor by reason of the application of section 332, 351, 361, 721, or 731, then the amount of gain taken into account by the transferor under subsection (a) shall not exceed the amount of gain recognized to the transferor on the transfer of such property (determined without regard to this section). Except as provided in paragraph (9), this paragraph shall not apply to a disposition to an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter.
 
 #### (4) Like kind exchanges; involuntary conversions, etc.
 
@@ -200,7 +200,7 @@ For purposes of this section, the term “section 1250 property” means any rea
 
 #### (8) Foreclosure dispositions
 
-&emsp;If any section 1250 property is disposed of by the taxpayer pursuant to a bid for such property at foreclosure or by operation of an agreement or of process of law after there was a default on indebtedness which such property secured, the applicable percentage referred to in paragraph (1)(B), (2)(B), or (3)(B) of subsection (a), as the case may be, shall be determined as if the taxpayer ceased to hold such property on the date of the beginning of the proceedings pursuant to which the dispositionoccurred, or, in the event there are no proceedings, such percentage shall be determined as if the taxpayer ceased to hold such property on the date, determined under regulations prescribed by the Secretary, on which such operation of an agreement or process of law, pursuant to which the disposition occurred, began.
+&emsp;If any section 1250 property is disposed of by the taxpayer pursuant to a bid for such property at foreclosure or by operation of an agreement or of process of law after there was a default on indebtedness which such property secured, the applicable percentage referred to in paragraph (1)(B), (2)(B), or (3)(B) of subsection (a), as the case may be, shall be determined as if the taxpayer ceased to hold such property on the date of the beginning of the proceedings pursuant to which the disposition occurred, or, in the event there are no proceedings, such percentage shall be determined as if the taxpayer ceased to hold such property on the date, determined under regulations prescribed by the Secretary, on which such operation of an agreement or process of law, pursuant to which the disposition occurred, began.
 
 #### (e) Holding period
 
@@ -272,7 +272,7 @@ For purposes of determining the applicable percentage under this section, the pr
 
 #### (C) Improvement
 
-&emsp;&emsp;The term “improvement” means, in the case of any section 1250 property, any addition to capital account for such property after the initial acquisition or after completion of the property.
+&emsp;&emsp;The term “improvement” means, in the case of any section 1250 property, any addition to capital account for such propertyafter the initial acquisition or after completion of the property.
 
 #### (g) Adjustments to basis
 
@@ -422,7 +422,7 @@ Subsec. (d)(3), (9). Pub. L. 94–81, §2(b), inserted reference to par. (9) in 
 
 1971—Subsec. (b)(3). Pub. L. 92–178 inserted reference to section 188.
 
-1969—Subsec. (a). Pub. L. 91–172, §521(b), modified the recapture rules pertaining to residential housing by allowing a 1 percent per month reduction in the amount to be recaptured as ordinary income after the property has been held for 100 full months, with other real property remaining subject to full recapture, applied the existing recapture rules where the sale of property was subject to a binding contract in existence prior to July 25, 1969, provided that changes in the recapture rulesare not to apply in federally assisted projects (such as programs under section 221(d)(3) or 236 of the National Housing Act) or to other publicly assisted housing programs under which the return to the investor is limited on a comparable basis, thereby rendering these projects subject to a recapture of the depreciation in full if the sale occurs in the first 12 months and for a phaseout of the recapture of the excess of accelerated over straight-line depreciation after 20 months, the recapture being reduced at the rate of 1 percent per month until 120 months after which no recapture applies, with such recapture rules to continue to apply only with respect to such property constructed, reconstructed, or acquired before Jan. 1, 1975, and applied new recapture rules to depreciation attributable to periods after Dec. 31, 1969.
+1969—Subsec. (a). Pub. L. 91–172, §521(b), modified the recapture rules pertaining to residential housing by allowing a 1 percent per month reduction in the amount to be recaptured as ordinary income after the property has been held for 100 full months, with other real property remaining subject to full recapture, applied the existing recapture rules where the sale of property was subject to a binding contract in existence prior to July 25, 1969, provided that changes in the recapture rules are not to apply in federally assisted projects (such as programs under section 221(d)(3) or 236 of the National Housing Act) or to other publicly assisted housing programs under which the return to the investor is limited on a comparable basis, thereby rendering these projects subject to a recapture of the depreciation in full if the sale occurs in the first 12 months and for a phaseout of the recapture of the excess of accelerated over straight-line depreciation after 20 months, the recapture being reduced at the rate of 1 percent per month until 120 months after which no recapture applies, with such recapture rules to continue to apply only with respect to such property constructed, reconstructed, or acquired before Jan. 1, 1975, and applied new recapture rules to depreciation attributable to periods after Dec. 31, 1969.
 
 Subsec. (b)(4). Pub. L. 91–172, §512(c), added par. (4).
 
@@ -496,7 +496,7 @@ Amendment by section 701(f)(3)(C), (E) of Pub. L. 95–600 effective as if inclu
 
 #### Effective Date of 1976 Amendment
 
-Section 202(d) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section (other than subsection (b)) \[amending this section and section 167 of this title\] shall apply for taxable years ending after December 31, 1975. The amendment made by subsection (b) \[amending this section\] shall apply with respect to proceedings (and to operations of law) referred to in section 1250(d)(10) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which begin after December 31, 1975.”
+Section 202(d) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section (other than subsection (b)) \[amending this section and section 167 of this title\] shall apply for taxable years ending after December 31, 1975. The amendment made by subsection\(b) \[amending this section\] shall apply with respect to proceedings (and to operations of law) referred to in section 1250(d)(10) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which begin after December 31, 1975.”
 
 Amendment by section 1901(b)(3)(K), (31)(A), (B), (E) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 

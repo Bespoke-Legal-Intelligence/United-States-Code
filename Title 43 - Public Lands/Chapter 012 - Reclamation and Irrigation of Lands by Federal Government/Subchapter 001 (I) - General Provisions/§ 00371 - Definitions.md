@@ -134,7 +134,7 @@ Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. 
 
 “(a) The Chairman of the Commission shall invite the Governor of each Western State to designate a representative to work closely with the Commission and its staff in matters pertaining to this title.
 
-“(b) The Commission, at its discretion, may invite appropriate public or private interest groups including,but not limited to, Indian and Tribal organizations to designate a representative to work closely with the Commission and its staff in matters pertaining to this title.
+“(b) The Commission, at its discretion, may invite appropriate public or private interest groups including, but not limited to, Indian and Tribal organizations to designate a representative to work closely with the Commission and its staff in matters pertaining to this title.
 
 #### “SEC. 3007. POWERS OF THE COMMISSION.
 

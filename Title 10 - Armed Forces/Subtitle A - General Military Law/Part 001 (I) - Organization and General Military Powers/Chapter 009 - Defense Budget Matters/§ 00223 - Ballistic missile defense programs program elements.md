@@ -48,7 +48,7 @@ Pub. L. 105–85, div. A, title II, §233, Nov. 18, 1997, 111 Stat. 1663, provid
 
 “(a)
 
-Requirement for New Program Element.—The Secretary of Defense shall establish a program element for the Ballistic Missile Defense Organization, to be referred to as the ‘Cooperative Ballistic Missile Defense Program’, to support technical and analytical cooperative efforts between the United States and other nations that contribute to United States ballistic missile defense capabilities. Except as provided in subsection (b), all international cooperative ballistic missile defense programs of the Department of Defense shall be budgeted and administered through that program element.
+Requirement for New Program Element.—The Secretary of Defense shall establish a program elementfor the Ballistic Missile Defense Organization, to be referred to as the ‘Cooperative Ballistic Missile Defense Program’, to support technical and analytical cooperative efforts between the United States and other nations that contribute to United States ballistic missile defense capabilities. Except as provided in subsection (b), all international cooperative ballistic missile defense programs of the Department of Defense shall be budgeted and administered through that program element.
 
 “(b)
 

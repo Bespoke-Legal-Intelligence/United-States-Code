@@ -56,7 +56,7 @@ In subsection (b), the words “Under such regulations as the Secretary of the A
 
 In subsection (c), the words “who is otherwise qualified” and “with his consent” are substituted for 10: 291f–2 (less 1st 55 words of 1st proviso).
 
-In subsection (d), the first sentence is substituted for 10:291f–2 (proviso). The words “after June 13, 1940” (the date of enactment of the source statute) are substituted for the word “hereafter”, in 10:291f–2. The words “after June 13, 1949”, in 10:291f–2, are omitted asexecuted. The first 17 words of the last sentence are substituted for 10:299 (1st 20 words of 2d sentence). Clause (2) is substituted for 10:299 (proviso of 2d sentence).
+In subsection (d), the first sentence is substituted for 10:291f–2 (proviso). The words “after June 13, 1940” (the date of enactment of the source statute) are substituted for the word “hereafter”, in 10:291f–2. The words “after June 13, 1949”, in 10:291f–2, are omitted as executed. The first 17 words of the last sentence are substituted for 10:299 (1st 20 words of 2d sentence). Clause (2) is substituted for 10:299 (proviso of 2d sentence).
 
 #### 1958 Act
 

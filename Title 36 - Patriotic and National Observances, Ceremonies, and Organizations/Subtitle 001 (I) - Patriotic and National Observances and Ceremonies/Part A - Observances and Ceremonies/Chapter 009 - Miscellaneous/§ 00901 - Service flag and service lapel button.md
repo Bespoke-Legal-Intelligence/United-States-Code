@@ -38,11 +38,15 @@ Oct. 17, 1942, ch. 615, 56 Stat. 796; May 27, 1953, ch. 70, 67 Stat. 35.
 
 36:180.
 
-901(c)D36:181.
+&nbsp;
+
+901(c)D36:181.D&nbsp;
 
 901(d)
 
 36:182.
+
+&nbsp;
 
 In subsection (c), the text of 36:181 (1st sentence) is omitted as executed. The word “Thereafter” is omitted as obsolete. The words “is liable to the United States Government for a civil penalty of” are substituted for “shall, upon conviction thereof, be fined” for consistency in the revised title and with other titles of the United States Code.
 

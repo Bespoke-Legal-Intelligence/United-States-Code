@@ -11,3 +11,4 @@
 - [&sect; 07254 - Organization](%C2%A7%2007254%20-%20Organization.md)
 - [&sect; 07255 - Offices](%C2%A7%2007255%20-%20Offices.md)
 - [&sect; 07256 - Times and places of sessions](%C2%A7%2007256%20-%20Times%20and%20places%20of%20sessions.md)
+- [&sect; 07257 - Recall of retired judges](%C2%A7%2007257%20-%20Recall%20of%20retired%20judges.md)

@@ -28,6 +28,10 @@ In this section:
 
 &emsp;The term “Fund” means the National Sheep Industry Improvement Center Revolving Fund established under subsection (e) of this section.
 
+#### (5) Intermediary
+
+&emsp;The term “intermediary” means a financial institution receiving Center funds for establishing a revolving fund and relending to an eligible entity.
+
 #### (b) Establishment of Center
 
 The Secretary shall establish a National Sheep Industry Improvement Center.
@@ -56,7 +60,7 @@ The purposes of the Center shall be to—
 
 &emsp;A strategic plan shall identify—
 
-&emsp;&emsp;(A) goals, methods, and a benchmark for measuring the success of carrying out theplan and how the plan relates to the national and regional goals of the Center;
+&emsp;&emsp;(A) goals, methods, and a benchmark for measuring the success of carrying out the plan and how the plan relates to the national and regional goals of the Center;
 
 &emsp;&emsp;(B) the amount and sources of Federal and non-Federal funds that are available for carrying out the plan;
 
@@ -92,33 +96,37 @@ The purposes of the Center shall be to—
 
 #### (A) In general
 
-&emsp;&emsp;The Center may use amounts in the Fund to make grants and loans to eligible entities in accordance with a strategic plan submitted under subsection (d) of this section.
+&emsp;&emsp;The Center may use amounts in the Fund to make direct loans, loan guarantees, cooperative agreements, equity interests, investments, repayable grants, and grants to eligible entities, either directly or through an intermediary, in accordance with a strategic plan submitted under subsection (d) of this section.
 
 #### (B) Continued existence
 
-&emsp;&emsp;The Center shall manage the Fund in a manner that ensures that sufficient amounts are available in the Fund to carry out subsection (c) of this section.
+&emsp;&emsp;The Center shall manage the Fund in a manner that ensures that sufficient amounts are available in the Fund to carry out subsection (c) of this section. The Fund is intended to furnish the initial capital for a revolving fund that will eventually be privatized for the purposes of assisting the United States sheep and goat industries.
 
 #### (C) Diverse area
 
 &emsp;&emsp;The Center shall, to the maximum extent practicable, use the Fund to serve broad geographic areas and regions of diverse production.
 
-#### (D) Variety of loans and grants
+#### (D) Administration
 
-&emsp;&emsp;The Center shall, to the maximum extent practicable, use the Fund to provide a variety of grants and intermediate- and long-term loans.
+&emsp;&emsp;The Center may not use more than 3 percent of the amounts in the portfolio of the Center for each fiscal year for the administration of the Center. The portfolio shall be calculated at the beginning of each fiscal year and shall include a total of—
 
-#### (E) Administration
+&emsp;&emsp;&emsp;(i) all outstanding loan balances;
 
-&emsp;&emsp;The Center may not use more than 3 percent of the amounts in the Fund for a fiscal year for the administration of the Center.
+&emsp;&emsp;&emsp;(ii) the Fund balance;
 
-#### (F) Influencing legislation
+&emsp;&emsp;&emsp;(iii) the outstanding balance to intermediaries; and
+
+&emsp;&emsp;&emsp;(iv) the amount the Center paid for all equity interests.
+
+#### (E) Influencing legislation
 
 &emsp;&emsp;None of the amounts in the Fund may be used to influence legislation.
 
-#### (G) Accounting
+#### (F) Accounting
 
 &emsp;&emsp;To be eligible to receive amounts from the Fund, an entity must agree to account for the amounts using generally accepted accounting principles.
 
-#### (H) Uses of Fund
+#### (G) Uses of Fund
 
 &emsp;&emsp;The Center may use amounts in the Fund to—
 
@@ -130,9 +138,11 @@ The purposes of the Center shall be to—
 
 &emsp;&emsp;&emsp;(iv) accrue interest;
 
-&emsp;&emsp;&emsp;(v) guarantee or purchase insurance for local obligations to improve credit market access or reduce interest rates for a project that is in accordance with the strategic plan; or
+&emsp;&emsp;&emsp;(v) guarantee or purchase insurance for local obligations to improve credit market access or reduce interest rates for a project that is in accordance with the strategic plan;
 
-&emsp;&emsp;&emsp;(vi) sell assets, loans, and equity interests acquired in connection with the financing of projects funded by the Center.
+&emsp;&emsp;&emsp;(vi) sell assets, loans, and equity interests acquired in connection with the financing of projects funded by the Center; or
+
+&emsp;&emsp;&emsp;(vii) purchase equity interests.
 
 #### (4) Loans
 
@@ -168,19 +178,11 @@ The purposes of the Center shall be to—
 
 #### (B) Mandatory funds
 
-&emsp;&emsp;Out of any moneys in the Treasury not otherwise appropriated, the Secretary of theTreasury shall provide to the Center not to exceed $20,000,000 to carry out this section.
+&emsp;&emsp;Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall provide to the Center not to exceed $20,000,000 to carry out this section.
 
 #### (C) Additional funds
 
 &emsp;&emsp;In addition to any funds provided under subparagraph (B), there is authorized to be appropriated $30,000,000 to carry out this section.
-
-#### (D) Privatization
-
-&emsp;&emsp;No additional Federal funds shall be used to carry out this section beginning on the earlier of—
-
-&emsp;&emsp;&emsp;(i) the date that is 10 years after April 4, 1996; or
-
-&emsp;&emsp;&emsp;(ii) the day after a total of $50,000,000 has been made available under subparagraphs (B) and (C) to carry out this section.
 
 #### (f) Board of Directors
 
@@ -194,7 +196,7 @@ The purposes of the Center shall be to—
 
 &emsp;&emsp;(A) be responsible for the general supervision of the Center;
 
-&emsp;&emsp;(B) review any grant, loan, contract, or cooperative agreement to be made or entered into by the Center and any financial assistance provided to the Center;
+&emsp;&emsp;(B) review any contract, direct loan, loan guarantee, cooperative agreement, equity interest, investment, repayable grant, and grant to be made or entered into by the Center and any financial assistance provided to the Center;
 
 &emsp;&emsp;(C) make the final decision, by majority vote, on whether and how to provide assistance to an applicant; and
 
@@ -242,9 +244,9 @@ The purposes of the Center shall be to—
 
 &emsp;&emsp;The initial voting members of the Board (other than the chairperson of the initially established Board) shall serve for staggered terms of 1, 2, and 3 years, as determined by the Secretary.
 
-#### (C) Reelection
+#### (C) Reappointment
 
-&emsp;&emsp;A voting member may be reelected for not more than 1 additional term.
+&emsp;&emsp;A voting member may be reappointed for not more than one additional term.
 
 #### (6) Vacancy
 
@@ -252,9 +254,9 @@ The purposes of the Center shall be to—
 
 &emsp;&emsp;A vacancy on the Board shall be filled in the same manner as the original Board.
 
-#### (B) Reelection
+#### (B) Reappointment
 
-&emsp;&emsp;A member elected to fill a vacancy for an unexpired term may be reelected for 1 full term.
+&emsp;&emsp;A voting member appointed to fill a vacancy for an unexpired term may be reappointed for one full term.
 
 #### (7) Chairperson
 
@@ -316,7 +318,7 @@ The purposes of the Center shall be to—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a member of the Board makes a full disclosure of an interest and, prior to any participation by the member, the Board determines, by majority vote, that the interest is too remote or too inconsequential to affect the integrity of any participation by the member, the member may participate in the matter relating to the interest, except as provided in subparagraph (E)(iii).
+&emsp;&emsp;&emsp;If a member of the Board makes a full disclosure of an interest and, prior to anyparticipation by the member, the Board determines, by majority vote, that the interest is too remote or too inconsequential to affect the integrity of any participation by the member, the member may participate in the matter relating to the interest, except as provided in subparagraph (E)(iii).
 
 #### (ii) Vote
 
@@ -412,7 +414,7 @@ To carry out this section, the Board may consult with—
 
 #### (2) Sanctions
 
-&emsp;If, following notice and opportunity for a hearing, the Secretary finds that the Board orthe Center is not in compliance with this section, the Secretary may—
+&emsp;If, following notice and opportunity for a hearing, the Secretary finds that the Board or the Center is not in compliance with this section, the Secretary may—
 
 &emsp;&emsp;(A) cease making deposits to the Fund;
 
@@ -424,11 +426,99 @@ To carry out this section, the Board may consult with—
 
 &emsp;The Secretary shall rescind sanctions imposed under paragraph (2) on a finding by the Secretary that there is no longer any failure by the Board or the Center to comply with this section or that the noncompliance will be promptly corrected.
 
-(Pub. L. 87–128, title III, §375, as added Pub. L. 104–127, title VII, §759, Apr. 4, 1996, 110 Stat. 1132.)
+#### (j) Privatization
+
+#### (1) In general
+
+&emsp;Privatization of a revolving fund for the purposes of assisting the United States sheep and goat industries shall occur on the earlier of—
+
+&emsp;&emsp;(A) September 30, 2006; or
+
+&emsp;&emsp;(B) the date as of which a total of $30,000,000 has been appropriated for the Center under subsection (e)(6)(C) of this section.
+
+#### (2) Privatization proposal
+
+&emsp;On privatization of a revolving fund in accordance with paragraph (1), the Board shall submit to the Secretary, for approval, a privatization proposal that—
+
+&emsp;&emsp;(A) delineates a private successor entity to the Center; and
+
+&emsp;&emsp;(B) establishes a transition plan.
+
+#### (3) Private successor entity
+
+&emsp;The private successor entity shall—
+
+&emsp;&emsp;(A) have the purposes described in subsection (c) of this section;
+
+&emsp;&emsp;(B) be organized under the laws of one of the States; and
+
+&emsp;&emsp;(C) be able to continue the activities of the Center.
+
+#### (4) Transition plan
+
+&emsp;The transition plan shall—
+
+&emsp;&emsp;(A) identify any continuing role of the Federal Government with respect to the Center;
+
+&emsp;&emsp;(B) provide for the transfer of all Center assets and liabilities to the private successor entity; and
+
+&emsp;&emsp;(C) delineate the status of the Board and employees of the Center.
+
+#### (5) Implementation
+
+#### (A) In general
+
+&emsp;&emsp;On approval by the Secretary of the private successor entity and the transition plan, the Center shall create the private successor entity and implement the transition plan.
+
+#### (B) Authority
+
+&emsp;&emsp;The Secretary shall have all necessary authority to implement the transition plan.
+
+#### (6) Transfer of funds
+
+&emsp;On creation of the private successor entity, all funds held by the Department of the Treasury pursuant to this section shall be transferred to the private successor entity.
+
+#### (7) Repeal
+
+&emsp;On the date the Secretary publishes notice in the Federal Register that the transition plan is complete, this section is repealed.
+
+(Pub. L. 87–128, title III, §375, as added Pub. L. 104–127, title VII, §759, Apr. 4, 1996, 110 Stat. 1132; amended Pub. L. 106–78, title VIII, §816, Oct. 22, 1999, 113 Stat. 1182.)
 
 #### References in Text
 
 This Act, referred to in subsec. (i)(2)(C), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, as amended. For classification of this Act to the Code, see Short Title note set out under section 1911 of this title and Tables. However, the reference was probably intended to be “this title” meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, as amended, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under section 1921 of this title and Tables.
+
+#### Amendments
+
+1999—Subsec. (a)(5). Pub. L. 106–78, §816(a), added par. (5).
+
+Subsec. (e)(3)(A). Pub. L. 106–78, §816(b)(1)(A), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “The Center may use amounts in the Fund to make grants and loans to eligible entities in accordance with a strategic plan submitted under subsection (d) of this section.”
+
+Subsec. (e)(3)(B). Pub. L. 106–78, §816(b)(1)(B), inserted at end “The Fund is intended to furnish the initial capital for a revolving fund that will eventually be privatized for the purposes of assisting the United States sheep and goat industries.”
+
+Subsec. (e)(3)(D). Pub. L. 106–78, §816(b)(1)(C), (F), redesignated subpar. (E) as (D) and struck out heading and text of former subpar. (D). Text read as follows: “The Center shall, to the maximum extent practicable, use the Fund to provide a variety of grants and intermediate- and long-term loans.”
+
+Subsec. (e)(3)(E). Pub. L. 106–78, §816(b)(1)(F), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
+
+Pub. L. 106–78, §816(b)(1)(D), added subpar. (E) and struck out heading and text of former subpar. (E). Text read as follows: “The Center may not use more than 3 percent of the amounts in the Fund for a fiscal year for the administration of the Center.”
+
+Subsec. (e)(3)(F) to (H). Pub. L. 106–78, §816(b)(1)(F), redesignated subpars. (G) and (H) as (F) and (G), respectively. Former subpar. (F) redesignated (E).
+
+Subsec. (e)(3)(H)(vii). Pub. L. 106–78, §816(b)(1)(E), added cl. (vii).
+
+Subsec. (e)(6)(D). Pub. L. 106–78, §816(b)(2), struck out heading and text of subpar. (D). Text read as follows: “No additional Federal funds shall be used to carry out this section beginning on the earlier of—
+
+&emsp;“(i) the date that is 10 years after April 4, 1996; or
+
+&emsp;“(ii) the day after a total of $50,000,000 has been made available under subparagraphs (B) and (C) to carry out this section.”
+
+Subsec. (f)(2)(B). Pub. L. 106–78, §816(c)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “review any grant, loan, contract, or cooperative agreement to be made or entered into by the Center and any financial assistance provided to the Center;”.
+
+Subsec. (f)(5)(C). Pub. L. 106–78, §816(c)(2), added subpar. (C) and struck out heading and text of former subpar. (C). Text read as follows: “A voting member may be reelected for not more than 1 additional term.”
+
+Subsec. (f)(6)(B). Pub. L. 106–78, §816(c)(3), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “A member elected to fill a vacancy for an unexpired term may be reelected for 1 full term.”
+
+Subsec. (j). Pub. L. 106–78, §816(d), added subsec. (j).
 
 #### Section Referred to in Other Sections
 

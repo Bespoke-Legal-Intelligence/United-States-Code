@@ -28,7 +28,7 @@
 
 &emsp;(4) be authorized to acquire up to an additional 4.0 megawatts (peak) of solar photovoltaic energy systems. The sum of $13,000,000 is hereby authorized to be appropriated (in addition to any other amounts authorized by this Act to be appropriated) for the fiscal year ending September 30, 1978, and for delivery in the following twelve months. Such sums shall remain available until expended. The solar photovoltaic energy systems acquired shall be available for use for power generation by Federal agencies, provided that no procurement takes place until their application on Federal sites is determined to be life cycle cost effective.
 
-(b) For technology development, particularly for engineering design and development of the manufacturing process of solar photovoltaic energy systems (primarily for the implementation of automated processes and other cost reducing production technologies), the sum of $6,000,000 is hereby authorized by this Act to be appropriated for the fiscal year ending September 30, 1978.
+(b) For technology development, particularly for engineering design and development of themanufacturing process of solar photovoltaic energy systems (primarily for the implementation of automated processes and other cost reducing production technologies), the sum of $6,000,000 is hereby authorized by this Act to be appropriated for the fiscal year ending September 30, 1978.
 
 (Pub. L. 95–238, title II, §208, Feb. 25, 1978, 92 Stat. 75.)
 

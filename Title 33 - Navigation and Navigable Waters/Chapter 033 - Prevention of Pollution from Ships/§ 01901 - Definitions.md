@@ -64,7 +64,7 @@ Section 2002 of title II of Pub. L. 100–220 provided that:
 
 “(a)
 
-In General.—Except as provided in subsections (b) and (c), this title \[enacting sections 1912 to 1915 of this title, amending this section and sections 1902, 1903, 1905, and 1907 to 1909 of this title, and enacting provisions set out as notes under this section, section 2267 of this title, and section 6981 of Title 42, The Public Health and Welfare\] shall be effective on the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, enters into force for the United States. \[Annex V entered into force for the United States Dec. 31, 1988.\]
+In General.—Except as provided in subsections (b) and (c), this title \[enacting sections 1912 to 1915 of this title, amending this section and sections 1902, 1903, 1905, and 1907 to 1909 of this title, and enacting provisions set out as notes under this section, section 2267 of this title, and section 6981 of Title 42, The Public Health and Welfare\] shall be effective on the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, enters intoforce for the United States. \[Annex V entered into force for the United States Dec. 31, 1988.\]
 
 “(b)
 

@@ -2,7 +2,7 @@
 
 #### (a) Criminal contempt
 
-All cases of criminal contempt arising under the provisions of subchapters I–A to I–C of thischapter shall be governed by section 1995 of this title.
+All cases of criminal contempt arising under the provisions of subchapters I–A to I–C of this chapter shall be governed by section 1995 of this title.
 
 #### (b) Jurisdiction of courts for declaratory judgment, restraining orders, or temporary or permanent injunction
 

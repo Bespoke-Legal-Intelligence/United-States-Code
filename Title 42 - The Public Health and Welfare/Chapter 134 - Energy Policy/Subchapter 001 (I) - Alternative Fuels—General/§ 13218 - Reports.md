@@ -28,7 +28,7 @@ Not later than one year after October 24, 1992, and biennially thereafter, the A
 
 #### (1) In general
 
-&emsp;Not later than 1 year after November 13, 1998, and annually thereafter for the next 14 years, the head of each Federal agency which is subject to this Act and Executive Order No. 13031 shall prepare, and submit to Congress, a report that—
+&emsp;Not later than 1 year after November 13, 1998, and annually thereafter for the next 14years, the head of each Federal agency which is subject to this Act and Executive Order No. 13031 shall prepare, and submit to Congress, a report that—
 
 &emsp;&emsp;(A) summarizes the compliance by such Federal agency with the alternative fuel purchasing requirements for Federal fleets under this Act and Executive Order No. 13031; and
 

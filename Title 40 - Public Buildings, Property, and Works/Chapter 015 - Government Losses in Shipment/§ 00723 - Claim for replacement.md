@@ -16,7 +16,7 @@ Section was formerly classified to section 134b of Title 5 prior to the general 
 
 #### Amendments
 
-1970—Pub. L. 91–375 substituted “insofar as such loss, destruction, or damage relates to property of the United States Postal Service chargeable to its officers or employees” for “insofar as such loss destruction, ordamage may be adjusted by the Postmaster General under the provisions of the Act of March 17, 1882, as amended” in third proviso.
+1970—Pub. L. 91–375 substituted “insofar as such loss, destruction, or damage relates to property of the United States Postal Service chargeable to its officers or employees” for “insofar as such loss destruction, or damage may be adjusted by the Postmaster General under the provisions of the Act of March 17, 1882, as amended” in third proviso.
 
 1939—Act Aug. 10, 1939, amended generally proviso dealing with securities trust fund established under authority of sections 760 and 761 of title 31.
 

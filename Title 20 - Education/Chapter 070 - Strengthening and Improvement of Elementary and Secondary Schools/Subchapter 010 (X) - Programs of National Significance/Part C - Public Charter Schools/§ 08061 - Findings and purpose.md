@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(2) useful examples of such choices can come from States and communities that experiment with methods of offering teachers and other educators, parents, and other members of the public the opportunity to design and implement new public schools and to transform existing public schools;
 
-&emsp;(3) charter schools are a mechanism for testing a variety of educational approaches andshould, therefore, be exempted from restrictive rules and regulations if the leadership of such schools commits to attaining specific and ambitious educational results for educationally disadvantaged students consistent with challenging State content standards and challenging State student performance standards for all students;
+&emsp;(3) charter schools are a mechanism for testing a variety of educational approaches and should, therefore, be exempted from restrictive rules and regulations if the leadership of such schools commits to attaining specific and ambitious educational results for educationally disadvantaged students consistent with challenging State content standards and challenging State student performance standards for all students;
 
 &emsp;(4) charter schools, as such schools have been implemented in a few States, can embody the necessary mixture of enhanced choice, exemption from restrictive regulations, and a focus on learning gains;
 

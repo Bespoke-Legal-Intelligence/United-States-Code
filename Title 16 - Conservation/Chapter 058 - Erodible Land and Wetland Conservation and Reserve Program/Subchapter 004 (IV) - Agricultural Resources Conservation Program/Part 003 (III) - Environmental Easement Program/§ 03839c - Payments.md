@@ -68,7 +68,7 @@ Notwithstanding any other provision of law, no order issued under section 902 of
 
 This Act, referred to in subsec. (f)(3), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended, known as the Food Security Act of 1985. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
-The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (f)(3), is Pub. L. 101–624,Nov. 28, 1990, 104 Stat. 3359, as amended. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 1421 of Title 7 and Tables.
+The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (f)(3), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 1421 of Title 7 and Tables.
 
 The Agricultural Act of 1949, referred to in subsec. (f)(3), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
 

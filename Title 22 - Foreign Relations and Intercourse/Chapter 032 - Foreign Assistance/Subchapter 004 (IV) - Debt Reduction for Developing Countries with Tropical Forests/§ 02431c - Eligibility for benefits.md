@@ -24,6 +24,10 @@ To be eligible for benefits from the Facility under this subchapter, a country s
 
 A prior section 805 of Pub. L. 87–195, pt. V, enacted a provision set out as a note under former section 2431 of this title prior to repeal by Pub. L. 94–329, title IV, §413(a), June 30, 1976, 90 Stat. 761.
 
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2431a, 2431g of this title.

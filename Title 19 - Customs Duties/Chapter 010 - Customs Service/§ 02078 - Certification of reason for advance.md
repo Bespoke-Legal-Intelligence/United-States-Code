@@ -14,7 +14,7 @@ Section was formerly classified to section 529d of Title 31 prior to the general
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–513 effective on first day of seventh calendar month that begins after the day immediately preceding the date of enactment of Pub. L. 91–513, which was approved on Oct. 27, 1970, see section1105(a) of Pub. L. 91–513, set out as an Effective Date note under section 951 of Title 21, Food and Drugs.
+Amendment by Pub. L. 91–513 effective on first day of seventh calendar month that begins after the day immediately preceding the date of enactment of Pub. L. 91–513, which was approved on Oct. 27, 1970, see section 1105(a) of Pub. L. 91–513, set out as an Effective Date note under section 951 of Title 21, Food and Drugs.
 
 #### Savings Provision
 
@@ -22,5 +22,5 @@ Prosecutions for any violation of law occurring, and civil seizures or forfeitur
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury, with power to delegate, see Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury, with power to delegate, see Reorg. Plan No. 26 of 1950, §§1, 2,eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 

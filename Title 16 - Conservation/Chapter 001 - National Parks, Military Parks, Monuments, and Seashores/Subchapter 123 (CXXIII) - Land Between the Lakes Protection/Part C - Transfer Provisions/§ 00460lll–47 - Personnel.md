@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) those eligible employees shall be considered to be placed on detail to the Secretary and shall be subject to the direction of the Secretary; and
 
-&emsp;&emsp;&emsp;(iii) the Secretary shall reimburse the Tennessee Valley Authority for the amount of the basic pay and all other compensation of those eligible employees.
+&emsp;&emsp;&emsp;(iii) the Secretary shall reimburse the Tennessee Valley Authority for theamount of the basic pay and all other compensation of those eligible employees.
 
 #### (B) Notice to employees
 
@@ -100,7 +100,7 @@ The Tennessee Valley Authority—
 
 #### (II) Notification
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall notify the Tennessee Valley Authority Board of the cost associated with the transfer of retirement benefits.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall notify the Tennessee Valley Authority Board of thecost associated with the transfer of retirement benefits.
 
 #### (III) Payment
 
@@ -126,7 +126,7 @@ The Tennessee Valley Authority—
 
 #### (A) Level of benefits
 
-&emsp;&emsp;The parties to the memorandum of understanding shall have authority to deem any applicable requirement to be met, to make payments to an employee, or take any otheraction necessary to provide to an eligible employee that is discharged as being excess to the needs of the Tennessee Valley Authority or the Secretary and not for cause and that does not accept an offer of employment from the Secretary, an optimum level of retirement and health benefits that is equivalent to the level that has been afforded employees discharged in previous reductions in force by the Tennessee Valley Authority.
+&emsp;&emsp;The parties to the memorandum of understanding shall have authority to deem any applicable requirement to be met, to make payments to an employee, or take any other action necessary to provide to an eligible employee that is discharged as being excess to the needs of the Tennessee Valley Authority or the Secretary and not for cause and that does not accept an offer of employment from the Secretary, an optimum level of retirement and health benefits that is equivalent to the level that has been afforded employees discharged in previous reductions in force by the Tennessee Valley Authority.
 
 #### (B) Minimum benefits
 

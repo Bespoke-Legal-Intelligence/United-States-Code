@@ -6,7 +6,7 @@ Except as provided in subsections (d) and (g) of this section and in section 139
 
 &emsp;(1) written request, signed by such individual, except in cases in which the Secretary finds it impracticable for the individual to do so, is filed for such payment in such form, in such manner, and by such person or persons as the Secretary may by regulation prescribe, no later than the close of the period of 3 calendar years following the year in which such services are furnished (deeming any services furnished in the last 3 calendar months of any calendar year to have been furnished in the succeeding calendar year) except that where the Secretary deems that efficient administration so requires, such period may be reduced to not less than 1 calendar year;
 
-&emsp;(2) a physician, or, in the case of services described in subparagraph (B), a physician, or a nurse practitioner or clinical nurse specialist who does not have a direct or indirect employment relationship with the facility but is working in collaboration with a physician, certifies (and recertifies, where such services are furnished over a period of time, in such cases, with such frequency, and accompanied by such supporting material, appropriate to the case involved, as may be provided by regulations, except that the first of such recertifications shall be required in each case of inpatient hospital services not later than the 20th day of such period) that—
+&emsp;(2) a physician, or, in the case of services described in subparagraph (B), a physician, or a nurse practitioner or clinical nurse specialist who does not have a direct or indirect employment relationship with the facility but is working in collaboration with a physician,certifies (and recertifies, where such services are furnished over a period of time, in such cases, with such frequency, and accompanied by such supporting material, appropriate to the case involved, as may be provided by regulations, except that the first of such recertifications shall be required in each case of inpatient hospital services not later than the 20th day of such period) that—
 
 &emsp;&emsp;(A) in the case of inpatient psychiatric hospital services, such services are or were required to be given on an inpatient basis, by or under the supervision of a physician, for the psychiatric treatment of an individual; and (i) such treatment can or could reasonably be expected to improve the condition for which such treatment is or was necessary or (ii) inpatient diagnostic study is or was medically required and such services are or were necessary for such purposes;
 
@@ -36,7 +36,7 @@ Except as provided in subsections (d) and (g) of this section and in section 139
 
 &emsp;&emsp;(ii) in a subsequent 90- or 60-day period, the medical director or physician described in clause (i)(II) recertifies at the beginning of the period that the individual is terminally ill.
 
-&emsp;&emsp;(B) a written plan for providing hospice care with respect to such individual has been established (before such care is provided by, or under arrangements made by, that hospice program) and is periodically reviewed by the individual's attending physician and by the medical director (and the interdisciplinary group described in section 1395x(dd)(2)(B) of this title) of the hospice program; and
+&emsp;&emsp;(B) a written plan for providing hospice care with respect to such individual has beenestablished (before such care is provided by, or under arrangements made by, that hospice program) and is periodically reviewed by the individual's attending physician and by the medical director (and the interdisciplinary group described in section 1395x(dd)(2)(B) of this title) of the hospice program; and
 
 &emsp;&emsp;(C) such care is being or was provided pursuant to such plan of care; and
 
@@ -52,7 +52,7 @@ The amount paid to any provider of services (other than a hospice program provid
 
 &emsp;(2) if such services are furnished by a public provider of services, or by another provider which demonstrates to the satisfaction of the Secretary that a significant portion of its patients are low-income (and requests that payment be made under this paragraph), free of charge or at nominal charges to the public, the amount determined on the basis of those items (specified in regulations prescribed by the Secretary) included in the determination of such reasonable cost which the Secretary finds will provide fair compensation to such provider for such services; or
 
-&emsp;(3) if some or all of the hospitals in a State have been reimbursed for services (for which payment may be made under this part) pursuant to a reimbursement system approved as a demonstration project under section 402 of the Social Security Amendments of 1967 or section 222 of the Social Security Amendments of 1972, if the rate of increase in such hospitals in their costs per hospital inpatient admission ofindividuals entitled to benefits under this part over the duration of such project was equal to or less than such rate of increase for admissions of such individuals with respect to all hospitals in the United States during such period, and if either the State has legislative authority to operate such system and the State elects to have reimbursement to such hospitals made in accordance with this paragraph or the system is operated through a voluntary agreement of hospitals and such hospitals elect to have reimbursement to those hospitals made in accordance with this paragraph, then the Secretary may provide for continuation of reimbursement to such hospitals under such system until the Secretary determines that—
+&emsp;(3) if some or all of the hospitals in a State have been reimbursed for services (for which payment may be made under this part) pursuant to a reimbursement system approved as a demonstration project under section 402 of the Social Security Amendments of 1967 or section 222 of the Social Security Amendments of 1972, if the rate of increase in such hospitals in their costs per hospital inpatient admission of individuals entitled to benefits under this part over the duration of such project was equal to or less than such rate of increase for admissions of such individuals with respect to all hospitals in the United States during such period, and if either the State has legislative authority to operate such system and the State elects to have reimbursement to such hospitals made in accordance with this paragraph or the system is operated through a voluntary agreement of hospitals and such hospitals elect to have reimbursement to those hospitals made in accordance with this paragraph, then the Secretary may provide for continuation of reimbursement to such hospitals under such system until the Secretary determines that—
 
 &emsp;&emsp;(A) a third-party payor reimburses such a hospital on a basis other than under such system, or
 
@@ -70,11 +70,11 @@ Subject to section 1395qq of this title, no payment may be made under this part 
 
 (2) Payment may be made on the basis of an itemized bill to an individual entitled to hospital insurance benefits under section 426 of this title for services described in paragraph (1) which are emergency services if (A) payment cannot be made under paragraph (1) solely because the hospital does not elect to claim such payment, and (B) such individual files application (submitted within such time and in such form and manner and by such person, and containing and supported by such information as the Secretary shall by regulations prescribe) for reimbursement.
 
-(3) The amounts payable under the preceding paragraph with respect to services described therein shall, subject to the provisions of section 1395e of this title, be equal to 60 percent of the hospital's reasonable charges for routine services furnished in the accommodations occupied by the individual or in semiprivate accommodations (as defined in section 1395x(v)(4) of this title), whichever is less, plus 80 percent of the hospital's reasonable charges for ancillary services. If separate charges for routine and ancillary services are not made by the hospital, reimbursement may be based on two-thirds of the hospital's reasonable charges for the services received but not to exceed the charges which would have been made if the patient had occupied semiprivate accommodations. For purposes of the preceding provisions of this paragraph, the term “routine services” shall mean the regular room, dietary, and nursing services, minor medical and surgical supplies and the use ofequipment and facilities for which a separate charge is not customarily made; the term “ancillary services” shall mean those special services for which charges are customarily made in addition to routine services.
+(3) The amounts payable under the preceding paragraph with respect to services described therein shall, subject to the provisions of section 1395e of this title, be equal to 60 percent of the hospital's reasonable charges for routine services furnished in the accommodations occupied by the individual or in semiprivate accommodations (as defined in section 1395x(v)(4) of this title), whichever is less, plus 80 percent of the hospital's reasonable charges for ancillary services. If separate charges for routine and ancillary services are not made by the hospital, reimbursement may be based on two-thirds of the hospital's reasonable charges for the services received but not to exceed the charges which would have been made if the patient had occupied semiprivate accommodations. For purposes of the preceding provisions of this paragraph, the term “routine services” shall mean the regular room, dietary, and nursing services, minor medical and surgical supplies and the use of equipment and facilities for which a separate charge is not customarily made; the term “ancillary services” shall mean those special services for which charges are customarily made in addition to routine services.
 
 #### (e) Payment for inpatient hospital services prior to notification of noneligibility
 
-Notwithstanding that an individual is not entitled to have payment made under this part for inpatient hospital services furnished by any hospital, payment shall be made to such hospital (unless it elects not to receive such payment or, if payment has already been made by or on behalf of such individual, fails to refund such payment within the time specified by the Secretary) for such services which are furnished to the individual prior to notification to such hospital from the Secretary of his lack of entitlement, if such payments are precluded only by reason of section 1395d of this title and if such hospital complies with the requirements of and regulations under this subchapter with respect to such payments, has acted in good faith and without knowledge of such lack of entitlement, and has acted reasonably in assuming entitlement existed. Payment under the preceding sentence may not be made for services furnished an individual pursuant to any admission after the 6th elapsed day (not including as an elapsed day Saturday, Sunday, or a legal holiday) after the day on which such admission occurred.
+Notwithstanding that an individual is not entitled to have payment made under this part for inpatient hospital services furnished by any hospital, payment shall be made to such hospital (unless it elects not to receive such payment or, if payment has already been made by or on behalf of such individual, fails to refund such payment within the time specified by the Secretary) for such services which are furnished to the individual prior to notification to such hospital from the Secretary of his lack of entitlement, if such payments are precluded only by reason of section 1395d of this title and if such hospital complies with the requirements of and regulations under this subchapter with respect to such payments, has acted in good faith and without knowledge of such lack of entitlement, and has acted reasonably in assuming entitlement existed. Payment under the preceding sentence may not be made for services furnished an individual pursuant to any admission after the 6th elapsed day (not including as an elapsed daySaturday, Sunday, or a legal holiday) after the day on which such admission occurred.
 
 #### (f) Payment for certain inpatient hospital services furnished outside United States
 
@@ -110,7 +110,7 @@ For purposes of services for which the reasonable cost thereof is determined und
 
 #### (h) Payment for specified hospital services provided in Department of Veterans Affairs hospitals; amount of payment
 
-(1) Payments shall also be made to any hospital operated by the Department of Veterans Affairs for inpatient hospital services furnished in a calendar year by the hospital, or under arrangements (as defined in section 1395x(w) of this title) with it, to an individual entitled to hospital benefits under section 426 of this title even though the hospital is a Federal provider of services if (A) the individual was not entitled to have the services furnished to him free of charge by the hospital, (B) the individual was admitted to the hospital in the reasonable belief on thepart of the admitting authorities that the individual was a person who was entitled to have the services furnished to him free of charge, (C) the authorities of the hospital, in admitting the individual, and the individual, acted in good faith, and (D) the services were furnished during a period ending with the close of the day on which the authorities operating the hospital first became aware of the fact that the individual was not entitled to have the services furnished to him by the hospital free of charge, or (if later) ending with the first day on which it was medically feasible to remove the individual from the hospital by discharging him therefrom or transferring him to a hospital which has in effect an agreement under this subchapter.
+(1) Payments shall also be made to any hospital operated by the Department of Veterans Affairs for inpatient hospital services furnished in a calendar year by the hospital, or under arrangements (as defined in section 1395x(w) of this title) with it, to an individual entitled to hospital benefits under section 426 of this title even though the hospital is a Federal provider of services if (A) the individual was not entitled to have the services furnished to him free of charge by the hospital, (B) the individual was admitted to the hospital in the reasonable belief on the part of the admitting authorities that the individual was a person who was entitled to have the services furnished to him free of charge, (C) the authorities of the hospital, in admitting the individual, and the individual, acted in good faith, and (D) the services were furnished during a period ending with the close of the day on which the authorities operating the hospital first became aware of the fact that the individual was not entitled to have the services furnished to him by the hospital free of charge, or (if later) ending with the first day on which it was medically feasible to remove the individual from the hospital by discharging him therefrom or transferring him to a hospital which has in effect an agreement under this subchapter.
 
 (2) Payment for services described in paragraph (1) shall be in an amount equal to the charge imposed by the Secretary of Veterans Affairs for such services, or (if less) the amount that would be payable for such services under subsection (b) of this section and section 1395ww of this title (as estimated by the Secretary). Any such payment shall be made to the entity to which payment for the services involved would have been payable, if payment for such services had been made by the individual receiving the services involved (or by another private person acting on behalf of such individual).
 
@@ -150,7 +150,7 @@ For purposes of services for which the reasonable cost thereof is determined und
 
 #### (j) Elimination of lesser-of-cost-or-charges provision
 
-(1) The lesser-of-cost-or-charges provisions (described in paragraph (2)) will not apply in the case of services provided by a class of provider of services if the Secretary determines and certifies to Congress that the failure of such provisions to apply to the services provided by thatclass of providers will not result in any increase in the amount of payments made for those services under this subchapter. Such change will take effect with respect to services furnished, or cost reporting periods of providers, on or after such date as the Secretary shall provide in the certification. Such change for a class of provider shall be discontinued if the Secretary determines and notifies Congress that such change has resulted in an increase in the amount of payments made under this subchapter for services provided by that class of provider.
+(1) The lesser-of-cost-or-charges provisions (described in paragraph (2)) will not apply in the case of services provided by a class of provider of services if the Secretary determines and certifies to Congress that the failure of such provisions to apply to the services provided by that class of providers will not result in any increase in the amount of payments made for those services under this subchapter. Such change will take effect with respect to services furnished, or cost reporting periods of providers, on or after such date as the Secretary shall provide in the certification. Such change for a class of provider shall be discontinued if the Secretary determines and notifies Congress that such change has resulted in an increase in the amount of payments made under this subchapter for services provided by that class of provider.
 
 (2) The lesser-of-cost-or-charges provisions referred to in paragraph (1) are as follows:
 
@@ -164,7 +164,7 @@ For purposes of services for which the reasonable cost thereof is determined und
 
 #### (k) Payments to home health agencies for durable medical equipment
 
-The amount paid to any home health agency with respect to durable medical equipment for which payment may be made under this part shall be the amount described in section 1395m(a)(1) of this title.
+The amount paid to any home health agency with respect to durable medical equipment for which payment may be made under this partshall be the amount described in section 1395m(a)(1) of this title.
 
 #### (<i>l</i>) Payment for inpatient critical access hospital services
 
@@ -206,7 +206,7 @@ Subsec. (<i>l</i>). Pub. L. 105–33, §4201(c)(3)(B), amended heading and text 
 
 &emsp;“(A) in the case of the first 12-month cost reporting period for which the facility operates as such a hospital, is the reasonable costs of the facility in providing inpatient rural primary care hospital services during such period, as such costs are determined on a per diem basis, and
 
-&emsp;“(B) in the case of a later reporting period, is the per diem payment amount established under this paragraph for the preceding 12-month cost reporting period, increased by the applicable percentage increase under section 1395ww(b)(3)(B)(i) of this title forthat particular cost reporting period applicable to hospitals located in a rural area.
+&emsp;“(B) in the case of a later reporting period, is the per diem payment amount established under this paragraph for the preceding 12-month cost reporting period, increased by the applicable percentage increase under section 1395ww(b)(3)(B)(i) of this title for that particular cost reporting period applicable to hospitals located in a rural area.
 
 > The payment amounts otherwise determined under this paragraph shall be reduced, to the extent necessary, to avoid duplication of any payment made under section 1395i–4(a)(2) of this title (or under section 4005(e) of the Omnibus Budget Reconciliation Act of 1987) to cover the provision of inpatient rural primary care hospital services.
 
@@ -220,7 +220,7 @@ Subsec. (i)(1)(C)(i). Pub. L. 103–432, §110(d)(1), substituted “September 3
 
 Subsec. (<i>l</i>)(2). Pub. L. 103–432, §102(d), substituted “January 1, 1996” for “January 1, 1993”.
 
-1993—Subsec. (i)(1)(C)(ii). Pub. L. 103–66 substituted “increased by—” and subcls. (I) to (VI) for “increased by the market basket percentage increase (as defined in section 1395ww(b)(3)(B)(iii) of this title) otherwise applicable to discharges occurring in the fiscal year.”
+1993—Subsec. (i)(1)(C)(ii). Pub. L. 103–66 substituted “increased by—” and subcls. (I) to (VI) for “increasedby the market basket percentage increase (as defined in section 1395ww(b)(3)(B)(iii) of this title) otherwise applicable to discharges occurring in the fiscal year.”
 
 1991—Subsec. (h). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration” in heading and par. (1) and “Secretary of Veterans Affairs” for “Veterans’ Administration” in par. (2).
 
@@ -404,7 +404,7 @@ Subsec. (d)(1) to (3). Pub. L. 90–248, §143(c), designated existing provision
 
 Section 4201(d) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section and sections 1320a–7a, 1320a–7b, 1320b–4, 1320b–8, 1395d, 1395e, 1395h, 1395i–4, 1395k to 1395n, 1395u, 1395x, 1395y, 1395aa, 1395cc, 1395dd, and 1395ww of this title\] shall apply to services furnished on or after October 1, 1997.”
 
-Section 4442(b) of Pub. L. 105–33 provided that: “The amendment made by subsection (a) \[amending this section\] applies to cost reporting periods beginning on or after October 1, 1997.”
+Pub. L. 105–33, title IV, §4442(b), Aug. 5, 1997, 111 Stat. 423, as amended by Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(i)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366, provided that: “The amendment made by subsection (a) \[amending this section\] applies to items and services furnished on or after October 1, 1997.”
 
 Amendment by sections 4441, 4443(b)(2), and 4448 of Pub. L. 105–33 applicable to benefits provided on or after Aug. 5, 1997, except as otherwise provided, see section 4449 of Pub. L. 105–33, set out as a note under section 1395d of this title.
 
@@ -438,7 +438,7 @@ Section 4024(c) of Pub. L. 100–203 provided that: “The amendments made by su
 
 Section 4062(e) of Pub. L. 100–203, as amended by Pub. L. 101–508, title IV, §4152(h), Nov. 5, 1990, 104 Stat. 1388–80, provided that: “The amendments made by this section \[enacting section 1395m of this title, amending this section and sections 1395k, 1395<i>l</i>, and 1395cc of this title, and repealing section 1395zz of this title\] shall apply to covered items (other than oxygen and oxygen equipment) furnished on or after January 1, 1989 and to oxygen and oxygen equipment furnished on or after June 1, 1989.”
 
-\[Section 4152(h) of Pub. L. 101–508 provided that amendment by that section to section 4062(e) of Pub. L. 100–203, set out above, is effective as if included in enactment of Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203.\]
+\[Section 4152(h) of Pub. L. 101–508 provided that amendment by that section to section 4062(e) of Pub. L.100–203, set out above, is effective as if included in enactment of Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203.\]
 
 #### Effective Date of 1984 Amendments
 
@@ -504,7 +504,7 @@ Amendment by section 227(b) of Pub. L. 92–603 applicable with respect to accou
 
 Section 228(b) of Pub. L. 92–603 provided that: “The amendment made by subsection (a) \[amending this section\] and any regulations adopted pursuant to such amendment shall apply with respect to plans of care initiated on or after January 1, 1973, and with respect to admission to skilled nursing facilities and home health plans initiated on or after such date.”
 
-Section 233(f) of Pub. L. 92–603 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1395<i>l</i> of this title\] shall apply to services furnished by hospitals, extended care facilities, and home health agencies in accounting periods beginning after December 31, 1972. The amendments made by subsections (c), (d), and (e) \[amending sections 706, 709, and 1396b of this title\] shall apply with respect to services furnished by hospitals in accounting periods beginning after December 31, 1972.” See, also, section 16 of Pub. L. 93–233, set out below.
+Section 233(f) of Pub. L. 92–603 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1395<i>l</i> of this title\] shall apply to services furnished by hospitals, extended care facilities, and home health agencies in accounting periods beginning after December 31, 1972. The amendmentsmade by subsections (c), (d), and (e) \[amending sections 706, 709, and 1396b of this title\] shall apply with respect to services furnished by hospitals in accounting periods beginning after December 31, 1972.” See, also, section 16 of Pub. L. 93–233, set out below.
 
 Amendment by section 234(g)(1) of Pub. L. 92–603 applicable with respect to providers of services for fiscal years beginning after fifth month following October 1972, see section 234(i) of Pub. L. 92–603, set out as a note under section 1395x of this title.
 
@@ -524,6 +524,36 @@ Amendment by section 129(c)(5), (6)(A) of Pub. L. 90–248 applicable with respe
 
 Amendment by section 143(c) of Pub. L. 90–248 applicable with respect to services furnished with respect to admissions occurring after Dec. 31, 1967, and to outpatient hospital diagnostic services furnished after Dec. 31, 1967, and before Apr. 1, 1968, see section 143(d) of Pub. L. 90–248, set out as a note under section 1395d of this title.
 
+#### Temporary Increase in Payment for Hospice Care
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title I, §131\], Nov. 29, 1999, 113 Stat. 1536, 1501A–333, provided that:
+
+“(a)
+
+Increase for Fiscal Years 2001
+
+and 2002.—For purposes of payments under section 1814(i)(1)(C) of the Social Security Act (42 U.S.C. 1395f(i)(1)(C)) for hospice care furnished during fiscal years 2001 and 2002, the Secretary of Health and Human Services shall increase the payment rate in effect (but for this section) for—
+
+&emsp;“(1) fiscal year 2001, by 0.5 percent, and
+
+&emsp;“(2) fiscal year 2002, by 0.75 percent.
+
+“(b)
+
+Additional Payment Not Built Into the Base.—The Secretary of Health and Human Services shall not include any additional payment made under this subsection (a) in updating the payment rate, as increased by the applicable market basket percentage increase for the fiscal year involved under section 1814(i)(1)(C)(ii) of that Act (42 U.S.C. 1395f(i)(1)(C)(ii)).”
+
+#### Study and Report to Congress Regarding Modification of Payment Rates for Hospice Care
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title I, §132\], Nov. 29, 1999, 113 Stat. 1536, 1501A–333, provided that:
+
+“(a)
+
+Study.—The Comptroller General of the United States shall conduct a study to determine the feasibility and advisability of updating the payment rates and the cap amount determined with respect to a fiscal year under section 1814(i) of the Social Security Act (42 U.S.C. 1395f(i)) for routine home care and other services included in hospice care. Such study shall examine the cost factors used to determine such rates and such amount and shall evaluate whether such factors should be modified, eliminated, or supplemented with additional cost factors.
+
+“(b)
+
+Report.—Not later than one year after the date of enactment of this Act \[Nov. 29, 1999\], the Comptroller General of the United States shall submit to Congress a report on the study conducted under subsection (a), together with any recommendations for legislation that the Comptroller General determines to be appropriate as a result of such study.”
+
 #### Study of Methods To Compensate Hospices for High-Cost Care
 
 Section 6016 of Pub. L. 101–239 directed Secretary of Health and Human Services to conduct a study of high-cost hospice care provided to medicare beneficiaries under the medicare program, evaluate the ability of hospice programs participating in the medicare program to provide such high-cost care to such patients, develop methods to compensate such programs for providing such high-cost care, and submit, not later than Apr. 1, 1991, a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the study, including in the report any recommendations developed by the Secretary to compensate hospice programs for providing high-cost hospice care to medicare beneficiaries.
@@ -542,7 +572,7 @@ Section 2308(a) of Pub. L. 98–369 provided that: “The Secretary of Health an
 
 #### Determination of Nominal Charges for Applying Nominality Test
 
-Section 2308(b)(1) of Pub. L. 98–369 provided that: “For purposes of applying the nominality test undersections 1814(b)(2) \[subsec. (b)(2) of this section\] and 1833(a)(2)(B)(ii) \[section 1395<i>l</i>(a)(2)(B)(ii) of this title\] of the Social Security Act, the Secretary shall, in addition to those rules for establishing nominality which the Secretary determines to be appropriate, provide that charges representing 60 percent or less of costs shall be considered nominal. The charges used in making such determinations shall be the charges actually billed to charge-paying patients who are not entitled to benefits under either part of such title \[sections 1395c et seq., 1395j et seq. of this title\]. Such determination shall be made separately with respect to payments for services under part A and services under part B of such title (other than clinical diagnostic laboratory tests paid under section 1833(h)), or on the basis of inpatient and outpatient services, except that the determination need not be made separately for home health services if the Secretary finds that such separation is not appropriate.”
+Section 2308(b)(1) of Pub. L. 98–369 provided that: “For purposes of applying the nominality test under sections 1814(b)(2) \[subsec. (b)(2) of this section\] and 1833(a)(2)(B)(ii) \[section 1395<i>l</i>(a)(2)(B)(ii) of this title\] of the Social Security Act, the Secretary shall, in addition to those rules for establishing nominality which the Secretary determines to be appropriate, provide that charges representing 60 percent or less of costs shall be considered nominal. The charges used in making such determinations shall be the charges actually billed to charge-paying patients who are not entitled to benefits under either part of such title \[sections 1395c et seq., 1395j et seq. of this title\]. Such determination shall be made separately with respect to payments for services under part A and services under part B of such title (other than clinical diagnostic laboratory tests paid under section 1833(h)), or on the basis of inpatient and outpatient services, except that the determination need not be made separately for home health services if the Secretary finds that such separation is not appropriate.”
 
 #### Revision of Regulations Regarding Access to Home Health Services
 

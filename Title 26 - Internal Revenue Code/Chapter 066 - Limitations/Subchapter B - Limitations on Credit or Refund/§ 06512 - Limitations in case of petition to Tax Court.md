@@ -8,7 +8,7 @@ If the Secretary has mailed to the taxpayer a notice of deficiency under section
 
 &emsp;(2) As to any amount collected in excess of an amount computed in accordance with the decision of the Tax Court which has become final; and
 
-&emsp;(3) As to any amount collected after the period of limitation upon the making of levy or beginning a proceeding in court for collection has expired; but in any such claim for credit or refund or in any such suit for refund the decision of the Tax Court which has become final, as to whether such period has expired before the notice of deficiency was mailed, shall be conclusive,<sup>1</sup> and
+&emsp;(3) As to any amount collected after the period of limitation upon the making of levy or beginning a proceeding in court for collection has expired; but in any such claim for credit or refund or in any such suit for refund the decision of the Tax Court which has become final,as to whether such period has expired before the notice of deficiency was mailed, shall be conclusive,<sup>1</sup> and
 
 &emsp;(4) As to overpayments attributable to partnership items, in accordance with subchapter C of chapter 63,<sup>1</sup> and
 
@@ -54,7 +54,7 @@ If the Secretary has mailed to the taxpayer a notice of deficiency under section
 
 &emsp;&emsp;<b>(1) For provisions allowing determination of tax in title 11 cases, see section 505(a) of title 11 of the United States Code.</b>
 
-&emsp;&emsp;<b>(2) For provision giving the Tax Court jurisdiction to award reasonable litigation costs in proceedings</b><b>to enforce an overpayment determined by such court, see section 7430.</b>
+&emsp;&emsp;<b>(2) For provision giving the Tax Court jurisdiction to award reasonable litigation costs in proceedings to enforce an overpayment determined by such court, see section 7430.</b>
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 811; Pub. L. 87–870, §4, Oct. 23, 1962, 76 Stat. 1161; Pub. L. 91–172, title I, §101(j)(47), (48), title IX, §960(b), Dec. 30, 1969, 83 Stat. 531, 734; Pub. L. 91–614, title I, §102(d)(9), Dec. 31, 1970, 84 Stat. 1842; Pub. L. 93–406, title II, §1016(a)(16), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–455, title XIII, §1307(d)(2)(F)(vii), title XVI, §1605(b)(9), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1728, 1755, 1834; Pub. L. 95–600, title II, §212(b)(2), Nov. 6, 1978, 92 Stat. 2819; Pub. L. 96–223, title I, §101(f)(6), Apr. 2, 1980, 94 Stat. 253; Pub. L. 96–589, §6(d)(3), Dec. 24, 1980, 94 Stat. 3408; Pub. L. 97–248, title IV, §402(c)(8), (9), Sept. 3, 1982, 96 Stat. 668; Pub. L. 100–418, title I, §1941(b)(2)(J), (K), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title VI, §§6244(a), (b)(2), 6246(b)(1), 6247(b)(1), Nov. 10, 1988, 102 Stat. 3750–3752; Pub. L. 105–34, title XII, §§1239(c)(2), 1282(a), title XIV, §1451(a), (b), Aug. 5, 1997, 111 Stat. 1028, 1037, 1054; Pub. L. 105–206, title III, §3464(b), (c), July 22, 1998, 112 Stat. 767.)
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, withprovision for applicability of amendment to any partnership taxable year ending after Sept. 3, 1982, if partnership, each partner, and each indirect partner requests such application and Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under section 6221 of this title.
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for applicability of amendment to any partnership taxable year ending after Sept. 3, 1982, if partnership, each partner, and each indirect partner requests such application and Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under section 6221 of this title.
 
 #### Effective Date of 1980 Amendments
 

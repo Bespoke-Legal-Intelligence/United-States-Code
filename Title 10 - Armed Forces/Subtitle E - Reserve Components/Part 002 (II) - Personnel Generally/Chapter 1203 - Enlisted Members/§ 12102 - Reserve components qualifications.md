@@ -10,7 +10,7 @@
 
 (c) A person who is otherwise qualified, but who has a physical defect that the Secretary concerned determines will not interfere with the performance of the duties to which that person may be assigned, may be enlisted as a Reserve of any armed force under the jurisdiction of that Secretary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 17, §510; Pub. L. 88–236, Dec. 23, 1963, 77 Stat. 474; Pub. L. 90–130, §1(2), Nov. 8, 1967, 81 Stat. 374; Pub. L. 90–623,§2(3), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–513, title V, §511(13), Dec. 12, 1980, 94 Stat. 2921; renumbered §12102 and amended Pub. L. 103–337, div. A, title XVI, §§1631(a), 1662(b)(2), 1675(a), Oct. 5, 1994, 108 Stat. 2964, 2989, 3017; Pub. L. 104–106, div. A, title XV, §1501(a)(5)(A), Feb. 10, 1996, 110 Stat. 495.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 17, §510; Pub. L. 88–236, Dec. 23, 1963, 77 Stat. 474; Pub. L. 90–130, §1(2), Nov. 8, 1967, 81 Stat. 374; Pub. L. 90–623, §2(3), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–513, title V, §511(13), Dec. 12, 1980, 94 Stat. 2921; renumbered §12102 and amended Pub. L. 103–337, div. A, title XVI, §§1631(a), 1662(b)(2), 1675(a), Oct. 5, 1994, 108 Stat. 2964, 2989, 3017; Pub. L. 104–106, div. A, title XV, §1501(a)(5)(A), Feb. 10, 1996, 110 Stat. 495.)
 
 Historical and Revision Notes
 

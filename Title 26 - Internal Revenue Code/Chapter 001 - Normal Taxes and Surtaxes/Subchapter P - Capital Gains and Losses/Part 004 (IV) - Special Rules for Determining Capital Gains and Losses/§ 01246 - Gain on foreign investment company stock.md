@@ -24,7 +24,7 @@
 
 #### (3) Taxpayer to establish earnings and profits
 
-&emsp;Unless the taxpayer establishes the amount of the accumulated earnings and profits of the foreign investment company and the ratable share thereof for the period during which the taxpayer held such stock, all the gain from the sale or exchange of stock in such company shall be considered as ordinary income.
+&emsp;Unless the taxpayer establishes the amount of the accumulated earnings and profits of theforeign investment company and the ratable share thereof for the period during which the taxpayer held such stock, all the gain from the sale or exchange of stock in such company shall be considered as ordinary income.
 
 #### (4) Holding period of stock must be more than 1 year
 
@@ -86,11 +86,11 @@ This section shall not apply to any gain to the extent such gain is treated as o
 
 #### References in Text
 
-The Investment Company Act of 1940, as amended, referred to in subsec. (b)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. Section 2(a)(36) of such Act, referred to in subsec. (b)(2), is classified to section 80a–2(a)(36) of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, as amended, referred to in subsec. (b)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. Section 2(a)(36) of such Act, referred to in subsec. (b)(2), is classified to section80a–2(a)(36) of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 #### Amendments
 
-1988—Subsec. (f). Pub. L. 100–647, §1012(p)(21), redesignated subsec. (g), relating to information with respectto certain foreign investment companies, as (f). Former subsec. (f) redesignated (g).
+1988—Subsec. (f). Pub. L. 100–647, §1012(p)(21), redesignated subsec. (g), relating to information with respect to certain foreign investment companies, as (f). Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 100–647, §1018(<i>o</i>)(2), substituted “1248(g)(2)” for “1248(g)(3)”.
 
@@ -170,5 +170,5 @@ Pub. L. 94–455, §2005(a)(5), cited as a credit to this section, and the amend
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1, 312, 751, 904, 1223, 1247, 1248, 1291, 1298 of this title.
+This section is referred to in sections 1, 312, 751, 904, 1223, 1247, 1248, 1260, 1291, 1298 of this title.
 

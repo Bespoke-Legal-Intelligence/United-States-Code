@@ -38,7 +38,7 @@ Upon a determination under subsection (a) of this section—
 
 The Governor, in the case of action under subsection (b)(1) of this section, or the Administrator, in the case of an action under subsection (b)(2) or (3) of this section shall, by rule or order, require each source to which such action applies to—
 
-&emsp;(1) enter into long-term contracts of at least ten years in duration (except as the Presidentor his designee may otherwise permit or require by rule or order for good cause) for supplies of regionally available coal or coal derivatives,
+&emsp;(1) enter into long-term contracts of at least ten years in duration (except as the President or his designee may otherwise permit or require by rule or order for good cause) for supplies of regionally available coal or coal derivatives,
 
 &emsp;(2) enter into contracts to acquire any additional means of emission limitation which the Administrator or the State determines may be necessary to comply with the requirements of this chapter while using such coal or coal derivatives as fuel, and
 

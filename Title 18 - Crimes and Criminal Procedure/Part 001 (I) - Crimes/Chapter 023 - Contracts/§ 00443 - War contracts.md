@@ -4,7 +4,7 @@ Whoever willfully secretes, mutilates, obliterates, or destroys—
 
 &emsp;(a) any records of a war contractor relating to the negotiation, award, performance, payment, interim financing, cancellation or other termination, or settlement of a war contract of $25,000 or more; or
 
-&emsp;(b) any records of a war contractor or purchaser relating to any disposition of termination inventory in which the considerationreceived by any war contractor or any government agency is $5,000 or more,
+&emsp;(b) any records of a war contractor or purchaser relating to any disposition of termination inventory in which the consideration received by any war contractor or any government agency is $5,000 or more,
 
 > before the lapse of (1) five years after such disposition of termination inventory by such war contractor or government agency, or (2) five years after the final settlement of such war contract, whichever applicable period is longer, shall be fined under this title or imprisoned not more than five years, or both.
 

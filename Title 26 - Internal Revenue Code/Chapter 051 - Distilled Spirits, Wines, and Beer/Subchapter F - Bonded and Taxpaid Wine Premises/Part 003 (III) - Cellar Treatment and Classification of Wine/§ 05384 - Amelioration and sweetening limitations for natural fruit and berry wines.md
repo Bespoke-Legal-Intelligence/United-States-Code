@@ -12,7 +12,7 @@ To natural wine made from berries or fruit other than grapes, pure dry sugar or 
 
 &emsp;(A) Natural fixed acid shall be calculated as malic acid for apple wine and as citric acid for other fruit and berry wines, instead of tartaric acid;
 
-&emsp;(B) Juice adjusted with pure dry sugar or liquid sugar as provided in this paragraph shallbe treated in the same manner as original natural juice under the provisions of section 5383(b); except that if liquid sugar is used, the volume of water contained therein must be deducted from the volume of ameliorating material authorized;
+&emsp;(B) Juice adjusted with pure dry sugar or liquid sugar as provided in this paragraph shall be treated in the same manner as original natural juice under the provisions of section 5383(b); except that if liquid sugar is used, the volume of water contained therein must be deducted from the volume of ameliorating material authorized;
 
 &emsp;(C) Wines made under this subsection shall have a total solids content of not more than 21 percent by weight, whether or not wine spirits have been added; and
 
@@ -26,7 +26,7 @@ A prior section 5384, act Aug. 16, 1954, ch. 736, 68A Stat. 670, consisted of pr
 
 #### Amendments
 
-1997—Subsec. (b)(2)(D). Pub. L. 105–34 substituted “any fruit or berry with a natural fixed acid of 20 parts per thousand or more (before any correction of such fruit or berry)” for “loganberries, currants, or gooseberries,”.
+1997—Subsec. (b)(2)(D). Pub. L. 105–34 substituted “any fruit or berry with a natural fixed acid of 20 partsper thousand or more (before any correction of such fruit or berry)” for “loganberries, currants, or gooseberries,”.
 
 1968—Subsec. (a). Pub. 90–619 substituted “not more than 14 percent” for “less than 14 percent”.
 

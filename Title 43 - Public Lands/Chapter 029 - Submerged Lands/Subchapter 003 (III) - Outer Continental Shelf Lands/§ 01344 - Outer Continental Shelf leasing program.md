@@ -58,7 +58,7 @@ The leasing program shall include estimates of the appropriations and staff requ
 
 #### (e) Review, revision, and reapproval of program
 
-The Secretary shall review the leasing program approved under this section at least once each year. He may revise and reapprove such program, at any time, and such revision and reapproval, except in the case of a revision which is not significant, shall be in the same manner as originally developed.
+The Secretary shall review the leasing program approved under this section at least onceeach year. He may revise and reapprove such program, at any time, and such revision and reapproval, except in the case of a revision which is not significant, shall be in the same manner as originally developed.
 
 #### (f) Procedural regulations for management of program
 
@@ -82,7 +82,7 @@ The Secretary may obtain from public sources, or purchase from private sources, 
 
 #### (h) Information from all Federal departments and agencies; confidentiality of privileged or proprietary information
 
-The heads of all Federal departments and agencies shall provide the Secretary with any nonpriviledged <sup>1</sup> or nonproprietary information he requests to assist him in preparing the leasing program and may provide the Secretary with any privileged or proprietary information he requests to assist him in preparing the leasing program. Privileged or proprietary information provided to the Secretary under the provisions of this subsection shall remain confidential for such period of time as agreed to by thehead of the department or agency from whom the information is requested. In addition, the Secretary shall utilize the existing capabilities and resources of such Federal departments and agencies by appropriate agreement.
+The heads of all Federal departments and agencies shall provide the Secretary with any nonpriviledged <sup>1</sup> or nonproprietary information he requests to assist him in preparing the leasing program and may provide the Secretary with any privileged or proprietary information he requests to assist him in preparing the leasing program. Privileged or proprietary information provided to the Secretary under the provisions of this subsection shall remain confidential for such period of time as agreed to by the head of the department or agency from whom the information is requested. In addition, the Secretary shall utilize the existing capabilities and resources of such Federal departments and agencies by appropriate agreement.
 
 (Aug. 7, 1953, ch. 345, §18, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 649.)
 

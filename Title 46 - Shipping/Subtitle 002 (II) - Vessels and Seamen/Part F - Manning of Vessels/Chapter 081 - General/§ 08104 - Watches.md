@@ -96,7 +96,7 @@ For the Great Lakes towing vessels and merchant vessels in subsections (c) and (
 
 Subsection (f) states that the limitations in subsections (d) and (e) do not apply if the master or other officer decides the crew is needed for certain routine, safety, or rescue activities.
 
-Subsection (g) provides that for a towing vessel (except a Great Lakes towing vessel under subsection (c)), offshore supply vessel, or barge on a voyage of less than600 miles, the licensed officers and certain crewmembers may be divided into not less than two watches when at sea.
+Subsection (g) provides that for a towing vessel (except a Great Lakes towing vessel under subsection (c)), offshore supply vessel, or barge on a voyage of less than 600 miles, the licensed officers and certain crewmembers may be divided into not less than two watches when at sea.
 
 Subsection (h) provides that the licensed operator for a towing vessel at least 26 feet long may not be required to work more than 12 of 24 hours, except in an emergency.
 

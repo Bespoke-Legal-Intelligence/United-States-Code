@@ -2,7 +2,7 @@
 
 #### (a) Authorization; requirements; scope
 
-If the report of the Secretary submitted pursuant to section 1521 of this title affirmatively recommends the establishment of the program and the Congress by law (after review of such recommendation) specifically authorizes the establishment of the program, the Secretary shall establish and implement within six months after the date of the enactment of such authorization a program, in cooperation with the insurance and reinsurance industry, to provide reservoir insurance to qualified eligible applicants in accordance with this section.
+If the report of the Secretary submitted pursuant to section 1521 of this title affirmatively recommends the establishment of the program and the Congress by law (after review of such recommendation) specifically authorizes the establishment of the program, the Secretary shall establish and implement within six months after thedate of the enactment of such authorization a program, in cooperation with the insurance and reinsurance industry, to provide reservoir insurance to qualified eligible applicants in accordance with this section.
 
 #### (b) Definitions
 
@@ -40,7 +40,7 @@ The Secretary, within ninety days after making and submitting the determinations
 
 #### (g) Compensation payable to holder of certificate of insurance; amount, etc.
 
-Any holder of a certificate of insurance pursuant to subsection (f) of this section who claimsa loss of value of his investment by reason of the specified risk shall receive compensation, to the extent the Secretary determines that the holder is eligible to receive compensation pursuant to the certificate and the contract, in the amount of the loss incurred by the holder which is subject to insurance and for which the holder has not received and will not receive compensation from other insurance.
+Any holder of a certificate of insurance pursuant to subsection (f) of this section who claims a loss of value of his investment by reason of the specified risk shall receive compensation, to the extent the Secretary determines that the holder is eligible to receive compensation pursuant to the certificate and the contract, in the amount of the loss incurred by the holder which is subject to insurance and for which the holder has not received and will not receive compensation from other insurance.
 
 #### (h) Withdrawal and payment of compensation
 

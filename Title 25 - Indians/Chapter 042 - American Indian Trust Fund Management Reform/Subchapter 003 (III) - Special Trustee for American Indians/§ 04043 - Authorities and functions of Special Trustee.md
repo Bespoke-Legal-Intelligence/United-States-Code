@@ -54,7 +54,7 @@
 
 &emsp;The Special Trustee shall ensure that—
 
-&emsp;&emsp;(A) the policies, procedures, practices, and systems of the Bureau, the Bureau of Land Management, and the Minerals Management Service related to the discharge of the Secretary's trust responsibilities are coordinated, consistent, and integrated, and
+&emsp;&emsp;(A) the policies, procedures, practices, and systems of the Bureau, the Bureau of Land Management, and the Minerals ManagementService related to the discharge of the Secretary's trust responsibilities are coordinated, consistent, and integrated, and
 
 &emsp;&emsp;(B) the Department prepares comprehensive and coordinated written policies and procedures for each phase of the trust management business cycle.
 

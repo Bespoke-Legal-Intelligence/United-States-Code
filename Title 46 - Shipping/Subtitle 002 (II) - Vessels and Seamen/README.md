@@ -142,6 +142,10 @@ Pub. L. 100–424, §6(b), Sept. 9, 1988, 102 Stat. 1592, added item 106.
 
 1984—Pub. L. 98–364, title IV, §402(7)(A), July 17, 1984, 98 Stat. 446, inserted “generally” in item 41, reenacted item 43 without change, and added item 45.
 
+#### Subtitle Referred to in Other Sections
+
+This subtitle is referred to in title 33 section 59ii.
+
 
 ---
 

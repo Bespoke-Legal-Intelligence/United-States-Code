@@ -22,7 +22,7 @@ Except as otherwise provided by subsection (b) and sections 6062 and 6063, any r
 
 #### (3) Published guidance
 
-&emsp;The Secretary shall publish guidance as appropriate to define and implement any waiver of the signature requirements or any method adopted under paragraph (1).
+&emsp;The Secretary shall publish guidance as appropriate to define and implement any waiverof the signature requirements or any method adopted under paragraph (1).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 748; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–206, title II, §2003(a), July 22, 1998, 112 Stat. 724.)
 
@@ -34,7 +34,7 @@ Except as otherwise provided by subsection (b) and sections 6062 and 6063, any r
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title II, §2003(f), July 22, 1998, 112 Stat. 725, provided that: “The amendments made by this section \[amending this section and section 7502 of thistitle\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title II, §2003(f), July 22, 1998, 112 Stat. 725, provided that: “The amendments made by this section \[amending this section and section 7502 of this title\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
 
 #### Cross References
 

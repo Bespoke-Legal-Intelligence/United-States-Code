@@ -14,7 +14,7 @@ The master or person in charge of—
 
 &emsp;(3) a sea port or oil handling facility subject to the jurisdiction of the United States,
 
-> shall report a discharge, probable discharge, or presence of oil in the manner prescribed by Article 4 of the International Convention on Oil Pollution Preparedness, Response and Cooperation, 1990 (adopted at London, November 30, 1990), in accordance with regulations promulgated by the Secretary for that purpose.
+> shall report a discharge, probable discharge, or presence of oil in the manner prescribed by Article 4 of the International Convention on Oil Pollution Preparedness, Response and Cooperation,1990 (adopted at London, November 30, 1990), in accordance with regulations promulgated by the Secretary for that purpose.
 
 (Pub. L. 96–478, §7, Oct. 21, 1980, 94 Stat. 2300; Pub. L. 102–241, §39, Dec. 19, 1991, 105 Stat. 2225.)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General shall issue regulations establishing procedures under which eligible units of general local government are required to provide notice to the Attorney General of the units’ proposed use of assistance under this part.
+The Attorney General shall issue regulations establishing procedures under which eligibleunits of general local government are required to provide notice to the Attorney General of the units’ proposed use of assistance under this part.
 
 #### (b) General requirements for qualification
 
@@ -16,7 +16,7 @@ A unit of general local government qualifies for a payment under this part for a
 
 &emsp;(4) if at least 25 percent of the pay of individuals employed by the government in a public employee occupation is paid out of the trust fund, individuals in the occupation any part of whose pay is paid out of the trust fund will receive pay at least equal to the prevailing rate of pay for individuals employed in similar public employee occupations by the government;
 
-&emsp;(5) the government will use accounting, audit, and fiscal procedures that conform toguidelines which shall be prescribed by the Attorney General. As applicable, amounts received under this part shall be audited in compliance with the Single Audit Act of 1984 \[31 U.S.C. 7501 et seq.\];
+&emsp;(5) the government will use accounting, audit, and fiscal procedures that conform to guidelines which shall be prescribed by the Attorney General. As applicable, amounts received under this part shall be audited in compliance with the Single Audit Act of 1984 \[31 U.S.C. 7501 et seq.\];
 
 &emsp;(6) after reasonable notice to the government, the government will make available to the Attorney General and the Comptroller General of the United States, with the right to inspect, records the Attorney General reasonably requires to review compliance with this part or the Comptroller General of the United States reasonably requires to review compliance and operations;
 

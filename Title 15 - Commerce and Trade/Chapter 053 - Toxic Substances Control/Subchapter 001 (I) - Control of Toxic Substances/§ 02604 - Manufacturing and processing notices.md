@@ -102,7 +102,7 @@ The Administrator may for good cause extend for additional periods (not to excee
 
 (B) A proposed order may not be issued under subparagraph (A) respecting a chemical substance (i) later than 45 days before the expiration of the notification period applicable to the manufacture or processing of such substance under subsection (a), (b), or (c) of this section, and (ii) unless the Administrator has, on or before the issuance of the proposed order, notified, in writing, each manufacturer or processor, as the case may be, of such substance of the determination which underlies such order.
 
-(C) If a manufacturer or processor of a chemical substance to be subject to a proposed orderissued under subparagraph (A) files with the Administrator (within the 30-day period beginning on the date such manufacturer or processor received the notice required by subparagraph (B)(ii)) objections specifying with particularity the provisions of the order deemed objectionable and stating the grounds therefor, the proposed order shall not take effect.
+(C) If a manufacturer or processor of a chemical substance to be subject to a proposed order issued under subparagraph (A) files with the Administrator (within the 30-day period beginning on the date such manufacturer or processor received the notice required by subparagraph (B)(ii)) objections specifying with particularity the provisions of the order deemed objectionable and stating the grounds therefor, the proposed order shall not take effect.
 
 (2)(A)(i) Except as provided in clause (ii), if with respect to a chemical substance with respect to which notice is required by subsection (a) of this section, the Administrator makes the determination described in paragraph (1)(A) and if—
 
@@ -160,7 +160,7 @@ If the Administrator has not initiated any action under this section or section 
 
 #### (h) Exemptions
 
-(1) The Administrator may, upon application, exempt any person from any requirement of subsection (a) or (b) of this section to permit such person to manufacture or process a chemical substance for test marketing purposes—
+(1) The Administrator may, upon application, exempt any person from any requirement of subsection (a) or (b) of this section to permit suchperson to manufacture or process a chemical substance for test marketing purposes—
 
 &emsp;(A) upon a showing by such person satisfactory to the Administrator that the manufacture, processing, distribution in commerce, use, and disposal of such substance, and that any combination of such activities, for such purposes will not present any unreasonable risk of injury to health or the environment, and
 
@@ -180,7 +180,7 @@ If the Administrator has not initiated any action under this section or section 
 
 &emsp;(ii) to any other person who has been required under this subparagraph to contribute with respect to such costs, for a portion of the amount such person was required to contribute.
 
-> In promulgating rules for the determination of fair and equitable reimbursement to the persons described in clauses (i) and (ii) for costs incurred with respect to a chemical substance, the Administrator shall, after consultation with the Attorney General and the Federal Trade Commission, consider all relevant factors, including the effect on the competitive position of the person required to provide reimbursement in relation to the persons to be reimbursed and the share of the market for such substance of theperson required to provide reimbursement in relation to the share of such market of the persons to be reimbursed. For purposes of judicial review, an order under this subparagraph shall be considered final agency action.
+> In promulgating rules for the determination of fair and equitable reimbursement to the persons described in clauses (i) and (ii) for costs incurred with respect to a chemical substance, the Administrator shall, after consultation with the Attorney General and the Federal Trade Commission, consider all relevant factors, including the effect on the competitive position of the person required to provide reimbursement in relation to the persons to be reimbursed and the share of the market for such substance of the person required to provide reimbursement in relation to the share of such market of the persons to be reimbursed. For purposes of judicial review, an order under this subparagraph shall be considered final agency action.
 
 (C) For purposes of this paragraph, the reimbursement period for any previously submitted data for a chemical substance is a period—
 

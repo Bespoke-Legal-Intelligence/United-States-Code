@@ -44,15 +44,85 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 (2) Notwithstanding the provisions of paragraph (1), the Commissioner of Social Security shall not require the disposition of any real property for so long as it cannot be sold because (A) it is jointly owned (and its sale would cause undue hardship, due to loss of housing, for the other owner or owners), (B) its sale is barred by a legal impediment, or (C) as determined under regulations issued by the Commissioner of Social Security, the owner's reasonable efforts to sell it have been unsuccessful.
 
-#### (c) Notification of medicaid policy restricting eligibility of institutionalized individuals for benefits based on disposal of resources for less than fair market value
+#### (c) Disposal of resources for less than fair market value
 
-(1) At the time an individual (and the individual's eligible spouse, if any) applies for benefits under this subchapter, and at the time the eligibility of an individual (and such spouse, if any) for such benefits is redetermined, the Commissioner of Social Security shall—
+(1)(A)(i) If an individual or the spouse of an individual disposes of resources for less than fair market value on or after the look-back date described in clause (ii)(I), the individual is ineligible for benefits under this subchapter for months during the period beginning on the date described in clause (iii) and equal to the number of months calculated as provided in clause (iv).
 
-&emsp;(A) inform such individual of the provisions of section 1396p(c) of this title providing for a period of ineligibility for benefits under subchapter XIX of this chapter for individuals who make certain dispositions of resources for less than fair market value, and inform such individual that information obtained pursuant to subparagraph (B) will be made available to the State agency administering a State plan under subchapter XIX of this chapter (as provided in paragraph (2)); and
+(ii)(I) The look-back date described in this subclause is a date that is 36 months before the date described in subclause (II).
 
-&emsp;(B) obtain from such individual information which may be used by the State agency in determining whether or not a period of ineligibility for such benefits would be required by reason of section 1396p(c) of this title if such individual (or such spouse, if any) enters a medical institution or nursing facility.
+(II) The date described in this subclause is the date on which the individual applies for benefits under this subchapter or, if later, the date on which the individual (or the spouse of the individual) disposes of resources for less than fair market value.
 
-(2) The Commissioner of Social Security shall make the information obtained under paragraph (1)(B) available, on request, to any State agency administering a State plan approved under subchapter XIX of this chapter.
+(iii) The date described in this clause is the first day of the first month in or after which resources were disposed of for less than fair market value and which does not occur in any other period of ineligibility under this paragraph.
+
+(iv) The number of months calculated under this clause shall be equal to—
+
+&emsp;(I) the total, cumulative uncompensated value of all resources so disposed of by the individual (or the spouse of the individual) on or after the look-back date described in clause (ii)(I); divided by
+
+&emsp;(II) the amount of the maximum monthly benefit payable under section 1382(b) of this title, plus the amount (if any) of the maximum State supplementary payment corresponding to the State's payment level applicable to the individual's living arrangement and eligibility category that would otherwise be payable to the individual by the Commissioner pursuant to an agreement under section 1382e(a) of this title or section 212(b) of Public Law 93–66, for the month in which occurs the date described in clause (ii)(II),
+
+> rounded, in the case of any fraction, to the nearest whole number, but shall not in any case exceed 36 months.
+
+(B)(i) Notwithstanding subparagraph (A), this subsection shall not apply to a transfer of a resource to a trust if the portion of the trust attributable to the resource is considered a resource available to the individual pursuant to subsection (e)(3) of this section (or would be so considered but for the application of subsection (e)(4) of this section).
+
+(ii) In the case of a trust established by an individual or an individual's spouse (within the meaning of subsection (e) of this section), if from such portion of the trust, if any, that is considered a resource available to the individual pursuant to subsection (e)(3) of this section (or would be so considered but for the application of subsection (e)(4) of this section) or the residue of the portion on the termination of the trust—
+
+&emsp;(I) there is made a payment other than to or for the benefit of the individual; or
+
+&emsp;(II) no payment could under any circumstance be made to the individual,
+
+> then, for purposes of this subsection, the payment described in clause (I) or the foreclosure of payment described in clause (II) shall be considered a transfer of resources by the individual or the individual's spouse as of the date of the payment or foreclosure, as the case may be.
+
+(C) An individual shall not be ineligible for benefits under this subchapter by reason of the application of this paragraph to a disposal of resources by the individual or the spouse of the individual, to the extent that—
+
+&emsp;(i) the resources are a home and title to the home was transferred to—
+
+&emsp;&emsp;(I) the spouse of the transferor;
+
+&emsp;&emsp;(II) a child of the transferor who has not attained 21 years of age, or is blind or disabled;
+
+&emsp;&emsp;(III) a sibling of the transferor who has an equity interest in such home and who was residing in the transferor's home for a period of at least 1 year immediately before the date the transferor becomes an institutionalized individual; or
+
+&emsp;&emsp;(IV) a son or daughter of the transferor (other than a child described in subclause (II)) who was residing in the transferor's home for a period of at least 2 years immediately before the date the transferor becomes an institutionalized individual, and who provided care to the transferor which permitted the transferor to reside at home rather than in such an institution or facility;
+
+&emsp;(ii) the resources—
+
+&emsp;&emsp;(I) were transferred to the transferor's spouse or to another for the sole benefit of the transferor's spouse;
+
+&emsp;&emsp;(II) were transferred from the transferor's spouse to another for the sole benefit of the transferor's spouse;
+
+&emsp;&emsp;(III) were transferred to, or to a trust (including a trust described in section 1396p(d)(4) of this title) established solely for the benefit of, the transferor's child who is blind or disabled; or
+
+&emsp;&emsp;(IV) were transferred to a trust (including a trust described in section 1396p(d)(4) of this title) established solely for the benefit of an individual who has not attained 65 years of age and who is disabled;
+
+&emsp;(iii) a satisfactory showing is made to the Commissioner of Social Security (in accordance with regulations promulgated by the Commissioner) that—
+
+&emsp;&emsp;(I) the individual who disposed of the resources intended to dispose of the resources either at fair market value, or for other valuable consideration;
+
+&emsp;&emsp;(II) the resources were transferred exclusively for a purpose other than to qualify for benefits under this subchapter; or
+
+&emsp;&emsp;(III) all resources transferred for less than fair market value have been returned to the transferor; or
+
+&emsp;(iv) the Commissioner determines, under procedures established by the Commissioner, that the denial of eligibility would work an undue hardship as determined on the basis of criteria established by the Commissioner.
+
+(D) For purposes of this subsection, in the case of a resource held by an individual in common with another person or persons in a joint tenancy, tenancy in common, or similar arrangement, the resource (or the affected portion of such resource) shall be considered to be disposed of by the individual when any action is taken, either by the individual or by any other person, that reduces or eliminates the individual's ownership or control of such resource.
+
+(E) In the case of a transfer by the spouse of an individual that results in a period of ineligibility for the individual under this subsection, the Commissioner shall apportion the period (or any portion of the period) among the individual and the individual's spouse if the spouse becomes eligible for benefits under this subchapter.
+
+(F) For purposes of this paragraph—
+
+&emsp;(i) the term “benefits under this subchapter” includes payments of the type described in section 1382e(a) of this title and of the type described in section 212(b) of Public Law 93–66;
+
+&emsp;(ii) the term “institutionalized individual” has the meaning given such term in section 1396p(e)(3) of this title; and
+
+&emsp;(iii) the term “trust” has the meaning given such term in subsection (e)(6)(A) of this section.
+
+(2)(A) At the time an individual (and the individual's eligible spouse, if any) applies for benefits under this subchapter, and at the time the eligibility of an individual (and such spouse, if any) for such benefits is redetermined, the Commissioner of Social Security shall—
+
+&emsp;(i) inform such individual of the provisions of paragraph (1) and section 1396p(c) of this title providing for a period of ineligibility for benefits under this subchapter and subchapter XIX of this chapter, respectively, for individuals who make certain dispositions of resources for less than fair market value, and inform such individual that information obtained pursuant to clause (ii) will be made available to the State agency administering a State plan under subchapter XIX of this chapter (as provided in subparagraph (B)); and
+
+&emsp;(ii) obtain from such individual information which may be used in determining whether or not a period of ineligibility for such benefits would be required by reason of paragraph (1) or section 1396p(c) of this title.
+
+(B) The Commissioner of Social Security shall make the information obtained under subparagraph (A)(ii) available, on request, to any State agency administering a State plan approved under subchapter XIX of this chapter.
 
 #### (d) Funds set aside for burial expenses
 
@@ -64,7 +134,53 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 (4) The Commissioner of Social Security may provide by regulations that whenever an amount set aside to meet burial and related expenses is excluded under paragraph (1) in determining the resources of an individual, any interest earned or accrued on such amount (and left to accumulate), and any appreciation in the value of prepaid burial arrangements for which such amount was set aside, shall also be excluded (to such extent and subject to such conditions or limitations as such regulations may prescribe) in determining the resources (and the income) of such individual.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1613, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1470; amended Pub. L. 94–569, §5, Oct. 20, 1976, 90 Stat. 2700; Pub. L. 95–171, §9(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 96–611, §5(a), Dec. 28, 1980, 94 Stat. 3567; Pub. L. 97–248, title I, §185(a), (b), Sept. 3, 1982, 96 Stat. 406; Pub. L. 98–369, div. B, title VI, §§2614, 2663(g)(5), July 18, 1984, 98 Stat. 1132, 1168; Pub. L. 100–203, title IX, §§9103(a), 9104(a), 9105(a), 9114(a), Dec. 22, 1987, 101 Stat. 1330–301, 1330–304; Pub. L. 100–360, title III, §303(c)(1), July 1, 1988, 102 Stat. 762; Pub. L. 100–647, title VIII, §8103(b), Nov. 10, 1988, 102 Stat. 3795; Pub. L. 101–239, title VIII, §§8013(b), 8014(a), Dec. 19, 1989, 103 Stat. 2465; Pub. L. 101–508, title V, §§5031(b), 5035(b), title XI, §11115(b)(2), Nov. 5, 1990, 104 Stat. 1388–224, 1388–225, 1388–414; Pub. L. 103–296, title I, §107(a)(4), title III, §321(h)(2), Aug. 15, 1994, 108 Stat. 1478, 1544; Pub. L. 104–193, title II, §213(b), Aug. 22, 1996, 110 Stat. 2195; Pub. L. 105–306, §7(b), Oct. 28, 1998, 112 Stat. 2928.)
+#### (e) Trusts
+
+(1) In determining the resources of an individual, paragraph (3) shall apply to a trust (other than a trust described in paragraph (5)) established by the individual.
+
+(2)(A) For purposes of this subsection, an individual shall be considered to have established a trust if any assets of the individual (or of the individual's spouse) are transferred to the trust other than by will.
+
+(B) In the case of an irrevocable trust to which are transferred the assets of an individual (or of the individual's spouse) and the assets of any other person, this subsection shall apply to the portion of the trust attributable to the assets of the individual (or of the individual's spouse).
+
+(C) This subsection shall apply to a trust without regard to—
+
+&emsp;(i) the purposes for which the trust is established;
+
+&emsp;(ii) whether the trustees have or exercise any discretion under the trust;
+
+&emsp;(iii) any restrictions on when or whether distributions may be made from the trust; or
+
+&emsp;(iv) any restrictions on the use of distributions from the trust.
+
+(3)(A) In the case of a revocable trust established by an individual, the corpus of the trust shall be considered a resource available to the individual.
+
+(B) In the case of an irrevocable trust established by an individual, if there are any circumstances under which payment from the trust could be made to or for the benefit of the individual (or of the individual's spouse), the portion of the corpus from which payment to or for the benefit of the individual (or of the individual's spouse) could be made shall be considered a resource available to the individual.
+
+(4) The Commissioner of Social Security may waive the application of this subsection with respect to an individual if the Commissioner determines that such application would work an undue hardship (as determined on the basis of criteria established by the Commissioner) on the individual.
+
+(5) This subsection shall not apply to a trust described in subparagraph (A) or (C) of section 1396p(d)(4) of this title.
+
+(6) For purposes of this subsection—
+
+&emsp;(A) the term “trust” includes any legal instrument or device that is similar to a trust;
+
+&emsp;(B) the term “corpus” means, with respect to a trust, all property and other interests held by the trust, including accumulated earnings and any other addition to the trust after its establishment (except that such term does not include any such earnings or addition in the month in which the earnings or addition is credited or otherwise transferred to the trust); and
+
+&emsp;(C) the term “asset” includes any income or resource of the individual (or of the individual's spouse), including—
+
+&emsp;&emsp;(i) any income excluded by section 1382a(b) of this title;
+
+&emsp;&emsp;(ii) any resource otherwise excluded by this section; and
+
+&emsp;&emsp;(iii) any other payment or property to which the individual (or of the individual's spouse) is entitled but does not receive or have access to because of action by—
+
+&emsp;&emsp;&emsp;(I) the individual or spouse;
+
+&emsp;&emsp;&emsp;(II) a person or entity (including a court) with legal authority to act in place of, or on behalf of, the individual or spouse; or
+
+&emsp;&emsp;&emsp;(III) a person or entity (including a court) acting at the direction of, or on the request of, the individual or spouse.
+
+(Aug. 14, 1935, ch. 531, title XVI, §1613, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1470; amended Pub. L. 94–569, §5, Oct. 20, 1976, 90 Stat. 2700; Pub. L. 95–171, §9(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 96–611, §5(a), Dec. 28, 1980, 94 Stat. 3567; Pub. L. 97–248, title I, §185(a), (b), Sept. 3, 1982, 96 Stat. 406; Pub. L. 98–369, div. B, title VI, §§2614, 2663(g)(5), July 18, 1984, 98 Stat. 1132, 1168; Pub. L. 100–203, title IX, §§9103(a), 9104(a), 9105(a), 9114(a), Dec. 22, 1987, 101 Stat. 1330–301, 1330–304; Pub. L. 100–360, title III, §303(c)(1), July 1, 1988, 102 Stat. 762; Pub. L. 100–647, title VIII, §8103(b), Nov. 10, 1988, 102 Stat. 3795; Pub. L. 101–239, title VIII, §§8013(b), 8014(a), Dec. 19, 1989, 103 Stat. 2465; Pub. L. 101–508, title V, §§5031(b), 5035(b), title XI, §11115(b)(2), Nov. 5, 1990, 104 Stat. 1388–224, 1388–225, 1388–414; Pub. L. 103–296, title I, §107(a)(4), title III, §321(h)(2), Aug. 15, 1994, 108 Stat. 1478, 1544; Pub. L. 104–193, title II, §213(b), Aug. 22, 1996, 110 Stat. 2195; Pub. L. 105–306, §7(b), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–169, title II, §§205(a), 206(a), Dec. 14, 1999, 113 Stat. 1833, 1834.)
 
 #### References in Text
 
@@ -72,7 +188,23 @@ The Uniform Relocation Assistance and Real Property Acquisitions Policies Act of
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(11), (13), is classified generally to Title 26, Internal Revenue Code.
 
+Section 212(b) of Public Law 93–66, referred to in subsec. (c)(1)(A)(iv)(II), (F)(i), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
+
 #### Amendments
+
+1999—Subsec. (c). Pub. L. 106–169, §206(a)(1), struck out “Notification of medicaid policy restricting eligibility of institutionalized individuals for benefits based on” before “Disposal” in subsec. heading.
+
+Subsec. (c)(1). Pub. L. 106–169, §206(a)(5), added par. (1). Former par. (1) redesignated (2)(A).
+
+Subsec. (c)(2)(A). Pub. L. 106–169, §206(a)(4), redesignated par. (1) as (2)(A).
+
+Subsec. (c)(2)(A)(i). Pub. L. 106–169, §206(a)(2)(A), (C), redesignated par. (1)(A) as (2)(A)(i), inserted “paragraph (1) and” after “provisions of”, and substituted “benefits under this subchapter and subchapter XIX of this chapter, respectively,” for “benefits under subchapter XIX of this chapter”, “clause (ii)” for “subparagraph (B)”, and “subparagraph (B)” for “paragraph (2)”.
+
+Subsec. (c)(2)(A)(ii). Pub. L. 106–169, §206(a)(2)(B), (C), redesignated par. (1)(B) as (2)(A)(ii), struck out “by theState agency” after “which may be used”, and substituted “paragraph (1) or section 1396p(c) of this title.” for “section 1396p(c) of this title if such individual (or such spouse, if any) enters a medical institution or nursing facility.”
+
+Subsec. (c)(2)(B). Pub. L. 106–169, §206(a)(3), redesignated par. (2) as (2)(B) and substituted “subparagraph (A)(ii)” for “paragraph (1)(B)”.
+
+Subsec. (e). Pub. L. 106–169, §205(a), added subsec. (e).
 
 1998—Subsec. (a)(13). Pub. L. 105–306 added par. (13).
 
@@ -124,6 +256,12 @@ Subsec. (d). Pub. L. 97–248, §185(b), added subsec. (d).
 
 1976—Subsec. (a)(1). Pub. L. 94–569 struck out “, to the extent that its value does not exceed such amount as the Secretary determines to be reasonable” after “the home (including the land that appertains thereto)”.
 
+#### Effective Date of 1999 Amendment
+
+Amendment by section 205(a) of Pub. L. 106–169 effective Jan. 1, 2000, and applicable to trusts established on or after such date, see section 205(d) of Pub. L. 106–169, set out as a note under section 1382a of this title.
+
+Pub. L. 106–169, title II, §206(c), Dec. 14, 1999, 113 Stat. 1837, provided that: “The amendments made by this section \[amending this section and section 1396a of this title\] shall be effective with respect to disposals made on or after the date of the enactment of this Act \[Dec. 14, 1999\].”
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–306 applicable to gifts made on or after the date that is 2 years before Oct. 28, 1998, see section 7(c) of Pub. L. 105–306, set out as a note under section 1382a of this title.
@@ -154,7 +292,7 @@ Section 8014(b) of Pub. L. 101–239 provided that: “The amendment made by sub
 
 #### Effective Date of 1988 Amendments
 
-Amendment by Pub. L. 100–647 effective as though included in section 162 of Housing and Community Development Act of 1987, Pub. L. 100–242, at the time of its enactment, on Feb. 5, 1988, see section 8103(c) of Pub. L. 100–647, set out as a note under section 1382a of this title.
+Amendment by Pub. L. 100–647 effective as though included in section 162 of Housing and Community Development Act of 1987, Pub. L. 100–242, at the time of its enactment, on Feb. 5, 1988, see section 8103(c) of Pub. L.100–647, set out as a note under section 1382a of this title.
 
 Amendment by Pub. L. 100–360 applicable to transfers occurring on or after July 1, 1988, without regard to whether or not final regulations to carry out such amendment have been promulgated by such date, see section 303(g)(3) of Pub. L. 100–360, set out as a note under section 1396r–5 of this title.
 

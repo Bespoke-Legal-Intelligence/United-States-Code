@@ -28,7 +28,7 @@ A State that has not exercised its authority under subsection (d)(1)(A) of this 
 
 #### (A) Opt out
 
-&emsp;&emsp;A State may, by specific reference in a law enacted after August 22, 1996, exempt any orall individuals domiciled in the State from the application of subsection (a) of this section.
+&emsp;&emsp;A State may, by specific reference in a law enacted after August 22, 1996, exempt any or all individuals domiciled in the State from the application of subsection (a) of this section.
 
 #### (B) Limit period of prohibition
 
@@ -86,5 +86,5 @@ Section 5518(d) of title V of Pub. L. 105–33 provided that: “The amendments 
 
 #### Effective Date
 
-Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
+Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rulesrelating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 

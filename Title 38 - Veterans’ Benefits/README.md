@@ -1,5 +1,5 @@
 
-38 U.S.C.<br>United States Code, 1998 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
+38 U.S.C.<br>United States Code, 1999 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 38—VETERANS’ BENEFITS
 
@@ -5618,7 +5618,7 @@ General Savings Provision.—An action taken or an offense committed under a pro
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 5 sections 7511, 8347; title 7 section 2012; title 10 sections 1408, 1450, 1451, 12319; title 26 section 6103; title 29 sections 1721, 2913; title 42 sections 290dd–1, 290dd–2, 410, 424a, 659, 10008; title 50 section 2031.
+This title is referred to in title 5 sections 7511, 8347, 8905a; title 7 section 2012; title 10 sections 1408, 1450, 1451, 12319; title 26 section 6103; title 29 sections 1721, 2913; title 42 sections 290dd–1, 290dd–2, 410, 424a, 659, 10008; title 50 section 2031.
 
 ### <b>PART I—GENERAL PROVISIONS</b>
 

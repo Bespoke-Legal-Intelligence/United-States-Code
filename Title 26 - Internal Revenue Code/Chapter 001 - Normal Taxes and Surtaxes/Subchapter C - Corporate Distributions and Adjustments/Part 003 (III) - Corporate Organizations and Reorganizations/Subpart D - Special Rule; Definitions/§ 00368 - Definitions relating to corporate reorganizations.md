@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the acquisition by one corporation, in exchange solely for all or a part of its voting stock (or in exchange solely for all or a part of the voting stock of a corporation which is in control of the acquiring corporation), of stock of another corporation if, immediately after the acquisition, the acquiring corporation has control of such other corporation (whether or not such acquiring corporation had control immediately before the acquisition);
 
-&emsp;&emsp;(C) the acquisition by one corporation, in exchange solely for all or a part of its voting stock (or in exchange solely for all or a part of the voting stock of a corporation which is in control of the acquiring corporation), of substantially all of the properties of another corporation, but in determining whether the exchange is solely for stock the assumption by the acquiring corporation of a liability of the other, or the fact that property acquired is subject to a liability, shall be disregarded;
+&emsp;&emsp;(C) the acquisition by one corporation, in exchange solely for all or a part of its voting stock (or in exchange solely for all or a part of the voting stock of a corporation which is in control of the acquiring corporation), of substantially all of the properties of another corporation, but in determining whether the exchange is solely for stock the assumption by the acquiring corporation of a liability of the other shall be disregarded;
 
 &emsp;&emsp;(D) a transfer by a corporation of all or a part of its assets to another corporation if immediately after the transfer the transferor, or one or more of its shareholders (including persons who were shareholders immediately before the transfer), or any combination thereof, is in control of the corporation to which the assets are transferred; but only if, in pursuance of the plan, stock or securities of the corporation to which the assets are transferred are distributed in a transaction which qualifies under section 354, 355, or 356;
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(iii) the acquiring corporation acquires, solely for voting stock described in paragraph (1)(C), property of the other corporation having a fair market value which is at least 80 percent of the fair market value of all of the property of the other corporation,
 
-> &emsp;&emsp;then such acquisition shall (subject to subparagraph (A) of this paragraph) be treated as qualifying under paragraph (1)(C). Solely for the purpose of determining whether clause (iii) of the preceding sentence applies, the amount of any liability assumed by the acquiring corporation, and the amount of any liability to which any property acquired by the acquiring corporation is subject, shall be treated as money paid for the property.
+> &emsp;&emsp;then such acquisition shall (subject to subparagraph (A) of this paragraph) be treated as qualifying under paragraph (1)(C). Solely for the purpose of determining whether clause (iii) of the preceding sentence applies, the amount of any liability assumed by the acquiring corporation shall be treated as money paid for the property.
 
 #### (C) Transfers of assets or stock to subsidiaries in certain paragraph (1)(A), (1)(B), (1)(C), and (1)(G) cases
 
@@ -52,7 +52,7 @@
 
 #### (E) Statutory merger using voting stock of corporation controlling merged corporation
 
-&emsp;&emsp;A transaction otherwise qualifying under paragraph (1)(A) shall not be disqualified by reason of the fact that stock of a corporation (referred to in this subparagraph as the “controlling corporation”) which before themerger was in control of the merged corporation is used in the transaction, if—
+&emsp;&emsp;A transaction otherwise qualifying under paragraph (1)(A) shall not be disqualified by reason of the fact that stock of a corporation (referred to in this subparagraph as the “controlling corporation”) which before the merger was in control of the merged corporation is used in the transaction, if—
 
 &emsp;&emsp;&emsp;(i) after the transaction, the corporation surviving the merger holds substantially all of its properties and of the properties of the merged corporation (other than stock of the controlling corporation distributed in the transaction); and
 
@@ -148,13 +148,17 @@ For purposes of this part, the term “a party to a reorganization” includes�
 
 For purposes of part I (other than section 304), part II, this part, and part V, the term “control” means the ownership of stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 120; Pub. L. 88–272, title II, §218(a), (b), Feb. 26, 1964, 78 Stat. 57; Pub. L. 90–621, §1(a), (b), Oct. 22, 1968, 82 Stat. 1310, 1311; Pub. L. 91–693, §1(a), (b), Jan. 12, 1971, 84 Stat. 2077; Pub. L. 94–455, title VIII, §806(f)(1), title XXI, §2131(a), Oct. 4, 1976, 90 Stat. 1605, 1922; Pub. L. 95–600, title VII, §701(j)(1), Nov. 6, 1978, 92 Stat. 2905; Pub. L. 96–589, §4(a)–(d), (h)(3), (4), Dec. 24, 1980, 94 Stat. 3401–3403, 3405; Pub. L. 97–34, title II, §241, Aug. 13, 1981, 95 Stat. 254; Pub. L. 97–248, title II, §225(a), Sept. 3, 1982, 96 Stat. 490; Pub. L. 97–448, title III, §304(b), (c), Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §§63(a), 64(a), 174(b)(5)(D), July 18, 1984, 98 Stat. 583, 584, 707; Pub. L. 99–514, title VI, §621(e)(1), title IX, §904(a), title XVIII, §§1804(g)(2), (h), 1879(<i>l</i>)(1), Oct. 22, 1986, 100 Stat. 2266, 2385, 2806, 2909; Pub. L. 100–647, title I, §1018(q)(5), title IV, §4012(b)(1)(A), Nov. 10, 1988, 102 Stat. 3586, 3656; Pub. L. 101–73, title XIV, §1401(a)(1), (b)(1), Aug. 9, 1989, 103 Stat. 548, 549; Pub. L. 105–34, title X, §1012(c)(2), Aug. 5, 1997,111 Stat. 917; Pub. L. 105–206, title VI, §6010(c)(3)(B), July 22, 1998, 112 Stat. 813; Pub. L. 105–277, div. J, title IV, §4003(f)(2), Oct. 21, 1998, 112 Stat. 2681–910.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 120; Pub. L. 88–272, title II, §218(a), (b), Feb. 26, 1964, 78 Stat. 57; Pub. L. 90–621, §1(a), (b), Oct. 22, 1968, 82 Stat. 1310, 1311; Pub. L. 91–693, §1(a), (b), Jan. 12, 1971, 84 Stat. 2077; Pub. L. 94–455, title VIII, §806(f)(1), title XXI, §2131(a), Oct. 4, 1976, 90 Stat. 1605, 1922; Pub. L. 95–600, title VII, §701(j)(1), Nov. 6, 1978, 92 Stat. 2905; Pub. L. 96–589, §4(a)–(d), (h)(3), (4), Dec. 24, 1980, 94 Stat. 3401–3403, 3405; Pub. L. 97–34, title II, §241, Aug. 13, 1981, 95 Stat. 254; Pub. L. 97–248, title II, §225(a), Sept. 3, 1982, 96 Stat. 490; Pub. L. 97–448, title III, §304(b), (c), Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §§63(a), 64(a), 174(b)(5)(D), July 18, 1984, 98 Stat. 583, 584, 707; Pub. L. 99–514, title VI, §621(e)(1), title IX, §904(a), title XVIII, §§1804(g)(2), (h), 1879(<i>l</i>)(1), Oct. 22, 1986, 100 Stat. 2266, 2385, 2806, 2909; Pub. L. 100–647, title I, §1018(q)(5), title IV, §4012(b)(1)(A), Nov. 10, 1988, 102 Stat. 3586, 3656; Pub. L. 101–73, title XIV, §1401(a)(1), (b)(1), Aug. 9, 1989, 103 Stat. 548, 549; Pub. L. 105–34, title X, §1012(c)(2), Aug. 5, 1997, 111 Stat. 917; Pub. L. 105–206, title VI, §6010(c)(3)(B), July 22, 1998, 112 Stat. 813; Pub. L. 105–277, div. J, title IV, §4003(f)(2), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–36, title III, §3001(a)(3), June 25, 1999, 113 Stat. 182.)
 
 #### References in Text
 
 The Investment Company Act of 1940, referred to in subsec. (a)(2)(F)(vii), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 #### Amendments
+
+1999—Subsec. (a)(1)(C). Pub. L. 106–36, §3001(a)(3)(A), struck out “, or the fact that property acquired is subject to a liability,” before “shall be disregarded”.
+
+Subsec. (a)(2)(B). Pub. L. 106–36, §3001(a)(3)(B), which directed amendment of concluding provisions by striking out “, and the amount of any liability to which any property acquired from the acquiring corporation is subject,”, was executed by striking out “, and the amount of any liability to which any property acquired by the acquiring corporation is subject,” after “acquiring corporation”, to reflect the probable intent of Congress.
 
 1998—Subsec. (a)(2)(H)(ii). Pub. L. 105–277 inserted “, or the fact that the corporation whose stock was distributed issues additional stock,” after “dispose of part or all of the distributed stock”.
 
@@ -164,7 +168,7 @@ Pub. L. 105–206 amended cl. (ii) generally. Prior to amendment, cl. (ii) read 
 
 &emsp;“(II) more than 50 percent of the total value of shares of all classes of stock of such corporation.”
 
-1997—Subsec. (a)(2)(H). Pub. L. 105–34 amended heading and text of subpar. (H) generally. Prior to amendment, text read as follows: “In the case of any transaction with respect to which the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met, for purposes of determining whether such transaction qualifies under subparagraph (D) of paragraph (1), the term ‘control’ has the meaning given to such term by section 304(c).”
+1997—Subsec. (a)(2)(H). Pub. L. 105–34 amended heading and text of subpar. (H) generally. Prior to amendment, text read as follows: “In the case of any transaction with respect to which the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met, forpurposes of determining whether such transaction qualifies under subparagraph (D) of paragraph (1), the term ‘control’ has the meaning given to such term by section 304(c).”
 
 1989—Subsec. (a)(3)(D). Pub. L. 101–73, §1401(b)(1), repealed amendment made by Pub. L. 99–514, §904(a), see 1986 Amendment note below.
 
@@ -214,7 +218,7 @@ Subsec. (a)(3). Pub. L. 96–589, §4(b), added par. (3).
 
 Subsec. (b). Pub. L. 96–589, §4(h)(4), substituted “paragraph (1)(A), (1)(B), (1)(C), or (1)(G) of subsection (a) by reason of paragraph (2)(C)” and “paragraph (1)(A) or (1)(G) of subsection (a) by reason of paragraph (2)(D)” for “paragraph (1)(A), (1)(B), or (1)(C) of subsection (a) by reason of paragraph (2)(C)” and “paragraph (1)(A) of subsection (a) by reason of paragraph (2)(D)”, respectively.
 
-1978—Subsec. (a)(2)(F). Pub. L. 95–600 substituted in cl. (iii), first sentence, “50 percent or more” and “80percent or more” for “more than 50 percent” and “more than 80 percent”; substituted in cl. (vi), first sentence, “does not meet the requirements” for “is not diversified within the meaning”; struck from cl. (vi), second sentence, “(hereafter referred to as the (‘actual acquisition’)” after “section 368(a)(1)(B)” and “and security holders” after “the shareholders” and substituted “stock in such company for stock having a fair market value equal to the fair market value of their stock of such investment company immediately after the exchange” for “stock in such investment company for a percentage of the value of the total outstanding stock of the other corporation equal to the percentage of the value of the total outstanding stock of such investment company which such shareholders own immediately after the actual acquisition”; and added cls. (vii) and (viii).
+1978—Subsec. (a)(2)(F). Pub. L. 95–600 substituted in cl. (iii), first sentence, “50 percent or more” and “80 percent or more” for “more than 50 percent” and “more than 80 percent”; substituted in cl. (vi), first sentence, “does not meet the requirements” for “is not diversified within the meaning”; struck from cl. (vi), second sentence, “(hereafter referred to as the (‘actual acquisition’)” after “section 368(a)(1)(B)” and “and security holders” after “the shareholders” and substituted “stock in such company for stock having a fair market value equal to the fair market value of their stock of such investment company immediately after the exchange” for “stock in such investment company for a percentage of the value of the total outstanding stock of the other corporation equal to the percentage of the value of the total outstanding stock of such investment company which such shareholders own immediately after the actual acquisition”; and added cls. (vii) and (viii).
 
 1976—Subsec. (a)(2)(F). Pub. L. 94–455, §2131(a), added subpar. (F).
 
@@ -228,9 +232,13 @@ Subsec. (b). Pub. L. 91–693, §1(b), defined “party to a reorganization” i
 
 Subsec. (b). Pub. L. 90–621, §1(b), inserted reference to the inclusion of the controlling corporation in term “a party to a reorganization” in reorganizations qualifying under paragraph (1)(A) of subsection (a) by reason of paragraph (2)(D) of subsection (a).
 
-1964—Subsec. (a). Pub. L. 88–272, §218(a), (b)(1), inserted “(or in exchange solely for all or a part of the voting stock of a corporation which is in control of the acquiring corporation)” in par. (1)(B), and in par. (2)(C), inserted references to par. (1)(B), and substituted “assets or stock” for “assets” wherever appearing.
+1964—Subsec. (a). Pub. L. 88–272, §218(a), (b)(1), inserted “(or in exchange solely for all or a part of thevoting stock of a corporation which is in control of the acquiring corporation)” in par. (1)(B), and in par. (2)(C), inserted references to par. (1)(B), and substituted “assets or stock” for “assets” wherever appearing.
 
 Subsec. (b). Pub. L. 88–272, §218(b)(2), inserted references to par. (1)(B) wherever appearing.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–36 applicable to transfers after Oct. 18, 1998, see section 3001(e) of Pub. L. 106–36, set out as a note under section 351 of this title.
 
 #### Effective Date of 1998 Amendments
 

@@ -50,7 +50,7 @@ Subsec. (b). Pub. L. 101–225, §301(a)(3)(B), designated existing provisions a
 
 1988—Subsec. (a). Pub. L. 100–710, §104(a)(4), inserted “of Transportation” after “Secretary”.
 
-Subsec. (c)(1). Pub. L. 100–710, §104(a)(6), in amending par. (1) generally, substituted “identify and describethe vessel” for “contain the name, the home port, and a description of the vessel”.
+Subsec. (c)(1). Pub. L. 100–710, §104(a)(6), in amending par. (1) generally, substituted “identify and describe the vessel” for “contain the name, the home port, and a description of the vessel”.
 
 #### Effective Date of 1989 Amendment
 

@@ -34,11 +34,15 @@ Pub. L. 100–688, title I, §1001, Nov. 18, 1988, 102 Stat. 4139, provided that
 
 #### Short Title
 
-Section 1 of Pub. L. 92–532 provided: “That this Act \[enacting this chapter, chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation\] may be cited as the ‘Marine Protection, Research, and Sanctuaries Act of 1972’.”
+Section 1 of Pub. L. 92–532 provided: “That this Act \[enacting this chapter, chapter 41 (§2801 et seq.) of thistitle, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation\] may be cited as the ‘Marine Protection, Research, and Sanctuaries Act of 1972’.”
 
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
+
+#### Contiguous Zone of United States
+
+For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Environmental Effects Abroad of Major Federal Actions
 

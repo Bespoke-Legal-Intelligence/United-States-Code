@@ -10,7 +10,7 @@ Based on sections 985, 1127, and 1317 of title 12, U.S.C., 1940 ed., Banks and B
 
 This section condenses and simplifies sections 985, 1127, and 1317 of title 12, U.S.C., 1940 ed., Banks and Banking, each of which contained similar provisions and similar language. The punishment provisions of all three sections were the same.
 
-References to “chapter” and “subchapter” were omitted and words describing the various types of banks or organizations to which said sections 985, 1127, and 1317 of title 12, U.S.C., 1940 ed., Banks and Banking, related,were inserted in lieu. This necessitated some rephrasing and transposition of phrases, but without change of meaning or substance.
+References to “chapter” and “subchapter” were omitted and words describing the various types of banks or organizations to which said sections 985, 1127, and 1317 of title 12, U.S.C., 1940 ed., Banks and Banking, related, were inserted in lieu. This necessitated some rephrasing and transposition of phrases, but without change of meaning or substance.
 
 Words “upon conviction” which were contained in sections 1127 and 1317 of title 12, U.S.C., 1940 ed., Banks and Banking, were omitted as surplusage, because punishment cannot be imposed until after conviction.
 

@@ -1,6 +1,6 @@
 ### §215. Territorial highway program
 
-(a) Recognizing the mutual benefits that will accrue to the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, and to the United States from the improvement of highways in such territories of the United States, the Secretary is authorized to assist each such territorial government in a program for the construction and improvement of a system of arterial highways, and necessary interisland connectors designated by the Governor of such territory and approved by the Secretary. Federal financial assistance shall be granted under this subsection to such territories upon the basis of a Federal contribution of 100 per centum of the cost of any project.
+(a) Recognizing the mutual benefits that will accrue to the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, and to the United States fromthe improvement of highways in such territories of the United States, the Secretary is authorized to assist each such territorial government in a program for the construction and improvement of a system of arterial highways, and necessary interisland connectors designated by the Governor of such territory and approved by the Secretary. Federal financial assistance shall be granted under this subsection to such territories upon the basis of a Federal contribution of 100 per centum of the cost of any project.
 
 (b) In order to establish a long-range highway development program, the Secretary is authorized to provide technical assistance for the establishment of an appropriate agency to administer on a continuing basis highway planning, design, construction and maintenance operations, the development of a system of arterial and collector highways, including necessary interisland connectors, and the establishment of advance acquisition of right-of-way and relocation assistance programs.
 
@@ -38,7 +38,7 @@ Pub. L. 95–599, title I, §104(a)(12), Nov. 6, 1978, 92 Stat. 2691, provided t
 
 &emsp;“(C) for American Samoa, not to exceed $1,000,000 per fiscal year for each of the fiscal years ending September 30, 1979, September 30, 1980, September 30, 1981, and September 30, 1982.
 
-“Sums authorized by this paragraph shall be available for obligation at the beginning of the period for which authorized in the same manner and to the sameextent as if such sums were apportioned under chapter 1 of title 23, United States Code.”
+“Sums authorized by this paragraph shall be available for obligation at the beginning of the period for which authorized in the same manner and to the same extent as if such sums were apportioned under chapter 1 of title 23, United States Code.”
 
 #### Authorization of Appropriations, Three-Month Period Ending September 30, 1976, and Fiscal Years Ending September 30, 1977, and 1978
 
@@ -50,5 +50,5 @@ Pub. L. 93–87, title I, §104(a)(12), Aug. 13, 1973, 87 Stat. 252, authorized 
 
 #### Authorization of Appropriations, Fiscal Years Ending June 30, 1971, 1972, and 1973
 
-Section 112(c), (d) of Pub. L. 91–605 authorized the appropriation of not to exceed $2,000,000 for each of fiscal years ending June 30, 1971, 1972, and 1973, for the Virgin Islands and Guam, and $500,000 for American Samoa, to carry out section 215(a) of this title; the sums appropriated for fiscal 1971 to be made available immediately and sums appropriated for fiscal 1972 and 1973 to be available at the beginning of the fiscal year for which authorized.
+Section 112(c), (d) of Pub. L. 91–605 authorized the appropriation of not to exceed $2,000,000 for each of fiscalyears ending June 30, 1971, 1972, and 1973, for the Virgin Islands and Guam, and $500,000 for American Samoa, to carry out section 215(a) of this title; the sums appropriated for fiscal 1971 to be made available immediately and sums appropriated for fiscal 1972 and 1973 to be available at the beginning of the fiscal year for which authorized.
 

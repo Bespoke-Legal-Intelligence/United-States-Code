@@ -30,7 +30,7 @@ Disbursements under subsection (a) of this section—
 
 &emsp;(1) shall be made in accordance with a schedule provided by the institution (under section 1078(a)(2)(A)(i)(III) <sup>1</sup> of this title) that complies with the requirements of this section;
 
-&emsp;(2) may be made directly by the lender or, in the case of a loan under sections 1078 and 1078–1 <sup>1</sup> of this title, may be disbursed pursuant to the escrow provisions of section 1078(i) of this title; and
+&emsp;(2) may be made directly by the lender or, in the case of a loan under sections 1078 and 1078–1 <sup>1</sup> of this title, may be disbursed pursuantto the escrow provisions of section 1078(i) of this title; and
 
 &emsp;(3) notwithstanding subsection (a)(2) of this section, may, with the permission of the borrower, be disbursed by the lender on a weekly or monthly basis, provided that the proceeds of the loan are disbursed in substantially equal weekly or monthly installments, as the case may be, over the period of enrollment for which the loan is made.
 
@@ -42,7 +42,7 @@ Disbursements under subsection (a) of this section—
 
 #### (2) Students receiving over-awards
 
-&emsp;If the sum of a disbursement for any student and the other financial aid obtained by such student exceeds the amount of assistance for which the student is eligible under this subchapter and part C of subchapter I of chapter 34 of title 42, the institution such student is attending shall withhold and return to thelender or escrow agent the portion (or all) of such installment that exceeds such eligible amount, except that overawards permitted pursuant to section 2753(b)(4) of title 42 shall not be construed to be overawards for purposes of this paragraph. Any portion (or all) of a disbursement installment which is so returned shall be credited to the borrower's loan and treated as a prepayment thereon.
+&emsp;If the sum of a disbursement for any student and the other financial aid obtained by such student exceeds the amount of assistance for which the student is eligible under this subchapter and part C of subchapter I of chapter 34 of title 42, the institution such student is attending shall withhold and return to the lender or escrow agent the portion (or all) of such installment that exceeds such eligible amount, except that overawards permitted pursuant to section 2753(b)(4) of title 42 shall not be construed to be overawards for purposes of this paragraph. Any portion (or all) of a disbursement installment which is so returned shall be credited to the borrower's loan and treated as a prepayment thereon.
 
 #### (e) Exclusion of consolidation and foreign study loans
 

@@ -32,7 +32,7 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 
 #### Potential Conservation Lands
 
-Section 3 of Pub. L. 103–450 provided that:
+Pub. L. 103–450, §3, Nov. 2, 1994, 108 Stat. 4767, as amended by Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §144(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–171, provided that:
 
 “(a)
 
@@ -44,9 +44,11 @@ Lands.—The lands referred to in subsection (a) are the approximately 1,280 acr
 
 “(c)
 
-Future Status.—(1) Effective on the date 5 years after the date of enactment of this Act \[Nov. 2, 1994\], the lands described in subsection (b) shall be added to the Red Rock Canyon National Conservation Area unless before such effective date all necessary licenses and public land rights-of-way have been issued for a hydroelectric project involving some or all of such lands.
+Future Status.—(1) Effective on May 2, 2000, the lands described in subsection (b) shall be added to the Red Rock Canyon National Conservation Area unless before such effective date all necessary licenses and public land rights-of-way have been issued for a hydroelectric project involving some or all of such lands.
 
 “(2) For purposes of section 10(b) of the Red Rock Canyon National Conservation Area Establishment Act of 1990 \[16 U.S.C. 460ccc–8(b)\], as amended by this Act, the date on which the lands identified in subsection (b) of this section are added to the Red Rock Canyon National Conservation Area shall be deemed to be the date of enactment of an Act adding such lands to the conservation area.”
+
+\[Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §144(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–171, provided that: “The amendment made by subsection (a) \[amending section 3 of Pub. L. 103–450, set out above\] takes effect on November 1, 1999.”\]
 
 #### Section Referred to in Other Sections
 

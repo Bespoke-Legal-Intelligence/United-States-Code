@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this section for purposes of this subpart the minimum contribution requirement for a plan year in whicha plan is in reorganization is an amount equal to the excess of—
+&emsp;Except as otherwise provided in this section for purposes of this subpart the minimum contribution requirement for a plan year in which a plan is in reorganization is an amount equal to the excess of—
 
 &emsp;&emsp;(A) the sum of—
 
@@ -102,7 +102,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) if the plan was not in reorganization in the preceding plan year, the funding standard requirement for such preceding plan year, or
 
-&emsp;&emsp;&emsp;&emsp;(II) if the plan was in reorganization in the preceding plan year, the sum of the amount determined under this subparagraph for the preceding plan year andthe amount (if any) determined under subparagraph (B) for the preceding plan year, plus
+&emsp;&emsp;&emsp;&emsp;(II) if the plan was in reorganization in the preceding plan year, the sum of the amount determined under this subparagraph for the preceding plan year and the amount (if any) determined under subparagraph (B) for the preceding plan year, plus
 
 &emsp;&emsp;(B) if for the plan year a change in benefits is first required to be considered in computing the charges under section 412(b)(2)(A) or (B), the sum of—
 

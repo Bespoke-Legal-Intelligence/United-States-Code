@@ -182,7 +182,7 @@ The Secretary shall take necessary steps to ensure that all studies, reports, pr
 
 #### (A) Submission of interim reports
 
-&emsp;&emsp;The organization shall prepare and submit to the Secretary two interim reports on the research. The first interim report shall describe the design of the research, and the rationale for the design, including a description of how potential sources of variation in impact of Head Start programs have been considered in designing the research. The second interim report shall describe the status of the research and preliminary findings of the research, as appropriate.
+&emsp;&emsp;The organization shall prepare and submit to the Secretary two interim reports on the research. The first interim report shall describe the design of the research, and the rationale for the design, including a description of how potential sources of variation in impact of Head Start programs have beenconsidered in designing the research. The second interim report shall describe the status of the research and preliminary findings of the research, as appropriate.
 
 #### (B) Submission of final report
 
@@ -248,7 +248,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section127 of Pub. L. 103–252, set out as a note under section 9832 of this title.
+Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as a note under section 9832 of this title.
 
 #### Effective Date of 1990 Amendment
 

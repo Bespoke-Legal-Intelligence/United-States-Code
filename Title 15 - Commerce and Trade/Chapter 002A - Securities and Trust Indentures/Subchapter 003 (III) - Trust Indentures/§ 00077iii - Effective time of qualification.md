@@ -18,7 +18,7 @@ The making, amendment, or rescission of a rule, regulation, or order under the p
 
 #### (d) Liability of trustee under qualified indenture
 
-No trustee under an indenture which has been qualified under this subchapter shall be subject to any liability because of any failure of such indenture to comply with any of the provisions of this subchapter, or any rule, regulation, or order thereunder.
+No trustee under an indenture which has been qualified under this subchapter shall be subjectto any liability because of any failure of such indenture to comply with any of the provisions of this subchapter, or any rule, regulation, or order thereunder.
 
 #### (e) Power of Commission to conduct investigation
 

@@ -12,7 +12,7 @@ Chapter 33 of this title, prior to February 1, 1965, referred to in subsec. (b),
 
 Subchapter VII of chapter 35 of this title, prior to March 3, 1966, referred to in subsec. (b), means Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 158 to 162, which was classified to sections 1771 to 1778 of this title, and was redesignated as subchapter I of this chapter by section 3(a)(4) of Pub. L. 89–358.
 
-Section 1656 of this title, as in effect prior to Feb. 1, 1965, referred to in subsec. (b), is Pub. L. 85–857, §1656, Sept. 2, 1958, 72 Stat. 1189, which was repealed by section 4(a) of Pub. L. 89–358, and is covered by section 3679 of this title.
+Section 1656 of this title, as in effect prior to February 1, 1965, referred to in subsec. (b), is Pub. L. 85–857, §1656, Sept. 2, 1958, 72 Stat. 1189, which was repealed by section 4(a) of Pub. L. 89–358, and is covered by section 3679 of this title.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 (a) The district courts shall have original jurisdiction of any civil action authorized by law to be commenced by any person:
 
-&emsp;(1) To recover damages for injury to his person or property, or because of the deprivation of any right or privilege of a citizen of the United States, by any act done in furtherance of any conspiracy mentioned in section 1985 of Title 42;
+&emsp;(1) To recover damages for injury to his person or property, or because of the deprivation of any right or privilege of a citizen of the United States, by any act done in furtheranceof any conspiracy mentioned in section 1985 of Title 42;
 
 &emsp;(2) To recover damages from any person who fails to prevent or to aid in preventing any wrongs mentioned in section 1985 of Title 42 which he had knowledge were about to occur and power to prevent;
 

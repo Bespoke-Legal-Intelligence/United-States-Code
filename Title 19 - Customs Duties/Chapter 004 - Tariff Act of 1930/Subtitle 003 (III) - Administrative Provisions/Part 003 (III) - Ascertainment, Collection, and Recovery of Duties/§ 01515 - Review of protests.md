@@ -2,7 +2,7 @@
 
 #### (a) Administrative review and modification of decisions
 
-Unless a request for an accelerated disposition of a protest is filed in accordance with subsection (b) of this section the appropriate customs officer, within two years from the date a protest was filed in accordance with section 1514 of this title, shall review the protest and shall allow or deny such protest in whole or in part. Thereafter, any duties, charge, or exaction found to have been assessed or collected in excess shall be remitted or refunded and any drawback found due shall be paid. Upon the request of the protesting party, filed within the time allowed for the filing of a protest under section 1514 of this title, a protest may be subject to further review by another appropriate customs officer, under the circumstances and in the form and manner that may be prescribed by the Secretary in regulations, but subject to the two-year limitation prescribed in the first sentence of this subsection. Notice of the denial of any protest shall be mailed in the form and manner prescribed by the Secretary. Such notice shall include a statement of the reasons for the denial, as well as a statement informing the protesting party of his right to file a civil action contesting the denial of a protest under section 1514 of this title.
+Unless a request for an accelerated disposition of a protest is filed in accordance with subsection (b) of this section the appropriate customs officer, within two years from the date a protest was filed in accordance with section 1514 of this title, shall review the protest and shall allow or deny such protest in whole or in part. Thereafter, any duties, charge, or exaction found to have been assessed or collected in excess shall be remitted or refunded and any drawback found due shall be paid. Upon the request of the protesting party, filed within the time allowed for the filing of a protest under section 1514 of this title, a protest may be subject to further review by another appropriate customs officer, under the circumstances and in the form and manner that may be prescribed by the Secretary in regulations, but subject to the two-year limitation prescribed in the first sentence of this subsection. Within 30 days from the date an application for further review is filed, the appropriate customs officer shall allow or deny the application and, if allowed, the protest shall be forwarded to the customs officer who will be conducting the further review. Notice of the denial of any protest shall be mailed in the form and manner prescribed by the Secretary. Such notice shall include a statement of the reasons for the denial, as well as a statement informing the protesting party of his right to file a civil action contesting the denial of a protest under section 1514 of this title.
 
 #### (b) Request for accelerated disposition of protest
 
@@ -16,7 +16,7 @@ If a protesting party believes that an application for further review was errone
 
 If a protest is timely and properly filed, but is denied contrary to proper instructions, the Customs Service may on its own initiative, or pursuant to a written request by the protesting party filed with the appropriate port director within 90 days after the date of the protest denial, void the denial of the protest.
 
-(June 17, 1930, ch. 497, title IV, §515, 46 Stat. 734; Pub. L. 91–271, title II, §208, June 2, 1970, 84 Stat. 285; Pub. L. 96–39, title X, §1001(b)(2), July 26, 1979, 93 Stat. 304; Pub. L. 96–417, title VI, §606, Oct. 10, 1980, 94 Stat. 1745; Pub. L. 103–182, title VI, §617, Dec. 8, 1993, 107 Stat. 2179; Pub. L. 104–295, §3(a)(11), Oct. 11, 1996, 110 Stat. 3516.)
+(June 17, 1930, ch. 497, title IV, §515, 46 Stat. 734; Pub. L. 91–271, title II, §208, June 2, 1970, 84 Stat. 285; Pub. L. 96–39, title X, §1001(b)(2), July 26, 1979, 93 Stat. 304; Pub. L. 96–417, title VI, §606, Oct. 10, 1980, 94 Stat. 1745; Pub. L. 103–182, title VI, §617, Dec. 8, 1993, 107 Stat. 2179; Pub. L. 104–295, §3(a)(11), Oct. 11, 1996, 110 Stat. 3516; Pub. L. 106–36, title II, §2407, June 25, 1999, 113 Stat. 171.)
 
 #### Prior Provisions
 
@@ -25,6 +25,8 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 Provisions for transmission of the invoice, papers, and exhibits to the board of general appraisers in case of protest, and provisions concerning the conclusiveness of its determination, were contained in act Oct. 3, 1913, ch. 16, §III, N, 38 Stat. 187, the provisions of which were substituted for provisions of a similar nature in Customs Administrative Act of June 10, 1890, ch. 407, §14, 26 Stat. 137, as amended by Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 100.
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–36 inserted after third sentence “Within 30 days from the date an application for further review is filed, the appropriate customs officer shall allow or deny the application and, if allowed, the protest shall be forwarded to the customs officer who will be conducting the further review.”
 
 1996—Subsec. (d). Pub. L. 104–295 substituted “port director” for “district director”.
 

@@ -122,7 +122,7 @@ Sec. 2. The Congress makes the following findings:
 
 &emsp;“(9) These film badges often provide an incomplete measure of radiation exposure, since they were not capable of recording inhaled, ingested, or neutron doses (although the Defense Nuclear Agency currently has the capability to reconstruct individual estimates of such doses), were not issued to most of the participants in nuclear tests, often provided questionable readings because they were shielded during the detonation, and were worn for only limited periods during and after each nuclear detonation.
 
-&emsp;“(10) Standards governing the reporting of dose estimates in connection with radiation-related claims for Veterans’ Administration \[now Department of Veterans Affairs\] disability compensation vary among the several branches of the Armed Forces, and no uniform minimum standards exist.
+&emsp;“(10) Standards governing the reporting of dose estimates in connection with radiation-related claimsfor Veterans’ Administration \[now Department of Veterans Affairs\] disability compensation vary among the several branches of the Armed Forces, and no uniform minimum standards exist.
 
 &emsp;“(11) The Veterans’ Administration \[now Department of Veterans Affairs\] has not promulgated permanent regulations setting forth specific guidelines, standards, and criteria for the adjudication of claims for Veterans’ Administration disability compensation based on exposure to herbicides containing dioxin or to ionizing radiation.
 
@@ -136,7 +136,7 @@ Sec. 2. The Congress makes the following findings:
 
 Sec. 3. The purpose of this Act is to ensure that Veterans’ Administration \[now Department of Veterans Affairs\] disability compensation is provided to veterans who were exposed to ionizing radiation in connection with atmospheric nuclear tests or in connection with the American occupation of Hiroshima or Nagasaki, Japan, for all disabilities arising after that service that are connected, based on sound scientific and medical evidence, to such service (and that Veterans’ Administration dependency and indemnity compensation is provided to survivors of those veterans for all deaths resulting from such disabilities).”
 
-\[Amendment by Pub. L. 102–4 to sections 2 and 3 of Pub. L. 98–542, set out above, effective at the end of the six-month period beginning on Feb. 6, 1991, except asotherwise provided, see section 10(e) of Pub. L. 102–4, set out below under sections 5 to 7 of Pub. L. 98–542.\]
+\[Amendment by Pub. L. 102–4 to sections 2 and 3 of Pub. L. 98–542, set out above, effective at the end of the six-month period beginning on Feb. 6, 1991, except as otherwise provided, see section 10(e) of Pub. L. 102–4, set out below under sections 5 to 7 of Pub. L. 98–542.\]
 
 #### Requirement for and Content of Regulations; Advisory Committee on Environmental Standards; Nuclear Radiation Matters Involving Other Agencies
 
@@ -238,7 +238,7 @@ Sec. 7. (a) In connection with the duties of the Director of the Defense Nuclear
 
 \[“(2)(A) If the Secretary of Veterans Affairs determines before the end of such period that the Environmental Hazards Advisory Committee established under section 6 of Public Law 98–542 (38 U.S.C. 354 note) \[set out above\] has completed its responsibilities under that section and the directives of the Secretary pursuant to the Nehmer case court order, the amendments made by this section shall take effect as of the date of such determination.
 
-\[“(B) For purposes of this paragraph, the term ‘Nehmer case court order’ means the court order datedMay 2, 1989, in the case of Nehmer v. Department of Veterans Affairs, in the United States district court for the northern district of California (civil action docket number C–86–6160 TEH).
+\[“(B) For purposes of this paragraph, the term ‘Nehmer case court order’ means the court order dated May 2, 1989, in the case of Nehmer v. Department of Veterans Affairs, in the United States district court for the northern district of California (civil action docket number C–86–6160 TEH).
 
 \[“(3) If the Secretary makes a determination under paragraph (2), the Secretary shall promptly publish in the Federal Register a notice that such determination has been made and that such amendments have thereby taken effect as of the date of such determination.”\]
 

@@ -6,7 +6,7 @@ Employees required for the performance of the provisions of section 13a(a) of th
 
 #### Codification
 
-In clause (b), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In clause (b), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 In clause (c), “subchapter III of chapter 83 of title 5” substituted for “the Act entitled ‘An Act for the retirement of employees in the classified civil service, and for other purposes’ approved May 22, 1920, as amended (U.S.C., title 5, ch. 14)” to reflect the enactment of Title 5 by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 

@@ -82,7 +82,7 @@ Special rules.—For the purposes of this subsection—
 
 (f)
 
-Limiting Liability of Household Goods Carriers to Declared Value.—A carrier or group of carriers subject to jurisdiction under subchapter I or III of chapter 135 may petition the Board to modify, eliminate, or establish rates for the transportation of household goods under which the liability of the carrier for thatproperty is limited to a value established by written declaration of the shipper or by a written agreement.
+Limiting Liability of Household Goods Carriers to Declared Value.—A carrier or group of carriers subject to jurisdiction under subchapter I or III of chapter 135 may petition the Board to modify, eliminate, or establish rates for the transportation of household goods under which the liability of the carrier for that property is limited to a value established by written declaration of the shipper or by a written agreement.
 
 (g)
 

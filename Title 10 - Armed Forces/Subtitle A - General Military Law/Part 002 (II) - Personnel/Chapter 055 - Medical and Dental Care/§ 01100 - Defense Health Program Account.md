@@ -8,7 +8,7 @@ Establishment of Account.—(1) There is hereby established in the Department of
 
 (b)
 
-Obligation of Amounts From Account by Secretary of Defense.—The Secretary of Defense may obligate or expend funds from the account for purposes of conducting programs and activities under this chapter, including contracts entered into under section 1079, 1086, 1092,or 1097 of this title, to the extent amounts are available in the account.
+Obligation of Amounts From Account by Secretary of Defense.—The Secretary of Defense may obligate or expend funds from the account for purposes of conducting programs and activities under this chapter, including contracts entered into under section 1079, 1086, 1092, or 1097 of this title, to the extent amounts are available in the account.
 
 (c)
 

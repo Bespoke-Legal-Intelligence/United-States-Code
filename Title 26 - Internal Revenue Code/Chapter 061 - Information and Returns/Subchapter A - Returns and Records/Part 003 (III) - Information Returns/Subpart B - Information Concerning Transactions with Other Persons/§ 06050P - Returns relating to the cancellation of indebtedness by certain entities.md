@@ -32,9 +32,11 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any financial institution described in section 581 or 591(a) and any credit union,
 
-&emsp;&emsp;(B) the Federal Deposit Insurance Corporation, the Resolution Trust Corporation, the National Credit Union Administration, and any other Federal executive agency (as defined in section 6050M), and any successor or subunit of any of the foregoing, and
+&emsp;&emsp;(B) the Federal Deposit Insurance Corporation, the Resolution Trust Corporation, the National Credit Union Administration, and any other Federal executive agency (as defined in section 6050M), and any successor or subunit of any of the foregoing,
 
-&emsp;&emsp;(C) any other corporation which is a direct or indirect subsidiary of an entity referred to in subparagraph (A) but only if, by virtue of being affiliated with such entity, such other corporation is subject to supervision and examination by a Federal or State agency which regulates entities referred to in subparagraph (A).
+&emsp;&emsp;(C) any other corporation which is a direct or indirect subsidiary of an entity referred to in subparagraph (A) but only if, by virtue of being affiliated with such entity, such other corporation is subject to supervision and examination by a Federal or State agency which regulates entities referred to in subparagraph (A), and
+
+&emsp;&emsp;(D) any organization a significant trade or business of which is the lending of money.
 
 #### (3) Governmental units
 
@@ -54,9 +56,11 @@ Every applicable entity required to make a return under subsection (a) shall fur
 
 In lieu of making a return required under subsection (a), an agency described in subsection (c)(1)(A) may submit to the Secretary (at such time and in such form as the Secretary may by regulations prescribe) information sufficient for the Secretary to complete such a return on behalf of such agency. Upon receipt of such information, the Secretary shall complete such return and provide a copy of such return to such agency.
 
-(Added Pub. L. 103–66, title XIII, §13252(a), Aug. 10, 1993, 107 Stat. 531; amended Pub. L. 104–134, title III, §31001(m)(2)(A)–(D)(ii), Apr. 26, 1996, 110 Stat. 1321–368, 1321–369.)
+(Added Pub. L. 103–66, title XIII, §13252(a), Aug. 10, 1993, 107 Stat. 531; amended Pub. L. 104–134, title III, §31001(m)(2)(A)–(D)(ii), Apr. 26, 1996, 110 Stat. 1321–368, 1321–369; Pub. L. 106–170, title V, §533(a), Dec. 17, 1999, 113 Stat. 1931.)
 
 #### Amendments
+
+1999—Subsec. (c)(2)(D). Pub. L. 106–170 added subpar. (D).
 
 1996—Pub. L. 104–134, §31001(m)(2)(D)(ii), amended section catchline generally, striking out “financial” before “entities”.
 
@@ -67,6 +71,10 @@ Subsec. (c). Pub. L. 104–134, §31001(m)(2)(B), added par. (1), redesignated f
 Subsec. (d). Pub. L. 104–134, §31001(m)(2)(D)(i), struck out “financial” before “entity” in introductory provisions.
 
 Subsec. (e). Pub. L. 104–134, §31001(m)(2)(C), added subsec. (e).
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–170, title V, §533(b), Dec. 17, 1999, 113 Stat. 1931, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to discharges of indebtedness after December 31, 1999.”
 
 #### Effective Date
 

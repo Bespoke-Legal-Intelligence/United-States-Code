@@ -38,7 +38,7 @@
 
 Subsec. (e). Pub. L. 105–368, §602(c)(2), struck out subsec. (e) which read as follows: “Notwithstanding any other provision of law, the amount received from the sale of any note evidencing a loan secured by real property described in subsection (a)(1) of this section, and the amount received from the sale of securities under section 3720(h) of this title, shall be credited, without any reduction and for the fiscal year in which the amount is received, as offsetting collections of—
 
-&emsp;“(1) the revolving fund for which a fee under section 3729 of this title was collected (or was exempted from being collected) at the time of the original guaranty of the loan that was secured by the same property; or
+&emsp;“(1) the revolving fund for which a fee under section 3729 of this title was collected (or was exempted frombeing collected) at the time of the original guaranty of the loan that was secured by the same property; or
 
 &emsp;“(2) in any case in which there was no requirement of (or exemption from) a fee at the time of the original guaranty of the loan that was secured by the same property, the Loan Guaranty Revolving Fund; and
 

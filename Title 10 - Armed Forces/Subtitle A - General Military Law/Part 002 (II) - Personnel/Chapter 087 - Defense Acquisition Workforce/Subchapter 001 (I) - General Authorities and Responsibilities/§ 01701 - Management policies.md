@@ -16,7 +16,7 @@ Section 1211 of title XII of Pub. L. 101–510 provided that: “Except as other
 
 #### Short Title
 
-Section 1201 of title XII of Pub. L. 101–510 provided that: “This title \[enacting this chapter, sections 5379 and 5380 of Title 5, Government Organization and Employees, and section 317 of Title 37, Pay and Allowances of the Uniformed Services, amending sections 101 and 2435 of this title and sections 4107, 4301, 5102, 5532, 5724, 5742, 5924, 5942, 8344, and 8468 of Title 5, repealing sections 1621 to 1624 of this title, enacting provisions set out as notes under this section and sections 1621 to 1623, 1705, 1721, 1722, 1724, 1733, 1734, 1746, 1761, 1762, and 2435 of this title, sections 3326, 5380, and 5532 of Title 5, andsection 317 of Title 37, and repealing provisions set out as a note under section 2304 of this title\] may be cited as the ‘Defense Acquisition Workforce Improvement Act’.”
+Section 1201 of title XII of Pub. L. 101–510 provided that: “This title \[enacting this chapter, sections 5379 and 5380 of Title 5, Government Organization and Employees, and section 317 of Title 37, Pay and Allowances of the Uniformed Services, amending sections 101 and 2435 of this title and sections 4107, 4301, 5102, 5532, 5724, 5742, 5924, 5942, 8344, and 8468 of Title 5, repealing sections 1621 to 1624 of this title, enacting provisions set out as notes under this section and sections 1621 to 1623, 1705, 1721, 1722, 1724, 1733, 1734, 1746, 1761, 1762, and 2435 of this title, sections 3326, 5380, and 5532 of Title 5, and section 317 of Title 37, and repealing provisions set out as a note under section 2304 of this title\] may be cited as the ‘Defense Acquisition Workforce Improvement Act’.”
 
 #### Regulations
 

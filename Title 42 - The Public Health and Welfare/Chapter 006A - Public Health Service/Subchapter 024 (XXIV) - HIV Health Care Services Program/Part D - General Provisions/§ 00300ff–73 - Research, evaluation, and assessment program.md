@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary, acting through the Agency for Health Care Policy and Research, shall establish a program to enable independent research to be conducted by individuals and organizations with appropriate expertise in the fields of health, health policy, and economics (particularly health care economics) to develop—
+The Secretary, acting through the Agency for Healthcare Research and Quality, shall establisha program to enable independent research to be conducted by individuals and organizations with appropriate expertise in the fields of health, health policy, and economics (particularly health care economics) to develop—
 
 &emsp;(1) a comparative assessment of the impact and cost-effectiveness of major models for organizing and delivering HIV-related health care, mental health care, early intervention, and support services, that shall include a report concerning patient outcomes, satisfaction, perceived quality of care, and total cumulative cost, and a review of the appropriateness of such models for the delivery of health and support services to infants, children, women, and families with HIV disease;
 
@@ -20,7 +20,11 @@ Not later than 2 years after August 18, 1990, and periodically thereafter, the S
 
 There are authorized to be appropriated to carry out this section, such sums as may be necessary for each of the fiscal years 1991 through 1995.
 
-(July 1, 1944, ch. 373, title XXVI, §2673, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 619.)
+(July 1, 1944, ch. 373, title XXVI, §2673, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 619; amended Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670.)
+
+#### Amendments
+
+1999—Subsec. (a). Pub. L. 106–129, in introductory provisions, substituted “Agency for Healthcare Research and Quality” for “Agency for Health Care Policy and Research”.
 
 #### Change of Name
 

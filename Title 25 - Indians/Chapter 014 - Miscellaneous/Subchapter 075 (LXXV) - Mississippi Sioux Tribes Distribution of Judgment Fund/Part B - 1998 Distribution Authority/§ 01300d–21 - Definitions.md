@@ -8,7 +8,7 @@ In this part:
 
 #### (2) Fund Account
 
-&emsp;The term “Fund Account” means the consolidated account for tribal trust funds in theTreasury of the United States that is managed by the Secretary—
+&emsp;The term “Fund Account” means the consolidated account for tribal trust funds in the Treasury of the United States that is managed by the Secretary—
 
 &emsp;&emsp;(A) through the Office of Trust Fund Management of the Department of the Interior; and
 

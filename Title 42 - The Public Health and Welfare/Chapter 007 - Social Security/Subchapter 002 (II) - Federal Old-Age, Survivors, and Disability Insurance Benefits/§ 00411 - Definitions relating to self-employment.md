@@ -16,7 +16,7 @@ The term “net earnings from self-employment” means the gross income, as comp
 
 &emsp;(5)(A) If any of the income derived from a trade or business (other than a trade or business carried on by a partnership) is community income under community property laws applicable to such income, all of the gross income and deductions attributable to such trade or business shall be treated as the gross income and deductions of the husband unless the wife exercises substantially all of the management and control of such trade or business, in which case all of such gross income and deductions shall be treated as the gross income and deductions of the wife;
 
-&emsp;(B) If any portion of a partner's distributive share of the ordinary net income or loss from a trade or business carried on by a partnership is community income or loss under the community property laws applicable to such share, all of such distributive share shall be included in computing the net earnings from self-employment of such partner, and no part of such share shall be taken into account in computing the net earnings from self-employment of the spouse of such partner;
+&emsp;(B) If any portion of a partner's distributive share of the ordinary net income or loss from a trade or business carried on by a partnership is community income or loss under the community property laws applicable to suchshare, all of such distributive share shall be included in computing the net earnings from self-employment of such partner, and no part of such share shall be taken into account in computing the net earnings from self-employment of the spouse of such partner;
 
 &emsp;(6) A resident of the Commonwealth of Puerto Rico shall compute his net earnings from self-employment in the same manner as a citizen of the United States but without regard to the provisions of section 933 of the Internal Revenue Code of 1986;
 
@@ -24,7 +24,7 @@ The term “net earnings from self-employment” means the gross income, as comp
 
 &emsp;(8) The exclusion from gross income provided by section 931 of the Internal Revenue Code of 1986 shall not apply;
 
-&emsp;(9) There shall be excluded amounts received by a partner pursuant to a written plan of the partnership, which meets such requirements as are prescribed by the Secretary of the Treasury or his delegate, and which provides for payments on account of retirement, on a periodic basis, to partners generally or to a class or classes of partners, such payments tocontinue at least until such partner's death, if—
+&emsp;(9) There shall be excluded amounts received by a partner pursuant to a written plan of the partnership, which meets such requirements as are prescribed by the Secretary of the Treasury or his delegate, and which provides for payments on account of retirement, on a periodic basis, to partners generally or to a class or classes of partners, such payments to continue at least until such partner's death, if—
 
 &emsp;&emsp;(A) such partner rendered no services with respect to any trade or business carried on by such partnership (or its successors) during the taxable year of such partnership (or its successors), ending within or with his taxable year, in which such amounts were received, and
 
@@ -338,7 +338,7 @@ Subsec. (c)(6). Pub. L. 89–97, §319(b), added par. (6).
 
 1964—Subsec. (a)(3)(B), Pub. L. 88–272 amended cl. (B) generally, substituting “, coal, or iron ore, if section 631 of the Internal Revenue Code of 1954 applies” for “or coal, if section 117(j) of the Internal Revenue Code of 1954 is applicable”.
 
-1960—Subsec. (a)(6). Pub. L. 86–778, §103(j)(3), substituted “section 933 of the Internal Revenue Code of 1954” for “section 116(1) of the Internal Revenue Code of1954”, and struck out provisions which defined “possession of the United States” in the case of taxable years beginning before the effective date specified in former section 419 of this title.
+1960—Subsec. (a)(6). Pub. L. 86–778, §103(j)(3), substituted “section 933 of the Internal Revenue Code of 1954” for “section 116(1) of the Internal Revenue Code of 1954”, and struck out provisions which defined “possession of the United States” in the case of taxable years beginning before the effective date specified in former section 419 of this title.
 
 Subsec. (a)(8). Pub. L. 86–778, §103(g), added par. (8) and inserted a reference to paragraph (8) in cls. (v) and (vi) of last sentence.
 
@@ -396,7 +396,7 @@ Amendment by section 319(b)(2) of Pub. L. 103–296 applicable with respect to s
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 5123(a)(1) of Pub. L. 101–508 applicable with respect to income received for services performed in taxable years beginning after Dec. 31, 1990, see section 5123(b) of Pub. L. 101–508, set out as a note under section 403 of this title.
+Amendment by section 5123(a)(1) of Pub. L. 101–508 applicable with respect to income received for servicesperformed in taxable years beginning after Dec. 31, 1990, see section 5123(b) of Pub. L. 101–508, set out as a note under section 403 of this title.
 
 Amendment by section 5130(a)(2) of Pub. L. 101–508 effective as if included in the enactment of Pub. L. 98–21, §322(b)(1), and amendment by section 5130(a)(3) of Pub. L. 101–508 effective as if included in the enactment of Pub. L. 100–647, §1011B(b)(4), see section 5130(b) of Pub. L. 101–508, set out as a note under section 1402 of Title 26, Internal Revenue Code.
 
@@ -410,7 +410,7 @@ Amendment by section 8016(a)(2) of Pub. L. 100–647 effective Nov. 10, 1988, ex
 
 #### Effective Date of 1987 Amendment
 
-Amendment by section 9022(a) of Pub. L. 100–203 applicable with respect to services performed in taxableyears beginning on or after Jan. 1, 1988, see section 9022(c) of Pub. L. 100–203, set out as a note under section 1402 of Title 26, Internal Revenue Code.
+Amendment by section 9022(a) of Pub. L. 100–203 applicable with respect to services performed in taxable years beginning on or after Jan. 1, 1988, see section 9022(c) of Pub. L. 100–203, set out as a note under section 1402 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1986 Amendment
 
@@ -472,7 +472,7 @@ Amendment by Pub. L. 92–5 applicable only with respect to taxable years beginn
 
 Amendment by section 108(a)(2) of Pub. L. 90–248 applicable only with respect to taxable years ending after 1967, see section 108(c) of Pub. L. 90–248, set out as a note under section 409 of this title.
 
-Amendment by section 115(a) of Pub. L. 90–248 applicable only with respect to taxable years ending after 1967, see section 115(c) of Pub. L. 90–248, set out as a note under section 1402 of Title 26, Internal Revenue Code.
+Amendment by section 115(a) of Pub. L. 90–248 applicable only with respect to taxable years ending after1967, see section 115(c) of Pub. L. 90–248, set out as a note under section 1402 of Title 26, Internal Revenue Code.
 
 Amendment by section 118(b) of Pub. L. 90–248 applicable only with respect to taxable years ending on or after Dec. 31, 1967, see section 118(c) of Pub. L. 90–248, set out as a note under section 1402 of Title 26.
 
@@ -494,7 +494,7 @@ Amendment by Pub. L. 88–272 applicable with respect to amounts received or acc
 
 #### Effective Date of 1960 Amendment
 
-Amendment by section 103(g) of Pub. L. 86–778 applicable only in the case of taxable years beginning after1960, except that, insofar as involves the nonapplication of section 932 of Title 26, Internal Revenue Code, to the Virgin Islands for purposes of sections 1401 et seq. of Title 26 and this section, such amendment shall be effective in the case of all taxable years with respect to which such sections 1401 et seq. (and corresponding provisions of prior law) and this section are applicable, see section 103(v)(1) of Pub. L. 86–778, set out as a note under section 402 of this title.
+Amendment by section 103(g) of Pub. L. 86–778 applicable only in the case of taxable years beginning after 1960, except that, insofar as involves the nonapplication of section 932 of Title 26, Internal Revenue Code, to the Virgin Islands for purposes of sections 1401 et seq. of Title 26 and this section, such amendment shall be effective in the case of all taxable years with respect to which such sections 1401 et seq. (and corresponding provisions of prior law) and this section are applicable, see section 103(v)(1) of Pub. L. 86–778, set out as a note under section 402 of this title.
 
 Amendment by section 103(h) of Pub. L. 86–778 applicable only in the case of taxable years beginning after 1960, see section 103(v)(1), (3) of Pub. L. 86–778, set out as a note under section 402 of this title.
 

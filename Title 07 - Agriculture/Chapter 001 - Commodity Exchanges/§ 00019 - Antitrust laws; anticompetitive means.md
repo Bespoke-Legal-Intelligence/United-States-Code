@@ -1,6 +1,6 @@
 ### §19. Antitrust laws; anticompetitive means
 
-The Commission shall take into consideration the public interest to be protected by the antitrust laws and endeavor to take the least anticompetitive means of achieving the objectives of this chapter, as well as the policies and purposes of this chapter, in issuing any order or adopting any Commission rule or regulation (including any exemption under section 6(c) or 6c(b) of thistitle), or in requiring or approving any bylaw, rule, or regulation of a contract market or registered futures association established pursuant to section 21 of this title.
+The Commission shall take into consideration the public interest to be protected by the antitrust laws and endeavor to take the least anticompetitive means of achieving the objectives of this chapter, as well as the policies and purposes of this chapter, in issuing any order or adopting any Commission rule or regulation (including any exemption under section 6(c) or 6c(b) of this title), or in requiring or approving any bylaw, rule, or regulation of a contract market or registered futures association established pursuant to section 21 of this title.
 
 (Sept. 21, 1922, ch. 369, §15, as added Pub. L. 93–463, title I, §107, Oct. 23, 1974, 88 Stat. 1395; amended Pub. L. 102–546, title V, §502(b), Oct. 28, 1992, 106 Stat. 3631.)
 

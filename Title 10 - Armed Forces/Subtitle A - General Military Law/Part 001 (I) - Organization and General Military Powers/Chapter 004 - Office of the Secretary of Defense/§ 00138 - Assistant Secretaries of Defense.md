@@ -128,7 +128,7 @@ Section 138(i) was renumbered successively as section 114(i) and section 114(d) 
 
 Subsec. (b)(3). Pub. L. 105–261, §902, struck out par. (3) which read as follows:
 
-“(3)(A) One of the Assistant Secretaries shall be the Assistant Secretary of Defense for Command, Control,Communications, and Intelligence. He shall have as his principal duty the overall supervision of command, control, communications, and intelligence affairs of the Department of Defense.
+“(3)(A) One of the Assistant Secretaries shall be the Assistant Secretary of Defense for Command, Control, Communications, and Intelligence. He shall have as his principal duty the overall supervision of command, control, communications, and intelligence affairs of the Department of Defense.
 
 “(B) Notwithstanding subparagraph (A), one of the Assistant Secretaries established by the Secretary of Defense may be an Assistant Secretary of Defense for Intelligence, who shall have as his principal duty the overall supervision of intelligence affairs of the Department of Defense.
 
@@ -152,7 +152,7 @@ Subsec. (b)(5). Pub. L. 103–160, §905, added par. (5).
 
 Subsec. (d). Pub. L. 103–160, §901(c), inserted “and Comptroller” after “Under Secretaries of Defense”.
 
-1988—Subsec. (b)(3). Pub. L. 100–453 and Pub. L. 100–456 generally amended par. (3) identically. Prior to amendment, par. (3) read as follows: “One of the Assistant Secretaries shall be the Assistant Secretary of Defense for Command, Control, Communications, and Intelligence. He shall have as his principal duty the overall supervision of command, control, communications, and intelligence affairs of the Department of Defense.”
+1988—Subsec. (b)(3). Pub. L. 100–453 and Pub. L. 100–456 generally amended par. (3) identically. Prior to amendment, par. (3) read as follows: “One of the Assistant Secretaries shall be the Assistant Secretary of Defensefor Command, Control, Communications, and Intelligence. He shall have as his principal duty the overall supervision of command, control, communications, and intelligence affairs of the Department of Defense.”
 
 1987—Subsec. (b)(4). Pub. L. 100–180 inserted at end “The Assistant Secretary is the principal civilian adviser to the Secretary of Defense on special operations and low intensity conflict matters and (after the Secretary and Deputy Secretary) is the principal special operations and low intensity conflict official within the senior management of the Department of Defense.”
 
@@ -214,7 +214,7 @@ Section 7 of Pub. L. 90–168 provided that: “The provisions of this Act \[see
 
 #### Short Title of 1967 Amendment
 
-Section 1 of Pub. L. 90–168 provided: “That this Act \[amending this section, sections 175, 262, 264, 268, 269,270, 511 \[now 12103\], 3014, 5034, 8014, and 8850 of this title, section 502 of Title 32, National Guard, and section 404 of Title 37, Pay and Allowances of the Uniformed Services, enacting sections 3021 \[now 10302\], 3038, 8021 \[now 10305\], and 8038 of this title, enacting provisions set out as notes under this section and section 8212 of this title, and amending provisions set out as a note under section 113 of this title\] may be cited as the ‘Reserve Forces Bill of Rights and Vitalization Act’.”
+Section 1 of Pub. L. 90–168 provided: “That this Act \[amending this section, sections 175, 262, 264, 268, 269, 270, 511 \[now 12103\], 3014, 5034, 8014, and 8850 of this title, section 502 of Title 32, National Guard, and section 404 of Title 37, Pay and Allowances of the Uniformed Services, enacting sections 3021 \[now 10302\], 3038, 8021 \[now 10305\], and 8038 of this title, enacting provisions set out as notes under this section and section 8212 of this title, and amending provisions set out as a note under section 113 of this title\] may be cited as the ‘Reserve Forces Bill of Rights and Vitalization Act’.”
 
 #### Order of Succession
 

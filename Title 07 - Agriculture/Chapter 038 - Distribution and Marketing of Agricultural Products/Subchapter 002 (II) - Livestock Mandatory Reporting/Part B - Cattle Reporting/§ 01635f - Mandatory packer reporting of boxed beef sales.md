@@ -1,0 +1,28 @@
+### §1635f. Mandatory packer reporting of boxed beef sales
+
+#### (a) Daily reporting
+
+The corporate officers or officially designated representatives of each packer processing plant shall report to the Secretary at least twice each reporting day (not less than once before, and once after, 12:00 noon Central Time) information on total boxed beef sales, including—
+
+&emsp;(1) the price for each lot of each negotiated boxed beef sale (determined by seller-buyer interaction and agreement), quoted in dollars per hundredweight (on a F.O.B. plant basis);
+
+&emsp;(2) the quantity for each lot of each sale, quoted by number of boxes sold; and
+
+&emsp;(3) information regarding the characteristics of each lot of each sale, including—
+
+&emsp;&emsp;(A) the grade of beef (USDA Choice or better, USDA Select, or ungraded no-roll product);
+
+&emsp;&emsp;(B) the cut of beef; and
+
+&emsp;&emsp;(C) the trim specification.
+
+#### (b) Publication
+
+The Secretary shall make available to the public the information required to be reported under subsection (a) of this section not less frequently than twice each reporting day.
+
+(Aug. 14, 1946, ch. 966, title II, §223, as added Pub. L. 106–78, title IX, §911(2), Oct. 22, 1999, 113 Stat. 1193.)
+
+#### Termination of Section
+
+<i>For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under section 1635 of this title.</i>
+

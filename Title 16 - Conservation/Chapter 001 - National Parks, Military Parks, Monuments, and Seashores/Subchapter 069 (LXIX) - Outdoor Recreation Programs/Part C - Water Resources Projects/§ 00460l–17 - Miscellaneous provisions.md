@@ -28,7 +28,7 @@ Section 460<i>l</i>–9(a)(2) of this title shall not apply to costs allocated t
 
 #### (h) Deposits in Treasury as miscellaneous receipts; deposits of revenue from conveyance of certain lands in Land and Water Conservation Fund
 
-All payments and repayment by non-Federal public bodies under the provisions of this part shall be deposited in the Treasury as miscellaneous receipts, and revenue from the conveyance by deed, lease, or otherwise, of lands under section 460<i>l</i>–14(b)(2) of this title shall be deposited in the Land and Water Conservation Fund.
+All payments and repayment by non-Federal public bodies under the provisions of this partshall be deposited in the Treasury as miscellaneous receipts, and revenue from the conveyance by deed, lease, or otherwise, of lands under section 460<i>l</i>–14(b)(2) of this title shall be deposited in the Land and Water Conservation Fund.
 
 (Pub. L. 89–72, §6, July 9, 1965, 79 Stat. 216; Pub. L. 94–576, Oct. 21, 1976, 90 Stat. 2728.)
 

@@ -32,7 +32,7 @@ On the transfer of jurisdiction over the Recreation Area from the Tennessee Vall
 
 #### (1) In general
 
-&emsp;The transfer of the Recreation Area property under this subchapter, and the requirements ofthis section, shall not in any way affect the responsibilities and liabilities of the Tennessee Valley Authority at the Recreation Area under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.) or any other environmental law.
+&emsp;The transfer of the Recreation Area property under this subchapter, and the requirements of this section, shall not in any way affect the responsibilities and liabilities of the Tennessee Valley Authority at the Recreation Area under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.) or any other environmental law.
 
 #### (2) Access
 

@@ -201,7 +201,7 @@ Subsec. (b)(1)(A)(iv)(III). Pub. L. 105–244, §474(b)(3), substituted “$8,00
 
 Subsec. (b)(1)(C). Pub. L. 100–50, §14(13)(B), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-Subsec. (b)(1)(D). Pub. L. 100–50, §14(15), which directed that subsec. (b)(1)(C) be amended by inserting “plus the amount of veterans’ benefits paid during the award period under chapters 32, 34, and 35 of title 28”, was executed to subpar. (D) to reflect the probable intent of Congress and the intervening redesignation of subpar. (C) as (D) by section 14(13)(B) of Pub. L. 100–50.
+Subsec. (b)(1)(D). Pub. L. 100–50, §14(15), which directed that subsec. (b)(1)(C) be amended by inserting“plus the amount of veterans’ benefits paid during the award period under chapters 32, 34, and 35 of title 28”, was executed to subpar. (D) to reflect the probable intent of Congress and the intervening redesignation of subpar. (C) as (D) by section 14(13)(B) of Pub. L. 100–50.
 
 Pub. L. 100–50, §14(13)(A), (B), redesignated subpar. (C) as (D) and substituted “subparagraph (C)” for “subparagraph (B)”.
 
@@ -231,7 +231,7 @@ Pub. L. 100–50, §14(1), substituted “section 1087rr of this title” for �
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–244, effective Oct. 7, 1998, and applicable with respect to determinations of needunder this part for academic years beginning on or after July 1, 2000, see section 480A of Pub. L. 105–244, set out as a note under section 1087kk of this title.
+Amendment by Pub. L. 105–244, effective Oct. 7, 1998, and applicable with respect to determinations of need under this part for academic years beginning on or after July 1, 2000, see section 480A of Pub. L. 105–244, set out as a note under section 1087kk of this title.
 
 #### Effective Date of 1993 Amendment
 

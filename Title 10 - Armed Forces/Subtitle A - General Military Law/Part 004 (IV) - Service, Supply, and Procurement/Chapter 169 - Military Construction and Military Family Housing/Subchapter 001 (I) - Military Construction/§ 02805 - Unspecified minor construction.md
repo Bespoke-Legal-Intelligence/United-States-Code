@@ -42,7 +42,7 @@ Subsec. (c)(3). Pub. L. 105–85, §2801(b)(2), added par. (3).
 
 1996—Subsec. (a)(1). Pub. L. 104–106, §2812, in second sentence, struck out “(1) that is for a single undertaking at a military installation, and (2)” after “is a military construction project”.
 
-Pub. L. 104–106, §2811(a)(1), inserted at end “However, if the military construction project is intended solelyto correct a deficiency that is life-threatening, health-threatening, or safety-threatening, a minor military construction project may have an approved cost equal to or less than $3,000,000.”
+Pub. L. 104–106, §2811(a)(1), inserted at end “However, if the military construction project is intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening, a minor military construction project may have an approved cost equal to or less than $3,000,000.”
 
 Subsec. (c)(1). Pub. L. 104–106, §2811(a)(2), substituted “not more than—” for “not more than $300,000.” and added subpars. (A) and (B).
 

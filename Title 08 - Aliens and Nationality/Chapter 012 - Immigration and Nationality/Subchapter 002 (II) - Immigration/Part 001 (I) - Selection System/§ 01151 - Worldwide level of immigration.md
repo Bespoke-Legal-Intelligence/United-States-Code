@@ -74,7 +74,7 @@ Immediate relatives.—For purposes of this subsection, the term “immediate re
 
 (B) The number computed under this paragraph for fiscal year 1993 is the difference (if any) between the worldwide level established under paragraph (1) for the previous fiscal year and the number of visas issued under section 1153(b) of this title during that fiscal year.
 
-(C) The number computed under this paragraph for a subsequent fiscal year is the difference (if any) between the maximum number of visas which may be issued under section1153(a) of this title (relating to family-sponsored immigrants) during the previous fiscal year and the number of visas issued under that section during that year.
+(C) The number computed under this paragraph for a subsequent fiscal year is the difference (if any) between the maximum number of visas which may be issued under section 1153(a) of this title (relating to family-sponsored immigrants) during the previous fiscal year and the number of visas issued under that section during that year.
 
 #### (e) Worldwide level of diversity immigrants
 
@@ -172,7 +172,7 @@ Pub. L. 105–100, title II, §203(d), Nov. 19, 1997, 111 Stat. 2199, as amended
 
 #### Transition Relating to Death of Citizen Spouse
 
-Section 101(c) of Pub. L. 101–649, as added by Pub. L. 102–232, title III, §302(a)(2), Dec. 12, 1991, 105 Stat. 1742, provided that: “In applying the second sentence of section 201(b)(2)(A)(i) of the Immigration and Nationality Act \[8 U.S.C. 1151(b)(2)(A)(i)\] (as amended by subsection (a)) in the case of a \[sic\] alien whose citizen spouse died before the date of the enactment of this Act \[Nov. 29, 1990\], notwithstanding the deadline specified in such sentence the alien spouse may file the classification petition referred to in such sentence within 2 years after the date of the enactment of this Act.”
+Section 101(c) of Pub. L. 101–649, as added by Pub. L. 102–232, title III, §302(a)(2), Dec. 12, 1991, 105 Stat. 1742,provided that: “In applying the second sentence of section 201(b)(2)(A)(i) of the Immigration and Nationality Act \[8 U.S.C. 1151(b)(2)(A)(i)\] (as amended by subsection (a)) in the case of a \[sic\] alien whose citizen spouse died before the date of the enactment of this Act \[Nov. 29, 1990\], notwithstanding the deadline specified in such sentence the alien spouse may file the classification petition referred to in such sentence within 2 years after the date of the enactment of this Act.”
 
 #### Inapplicability of Numerical Limitations for Certain Aliens Residing in the United States Virgin Islands
 

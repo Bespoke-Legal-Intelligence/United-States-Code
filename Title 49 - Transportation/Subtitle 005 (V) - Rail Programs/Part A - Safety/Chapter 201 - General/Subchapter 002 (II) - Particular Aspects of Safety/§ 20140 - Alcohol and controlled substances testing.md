@@ -36,11 +36,11 @@ Testing and Laboratory Requirements.—In carrying out this section, the Secreta
 
 &emsp;(4) provide that all tests indicating the use of alcohol or a controlled substance in violation of law or a Government regulation be confirmed by a scientifically recognized method of testing capable of providing quantitative information about alcohol or a controlled substance;
 
-&emsp;(5) provide that each specimen be subdivided, secured, and labeled in the presence of the tested individual and that a part of the specimen be retained in a secure manner to prevent the possibility of tampering, so that if the individual's confirmation test results are positive the individual has an opportunity to have the retained part tested by a 2d confirmation test done independently at another certified laboratory if the individual requests the 2d confirmation test not later than 3 days afterbeing advised of the results of the first confirmation test;
+&emsp;(5) provide that each specimen be subdivided, secured, and labeled in the presence of the tested individual and that a part of the specimen be retained in a secure manner to prevent the possibility of tampering, so that if the individual's confirmation test results are positive the individual has an opportunity to have the retained part tested by a 2d confirmation test done independently at another certified laboratory if the individual requests the 2d confirmation test not later than 3 days after being advised of the results of the first confirmation test;
 
 &emsp;(6) ensure appropriate safeguards for testing to detect and quantify alcohol in breath and body fluid samples, including urine and blood, through the development of regulations that may be necessary and in consultation with the Secretary of Health and Human Services;
 
-&emsp;(7) provide for the confidentiality of test results and medical information (other than information about alcohol or a controlled substance) of employees, except that this clause does not prevent the use of test results for the orderly imposition of appropriate sanctions under this section; and
+&emsp;(7) provide for the confidentiality of test results and medical information (other than information about alcohol or a controlled substance) of employees, except that this clause does not prevent the use of test results for theorderly imposition of appropriate sanctions under this section; and
 
 &emsp;(8) ensure that employees are selected for tests by nondiscriminatory and impartial methods, so that no employee is harassed by being treated differently from other employees in similar circumstances.
 

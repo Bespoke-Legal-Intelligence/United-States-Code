@@ -6,7 +6,7 @@ It shall be unlawful for any broker, dealer, or exchange, directly or indirectly
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Cross References
 
@@ -14,5 +14,5 @@ Effective date, see section 78hh of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78<i>o</i>, 78<i>o</i>–4, 78<i>o</i>–5, 78p, 78hh of this title.
+This section is referred to in sections 78<i>o</i>, 78<i>o</i>–4, 78<i>o</i>–5, 78p, 78hh of this title; title 25 section 646.
 

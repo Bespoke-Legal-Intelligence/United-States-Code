@@ -22,7 +22,7 @@ For purposes of this section—
 
 #### (1) Community income
 
-&emsp;The term “community income” means income which, under applicable community property laws, is treated as community income.
+&emsp;The term “community income” means income which, under applicable communityproperty laws, is treated as community income.
 
 #### (2) Community property laws
 

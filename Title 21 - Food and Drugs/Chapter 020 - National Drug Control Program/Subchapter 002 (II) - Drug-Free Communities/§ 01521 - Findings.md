@@ -8,7 +8,7 @@ Congress finds the following:
 
 &emsp;(3) Casual or periodic substance abuse by youth today will contribute to hard core or chronic substance abuse by the next generation of adults.
 
-&emsp;(4) Substance abuse is at the core of other problems, such as rising violent teenage andviolent gang crime, increasing health care costs, HIV infections, teenage pregnancy, high school dropouts, and lower economic productivity.
+&emsp;(4) Substance abuse is at the core of other problems, such as rising violent teenage and violent gang crime, increasing health care costs, HIV infections, teenage pregnancy, high school dropouts, and lower economic productivity.
 
 &emsp;(5) Increases in substance abuse among youth are due in large part to an erosion of understanding by youth of the high risks associated with substance abuse, and to the softening of peer norms against use.
 

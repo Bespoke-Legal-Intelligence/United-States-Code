@@ -30,7 +30,7 @@ Congress finds that—
 
 &emsp;(13) stewardship of privately held forest resources requires a long-term commitment that can be fostered through local, State, and Federal governmental actions;
 
-&emsp;(14) the Department of Agriculture, through the coordinated efforts of its agencies with forestry responsibilities, cooperating with other Federal agencies, State foresters, andState political subdivisions, has the expertise and experience to assist private landowners in achieving individual goals and public benefits regarding forestry;
+&emsp;(14) the Department of Agriculture, through the coordinated efforts of its agencies with forestry responsibilities, cooperating with other Federal agencies, State foresters, and State political subdivisions, has the expertise and experience to assist private landowners in achieving individual goals and public benefits regarding forestry;
 
 &emsp;(15) the products and services resulting from nonindustrial private forest land stewardship provide income and employment that contribute to the economic health and diversity of rural communities; <sup>1</sup>
 
@@ -144,7 +144,7 @@ Subtitle C (§§1261–1266) of title XII of Pub. L. 101–624, as amended by Pu
 
 Purpose.—The purpose of this section is to authorize the President to designate a private nonprofit Foundation as eligible to receive a grant from the Department of Agriculture to be used—
 
-&emsp;“(1) to provide grants, including matching grants, to qualifying nonprofit organizations (including youth groups), municipalities, counties, towns and townships for the implementation of programs to promote public awareness and a spirit of volunteerism in support of tree planting, maintenance, management, protection, and cultivation projects in rural areas, communities and urban areas throughout the United States;
+&emsp;“(1) to provide grants, including matching grants, to qualifying nonprofit organizations (including youth groups), municipalities, counties, towns andtownships for the implementation of programs to promote public awareness and a spirit of volunteerism in support of tree planting, maintenance, management, protection, and cultivation projects in rural areas, communities and urban areas throughout the United States;
 
 &emsp;“(2) to solicit public and private sector contributions through the mobilization of individuals, businesses, governments, and community organizations with the goal of increasing the number of trees planted, maintained, managed, and protected in rural areas, communities and urban environments;
 
@@ -262,7 +262,7 @@ Termination.—The obligation of the Foundation to publish annual reports pursua
 
 “(<i>o</i>)
 
-Prohibition on Commercial Harvest.—Trees planted pursuant to a program receiving funds under this section may not be commercially harvested and sold for Christmas trees.
+Prohibition on Commercial Harvest.—Trees planted pursuant to a program receiving funds underthis section may not be commercially harvested and sold for Christmas trees.
 
 “(p)
 
@@ -286,7 +286,7 @@ Pub. L. 87–492, June 25, 1962, 76 Stat. 107, provided: “That the Congress re
 
 “
 
-Sec. 2. For the purpose of assisting those States which participated in the program carried on under the Soil Bank Act \[section 1801 et seq. of Title 7, Agriculture\] \[repealed\] in continuing the production of needed tree planting stock and in other forestry programs, the Secretary of Agriculture is authorized topermit any supplies, materials, equipment, or improvements acquired or constructed with trust funds under the agreements referred to in section 1 to be used in such State forestry work as may further the objectives of related Federal programs, as he may approve, without the requirement that any payment be made by the State into the trust funds.”
+Sec. 2. For the purpose of assisting those States which participated in the program carried on under the Soil Bank Act \[section 1801 et seq. of Title 7, Agriculture\] \[repealed\] in continuing the production of needed tree planting stock and in other forestry programs, the Secretary of Agriculture is authorized to permit any supplies, materials, equipment, or improvements acquired or constructed with trust funds under the agreements referred to in section 1 to be used in such State forestry work as may further the objectives of related Federal programs, as he may approve, without the requirement that any payment be made by the State into the trust funds.”
 
 #### Section Referred to in Other Sections
 

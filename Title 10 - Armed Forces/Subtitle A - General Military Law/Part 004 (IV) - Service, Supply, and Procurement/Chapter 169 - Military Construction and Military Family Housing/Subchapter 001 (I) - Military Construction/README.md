@@ -15,10 +15,13 @@
 | [2811\.](%C2%A7%2002811%20-%20Repair%20of%20facilities.md) | Repair of facilities. |
 | [2812\.](%C2%A7%2002812%20-%20Lease-purchase%20of%20facilities.md) | Lease-purchase of facilities. |
 | [2813\.](%C2%A7%2002813%20-%20Acquisition%20of%20existing%20facilities%20in%20lieu%20of%20authorized%20construction.md) | Acquisition of existing facilities in lieu of authorized construction. |
+| [2814\.](%C2%A7%2002814%20-%20Special%20authority%20for%20development%20of%20Ford%20Island%2C%20Hawaii.md) | Special authority for development of Ford Island, Hawaii. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. B, title XXVIII, §2802(a)(2), Oct. 5, 1999, 113 Stat. 848, added item 2814.
 
 1996—Pub. L. 104–201, div. B, title XXVIII, §2802(c)(2), Sept. 23, 1996, 110 Stat. 2787, substituted “Organizations Security Investment” for “Organization Infrastructure” in item 2806.
 
@@ -58,3 +61,4 @@ Pub. L. 99–499, title II, §211(b)(2), Oct. 17, 1986, 100 Stat. 1726, added it
 - [&sect; 02811 - Repair of facilities](%C2%A7%2002811%20-%20Repair%20of%20facilities.md)
 - [&sect; 02812 - Lease-purchase of facilities](%C2%A7%2002812%20-%20Lease-purchase%20of%20facilities.md)
 - [&sect; 02813 - Acquisition of existing facilities in lieu of authorized construction](%C2%A7%2002813%20-%20Acquisition%20of%20existing%20facilities%20in%20lieu%20of%20authorized%20construction.md)
+- [&sect; 02814 - Special authority for development of Ford Island, Hawaii](%C2%A7%2002814%20-%20Special%20authority%20for%20development%20of%20Ford%20Island%2C%20Hawaii.md)

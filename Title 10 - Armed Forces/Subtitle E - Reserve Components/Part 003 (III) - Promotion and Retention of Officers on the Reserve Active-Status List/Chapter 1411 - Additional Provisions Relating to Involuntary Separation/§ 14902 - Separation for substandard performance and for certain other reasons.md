@@ -6,7 +6,7 @@ Substandard Performance of Duty.—The Secretary of the military department conc
 
 (b)
 
-Misconduct, Etc.—The Secretary of the military department concerned shall prescribe, by regulation, procedures for the review at any time of the record of any reserve officer to determine whether that officer should be required, because of misconduct, because of moral or professional dereliction, or because the officer's retention is not clearly consistent with the interests of national security, to show cause for retention in an active status.
+Misconduct, Etc.—The Secretary of the military department concerned shall prescribe,by regulation, procedures for the review at any time of the record of any reserve officer to determine whether that officer should be required, because of misconduct, because of moral or professional dereliction, or because the officer's retention is not clearly consistent with the interests of national security, to show cause for retention in an active status.
 
 (c)
 

@@ -11,13 +11,13 @@
 | [2637\.](%C2%A7%2002637%20-%20Exhaustion%20of%20administrative%20remedies.md) | Exhaustion of administrative remedies. |
 | [2638\.](%C2%A7%2002638%20-%20New%20grounds%20in%20support%20of%20a%20civil%20action.md) | New grounds in support of a civil action. |
 | [2639\.](%C2%A7%2002639%20-%20Burden%20of%20proof%3B%20evidence%20of%20value.md) | Burden of proof; evidence of value. |
-| [2640\.](%C2%A7%2002640%20-%20Scope%20and%20standard%20of%20review.md) | Scope and standard of review. |
-| [2641\.](%C2%A7%2002641%20-%20Witnesses%3B%20inspection%20of%20documents.md) | Witnesses; inspection of documents. |
-| [2642\.](%C2%A7%2002642%20-%20Analysis%20of%20imported%20merchandise.md) | Analysis of imported merchandise. |
-| [2643\.](%C2%A7%2002643%20-%20Relief.md) | Relief. |
-| [2644\.](%C2%A7%2002644%20-%20Interest.md) | Interest. |
-| [2645\.](%C2%A7%2002645%20-%20Decisions.md) | Decisions. |
-| [2646\.](%C2%A7%2002646%20-%20Retrial%20or%20rehearing.md) | Retrial or rehearing. |
+| 2640\. | Scope and standard of review. |
+| 2641\. | Witnesses; inspection of documents. |
+| 2642\. | Analysis of imported merchandise. |
+| 2643\. | Relief. |
+| 2644\. | Interest. |
+| 2645\. | Decisions. |
+| 2646\. | Retrial or rehearing. |
 | \[2647. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -52,11 +52,3 @@ This chapter is referred to in title 19 sections 1499, 1514, 1516, 1516a.
 - [&sect; 02637 - Exhaustion of administrative remedies](%C2%A7%2002637%20-%20Exhaustion%20of%20administrative%20remedies.md)
 - [&sect; 02638 - New grounds in support of a civil action](%C2%A7%2002638%20-%20New%20grounds%20in%20support%20of%20a%20civil%20action.md)
 - [&sect; 02639 - Burden of proof; evidence of value](%C2%A7%2002639%20-%20Burden%20of%20proof%3B%20evidence%20of%20value.md)
-- [&sect; 02640 - Scope and standard of review](%C2%A7%2002640%20-%20Scope%20and%20standard%20of%20review.md)
-- [&sect; 02641 - Witnesses; inspection of documents](%C2%A7%2002641%20-%20Witnesses%3B%20inspection%20of%20documents.md)
-- [&sect; 02642 - Analysis of imported merchandise](%C2%A7%2002642%20-%20Analysis%20of%20imported%20merchandise.md)
-- [&sect; 02643 - Relief](%C2%A7%2002643%20-%20Relief.md)
-- [&sect; 02644 - Interest](%C2%A7%2002644%20-%20Interest.md)
-- [&sect; 02645 - Decisions](%C2%A7%2002645%20-%20Decisions.md)
-- [&sect; 02646 - Retrial or rehearing](%C2%A7%2002646%20-%20Retrial%20or%20rehearing.md)
-- [&sect; 02647 - Repealed. Pub. L. 98&#8211;620, title IV, &sect;402(29)(G), Nov. 8, 1984, 98 Stat. 3359](%C2%A7%2002647%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93620%2C%20title%20IV%2C%20%C2%A7402%2829%29%28G%29%2C%20Nov.%208%2C%201984%2C%2098%20Stat.%203359.md)

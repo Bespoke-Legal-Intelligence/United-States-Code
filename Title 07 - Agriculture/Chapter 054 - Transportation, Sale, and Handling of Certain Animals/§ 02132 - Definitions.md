@@ -40,7 +40,7 @@ When used in this chapter—
 
 (<i>o</i>) The term “Federal research facility” means each department, agency, or instrumentality of the United States which uses live animals for research or experimentation.
 
-(Pub. L. 89–544, §2, Aug. 24, 1966, 80 Stat. 350; Pub. L. 91–579, §3, Dec. 24, 1970, 84 Stat. 1560; Pub. L. 94–279, §§3, 4, Apr. 22, 1976, 90 Stat. 417, 418; Pub. L. 99–198, title XVII, §1756(a), Dec. 23, 1985, 99 Stat. 1650.)
+(Pub. L. 89–544, §2, Aug. 24, 1966, 80 Stat. 350; Pub. L. 91–579, §3, Dec. 24, 1970, 84 Stat. 1560;Pub. L. 94–279, §§3, 4, Apr. 22, 1976, 90 Stat. 417, 418; Pub. L. 99–198, title XVII, §1756(a), Dec. 23, 1985, 99 Stat. 1650.)
 
 #### Amendments
 

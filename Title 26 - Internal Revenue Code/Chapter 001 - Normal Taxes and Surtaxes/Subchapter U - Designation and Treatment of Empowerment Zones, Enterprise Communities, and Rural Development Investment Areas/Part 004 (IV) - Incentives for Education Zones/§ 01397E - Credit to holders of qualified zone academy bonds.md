@@ -16,7 +16,7 @@ In the case of an eligible taxpayer who holds a qualified zone academy bond on t
 
 #### (2) Determination
 
-&emsp;During each calendar month, the Secretary shall determine a credit rate which shall apply to bonds issued during the following calendarmonth. The credit rate for any month is the percentage which the Secretary estimates will permit the issuance of qualified zone academy bonds without discount and without interest cost to the issuer.
+&emsp;During each calendar month, the Secretary shall determine a credit rate which shall apply to bonds issued during the following calendar month. The credit rate for any month is the percentage which the Secretary estimates will permit the issuance of qualified zone academy bonds without discount and without interest cost to the issuer.
 
 #### (c) Limitation based on amount of tax
 
@@ -86,7 +86,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iv)(I) such public school is located in an empowerment zone or enterprise community (including any such zone or community designated after the date of the enactment of this section), or
 
-&emsp;&emsp;&emsp;(II) there is a reasonable expectation (as of the date of issuance of the bonds) that at least 35 percent of the students attending such school or participating in such program (as the case may be) will be eligible for free or reduced-cost lunches under the school lunch program established under the National School Lunch Act.
+&emsp;&emsp;&emsp;(II) there is a reasonable expectation (as of the date of issuance of the bonds) that at least 35 percent of the students attending such school or participating in such program (as the case may be) will be eligible for free or reduced-cost lunches under the school lunch program established under the Richard B. Russell National School Lunch Act.
 
 #### (B) Eligible local education agency
 
@@ -118,11 +118,11 @@ For purposes of this section—
 
 #### (1) National limitation
 
-&emsp;There is a national zone academy bond limitation for each calendar year. Such limitation is $400,000,000 for 1998 and 1999, and, except as provided in paragraph (4), zero thereafter.
+&emsp;There is a national zone academy bond limitation for each calendar year. Such limitation is $400,000,000 for 1998, 1999, 2000, and 2001, and, except as provided in paragraph (4), zero thereafter.
 
 #### (2) Allocation of limitation
 
-&emsp;The national zone academy bond limitation for a calendar year shall be allocated by the Secretary among the States on the basis of their respective populations of individuals below the poverty line (as defined by the Office of Management and Budget). The limitation amount allocated to a State under the preceding sentence shall be allocated by the State education agency to qualified zone academies within such State.
+&emsp;The national zone academy bond limitation for a calendar year shall be allocated by the Secretary among the States on the basis oftheir respective populations of individuals below the poverty line (as defined by the Office of Management and Budget). The limitation amount allocated to a State under the preceding sentence shall be allocated by the State education agency to qualified zone academies within such State.
 
 #### (3) Designation subject to limitation amount
 
@@ -136,7 +136,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the amount of bonds issued during such year which are designated under subsection (d)(1) with respect to qualified zone academies within such State,
 
-> &emsp;the limitation amount for such State for the following calendar year shall be increased by the amount of such excess.
+> &emsp;the limitation amount for such State for the following calendar year shall be increased by the amount of such excess. Any carryforward of a limitation amount may be carried only to the first 2 years (3 years for carryforwards from 1998 or 1999) following the unused limitation year. For purposes of the preceding sentence, a limitation amount shall be treated as used on a first-in first-out basis.
 
 #### (f) Other definitions
 
@@ -162,17 +162,23 @@ Gross income includes the amount of the credit allowed to the taxpayer under thi
 
 For purposes of subtitle F, the credit allowed by this section shall be treated as a credit allowable under part IV of subchapter A of this chapter.
 
-(Added Pub. L. 105–34, title II, §226(a), Aug. 5, 1997, 111 Stat. 821; amended Pub. L. 105–206, title VI, §6004(g)(2)–(4), July 22, 1998, 112 Stat. 796.)
+(Added Pub. L. 105–34, title II, §226(a), Aug. 5, 1997, 111 Stat. 821; amended Pub. L. 105–206, title VI, §6004(g)(2)–(4), July 22, 1998, 112 Stat. 796; Pub. L. 106–78, title VII, §752(b)(11), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 106–170, title V, §509, Dec. 17, 1999, 113 Stat. 1924.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (d)(4)(A)(iv)(I), is the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997.
 
-The National School Lunch Act, referred to in subsec. (d)(4)(A)(iv)(II), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(4)(A)(iv)(II), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 Section 14101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(4)(B), is classified to section 8801 of Title 20, Education.
 
 #### Amendments
+
+1999—Subsec. (d)(4)(A)(iv)(II). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
+
+Subsec. (e)(1). Pub. L. 106–170, §509(a), substituted “, 1999, 2000, and 2001” for “and 1999”.
+
+Subsec. (e)(4). Pub. L. 106–170, §509(b), inserted at end “Any carryforward of a limitation amount may be carried only to the first 2 years (3 years for carryforwards from 1998 or 1999) following the unused limitation year. For purposes of the preceding sentence, a limitation amount shall be treated as used on a first-in first-out basis.”
 
 1998—Subsec. (d)(4)(B). Pub. L. 105–206, §6004(g)(2), substituted “local educational agency as defined” for “local education agency as defined”.
 

@@ -10,7 +10,7 @@ Section 4494, added Pub. L. 91–258, title II, §206(a), May 21, 1970, 84 Stat.
 
 #### Effective Date of Repeal
 
-Repeal applicable with respect to transportation beginning after Aug. 31, 1982, but inapplicable to amounts paid on or before such date, see section 280(d) of Pub. L. 97–248, set out as an Effective Date of 1982 Amendment note under section 4261 of this title.
+Repeal applicable with respect to transportation beginning after Aug. 31, 1982, but inapplicable to amountspaid on or before such date, see section 280(d) of Pub. L. 97–248, set out as an Effective Date of 1982 Amendment note under section 4261 of this title.
 
 #### Tax on Use of Aircraft
 

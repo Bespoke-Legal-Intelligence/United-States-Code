@@ -100,7 +100,7 @@
 
 > Except in the case of a member who, on the date of his separation, discharge, or release, or at any time during the one-year period following that date, is confined in a hospital, or is in its vicinity, undergoing medical treatment, the cost of the storage, for the period that exceeds one year, shall be paid by the member.
 
-(e) When orders directing a change of permanent station for the member concerned have not been issued, or when they have been issued but cannot be used as authority for the transportation of his dependents, baggage, and household effects, the Secretaries concerned may authorize the movement of the dependents, baggage, and household effects and prescribe transportation in kind, reimbursement therefor, or a monetary allowance in place thereof (as the case may be), plus a per diem, as authorized under subsection (a) or (b). This subsection may be used only under unusual or emergency circumstances, including those in which—
+(e) When orders directing a change of permanent station for the member concerned have not been issued, or when they have been issued but cannot be used as authority for the transportation of his dependents, baggage, and householdeffects, the Secretaries concerned may authorize the movement of the dependents, baggage, and household effects and prescribe transportation in kind, reimbursement therefor, or a monetary allowance in place thereof (as the case may be), plus a per diem, as authorized under subsection (a) or (b). This subsection may be used only under unusual or emergency circumstances, including those in which—
 
 &emsp;(1) the member is performing duty at a place designated by the Secretary concerned as being within a zone from which dependents should be evacuated;
 
@@ -126,7 +126,7 @@
 
 (h)(1) If the Secretary concerned determines that it is in the best interests of a member described in paragraph (2) or the member's dependents and the United States, the Secretary may, when orders directing a change of permanent station for the member concerned have not been issued, or when they have been issued but cannot be used as authority for the transportation of the member's dependents, baggage, and household effects—
 
-&emsp;(A) authorize the movement of the member's dependents, baggage, and household effects at the station to an appropriate location in the United States or its possessions or, if the dependents are foreign nationals, to the country of the dependents’ origin and prescribe transportation in kind, reimbursement therefor, ora monetary allowance in place thereof, as the case may be, plus a per diem, as authorized under subsection (a) or (b); and
+&emsp;(A) authorize the movement of the member's dependents, baggage, and household effects at the station to an appropriate location in the United States or its possessions or, if the dependents are foreign nationals, to the country of the dependents’ origin and prescribe transportation in kind, reimbursement therefor, or a monetary allowance in place thereof, as the case may be, plus a per diem, as authorized under subsection (a) or (b); and
 
 &emsp;(B) in the case of a member described in paragraph (2)(A), authorize the transportation of one motor vehicle, which is owned or leased by the member (or a dependent of the member) and is for the personal use of a dependent of the member, to that location by means of transportation authorized under section 2634 of title 10 or authorize the storage of the motor vehicle pursuant to subsection (b) of such section.
 
@@ -314,7 +314,7 @@ Subsec. (i). Pub. L. 104–106, §642(a)(1), redesignated subsec. (j) as (i) and
 
 &emsp;“(2) the number of dependents who during the preceding fiscal year were accompanying members of the Army, Navy, Air Force, and Marine Corps who were stationed outside the United States and were not authorized to receive such allowances or transportation.”
 
-Pub. L. 104–106, §1502(b), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives” in introductory provisions. Amendment executed before amendment by section 642(a)(1) of Pub. L. 104–106, see above, pursuant to section 1506 of Pub. L. 104–106, set out as a note under section 101 of Title 10, Armed Forces.
+Pub. L. 104–106, §1502(b), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for“Committees on Armed Services of the Senate and House of Representatives” in introductory provisions. Amendment executed before amendment by section 642(a)(1) of Pub. L. 104–106, see above, pursuant to section 1506 of Pub. L. 104–106, set out as a note under section 101 of Title 10, Armed Forces.
 
 Subsec. (j). Pub. L. 104–106, §642(a)(1), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
 
@@ -446,7 +446,7 @@ Subsec. (i). Pub. L. 96–107, §814(3), added subsec. (i).
 
 1966—Subsec. (b). Pub. L. 89–718, §58(1), substituted “change of temporary or permanent station” for “temporary or permanent change of station”.
 
-Subsec. (d). Pub. L. 89–680, §1(2), extended authority permitting a one-year period for nontemporary storage of baggage and household effects under regulations for members being separated from the service who are confined to a hospital or are in its vicinity undergoing medical treatment to include members who are being retired, placed on the temporary retired disability list, discharged, or released from active duty, and expanded coverage to include members retired or placed on the temporary disability retired list under chapter 61 of title 10, members retired with pay under any other law, or, immediately following at least eight years of continuous active duty with no single break therein of more than ninety days, discharged with severance pay or released involuntarily from active duty with readjustment pay, and inserted provisions for payment ofcost of storage by the member concerned in certain cases.
+Subsec. (d). Pub. L. 89–680, §1(2), extended authority permitting a one-year period for nontemporary storage of baggage and household effects under regulations for members being separated from the service who are confined to a hospital or are in its vicinity undergoing medical treatment to include members who are being retired, placed on the temporary retired disability list, discharged, or released from active duty, and expanded coverage to include members retired or placed on the temporary disability retired list under chapter 61 of title 10, members retired with pay under any other law, or, immediately following at least eight years of continuous active duty with no single break therein of more than ninety days, discharged with severance pay or released involuntarily from active duty with readjustment pay, and inserted provisions for payment of cost of storage by the member concerned in certain cases.
 
 Subsec. (g). Pub. L. 89–718, §§58(2), 59, inserted “is” before “placed” in cl. (1) and substituted “member's” for “members’ ”.
 

@@ -14,9 +14,17 @@
 
 (d) A civil action under this section may be brought in the judicial district in which the defendant resides, or has his principal place of business, or in any judicial district in which any sexually oriented advertisement mailed in violation of section 3010 has been delivered by mail according to the direction thereon.
 
-(e) Nothing in this section or in section 3010 shall be construed as amending, preempting, limiting, modifying, or otherwise in any way affecting section 1461 or 1463 of title 18 or section 3006, 3007, or 3008 of this title.
+(e) Nothing in this section or in section 3010 shall be construed as amending, preempting, limiting, modifying, or otherwise in any way affecting section 1461 or 1463 of title 18 or section 3007 or 3008 of this title.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 750.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 750; Pub. L. 106–168, title I, §105(b)(2)(B), Dec. 12, 1999, 113 Stat. 1811.)
+
+#### Amendments
+
+1999—Subsec. (e). Pub. L. 106–168 substituted “3007” for “3006, 3007,”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–168 effective 120 days after Dec. 12, 1999, see section 111 of Pub. L. 106–168, set out as a note under section 3001 of this title.
 
 #### Effective Date
 

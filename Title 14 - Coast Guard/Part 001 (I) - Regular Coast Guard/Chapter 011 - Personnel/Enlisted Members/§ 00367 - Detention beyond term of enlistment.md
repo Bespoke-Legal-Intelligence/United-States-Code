@@ -4,7 +4,7 @@ Under regulations prescribed by the Secretary, an enlisted member may be detaine
 
 &emsp;(1) until the first arrival of the vessel on which he is serving at its permanent station, or at a port in a State of the United States or in the District of Columbia; or
 
-&emsp;(2) if attached to a shore station beyond the continental limits of the United States or in Alaska, until his first arrival at a port in any State of the United States or in the District of Columbia where his reenlistment or discharge may be effected, or until he can be discharged or reenlisted at his station beyond the continental limits of the United States or in Alaska, whichever is earlier, but in no event to exceed three months; or
+&emsp;(2) if attached to a shore station beyond the continental limits of the United States or inAlaska, until his first arrival at a port in any State of the United States or in the District of Columbia where his reenlistment or discharge may be effected, or until he can be discharged or reenlisted at his station beyond the continental limits of the United States or in Alaska, whichever is earlier, but in no event to exceed three months; or
 
 &emsp;(3) during a period of war or national emergency as proclaimed by the President, and, in the interest of national defense, for a period not to exceed six months after the end of the war or the termination of the emergency; or
 
@@ -26,7 +26,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 1984—Pub. L. 98–557 struck out subsec. “(a)” designation; in provisions preceding cl. (1) substituted “enlisted member” for “enlisted man”; and in provisions following cl. (4) substituted “member detained” for “person detained”, “Enlisted members” for “Enlisted men”, and “clause (1)” for “(1) of this subsection”.
 
-1956—Subsec. (a). Act July 24, 1956, §§2(4), 3, repealed cl. (3) permitting detention of enlisted members beyond term of their enlistment while waiting disciplinary action or trial and disposition of their case, struck out provisions prohibiting payment of pay or allowancesfor any period beyond term of enlistment if trial of such members results in conviction, and redesignated cls. (4) and (5) as (3) and (4), respectively. See section 972(a) of Title 10, Armed Forces.
+1956—Subsec. (a). Act July 24, 1956, §§2(4), 3, repealed cl. (3) permitting detention of enlisted members beyond term of their enlistment while waiting disciplinary action or trial and disposition of their case, struck out provisions prohibiting payment of pay or allowances for any period beyond term of enlistment if trial of such members results in conviction, and redesignated cls. (4) and (5) as (3) and (4), respectively. See section 972(a) of Title 10, Armed Forces.
 
 Subsecs. (b), (c). Act July 24, 1956, §2(4), repealed subsecs. (b) and (c) which required enlisted members to make good time lost by unauthorized absence from duty, or by confinement under sentence or pending trial, or by reason of sickness resulting from misconduct. See section 972(a) of Title 10.
 

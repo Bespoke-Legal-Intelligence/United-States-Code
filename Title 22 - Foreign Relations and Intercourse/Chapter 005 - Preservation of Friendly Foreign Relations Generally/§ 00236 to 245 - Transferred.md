@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 236, act Jan. 31, 1922, ch. 44, §1, 42 Stat. 361, which related to prohibition against exportation of arms to American countries or countries under American jurisdiction in a state of domestic violence, was transferred to section 409 of this title and was repealed by act June 25, 1948, ch. 645, §21, 62 Stat. 862.
+Section 236, act Jan. 31, 1922, ch. 44, §1, 42 Stat. 361, which related to prohibition against exportation ofarms to American countries or countries under American jurisdiction in a state of domestic violence, was transferred to section 409 of this title and was repealed by act June 25, 1948, ch. 645, §21, 62 Stat. 862.
 
 Section 237, act Jan. 31, 1922, ch. 44, §2, 42 Stat. 361, which related to penalties, was transferred to section 410 of this title and was repealed by act June 25, 1948, ch. 645, §21, 62 Stat. 862.
 

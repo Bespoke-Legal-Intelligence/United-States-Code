@@ -20,21 +20,23 @@ Limitation.—Any civilian or military member of the Corps who does not meet the
 
 (c)
 
-Waiver.—(1) The Secretary of each military department (acting through the service acquisition executive for that department) or the Secretary of Defense (acting through the Under Secretary of Defense for Acquisition and Technology) for Defense Agencies and other components of the Department of Defense may waive, on a case-by-case basis, the requirements established under this subchapter with respect to the assignment of an individual to a particular critical acquisition position. Such a waiver may be granted only if unusual circumstances justify the waiver or if the Secretary concerned (or official to whom the waiver authority is delegated) determines that the individual's qualifications obviate the need for meeting the education, training, and experience requirements established under this subchapter.
+Waiver.—(1) The Secretary of each military department (acting through the service acquisition executive for that department) or the Secretary of Defense (acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics) for Defense Agencies and other components of the Department of Defense may waive, on a case-by-case basis, the requirements established under this subchapter with respect to the assignment of an individual to a particular critical acquisition position. Such a waiver may be granted only if unusual circumstances justify the waiver or if the Secretary concerned (or official to whom the waiver authority is delegated) determines that the individual's qualifications obviate the need for meeting the education, training, and experience requirements established under this subchapter.
 
 (2) The authority to grant such waivers may be delegated—
 
 &emsp;(A) in the case of the service acquisition executives of the military departments, only to the Director of Acquisition Career Management for the military department concerned; and
 
-&emsp;(B) in the case of the Under Secretary of Defense for Acquisition and Technology, only to the Director of Acquisition Education, Training, and Career Development.
+&emsp;(B) in the case of the Under Secretary of Defense for Acquisition, Technology, and Logistics, only to the Director of Acquisition Education, Training, and Career Development.
 
 (d)
 
 OPM Approval.—The Secretary of Defense shall submit any requirement with respect to civilian employees established under this subchapter to the Director of the Office of Personnel Management for approval. If the Director does not disapprove the requirement within 30 days after the date on which the Director receives the requirement, the requirement is deemed to be approved by the Director.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1650; amended Pub. L. 102–190, div. A, title X, §1061(a)(8), (c), Dec. 5, 1991, 105 Stat. 1472, 1475; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1650; amended Pub. L. 102–190, div. A, title X, §1061(a)(8), (c), Dec. 5, 1991, 105 Stat. 1472, 1475; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717.)
 
 #### Amendments
+
+1999—Subsec. (c)(1), (2)(B). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 1993—Subsec. (c)(1), (2)(B). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 

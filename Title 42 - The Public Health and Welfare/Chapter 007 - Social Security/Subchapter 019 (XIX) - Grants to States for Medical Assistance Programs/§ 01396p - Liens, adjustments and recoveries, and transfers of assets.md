@@ -52,7 +52,7 @@
 
 &emsp;(B) in the case of a lien on an individual's home under subsection (a)(1)(B) of this section, when—
 
-&emsp;&emsp;(i) no sibling of the individual (who was residing in the individual's home for a period of at least one year immediately before thedate of the individual's admission to the medical institution), and
+&emsp;&emsp;(i) no sibling of the individual (who was residing in the individual's home for a period of at least one year immediately before the date of the individual's admission to the medical institution), and
 
 &emsp;&emsp;(ii) no son or daughter of the individual (who was residing in the individual's home for a period of at least two years immediately before the date of the individual's admission to the medical institution, and who establishes to the satisfaction of the State that he or she provided care to such individual which permitted such individual to reside at home rather than in an institution),
 
@@ -70,7 +70,7 @@
 
 (1)(A) In order to meet the requirements of this subsection for purposes of section 1396a(a)(18) of this title, the State plan must provide that if an institutionalized individual or the spouse of such an individual (or, at the option of a State, a noninstitutionalized individual or the spouse of such an individual) disposes of assets for less than fair market value on or after the look-back date specified in subparagraph (B)(i), the individual is ineligible for medical assistance for services described in subparagraph (C)(i) (or, in the case of a noninstitutionalized individual, for the services described in subparagraph (C)(ii)) during the period beginning on the date specified in subparagraph (D) and equal to the number of months specified in subparagraph (E).
 
-(B)(i) The look-back date specified in this subparagraph is a date that is 36 months (or, in the case of payments from a trust or portions of a trust that are treated as assets disposed of by the individual pursuant to paragraph (3)(A)(iii) or (3)(B)(ii) of subsection (d) of this section, 60 months) before the date specified in clause (ii).
+(B)(i) The look-back date specified in this subparagraph is a date that is 36 months (or, in the case of payments from a trust or portions of a trust that are treated as assets disposed of bythe individual pursuant to paragraph (3)(A)(iii) or (3)(B)(ii) of subsection (d) of this section, 60 months) before the date specified in clause (ii).
 
 (ii) The date specified in this clause, with respect to—
 
@@ -106,7 +106,7 @@
 
 &emsp;(I) in the case of periods of ineligibility determined under clause (i), by the number of months of ineligibility applicable to the individual under clause (ii) as a result of such disposal, and
 
-&emsp;(II) in the case of periods of ineligibility determined under clause (ii), by the number ofmonths of ineligibility applicable to the individual under clause (i) as a result of such disposal.
+&emsp;(II) in the case of periods of ineligibility determined under clause (ii), by the number of months of ineligibility applicable to the individual under clause (i) as a result of such disposal.
 
 (2) An individual shall not be ineligible for medical assistance by reason of paragraph (1) to the extent that—
 
@@ -132,7 +132,7 @@
 
 &emsp;(C) a satisfactory showing is made to the State (in accordance with regulations promulgated by the Secretary) that (i) the individual intended to dispose of the assets either at fair market value, or for other valuable consideration, (ii) the assets were transferred exclusively for a purpose other than to qualify for medical assistance, or (iii) all assets transferred for less than fair market value have been returned to the individual; or
 
-&emsp;(D) the State determines, under procedures established by the State (in accordance with standards specified by the Secretary), that the denial of eligibility would work an undue hardship as determined on the basis of criteria established by the Secretary; <sup>1</sup>
+&emsp;(D) the State determines, under procedures established by the State (in accordance withstandards specified by the Secretary), that the denial of eligibility would work an undue hardship as determined on the basis of criteria established by the Secretary; <sup>1</sup>
 
 (3) For purposes of this subsection, in the case of an asset held by an individual in common with another person or persons in a joint tenancy, tenancy in common, or similar arrangement, the asset (or the affected portion of such asset) shall be considered to be transferred by such individual when any action is taken, either by such individual or by any other person, that reduces or eliminates such individual's ownership or control of such asset.
 
@@ -194,7 +194,7 @@
 
 &emsp;&emsp;(ii) the State will receive all amounts remaining in the trust upon the death of such individual up to an amount equal to the total medical assistance paid on behalf of the individual under a State plan under this subchapter; and
 
-&emsp;&emsp;(iii) the State makes medical assistance available to individuals described in section 1396a(a)(10)(A)(ii)(V) of this title, but does not make such assistance available to individuals for nursing facility services under section 1396a(a)(10)(C) of this title.
+&emsp;&emsp;(iii) the State makes medical assistance available to individuals described in section1396a(a)(10)(A)(ii)(V) of this title, but does not make such assistance available to individuals for nursing facility services under section 1396a(a)(10)(C) of this title.
 
 &emsp;(C) A trust containing the assets of an individual who is disabled (as defined in section 1382c(a)(3) of this title) that meets the following conditions:
 
@@ -228,7 +228,7 @@ In this section, the following definitions shall apply:
 
 &emsp;(4) The term “noninstitutionalized individual” means an individual receiving any of the services specified in subsection (c)(1)(C)(ii) of this section.
 
-&emsp;(5) The term “resources” has the meaning given such term in section 1382b of this title,without regard (in the case of an institutionalized individual) to the exclusion described in subsection (a)(1) of such section.
+&emsp;(5) The term “resources” has the meaning given such term in section 1382b of this title, without regard (in the case of an institutionalized individual) to the exclusion described in subsection (a)(1) of such section.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1917, as added Pub. L. 97–248, title I, §132(b), Sept. 3, 1982, 96 Stat. 370; amended Pub. L. 97–448, title III, §309(b)(21), (22), Jan. 12, 1983, 96 Stat. 2410; Pub. L. 100–203, title IV, §4211(h)(12), Dec. 22, 1987, 101 Stat. 1330–207; Pub. L. 100–360, title III, §303(b), title IV, §411(<i>l</i>)(3)(I), July 1, 1988, 102 Stat. 760, 803; Pub. L. 100–485, title VI, §608(d)(16)(B), Oct. 13, 1988, 102 Stat. 2417; Pub. L. 101–239, title VI, §6411(e)(1), Dec. 19, 1989, 103 Stat. 2271; Pub. L. 103–66, title XIII, §§13611(a)–(c), 13612(a)–(c), Aug. 10, 1993, 107 Stat. 622–628.)
 

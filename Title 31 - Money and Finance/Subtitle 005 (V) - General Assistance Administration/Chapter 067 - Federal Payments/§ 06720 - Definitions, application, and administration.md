@@ -26,7 +26,7 @@ Definitions.—In this chapter—
 
 &emsp;&emsp;(C) in the case of a unit of general local government, the income of that unit of general local government divided by the population of the unit of general local government;
 
-&emsp;(7) “finding of discrimination” means a decision by the Secretary about a complaint described in section 6716(b), a decision by a Stateor local administrative agency, or other information (under regulations prescribed by the Secretary) that it is more likely than not that a unit of general local government has not complied with section 6711(a) or (b);
+&emsp;(7) “finding of discrimination” means a decision by the Secretary about a complaint described in section 6716(b), a decision by a State or local administrative agency, or other information (under regulations prescribed by the Secretary) that it is more likely than not that a unit of general local government has not complied with section 6711(a) or (b);
 
 &emsp;(8) “holding of discrimination” means a holding by a United States court, a State court, or an administrative law judge appointed under section 3105 of title 5, United States Code, that a unit of general local government expending amounts received under this chapter has—
 

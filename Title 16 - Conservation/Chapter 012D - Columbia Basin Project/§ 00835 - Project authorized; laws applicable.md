@@ -2,7 +2,7 @@
 
 In addition to the primary purposes for which the Grand Coulee Dam project (hereafter to be known as the Columbia Basin project and herein called the “project”) was authorized under the provisions of the Act of August 30, 1935 (49 Stat. 1028), the project is authorized and reauthorized as a project subject to the Reclamation Project Act of 1939; and the provisions of each of those two Acts together with the provisions of sections 835 and 835a to 835c–5 of this title shall govern the repayment of expenditures and the construction, operation, and maintenance of the works constructed as a part of the project.
 
-(May 27, 1937, ch. 269, §1, 50 Stat. 208; Mar. 10, 1943, ch. 14, §1, 57 Stat. 14.)
+(May 27, 1937, ch. 269, §1, 50 Stat. 208; Mar. 10, 1943, ch. 14, 57 Stat. 14.)
 
 #### References in Text
 
@@ -18,13 +18,13 @@ Sections 835a, 835b, 835c–3 and 835c–5 of this title, included within the re
 
 1943—Act Mar. 10, 1943, amended section generally.
 
-#### Short Title of 1943 Amendment
+#### Short Title
 
-Section 11 of act Mar. 10, 1943, provided that: “This Act \[amending this section and sections 835a, 835b, and 835c of this title and enacting sections 835c–1 to 835c–5 of this title\] may be cited as ‘The Columbia Basin Project Act’.”
+Act May 27, 1937, ch. 269, §11, as added by Mar. 10, 1943, ch. 14, 57 Stat. 20, provided that: “This Act \[enacting sections 835 and 835a to 835c–5 of this title and provisions set out as a note below\] may be cited as ‘The Columbia Basin Project Act’.”
 
 #### Separability
 
-Section 10 of act Mar. 10, 1943, provided that: “If any provision of this Act \[see Short Title of 1943 Amendment note above\] or the application of such provision to any person or circumstances shall be held invalid, the remainder of the Act \[such sections\] and the application of such provision to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.”
+Act May 27, 1937, ch. 269, §10, as added by Mar. 10, 1943, ch. 14, 57 Stat. 20, provided that: “If any provision of this Act \[see Short Title note above\] or the application of such provision to any person or circumstances shall be held invalid, the remainder of the Act and the application of such provision to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.”
 
 #### Transfer of Functions
 

@@ -26,7 +26,7 @@ Telephone number.—A plan for publicizing a reliable, toll-free telephone numbe
 
 &emsp;(2)
 
-Notification of families.—A process for notifying, in person to the extent practicable, the families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in a significant loss of life before providing any public notice of the names of such passengers. Such notice shall be provided by using the services of—
+Notification of families.—A process for notifying, in person to the extent practicable,the families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in a significant loss of life before providing any public notice of the names of such passengers. Such notice shall be provided by using the services of—
 
 &emsp;&emsp;(A) the organization designated for the accident under section 1136(a)(2); or
 

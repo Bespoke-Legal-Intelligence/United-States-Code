@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00290n - Establishment of Border Health Commission](%C2%A7%2000290n%20-%20Establishment%20of%20Border%20Health%20Commission.md)
+- [&sect; 00290n - Appointment of members of Border Health Commission](%C2%A7%2000290n%20-%20Appointment%20of%20members%20of%20Border%20Health%20Commission.md)
 - [&sect; 00290n&#8211;1 - Duties](%C2%A7%2000290n%E2%80%931%20-%20Duties.md)
 - [&sect; 00290n&#8211;2 - Other authorized functions](%C2%A7%2000290n%E2%80%932%20-%20Other%20authorized%20functions.md)
 - [&sect; 00290n&#8211;3 - Membership](%C2%A7%2000290n%E2%80%933%20-%20Membership.md)

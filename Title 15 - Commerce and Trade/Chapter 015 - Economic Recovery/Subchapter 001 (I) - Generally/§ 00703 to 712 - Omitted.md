@@ -30,5 +30,5 @@ National Emergency Council abolished and functions transferred to Executive Offi
 
 #### National Resources Committee
 
-National Resources Committee abolished and functions and personnel transferred to National Resources Planning Board in Executive Office of President, which Board was also directed to wind up affairs of the Committee, by Reorg. Plan No. I of 1939, §§4, 5, eff. July 1, 1939, 4 F.R. 2727, 2728, 53 Stat. 1423, 1424, set out in the Appendix to Title 5, Government Organization and Employees. See, also, sections 7 to 9 of 1939 Reorg. Plan for provisions relating to transfer of records, property, funds, and personnel.
+National Resources Committee abolished and functions and personnel transferred to National Resources Planning Board in Executive Office of President, which Board was also directed to wind up affairs of the Committee, by Reorg. Plan No. I of 1939, §§4, 5, eff. July 1,1939, 4 F.R. 2727, 2728, 53 Stat. 1423, 1424, set out in the Appendix to Title 5, Government Organization and Employees. See, also, sections 7 to 9 of 1939 Reorg. Plan for provisions relating to transfer of records, property, funds, and personnel.
 

@@ -2,7 +2,7 @@
 
 The statement of record shall contain the information and be accompanied by the documents specified hereinafter in this section—
 
-&emsp;(1) the name and address of each person having an interest in the lots in the subdivision tobe covered by the statement of record and the extent of such interest;
+&emsp;(1) the name and address of each person having an interest in the lots in the subdivision to be covered by the statement of record and the extent of such interest;
 
 &emsp;(2) a legal description of, and a statement of the total area included in, the subdivision and a statement of the topography thereof, together with a map showing the division proposed and the dimensions of the lots to be covered by the statement of record and their relation to existing streets and roads;
 

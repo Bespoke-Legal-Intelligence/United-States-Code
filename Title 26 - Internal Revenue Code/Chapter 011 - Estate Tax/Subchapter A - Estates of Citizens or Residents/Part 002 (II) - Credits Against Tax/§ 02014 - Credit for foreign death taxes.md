@@ -76,7 +76,7 @@ Whenever the President finds that—
 
 > the President shall proclaim that, in the case of citizens or subjects of such foreign country dying while the proclamation remains in effect, the credit under subsection (a) shall be allowed only if such foreign country allows such a similar credit in the case of citizens of the United States resident in such foreign country at the time of death.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 378; Pub. L. 85–866, title I, §102(c)(2), Sept. 2, 1958, 72 Stat. 1674; Pub. L. 86–175, §2, Aug. 21, 1959, 73 Stat. 397; Pub. L. 89–809, title I, §106(b)(3), Nov. 13, 1966, 80 Stat. 1570; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XX, §2001(c)(1)(G), Oct. 4, 1976, 90 Stat. 1834, 1852.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 378; Pub. L. 85–866, title I, §102(c)(2), Sept. 2, 1958, 72 Stat. 1674; Pub. L. 86–175, §2, Aug. 21, 1959, 73 Stat. 397; Pub. L. 89–809, title I, §106(b)(3), Nov. 13, 1966, 80Stat. 1570; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XX, §2001(c)(1)(G), Oct. 4, 1976, 90 Stat. 1834, 1852.)
 
 #### Amendments
 

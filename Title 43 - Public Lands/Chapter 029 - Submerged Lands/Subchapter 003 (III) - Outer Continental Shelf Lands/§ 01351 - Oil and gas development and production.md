@@ -56,7 +56,7 @@ If approval of a development and production plan is not found to be a major Fede
 
 &emsp;(C) if operations threaten national security or national defense; or
 
-&emsp;(D) if the Secretary determines, because of exceptional geological conditions in the lease areas, exceptional resource values in the marine or coastal environment, or other exceptional circumstances, that (i) implementation of the plan would probably cause serious harmor damage to life (including fish and other aquatic life), to property, to any mineral deposits (in areas leased or not leased), to the national security or defense, or to the marine, coastal or human environments, (ii) the threat of harm or damage will not disappear or decrease to an acceptable extent within a reasonable period of time, and (iii) the advantages of disapproving the plan outweigh the advantages of development and production.
+&emsp;(D) if the Secretary determines, because of exceptional geological conditions in the lease areas, exceptional resource values in the marine or coastal environment, or other exceptional circumstances, that (i) implementation of the plan would probably cause serious harm or damage to life (including fish and other aquatic life), to property, to any mineral deposits (in areas leased or not leased), to the national security or defense, or to the marine, coastal or human environments, (ii) the threat of harm or damage will not disappear or decrease to an acceptable extent within a reasonable period of time, and (iii) the advantages of disapproving the plan outweigh the advantages of development and production.
 
 (2)(A) If a plan is disapproved—
 

@@ -56,7 +56,7 @@ For the purpose of payments under agreements entered into under subsection (a) o
 
 #### (1) In general
 
-&emsp;In the case of any program under this section under which an individual makes anagreement to provide health services for a period of time in accordance with such program in consideration of receiving an award of Federal funds regarding education as a nurse (including an award for the repayment of loans), the following applies if the agreement provides that this subsection is applicable:
+&emsp;In the case of any program under this section under which an individual makes an agreement to provide health services for a period of time in accordance with such program in consideration of receiving an award of Federal funds regarding education as a nurse (including an award for the repayment of loans), the following applies if the agreement provides that this subsection is applicable:
 
 &emsp;&emsp;(A) In the case of a program under this section that makes an award of Federal funds for attending an accredited program of nursing (in this section referred to as a “nursing program”), the individual is liable to the Federal Government for the amount of such award (including amounts provided for expenses related to such attendance), and for interest on such amount at the maximum legal prevailing rate, if the individual—
 

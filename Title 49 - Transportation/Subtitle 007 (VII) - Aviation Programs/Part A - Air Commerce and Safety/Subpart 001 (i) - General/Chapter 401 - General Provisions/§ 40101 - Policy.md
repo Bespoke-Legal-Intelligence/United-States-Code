@@ -246,6 +246,10 @@ Subsec. (d)(4) to (7). Pub. L. 104–264, §401(a)(1)(A), redesignated pars. (3)
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–6, §1, Mar. 31, 1999, 113 Stat. 10, provided that: “This Act \[amending sections 106, 44310, 47104, 47115 to 47117, 48101, and 48103 of this title\] may be cited as the ‘Interim Federal Aviation Administration Authorization Act’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–155, §1, Feb. 11, 1998, 112 Stat. 5, provided that: “This Act \[amending section 48102 of this title and enacting provisions set out as a note under section 48102 of this title\] may be cited as the ‘FAA Research, Engineering, and Development Authorization Act of 1998’.”
@@ -274,7 +278,7 @@ Section 1101 of title XI of Pub. L. 104–264 provided that: “This title \[ame
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–305, §1(a), Aug. 23, 1994, 108 Stat. 1569, provided that: “This Act \[enacting sections 41311, 41714, 41715, 47129, 47130, and 47509 of this title, amending sections 106, 10521, 11501, 40102, 40113, 40116, 40117, 41713, 41734, 44502, 44505, 44938, 45301, 46301, 47101, 47102, 47104 to 47107, 47109 to 47111, 47115, 47117 to 47119, 47504, 48101 to 48104, and 48108 of this title and section 9502 of Title 26, Internal Revenue Code, renumbering former section 47129 of this title as section 47131 of this title, enacting provisions set out as notes under this section and sections 10521, 11501, 40102, 40105, 40117, 41311, 41715, 44502, 45102, 47101, 47107, 47124, and 49101 of this title, and repealing provisions set out as a note under section 1348 of former Title 49, Transportation\] may be cited as the ‘Federal Aviation Administration Authorization Act of 1994’.”
+Pub. L. 103–305, §1(a), Aug. 23, 1994, 108 Stat. 1569, provided that: “This Act \[enacting sections 41311, 41714,41715, 47129, 47130, and 47509 of this title, amending sections 106, 10521, 11501, 40102, 40113, 40116, 40117, 41713, 41734, 44502, 44505, 44938, 45301, 46301, 47101, 47102, 47104 to 47107, 47109 to 47111, 47115, 47117 to 47119, 47504, 48101 to 48104, and 48108 of this title and section 9502 of Title 26, Internal Revenue Code, renumbering former section 47129 of this title as section 47131 of this title, enacting provisions set out as notes under this section and sections 10521, 11501, 40102, 40105, 40117, 41311, 41715, 44502, 45102, 47101, 47107, 47124, and 49101 of this title, and repealing provisions set out as a note under section 1348 of former Title 49, Transportation\] may be cited as the ‘Federal Aviation Administration Authorization Act of 1994’.”
 
 Pub. L. 103–305, title III, §301, Aug. 23, 1994, 108 Stat. 1589, provided that: “This title \[enacting section 47509 of this title, amending sections 44505 and 48102 of this title, and enacting provisions set out as notes under this section and section 49101 of this title\] may be cited as the ‘Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1994’.”
 
@@ -342,7 +346,7 @@ Initiation.—Not later than 30 days after the date of the enactment of this Act
 
 &emsp;“(2)
 
-Assessment criteria.—The Administrator shall provide to the independent entity estimates of the financial requirements of the Administration for the period described in paragraph (1), using as a basethe fiscal year 1997 appropriation levels established by Congress. The independent assessment shall be based on an objective analysis of agency funding needs.
+Assessment criteria.—The Administrator shall provide to the independent entity estimates of the financial requirements of the Administration for the period described in paragraph (1), using as a base the fiscal year 1997 appropriation levels established by Congress. The independent assessment shall be based on an objective analysis of agency funding needs.
 
 &emsp;“(3)
 
@@ -584,7 +588,7 @@ Publication.—The Secretary shall cause a copy of the report to be printed in t
 
 &emsp;“(2)
 
-Report by the administrator based on final report of aviation safety task force.—Not later than 30 days after receiving the report of the aviation safety task force, the Administrator shall transmitthe report to Congress, together with the Administrator's recommendations for improving aviation safety in the United States.
+Report by the administrator based on final report of aviation safety task force.—Not later than 30 days after receiving the report of the aviation safety task force, the Administrator shall transmit the report to Congress, together with the Administrator's recommendations for improving aviation safety in the United States.
 
 “(d)
 

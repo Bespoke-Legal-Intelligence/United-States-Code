@@ -519,7 +519,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 300h–6, 300h–7, 2022, 2114, 4365, 4368b, 5919, 7412, 7429, 8302, 9601, 9604, 9613, 9614, 9619, 6920, 9621, 9659, 9660, 14323 of this title; title 7 section 136q; title 10 sections 2708, 7311; title 16 section 460<i>lll</i>; title 18 section 1956; title 25 section 3908; title 26 section 468; title 30 section 1292; title 33 sections 1319, 2602, 2622, 2718; title 49 section 14901.
+This chapter is referred to in sections 300h–6, 300h–7, 2022, 2114, 4365, 4368b, 5919, 7412, 7429, 8302, 9601, 9604, 9613, 9614, 9619, 6920, 9621, 9627, 9659, 9660, 14323 of this title; title 7 section 136q; title 10 sections 2708, 7311; title 16 section 460<i>lll</i>; title 18 section 1956; title 25 section 3908; title 26 section 468; title 30 section 1292; title 33 sections 1319, 2602, 2622, 2718; title 49 section 14901.
 
 
 ---

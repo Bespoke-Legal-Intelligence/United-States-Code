@@ -16,7 +16,7 @@ Section effective Oct. 1, 1981, see section 820(a)(4) of Pub. L. 97–35, set ou
 
 #### Report to Congress of Needs for Equipment To Be Submitted by June 30, 1973
 
-Pub. L. 92–433, §6(e), Sept. 26, 1972, 86 Stat. 729, directed Secretary, to assist Congress in determining amounts needed annually, to conduct a survey among States and school districts on unmet needs for equipment in schools eligible for assistance under former section 1774 of this title, results of such survey to be reported to Congress by June 30, 1973.
+Pub. L. 92–433, §6(e), Sept. 26, 1972, 86 Stat. 729, directed Secretary, to assist Congress in determining amounts needed annually, to conduct a survey amongStates and school districts on unmet needs for equipment in schools eligible for assistance under former section 1774 of this title, results of such survey to be reported to Congress by June 30, 1973.
 
 #### Section Referred to in Other Sections
 

@@ -1,0 +1,114 @@
+### §1725. Reimbursement for emergency treatment
+
+(a)
+
+General Authority.—(1) Subject to subsections (c) and (d), the Secretary may reimburse a veteran described in subsection (b) for the reasonable value of emergency treatment furnished the veteran in a non-Department facility.
+
+(2) In any case in which reimbursement is authorized under subsection (a)(1), the Secretary, in the Secretary's discretion, may, in lieu of reimbursing the veteran, make payment of the reasonable value of the furnished emergency treatment directly—
+
+&emsp;(A) to a hospital or other health care provider that furnished the treatment; or
+
+&emsp;(B) to the person or organization that paid for such treatment on behalf of the veteran.
+
+(b)
+
+Eligibility.—(1) A veteran referred to in subsection (a)(1) is an individual who is an active Department health-care participant who is personally liable for emergency treatment furnished the veteran in a non-Department facility.
+
+(2) A veteran is an active Department health-care participant if—
+
+&emsp;(A) the veteran is enrolled in the health care system established under section 1705(a) of this title; and
+
+&emsp;(B) the veteran received care under this chapter within the 24-month period preceding the furnishing of such emergency treatment.
+
+(3) A veteran is personally liable for emergency treatment furnished the veteran in a non-Department facility if the veteran—
+
+&emsp;(A) is financially liable to the provider of emergency treatment for that treatment;
+
+&emsp;(B) has no entitlement to care or services under a health-plan contract (determined, in the case of a health-plan contract as defined in subsection (f)(2)(B) or (f)(2)(C), without regard to any requirement or limitation relating to eligibility for care or services from any department or agency of the United States);
+
+&emsp;(C) has no other contractual or legal recourse against a third party that would, in whole or in part, extinguish such liability to the provider; and
+
+&emsp;(D) is not eligible for reimbursement for medical care or services under section 1728 of this title.
+
+(c)
+
+Limitations on Reimbursement.—(1) The Secretary, in accordance with regulations prescribed by the Secretary, shall—
+
+&emsp;(A) establish the maximum amount payable under subsection (a);
+
+&emsp;(B) delineate the circumstances under which such payments may be made, to include such requirements on requesting reimbursement as the Secretary shall establish; and
+
+&emsp;(C) provide that in no event may a payment under that subsection include any amount for which the veteran is not personally liable.
+
+(2) Subject to paragraph (1), the Secretary may provide reimbursement under this section only after the veteran or the provider of emergency treatment has exhausted without success all claims and remedies reasonably available to the veteran or provider against a third party for payment of such treatment.
+
+(3) Payment by the Secretary under this section on behalf of a veteran to a provider of emergency treatment shall, unless rejected and refunded by the provider within 30 days of receipt, extinguish any liability on the part of the veteran for that treatment. Neither the absence of a contract or agreement between the Secretary and the provider nor any provision of a contract, agreement, or assignment to the contrary shall operate to modify, limit, or negate the requirement in the preceding sentence.
+
+(d)
+
+Independent Right of Recovery.—(1) In accordance with regulations prescribed by the Secretary, the United States shall have the independent right to recover any amount paid under this section when, and to the extent that, a third party subsequently makes a payment for the same emergency treatment.
+
+(2) Any amount paid by the United States to the veteran (or the veteran's personal representative, successor, dependents, or survivors) or to any other person or organization paying for such treatment shall constitute a lien in favor of the United States against any recovery the payee subsequently receives from a third party for the same treatment.
+
+(3) Any amount paid by the United States to the provider that furnished the veteran's emergency treatment shall constitute a lien against any subsequent amount the provider receives from a third party for the same emergency treatment for which the United States made payment.
+
+(4) The veteran (or the veteran's personal representative, successor, dependents, or survivors) shall ensure that the Secretary is promptly notified of any payment received from any third party for emergency treatment furnished to the veteran. The veteran (or the veteran's personal representative, successor, dependents, or survivors) shall immediately forward all documents relating to such payment, cooperate with the Secretary in the investigation of such payment, and assist the Secretary in enforcing the United States right to recover any payment made under subsection (c)(3).
+
+(e)
+
+Waiver.—The Secretary, in the Secretary's discretion, may waive recovery of a payment made to a veteran under this section that is otherwise required by subsection (d)(1) when the Secretary determines that such waiver would be in the best interest of the United States, as defined by regulations prescribed by the Secretary.
+
+(f)
+
+Definitions.—For purposes of this section:
+
+&emsp;(1) The term “emergency treatment” means medical care or services furnished, in the judgment of the Secretary—
+
+&emsp;&emsp;(A) when Department or other Federal facilities are not feasibly available and an attempt to use them beforehand would not be reasonable;
+
+&emsp;&emsp;(B) when such care or services are rendered in a medical emergency of such nature that a prudent layperson reasonably expects that delay in seeking immediate medical attention would be hazardous to life or health; and
+
+&emsp;&emsp;(C) until such time as the veteran can be transferred safely to a Department facility or other Federal facility.
+
+&emsp;(2) The term “health-plan contract” includes any of the following:
+
+&emsp;&emsp;(A) An insurance policy or contract, medical or hospital service agreement, membership or subscription contract, or similar arrangement under which health services for individuals are provided or the expenses of such services are paid.
+
+&emsp;&emsp;(B) An insurance program described in section 1811 of the Social Security Act (42 U.S.C. 1395c) or established by section 1831 of that Act (42 U.S.C. 1395j).
+
+&emsp;&emsp;(C) A State plan for medical assistance approved under title XIX of such Act (42 U.S.C. 1396 et seq.).
+
+&emsp;&emsp;(D) A workers’ compensation law or plan described in section 1729(a)(2)(A) of this title.
+
+&emsp;&emsp;(E) A law of a State or political subdivision described in section 1729(a)(2)(B) of this title.
+
+&emsp;(3) The term “third party” means any of the following:
+
+&emsp;&emsp;(A) A Federal entity.
+
+&emsp;&emsp;(B) A State or political subdivision of a State.
+
+&emsp;&emsp;(C) An employer or an employer's insurance carrier.
+
+&emsp;&emsp;(D) An automobile accident reparations insurance carrier.
+
+&emsp;&emsp;(E) A person or entity obligated to provide, or to pay the expenses of, health services under a health-plan contract.
+
+(Added Pub. L. 106–117, title I, §111(a), Nov. 30, 1999, 113 Stat. 1553.)
+
+#### References in Text
+
+The Social Security Act, referred to in subsec. (f)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+#### Effective Date
+
+Pub. L. 106–117, title I, §111(c), Nov. 30, 1999, 113 Stat. 1556, provided that: “The amendments made by this section \[enacting this section and amending section 1729A of this title\] shall take effect 180 days after the date of the enactment of this Act \[Nov. 30, 1999\].”
+
+#### Implementation Reports
+
+Pub. L. 106–117, title I, §111(d), Nov. 30, 1999, 113 Stat. 1556, provided that: “The Secretary \[of Veterans Affairs\] shall include with the budget justification materials submitted to Congress in support of the Department of Veterans Affairs budget for fiscal year 2002 and for fiscal year 2003 a report on the implementation of section 1725 of title 38, United States Code, as added by subsection (a). Each such report shall include information on the experience of the Department under that section and the costs incurred, and expected to be incurred, under that section.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1729A of this title.
+

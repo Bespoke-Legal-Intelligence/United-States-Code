@@ -28,7 +28,7 @@ At the request of the Committee on the Budget of either House, personnel of the 
 
 #### (e) Reports to budget committees
 
-(1) On or before February 15 of each year, the Director shall submit to the Committees on the Budget of the House of Representatives and the Senate a report, for the fiscal year commencing on October 1 of that year, with respect to fiscal policy, including (A) alternative levels of total revenues, total new budget authority, and total outlays (including related surpluses and deficits), (B) the levels of tax expenditures under existing law, taking into account projected economic factors and any changes in such levels based on proposals in the budget submitted by the President for such fiscal year, and (C) a statement of the levels of budget authority andoutlays for each program assumed to be extended in the baseline, as provided in section 907(b)(2)(A) of this title and for excise taxes assumed to be extended under section 907(b)(2)(C) of this title. Such report shall also include a discussion of national budget priorities, including alternative ways of allocating new budget authority and budget outlays for such fiscal year among major programs or functional categories, taking into account how such alternative allocations will meet major national needs and affect balanced growth and development of the United States.
+(1) On or before February 15 of each year, the Director shall submit to the Committees on the Budget of the House of Representatives and the Senate a report, for the fiscal year commencing on October 1 of that year, with respect to fiscal policy, including (A) alternative levels of total revenues, total new budget authority, and total outlays (including related surpluses and deficits), (B) the levels of tax expenditures under existing law, taking into account projected economic factors and any changes in such levels based on proposals in the budget submitted by the President for such fiscal year, and (C) a statement of the levels of budget authority and outlays for each program assumed to be extended in the baseline, as provided in section 907(b)(2)(A) of this title and for excise taxes assumed to be extended under section 907(b)(2)(C) of this title. Such report shall also include a discussion of national budget priorities, including alternative ways of allocating new budget authority and budget outlays for such fiscal year among major programs or functional categories, taking into account how such alternative allocations will meet major national needs and affect balanced growth and development of the United States.
 
 (2) The Director shall from time to time submit to the Committees on the Budget of the House of Representatives and the Senate such further reports (including reports revising the report required by paragraph (1)) as may be necessary or appropriate to provide such Committees with information, data, and analyses for the performance of their duties and functions.
 
@@ -84,7 +84,7 @@ Subsecs. (f) to (h). Pub. L. 105–33, §10103(b), redesignated subsecs. (g) and
 
 1995—Subsec. (c)(2), (3). Pub. L. 104–4, §102(1)(A), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (h). Pub. L. 104–4, §102(1)(B), amended heading and text of subsec. (h) generally. Prior to amendment,text read as follows: “The Director shall conduct continuing studies to enhance comparisons of budget outlays, credit authority, and tax expenditures.”
+Subsec. (h). Pub. L. 104–4, §102(1)(B), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “The Director shall conduct continuing studies to enhance comparisons of budget outlays, credit authority, and tax expenditures.”
 
 1990—Subsecs. (a)(1), (f)(1). Pub. L. 101–508 substituted “new budget authority” for “budget authority” in subsec. (a)(1) and second sentence of subsec. (f)(1).
 
@@ -104,7 +104,7 @@ Amendment by Pub. L. 104–4 effective Jan. 1, 1996, or on the date 90 days afte
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginningafter Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
 
 #### Effective Date
 

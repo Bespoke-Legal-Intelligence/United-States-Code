@@ -14,7 +14,7 @@ Funds made available under this chapter for vocational and technical education a
 
 #### (B) Computation
 
-&emsp;&emsp;In computing the fiscal effort or aggregate expenditures pursuant to subparagraph (A),the Secretary shall exclude capital expenditures, special one-time project costs, and the cost of pilot programs.
+&emsp;&emsp;In computing the fiscal effort or aggregate expenditures pursuant to subparagraph (A), the Secretary shall exclude capital expenditures, special one-time project costs, and the cost of pilot programs.
 
 #### (C) Decrease in Federal support
 

@@ -16,7 +16,7 @@ Each boxer shall register with—
 
 &emsp;&emsp;(A) A recent photograph of the boxer.
 
-&emsp;&emsp;(B) The social security number of the boxer (or, in the case of a foreign boxer, any similar citizen identification number or professional boxer number from the country of residence of the boxer).
+&emsp;&emsp;(B) The social security number of the boxer (or, in the case of a foreign boxer, anysimilar citizen identification number or professional boxer number from the country of residence of the boxer).
 
 &emsp;&emsp;(C) A personal identification number assigned to the boxer by a boxing registry.
 

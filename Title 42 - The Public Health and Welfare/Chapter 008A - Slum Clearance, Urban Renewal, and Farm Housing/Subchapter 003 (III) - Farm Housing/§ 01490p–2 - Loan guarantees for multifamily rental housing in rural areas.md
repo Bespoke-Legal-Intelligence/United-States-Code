@@ -160,7 +160,7 @@ The standards established under section 1485(m) of this title for housing and re
 
 &emsp;&emsp;(B) analyze the financial viability of the housing provided with loans guaranteed under this section and the need for project-based rental assistance for such housing;
 
-&emsp;&emsp;(C) include any recommendations of the Secretary for expanding or improving the program under this section for guaranteeing loans; and
+&emsp;&emsp;(C) include any recommendations of the Secretary for expanding or improving theprogram under this section for guaranteeing loans; and
 
 &emsp;&emsp;(D) include any other information regarding the program for guaranteeing loans under this section that the Secretary considers appropriate.
 

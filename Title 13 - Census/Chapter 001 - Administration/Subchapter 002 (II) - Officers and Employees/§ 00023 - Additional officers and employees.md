@@ -54,11 +54,13 @@ Amendment by Pub. L. 94–521 effective Oct. 17, 1976, see section 17 of Pub. L.
 
 Amendment by Pub. L. 88–448 effective on first day of first month which begins later than ninetieth day following Aug. 19, 1964, see section 403 of Pub. L. 88–448.
 
-#### Temporary Positions Relating to 1990 Decennial Census
+#### Temporary Positions Relating to Decennial Censuses
 
-Pub. L. 105–277, div. A, §101(b) \[title II, §204\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–86, provided that: “None of the funds provided in this or any previous Act, or hereinafter made available to the Department of Commerce, shall be available to reimburse the Unemployment Trust Fund or any other fund or account of the Treasury to pay for any expenses paid before October 1, 1992, as authorized by section 8501 of title 5, United States Code, for services performed after April 20, 1990, by individuals appointed to temporary positions within the Bureau of the Census for purposes relating to the 1990 decennial census of population.”
+Pub. L. 106–113, div. B, §1000(a)(1) \[title II, §204\], Nov. 29, 1999, 113 Stat. 1535, 1501A–31, provided that: “None of the funds provided in this or any previous Act, or hereinafter made available to the Department of Commerce, shall be available to reimburse the Unemployment Trust Fund or any other fund or account of the Treasury to pay for any expenses authorized by section 8501 of title 5, United States Code, for services performed by individuals appointed to temporary positions within the Bureau of the Census for purposes relating to the decennial censuses of population.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–277, div. A, §101(b) \[title II, §204\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–86.
 
 Pub. L. 105–119, title II, §204, Nov. 26, 1997, 111 Stat. 2479.
 

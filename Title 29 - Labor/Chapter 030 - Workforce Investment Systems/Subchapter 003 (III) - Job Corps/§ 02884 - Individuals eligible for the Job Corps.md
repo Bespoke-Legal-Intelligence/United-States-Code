@@ -24,3 +24,7 @@ To be eligible to become an enrollee, an individual shall be—
 
 (Pub. L. 105–220, title I, §144, Aug. 7, 1998, 112 Stat. 1007.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 42 section 12653c.
+

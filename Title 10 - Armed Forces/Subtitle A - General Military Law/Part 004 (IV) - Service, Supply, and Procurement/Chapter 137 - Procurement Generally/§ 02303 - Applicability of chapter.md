@@ -46,7 +46,7 @@ In subsection (b), the introductory clause is substituted for the word “suppli
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–369, §2722(b)(1)(A), (B), substituted in provisions preceding cl. (1) “procurement” for “purchase, and contract to purchase,” and“(other than land) and all services” for “named in subsection (b), and all services,”.
+1984—Subsec. (a). Pub. L. 98–369, §2722(b)(1)(A), (B), substituted in provisions preceding cl. (1) “procurement” for “purchase, and contract to purchase,” and “(other than land) and all services” for “named in subsection (b), and all services,”.
 
 Subsec. (a)(1) to (6). Pub. L. 98–369, §2722(b)(1)(C), (D), added cl. (1) and redesignated existing cls. (1) to (5) as (2) to (6), respectively.
 
@@ -74,5 +74,5 @@ Laws inapplicable to agencies named in this section, see section 2314 of this ti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2302a, 2302b, 2302c, 2304, 2307, 2309, 2311, 2314, 2318, 2320, 2374, 2384a, 2409, 2410 of this title.
+This section is referred to in sections 2302a, 2302b, 2302c, 2304, 2305, 2307, 2309, 2311, 2314, 2318, 2320, 2374, 2384a, 2409, 2410 of this title.
 

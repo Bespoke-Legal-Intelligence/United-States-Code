@@ -12,7 +12,7 @@ In this chapter—
 
 &emsp;&emsp;&emsp;(i) domestic poultry, dead sport-hunted birds, dead museum specimens, dead scientific specimens, or products manufactured from such birds; or
 
-&emsp;&emsp;&emsp;(ii) birds in the following families: Phasianidae, Numididae, Cracidae, Meleagrididae, Megapodiidae, Anatidae,Struthionidae, Rheidae, Dromaiinae, and Gruidae.
+&emsp;&emsp;&emsp;(ii) birds in the following families: Phasianidae, Numididae, Cracidae, Meleagrididae, Megapodiidae, Anatidae, Struthionidae, Rheidae, Dromaiinae, and Gruidae.
 
 &emsp;(3) Each of the terms “import” and “importation” means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States.
 

@@ -114,7 +114,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 &emsp;&emsp;&emsp;(i) the school will establish an arrangement with 1 or more public or nonprofit private institutions of higher education, including schools of nursing, whose enrollment of students has traditionally included a significant number of Native Americans, the purpose of which arrangement will be to carry out a program—
 
-&emsp;&emsp;&emsp;&emsp;(I) to identify Native American students, from the institutions of higher education referred to in clause (i), whoare interested in health professions careers; and
+&emsp;&emsp;&emsp;&emsp;(I) to identify Native American students, from the institutions of higher education referred to in clause (i), who are interested in health professions careers; and
 
 &emsp;&emsp;&emsp;&emsp;(II) to facilitate the educational preparation of such students to enter the designated health professions school; and
 
@@ -212,7 +212,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) not less than $12,000,000 for grants under subsection (a) of this section to health professions schools that meet the conditions described in subsection (c)(2)(A) of this section;
 
-&emsp;&emsp;&emsp;(ii) not less than $12,000,000 for grants under subsection (a) of this section to health professions schools that meet the conditions described in paragraph (3) or (4) of subsection (c) of this section (including meeting conditions pursuant to subsection (e) of this section);
+&emsp;&emsp;&emsp;(ii) not less than $12,000,000 for grants under subsection (a) of this section to health professions schools that meet the conditions described in paragraph (3) or (4) of subsection (c) of this section (includingmeeting conditions pursuant to subsection (e) of this section);
 
 &emsp;&emsp;&emsp;(iii) not less than $6,000,000 for grants under subsection (a) of this section to health professions schools that meet the conditions described in subsection (c)(5) of this section; and
 

@@ -18,7 +18,7 @@
 
 &emsp;Each plan shall provide that an election under paragraph (1)(A)(i) shall not take effect unless—
 
-&emsp;&emsp;(A)(i) the spouse of the participant consents in writing to such election, (ii) such election designates a beneficiary (or a form of benefits) which may not be changed without spousal consent (or the consent of thespouse expressly permits designations by the participant without any requirement of further consent by the spouse), and (iii) the spouse's consent acknowledges the effect of such election and is witnessed by a plan representative or a notary public, or
+&emsp;&emsp;(A)(i) the spouse of the participant consents in writing to such election, (ii) such election designates a beneficiary (or a form of benefits) which may not be changed without spousal consent (or the consent of the spouse expressly permits designations by the participant without any requirement of further consent by the spouse), and (iii) the spouse's consent acknowledges the effect of such election and is witnessed by a plan representative or a notary public, or
 
 &emsp;&emsp;(B) it is established to the satisfaction of a plan representative that the consent required under subparagraph (A) may not be obtained because there is no spouse, because the spouse cannot be located, or because of such other circumstances as the Secretary may by regulations prescribe.
 
@@ -70,7 +70,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The requirements of this subsection shall not apply with respect to the qualified joint and survivor annuity form of benefit or the qualified preretirement survivor annuity form of benefit, as the case may be, if such benefit may not be waived (or another beneficiary selected) and if the plan fully subsidizes the costs of such benefit.
+&emsp;&emsp;The requirements of this subsection shall not apply with respect to the qualified jointand survivor annuity form of benefit or the qualified preretirement survivor annuity form of benefit, as the case may be, if such benefit may not be waived (or another beneficiary selected) and if the plan fully subsidizes the costs of such benefit.
 
 #### (B) Definition
 
@@ -328,7 +328,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1139(b) of Pub. L. 99–514 applicable to distributions in plan years beginning after Dec. 31, 1984, except that such amendments shall not apply to any distributions in plan years beginning after Dec. 31, 1984, and before Jan. 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement Equity Act of 1984, Pub. L. 98–397, with additional provisionsrelating to reductions in accrued benefits, see section 1139(d) of Pub. L. 99–514, set out as a note under section 411 of this title.
+Amendment by section 1139(b) of Pub. L. 99–514 applicable to distributions in plan years beginning after Dec. 31, 1984, except that such amendments shall not apply to any distributions in plan years beginning after Dec. 31, 1984, and before Jan. 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement Equity Act of 1984, Pub. L. 98–397, with additional provisions relating to reductions in accrued benefits, see section 1139(d) of Pub. L. 99–514, set out as a note under section 411 of this title.
 
 Section 1898(b)(4)(C) of Pub. L. 99–514 provided that:
 

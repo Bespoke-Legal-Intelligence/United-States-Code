@@ -24,7 +24,7 @@ The Director of the Prevention Center shall—
 
 &emsp;(8) support the development of model, innovative, community-based programs to discourage alcohol and drug abuse among young people;
 
-&emsp;(9) prepare for distribution documentary films and public service announcements for television and radio to educate the public concerning the dangers to health resulting from the consumption of alcohol and drugs and, tothe extent feasible, use appropriate private organizations and business concerns in the preparation of such announcements; and
+&emsp;(9) prepare for distribution documentary films and public service announcements for television and radio to educate the public concerning the dangers to health resulting from the consumption of alcohol and drugs and, to the extent feasible, use appropriate private organizations and business concerns in the preparation of such announcements; and
 
 &emsp;(10) develop and support innovative demonstration programs designed to identify and deter the improper use or abuse of anabolic steroids by students, especially students in secondary schools.
 

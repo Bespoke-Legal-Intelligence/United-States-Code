@@ -20,7 +20,7 @@
 
 Not later than 30 days prior to the issuance of a final guideline to carry out this subchapter, the Administrator shall—
 
-&emsp;(1) provide notice of the existence of a proposed guideline, and that such guideline isavailable for review and comment, to eligible organizations that participate in programs under this subchapter, and to other interested persons;
+&emsp;(1) provide notice of the existence of a proposed guideline, and that such guideline is available for review and comment, to eligible organizations that participate in programs under this subchapter, and to other interested persons;
 
 &emsp;(2) make the proposed guideline available, on request, to the eligible organizations and other persons referred to in paragraph (1); and
 

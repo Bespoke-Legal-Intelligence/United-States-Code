@@ -10,7 +10,7 @@ The Strategic Petroleum Reserve Plan shall not become effective and may not be i
 
 #### (b) Effective date of Strategic Petroleum Reserve Plan
 
-For purposes of congressional review of the Strategic Petroleum Reserve Plan under subsection (a) of this section, the 5 calendar days described in section 6421(f)(4)(A) of this title shall be lengthened to 15 calendar days, and the 15 calendar days described in section 6421(c) and (d) of this title shall be lengthened to 45 calendar days.
+For purposes of congressional review of the Strategic Petroleum Reserve Plan under subsection (a) of this section, the 5 calendar days described in section 6421(f)(4)(A) of this titleshall be lengthened to 15 calendar days, and the 15 calendar days described in section 6421(c) and (d) of this title shall be lengthened to 45 calendar days.
 
 #### (c) Preparation and transmittal to Congress of proposals for designing, constructing, and filling storage or related facilities; statement accompanying proposal
 
@@ -110,7 +110,7 @@ Notwithstanding subsection (d) of this section, during any period in which the D
 
 #### References in Text
 
-The Interstate Commerce Act, referred to in text, is act Feb. 4, 1887, ch. 104, 24 Stat. 379, as amended, which was classified generally to chapters 1, 8, 12, 13, and 19 (§§1 et seq., 301 et seq., 901 et seq., 1001 et seq., and 1231 et seq., respectively) of former Title 49, Transportation. The Act was repealed (subject to an exception) by Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49. Section 4(c) of Pub. L. 95–473 excepted from repeal those provisions of the Interstate Commerce Act that vested functions in the Interstate Commerce Commission, or the chairman or members of the Commission, related to transportation of oil by pipeline and that were transferred to the Secretary of Energy andthe Federal Energy Regulatory Commission by sections 7155 and 7172(b) of this title.
+The Interstate Commerce Act, referred to in text, is act Feb. 4, 1887, ch. 104, 24 Stat. 379, as amended, which was classified generally to chapters 1, 8, 12, 13, and 19 (§§1 et seq., 301 et seq., 901 et seq., 1001 et seq., and 1231 et seq., respectively) of former Title 49, Transportation. The Act was repealed (subject to an exception) by Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49. Section 4(c) of Pub. L. 95–473 excepted from repeal those provisions of the Interstate Commerce Act that vested functions in the Interstate Commerce Commission, or the chairman or members of the Commission, related to transportation of oil by pipeline and that were transferred to the Secretary of Energy and the Federal Energy Regulatory Commission by sections 7155 and 7172(b) of this title.
 
 #### Amendments
 

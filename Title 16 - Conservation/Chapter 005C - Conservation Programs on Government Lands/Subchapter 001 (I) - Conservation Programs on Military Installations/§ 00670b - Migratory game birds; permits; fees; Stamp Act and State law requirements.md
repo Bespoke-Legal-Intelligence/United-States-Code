@@ -2,7 +2,7 @@
 
 The Secretary of Defense in cooperation with the Secretary of the Interior and the appropriate State agency is authorized to carry out a program for the conservation, restoration and management of migratory game birds on military installations, including the issuance of special hunting permits and the collection of fees therefor, in accordance with an integrated natural resources management plan mutually agreed upon by the Secretary of Defense, the Secretary of the Interior and the appropriate State agency: <i>Provided</i>, That possession of a special permit for hunting migratory game birds issued pursuant to this subchapter shall not relieve the permittee of the requirements of the Migratory Bird Hunting Stamp Act as amended \[16 U.S.C. 718 et seq.\] nor of the requirements pertaining to State law set forth in Public Law 85–337.
 
-(Pub. L. 86–797, title I, §102, formerly §2, Sept. 15, 1960, 74 Stat. 1053; renumbered title I, §102, and amended Pub. L. 93–452, §3(1), (3), Oct. 18, 1974, 88 Stat. 1375; Pub. L. 105–85, div. B, title XXIX, §§2904(b)(5), 2913(5), Nov. 18, 1997, 111 Stat. 2018, 2022.)
+(Pub. L. 86–797, title I, §102, formerly §2, Sept. 15, 1960, 74 Stat. 1053; renumbered title I, §102,and amended Pub. L. 93–452, §3(1), (3), Oct. 18, 1974, 88 Stat. 1375; Pub. L. 105–85, div. B, title XXIX, §§2904(b)(5), 2913(5), Nov. 18, 1997, 111 Stat. 2018, 2022.)
 
 #### References in Text
 

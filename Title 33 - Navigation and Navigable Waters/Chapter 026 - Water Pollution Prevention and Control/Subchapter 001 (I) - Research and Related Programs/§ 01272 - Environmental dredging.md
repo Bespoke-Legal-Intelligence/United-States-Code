@@ -8,11 +8,11 @@ Whenever necessary to meet the requirements of the Federal Water Pollution Contr
 
 #### (1) In general
 
-&emsp;The Secretary may remove and remediate contaminated sediments from the navigable waters of the United States for the purpose of environmental enhancement and water quality improvement if such removal and remediation is requested by a non-Federal sponsor and the sponsor agrees to pay 50 percent of the cost of such removal and remediation.
+&emsp;The Secretary may remove and remediate contaminated sediments from the navigable waters of the United States for the purpose of environmental enhancement and water quality improvement if such removal and remediation is requested by a non-Federal sponsor and the sponsor agrees to pay 35 percent of the cost of such removal and remediation.
 
 #### (2) Maximum amount
 
-&emsp;The Secretary may not expend more than $20,000,000 in a fiscal year to carry out this subsection.
+&emsp;The Secretary may not expend more than $50,000,000 in a fiscal year to carry out this subsection.
 
 #### (c) Joint plan requirement
 
@@ -20,7 +20,7 @@ The Secretary may only remove and remediate contaminated sediments under subsect
 
 #### (d) Disposal costs
 
-Costs of disposal of contaminated sediments removed under this section shall be a non-Federal responsibility.
+Costs of disposal of contaminated sediments removed under this section shall be a <sup>1</sup> shared as a cost of construction.
 
 #### (e) Limitation on statutory construction
 
@@ -40,11 +40,17 @@ In carrying out this section, the Secretary shall give priority to work in the f
 
 &emsp;(5) Lower Fox River, Wisconsin.
 
-(Pub. L. 101–640, title III, §312, Nov. 28, 1990, 104 Stat. 4639; Pub. L. 104–303, title II, §205, Oct. 12, 1996, 110 Stat. 3679.)
+&emsp;(6) Passaic River and Newark Bay, New Jersey.
+
+&emsp;(7) Snake Creek, Bixby, Oklahoma.
+
+&emsp;(8) Willamette River, Oregon.
+
+(Pub. L. 101–640, title III, §312, Nov. 28, 1990, 104 Stat. 4639; Pub. L. 104–303, title II, §205, Oct. 12, 1996, 110 Stat. 3679; Pub. L. 106–53, title II, §224, Aug. 17, 1999, 113 Stat. 297.)
 
 #### References in Text
 
-The Federal Water Pollution Control Act, referred to in subsec. (a), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to this chapter (§1251 etseq.). For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (a), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to this chapter (§1251 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (e), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
@@ -55,6 +61,14 @@ Section was formerly set out as a note under section 1252 of this title.
 Section was enacted as part of the Water Resources Development Act of 1990, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
 
 #### Amendments
+
+1999—Subsec. (b)(1). Pub. L. 106–53, §224(1)(A), substituted “35 percent” for “50 percent”.
+
+Subsec. (b)(2). Pub. L. 106–53, §224(1)(B), substituted “$50,000,000” for “$20,000,000”.
+
+Subsec. (d). Pub. L. 106–53, §224(2), substituted “shared as a cost of construction” for “non-Federal responsibility”.
+
+Subsec. (f)(6) to (8). Pub. L. 106–53, §224(3), added pars. (6) to (8).
 
 1996—Subsec. (a). Pub. L. 104–303, §205(1), inserted “and remediate” after “remove”.
 

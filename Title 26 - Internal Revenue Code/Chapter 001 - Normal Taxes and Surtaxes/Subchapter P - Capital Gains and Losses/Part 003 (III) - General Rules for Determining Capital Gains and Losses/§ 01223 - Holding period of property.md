@@ -118,7 +118,7 @@ Amendment by section 6005(d)(4) of Pub. L. 105–206 effective, except as otherw
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 312(d)(9) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
+Amendment by section 312(d)(9) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, withcertain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
 
 Amendment by section 313(b)(2) of Pub. L. 105–34 applicable to sales after Aug. 5, 1997, see section 313(c) of Pub. L. 105–34, set out as a note under section 1016 of this title.
 

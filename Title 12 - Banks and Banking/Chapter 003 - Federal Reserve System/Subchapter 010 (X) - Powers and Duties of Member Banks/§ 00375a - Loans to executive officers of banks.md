@@ -34,7 +34,7 @@ Except to the extent permitted under paragraph (4), a member bank may not extend
 
 #### (6) Report of date and amount of credit extensions, security, and uses of proceeds upon excessive extension of credit
 
-Whenever an executive officer of a member bank becomes indebted to any bank or banks (other than the one to which he is an officer) onaccount of extensions of credit of any one of the three categories respectively referred to in paragraphs (2), (3), and (4) in an aggregate amount greater than the aggregate amount of credit of the same category that could lawfully be extended to him by the bank, he shall make a written report to the board of directors of the bank, stating the date and amount of each such extension of credit, the security therefor, and the purposes for which the proceeds have been or are to be used.
+Whenever an executive officer of a member bank becomes indebted to any bank or banks (other than the one to which he is an officer) on account of extensions of credit of any one of the three categories respectively referred to in paragraphs (2), (3), and (4) in an aggregate amount greater than the aggregate amount of credit of the same category that could lawfully be extended to him by the bank, he shall make a written report to the board of directors of the bank, stating the date and amount of each such extension of credit, the security therefor, and the purposes for which the proceeds have been or are to be used.
 
 #### (7) Endorsement or guarantee of loans or assets; protective indebtedness
 

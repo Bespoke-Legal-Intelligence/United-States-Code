@@ -4,39 +4,49 @@
 
 #### (1) Issuance
 
-&emsp;During the period ending July 31, 2003, the Secretary shall issue marketing certificates or cash payments to domestic users and exporters for documented purchases by domestic users and sales for export by exporters made in the week following a consecutive 4-week period in which—
+&emsp;During the period ending July 31, 2003, the Secretary shall issue marketing certificates or cash payments, at the option of the recipient, to domestic users and exporters for documented purchases by domestic users and sales for export by exporters made in the week following a consecutive 4-week period in which—
 
-&emsp;&emsp;(A) the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe exceeds the Northern Europe price by more than 3 cents per pound; and
+&emsp;&emsp;(A) the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe exceeds the Northern Europe price by more than 1.25 cents per pound; and
 
 &emsp;&emsp;(B) the prevailing world market price for upland cotton (adjusted to United States quality and location) does not exceed 134 percent of the loan rate for upland cotton established under section 7232 of this title.
 
 #### (2) Value of certificates or payments
 
-&emsp;The value of the marketing certificates or cash payments shall be based on the amount of the difference (reduced by 3 cents per pound) in the prices during the 4th week of the consecutive 4-week period multiplied by the quantity of upland cotton included in the documented sales.
+&emsp;The value of the marketing certificates or cash payments shall be based on the amount of the difference (reduced by 1.25 cents per pound) in the prices during the 4th week of the consecutive 4-week period multiplied by the quantity of upland cotton included in the documented sales.
 
 #### (3) Administration of marketing certificates
 
 #### (A) Redemption, marketing, or exchange
 
-&emsp;&emsp;The Secretary shall establish procedures for redeeming marketing certificates for cash or marketing or exchange of the certificates for agricultural commodities owned by the Commodity Credit Corporation in such manner, and at such price levels, as the Secretary determines will best effectuate the purposes of cotton user marketing certificates. Any price restrictions that would otherwise apply to the disposition of agricultural commodities by the Commodity Credit Corporation shall not apply to the redemption of certificates under this subsection.
+&emsp;&emsp;The Secretary shall establish procedures for redeeming marketing certificates for cash or marketing or exchange of the certificates for agricultural commodities owned by the Commodity Credit Corporation or pledged to the Commodity Credit Corporation as collateral for a loan in such manner, and at such price levels, as the Secretary determines will best effectuate the purposes of cotton user marketing certificates, including enhancing the competitiveness and marketability of United States cotton. Any price restrictions that would otherwise apply to the disposition of agricultural commodities by the Commodity Credit Corporation shall not apply to the redemption of certificates under this subsection.
 
 #### (B) Designation of commodities and products
 
-&emsp;&emsp;To the extent practicable, the Secretary shall permit owners of certificates to designate the commodities and products, including storage sites, the owners would prefer to receive in exchange for certificates. If any certificate is not presented for redemption, marketing, or exchange within a reasonable number of days after the issuance of the certificate (as determined by the Secretary), reasonable costs of storage and other carrying charges, as determined by the Secretary, shall be deducted from the value of the certificate for the period beginning after the reasonable number of days and ending with the date of the presentation of the certificate to the Commodity Credit Corporation.
+&emsp;&emsp;To the extent practicable, the Secretary shall permit owners of certificates to designate the commodities and products, including storage sites, the owners would prefer to receive in exchange for certificates.
 
 #### (C) Transfers
 
 &emsp;&emsp;Marketing certificates issued to domestic users and exporters of upland cotton may be transferred to other persons in accordance with regulations issued by the Secretary.
 
-#### (4) Limitation on expenditures
-
-&emsp;Total expenditures under this subsection shall not exceed $701,000,000 during fiscal years 1996 through 2002.
-
 #### (b) Special import quota
 
 #### (1) Establishment
 
-&emsp;The President shall carry out an import quota program that provides that, during the period ending July 31, 2003, whenever the Secretary determines and announces that for any consecutive 10-week period, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificates issued under subsection (a) of this section, exceeds the Northern Europe price by more than 3 cents per pound, there shall immediately be in effect a special import quota.
+#### (A) In general
+
+&emsp;&emsp;The President shall carry out an import quota program during the period ending July 31, 2003, as provided in this subsection.
+
+#### (B) Program requirements
+
+&emsp;&emsp;Except as provided in subparagraph (C), whenever the Secretary determines and announces that for any consecutive 4-week period, the Friday through Thursday average price quotation for the lowest-priced UnitedStates growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificate issued under subsection (a) of this section, exceeds the Northern Europe price by more than 1.25 cents per pound, there shall immediately be in effect a special import quota.
+
+#### (C) Tight domestic supply
+
+&emsp;&emsp;During any month for which the Secretary estimates the season-ending United States upland cotton stocks-to-use ratio, as determined under subparagraph (D), to be below 16 percent, the Secretary, in making the determination under subparagraph (B), shall not adjust the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, for the value of any certificates issued under subsection (a) of this section.
+
+#### (D) Season-ending United States stocks-to-use ratio
+
+&emsp;&emsp;For the purposes of making estimates under subparagraph (C), the Secretary shall, on a monthly basis, estimate and report the season-ending United States upland cotton stocks-to-use ratio, excluding projected raw cotton imports but including the quantity of raw cotton that has been imported into the United States during the marketing year.
 
 #### (2) Quantity
 
@@ -65,6 +75,10 @@
 #### (6) “Special import quota” defined
 
 &emsp;In this subsection, the term “special import quota” means a quantity of imports that is not subject to the over-quota tariff rate of a tariff-rate quota.
+
+#### (7) Limitation
+
+&emsp;The quantity of cotton entered into the United States during any marketing year under the special import quota established under this subsection may not exceed the equivalent of 5 week's consumption of upland cotton by domestic mills at the seasonally adjusted average rate of the 3 months immediately preceding the first special import quota established in any marketing year.
 
 #### (c) Limited global import quota for upland cotton
 
@@ -130,13 +144,27 @@
 
 &emsp;Notwithstanding paragraph (1), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (b) of this section.
 
-(Pub. L. 104–127, title I, §136, Apr. 4, 1996, 110 Stat. 909; Pub. L. 105–86, title VII, §731, Nov. 18, 1997, 111 Stat. 2108; Pub. L. 105–277, div. A, title I, §101(a) \[title VII, §762\], Oct. 21, 1998, 112 Stat. 2681, 2681–36.)
+(Pub. L. 104–127, title I, §136, Apr. 4, 1996, 110 Stat. 909; Pub. L. 105–86, title VII, §731, Nov. 18, 1997, 111 Stat. 2108; Pub. L. 105–277, div. A, §101(a) \[title VII, §762\], Oct. 21, 1998, 112 Stat. 2681, 2681–36; Pub. L. 106–78, title VIII, §806, Oct. 22, 1999, 113 Stat. 1179.)
 
 #### References in Text
 
 The Harmonized Tariff Schedule, referred to in subsecs. (b)(5)(D) and (c)(1)(C)(iv), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
 #### Amendments
+
+1999—Subsec. (a)(1). Pub. L. 106–78, §806(a)(1), substituted “or cash payments, at the option of the recipient,” for “or cash payments” in introductory provisions.
+
+Subsec. (a)(1)(A), (2). Pub. L. 106–78, §806(a)(2), substituted “1.25 cents per pound” for “3 cents per pound”.
+
+Subsec. (a)(3)(A). Pub. L. 106–78, §806(a)(3)(A), substituted “owned by the Commodity Credit Corporation or pledged to the Commodity Credit Corporation as collateral for a loan in such manner, and at such price levels, as the Secretary determines will best effectuate the purposes of cotton user marketing certificates, including enhancing the competitiveness and marketability of United States cotton” for “owned by the Commodity Credit Corporation in such manner, and at such price levels, as the Secretary determines will best effectuate the purposes of cotton user marketing certificates” in first sentence.
+
+Subsec. (a)(3)(B). Pub. L. 106–78, §806(a)(3)(B), struck out at end “If any certificate is not presented for redemption, marketing, or exchange within a reasonable number of days after the issuance of the certificate (as determined by the Secretary), reasonable costs of storage and other carrying charges, as determined by the Secretary, shall be deducted from the value of the certificate for the period beginning after the reasonable number of days and ending with the date of the presentation of the certificate to the Commodity Credit Corporation.”
+
+Subsec. (a)(4). Pub. L. 106–78, §806(a)(4), struck out heading and text of par. (4). Text read as follows: “Total expenditures under this subsection shall not exceed $701,000,000 during fiscal years 1996 through 2002.”
+
+Subsec. (b)(1). Pub. L. 106–78, §806(b)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The President shall carry out an import quota program that provides that, during the period ending July 31, 2003, whenever the Secretary determines and announces that for any consecutive 10-week period, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificates issued under subsection (a) of this section, exceeds the Northern Europe price by more than 3 cents per pound, there shall immediately be in effect a special import quota.”
+
+Subsec. (b)(7). Pub. L. 106–78, §806(b)(2), added par. (7).
 
 1998—Subsecs. (a)(1)(A), (2), (b)(1). Pub. L. 105–277 substituted “3 cents” for “1.25 cents”.
 

@@ -26,7 +26,7 @@ The Secretary may not transfer any property or interest in property under subsec
 
 &emsp;(3) the Governor and at least 1 elected county official of the State and county where the property is located are consulted prior to the transfer.
 
-(Pub. L. 87–128, title III, §354, as added Pub. L. 100–233, title VI, §616, Jan. 6, 1988, 101 Stat. 1682; amended Pub. L. 104–127, title VI, §646, Apr. 4, 1996, 110 Stat. 1103.)
+(Pub. L. 87–128, title III, §354, as added Pub. L. 100–233, title VI, §616, Jan. 6, 1988, 101 Stat. 1682;amended Pub. L. 104–127, title VI, §646, Apr. 4, 1996, 110 Stat. 1103.)
 
 #### References in Text
 

@@ -116,7 +116,7 @@ Amendment by Pub. L. 99–514 applicable to transfers and contributions made aft
 
 Amendment by section 1022(c) of Pub. L. 98–369 applicable to reformations after Dec. 31, 1978, but inapplicable to any reformation to which section 2055(e)(3) of this title as in effect before July 18, 1984, applies, see section 1022(e)(1) of Pub. L. 98–369, set out as a note under section 2055 of this title.
 
-Amendment by section 1032(b)(3) of Pub. L. 98–369 applicable to taxable years beginning after July 18, 1984,see section 1032(c) of Pub. L. 98–369, set out as a note under section 170 of this title.
+Amendment by section 1032(b)(3) of Pub. L. 98–369 applicable to taxable years beginning after July 18, 1984, see section 1032(c) of Pub. L. 98–369, set out as a note under section 170 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -166,7 +166,7 @@ Taxable gifts defined, see section 2503 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 501, 508, 1015, 2012, 2503, 2642, 4947, 4948, 6019, 7871 of this title; title 12 section 3051; title 15 section 80a–3; title 16 section 1285; title 22 section 3307.
+This section is referred to in sections 170, 501, 508, 1015, 2012, 2503, 2642, 4947, 4948, 6019, 7871 of this title; title 12 section 3051; title 15 section 80a–3; title 16 section 1285; title 22 section 3307.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or”.</i>
 

@@ -50,7 +50,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;&emsp;(A) whose license to provide health care has been revoked or suspended by any State licensing authority, or who otherwise lost such a license or the right to apply for or renew such a license, for reasons bearing on the individual's or entity's professional competence, professional performance, or financial integrity, or
 
-&emsp;&emsp;(B) who surrendered such a license while a formal disciplinary proceeding was pending before such an authority and the proceeding concerned the individual's or entity's professional competence, professional performance, or financial integrity.
+&emsp;&emsp;(B) who surrendered such a license while a formal disciplinary proceeding was pending before such an authority and the proceedingconcerned the individual's or entity's professional competence, professional performance, or financial integrity.
 
 #### (5) Exclusion or suspension under Federal or State health care program
 
@@ -178,7 +178,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 (D) Subject to subparagraph (G), in the case of an exclusion of an individual or entity under paragraph (1), (2), or (3) of subsection (b) of this section, the period of the exclusion shall be 3 years, unless the Secretary determines in accordance with published regulations that a shorter period is appropriate because of mitigating circumstances or that a longer period is appropriate because of aggravating circumstances.
 
-(E) In the case of an exclusion of an individual or entity under subsection (b)(4) or (b)(5) of thissection, the period of the exclusion shall not be less than the period during which the individual's or entity's license to provide health care is revoked, suspended, or surrendered, or the individual or the entity is excluded or suspended from a Federal or State health care program.
+(E) In the case of an exclusion of an individual or entity under subsection (b)(4) or (b)(5) of this section, the period of the exclusion shall not be less than the period during which the individual's or entity's license to provide health care is revoked, suspended, or surrendered, or the individual or the entity is excluded or suspended from a Federal or State health care program.
 
 (F) In the case of an exclusion of an individual or entity under subsection (b)(6)(B) of this section, the period of the exclusion shall be not less than 1 year.
 
@@ -224,13 +224,13 @@ The Secretary shall—
 
 #### (g) Application for termination of exclusion
 
-(1) An individual or entity excluded (or directed to be excluded) from participation under this section or section 1320a–7a of this title may apply to the Secretary, in the manner specified by the Secretary in regulations and at the end of the minimum period of exclusion provided under subsection (c)(3) of this section and at such other times as the Secretary may provide, for termination of the exclusion effected under this section or section 1320a–7a of this title.
+(1) An individual or entity excluded (or directed to be excluded) from participation underthis section or section 1320a–7a of this title may apply to the Secretary, in the manner specified by the Secretary in regulations and at the end of the minimum period of exclusion provided under subsection (c)(3) of this section and at such other times as the Secretary may provide, for termination of the exclusion effected under this section or section 1320a–7a of this title.
 
 (2) The Secretary may terminate the exclusion if the Secretary determines, on the basis of the conduct of the applicant which occurred after the date of the notice of exclusion or which was unknown to the Secretary at the time of the exclusion, that—
 
 &emsp;(A) there is no basis under subsection (a) or (b) of this section or section 1320a–7a(a) of this title for a continuation of the exclusion, and
 
-&emsp;(B) there are reasonable assurances that the types of actions which formed the basis for theoriginal exclusion have not recurred and will not recur.
+&emsp;(B) there are reasonable assurances that the types of actions which formed the basis for the original exclusion have not recurred and will not recur.
 
 (3) The Secretary shall promptly notify each appropriate State agency administering or supervising the administration of each State health care program (and, in the case of an exclusion effected pursuant to subsection (a) of this section and to which section 824(a)(5) of title 21 may apply, the Attorney General) of the fact and circumstances of each termination of exclusion made under this subsection.
 
@@ -382,7 +382,7 @@ Section 6411(d)(4)\[(A)\] of Pub. L. 101–239 provided that: “The amendments 
 
 #### Effective Date of 1988 Amendment
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360 set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget ReconciliationAct of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360 set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1987 Amendment
 
@@ -390,7 +390,7 @@ Section 15 of Pub. L. 100–93 provided that:
 
 “(a)
 
-In General.—Except as provided in subsections (b), (c), (d), and (e), the amendments made by this Act \[enacting sections 1395aaa and 1396r–2 of this title, amending this section, sections 704, 1320a–3, 1320a–5, 1320a–7a, 1320a–7b, 1320c–5, 1395u, 1395y, 1395cc, 1395ff, 1395nn, 1395rr, 1395ss, 1395ww, 1396a, 1396b, 1396h, 1396n, 1396s, and 1397d of this title, and section 824 of Title 21, Food and Drugs, transferring section 1396h of this title to section 1320a–7b of this title, repealing section 1395nn of this title, enacting provisions set out as a note under section 1320a–7b of this title, and amending provisions set out as a note under section 1396a of this title\] shall become effective at the end of the fourteen-day period beginning on the date of the enactment ofthis Act \[Aug. 18, 1987\] and shall not apply to administrative proceedings commenced before the end of such period.
+In General.—Except as provided in subsections (b), (c), (d), and (e), the amendments made by this Act \[enacting sections 1395aaa and 1396r–2 of this title, amending this section, sections 704, 1320a–3, 1320a–5, 1320a–7a, 1320a–7b, 1320c–5, 1395u, 1395y, 1395cc, 1395ff, 1395nn, 1395rr, 1395ss, 1395ww, 1396a, 1396b, 1396h, 1396n, 1396s, and 1397d of this title, and section 824 of Title 21, Food and Drugs, transferring section 1396h of this title to section 1320a–7b of this title, repealing section 1395nn of this title, enacting provisions set out as a note under section 1320a–7b of this title, and amending provisions set out as a note under section 1396a of this title\] shall become effective at the end of the fourteen-day period beginning on the date of the enactment of this Act \[Aug. 18, 1987\] and shall not apply to administrative proceedings commenced before the end of such period.
 
 “(b)
 

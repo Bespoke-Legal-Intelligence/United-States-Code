@@ -58,7 +58,7 @@ Section is also set out in D.C. Code, §5–1202.
 
 1986—Subsec. (a)(4). Pub. L. 99–569 amended par. (4) generally, substituting “which is involved in the diplomatic, consular, or other activities of, or which is substantially owned or effectively controlled by” for “involving diplomatic, consular, or other governmental activities of”.
 
-1985—Subsec. (a)(4). Pub. L. 99–93 substituted “mission to or agency in” for “official mission to” in introductory provisions, and inserted “or which engages in some aspect of the conduct of the international affairs of such territory or political entity” before the comma at end of subpar. (B).
+1985—Subsec. (a)(4). Pub. L. 99–93 substituted “mission to or agency in” for “official mission to” in introductory provisions, and inserted “or which engages in some aspect of the conduct of the international affairsof such territory or political entity” before the comma at end of subpar. (B).
 
 #### Effective Date of 1994 Amendment
 

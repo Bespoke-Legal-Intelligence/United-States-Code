@@ -108,7 +108,7 @@ Another prior section 1683, added Pub. L. 90–77, title III, §304(a), Aug. 31,
 
 Another prior section 1684, which related to overcharging of eligible veterans by educational institutions, was renumbered section 1685 and subsequently repealed by Pub. L. 92–540, title II, §203, Oct. 24, 1972, 86 Stat. 1079.
 
-Another prior section 1684, added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 18, §1683; renumbered §1684, Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title II, §206(a), Mar. 26, 1970, 84 Stat. 81; Pub. L. 91–584, §§8, 11, Dec. 24, 1970, 84 Stat. 1577, related to measurement of courses, prior to repealby Pub. L. 92–540, title III, §304, Oct. 24, 1972, 86 Stat. 1081. See section 3688 of this title.
+Another prior section 1684, added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 18, §1683; renumbered §1684, Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title II, §206(a), Mar. 26, 1970, 84 Stat. 81; Pub. L. 91–584, §§8, 11, Dec. 24, 1970, 84 Stat. 1577, related to measurement of courses, prior to repeal by Pub. L. 92–540, title III, §304, Oct. 24, 1972, 86 Stat. 1081. See section 3688 of this title.
 
 Another prior section 1685, which related to approval of courses, was renumbered section 1683.
 
@@ -130,7 +130,7 @@ Section 1696, added Pub. L. 91–219, title II, §204(a)(4), Mar. 26, 1970, 84 S
 
 Section 1697, added Pub. L. 91–219, title II, §204(a)(4), Mar. 26, 1970, 84 Stat. 81, related to educational and vocational guidance.
 
-Section 1698, added Pub. L. 92–540, title III, §308, Oct. 24, 1972, 86 Stat. 1082, §1697A; renumbered §1698 and amended Pub. L. 94–502, title II, §§210(3), 211(14), Oct. 15, 1976, 90 Stat. 2388, 2389; Pub. L. 95–202, title III, §302(b), Nov. 23, 1977, 91 Stat. 1441, related to coordination with and participation by Department of Defense in carrying out functions and duties of Department of Defense under predischarge education program.
+Section 1698, added Pub. L. 92–540, title III, §308, Oct. 24, 1972, 86 Stat. 1082, §1697A; renumbered §1698 andamended Pub. L. 94–502, title II, §§210(3), 211(14), Oct. 15, 1976, 90 Stat. 2388, 2389; Pub. L. 95–202, title III, §302(b), Nov. 23, 1977, 91 Stat. 1441, related to coordination with and participation by Department of Defense in carrying out functions and duties of Department of Defense under predischarge education program.
 
 Prior section 1700, which comprised the first section of chapter 35, was renumbered section 3500 of this title.
 

@@ -22,7 +22,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 &emsp;(7) The rules of the exchange are in accordance with the provisions of subsection (d) of this section, and in general, provide a fair procedure for the disciplining of members and persons associated with members, the denial of membership to any person seeking membership therein, the barring of any person from becoming associated with a member thereof, and the prohibition or limitation by the exchange of any person with respect to access to services offered by the exchange or a member thereof.
 
-&emsp;(8) The rules of the exchange do not impose any burden on competition not necessary orappropriate in furtherance of the purposes of this chapter.
+&emsp;(8) The rules of the exchange do not impose any burden on competition not necessary or appropriate in furtherance of the purposes of this chapter.
 
 &emsp;(9) The rules of the exchange prohibit the listing of any security issued in a limited partnership rollup transaction (as such term is defined in paragraphs (4) and (5) of section 78n(h) of this title), unless such transaction was conducted in accordance with procedures designed to protect the rights of limited partners, including—
 
@@ -62,7 +62,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 #### (d) Discipline of national securities exchange members and persons associated with members; summary proceedings
 
-(1) In any proceeding by a national securities exchange to determine whether a member or person associated with a member should be disciplined (other than a summary proceeding pursuant to paragraph (3) of this subsection), the exchange shall bring specific charges, notify such member or person of, and give him an opportunity to defend against, such charges, and keep a record. A determination by the exchange to impose a disciplinary sanction shall be supported by a statement setting forth—
+(1) In any proceeding by a national securities exchange to determine whether a member or person associated with a member should be disciplined (other than a summary proceeding pursuant to paragraph (3) of this subsection), the exchange shall bring specific charges, notifysuch member or person of, and give him an opportunity to defend against, such charges, and keep a record. A determination by the exchange to impose a disciplinary sanction shall be supported by a statement setting forth—
 
 &emsp;(A) any act or practice in which such member or person associated with a member has been found to have engaged, or which such member or person has been found to have omitted;
 
@@ -80,11 +80,11 @@ An exchange shall not be registered as a national securities exchange unless the
 
 &emsp;(A) permit a national securities exchange, by rule, to impose a reasonable schedule or fix reasonable rates of commissions, allowances, discounts, or other fees to be charged by its members for effecting transactions on such exchange prior to November 1, 1976, if the Commission finds that such schedule or fixed rates of commissions, allowances, discounts, or other fees are in the public interest; and
 
-&emsp;(B) permit a national securities exchange, by rule, to impose a schedule or fix rates of commissions, allowances, discounts, or other fees to be charged by its members for effectingtransactions on such exchange after November 1, 1976, if the Commission finds that such schedule or fixed rates of commissions, allowances, discounts, or other fees (i) are reasonable in relation to the costs of providing the service for which such fees are charged (and the Commission publishes the standards employed in adjudging reasonableness) and (ii) do not impose any burden on competition not necessary or appropriate in furtherance of the purposes of this chapter, taking into consideration the competitive effects of permitting such schedule or fixed rates weighed against the competitive effects of other lawful actions which the Commission is authorized to take under this chapter.
+&emsp;(B) permit a national securities exchange, by rule, to impose a schedule or fix rates of commissions, allowances, discounts, or other fees to be charged by its members for effecting transactions on such exchange after November 1, 1976, if the Commission finds that such schedule or fixed rates of commissions, allowances, discounts, or other fees (i) are reasonable in relation to the costs of providing the service for which such fees are charged (and the Commission publishes the standards employed in adjudging reasonableness) and (ii) do not impose any burden on competition not necessary or appropriate in furtherance of the purposes of this chapter, taking into consideration the competitive effects of permitting such schedule or fixed rates weighed against the competitive effects of other lawful actions which the Commission is authorized to take under this chapter.
 
 (2) Notwithstanding the provisions of section 78s(c) of this title, the Commission, by rule, may abrogate any exchange rule which imposes a schedule or fixes rates of commissions, allowances, discounts, or other fees, if the Commission determines that such schedule or fixed rates are no longer reasonable, in the public interest, or necessary to accomplish the purposes of this chapter.
 
-(3)(A) Before approving or disapproving any proposed rule change submitted by a national securities exchange which would impose a schedule or fix rates of commissions, allowances, discounts, or other fees to be charged by its members for effecting transactions on such exchange, the Commission shall afford interested persons (i) an opportunity for oral presentation of data, views, and arguments and (ii) with respect to any such rule concerning transactions effected after November 1, 1976, if the Commission determines there are disputed issues of material fact, to present such rebuttal submissions and to conduct (or have conducted under subparagraph (B) of this paragraph) such cross-examination as the Commission determines to be appropriate and required for full disclosure and proper resolution of such disputed issues of material fact.
+(3)(A) Before approving or disapproving any proposed rule change submitted by a national securities exchange which would impose a schedule or fix rates of commissions, allowances, discounts, or other fees to be charged by its members for effecting transactions on such exchange, the Commission shall afford interested persons (i) an opportunity for oral presentation of data, views, and arguments and (ii) with respect to any such rule concerning transactions effected after November 1, 1976, if the Commission determines there are disputed issues of material fact, to present such rebuttal submissions and to conduct (or have conducted under subparagraph (B) of this paragraph) such cross-examination as theCommission determines to be appropriate and required for full disclosure and proper resolution of such disputed issues of material fact.
 
 (B) The Commission shall prescribe rules and make rulings concerning any proceeding in accordance with subparagraph (A) of this paragraph designed to avoid unnecessary costs or delay. Such rules or rulings may (i) impose reasonable time limits on each interested person's oral presentations, and (ii) require any cross-examination to which a person may be entitled under subparagraph (A) of this paragraph to be conducted by the Commission on behalf of that person in such manner as the Commission determines to be appropriate and required for full disclosure and proper resolution of disputed issues of material fact.
 
@@ -144,7 +144,7 @@ Effective Date.—
 
 &emsp;“(1)
 
-In general.—The amendments made by section 303 \[amending this section and section 78<i>o</i>–3 of this title\] shall become effective 12 months after the date of enactment of this Act \[Dec. 17, 1993\].
+In general.—The amendments made by section 303 \[amending this section and section 78<i>o</i>–3 of thistitle\] shall become effective 12 months after the date of enactment of this Act \[Dec. 17, 1993\].
 
 &emsp;“(2)
 

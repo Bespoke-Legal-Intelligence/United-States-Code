@@ -176,7 +176,7 @@ I74subpart i—marketing quotas—tobacco
 | (i) | Marketing penalties. |
 | (j) | Regulations. |
 | (k) | Lease and transfer of burley tobacco quota assigned. |
-| (<i>l</i>) | Lease and transfer of burley tobacco quotas in Tennessee and Virginia. |
+| (<i>l</i>) | Lease and transfer of burley tobacco quotas in Tennessee, Ohio, Indiana, Kentucky, and Virginia. |
 | [1314f.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001314f%20-%20Nonquota%20tobacco%20subject%20to%20quota.md) | Nonquota tobacco subject to quota. |
 | [1314g.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001314g%20-%20Submission%20of%20purchase%20intentions%20by%20cigarette%20manufacturers.md) | Submission of purchase intentions by cigarette manufacturers. |
 | (a) | Quantity of intended purchases; aggregation not to allow identification. |
@@ -198,6 +198,12 @@ I74subpart i—marketing quotas—tobacco
 | (e) | Purchase of Flue-cured tobacco. |
 | (f) | Crop losses due to disasters. |
 | (g) | Effective date. |
+| [1314j.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001314j%20-%20Tobacco%20production%20and%20marketing%20information.md) | Tobacco production and marketing information. |
+| (a) | In general. |
+| (b) | Limitations. |
+| (c) | Assistance. |
+| (d) | Records. |
+| (e) | Application. |
 | [1315\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001315%20-%20Burley%20tobacco%20acreage%20allotments.md) | Burley tobacco acreage allotments. |
 | [1316\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20001%20%28i%29%20-%20Marketing%20Quotas%E2%80%94Tobacco/%C2%A7%2001316%20-%20Transfer%20of%20allotments%20subsequent%20to%201965.md) | Transfer of allotments subsequent to 1965. |
 

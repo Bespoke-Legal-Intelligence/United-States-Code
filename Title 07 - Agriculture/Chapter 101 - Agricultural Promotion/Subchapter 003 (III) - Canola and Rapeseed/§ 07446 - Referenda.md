@@ -74,7 +74,7 @@
 
 #### (2) Date
 
-&emsp;Each referendum shall be conducted for a reasonable period of time not to exceed 3 days, established by the Secretary, under a procedure under which producers intending to votein the referendum shall certify that the producers were engaged in the production of canola, rapeseed, or canola or rapeseed products during the representative period and, at the same time, shall be provided an opportunity to vote in the referendum.
+&emsp;Each referendum shall be conducted for a reasonable period of time not to exceed 3 days, established by the Secretary, under a procedure under which producers intending to vote in the referendum shall certify that the producers were engaged in the production of canola, rapeseed, or canola or rapeseed products during the representative period and, at the same time, shall be provided an opportunity to vote in the referendum.
 
 #### (3) Place
 

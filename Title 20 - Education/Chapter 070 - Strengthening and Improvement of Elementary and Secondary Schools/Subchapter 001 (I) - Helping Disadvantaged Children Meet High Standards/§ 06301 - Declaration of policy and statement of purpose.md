@@ -8,7 +8,7 @@
 
 #### (2) Additional policy
 
-&emsp;The Congress further declares it to be the policy of the United States to expand the program authorized by this subchapter over the fiscal years 1996 through 1999 by increasing funding for this subchapter by at least $750,000,000 over baseline each fiscal year and thereby increasing the percentage of eligible children served in each fiscal year with the intent of serving all eligible children by fiscal year 2004.
+&emsp;The Congress further declares it to be the policy of the United States to expand the program authorized by this subchapter over the fiscal years 1996 through 1999 by increasing funding for this subchapter by at least$750,000,000 over baseline each fiscal year and thereby increasing the percentage of eligible children served in each fiscal year with the intent of serving all eligible children by fiscal year 2004.
 
 #### (b) Recognition of need
 
@@ -154,7 +154,7 @@ Section 1 of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct
 
 #### Transition Provisions
 
-Section 3(b) of Pub. L. 103–382 provided that: “Notwithstanding any other provision of law, a recipient of funds under the Elementary and Secondary Education Act of 1965 \[Pub. L. 89–10, formerly chapter 47 (§2701 et seq.) of this title, prior to general amendment by Pub. L. 103–382, §101\], as such Act was in effect on the day preceding the date of enactment of this Act \[Oct. 20, 1994\], may use funds available to such recipient under such predecessor authority to carry out necessary and reasonable planning and transition activities in order to ensure a smooth implementation of programs authorized by this Act \[see Tables for classification\].”
+Section 3(b) of Pub. L. 103–382 provided that: “Notwithstanding any other provision of law, a recipient of funds under the Elementary and Secondary Education Act of 1965 \[Pub. L. 89–10, formerly chapter 47 (§2701 et seq.) of this title, prior to general amendment by Pub. L. 103–382, §101\], as such Act was in effect on the daypreceding the date of enactment of this Act \[Oct. 20, 1994\], may use funds available to such recipient under such predecessor authority to carry out necessary and reasonable planning and transition activities in order to ensure a smooth implementation of programs authorized by this Act \[see Tables for classification\].”
 
 #### Budget Compliance
 

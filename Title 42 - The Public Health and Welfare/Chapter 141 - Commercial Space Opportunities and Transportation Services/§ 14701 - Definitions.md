@@ -40,7 +40,7 @@ For purposes of this chapter—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 105–303, Oct. 28, 1998, 112 Stat. 2843, known as the Commercial Space Act of 1998.For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 105–303, Oct. 28, 1998, 112 Stat. 2843, known as the Commercial Space Act of 1998. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
 

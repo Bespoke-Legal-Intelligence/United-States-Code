@@ -14,7 +14,7 @@ There is hereby established as an independent entity in the executive branch the
 
 #### (c) Transfer of powers, duties, and funds to Commissioner
 
-(1)(A) Except as otherwise provided by the Navajo and Hopi Indian Relocation Amendments of 1988, the Commissioner shall have all the powers and be responsible for all the duties that the Navajo and Hopi Indian Relocation Commission had before November 16, 1988.
+(1)(A) Except as otherwise provided by the Navajo and Hopi Indian Relocation Amendmentsof 1988, the Commissioner shall have all the powers and be responsible for all the duties that the Navajo and Hopi Indian Relocation Commission had before November 16, 1988.
 
 (B) All funds appropriated to the Navajo and Hopi Indian Relocation Commission before the date on which the first Commissioner on Navajo and Hopi Indian Relocation is confirmed by the Senate that have not been expended on such date shall become available to the Office of Navajo and Hopi Indian Relocation on such date and shall remain available without fiscal year limitation.
 
@@ -38,7 +38,7 @@ There is hereby established as an independent entity in the executive branch the
 
 #### (e) Administrative, fiscal, and housekeeping services; implementation of relocation plan; reasonable assistance by Federal departments or agencies; report to Congress
 
-(1) The Commissioner is authorized to provide for the administrative, fiscal, and housekeeping services of the Office of Navajo and Hopi Indian Relocation and is authorized to call upon any department or agency of the United States to assist him in implementing the relocation plan, except that the control over and responsibilityfor completing relocation shall remain in the Commissioner. In any case in which the Office calls upon any such department or agency for assistance under this section, such department or agency shall provide reasonable assistance so requested.
+(1) The Commissioner is authorized to provide for the administrative, fiscal, and housekeeping services of the Office of Navajo and Hopi Indian Relocation and is authorized to call upon any department or agency of the United States to assist him in implementing the relocation plan, except that the control over and responsibility for completing relocation shall remain in the Commissioner. In any case in which the Office calls upon any such department or agency for assistance under this section, such department or agency shall provide reasonable assistance so requested.
 
 (2) On failure of any agency to provide reasonable assistance as required under paragraph (1) of this subsection, the Commissioner shall report such failure to the Congress.
 
@@ -70,7 +70,7 @@ Subsec. (d)(1). Pub. L. 102–180, §3(c), amended par. (1) generally. Prior to 
 
 &emsp;“(B) procure temporary and intermittent services to the same extent as is authorized by section 3109 of title 5, but at rates not to exceed $200 a day for individuals.”
 
-1988—Pub. L. 100–666 amended section generally, substituting subsecs. (a) to (f) relating to the Office of Navajo and Hopi Indian Relocation, for former subsecs. (a) to (j) which related to the Navajo and Hopi Relocation Commission.
+1988—Pub. L. 100–666 amended section generally, substituting subsecs. (a) to (f) relating to the Office ofNavajo and Hopi Indian Relocation, for former subsecs. (a) to (j) which related to the Navajo and Hopi Relocation Commission.
 
 1980—Subsec. (g)(1). Pub. L. 96–305, §5(1), inserted “an independent legal counsel,” after “an Executive Director,”.
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(ii) serve no less than 500 eligible Indians annually; and
 
-&emsp;&emsp;(iii) provide ambulatory care in a service area (specified in the contract entered into under the Indian Self-Determination Act \[25U.S.C. 450f et seq.\]) with a population of not less than 2,000 eligible Indians.
+&emsp;&emsp;(iii) provide ambulatory care in a service area (specified in the contract entered into under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\]) with a population of not less than 2,000 eligible Indians.
 
 (2) The requirements of clauses (ii) and (iii) of paragraph (1)(C) shall not apply to a tribe or tribal organization applying for a grant under this section whose tribal government offices are located on an island.
 

@@ -12,6 +12,10 @@ As originally enacted, section also provided for legislative counsel of House of
 
 1941—Act Sept. 20, 1941, substituted “President pro tempore of the Senate” for “President of the Senate”.
 
+#### Designation of Deputy Legislative Counsel
+
+Pub. L. 106–57, title I, §6, Sept. 29, 1999, 113 Stat. 412, provided that: “The Legislative Counsel may, subject to the approval of the President pro tempore of the Senate, designate one of the Senior Counsels appointed under section 102 of the Legislative Branch Appropriation Act, 1979 (2 U.S.C. 274 note; Public Law 95–391; 92 Stat. 771) as Deputy Legislative Counsel. The Deputy Legislative Counsel shall perform the functions of the Legislative Counsel during the absence or disability of the Legislative Counsel, or when the office is vacant.”
+
 #### Senior Counsel
 
 Pub. L. 85–75, July 1, 1957, 71 Stat. 251, provided in part that: “No more than three employees in the Office of the Legislative Counsel of the Senate may be designated as Senior Counsel, whose compensation shall be $15,500 gross per annum each.”
@@ -26,7 +30,7 @@ Pub. L. 88–248, Dec. 30, 1963, 77 Stat. 804, provided in part: “That effecti
 
 Pub. L. 94–59, title I, §105, July 25, 1975, 89 Stat. 275, eff. July 1, 1975, provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senate shall each be paid at an annual rate of compensation of $39,000.
 
-Pub. L. 93–371, §4, Aug. 13, 1974, 88 Stat. 429, eff. July 1, 1974, provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senateshall each be paid at an annual rate of compensation of $37,620.
+Pub. L. 93–371, §4, Aug. 13, 1974, 88 Stat. 429, eff. July 1, 1974, provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senate shall each be paid at an annual rate of compensation of $37,620.
 
 #### 1974 Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate
 

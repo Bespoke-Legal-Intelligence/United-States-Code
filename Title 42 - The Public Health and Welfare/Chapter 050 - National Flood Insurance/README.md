@@ -77,7 +77,7 @@
 | [4027\.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004027%20-%20Biennial%20report%20to%20President.md) | Biennial report to President. |
 | (a) | In general. |
 | (b) | Effects of flood insurance program. |
-| [4028\.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004028%20-%20Coastal%20Barrier%20Resources%20System.md) | Coastal Barrier Resources System. |
+| [4028\.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004028%20-%20John%20H.%20Chafee%20Coastal%20Barrier%20Resources%20System.md) | John H. Chafee Coastal Barrier Resources System. |
 | [4029\.](Subchapter%20001%20%28I%29%20-%20The%20National%20Flood%20Insurance%20Program/%C2%A7%2004029%20-%20Colorado%20River%20Floodway.md) | Colorado River Floodway. |
 | (a) | Renewal and transfer of policies; acquisition of policies after filing of maps. |
 | (b) | New coverage for new construction or substantial improvements. |

@@ -24,7 +24,7 @@ Section 9 of this title, referred to in text, was in the original “subsection 
 
 #### Codification
 
-Section is comprised of subsec. (e) of section 6 of act Sept. 21, 1922. Subsecs. (a) and (b) of section 6 are classified to section 8 of this title. Subsec. (c) of section 6 is classified to sections 9 and 15 of this title. Subsecs. (d)and (f) of section 6 are classified to sections 13b and 9b of this title, respectively.
+Section is comprised of subsec. (e) of section 6 of act Sept. 21, 1922. Subsecs. (a) and (b) of section 6 are classified to section 8 of this title. Subsec. (c) of section 6 is classified to sections 9 and 15 of this title. Subsecs. (d) and (f) of section 6 are classified to sections 13b and 9b of this title, respectively.
 
 #### Amendments
 

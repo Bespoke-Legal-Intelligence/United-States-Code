@@ -62,7 +62,7 @@ In General.—Not later than 6 months after the date of the enactment of this se
 
 “(b)
 
-Capital Stock.—Notwithstanding section 1.6 (as added by section 401 of this Act) \[12 U.S.C. 2014\], the number of shares of capital stock issued by a Farm Credit Bank to stockholders and other owners of the institution involved in the merger, and the rights and privileges of such shares (including voting power, redemption rights, preferences on liquidation, and the right to dividends) shall be determined by the plan of merger adopted by the merging banks, and shall be consistent with section 4.3A \[12 U.S.C. 2154a\] and the regulations issued by the Farm Credit Administration.
+Capital Stock.—Notwithstanding section 1.6 (as added by section 401 of this Act) \[12 U.S.C. 2014\], thenumber of shares of capital stock issued by a Farm Credit Bank to stockholders and other owners of the institution involved in the merger, and the rights and privileges of such shares (including voting power, redemption rights, preferences on liquidation, and the right to dividends) shall be determined by the plan of merger adopted by the merging banks, and shall be consistent with section 4.3A \[12 U.S.C. 2154a\] and the regulations issued by the Farm Credit Administration.
 
 “(c)
 
@@ -114,7 +114,7 @@ In general.—Notwithstanding clause (i) and subparagraph (A)(ii), the authority
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
 
-District boundary modification.—Notwithstanding clause (i), the authority of theFederal Intermediate Credit Bank of Jackson shall not include the authority for the Bank to modify, nor shall the Farm Credit Administration approve such a modification to, the boundaries of the Fifth Farm Credit District to reaffiliate any portion of the District with another Farm Credit Bank, except—
+District boundary modification.—Notwithstanding clause (i), the authority of the Federal Intermediate Credit Bank of Jackson shall not include the authority for the Bank to modify, nor shall the Farm Credit Administration approve such a modification to, the boundaries of the Fifth Farm Credit District to reaffiliate any portion of the District with another Farm Credit Bank, except—
 
 &emsp;&emsp;&emsp;“(aa) in the case of the merger of the entire Bank as an entity with a Farm Credit Bank such that the entire chartered territory of the Federal Intermediate Credit Bank of Jackson (except as provided in item (bb)) is merged with the Farm Credit Bank; and
 
@@ -242,7 +242,7 @@ Certification of plan.—Not later than 30 days after the receipt of the plan de
 
 &emsp;&emsp;&emsp;“(ii) recommend to the arbitrator revisions to the plan that, if incorporated into the plan, will allow the Farm Credit Administration to certify,
 
-&nbsp;&nbsp;that the resulting bank and any resulting associations are proposed to be organized in such a fashionthat they will, on implementation of the plan, operate in compliance with applicable laws and regulations. The arbitrator and the Farm Credit Administration shall work cooperatively to ensure the expeditious issuance of the certification. If the Farm Credit Administration recommends to the arbitrator revisions to the plan that, if incorporated into the plan, will allow the Farm Credit Administration to certify the plan, the arbitrator shall, not later than 15 days after receipt of the recommended revisions, incorporate the revisions into the plan as the arbitrator deems appropriate to secure the certification.
+&nbsp;&nbsp;that the resulting bank and any resulting associations are proposed to be organized in such a fashion that they will, on implementation of the plan, operate in compliance with applicable laws and regulations. The arbitrator and the Farm Credit Administration shall work cooperatively to ensure the expeditious issuance of the certification. If the Farm Credit Administration recommends to the arbitrator revisions to the plan that, if incorporated into the plan, will allow the Farm Credit Administration to certify the plan, the arbitrator shall, not later than 15 days after receipt of the recommended revisions, incorporate the revisions into the plan as the arbitrator deems appropriate to secure the certification.
 
 &emsp;&emsp;“(F)
 
@@ -374,7 +374,7 @@ In general.—Except as otherwise provided in this paragraph, any petition for r
 
 &emsp;&emsp;&emsp;“(ii)
 
-Procedures.—Notwithstanding the United States Arbitration Act (9 U.S.C. 1 et seq.), any petition for review of a determination or other action of the arbitrator under this subsection shall be filed not later than 10 days after the determination, or the petition shall be barred. The court specified under such Act shall have exclusive jurisdiction to determine the proceeding in accordance with the applicable procedures under such Act, as supplemented by procedures hereinafter provided, and no other district court shall have jurisdiction over any such challenge in any such proceeding. Notwithstanding any other provision of law, the court may set rules governing the procedures of any such proceeding that setpage limits on briefs and time limits for filing briefs and motions and other actions that are shorter than the limits specified in the United States Arbitration Act or the Federal Rules of Civil or Appellate Procedure \[28 App. U.S.C.\].
+Procedures.—Notwithstanding the United States Arbitration Act (9 U.S.C. 1 et seq.), any petition for review of a determination or other action of the arbitrator under this subsection shall be filed not later than 10 days after the determination, or the petition shall be barred. The court specified under such Act shall have exclusive jurisdiction to determine the proceeding in accordance with the applicable procedures under such Act, as supplemented by procedures hereinafter provided, and no other district court shall have jurisdiction over any such challenge in any such proceeding. Notwithstanding any other provision of law, the court may set rules governing the procedures of any such proceeding that set page limits on briefs and time limits for filing briefs and motions and other actions that are shorter than the limits specified in the United States Arbitration Act or the Federal Rules of Civil or Appellate Procedure \[28 App. U.S.C.\].
 
 &emsp;&emsp;&emsp;“(iii)
 

@@ -42,7 +42,7 @@ In implementing the tariff rate quotas set out in the United States Schedule to 
 
 #### (1) In general
 
-&emsp;The Secretary of Agriculture shall collect and compile the information specified under paragraph (3), if reasonably available, from appropriate Federal departments and agencies and the relevant counterpart ministries of the Government of Mexico.
+&emsp;The Secretary of Agriculture shall collect and compile the information specified underparagraph (3), if reasonably available, from appropriate Federal departments and agencies and the relevant counterpart ministries of the Government of Mexico.
 
 #### (2) Designation of an office
 

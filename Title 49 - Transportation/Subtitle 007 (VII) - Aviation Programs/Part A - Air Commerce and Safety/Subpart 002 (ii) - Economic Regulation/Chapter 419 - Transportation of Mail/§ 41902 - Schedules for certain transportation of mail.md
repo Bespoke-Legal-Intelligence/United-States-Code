@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement.—Except as provided in section 41906 of this title and section 5402 of title 39, an air carrier may transport mail by aircraft in foreign air transportation only under a schedule designated or required to be established under subsection (c) of this section for the transportation of mail.
+Requirement.—Except as provided in section 41906 of this title and section 5402 of title 39, an air carrier may transport mail by aircraft in foreign air transportation or between places in Alaska only under a schedule designated or required to be established under subsection (c) of this section for the transportation of mail.
 
 (b)
 
@@ -10,9 +10,11 @@ Statements on Places and Schedules.—Every air carrier shall file with the Secr
 
 &emsp;(1) the places between which the carrier is authorized to provide foreign air transportation;
 
-&emsp;(2) every schedule of aircraft regularly operated by the carrier between places described in clause (1) of this subsection and every change in each schedule; and
+&emsp;(2) the places between which the carrier is authorized to transport mail in Alaska;
 
-&emsp;(3) for each schedule, the places served by the carrier and the time of arrival at, and departure from, each place.
+&emsp;(3) every schedule of aircraft regularly operated by the carrier between places described in clauses (1) and (2) of this subsection and every change in each schedule; and
+
+&emsp;(4) for each schedule, the places served by the carrier and the time of arrival at, and departure from, each place.
 
 (c)
 
@@ -34,7 +36,7 @@ Orders.—An order of the Postal Service under this section may become effective
 
 Proceedings Preferences.—The Secretary shall give preference to a proceeding under this section over all other proceedings before the Secretary under this subpart.
 
-(Pub. L. 103–272, §§1(e), 4(k)(1), (3), July 5, 1994, 108 Stat. 1153, 1370; Pub. L. 103–429, §7(a)(3)(D), Oct. 31, 1994, 108 Stat. 4389.)
+(Pub. L. 103–272, §§1(e), 4(k)(1), (3), July 5, 1994, 108 Stat. 1153, 1370; Pub. L. 103–429, §7(a)(3)(D), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113.)
 
 Historical and Revision Notes
 
@@ -134,15 +136,19 @@ Section 4(k) reflects amendments to the restatement required by section 1601(a)(
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–272, §4(k)(1), substituted “foreign air transportation” for “foreign air transportation or between places in Alaska”.
+1999—Subsecs. (a), (b)(2) to (4). Pub. L. 106–31 repealed Pub. L. 103–272, §4(k). See 1994 Amendment notes below.
 
-Subsec. (b)(2) to (4). Pub. L. 103–272, §4(k)(3), as amended by Pub. L. 103–429, redesignated par. (3) as (2) and substituted “clause (1)” for “clauses (1) and (2)”, struck out former par. (2) which read as follows: “the places between which the carrier is authorized to transport mail in Alaska;”, and redesignated par. (4) as (3).
+1994—Subsec. (a). Pub. L. 103–272, §4(k)(1), which directed the amendment of this section by substituting “foreign air transportation” for “foreign air transportation or between places in Alaska”, effective Jan. 1, 1999, was repealed by Pub. L. 106–31, §6003, effective Dec. 31, 1998.
 
-#### Effective Date of 1994 Amendments
+Subsec. (b)(2) to (4). Pub. L. 103–272, §4(k)(3), as amended by Pub. L. 103–429, which directed the amendment of subsec. (b) by redesignating par. (3) as (2) and substituting “clause (1)” for “clauses (1) and (2)”, striking out former par. (2) which read as follows: “the places between which the carrier is authorized to transport mail in Alaska;”, and redesignating par. (4) as (3), effective Jan. 1, 1999, was repealed by Pub. L. 106–31, §6003, effective Dec. 31, 1998.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113, provided that the amendment made by section 6003 is effective Dec. 31, 1998.
+
+#### Effective Date of 1994 Amendment
 
 Section 7(a) of Pub. L. 103–429 provided in part that the amendment made by that section is effective July 5, 1994.
-
-Section 4(k) of Pub. L. 103–272 provided that the amendments made by that section are effective Jan. 1, 1999.
 
 #### Section Referred to in Other Sections
 

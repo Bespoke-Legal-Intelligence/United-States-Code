@@ -88,7 +88,7 @@ Subsec. (c). Pub. L. 104–208, §308(d)(4)(L)(ii), substituted “denial of adm
 
 Subsec. (f)(1). Pub. L. 104–208, §308(g)(5)(A)(i), substituted “section 1229a” for “section 1252”.
 
-Subsec. (g). Pub. L. 104–208, §308(e)(1)(M), which directed amendment of subsec. (g) by substituting “removal” for “deportation” wherever appearing, couldnot be executed because the word “deportation” did not appear in subsec. (g).
+Subsec. (g). Pub. L. 104–208, §308(e)(1)(M), which directed amendment of subsec. (g) by substituting “removal” for “deportation” wherever appearing, could not be executed because the word “deportation” did not appear in subsec. (g).
 
 Pub. L. 104–208, §133, added subsec. (g).
 

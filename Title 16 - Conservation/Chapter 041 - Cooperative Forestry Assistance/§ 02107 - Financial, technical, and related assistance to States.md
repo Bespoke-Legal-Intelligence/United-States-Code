@@ -2,7 +2,7 @@
 
 #### (a) Development of State organizations for protection and management of non-Federal forest lands; scope of assistance; request by officials
 
-To aid in achieving maximum effectiveness in the programs and activities conducted under this chapter, the Secretary is authorized to provide financial, technical, and related assistance to State foresters or equivalent State officials for the development of stronger and more efficient State organizations that will enable them to fulfill better their responsibilities for the protection and management of non-Federal forest lands. Assistance under this subsection may include, but will not be limited to, assistance in matters related to organization management, program planning and management, budget and fiscal accounting services, personnel training and management, information services, and recordkeeping. Assistance under this subsection may be extended only upon request by State foresters or equivalent State officials.
+To aid in achieving maximum effectiveness in the programs and activities conducted under this chapter, the Secretary is authorized to provide financial, technical, and related assistance to State foresters or equivalent State officials for the development of stronger and more efficient State organizations that will enable them to fulfill better their responsibilities for the protection and management of non-Federal forestlands. Assistance under this subsection may include, but will not be limited to, assistance in matters related to organization management, program planning and management, budget and fiscal accounting services, personnel training and management, information services, and recordkeeping. Assistance under this subsection may be extended only upon request by State foresters or equivalent State officials.
 
 #### (b) Assembly, analysis, display, and reporting of State forest resources data, resources planning, etc.; scope of assistance; other statutory provisions unaffected
 
@@ -22,7 +22,7 @@ To ensure that new technology is introduced, new information is integrated into 
 
 &emsp;&emsp;(D) test, evaluate, and seek registration of chemicals for use in implementing the programs and activities authorized under this chapter;
 
-&emsp;&emsp;(E) conduct other activities, including training of State forestry personnel whom the Secretary deems necessary to ensurethat the programs and activities authorized under this chapter are responsive to special problems, unique situations, and changing conditions.
+&emsp;&emsp;(E) conduct other activities, including training of State forestry personnel whom the Secretary deems necessary to ensure that the programs and activities authorized under this chapter are responsive to special problems, unique situations, and changing conditions.
 
 &emsp;(2) The Secretary may make funds available to cooperators under this chapter without regard to the provisions of section 3324(a) and (b) of title 31, which prohibits advances of public money.
 

@@ -88,7 +88,7 @@ Not later than November 1 of each year, the President shall notify the appropria
 
 #### References in Text
 
-Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (g), is section 601(b) of Pub. L. 94–329, title VI, June 30, 1976, 90 Stat. 765, which is not classified to the Code.
+Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (g), is section 601(b) of Pub. L. 94–329, title VI,June 30, 1976, 90 Stat. 765, which is not classified to the Code.
 
 This chapter, referred to in subsec. (h), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
@@ -113,6 +113,10 @@ Subsec. (g). Pub. L. 103–447, §101(g)(1)(F), substituted “Senate procedures
 Subsec. (h). Pub. L. 103–447, §101(g)(1)(G), struck out “for fiscal years 1993 and 1994” after “drug producing countries” in heading and substituted “November 1” for “January 1” in text.
 
 Subsec. (i). Pub. L. 103–447, §101(g)(1)(H), amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “This section applies only during fiscal years 1993 and 1994. During those fiscal years, section 2291k of this title does not apply and the definitions provided in section 2291(e)(2) and (5) of this title do not apply.”
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Certification for Major Illicit Drug Producing and Drug Transit Countries
 

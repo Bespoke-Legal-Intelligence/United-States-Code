@@ -148,7 +148,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;(i) Except as provided in clause (ii), a skilled nursing facility must not use on a full-time basis any individual as a nurse aide in the facility on or after October 1, 1990 for more than 4 months unless the individual—
 
-&emsp;&emsp;&emsp;(I) has completed a training and competency evaluation program, or a competency evaluation program, approved by the State under subsection (e)(1)(A) of this section, and
+&emsp;&emsp;&emsp;(I) has completed a training and competency evaluation program, or a competency evaluation program, approved bythe State under subsection (e)(1)(A) of this section, and
 
 &emsp;&emsp;&emsp;(II) is competent to provide nursing or nursing-related services.
 
@@ -286,7 +286,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (A) In general
 
-&emsp;&emsp;A skilled nursing facility must permit each resident to remain in the facility and must not transfer or discharge the resident from the facility unless—
+&emsp;&emsp;A skilled nursing facility must permit each resident to remain in the facility andmust not transfer or discharge the resident from the facility unless—
 
 &emsp;&emsp;&emsp;(i) the transfer or discharge is necessary to meet the resident's welfare and the resident's welfare cannot be met in the facility;
 
@@ -364,7 +364,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;With respect to admissions practices, a skilled nursing facility must—
 
-&emsp;&emsp;&emsp;(i)(I) not require individuals applying to reside or residing in the facility to waive their rights to benefits under this subchapter or under a State plan under subchapter XIX of this chapter, (II) not require oral or written assurance that such individuals are not eligible for, or will not apply for, benefits under this subchapter or such a State plan, and (III) prominently display in the facility and provide to such individuals written information about how to apply for and use such benefits and how to receive refunds for previous payments covered by such benefits; and
+&emsp;&emsp;&emsp;(i)(I) not require individuals applying to reside or residing in the facility to waive their rights to benefits under this subchapter or under a State plan under subchapter XIX of this chapter, (II) not require oral or written assurance that such individuals are not eligible for, or will not apply for, benefits under this subchapter or such a State plan, and (III) prominently display in the facility and provide to such individuals written information about how to apply for and use such benefits and howto receive refunds for previous payments covered by such benefits; and
 
 &emsp;&emsp;&emsp;(ii) not require a third party guarantee of payment to the facility as a condition of admission (or expedited admission) to, or continued stay in, the facility.
 
@@ -372,7 +372,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (i) No preemption of stricter standards
 
-&emsp;&emsp;&emsp;Subparagraph (A) shall not be construed as preventing States or political subdivisions therein from prohibiting, under State or local law, the discriminationagainst individuals who are entitled to medical assistance under this subchapter with respect to admissions practices of skilled nursing facilities.
+&emsp;&emsp;&emsp;Subparagraph (A) shall not be construed as preventing States or political subdivisions therein from prohibiting, under State or local law, the discrimination against individuals who are entitled to medical assistance under this subchapter with respect to admissions practices of skilled nursing facilities.
 
 #### (ii) Contracts with legal representatives
 
@@ -450,7 +450,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;(i) the Secretary may waive, for such periods as he deems appropriate, specific provisions of such Code which if rigidly applied would result in unreasonable hardship upon a facility, but only if such waiver would not adversely affect the health and safety of residents or personnel, and
 
-&emsp;&emsp;&emsp;(ii) the provisions of such Code shall not apply in any State if the Secretary findsthat in such State there is in effect a fire and safety code, imposed by State law, which adequately protects residents of and personnel in skilled nursing facilities.
+&emsp;&emsp;&emsp;(ii) the provisions of such Code shall not apply in any State if the Secretary finds that in such State there is in effect a fire and safety code, imposed by State law, which adequately protects residents of and personnel in skilled nursing facilities.
 
 #### (3) Sanitary and infection control and physical environment
 
@@ -556,7 +556,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(b) has been subject to an extended (or partial extended) survey under subsection (g)(2)(B)(i) of this section or section 1396r(g)(2)(B)(i) of this title, unless the survey shows that the facility is in compliance with the requirements of subsections (b), (c), and (d) of this section; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(c) has been assessed a civil money penalty described in subsection (h)(2)(B)(ii) of this section or section 1396r(h)(2)(A)(ii) of this title of not less than $5,000, or has been subject to a remedy described in clause (i) or (iii) of subsection (h)(2)(B) of this section, subsection (h)(4) of this section, section 1396r(h)(1)(B)(i) of this title, or in clause (i), (iii), or (iv) of section 1396r(h)(2)(A) of this title, or
+&emsp;&emsp;&emsp;&emsp;&emsp;(c) has been assessed a civil money penalty described in subsection (h)(2)(B)(ii) of this section or section 1396r(h)(2)(A)(ii) of this title of not less than $5,000, or has been subject to a remedy described in clause (i) or (iii) ofsubsection (h)(2)(B) of this section, subsection (h)(4) of this section, section 1396r(h)(1)(B)(i) of this title, or in clause (i), (iii), or (iv) of section 1396r(h)(2)(A) of this title, or
 
 &emsp;&emsp;&emsp;&emsp;(II) offered by or in a skilled nursing facility unless the State makes the determination, upon an individual's completion of the program, that the individual is competent to provide nursing and nursing-related services in skilled nursing facilities.
 
@@ -690,7 +690,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (iii) Contents
 
-&emsp;&emsp;&emsp;In such an extended survey, the survey team shall review and identify the policiesand procedures which produced such substandard quality of care and shall determine whether the facility has complied with all the requirements described in subsections (b), (c), and (d) of this section. Such review shall include an expansion of the size of the sample of residents’ assessments reviewed and a review of the staffing, of in-service training, and, if appropriate, of contracts with consultants.
+&emsp;&emsp;&emsp;In such an extended survey, the survey team shall review and identify the policies and procedures which produced such substandard quality of care and shall determine whether the facility has complied with all the requirements described in subsections (b), (c), and (d) of this section. Such review shall include an expansion of the size of the sample of residents’ assessments reviewed and a review of the staffing, of in-service training, and, if appropriate, of contracts with consultants.
 
 #### (iv) Construction
 
@@ -818,7 +818,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (i) Denial of payment
 
-&emsp;&emsp;&emsp;The Secretary may deny any further payments under this subchapter with respect to all individuals entitled to benefits under this subchapter in the facility or with respect to such individuals admittedto the facility after the effective date of the finding.
+&emsp;&emsp;&emsp;The Secretary may deny any further payments under this subchapter with respect to all individuals entitled to benefits under this subchapter in the facility or with respect to such individuals admitted to the facility after the effective date of the finding.
 
 #### (ii) Authority with respect to civil money penalties
 
@@ -872,7 +872,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (5) Construction
 
-&emsp;The remedies provided under this subsection are in addition to those otherwise available under State or Federal law and shall not be construed as limiting such other remedies, including any remedy available to an individual at common law. The remedies described in clauses (i),<sup>6</sup> and (iii) of paragraph (2)(B) maybe imposed during the pendency of any hearing.
+&emsp;The remedies provided under this subsection are in addition to those otherwise available under State or Federal law and shall not be construed as limiting such other remedies, including any remedy available to an individual at common law. The remedies described in clauses (i),<sup>6</sup> and (iii) of paragraph (2)(B) may be imposed during the pendency of any hearing.
 
 #### (6) Sharing of information
 
@@ -934,7 +934,7 @@ Subsec. (b)(4)(A)(vii). Pub. L. 101–508, §4008(h)(2)(D), added cl. (vii).
 
 Subsec. (b)(4)(C)(ii)(IV), (V). Pub. L. 101–508, §4008(h)(2)(E), added subcls. (IV) and (V).
 
-Subsec. (b)(5)(A). Pub. L. 101–508, §4008(h)(1)(B), designated existing provisions as cl. (i), in introductory provisions substituted “Except as provided in clause (ii), a skilled nursing facility” for “A skilled nursing facility” and “on a full-time basis” for “(on a full-time, temporary, per diem, or other basis)”, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and added cl. (ii).
+Subsec. (b)(5)(A). Pub. L. 101–508, §4008(h)(1)(B), designated existing provisions as cl. (i), in introductory provisions substituted “Except as provided in clause (ii), a skilled nursing facility” for “A skilled nursingfacility” and “on a full-time basis” for “(on a full-time, temporary, per diem, or other basis)”, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and added cl. (ii).
 
 Subsec. (b)(5)(C). Pub. L. 101–508, §4008(h)(1)(C), substituted “any State registry established under subsection (e)(2)(A) of this section that the facility believes will include information” for “the State registry established under subsection (e)(2)(A) of this section as to information in the registry”.
 
@@ -1014,7 +1014,7 @@ Subsec. (c)(2)(A)(v). Pub. L. 100–360, §411(<i>l</i>)(2)(F), substituted “f
 
 Subsec. (c)(6). Pub. L. 100–360, §411(<i>l</i>)(2)(G), substituted “upon the written” for “once the facility accepts the written” in subpar. (A)(ii), and “Upon written” for “Upon a facility's acceptance of written” in subpar. (B).
 
-Subsec. (e)(1)(A). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(v), formerly §411(<i>l</i>)(1)(A)(iv), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “January” for “March”.
+Subsec. (e)(1)(A). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(v), formerly §411(<i>l</i>)(1)(A)(iv), as redesignated by Pub. L.100–485, §608(d)(27)(A), substituted “January” for “March”.
 
 Subsec. (e)(1)(B). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(vi), formerly §411(<i>l</i>)(1)(A)(v), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “January” for “March”.
 
@@ -1155,6 +1155,24 @@ Enforcement.—(1) Except as otherwise specifically provided in section 1819 of 
 “(c)
 
 Waiver of Paperwork Reduction.—Chapter 35 of title 44, United States Code, shall not apply to information required for purposes of carrying out this part \[part 1 of subtitle C (§§4201–4206), enacting this section, amending this section and sections 1395x, 1395aa, 1395tt, and 1395yy of this title, and enacting provisions set out as notes under this section\] and implementing the amendments made by this part.”
+
+#### Study and Report Regarding State Licensure and Certification Standards and Respiratory Therapy Competency Examinations
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title I, §107\], Nov. 29, 1999, 113 Stat. 1536, 1501A–328, provided that:
+
+“(a)
+
+Study.—The Secretary of Health and Human Services shall conduct a study that—
+
+&emsp;“(1) identifies variations in State licensure and certification standards for health care providers (including nursing and allied health professionals) and other individuals providing respiratory therapy in skilled nursing facilities;
+
+&emsp;“(2) examines State requirements relating to respiratory therapy competency examinations for such providers and individuals; and
+
+&emsp;“(3) determines whether regular respiratory therapy competency examinations or certifications should be required under the medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) for such providers and individuals.
+
+“(b)
+
+Report.—Not later than 18 months after the date of enactment of this Act \[Nov. 29, 1999\], the Secretary of Health and Human Services shall submit to Congress a report on the results of the study conducted under this section, together with any recommendations forlegislation that the Secretary determines to be appropriate as a result of such study.”
 
 #### Retroactive Review
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and Purpose.—There is an account in the Treasury known as the “Foreign Currency Fluctuations, American Battle Monuments Commission, Account”. The Account shall be used to provide amounts, in addition to amounts appropriated for salaries and expenses of the Commission, to pay the cost of salaries and expenses that exceeds the amount appropriated for salaries and expenses because of fluctuations in currency exchange rates of foreigncountries occurring after a budget request for the Commission is submitted to Congress. The Account may not be used for any other purpose.
+Establishment and Purpose.—There is an account in the Treasury known as the “Foreign Currency Fluctuations, American Battle Monuments Commission, Account”. The Account shall be used to provide amounts, in addition to amounts appropriated for salaries and expenses of the Commission, to pay the cost of salaries and expenses that exceeds the amount appropriated for salaries and expenses because of fluctuations in currency exchange rates of foreign countries occurring after a budget request for the Commission is submitted to Congress. The Account may not be used for any other purpose.
 
 (b)
 
@@ -60,29 +60,43 @@ Mar. 4, 1923, ch. 283, §13, as added May 20, 1988, Pub. L. 100–322, title III
 
 36:138c(b) (last sentence).
 
+&nbsp;
+
 2109(c)(1)
 
 36:138c(a) (last sentence), (b) (1st sentence).
+
+&nbsp;
 
 2109(c)(2)
 
 36:138c(d).
 
+&nbsp;
+
 2109(c)(3)
 
 36:138c(e).
+
+&nbsp;
 
 2109(d)
 
 36:138c(c).
 
+&nbsp;
+
 2109(e)
 
 36:138c(f).
 
+&nbsp;
+
 2109(f)
 
 36:138c(g).
+
+&nbsp;
 
 2109(g)
 

@@ -1,6 +1,6 @@
 ### §7133. Assistant Secretaries; appointment and confirmation; identification of responsibilities
 
-(a) There shall be in the Department eight Assistant Secretaries, each of whom shall be appointed by the President, by and with the advice and consent of the Senate; who shall be compensated at the rate provided for at level IV of the Executive Schedule under section 5315 of title 5; and who shall perform, in accordance with applicable law, such of the functions transferred or delegated to, or vested in, the Secretary as he shall prescribe in accordance with the provisions of this chapter. The functions which the Secretary shall assign to the Assistant Secretaries include, but are not limited to, the following:
+(a) There shall be in the Department six Assistant Secretaries, each of whom shall be appointed by the President, by and with the advice and consent of the Senate; who shall be compensated at the rate provided for at level IV of the Executive Schedule under section 5315 of title 5; and who shall perform, in accordance with applicable law, such of the functions transferred or delegated to, or vested in, the Secretary as he shall prescribe in accordance with the provisions of this chapter. The functions which the Secretary shall assign to the Assistant Secretaries include, but are not limited to, the following:
 
 &emsp;(1) Energy resource applications, including functions dealing with management of all forms of energy production and utilization, including fuel supply, electric power supply, enriched uranium production, energy technology programs, and the management of energy resource leasing procedures on Federal lands.
 
@@ -20,7 +20,7 @@
 
 &emsp;(4) International programs and international policy functions, including those functions which assist in carrying out the international energy purposes described in section 7112 of this title.
 
-&emsp;(5) National security functions, including those transferred to the Department from the Energy Research and Development Administration which relate to management and implementation of the nuclear weapons program and other national security functions involving nuclear weapons research and development.
+&emsp;(5) Repealed. Pub. L. 106–65, div. C, title XXXII, §3294(b), Oct. 5, 1999, 113 Stat. 970.
 
 &emsp;(6) Intergovernmental policies and relations, including responsibilities for assuring that national energy policies are reflective of and responsible to the needs of State and local governments, and for assuring that other components of the Department coordinate their activities with State and local governments, where appropriate, and develop intergovernmental communications with State and local governments.
 
@@ -52,7 +52,17 @@
 
 (b) At the time the name of any individual is submitted for confirmation to the position of Assistant Secretary, the President shall identify with particularity the function or functions described in subsection (a) of this section (or any portion thereof) for which such individual will be responsible.
 
-(Pub. L. 95–91, title II, §203, Aug. 4, 1977, 91 Stat. 570.)
+(Pub. L. 95–91, title II, §203, Aug. 4, 1977, 91 Stat. 570; Pub. L. 106–65, div. C, title XXXII, §3294(a)(2), (b), Oct. 5, 1999, 113 Stat. 970.)
+
+#### Amendments
+
+1999—Subsec. (a). Pub. L. 106–65, §3294(a)(2), substituted “six” for “eight” in introductory provisions.
+
+Subsec. (a)(5). Pub. L. 106–65, §3294(b), struck out par. (5) which read as follows: “National security functions, including those transferred to the Department from the Energy Research and Development Administration which relate to management and implementation of the nuclear weapons program and other national security functions involving nuclear weapons research and development.”
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as an Effective Date note under section 2401 of Title 50, War and National Defense.
 
 #### Federal Power Marketing Administration Employment Levels
 
@@ -74,5 +84,5 @@ Pub. L. 98–381, title I, §107, Aug. 17, 1984, 98 Stat. 1339, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7139, 7158 of this title.
+This section is referred to in section 7139 of this title.
 

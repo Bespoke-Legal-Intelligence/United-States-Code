@@ -32,7 +32,7 @@
 
 (g) In this section, the term “military record” means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 373, 605, 607, 643, and 873 of this title).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 116; Pub. L. 86–533, §1(4), June 29, 1960, 74 Stat. 246; Pub. L.96–513, title V, §511(60), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 98–209, §11(a), Dec. 6, 1983, 97 Stat. 1407; Pub. L. 100–456, div. A, title XII, §1233(a), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title V, §514, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1441, 1603; Pub. L. 102–484, div. A, title X, §1052(19), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 105–261, div. A, title V, §545(a), (b), Oct. 17, 1998, 112 Stat. 2022.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 116; Pub. L. 86–533, §1(4), June 29, 1960, 74 Stat. 246; Pub. L. 96–513, title V, §511(60), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 98–209, §11(a), Dec. 6, 1983, 97 Stat. 1407; Pub. L. 100–456, div. A, title XII, §1233(a), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title V, §514, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1441, 1603; Pub. L. 102–484, div. A, title X, §1052(19), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 105–261, div. A, title V, §545(a), (b), Oct. 17, 1998, 112 Stat. 2022.)
 
 Historical and Revision Notes
 
@@ -138,7 +138,7 @@ Pub. L. 101–225, title II, §212, Dec. 12, 1989, 103 Stat. 1914, provided that
 
 &emsp;“(1) amend part 52 of title 33, Code of Federal Regulations, governing the proceedings of the board established by the Secretary under section 1552 of title 10, United States Code, to ensure that a complete application for correction of military records is processed expeditiously and that final action on the application is taken within 10 months of its receipt; and
 
-&emsp;“(2) appoint and maintain a permanent staff, and a panel of civilian officers or employees to serve asmembers of the board, which are adequate to ensure compliance with paragraph (1) of this subsection.”
+&emsp;“(2) appoint and maintain a permanent staff, and a panel of civilian officers or employees to serve as members of the board, which are adequate to ensure compliance with paragraph (1) of this subsection.”
 
 #### Cross References
 

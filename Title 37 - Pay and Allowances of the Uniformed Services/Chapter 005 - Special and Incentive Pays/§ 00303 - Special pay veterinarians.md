@@ -1,6 +1,8 @@
 ### §303. Special pay: veterinarians
 
-Each of the following officers is entitled to special pay at the rate of $100 a month for each month of active duty:
+(a)
+
+Monthly Special Pay.—Each of the following officers is entitled to special pay at the rate of $100 a month for each month of active duty:
 
 &emsp;(1) A commissioned officer—
 
@@ -22,7 +24,11 @@ Each of the following officers is entitled to special pay at the rate of $100 a 
 
 &emsp;(3) A general officer of the Army or the Air Force appointed, from any of the categories named in clause (1) or (2), in the Army, the Air Force, or the National Guard, as the case may be.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 465; Pub. L. 88–2, §5, Mar. 28, 1963, 77 Stat. 4; Pub. L. 90–40, §5, June 30, 1967, 81 Stat. 105; Pub. L. 92–129, title I, §104, Sept. 28, 1971, 85 Stat. 355; Pub. L. 93–64, title II, §203, July 9, 1973, 87 Stat. 149; Pub. L. 95–114, §3, Sept. 30, 1977, 91 Stat. 1046; Pub. L. 95–485, title VIII, §801(b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–284, §4(c), June 28, 1980, 94 Stat. 591; Pub. L. 100–26, §8(d)(3), Apr. 21, 1987, 101 Stat. 285; Pub. L. 100–180, div. A, title XII, §1232, Dec. 4, 1987, 101 Stat. 1161; Pub. L. 102–25, title VII, §702(b)(2), Apr. 6, 1991, 105 Stat. 117.)
+(b)
+
+Additional Special Pay for Board Certification.—A commissioned officer entitled tospecial pay under subsection (a) who has been certified as a Diplomate in a specialty recognized by the American Veterinarian Medical Association is entitled to special pay (in addition to the special pay under subsection (a)) at the same rate as is provided under section 302c(b) of this title for an officer referred to in that section who has the same number of years of creditable service as the commissioned officer.
+
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 465; Pub. L. 88–2, §5, Mar. 28, 1963, 77 Stat. 4; Pub. L. 90–40, §5, June 30, 1967, 81 Stat. 105; Pub. L. 92–129, title I, §104, Sept. 28, 1971, 85 Stat. 355; Pub. L. 93–64, title II, §203, July 9, 1973, 87 Stat. 149; Pub. L. 95–114, §3, Sept. 30, 1977, 91 Stat. 1046; Pub. L. 95–485, title VIII, §801(b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–284, §4(c), June 28, 1980, 94 Stat. 591; Pub. L. 100–26, §8(d)(3), Apr. 21, 1987, 101 Stat. 285; Pub. L. 100–180, div. A, title XII, §1232, Dec. 4, 1987, 101 Stat. 1161; Pub. L. 102–25, title VII, §702(b)(2), Apr. 6, 1991, 105 Stat. 117; Pub. L. 106–65, div. A, title VI, §616(a), Oct. 5, 1999, 113 Stat. 652.)
 
 Historical and Revision Notes
 
@@ -56,6 +62,8 @@ In subsection (b), the words “disability retirement pay” are omitted as cove
 
 #### Amendments
 
+1999—Pub. L. 106–65 designated existing provisions as subsec. (a), inserted subsec. heading, and added subsec. (b).
+
 1991—Par. (3). Pub. L. 102–25 struck out “of this subsection” after “clause (1) or (2)”.
 
 1987—Pub. L. 100–180 substituted semicolon for comma at end of par. (2)(A) and “; or” for “, or” at end of par. (2)(B).
@@ -77,6 +85,10 @@ Subsecs. (b), (c). Pub. L. 95–114 reenacted subsec. (b) without change and add
 1967—Subsec. (a). Pub. L. 90–40 substituted “July 1, 1971” for “July 1, 1967” wherever appearing.
 
 1963—Subsec. (a). Pub. L. 88–2 substituted “July 1, 1967” for “July 1, 1963” wherever appearing.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–65, div. A, title VI, §616(b), Oct. 5, 1999, 113 Stat. 652, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1999, and shall apply with respect to months beginning on and after that date.”
 
 #### Effective Date of 1977 Amendment
 

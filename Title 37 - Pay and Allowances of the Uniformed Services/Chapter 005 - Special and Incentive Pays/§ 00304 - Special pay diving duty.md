@@ -12,9 +12,9 @@
 
 &emsp;&emsp;(B) meets the requirements to maintain proficiency as described in paragraph (2) while serving in an assignment that includes diving duty other than as a primary duty.
 
-(b) Special pay payable under subsection (a) shall be paid at a rate of not more than $200 a month, in the case of an officer, and at a rate of not more than $300 a month, in the case of an enlisted member.
+(b) Special pay payable under subsection (a) shall be paid at a rate of not more than $240 a month, in the case of an officer, and at a rate of not more than $340 a month, in the case of an enlisted member.
 
-(c) A member may be paid special pay under this section and incentive pay under section 301 of this title for the same period of service only if the member is assigned by orders to a hazardous duty described in section 301(a) of this title in addition to diving duty. However, if a member is paid special pay under this section, the member is not entitled to more than one payment of incentive pay under section 301 of this title.
+(c) If, in addition to diving duty, a member is assigned by orders to one or more hazardous duties described in section 301 of this title, the member may be paid, for the same period of service, special pay under this section and incentive pay under such section 301 for each hazardous duty for which the member is qualified.
 
 (d)(1) Under regulations prescribed by the Secretary concerned and to the extent provided for by appropriations, when a member of the National Guard or a reserve component of a uniformed service who is entitled to compensation under section 206 of this title performs diving duty, pursuant to orders, such member is entitled to an increase in compensation equal to 1/30 of the monthly special pay prescribed by the Secretary concerned for the performance of diving duty by a member of comparable diving classification who is entitled to basic pay under section 204 of this title. Such member is entitled to the increase—
 
@@ -26,7 +26,7 @@
 
 (e) In time of war, the President may suspend the payment of diving duty pay.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 465; Pub. L. 97–60, title I, §115, Oct. 14, 1981, 95 Stat. 995; Pub. L. 100–180, div. A, title VI, §624(a), Dec. 4, 1987, 101 Stat. 1103; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 105–261, div. A, title VI, §616(a), Oct. 17, 1998, 112 Stat. 2041.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 465; Pub. L. 97–60, title I, §115, Oct. 14, 1981, 95 Stat. 995; Pub. L. 100–180, div. A, title VI, §624(a), Dec. 4, 1987, 101 Stat. 1103; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 105–261, div. A, title VI, §616(a), Oct. 17, 1998, 112 Stat. 2041; Pub. L. 106–65, div. A, title VI, §617(a), (b), Oct. 5, 1999, 113 Stat. 652.)
 
 Historical and Revision Notes
 
@@ -50,6 +50,10 @@ In subsection (a), the last sentence is substituted for section 236(b) of existi
 
 #### Amendments
 
+1999—Subsec. (b). Pub. L. 106–65, §617(a), substituted “$240” for “$200” and “$340” for “$300”.
+
+Subsec. (c). Pub. L. 106–65, §617(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A member may be paid special pay under this section and incentive pay under section 301 of this title for the same period of service only if the member is assigned by orders to a hazardous duty described in section 301(a) of this title in addition to diving duty. However, if a member is paid special pay under this section, the member is not entitled to more than one payment of incentive pay under section 301 of this title.”
+
 1998—Subsec. (a)(3). Pub. L. 105–261 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “actually performs diving duty.”
 
 1991—Subsec. (a). Pub. L. 102–25 struck out “of this section” after “subsection (b)”.
@@ -59,6 +63,10 @@ Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsecti
 1987—Subsecs. (d), (e). Pub. L. 100–180 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1981—Pub. L. 97–60 revised provisions of subsec. (a) into new subsecs. (a), (b), and (c), redesignated subsec. (b) as (d), and, in provisions of subsec. (a) as revised, added to enumeration of conditions attached to entitlement to special pay requirement that the member maintain proficiency as a diver by frequent and regular dives, substituted a rate of $200 a month for officers and $300 a month for enlisted men for former rate of $110 a month for all members, and inserted provisions authorizing payment of both special pay under this section and incentive pay under section 301 of this title in specified circumstances.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–65, div. A, title VI, §617(c), Oct. 5, 1999, 113 Stat. 652, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on October 1, 1999, and shall apply with respect to special pay paid under such section for months beginning on or after that date.”
 
 #### Effective Date of 1998 Amendment
 
@@ -70,5 +78,5 @@ Section 624(b) of Pub. L. 100–180 provided that: “The amendments made by sub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 907 of this title.
+This section is referred to in sections 320, 907 of this title.
 

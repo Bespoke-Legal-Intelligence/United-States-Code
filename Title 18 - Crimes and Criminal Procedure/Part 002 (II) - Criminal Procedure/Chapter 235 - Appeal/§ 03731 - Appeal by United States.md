@@ -24,7 +24,7 @@ Minor changes were made to conform to Rule 12 of the Federal Rules of Criminal P
 
 #### 1949 Act
 
-This section \[section 58\] corrects a typographical error in the second paragraph of section 3731 of title 18, U.S.C., and conforms the language of the fifth, tenth, and eleventh paragraphs of such section 3731 with the changed nomenclature of title 28, U.S.C., Judiciary and Judicial Procedure. See sections 41, 43, and 451 of the latter title.
+This section \[section 58\] corrects a typographical error in the second paragraph of section 3731 of title 18,U.S.C., and conforms the language of the fifth, tenth, and eleventh paragraphs of such section 3731 with the changed nomenclature of title 28, U.S.C., Judiciary and Judicial Procedure. See sections 41, 43, and 451 of the latter title.
 
 #### Amendments
 

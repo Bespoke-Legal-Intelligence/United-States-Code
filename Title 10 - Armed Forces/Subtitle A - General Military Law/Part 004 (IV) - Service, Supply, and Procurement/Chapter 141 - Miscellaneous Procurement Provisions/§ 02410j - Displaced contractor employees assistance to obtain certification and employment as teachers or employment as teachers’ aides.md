@@ -76,9 +76,9 @@ Agreement.—An individual selected under this section shall be required to ente
 
 &emsp;(2) to accept—
 
-&emsp;&emsp;(A) in the case of an individual selected for assistance for placement as a teacher, an offer of full-time employment as an elementary or secondary school teacher for not less than two school years with a local educational agency identified under section 1151(b)(2) of this title, to begin the school year after obtaining that certification or licensure; or
+&emsp;&emsp;(A) in the case of an individual selected for assistance for placement as a teacher, an offer of full-time employment as an elementary or secondary school teacher for not less than two school years with a local educational agency identified under section 1151(b)(2) <sup>1</sup> of this title, to begin the school year after obtaining that certification or licensure; or
 
-&emsp;&emsp;(B) in the case of an individual selected for assistance for placement as a teacher's aide, an offer of full-time employment as a teacher's aide in an elementary or secondary school for not less than two school years with a local educational agency identified under section 1151(b)(3) of this title, to begin the school year after obtaining the necessary credentials.
+&emsp;&emsp;(B) in the case of an individual selected for assistance for placement as a teacher's aide, an offer of full-time employment as a teacher's aide in an elementary or secondary school for not less than two school years with a local educational agency identified under section 1151(b)(3) <sup>1</sup> of this title, to begin the school year after obtaining the necessary credentials.
 
 (g)
 
@@ -92,7 +92,7 @@ Stipend for Participants.—(1) The Secretary of Defense shall pay to each parti
 
 (h)
 
-Placement of Participants as Teachers and Teachers’ Aides.—Subsections (h) through (k) of section 1151 of this title shall apply with respect to the placement as teachers and teachers’ aides of individuals selected under this section.
+Placement of Participants as Teachers and Teachers’ Aides.—Subsections (h) through (k) of section 1151 <sup>1</sup> of this title shall apply with respect to the placement as teachers and teachers’ aides of individuals selected under this section.
 
 (Added Pub. L. 102–484, div. D, title XLIV, §4443(a), Oct. 23, 1992, 106 Stat. 2732, §2410c; renumbered §2410j and amended Pub. L. 103–35, title II, §201(b)(1)(A), (g)(6), May 31, 1993, 107 Stat. 97, 100; Pub. L. 103–160, div. A, title XIII, §1331(c)(3), Nov. 30, 1993, 107 Stat. 1792; Pub. L. 103–382, title III, §391(b)(5), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 104–106, div. A, title XV, §1503(a)(23), Feb. 10, 1996, 110 Stat. 512; Pub. L. 104–201, div. A, title V, §576(c), Sept. 23, 1996, 110 Stat. 2535.)
 
@@ -100,7 +100,9 @@ Placement of Participants as Teachers and Teachers’ Aides.—Subsections (h) t
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (g)(2), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219,as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20 and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+Section 1151 of this title, referred to in subsecs. (f)(2)(A), (B) and (h), was repealed by Pub. L. 106–65, div. A, title XVII, §1707(a)(1), Oct. 5, 1999, 113 Stat. 823.
+
+The Higher Education Act of 1965, referred to in subsec. (g)(2), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20 and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
 
@@ -118,9 +120,11 @@ Subsec. (f)(2)(B). Pub. L. 103–35, §201(g)(6), substituted “aide” for “
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–160 not applicable with respect to persons selected by Secretary of Defense before Nov. 30, 1993, to participate in teacher and teacher's aide placement programs established pursuant to sections 1151, 1598, and 2410j of this title or agreements entered into by Secretary before such date with local educational agencies under such sections, see section 1331(h) of Pub. L. 103–160, set out as a note under section 1151 of this title.
+Amendment by Pub. L. 103–160 not applicable with respect to persons selected by Secretary of Defense before Nov. 30, 1993, to participate in teacher and teacher's aide placement programs established pursuant to sections 1151, 1598, and 2410j of this title or agreements entered into by Secretary before such date with local educational agencies under such sections, see section 1331(h) of Pub. L. 103–160, set out as a note under section 1598 of this title.
 
 #### Savings Provision
 
-Amendments by section 576 of Pub. L. 104–201 not to affect obligations under agreements entered into in accordance with section 1151, 1598, or 2410j of this title before Sept. 23, 1996, see section 576(d) of Pub. L. 104–201, set out as a note under section 1151 of this title.
+Amendments by section 576 of Pub. L. 104–201 not to affect obligations under agreements entered into in accordance with section 1151, 1598, or 2410j of this title before Sept. 23, 1996, see section 576(d) of Pub. L. 104–201, set out as a note under section 1598 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

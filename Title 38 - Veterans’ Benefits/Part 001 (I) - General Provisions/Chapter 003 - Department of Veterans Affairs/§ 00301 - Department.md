@@ -2,7 +2,7 @@
 
 (a) The Department of Veterans Affairs is an executive department of the United States.
 
-(b) The purpose of the Department is to administer the laws providing benefits and other services to veterans and the dependents and the beneficiaries of veterans.
+(b) The purpose of the Department is to administer the laws providing benefits and otherservices to veterans and the dependents and the beneficiaries of veterans.
 
 (c) The Department is composed of the following:
 
@@ -66,7 +66,7 @@ Pub. L. 100–527, §§1–12, 14, 16, 18, Oct. 25, 1988, 102 Stat. 2635–2642,
 
 #### “SEC. 6. VETERANS HEALTH SERVICES AND RESEARCH ADMINISTRATION.
 
-“The establishment within the Veterans’ Administration known as the Department of Medicine and Surgeryis hereby redesignated as the Veterans Health Services and Research Administration of the Department of Veterans Affairs.
+“The establishment within the Veterans’ Administration known as the Department of Medicine and Surgery is hereby redesignated as the Veterans Health Services and Research Administration of the Department of Veterans Affairs.
 
 #### “SEC. 7. VETERANS BENEFITS ADMINISTRATION.
 

@@ -48,5 +48,5 @@ Section 3101(9)(A), referred to in subsec. (e), is section 3101(9)(A) of Pub. L.
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Years 1992 and 1993, andnot as part of the Department of Energy Organization Act which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Years 1992 and 1993, and not as part of the Department of Energy Organization Act which comprises this chapter.
 

@@ -4,7 +4,7 @@
 
 Either tribe, acting through the chairman of its tribal council, for and on behalf of the tribe, including all villages, clans, and individual members thereof, is hereby authorized to commence or defend in the District Court an action or actions against the other tribe for the following purposes if such action or actions are not settled pursuant to section 640d–2 or 640d–3 of this title:
 
-&emsp;(1) for an accounting of all sums collected by either tribe since the 17th day of September 1957 as trader license fees or commissions, lease proceeds, or other similar charges for thedoing of business or the use of lands within the joint use area, and judgment for one-half of all sums so collected, and not paid to the other tribe, together with interest at the rate of 6 per centum per annum compounded annually;
+&emsp;(1) for an accounting of all sums collected by either tribe since the 17th day of September 1957 as trader license fees or commissions, lease proceeds, or other similar charges for the doing of business or the use of lands within the joint use area, and judgment for one-half of all sums so collected, and not paid to the other tribe, together with interest at the rate of 6 per centum per annum compounded annually;
 
 &emsp;(2) for the determination and recovery of the fair value of the grazing and agricultural use by either tribe and its individual members since the 28th day of September 1962 of the undivided one-half interest of the other tribe in the lands within the joint use area, together with interest at the rate of 6 per centum per annum compounded annually, notwithstanding the fact that the tribes are tenants in common of such lands; and
 

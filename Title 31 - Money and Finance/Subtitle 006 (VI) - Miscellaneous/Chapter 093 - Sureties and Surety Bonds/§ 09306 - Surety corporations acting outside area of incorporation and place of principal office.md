@@ -1,16 +1,12 @@
 ### §9306. Surety corporations acting outside area of incorporation and place of principal office
 
-(a) A surety corporation may provide a surety bond under section 9304 of this title in a judicial district outside the State, the District of Columbia, or a territory or possession of the UnitedStates under whose laws it was incorporated and in which its principal office is located only if the corporation designates a person by written power of attorney to be the resident agent of the corporation for that district. The designated person—
+(a) A surety corporation may provide a surety bond under section 9304 of this title in a judicial district outside the State, the District of Columbia, or a territory or possession of the United States under whose laws it was incorporated and in which its principal office is located only if the corporation has a resident agent for service of process for that district. The resident agent—
 
-&emsp;(1) may appear for the surety corporation;
+&emsp;(1) may be an official of the State, the District of Columbia, the territory or possession in which the court sits who is authorized or appointed under the law of the State, District, territory or possession to receive service of process on the corporation; or
 
-&emsp;(2) may receive service of process for the corporation;
+&emsp;(2) may be an individual who resides in the jurisdiction of the district court for the district in which a surety bond is to be provided and who is appointed by the corporation as provided in subsection (b) <sup>1</sup>
 
-&emsp;(3) must reside in the jurisdiction of the district court for the district in which a surety bond is to be provided; and
-
-&emsp;(4) must be a domiciliary of the State, the District of Columbia, territory, or possession in which the court sits.
-
-(b) The surety corporation shall file a certified copy of the power of attorney with the clerk of the district court for the district in which a surety bond is to be given at each place the court sits. A copy of the power of attorney may be used as evidence in a civil action under section 9307 of this title.
+(b) If the surety corporation meets the requirement of subsection (a) by appointing an individual under subsection (a)(2), the surety corporation shall file a certified copy of the power of attorney with the clerk of the district court for the district in which a surety bond is to be given at each place the court sits. A copy of the power of attorney may be used as evidence in a civil action under section 9307 of this title.
 
 (c)(1) If a resident agent is removed, resigns, dies, or becomes disabled, the surety corporation shall appoint another agent as described in this section.
 
@@ -22,7 +18,7 @@
 
 (3) A judgment or order of a court entered or made after service of process under this section is as valid as if the corporation were served in the judicial district of the court.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1048.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1048; Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5007\], Nov. 29, 1999, 113 Stat. 1536, 1501A–594.)
 
 Historical and Revision Notes
 
@@ -46,7 +42,23 @@ In subsection (c)(2), before clause (A), the words “the district in which the 
 
 In subsection (c)(3), the words “decree or” are omitted as being included in “order”. The words “and binding” are omitted as being included in “valid”. The words “as if the corporation were served in the judicial district of the court” are substituted for “on such company as if served with process in said district” for clarity and consistency.
 
+#### Amendments
+
+1999—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title V, §5007(1)\], substituted “has a resident agent for service of process for that district. The resident agent—” and pars. (1) and (2) for “designates a person by written power of attorney to be the resident agent of the corporation for that district. The designated person—
+
+&emsp;“(1) may appear for the surety corporation;
+
+&emsp;“(2) may receive service of process for the corporation;
+
+&emsp;“(3) must reside in the jurisdiction of the district court for the district in which a surety bond is to be provided; and
+
+&emsp;“(4) must be a domiciliary of the State, the District of Columbia, territory, or possession in which the court sits.”
+
+Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title V, §5007(2)\], substituted “If the surety corporation meets the requirement of subsection (a) by appointing an individual under subsection (a)(2), the” for “The”.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 9304, 9305, 9307, 9308 of this title; title 5 section 8478; title 12 section 1766; title 29 sections 502, 1112, 1363.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

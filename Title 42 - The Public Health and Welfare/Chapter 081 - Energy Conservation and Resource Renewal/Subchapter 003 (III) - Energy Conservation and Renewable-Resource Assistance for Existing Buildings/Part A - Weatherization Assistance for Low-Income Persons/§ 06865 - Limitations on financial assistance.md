@@ -32,7 +32,7 @@ The Secretary shall insure that financial assistance provided under this part wi
 
 &emsp;(C) the cost of having onsite supervisory personnel; and
 
-&emsp;(D) the cost of making incidental repairs to a dwelling unit if such repairs are necessary to make the installation of weatherization materials effective.
+&emsp;(D) the cost of making incidental repairs to a dwelling unit if such repairs are necessary tomake the installation of weatherization materials effective.
 
 (2) Dwelling units partially weatherized under this part or under other Federal programs during the period September 30, 1975, through September 30, 1979, may receive further financial assistance for weatherization under this part.
 
@@ -40,7 +40,7 @@ The Secretary shall insure that financial assistance provided under this part wi
 
 &emsp;(A) the limitation amount for the previous fiscal year, multiplied by
 
-&emsp;(B) the lesser of (i) the percentage increase in the Consumer Price Index (all items, UnitedStates city average) for the most recent calendar year completed before the beginning of fiscal year for which the determination is being made, or (ii) three percent.
+&emsp;(B) the lesser of (i) the percentage increase in the Consumer Price Index (all items, United States city average) for the most recent calendar year completed before the beginning of fiscal year for which the determination is being made, or (ii) three percent.
 
 (4)(A) In addition to the average per dwelling unit limitation applicable in a State under paragraphs (1) and (3), the Secretary shall, upon application by a State, establish a separate average per dwelling unit limitation for dwelling units in such State—
 
@@ -94,7 +94,7 @@ Subsec. (e). Pub. L. 101–440, §7(i), added subsec. (e).
 
 1984—Subsec. (a). Pub. L. 98–558, §403(1), substituted provisions that an average of at least forty percent of the funds provided shall be spent for weatherization for former provisions which directed the Secretary to use funds to the maximum extent practicable.
 
-Subsec. (c). Pub. L. 98–558, §403(2), in amending subsec. (c) generally, substituted provisions that expenditures shall not exceed an average of $1,600 per dwelling unit for former provisions which provided for an $800 per dwelling unit limit in par. (1), struck out “(not to exceed $150)” after “the cost” in par. (1)(D), substituted provisions that dwelling units partially weatherized between certain dates could receive further financial assistance under this part for former provisions that $800 limit would not apply if the State policy advisory council requested greater amounts from the Secretary and the Secretary gave approval in par. (2), and deleted former par. (3) which provided that in areas where the Secretary, after consultation with the Secretary of Labor, determined that there was an insufficient number of volunteers and training participants and publicservice employment workers, assisted pursuant to the Comprehensive Employment and Training Act of 1973, available to work on weatherization projects under the supervision of qualified supervisors and foremen, the Secretary could increase the limitation of $800 to not more than $1,600 to cover the costs of paying persons who would install the weatherization materials and, to the maximum extent practicable, who would otherwise be able to participate as training participants and public service employment workers pursuant to the Comprehensive Employment and Training Act of 1973.
+Subsec. (c). Pub. L. 98–558, §403(2), in amending subsec. (c) generally, substituted provisions that expenditures shall not exceed an average of $1,600 per dwelling unit for former provisions which provided for an $800 per dwelling unit limit in par. (1), struck out “(not to exceed $150)” after “the cost” in par. (1)(D), substituted provisions that dwelling units partially weatherized between certain dates could receive further financial assistance under this part for former provisions that $800 limit would not apply if the State policy advisory council requested greater amounts from the Secretary and the Secretary gave approval in par. (2), and deleted former par. (3) which provided that in areas where the Secretary, after consultation with the Secretary of Labor, determined that there was an insufficient number of volunteers and training participants and public service employment workers, assisted pursuant to the Comprehensive Employment and Training Act of 1973, available to work on weatherization projects under the supervision of qualified supervisors and foremen, the Secretary could increase the limitation of $800 to not more than $1,600 to cover the costs of paying persons who would install the weatherization materials and, to the maximum extent practicable, who would otherwise be able to participate as training participants and public service employment workers pursuant to the Comprehensive Employment and Training Act of 1973.
 
 Subsec. (d). Pub. L. 98–558, §404, added subsec. (d).
 

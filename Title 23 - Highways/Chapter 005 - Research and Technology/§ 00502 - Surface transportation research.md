@@ -42,7 +42,7 @@ Special account.—In addition to other funds made available to carry out this s
 
 &emsp;&emsp;(B)
 
-Use of funds.—The Secretary shall use funds made available to carry out this section to develop, administer, communicate, and promote the use of products ofresearch, development, and technology transfer programs under this section.
+Use of funds.—The Secretary shall use funds made available to carry out this section to develop, administer, communicate, and promote the use of products of research, development, and technology transfer programs under this section.
 
 (b)
 
@@ -52,7 +52,7 @@ Collaborative Research and Development.—
 
 In general.—To encourage innovative solutions to surface transportation problems and stimulate the deployment of new technology, the Secretary may carry out, on a cost-shared basis, collaborative research and development with—
 
-&emsp;&emsp;(A) non-Federal entities, including State and local governments, foreign governments, colleges and universities, corporations, institutions, partnerships, sole proprietorships, and trade associations that are incorporated or established under the laws of any State; and
+&emsp;&emsp;(A) non-Federal entities, including State and local governments, foreign governments,colleges and universities, corporations, institutions, partnerships, sole proprietorships, and trade associations that are incorporated or established under the laws of any State; and
 
 &emsp;&emsp;(B) Federal laboratories.
 
@@ -132,7 +132,7 @@ Advanced Research.—
 
 &emsp;(1)
 
-In general.—The Secretary shall establish an advanced research program, consistent with the surface transportation research and technology development strategic plan developed under section 508, that addresses longer-term, higher-risk research that shows potential benefits for improving the durability, efficiency, environmental impact, productivity, and safety (including bicycle and pedestriansafety) of highway and intermodal transportation systems. In carrying out the program, the Secretary shall strive to develop partnerships with the public and private sectors.
+In general.—The Secretary shall establish an advanced research program, consistent with the surface transportation research and technology development strategic plan developed under section 508, that addresses longer-term, higher-risk research that shows potential benefits for improving the durability, efficiency, environmental impact, productivity, and safety (including bicycle and pedestrian safety) of highway and intermodal transportation systems. In carrying out the program, the Secretary shall strive to develop partnerships with the public and private sectors.
 
 &emsp;(2)
 
@@ -346,7 +346,7 @@ Corrosion control and prevention.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Secretary shall make a grant to conduct a study on the costs and benefits of corrosion control and prevention. The studyshall be conducted in conjunction with an interdisciplinary team of experts from the fields of metallurgy, chemistry, economics, and others, as appropriate. Not later than September 30, 2001, the Secretary shall submit to Congress a report on the study results, together with any recommendations.
+In general.—The Secretary shall make a grant to conduct a study on the costs and benefits of corrosion control and prevention. The study shall be conducted in conjunction with an interdisciplinary team of experts from the fields of metallurgy, chemistry, economics, and others, as appropriate. Not later than September 30, 2001, the Secretary shall submit to Congress a report on the study results, together with any recommendations.
 
 &emsp;&emsp;“(B)
 
@@ -358,7 +358,7 @@ Fundamental properties of asphalts and modified asphalts.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Secretary shall continue to carry out section 6016 of the Intermodal Surface Transportation Efficiency Act of 1991 \[Pub. L. 102–240, set out as a note below\]. Additional areas of the program under such section shall be asphalt-water interaction studies and asphalt-aggregate thin film behavior studies.
+In general.—The Secretary shall continue to carry out section 6016 of the Intermodal SurfaceTransportation Efficiency Act of 1991 \[Pub. L. 102–240, set out as a note below\]. Additional areas of the program under such section shall be asphalt-water interaction studies and asphalt-aggregate thin film behavior studies.
 
 &emsp;&emsp;“(B)
 
@@ -592,7 +592,7 @@ Funding.—The guidelines and requirements issued under subparagraph (A) shall e
 
 &emsp;“(2)
 
-Special rule.—Any survey, questionnaire, or interview that the Secretary considers necessary tocarry out the evaluation of any test, deployment project, or program assessment activity under this subtitle shall not be subject to chapter 35 of title 44.
+Special rule.—Any survey, questionnaire, or interview that the Secretary considers necessary to carry out the evaluation of any test, deployment project, or program assessment activity under this subtitle shall not be subject to chapter 35 of title 44.
 
 “(k)
 
@@ -712,7 +712,7 @@ Spectrum.—The Federal Communications Commission shall consider, in consultatio
 
 “(a)
 
-In General.—The Secretary shall carry out a comprehensive program of intelligent transportation system research, development and operational tests of intelligent vehicles and intelligent infrastructure systems, and other similar activities that are necessary to carry out this subtitle.
+In General.—The Secretary shall carry out a comprehensive program of intelligent transportationsystem research, development and operational tests of intelligent vehicles and intelligent infrastructure systems, and other similar activities that are necessary to carry out this subtitle.
 
 “(b)
 
@@ -1088,7 +1088,7 @@ Test Strip.—
 
 &emsp;“(1)
 
-Implementation.—The Administrator, in coordination with the Western Research Institute of the University of Wyoming, shall implement a test strip for the purpose of demonstrating and evaluatingthe unique energy and environmental advantages of using shale oil modified asphalts under extreme climatic conditions.
+Implementation.—The Administrator, in coordination with the Western Research Institute of the University of Wyoming, shall implement a test strip for the purpose of demonstrating and evaluating the unique energy and environmental advantages of using shale oil modified asphalts under extreme climatic conditions.
 
 &emsp;“(2)
 
@@ -1100,7 +1100,7 @@ Report to congress.—Not later than November 30, 1995, the Administrator shall 
 
 “(e)
 
-Annual Report to Congress.—Not later than 180 days after the date of the enactment of this Act \[Dec. 18, 1991\], and on or before November 30th of each year beginning thereafter, the Administrator shall transmit to Congress a report of the progress made in implementing this section.
+Annual Report to Congress.—Not later than 180 days after the date of the enactment of this Act\[Dec. 18, 1991\], and on or before November 30th of each year beginning thereafter, the Administrator shall transmit to Congress a report of the progress made in implementing this section.
 
 “(f)
 

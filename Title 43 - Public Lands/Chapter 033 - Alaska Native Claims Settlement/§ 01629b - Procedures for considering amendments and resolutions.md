@@ -46,7 +46,7 @@ Notwithstanding any provision of the articles of incorporation and bylaws of a N
 
 &emsp;(ii) the board disagrees with the petition for any reason, the board shall submit the amendment and the proponents’ statement to the shareholders for a vote and may, at its discretion, submit an opposing statement or an alternative amendment.
 
-(2) Paragraph (1) shall not apply to a Native Corporation that on or before the date one year after February 3, 1988, elects application of section 1629c(d) of this title in lieu of section 1629c(b) of this title. Until December 18, 1991, paragraph (1) shall not apply to a Native Corporation that elects application of section 1629c(c) of this title in lieu of section 1629c(b) of this title. Insofar as they are not inconsistent with this section, the laws of the State shall govern any shareholder right of petition for Native Corporations.
+(2) Paragraph (1) shall not apply to a Native Corporation that on or before the date one year after February 3, 1988, elects application of section 1629c(d) of this title in lieu of section 1629c(b) of this title. Until December 18, 1991, paragraph (1) shall not apply to a Native Corporation that elects application of section1629c(c) of this title in lieu of section 1629c(b) of this title. Insofar as they are not inconsistent with this section, the laws of the State shall govern any shareholder right of petition for Native Corporations.
 
 #### (d) Voting standards
 

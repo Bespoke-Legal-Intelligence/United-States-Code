@@ -14,7 +14,7 @@ For the purposes of subsection (a), the taxable income shall be adjusted as foll
 
 #### (2) Charitable contributions
 
-&emsp;The deduction for charitable contributions provided under section 170 shall be allowed, but in computing such deduction the limitations in section 170(b)(1)(A), (B), and (D) shall apply, and section 170(b)(2) and (d)(1) shall not apply. For purposes of this paragraph, the term “contribution base” when used in section 170(b)(1) means the taxable income computed with the adjustments (other than the 10-percent limitation) provided in section 170(b)(2) and (d)(1) and without the deduction of the amounts disallowed under paragraphs (5) and (6) of this subsection or the inclusion in gross income of the amounts includible therein as dividends by reason of the application of the provisions of section 555(b) (relating to the inclusion in gross income of a foreign personal holding company of its distributive share of the undistributed foreign personal holding company income of another company in which it is a shareholder).
+&emsp;The deduction for charitable contributions provided under section 170 shall be allowed, but in computing such deduction the limitations in section 170(b)(1)(A), (B), and (D) shall apply, and section 170(b)(2) and (d)(1) shall not apply. For purposes of this paragraph, the term “contribution base” when used in section 170(b)(1) means the taxable income computed with the adjustments (other than the 10-percent limitation) provided in section 170(b)(2) and (d)(1) and without the deduction of the amounts disallowed under paragraphs (5) and (6) of this subsection or the inclusion in gross income of the amounts includible therein as dividends by reason of the application of the provisions of section 555(b) (relating to the inclusion in gross income of a foreign personal holding company of its distributive share ofthe undistributed foreign personal holding company income of another company in which it is a shareholder).
 
 #### (3) Special deductions disallowed
 
@@ -22,7 +22,7 @@ For the purposes of subsection (a), the taxable income shall be adjusted as foll
 
 #### (4) Net operating loss
 
-&emsp;The net operating loss deduction provided in section 172 shall not be allowed, but thereshall be allowed as a deduction the amount of the net operating loss (as defined in section 172(c)) for the preceding taxable year computed without the deductions provided in part VIII (except section 248) of subchapter B.
+&emsp;The net operating loss deduction provided in section 172 shall not be allowed, but there shall be allowed as a deduction the amount of the net operating loss (as defined in section 172(c)) for the preceding taxable year computed without the deductions provided in part VIII (except section 248) of subchapter B.
 
 #### (5) Expenses and depreciation applicable to property of the taxpayer
 
@@ -108,5 +108,5 @@ Provisions for computation of tax on change of annual accounting period upon mak
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 508, 557, 4947, 4948 of this title.
+This section is referred to in sections 170, 508, 557, 4947, 4948 of this title.
 

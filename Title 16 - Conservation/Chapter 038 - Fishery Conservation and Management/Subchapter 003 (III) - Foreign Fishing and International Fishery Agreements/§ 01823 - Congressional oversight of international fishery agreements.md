@@ -92,119 +92,7 @@ Pub. L. 102–587, title I, §1001, Nov. 4, 1992, 106 Stat. 5039, provided that 
 
 #### Fisheries Enforcement in Central Bering Sea and Central Sea of Okhotsk
 
-Pub. L. 102–582, title III, Nov. 2, 1992, 106 Stat. 4906, as amended by Pub. L. 104–43, title V, §502, Nov. 3, 1995, 109 Stat. 391; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
-
-#### “SEC. 301. SHORT TITLE.
-
-“This title may be cited as the ‘Central Bering Sea Fisheries Enforcement Act of 1992’.
-
-#### “SEC. 302. PROHIBITION APPLICABLE TO UNITED STATES VESSELS AND NATIONALS.
-
-“(a)
-
-Prohibition.—Vessels and nationals of the United States are prohibited from conducting fishing operations in the Central Bering Sea and the Central Sea of Okhotsk, except where such fishing operations are conducted in accordance with an international fishery agreement to which the United States and the Russian Federation are parties.
-
-“(b)
-
-Civil Penalties and Permit Sanctions.—A violation of this section shall be subject to civil penalties and permit sanctions under section 308 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1858).
-
-#### “SEC. 303. PORT PRIVILEGES DENIAL FOR FISHING IN CENTRAL BERING SEA.
-
-“(a)
-
-Denial of Port Privileges.—The Secretary of the Treasury shall, after December 31, 1992, in accordance with recognized principles of international law—
-
-&emsp;“(1) withhold or revoke the clearance required by section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91) for any fishing vessel documented under the laws of a nation that is included on a list published under subsection (b); and
-
-&emsp;“(2) deny entry of such fishing vessel to any place in the United States and to the navigable waters of the United States.
-
-“(b)
-
-Publication of List.—Not later than forty-five days after the date of enactment of this Act \[Nov. 2,1992\], the Secretary of Commerce, in consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, shall publish in the Federal Register a list of nations whose nationals or vessels conduct fishing operations in the Central Bering Sea, except where such fishing operations are in accordance with an international fishery agreement to which the United States and the Russian Federation are parties. The Secretary shall publish as an addendum to the list the name of each vessel documented under the laws of each listed nation which conducts fishing operations in the Central Bering Sea. A revised list shall be published whenever the list is no longer accurate, except that a nation may not be removed from the list unless—
-
-&emsp;“(1) the nationals and vessels of that nation have not conducted fishing operations in the Central Bering Sea for the previous ninety days and the nation has committed, through a bilateral agreement with the United States or in any other manner acceptable to the Secretary of Commerce, not to permit its nationals or vessels to resume such fishing operations; or
-
-&emsp;“(2) the nationals and vessels of that nation are conducting fishing operations in the Central Bering Sea that are in accordance with an international fishery agreement to which the United States and the Russian Federation are parties.
-
-“(c)
-
-Notification of Nation.—Before the publication of a list of nations under subsection (b), the Secretary of State shall notify each nation included on that list and explain the requirement to deny the port privileges of fishing vessels of that nation under subsection (a) as a result of such publication.
-
-#### “SEC. 304. DURATION OF PORT PRIVILEGES DENIAL.
-
-“Any denial of port privileges under section 303 with respect to any fishing vessel of a nation shall remain in effect until such nation is no longer listed under section 303(b).
-
-#### “SEC. 305. RESTRICTION ON FISHING IN UNITED STATES EXCLUSIVE ECONOMIC ZONE.
-
-“(a)
-
-Regulations.—Within one hundred and eighty days after the date of enactment of this Act \[Nov. 2, 1992\], after notice and public comment, the Secretary of Commerce shall issue regulations, under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) and any other applicable law, to prohibit—
-
-&emsp;“(1) any permitted fishing vessel from catching, taking, or harvesting fish in a fishery under the geographical authority of the North Pacific Fishery Management Council if such vessel is owned or controlled by any person that also owns or controls a fishing vessel that is listed on the addendum under section 303(b);
-
-&emsp;“(2) any processing facility from receiving any fish caught, taken, or harvested in a fishery under the geographical authority of the North Pacific Fishery Management Council if such facility is owned or controlled by any person that also owns or controls a fishing vessel that is listed on the addendum under section 303(b); and
-
-&emsp;“(3) any permitted fishing vessel from delivering fish caught, taken, or harvested in a fishery under the geographic authority of the North Pacific Fishery Management Council to a processing facility that is owned or controlled by any person that also owns or controls a fishing vessel that is listed on the addendum under section 303(b).
-
-“(b)
-
-Requirement for Submission of Documents.—The Secretary of Commerce shall require under any regulations issued under subsection (a) the submission of any affidavits, financial statements, corporate agreements, and other documents that the Secretary of Commerce determines, after notice and public comment, are necessary to ensure that all vessels and processing facilities are in compliance with this section.
-
-“(c)
-
-Appeals; Duration of Prohibitions.—The regulations issued under subsection (a) shall—
-
-&emsp;“(1) establish procedures for a person to appeal a decision to impose a prohibition under subsection (a) on a vessel or processing facility owned or controlled by that person; and
-
-&emsp;“(2) specify procedures for the removal of any prohibition imposed on a vessel or processing facility under subsection (a)—
-
-&emsp;&emsp;“(A) upon publication of a revised list under section 303(b), and a revised addendum which does not include a fishing vessel owned or controlled by the person who also owns or controls the vessel or facility to which the prohibition applies; or
-
-&emsp;&emsp;“(B) on the date that is ninety days after such person terminates ownership and control in fishing vessels that are listed on the addendum under section 303(b).
-
-#### “SEC. 306. DEFINITIONS.
-
-“In this title, the following definitions apply:
-
-&emsp;“(1)
-
-Central bering sea.—The term ‘Central Bering Sea’ means the central Bering Sea area which is more than two hundred nautical miles seaward of the baselines from which the breadth of the territorial seas of the United States and the Russian Federation are measured.
-
-&emsp;“(2)
-
-Central sea of okhotsk.—The term ‘Central Sea of Okhotsk’ means the Central Sea of Okhotsk area which is more than two hundred nautical miles seaward of the baseline from which the breadth of the territorial sea of the Russian Federation is measured.
-
-&emsp;“(3)
-
-Fishing vessel.—The term ‘fishing vessel’ means any vessel which is used for—
-
-&emsp;&emsp;“(A) catching, taking, or harvesting fish; or
-
-&emsp;&emsp;“(B) aiding or assisting one or more vessels at sea in the performance of fishing operations, including preparation, supply, storage, refrigeration, transportation, or processing.
-
-&emsp;“(4)
-
-Owns or controls.—When used in reference to a vessel or processing facility—
-
-&emsp;&emsp;“(A) the term ‘owns’ means holding legal title to the vessel or processing facility; and
-
-&emsp;&emsp;“(B) the term ‘controls’ includes an absolute right to direct the business of the person owning the vessel or processing facility, to limit the actions of or replace the chief executive officer (by whatever title), a majority of the board of directors, or any general partner (as applicable) of such person, to direct the transfer or operations of the vessel or processing facility, or otherwise to exercise authority over the business of such person, but the term does not include the right simply to participate in those activities of such person or the right to receive a financial return, such as interest or the equivalent of interest, on a loan or other financing obligation.
-
-&emsp;“(5)
-
-Permitted fishing vessel.—The term ‘permitted fishing vessel’ means any fishing vessel that is subject to a permit issued by the Secretary of Commerce under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
-
-&emsp;“(6)
-
-Person.—The term ‘person’ means any individual (whether or not a citizen of the United States), any corporation, partnership, association, cooperative, or other entity (whether or not organized under the laws of any State), and any State, local, or foreign government, or any entity of such government or the Federal Government.
-
-&emsp;“(7)
-
-Processing facility.—The term ‘processing facility’ means any fish processing establishment or fish processing vessel that receives unprocessed fish.
-
-#### “SEC. 307. TERMINATION.
-
-“This title shall cease to have force and effect after the date that is seven years after the date of enactment of this Act \[Nov. 2, 1992\], except that any proceeding with respect to violations of section 302 occurring prior to such termination date shall be conducted as if that section were still in effect.”
+Pub. L. 102–582, title III, Nov. 2, 1992, 106 Stat. 4906, as amended by Pub. L. 104–43, title V, §502, Nov. 3, 1995, 109 Stat. 391; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that this title was to be cited as the “Central Bering Sea Fisheries Enforcement Act of 1992”, prohibited vessels and nationals of United States from conducting fishing operations in Central Bering Sea and Central Sea of Okhotsk, except where such fishing operations were conducted in accordance with international fishery agreement to which United States and Russian Federation were parties, further provided for civil penalties and permit sanctions for violations of these provisions as well as authority to deny port privileges for fishing in Central Bering Sea, further authorized Secretary of Commerce to issue regulations restricting fishing in United States exclusive economic zone, and further provided for definition of terms and that this title would cease to have force and effect after the date that is seven years after Nov. 2, 1992, except that any proceeding with respect to violations occurring prior to such date was to be conducted as if these provisions were still in effect.
 
 #### North Pacific and Bering Sea Fisheries Advisory Body
 
@@ -274,7 +162,7 @@ Pub. L. 101–224, §7, Dec. 12, 1989, 103 Stat. 1907, provided that the governi
 
 Pub. L. 100–220, title I, §1001, Dec. 29, 1987, 101 Stat. 1459, provided that the governing international fishery agreement between the Government of the United States of America and the Government of Japan Concerning Fisheries Off the Coasts of the United States was approved by Congress as a governing international fishery agreement for the purposes of this chapter, and was to enter into force and effect with respect to the United States on Dec. 29, 1987.
 
-Pub. L. 97–389, title IV, §401, Dec. 29, 1982, 96 Stat. 1954, provided that the governing international fishery agreement entered into between the Government of the United States and the Government of Japan pursuantto this chapter, signed at Washington on Sept. 10, 1982, was approved, and was effective on Jan. 1, 1983.
+Pub. L. 97–389, title IV, §401, Dec. 29, 1982, 96 Stat. 1954, provided that the governing international fishery agreement entered into between the Government of the United States and the Government of Japan pursuant to this chapter, signed at Washington on Sept. 10, 1982, was approved, and was effective on Jan. 1, 1983.
 
 #### Governing International Fishery Agreement With Spain
 
@@ -334,7 +222,7 @@ Pub. L. 95–6, §2, Feb. 21, 1977, 91 Stat. 15, as amended by Pub. L. 95–8, �
 
 #### Reciprocal Fisheries Agreement Between United States and Canada
 
-Pub. L. 95–6, §5, as added Pub. L. 95–73, July 27, 1977, 91 Stat. 283; amended Pub. L. 95–314, July 1, 1978, 92 Stat. 376; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided for congressional approval of the Reciprocal Fisheries Agreement for 1978 between the Government of the United States and the Government of Canada, and that the Agreement was to be in force and effect with respect to the United States from Jan.1, 1978, until such later date in 1978 as was to be determined pursuant to the terms of the Agreement.
+Pub. L. 95–6, §5, as added Pub. L. 95–73, July 27, 1977, 91 Stat. 283; amended Pub. L. 95–314, July 1, 1978, 92 Stat. 376; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided for congressional approval of the Reciprocal Fisheries Agreement for 1978 between the Government of the United States and the Government of Canada, and that the Agreement was to be in force and effect with respect to the United States from Jan. 1, 1978, until such later date in 1978 as was to be determined pursuant to the terms of the Agreement.
 
 #### Section Referred to in Other Sections
 

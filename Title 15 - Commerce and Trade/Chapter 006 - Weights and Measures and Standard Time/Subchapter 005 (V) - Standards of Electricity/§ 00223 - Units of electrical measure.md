@@ -1,6 +1,6 @@
 ### §223. Units of electrical measure
 
-From and after July 21, 1950, the legal units of electrical and photometric measurement in theUnited States of America shall be those defined and established as provided in the following paragraphs.
+From and after July 21, 1950, the legal units of electrical and photometric measurement in the United States of America shall be those defined and established as provided in the following paragraphs.
 
 #### Resistance-ohm
 

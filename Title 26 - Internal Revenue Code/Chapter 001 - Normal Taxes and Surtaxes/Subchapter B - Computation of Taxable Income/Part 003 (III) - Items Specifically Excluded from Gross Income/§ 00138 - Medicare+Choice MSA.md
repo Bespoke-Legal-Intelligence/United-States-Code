@@ -34,7 +34,7 @@ For purposes of this section, the term “Medicare+Choice MSA” means a medical
 
 #### (A) In general
 
-&emsp;&emsp;The tax imposed by this chapter for any taxable year in which there is a payment or distribution from a Medicare+Choice MSA which is not used exclusively to pay the qualified medical expenses of the account holder shall be increased by 50 percent of the excess (if any) of—
+&emsp;&emsp;The tax imposed by this chapter for any taxable year in which there is a payment or distribution from a Medicare+Choice MSAwhich is not used exclusively to pay the qualified medical expenses of the account holder shall be increased by 50 percent of the excess (if any) of—
 
 &emsp;&emsp;&emsp;(i) the amount of such payment or distribution, over
 

@@ -8,5 +8,5 @@
 
 #### Effective Date
 
-Section effective July 10, 1984, except that subsec. (a) not applicable with respect to cases under Title 11, Bankruptcy, that are pending on July 10, 1984, or to proceedings arising in or related to such cases, see section 122(a), (b) of Pub. L. 98–353, set out as a note under section 151 of this title.
+Section effective July 10, 1984, except that subsec. (a) not applicable with respect to cases under Title 11,Bankruptcy, that are pending on July 10, 1984, or to proceedings arising in or related to such cases, see section 122(a), (b) of Pub. L. 98–353, set out as a note under section 151 of this title.
 

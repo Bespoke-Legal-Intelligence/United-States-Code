@@ -1,6 +1,6 @@
 ### §960. Expedition against friendly nation
 
-Whoever, within the United States, knowingly begins or sets on foot or provides or prepares a means for or furnishes the money for, or takes part in, any military or naval expedition or enterprise to be carried on from thence against the territory or dominion of any foreign prince or state, or of any colony, district, or people with whom the United States is at peace, shall be fined under this title or imprisoned not more than three years, or both.
+Whoever, within the United States, knowingly begins or sets on foot or provides or prepares a means for or furnishes the money for, or takespart in, any military or naval expedition or enterprise to be carried on from thence against the territory or dominion of any foreign prince or state, or of any colony, district, or people with whom the United States is at peace, shall be fined under this title or imprisoned not more than three years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 745; Pub. L. 103–322, title XXXIII, §330016(1)(J), Sept. 13, 1994, 108 Stat. 2147.)
 

@@ -8,5 +8,5 @@ The person producing an invoice for certification shall at the same time declare
 
 R.S. §2855 derived from act Mar. 3, 1863, ch. 76, §1, 12 Stat. 738.
 
-Section is based on the first sentence of R.S. §2855. The second sentence of R.S. §2855, which related to the disposition of certified copies of invoices, was superseded by section 482(e) of the Tariff Act of 1922, and later by section 482(e) of the Tariff Act of 1933 which is classified to section 1482(e) of this title.
+Section is based on the first sentence of R.S. §2855. The second sentence of R.S. §2855, which related to thedisposition of certified copies of invoices, was superseded by section 482(e) of the Tariff Act of 1922, and later by section 482(e) of the Tariff Act of 1933 which is classified to section 1482(e) of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Requirement of reporting
 
-Any person who pays long-term care benefits shall make a return, according to the forms orregulations prescribed by the Secretary, setting forth—
+Any person who pays long-term care benefits shall make a return, according to the forms or regulations prescribed by the Secretary, setting forth—
 
 &emsp;(1) the aggregate amount of such benefits paid by such person to any individual during any calendar year,
 

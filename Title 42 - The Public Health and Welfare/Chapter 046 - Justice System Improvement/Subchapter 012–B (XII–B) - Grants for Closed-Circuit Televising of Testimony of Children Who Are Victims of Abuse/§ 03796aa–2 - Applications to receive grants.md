@@ -16,6 +16,10 @@ To request a grant under section 3796aa–1 of this title, the chief executive o
 
 “(4) an assurance that the State application and any amendment thereto was made public before submission to the Bureau and, to the extent provided under State law or established procedure, an opportunity to comment thereon was provided to citizens and to neighborhood and community groups.”
 
+#### Transfer of Functions
+
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3796aa–3, 3796aa–5 of this title.

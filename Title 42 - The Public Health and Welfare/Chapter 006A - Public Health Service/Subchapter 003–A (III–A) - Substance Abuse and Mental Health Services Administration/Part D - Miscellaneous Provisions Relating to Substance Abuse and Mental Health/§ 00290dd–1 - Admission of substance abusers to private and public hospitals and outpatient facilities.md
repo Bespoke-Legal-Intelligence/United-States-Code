@@ -2,7 +2,7 @@
 
 #### (a) Nondiscrimination
 
-Substance abusers who are suffering from medical conditions shall not be discriminatedagainst in admission or treatment, solely because of their substance abuse, by any private or public general hospital, or outpatient facility (as defined in section 300s–3(4) of this title) which receives support in any form from any program supported in whole or in part by funds appropriated to any Federal department or agency.
+Substance abusers who are suffering from medical conditions shall not be discriminated against in admission or treatment, solely because of their substance abuse, by any private or public general hospital, or outpatient facility (as defined in section 300s–3(4) of this title) which receives support in any form from any program supported in whole or in part by funds appropriated to any Federal department or agency.
 
 #### (b) Regulations
 
@@ -12,7 +12,7 @@ Substance abusers who are suffering from medical conditions shall not be discrim
 
 #### (2) Department of Veterans Affairs
 
-&emsp;The Secretary of Veterans Affairs, acting through the Under Secretary for Health, shall, to the maximum feasible extent consistent with their responsibilities under title 38, prescribe regulations making applicable the regulations prescribed by the Secretary under paragraph (1) to the provision of hospital care, nursing home care, domiciliary care, and medical services under such title 38 to veterans suffering from substance abuse. In prescribing and implementing regulations pursuant to this paragraph, the Secretary shall, from time to time, consult with the Secretary of Health and Human Services in order to achieve the maximum possible coordination of the regulations, and the implementation thereof, which they each prescribe.
+&emsp;The Secretary of Veterans Affairs, acting through the Under Secretary for Health, shall, to the maximum feasible extent consistent with their responsibilities under title 38, prescribe regulations making applicable the regulations prescribed by the Secretary underparagraph (1) to the provision of hospital care, nursing home care, domiciliary care, and medical services under such title 38 to veterans suffering from substance abuse. In prescribing and implementing regulations pursuant to this paragraph, the Secretary shall, from time to time, consult with the Secretary of Health and Human Services in order to achieve the maximum possible coordination of the regulations, and the implementation thereof, which they each prescribe.
 
 (July 1, 1944, ch. 373, title V, §542, formerly Pub. L. 91–616, title II, §201, Dec. 31, 1970, 84 Stat. 1849, as amended Pub. L. 96–180, §6(a), (b)(1), (2)(B), Jan. 2, 1980, 93 Stat. 1302, 1303; Pub. L. 97–35, title IX, §§961, 966(d), (e), Aug. 13, 1981, 95 Stat. 592, 595; renumbered §521 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(13), Apr. 26, 1983, 97 Stat. 181; Pub. L. 98–509, title III, §301(c)(2), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–570, title VI, §6002(b)(1), Oct. 27, 1986, 100 Stat. 3207–158; renumbered §542, Pub. L. 100–77, title VI, §611(2), July 22, 1987, 101 Stat. 516; Pub. L. 102–321, title I, §131, July 10, 1992, 106 Stat. 368; Pub. L. 103–446, title XII, §1203(a)(2), Nov. 2, 1994, 108 Stat. 4689.)
 

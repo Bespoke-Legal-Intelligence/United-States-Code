@@ -14,5 +14,5 @@ Section constitutes part of section 88 of act Jan. 12, 1895. Remainder of sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b.
+This section is referred to in title 22 section 3714b; title 35 section 2.
 

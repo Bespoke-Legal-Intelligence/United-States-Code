@@ -1,74 +1,50 @@
 ### §5711. Authority to make grants
 
-#### (a) Establishment and operation of runaway and homeless youth centers
+#### (a) Grants for centers and services
 
-The Secretary shall make grants to public and private entities (and combinations of such entities) to establish and operate (including renovation) local runaway and homeless youth centers to provide services to deal primarily with the immediate needs of runaway or otherwise homeless youth, and their families, in a manner which is outside the law enforcement system, the child welfare system, the mental health system, and the juvenile justice system.
+#### (1) In general
+
+&emsp;The Secretary shall make grants to public and nonprofit private entities (and combinations of such entities) to establish and operate (including renovation) local centers to provide services for runaway and homeless youth and for the families of such youth.
+
+#### (2) Services provided
+
+&emsp;Services provided under paragraph (1)—
+
+&emsp;&emsp;(A) shall be provided as an alternative to involving runaway and homeless youth in the law enforcement, child welfare, mental health, and juvenile justice systems;
+
+&emsp;&emsp;(B) shall include—
+
+&emsp;&emsp;&emsp;(i) safe and appropriate shelter; and
+
+&emsp;&emsp;&emsp;(ii) individual, family, and group counseling, as appropriate; and
+
+&emsp;&emsp;(C) may include—
+
+&emsp;&emsp;&emsp;(i) street-based services;
+
+&emsp;&emsp;&emsp;(ii) home-based services for families with youth at risk of separation from the family; and
+
+&emsp;&emsp;&emsp;(iii) drug abuse education and prevention services.
 
 #### (b) Allotment of funds for grants; priority given to certain private entities
 
 (1) Subject to paragraph (2) and in accordance with regulations promulgated under this subchapter, funds for grants under subsection (a) of this section shall be allotted annually with respect to the States on the basis of their relative population of individuals who are less than 18 years of age.
 
-(2) Subject to paragraph (3), the amount allotted under paragraph (1) with respect to each State for a fiscal year shall be not less than $100,000, except that the amount allotted to the Virgin Islands of the United States, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands shall be not less than $45,000 each.
+(2) Subject to paragraph (3), the amount allotted under paragraph (1) with respect to each State for a fiscal year shall be not less than $100,000, except that the amount allotted to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than $45,000 each.
 
 (3) If, as a result of paragraph (2), the amount allotted under paragraph (1) with respect to a State for a fiscal year would be less than the aggregate amount of grants made under this part to recipients in such State for fiscal year 1992, then the amounts allotted to satisfy the requirements of such paragraph shall be reduced pro rata to the extent necessary to allot under paragraph (1) with respect to such State for the fiscal year an amount equal to the aggregate amount of grants made under this part to recipients in such State for fiscal year 1992.
 
 (4) In selecting among applicants for grants under subsection (a) of this section, the Secretary shall give priority to private entities that have experience in providing the services described in such subsection.
 
-#### (c) Street-based services
-
-(1) If for a fiscal year the amount appropriated under section 5751(a)(1) of this title exceeds $50,000,000, the Secretary may make grants under this subsection for that fiscal year to entities that receive grants under subsection (a) of this section to establish and operate street-based service projects for runaway and homeless youth.
-
-(2) For purposes of this part, the term “street-based services” includes—
-
-&emsp;(i) street-based crisis intervention and counseling;
-
-&emsp;(ii) information and referral for housing;
-
-&emsp;(iii) information and referral for transitional living and health care services; and
-
-&emsp;(iv) advocacy, education, and prevention services for—
-
-&emsp;&emsp;(I) alcohol and drug abuse;
-
-&emsp;&emsp;(II) sexually transmitted diseases including HIV/AIDS infection; and
-
-&emsp;&emsp;(III) physical and sexual assault.
-
-#### (d) Home-based services
-
-(1) If for a fiscal year the amount appropriated under section 5751(a)(1) of this title exceeds $50,000,000, the Secretary may make grants for that fiscal year to entities that receive grants under subsection (a) of this section to establish and operate home-based service projects for families that are separated, or at risk of separation, as a result of the physical absence of a runaway youth or youth at risk of family separation.
-
-(2) For purposes of this part—
-
-&emsp;(A) the term “home-based service project” means a project that provides—
-
-&emsp;&emsp;(i) case management; and
-
-&emsp;&emsp;(ii) in the family residence (to the maximum extent practicable)—
-
-&emsp;&emsp;&emsp;(I) intensive, time-limited, family and individual counseling;
-
-&emsp;&emsp;&emsp;(II) training relating to life skills and parenting; and
-
-&emsp;&emsp;&emsp;(III) other services;
-
-> &emsp;designed to prevent youth from running away from their families or to cause runaway youth to return to their families;
-
-&emsp;(B) the term “youth at risk of family separation” means an individual—
-
-&emsp;&emsp;(i) who is less than 18 years of age; and
-
-&emsp;&emsp;(ii)(I) who has a history of running away from the family of such individual;
-
-&emsp;&emsp;(II) whose parent, guardian, or custodian is not willing to provide for the basic needs of such individual; or
-
-&emsp;&emsp;(III) who is at risk of entering the child welfare system or juvenile justice system, as a result of the lack of services available to the family to meet such needs; and
-
-&emsp;(C) the term “time-limited” means for a period not to exceed 6 months.
-
-(Pub. L. 93–415, title III, §311, Sept. 7, 1974, 88 Stat. 1130; Pub. L. 95–115, §7(a)(1), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §18(c), Dec. 8, 1980, 94 Stat. 2762; Pub. L. 98–473, title II, §651, Oct. 12, 1984, 98 Stat. 2123; Pub. L. 100–690, title VII, §7271(a), (b), Nov. 18, 1988, 102 Stat. 4452; Pub. L. 102–586, §3(b), Nov. 4, 1992, 106 Stat. 5018.)
+(Pub. L. 93–415, title III, §311, Sept. 7, 1974, 88 Stat. 1130; Pub. L. 95–115, §7(a)(1), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §18(c), Dec. 8, 1980, 94 Stat. 2762; Pub. L. 98–473, title II, §651, Oct. 12, 1984, 98 Stat. 2123; Pub. L. 100–690, title VII, §7271(a), (b), Nov. 18, 1988, 102 Stat. 4452; Pub. L. 102–586, §3(b), Nov. 4, 1992, 106 Stat. 5018; Pub. L. 106–71, §3(b), Oct. 12, 1999, 113 Stat. 1035.)
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–71, §3(b)(1), added heading and text of subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary shall make grants to public and private entities (and combinations of such entities) to establish and operate (including renovation) local runaway and homeless youth centers to provide services to deal primarily with the immediate needs of runaway or otherwise homeless youth, and their families, in a manner which is outside the law enforcement system, the child welfare system, the mental health system, and the juvenile justice system.”
+
+Subsec. (b)(2). Pub. L. 106–71, §3(b)(2), struck out “the Trust Territory of the Pacific Islands,” after “American Samoa,”.
+
+Subsecs. (c), (d). Pub. L. 106–71, §3(b)(3), struck out subsecs. (c) and (d) which related to street-based services and home-based services, respectively.
 
 1992—Subsec. (a). Pub. L. 102–586, §3(b)(1), substituted “system, the child welfare system, the mental health system, and” for “structure and”.
 
@@ -106,11 +82,7 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, set out as a note under section 5601 of this title.
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5712, 5713, 5751 of this title.
+This section is referred to in sections 5712, 5713 of this title.
 

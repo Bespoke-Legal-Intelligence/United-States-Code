@@ -38,11 +38,11 @@ Basic grant a.—A State shall become eligible for a grant under this paragraph 
 
 Administrative license revocation.—An administrative driver's license suspension or revocation system for individuals who operate motor vehicles while under the influence of alcohol that requires that—
 
-&emsp;&emsp;&emsp;(i) in the case of an individual who, in any 5-year period beginning after the dateof enactment of the Transportation Equity Act for the 21st Century, is determined on the basis of a chemical test to have been operating a motor vehicle while under the influence of alcohol or is determined to have refused to submit to such a test as proposed by a law enforcement officer, the State agency responsible for administering drivers’ licenses, upon receipt of the report of the law enforcement officer—
+&emsp;&emsp;&emsp;(i) in the case of an individual who, in any 5-year period beginning after the date of enactment of the Transportation Equity Act for the 21st Century, is determined on the basis of a chemical test to have been operating a motor vehicle while under the influence of alcohol or is determined to have refused to submit to such a test as proposed by a law enforcement officer, the State agency responsible for administering drivers’ licenses, upon receipt of the report of the law enforcement officer—
 
 &emsp;&emsp;&emsp;&emsp;(I) shall suspend the driver's license of such individual for a period of not less than 90 days if such individual is a first offender in such 5-year period; and
 
-&emsp;&emsp;&emsp;&emsp;(II) shall suspend the driver's license of such individual for a period of not less than 1 year, or revoke such license, if such individual is a repeat offender in such 5-year period; and
+&emsp;&emsp;&emsp;&emsp;(II) shall suspend the driver's license of such individual for a period of not lessthan 1 year, or revoke such license, if such individual is a repeat offender in such 5-year period; and
 
 &emsp;&emsp;&emsp;(ii) the suspension and revocation referred to under clause (i) shall take effect not later than 30 days after the day on which the individual refused to submit to a chemical test or received notice of having been determined to be driving under the influence of alcohol, in accordance with the procedures of the State.
 
@@ -112,7 +112,7 @@ Reducing driving with a suspended license.—The State enacts and enforces a law
 
 &emsp;&emsp;(D)
 
-Use of passive alcohol sensors.—The State provides for a program to acquire passive alcohol sensors to be used by police officers in detecting persons who operate motorvehicles while under the influence of alcohol, and to train police officers in the use of that equipment.
+Use of passive alcohol sensors.—The State provides for a program to acquire passive alcohol sensors to be used by police officers in detecting persons who operate motor vehicles while under the influence of alcohol, and to train police officers in the use of that equipment.
 
 &emsp;&emsp;(E)
 

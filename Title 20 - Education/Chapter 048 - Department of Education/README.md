@@ -207,7 +207,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1221, 5899, 6104 of this title.
+This chapter is referred to in sections 1221, 6104 of this title.
 
 
 ---

@@ -14,7 +14,7 @@
 
 #### References in Text
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (a), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands.For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (a), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, asamended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
 
 For definition of Canal Zone, referred to in subsec. (a), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
@@ -40,5 +40,5 @@ In exercising any authority under the Toxic Substances Control Act (15 U.S.C. 26
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 673 of this title; title 15 section 2608; title 42 sections 2297b–11, 7412; title 49 section 5107.
+This section is referred to in section 673 of this title; title 15 section 2608; title 42 section 7412; title 49 section 5107.
 

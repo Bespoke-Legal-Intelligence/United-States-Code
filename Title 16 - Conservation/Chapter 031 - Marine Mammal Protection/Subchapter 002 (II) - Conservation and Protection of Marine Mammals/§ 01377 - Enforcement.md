@@ -10,7 +10,7 @@ The Secretary may also designate officers and employees of any State or of any p
 
 #### (c) Warrants and other process for enforcement
 
-The judges of the district courts of the United States and the United States magistrate judges may, within their respective jurisdictions, upon proper oath or affirmation showing probable cause, issue such warrants or other process, including warrants or other process issued in admiralty proceedings in United States district courts, as may be required for enforcement of this subchapter and any regulations issued thereunder.
+The judges of the district courts of the United States and the United States magistrate judgesmay, within their respective jurisdictions, upon proper oath or affirmation showing probable cause, issue such warrants or other process, including warrants or other process issued in admiralty proceedings in United States district courts, as may be required for enforcement of this subchapter and any regulations issued thereunder.
 
 #### (d) Execution of process; arrest; search; seizure
 

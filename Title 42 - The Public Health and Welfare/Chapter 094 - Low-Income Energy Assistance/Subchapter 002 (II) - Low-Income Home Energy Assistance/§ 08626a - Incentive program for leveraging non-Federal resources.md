@@ -26,7 +26,7 @@ For purposes of this section, the term “leveraged resources” means the benef
 
 #### (d) Dollar value of leveraged resources
 
-Each State shall quantify the dollar value of leveraged resources received or acquired by such State under this section by using the best available data to calculate such leveraged resources less the sum of any costs incurred by the State to leverage such resources and any cost imposed on the federally eligible low-income households in such State.
+Each State shall quantify the dollar value of leveraged resources received or acquired by suchState under this section by using the best available data to calculate such leveraged resources less the sum of any costs incurred by the State to leverage such resources and any cost imposed on the federally eligible low-income households in such State.
 
 #### (e) Report to Secretary
 

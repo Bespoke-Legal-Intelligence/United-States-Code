@@ -108,7 +108,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 #### (C) Property acquired after involuntary conversion
 
-&emsp;&emsp;If the basis of the property sold or exchanged is determined (in whole or in part)under section 1033(b) (relating to basis of property acquired through involuntary conversion), then the holding and use by the taxpayer of the converted property shall be treated as holding and use by the taxpayer of the property sold or exchanged.
+&emsp;&emsp;If the basis of the property sold or exchanged is determined (in whole or in part) under section 1033(b) (relating to basis of property acquired through involuntary conversion), then the holding and use by the taxpayer of the converted property shall be treated as holding and use by the taxpayer of the property sold or exchanged.
 
 #### (6) Recognition of gain attributable to depreciation
 
@@ -120,7 +120,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 &emsp;&emsp;(A) becomes physically or mentally incapable of self-care, and
 
-&emsp;&emsp;(B) owns property and uses such property as the taxpayer's principal residence during the 5-year period described in subsection (a) for periods aggregating at least 1 year,
+&emsp;&emsp;(B) owns property and uses such property as the taxpayer's principal residence duringthe 5-year period described in subsection (a) for periods aggregating at least 1 year,
 
 > &emsp;then the taxpayer shall be treated as using such property as the taxpayer's principal residence during any time during such 5-year period in which the taxpayer owns the property and resides in any facility (including a nursing home) licensed by a State or political subdivision to care for an individual in the taxpayer's condition.
 
@@ -206,7 +206,7 @@ Subsecs. (c), (d)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his d
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

@@ -38,7 +38,7 @@
 
 > &emsp;shall not exceed the rate determined under subparagraph (B).
 
-&emsp;(B) For the purpose of subparagraph (A), the rate determined under this subparagraphshall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;(B) For the purpose of subparagraph (A), the rate determined under this subparagraph shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;(i) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction prior to such June 1; plus
 
@@ -122,7 +122,7 @@
 
 #### (B) In school and grace period rules
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to any Federal Direct Stafford Loan or Federal DirectUnsubsidized Stafford Loan for which the first disbursement is made on or after October 1, 1998, and before July 1, 2003, the applicable rate of interest for interest which accrues—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to any Federal Direct Stafford Loan or Federal Direct Unsubsidized Stafford Loan for which the first disbursement is made on or after October 1, 1998, and before July 1, 2003, the applicable rate of interest for interest which accrues—
 
 &emsp;&emsp;&emsp;(i) prior to the beginning of the repayment period of the loan; or
 
@@ -186,7 +186,7 @@ The Secretary shall charge the borrower of a loan made under this part an origin
 
 #### (2) Selection by Secretary
 
-&emsp;If a borrower of a loan made under this part does not select a repayment plan described inparagraph (1), the Secretary may provide the borrower with a repayment plan described in subparagraph (A), (B), or (C) of paragraph (1).
+&emsp;If a borrower of a loan made under this part does not select a repayment plan described in paragraph (1), the Secretary may provide the borrower with a repayment plan described in subparagraph (A), (B), or (C) of paragraph (1).
 
 #### (3) Changes in selections
 
@@ -232,7 +232,7 @@ The Secretary shall charge the borrower of a loan made under this part an origin
 
 &emsp;&emsp;(A) that the Internal Revenue Service will disclose to the Secretary tax return information as authorized under section 6103(<i>l</i>)(13) of title 26; and
 
-&emsp;&emsp;(B) that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower's spouse, warrant an adjustment in the borrower's loan repayment as determined using the information described in subparagraph (A), or the alternative documentation described in paragraph (3), the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, in accordance with criteria established by the Secretary.
+&emsp;&emsp;(B) that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower'sspouse, warrant an adjustment in the borrower's loan repayment as determined using the information described in subparagraph (A), or the alternative documentation described in paragraph (3), the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, in accordance with criteria established by the Secretary.
 
 #### (f) Deferment
 
@@ -314,7 +314,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 #### References in Text
 
-Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred toin subsec. (f)(4), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102–325, title IV, July 23, 1992, 106 Stat. 513, 519.
+Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(4), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102–325, title IV, July 23, 1992, 106 Stat. 513, 519.
 
 #### Amendments
 

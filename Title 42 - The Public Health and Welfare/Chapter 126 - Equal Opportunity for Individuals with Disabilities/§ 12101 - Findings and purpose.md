@@ -44,3 +44,15 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 Section 1(a) of Pub. L. 101–336 provided that: “This Act \[enacting this chapter and section 225 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, amending section 706 of Title 29, Labor, and sections 152, 221, and 611 of Title 47, and enacting provisions set out as notes under sections 12111, 12131, 12141, 12161, and 12181 of this title\] may be cited as the ‘Americans with Disabilities Act of 1990’.”
 
+#### Study by General Accounting Office of Existing Disability-Related Employment Incentives
+
+Pub. L. 106–170, title III, §303(a), Dec. 17, 1999, 113 Stat. 1903, provided that:
+
+“(1)
+
+Study.—As soon as practicable after the date of the enactment of this Act \[Dec. 17, 1999\], the Comptroller General of the United States shall undertake a study to assess existing tax credits and other disability-related employment incentives under the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) and other Federal laws. In such study, the Comptroller General shall specifically address the extent to which such credits and other incentives would encourage employers to hire and retain individuals with disabilities.
+
+“(2)
+
+Report.—Not later than 3 years after the date of the enactment of this Act, the Comptroller General shall transmit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a written report presenting the results of the Comptroller General's study conducted pursuant to this subsection, together with such recommendations for legislative or administrative changes as the Comptroller General determines are appropriate.”
+

@@ -14,5 +14,5 @@ Section was enacted as a part of the Flood Control Act of 1970 and not as a part
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1962d–17 of this title.
+This section is referred to in section 1962d–17 of this title; title 33 section 2332.
 

@@ -36,13 +36,19 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, §1617, 110 Stat. 519.
 
 36:5507(c).
 
+&nbsp;
+
 40727(b)(2)
 
 36:5507(b).
 
+&nbsp;
+
 40727(c)
 
 36:5507(d).
+
+&nbsp;
 
 In subsection (a), the words “other activities” are substituted for “other activities conducted by the Corporation” to eliminate unnecessary words.
 

@@ -1,6 +1,6 @@
 ### §5305. Special pay authority
 
-(a) Whenever the President finds that the Government's recruitment or retention efforts with respect to 1 or more occupations in 1 or more areas or locations are, or are likely to become, significantly handicapped, due to any of the circumstances described in subsection (b), he may establish for the areas or locations involved, with respect to individuals in positions paidunder any of the pay systems referred to in subsection (c), higher minimum rates of basic pay for 1 or more grades or levels, occupational groups, series, classes, or subdivisions thereof, and may make corresponding increases in all step rates of the pay range for each such grade or level. However, a minimum rate so established may not exceed the maximum pay rate prescribed by statute for the grade or level by more than 30 percent, and no rate may be established under this section (disregarding any amount payable under subsection (g)) in excess of the rate of basic pay payable for level V of the Executive Schedule. The President may authorize the exercise of the authority conferred on him by this section by the Office of Personnel Management or, in the case of individuals not subject to the provisions of this title governing appointment in the competitive service, by such other agency as he may designate.
+(a) Whenever the President finds that the Government's recruitment or retention efforts with respect to 1 or more occupations in 1 or more areas or locations are, or are likely to become, significantly handicapped, due to any of the circumstances described in subsection (b), he may establish for the areas or locations involved, with respect to individuals in positions paid under any of the pay systems referred to in subsection (c), higher minimum rates of basic pay for 1 or more grades or levels, occupational groups, series, classes, or subdivisions thereof, and may make corresponding increases in all step rates of the pay range for each such grade or level. However, a minimum rate so established may not exceed the maximum pay rate prescribed by statute for the grade or level by more than 30 percent, and no rate may be established under this section (disregarding any amount payable under subsection (g)) in excess of the rate of basic pay payable for level V of the Executive Schedule. The President may authorize the exercise of the authority conferred on him by this section by the Office of Personnel Management or, in the case of individuals not subject to the provisions of this title governing appointment in the competitive service, by such other agency as he may designate.
 
 (b) The circumstances referred to in subsection (a) are—
 
@@ -48,7 +48,7 @@ Subsec. (c)(1). Pub. L. 94–82, §202(c)(2), inserted provision relating to spe
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990,see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 #### Delegation of Functions
 
@@ -185,7 +185,7 @@ Step 2
 | Los Angeles-Anaheim-Riverside, CA Consolidated Metropolitan Statistical Area | 16%&nbsp;&nbsp; |
 | New York-Northern New Jersey-Long Island, NY–NJ–CT Consolidated Metropolitan Statistical Area | 16%&nbsp;&nbsp; |
 | Philadelphia-Wilmington-Trenton, PA–NJ–DE–MD Consolidated Metropolitan Statistical Area | 4%&nbsp;&nbsp; |
-| San Francisco-Oakland-San Jose, CA Consolidated Metropolitan Statistical Area | 16%&nbsp;&nbsp; |
+| San Francisco-Oakland-San Jose, CA Consolidated Metropolitan Statistical Area | 16%   |
 | San Diego, CA Metropolitan Statistical Area | 8%&nbsp;&nbsp; |
 | Washington-Baltimore DC–MD–VA–WV Consolidated Metropolitan Statistical Area | 4%&nbsp;&nbsp; |
 

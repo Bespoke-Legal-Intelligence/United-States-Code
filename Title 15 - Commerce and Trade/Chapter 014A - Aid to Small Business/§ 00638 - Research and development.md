@@ -28,7 +28,7 @@ The Administration is authorized to consult and cooperate with all Government ag
 
 #### (d) Joint programs; approval of agreements; withdrawal of approval; publication in Federal Register
 
-(1) The Administrator is authorized to consult with representatives of small-business concerns with a view to assisting and encouraging such firms to undertake joint programs for research and development carried out through such corporate or other mechanism as may be most appropriate for the purpose. Such joint programsmay, among other things, include the following purposes:
+(1) The Administrator is authorized to consult with representatives of small-business concerns with a view to assisting and encouraging such firms to undertake joint programs for research and development carried out through such corporate or other mechanism as may be most appropriate for the purpose. Such joint programs may, among other things, include the following purposes:
 
 &emsp;(A) to construct, acquire, or establish laboratories and other facilities for the conduct of research;
 
@@ -60,7 +60,7 @@ For the purpose of this section—
 
 &emsp;&emsp;(A) a first phase for determining, insofar as possible, the scientific and technical merit and feasibility of ideas that appear to have commercial potential, as described in subparagraph (B), submitted pursuant to SBIR program solicitations;
 
-&emsp;&emsp;(B) a second phase, to further develop proposals which meet particular program needs, in which awards shall be made based on the scientific and technical merit and feasibility of the proposals, as evidenced by the first phase, considering, among other things, the proposal's commercial potential, as evidenced by—
+&emsp;&emsp;(B) a second phase, to further develop proposals which meet particular program needs, in which awards shall be made based on the scientific and technical merit and feasibilityof the proposals, as evidenced by the first phase, considering, among other things, the proposal's commercial potential, as evidenced by—
 
 &emsp;&emsp;&emsp;(i) the small business concern's record of successfully commercializing SBIR or other research;
 
@@ -228,7 +228,7 @@ The authorization to carry out the Small Business Innovation Research Program un
 
 &emsp;A Federal agency shall not—
 
-&emsp;&emsp;(A) use any of its STTR budget established pursuant to paragraph (1) for the purpose of funding administrative costs of the program, including costs associated with salaries and expenses, or, in the case of a small business concern or a research institution, costs associated with salaries, expenses, and administrative overhead (other than those direct or indirect costs allowable under guidelines of the Office of Management and Budget and the governmentwide Federal Acquisition Regulation issued in accordance with section 421(c)(1) of title 41); or
+&emsp;&emsp;(A) use any of its STTR budget established pursuant to paragraph (1) for the purpose of funding administrative costs of the program,including costs associated with salaries and expenses, or, in the case of a small business concern or a research institution, costs associated with salaries, expenses, and administrative overhead (other than those direct or indirect costs allowable under guidelines of the Office of Management and Budget and the governmentwide Federal Acquisition Regulation issued in accordance with section 421(c)(1) of title 41); or
 
 &emsp;&emsp;(B) make available for the purpose of meeting the requirements of paragraph (1) an amount of its extramural budget for basic research which exceeds the percentage specified in paragraph (1).
 
@@ -244,7 +244,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 &emsp;(2) issue STTR solicitations in accordance with a schedule determined cooperatively with the Administration;
 
-&emsp;(3) unilaterally determine research topics within the agency's STTR solicitations, givingspecial consideration to broad research topics and to topics that further 1 or more critical technologies, as identified—
+&emsp;(3) unilaterally determine research topics within the agency's STTR solicitations, giving special consideration to broad research topics and to topics that further 1 or more critical technologies, as identified—
 
 &emsp;&emsp;(A) by the National Critical Technologies Panel (or its successor) in reports required under section 6683 of title 42; or
 
@@ -292,7 +292,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 &emsp;&emsp;(A) the heads of each of the Federal agencies required by subsection (n) of this section to establish an STTR program;
 
-&emsp;&emsp;(B) the Commissioner of Patents and Trademarks; and
+&emsp;&emsp;(B) the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office; and
 
 &emsp;&emsp;(C) the Director of the Office of Federal Procurement Policy.
 
@@ -408,7 +408,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 &emsp;&emsp;&emsp;(ii) the total amount of Federal research and development contracts awarded to small business concerns in the State;
 
-&emsp;&emsp;(B) the provision of competition outreach support to small business concerns in theState that are involved in research and development; and
+&emsp;&emsp;(B) the provision of competition outreach support to small business concerns in the State that are involved in research and development; and
 
 &emsp;&emsp;(C) the development and dissemination of educational and promotional information relating to the programs under this section to small business concerns in the State.
 
@@ -416,7 +416,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 Program information relating to the SBIR and STTR programs shall be included by each Federal agency in any update or revision required of the Federal agency under section 306(b) of title 5.
 
-(Pub. L. 85–536, §2\[9\], July 18, 1958, 72 Stat. 391; Pub. L. 97–219, §§3–5, July 22, 1982, 96 Stat. 217, 218, 221; Pub. L. 99–443, §§1, 2, Oct. 6, 1986, 100 Stat. 1120; Pub. L. 100–590, title I, §108, Nov. 3, 1988, 102 Stat. 2994; Pub. L. 102–484, div. D, title XLII, §4237(d), Oct. 23, 1992, 106 Stat. 2692; Pub. L. 102–564, title I, §§103, 104, title II, §202(a)–(c), title III, §§301(a), 305, Oct. 28, 1992, 106 Stat. 4250, 4254, 4256, 4257, 4261, 4262; Pub. L. 103–403, title VI, §607, Oct. 22, 1994, 108 Stat. 4204; Pub. L. 104–208, div. D, title I, §110, Sept. 30, 1996, 110 Stat. 3009–733; Pub. L. 105–135, title V, §501, Dec. 2, 1997, 111 Stat. 2620.)
+(Pub. L. 85–536, §2\[9\], July 18, 1958, 72 Stat. 391; Pub. L. 97–219, §§3–5, July 22, 1982, 96 Stat. 217, 218, 221; Pub. L. 99–443, §§1, 2, Oct. 6, 1986, 100 Stat. 1120; Pub. L. 100–590, title I, §108, Nov. 3, 1988, 102 Stat. 2994; Pub. L. 102–484, div. D, title XLII, §4237(d), Oct. 23, 1992, 106 Stat. 2692; Pub. L. 102–564, title I, §§103, 104, title II, §202(a)–(c), title III, §§301(a), 305, Oct. 28, 1992, 106 Stat. 4250, 4254, 4256, 4257, 4261, 4262; Pub. L. 103–403, title VI, §607, Oct. 22, 1994, 108 Stat. 4204; Pub. L. 104–208, div. D, title I, §110, Sept. 30, 1996, 110 Stat. 3009–733; Pub. L. 105–135, title V, §501, Dec. 2, 1997, 111 Stat. 2620; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(5)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
 #### Repeal of Subsection (s)
 
@@ -441,6 +441,8 @@ Section 105 of the Small Business Research and Development Enhancement Act of 19
 Section 209 of act July 30, 1953, ch. 282, title II, 67 Stat. 237, was previously classified to this section. See section 645 of this title and Codification note set out under section 631 of this title.
 
 #### Amendments
+
+1999—Subsec. (p)(1)(B). Pub. L. 106–113 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the Commissioner of Patents and Trademarks; and”.
 
 1997—Subsec. (e)(4)(A). Pub. L. 105–135, §501(b)(1)(B), substituted “subparagraph (B)” for “subparagraph (B)(ii)”.
 
@@ -478,7 +480,7 @@ Subsec. (e)(4)(C). Pub. L. 102–564, §103(a)(2), added subpar. (C) and struck 
 
 Subsec. (e)(6) to (8). Pub. L. 102–564, §202(b), added pars. (6) to (8).
 
-Subsec. (f). Pub. L. 102–564, §103(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) consistedof pars. (1) and (2) relating to Federal agency extramural budget expenditures for fiscal years 1982 and thereafter for small business concerns in connection with small business innovation research programs meeting the requirements of the Small Business Innovation Development Act of 1982.
+Subsec. (f). Pub. L. 102–564, §103(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) consisted of pars. (1) and (2) relating to Federal agency extramural budget expenditures for fiscal years 1982 and thereafter for small business concerns in connection with small business innovation research programs meeting the requirements of the Small Business Innovation Development Act of 1982.
 
 Subsec. (f)(2). Pub. L. 102–484, §4237(d)(2)(B), (h)(2), temporarily struck out par. (2) which read “Amounts appropriated for atomic energy defense programs of the Department of Energy shall for the purposes of paragraph (1) be excluded from the amount of the research or research and development budget of that Department.” See section 4237(h)(2) of Pub. L. 102–484 set out in a Small Business Innovation Research Program in Department of Defense note below.
 
@@ -518,9 +520,9 @@ Subsec. (r). Pub. L. 102–564, §305, added subsec. (r).
 
 Subsecs. (e) to (k). Pub. L. 97–219, §4, added subsecs. (e) to (k).
 
-#### Effective Date of 1996 Amendment
+#### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 104–208 effective Oct. 1, 1996, see section 3 of Pub. L. 104–208, set out as a note under section 633 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective and Termination Dates of 1997 Amendment
 
@@ -528,9 +530,13 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 Section 501(b)(2) of Pub. L. 105–135 provided that: “Effective October 1, 2001, section 9(s) of the Small Business Act \[15 U.S.C. 638(s)\] (as added by paragraph (1) of this subsection) is repealed.”
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 effective Oct. 1, 1996, see section 3 of Pub. L. 104–208, set out as a note under section 633 of this title.
+
 #### Effective and Termination Dates of 1992 Amendment
 
-For effective and termination dates of amendment by Pub. L. 102–484, see section 4237(g) and (h) of Pub. L. 102–484, set out in a Small Business Innovation Research Program in Department of Defense note below.
+For effective and termination dates of amendment by Pub. L. 102–484, see section 4237(g) and (h) of Pub. L.102–484, set out in a Small Business Innovation Research Program in Department of Defense note below.
 
 #### Termination Date of 1982 Amendment
 
@@ -558,7 +564,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(7) the small business innovation research program has also helped to increase exports from small business concerns;
 
-&emsp;“(8) despite the general success of the small business innovation research program, the proportion ofFederal research and development funds received by small business concerns has not increased over the life of the program, but has remained at 3 percent; and
+&emsp;“(8) despite the general success of the small business innovation research program, the proportion of Federal research and development funds received by small business concerns has not increased over the life of the program, but has remained at 3 percent; and
 
 &emsp;“(9) although the participating Federal agencies have successfully implemented most aspects of the small business innovation research program, additional outreach efforts are necessary to stimulate increased participation of socially and economically disadvantaged small business concerns.
 
@@ -626,7 +632,7 @@ Repeal of Exclusion of Certain Activities.—\[Amended this section.\]
 
 Percentage of Required Expenditures for SBIR Contracts.—(1) The Small Business Innovation Research Program shall apply to the Department of Defense (including the military departments) as if the percentage specified in section 9(f)(1) of the Small Business Act (15 U.S.C. 638(f)(1)) with respect to fiscal years after fiscal year 1982 were determined in accordance with the table set forth in paragraph (2) (rather than 1.25 percent).
 
-“(2)(A) The percentage under section 9(f)(1) of the Small Business Act (15 U.S.C. 638(f)(1)) for any fiscal year for the Department of Defense and each military department shall be determined in accordance with the following table:
+“(2)(A) The percentage under section 9(f)(1) of the Small Business Act (15 U.S.C. 638(f)(1)) for any fiscalyear for the Department of Defense and each military department shall be determined in accordance with the following table:
 
 &nbsp;
 
@@ -801,7 +807,7 @@ Section 202(e) of Pub. L. 102–564 provided that: “Not later than March 31, 1
 
 Section 6 of Pub. L. 97–219, as amended by Pub. L. 99–443, §3, Oct. 6, 1986, 100 Stat. 1120; Pub. L. 100–418, title VIII, §8008, Aug. 23, 1988, 102 Stat. 1561; Pub. L. 100–647, title IX, §9003, Nov. 10, 1988, 102 Stat. 3808, provided that:
 
-“(a) The Comptroller General, no later than December 31, 1988, shall transmit a report to the appropriate committees of the House of Representatives and of the Senate evaluating the effectiveness to date of phase one and phase two of the SBIR Program as set out in section 9(e)(4) of the Small Business Act \[15 U.S.C. 638(e)(4)\]. Such report shall examine the quality of the research supported by the SBIR Program compared to that traditionally supported by the affected agencies, and the extent to which the goals of the SBIR Program are being met. Such report shall also include the judgments of the heads of departments and agencies as to the effect of this Act \[amending this section\] on research programs.
+“(a) The Comptroller General, no later than December 31, 1988, shall transmit a report to the appropriate committees of the House of Representatives and of the Senate evaluating the effectiveness to date of phase one and phase two of the SBIR Program as set out in section 9(e)(4) of the Small Business Act \[15 U.S.C. 638(e)(4)\]. Such report shall examine the quality of the research supported by the SBIR Program compared tothat traditionally supported by the affected agencies, and the extent to which the goals of the SBIR Program are being met. Such report shall also include the judgments of the heads of departments and agencies as to the effect of this Act \[amending this section\] on research programs.
 
 “(b) The Comptroller General, no later than December 31, 1991, shall transmit to such committees an update of the report mandated under subsection (a). Such report, in addition, shall include an evaluation of phase three of the SBIR Program including a discussion of the aggregate commercial trends for products which are then currently in or have completed phase three of the program.
 
@@ -817,7 +823,7 @@ Section 6 of Pub. L. 97–219, as amended by Pub. L. 99–443, §3, Oct. 6, 1986
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 637, 645, 649 of this title; title 7 section 7624; title 10 sections 2302, 2304, 2320, 2500; title 41 sections 253, 259, 416.
+This section is referred to in sections 637, 645, 649 of this title; title 7 section 7624; title 10 sections 2302, 2304, 2320, 2500; title 23 section 505; title 29 section 3031; title 41 sections 253, 259, 416.
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

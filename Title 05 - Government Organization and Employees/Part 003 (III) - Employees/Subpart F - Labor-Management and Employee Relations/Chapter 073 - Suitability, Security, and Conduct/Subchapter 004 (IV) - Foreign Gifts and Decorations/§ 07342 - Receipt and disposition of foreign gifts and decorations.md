@@ -114,7 +114,7 @@
 
 &emsp;(C) take any other actions necessary to carry out the purpose of this section.
 
-(h) The Attorney General may bring a civil action in any district court of the United States against any employee who knowingly solicits oraccepts a gift from a foreign government not consented to by this section or who fails to deposit or report such gift as required by this section. The court in which such action is brought may assess a penalty against such employee in any amount not to exceed the retail value of the gift improperly solicited or received plus $5,000.
+(h) The Attorney General may bring a civil action in any district court of the United States against any employee who knowingly solicits or accepts a gift from a foreign government not consented to by this section or who fails to deposit or report such gift as required by this section. The court in which such action is brought may assess a penalty against such employee in any amount not to exceed the retail value of the gift improperly solicited or received plus $5,000.
 
 (i) The President shall direct all Chiefs of a United States Diplomatic Mission to inform their host governments that it is a general policy of the United States Government to prohibit United States Government employees from receiving gifts or decorations of more than minimal value.
 

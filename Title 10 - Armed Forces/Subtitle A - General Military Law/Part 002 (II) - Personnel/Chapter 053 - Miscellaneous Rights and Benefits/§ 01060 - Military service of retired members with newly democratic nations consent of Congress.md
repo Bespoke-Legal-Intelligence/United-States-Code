@@ -18,7 +18,7 @@ Determination of Newly Democratic Nations.—The Secretary concerned and the Sec
 
 (d)
 
-Reports to Congressional Committees.—The Secretary concerned and the Secretary of State shall notify the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives of each approval under subsection (b) and each determination under subsection (c).
+Reports to Congressional Committees.—The Secretary concerned and the Secretary of State shall notify the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on International Relations of the House of Representatives of each approval under subsection (b) and each determination under subsection (c).
 
 (e)
 
@@ -32,17 +32,15 @@ Retired Member Defined.—In this section, the term “retired member” means a
 
 Civil Employment by Foreign Governments.—For a provision of law providing the consent of Congress to civil employment by foreign governments, see section 908 of title 37.
 
-(Added Pub. L. 103–160, div. A, title XIV, §1433(b)(1), Nov. 30, 1993, 107 Stat. 1834, §1058; renumbered §1060, Pub. L. 103–337, div. A, title X, §1070(a)(6)(A), Oct. 5, 1994, 108 Stat. 2855; amended Pub. L. 104–106, div. A, title XV, §1502(a)(13), Feb. 10, 1996, 110 Stat. 503.)
+(Added Pub. L. 103–160, div. A, title XIV, §1433(b)(1), Nov. 30, 1993, 107 Stat. 1834, §1058; renumbered §1060, Pub. L. 103–337, div. A, title X, §1070(a)(6)(A), Oct. 5, 1994, 108 Stat. 2855; amended Pub. L. 104–106, div. A, title XV, §1502(a)(13), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Amendments
+
+1999—Subsec. (d). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 1996—Subsec. (d). Pub. L. 104–106 substituted “Committee on National Security and the Committee on International Relations” for “Committee on Armed Services and the Committee on Foreign Affairs”.
 
 1994—Pub. L. 103–337 renumbered section 1058 of this title as this section.
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date
 

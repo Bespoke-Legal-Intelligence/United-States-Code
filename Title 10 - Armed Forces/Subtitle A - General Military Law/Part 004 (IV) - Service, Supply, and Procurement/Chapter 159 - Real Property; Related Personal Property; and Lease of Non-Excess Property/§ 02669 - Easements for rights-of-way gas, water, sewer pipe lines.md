@@ -1,6 +1,6 @@
 ### §2669. Easements for rights-of-way: gas, water, sewer pipe lines
 
-(a) If the Secretary of a military department finds that it will be in the public interest and will not substantially injure the interest of the United States in the property affected, he may grant, upon such terms as he considers advisable, easements for rights-of-way over, in, and upon public lands permanently withdrawn or reserved for the use of that department, and other lands under his control, for gas, water, and sewer pipe lines, to a State, Territory, Commonwealth, or possession, or political subdivision thereof, or to a citizen, association, partnership, or corporation of a State, Territory, Commonwealth, or possession.
+(a) If the Secretary of a military department finds that it will be in the public interest and will not substantially injure the interest of the United States in the property affected, he may grant, upon such terms as he considers advisable, easements for rights-of-way over, in, and upon public lands permanently withdrawn or reserved for the use of that department, and other lands under his control, for gas, water, andsewer pipe lines, to a State, Territory, Commonwealth, or possession, or political subdivision thereof, or to a citizen, association, partnership, or corporation of a State, Territory, Commonwealth, or possession.
 
 (b) No easement granted under this section may include more land than is necessary for the easement.
 

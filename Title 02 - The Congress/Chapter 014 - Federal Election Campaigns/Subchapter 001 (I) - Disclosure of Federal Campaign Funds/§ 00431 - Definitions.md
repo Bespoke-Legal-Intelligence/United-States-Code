@@ -268,5 +268,5 @@ Section 302 of Pub. L. 96–187, as amended by Pub. L. 100–418, title V, §511
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 58, 59e, 433, 437a of this title; title 18 sections 602, 603, 607; title 22 section 3944; title 42 sections 1973gg–1, 5043.
+This section is referred to in sections 58, 59e, 433, 437a of this title; title 18 sections 602, 603, 607; title 20 section 1094; title 22 section 3944; title 42 sections 1973gg–1, 5043.
 

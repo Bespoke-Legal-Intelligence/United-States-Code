@@ -48,17 +48,13 @@ Definitions.—In this section:
 
 &emsp;(1) The term “contract services” means all services that are reported to the Office of Management and Budget pursuant to OMB Circular A–11 (relating to preparation and submission of budget estimates) in budget object classes that are designated in the Object Class 25 series.
 
-&emsp;(2) The term “advisory and assistance services object class” means those contract services constituting the budget object class that is denominated “Advisory and Assistance Service” and designated (as of the date of the enactment of this section) as Object Class 25.1 (or any similar object class established after the date of the enactment of this section for the reporting of obligations for advisory and assistance contract services).
+&emsp;(2) The term “advisory and assistance services object class” means those contract services constituting the budget object class that is denominated “Advisory and Assistance Service” and designated (as of October 17, 1998) as Object Class 25.1 (or any similar object class established after October 17, 1998, for the reporting of obligations for advisory and assistance contract services).
 
-&emsp;(3) The term “miscellaneous services object class” means those contract services constituting the budget object class that is denominated “Other Services (services not otherwise specified in the 25 series)” and designated (as of the date of the enactment of this section) as Object Class 25.2 (or any similar object class established after the date of the enactment of this section for the reporting of obligations for miscellaneous or unspecified contract services).
+&emsp;(3) The term “miscellaneous services object class” means those contract services constituting the budget object class that is denominated “Other Services (services not otherwise specified in the 25 series)” and designated (as of October 17, 1998) as Object Class25.2 (or any similar object class established after October 17, 1998, for the reporting of obligations for miscellaneous or unspecified contract services).
 
-&emsp;(4) The term “authorized exemptions” means those exemptions authorized (as of the date of the enactment of this section) under Department of Defense Directive 4205.2, captioned “Acquiring and Managing Contracted Advisory and Assistance Services (CAAS)” and issued by the Under Secretary of Defense for Acquisition and Technology on February 10, 1992, such exemptions being set forth in Enclosure 3 to that directive (captioned “CAAS Exemptions”).
+&emsp;(4) The term “authorized exemptions” means those exemptions authorized (as of October 17, 1998) under Department of Defense Directive 4205.2, captioned “Acquiring and Managing Contracted Advisory and Assistance Services (CAAS)” and issued by the Under Secretary of Defense for Acquisition and Technology on February 10, 1992, such exemptions being set forth in Enclosure 3 to that directive (captioned “CAAS Exemptions”).
 
-(Added Pub. L. 105–261, div. A, title IX, §911(a)(1), Oct. 17, 1998, 112 Stat. 2097.)
-
-#### References in Text
-
-The date of the enactment of this section, referred to in subsec. (f)(2) to (4), is the date of enactment of Pub. L. 105–261, which was approved Oct. 17, 1998.
+(Added Pub. L. 105–261, div. A, title IX, §911(a)(1), Oct. 17, 1998, 112 Stat. 2097; amended Pub. L. 106–65, div. A, title X, §1066(a)(17), Oct. 5, 1999, 113 Stat. 771.)
 
 #### Prior Provisions
 
@@ -66,7 +62,17 @@ A prior section 2212, added Pub. L. 100–370, §1(d)(2)(A), July 19, 1988, 102 
 
 Another prior section 2212, added Pub. L. 95–356, title VIII, §802(a)(1), Sept. 8, 1978, 92 Stat. 585; amended Pub. L. 97–258, §3(b)(5), Sept. 18, 1982, 96 Stat. 1063, related to transmission of annual military construction authorization request, prior to repeal by Pub. L. 97–214, §7(1), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982, applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2859 of this title.
 
+#### Amendments
+
+1999—Subsec. (f)(2), (3). Pub. L. 106–65 substituted “as of October 17, 1998” for “as of the date of the enactment of this section” and “after October 17, 1998,” for “after the date of the enactment of this section”.
+
+Subsec. (f)(4). Pub. L. 106–65, §1066(a)(17)(B), substituted “as of October 17, 1998” for “as of the date of the enactment of this section”.
+
+#### Change of Name
+
+Reference to Under Secretary of Defense for Acquisition and Technology deemed to refer to Under Secretary of Defense for Acquisition, Technology, and Logistics, pursuant to section 911(a)(1) of Pub. L. 106–65, set out as a note under section 133 of this title.
+
 #### Transition
 
-Pub. L. 105–261, div. A, title IX, §911(b), Oct. 17, 1998, 112 Stat. 2099, provided that: “For the budget for fiscal year 2000, and the reporting of information to the Office of Management and Budget in connection with the preparation of that budget, section 2212 of title 10, United States Code, as added by subsection (a), shall beapplied by substituting ‘30 percent’ in subsection (a) for ‘15 percent’.”
+Pub. L. 105–261, div. A, title IX, §911(b), Oct. 17, 1998, 112 Stat. 2099, provided that: “For the budget for fiscal year 2000, and the reporting of information to the Office of Management and Budget in connection with the preparation of that budget, section 2212 of title 10, United States Code, as added by subsection (a), shall be applied by substituting ‘30 percent’ in subsection (a) for ‘15 percent’.”
 

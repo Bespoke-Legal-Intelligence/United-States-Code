@@ -30,7 +30,7 @@ As used in this chapter:
 
 (11) The term “long-term contract” means, when used in relation to solid waste supply, a contract of sufficient duration to assure the viability of a resource recovery facility (to the extent that such viability depends upon solid waste supply).
 
-(12) The term “manifest” means the form used for identifying the quantity, composition, andthe origin, routing, and destination of hazardous waste during its transportation from the point of generation to the point of disposal, treatment, or storage.
+(12) The term “manifest” means the form used for identifying the quantity, composition, and the origin, routing, and destination of hazardous waste during its transportation from the point of generation to the point of disposal, treatment, or storage.
 
 (13) The term “municipality” (A) means a city, town, borough, county, parish, district, or other public body created by or pursuant to State law, with responsibility for the planning or administration of solid waste management, or an Indian tribe or authorized tribal organization or Alaska Native village or organization, and (B) includes any rural community or unincorporated town or village or any other public entity for which an application for assistance is made by a State or political subdivision thereof.
 
@@ -140,5 +140,5 @@ Enforcement functions of Administrator or other official of Environmental Protec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5919, 6921, 6939e, 6991, 9601, 9614 of this title; title 10 section 2708; title 25 section 3902; title 26 section 4662; title 33 section 2601; title 46 App. section 883; title 49 section 5702.
+This section is referred to in sections 5919, 6921, 6939e, 6991, 9601, 9614 of this title; title 10 section 2708; title 25section 3902; title 26 section 4662; title 33 section 2601; title 46 App. section 883; title 49 sections 5702, 60128.
 

@@ -10,7 +10,7 @@
 
 1991—Pub. L. 102–83 renumbered section 1743 of this title as this section.
 
-1989—Pub. L. 101–237 substituted “Secretary's” for “Administrator's” in subsec. (a) and “Secretary” for “Administrator” wherever appearing in subsecs. (a) and (b).
+1989—Pub. L. 101–237 substituted “Secretary's” for “Administrator's” in subsec. (a) and “Secretary” for“Administrator” wherever appearing in subsecs. (a) and (b).
 
 1976—Subsec. (a). Pub. L. 94–502 substituted “the Administrator's” for “his” and “the Administrator may agree” for “he may agree”.
 

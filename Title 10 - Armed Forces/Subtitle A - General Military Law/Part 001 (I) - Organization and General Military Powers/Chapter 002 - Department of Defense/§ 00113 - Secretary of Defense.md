@@ -1,6 +1,6 @@
 ### §113. Secretary of Defense
 
-(a) There is a Secretary of Defense, who is the head of the Department of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate. A person may not be appointed as Secretary of Defense within 10 years after relief from active duty as a commissioned officer of a regular component of an armed force.
+(a) There is a Secretary of Defense, who is the head of the Department of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate. A person may not be appointed as Secretary of Defensewithin 10 years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
 (b) The Secretary is the principal assistant to the President in all matters relating to the Department of Defense. Subject to the direction of the President and to this title and section 2 of the National Security Act of 1947 (50 U.S.C. 401), he has authority, direction, and control over the Department of Defense.
 
@@ -56,7 +56,7 @@
 
 (3) The Secretary shall transmit to Congress the report required for each year under paragraph (1) at the same time that the President submits the budget to Congress under section 1105 of title 31 in that year. Such report shall be transmitted in both classified and unclassified form.
 
-(j)(1) Not later than April 8 of each year, the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives a report on the cost of stationing United States forces outside of the United States. Each such report shall include a detailed statement of the following:
+(j)(1) Not later than April 8 of each year, the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report on the cost of stationing United States forces outside of the United States. Each such report shall include a detailed statement of the following:
 
 &emsp;(A) Costs incurred in the United States and costs incurred outside the United States in connection with the stationing of United States forces outside the United States.
 
@@ -68,7 +68,7 @@
 
 (3) In this subsection, the term “United States”, when used in a geographic sense, includes the territories and possessions of the United States.
 
-(k) The Secretary of Defense, with the advice and assistance of the Chairman of the JointChiefs of Staff, shall provide annually to the Secretaries of the military departments and to the commanders of the combatant commands written guidelines to direct the effective detection and monitoring of all potential aerial and maritime threats to the national security of the United States. Those guidelines shall include guidance on the specific force levels and specific supporting resources to be made available for the period of time for which the guidelines are to be in effect.
+(k) The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall provide annually to the Secretaries of the military departments and to the commanders of the combatant commands written guidelines to direct the effective detection and monitoring of all potential aerial and maritime threats to the national security of the United States. Those guidelines shall include guidance on the specific force levels and specific supporting resources to be made available for the period of time for which the guidelines are to be in effect.
 
 (<i>l</i>) The Secretary shall include in the annual report to Congress under subsection (c) the following:
 
@@ -88,7 +88,7 @@ Information To Accompany Funding Request for Contingency Operation.—Whenever t
 
 &emsp;(2) What the President has identified on the basis of those objectives as the date, or the set of conditions, that defines the endpoint of the operation.
 
-(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 517, §133; amended Pub. L. 96–513, title V, §511(3), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–252, title XI, §1105, Sept. 8, 1982, 96 Stat. 739; Pub. L. 97–295, §1(1), Oct. 12, 1982, 96 Stat. 1287; renumbered §113 and amended Pub. L. 99–433, title I, §§101(a)(2), 102, 110(b)(2), (d)(2), title III, §301(b)(2), title VI, §603(b), Oct. 1, 1986, 100 Stat. 994, 996, 1002, 1022, 1075; Pub. L. 100–26, §7(d)(1), Apr. 21, 1987, 101 Stat. 280; Pub. L. 100–180, div. A, title XII, §1214, Dec. 4, 1987, 101 Stat. 1157; Pub. L. 100–370, §1(<i>o</i>)(1), July 19, 1988, 102 Stat. 850; Pub. L. 100–456, div. A, title VII, §731, title XI, §1101, Sept. 29, 1988, 102 Stat. 2003, 2042; Pub. L. 101–189, div. A, title XVI, §1622(c)(1), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 101–510, div. A, title XIII, §1322(a)(1), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 102–190, div. A, title III, §341, Dec. 5, 1991, 105 Stat. 1343; Pub. L. 103–337, div. A, title X, §1070(a)(1), title XVI, §1671(c)(2), Oct. 5, 1994, 108 Stat. 2855, 3014; Pub. L. 104–106, div. A, title XV, §§1501(a)(8)(B), 1502(a)(3), 1503(a)(1), Feb. 10, 1996, 110 Stat. 495, 502, 510; Pub. L. 104–201, div. A, title XII, §1255(c), Sept. 23, 1996, 110 Stat. 2698; Pub. L. 105–85, div. A, title IX, §903, Nov. 18, 1997, 111 Stat. 1854; Pub. L. 105–261, div. A, title IX, §915(a), title XII, §1212(b), Oct. 17, 1998, 112 Stat. 2101, 2152.)
+(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 517, §133; amended Pub. L. 96–513, title V, §511(3), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–252, title XI, §1105, Sept. 8, 1982, 96 Stat. 739; Pub. L. 97–295, §1(1), Oct. 12, 1982, 96 Stat. 1287; renumbered §113 and amended Pub. L. 99–433, title I, §§101(a)(2), 102, 110(b)(2), (d)(2), title III, §301(b)(2), title VI, §603(b), Oct. 1, 1986, 100 Stat. 994, 996, 1002, 1022, 1075; Pub. L. 100–26, §7(d)(1), Apr. 21, 1987, 101 Stat. 280; Pub. L. 100–180, div. A, title XII, §1214, Dec. 4, 1987, 101 Stat. 1157; Pub. L. 100–370, §1(<i>o</i>)(1), July 19, 1988, 102 Stat. 850; Pub. L. 100–456, div. A, title VII, §731, title XI, §1101, Sept. 29, 1988, 102 Stat. 2003, 2042; Pub. L. 101–189, div. A, title XVI, §1622(c)(1), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 101–510, div. A, title XIII, §1322(a)(1), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 102–190, div. A, title III, §341, Dec. 5, 1991, 105 Stat. 1343; Pub. L. 103–337, div. A, title X, §1070(a)(1), title XVI, §1671(c)(2), Oct. 5, 1994, 108 Stat. 2855, 3014; Pub. L. 104–106, div. A, title XV, §§1501(a)(8)(B), 1502(a)(3), 1503(a)(1), Feb. 10, 1996, 110 Stat. 495, 502, 510; Pub. L. 104–201, div. A, title XII, §1255(c), Sept. 23, 1996, 110 Stat. 2698; Pub. L. 105–85, div. A, title IX, §903, Nov. 18, 1997, 111 Stat. 1854; Pub. L. 105–261, div. A, title IX, §915(a), title XII, §1212(b), Oct. 17, 1998, 112 Stat. 2101, 2152; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 Historical and Revision Notes<br>1962
 
@@ -116,7 +116,7 @@ Act
 
 5:171a(d).
 
-5:171a-1.
+5:171a–1.
 
 5:171a(f).
 
@@ -150,7 +150,7 @@ July 9, 1952, ch. 608, §257(e), 66 Stat. 497; Sept. 3, 1954, ch. 1257, §702(c)
 
 In subsection (a), the last sentence is substituted for 5 U.S.C. 171a(a) (proviso).
 
-In subsection (b), the words “this title and section 401 of title 50” are substituted for 5 U.S.C. 171a(b) (13th through 30th words of last sentence), since those words merely described the coverage of this title and section 401 of title 50.
+In subsection (b), the words “this title and section 401 of title 50” are substituted for 5 U.S.C. 171a(b) (13ththrough 30th words of last sentence), since those words merely described the coverage of this title and section 401 of title 50.
 
 In subsection (c), the words “during the period covered by the report” are inserted for clarity. The following substitutions are made: “under section 125 of this title” for “pursuant to the provisions of this Act” since 125 of this title relates to the duty of the Secretary of Defense to take action to save public funds and to eliminate duplication in the Department of Defense; and the last 22 words of clause (3) for 5 U.S.C. 171a–1 (last 13 words).
 
@@ -185,6 +185,8 @@ The committee notes that the source section does not specify the period of time 
 In codifying this provision, the committee also changed the term “United States troops” in the source law to “United States forces” for consistency in usage in title 10 and as being preferable usage. No change in meaning is intended. The committee also changed “overseas” to “outside the United States” and defined “United States” for this purpose to include the territories and possessions of the United States. The committee was concerned that the term “overseas” read literally could include Hawaii or Guam, an interpretation clearly not intended in enacting section 8042. The committee notes that the Senate report referred to above states “For the purposes of this report \[meaning the new DOD annual report\], U.S. forces stationed overseas are considered to be those outside of the United States and its territories.”. The committee extrapolates from this statement that provisions in the report requirement relating to expenditures “overseas” and costs incurred “overseas” are also to be construed as relating to matters outside the United States and its territories and has prepared the codified provision accordingly.
 
 #### Amendments
+
+1999—Subsec. (j)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
 1998—Subsec. (<i>l</i>). Pub. L. 105–261, §915(a), added subsec. (<i>l</i>).
 
@@ -246,10 +248,6 @@ Subsec. (i) \[formerly §138(h)\]. Pub. L. 97–252, §1105, added subsec. (h). 
 
 1980—Subsec. (b). Pub. L. 96–513 substituted “section 2 of the National Security Act of 1947 (50 U.S.C. 401)” for “section 401 of title 50”.
 
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
-
 #### Effective Date of 1996 Amendment
 
 Section 1501(f)(3) of Pub. L. 104–106 provided that: “The amendments made by this section \[see Tables for classification\] shall take effect as if included in the Reserve Officer Personnel Management Act \[Pub. L. 103–337, div. A, title XVI\] as enacted on October 5, 1994.”
@@ -273,6 +271,328 @@ For assignment of certain emergency preparedness functions to Secretary of Defen
 #### Order of Succession
 
 For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+
+#### Establishment of Logistics Standards for Sustained Military Operations
+
+Pub. L. 106–65, div. A, title III, §366, Oct. 5, 1999, 113 Stat. 578, provided that:
+
+“(a)
+
+Establishment of Standards.—The Secretary of each military department shall establish, for deployable units of each of the Armed Forces under the jurisdiction of the Secretary, standards regarding—
+
+&emsp;“(1) the level of spare parts that the units must have on hand; and
+
+&emsp;“(2) similar logistics and sustainment needs of the units.
+
+“(b)
+
+Basis for Standards.—The standards to be established for a unit under subsection (a) shall be based upon the following:
+
+&emsp;“(1) The unit's wartime mission, as reflected in the war-fighting plans of the relevant combatant commanders.
+
+&emsp;“(2) An assessment of the likely requirement for sustained operations under each such war-fighting plan.
+
+&emsp;“(3) An assessment of the likely requirement for that unit to conduct sustained operations in an austere environment, while drawing exclusively on its own internal logistics capabilities.
+
+“(c)
+
+Sufficiency Capabilities.—The standards to be established by the Secretary of a military department under subsection (a) shall reflect those spare parts and similar logistics capabilities that the Secretary considers sufficient for the units of each of the Armed Forces under the Secretary's jurisdiction to successfully execute their missions under the conditions described in subsection (b).
+
+“(d)
+
+Relation to Readiness Reporting System.—The standards established under subsection (a) shall be taken into account in designing the comprehensive readiness reporting system for the Department of Defense required by section 117 of title 10, United States Code, and shall be an element in determining a unit's readiness status.
+
+“(e)
+
+Relation to Annual Funding Needs.—The Secretary of Defense shall consider the standards established under subsection (a) in establishing the annual funding requirements for the Department of Defense.
+
+“(f)
+
+Reporting Requirement.—The Secretary of Defense shall include in the annual report required by section 113(c) of title 10, United States Code, an analysis of the then current spare parts, logistics, and sustainment standards of the Armed Forces, as described in subsection (a), including any shortfalls and the cost of addressing these shortfalls.”
+
+#### Use of Smart Card Technology in the Department of Defense
+
+Pub. L. 106–65, div. A, title III, §373(a)–(g), Oct. 5, 1999, 113 Stat. 580, 581, provided that:
+
+“(a)
+
+Department of Navy as Lead Agency.—The Department of the Navy shall serve as the lead agency for the development and implementation of a Smart Card program for the Department of Defense.
+
+“(b)
+
+Cooperation of Other Military Departments.—The Department of the Army and the Department of the Air Force shall each establish a project office and cooperate with the Department of the Navy to develop implementation plans for exploiting the capability of Smart Card technology as a means for enhancing readiness and improving business processes throughout the military departments.
+
+“(c)
+
+Senior Coordinating Group.—(1) Not later than November 30, 1999, the Secretary of Defense shall establish a senior coordinating group to develop and implement—
+
+&emsp;“(A) Department-wide interoperability standards for use of Smart Card technology; and
+
+&emsp;“(B) a plan to exploit Smart Card technology as a means for enhancing readiness and improving business processes.
+
+“(2) The senior coordinating group shall be chaired by a representative of the Secretary of the Navy and shall include senior representatives from each of the Armed Forces and such other persons as the Secretary of Defense considers appropriate.
+
+“(3) Not later than March 31, 2000, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report containing a detailed discussion of the progress made by the senior coordinating group in carrying out its duties.
+
+“(d)
+
+Role of Department of Defense Chief Information Office.—The senior coordinating group established under subsection (c) shall report to and receive guidance from the Department of Defense Chief Information Office.
+
+“(e)
+
+Increased Use Targeted to Certain Naval Regions.—Not later than November 30, 1999, the Secretary of the Navy shall establish a business plan to implement the use of Smart Cards in one major Naval region of the continental United States that is in the area of operations of the United States Atlantic Command and one major Naval region of the continental United States that is in the area of operations of the United States Pacific Command. The regions selected shall include a major fleet concentration area. The implementation of the use of Smart Cards in each region shall cover the Navy and Marine Corps bases and all non-deployed units in the region. The Secretary of the Navy shall submit the business plan to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\].
+
+“(f)
+
+Funding for Increased Use of Smart Cards.—Of the funds authorized to be appropriated for the Navy by section 102(a)(4) \[113 Stat. 530\] or 301(2) \[113 Stat. 557\], the Secretary of the Navy—
+
+&emsp;“(1) shall allocate such amounts as may be necessary, but not to exceed $30,000,000, to ensure that significant progress is made toward complete implementation of the use of Smart Card technology in the Department of the Navy; and
+
+&emsp;“(2) may allocate additional amounts for the conversion of paper-based records to electronic media for records systems that have been modified to use Smart Card technology.
+
+“(g)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘Smart Card’ means a credit card-size device, normally for carrying and use by personnel, that contains one or more integrated circuits and may also employ one or more of the following technologies:
+
+&emsp;&emsp;“(A) Magnetic stripe.
+
+&emsp;&emsp;“(B) Bar codes, linear or two-dimensional.
+
+&emsp;&emsp;“(C) Non-contact and radio frequency transmitters.
+
+&emsp;&emsp;“(D) Biometric information.
+
+&emsp;&emsp;“(E) Encryption and authentication.
+
+&emsp;&emsp;“(F) Photo identification.
+
+&emsp;“(2) The term ‘Smart Card technology’ means a Smart Card together with all of the associated information technology hardware and software that comprise the system for support and operation.”
+
+#### Secretary of Defense Review of Army Technician Costing Process
+
+Pub. L. 106–65, div. A, title V, §526, Oct. 5, 1999, 113 Stat. 600, required Secretary of Defense to review process used by the Army to develop estimates of annual authorizations and appropriations required for civilian personnel of Department of the Army generally and for National Guard and Army Reserve technicians in particular and to report on results of review to the Committees on Armed Services of the Senate and House of Representatives not later than Mar. 31, 2000.
+
+#### Survey of Members Leaving Military Service on Attitudes Toward Military Service
+
+Pub. L. 106–65, div. A, title V, §581, Oct. 5, 1999, 113 Stat. 633, provided that:
+
+“(a)
+
+Exit Survey.—The Secretary of Defense shall develop and implement, as part of outprocessing activities, a survey on attitudes toward military service to be completed by all members of the Armed Forces who during the period beginning on January 1, 2000, and ending on June 30, 2000, are voluntarily discharged or separated from the Armed Forces or transfer from a regular component to a reserve component.
+
+“(b)
+
+Matters To Be Covered.—The survey shall, at a minimum, cover the following subjects:
+
+&emsp;“(1) Reasons for leaving military service.
+
+&emsp;“(2) Command climate.
+
+&emsp;“(3) Attitude toward leadership.
+
+&emsp;“(4) Attitude toward pay and benefits.
+
+&emsp;“(5) Job satisfaction during service as a member of the Armed Forces.
+
+&emsp;“(6) Plans for activities after separation (such as enrollment in school, use of Montgomery GI Bill benefits, and work).
+
+&emsp;“(7) Affiliation with a reserve component, together with the reasons for affiliating or not affiliating, as the case may be.
+
+&emsp;“(8) Such other matters as the Secretary determines appropriate to the survey concerning reasons why military personnel are leaving military service.
+
+“(c)
+
+Report to Congress.—Not later than October 1, 2000, the Secretary shall submit to Congress a report containing the results of the survey under subsection (a). The Secretary shall compile the information in the report so as to assist in assessing reasons why military personnel are leaving military service.”
+
+#### Annual Report on United States Military Activities in Colombia
+
+Pub. L. 106–65, div. A, title X, §1025, Oct. 5, 1999, 113 Stat. 748, provided that: “Not later than January 1 of each year, the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on International Relations of the House of Representatives a report detailing the number of members of the United States Armed Forces deployed or otherwise assigned to duty in Colombia at any time during the preceding year, the length and purpose of the deployment or assignment, and the costs and force protection risks associated with such deployments and assignments.”
+
+#### Report on NATO Defense Capabilities Initiative
+
+Pub. L. 106–65, div. A, title X, §1039, Oct. 5, 1999, 113 Stat. 756, provided that:
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) At the meeting of the North Atlantic Council held in Washington, DC, in April 1999, the NATO Heads of State and Governments launched a Defense Capabilities Initiative.
+
+&emsp;“(2) The Defense Capabilities Initiative is designed to improve the defense capabilities of the individual nations of the NATO Alliance to ensure the effectiveness of future operations across the full spectrum of Alliance missions in the present and foreseeable security environment.
+
+&emsp;“(3) Under the Defense Capabilities Initiative, special focus will be given to improving interoperability among Alliance forces and to increasing defense capabilities through improvements in the deployability and mobility of Alliance forces, the sustainability and logistics of those forces, the survivability and effective engagement capability of those forces, and command and control and information systems.
+
+&emsp;“(4) The successful implementation of the Defense Capabilities Initiative will serve to enable all members of the Alliance to make a more equitable contribution to the full spectrum of Alliance missions, thereby increasing burdensharing within the Alliance and enhancing the ability of European members of the Alliance to undertake operations pursuant to the European Security and Defense Identity within the Alliance.
+
+“(b)
+
+Annual Report.—(1) Not later than January 31 of each year, the Secretary of Defense shall submit to the Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and International Relations of the House of Representatives a report, to be prepared in consultation with the Secretary of State, on implementation of the Defense Capabilities Initiative by the nations of the NATO Alliance. The report shall include the following:
+
+&emsp;“(A) A discussion of the work of the temporary High-Level Steering Group, or any successor group, established to oversee the implementation of the Defense Capabilities Initiative and to meet the requirement of coordination and harmonization among relevant planning disciplines.
+
+&emsp;“(B) A description of the actions taken, including implementation of the Multinational Logistics Center concept and development of the C3 system architecture, by the Alliance as a whole to further the Defense Capabilities Initiative.
+
+&emsp;“(C) A description of the actions taken by each member of the Alliance other than the United States to improve the capabilities of its forces in each of the following areas:
+
+&emsp;&emsp;“(i) Interoperability with forces of other Alliance members.
+
+&emsp;&emsp;“(ii) Deployability and mobility.
+
+&emsp;&emsp;“(iii) Sustainability and logistics.
+
+&emsp;&emsp;“(iv) Survivability and effective engagement capability.
+
+&emsp;&emsp;“(v) Command and control and information systems.
+
+“(2) The report shall be submitted in unclassified form, but may also be submitted in classified form if necessary.”
+
+#### Commemoration of the Victory of Freedom in the Cold War
+
+Pub. L. 106–65, div. A, title X, §1053, Oct. 5, 1999, 113 Stat. 764, provided that:
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) The Cold War between the United States and its allies and the former Union of Soviet Socialist Republics and its allies was the longest and most costly struggle for democracy and freedom in the history of mankind.
+
+&emsp;“(2) Whether millions of people all over the world would live in freedom hinged on the outcome of the Cold War.
+
+&emsp;“(3) Democratic countries bore the burden of the struggle and paid the costs in order to preserve and promote democracy and freedom.
+
+&emsp;“(4) The Armed Forces and the taxpayers of the United States bore the greatest portion of that burden and struggle in order to protect those principles.
+
+&emsp;“(5) Tens of thousands of United States soldiers, sailors, airmen, \[and\] Marines paid the ultimate price during the Cold War in order to preserve the freedoms and liberties enjoyed in democratic countries.
+
+&emsp;“(6) The Berlin Wall erected in Berlin, Germany, epitomized the totalitarianism that the United States struggled to eradicate during the Cold War.
+
+&emsp;“(7) The fall of the Berlin Wall on November 9, 1989, was a major event of the Cold War.
+
+&emsp;“(8) The Soviet Union collapsed on December 25, 1991.
+
+“(b)
+
+Sense of Congress.—It is the sense of Congress that the President should issue a proclamation calling on the people of the United States to observe the victory in the Cold War with appropriate ceremonies and activities.
+
+“(c)
+
+Participation of Armed Forces in Celebration of End of Cold War.—(1) Subject to paragraphs (2), (3), and (4), amounts authorized to be appropriated by section 301 \[113 Stat. 556\] may be available for costs of the Armed Forces in participating in a celebration of the end of the Cold War to be held in Washington, District of Columbia.
+
+“(2) The total amount of funds available under paragraph (1) for the purpose set forth in that paragraph shall not exceed $5,000,000.
+
+“(3) The Secretary of Defense may accept contributions from the private sector for the purpose of reducing the costs of the Armed Forces described in paragraph (1). The amount of funds available under paragraph (1) for the purpose set forth in that paragraph shall be reduced by an amount equal to the amount of contributions accepted by the Secretary under the preceding sentence.
+
+“(4) The funding authorized in paragraph (1) shall not be available until 30 days after the date upon which the plan required by subsection (d) is submitted.
+
+“(d)
+
+Report.—(1) The President shall transmit to Congress—
+
+&emsp;“(A) a report on the content of the proclamation referred to in subsection (b); and
+
+&emsp;“(B) a plan for appropriate ceremonies and activities.
+
+“(2) The plan submitted under paragraph (1) shall include the following:
+
+&emsp;“(A) A discussion of the content, location, date, and time of each ceremony and activity included in the plan.
+
+&emsp;“(B) The funding allocated to support those ceremonies and activities.
+
+&emsp;“(C) The organizations and individuals consulted while developing the plan for those ceremonies and activities.
+
+&emsp;“(D) A list of private sector organizations and individuals that are expected to participate in each ceremony and activity.
+
+&emsp;“(E) A list of local, State, and Federal agencies that are expected to participate in each ceremony and activity.
+
+“(e)
+
+Commission on Victory in the Cold War.—(1) There is hereby established a commission to be known as the ‘Commission on Victory in the Cold War’.
+
+“(2) The Commission shall be composed of twelve members, as follows:
+
+&emsp;“(A) Two shall be appointed by the President.
+
+&emsp;“(B) Three shall be appointed by the Speaker of the House of Representatives.
+
+&emsp;“(C) Two shall be appointed by the minority leader of the House of Representatives.
+
+&emsp;“(D) Three shall be appointed by the majority leader of the Senate.
+
+&emsp;“(E) Two shall be appointed by the minority leader of the Senate.
+
+“(3) The Commission shall review and make recommendations regarding the celebration of the victory in the Cold War, to include the date of the celebration, usage of facilities, participation of the Armed Forces, and expenditure of funds.
+
+“(4) The Secretary shall—
+
+&emsp;“(A) consult with the Commission on matters relating to the celebration of the victory in the Cold War;
+
+&emsp;“(B) reimburse Commission members for expenses relating to participation of Commission members in Commission activities from funds made available under subsection (c); and
+
+&emsp;“(C) provide the Commission with administrative support.
+
+“(5) The Commission shall be co-chaired by two members as follows:
+
+&emsp;“(A) One selected by and from among those appointed pursuant to subparagraphs (A), (C), and (E) of paragraph (2).
+
+&emsp;“(B) One selected by and from among those appointed pursuant to subparagraphs (B) and (D) of paragraph (2).”
+
+#### Annual Report on Military Power of the People's Republic of China
+
+Pub. L. 106–65, div. A, title XII, §1202, Oct. 5, 1999, 113 Stat. 781, provided that:
+
+“(a)
+
+Annual Report.—Not later than March 1 each year, the Secretary of Defense shall submit to the specified congressional committees a report, in both classified and unclassified form, on the current and future military strategy of the People's Republic of China. The report shall address the current and probable future course of military-technological development on the People's Liberation Army and the tenets and probable development of Chinese grand strategy, security strategy, and military strategy, and of military organizations and operational concepts, through the next 20 years.
+
+“(b)
+
+Matters To Be Included.—Each report under this section shall include analyses and forecasts of the following:
+
+&emsp;“(1) The goals of Chinese grand strategy, security strategy, and military strategy.
+
+&emsp;“(2) Trends in Chinese strategy that would be designed to establish the People's Republic of China as the leading political power in the Asia-Pacific region and as a political and military presence in other regions of the world.
+
+&emsp;“(3) The security situation in the Taiwan Strait.
+
+&emsp;“(4) Chinese strategy regarding Taiwan.
+
+&emsp;“(5) The size, location, and capabilities of Chinese strategic, land, sea, and air forces, including detailed analysis of those forces facing Taiwan.
+
+&emsp;“(6) Developments in Chinese military doctrine, focusing on (but not limited to) efforts to exploit a transformation in military affairs or to conduct preemptive strikes.
+
+&emsp;“(7) Efforts, including technology transfers and espionage, by the People's Republic of China to develop, acquire, or gain access to information, communication, space and other advanced technologies that would enhance military capabilities.
+
+&emsp;“(8) An assessment of any challenges during the preceding year to the deterrent forces of the Republic of China on Taiwan, consistent with the commitments made by the United States in the Taiwan Relations Act (Public Law 96–8) \[22 U.S.C. 3301 et seq.\].
+
+“(c)
+
+Specified Congressional Committees.—For purposes of this section, the term ‘specified congressional committees’ means the following:
+
+&emsp;“(1) The Committee on Armed Services and the Committee on Foreign Relations of the Senate.
+
+&emsp;“(2) The Committee on Armed Services and the Committee on International Relations of the House of Representatives.”
+
+#### Nuclear Mission Management Plan
+
+Pub. L. 106–65, div. C, title XXXI, §3163(d), Oct. 5, 1999, 113 Stat. 945, provided that:
+
+“(1) The Secretary of Defense shall develop and implement a plan to ensure the continued reliability of the capability of the Department of Defense to carry out its nuclear deterrent mission.
+
+“(2) The plan shall do the following:
+
+&emsp;“(A) Articulate the current policy of the United States on the role of nuclear weapons and nuclear deterrence in the conduct of defense and foreign relations matters.
+
+&emsp;“(B) Establish stockpile viability and capability requirements with respect to that mission, including the number and variety of warheads required.
+
+&emsp;“(C) Establish requirements relating to the contractor industrial base, support infrastructure, and surveillance, testing, assessment, and certification of nuclear weapons necessary to support that mission.
+
+“(3) The plan shall take into account the following:
+
+&emsp;“(A) Requirements for the critical skills, readiness, training, exercise, and testing of personnel necessary to meet that mission.
+
+&emsp;“(B) The relevant programs and plans of the military departments and the Defense Agencies with respect to readiness, sustainment (including research and development), and modernization of the strategic deterrent forces.”
 
 #### Report on Food Stamp Assistance for Members of Armed Forces
 
@@ -308,11 +628,25 @@ Pub. L. 105–262, title VIII, §8119, Oct. 17, 1998, 112 Stat. 2331, provided t
 
 #### Defense Reform Initiative Enterprise Pilot Program for Military Manpower and Personnel Information
 
-Pub. L. 105–262, title VIII, §8147, Oct. 17, 1998, 112 Stat. 2341, provided that: “The Secretary of Defense shall establish, through a revised Defense Integrated Military Human Resources System (DIMHRS), a defense reform initiative enterprise pilot program for military manpower and personnel information: <i>Provided</i>, That this pilot program should include all functions and systems currently included in DIMHRS and shall be expanded to include all appropriate systems within the enterprise of personnel, manpower, training, and compensation: <i>Provided further</i>, That in establishing a revised DIMHRS enterprise program for manpower and personnel information superiority the functions of this program shall include, but not be limited to: (1) an analysis and determination of the number and kinds of information systems necessary to support manpower and personnel within the Department of Defense; and (2) the establishment of programs to develop and implement information systems in support of manpower and personnel to include an enterprise level strategic approach, performance and results based management, business process improvement and other non-material solutions, the use of commercial or government off-the-shelf technology, the use of modular contracting as defined by Public Law 104–106 \[see 41 U.S.C. 434\], and the integration and consolidation of existing manpower and personnel information systems: <i>Provided further</i>, That the Secretary of Defense shall re-instate fulfillment standards designated as ADS–97–03–GD, dated January, 1997: <i>Provided further</i>, That the requirements of this section should be implemented not later than 6 months after the date of the enactment of this Act \[Oct. 17, 1998\].”
+Pub. L. 106–65, div. A, title IX, §924, Oct. 5, 1999, 113 Stat. 726, provided that:
+
+“(a)
+
+Executive Agent.—The Secretary of Defense may designate the Secretary of the Navy as the Department of Defense executive agent for carrying out the pilot program described in subsection (c).
+
+“(b)
+
+Implementing Office.—If the Secretary of Defense makes the designation referred to in subsection (a), the Secretary of the Navy, in carrying out that pilot program, shall act through the head of the Systems Executive Office for Manpower and Personnel of the Department of the Navy, who shall act in coordination with the Under Secretary of Defense for Personnel and Readiness and the Chief Information Officer of the Department of Defense.
+
+“(c)
+
+Pilot Program.—The pilot program referred to in subsection (a) is the defense reform initiative enterprise pilot program for military manpower and personnel information established pursuant to section 8147 of the Department of Defense Appropriations Act, 1999 (Public Law 105–262; 112 Stat. 2341; 10 U.S.C. 113 note).”
+
+Pub. L. 105–262, title VIII, §8147, Oct. 17, 1998, 112 Stat. 2341, provided that: “The Secretary of Defense shall establish, through a revised Defense Integrated Military Human Resources System (DIMHRS), a defense reform initiative enterprise pilot program for military manpower and personnel information: <i>Provided</i>, That this pilot program should include all functions and systems currently included in DIMHRS and shall be expanded to include all appropriate systems within the enterprise of personnel, manpower, training, and compensation: <i>Provided further</i>, That in establishing a revised DIMHRS enterprise program for manpower and personnel information superiority the functions of this program shall include, but not be limited to: (1) an analysis and determination of the number and kinds of information systems necessary to support manpower and personnel within the Department of Defense; and (2) the establishment of programs to develop and implement information systems in support of manpower and personnelto include an enterprise level strategic approach, performance and results based management, business process improvement and other non-material solutions, the use of commercial or government off-the-shelf technology, the use of modular contracting as defined by Public Law 104–106 \[see 41 U.S.C. 434\], and the integration and consolidation of existing manpower and personnel information systems: <i>Provided further</i>, That the Secretary of Defense shall re-instate fulfillment standards designated as ADS–97–03–GD, dated January, 1997: <i>Provided further</i>, That the requirements of this section should be implemented not later than 6 months after the date of the enactment of this Act \[Oct. 17, 1998\].”
 
 #### Oversight of Development and Implementation of Automated Identification Technology
 
-Pub. L. 105–261, div. A, title III, §344, Oct. 17, 1998, 112 Stat. 1977, provided that:
+Pub. L. 105–261, div. A, title III, §344, Oct. 17, 1998, 112 Stat. 1977, as amended by Pub. L. 106–65, div. A, title III, §373(h), title X, §1067(3), Oct. 5, 1999, 113 Stat. 581, 774, provided that:
 
 “(a)
 
@@ -334,21 +668,7 @@ Definitions.—In this section:
 
 &emsp;“(2) The term ‘Smart Card’ means a credit card size device that contains one or more integrated circuits.
 
-“(b)
-
-Establishment of Automated Identification Technology Office.—(1) The Secretary of Defense shall establish an Automated Identification Technology Office within the Department of Defense that shall be responsible for—
-
-&emsp;“(A) overseeing the development and implementation of all automated identification technology programs in the Department; and
-
-&emsp;“(B) coordinating automated identification technology programs with the Joint Staff, the Secretaries of the military departments, and the directors of the Defense Agencies.
-
-“(2) After the date of the enactment of this Act \[Oct. 17, 1998\], funds appropriated for the Department of Defense may not be obligated for an automated identification technology program unless the program has been reviewed and approved by the Automated Identification Technology Office. Pending the establishment of the Automated Identification Technology Office, the review and approval of a program by the Smart Card Technology Office of the Defense Human Resources Field Activity of the Department of Defense shall be sufficient to satisfy the requirements of this paragraph even if the approval was given before the date of the enactment of this Act.
-
-“(3) As part of its oversight responsibilities, the Automated Identification Technology Office shall establish standards designed—
-
-&emsp;“(A) to ensure the compatibility and interoperability of automated identification technology programs in the Department of Defense; and
-
-&emsp;“(B) to identify and terminate redundant, infeasible, or uneconomical automated identification technology programs.
+“\[(b) Repealed. Pub. L. 106–65, div. A, title III, §373(h), Oct. 5, 1999, 113 Stat. 581.\]
 
 “(c)
 
@@ -356,7 +676,7 @@ Funding for Increased Use of Smart Cards.—(1) Of the funds available for the N
 
 “(2) Not later than June 30, 1999, the Secretary of the Navy shall equip with Smart Card technology at least one carrier battle group, one carrier air wing, and one amphibious readiness group (including the Marine Corps units embarked on the vessels of such battle and readiness groups) in each of the United States Atlantic Command and the United States Pacific Command.
 
-“(3) None of the funds appropriated pursuant to any authorization of appropriations in this Act \[see Tables for classification\] may be expended after June 30, 1999, for the procurement of the Joint Uniformed Services Identification card for members of the Navy or the Marine Corps or for the issuance of such card to such members, until the Secretary of the Navy certifies in writing to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] that the Secretary has completed the issuance of Smart Cards in accordance with paragraph (2).
+“(3) None of the funds appropriated pursuant to any authorization of appropriations in this Act \[see Tables for classification\] may be expended after June 30, 1999, for the procurement of the Joint Uniformed Services Identification card for members of the Navy or the Marine Corps or for the issuance of such card to such members, until the Secretary of the Navy certifies in writing to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives that the Secretary has completed the issuance of Smart Cards in accordance with paragraph (2).
 
 “(d)
 
@@ -392,13 +712,13 @@ Section 392 of Pub. L. 105–85, as amended by Pub. L. 105–261, div. A, title 
 
 #### Commission on Military Training and Gender-Related Issues
 
-Subtitle F of title V of div. A of Pub. L. 105–85, as amended by Pub. L. 105–261, div. A, title V, §524, Oct. 17, 1998, 112 Stat. 2014, provided that:
+Subtitle F of title V of div. A of Pub. L. 105–85, as amended by Pub. L. 105–261, div. A, title V, §524, Oct. 17, 1998, 112 Stat. 2014; Pub. L. 106–65, div. A, title X, §1066(c)(2), Oct. 5, 1999, 113 Stat. 773, provided that:
 
 #### “SEC. 561. ESTABLISHMENT AND COMPOSITION OF COMMISSION.
 
 “(a)
 
-Establishment.—There is established a Commission on Military Training and Gender-Related Issues to review requirements and restrictions regarding cross-gender relationships of members of the Armed Forces, to review the basic training programs of the Army, Navy, Air Force, and Marine Corps, and to make recommendations on improvements to those programs, requirements, and restrictions.
+Establishment.—There is established a Commission on Military Training and Gender-Related Issues toreview requirements and restrictions regarding cross-gender relationships of members of the Armed Forces, to review the basic training programs of the Army, Navy, Air Force, and Marine Corps, and to make recommendations on improvements to those programs, requirements, and restrictions.
 
 “(b)
 
@@ -542,7 +862,7 @@ Meetings.—(1) The commission shall hold its first meeting not later than 30 da
 
 “(b)
 
-Authority of Individuals To Act for Commission.—Any member or agent of the commission may, if authorized by the commission, take any action which the commission is authorized to take under this title \[see Tables for classification\].
+Authority of Individuals To Act for Commission.—Any member or agent of the commission may, if authorized by the commission, take any action which the commission is authorized to take under this subtitle.
 
 “(c)
 
@@ -566,7 +886,7 @@ Pay and Expenses of Commission Members.—(1) Each member of the commission who 
 
 “(e)
 
-Staff and Administrative Support.—(1) The chairman of the commission may, without regard to civil service laws and regulations, appoint and terminate an executive director and up to three additional staff members as necessary to enable the commission to perform its duties. The chairman of the commissionmay fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51, and subchapter III of chapter 53, of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay may not exceed the maximum rate of pay for grade GS–15 under the General Schedule.
+Staff and Administrative Support.—(1) The chairman of the commission may, without regard to civil service laws and regulations, appoint and terminate an executive director and up to three additional staff members as necessary to enable the commission to perform its duties. The chairman of the commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51, and subchapter III of chapter 53, of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay may not exceed the maximum rate of pay for grade GS–15 under the General Schedule.
 
 “(2) Upon the request of the chairman of the commission, the head of any department or agency of the Federal Government may detail, without reimbursement, any personnel of the department or agency to the commission to assist in carrying out its duties. A detail of an employee shall be without interruption or loss of civil service status or privilege.
 
@@ -666,7 +986,7 @@ Troop Protection Equipment Defined.—In this section, the term ‘troop protect
 
 “(e)
 
-Report on Antiterrorism Activities of the Department of Defense and Protection of Personnel.—Not later than 120 days after the date of the enactment of this Act \[Nov. 18, 1997\], the Secretary of Defense shall submit to Congress a report, in classified and unclassified form, on antiterrorism activities of the Department of Defense and the actions taken by the Secretary under subsections (a), (b), and (c). The report shall include the following:
+Report on Antiterrorism Activities of the Department of Defense and Protection of Personnel.—Not later than 120 days after the date of the enactment of this Act \[Nov. 18, 1997\], the Secretary of Defense shall submit to Congress a report, in classifiedand unclassified form, on antiterrorism activities of the Department of Defense and the actions taken by the Secretary under subsections (a), (b), and (c). The report shall include the following:
 
 &emsp;“(1) A description of the programs designed to carry out antiterrorism activities of the Department of Defense, any deficiencies in those programs, and any actions taken by the Secretary to improve implementation of such programs.
 
@@ -746,6 +1066,8 @@ Criminal Sexual Misconduct Defined.—For the purposes of this section, the term
 
 #### Program To Commemorate 50th Anniversary of the Korean War
 
+Pub. L. 106–65, div. A, title X, §1052(b)(3), Oct. 5, 1999, 113 Stat. 764, provided that: “Any reference to the Department of Defense Korean War Commemoration in any law, regulation, document, record, or other paper of the United States shall be considered to be a reference to the United States of America Korean War Commemoration.”
+
 Pub. L. 105–261, div. A, title X, §1067(b), (d), Oct. 17, 1998, 112 Stat. 2134, 2135, provided that:
 
 “(b)
@@ -754,13 +1076,13 @@ Redesignation of Commemoration Account.—The account in the Treasury known as t
 
 “(d)
 
-Cross References.—Any reference to the Department of Defense Korean Conflict Commemoration or the Department of Defense Korean Conflict Commemoration Account in any law, regulation, document, record, or other paper of the United States shall be considered to be a reference to the Department of DefenseKorean War Commemoration or the Department of Defense Korean War Commemoration Account, respectively.”
+Cross References.—Any reference to the Department of Defense Korean Conflict Commemoration or the Department of Defense Korean Conflict Commemoration Account in any law, regulation, document, record, or other paper of the United States shall be considered to be a reference to the Department of Defense Korean War Commemoration or the Department of Defense Korean War Commemoration Account, respectively.”
 
-Section 1083 of Pub. L. 105–85, as amended by Pub. L. 105–129, §1(b)(1), Dec. 1, 1997, 111 Stat. 2551; Pub. L. 105–261, div. A, title X, §1067(a), (c), Oct. 17, 1998, 112 Stat. 2134, provided that:
+Section 1083 of Pub. L. 105–85, as amended by Pub. L. 105–129, §1(b)(1), Dec. 1, 1997, 111 Stat. 2551; Pub. L. 105–261, div. A, title X, §1067(a), (c), Oct. 17, 1998, 112 Stat. 2134; Pub. L. 106–65, div. A, title X, §1052(a), (b)(1), (c), Oct. 5, 1999, 113 Stat. 764, provided that:
 
 “(a)
 
-Commemorative Program.—The Secretary of Defense may conduct a program to commemorate the 50th anniversary of the Korean War. In conducting the commemorative program, the Secretary may coordinate, support, and facilitate other programs and activities of the Federal Government, State and local governments, and other persons in commemoration of the Korean War.
+Commemorative Program.—During fiscal years 2000 through 2004, the Secretary of Defense may conduct a program to commemorate the 50th anniversary of the Korean War. In conducting the commemorative program, the Secretary may coordinate, support, and facilitate other programs and activities of the Federal Government, State and local governments, and other persons in commemoration of the Korean War.
 
 “(b)
 
@@ -780,7 +1102,7 @@ Commemorative Activities.—The commemorative program may include activities and
 
 “(c)
 
-Names and Symbols.—The Secretary of Defense shall have the sole and exclusive right to use the name the ‘Department of Defense Korean War Commemoration’, and such seal, emblems, and badges incorporating such name as the Secretary may lawfully adopt. Nothing in this section may be construed to supersede rights that are established or vested before the date of the enactment of this Act \[Nov. 18, 1997\].
+Names and Symbols.—The Secretary of Defense shall have the sole and exclusive right to use the name ‘The United States of America Korean War Commemoration’, and such seal, emblems, and badges incorporating such name as the Secretary may lawfully adopt. Nothing in this section may be construed to supersede rights that are established or vested before the date of the enactment of this Act \[Nov. 18, 1997\].
 
 “(d)
 
@@ -798,7 +1120,13 @@ Acceptance of Voluntary Services.—(1) Notwithstanding section 1342 of title 31
 
 “(f)
 
-Limitation on Expenditures.—The total amount expended by the Department of Defense to carry out the commemorative program for fiscal year 1999 may not exceed $1,820,000.”
+Use of Funds.—(1) Funds appropriated for the Army for fiscal years 2000 through 2004 for operation and maintenance shall be available for the commemorative program authorized under subsection (a).
+
+“(2) The total amount expended by the Department of Defense through the Department of Defense 50th Anniversary of the Korean War Commemoration Committee, an entity within the Department of the Army, to carry out the commemorative program authorized under subsection (a) for fiscal years 2000 through 2004 may not exceed $7,000,000.”
+
+\[Pub. L. 106–65, div. A, title X, §1052(b)(2), Oct. 5, 1999, 113 Stat. 764, provided that: “The amendment made by paragraph (1) \[amending section 1083 of Pub. L. 105–85, set out above\] may not be construed to supersede rights that are established or vested before the date of the enactment of this Act \[Oct. 5, 1995\].”\]
+
+\[Pub. L. 106–65, div. A, title X, §1052(d), Oct. 5, 1999, 113 Stat. 764, provided that: “The amendments made by this section \[amending section 1083 of Pub. L. 105–85, set out above\] shall take effect on October 1, 1999.”\]
 
 \[Section 1(b)(2) of Pub. L. 105–129 provided that: “The amendment made by paragraph (1) \[amending section 1083 of Pub. L. 105–85, set out above\] shall take effect as if included in the provisions of the National Defense Authorization Act for Fiscal Year 1998 \[Pub. L. 105–85\] to which such amendment relates.”\]
 
@@ -816,7 +1144,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(3) On May 16, 1996, the President also announced that the United States would lead an effort to negotiate an international treaty permanently banning the use of all antipersonnel landmines.
 
-&emsp;“(4) The United States is currently participating at the United Nations Conference on Disarmament in negotiations aimed at achieving a global ban on the use of antipersonnel landmines.
+&emsp;“(4) The United States is currently participating at the United Nations Conference on Disarmament innegotiations aimed at achieving a global ban on the use of antipersonnel landmines.
 
 &emsp;“(5) On August 18, 1997, the administration agreed to participate in international negotiations sponsored by Canada (the so-called ‘Ottawa process’) designed to achieve a treaty that would outlaw the production, use, and sale of antipersonnel landmines.
 
@@ -896,7 +1224,7 @@ Matters Relating to Operation Provide Comfort.—Each report under subsection (a
 
 &emsp;“(2) A detailed presentation of the projected costs to be incurred by other departments and agencies of the Federal Government participating in or providing support to that operation during each of those fiscal years.
 
-&emsp;“(3) A discussion of options being pursued to reduce the involvement of the Department of Defense in those aspects of that operation that are not directly related to the military mission of the Department of Defense.
+&emsp;“(3) A discussion of options being pursued to reduce the involvement of the Department of Defense in those aspects of that operation that are not directlyrelated to the military mission of the Department of Defense.
 
 &emsp;“(4) A discussion of the exit strategy for United States involvement in, and support for, that operation.
 
@@ -940,29 +1268,7 @@ Operation provide comfort.—The term ‘Operation Provide Comfort’ means the 
 
 #### Annual Report on Emerging Operational Concepts
 
-Section 1042 of Pub. L. 104–201 provided that:
-
-“(a)
-
-Report Required.—Not later than March 1 of each year through 2000, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on emerging operational concepts. Each such report shall be prepared by the Secretary in consultation with the Chairman of the Joint Chiefs of Staff.
-
-“(b)
-
-Matters To Be Included.—Each such report shall contain a description, for the year preceding the year in which the report is submitted, of the following:
-
-&emsp;“(1) The process undertaken in the Department of Defense, and in each of the Army, Navy, Air Force, and Marine Corps, to define and develop doctrine, operational concepts, organizational concepts, and acquisition strategies to address—
-
-&emsp;&emsp;“(A) the potential of emerging technologies for significantly improving the operational effectiveness of the Armed Forces;
-
-&emsp;&emsp;“(B) changes in the international order that may necessitate changes in the operational capabilities of the Armed Forces;
-
-&emsp;&emsp;“(C) emerging capabilities of potential adversary states; and
-
-&emsp;&emsp;“(D) changes in defense budget projections.
-
-&emsp;“(2) The manner in which the processes described in paragraph (1) are harmonized to ensure that there is a sufficient consideration of the development of joint doctrine, operational concepts, and acquisition strategies.
-
-&emsp;“(3) The manner in which the processes described in paragraph (1) are coordinated through the Joint Requirements Oversight Council and reflected in the planning, programming, and budgeting process of the Department of Defense.”
+Pub. L. 104–201, div. A, title X, §1042, Sept. 23, 1996, 110 Stat. 2642, as amended by Pub. L. 106–65, div. A, title X, §1067(5), Oct. 5, 1999, 113 Stat. 774, directed Secretary of Defense to submit to Committees on Armed Services of the Senate and the House of Representatives a report on emerging operational concepts not later than March 1 of each year through 2000, prior to repeal by Pub. L. 106–65, div. A, title II, §241(b), Oct. 5, 1999, 113 Stat. 550.
 
 #### George C. Marshall European Center for Strategic Security Studies
 
@@ -1148,7 +1454,7 @@ Report on Strategy.—(1) Not later than April 15, 1996, the Secretary shall sub
 
 &emsp;&emsp;“(iv) termination schedules.
 
-&emsp;“(D) A certification by the Secretary that each information system that is subject to review by theMajor Automated Information System Review Committee of the Department is cost-effective and supports the corporate information management goals of the Department, including the results of the review conducted for each such system by the Committee.”
+&emsp;“(D) A certification by the Secretary that each information system that is subject to review by the Major Automated Information System Review Committee of the Department is cost-effective and supports the corporate information management goals of the Department, including the results of the review conducted for each such system by the Committee.”
 
 #### Report Concerning Appropriate Forum for Judicial Review of Department of Defense Personnel Actions
 
@@ -1354,7 +1660,7 @@ Data To Be Collected.—Each annual report under subsection (a) shall include th
 
 &emsp;“(1) The numbers of members of the Armed Forces temporarily and permanently nondeployable and rates of temporary and permanent nondeployability, displayed by cause of nondeployability, rank, and gender.
 
-&emsp;“(2) The numbers and rates of complaints and allegations within the Armed Forces that involve genderand other unlawful discrimination and sexual harassment, and the rates of substantiation for those complaints and allegations.
+&emsp;“(2) The numbers and rates of complaints and allegations within the Armed Forces that involve gender and other unlawful discrimination and sexual harassment, and the rates of substantiation for those complaints and allegations.
 
 &emsp;“(3) The numbers and rates of disciplinary proceedings, displayed (A) by offense or infraction committed, (B) by gender, rank, and race, and (C) by the categories specified in paragraph (2).
 
@@ -1464,9 +1770,9 @@ Definitions.—For purposes of this section:
 
 #### Plan Requiring Disbursing Officials of Department of Defense To Match Disbursements to Particular Obligations
 
-Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8106\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–111, as amended by Pub. L. 105–56, title VIII, §8113, Oct. 8, 1997, 111 Stat. 1245; Pub. L. 105–277, div. C, title I, §143, Oct. 21, 1998, 112 Stat. 2681–609, provided that:
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8106\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–111, as amended by Pub. L. 105–56, title VIII, §8113, Oct. 8, 1997, 111 Stat. 1245; Pub. L. 105–277, div. C, title I, §143, Oct. 21, 1998, 112 Stat. 2681–609; Pub. L. 106–79, title VIII, §8135, Oct. 25, 1999, 113 Stat. 1268, provided that:
 
-“(a) The Secretary of Defense shall require not later than June 30, 1997, each disbursement by the Department of Defense in an amount in excess of $1,000,000 be matched to a particular obligation before the disbursement is made.
+“(a) The Secretary of Defense shall require each disbursement by the Department of Defense in an amount in excess of $500,000 be matched to a particular obligation before the disbursement is made.
 
 “(b) The Secretary shall ensure that a disbursement in excess of the threshold amount applicable under section (a) is not divided into multiple disbursements of less than that amount for the purpose of avoiding the applicability of such section to that disbursement.”
 
@@ -1528,7 +1834,7 @@ Requirements Relating To Use of Specific Physical Requirements.—(1) For any mi
 
 “(c)
 
-Notice to Congress of Changes.—Whenever the Secretary of Defense proposes to implement changes to the occupational standards for a military occupational field that are expected to result in an increase, or in a decrease, of at least 10 percent in the number of female members of the Armed Forces who enter, or are assigned to, that occupational field, the Secretary of Defense shall submit to Congress a report providing notice of the change and the justification and rationale for the change. Such changes may then be implemented only after the end of the 60-day period beginning on the date on which such report is submitted.”
+Notice to Congress of Changes.—Whenever the Secretary of Defense proposes to implement changes tothe occupational standards for a military occupational field that are expected to result in an increase, or in a decrease, of at least 10 percent in the number of female members of the Armed Forces who enter, or are assigned to, that occupational field, the Secretary of Defense shall submit to Congress a report providing notice of the change and the justification and rationale for the change. Such changes may then be implemented only after the end of the 60-day period beginning on the date on which such report is submitted.”
 
 #### Foreign Language Proficiency Test Program
 
@@ -1538,7 +1844,7 @@ Pub. L. 103–160, div. A, title V, §575, Nov. 30, 1993, 107 Stat. 1675, provid
 
 Test Program.—The Secretary of Defense shall develop and carry out a test program for improving foreign language proficiency in the Department of Defense through improved management and other measures. The test program shall be designed to evaluate the findings and recommendations of—
 
-&emsp;“(1) the June 1993 inspection report of the Inspector General of the Department of Defense on the DefenseForeign Language Program (report numbered 93–INS–10);
+&emsp;“(1) the June 1993 inspection report of the Inspector General of the Department of Defense on the Defense Foreign Language Program (report numbered 93–INS–10);
 
 &emsp;“(2) the report of the Sixth Quadrennial Review of Military Compensation (August 1988); and
 
@@ -1958,7 +2264,7 @@ European Procurement Practices.—The Secretary of Defense shall—
 
 &emsp;“(1) compute the total value of American-made military goods and services procured each year by European governments or companies;
 
-&emsp;“(2) review defense procurement practices of European governments to determine what factors are considered in the selection of contractors and to determine whether American firms are discriminated against in the selection of contractors for purchases by such governments of military goods and services; and
+&emsp;“(2) review defense procurement practices of European governments to determine what factors are considered in the selection of contractors and to determine whether American firms are discriminated against in the selection of contractors for purchasesby such governments of military goods and services; and
 
 &emsp;“(3) establish a procedure for discussion with European governments about defense contract awards made by them that American firms believe were awarded unfairly.
 
@@ -2156,7 +2462,7 @@ Permanent Ceiling on United States Armed Forces in Japan.—Funds appropriated p
 
 “(c)
 
-Sense of Congress on Allied Burden Sharing.—(1) Congress recognizes that Japan has made a substantial pledge of financial support to the effort to support the United Nations Security Council resolutions on Iraq.
+Sense of Congress on Allied Burden Sharing.—(1) Congress recognizes that Japan has made a substantial pledge of financial support to the effort tosupport the United Nations Security Council resolutions on Iraq.
 
 “(2) It is the sense of Congress that—
 
@@ -2244,7 +2550,7 @@ Section 1309 of Pub. L. 100–456 directed Secretary of Defense to submit to Con
 
 #### Department of Defense Overseas Personnel; Actions Resulting in More Balanced Sharing of Defense and Foreign Assistance Spending Burdens by United States and Allies; Reports to Congress; Limitation on Active Duty Armed Forces Members in Japan and Republic of Korea
 
-Pub. L. 100–463, title VIII, §8125, Oct. 1, 1988, 102 Stat. 2270–41, as amended by Pub. L. 101–189, div. A, title XVI, §1623, Nov. 29, 1989, 103 Stat. 1606; Pub. L. 103–236, title I, §162(j), Apr. 30, 1994, 108 Stat. 408; Pub. L. 104–106, div. A, title XV, §1502(f)(1), Feb. 10, 1996, 110 Stat. 509, provided that:
+Pub. L. 100–463, title VIII, §8125, Oct. 1, 1988, 102 Stat. 2270–41, as amended by Pub. L. 101–189, div. A, title XVI, §1623, Nov. 29, 1989, 103 Stat. 1606; Pub. L. 103–236, titleI, §162(j), Apr. 30, 1994, 108 Stat. 408; Pub. L. 104–106, div. A, title XV, §1502(f)(1), Feb. 10, 1996, 110 Stat. 509; Pub. L. 106–65, div. A, title X, §1067(14), Oct. 5, 1999, 113 Stat. 775, provided that:
 
 “(a)(1) Not later than March 1, 1989, the Secretary of Defense shall submit to Congress a report on the assignment of military missions among the member countries of North Atlantic Treaty Organization (NATO) and on the prospects for the more effective assignment of such missions among such countries.
 
@@ -2270,7 +2576,7 @@ Pub. L. 100–463, title VIII, §8125, Oct. 1, 1988, 102 Stat. 2270–41, as ame
 
 “(g)(1) After fiscal year 1990, budget submissions to Congress under section 1105 of title 31, United States Code, shall identify funds requested for Department of Defense personnel and units in permanent duty stations ashore outside the United States that exceed the amount of such costs incurred in fiscal year 1989 and shall set forth a detailed description of (A) the types of expenditures increased, by appropriation account, activity and program; and (B) specific efforts to obtain allied host nations’ financing for these cost increases.
 
-“(2) The Secretary of Defense shall notify in advance the Committee on Appropriations and the Committee on Armed Services of the Senate and the Committee on Appropriations and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of House of Representatives\], through existing notification procedures, when costs of maintaining Department of Defense personnel and units in permanent duty stations ashore outside the United States will exceed the amounts as defined in the Department of Defense budget as enacted for that fiscal year. Such notification shall describe: (A) the type of expenditures that increased; and (B) the source of funds (including prior year unobligated balances) by appropriation account, activity and program, proposed to finance these costs.
+“(2) The Secretary of Defense shall notify in advance the Committee on Appropriations and the Committee on Armed Services of the Senate and the Committee on Appropriations and the Committee on Armed Services of the House of Representatives, through existing notification procedures, when costs of maintaining Department of Defense personnel and units in permanent duty stations ashore outside the United States will exceed the amounts as defined in the Department of Defense budget as enacted for that fiscal year. Such notification shall describe: (A) the type of expenditures that increased; and (B) the source of funds (including prior year unobligated balances) by appropriation account, activity and program, proposed to finance these costs.
 
 “(3) In computing the costs incurred for maintaining Department of Defense personnel and forces in permanent duty stations ashore outside the United States compared with the amount of such costs incurred in fiscal year 1989, the Secretary shall—
 
@@ -2306,7 +2612,7 @@ Section 638 of Pub. L. 100–180, as amended by Pub. L. 101–189, div. A, title
 
 “(a)
 
-Test Program.—The Secretary of Defense shall carry out a test program under which a member of the Armed Forces under the jurisdiction of the Secretary may be reimbursed, as provided in this section, for qualifying adoption expenses incurred by the member. The Secretary of Transportation shall carry out a similar test program under which a member of the Coast Guard may be reimbursed, as provided in this section, for qualifying adoption expenses incurred by the member.
+Test Program.—The Secretary of Defense shall carry out a test program under which a member of theArmed Forces under the jurisdiction of the Secretary may be reimbursed, as provided in this section, for qualifying adoption expenses incurred by the member. The Secretary of Transportation shall carry out a similar test program under which a member of the Coast Guard may be reimbursed, as provided in this section, for qualifying adoption expenses incurred by the member.
 
 “(b)
 
@@ -2518,7 +2824,7 @@ Pub. L. 98–94, title X, §1033, Sept. 24, 1983, 97 Stat. 672, as amended by Pu
 
 #### Military Family Policy and Programs
 
-Pub. L. 99–145, title VIII, Nov. 8, 1985, 99 Stat. 678, as amended by Pub. L. 99–661, div. A, title VI, §653, Nov. 14, 1986, 100 Stat. 3890; Pub. L. 100–180, div. A, title VI, §635, Dec. 4, 1987, 101 Stat. 1106; Pub. L. 100–456, div. A, title V, §524, Sept. 29, 1988, 102 Stat. 1975, which provided that such title could be cited as the “Military Family Act of 1985”, and which related to Office of Family Policy, transfer of Military Family Resource Center, surveys of military families, family members serving on advisory committees, employment opportunities for military spouses, youth sponsorship program, dependent student travel within United States, relocation and housing, food programs, reporting of child abuse, miscellaneous reporting requirements, and effective date, was repealed and restated in subchapter I (§1781 et seq.) of chapter 88 of this title by Pub. L.104–106, div. A, title V, §568(a)(1), (e)(1), Feb. 10, 1996, 110 Stat. 329, 336.
+Pub. L. 99–145, title VIII, Nov. 8, 1985, 99 Stat. 678, as amended by Pub. L. 99–661, div. A, title VI, §653, Nov. 14, 1986, 100 Stat. 3890; Pub. L. 100–180, div. A, title VI, §635, Dec. 4, 1987, 101 Stat. 1106; Pub. L. 100–456, div. A, title V, §524, Sept. 29, 1988, 102 Stat. 1975, which provided that such title could be cited as the “Military Family Act of 1985”, and which related to Office of Family Policy, transfer of Military Family Resource Center, surveys of military families, family members serving on advisory committees, employment opportunities for military spouses, youth sponsorship program, dependent student travel within United States, relocation and housing, food programs, reporting of child abuse, miscellaneous reporting requirements, and effective date, was repealed and restated in subchapter I (§1781 et seq.) of chapter 88 of this title by Pub. L. 104–106, div. A, title V, §568(a)(1), (e)(1), Feb. 10, 1996, 110 Stat. 329, 336.
 
 #### Academic Institutions Eligible To Provide Educational Services; Prohibition of Certain Restrictions
 
@@ -2574,7 +2880,7 @@ Pub. L. 99–85, Aug. 8, 1985, 99 Stat. 286, as amended by Pub. L. 103–199, ti
 
 “
 
-Sec. 2. (a) The Secretary of Defense may use any funds available to the Department of Defense for the procurement of the equipment and providing the services referred to in the first section.
+Sec. 2. (a) The Secretary of Defense may use any funds available to the Department of Defense for theprocurement of the equipment and providing the services referred to in the first section.
 
 “(b) Funds received from Russia as payment for such equipment and services shall be credited to the appropriate account of Department of Defense.”
 
@@ -2582,7 +2888,7 @@ Sec. 2. (a) The Secretary of Defense may use any funds available to the Departme
 
 #### Consolidation of Functions of Military Transportation Commands Prohibited
 
-Pub. L. 97–252, title XI, §1110, Sept. 8, 1982, 96 Stat. 747, provided that none of funds appropriated pursuant to an authorization of appropriations could be used forpurpose of consolidating any functions being performed on Sept. 8, 1982, by Military Traffic Management Command of Army, Military Sealift Command of Navy, or Military Airlift Command of Air Force with any function being performed on such date by either or both of the other commands, prior to repeal by Pub. L. 99–433, title II, §213(a), Oct. 1, 1986, 100 Stat. 1018.
+Pub. L. 97–252, title XI, §1110, Sept. 8, 1982, 96 Stat. 747, provided that none of funds appropriated pursuant to an authorization of appropriations could be used for purpose of consolidating any functions being performed on Sept. 8, 1982, by Military Traffic Management Command of Army, Military Sealift Command of Navy, or Military Airlift Command of Air Force with any function being performed on such date by either or both of the other commands, prior to repeal by Pub. L. 99–433, title II, §213(a), Oct. 1, 1986, 100 Stat. 1018.
 
 #### Reports to Congress on Recommendations With Respect to Elimination of Waste, Fraud, Abuse, and Mismanagement in Department of Defense
 
@@ -2630,7 +2936,7 @@ Memorandum for the Secretary of Defense
 
 Consistent with section 8105(d)(2) of the Department of Defense Appropriation Act, 1991 (Public Law 101–511; 104 Stat. 1856) \[set out above\], I hereby waive the limitation in section 8105(b) which states that the end strength level for each fiscal year of all personnel of the Armed Forces of the United States stationed in Japan may not exceed the number that is 5,000 less than such end strength level for the preceding fiscal year, and declare that it is in the national interest to do so.
 
-You are authorized and directed to inform the Congress of this waiver and of the reasons for the waivercontained in the attached justification, and to publish this memorandum in the Federal Register.
+You are authorized and directed to inform the Congress of this waiver and of the reasons for the waiver contained in the attached justification, and to publish this memorandum in the Federal Register.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2648,5 +2954,5 @@ Reports to Congressional committees, policies and procedures on recall to active
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 117, 183, 667, 1762, 2220, 2501, 3038, 5143, 5144, 8038, 10504 of this title; title 22 section 2595a; title 50 section 1523; title 50 App. sections 2077, 2152.
+This section is referred to in sections 117, 183, 487, 667, 1762, 2220, 2501, 3038, 5143, 5144, 8038, 10504 of this title; title 22 section 2595a; title 50 section 1523; title 50 App. sections 2077, 2152.
 

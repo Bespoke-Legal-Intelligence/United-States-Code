@@ -76,7 +76,7 @@ To be eligible for a grant under this subpart, an eligible entity shall serve—
 
 The Head Start Act, referred to in subsec. (b)(1)(E), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (b)(1)(E), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part H of the Act was classified generally to subchapter VIII (§1471 et seq.) of chapter 33 of this title prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(1)(E), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part H of the Act was classified generally to subchapter VIII (§1471 et seq.) of chapter 33 of this title prior to repealby Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Amendments
 

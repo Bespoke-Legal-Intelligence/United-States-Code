@@ -22,45 +22,21 @@
 
 (3) Paragraph (1) shall not apply to an employee entitled to an annuity under subsection (d) or (e) of section 8412.
 
-(c) A military reserve technician who is separated from technician service, after becoming 50 years of age and completing 25 years of service, by reason of ceasing to satisfy the condition described in section 8401(30)(B) is entitled to an annuity.
+(c)(1) An employee who was hired as a military reserve technician on or before February 10, 1996 (under the provisions of this title in effect before that date), and who is separated from technician service, after becoming 50 years of age and completing 25 years of service, by reason of being separated from the Selected Reserve of the employee's reserve component or ceasing to hold the military grade specified by the Secretary concerned for the position held by the employee is entitled to an annuity.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 526; amended Pub. L. 100–325, §2(m), May 30, 1988, 102 Stat. 583; Pub. L. 101–194, title V, §506(b)(9), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 105–261, div. A, title XI, §1109(b), Oct. 17, 1998, 112 Stat. 2144.)
+(2) An employee who is initially hired as a military technician (dual status) after February 10, 1996, and who is separated from the Selected Reserve or ceases to hold the military grade specified by the Secretary concerned for the position held by the technician—
 
-#### Amendment of Section
+&emsp;(A) after completing 25 years of service as a military technician (dual status), or
 
-<i>Pub. L. 105–261, div. A, title XI, §1109(b), (d), Oct. 17, 1998, 112 Stat. 2144, 2145, provided that, effective Oct. 1, 2000, and applicable with respect to an approval for voluntary early retirement made on or after that date, this section is amended—</i>
+&emsp;(B) after becoming 50 years of age and completing 20 years of service as a military technician (dual status),
 
-<i>(1) in subsection (b)(1)(B), by inserting “except in the case of an employee described in subsection (d)(1),” after “(B)”; and</i>
+> is entitled to an annuity.
 
-<i>(2) by adding at the end the following:</i>
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 526; amended Pub. L. 100–325, §2(m), May 30, 1988, 102 Stat. 583; Pub. L. 101–194, title V, §506(b)(9), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 105–261, div. A, title XI, §1109(b), Oct. 17, 1998, 112 Stat. 2144; Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–65, div. A, title V, §522(b), Oct. 5, 1999, 113 Stat. 597.)
 
-(d)(1) An employee of the Department of Defense who is separated from the service under conditions described in paragraph (2) after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity.
+#### Application of Subsection (b)(1)(B)
 
-(2) Paragraph (1) applies to an employee who—
-
-&emsp;(A) has been employed continuously by the Department of Defense for more than 30 days before the date on which the Secretary concerned requests the determinations required under subparagraph (D)(i);
-
-&emsp;(B) is serving under an appointment that is not limited by time;
-
-&emsp;(C) has not received a decision notice of involuntary separation for misconduct or unacceptable performance that is pending decision; and
-
-&emsp;(D) is separated from the service voluntarily during a period in which—
-
-&emsp;&emsp;(i) the Department of Defense or the military department or subordinate organization within the Department of Defense or military department in which the employee is serving is undergoing a major reorganization, a major reduction in force, or a major transfer of function, and employees comprising a significant percentage of the employees serving in that department or organization are to be separated or subject to an immediate reduction in the rate of basic pay (without regard to subchapter VI of chapter 53, or comparable provisions of law), as determined by the Office of Personnel Management (under regulations prescribed by the Office) upon the request of the Secretary concerned; and
-
-&emsp;&emsp;(ii) the employee is within the scope of an offer of voluntary early retirement (as defined by organizational unit, occupational series or level, geographical location, any other similar factor that the Office of Personnel Management determines appropriate, or any combination of such definitions of scope), as determined by the Secretary concerned under regulations prescribed by the Office.
-
-(3) In this subsection, the term “Secretary concerned” means—
-
-&emsp;(A) the Secretary of Defense, with respect to an employee of the Department of Defense not employed in a position in a military department;
-
-&emsp;(B) the Secretary of the Army, with respect to an employee of the Department of the Army;
-
-&emsp;(C) the Secretary of the Navy, with respect to an employee of the Department of the Navy; and
-
-&emsp;(D) the Secretary of the Air Force, with respect to an employee of the Department of the Air Force.
-
-<i>Pub. L. 105–174, title III, §7001(b), May 1, 1998, 112 Stat. 91, provided that, effective for purposes of the period beginning May 1, 1998, and ending Sept. 30, 1999, subsection (b)(1)(B) of this section shall be applied as if it had been amended to read as follows:</i>
+<i>Pub. L. 105–174, title III, §7001(b), May 1, 1998, 112 Stat. 91, as amended by Pub. L. 106–58, title VI, §651(a), Sept. 29, 1999, 113 Stat. 480, provided that, effective May 1, 1998, subsection (b)(1)(B) of this section shall be applied as if it had been amended to read as follows:</i>
 
 (B)(i) has been employed continuously, by the agency in which the employee is serving, for at least the 31-day period ending on the date on which such agency requests the determination referred to in clause (iv);
 
@@ -88,15 +64,21 @@
 
 #### Amendments
 
+1999—Subsec. (b)(1)(B). Pub. L. 106–58 repealed Pub. L. 105–261, §1109(b)(1). See 1998 Amendment note below.
+
+Subsec. (c). Pub. L. 106–65 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A military reserve technician who is separated from technician service, after becoming 50 years of age and completing 25 years of service, by reason of ceasing to satisfy the condition described in section 8401(30)(B) is entitled to an annuity.”
+
+Subsec. (d). Pub. L. 106–58 repealed Pub. L. 105–261, §1109(b)(2). See 1998 Amendment note below.
+
+1998—Subsec. (b)(1)(B). Pub. L. 105–261, §1109(b)(1), which directed insertion of “except in the case of an employee described in subsection (d)(1),” after “(B)”, was repealed by Pub. L. 106–58.
+
+Subsec. (d). Pub. L. 105–261, §1109(b)(2), which directed addition of subsec. (d), relating to authority of Department of Defense to offer employees voluntary early retirement, was repealed by Pub. L. 106–58.
+
 1989—Subsec. (a)(1). Pub. L. 101–194, §506(b)(9)(A), substituted “for failure to be recertified as a senior executive under section 3393a or for” for “for”.
 
 Subsec. (a)(2), (3). Pub. L. 101–194, §506(b)(9)(B), (C), substituted “for failure to be recertified as a senior executive or for” for “for”.
 
 1988—Subsec. (a)(3). Pub. L. 100–325 added par. (3).
-
-#### Effective Date of 1998 Amendment
-
-Amendment by Pub. L. 105–261 effective Oct. 1, 2000, and applicable with respect to an approval for voluntary early retirement made on or after that date, see section 1109(d) of Pub. L. 105–261, set out as a note under section 8336 of this title.
 
 #### Effective Date of 1989 Amendment
 

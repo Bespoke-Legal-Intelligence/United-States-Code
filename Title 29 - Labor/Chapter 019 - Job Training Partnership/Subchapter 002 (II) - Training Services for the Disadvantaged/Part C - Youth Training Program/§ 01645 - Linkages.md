@@ -20,7 +20,7 @@ In conducting the program assisted under this part, service delivery areas shall
 
 #### (b) Education and training program linkages
 
-In conducting the program assisted under this part, service delivery areas shall establish appropriate linkages with other education andtraining programs authorized under Federal law. Such programs shall include, where feasible, programs assisted under—
+In conducting the program assisted under this part, service delivery areas shall establish appropriate linkages with other education and training programs authorized under Federal law. Such programs shall include, where feasible, programs assisted under—
 
 &emsp;(1) part B of subchapter IV of this chapter (the Job Corps);
 
@@ -82,7 +82,7 @@ The Food Stamp Act of 1977, referred to in subsec. (b)(7), is Pub. L. 88–525, 
 
 The National Apprenticeship Act, referred to in subsec. (b)(8), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, as amended, which is classified generally to chapter 4C (§50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 
-The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (b)(9), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (b)(9), is Pub. L. 100–77, July 22,1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 #### Amendments
 

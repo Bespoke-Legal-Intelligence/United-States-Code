@@ -46,7 +46,7 @@
 | Three-quarter time | 228 | 266 | 303 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18 |
 | Half-time | 152 | 178 | 202 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12 |
 
-(d)(1) Notwithstanding the prohibition in section 3471 of this title prohibiting enrollment of an eligible veteran in a program of education in which such veteran has “already qualified,” a veteran shall be allowed up to six months of educational assistance (or the equivalent thereof in part-time assistance) for the pursuit of refresher training to permit such veteran to update such veteran's knowledge and skills and to be instructed in the technological advances which have occurred in such veteran's field of employment during and since the period of such veteran's active military service.
+(d)(1) Notwithstanding the prohibition in section 3471 of this title prohibiting enrollment of an eligible veteran in a program of education in which such veteran has “already qualified,” a veteran shall be allowed up to six months of educational assistance (or the equivalent thereof in part-time assistance) for the pursuit of refresher training to permit such veteran to update such veteran's knowledge and skills and tobe instructed in the technological advances which have occurred in such veteran's field of employment during and since the period of such veteran's active military service.
 
 (2) A veteran pursuing refresher training under this subsection shall be paid an educational assistance allowance based upon the rate prescribed in the table in subsection (a)(1) or in subsection (c)(2) of this section, whichever is applicable.
 
@@ -146,7 +146,7 @@ Subsec. (c)(2). Pub. L. 93–508, §102(4), increased the educational assistance
 
 Subsec. (d). Pub. L. 93–508, §204, added subsec. (d).
 
-1972—Subsec. (a)(1), Pub. L. 92–540, §§102(2), 401(4), substituted references to subsec. (c) of this section and section 1787 of this title for references to subsec. (c)(1) or (d) of this section and section 1683 of this title, respectively, and increased the monthly educational assistance allowance for eligible veterans in column II from $175, $128, $81, and $141 to $220, $165, $110, and $177; in column III from $205, $152, $100, and $167 to $261, $196, $131, and $208; in column IV from $230, $177, $114, and $192 to $298, $224, $149, and $236; and in column V from $13, $10, $7, and $10 to $18, $14, $9, and $14, respectively.
+1972—Subsec. (a)(1), Pub. L. 92–540, §§102(2), 401(4), substituted references to subsec. (c) of this section and section 1787 of this title for references to subsec. (c)(1) or (d) of this section and section 1683 of this title, respectively, and increased the monthly educational assistance allowance for eligible veterans in column II from $175, $128, $81, and $141 to $220, $165, $110, and $177; in column III from $205, $152, $100, and $167 to $261, $196,$131, and $208; in column IV from $230, $177, $114, and $192 to $298, $224, $149, and $236; and in column V from $13, $10, $7, and $10 to $18, $14, $9, and $14, respectively.
 
 Subsec. (b). Pub. L. 92–540, §§102(3), 401(5), substituted “$220” for “$175”, and struck out provisions relating to payment of the educational assistance allowance provided by this subsection and the educational assistance allowance provided by section 1696(b) of this title.
 
@@ -216,7 +216,7 @@ Amendment by section 204 of Pub. L. 93–508 effective Dec. 3, 1974, see section
 
 Section 601(a) of Pub. L. 92–540 provided that: “The rate increases provided in Title I of this Act \[see Tables for classification\] and the rate increases provided by the provisions of section 1787 \[now 3687\], title 38, United States Code (as added by section 316 of this Act) shall become effective October 1, 1972; except, for those veterans and eligible persons in training on the date of enactment \[Oct. 24, 1972\], the effective date shall be the date of the commencement of the current enrollment period, but not earlier than September 1, 1972.”
 
-Amendment by section 303 of Pub. L. 92–540 not to effect any enrollment agreement entered into by an eligible veteran prior to Jan. 1, 1973, see section 602 of Pub. L. 92–540, set out as an Effective Date note under section 3686 of this title.
+Amendment by section 303 of Pub. L. 92–540 not to effect any enrollment agreement entered into by an eligible veteran prior to Jan. 1, 1973, see section 602 of Pub.L. 92–540, set out as an Effective Date note under section 3686 of this title.
 
 #### Effective Date of 1970 Amendment
 

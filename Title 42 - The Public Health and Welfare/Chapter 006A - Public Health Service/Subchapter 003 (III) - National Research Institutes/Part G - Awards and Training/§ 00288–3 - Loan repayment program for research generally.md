@@ -4,7 +4,7 @@
 
 #### (1) Authority for program
 
-&emsp;Subject to paragraph (2), the Secretary shall carry out a program of entering into contracts with appropriately qualified health professionals under which such health professionals agree to conduct research, as employees of the National Institutes of Health, in consideration of the Federal Government agreeing to repay, for each year of such service, not more than $35,000 of the principal and interest of the educational loans of such health professionals.
+&emsp;Subject to paragraph (2), the Secretary shall carry out a program of entering into contracts with appropriately qualified health professionals under which such health professionals agree to conduct research, as employees of theNational Institutes of Health, in consideration of the Federal Government agreeing to repay, for each year of such service, not more than $35,000 of the principal and interest of the educational loans of such health professionals.
 
 #### (2) Limitation
 

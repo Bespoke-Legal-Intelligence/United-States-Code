@@ -24,5 +24,5 @@ Works consisting of sounds, images, or both, the first fixation of which is made
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 109, 111, 115, 119, 411 of this title; title 18 section 2318; title 19 section 1595a.
+This section is referred to in sections 109, 111, 115, 119, 122, 411 of this title; title 18 section 2318; title 19 section 1595a.
 

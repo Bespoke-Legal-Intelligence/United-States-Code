@@ -18,7 +18,7 @@ Prior to the issuance of an immigrant visa to any alien, the consular officer sh
 
 #### (e) Surrender of visa
 
-Each immigrant shall surrender his immigrant visa to the immigration officer at the port of entry, who shall endorse on the visa the date and the port of arrival, the identity of the vesselor other means of transportation by which the immigrant arrived, and such other endorsements as may be by regulations required.
+Each immigrant shall surrender his immigrant visa to the immigration officer at the port of entry, who shall endorse on the visa the date and the port of arrival, the identity of the vessel or other means of transportation by which the immigrant arrived, and such other endorsements as may be by regulations required.
 
 #### (f) Surrender of documents
 
@@ -40,7 +40,7 @@ After the issuance of a visa or other documentation to any alien, the consular o
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–208, §631, substituted “six months” for “four months” and inserted “; except that in the case of aliens who are nationals of a foreign country and who either are granted refugee status and firmly resettled in another foreign country or are granted permanent residence and residing in another foreign country, the Secretary of State may prescribe the period of validity of such a visa based upon the treatment granted by that other foreign country to alien refugees and permanent residents, respectively, in the United States” after “within a similar class”.
+1996—Subsec. (c). Pub. L. 104–208, §631, substituted “six months” for “four months” and inserted “; exceptthat in the case of aliens who are nationals of a foreign country and who either are granted refugee status and firmly resettled in another foreign country or are granted permanent residence and residing in another foreign country, the Secretary of State may prescribe the period of validity of such a visa based upon the treatment granted by that other foreign country to alien refugees and permanent residents, respectively, in the United States” after “within a similar class”.
 
 Subsec. (f). Pub. L. 104–208, §308(d)(4)(G), substituted “deny admission to” for “exclude”.
 
@@ -92,6 +92,18 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 89–236, set out as a note under section 1151 of this title.
 
+#### Processing of Visa Applications
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §237\], Nov. 29, 1999, 113 Stat. 1536, 1501A–430, provided that:
+
+“(a)
+
+Policy.—It shall be the policy of the Department of State to process immigrant visa applications of immediate relatives of United States citizens and nonimmigrant K–1 visa applications of fiances of United States citizens within 30 days of the receipt of all necessary documents from the applicant and the Immigration and Naturalization Service. In the case of an immigrant visa application where the sponsor of such applicant is a relative other than an immediate relative, it should be the policy of the Department of State to process such an application within 60 days of the receipt of all necessary documents from the applicant and the Immigration and Naturalization Service.
+
+“(b)
+
+Reports.—Not later than 180 days after the date of enactment of this Act \[Nov. 29, 1999\], and not later than 1 year thereafter, the Secretary of State shall submit to the appropriate congressional committees a report on the extent to which the Department of State is meeting the policy standards under subsection (a). Each report shall be based on a survey of the 22 consular posts which account for approximately 72 percent of immigrant visas issued and, in addition, the consular posts in Guatemala City, Nicosia, Caracas, Naples, and Jakarta. Each report should include data on the average time for processing each category of visa application under subsection (a), a list of the embassies and consular posts which do not meet the policy standards under subsection (a), the amount of funds collected worldwide for processing of visa applications during the most recent fiscal year, the estimated costs of processing such visa applications (based on the Department of State's most recent fee study), the steps being taken by the Department of State to achieve such policy standards, and results achieved by the interagency working group charged with the goal of reducing the overall processing time for visa applications.”
+
 #### Permitting Extension of Period of Validity of Immigrant Visas for Certain Residents of Hong Kong
 
 Section 154 of Pub. L. 101–649, as amended by Pub. L. 102–232, title III, §302(d)(4), Dec. 12, 1991, 105 Stat. 1745, provided that:
@@ -102,7 +114,7 @@ Extending Period of Validity.—
 
 &emsp;“(1)
 
-In general.—Subject to paragraph (2), the limitation on the period of validity of an immigrant visa under section 221(c) of the Immigration and Nationality Act \[8 U.S.C. 1201(c)\] shall not apply in the case of an immigrant visa issued, on or after the date of the enactment of this Act \[Nov. 29, 1990\] and before September 1, 2001, to an alien described in subsection (b), but only if—
+In general.—Subject to paragraph (2), the limitation on the period of validity of an immigrant visa under section 221(c) of the Immigration and Nationality Act \[8 U.S.C. 1201(c)\] shall not apply in the case of an immigrant visa issued, on or after the date ofthe enactment of this Act \[Nov. 29, 1990\] and before September 1, 2001, to an alien described in subsection (b), but only if—
 
 &emsp;&emsp;“(A) the alien elects, within the period of validity of the immigrant visa under such section, to have this section apply, and
 
@@ -152,7 +164,7 @@ Treatment of Children.—In this section, the term ‘child’ has the meaning g
 
 #### Cuban Political Prisoners and Immigrants
 
-Pub. L. 100–204, title IX, §903, Dec. 22, 1987, 101 Stat. 1401, as amended by Pub. L. 104–208, div. C, title III,§308(g)(7)(C)(iii), Sept. 30, 1996, 110 Stat. 3009–624, provided that:
+Pub. L. 100–204, title IX, §903, Dec. 22, 1987, 101 Stat. 1401, as amended by Pub. L. 104–208, div. C, title III, §308(g)(7)(C)(iii), Sept. 30, 1996, 110 Stat. 3009–624, provided that:
 
 “(a)
 

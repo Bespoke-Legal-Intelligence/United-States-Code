@@ -1,6 +1,6 @@
 ### §3002. Function and duties of Commission
 
-The Commission is authorized and directed to monitor the acts of the signatories which reflect compliance with or violation of the articles of the Final Act of the Conference on Security and Cooperation in Europe, with particular regard tothe provisions relating to human rights and Cooperation in Humanitarian Fields. The Commission is further authorized and directed to monitor and encourage the development of programs and activities of the United States Government and private organizations with a view toward taking advantage of the provisions of the Final Act to expand East-West economic cooperation and a greater interchange of people and ideas between East and West.
+The Commission is authorized and directed to monitor the acts of the signatories which reflect compliance with or violation of the articles of the Final Act of the Conference on Security and Cooperation in Europe, with particular regard to the provisions relating to human rights and Cooperation in Humanitarian Fields. The Commission is further authorized and directed to monitor and encourage the development of programs and activities of the United States Government and private organizations with a view toward taking advantage of the provisions of the Final Act to expand East-West economic cooperation and a greater interchange of people and ideas between East and West.
 
 (Pub. L. 94–304, §2, June 3, 1976, 90 Stat. 661; Pub. L. 99–7, §2, Mar. 27, 1985, 99 Stat. 19.)
 

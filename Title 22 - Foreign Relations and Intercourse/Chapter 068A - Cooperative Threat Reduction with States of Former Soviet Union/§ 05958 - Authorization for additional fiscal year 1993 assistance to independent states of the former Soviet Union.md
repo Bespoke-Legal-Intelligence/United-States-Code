@@ -14,7 +14,7 @@ The Secretary of Defense may, to the extent provided in appropriations Acts, tra
 
 #### (c) Administrative provisions
 
-(1) Amounts transferred under subsection (b) of this section shall be available subject to thesame terms and conditions as the appropriations to which transferred.
+(1) Amounts transferred under subsection (b) of this section shall be available subject to the same terms and conditions as the appropriations to which transferred.
 
 (2) The authority to make transfers pursuant to this section is in addition to any other transfer authority of the Department of Defense.
 
@@ -26,5 +26,5 @@ The President shall coordinate the programs described in subsection (b) of this 
 
 #### References in Text
 
-The Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, referred to in subsec. (d), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, referred to in subsec. (d), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 

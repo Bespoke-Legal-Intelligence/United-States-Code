@@ -58,7 +58,7 @@ Maintenance of lists of agents of money transmitting businesses.—Pursuant to r
 
 &emsp;(2)
 
-Treatment of agent as money transmitting business.—The Secretary of the Treasury shall prescribe regulations establishing, on the basis of such criteria as the Secretary determines to be appropriate, a threshold point for treating an agent of a moneytransmitting business as a money transmitting business for purposes of this section.
+Treatment of agent as money transmitting business.—The Secretary of the Treasury shall prescribe regulations establishing, on the basis of such criteria as the Secretary determines to be appropriate, a threshold point for treating an agent of a money transmitting business as a money transmitting business for purposes of this section.
 
 (d)
 

@@ -14,7 +14,7 @@ Act April 16, 1934, ch. 147, 48 Stat. 596, which enacted sections 452 to 457 of 
 
 #### Distribution of Public School Assistance
 
-Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1795, provided that: “notwithstanding any other provision oflaw, the amounts available for assistance to public schools under the Act of April 16, 1934 (48 Stat. 596), as amended (25 U.S.C. 452 et seq.), shall be distributed on the basis of the formula recommended by the Assistant Secretary of Indian Affairs in a letter to the Committees on Appropriations dated June 27, 1988, except that for the fiscal year ending September 30, 1989, the minimum weight factor shall be 1.1 rather than 1.3 and for the fiscal year ending September 30, 1990, the minimum weight factor shall be 1.2 rather than 1.3”.
+Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1795, provided that: “notwithstanding any other provision of law, the amounts available for assistance to public schools under the Act of April 16, 1934 (48 Stat. 596), as amended (25 U.S.C. 452 et seq.), shall be distributed on the basis of the formula recommended by the Assistant Secretary of Indian Affairs in a letter to the Committees on Appropriations dated June 27, 1988, except that for the fiscal year ending September 30, 1989, the minimum weight factor shall be 1.1 rather than 1.3 and for the fiscal year ending September 30, 1990, the minimum weight factor shall be 1.2 rather than 1.3”.
 
 Similar provisions were contained in the following prior appropriation act:
 

@@ -26,7 +26,7 @@
 
 &emsp;(E) conduct sectoral studies of domestic service industries.
 
-(2) For purposes of the collection and analysis required by paragraph (1), and for the purpose of any reporting the Department of Commerce makes under paragraph (3), such collection and reporting shall distinguish between income from investment and income from noninvestment services.
+(2) For purposes of the collection and analysis required by paragraph (1), and for the purpose of any reporting the Department of Commercemakes under paragraph (3), such collection and reporting shall distinguish between income from investment and income from noninvestment services.
 
 (3) On not less than a biennial basis beginning in 1986, the Secretary shall prepare a report which analyzes the information collected under paragraph (1). Such report shall be submitted to the Congress and to the President by not later than the date that is 120 days after the close of the period covered by the report.
 

@@ -16,7 +16,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) used for the generation of electric energy and leased to one or more public utility companies; <i>Provided</i>, That any such lease shall be treated as a sale of electric energy at wholesale for purposes of sections 824d and 824e of title 16.
 
-> &emsp;Such term shall not include any facility for which consent is required under subsection (c) of this section if such consent has not been obtained. Such term includes interconnecting transmission facilities necessary to effect a sale of electric energy at wholesale. For purposes of this paragraph, the term “facility” may include a portion of a facility subject to the limitations of subsection (d) of this section and shall include a facility the construction of which has not been commenced or completed.
+> &emsp;Such term shall not include any facility for which consent is required under subsection (c) of this section if such consent has not been obtained. Such term includes interconnectingtransmission facilities necessary to effect a sale of electric energy at wholesale. For purposes of this paragraph, the term “facility” may include a portion of a facility subject to the limitations of subsection (d) of this section and shall include a facility the construction of which has not been commenced or completed.
 
 #### (3) Sale of electric energy at wholesale
 
@@ -34,7 +34,7 @@ Notwithstanding paragraphs (1) and (2) of subsection (a) of this section, retail
 
 If a rate or charge for, or in connection with, the construction of a facility, or for electric energy produced by a facility (other than any portion of a rate or charge which represents recovery of the cost of a wholesale rate or charge) was in effect under the laws of any State as of October 24, 1992, in order for the facility to be considered an eligible facility, every State commission having jurisdiction over any such rate or charge must make a specific determination that allowing such facility to be an eligible facility (1) will benefit consumers, (2) is in the public interest, and (3) does not violate State law; <i>Provided</i>, That in the case of such a rate or charge which is a rate or charge of an affiliate of a registered holding company:
 
-&emsp;(A) such determination with respect to the facility in question shall be required from every State commission having jurisdictionover the retail rates and charges of the affiliates of such registered holding company; and
+&emsp;(A) such determination with respect to the facility in question shall be required from every State commission having jurisdiction over the retail rates and charges of the affiliates of such registered holding company; and
 
 &emsp;(B) the approval of the Commission under this chapter shall not be required for the transfer of the facility to an exempt wholesale generator.
 
@@ -72,7 +72,7 @@ The issuance of securities by a registered holding company for purposes of finan
 
 &emsp;(5) the Commission shall make its decision under paragraph (3) to approve or disapprove the issue or sale of a security or the guarantee of a security within 120 days of the filing of a declaration concerning such issue, sale or guarantee; and
 
-&emsp;(6) the Commission shall promulgate regulations with respect to the actions which would be considered, for purposes of this subsection, to have a substantial adverse impact on the financial integrity of the registered holding company system; such regulations shall ensure that the action has no adverse impact on any utility subsidiary or its customers, or on the ability of State commissions to protect such subsidiary or customers, and shall take into account the amount and type of capital invested in exempt wholesale generators, the ratio of such capital to the total capital invested in utility operations, the availability of books and records, and the financial and operating experience of the registered holding company and the exempt wholesale generator;the Commission shall promulgate such regulations within 6 months after October 24, 1992; after such 6-month period the Commission shall not approve any actions under paragraph (3), (4) or (5) except in accordance with such issued regulations.
+&emsp;(6) the Commission shall promulgate regulations with respect to the actions which would be considered, for purposes of this subsection, to have a substantial adverse impact on the financial integrity of the registered holding company system; such regulations shall ensure that the action has no adverse impact on any utility subsidiary or its customers, or on the ability of State commissions to protect such subsidiary or customers, and shall take into account the amount and type of capital invested in exempt wholesale generators, the ratio of such capital to the total capital invested in utility operations, the availability of books and records, and the financial and operating experience of the registered holding company and the exempt wholesale generator; the Commission shall promulgate such regulations within 6 months after October 24, 1992; after such 6-month period the Commission shall not approve any actions under paragraph (3), (4) or (5) except in accordance with such issued regulations.
 
 #### (i) Application of chapter to other eligible facilities
 

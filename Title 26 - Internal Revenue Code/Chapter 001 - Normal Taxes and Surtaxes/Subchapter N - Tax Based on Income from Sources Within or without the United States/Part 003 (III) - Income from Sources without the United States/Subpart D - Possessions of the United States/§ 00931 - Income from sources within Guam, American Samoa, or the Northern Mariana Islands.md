@@ -28,7 +28,7 @@ For purposes of this section—
 
 #### (1) Employees of the United States
 
-&emsp;Amounts paid for services performed as an employee of the United States (or any agency thereof) shall be treated as not described in paragraph (1) or (2) of subsection (a).
+&emsp;Amounts paid for services performed as an employee of the United States (or any agencythereof) shall be treated as not described in paragraph (1) or (2) of subsection (a).
 
 #### (2) Determination of source, etc.
 
@@ -158,7 +158,7 @@ Treatment of Certain United States Persons.—Except as otherwise provided in re
 
 “(f)
 
-Exemption From Withholding.—Notwithstanding subsection (b), the modification of section 884 of theInternal Revenue Code of 1986 by reason of the amendment to section 881 of such Code by section 1273(b)(1) of this Act shall apply to taxable years beginning after December 31, 1986.”
+Exemption From Withholding.—Notwithstanding subsection (b), the modification of section 884 of the Internal Revenue Code of 1986 by reason of the amendment to section 881 of such Code by section 1273(b)(1) of this Act shall apply to taxable years beginning after December 31, 1986.”
 
 #### Effective Date of 1984 Amendment
 

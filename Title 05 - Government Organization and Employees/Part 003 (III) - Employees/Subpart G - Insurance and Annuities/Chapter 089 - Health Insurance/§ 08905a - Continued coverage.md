@@ -24,13 +24,13 @@
 
 &emsp;(B) with respect to a child of an employee or annuitant who becomes eligible for continued coverage under this section as a result of ceasing to meet the requirements for being considered a member of the employee's or annuitant's family—
 
-&emsp;&emsp;(i) the employee or annuitant may provide written notice of the child's change in status\(complete with the child's name, address, and such other information as the Office may by regulation require)—
+&emsp;&emsp;(i) the employee or annuitant may provide written notice of the child's change in status (complete with the child's name, address, and such other information as the Office may by regulation require)—
 
 &emsp;&emsp;&emsp;(I) to the employee's employing agency; or
 
 &emsp;&emsp;&emsp;(II) in the case of an annuitant, to the Office; and
 
-&emsp;&emsp;(ii) if the notice referred to in clause (i) is received within 60 days after the date as of which the child involved first ceases to meet the requirements involved, the employing agency or the Office (as the case may be) must, within 14 days after receiving such notice, notify the child of such child's rights under this section.
+&emsp;&emsp;(ii) if the notice referred to in clause (i) is received within 60 days after the date as ofwhich the child involved first ceases to meet the requirements involved, the employing agency or the Office (as the case may be) must, within 14 days after receiving such notice, notify the child of such child's rights under this section.
 
 (2) In order to obtain continued coverage under this section, an appropriate written election (submitted in such manner as the Office by regulation prescribes) must be made—
 
@@ -48,7 +48,7 @@
 
 > &emsp;except that if a parent fails to provide the notice required under paragraph (1)(B)(i) in timely fashion, the 60-day period under this subparagraph shall be based on the date under clause (i), irrespective of whether or not any notice under paragraph (1)(B)(ii) is provided.
 
-(d)(1)(A) Except as provided in paragraph (4), an individual receiving continued coverage under this section shall be required to pay currently into the Employees Health Benefits Fund, under arrangements satisfactory to the Office, an amount equal to the sum of—
+(d)(1)(A) Except as provided in paragraphs (4) and (5), an individual receiving continued coverage under this section shall be required to pay currently into the Employees Health Benefits Fund, under arrangements satisfactory to the Office, an amount equal to the sum of—
 
 &emsp;(i) the employee and agency contributions which would be required in the case of an employee enrolled in the same health benefits plan and level of benefits; and
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(II) if, at the time referred to in subclause (I), the individual was covered as the child of an employee, the employee's employing agency as of such time.
 
-(2) If an individual elects to continue coverage under this section before the end of the applicable period under subsection (c)(2), but after such individual's coverage under this chapter (including any temporary extensions of coverage) expires, coverage shall be restored retroactively, with appropriate contributions (determined in accordance with paragraph (1) or (4), as the case may be) and claims (if any), to the same extent and effect as though no break in coverage had occurred.
+(2) If an individual elects to continue coverage under this section before the end of the applicable period under subsection (c)(2), but after such individual's coverage under this chapter (including any temporary extensions of coverage) expires, coverage shall be restored retroactively, with appropriate contributions (determined in accordance with paragraph (1), (4), or (5), as the case may be) and claims (if any), to the same extent and effect as though no break in coverage had occurred.
 
 (3)(A) An individual making an election under subsection (c)(2)(B) may, at such individual's option, elect coverage either as an individual or, if appropriate, for self and family.
 
@@ -72,7 +72,7 @@
 
 (C) Nothing in this paragraph shall be considered to limit an individual making an election under subsection (c)(2)(A) to coverage for self alone.
 
-(4)(A) If the basis for continued coverage under this section is an involuntary separation from a position, or a voluntary separation from a surplus position, in or under the Department of Defense due to a reduction in force—
+(4)(A) If the basis for continued coverage under this section is an involuntary separation from a position, or a voluntary separation from a surplus position, in or under the Department of Defense due to a reduction in force, or the Department of Energy due to a reduction in force resulting from the establishment of the National Nuclear Security Administration—
 
 &emsp;(i) the individual shall be liable for not more than the employee contributions referred to in paragraph (1)(A)(i); and
 
@@ -80,17 +80,25 @@
 
 (B) This paragraph shall apply with respect to any individual whose continued coverage is based on a separation occurring on or after the date of enactment of this paragraph and before—
 
-&emsp;(i) October 1, 1999; or
+&emsp;(i) October 1, 2003; or
 
-&emsp;(ii) February 1, 2000, if specific notice of such separation was given to such individual before October 1, 1999.
+&emsp;(ii) February 1, 2004, if specific notice of such separation was given to such individual before October 1, 2003.
 
 (C) For the purpose of this paragraph, “surplus position” means a position which is identified in pre-reduction-in-force planning as no longer required, and which is expected to be eliminated under formal reduction-in-force procedures.
+
+(5)(A) If the basis for continued coverage under this section is an involuntary separation from a position in or under the Department of Veterans Affairs due to a reduction in force or a title 38 staffing readjustment—
+
+&emsp;(i) the individual shall be liable for not more than the employee contributions referred to in paragraph (1)(A)(i); and
+
+&emsp;(ii) the agency which last employed the individual shall pay the remaining portion of the amount required under paragraph (1)(A).
+
+(B) This paragraph shall only apply with respect to individuals whose continued coverage is based on a separation occurring on or after the date of the enactment of this paragraph.
 
 (e)(1) Continued coverage under this section may not extend beyond—
 
 &emsp;(A) in the case of an individual whose continued coverage is based on separation from service, the date which is 18 months after the effective date of the separation; or
 
-&emsp;(B) in the case of an individual whose continued coverage is based on ceasing to meet the requirements for being considered an unmarried dependent child, the date which is 36 months after the date on which the individual first ceases to meet those requirements, subject to paragraph (2).
+&emsp;(B) in the case of an individual whose continued coverage is based on ceasing to meetthe requirements for being considered an unmarried dependent child, the date which is 36 months after the date on which the individual first ceases to meet those requirements, subject to paragraph (2).
 
 (2) In the case of an individual who—
 
@@ -130,13 +138,29 @@
 
 > extended coverage under this section may not extend beyond the date which is 36 months after the date of the separation from service, as referred to in subparagraph (A).
 
-(Added Pub. L. 100–654, title II, §201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, §4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, §341(d), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–106, div. A, title X, §1036, Feb. 10, 1996, 110 Stat. 431.)
+(Added Pub. L. 100–654, title II, §201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, §4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, §341(d), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–106, div. A, title X, §1036, Feb. 10, 1996, 110 Stat. 431; Pub. L. 106–65, div. A, title XI, §1104(c), div. C, title XXXII, §3244, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 106–117, title XI, §1106, Nov. 30, 1999, 113 Stat. 1598.)
 
 #### References in Text
 
 The date of enactment of this paragraph, referred to in subsec. (d)(4)(B), is the date of enactment of Pub. L. 102–484, which was approved Oct. 23, 1992.
 
+The date of the enactment of this paragraph, referred to in subsec. (d)(5)(B), is the date of enactment of Pub. L. 106–117, which was approved Nov. 30, 1999.
+
 #### Amendments
+
+1999—Subsec. (d)(1)(A). Pub. L. 106–117, §1106(1), substituted “paragraphs (4) and (5)” for “paragraph (4)” in introductory provisions.
+
+Subsec. (d)(2). Pub. L. 106–117, §1106(2), substituted “(1), (4), or (5)” for “(1) or (4)”.
+
+Subsec. (d)(4)(A). Pub. L. 106–65, §3244, inserted “, or the Department of Energy due to a reduction in force resulting from the establishment of the National Nuclear Security Administration” after “reduction in force” in introductory provisions.
+
+Subsec. (d)(4)(B). Pub. L. 106–65, §1104(c), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+
+“(i) October 1, 1999; or
+
+“(ii) February 1, 2000, if specific notice of such separation was given to such individual before October 1, 1999.”
+
+Subsec. (d)(5). Pub. L. 106–117, §1106(3), added par. (5).
 
 1996—Subsec. (d)(4)(A). Pub. L. 104–106, §1036(1), inserted “, or a voluntary separation from a surplus position,” after “an involuntary separation from a position” in introductory provisions.
 
@@ -149,6 +173,10 @@ Subsec. (d)(4)(C). Pub. L. 104–106, §1036(2), added subpar. (C).
 Subsec. (d)(2). Pub. L. 102–484, §4438(a)(2), substituted “in accordance with paragraph (1) or (4), as the case may be)” for “in accordance with paragraph (1))”.
 
 Subsec. (d)(4). Pub. L. 102–484, §4438(a)(3), added par. (4).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by section 3244 of Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set outas an Effective Date note under section 2401 of Title 50, War and National Defense.
 
 #### Effective Date
 

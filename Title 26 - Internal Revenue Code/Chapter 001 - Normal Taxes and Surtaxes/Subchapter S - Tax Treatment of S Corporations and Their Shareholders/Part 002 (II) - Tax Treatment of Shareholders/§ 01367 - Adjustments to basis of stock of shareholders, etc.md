@@ -30,7 +30,7 @@
 
 #### (1) Income items
 
-&emsp;An amount which is required to be included in the gross income of a shareholder andshown on his return shall be taken into account under subparagraph (A) or (B) of subsection (a)(1) only to the extent such amount is included in the shareholder's gross income on his return, increased or decreased by any adjustment of such amount in a redetermination of the shareholder's tax liability.
+&emsp;An amount which is required to be included in the gross income of a shareholder and shown on his return shall be taken into account under subparagraph (A) or (B) of subsection (a)(1) only to the extent such amount is included in the shareholder's gross income on his return, increased or decreased by any adjustment of such amount in a redetermination of the shareholder's tax liability.
 
 #### (2) Adjustments in basis of indebtedness
 
@@ -44,7 +44,7 @@
 
 #### (3) Coordination with sections 165(g) and 166(d)
 
-&emsp;This section and section 1366 shall be applied before the application of sections 165(g) and 166(d) to any taxable year of the shareholder or the corporation in which the security or debt becomes worthless.
+&emsp;This section and section 1366 shall be applied before the application of sections 165(g) and166(d) to any taxable year of the shareholder or the corporation in which the security or debt becomes worthless.
 
 #### (4) Adjustments in case of inherited stock
 

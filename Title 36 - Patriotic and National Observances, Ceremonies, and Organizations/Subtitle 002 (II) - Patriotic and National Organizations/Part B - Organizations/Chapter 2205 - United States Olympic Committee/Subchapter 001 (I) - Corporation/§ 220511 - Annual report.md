@@ -38,7 +38,7 @@ In subsection (a)(1), the words “full and” are omitted as unnecessary.
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277 amended heading and text of subsec. (a) generally. Prior to amendment,text read as follows: “Not later than June 1 of each year, the corporation shall submit simultaneously to the President and to each House of Congress a detailed report of its operations during the prior calendar year, including—
+1998—Subsec. (a). Pub. L. 105–277 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Not later than June 1 of each year, the corporation shall submit simultaneously to the President and to each House of Congress a detailed report of its operations during the prior calendar year, including—
 
 &emsp;“(1) a complete statement of the corporation's receipts and expenditures; and
 

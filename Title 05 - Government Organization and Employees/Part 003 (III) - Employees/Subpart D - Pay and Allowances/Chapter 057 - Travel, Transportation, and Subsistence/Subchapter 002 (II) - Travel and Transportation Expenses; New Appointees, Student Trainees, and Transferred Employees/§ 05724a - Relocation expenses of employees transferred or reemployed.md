@@ -1,6 +1,6 @@
 ### §5724a. Relocation expenses of employees transferred or reemployed
 
-(a) Under regulations prescribed under section 5738, an agency shall pay to or on behalf of anemployee who transfers in the interest of the Government, a per diem allowance or the actual subsistence expenses, or a combination thereof, of the immediate family of the employee for en route travel of the immediate family between the employee's old and new official stations.
+(a) Under regulations prescribed under section 5738, an agency shall pay to or on behalf of an employee who transfers in the interest of the Government, a per diem allowance or the actual subsistence expenses, or a combination thereof, of the immediate family of the employee for en route travel of the immediate family between the employee's old and new official stations.
 
 (b)(1) Under regulations prescribed under section 5738, an agency may pay to or on behalf of an employee who transfers in the interest of the Government between official stations located within the United States—
 
@@ -52,7 +52,7 @@
 
 (8) Under regulations prescribed under section 5738, an agency may pay to or on behalf of an employee who transfers in the interest of the Government expenses of property management services, instead of expenses under paragraph (1) or (2) of this subsection for sale of the employee's residence, when the agency determines that such transfer is advantageous and cost-effective for the Government.
 
-(e) Under regulations prescribed under section 5738, an agency may pay to or on behalf of an employee who transfers in the interest of the Government, the expenses of property management services when the employee transfers to a post of duty outside the United States. Such payment shall terminate upon return of the employee to an official station within the United States.
+(e) Under regulations prescribed under section 5738, an agency may pay to or on behalf of an employee who transfers in the interest of the Government, the expenses of property management services when the employee transfers to apost of duty outside the United States. Such payment shall terminate upon return of the employee to an official station within the United States.
 
 (f)(1) Under regulations prescribed under section 5738 and subject to paragraph (2), an employee who is reimbursed under subsections (a) through (e) of this section or section 5724(a) of this title is entitled to an amount for miscellaneous expenses—
 
@@ -132,7 +132,7 @@ Subsec. (i). Pub. L. 105–264, §7(9), struck out subsec. (i) which read as fol
 
 Subsec. (j). Pub. L. 105–264, §6(5), struck out subsec. (j) which read as follows: “For purposes of subsections (c), (d), and (e), the term ‘United States’ includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the territories and possessions of the United States, and the areas and installations in the Republic of Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979 (22 U.S.C. 3602(a))).”
 
-1997—Subsec. (j). Pub. L. 105–85, which directed the amendment of subsec. (j) by inserting “and” after “Northern Mariana Islands,” and by substituting “United States.” for “United States, and the areas and installations in the Republic of Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979 (22 U.S.C. 3602(a))).”, effective Jan. 1, 1999, could not be executed because subsec. (j) did not appear subsequentto amendment by Pub. L. 105–264. See 1998 Amendment note above.
+1997—Subsec. (j). Pub. L. 105–85, which directed the amendment of subsec. (j) by inserting “and” after “Northern Mariana Islands,” and by substituting “United States.” for “United States, and the areas and installations in the Republic of Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979 (22 U.S.C. 3602(a))).”, effective Jan. 1, 1999, could not be executed because subsec. (j) did not appear subsequent to amendment by Pub. L. 105–264. See 1998 Amendment note above.
 
 1996—Pub. L. 104–201, §1711, amended section generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (c) which made funds available to pay certain expenses of employees for whom Government pays travel and transportation expenses under section 5724(a) of this title, provided for entitlement to certain amounts of basic pay to such employees, and provided for payment of expenses of certain former employees.
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L.
 
 #### Extension of Payment of Relocation Expenses to Puerto Rico, Northern Mariana Islands, and Territories and Possessions of the United States
 
-Pub. L. 105–277, div. A, title I, §101(b) \[title I, §125\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–74, provided that: “Effective with the enactment of this Act \[Oct. 21, 1998\], and in any fiscal year hereafter, the Attorney General and the Secretary of the Treasury may, for their respective agencies, extend the payment of relocation expenses listed in section 5724a(b)(1) of Title 5 of the United States Code to include the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.”
+Pub. L. 105–277, div. A, §101(b) \[title I, §125\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–74, provided that: “Effective with the enactment of this Act \[Oct. 21, 1998\], and in any fiscal year hereafter, the Attorney General and the Secretary of the Treasury may, for their respective agencies, extend the payment of relocation expenses listed in section 5724a(b)(1) of Title 5 of the United States Code to include the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.”
 
 #### Funding of Amendments by Pub. L. 98–151
 

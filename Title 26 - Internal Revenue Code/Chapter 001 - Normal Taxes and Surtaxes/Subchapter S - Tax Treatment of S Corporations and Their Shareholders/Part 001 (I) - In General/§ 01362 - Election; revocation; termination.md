@@ -122,7 +122,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (B) Gross receipts from sales of capital assets (other than stock and securities)
 
-&emsp;&emsp;For purposes of this paragraph, in the case of dispositions of capital assets (other than stock and securities), gross receipts from such dispositions shall be taken into account only to the extent of the capital gain net income therefrom.
+&emsp;&emsp;For purposes of this paragraph, in the case of dispositions of capital assets (other thanstock and securities), gross receipts from such dispositions shall be taken into account only to the extent of the capital gain net income therefrom.
 
 #### (C) Passive investment income defined
 
@@ -134,7 +134,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (ii) Exception for interest on notes from sales of inventory
 
-&emsp;&emsp;&emsp;The term “passive investment income” shall not include interest on any obligation acquired in the ordinary course of the corporation's trade or business from its sale of property described in section 1221(1).
+&emsp;&emsp;&emsp;The term “passive investment income” shall not include interest on any obligation acquired in the ordinary course of the corporation's trade or business from its sale of property described in section 1221(a)(1).
 
 #### (iii) Treatment of certain lending or finance companies
 
@@ -208,7 +208,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (4) S termination year
 
-&emsp;For purposes of this subsection, the term “S termination year” means any taxable year of a corporation (determined without regard to this subsection) in which a termination of an election made under subsection (a) takes effect (other than on the 1st day thereof).
+&emsp;For purposes of this subsection, the term “S termination year” means any taxable year ofa corporation (determined without regard to this subsection) in which a termination of an election made under subsection (a) takes effect (other than on the 1st day thereof).
 
 #### (5) Tax for C short year determined on annualized basis
 
@@ -266,9 +266,11 @@ If—
 
 If a small business corporation has made an election under subsection (a) and if such election has been terminated under subsection (d), such corporation (and any successor corporation) shall not be eligible to make an election under subsection (a) for any taxable year before its 5th taxable year which begins after the 1st taxable year for which such termination is effective, unless the Secretary consents to such election.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1672; amended Pub. L. 98–369, div. A, title I, §102(d)(2), title VII, §721(g), (h), (<i>l</i>), (t), July 18, 1984, 98 Stat. 623, 968, 969, 971; Pub. L. 100–647, title I, §§1006(f)(6), 1007(g)(9), Nov. 10, 1988, 102 Stat. 3406, 3435; Pub. L. 104–188, title I, §§1305(a),\(b), 1308(c), 1311(b)(1), Aug. 20, 1996, 110 Stat. 1779, 1780, 1783, 1784.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1672; amended Pub. L. 98–369, div. A, title I, §102(d)(2), title VII, §721(g), (h), (<i>l</i>), (t), July 18, 1984, 98 Stat. 623, 968, 969, 971; Pub. L. 100–647, title I, §§1006(f)(6), 1007(g)(9), Nov. 10, 1988, 102 Stat. 3406, 3435; Pub. L. 104–188, title I, §§1305(a), (b), 1308(c), 1311(b)(1), Aug. 20, 1996, 110 Stat. 1779, 1780, 1783, 1784; Pub. L. 106–170, title V, §532(c)(2)(T), Dec. 17, 1999, 113 Stat. 1931.)
 
 #### Amendments
+
+1999—Subsec. (d)(3)(C)(ii). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
 
 1996—Subsec. (b)(5). Pub. L. 104–188, §1305(b), added par. (5).
 
@@ -296,7 +298,7 @@ Inadvertent Terminations.—If—
 
 &emsp;“(2) the Secretary determines that the termination was inadvertent,
 
-&emsp;“(3) no later than a reasonable period of time after discovery of the event resulting in such termination, steps were taken so that the corporation is once more a small business corporation, and
+&emsp;“(3) no later than a reasonable period of time after discovery of the event resulting in such termination,steps were taken so that the corporation is once more a small business corporation, and
 
 &emsp;“(4) the corporation, and each person who was a shareholder of the corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of the corporation as an S corporation) as may be required by the Secretary with respect to such period,
 
@@ -321,6 +323,10 @@ Subsec. (e)(3)(B). Pub. L. 98–369, §721(h), struck out “All” in heading, 
 Subsec. (e)(6)(C). Pub. L. 98–369, §721(g)(1), added subpar. (C).
 
 Subsec. (e)(6)(D). Pub. L. 98–369, §721(t), added subpar. (D).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
 
 #### Effective Date of 1996 Amendment
 

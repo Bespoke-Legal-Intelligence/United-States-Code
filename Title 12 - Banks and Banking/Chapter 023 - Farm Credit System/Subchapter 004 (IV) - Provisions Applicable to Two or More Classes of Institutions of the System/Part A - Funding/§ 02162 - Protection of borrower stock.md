@@ -64,7 +64,7 @@ For purposes of this section:
 
 #### Prior Provisions
 
-A prior section 4.9A of Pub. L. 92–181, which authorized a central reserve for Farm Credit System, wasclassified to section 2161 of this title and was repealed by Pub. L. 100–399, §101(a).
+A prior section 4.9A of Pub. L. 92–181, which authorized a central reserve for Farm Credit System, was classified to section 2161 of this title and was repealed by Pub. L. 100–399, §101(a).
 
 #### Amendments
 

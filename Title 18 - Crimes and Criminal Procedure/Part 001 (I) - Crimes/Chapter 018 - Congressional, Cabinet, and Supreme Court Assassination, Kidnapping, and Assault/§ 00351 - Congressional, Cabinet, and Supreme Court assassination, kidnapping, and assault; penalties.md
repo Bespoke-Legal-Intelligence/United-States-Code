@@ -8,7 +8,7 @@
 
 (d) If two or more persons conspire to kill or kidnap any individual designated in subsection (a) of this section and one or more of such persons do any act to effect the object of the conspiracy, each shall be punished (1) by imprisonment for any term of years or for life, or (2) by death or imprisonment for any term of years or for life, if death results to such individual.
 
-(e) Whoever assaults any person designated in subsection (a) of this section shall be fined under this title, or imprisoned not more than one year, or both; and if the assault involved theuse of a dangerous weapon, or personal injury results, shall be fined under this title, or imprisoned not more than ten years, or both.
+(e) Whoever assaults any person designated in subsection (a) of this section shall be fined under this title, or imprisoned not more than one year, or both; and if the assault involved the use of a dangerous weapon, or personal injury results, shall be fined under this title, or imprisoned not more than ten years, or both.
 
 (f) If Federal investigative or prosecutive jurisdiction is asserted for a violation of this section, such assertion shall suspend the exercise of jurisdiction by a State or local authority, under any applicable State or local law, until Federal action is terminated.
 

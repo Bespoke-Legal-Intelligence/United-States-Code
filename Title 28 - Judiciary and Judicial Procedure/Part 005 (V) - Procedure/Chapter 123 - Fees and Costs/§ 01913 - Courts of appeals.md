@@ -28,9 +28,9 @@ Pub. L. 101–515, title IV, §404, Nov. 5, 1990, 104 Stat. 2132.
 
 #### Court of Appeals Fee Schedule
 
-#### <i>(Effective April 1, 1996)</i>
+#### <i>(Effective October 1, 1999)</i>
 
-Following are fees to be charged for services to be performed by clerks of the courts of appeals. No fees are to be charged for services rendered on behalf of the United States, with the exception of those specifically prescribed in items 2, 4, and 13. No fees under this schedule shall be charged to federal agencies or programs which are funded from judiciary appropriations, including, but not limited to, agencies, organizations, and individuals providing services authorized by the Criminal Justice Act, 18 U.S.C. §3006A, and Bankruptcy Administrator programs.
+Following are fees to be charged for services to be performed by clerks of the courts of appeals. No fees are to be charged for services rendered on behalf of the United States, with the exception of those specifically prescribed in items 2, 4, and 13. No fees under this schedule shall be charged to federal agencies or programs which are funded from judiciary appropriations, including, but not limited to, agencies, organizations,and individuals providing services authorized by the Criminal Justice Act, 18 U.S.C. §3006A, and Bankruptcy Administrator programs.
 
 (1) For docketing a case on appeal or review, or docketing any other proceeding, $100. A separate fee shall be paid by each party filing a notice of appeal in the district court, but parties filing a joint notice of appeal in the district court are required to pay only one fee. A docketing fee shall not be charged for the docketing of an application for the allowance of an interlocutory appeal under 28 U.S.C. §1292(b), unless the appeal is allowed.
 
@@ -38,7 +38,7 @@ Following are fees to be charged for services to be performed by clerks of the c
 
 (3) For certifying any document or paper, whether the certification is made directly on the document, or by separate instrument, $5.
 
-(4) For reproducing any record or paper, 50 cents per page. This fee shall apply to paper copies made from either: (1) original documents; or (2) microfiche or microfilm reproductions of the original records.
+(4) For reproducing any record or paper, $.50 per page. This fee shall apply to paper copies made from either: (1) original documents; or (2) microfiche or microfilm reproductions of the original records.
 
 (5) For reproduction of the magnetic tape recordings, either cassette or reel-to-reel, $15 including the cost of materials.
 
@@ -56,7 +56,7 @@ Following are fees to be charged for services to be performed by clerks of the c
 
 (12) The clerk shall assess a charge for the handling of registry funds deposited with the court, to be assessed from interest earnings and in accordance with the detailed fee schedule issued by the Director of the Administrative Office of the United States Courts.
 
-(13) For usage of electronic access to court data, 60 cents per minute of usage \[provided the court may, forgood cause, exempt persons or classes of persons from the fees, in order to avoid unreasonable burdens and to promote public access to such information\]. All such fees collected shall be deposited to the Judiciary Automation Fund. This fee shall apply to the United States. (The Judicial Conference has approved an advisory note clarifying the judiciary's policy with respect to exemptions from this fee.)
+(13) For usage of electronic access to court data: $.60 per minute of usage via dial up service, and $.07 per page for public users obtaining information through a federal judiciary Internet site \[provided the court may, for good cause, exempt persons or classes of persons from the fees, in order to avoid unreasonable burdens and to promote public access to such information\]. All such fees collected shall be deposited to the Judiciary Information Technology Fund. These fees shall apply to the United States. (The Judicial Conference has approved an advisory note clarifying the judiciary's policy with respect to exemptions from the fees for usage of electronic access to court data. The Conference has also approved an advisory note defining information that may be provided to the public at no cost.)
 
 #### Cross References
 

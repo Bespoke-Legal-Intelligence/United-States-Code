@@ -10,7 +10,7 @@ Lands, if any, in which the Navajo Tribe or Navajo individuals are determined by
 
 #### (c) Actions for accounting, fair value of grazing, and claims for damages to land; determination of recovery; defenses
 
-(1) Either as a part of or in a proceeding supplementary to the action authorized in subsection (a) of this section, either tribe, through the chairman of its tribal council for and on behalf of the tribe, including all villages, clans,and individual members thereof, may prosecute or defend an action for the types of relief, including interest, specified in section 640d–17 of this title, including all subsections thereof, against the other tribe, through its tribal chairman in a like representative capacity, and against the United States as to the types of recovery specified in subsection (a)(3) of section 640d–17 of this title and subject to the same provisions as contained in said subsection, such action to apply to the lands in issue in the reservation established by the Act of June 14, 1934 (48 Stat. 960).
+(1) Either as a part of or in a proceeding supplementary to the action authorized in subsection (a) of this section, either tribe, through the chairman of its tribal council for and on behalf of the tribe, including all villages, clans, and individual members thereof, may prosecute or defend an action for the types of relief, including interest, specified in section 640d–17 of this title, including all subsections thereof, against the other tribe, through its tribal chairman in a like representative capacity, and against the United States as to the types of recovery specified in subsection (a)(3) of section 640d–17 of this title and subject to the same provisions as contained in said subsection, such action to apply to the lands in issue in the reservation established by the Act of June 14, 1934 (48 Stat. 960).
 
 (2) In the event the Hopi Tribe or Navajo Tribe is determined to have any interest in the lands in issue, the right of either tribe to recover hereunder shall be based upon that percentage of the total sums collected, use made, waste committed, and other amounts of recovery, which is equal to the percentage of lands in issue in which either tribe is determined to have such interest.
 
@@ -30,7 +30,7 @@ The Secretary of the Interior is authorized to pay any or all appropriate legal 
 
 (2) Nothing in this subsection shall be interpreted as a congressional acknowledgement of the San Juan Southern Paiute as an Indian tribe or as affecting in any way the San Juan Southern Paiute Tribe's Petition for Recognition currently pending with the Secretary of the Interior.
 
-(3) There is hereby authorized to be appropriated not to exceed $250,000 to pay for the legal expenses incurred by the Southern Paiute Tribe on legal action arising under this section prior to November 16, 1988.
+(3) There is hereby authorized to be appropriated not to exceed $250,000 to pay for the legal expenses incurred by the Southern Paiute Tribeon legal action arising under this section prior to November 16, 1988.
 
 (Pub. L. 93–531, §8, Dec. 22, 1974, 88 Stat. 1715; Pub. L. 96–305, §2, July 8, 1980, 94 Stat. 929; Pub. L. 100–666, §9, Nov. 16, 1988, 102 Stat. 3933.)
 

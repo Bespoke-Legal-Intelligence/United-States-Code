@@ -16,7 +16,7 @@
 
 &emsp;(D) the State of Alaska files a protest with the Secretary respecting an entry which was made prior to a valid selection tentative approval, patent, deed, or confirmation to the State of Alaska pursuant to applicable law; or
 
-&emsp;(E) regarding public land entries within units of the National Wildlife Refuge Systemestablished or expanded in this Act, any such entry not properly made under applicable law, or not the subject of an application filed within the time required by applicable law, or not properly maintained thereafter under applicable law shall be adjudicated pursuant to the Act under which the entry was made.
+&emsp;(E) regarding public land entries within units of the National Wildlife Refuge System established or expanded in this Act, any such entry not properly made under applicable law, or not the subject of an application filed within the time required by applicable law, or not properly maintained thereafter under applicable law shall be adjudicated pursuant to the Act under which the entry was made.
 
 (4) Paragraph (1) of this subsection and subsection (c) of this section shall not apply to any application which was knowingly and voluntarily relinquished by the applicant.
 
@@ -30,7 +30,7 @@ Where the land described in application (or such an application as adjusted or a
 
 #### (d) Validity of existing rights; rights acquired by actual use and national forest lands unaffected
 
-Prior to issuing a patent for an entry subject to this section, the Secretary shall identify and adjudicate any record entry or application for title to land described in the application, other than the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], the Alaska Statehood Act, or the Act of May 17, 1906, as amended, which entry or application claims land also described in the application, and shall determine whether such entry or application represents a valid existing right to which the application is subject. Nothing in this section shall be construed to affect rights, if any, acquired by actual use of the described land prior to its withdrawal or classification, as affecting National Forest lands.
+Prior to issuing a patent for an entry subject to this section, the Secretary shall identify andadjudicate any record entry or application for title to land described in the application, other than the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], the Alaska Statehood Act, or the Act of May 17, 1906, as amended, which entry or application claims land also described in the application, and shall determine whether such entry or application represents a valid existing right to which the application is subject. Nothing in this section shall be construed to affect rights, if any, acquired by actual use of the described land prior to its withdrawal or classification, as affecting National Forest lands.
 
 (Pub. L. 96–487, title XIII, §1328, Dec. 2, 1980, 94 Stat. 2489.)
 
@@ -42,7 +42,7 @@ Act of May 3, 1927 (44 Stat. 1364), referred to in subsec. (a)(1), probably mean
 
 Act of May 14, 1898, referred to in subsec. (a)(1), is act May 14, 1898, ch. 299, 30 Stat. 409, which is classified to sections 607a and 615a of this title, sections 270, 270–4, 687a, 687a–2, 687a–3, 687a–4, 687a–5, and 942–1 to 942–9 of Title 43, and section 392 of Title 48, Territories and Insular Possessions. Section 270 of Title 43 was repealed by Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789. Section 270–4 of Title 43 was repealed by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787. Sections 687a and 687a–2 to 687a–5 of Title 43 were repealed by Pub. L. 94–579, title VII, §§703(a), 704(a), Oct. 21, 1976, 90 Stat. 2789, 2792. Section 392 of Title 48 was eliminated from the Code as obsolete. For complete classification of this Act to the Code, see Tables.
 
-Act of March 3, 1891, referred to in subsec. (a)(1), is act Mar. 3, 1891, ch. 561, 26 Stat. 1095, which is classified to sections 161, 162, 165, 173, 174, 185, 202, 212, 321, 323, 325, 327 to 329, 663, 671, 687a–6, 718, 728, 732, 893, 946 to 949, 989, 1165, 1166, 1181, and 1197 of this title, sections 471, 607,611, 611a, and 613 of Title 16, Conservation, section 495 of Title 25, Indians, and sections 30, 36, 44, 45, 48; and 52 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Tables.
+Act of March 3, 1891, referred to in subsec. (a)(1), is act Mar. 3, 1891, ch. 561, 26 Stat. 1095, which is classified to sections 161, 162, 165, 173, 174, 185, 202, 212, 321, 323, 325, 327 to 329, 663, 671, 687a–6, 718, 728, 732, 893, 946 to 949, 989, 1165, 1166, 1181, and 1197 of this title, sections 471, 607, 611, 611a, and 613 of Title 16, Conservation, section 495 of Title 25, Indians, and sections 30, 36, 44, 45, 48; and 52 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Tables.
 
 The effective date of this Act, referred to in subsecs. (a) to (c), probably means the date of enactment of Pub. L. 96–487, which was approved Dec. 2, 1980.
 

@@ -158,7 +158,7 @@ Treatment of Service in Armed Forces of Foreign Country.—The amendments made b
 
 “(f)
 
-Filipino War Veterans.—Section 405 \[enacting provisions set out as a note under section 1440 of this title\] (relating to naturalization of natives of the Philippines through active-duty service under United States command during World War II) shall become effective on May 1, 1991, without regard to whether regulations to implement such section have been issued by such date.”
+Filipino War Veterans.—Section 405 \[enacting provisions set out as a note under section 1440 of this title\] (relating to naturalization of natives of the Philippines through active-duty service under UnitedStates command during World War II) shall become effective on May 1, 1991, without regard to whether regulations to implement such section have been issued by such date.”
 
 #### Admission of Alaska and Hawaii to Statehood
 

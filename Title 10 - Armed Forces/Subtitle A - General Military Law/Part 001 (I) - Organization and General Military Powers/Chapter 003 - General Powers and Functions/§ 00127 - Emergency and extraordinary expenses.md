@@ -4,21 +4,23 @@
 
 (b) The authority conferred by this section may be delegated by the Secretary of Defense to any person in the Department of Defense, by the Inspector General to any person in the Office of the Inspector General, or by the Secretary of a military department to any person within his department, with or without the authority to make successive redelegations.
 
-(c)(1) Funds may not be obligated or expended in an amount in excess of $500,000 under the authority of subsection (a) or (b) until the Secretary of Defense has notified the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives of the intent to obligate or expend the funds, and—
+(c)(1) Funds may not be obligated or expended in an amount in excess of $500,000 under the authority of subsection (a) or (b) until the Secretary of Defense has notified the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives of the intent to obligate or expend the funds, and—
 
 &emsp;(A) in the case of an obligation or expenditure in excess of $1,000,000, 15 days have elapsed since the date of the notification; or
 
 &emsp;(B) in the case of an obligation or expenditure in excess of $500,000, but not in excess of $1,000,000, 5 days have elapsed since the date of the notification.
 
-(2) Subparagraph (A) or (B) of paragraph (1) shall not apply to an obligation or expenditure of funds otherwise covered by such subparagraph if the Secretary of Defense determines that the national security objectives of the United States will be compromised by the application of the subparagraph to the obligation or expenditure. If the Secretary makes a determination with respect to an obligation or expenditure under the preceding sentence, the Secretary shall immediately notify the committees referred to in paragraph (1) that such obligation or expenditure is necessary and provide any relevant information (in classified form, if necessary) jointly to the chairman and ranking minority member (or their designees) of such committees.
+(2) Subparagraph (A) or (B) of paragraph (1) shall not apply to an obligation or expenditureof funds otherwise covered by such subparagraph if the Secretary of Defense determines that the national security objectives of the United States will be compromised by the application of the subparagraph to the obligation or expenditure. If the Secretary makes a determination with respect to an obligation or expenditure under the preceding sentence, the Secretary shall immediately notify the committees referred to in paragraph (1) that such obligation or expenditure is necessary and provide any relevant information (in classified form, if necessary) jointly to the chairman and ranking minority member (or their designees) of such committees.
 
 (3) A notification under paragraph (1) and information referred to in paragraph (2) shall include the amount to be obligated or expended, as the case may be, and the purpose of the obligation or expenditure.
 
-(d) In any case in which funds are expended under the authority of subsections (a) and (b), the Secretary of Defense shall submit a report of such expenditures on a quarterly basis to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives.
+(d) In any case in which funds are expended under the authority of subsections (a) and (b), the Secretary of Defense shall submit a report of such expenditures on a quarterly basis to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
 
-(Added Pub. L. 94–106, title VIII, §804(a), Oct. 7, 1975, 89 Stat. 538, §140; amended Pub. L. 98–94, title XII, §1268(2), Sept. 24, 1983, 97 Stat. 705; renumbered §127 and amended Pub. L. 99–433, title I, §§101(a)(3), 110(d)(4), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 103–160, div. A, title III, §361, Nov. 30, 1993, 107 Stat. 1627; Pub. L. 103–337, div. A, title III, §378, Oct. 5, 1994, 108 Stat. 2737; Pub. L. 104–106, div. A, title IX, §915, title XV, §1502(a)(5), Feb. 10, 1996, 110 Stat. 413, 502.)
+(Added Pub. L. 94–106, title VIII, §804(a), Oct. 7, 1975, 89 Stat. 538, §140; amended Pub. L. 98–94, title XII, §1268(2), Sept. 24, 1983, 97 Stat. 705; renumbered §127 and amended Pub. L. 99–433, title I, §§101(a)(3), 110(d)(4), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 103–160, div. A, title III, §361, Nov. 30, 1993, 107 Stat. 1627; Pub. L. 103–337, div. A, title III, §378, Oct. 5, 1994, 108 Stat. 2737; Pub. L. 104–106, div. A, title IX, §915, title XV, §1502(a)(5), Feb. 10, 1996, 110 Stat. 413, 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Amendments
+
+1999—Subsecs. (c)(1), (d). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 1996—Subsec. (c). Pub. L. 104–106, §915(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -39,10 +41,6 @@ Subsec. (c). Pub. L. 103–160, §361(3), designated existing provisions as par.
 1983—Subsec. (a). Pub. L. 98–94 struck out “of this section” after “subsection (c)”.
 
 Subsec. (c). Pub. L. 98–94 struck out “of this section” after “subsections (a) and (b)”.
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Construction Authority of Secretary of Defense Under Declaration of War or National Emergency
 

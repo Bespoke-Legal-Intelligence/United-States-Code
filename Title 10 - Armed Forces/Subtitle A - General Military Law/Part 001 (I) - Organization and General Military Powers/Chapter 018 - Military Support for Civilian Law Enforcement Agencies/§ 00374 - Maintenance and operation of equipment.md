@@ -26,7 +26,7 @@
 
 &emsp;(F) Subject to joint approval by the Secretary of Defense and the Attorney General (and the Secretary of State in the case of a law enforcement operation outside of the land area of the United States)—
 
-&emsp;&emsp;(i) the transportation of civilian law enforcement personnel along with any other civilian or military personnel who are supporting, or conducting, a joint operation with civilian law enforcement personnel;; <sup>1</sup>
+&emsp;&emsp;(i) the transportation of civilian law enforcement personnel along with any other civilian or military personnel who are supporting, or conducting, a joint operation with civilian law enforcement personnel;
 
 &emsp;&emsp;(ii) the operation of a base of operations for civilian law enforcement and supporting personnel; and
 
@@ -52,7 +52,7 @@
 
 (c) The Secretary of Defense may, in accordance with other applicable law, make Department of Defense personnel available to any Federal, State, or local civilian law enforcement agency to operate equipment for purposes other than described in subsection (b)(2) only to the extent that such support does not involve direct participation by such personnel in a civilian law enforcement operation unless such direct participation is otherwise authorized by law.
 
-(Added Pub. L. 97–86, title IX, §905(a)(1), Dec. 1, 1981, 95 Stat. 1115; amended Pub. L. 98–525, title XIV, §1405(9), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–570, title III, §3056, Oct. 27, 1986, 100 Stat. 3207–77; Pub. L. 99–661, div. A, title XIII, §1373(c), Nov. 14, 1986, 100 Stat. 4007; Pub. L. 100–418, title I, §1214(a)(1), Aug. 23, 1988, 102 Stat. 1155; Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2043; Pub. L. 101–189, div. A, title XII, §§1210, 1216(b), (c), Nov. 29, 1989, 103 Stat. 1566, 1569; Pub. L. 102–484, div. A, title X, §1042, Oct. 23, 1992, 106 Stat. 2492; Pub. L. 105–277, div. B, title II, §201, Oct. 21, 1998, 112 Stat. 2681–567.)
+(Added Pub. L. 97–86, title IX, §905(a)(1), Dec. 1, 1981, 95 Stat. 1115; amended Pub. L. 98–525, title XIV, §1405(9), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–570, title III, §3056, Oct. 27, 1986, 100 Stat. 3207–77; Pub. L. 99–661, div. A, title XIII, §1373(c), Nov. 14, 1986, 100 Stat. 4007; Pub. L. 100–418, title I, §1214(a)(1), Aug. 23, 1988, 102 Stat. 1155; Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2043; Pub. L. 101–189, div. A, title XII, §§1210, 1216(b), (c), Nov. 29, 1989, 103 Stat. 1566, 1569; Pub. L. 102–484, div. A, title X, §1042, Oct. 23, 1992, 106 Stat. 2492; Pub. L. 105–277, div. B, title II, §201, Oct. 21, 1998, 112 Stat. 2681–567; Pub. L. 106–65, div. A, title X, §1066(a)(4), Oct. 5, 1999, 113 Stat. 770.)
 
 #### References in Text
 
@@ -65,6 +65,10 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(
 The Maritime Drug Law Enforcement Act, referred to in subsec. (b)(4)(A)(iv), is Pub. L. 96–350, Sept. 15, 1980, 94 Stat. 1159, as amended, which is classified generally to chapter 38 (§1901 et seq.) of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1901 of Title 46, Appendix, and Tables.
 
 #### Amendments
+
+1999—Subsec. (b)(1)(C), (D). Pub. L. 106–65, §1066(a)(4)(A), realigned margins.
+
+Subsec. (b)(2)(F)(i). Pub. L. 106–65, §1066(a)(4)(B), struck out semicolon after “law enforcement personnel;”.
 
 1998—Subsec. (b)(1)(C), (D). Pub. L. 105–277, §201(1), (2), added subpars. (C) and (D).
 
@@ -142,9 +146,11 @@ Relationship to Other Law.—A provision of law may not be construed as modifyin
 
 &emsp;“(2) specifically states that such provision of law modifies or supersedes the provisions of subsection (b) or (c), as the case may be.”
 
-Pub. L. 105–262, title VIII, §8065(a), Oct. 17, 1998, 112 Stat. 2311, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 106–79, title VIII, §8065(a), Oct. 25, 1999, 113 Stat. 1244, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–262, title VIII, §8065(a), Oct. 17, 1998, 112 Stat. 2311.
 
 Pub. L. 105–56, title VIII, §8071(a), Oct. 8, 1997, 111 Stat. 1235.
 
@@ -218,7 +224,7 @@ Limited Waiver of Prohibition.—Notwithstanding section 376 of title 10, United
 
 “(f)
 
-Conduct of Training or Operation to Aid Civilian Agencies.—In providing support pursuant to subsection (a), the Secretary of Defense may plan and execute otherwise valid military training or operations (including training exercises undertaken pursuant tosection 1206(a) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 103 Stat. 1564) \[10 U.S.C. 124 note\]) for the purpose of aiding civilian law enforcement agencies.
+Conduct of Training or Operation to Aid Civilian Agencies.—In providing support pursuant to subsection (a), the Secretary of Defense may plan and execute otherwise valid military training or operations (including training exercises undertaken pursuant to section 1206(a) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 103 Stat. 1564) \[10 U.S.C. 124 note\]) for the purpose of aiding civilian law enforcement agencies.
 
 “(g)
 
@@ -293,6 +299,4 @@ Review by General Accounting Office.—The Comptroller General of the United Sta
 #### Section Referred to in Other Sections
 
 This section is referred to in section 379 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

@@ -12,7 +12,7 @@
 
 (4) For a notice of appeal mailed to the Court to be deemed to be received under paragraph (3)(B) on a particular date, the United States Postal Service postmark on the cover in which the notice is posted must be legible. The Court shall determine the legibility of any such postmark and the Court's determination as to legibility shall be final and not subject to review by any other Court.
 
-(b) The appellant shall also furnish the Secretary with a copy of such notice, but a failure to do so shall not constitute a failure of timely compliance with subsection (a) of this section.
+(b) The appellant shall also furnish the Secretary with a copy of such notice, but a failureto do so shall not constitute a failure of timely compliance with subsection (a) of this section.
 
 (Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4116, §4066; renumbered §7266 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title V, §511(a), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
 

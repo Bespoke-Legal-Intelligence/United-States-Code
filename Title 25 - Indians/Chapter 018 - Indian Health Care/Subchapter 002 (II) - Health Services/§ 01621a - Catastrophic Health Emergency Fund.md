@@ -24,7 +24,7 @@ The Secretary shall, through the promulgation of regulations consistent with the
 
 &emsp;&emsp;(A) for 1993, not less than $15,000 or not more than $25,000; and
 
-&emsp;&emsp;(B) for any subsequent year, not less than the threshold cost of the previous year increased by the percentage increase in the medical care expenditure category of theconsumer price index for all urban consumers (United States city average) for the 12-month period ending with December of the previous year;
+&emsp;&emsp;(B) for any subsequent year, not less than the threshold cost of the previous year increased by the percentage increase in the medical care expenditure category of the consumer price index for all urban consumers (United States city average) for the 12-month period ending with December of the previous year;
 
 &emsp;(3) establish a procedure for the reimbursement of the portion of the costs incurred by—
 

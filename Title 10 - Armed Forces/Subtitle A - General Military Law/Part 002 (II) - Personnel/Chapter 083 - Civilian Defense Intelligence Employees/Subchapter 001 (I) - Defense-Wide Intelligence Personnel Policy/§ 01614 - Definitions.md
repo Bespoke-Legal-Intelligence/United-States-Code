@@ -20,7 +20,7 @@ In this subchapter:
 
 &emsp;&emsp;(A) the Committee on Armed Services and the Select Committee on Intelligence of the Senate; and
 
-&emsp;&emsp;(B) the Committee on National Security and the Permanent Select Committee on Intelligence of the House of Representatives.
+&emsp;&emsp;(B) the Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives.
 
 &emsp;(4) The term “excepted service” has the meaning given such term in section 2103 of title 5.
 
@@ -30,11 +30,11 @@ In this subchapter:
 
 &emsp;(7) The term “collective bargaining agreement” has the meaning given such term in section 7103(8) of title 5.
 
-(Added Pub. L. 104–201, div. A, title XVI, §1632(d), Sept. 23, 1996, 110 Stat. 2750.)
+(Added Pub. L. 104–201, div. A, title XVI, §1632(d), Sept. 23, 1996, 110 Stat. 2750; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
-#### Change of Name
+#### Amendments
 
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+1999—Par. (3)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
 #### Effective Date
 

@@ -58,13 +58,13 @@ A petition for compensation under the Program for a vaccine-related injury or de
 
 &emsp;&emsp;(ii) if such person did not receive such a vaccine but contracted polio from another person who received an oral polio vaccine, was a citizen of the United States or a dependent of such a citizen,
 
-&emsp;&emsp;(C)(i) sustained, or had significantly aggravated, any illness, disability, injury, or condition set forth in the Vaccine Injury Tablein association with the vaccine referred to in subparagraph (A) or died from the administration of such vaccine, and the first symptom or manifestation of the onset or of the significant aggravation of any such illness, disability, injury, or condition or the death occurred within the time period after vaccine administration set forth in the Vaccine Injury Table, or
+&emsp;&emsp;(C)(i) sustained, or had significantly aggravated, any illness, disability, injury, or condition set forth in the Vaccine Injury Table in association with the vaccine referred to in subparagraph (A) or died from the administration of such vaccine, and the first symptom or manifestation of the onset or of the significant aggravation of any such illness, disability, injury, or condition or the death occurred within the time period after vaccine administration set forth in the Vaccine Injury Table, or
 
 &emsp;&emsp;(ii)(I) sustained, or had significantly aggravated, any illness, disability, injury, or condition not set forth in the Vaccine Injury Table but which was caused by a vaccine referred to in subparagraph (A), or
 
 &emsp;&emsp;(II) sustained, or had significantly aggravated, any illness, disability, injury, or condition set forth in the Vaccine Injury Table the first symptom or manifestation of the onset or significant aggravation of which did not occur within the time period set forth in the Table but which was caused by a vaccine referred to in subparagraph (A),
 
-&emsp;&emsp;(D)(i) suffered the residual effects or complications of such illness, disability, injury, or condition for more than 6 months after the administration of the vaccine, or (ii) died from the administration of the vaccine, and
+&emsp;&emsp;(D)(i) suffered the residual effects or complications of such illness, disability, injury, or condition for more than 6 months after the administration of the vaccine, or (ii)died from the administration of the vaccine, and
 
 &emsp;&emsp;(E) has not previously collected an award or settlement of a civil action for damages for such vaccine-related injury or death,
 
@@ -142,7 +142,7 @@ Subsec. (c)(3). Pub. L. 101–239, §6601(c)(6)(C), (D), added par. (3). Former 
 
 Subsec. (d). Pub. L. 101–239, §6601(c)(6)(B), redesignated former subsec. (c)(2) as subsec. (d), expanded margin to full measure, inserted subsec. designation and heading, substituted “A petition may also include other available” for “all available”, struck out “(including autopsy reports, if any)” after “relevant medical records”, and substituted “administration of the vaccine.” for “administration of the vaccine and an identification of any unavailable records known to the petitioner and the reasons for their unavailability, and”.
 
-Subsec. (e). Pub. L. 101–239, §6601(c)(6)(D), redesignated former subsec. (c)(3) as subsec. (e), expanded margin to full measure, inserted subsec. designation and heading, and substituted “The petitioner shall submit in accordance with a schedule set by the special master assigned to the petition” for “appropriate”.
+Subsec. (e). Pub. L. 101–239, §6601(c)(6)(D), redesignated former subsec. (c)(3) as subsec. (e), expanded margin to full measure, inserted subsec. designation and heading, and substituted “The petitioner shall submitin accordance with a schedule set by the special master assigned to the petition” for “appropriate”.
 
 1987—Subsec. (a)(1). Pub. L. 100–203, §4307(1), which directed that par. (1) be amended by substituting “with the United States Claims Court” for “with the United States district court for the district in which the petitioner resides or the injury or death occurred”, was executed making the substitution for “with the United States district court for the district in which the petitioner resides or in which the injury or death occurred”, as the probable intent of Congress.
 

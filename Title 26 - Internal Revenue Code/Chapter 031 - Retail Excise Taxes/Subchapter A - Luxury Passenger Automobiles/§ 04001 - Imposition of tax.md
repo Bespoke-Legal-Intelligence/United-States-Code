@@ -120,9 +120,9 @@ The taxes imposed by this section and section 4003 shall not apply to any sale, 
 
 (Added Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–439; amended Pub. L. 103–66, title XIII, §13161(a), Aug. 10, 1993, 107 Stat. 449; Pub. L. 104–188, title I, §§1607(a), (b), 1703(c)(1), Aug. 20, 1996, 110 Stat. 1839, 1875; Pub. L. 105–34, title IX, §906(a)–(b)(2), title XVI, §1601(f)(3)(A), (B), Aug. 5, 1997, 111 Stat. 874, 875, 1090.)
 
-#### Adjustment of Threshold Price for Purposes of Determining Excise Tax Under This Section for Tax Years Beginning in 1999
+#### Adjustment of Threshold Price for Purposes of Determining Excise Tax Under This Section for Tax Years Beginning in 2000
 
-<i>For adjustment of threshold price above which purchase of luxury passenger vehicle becomes subject to excise tax under this section for tax years beginning in 1999, see section 3.18 of Revenue Procedure 98–61, set out as a note under section 1 of this title.</i>
+<i>For adjustment of threshold price above which purchase of luxury passenger vehicle becomes subject to excise tax under this section for tax years beginning in 2000, see section 3.19 of Revenue Procedure 99–42, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 
@@ -160,7 +160,7 @@ Pub. L. 104–188, §1607(a), substituted “December 31, 2002” for “Decembe
 
 Subsec. (g). Pub. L. 104–188, §1607(b), redesignated subsec. (f) as (g).
 
-1993—Pub. L. 103–66 amended section generally, substituting “Imposition of tax” for “Passenger vehicles” in section catchline and “this subchapter” for “subsection (a)” in subsec. (b)(1) and adding subsecs. (d) to (f).
+1993—Pub. L. 103–66 amended section generally, substituting “Imposition of tax” for “Passenger vehicles”in section catchline and “this subchapter” for “subsection (a)” in subsec. (b)(1) and adding subsecs. (d) to (f).
 
 #### Effective Date of 1997 Amendment
 

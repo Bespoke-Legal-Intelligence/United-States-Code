@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-Not later than 1 year after July 26, 1990, the Attorney General shall promulgate regulations in an accessible format that implement this part. Such regulations shall not include any matter within the scope of the authority of the Secretary of Transportation under section 12143, 12149, or 12164 of this title.
+Not later than 1 year after July 26, 1990, the Attorney General shall promulgate regulationsin an accessible format that implement this part. Such regulations shall not include any matter within the scope of the authority of the Secretary of Transportation under section 12143, 12149, or 12164 of this title.
 
 #### (b) Relationship to other regulations
 
-Except for “program accessibility, existing facilities”, and “communications”, regulations under subsection (a) of this section shall be consistent with this chapter and with the coordination regulations under part 41 of title 28, Code of Federal Regulations (as promulgated by the Department of Health, Education, and Welfare on January 13, 1978), applicable to recipients of Federal financial assistance under section 794 of title 29. With respect to “program accessibility, existing facilities”, and “communications”,such regulations shall be consistent with regulations and analysis as in part 39 of title 28 of the Code of Federal Regulations, applicable to federally conducted activities under section 794 of title 29.
+Except for “program accessibility, existing facilities”, and “communications”, regulations under subsection (a) of this section shall be consistent with this chapter and with the coordination regulations under part 41 of title 28, Code of Federal Regulations (as promulgated by the Department of Health, Education, and Welfare on January 13, 1978), applicable to recipients of Federal financial assistance under section 794 of title 29. With respect to “program accessibility, existing facilities”, and “communications”, such regulations shall be consistent with regulations and analysis as in part 39 of title 28 of the Code of Federal Regulations, applicable to federally conducted activities under section 794 of title 29.
 
 #### (c) Standards
 

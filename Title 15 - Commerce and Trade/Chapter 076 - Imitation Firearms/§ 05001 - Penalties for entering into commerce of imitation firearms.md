@@ -18,7 +18,7 @@ For purposes of this section, the term “look-alike firearm” means any imitat
 
 #### (d) Study and report
 
-The Director of the Bureau of Justice Statistics is authorized and directed to conduct astudy of the criminal misuse of toy, look-alike and imitation firearms, including studying police reports of such incidences and shall report on such incidences relative to marked and unmarked firearms.
+The Director of the Bureau of Justice Statistics is authorized and directed to conduct a study of the criminal misuse of toy, look-alike and imitation firearms, including studying police reports of such incidences and shall report on such incidences relative to marked and unmarked firearms.
 
 #### (c) <sup>1</sup> Technical evaluation of marking systems
 
@@ -26,7 +26,7 @@ The Director of <sup>2</sup> National Institute of Justice is authorized and di
 
 #### (f) Effective date
 
-This section shall become effective on the date 6 months after November 5, 1988, and shall apply to toy, look-alike, and imitation firearms manufactured or entered into commerce after November 5, 1988.
+This section shall become effective on the date 6 months after November 5, 1988, and shall applyto toy, look-alike, and imitation firearms manufactured or entered into commerce after November 5, 1988.
 
 #### (g) Preemption of State or local laws or ordinances; exceptions
 

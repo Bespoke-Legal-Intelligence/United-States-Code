@@ -14,7 +14,7 @@
 
 #### (2) Enforcement of subpenas and orders
 
-&emsp;The appropriate United States district court may, upon petition of the Attorney General at the request of the President, in the case of refusal to obey a subpena or order of the President issued under this subsection, issue an order requiring compliance therewith, and any failure to obey an order of the court may be punished by the court as a contempt thereof.
+&emsp;The appropriate United States district court may, upon petition of the Attorney General at the request of the President, in the case of refusal to obey a subpena or order of the President issued under this subsection, issue an order requiring compliance therewith, and anyfailure to obey an order of the court may be punished by the court as a contempt thereof.
 
 #### (b) Reporting of prices and volumes
 

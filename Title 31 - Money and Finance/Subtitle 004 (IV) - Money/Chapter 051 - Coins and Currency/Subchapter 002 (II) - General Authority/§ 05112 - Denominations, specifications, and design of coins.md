@@ -74,7 +74,7 @@ Numismatic items.—For purposes of section 5132(a)(1) of this title, all coins 
 
 &emsp;&emsp;(ii) on the reverse side, a design representing a family of eagles, with the male carrying an olive branch and flying above a nest containing a female eagle and hatchlings;
 
-&emsp;(B) have inscriptions of the denomination, the weight of the fine gold content, the year of minting or issuance, and the words “Liberty”, “In God We Trust”, “United States of America”, and “E Pluribus Unum”; and
+&emsp;(B) have inscriptions of the denomination, the weight of the fine gold content, the year ofminting or issuance, and the words “Liberty”, “In God We Trust”, “United States of America”, and “E Pluribus Unum”; and
 
 &emsp;(C) have reeded edges.
 
@@ -200,7 +200,7 @@ Sources of bullion.—The Secretary shall obtain silver for minting coins under 
 
 &emsp;(7)
 
-Application in event of the admission of additional states.—If any additionalState is admitted into the Union before the end of the 10-year period referred to in paragraph (1), the Secretary of the Treasury may issue quarter dollar coins, in accordance with this subsection, with a design which is emblematic of such State during any 1 year of such 10-year period, in addition to the quarter dollar coins issued during such year in accordance with paragraph (3)(A).
+Application in event of the admission of additional states.—If any additional State is admitted into the Union before the end of the 10-year period referred to in paragraph (1), the Secretary of the Treasury may issue quarter dollar coins, in accordance with this subsection, with a design which is emblematic of such State during any 1 year of such 10-year period, in addition to the quarter dollar coins issued during such year in accordance with paragraph (3)(A).
 
 (m)
 
@@ -472,7 +472,7 @@ Study required.—The Secretary of the Treasury shall conduct a study on the pro
 
 &emsp;“(3)
 
-Report.—Not later than March 31, 2001, the Secretary of the Treasury shall submit a report to the Congress on the results of the study conducted pursuant to paragraph (2).”
+Report.—Not later than March 31, 2001, the Secretary of the Treasury shall submit a report tothe Congress on the results of the study conducted pursuant to paragraph (2).”
 
 #### Rule of Construction
 
@@ -566,7 +566,7 @@ Findings.—The Congress hereby makes the following findings:
 
 “(b)
 
-Declaration.—It is the sense of the Congress that the Committee on Banking, Finance and Urban Affairs \[now Committee on Banking and Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate should not report or otherwise clear for consideration by the House of Representatives or the Senate legislation providing for more than 2 commemorative coin programs for any year, unless the committee determines, on the basis of a recommendation by the Citizens Commemorative Coin Advisory Committee, that extraordinary merit exists for an additional commemorative coin program.
+Declaration.—It is the sense of the Congress that the Committee on Banking, Finance and Urban Affairs \[now Committee on Banking and Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate should not report or otherwise clear for consideration by the House of Representatives or the Senatelegislation providing for more than 2 commemorative coin programs for any year, unless the committee determines, on the basis of a recommendation by the Citizens Commemorative Coin Advisory Committee, that extraordinary merit exists for an additional commemorative coin program.
 
 #### “SEC. 302. REPORTS BY RECIPIENTS OF COMMEMORATIVE COIN SURCHARGES.
 
@@ -592,11 +592,23 @@ Final Report.—Each person who receives, after the date of the enactment of thi
 
 #### Amount Equal to Profit From Sale of Gold Coins Deposited in General Fund of Treasury To Reduce National Debt
 
-Section 2(f) of Pub. L. 99–185 provided that an amount equal to the amount by which the proceeds from the sale of the coins issued under 31 U.S.C. 5112(i) exceeded the sum of the cost of minting, marketing, and distributing such coins, and the value of gold certificates (not exceeding forty-two and two-ninths dollars a fine troy ounce) retired from the use of gold contained in such coins, was to be deposited in the general fund of the Treasury and used for the sole purpose of reducing thenational debt, prior to repeal by Pub. L. 102–390, title II, §221(c)(2)(A), Oct. 6, 1992, 106 Stat. 1628, effective Oct. 1, 1992.
+Section 2(f) of Pub. L. 99–185 provided that an amount equal to the amount by which the proceeds from the sale of the coins issued under 31 U.S.C. 5112(i) exceeded the sum of the cost of minting, marketing, and distributing such coins, and the value of gold certificates (not exceeding forty-two and two-ninths dollars a fine troy ounce) retired from the use of gold contained in such coins, was to be deposited in the general fund of the Treasury and used for the sole purpose of reducing the national debt, prior to repeal by Pub. L. 102–390, title II, §221(c)(2)(A), Oct. 6, 1992, 106 Stat. 1628, effective Oct. 1, 1992.
 
 #### Issuance of Gold Coins To Result in No Net Cost to United States
 
 Section 2(g) of Pub. L. 99–185 provided that: “The Secretary shall take all actions necessary to ensure that the issuance of the coins minted under section 5112(i) of title 31, United States Code, shall result in no net cost to the United States Government.”
+
+#### Leif Ericson Millennium Commemorative Coins
+
+Pub. L. 106–126, title I, Dec. 6, 1999, 113 Stat. 1643, directed Secretary of the Treasury to issue not more than 500,000 one dollar coins commemorating the millennium of the discovery of the New World by Leif Ericson, and provided for coin specifications, sources of bullion, design and issuance of coins, distribution of surcharges, and general waiver of procurement regulations.
+
+#### United States Capitol Visitor Center Commemorative Coins
+
+Pub. L. 106–126, title II, Dec. 6, 1999, 113 Stat. 1644, directed Secretary of the Treasury to issue not more than 200,000 ten dollar bimetallic gold and platinum coins, or not more than 100,000 five dollar coins, and to issue not more than 500,000 one dollar coins and 750,000 half dollar clad coins commemorating the bicentennial of the first convening of the Congress in the Capitol building, and provided for coin specifications, sources of bullion, design, issuance, and sale of coins, and distribution of surcharges.
+
+#### Lewis and Clark Expedition Bicentennial Commemorative Coins
+
+Pub. L. 106–126, title III, Dec. 6, 1999, 113 Stat. 1647, directed Secretary of the Treasury to issue not more than 500,000 one dollar coins commemorating the bicentennial of the Lewis and Clark Expedition, and provided for coin specifications, sources of bullion, design, issuance, and sale of coins, distribution of surcharges, and financial assurances.
 
 #### Thomas Alva Edison Commemorative Coins
 
@@ -616,7 +628,7 @@ Pub. L. 104–329, §2, title I, §§101–108, Oct. 20, 1996, 110 Stat. 4005–
 
 #### Smithsonian Institution Sesquicentennial Commemorative Coins
 
-Pub. L. 104–96, Jan. 10, 1996, 109 Stat. 981, directed Secretary of the Treasury to issue not more than 100,000 five dollar gold or platinum coins, and not more than 650,000 one dollar silver coins commemorating the sesquicentennial of the founding of the Smithsonian Institution, and provided for coin specifications, sources of bullion, design, issuance and sale of coins, general waiver of procurement regulations, distribution of surcharges, audits by Comptroller General, and financial assurances.
+Pub. L. 104–96, Jan. 10, 1996, 109 Stat. 981, directed Secretary of the Treasury to issue not more than 100,000 five dollar gold or platinum coins, and not more than 650,000 one dollar silver coins commemorating thesesquicentennial of the founding of the Smithsonian Institution, and provided for coin specifications, sources of bullion, design, issuance and sale of coins, general waiver of procurement regulations, distribution of surcharges, audits by Comptroller General, and financial assurances.
 
 #### Commemoration of 1995 Special Olympic World Games
 
@@ -692,7 +704,7 @@ Pub. L. 101–404, Oct. 2, 1990, 104 Stat. 875, as amended by Pub. L. 102–390,
 
 #### Mount Rushmore Commemorative Coins
 
-Pub. L. 101–332, July 16, 1990, 104 Stat. 313, as amended by Pub. L. 102–390, title II, §221(c)(2)(C), Oct. 6, 1992, 106Stat. 1628; Pub. L. 103–328, title II, §209, Sept. 29, 1994, 108 Stat. 2378, directed Secretary of the Treasury to issue not more than 500,000 five dollar gold coins, 2.5 million one dollar silver coins, and 2.5 million half dollar clad coins commemorating the golden anniversary of the Mount Rushmore National Memorial and provided for sources of bullion, specification, design, issuance, and sale of coins, waiver of procurement regulations, distribution of surcharges, audit by Comptroller General, and financial assurances.
+Pub. L. 101–332, July 16, 1990, 104 Stat. 313, as amended by Pub. L. 102–390, title II, §221(c)(2)(C), Oct. 6, 1992, 106 Stat. 1628; Pub. L. 103–328, title II, §209, Sept. 29, 1994, 108 Stat. 2378, directed Secretary of the Treasury to issue not more than 500,000 five dollar gold coins, 2.5 million one dollar silver coins, and 2.5 million half dollar clad coins commemorating the golden anniversary of the Mount Rushmore National Memorial and provided for sources of bullion, specification, design, issuance, and sale of coins, waiver of procurement regulations, distribution of surcharges, audit by Comptroller General, and financial assurances.
 
 #### Bicentennial of the United States Congress Commemorative Coins
 

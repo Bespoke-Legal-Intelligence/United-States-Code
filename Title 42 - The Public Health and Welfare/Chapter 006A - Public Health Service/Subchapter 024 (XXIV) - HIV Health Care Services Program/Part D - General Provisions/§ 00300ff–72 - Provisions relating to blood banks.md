@@ -4,7 +4,7 @@
 
 The Secretary shall—
 
-&emsp;(1) develop and make available to technical and supervisory personnel employed at blood banks and facilities that produce blood products, materials and information concerningmeasures that may be implemented to protect the safety of the blood supply with respect to the activities of such personnel, including—
+&emsp;(1) develop and make available to technical and supervisory personnel employed at blood banks and facilities that produce blood products, materials and information concerning measures that may be implemented to protect the safety of the blood supply with respect to the activities of such personnel, including—
 
 &emsp;&emsp;(A) state-of-the-art diagnostic and testing procedures relating to pathogens in the blood supply; and
 

@@ -42,7 +42,7 @@ The Director—
 
 &emsp;(6) shall appear before duly constituted committees and subcommittees of the House of Representatives and of the Senate to represent the drug policies of the executive branch;
 
-&emsp;(7) shall notify any National Drug Control Program agency if its policies are not in compliance with the responsibilities of the agency under the National Drug Control Strategy, transmit a copy of each such notification to the President, and maintain a copy of each such notification;
+&emsp;(7) shall notify any National Drug Control Program agency if its policies are not in compliance with the responsibilities of the agency under the National Drug Control Strategy, transmit a copy of each such notification tothe President, and maintain a copy of each such notification;
 
 &emsp;(8) shall provide, by July 1 of each year, budget recommendations, including requests for specific initiatives that are consistent with the priorities of the President under the National Drug Control Strategy, to the heads of departments and agencies with responsibilities under the National Drug Control Program, which recommendations shall—
 
@@ -216,7 +216,7 @@ In carrying out subsection (b) of this section, the Director may—
 
 &emsp;&emsp;(E) the Director shall—
 
-&emsp;&emsp;&emsp;(i) submit to Congress, including to the Committees on Appropriations of the Senate and the House of Representatives, the authorizing committees for the Office, andany other applicable committees of jurisdiction, a reprogramming or transfer request in advance of any transfer under this paragraph in accordance with the regulations of the affected agency or agencies; and
+&emsp;&emsp;&emsp;(i) submit to Congress, including to the Committees on Appropriations of the Senate and the House of Representatives, the authorizing committees for the Office, and any other applicable committees of jurisdiction, a reprogramming or transfer request in advance of any transfer under this paragraph in accordance with the regulations of the affected agency or agencies; and
 
 &emsp;&emsp;&emsp;(ii) annually submit to Congress a report describing the effect of all transfers of funds made pursuant to this paragraph or subsection (c)(4) of this section during the 12-month period preceding the date on which the report is submitted;
 
@@ -268,7 +268,7 @@ In carrying out subsection (b) of this section, the Director may—
 
 #### (2) Unauthorized obligation or expenditure prohibited
 
-&emsp;An officer or employee of a National Drug Control Program agency shall not make or authorize an expenditure or obligation contrary to a fund control notice issued by the Director.
+&emsp;An officer or employee of a National Drug Control Program agency shall not make or authorize an expenditure or obligation contraryto a fund control notice issued by the Director.
 
 #### (3) Disciplinary action for violation
 
@@ -348,7 +348,7 @@ General Provisions. (a) Because the United States considers the operations of in
 
 (d) A coordinator for drug interdiction shall be designated by the Director to ensure that assets dedicated by Federal drug program agencies for interdiction are sufficient and that their use is properly integrated and optimized. The coordinator shall ensure that interdiction efforts and priorities are consistent with overall U.S. international counternarcotics policy.
 
-(e) The Director shall examine the number and structure of command/control and drug intelligence centers operated by drug control program agencies involved in international counter-narcotics and suggest improvements to the current structure for consideration by the President and concerned members of the Cabinet.
+(e) The Director shall examine the number and structure of command/control and drug intelligence centersoperated by drug control program agencies involved in international counter-narcotics and suggest improvements to the current structure for consideration by the President and concerned members of the Cabinet.
 
 (f) The Director, utilizing the services of the Drugs and Crime Data Center and Department of Justice Clearinghouse, shall assist in coordinating and enhancing the dissemination of statistics and studies relating to anti-drug abuse policy.
 

@@ -1,18 +1,28 @@
 ### §7158. Naval reactor and military application programs
 
-(a) The Division of Naval Reactors established pursuant to section 2035 of this title, and responsible for research, design, development, health, and safety matters pertaining to naval nuclear propulsion plants and assigned civilian power reactor programs is transferred to the Department under the Assistant Secretary to whom the Secretary has assigned the function listed in section 7133(a)(2)(E) of this title, and such organizational unit shall be deemed to be an organizational unit established by this chapter.
+The Division of Naval Reactors established pursuant to section 2035 of this title, and responsible for research, design, development, health, and safety matters pertaining to naval nuclear propulsion plants and assigned civilian power reactor programs is transferred to the Departmentunder the Under Secretary for Nuclear Security, and such organizational unit shall be deemed to be an organizational unit established by this chapter.
 
-(b) The Division of Military Application, established by section 2035 of this title, and the functions of the Energy Research and Development Administration with respect to the Military Liaison Committee, established by section 2037 <sup>1</sup> of this title, are transferred to the Department under the Assistant Secretary to whom the Secretary has assigned those functions listed in section 7133(a)(5) of this title, and such organizational units shall be deemed to be organizational units established by this chapter.
-
-(Pub. L. 95–91, title III, §309, Aug. 4, 1977, 91 Stat. 581.)
+(Pub. L. 95–91, title III, §309, Aug. 4, 1977, 91 Stat. 581; Pub. L. 106–65, div. C, title XXXII, §3294(c), Oct. 5, 1999, 113 Stat. 970.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
-Section 2037 of this title, referred to in subsec. (b), was repealed by Pub. L. 99–661, div. C, title I, §3137(c), Nov. 14, 1986, 100 Stat. 4066.
+#### Amendments
 
-#### Naval Nuclear Propulsion Program
+1999—Pub. L. 106–65 struck out subsec. (a) designation before “The Division of Naval Reactors”, substituted “Under Secretary for Nuclear Security” for “Assistant Secretary to whom the Secretary has assigned the function listed in section 7133(a)(2)(E) of this title”, and struck out subsec. (b) which read as follows: “The Division of Military Application, established by section 2035 of this title, and the functions of the Energy Research and Development Administration with respect to the Military Liaison Committee, established by section 2037 of this title, are transferred to the Department under the Assistant Secretary to whom the Secretary has assigned those functions listed in section 7133(a)(5) of this title, and such organizational units shall be deemed to be organizational units established by this chapter.”
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as an Effective Date note under section 2401 of Title 50, War and National Defense.
+
+#### Transfer of Functions
+
+All national security functions and activities performed immediately before Oct. 5, 1999, by the Office of Naval Reactors transferred to the Administrator for Nuclear Security of the National Nuclear Security Administration of the Department of Energy, and the Deputy Administrator for Naval Reactors of the Administration to be assigned the responsibilities, authorities, and accountability for all functions of the Office of Naval Reactors under Executive Order No. 12344, set out below, see sections 2406 and 2481 of Title 50, War and National Defense.
+
+#### Executive Order No. 12344 To Remain in Force
+
+Except as otherwise specified in section 2406 of Title 50, War and National Defense, and notwithstanding any other provision of title XXXII of Pub. L. 106–65 (see Short Title note set out under section 2401 of Title 50), the provisions of Executive Order No. 12344 (set out below) to remain in full force and effect until changed by law, see section 2406 of Title 50.
 
 Pub. L. 98–525, title XVI, §1634, Oct. 19, 1984, 98 Stat. 2649, provided that: “The provisions of Executive Order Numbered 12344, dated February 1, 1982 \[set out below\], pertaining to the Naval Nuclear Propulsion Program, shall remain in force until changed by law.”
 
@@ -26,7 +36,7 @@ Section 1. The Naval Nuclear Propulsion Program is an integrated program carried
 
 Sec. 2. Both organizational units shall be headed by the same individual so that the activities of each may continue in practice under common management. This individual shall direct the Naval Nuclear Propulsion Program in both departments. The director shall be qualified by reason of technical background and experience in naval nuclear propulsion. The director may be either a civilian or an officer of the United States Navy, active or retired.
 
-Sec. 3. The Secretary of the Navy (through the Secretary of Defense) and the Secretary of Energy shallobtain the approval of the President to appoint the director of the Naval Nuclear Propulsion Program for their respective Departments. The director shall be appointed to serve a term of eight years, except that the Secretary of Energy and the Secretary of the Navy may, with mutual concurrence, terminate or extend the term of the respective appointments.
+Sec. 3. The Secretary of the Navy (through the Secretary of Defense) and the Secretary of Energy shall obtain the approval of the President to appoint the director of the Naval Nuclear Propulsion Program for their respective Departments. The director shall be appointed to serve a term of eight years, except that the Secretary of Energy and the Secretary of the Navy may, with mutual concurrence, terminate or extend the term of the respective appointments.
 
 Sec. 4. An officer of the United States Navy appointed as director shall be nominated for the grade of Admiral. A civilian serving as director shall be compensated at a rate to be specified at the time of appointment.
 
@@ -61,6 +71,4 @@ Sec. 9. In addition to any other organizational assignments within the Departmen
 Sec. 10. This Order is effective on February 1, 1982.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

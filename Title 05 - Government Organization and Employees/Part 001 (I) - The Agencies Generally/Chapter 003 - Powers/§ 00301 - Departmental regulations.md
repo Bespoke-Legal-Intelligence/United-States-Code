@@ -32,7 +32,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Improvements in Identification-Related Documents
 
-Pub. L. 104–208, div. C, title VI, §656, Sept. 30, 1996, 110 Stat. 3009–716, provided that:
+Pub. L. 104–208, div. C, title VI, §656, Sept. 30, 1996, 110 Stat. 3009–716, as amended by Pub. L. 106–69, title III, §355, Oct. 9, 1999, 113 Stat. 1027, provided that:
 
 “(a)
 
@@ -106,7 +106,7 @@ Assistance in matching birth and death records.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—The Secretary of Health and Human Services, acting through the Director of the National Center for Health Statistics andafter consulting with the head of any other agency designated by the President, shall make grants to States to assist them in developing the capability to match birth and death records, within each State and among the States, and to note the fact of death on the birth certificates of deceased persons. In developing the capability described in the preceding sentence, a State that receives a grant under this subparagraph shall focus first on individuals born after 1950.
+In general.—The Secretary of Health and Human Services, acting through the Director ofthe National Center for Health Statistics and after consulting with the head of any other agency designated by the President, shall make grants to States to assist them in developing the capability to match birth and death records, within each State and among the States, and to note the fact of death on the birth certificates of deceased persons. In developing the capability described in the preceding sentence, a State that receives a grant under this subparagraph shall focus first on individuals born after 1950.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -136,61 +136,7 @@ Birth certificate.—As used in this subsection, the term ‘birth certificate�
 
 &emsp;&emsp;&emsp;“(ii) was issued by a State or local authorized custodian of record and was produced from birth records maintained by such custodian of record.
 
-“(b)
-
-State-Issued Drivers Licenses and Comparable Identification Documents.—
-
-&emsp;“(1)
-
-Standards for acceptance by federal agencies.—
-
-&emsp;&emsp;“(A)
-
-In general.—A Federal agency may not accept for any identification-related purpose a driver's license, or other comparable identification document, issued by a State, unless the license or document satisfies the following requirements:
-
-&emsp;&emsp;&emsp;“(i)
-
-Application process.—The application process for the license or document shall include the presentation of such evidence of identity as is required by regulations promulgated by the Secretary of Transportation after consultation with the American Association of Motor Vehicle Administrators.
-
-&emsp;&emsp;&emsp;“(ii)
-
-Social security number.—Except as provided in subparagraph (B), the license or document shall contain a social security account number that can be read visually or by electronic means.
-
-&emsp;&emsp;&emsp;“(iii)
-
-Form.—The license or document otherwise shall be in a form consistent with requirements set forth in regulations promulgated by the Secretary of Transportation after consultation with the American Association of Motor Vehicle Administrators. The form shall contain security features designed to limit tampering, counterfeiting, photocopying, or otherwise duplicating, the license or document for fraudulent purposes and to limit use of the license or document by impostors.
-
-&emsp;&emsp;“(B)
-
-Exception.—The requirement in subparagraph (A)(ii) shall not apply with respect to a driver's license or other comparable identification document issued by a State, if the State—
-
-&emsp;&emsp;&emsp;“(i) does not require the license or document to contain a social security account number; and
-
-&emsp;&emsp;&emsp;“(ii) requires—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) every applicant for a driver's license, or other comparable identification document, to submit the applicant's social security account number; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) an agency of the State to verify with the Social Security Administration that such account number is valid.
-
-&emsp;&emsp;“(C)
-
-Deadline.—The Secretary of Transportation shall promulgate the regulations referred to in clauses (i) and (iii) of subparagraph (A) not later than 1 year after the date of the enactment of this Act \[Sept. 30, 1996\].
-
-&emsp;“(2)
-
-Grants to states.—Beginning on the date final regulations are promulgated under paragraph (1), the Secretary of Transportation shall make grants to States to assist them in issuing driver's licenses and other comparable identification documents that satisfy the requirements under such paragraph.
-
-&emsp;“(3)
-
-Effective dates.—
-
-&emsp;&emsp;“(A)
-
-In general.—Except as otherwise provided in this paragraph, this subsection shall take effect on the date of the enactment of this Act \[Sept. 30, 1996\].
-
-&emsp;&emsp;“(B)
-
-Prohibition on federal agencies.—Subparagraphs (A) and (B) of paragraph (1) shall take effect beginning on October 1, 2000, but shall apply only to licenses or documents issued to an individual for the first time and to replacement or renewal licenses or documents issued according to State law.
+“\[(b) Repealed. Pub. L. 106–69, title III, §355, Oct. 9, 1999, 113 Stat. 1027.\]
 
 “(c)
 

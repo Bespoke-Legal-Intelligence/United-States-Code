@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-(1) In order to stimulate the development of new approaches to provide for greater self-sufficiency of the poor, to test and evaluate such new approaches, to disseminate project results and evaluation findings so that such approaches can be replicated, and to strengthen the integration, coordination, and redirection of activities to promote maximum self-sufficiency among the poor, the Secretary may make grants from funds appropriated under subsection (e) of this section to eligible entities for the development and implementation of new and innovative approaches to deal with particularly critical needs or problems of the poor which are common to a number of communities. Grants may be made only with respect to applications which—
+(1) In order to stimulate the development of new approaches to provide for greater self-sufficiency of the poor, to test and evaluate such new approaches, to disseminate project results and evaluation findings so that such approaches can be replicated, and to strengthen the integration, coordination, and redirection of activities to promote maximum self-sufficiency among the poor, the Secretary may make grants fromfunds appropriated under subsection (e) of this section to eligible entities for the development and implementation of new and innovative approaches to deal with particularly critical needs or problems of the poor which are common to a number of communities. Grants may be made only with respect to applications which—
 
 &emsp;(A) involve activities which can be incorporated into or be closely coordinated with eligible entities’ ongoing programs;
 
@@ -62,7 +62,7 @@ As soon as practicable, but not later than 180 days after the end of the fiscal 
 
 #### (f) Report to Congress
 
-The Secretary shall submit annually, to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate, a report containing—
+The Secretary shall submit annually, to the Committee on Education and Labor of the House of Representatives and the Committee on Laborand Human Resources of the Senate, a report containing—
 
 &emsp;(1) a description of—
 
@@ -118,7 +118,7 @@ Subsec. (h). Pub. L. 103–252, §207(4), amended heading and text of subsec. (h
 
 “(1) There are authorized to be appropriated $10,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992, 1993, and 1994, to carry out this section (other than subsection (c) of this section).
 
-“(2) There are authorized to be appropriated $10,000,000 for fiscal year 1991 and such sums as may benecessary in each of the fiscal years 1992 through 1994, to carry out subsection (c) of this section.”
+“(2) There are authorized to be appropriated $10,000,000 for fiscal year 1991 and such sums as may be necessary in each of the fiscal years 1992 through 1994, to carry out subsection (c) of this section.”
 
 1990—Subsecs. (c) to (e). Pub. L. 101–501, §601(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (f).
 

@@ -4,11 +4,13 @@
 
 (b) A selection board convened under section 611(a) of this title shall include in its report to the Secretary concerned the name of any regular or reserve officer before it for consideration for promotion whose record, in the opinion of a majority of the members of the board, indicates that the officer should be required under chapter 60 or 1411 of this title to show cause for his retention on active duty.
 
-(c) A selection board convened under section 611(a) of this title shall include in its report to the Secretary concerned the name of any regular officer considered and not recommended for promotion by the board who submitted to the board a request not to be selected for promotion or who otherwise directly caused his nonselection through written communication to the Board under section 614(b) of this title.
+(c) A selection board convened under section 611(a) of this title shall include in its report to the Secretary concerned the name of any officer considered and not recommended for promotion by the board who submitted to the board a request not to be selected for promotion or who otherwise directly caused his nonselection through written communication to the Board under section 614(b) of this title.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2853; amended Pub. L. 100–456, div. A, title V, §501(c), Sept. 29, 1988, 102 Stat. 1966; Pub. L. 102–484, div. A, title X, §1052(8), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title XVI, §1623, Oct. 5, 1994, 108 Stat. 2961; Pub. L. 105–261, div. A, title V, §502(b), Oct. 17, 1998, 112 Stat. 2003.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2853; amended Pub. L. 100–456, div. A, title V, §501(c), Sept. 29, 1988, 102 Stat. 1966; Pub. L. 102–484, div. A, title X, §1052(8), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title XVI, §1623, Oct. 5, 1994, 108 Stat. 2961; Pub. L. 105–261, div. A, title V, §502(b), Oct. 17, 1998, 112 Stat. 2003; Pub. L. 106–65, div. A, title V, §503(a), Oct. 5, 1999, 113 Stat. 590.)
 
 #### Amendments
+
+1999—Subsec. (c). Pub. L. 106–65 struck out “regular” before “officer”.
 
 1998—Subsec. (c). Pub. L. 105–261 added subsec. (c).
 
@@ -17,6 +19,10 @@
 1992—Subsec. (a). Pub. L. 102–484 substituted “section 615(b)” for “section 615(a)”.
 
 1988—Subsec. (a)(2). Pub. L. 100–456 inserted “(as noted in the guidelines or information furnished the board under section 615(a) of this title)” after “concerned”.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–65, div. A, title V, §503(b), Oct. 5, 1999, 113 Stat. 590, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to boards convened under section 611(a) of title 10, United States Code, on or after the date of the enactment of this Act \[Oct. 5, 1999\].”
 
 #### Effective Date of 1998 Amendment
 

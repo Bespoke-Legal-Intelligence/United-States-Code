@@ -10,7 +10,7 @@ Judicial Procedures.—When a petition is filed under subsection (a) of this sec
 
 (c)
 
-Authority of Court.—When the petition is sent to the Secretary or Administrator, the court has exclusive jurisdiction to affirm,amend, modify, or set aside any part of the order and may order the Secretary or Administrator to conduct further proceedings. After reasonable notice to the Secretary or Administrator, the court may grant interim relief by staying the order or taking other appropriate action when good cause for its action exists. Findings of fact by the Secretary or Administrator, if supported by substantial evidence, are conclusive.
+Authority of Court.—When the petition is sent to the Secretary or Administrator, the court has exclusive jurisdiction to affirm, amend, modify, or set aside any part of the order and may order the Secretary or Administrator to conduct further proceedings. After reasonable notice to the Secretary or Administrator, the court may grant interim relief by staying the order or taking other appropriate action when good cause for its action exists. Findings of fact by the Secretary or Administrator, if supported by substantial evidence, are conclusive.
 
 (d)
 

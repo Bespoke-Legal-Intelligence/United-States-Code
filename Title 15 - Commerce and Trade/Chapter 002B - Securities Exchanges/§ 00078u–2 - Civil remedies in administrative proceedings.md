@@ -26,7 +26,7 @@ In any proceeding instituted pursuant to sections 78<i>o</i>(b)(4), 78<i>o</i>(b
 
 #### (3) Third tier
 
-&emsp;Notwithstanding paragraphs (1) and (2), the maximum amount of penalty for each such actor omission shall be $100,000 for a natural person or $500,000 for any other person if—
+&emsp;Notwithstanding paragraphs (1) and (2), the maximum amount of penalty for each such act or omission shall be $100,000 for a natural person or $500,000 for any other person if—
 
 &emsp;&emsp;(A) the act or omission described in subsection (a) of this section involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement; and
 

@@ -92,7 +92,7 @@ As used in this subchapter and in subchapter II of this chapter:
 
 &emsp;(25) The term “energy efficient mortgage” means a mortgage that provides financing incentives for the purchase of energy efficient homes, or that provides financing incentives to make energy efficiency improvements in existing homes by incorporating the cost of such improvements in the mortgage.
 
-(Pub. L. 101–625, title I, §104, Nov. 28, 1990, 104 Stat. 4085; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 101–230, §2, Dec. 12, 1991, 105 Stat. 1720; Pub. L. 102–486, title I, §105(a), Oct. 24, 1992, 106 Stat. 2792; Pub. L. 102–550, titleII, §§211(a)(1), 217(a), 218, 219, title IX, §914(a), Oct. 28, 1992, 106 Stat. 3756, 3760, 3761, 3877; Pub. L. 103–233, title II, §201, Apr. 11, 1994, 108 Stat. 363.)
+(Pub. L. 101–625, title I, §104, Nov. 28, 1990, 104 Stat. 4085; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 101–230, §2, Dec. 12, 1991, 105 Stat. 1720; Pub. L. 102–486, title I, §105(a), Oct. 24, 1992, 106 Stat. 2792; Pub. L. 102–550, title II, §§211(a)(1), 217(a), 218, 219, title IX, §914(a), Oct. 28, 1992, 106 Stat. 3756, 3760, 3761, 3877; Pub. L. 103–233, title II, §201, Apr. 11, 1994, 108 Stat. 363.)
 
 #### References in Text
 

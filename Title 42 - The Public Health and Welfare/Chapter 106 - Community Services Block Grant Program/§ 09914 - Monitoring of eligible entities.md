@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to determine whether eligible entities meet the performance goals, administrative standards, financial management requirements, and other requirements of a State, the State shall conduct the following reviews of eligible entities:
+In order to determine whether eligible entities meet the performance goals, administrativestandards, financial management requirements, and other requirements of a State, the State shall conduct the following reviews of eligible entities:
 
 &emsp;(1) A full onsite review of each such entity at least once during each 3-year period.
 

@@ -32,7 +32,7 @@ With respect to any sexually transmitted disease described in subsection (a) of 
 
 #### (d) Requirement of availability of all services through each grantee
 
-The Secretary may make a grant under subsection (a) of this section only if the applicantinvolved agrees that each activity authorized in subsection (c) of this section will be available through the applicant. With respect to compliance with such agreement, the applicant may expend the grant to carry out any of the activities directly, and may expend the grant to enter into agreements with other public or nonprofit private entities under which the entities carry out the activities.
+The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that each activity authorized in subsection (c) of this section will be available through the applicant. With respect to compliance with such agreement, the applicant may expend the grant to carry out any of the activities directly, and may expend the grant to enter into agreements with other public or nonprofit private entities under which the entities carry out the activities.
 
 #### (e) Required providers regarding certain services
 
@@ -64,7 +64,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (1) Collection of data
 
-&emsp;The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees, with respect to any disease selected under subsection (b) of this section for the applicant, to submit to the Secretary, for each fiscal year for which the applicant receives such a grant, a report providing—
+&emsp;The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees, with respect to any disease selected under subsection (b) of this section for the applicant, to submit to the Secretary,for each fiscal year for which the applicant receives such a grant, a report providing—
 
 &emsp;&emsp;(A) the incidence of the disease among the population of individuals served by the applicant;
 

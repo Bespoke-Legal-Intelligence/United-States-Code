@@ -42,7 +42,7 @@ Estimates.—
 
 &emsp;(1)
 
-Authority to provide without compensation.—Every motor carrier providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135, upon request of a prospective shipper, may provide the shipper with an estimate ofcharges for transportation of household goods and for the proposed services. The Secretary shall not prohibit any such carrier from charging a prospective shipper for providing a written, binding estimate for the transportation and proposed services.
+Authority to provide without compensation.—Every motor carrier providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135, upon request of a prospective shipper, may provide the shipper with an estimate of charges for transportation of household goods and for the proposed services. The Secretary shall not prohibit any such carrier from charging a prospective shipper for providing a written, binding estimate for the transportation and proposed services.
 
 &emsp;(2)
 
@@ -57,4 +57,8 @@ Flexibility in Weighing Shipments.—The Secretary shall issue regulations that 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11110 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Study of Enforcement of Consumer Protection Rules in Household Goods Moving Industry
+
+Pub. L. 106–159, title II, §209(c), Dec. 9, 1999, 113 Stat. 1764, provided that: “The Comptroller General shall conduct a study of the effectiveness of the Department of Transportation's enforcement of household goods consumer protection rules under title 49, United States Code. The study shall also include a review of other potential methods of enforcing such rules, including allowing States to enforce such rules.”
 

@@ -72,7 +72,7 @@ The words “Hereafter” and “appointed to the United States Naval Academy”
 
 > If the midshipman is a minor and has parents or a guardian, he may sign the agreement only with the consent of the parents or guardian.
 
-“(b) A midshipman who does not fulfill his agreement under subsection (a) may be transferred by the Secretary of the Navy to the Naval Reserve or the Marine Corps Reserve in an appropriate enlisted grade or rating, and, notwithstanding section 651 of this title, may be ordered to active duty to serve in that grade or rating for such period of time as the Secretary prescribes but not for more than four years.”
+“(b) A midshipman who does not fulfill his agreement under subsection (a) may be transferred by the Secretary of the Navy to the Naval Reserve or the MarineCorps Reserve in an appropriate enlisted grade or rating, and, notwithstanding section 651 of this title, may be ordered to active duty to serve in that grade or rating for such period of time as the Secretary prescribes but not for more than four years.”
 
 1984—Subsec. (a). Pub. L. 98–525, §541(b), struck out “, unless sooner separated,” in introductory text preceding “he will”; inserted in cl. (1) “unless sooner separated from the Naval Academy,”; and inserted “, unless sooner separated from the naval service,” in cls. (2) and (3).
 

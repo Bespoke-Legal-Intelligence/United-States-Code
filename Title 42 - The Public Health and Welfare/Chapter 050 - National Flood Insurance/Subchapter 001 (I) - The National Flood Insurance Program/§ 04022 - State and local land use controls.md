@@ -22,7 +22,7 @@
 
 #### (C) Prohibition on disaster relief
 
-&emsp;&emsp;Notwithstanding any other provision of law, any agricultural structure repaired or restored pursuant to subparagraph (A) shallnot be eligible for disaster relief assistance under any program administered by the Director or any other Federal agency.
+&emsp;&emsp;Notwithstanding any other provision of law, any agricultural structure repaired or restored pursuant to subparagraph (A) shall not be eligible for disaster relief assistance under any program administered by the Director or any other Federal agency.
 
 #### (D) Definitions
 
@@ -56,7 +56,7 @@
 
 #### (4) Reports
 
-&emsp;Not later than 2 years after September 23, 1994, and not less than every 2 years thereafter, the Director shall submit a report to the Congress regarding the program under this subsection. Each report shall include an analysis of the cost-effectiveness of the program, any other accomplishments or shortcomings of the program, and any recommendations of the Director for legislation regarding the program.
+&emsp;Not later than 2 years after September 23, 1994, and not less than every 2 years thereafter, the Director shall submit a report to theCongress regarding the program under this subsection. Each report shall include an analysis of the cost-effectiveness of the program, any other accomplishments or shortcomings of the program, and any recommendations of the Director for legislation regarding the program.
 
 (Pub. L. 90–448, title XIII, §1315, Aug. 1, 1968, 82 Stat. 580; Pub. L. 91–152, title IV, §410(b), Dec. 24, 1969, 83 Stat. 397; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §§541, 580, Sept. 23, 1994, 108 Stat. 2268, 2285.)
 

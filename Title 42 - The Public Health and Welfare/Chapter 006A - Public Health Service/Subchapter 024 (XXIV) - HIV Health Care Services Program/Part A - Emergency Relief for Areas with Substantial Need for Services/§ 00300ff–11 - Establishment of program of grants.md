@@ -60,7 +60,7 @@ In General.—Except as provided in subsection (b), this Act \[enacting sections
 
 “(b)
 
-Exception.—The amendments made by sections 3(a), 5, 6, and 7 of this Act to sections 2601(c), 2601(d), 2603(a), 2618(b), 2626, 2677, and 2691 of the Public Health Service Act \[sections 300ff–11(c), (d), 300ff–13(a), 300ff–28(b), 300ff–34, 300ff–77, and 300ff–101 of this title\], shall become effective on the date of enactment of this Act \[May 20, 1996\].”
+Exception.—The amendments made by sections 3(a), 5, 6, and 7 of this Act to sections 2601(c), 2601(d), 2603(a), 2618(b), 2626, 2677, and 2691 of the Public HealthService Act \[sections 300ff–11(c), (d), 300ff–13(a), 300ff–28(b), 300ff–34, 300ff–77, and 300ff–101 of this title\], shall become effective on the date of enactment of this Act \[May 20, 1996\].”
 
 #### Study Regarding HIV Disease in Rural Areas
 

@@ -10,13 +10,25 @@
 
 &emsp;(B) to a veteran whose annual income (as determined under section 1503 of this title) does not exceed the maximum annual rate of pension which would be payable to such veteran if such veteran were eligible for pension under section 1521 of this title.
 
-(b) Amounts collected under this section shall be deposited in the Department of Veterans Affairs Medical Care Collections Fund.
+(b) The Secretary, pursuant to regulations which the Secretary shall prescribe, may—
 
-(c) The provisions of subsection (a) expire on September 30, 2002.
+&emsp;(1) increase the copayment amount in effect under subsection (a); and
 
-(Added Pub. L. 101–508, title VIII, §8012(a)(1), Nov. 5, 1990, 104 Stat. 1388–345, §622A; renumbered §1722A, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–139, title V, §518(a), Oct. 28, 1991, 105 Stat. 779; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 102–568, title VI, §§605(a), 606(a), Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12002(b), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title XII, §1201(e)(7), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 105–33, title VIII, §§8021(b), 8023(b)(3), Aug. 5, 1997, 111 Stat. 665, 667.)
+&emsp;(2) establish a maximum monthly and a maximum annual pharmaceutical copayment amount under subsection (a) for veterans who have multiple outpatient prescriptions.
+
+(c) Amounts collected under subsection (a) shall be deposited in the Department of Veterans Affairs Medical Care Collections Fund. Amounts collected through use of the authority under subsection (b) shall be deposited in the Department of Veterans Affairs Health Services Improvement Fund.
+
+(d) The provisions of subsection (a) expire on September 30, 2002.
+
+(Added Pub. L. 101–508, title VIII, §8012(a)(1), Nov. 5, 1990, 104 Stat. 1388–345, §622A; renumbered §1722A, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–139, title V, §518(a), Oct. 28, 1991, 105 Stat. 779; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 102–568, title VI, §§605(a), 606(a), Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12002(b), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title XII, §1201(e)(7), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 105–33, title VIII, §§8021(b), 8023(b)(3), Aug. 5, 1997, 111 Stat. 665, 667; Pub. L. 106–117, title II, §201(a), Nov. 30, 1999, 113 Stat. 1560.)
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–117, §201(a)(1), (2), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 106–117, §201(a)(1), (3), redesignated subsec. (b) as (c), substituted “subsection (a)” for “this section”, and inserted at end “Amounts collected through use of the authority under subsection (b) shall be deposited in the Department of Veterans Affairs Health Services Improvement Fund.” Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 106–117, §201(a)(1), redesignated subsec. (c) as (d).
 
 1997—Subsec. (b). Pub. L. 105–33, §8023(b)(3), substituted “Medical Care Collections Fund” for “Medical-Care Cost Recovery Fund”.
 
@@ -48,11 +60,11 @@ Section 605(b) of Pub. L. 102–568 provided that: “The amendments made by sub
 
 Section to remain in effect through the period covered by Pub. L. 102–145, see section 111 of Pub. L. 102–145, set out as an Effective and Termination Dates of 1990 Amendment note under section 1710 of this title.
 
-Section to remain in effect through the period covered by Pub. L. 102–109, see section 111 of Pub. L.102–109, set out as an Effective and Termination Dates of 1990 Amendment note under section 1710 of this title.
+Section to remain in effect through the period covered by Pub. L. 102–109, see section 111 of Pub. L. 102–109, set out as an Effective and Termination Dates of 1990 Amendment note under section 1710 of this title.
 
 Section 8012(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[enacting this section\] shall take effect with respect to medication furnished to a veteran after October 31, 1990, or the date of the enactment of this Act \[Nov. 5, 1990\], whichever is later.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1729A of this title.
+This section is referred to in sections 1729A, 1729B of this title.
 

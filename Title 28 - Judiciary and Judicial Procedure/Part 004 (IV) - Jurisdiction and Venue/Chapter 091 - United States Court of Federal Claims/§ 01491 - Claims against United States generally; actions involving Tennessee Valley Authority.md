@@ -4,7 +4,7 @@
 
 (2) To provide an entire remedy and to complete the relief afforded by the judgment, the court may, as an incident of and collateral to any such judgment, issue orders directing restoration to office or position, placement in appropriate duty or retirement status, and correction of applicable records, and such orders may be issued to any appropriate official of the United States. In any case within its jurisdiction, the court shall have the power to remand appropriate matters to any administrative or executive body or official with such direction as it may deem proper and just. The Court of Federal Claims shall have jurisdiction to render judgment upon any claim by or against, or dispute with, a contractor arising under section 10(a)(1) of the Contract Disputes Act of 1978, including a dispute concerning termination of a contract, rights in tangible or intangible property, compliance with cost accounting standards, and other nonmonetary disputes on which a decision of the contracting officer has been issued under section 6 of that Act.
 
-(b)(1) Both the Unites <sup>1</sup> States Court of Federal Claims and the district courts of the United States shall have jurisdiction to render judgment on an action by an interested party objecting to a solicitation by a Federal agency for bidsor proposals for a proposed contract or to a proposed award or the award of a contract or any alleged violation of statute or regulation in connection with a procurement or a proposed procurement. Both the United States Court of Federal Claims and the district courts of the United States shall have jurisdiction to entertain such an action without regard to whether suit is instituted before or after the contract is awarded.
+(b)(1) Both the Unites <sup>1</sup> States Court of Federal Claims and the district courts of the United States shall have jurisdiction to render judgment on an action by an interested party objecting to a solicitation by a Federal agency for bids or proposals for a proposed contract or to a proposed award or the award of a contract or any alleged violation of statute or regulation in connection with a procurement or a proposed procurement. Both the United States Court of Federal Claims and the district courts of the United States shall have jurisdiction to entertain such an action without regard to whether suit is instituted before or after the contract is awarded.
 
 (2) To afford relief in such an action, the courts may award any relief that the court considers proper, including declaratory and injunctive relief except that any monetary relief shall be limited to bid preparation and proposal costs.
 
@@ -118,7 +118,7 @@ Orders.—A termination under subsection (d) \[set out below\] shall not termina
 
 Proceedings and applications.—(A) a termination under subsection (d) shall not affect the jurisdiction of a court of the United States to continue with any proceeding that is pending before the court on December 31, 2000.
 
-“(B) Orders may be issued in any such proceeding, appeals may be taken therefrom, and payments may be made pursuant to such orders, as if such termination had not occurred. An order issued in any such proceeding shall continue in effect until modified, terminated, superseded, set aside, or revoked by a court of competent jurisdiction or by operation of law.
+“(B) Orders may be issued in any such proceeding, appeals may be taken therefrom, and payments may be made pursuant to such orders, as if such termination had not occurred. An order issued in any such proceeding shall continue in effect until modified, terminated,superseded, set aside, or revoked by a court of competent jurisdiction or by operation of law.
 
 “(C) Nothing in this paragraph prohibits the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that proceeding could have been discontinued or modified absent such termination.”
 
@@ -154,7 +154,7 @@ War contracts, jurisdiction and procedure to enforce termination claim, see sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2409a of this title; title 12 section 216b; title 16 section 460jjj–2; title 20 section 1155; title 22 section 3862; title 25 sections 1300i–11, 3001; title 41 sections 114, 602; title 42 sections 2297e–3, 2297h–3, 4654; title 45 section 1018; title 46 App. section 1242; title 47 section 606.
+This section is referred to in section 2409a of this title; title 12 section 216b; title 16 section 460jjj–2; title 20 section 1155; title 22 section 3862; title 25 sections 1300i–11, 3001; title 41 sections 114, 602; title 42 sections 2297h–3, 4654; title 45 section 1018; title 46 App. section 1242; title 47 section 606.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “United”.</i>
 

@@ -30,7 +30,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (3) Priority for women, infants and children
 
-&emsp;For the purpose of providing health and support services to infants, children, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, the chief elected official of an eligible area, in accordance with the established priorities of the planning council, shall use, from the grants made for the area under section 300ff–11(a) of this title for a fiscal year, not less than the percentage constituted by the ratio of the population in such area of infants, children, and women with acquired immune deficiency syndrome to the general populationin such area of individuals with such syndrome.
+&emsp;For the purpose of providing health and support services to infants, children, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, the chief elected official of an eligible area, in accordance with the established priorities of the planning council, shall use, from the grants made for the area under section 300ff–11(a) of this title for a fiscal year, not less than the percentage constituted by the ratio of the population in such area of infants, children, and women with acquired immune deficiency syndrome to the general population in such area of individuals with such syndrome.
 
 #### (c) Limited expenditures for personnel needs
 
@@ -94,7 +94,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 &emsp;For the purposes of paragraph (1), amounts may be used for administrative activities that include—
 
-&emsp;&emsp;(A) routine grant administration and monitoring activities, including the development of applications for part A funds, the receipt and disbursal of program funds, the development and establishment of reimbursement and accounting systems, the preparation ofroutine programmatic and financial reports, and compliance with grant conditions and audit requirements; and
+&emsp;&emsp;(A) routine grant administration and monitoring activities, including the development of applications for part A funds, the receipt and disbursal of program funds, the development and establishment of reimbursement and accounting systems, the preparation of routine programmatic and financial reports, and compliance with grant conditions and audit requirements; and
 
 &emsp;&emsp;(B) all activities associated with the grantee's contract award procedures, including the development of requests for proposals, contract proposal review activities, negotiation and awarding of contracts, monitoring of contracts through telephone consultation, written documentation or onsite visits, reporting on contracts, and funding reallocation activities.
 
@@ -116,7 +116,7 @@ A State may not use amounts received under a grant awarded under this part to pu
 
 #### References in Text
 
-Section 300ff–12(b) of this title, referred to in subsec. (a)(1), was amended by Pub. L. 104–146, §3(b)(1)(D), May 20, 1996, 110 Stat. 1348, to redesignate pars. (2) and (3) as (3) and (4), respectively. As so redesignated, par. (3)(A) relates to establishment or designation of councils and par. (4)(A) relates to establishment of priorities by planning councils.
+Section 300ff–12(b) of this title, referred to in subsec. (a)(1), was amended by Pub. L. 104–146, §3(b)(1)(D), May20, 1996, 110 Stat. 1348, to redesignate pars. (2) and (3) as (3) and (4), respectively. As so redesignated, par. (3)(A) relates to establishment or designation of councils and par. (4)(A) relates to establishment of priorities by planning councils.
 
 The Social Security Act, referred to in subsec. (d)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

@@ -24,7 +24,7 @@
 
 #### (b) Sales or transfers; options
 
-If during the term of a contract entered into under this subpart an owner or operator of landsubject to such contract sells or otherwise transfers the ownership or right of occupancy of such land, the new owner or operator of such land may—
+If during the term of a contract entered into under this subpart an owner or operator of land subject to such contract sells or otherwise transfers the ownership or right of occupancy of such land, the new owner or operator of such land may—
 
 &emsp;(1) continue such contract under the same terms or conditions;
 

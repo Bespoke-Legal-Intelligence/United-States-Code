@@ -28,6 +28,10 @@ Subsec. (a). Pub. L. 101–510, §1402(a)(1), (2), substituted “a multiyear”
 
 Subsecs. (b)(2)(A), (c). Pub. L. 101–510, §1402(a)(2)(A), substituted “multiyear” for “five-year”.
 
+#### Budget Justification Documents for Costs of Armed Forces’ Participation in Contingency Operations
+
+Pub. L. 106–79, title VIII, §8110, Oct. 25, 1999, 113 Stat. 1257, provided that: “The budget of the President for fiscal year 2001 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include separate budget justification documents for costs of United States Armed Forces’ participation in contingency operations for the Military Personnel accounts, the Procurement accounts, and the Overseas Contingency Operations Transfer Fund: <i>Provided</i>, That these budget justification documents shall include a description of the funding requested for each anticipated contingency operation, for each military service, to include active duty and Guard and Reserve components, and for each appropriation account: <i>Provided further</i>, That these documents shall include estimated costs for each element of expense or object class, a reconciliation of increases and decreases for ongoing contingency operations, and programmatic data including, but not limited to troop strength for each active duty and Guard and Reserve component, and estimates of the major weapons systems deployed in support of each contingency.”
+
 #### Budget Submissions on Active and Reserve Military Personnel Accounts
 
 Pub. L. 105–262, title VIII, §8093, Oct. 17, 1998, 112 Stat. 2319, provided that: “At the time the President submits his budget for fiscal year 2000 and any fiscal year thereafter, the Department of Defense shall transmit to the congressional defense committees \[Committee on Armed Services and Subcommittee on National Security of the Committee on Appropriations of the House of Representatives and Committee on Armed Services and Subcommittee on Defense of the Committee on Appropriations of the Senate\] a budget justification document for the active and reserve Military Personnel accounts, to be known as the ‘M–1’, which shall identify, at the budget activity, activity group, and subactivity group level, the amounts requested by the President to be appropriated to the Department of Defense for military personnel in any budget request, or amended budget request, for that fiscal year.”
@@ -46,9 +50,13 @@ Pub. L. 105–85, div. A, title III, §327, Nov. 18, 1997, 111 Stat. 1679, provi
 
 #### Identification in President's Budget of NATO Costs
 
-Pub. L. 105–262, title VIII, §8095, Oct. 17, 1998, 112 Stat. 2319, provided that: “The budget of the President for fiscal year 2000 submitted to Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include budget activity groups (known as ‘subactivities’) in all appropriations accounts provided in this Act \[see Tables for classification\], as may be necessary, to separately identify all costs incurred by the Department of Defense to support the North Atlantic Treaty Organization and all Partnership For Peace programs and initiatives. The budget justification materials submitted to Congress in support of the budget of the Department of Defense for fiscal year 2000, and subsequent fiscal years, shall provide complete, detailed estimates for all such costs.”
+Pub. L. 106–79, title VIII, §8091, Oct. 25, 1999, 113 Stat. 1253, provided that: “The budget of the President for fiscal year 2001 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include budget activity groups (known as ‘subactivities’) in all appropriations accounts provided in this Act \[see Tables for classification\], as may be necessary, to separately identify all costs incurred by the Department of Defense to support the North Atlantic Treaty Organization and all Partnership For Peace programs and initiatives. The budget justification materials submitted to the Congress in support of the budget of the Department of Defense for fiscal year 2001, and subsequent fiscal years, shall provide complete, detailed estimates for all such costs.”
 
-Pub. L. 105–56, title VIII, §8116, Oct. 8, 1997, 111 Stat. 1245, provided that: “The budget of the President for fiscal year 1999 submitted to Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include budget activity groups (known as ‘subactivities’) in the operation and maintenance accounts of the military departments and other appropriation accounts, as may be necessary, to separately identify all costs incurred by the Department of Defense to support the expansion of the North Atlantic Treaty Organization. The budget justification materials submitted to Congress in support of the budget of the Department of Defense for fiscal year 1999, and subsequent fiscal years, shall provide complete, detailed estimates for the incremental costs of such expansion.”
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–262, title VIII, §8095, Oct. 17, 1998, 112 Stat. 2319.
+
+Pub. L. 105–56, title VIII, §8116, Oct. 8, 1997, 111 Stat. 1245.
 
 #### Program Elements for Ballistic Missile Defense Organization
 
@@ -56,9 +64,11 @@ Pub. L. 104–106, div. A, title II, §251, Feb. 10, 1996, 110 Stat. 233, which 
 
 #### Budget Submissions on Salaries and Expenses Related to Administrative Activities
 
-Pub. L. 105–262, title VIII, §8042, Oct. 17, 1998, 112 Stat. 2306, provided that: “The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the Defense agencies.”
+Pub. L. 106–79, title VIII, §8042, Oct. 25, 1999, 113 Stat. 1240, provided that: “The President shall include with each budget for a fiscal year submitted to the Congressunder section 1105 of title 31, United States Code, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the defense agencies.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–262, title VIII, §8042, Oct. 17, 1998, 112 Stat. 2306.
 
 Pub. L. 105–56, title VIII, §8046, Oct. 8, 1997, 111 Stat. 1231.
 

@@ -16,7 +16,7 @@
 
 (7) Nothing in this Act shall authorize the withholding of information by the Commission or any officer or employee under its control from the duly authorized committees or subcommittees of the Congress, and the provisions of paragraphs (2) through (6) shall not apply to such disclosures, except that the Commission shall immediately notify the manufacturer or private labeler of any such request for information designated as confidential by the manufacturer or private labeler.
 
-(8) The provisions of paragraphs (2) through (6) shall not prohibit the disclosure of information to other officers, employees, or representatives of the Commission (including contractors) concerned with carrying out this Act or when relevant in any administrative proceeding under this Act or in judicial proceedings to which the Commission is a party. Any disclosure of relevant information—
+(8) The provisions of paragraphs (2) through (6) shall not prohibit the disclosure of information to other officers, employees, or representativesof the Commission (including contractors) concerned with carrying out this Act or when relevant in any administrative proceeding under this Act or in judicial proceedings to which the Commission is a party. Any disclosure of relevant information—
 
 &emsp;(A) in Commission administrative proceedings or in judicial proceedings to which the Commission is a party, or
 
@@ -46,7 +46,7 @@
 
 (6) Where the Commission initiates the public disclosure of information that reflects on the safety of a consumer product or class of consumer products, whether or not such information would enable the public to ascertain readily the identity of a manufacturer or private labeler, the Commission shall establish procedures designed to ensure that such information is accurate and not misleading.
 
-(7) If the Commission finds that, in the administration of this Act, it has made public disclosure of inaccurate or misleading information which reflects adversely upon the safety of any consumer product or class of consumer products, or the practices of any manufacturer, private labeler, distributor, or retailer of consumer products, it shall, in a manner equivalent to that in which such disclosure was made, take reasonable steps to publish a retraction of such inaccurate or misleading information.
+(7) If the Commission finds that, in the administration of this Act, it has made public disclosure of inaccurate or misleading information which reflects adversely upon the safety of any consumer product or class of consumer products, or the practices of any manufacturer, private labeler, distributor, or retailer of consumer products, it shall, in a manner equivalent to that inwhich such disclosure was made, take reasonable steps to publish a retraction of such inaccurate or misleading information.
 
 (8) If, after the commencement of a rulemaking or the initiation of an adjudicatory proceeding, the Commission decides to terminate the proceeding before taking final action, the Commission shall, in a manner equivalent to that in which such commencement or initiation was publicized, take reasonable steps to make known the decision to terminate.
 
@@ -70,7 +70,7 @@ The Commission shall communicate to each manufacturer of a consumer product, ins
 
 &emsp;(C) permit anyone (other than the members, officers, and employees of the Commission or officers or employees of the Department of Justice who require such information for an action filed on behalf of the Commission) to examine such information.
 
-(2) Any report furnished under subsection (c)(1) or (c)(2)(A) of section 2084 of this title shall be immune from legal process and shall not be subject to subpoena or other discovery in any civil action in a State or Federal court or in any administrative proceeding, except in an action against such manufacturer under section 2069,2070, or 2071 of this title for failure to furnish information required by section 2084 of this title.
+(2) Any report furnished under subsection (c)(1) or (c)(2)(A) of section 2084 of this title shall be immune from legal process and shall not be subject to subpoena or other discovery in any civil action in a State or Federal court or in any administrative proceeding, except in an action against such manufacturer under section 2069, 2070, or 2071 of this title for failure to furnish information required by section 2084 of this title.
 
 (3) The Commission may, upon written request, furnish to any manufacturer or to the authorized agent of such manufacturer authenticated copies of reports furnished by or on behalf of such manufacturer in accordance with section 2084 of this title, upon payment of the actual or estimated cost of searching the records and furnishing such copies.
 

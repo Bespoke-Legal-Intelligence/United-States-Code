@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(B) integrates academic, and vocational and technical, instruction, and utilizes work-based and worksite learning where appropriate and available;
 
-&emsp;&emsp;(C) provides technical preparation in a career field such as engineering technology, applied science, a mechanical, industrial, or practical art or trade, agriculture, health occupations, business, or applied economics;
+&emsp;&emsp;(C) provides technical preparation in a career field such as engineering technology,applied science, a mechanical, industrial, or practical art or trade, agriculture, health occupations, business, or applied economics;
 
 &emsp;&emsp;(D) builds student competence in mathematics, science, reading, writing, communications, economics, and workplace skills through applied, contextual academics, and integrated instruction, in a coherent sequence of courses;
 

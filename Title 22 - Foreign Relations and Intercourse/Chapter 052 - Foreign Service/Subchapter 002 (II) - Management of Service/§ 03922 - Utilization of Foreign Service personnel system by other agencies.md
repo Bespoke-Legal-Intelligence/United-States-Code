@@ -14,6 +14,10 @@
 
 &emsp;(B) with respect to other personnel of the Department of Commerce to the extent the President determines to be necessary in order to enable the Department of Commerce to carry out functions which require service abroad.
 
+(4)(A) Whenever (and to the extent) the Secretary of State considers it in the best interests of the United States Government, the Secretary of State may authorize the head of any agency or other Government establishment (including any establishment in the legislative or judicial branch) to appoint under section 3943 of this title individuals described in subparagraph (B) as members of the Service and to utilize the Foreign Service personnel system with respect to such individuals under such regulations as the Secretary of State may prescribe.
+
+(B) The individuals referred to in subparagraph (A) are individuals eligible for employment abroad under section 3951(a) of this title.
+
 (b) Subject to section 3921(b) of this title—
 
 &emsp;(1) the agency heads referred to in subsection (a) of this section, and
@@ -22,13 +26,15 @@
 
 > shall in the case of their respective agencies exercise the functions vested in the Secretary by this chapter.
 
-(Pub. L. 96–465, title I, §202, Oct. 17, 1980, 94 Stat. 2078; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(k)(1), title XIV, §1422(b)(4)(A), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793.)
+(Pub. L. 96–465, title I, §202, Oct. 17, 1980, 94 Stat. 2078; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(k)(1), title XIV, §1422(b)(4)(A), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §332\], Nov. 29, 1999, 113 Stat. 1536, 1501A–439.)
 
 #### References in Text
 
 Reorganization Plan Numbered 3 of 1979, referred to in subsec. (a)(3)(A), is Reorg. Plan No. 3 of 1979, 44 F.R. 69273, 93 Stat. 1381, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1999—Subsec. (a)(4). Pub. L. 106–113 added par. (4).
 
 1998—Subsec. (a)(1). Pub. L. 105–277, §1422(b)(4)(A), substituted “Administrator of the Agency for International Development” for “Director of the United States International Development Cooperation Agency”.
 
@@ -40,9 +46,9 @@ Pub. L. 105–277, §1335(k)(1), substituted “Broadcasting Board of Governors�
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 1335(k)(1) of Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+Amendment by section 1335(k)(1) of Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-Amendment by section 1422(b)(4) of Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States International Development Cooperation Agency pursuant to reorganization plan described in section 6601 of this title, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of this title.
+Amendment by section 1422(b)(4) of Pub. L. 105–277 effective Apr. 1, 1999, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of this title.
 
 #### Exercise of Certain Functions by Board of the Foreign Service and Board of Examiners for the Foreign Service
 

@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(C) Title to the building and other improvements constructed or otherwise made on or to squares 721 and 722 will immediately revert to the United States at the expiration of not more than 30 years from the effective date of the lease agreement entered into under section 1203 of this title without payment of any compensation by the United States.
 
-&emsp;&emsp;(D) The building and other improvements constructed on or to squares 721 and 722 to be leased to the United States will be in accordance with the provisions of this chapter and the lease agreement will contain such terms and conditions as may be prescribed by the Architect to carry out the objectives of this chapter.
+&emsp;&emsp;(D) The building and other improvements constructed on or to squares 721 and 722 to be leased to the United States will be in accordance with the provisions of this chapterand the lease agreement will contain such terms and conditions as may be prescribed by the Architect to carry out the objectives of this chapter.
 
 > &emsp;The agreement shall include a copy of the lease agreement entered into under section 1203 of this title by the Architect and the person selected to develop squares 721 and 722.
 

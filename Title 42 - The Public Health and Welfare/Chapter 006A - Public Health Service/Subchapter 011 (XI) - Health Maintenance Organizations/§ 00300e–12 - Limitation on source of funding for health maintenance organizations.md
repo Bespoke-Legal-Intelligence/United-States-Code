@@ -20,7 +20,7 @@ Section 256 of this title, referred to in text, was repealed by Pub. L. 97–35,
 
 #### Amendments
 
-1978—Pub. L. 95–626 inserted “(except as provided in sections 254b, 254c, and 256 of this title)” after “under any provision of this chapter” in provisions preceding par. (1).
+1978—Pub. L. 95–626 inserted “(except as provided in sections 254b, 254c, and 256 of this title)” after “underany provision of this chapter” in provisions preceding par. (1).
 
 Par. (4). Pub. L. 95–559 inserted “or in meeting the costs of such organizations in acquiring or constructing ambulatory health care facilities” after “or entities”.
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(ii) defraying reasonable expenses of administering the plan;
 
-&emsp;(B) with the care, skill, prudence, and diligence under the circumstances then prevailing that a prudent man acting in a like capacityand familiar with such matters would use in the conduct of an enterprise of a like character and with like aims;
+&emsp;(B) with the care, skill, prudence, and diligence under the circumstances then prevailing that a prudent man acting in a like capacity and familiar with such matters would use in the conduct of an enterprise of a like character and with like aims;
 
 &emsp;(C) by diversifying the investments of the plan so as to minimize the risk of large losses, unless under the circumstances it is clearly prudent not to do so; and
 
@@ -82,11 +82,11 @@ Subsec. (d). Pub. L. 101–508, §12002(b)(1), added subsec. (d).
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) ofPub. L. 104–188, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to reversions occurring after Sept. 30, 1990, but not applicableto any reversion after Sept. 30, 1990, if (1) in the case of plans subject to subchapter III of this chapter, notice of intent to terminate under such subchapter was provided to participants (or if no participants, to Pension Benefit Guaranty Corporation) before Oct. 1, 1990, (2) in the case of plans subject to subchapter I of this chapter (and not subchapter III), notice of intent to reduce future accruals under section 1054(h) of this title was provided to participants in connection with termination before Oct. 1, 1990, (3) in the case of plans not subject to subchapter I or III of this chapter, a request for a determination letter with respect to termination was filed with Secretary of the Treasury or Secretary's delegate before Oct. 1, 1990, or (4) in the case of plans not subject to subchapter I or III of this chapter and having only one participant, a resolution terminating the plan was adopted by employer before Oct. 1, 1990, see section 12003 of Pub. L. 101–508, set out as a note under section 4980 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 101–508 applicable to reversions occurring after Sept. 30, 1990, but not applicable to any reversion after Sept. 30, 1990, if (1) in the case of plans subject to subchapter III of this chapter, notice of intent to terminate under such subchapter was provided to participants (or if no participants, to Pension Benefit Guaranty Corporation) before Oct. 1, 1990, (2) in the case of plans subject to subchapter I of this chapter (and not subchapter III), notice of intent to reduce future accruals under section 1054(h) of this title was provided to participants in connection with termination before Oct. 1, 1990, (3) in the case of plans not subject to subchapter I or III of this chapter, a request for a determination letter with respect to termination was filed with Secretary of the Treasury or Secretary's delegate before Oct. 1, 1990, or (4) in the case of plans not subject to subchapter I or III of this chapter and having only one participant, a resolution terminating the plan was adopted by employer before Oct. 1, 1990, see section 12003 of Pub. L. 101–508, set out as a note under section 4980 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1980 Amendment
 

@@ -4,6 +4,10 @@ The President shall transmit to the Congress, not later than April 1 of each yea
 
 (Pub. L. 87–195, pt. I, §300, as added Pub. L. 94–161, title III, §312, Dec. 20, 1975, 89 Stat. 866.)
 
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2220b, 2220c of this title.

@@ -284,5 +284,5 @@ Subsec. (b)(3)(C)(i), (G)(i). Pub. L. 105–394 substituted “the Assistive Tec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 761, 762 of this title; title 38 sections 3904, 7303.
+This section is referred to in section 761 of this title; title 38 sections 3904, 7303.
 

@@ -22,3 +22,4 @@ This subchapter is referred to in sections 3942, 3981, 4153 of this title; title
 - [&sect; 03971 - Temporary service as principal officer](%C2%A7%2003971%20-%20Temporary%20service%20as%20principal%20officer.md)
 - [&sect; 03972 - Special differentials](%C2%A7%2003972%20-%20Special%20differentials.md)
 - [&sect; 03973 - Death gratuities](%C2%A7%2003973%20-%20Death%20gratuities.md)
+- [&sect; 03974 - Border equalization pay adjustment](%C2%A7%2003974%20-%20Border%20equalization%20pay%20adjustment.md)

@@ -20,7 +20,7 @@ The purpose of a closure-acceleration project shall be, within a fixed period of
 
 &emsp;(A) define a clear, delineated scope of work for completion of the project;
 
-&emsp;(B) demonstrate that, with respect to the site of the proposed project, there is a regulatory agreement between the Department of Energy and other appropriate authorities for the implementation of environmental remediation requirements that would allow for successful completion of the project;
+&emsp;(B) demonstrate that, with respect to the site of the proposed project, there is a regulatory agreement between the Department of Energy and other appropriate authorities forthe implementation of environmental remediation requirements that would allow for successful completion of the project;
 
 &emsp;(C) demonstrate, to the maximum extent possible, the support of State and local elected officials and the public for the project;
 

@@ -12,7 +12,7 @@
 
 #### (b) Assets of taxpayer in control or custody of court
 
-The period of limitations on collection after assessment prescribed in section 6502 shall besuspended for the period the assets of the taxpayer are in the control or custody of the court in any proceeding before any court of the United States or of any State or of the District of Columbia, and for 6 months thereafter.
+The period of limitations on collection after assessment prescribed in section 6502 shall be suspended for the period the assets of the taxpayer are in the control or custody of the court in any proceeding before any court of the United States or of any State or of the District of Columbia, and for 6 months thereafter.
 
 #### (c) Taxpayer outside United States
 
@@ -300,7 +300,7 @@ Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of P
 
 Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, except in a case in which a lien or title derived from enforcement of a lien held by United States has been enforced by a civil action or suit which has become final by judgment, sale, or agreement before Nov. 2, 1966, or in a case in which the amendment would impair a priority held by any person other than United States holding a lien or interest prior to Nov. 2, 1966, operate to increase liability of such person, or shorten the time for bringing suit with respect to transactions occurring before Nov. 2, 1966, see section 114(a)–(e) of Pub. L. 89–719, set out as a note under section 6323 of this title.
 
-Amendment by Pub. L. 89–384 applicable with respect to amounts received after Dec. 31, 1964, in respect of foreign expropriation losses (as defined in section1351(b) of this title) sustained after Dec. 31, 1958, see section 2 of Pub. L. 89–384, set out as an Effective Date note under section 1351 of this title.
+Amendment by Pub. L. 89–384 applicable with respect to amounts received after Dec. 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of this title) sustained after Dec. 31, 1958, see section 2 of Pub. L. 89–384, set out as an Effective Date note under section 1351 of this title.
 
 #### Effective Date of 1958 Amendment
 
@@ -316,7 +316,7 @@ For provisions that nothing in amendment by section 11801(c)(20)(A) of Pub. L. 1
 
 #### Annual Report to Congress Concerning Designated Summonses
 
-Section 1003 of Pub. L. 104–168 provided that: “Not later than December 31 of each calendar year after 1995, the Secretary of the Treasury or his delegate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the number of designated summonses (as defined in section 6503(j) of the Internal Revenue Code of 1986) which were issued during the preceding 12 months.”
+Section 1003 of Pub. L. 104–168 provided that: “Not later than December 31 of each calendar year after 1995, the Secretary of the Treasury or his delegate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the number of designated summonses (as defined in section 6503(j) of the Internal Revenue Codeof 1986) which were issued during the preceding 12 months.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

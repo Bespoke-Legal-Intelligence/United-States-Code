@@ -4,9 +4,11 @@
 
 (1) The Chief Administrative Officer of the House of Representatives shall maintain and operate a child care center (to be known as the “House of Representatives Child Care Center”) to furnish pre-school child care—
 
-&emsp;(A) for children of individuals whose pay is disbursed by the Chief Administrative Officer of the House of Representatives and children of support personnel of the House of Representatives; and
+&emsp;(A) for children of individuals whose pay is disbursed by the Chief Administrative Officer of the House of Representatives and children of support personnel of the House of Representatives;
 
-&emsp;(B) if places are available after admission of all children who are eligible under subparagraph (A), for children of individuals whose pay is disbursed by the Secretary of the Senate and children of employees of agencies of the legislative branch.
+&emsp;(B) if places are available after admission of all children who are eligible under subparagraph (A), for children of individuals whose pay is disbursed by the Secretary of the Senate and children of employees of agencies of the legislative branch; and
+
+&emsp;(C) if places are available after admission of all children who are eligible under subparagraph (A) or (B), for children of employees of other offices, departments, and agencies of the Federal Government.
 
 (2) Children shall be admitted to the center on a nondiscriminatory basis and without regard to any office or position held by their parents.
 
@@ -14,7 +16,7 @@
 
 (1)(A) The Speaker of the House of Representatives shall appoint 15 individuals (of whom 7 shall be upon recommendation of the minority leader of the House of Representatives), to serve without pay, as members of an advisory board for the center. The board shall—
 
-&emsp;(i) provide advice to the Chief Administrative Officer on matters of policy relating to the administration and operation of the center (including the selection of the director of the center);
+&emsp;(i) provide advice to the Chief Administrative Officer on matters of policy relating tothe administration and operation of the center (including the selection of the director of the center);
 
 &emsp;(ii) be chosen from among Members of the House of Representatives, spouses of Members, parents of children enrolled in the center, and other individuals with expertise in child care or interest in the center; and
 
@@ -32,7 +34,7 @@ In carrying out subsection (a) of this section, the Chief Administrative Officer
 
 &emsp;(1) to collect fees for child care services;
 
-&emsp;(2) to accept such gifts of money and property as may be approved by the Chairman and the ranking minority party member of theCommittee on House Oversight of the House of Representatives, acting jointly; and
+&emsp;(2) to accept such gifts of money and property as may be approved by the Chairman and the ranking minority party member of the Committee on House Oversight of the House of Representatives, acting jointly; and
 
 &emsp;(3) to employ a director and other employees for the center.
 
@@ -52,13 +54,15 @@ As used in this section—
 
 &emsp;(3) the term “support personnel” means, with respect to the House of Representatives, any employee of a credit union or of the Architect of the Capitol, whose principal duties are to support the functions of the House of Representatives.
 
-(Pub. L. 102–90, title III, §312, Aug. 14, 1991, 105 Stat. 467; Pub. L. 102–392, title III, §319(a), Oct. 6, 1992, 106 Stat. 1725; Pub. L. 104–186, title II, §221(5), (6), Aug. 20, 1996, 110 Stat. 1749.)
+(Pub. L. 102–90, title III, §312, Aug. 14, 1991, 105 Stat. 467; Pub. L. 102–392, title III, §319(a), Oct. 6, 1992, 106 Stat. 1725; Pub. L. 104–186, title II, §221(5), (6), Aug. 20, 1996, 110 Stat. 1749; Pub. L. 106–100, §1(a), Nov. 12, 1999, 113 Stat. 1332.)
 
 #### Codification
 
 Section is comprised of section 312 of Pub. L. 102–90. Subsec. (f) of section 312 of Pub. L. 102–90 repealed sections 184b to 184f of this title.
 
 #### Amendments
+
+1999—Subsec. (a)(1)(C). Pub. L. 106–100 added subpar. (C).
 
 1996—Pub. L. 104–186, §221(5)(A), substituted “Chief Administrative Officer” for “Clerk” wherever appearing.
 
@@ -79,6 +83,10 @@ Salaries and Expenses’, not more than $45,000 may be expended to carry out thi
 #### Change of Name
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–100, §1(b), Nov. 12, 1999, 113 Stat. 1332, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to children admitted to the House of Representatives Child Care Center on or after the date of the enactment of this Act \[Nov. 12, 1999\].”
 
 #### Effective Date of 1992 Amendment
 

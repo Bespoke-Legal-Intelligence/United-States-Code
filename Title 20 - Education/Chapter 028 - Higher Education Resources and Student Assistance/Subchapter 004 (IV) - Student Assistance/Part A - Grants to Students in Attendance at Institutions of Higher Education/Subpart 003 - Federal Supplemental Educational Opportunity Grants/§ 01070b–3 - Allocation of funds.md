@@ -42,7 +42,7 @@
 
 #### (b) Allocation of excess based on fair share
 
-(1) From the remainder of the amount appropriated pursuant to section 1070b(b) of this title for each year (after making the allocations required by subsection (a) of this section), the Secretary shall allocate to each eligible institution which has an excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum ofthe excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
+(1) From the remainder of the amount appropriated pursuant to section 1070b(b) of this title for each year (after making the allocations required by subsection (a) of this section), the Secretary shall allocate to each eligible institution which has an excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
 
 (2) For any eligible institution, the excess eligible amount is the amount, if any, by which—
 
@@ -106,7 +106,7 @@ A prior section 1070b–3, Pub. L. 89–329, title IV, §413D, as added Pub. L. 
 
 #### Amendments
 
-1998—Subsec. (a)(1). Pub. L. 105–244, §406(c)(1)(A), which directed substitution of “received under subsections (a) and (b) of this section for fiscal year 1999\(as such subsections were in effect with respect to allocations for such fiscal year)” for “received and used under this part for fiscal year 1985”, was executed by making the substitution for “received and used under this subpart for fiscal year 1985” to reflect the probable intent of Congress.
+1998—Subsec. (a)(1). Pub. L. 105–244, §406(c)(1)(A), which directed substitution of “received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year)” for “received and used under this part for fiscal year 1985”, was executed by making the substitution for “received and used under this subpart for fiscal year 1985” to reflect the probable intent of Congress.
 
 Subsec. (a)(2)(A), (B). Pub. L. 105–244, §406(c)(1)(B)(i), substituted “1999” for “1985” in introductory provisions.
 

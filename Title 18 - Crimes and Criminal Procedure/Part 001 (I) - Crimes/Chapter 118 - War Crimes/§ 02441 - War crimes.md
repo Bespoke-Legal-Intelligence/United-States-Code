@@ -2,7 +2,7 @@
 
 (a)
 
-Offense.—Whoever, whether inside or outside the United States, commits a war crime, inany of the circumstances described in subsection (b), shall be fined under this title or imprisoned for life or any term of years, or both, and if death results to the victim, shall also be subject to the penalty of death.
+Offense.—Whoever, whether inside or outside the United States, commits a war crime, in any of the circumstances described in subsection (b), shall be fined under this title or imprisoned for life or any term of years, or both, and if death results to the victim, shall also be subject to the penalty of death.
 
 (b)
 

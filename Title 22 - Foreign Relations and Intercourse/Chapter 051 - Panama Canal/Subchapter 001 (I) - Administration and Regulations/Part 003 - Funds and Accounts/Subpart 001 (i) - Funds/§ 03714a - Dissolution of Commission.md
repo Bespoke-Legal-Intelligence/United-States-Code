@@ -38,11 +38,49 @@ The Commission shall during fiscal year 1998 establish an office to close out th
 
 (C) Interest earned on securities invested under subparagraph (A) shall be credited to and form part of the Fund.
 
-(5) Amounts in the Fund may not be obligated or expended in any fiscal year unless the obligation or expenditure is specifically authorized by law.
+(5)(A) Amounts in the Fund may not be obligated or expended in any fiscal year unless the obligation or expenditure is specifically authorized by law.
+
+(B) The office established by subsection (b) of this section is authorized to expend or obligate funds from the Fund for the purposes enumerated in clauses (i) and (ii) of paragraph (2)(A) until October 1, 2004.
 
 (6) The Fund shall terminate on October 1, 2004. Amounts in the Fund on that date shall be deposited in the general fund of the Treasury of the United States.
 
-(Pub. L. 96–70, title I, §1305, as added Pub. L. 102–484, div. C, title XXXV, §3521(a), Oct. 23, 1992, 106 Stat. 2656.)
+(Pub. L. 96–70, title I, §1305, as added Pub. L. 102–484, div. C, title XXXV, §3521(a), Oct. 23, 1992, 106 Stat. 2656; amended Pub. L. 106–65, div. C, title XXXV, §3504(a), Oct. 5, 1999, 113 Stat. 975.)
+
+#### Amendments
+
+1999—Subsec. (c)(5). Pub. L. 106–65 designated existing provisions as subpar. (A) and added subpar. (B).
+
+#### Operation of Office of Transition Administration and Oversight of Close-Out Activities
+
+Pub. L. 106–65, div. C, title XXXV, §3504(b), (c), Oct. 5, 1999, 113 Stat. 975, provided that:
+
+“(b)
+
+Operation of the Office of Transition Administration.—
+
+&emsp;“(1)
+
+In general.—The Panama Canal Act of 1979 (22 U.S.C. 3601 et seq.) shall continue to govern the Office of Transition Administration until October 1, 2004.
+
+&emsp;“(2)
+
+Procurement.—For purposes of exercising authority under the procurement laws of the United States, the director of the Office of Transition Administration shall have the status of the head of an agency.
+
+&emsp;“(3)
+
+Offices.—The Office of Transition Administration shall have offices in the Republic of Panama and in the District of Columbia. Section 1110(b)(1) of the Panama Canal Act of 1973 (22 U.S.C. 3620(b)(1)) does not apply to such office in the Republic of Panama.
+
+&emsp;“(4)
+
+Office of transition administration defined.—In this subsection the term ‘Office of Transition Administration’ means the office established under section 1305 of the Panama Canal Act of 1979 (22 U.S.C. 3714a) to close out the affairs of the Panama Canal Commission.
+
+&emsp;“(5)
+
+Effective date.—This subsection shall be effective on and after the termination of the Panama Canal Treaty of 1977.
+
+“(c)
+
+Oversight of Close-Out Activities.—The Panama Canal Commission shall enter into an agreement with the head of a department or agency of the Federal Government to supervise the close out of the affairs of the Commission under section 1305 of the Panama Canal Act of 1979 and to certify the completion of that function.”
 
 #### Section Referred to in Other Sections
 

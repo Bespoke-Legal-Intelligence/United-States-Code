@@ -40,7 +40,7 @@ The antitrust laws, referred to in subsec. (a), are defined in section 12 of thi
 
 #### Prior Provisions
 
-Section supersedes two former similar sections enacted by act July 2, 1890, ch. 647, §7, 26 Stat. 210, and act Aug. 27, 1894, ch. 349, §77, 28 Stat. 570, each of which were restricted in operation to the particular act cited. Section 7 of act July 2, 1890, was repealed by act July 7, 1955, ch. 283, §3, 69 Stat. 283, effective six months after July 7, 1955.
+Section supersedes two former similar sections enacted by act July 2, 1890, ch. 647, §7, 26 Stat. 210, and actAug. 27, 1894, ch. 349, §77, 28 Stat. 570, each of which were restricted in operation to the particular act cited. Section 7 of act July 2, 1890, was repealed by act July 7, 1955, ch. 283, §3, 69 Stat. 283, effective six months after July 7, 1955.
 
 #### Amendments
 

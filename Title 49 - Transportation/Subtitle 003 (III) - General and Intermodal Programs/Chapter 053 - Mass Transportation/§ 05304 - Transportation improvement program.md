@@ -10,7 +10,7 @@ In general.—In cooperation with the State and affected mass transportation ope
 
 &emsp;(2)
 
-Funding estimate.—For the purpose of developing the transportation improvementprogram, the metropolitan planning organization, public transit agency, and the State shall cooperatively develop estimates of funds that are reasonably expected to be available to support program implementation.
+Funding estimate.—For the purpose of developing the transportation improvement program, the metropolitan planning organization, public transit agency, and the State shall cooperatively develop estimates of funds that are reasonably expected to be available to support program implementation.
 
 (b)
 

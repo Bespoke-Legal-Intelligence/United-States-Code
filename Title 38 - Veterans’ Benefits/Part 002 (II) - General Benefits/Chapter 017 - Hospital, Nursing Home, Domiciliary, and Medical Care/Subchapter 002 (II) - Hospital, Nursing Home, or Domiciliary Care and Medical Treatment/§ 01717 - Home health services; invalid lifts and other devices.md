@@ -64,7 +64,7 @@ Subsecs. (b), (c). Pub. L. 100–322, §101(d)(1)(A), redesignated subsecs. (a) 
 
 #### Effective Date of 1992 Amendment
 
-Section 101(b) of Pub. L. 102–405 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to a veteran who first applies for benefits under section 1717(a)(2) of title 38, United States Code, after December 31, 1989.”
+Section 101(b) of Pub. L. 102–405 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to a veteran who first applies for benefits under section 1717(a)(2) of title 38, United States Code, after December 31, 1989.”
 
 #### Effective Date of 1988 Amendment
 

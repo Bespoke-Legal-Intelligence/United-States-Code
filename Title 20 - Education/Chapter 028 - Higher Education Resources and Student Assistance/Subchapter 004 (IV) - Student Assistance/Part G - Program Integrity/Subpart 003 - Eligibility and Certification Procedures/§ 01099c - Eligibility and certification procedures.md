@@ -8,7 +8,7 @@ For purposes of qualifying institutions of higher education for participation in
 
 The Secretary shall prepare and prescribe a single application form which—
 
-&emsp;(1) requires sufficient information and documentation to determine that the requirementsof eligibility, accreditation, financial responsibility, and administrative capability of the institution of higher education are met;
+&emsp;(1) requires sufficient information and documentation to determine that the requirements of eligibility, accreditation, financial responsibility, and administrative capability of the institution of higher education are met;
 
 &emsp;(2) requires a specific description of the relationship between a main campus of an institution of higher education and all of its branches, including a description of the student aid processing that is performed by the main campus and that which is performed at its branches;
 
@@ -54,7 +54,7 @@ The Secretary shall prepare and prescribe a single application form which—
 
 (5) The determination as to whether an institution has met the standards of financial responsibility provided for in paragraphs (2) and (3)(C) shall be based on an audited and certified financial statement of the institution. Such audit shall be conducted by a qualified independent organization or person in accordance with standards established by the American Institute of Certified Public Accountants. Such statement shall be submitted to the Secretary at the time such institution is considered for certification or recertification under this section. If the institution is permitted to be certified (provisionally or otherwise) and such audit does not establish compliance with paragraph (2), the Secretary may require that additional audits be submitted.
 
-(6)(A) The Secretary shall establish requirements for the maintenance by an institution ofhigher education of sufficient cash reserves to ensure repayment of any required refunds.
+(6)(A) The Secretary shall establish requirements for the maintenance by an institution of higher education of sufficient cash reserves to ensure repayment of any required refunds.
 
 (B) The Secretary shall provide for a process under which the Secretary shall exempt an institution of higher education from the requirements described in subparagraph (A) if the Secretary determines that the institution—
 

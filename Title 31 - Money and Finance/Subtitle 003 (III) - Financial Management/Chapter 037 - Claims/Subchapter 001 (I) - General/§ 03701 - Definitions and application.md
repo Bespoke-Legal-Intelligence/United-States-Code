@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) gets information on consumers to give the information to a consumer reporting agency; or
 
-&emsp;&emsp;&emsp;(ii) serves as a marketing agent under an arrangement allowing a third party to getthe information from a consumer reporting agency.
+&emsp;&emsp;&emsp;(ii) serves as a marketing agent under an arrangement allowing a third party to get the information from a consumer reporting agency.
 
 &emsp;(4) “executive, judicial, or legislative agency” means a department, agency, court, court administrative office, or instrumentality in the executive, judicial, or legislative branch of Government, including government corporations.
 
@@ -28,7 +28,7 @@
 
 (b)(1) In subchapter II of this chapter and subsection (a)(8) of this section, the term “claim” or “debt” means any amount of funds or property that has been determined by an appropriate official of the Federal Government to be owed to the United States by a person, organization, or entity other than another Federal agency. A claim includes, without limitation—
 
-&emsp;(A) funds owed on account of loans made, insured, or guaranteed by the Government, including any deficiency or any difference between the price obtained by the Government in the sale of a property and the amount owed to the Government on a mortgage on the property,
+&emsp;(A) funds owed on account of loans made, insured, or guaranteed by the Government, including any deficiency or any difference between the price obtained by the Governmentin the sale of a property and the amount owed to the Government on a mortgage on the property,
 
 &emsp;(B) expenditures of nonappropriated funds,
 
@@ -50,7 +50,7 @@
 
 &emsp;(1) the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.),
 
-&emsp;(2) the Social Security Act (42 U.S.C. 301 et seq.), except to the extent provided under section 204(f) of such Act and section 3716(c) of this title, or
+&emsp;(2) the Social Security Act (42 U.S.C. 301 et seq.), except to the extent provided under sections 204(f) and 1631(b)(4) of such Act and section 3716(c) of this title, or
 
 &emsp;(3) the tariff laws of the United States.
 
@@ -62,7 +62,7 @@
 
 (f) In section 3711 of this title, “private collection contractor” means private debt collectors under contract with an agency to collect a nontax debt or claim owed the United States. The term includes private debt collectors, collection agencies, and commercial attorneys.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 970; Pub. L. 97–452, §1(13)(A), Jan. 12, 1983, 96 Stat. 2469; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–387, §5(b), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(c)(2), (d)(1), (3), (z)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–361, 1321–378; Pub. L. 104–316, title I, §115(g)(2)(A), Oct. 19, 1996, 110 Stat. 3835.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 970; Pub. L. 97–452, §1(13)(A), Jan. 12, 1983, 96 Stat. 2469; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–387, §5(b), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(c)(2), (d)(1), (3), (z)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–361, 1321–378; Pub. L. 104–316, title I, §115(g)(2)(A), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 106–169, title II, §203(b), Dec. 14, 1999, 113 Stat. 1832.)
 
 Historical and Revision Notes<br>1982
 
@@ -170,11 +170,13 @@ In subsection (d), the word “arising” is omitted as surplus.
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a)(8) and (d)(1), is classified to Title 26, Internal Revenue Code.
 
-The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Section 204(f) of the Act is classified to section 404(f) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Sections 204(f) and 1631(b)(4) of the Act are classified to sections 404(f) and 1383(b)(4), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The tariff laws of the United States, referred to in subsec. (d)(3), are classified generally to Title 19, Customs Duties.
 
 #### Amendments
+
+1999—Subsec. (d)(2). Pub. L. 106–169 substituted “sections 204(f) and 1631(b)(4)” for “section 204(f)”.
 
 1996—Subsec. (a)(1). Pub. L. 104–134, §31001(z)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘administrative offset’ means withholding money payable by the United States Government to, or held by the Government for, a person to satisfy a debt the person owes the Government.”
 
@@ -197,6 +199,10 @@ Subsecs. (e), (f). Pub. L. 104–134, §31001(z)(1)(C), added subsecs. (e) and (
 1986—Subsec. (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 1983—Pub. L. 97–452 designated existing provisions as subsec. (a), added pars. (1), (2), and (3), redesignated former par. (1) as (4) and substituted “Government” for “United States Government”, redesignated former par. (2) as (5), added par. (6), redesignated former par. (3) as (7) and struck out “the” before “Commissioned Corps” in two places, and added subsecs. (b) to (d).
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–169, title II, §203(d), Dec. 14, 1999, 113 Stat. 1832, provided that: “The amendments made by this section \[amending this section and sections 404 and 1383 of Title 42, The Public Health and Welfare\] shall apply to debt outstanding on or after the date of the enactment of this Act \[Dec. 14, 1999\].”
 
 #### Effective Date of 1994 Amendment
 

@@ -204,7 +204,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k) of this secti
 
 #### (A) In general
 
-&emsp;&emsp;The district courts of the United States shall have jurisdiction of actions brought under this section without regard to the amount in controversy.
+&emsp;&emsp;The district courts of the United States shall have jurisdiction of actions broughtunder this section without regard to the amount in controversy.
 
 #### (B) Award of attorneys’ fees
 
@@ -246,7 +246,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k) of this secti
 
 #### (G) Exception to reduction in amount of attorneys’ fees
 
-&emsp;&emsp;The provisions of subparagraph (F) shall not apply in any action or proceeding if thecourt finds that the State or local educational agency unreasonably protracted the final resolution of the action or proceeding or there was a violation of this section.
+&emsp;&emsp;The provisions of subparagraph (F) shall not apply in any action or proceeding if the court finds that the State or local educational agency unreasonably protracted the final resolution of the action or proceeding or there was a violation of this section.
 
 #### (j) Maintenance of current educational placement
 
@@ -262,7 +262,7 @@ Except as provided in subsection (k)(7) of this section, during the pendency of 
 
 &emsp;&emsp;(ii) to an appropriate interim alternative educational setting for the same amount of time that a child without a disability would be subject to discipline, but for not more than 45 days if—
 
-&emsp;&emsp;&emsp;(I) the child carries a weapon to school or to a school function under the jurisdiction of a State or a local educational agency; or
+&emsp;&emsp;&emsp;(I) the child carries or possesses a weapon to or at school, on school premises, or to or at a school function under the jurisdiction of a State or a local educational agency; or
 
 &emsp;&emsp;&emsp;(II) the child knowingly possesses or uses illegal drugs or sells or solicits the sale of a controlled substance while at school or a school function under the jurisdiction of a State or local educational agency.
 
@@ -402,7 +402,7 @@ Except as provided in subsection (k)(7) of this section, during the pendency of 
 
 #### (9) Referral to and action by law enforcement and judicial authorities
 
-&emsp;(A) Nothing in this subchapter shall be construed to prohibit an agency from reporting a crime committed by a child with a disability to appropriate authorities or to prevent State law enforcement and judicial authorities from exercising their responsibilities with regard to the application of Federal and State law to crimes committed by a child with a disability.
+&emsp;(A) Nothing in this subchapter shall be construed to prohibit an agency from reporting a crime committed by a child with a disability to appropriate authorities or to prevent State law enforcement and judicial authorities fromexercising their responsibilities with regard to the application of Federal and State law to crimes committed by a child with a disability.
 
 &emsp;(B) An agency reporting a crime committed by a child with a disability shall ensure that copies of the special education and disciplinary records of the child are transmitted for consideration by the appropriate authorities to whom it reports the crime.
 
@@ -450,9 +450,9 @@ Nothing in this chapter shall be construed to restrict or limit the rights, proc
 
 #### (2) Special rule
 
-&emsp;If, under State law, a child with a disability who has reached the age of majority under State law, who has not been determined to be incompetent, but who is determined not to have the ability to provide informed consent with respect to the educational program of the child, the State shall establish procedures forappointing the parent of the child, or if the parent is not available, another appropriate individual, to represent the educational interests of the child throughout the period of eligibility of the child under this subchapter.
+&emsp;If, under State law, a child with a disability who has reached the age of majority under State law, who has not been determined to be incompetent, but who is determined not to have the ability to provide informed consent with respect to the educational program of the child, the State shall establish procedures for appointing the parent of the child, or if the parent is not available, another appropriate individual, to represent the educational interests of the child throughout the period of eligibility of the child under this subchapter.
 
-(Pub. L. 91–230, title VI, §615, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 88.)
+(Pub. L. 91–230, title VI, §615, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 88; amended Pub. L. 106–25, §6(a), Apr. 29, 1999, 113 Stat. 49.)
 
 #### References in Text
 
@@ -467,6 +467,14 @@ The Rehabilitation Act of 1973, referred to in subsec. (<i>l</i>), is Pub. L. 93
 #### Prior Provisions
 
 A prior section 1415, Pub. L. 91–230, title VI, §615, as added Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 788; amended Pub. L. 99–372, §§2, 3, Aug. 5, 1986, 100 Stat. 796, 797; Pub. L. 100–630, title I, §102(e), Nov. 7, 1988, 102 Stat. 3294; Pub. L. 101–476, title IX, §901(b)(71)–(75), Oct. 30, 1990, 104 Stat. 1145; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–382, title III, §314(a)(1), Oct. 20, 1994, 108 Stat. 3936, related to procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+
+#### Amendments
+
+1999—Subsec. (k)(1)(A)(ii)(I). Pub. L. 106–25 amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “the child carries a weapon to school or to a school function under the jurisdiction of a State or a local educational agency; or”.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–25, §6(b), Apr. 29, 1999, 113 Stat. 49, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to conduct occurring not earlier than the date of the enactment of this Act \[Apr. 29, 1999\].”
 
 #### Section Referred to in Other Sections
 

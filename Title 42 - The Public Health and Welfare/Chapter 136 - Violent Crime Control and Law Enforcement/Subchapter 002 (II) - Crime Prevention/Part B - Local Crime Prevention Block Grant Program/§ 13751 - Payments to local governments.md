@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(ii) the use and sale of illegal drugs by juveniles.
 
-&emsp;&emsp;(H) Youth anticrime councils to give intermediate and secondary school students a structured forum through which to work with community organizations, law enforcement officials, government and media representatives, and school administrators and faculty to address issues regarding youth and violence.
+&emsp;&emsp;(H) Youth anticrime councils to give intermediate and secondary school students astructured forum through which to work with community organizations, law enforcement officials, government and media representatives, and school administrators and faculty to address issues regarding youth and violence.
 
 &emsp;&emsp;(I) Award of grants or contracts to the Boys and Girls Clubs of America, a national nonprofit youth organization, to establish Boys and Girls Clubs in public housing.
 
@@ -114,7 +114,7 @@ Findings.—The Congress finds that—
 
 &emsp;&emsp;“(A) the Boys and Girls Clubs of America, chartered by an Act of Congress on December 10, 1991 \[Pub. L. 102–199, see Tables for classification\], during its 90-year history as a national organization, has proven itself as a positive force in the communities it serves;
 
-&emsp;&emsp;“(B) there are 1,810 Boys and Girls Clubs facilities throughout the United States, Puerto Rico, and the United States Virgin Islands, serving 2,420,000 youths nationwide;
+&emsp;&emsp;“(B) there are 1,810 Boys and Girls Clubs facilities throughout the United States, Puerto Rico, and theUnited States Virgin Islands, serving 2,420,000 youths nationwide;
 
 &emsp;&emsp;“(C) 71 percent of the young people who benefit from Boys and Girls Clubs programs live in our inner cities and urban areas;
 
@@ -130,7 +130,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(2)
 
-Purpose.—The purpose of this section is to provide adequate resources in the form of seed money for the Boys and Girls Clubs of America to establish1,000 additional local clubs where needed, with particular emphasis placed on establishing clubs in public housing projects and distressed areas, and to ensure that there are a total of not less than 2,500 Boys and Girls Clubs of America facilities in operation not later than December 31, 1999.
+Purpose.—The purpose of this section is to provide adequate resources in the form of seed money for the Boys and Girls Clubs of America to establish 1,000 additional local clubs where needed, with particular emphasis placed on establishing clubs in public housing projects and distressed areas, and to ensure that there are a total of not less than 2,500 Boys and Girls Clubs of America facilities in operation not later than December 31, 1999.
 
 “(b)
 
@@ -193,6 +193,8 @@ Role Model Grants.—Of amounts made available under subsection (e) for any fisc
 &emsp;“(1) not more than 5 percent may be used to provide a grant to the Boys and Girls Clubs of America for administrative, travel, and other costs associated with a national role-model speaking tour program; and
 
 &emsp;“(2) no amount may be used to compensate speakers other than to reimburse speakers for reasonable travel and accommodation costs associated with the program described in paragraph (1).”
+
+\[Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.\]
 
 #### Section Referred to in Other Sections
 

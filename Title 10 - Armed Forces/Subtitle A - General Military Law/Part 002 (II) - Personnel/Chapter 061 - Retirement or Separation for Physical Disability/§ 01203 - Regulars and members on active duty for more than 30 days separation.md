@@ -128,5 +128,5 @@ Members on temporary disability retired list, separation under this section, see
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1201, 1204, 1205, 1206, 1210, 1212 of this title; title 42 section 213a.
+This section is referred to in sections 1201, 1204, 1205, 1206, 1207a, 1210, 1212 of this title; title 42 section 213a.
 

@@ -8,7 +8,7 @@ A local educational agency may receive funds under this part for any fiscal year
 
 #### (1) In general
 
-&emsp;A State or local educational agency shall use funds received under this part only to supplement the amount of funds that would, in the absence of such Federal funds, be made available from non-Federal sources for theeducation of pupils participating in programs assisted under this part, and not to supplant such funds.
+&emsp;A State or local educational agency shall use funds received under this part only to supplement the amount of funds that would, in the absence of such Federal funds, be made available from non-Federal sources for the education of pupils participating in programs assisted under this part, and not to supplant such funds.
 
 #### (2) Special rule
 
@@ -69,6 +69,10 @@ For the purpose of complying with subsections (b) and (c) of this section, a Sta
 1996—Subsec. (b)(1). Pub. L. 104–134, §101(b) \[title II, §2754(1)\], substituted “A State” for “(A) Except as provided in subparagraph (B), a State” and struck out subpar. (B) which read as follows: “For the purpose of complying with subparagraph (A), a State or local educational agency may exclude supplemental State and local funds expended in any eligible school attendance area or school for programs that meet the requirements of section 6314 or 6315 of this title.”
 
 Subsec. (d). Pub. L. 104–134, §101(b) \[title II, §2754(2)\], added subsec. (d).
+
+#### Effective Date of 1996 Amendment
+
+Pub. L. 104–134, title I, §101(b) \[title II, §2003\], Apr. 26, 1996, 110 Stat. 1321–77, 1321–112, as amended by Pub. L. 106–113, div. A, title I, §155, Nov. 29, 1999, 113 Stat. 1526, provided that: “Except as otherwise provided in this title \[amending this section and sections 6364 and 6365 of this title\], this title shall be effective beginning on the date of enactment of this Act \[Apr. 26, 1996\].”
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A concessions contract shall provide for payment to the government of a franchise fee orsuch other monetary consideration as determined by the Secretary, upon consideration of the probable value to the concessioner of the privileges granted by the particular contract involved. Such probable value shall be based upon a reasonable opportunity for net profit in relation to capital invested and the obligations of the contract. Consideration of revenue to the United States shall be subordinate to the objectives of protecting and preserving park areas and of providing necessary and appropriate services for visitors at reasonable rates.
+A concessions contract shall provide for payment to the government of a franchise fee or such other monetary consideration as determined by the Secretary, upon consideration of the probable value to the concessioner of the privileges granted by the particular contract involved. Such probable value shall be based upon a reasonable opportunity for net profit in relation to capital invested and the obligations of the contract. Consideration of revenue to the United States shall be subordinate to the objectives of protecting and preserving park areas and of providing necessary and appropriate services for visitors at reasonable rates.
 
 #### (b) Amount of franchise fee
 

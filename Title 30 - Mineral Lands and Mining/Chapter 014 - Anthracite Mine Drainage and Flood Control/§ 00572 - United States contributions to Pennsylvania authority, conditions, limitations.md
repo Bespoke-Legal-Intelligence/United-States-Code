@@ -42,7 +42,3 @@ Subsec. (e). Pub. L. 87–818, §1(6), prescribed that projects be so located, o
 
 Subsec. (f). Pub. L. 87–818, §1(7), added subsec. (f).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 40 App. section 205.
-

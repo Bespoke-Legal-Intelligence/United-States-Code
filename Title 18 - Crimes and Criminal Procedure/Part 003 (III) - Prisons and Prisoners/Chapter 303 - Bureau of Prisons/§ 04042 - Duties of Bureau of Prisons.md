@@ -16,7 +16,7 @@ In General.—The Bureau of Prisons, under the direction of the Attorney General
 
 (b)
 
-Notice of Release of Prisoners.—(1) At least 5 days prior to the date on which a prisoner described in paragraph (3) is to be released on supervised release, or, in the case of a prisoner on supervised release, at least 5 days prior to the date on which the prisoner changes residence to a new jurisdiction, written notice of the release or change of residence shall be provided to the chief law enforcement officer of the State and of the local jurisdiction in which theprisoner will reside. Notice prior to release shall be provided by the Director of the Bureau of Prisons. Notice concerning a change of residence following release shall be provided by the probation officer responsible for the supervision of the released prisoner, or in a manner specified by the Director of the Administrative Office of the United States Courts. The notice requirements under this subsection do not apply in relation to a prisoner being protected under chapter 224.
+Notice of Release of Prisoners.—(1) At least 5 days prior to the date on which a prisoner described in paragraph (3) is to be released on supervised release, or, in the case of a prisoner on supervised release, at least 5 days prior to the date on which the prisoner changes residence to a new jurisdiction, written notice of the release or change of residence shall be provided to the chief law enforcement officer of the State and of the local jurisdiction in which the prisoner will reside. Notice prior to release shall be provided by the Director of the Bureau of Prisons. Notice concerning a change of residence following release shall be provided by the probation officer responsible for the supervision of the released prisoner, or in a manner specified by the Director of the Administrative Office of the United States Courts. The notice requirements under this subsection do not apply in relation to a prisoner being protected under chapter 224.
 
 (2) A notice under paragraph (1) shall disclose—
 
@@ -78,7 +78,7 @@ The remainder of said section 753b of title 18, U.S.C., 1940 ed., is incorporate
 
 #### References in Text
 
-Section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (c)(3), is classified to section 14071(a)(3) of Title 42, The Public Health and Welfare.
+Section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec.\(c)(3), is classified to section 14071(a)(3) of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
@@ -94,7 +94,7 @@ Subsecs. (c), (d). Pub. L. 105–119, §115(a)(8)(A)(iv), added subsec. (c) and 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section 115(c)(1) of Pub. L. 105–119, setout as a note under section 14071 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section 115(c)(1) of Pub. L. 105–119, set out as a note under section 14071 of Title 42, The Public Health and Welfare.
 
 #### Guidelines for States Regarding Infectious Diseases in Correctional Institutions
 
@@ -128,5 +128,5 @@ Expenses of transportation of prisoners, see section 4008 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3563, 3583 of this title.
+This section is referred to in sections 3563, 3583 of this title; title 42 section 14072.
 

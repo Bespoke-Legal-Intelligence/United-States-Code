@@ -82,9 +82,9 @@ Subsec. (b). Act May 24, 1949, reenacted subsec. (b) without change.
 
 Subsec. (c). Act May 24, 1949, added subsec. (c).
 
-#### Exotic Organisms
+#### Invasive Species
 
-For provisions relating to restrictions on the introduction of exotic organisms into natural ecosystems of the United States, see Ex. Ord. No. 11987, May 24, 1977, 42 F.R. 26949, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
+For provisions relating to restrictions on the introduction of invasive species into natural ecosystems of the United States, see Ex. Ord. No. 13112, Feb. 3, 1999, 64 F.R. 6183, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
 
 #### Cross References
 

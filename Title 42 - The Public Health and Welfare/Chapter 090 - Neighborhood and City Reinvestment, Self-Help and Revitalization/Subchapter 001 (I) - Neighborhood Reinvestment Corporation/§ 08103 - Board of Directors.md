@@ -66,5 +66,5 @@ Pub. L. 100–242, §520(a)(4), substituted “Chairman” for “Administrator�
 
 #### Transfer of Functions
 
-Federal Home Loan Bank Board abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of Title 12, Banks and Banking.
+Federal Home Loan Bank Board abolished and functions transferred, see sections 401 to 406 of Pub. L.101–73, set out as a note under section 1437 of Title 12, Banks and Banking.
 

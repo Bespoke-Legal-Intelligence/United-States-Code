@@ -32,7 +32,7 @@
 
 #### (b) Review of regulations
 
-(1) Upon transmittal by the Council to the Secretary of proposed regulations prepared under section 1853(c) of this title, the Secretary shall immediately initiate an evaluation of the proposed regulations to determine whether they are consistent with the fishery management plan, plan amendment, this chapter and other applicable law. Within 15 days of initiating such evaluation the Secretary shall make a determination and—
+(1) Upon transmittal by the Council to the Secretary of proposed regulations preparedunder section 1853(c) of this title, the Secretary shall immediately initiate an evaluation of the proposed regulations to determine whether they are consistent with the fishery management plan, plan amendment, this chapter and other applicable law. Within 15 days of initiating such evaluation the Secretary shall make a determination and—
 
 &emsp;(A) if that determination is affirmative, the Secretary shall publish such regulations in the Federal Register, with such technical changes as may be necessary for clarity and an explanation of those changes, for a public comment period of 15 to 60 days; or
 
@@ -58,7 +58,7 @@
 
 &emsp;(B) consult with the Secretary of State with respect to foreign fishing and with the Secretary of the department in which the Coast Guard is operating with respect to enforcement at sea.
 
-(3) Notwithstanding paragraph (1) for a fishery under the authority of a Council, the Secretarymay not include in any fishery management plan, or any amendment to any such plan, prepared by him, a provision establishing a limited access system, including any individual fishing quota program, unless such system is first approved by a majority of the voting members, present and voting, of each appropriate Council.
+(3) Notwithstanding paragraph (1) for a fishery under the authority of a Council, the Secretary may not include in any fishery management plan, or any amendment to any such plan, prepared by him, a provision establishing a limited access system, including any individual fishing quota program, unless such system is first approved by a majority of the voting members, present and voting, of each appropriate Council.
 
 (4) Whenever the Secretary prepares a fishery management plan or plan amendment under this section, the Secretary shall immediately—
 
@@ -258,7 +258,7 @@ Subsec. (e). Pub. L. 99–659, §106(4), inserted “, in cooperation with the 
 
 1983—Subsec. (a). Pub. L. 97–453, §7(a)(1), amended subsec. (a) generally, which had provided that within 60 days after the Secretary received any fishery management plan, or any amendment to any such plan, which was prepared by any Council, the Secretary was to review such plan or amendment pursuant to subsection (b) of this section, notify such Council in writing of his approval, disapproval, or partial disapproval of such plan or amendment, and that in the case of disapproval or partial disapproval, the Secretary was to include in such notification a statement and explanation of the Secretary's objections and the reasons therefor, suggestions for improvement, a request to such Council to change such plan or amendment to satisfy the objections, and a request to resubmit the plan or amendment, as so modified, to the Secretary within 45 days after the date on which the Council received such notification.
 
-Subsec. (b). Pub. L. 97–453, §7(a)(1), amended subsec. (b) generally, which had provided that the Secretary was to review any fishery management plan, and any amendment to any such plan, prepared by any Council and submitted to him to determine whether it was consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that in carrying out such review, the Secretary was to consult with the Secretary of State with respect to foreign fishing, and the Secretary of the department in which the Coast Guard was operating with respect to enforcement at sea.
+Subsec. (b). Pub. L. 97–453, §7(a)(1), amended subsec. (b) generally, which had provided that the Secretary was to review any fishery management plan, and any amendment to any such plan, prepared by any Council and submitted to him to determine whether it was consistent with the national standards, the other provisions of this chapter, and any other applicable law, andthat in carrying out such review, the Secretary was to consult with the Secretary of State with respect to foreign fishing, and the Secretary of the department in which the Coast Guard was operating with respect to enforcement at sea.
 
 Subsec. (c)(1). Pub. L. 97–453, §7(a)(2)(A), in subpar. (B) substituted “or disapproves a revised plan or amendment, and the Council involved fails to submit a revised or further revised plan or amendment, as the case may be” for “and the Council involved fails to change such plan or amendment in accordance with the notification made under subsection (a)(2) of this section”, and added to the provisions following subpar. (B) a requirement that the Secretary also prepare such proposed regulations as he deems necessary or appropriate to carry out each plan or amendment prepared by him under this paragraph.
 

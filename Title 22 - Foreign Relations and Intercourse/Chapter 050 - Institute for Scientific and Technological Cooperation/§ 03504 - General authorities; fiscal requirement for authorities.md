@@ -26,11 +26,7 @@
 
 &emsp;(12) take such other actions as may be necessary and incident to carrying out the functions of the Institute.
 
-(b) Any authority provided by this section involving the expenditure of appropriated funds shall be effective for a fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
+(b) Any authority provided by this section involving the expenditure of appropriated fundsshall be effective for a fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
 (Pub. L. 96–53, title IV, §404, Aug. 14, 1979, 93 Stat. 373.)
-
-#### International Agreements
-
-The negotiation, conclusion, and termination of international agreements pursuant to this chapter, shall be subject to requirements of section 112b of Title 1, General Provisions, and to applicable regulations and procedures, see section 1–604 of Ex. Ord. No. 12163, Sept.29, 1979, 44 F.R. 56677, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
 

@@ -1,0 +1,20 @@
+### §299c–6. Funding
+
+#### (a) Intent
+
+To ensure that the United States investment in biomedical research is rapidly translated into improvements in the quality of patient care, there must be a corresponding investment in research on the most effective clinical and organizational strategies for use of these findings in daily practice. The authorization levels in subsections (b) and (c) of this section provide for a proportionate increase in health care research as the United States investment in biomedical research increases.
+
+#### (b) Authorization of appropriations
+
+For the purpose of carrying out this subchapter, there are authorized to be appropriated $250,000,000 for fiscal year 2000, and such sums as may be necessary for each of the fiscal years 2001 through 2005.
+
+#### (c) Evaluations
+
+In addition to amounts available pursuant to subsection (b) of this section for carrying out this subchapter, there shall be made available for such purpose, from the amounts made available pursuant to section 238j of this title (relating to evaluations), an amount equal to 40 percent of the maximum amount authorized in such section 238j of this title to be made available for a fiscal year.
+
+(July 1, 1944, ch. 373, title IX, §927, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1670.)
+
+#### Prior Provisions
+
+A prior section 299c–6, act July 1, 1944, ch. 373, title IX, §927, as added Pub. L. 101–239, title VI, §6103(c), Dec. 19, 1989, 103 Stat. 2204, set out definitions, prior to the general amendment of this subchapter by Pub. L. 106–129. See section 299c–7 of this title.
+

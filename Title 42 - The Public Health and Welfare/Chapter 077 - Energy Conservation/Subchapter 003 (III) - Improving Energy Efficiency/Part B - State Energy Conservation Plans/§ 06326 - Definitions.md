@@ -12,7 +12,7 @@ As used in this part—
 
 &emsp;&emsp;(B) imposes—
 
-&emsp;&emsp;&emsp;(i) no direct costs, with respect to individuals who are occupants of dwelling units in any State having a supplemental State energy conservation plan approved under section 6327 <sup>1</sup> of this title, and
+&emsp;&emsp;&emsp;(i) no direct costs, with respect to individuals who are occupants of dwelling units in any State having a supplementalState energy conservation plan approved under section 6327 <sup>1</sup> of this title, and
 
 &emsp;&emsp;&emsp;(ii) only reasonable costs, as determined by the Secretary, with respect to any person not described in clause (i).
 

@@ -10,7 +10,7 @@ Each biennial report submitted under subsection (a) of this section after the fi
 
 &emsp;(1) An analysis of the data collected under section 13106 of this title on an industry-by-industry basis for not less than five SIC codes or other categories as the Administrator deems appropriate. The analysis shall begin with those SIC codes or other categories of facilities which generate the largest quantities of toxic chemical waste. The analysis shall include an evaluation of trends in source reduction by industry, firm size, production, or other useful means. Each such subsequent report shall cover five SIC codes or other categories which were not covered in a prior report until all SIC codes or other categories have been covered.
 
-&emsp;(2) An analysis of the usefulness and validity of the data collected under section 13106 ofthis title for measuring trends in source reduction and the adoption of source reduction by business.
+&emsp;(2) An analysis of the usefulness and validity of the data collected under section 13106 of this title for measuring trends in source reduction and the adoption of source reduction by business.
 
 &emsp;(3) Identification of regulatory and nonregulatory barriers to source reduction, and of opportunities for using existing regulatory programs, and incentives and disincentives to promote and assist source reduction.
 

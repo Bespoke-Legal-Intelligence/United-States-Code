@@ -16,7 +16,7 @@ Ex. Ord. No. 12824, Dec. 7, 1992, 57 F.R. 58121, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America and as Commander in Chief of the Armed Forces of the United States, it is ordered as follows:
 
-Section 1. There is hereby established a Transportation Distinguished Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Transportation to a member of the Coast Guard who has provided exceptionally meritorious service in a duty of great responsibility while assigned in the Department of Transportation, or in other activities under the responsibility of the Secretary ofTransportation, either national or international, as may be assigned by the Secretary.
+Section 1. There is hereby established a Transportation Distinguished Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Transportation to a member of the Coast Guard who has provided exceptionally meritorious service in a duty of great responsibility while assigned in the Department of Transportation, or in other activities under the responsibility of the Secretary of Transportation, either national or international, as may be assigned by the Secretary.
 
 Sec. 2. The Transportation Distinguished Service Medal and appurtenances thereto shall be of appropriate design approved by the Secretary of Transportation and shall be awarded under such regulations as the Secretary shall prescribe. These regulations shall place the Transportation Distinguished Service Medal in an order of precedence immediately before the Coast Guard Distinguished Service Medal.
 

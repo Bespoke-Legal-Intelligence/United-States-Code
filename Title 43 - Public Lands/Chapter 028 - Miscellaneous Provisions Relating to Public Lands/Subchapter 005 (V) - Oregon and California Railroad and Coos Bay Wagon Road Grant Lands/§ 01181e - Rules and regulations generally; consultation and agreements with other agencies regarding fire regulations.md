@@ -8,5 +8,5 @@ In formulating regulations for the protection of such timberlands against fire, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1181d, 1181f, 1181f–4, 1181i, 1735, 1752 of this title; title 16 section 4804; title 30 sections 601, 603.
+This section is referred to in sections 1181d, 1181f, 1181f–4, 1181i, 1735, 1752 of this title; title 30 sections 601, 603.
 

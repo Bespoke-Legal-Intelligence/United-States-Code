@@ -12,7 +12,7 @@ None of the funds made available under title I \[29 U.S.C. 2801 et seq.\], II \[
 
 #### (2) Notice to recipients of assistance
 
-&emsp;In providing financial assistance using funds made available under title I \[29 U.S.C. 2801 et seq.\], II \[20 U.S.C. 9201 et seq.\], or III or this subchapter, the head of each Federal agency shall provide to each recipient of the assistance a notice describing the statement made in paragraph (1) by Congress.
+&emsp;In providing financial assistance using funds made available under title I \[29 U.S.C. 2801 etseq.\], II \[20 U.S.C. 9201 et seq.\], or III or this subchapter, the head of each Federal agency shall provide to each recipient of the assistance a notice describing the statement made in paragraph (1) by Congress.
 
 #### (c) Prohibition of contracts with persons falsely labeling products as made in America
 

@@ -20,7 +20,7 @@ Minor changes were made in phraseology.
 
 1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and “Court of Federal Claims” for “Claims Court” in three places.
 
-1982—Pub. L. 97–164 amended section generally, substituting provisions relating to times and places ofholding court (formerly contained in section 174) for provisions relating to the tenure and salaries of judges of the Court of Claims. See section 172 of this title.
+1982—Pub. L. 97–164 amended section generally, substituting provisions relating to times and places of holding court (formerly contained in section 174) for provisions relating to the tenure and salaries of judges of the Court of Claims. See section 172 of this title.
 
 1975—Pub. L. 94–82 substituted provision that the chief judge and associate judges receive a salary at an annual rate determined under section 225 of the Federal Salary Act of 1967, as adjusted by section 461 of this title, for provision granting each such judge a salary of $33,000 a year.
 

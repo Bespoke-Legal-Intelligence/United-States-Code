@@ -76,7 +76,7 @@ Each establishment of the Retirement Home shall have a Board of trustees which s
 
 (2) A member whose term of office has expired may continue to serve until the successor for the member is appointed or designated.
 
-(3) The Chairman of the Retirement Home Board may appoint a member of the Retirement Home Board for a second consecutive term. TheChairman of a Local Board may appoint a member of that Local Board for a second consecutive term.
+(3) The Chairman of the Retirement Home Board may appoint a member of the Retirement Home Board for a second consecutive term. The Chairman of a Local Board may appoint a member of that Local Board for a second consecutive term.
 
 #### (f) Early expiration of term
 

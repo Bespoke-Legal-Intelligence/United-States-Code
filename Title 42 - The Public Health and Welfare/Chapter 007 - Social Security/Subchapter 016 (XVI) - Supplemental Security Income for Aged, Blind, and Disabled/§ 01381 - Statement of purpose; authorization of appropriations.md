@@ -36,3 +36,7 @@ For the purpose of enabling each State, as far as practicable under the conditio
 
 Pub. L. 93–233, §19(b), Dec. 31, 1973, 87 Stat. 974, provided that: “Notwithstanding the provisions of section 301 of the Social Security Amendments of 1972 \[enacting this subchapter\], the Secretary of Health, Education, and Welfare shall make payments to the 50 States and the District of Columbia after December 31, 1973, in accordance with the provisions of the Social Security Act \[this chapter\] as in effect prior to January 1, 1974, for (1) activities carried out through the close of December 31, 1973, under State plans approved under title I, X, XIV, or XVI, of such Act \[subchapter I, X, XIV, or XVI of this chapter\], and (2) administrative activities carried out after December 31, 1973, which such Secretary determines are necessary to bring to a close activities carried out under such State plans.”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1320b–19 of this title.
+

@@ -6,7 +6,7 @@ The undistributed foreign personal holding company income of a foreign personal 
 
 #### (b) Amount included in gross income
 
-Each United States shareholder, who was a shareholder on the day in the taxable year of the company which was the last day on which a United States group (as defined in section 552(a)(2)) existed with respect to the company, shall include in his gross income, as a dividend, for the taxable year in which or with which the taxable year of the company ends, the amount he would have received as a dividend (determined as if any distribution in liquidation actually made in such taxable year had not been made) if on such last day there had been distributed by the company, and received by the shareholders, an amount which bears the same ratio to the undistributed foreign personal holding company income of the company for the taxable year as the portion of such taxable year up toand including such last day bears to the entire taxable year.
+Each United States shareholder, who was a shareholder on the day in the taxable year of the company which was the last day on which a United States group (as defined in section 552(a)(2)) existed with respect to the company, shall include in his gross income, as a dividend, for the taxable year in which or with which thetaxable year of the company ends, the amount he would have received as a dividend (determined as if any distribution in liquidation actually made in such taxable year had not been made) if on such last day there had been distributed by the company, and received by the shareholders, an amount which bears the same ratio to the undistributed foreign personal holding company income of the company for the taxable year as the portion of such taxable year up to and including such last day bears to the entire taxable year.
 
 #### (c) Information in return
 
@@ -66,7 +66,7 @@ Subsecs. (f), (g). Pub. L. 94–455, §§1901(b)(1)(F)(i), (b)(12)(A), redesigna
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31,1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
+Amendment by Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31, 1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -70,7 +70,7 @@ Subsec. (b)(3)(C). Pub. L. 103–200, §6(2)(B), inserted “or listed chemical�
 
 #### Change of Name
 
-“United States magistrate judge” and “magistrate judge” substituted for “United States magistrate” and “magistrate”, respectively, wherever appearing in subsec. (d) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+“United States magistrate judge” and “magistrate judge” substituted for “United States magistrate” and“magistrate”, respectively, wherever appearing in subsec. (d) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1993 Amendment
 

@@ -126,11 +126,11 @@ The Secretary may make a grant under this section to—
 
 &emsp;Funds made available for grants under this section shall not be used for the construction of a new building or facility or the acquisition, expansion, remodeling, or alteration of an existing building or facility (including site grading and improvement and architect fees).
 
-(Pub. L. 105–185, title IV, §401, June 23, 1998, 112 Stat. 564; Pub. L. 105–277, div. A, title I, §101(a) \[title VII, §753(c)(2)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33.)
+(Pub. L. 105–185, title IV, §401, June 23, 1998, 112 Stat. 564; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(c)(2)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33.)
 
 #### References in Text
 
-The Alternative Agricultural Research and Commercialization Act of 1990, referred to in subsec. (c)(1)(B), is subtitle G (§§1657–1664) of title XVI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3756, which is classified generally to subchapter VI (§5901 et seq.) of chapter 88 of this title. For complete classification of this Act to the Code, see section 5901(a) of this title and Tables.
+The Alternative Agricultural Research and Commercialization Act of 1990, referred to in subsec. (c)(1)(B), issubtitle G (§§1657–1664) of title XVI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3756, which is classified generally to subchapter VI (§5901 et seq.) of chapter 88 of this title. For complete classification of this Act to the Code, see section 5901(a) of this title and Tables.
 
 #### Amendments
 

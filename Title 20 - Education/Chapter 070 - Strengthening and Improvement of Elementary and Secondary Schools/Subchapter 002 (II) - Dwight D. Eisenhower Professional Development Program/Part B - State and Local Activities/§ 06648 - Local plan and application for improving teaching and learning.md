@@ -58,7 +58,7 @@ Each application under this section shall include the local educational agency's
 
 &emsp;&emsp;&emsp;(iv) resources from business, industry, public and private nonprofit organizations (including museums, libraries, educational television stations, community-based organizations, professional organizations and associations specializing in, or with a demonstrated expertise in the core academic subjects);
 
-&emsp;&emsp;&emsp;(v) funds or programming from other Federal agencies, such as the National Science Foundation, the Department of Energy, the Department of Health andHuman Services, the Institute of Museum and Library Services, the National Endowment for the Humanities, and the National Endowment for the Arts;
+&emsp;&emsp;&emsp;(v) funds or programming from other Federal agencies, such as the National Science Foundation, the Department of Energy, the Department of Health and Human Services, the Institute of Museum and Library Services, the National Endowment for the Humanities, and the National Endowment for the Arts;
 
 &emsp;&emsp;&emsp;(vi) services of educational service agencies; and
 
@@ -74,7 +74,7 @@ Each application under this section shall include the local educational agency's
 
 &emsp;&emsp;(A) remain in effect for the duration of the local educational agency's participation under this part; and
 
-&emsp;&emsp;(B) be periodically reviewed and revised by the local educational agency, as necessary, to reflect changes in the local educational agency's strategies and programs under this part.
+&emsp;&emsp;(B) be periodically reviewed and revised by the local educational agency, as necessary,to reflect changes in the local educational agency's strategies and programs under this part.
 
 (Pub. L. 89–10, title II, §2208, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3626; amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(b)(3)(A)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313.)
 

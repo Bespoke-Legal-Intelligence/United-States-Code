@@ -46,7 +46,7 @@ For purposes of this section:
 
 &emsp;The term “fish” includes other forms of aquatic life.
 
-(Added Pub. L. 104–188, title I, §1116(b)(1), Aug. 20, 1996, 110 Stat. 1763; amended Pub. L. 105–34, title XVI, §1601(a), Aug. 5, 1997, 111 Stat. 1086; Pub. L. 105–206, title VI, §6023(21), July 22, 1998, 112 Stat. 826.)
+(Added Pub. L. 104–188, title I, §1116(b)(1), Aug. 20, 1996, 110 Stat. 1763; amended Pub. L. 105–34,title XVI, §1601(a), Aug. 5, 1997, 111 Stat. 1086; Pub. L. 105–206, title VI, §6023(21), July 22, 1998, 112 Stat. 826.)
 
 #### Amendments
 

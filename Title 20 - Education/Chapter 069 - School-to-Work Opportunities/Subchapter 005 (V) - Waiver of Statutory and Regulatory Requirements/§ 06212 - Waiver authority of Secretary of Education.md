@@ -62,7 +62,7 @@ The provisions subject to the waiver authority of this section are—
 
 #### (c) Waivers not authorized
 
-The Secretary of Education may not waive any requirement of any provision referred to insubsection (b) of this section, or of any regulation issued under such provision, relating to—
+The Secretary of Education may not waive any requirement of any provision referred to in subsection (b) of this section, or of any regulation issued under such provision, relating to—
 
 &emsp;(1) the basic purposes or goals of such provision;
 
@@ -92,7 +92,7 @@ The Secretary of Education shall periodically review the performance of any Stat
 
 This chapter, referred to in subsec. (a)(1)(A), (D)(i), (4), was in the original “this Act”, meaning Pub. L. 103–239, May 4, 1994, 108 Stat. 568, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(1) to (5), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. Part A of title II of the Act is classified generally to part A (§6621 et seq.) of subchapter II of chapter 70 of this title. Part A of title V of the Act is classified generally to part A (§7201 et seq.) of subchapter V of chapter 70 of this title. Part B of title IX of the Act is classified generally to part B (§7901 et seq.) of subchapter IX of chapter 70 of this title. Title XIII of the Act is classified generally to subchapter XIII (§8601 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(1) to (5), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. Part A of title II of the Act is classified generally to part A (§6621 et seq.) of subchapter II of chapter 70 of this title. Part A of title V of the Act is classified generally to part A (§7201 et seq.) of subchapter V of chapter 70 of this title. Part B of title IX of the Act is classified generally to partB (§7901 et seq.) of subchapter IX of chapter 70 of this title. Title XIII of the Act is classified generally to subchapter XIII (§8601 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(6), was Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of this title, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 

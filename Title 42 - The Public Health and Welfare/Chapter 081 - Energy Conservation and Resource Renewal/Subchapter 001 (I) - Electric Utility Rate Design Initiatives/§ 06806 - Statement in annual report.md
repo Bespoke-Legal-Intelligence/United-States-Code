@@ -6,7 +6,7 @@ The Secretary shall include in each annual report submitted under section 7267 o
 
 #### Amendments
 
-1980—Pub. L. 96–470 substituted “The Secretary shall include in each annual report submitted under section 7267 of this title a statement” for “Not later than the last day in December in each year, the Secretary shall transmit to the Congress a report”.
+1980—Pub. L. 96–470 substituted “The Secretary shall include in each annual report submitted under section7267 of this title a statement” for “Not later than the last day in December in each year, the Secretary shall transmit to the Congress a report”.
 
 1978—Pub. L. 95–617 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration.
 

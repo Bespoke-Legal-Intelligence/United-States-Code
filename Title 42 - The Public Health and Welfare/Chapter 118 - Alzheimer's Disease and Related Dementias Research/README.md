@@ -56,15 +56,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part 2—Responsibilities of Agency for Health Care Policy and Research
+#### Part 2—Responsibilities of Agency for Healthcare Research and Quality
 
 |  |  |
 | :--- | ---: |
-| [11261\.](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/Part%20002%20-%20Responsibilities%20of%20Agency%20for%20Health%20Care%20Policy%20and%20Research/%C2%A7%2011261%20-%20Research%20program.md) | Research program. |
+| [11261\.](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/Part%20002%20-%20Responsibilities%20of%20Agency%20for%20Healthcare%20Research%20and%20Quality/%C2%A7%2011261%20-%20Research%20program.md) | Research program. |
 | (a) | Grants for research. |
 | (b) | Research subjects. |
-| [11262\.](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/Part%20002%20-%20Responsibilities%20of%20Agency%20for%20Health%20Care%20Policy%20and%20Research/%C2%A7%2011262%20-%20Dissemination.md) | Dissemination. |
-| [11263\.](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/Part%20002%20-%20Responsibilities%20of%20Agency%20for%20Health%20Care%20Policy%20and%20Research/%C2%A7%2011263%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [11262\.](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/Part%20002%20-%20Responsibilities%20of%20Agency%20for%20Healthcare%20Research%20and%20Quality/%C2%A7%2011262%20-%20Dissemination.md) | Dissemination. |
+| [11263\.](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/Part%20002%20-%20Responsibilities%20of%20Agency%20for%20Healthcare%20Research%20and%20Quality/%C2%A7%2011263%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -4,7 +4,7 @@
 
 #### (1) Single form required
 
-&emsp;The Secretary, in cooperation with representatives of agencies and organizations involved in student financial assistance, shall produce, distribute, and process free of charge a common financial reporting form to be used to determine the need and eligibility of a student for financial assistance under parts A through D of this subchapter and part C of subchapter I of chapter 34 of title 42 (other than under subpart 4 of part A of this subchapter). The Secretary shall include on the form developed under this subsection such data items as the Secretary determines are appropriate for inclusion. Such items shall be selected in consultation with States to assist in the awarding of State financial assistance. Inno case shall the number of such data items be less than the number included on the form on October 7, 1998. Such form shall satisfy the requirements of section 1070a(d) of this title.
+&emsp;The Secretary, in cooperation with representatives of agencies and organizations involved in student financial assistance, shall produce, distribute, and process free of charge a common financial reporting form to be used to determine the need and eligibility of a student for financial assistance under parts A through D of this subchapter and part C of subchapter I of chapter 34 of title 42 (other than under subpart 4 of part A of this subchapter). The Secretary shall include on the form developed under this subsection such data items as the Secretary determines are appropriate for inclusion. Such items shall be selected in consultation with States to assist in the awarding of State financial assistance. In no case shall the number of such data items be less than the number included on the form on October 7, 1998. Such form shall satisfy the requirements of section 1070a(d) of this title.
 
 #### (2) Charges to students and parents for use of form prohibited
 
@@ -64,7 +64,7 @@
 
 (4) Nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the Secretary to reduce the number of data elements required of reapplicants.
 
-(5) Individuals determined to have a zero family contribution pursuant to section 1087ss of this title shall not be required to provide any financial data, except that which is necessary to determine eligibility under that section.
+(5) Individuals determined to have a zero family contribution pursuant to section 1087ss ofthis title shall not be required to provide any financial data, except that which is necessary to determine eligibility under that section.
 
 #### (c) Information to committees of Congress
 
@@ -82,7 +82,7 @@ Any financial aid application required to be made under this subchapter and part
 
 #### Prior Provisions
 
-A prior section 1090, Pub. L. 89–329, title IV, §483, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94Stat. 1448, related to forms and regulations for student assistance programs, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1090, Pub. L. 89–329, title IV, §483, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1448, related to forms and regulations for student assistance programs, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -128,7 +128,7 @@ Subsec. (b). Pub. L. 102–325, §483(a), added subsec. (b) and struck out forme
 
 Subsec. (d). Pub. L. 102–325, §483(b)(1), struck out subsec. (d) which related to provision of early notice to students of their potential eligibility for financial aid.
 
-Subsec. (e). Pub. L. 102–325, §483(b)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary shall contract for, or establish, and publicize a toll-free telephone number to provide timely and accurate information to the general public. The information provided shall include specific instructions on completing application forms for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.”
+Subsec. (e). Pub. L. 102–325, §483(b)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) readas follows: “The Secretary shall contract for, or establish, and publicize a toll-free telephone number to provide timely and accurate information to the general public. The information provided shall include specific instructions on completing application forms for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.”
 
 Subsecs. (f), (g). Pub. L. 102–325, §483(b)(1), (3), added subsecs. (f) and (g) and struck out former subsec. (f) which related to notice of student aid receipt.
 

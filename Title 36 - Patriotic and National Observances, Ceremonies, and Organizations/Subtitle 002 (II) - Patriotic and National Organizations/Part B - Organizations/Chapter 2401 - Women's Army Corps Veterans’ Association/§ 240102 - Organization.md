@@ -32,7 +32,7 @@ Oct. 30, 1984, Pub. L. 98–584, §§1, 15 (last sentence), 16, 98 Stat. 3097, 3
 
 36:3115.
 
-In subsection (a), the words “incorporated in” are substituted for “organized under the laws of”, and thewords “is a federally chartered corporation” are substituted for “is recognized as such and is granted a Federal charter”, for consistency in the revised title.
+In subsection (a), the words “incorporated in” are substituted for “organized under the laws of”, and the words “is a federally chartered corporation” are substituted for “is recognized as such and is granted a Federal charter”, for consistency in the revised title.
 
 In subsection (b), the word “restrictions” is omitted as included in “any provision”.
 

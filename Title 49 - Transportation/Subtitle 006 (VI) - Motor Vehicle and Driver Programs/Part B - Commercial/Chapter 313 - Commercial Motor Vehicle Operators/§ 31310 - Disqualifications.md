@@ -10,11 +10,15 @@ First Violation or Committing Felony.—(1) Except as provided in paragraph (2) 
 
 &emsp;(A) committing a first violation of driving a commercial motor vehicle under the influence of alcohol or a controlled substance;
 
-&emsp;(B) committing a first violation of leaving the scene of an accident involving a commercial motor vehicle operated by the individual; or
+&emsp;(B) committing a first violation of leaving the scene of an accident involving a commercial motor vehicle operated by the individual;
 
-&emsp;(C) using a commercial motor vehicle in committing a felony (except a felony described in subsection (d) of this section).
+&emsp;(C) using a commercial motor vehicle in committing a felony (except a felony described in subsection (d) of this section);
 
-(2) If the vehicle involved in a violation referred to in paragraph (1) of this subsection istransporting hazardous material required to be placarded under section 5103 of this title, the Secretary shall disqualify the individual for at least 3 years.
+&emsp;(D) committing a first violation of driving a commercial motor vehicle when the individual's commercial driver's license is revoked, suspended, or canceled based on the individual's operation of a commercial motor vehicle or when the individual is disqualified from operating a commercial motor vehicle based on the individual's operation of a commercial motor vehicle; or
+
+&emsp;(E) convicted of causing a fatality through negligent or criminal operation of a commercial motor vehicle.
+
+(2) If the vehicle involved in a violation referred to in paragraph (1) of this subsection is transporting hazardous material required to be placarded under section 5103 of this title, the Secretary shall disqualify the individual for at least 3 years.
 
 (c)
 
@@ -24,9 +28,13 @@ Second and Multiple Violations.—(1) Subject to paragraph (2) of this subsectio
 
 &emsp;(B) committing more than one violation of leaving the scene of an accident involving a commercial motor vehicle operated by the individual;
 
-&emsp;(C) using a commercial motor vehicle in committing more than one felony arising out of different criminal episodes; or
+&emsp;(C) using a commercial motor vehicle in committing more than one felony arising out of different criminal episodes;
 
-&emsp;(D) committing any combination of single violations or use described in clauses (A)–(C) of this paragraph.
+&emsp;(D) committing more than one violation of driving a commercial motor vehicle when the individual's commercial driver's license is revoked, suspended, or canceled based on the individual's operation of a commercial motor vehicle or when the individual is disqualified from operating a commercial motor vehicle based on the individual's operation of a commercial motor vehicle;
+
+&emsp;(E) convicted of more than one offense of causing a fatality through negligent or criminal operation of a commercial motor vehicle; or
+
+&emsp;(F) committing any combination of single violations or use described in subparagraphs (A) through (E).
 
 (2) The Secretary may prescribe regulations establishing guidelines (including conditions) under which a disqualification for life under paragraph (1) of this subsection may be reduced to a period of not less than 10 years.
 
@@ -42,9 +50,37 @@ Serious Traffic Violations.—(1) The Secretary shall disqualify from operating 
 
 (f)
 
-State Disqualification.—Notwithstanding subsections (b)–(e) of this section, the Secretary does not have to disqualify an individual from operating a commercial motor vehicle if the State that issued the individual a license authorizing the operation has disqualified the individual from operating a commercial motor vehicle under subsections (b)–(e). Revocation, suspension, or cancellation of the license is deemed to be disqualification under this subsection.
+Emergency Disqualification.—
+
+&emsp;(1)
+
+Limited duration.—The Secretary shall disqualify an individual from operating a commercial motor vehicle for not to exceed 30 days if the Secretary determines that allowing the individual to continue to operate a commercial motor vehicle would create an imminent hazard (as such term is defined in section 5102).
+
+&emsp;(2)
+
+After notice and hearing.—The Secretary shall disqualify an individual from operating a commercial motor vehicle for more than 30 days if the Secretary determines, after notice and an opportunity for a hearing, that allowing the individual to continue to operate a commercial motor vehicle would create an imminent hazard (as such term is defined in section 5102).
 
 (g)
+
+Noncommercial Motor Vehicle Convictions.—
+
+&emsp;(1)
+
+Issuance of regulations.—Not later than 1 year after the date of the enactment of this Act, the Secretary shall issue regulations providing for the disqualification by the Secretary from operating a commercial motor vehicle of an individual who holds a commercial driver's license and who has been convicted of—
+
+&emsp;&emsp;(A) a serious offense involving a motor vehicle (other than a commercial motor vehicle) that has resulted in the revocation, cancellation, or suspension of the individual's license; or
+
+&emsp;&emsp;(B) a drug or alcohol related offense involving a motor vehicle (other than a commercial motor vehicle).
+
+&emsp;(2)
+
+Requirements for regulations.—Regulations issued under paragraph (1) shall establish the minimum periods for which the disqualifications shall be in effect, but in no case shall the time periods for disqualification for noncommercial motor vehicle violations be more stringent than those for offenses or violations involving a commercial motor vehicle. The Secretary shall determine such periods based on the seriousness of the offenses on which the convictions are based.
+
+(h)
+
+State Disqualification.—Notwithstanding subsections (b) through (g) of this section, the Secretary does not have to disqualify an individual from operating a commercial motor vehicle if the State that issued the individual a license authorizing the operation has disqualified the individual from operating a commercial motor vehicle under subsections (b) through (g). Revocation, suspension, or cancellation of the license is deemed to be disqualification under this subsection.
+
+(i)
 
 Out-of-Service Orders.—(1)(A) To enforce section 392.5 of title 49, Code of Federal Regulations, the Secretary shall prescribe regulations establishing and enforcing an out-of-service period of 24 hours for an individual who violates section 392.5. An individual may not violate an out-of-service order issued under those regulations.
 
@@ -58,7 +94,7 @@ Out-of-Service Orders.—(1)(A) To enforce section 392.5 of title 49, Code of Fe
 
 &emsp;(C) an employer that knowingly allows or requires an employee to operate a commercial motor vehicle in violation of an out-of-service order shall be liable for a civil penalty of not more than $10,000.
 
-(h)
+(j)
 
 Grade-Crossing Violations.—
 
@@ -74,7 +110,7 @@ Minimum requirements.—The regulations issued under paragraph (1) shall, at a m
 
 &emsp;&emsp;(B) any employer that knowingly allows, permits, authorizes, or requires an employee to operate a commercial motor vehicle in violation of such a law or regulation shall be subject to a civil penalty of not more than $10,000.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1022; Pub. L. 104–88, title IV, §403(a), Dec. 29, 1995, 109 Stat. 956.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1022; Pub. L. 104–88, title IV, §403(a), Dec. 29, 1995, 109 Stat. 956; Pub. L. 106–159, title II, §201(a)(1), (2), (b), Dec. 9, 1999, 113 Stat. 1758, 1759.)
 
 Historical and Revision Notes
 
@@ -132,7 +168,23 @@ In subsection (g)(1)(A), the words “Not later than 1 year after October 27, 19
 
 In subsection (g)(2), before clause (A), the words “Not later than December 18, 1992, the Secretary shall prescribe regulations” are substituted for “The Secretary shall issue regulations” and 49 App.:2718(c) to eliminate executed words. The word “individuals” is substituted for “persons” for clarity and consistency in the revised title and with other titles of the United States Code. In clause (C), the words “permits, authorizes” are omitted as being included in “allows”.
 
+#### References in Text
+
+The date of the enactment of this Act, referred to in subsec. (g)(1), is the date of enactment of Pub. L. 106–159, which was approved Dec. 9, 1999.
+
 #### Amendments
+
+1999—Subsec. (b)(1)(D), (E). Pub. L. 106–159, §201(a)(1), added subpars. (D) and (E).
+
+Subsec. (c)(1)(D), (E). Pub. L. 106–159, §201(a)(2)(A), (C), added subpars. (D) and (E). Former subpar. (D) redesignated (F).
+
+Subsec. (c)(1)(F). Pub. L. 106–159, §201(a)(2)(B), (D), redesignated subpar. (D) as (F) and substituted “subparagraphs (A) through (E)” for “clauses (A)–(C) of this paragraph”.
+
+Subsecs. (f), (g). Pub. L. 106–159, §201(b)(2), added subsecs. (f) and (g). Former subsecs. (f) and (g) redesignated (h) and (i), respectively.
+
+Subsec. (h). Pub. L. 106–159, §201(b)(1), (3), redesignated subsec. (f) as (h) and substituted “(b) through (g)” for “(b)–(e)” in two places. Former subsec. (h) redesignated (j).
+
+Subsecs. (i), (j). Pub. L. 106–159, §201(b)(1), redesignated subsecs. (g) and (h) as (i) and (j), respectively.
 
 1995—Subsec. (h). Pub. L. 104–88 added subsec. (h).
 
@@ -146,5 +198,5 @@ Section 403(b) of Pub. L. 104–88 provided that: “The initial regulations req
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 521, 31311 of this title.
+This section is referred to in sections 521, 31301, 31311 of this title.
 

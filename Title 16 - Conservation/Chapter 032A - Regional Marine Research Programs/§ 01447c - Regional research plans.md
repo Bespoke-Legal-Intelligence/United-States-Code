@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each Board shall develop a comprehensive 4-year marine research plan for the region for which the Board is responsible, and shall amend the plan at such times as the Board considers necessary to reflect changing conditions, but no less frequently than once every 4 years.
+&emsp;Each Board shall develop a comprehensive 4-year marine research plan for the region for which the Board is responsible, and shallamend the plan at such times as the Board considers necessary to reflect changing conditions, but no less frequently than once every 4 years.
 
 #### (2) Review and consideration of national plan
 
@@ -28,7 +28,7 @@ Such marine research plan shall include—
 
 #### (1) In general
 
-&emsp;When a Board has developed a marine research plan, including amendments thereto,the Board shall submit the plan to the Administrator of the National Oceanic and Atmospheric Administration and the Administration of the Environmental Protection Agency, who shall jointly determine whether the plan meets the requirements of subsection (b) of this section.
+&emsp;When a Board has developed a marine research plan, including amendments thereto, the Board shall submit the plan to the Administrator of the National Oceanic and Atmospheric Administration and the Administration of the Environmental Protection Agency, who shall jointly determine whether the plan meets the requirements of subsection (b) of this section.
 
 #### (2) Time for approval or disapproval
 

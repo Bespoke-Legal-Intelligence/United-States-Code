@@ -18,7 +18,7 @@
 
 #### References in Text
 
-The date of the enactment of the Transportation Equity Act for the 21st Century, referred to in subsec. (a),is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
+The date of the enactment of the Transportation Equity Act for the 21st Century, referred to in subsec. (a), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
 #### Amendments
 

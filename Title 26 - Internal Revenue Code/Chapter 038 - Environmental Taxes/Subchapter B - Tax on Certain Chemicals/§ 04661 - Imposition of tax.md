@@ -196,7 +196,7 @@ No tax shall be imposed under this section during any period during which the Ha
 
 #### Codification
 
-Amendment by Pub. L. 99–509, title VIII, §8031(d)(2), Oct. 21, 1986, 100 Stat. 1956, to subsec. (c) of this section was not executed to text pursuant to Pub. L. 99–509, title VIII, §8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
+Amendment by Pub. L. 99–509, title VIII, §8031(d)(2), Oct. 21, 1986, 100 Stat. 1956, to subsec. (c) of this sectionwas not executed to text pursuant to Pub. L. 99–509, title VIII, §8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
 
 #### Amendments
 

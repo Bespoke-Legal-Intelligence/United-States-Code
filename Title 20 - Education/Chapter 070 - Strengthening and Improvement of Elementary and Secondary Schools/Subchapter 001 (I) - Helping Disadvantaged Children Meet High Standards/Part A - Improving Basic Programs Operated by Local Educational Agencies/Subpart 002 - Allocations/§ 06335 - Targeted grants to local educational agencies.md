@@ -32,7 +32,7 @@ A local educational agency in a State is eligible to receive a targeted grant un
 
 &emsp;&emsp;&emsp;&emsp;(I) the number of children determined under section 6333(c) of this title for that county constituting up to 12.20 percent, inclusive, of the county's total population aged 5 to 17, inclusive, multiplied by 1.0;
 
-&emsp;&emsp;&emsp;&emsp;(II) the number of such children constituting more than 12.20 percent, but not more than 17.70 percent, of such population, multiplied by 1.75;
+&emsp;&emsp;&emsp;&emsp;(II) the number of such children constituting more than 12.20 percent, butnot more than 17.70 percent, of such population, multiplied by 1.75;
 
 &emsp;&emsp;&emsp;&emsp;(III) the number of such children constituting more than 17.70 percent, but not more than 22.80 percent, of such population, multiplied by 2.5;
 
@@ -94,7 +94,7 @@ A local educational agency in a State is eligible to receive a targeted grant un
 
 #### (B) Puerto Rico
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the weighting factor for Puerto Rico under this paragraph shall not be greater than the totalnumber of children counted under section 6333(c) of this title multiplied by 1.72.
+&emsp;&emsp;Notwithstanding subparagraph (A), the weighting factor for Puerto Rico under this paragraph shall not be greater than the total number of children counted under section 6333(c) of this title multiplied by 1.72.
 
 #### (d) Local educational agency allocations
 

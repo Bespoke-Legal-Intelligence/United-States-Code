@@ -38,7 +38,7 @@ Neither subsection (a) of this section nor section 1772e of this title—
 
 #### References in Text
 
-The Trade and Intercourse Act of 1790, Act of July 22, 1790 (25 U.S.C. 177, ch. 33, sec. 4, 1 Stat. 137), referred to in subsec. (a)(2)(B), is not classified to the Code. See sections 177, 179, 180, 193, 194, 201, 229, 230, 251, 263, and 264 of this title.
+The Trade and Intercourse Act of 1790, Act of July 22, 1790 (25 U.S.C. 177, ch. 33, sec. 4, 1 Stat. 137), referred toin subsec. (a)(2)(B), is not classified to the Code. See sections 177, 179, 180, 193, 194, 201, 229, 230, 251, 263, and 264 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,7 @@ Of amounts appropriated under section 704(a)(1) and (2) of the Railroad Revitali
 
 Within twelve months following December 29, 1981, the Secretary of Transportation shall submit a report to the Congress on the results of the engineering survey and planning and market feasibility studies carried out under this section. Such report shall be referred to the Committees on Commerce, Science, and Transportation and Environment and Public Works of the Senate and the Committees on Energy and Commerce and Public Works and Transportation of the House, respectively. Such report shall include a specific commitment of Federal funds for completion of the rehabilitation of the historic Union Station building, together with any necessary request for appropriations, in the amount determined by the Secretary of Transportation to be necessary in light of the survey and studies carried out under this section, from either or both of the following sources:
 
-&emsp;(1) funds authorized to be appropriated and not yet appropriated under section 704(a) ofthe Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 854(a)) that are in excess of the amounts set out in the last sentence of such section 704(a); and
+&emsp;(1) funds authorized to be appropriated and not yet appropriated under section 704(a) of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 854(a)) that are in excess of the amounts set out in the last sentence of such section 704(a); and
 
 &emsp;(2) funds programed or reprogramed from any other appropriation available to the Secretary of Transportation.
 

@@ -36,7 +36,7 @@
 
 &emsp;&emsp;Except as provided in subsection (a)(4)(A) of this section and subsection (c) of this section, information submitted to the administering authority or the Commission which is designated as proprietary by the person submitting the information shall not be disclosed to any person without the consent of the person submitting the information, other than—
 
-&emsp;&emsp;&emsp;(i) to an officer or employee of the administering authority or the Commission who is directly concerned with carrying out the investigation in connection withwhich the information is submitted or any review under this subtitle covering the same subject merchandise, or
+&emsp;&emsp;&emsp;(i) to an officer or employee of the administering authority or the Commission who is directly concerned with carrying out the investigation in connection with which the information is submitted or any review under this subtitle covering the same subject merchandise, or
 
 &emsp;&emsp;&emsp;(ii) to an officer or employee of the United States Customs Service who is directly involved in conducting an investigation regarding fraud under this subtitle.
 
@@ -74,7 +74,7 @@
 
 #### (B) Protective order
 
-&emsp;&emsp;The protective order under which information is made available shall contain such requirements as the administering authority or the Commission may determine by regulation to be appropriate. The administering authority and the Commission shall provide by regulation for such sanctions as the administering authority and the Commission determine to be appropriate, including disbarment from practice before the agency.
+&emsp;&emsp;The protective order under which information is made available shall contain such requirements as the administering authority or the Commission may determine by regulation to be appropriate. The administeringauthority and the Commission shall provide by regulation for such sanctions as the administering authority and the Commission determine to be appropriate, including disbarment from practice before the agency.
 
 #### (C) Time limitation on determinations
 
@@ -136,7 +136,7 @@ Any party submitting written information, including business proprietary informa
 
 &emsp;&emsp;&emsp;(iii) any officer or employee of the United States Government designated by the administering authority or the Commission, as appropriate, to whom disclosure is necessary in order to make recommendations to the Trade Representative regarding the convening of extraordinary challenge committees under chapter 19 of the NAFTA or the Agreement, and
 
-&emsp;&emsp;&emsp;(iv) any officer or employee of the Government of a free trade area country (asdefined in section 1516a(f)(10) of this title) designated by an authorized agency of such country to whom disclosure is necessary in order to make decisions regarding the convening of extraordinary challenge committees under chapter 19 of the NAFTA or the Agreement.
+&emsp;&emsp;&emsp;(iv) any officer or employee of the Government of a free trade area country (as defined in section 1516a(f)(10) of this title) designated by an authorized agency of such country to whom disclosure is necessary in order to make decisions regarding the convening of extraordinary challenge committees under chapter 19 of the NAFTA or the Agreement.
 
 #### (C) Review
 
@@ -160,7 +160,7 @@ Any party submitting written information, including business proprietary informa
 
 #### (6) Enforcement of sanctions
 
-&emsp;If any person fails to pay an assessment of a civil penalty or to comply with other administrative sanctions after the order imposing such sanctions becomes a final and unappealable order, or after the United States Court of International Trade has entered final judgment in favor of the administering authority or the Commission, an action may be filed in such court to enforce the sanctions. In such action, the validity and appropriateness of the final order imposing the sanctions shall not be subject to review.
+&emsp;If any person fails to pay an assessment of a civil penalty or to comply with other administrative sanctions after the order imposing such sanctions becomes a final and unappealable order, or after the United States Court of International Trade has entered final judgment in favor of the administering authority or the Commission, an action may be filed in such court to enforce the sanctions. Insuch action, the validity and appropriateness of the final order imposing the sanctions shall not be subject to review.
 
 #### (7) Testimony and production of papers
 
@@ -272,7 +272,7 @@ Subsec. (f). Pub. L. 101–382, §134(a)(4), redesignated subsec. (d), relating 
 
 Subsec. (f)(1)(A). Pub. L. 101–382, §134(a)(4)(A), struck out “(but not privileged material as defined by the rules of procedure referred to in article 1904(14) of the United States-Canada Agreement)” after “all proprietary material” and inserted at end “If the administering authority or the Commission claims a privilege as to a document or portion of a document in the administrative record of the proceeding in question and a binational panel finds that in camera inspection or limited disclosure of that document or portion thereof is required by United States law, the administering authority or the Commission, as appropriate, may restrict access to such document or portion thereof to the authorized persons identified by the panel as requiring access and may require such persons to obtain access under a protective order described in paragraph (2).”
 
-Subsec. (f)(1)(B)(ii) to (iv). Pub. L. 101–382, §134(a)(4)(B), inserted “, and persons under the direction and control,” after “employees” in cl. (ii), substituted “make recommendations to the Trade Representative regarding the convening of extraordinary challenge committees under chapter 19 of the Agreement, and” for “implement the United States-CanadaAgreement with respect to such proceeding.” in cl. (iii), and added cl. (iv).
+Subsec. (f)(1)(B)(ii) to (iv). Pub. L. 101–382, §134(a)(4)(B), inserted “, and persons under the direction and control,” after “employees” in cl. (ii), substituted “make recommendations to the Trade Representative regarding the convening of extraordinary challenge committees under chapter 19 of the Agreement, and” for “implement the United States-Canada Agreement with respect to such proceeding.” in cl. (iii), and added cl. (iv).
 
 Subsec. (f)(3). Pub. L. 101–382, §134(a)(4)(C), struck out “or” after “violate,” in two places and inserted “or knowingly to receive information the receipt of which constitutes a violation of,” after “the violation of,” in two places.
 

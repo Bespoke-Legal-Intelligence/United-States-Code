@@ -9,6 +9,14 @@
 | [22\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20General%20Provisions/%C2%A7%2000022%20-%20Organization%20certificate.md) | Organization certificate. |
 | [23\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20General%20Provisions/%C2%A7%2000023%20-%20Acknowledgment%20and%20filing%20of%20certificate.md) | Acknowledgment and filing of certificate. |
 | [24\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20General%20Provisions/%C2%A7%2000024%20-%20Corporate%20powers%20of%20associations.md) | Corporate powers of associations. |
+| [24a.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20General%20Provisions/%C2%A7%2000024a%20-%20Financial%20subsidiaries%20of%20national%20banks.md) | Financial subsidiaries of national banks. |
+| (a) | Authorization to conduct in subsidiaries certain activities that are financial in nature. |
+| (b) | Activities that are financial in nature. |
+| (c) | Capital deduction. |
+| (d) | Safeguards for the bank. |
+| (e) | Provisions applicable to national banks that fail to continue to meet certain requirements. |
+| (f) | Failure to maintain public rating or meet applicable criteria. |
+| (g) | Definitions. |
 | [25\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20General%20Provisions/%C2%A7%2000025%20-%20Omitted.md) | Omitted. |
 | [25a.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20General%20Provisions/%C2%A7%2000025a%20-%20Participation%20by%20national%20banks%20in%20lotteries%20and%20related%20activities.md) | Participation by national banks in lotteries and related activities. |
 | (a) | Prohibited activities. |
@@ -24,6 +32,7 @@
 | (a) | Name change. |
 | (b) | Location change. |
 | (c) | Coordination with section 36 of this title. |
+| (d) | Retention of “Federal” in name of converted Federal savings association. |
 | [31\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20General%20Provisions/%C2%A7%2000031%20-%20Rights%20and%20liabilities%20as%20affected%20by%20change%20of%20name.md) | Rights and liabilities as affected by change of name. |
 | [32\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20General%20Provisions/%C2%A7%2000032%20-%20Liabilities%20and%20suits%20as%20affected%20by%20change%20of%20name%20or%20location.md) | Liabilities and suits as affected by change of name or location. |
 | 33 to 34c. | Transferred. |
@@ -96,8 +105,7 @@
 | [74\.](Subchapter%20003%20%28III%29%20-%20Directors/%C2%A7%2000074%20-%20Vacancies.md) | Vacancies. |
 | [75\.](Subchapter%20003%20%28III%29%20-%20Directors/%C2%A7%2000075%20-%20Legal%20holiday%2C%20annual%20meeting%20on%3B%20proceedings%20where%20no%20election%20held%20on%20proper%20day.md) | Legal holiday, annual meeting on; proceedings where no election held on proper day. |
 | [76\.](Subchapter%20003%20%28III%29%20-%20Directors/%C2%A7%2000076%20-%20President%20of%20bank%20as%20member%20of%20board%3B%20chairman%20of%20board.md) | President of bank as member of board; chairman of board. |
-| [77\.](Subchapter%20003%20%28III%29%20-%20Directors/%C2%A7%2000077%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93695%2C%20title%20II%2C%20%C2%A7207%2C%20Oct.%2016%2C%201966%2C%2080%20Stat.%201055.md) | Repealed. |
-| [78\.](Subchapter%20003%20%28III%29%20-%20Directors/%C2%A7%2000078%20-%20Certain%20persons%20excluded%20from%20serving%20as%20officers%2C%20directors%20or%20employees%20of%20member%20banks.md) | Certain persons excluded from serving as officers, directors or employees of member banks. |
+| 77, 78. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -353,7 +361,7 @@
 
 #### National Bank Act Referred to in Other Sections
 
-Sections 21 et seq. of this title are referred to in sections 35, 40, 41, 215c, 377, 501a, 1440, 1467a, 1817, 2254, 3102 of this title; title 18 section 334; title 28 section 1348.
+Sections 21 et seq. of this title are referred to in sections 35, 40, 41, 215c, 501a, 1440, 1467a, 1817, 2254, 3102 of this title; title 18 section 334; title 28 section 1348.
 
 
 ---

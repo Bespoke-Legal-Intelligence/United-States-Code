@@ -2,7 +2,7 @@
 
 #### (a) Arrest, detention, and release
 
-On a warrant issued by the Attorney General, an alien may be arrested and detained pending a decision on whether the alien is to be removed from the United States. Except as provided in subsection (c) of this section and pending such decision, the Attorney General—
+On a warrant issued by the Attorney General, an alien may be arrested and detained pending adecision on whether the alien is to be removed from the United States. Except as provided in subsection (c) of this section and pending such decision, the Attorney General—
 
 &emsp;(1) may continue to detain the arrested alien; and
 
@@ -70,7 +70,7 @@ Subsecs. (a) to (d). Pub. L. 104–208, §371(b)(5), substituted “An immigrati
 
 1991—Subsec. (e)(1). Pub. L. 102–232 substituted “upon release of the alien (regardless of whether or not such release is on parole, supervised release, or probation, and regardless of the possibility of rearrest or further confinement in respect of the same offense)” for “upon completion of the alien's sentence for such conviction”.
 
-1990—Subsec. (d). Pub. L. 101–649, §603(a)(12), substituted “has a disease, illness, or addiction which would make the alien excludable under paragraph (1) of section 1182(a) of this title” for “is afflicted with a disease specified in section 1182(a)(6) of this title, or with any mental disease, defect, or disability which would bring such alien within any of the classes excluded from admission to the United States under paragraphs (1) to (4) or (5) of section 1182(a) of this title” and struck out at end “If an alien is excluded by a special inquiry officer because of the existence of a physical disease, defect, or disability, other than one specified in section 1182(a)(6) of this title, the alien may appeal from the excluding decision in accordance with subsection (b) of this section, and the provisions of section 1183 of this title may be invoked.”
+1990—Subsec. (d). Pub. L. 101–649, §603(a)(12), substituted “has a disease, illness, or addiction which would make the alien excludable under paragraph (1) of section 1182(a) of this title” for “is afflicted with a disease specified in section 1182(a)(6) of this title, or withany mental disease, defect, or disability which would bring such alien within any of the classes excluded from admission to the United States under paragraphs (1) to (4) or (5) of section 1182(a) of this title” and struck out at end “If an alien is excluded by a special inquiry officer because of the existence of a physical disease, defect, or disability, other than one specified in section 1182(a)(6) of this title, the alien may appeal from the excluding decision in accordance with subsection (b) of this section, and the provisions of section 1183 of this title may be invoked.”
 
 Subsec. (e). Pub. L. 101–649, §504(b), added subsec. (e).
 

@@ -226,7 +226,7 @@ $110.00&nbsp;
 
 &emsp;&emsp;47,000
 
-46\.00 
+46\.00&nbsp;
 
 &emsp;&emsp;48,000
 
@@ -318,7 +318,7 @@ Subsec. (c)(1). Pub. L. 103–397, §2(b)(1), substituted “the highest dollar 
 
 Subsec. (c)(2). Pub. L. 103–397, §2(b)(2), amended table generally by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $39.25 to $98.00 under prior table to $44.00 to $110.00.
 
-Pub. L. 103–397, §5(b)(4), amended table generally for fiscal year 1998 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $34.50 to $86.00 under prior table to $39.25 to $98.00.
+Pub. L. 103–397, §5(b)(4), amended table generally for fiscal year 1998 by augmenting dollar amounts by which population totals must be multiplied in order to equalthe limitation from $34.50 to $86.00 under prior table to $39.25 to $98.00.
 
 Pub. L. 103–397, §5(b)(3), amended table generally for fiscal year 1997 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $29.50 to $74.00 under prior table to $34.50 to $86.00.
 

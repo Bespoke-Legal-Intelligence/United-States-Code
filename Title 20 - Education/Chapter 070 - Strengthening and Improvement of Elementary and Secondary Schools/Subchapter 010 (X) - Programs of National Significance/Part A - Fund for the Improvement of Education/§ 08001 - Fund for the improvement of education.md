@@ -110,7 +110,7 @@ From funds appropriated under subsection (d) of this section, the Secretary is a
 
 #### (d) Authorization
 
-For the purpose of carrying out this section, there are authorized to be appropriated $50,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.
+For the purpose of carrying out this section, there are authorized to be appropriated$50,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.
 
 (Pub. L. 89–10, title X, §10101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3809; amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(b)(4)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 

@@ -114,7 +114,7 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–212 effective Mar. 17, 1980, and applicable to fiscal years beginning with the fiscalyear beginning Oct. 1, 1979, see section 204 of Pub. L. 96–212, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 96–212 effective Mar. 17, 1980, and applicable to fiscal years beginning with the fiscal year beginning Oct. 1, 1979, see section 204 of Pub. L. 96–212, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1965 Amendment
 

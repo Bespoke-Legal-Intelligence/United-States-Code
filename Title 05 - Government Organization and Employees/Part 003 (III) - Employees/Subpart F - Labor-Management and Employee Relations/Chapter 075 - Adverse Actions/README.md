@@ -61,7 +61,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2108, 2302, 3382, 9508 of this title; title 10 section 1612; title 31 section 732; title 39 section 1005; title 41 section 423; title 42 section 237.
+This chapter is referred to in sections 2108, 2302, 3382, 9508 of this title; title 10 section 1612; title 29 section 783; title 31 section 732; title 39 section 1005; title 41 section 423; title 42 section 237.
 
 
 ---

@@ -40,7 +40,7 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 (1) The purpose of this subsection is to facilitate the orderly and necessary flow of long-term loans from certified development companies to small business concerns.
 
-(2) Notwithstanding the provisions of the constitution or laws of any State limiting the rate or amount of interest which may be charged, taken, received, or reserved, the maximum legal rate of interest on any commercial loan which funds any portion of the cost of the project financed pursuant to this section or section 697a of this title which is not funded by a debenture guaranteed under this section shall be a rate which is established by the Administrator of the Small Business Administration under the authority of this section.
+(2) Notwithstanding the provisions of the constitution or laws of any State limiting the rate or amount of interest which may be charged, taken, received, or reserved, the maximum legalrate of interest on any commercial loan which funds any portion of the cost of the project financed pursuant to this section or section 697a of this title which is not funded by a debenture guaranteed under this section shall be a rate which is established by the Administrator of the Small Business Administration under the authority of this section.
 
 (3) The Administrator is authorized and directed to establish and publish quarterly a maximum legal interest rate for any commercial loan which funds any portion of the cost of the project financed pursuant to this section or section 697a of this title which is not funded by a debenture guaranteed under this section.
 
@@ -78,7 +78,7 @@ The fees authorized by subsections (b) and (c) of this section shall apply to fi
 
 #### (g) Calculation of subsidy rate
 
-All fees, interest, and profits received and retained by the Administration under this section shall be included in the calculations made bythe Director of the Office of Management and Budget to offset the cost (as that term is defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter.
+All fees, interest, and profits received and retained by the Administration under this section shall be included in the calculations made by the Director of the Office of Management and Budget to offset the cost (as that term is defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter.
 
 #### (h) Required actions upon default
 
@@ -104,7 +104,7 @@ All fees, interest, and profits received and retained by the Administration unde
 
 &emsp;&emsp;(C) for any project financed after September 30, 1996, shall not pay any default interest rate higher than the interest rate on the note prior to the date of default.
 
-(Pub. L. 85–699, title V, §503, as added Pub. L. 96–302, title I, §113(a), July 2, 1980, 94 Stat. 837; amended Pub. L. 100–590, title I, §§112(c), 114, 117(a), Nov. 3, 1988, 102 Stat. 2996–2998; Pub. L. 101–515, title V, §8, Nov. 5, 1990, 104 Stat. 2144; Pub. L. 103–403, title II, §213(1), Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–36, §6, Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title II, §§202(b)–(e), 203, Sept. 30, 1996, 110 Stat. 3009–735, 3009–736; Pub. L. 105–135, title II, §222, Dec. 2, 1997, 111 Stat. 2604.)
+(Pub. L. 85–699, title V, §503, as added Pub. L. 96–302, title I, §113(a), July 2, 1980, 94 Stat. 837; amended Pub. L. 100–590, title I, §§112(c), 114,117(a), Nov. 3, 1988, 102 Stat. 2996–2998; Pub. L. 101–515, title V, §8, Nov. 5, 1990, 104 Stat. 2144; Pub. L. 103–403, title II, §213(1), Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–36, §6, Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title II, §§202(b)–(e), 203, Sept. 30, 1996, 110 Stat. 3009–735, 3009–736; Pub. L. 105–135, title II, §222, Dec. 2, 1997, 111 Stat. 2604.)
 
 #### References in Text
 

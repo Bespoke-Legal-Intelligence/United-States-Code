@@ -58,7 +58,7 @@ For purposes of this section—
 
 #### (2) Reduction of credit to taxpayer subject to alternative minimum tax
 
-&emsp;For taxable years beginning after December 31, 1998, the credit determined under this subsection for the taxable year shall be reduced by the excess (if any) of—
+&emsp;For taxable years beginning after December 31, 2001, the credit determined under this subsection for the taxable year shall be reduced by the excess (if any) of—
 
 &emsp;&emsp;(A) the amount of tax imposed by section 55 (relating to alternative minimum tax) with respect to such taxpayer for such taxable year, over
 
@@ -94,13 +94,15 @@ No credit shall be allowed under this section to a taxpayer with respect to any 
 
 Except in the case of a taxable year closed by reason of the death of the taxpayer, no credit shall be allowable under this section in the case of a taxable year covering a period of less than 12 months.
 
-(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901.)
+(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(b)(1), Dec. 17, 1999, 113 Stat. 1919.)
 
 #### Prior Provisions
 
 A prior section 24, added Pub. L. 92–178, title VII, §701(a), Dec. 10, 1971, 85 Stat. 560, §41; amended Pub. L. 93–625, §§11(a)–(c), (e), 12(a), Jan. 3, 1975, 88 Stat. 2119, 2120; Pub. L. 94–455, title V, §503(b)(4), title XIX, §§1901(b)(1)(B), (H)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1562, 1790, 1791, 1834; Pub. L. 95–600, title I, §113(c), Nov. 6, 1978, 92 Stat. 2778; Pub. L. 97–473, title II, §202(b)(1), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §24 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(f), July 18, 1984, 98 Stat. 826, 831, related to contributions to candidates for public office, prior to repeal by Pub. L. 99–514, title I, §§112(a), 151(a), Oct. 22, 1986, 100 Stat. 2108, 2121, applicable to taxable years beginning after Dec. 31, 1986.
 
 #### Amendments
+
+1999—Subsec. (d)(2). Pub. L. 106–170 substituted “2001” for “1998” in introductory provisions.
 
 1998—Subsec. (d)(1). Pub. L. 105–206, §6003(a)(1)(C), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “In the case of a taxpayer with 3 or more qualifying children for any taxable year, the amount of the credit allowed under this section shall be equal to the greater of—
 
@@ -112,7 +114,7 @@ Subsec. (d)(2). Pub. L. 105–277 substituted “For taxable years beginning aft
 
 Pub. L. 105–206, §6003(a)(1)(C), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “For purposes of this subsection, the alternative credit amount is the amount of the credit which would be allowed under this section if the limitation under paragraph (3) were applied in lieu of the limitation under section 26.”
 
-Subsec. (d)(3). Pub. L. 105–206, §6003(a)(1)(A), (B), (2), redesignated par. (5) as (3), substituted “paragraph (1)” for “paragraph (3)” in introductory provisions, and struck out heading and text of former par. (3). Text read as follows: “The limitation under this paragraph for any taxable year is the limitation under section 26 (without regard to this subsection)—
+Subsec. (d)(3). Pub. L. 105–206, §6003(a)(1)(A), (B), (2), redesignated par. (5) as (3), substituted “paragraph (1)” for “paragraph (3)” in introductory provisions, and struck out heading and text of former par. (3). Text read as follows: “The limitation under this paragraphfor any taxable year is the limitation under section 26 (without regard to this subsection)—
 
 &emsp;“(A) increased by the taxpayer's social security taxes for such taxable year, and
 
@@ -125,6 +127,10 @@ Subsec. (d)(3). Pub. L. 105–206, §6003(a)(1)(A), (B), (2), redesignated par. 
 Subsec. (d)(4). Pub. L. 105–206, §6003(a)(1)(A), struck out heading and text of par. (4). Text read as follows: “If the amount of the credit under paragraph (1)(B) exceeds the amount of the credit under paragraph (1)(A), such excess shall be treated as a credit to which subpart C applies. The rule of section 32(h) shall apply to such excess.”
 
 Subsec. (d)(5). Pub. L. 105–206, §6003(a)(1)(B), redesignated par. (5) as (3).
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–170, title V, §501(c), Dec. 17, 1999, 113 Stat. 1919, provided that: “The amendments made by this section \[amending this section and sections 26 and 904 of this title\] shall apply to taxable years beginning after December 31, 1998.”
 
 #### Effective Date of 1998 Amendments
 

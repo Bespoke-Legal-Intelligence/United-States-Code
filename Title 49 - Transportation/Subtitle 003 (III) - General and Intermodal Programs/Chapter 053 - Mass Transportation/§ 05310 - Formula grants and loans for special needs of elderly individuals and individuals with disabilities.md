@@ -18,7 +18,7 @@ General Authority.—The Secretary of Transportation may make grants and loans t
 
 (b)
 
-Apportioning and Transferring Amounts.—The Secretary shall apportion amounts made available under section 5338(a) of this title under a formula the Secretary administers that considers the number of elderly individuals and individuals with disabilities in eachState. Any State's apportionment remaining available for obligation at the beginning of the 90-day period before the end of the period of availability of the apportionment is available to the chief executive officer of the State for transfer to supplement amounts apportioned to the State under section 5311(c) or 5336(a)(1) of this title.
+Apportioning and Transferring Amounts.—The Secretary shall apportion amounts made available under section 5338(a) of this title under a formula the Secretary administers that considers the number of elderly individuals and individuals with disabilities in each State. Any State's apportionment remaining available for obligation at the beginning of the 90-day period before the end of the period of availability of the apportionment is available to the chief executive officer of the State for transfer to supplement amounts apportioned to the State under section 5311(c) or 5336(a)(1) of this title.
 
 (c)
 
@@ -44,7 +44,7 @@ Leasing Vehicles.—The Secretary shall prescribe guidelines allowing vehicles b
 
 (h)
 
-Meal Delivery Service to Homebound Individuals.—Mass transportation service providers receiving assistance under this section or section 5311(c) of this title may coordinate and assist in regularly providing meal delivery service for homebound individuals if the delivery service does not conflict with providing mass transportation service or reduce service to mass transportation passengers.
+Meal Delivery Service to Homebound Individuals.—Mass transportation service providers receiving assistance under this section or section 5311(c) of this title may coordinate andassist in regularly providing meal delivery service for homebound individuals if the delivery service does not conflict with providing mass transportation service or reduce service to mass transportation passengers.
 
 (i)
 

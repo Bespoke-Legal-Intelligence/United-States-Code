@@ -6,7 +6,7 @@ The Secretary may provide grants to at least 3 colleges and universities for the
 
 #### (b) Quentin N. Burdick American Indians Into Psychology Program
 
-The Secretary shall provide one of the grants authorized under subsection (a) of this sectionto develop and maintain a program at the University of North Dakota to be known as the “Quentin N. Burdick American Indians Into Psychology Program”. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick Indian Health Programs authorized under section 1616g(b) of this title, the Quentin N. Burdick American Indians Into Nursing Program authorized under section 1616e(e) of this title, and existing university research and communications networks.
+The Secretary shall provide one of the grants authorized under subsection (a) of this section to develop and maintain a program at the University of North Dakota to be known as the “Quentin N. Burdick American Indians Into Psychology Program”. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick Indian Health Programs authorized under section 1616g(b) of this title, the Quentin N. Burdick American Indians Into Nursing Program authorized under section 1616e(e) of this title, and existing university research and communications networks.
 
 #### (c) Issuance of regulations
 
@@ -18,7 +18,7 @@ The Secretary shall provide one of the grants authorized under subsection (a) of
 
 &emsp;(B) incorporates a program advisory board comprised of representatives from the tribes and communities that will be served by the program;
 
-&emsp;(C) provides summer enrichment programs to expose Indian students to the varied fields of psychology through research, clinical, and experiential activities;
+&emsp;(C) provides summer enrichment programs to expose Indian students to the varied fieldsof psychology through research, clinical, and experiential activities;
 
 &emsp;(D) provides stipends to undergraduate and graduate students to pursue a career in psychology;
 

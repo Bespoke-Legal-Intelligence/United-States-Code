@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### (4) Time for payment of tax
 
-&emsp;For purposes of subtitle F, the time for payment of the tax imposed by subsection (a) shall be the last day of the month following the month in which the employer reversion occurs.
+&emsp;For purposes of subtitle F, the time for payment of the tax imposed by subsection (a) shall be the last day of the month followingthe month in which the employer reversion occurs.
 
 #### (d) Increase in tax for failure to establish replacement plan or increase benefits
 
@@ -182,7 +182,7 @@ For purposes of this section—
 
 #### (B) Pro rata increase
 
-&emsp;&emsp;For purposes of subparagraph (A), a pro rata increase is an increase in the present value of the accrued benefit of each qualified participant in an amount which bears the same ratio to the aggregate amount determined under subparagraph (A)(i) as—
+&emsp;&emsp;For purposes of subparagraph (A), a pro rata increase is an increase in the presentvalue of the accrued benefit of each qualified participant in an amount which bears the same ratio to the aggregate amount determined under subparagraph (A)(i) as—
 
 &emsp;&emsp;&emsp;(i) the present value of such participant's accrued benefit (determined without regard to this subsection), bears to
 
@@ -248,7 +248,7 @@ For purposes of this section—
 
 &emsp;This subsection shall not apply to an employer who, as of the termination date of the qualified plan, is in bankruptcy liquidation under chapter 7 of title 11 of the United States Code or in similar proceedings under State law.
 
-(Added Pub. L. 99–514, title XI, §1132(a), Oct. 22, 1986, 100 Stat. 2478; amended Pub. L. 100–647, title I, §1011A(f)(1)–(3), (6), (7), title V, §5072(a), title VI, §6069(a), Nov. 10, 1988, 102 Stat. 3478, 3479, 3681, 3704; Pub. L. 101–508, title XII, §§12001, 12002(a), Nov. 5, 1990, 104 Stat. 1388–562; Pub. L.104–188, title I, §1704(a), Aug. 20, 1996, 110 Stat. 1878.)
+(Added Pub. L. 99–514, title XI, §1132(a), Oct. 22, 1986, 100 Stat. 2478; amended Pub. L. 100–647, title I, §1011A(f)(1)–(3), (6), (7), title V, §5072(a), title VI, §6069(a), Nov. 10, 1988, 102 Stat. 3478, 3479, 3681, 3704; Pub. L. 101–508, title XII, §§12001, 12002(a), Nov. 5, 1990, 104 Stat. 1388–562; Pub. L. 104–188, title I, §1704(a), Aug. 20, 1996, 110 Stat. 1878.)
 
 #### Amendments
 
@@ -262,7 +262,7 @@ Subsec. (d). Pub. L. 101–508, §12002(a), which directed the addition of subse
 
 Subsec. (c)(1)(A). Pub. L. 100–647, §1011A(f)(1), substituted “subtitle A” for “this subtitle”.
 
-Subsec. (c)(3)(A). Pub. L. 100–647, §1011A(f)(2), inserted “or a tax credit employee stock ownership plan (as described in section 409)” after “section 4975(e)(7)” in introductory text, and “, except to the extent necessary to meet the requirements of section 401(a)(28),” after “must” in cl. (ii).
+Subsec. (c)(3)(A). Pub. L. 100–647, §1011A(f)(2), inserted “or a tax credit employee stock ownership plan (as described in section 409)” after “section 4975(e)(7)” in introductory text, and “, except to the extent necessaryto meet the requirements of section 401(a)(28),” after “must” in cl. (ii).
 
 Subsec. (c)(3)(C). Pub. L. 100–647, §1011A(f)(3), struck out “(by reason of the limitations of section 415)” after “not allocated” in introductory text, and inserted sentence at end relating to minimum amount allocated in year of transfer.
 

@@ -4,7 +4,7 @@
 
 Whoever—
 
-&emsp;(1) for the purpose of causing an increase in any payment authorized to be made under this subchapter, or for the purpose of causing anypayment to be made where no payment is authorized under this subchapter, shall make or cause to be made any false statement or representation (including any false statement or representation in connection with any matter arising under subchapter E of chapter 1, or subchapter A or E of chapter 9 of the Internal Revenue Code of 1939, or chapter 2 or 21 or subtitle F of the Internal Revenue Code of 1954) as to—
+&emsp;(1) for the purpose of causing an increase in any payment authorized to be made under this subchapter, or for the purpose of causing any payment to be made where no payment is authorized under this subchapter, shall make or cause to be made any false statement or representation (including any false statement or representation in connection with any matter arising under subchapter E of chapter 1, or subchapter A or E of chapter 9 of the Internal Revenue Code of 1939, or chapter 2 or 21 or subtitle F of the Internal Revenue Code of 1954) as to—
 
 &emsp;&emsp;(A) whether wages were paid or received for employment (as said terms are defined in this subchapter and the Internal Revenue Code), or the amount of wages or the period during which paid or the person to whom paid; or
 
@@ -92,7 +92,7 @@ Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security�
 
 Subsec. (d)(2)(A). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
 
-1990—Pub. L. 101–508, §5121, inserted “(a)” before “Whoever—”, redesignated former subsecs. (a) to (h) as pars. (1) to (8), respectively, of subsec. (a), in pars. (1) and (7) redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, inserted “(b)” before “Any person or other entity who is convicted”, inserted “(c)” before “Any individual or entity convicted of a felony”, and added subsec. (d).
+1990—Pub. L. 101–508, §5121, inserted “(a)” before “Whoever—”, redesignated former subsecs. (a) to (h) as pars. (1) to (8), respectively, of subsec. (a), in pars. (1) and (7) redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, inserted “(b)” before “Any person or other entity who is convicted”, inserted “(c)”before “Any individual or entity convicted of a felony”, and added subsec. (d).
 
 Pub. L. 101–508, §5130(a)(1), in the last undesignated paragraph substituted “section 405(c)(2) of this title” for “section 605(c)(2) of this title”.
 
@@ -152,5 +152,5 @@ Section 201 of act Aug. 10, 1939, provided that the amendment made by that secti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 405, 1383, 1383a of this title; title 30 section 923.
+This section is referred to in sections 405, 1007, 1320b–6, 1383, 1383a of this title; title 30 section 923.
 

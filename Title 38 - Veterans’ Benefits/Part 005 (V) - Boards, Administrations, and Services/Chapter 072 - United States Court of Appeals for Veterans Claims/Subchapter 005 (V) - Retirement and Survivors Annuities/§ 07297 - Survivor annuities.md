@@ -4,23 +4,31 @@
 
 &emsp;(1) The term “Court” means the United States Court of Appeals for Veterans Claims.
 
-&emsp;(2) The term “judge” means the chief judge or an associate judge of the Court.
+&emsp;(2) The term “judge” means a judge of the Court who is in active service or who has retired under section 7296 of this title.
 
-&emsp;(3) The term “pay” means salary received under section 7253(e) of this title and retired pay received under section 7296(c) of this title.
+&emsp;(3) The term “pay” means salary received under section 7253(e) of this title and retired pay received under section 7296 of this title.
 
 &emsp;(4) The term “retirement fund” means the Court of Appeals for Veterans Claims Retirement Fund established under section 7298 of this title.
 
-&emsp;(5) The term “surviving spouse” means a surviving spouse of an individual who (A) was married to such individual for at least two years immediately preceding the individual's death, or (B) is a parent of issue by the marriage.
+&emsp;(5) The term “surviving spouse” means a surviving spouse of an individual who (A) was married to such individual for at least one year immediately preceding the individual's death, or (B) is a parent of issue by the marriage.
 
 &emsp;(6) The term “dependent child” has the meaning given the term “child” in section 376(a)(5) of title 28.
 
 &emsp;(7) The term “Member of Congress” means a Representative, a Senator, a Delegate to Congress, or the Resident Commissioner of Puerto Rico.
 
-(b) A judge may become a participant in the annuity program under this section by filing a written election under this subsection while in office. Any such election shall be made in such manner as may be prescribed by the Court.
+&emsp;(8) The term “assassination” as applied to a judge shall have the meaning provided that term in section 376(a)(7) of title 28 as applied to a judicial official.
 
-(c) There shall be deducted and withheld each pay period from the pay of a judge who has made an election under subsection (b) of this section a sum equal to 3.5 percent of the judge's pay. Amounts so deducted and withheld shall be deposited in the retirement fund. A judge who makes an election under subsection (b) of this section shall be considered by that election to agree to the deductions from the judge's pay required by this subsection.
+(b) A judge may become a participant in the annuity program under this section by filing a written election under this subsection while in office or within six months after the date on which the judge marries if the judge has retired under section 7296 of this title. Any such election shall be made in such manner as may be prescribed by the Court.
 
-(d) A judge who makes an election under subsection (b) of this section shall deposit, with interest at 3 percent per year compounded on December 31 of each year, to the credit of the retirement fund, an amount equal to 3.5 percent of the judge's pay and of the judge's basic salary, pay, or compensation for service as a Member of Congress, and for any other civilian service within the purview of section 8332 of title 5. Each such judge may elect to make such deposits in installments during the judge's period of service in such amount and under such conditions as may be determined in each instance by the chief judge. Notwithstanding the failure of a judge to make such deposit, credit shall be allowed for the service rendered, but the annual annuity of the surviving spouse of such judge shall be reduced by an amount equal to 10 percent of the amount of such deposit, computed as of the date of the death of such judge, unless the surviving spouse elects to eliminate such service entirely from credit under subsection (k) of this section. However, a deposit shall not be required from a judge for any year with respect to which deductions from the judge's pay, or a deposit, were actually made (and not withdrawn) under the civil service retirement laws.
+(c) There shall be deducted and withheld each pay period from the pay of a judge who has madean election under subsection (b) of this section a sum equal to that percentage of the judge's pay that is the same as provided for the deduction from the salary or retirement salary of a judge of the United States Court of Federal Claims for the purpose of a survivor annuity under section 376(b)(1)(B) of title 28. Amounts so deducted and withheld shall be deposited in the retirement fund. A judge who makes an election under subsection (b) of this section shall be considered by that election to agree to the deductions from the judge's pay required by this subsection.
+
+(d)(1) A judge who makes an election under subsection (b) of this section shall deposit, with interest at 3 percent per year compounded on December 31 of each year, to the credit of the retirement fund, an amount equal to 3.5 percent of the judge's pay and of the judge's basic salary, pay, or compensation for service as a Member of Congress, and for any other civilian service within the purview of section 8332 of title 5. Each such judge may elect to make such deposits in installments during the judge's period of service in such amount and under such conditions as may be determined in each instance by the chief judge. Notwithstanding the failure of a judge to make such deposit, credit shall be allowed for the service rendered, but the annual annuity of the surviving spouse of such judge shall be reduced by an amount equal to 10 percent of the amount of such deposit, computed as of the date of the death of such judge, unless the surviving spouse elects to eliminate such service entirely from credit under subsection (k) of this section. However, a deposit shall not be required from a judge for any year with respect to which deductions from the judge's pay, or a deposit, were actually made (and not withdrawn) under the civil service retirement laws.
+
+(2) The interest required under the first sentence of paragraph (1) shall not be required for any period—
+
+&emsp;(A) during which a judge was separated from any service described in section 376(d)(2) of title 28; and
+
+&emsp;(B) during which the judge was not receiving retired pay based on service as a judge or receiving any retirement salary as described in section 376(d)(1) of title 28.
 
 (e) If the service of a judge who makes an election under subsection (b) of this section terminates other than pursuant to the provisions of section 7296 of this title, or if any judge ceases to be married after making the election under subsection (b) of this section and revokes (in a writing filed as provided in subsection (b) of this section) such election, the amount credited to the judge's individual account (together with interest at 3 percent per year compounded on December 31 of each year to the date of the judge's relinquishment of office) shall be returned to the judge. For the purpose of this section, the service of a judge making an election under subsection (b) of this section shall be considered to have terminated pursuant to section 7296 of this title if—
 
@@ -28,9 +36,9 @@
 
 &emsp;(2) at or before the time of the expiration of that term, the judge is eligible for and elects to receive retired pay under section 7296 of this title.
 
-(f)(1) If a judge who makes an election under subsection (b) of this section dies after having rendered at least 5 years of civilian service (computed as prescribed in subsection (<i>l</i>) of this section), for the last 5 years of which the salary deductions provided for by subsection (c) of this section or the deposits required by subsection (d) of this section have actually been made (and not withdrawn) or the salary deductions required by the civil service retirement laws have actually been made (and not withdrawn)—
+(f)(1) If a judge who makes an election under subsection (b) of this section dies after having rendered at least 18 months of civilian service (computed as prescribed in subsection (<i>l</i>) of this section), for the last 18 months of which the salary deductions provided for by subsection (c) of this section or the deposits required by subsection (d) of this section have actually been made (and not withdrawn) or the salary deductions required by the civil service retirement laws have actually been made (and not withdrawn)—
 
-&emsp;(A) if the judge is survived by a surviving spouse but not by a dependent child, there shall be paid to the surviving spouse an annuity beginning with the day of the death of the judge or following the surviving spouse's attainment of the age of 50 years, whichever is the later, in an amount computed as provided in subsection (k) of this section; or
+&emsp;(A) if the judge is survived by a surviving spouse but not by a dependent child, there shall be paid to the surviving spouse an annuity beginning with the day of the death of the judge, in an amount computed as provided in subsection (k) of this section; or
 
 &emsp;(B) if the judge is survived by a surviving spouse and a dependent child or children, there shall be paid to the surviving spouse an immediate annuity in an amount computed as provided in subsection (k) of this section and there shall also be paid to or on behalf of each such child an immediate annuity equal to the lesser of—
 
@@ -53,6 +61,8 @@
 (3) The annuity payable to a child under this subsection shall be terminated upon the child's death.
 
 (4) In case of the death of a surviving spouse of a judge leaving a dependent child or children of the judge surviving the spouse, the annuity of such child or children under paragraph (1)(B) of this subsection shall be recomputed and paid as provided in paragraph (1)(C) of this subsection. In any case in which the annuity of a dependent child is terminated, the annuities of any remaining dependent child or children, based upon the service of the same judge, shall be recomputed and paid as though the child whose annuity was so terminated had not survived the judge.
+
+(5) If a judge dies as a result of an assassination and leaves a survivor or survivors who are otherwise entitled to receive annuity payments under this section, the 18-month requirement in the matter in paragraph (1) preceding subparagraph (A) shall not apply.
 
 (g) Questions of family relationships, dependency, and disability arising under this section shall be determined in the same manner as such questions arising under chapter 84 of title 5 are determined.
 
@@ -108,7 +118,7 @@
 
 (2) An annuity computed under this subsection may not exceed 50 percent of the judge's average annual pay and may not be less than 25 percent of such average annual pay. Such annuity shall be further reduced in accordance with subsection (d) of this section (if applicable).
 
-(3) For purposes of this subsection, the term “average annual pay”, with respect to a judge, means the average annual pay received by the judge for judicial service (including periods in which the judge received retired pay under section 7296(d) of this title) or for any other prior allowable service during the period of three consecutive years in which the judge received the largest such average annual pay.
+(3) For purposes of this subsection, the term “average annual pay”, with respect to a judge, means the average annual pay received by the judge for judicial service (including periods in which the judge received retired pay under section 7296(d) of this title) or for any other priorallowable service during the period of three consecutive years in which the judge received the largest such average annual pay.
 
 (<i>l</i>) Subject to subsection (d) of this section, the years of service of a judge which are allowable as the basis for calculating the amount of the annuity of the judge's surviving spouse shall include the judge's years of service as a judge of the Court, the judge's years of service as a Member of Congress, the judge's years of active service as a member of the Armed Forces not exceeding 5 years in the aggregate and not including any such service for which credit is allowed for the purposes of retirement or retired pay under any other provision of law, and the judge's years of any other civilian service within the purview of section 8332 of title 5.
 
@@ -118,13 +128,35 @@
 
 (<i>o</i>) Each survivor annuity payable from the retirement fund shall be increased at the same time as, and by the same percentage by which, annuities payable from the Judicial Survivors’ Annuities Fund are increased pursuant to section 376(m) of title 28.
 
-(Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 620, §4097; renumbered §7297 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(e)(6), June 13, 1991, 105 Stat. 287; Pub. L. 102–82, §5(c)(2), Aug. 6, 1991, 105 Stat. 376; Pub. L. 102–198, §7(c)(4)(E), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 105–368, title V, §§503, 512(a)(1), Nov. 11, 1998, 112 Stat. 3340, 3341.)
+(Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 620, §4097; renumbered §7297 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(e)(6), June 13, 1991, 105 Stat. 287; Pub. L. 102–82, §5(c)(2), Aug. 6, 1991, 105 Stat. 376; Pub. L. 102–198, §7(c)(4)(E), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 105–368, title V, §§503, 512(a)(1), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §§1023, 1035(2), Nov. 30, 1999, 113 Stat. 1592, 1595.)
 
 #### References in Text
 
-The civil service retirement laws, referred to in subsecs. (d), (f)(1), and (n), are classified generally to subchapter III (§8331 et seq.) of chapter 83 of Title 5, Government Organization and Employees.
+The civil service retirement laws, referred to in subsecs. (d)(1), (f)(1), and (n), are classified generally to subchapter III (§8331 et seq.) of chapter 83 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1999—Subsec. (a)(2). Pub. L. 106–117, §1035(2), substituted “a judge” for “the chief judge or an associate judge”.
+
+Pub. L. 106–117, §1023(e)(2)(A), inserted “who is in active service or who has retired under section 7296 of this title” after “Court”.
+
+Subsec. (a)(3). Pub. L. 106–117, §1023(e)(2)(B), substituted “7296” for “7296(c)”.
+
+Subsec. (a)(5). Pub. L. 106–117, §1023(a), substituted “one year” for “two years”.
+
+Subsec. (a)(8). Pub. L. 106–117, §1023(e)(2)(C), added par. (8).
+
+Subsec. (b). Pub. L. 106–117, §1023(b), inserted “or within six months after the date on which the judge marries if the judge has retired under section 7296 of this title” before the period at end of first sentence.
+
+Subsec. (c). Pub. L. 106–117, §1023(c), substituted “that percentage of the judge's pay that is the same as provided for the deduction from the salary or retirement salary of a judge of the United States Court of Federal Claims for the purpose of a survivor annuity under section 376(b)(1)(B) of title 28” for “3.5 percent of the judge's pay”.
+
+Subsec. (d). Pub. L. 106–117, §1023(d), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (f)(1). Pub. L. 106–117, §1023(e)(1)(A), in introductory provisions, substituted “at least 18 months” for “at least 5 years” and “last 18 months” for “last 5 years”.
+
+Subsec. (f)(1)(A). Pub. L. 106–117, §1023(f), struck out “or following the surviving spouse's attainment of the age of 50 years, whichever is the later” after “death of the judge”.
+
+Subsec. (f)(5). Pub. L. 106–117, §1023(e)(1)(B), added par. (5).
 
 1998—Subsec. (a)(1), (4). Pub. L. 105–368, §512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
@@ -149,6 +181,10 @@ Pub. L. 102–82 inserted “except section 8440c of title 5” before period at
 Pub. L. 102–40, §402(d)(1), substituted “7296(d)” for “4096(d)”.
 
 Subsec. (<i>o</i>). Pub. L. 102–40, §402(d)(1), substituted “7253(e)” for “4053(e)”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by section 1035(2) of Pub. L. 106–117 effective Nov. 30, 1999, with savings provision for incumbent chief judge, see section 1036 of Pub. L. 106–117, set out as a note under section 7253 of this title.
 
 #### Effective Date of 1998 Amendment
 

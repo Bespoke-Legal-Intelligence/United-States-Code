@@ -32,7 +32,7 @@ The system shall include at a minimum, the following:
 
 &emsp;&emsp;(ii) other schools in need of improvement.
 
-&emsp;(C) Each such team shall be composed of persons, including teachers, pupil services personnel, representatives of organizations knowledgeable about successful schoolwide projects or comprehensive school reform (especially distinguished educators described in paragraph (3)), and other persons who are knowledgeable about research and practice on teaching and learning, particularly about strategies for improving the educational opportunitiesfor low-achieving students (including alternative and applied learning), such as representatives of institutions of higher education, regional educational laboratories or research centers, and outside consultant groups.
+&emsp;(C) Each such team shall be composed of persons, including teachers, pupil services personnel, representatives of organizations knowledgeable about successful schoolwide projects or comprehensive school reform (especially distinguished educators described in paragraph (3)), and other persons who are knowledgeable about research and practice on teaching and learning, particularly about strategies for improving the educational opportunities for low-achieving students (including alternative and applied learning), such as representatives of institutions of higher education, regional educational laboratories or research centers, and outside consultant groups.
 
 &emsp;(D) A school support team shall work cooperatively with each school and make recommendations as the school develops the school's schoolwide program plan or school improvement plan, review each plan, and make recommendations to the school and the local educational agency.
 
@@ -54,7 +54,7 @@ The system shall include at a minimum, the following:
 
 &emsp;(B) Schools designated under this paragraph may serve as models and provide support to other schools, especially schoolwide programs and schools in school improvement, to assist such schools in meeting the State's student performance standards.
 
-&emsp;(C) States shall use funds reserved under section 6303(a) of this title and funds made available under section 6302(f) of this title to allow schools identified under this paragraph to carry out the activities described in subparagraph (B) and may use such funds to provide awards to such schools to further such school's education programs under this part, provide additional incentives for continued success, and reward individuals or groups in the school for exemplary performance.
+&emsp;(C) States shall use funds reserved under section 6303(a) of this title and funds made available under section 6302(f) of this title to allow schools identified under this paragraph tocarry out the activities described in subparagraph (B) and may use such funds to provide awards to such schools to further such school's education programs under this part, provide additional incentives for continued success, and reward individuals or groups in the school for exemplary performance.
 
 &emsp;(D) A local educational agency may also recognize the success of a distinguished school by providing additional institutional and individual rewards, such as greater decisionmaking authority at the school building level, increased access to resources or supplemental services such as summer programs that may be used to sustain or increase success, additional professional development opportunities, opportunities to participate in special projects, and individual financial bonuses.
 

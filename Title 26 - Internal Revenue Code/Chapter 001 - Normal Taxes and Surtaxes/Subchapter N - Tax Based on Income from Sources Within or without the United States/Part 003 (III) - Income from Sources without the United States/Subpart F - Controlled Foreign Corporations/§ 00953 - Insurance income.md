@@ -72,7 +72,7 @@ For purposes of subsection (a)—
 
 #### (B) De minimis exception
 
-&emsp;&emsp;Paragraph (1) shall not apply to any foreign corporation for a taxable year of such corporation if the related person insurance income (determined on a gross basis) of such corporation for such taxable year is less than 20 percent of its insurance income (asso determined) for such taxable year determined without regard to those provisions of subsection (a)(1) which limit insurance income to income from countries other than the country in which the corporation was created or organized.
+&emsp;&emsp;Paragraph (1) shall not apply to any foreign corporation for a taxable year of such corporation if the related person insurance income (determined on a gross basis) of such corporation for such taxable year is less than 20 percent of its insurance income (as so determined) for such taxable year determined without regard to those provisions of subsection (a)(1) which limit insurance income to income from countries other than the country in which the corporation was created or organized.
 
 #### (C) Election to treat income as effectively connected
 
@@ -106,7 +106,7 @@ For purposes of subsection (a)—
 
 #### (E) Disqualified corporation
 
-&emsp;&emsp;For purposes of this paragraph the term “disqualified corporation” means, with respect to any taxable year, any foreign corporation which is a controlled foreign corporation for an uninterrupted period of 30 days or more during such taxable year (determined without regard to this subsection) but only if a United States shareholder (determined without regard to this subsection) owns (within the meaning of section 958(a)) stock in such corporation at some time during such taxable year.
+&emsp;&emsp;For purposes of this paragraph the term “disqualified corporation” means, with respect to any taxable year, any foreign corporation which is a controlled foreign corporation for an uninterrupted period of 30days or more during such taxable year (determined without regard to this subsection) but only if a United States shareholder (determined without regard to this subsection) owns (within the meaning of section 958(a)) stock in such corporation at some time during such taxable year.
 
 #### (4) Treatment of mutual insurance companies
 
@@ -152,7 +152,7 @@ For purposes of subsection (a)—
 
 #### (7) Coordination with section 1248
 
-&emsp;For purposes of section 1248, if any person is (or would be but for paragraph (3)) treated under paragraph (1) as a United States shareholder with respect to any foreign corporationwhich would be taxed under subchapter L if it were a domestic corporation and which is (or would be but for paragraph (3)) treated under paragraph (1) as a controlled foreign corporation—
+&emsp;For purposes of section 1248, if any person is (or would be but for paragraph (3)) treated under paragraph (1) as a United States shareholder with respect to any foreign corporation which would be taxed under subchapter L if it were a domestic corporation and which is (or would be but for paragraph (3)) treated under paragraph (1) as a controlled foreign corporation—
 
 &emsp;&emsp;(A) such person shall be treated as meeting the stock ownership requirements of section 1248(a)(2) with respect to such foreign corporation, and
 
@@ -380,15 +380,17 @@ For purposes of this section—
 
 #### (10) Application
 
-&emsp;This subsection and section 954(i) shall apply only to the first taxable year of a foreign corporation beginning after December 31, 1998, and before January 1, 2000, and to taxable years of United States shareholders with or within which such taxable year of such foreign corporation ends.
+&emsp;This subsection and section 954(i) shall apply only to taxable years of a foreign corporation beginning after December 31, 1998, and before January 1, 2002, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends. If this subsection does not apply to a taxable year of a foreign corporation beginning after December 31, 2001 (and taxable years of United States shareholders ending with or within such taxable year), then, notwithstanding the preceding sentence, subsection (a) shall be applied to such taxable years in the same manner as it would if the taxable year of the foreign corporation began in 1998.
 
 #### (11) Cross reference
 
 &emsp;&emsp;<b>For income exempt from foreign personal holding company income, see section 954(i).</b>
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1008; amended Pub. L. 89–809, title I, §104(m)(2), Nov. 13, 1966, 80 Stat. 1563; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title II, §211(b)(13), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title XII, §1221(b)(1), (2), (3)(D), Oct. 22, 1986, 100 Stat. 2551, 2553; Pub. L. 100–647, title I, §1012(i)(1)–(3)(B), (4), (5), (7)–(9), (21), title VI, §6135(a), Nov. 10, 1988, 102 Stat. 3507–3509, 3511, 3721; Pub. L. 101–239, title VII, §7816(p), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 105–277, div. J, title I, §1005(b)(1), (3), Oct. 21, 1998, 112 Stat. 2681–893, 2681–899.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1008; amended Pub. L. 89–809, title I, §104(m)(2), Nov. 13, 1966, 80 Stat. 1563; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title II, §211(b)(13), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title XII, §1221(b)(1), (2), (3)(D), Oct. 22, 1986, 100 Stat. 2551, 2553; Pub. L. 100–647, title I, §1012(i)(1)–(3)(B), (4), (5), (7)–(9), (21), title VI, §6135(a), Nov. 10, 1988, 102 Stat. 3507–3509, 3511, 3721; Pub. L. 101–239, title VII, §7816(p), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 105–277, div. J, title I, §1005(b)(1), (3), Oct. 21, 1998, 112 Stat. 2681–893, 2681–899; Pub. L. 106–170, title V, §503(a), (b), Dec. 17, 1999, 113 Stat. 1921.)
 
 #### Amendments
+
+1999—Subsec. (e)(10). Pub. L. 106–170 substituted “taxable years” for “the first taxable year”, “January 1, 2002” for “January 1, 2000”, and “within which any such” for “within which such”, and inserted at end “If this subsection does not apply to a taxable year of a foreign corporation beginning after December 31, 2001 (and taxable years of United States shareholders ending with or within such taxable year), then, notwithstanding the preceding sentence, subsection (a) shall be applied to such taxable years in the same manner as it would if the taxable year of the foreign corporation began in 1998.”
 
 1998—Subsec. (a). Pub. L. 105–277, §1005(b)(1)(A), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “For purposes of section 952(a)(1), the term ‘insurance income’ means any income which—
 
@@ -490,6 +492,10 @@ Subsec. (b)(4), (5). Pub. L. 98–369, §211(b)(13)(A), (E), redesignated par. (
 
 1966—Subsec. (b)(3)(F). Pub. L. 89–809 substituted “832(c)(5)” for “832(b)(5)”.
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–170, title V, §503(c), Dec. 17, 1999, 113 Stat. 1921, provided that: “The amendments made by this section \[amending this section and section 954 of this title\] shall apply to taxable years beginning after December 31, 1999.”
+
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
@@ -504,7 +510,7 @@ Section 6135(b) of Pub. L. 100–647 provided that: “The amendment made by sub
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, except as otherwise provided, see section 1221(g) of Pub. L. 99–514, set out as a note under section 954 of this title.
+Amendment by Pub. L. 99–514 applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, except as otherwise provided, see section 1221(g) ofPub. L. 99–514, set out as a note under section 954 of this title.
 
 #### Effective Date of 1984 Amendment
 

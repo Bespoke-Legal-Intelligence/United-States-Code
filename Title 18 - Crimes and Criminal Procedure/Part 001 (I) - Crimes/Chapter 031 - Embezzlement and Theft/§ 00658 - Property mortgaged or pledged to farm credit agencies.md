@@ -1,8 +1,8 @@
 ### §658. Property mortgaged or pledged to farm credit agencies
 
-Whoever, with intent to defraud, knowingly conceals, removes, disposes of, or converts to his own use or to that of another, any property mortgaged or pledged to, or held by, the Farm Credit Administration, any Federal intermediate credit bank, or the Federal Crop Insurance Corporation, the Secretary of Agriculture acting through the Farmers Home Administration, the Rural Development Administration, any production credit association organized under sections 1131–1134m of Title 12, any regional agricultural credit corporation, or any bank for cooperatives, shall be fined under this title or imprisoned not more than five years, or both; but if the value of such property does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, with intent to defraud, knowingly conceals, removes, disposes of, or converts to his own use or to that of another, any property mortgaged or pledged to, or held by, the Farm Credit Administration, any Federal intermediate credit bank, or the Federal Crop Insurance Corporation, the Secretary of Agriculture acting through the Farmers Home Administration or successor agency, the Rural Development Administration or successor agency, any production credit association organized under sections 1131–1134m of Title 12, any regional agricultural credit corporation, or any bank for cooperatives, shall be fined under this title or imprisoned not more than five years, or both; but if the value of such property does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 729; May 24, 1949, ch. 139, §12, 63 Stat. 91; Oct. 31, 1951, ch. 655, §21, 65 Stat. 718; July 26, 1956, ch. 741, title I, §109, 70 Stat. 667; Pub. L. 87–353, §3(r), Oct. 4, 1961, 75 Stat. 774; Pub. L. 101–624, title XXIII, §2303(e), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 103–322, title XXXIII, §§330004(7), 330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2141, 2147; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 729; May 24, 1949, ch. 139, §12, 63 Stat. 91; Oct. 31, 1951, ch. 655, §21, 65 Stat. 718; July 26, 1956, ch. 741, title I, §109, 70 Stat. 667; Pub. L. 87–353, §3(r), Oct. 4, 1961, 75 Stat. 774; Pub. L. 101–624, title XXIII, §2303(e), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 103–322, title XXXIII, §§330004(7), 330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2141, 2147; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 106–78, title VII, §767, Oct. 22, 1999, 113 Stat. 1174.)
 
 #### Historical and Revision Notes
 
@@ -20,7 +20,7 @@ Minor changes were made in phraseology.
 
 #### 1949 Act
 
-\[Section 12\] conforms section 658 of title 18 U.S.C., to administrative practice which in turn was modified to comply with congressional policy. (See note to sec. 11 \[of 1949 Act, set out in Legislative History note under section 657 of title 18\]).
+\[Section 12\] conforms section 658 of title 18 U.S.C., to administrative practice which in turn was modified tocomply with congressional policy. (See note to sec. 11 \[of 1949 Act, set out in Legislative History note under section 657 of title 18\]).
 
 #### References in Text
 
@@ -33,6 +33,8 @@ Sections 1131a–1 and 1131j of Title 12, included within the reference to secti
 Sections 1131b and 1131g–1 of Title 12, included within the reference to sections 1131 to 1134m of Title 12, were repealed by act July 26, 1956, ch. 741, title 1, §105(c), (q), 70 Stat. 665, 666.
 
 #### Amendments
+
+1999—Pub. L. 106–78 inserted “or successor agency” after “Farmers Home Administration” and after “Rural Development Administration”.
 
 1996—Pub. L. 104–294 substituted “$1,000” for “$100”.
 

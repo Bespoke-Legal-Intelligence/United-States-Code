@@ -2,7 +2,7 @@
 
 #### (a) Preparation and maintenance
 
-The Secretary may require any person to prepare and maintain such records or accounts asthe Secretary, by rule, determines necessary to carry out the purposes of this part.
+The Secretary may require any person to prepare and maintain such records or accounts as the Secretary, by rule, determines necessary to carry out the purposes of this part.
 
 #### (b) Audit of operations of storage facility
 

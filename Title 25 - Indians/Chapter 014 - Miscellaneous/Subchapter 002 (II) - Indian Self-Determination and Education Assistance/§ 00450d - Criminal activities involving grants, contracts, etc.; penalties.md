@@ -10,5 +10,5 @@ Act of April 16, 1934, referred to in text, is act Apr. 16, 1934, ch. 147, 48 St
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 458ff, 2508, 3307 of this title; title 29 section 750.
+This section is referred to in sections 458ff, 2508, 3307 of this title; title 29 section 741.
 

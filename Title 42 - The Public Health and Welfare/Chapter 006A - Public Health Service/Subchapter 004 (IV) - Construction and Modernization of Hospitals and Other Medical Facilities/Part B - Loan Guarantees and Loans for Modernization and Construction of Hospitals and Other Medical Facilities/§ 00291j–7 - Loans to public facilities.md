@@ -36,7 +36,7 @@
 
 &emsp;(C) shall provide that, in the event of any default by the public agency to which such loan was made in payment of principal and interest due on such loan, the Secretary shall, upon notification to the purchaser (or to the successor in interest of such purchaser), have the option to close out such loan (and any obligations of the Secretary with respect thereto) by paying to the purchaser (or his successor in interest) the total amount of outstanding principal and interest due thereon at the time of such notification; and
 
-&emsp;(D) shall provide that, in the event such loan is closed out as provided in subparagraph (C), or in the event of any other loss incurred bythe Secretary by reason of the failure of such public agency to make payments of principal and interest on such loan, the Secretary shall be subrogated to all rights of such purchaser for recovery of such loss from such public agency.
+&emsp;(D) shall provide that, in the event such loan is closed out as provided in subparagraph (C), or in the event of any other loss incurred by the Secretary by reason of the failure of such public agency to make payments of principal and interest on such loan, the Secretary shall be subrogated to all rights of such purchaser for recovery of such loss from such public agency.
 
 #### (d) Right of recovery; waiver
 
@@ -62,7 +62,7 @@ There is authorized to be appropriated to the Secretary, for deposit in the loan
 
 #### Commitments for Direct Loans to Public Agencies
 
-Pub. L. 91–667, title II, §200, Jan. 11, 1971, 84 Stat. 2007, provided: “That the Secretary is authorized to issue commitments for direct loans to public agencies in accordance with section 627 of the Public Health Service Act \[this section\] which shall constitute contractual obligations of the United States, the total of such outstanding commitments not to exceed $30,000,000 at any given time; to sell obligations received pursuant to such commitments as provided in section 627, and the proceeds of any such sale shall be used to make a direct loan pursuant to the outstanding commitment under which the obligations were received.”
+Pub. L. 91–667, title II, §200, Jan. 11, 1971, 84 Stat. 2007, provided: “That the Secretary is authorized to issue commitments for direct loans to public agencies in accordance with section 627 of the Public Health Service Act \[this section\] which shall constitute contractual obligations of the United States, the total of such outstanding commitments not to exceed $30,000,000 at any given time; to sell obligations received pursuant to such commitments as provided in section 627, and the proceeds of any such sale shall be used to make a directloan pursuant to the outstanding commitment under which the obligations were received.”
 
 #### Section Referred to in Other Sections
 

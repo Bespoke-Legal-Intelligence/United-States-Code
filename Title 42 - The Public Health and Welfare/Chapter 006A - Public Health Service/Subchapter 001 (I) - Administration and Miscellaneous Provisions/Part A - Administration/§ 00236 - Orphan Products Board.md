@@ -24,7 +24,7 @@ In the case of drugs for rare diseases or conditions the Board shall—
 
 &emsp;(4) assure appropriate coordination among all interested Federal agencies, manufacturers, and organizations representing patients, in their activities relating to such drugs,
 
-&emsp;(5) with the consent of the sponsor of a drug for a rare disease or condition exempt under section 505(i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i)\] or regulations issued under such section, inform physiciansand the public respecting the availability of such drug for such disease or condition and inform physicians and the public respecting the availability of drugs approved under section 505(c) of such Act \[21 U.S.C. 355(c)\] or licensed under section 262 of this title for rare diseases or conditions,
+&emsp;(5) with the consent of the sponsor of a drug for a rare disease or condition exempt under section 505(i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i)\] or regulations issued under such section, inform physicians and the public respecting the availability of such drug for such disease or condition and inform physicians and the public respecting the availability of drugs approved under section 505(c) of such Act \[21 U.S.C. 355(c)\] or licensed under section 262 of this title for rare diseases or conditions,
 
 &emsp;(6) seek business entities and others to undertake the sponsorship of drugs for rare diseases or conditions, seek investigators to facilitate the development of such drugs, and seek business entities to participate in the distribution of such drugs, and
 
@@ -104,7 +104,7 @@ Fiscal year 1993 and subsequent years.—In the case of any program making award
 
 Prior fiscal years.—
 
-&emsp;&emsp;“(A) Except as provided in subparagraph (B), in the case of any program making awards of grants,cooperative agreements, or contracts, if the program began operation prior to the date of the enactment of this Act \[July 10, 1992\] and the program is amended by this Act, awards made prior to October 1, 1992, shall continue to be subject to the terms and conditions upon which such awards were made, notwithstanding the amendments made by this Act.
+&emsp;&emsp;“(A) Except as provided in subparagraph (B), in the case of any program making awards of grants, cooperative agreements, or contracts, if the program began operation prior to the date of the enactment of this Act \[July 10, 1992\] and the program is amended by this Act, awards made prior to October 1, 1992, shall continue to be subject to the terms and conditions upon which such awards were made, notwithstanding the amendments made by this Act.
 
 &emsp;&emsp;“(B) Subparagraph (A) does not apply with respect to the amendments made by this Act to part B of title XIX of the Public Health Service Act \[section 300x et seq. of this title\]. Section 205(a) \[set out as a note under section 300x of this title\] applies with respect to the program established in such part.”
 
@@ -122,7 +122,7 @@ Establishment.—There is established the National Commission on Orphan Diseases
 
 “(b)
 
-Duty.—The Commission shall assess the activities of the National Institutes of Health, the Food and Drug Administration, other public agencies, and private entities in connection with—
+Duty.—The Commission shall assess the activities of the National Institutes of Health, the Food andDrug Administration, other public agencies, and private entities in connection with—
 
 &emsp;“(1) basic research conducted on rare diseases;
 

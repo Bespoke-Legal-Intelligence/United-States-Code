@@ -24,7 +24,7 @@
 
 #### (2) Additional statement
 
-&emsp;In research carried out under subsection (a) of this section, human fetal tissue may be used only if the attending physician with respect to obtaining the tissue from the woman involved makes a statement, made in writing and signed by the physician, declaring that—
+&emsp;In research carried out under subsection (a) of this section, human fetal tissue may beused only if the attending physician with respect to obtaining the tissue from the woman involved makes a statement, made in writing and signed by the physician, declaring that—
 
 &emsp;&emsp;(A) in the case of tissue obtained pursuant to an induced abortion—
 
@@ -106,7 +106,7 @@ Section 113 of Pub. L. 103–43 provided that:
 
 “(a)
 
-In General.—Except as provided in subsection (c), no official of the executive branch may impose a policy that the Department of Health and Human Services is prohibited from conducting or supporting any research on the transplantation of human fetal tissue for therapeutic purposes. Such research shall be carried out in accordance with section 498A of the Public Health Service Act \[this section\] (as added by section 111 of this Act), without regard to any such policy that may have been in effect prior to the date of the enactment of this Act \[June 10, 1993\].
+In General.—Except as provided in subsection (c), no official of the executive branch may impose a policy that the Department of Health and Human Services is prohibited from conducting or supporting any research on the transplantation of human fetal tissue for therapeutic purposes. Such research shall be carried out in accordance with section 498A of the PublicHealth Service Act \[this section\] (as added by section 111 of this Act), without regard to any such policy that may have been in effect prior to the date of the enactment of this Act \[June 10, 1993\].
 
 “(b)
 

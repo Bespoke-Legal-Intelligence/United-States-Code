@@ -18,7 +18,7 @@ The Federal Trade Commission shall have no power or jurisdiction over any matter
 
 #### (d) Jurisdiction of Secretary of Agriculture except for poultry products
 
-The Secretary of Agriculture shall exercise power or jurisdiction over oleomargarine or retail sales of meat, meat food products, or livestock products in unmanufactured form only when he determines, in any investigation of, or any proceeding for the prevention of, an alleged violation of this chapter, that such action is necessary to avoid impairment of his power or jurisdiction over acts or transactions involving livestock, meat, meat food products, livestock products in unmanufactured form, or poultry other than retail sales thereof. In order to avoid unnecessary duplication of effort by the Government and burdens upon the industry, the Secretary shall notify the Federal Trade Commission of such determination, the reasons therefor, and the acts or transactions involved, and shall not exercise power or jurisdiction with respect to acts or transactions involving oleomargarine or retail sales of meat, meat food products, or livestock products in unmanufactured form if the Commission within 10 days from the date of receipt of such notice notifies the Secretary that there is pending in the Commission an investigation of, or proceeding for the prevention of, an alleged violation of any Act administered by the Commission involving the same subject matter.
+The Secretary of Agriculture shall exercise power or jurisdiction over oleomargarine or retail sales of meat, meat food products, or livestock products in unmanufactured form only when he determines, in any investigation of, or any proceeding for the prevention of, an alleged violation of this chapter, that such action is necessary to avoid impairment of his power or jurisdiction over acts or transactions involving livestock, meat, meat food products, livestock products in unmanufactured form, or poultry other than retail sales thereof. In order to avoid unnecessary duplication of effort by the Government and burdens upon the industry, the Secretary shall notify the Federal Trade Commission of such determination, the reasons therefor, and the acts or transactions involved, and shall not exercise power or jurisdiction with respect to acts or transactions involving oleomargarine or retail sales of meat, meat food products, or livestock products in unmanufactured form if the Commission within 10 days from the date ofreceipt of such notice notifies the Secretary that there is pending in the Commission an investigation of, or proceeding for the prevention of, an alleged violation of any Act administered by the Commission involving the same subject matter.
 
 #### (e) Jurisdiction of Secretary of Agriculture regarding poultry products
 
@@ -42,7 +42,7 @@ Subsection (a) of section 406 is classified to section 226 of this title.
 
 Pub. L. 100–173, §7(1)(A)(i), struck out “or poultry products” after “in unmanufactured form,”.
 
-Subsec. (b)(3). Pub. L. 100–173, §7(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Over all transactions in commerce in margarineor oleomargarine and over retail sales of meat, meat food products, livestock products in unmanufactured form, and poultry products.”
+Subsec. (b)(3). Pub. L. 100–173, §7(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Over all transactions in commerce in margarine or oleomargarine and over retail sales of meat, meat food products, livestock products in unmanufactured form, and poultry products.”
 
 Subsec. (d). Pub. L. 100–173, §7(2), amended subsec. (d) generally, striking out reference to poultry products in two places and substituting “10 days” for “ten days”.
 
@@ -80,5 +80,5 @@ Secretary's Authority.—Subsection (a) shall not be construed to limit or other
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 15 sections 45, 1607, 1681s, 1691c, 1692<i>l.</i>
+This section is referred to in title 15 sections 45, 1607, 1681s, 1691c, 1692<i>l</i>, 6505.
 

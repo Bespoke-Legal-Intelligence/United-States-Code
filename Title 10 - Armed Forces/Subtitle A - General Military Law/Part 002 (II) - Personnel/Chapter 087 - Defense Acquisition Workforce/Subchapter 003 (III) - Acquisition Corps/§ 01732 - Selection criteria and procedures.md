@@ -26,7 +26,7 @@ Eligibility Criteria.—Except as provided in subsections (c) and (d), only pers
 
 &emsp;&emsp;&emsp;(i) at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education from among the following disciplines: accounting, business finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management; or
 
-&emsp;&emsp;&emsp;(ii) at least 24 semester credit hours (or the equivalent) from an accredited institution of higher education in the person's career field and 12 semester credit hours (or the equivalent) from such an institution from among the disciplines listed in clause (i) or equivalent training as prescribed by the Secretary to ensure proficiency in the disciplines listed in clause (i).
+&emsp;&emsp;&emsp;(ii) at least 24 semester credit hours (or the equivalent) from an accredited institution of higher education in the person's career field and 12 semester credit hours (or the equivalent) from such an institution from among the disciplines listed in clause\(i) or equivalent training as prescribed by the Secretary to ensure proficiency in the disciplines listed in clause (i).
 
 &emsp;(3) The person must meet experience requirements prescribed by the Secretary of Defense. Such requirements shall, at a minimum, include a requirement for at least four years of experience in an acquisition position in the Department of Defense or in a comparable position in industry or government.
 
@@ -40,7 +40,7 @@ Exceptions.—(1) The requirements of subsections (b)(2)(A) and (b)(2)(B) shall 
 
 (3) Paragraph (1) of subsection (b) shall not apply to an employee who—
 
-&emsp;(A) having previously served in a position within a grade referred to in subparagraph (A) of that paragraph, is currently serving in thesame position within a grade below GS–13 of the General Schedule, or in another position within that grade, by reason of a reduction in force or the closure or realignment of a military installation, or for any other reason other than by reason of an adverse personnel action for cause; and
+&emsp;(A) having previously served in a position within a grade referred to in subparagraph (A) of that paragraph, is currently serving in the same position within a grade below GS–13 of the General Schedule, or in another position within that grade, by reason of a reduction in force or the closure or realignment of a military installation, or for any other reason other than by reason of an adverse personnel action for cause; and
 
 &emsp;(B) except as provided in paragraphs (1) and (2), satisfies the educational, experience, and other requirements prescribed under paragraphs (2), (3), and (4) of that subsection.
 

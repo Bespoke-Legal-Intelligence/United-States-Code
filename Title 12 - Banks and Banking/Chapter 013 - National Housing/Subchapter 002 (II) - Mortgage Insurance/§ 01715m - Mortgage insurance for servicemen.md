@@ -22,7 +22,7 @@ The Secretary may prescribe the manner in which a mortgage may be accepted for i
 
 #### (d) Entitlement of mortgagee to benefits
 
-Any mortgagee under a mortgage insured under this section is entitled to the benefits of the insurance as provided in section 1710(a) of this title with respect to mortgages insured under section 1709 of this title.
+Any mortgagee under a mortgage insured under this section is entitled to the benefits ofthe insurance as provided in section 1710(a) of this title with respect to mortgages insured under section 1709 of this title.
 
 #### (e) Applicability of other provisions
 
@@ -34,7 +34,7 @@ The Secretary is authorized to transfer to this section the insurance on any mor
 
 #### (g) Extension of period of ownership where serviceman dies while on active duty
 
-Where a serviceman dies while on active duty in the armed forces of the United States or in the United States Coast Guard or in the United States National Oceanic and Atmospheric Administration, leaving a surviving widow as owner of the property, the period of ownership by the serviceman (within the meaning of subsection (c) of this section) shall extend for two years beyond the date of the serviceman's death or until the date the widow disposes of the property, whichever date occurs first. The Secretary of Defense or the Secretary of Transportation,or the Secretary of Commerce, as the case may be, shall notify such widow promptly following the serviceman's death of the additional costs to be borne by the mortgagor following termination of the two-year period.
+Where a serviceman dies while on active duty in the armed forces of the United States or in the United States Coast Guard or in the United States National Oceanic and Atmospheric Administration, leaving a surviving widow as owner of the property, the period of ownership by the serviceman (within the meaning of subsection (c) of this section) shall extend for two years beyond the date of the serviceman's death or until the date the widow disposes of the property, whichever date occurs first. The Secretary of Defense or the Secretary of Transportation, or the Secretary of Commerce, as the case may be, shall notify such widow promptly following the serviceman's death of the additional costs to be borne by the mortgagor following termination of the two-year period.
 
 (June 27, 1934, ch. 847, title II, §222, as added Aug. 2, 1954, ch. 649, title I, §124, 68 Stat. 603; amended Pub. L. 85–104, title I, §§103, 112, July 12, 1957, 71 Stat. 296, 297; Pub. L. 86–372, title I, §§111, 116(b), Sept. 23, 1959, 73 Stat. 661, 664; Pub. L. 88–560, title I, §115, Sept. 2, 1964, 78 Stat. 779; Pub. L. 89–117, title II, §212, title XI, §1108(j), Aug. 10, 1965, 79 Stat. 470, 505; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 90–448, title III, §301, Aug. 1, 1968, 82 Stat. 505; Pub. L. 91–152, title I, §§102(c), 105, 113(f), Dec. 24, 1969, 83 Stat. 380, 381, 384; Pub. L. 91–621, §7(b), Dec. 31, 1970, 84 Stat. 1865; Pub. L. 93–383, title III, §§302(d), 310(c), Aug. 22, 1974, 88 Stat. 676, 682; Pub. L. 95–128, title III, §§303(d), 304(c), Oct. 12, 1977, 91 Stat. 1132, 1133; Pub. L. 96–153, title III, §312(c), Dec. 21, 1979, 93 Stat. 1116; Pub. L. 96–399, title III, §336(c), Oct. 8, 1980, 94 Stat. 1654; Pub. L. 100–242, title IV, §406(b)(14), Feb. 5, 1988, 101 Stat. 1901.)
 
@@ -80,7 +80,7 @@ Subsecs. (f), (g). Pub. L. 90–448, §301(2), added subsecs. (f) and (g). A pri
 
 1965—Subsec. (b)(2). Pub. L. 89–117, §212(1), substituted “$30,000” for “$20,000”.
 
-Subsec. (b)(3). Pub. L. 89–117, §212(2), substituted provisions prohibiting the mortgage to have a principal obligation in excess of the sum of (i) 97 per centum of $15,000 of the appraised value of the property as of the date the mortgage is accepted for insurance, (ii) 90 per centum of such value in excess of $15,000 but not in excess of $20,000, and (iii) 85 per centum of such value in excess of $20,000 for provisions which prohibited the mortgage to have a principal obligation in an amount in excess of 95 per centum of the appraised value of the property or such higher amount as may be derived by applying the maximum ratio of loan to value prescribed in section 1709(b)(2) of this title.
+Subsec. (b)(3). Pub. L. 89–117, §212(2), substituted provisions prohibiting the mortgage to have a principal obligation in excess of the sum of (i) 97 per centum of $15,000 of the appraised value of the property as of thedate the mortgage is accepted for insurance, (ii) 90 per centum of such value in excess of $15,000 but not in excess of $20,000, and (iii) 85 per centum of such value in excess of $20,000 for provisions which prohibited the mortgage to have a principal obligation in an amount in excess of 95 per centum of the appraised value of the property or such higher amount as may be derived by applying the maximum ratio of loan to value prescribed in section 1709(b)(2) of this title.
 
 Subsec. (e). Pub. L. 89–117, §1108(j)(1), substituted “General Insurance Fund” for “Servicemen's Mortgage Insurance Fund”.
 

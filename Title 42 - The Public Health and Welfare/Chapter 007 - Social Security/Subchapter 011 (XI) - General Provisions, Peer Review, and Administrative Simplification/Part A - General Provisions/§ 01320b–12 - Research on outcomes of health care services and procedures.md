@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Administrator for Health Care Policy and Research, shall—
+&emsp;The Secretary, acting through the Director of the Agency for Healthcare Research and Quality, shall—
 
 &emsp;&emsp;(A) conduct and support research with respect to the outcomes, effectiveness, and appropriateness of health care services and procedures in order to identify the manner in which diseases, disorders, and other health conditions can most effectively and appropriately be prevented, diagnosed, treated, and managed clinically; and
 
-&emsp;&emsp;(B) assure that the needs and priorities of the program under subchapter XVIII of this chapter are appropriately reflected in the development and periodic review and updating (through the process set forth in section 299b–2 of this title) of treatment-specific or condition-specific practice guidelines for clinical treatments and conditions in forms appropriate for use in clinical practice, for use in educational programs, and for use in reviewing quality and appropriateness of medical care.
+&emsp;&emsp;(B) assure that the needs and priorities of the program under subchapter XVIII of this chapter are appropriately reflected in the development and periodic review and updating (through the process set forth in section 299b–2 <sup>1</sup> of this title) of treatment-specific or condition-specific practice guidelines for clinical treatments and conditions in forms appropriate for use in clinical practice, for use in educational programs, and for use in reviewing quality and appropriateness of medical care.
 
 #### (2) Evaluations of alternative services and procedures
 
@@ -16,7 +16,7 @@
 
 #### (3) Initial guidelines
 
-&emsp;(A) In carrying out paragraph (1)(B) of this subsection, and section 299b–1(d) of this title,the Secretary shall, by not later than January 1, 1991, assure the development of an initial set of the guidelines specified in paragraph (1)(B) that shall include not less than 3 clinical treatments or conditions that—
+&emsp;(A) In carrying out paragraph (1)(B) of this subsection, and section 299b–1(d) <sup>1</sup> of this title, the Secretary shall, by not later than January 1, 1991, assure the development of an initial set of the guidelines specified in paragraph (1)(B) that shall include not less than 3 clinical treatments or conditions that—
 
 &emsp;&emsp;(i)(I) account for a significant portion of expenditures under subchapter XVIII of this chapter; and
 
@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(ii) otherwise meet the needs and priorities of the program under subchapter XVIII of this chapter, as set forth under subsection (b)(3) of this section.
 
-&emsp;(B)(i) The Secretary shall provide for the use of guidelines developed under subparagrah <sup>1</sup> (A) to improve the quality, effectiveness, and appropriateness of care provided under subchapter XVIII of this chapter. The Secretary shall determine the impact of such use on the quality, appropriateness, effectiveness, and cost of medical care provided under such subchapter and shall report to the Congress on such determination by not later than January 1, 1993.
+&emsp;(B)(i) The Secretary shall provide for the use of guidelines developed under subparagrah <sup>2</sup> (A) to improve the quality, effectiveness, and appropriateness of care provided under subchapter XVIII of this chapter. The Secretary shall determine the impact of such use on the quality, appropriateness, effectiveness, and cost of medical care provided under such subchapter and shall report to the Congress on such determination by not later than January 1, 1993.
 
 &emsp;(ii) For the purpose of carrying out clause (i), the Secretary shall expend, from the amounts specified in clause (iii), $1,000,000 for fiscal year 1990 and $1,500,000 for each of the fiscal years 1991 and 1992.
 
@@ -60,7 +60,7 @@
 
 #### (3) Relationship with medicare program
 
-&emsp;In establishing priorities under paragraph (1) for research and evaluation, and under section 299b–3(a) of this title for the agenda under such section, the Secretary shall assure that such priorities appropriately reflect the needs and priorities of the program under subchapter XVIII of this chapter, as set forth by the Administrator of the Health Care Financing Administration.
+&emsp;In establishing priorities under paragraph (1) for research and evaluation, and under section 299b–3(a) <sup>1</sup> of this title for the agenda under such section, the Secretary shall assure that such priorities appropriately reflect the needs and priorities of the program under subchapter XVIII of this chapter, as set forth by the Administrator of the Health Care Financing Administration.
 
 #### (c) Methodologies and criteria for evaluations
 
@@ -136,7 +136,7 @@ Not later than February 1 of each of the years 1991 and 1992, and of each second
 
 #### (3) Allocations
 
-&emsp;(A) For each fiscal year, of the amounts transferred or otherwise appropriated to carry out this section, the Secretary shall reserve appropriate amounts for each of the purposes specified in clauses (i) through (iv) of subparagraph (B).
+&emsp;(A) For each fiscal year, of the amounts transferred or otherwise appropriated to carryout this section, the Secretary shall reserve appropriate amounts for each of the purposes specified in clauses (i) through (iv) of subparagraph (B).
 
 &emsp;(B) The purposes referred to in subparagraph (A) are—
 
@@ -148,11 +148,31 @@ Not later than February 1 of each of the years 1991 and 1992, and of each second
 
 &emsp;&emsp;(iv) education and information dissemination.
 
-(Aug. 14, 1935, ch. 531, title XI, §1142, as added Pub. L. 101–239, title VI, §6103(b)(1), Dec. 19, 1989, 103 Stat. 2195.)
+(Aug. 14, 1935, ch. 531, title XI, §1142, as added Pub. L. 101–239, title VI, §6103(b)(1), Dec. 19, 1989, 103 Stat. 2195; amended Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670.)
+
+#### References in Text
+
+Sections 299b–1 to 299b–3 of this title, referred to in subsecs. (a) and (b), were in the original references to sections 912 to 914 of act July 1, 1944, which were omitted in the general amendment of subchapter VII of chapter 6A of this title by Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1653. Section 2(a) of Pub. L. 106–129 enacted new sections 912 to 914 of act July 1, 1944, which are classified to sections 299b–1 to 299b–3, respectively, of this title.
 
 #### Codification
 
 Another section 1142 of act Aug. 14, 1935, was renumbered section 1143 by Pub. L. 101–508, title V, §5111(a)(1), Nov. 5, 1990, 104 Stat. 1388–272, and is classified to section 1320b–13 of this title.
+
+#### Amendments
+
+1999—Subsec. (a)(1). Pub. L. 106–129 substituted “Director of the Agency for Healthcare Research and Quality” for “Administrator for Health Care Policy and Research” in introductory provisions.
+
+#### AHCPR Study on Effect of Credentialing of Technologists and Sonographers on Quality of Ultrasound
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §229(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–357, provided that:
+
+“(1)
+
+Study.—The Administrator for Health Care Policy and Research shall provide for a study that, with respect to the provision of ultrasound under the medicare and medicaid programs under titles XVIII and XIX of the Social Security Act \[subchapters XVIII and XIX of this chapter\], compares differences in quality between ultrasound furnished by individuals who are credentialed by private entities or organizations and ultrasound furnished by those who are not so credentialed. Such study shall examine and evaluate differences in error rates, resulting complications, and patient outcomes as a result of the differences in credentialing. In designing the study, the Administrator shall consult with organizations nationally recognized for their expertise in ultrasound.
+
+“(2)
+
+Report.—Not later than two years after the date of the enactment of this Act \[Nov. 29, 1999\], the Administrator shall submit a report to Congress on the study conducted under paragraph (1).”
 
 #### Report on Linkage of Public and Private Research Related Data
 
@@ -160,7 +180,9 @@ Section 6103(b)(2) of Pub. L. 101–239 provided that: “Not later than 1 year 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 299a, 299b–1, 299b–3, 299c, 1395y of this title.
+This section is referred to in sections 299a, 299c, 299c–2, 1395y of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “subparagraph”.</i>
 

@@ -153,6 +153,10 @@
 | (d) | Determination of fair market value. |
 | (e) | Navigational servitude. |
 | (f) | Survey and study. |
+| [59ii.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059ii%20-%20Declaration%20of%20nonnavigability%20of%20a%20portion%20of%20the%20canal%20known%20as%20the%20James%20River%20and%20Kanawha%20Canal%20in%20Richmond%2C%20Virginia.md) | Declaration of nonnavigability of a portion of the canal known as the James River and Kanawha Canal in Richmond, Virginia. |
+| (a) | Canal declared nonnavigable. |
+| (b) | Ensuring public safety. |
+| (c) | Termination of declaration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

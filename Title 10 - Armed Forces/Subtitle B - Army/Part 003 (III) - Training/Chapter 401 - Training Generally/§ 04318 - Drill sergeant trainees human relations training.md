@@ -12,7 +12,7 @@ Resources.—In developing a human relations course under this section, the Secr
 
 #### Effective Date
 
-Section 557(b) of Pub. L. 105–85 provided that: “Section 4318 of title 10, United States Code, as added by subsection (a), shall apply with respect \[to\] drill sergeant trainee classes that begin after the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 18, 1997\].”
+Section 557(b) of Pub. L. 105–85, as amended by Pub. L. 106–65, div. A, title X, §1066(c)(1), Oct. 5, 1999, 113 Stat. 773, provided that: “Section 4318 of title 10, United States Code, as added by subsection (a), shall apply with respect to drill sergeant trainee classes that begin after the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 18, 1997\].”
 
 #### Reform of Army Drill Sergeant Selection and Training Process
 

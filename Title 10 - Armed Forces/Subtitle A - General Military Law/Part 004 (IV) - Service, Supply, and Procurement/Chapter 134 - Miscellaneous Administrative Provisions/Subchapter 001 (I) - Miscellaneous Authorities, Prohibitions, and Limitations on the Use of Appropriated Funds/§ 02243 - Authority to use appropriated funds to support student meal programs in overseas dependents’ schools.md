@@ -6,7 +6,7 @@ Authority.—Subject to subsection (b), amounts appropriated to the Department o
 
 (b)
 
-Limitation.—The authority provided by subsection (a) may be used only if the Secretary of Defense determines that Federal payments and commodities provided under section 20 of the National School Lunch Act (42 U.S.C. 1769b) and section 20 of the Child Nutrition Act of 1966 (42 U.S.C. 1789) to support an overseas meal program are insufficient to provide meals under that program at a price for students equal to the average price paid by students for equivalent meals under a comparable public school meal program in the United States.
+Limitation.—The authority provided by subsection (a) may be used only if the Secretary of Defense determines that Federal payments and commodities provided under section 20 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769b) and section 20 of the Child Nutrition Act of 1966 (42 U.S.C. 1789) to support an overseas meal program are insufficient to provide meals under that program at a price for students equal to the average price paid by students for equivalent meals under a comparable public school meal program in the United States.
 
 (c)
 
@@ -16,5 +16,9 @@ Determining Average Price.—In determining the average price paid by students i
 
 Overseas Meal Program Defined.—In this section, the term “overseas meal program” means a program administered by the Secretary of Defense to provide breakfasts or lunches to students attending Department of Defense dependents’ schools which are located outside the United States.
 
-(Added Pub. L. 101–189, div. A, title III, §326(a), Nov. 29, 1989, 103 Stat. 1415.)
+(Added Pub. L. 101–189, div. A, title III, §326(a), Nov. 29, 1989, 103 Stat. 1415; amended Pub. L. 106–78, title VII, §752(b)(7), Oct. 22, 1999, 113 Stat. 1169.)
+
+#### Amendments
+
+1999—Subsec. (b). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 

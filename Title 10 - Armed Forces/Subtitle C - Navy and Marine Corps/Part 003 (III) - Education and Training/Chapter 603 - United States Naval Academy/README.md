@@ -3,6 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [6951\.](%C2%A7%2006951%20-%20Location.md) | Location. |
+| [6951a.](%C2%A7%2006951a%20-%20Superintendent.md) | Superintendent. |
 | [6952\.](%C2%A7%2006952%20-%20Civilian%20teachers%20number%3B%20compensation.md) | Civilian teachers: number; compensation. |
 | [6953\.](%C2%A7%2006953%20-%20Midshipmen%20appointment.md) | Midshipmen: appointment. |
 | [6954\.](%C2%A7%2006954%20-%20Midshipmen%20number.md) | Midshipmen: number. |
@@ -27,13 +28,15 @@
 | [6972\.](%C2%A7%2006972%20-%20Chapel%20crypt%20and%20window%20spaces.md) | Chapel: crypt and window spaces. |
 | [6973\.](%C2%A7%2006973%20-%20Gifts%20and%20bequests%20acceptance%20for%20benefit%20of%20Naval%20Academy.md) | Gifts and bequests: acceptance for benefit of Naval Academy. |
 | [6974\.](%C2%A7%2006974%20-%20Gifts%20and%20bequests%20acceptance%20for%20benefit%20of%20museum.md) | Gifts and bequests: acceptance for benefit of museum. |
-| \[6975. | Repealed.\] |
+| [6975\.](%C2%A7%2006975%20-%20Acceptance%20of%20guarantees%20with%20gifts%20for%20major%20projects.md) | Acceptance of guarantees with gifts for major projects. |
 | [6976\.](%C2%A7%2006976%20-%20Operation%20of%20Naval%20Academy%20dairy%20farm.md) | Operation of Naval Academy dairy farm. |
 | [6977\.](%C2%A7%2006977%20-%20Grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes%20acceptance%3B%20authorized%20grantees.md) | Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title V, §532(a)(4)(D), div. B, title XXVIII, §2871(b)(2), Oct. 5, 1999, 113 Stat. 604, 875, added items 6951a and 6975.
 
 1998—Pub. L. 105–261, div. A, title X, §1063(b)(2), Oct. 17, 1998, 112 Stat. 2131, added item 6977.
 
@@ -55,6 +58,7 @@ This chapter is referred to in title 37 section 209.
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 06951 - Location](%C2%A7%2006951%20-%20Location.md)
+- [&sect; 06951a - Superintendent](%C2%A7%2006951a%20-%20Superintendent.md)
 - [&sect; 06952 - Civilian teachers number; compensation](%C2%A7%2006952%20-%20Civilian%20teachers%20number%3B%20compensation.md)
 - [&sect; 06953 - Midshipmen appointment](%C2%A7%2006953%20-%20Midshipmen%20appointment.md)
 - [&sect; 06954 - Midshipmen number](%C2%A7%2006954%20-%20Midshipmen%20number.md)
@@ -79,6 +83,6 @@ This chapter is referred to in title 37 section 209.
 - [&sect; 06972 - Chapel crypt and window spaces](%C2%A7%2006972%20-%20Chapel%20crypt%20and%20window%20spaces.md)
 - [&sect; 06973 - Gifts and bequests acceptance for benefit of Naval Academy](%C2%A7%2006973%20-%20Gifts%20and%20bequests%20acceptance%20for%20benefit%20of%20Naval%20Academy.md)
 - [&sect; 06974 - Gifts and bequests acceptance for benefit of museum](%C2%A7%2006974%20-%20Gifts%20and%20bequests%20acceptance%20for%20benefit%20of%20museum.md)
-- [&sect; 06975 - Repealed. Pub. L. 104&#8211;106, div. A, title V, &sect;533(b), Feb. 10, 1996, 110 Stat. 315; Pub. L. 105&#8211;85, div. A, title X, &sect;1073(d)(1)(C)&#8230;](%C2%A7%2006975%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7533%28b%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20315%3B%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71073%28d%29%281%29%28C%29%E2%80%A6.md)
+- [&sect; 06975 - Acceptance of guarantees with gifts for major projects](%C2%A7%2006975%20-%20Acceptance%20of%20guarantees%20with%20gifts%20for%20major%20projects.md)
 - [&sect; 06976 - Operation of Naval Academy dairy farm](%C2%A7%2006976%20-%20Operation%20of%20Naval%20Academy%20dairy%20farm.md)
 - [&sect; 06977 - Grants for faculty research for scientific, literary, and educational purposes acceptance; authorized grantees](%C2%A7%2006977%20-%20Grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes%20acceptance%3B%20authorized%20grantees.md)

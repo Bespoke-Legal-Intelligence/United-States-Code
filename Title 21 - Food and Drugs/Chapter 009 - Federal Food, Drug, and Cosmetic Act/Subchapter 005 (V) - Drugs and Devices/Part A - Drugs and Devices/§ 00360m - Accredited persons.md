@@ -130,7 +130,7 @@ Evaluation of program.—Not later than 6 months prior to the date on which, pur
 
 “(2)
 
-Inclusion of certain devices within program.—Not later than 3 years after the date of the enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report providing a determination by the Secretary of whether, in the program of accreditation established pursuant to the amendment made by subsection (a), the limitation established in clause (iii) of section 523(a)(3)(A) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360m(a)(3)(A)\] (relating to class II devices for which clinical data are required in reports under section 510(k) \[21 U.S.C. 360(k)\]) should be removed.”
+Inclusion of certain devices within program.—Not later than 3 years after the date of the enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report providing a determination by the Secretary of whether, in the program of accreditation established pursuant to the amendment made by subsection (a), the limitation established in clause (iii) of section 523(a)(3)(A) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360m(a)(3)(A)\] (relating to class IIdevices for which clinical data are required in reports under section 510(k) \[21 U.S.C. 360(k)\]) should be removed.”
 
 #### Section Referred to in Other Sections
 

@@ -44,7 +44,7 @@ The Commission shall have power—
 
 #### (h) Cooperation with other departments and agencies in performance of educational or promotional activities; outreach activities
 
-(1) The Commission shall, in any of its educational or promotional activities, cooperate with other departments and agencies in the performance of such educational and promotional activities.
+(1) The Commission shall, in any of its educational or promotional activities, cooperatewith other departments and agencies in the performance of such educational and promotional activities.
 
 (2) In exercising its powers under this subchapter, the Commission shall carry out educational and outreach activities (including dissemination of information in languages other than English) targeted to—
 
@@ -86,7 +86,7 @@ All officers, agents, attorneys, and employees of the Commission shall be subjec
 
 &emsp;(ii) the cost to the Commission to provide such education, technical assistance, or training to such persons and entities, and
 
-&emsp;(iii) the amount of any fees received by the Commission from such persons and entities forsuch education, technical assistance, or training.
+&emsp;(iii) the amount of any fees received by the Commission from such persons and entities for such education, technical assistance, or training.
 
 (3) The Secretary of the Treasury shall invest the portion of the Fund not required to satisfy current expenditures from the Fund, as determined by the Commission, in obligations of the United States or obligations guaranteed as to principal by the United States. Investment proceeds shall be deposited in the Fund.
 
@@ -170,7 +170,7 @@ All Federal employment of handicapped individuals enforcement functions and rela
 
 #### Sec. 5. Transfer of Public Sector 707 Functions
 
-Any function of the Equal Employment Opportunity Commission concerning initiation of litigation with respect to State or local government, or political subdivisions under Section 707 of Title VII of the Civil Rights Act of 1964, as amended, (42 U.S.C. 2000e–6) and all necessary functions related thereto, including investigation, findings, notice and an opportunity to resolve the matter without contested litigation, are hereby transferred to the Attorney General, to be exercised by him in accordance with procedures consistent with said Title VII. The Attorney General is authorized to delegate any function under Section 707 of said Title VII to any officer or employee of the Department of Justice.
+Any function of the Equal Employment Opportunity Commission concerning initiation of litigation with respect to State or local government, or political subdivisions under Section 707 of Title VII of the Civil Rights Act of 1964, as amended, (42 U.S.C. 2000e–6) and all necessary functions related thereto, including investigation, findings, notice and an opportunity to resolve the matter without contested litigation, are hereby transferred to the Attorney General, to be exercised by himin accordance with procedures consistent with said Title VII. The Attorney General is authorized to delegate any function under Section 707 of said Title VII to any officer or employee of the Department of Justice.
 
 #### Sec. 6. Transfer of Functions and Abolition of the Equal Employment Opportunity Coordinating Council
 
@@ -202,7 +202,7 @@ To the Congress of the United States:
 
 I am submitting to you today Reorganization Plan No. 1 of 1978. This Plan makes the Equal Employment Opportunity Commission the principal Federal agency in fair employment enforcement. Together with actions I shall take by Executive Order, it consolidates Federal equal employment opportunity activities and lays, for the first time, the foundation of a unified, coherent Federal structure to combat job discrimination in all its forms.
 
-In 1940 President Roosevelt issued the first Executive Order forbidding discrimination in employment by the Federal government. Since that time the Congress, the courts and the Executive Branch—spurred by the courage and sacrifice of many people and organizations—have taken historic steps to extend equal employment opportunity protection throughout the private as well as public sector. But each new prohibition against discrimination unfortunately has brought with it a further dispersal of Federal equal employment opportunity responsibility. This fragmentation of authorityamong a number of Federal agencies has meant confusion and ineffective enforcement for employees, regulatory duplication and needless expense for employers.
+In 1940 President Roosevelt issued the first Executive Order forbidding discrimination in employment by the Federal government. Since that time the Congress, the courts and the Executive Branch—spurred by the courage and sacrifice of many people and organizations—have taken historic steps to extend equal employment opportunity protection throughout the private as well as public sector. But each new prohibition against discrimination unfortunately has brought with it a further dispersal of Federal equal employment opportunity responsibility. This fragmentation of authority among a number of Federal agencies has meant confusion and ineffective enforcement for employees, regulatory duplication and needless expense for employers.
 
 Fair employment is too vital for haphazard enforcement. My Administration will aggressively enforce our civil rights laws. Although discrimination in any area has severe consequences, limiting economic opportunity affects access to education, housing and health care. I, therefore, ask you to join with me to reorganize administration of the civil rights laws and to begin that effort by reorganizing the enforcement of those laws which ensure an equal opportunity to a job.
 
@@ -260,7 +260,7 @@ By abolishing the Equal Employment Opportunity Coordinating Council and transfer
 
 It should be stressed, however, that affected agencies will be consulted before EEOC takes any action. When the Plan has been approved, I intend to issue an Executive Order which will provide for consultation, as well as a procedure for reviewing major disputed issues within the Executive Office of the President. The Attorney General's responsibility to advise the Executive Branch on legal issues will also be preserved.
 
-Transfer of the Civil Service Commission's equal employment opportunity responsibilities to EEOC is needed to ensure that: (1) Federal employees have the same rights and remedies as those in the private sector and in State and local government; (2) Federal agenciesmeet the same standards as are required of other employers; and (3) potential conflicts between an agency's equal employment opportunity and personnel management functions are minimized. The Federal government must not fall below the standard of performance it expects of private employers.
+Transfer of the Civil Service Commission's equal employment opportunity responsibilities to EEOC is needed to ensure that: (1) Federal employees have the same rights and remedies as those in the private sector and in State and local government; (2) Federal agencies meet the same standards as are required of other employers; and (3) potential conflicts between an agency's equal employment opportunity and personnel management functions are minimized. The Federal government must not fall below the standard of performance it expects of private employers.
 
 The Civil Service Commission has in the past been lethargic in enforcing fair employment requirements within the Federal government. While the Chairman and other Commissioners I have appointed have already demonstrated their personal commitment to expanding equal employment opportunity, responsibility for ensuring fair employment for Federal employees should rest ultimately with the EEOC.
 
@@ -346,7 +346,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12144, June 22, 1979, 44 F.R. 37193, provided:
 
-By the authority vested in me as President of the United States of America by the Constitution and laws of the United States, including Section 9 of Reorganization Plan No. 1 of 1978 (43 FR 19807) \[set out above\], in order to effectuate the transfer of certain functions relating to the enforcement of equal pay and age discrimination in employment programs from the Department of Labor to the Equal Employment Opportunity Commission, it is hereby ordered as follows:
+By the authority vested in me as President of the United States of America by the Constitution and lawsof the United States, including Section 9 of Reorganization Plan No. 1 of 1978 (43 FR 19807) \[set out above\], in order to effectuate the transfer of certain functions relating to the enforcement of equal pay and age discrimination in employment programs from the Department of Labor to the Equal Employment Opportunity Commission, it is hereby ordered as follows:
 
 1–101. Sections 1 and 2 of Reorganization Plan No. 1 of 1978 (43 FR 19807) \[set out as a note above\] shall become effective on July 1, 1979, with the exception of the transfer of functions from the Civil Service Commission, already effective January 1, 1979 (Executive Order No. 12106 \[set out above\]).
 

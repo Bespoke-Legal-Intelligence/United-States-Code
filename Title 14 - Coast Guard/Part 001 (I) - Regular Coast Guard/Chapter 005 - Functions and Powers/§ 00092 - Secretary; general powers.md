@@ -120,7 +120,7 @@ In general.—Subject to paragraph (2) of this subsection, the Secretary may aut
 
 Authorized pay.—(A) Retired members employed under paragraph (1) of this subsection are entitled to receive their retired or retainer pay and an additional amount of not more than the difference between—
 
-&emsp;&emsp;“(i) the amount the individual would be paid as pay and allowance if they were considered to have been ordered to active duty during that period of employment; and
+&emsp;&emsp;“(i) the amount the individual would be paid as pay and allowance if they were considered to havebeen ordered to active duty during that period of employment; and
 
 &emsp;&emsp;“(ii) the amount of retired pay the individual is entitled to receive during that period.
 

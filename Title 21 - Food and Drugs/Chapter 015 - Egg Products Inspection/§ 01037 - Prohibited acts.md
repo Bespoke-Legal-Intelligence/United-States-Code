@@ -12,9 +12,11 @@
 
 (4) No operator of any official plant shall allow any egg products to be moved from such plant if they are adulterated or misbranded and capable of use as human food.
 
-(c) No person shall violate any provision of section 1039, 1040 or 1046 of this title.
+(c) No egg handler shall possess any eggs after the eggs have been packed into a container that is destined for the ultimate consumer unless the eggs are stored and transported under refrigeration at an ambient temperature of no greater than 45 degrees Fahrenheit, as prescribed by rules and regulations promulgated by the Secretary.
 
-(d) No person shall—
+(d) No person shall violate any provision of section 1039, 1040 or 1046 of this title.
+
+(e) No person shall—
 
 &emsp;(1) manufacture, cast, print, lithograph, or otherwise make any device containing any official mark or simulation thereof, or any label bearing any such mark or simulation, or any form of official certificate or simulation thereof, except as authorized by the Secretary;
 
@@ -32,19 +34,17 @@
 
 &emsp;(8) refuse access, at any reasonable time, to any representative of the Secretary of Agriculture or the Secretary of Health and Human Services, to any plant or other place of business subject to inspection under any provisions of this chapter.
 
-(e) No person, while an official or employee of the United States Government or any State or local governmental agency, or thereafter, shall use to his own advantage, or reveal other than to the authorized representatives of the United States Government or any State or other government in their official capacity, or as ordered by a court in a judicial proceeding, any information acquired under the authority of this chapter concerning any matter which is entitled to protection as a trade secret.
+(f) No person, while an official or employee of the United States Government or any State or local governmental agency, or thereafter, shall use to his own advantage, or reveal other than to the authorized representatives of the United States Government or any State or other government in their official capacity, or as ordered by a court in a judicial proceeding, any information acquired under the authority of this chapter concerning any matter which is entitled to protection as a trade secret.
 
 (Pub. L. 91–597, §8, Dec. 29, 1970, 84 Stat. 1626; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–237, title X, §1012(c), Dec. 13, 1991, 105 Stat. 1899.)
 
-#### Amendment of Section
+#### Amendments
 
-<i>Pub. L. 102–237, title X, §1012(c), (h), Dec. 13, 1991, 105 Stat. 1899, 1901, provided that, effective 12 months after promulgation of final implementing regulations, this section is amended by redesignating subsections (c) through (e) of this section as (d) through (f), respectively, and by inserting after subsection (b) of this section the following new subsection:</i>
-
-(c) No egg handler shall possess any eggs after the eggs have been packed into a container that is destined for the ultimate consumer unless the eggs are stored and transported under refrigeration at an ambient temperature of no greater than 45 degrees Fahrenheit, as prescribed by rules and regulations promulgated by the Secretary.
+1991—Subsecs. (c) to (f). Pub. L. 102–237 added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (d)(8) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (e)(8) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1991 Amendment
 

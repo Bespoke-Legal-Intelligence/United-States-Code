@@ -68,7 +68,7 @@ The voluntary consent form used to enroll in the program shall—
 
 #### (1) Notification to lessees
 
-&emsp;Any person who is in the business of renting or leasing motor vehicles and who rents or leases a motor vehicle on which a programdecal or device is affixed shall, prior to transferring possession of the vehicle, notify the person to whom the motor vehicle is rented or leased about the program.
+&emsp;Any person who is in the business of renting or leasing motor vehicles and who rents or leases a motor vehicle on which a program decal or device is affixed shall, prior to transferring possession of the vehicle, notify the person to whom the motor vehicle is rented or leased about the program.
 
 #### (2) Type of notice
 

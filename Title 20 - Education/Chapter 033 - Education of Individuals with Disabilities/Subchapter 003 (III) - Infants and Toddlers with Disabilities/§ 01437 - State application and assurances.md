@@ -72,7 +72,7 @@ The application described in subsection (a) of this section—
 
 #### (c) Standard for disapproval of application
 
-The Secretary may not disapprove such an application unless the Secretary determines, after notice and opportunity for a hearing, that the application fails to comply with the requirements of this section.
+The Secretary may not disapprove such an application unless the Secretary determines, afternotice and opportunity for a hearing, that the application fails to comply with the requirements of this section.
 
 #### (d) Subsequent State application
 

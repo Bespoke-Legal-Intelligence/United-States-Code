@@ -86,7 +86,7 @@ Grant funds awarded under this section may be used for the following purposes:
 
 #### (3) Report to Congress
 
-&emsp;Not later than 180 days after the end of the fiscal year for which grants are awarded under this section, the Attorney General shall submit to the committees of the House of Representatives and the Senate responsible for issues relating to higher education and crime, a report that includes—
+&emsp;Not later than 180 days after the end of the fiscal year for which grants are awarded underthis section, the Attorney General shall submit to the committees of the House of Representatives and the Senate responsible for issues relating to higher education and crime, a report that includes—
 
 &emsp;&emsp;(A) the number of grants, and the amount of funds, distributed under this section;
 
@@ -112,7 +112,7 @@ In this section—
 
 #### (g) Authorization of appropriations
 
-For the purpose of carrying out this part,<sup>1</sup> there are authorized to be appropriated$10,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+For the purpose of carrying out this part,<sup>1</sup> there are authorized to be appropriated $10,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
 (Pub. L. 105–244, title VIII, §826, Oct. 7, 1998, 112 Stat. 1815.)
 
@@ -180,7 +180,7 @@ Submission of Report.—The report required by subsection (b) shall be submitted
 
 “(d)
 
-Definition.—For purposes of this section, the term ‘campus sexual assaults’ means sexual assaults occurring at institutions of higher education and sexual assaults committed against or by students or employees of such institutions.
+Definition.—For purposes of this section, the term ‘campus sexual assaults’ means sexual assaultsoccurring at institutions of higher education and sexual assaults committed against or by students or employees of such institutions.
 
 “(e)
 

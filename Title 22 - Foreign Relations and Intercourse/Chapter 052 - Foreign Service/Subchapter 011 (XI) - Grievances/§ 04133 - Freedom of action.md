@@ -26,7 +26,7 @@ Any witness who is a member of the Service or employee of the Department shall b
 
 &emsp;(C) the fact that a grievance proceeding is pending or has been held,
 
-> shall be entered in the personnel records of the grievant (except by order of the Grievance Board as a remedy for the grievance) or those of any other individual connected with the grievance.
+> shall be entered in the personnel records of the grievant (except by order of the Grievance Board as a remedy for the grievance) or those of any other individual connected with the grievance. Nothing in this subsection shall prevent a grievant from placing a rebuttal to accompany a record of disciplinary action in such grievant's personnel records nor prevent the Department from including a response to such rebuttal, including documenting those cases in which the Board has reviewed and upheld the discipline.
 
 (2) The Department shall maintain records pertaining to grievances under appropriate safeguards to preserve confidentiality.
 
@@ -34,7 +34,11 @@ Any witness who is a member of the Service or employee of the Department shall b
 
 #### (e) Expedition of security clearance procedures
 
-The Department will use its best endeavors to expedite security clearance procedures whenevernecessary to assure a fair and prompt resolution of a grievance.
+The Department will use its best endeavors to expedite security clearance procedures whenever necessary to assure a fair and prompt resolution of a grievance.
 
-(Pub. L. 96–465, title I, §1103, Oct. 17, 1980, 94 Stat. 2143.)
+(Pub. L. 96–465, title I, §1103, Oct. 17, 1980, 94 Stat. 2143; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §329\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438.)
+
+#### Amendments
+
+1999—Subsec. (d)(1). Pub. L. 106–113 inserted at end “Nothing in this subsection shall prevent a grievant from placing a rebuttal to accompany a record of disciplinary action in such grievant's personnel records nor prevent the Department from including a response to such rebuttal, including documenting those cases in which the Board has reviewed and upheld the discipline.”
 

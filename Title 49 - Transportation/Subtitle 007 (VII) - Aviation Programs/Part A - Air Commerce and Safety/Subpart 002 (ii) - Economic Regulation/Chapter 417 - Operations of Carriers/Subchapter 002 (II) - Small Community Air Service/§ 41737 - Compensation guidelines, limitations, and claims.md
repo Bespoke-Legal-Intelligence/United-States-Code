@@ -8,7 +8,7 @@ Compensation Guidelines.—(1) The Secretary of Transportation shall prescribe g
 
 &emsp;(B) consider amounts needed by an air carrier to promote public use of the service or transportation for which compensation is being paid; and
 
-&emsp;(C) include expense elements based on representative costs of air carriers providing scheduled air transportation of passengers, property, and mail on aircraft of the type the Secretary decides is appropriate for providing the service or transportation for which compensation is being provided.
+&emsp;(C) include expense elements based on representative costs of air carriers providing scheduled air transportation of passengers,property, and mail on aircraft of the type the Secretary decides is appropriate for providing the service or transportation for which compensation is being provided.
 
 (2) Promotional amounts described in paragraph (1)(B) of this subsection shall be a special, segregated element of the compensation provided to a carrier under this subchapter.
 
@@ -62,7 +62,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(e)(2)–(g); added Oct. 24,
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(<i>l</i>); added Nov. 5, 1990, Pub. L. 101–508, §9113(b)(1), 104 Stat. 1388–363.
 
-In subsection (a)(1), before clause (A), the word “prescribe” is substituted for “establish” to eliminate anexecuted word. The words “air service or air transportation under this subchapter” are substituted for “air service under this section” for consistency with the source provisions restated in sections 41733, 41735, and 41736 of the revised title. In clause (C), the words “the service or transportation for which compensation is being provided” are substituted for “such service” for clarity.
+In subsection (a)(1), before clause (A), the word “prescribe” is substituted for “establish” to eliminate an executed word. The words “air service or air transportation under this subchapter” are substituted for “air service under this section” for consistency with the source provisions restated in sections 41733, 41735, and 41736 of the revised title. In clause (C), the words “the service or transportation for which compensation is being provided” are substituted for “such service” for clarity.
 
 In subsection (a)(2), the words “compensation provided to a carrier under this subchapter” are substituted for “required compensation” for clarity.
 

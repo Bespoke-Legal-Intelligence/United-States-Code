@@ -16,9 +16,11 @@ In carrying out an Even Start program under this part, a recipient of funds unde
 
 &emsp;&emsp;(iii) 70 percent in the third such year;
 
-&emsp;&emsp;(iv) 60 percent in the fourth such year; and
+&emsp;&emsp;(iv) 60 percent in the fourth such year;
 
-&emsp;&emsp;(v) 50 percent in any subsequent such year.
+&emsp;&emsp;(v) 50 percent in the fifth, sixth, seventh, and eighth such years; and
+
+&emsp;&emsp;(vi) 35 percent in any subsequent such year.
 
 &emsp;(B) The remaining cost of a program assisted under this part may be provided in cash or in kind, fairly evaluated and may be obtained from any source, including other Federal funds under this chapter.
 
@@ -34,9 +36,11 @@ In carrying out an Even Start program under this part, a recipient of funds unde
 
 &emsp;Federal funds provided under this part may not be used for the indirect costs of a program assisted under this part, except that the Secretary may waive this paragraph if an eligible recipient of funds reserved under section 6362(a)(1)(C) of this title demonstrates to the Secretary's satisfaction that such recipient otherwise would not be able to participate in the program assisted under this part.
 
-(Pub. L. 89–10, title I, §1204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3580;amended Pub. L. 104–134, title I, §101(b) \[title II, §2755(a)\], Apr. 26, 1996, 110 Stat. 1321–77, 1321–151; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 89–10, title I, §1204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3580; amended Pub. L. 104–134, title I, §101(b) \[title II, §2755(a)\], Apr. 26, 1996, 110 Stat. 1321–77, 1321–151; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §306(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–260.)
 
 #### Amendments
+
+1999—Subsec. (b)(1)(A)(v), (vi). Pub. L. 106–113 added cls. (v) and (vi) and struck out former cl. (v) which read as follows: “50 percent in any subsequent such year.”
 
 1996—Subsec. (a). Pub. L. 104–134 inserted “intensive” after “cost of providing”.
 

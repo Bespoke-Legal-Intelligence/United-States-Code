@@ -14,7 +14,7 @@ North Dakota constitutes one judicial district comprising four divisions.
 
 &emsp;&emsp;Court for the Northeastern Division shall be held at Grand Forks.
 
-&emsp;&emsp;(4) The Northwestern Division comprises the counties of Bottineau, Burke, Divide,McHenry, McKenzie, Mountrail, Pierce, Renville, Sheridan, Ward, Wells, and Williams.
+&emsp;&emsp;(4) The Northwestern Division comprises the counties of Bottineau, Burke, Divide, McHenry, McKenzie, Mountrail, Pierce, Renville, Sheridan, Ward, Wells, and Williams.
 
 &emsp;&emsp;Court for the Northwestern Division shall be held at Minot.
 

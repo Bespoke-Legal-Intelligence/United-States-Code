@@ -86,7 +86,7 @@ Subsec. (b)(1). Pub. L. 102–587, §2110(d), as amended by Pub. L. 104–283, i
 
 Subsec. (d). Pub. L. 102–587, §2107(d)(1), struck out “and civil penalties under section 1437 of this title” after “Secretary under this section”.
 
-Subsec. (d)(3), (4). Pub. L. 102–587, §§2107(d)(2), 2110(e), redesignated par. (4) as (3), inserted “the court decree or settlement agreement and” after “in accordance with”, and struck out former par. (3) which read as follows: “Amounts recovered under section 1437 of this title in the form of civil penalties shall be used by the Secretary in accordance with section 1437(e) of this title and paragraphs (2)(B) and (C) of this subsection.”
+Subsec. (d)(3), (4). Pub. L. 102–587, §§2107(d)(2), 2110(e), redesignated par. (4) as (3), inserted “the court decreeor settlement agreement and” after “in accordance with”, and struck out former par. (3) which read as follows: “Amounts recovered under section 1437 of this title in the form of civil penalties shall be used by the Secretary in accordance with section 1437(e) of this title and paragraphs (2)(B) and (C) of this subsection.”
 
 #### Effective Date
 

@@ -36,21 +36,31 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, §1618(a)(1), (2), (b)–(e), 110 S
 
 36:5508(c) (less “leases”).
 
+&nbsp;
+
 40703(3)
 
 36:5508(a)(1), (c) (related to leases).
+
+&nbsp;
 
 40703(4)
 
 36:5508(d).
 
+&nbsp;
+
 40703(5)
 
 36:5508(a)(2).
 
+&nbsp;
+
 40703(6)
 
 36:5508(e).
+
+&nbsp;
 
 In clause (2), the words “make contracts” are substituted for “enter into contracts” for consistency in the revised title. The words “agreements, or other transactions” are omitted as included in “contracts”.
 

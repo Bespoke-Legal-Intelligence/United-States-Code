@@ -66,7 +66,7 @@ Section 701 of Pub. L. 96–417, as amended by Pub. L. 96–542, §1, Dec. 17, 1
 
 “(2) Section 592(e) of the Tariff Act of 1930 \[19 U.S.C. 1592(e)\], as amended by section 609 of this Act, shall apply with respect to civil actions commenced on or after 90th day after the effective date of this Act.”
 
-\[Amendment of section 701 of Pub. L. 96–417, set out above, by Pub. L. 96–542 effective as of Nov. 1, 1980, see section 3 of Pub. L. 96–542, set out as a note under section 1516a of Title 19, Customs Duties.\]
+\[Amendment of section 701 of Pub. L. 96–417, set out above, by Pub. L. 96–542 effective as of Nov. 1, 1980, seesection 3 of Pub. L. 96–542, set out as a note under section 1516a of Title 19, Customs Duties.\]
 
 #### References to Certain Courts Deemed References to the United States Court of International Trade
 

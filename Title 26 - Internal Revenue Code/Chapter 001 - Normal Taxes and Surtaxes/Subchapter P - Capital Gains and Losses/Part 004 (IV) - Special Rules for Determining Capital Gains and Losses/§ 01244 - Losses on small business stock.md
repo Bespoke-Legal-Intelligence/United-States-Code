@@ -46,7 +46,7 @@ For any taxable year the aggregate amount treated by the taxpayer by reason of t
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section, a corporation shall be treated as a small business corporation if the aggregate amount of money and other property received by the corporation for stock, as a contribution to capital, andas paid-in surplus, does not exceed $1,000,000. The determination under the preceding sentence shall be made as of the time of the issuance of the stock in question but shall include amounts received for such stock and for all stock theretofore issued.
+&emsp;&emsp;For purposes of this section, a corporation shall be treated as a small business corporation if the aggregate amount of money and other property received by the corporation for stock, as a contribution to capital, and as paid-in surplus, does not exceed $1,000,000. The determination under the preceding sentence shall be made as of the time of the issuance of the stock in question but shall include amounts received for such stock and for all stock theretofore issued.
 
 #### (B) Amount taken into account with respect to property
 
@@ -130,7 +130,7 @@ Transitional rule for subsection (b).—In the case of a taxable year which incl
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(b)(1)(W), (3)(G) of Pub. L. 94–455 effective for taxable years beginning after Dec.31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(b)(1)(W), (3)(G) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Cross References
 

@@ -26,9 +26,11 @@
 
 (f)(1) The Secretary, after considering the recommendations of the Dean, shall obtain the services of such military and civilian professors, instructors, and administrative and other employees as may be necessary to operate the University. Civilian members of the faculty and staff shall be employed under salary schedules and granted retirement and other related benefits prescribed by the Secretary so as to place the employees of the University on a comparable basis with the employees of fully accredited schools of the health professions within the vicinity of the District of Columbia. The Secretary may confer academic titles, as appropriate, upon military and civilian members of the faculty. The military members of the faculty shall include a professor of military, naval, or air science as the Secretary may determine.
 
-(2) The Secretary may exempt, at any time, a physician who is a member of the faculty from the restrictions in subsections (a), (b), and (c) of section 5532 of title 5, if the Secretary determines that such exemption is necessary to recruit or retain well-qualified physicians for the faculty of the University. An exemption granted under this paragraph shall terminate upon any break in employment with the University by a physician of three days or more. An exemption granted under this paragraph to a person shall apply to the retired pay of such person beginning with the first month after the month in which the exemption is granted. Not more than five exemptions may be in effect under this paragraph at any time.
+(2) The Secretary may exempt, at any time, a physician who is a member of the faculty from the restrictions in subsections (a), (b), and (c) of section 5532 <sup>1</sup> of title 5, if the Secretary determines that such exemption is necessary to recruit or retain well-qualified physicians for the faculty of the University. An exemption granted under this paragraph shall terminate upon any break in employment with the University by a physician of three days or more. An exemption granted under this paragraph to a person shall apply to the retired pay of such person beginning with the first month after the month in which the exemption is granted. Not more than five exemptions may be in effect under this paragraph at any time.
 
-(g) The Secretary may negotiate agreements with agencies of the Federal Government to utilize on a reimbursable basis appropriate existing Federal medical resources located in or near the District of Columbia. Under such agreements the facilities concerned will retain their identities and basic missions. The Secretary may negotiate affiliation agreements with an accredited university or universities in or near the District of Columbia. Such agreements may include provisions for payments for educational services provided students participating in Department of Defense educational programs. The Secretary may enter into an agreement underwhich the University would become part of a national university of health sciences should such an institution be established in the vicinity of the District of Columbia.
+(3) The limitations in section 5373 of title 5 do not apply to the authority of the Secretary under paragraph (1) to prescribe salary schedules and other related benefits.
+
+(g) The Secretary may negotiate agreements with agencies of the Federal Government to utilize on a reimbursable basis appropriate existing Federal medical resources located in or near the District of Columbia. Under such agreements the facilities concerned will retain their identities and basic missions. The Secretary may negotiate affiliation agreements with an accredited university or universities in or near the District of Columbia. Such agreements may include provisions for payments for educational services provided students participating in Department of Defense educational programs. The Secretary may enter into an agreement under which the University would become part of a national university of health sciences should such an institution be established in the vicinity of the District of Columbia.
 
 (h) The Secretary of Defense may establish the following educational programs at the University:
 
@@ -50,7 +52,7 @@
 
 &emsp;(D) to accept, hold, administer, invest, and spend any gift, devise, or bequest of personal property made to the University, including any gift, devise, or bequest for the support of an academic chair, teaching, research, or demonstration project;
 
-&emsp;(E) to enter into agreements with the Henry M. Jackson Foundation for the Advancement of Military Medicine, or with any other nonprofit entity, under which scientists or other personnel of the Foundation or other entity may be utilized by the University for the purpose of enhancing the activities of the University in education, research, and technological applications of knowledge; and
+&emsp;(E) to enter into agreements with the Henry M. Jackson Foundation for the Advancementof Military Medicine, or with any other nonprofit entity, under which scientists or other personnel of the Foundation or other entity may be utilized by the University for the purpose of enhancing the activities of the University in education, research, and technological applications of knowledge; and
 
 &emsp;(F) to accept the voluntary services of guest scholars and other persons.
 
@@ -60,9 +62,15 @@
 
 (4) A person who provides voluntary services under the authority of clause (F) of paragraph (1) shall be considered to be an employee of the Federal Government for the purposes of chapter 81 of title 5, relating to compensation for work-related injuries, and to be an employee of the Federal Government for the purposes of chapter 171 of title 28, relating to tort claims. Such a person who is not otherwise employed by the Federal Government shall not be considered to be a Federal employee for any other purpose by reason of the provision of such services.
 
-(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 714; amended Pub. L. 95–589, Nov. 4, 1978, 92 Stat. 2512; Pub. L. 96–513, title V, §511(64), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–36, §3, May 27, 1983, 97 Stat. 201; Pub. L. 98–132, §2(b), Oct. 17, 1983, 97 Stat. 849; Pub. L. 99–661, div. A, title V, §505, Nov. 14, 1986, 100 Stat. 3864; Pub. L. 101–189, div. A, title VII, §726(a), (b)(1), Nov. 29, 1989, 103 Stat. 1480; Pub. L. 101–510, div. A, title XIII, §1322(a)(3), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 104–106, div. A, title X, §1072(a), (b)(2), (c)(1), Feb. 10, 1996, 110 Stat. 446.)
+(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 714; amended Pub. L. 95–589, Nov. 4, 1978, 92 Stat. 2512; Pub. L. 96–513, title V, §511(64), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–36, §3, May 27, 1983, 97 Stat. 201; Pub. L. 98–132, §2(b), Oct. 17, 1983, 97 Stat. 849; Pub. L. 99–661, div. A, title V, §505, Nov. 14, 1986, 100 Stat. 3864; Pub. L. 101–189, div. A, title VII, §726(a), (b)(1), Nov. 29, 1989, 103 Stat. 1480; Pub. L. 101–510, div. A, title XIII, §1322(a)(3), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 104–106, div. A, title X, §1072(a), (b)(2), (c)(1), Feb. 10, 1996, 110 Stat. 446; Pub. L. 106–65, div. A, title XI, §1108, Oct. 5, 1999, 113 Stat. 778.)
+
+#### References in Text
+
+Section 5532 of title 5, referred to in subsec. (f)(2), was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
 #### Amendments
+
+1999—Subsec. (f)(3). Pub. L. 106–65 added par. (3).
 
 1996—Pub. L. 104–106, §1072(c)(1), substituted “Administration of University” for “Board of Regents” as section catchline.
 
@@ -117,4 +125,6 @@ General limitation on pay fixed by administrative action, see section 5373 of Ti
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2114 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

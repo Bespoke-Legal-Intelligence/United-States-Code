@@ -10,7 +10,7 @@ Upon an application made pursuant to section 1804 of this title, the judge shall
 
 &emsp;(3) on the basis of the facts submitted by the applicant there is probable cause to believe that—
 
-&emsp;&emsp;(A) the target of the electronic surveillance is a foreign power or an agent of a foreign power: <i>Provided</i>, That no United Statesperson may be considered a foreign power or an agent of a foreign power solely upon the basis of activities protected by the first amendment to the Constitution of the United States; and
+&emsp;&emsp;(A) the target of the electronic surveillance is a foreign power or an agent of a foreign power: <i>Provided</i>, That no United States person may be considered a foreign power or an agent of a foreign power solely upon the basis of activities protected by the first amendment to the Constitution of the United States; and
 
 &emsp;&emsp;(B) each of the facilities or places at which the electronic surveillance is directed is being used, or is about to be used, by a foreign power or an agent of a foreign power;
 
@@ -42,7 +42,7 @@ An order approving an electronic surveillance under this section shall—
 
 &emsp;&emsp;(B) that, upon the request of the applicant, a specified communication or other common carrier, landlord, custodian, or other specified person furnish the applicant forthwith all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier, landlord, custodian, or other person is providing that target of electronic surveillance;
 
-&emsp;&emsp;(C) that such carrier, landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of Central Intelligence any records concerning the surveillance or the aid furnished that such person wishes to retain; and
+&emsp;&emsp;(C) that such carrier, landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of Central Intelligence anyrecords concerning the surveillance or the aid furnished that such person wishes to retain; and
 
 &emsp;&emsp;(D) that the applicant compensate, at the prevailing rate, such carrier, landlord, custodian, or other person for furnishing such aid.
 
@@ -82,7 +82,7 @@ Notwithstanding any other provision of this subchapter, officers, employees, or 
 
 &emsp;&emsp;(D) <i>Provided</i>, That the test may exceed ninety days only with the prior approval of the Attorney General;
 
-&emsp;(2) determine the existence and capability of electronic surveillance equipment being used by persons not authorized to conduct electronic surveillance, if—
+&emsp;(2) determine the existence and capability of electronic surveillance equipment being usedby persons not authorized to conduct electronic surveillance, if—
 
 &emsp;&emsp;(A) it is not reasonable to obtain the consent of persons incidentally subjected to the surveillance;
 

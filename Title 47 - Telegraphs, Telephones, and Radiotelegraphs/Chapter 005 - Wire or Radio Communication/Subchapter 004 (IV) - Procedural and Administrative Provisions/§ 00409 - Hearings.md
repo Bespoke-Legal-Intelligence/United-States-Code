@@ -12,7 +12,7 @@ In every case of adjudication (as defined in section 551 of title 5) which has b
 
 (1) In any case of adjudication (as defined in section 551 of title 5) which has been designated by the Commission for a hearing, no person who has participated in the presentation or preparation for presentation of such case at the hearing or upon review shall (except to the extent required for the disposition of ex parte matters as authorized by law) directly or indirectly make any additional presentation respecting such case to the hearing officer or officers or to the Commission, or to any authority within the Commission to whom, in such case, review functions have been delegated by the Commission under section 155(d)(1) <sup>1</sup> of this title, unless upon notice and opportunity for all parties to participate.
 
-(2) The provision in section 554(d) of title 5 which states that such subsection shall not apply in determining applications for initial licenses, shall not be applicable hereafter in thecase of applications for initial licenses before the Federal Communications Commission.
+(2) The provision in section 554(d) of title 5 which states that such subsection shall not apply in determining applications for initial licenses, shall not be applicable hereafter in the case of applications for initial licenses before the Federal Communications Commission.
 
 #### (d) Applicability of administrative procedure provisions
 
@@ -40,7 +40,7 @@ Every person deposing as herein provided shall be cautioned and sworn (or affirm
 
 #### (j) Foreign depositions
 
-If a witness whose testimony may be desired to be taken by deposition be in a foreign country, the deposition may be taken before an officer or person designated by the Commission, or agreed upon by the parties by stipulation in writing to be filed with the Commission. All depositions must be promptly filed with the Commission.
+If a witness whose testimony may be desired to be taken by deposition be in a foreign country, the deposition may be taken before an officer or person designated by the Commission, oragreed upon by the parties by stipulation in writing to be filed with the Commission. All depositions must be promptly filed with the Commission.
 
 #### (k) Deposition fees
 

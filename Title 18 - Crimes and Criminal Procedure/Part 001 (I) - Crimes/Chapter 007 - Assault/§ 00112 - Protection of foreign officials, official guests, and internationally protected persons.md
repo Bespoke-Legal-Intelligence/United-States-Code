@@ -6,7 +6,7 @@
 
 &emsp;(1) intimidates, coerces, threatens, or harasses a foreign official or an official guest or obstructs a foreign official in the performance of his duties;
 
-&emsp;(2) attempts to intimidate, coerce, threaten, or harass a foreign official or an official guest or obstruct a foreign official in the performance of his duties; or
+&emsp;(2) attempts to intimidate, coerce, threaten, or harass a foreign official or an official guestor obstruct a foreign official in the performance of his duties; or
 
 &emsp;(3) within the United States and within one hundred feet of any building or premises in whole or in part owned, used, or occupied for official business or for diplomatic, consular, or residential purposes by—
 
@@ -26,7 +26,7 @@
 
 (d) Nothing contained in this section shall be construed or applied so as to abridge the exercise of rights guaranteed under the first amendment to the Constitution of the United States.
 
-(e) If the victim of an offense under subsection (a) is an internationally protected person outside the United States, the United States mayexercise jurisdiction over the offense if (1) the victim is a representative, officer, employee, or agent of the United States, (2) an offender is a national of the United States, or (3) an offender is afterwards found in the United States. As used in this subsection, the United States includes all areas under the jurisdiction of the United States including any of the places within the provisions of sections 5 and 7 of this title and section 46501(2) of title 49.
+(e) If the victim of an offense under subsection (a) is an internationally protected person outside the United States, the United States may exercise jurisdiction over the offense if (1) the victim is a representative, officer, employee, or agent of the United States, (2) an offender is a national of the United States, or (3) an offender is afterwards found in the United States. As used in this subsection, the United States includes all areas under the jurisdiction of the United States including any of the places within the provisions of sections 5 and 7 of this title and section 46501(2) of title 49.
 
 (f) In the course of enforcement of subsection (a) and any other sections prohibiting a conspiracy or attempt to violate subsection (a), the Attorney General may request assistance from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary, notwithstanding.
 

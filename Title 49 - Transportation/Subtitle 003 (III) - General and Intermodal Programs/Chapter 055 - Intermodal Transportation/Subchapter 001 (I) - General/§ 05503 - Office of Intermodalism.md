@@ -54,7 +54,7 @@ Section 6009(b) of the Intermodal Surface Transportation Efficiency Act of 1991,
 
 1998—Subsecs. (d) to (g). Pub. L. 105–178 redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out heading and text of former subsec. (d). Text read as follows:
 
-“(1) The Director shall develop, maintain, and disseminate intermodal transportation data through theBureau of Transportation Statistics. The Director shall coordinate the collection of data for the data base with the States and metropolitan planning organizations. The data base shall include information on—
+“(1) The Director shall develop, maintain, and disseminate intermodal transportation data through the Bureau of Transportation Statistics. The Director shall coordinate the collection of data for the data base with the States and metropolitan planning organizations. The data base shall include information on—
 
 &emsp;“(A) the volume of property and number of individuals carried in intermodal transportation by relevant classification;
 

@@ -1,5 +1,5 @@
 
-20 U.S.C.<br>United States Code, 1998 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+20 U.S.C.<br>United States Code, 1999 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 20—EDUCATION
 
@@ -84,6 +84,7 @@
 | [<b>71.</b>](Chapter%20071%20-%20National%20Education%20Statistics/README.md) | <b>National Education Statistics</b> | <b>9001</b> |
 | [<b>72.</b>](Chapter%20072%20-%20Museum%20and%20Library%20Services/README.md) | <b>Museum and Library Services</b> | <b>9101</b> |
 | [<b>73.</b>](Chapter%20073%20-%20Adult%20Education%20and%20Literacy/README.md) | <b>Adult Education and Literacy</b> | <b>9201</b> |
+| [<b>74.</b>](Chapter%20074%20-%20Troops-to-Teachers%20Program/README.md) | <b>Troops-to-Teachers Program</b> | <b>9301</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -243,3 +244,4 @@ United States information and educational exchange programs, see section 1431 et
 - [Chapter 071 - National Education Statistics](Chapter%20071%20-%20National%20Education%20Statistics/README.md)
 - [Chapter 072 - Museum and Library Services](Chapter%20072%20-%20Museum%20and%20Library%20Services/README.md)
 - [Chapter 073 - Adult Education and Literacy](Chapter%20073%20-%20Adult%20Education%20and%20Literacy/README.md)
+- [Chapter 074 - Troops-to-Teachers Program](Chapter%20074%20-%20Troops-to-Teachers%20Program/README.md)

@@ -2,7 +2,7 @@
 
 (a)
 
-Defense Acquisition University Structure.The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, shall establish and maintain a defense acquisition university structure to provide for—
+Defense Acquisition University Structure.The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall establish and maintain a defense acquisition university structure to provide for—
 
 &emsp;(1) the professional educational development and training of the acquisition workforce; and
 
@@ -16,9 +16,11 @@ Civilian Faculty Members.—(1) The Secretary of Defense may employ as many civi
 
 (3) In this subsection, the term “defense acquisition university” includes the Defense Systems Management College.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1653; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 104–106, div. A, title XV, §1503(a)(16), Feb. 10, 1996, 110 Stat. 512.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1653; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 104–106, div. A, title XV, §1503(a)(16), Feb. 10, 1996, 110 Stat. 512; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717.)
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, andLogistics” for “Under Secretary of Defense for Acquisition and Technology” in introductory provisions.
 
 1996—Subsec. (a). Pub. L. 104–106 struck out “(1)” before “The Secretary of Defense” and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
@@ -30,31 +32,7 @@ Section 1209(h)(1) of Pub. L. 101–510 provided that: “Subsection (b) of sect
 
 #### Establishment of Initial Defense Acquisition University Structure
 
-Section 1205 of Pub. L. 101–510, as amended by Pub. L. 105–85, div. A, title X, §1073(d)(4)(A), Nov. 18, 1997, 111 Stat. 1905, provided that:
-
-“(a)
-
-Establishment of Structure.—Not later than October 1, 1991, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, shall prescribe regulations for the initial structure for a defense acquisition university under section 1746 of title 10, United States Code (as added by section 1202). The regulations shall include the following:
-
-&emsp;“(1) Operation under a charter developed by the Secretary of Defense.
-
-&emsp;“(2) Establishment of a university mission to achieve objectives formulated by the Secretary of Defense. Such objectives shall include—
-
-&emsp;&emsp;“(A) the achievement of more efficient and effective use of available acquisition resources by coordinating Department of Defense acquisition education and training programs and tailoring them to support the careers of personnel in acquisition positions; and
-
-&emsp;&emsp;“(B) the development of education, training, research, and publication capabilities in the area of acquisition.
-
-&emsp;“(3) Establishment of appropriate lines of authority (including relationships between the university and each of the existing acquisition education and training institutions and activities) and accountability for the accomplishment of the university mission (as established by the Secretary).
-
-&emsp;“(4) A coherent framework for the educational development of personnel in acquisition positions. Such framework shall cover courses of instruction from the basic level through intermediate and senior levels. At the senior level, the framework shall provide for a senior course as a substitute for, and equivalent to, existing senior professional military educational school courses, specifically designed for personnel serving in critical acquisition positions.
-
-&emsp;“(5) Appropriate organizations, such as a policy guidance council, composed of senior Department of Defense officials, to recommend or establish policy, and a board of visitors, composed of persons selected for their preeminence in the fields of academia, business, and the defense industry, to advise on organization management, curricula, methods of instruction, facilities, and other matters of interest to the university.
-
-&emsp;“(6) An appropriate centralized mechanism, under the Under Secretary of Defense for Acquisition and Technology, to control the allocation of resources for purposes of conducting mandatory acquisition courses and other training, education, and research activities to achieve the objectives of the university, such as funding for students to attend courses of instruction, funding to conduct the courses, and funding to pay instructor salaries.
-
-“(b)
-
-Implementation.—Not later than October 1, 1991, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, shall prescribe and submit to the Committees on Armed Services of the Senate and House of Representatives an implementation plan, including a charter, for the defense acquisition university structure. Not later than August 1, 1992, the Secretary of Defense shall carry out the implementation plan.”
+Pub. L. 101–510, div. A, title XII, §1205, Nov. 5, 1990, 104 Stat. 1658, as amended by Pub. L. 105–85, div. A, title X, §1073(d)(4)(A), Nov. 18, 1997, 111 Stat. 1905, provided that, not later than Oct. 1, 1991, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, was to prescribe regulations for the initial structure for a defense acquisition university under this section and to prescribe and submit to the Committees on Armed Services of the Senate and House of Representatives an implementation plan, including a charter, for the university structure, and not later than Aug. 1, 1992, the Secretary was to carry out the implementation plan.
 
 #### Section Referred to in Other Sections
 

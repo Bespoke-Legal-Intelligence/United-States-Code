@@ -34,7 +34,7 @@
 
 #### (4) Information requirements
 
-&emsp;No collection of information or data acquisition activity undertaken by the Center shall be subject to any review, coordination, or approval procedure except as required by the Director of the Office of Management and Budget under the rules and regulations established pursuant to chapter 35 of title 44, except suchcollection of information or data acquisition activity may be subject to review or coordination if the Commissioner determines that such review or coordination is beneficial.
+&emsp;No collection of information or data acquisition activity undertaken by the Center shall be subject to any review, coordination, or approval procedure except as required by the Director of the Office of Management and Budget under the rules and regulations established pursuant to chapter 35 of title 44, except such collection of information or data acquisition activity may be subject to review or coordination if the Commissioner determines that such review or coordination is beneficial.
 
 #### (5) Definitions
 

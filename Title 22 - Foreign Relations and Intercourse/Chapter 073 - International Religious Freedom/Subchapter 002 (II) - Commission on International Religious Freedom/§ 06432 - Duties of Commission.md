@@ -14,7 +14,7 @@ The Commission, in evaluating United States Government policies in response to v
 
 #### (c) Policy review and recommendations in response to progress
 
-The Commission, in evaluating the United States Government policies with respect to countries found to be taking deliberate steps and making significant improvement in respect for the right of religious freedom, shall consider and recommend policy options, including private commendation, diplomatic commendation, official public commendation, commendation within multilateral fora, an increase in cultural or scientific exchanges, or both, termination or reduction of existing Presidential actions, an increase in certain assistance funds, and invitations for working, official, or state visits.
+The Commission, in evaluating the United States Government policies with respect to countries found to be taking deliberate steps and making significant improvement in respect for the right of religious freedom, shall consider and recommend policy options, including private commendation, diplomatic commendation, official public commendation, commendation within multilateral fora, an increase in cultural or scientific exchanges, or both, termination orreduction of existing Presidential actions, an increase in certain assistance funds, and invitations for working, official, or state visits.
 
 #### (d) Effects on religious communities and individuals
 
@@ -24,17 +24,13 @@ Together with specific policy recommendations provided under subsections (b) and
 
 The Commission shall, on an ongoing basis, monitor facts and circumstances of violations of religious freedom, in consultation with independent human rights groups and nongovernmental organizations, including churches and other religious communities, and make such recommendations as may be necessary to the appropriate officials and offices in the United States Government.
 
-#### (f) Hearings and sessions
+(Pub. L. 105–292, title II, §202, Oct. 27, 1998, 112 Stat. 2798; Pub. L. 106–55, §1(b)(1), Aug. 17, 1999, 113 Stat. 401.)
 
-The Commission may, for the purpose of carrying out its duties under this subchapter, hold hearings, sit and act at times and places in the United States, take testimony, and receive evidence as the Commission considers advisable to carry out the purposes of this chapter.
+#### Amendments
 
-(Pub. L. 105–292, title II, §202, Oct. 27, 1998, 112 Stat. 2798.)
-
-#### References in Text
-
-This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
+1999—Subsec. (f). Pub. L. 106–55 struck out heading and text of subsec. (f). Text read as follows: “The Commission may, for the purpose of carrying out its duties under this subchapter, hold hearings, sit and act at times and places in the United States, take testimony, and receive evidence as the Commission considers advisable to carry out the purposes of this chapter.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6433 of this title.
+This section is referred to in sections 6433, 6435a of this title.
 

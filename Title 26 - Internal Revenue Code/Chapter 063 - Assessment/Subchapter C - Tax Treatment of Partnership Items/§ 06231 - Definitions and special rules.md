@@ -14,7 +14,7 @@ For purposes of this subchapter—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “partnership” shall not include any partnership having 10 or fewerpartners each of whom is an individual (other than a nonresident alien), a C corporation, or an estate of a deceased partner. For purposes of the preceding sentence, a husband and wife (and their estates) shall be treated as 1 partner.
+&emsp;&emsp;&emsp;The term “partnership” shall not include any partnership having 10 or fewer partners each of whom is an individual (other than a nonresident alien), a C corporation, or an estate of a deceased partner. For purposes of the preceding sentence, a husband and wife (and their estates) shall be treated as 1 partner.
 
 #### (ii) Election to have subchapter apply
 
@@ -100,7 +100,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B)(i) such partner has filed a request under section 6227(c) <sup>1</sup> for administrative adjustment of one or more of such items, and
 
-&emsp;&emsp;(ii) the adjustments requested would not make such partner's treatment of such items consistent with the treatment of such items on the partnership return.
+&emsp;&emsp;(ii) the adjustments requested would not make such partner's treatment of such itemsconsistent with the treatment of such items on the partnership return.
 
 #### (3) Notice must be mailed before beginning of partnership proceeding
 
@@ -184,7 +184,7 @@ Section 6227(c) of this title, referred to in subsec. (b)(2)(B)(i), was redesign
 
 #### Amendments
 
-1998—Subsec. (a)(7). Pub. L. 105–206 inserted at end “The Secretary shall, within 30 days of selecting a tax matters partner under the preceding sentence, notify all partners required to receive notice under section 6223(a) of the name and address of the person selected.”
+1998—Subsec. (a)(7). Pub. L. 105–206 inserted at end “The Secretary shall, within 30 days of selecting a tax matters partner under the preceding sentence, notifyall partners required to receive notice under section 6223(a) of the name and address of the person selected.”
 
 1997—Subsec. (a)(1)(B)(i). Pub. L. 105–34, §1234(a), reenacted heading of cl. (i) without change and amended text generally. Prior to amendment, text read as follows: “The term ‘partnership’ shall not include any partnership if—
 

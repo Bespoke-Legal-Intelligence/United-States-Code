@@ -30,7 +30,7 @@ Substantive Differences.—(1) Except as provided in subsection (c) of this sect
 
 Compliance With Section 5112(b)
 
-Regulations.—(1) Except as provided in paragraph (2) of this subsection, after the last day of the 2-year period beginning on the date a regulation is prescribed under section 5112(b) of this title, a State or Indian tribe may establish, maintain,or enforce a highway routing designation over which hazardous material may or may not be transported by motor vehicles, or a limitation or requirement related to highway routing, only if the designation, limitation, or requirement complies with section 5112(b).
+Regulations.—(1) Except as provided in paragraph (2) of this subsection, after the last day of the 2-year period beginning on the date a regulation is prescribed under section 5112(b) of this title, a State or Indian tribe may establish, maintain, or enforce a highway routing designation over which hazardous material may or may not be transported by motor vehicles, or a limitation or requirement related to highway routing, only if the designation, limitation, or requirement complies with section 5112(b).
 
 (2)(A) A highway routing designation, limitation, or requirement established before the date a regulation is prescribed under section 5112(b) of this title does not have to comply with section 5112(b)(1)(B), (C), and (F).
 
@@ -62,7 +62,7 @@ Judicial Review.—A party to a proceeding under subsection (d) or (e) of this s
 
 Fees.—(1) A State, political subdivision of a State, or Indian tribe may impose a fee related to transporting hazardous material only if the fee is fair and used for a purpose related to transporting hazardous material, including enforcement and planning, developing, and maintaining a capability for emergency response.
 
-(2) A State or political subdivision thereof or Indian tribe that levies a fee in connection with the transportation of hazardous materials shall, upon the Secretary's request, report to the Secretary on—
+(2) A State or political subdivision thereof or Indian tribe that levies a fee in connection withthe transportation of hazardous materials shall, upon the Secretary's request, report to the Secretary on—
 
 &emsp;(A) the basis on which the fee is levied upon persons involved in such transportation;
 

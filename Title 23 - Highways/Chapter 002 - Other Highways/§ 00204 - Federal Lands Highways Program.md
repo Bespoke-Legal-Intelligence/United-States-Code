@@ -74,7 +74,7 @@ Administrative costs.—The Secretary shall transfer to the appropriate Federal 
 
 &emsp;(2)
 
-Transportation planning costs.—The Secretary shall transfer to the appropriate Federal land management agency from amounts made available for public lands highways such amounts as are necessary to paythe cost to the agency to conduct necessary transportation planning for Federal lands, if funding for the planning is not otherwise provided under this section.
+Transportation planning costs.—The Secretary shall transfer to the appropriate Federal land management agency from amounts made available for public lands highways such amounts as are necessary to pay the cost to the agency to conduct necessary transportation planning for Federal lands, if funding for the planning is not otherwise provided under this section.
 
 (j)
 
@@ -86,7 +86,7 @@ Refuge Roads.—
 
 &emsp;(1)
 
-In general.—Notwithstanding any other provision of this title, funds made available for refuge roads shall be used by the Secretary and the Secretary of the Interior only to pay the cost of—
+In general.—Notwithstanding any other provision of this title, funds made availablefor refuge roads shall be used by the Secretary and the Secretary of the Interior only to pay the cost of—
 
 &emsp;&emsp;(A) maintenance and improvements of refuge roads;
 
@@ -136,7 +136,7 @@ Pub. L. 102–240, §1032(b)(2)(B), (C), struck out “forest highways and” be
 
 Pub. L. 102–240, §1032(b)(2)(A), substituted “planning, research, engineering and construction thereof” for “construction and improvements thereof” and was executed by making the substitution for the first reference to “construction and improvement thereof” to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 102–240, §§1030, 1032(b)(3), substituted “eligible for funds apportioned under section 104 or section 144 of this title” for “on a Federal-aid system” and inserted at end “Notwithstanding any other provision of this title, Indian reservation roads under the jurisdiction of the Bureau of Indian Affairs of the Department of the Interior shall be eligible to expend not more than 15 percent funds apportioned for Indian reservation roads from the Highway Trust Fund for the purpose of road sealing projects. The Bureau of Indian Affairs shall continue to retain responsibility, including annual funding request responsibility, for road maintenance programs on Indian reservations.”
+Subsec. (c). Pub. L. 102–240, §§1030, 1032(b)(3), substituted “eligible for funds apportioned under section 104 or section 144 of this title” for “on a Federal-aid system” and inserted at end “Notwithstanding anyother provision of this title, Indian reservation roads under the jurisdiction of the Bureau of Indian Affairs of the Department of the Interior shall be eligible to expend not more than 15 percent funds apportioned for Indian reservation roads from the Highway Trust Fund for the purpose of road sealing projects. The Bureau of Indian Affairs shall continue to retain responsibility, including annual funding request responsibility, for road maintenance programs on Indian reservations.”
 
 Subsecs. (h) to (j). Pub. L. 102–240, §1032(b)(4), added subsecs. (h) to (j) and struck out former subsec. (h) which read as follows: “Funds available for each class of Federal lands highways shall be available for adjacent vehicular parking areas and scenic easements.”
 

@@ -12,7 +12,7 @@
 
 &emsp;(A) shall also contain the claims to the composition of matter used in or made by that process, or
 
-&emsp;(B) shall, if such composition of matter is claimed in another patent, be set to expire onthe same date as such other patent, notwithstanding section 154.
+&emsp;(B) shall, if such composition of matter is claimed in another patent, be set to expire on the same date as such other patent, notwithstanding section 154.
 
 (3) For purposes of paragraph (1), the term “biotechnological process” means—
 
@@ -28,9 +28,9 @@
 
 &emsp;(C) a method of using a product produced by a process defined by subparagraph (A) or (B), or a combination of subparagraphs (A) and (B).
 
-(c) Subject matter developed by another person, which qualifies as prior art only under subsection (f) or (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person.
+(c) Subject matter developed by another person, which qualifies as prior art only under one or more of subsections (e), (f), and (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person.
 
-(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 98–622, title I, §103, Nov. 8, 1984, 98 Stat. 3384; Pub. L. 104–41, §1, Nov. 1, 1995, 109 Stat. 351.)
+(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 98–622, title I, §103, Nov. 8, 1984, 98 Stat. 3384; Pub. L. 104–41, §1, Nov. 1, 1995, 109 Stat. 351; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4807(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–591.)
 
 #### Historical and Revision Notes
 
@@ -40,9 +40,15 @@ The second sentence states that patentability as to this requirement is not to b
 
 #### Amendments
 
+1999—Subsec. (c). Pub. L. 106–113 substituted “one or more of subsections (e), (f), and (g)” for “subsection (f) or (g)”.
+
 1995—Pub. L. 104–41 designated first and second pars. as subsecs. (a) and (c), respectively, and added subsec. (b).
 
 1984—Pub. L. 98–622 inserted “Subject matter developed by another person, which qualifies as prior art only under subsection (f) or (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person.”
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4807(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–591, provided that: “The amendment made by this section \[amending this section\] shall apply to any application for patent filed on or after the date of the enactment of this Act \[Nov. 29, 1999\].”
 
 #### Effective Date of 1995 Amendment
 
@@ -54,7 +60,7 @@ Section 106 of Pub. L. 98–622 provided that:
 
 “(a) Subject to subsections (b), (c), (d), and (e) of this section, the amendments made by this Act \[probably should be “this title”, meaning title I of Pub. L. 98–622, enacting section 157 of this title, amending this section and sections 116, 120, 135, and 271 of this title, and enacting a provision set out as a note under section 157 of this title\] shall apply to all United States patents granted before, on, or after the date of enactment of this Act \[Nov. 8, 1984\], and to all applications for United States patents pending on or filed after the date of enactment.
 
-“(b) The amendments made by this Act shall not affect any final decision made by the court or the Patent and Trademark Office before the date of enactment of this Act \[Nov. 8, 1984\], with respect to a patent or application for patent, if no appeal from such decision is pending and the time for filing an appeal has expired.
+“(b) The amendments made by this Act shall not affect any final decision made by the court or the Patent and Trademark Office before the date of enactment ofthis Act \[Nov. 8, 1984\], with respect to a patent or application for patent, if no appeal from such decision is pending and the time for filing an appeal has expired.
 
 “(c) Section 271(f) of title 35, United States Code, added by section 101 of this Act shall apply only to the supplying, or causing to be supplied, of any component or components of a patented invention after the date of enactment of this Act \[Nov. 8, 1984\].
 
@@ -68,5 +74,5 @@ Description of invention, see section 112 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 282 of this title.
+This section is referred to in sections 273, 282 of this title.
 

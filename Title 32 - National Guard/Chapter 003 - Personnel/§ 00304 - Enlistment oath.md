@@ -34,7 +34,7 @@ The words “or affirmation” are omitted as covered by the definition of the w
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–751 not to effect any oath taken before one year after Oct. 5, 1962, see section 3 of Pub. L. 87–751, set out as a note under section 502 of Title 10, Armed Forces.
+Amendment by Pub. L. 87–751 not to effect any oath taken before one year after Oct. 5, 1962, see section 3 ofPub. L. 87–751, set out as a note under section 502 of Title 10, Armed Forces.
 
 #### Cross References
 

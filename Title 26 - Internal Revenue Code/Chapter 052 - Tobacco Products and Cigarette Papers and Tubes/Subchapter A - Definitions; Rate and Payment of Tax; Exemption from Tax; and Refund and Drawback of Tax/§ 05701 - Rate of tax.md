@@ -12,7 +12,7 @@ On cigars, manufactured in or imported into the United States, there shall be im
 
 &emsp;On cigars weighing more than 3 pounds per thousand, a tax equal to 20.719 percent (18.063 percent on cigars removed during 2000 or 2001) of the price for which sold but not more than $48.75 per thousand ($42.50 per thousand on cigars removed during 2000 or 2001).
 
-> Cigars not exempt from tax under this chapter which are removed but not intended for saleshall be taxed at the same rate as similar cigars removed for sale.
+> Cigars not exempt from tax under this chapter which are removed but not intended for sale shall be taxed at the same rate as similar cigars removed for sale.
 
 #### (b) Cigarettes
 
@@ -76,9 +76,9 @@ Subsec. (b)(2). Pub. L. 105–33, §9302(a)(2), substituted “$40.95 per thousa
 
 Subsec. (c). Pub. L. 105–33, §9302(h)(3), substituted “On cigarette papers,” for “On each book or set of cigarette papers containing more than 25 papers,”.
 
-Pub. L. 105–33, §9302(c), substituted “1.22 cents (1.06 cents on cigarette papers removed during 2000 or 2001)”for “0.75 cent (0.625 cent on cigarette papers removed during 1991 or 1992)”.
+Pub. L. 105–33, §9302(c), substituted “1.22 cents (1.06 cents on cigarette papers removed during 2000 or 2001)” for “0.75 cent (0.625 cent on cigarette papers removed during 1991 or 1992)”.
 
-Subsec. (d). Pub. L. 105–33, §9302(d), substituted “2.44 cents (2.13 cents on cigarette tubes removed during 2000 or 2001)” for “1.5 cents (1.25 cents on cigarette tubes removed during 1991 or 1992)”.
+Subsec. (d). Pub. L. 105–33, §9302(d), substituted “2.44 cents (2.13 cents on cigarette tubes removed during 2000or 2001)” for “1.5 cents (1.25 cents on cigarette tubes removed during 1991 or 1992)”.
 
 Subsec. (e)(1). Pub. L. 105–33, §9302(e)(1), substituted “58.5 cents (51 cents on snuff removed during 2000 or 2001)” for “36 cents (30 cents on snuff removed during 1991 or 1992)”.
 
@@ -260,7 +260,7 @@ Authority to exempt cigarettes held in vending machines.—To the extent provide
 
 “(3)
 
-Credit against tax.—Each person shall be allowed as a credit against the taxes imposed by paragraph (1) an amount equal to $500. Such credit shall notexceed the amount of taxes imposed by paragraph (1) on any tax increase date, for which such person is liable.
+Credit against tax.—Each person shall be allowed as a credit against the taxes imposed by paragraph (1) an amount equal to $500. Such credit shall not exceed the amount of taxes imposed by paragraph (1) on any tax increase date, for which such person is liable.
 
 “(4)
 
@@ -412,7 +412,7 @@ Treatment of pipe tobacco in foreign trade zones.—Notwithstanding the Act of J
 
 &emsp;&emsp;“(ii) such pipe tobacco is held on such date under the supervision of a customs officer pursuant to the second proviso of such section 3(a).
 
-&emsp;“Under regulations prescribed by the Secretary of the Treasury or his delegate, provisions similar to sections 5706 and 5708 of the 1986 Code shall apply to pipe tobacco with respect to which tax is imposed by paragraph (1) by reason of this subparagraph.
+&emsp;“Under regulations prescribed by the Secretary of the Treasury or his delegate, provisions similar tosections 5706 and 5708 of the 1986 Code shall apply to pipe tobacco with respect to which tax is imposed by paragraph (1) by reason of this subparagraph.
 
 “(3)
 

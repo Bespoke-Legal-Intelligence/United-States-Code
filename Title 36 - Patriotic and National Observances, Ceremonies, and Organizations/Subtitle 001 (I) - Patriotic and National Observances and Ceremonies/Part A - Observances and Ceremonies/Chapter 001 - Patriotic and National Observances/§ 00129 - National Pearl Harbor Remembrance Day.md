@@ -34,5 +34,7 @@ Aug. 23, 1994, Pub. L. 103–308, 108 Stat. 1669.
 
 36:169<i>l</i> (words after “Remembrance Day’ ”).
 
+&nbsp;
+
 In subsection (b)(2), the words “departments, agencies, and instrumentalities of the United States Government” are substituted for “Federal agencies” for consistency in the revised title and with other titles of the United States Code.
 

@@ -28,7 +28,7 @@ The standards and procedures prescribed under subsection (b) of this section sha
 
 &emsp;(3) A full and complete record, and where practicable a verbatim transcript, shall be kept of any meeting held, and a full and complete record shall be kept of any communication (other than in a meeting) made, between or among participants or potential participants, to develop, or carry out a voluntary agreement or a plan of action under this section. Such record or transcript shall be deposited, together with any agreement resulting therefrom, with the Secretary, and shall be available to the Attorney General and the Federal Trade Commission. Such records or transcripts shall be available for public inspection and copying in accordance with section 552 of title 5; except that (A) matter may not be withheld from disclosure under section 552(b) of such title on grounds other than the grounds specified in section 552(b)(1), (b)(3), or so much of (b)(4) as relates to trade secrets; and (B) in the exercise of authority under section 552(b)(1), the President shall consult with the Secretary of State, the Secretary, and the Attorney General with respect to questions relating to the foreign policy interests of the United States.
 
-&emsp;(4) No provision of this section may be exercised so as to prevent representatives of committees of Congress from attending meetings to which this section applies, or from having access to any transcripts, records, and agreements kept or made under this section. Such access to any transcript that is required to be kept for any meeting shall be provided as soon as practicable (but not later than 14 days) after that meeting.
+&emsp;(4) No provision of this section may be exercised so as to prevent representatives of committees of Congress from attending meetingsto which this section applies, or from having access to any transcripts, records, and agreements kept or made under this section. Such access to any transcript that is required to be kept for any meeting shall be provided as soon as practicable (but not later than 14 days) after that meeting.
 
 #### (d) Participation of Attorney General and Federal Trade Commission in development and carrying out of voluntary agreements and plans of action
 
@@ -50,7 +50,7 @@ The standards and procedures prescribed under subsection (b) of this section sha
 
 #### (f) Defense to civil or criminal antitrust actions
 
-(1) There shall be available as a defense to any civil or criminal action brought under the antitrust laws (or any similar State law) in respect to actions taken to develop or carry out a voluntary agreement or plan of action by personsengaged in the business of producing, transporting, refining, distributing, or storing petroleum products (provided that such actions were not taken for the purpose of injuring competition) that—
+(1) There shall be available as a defense to any civil or criminal action brought under the antitrust laws (or any similar State law) in respect to actions taken to develop or carry out a voluntary agreement or plan of action by persons engaged in the business of producing, transporting, refining, distributing, or storing petroleum products (provided that such actions were not taken for the purpose of injuring competition) that—
 
 &emsp;(A) such actions were taken—
 
@@ -118,7 +118,7 @@ The antitrust defense under subsection (f) of this section shall not extend to t
 
 &emsp;(B) such defenses shall not be applicable to Type 1 activities if there has been enacted, in accordance with subsection (n) of this section, a joint resolution of disapproval.
 
-(2) The Secretary may withdraw the plan of action at any time prior to adoption of a jointresolution described in subsection (n)(3) of this section by either House of Congress.
+(2) The Secretary may withdraw the plan of action at any time prior to adoption of a joint resolution described in subsection (n)(3) of this section by either House of Congress.
 
 (3) For the purpose of this subsection—
 
@@ -128,7 +128,7 @@ The antitrust defense under subsection (f) of this section shall not extend to t
 
 #### (n) Joint resolution of disapproval
 
-(1)(A) The application of defenses under subsections (f) and (j) of this section for Type 1 activities with respect to any plan of action transmitted to Congress as described in subsection (m)(1)(A)(i) of this section shall be disapproved if a joint resolution of disapproval has been enacted into law during the 90-day period of continuous session after which such transmission was received by the Congress. For the purpose of this subsection, the term “joint resolution” means only a joint resolution of either House of the Congress as described in paragraph (3).
+(1)(A) The application of defenses under subsections (f) and (j) of this section for Type 1 activities with respect to any plan of action transmitted to Congress as described in subsection (m)(1)(A)(i) of this section shall be disapproved if a joint resolution of disapproval has been enacted into law during the 90-day period of continuous session after which such transmission was received by the Congress. For the purpose ofthis subsection, the term “joint resolution” means only a joint resolution of either House of the Congress as described in paragraph (3).
 
 (B) After receipt by the Congress of such plan of action, a joint resolution of disapproval may be introduced in either House of the Congress. Upon introduction in the Senate, the joint resolution shall be referred in the Senate immediately to the Committee on Energy and Natural Resources of the Senate.
 
@@ -160,7 +160,7 @@ The antitrust defense under subsection (f) of this section shall not extend to t
 
 The antitrust laws, referred to in subsecs. (a)(2), (e)(4), and (f)(1), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
 
-The Antitrust Civil Process Act, referred to in subsec. (e)(4), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, as amended, which is classified generally to chapter 34\(§1311 et seq.) of Title 15. For complete classification of that Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables.
+The Antitrust Civil Process Act, referred to in subsec. (e)(4), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, as amended, which is classified generally to chapter 34 (§1311 et seq.) of Title 15. For complete classification of that Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables.
 
 The date of enactment of this chapter, referred to in subsec. (g), means the date of enactment of Pub. L. 94–163, which was approved Dec. 22, 1975.
 

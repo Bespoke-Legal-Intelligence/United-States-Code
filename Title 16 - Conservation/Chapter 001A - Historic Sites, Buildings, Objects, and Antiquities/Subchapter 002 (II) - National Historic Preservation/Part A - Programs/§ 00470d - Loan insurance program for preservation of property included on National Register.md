@@ -30,7 +30,7 @@ The aggregate unpaid principal balance of loans insured under this section and o
 
 #### (d) Assignability of insurance contracts; contract as obligation of United States; contestability
 
-Any contract of insurance executed by the Secretary under this section may be assignable, shall be an obligation supported by the full faith and credit of the United States, and shall be incontestable except for fraud or misrepresentation of which the holder had actual knowledge at the time it became a holder.
+Any contract of insurance executed by the Secretary under this section may be assignable,shall be an obligation supported by the full faith and credit of the United States, and shall be incontestable except for fraud or misrepresentation of which the holder had actual knowledge at the time it became a holder.
 
 #### (e) Conditions and methods of payment as result of loss
 
@@ -74,7 +74,7 @@ In subsec. (c), “December 12, 1980” substituted for “the date of enactment
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–515 substituted provision authorizing the Secretary to establish and maintain aprogram by which he, upon application of a private lender, insure loans made by such lender to finance any project for the preservation of a property included on the National Register for provision prohibiting grants to surveys or projects receiving assistance from any other Federal program or activity.
+1980—Subsec. (a). Pub. L. 96–515 substituted provision authorizing the Secretary to establish and maintain a program by which he, upon application of a private lender, insure loans made by such lender to finance any project for the preservation of a property included on the National Register for provision prohibiting grants to surveys or projects receiving assistance from any other Federal program or activity.
 
 Subsec. (b). Pub. L. 96–515 substituted provision prescribing loan qualifications for provision authorizing the President, in order to assure consistency in policies and actions and coordination of planning, acquisition, and development assistance to States with other related Federal programs, to issue regulations as deemed desirable.
 

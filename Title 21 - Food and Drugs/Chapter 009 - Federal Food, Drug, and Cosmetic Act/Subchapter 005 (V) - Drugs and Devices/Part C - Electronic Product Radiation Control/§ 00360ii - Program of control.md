@@ -32,7 +32,7 @@ In carrying out the purposes of subsection (a) of this section, the Secretary is
 
 (1) Each recipient of assistance under this part pursuant to grants or contracts entered into under other than competitive bidding procedures shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
-(2) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients that are pertinent to the grants or contracts entered into under this part under other than competitive bidding procedures.
+(2) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to anybooks, documents, papers, and records of the recipients that are pertinent to the grants or contracts entered into under this part under other than competitive bidding procedures.
 
 (June 25, 1938, ch. 675, §532, formerly act July 1, 1944, ch. 373, title III, §532, formerly §356, as added Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1174; renumbered §532 and amended Pub. L. 101–629, §19(a)(1)(B), (2)(A), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §4(a)(2), Aug. 13, 1993, 107 Stat. 779.)
 

@@ -20,7 +20,7 @@
 
 #### (3) Special rule in case of assertion by partner's spouse of innocent spouse relief
 
-&emsp;(A) Notwithstanding section 6404(b), if the spouse of a partner asserts that section 6013(e)applies with respect to a liability that is attributable to any adjustment to a partnership item (including any liability for any penalties, additions to tax, or additional amounts relating to such adjustment), then such spouse may file with the Secretary within 60 days after the notice of computational adjustment is mailed to the spouse a request for abatement of the assessment specified in such notice. Upon receipt of such request, the Secretary shall abate the assessment. Any reassessment of the tax with respect to which an abatement is made under this subparagraph shall be subject to the deficiency procedures prescribed by subchapter B. The period for making any such reassessment shall not expire before the expiration of 60 days after the date of such abatement.
+&emsp;(A) Notwithstanding section 6404(b), if the spouse of a partner asserts that section 6013(e) applies with respect to a liability that is attributable to any adjustment to a partnership item (including any liability for any penalties, additions to tax, or additional amounts relating to such adjustment), then such spouse may file with the Secretary within 60 days after the notice of computational adjustment is mailed to the spouse a request for abatement of the assessment specified in such notice. Upon receipt of such request, the Secretary shall abate the assessment. Any reassessment of the tax with respect to which an abatement is made under this subparagraph shall be subject to the deficiency procedures prescribed by subchapter B. The period for making any such reassessment shall not expire before the expiration of 60 days after the date of such abatement.
 
 &emsp;(B) If the spouse files a petition with the Tax Court pursuant to section 6213 with respect to the request for abatement described in subparagraph (A), the Tax Court shall only have jurisdiction pursuant to this section to determine whether the requirements of section 6013(e) have been satisfied. For purposes of such determination, the treatment of partnership items (and the applicability of any penalties, additions to tax, or additional amounts) under the settlement, the final partnership administrative adjustment, or the decision of the court (whichever is appropriate) that gave rise to the liability in question shall be conclusive.
 
@@ -84,7 +84,7 @@
 
 #### (B) Time for filing claim
 
-&emsp;&emsp;Any claim under subparagraph (A) shall be filed within 6 months after the day on whichthe Secretary mails to the spouse the notice of computational adjustment referred to in subsection (a)(3)(A).
+&emsp;&emsp;Any claim under subparagraph (A) shall be filed within 6 months after the day on which the Secretary mails to the spouse the notice of computational adjustment referred to in subsection (a)(3)(A).
 
 #### (C) Suit if claim not allowed
 
@@ -98,7 +98,7 @@
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, no credit or refund of an overpayment attributable to a partnership item (or an affected item) for a partnership taxable year shall be allowed or made to any partner after the expiration of the period of limitation prescribed in section 6229 with respect to such partner for assessment of any tax attributable to such item.
+&emsp;Except as otherwise provided in this subsection, no credit or refund of an overpaymentattributable to a partnership item (or an affected item) for a partnership taxable year shall be allowed or made to any partner after the expiration of the period of limitation prescribed in section 6229 with respect to such partner for assessment of any tax attributable to such item.
 
 #### (2) Administrative adjustment request
 

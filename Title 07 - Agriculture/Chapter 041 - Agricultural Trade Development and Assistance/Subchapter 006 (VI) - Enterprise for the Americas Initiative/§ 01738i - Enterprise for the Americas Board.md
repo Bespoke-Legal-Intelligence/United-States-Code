@@ -12,7 +12,7 @@ There is established a board to be known as the “Enterprise for the Americas B
 
 &emsp;&emsp;(A) six representatives from the United States Government, at least one of whom shall be a representative of the Department of Agriculture; and
 
-&emsp;&emsp;(B) five representatives from private nongovernmental environmental, child survival and child development, community development, scientific, and academic organizations with experience and expertise in Latin America and the Caribbean, at least one of whom shall be a representative from a child survival and child development organization;
+&emsp;&emsp;(B) five representatives from private nongovernmental environmental, child survival and child development, community development, scientific, and academic organizations with experience and expertise in Latin America and the Caribbean, at least one ofwhom shall be a representative from a child survival and child development organization;
 
 > &emsp;to be appointed by the President.
 
@@ -46,5 +46,5 @@ Subsec. (b)(1)(B). Pub. L. 102–237, §339(2), substituted “five” for “fo
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1738f of this title; title 12 section 635i–6; title 22 section 2430a.
+This section is referred to in section 1738f of this title; title 12 section 635i–6; title 22 sections 2430a, 2431i.
 

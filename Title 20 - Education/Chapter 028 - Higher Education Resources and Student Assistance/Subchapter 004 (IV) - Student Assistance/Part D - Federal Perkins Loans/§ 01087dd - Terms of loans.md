@@ -48,7 +48,7 @@
 
 &emsp;(G) shall provide that no note or evidence of obligation may be assigned by the lender, except upon the transfer of the borrower to another institution participating under this part (or, if not so participating, is eligible to do so and is approved by the Secretary for such purpose), to such institution, and except as necessary to carry out section 1087cc(a)(6) <sup>1</sup> of this title;
 
-&emsp;(H) pursuant to regulations of the Secretary, shall provide for an assessment of a charge with respect to the loan for failure of the borrower to pay all or part of an installment when due, which shall include the expensesreasonably incurred in attempting collection of the loan, to the extent permitted by the Secretary, except that no charge imposed under this subparagraph shall exceed 20 percent of the amount of the monthly payment of the borrower; and
+&emsp;(H) pursuant to regulations of the Secretary, shall provide for an assessment of a charge with respect to the loan for failure of the borrower to pay all or part of an installment when due, which shall include the expenses reasonably incurred in attempting collection of the loan, to the extent permitted by the Secretary, except that no charge imposed under this subparagraph shall exceed 20 percent of the amount of the monthly payment of the borrower; and
 
 &emsp;(I) shall contain a notice of the system of disclosure of information concerning default on such loan to credit bureau organizations under section 1087cc(c) of this title.
 
@@ -104,7 +104,7 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 #### (f) Special repayment rule authority
 
-(1) Subject to such restrictions as the Secretary may prescribe to protect the interest of the United States, in order to encourage repayment of loans made under this part which are in default, the Secretary may, in the agreemententered into under this part, authorize an institution of higher education to compromise on the repayment of such defaulted loans in accordance with paragraph (2). The Federal share of the compromise repayment shall bear the same relation to the institution's share of such compromise repayment as the Federal capital contribution to the institution's loan fund under this part bears to the institution's capital contribution to such fund.
+(1) Subject to such restrictions as the Secretary may prescribe to protect the interest of the United States, in order to encourage repayment of loans made under this part which are in default, the Secretary may, in the agreement entered into under this part, authorize an institution of higher education to compromise on the repayment of such defaulted loans in accordance with paragraph (2). The Federal share of the compromise repayment shall bear the same relation to the institution's share of such compromise repayment as the Federal capital contribution to the institution's loan fund under this part bears to the institution's capital contribution to such fund.
 
 (2) No compromise repayment of a defaulted loan as authorized by paragraph (1) may be made unless the student borrower pays—
 
@@ -160,7 +160,7 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 #### (2) Restoration of eligibility
 
-&emsp;If the borrower of a loan made under this part who has defaulted on that loan makes 6 ontime, consecutive, monthly payments of amounts owed on such loan, the borrower's eligibility for grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 shall be restored to the extent that the borrower is otherwise eligible. A borrower only once may obtain the benefit of this paragraph with respect to restored eligibility.
+&emsp;If the borrower of a loan made under this part who has defaulted on that loan makes 6 ontime, consecutive, monthly payments of amounts owed on such loan, the borrower's eligibility for grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 shall be restored tothe extent that the borrower is otherwise eligible. A borrower only once may obtain the benefit of this paragraph with respect to restored eligibility.
 
 #### (i) Incentive repayment program
 
@@ -170,7 +170,7 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 &emsp;&emsp;(A) offer a reduction of the interest rate on a loan on which the borrower has made 48 consecutive, monthly repayments, but in no event may the rate be reduced by more than 1 percent;
 
-&emsp;&emsp;(B) provide for a discount on the balance owed on a loan on which the borrower pays the principal and interest in full prior to theend of the applicable repayment period, but in no event may the discount exceed 5 percent of the unpaid principal balance due on the loan at the time the early repayment is made; and
+&emsp;&emsp;(B) provide for a discount on the balance owed on a loan on which the borrower pays the principal and interest in full prior to the end of the applicable repayment period, but in no event may the discount exceed 5 percent of the unpaid principal balance due on the loan at the time the early repayment is made; and
 
 &emsp;&emsp;(C) include such other incentive repayment options as the institution determines will carry out the objectives of this subsection.
 
@@ -228,7 +228,7 @@ Subsec. (b)(2). Pub. L. 102–325, §464(c)(2), amended par. (2) generally. Prio
 
 Subsec. (c)(1)(C)(i). Pub. L. 102–325, §464(d), substituted “$40” for “$30” in two places.
 
-Subsec. (c)(1)(E). Pub. L. 102–325, §464(e), struck out “unless the borrower is a minor and the note or other evidence of obligation executed by him would not, under applicable law, create a binding obligation,” before “shall provide”.
+Subsec. (c)(1)(E). Pub. L. 102–325, §464(e), struck out “unless the borrower is a minor and the note or other evidence of obligation executed by him would not,under applicable law, create a binding obligation,” before “shall provide”.
 
 Subsec. (c)(2)(A). Pub. L. 102–325, §464(f), amended subpar. (A) generally, revising and restating as cls. (i) to (iv) provisions formerly contained in cls. (i) to (ix).
 
@@ -242,7 +242,7 @@ Subsec. (c)(4) to (6). Pub. L. 102–325, §464(g)(2)–(4), added par. (4), red
 
 Subsecs. (e), (f). Pub. L. 102–325, §464(h), added subsecs. (e) and (f).
 
-1989—Subsec. (c)(2)(A)(i). Pub. L. 101–239 inserted before semicolon at end “, except that no borrower shallbe eligible for a deferment under this clause, or a loan made under this part (other than a loan made under section 1078–2 or 1078–3 of this title), while serving in a medical internship or residency program”.
+1989—Subsec. (c)(2)(A)(i). Pub. L. 101–239 inserted before semicolon at end “, except that no borrower shall be eligible for a deferment under this clause, or a loan made under this part (other than a loan made under section 1078–2 or 1078–3 of this title), while serving in a medical internship or residency program”.
 
 1988—Subsec. (c)(2)(A)(v). Pub. L. 100–369 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

@@ -96,7 +96,7 @@ Subsec. (b). Pub. L. 105–178, §1110(b)(1), in introductory provisions, substi
 
 Subsec. (b)(1)(A). Pub. L. 105–178, §1110(b)(2), substituted “clause (xvi) of such section” for “clauses (xii) and (xvi) of such section”.
 
-Subsec. (b)(1)(A)(ii). Pub. L. 105–178, §1110(b)(3), substituted “a maintenance area” for “an area that wasdesignated as a nonattainment area but that was later redesignated by the Administrator of the Environmental Protection Agency as an attainment area under section 107(d) of the Clean Air Act (42 U.S.C. 7407(d))”.
+Subsec. (b)(1)(A)(ii). Pub. L. 105–178, §1110(b)(3), substituted “a maintenance area” for “an area that was designated as a nonattainment area but that was later redesignated by the Administrator of the Environmental Protection Agency as an attainment area under section 107(d) of the Clean Air Act (42 U.S.C. 7407(d))”.
 
 Subsec. (b)(5). Pub. L. 105–178, §1110(b)(4)–(6), added par. (5).
 

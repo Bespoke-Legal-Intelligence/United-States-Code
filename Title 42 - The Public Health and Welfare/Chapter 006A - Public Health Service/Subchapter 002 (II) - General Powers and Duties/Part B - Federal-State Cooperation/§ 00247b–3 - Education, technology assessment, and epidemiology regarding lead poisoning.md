@@ -8,7 +8,7 @@
 
 #### (2) Interagency Task Force
 
-&emsp;(A) Not later than 6 months after October 27, 1992, the Secretary shall establish a council to be known as the Interagency Task Force on the Prevention of Lead Poisoning (in this paragraph referred to as the “Task Force”). The Task Force shall coordinate the efforts of Federal agencies to prevent lead poisoning.
+&emsp;(A) Not later than 6 months after October 27, 1992, the Secretary shall establish a council to be known as the Interagency Task Force on the Prevention of Lead Poisoning (in thisparagraph referred to as the “Task Force”). The Task Force shall coordinate the efforts of Federal agencies to prevent lead poisoning.
 
 &emsp;(B) The Task Force shall be composed of—
 

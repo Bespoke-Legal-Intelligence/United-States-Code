@@ -13,13 +13,7 @@
 | [107\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000107%20-%20Acquisition%20of%20rights-of-way%E2%80%94Interstate%20System.md) | Acquisition of rights-of-way—Interstate System. |
 | [108\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000108%20-%20Advance%20acquisition%20of%20real%20property.md) | Advance acquisition of real property. |
 | [109\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000109%20-%20Standards.md) | Standards. |
-| 110\.<sup>1</sup> | Uniform transferability of Federal-aid highway funds. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| 110\.<sup>1</sup> | Revenue aligned budget authority. |
+| [110\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000110%20-%20Revenue%20aligned%20budget%20authority.md) | Revenue aligned budget authority. |
 | [111\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000111%20-%20Agreements%20relating%20to%20use%20of%20and%20access%20to%20rights-of-way%E2%80%94Interstate%20System.md) | Agreements relating to use of and access to rights-of-way—Interstate System. |
 | [112\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000112%20-%20Letting%20of%20contracts.md) | Letting of contracts. |
 | [113\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000113%20-%20Prevailing%20rate%20of%20wage.md) | Prevailing rate of wage. |
@@ -35,7 +29,7 @@
 | [123\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000123%20-%20Relocation%20of%20utility%20facilities.md) | Relocation of utility facilities. |
 | [124\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000124%20-%20Advances%20to%20States.md) | Advances to States. |
 | [125\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000125%20-%20Emergency%20relief.md) | Emergency relief. |
-| \[126. | Repealed.\] |
+| [126\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000126%20-%20Uniform%20transferability%20of%20Federal-aid%20highway%20funds.md) | Uniform transferability of Federal-aid highway funds. |
 | [127\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000127%20-%20Vehicle%20weight%20limitations%E2%80%94Interstate%20System.md) | Vehicle weight limitations—Interstate System. |
 | [128\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000128%20-%20Public%20hearings.md) | Public hearings. |
 | [129\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000129%20-%20Toll%20roads%2C%20bridges%2C%20tunnels%2C%20and%20ferries.md) | Toll roads, bridges, tunnels, and ferries. |
@@ -94,6 +88,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–159, title I, §102(b), Dec. 9, 1999, 113 Stat. 1753, struck out item 110 “Uniform transferability of Federal-aid highway funds”, added item 126, and made technical amendment to item 163.
 
 1998—Pub. L. 105–178, title I, §§1103(<i>l</i>)(5), 1226(d), 1405(b), 1406(b), as added by Pub. L. 105–206, title IX, §§9002(c)(1), 9003(a), 9005(a), July 22, 1998, 112 Stat. 834, 837, 843, struck out item 126 “Diversion” and item 150 “Allocation of urban system funds”, and added items 154 and 164.
 

@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(B) requested, or proposed to be requested, for those programs for each of the 2 fiscal years following the fiscal year for which the report is submitted; and
 
-&emsp;(8) a description of each weapon system or other military equipment originally developed or procured in the United States and that is being developed or procured by members of the Organization other than the United States during the fiscal year for which the report is submitted.
+&emsp;(8) a description of each weapon system or other military equipment originally developed or procured in the United States and that is being developed or procured by members of theOrganization other than the United States during the fiscal year for which the report is submitted.
 
 (e) If the Secretary decides that procurement of equipment manufactured outside the United States is necessary to carry out the policy of subsection (a), the Secretary may determine under section 2 of the Buy American Act (41 U.S.C. 10a) that acquiring that equipment manufactured in the United States is inconsistent with the public interest.
 

@@ -22,7 +22,7 @@ Loans guaranteed pursuant to this section shall meet the following requirements:
 
 #### (4) Lenders
 
-&emsp;The loan shall be made only by a lender approved by and meeting qualifications established by the Secretary, except that loans otherwise insured or guaranteed by an agencyof the Federal Government or made by an organization of Indians from amounts borrowed from the United States shall not be eligible for guarantee under this section. The following lenders are deemed to be approved under this paragraph:
+&emsp;The loan shall be made only by a lender approved by and meeting qualifications established by the Secretary, except that loans otherwise insured or guaranteed by an agency of the Federal Government or made by an organization of Indians from amounts borrowed from the United States shall not be eligible for guarantee under this section. The following lenders are deemed to be approved under this paragraph:
 
 &emsp;&emsp;(A) Any mortgagee approved by the Secretary of Housing and Urban Development for participation in the single family mortgage insurance program under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\].
 
@@ -88,7 +88,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 &emsp;&emsp;(B) bar such lender or holder from acquiring additional loans guaranteed under this section; and
 
-&emsp;&emsp;(C) require that such lender or holder assume not less than 10 percent of any loss onfurther loans made or held by the lender or holder that are guaranteed under this section.
+&emsp;&emsp;(C) require that such lender or holder assume not less than 10 percent of any loss on further loans made or held by the lender or holder that are guaranteed under this section.
 
 #### (2) Civil money penalties for intentional violations
 
@@ -302,7 +302,7 @@ Subsec. (b)(1). Pub. L. 104–330, §701(a)(2), substituted “, Indian housing
 
 Subsec. (b)(2). Pub. L. 104–330, §701(c), inserted before period at end “that is under the jurisdiction of an Indian tribe for which an Indian housing plan has been submitted and approved pursuant to sections 102 and 103 of the Native American Housing Assistance and Self-Determination Act of 1996 that provides for the use of loan guarantees under this section to provide affordable homeownership housing in such areas”.
 
-Subsec. (b)(5)(C)(i). Pub. L. 104–330, §701(i), added cl. (i) and struck out former cl. (i) which read as follows: “an amount equal to the sum of (I) 97 percent of $25,000 of the appraised value of the property, as of the datethe loan is accepted for guarantee, and (II) 95 percent of such value in excess of $25,000; and”.
+Subsec. (b)(5)(C)(i). Pub. L. 104–330, §701(i), added cl. (i) and struck out former cl. (i) which read as follows: “an amount equal to the sum of (I) 97 percent of $25,000 of the appraised value of the property, as of the date the loan is accepted for guarantee, and (II) 95 percent of such value in excess of $25,000; and”.
 
 Subsec. (h)(1)(A)(i). Pub. L. 104–330, §701(d)(1)(A), struck out “in a court of competent jurisdiction” after “foreclosure proceedings” in first sentence.
 

@@ -20,4 +20,4 @@ This subchapter is referred to in sections 290f, 2151, 2151–1, 2151a, 2151b, 2
 - [Part 009 (IX) - International Disaster Assistance](Part%20009%20%28IX%29%20-%20International%20Disaster%20Assistance/README.md)
 - [Part 010 (X) - Development Fund for Africa](Part%20010%20%28X%29%20-%20Development%20Fund%20for%20Africa/README.md)
 - [Part 011 (XI) - Support for Economic and Democratic Development of the Independent States of the Former Soviet Union](Part%20011%20%28XI%29%20-%20Support%20for%20Economic%20and%20Democratic%20Development%20of%20the%20Independent%20States%20of%20the%20Former%20Soviet%20Union/README.md)
-- [Part 012 (XII) - Enterprise for the Americas Initiative](Part%20012%20%28XII%29%20-%20Enterprise%20for%20the%20Americas%20Initiative/README.md)
+- [Part 012 (XII) - Support for the Economic and Political Independence of the Countries of the South Caucasus and Central Asia](Part%20012%20%28XII%29%20-%20Support%20for%20the%20Economic%20and%20Political%20Independence%20of%20the%20Countries%20of%20the%20South%20Caucasus%20and%20Central%20Asia/README.md)

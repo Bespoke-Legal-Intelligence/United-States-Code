@@ -2,11 +2,11 @@
 
 #### (a) Public benefit
 
-Congress declares that, if a facility constructed with the aid of a grant under part A of subchapter VII of this chapter as such part A was in effect prior to October 7, 1998, or part B of such subchapter as part B was in effect prior to July 23, 1992, is used as an academic facility for 20 years following completion of such construction, the public benefit accruing to the United States will equal in value the amount of the grant. The period of 20 years after completion of such construction shall therefore be deemed to be the period of Federal interest in such facility for the purposes of such subchapter as so in effect.
+Congress declares that, if a facility constructed with the aid of a grant under part A of subchapter VII of this chapter as such part A was in effect prior to October 7, 1998, or part B of such subchapter as part B was in effect prior to July 23, 1992, is used as an academic facility for 20 years following completion of such construction, the public benefit accruing to the United States will equal in value the amount of the grant. The period of 20 years after completion of such construction shall therefore bedeemed to be the period of Federal interest in such facility for the purposes of such subchapter as so in effect.
 
 #### (b) Recovery upon cessation of public benefit
 
-If, within 20 years after completion of construction of an academic facility which has beenconstructed, in part with a grant under part A of subchapter VII of this chapter as such part A was in effect prior to October 7, 1998, or part B of subchapter VII of this chapter as such part B was in effect prior to July 23, 1992—
+If, within 20 years after completion of construction of an academic facility which has been constructed, in part with a grant under part A of subchapter VII of this chapter as such part A was in effect prior to October 7, 1998, or part B of subchapter VII of this chapter as such part B was in effect prior to July 23, 1992—
 
 &emsp;(1) the applicant under such parts as so in effect (or the applicant's successor in title or possession) ceases or fails to be a public or nonprofit institution; or
 

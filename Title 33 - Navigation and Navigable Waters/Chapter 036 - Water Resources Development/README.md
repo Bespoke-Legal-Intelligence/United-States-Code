@@ -242,8 +242,9 @@
 | (b) | Commercial application. |
 | [2314\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002314%20-%20Innovative%20technology.md) | Innovative technology. |
 | (a) | Use. |
-| (b) | Reports. |
-| (c) | “Innovative technology” defined. |
+| (b) | Accelerated adoption of innovative technologies for management of contaminated sediments. |
+| (c) | Reports. |
+| (d) | “Innovative technology” defined. |
 | [2314a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002314a%20-%20Technical%20assistance%20program.md) | Technical assistance program. |
 | (a) | In general. |
 | (b) | Federal employees’ inventions. |
@@ -260,11 +261,12 @@
 | (d) | Wetlands restoration and enhancement demonstration program. |
 | (e) | Training and certification of delineators. |
 | [2318\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002318%20-%20Flood%20plain%20management.md) | Flood plain management. |
-| (a) | Benefit-cost analysis. |
-| (b) | Counties substantially located within 100-year flood plain. |
-| (c) | Cost sharing. |
-| (d) | Regulations. |
-| (e) | Applicability. |
+| (a) | Exclusion of elements from benefit-cost analysis. |
+| (b) | Flood damage reduction benefits. |
+| (c) | Counties substantially located within 100-year flood plain. |
+| (d) | Cost sharing. |
+| (e) | Regulations. |
+| (f) | Applicability. |
 | [2319\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002319%20-%20Reservoir%20management.md) | Reservoir management. |
 | [2320\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002320%20-%20Protection%20of%20recreational%20and%20commercial%20uses.md) | Protection of recreational and commercial uses. |
 | (a) | General rule. |
@@ -304,6 +306,7 @@
 | (d) | Determination of construction costs. |
 | (e) | Selection of dredged material disposal method. |
 | (f) | Authorization of appropriations. |
+| (g) | Nonprofit entities. |
 | [2326a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002326a%20-%20Dredged%20material%20disposal%20facility%20partnerships.md) | Dredged material disposal facility partnerships. |
 | (a) | Additional capacity. |
 | (b) | Non-Federal use of disposal facilities. |
@@ -331,6 +334,41 @@
 | (c) | Agreements. |
 | (d) | Cost limitation. |
 | (e) | Funding. |
+| [2331\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002331%20-%20Use%20of%20continuing%20contracts%20for%20construction%20of%20certain%20projects.md) | Use of continuing contracts for construction of certain projects. |
+| (a) | In general. |
+| (b) | Continuing contracts. |
+| (c) | Initiation of construction clarified. |
+| [2332\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002332%20-%20Flood%20mitigation%20and%20riverine%20restoration%20program.md) | Flood mitigation and riverine restoration program. |
+| (a) | In general. |
+| (b) | Studies and projects. |
+| (c) | Cost-sharing requirements. |
+| (d) | Project justification. |
+| (e) | Priority areas. |
+| (f) | Program review. |
+| (g) | Maximum Federal cost per project. |
+| (h) | Procedure. |
+| (i) | Authorization of appropriations. |
+| [2333\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002333%20-%20Irrigation%20diversion%20protection%20and%20fisheries%20enhancement%20assistance.md) | Irrigation diversion protection and fisheries enhancement assistance. |
+| (a) | In general. |
+| (b) | Cooperation. |
+| (c) | Priority. |
+| (d) | Non-Federal share. |
+| (e) | No construction activity. |
+| (f) | Report. |
+| [2334\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002334%20-%20Innovative%20technologies%20for%20watershed%20restoration.md) | Innovative technologies for watershed restoration. |
+| [2335\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002335%20-%20Coastal%20aquatic%20habitat%20management.md) | Coastal aquatic habitat management. |
+| (a) | In general. |
+| (b) | Assistance. |
+| (c) | Cost sharing. |
+| (d) | Operation and maintenance. |
+| (e) | Authorization of appropriations. |
+| [2336\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002336%20-%20Abandoned%20and%20inactive%20noncoal%20mine%20restoration.md) | Abandoned and inactive noncoal mine restoration. |
+| (a) | In general. |
+| (b) | Specific measures. |
+| (c) | Non-Federal share. |
+| (d) | Effect on authority of Secretary of the Interior. |
+| (e) | Technology database for reclamation of abandoned mines. |
+| (f) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

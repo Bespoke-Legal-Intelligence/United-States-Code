@@ -4,6 +4,10 @@ The Secretary of the Interior (hereinafter called the “Secretary”) is author
 
 (Pub. L. 86–339, §1, Sept. 21, 1959, 73 Stat. 602.)
 
+#### Short Title
+
+Pub. L. 86–339, Sept. 21, 1959, 73 Stat. 602, as amended, which enacted this subchapter, is popularly known as the “Aqua Caliente Equalization Act of 1959”.
+
 #### Expiration of Restriction on Distribution of Revenues From Mineral Springs Parcel
 
 Pub. L. 105–308, Oct. 30, 1998, 112 Stat. 2932, provided that:
@@ -34,7 +38,7 @@ Pub. L. 105–308, Oct. 30, 1998, 112 Stat. 2932, provided that:
 
 &emsp;“(6) in 1968, the files of the Department of the Interior with respect to the case referred to in paragraph (3), the closure of which was contingent upon completion of the equalization program, were retired to the Federal Record Center, where they were subsequently destroyed;
 
-&emsp;“(7) on March 16, 1983, the Secretary of the Interior published notice in the Federal Register that full equalization had been achieved within the meaning of section 7 of the Act (25 U.S.C. 957);
+&emsp;“(7) on March 16, 1983, the Secretary of the Interior published notice in the Federal Register that fullequalization had been achieved within the meaning of section 7 of the Act (25 U.S.C. 957);
 
 &emsp;“(8) section 7 of the Act states that ‘allotments in accordance with the provisions of this Act shall be deemed complete and full equalization of allotments on the Agua Caliente Reservation’; and
 

@@ -88,7 +88,7 @@ A grant under subsection (a) of this section shall be made for a period not long
 
 #### (i) Guidelines
 
-The Attorney General shall, by regulation, prescribe guidelines on content and results for programs receiving a grant under subsection (a)of this section. Such guidelines shall be designed to establish programs which will be effective in training individuals to enter instructional programs for police departments and shall include requirements for—
+The Attorney General shall, by regulation, prescribe guidelines on content and results for programs receiving a grant under subsection (a) of this section. Such guidelines shall be designed to establish programs which will be effective in training individuals to enter instructional programs for police departments and shall include requirements for—
 
 &emsp;(1) individuals providing recruiting services;
 

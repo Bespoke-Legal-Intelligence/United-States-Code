@@ -48,7 +48,7 @@ For the purposes of this section—
 
 #### (2) State and local jurisdiction
 
-&emsp;Nothing in this section shall be construed to diminish, enlarge, or modify any right of the Commonwealth of Massachusetts or any political subdivision thereof, to exercise civil and criminal jurisdiction or to carry out State laws, rules, and regulations within the recreation area, including those relating to fish and wildlife, or to tax persons, corporations, franchises, or private property on the lands and waters included in the recreation area.
+&emsp;Nothing in this section shall be construed to diminish, enlarge, or modify any right of theCommonwealth of Massachusetts or any political subdivision thereof, to exercise civil and criminal jurisdiction or to carry out State laws, rules, and regulations within the recreation area, including those relating to fish and wildlife, or to tax persons, corporations, franchises, or private property on the lands and waters included in the recreation area.
 
 #### (3) Cooperative agreements
 
@@ -112,7 +112,7 @@ For the purposes of this section—
 
 #### (4) Compensation
 
-&emsp;Members of the Partnership shall serve without pay, but while away from their homes or regular places of business in the performance of services for the Partnership, members shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
+&emsp;Members of the Partnership shall serve without pay, but while away from their homesor regular places of business in the performance of services for the Partnership, members shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
 
 #### (5) Election of officers
 
@@ -194,7 +194,7 @@ For the purposes of this section—
 
 &emsp;In developing the plan, the Partnership shall—
 
-&emsp;&emsp;(A) consult on a regular basis with appropriate officials of any local government or Federal or State agency which has jurisdiction over lands and waters within the recreation area;
+&emsp;&emsp;(A) consult on a regular basis with appropriate officials of any local government orFederal or State agency which has jurisdiction over lands and waters within the recreation area;
 
 &emsp;&emsp;(B) consult with interested conservation, business, professional, and citizen organizations; and
 

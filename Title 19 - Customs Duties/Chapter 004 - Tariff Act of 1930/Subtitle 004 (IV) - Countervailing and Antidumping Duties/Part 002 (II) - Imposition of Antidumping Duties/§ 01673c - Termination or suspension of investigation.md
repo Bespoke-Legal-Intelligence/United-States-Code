@@ -162,7 +162,7 @@ If the administering authority, within 20 days after the date of publication of 
 
 #### (3) Suspension of liquidation to continue during review period
 
-&emsp;The suspension of liquidation of entries of the subject merchandise shall terminate at the close of the 20-day period beginning on the day after the date on which notice of suspension of the investigation is published in the Federal Register, or, if a review petition is filed under paragraph (1) with respect to the suspension of the investigation, in the case of an affirmative determination by the Commission under paragraph (2), the date on which notice of an affirmative determination by the Commission is published. If the determination of the Commission under paragraph (2) is affirmative, then the administering authority shall—
+&emsp;The suspension of liquidation of entries of the subject merchandise shall terminate atthe close of the 20-day period beginning on the day after the date on which notice of suspension of the investigation is published in the Federal Register, or, if a review petition is filed under paragraph (1) with respect to the suspension of the investigation, in the case of an affirmative determination by the Commission under paragraph (2), the date on which notice of an affirmative determination by the Commission is published. If the determination of the Commission under paragraph (2) is affirmative, then the administering authority shall—
 
 &emsp;&emsp;(A) terminate the suspension of liquidation under section 1673b(d)(2) of this title, and
 

@@ -12,11 +12,11 @@ Reinsurance coverage under this section may be provided immediately following Au
 
 &emsp;(1) the termination of such ninety-day period, or
 
-&emsp;(2) the effective date of any governing contract, agreement, treaty, or other arrangement entered into between the insurer or pool and the Director under section 1749bbb–8 of this title for the purpose of providing reinsurance coverage against losses resulting from riots or civil disorders.
+&emsp;(2) the effective date of any governing contract, agreement, treaty, or other arrangement entered into between the insurer or pool and the Director under section 1749bbb–8 ofthis title for the purpose of providing reinsurance coverage against losses resulting from riots or civil disorders.
 
 #### (c) Participation in State plan or pool
 
-No reinsurance shall be offered to any insurer or pool in a State after the expiration of the written binder entered into under subsection (b)of this section, unless there is in effect in such State a plan as set forth under part A and the insurer or pool is participating in such plan, and unless, in the case of an insurer in a State where a pool has been established pursuant to State Law, the insurer is participating in such a pool.
+No reinsurance shall be offered to any insurer or pool in a State after the expiration of the written binder entered into under subsection (b) of this section, unless there is in effect in such State a plan as set forth under part A and the insurer or pool is participating in such plan, and unless, in the case of an insurer in a State where a pool has been established pursuant to State Law, the insurer is participating in such a pool.
 
 (June 27, 1934, ch. 847, title XII, §1221, as added Pub. L. 90–448, title XI, §1103, Aug. 1, 1968, 82 Stat. 560; amended Pub. L. 91–609, title VI, §602(c), Dec. 31, 1970, 84 Stat. 1789; Pub. L. 98–181, title IV, §452(b)(1), Nov. 30, 1983, 97 Stat. 1230.)
 

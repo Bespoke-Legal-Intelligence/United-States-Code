@@ -34,11 +34,11 @@
 
 #### References in Text
 
-The date of enactment of the Antiterrorism and Effective Death Penalty Act of 1996, referred to in subsec.\(c)(2), is the date of enactment of Pub. L. 104–132, which was approved Apr. 24, 1996.
+The date of enactment of the Antiterrorism and Effective Death Penalty Act of 1996, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 104–132, which was approved Apr. 24, 1996.
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–132, §605(1), inserted “(<i>l</i>), (m), (n), or (<i>o</i>) of section 842 and subsections” after “subsections” in introductory provisions and “, and which pertain to safety” before semicolon at end of par. (1).
+1996—Subsec. (a). Pub. L. 104–132, §605(1), inserted “(<i>l</i>), (m), (n), or (<i>o</i>) of section 842 and subsections” after“subsections” in introductory provisions and “, and which pertain to safety” before semicolon at end of par. (1).
 
 Subsec. (c). Pub. L. 104–132, §605(2), added subsec. (c).
 

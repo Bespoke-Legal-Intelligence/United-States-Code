@@ -2,7 +2,11 @@
 
 The President shall receive in full for his services during the term for which he shall have been elected compensation in the aggregate amount of $200,000 a year, to be paid monthly, and in addition an expense allowance of $50,000 to assist in defraying expenses relating to or resulting from the discharge of his official duties, for which expense allowance no accounting, other than for income tax purposes, shall be made by him. He shall be entitled also to the use of the furniture and other effects belonging to the United States and kept in the Executive Residence at the White House.
 
-(June 25, 1948, ch. 644, 62 Stat. 678; Jan. 19, 1949, ch. 2, §1(a), 63 Stat. 4; Oct. 20, 1951, ch. 521, title VI, §619(a), 65 Stat. 569; Pub. L. 91–1, §1, Jan. 17, 1969, 83 Stat. 3; Pub. L. 95–570, §5(a), Nov. 2, 1978, 92 Stat. 2450.)
+(June 25, 1948, ch. 644, 62 Stat. 678; Jan. 19, 1949, ch. 2, §1(a), 63 Stat. 4; Oct. 20, 1951, ch. 521, title VI, §619(a), 65 Stat. 569; Pub. L. 91–1, §1, Jan. 17, 1969, 83 Stat. 3; Pub. L. 95–570, §5(a), Nov. 2, 1978, 92 Stat. 2450; Pub. L. 106–58, title VI, §644(a), Sept. 29, 1999, 113 Stat. 478.)
+
+#### Amendment of Section
+
+<i>Pub. L. 106–58, title VI, §644, Sept. 29, 1999, 113 Stat. 478, provided that, effective at noon on Jan. 20, 2001, this section is amended by striking “$200,000” and inserting “$400,000”.</i>
 
 #### Amendments
 
@@ -14,6 +18,10 @@ The President shall receive in full for his services during the term for which h
 
 1949—Act Jan. 19, 1949, increased salary from $75,000 to $100,000 per year, and gave President a yearly expense account of $50,000 for which he was to make no accounting and which was tax free.
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–58, title VI, §644(b), Sept. 29, 1999, 113 Stat. 478, provided that: “The amendment made by this section \[amending this section\] shall take effect at noon on January 20, 2001.”
+
 #### Effective Date of 1978 Amendment
 
 Section 6(a) of Pub. L. 95–570 provided that: “The amendments made by this Act \[enacting sections 107, 108, 112, 113, and 114 of this title, amending sections 102, 103, 105, 106, 109, 110, and 202 of this title, repealing section 107 of this title, and enacting provisions set out as a note under section 107 of this title\] shall apply to any fiscal year which begins on or after October 1, 1978.”
@@ -24,7 +32,7 @@ Section 2 of Pub. L. 91–1 provided that: “The amendment made by this Act \[a
 
 #### Effective Date of 1951 Amendment
 
-Section 619(e) of act Oct. 20, 1951, provided that: “The amendments made by subsections (a) and (b) of this section \[amending this section and section 111 of this title\] shall become effective at noon on January 20, 1953, and the amendments made by subsections (c) and (d) \[amending sections 31a and 31b of Title 2, The Congress\] shall become effective at noon on January 3, 1953.”
+Section 619(e) of act Oct. 20, 1951, provided that: “The amendments made by subsections (a) and (b) of thissection \[amending this section and section 111 of this title\] shall become effective at noon on January 20, 1953, and the amendments made by subsections (c) and (d) \[amending sections 31a and 31b of Title 2, The Congress\] shall become effective at noon on January 3, 1953.”
 
 #### Effective Date of 1949 Amendment
 
@@ -148,7 +156,7 @@ Sec. 6. (a) There are hereby authorized to be appropriated to the Administrator 
 
 “(b) The amounts authorized to be appropriated under subsection (a) shall be increased by an inflation adjusted amount, based on increases in the cost of transition services and expenses which have occurred in the years following the most recent Presidential transition, and shall be included in the proposed appropriation transmitted by the President under the last sentence of subsection (a).”
 
-\[Pub. L. 100–398, §2(b), Aug. 17, 1988, 102 Stat. 985, provided that: “The amendments made by subsection (a) of this section \[renumbering and amending section 6 of Pub. L. 88–277, set out above\] shall be effective upon enactment \[Aug. 17, 1988\], except that the amendment made by paragraph (7) of such subsection \[enacting subsec. (b) of section 6 of Pub. L. 88–277, set out above\] shall take effect on October 1, 1989.”\]
+\[Pub. L. 100–398, §2(b), Aug. 17, 1988, 102 Stat. 985, provided that: “The amendments made by subsection (a) ofthis section \[renumbering and amending section 6 of Pub. L. 88–277, set out above\] shall be effective upon enactment \[Aug. 17, 1988\], except that the amendment made by paragraph (7) of such subsection \[enacting subsec. (b) of section 6 of Pub. L. 88–277, set out above\] shall take effect on October 1, 1989.”\]
 
 \[Pub. L. 94–499, §3, Oct. 14, 1976, 90 Stat. 2380, provided that amendment of section 5 of Pub. L. 88–277 \[set out above\] by section 1 of Pub. L. 94–499, respecting revision of appropriation authorization, shall be effective Oct. 14, 1976.\]
 
@@ -157,6 +165,8 @@ Sec. 6. (a) There are hereby authorized to be appropriated to the Administrator 
 #### Expense Allowance: Use; Reversion of Unexpended Portion; Nontaxable
 
 Provisions prohibiting expenditure of funds made available for official expenses for any other purpose, requiring reversion of any unused amount to the Treasury pursuant to 31 U.S.C. 1552, and providing that none of the funds made available for official expenses shall be considered as taxable to the President were contained in the following appropriation acts:
+
+Pub. L. 106–58, title III, Sept. 29, 1999, 113 Stat. 444.
 
 Pub. L. 105–277, div. A, §101(h) \[title III\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–492.
 
@@ -232,7 +242,7 @@ Pub. L. 85–745, Aug. 25, 1958, 72 Stat. 838, as amended by Pub. L. 86–682, �
 
 “(g) There are authorized to be appropriated to the Administrator of General Services up to $1,000,000 for each former President and up to $500,000 for the spouse of each former President each fiscal year for security and travel related expenses: <i>Provided</i>, That under the provisions set forth in section 3056, paragraph (a), subparagraph (3) of title 18, United States Code, the former President and/or spouse was not receiving protection for a lifetime provided by the United States Secret Service under section 3056 paragraph (a) subparagraph (3) of title 18, United States Code; the protection provided by the United States Secret Service expired at its designated time; or the protection provided by the United States Secret Service was declined prior to authorized expiration in lieu of these funds.”
 
-\[Pub. L. 95–138, §2, Oct. 18, 1977, 91 Stat. 1170, provided that: “The amendment made by the first section of this Act \[amending Pub. L. 87–745, set out above\] shall take effect October 1, 1977.”\]
+\[Pub. L. 95–138, §2, Oct. 18, 1977, 91 Stat. 1170, provided that: “The amendment made by the first section of thisAct \[amending Pub. L. 87–745, set out above\] shall take effect October 1, 1977.”\]
 
 #### Former President Eisenhower; Allowance; Compensation of Office Staff; Widow's Pension
 
@@ -240,5 +250,5 @@ Allowance to former President Eisenhower as precluding entitlement to pay of Gen
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 1091; title 31 section 3524; title 38 section 7437.
+This section is referred to in title 10 section 1091; title 20 section 1018; title 31 section 3524; title 38 section 7437.
 

@@ -6,7 +6,7 @@ In General.—The Secretary shall terminate the insurance program in accordance 
 
 (b)
 
-Termination of New Enrollments.—The Secretary may not enroll a member of theReady Reserve for coverage under the insurance program after the date of the enactment of this section.
+Termination of New Enrollments.—The Secretary may not enroll a member of the Ready Reserve for coverage under the insurance program after the date of the enactment of this section.
 
 (c)
 

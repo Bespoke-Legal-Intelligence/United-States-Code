@@ -10,7 +10,7 @@ As used in this chapter:
 
 #### (2) Breeder
 
-&emsp;The term “breeder” means the person who directs the final breeding creating a variety or who discovers and develops a variety. If the actions are conducted by an agent on behalf of a principal, the principal, rather than the agent, shall be considered the breeder. The term does not include a person who redevelops or rediscovers a variety the existence of which is publicly known or a matter of common knowledge.
+&emsp;The term “breeder” means the person who directs the final breeding creating a variety orwho discovers and develops a variety. If the actions are conducted by an agent on behalf of a principal, the principal, rather than the agent, shall be considered the breeder. The term does not include a person who redevelops or rediscovers a variety the existence of which is publicly known or a matter of common knowledge.
 
 #### (3) Essentially derived variety
 
@@ -70,7 +70,7 @@ For the purposes of this chapter:
 
 #### (4) Application for protection or entering into a register of varieties
 
-&emsp;The filing of an application for the protection or for the entering of a variety in an official register of varieties, in any country, shall be considered to render the variety a matter of common knowledge from the date of the application, if the application leads to the granting of protection or to the entering of the varietyin the official register of varieties, as the case may be.
+&emsp;The filing of an application for the protection or for the entering of a variety in an official register of varieties, in any country, shall be considered to render the variety a matter of common knowledge from the date of the application, if the application leads to the granting of protection or to the entering of the variety in the official register of varieties, as the case may be.
 
 #### (5) Distinctness
 

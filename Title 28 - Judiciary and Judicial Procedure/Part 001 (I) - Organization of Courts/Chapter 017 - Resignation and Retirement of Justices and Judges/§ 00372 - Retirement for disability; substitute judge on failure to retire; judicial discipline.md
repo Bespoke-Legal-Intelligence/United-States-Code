@@ -22,7 +22,7 @@ Each justice or judge retiring under this section after serving ten years contin
 
 &emsp;(A) dismiss the complaint, if he finds it to be (i) not in conformity with paragraph (1) of this subsection, (ii) directly related to the merits of a decision or procedural ruling, or (iii) frivolous; or
 
-&emsp;(B) conclude the proceeding if he finds that appropriate corrective action has been takenor that action on the complaint is no longer necessary because of intervening events.
+&emsp;(B) conclude the proceeding if he finds that appropriate corrective action has been taken or that action on the complaint is no longer necessary because of intervening events.
 
 > The chief judge shall transmit copies of his written order to the complainant and to the judge or magistrate whose conduct is the subject of the complaint.
 
@@ -104,13 +104,13 @@ Each justice or judge retiring under this section after serving ten years contin
 
 &emsp;(B) the judicial council of the circuit, the Judicial Conference of the United States, or the Senate or the House of Representatives by resolution, releases any such material which is believed necessary to an impeachment investigation or trial of a judge under article I of the Constitution; or
 
-&emsp;(C) such disclosure is authorized in writing by the judge or magistrate who is the subject of the complaint and by the chief judge of the circuit, the Chief Justice, or the chairman of the standing committee established under section 331 of this title.
+&emsp;(C) such disclosure is authorized in writing by the judge or magistrate who is the subject of the complaint and by the chief judge of the circuit, the Chief Justice, or the chairman ofthe standing committee established under section 331 of this title.
 
 (15) Each written order to implement any action under paragraph (6)(B) of this subsection, which is issued by a judicial council, the Judicial Conference, or the standing committee established under section 331 of this title, shall be made available to the public through the appropriate clerk's office of the court of appeals for the circuit. Unless contrary to the interests of justice, each such order issued under this paragraph shall be accompanied by written reasons therefor.
 
 (16) Upon the request of a judge or magistrate whose conduct is the subject of a complaint under this subsection, the judicial council may, if the complaint has been finally dismissed under paragraph (6)(C), recommend that the Director of the Administrative Office of the United States Courts award reimbursement, from funds appropriated to the Federal judiciary, for those reasonable expenses, including attorneys’ fees, incurred by that judge or magistrate during the investigation which would not have been incurred but for the requirements of this subsection.
 
-(17) Except as expressly provided in this subsection, nothing in this subsection shall be construed to affect any other provision of this title, the Federal Rules of Civil Procedure, the Federal Rules of Criminal Procedure, the FederalRules of Appellate Procedure, or the Federal Rules of Evidence.
+(17) Except as expressly provided in this subsection, nothing in this subsection shall be construed to affect any other provision of this title, the Federal Rules of Civil Procedure, the Federal Rules of Criminal Procedure, the Federal Rules of Appellate Procedure, or the Federal Rules of Evidence.
 
 (18) The United States Court of Federal Claims, the Court of International Trade, and the Court of Appeals for the Federal Circuit shall each prescribe rules, consistent with the foregoing provisions of this subsection, establishing procedures for the filing of complaints with respect to the conduct of any judge of such court and for the investigation and resolution of such complaints. In investigating and taking action with respect to any such complaint, each such court shall have the powers granted to a judicial council under this subsection.
 
@@ -288,7 +288,7 @@ Vacancy.—A vacancy on the Commission resulting from the death or resignation o
 
 “(f)
 
-Continuation of Membership.—If any member of the Commission who was appointed to the Commission as a Member of Congress or as an officer or employee of a government leaves that office, or if any member of the Commission who was appointed from persons who are not officers or employees of a government becomes an officer or employee of a government, the member may continue as a member of the Commission for not longer than the 90-day period beginning on the date the member leaves that office or becomes such an officer or employee, as the case may be.
+Continuation of Membership.—If any member of the Commission who was appointed to the Commissionas a Member of Congress or as an officer or employee of a government leaves that office, or if any member of the Commission who was appointed from persons who are not officers or employees of a government becomes an officer or employee of a government, the member may continue as a member of the Commission for not longer than the 90-day period beginning on the date the member leaves that office or becomes such an officer or employee, as the case may be.
 
 #### “SEC. 412. COMPENSATION OF THE COMMISSION.
 

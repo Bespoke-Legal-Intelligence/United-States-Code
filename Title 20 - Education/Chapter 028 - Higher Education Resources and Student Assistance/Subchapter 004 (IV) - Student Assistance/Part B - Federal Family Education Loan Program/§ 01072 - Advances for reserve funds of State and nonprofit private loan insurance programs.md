@@ -30,7 +30,7 @@
 
 #### (1) In general
 
-&emsp;The total of the advances from the sums appropriated pursuant to paragraph (4)(A) of section 1071(b) of this title to nonprofit private institutions and organizations for the benefit of students in any State and to such State may not exceed an amount which bears the same ratio to such sums as the population of such State aged 18 to 22, inclusive, bears to the population of all the States aged 18 to 22 inclusive, but such advances may otherwise be in such amounts as the Secretary determines will best achieve the purposes for which they are made. The amount available for advances to any State shall not be less than $25,000 and any additional funds needed to meet this requirement shall be derived by proportionately reducing (but not below $25,000) the amount available for advances to each of the remaining States.
+&emsp;The total of the advances from the sums appropriated pursuant to paragraph (4)(A) of section 1071(b) of this title to nonprofit private institutions and organizations for the benefit of students in any State and to such State may not exceed an amount which bears the same ratio to such sums as the population of such State aged 18 to 22, inclusive, bears to the population of all the States aged 18 to 22 inclusive, but such advances may otherwise be in such amounts as the Secretary determines will best achieve the purposes for which they are made. The amount available for advances to any State shall not be less than $25,000 andany additional funds needed to meet this requirement shall be derived by proportionately reducing (but not below $25,000) the amount available for advances to each of the remaining States.
 
 #### (2) Calculation of population
 
@@ -104,7 +104,7 @@
 
 #### (1) Amount and use of recovered funds
 
-&emsp;Notwithstanding any other provision of this section, advances made by the Secretaryunder this section shall be repaid in accordance with this subsection and shall be deposited in the fund established by section 1081 of this title. The Secretary shall, in accordance with the requirements of paragraph (2), recover (and so deposit) an amount equal to $75,000,000 during fiscal year 1988 and an amount equal to $35,000,000 for fiscal year 1989.
+&emsp;Notwithstanding any other provision of this section, advances made by the Secretary under this section shall be repaid in accordance with this subsection and shall be deposited in the fund established by section 1081 of this title. The Secretary shall, in accordance with the requirements of paragraph (2), recover (and so deposit) an amount equal to $75,000,000 during fiscal year 1988 and an amount equal to $35,000,000 for fiscal year 1989.
 
 #### (2) Determination of guaranty agency obligations
 
@@ -142,13 +142,13 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (1) Authority to recover funds
 
-&emsp;Notwithstanding any other provision of law, the reserve funds of the guaranty agencies, and any assets purchased with such reserve funds, regardless of who holds or controls the reserves or assets, shall be considered to be the property of the United States to be used in the operation of the program authorized by this part. However, the Secretary may not require the return of all reserve funds of a guaranty agency to the Secretary unless the Secretary determines that such return is in the best interest of the operation of the program authorized by this part, or to ensure the proper maintenance of such agency's funds or assets or the orderly termination of the guaranty agency's operations and the liquidation of its assets. The reserves shall be maintained by each guaranty agency to pay program expenses and contingent liabilities, as authorized by the Secretary, except that—
+&emsp;Notwithstanding any other provision of law, the reserve funds of the guaranty agencies,and any assets purchased with such reserve funds, regardless of who holds or controls the reserves or assets, shall be considered to be the property of the United States to be used in the operation of the program authorized by this part. However, the Secretary may not require the return of all reserve funds of a guaranty agency to the Secretary unless the Secretary determines that such return is in the best interest of the operation of the program authorized by this part, or to ensure the proper maintenance of such agency's funds or assets or the orderly termination of the guaranty agency's operations and the liquidation of its assets. The reserves shall be maintained by each guaranty agency to pay program expenses and contingent liabilities, as authorized by the Secretary, except that—
 
 &emsp;&emsp;(A) the Secretary may direct a guaranty agency to return to the Secretary a portion of its reserve fund which the Secretary determines is unnecessary to pay the program expenses and contingent liabilities of the guaranty agency;
 
 &emsp;&emsp;(B) the Secretary may direct the guaranty agency to require the return, to the guaranty agency or to the Secretary, of any reserve funds or assets held by, or under the control of, any other entity, which the Secretary determines are necessary to pay the program expenses and contingent liabilities of the guaranty agency, or which are required for the orderly termination of the guaranty agency's operations and the liquidation of its assets;
 
-&emsp;&emsp;(C) the Secretary may direct a guaranty agency, or such agency's officers or directors, to cease any activities involving expenditure, use or transfer of the guaranty agency's reserve funds or assets which the Secretary determines is a misapplication,misuse, or improper expenditure of such funds or assets; and
+&emsp;&emsp;(C) the Secretary may direct a guaranty agency, or such agency's officers or directors, to cease any activities involving expenditure, use or transfer of the guaranty agency's reserve funds or assets which the Secretary determines is a misapplication, misuse, or improper expenditure of such funds or assets; and
 
 &emsp;&emsp;(D) any such determination under subparagraph (A) or (B) shall be based on standards prescribed by regulations that are developed through negotiated rulemaking and that include procedures for administrative due process.
 
@@ -200,7 +200,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (A) In general
 
-&emsp;&emsp;Within 90 days after the beginning of each of the fiscal years 1998 through 2002, each guaranty agency shall transfer a portion of the agency's required share determined under paragraph (3) to a restricted account established by the agency that is of a type selected by the agency with the approval ofthe Secretary. Funds transferred to such restricted accounts shall be invested in obligations issued or guaranteed by the United States or in other similarly low-risk securities.
+&emsp;&emsp;Within 90 days after the beginning of each of the fiscal years 1998 through 2002, each guaranty agency shall transfer a portion of the agency's required share determined under paragraph (3) to a restricted account established by the agency that is of a type selected by the agency with the approval of the Secretary. Funds transferred to such restricted accounts shall be invested in obligations issued or guaranteed by the United States or in other similarly low-risk securities.
 
 #### (B) Requirement
 
@@ -330,7 +330,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 &emsp;&emsp;(B) does not include buildings, equipment, or other nonliquid assets.
 
-(Pub. L. 89–329, title IV, §422, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1354; amended Pub. L. 100–203, title III, §§3001(a), 3002(a), Dec. 22, 1987, 101 Stat. 1330–36, 1330–38; Pub. L. 102–325, title IV, §§412, 416(p)(8), July 23, 1992, 106 Stat. 511, 527; Pub. L. 103–66, title IV, §§4041(a), (2)(A), 4042, Aug. 10, 1993, 107 Stat. 354, 357; Pub. L. 103–208, §2(c)(1), Dec. 20, 1993, 107 Stat. 2460; Pub. L. 105–33, title VI, §6101(a), Aug. 5, 1997, 111 Stat. 648; Pub. L. 105–244, title IV, §412, Oct. 7, 1998, 112 Stat. 1673.)
+(Pub. L. 89–329, title IV, §422, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1354; amended Pub. L. 100–203, title III, §§3001(a), 3002(a), Dec. 22, 1987, 101 Stat. 1330–36, 1330–38; Pub. L. 102–325, title IV, §§412, 416(p)(8), July 23, 1992, 106 Stat. 511, 527; Pub. L. 103–66, title IV, §§4041(a), (2)(A), 4042, Aug. 10, 1993, 107 Stat. 354, 357; Pub. L. 103–208, §2(c)(1), Dec. 20, 1993, 107 Stat. 2460; Pub. L. 105–33, title VI, §6101(a), Aug.5, 1997, 111 Stat. 648; Pub. L. 105–244, title IV, §412, Oct. 7, 1998, 112 Stat. 1673.)
 
 #### Codification
 

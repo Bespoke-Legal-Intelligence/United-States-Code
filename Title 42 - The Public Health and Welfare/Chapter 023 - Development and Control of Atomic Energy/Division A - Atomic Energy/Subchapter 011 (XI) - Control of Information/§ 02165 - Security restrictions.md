@@ -10,7 +10,7 @@ Except as authorized by the Commission or the General Manager upon a determinati
 
 #### (c) Acceptance of investigation and clearance granted by other Government agencies
 
-In lieu of the investigation and report to be made by the Director of the Office of PersonnelManagement pursuant to subsection (b) of this section, the Commission may accept an investigation and report on the character, associations, and loyalty of an individual made by another Government agency which conducts personnel security investigations, provided that a security clearance has been granted to such individual by another Government agency based on such investigation and report.
+In lieu of the investigation and report to be made by the Director of the Office of Personnel Management pursuant to subsection (b) of this section, the Commission may accept an investigation and report on the character, associations, and loyalty of an individual made by another Government agency which conducts personnel security investigations, provided that a security clearance has been granted to such individual by another Government agency based on such investigation and report.
 
 #### (d) Investigations by FBI
 
@@ -18,7 +18,9 @@ In the event an investigation made pursuant to subsections (a) and (b) of this s
 
 #### (e) Presidential investigation
 
-If the President deems it to be in the national interest he may from time to time determine that investigations of any group or class which are required by subsections (a), (b), and (c) of this section be made by the Federal Bureau of Investigation.
+(1) If the President deems it to be in the national interest he may from time to time determine that investigations of any group or class which are required by subsections (a), (b), and (c) of this section be made by the Federal Bureau of Investigation.
+
+(2) In the case of an individual employed in a program known as a Special Access Program or a Personnel Security and Assurance Program, any investigation required by subsections (a), (b), and (c) of this section shall be made by the Federal Bureau of Investigation.
 
 #### (f) Certification of specific positions for investigation by FBI
 
@@ -32,13 +34,15 @@ The Commission shall establish standards and specifications in writing as to the
 
 Whenever the Congress declares that a state of war exists, or in the event of a national disaster due to enemy attack, the Commission is authorized during the state of war or period of national disaster due to enemy attack to employ individuals and to permit individuals access to Restricted Data pending the investigation report, and determination required by subsection (b) of this section, to the extent that and so long as the Commission finds that such action is required to prevent impairment of its activities in furtherance of the common defense and security.
 
-(Aug. 1, 1946, ch. 724, title I, §145, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 942; amended Pub. L. 85–681, §5, Aug. 19, 1958, 72 Stat. 633; Pub. L. 87–206, §6, Sept. 6, 1961, 75 Stat. 476; Pub. L. 87–615, §10, Aug. 29, 1962, 76 Stat. 411; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §145, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 942; amended Pub. L. 85–681, §5, Aug. 19, 1958, 72 Stat. 633; Pub. L. 87–206, §6, Sept. 6, 1961, 75 Stat. 476; Pub. L. 87–615, §10, Aug. 29, 1962, 76 Stat. 411; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 106–65, div. C, title XXXI, §3144(a), Oct. 5, 1999, 113 Stat. 934.)
 
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1810(b)(5) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
+
+1999—Subsec. (e). Pub. L. 106–65 designated existing provisions as par. (1) and added par. (2).
 
 1962—Subsec. (f). Pub. L. 87–615 struck out the comma after “investigation”.
 
@@ -52,6 +56,30 @@ Subsecs. (g), (h). Pub. L. 87–206 redesignated former subsec. (f) as (g) and a
 
 1958—Subsec. (g). Pub. L. 85–681 added subsec. (g).
 
+#### Implementation of Subsection (e)(2)
+
+Pub. L. 106–65, div. C, title XXXI, §3144(b), (c), Oct. 5, 1999, 113 Stat. 934, provided that:
+
+“(b)
+
+Compliance.—The Director of the Federal Bureau of Investigation shall have 18 months from the date of the enactment of this Act \[Oct. 5, 1999\] to meet the responsibilities of the Bureau under subsection e.(2) of section 145 of the Atomic Energy Act of 1954 \[42 U.S.C. 2165(e)(2)\], as added by subsection (a).
+
+“(c)
+
+Report.—(1) Not later than six months after the date of the enactment of this Act, the Director of the Federal Bureau of Investigation shall submit to the committees specified in paragraph (2) a report on the implementation of the responsibilities of the Bureau under subsection e.(2) of that section. That report shall include the following:
+
+&emsp;“(A) An assessment of the capability of the Bureau to execute the additional clearance requirements, to include additional post-initial investigations.
+
+&emsp;“(B) An estimate of the additional resources required, to include funding, to support the expanded use of the Bureau to conduct the additional investigations.
+
+&emsp;“(C) The extent to which contractor personnel are and would be used in the clearance process.
+
+“(2) The committees referred to in paragraph (1) are the following:
+
+&emsp;“(A) The Committee on Armed Services and the Select Committee on Intelligence of the Senate.
+
+&emsp;“(B) The Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives.”
+
 #### Transfer of Functions
 
 “Director of the Office of Personnel Management” and “his” substituted for “Civil Service Commission” and “its”, respectively, in subsecs. (a) to (d), pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
@@ -64,5 +92,5 @@ Arms control and disarmament security restrictions, see section 2585 of Title 22
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2163, 2166, 2201, 2455 of this title.
+This section is referred to in sections 2163, 2166, 2201, 2455, 7383a of this title.
 

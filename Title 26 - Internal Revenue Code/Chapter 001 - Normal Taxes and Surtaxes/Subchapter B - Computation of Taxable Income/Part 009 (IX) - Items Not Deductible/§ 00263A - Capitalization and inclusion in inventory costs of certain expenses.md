@@ -32,7 +32,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (A) In general
 
-&emsp;&emsp;Real or personal property described in section 1221(1) which is acquired by the taxpayer for resale.
+&emsp;&emsp;Real or personal property described in section 1221(a)(1) which is acquired by the taxpayer for resale.
 
 #### (B) Exception for taxpayer with gross receipts of $10,000,000 or less
 
@@ -94,7 +94,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (A) In general
 
-&emsp;&emsp;If plants bearing an edible crop for human consumption were lost or damaged (while in the hands of the taxpayer) by reason of freezing temperatures, disease, drought, pests, or casualty, this section shall not apply to any costs of the taxpayer of replanting plants bearing the same type of crop (whether on the same parcel of land on which such lost or damaged plants were located or any other parcel of land of the same acreage in the United States).
+&emsp;&emsp;If plants bearing an edible crop for human consumption were lost or damaged (while in the hands of the taxpayer) by reason of freezing temperatures, disease, drought, pests, or casualty, this section shall notapply to any costs of the taxpayer of replanting plants bearing the same type of crop (whether on the same parcel of land on which such lost or damaged plants were located or any other parcel of land of the same acreage in the United States).
 
 #### (B) Special rule for person with minority interest who materially participates
 
@@ -340,9 +340,11 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(2) regulations providing for simplified procedures for the application of this section in the case of property described in subsection (b)(2).
 
-(Added Pub. L. 99–514, title VIII, §803(a), Oct. 22, 1986, 100 Stat. 2350; amended Pub. L. 100–647, title I, §1008(b)(1)–(4), title VI, §6026(a)–(c), Nov. 10, 1988, 102 Stat. 3437, 3438, 3691–3693; Pub. L. 101–239, title VII, §7816(d)(1), Dec. 19, 1989, 103 Stat. 2420.)
+(Added Pub. L. 99–514, title VIII, §803(a), Oct. 22, 1986, 100 Stat. 2350; amended Pub. L. 100–647, title I, §1008(b)(1)–(4), title VI, §6026(a)–(c), Nov. 10, 1988, 102 Stat. 3437, 3438, 3691–3693; Pub. L. 101–239, title VII, §7816(d)(1), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 106–170, title V, §532(c)(2)(B), Dec. 17, 1999, 113 Stat. 1930.
 
 #### Amendments
+
+1999—Subsec. (b)(2)(A). Pub. L. 106–170 substituted “1221(a)(1)” for “1221(1)”.
 
 1989—Subsec. (h)(3)(D). Pub. L. 101–239 substituted “corporations” for “personal service corporations” in heading and amended text generally. Prior to amendment, text read as follows:
 
@@ -386,6 +388,10 @@ Subsec. (f)(3). Pub. L. 100–647, §1008(b)(4), substituted “allocable (as de
 
 Subsecs. (h), (i). Pub. L. 100–647, §6026(a), added subsec. (h) and redesignated former subsec. (h) as (i).
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
+
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
@@ -414,7 +420,7 @@ Revocation of election.—If a taxpayer engaged in a farming business involving 
 
 #### Effective Date
 
-Section 7831(d)(2) of Pub. L. 101–239 provided that: “If any interest costs incurred after December 31, 1986, are attributable to costs incurred before January 1, 1987, the amendments made by section 803 of the Tax Reform Act of 1986 \[section 803 of Pub. L. 99–514, enacting this section, amending sections 48, 267, 312, 447, 464, and 471 of this title, and repealing sections 189, 278, and 280 of this title\] shall apply to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before itsrepeal by section 803 of the Tax Reform Act of 1986) or, if applicable, section 266 of such Code.”
+Section 7831(d)(2) of Pub. L. 101–239 provided that: “If any interest costs incurred after December 31, 1986, are attributable to costs incurred before January 1, 1987, the amendments made by section 803 of the Tax Reform Act of 1986 \[section 803 of Pub. L. 99–514, enacting this section, amending sections 48, 267, 312, 447, 464, and 471 of this title, and repealing sections 189, 278, and 280 of this title\] shall apply to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of the Tax Reform Act of 1986) or, if applicable, section 266 of such Code.”
 
 Section 803(d) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1008(b)(7), Nov. 10, 1988, 102 Stat. 3438; Pub. L. 101–239, title VII, §7831(d)(1), Dec. 19, 1989, 103 Stat. 2426, provided that:
 
@@ -462,7 +468,7 @@ Interest and taxes.—Section 263A of such Code shall not apply to property desc
 
 “(5)
 
-Transition rule concerning capitalization of inventory rules.—In the case of a corporation which on the date of the enactment of this Act \[Oct. 22, 1986\] was a member of an affiliated group of corporations (within the meaning of section 1504(a) of the Internal Revenue Code of 1986), the parent of which—
+Transition rule concerning capitalization of inventory rules.—In the case of a corporation which on the date of the enactment of this Act \[Oct. 22, 1986\] was a member of an affiliated group of corporations\(within the meaning of section 1504(a) of the Internal Revenue Code of 1986), the parent of which—
 
 &emsp;“(A) was incorporated in California on April 15, 1925,
 

@@ -2,7 +2,7 @@
 
 (a) It is declared to be the purposes of the Congress in this chapter to—
 
-&emsp;(1) authorize and regulate the construction, location, ownership, and operation of ocean thermal energy conversion facilities connected to the United States by pipeline orcable, or located in whole or in part between the highwater mark and the seaward boundary of the territorial sea of the United States consistent with the Convention on the High Seas, and general principles of international law;
+&emsp;(1) authorize and regulate the construction, location, ownership, and operation of ocean thermal energy conversion facilities connected to the United States by pipeline or cable, or located in whole or in part between the highwater mark and the seaward boundary of the territorial sea of the United States consistent with the Convention on the High Seas, and general principles of international law;
 
 &emsp;(2) authorize and regulate the construction, location, ownership, and operation of ocean thermal energy conversion plantships documented under the laws of the United States, consistent with the Convention on the High Seas and general principles of international law;
 
@@ -37,4 +37,8 @@ Section 1 of Pub. L. 96–320 provided: “That this Act \[enacting this chapter
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
+
+#### Contiguous Zone of United States
+
+For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
 

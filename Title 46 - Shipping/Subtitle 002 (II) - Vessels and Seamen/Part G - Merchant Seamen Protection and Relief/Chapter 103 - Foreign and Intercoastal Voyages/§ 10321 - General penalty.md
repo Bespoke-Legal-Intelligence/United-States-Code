@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 46:665
 
-Section 10321 makes a vessel on which a seaman is carried to sea in violation of this chapter or regulation prescribed under this chapter liable in rem to theUnited States Government for a civil penalty of $200 for each seaman carried in violation.
+Section 10321 makes a vessel on which a seaman is carried to sea in violation of this chapter or regulation prescribed under this chapter liable in rem to the United States Government for a civil penalty of $200 for each seaman carried in violation.
 
 #### Amendments
 

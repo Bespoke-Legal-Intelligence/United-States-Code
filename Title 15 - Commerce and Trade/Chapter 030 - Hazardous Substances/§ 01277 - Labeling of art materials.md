@@ -6,7 +6,7 @@ On and after the last day of the 2-year period beginning on November 18, 1988, t
 
 #### (b) Requirements applicable to standard D–4236
 
-The following shall apply with respect to the standard of the American Society for Testingand Materials referred to in subsection (a) of this section:
+The following shall apply with respect to the standard of the American Society for Testing and Materials referred to in subsection (a) of this section:
 
 &emsp;(1) The term “art material or art material product” shall mean any substance marketed or represented by the producer or repackager as suitable for use in any phase of the creation of any work of visual or graphic art of any medium. The term does not include economic poisons subject to the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\] or drugs, devices, or cosmetics subject to the Federal Food, Drug, and Cosmetics Act \[21 U.S.C. 301 et seq.\].
 

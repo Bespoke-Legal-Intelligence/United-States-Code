@@ -32,7 +32,7 @@ General rule.—An annuity payable to the beneficiary terminates effective as of
 
 &emsp;(2)
 
-Termination of spouse annuity upon death or remarriage before age 55.—An annuity for a surviving spouse or former spouse shall be paid to the surviving spouse or former spouse while the surviving spouse or former spouse is living or, if the surviving spouse or former spouse remarries before reaching age 55, until the surviving spouse or former spouse remarries.
+Termination of spouse annuity upon death or remarriage before age 55.—An annuity for a surviving spouse or former spouse shall be paid to the surviving spouse or formerspouse while the surviving spouse or former spouse is living or, if the surviving spouse or former spouse remarries before reaching age 55, until the surviving spouse or former spouse remarries.
 
 &emsp;(3)
 
@@ -48,7 +48,7 @@ Required offset.—If, upon the death of a person to whom section 1448 of this t
 
 &emsp;(2)
 
-Effective date of offset.—A reduction in an annuity under this section required byparagraph (1) shall be effective on the date of the commencement of the period of payment of such dependency and indemnity compensation under title 38.
+Effective date of offset.—A reduction in an annuity under this section required by paragraph (1) shall be effective on the date of the commencement of the period of payment of such dependency and indemnity compensation under title 38.
 
 (d)
 
@@ -124,7 +124,7 @@ Copy of court order or other official statement.—Either—
 
 &emsp;&emsp;(B)
 
-Persons required to make election.—A person shall be considered for purposes ofsubparagraph (A) to be required to elect under section 1448(b) of this title to provide an annuity to a former spouse if—
+Persons required to make election.—A person shall be considered for purposes of subparagraph (A) to be required to elect under section 1448(b) of this title to provide an annuity to a former spouse if—
 
 &emsp;&emsp;&emsp;(i) the person enters, incident to a proceeding of divorce, dissolution, or annulment, into a written agreement to make such an election and the agreement (I) has been incorporated in or ratified or approved by a court order, or (II) has been filed with the court of appropriate jurisdiction in accordance with applicable State law; or
 
@@ -374,7 +374,7 @@ Subsec. (f). Pub. L. 97–252, §1003(d), designated existing provisions as par.
 
 1981—Subsec. (d). Pub. L. 97–22 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1978—Subsec. (a). Pub. L. 95–397, §203(1), inserted “(or on such other day as he may provide under subsection (j))” after “death of a person to whom section 1448 of this title applies”.
+1978—Subsec. (a). Pub. L. 95–397, §203(1), inserted “(or on such other day as he may provide under subsection\(j))” after “death of a person to whom section 1448 of this title applies”.
 
 Subsec. (d). Pub. L. 95–397, §207(b), substituted “section 8339(j)” for “section 8339(i)”.
 
@@ -417,6 +417,26 @@ Amendment by Pub. L. 95–397 effective Oct. 1, 1978, and applicable to annuitie
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–496 effective Sept. 21, 1972, see section 3 of Pub. L. 94–496, set out as a note under section 1447 of this title.
+
+#### Effectuation of Intended SBP Annuity for Former Spouse When Not Elected by Reason of Untimely Death of Retiree
+
+Pub. L. 106–65, div. A, title VI, §657, Oct. 5, 1999, 113 Stat. 668, provided that:
+
+“(a)
+
+Cases Not Covered by Existing Authority.—Paragraph (3) of section 1450(f) of title 10, United States Code, as in effect on the date of the enactment of this Act \[Oct. 5, 1999\], shall apply in the case of a former spouse of any person referred to in that paragraph who—
+
+&emsp;“(1) incident to a proceeding of divorce, dissolution, or annulment—
+
+&emsp;&emsp;“(A) entered into a written agreement on or after August 21, 1983, to make an election under section 1448(b) of such title to provide an annuity to the former spouse (the agreement thereafter having been incorporated in or ratified or approved by a court order or filed with the court of appropriate jurisdiction in accordance with applicable State law); or
+
+&emsp;&emsp;“(B) was required by a court order dated on or after such date to make such an election for the former spouse; and
+
+&emsp;“(2) before making the election, died within 21 days after the date of the agreement referred to in paragraph (1)(A) or the court order referred to in paragraph (1)(B), as the case may be.
+
+“(b)
+
+Adjusted Time Limit for Request by Former Spouse.—For the purposes of paragraph (3)(C) of section 1450(f) of title 10, United States Code, a court order or filing referred to in subsection (a)(1) of this section that is dated before October 19, 1984, shall be deemed to be dated on the date of the enactment of this Act \[Oct. 5, 1999\].”
 
 #### Section Referred to in Other Sections
 

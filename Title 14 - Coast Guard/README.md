@@ -1,5 +1,5 @@
 
-14 U.S.C.<br>United States Code, 1998 Edition<br>Title 14 - COAST GUARD<br>From the U.S. Government Publishing Office, www.gpo.gov
+14 U.S.C.<br>United States Code, 1999 Edition<br>Title 14 - COAST GUARD<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 14—COAST GUARD
 
@@ -1108,7 +1108,7 @@ Section 5 of act Aug. 4, 1949, ch. 393, 63 Stat. 558, provided that: “Nothing 
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 10 sections 379, 1174, 1406, 12646.
+This title is referred to in title 10 sections 379, 1174, 1406, 12646; title 20 sections 9303, 9304.
 
 
 ---

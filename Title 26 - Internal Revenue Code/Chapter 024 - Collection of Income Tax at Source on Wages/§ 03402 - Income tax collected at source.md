@@ -22,7 +22,7 @@
 
 (3) In any case in which the period, or the time described in paragraph (2), in respect of any wages is less than one week, the Secretary, under regulations prescribed by him, may authorize an employer to compute the tax to be deducted and withheld as if the aggregate of the wages paid to the employee during the calendar week were paid for a weekly payroll period.
 
-(4) In determining the amount to be deducted and withheld under this subsection, the wages may, at the election of the employer, be computed to the nearest dollar.
+(4) In determining the amount to be deducted and withheld under this subsection, the wagesmay, at the election of the employer, be computed to the nearest dollar.
 
 #### (c) Wage bracket withholding
 
@@ -44,7 +44,7 @@ If the employer, in violation of the provisions of this chapter, fails to deduct
 
 #### (e) Included and excluded wages
 
-If the remuneration paid by an employer to an employee for services performed during one-halfor more of any payroll period of not more than 31 consecutive days constitutes wages, all the remuneration paid by such employer to such employee for such period shall be deemed to be wages; but if the remuneration paid by an employer to an employee for services performed during more than one-half of any such payroll period does not constitute wages, then none of the remuneration paid by such employer to such employee for such period shall be deemed to be wages.
+If the remuneration paid by an employer to an employee for services performed during one-half or more of any payroll period of not more than 31 consecutive days constitutes wages, all the remuneration paid by such employer to such employee for such period shall be deemed to be wages; but if the remuneration paid by an employer to an employee for services performed during more than one-half of any such payroll period does not constitute wages, then none of the remuneration paid by such employer to such employee for such period shall be deemed to be wages.
 
 #### (f) Withholding exemptions
 
@@ -72,7 +72,7 @@ If the remuneration paid by an employer to an employee for services performed du
 
 #### (B) Change of status
 
-&emsp;&emsp;If, on any day during the calendar year, the number of withholding exemptions to which the employee is entitled is less than the number of withholding exemptions claimed by the employee on the withholding exemption certificate then in effect with respect to him, the employee shall within 10 days thereafter furnish the employer with a new withholding exemption certificate relating to the number of withholding exemptions which the employee then claims, which shall in no event exceed the number to which he is entitled on such day. If, on any day during the calendar year, the number of withholding exemptions to which the employee is entitled is greater than the number of withholding exemptions claimed, the employee may furnish the employer with a new withholding exemption certificate relating to the number of withholding exemptions which the employee then claims, which shall in no event exceed the number to which he is entitled on such day.
+&emsp;&emsp;If, on any day during the calendar year, the number of withholding exemptions to which the employee is entitled is less than the number of withholding exemptions claimed by the employee on the withholdingexemption certificate then in effect with respect to him, the employee shall within 10 days thereafter furnish the employer with a new withholding exemption certificate relating to the number of withholding exemptions which the employee then claims, which shall in no event exceed the number to which he is entitled on such day. If, on any day during the calendar year, the number of withholding exemptions to which the employee is entitled is greater than the number of withholding exemptions claimed, the employee may furnish the employer with a new withholding exemption certificate relating to the number of withholding exemptions which the employee then claims, which shall in no event exceed the number to which he is entitled on such day.
 
 #### (C) Change of status which affects next calendar year
 
@@ -164,7 +164,7 @@ The Secretary may, under regulations prescribed by him, authorize—
 
 &emsp;&emsp;(D) determine the excess, if any, of the amount of tax computed under subparagraph (C) over the total amount of tax deducted and withheld by the employer from wages paid to the employee during the calendar year, and
 
-&emsp;&emsp;(E) deduct and withhold upon the payment of wages (referred to in subparagraph (A)) tothe employee an amount equal to the excess (if any) computed under subparagraph (D).
+&emsp;&emsp;(E) deduct and withhold upon the payment of wages (referred to in subparagraph (A)) to the employee an amount equal to the excess (if any) computed under subparagraph (D).
 
 #### (4) Other methods
 
@@ -186,7 +186,7 @@ In the case of remuneration paid in any medium other than cash for services perf
 
 #### (k) Tips
 
-In the case of tips which constitute wages, subsection (a) shall be applicable only to such tips as are included in a written statement furnished to the employer pursuant to section 6053(a), and only to the extent that the tax can be deducted and withheld by the employer, at or after the time such statement is so furnished and before the close of the calendar year in which such statement is furnished, from such wages of the employee (excluding tips, but including funds turned over by the employee to the employer for the purpose of such deduction and withholding) as are under the control of the employer; and an employer who is furnished by an employee a written statement of tips (received in a calendar month) pursuant to section 6053(a) to which paragraph (16)(B) of section 3401(a) is applicable may deduct and withhold the tax with respect to such tips from any wages of the employee (excluding tips) under his control, even though at the time such statement is furnished the total amount of the tips included in statements furnished to the employer as having been received by the employee in such calendar month in the course of his employment by such employer is less than $20. Such tax shall not at any time be deducted and withheld in an amount which exceeds the aggregate of such wages and funds (including funds turned over under section 3102(c)(2) or section 3202(c)(2)) minus any tax required by section 3102(a) or section 3202(a) to be collected from such wages and funds.
+In the case of tips which constitute wages, subsection (a) shall be applicable only to such tips as are included in a written statement furnished to the employer pursuant to section 6053(a), and only to the extent that the tax can be deducted and withheld by the employer, at or after the time such statement is so furnished and before the close of the calendar year in which such statement is furnished, from such wages of the employee (excluding tips, but including funds turned over by the employee to the employer for the purpose of such deduction and withholding) as are under the control of the employer; and an employer who is furnished by an employee a written statement of tips (received in a calendar month) pursuant to section 6053(a) to which paragraph (16)(B) of section 3401(a) is applicable may deduct and withhold the tax with respect to such tips from any wages of the employee (excluding tips) under his control, even though at the time such statement is furnished the total amount of the tips included in statements furnished to the employer as having been received by the employee in such calendar month in the course of his employment by such employer is less than $20. Such tax shall not at any time be deducted and withheld in an amount which exceeds the aggregate of such wages and funds (including funds turned overunder section 3102(c)(2) or section 3202(c)(2)) minus any tax required by section 3102(a) or section 3202(a) to be collected from such wages and funds.
 
 #### (<i>l</i>) Determination and disclosure of marital status
 
@@ -214,7 +214,7 @@ Under regulations prescribed by the Secretary, an employee shall be entitled to 
 
 &emsp;(2) estimated tax credits allowable under chapter 1, and
 
-&emsp;(3) such additional deductions (including the additional standard deduction under section 63(c)(3) for the aged and blind) and other itemsas may be specified by the Secretary in regulations.
+&emsp;(3) such additional deductions (including the additional standard deduction under section 63(c)(3) for the aged and blind) and other items as may be specified by the Secretary in regulations.
 
 #### (n) Employees incurring no income tax liability
 
@@ -286,7 +286,7 @@ Notwithstanding any other provision of this section, an employer shall not be re
 
 &emsp;&emsp;(B) except as provided in subsection (n), the amounts to be deducted and withheld under this chapter shall be determined in accordance with such agreement.
 
-> &emsp;The preceding sentence shall not apply with respect to sick pay paid pursuant to anyagreement to any individual unless the social security number of such individual is furnished to the payor and the payor is furnished with such information as is necessary to determine whether the payment is pursuant to the agreement and to determine the amount to be deducted and withheld.
+> &emsp;The preceding sentence shall not apply with respect to sick pay paid pursuant to any agreement to any individual unless the social security number of such individual is furnished to the payor and the payor is furnished with such information as is necessary to determine whether the payment is pursuant to the agreement and to determine the amount to be deducted and withheld.
 
 #### (6) Coordination with withholding on designated distributions under section 3405
 
@@ -322,7 +322,7 @@ Notwithstanding any other provision of this section, an employer shall not be re
 
 #### (2) Voluntary withholding on unemployment benefits
 
-&emsp;If, at the time a payment of unemployment compensation (as defined in section 85(b)) is made to any person, a request by such person is in effect that such payment be subject to withholding under this chapter, then for purposes of this chapter and so much of subtitle F as relates to this chapter, such payment shall be treated as if it were a payment of wages by an employer to an employee. The amount to be deducted and withheld under this chapter from any payment to which any request under this paragraph applies shall be an amount equal to 15 percent of such payment.
+&emsp;If, at the time a payment of unemployment compensation (as defined in section 85(b)) is made to any person, a request by such person is in effect that such payment be subject to withholding under this chapter, then for purposes of this chapter and so much of subtitle F as relates to this chapter, such payment shall be treated as if it were a payment of wages by an employer to an employee. The amount to be deducted and withheld under this chapter from any payment to which any request under this paragraph applies shall bean amount equal to 15 percent of such payment.
 
 #### (3) Authority for other voluntary withholding
 
@@ -440,7 +440,7 @@ Notwithstanding any other provision of this section, an employer shall not be re
 
 &emsp;&emsp;(B) which consists of providing a highway motor vehicle for the use of the employee.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 457; Aug. 9, 1955, ch. 666, §2, 69 Stat. 605; Pub. L. 87–256, §110(g)(2), Sept. 21, 1961, 75 Stat. 537; Pub. L. 88–272, title III, §302(a), (b), Feb. 26, 1964, 78 Stat. 140; Pub. L.89–97, title III, §313(d)(3)–(5), July 30, 1965, 79 Stat. 384; Pub. L. 89–212, §2(c), Sept. 29, 1965, 79 Stat. 859; Pub. L. 89–368, title I, §101(a)–(e)(3), Mar. 15, 1966, 80 Stat. 38–61; Pub. L. 90–364, title I, §102(c), June 28, 1968, 82 Stat. 256; Pub. L. 91–36, §2(a), June 30, 1969, 83 Stat. 42; Pub. L. 91–53, §6(a), Aug. 7, 1969, 83 Stat. 96; Pub. L. 91–172, title VIII, §805(a)–(e), (f)(1), (g), Dec. 30, 1969, 83 Stat. 686, 704–708; Pub. L. 92–178, title II, §208(a), (b)(1), (c)–(h)(1), Dec. 10, 1971, 85 Stat. 512–517; Pub. L. 94–12, title II, §§202(b), 205, Mar. 29, 1975, 89 Stat. 29, 32; Pub. L. 94–164, §§2(b)(2), 5(a)(1), Dec. 23, 1975, 89 Stat. 971, 975; Pub. L. 94–331, §3(a)(1), June 30, 1976, 90 Stat. 782; Pub. L. 94–396, §2(a)(1), Sept. 3, 1976, 90 Stat. 1201; Pub. L. 94–414, §3(a)(1), Sept. 17, 1976, 90 Stat. 1273; Pub. L. 94–455, title IV, §401(d), title V, §§502(b), 504(c)(3), title XII, §1207(d), title XIX, §§1903(a)(17), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1557, 1559, 1566, 1705, 1810, 1834; Pub. L. 95–30, title I, §105, title IV, §405(a), May 23, 1977, 91 Stat. 140, 156; Pub. L. 95–600, title I, §§101(e), 102(c), title VI, §601(b)(2), Nov. 6, 1978, 92 Stat. 2770, 2771, 2896; Pub. L. 96–601, §4(a)–(d), Dec. 24, 1980, 94 Stat. 3496, 3497; Pub. L. 97–34, title I, §101(e), Aug. 13, 1981, 95 Stat. 184; Pub. L. 97–248, title III, §§317(a), 334(d), Sept. 3, 1982, 96 Stat. 607, 627; Pub. L. 98–67, title I, §104(d)(3), Aug. 5, 1983, 97 Stat. 380; Pub. L. 99–44, §3, May 24, 1985, 99 Stat. 77; Pub. L. 99–514, title I, §104(b)(15), title XIII, §§1301(j)(8), 1303(b)(4), title XV, §1581(b), Oct. 22, 1986, 100 Stat. 2106, 2658, 2766; Pub. L. 100–203, title X, §10302(a), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §1003(a)(2), Nov. 10, 1988, 102 Stat. 3382; Pub. L. 101–508, title XI, §11801(a)(41), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 102–318, title V, §522(b)(2)(D), July 3, 1992, 106 Stat. 314; Pub. L. 102–486, title XIX, §§1934(a), 1942(a), Oct. 24, 1992, 106 Stat. 3031, 3036; Pub. L. 103–465, title VII, §§701(a), 702(a), Dec. 8, 1994, 108 Stat. 4995, 4996.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 457; Aug. 9, 1955, ch. 666, §2, 69 Stat. 605; Pub. L. 87–256, §110(g)(2), Sept. 21, 1961, 75 Stat. 537; Pub. L. 88–272, title III, §302(a), (b), Feb. 26, 1964, 78 Stat. 140; Pub. L. 89–97, title III, §313(d)(3)–(5), July 30, 1965, 79 Stat. 384; Pub. L. 89–212, §2(c), Sept. 29, 1965, 79 Stat. 859; Pub. L. 89–368, title I, §101(a)–(e)(3), Mar. 15, 1966, 80 Stat. 38–61; Pub. L. 90–364, title I, §102(c), June 28, 1968, 82 Stat. 256; Pub. L. 91–36, §2(a), June 30, 1969, 83 Stat. 42; Pub. L. 91–53, §6(a), Aug. 7, 1969, 83 Stat. 96; Pub. L. 91–172, title VIII, §805(a)–(e), (f)(1), (g), Dec. 30, 1969, 83 Stat. 686, 704–708; Pub. L. 92–178, title II, §208(a), (b)(1), (c)–(h)(1), Dec. 10, 1971, 85 Stat. 512–517; Pub. L. 94–12, title II, §§202(b), 205, Mar. 29, 1975, 89 Stat. 29, 32; Pub. L. 94–164, §§2(b)(2), 5(a)(1), Dec. 23, 1975, 89 Stat. 971, 975; Pub. L. 94–331, §3(a)(1), June 30, 1976, 90 Stat. 782; Pub. L. 94–396, §2(a)(1), Sept. 3, 1976, 90 Stat. 1201; Pub. L. 94–414, §3(a)(1), Sept. 17, 1976, 90 Stat. 1273; Pub. L. 94–455, title IV, §401(d), title V, §§502(b), 504(c)(3), title XII, §1207(d), title XIX, §§1903(a)(17), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1557, 1559, 1566, 1705, 1810, 1834; Pub. L. 95–30, title I, §105, title IV, §405(a), May 23, 1977, 91 Stat. 140, 156; Pub. L. 95–600, title I, §§101(e), 102(c), title VI, §601(b)(2), Nov. 6, 1978, 92 Stat. 2770, 2771, 2896; Pub. L. 96–601, §4(a)–(d), Dec. 24, 1980, 94 Stat. 3496, 3497; Pub. L. 97–34, title I, §101(e), Aug. 13, 1981, 95 Stat. 184; Pub. L. 97–248, title III, §§317(a), 334(d), Sept. 3, 1982, 96 Stat. 607, 627; Pub. L. 98–67, title I, §104(d)(3), Aug. 5, 1983, 97 Stat. 380; Pub. L. 99–44, §3, May 24, 1985, 99 Stat. 77; Pub. L. 99–514, title I, §104(b)(15), title XIII, §§1301(j)(8), 1303(b)(4), title XV, §1581(b), Oct. 22, 1986, 100 Stat. 2106, 2658, 2766; Pub. L. 100–203, title X, §10302(a), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §1003(a)(2), Nov. 10, 1988, 102 Stat. 3382; Pub. L. 101–508, title XI, §11801(a)(41), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 102–318, title V, §522(b)(2)(D), July 3, 1992, 106 Stat. 314; Pub. L. 102–486, title XIX, §§1934(a), 1942(a), Oct. 24, 1992, 106 Stat. 3031, 3036; Pub. L. 103–465, title VII, §§701(a), 702(a), Dec. 8, 1994, 108 Stat. 4995, 4996.)
 
 #### References in Text
 
@@ -490,7 +490,7 @@ Subsec. (f)(1)(B). Pub. L. 99–514, §104(b)(15)(A), redesignated subpar. (D) a
 
 Pub. L. 99–514, §104(b)(15)(C), which directed that “subparagraph (A) or (D)” be substituted for “subparagraph (A), (B), (C), or (F)” was executed by making the substitution for “subparagraph (A), (B), or (C)”, as the probable intent of Congress.
 
-Subsec. (f)(1)(C). Pub. L. 99–514, §104(b)(15)(A), (D), redesignated subpar. (E) as (C), substituted “section 151(c)” for “section 151(e)”, and struck out former subpar. (C) which read as follows: “one additional exemption for himself if, on the basis of facts existing at the beginning of such day, there may reasonably be expected to be allowable an exemption under section 151(d)(1) (relating to the blind) for the taxable yearunder subtitle A in respect of which amounts deducted and withheld under this chapter in the calendar year in which such day falls are allowed as a credit;”.
+Subsec. (f)(1)(C). Pub. L. 99–514, §104(b)(15)(A), (D), redesignated subpar. (E) as (C), substituted “section 151(c)” for “section 151(e)”, and struck out former subpar. (C) which read as follows: “one additional exemption for himself if, on the basis of facts existing at the beginning of such day, there may reasonably be expected to be allowable an exemption under section 151(d)(1) (relating to the blind) for the taxable year under subtitle A in respect of which amounts deducted and withheld under this chapter in the calendar year in which such day falls are allowed as a credit;”.
 
 Subsec. (f)(1)(D). Pub. L. 99–514, §104(b)(15)(A), redesignated subpar. (F) as (D). Former subpar. (D) redesignated (B).
 
@@ -554,7 +554,7 @@ Subsec. (f)(1). Pub. L. 95–30, §105(b)(1), substituted “zero bracket” for
 
 Subsec. (m)(1)(B). Pub. L. 95–30, §105(b)(2), substituted “an amount equal to $3,200 ($2,200” for “an amount equal to the lesser of (i) 16 percent of his estimated wages, or (ii) $2,800 ($2,400”.
 
-Subsec. (m)(2)(A). Pub. L. 95–30, §105(b)(3)(A), (B), substituted “section 151” for “sections 141 and 151” and“(or the zero bracket amount (within the meaning of section 63(d)))” for “(or the amount of the standard deduction)”.
+Subsec. (m)(2)(A). Pub. L. 95–30, §105(b)(3)(A), (B), substituted “section 151” for “sections 141 and 151” and “(or the zero bracket amount (within the meaning of section 63(d)))” for “(or the amount of the standard deduction)”.
 
 Subsec. (m)(2)(C). Pub. L. 95–30, §105(b)(3)(C), substituted “(or the zero bracket amount)” for “(or the standard deduction)”.
 
@@ -662,7 +662,7 @@ Subsec. (c)(6). Pub. L. 90–364, §102(c)(2), added par. (6).
 
 Subsec. (b)(1). Pub. L. 89–368, §101(b), increased amounts set out for one withholding exemption for each of the payroll period categories from “$13.00”, $26.00”, “$28.00”, “$56.00”, “$167.00”, “$333.00”, “$667.00”, and “$1.80” to “$13.50”, “$26.90”, “$29.20”, “$58.30”, “$175.00”, “$350.00”, “$700.00”, and “$1.90” respectively.
 
-Subsec. (c)(1). Pub. L. 89–368, §101(c), replaced existing tables with separate tables for employees who are married and for employees who are not married covering weekly, biweekly, semimonthly, monthly, and daily or miscellaneous pay periods and reflecting increased and graduated withholding rates.
+Subsec. (c)(1). Pub. L. 89–368, §101(c), replaced existing tables with separate tables for employees who are married and for employees who are not married covering weekly, biweekly, semimonthly, monthly, and daily ormiscellaneous pay periods and reflecting increased and graduated withholding rates.
 
 Subsec. (f)(1)(F), (3)(B). Pub. L. 89–368, §101(e)(1), (3), added par. (1)(F) and, in par. (3)(B), changed definition of “status determination date” from January 1 and July 1 of each year to January 1, May 1, July 1, and October 1 of each year.
 
@@ -716,7 +716,7 @@ Amendment by section 104(b)(15) of Pub. L. 99–514 applicable to taxable years 
 
 Amendment by section 1301(j)(8) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
-Amendment by section 1303(b)(4) of Pub. L. 99–514 effective Oct. 22, 1986, see section 1311(f) of Pub. L. 99–514,as amended, set out as an Effective Date; Transitional Rules note under section 141 of this title.
+Amendment by section 1303(b)(4) of Pub. L. 99–514 effective Oct. 22, 1986, see section 1311(f) of Pub. L. 99–514, as amended, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
 #### Effective Date of 1985 Amendment
 
@@ -806,7 +806,7 @@ Section 302(d) of Pub. L. 88–272 provided that: “The amendments made by subs
 
 #### Effective Date of 1961 Amendment
 
-Amendment by Pub. L. 87–256 applicable with respect to wages paid after Dec. 31, 1961, see section 110(h)(4) ofPub. L. 87–256, set out as a note under section 3401 of this title.
+Amendment by Pub. L. 87–256 applicable with respect to wages paid after Dec. 31, 1961, see section 110(h)(4) of Pub. L. 87–256, set out as a note under section 3401 of this title.
 
 #### Effective Date of 1955 Amendment
 
@@ -840,7 +840,7 @@ Section 304 of Pub. L. 95–30, as amended by Pub. L. 99–514, §2, Oct. 22, 19
 
 #### Wages Paid During 1972 and After 1972
 
-Section 805(b)(3), (4) of Pub. L. 91–172, title VIII, Dec. 30, 1969, 83 Stat. 704, which provided for section 3402(b)(1) withholding rates of 13.50; 26.90; 29.20; 58.30; 175.00; 350.00; 700.00; and 1.90, effective with respect to wages during 1972, and withholding rates of 14.40; 28.80; 31.30; 62.50; 187.50; 375.00; 750.00; and 2.10, effective with respect to wages paid after 1972, was repealed by section 208(b)(2) of Pub. L. 92–178.
+Section 805(b)(3), (4) of Pub. L. 91–172, title VIII, Dec. 30, 1969, 83 Stat. 704, which provided for section 3402(b)(1) withholding rates of 13.50; 26.90; 29.20; 58.30;175.00; 350.00; 700.00; and 1.90, effective with respect to wages during 1972, and withholding rates of 14.40; 28.80; 31.30; 62.50; 187.50; 375.00; 750.00; and 2.10, effective with respect to wages paid after 1972, was repealed by section 208(b)(2) of Pub. L. 92–178.
 
 #### Transitional Determination Status Date
 
@@ -874,5 +874,5 @@ Time tax withheld deemed paid, see section 6513 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 31, 275, 3401, 3405, 3406, 3505, 3507, 3509, 3510, 4999, 6040, 6051, 6205, 6413, 6682, 7205 of this title; title 25 section 2719; title 42 section 659.
+This section is referred to in sections 31, 275, 3401, 3405, 3406, 3505, 3507, 3509, 3510, 4999, 6040, 6051, 6205, 6413, 6682, 7205 of this title; title 25 section 2719; title 42 sections 407, 659.
 

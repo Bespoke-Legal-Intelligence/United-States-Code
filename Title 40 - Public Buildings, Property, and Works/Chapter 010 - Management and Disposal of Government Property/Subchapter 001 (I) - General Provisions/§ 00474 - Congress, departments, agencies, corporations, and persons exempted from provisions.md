@@ -22,7 +22,7 @@
 
 &emsp;(8) the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force with respect to the administration of section 1171(b) of Appendix to title 50;
 
-&emsp;(9) the Secretary of Agriculture or the Department of Agriculture under (A) the National School Lunch Act (60 Stat. 230) \[42 U.S.C. 1751 et seq.\]; (B) the Farmers Home Administration Act of 1946 (60 Stat. 1062); (C) the Act of August <sup>1</sup> 31, 1947, Public Law 298, Eightieth Congress, with respect to the disposal of labor supply centers, and labor homes, labor camps, or facilities; (D) section 612c of title 7, with respect to the exportation and domestic consumption of agricultural products; or (E) section 1291 or section 1622(j) of title 7;
+&emsp;(9) the Secretary of Agriculture or the Department of Agriculture under (A) the Richard B. Russell National School Lunch Act (60 Stat. 230) \[42 U.S.C. 1751 et seq.\]; (B) the Farmers Home Administration Act of 1946 (60 Stat. 1062); (C) the Act of August <sup>1</sup> 31, 1947, Public Law 298, Eightieth Congress, with respect to the disposal of labor supply centers, and labor homes, labor camps, or facilities; (D) section 612c of title 7, with respect to the exportation and domestic consumption of agricultural products; or (E) section 1291 or section 1622(j) of title 7;
 
 &emsp;(10) the Secretary of Agriculture, Farm Credit Administration, or any farm credit board under section 640<i>l</i>(b) of title 12, with respect to the acquisition or disposal of property;
 
@@ -36,7 +36,7 @@
 
 &emsp;(15) the United States Postal Service;
 
-&emsp;(16) the Maritime Administration with respect to the construction, reconstruction, and reconditioning (including outfitting and equipping incident to the foregoing), the acquisition, procurement, operation, maintenance, preservation, sale, lease, or charter of any merchant vessel or of any shipyard, ship site, terminal, pier, dock, warehouse, or other installation necessary or appropriate for thecarrying out of any program of such Administration authorized by law, or nonadministrative activities incidental thereto: <i>Provided</i>, That the Maritime Administration shall to the maximum extent that it may deem practicable, consistent with the fulfillment of the purposes of such programs and the effective and efficient conduct of such activities, coordinate its operations with the requirements of this Act, and the policies and regulations prescribed pursuant thereto;
+&emsp;(16) the Maritime Administration with respect to the construction, reconstruction, and reconditioning (including outfitting and equipping incident to the foregoing), the acquisition, procurement, operation, maintenance, preservation, sale, lease, or charter of any merchant vessel or of any shipyard, ship site, terminal, pier, dock, warehouse, or other installation necessary or appropriate for the carrying out of any program of such Administration authorized by law, or nonadministrative activities incidental thereto: <i>Provided</i>, That the Maritime Administration shall to the maximum extent that it may deem practicable, consistent with the fulfillment of the purposes of such programs and the effective and efficient conduct of such activities, coordinate its operations with the requirements of this Act, and the policies and regulations prescribed pursuant thereto;
 
 &emsp;(17) the Central Intelligence Agency;
 
@@ -50,7 +50,7 @@
 
 (e) No provision of this Act, as amended, shall apply to the Senate or the House of Representatives (including the Architect of the Capitol and any building, activity, or function under his direction), but any of the services and facilities authorized by this Act to be rendered or furnished shall, as far as practicable, be made available to the Senate, the House of Representatives, or the Architect of the Capitol, upon their request, and, if payment would be required for the rendition or furnishing of a similar service or facility to an executive agency, payment therefor shall be made by the recipient thereof, upon presentation of proper vouchers, in advance or by reimbursement (as may be agreed upon by the Administrator and the officer or body making such request). Such payment may be credited to the applicable appropriation of the executive agency receiving such payment.
 
-(June 30, 1949, ch. 288, title VI, §602, formerly title V, §502, 63 Stat. 399; Aug. 10, 1949, ch. 412, §12(a), (g), 63 Stat. 591; renumbered and amended Sept. 5, 1950, ch. 849, §§6(a), (b), 7(e), (f), 8(c), 64 Stat. 583, 590; Pub. L. 85–726, title XIV, §1406, Aug. 23, 1958, 72 Stat. 808; Pub. L. 87–456, title III, §303(b), May 24, 1962, 76 Stat. 78; Pub. L. 89–343, §6, Nov. 8, 1965, 79 Stat. 1303; Pub. L. 89–670, §§3(e), 6(c)(1), Oct. 15, 1966, 80 Stat. 932, 938; Pub. L. 90–19, §7, May 25, 1967, 81 Stat. 22; Pub. L. 91–375, §6(m)(2), Aug. 12, 1970, 84 Stat. 782; Pub. L. 93–400, §15(4), Aug. 30, 1974, 88 Stat. 800; Pub. L. 96–60, title II, §203(c), Aug. 15, 1979, 93 Stat. 399; Pub. L. 96–83, §10(b), Oct. 10, 1979, 93 Stat. 652; Pub. L. 97–31, §12(13), Aug. 6, 1981, 95 Stat. 154; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 98–191, §§8(d)(2), 9(a)(3), Dec. 1, 1983, 97 Stat. 1331; Pub. L. 101–73, title VII, §744(f), Aug. 9, 1989, 103 Stat. 438.)
+(June 30, 1949, ch. 288, title VI, §602, formerly title V, §502, 63 Stat. 399; Aug. 10, 1949, ch. 412, §12(a), (g), 63 Stat. 591; renumbered and amended Sept. 5, 1950, ch. 849, §§6(a), (b), 7(e), (f), 8(c), 64 Stat. 583, 590; Pub. L. 85–726, title XIV, §1406, Aug. 23, 1958, 72 Stat. 808; Pub. L. 87–456, title III, §303(b), May 24, 1962, 76 Stat. 78; Pub. L. 89–343, §6, Nov. 8, 1965, 79 Stat. 1303; Pub. L. 89–670, §§3(e), 6(c)(1), Oct. 15, 1966, 80 Stat. 932, 938; Pub. L. 90–19, §7, May 25, 1967, 81 Stat. 22; Pub. L. 91–375, §6(m)(2), Aug. 12, 1970, 84 Stat. 782; Pub. L. 93–400, §15(4), Aug. 30, 1974, 88 Stat. 800; Pub. L. 96–60, title II, §203(c), Aug. 15, 1979, 93 Stat. 399; Pub. L. 96–83, §10(b), Oct. 10, 1979, 93 Stat. 652; Pub. L. 97–31, §12(13), Aug. 6, 1981, 95 Stat. 154; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 98–191, §§8(d)(2), 9(a)(3), Dec. 1, 1983, 97 Stat. 1331; Pub. L. 101–73, title VII, §744(f), Aug. 9, 1989, 103 Stat. 438; Pub. L. 106–78, title VII, §752(b)(14), Oct. 22, 1999, 113 Stat. 1170.)
 
 #### References in Text
 
@@ -68,7 +68,7 @@ The Foreign Service Buildings Act, 1926, as amended, referred to in subsec. (d)(
 
 Section 1171(b) of Appendix to title 50, referred to in subsec. (d)(8), was repealed by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.
 
-The National School Lunch Act, referred to in subsec. (d)(9)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(9)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 The Farmers Home Administration Act of 1946, referred to in subsec. (d)(9)(B), is act Aug. 14, 1946, ch. 964, 60 Stat. 1062. Such act was substantially repealed by act June 25, 1948, ch. 645, §21, 62 Stat. 862, and act Aug. 8, 1961, Pub. L. 87–128, title III, §341(a), 75 Stat. 318. For complete classification of this Act to the Code, see Tables.
 
@@ -88,7 +88,7 @@ Section is comprised of section 602 of act June 30, 1949. Subsec. (a) of section
 
 In subsec. (c), “chapter 91 of title 31” substituted for “the Government Corporation Control Act (59 Stat. 597; 31 U.S.C. 841)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-In subsec. (d)(3), “chapter 137 of title 10” and “said chapter” substituted for “Armed Services Procurement Act of 1947” and “said Act”, respectively, on authority of act Aug. 10, 1956, ch. 1041, §49(b), 70A Stat. 640, the first section of which enacted Title 10, Armed Forces. Prior to the enactment of Title 10, the Armed Services Procurement Act of 1947 (act Feb. 19, 1948, ch. 65, 62 Stat. 21, as amended) was classified principally to chapter 3 (§151 et seq.) of Title 41, Public Contracts.
+In subsec. (d)(3), “chapter 137 of title 10” and “said chapter” substituted for “Armed Services ProcurementAct of 1947” and “said Act”, respectively, on authority of act Aug. 10, 1956, ch. 1041, §49(b), 70A Stat. 640, the first section of which enacted Title 10, Armed Forces. Prior to the enactment of Title 10, the Armed Services Procurement Act of 1947 (act Feb. 19, 1948, ch. 65, 62 Stat. 21, as amended) was classified principally to chapter 3 (§151 et seq.) of Title 41, Public Contracts.
 
 In subsec. (d)(4), “Department of Defense” substituted for “National Military Establishment” on authority of act Aug. 10, 1949, ch. 412, §12(a), (g), 63 Stat. 591.
 
@@ -99,6 +99,8 @@ In subsec. (d)(18), “title 44 or any other Act” substituted for “the Act e
 Section was formerly classified to section 204 of Title 41, Public Contracts.
 
 #### Amendments
+
+1999—Subsec. (d)(9)(A). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
 1989—Subsec. (d)(11). Pub. L. 101–73 inserted “or the Resolution Trust Corporation” after “Department of Housing and Urban Development”, substituted “savings association accounts” for “savings and loan accounts”, and inserted “under the Federal Deposit Insurance Act or any other law.” after “National Housing Act”.
 
@@ -152,7 +154,7 @@ In subsec. (d)(14), “Federal Aviation Administration” substituted for “Fed
 
 Office of Chief of Weather Bureau abolished, and Weather Bureau consolidated with Coast and Geodetic Survey to form a new agency in Department of Commerce to be known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Chief of Bureau and of Bureau transferred to Secretary of Commerce by the Plan.
 
-Environmental Science Services Administration abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees, which created National Oceanic and Atmospheric Administration in Department of Commerce. By Department Organization Order 25–5A, republished 39 F.R. 27486, Secretary of Commerce delegated to NOAA his functions relating to Weather Bureau. By order of Acting Associate Administrator of NOAA, organization name of Weather Bureau changed to National Weather Service. For further details, see the Codification note under section 311 of Title 15, Commerce and Trade.
+Environmental Science Services Administration abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees, which created National Oceanic and Atmospheric Administration in Department of Commerce. By Department Organization Order 25–5A, republished 39 F.R. 27486, Secretary of Commerce delegated to NOAA his functions relating to Weather Bureau. By order of Acting Associate Administrator of NOAA, organization name of Weather Bureau changed to National WeatherService. For further details, see the Codification note under section 311 of Title 15, Commerce and Trade.
 
 Munitions Board, together with Office of Chairman, abolished and Board's functions transferred to Secretary of Defense by Reorg. Plan No. 6 of 1953, eff. June 30, 1953, 18 F.R. 3743, set out in the Appendix to Title 5, Government Organization and Employees.
 

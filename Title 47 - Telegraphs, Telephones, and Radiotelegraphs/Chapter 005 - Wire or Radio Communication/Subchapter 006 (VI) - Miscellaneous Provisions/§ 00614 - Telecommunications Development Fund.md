@@ -110,7 +110,7 @@ The accounts of the Fund shall be audited annually. Such audits shall be conduct
 
 #### (j) Report on audits by Treasury
 
-A report of each such audit for a fiscal year shall be made by the Secretary of the Treasury to the President and to the Congress not later than 6 months following the close of such fiscal year. The report shall set forth the scope of the audit and shall include a statement of assets and liabilities, capital and surplus or deficit; a statement of surplus or deficit analysis; a statement of income and expense; a statement of sources and application of funds; and such comments and information as may be deemed necessary to keep the President and the Congressinformed of the operations and financial condition of the Fund, together with such recommendations with respect thereto as the Secretary may deem advisable.
+A report of each such audit for a fiscal year shall be made by the Secretary of the Treasury to the President and to the Congress not later than 6 months following the close of such fiscal year. The report shall set forth the scope of the audit and shall include a statement of assets and liabilities, capital and surplus or deficit; a statement of surplus or deficit analysis; a statement of income and expense; a statement of sources and application of funds; and such comments and information as may be deemed necessary to keep the President and the Congress informed of the operations and financial condition of the Fund, together with such recommendations with respect thereto as the Secretary may deem advisable.
 
 #### (k) Definitions
 
@@ -137,4 +137,6 @@ The Federal Credit Reform Act of 1990, referred to in subsec. (f), is title V of
 #### Section Referred to in Other Sections
 
 This section is referred to in section 309 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Fund);”.</i>
 

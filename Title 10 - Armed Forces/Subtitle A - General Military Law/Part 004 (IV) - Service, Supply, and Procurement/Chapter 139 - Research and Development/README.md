@@ -23,16 +23,19 @@
 | [2372\.](%C2%A7%2002372%20-%20Independent%20research%20and%20development%20and%20bid%20and%20proposal%20costs%20payments%20to%20contractors.md) | Independent research and development and bid and proposal costs: payments to contractors. |
 | [2373\.](%C2%A7%2002373%20-%20Procurement%20for%20experimental%20purposes.md) | Procurement for experimental purposes. |
 | [2374\.](%C2%A7%2002374%20-%20Merit-based%20award%20of%20grants%20for%20research%20and%20development.md) | Merit-based award of grants for research and development. |
+| [2374a.](%C2%A7%2002374a%20-%20Prizes%20for%20advanced%20technology%20achievements.md) | Prizes for advanced technology achievements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+1999—Pub. L. 106–65, div. A, title II, §244(b), Oct. 5, 1999, 113 Stat. 552, added item 2374a.
+
 1996—Pub. L. 104–201, div. A, title II, §267(c)(1)(C), Sept. 23, 1996, 110 Stat. 2468, added item 2371a.
 
 Pub. L. 104–106, div. A, title VIII, §802(b), title X, §§1061(j)(2), 1062(c)(2), Feb. 10, 1996, 110 Stat. 390, 443, 444, struck out items 2352 “Contracts: notice to Congress required for contracts performed over period exceeding 10 years”, 2356 “Contracts: delegations”, and 2370 “Biological Defense Research Program”.
 
-1994—Pub. L. 103–355, title I, §1301(c), title II, §2002(b), title III, §3062(b), title VII, §7203(a)(3), Oct. 13, 1994, 108 Stat. 3287, 3303, 3337, 3380, added item 2374, substituted in item 2358 “Research and development projects” for “Research projects” and in item 2371 “Research projects: transactions other than contracts and grants” for “Advanced research projects: cooperative agreements and other transactions”, and struck out item2355 “Contracts: vouchering procedures” and item 2369 “Product evaluation activity”.
+1994—Pub. L. 103–355, title I, §1301(c), title II, §2002(b), title III, §3062(b), title VII, §7203(a)(3), Oct. 13, 1994, 108 Stat. 3287, 3303, 3337, 3380, added item 2374, substituted in item 2358 “Research and development projects” for “Research projects” and in item 2371 “Research projects: transactions other than contracts and grants” for “Advanced research projects: cooperative agreements and other transactions”, and struck out item 2355 “Contracts: vouchering procedures” and item 2369 “Product evaluation activity”.
 
 1993—Pub. L. 103–160, div. A, title II, §214(b), title VIII, §828(a)(2), (c)(2), Nov. 30, 1993, 107 Stat. 1586, 1713, 1714, struck out item 2362 “Testing requirements: wheeled or tracked armored vehicles” and added items 2370a and 2373.
 
@@ -111,3 +114,4 @@ Naval contracts for research, see section 7522 of this title.
 - [&sect; 02372 - Independent research and development and bid and proposal costs payments to contractors](%C2%A7%2002372%20-%20Independent%20research%20and%20development%20and%20bid%20and%20proposal%20costs%20payments%20to%20contractors.md)
 - [&sect; 02373 - Procurement for experimental purposes](%C2%A7%2002373%20-%20Procurement%20for%20experimental%20purposes.md)
 - [&sect; 02374 - Merit-based award of grants for research and development](%C2%A7%2002374%20-%20Merit-based%20award%20of%20grants%20for%20research%20and%20development.md)
+- [&sect; 02374a - Prizes for advanced technology achievements](%C2%A7%2002374a%20-%20Prizes%20for%20advanced%20technology%20achievements.md)

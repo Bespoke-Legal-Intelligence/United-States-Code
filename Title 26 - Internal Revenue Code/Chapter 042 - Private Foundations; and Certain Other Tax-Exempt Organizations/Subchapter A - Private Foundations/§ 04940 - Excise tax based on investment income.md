@@ -58,7 +58,7 @@ There is hereby imposed on each private foundation which is not exempt from taxa
 
 #### (2) Exempt operating foundation
 
-&emsp;For purposes of this subsection, the term “exempt operating foundation” means, withrespect to any taxable year, any private foundation if—
+&emsp;For purposes of this subsection, the term “exempt operating foundation” means, with respect to any taxable year, any private foundation if—
 
 &emsp;&emsp;(A) such foundation is an operating foundation (as defined in section 4942(j)(3)),
 
@@ -176,7 +176,7 @@ There is hereby imposed on each private foundation which is not exempt from taxa
 
 &emsp;In the case of—
 
-&emsp;&emsp;(A) a private foundation which is a successor to another private foundation, this subsection shall be applied with respect to suchsuccessor by taking into account the experience of such other foundation, and
+&emsp;&emsp;(A) a private foundation which is a successor to another private foundation, this subsection shall be applied with respect to such successor by taking into account the experience of such other foundation, and
 
 &emsp;&emsp;(B) a merger, reorganization, or division of a private foundation, this subsection shall be applied under regulations prescribed by the Secretary.
 
@@ -258,7 +258,7 @@ Section 4941.—Section 4941 shall not apply to—
 
 &emsp;“(B) the sale, exchange, or other disposition of property which is owned by a private foundation on May 26, 1969 (or which is acquired by a private foundation under the terms of a trust which was irrevocable on May 26, 1969, or under the terms of a will executed on or before such date, which are in effect on such date and at all times thereafter), to a disqualified person, if such foundation is required to dispose of such property in order not to be liable for tax under section 4943 (relating to taxes on excess business holdings) applied, in the case of a disposition before January 1, 1977, without taking section 4943(c)(4) into account and it receives in return an amount which equals or exceeds the fair market value of such property at the time of such disposition or at the time a contract for such disposition was previously executed in a transaction which would not constitute a prohibited transaction (within the meaning of section 503(b) or the corresponding provisions of prior law);
 
-&emsp;“(C) the leasing of property or the lending of money or other extension of credit between a disqualified person and a private foundation pursuant to a binding contract in effect on October 9, 1969 (or pursuant to renewals of such a contract), until taxable years beginning after December 31, 1979, if such leasing orlending (or other extension of credit) remains at least as favorable as an arm's-length transaction with an unrelated party and if the execution of such contract was not at the time of such execution a prohibited transaction (within the meaning of section 503(b) or the corresponding provisions of prior law);
+&emsp;“(C) the leasing of property or the lending of money or other extension of credit between a disqualified person and a private foundation pursuant to a binding contract in effect on October 9, 1969 (or pursuant to renewals of such a contract), until taxable years beginning after December 31, 1979, if such leasing or lending (or other extension of credit) remains at least as favorable as an arm's-length transaction with an unrelated party and if the execution of such contract was not at the time of such execution a prohibited transaction (within the meaning of section 503(b) or the corresponding provisions of prior law);
 
 &emsp;“(D) the use of goods, services, or facilities which are shared by a private foundation and a disqualified person until taxable years beginning after December 31, 1979, if such use is pursuant to an arrangement in effect before October 9, 1969, and such arrangement was not a prohibited transaction (within the meaning of section 503(b) or the corresponding provisions of prior law) at the time it was made and would not be a prohibited transaction if such section continued to apply;
 
@@ -276,7 +276,7 @@ Section 4941.—Section 4941 shall not apply to—
 
 Section 4942.—In the case of organizations organized before May 27, 1969, section 4942 shall—
 
-&emsp;“(A) for all purposes other than the determination of the minimum investment return under section 4942(j)(3)(B)(ii), for taxable years beginning before January 1, 1972, apply without regard to section 4942(e) (relating to minimum investment return), and for taxable years beginning in 1972, 1973, and 1974, apply with an applicable percentage (as prescribed in section 4942(e)(3)) which does not exceed 41/2 percent, 5 percent, and 51/2 percent, respectively;
+&emsp;“(A) for all purposes other than the determination of the minimum investment return under section 4942(j)(3)(B)(ii), for taxable years beginning beforeJanuary 1, 1972, apply without regard to section 4942(e) (relating to minimum investment return), and for taxable years beginning in 1972, 1973, and 1974, apply with an applicable percentage (as prescribed in section 4942(e)(3)) which does not exceed 41/2 percent, 5 percent, and 51/2 percent, respectively;
 
 &emsp;“(B) not apply to an organization to the extent its income is required to be accumulated pursuant to the mandatory terms (as in effect on May 26, 1969, and at all times thereafter) of an instrument executed before May 27, 1969, with respect to the transfer of income producing property to such organization, except that section 4942 shall apply to such organization if the organization would have been denied exemption if section 504(a) had not been repealed by this Act, or would have had its deductions under section 642(c) limited if section 681(c) had not been repealed by this Act. In applying the preceding sentence, in addition to the limitations contained in section 504(a) or 681(c) before its repeal, section 504(a)(1) or 681(c)(1) shall be treated as not applying to an organization to the extent its income is required to be accumulated pursuant to the mandatory terms (as in effect on January 1, 1951, and at all times thereafter) of an instrument executed before January 1, 1951, with respect to the transfer of income producing property to such organization before such date, if such transfer was irrevocable on such date;
 
@@ -334,7 +334,7 @@ Certain redemptions.—For purposes of applying section 302(b)(1) to the determi
 
 \[Section 314(b)(2) of Pub. L. 98–369 provided that: “The amendment made by paragraph (1) \[amending section 101(4)(A)(iii) of Pub. L. 91–172, set out above\] shall apply as if included in section 101(<i>l</i>)(4) of the Tax Reform Act of 1969 \[Pub. L. 91–172\].”\]
 
-\[Section 1301(b) of Pub. L. 94–455 provided that: “The amendments made by subsection (a) \[enacting subpar. (F) of section 101(2) of Pub. L. 91–172, set out above\] shall apply to dispositions after the date of the enactment of this Act \[Oct. 4, 1976\] in taxable years ending after such date.”\]
+\[Section 1301(b) of Pub. L. 94–455 provided that: “The amendments made by subsection (a) \[enacting subpar.\(F) of section 101(2) of Pub. L. 91–172, set out above\] shall apply to dispositions after the date of the enactment of this Act \[Oct. 4, 1976\] in taxable years ending after such date.”\]
 
 \[Section 1309(b) of Pub. L. 94–455 provided that: “The amendment made by this section \[amending section 101(2)(B) of Pub. L. 91–172, set out above\] shall apply to dispositions made after the date of enactment of this Act \[Oct. 4, 1976\].”\]
 

@@ -8,7 +8,7 @@ As used in this title and in the amendments made by this title—
 
 (3) The term “unit of general local government” means any city, county, town, parish, village, or other general purpose political subdivision of a State.
 
-(4) The term “historical, architectural, or cultural significance” includes, but is not limitedto, buildings listed or eligible to be listed on the National Register established under section 470a of title 16.
+(4) The term “historical, architectural, or cultural significance” includes, but is not limited to, buildings listed or eligible to be listed on the National Register established under section 470a of title 16.
 
 (5) The term “commercial activities” includes, but is not limited to, the operations of restaurants, food stores, craft stores, dry goods stores, financial institutions, and display facilities.
 

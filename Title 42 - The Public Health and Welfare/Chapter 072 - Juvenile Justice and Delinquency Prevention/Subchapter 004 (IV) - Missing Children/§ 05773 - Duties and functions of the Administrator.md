@@ -36,45 +36,59 @@ The Administrator shall—
 
 &emsp;&emsp;(iii) specifying the types and amounts of assistance (other than assistance under section 5775(a)(9) of this title) received by such clearinghouse in such fiscal year; and
 
-&emsp;&emsp;(iv) specifying the number and types of missing children cases handled (and thenumber of such cases resolved) by such clearinghouse in such fiscal year and summarizing the circumstances of each such cases.<sup>2</sup>
+&emsp;&emsp;(iv) specifying the number and types of missing children cases handled (and the number of such cases resolved) by such clearinghouse in such fiscal year and summarizing the circumstances of each such cases.<sup>2</sup>
 
-#### (b) Establishment of toll-free telephone line and national resource center and clearinghouse; national incidence studies; use of school records and birth certificates
+#### (b) Annual grant to National Center for Missing and Exploited Children
+
+#### (1) In general
+
+&emsp;The Administrator shall annually make a grant to the Center, which shall be used to—
+
+&emsp;&emsp;(A)(i) operate a national 24-hour toll-free telephone line by which individuals may report information regarding the location of any missing child, or other child 13 years of age or younger whose whereabouts are unknown to such child's legal custodian, and request information pertaining to procedures necessary to reunite such child with such child's legal custodian; and
+
+&emsp;&emsp;(ii) coordinate the operation of such telephone line with the operation of the national communications system referred to in part C of subchapter III of this chapter;
+
+&emsp;&emsp;(B) operate the official national resource center and information clearinghouse for missing and exploited children;
+
+&emsp;&emsp;(C) provide to State and local governments, public and private nonprofit agencies, and individuals, information regarding—
+
+&emsp;&emsp;&emsp;(i) free or low-cost legal, restaurant, lodging, and transportation services that are available for the benefit of missing and exploited children and their families; and
+
+&emsp;&emsp;&emsp;(ii) the existence and nature of programs being carried out by Federal agencies to assist missing and exploited children and their families;
+
+&emsp;&emsp;(D) coordinate public and private programs that locate, recover, or reunite missing children with their families;
+
+&emsp;&emsp;(E) disseminate, on a national basis, information relating to innovative and model programs, services, and legislation that benefit missing and exploited children;
+
+&emsp;&emsp;(F) provide technical assistance and training to law enforcement agencies, State and local governments, elements of the criminal justice system, public and private nonprofit agencies, and individuals in the prevention, investigation, prosecution, and treatment of cases involving missing and exploited children; and
+
+&emsp;&emsp;(G) provide assistance to families and law enforcement agencies in locating and recovering missing and exploited children, both nationally and internationally.
+
+#### (2) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to the Administrator to carry out this subsection, $10,000,000 for each of fiscal years 2000, 2001, 2002, and 2003.
+
+#### (c) National incidence studies
 
 The Administrator, either by making grants to or entering into contracts with public agencies or nonprofit private agencies, shall—
 
-&emsp;(1)(A) establish and operate a national 24-hour toll-free telephone line by which individuals may report information regarding the location of any missing child, or other child 13 years of age or younger whose whereabouts are unknown to such child's legal custodian, and request information pertaining to procedures necessary to reunite such child with such child's legal custodian; and
+&emsp;(1) periodically conduct national incidence studies to determine for a given year the actual number of children reported missing each year, the number of children who are victims of abduction by strangers, the number of children who are the victims of parental kidnapings, and the number of children who are recovered each year; and
 
-&emsp;(B) coordinating <sup>3</sup> the operation of such telephone line with the operation of the national communications system established under section 5712a <sup>1</sup> of this title;
+&emsp;(2) provide to State and local governments, public and private nonprofit agencies, and individuals information to facilitate the lawful use of school records and birth certificates to identify and locate missing children.
 
-&emsp;(2) establish and operate a national resource center and clearinghouse designed—
-
-&emsp;&emsp;(A) to provide to State and local governments, public and private nonprofit agencies, and individuals information regarding—
-
-&emsp;&emsp;&emsp;(i) free or low-cost legal, restaurant, lodging, and transportation services that are available for the benefit of missing children and their families; and
-
-&emsp;&emsp;&emsp;(ii) the existence and nature of programs being carried out by Federal agencies to assist missing children and their families;
-
-&emsp;&emsp;(B) to coordinate public and private programs which locate, recover, or reunite missing children with their legal custodians;
-
-&emsp;&emsp;(C) to disseminate nationally information about innovative and model missing childrens’ programs, services, and legislation; and
-
-&emsp;&emsp;(D) to provide technical assistance and training to law enforcement agencies, State and local governments, elements of the criminal justice system, public and private nonprofit agencies, and individuals in the prevention, investigation, prosecution, and treatment of the missing and exploited child case and in locating and recovering missing children; and <sup>4</sup>
-
-&emsp;(3) periodically conduct national incidence studies to determine for a given year the actual number of children reported missing each year, the number of children who are victims of abduction by strangers, the number of children who are the victims of parental kidnapings, and the number of children who are recovered each year; and
-
-&emsp;(4) provide to State and local governments, public and private nonprofit agencies, and individuals information to facilitate the lawful use of school records and birth certificates to identify and locate missing children.
-
-#### (c) Independent status of other Federal agencies
+#### (d) Independent status of other Federal agencies
 
 Nothing contained in this subchapter shall be construed to grant to the Administrator any law enforcement responsibility or supervisory authority over any other Federal agency.
 
-(Pub. L. 93–415, title IV, §404, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 100–690, title VII, §7285, Nov. 18, 1988, 102 Stat. 4459; Pub. L. 101–204, title X, §1004(2), Dec. 7, 1989, 103 Stat. 1828.)
+(Pub. L. 93–415, title IV, §404, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 100–690, title VII, §7285, Nov. 18, 1988, 102 Stat. 4459; Pub. L. 101–204, title X, §1004(2), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, §2(c), Oct. 12, 1999, 113 Stat. 1034.)
 
 #### References in Text
 
-Section 5712a of this title, referred to in subsecs. (a)(5)(E) and (b)(1)(B), was repealed by Pub. L. 102–586, §3(g)(2)(A), Nov. 4, 1992, 106 Stat. 5025. See section 5714–11 of this title.
+Section 5712a of this title, referred to in subsec. (a)(5)(E), was repealed by Pub. L. 102–586, §3(g)(2)(A), Nov. 4, 1992, 106 Stat. 5025. See section 5714–11 of this title.
 
 #### Amendments
+
+1999—Subsecs. (b) to (d). Pub. L. 106–71 added subsecs. (b) and (c), redesignated former subsec. (c) as (d), and struck out former subsec. (b) which related to the establishment of toll-free telephone line and national resource center and clearinghouse, conduct of national incidence studies, and use of school records and birth certificates.
 
 1989—Subsec. (a)(5)(C). Pub. L. 101–204, §1004(2)(A), substituted semicolon for comma at end.
 
@@ -106,13 +120,9 @@ Subsec. (b)(4). Pub. L. 100–690, §7285(b)(3), (4), added par. (4).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–690 effective Oct. 1, 1988, with the report required by subsec. (a)(5) of this section with respect to fiscal year 1988 to be submitted not later than Aug. 1, 1989, notwithstanding the 180-day period provided in subsec. (a)(5) of this section, see section 7296(a), (b)(3) of Pub. L. 100–690, as amended, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 100–690 effective Oct. 1, 1988, with the report required by subsec. (a)(5) of this sectionwith respect to fiscal year 1988 to be submitted not later than Aug. 1, 1989, notwithstanding the 180-day period provided in subsec. (a)(5) of this section, see section 7296(a), (b)(3) of Pub. L. 100–690, as amended, set out as a note under section 5601 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “case.”</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “coordinate”.</i>
-
-<i><sup>4</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

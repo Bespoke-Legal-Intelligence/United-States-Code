@@ -18,5 +18,5 @@ The Congress finds that—
 
 Section 401 of title IV of Pub. L. 98–164 provided that: “This title \[enacting this subchapter\] may be cited as ‘The Asia Foundation Act’.”
 
-For short title of title V of Pub. L. 98–164, which enacted subchapter II of this chapter, as the “NationalEndowment for Democracy Act”, see section 501 of Pub. L. 98–164, set out as a Short Title note under section 4411 of this title.
+For short title of title V of Pub. L. 98–164, which enacted subchapter II of this chapter, as the “National Endowment for Democracy Act”, see section 501 of Pub. L. 98–164, set out as a Short Title note under section 4411 of this title.
 

@@ -10,7 +10,7 @@
 
 &emsp;(C) The term “HTS” means Harmonized Tariff Schedule of the United States.
 
-(2) If the President has designated any country as a beneficiary country for purposes of thischapter, he shall not terminate such designation (either by issuing a proclamation for that purpose or by issuing a proclamation which has the effect of terminating such designation) unless, at least sixty days before such termination, he has notified the House of Representatives and the Senate and has notified such country of his intention to terminate such designation, together with the considerations entering into such decision.
+(2) If the President has designated any country as a beneficiary country for purposes of this chapter, he shall not terminate such designation (either by issuing a proclamation for that purpose or by issuing a proclamation which has the effect of terminating such designation) unless, at least sixty days before such termination, he has notified the House of Representatives and the Senate and has notified such country of his intention to terminate such designation, together with the considerations entering into such decision.
 
 #### (b) Countries eligible for designation as beneficiary countries; conditions
 
@@ -94,7 +94,7 @@ Virgin Islands, British
 
 &emsp;&emsp;&emsp;(i) prompt, adequate, and effective compensation has been or is being made to such citizen, corporation, partnership, or association,
 
-&emsp;&emsp;&emsp;(ii) good-faith negotiations to provide prompt, adequate, and effective compensation under the applicable provisions of international law are in progress, or such country is otherwise taking steps to discharge its obligations under international law with respect to such citizen, corporation, partnership, or association, or
+&emsp;&emsp;&emsp;(ii) good-faith negotiations to provide prompt, adequate, and effective compensation under the applicable provisions of international law are in progress, or such country is otherwise taking steps to discharge its obligations under internationallaw with respect to such citizen, corporation, partnership, or association, or
 
 &emsp;&emsp;&emsp;(iii) a dispute involving such citizen, corporation, partnership, or association, over compensation for such a seizure has been submitted to arbitration under the provisions of the Convention for the Settlement of Investment Disputes, or in another mutually agreed upon forum, and
 
@@ -196,7 +196,7 @@ Subsec. (c)(8). Pub. L. 101–382, §213(5), amended par. (8) generally. Prior t
 
 Subsec. (f). Pub. L. 101–382, §214, added subsec. (f).
 
-1988—Subsec. (a)(1)(C). Pub. L. 100–418, §1214(q)(1), substituted “HTS” and “Harmonized Tariff Schedule ofthe United States” for “TSUS” and “Tariff Schedules of the United States”, respectively.
+1988—Subsec. (a)(1)(C). Pub. L. 100–418, §1214(q)(1), substituted “HTS” and “Harmonized Tariff Schedule of the United States” for “TSUS” and “Tariff Schedules of the United States”, respectively.
 
 Subsec. (e). Pub. L. 100–418, §1909(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The President shall, after complying with the requirements of subsection (a)(2) of this section, withdraw or suspend the designation of any country as a beneficiary country if, after such designation, he determines that as the result of changed circumstances such country would be barred from designation as a beneficiary country under subsection (b) of this section.”
 

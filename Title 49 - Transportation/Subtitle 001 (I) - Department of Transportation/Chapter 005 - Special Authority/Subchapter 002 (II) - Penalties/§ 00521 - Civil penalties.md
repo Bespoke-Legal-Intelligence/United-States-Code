@@ -4,13 +4,13 @@
 
 (2) A rail carrier, and a lessor, receiver, or trustee of that carrier, violating section 504(c)(1) of this title, is liable to the Government for a civil penalty of $100 for each violation.
 
-(3) A rail carrier, a lessor, receiver, or trustee of that carrier, a person furnishing cars or protective service against heat or cold, and an officer, agent, or employee of one of them, required to make a report to the Secretary or answer a question, that does not make a report to the Secretary or does not specifically, completely, and truthfully answer the question, is liable to the Government for a civil penalty of $100 for each violation.
+(3) A rail carrier, a lessor, receiver, or trustee of that carrier, a person furnishing cars or protective service against heat or cold, and an officer, agent, or employee of one of them, required to make a report to the Secretary or answer a question, that does not make a report to theSecretary or does not specifically, completely, and truthfully answer the question, is liable to the Government for a civil penalty of $100 for each violation.
 
 (4) A separate violation occurs for each day a violation under this subsection continues.
 
 (5) Trial in a civil action under this subsection is in the judicial district in which the rail carrier has its principal operating office or in a district through which the railroad of the rail carrier runs.
 
-(b)(1)(A) If the Secretary finds that a violation of a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), 31310(g)(1)(A), or 31502 of this title, or a violation of a regulation issued under any of those provisions, has occurred, the Secretary shall issue a written notice to the violator. Such notice shall describe with reasonable particularity the nature of the violation found and the provision which has been violated. The notice shall specify the proposed civil penalty, if any, and suggest actions which might be taken in order to abate the violation. The notice shall indicate that the violator may, within 15 days of service, notify the Secretary of the violator's intention to contest the matter. In the event of a contested notice, the Secretary shall afford such violator an opportunity for a hearing, pursuant to section 554 of title 5, following which the Secretary shall issue an order affirming, modifying, or vacating the notice of violation.
+(b)(1)(A) If the Secretary finds that a violation of a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), 31310(g)(1)(A),<sup>1</sup> or 31502 of this title, or a violation of a regulation issued under any of those provisions, has occurred, the Secretary shall issue a written notice to the violator. Such notice shall describe with reasonable particularity the nature of the violation found and the provision which has been violated. The notice shall specify the proposed civil penalty, if any, and suggest actions which might be taken in order to abate the violation. The notice shall indicate that the violator may, within 15 days of service, notify the Secretary of the violator's intention to contest the matter. In the event of a contested notice, the Secretary shall afford such violator an opportunity for a hearing, pursuant to section 554 of title 5, following which the Secretary shall issue an order affirming, modifying, or vacating the notice of violation.
 
 (B)
 
@@ -40,13 +40,13 @@ Violations pertaining to cdls.—Any person who is determined by the Secretary, 
 
 Determination of amount.—The amount of any civil penalty, and a reasonable time for abatement of the violation, shall by written order be determined by the Secretary, taking into account the nature, circumstances, extent, and gravity of the violation committed and, with respect to the violator, the degree of culpability, history of prior offenses, ability to pay, effect on ability to continue to do business, and such other matters as justice and public safety may require. In each case, the assessment shall be calculated to induce further compliance.
 
-(3) The Secretary may require any violator served with a notice of violation to post a copy of such notice or statement of such notice in such place or places and for such duration as the Secretary may determine appropriate to aid in the enforcement of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302,31303, 31304, 31305(b), or 31502 of this title, as the case may be.
+(3) The Secretary may require any violator served with a notice of violation to post a copy of such notice or statement of such notice in such place or places and for such duration as the Secretary may determine appropriate to aid in the enforcement of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), or 31502 of this title, as the case may be.
 
 (4) Such civil penalty may be recovered in an action brought by the Attorney General on behalf of the United States in the appropriate district court of the United States or, before referral to the Attorney General, such civil penalty may be compromised by the Secretary.
 
 (5)(A) If, upon inspection or investigation, the Secretary determines that a violation of a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), or 31502 of this title or a regulation issued under any of those provisions, or combination of such violations, poses an imminent hazard to safety, the Secretary shall order a vehicle or employee operating such vehicle out of service, or order an employer to cease all or part of the employer's commercial motor vehicle operations. In making any such order, the Secretary shall impose no restriction on any employee or employer beyond that required to abate the hazard. Subsequent to the issuance of the order, opportunity for review shall be provided in accordance with section 554 of title 5, except that such review shall occur not later than 10 days after issuance of such order.
 
-(B) In this paragraph, “imminent hazard” means any condition of vehicle, employee, or commercial motor vehicle operations which is likely to result in serious injury or death if not discontinued immediately.
+(B) In this paragraph, “imminent hazard” means any condition of vehicle, employee, or commercial motor vehicle operations which substantially increases the likelihood of serious injury or death if not discontinued immediately.
 
 (6)
 
@@ -68,19 +68,31 @@ Violations pertaining to cdls.—Any person who knowingly and willfully violates
 
 (7) The Secretary shall issue regulations establishing penalty schedules designed to induce timely compliance for persons failing to comply promptly with the requirements set forth in any notices and orders under this subsection.
 
-(8) Any aggrieved person who, after a hearing, is adversely affected by a final order issued under this section may, within 30 days, petition for review of the order in the United States Court of Appeals in the circuit wherein the violation is alleged to have occurred or where the violator has his principal place of business or residence, or in the United States Court of Appeals for the District of Columbia Circuit. Review of the order shall be based on a determination of whether the Secretary's findings and conclusions were supported by substantial evidence, or were otherwise not in accordance with law. No objection that has not been urged before the Secretary shall be considered by the court, unless reasonable grounds existed for failure or neglect to do so. The commencement of proceedings under this subsection shall not, unless ordered by the court, operate as a stay of the order of the Secretary.
+(8)
 
-(9) All penalties and fines collected under this section shall be deposited into the Highway Trust Fund (other than the Mass Transit Account).
+Prohibition on operation in interstate commerce after nonpayment of penalties.—
 
-(10) In any action brought under this section, process may be served without regard to the territorial limits of the district of the State in which the action is brought.
+&emsp;(A)
 
-(11) In any proceeding for criminal contempt for violation of an injunction or restraining order issued under this section, trial shall be by the court, or, upon demand of the accused, by a jury, conducted in accordance with the provisions of rule 42(b) of the Federal Rules of Criminal Procedure.
+In general.—An owner or operator of a commercial motor vehicle against whom a civil penalty is assessed under this chapter or chapter 51, 149, or 311 of this title and who does not pay such penalty or fails to arrange and abide by an acceptable payment plan for such civil penalty may not operate in interstate commerce beginning on the 91st day after the date specified by order of the Secretary for payment of such penalty. This paragraph shall not apply to any person who is unable to pay a civil penalty because such person is a debtor in a case under chapter 11 of title 11, United States Code.
 
-(12) The provisions of this subsection shall not affect chapter 51 of this title or any regulation promulgated by the Secretary under chapter 51.
+&emsp;(B)
 
-(13) As used in this subsection, the terms “commercial motor vehicle”, “employee”, “employer”, and “State” have the meaning such terms have under section 31132 of this title.
+Regulations.—Not later than 12 months after the date of the enactment of this paragraph, the Secretary, after notice and an opportunity for public comment, shall issue regulations setting forth procedures for ordering commercial motor vehicle owners and operators delinquent in paying civil penalties to cease operations until payment has been made.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2435; Pub. L. 98–554, title II, §213(b), Oct. 30, 1984, 98 Stat. 2842; Pub. L. 99–570, title XII, §12012, Oct. 27, 1986, 100 Stat. 3207–184; Pub. L. 101–500, §15(e)(2), Nov. 3, 1990, 104 Stat. 1220; Pub. L. 102–548, §2(b), Oct. 28, 1992, 106 Stat. 3648; Pub. L. 103–272, §§4(j)(11)(D), 5(m)(11), July 5, 1994, 108 Stat. 1368, 1376; Pub. L. 104–287, §5(4), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title IV, §4015(a), (b), June 9, 1998, 112 Stat. 411.)
+(9) Any aggrieved person who, after a hearing, is adversely affected by a final order issued under this section may, within 30 days, petition for review of the order in the United States Court of Appeals in the circuit wherein the violation is alleged to have occurred or where the violator has his principal place of business or residence, or in the United States Court of Appeals for the District of Columbia Circuit. Review of the order shall be based on a determination of whether the Secretary's findings and conclusions were supported by substantial evidence, or were otherwise not in accordance with law. No objection that has not been urged before the Secretary shall be considered by the court, unless reasonable grounds existed for failure or neglect to do so. The commencement of proceedings under this subsection shall not, unless ordered by the court, operate as a stay of the order of the Secretary.
+
+(10) All penalties and fines collected under this section shall be deposited into the Highway Trust Fund (other than the Mass Transit Account).
+
+(11) In any action brought under this section, process may be served without regard to the territorial limits of the district of the State in which the action is brought.
+
+(12) In any proceeding for criminal contempt for violation of an injunction or restraining order issued under this section, trial shall be by the court, or, upon demand of the accused, by a jury, conducted in accordance with the provisions of rule 42(b) of the Federal Rules of Criminal Procedure.
+
+(13) The provisions of this subsection shall not affect chapter 51 of this title or any regulation promulgated by the Secretary under chapter 51.
+
+(14) As used in this subsection, the terms “commercial motor vehicle”, “employee”, “employer”, and “State” have the meaning such terms have under section 31132 of this title.
+
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2435; Pub. L. 98–554, title II, §213(b), Oct. 30, 1984, 98 Stat. 2842; Pub. L. 99–570, title XII, §12012, Oct. 27, 1986, 100 Stat. 3207–184; Pub. L. 101–500, §15(e)(2), Nov. 3, 1990, 104 Stat. 1220; Pub. L. 102–548, §2(b), Oct. 28, 1992, 106 Stat. 3648; Pub. L. 103–272, §§4(j)(11)(D), 5(m)(11), July 5, 1994, 108 Stat. 1368, 1376; Pub. L. 104–287, §5(4), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title IV, §4015(a), (b), June 9, 1998, 112 Stat. 411; Pub. L. 106–159, title II, §§206(b), 208, Dec. 9, 1999, 113 Stat. 1763, 1764.)
 
 Historical and Revision Notes
 
@@ -115,9 +127,17 @@ Subsection (b) does not apply to motor carriers of migrant workers and motor pri
 
 #### References in Text
 
-The Federal Rules of Criminal Procedure, referred to in subsec. (b)(11), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+Section 31310(g)(1)(A), referred to in subsec. (b)(1)(A), was redesignated section 31310(i)(1)(A), by Pub. L. 106–159, title II, §201(b)(1), Dec. 9, 1999, 113 Stat. 1759.
+
+The date of the enactment of this paragraph, referred to in subsec. (b)(8)(B), is the date of enactment of Pub. L. 106–159, which was approved Dec. 9, 1999.
+
+The Federal Rules of Criminal Procedure, referred to in subsec. (b)(12), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
+
+1999—Subsec. (b)(5)(B). Pub. L. 106–159, §208, substituted “substantially increases the likelihood of” for “is likely to result in”.
+
+Subsec. (b)(8) to (14). Pub. L. 106–159, §206(b), added par. (8) and redesignated former pars. (8) to (13) as (9) to (14), respectively.
 
 1998—Subsec. (b)(1)(A). Pub. L. 105–178, §4015(a)(1), struck out “fix a reasonable time for abatement of the violation,” before “specify the proposed civil penalty”.
 
@@ -177,6 +197,38 @@ Subsec. (b)(2). Pub. L. 98–554 substituted provisions setting forth amount of 
 
 Subsec. (b)(3) to (13). Pub. L. 98–554 added pars. (3) to (13).
 
+#### Minimum and Maximum Assessments
+
+Pub. L. 106–159, title II, §222, Dec. 9, 1999, 113 Stat. 1769, provided that:
+
+“(a)
+
+In General.—The Secretary of Transportation should ensure that motor carriers operate safely by imposing civil penalties at a level calculated to ensure prompt and sustained compliance with Federal motor carrier safety and commercial driver's license laws.
+
+“(b)
+
+Establishment.—The Secretary—
+
+&emsp;“(1) should establish and assess minimum civil penalties for each violation of a law referred to in subsection (a); and
+
+&emsp;“(2) shall assess the maximum civil penalty for each violation of a law referred to in subsection (a) by any person who is found to have committed a pattern of violations of critical or acute regulations issued to carry out such a law or to have previously committed the same or a related violation of critical or acute regulations issued to carry out such a law.
+
+“(c)
+
+Extraordinary Circumstances.—If the Secretary determines and documents that extraordinary circumstances exist which merit the assessment of any civil penalty lower than any level established under subsection (b), the Secretary may assess such lower penalty. In cases where a person has been found to have previously committed the same or a related violation of critical or acute regulations issued to carry out a law referred to in subsection (a), extraordinary circumstances may be found to exist when the Secretary determines that repetition of such violation does not demonstrate a failure to take appropriate remedial action.
+
+“(d)
+
+Report to Congress.—
+
+&emsp;“(1)
+
+In general.—The Secretary shall conduct a study of the effectiveness of the revised civil penalties established in the Transportation Equity Act for the 21st Century \[Pub. L. 105–178, see Tables for classification\] and this Act \[see Tables for classification\] in ensuring prompt and sustained compliance with Federal motor carrier safety and commercial driver's license laws.
+
+&emsp;“(2)
+
+Submission to congress.—The Secretary shall transmit the results of such study and any recommendations to Congress by September 30, 2002.”
+
 #### Report; Penalties; Effectiveness
 
 Section 213(d) of Pub. L. 98–554 directed Secretary of Transportation to conduct a study of effectiveness of civil and criminal penalties established by amendments made by section 213 of Pub. L. 98–554 in deterring violations of commercial motor vehicle safety regulations issued under title II of Pub. L. 98–554 and in effectively prosecuting such violations when they occur, which study was to examine the effectiveness of penalties in effect before Oct. 30, 1984, in comparison to the penalties established by the amendments made by title II of Pub. L. 98–554, and was to further investigate the need for, and make recommendations concerning, increased fine levels for civil and criminal penalties, and the need for additional categories of civil and criminal penalties to deter further, and prosecute effectively, violations of such commercial motor vehicle safety regulations, and further directed Secretary to submit to Congress a report on the findings of this study, together with legislative recommendations, not later than 2 years after Oct. 30, 1984.
@@ -184,4 +236,6 @@ Section 213(d) of Pub. L. 98–554 directed Secretary of Transportation to condu
 #### Section Referred to in Other Sections
 
 This section is referred to in section 31144 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

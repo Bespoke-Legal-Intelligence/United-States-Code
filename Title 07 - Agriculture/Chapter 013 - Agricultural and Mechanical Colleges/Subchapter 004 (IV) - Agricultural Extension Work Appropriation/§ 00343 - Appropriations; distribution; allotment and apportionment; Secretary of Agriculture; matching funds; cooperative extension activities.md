@@ -16,7 +16,7 @@
 
 (d) The Secretary of Agriculture shall receive such additional amounts as Congress shall determine for administration, technical, and other services and for coordinating the extension work of the Department and the several States, Territories, and possessions. A college or university eligible to receive funds under subchapter II of this chapter, including Tuskegee University, may apply for and receive directly from the Secretary of Agriculture—
 
-&emsp;(1) amounts made available under this subsection after September 30, 1995, to carry out programs or initiatives for which no fundswere made available under this subsection for fiscal year 1995, or any previous fiscal year, as determined by the Secretary; and
+&emsp;(1) amounts made available under this subsection after September 30, 1995, to carry out programs or initiatives for which no funds were made available under this subsection for fiscal year 1995, or any previous fiscal year, as determined by the Secretary; and
 
 &emsp;(2) amounts made available after September 30, 1995, to carry out programs or initiatives funded under this subsection prior to that date that are in excess of the highest amount made available for the programs or initiatives under this subsection for fiscal year 1995, or any previous fiscal year, as determined by the Secretary.
 
@@ -120,7 +120,7 @@ Other requirements.—An extension activity for which merit review is conducted 
 
 Integration of Research and Extension.—Section 361c(i) of this title shall apply to amounts made available to carry out this subchapter.
 
-(May 8, 1914, ch. 79, §3, 38 Stat. 373; June 26, 1953, ch. 157, §1, 67 Stat. 84; Pub. L. 87–749, §1(b)–(e), Oct. 5, 1962, 76 Stat. 745; Pub. L. 92–318, title V, §506(g), June 23, 1972, 86 Stat. 351; Pub. L. 95–113,title XIV, §1465, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 99–198, title XIV, §1435(b), Dec. 23, 1985, 99 Stat. 1557; Pub. L. 99–396, §9(e), Aug. 27, 1986, 100 Stat. 840; Pub. L. 103–382, title V, §534(b), Oct. 20, 1994, 108 Stat. 4050; Pub. L. 104–127, title VIII, §883(a), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, §105, title II, §§201, 203(b), (c)(2), 204(b), June 23, 1998, 112 Stat. 529, 531, 534, 536; Pub. L. 105–277, div. A, title I, §101(a) \[title VII, §753(e)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33.)
+(May 8, 1914, ch. 79, §3, 38 Stat. 373; June 26, 1953, ch. 157, §1, 67 Stat. 84; Pub. L. 87–749, §1(b)–(e), Oct. 5, 1962, 76 Stat. 745; Pub. L. 92–318, title V, §506(g), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1465, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 99–198, title XIV, §1435(b), Dec. 23, 1985, 99 Stat. 1557; Pub. L. 99–396, §9(e), Aug. 27, 1986, 100 Stat. 840; Pub. L. 103–382, title V, §534(b), Oct. 20, 1994, 108 Stat. 4050; Pub. L. 104–127, title VIII, §883(a), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, §105, title II, §§201, 203(b), (c)(2), 204(b), June 23, 1998, 112 Stat. 529, 531, 534, 536; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(e)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33.)
 
 #### References in Text
 
@@ -174,11 +174,11 @@ Subsec. (c)2. Pub. L. 87–749, §1(d), substituted provisions authorizing 20 pe
 
 Subsec. (d). Pub. L. 87–749, §1(e), inserted “additional” after “receive such”.
 
-1953—Act June 26, 1953, amended section generally, and, among other changes: (1) divided section into subsections; (2) substituted general authorization for appropriations for former authorization for specific annual appropriations; (3) inserted references to Alaska, Hawaii, and Puerto Rico; and (4) substituted provisions relating to allotment and apportionment of appropriations for former provisions for such apportionment on basis of rural population, and farm population, as determined by latest census.
+1953—Act June 26, 1953, amended section generally, and, among other changes: (1) divided section into subsections; (2) substituted general authorization for appropriations for former authorization for specific annual appropriations; (3) inserted references to Alaska,Hawaii, and Puerto Rico; and (4) substituted provisions relating to allotment and apportionment of appropriations for former provisions for such apportionment on basis of rural population, and farm population, as determined by latest census.
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. A, title I, §101(a) \[title VII, §753(f)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33, provided that: “The amendments made by this section \[amending this section, sections 361c, 2204f, 4606, and 7621 of this title, and section 1642 of Title 16, Conservation\] shall take effect on the date of enactment of the Agricultural Research, Extension, and Education Reform Act of 1998 \[June 23, 1998\].”
+Pub. L. 105–277, div. A, §101(a) \[title VII, §753(f)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33, provided that: “The amendments made by this section \[amending this section, sections 361c, 2204f, 4606, and 7621 of this title, and section 1642 of Title 16, Conservation\] shall take effect on the date of enactment of the Agricultural Research, Extension, and Education Reform Act of 1998 \[June 23, 1998\].”
 
 #### Effective Date of 1985 Amendment
 

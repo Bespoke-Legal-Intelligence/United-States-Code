@@ -91,3 +91,4 @@
 - [&sect; 00059ff - Declaration of nonnavigability for portions of Pelican Island, Texas](%C2%A7%2000059ff%20-%20Declaration%20of%20nonnavigability%20for%20portions%20of%20Pelican%20Island%2C%20Texas.md)
 - [&sect; 00059gg - Declaration of nonnavigability for portions of Cuyahoga County, Ohio](%C2%A7%2000059gg%20-%20Declaration%20of%20nonnavigability%20for%20portions%20of%20Cuyahoga%20County%2C%20Ohio.md)
 - [&sect; 00059hh - Declaration of nonnavigability for portion of Pelican Island, Texas](%C2%A7%2000059hh%20-%20Declaration%20of%20nonnavigability%20for%20portion%20of%20Pelican%20Island%2C%20Texas.md)
+- [&sect; 00059ii - Declaration of nonnavigability of a portion of the canal known as the James River and Kanawha Canal in Richmond, Virginia](%C2%A7%2000059ii%20-%20Declaration%20of%20nonnavigability%20of%20a%20portion%20of%20the%20canal%20known%20as%20the%20James%20River%20and%20Kanawha%20Canal%20in%20Richmond%2C%20Virginia.md)

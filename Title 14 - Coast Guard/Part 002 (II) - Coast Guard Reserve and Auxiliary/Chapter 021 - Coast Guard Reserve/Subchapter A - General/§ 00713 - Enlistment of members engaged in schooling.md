@@ -1,6 +1,6 @@
 ### §713. Enlistment of members engaged in schooling
 
-The initial period of active duty for training required by section 12103(d) of title 10, may bedivided into two successive annual periods of not less than six weeks each, to permit the enlistment of a Reserve member without interrupting any full-time schooling in which the member is engaged.
+The initial period of active duty for training required by section 12103(d) of title 10, may be divided into two successive annual periods of not less than six weeks each, to permit the enlistment of a Reserve member without interrupting any full-time schooling in which the member is engaged.
 
 (Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1007; amended Pub. L. 103–337, div. A, title XVI, §1677(b)(4), Oct. 5, 1994, 108 Stat. 3020.)
 

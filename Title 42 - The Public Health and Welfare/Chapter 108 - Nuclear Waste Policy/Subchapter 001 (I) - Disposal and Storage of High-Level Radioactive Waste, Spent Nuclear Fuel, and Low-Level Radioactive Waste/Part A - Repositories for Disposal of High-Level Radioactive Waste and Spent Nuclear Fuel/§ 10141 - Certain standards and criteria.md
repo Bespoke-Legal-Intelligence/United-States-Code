@@ -14,7 +14,7 @@ Not later than 1 year after January 7, 1983, the Administrator, pursuant to auth
 
 &emsp;(iii) applications for authorization for closure and decommissioning of such repositories.
 
-(B) Such criteria shall provide for the use of a system of multiple barriers in the design of the repository and shall include such restrictions on the retrievability of the solidified high-level radioactive waste and spent fuel emplaced in the repository as the Commission deems appropriate.
+(B) Such criteria shall provide for the use of a system of multiple barriers in the design of therepository and shall include such restrictions on the retrievability of the solidified high-level radioactive waste and spent fuel emplaced in the repository as the Commission deems appropriate.
 
 (C) Such requirements and criteria shall not be inconsistent with any comparable standards promulgated by the Administrator under subsection (a) of this section.
 
@@ -68,7 +68,7 @@ Modifications.—Not later than 1 year after the Administrator promulgates stand
 
 &emsp;“(2)
 
-Required assumptions.—The Commission's requirements and criteria shall assume, to the extent consistent with the findings and recommendations ofthe National Academy of Sciences, that, following repository closure, the inclusion of engineered barriers and the Secretary's post-closure oversight of the Yucca Mountain site, in accordance with subsection (c), shall be sufficient to—
+Required assumptions.—The Commission's requirements and criteria shall assume, to the extent consistent with the findings and recommendations of the National Academy of Sciences, that, following repository closure, the inclusion of engineered barriers and the Secretary's post-closure oversight of the Yucca Mountain site, in accordance with subsection (c), shall be sufficient to—
 
 &emsp;&emsp;“(A) prevent any activity at the site that poses an unreasonable risk of breaching the repository's engineered or geologic barriers; and
 

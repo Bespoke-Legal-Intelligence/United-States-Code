@@ -80,3 +80,4 @@ This subchapter is referred to in sections 286q, 290k–5, 290<i>l</i>–2, 290<
 - [&sect; 00286kk - Discussions to enhance capacity of Fund to alleviate potentially adverse impacts of Fund programs on poor and environment](%C2%A7%2000286kk%20-%20Discussions%20to%20enhance%20capacity%20of%20Fund%20to%20alleviate%20potentially%20adverse%20impacts%20of%20Fund%20programs%20on%20poor%20and%20environment.md)
 - [&sect; 00286ll - Fund policy changes](%C2%A7%2000286ll%20-%20Fund%20policy%20changes.md)
 - [&sect; 00286mm - Measures to reduce military spending by developing nations](%C2%A7%2000286mm%20-%20Measures%20to%20reduce%20military%20spending%20by%20developing%20nations.md)
+- [&sect; 00286nn - Approval of contributions for debt reductions for the poorest countries](%C2%A7%2000286nn%20-%20Approval%20of%20contributions%20for%20debt%20reductions%20for%20the%20poorest%20countries.md)

@@ -34,7 +34,7 @@ As used in this section:
 
 #### (6) Prohibited acts
 
-&emsp;Any person who intentionally transacts customs business, other than solely on the behalf of that person, without holding a valid customs broker's license granted to that person under this subsection shall be liable to the United States for a monetary penalty not to exceed $10,000 for each such transaction as well as for each violation of any other provision of this section. This penalty shall be assessed in the same manner and under the same procedures as the monetary penalties provided for in subsection (d)(2)(A) of this section.
+&emsp;Any person who intentionally transacts customs business, other than solely on the behalfof that person, without holding a valid customs broker's license granted to that person under this subsection shall be liable to the United States for a monetary penalty not to exceed $10,000 for each such transaction as well as for each violation of any other provision of this section. This penalty shall be assessed in the same manner and under the same procedures as the monetary penalties provided for in subsection (d)(2)(A) of this section.
 
 #### (c) Customs broker's permits
 
@@ -78,7 +78,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(ii) arose out of the conduct of its customs business; or
 
-&emsp;&emsp;&emsp;(iii) involved larceny, theft, robbery, extortion, forgery, counterfeiting, fraudulentconcealment, embezzlement, fraudulent conversion, or misappropriation of funds;
+&emsp;&emsp;&emsp;(iii) involved larceny, theft, robbery, extortion, forgery, counterfeiting, fraudulent concealment, embezzlement, fraudulent conversion, or misappropriation of funds;
 
 &emsp;&emsp;(C) has violated any provision of any law enforced by the Customs Service or the rules or regulations issued under any such provision;
 
@@ -122,7 +122,7 @@ As used in this section:
 
 #### (4) Additional evidence
 
-&emsp;If any party applies to the court for leave to present additional evidence and the court is satisfied that the additional evidence is material and that reasonable grounds existed for the failure to present the evidence in the proceedings before the hearing officer, the court may order the additional evidence to be taken before the hearing officer and to be presented in a manner and upon the terms and conditions prescribed by the court. The Secretary may modify the findings of facts on the basis of the additional evidence presented. The Secretary shall then file with the court any new or modified findings of fact which shall be conclusive if supported by substantial evidence, together with a recommendation, if any, for the modification or setting aside of the original decision or order.
+&emsp;If any party applies to the court for leave to present additional evidence and the court is satisfied that the additional evidence is material and that reasonable grounds existed for the failure to present the evidence in the proceedings before the hearing officer, the court may order the additional evidence to be taken before the hearing officer and to be presented in a manner and upon the terms and conditions prescribed by the court. The Secretary may modify the findings of facts on the basis of the additional evidence presented. The Secretary shall then file with the court any new or modified findings of fact which shall be conclusive if supported by substantial evidence,together with a recommendation, if any, for the modification or setting aside of the original decision or order.
 
 #### (5) Effect of proceedings
 
@@ -210,7 +210,7 @@ Subsec. (e). Act Aug. 26, 1935, §5, repealed subsec. (e) which related to licen
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–258 effective May 1, 1999, see section 2 of Pub. L. 105–258, set out as a note under section 1701 of Title 46, Appendix, Shipping.
+Amendment by Pub. L. 105–258 effective May 1, 1999, except as otherwise provided, see section 2 of Pub. L. 105–258, set out as a note under section 1701 of Title 46, Appendix, Shipping.
 
 #### Effective Date of 1984 Amendment
 
@@ -226,7 +226,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Section Referred to in Other Sections
 

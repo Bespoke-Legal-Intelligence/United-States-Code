@@ -1,6 +1,10 @@
 ### §844. Penalties
 
-(a) Any person who violates any of subsections (a) through (i) or (<i>l</i>) through (<i>o</i>) of section 842 shall be fined under this title, imprisoned for not more than 10 years, or both.
+(a) Any person who—
+
+&emsp;(1) violates any of subsections (a) through (i) or (<i>l</i>) through (<i>o</i>) of section 842 shall be fined under this title, imprisoned for not more than 10 years, or both; and
+
+&emsp;(2) violates subsection (p)(2) of section 842, shall be fined under this title, imprisoned not more than 20 years, or both.
 
 (b) Any person who violates any other provision of section 842 of this chapter shall be fined under this title or imprisoned not more than one year, or both.
 
@@ -30,7 +34,7 @@
 
 (2) The provisions of this subsection shall not be applicable to—
 
-&emsp;(A) the possession of ammunition (as that term is defined in regulations issued pursuant to this chapter) in an airport that is subject to the regulatory authority of the Federal Aviation Administration if such ammunition is either in checked baggage or in a closed container; or
+&emsp;(A) the possession of ammunition (as that term is defined in regulations issued pursuantto this chapter) in an airport that is subject to the regulatory authority of the Federal Aviation Administration if such ammunition is either in checked baggage or in a closed container; or
 
 &emsp;(B) the possession of an explosive in an airport if the packaging and transportation of such explosive is exempt from, or subject to and in accordance with, regulations of the Research and Special Projects Administration for the handling of hazardous materials pursuant to chapter 51 of title 49.
 
@@ -44,7 +48,7 @@
 
 (i) Whoever maliciously damages or destroys, or attempts to damage or destroy, by means of fire or an explosive, any building, vehicle, or other real or personal property used in interstate or foreign commerce or in any activity affecting interstate or foreign commerce shall be imprisoned for not less than 5 years and not more than 20 years, fined under this title, or both; and if personal injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be imprisoned for not less than 7 years and not more than 40 years, fined under this title, or both; and if death results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall also be subject to imprisonment for any term of years, or to the death penalty or to life imprisonment.
 
-(j) For the purposes of subsections (d), (e), (f), (g), (h), and (i) of this section, the term “explosive” means gunpowders, powders used for blasting, all forms of high explosives, blasting materials, fuzes (other than electric circuit breakers), detonators, and other detonating agents, smokeless powders, other explosive or incendiary devices within the meaning of paragraph (5) of section 232 of this title, and any chemical compounds, mechanical mixture, or device that contains any oxidizing and combustible units, or other ingredients, in such proportions, quantities, or packing that ignition by fire, by friction, by concussion, by percussion, or by detonation of the compound, mixture, or device or any part thereof may cause an explosion.
+(j) For the purposes of subsections (d), (e), (f), (g), (h), and (i) of this section and section 842(p), the term “explosive” means gunpowders, powders used for blasting, all forms of high explosives, blasting materials, fuzes (other than electric circuit breakers), detonators, and other detonating agents, smokeless powders, other explosive or incendiary devices within the meaning of paragraph (5) of section 232 of this title, and any chemical compounds, mechanical mixture, or device that contains any oxidizing and combustible units, or other ingredients, in such proportions, quantities, or packing that ignition by fire, by friction, by concussion, by percussion, or by detonation of the compound, mixture, or device or any part thereof may cause an explosion.
 
 (k) A person who steals any explosives materials which are moving as, or are a part of, or which have moved in, interstate or foreign commerce shall be imprisoned for not more than 10 years, fined under this title, or both.
 
@@ -56,7 +60,7 @@
 
 (<i>o</i>) Whoever knowingly transfers any explosive materials, knowing or having reasonable cause to believe that such explosive materials will be used to commit a crime of violence (as defined in section 924(c)(3)) or drug trafficking crime (as defined in section 924(c)(2)) shall be subject to the same penalties as may be imposed under subsection (h) for a first conviction for the use or carrying of an explosive material.
 
-(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 956; amended Pub. L. 97–298, §2, Oct. 12, 1982, 96 Stat. 1319; Pub. L. 98–473, title II, §1014, Oct. 12, 1984, 98 Stat. 2142; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–690, title VI, §6474(a), (b), Nov. 18, 1988, 102 Stat. 4379; Pub. L. 101–647, title XXXV, §3522, Nov. 29, 1990, 104 Stat. 4924; Pub. L. 103–272, §5(e)(7), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title VI, §60003(a)(3), title XI, §§110504(b), 110509, 110515(b), 110518(b), title XXXII, §§320106, 320917(a), title XXXIII, §330016(1)(H), (K), (L), (N), Sept. 13, 1994, 108 Stat. 1969, 2016, 2018, 2020, 2111, 2129, 2147, 2148; Pub. L. 104–132, title VI, §604, title VII, §§701, 706, 708(a), (c)(3), 724, Apr. 24, 1996, 110 Stat. 1289, 1291, 1295–1297, 1300; Pub. L. 104–294, title VI, §603(a), Oct. 11, 1996, 110 Stat. 3503.)
+(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 956; amended Pub. L. 97–298, §2, Oct. 12, 1982, 96 Stat. 1319; Pub. L. 98–473, title II, §1014, Oct. 12, 1984, 98 Stat. 2142; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–690, title VI, §6474(a), (b), Nov. 18, 1988, 102 Stat. 4379; Pub. L. 101–647, title XXXV, §3522, Nov. 29, 1990, 104 Stat. 4924; Pub. L. 103–272, §5(e)(7), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title VI, §60003(a)(3), title XI, §§110504(b), 110509, 110515(b), 110518(b), title XXXII, §§320106, 320917(a), title XXXIII, §330016(1)(H), (K), (L), (N), Sept. 13, 1994, 108 Stat. 1969, 2016, 2018, 2020, 2111, 2129, 2147, 2148; Pub. L. 104–132, title VI, §604, title VII, §§701, 706, 708(a), (c)(3), 724, Apr. 24, 1996, 110 Stat. 1289, 1291, 1295–1297, 1300; Pub. L. 104–294, title VI, §603(a), Oct. 11, 1996, 110 Stat. 3503; Pub. L. 106–54, §2(b), Aug. 17, 1999, 113 Stat. 399.)
 
 #### References in Text
 
@@ -66,11 +70,15 @@ Section 5845(a) of that Code, referred to in subsec. (c)(1), is section 5845(a) 
 
 #### Amendments
 
+1999—Subsec. (a). Pub. L. 106–54, §2(b)(1), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (j). Pub. L. 106–54, §2(b)(2), inserted “and section 842(p)” after “this section”.
+
 1996—Subsec. (a). Pub. L. 104–132, §604, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any person who violates subsections (a) through (i) of section 842 of this chapter shall be fined under this title or imprisoned not more than ten years, or both.”
 
 Subsec. (e). Pub. L. 104–132, §§708(a)(1), 724, substituted “interstate or foreign commerce, or in or affecting interstate or foreign commerce,” for “commerce” and “10” for “five”.
 
-Subsec. (f). Pub. L. 104–132, §708(a)(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Whoever maliciously damages or destroys, or attempts to damage or destroy, by means of fire or an explosive, any building, vehicle, or other personal or real property in whole or in part owned, possessed, or used by, or leased to, the United States, any department or agency thereof, or any institution or organization receiving Federal financial assistance shall be imprisoned for not more than 20 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,, or both; and if personal injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be imprisoned for not more than 40 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,, or both; and if death results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be subject to imprisonment for any term of years, or to the death penalty or to life imprisonment.”
+Subsec. (f). Pub. L. 104–132, §708(a)(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Whoever maliciously damages or destroys,or attempts to damage or destroy, by means of fire or an explosive, any building, vehicle, or other personal or real property in whole or in part owned, possessed, or used by, or leased to, the United States, any department or agency thereof, or any institution or organization receiving Federal financial assistance shall be imprisoned for not more than 20 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,, or both; and if personal injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be imprisoned for not more than 40 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,, or both; and if death results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be subject to imprisonment for any term of years, or to the death penalty or to life imprisonment.”
 
 Subsec. (h). Pub. L. 104–132, §708(a)(3), in concluding provisions, substituted “10 years” and “20 years” for “5 years but not more than 15 years” and “10 years but not more than 25 years”, respectively.
 
@@ -152,5 +160,5 @@ Subsecs. (a) to (c) of this section effective 120 days after Oct. 15, 1970, and 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 841, 845, 846, 981, 982, 1956, 2332b, 2339A, 2516, 3295, 3592, 5032 of this title; title 8 section 1101; title 31 section 9703.
+This section is referred to in sections 841, 842, 845, 846, 981, 982, 1956, 2332b, 2339A, 2516, 3295, 3592, 5032 of this title; title 8 section 1101; title 31 section 9703.
 

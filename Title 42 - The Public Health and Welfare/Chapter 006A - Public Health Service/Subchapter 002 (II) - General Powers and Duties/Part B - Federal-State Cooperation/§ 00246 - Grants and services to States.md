@@ -56,7 +56,7 @@ The Secretary is also authorized, during the period beginning July 1, 1966, and 
 
 1985—Subsec. (g). Pub. L. 99–117 directed that subsec. (g) be repealed. Previously, subsec. (g) was repealed by Pub. L. 96–398. See 1980 Amendment note below.
 
-1981—Subsec. (d). Pub. L. 97–35 struck out subsec. (d) which related to grants for services, form, manner, etc.,of application, review of activities undertaken, allotments, and authorization of appropriations.
+1981—Subsec. (d). Pub. L. 97–35 struck out subsec. (d) which related to grants for services, form, manner, etc., of application, review of activities undertaken, allotments, and authorization of appropriations.
 
 1980—Subsec. (g). Pub. L. 96–398 struck out subsec. (g) which related to application, procedures applicable, amount, etc., for State mental health program grants.
 
@@ -110,7 +110,7 @@ Subsec. (a)(2)(B). Pub. L. 91–515, §220(b), (c), inserted provisions authoriz
 
 Subsec. (a)(2)(C). Pub. L. 91–515, §220(d), inserted “and including home health care” after “private” and “and including environmental considerations as they relate to public health” after “people of the State”.
 
-Subsec. (b). Pub. L. 91–515, §230, redesignated existing provisions as subsec. (b)(1)(A), and, as so redesignated, extended period for making project grants from June 30, 1970 to June 30, 1973, inserted “and including the provision of such services through home health care” after “such services”, and authorized appropriations for the fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973, and added subsec. (b)(1)(B) and (b)(2).
+Subsec. (b). Pub. L. 91–515, §230, redesignated existing provisions as subsec. (b)(1)(A), and, as so redesignated, extended period for making project grants from June30, 1970 to June 30, 1973, inserted “and including the provision of such services through home health care” after “such services”, and authorized appropriations for the fiscal years ending June 30, 1971, June 30, 1972, and June 30, 1973, and added subsec. (b)(1)(B) and (b)(2).
 
 Pub. L. 91–296, §111(b), inserted provisions requiring that before grants be made to agencies or organizations to develop or revise health plans for an area the Secretary determine that the agency or organization provides means for appropriate representation of the interests of the hospitals, practicing physicians, and the general public.
 
@@ -162,7 +162,7 @@ Subsec. (c). Pub. L. 89–749 substituted provisions for project grants for the 
 
 Subsec. (d). Pub. L. 89–749 substituted provisions authorizing grants by the Surgeon General to State health or mental health authorities to assist in establishing and maintaining adequate public health services, setting out the requirements for an acceptable State plan for the supplying of public health services, authorizing an appropriation of $62,500,000 for fiscal 1968, the allotment of appropriated funds, payments to States, and the determination of the Federal share for provisions covering the allotment of appropriated funds among the several States on the basis of population, incidence of venereal disease, tuberculosis, mental health problems, and the financial needs of the various States.
 
-Subsec. (e). Pub. L. 89–749 substituted provisions for project grants for health services development to public or private nonprofit agencies and for the authorization of an appropriation of $62,500,000 for fiscal 1968 forprovisions covering the establishment and maintenance of community programs of heart disease control and the allotments and appropriations therefor.
+Subsec. (e). Pub. L. 89–749 substituted provisions for project grants for health services development to public or private nonprofit agencies and for the authorization of an appropriation of $62,500,000 for fiscal 1968 for provisions covering the establishment and maintenance of community programs of heart disease control and the allotments and appropriations therefor.
 
 Subsec. (f). Pub. L. 89–749 substituted provisions covering the interchange of personnel with States, the application of statutes covering Federal employees to interchanged personnel, and the coverage of State officers and employees, for provisions for the determination and certification of amounts paid to each State from allotments thereto.
 
@@ -242,7 +242,7 @@ Section 3(b) of Pub. L. 90–174 provided that the amendment of this section, th
 
 #### Effective Date of 1966 Amendment
 
-Section 6 of Pub. L. 89–749 provided in part that: “The amendments made by section 3 \[amending this section\]shall become effective as of July 1, 1966, except that the provisions of section 314 of the Public Health Service Act \[this section\] as in effect prior to the enactment of this Act shall be effective until July 1, 1967, in lieu of the provisions of subsections (d) and (e), and the provisions of subsections (g) insofar as they relate to such subsections (d) and (e), of section 314 of the Public Health Service Act \[this section\] as amended by this Act.”
+Section 6 of Pub. L. 89–749 provided in part that: “The amendments made by section 3 \[amending this section\] shall become effective as of July 1, 1966, except that the provisions of section 314 of the Public Health Service Act \[this section\] as in effect prior to the enactment of this Act shall be effective until July 1, 1967, in lieu of the provisions of subsections (d) and (e), and the provisions of subsections (g) insofar as they relate to such subsections (d) and (e), of section 314 of the Public Health Service Act \[this section\] as amended by this Act.”
 
 #### Effective Date of 1962 Amendment
 
@@ -306,7 +306,7 @@ Section 2 of Pub. L. 85–544, which had limited the authority of the Surgeon Ge
 
 #### Grants to States To Provide for Vaccination Against Poliomyelitis
 
-The Poliomyelitis Vaccination Assistance Act of 1955, act Aug. 12, 1955, ch. 863, 69 Stat. 704, as amended Feb.15, 1956, ch. 39, 70 Stat. 18, authorized appropriations to remain available until close of June 30, 1957 and provided for allotments to States, State application for funds, payments to States, use of funds paid to States, furnishing of vaccine by Surgeon General, diversion of Federal funds, supervision over exercise of functions, and definitions.
+The Poliomyelitis Vaccination Assistance Act of 1955, act Aug. 12, 1955, ch. 863, 69 Stat. 704, as amended Feb. 15, 1956, ch. 39, 70 Stat. 18, authorized appropriations to remain available until close of June 30, 1957 and provided for allotments to States, State application for funds, payments to States, use of funds paid to States, furnishing of vaccine by Surgeon General, diversion of Federal funds, supervision over exercise of functions, and definitions.
 
 #### Applicability of Reorganization Plan No. 3 of 1966
 

@@ -2,18 +2,18 @@ Part B—Transitional Living Grant Program
 
 #### Amendments
 
-1988—Pub. L. 100–690, title VII, §§7272(2), 7273(f), Nov. 18, 1988, 102 Stat. 4454, 4455, added part B heading, set out above, and struck out “
+1988—Pub. L. 100–690, title VII, §§7272(2), 7273(f), Nov. 18, 1988, 102 Stat. 4454, 4455, added part B heading, setout above, and struck out “
 
 Part B—Records” heading, formerly set out preceding section 5731 of this title.
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 5715, 5751 of this title.
+This part is referred to in sections 677, 5715, 5731a, 5732, 5732a, 5751 of this title.
 
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 05714&#8211;1 - Purpose and authority for program](%C2%A7%2005714%E2%80%931%20-%20Purpose%20and%20authority%20for%20program.md)
+- [&sect; 05714&#8211;1 - Authority for program](%C2%A7%2005714%E2%80%931%20-%20Authority%20for%20program.md)
 - [&sect; 05714&#8211;2 - Eligibility](%C2%A7%2005714%E2%80%932%20-%20Eligibility.md)

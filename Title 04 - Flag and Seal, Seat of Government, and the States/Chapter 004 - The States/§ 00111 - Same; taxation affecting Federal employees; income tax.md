@@ -52,5 +52,5 @@ The words “received after December 31, 1938,” are omitted as obsolete. The w
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title X, §1075(b)(2), Oct. 17, 1998, 112 Stat. 2139, provided that: “The amendment made by this subsection \[amending this section\] shallapply to pay and compensation paid after the date of the enactment of this Act \[Oct. 17, 1998\].”
+Pub. L. 105–261, div. A, title X, §1075(b)(2), Oct. 17, 1998, 112 Stat. 2139, provided that: “The amendment made by this subsection \[amending this section\] shall apply to pay and compensation paid after the date of the enactment of this Act \[Oct. 17, 1998\].”
 

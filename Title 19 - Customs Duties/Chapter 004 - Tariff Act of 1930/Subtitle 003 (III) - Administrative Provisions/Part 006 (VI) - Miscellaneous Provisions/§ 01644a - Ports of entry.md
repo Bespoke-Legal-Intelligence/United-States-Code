@@ -38,7 +38,7 @@ A decision to remit or mitigate a civil penalty under this section is final. Whe
 
 #### (e) Summary seizure of aircraft
 
-(1) An aircraft subject to a lien under this section may be seized summarily by and placed in the custody of a person authorized by regulations of the appropriate Secretary or the Attorney General. A report of the case shall be sent to the Attorney General. The Attorney General shall bring promptly a civil action in rem to enforce the lien or notify the appropriate Secretary that the action will not be brought.
+(1) An aircraft subject to a lien under this section may be seized summarily by and placed in the custody of a person authorized by regulations of the appropriate Secretary or the Attorney General. A report of the case shall be sentto the Attorney General. The Attorney General shall bring promptly a civil action in rem to enforce the lien or notify the appropriate Secretary that the action will not be brought.
 
 (2) An aircraft seized under this section shall be released from custody when—
 

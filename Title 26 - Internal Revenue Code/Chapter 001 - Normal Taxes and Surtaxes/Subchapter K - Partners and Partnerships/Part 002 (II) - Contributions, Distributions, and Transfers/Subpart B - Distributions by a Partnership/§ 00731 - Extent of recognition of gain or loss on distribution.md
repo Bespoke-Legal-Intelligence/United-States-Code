@@ -50,7 +50,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 &emsp;&emsp;&emsp;(iii) any financial instrument the value of which is determined substantially by reference to marketable securities,
 
-&emsp;&emsp;&emsp;(iv) except to the extent provided in regulations prescribed by the Secretary, any interest in a precious metal which, as of the date of the distribution, is actively traded (within the meaning of section 1092(d)(1)) unless such metal was produced, used, or held in the active conduct of a trade or business by the partnership,
+&emsp;&emsp;&emsp;(iv) except to the extent provided in regulations prescribed by the Secretary, any interest in a precious metal which, as of the date of the distribution, is activelytraded (within the meaning of section 1092(d)(1)) unless such metal was produced, used, or held in the active conduct of a trade or business by the partnership,
 
 &emsp;&emsp;&emsp;(v) except as otherwise provided in regulations prescribed by the Secretary, interests in any entity if substantially all of the assets of such entity consist (directly or indirectly) of marketable securities, money, or both, and
 
@@ -74,7 +74,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 #### (B) Limitation on gain recognized
 
-&emsp;&emsp;In the case of a distribution of marketable securities to a partner, the amount takeninto account under paragraph (1) shall be reduced (but not below zero) by the excess (if any) of—
+&emsp;&emsp;In the case of a distribution of marketable securities to a partner, the amount taken into account under paragraph (1) shall be reduced (but not below zero) by the excess (if any) of—
 
 &emsp;&emsp;&emsp;(i) such partner's distributive share of the net gain which would be recognized if all of the marketable securities of the same class and issuer as the distributed securities held by the partnership were sold (immediately before the transaction to which the distribution relates) by the partnership for fair market value, over
 
@@ -132,7 +132,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 &emsp;&emsp;&emsp;&emsp;(II) a partner who contributes to a partnership an interest in another partnership shall be treated as contributing a proportionate share of the assets of the other partnership.
 
-&emsp;&emsp;&nbsp;If the preceding sentence does not apply under such regulations with respect to any interest held by a partnership in another partnership, the interest in such other partnership shall be treated as if it were specified in a subclause of clause (i).
+&emsp;&emsp;&nbsp;If the preceding sentence does not apply under such regulations with respect to anyinterest held by a partnership in another partnership, the interest in such other partnership shall be treated as if it were specified in a subclause of clause (i).
 
 #### (4) Basis of securities distributed
 
@@ -162,7 +162,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 #### (d) Exceptions
 
-This section shall not apply to the extent otherwise provided by section 736 (relating topayments to a retiring partner or a deceased partner's successor in interest), section 751 (relating to unrealized receivables and inventory items), and section 737 (relating to recognition of precontribution gain in case of certain distributions).
+This section shall not apply to the extent otherwise provided by section 736 (relating to payments to a retiring partner or a deceased partner's successor in interest), section 751 (relating to unrealized receivables and inventory items), and section 737 (relating to recognition of precontribution gain in case of certain distributions).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 245; Pub. L. 102–486, title XIX, §1937(b)(2), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 103–465, title VII, §741(a), Dec. 8, 1994, 108 Stat. 5006; Pub. L. 105–34, title X, §1062(b)(3), Aug. 5, 1997, 111 Stat. 947.)
 
@@ -236,7 +236,7 @@ Marketable securities.—For purposes of this subsection, the term ‘marketable
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–486 applicable to distributions on or after June 25, 1992, see section 1937(c) of Pub. L. 102–486, set out as a note under section 704 of this title.
+Amendment by Pub. L. 102–486 applicable to distributions on or after June 25, 1992, see section 1937(c) ofPub. L. 102–486, set out as a note under section 704 of this title.
 
 #### Section Referred to in Other Sections
 

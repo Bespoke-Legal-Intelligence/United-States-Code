@@ -76,7 +76,7 @@ Ex. Ord. No. 11807, Sept. 28, 1974, 39 F.R. 35559, which related to occupational
 
 #### Ex. Ord. No. 12196. Occupational Safety and Health Programs for Federal Employees
 
-Ex. Ord. No. 12196, Feb. 26, 1980, 45 F.R. 12769, as amended by Ex. Ord. No. 12223, June 30, 1980, 45 F.R. 45235; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
+Ex. Ord. No. 12196, Feb. 26, 1980, 45 F.R. 12769, as amended by Ex. Ord. No. 12223, June 30, 1980, 45 F.R.45235; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7902(c) of Title 5 of the United States Code and in accord with Section 19 of the Occupational Safety and Health Act of 1970, as amended (29 U.S.C 668), it is ordered:
 
@@ -100,7 +100,7 @@ Heads of Agencies
 
 (c) Designate an agency official with sufficient authority to represent the interest and support of the agency head to be responsible for the management and administration of the agency occupational safety and health program.
 
-(d) Comply with all standards issued under section 6 of the Act \[29 U.S.C. 655\], except where the Secretary approves compliance with alternative standards. When an agency head determines it necessary to apply a different standard, that agency head shall, after consultation with appropriate occupational safety and health committees where established, notify the Secretaryand provide justification that equivalent or greater protection will be assured by the alternate standard.
+(d) Comply with all standards issued under section 6 of the Act \[29 U.S.C. 655\], except where the Secretary approves compliance with alternative standards. When an agency head determines it necessary to apply a different standard, that agency head shall, after consultation with appropriate occupational safety and health committees where established, notify the Secretary and provide justification that equivalent or greater protection will be assured by the alternate standard.
 
 (e) Assure prompt abatement of unsafe or unhealthy working conditions. Whenever an agency cannot promptly abate such conditions, it shall develop an abatement plan setting forth a timetable for abatement and a summary of interim steps to protect employees. Employees exposed to the conditions shall be informed of the provisions of the plan. When a hazard cannot be abated without assistance of the General Services Administration or other Federal lessor agency, an agency shall act with the lessor agency to secure abatement.
 
@@ -168,7 +168,7 @@ Department of Labor
 
 The Federal Advisory Council on Occupational Safety and Health
 
-1–501. The Federal Advisory Council on Occupational Safety and Health, established pursuant to ExecutiveOrder No. 11612, is continued. It shall advise the Secretary in carrying out responsibilities under this order. The Council shall consist of sixteen members appointed by the Secretary, of whom eight shall be representatives of Federal agencies and eight shall be representatives of labor organizations representing Federal employees. The members shall serve three-year terms with the terms of five or six members expiring each year, provided this Council is renewed every two years in accordance with the Federal Advisory Committee Act \[5 U.S.C. App.\]. The members currently serving on the Council shall be deemed to be its initial members under this order and their terms shall expire in accordance with the terms of their appointment.
+1–501. The Federal Advisory Council on Occupational Safety and Health, established pursuant to Executive Order No. 11612, is continued. It shall advise the Secretary in carrying out responsibilities under this order. The Council shall consist of sixteen members appointed by the Secretary, of whom eight shall be representatives of Federal agencies and eight shall be representatives of labor organizations representing Federal employees. The members shall serve three-year terms with the terms of five or six members expiring each year, provided this Council is renewed every two years in accordance with the Federal Advisory Committee Act \[5 U.S.C. App.\]. The members currently serving on the Council shall be deemed to be its initial members under this order and their terms shall expire in accordance with the terms of their appointment.
 
 1–502. The Secretary, or a designee, shall serve as the Chairman of the Council, and shall prescribe rules for the conduct of its business.
 
@@ -216,7 +216,7 @@ Term of the Federal Advisory Council on Occupational Safety and Health extended 
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1987,by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1989, by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
@@ -228,7 +228,9 @@ Term of the Federal Advisory Council on Occupational Safety and Health extended 
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1999, by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(b), Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 #### Section Referred to in Other Sections
 

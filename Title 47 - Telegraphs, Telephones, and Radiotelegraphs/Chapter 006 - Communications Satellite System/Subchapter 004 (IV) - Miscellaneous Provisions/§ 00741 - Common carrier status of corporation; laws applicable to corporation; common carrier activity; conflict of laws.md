@@ -8,7 +8,7 @@ The corporation shall be deemed to be a common carrier within the meaning of sec
 
 Section 3 of the Communications Act of 1934 \[47 U.S.C. 153\], referred to in text, was subsequently amended, and, as so amended, no longer contains a subsec. (h) defining “common carrier”. However, such term is defined elsewhere in that section.
 
-The Communications Act of 1934, referred to in text, is act June 19, 1934, ch. 652, 48 Stat. 1964, as amended, which is classified principally to chapter 5 (§151 et seq.)of this title. Titles II and III of the Communications Act of 1934 are classified generally to subchapters II (§201 et seq.) and III (§301 et seq.), respectively, of chapter 5 of this title. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+The Communications Act of 1934, referred to in text, is act June 19, 1934, ch. 652, 48 Stat. 1964, as amended, which is classified principally to chapter 5 (§151 et seq.) of this title. Titles II and III of the Communications Act of 1934 are classified generally to subchapters II (§201 et seq.) and III (§301 et seq.), respectively, of chapter 5 of this title. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

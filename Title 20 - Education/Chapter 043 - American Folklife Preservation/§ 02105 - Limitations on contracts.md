@@ -2,7 +2,7 @@
 
 #### (a) Time
 
-No payment shall be made pursuant to this chapter to carry out any research or training over a period in excess of two years, except that with the concurrence of at least two-thirds of the members of the Board of the Center such research or training may be carried out over a period of not to exceed five years.
+No payment shall be made pursuant to this chapter to carry out any research or training over a period in excess of two years, except thatwith the concurrence of at least two-thirds of the members of the Board of the Center such research or training may be carried out over a period of not to exceed five years.
 
 #### (b) Items excluded
 

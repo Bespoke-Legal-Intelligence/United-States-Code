@@ -110,11 +110,15 @@ The State shall use the automated system required by this section to extract inf
 
 #### (3) Temporary family assistance and medicaid agencies
 
-&emsp;Exchanging information with State agencies (of the State and of other States) administering programs funded under part A of this subchapter, programs operated under a State plan approved under subchapter XIX of this chapter, and other programs designated by the Secretary, as necessary to perform State agency responsibilities under this part and under such programs.
+&emsp;Exchanging information with State agencies (of the State and of other States) administering programs funded under part A of this subchapter, programs operated under a State plan approved under subchapter XIX of this chapter, and other programs designated by the Secretary, as necessary to perform State agencyresponsibilities under this part and under such programs.
 
 #### (4) Intrastate and interstate information comparisons
 
 &emsp;Exchanging information with other agencies of the State, agencies of other States, and interstate information networks, as necessary and appropriate to carry out (or assist other States to carry out) the purposes of this part.
+
+#### (5) Private industry councils receiving welfare-to-work grants
+
+&emsp;Disclosing to a private industry council (as defined in section 603(a)(5)(D)(ii) of this title) to which funds are provided under section 603(a)(5) of this title the names, addresses, telephone numbers, and identifying case number information in the State program funded under part A of this subchapter, of noncustodial parents residing in the service delivery area of the private industry council, for the purpose of identifying and contacting noncustodial parents regarding participation in the program under section 603(a)(5) of this title.
 
 #### (g) Collection and distribution of support payments
 
@@ -140,15 +144,17 @@ The State shall use the automated system required by this section to extract inf
 
 The automated system required by this section shall be used, to the maximum extent feasible, to implement the expedited administrative procedures required by section 666(c) of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §454A, as added and amended Pub. L. 104–193, title III, §§311, 312(c), 325(b), 344(a)(2), Aug. 22, 1996, 110 Stat. 2205, 2208, 2226, 2235; Pub. L. 105–34, title X, §1090(a)(1), Aug. 5, 1997, 111 Stat. 961.)
+(Aug. 14, 1935, ch. 531, title IV, §454A, as added and amended Pub. L. 104–193, title III, §§311, 312(c), 325(b), 344(a)(2), Aug. 22, 1996, 110 Stat. 2205, 2208, 2226, 2235; Pub. L. 105–34, title X, §1090(a)(1), Aug. 5, 1997, 111 Stat. 961; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §805(a)(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–285.)
 
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsecs. (d)(4) and (f), is classified generally to Title 26, Internal Revenue Code.
 
-Part A of this subchapter, referred to in subsec. (f)(3), is classified to section 601 et seq. of this title.
+Part A of this subchapter, referred to in subsec. (f)(3), (5), is classified to section 601 et seq. of this title.
 
 #### Amendments
+
+1999—Subsec. (f)(5). Pub. L. 106–113 added par. (5).
 
 1997—Subsec. (e)(4)(D). Pub. L. 105–34 substituted “the birth date and, beginning not later than October 1, 1999, the social security number, of any child” for “the birth date of any child”.
 
@@ -176,5 +182,5 @@ Section 344(a)(3) of Pub. L. 104–193 provided that: “The Secretary of Health
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 652, 653, 654, 654b, 655 of this title.
+This section is referred to in sections 603, 652, 653, 654, 654b, 655 of this title.
 

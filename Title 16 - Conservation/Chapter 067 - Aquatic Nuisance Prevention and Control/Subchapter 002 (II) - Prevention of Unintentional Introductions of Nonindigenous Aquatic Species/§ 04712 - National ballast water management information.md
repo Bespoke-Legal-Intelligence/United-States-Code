@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(i) examine the attributes and patterns of invasions of aquatic nuisance species; and
 
-&emsp;&emsp;&emsp;(ii) provide an estimate of the effectiveness of ballast water management andother vessel management guidelines issued and regulations promulgated under this subchapter in abating invasions of aquatic nuisance species in the waters that are the subject of the survey.
+&emsp;&emsp;&emsp;(ii) provide an estimate of the effectiveness of ballast water management and other vessel management guidelines issued and regulations promulgated under this subchapter in abating invasions of aquatic nuisance species in the waters that are the subject of the survey.
 
 #### (2) Ballast water discharge surveys
 
@@ -80,7 +80,7 @@ The Secretary, working through the International Maritime Organization, is encou
 
 Out of amounts appropriated to carry out this subsection for a fiscal year, the Under Secretary may—
 
-&emsp;(1) make available not to exceed $750,000 to fund research on aquatic nuisance species prevention and control in the Chesapeake Bay through grants, to be competitively awarded and subject to peer review, to universities and research institutions;
+&emsp;(1) make available not to exceed $750,000 to fund research on aquatic nuisance species prevention and control in the Chesapeake Bay through grants, to be competitively awardedand subject to peer review, to universities and research institutions;
 
 &emsp;(2) make available not to exceed $500,000 to fund research on aquatic nuisance species prevention and control in the Gulf of Mexico through grants, to be competitively awarded and subject to peer review, to universities and research institutions;
 

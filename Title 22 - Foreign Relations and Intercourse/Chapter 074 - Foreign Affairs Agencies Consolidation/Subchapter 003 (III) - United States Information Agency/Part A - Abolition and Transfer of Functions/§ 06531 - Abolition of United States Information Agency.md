@@ -10,5 +10,5 @@ Pub. L. 105–277, div. G, subdiv. A, title XIII, §1301, Oct. 21, 1998, 112 Sta
 
 &emsp;“(1) October 1, 1999; or
 
-&emsp;“(2) the date of abolition of the United States Information Agency pursuant to the reorganization plan described in section 1601 \[22 U.S.C. 6601\].”
+&emsp;“(2) the date of abolition \[Oct. 1, 1999\] of the United States Information Agency pursuant to the reorganization plan described in section 1601 \[22 U.S.C. 6601\].”
 

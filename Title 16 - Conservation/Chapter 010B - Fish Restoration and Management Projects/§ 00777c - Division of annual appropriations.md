@@ -2,7 +2,7 @@
 
 #### (a) Initial distribution
 
-The Secretary of the Interior shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection,<sup>1</sup> and Restoration Act (title III, Public Law 101–646) \[16 U.S.C. 3951 et seq.\]. Notwithstanding the provisions of section 777b of this title, such sums shall remain available to carry out such Act through fiscal year 1999.
+The Secretary of the Interior shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection,<sup>1</sup> and Restoration Act (title III, Public Law 101–646) \[16 U.S.C. 3951 et seq.\]. Notwithstanding the provisions of section 777b of this title, such sums shall remain available to carry out such Act through fiscal year 2000.
 
 #### (b) Use of balance after distribution
 
@@ -26,7 +26,7 @@ The Secretary of the Interior shall distribute 18 per centum of each annual appr
 
 &emsp;&emsp;(B) $8,000,000 shall be available for each fiscal year to the Secretary of the Interior for 3 fiscal years for obligation for qualified projects under section 777g–1(d) of this title.
 
-&emsp;&emsp;(C) The balance remaining after the application of subparagraphs (A) and (B) shall be transferred for each such fiscal year to theSecretary of Transportation and shall be expended for State recreational boating safety programs under section 13106 of title 46.
+&emsp;&emsp;(C) The balance remaining after the application of subparagraphs (A) and (B) shall be transferred for each such fiscal year to the Secretary of Transportation and shall be expended for State recreational boating safety programs under section 13106 of title 46.
 
 #### (4) Transfer of certain funds
 
@@ -46,7 +46,7 @@ Of the balance of each such annual appropriation remaining after making the dist
 
 &emsp;(5) $10,000,000 for fiscal year 2003;
 
-> shall be used for the National Outreach and Communications Program under section 777g(d) of this title. Such amounts shall remain available for 3 fiscal years, after which any portion thereof that is unobligated by the Secretary of the Interior for that program may be expended by the Secretary under subsection (e) of this section.
+> shall be used for the National Outreach and Communications Program under section 777g(d) of this title. Such amounts shall remain available for 3 fiscal years, after which any portion thereof that is unobligated by the Secretary of the Interior for that program may be expendedby the Secretary under subsection (e) of this section.
 
 #### (d) Funds available for expenses of investigations and administration
 
@@ -60,7 +60,7 @@ The Secretary of the Interior, after the distribution, transfer, use, and deduct
 
 So much of any sum not allocated under the provisions of this section for any fiscal year is hereby authorized to be made available for expenditure to carry out the purposes of this chapter until the close of the succeeding fiscal year, and if unexpended or unobligated at the end of such year, such sum is hereby authorized to be made available for expenditure by the Secretary of the Interior in carrying on the research program of the Fish and Wildlife Service in respect to fish of material value for sport or recreation. The term fiscal year as used in this section shall be a period of twelve consecutive months from October 1 through the succeeding September 30, except that the period for enumeration of persons holding licenses to fish shall be a State's fiscal or license year.
 
-(Aug. 9, 1950, ch. 658, §4, 64 Stat. 432; Pub. L. 91–503, title II, §201, Oct. 23, 1970, 84 Stat. 1101; Pub. L. 94–273, §4(2), Apr. 21, 1976, 90 Stat. 377; Pub. L. 98–369, div. A, title X, §1014(a)(3), July 18, 1984, 98 Stat. 1015; Pub. L. 101–646, title III, §308, Nov. 29, 1990, 104 Stat. 4787; Pub. L. 102–587, title V, §5604(a), Nov. 4, 1992, 106 Stat. 5087; Pub. L. 105–178, title VII, §§7402(b), 7403, June 9, 1998, 112 Stat. 483, 485; Pub. L. 105–206, title IX, §9012(b), July 22, 1998, 112 Stat. 864.)
+(Aug. 9, 1950, ch. 658, §4, 64 Stat. 432; Pub. L. 91–503, title II, §201, Oct. 23, 1970, 84 Stat. 1101; Pub. L. 94–273, §4(2), Apr. 21, 1976, 90 Stat. 377; Pub. L. 98–369, div. A, title X, §1014(a)(3), July 18, 1984, 98 Stat. 1015; Pub. L. 101–646, title III, §308, Nov. 29, 1990, 104 Stat. 4787; Pub. L. 102–587, title V, §5604(a), Nov. 4, 1992, 106 Stat. 5087; Pub. L. 105–178, title VII, §§7402(b), 7403, June 9, 1998, 112 Stat. 483, 485; Pub. L. 105–206, title IX, §9012(b), July 22, 1998, 112 Stat. 864; Pub. L. 106–74, title IV, §430, Oct. 20, 1999, 113 Stat. 1096.)
 
 #### References in Text
 
@@ -70,7 +70,9 @@ Section 5604(c) of the Clean Vessel Act of 1992, referred to in subsec. (b)(2)(A
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–178, §7403(a), as amended by Pub. L. 105–206, §9012(b)(1), inserted heading andamended text generally, substituting provisions relating to fiscal years 1998 to 2003 for provisions relating to fiscal years 1993 to 1998.
+1999—Subsec. (a). Pub. L. 106–74 substituted “fiscal year 2000” for “fiscal year 1999” in second sentence.
+
+1998—Subsec. (b). Pub. L. 105–178, §7403(a), as amended by Pub. L. 105–206, §9012(b)(1), inserted heading and amended text generally, substituting provisions relating to fiscal years 1998 to 2003 for provisions relating to fiscal years 1993 to 1998.
 
 Subsec. (b)(3)(B). Pub. L. 105–178, §7403(b), as added by Pub. L. 105–206, §9012(b)(2), made a technical amendment to reference in original act which appears in text as reference to section 777g–1(d) of this title.
 
@@ -108,9 +110,9 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respec
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 777 of this title.
 
-#### Sections Referred to in Other Sections
+#### Section Referred to in Other Sections
 
-This section is referred to in sections 777g, 2904, 2905 of this title.
+This section is referred to in sections 777g, 777g–1, 2904, 2905 of this title; title 46 section 13106.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -25,7 +25,7 @@ Another prior chapter 150, comprised of section 2521, was renumbered chapter 152
 
 #### Amendments
 
-1998—Pub. L. 105–261, div. A, title X, §1069(a)(4), Oct. 17, 1998, 112 Stat. 2136, substituted “2500” for “2491” initem for subchapter I and struck out “and Dual-Use Assistance Extension Programs” after “Technology” in item for subchapter IV.
+1998—Pub. L. 105–261, div. A, title X, §1069(a)(4), Oct. 17, 1998, 112 Stat. 2136, substituted “2500” for “2491” in item for subchapter I and struck out “and Dual-Use Assistance Extension Programs” after “Technology” in item for subchapter IV.
 
 1996—Pub. L. 104–106, div. A, title XIII, §1321(a)(2), Feb. 10, 1996, 110 Stat. 477, added item for subchapter VI.
 

@@ -16,7 +16,7 @@ Words “herein” and “this Act”, referred to in the three paragraphs of su
 
 The Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies,” approved July second, eighteen hundred and ninety, referred to in subsec. (a), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, known as the Sherman Act, which is classified to sections 1 to 7 of this title.
 
-The Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes,” of August twenty-seventh, eighteen hundred and ninety-four, referred to in subsec. (a), is act Aug. 27, 1894, ch. 349, 28 Stat. 509, as amended, known as the Wilson Tariff Act. Sections seventy-three to seventy-six thereof are set out as sections 8 to 11 of this title. Section seventy-seven thereof was not classified to the Code.
+The Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes,” of August twenty-seventh, eighteen hundred and ninety-four, referred to in subsec. (a), is act Aug. 27, 1894, ch. 349, 28 Stat. 509, as amended, known as theWilson Tariff Act. Sections seventy-three to seventy-six thereof are set out as sections 8 to 11 of this title. Section seventy-seven thereof was not classified to the Code.
 
 The Act entitled “An Act to amend sections seventy-three and seventy-six of the Act of August twenty-seventh, eighteen hundred and ninety-four, entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes’,” approved February twelfth, nineteen hundred and thirteen, referred to in subsec. (a), is act Feb. 12, 1913, ch. 40, 37 Stat. 667, as amended, which is classified to sections 8 and 11 of this title.
 
@@ -38,9 +38,9 @@ Insurance business, applicability of sections 12 to 27 to, see section 1011 et s
 
 #### Clayton Act Referred to in Other Sections
 
-The Clayton Act \[see References in Text note above\] is referred to in sections 35, 44, 57b–1, 1012, 1013, 3301, 3503 of this title; title 7 section 225; title 10 section 7430; title 12 sections 1828, 1849, 3208; title 16 section 2602; title 30 sections 184, 1413; title 33 section 1331; title 40 section 488; title 42 sections 2135, 2297b–11, 5417, 5909, 6202, 8235f, 9102; title 43 section 1770; title 45 section 791; title 46 App. section 1702; title 49 section 10706; title 50 App. sections 1941a, 2158.
+The Clayton Act \[see References in Text note above\] is referred to in sections 35, 44, 57b–1, 1012, 1013, 3301, 3503 of this title; title 7 section 225; title 10 section 7430; title 12 sections 1828, 1849, 3208; title 16 section 2602; title 30 sections 184, 1413; title 33 section 1331; title 40 section 488; title 42 sections 2135, 5417, 5909, 6202, 8235f, 9102; title 43 section 1770; title 45 section 791; title 46 App. section 1702; title 49 section 10706; title 50 App. sections 1941a, 2158.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 34, 37a, 1291, 1311, 4002, 4021, 4301, 6211 of this title; title 12 sections 1831u, 1841; title 16 section 824k; title 17 section 109; title 19 sections 2033, 2561; title 28 section 1407; title 42 sections 7651b, 12007, 13271; title 46 App. section 885; title 47 section 303c; title 49 sections 13703, 13907, 14104, 40102, 41308.
+This section is referred to in sections 34, 37a, 1291, 1311, 4002, 4021, 4301, 6211, 6701 of this title; title 12 sections 1831u, 1841; title 16 section 824k; title 17 section 109; title 19 sections 2033, 2561; title 28 section 1407; title 42 sections 7651b, 12007, 13271; title 46 App. section 885; title 47 section 303c; title 49 sections 13703, 13907, 14104, 40102, 41308, 41716.
 

@@ -28,7 +28,7 @@ If any ship subject to the MARPOL Protocol, Annex IV to the Antarctic Protocol, 
 
 #### (f) Referrals for appropriate action by foreign country
 
-Notwithstanding subsection (a), (b), or (d) of this section, if the violation is by a ship registered in or of the nationality of a country party to the MARPOL Protocol or the Antarctic Protocol, or one operated under the authority of a country party to the MARPOL Protocol or the Antarctic Protocol, the Secretary, acting in coordination with the Secretary of State, may refer the matter to the government of the country of the ship's registry or nationality, or under whose authority the ship is operating for appropriate action, rather than taking the actions required or authorized by this section.
+Notwithstanding subsection (a), (b), or (d) of this section, if the violation is by a ship registered in or of the nationality of a country party to the MARPOL Protocol or the AntarcticProtocol, or one operated under the authority of a country party to the MARPOL Protocol or the Antarctic Protocol, the Secretary, acting in coordination with the Secretary of State, may refer the matter to the government of the country of the ship's registry or nationality, or under whose authority the ship is operating for appropriate action, rather than taking the actions required or authorized by this section.
 
 (Pub. L. 96–478, §9, Oct. 21, 1980, 94 Stat. 2301; Pub. L. 100–220, title II, §2105, Dec. 29, 1987, 101 Stat. 1463; Pub. L. 101–380, title IV, §4302(n), Aug. 18, 1990, 104 Stat. 539; Pub. L. 103–182, title VI, §688, Dec. 8, 1993, 107 Stat. 2222; Pub. L. 104–227, title II, §201(f), Oct. 2, 1996, 110 Stat. 3043.)
 

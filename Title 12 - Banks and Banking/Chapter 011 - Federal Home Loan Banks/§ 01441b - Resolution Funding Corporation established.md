@@ -120,7 +120,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;&emsp;&emsp;(i) the Funding Corporation may transfer the amounts required under paragraph (8); and
 
-&emsp;&emsp;&emsp;(ii) the total of the face amounts (the amount of principal payable at maturity)of noninterest bearing instruments in the Funding Corporation Principal Fund are equal to the aggregate amount of principal on the obligations of the Funding Corporation.
+&emsp;&emsp;&emsp;(ii) the total of the face amounts (the amount of principal payable at maturity) of noninterest bearing instruments in the Funding Corporation Principal Fund are equal to the aggregate amount of principal on the obligations of the Funding Corporation.
 
 #### (B) Purchases of stock by Federal Home Loan Banks
 
@@ -168,7 +168,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (4) Pro rata distribution of first $1,000,000,000 invested in Funding Corporation by Federal Home Loan Banks
 
-&emsp;Of the first $1,000,000,000 of the aggregate that the Federal Housing Finance Board (pursuant to section 1441 of this title) or the Thrift Depositor Protection Oversight Board (under this section) may require the Federal Home Loan Banks collectively to invest in the capital stock of the Financing Corporation or invest in the capital stock of the Funding Corporation, respectively, the amount which each Federal Home Loan Bank (or any successor to the Bank) shall invest shall be determined by the Federal Housing Finance Board or the Thrift Depositor Protection Oversight Board (as the case may be) by multiplying the aggregate amount of such investment by all Banks by the percentage appearing in the following table for each such Bank:
+&emsp;Of the first $1,000,000,000 of the aggregate that the Federal Housing Finance Board (pursuant to section 1441 of this title) or the Thrift Depositor Protection Oversight Board (under this section) may require the Federal Home Loan Banks collectively to invest in the capital stock of the Financing Corporation or invest in the capital stock of the Funding Corporation, respectively, the amount which each Federal Home Loan Bank (or any successor tothe Bank) shall invest shall be determined by the Federal Housing Finance Board or the Thrift Depositor Protection Oversight Board (as the case may be) by multiplying the aggregate amount of such investment by all Banks by the percentage appearing in the following table for each such Bank:
 
 <b>   Bank</b>
 
@@ -270,7 +270,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Of the net earnings for any year of a Bank on whose behalf a purchase is made under subparagraph (A)(i) and any reimbursements received from other Banks, the amount necessary to make the reimbursements required under subparagraph (A)(ii) shall be placed in a reserve account (established in the manner prescribed by the Thrift Depositor Protection Oversight Board), which shall be available only for such reimbursements.
+&emsp;&emsp;&emsp;Of the net earnings for any year of a Bank on whose behalf a purchase is madeunder subparagraph (A)(i) and any reimbursements received from other Banks, the amount necessary to make the reimbursements required under subparagraph (A)(ii) shall be placed in a reserve account (established in the manner prescribed by the Thrift Depositor Protection Oversight Board), which shall be available only for such reimbursements.
 
 #### (ii) Limitation
 
@@ -328,21 +328,23 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;&emsp;&emsp;(ii) any proceeds from warrants and participations acquired by the Resolution Trust Corporation.
 
-#### (C) Payments by Federal Home Loan Banks
+#### (C) Payments by Federal home loan banks
 
-&emsp;&emsp;To the extent the amounts available pursuant to subparagraphs (A) and (B) are insufficient to cover the amount of interest payments, the Federal Home Loan Banks shall pay to the Funding Corporation each calendar year the aggregate amount of $300,000,000 minus the amounts required in such year for Financing Corporation principal payments (pursuant to section 1441 of this title) and the amounts required in such year by the Funding Corporation pursuant to subsection (e) of this section. Each Bank's individual share of any amounts required to be paid by the Banks under this subparagraph shall be determined as follows:
+#### (i) In general
 
-#### (i) Amounts up to 20 percent of net earnings
+&emsp;&emsp;&emsp;To the extent that the amounts available pursuant to subparagraphs (A) and (B) are insufficient to cover the amount of interest payments, each Federal home loan bank shall pay to the Funding Corporation in each calendar year, 20.0 percent of the net earnings of that Bank (after deducting expenses relating to section 1430(j) of this title and operating expenses).
 
-&emsp;&emsp;&emsp;Each Federal Home Loan Bank shall pay an equal percentage of its net earnings for the year for which such amount is required to be paid, up to a maximum of 20 percent of net earnings.
+#### (ii) Annual determination
 
-#### (ii) Amounts in excess of 20 percent of net earnings
+&emsp;&emsp;&emsp;The Board annually shall determine the extent to which the value of the aggregate amounts paid by the Federal home loan banks exceeds or falls short of the value of an annuity of $300,000,000 per year that commences on the issuance date and ends on the final scheduled maturity date of the obligations, and shall select appropriate present value factors for making such determinations, in consultation with the Secretary of the Treasury.
 
-&emsp;&emsp;&emsp;If the aggregate amount required to be paid by the Federal Home Loan Banks under this subparagraph for any year exceeds 20 percent of the aggregate net earnings of the Banks for such year, each Bank shall pay 20 percent of its net earnings for such year as provided in clause (i), and each Bank's individual share of the excess of the required amount over 20 percent of the aggregate net earnings of the Banks for such year shall be determined by dividing—
+#### (iii) Payment term alterations
 
-&emsp;&emsp;&emsp;&emsp;(I) the average month-end level in the prior year of advances outstanding by such Bank to Savings Associations Insurance Fund members; by
+&emsp;&emsp;&emsp;The Board shall extend or shorten the term of the payment obligations of a Federal home loan bank under this subparagraph as necessary to ensure that the value of all payments made by the Banks is equivalent to the value of an annuity referred to in clause (ii).
 
-&emsp;&emsp;&emsp;&emsp;(II) the average month-end level in the prior year of advances outstanding by all such Banks to Savings Associations Insurance Fund members.
+#### (iv) Term beyond maturity
+
+&emsp;&emsp;&emsp;If the Board extends the term of payment obligations beyond the final scheduled maturity date for the obligations, each Federal home loan bank shall continue to pay 20.0 percent of its net earnings (after deducting expenses relating to section 1430(j) of this title and operating expenses) to the Treasury of the United States until the value of all such payments by the Federal home loan banks is equivalent to the value of an annuity referred to in clause (ii). In the final year in which the Federal home loan banks are required to make any payment to the Treasury under this subparagraph, if the dollar amount represented by 20.0 percent of the net earnings of the Federal home loan banks exceeds the remaining obligation of the Banks to the Treasury, the Finance Board shall reduce the percentage pro rata to a level sufficient to pay the remaining obligation.
 
 #### (D) Proceeds from sale of assets
 
@@ -400,7 +402,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;&emsp;&emsp;(i) shall not be considered to be securities issued or guaranteed by a person controlled or supervised by, or acting as an instrumentality of, the Government of the United States; and
 
-&emsp;&emsp;&emsp;(ii) shall not be considered to be “exempted securities” within the meaning of section 78c(a)(12)(A)(i) of title 15, except that such obligations shall be considered to be exempted securities for purposes of section 78<i>o</i> of title 15.
+&emsp;&emsp;&emsp;(ii) shall not be considered to be “exempted securities” within the meaning of section 78c(a)(12)(A)(i) of title 15, exceptthat such obligations shall be considered to be exempted securities for purposes of section 78<i>o</i> of title 15.
 
 #### (B) Authority of Commission
 
@@ -418,7 +420,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (1) In general
 
-&emsp;Subject to regulations, restrictions, and limitations prescribed by the Thrift Depositor Protection Oversight Board, assets of theFunding Corporation which are not required to be invested in capital certificates issued by the Resolution Trust Corporation under section 1441a of this title and are not needed for current interest payments shall be invested in direct obligations of the United States issued by the Secretary.
+&emsp;Subject to regulations, restrictions, and limitations prescribed by the Thrift Depositor Protection Oversight Board, assets of the Funding Corporation which are not required to be invested in capital certificates issued by the Resolution Trust Corporation under section 1441a of this title and are not needed for current interest payments shall be invested in direct obligations of the United States issued by the Secretary.
 
 #### (2) Separate account for zero coupon instruments held to ensure payment of principal
 
@@ -500,7 +502,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) any fee incurred by the Funding Corporation in connection with the transfer of any security to, or the maintenance of any security in, the segregated account established under subsection (g) of this section; and
 
-&emsp;&emsp;(B) any other expense incurred by the Funding Corporation in connection with theestablishment or maintenance of such account.
+&emsp;&emsp;(B) any other expense incurred by the Funding Corporation in connection with the establishment or maintenance of such account.
 
 #### (3) Funding Corporation
 
@@ -556,7 +558,7 @@ For purposes of this section:
 
 The Thrift Depositor Protection Oversight Board may prescribe any regulations necessary to carry out this section.
 
-(July 22, 1932, ch. 522, §21B, as added Pub. L. 101–73, title V, §511(a), Aug. 9, 1989, 103 Stat. 394; amended Pub. L. 102–233, title III, §302(b), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XVI, §1613(a)(7), (9), Oct. 28, 1992, 106 Stat. 4092; Pub. L. 104–208, div. A, title II, §2704(d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–488, 3009–489.)
+(July 22, 1932, ch. 522, §21B, as added Pub. L. 101–73, title V, §511(a), Aug. 9, 1989, 103 Stat. 394; amended Pub. L. 102–233, title III, §302(b), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XVI, §1613(a)(7), (9), Oct. 28, 1992, 106 Stat. 4092; Pub. L. 104–208, div. A, title II, §2704(d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–488, 3009–489; Pub. L. 106–102, title VI, §607(a), Nov. 12, 1999, 113 Stat. 1455.)
 
 #### Amendment of Section
 
@@ -590,11 +592,17 @@ Section 9105 of title 31, referred to in subsec. (h)(3), was amended generally b
 
 #### Amendments
 
+1999—Subsec. (f)(2)(C). Pub. L. 106–102 amended subpar. (C) generally, substituting present provisions for provisions requiring Federal Home Loan Banks to pay to the Funding Corporation each calendar year an amount sufficient to cover amount of interest payments made by the Corporation in that year, and provisions relating to determination of each Bank's individual share of such annual amount.
+
 1992—Subsecs. (c)(8), (j)(2). Pub. L. 102–550, §1613(a)(7), inserted “Thrift Depositor Protection” before “Oversight” in headings.
 
 Subsec. (k)(7). Pub. L. 102–550, §1613(a)(9), substituted “Thrift Depositor Protection Oversight” for “Oversight” in heading.
 
 1991—Pub. L. 102–233 substituted “Thrift Depositor Protection Oversight Board” for “Oversight Board” wherever appearing in text.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–102, title VI, §607(b), Nov. 12, 1999, 113 Stat. 1456, provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on January 1, 2000. Payments made by a Federal home loan bank before that effective date shall be counted toward the total obligation of that Bank under section 21B(f)(2)(C) of the Federal Home Loan Bank Act \[12 U.S.C. 1441b(f)(2)(C)\], as amended by this section.”
 
 #### Effective Date of 1996 Amendment
 
@@ -614,7 +622,7 @@ Thrift Depositor Protection Oversight Board abolished, see section 14(a)–(d) o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1422, 1430, 1436, 1441, 1441a, 1821a of this title; title 26 section 501.
+This section is referred to in sections 1422, 1426, 1430, 1436, 1441, 1441a, 1821a of this title; title 26 section 501.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

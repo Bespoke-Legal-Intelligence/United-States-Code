@@ -2,7 +2,7 @@
 
 (a) The Secretary concerned shall prescribe regulations to carry out this chapter within his department.
 
-(b) Except as provided in subsection (d), the Secretary concerned has all powers, functions, and duties incident to the determination under this chapter of—
+(b) Except as provided in subsection (d), the Secretary concerned has all powers, functions,and duties incident to the determination under this chapter of—
 
 &emsp;(1) the fitness for active duty of any member of an armed force under his jurisdiction;
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1976 Amendment
 
-Section 2(b) of Pub. L. 94–225 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall apply with respect tounfitness determinations made on or after the date of the enactment of this Act \[Mar. 4, 1976\] by the Secretaries of the military departments concerned for purposes of sections 1201, 1202, and 1203 of title 10, United States Code.”
+Section 2(b) of Pub. L. 94–225 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall apply with respect to unfitness determinations made on or after the date of the enactment of this Act \[Mar. 4, 1976\] by the Secretaries of the military departments concerned for purposes of sections 1201, 1202, and 1203 of title 10, United States Code.”
 
 #### Ex. Ord. No. 10122. Regulations Governing Disability Pay, Hospitalization and Reexamination
 
@@ -88,7 +88,7 @@ Section 1. The terms “uniformed services” and “Secretary” as used in the
 
 Sec. 2. (a) Effective as of October 1, 1949, all duties, powers, and functions incident to the payment of disability retirement pay of members or former members of the uniformed services retired for physical disability or receiving disability retirement pay shall, except as provided in subsection (b) of this section, be vested in the Secretary concerned.
 
-(b) Effective July 1, 1950, all duties, powers, and functions exercised by the Veterans’ Administration pursuant to Executive Order No. 8099 of April 28, 1939, as amended by Executive Order No. 8461 of June 28, 1940, relative to the administration of the retirement-pay provisions of section 1 of the act of August 30, 1935, as amended by section 5 of the act of April 3, 1939, 53 Stat. 557 \[former section 369a of this title\], and amendments thereof, shall, as to cases within their respective jurisdictions, be vested in the Secretary of the Army and the Secretary of the Air Force, and thereafter the Veterans’ Administration shall not be charged in any case with any further responsibility in the administration of the said retirement-pay provisions. The said Executive Order No. 8099 as amended by the said Executive Order No. 8461 is hereby amended accordingly.
+(b) Effective July 1, 1950, all duties, powers, and functions exercised by the Veterans’ Administration pursuant to Executive Order No. 8099 of April 28, 1939, as amended by Executive Order No. 8461 of June 28, 1940, relative to the administration of the retirement-pay provisions of section 1 of the act of August 30, 1935, as amended by section 5 of the act of April 3, 1939, 53 Stat. 557 \[former section 369a of this title\], and amendments thereof, shall, as to cases within their respective jurisdictions, be vested in the Secretary of the Army and the Secretary of the Air Force, and thereafter the Veterans’ Administration shall not be charged in any casewith any further responsibility in the administration of the said retirement-pay provisions. The said Executive Order No. 8099 as amended by the said Executive Order No. 8461 is hereby amended accordingly.
 
 Sec. 3. All duties, powers, and functions incident to the hospitalization, except as provided in section 5 of this order, and re-examination of members of the uniformed services placed on the temporary disability retired list under the provisions of the Career Compensation Act of 1949 shall be vested in the Secretary concerned.
 

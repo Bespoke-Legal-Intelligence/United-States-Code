@@ -16,7 +16,7 @@
 
 #### Historical and Revision Notes
 
-Subsection (a) is based on title 14, U.S.C., 1946 ed., §§28, 42, 57 (Aug. 29, 1916, ch. 417, 39 Stat. 601; July 3,1926, ch. 742, §11, 44 Stat. 817.) Subsection is enlarged to make reimbursement for the building of ships or the training of personnel dependent on agreement of the Secretaries, and to include all schools operated by the Navy, rather than aviation schools only.
+Subsection (a) is based on title 14, U.S.C., 1946 ed., §§28, 42, 57 (Aug. 29, 1916, ch. 417, 39 Stat. 601; July 3, 1926, ch. 742, §11, 44 Stat. 817.) Subsection is enlarged to make reimbursement for the building of ships or the training of personnel dependent on agreement of the Secretaries, and to include all schools operated by the Navy, rather than aviation schools only.
 
 Subsection (b) is based on title 14, U.S.C., 1946 ed., §31 (Mar. 6, 1920, ch. 94, §1, 41 Stat. 506).
 

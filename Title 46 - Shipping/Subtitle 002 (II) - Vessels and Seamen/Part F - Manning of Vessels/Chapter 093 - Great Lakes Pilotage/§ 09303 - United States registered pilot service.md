@@ -8,7 +8,7 @@
 
 &emsp;(3) agree that, if appointed as a United States registered pilot, the applicant will be available for service when required.
 
-(b) The Secretary shall issue to each registered pilot under this chapter a certificate of registration describing the areas within which the pilot may serve. The pilot shall carry the certificate when in the service of a vessel.
+(b) The Secretary shall issue to each registered pilot under this chapter a certificate ofregistration describing the areas within which the pilot may serve. The pilot shall carry the certificate when in the service of a vessel.
 
 (c) The Secretary shall prescribe by regulation the duration of validity of registration.
 

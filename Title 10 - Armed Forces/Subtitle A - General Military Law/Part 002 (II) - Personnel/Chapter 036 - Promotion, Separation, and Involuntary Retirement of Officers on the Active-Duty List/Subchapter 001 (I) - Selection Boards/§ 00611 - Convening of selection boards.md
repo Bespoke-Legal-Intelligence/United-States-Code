@@ -48,7 +48,7 @@ I74“regular officers serving in a higher temporary grade below lieutenant gene
 
 > shall be considered to have been recommended by a board convened under section 611(a) of title 10, United States Code, as added by this Act, for promotion to the regular grade equivalent to the grade in which he is serving or for which he has been recommended for promotion, as the case may be.
 
-“(b) An officer referred to in clause (1) of subsection (a) who is not promoted to the grade to which he is considered under such subsection to have been recommended for promotion because his name is removed from a list of officers who are considered under such subsection to have been recommended for promotion shall be considered under chapter 36 of title 10, United States Code, as added by this Act, for promotion to the regular grade equivalent to the temporary grade in which he was serving on the effective date of this Act \[Sept. 15, 1981\] as if he were serving in his regular grade.
+“(b) An officer referred to in clause (1) of subsection (a) who is not promoted to the grade to which he is considered under such subsection to have been recommended for promotion because his name is removed from a list of officers who are considered under such subsection to have been recommended for promotion shall be considered under chapter 36 of title 10, UnitedStates Code, as added by this Act, for promotion to the regular grade equivalent to the temporary grade in which he was serving on the effective date of this Act \[Sept. 15, 1981\] as if he were serving in his regular grade.
 
 “(c) Notwithstanding section 741(d) of title 10, United States Code, as added by this Act, the date of rank of an officer referred to in subsection (a)(1) who is promoted to the temporary grade in which he is serving on the effective date of this Act \[Sept. 15, 1981\] is the date of his temporary appointment in that grade.
 
@@ -164,7 +164,7 @@ I74“regular officers serving in a higher temporary grade below lieutenant gene
 
 “(b)(1) The Secretary of the Army or the Secretary of the Air Force, as appropriate, may convene selection boards under this section for the purpose of recommending from among officers described in subsection (a) officers to be selected to be subject to mandatory retirement for years of service in accordance with the laws applicable on the day before the effective date of this Act \[Sept. 15, 1981\] to officers in the permanent grade to which such officers were promoted pursuant to section 601(a) or to officers in a lower permanent grade higher than the permanent grade held by such officers on the day before the effective date of this Act.
 
-“(2) Upon the recommendation of a selection board convened under this section, the Secretary concerned may select officers described in subsection (a) to be subject to mandatory retirement in accordance withthe provisions of section 3922, 3923, 8922, or 8923, as appropriate, of title 10, United States Code, as in effect on the day before the effective date of this Act \[Sept. 15, 1981\], rather than in the manner described in subsection (a).
+“(2) Upon the recommendation of a selection board convened under this section, the Secretary concerned may select officers described in subsection (a) to be subject to mandatory retirement in accordance with the provisions of section 3922, 3923, 8922, or 8923, as appropriate, of title 10, United States Code, as in effect on the day before the effective date of this Act \[Sept. 15, 1981\], rather than in the manner described in subsection (a).
 
 “(3) Any selection board convened under this section shall be convened in accordance with the provisions of section 3297 or 8297, as appropriate, of title 10, United States Code, as in effect on the day before the effective date of this Act \[Sept. 15, 1981\].
 
@@ -184,7 +184,7 @@ I74“regular officers serving in a higher temporary grade below lieutenant gene
 
 &emsp;“(B) is on a list of officers recommended for promotion to the regular grade of major,
 
-> shall be retained on active duty until he completes twenty-one years of service as computed under section 3927(a) or 8927(a), as appropriate, of title 10, United States Code (as in effect on the day before the effective date of this Act), and then be retired under the provisions of section 3913 or 8913 of such title (as in effect on the day before the effective date of this Act) on the first day of the month after the month in which he completes that service.
+> shall be retained on active duty until he completes twenty-one years of service as computed under section 3927(a) or 8927(a), as appropriate, of title 10, UnitedStates Code (as in effect on the day before the effective date of this Act), and then be retired under the provisions of section 3913 or 8913 of such title (as in effect on the day before the effective date of this Act) on the first day of the month after the month in which he completes that service.
 
 “(2) Paragraph (1) does not apply to an officer who—
 
@@ -416,7 +416,7 @@ I74“officers serving in a temporary grade below vice admiral or lieutenant gen
 
 #### “certain navy lieutenants holding temporary appointments in the grade of lieutenant commander
 
-“Sec. 617. Any officer who on the effective date of this Act \[Sept. 15, 1981\] holds a temporary appointmentin the grade of lieutenant commander under section 5787d of title 10, United States Code, shall on and after such date be considered to be serving in such grade as if such appointment had been made under section 5721 of such title, as added by this Act.
+“Sec. 617. Any officer who on the effective date of this Act \[Sept. 15, 1981\] holds a temporary appointment in the grade of lieutenant commander under section 5787d of title 10, United States Code, shall on and after such date be considered to be serving in such grade as if such appointment had been made under section 5721 of such title, as added by this Act.
 
 #### “director of budget and reports of the navy
 
@@ -482,7 +482,7 @@ I74“establishment of initial active-duty lists
 
 &emsp;“(2) all subsequent active commissioned service of such officer.
 
-“(b) In the case of an officer subject to placement on the active-duty list on September 15, 1981, for whom no means of computing service creditable in determining whether the officer is subject to involuntary retirement or discharge existed under the law in effect on the day before the effective date of this Act \[Sept. 15, 1981\],the amount of creditable service of such officer for such purpose for the period before the effective date of this Act shall be determined under regulations prescribed by the Secretary of the military department concerned, except that such an officer may not be credited with an amount of service less than the amount of his active commissioned service.
+“(b) In the case of an officer subject to placement on the active-duty list on September 15, 1981, for whom no means of computing service creditable in determining whether the officer is subject to involuntary retirement or discharge existed under the law in effect on the day before the effective date of this Act \[Sept. 15, 1981\], the amount of creditable service of such officer for such purpose for the period before the effective date of this Act shall be determined under regulations prescribed by the Secretary of the military department concerned, except that such an officer may not be credited with an amount of service less than the amount of his active commissioned service.
 
 #### “savings provision for constructive service previously granted
 
@@ -492,7 +492,7 @@ I74“establishment of initial active-duty lists
 
 &emsp;“(2) was participating in a program leading to an appointment as an officer in the Army, Navy, Air Force, or Marine Corps and the crediting of years of service.
 
-“(b)(1) Any officer who on the effective date of this Act \[Sept. 15, 1981\] is an officer of the Army or Navy in the Medical or Dental Corps of his armed force, an officer of the Air Force designated as a medical or dental officer, or an officer of the Public Health Service commissioned as a medical or dental officer is entitled to include in the years of service creditable to him for the computation of basic pay and retired pay the years of service creditable to him for such purposes under clauses (7) and (8) of section 205(a) of title 37, United States Code, as in effect on the day before the effective date of this Act.
+“(b)(1) Any officer who on the effective date of this Act \[Sept. 15, 1981\] is an officer of the Army or Navy in the Medical or Dental Corps of his armed force, an officer of the Air Force designated as a medical or dental officer, or an officer of the Public Health Service commissioned as a medical or dental officer is entitled to include in the years of service creditable to him for the computation of basic pay and retired pay the years of service creditable to him for such purposes under clauses (7) and (8) of section 205(a) of title 37, UnitedStates Code, as in effect on the day before the effective date of this Act.
 
 “(2) Any person who on the day before the effective date of this Act \[Sept. 15, 1981\] was enrolled in the Uniformed Services University of the Health Sciences under chapter 104 of this title or the Armed Forces Health Professions Scholarship Program under chapter 105 of this title and who on or after the effective date of this Act graduates from such university or completes such program, as the case may be, and is appointed in one of the categories specified in paragraph (1) is entitled to include in the years of service creditable to him for the computation of basic pay and retired pay the years of service that would have been credited to him under clauses (7) and (8) of section 205(a) of title 37, United States Code, as in effect on the day before the effective date of this Act, had such clauses not been repealed by this Act.
 
@@ -528,7 +528,7 @@ I74“establishment of initial active-duty lists
 
 #### “exemption of certain officers from selective early retirement provisions
 
-“Sec. 630. An officer of the Army, Navy, Air Force, or Marine Corps who was recommended for continuation on the active list under the Act entitled ‘An Act to provide improved opportunity for promotion for certain officers in the naval service, and for other purposes’, approved August 11, 1959 (Public Law 86–155; 10 U.S.C. 5701 note), or under section 10 of the Act entitled ‘An Act relating to the promotion and separation of certain officers of the regular components of the armed forces’, approved July 12, 1960 (Public Law 86–616; 10 U.S.C. 3297 note), is not subject to section 638 of title 10, UnitedStates Code, as added by this Act, relating to selective early retirement.
+“Sec. 630. An officer of the Army, Navy, Air Force, or Marine Corps who was recommended for continuation on the active list under the Act entitled ‘An Act to provide improved opportunity for promotion for certain officers in the naval service, and for other purposes’, approved August 11, 1959 (Public Law 86–155; 10 U.S.C. 5701 note), or under section 10 of the Act entitled ‘An Act relating to the promotion and separation of certain officers of the regular components of the armed forces’, approved July 12, 1960 (Public Law 86–616; 10 U.S.C. 3297 note), is not subject to section 638 of title 10, United States Code, as added by this Act, relating to selective early retirement.
 
 #### “savings provision for entitlement to readjustment pay or severance pay under prior provisions of law
 

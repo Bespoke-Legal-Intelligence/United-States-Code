@@ -38,7 +38,7 @@ Reporting Requirement.—(1) Not later than 30 days after the end of each quarte
 
 (f)
 
-Authority to Use Property.—Property accepted under subsection (a) may be used by the Secretary of Defense without specific authorization, except that such property may not be used in connection with any program, project, or activity if the use of such property would result inthe violation of any prohibition or limitation otherwise applicable to such program, project, or activity.
+Authority to Use Property.—Property accepted under subsection (a) may be used by the Secretary of Defense without specific authorization, except that such property may not be used in connection with any program, project, or activity if the use of such property would result in the violation of any prohibition or limitation otherwise applicable to such program, project, or activity.
 
 (g)
 

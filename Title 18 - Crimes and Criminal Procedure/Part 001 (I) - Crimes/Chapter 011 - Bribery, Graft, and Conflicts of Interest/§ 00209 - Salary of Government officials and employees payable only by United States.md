@@ -2,7 +2,7 @@
 
 (a) Whoever receives any salary, or any contribution to or supplementation of salary, as compensation for his services as an officer or employee of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, from any source other than the Government of the United States, except as may be contributed out of the treasury of any State, county, or municipality; or
 
-Whoever, whether an individual, partnership, association, corporation, or other organization pays, or makes any contribution to, or in any way supplements the salary of, any such officer or employee under circumstances which would make its receipt a violation of this subsection—
+Whoever, whether an individual, partnership, association, corporation, or other organization pays, or makes any contribution to, or in anyway supplements the salary of, any such officer or employee under circumstances which would make its receipt a violation of this subsection—
 
 Shall be subject to the penalties set forth in section 216 of this title.
 
@@ -84,5 +84,5 @@ Reading assistants for blind employees, payment without regard to this section, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 202, 216 of this title; title 2 section 162; title 5 sections 568, 3102, 3343, 3374, 4111; title 7 section 2220; title 8 section 1353c; title 12 section 2245; title 16 section 459b–7; title 22 sections 3507, 3508; title 28 sections 594, 656; title 30 section 663; title 40 App. section 108; title 42 sections 280d–11, 1314; title 45 section 362.
+This section is referred to in sections 14, 202, 216 of this title; title 2 section 162; title 5 sections 568, 3102, 3343, 3374, 4111; title 7 section 2220; title 8 section 1353c; title 12 section 2245; title 16 section 459b–7; title 22 sections 3507, 3508; title 28 section 594; title 30 section 663;title 40 App. section 108; title 42 sections 280d–11, 1314; title 45 section 362.
 

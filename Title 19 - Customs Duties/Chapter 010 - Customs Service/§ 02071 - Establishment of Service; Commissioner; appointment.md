@@ -1,6 +1,6 @@
 ### §2071. Establishment of Service; Commissioner; appointment
 
-There shall be in the Department of the Treasury a service to be known as the United States Customs Service, and a Commissioner of Customs. The Commissioner of Customs, who shall be appointed by the President by and with the advice and consent of the Senate, shall—
+There shall be in the Department of the Treasury a service to be known as the United StatesCustoms Service, and a Commissioner of Customs. The Commissioner of Customs, who shall be appointed by the President by and with the advice and consent of the Senate, shall—
 
 &emsp;(1) be at the head of the United States Customs Service;
 
@@ -68,7 +68,7 @@ Pub. L. 101–382, title II, §233, Aug. 20, 1990, 104 Stat. 663, provided that:
 
 “(a)
 
-Establishment of Program.—Subject to subsection (b), the Commissioner of Customs shall carry out, during fiscal years 1991 and 1992, preclearance operations at a facility of the United States Customs Service in a country within the Caribbean Basin which theCommissioner of Customs considers appropriate for testing the extent to which the availability of preclearance operations can assist in the development of tourism.
+Establishment of Program.—Subject to subsection (b), the Commissioner of Customs shall carry out, during fiscal years 1991 and 1992, preclearance operations at a facility of the United States Customs Service in a country within the Caribbean Basin which the Commissioner of Customs considers appropriate for testing the extent to which the availability of preclearance operations can assist in the development of tourism.
 
 “(b)
 
@@ -78,7 +78,7 @@ Restrictions Regarding Program.—
 
 &emsp;“(2) Preclearance operations may not be commenced in the country selected for testing under subsection (a) unless the Commissioner of Customs and the Commissioner of Immigration and Naturalization jointly certify that—
 
-&emsp;&emsp;“(A) there exists a bilateral agreement between the United States Government and the government of such country which protects the interests of the United States and affords diplomatic protection to United States employees working at the preclearance location;
+&emsp;&emsp;“(A) there exists a bilateral agreement between the United States Government and the governmentof such country which protects the interests of the United States and affords diplomatic protection to United States employees working at the preclearance location;
 
 &emsp;&emsp;“(B) the facilities at the preclearance location conform to Federal Inspection Services standards and are suitable for the duties to be performed therein;
 

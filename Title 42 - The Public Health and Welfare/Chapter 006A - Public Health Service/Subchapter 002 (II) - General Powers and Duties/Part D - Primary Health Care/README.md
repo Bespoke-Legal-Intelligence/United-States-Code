@@ -13,3 +13,4 @@ Part D—Primary Health Care
 - [Subpart 006 (vi) - Health Services for Residents of Public Housing](Subpart%20006%20%28vi%29%20-%20Health%20Services%20for%20Residents%20of%20Public%20Housing/README.md)
 - [Subpart 007 (vii) - Drug Pricing Agreements](Subpart%20007%20%28vii%29%20-%20Drug%20Pricing%20Agreements/README.md)
 - [Subpart 008 (viii) - Bulk Purchases of Vaccines for Certain Programs](Subpart%20008%20%28viii%29%20-%20Bulk%20Purchases%20of%20Vaccines%20for%20Certain%20Programs/README.md)
+- [Subpart 009 (ix) - Support of Graduate Medical Education Programs in Children's Hospitals](Subpart%20009%20%28ix%29%20-%20Support%20of%20Graduate%20Medical%20Education%20Programs%20in%20Children%27s%20Hospitals/README.md)

@@ -8,7 +8,7 @@
 
 #### Prior Provisions
 
-A prior section 2074, act July 27, 1954, ch. 583, §1, 68 Stat. 567, empowered the Supreme Court to prescriberules for review of decisions of the Tax Court of the United States, prior to repeal by Pub. L. 89–773, §2, Nov. 6, 1966, 80 Stat. 1323.
+A prior section 2074, act July 27, 1954, ch. 583, §1, 68 Stat. 567, empowered the Supreme Court to prescribe rules for review of decisions of the Tax Court of the United States, prior to repeal by Pub. L. 89–773, §2, Nov. 6, 1966, 80 Stat. 1323.
 
 #### Effective Date
 
@@ -64,7 +64,7 @@ Pub. L. 97–462, §5, Jan. 12, 1983, 96 Stat. 2530, provided that: “The amend
 
 Pub. L. 97–227, Aug. 2, 1982, 96 Stat. 246, provided: “That notwithstanding the provisions of section 2072 of title 28, United States Code, the amendments to rule 4 of the Federal Rules of Civil Procedure as proposed by the Supreme Court of the United States and transmitted to the Congress by the Chief Justice on April 28, 1982, shall take effect on October 1, 1983, unless previously approved, disapproved, or modified by Act of Congress.
 
-“Sec. 2. This Act shall be effective as of August 1, 1982, but shall not apply to the service of process that takes place between August 1, 1982, and the date of enactment of this Act \[Aug. 2, 1982\].”
+“Sec. 2. This Act shall be effective as of August 1, 1982, but shall not apply to the service of process thattakes place between August 1, 1982, and the date of enactment of this Act \[Aug. 2, 1982\].”
 
 #### Amendments to Criminal Rules and Rules of Evidence Proposed April 30, 1979; Postponement of Effective Date
 
@@ -88,7 +88,7 @@ Pub. L. 94–349, §2, July 8, 1976, 90 Stat. 822, provided: “That, notwithsta
 
 #### Approval and Effective Date of Amendments Proposed November 20, 1972 and December 18, 1972
 
-Pub. L. 93–595, §3, Jan. 2, 1975, 88 Stat. 1949, provided that: “The Congress expressly approves the amendments to the Federal Rules of Civil Procedure \[Rules 30(c), 32(c), 43, and 44.1\] and the amendments to the Federal Rules of Criminal Procedure \[Rules 26, 26.1, and 28\], which are embraced by the orders entered by the Supreme Court of the United States on November 20,1972, and December 18, 1972, and such amendments shall take effect on the one hundred and eightieth day beginning after the date of the enactment of this Act \[Jan. 2, 1975\].”
+Pub. L. 93–595, §3, Jan. 2, 1975, 88 Stat. 1949, provided that: “The Congress expressly approves the amendments to the Federal Rules of Civil Procedure \[Rules 30(c), 32(c), 43, and 44.1\] and the amendments to the Federal Rules of Criminal Procedure \[Rules 26, 26.1, and 28\], which are embraced by the orders entered by the Supreme Court of the United States on November 20, 1972, and December 18, 1972, and such amendments shall take effect on the one hundred and eightieth day beginning after the date of the enactment of this Act \[Jan. 2, 1975\].”
 
 #### Congressional Approval Requirement for Proposed Rules of Evidence for United States Courts and Amendments to Federal Rules of Civic Procedure and Criminal Procedure; Suspension of Effectiveness of Such Rules
 

@@ -53,6 +53,7 @@
 | (k) | Statutory basis for procedures used in establishing rates or rate schedules. |
 | (<i>l</i>) | Rates for sales outside United States; negotiations. |
 | (m) | Impact aid payments; formula. |
+| (n) | Limiting the inclusion of costs of protection of, mitigation of damage to, and enhancement of fish and wildlife, within rates charged by the Bonneville Power Administration, to the rate period in which costs are incurred. |
 | [839f.](%C2%A7%2000839f%20-%20Administrative%20provisions.md) | Administrative provisions. |
 | (a) | Contract authority. |
 | (b) | Executive and administrative functions of Administrator of Bonneville Power Administration; sound and businesslike implementation of chapter. |

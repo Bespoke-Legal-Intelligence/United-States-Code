@@ -18,7 +18,7 @@ There are authorized to be appropriated such amounts as may be necessary from ti
 
 (2) There is established a United States Emergency Refugee and Migration Assistance Fund to carry out the purposes of this section. There is authorized to be appropriated to the President from time to time such amounts as may be necessary for the fund to carry out the purposes of this section, except that no amount of funds may be appropriated which, when added to amounts previously appropriated but not yet obligated, would cause such amounts to exceed $100,000,000. Amounts appropriated hereunder shall remain available until expended.
 
-(3) Whenever the President requests appropriations pursuant to this authorization he shall justify such requests to the Committee on Foreign Relations of the Senate and to the Speaker of the House of Representatives, as well as to the Committees on Appropriations.
+(3) Whenever the President requests appropriations pursuant to this authorization he shall justify such requests to the Committee on Foreign Relations of the Senate and to the Speakerof the House of Representatives, as well as to the Committees on Appropriations.
 
 #### (d) Information to Congressional committees
 
@@ -64,7 +64,7 @@ Subsec. (c)(2). Pub. L. 96–212, §312(b)(2), inserted provisions increasing am
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–212 effective with respect to fiscal years beginning on and after Oct. 1, 1979, seesection 313 of Pub. L. 96–212, set out as an Effective Date note under section 1522 of Title 8, Immigration and Nationality.
+Amendment by Pub. L. 96–212 effective with respect to fiscal years beginning on and after Oct. 1, 1979, see section 313 of Pub. L. 96–212, set out as an Effective Date note under section 1522 of Title 8, Immigration and Nationality.
 
 #### Short Title
 
@@ -72,19 +72,23 @@ Section 1 of Pub. L. 87–510 provided: “That this Act \[enacting this chapter
 
 #### United States Policy Regarding Involuntary Return of Refugees
 
-Pub. L. 105–277, div. G, subdiv. B, title XXII, §2241, Oct. 21, 1998, 112 Stat. 2681–821, provided that:
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §251\], Nov. 29, 1999, 113 Stat. 1536, 1501A–431, provided that:
 
 “(a)
 
-In General.—None of the funds made available by this subdivision \[see Tables for classification\] shall be available to effect the involuntary return by the United States of any person to a country in which the person has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion, except on grounds recognized as precluding protection as a refugee under the United Nations Convention Relating to the Status of Refugees of July 28, 1951, and the Protocol Relating to the Status of Refugees of January 31, 1967, subject to the reservations contained in the United States Senate Resolution of Ratification.
+In General.—None of the funds made available by this Act \[see Short Title of 1999 Amendment note set out under section 2651 of this title\] or by section 2(c) of the Migration and Refugee Assistance Act of 1962 (22 U.S.C. 2601(c)) shall be available to effect the involuntary return by the United States of any person to a country in which the person has a well-founded fear ofpersecution on account of race, religion, nationality, membership in a particular social group, or political opinion, except on grounds recognized as precluding protection as a refugee under the United Nations Convention Relating to the Status of Refugees of July 28, 1951, and the Protocol Relating to the Status of Refugees of January 31, 1967, subject to the reservations contained in the United States Senate Resolution of Ratification.
 
 “(b)
 
-Migration and Refugee Assistance.—None of the funds made available by section 2231 of this division \[112 Stat. 2681–821\] or by section 2(c) of the Migration and Refugee Assistance Act of 1962 (22 U.S.C. 2601(c)) shall be available to effect the involuntary return of any person to any country unless the Secretary of State first notifies the appropriate congressional committees, except that in the case of an emergency involving a threat to human life the Secretary of State shall notify the appropriate congressional committees as soon as practicable.
+Migration and Refugee Assistance.—None of the funds made available by this Act or by section 2(c) of the Migration and Refugee Assistance Act of 1962 (22 U.S.C. 2601(c)) shall be available to effect the involuntary return of any person to any country unless the Secretary of State first notifies the appropriate congressional committees \[Committee on International Relations of the House of Representatives and Committee on Foreign Relations of the Senate\], except that in the case of an emergency involving a threat to human life the Secretary of State shall notify the appropriate congressional committees as soon as practicable.
 
 “(c)
 
 Involuntary Return Defined.—As used in this section, the term ‘to effect the involuntary return’ means to require, by means of physical force or circumstances amounting to a threat thereof, a person to return to a country against the person's will, regardless of whether the person is physically present in the United States and regardless of whether the United States acts directly or through an agent.”
+
+Similar provisions were contained in the following prior act:
+
+Pub. L. 105–277, div. G, subdiv. B, title XXII, §2241, Oct. 21, 1998, 112 Stat. 2681–821.
 
 #### United States Policy Concerning Overseas Assistance to Refugees and Displaced Persons
 
@@ -144,7 +148,7 @@ UNHCR ‘Guidelines on the Protection of Refugee Women’.—The Secretary of St
 
 #### United States Membership in Intergovernmental Committee for European Migration
 
-Pub. L. 100–204, title VII, §745, Dec. 22, 1987, 101 Stat. 1396, authorized President to continue United States membership in Intergovernmental Committee for European Migration and, upon entry into force of amendments to constitution of such body approved May 20, 1987, to continue membership under the name International Organization for Migration in accordance with such constitution and amendments, and authorized appropriation of necessary amounts for payment ofUnited States contributions to such body and salaries and expenses incidental to United States participation in such body, prior to repeal by Pub. L. 103–236, title IV, §430(b), Apr. 30, 1994, 108 Stat. 459.
+Pub. L. 100–204, title VII, §745, Dec. 22, 1987, 101 Stat. 1396, authorized President to continue United States membership in Intergovernmental Committee for European Migration and, upon entry into force of amendments to constitution of such body approved May 20, 1987, to continue membership under the name International Organization for Migration in accordance with such constitution and amendments, and authorized appropriation of necessary amounts for payment of United States contributions to such body and salaries and expenses incidental to United States participation in such body, prior to repeal by Pub. L. 103–236, title IV, §430(b), Apr. 30, 1994, 108 Stat. 459.
 
 #### Indochina Migration and Refugee Assistance
 

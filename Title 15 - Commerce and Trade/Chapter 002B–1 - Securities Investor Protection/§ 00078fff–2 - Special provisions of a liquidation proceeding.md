@@ -46,7 +46,7 @@ After receipt of a written statement of claim pursuant to subsection (a)(2), of 
 
 #### (2) Delivery of customer name securities
 
-&emsp;The trustee shall deliver customer name securities to or on behalf of a customer of the debtor entitled thereto if the customer is not indebted to the debtor. If the customer is so indebted, such customer may, with the approval of the trustee, reclaim customer name securities upon payment to the trustee, within such period of time as the trustee determines,of all indebtedness of such customer to the debtor.
+&emsp;The trustee shall deliver customer name securities to or on behalf of a customer of the debtor entitled thereto if the customer is not indebted to the debtor. If the customer is so indebted, such customer may, with the approval of the trustee, reclaim customer name securities upon payment to the trustee, within such period of time as the trustee determines, of all indebtedness of such customer to the debtor.
 
 #### (3) Recovery of transfers
 
@@ -74,7 +74,7 @@ The trustee shall, to the extent that securities can be purchased in a fair and 
 
 #### (3) Registered clearing agencies
 
-&emsp;Neither a registered clearing agency which by its rules has an established procedure for the closeout of open contracts between an insolvent broker or dealer and its participants, nor its participants to the extent such participants’ claims are or may be processed within the registered clearing agency, shall be entitled to receive SIPC funds in payment of any losses on such contracts, except as SIPC may otherwise provide by rule. If such registered clearing agency or its participants sustain a net loss on the closeout of such contracts with the debtor, they shall have the right to participate in the general estate as unsecured creditors to the extent of such loss. Any funds or other property owed to the debtor, after the closeout of such contracts, shall be promptly paid to the trustee. Rules adopted by SIPC under this paragraph shall provide that in no case may a registered clearing agency or its participants, to the extent such participants’ claims are or may be processed within the registered clearing agency, be entitled to receive funds advanced by SIPC in an amount greater, in the aggregate, than could be received by the participants if such participants proceeded individually under paragraph (1) and (2).
+&emsp;Neither a registered clearing agency which by its rules has an established procedure for the closeout of open contracts between an insolvent broker or dealer and its participants, nor its participants to the extent such participants’ claims are or may be processed within the registered clearing agency, shall be entitled to receive SIPC funds in payment of any losses on such contracts, except as SIPC may otherwise provide by rule. If such registered clearing agency or its participants sustain a net loss on the closeout of such contracts with the debtor, they shall have the right to participate in the general estate as unsecured creditors to the extent of such loss. Any funds or other property owed to the debtor, after the closeout of such contracts, shall be promptly paid to the trustee. Rules adopted by SIPC under this paragraph shall provide that in no case may a registered clearing agency or itsparticipants, to the extent such participants’ claims are or may be processed within the registered clearing agency, be entitled to receive funds advanced by SIPC in an amount greater, in the aggregate, than could be received by the participants if such participants proceeded individually under paragraph (1) and (2).
 
 #### (4) “Customer” defined
 
@@ -90,7 +90,7 @@ The trustee shall, to the extent that securities can be purchased in a fair and 
 
 #### (f) Transfer of customer accounts
 
-In order to facilitate the prompt satisfaction of customer claims and the orderly liquidation of the debtor, the trustee may, pursuant toterms satisfactory to him and subject to the prior approval of SIPC, sell or otherwise transfer to another member of SIPC, without consent of any customer, all or any part of the account of a customer of the debtor. In connection with any such sale or transfer to another member of SIPC and subject to the prior approval of SIPC, the trustee may—
+In order to facilitate the prompt satisfaction of customer claims and the orderly liquidation of the debtor, the trustee may, pursuant to terms satisfactory to him and subject to the prior approval of SIPC, sell or otherwise transfer to another member of SIPC, without consent of any customer, all or any part of the account of a customer of the debtor. In connection with any such sale or transfer to another member of SIPC and subject to the prior approval of SIPC, the trustee may—
 
 &emsp;(1) waive or modify the need to file a written statement of claim pursuant to subsection (a)(2) of this section; and
 

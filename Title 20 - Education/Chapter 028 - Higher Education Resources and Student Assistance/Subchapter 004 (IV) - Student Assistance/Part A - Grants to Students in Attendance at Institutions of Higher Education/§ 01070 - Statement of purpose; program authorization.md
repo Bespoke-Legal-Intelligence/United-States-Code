@@ -50,7 +50,7 @@ Pub. L. 105–244, title VIII, part C, Oct. 7, 1998, 112 Stat. 1810, provided th
 
 &emsp;“(3) proven methods of stimulating these community efforts can be promoted through Federal support for the establishment of regional, State, or community program centers to organize and challenge community efforts to develop educational incentives and support for local students; and
 
-&emsp;“(4) using Federal funds to leverage private contributions to help students from low-income familiesattain educational and career goals is an efficient and effective investment of scarce taxpayer-provided resources.
+&emsp;“(4) using Federal funds to leverage private contributions to help students from low-income families attain educational and career goals is an efficient and effective investment of scarce taxpayer-provided resources.
 
 #### “SEC. 813. DEFINITIONS.
 
@@ -134,7 +134,7 @@ In General.—The Secretary shall award one or more endowment grants described i
 
 &emsp;“(3) require a national organization to use 30 percent of the interest income from the endowment fund in any fiscal year to provide scholarships for postsecondary education to students from low-income families, which scholarships shall be matched on a dollar-for-dollar basis from funds raised by the local entities;
 
-&emsp;“(4) require that at least 50 percent of all the interest income from the endowment \[fund\] be allocated to establish new local entities or support regional, State or community program centers in high poverty areas;
+&emsp;“(4) require that at least 50 percent of all the interest income from the endowment \[fund\] be allocated to establish new local entities or support regional,State or community program centers in high poverty areas;
 
 &emsp;“(5) require a national organization to submit, for each fiscal year in which such organization uses the interest from the endowment fund, a report to the Secretary that contains—
 
@@ -222,7 +222,7 @@ Waiver Requirement.—Notwithstanding any other provision of law, unless enacted
 
 &emsp;“(3) the number of years for which individuals who are engaged in such military service may be eligible for Pell Grants under subpart 1 of part A of title IV of the Act \[20 U.S.C. 1070a et seq.\];
 
-&emsp;“(4) the point at which the borrower of a Stafford Loan who is or was engaged in such military service is required to resume repayment of principal and interest on such loan after the borrower completes a period of deferment under section 427(a)(2)(C)(ii) or 428(b)(1)(M)(ii) of the Act;
+&emsp;“(4) the point at which the borrower of a Stafford Loan who is or was engaged in such military service is required to resume repayment of principal and interest on such loan after the borrower completes aperiod of deferment under section 427(a)(2)(C)(ii) or 428(b)(1)(M)(ii) of the Act;
 
 &emsp;“(5) the point at which the borrower of a Stafford Loan who is or was engaged in such military service is required to resume repayment of principal and interest on such loan after the borrower completes a single period of deferment under section 427(a)(2)(C)(i) or 428(b)(1)(M)(i) of the Act subsequent to such service; and
 

@@ -114,7 +114,7 @@ For purposes of this section, the term “section 197 intangible” shall not in
 
 #### (B) Computer software defined
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “computer software” means any program designed to cause a computer to perform a desired function. Such term shall not include any data base or similar item unless the data base or item is in the public domain and is incidental to the operation of otherwise qualifying computer software.
+&emsp;&emsp;For purposes of subparagraph (A), the term “computer software” means any programdesigned to cause a computer to perform a desired function. Such term shall not include any data base or similar item unless the data base or item is in the public domain and is incidental to the operation of otherwise qualifying computer software.
 
 #### (4) Certain interests or rights acquired separately
 
@@ -246,7 +246,7 @@ For purposes of this section, the term “section 197 intangible” shall not in
 
 &emsp;&emsp;If—
 
-&emsp;&emsp;&emsp;(i) subparagraph (A) would not apply to an intangible acquired by the taxpayer butfor the last sentence of subparagraph (C)(i), and
+&emsp;&emsp;&emsp;(i) subparagraph (A) would not apply to an intangible acquired by the taxpayer but for the last sentence of subparagraph (C)(i), and
 
 &emsp;&emsp;&emsp;(ii) the person from whom the taxpayer acquired the intangible elects, notwithstanding any other provision of this title—
 
@@ -288,7 +288,7 @@ For purposes of this section, the term “section 197 intangible” shall not in
 
 #### (g) Regulations
 
-The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including such regulations as may be appropriate to prevent avoidance of the purposes of this section through related persons or otherwise.
+The Secretary shall prescribe such regulations as may be appropriate to carry out the purposesof this section, including such regulations as may be appropriate to prevent avoidance of the purposes of this section through related persons or otherwise.
 
 (Added Pub. L. 103–66, title XIII, §13261(a), Aug. 10, 1993, 107 Stat. 532.)
 

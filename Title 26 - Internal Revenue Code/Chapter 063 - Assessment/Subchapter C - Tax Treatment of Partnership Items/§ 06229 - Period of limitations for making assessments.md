@@ -74,7 +74,7 @@ If—
 
 #### (1) Items becoming nonpartnership items
 
-&emsp;If before the expiration of the period otherwise provided in this section for assessing any tax imposed by subtitle A with respect to the partnership items of a partner for the partnership taxable year, such items become nonpartnership items by reason of 1 or more of the events described in subsection (b) of section 6231, the period for assessing any tax imposed by subtitle A which is attributable to such items (or any item affected by such items) shall not expire before the date which is 1 year after the date on which the items become nonpartnership items. The period described in the preceding sentence (including any extension period under this sentence) may be extendedwith respect to any partner by agreement entered into by the Secretary and such partner.
+&emsp;If before the expiration of the period otherwise provided in this section for assessing any tax imposed by subtitle A with respect to the partnership items of a partner for the partnership taxable year, such items become nonpartnership items by reason of 1 or more of the events described in subsection (b) of section 6231, the period for assessing any tax imposed by subtitle A which is attributable to such items (or any item affected by such items) shall not expire before the date which is 1 year after the date on which the items become nonpartnership items. The period described in the preceding sentence (including any extension period under this sentence) may be extended with respect to any partner by agreement entered into by the Secretary and such partner.
 
 #### (2) Special rule for partial settlement agreements
 

@@ -6,7 +6,7 @@ Within 3 years after November 15, 1990, the Administrator shall issue control te
 
 #### (b) Existing and new CTGS
 
-(1) Within 36 months after November 15, 1990, and periodically thereafter, the Administrator shall review and, if necessary, update control technique guidance issued under section 7408 of this title before November 15, 1990.
+(1) Within 36 months after November 15, 1990, and periodically thereafter, the Administrator shall review and, if necessary, update controltechnique guidance issued under section 7408 of this title before November 15, 1990.
 
 (2) In issuing the guidelines the Administrator shall give priority to those categories which the Administrator considers to make the most significant contribution to the formation of ozone air pollution in ozone nonattainment areas, including hazardous waste treatment, storage, and disposal facilities which are permitted under subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\]. Thereafter the Administrator shall periodically review and, if necessary, revise such guidelines.
 
@@ -42,7 +42,7 @@ Within 1 year after November 15, 1990, the Administrator shall provide guidance 
 
 &emsp;&emsp;&emsp;(i) manufacturers, processors, wholesale distributors, or importers of consumer or commercial products for sale or distribution in interstate commerce in the United States; or
 
-&emsp;&emsp;&emsp;(ii) manufacturers, processors, wholesale distributors, or importers that supply the entities listed under clause (i) with suchproducts for sale or distribution in interstate commerce in the United States.
+&emsp;&emsp;&emsp;(ii) manufacturers, processors, wholesale distributors, or importers that supply the entities listed under clause (i) with such products for sale or distribution in interstate commerce in the United States.
 
 #### (2) Study and report
 

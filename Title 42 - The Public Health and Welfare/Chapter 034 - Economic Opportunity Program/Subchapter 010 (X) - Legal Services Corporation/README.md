@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 3020d, 3027, 4953, 9912, 14404 of this title.
+This subchapter is referred to in sections 3020d, 3027, 4953, 14404 of this title.
 
 
 ---

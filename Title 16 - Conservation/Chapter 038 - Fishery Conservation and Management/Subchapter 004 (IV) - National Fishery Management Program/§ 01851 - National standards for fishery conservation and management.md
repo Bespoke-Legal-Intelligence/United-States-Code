@@ -32,7 +32,7 @@ The Secretary shall establish advisory guidelines (which shall not have the forc
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(8), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13,1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (a)(8), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 
@@ -48,9 +48,17 @@ Subsec. (a)(8) to (10). Pub. L. 104–297, §106(b), added pars. (8) to (10).
 
 Pub. L. 105–146, §1, Dec. 16, 1997, 111 Stat. 2672, provided that: “This Act \[repealing section 757g of this title, amending provisions set out as notes under this section and listed in a table of National Wildlife Conservation Areas set out under section 668dd of this title, and repealing provisions set out as notes under this section\] may be cited as the ‘Atlantic Striped Bass Conservation Act Amendments of 1997’.”
 
+#### Limitation on Fishing Permits
+
+Pub. L. 105–277, div. A, §101(b) \[title VI, §617\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–115, as amended by Pub. L. 106–31, title III, §3025, May 21, 1999, 113 Stat. 100, provided that:
+
+“(a) None of the funds made available in this Act or any other Act hereafter enacted may be used to issue or renew a fishing permit or authorization for any fishing vessel of the United States greater than 165 feet in registered length, of more than 750 gross registered tons, or that has an engine or engines capable of producing a total of more than 3,000 shaft horsepower as specified in the permit application required under part 648.4(a)(5) of title 50, Code of Federal Regulations, part 648.12 of title 50, Code of Federal Regulations, and the authorization required under part 648.80(d)(2) of title 50, Code of Federal Regulations, to engage in fishing for Atlantic mackerel or herring (or both) under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), unless the regional fishery management council of jurisdiction recommends after October 21, 1998, and the Secretary of Commerce approves, conservation and management measures in accordance with such Act to allow such vessel to engage in fishing for Atlantic mackerel or herring (or both).
+
+“(b) Any fishing permit or authorization issued or renewed prior to the date of the enactment of this Act \[Oct. 21, 1998\] for a fishing vessel to which the prohibition in subsection (a) applies that would allow such vessel to engage in fishing for Atlantic mackerel or herring (or both) during fiscal year 1999 shall be null and void, and none of the funds made available in this Act \[see Tables for classification\] may be used to issue a fishing permit or authorization that would allow a vessel whose permit or authorization was made null and void pursuant to this subsection to engage in the catching, taking, or harvesting of fish in any other fishery within the exclusive economic zone of the United States.”
+
 #### Bering Sea Pollock Fishery
 
-Pub. L. 105–277, div. C, title II, subtitle II, Oct. 21, 1998, 112 Stat. 2681–621, provided that:
+Pub. L. 105–277, div. C, title II, subtitle II, Oct. 21, 1998, 112 Stat. 2681–621, as amended by Pub. L. 106–31, title III, §3027(a)(2)–(7), May 21, 1999, 113 Stat. 101, provided that:
 
 #### “SEC. 205. DEFINITIONS.
 
@@ -126,7 +134,7 @@ Payments.—Subject to the availability of appropriations for the cost of the di
 
 &emsp;“(1) up to $90,000,000 to the owner or owners of the catcher/processors listed in paragraphs (1) through (9) of section 209, in such manner as the owner or owners, with the concurrence of the Secretary, agree, except that—
 
-&emsp;&emsp;“(A) the portion of such payment with respect to the catcher/processor listed in paragraph (1) of section 209 shall be made only after the owner submits a written certification acceptable to the Secretary that neither the owner nor a purchaser from the owner intends to use such catcher/processor outside of the exclusive economic zone of the United States to harvest any stock of fish (as such term is defined in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802))that occurs within the exclusive economic zone of the United States; and
+&emsp;&emsp;“(A) the portion of such payment with respect to the catcher/processor listed in paragraph (1) of section 209 shall be made only after the owner submits a written certification acceptable to the Secretary that neither the owner nor a purchaser from the owner intends to use such catcher/processor outside of the exclusive economic zone of the United States to harvest any stock of fish (as such term is defined in section 3 of the Magnuson-Stevens Act (16 U.S.C. 1802)) that occurs within the exclusive economic zone of the United States; and
 
 &emsp;&emsp;“(B) the portion of such payment with respect to the catcher/processors listed in paragraphs (2) through (9) of section 209 shall be made only after the owner or owners of such catcher/processors submit a written certification acceptable to the Secretary that such catcher/processors will be scrapped by December 31, 2000 and will not, before that date, be used to harvest or process any fish; and
 
@@ -172,7 +180,7 @@ Catcher Vessels Onshore.—Effective January 1, 2000, only catcher vessels which
 
 Catcher Vessels to Catcher/Processors.—Effective January 1, 1999, only the following catcher vessels shall be eligible to harvest the directed fishing allowance under section 206(b)(2) pursuant to a federal fishing permit:
 
-&emsp;“(1) AMERICAN CHALLENGER (United States official number 615085);
+&emsp;“(1) AMERICAN CHALLENGER (United States official number 633219);
 
 &emsp;“(2) FORUM STAR (United States official number 925863);
 
@@ -308,7 +316,7 @@ Shoreside Processors.—(1) Effective January 1, 2000 and except as provided in 
 
 &emsp;“(B) shoreside processors determined by the Secretary to have processed pollock in the inshore component of the directed pollock fishery in 1996 or 1997, but to have processed less than 2,000 metric tons round-weight of such pollock in each year, except that effective January 1, 2000, each such shoreside processor may not process more than 2,000 metric tons round-weight from such directed fishing allowance in any year.
 
-“(2) Upon recommendation by the North Pacific Council, the Secretary may approve measures to allow catcher vessels eligible under subsection (a) to deliver pollock harvested from the directed fishing allowance under section 206(b)(1) to shoreside processors not eligible under paragraph (1) if the total allowable catch for pollock in the Bering Sea and Aleutian Islands Management Area increases by more than 10 percent above the total allowable catch in such fishery in 1997, or in the event of the actual total loss or constructive total loss of a shoreside processor eligible under paragraph (1)(A).
+“(2) Upon recommendation by the North Pacific Council, the Secretary may approve measures to allow catcher vessels eligible under subsection (a) to deliver pollock harvested from the directed fishing allowanceunder section 206(b)(1) to shoreside processors not eligible under paragraph (1) if the total allowable catch for pollock in the Bering Sea and Aleutian Islands Management Area increases by more than 10 percent above the total allowable catch in such fishery in 1997, or in the event of the actual total loss or constructive total loss of a shoreside processor eligible under paragraph (1)(A).
 
 “(g)
 
@@ -384,7 +392,7 @@ Catcher vessel cooperatives.—Effective January 1, 2000, upon the filing of a c
 
 &emsp;&emsp;“(B) specifies, except as provided in paragraph (6), that such catcher vessels will deliver pollock in the directed pollock fishery only to such shoreside processor during the year in which the fishery cooperative will be in effect and that such shoreside processor has agreed to process such pollock,
 
-> the Secretary shall allow only such catcher vessels (and catcher vessels whose owners voluntarily participate pursuant to paragraph (2)) to harvest the aggregate percentage of the directed fishing allowance under section 206(b)(1) in the year in which the fishery cooperative will be in effect that is equivalent to the aggregate total amount of pollock harvested by such catcher vessels (and by such catcher vessels whose owners voluntarily participate pursuant to paragraph (2)) in the directed pollock fishery for processing by the inshore component during 1995, 1996, and 1997 relative to the aggregate total amount of pollock harvested in the directed pollock fishery for processing by the inshore component during such years and shall prevent such catcher vessels (and catcher vessels whose owners voluntarily participate pursuant to paragraph (2)) from harvesting in aggregate in excess of such percentage of such directed fishing allowance.
+> the Secretary shall allow only such catcher vessels (and catcher vessels whose owners voluntarily participate pursuant to paragraph (2)) to harvest the aggregate percentage of the directed fishing allowance under section 206(b)(1) in the year in which the fishery cooperative will be in effect that is equivalent to the aggregate total amount of pollock harvested by such catcher vessels (and by such catcher vessels whose owners voluntarily participate pursuant to paragraph (2)) in the directed pollock fishery for processing by the inshore component during 1995, 1996, and 1997 relative to the aggregate total amount of pollock harvested in the directed pollock fishery for processing by the inshore component during such years and shall prevent such catcher vessels (and catcher vessels whose owners voluntarily participate pursuant to paragraph (2)) fromharvesting in aggregate in excess of such percentage of such directed fishing allowance.
 
 &emsp;“(2)
 
@@ -444,7 +452,7 @@ Landing Tax Jurisdiction.—Any contract filed under subsection (a) shall includ
 
 “(g)
 
-Penalties.—The violation of any of the requirements of this section or section 211 shall be considered the commission of an act prohibited by section 307 of the Magnuson-Stevens Act (16 U.S.C. 1857). In addition to the civil penalties and permit sanctions applicable to prohibited acts under section 308 of such Act (16 U.S.C. 1858), any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5, United States Code, to have violated a requirement of this section shall be subject to the forfeiture to the Secretary of Commerce of any fish harvested or processed during the commission of such act.
+Penalties.—The violation of any of the requirements of this subtitle or any regulation or permit issued pursuant to this subtitle shall be considered the commission of an act prohibited by section 307 of the Magnuson-Stevens Act (16 U.S.C. 1857), and sections 308, 309, 310, and 311 of such Act (16 U.S.C. 1858, 1859, 1860, and 1861) shall apply to any such violation in the same manner as to the commission of an act prohibited by section 307 of such Act (16 U.S.C. 1857). In addition to the civil penalties and permit sanctions applicable to prohibited acts under section 308 of such Act (16 U.S.C. 1858), any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5, United States Code, to haveviolated a requirement of this section shall be subject to the forfeiture to the Secretary of Commerce of any fish harvested or processed during the commission of such act.
 
 #### “SEC. 211. PROTECTIONS FOR OTHER FISHERIES; CONSERVATION MEASURES.
 
@@ -524,7 +532,7 @@ Required council recommendations.—By not later than July 1, 1999, the North Pa
 
 Bering sea crab and groundfish.—
 
-&emsp;&emsp;“(A) Effective January 1, 2000, the owners of the motherships eligible under section 208(d) and the shoreside processors eligible under section 208(f) that receive pollock from the directed pollock fishery under a fishery cooperative are hereby prohibited from processing, in the aggregate for each calendar year, more than the percentage of the total catch of each species of crab in directed fisheries under the jurisdiction of the North Pacific Council than facilities operated by such owners processed of each such species in the aggregate, on average, in 1995, 1996, 1997. For the purposes of this subparagraph, the term ‘facilities’ means any processing plant, catcher/processor, mothership, floating processor, or any other operation that processes fish. Any entity in which 10 percent or more of the interest is owned or controlled by another individual or entity shall be considered to be the same entity as the other individual or entity for the purposes of this subparagraph.
+&emsp;&emsp;“(A) Effective January 1, 2000, the owners of the motherships eligible under section 208(d) and the shoreside processors eligible under section 208(f) that receive pollock from the directed pollock fishery under a fishery cooperative are hereby prohibited from processing, in the aggregate for each calendar year, more than the percentage of the total catch of each species of crab in directed fisheries under the jurisdiction of the North Pacific Council than facilities operated by such owners processed of each such species in the aggregate, on average, in 1995, 1996, 1997. For the purposes of this subparagraph, the term ‘facilities’ means any processing plant, catcher/processor, mothership, floating processor, or any other operation that processes fish.Any entity in which 10 percent or more of the interest is owned or controlled by another individual or entity shall be considered to be the same entity as the other individual or entity for the purposes of this subparagraph.
 
 &emsp;&emsp;“(B) Under the authority of section 301(a)(4) of the Magnuson-Stevens Act (16 U.S.C. 1851(a)(4)), the North Pacific Council is directed to recommend for approval by the Secretary conservation and management measures to prevent any particular individual or entity from harvesting or processing an excessive share of crab or of groundfish in fisheries in the Bering Sea and Aleutian Islands Management Area.
 
@@ -544,7 +552,7 @@ Bycatch Information.—Notwithstanding section 402 of the Magnuson-Stevens Act (
 
 “(e)
 
-Community Development Loan Program.—Under the authority of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1271 et seq.), and subject to theavailability of appropriations, the Secretary is authorized to provide direct loan obligations to communities eligible to participate in the western Alaska community development quota program established under 304(i) \[305(i)\] of the Magnuson-Stevens Act (16 U.S.C. 1855(i)) for the purposes of purchasing all or part of an ownership interest in vessels and shoreside processors eligible under subsections (a), (b), (c), (d), (e), or (f) of section 208. Notwithstanding the eligibility criteria in section 208(a) and section 208(c), the LISA MARIE (United States official number 1038717) shall be eligible under such sections in the same manner as other vessels eligible under such sections.
+Community Development Loan Program.—Under the authority of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1271 et seq.), and subject to the availability of appropriations, the Secretary is authorized to provide direct loan obligations to communities eligible to participate in the western Alaska community development quota program established under 304(i) \[305(i)\] of the Magnuson-Stevens Act (16 U.S.C. 1855(i)) for the purposes of purchasing all or part of an ownership interest in vessels and shoreside processors eligible under subsections (a), (b), (c), (d), (e), or (f) of section 208. Notwithstanding the eligibility criteria in section 208(a) and section 208(c), the LISA MARIE (United States official number 1038717) shall be eligible under such sections in the same manner as other vessels eligible under such sections.
 
 #### “SEC. 212. RESTRICTION ON FEDERAL LOANS.
 
@@ -564,9 +572,9 @@ Existing Authority.—Except for the measures required by this subtitle \[this n
 
 Changes to Fishery Cooperative Limitations and Pollock CDQ Allocation.—The North Pacific Council may recommend and the Secretary may approve conservation and management measures in accordance with the Magnuson-Stevens Act—
 
-&emsp;“(1) that supersede the provisions of this title, except for sections 206 and 208, for conservation purposes or to mitigate adverse effects in fisheries or on owners of fewer than three vessels in the directed pollock fishery caused by this title or fishery cooperatives in the directed pollock fishery, provided such measures take into account all factors affecting the fisheries and are imposed fairly and equitably to the extent practicable among and within the sectors in the directed pollock fishery;
+&emsp;“(1) that supersede the provisions of this subtitle, except for sections 206 and 208, for conservation purposes or to mitigate adverse effects in fisheries or on owners of fewer than three vessels in the directed pollock fishery caused by this title or fishery cooperatives in the directed pollock fishery, provided such measures take into account all factors affecting the fisheries and are imposed fairly and equitably to the extent practicable among and within the sectors in the directed pollock fishery;
 
-&emsp;“(2) that supersede the allocation in section 206(a) for any of the years 2002, 2003, and 2004, upon the finding by such Council that the western Alaska community development quota program for pollock has been adversely affected by the amendments in this title; or
+&emsp;“(2) that supersede the allocation in section 206(a) for any of the years 2002, 2003, and 2004, upon the finding by such Council that the western Alaska community development quota program for pollock has been adversely affected by the amendments in this subtitle; or
 
 &emsp;“(3) that supersede the criteria required in paragraph (1) of section 210(b) to be used by the Secretary to set the percentage allowed to be harvested by catcher vessels pursuant to a fishery cooperative under such paragraph.
 
@@ -584,7 +592,7 @@ Severability.—If any provision of this title, an amendment made by this title,
 
 “(g)
 
-International Agreements.—In the event that any provision of section 12102(c) or section 31322(a) of title 46, United States Code, as amended by this Act, is determined to be inconsistent with an existing international agreement relating to foreign investment to which the United States is a party with respect to the owner or mortgagee on October 1, 2001 of a vessel with a fishery endorsement, such provision shall not apply to that owner or mortgagee with respect to such vessel to the extent of any such inconsistency. The provisions of section 12102(c) and section 31322(a) of title 46, United States Code, as amended by this Act, shall apply to all subsequent owners and mortgagees of such vessel, and shall apply, notwithstanding the preceding sentence, to the owner on October 1, 2001 of such vessel if any ownership interest in that owner is transferred to or otherwise acquired by a foreign individual or entity after such date.”
+International Agreements.—In the event that any provision of section 12102(c) or section 31322(a) of title 46, United States Code, as amended by this Act, isdetermined to be inconsistent with an existing international agreement relating to foreign investment to which the United States is a party with respect to the owner or mortgagee on October 1, 2001 of a vessel with a fishery endorsement, such provision shall not apply to that owner or mortgagee with respect to such vessel to the extent of any such inconsistency. The provisions of section 12102(c) and section 31322(a) of title 46, United States Code, as amended by this Act, shall apply to all subsequent owners and mortgagees of such vessel, and shall apply, notwithstanding the preceding sentence, to the owner on October 1, 2001 of such vessel if any ownership interest in that owner is transferred to or otherwise acquired by a foreign individual or entity after such date.”
 
 #### Restriction on Funding Certain New Fishery Management Plans, Amendments or Regulations
 
@@ -600,7 +608,7 @@ Pub. L. 100–589, §5, Nov. 3, 1988, 102 Stat. 2984, related to requirement of 
 
 #### Exclusive Economic Zone: Atlantic Striped Bass Protection
 
-Pub. L. 100–589, §6(a)–(f), Nov. 3, 1988, 102 Stat. 2986, as amended by Pub. L. 102–130, §4, Oct. 17, 1991, 105 Stat. 627; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, directedSecretary of Commerce to regulate fishing for Atlantic striped bass in exclusive economic zone determined to be consistent with national standards set forth in this section, prior to repeal by Pub. L. 105–146, §3(c), Dec. 16, 1997, 111 Stat. 2677.
+Pub. L. 100–589, §6(a)–(f), Nov. 3, 1988, 102 Stat. 2986, as amended by Pub. L. 102–130, §4, Oct. 17, 1991, 105 Stat. 627; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, directed Secretary of Commerce to regulate fishing for Atlantic striped bass in exclusive economic zone determined to be consistent with national standards set forth in this section, prior to repeal by Pub. L. 105–146, §3(c), Dec. 16, 1997, 111 Stat. 2677.
 
 #### Atlantic Striped Bass Conservation
 

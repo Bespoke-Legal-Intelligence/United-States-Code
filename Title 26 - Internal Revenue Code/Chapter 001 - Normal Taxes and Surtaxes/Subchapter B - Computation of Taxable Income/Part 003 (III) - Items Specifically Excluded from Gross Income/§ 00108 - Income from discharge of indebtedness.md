@@ -76,7 +76,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the reductions described in paragraph (2) shall be one dollar for each dollar excluded by subsection (a).
+&emsp;&emsp;Except as provided in subparagraph (B), the reductions described in paragraph (2)shall be one dollar for each dollar excluded by subsection (a).
 
 #### (B) Credit carryover reduction
 
@@ -94,7 +94,7 @@
 
 #### (C) Reductions under subparagraphs (B) and (G) of paragraph (2)
 
-&emsp;&emsp;The reductions described in subparagraphs (B) and (G) of paragraph (2) shall be made inthe order in which carryovers are taken into account under this chapter for the taxable year of the discharge.
+&emsp;&emsp;The reductions described in subparagraphs (B) and (G) of paragraph (2) shall be made in the order in which carryovers are taken into account under this chapter for the taxable year of the discharge.
 
 #### (5) Election to apply reduction first against depreciable property
 
@@ -332,7 +332,7 @@ For purposes of this title—
 
 #### (1) In general
 
-&emsp;In the case of an individual, gross income does not include any amount which (but for this subsection) would be includible in gross income by reason of the discharge (in whole or in part) of any student loan if such discharge was pursuant to a provision of such loan under which all or part of the indebtedness of the individual would be discharged if the individual worked for a certain period of time in certain professions for any of a broad class of employers.
+&emsp;In the case of an individual, gross income does not include any amount which (but forthis subsection) would be includible in gross income by reason of the discharge (in whole or in part) of any student loan if such discharge was pursuant to a provision of such loan under which all or part of the indebtedness of the individual would be discharged if the individual worked for a certain period of time in certain professions for any of a broad class of employers.
 
 #### (2) Student loan
 
@@ -404,13 +404,13 @@ For purposes of this title—
 
 &emsp;&emsp;For purposes of this paragraph, the adjusted basis of any qualified property and the amount of the adjusted tax attributes shall be determined after any reduction under subsection (b) by reason of amounts excluded from gross income under subsection (a)(1)(B).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; Pub. L. 88–496, §1(a), June 8, 1960, 74 Stat. 164; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, 90 Stat. 1834, 1836; Pub. L. 96–589, §2(a), Dec. 24, 1980, 94 Stat. 3389; Pub. L. 97–354, §3(e), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(h)(1), title III, §304(d), Jan. 12, 1983, 96 Stat. 2372, 2398; Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2), title X, §1076(a), July 18, 1984, 98 Stat. 576, 839, 966, 1053; Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), Oct. 22, 1986, 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), Nov. 10, 1988, 102 Stat. 3385, 3387; Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, 104 Stat. 1388–466, 1388–551; Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, 107 Stat. 446–448, 487, 488; Pub. L. 104–188, title I, §1703(n)(2), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title II, §225(a), Aug. 5, 1997, 111 Stat. 820; Pub. L. 105–206, title VI, §6004(f), July 22, 1998, 112 Stat. 795.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; Pub. L. 88–496, §1(a), June 8, 1960, 74 Stat. 164; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, 90 Stat. 1834, 1836; Pub. L. 96–589, §2(a), Dec. 24, 1980, 94 Stat. 3389; Pub. L. 97–354, §3(e), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I,§102(h)(1), title III, §304(d), Jan. 12, 1983, 96 Stat. 2372, 2398; Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2), title X, §1076(a), July 18, 1984, 98 Stat. 576, 839, 966, 1053; Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), Oct. 22, 1986, 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), Nov. 10, 1988, 102 Stat. 3385, 3387; Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, 104 Stat. 1388–466, 1388–551; Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, 107 Stat. 446–448, 487, 488; Pub. L. 104–188, title I, §1703(n)(2), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title II, §225(a), Aug. 5, 1997, 111 Stat. 820; Pub. L. 105–206, title VI, §6004(f), July 22, 1998, 112 Stat. 795.)
 
 #### Amendments
 
 1998—Subsec. (f)(2). Pub. L. 105–206, §6004(f)(1), amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “The term ‘student loan’ includes any loan made by an educational organization so described or by an organization exempt from tax under section 501(a) to refinance a loan meeting the requirements of the preceding sentence.”
 
-Subsec. (f)(3). Pub. L. 105–206, §6004(f)(2), struck out “(or by an organization described in paragraph (2)(E)from funds provided by an organization described in paragraph (2)(D))” after “paragraph (2)(D)”.
+Subsec. (f)(3). Pub. L. 105–206, §6004(f)(2), struck out “(or by an organization described in paragraph (2)(E) from funds provided by an organization described in paragraph (2)(D))” after “paragraph (2)(D)”.
 
 1997—Subsec. (f)(2). Pub. L. 105–34, §225(a)(1), added subpar. (D) and concluding provisions and struck out former subpar. (D) which read as follows: “any educational organization so described pursuant to an agreement with any entity described in subparagraph (A), (B), or (C) under which the funds from which the loan was made were provided to such educational organization.”
 
@@ -504,7 +504,7 @@ Qualified person.—For purposes of this subsection, the term ‘qualified perso
 
 1986—Subsec. (a)(1)(C). Pub. L. 99–514, §822(a), struck out subpar. (C) relating to exclusion from gross income if the indebtedness discharged is qualified business indebtedness.
 
-Subsec. (a)(2). Pub. L. 99–514, §822(b)(1), substituted “Subparagraph (B) of paragraph (1)” for “Subparagraphs (B) and (C) of paragraph (1)” in subpar. (A),struck out subpar. (A) designation and heading, and struck out subpar. (B) providing that insolvency exclusion takes precedence over qualified business exclusion.
+Subsec. (a)(2). Pub. L. 99–514, §822(b)(1), substituted “Subparagraph (B) of paragraph (1)” for “Subparagraphs (B) and (C) of paragraph (1)” in subpar. (A), struck out subpar. (A) designation and heading, and struck out subpar. (B) providing that insolvency exclusion takes precedence over qualified business exclusion.
 
 Subsec. (b)(2)(B). Pub. L. 99–514, §231(d)(3)(D), substituted “General business credit” for “Research credit and general business credit” in heading and amended text, as amended by this Act (Pub. L. 99–514, §1171(b)(4) (see below)), generally. Prior to amendment, text read as follows: “Any carryover to or from the taxable year of a discharge of an amount for purposes of determining the amount allowable as a credit under—
 
@@ -682,7 +682,7 @@ Certain transfers pursuant to debt restructure agreement.—The amendment made b
 
 &emsp;“(B) such agreement was specified in a registration statement filed with the Securities and Exchange Commission by the corporation on March 7, 1984.”
 
-Amendment by section 474(r)(5) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983,and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by section 474(r)(5) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 Amendment by section 721(b) of Pub. L. 98–369 applicable to contributions to capital after Dec. 31, 1980, in taxable years ending after such date, see section 721(y)(2) of Pub. L. 98–369, set out as a note under section 1361 of this title.
 
@@ -790,7 +790,7 @@ For subsection (f)
 
 For Section 6
 
-(Relating to Changes in Tax Procedures).—The amendments made by section 6 \[enacting sections 6658 and 7464 of this title, amending sections 128, 354, 422, 1023, 3302, 6012, 6036, 6155, 6161, 6212, 6213, 6216, 6326 \[now 6327\], 6404, 6503, 6512, 6532, 6871, 6872, 6873, 7430, and 7508 of this title, repealing section 1018 of this title, and redesignating former section 7464 of this title as 7465\] shall take effect on October 1, 1979, but shall not apply to any proceeding under the Bankruptcy Act \[Title 11\] commenced before October 1, 1979.
+(Relating to Changes in Tax Procedures).—The amendments made by section 6 \[enacting sections 6658 and 7464 of this title, amending sections 128, 354, 422, 1023, 3302, 6012, 6036, 6155, 6161, 6212, 6213, 6216, 6326 \[now 6327\], 6404, 6503, 6512, 6532, 6871, 6872, 6873, 7430, and 7508 of this title, repealing section 1018 ofthis title, and redesignating former section 7464 of this title as 7465\] shall take effect on October 1, 1979, but shall not apply to any proceeding under the Bankruptcy Act \[Title 11\] commenced before October 1, 1979.
 
 “(f)
 

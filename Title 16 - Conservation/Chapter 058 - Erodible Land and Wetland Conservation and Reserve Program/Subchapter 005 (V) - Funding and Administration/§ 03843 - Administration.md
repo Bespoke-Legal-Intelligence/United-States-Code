@@ -42,7 +42,7 @@ In the preparation and application of a conservation compliance plan under subch
 
 #### (e) Regulations
 
-Not later than 90 days after April 4, 1996, the Secretary shall issue regulations to implement the conservation reserve and wetlands reserve programs established under part I of subchapter IV of this chapter.
+Not later than 90 days after April 4, 1996, the Secretary shall issue regulations to implement the conservation reserve and wetlands reserveprograms established under part I of subchapter IV of this chapter.
 
 (Pub. L. 99–198, title XII, §1243, as added Pub. L. 104–127, title III, §341, Apr. 4, 1996, 110 Stat. 1008.)
 
@@ -62,5 +62,5 @@ A prior section 3847, Pub. L. 99–198, title XII, §1247, as added Pub. L. 101�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3822, 3832 of this title.
+This section is referred to in section 3822 of this title.
 

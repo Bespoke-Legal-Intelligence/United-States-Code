@@ -10,7 +10,7 @@ This section shall apply only to a forward-looking statement made by—
 
 &emsp;(3) an outside reviewer retained by such issuer making a statement on behalf of such issuer; or
 
-&emsp;(4) an underwriter, with respect to information provided by such issuer or information derived from information provided by such issuer.
+&emsp;(4) an underwriter, with respect to information provided by such issuer or informationderived from information provided by such issuer.
 
 #### (b) Exclusions
 

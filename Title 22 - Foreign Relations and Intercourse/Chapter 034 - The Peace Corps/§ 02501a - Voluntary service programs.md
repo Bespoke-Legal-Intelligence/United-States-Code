@@ -34,7 +34,7 @@ Subsec. (b)(2). Pub. L. 95–331, §8(a), substituted provisions authorizing use
 
 1972—Subsec. (b)(2). Pub. L. 92–352 substituted “$350,000” for “$300,000” and “in any fiscal year to carry” for “in fiscal year 1971 to carry”.
 
-1970—Subsec. (a)(3). Pub. L. 91–352, §9(a), changed the policy objective from encouragement of participationin any international register which seeks to provide volunteers to serve in less developed countries or areas, training, or other assistance in order to help such countries or areas to meet their needs for trained manpower to encouragement of participation in international voluntary service programs and activities.
+1970—Subsec. (a)(3). Pub. L. 91–352, §9(a), changed the policy objective from encouragement of participation in any international register which seeks to provide volunteers to serve in less developed countries or areas, training, or other assistance in order to help such countries or areas to meet their needs for trained manpower to encouragement of participation in international voluntary service programs and activities.
 
 Subsec. (b)(2). Pub. L. 91–352, §9(b), substituted fiscal year 1971 for fiscal year 1970 and changed the authorization of the contribution of funds from a fair and proportionate share of the costs of the international registers to a fair and proportionate share of the costs of encouraging the development of and participation in international voluntary programs and activities.
 

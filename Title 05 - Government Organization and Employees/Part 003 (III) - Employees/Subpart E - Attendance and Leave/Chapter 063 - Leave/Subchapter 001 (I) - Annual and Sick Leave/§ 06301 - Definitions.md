@@ -40,7 +40,7 @@ For the purpose of this subchapter—
 
 > Notwithstanding clauses (x)–(xii) of paragraph (2), the term “employee” includes any member of the Senior Foreign Service or any Foreign Service officer (other than a member or officer serving as chief of mission or in a position which requires appointment by and with the advice and consent of the Senate) and any member of the Foreign Service commissioned as a diplomatic or consular officer, or both, under section 312 of the Foreign Service Act of 1980.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 517; Pub. L. 91–375, §6(c)(17), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–519, §1, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 96–70, title III, §3302(e)(2), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §§2312(a), 2314(f)(1), Oct. 17, 1980, 94 Stat. 2166, 2168; Pub. L. 99–335,title II, §207(c)(1), formerly §207(c), June 6, 1986, 100 Stat. 595, renumbered §207(c)(1), Pub. L. 99–556, title II, §201(1), Oct. 27, 1986, 100 Stat. 3135; Pub. L. 102–54, §13(b)(2), June 13, 1991, 105 Stat. 274.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 517; Pub. L. 91–375, §6(c)(17), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–519, §1, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 96–70, title III, §3302(e)(2), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §§2312(a), 2314(f)(1), Oct. 17, 1980, 94 Stat. 2166, 2168; Pub. L. 99–335, title II, §207(c)(1), formerly §207(c), June 6, 1986, 100 Stat. 595, renumbered §207(c)(1), Pub. L. 99–556, title II, §201(1), Oct. 27, 1986, 100 Stat. 3135; Pub. L. 102–54, §13(b)(2), June 13, 1991, 105 Stat. 274.)
 
 Historical and Revision Notes
 
@@ -92,7 +92,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### References in Text
 
-Section 102(a)(3) of the Foreign Service Act of 1980, referred to in par. (2)(xii), was redesignated section 102(3) of that Act by Pub. L. 98–164, which struck out the designation “(a)” and struck out subsec. (b) of section 102. Section 102 is classified to section 3902 of Title 22, Foreign Relations and Intercourse.
+Section 102(a)(3) of the Foreign Service Act of 1980, referred to in par. (2)(xii), was redesignated section102(3) of that Act by Pub. L. 98–164, which struck out the designation “(a)” and struck out subsec. (b) of section 102. Section 102 is classified to section 3902 of Title 22, Foreign Relations and Intercourse.
 
 Section 312 of the Foreign Service Act of 1980, referred to in text, is classified to section 3952 of Title 22.
 
@@ -131,6 +131,10 @@ Amendment by Pub. L. 95–519 effective beginning on first day of first applicab
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–56, §1(a), Sept. 24, 1999, 113 Stat. 407, provided that: “This Act \[amending section 6327 of this title and renumbering another section 6327 of this title as section 6328\] may be cited as the ‘Organ Donor Leave Act’.”
 
 #### Short Title of 1994 Amendment
 

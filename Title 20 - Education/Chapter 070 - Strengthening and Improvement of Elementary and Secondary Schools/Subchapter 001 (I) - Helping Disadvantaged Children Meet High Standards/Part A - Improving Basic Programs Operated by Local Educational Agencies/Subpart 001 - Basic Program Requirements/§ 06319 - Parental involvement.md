@@ -8,7 +8,7 @@
 
 #### (2) Written policy
 
-&emsp;Each local educational agency that receives funds under this part shall develop jointly with, agree upon with, and distribute to, parents of participating children a written parent involvement policy that is incorporated into the local educational agency's plan developedunder section 6312 of this title, establishes the expectations for parent involvement, and describes how the local educational agency will—
+&emsp;Each local educational agency that receives funds under this part shall develop jointly with, agree upon with, and distribute to, parents of participating children a written parent involvement policy that is incorporated into the local educational agency's plan developed under section 6312 of this title, establishes the expectations for parent involvement, and describes how the local educational agency will—
 
 &emsp;&emsp;(A) involve parents in the joint development of the plan under section 6312 of this title, and the process of school review and improvement under section 6317 of this title;
 
@@ -28,7 +28,7 @@
 
 #### (3) Reservation
 
-&emsp;(A) Each local educational agency shall reserve not less than 1 percent of such agency's allocation under this part to carry out this section, including family literacy and parenting skills, except that this paragraph shall not apply if 1 percent of such agency's allocation under this part (other than funds allocated under section 6302(e) of this title) for the fiscal year for which the determination is made is $5,000 or less.
+&emsp;(A) Each local educational agency shall reserve not less than 1 percent of such agency's allocation under this part to carry out this section, including family literacy and parenting skills, except that this paragraph shall notapply if 1 percent of such agency's allocation under this part (other than funds allocated under section 6302(e) of this title) for the fiscal year for which the determination is made is $5,000 or less.
 
 &emsp;(B) Parents of children receiving services under this part shall be involved in the decisions regarding how funds reserved under subparagraph (A) are allotted for parental involvement activities.
 
@@ -72,7 +72,7 @@ Each school served under this part shall—
 
 &emsp;&emsp;(E) timely responses to parents’ suggestions under subparagraph (D); and
 
-&emsp;(5) if the schoolwide program plan under section 6314(b)(2) of this title is not satisfactoryto the parents of participating children, submit any parent comments on the plan when the school makes the plan available to the local educational agency.
+&emsp;(5) if the schoolwide program plan under section 6314(b)(2) of this title is not satisfactory to the parents of participating children, submit any parent comments on the plan when the school makes the plan available to the local educational agency.
 
 #### (d) Shared responsibilities for high student performance
 
@@ -132,11 +132,17 @@ In carrying out the parental involvement requirements of this part, local educat
 
 #### (g) Parental information and resource centers
 
-In States where parental information and resource centers have been established pursuant to section 5911 of this title (to provide training, information, and support to parents and individuals who work with parents), local educational agencies and schools receiving assistance under this part shall assist parents and parent organizations by informing such parents and organizations of the existence and purpose of such centers, providing such parents and organizations with a description of the services and programs provided by such centers, advising parents on how to use such centers, and helping parents to contact such centers.
+In States where parental information and resource centers have been established pursuant to section 5911 <sup>1</sup> of this title (to provide training, information, and support to parents and individuals who work with parents), local educational agencies and schools receiving assistance under this part shall assist parents and parent organizations by informing such parents and organizations of the existence and purpose of such centers, providing such parents and organizations with a description of the services and programs provided by such centers, advising parents on how to use such centers, and helping parents to contact such centers.
 
 (Pub. L. 89–10, title I, §1118, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3550.)
+
+#### References in Text
+
+Section 5911 of this title, referred to in subsec. (g), was repealed by Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §310(i)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–265.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 6394 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

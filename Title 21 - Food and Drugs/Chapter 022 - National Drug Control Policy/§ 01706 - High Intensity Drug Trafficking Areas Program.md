@@ -38,3 +38,7 @@ The Director shall ensure that no Federal funds appropriated for the High Intens
 
 <i>For repeal of section on Sept. 30, 2003, see section 1712 of this title.</i>
 
+#### Funding for High Intensity Drug Trafficking Areas Program
+
+Pub. L. 106–58, title III, Sept. 29, 1999, 113 Stat. 448, provided in part: “That, hereafter, of the amount appropriated for fiscal year 2000 or any succeeding fiscal year for the High Intensity Drug Trafficking Areas Program, the funds to be obligated or expended during such fiscal year for programs addressing the treatment or prevention of drug use as part of the approved strategy for a designated High Intensity Drug Trafficking Area (HIDTA) shall not be less than the funds obligated or expended for such programs during fiscal year 1999 for each designated HIDTA without the prior approval of the Committees on Appropriations”.
+

@@ -2,7 +2,7 @@
 
 #### (a) Conditions for approval of H–2A petitions
 
-(1) A petition to import an alien as an H–2A worker (as defined in subsection (i)(2) of thissection) may not be approved by the Attorney General unless the petitioner has applied to the Secretary of Labor for a certification that—
+(1) A petition to import an alien as an H–2A worker (as defined in subsection (i)(2) of this section) may not be approved by the Attorney General unless the petitioner has applied to the Secretary of Labor for a certification that—
 
 &emsp;(A) there are not sufficient workers who are able, willing, and qualified, and who will be available at the time and place needed, to perform the labor or services involved in the petition, and
 
@@ -30,7 +30,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 #### (1) Deadline for filing applications
 
-&emsp;The Secretary of Labor may not require that the application be filed more than 60 days before the first date the employer requires the labor or services of the H–2A worker.
+&emsp;The Secretary of Labor may not require that the application be filed more than 45 days before the first date the employer requires the labor or services of the H–2A worker.
 
 #### (2) Notice within seven days of deficiencies
 
@@ -40,7 +40,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 #### (3) Issuance of certification
 
-&emsp;(A) The Secretary of Labor shall make, not later than 20 days before the date such labor or services are first required to be performed, the certification described in subsection (a)(1) of this section if—
+&emsp;(A) The Secretary of Labor shall make, not later than 30 days before the date such labor or services are first required to be performed, the certification described in subsection (a)(1) of this section if—
 
 &emsp;&emsp;(i) the employer has complied with the criteria for certification (including criteria for the recruitment of eligible individuals as prescribed by the Secretary), and
 
@@ -58,7 +58,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 &emsp;&emsp;(III) has not otherwise associated with other employers who are petitioning for temporary foreign workers under this section.
 
-&emsp;(iii) Six months before the end of the 3-year period described in clause (i), the Secretary of Labor shall consider the findings of the reportmandated by section 403(a)(4)(D) of the Immigration Reform and Control Act of 1986 as well as other relevant materials, including evidence of benefits to United States workers and costs to employers, addressing the advisability of continuing a policy which requires an employer, as a condition for certification under this section, to continue to accept qualified, eligible United States workers for employment after the date the H–2A workers depart for work with the employer. The Secretary's review of such findings and materials shall lead to the issuance of findings in furtherance of the Congressional policy that aliens not be admitted under this section unless there are not sufficient workers in the United States who are able, willing, and qualified to perform the labor or service needed and that the employment of the aliens in such labor or services will not adversely affect the wages and working conditions of workers in the United States similarly employed. In the absence of the enactment of Federal legislation prior to three months before the end of the 3-year period described in clause (i) which addresses the subject matter of this subparagraph, the Secretary shall immediately publish the findings required by this clause, and shall promulgate, on an interim or final basis, regulations based on his findings which shall be effective no later than three years from the effective date of this section.
+&emsp;(iii) Six months before the end of the 3-year period described in clause (i), the Secretary of Labor shall consider the findings of the report mandated by section 403(a)(4)(D) of the Immigration Reform and Control Act of 1986 as well as other relevant materials, including evidence of benefits to United States workers and costs to employers, addressing the advisability of continuing a policy which requires an employer, as a condition for certification under this section, to continue to accept qualified, eligible United States workers for employment after the date the H–2A workers depart for work with the employer. The Secretary's review of such findings and materials shall lead to the issuance of findings in furtherance of the Congressional policy that aliens not be admitted under this section unless there are not sufficient workers in the United States who are able, willing, and qualified to perform the labor or service needed and that the employment of the aliens in such labor or services will not adversely affect the wages and working conditions of workers in the United States similarly employed. In the absence of the enactment of Federal legislation prior to three months before the end of the 3-year period described in clause (i) which addresses the subject matter of this subparagraph, the Secretary shall immediately publish the findings required by this clause, and shall promulgate, on an interim or final basis, regulations based on his findings which shall be effective no later than three years from the effective date of this section.
 
 &emsp;(iv) In complying with clause (i) of this subparagraph, an association shall be allowed to refer or transfer workers among its members: <i>Provided</i>, That for purposes of this section an association acting as an agent for its members shall not be considered a joint employer merely because of such referral or transfer.
 
@@ -92,7 +92,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 #### (B) Association's violation does not necessarily disqualify members
 
-&emsp;&emsp;(i) If an association representing agricultural producers as a joint employer is determined to have committed an act that under subsection (b)(2) of this section results in the denial of certification with respect to the association, the denial shall apply only to the association and does not apply to anyindividual producer member of the association unless the Secretary determines that the member participated in, had knowledge of, or reason to know of, the violation.
+&emsp;&emsp;(i) If an association representing agricultural producers as a joint employer is determined to have committed an act that under subsection (b)(2) of this section results in the denial of certification with respect to the association, the denial shall apply only to the association and does not apply to any individual producer member of the association unless the Secretary determines that the member participated in, had knowledge of, or reason to know of, the violation.
 
 &emsp;&emsp;(ii) If an association of agricultural producers certified as a sole employer is determined to have committed an act that under subsection (b)(2) of this section results in the denial of certification with respect to the association, no individual producer member of such association may be the beneficiary of the services of temporary alien agricultural workers admitted under this section in the commodity and occupation in which such aliens were employed by the association which was denied certification during the period such denial is in force, unless such producer member employs such aliens in the commodity and occupation in question directly or through an association which is a joint employer of such workers with the producer member.
 
@@ -134,7 +134,7 @@ For purposes of this section:
 
 &emsp;(2) The term “H–2A worker” means a nonimmigrant described in section 1101(a)(15)(H)(ii)(a) of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §218, formerly §216, as added Pub. L. 99–603, title III, §301(c), Nov. 6, 1986, 100 Stat. 3411; renumbered §218 and amended Pub. L. 100–525, §2(<i>l</i>)(2), (3), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 102–232, title III, §§307(<i>l</i>)(4), 309(b)(8), Dec. 12, 1991, 105 Stat. 1756, 1759; Pub. L. 103–416, title II, §219(z)(8), Oct. 25, 1994, 108 Stat. 4318.)
+(June 27, 1952, ch. 477, title II, ch. 2, §218, formerly §216, as added Pub. L. 99–603, title III,§301(c), Nov. 6, 1986, 100 Stat. 3411; renumbered §218 and amended Pub. L. 100–525, §2(<i>l</i>)(2), (3), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 102–232, title III, §§307(<i>l</i>)(4), 309(b)(8), Dec. 12, 1991, 105 Stat. 1756, 1759; Pub. L. 103–416, title II, §219(z)(8), Oct. 25, 1994, 108 Stat. 4318; Pub. L. 106–78, title VII, §748, Oct. 22, 1999, 113 Stat. 1167.)
 
 #### References in Text
 
@@ -145,6 +145,10 @@ Section 403(a)(4)(D) of the Immigration Reform and Control Act of 1986, referred
 Section was classified to section 1186 of this title prior to its renumbering by Pub. L. 100–525.
 
 #### Amendments
+
+1999—Subsec. (c)(1). Pub. L. 106–78, §748(1), substituted “45 days” for “60 days”.
+
+Subsec. (c)(3)(A). Pub. L. 106–78, §748(2), substituted “30 days” for “20 days” in introductory provisions.
 
 1994—Subsec. (i)(1). Pub. L. 103–416 made technical correction to directory language of Pub. L. 102–232, §309(b)(8). See 1991 Amendment note below.
 

@@ -24,7 +24,7 @@ The words “sections 5315–5317 of title 5” are substituted for “subsectio
 
 #### 1948 Act
 
-<i>Prior section 508.—</i>Based on section 312 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees, and title 28, U.S.C., 1940 ed., §§579 and 580 (R.S. §363; May 28, 1896, ch. 252, §§8, 24, 29 Stat. 181, 186; Mar. 3, 1903, ch. 1007, §1, 32 Stat. 1141; Mar. 4, 1907, ch. 2918, §1, 34 Stat. 1360; May 27, 1908, ch. 200, §1, 35 Stat. 375; July 19, 1919, ch. 24, §1, 41 Stat. 209; June 1, 1922, ch. 204, title II (part), 42 Stat. 616; Jan. 3, 1923, ch. 21, title II, 42 Stat. 1083; Mar. 4, 1923, ch. 295, 42 Stat. 1560; May 28, 1924, ch. 204, title II (part), 43 Stat. 220).
+<i>Prior section 508.—</i>Based on section 312 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees, and title 28, U.S.C., 1940 ed., §§579 and 580 (R.S. §363; May 28, 1896, ch. 252, §§8, 24, 29 Stat. 181, 186; Mar. 3, 1903, ch. 1007, §1, 32 Stat. 1141; Mar. 4, 1907, ch. 2918, §1, 34 Stat. 1360; May 27, 1908, ch. 200, §1, 35 Stat. 375; July 19, 1919, ch. 24, §1, 41 Stat. 209; June 1, 1922, ch. 204, title II (part), 42 Stat. 616; Jan. 3,1923, ch. 21, title II, 42 Stat. 1083; Mar. 4, 1923, ch. 295, 42 Stat. 1560; May 28, 1924, ch. 204, title II (part), 43 Stat. 220).
 
 Section consolidates part of section 312 of title 5, U.S.C., 1940 ed., and part of section 579 of title 28, U.S.C., 1940 ed., with section 580 of title 28, U.S.C., 1940 ed.
 

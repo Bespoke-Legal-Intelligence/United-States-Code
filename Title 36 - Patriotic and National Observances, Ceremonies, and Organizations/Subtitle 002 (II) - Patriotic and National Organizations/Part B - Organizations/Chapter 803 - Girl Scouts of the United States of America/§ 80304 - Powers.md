@@ -38,6 +38,8 @@ Mar. 16, 1950, ch. 62, §§2 (words after 2d comma), 8, 64 Stat. 23, 24.
 
 36:38.
 
+&nbsp;
+
 In this section, the text of 36:38 is omitted as executed and obsolete.
 
 In clause (1), the word “amend” is substituted for “and from time to time to alter such constitution, bylaws, rules, and regulations” for consistency in the revised title and to eliminate unnecessary words. The word “rules” is omitted as included in “regulations”. The words “not inconsistent with the laws of the United States, or any State thereof” are omitted as unnecessary.

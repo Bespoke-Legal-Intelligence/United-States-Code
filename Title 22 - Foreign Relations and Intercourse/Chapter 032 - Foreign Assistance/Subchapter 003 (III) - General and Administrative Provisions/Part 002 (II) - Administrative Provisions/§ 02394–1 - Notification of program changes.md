@@ -6,7 +6,7 @@ None of the funds appropriated to carry out the purposes of this chapter (except
 
 &emsp;(1) the nature and purpose of such proposed obligation, and
 
-&emsp;(2) to the extent possible at the time of the proposed obligation, the country for whichsuch funds would otherwise have been obligated.
+&emsp;(2) to the extent possible at the time of the proposed obligation, the country for which such funds would otherwise have been obligated.
 
 #### (b) Exceptions
 
@@ -54,9 +54,9 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Delegation of Functions
 
-Functions of President under this section, to extent they relate to notifications to Congress concerning changes in programs under subchapter II of this chapter, except parts IV, VI, and VIII thereof, and under Arms Export Control Act (§2751 et seq.), delegated to Secretary of Defense, subject to prior consultation with Secretary of State, by section 1–301(c) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56675, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2151f, 2194, 2274, 2291, 2291–5, 2291a, 2291c, 2291e, 2291g, 2291j, 2293, 2295b, 2295c, 2318, 2321h, 2321j, 2346c, 2394aa–2, 2420, 2763, 2799c, 5476, 5605, 6039, 6062, 6063 of this title.
+This section is referred to in sections 287e–2, 2151f, 2194, 2274, 2291, 2291–5, 2291a, 2291c, 2291e, 2291g, 2291j,2293, 2295b, 2295c, 2318, 2321h, 2321j, 2346c, 2394aa–2, 2420, 2763, 2799c, 5476, 5605, 6039, 6062, 6063 of this title.
 

@@ -50,7 +50,7 @@ For purposes of this subchapter:
 
 &emsp;The term “State”, except as otherwise specifically provided, means each of the 50 States, the District of Columbia, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, Puerto Rico, and the Republic of the Marshall Islands.
 
-(July 1, 1944, ch. 373, title XXVI, §2676, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104Stat. 620; amended Pub. L. 104–146, §12(a), (c)(8), May 20, 1996, 110 Stat. 1373, 1374.)
+(July 1, 1944, ch. 373, title XXVI, §2676, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 620; amended Pub. L. 104–146, §12(a), (c)(8), May 20, 1996, 110 Stat. 1373, 1374.)
 
 #### Amendments
 

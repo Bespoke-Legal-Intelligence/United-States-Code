@@ -54,7 +54,7 @@ Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in s
 
 Section 1612(a)(2)(A)(i)(V) of this title, referred to in subsec. (b)(1)(E), was redesignated section 1612(a)(2)(A)(v) of this title by Pub. L. 105–185, title V, §503(2), (3), June 23, 1998, 112 Stat. 578.
 
-The Social Security Act, referred to in subsec. (b)(2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, ThePublic Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 

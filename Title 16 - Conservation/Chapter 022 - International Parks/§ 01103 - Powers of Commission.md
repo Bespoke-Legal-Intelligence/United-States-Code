@@ -10,11 +10,11 @@ The Commission shall have juridical personality and all powers and capacity nece
 
 &emsp;(d) to appoint its own employees, including an executive secretary who shall act as secretary at meetings of the Commission and to fix the terms and conditions of their employment and compensation;
 
-&emsp;(e) to delegate to the executive secretary or other officials and to authorize the redelegation of such authority respecting the employment and direction of its employees and the other responsibilities of the Commission as it deems desirable and appropriate;
+&emsp;(e) to delegate to the executive secretary or other officials and to authorize the redelegation of such authority respecting the employment and direction of its employees and theother responsibilities of the Commission as it deems desirable and appropriate;
 
 &emsp;(f) to adopt such rules of procedure as it deems desirable to enable it to perform the functions set forth in this agreement;
 
-&emsp;(g) to charge admission fees for entrance to the park should the Commission consider such fees desirable; however, such fees shall be set at a level which will make the facilities readily available to visitors; any revenues derived from admission fees or concession operations of the Commission shall be transmitted in equal shares to the two Governments within sixty days of the end of the Commission's fiscal year, the United States share to be turnedover to the appropriate Federal agency for deposit into the United States Treasury in accordance with the laws governing entrance fees received by the National Park Service;
+&emsp;(g) to charge admission fees for entrance to the park should the Commission consider such fees desirable; however, such fees shall be set at a level which will make the facilities readily available to visitors; any revenues derived from admission fees or concession operations of the Commission shall be transmitted in equal shares to the two Governments within sixty days of the end of the Commission's fiscal year, the United States share to be turned over to the appropriate Federal agency for deposit into the United States Treasury in accordance with the laws governing entrance fees received by the National Park Service;
 
 &emsp;(h) to grant concessions; if deemed desirable;
 

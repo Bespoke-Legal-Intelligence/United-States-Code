@@ -78,7 +78,7 @@ The Council shall meet at least quarterly and in such places as the Council deem
 
 The Council shall—
 
-&emsp;(1) advise and assist the Secretary of Education, the Secretary of Health and Human Services, the Secretary of Defense, the Secretary of the Interior, the Secretary of Agriculture, and the Commissioner of Social Security in the performance of their responsibilities related to serving children from birththrough age 5 who are eligible for services under this subchapter or under subchapter II of this chapter;
+&emsp;(1) advise and assist the Secretary of Education, the Secretary of Health and Human Services, the Secretary of Defense, the Secretary of the Interior, the Secretary of Agriculture, and the Commissioner of Social Security in the performance of their responsibilities related to serving children from birth through age 5 who are eligible for services under this subchapter or under subchapter II of this chapter;
 
 &emsp;(2) conduct policy analyses of Federal programs related to the provision of early intervention services and special educational and related services to infants and toddlers with disabilities and their families, and preschool children with disabilities, in order to determine areas of conflict, overlap, duplication, or inappropriate omission;
 
@@ -109,4 +109,8 @@ The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–
 #### Prior Provisions
 
 A prior section 1444, Pub. L. 91–230, title VI, §643, formerly §644, Apr. 13, 1970, 84 Stat. 186; Pub. L. 93–380, title VI, §619, Aug. 21, 1974, 88 Stat. 585; Pub. L. 95–49, §5, June 17, 1977, 91 Stat. 231; Pub. L. 98–199, §12, Dec. 2, 1983, 97 Stat. 1374; Pub. L. 99–457, title III, §314, Oct. 8, 1986, 100 Stat. 1171; renumbered §643 and amended Pub. L. 101–476, title V, §§503, 504, title IX, §901(b)(147), (148), Oct. 30, 1990, 104 Stat. 1138, 1149; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, authorized appropriations, prior to repeal by Pub. L. 105–17, title II, §203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 42 section 9840a.
 

@@ -10,7 +10,7 @@ Section is from the Congressional Operations Appropriation Act, 1984, which is t
 
 #### Prior Provisions
 
-A prior section 61h–5, Pub. L. 95–26, title I, May 4, 1977, 91 Stat. 80, authorizing the Majority Leader and the Minority Leader to appoint, respectively, an Assistant to the Majority Leader for Floor Operations and an Assistant to the Minority Leader for Floor Operations, was omitted in view of section 101(b) of Pub. L. 98–51, which provided that: “Effective October 1, 1983, the positions of Assistant to the Majority Leader for Floor Operations and Assistant to the Minority Leader for Floor Operations established by the Supplemental Appropriations Act, 1977 (2 U.S.C. 61h–5), are abolished.”
+A prior section 61h–5, Pub. L. 95–26, title I, May 4, 1977, 91 Stat. 80, authorizing the Majority Leader and the Minority Leader to appoint, respectively, an Assistant to the Majority Leader for Floor Operations and an Assistant to the Minority Leader for Floor Operations, was omitted in view of section 101(b) of Pub. L. 98–51, which provided that: “Effective October 1, 1983, the positions of Assistant to the Majority Leader for Floor Operations and Assistant to the Minority Leader forFloor Operations established by the Supplemental Appropriations Act, 1977 (2 U.S.C. 61h–5), are abolished.”
 
 #### Increases in Compensation
 

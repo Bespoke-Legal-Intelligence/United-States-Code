@@ -166,7 +166,7 @@ Subsec. (c). Pub. L. 100–690, §7601(c)(2), added subsec. (c).
 
 #### Effective Date of 1996 Amendment
 
-Section 1205(c)(3) of Pub. L. 104–168 provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
+Section 1205(c)(3) of Pub. L. 104–168 provided that: “The amendments made by this subsection \[amendingthis section\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Effective Date of 1988 Amendment
 

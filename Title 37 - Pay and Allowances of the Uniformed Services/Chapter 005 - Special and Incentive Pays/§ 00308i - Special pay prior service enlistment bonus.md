@@ -4,21 +4,19 @@
 
 Authority and Eligibility Requirements.—(1) A person who is a former enlisted member of an armed force who enlists in the Selected Reserve of the Ready Reserve of an armed force for a period of three or six years in a critical military skill designated for such a bonus by the Secretary concerned and who meets the requirements of paragraph (2) may be paid a bonus as prescribed in subsection (b).
 
-(2) A bonus may only be paid under this section to a person who—
+(2) A bonus may only be paid under this section to a person who meets each of the following requirements:
 
-&emsp;(A) has completed his military service obligation but has less than 14 years of total military service;
+&emsp;(A) The person has completed a military service obligation, but has less than 14 years of total military service, and received an honorable discharge at the conclusion of that military service obligation.
 
-&emsp;(B) has received an honorable discharge at the conclusion of military service;
+&emsp;(B) The person was not released, or is not being released, from active service for the purpose of enlistment in a reserve component.
 
-&emsp;(C) is not being released from active service for the purpose of enlistment in a reserve component;
+&emsp;(C) The person is projected to occupy, or is occupying, a position as a member of the Selected Reserve in a specialty in which the person—
 
-&emsp;(D) is projected to occupy a position as a member of the Selected Reserve in a specialty in which—
+&emsp;&emsp;(i) successfully served while a member on active duty and attained a level of qualification while on active duty commensurate with the grade and years of service of the member; or
 
-&emsp;&emsp;(i) the person successfully served while a member on active duty; and
+&emsp;&emsp;(ii) has completed training or retraining in the specialty skill that is designated as critically short and attained a level of qualification in the specialty skill that is commensurate with the grade and years of service of the member.
 
-&emsp;&emsp;(ii) the person attained a level of qualification while a member on active duty commensurate with the grade and years of service of the member; and
-
-&emsp;(E) has not previously been paid a bonus (except under this section) for enlistment, reenlistment, or extension of enlistment in a reserve component.
+&emsp;(D) The person has not previously been paid a bonus (except under this section) for enlistment, reenlistment, or extension of enlistment in a reserve component.
 
 (b)
 
@@ -44,7 +42,7 @@ Condition on Eligibility; Limitation on Number of Bonuses.—(1) To be eligible 
 
 (d)
 
-Repayment of Bonus.—(1) A person who receives a bonus payment under this section and who fails during the period for which the bonuswas paid to serve satisfactorily in the element of the Selected Reserve of the Ready Reserve with respect to which the bonus was paid shall refund to the United States an amount that bears the same relation to the amount of the bonus paid to such person as the period that such person failed to serve satisfactorily bears to the total period for which the bonus was paid.
+Repayment of Bonus.—(1) A person who receives a bonus payment under this section and who fails during the period for which the bonus was paid to serve satisfactorily in the element of the Selected Reserve of the Ready Reserve with respect to which the bonus was paid shall refund to the United States an amount that bears the same relation to the amount of the bonus paid to such person as the period that such person failed to serve satisfactorily bears to the total period for which the bonus was paid.
 
 (2) An obligation to reimburse the United States imposed under paragraph (1) is, for all purposes, a debt owed to the United States.
 
@@ -58,11 +56,15 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 (f)
 
-Termination of Authority.—No bonus may be paid under this section to any person for an enlistment after December 31, 1999.
+Termination of Authority.—No bonus may be paid under this section to any person for an enlistment after December 31, 2000.
 
-(Added Pub. L. 99–145, title VI, §644(a)(1), Nov. 8, 1985, 99 Stat. 652; amended Pub. L. 100–26, §8(d)(4), Apr. 21, 1987, 101 Stat. 285; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), title XI, §1136, Oct. 23, 1992, 106 Stat. 2421, 2541; Pub. L. 103–160, div. A, title VI, §612(e), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(e), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §611(e), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(g), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(g), 622, Nov. 18, 1997, 111 Stat. 1785, 1791; Pub. L. 105–261, div. A, title VI, §611(g), Oct. 17, 1998, 112 Stat. 2038.)
+(Added Pub. L. 99–145, title VI, §644(a)(1), Nov. 8, 1985, 99 Stat. 652; amended Pub. L. 100–26, §8(d)(4), Apr. 21, 1987, 101 Stat. 285; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), title XI, §1136, Oct. 23, 1992, 106 Stat. 2421, 2541; Pub. L. 103–160, div. A, title VI, §612(e), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(e), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §611(e), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(g), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(g), 622, Nov. 18, 1997, 111 Stat. 1785, 1791; Pub. L. 105–261, div. A, title VI, §611(g), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §§611(g), 623(a), Oct. 5, 1999, 113 Stat. 650, 653.)
 
 #### Amendments
+
+1999—Subsec. (a)(2). Pub. L. 106–65, §623(a), added par. (2) and struck out former par. (2) which set forth requirements for payment of a bonus under this section.
+
+Subsec. (f). Pub. L. 106–65, §611(g), substituted “December 31, 2000” for “December 31, 1999”.
 
 1998—Subsec. (f). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
 
@@ -84,7 +86,7 @@ Subsec. (b). Pub. L. 105–85, §622(b), amended subsec. (b) generally. Prior to
 
 &emsp;&emsp;“(B) an amount not to exceed $2,500, in the case of a member who enlists for a period of six years; and
 
-&emsp;“(2) a subsequent payment of an amount not to exceed $416.66 upon the completion of each year of the period of such reenlistment or extension of enlistment during which such member has satisfactorily participated in unit training.”
+&emsp;“(2) a subsequent payment of an amount not to exceed $416.66 upon the completion of each year of theperiod of such reenlistment or extension of enlistment during which such member has satisfactorily participated in unit training.”
 
 Subsec. (c). Pub. L. 105–85, §622(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A member may not be paid more than one bonus under this section and may not be paid a bonus under this section unless the specialty associated with the position the member is projected to occupy is a specialty in which the member successfully served while on active duty and attained a level of qualification commensurate with the member's grade and years of service.”
 
@@ -129,6 +131,10 @@ Subsec. (i). Pub. L. 102–484, §612(d), substituted “September 30, 1993” f
 1987—Subsec. (b)(1)(B). Pub. L. 100–26 inserted a comma after “$2,500”.
 
 Subsec. (i). Pub. L. 100–180 substituted “September 30, 1990” for “September 30, 1987”.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–65, div. A, title VI, §623(b), Oct. 5, 1999, 113 Stat. 654, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1999, and shall apply to enlistments beginning on or after that date.”
 
 #### Effective Date of 1993 Amendment
 

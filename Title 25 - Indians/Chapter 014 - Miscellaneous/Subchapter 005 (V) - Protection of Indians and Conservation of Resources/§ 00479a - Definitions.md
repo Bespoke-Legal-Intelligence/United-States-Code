@@ -24,7 +24,7 @@ Section 103 of Pub. L. 103–454 provided that: “The Congress finds that—
 
 &emsp;“(1) the Constitution, as interpreted by Federal case law, invests Congress with plenary authority over Indian Affairs;
 
-&emsp;“(2) ancillary to that authority, the United States has a trust responsibility to recognized Indian tribes,maintains a government-to-government relationship with those tribes, and recognizes the sovereignty of those tribes;
+&emsp;“(2) ancillary to that authority, the United States has a trust responsibility to recognized Indian tribes, maintains a government-to-government relationship with those tribes, and recognizes the sovereignty of those tribes;
 
 &emsp;“(3) Indian tribes presently may be recognized by Act of Congress; by the administrative procedures set forth in part 83 of the Code of Federal Regulations denominated ‘Procedures for Establishing that an American Indian Group Exists as an Indian Tribe;’ or by a decision of a United States court;
 

@@ -46,7 +46,7 @@
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (c)(4), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Part C of title IV of the Job Training Partnership Act is classified generally to part C (§1721) of subchapter IV of chapter 19 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (c)(4), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Part C of title IV of the Job Training Partnership Act is classified generally to part C (§1721) of subchapter IV of chapter 19 of Title 29, Labor. For complete classification of this Act to the Code, see ShortTitle note set out under section 1501 of Title 29 and Tables.
 
 The Workforce Investment Act of 1998, referred to in subsec. (c)(4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 

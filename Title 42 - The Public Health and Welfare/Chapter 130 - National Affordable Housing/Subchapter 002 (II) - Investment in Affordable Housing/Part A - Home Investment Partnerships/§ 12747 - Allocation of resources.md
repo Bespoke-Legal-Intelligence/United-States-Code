@@ -38,7 +38,7 @@
 
 #### (F) Consultation
 
-&emsp;&emsp;The Secretary shall develop the formula in subparagraph (A) in ongoing consultation with (i) the Subcommittee on Housing and Urban Affairs of the Committee on Banking, Housing, and Urban Affairs of the Senate, (ii) the Subcommittee on Housing and Community Development of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and (iii) organizations representing States and units of general local government. Not less than 60 days prior to publishing a formula for comment, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a copy of the formula the Secretary intends to propose.
+&emsp;&emsp;The Secretary shall develop the formula in subparagraph (A) in ongoing consultation with (i) the Subcommittee on Housing and Urban Affairs of the Committee on Banking, Housing, and Urban Affairs of the Senate,\(ii) the Subcommittee on Housing and Community Development of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and (iii) organizations representing States and units of general local government. Not less than 60 days prior to publishing a formula for comment, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a copy of the formula the Secretary intends to propose.
 
 #### (2) Minimum State allocation
 
@@ -48,7 +48,7 @@
 
 #### (B) Increased minimum allocation
 
-&emsp;&emsp;If no unit of general local government within a State receives an allocation underparagraph (3), the State's allocation shall be increased by $500,000. Priority for use of such increased allocation shall go to the provision of affordable housing within the boundaries of metropolitan cities, urban counties, and approved consortia within the State, based on the need for such funds. The increased allocation to a State under the preceding sentence shall be derived by a pro rata deduction from the allocations to units of general local government in all States, except that such pro rata deduction shall not reduce the allocation of any unit of general local government below $500,000.
+&emsp;&emsp;If no unit of general local government within a State receives an allocation under paragraph (3), the State's allocation shall be increased by $500,000. Priority for use of such increased allocation shall go to the provision of affordable housing within the boundaries of metropolitan cities, urban counties, and approved consortia within the State, based on the need for such funds. The increased allocation to a State under the preceding sentence shall be derived by a pro rata deduction from the allocations to units of general local government in all States, except that such pro rata deduction shall not reduce the allocation of any unit of general local government below $500,000.
 
 #### (3) Minimum local allocation
 
@@ -138,7 +138,7 @@ Pub. L. 102–550, §211(a)(2)(B), struck out par. (3), as added by Pub. L. 102�
 
 Subsec. (b)(1)(A). Pub. L. 102–550, §203(b)(1), (6), redesignated subpar. (B) as (A) and struck out former subpar. (A) which provided for a formula for allocation of funds for production of affordable rental housing through new construction or substantial rehabilitation.
 
-Pub. L. 102–273 added cl. (iii) reading as follows: “Notwithstanding clauses (i) and (ii), any jurisdiction receiving amounts made available under such clause may, at the discretion of the jurisdiction, use such amounts for other eligible uses in accordance with section 12742 of this title if the jurisdiction determines that such use will better meet the housing needs within the jurisdiction. This clause shall be effective only with respect to funds provided under the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1992 (Public Law 102–139; 105 Stat. 744), which suspends the requirement of contributions by participating jurisdictions, and shall become ineffective if such requirement is reimposed.”
+Pub. L. 102–273 added cl. (iii) reading as follows: “Notwithstanding clauses (i) and (ii), any jurisdiction receiving amounts made available under such clause may, at the discretion of the jurisdiction, use such amounts for other eligible uses in accordance with section 12742 of this title if the jurisdiction determines that such use will better meet the housing needs within the jurisdiction. This clause shall be effective only with respect to funds provided under the Departmentsof Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1992 (Public Law 102–139; 105 Stat. 744), which suspends the requirement of contributions by participating jurisdictions, and shall become ineffective if such requirement is reimposed.”
 
 Subsec. (b)(1)(B), (C). Pub. L. 102–550, §203(b)(6), redesignated subpars. (C) and (D) as (B) and (C), respectively. Former subpar. (B) redesignated (A).
 
@@ -152,7 +152,7 @@ Pub. L. 102–550, §203(b)(3), substituted “formula in subparagraph (A)” fo
 
 Subsec. (b)(1)(F). Pub. L. 102–550, §203(b)(6), redesignated subpar. (G) as (F). Former subpar. (F) redesignated (E).
 
-Pub. L. 102–550, §203(b)(4), substituted “basic formula in subparagraph (A)” for “basic formula in subparagraph (B)” and struck out at end “If a jurisdiction receives an allocation under subparagraph (A), the Secretary shall make such adjustments in the jurisdiction's allocation under the formula in subparagraph (B) as may be necessary to ensure that the combined effectof the formulas in subparagraphs (A) and (B) does not reduce the allocation of any jurisdiction below the allocation it would receive if allocations were made according to the formula under subparagraph (B) alone.”
+Pub. L. 102–550, §203(b)(4), substituted “basic formula in subparagraph (A)” for “basic formula in subparagraph (B)” and struck out at end “If a jurisdiction receives an allocation under subparagraph (A), the Secretary shall make such adjustments in the jurisdiction's allocation under the formula in subparagraph (B) as may be necessary to ensure that the combined effect of the formulas in subparagraphs (A) and (B) does not reduce the allocation of any jurisdiction below the allocation it would receive if allocations were made according to the formula under subparagraph (B) alone.”
 
 Subsec. (b)(1)(G). Pub. L. 102–550, §203(b)(6), redesignated subpar. (G) as (F).
 

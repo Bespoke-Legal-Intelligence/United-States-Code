@@ -2,7 +2,7 @@
 
 #### (a) Exemption by Director of Central Intelligence
 
-Operational files of the Central Intelligence Agency may be exempted by the Director of Central Intelligence from the provisions of section 552 of title 5 (Freedom of Information Act) which require publication or disclosure, or search or review in connection therewith.
+Operational files of the Central Intelligence Agency may be exempted by the Director ofCentral Intelligence from the provisions of section 552 of title 5 (Freedom of Information Act) which require publication or disclosure, or search or review in connection therewith.
 
 #### (b) “Operational files” defined
 
@@ -54,7 +54,7 @@ Whenever any person who has requested agency records under section 552 of title 
 
 &emsp;(5) in proceedings under paragraphs (3) and (4) of this subsection, the parties shall not obtain discovery pursuant to rules 26 through 36 of the Federal Rules of Civil Procedure, except that requests for admission may be made pursuant to rules 26 and 36;
 
-&emsp;(6) if the court finds under this subsection that the Central Intelligence Agency has improperly withheld requested records because of failure to comply with any provision of this section, the court shall order the Central Intelligence Agency to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5 (Freedom of Information Act), and such order shall be the exclusive remedy for failure to comply with this section; and
+&emsp;(6) if the court finds under this subsection that the Central Intelligence Agency has improperly withheld requested records because of failure to comply with any provision of this section, the court shall order the Central Intelligence Agency to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordancewith the provisions of section 552 of title 5 (Freedom of Information Act), and such order shall be the exclusive remedy for failure to comply with this section; and
 
 &emsp;(7) if at any time following the filing of a complaint pursuant to this subsection the Central Intelligence Agency agrees to search the appropriate exempted operational file or files for the requested records, the court shall dismiss the claim based upon such complaint.
 
@@ -74,5 +74,5 @@ Section 4 of Pub. L. 98–477 provided that: “The amendments made by subsectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 432 of this title.
+This section is referred to in section 432 of this title; title 10 section 457.
 

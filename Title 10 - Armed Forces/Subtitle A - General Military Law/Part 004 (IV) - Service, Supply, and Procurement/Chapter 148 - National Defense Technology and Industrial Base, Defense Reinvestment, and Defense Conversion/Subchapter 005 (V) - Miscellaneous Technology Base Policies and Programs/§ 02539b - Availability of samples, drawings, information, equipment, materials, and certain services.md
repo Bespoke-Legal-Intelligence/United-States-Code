@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of Defense and the secretaries of the military departments, under regulations prescribed by the Secretary of Defense and when determined by the Secretary of Defense or the Secretary concerned to be in the interest of national defense, may each—
+Authority.—The Secretary of Defense and the Secretaries of the military departments, under regulations prescribed by the Secretary of Defense and when determined by the Secretary of Defense or the Secretary concerned to be in the interest of national defense, may each—
 
 &emsp;(1) sell, rent, lend, or give samples, drawings, and manufacturing or other information (subject to the rights of third parties) to any person or entity;
 
@@ -26,13 +26,15 @@ Fees.—Fees for services made available under subsection (a)(3) shall be establ
 
 Use of Fees.—Fees received for services made available under subsection (a)(3) may be credited to the appropriations or other funds of the activity making such services available.
 
-(Added Pub. L. 103–160, div. A, title VIII, §822(b)(1), Nov. 30, 1993, 107 Stat. 1705, §2541; renumbered §2539b, Pub. L. 103–337, div. A, title X, §1070(a)(13)(A), Oct. 5, 1994, 108 Stat. 2856; amended Pub. L. 103–355, title III, §3022, Oct. 13, 1994,108 Stat. 3333; Pub. L. 104–106, div. A, title VIII, §804, div. D, title XLIII, §4321(a)(8), Feb. 10, 1996, 110 Stat. 390, 671.)
+(Added Pub. L. 103–160, div. A, title VIII, §822(b)(1), Nov. 30, 1993, 107 Stat. 1705, §2541; renumbered §2539b, Pub. L. 103–337, div. A, title X, §1070(a)(13)(A), Oct. 5, 1994, 108 Stat. 2856; amended Pub. L. 103–355, title III, §3022, Oct. 13, 1994, 108 Stat. 3333; Pub. L. 104–106, div. A, title VIII, §804, div. D, title XLIII, §4321(a)(8), Feb. 10, 1996, 110 Stat. 390, 671; Pub. L. 106–65, div. A, title X, §1066(a)(23), Oct. 5, 1999, 113 Stat. 771.)
 
 #### Prior Provisions
 
 Prior sections 2540 and 2541 were renumbered sections 2539a and 2539b of this title, respectively.
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–65 substituted “Secretaries of the military departments” for “secretaries of the military departments”.
 
 1996—Subsec. (a). Pub. L. 104–106, §4321(a)(8), made technical correction to Pub. L. 103–355, §3022. See 1994 Amendment note below.
 

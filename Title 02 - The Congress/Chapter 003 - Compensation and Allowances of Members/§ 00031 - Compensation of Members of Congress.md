@@ -96,9 +96,11 @@ Pub. L. 97–51, §130(c), Oct. 1, 1981, 95 Stat. 966, provided that: “Effecti
 
 #### Salary Increases
 
-1999—Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for the adjustment of pay rates effective Jan. 1, 1999.
+2000—Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for the adjustment of pay rates effective Jan. 1, 2000.
 
-1998—Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, which provided for the adjustment of pay rates effective Jan. 1, 1998, was superseded by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of Title 5.
+1999—Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, which provided for the adjustment of pay rates effective Jan. 1, 1999, was substantially superseded by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, set out as a note under section 5332 of Title 5.
+
+1998—Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, which provided for the adjustment of pay rates effective Jan. 1, 1998, was superseded by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, formerly set out as a note under section 5332 of Title 5.
 
 1997—Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, which provided for the adjustment of pay rates effective Jan. 1, 1997, was superseded by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, formerly set out as a note under section 5332 of Title 5.
 
@@ -132,7 +134,7 @@ Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791, which provided for the adjustment
 
 1987—Salary of Speaker of House of Representatives increased to $115,000 per annum; salaries of President pro tempore of Senate, majority leader and minority leader of Senate, and majority leader and minority leader of House of Representatives increased to $99,500 per annum; and salaries of Senators, Members of House of Representatives, Delegates to House of Representatives, and Resident Commissioner from Puerto Rico increased to $89,500 per annum, on recommendation of the President of the United States, effective Mar. 1, 1987, set out as a note under section 358 of this title.
 
-Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, which provided for the adjustment of pay rates effective Jan. 1, 1987, was superseded by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222, formerly set out as a note under section 5332 of Title 5, Government Organization and Employees.
+Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, which provided for the adjustment of pay rates effective Jan. 1,1987, was superseded by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222, formerly set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
 1985—Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577, which provided for the adjustment of pay rates effective Jan. 1, 1985, was superseded by Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, formerly set out as a note under section 5332 of Title 5.
 

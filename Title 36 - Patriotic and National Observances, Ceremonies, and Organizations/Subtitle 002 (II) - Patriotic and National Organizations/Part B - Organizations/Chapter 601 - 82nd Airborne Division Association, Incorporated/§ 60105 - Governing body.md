@@ -34,9 +34,13 @@ Nov. 5, 1990, Pub. L. 101–510, title XVI, §§1605(b) (related to discriminati
 
 36:4807.
 
+&nbsp;
+
 60105(c)
 
 36:4805(b) (related to discrimination in holding office).
+
+&nbsp;
 
 In subsections (a) and (b), the words “and shall be in conformity with the laws of the State or States in which it is incorporated” are omitted as unnecessary.
 

@@ -20,7 +20,7 @@
 
 (2) In designating an officer to conduct inspections and make findings for purposes of paragraph (1), the Secretary concerned shall designate—
 
-&emsp;(A) in the case of the Army National Guard, a commissioned officer of the Regular Army ora commissioned officer of the Army National Guard who is also a commissioned officer of the Army National Guard of the United States; and
+&emsp;(A) in the case of the Army National Guard, a commissioned officer of the Regular Army or a commissioned officer of the Army National Guard who is also a commissioned officer of the Army National Guard of the United States; and
 
 &emsp;(B) in the case of the Air National Guard, a commissioned officer of the Regular Air Force or a commissioned officer of the Air National Guard who is also a commissioned officer of the Air National Guard of the United States.
 

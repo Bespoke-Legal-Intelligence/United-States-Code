@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §534; added Sept. 2, 1957, Pub. L. 85–272, §4, 71 Stat. 597.
 
-In subsection (a), the words “within the Department of Defense” are omitted as surplusage. The words“members of the armed forces” are substituted for the words “military personnel”.
+In subsection (a), the words “within the Department of Defense” are omitted as surplusage. The words “members of the armed forces” are substituted for the words “military personnel”.
 
 In subsection (b), the words “conform to” are substituted for the words “agree with”.
 

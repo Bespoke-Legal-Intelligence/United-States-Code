@@ -70,7 +70,7 @@
 
 #### (4) Considerations
 
-&emsp;In developing such procedure, the Governor shall ensure that the procedure requires the local boards to take into consideration, in making the determinations of subsequent eligibility—
+&emsp;In developing such procedure, the Governor shall ensure that the procedure requires the local boards to take into consideration, inmaking the determinations of subsequent eligibility—
 
 &emsp;&emsp;(A) the specific economic, geographic, and demographic factors in the local areas in which providers seeking eligibility are located; and
 
@@ -80,7 +80,7 @@
 
 &emsp;In establishing the procedure, the Governor shall require that, to be eligible to continue to receive funds as described in subsection (a) of this section for a program after the initial period of eligibility, a provider described in subsection (a)(2) of this section shall—
 
-&emsp;&emsp;(A) submit the performance information and program cost information described insubsection (d)(1) of this section for the program and any additional information required to be submitted in accordance with subsection (d)(2) of this section for the program annually to the appropriate local board at such time and in such manner as may be required; and
+&emsp;&emsp;(A) submit the performance information and program cost information described in subsection (d)(1) of this section for the program and any additional information required to be submitted in accordance with subsection (d)(2) of this section for the program annually to the appropriate local board at such time and in such manner as may be required; and
 
 &emsp;&emsp;(B) annually meet the performance levels described in paragraph (6) for the program, as demonstrated utilizing quarterly records described in section 2871 of this title, in a manner consistent with section 2871 of this title.
 
@@ -140,7 +140,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the Governor or a local board requests additional information under paragraph (2) that imposes extraordinary costs on providers, or if providers experience extraordinary costs in the collection of information required under paragraph (1)(A)(ii), the Governor or the local board shall provide access to cost-effective methods for the collection of the information involved, or the Governor shall provide additional resources to assist providers in the collection of such information from funds made available as described in sections 2853(a) and 2863(a)(1) of this title, as appropriate.
+&emsp;&emsp;If the Governor or a local board requests additional information under paragraph (2) that imposes extraordinary costs on providers, or if providers experience extraordinary costs in the collection of information required under paragraph (1)(A)(ii), the Governor or the local board shall provide access to cost-effective methods for the collection of the information involved, or the Governorshall provide additional resources to assist providers in the collection of such information from funds made available as described in sections 2853(a) and 2863(a)(1) of this title, as appropriate.
 
 #### (B) Higher education eligibility requirements
 
@@ -194,7 +194,7 @@
 
 #### (g) Appeal
 
-The Governor shall establish procedures for providers of training services to appeal a denial of eligibility by the local board or the designated State agency under subsection (b), (c), or (e) of this section, a termination of eligibility or other action by the board or agency under subsection (f) of this section, or a denial of eligibility by a one-stop operator under subsection (h) of this section. Such procedures shall provide an opportunity for a hearing and prescribe appropriate time limits to ensure prompt resolution of the appeal.
+The Governor shall establish procedures for providers of training services to appeal a denial of eligibility by the local board or the designated State agency under subsection (b), (c), or (e) of this section, a termination of eligibility or other action by the board or agency undersubsection (f) of this section, or a denial of eligibility by a one-stop operator under subsection (h) of this section. Such procedures shall provide an opportunity for a hearing and prescribe appropriate time limits to ensure prompt resolution of the appeal.
 
 #### (h) On-the-job training or customized training exception
 
@@ -204,7 +204,7 @@ The Governor shall establish procedures for providers of training services to ap
 
 #### (2) Collection and dissemination of information
 
-&emsp;A one-stop operator in a local area shall collect such performance information from on-the-job training and customized training providers as the Governor may require, determinewhether the providers meet such performance criteria as the Governor may require, and disseminate information identifying providers that meet the criteria as eligible providers, and the performance information, through the one-stop delivery system. Providers determined to meet the criteria shall be considered to be identified as eligible providers of training services.
+&emsp;A one-stop operator in a local area shall collect such performance information from on-the-job training and customized training providers as the Governor may require, determine whether the providers meet such performance criteria as the Governor may require, and disseminate information identifying providers that meet the criteria as eligible providers, and the performance information, through the one-stop delivery system. Providers determined to meet the criteria shall be considered to be identified as eligible providers of training services.
 
 #### (i) Administration
 

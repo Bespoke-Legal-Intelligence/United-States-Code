@@ -24,7 +24,7 @@ Section 2(a)(4) of Pub. L. 99–619 provided that: “Any reference to the Under
 
 #### Present Incumbent
 
-Section 2(f)(1) of Pub. L. 99–619 provided that: “The incumbent in the position of Under Secretary of Labor on the date of enactment of this Act \[Nov. 6, 1986\] may serve as Deputy Secretary of Labor at the pleasure of the President after such date and the amendments made by subsection (a)(2) \[amending section 5313 ofTitle 5, Government Organization and Employees\] shall apply to such incumbent.”
+Section 2(f)(1) of Pub. L. 99–619 provided that: “The incumbent in the position of Under Secretary of Labor on the date of enactment of this Act \[Nov. 6, 1986\] may serve as Deputy Secretary of Labor at the pleasure of the President after such date and the amendments made by subsection (a)(2) \[amending section 5313 of Title 5, Government Organization and Employees\] shall apply to such incumbent.”
 
 #### Order of Succession
 

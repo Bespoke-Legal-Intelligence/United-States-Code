@@ -70,7 +70,7 @@ Each member of the Council, while serving on business of the Council away from t
 
 #### (i) Chairperson
 
-The President shall designate the Secretary of Health and Human Services to serve as the Chairperson of the Council. In the event that the Secretary chooses to designate the functions of Chairperson under this subsection, such designation may only be made to the Commissioner.
+The President shall designate the Secretary of Health and Human Services to serve as the Chairperson of the Council. In the event that the Secretary chooses to designate the functions ofChairperson under this subsection, such designation may only be made to the Commissioner.
 
 #### (j) Meetings
 

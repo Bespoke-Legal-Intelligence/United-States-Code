@@ -4,5 +4,5 @@ Section, act Jan. 27, 1948, ch. 36, title VII, §704, as added Pub. L. 96–60, 
 
 #### Effective Date of Repeal
 
-Repeal effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+Repeal effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 

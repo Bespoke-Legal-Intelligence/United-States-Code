@@ -42,9 +42,7 @@ For purposes of this subtitle, the term “adjusted gross income” means, in th
 
 &emsp;The deduction allowed by section 219 (relating to deduction of certain retirement savings).
 
-#### (8) Certain portion of lump-sum distributions from pension plans taxed under section 402(d)
-
-&emsp;The deduction allowed by section 402(d)(3).
+#### \[(8) Repealed. Pub. L. 104–188, title I, §1401(b)(4), Aug. 20, 1996, 110 Stat. 1788\]
 
 #### (9) Penalties forfeited because of premature withdrawal of funds from time savings accounts or deposits
 
@@ -134,17 +132,17 @@ For purposes of subsection (a)(2)(A), an arrangement shall in no event be treate
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 87–792, §7(b), Oct. 10, 1962, 76 Stat. 828; Pub. L. 88–272, title II, §213(b), Feb. 26, 1964, 78 Stat. 52; Pub. L. 91–172, title V, §531(b), Dec. 30, 1969, 83 Stat. 655; Pub. L. 93–406, title II, §§2002(a)(2), 2005(c)(9), Sept. 2, 1974, 88 Stat. 959, 992; Pub. L. 93–483, §6(a), Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title V, §502(a), title XV, §1501(b)(1), title XIX, §1901(a)(8), (9), Oct. 4, 1976, 90 Stat. 1559, 1735, 1765; Pub. L. 95–615, §203(b), Nov. 8, 1978, 92 Stat. 3106; Pub. L. 96–451, title III, §301(b), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 96–608, §3(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title I, §§103(b), 112(b)(2), title III, §311(h)(1), Aug. 13, 1981, 95 Stat. 187, 195, 282; Pub. L. 97–354, §5(a)(17), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §491(d)(2), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title I, §§131(b)(1), 132(b), (c), title III, §301(b)(1), title XVIII, §1875(c)(3), Oct. 22, 1986, 100 Stat. 2113, 2115, 2116, 2217, 2894; Pub. L. 100–485, title VII, §702(a), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title I, §1001(b)(3)(A), title VI, §6007(b), Nov. 10, 1988, 102 Stat. 3349, 3687; Pub. L. 101–508, title XI, §11802(e)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 102–318, title V, §521(b)(2), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(a)(2), Oct. 24, 1992, 106 Stat. 3019; Pub. L. 103–66, title XIII, §13213(c)(1), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1401(b)(4), Aug. 20, 1996, 110 Stat. 1788; Pub. L. 104–191, title III, §301(b), Aug. 21, 1996, 110 Stat. 2048; Pub. L. 105–34, title II, §202(b), title IX, §975(a), Aug. 5, 1997, 111 Stat. 808, 898.)
 
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 104–188, title I, §1401(b)(4), (c), Aug. 20, 1996, 110 Stat. 1788, 1789, provided that, applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, subsection (a) of this section is amended by striking par. (8).</i>
-
 #### Amendments
 
 1997—Subsec. (a)(2)(C). Pub. L. 105–34, §975(a), added subpar. (C).
 
 Subsec. (a)(17). Pub. L. 105–34, §202(b), added par. (17).
 
-1996—Subsec. (a)(16). Pub. L. 104–191 added par. (16).
+1996—Subsec. (a)(8). Pub. L. 104–188 struck out par. (8) which read as follows: “
+
+Certain portion of lump-sum distributions from pension plans taxed under section 402(d).—The deduction allowed by section 402(d)(3).”
+
+Subsec. (a)(16). Pub. L. 104–191 added par. (16).
 
 1993—Subsec. (a)(15). Pub. L. 103–66 added par. (15).
 
@@ -182,7 +180,7 @@ Subsec. (a)(16). Pub. L. 99–514, §131(b)(1), struck out par. (16) which relat
 
 Subsec. (b). Pub. L. 99–514, §132(b)(2)(B), added subsec. (b).
 
-1984—Par. (7). Pub. L. 98–369, §491(d)(2), substituted “and annuity” for “annuity, and bond purchase” in heading, and substituted “the deduction allowed by section 404” for “the deductions allowed by section 404 and section 405(c)” in text.
+1984—Par. (7). Pub. L. 98–369, §491(d)(2), substituted “and annuity” for “annuity, and bond purchase” inheading, and substituted “the deduction allowed by section 404” for “the deductions allowed by section 404 and section 405(c)” in text.
 
 1983—Par. (9). Pub. L. 97–354 repealed par. (9) relating to the deduction allowed by section 1379(b)(3).
 
@@ -268,7 +266,7 @@ Par. (9) as in effect before date of repeal by Pub. L. 97–354 to remain in eff
 
 #### Effective Date of 1981 Amendment
 
-Section 103(d) of Pub. L. 97–34 provided that: “The amendments made by this section \[enacting section 219 of this title and amending this section and sections 85and 105 of this title\] shall apply to taxable years beginning after December 31, 1981.”
+Section 103(d) of Pub. L. 97–34 provided that: “The amendments made by this section \[enacting section 219 of this title and amending this section and sections 85 and 105 of this title\] shall apply to taxable years beginning after December 31, 1981.”
 
 Amendment by sections 112(b)(2) and 311(h)(1) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see sections 115 and 311(i)(1) of Pub. L. 97–34, set out as notes under sections 911 and 219, respectively, of this title.
 
@@ -340,5 +338,5 @@ Percentage allowed for charitable, etc., contributions, see section 170 of this 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 162, 3402 of this title; title 20 section 1087e; title 21 section 849.
+This section is referred to in sections 162, 3402 of this title; title 20 section 1087e; title 21 section 849; title 42 section 1396<i>o</i>.
 

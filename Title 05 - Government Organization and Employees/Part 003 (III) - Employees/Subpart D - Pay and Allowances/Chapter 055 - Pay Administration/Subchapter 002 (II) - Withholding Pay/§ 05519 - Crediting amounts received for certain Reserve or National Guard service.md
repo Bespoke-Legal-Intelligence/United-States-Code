@@ -1,6 +1,6 @@
 ### §5519. Crediting amounts received for certain Reserve or National Guard service
 
-An amount (other than a travel, transportation, or per diem allowance) received by anemployee or individual for military service as a member of the Reserve or National Guard for a period for which he is granted military leave under section 6323(b) or (c) shall be credited against the pay payable to the employee or individual with respect to his civilian position for that period.
+An amount (other than a travel, transportation, or per diem allowance) received by an employee or individual for military service as a member of the Reserve or National Guard for a period for which he is granted military leave under section 6323(b) or (c) shall be credited against the pay payable to the employee or individual with respect to his civilian position for that period.
 
 (Added Pub. L. 90–588, §2(b), Oct. 17, 1968, 82 Stat. 1152; amended Pub. L. 102–378, §2(39), Oct. 2, 1992, 106 Stat. 1351; Pub. L. 104–106, div. A, title V, §516(b), Feb. 10, 1996, 110 Stat. 309.)
 

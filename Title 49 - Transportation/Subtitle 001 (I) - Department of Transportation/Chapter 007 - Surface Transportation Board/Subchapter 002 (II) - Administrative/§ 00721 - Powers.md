@@ -24,7 +24,7 @@ Subpoena Witnesses.—(1) The Board may subpoena witnesses and records related t
 
 (d)
 
-Depositions.—(1) In a proceeding, the Board may take the testimony of a witness bydeposition and may order the witness to produce records. A party to a proceeding pending before the Board may take the testimony of a witness by deposition and may require the witness to produce records at any time after a proceeding is at issue on petition and answer.
+Depositions.—(1) In a proceeding, the Board may take the testimony of a witness by deposition and may order the witness to produce records. A party to a proceeding pending before the Board may take the testimony of a witness by deposition and may require the witness to produce records at any time after a proceeding is at issue on petition and answer.
 
 (2) If a witness fails to be deposed or to produce records under paragraph (1), the Board may subpoena the witness to take a deposition, produce the records, or both.
 

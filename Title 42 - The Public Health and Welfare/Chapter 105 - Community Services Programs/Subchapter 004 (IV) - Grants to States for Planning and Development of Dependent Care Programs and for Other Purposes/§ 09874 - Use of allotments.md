@@ -16,7 +16,7 @@
 
 &emsp;(F) the dependents eligible to enroll for such dependent care services; and
 
-&emsp;(G) any resource and referral system planned, developed, established, expanded, or improved with amounts paid to a State under this subchapter.
+&emsp;(G) any resource and referral system planned, developed, established, expanded, orimproved with amounts paid to a State under this subchapter.
 
 (2) The State, with respect to the uses of funds described in paragraph (1) of this subsection shall—
 
@@ -90,7 +90,7 @@ The Secretary may provide technical assistance to States in planning and carryin
 
 #### References in Text
 
-This Act, referred to in subsec. (b)(2)(C), (D), (F), is Pub. L. 97–35, known as the Omnibus Budget Reconciliation Act of 1981, but probably should have been “this subchapter”, meaning subchapter E of chapter 8 of subtitle A of title VI of Pub. L. 97–35, known as the State Dependent Care Development Grants Act, which is classified to this subchapter.
+This Act, referred to in subsec. (b)(2)(C), (D), (F), is Pub. L. 97–35, known as the Omnibus Budget Reconciliation Act of 1981, but probably should have been “thissubchapter”, meaning subchapter E of chapter 8 of subtitle A of title VI of Pub. L. 97–35, known as the State Dependent Care Development Grants Act, which is classified to this subchapter.
 
 #### Amendments
 

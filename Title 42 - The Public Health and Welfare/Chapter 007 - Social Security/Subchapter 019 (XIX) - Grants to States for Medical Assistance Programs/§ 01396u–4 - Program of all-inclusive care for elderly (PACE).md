@@ -26,7 +26,7 @@
 
 #### (C) Transition
 
-&emsp;&emsp;In the case of an individual who is enrolled under the program under this section and whose enrollment ceases for any reason (including that the individual no longer qualifies as a PACE program eligible individual,the termination of a PACE program agreement, or otherwise), the program provides assistance to the individual in obtaining necessary transitional care through appropriate referrals and making the individual's medical records available to new providers.
+&emsp;&emsp;In the case of an individual who is enrolled under the program under this section and whose enrollment ceases for any reason (including that the individual no longer qualifies as a PACE program eligible individual, the termination of a PACE program agreement, or otherwise), the program provides assistance to the individual in obtaining necessary transitional care through appropriate referrals and making the individual's medical records available to new providers.
 
 #### (3) “PACE provider” defined
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(A) is 55 years of age or older;
 
-&emsp;&emsp;(B) subject to subsection (c)(4) of this section, is determined under subsection (c) of this section to require the level of care required under the State medicaid plan for coverage of nursing facility services;
+&emsp;&emsp;(B) subject to subsection (c)(4) of this section, is determined under subsection (c) ofthis section to require the level of care required under the State medicaid plan for coverage of nursing facility services;
 
 &emsp;&emsp;(C) resides in the service area of the PACE program; and
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(A) provide to PACE program eligible individuals, regardless of source of payment and directly or under contracts with other entities, at a minimum—
 
-&emsp;&emsp;&emsp;(i) all items and services covered under subchapter XVIII of this chapter (for individuals enrolled under section 1395eee of this title) and all items and services covered under this subchapter, but without any limitation or condition as to amount, duration, or scope and without application of deductibles, copayments, coinsurance, or other cost-sharing that would otherwiseapply under such subchapter or this subchapter, respectively; and
+&emsp;&emsp;&emsp;(i) all items and services covered under subchapter XVIII of this chapter (for individuals enrolled under section 1395eee of this title) and all items and services covered under this subchapter, but without any limitation or condition as to amount, duration, or scope and without application of deductibles, copayments, coinsurance, or other cost-sharing that would otherwise apply under such subchapter or this subchapter, respectively; and
 
 &emsp;&emsp;&emsp;(ii) all additional items and services specified in regulations, based upon those required under the PACE protocol;
 
@@ -130,7 +130,7 @@
 
 #### (2) Condition
 
-&emsp;An individual is not a PACE program eligible individual (with respect to payment under this section) unless the individual's health status has been determined by the Secretary or the State administering agency, in accordance with regulations, to be comparable to the health status of individuals who have participated in the PACE demonstration waiver programs. Such determination shall be based upon information on health status and related indicators (such as medical diagnoses and measures of activities of daily living, instrumental activities of daily living, and cognitive impairment) that are part of a uniform minimum data set collected by PACE providers on potential eligible individuals.
+&emsp;An individual is not a PACE program eligible individual (with respect to payment under this section) unless the individual's health status has been determined by the Secretary or the State administering agency, in accordance with regulations, to be comparable to thehealth status of individuals who have participated in the PACE demonstration waiver programs. Such determination shall be based upon information on health status and related indicators (such as medical diagnoses and measures of activities of daily living, instrumental activities of daily living, and cognitive impairment) that are part of a uniform minimum data set collected by PACE providers on potential eligible individuals.
 
 #### (3) Annual eligibility recertifications
 
@@ -322,7 +322,7 @@
 
 #### (8) Timely consideration of applications for PACE program provider status
 
-&emsp;In considering an application for PACE provider program status, the application shall be deemed approved unless the Secretary, within90 days after the date of the submission of the application to the Secretary, either denies such request in writing or informs the applicant in writing with respect to any additional information that is needed in order to make a final determination with respect to the application. After the date the Secretary receives such additional information, the application shall be deemed approved unless the Secretary, within 90 days of such date, denies such request.
+&emsp;In considering an application for PACE provider program status, the application shall be deemed approved unless the Secretary, within 90 days after the date of the submission of the application to the Secretary, either denies such request in writing or informs the applicant in writing with respect to any additional information that is needed in order to make a final determination with respect to the application. After the date the Secretary receives such additional information, the application shall be deemed approved unless the Secretary, within 90 days of such date, denies such request.
 
 #### (f) Regulations
 

@@ -6,7 +6,7 @@ Whoever shall deprive or attempt to deprive any person of any right secured by s
 
 #### (b) Destroying, defacing, mutilating, or altering ballots or official voting records
 
-Whoever, within a year following an election in a political subdivision in which an examiner has been appointed (1) destroys, defaces, mutilates, or otherwise alters the marking of a paper ballot which has been cast in such election, or (2) alters any official record of voting in such election tabulated from a voting machine or otherwise, shall be fined not more than $5,000, or imprisoned not more than five years, or both.
+Whoever, within a year following an election in a political subdivision in which an examiner has been appointed (1) destroys, defaces, mutilates, or otherwise alters the marking of a paper ballot which has been cast in such election, or (2) alters any official record of voting in suchelection tabulated from a voting machine or otherwise, shall be fined not more than $5,000, or imprisoned not more than five years, or both.
 
 #### (c) Conspiring to violate or interfere with secured rights
 

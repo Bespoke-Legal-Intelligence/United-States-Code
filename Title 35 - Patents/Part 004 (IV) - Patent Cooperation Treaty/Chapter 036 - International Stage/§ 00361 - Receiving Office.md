@@ -6,17 +6,23 @@
 
 (c) International applications filed in the Patent and Trademark Office shall be in the English language.
 
-(d) The international fee, and the transmittal and search fees prescribed under section 376(a) of this part, shall either be paid on filing of an international application or within such later time as may be fixed by the Commissioner.
+(d) The international fee, and the transmittal and search fees prescribed under section 376(a) of this part, shall either be paid on filing of an international application or within such later time as may be fixed by the Director.
 
-(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 686; amended Pub. L. 98–622, title IV, §§401(a), 403(a), Nov. 8, 1984, 98 Stat. 3391, 3392; Pub. L. 99–616, §2(d), Nov. 6, 1986, 100 Stat. 3485.)
+(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 686; amended Pub. L. 98–622, title IV, §§401(a), 403(a), Nov. 8, 1984, 98 Stat. 3391, 3392; Pub. L. 99–616, §2(d), Nov. 6, 1986, 100 Stat. 3485; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
 
 #### Amendments
+
+1999—Subsec. (d). Pub. L. 106–113 substituted “Director” for “Commissioner”.
 
 1986—Subsec. (d). Pub. L. 99–616 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The basic fee portion of the international fee, and the transmittal and search fees prescribed under section 376(a) of this part, shall be paid on filing of an international application or within one month after the date of such filing. Payment of designation fees may be made on filing and shall be made not later than one year from the priority date of the international application.”
 
 1984—Subsecs. (a) to (c). Pub. L. 98–622, §403(a), substituted “Patent and Trademark Office” for “Patent Office”.
 
 Subsec. (d). Pub. L. 98–622, §401(a), inserted “or within one month after the date of such filing” after “application”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

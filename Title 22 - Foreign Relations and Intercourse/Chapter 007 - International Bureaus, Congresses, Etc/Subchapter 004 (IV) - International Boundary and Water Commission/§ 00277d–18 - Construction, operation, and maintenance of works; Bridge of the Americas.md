@@ -6,15 +6,17 @@ The United States Commissioner is authorized to construct, operate, and maintain
 
 #### (b) Bridge of the Americas
 
-The United States Commissioner is authorized to receive payments of money from public or private sources in the United States or Mexico made for the purpose of sharing in the cost of replacement of the Bridge of the Americas which crosses the Rio Grande between El Paso, Texas, and Cd. Juarez, Chihuahua. Notwithstanding any other provision of law, such payments of money shall be credited to any appropriation to the Commission which is currently available. Funds received under this subsection shall be available only for the replacement of such bridge.
+The United States Commissioner is authorized to receive payments of money from public or private sources in the United States or Mexico made for the purpose of sharing in the cost of operations, maintenance, and replacement of the Bridge of the Americas which crosses the Rio Grande between El Paso, Texas, and Cd. Juarez, Chihuahua. Notwithstanding any other provision of law, such payments of money shall be credited to any appropriation to the Commission which is currently available. Funds received under this subsection shall be available only for the replacement of such bridge.
 
 #### (c) Advance appropriations
 
-The authority of subsection (b) of this section may be exercised only to the extent or in such amounts as are provided in advance in appropriation Acts.
+The authority of subsection (b) of this section may be exercised only to the extent or in suchamounts as are provided in advance in appropriation Acts.
 
-(Pub. L. 88–300, §2, Apr. 29, 1964, 78 Stat. 184; Pub. L. 103–236, title IV, §423(a), Apr. 30, 1994, 108 Stat. 457.)
+(Pub. L. 88–300, §2, Apr. 29, 1964, 78 Stat. 184; Pub. L. 103–236, title IV, §423(a), Apr. 30, 1994, 108 Stat. 457; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §703\], Nov. 29, 1999, 113 Stat. 1536, 1501A–460.)
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–113 inserted “operations, maintenance, and” after “cost of”.
 
 1994—Pub. L. 103–236 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 

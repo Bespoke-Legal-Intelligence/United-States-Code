@@ -4,6 +4,10 @@ This chapter may be cited as the “Federal Home Loan Bank Act.”
 
 (July 22, 1932, ch. 522, §1, 47 Stat. 725.)
 
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–102, title VI, §601, Nov. 12, 1999, 113 Stat. 1450, provided that: “This title \[amending sections 250, 1422, 1422b, 1424, 1426, 1427, 1429, 1430, 1432, 1436, 1438, 1441b, 1464, and 1467a of this title, repealing sections 1442a and 1447 of this title, and enacting provisions set out as a note under section 1441b of this title\] may be cited as the ‘Federal Home Loan Bank System Modernization Act of 1999’.”
+
 #### Short Title of 1993 Amendment
 
 Pub. L. 103–204, §1(a), Dec. 17, 1993, 107 Stat. 2369, provided that: “This Act \[enacting section 1447 of this title and section 8C of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, amending sections 1441a, 1811, 1813, 1815, 1817, 1818, 1821, 1822, 1824, 1831j, and 1831q of this title, sections 5314 and 5315 of Title 5, and sections 8D to 8G and 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, enacting provisions set out as notes under sections 1441a, 1811, 1817, 1821, 1822, 1827, and 1831q of this title and section 3 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, and amending provisions set out as notes under section 396f of Title 16, Conservation, and section 1611 of Title 43, Public Lands\] may be cited as the ‘Resolution Trust Corporation Completion Act’.”

@@ -20,7 +20,7 @@ The Foundation shall have an official seal selected by the Board which shall be 
 
 #### (c) Powers
 
-To carry out its purposes under section 3701 of this title, the Foundation shall have, in additionto the powers otherwise given it under this chapter, the usual powers of a corporation acting as a trustee in the District of Columbia, including the power—
+To carry out its purposes under section 3701 of this title, the Foundation shall have, in addition to the powers otherwise given it under this chapter, the usual powers of a corporation acting as a trustee in the District of Columbia, including the power—
 
 &emsp;(1) to accept, receive, solicit, hold, administer and use any gift, devise, or bequest, either absolutely or in trust, of real or personal property or any income therefrom or other interest therein;
 
@@ -142,7 +142,7 @@ Pub. L. 105–277, div. A, §101(b) \[title IX, §902\], Oct. 21, 1998, 112 Stat
 
 &emsp;&emsp;“(D) the occurrence of whale populations in offshore waters where undertaking research, monitoring, and conservation measures is difficult and costly;
 
-&emsp;“(7)(A) the Secretary of Commerce, through the Administrator of the National Oceanic and Atmospheric Administration, has research and regulatory responsibility for the conservation of whales under the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.); and
+&emsp;“(7)(A) the Secretary of Commerce, through the Administrator of the National Oceanic and AtmosphericAdministration, has research and regulatory responsibility for the conservation of whales under the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.); and
 
 &emsp;“(B) the heads of other Federal agencies and the Marine Mammal Commission established under section 201 of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1401) have related research and management activities under the Marine Mammal Protection Act of 1972 or the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.);
 

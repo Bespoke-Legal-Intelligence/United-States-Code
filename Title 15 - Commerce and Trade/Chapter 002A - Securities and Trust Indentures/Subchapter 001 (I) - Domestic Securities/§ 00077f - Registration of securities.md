@@ -48,7 +48,7 @@ Any security may be registered with the Commission under the terms and condition
 
 #### (C) Lapse of appropriations
 
-&emsp;&emsp;If on the first day of a fiscal year a regular appropriation to the Commission has not been enacted, the Commission shall continue to collect fees (as offsetting collections) under this paragraph at the rate in effect during the preceding fiscal year, until such a regular appropriation is enacted.
+&emsp;&emsp;If on the first day of a fiscal year a regular appropriation to the Commission has notbeen enacted, the Commission shall continue to collect fees (as offsetting collections) under this paragraph at the rate in effect during the preceding fiscal year, until such a regular appropriation is enacted.
 
 #### (5) Pro rata application of rates
 

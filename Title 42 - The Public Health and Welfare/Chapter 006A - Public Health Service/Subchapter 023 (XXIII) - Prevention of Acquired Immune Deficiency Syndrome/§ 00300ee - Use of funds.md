@@ -6,7 +6,7 @@ The purpose of this subchapter is to provide for the establishment of education 
 
 #### (b) Contents of programs
 
-All programs of education and information receiving funds under this subchapter shall include information about the harmful effects of promiscuous sexual activity and intravenoussubstance abuse, and the benefits of abstaining from such activities.
+All programs of education and information receiving funds under this subchapter shall include information about the harmful effects of promiscuous sexual activity and intravenous substance abuse, and the benefits of abstaining from such activities.
 
 #### (c) Limitation
 

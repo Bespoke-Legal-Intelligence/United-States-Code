@@ -32,7 +32,7 @@
 
 (e) This section applies to the Secretary of Transportation in the same manner and to the same extent as it applies to the Secretary of Defense. The Commandant of the Coast Guard shall take the action set forth in subsection (b) with respect to regular warrant officers of the Coast Guard.
 
-(Added Pub. L. 103–160, div. A, title V, §504(a), Nov. 30, 1993, 107 Stat. 1644; amended Pub. L.103–337, div. A, title V, §541(g), title X, §1070(a)(3), Oct. 5, 1994, 108 Stat. 2767, 2855.)
+(Added Pub. L. 103–160, div. A, title V, §504(a), Nov. 30, 1993, 107 Stat. 1644; amended Pub. L. 103–337, div. A, title V, §541(g), title X, §1070(a)(3), Oct. 5, 1994, 108 Stat. 2767, 2855.)
 
 #### Amendments
 

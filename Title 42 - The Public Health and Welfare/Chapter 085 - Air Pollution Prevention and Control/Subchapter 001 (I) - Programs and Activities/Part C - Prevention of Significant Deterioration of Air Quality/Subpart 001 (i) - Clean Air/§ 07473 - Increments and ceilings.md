@@ -126,7 +126,7 @@ micrograms per cubic meter)
 
 (3) No action under this subsection shall take effect unless the Governor submits the order or rule providing for such exclusion to the Administrator and the Administrator determines that such order or rule is in compliance with the provisions of this subsection.
 
-(July 14, 1955, ch. 360, title I, §163, as added Pub. L. 95–95, title I, §127(a), Aug. 7, 1977, 91 Stat. 732; amended Pub. L. 95–190, §14(a)(41), Nov. 16, 1977, 91 Stat. 1401.)
+(July 14, 1955, ch. 360, title I, §163, as added Pub. L. 95–95, title I, §127(a), Aug. 7, 1977, 91 Stat. 732;amended Pub. L. 95–190, §14(a)(41), Nov. 16, 1977, 91 Stat. 1401.)
 
 #### References In Text
 

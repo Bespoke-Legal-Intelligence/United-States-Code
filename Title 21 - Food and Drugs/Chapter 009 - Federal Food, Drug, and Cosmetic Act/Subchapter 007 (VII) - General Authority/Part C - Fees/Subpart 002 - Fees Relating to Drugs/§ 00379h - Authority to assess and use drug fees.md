@@ -56,7 +56,7 @@ Beginning in fiscal year 1998, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;(i) that did not manufacture the product in the previous fiscal year; and
 
-&emsp;&emsp;&emsp;(ii) for which the full establishment fee has been assessed in the fiscal year at a time before manufacture of the prescription drug product was begun;
+&emsp;&emsp;&emsp;(ii) for which the full establishment fee has been assessed in the fiscal year at atime before manufacture of the prescription drug product was begun;
 
 > &emsp;&emsp;the applicant will not be assessed a share of the establishment fee for the fiscal year in which the manufacture of the product began.
 
@@ -146,7 +146,7 @@ Except as provided in subsections (c), (d), (f), and (g) of this section, the fe
 
 #### (B) Waiver of application fee
 
-&emsp;&emsp;The Secretary shall waive under paragraph (1)(E) the application fee for the first humandrug application that a small business or its affiliate submits to the Secretary for review. After a small business or its affiliate is granted such a waiver, the small business or its affiliate shall pay—
+&emsp;&emsp;The Secretary shall waive under paragraph (1)(E) the application fee for the first human drug application that a small business or its affiliate submits to the Secretary for review. After a small business or its affiliate is granted such a waiver, the small business or its affiliate shall pay—
 
 &emsp;&emsp;&emsp;(i) application fees for all subsequent human drug applications submitted to the Secretary for review in the same manner as an entity that does not qualify as a small business; and
 
@@ -212,7 +212,7 @@ To qualify for consideration for a waiver or reduction under subsection (d) of t
 
 This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employers, and advisory committees not engaged in the process of the review of human drug applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.
 
-(June 25, 1938, ch. 675, §736, as added Pub. L. 102–571, title I, §103, Oct. 29, 1992, 106 Stat. 4494;amended Pub. L. 105–115, title I, §103(a)–(g), Nov. 21, 1997, 111 Stat. 2299–2304.)
+(June 25, 1938, ch. 675, §736, as added Pub. L. 102–571, title I, §103, Oct. 29, 1992, 106 Stat. 4494; amended Pub. L. 105–115, title I, §103(a)–(g), Nov. 21, 1997, 111 Stat. 2299–2304.)
 
 #### Amendment of Section
 
@@ -274,7 +274,7 @@ Subsec. (c)(2). Pub. L. 105–115, §§103(c)(3), 107, temporarily substituted �
 
 Subsec. (c)(3). Pub. L. 105–115, §§103(c)(4), 107, temporarily substituted “this subsection” for “paragraph (2)”. See Effective and Termination Dates of 1997 Amendment note below.
 
-Subsec. (d). Pub. L. 105–115, §§103(d), 107, temporarily struck out introductory provisions which read “The Secretary shall grant a waiver from or a reduction of 1 or more fees under subsection (a) of this section where the Secretary finds that—” and closing provisions which read “In making the finding in paragraph (3), the Secretary may use standard costs.”, inserted designation, heading, and introductory provisions of par. (1), redesignated former pars. (1) to (4) as subpars.\(A) to (D), respectively, of par. (1), and added pars. (1)(E), (2), and (3). See Effective and Termination Dates of 1997 Amendment note below.
+Subsec. (d). Pub. L. 105–115, §§103(d), 107, temporarily struck out introductory provisions which read “The Secretary shall grant a waiver from or a reduction of 1 or more fees under subsection (a) of this section where the Secretary finds that—” and closing provisions which read “In making the finding in paragraph (3), the Secretary may use standard costs.”, inserted designation, heading, and introductory provisions of par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added pars. (1)(E), (2), and (3). See Effective and Termination Dates of 1997 Amendment note below.
 
 Subsec. (f)(1). Pub. L. 105–115, §§103(e), 107, temporarily substituted “fiscal year 1997” for “fiscal year 1993” and “fiscal year 1997 (excluding the amount of fees appropriated for such fiscal year)” for “fiscal year 1992”. See Effective and Termination Dates of 1997 Amendment note below.
 

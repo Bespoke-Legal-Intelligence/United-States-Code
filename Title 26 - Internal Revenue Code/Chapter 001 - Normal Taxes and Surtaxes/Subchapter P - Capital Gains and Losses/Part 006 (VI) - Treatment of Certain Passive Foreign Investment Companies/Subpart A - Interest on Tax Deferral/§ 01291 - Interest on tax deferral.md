@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The amount of interest referred to in paragraph (1)(B) on any increase determined under paragraph (2) for any taxable year shall be determined for the period—
+&emsp;&emsp;The amount of interest referred to in paragraph (1)(B) on any increase determinedunder paragraph (2) for any taxable year shall be determined for the period—
 
 &emsp;&emsp;&emsp;(i) beginning on the due date for such taxable year, and
 
@@ -158,7 +158,7 @@ For purposes of this section—
 
 #### (iii) Coordination with section 959(e)
 
-&emsp;&emsp;&emsp;For purposes of section 959(e), any amount included in gross income underthis subparagraph shall be treated as included in gross income under section 1248(a).
+&emsp;&emsp;&emsp;For purposes of section 959(e), any amount included in gross income under this subparagraph shall be treated as included in gross income under section 1248(a).
 
 #### (C) Adjustments
 

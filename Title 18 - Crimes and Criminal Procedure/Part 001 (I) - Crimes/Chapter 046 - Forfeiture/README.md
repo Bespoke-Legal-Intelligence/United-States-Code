@@ -22,7 +22,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 3663 of this title.
+This chapter is referred to in section 3663 of this title; title 31 section 5352.
 
 <i><sup>1</sup></i><i> So in original. There is no section 983 or 985.</i>
 

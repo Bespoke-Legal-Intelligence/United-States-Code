@@ -150,7 +150,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 401, 402, 1002, 1415, 1803 of this title; title 20 section 76k.
+This chapter is referred to in sections 401, 402, 1002, 1415, 1803 of this title; title 20 section 76k; title 46 App. section 1707.
 
 
 ---

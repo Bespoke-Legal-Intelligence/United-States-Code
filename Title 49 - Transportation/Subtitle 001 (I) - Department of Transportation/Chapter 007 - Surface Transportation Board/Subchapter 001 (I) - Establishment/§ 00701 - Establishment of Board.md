@@ -72,7 +72,7 @@ Proceedings.—(1) The provisions of this Act shall not affect any proceedings o
 
 “(C) Any proceeding involving the merger of a motor carrier property under subtitle IV of title 49, United States Code, shall continue to be heard by the Board under such subtitle, as in effect on the day before the effective date of this section, until completion of such proceeding.
 
-“(4) Any proceeding with respect to any tariff, rate charge, classification, rule, regulation, or service that was pending under the Intercoastal Shipping Act, 1933 \[former 46 App. U.S.C. 843 et seq.\] or the Shipping Act,1916 \[46 App. U.S.C. 801 et seq.\] before the Federal Maritime Commission on November 1, 1995, shall continue to be heard until completion or issuance of a final order thereon under all applicable laws in effect as of November 1, 1995.
+“(4) Any proceeding with respect to any tariff, rate charge, classification, rule, regulation, or service that was pending under the Intercoastal Shipping Act, 1933 \[former 46 App. U.S.C. 843 et seq.\] or the Shipping Act, 1916 \[46 App. U.S.C. 801 et seq.\] before the Federal Maritime Commission on November 1, 1995, shall continue to be heard until completion or issuance of a final order thereon under all applicable laws in effect as of November 1, 1995.
 
 “(c)
 
@@ -112,7 +112,7 @@ To Secretary.—Except as otherwise provided in this Act and the amendments made
 
 “(c)
 
-Separated Employees.—Notwithstanding all other laws and regulations, the Department of Transportation shall place all Interstate Commerce Commission employees separated from the Commission as a result of this Act on the DOT reemployment priority list (competitive service) or the priority employment list (excepted service).”
+Separated Employees.—Notwithstanding all other laws and regulations, the Department of Transportation shall place all Interstate Commerce Commission employees separated from the Commission as a result of this Act on the DOT reemployment priority list\(competitive service) or the priority employment list (excepted service).”
 
 #### References to Interstate Commerce Commission Deemed To Be References to Surface Transportation Board
 

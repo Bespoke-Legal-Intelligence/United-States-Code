@@ -12,7 +12,7 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 &emsp;&emsp;(C) before the termination date (if any) determined pursuant to section 2273(d) of this title.
 
-&emsp;(2) Such worker had, in the 52-week period ending with the week in which such total or partial separation occurred, at least 26 weeks of employment at wages of $30 or more a week in adversely affected employment with a single firm or subdivision of a firm, or, if data with respect to weeks of employment with a firm are not available, equivalent amounts of employment computed under regulations prescribed by the Secretary. For the purposes of this paragraph, any week in which such worker—
+&emsp;(2) Such worker had, in the 52-week period ending with the week in which such total orpartial separation occurred, at least 26 weeks of employment at wages of $30 or more a week in adversely affected employment with a single firm or subdivision of a firm, or, if data with respect to weeks of employment with a firm are not available, equivalent amounts of employment computed under regulations prescribed by the Secretary. For the purposes of this paragraph, any week in which such worker—
 
 &emsp;&emsp;(A) is on employer-authorized leave for purposes of vacation, sickness, injury, maternity, or inactive duty or active duty military service for training,
 
@@ -68,7 +68,7 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 #### (c) Approval of training programs; written certifications; revocation of certification; annual report
 
-(1)(A) If the Secretary finds that it is not feasible or appropriate to approve a training program for a worker under section 2296(a) of thistitle, the Secretary shall submit to such worker a written statement certifying such finding.
+(1)(A) If the Secretary finds that it is not feasible or appropriate to approve a training program for a worker under section 2296(a) of this title, the Secretary shall submit to such worker a written statement certifying such finding.
 
 (B) If a State or State agency has an agreement with the Secretary under section 2311 of this title and the State or State agency finds that it is not feasible or appropriate to approve a training program for a worker pursuant to the requirements of section 2296(a) of this title, the State or State agency shall—
 
@@ -146,7 +146,7 @@ Application of Gramm-Rudman.—Trade readjustment allowances payable under part 
 
 Section 2514 of Pub. L. 97–35, as amended by Pub. L. 97–362, title II, §204, Oct. 24, 1982, 96 Stat. 1733, provided that:
 
-“(a)(1) Except as provided in paragraph (2), this subtitle \[enacting section 2275 of this title, amending this section and sections 2272, 2274, 2292, 2293, 2296, 2297, 2298, 2311, 2313, 2315, 2317, and 2319 of this title, repealing section 2318 of this title, enacting provisions set out as a note under section 2292 of this title, and amending provisions set out as a note preceding section 2271 of this title and under section 3304 of Title 26, Internal Revenue Code\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\].
+“(a)(1) Except as provided in paragraph (2), this subtitle \[enacting section 2275 of this title, amending this section and sections 2272, 2274, 2292, 2293, 2296, 2297, 2298, 2311, 2313, 2315, 2317, and 2319 of this title, repealing section 2318 of this title, enacting provisions set out as a note under section 2292 of this title, and amending provisions set out as a note preceding section 2271 of thistitle and under section 3304 of Title 26, Internal Revenue Code\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\].
 
 “(2)(A) The amendments made by section 2501 \[amending section 2272 of this title\] shall apply with respect to all petitions for certification filed under section 221 of the Trade Act of 1974 \[section 2271 of this title\] on or after October 1, 1983.
 

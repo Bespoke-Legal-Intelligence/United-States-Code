@@ -56,7 +56,7 @@
 
 > to ship or transport any explosive in interstate or foreign commerce or to receive or possess any explosive which has been shipped or transported in interstate or foreign commerce.
 
-(j) It shall be unlawful for any person to store any explosive material in a manner not in conformity with regulations promulgated by the Secretary. In promulgating such regulations, the Secretary shall take into consideration the class, type, and quantity of explosive materials to be stored, as well as the standards of safety and security recognized in the explosives industry.
+(j) It shall be unlawful for any person to store any explosive material in a manner not in conformity with regulations promulgated by the Secretary. In promulgating such regulations, the Secretary shall take into consideration theclass, type, and quantity of explosive materials to be stored, as well as the standards of safety and security recognized in the explosives industry.
 
 (k) It shall be unlawful for any person who has knowledge of the theft or loss of any explosive materials from his stock, to fail to report such theft or loss within twenty-four hours of discovery thereof, to the Secretary and to appropriate local authorities.
 
@@ -76,13 +76,37 @@
 
 (<i>o</i>) It shall be unlawful for any person, other than an agency of the United States (including any military reserve component) or the National Guard of any State, possessing any plastic explosive on the date of enactment of this subsection, to fail to report to the Secretary within 120 days after such date of enactment the quantity of such explosives possessed, the manufacturer or importer, any marks of identification on such explosives, and such other information as the Secretary may prescribe by regulation.
 
-(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 953; amended Pub. L. 100–690, title VI, §6474(c), (d), Nov. 18, 1988, 102 Stat. 4380; Pub. L. 101–647, title XXXV, §3521, Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XI, §§110508, 110516, Sept. 13, 1994, 108 Stat. 2018, 2020; Pub. L. 104–132, title VI, §603, title VII, §707, Apr. 24, 1996, 110 Stat. 1289, 1296.)
+(p)
+
+Distribution of Information Relating to Explosives, Destructive Devices, and Weapons of Mass Destruction.—
+
+&emsp;(1)
+
+Definitions.—In this subsection—
+
+&emsp;&emsp;(A) the term “destructive device” has the same meaning as in section 921(a)(4);
+
+&emsp;&emsp;(B) the term “explosive” has the same meaning as in section 844(j); and
+
+&emsp;&emsp;(C) the term “weapon of mass destruction” has the same meaning as in section 2332a(c)(2).
+
+&emsp;(2)
+
+Prohibition.—It shall be unlawful for any person—
+
+&emsp;&emsp;(A) to teach or demonstrate the making or use of an explosive, a destructive device, or a weapon of mass destruction, or to distribute by any means information pertaining to, in whole or in part, the manufacture or use of an explosive, destructive device, or weapon of mass destruction, with the intent that the teaching, demonstration, or information be used for, or in furtherance of, an activity that constitutes a Federal crime of violence; or
+
+&emsp;&emsp;(B) to teach or demonstrate to any person the making or use of an explosive, a destructive device, or a weapon of mass destruction, or to distribute to any person, by any means, information pertaining to, in whole or in part, the manufacture or use of an explosive, destructive device, or weapon of mass destruction, knowing that such person intends to use the teaching, demonstration, or information for, or in furtherance of, an activity that constitutes a Federal crime of violence.
+
+(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 953; amended Pub. L. 100–690, title VI, §6474(c), (d), Nov. 18, 1988, 102 Stat. 4380; Pub. L. 101–647, title XXXV, §3521, Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XI, §§110508, 110516, Sept. 13, 1994, 108 Stat. 2018, 2020; Pub. L. 104–132, title VI, §603, title VII, §707, Apr. 24, 1996, 110 Stat. 1289, 1296; Pub. L. 106–54, §2(a), Aug. 17, 1999, 113 Stat. 398.)
 
 #### References in Text
 
 The date of enactment of this subsection, referred to in subsecs. (m)(2), (n)(2), and (<i>o</i>), is the date of enactment of Pub. L. 104–132, which was approved Apr. 24, 1996.
 
 #### Amendments
+
+1999—Subsec. (p). Pub. L. 106–54 added subsec. (p).
 
 1996—Subsec. (h). Pub. L. 104–132, §707, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “It shall be unlawful for any person to receive, conceal, transport, ship, store, barter, sell, or dispose of any explosive materials knowing or having reasonable cause to believe that such explosive materials were stolen.”
 
@@ -96,7 +120,7 @@ Subsec. (i). Pub. L. 103–322, §110508, inserted “or possess” after “rec
 
 Subsec. (i)(3). Pub. L. 101–647, §3521(2), substituted “; or” for a period.
 
-1988—Subsec. (d)(5). Pub. L. 100–690, §6474(c), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “is an unlawful user of marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4721(a) of the Internal Revenue Code of 1954); or”.
+1988—Subsec. (d)(5). Pub. L. 100–690, §6474(c), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “is an unlawful user of marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) orany depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4721(a) of the Internal Revenue Code of 1954); or”.
 
 Subsec. (i)(3). Pub. L. 100–690, §6474(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “who is an unlawful user of or addicted to marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4731(a) of the Internal Revenue Code of 1954); or”.
 

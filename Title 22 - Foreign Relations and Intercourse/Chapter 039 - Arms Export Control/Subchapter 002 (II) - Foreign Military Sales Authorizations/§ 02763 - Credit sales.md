@@ -2,7 +2,7 @@
 
 #### (a) Financing procurement of defense articles and services, and design and construction services
 
-The President is authorized to finance the procurement of defense articles, defense services, and design and construction services by friendly foreign countries and international organizations, on such terms and conditions as he may determine consistent with the requirements of this section. Notwithstanding any other provision of law, and subject to the regular notification requirements of the Committees on Appropriations, the authority of this section may be used to provide financing to Israel and Egypt for the procurement by leasing (including leasing with an option to purchase) of defense articles from United States commercial suppliers, not including Major Defense Equipment (other than helicopters and other types of aircraft having possible civilian application), if the President determines that there are compelling foreign policy or national security reasons for those defense articles being provided by commercial lease rather than by government-to-government sale under this chapter.
+The President is authorized to finance the procurement of defense articles, defense services,and design and construction services by friendly foreign countries and international organizations, on such terms and conditions as he may determine consistent with the requirements of this section. Notwithstanding any other provision of law, and subject to the regular notification requirements of the Committees on Appropriations, the authority of this section may be used to provide financing to Israel and Egypt for the procurement by leasing (including leasing with an option to purchase) of defense articles from United States commercial suppliers, not including Major Defense Equipment (other than helicopters and other types of aircraft having possible civilian application), if the President determines that there are compelling foreign policy or national security reasons for those defense articles being provided by commercial lease rather than by government-to-government sale under this chapter.
 
 #### (b) Repayment period
 
@@ -42,7 +42,7 @@ For each fiscal year, the Secretary of Defense, as requested by the Director of 
 
 Of the amounts made available for a fiscal year to carry out this section, not more than $100,000,000 for such fiscal year may be made available for countries other than Israel and Egypt for the purpose of financing the procurement of defense articles, defense services, and design and construction services that are not sold by the United States Government under this chapter.
 
-(Pub. L. 90–629, ch. 2, §23, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 93–559, §45(a)(2), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, §208(a), June30, 1976, 90 Stat. 739; Pub. L. 96–533, title I, §105(b)(3), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 99–83, title I, §102, Aug. 8, 1985, 99 Stat. 195; Pub. L. 100–202, §101(e) \[title V, §572\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–176; Pub. L. 101–513, title V, §580, Nov. 5, 1990, 104 Stat. 2045; Pub. L. 104–164, title I, §102(a)–(c), July 21, 1996, 110 Stat. 1422.)
+(Pub. L. 90–629, ch. 2, §23, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 93–559, §45(a)(2), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, §208(a), June 30, 1976, 90 Stat. 739; Pub. L. 96–533, title I, §105(b)(3), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 99–83, title I, §102, Aug. 8, 1985, 99 Stat. 195; Pub. L. 100–202, §101(e) \[title V, §572\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–176; Pub. L. 101–513, title V, §580, Nov. 5, 1990, 104 Stat. 2045; Pub. L. 104–164, title I, §102(a)–(c), July 21, 1996, 110 Stat. 1422.)
 
 #### References in Text
 
@@ -83,6 +83,8 @@ Functions of President under this section and section 580 of Pub. L. 100–461, 
 #### Similar Provisions
 
 Provisions similar to those in last sentence of subsec. (a) of this section which are applicable to NATO and major non-NATO allies in addition to Israel and Egypt are contained in the following appropriation acts:
+
+Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §528\], Nov. 29, 1999, 113 Stat. 1535, 1501A–90.
 
 Pub. L. 105–277, div. A, §101(d) \[title V, §529\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–178.
 

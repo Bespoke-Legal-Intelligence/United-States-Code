@@ -6,7 +6,7 @@ There is hereby authorized to be established a working capital fund for the Depa
 
 #### Crediting to Working Capital Fund of Amounts Collected Pursuant to Civil Debt Collection Litigation Activities
 
-Pub. L. 103–121, title I, §108, Oct. 27, 1993, 107 Stat. 1164, provided that: “Notwithstanding 31 U.S.C. 3302 or any other statute affecting the crediting of collections, the Attorney General may credit, as an offsetting collection, to the Department of Justice Working Capital Fund, for fiscal year 1994 and thereafter, up to three percent of all amounts collected pursuant to civil debt collection litigation activities of the Department of Justice. Such amounts in the Working Capital Fund shall remain available until expended and shall be subject to the terms and conditions of that fund, and shallbe used only for paying the costs of processing and tracking such litigation.”
+Pub. L. 103–121, title I, §108, Oct. 27, 1993, 107 Stat. 1164, provided that: “Notwithstanding 31 U.S.C. 3302 or any other statute affecting the crediting of collections, the Attorney General may credit, as an offsetting collection, to the Department of Justice Working Capital Fund, for fiscal year 1994 and thereafter, up to three percent of all amounts collected pursuant to civil debt collection litigation activities of the Department of Justice. Such amounts in the Working Capital Fund shall remain available until expended and shall be subject to the terms and conditions of that fund, and shall be used only for paying the costs of processing and tracking such litigation.”
 
 #### Capital Equipment Acquisition, Etc., by Income Retained From or Transferred to Working Capital Fund; Amounts and Limitations
 

@@ -6,7 +6,7 @@ The President shall not be required to apply or maintain any Presidential action
 
 &emsp;&emsp;(A) under existing contracts or subcontracts, including the exercise of options for production quantities, to satisfy requirements essential to the national security of the United States;
 
-&emsp;&emsp;(B) if the President determines in writing and so reports to Congress that the person or other entity to which the Presidential action would otherwise be applied is a sole source supplier of the defense articles or services, that the defense articles or services are essential, and that alternative sources are not readily or reasonably available; or
+&emsp;&emsp;(B) if the President determines in writing and so reports to Congress that the person or other entity to which the Presidential action would otherwise be applied is a solesource supplier of the defense articles or services, that the defense articles or services are essential, and that alternative sources are not readily or reasonably available; or
 
 &emsp;&emsp;(C) if the President determines in writing and so reports to Congress that such articles or services are essential to the national security under defense coproduction agreements; or
 

@@ -52,7 +52,7 @@ Food and agricultural sciences.—The term “food and agricultural sciences” 
 
 &emsp;&emsp;(P) The processing, distributing, marketing, and utilization of food and agricultural products.
 
-&emsp;(9) The term “Hispanic-serving institution” has the meaning given the term by section 1059c(b)(1) of title 20.
+&emsp;(9) The term “Hispanic-serving institution” has the meaning given the term by section 1059c(b)(1) <sup>1</sup> of title 20.
 
 &emsp;(10) The term “land-grant colleges and universities” means those institutions eligible to receive funds under the Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307 and 308), or the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including Tuskegee University.
 
@@ -102,6 +102,8 @@ For definition of “this chapter”, referred to in text, see note set out unde
 
 The Smith-Lever Act of May 8, 1914, referred to in pars. (5) and (16)(D), is act May 8, 1914, ch. 79, 38 Stat. 372, as amended, which is classified generally to subchapter IV (§341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 341 of this title and Tables.
 
+Section 1059c of title 20, referred to in par. (9), was amended generally by Pub. L. 105–244, title III, §303(e), Oct. 7, 1998, 112 Stat. 1639, and, as so amended, no longer relates to Hispanic-serving institutions.
+
 Act of July 2, 1862, 12 Stat. 503, referred to in pars. (10) and (16)(A), is popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under 301 of this title and Tables.
 
 Act of August 30, 1890, 26 Stat. 417, referred to in pars. (10) and (16)(B), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
@@ -146,7 +148,7 @@ Par. (3). Pub. L. 104–127, §820(a), inserted “ornamental fish,” after “
 
 Par. (9). Pub. L. 104–127, §815(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “the term ‘Joint Council’ means the Joint Council on Food and Agricultural Sciences;”.
 
-Pars. (16) to (18). Pub. L. 104–127, §853(b)(1), inserted “and” at end of par. (16), substituted a period for“; and” at end of par. (17), and struck out par. (18) which read as follows: “the term ‘Technology Board’ means the Agricultural Science and Technology Review Board established in section 3123a of this title.”
+Pars. (16) to (18). Pub. L. 104–127, §853(b)(1), inserted “and” at end of par. (16), substituted a period for “; and” at end of par. (17), and struck out par. (18) which read as follows: “the term ‘Technology Board’ means the Agricultural Science and Technology Review Board established in section 3123a of this title.”
 
 1991—Par. (18). Pub. L. 102–237 inserted “and” after “Science”.
 
@@ -156,7 +158,7 @@ Pars. (17), (18). Pub. L. 101–624, §1603(1), (3), added pars. (17) and (18).
 
 1985—Par. (8)(J). Pub. L. 99–198 added subpar. (J).
 
-1981—Par. (8). Pub. L. 97–98, §1404(1), substituted in provision preceding subpar. (A) “basic, applied, and developmental research, extension, and teaching activities in the food, agricultural, renewable natural resources, forestry, and physical and social sciences, in the broadest sense of these terms, including but not limited to, activities relating to” for “sciences relating to food and agriculture in the broadest sense, including the social, economic, and political considerations of”, in subpar. (E) “including consumer affairs, food and nutrition, clothing and textiles, housing, and family well-being and financial management;” for “human nutrition, and family life; and”, and in subpar. (F) “community welfare and development” for “and community development”, and added subpars. (G) to (I).
+1981—Par. (8). Pub. L. 97–98, §1404(1), substituted in provision preceding subpar. (A) “basic, applied, and developmental research, extension, and teaching activities in the food, agricultural, renewable natural resources, forestry, and physical and social sciences, in the broadest sense of these terms, including but not limited to, activities relating to” for “sciences relating to food and agriculture in the broadest sense, includingthe social, economic, and political considerations of”, in subpar. (E) “including consumer affairs, food and nutrition, clothing and textiles, housing, and family well-being and financial management;” for “human nutrition, and family life; and”, and in subpar. (F) “community welfare and development” for “and community development”, and added subpars. (G) to (I).
 
 Par. (12). Pub. L. 97–98, §1404(2), struck out “except as provided in subchapter VII of this chapter,” before “the term” and included within term “State” American Samoa, the Commonwealth of the Northern Marianas, and the Trust Territory of the Pacific Islands.
 

@@ -68,7 +68,7 @@ In subsection (a), the words “Notwithstanding any other provision of law” an
 
 In subsection (b), the words “Hereafter” and “exclusive of the present incumbents” are omitted as surplusage.
 
-In subsection (c), the words “In addition to duties elsewhere prescribed for him by law”, in 10:62, are omitted as surplusage. The words “and perform such other duties as may be prescribed by the Secretary of the Army”, in 10:62, are omitted as superseded by sections 3012(e) and 3036(d) of this title. Clause (2) is substituted for 10:62a (words after semicolon) and 63. The Act of June 23, 1874, ch. 458, §2 (words before semicolon of 1st sentence, and last sentence), 18 Stat. 244, are not contained in 10:62. They are also omitted from the revised section as superseded by sections 3037(a) and 3211 of this title.
+In subsection (c), the words “In addition to duties elsewhere prescribed for him by law”, in 10:62, are omitted as surplusage. The words “and perform such other duties as may be prescribed by the Secretary of the Army”, in 10:62, are omitted as superseded by sections 3012(e) and 3036(d) of this title. Clause (2) is substituted for 10:62a (words after semicolon) and 63. The Act ofJune 23, 1874, ch. 458, §2 (words before semicolon of 1st sentence, and last sentence), 18 Stat. 244, are not contained in 10:62. They are also omitted from the revised section as superseded by sections 3037(a) and 3211 of this title.
 
 #### 1958 Act
 

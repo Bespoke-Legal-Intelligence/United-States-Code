@@ -50,5 +50,5 @@ Pub. L. 98–94, title X, §1006, Sept. 24, 1983, 97 Stat. 661, provided that a 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5589 of this title.
+This section is referred to in sections 5589, 16401 of this title.
 

@@ -12,7 +12,9 @@ Subject to subsection (b) of this section, buildings or parts of buildings and o
 
 &emsp;(A) the same port of entry, as established under section 1 of the Act of August 24, 1912 (37 Stat. 434), from which a purchaser of duty-free merchandise departs the customs territory; or
 
-&emsp;(B) 25 statute miles from the exit point through which the purchaser of duty-free merchandise will depart the customs territory.
+&emsp;(B) 25 statute miles from the exit point through which the purchaser of duty-free merchandise will depart the customs territory; or
+
+&emsp;(C) a port of entry, as established under section 1 of the Act of August 24, 1912 (37 Stat. 434), or within 25 statute miles of a staffed port of entry if reasonable assurance can be provided that duty-free merchandise sold by the enterprise will be exported by individuals departing from the customs territory through an international airport located within the customs territory.
 
 (3) Each duty-free sales enterprise—
 
@@ -28,7 +30,7 @@ Subject to subsection (b) of this section, buildings or parts of buildings and o
 
 &emsp;&emsp;(iii) is subject to the customs laws and regulation of any foreign country to which it is taken;
 
-&emsp;(D) shall not be required to mark or otherwise place a distinguishing identifier on individual items of merchandise to indicate that the items were sold by a duty-free sales enterprise, unless the Secretary finds a pattern in which such items are being brought back into the customs territory without declaration;
+&emsp;(D) shall not be required to mark or otherwise place a distinguishing identifier on individual items of merchandise to indicate thatthe items were sold by a duty-free sales enterprise, unless the Secretary finds a pattern in which such items are being brought back into the customs territory without declaration;
 
 &emsp;(E) may unpack merchandise into saleable units after it has been entered for warehouse and placed in a duty-free sales enterprise, without requirement of further permits; and
 
@@ -76,11 +78,11 @@ Subject to subsection (b) of this section, buildings or parts of buildings and o
 
 &emsp;(G) The term “personal use quantities” means quantities that are only suitable for uses other than resale, and includes reasonable quantities for household or family consumption as well as for gifts to others.
 
-(June 17, 1930, ch. 497, title IV, §555, 46 Stat. 743; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 98–573, title II, §211, Oct. 30, 1984, 98 Stat. 2977; Pub. L. 100–418, title I, §1908(b), Aug. 23, 1988, 102 Stat. 1315; Pub. L. 101–382, title I, §139(a)(1), Aug. 20, 1990, 104 Stat. 653; Pub. L. 104–295, §29, Oct. 11, 1996, 110 Stat. 3535.)
+(June 17, 1930, ch. 497, title IV, §555, 46 Stat. 743; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 98–573, title II, §211, Oct. 30, 1984, 98 Stat. 2977; Pub. L. 100–418, title I, §1908(b), Aug. 23, 1988, 102 Stat. 1315; Pub. L. 101–382, title I, §139(a)(1), Aug. 20, 1990, 104 Stat. 653; Pub. L. 104–295, §29, Oct. 11, 1996, 110 Stat. 3535; Pub. L. 106–36, title II, §2417, June 25, 1999, 113 Stat. 176.)
 
 #### References in Text
 
-For provisions relating to ports of entry established under section 1 of the Act of August 24, 1912 (37 Stat. 434), referred to in subsec. (b)(2)(A), see Prior Provisions note under section 1 of this title.
+For provisions relating to ports of entry established under section 1 of the Act of August 24, 1912 (37 Stat. 434), referred to in subsec. (b)(2)(A), (C), see Prior Provisions note under section 1 of this title.
 
 The date of enactment of the Omnibus Trade Act of 1987, referred to in subsec. (b)(3)(F)(ii)(II), probably means the date of enactment of the Omnibus Trade and Competitiveness Act of 1988, Pub. L. 100–418, which was approved Aug. 23, 1988.
 
@@ -93,6 +95,8 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 Prior provisions dealing with the subject matter of this section were contained in R.S. §2958, authorizing cellars and vaults of stores for storage of wines and distilled spirits, and yards for storage of coal, etc., to be constituted bonded warehouses; section 2959, authorizing parts of buildings to be bonded for the storage of grain; section 2960, requiring private warehouses to be used solely for the storage of warehoused merchandise, and be approved by the Secretary of the Treasury, and be in charge of a proper officer of the customs, etc.; section 2961 requiring bonds to hold the United States harmless, and providing that imports deposited in warehouses should be at the risk and expense of the owner or importer; section 2968, authorizing the extension of warehouse privileges to the port of Albany; and section 2988, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, requiring collectors to make reports of merchandise in warehouses. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 #### Amendments
+
+1999—Subsec. (b)(2)(B), (C). Pub. L. 106–36 substituted “; or” for period at end of subpar. (B) and added subpar. (C).
 
 1996—Subsec. (b)(6). Pub. L. 104–295 designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), merchandise” for “Merchandise”, and added subpar. (B).
 

@@ -2,7 +2,7 @@
 
 #### (a) Modification of projects
 
-The Secretary is authorized to provide for modifications of the projects authorized by this subchapter as determined to be appropriate for purposes of meeting the objective of this subchapter. No funds for any such modification shall be expended until the expiration of sixty days after the proposed modification has been submitted to appropriate committees of the Congress, except that funds may be expended prior to the expiration of such sixty days in any case in which the Congress approves an earlier date by concurrent resolution. The Governors of the Colorado River Basin States shall be notified of these changes.
+The Secretary is authorized to provide for modifications of the projects authorized by this subchapter as determined to be appropriate for purposes of meeting the objective of this subchapter. No funds for any such modification shall be expended until the expiration of sixty days after the proposed modification has been submitted to appropriate committees of the Congress, except that funds may be expendedprior to the expiration of such sixty days in any case in which the Congress approves an earlier date by concurrent resolution. The Governors of the Colorado River Basin States shall be notified of these changes.
 
 #### (b) Contract authority; authorization of appropriations
 
@@ -26,7 +26,7 @@ The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 
 
 Subsec. (b). Pub. L. 98–569, §5(b)(1), inserted “(a) or (b)” after “1592”.
 
-Pub. L. 98–569, §5(b)(2), inserted “The funds authorized to be appropriated by this section may be used forconstruction of any or all of the works or portions thereof and for other purposes authorized in subsection (a) of this section, including measures as provided for in subsection (b) of section 1592 of this title.”
+Pub. L. 98–569, §5(b)(2), inserted “The funds authorized to be appropriated by this section may be used for construction of any or all of the works or portions thereof and for other purposes authorized in subsection (a) of this section, including measures as provided for in subsection (b) of section 1592 of this title.”
 
 #### Effective Date of 1984 Amendment
 

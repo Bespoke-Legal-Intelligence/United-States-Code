@@ -116,7 +116,7 @@ Subsec. (b)(2)(C). Pub. L. 103–66, §13241(d)(2), added subpar. (C).
 
 | <b>“If the use occurs—</b> | <b>The tax is—</b> |
 | :--- | ---: |
-| After September 30, 1980 and before October 1, 1981 | 4 cents a gallon&nbsp;&nbsp; |
+| After September 30, 1980 and before October 1, 1981 | 4 cents a gallon   |
 | After September 30, 1981 and before October 1, 1983 | 6 cents a gallon&nbsp;&nbsp; |
 | After September 30, 1983 and before October 1, 1985 | 8 cents a gallon&nbsp;&nbsp; |
 | After September 30, 1985 | 10 cents a gallon”. |

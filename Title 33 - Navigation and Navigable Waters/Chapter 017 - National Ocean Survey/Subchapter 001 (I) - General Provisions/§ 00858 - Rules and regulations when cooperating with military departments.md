@@ -14,7 +14,7 @@ Section is part of section 16 of act May 22, 1917. Section 16 is also classified
 
 #### Change of Name
 
-The Department of War was designated the Department of the Army and the title of the Secretary of War was changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued the Department of the Army under the administrative supervision of a Secretary of the Army.
+The Department of War was designated the Department of the Army and the title of the Secretary of War was changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of actAug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued the Department of the Army under the administrative supervision of a Secretary of the Army.
 
 #### Transfer of Functions
 

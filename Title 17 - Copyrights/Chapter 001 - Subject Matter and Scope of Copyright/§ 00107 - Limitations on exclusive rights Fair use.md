@@ -32,7 +32,7 @@ The Committee has amended the first of the criteria to be considered—“the pu
 
 <b>Intention as to Classroom Reproduction.</b> Although the works and uses to which the doctrine of fair use is applicable are as broad as the copyright law itself, most of the discussion of section 107 has centered around questions of classroom reproduction, particularly photocopying. The arguments on the question are summarized at pp. 30–31 of this Committee's 1967 report (H.R. Rep. No. 83, 90th Cong., 1st Sess.), and have not changed materially in the intervening years.
 
-The Committee also adheres to its earlier conclusion, that “a specific exemption freeing certain reproductions of copyrighted works for educational and scholarly purposes from copyright control is not justified.”At the same time the Committee recognizes, as it did in 1967, that there is a “need for greater certainty and protection for teachers.” In an effort to meet this need the Committee has not only adopted further amendments to section 107, but has also amended section 504(c) to provide innocent teachers and other non-profit users of copyrighted material with broad insulation against unwarranted liability for infringement. The latter amendments are discussed below in connection with Chapter 5 of the bill \[§501 et seq. of this title\].
+The Committee also adheres to its earlier conclusion, that “a specific exemption freeing certain reproductions of copyrighted works for educational and scholarly purposes from copyright control is not justified.” At the same time the Committee recognizes, as it did in 1967, that there is a “need for greater certainty and protection for teachers.” In an effort to meet this need the Committee has not only adopted further amendments to section 107, but has also amended section 504(c) to provide innocent teachers and other non-profit users of copyrighted material with broad insulation against unwarranted liability for infringement. The latter amendments are discussed below in connection with Chapter 5 of the bill \[§501 et seq. of this title\].
 
 In 1967 the Committee also sought to approach this problem by including, in its report, a very thorough discussion of “the considerations lying behind the four criteria listed in the amended section 107, in the context of typical classroom situations arising today.” This discussion appeared on pp. 32–35 of the 1967 report, and with some changes has been retained in the Senate report on S. 22 (S. Rep. No. 94–473, pp. 63–65). The Committee has reviewed this discussion, and considers that it still has value as an analysis of various aspects of the problem.
 
@@ -52,7 +52,7 @@ The full text of the agreement is as follows:
 
 I74with respect to books and periodicals
 
-&emsp;The purpose of the following guidelines is to state the minimum and not the maximum standards of educational fair use under Section 107 of H.R. 2223 \[this section\]. The parties agree that the conditions determining the extent of permissible copying for educational purposes may change in the future; that certain types of copying permitted under these guidelines may not be permissible in the future; and conversely that in the future other types of copying not permitted under these guidelines may be permissible under revised guidelines.
+&emsp;The purpose of the following guidelines is to state the minimum and not the maximum standards of educational fair use under Section 107 of H.R. 2223 \[this section\]. The parties agree that the conditions determining the extent of permissible copying for educational purposes may change in the future; that certain types of copying permitted under these guidelines may not be permissible in the future; and conversely that in the future other types of copying notpermitted under these guidelines may be permissible under revised guidelines.
 
 &emsp;Moreover, the following statement of guidelines is not intended to limit the types of copying permitted under the standards of fair use under judicial decision and which are stated in Section 107 of the Copyright Revision Bill \[this section\]. There may be instances in which copying which does not fall within the guidelines stated below may nonetheless be permitted under the criteria of fair use.
 
@@ -224,7 +224,7 @@ The criteria of fair use are necessarily set forth in general terms. In the appl
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, setout as an Effective Date note under section 106A of this title.
+Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
 
 #### Cross References
 

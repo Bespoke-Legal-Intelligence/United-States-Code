@@ -20,7 +20,7 @@ A Director may serve after the expiration of the term for which the Director was
 
 #### (1) In general
 
-&emsp;The Office shall have a Deputy Director who shall be appointed by the Director from among individuals who are citizens of the United States, have a demonstrated understanding offinancial management or oversight, and have a demonstrated understanding of mortgage security markets and housing finance. An individual may not be appointed as Deputy Director if the individual has served as an executive officer or director of an enterprise at any time during the 3-year period ending upon the appointment of such individual as Deputy Director.
+&emsp;The Office shall have a Deputy Director who shall be appointed by the Director from among individuals who are citizens of the United States, have a demonstrated understanding of financial management or oversight, and have a demonstrated understanding of mortgage security markets and housing finance. An individual may not be appointed as Deputy Director if the individual has served as an executive officer or director of an enterprise at any time during the 3-year period ending upon the appointment of such individual as Deputy Director.
 
 #### (2) Functions
 

@@ -30,5 +30,5 @@ Subsec. (c). Pub. L. 102–587, §2105(a)(2), added subsec. (c).
 
 #### International Cooperation
 
-For direction that the Secretary of State seek effective international action and cooperation through the development of appropriate international rules and regulations in support of the policy of this chapter andchapter 27 of Title 33, Navigation and Navigable Waters, see section 1419 of Title 33.
+For direction that the Secretary of State seek effective international action and cooperation through the development of appropriate international rules and regulations in support of the policy of this chapter and chapter 27 of Title 33, Navigation and Navigable Waters, see section 1419 of Title 33.
 

@@ -40,7 +40,7 @@ Within two years after the Commission is established, it shall develop land use 
 
 &emsp;(4) designate lands suitable for the protection and enhancement of open spaces;
 
-&emsp;(5) designate areas in the scenic area outside special management areas used or suitable for commercial development: <i>Provided</i>, That suchdesignation shall encourage, but not require, commercial development to take place in urban areas and shall take into account the physical characteristics of the areas in question and their geographic proximity to transportation, commercial, and industrial facilities and other amenities;
+&emsp;(5) designate areas in the scenic area outside special management areas used or suitable for commercial development: <i>Provided</i>, That such designation shall encourage, but not require, commercial development to take place in urban areas and shall take into account the physical characteristics of the areas in question and their geographic proximity to transportation, commercial, and industrial facilities and other amenities;
 
 &emsp;(6) designate areas used or suitable for residential development, taking into account the physical characteristics of the areas in question and their geographic proximity to transportation and commercial facilities and other amenities; and
 
@@ -106,7 +106,7 @@ The Secretary and the Commission shall exercise their responsibilities pursuant 
 
 &emsp;&emsp;(A) revise and resubmit the plan to the Secretary; or
 
-&emsp;&emsp;(B) by a vote of two-thirds of its membership, including a majority of the membersappointed from each State, reject the suggested modifications of the Secretary and adopt a management plan consistent with the provisions of this section and the purposes of sections 544 to 544p of this title.
+&emsp;&emsp;(B) by a vote of two-thirds of its membership, including a majority of the members appointed from each State, reject the suggested modifications of the Secretary and adopt a management plan consistent with the provisions of this section and the purposes of sections 544 to 544p of this title.
 
 #### (g) Revision of plan
 

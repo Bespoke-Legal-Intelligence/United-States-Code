@@ -22,7 +22,7 @@ If the Secretary determines that a Foreign Service Reserve officer with limited 
 
 #### (e) Application more than 120 days after effective date of Foreign Service Act of 1980
 
-If a Foreign Service officer or a Foreign Service Reserve officer who is eligible to submit a request under subsection (a) of this section submits a written request for appointment to the Senior Foreign Service to the Secretary more than 120 days after February 15, 1981, and before the end of the 3-year period beginning on February 15, 1981, the Secretary (in the case of a Foreign Service Reserve officer with limited tenure) may grant a limited appointment to, or (in the case of a Foreign Service officer or Foreign Service Reserve officer with unlimited tenure) may recommend to the President a career appointment of, the requesting officer to the appropriate class established under section 3962 of this title, subject to the conditions specified in subsection (d) of this section and such other conditions as the Secretary may prescribe consistent with the provisions of subchapter VI of this chapter relating to promotion into the Senior Foreign Service.
+If a Foreign Service officer or a Foreign Service Reserve officer who is eligible to submit a request under subsection (a) of this section submits a written request for appointment to the Senior Foreign Service to the Secretary more than 120 days after February 15, 1981, and before the end of the 3-year period beginning on February 15, 1981, the Secretary (in the case of a Foreign Service Reserve officer with limited tenure) may grant a limited appointment to, or (in the case of a Foreign Service officer or Foreign Service Reserve officer with unlimited tenure) may recommend to the President a career appointment of, the requesting officer to the appropriate class established under section 3962 ofthis title, subject to the conditions specified in subsection (d) of this section and such other conditions as the Secretary may prescribe consistent with the provisions of subchapter VI of this chapter relating to promotion into the Senior Foreign Service.
 
 #### (f) Forced conversion
 
@@ -38,7 +38,7 @@ Any officer of the Foreign Service who is eligible to submit a request under sub
 
 #### References in Text
 
-Sections 412 and 414 of the Foreign Service Act of 1946, referred to in subsec. (a), which were classified tosections 867 and 869, respectively, of this title, were repealed by Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159.
+Sections 412 and 414 of the Foreign Service Act of 1946, referred to in subsec. (a), which were classified to sections 867 and 869, respectively, of this title, were repealed by Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159.
 
 #### Codification
 

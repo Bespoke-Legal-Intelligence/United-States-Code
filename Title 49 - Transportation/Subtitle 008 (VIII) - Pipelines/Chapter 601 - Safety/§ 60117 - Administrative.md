@@ -30,7 +30,7 @@ Use of Accident Reports.—(1) Each accident report made by an officer, employee
 
 (f)
 
-Testing Facilities Involved in Accidents.—The Secretary may require testing of a part of a pipeline facility subject to this chapterthat has been involved in or affected by an accident only after—
+Testing Facilities Involved in Accidents.—The Secretary may require testing of a part of a pipeline facility subject to this chapter that has been involved in or affected by an accident only after—
 
 &emsp;(1) notifying the appropriate State official in the State in which the facility is located; and
 
@@ -216,7 +216,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, §212(d); added Oct. 31, 1988, Pu
 
 49 App.:2010(e) (last sentence).
 
-In subsection (a), the words “to the extent necessary . . . his responsibilities under” and “relevant” areomitted as surplus. The words “documents and” are omitted as being included in “records”. The words “directly or, by contract, or otherwise” are omitted as surplus.
+In subsection (a), the words “to the extent necessary . . . his responsibilities under” and “relevant” are omitted as surplus. The words “documents and” are omitted as being included in “records”. The words “directly or, by contract, or otherwise” are omitted as surplus.
 
 In subsections (b), before clause (1), and (c), the words “has acted or . . . acting” are omitted as surplus. The word “prescribed” is added for consistency in the revised title and with other titles of the United States Code.
 

@@ -52,7 +52,7 @@ For the purpose of executing the duties and functions of the Coast Guard the Com
 
 &emsp;(w) provide for the honorary recognition of individuals and organizations that significantly contribute to Coast Guard programs, missions, or operations, including State and local governments and commercial and nonprofit organizations, and pay for, using any appropriations or funds available to the Coast Guard, plaques, medals, trophies, badges, and similar items to acknowledge such contribution (including reasonable expenses of ceremony and presentation); and
 
-&emsp;(x) rent or lease, under such terms and conditions as are considered by the Secretary to be advisable, commercial vehicles to transport the next of kin of eligible retired Coast Guard military personnel to attend funeral services of the service member at a national cemetery.
+&emsp;(x) rent or lease, under such terms and conditions as are considered by the Secretary tobe advisable, commercial vehicles to transport the next of kin of eligible retired Coast Guard military personnel to attend funeral services of the service member at a national cemetery.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 504; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Pub. L. 94–546, §1(9), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–136, §6(d), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–276, §143, Oct. 2, 1982, 96 Stat. 1199; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 97–322, title I, §115(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 102–241, §7, Dec. 19, 1991, 105 Stat. 2212; Pub. L. 103–206, title II, §202, title III, §316, Dec. 20, 1993, 107 Stat. 2420, 2426; Pub. L. 104–324, title II, §207(a), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–383, title II, §§202, 203, Nov. 13, 1998, 112 Stat. 3414, 3415.)
 
@@ -140,7 +140,7 @@ Pub. L. 105–383, title IV, §416(d), Nov. 13, 1998, 112 Stat. 3437, provided t
 
 #### Small Waterplane Area Twin Hull (SWATH) Technology
 
-Pub. L. 105–383, title IV, §425(a), Nov. 13, 1998, 112 Stat. 3441, provided that: “The Commandant of theCoast Guard shall, within 18 months after the date of the enactment of this Act \[Nov. 13, 1998\], report to the Senate Committee on Commerce, Science, and Transportation and the House Committee on Transportation and Infrastructure on the applicability of Small Waterplane Area Twin Hull (SWATH) technology, including concepts developed by the United States Office of Naval Research, to the design of Coast Guard vessels.”
+Pub. L. 105–383, title IV, §425(a), Nov. 13, 1998, 112 Stat. 3441, provided that: “The Commandant of the Coast Guard shall, within 18 months after the date of the enactment of this Act \[Nov. 13, 1998\], report to the Senate Committee on Commerce, Science, and Transportation and the House Committee on Transportation and Infrastructure on the applicability of Small Waterplane Area Twin Hull (SWATH) technology, including concepts developed by the United States Office of Naval Research, to the design of Coast Guard vessels.”
 
 #### Cross References
 
@@ -177,6 +177,10 @@ Procurement of all supplies and services, see section 2301 et seq. of Title 10, 
 Retirement, see section 46 of this title.
 
 Suspension or revocation of license, certificate of registry, or merchant mariners’ document, see section 7702 of Title 46, Shipping.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 49 section 30305.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

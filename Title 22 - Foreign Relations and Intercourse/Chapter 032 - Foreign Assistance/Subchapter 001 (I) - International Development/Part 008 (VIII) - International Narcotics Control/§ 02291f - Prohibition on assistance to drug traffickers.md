@@ -30,3 +30,7 @@ The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oc
 
 1992—Subsec. (a)(1). Pub. L. 102–583 struck out “(as defined in section 2291(i)(3) of this title)” after “controlled substances”.
 
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+

@@ -110,7 +110,7 @@ Subsec. (a)(8)(B). Pub. L. 94–273 substituted “October” for “July” in 
 
 Subsec. (a)(2). Pub. L. 87–543, §153(b), struck out “, the District of Columbia, and the Commonwealth of Puerto Rico” after “the States,”.
 
-1960—Subsec. (a)(1). Pub. L. 86–778 substituted “The term ‘State’, except where otherwise provided, includes the District of Columbia and the Commonwealth of Puerto Rico” for “The term ‘State’ includes Hawaii, and the District of Columbia”, and “includes the VirginIslands and Guam” for “includes Puerto Rico, the Virgin Islands, and Guam”.
+1960—Subsec. (a)(1). Pub. L. 86–778 substituted “The term ‘State’, except where otherwise provided, includes the District of Columbia and the Commonwealth of Puerto Rico” for “The term ‘State’ includes Hawaii, and the District of Columbia”, and “includes the Virgin Islands and Guam” for “includes Puerto Rico, the Virgin Islands, and Guam”.
 
 Pub. L. 86–624, §30(d)(1), struck out “Hawaii, and” before “the District of Columbia”.
 
@@ -308,5 +308,5 @@ Unemployment administrative expenses, see section 1104 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395x, 1396d of this title.
+This section is referred to in sections 1012, 1395x, 1396d of this title.
 

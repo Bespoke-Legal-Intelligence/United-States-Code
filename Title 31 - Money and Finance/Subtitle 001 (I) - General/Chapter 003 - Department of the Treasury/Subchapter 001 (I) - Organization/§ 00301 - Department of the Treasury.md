@@ -210,7 +210,7 @@ Nothing in Pub. L. 101–576 \[see Short Title of 1990 Amendment note set out un
 
 #### Designation of Officers To Act as Secretary of the Treasury
 
-Designation of officers of Treasury Department to act as Secretary of the Treasury, during any period when, by reason of absence, disability, or vacancy in office, either the Secretary of the Treasury or his Deputy Secretary is not available to exercise the powers or perform the duties of the office of the Secretary, see Ex. Ord. No. 11822, Dec. 10, 1974, 39 F.R. 43275, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+Designation of officers of Treasury Department to act as Secretary of the Treasury, during any period when, by reason of absence, disability, or vacancy in office, either the Secretary of the Treasury or his Deputy Secretary is not available to exercise the powers or perform the duties of the office of the Secretary, see Ex. Ord. No. 11822, Dec. 10, 1974, 39 F.R. 43275, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### Cross References
 

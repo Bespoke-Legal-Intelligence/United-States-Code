@@ -56,7 +56,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 (4)(A) In selecting where to establish pilot projects under this subsection, the Secretary shall take into account, among other factors, the availability of fortified milk and the interest of the school district in being included in the pilot project.
 
-(B) The Secretary shall establish the pilot projects in as many geographic areas as practicable, except that none of the projects shall beestablished in school districts that use milk described in paragraph (3) or similar milk.
+(B) The Secretary shall establish the pilot projects in as many geographic areas as practicable, except that none of the projects shall be established in school districts that use milk described in paragraph (3) or similar milk.
 
 (5) Not later than 2 years after the establishment of the first pilot project under this subsection, the Secretary shall report to the Committee on Education and Labor, and the Committee on Agriculture, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on—
 
@@ -212,7 +212,7 @@ Subsec. (h). Pub. L. 105–336, §109(a), struck out subsec. (h) which related t
 
 Subsec. (i). Pub. L. 105–336, §109(b), (c)(1), amended subsec. (i) generally and redesignated it as subsec. (e). Prior to amendment, subsec. (i) related to reduced paperwork and application requirements and increased participation pilots.
 
-1996—Subsec. (d)(3) to (5). Pub. L. 104–193, §709(a), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which related to pilotprogram for schools with universal free lunch programs to use certain methods to determine number of free, reduced price, and paid meals to be provided.
+1996—Subsec. (d)(3) to (5). Pub. L. 104–193, §709(a), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which related to pilot program for schools with universal free lunch programs to use certain methods to determine number of free, reduced price, and paid meals to be provided.
 
 Subsec. (e)(1). Pub. L. 104–193, §709(b)(1), designated subpar. (A) as par. (1), substituted “Secretary may establish” for “Secretary shall establish”, and struck out subpar. (B) which read as follows: “The amount of a grant under subparagraph (A) shall be equal to the amount necessary to provide meals or supplements described in such subparagraph and shall be determined in accordance with reimbursement payment rates for meals and supplements under the child and adult care food program under section 1766 of this title.”
 

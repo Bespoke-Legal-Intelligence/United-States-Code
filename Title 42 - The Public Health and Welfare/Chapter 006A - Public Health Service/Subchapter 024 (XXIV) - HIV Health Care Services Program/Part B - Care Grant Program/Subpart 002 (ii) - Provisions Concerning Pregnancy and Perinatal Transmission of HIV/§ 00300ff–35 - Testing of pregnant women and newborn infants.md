@@ -32,7 +32,7 @@ An activity or requirement described in this section is any of the following:
 
 &emsp;&emsp;(B) that subparagraph (A) does not apply to an individual who, in applying for the health insurance involved, knowingly misrepresented the HIV status of the individual; and
 
-&emsp;&emsp;(C) that subparagraph (A) does not apply to any reasonable alteration in the terms of health insurance for an individual with HIVdisease that would have been made if the individual had a serious disease other than HIV disease.
+&emsp;&emsp;(C) that subparagraph (A) does not apply to any reasonable alteration in the terms of health insurance for an individual with HIV disease that would have been made if the individual had a serious disease other than HIV disease.
 
 > &emsp;For purposes of this subparagraph, a statute or regulation shall be deemed to regulate insurance for purposes of this paragraph only to the extent that such statute or regulation is treated as regulating insurance for purposes of section 1144(b)(2) of title 29.
 

@@ -40,5 +40,5 @@ Subsequent statutes to be held to supersede or modify this section only to the e
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 559, 1305 of this title; title 15 section 1715; title 29 section 661; title 30 section 823; title 31 section 3801; title 42 sections 2000e–4, 3608, 3787.
+This section is referred to in sections 559, 1305 of this title; title 15 sections 1541, 1715; title 29 section 661; title 30 section 823; title 31 section 3801; title 42 sections 2000e–4, 3608, 3787.
 

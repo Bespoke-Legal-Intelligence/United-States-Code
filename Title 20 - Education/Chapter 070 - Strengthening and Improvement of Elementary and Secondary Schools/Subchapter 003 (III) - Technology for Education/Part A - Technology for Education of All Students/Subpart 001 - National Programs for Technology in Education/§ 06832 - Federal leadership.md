@@ -8,7 +8,7 @@ In order to provide Federal leadership in promoting the use of technology in edu
 
 #### (1) In general
 
-&emsp;The Secretary shall provide assistance to the States to enable such States to plan effectively for the use of technology in all schools throughout the State in accordance with the purpose and requirements of section 5897 of this title.
+&emsp;The Secretary shall provide assistance to the States to enable such States to plan effectively for the use of technology in all schools throughout the State in accordance with the purpose and requirements of section 5897 <sup>1</sup> of this title.
 
 #### (2) Other Federal agencies
 
@@ -54,15 +54,21 @@ The Secretary shall use funds made available to carry out this section for activ
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), the Secretary may require any recipient of a grant orcontract under this section to share in the cost of the activities assisted under such grant or contract, which non-Federal share shall be announced through a notice in the Federal Register and may be in the form of cash or in-kind contributions, fairly valued.
+&emsp;Subject to paragraphs (2) and (3), the Secretary may require any recipient of a grant or contract under this section to share in the cost of the activities assisted under such grant or contract, which non-Federal share shall be announced through a notice in the Federal Register and may be in the form of cash or in-kind contributions, fairly valued.
 
 #### (2) Increase
 
-&emsp;The Secretary may increase the non-Federal share that is required of a recipient of a grant or contract under this section after the first year such recipient receives funds under such grant or contract.
+&emsp;The Secretary may increase the non-Federal share that is required of a recipient of a grantor contract under this section after the first year such recipient receives funds under such grant or contract.
 
 #### (3) Maximum
 
 &emsp;The non-Federal share required under this section shall not exceed 50 percent of the cost of the activities assisted pursuant to a grant or contract under this section.
 
 (Pub. L. 89–10, title III, §3122, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3642.)
+
+#### References in Text
+
+Section 5897 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §310(i)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–265.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

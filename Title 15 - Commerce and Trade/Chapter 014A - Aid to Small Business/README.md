@@ -39,6 +39,7 @@
 | (n) | “Small business concern owned and controlled by women” defined. |
 | (<i>o</i>) | Definitions of bundling of contract requirements and related terms. |
 | (p) | Definitions relating to HUBZones. |
+| (q) | Definitions relating to veterans. |
 | [633\.](%C2%A7%2000633%20-%20Small%20Business%20Administration.md) | Small Business Administration. |
 | (a) | Creation; principal, branch, and regional offices. |
 | (b) | Appointment of Administrator, Deputy Administrator, and Associate Administrators; duties of Administrator: preparation of data base and publication of economic indices and annual report; risk management database; computer security and education program. |
@@ -77,6 +78,7 @@
 | (k) | Functions relating to loans and financial assistance for projects providing technical or management assistance to individuals or enterprises eligible for assistance as small business concerns located in urban or rural areas with high proportions of unemployed or low-income individuals, or owned by low-income individuals. |
 | (<i>l</i>) | \[RESERVED\]. |
 | (m) | Microloan Program. |
+| (n) | Repayment deferred for active duty reservists. |
 | [636a.](%C2%A7%2000636a%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20XIX%2C%20%C2%A71917%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20781.md) | Repealed. |
 | [636b.](%C2%A7%2000636b%20-%20Disaster%20loan%20interest%20rates.md) | Disaster loan interest rates. |
 | [636c.](%C2%A7%2000636c%20-%20Age%20of%20applicant%20for%20disaster%20loans.md) | Age of applicant for disaster loans. |
@@ -95,6 +97,7 @@
 | (i) | Availability; complete solicitation package; fees. |
 | (j) | “Executive agency” defined. |
 | (k) | Notices of subcontracting opportunities. |
+| (<i>l</i>) | Management assistance for small businesses affected by military operations. |
 | [637a.](%C2%A7%2000637a%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93409%2C%20%C2%A73%28b%29%2C%20May%202%2C%201966%2C%2080%20Stat.%20133.md) | Repealed. |
 | [637b.](%C2%A7%2000637b%20-%20Availability%20of%20information.md) | Availability of information. |
 | (a) | Requests for information. |
@@ -253,8 +256,9 @@
 | (g) | Office of Women's Business Ownership. |
 | (h) | Program examination. |
 | (i) | Contract authority. |
-| (j) | Report. |
+| (j) | Management report. |
 | (k) | Authorization of appropriations. |
+| (<i>l</i>) | Sustainability pilot program. |
 | [657\.](%C2%A7%2000657%20-%20Oversight%20of%20regulatory%20enforcement.md) | Oversight of regulatory enforcement. |
 | (a) | Definitions. |
 | (b) | SBA Enforcement Ombudsman. |
@@ -264,12 +268,27 @@
 | (a) | In general. |
 | (b) | Eligible contracts. |
 | (c) | Enforcement; penalties. |
+| [657b.](%C2%A7%2000657b%20-%20Veterans%20programs.md) | Veterans programs. |
+| (a) | Office of Veterans Business Development. |
+| (b) | Associate Administrator for Veterans Business Development. |
+| [657c.](%C2%A7%2000657c%20-%20National%20Veterans%20Business%20Development%20Corporation.md) | National Veterans Business Development Corporation. |
+| (a) | Establishment. |
+| (b) | Purposes of the Corporation. |
+| (c) | Board of Directors. |
+| (d) | Corporate powers. |
+| (e) | Corporate funds. |
+| (f) | Network of information and assistance centers. |
+| (g) | Annual report. |
+| (h) | Assumption of duties of advisory committee. |
+| (i) | Use of mails. |
+| (j) | Professional Certification Advisory Board. |
+| (k) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 662, 687 of this title; title 7 section 2000; title 10 section 2855; title 16sections 472a, 539d; title 19 sections 2345, 2346; title 25 section 450j; title 38 section 3742; title 42 section 7661f; title 49 section 13709; title 50 App. section 2017<i>l.</i>
+This chapter is referred to in sections 662, 687 of this title; title 7 section 2000; title 10 section 2855; title 16 sections 472a, 535a, 539d; title 19 sections 2345, 2346; title 25 section 450j; title 38 section 3742; title 42 section 7661f; title 49 section 13709; title 50 App. section 2017<i>l.</i>
 
 
 ---
@@ -326,3 +345,5 @@ This chapter is referred to in sections 662, 687 of this title; title 7 section 
 - [&sect; 00656 - Women's business center program](%C2%A7%2000656%20-%20Women%27s%20business%20center%20program.md)
 - [&sect; 00657 - Oversight of regulatory enforcement](%C2%A7%2000657%20-%20Oversight%20of%20regulatory%20enforcement.md)
 - [&sect; 00657a - HUBZone program](%C2%A7%2000657a%20-%20HUBZone%20program.md)
+- [&sect; 00657b - Veterans programs](%C2%A7%2000657b%20-%20Veterans%20programs.md)
+- [&sect; 00657c - National Veterans Business Development Corporation](%C2%A7%2000657c%20-%20National%20Veterans%20Business%20Development%20Corporation.md)

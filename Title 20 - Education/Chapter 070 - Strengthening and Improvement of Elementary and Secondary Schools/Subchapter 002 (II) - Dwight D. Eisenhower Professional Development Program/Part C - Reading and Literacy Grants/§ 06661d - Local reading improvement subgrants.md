@@ -26,7 +26,7 @@ A local educational agency that desires to receive a subgrant under this section
 
 &emsp;&emsp;(A) to select one or more programs of reading instruction, developed using scientifically based reading research, to improve reading instruction by all academic teachers for all children in each of the schools selected by the agency under such subsection and, where appropriate, for their parents; and
 
-&emsp;&emsp;(B) to enter into an agreement with a person or entity responsible for the development of each program selected under subparagraph (A), or a person with experience or expertise about the program and its implementation, under which the person or entity agrees to work with the local educational agency and the schools in connection with such implementation and improvement efforts;
+&emsp;&emsp;(B) to enter into an agreement with a person or entity responsible for the development of each program selected under subparagraph (A), or a person with experienceor expertise about the program and its implementation, under which the person or entity agrees to work with the local educational agency and the schools in connection with such implementation and improvement efforts;
 
 &emsp;(2) shall include an assurance that the local educational agency—
 
@@ -76,7 +76,7 @@ To the extent feasible, a local educational agency that desires to receive a gra
 
 &emsp;&emsp;(C) Promoting reading and library programs that provide access to engaging reading material.
 
-&emsp;&emsp;(D) Providing, on a voluntary basis, training to parents of children enrolled in a school selected to receive assistance under this paragraph on how to help their children with school work, particularly in the development of reading skills. Such training may be provided directly by the subgrant recipient, or through a grant or contract with another person. Such training shall be consistent with reading reforms taking place in the school setting. No parent shall be required to participate in such training.
+&emsp;&emsp;(D) Providing, on a voluntary basis, training to parents of children enrolled in aschool selected to receive assistance under this paragraph on how to help their children with school work, particularly in the development of reading skills. Such training may be provided directly by the subgrant recipient, or through a grant or contract with another person. Such training shall be consistent with reading reforms taking place in the school setting. No parent shall be required to participate in such training.
 
 &emsp;&emsp;(E) Carrying out family literacy services based on programs such as the Even Start family literacy model authorized under part B of subchapter I of this chapter, to enable parents to be their child's first and most important teacher.
 

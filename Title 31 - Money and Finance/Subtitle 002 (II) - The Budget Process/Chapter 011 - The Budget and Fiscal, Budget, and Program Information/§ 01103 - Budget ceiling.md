@@ -1,6 +1,6 @@
 ### §1103. Budget ceiling
 
-Congress reaffirms its commitment that budget outlays of the United States Government fora fiscal year may be not more than the receipts of the Government for that year.
+Congress reaffirms its commitment that budget outlays of the United States Government for a fiscal year may be not more than the receipts of the Government for that year.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908.)
 

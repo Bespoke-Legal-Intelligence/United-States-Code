@@ -14,7 +14,7 @@
 
 (b) The Secretary, to the extent he considers proper, may delegate the authority conferred by this section to any person in the Department of the Navy, with or without the authority to make successive redelegations.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 442; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L.96–513, title V, §513(24), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 98–525, title XIV, §1401(j)(3)(A), (B), Oct. 19, 1984, 98 Stat. 2620; Pub. L. 99–145, title XIII, §1303(a)(23), Nov. 8, 1985, 99 Stat. 739.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 442; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, §513(24), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 98–525, title XIV, §1401(j)(3)(A), (B), Oct. 19, 1984, 98 Stat. 2620; Pub. L. 99–145, title XIII, §1303(a)(23), Nov. 8, 1985, 99 Stat. 739.)
 
 Historical and Revision Notes
 
@@ -50,7 +50,7 @@ In subsection (b) the words “except the authority to prescribe regulations” 
 
 1984—Pub. L. 98–525, §1401(j)(3)(B), struck out “; transportation of dependents” in section catchline.
 
-Subsec. (a). Pub. L. 98–525, §1401(j)(3)(A), substituted “The Secretary of the Navy may” for “The Secretary of the Navy may—”, struck out “(1)” before “contribute out of”, thereby eliminating paragraph designation, redesignated cls. (A) to (D) as (1) to (4), respectively, substituted “the activity.” for “the activity; and”, and struck out par. (2), which provided for transportation between the schools and the activity when the schools are not accessible by regular means of transportation.
+Subsec. (a). Pub. L. 98–525, §1401(j)(3)(A), substituted “The Secretary of the Navy may” for “The Secretaryof the Navy may—”, struck out “(1)” before “contribute out of”, thereby eliminating paragraph designation, redesignated cls. (A) to (D) as (1) to (4), respectively, substituted “the activity.” for “the activity; and”, and struck out par. (2), which provided for transportation between the schools and the activity when the schools are not accessible by regular means of transportation.
 
 1980—Subsec. (a)(1)(D). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 

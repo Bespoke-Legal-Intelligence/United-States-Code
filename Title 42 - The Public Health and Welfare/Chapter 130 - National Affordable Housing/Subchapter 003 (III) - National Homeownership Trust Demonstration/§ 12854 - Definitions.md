@@ -4,7 +4,7 @@ For purposes of this subchapter:
 
 #### (1) Board of Directors
 
-&emsp;The term “Board of Directors” or “Board” means the Board of Directors of the National Homeownership Trust under section 12851(b) of this title.
+&emsp;The term “Board of Directors” or “Board” means the Board of Directors of the NationalHomeownership Trust under section 12851(b) of this title.
 
 #### (2) Displaced homemaker
 

@@ -36,11 +36,9 @@ Eligibility of Dependents of Federal Employees.—(1)(A) A dependent of a Federa
 
 (D) Subparagraph (A) shall not apply to a dependent covered by paragraph (1)(B). No requirement under this paragraph for reimbursement for educational services provided for the dependent shall apply with respect to the dependent, except that the Secretary may require the United States Customs Service to reimburse the Secretary for the cost of the educational services provided for the dependent.
 
-(3) A dependent of a Federal employee may continue enrollment in a program under this subsection for the remainder of a school year notwithstanding a change during such school year in the status of the Federal employee that, except for this paragraph, would otherwise terminate the eligibility of the dependent to be enrolled in the program. The preceding sentence does not limit the authority of the Secretary to remove the dependent from enrollment in the program at any time for good cause determined by the Secretary.
-
 (d)
 
-School Boards.—(1) The Secretary of Defense shall provide for the establishment of a school board for Department of Defense elementary and secondary schools established at each military installation under this section.
+School Boards.—(1) The Secretary of Defense shall provide for the establishment of a school board for Department of Defense elementary and secondary schools established at each military installation under this section. The Secretary may provide for the establishment of one school board for all such schools in the Commonwealth of Puerto Rico and one school board for all such schools in Guam instead of one school board for each military installation in those locations.
 
 (2) The school board shall be composed of the number of members, not fewer than three, prescribed by the Secretary.
 
@@ -124,7 +122,15 @@ Substantive and Procedural Rights and Protections for Children.—(1) The Secret
 
 Reimbursement.—When the Secretary of Defense provides educational services under this section to an individual who is a dependent of an employee of a Federal agency outside the Department of Defense, the head of the other Federal agency shall, upon request of the Secretary of Defense, reimburse the Secretary for those services at rates routinely prescribed by the Secretary for those services. Any payments received by the Secretary under this subsection shall be credited to the account designated by the Secretary for the operation of educational programs under this section.
 
-(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L. 104–106, div. A, title X, §1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, §1608, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–261, div. A, title III, §371(a)–(c)(2), Oct. 17, 1998, 112 Stat. 1988, 1989.)
+(h)
+
+Continuation of Enrollment Despite Change in Status.—(1) The Secretary of Defense shall permit a dependent of a member of the armed forces or a dependent of a Federal employee to continue enrollment in an educational program provided by the Secretary pursuant to subsection (a) for the remainder of a school year notwithstanding a change during such school year in the status of the member or Federal employee that, except for this paragraph, would otherwise terminate the eligibility of the dependent to be enrolled in the program.
+
+(2) The Secretary may, for good cause, authorize a dependent of a member of the armed forces or a dependent of a Federal employee to continue enrollment in an educational program provided by the Secretary pursuant to subsection (a) notwithstanding a change in the status of the member or employee that, except for this paragraph, would otherwise terminate the eligibility of the dependent to be enrolled in the program. The enrollment may continue for as long as the Secretary considers appropriate.
+
+(3) Paragraphs (1) and (2) do not limit the authority of the Secretary to remove a dependent from enrollment in an educational program provided by the Secretary pursuant to subsection (a) at any time for good cause determined by the Secretary.
+
+(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L. 104–106, div. A, title X, §1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, §1608, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–261, div. A, title III, §371(a)–(c)(2), Oct. 17, 1998, 112 Stat. 1988, 1989; Pub. L. 106–65, div. A, title III, §§352, 353, Oct. 5, 1999, 113 Stat. 572.)
 
 #### References in Text
 
@@ -138,13 +144,19 @@ Section 6(a) of Public Law 81–874 (20 U.S.C. 241(a)), referred to in subsec. (
 
 #### Amendments
 
+1999—Subsec. (c)(3). Pub. L. 106–65, §353(1), struck out par. (3) which read as follows: “A dependent of a Federal employee may continue enrollment in a program under this subsection for the remainder of a school year notwithstanding a change during such school year in the status of the Federal employee that, except for this paragraph, would otherwise terminate the eligibility of the dependent to be enrolled in the program. The preceding sentence does not limit the authority of the Secretary to remove the dependent from enrollment in the program at any time for good cause determined by the Secretary.”
+
+Subsec. (d)(1). Pub. L. 106–65, §352, inserted at end “The Secretary may provide for the establishment of one school board for all such schools in the Commonwealth of Puerto Rico and one school board for all such schools in Guam instead of one school board for each military installation in those locations.”
+
+Subsec. (h). Pub. L. 106–65, §353(2), added subsec. (h).
+
 1998—Subsec. (a). Pub. L. 105–261, §371(a)(1), (2), designated first sentence as par. (1) and second sentence as par. (2).
 
 Subsec. (a)(2). Pub. L. 105–261, §371(a)(3), inserted at end “If a member of the armed forces is assigned to a remote location or is assigned to an unaccompanied tour of duty, a dependent of the member who resides, on or off a military installation, in a territory, commonwealth, or possession of the United States, as authorized by the member's orders, may be enrolled in an educational program provided by the Secretary under this subsection.”
 
 Subsec. (c)(1). Pub. L. 105–261, §371(c)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (c)(2)(B). Pub. L. 105–261, §371(b), added subpar. (B) and struck out former subpar. (B) which read as follows: “A dependent referred to in subparagraph (A) may be enrolled in the program for more than five consecutive school years if the Secretary determines that, in the interest of the dependent's educational well-being, there is good cause to extend the enrollment for more than the five-year period described in such subparagraph. Any such extension may be made for only one school year at a time.”
+Subsec. (c)(2)(B). Pub. L. 105–261, §371(b), added subpar. (B) and struck out former subpar. (B) which read as follows: “A dependent referred to in subparagraph\(A) may be enrolled in the program for more than five consecutive school years if the Secretary determines that, in the interest of the dependent's educational well-being, there is good cause to extend the enrollment for more than the five-year period described in such subparagraph. Any such extension may be made for only one school year at a time.”
 
 Subsec. (c)(2)(D). Pub. L. 105–261, §371(c)(2), added subpar. (D).
 

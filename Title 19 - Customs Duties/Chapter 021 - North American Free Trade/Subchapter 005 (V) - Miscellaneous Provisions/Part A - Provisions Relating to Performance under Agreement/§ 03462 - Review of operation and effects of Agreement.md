@@ -4,7 +4,7 @@
 
 By not later than July 1, 1997, the President shall provide to the Congress a comprehensive study on the operation and effects of the Agreement. The study shall include an assessment of the following factors:
 
-&emsp;(1) The net effect of the Agreement on the economy of the United States, including with respect to the United States gross national product, employment, balance of trade, and current account balance.
+&emsp;(1) The net effect of the Agreement on the economy of the United States, including withrespect to the United States gross national product, employment, balance of trade, and current account balance.
 
 &emsp;(2) The industries (including agricultural industries) in the United States that have significantly increased exports to Mexico or Canada as a result of the Agreement, or in which imports into the United States from Mexico or Canada have increased significantly as a result of the Agreement, and the extent of any change in the wages, employment, or productivity in each such industry as a result of the Agreement.
 

@@ -82,7 +82,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (6) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations preventing avoidance of this subsectionthrough cross-ownership arrangements or otherwise.
+&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations preventing avoidance of this subsection through cross-ownership arrangements or otherwise.
 
 #### (f) Treatment of certain property excluded from section 197
 
@@ -150,7 +150,7 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;&emsp;(i) Any costs incurred with respect to any property after the 10th taxable year beginning after the taxable year in which the property was placed in service.
 
-&emsp;&emsp;&emsp;(ii) Any costs incurred after the property is placed in service and before the close of such 10th taxable year if such costs are significant and give rise to a significantincrease in the income from the property which was not included in the estimated income from the property.
+&emsp;&emsp;&emsp;(ii) Any costs incurred after the property is placed in service and before the close of such 10th taxable year if such costs are significant and give rise to a significant increase in the income from the property which was not included in the estimated income from the property.
 
 #### (B) Syndication income from television series
 
@@ -484,7 +484,7 @@ Amendment by section 1901(a)(27)(A) of Pub. L. 94–455 applicable with respect 
 
 Amendment by section 202(c)(3) of Pub. L. 94–455 applicable for taxable years ending after Dec. 31, 1975, see section 202(d) of Pub. L. 94–455, set out as a note under section 1250 of this title.
 
-Section 203(b) of Pub. L. 94–455, as amended by Pub. L. 95–171, §4(b), Nov. 12, 1977, 91 Stat. 1355; Pub. L.95–615, §7(b), Nov. 8, 1978, 92 Stat. 3098, provided that: “The amendments made by paragraphs (1), (3), and (4) of subsection (a) \[amending this section\] shall apply to expenditures paid or incurred after December 31, 1975. The amendment made by paragraph (2) of subsection (a) \[amending this section\] shall apply to expenditures incurred after December 31, 1975.”
+Section 203(b) of Pub. L. 94–455, as amended by Pub. L. 95–171, §4(b), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 95–615, §7(b), Nov. 8, 1978, 92 Stat. 3098, provided that: “The amendments made by paragraphs (1), (3), and (4) of subsection (a) \[amending this section\] shall apply to expenditures paid or incurred after December 31, 1975. The amendment made by paragraph (2) of subsection (a) \[amending this section\] shall apply to expenditures incurred after December 31, 1975.”
 
 \[Section 7(b) of Pub. L. 95–615 \[which amended section 203(b) of Pub. L. 94–455 exactly as that section 203(b) had been amended by Pub. L. 95–171\] to cease to have effect on the day after Nov. 8, 1978, see section 210(a) of Pub. L. 95–615, set out as a Termination Date of 1978 Amendment note under section 61 of this title.\]
 
@@ -546,7 +546,7 @@ Section 203(e) of Pub. L. 97–34, as amended by Pub. L. 99–514, §2, Oct. 22,
 
 #### Class Life System; Application to Real Property; General Rule
 
-Section 5(a) of Pub. L. 93–625, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of buildings and other items of section 1250 property (within the meaning of section 1250(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) placed in service before the effective date of the class lives first prescribed by the Secretary of the Treasury or his delegate under section 167(m) of such Code for the class in which such property falls, if an election under such section 167(m) applies to the taxpayer for the taxable year in which such property is placed in service, the taxpayer may, in accordance with regulations prescribed by the Secretary of the Treasury or his delegate, elect to determine the useful life of such property—
+Section 5(a) of Pub. L. 93–625, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of buildings and other items of section 1250 property (within the meaning of section 1250(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) placed in service before the effective date of the classlives first prescribed by the Secretary of the Treasury or his delegate under section 167(m) of such Code for the class in which such property falls, if an election under such section 167(m) applies to the taxpayer for the taxable year in which such property is placed in service, the taxpayer may, in accordance with regulations prescribed by the Secretary of the Treasury or his delegate, elect to determine the useful life of such property—
 
 &emsp;“(1) under Revenue Procedure 62–21 (as amended and supplemented) as in effect on December 31, 1970, or
 

@@ -70,7 +70,7 @@ If any Indian tribe does not adopt a resolution as provided in subsection (a) of
 
 &emsp;(E) community training and education programs.
 
-(3) There are authorized to be appropriated to carry out the provisions of this subsection$5,000,000 for fiscal year 1993 and such sums as are necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
+(3) There are authorized to be appropriated to carry out the provisions of this subsection $5,000,000 for fiscal year 1993 and such sums as are necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
 
 (Pub. L. 99–570, title IV, §4206, Oct. 27, 1986, 100 Stat. 3207–140; Pub. L. 100–690, title II, §§2203, 2204, Nov. 18, 1988, 102 Stat. 4217; Pub. L. 102–573, title VII, §703(1), Oct. 29, 1992, 106 Stat. 4582.)
 

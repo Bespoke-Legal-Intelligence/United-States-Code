@@ -56,7 +56,7 @@ If an action is brought under subsection (a) or (b) with respect to a partnershi
 
 &emsp;Subsection (c) shall not apply to a partner after the day on which—
 
-&emsp;&emsp;(A) the partnership items of such partner for the partnership taxable year became nonpartnership items by reason of 1 or moreof the events described in subsection (b) of section 6231, or
+&emsp;&emsp;(A) the partnership items of such partner for the partnership taxable year became nonpartnership items by reason of 1 or more of the events described in subsection (b) of section 6231, or
 
 &emsp;&emsp;(B) the period within which any tax attributable to such partnership items may be assessed against that partner expired.
 
@@ -64,7 +64,7 @@ If an action is brought under subsection (a) or (b) with respect to a partnershi
 
 #### (2) To file petition
 
-&emsp;No partner may file a readjustment petition under subsection (b) unless such partner would (after the application of paragraph (1) of this subsection) be treated as a party to the proceeding.
+&emsp;No partner may file a readjustment petition under subsection (b) unless such partner would\(after the application of paragraph (1) of this subsection) be treated as a party to the proceeding.
 
 #### (e) Jurisdictional requirement for bringing action in district court or Court of Federal Claims
 

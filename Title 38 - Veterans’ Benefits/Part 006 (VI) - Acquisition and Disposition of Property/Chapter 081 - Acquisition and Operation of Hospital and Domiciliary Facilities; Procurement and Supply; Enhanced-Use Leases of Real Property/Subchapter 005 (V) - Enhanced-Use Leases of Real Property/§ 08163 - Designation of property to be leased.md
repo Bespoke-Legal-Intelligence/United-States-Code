@@ -8,23 +8,29 @@
 
 &emsp;(3) services to veterans in the community.
 
-(b) Before conducting such a hearing, the Secretary shall provide reasonable notice of the proposed designation and of the hearing. The notice shall include—
+(b) Before conducting such a hearing, the Secretary shall provide reasonable notice of the proposed designation and of the hearing. The notice shall include the following:
 
-&emsp;(1) the time and place of the hearing;
+&emsp;(1) The time and place of the hearing.
 
-&emsp;(2) identification of the property proposed to be leased;
+&emsp;(2) Identification of the property proposed to be leased.
 
-&emsp;(3) a description of the proposed uses of the property under the lease;
+&emsp;(3) A description of the proposed uses of the property under the lease.
 
-&emsp;(4) a description of how the uses to be made of the property under a lease of the general character then contemplated—
+&emsp;(4) A description of how the uses to be made of the property under a lease of the general character then contemplated—
 
-&emsp;&emsp;(A) would contribute in a cost-effective manner to the mission of the Department;
+&emsp;&emsp;(A) would—
 
-&emsp;&emsp;(B) would not be inconsistent with the mission of the Department; and
+&emsp;&emsp;&emsp;(i) contribute in a cost-effective manner to the mission of the Department;
 
-&emsp;&emsp;(C) would not adversely affect the mission of the Department; and
+&emsp;&emsp;&emsp;(ii) not be inconsistent with the mission of the Department;
 
-&emsp;(5) a description of how those uses would affect services to veterans.
+&emsp;&emsp;&emsp;(iii) not adversely affect the mission of the Department; and
+
+&emsp;&emsp;&emsp;(iv) affect services to veterans; or
+
+&emsp;&emsp;(B) would result in a demonstrable improvement of services to eligible veterans in the geographic service-delivery area within which the property is located.
+
+&emsp;(5) A description of how those uses would affect services to veterans.
 
 (c)(1) If after a hearing under subsection (a) the Secretary intends to designate the property involved, the Secretary shall notify the congressional veterans’ affairs committees of the Secretary's intention to so designate the property and shall publish a notice of such intention in the Federal Register.
 
@@ -42,11 +48,17 @@
 
 &emsp;(E) A description of how the proposed lease—
 
-&emsp;&emsp;(i) would contribute in a cost-effective manner to the mission of the Department;
+&emsp;&emsp;(i) would—
 
-&emsp;&emsp;(ii) would not be inconsistent with the mission of the Department; and
+&emsp;&emsp;&emsp;(I) contribute in a cost-effective manner to the mission of the Department;
 
-&emsp;&emsp;(iii) would not adversely affect the mission of the Department.
+&emsp;&emsp;&emsp;(II) not be inconsistent with the mission of the Department;
+
+&emsp;&emsp;&emsp;(III) not adversely affect the mission of the Department; and
+
+&emsp;&emsp;&emsp;(IV) affect services to veterans; or
+
+&emsp;&emsp;(ii) would result in a demonstrable improvement of services to eligible veterans in the geographic service-delivery area within which the property is located.
 
 &emsp;(F) A description of how the proposed lease would affect services to veterans.
 
@@ -60,5 +72,29 @@
 
 &emsp;(D) a notice of designation with respect to the property.
 
-(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 419.)
+(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 419; amended Pub. L. 106–117, title II, §208(c), Nov. 30, 1999, 113 Stat. 1567.)
+
+#### Amendments
+
+1999—Subsec. (b). Pub. L. 106–117, §208(c)(1)(A), substituted “include the following:” for “include—” in introductory provisions.
+
+Subsec. (b)(1) to (3). Pub. L. 106–117, §208(c)(1)(B), (C), capitalized the first letter of the first word and substituted a period for the semicolon at end.
+
+Subsec. (b)(4). Pub. L. 106–117, §208(c)(1)(B), (D), in introductory provisions, capitalized the first letter of the first word, added subpars. (A) and (B), and struck out former subpars. (A) to (C) which read as follows:
+
+“(A) would contribute in a cost-effective manner to the mission of the Department;
+
+“(B) would not be inconsistent with the mission of the Department; and
+
+“(C) would not adversely affect the mission of the Department; and”.
+
+Subsec. (b)(5). Pub. L. 106–117, §208(c)(1)(B), capitalized the first letter of the first word.
+
+Subsec. (c)(3)(E). Pub. L. 106–117, §208(c)(2), which directed the substitution of cls. (i) and (ii) for cls. (i) to (iii) in subsec. (c)(1)(E), was executed by amending subsec. (c)(3)(E) to reflect the probable intent of Congress. Prior to amendment, cls. (i) to (iii) read as follows:
+
+“(i) would contribute in a cost-effective manner to the mission of the Department;
+
+“(ii) would not be inconsistent with the mission of the Department; and
+
+“(iii) would not adversely affect the mission of the Department.”
 

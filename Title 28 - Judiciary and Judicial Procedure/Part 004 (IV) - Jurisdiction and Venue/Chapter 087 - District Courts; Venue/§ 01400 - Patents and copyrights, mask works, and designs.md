@@ -4,11 +4,7 @@
 
 (b) Any civil action for patent infringement may be brought in the judicial district where the defendant resides, or where the defendant has committed acts of infringement and has a regular and established place of business.
 
-(June 25, 1948, ch. 646, 62 Stat. 936; Pub. L. 100–702, title X, §1020(a)(5), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 105–304, title V, §503(c)(1), (2), Oct. 28, 1998, 112 Stat. 2917.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 505 of Pub. L. 105–304, see Effective and Termination Dates of 1998 Amendment note below.</i>
+(June 25, 1948, ch. 646, 62 Stat. 936; Pub. L. 100–702, title X, §1020(a)(5), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 105–304, title V, §503(c)(1), (2), Oct. 28, 1998, 112 Stat. 2917; Pub. L. 106–44, §2(a), Aug. 5, 1999, 113 Stat. 223.)
 
 #### Historical and Revision Notes
 
@@ -34,15 +30,13 @@ Title 17 of the United States Code was enacted into positive law by act July 30,
 
 #### Amendments
 
-1998—Pub. L. 105–304, §§503(c)(2), 505, temporarily amended section catchline generally, substituting “Patents and copyrights, mask works, and designs” for “Patents and copyrights”. See Effective and Termination Dates of 1998 Amendment note below.
+1999—Pub. L. 106–44 amended section catchline generally so as to read “Patents and copyrights, mask works, and designs”.
 
-Subsec. (a). Pub. L. 105–304, §§503(c)(1), 505, temporarily inserted “or designs” after “mask works”. See Effective and Termination Dates of 1998 Amendment note below.
+1998—Pub. L. 105–304, §503(c)(2), amended section catchline generally, substituting “Patents and copyrights, mask works, and designs” for “Patents and copyrights”.
+
+Subsec. (a). Pub. L. 105–304, §503(c)(1), inserted “or designs” after “mask works”.
 
 1988—Subsec. (a). Pub. L. 100–702 inserted “or exclusive rights in mask works” after “copyrights”.
-
-#### Effective and Termination Dates of 1998 Amendment
-
-Amendment by Pub. L. 105–304 effective Oct. 28, 1998, and to remain in effect until the end of the 2-year period beginning on such date, see section 505 of Pub. L. 105–304, set out as an Effective and Termination Dates note under section 1301 of Title 17, Copyrights.
 
 #### Federal Rules of Civil Procedure
 

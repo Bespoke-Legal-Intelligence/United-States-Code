@@ -6,7 +6,7 @@ Subject to the availability of practical technology and to cost effectiveness, n
 
 &emsp;(1) assist developing countries in correcting micronutrient dietary deficiencies among segments of the populations of the countries; and
 
-&emsp;(2) encourage the development of technologies for the fortification of whole grainsand other commodities that are readily transferable to developing countries.
+&emsp;(2) encourage the development of technologies for the fortification of whole grains and other commodities that are readily transferable to developing countries.
 
 #### (b) Selection of participating countries
 

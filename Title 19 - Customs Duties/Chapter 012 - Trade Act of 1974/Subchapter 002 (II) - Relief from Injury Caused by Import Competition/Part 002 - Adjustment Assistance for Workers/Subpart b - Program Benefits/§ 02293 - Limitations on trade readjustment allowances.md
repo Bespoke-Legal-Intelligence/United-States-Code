@@ -42,7 +42,7 @@ For purposes of this part, a worker shall be treated as participating in trainin
 
 &emsp;(2) the break is provided under such training program.
 
-(Pub. L. 93–618, title II, §233, Jan. 3, 1975, 88 Stat. 2022; Pub. L. 97–35, title XXV, §2505(a), Aug. 13, 1981, 95 Stat. 883; Pub. L. 98–369, div. B, title VI, §2671, July 18, 1984, 98 Stat. 1172; Pub. L. 99–272, title XIII, §13003(d), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §§1423(c), 1425(a), Aug. 23, 1988, 102 Stat. 1246, 1250.)
+(Pub. L. 93–618, title II, §233, Jan. 3, 1975, 88 Stat. 2022; Pub. L. 97–35, title XXV, §2505(a), Aug. 13, 1981, 95 Stat. 883; Pub. L. 98–369, div. B, title VI, §2671, July 18, 1984, 98 Stat. 1172; Pub. L. 99–272, title XIII, §13003(d), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §§1423(c), 1425(a), Aug. 23, 1988, 102 Stat. 1246, 1250; Pub. L. 106–36, title I, §1001(a)(1), June 25, 1999, 113 Stat. 130.)
 
 #### Termination of Section
 
@@ -55,6 +55,8 @@ This chapter, referred to in subsec. (d), was in the original “this Act”, me
 The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (d), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, as amended, which is classified generally as a note under section 3304 of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1999—Subsec. (a)(2). Pub. L. 106–36 realigned margins of introductory provisions and subpars. (A) and (B).
 
 1988—Subsec. (a)(2). Pub. L. 100–418, §1425(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A trade readjustment allowance shall not be paid for any week after the 104-week period beginning with the first week following the first week in the period covered by the certification with respect to which the worker has exhausted (as determined for purposes of section 2291(a)(3)(B) of this title) all rights to that part of his unemployment insurance that is regular compensation.”
 

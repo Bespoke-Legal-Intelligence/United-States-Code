@@ -12,7 +12,7 @@
 
 (f) “Flashing light” means a light flashing at regular intervals at a frequency of 120 flashes or more per minute.
 
-(g) “Special flashing light” means a yellow light flashing at regular intervals at a frequency of 50 to 70 flashes per minute, placed as far forward and as nearly as practicable on the fore and aft centerline of the tow and showing an unbroken light over an arc of the horizon of not less than 180 degrees nor more than 225 degrees and so fixed as to show the light from right ahead to abeam and no more than 22.5 degrees abaft the beam on either side of the vessel.
+(g) “Special flashing light” means a yellow light flashing at regular intervals at a frequencyof 50 to 70 flashes per minute, placed as far forward and as nearly as practicable on the fore and aft centerline of the tow and showing an unbroken light over an arc of the horizon of not less than 180 degrees nor more than 225 degrees and so fixed as to show the light from right ahead to abeam and no more than 22.5 degrees abaft the beam on either side of the vessel.
 
 (Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3423.)
 

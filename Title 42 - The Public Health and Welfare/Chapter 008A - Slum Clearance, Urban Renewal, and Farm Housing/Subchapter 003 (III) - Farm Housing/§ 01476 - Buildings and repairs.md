@@ -10,7 +10,7 @@ The Secretary is further authorized and directed to conduct research, technical 
 
 #### (c) Research, study, and analysis of farm housing
 
-The Secretary is further authorized to carry out a program of research, study, and analysis offarm housing in the United States to develop data and information on—
+The Secretary is further authorized to carry out a program of research, study, and analysis of farm housing in the United States to develop data and information on—
 
 &emsp;(1) the adequacy of existing farm housing;
 

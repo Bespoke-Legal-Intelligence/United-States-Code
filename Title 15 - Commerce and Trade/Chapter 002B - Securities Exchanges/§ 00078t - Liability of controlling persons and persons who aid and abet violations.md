@@ -2,7 +2,7 @@
 
 #### (a) Joint and several liability; good faith defense
 
-Every person who, directly or indirectly, controls any person liable under any provision of this chapter or of any rule or regulation thereunder shall also be liable jointly and severally with and to the same extent as such controlled person to any person to whom such controlled person is liable, unless the controlling person acted in good faith and did not directly or indirectly induce the act or acts constituting the violation or cause of action.
+Every person who, directly or indirectly, controls any person liable under any provision ofthis chapter or of any rule or regulation thereunder shall also be liable jointly and severally with and to the same extent as such controlled person to any person to whom such controlled person is liable, unless the controlling person acted in good faith and did not directly or indirectly induce the act or acts constituting the violation or cause of action.
 
 #### (b) Unlawful activity through or by means of any other person
 

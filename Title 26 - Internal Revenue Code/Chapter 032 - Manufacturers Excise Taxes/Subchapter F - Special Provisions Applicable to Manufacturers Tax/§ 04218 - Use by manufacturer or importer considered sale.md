@@ -6,7 +6,7 @@ If any person manufactures, produces, or imports an article (other than a tire t
 
 #### (b) Tires
 
-If any person manufactures, produces, or imports a tire taxable under section 4071, and sellsit on or in connection with the sale of any article, or uses it, then he shall be liable for tax under this chapter in the same manner as if such article were sold by him.
+If any person manufactures, produces, or imports a tire taxable under section 4071, and sells it on or in connection with the sale of any article, or uses it, then he shall be liable for tax under this chapter in the same manner as if such article were sold by him.
 
 #### (c) Computation of tax
 

@@ -24,7 +24,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 460ii–1, 460ii–2, 460ii–3, 460ii–4, 460ii–5 of this title.
+This chapter is referred to in sections 460ii–3, 460ii–4 of this title.
 
 
 ---

@@ -30,7 +30,7 @@ The Secretary shall approve the plan submitted by a State under subsection (b) o
 
 &emsp;(9) requires manufacturers, distributors, and dealers in such State to make reports to the Secretary in the same manner and to the same extent as if the State plan were not in effect;
 
-&emsp;(10) provides that the State agency or agencies will make such reports to the Secretaryin such form and containing such information as the Secretary shall from time to time require; and
+&emsp;(10) provides that the State agency or agencies will make such reports to the Secretary in such form and containing such information as the Secretary shall from time to time require; and
 
 &emsp;(11) complies with such other requirements as the Secretary may by regulation prescribe for the enforcement of this chapter.
 

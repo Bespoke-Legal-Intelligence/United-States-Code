@@ -28,7 +28,7 @@ The prohibitions contained in this section and in sections 3712(b) and 3783 of t
 
 Notwithstanding any other provision of law, no reduction under any order issued pursuant to the Balanced Budget and Emergency Deficit Control Act of 1985 shall apply to the Commission if the implementation of such an order would result in a payment to the Republic of Panama under paragraph 4(c) of article XIII of the Panama Canal Treaty of 1977 and this section.
 
-(Pub. L. 96–70, title I, §1341, Sept. 27, 1979, 93 Stat. 482; Pub. L. 99–368, §6, Aug. 1, 1986, 100 Stat. 776; Pub. L. 100–203, title V, §5426, Dec. 22, 1987,101 Stat. 1330–274; Pub. L. 104–201, div. C, title XXXV, §3548(b)(3), Sept. 23, 1996, 110 Stat. 2869; Pub. L. 105–85, div. C, title XXXV, §3550(d)(7), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–261, div. C, title XXXV, §3512(b), Oct. 17, 1998, 112 Stat. 2271.)
+(Pub. L. 96–70, title I, §1341, Sept. 27, 1979, 93 Stat. 482; Pub. L. 99–368, §6, Aug. 1, 1986, 100 Stat. 776; Pub. L. 100–203, title V, §5426, Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 104–201, div. C, title XXXV, §3548(b)(3), Sept. 23, 1996, 110 Stat. 2869; Pub. L. 105–85, div. C, title XXXV, §3550(d)(7), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–261, div. C, title XXXV, §3512(b), Oct. 17, 1998, 112 Stat. 2271.)
 
 #### References in Text
 

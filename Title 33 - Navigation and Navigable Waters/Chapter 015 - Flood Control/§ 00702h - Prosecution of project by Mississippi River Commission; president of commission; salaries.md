@@ -4,7 +4,7 @@ The project herein authorized shall be prosecuted by the Mississippi River Commi
 
 The official salary of any officer of the United States Army or other branch of the Government appointed or employed under sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702<i>l</i>, 702m, and 704 of this title shall be deducted from the amount of salary or compensation provided by, or which shall be fixed under, the terms of such sections.
 
-(May 15, 1928, ch. 569, §8, 45 Stat. 537; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
+(May 15, 1928, ch. 569, §8, 45 Stat. 537; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 106–53, title V, §558, Aug. 17, 1999, 113 Stat. 354.)
 
 #### References in Text
 
@@ -12,7 +12,11 @@ Herein, referred to in text, means act May 15, 1928, ch. 569, 45 Stat. 534, as a
 
 #### Codification
 
-Provisions of the second paragraph that read: “The salary of the president of the Mississippi River Commission shall hereafter be $10,000 per annum, and the salary of the other members of the commission shall hereafter be $7,500 per annum.” were omitted as obsolete and superseded by the Classification Act of 1949, 63 Stat. 954, 972. The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632, and reenacted as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees. Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+Provisions of the second paragraph, as amended by Pub. L. 106–53, that read: “The salary of the president of the Mississippi River Commission shall hereafter be $10,000 per annum, and the salary of the other members of the commission shall hereafter be $21,500 per annum.” were omitted as obsolete and superseded by the Classification Act of 1949, 63 Stat. 954, 972. The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632, and reenacted as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees. Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+
+#### Amendments
+
+1999—Pub. L. 106–53 amended provisions which were omitted from the second paragraph by substituting “$21,500” for “$7,500”. See Codification note above.
 
 #### Change of Name
 

@@ -28,5 +28,5 @@ It is the sense of Congress that—
 
 #### Codification
 
-Section was enacted as part of the Western Hemisphere Drug Elimination Act, and also as part of theOmnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+Section was enacted as part of the Western Hemisphere Drug Elimination Act, and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 

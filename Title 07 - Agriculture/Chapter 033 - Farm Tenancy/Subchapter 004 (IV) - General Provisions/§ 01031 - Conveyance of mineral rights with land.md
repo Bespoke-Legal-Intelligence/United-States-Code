@@ -10,7 +10,7 @@ This Act, referred to in text, is act Aug. 14, 1946, ch. 964, 60 Stat. 1062, as 
 
 #### Codification
 
-Section was enacted as part of the Farmers’ Home Administration Act of 1946, and not as part of theBankhead-Jones Farm Tenant Act which constitutes a major part of this chapter.
+Section was enacted as part of the Farmers’ Home Administration Act of 1946, and not as part of the Bankhead-Jones Farm Tenant Act which constitutes a major part of this chapter.
 
 #### Transfer of Functions
 

@@ -54,7 +54,7 @@ For purposes of subsections (a) and (b), in the case of communications services 
 
 #### Repeal
 
-<i>This subchapter, relating to the tax on communications, was repealed by Pub. L. 90–364, title I, §105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, §702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, §201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been</i><i>rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981.</i>
+<i>This subchapter, relating to the tax on communications, was repealed by Pub. L. 90–364, title I, §105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, §702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, §201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981.</i>
 
 <i>Pub. L. 96–499, title XI, §1151, Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97–34, title VIII, §821, Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–248, title II, §282(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 98–369, div. A, title I, §26, July 18, 1984, 98 Stat. 507; Pub. L. 99–514, title XVIII, §1801(b), Oct. 22, 1986, 100 Stat. 2785; Pub. L. 100–203, title X, §10501, Dec. 22, 1987, 101 Stat. 1330–438; Pub. L. 101–508, title XI, §11217(a), Nov. 5, 1990, 104 Stat. 1388–437, amended section 4251 of this title, relating to the imposition of the tax on communications, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date, without amending Pub. L. 90–364, title I, §105(b)(3), June 28, 1968, 82 Stat. 266, which, as amended, had repealed this subchapter, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982.</i>
 
@@ -88,7 +88,7 @@ For purposes of subsections (a) and (b), in the case of communications services 
 
 1984—Subsec. (b)(2). Pub. L. 98–369 substituted “During 1983, 1984, 1986, or 1987” for “During 1983, 1984, or 1985” in item relating to an applicable percentage of 3 and substituted “During 1988 or thereafter” for “During 1986 or thereafter” in item relating to an applicable percentage of 0.
 
-1982—Subsec. (a). Pub. L. 97–248 added subsec. (a) and struck out former subsec. (a) which provided that there was a tax on communication services specified as local telephone service, toll telephone service, and teletypewriter exchange service, directed that the tax was to be paid by the person paying for such services, and designated the tax as the percentage of the amount paid for the services as set out in the following table:
+1982—Subsec. (a). Pub. L. 97–248 added subsec. (a) and struck out former subsec. (a) which provided that there was a tax on communication services specified as local telephone service, toll telephone service, and teletypewriter exchange service, directed that the tax was to bepaid by the person paying for such services, and designated the tax as the percentage of the amount paid for the services as set out in the following table:
 
 &nbsp;
 
@@ -137,7 +137,7 @@ Pub. L. 90–285 substituted “March 1, 1968,” for “February 1, 1968”, �
 
 Subsec. (c). Pub. L. 89–368, §202(a)(2), conformed subsection to rate reduction schedule alterations by providing that, in the case of communications services rendered before February 1, 1968, for which a bill has not been rendered before April 1, 1968, the bill shall be treated as having been first rendered on March 31, 1968, and, in the case of services rendered after January 31, 1968, and before November 1, 1968, for which a bill has not been rendered before January 1, 1969, the bill shall be treated as having first been rendered on December 31, 1968.
 
-1965—Subsec. (a). Pub. L. 89–44, §302, substituted local telephone service, toll telephone service, and teletypewriter exchange service, for general telephone service, toll telephone service, telegraph service, teletypewriterexchange service, wire mileage service, and wire and equipment service as the taxed services and reduced the rate of tax to 3 percent during 1966, 2 percent during 1967, and 1 percent during 1968.
+1965—Subsec. (a). Pub. L. 89–44, §302, substituted local telephone service, toll telephone service, and teletypewriter exchange service, for general telephone service, toll telephone service, telegraph service, teletypewriter exchange service, wire mileage service, and wire and equipment service as the taxed services and reduced the rate of tax to 3 percent during 1966, 2 percent during 1967, and 1 percent during 1968.
 
 Subsec. (b). Pub. L. 89–44, §302, added subsec. (b). Pub. L. 89–44, §701(b)(2)(B), repealed former subsec. (b), as in effect June 30, 1965, effective on and after July 1, 1965. Such repealed provision had called for termination of the tax on general telephone service as of July 1, 1965.
 

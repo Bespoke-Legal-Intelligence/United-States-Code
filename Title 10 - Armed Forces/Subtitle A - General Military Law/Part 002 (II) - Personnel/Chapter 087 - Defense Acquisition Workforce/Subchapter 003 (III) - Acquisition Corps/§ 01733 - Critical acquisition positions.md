@@ -10,7 +10,7 @@ Designation of Critical Acquisition Positions.—(1) The Secretary of Defense sh
 
 &emsp;(A) Any acquisition position which—
 
-&emsp;&emsp;(i) in the case of employees, is required to be filled by an employee in a position within grade GS–14 or above of the General Schedule, or in the Senior Executive Service; or
+&emsp;&emsp;(i) in the case of employees, is required to be filled by an employee in a position withingrade GS–14 or above of the General Schedule, or in the Senior Executive Service; or
 
 &emsp;&emsp;(ii) in the case of members of the armed forces, is required to be filled by a commissioned officer of the Army, Navy, Air Force, or Marine Corps who is serving in the grade of lieutenant colonel, or, in the case of the Navy, commander, or a higher grade.
 
@@ -42,11 +42,11 @@ The General Schedule, referred to in subsec. (b)(1)(A)(i), is set out under sect
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as a note undersection 3372 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as a note under section 3372 of Title 5, Government Organization and Employees.
 
 #### Effective Date for Requirement for Corps Members To Fill Critical Acquisition Positions
 
-Section 1209(f) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(b)(3)(C), Apr. 6, 1991, 105 Stat. 119; Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that: “Notwithstanding section 1733(a) of title 10, United States Code (as added by section 1202), the Secretaries of the military departments shall make every effort to fill critical acquisition positions by Acquisition Corps members as soon as possible after the date of the enactment of this Act \[Nov. 5, 1990\]. For each of the first three years after the date of the enactment of this Act, the report of the Under Secretary of Defense for Acquisition and Technology to the Secretary of Defense under section 1762 of such title shall include the number of critical acquisition positions filled by Acquisition Corps members.”
+Pub. L. 101–510, div. A, title XII, §1209(f), Nov. 5, 1990, 104 Stat. 1666, as amended by Pub. L. 102–25, title VII, §704(b)(3)(C), Apr. 6, 1991, 105 Stat. 119; Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that the Secretaries of the military departments were to make every effort to fill critical acquisition positions by Acquisition Corps members as soon as possible after Nov. 5, 1990, and that for each of the first three years after Nov. 5, 1990, the report of the Under Secretary of Defense for Acquisition and Technology to the Secretary of Defense under section 1762 of this title was to include the number of critical acquisition positions filled by Acquisition Corps members.
 
 #### Publication of List of Critical Acquisition Positions
 

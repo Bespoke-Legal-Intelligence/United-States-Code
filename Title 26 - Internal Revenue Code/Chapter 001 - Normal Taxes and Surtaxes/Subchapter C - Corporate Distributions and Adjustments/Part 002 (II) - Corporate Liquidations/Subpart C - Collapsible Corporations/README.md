@@ -9,7 +9,7 @@ Subpart C—Collapsible Corporations
 
 #### Amendments
 
-1976—Pub. L. 94–455, title XIX, §1901(b)(12)(C), (D), Oct. 4, 1976, 90 Stat. 1795, struck out in subpart heading“; Foreign Personal Holding Companies” after “Collapsible Corporations” and item 342 “Liquidation of certain foreign personal holding companies”.
+1976—Pub. L. 94–455, title XIX, §1901(b)(12)(C), (D), Oct. 4, 1976, 90 Stat. 1795, struck out in subpart heading “; Foreign Personal Holding Companies” after “Collapsible Corporations” and item 342 “Liquidation of certain foreign personal holding companies”.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

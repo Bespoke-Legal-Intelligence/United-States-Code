@@ -38,7 +38,7 @@ Merchandise which is introduced or attempted to be introduced into the United St
 
 &emsp;(3) If the importation or entry of the merchandise is subject to quantitative restrictions requiring a visa, permit, license, or other similar document, or stamp from the United States Government or from a foreign government or issuing authority pursuant to a bilateral or multilateral agreement, the merchandise shall be subject to detention in accordance with section 1499 of this title unless the appropriate visa, license, permit, or similar document or stamp is presented to the Customs Service; but if the visa, permit, license, or similar document or stamp which is presented in connection with the importation or entry of the merchandise is counterfeit, the merchandise may be seized and forfeited.
 
-&emsp;(4) If the merchandise is imported or introduced contrary to a provision of law which governs the classification or value of merchandise and there are no issues as to the admissibility of the merchandise into the UnitedStates, it shall not be seized except in accordance with section 1592 of this title.
+&emsp;(4) If the merchandise is imported or introduced contrary to a provision of law which governs the classification or value of merchandise and there are no issues as to the admissibility of the merchandise into the United States, it shall not be seized except in accordance with section 1592 of this title.
 
 &emsp;(5) In any case where the seizure and forfeiture of merchandise are required or authorized by this section, the Secretary may—
 
@@ -50,7 +50,7 @@ Merchandise which is introduced or attempted to be introduced into the United St
 
 #### References in Text
 
-The Controlled Substances Act, referred to in subsec. (c)(1)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (c)(1)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 #### Codification
 

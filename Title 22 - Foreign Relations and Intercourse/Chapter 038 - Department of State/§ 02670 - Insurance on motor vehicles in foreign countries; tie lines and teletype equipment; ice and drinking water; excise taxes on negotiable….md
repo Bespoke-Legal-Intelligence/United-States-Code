@@ -20,7 +20,7 @@ The Secretary of State is authorized to—
 
 &emsp;(i) maintain, improve, and repair properties rented or leased pursuant to authority contained in subsection (h) of this section and furnish fuel, water, and utilities for such properties;
 
-&emsp;(j) provide emergency medical attention and dietary supplements, and other emergency assistance, for United States citizens incarcerated abroad or destitute United States citizens abroad who are unable to obtain such servicesotherwise, such assistance to be provided on a reimbursable basis to the extent feasible;
+&emsp;(j) provide emergency medical attention and dietary supplements, and other emergency assistance, for United States citizens incarcerated abroad or destitute United States citizens abroad who are unable to obtain such services otherwise, such assistance to be provided on a reimbursable basis to the extent feasible;
 
 &emsp;(k) subject to the availability of appropriated funds, obtain insurance on the historic and artistic articles of furniture, fixtures, and decorative objects which may from time-to-time be within the responsibility of the Fine Arts Committee of the Department of State for the Diplomatic Rooms of the Department;
 

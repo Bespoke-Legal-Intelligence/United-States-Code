@@ -1,6 +1,6 @@
 ### §2486. Correction of named breeder
 
-An error as to the naming of a breeder in the application, without deceptive intent, shall not affect validity of plant variety protection and may be corrected at any time by the Secretary in accordance with regulations established by the Secretary or upon order of a federal court before which the matter is called in question. Upon such correction the Secretary shall issue a certificate accordingly. Such correction shall not deprive any person of any rights the person otherwise would have had.
+An error as to the naming of a breeder in the application, without deceptive intent, shall notaffect validity of plant variety protection and may be corrected at any time by the Secretary in accordance with regulations established by the Secretary or upon order of a federal court before which the matter is called in question. Upon such correction the Secretary shall issue a certificate accordingly. Such correction shall not deprive any person of any rights the person otherwise would have had.
 
 (Pub. L. 91–577, title II, §86, Dec. 24, 1970, 84 Stat. 1552; Pub. L. 103–349, §13(n), Oct. 6, 1994, 108 Stat. 3143.)
 

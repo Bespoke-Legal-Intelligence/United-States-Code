@@ -62,7 +62,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 #### (1) Refinancing to secure combined payment
 
-&emsp;An eligible lender may at any time consolidate loans held by it which are made under this section to a borrower, including loans which were made under this section as in effect prior to October 17, 1986, under a single repayment schedule which provides for a single principal payment and a single payment of interest, and shall calculate the repayment period for each included loan from the date of the commencement of repayment of the most recent included loan. Unless the consolidated loan is obtained by a borrower who is electing to obtain variable interest under paragraph (2) or (3), such consolidated loan shall bear interest at the weighted average of the rates of all included loans. The extension of any repayment period of an included loan pursuant to this paragraph shall be reported (if required by them) to the Secretary or guaranty agency insuring the loan, as the case may be, but no additional insurance premiums shall be payable with respect to any such extension. The extension of the repayment period of any included loan shall not require the formal extension of the promissory note evidencing the included loan or the execution of a new promissory note, but shall be treated as an administrativeforbearance of the repayment terms of the included loan.
+&emsp;An eligible lender may at any time consolidate loans held by it which are made under this section to a borrower, including loans which were made under this section as in effect prior to October 17, 1986, under a single repayment schedule which provides for a single principal payment and a single payment of interest, and shall calculate the repayment period for each included loan from the date of the commencement of repayment of the most recent included loan. Unless the consolidated loan is obtained by a borrower who is electing to obtain variable interest under paragraph (2) or (3), such consolidated loan shall bear interest at the weighted average of the rates of all included loans. The extension of any repayment period of an included loan pursuant to this paragraph shall be reported (if required by them) to the Secretary or guaranty agency insuring the loan, as the case may be, but no additional insurance premiums shall be payable with respect to any such extension. The extension of the repayment period of any included loan shall not require the formal extension of the promissory note evidencing the included loan or the execution of a new promissory note, but shall be treated as an administrative forbearance of the repayment terms of the included loan.
 
 #### (2) Refinancing to secure variable interest rate
 
@@ -128,7 +128,7 @@ Subsec. (f). Pub. L. 105–244, §419(2), added subsec. (f).
 
 Subsec. (a). Pub. L. 102–325, §418(b)(1), substituted “subsections (c), (d), and (e)” for “subsections (c) and (d)” and inserted “, who do not have an adverse credit history as determined pursuant to regulations of the Secretary,” after “a dependent student”.
 
-Subsec. (b). Pub. L. 102–325, §418(b)(2), struck out subsec. (b) designation and heading, redesignated par. (3) as subsec. (b), and struck out pars. (1) and (2) which set the annual limit on the amount parents may borrow forone student in any academic year at $4,000 and set the aggregate insured principal amount for insured loans at not to exceed $20,000.
+Subsec. (b). Pub. L. 102–325, §418(b)(2), struck out subsec. (b) designation and heading, redesignated par. (3) as subsec. (b), and struck out pars. (1) and (2) which set the annual limit on the amount parents may borrow for one student in any academic year at $4,000 and set the aggregate insured principal amount for insured loans at not to exceed $20,000.
 
 Subsec. (c). Pub. L. 102–325, §418(b)(4), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -176,7 +176,7 @@ Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Amendment of Note or Other Written Evidence of Loan by Eligible Lender at Request of Borrower; Circumstances; Denial of Request
 

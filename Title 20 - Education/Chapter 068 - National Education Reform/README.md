@@ -85,115 +85,23 @@
 
 |  |  |
 | :--- | ---: |
-| [5881\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005881%20-%20Findings.md) | Findings. |
-| [5882\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005882%20-%20Purpose.md) | Purpose. |
-| (a) | Purpose. |
-| (b) | Congressional intent. |
-| [5883\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005883%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [5884\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005884%20-%20Allotment%20of%20funds.md) | Allotment of funds. |
-| (a) | Reservations of funds. |
-| (b) | State allotments. |
-| (c) | Reallotments. |
-| (d) | Maintenance of effort. |
-| (e) | Direct grants to local educational agencies. |
-| [5885\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005885%20-%20State%20applications.md) | State applications. |
-| (a) | Application. |
-| (b) | First year. |
-| (c) | Subsequent years. |
-| [5886\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005886%20-%20State%20improvement%20plans.md) | State improvement plans. |
-| (a) | Basic scope of plan. |
-| (b) | Plan development. |
-| (c) | Teaching, learning, standards, and assessments. |
-| (d) | Repealed. |
-| (e) | Governance, accountability and management. |
-| (f) | Parental and community support and involvement. |
-| (g) | Making the improvements systemwide. |
-| (h) | Promoting bottom-up reform. |
-| (i) | Dropout strategies. |
-| (j) | Coordination with school-to-work programs. |
-| (k) | Benchmarks and timelines. |
-| (<i>l</i>) | Coordinating strategies. |
-| (m) | Program improvement and accountability. |
-| (n) | Peer review and secretarial approval. |
-| (<i>o</i>) | Regular review. |
-| (p) | Amendments to plan. |
-| (q) | Preexisting State plans and panels. |
-| [5887\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005887%20-%20Secretary%27s%20review%20of%20applications%3B%20payments.md) | Secretary's review of applications; payments. |
-| (a) | First year. |
-| (b) | Second through fifth years. |
-| (c) | Payments. |
-| [5888\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005888%20-%20State%20use%20of%20funds.md) | State use of funds. |
-| (a) | First year. |
-| (b) | Succeeding years. |
-| (c) | Limit on administrative costs. |
-| (d) | Special rule. |
-| [5889\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005889%20-%20Subgrants%20for%20local%20reform%20and%20professional%20development.md) | Subgrants for local reform and professional development. |
-| (a) | Subgrants to local educational agencies. |
-| (b) | Subgrants for preservice teacher education and professional development activities. |
-| (c) | Special award rule. |
-| [5890\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005890%20-%20Availability%20of%20information%20and%20training.md) | Availability of information and training. |
-| (a) | Information and training. |
-| (b) | Waiver. |
-| [5891\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005891%20-%20Waivers%20of%20statutory%20and%20regulatory%20requirements.md) | Waivers of statutory and regulatory requirements. |
-| (a) | Waiver authority. |
+| 5881 to 5891. Repealed. |  |
+| [5891a.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005891a%20-%20Definitions.md) | Definitions. |
+| [5891b.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005891b%20-%20Education%20flexibility%20partnership.md) | Education flexibility partnership. |
+| (a) | Educational flexibility program. |
 | (b) | Included programs. |
 | (c) | Waivers not authorized. |
-| (d) | Termination of waivers. |
-| (e) | Flexibility demonstration. |
-| (f) | Accountability. |
-| (g) | Publication. |
-| [5892\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005892%20-%20Progress%20reports.md) | Progress reports. |
-| (a) | State reports to Secretary. |
-| (b) | Secretary's reports to Congress. |
-| [5893\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005893%20-%20Technical%20and%20other%20assistance%20regarding%20school%20finance%20equity.md) | Technical and other assistance regarding school finance equity. |
-| (a) | Technical assistance. |
-| (b) | Data. |
-| (c) | Models. |
-| [5894\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005894%20-%20National%20leadership.md) | National leadership. |
-| (a) | Technical assistance and integration of standards. |
-| (b) | Reservation of funds. |
-| (c) | Administration. |
-| [5895\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005895%20-%20Assistance%20to%20outlying%20areas%20and%20to%20Secretary%20of%20the%20Interior.md) | Assistance to outlying areas and to Secretary of the Interior. |
-| (a) | Outlying areas. |
-| (b) | Secretary of the Interior. |
-| (c) | Bureau of Indian Affairs cost analysis and studies. |
-| (d) | Secretary of Defense. |
-| (e) | Grants. |
-| (f) | Study. |
-| [5896\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005896%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93134%2C%20title%20I%2C%20%C2%A7101%28d%29%20%5Btitle%20VII%2C%20%C2%A7703%28a%29%2815%29%28A%29%5D%2C%20Apr.%2026%2C%201996%2C%20110%20Stat.%201321%E2%80%93211%2C%201321%E2%80%93254%3B%20renumbered%E2%80%A6.md) | Repealed. |
-| [5897\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005897%20-%20State%20planning%20for%20improving%20student%20achievement%20through%20integration%20of%20technology%20into%20curriculum.md) | State planning for improving student achievement through integration of technology into curriculum. |
-| (a) | Purpose. |
-| (b) | Program authorized. |
-| (c) | Plan objectives. |
-| (d) | Plan requirements. |
-| (e) | Reports. |
-| (f) | Authorization of appropriations. |
-| [5898\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005898%20-%20Prohibition%20on%20Federal%20mandates%2C%20direction%2C%20and%20control.md) | Prohibition on Federal mandates, direction, and control. |
-| [5899\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005899%20-%20State%20and%20local%20government%20control%20of%20education.md) | State and local government control of education. |
-| (a) | Findings. |
-| (b) | Reaffirmation. |
-| [5900\.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005900%20-%20Limitations.md) | Limitations. |
-| (a) | Prohibited conditions. |
-| (b) | Limitation on government officials. |
+| (d) | Treatment of Existing Ed-Flex Partnership States. |
+| (e) | Publication. |
+| 5892 to 5900. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER IV—PARENTAL ASSISTANCE
 
-|  |  |
-| :--- | ---: |
-| [5911\.](Subchapter%20004%20%28IV%29%20-%20Parental%20Assistance/%C2%A7%2005911%20-%20Parental%20information%20and%20resource%20centers.md) | Parental information and resource centers. |
-| (a) | Purpose. |
-| (b) | Grants authorized. |
-| [5912\.](Subchapter%20004%20%28IV%29%20-%20Parental%20Assistance/%C2%A7%2005912%20-%20Applications.md) | Applications. |
-| (a) | Grants applications. |
-| (b) | Grant renewal. |
-| [5913\.](Subchapter%20004%20%28IV%29%20-%20Parental%20Assistance/%C2%A7%2005913%20-%20Uses%20of%20funds.md) | Uses of funds. |
-| [5914\.](Subchapter%20004%20%28IV%29%20-%20Parental%20Assistance/%C2%A7%2005914%20-%20Technical%20assistance.md) | Technical assistance. |
-| [5915\.](Subchapter%20004%20%28IV%29%20-%20Parental%20Assistance/%C2%A7%2005915%20-%20Definitions.md) | Definitions. |
-| [5916\.](Subchapter%20004%20%28IV%29%20-%20Parental%20Assistance/%C2%A7%2005916%20-%20Reports.md) | Reports. |
-| [5917\.](Subchapter%20004%20%28IV%29%20-%20Parental%20Assistance/%C2%A7%2005917%20-%20General%20provision.md) | General provision. |
-| [5918\.](Subchapter%20004%20%28IV%29%20-%20Parental%20Assistance/%C2%A7%2005918%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+|  |
+| :--- |
+| 5911 to 5918. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -304,7 +212,7 @@
 
 |  |  |
 | :--- | ---: |
-| [6011\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/%C2%A7%2006011%20-%20Office%20of%20Educational%20Research%20and%20Improvement.md) | Office of Educational Research and Improvement. |
+| [6011\.](Part%20A%20-%20General%20Provisions%20Regarding%20Office%20of%20Educational%20Research%20and%20Improvement/%C2%A7%2006011%20-%20Office%20of%20Educational%20Research%20and%20Improvement.md) | Office of Educational Research and Improvement. |
 | (a) | Declaration of policy regarding educational opportunity. |
 | (b) | Purpose and structure of Office. |
 | (c) | Appointment of employees. |
@@ -325,7 +233,7 @@
 
 |  |  |
 | :--- | ---: |
-| [6021\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20B%20-%20National%20Educational%20Research%20Policy%20and%20Priorities%20Board/%C2%A7%2006021%20-%20Establishment%20within%20Office%20of%20Educational%20Research%20and%20Improvement.md) | Establishment within Office of Educational Research and Improvement. |
+| [6021\.](Part%20A%20-%20General%20Provisions%20Regarding%20Office%20of%20Educational%20Research%20and%20Improvement/Part%20B%20-%20National%20Educational%20Research%20Policy%20and%20Priorities%20Board/%C2%A7%2006021%20-%20Establishment%20within%20Office%20of%20Educational%20Research%20and%20Improvement.md) | Establishment within Office of Educational Research and Improvement. |
 | (a) | In general. |
 | (b) | Functions. |
 | (c) | Additional responsibilities of Board. |
@@ -346,7 +254,7 @@
 
 |  |  |
 | :--- | ---: |
-| [6031\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20C%20-%20National%20Research%20Institutes/%C2%A7%2006031%20-%20Establishment%20within%20Office%20of%20Educational%20Research%20and%20Improvement.md) | Establishment within Office of Educational Research and Improvement. |
+| [6031\.](Part%20A%20-%20General%20Provisions%20Regarding%20Office%20of%20Educational%20Research%20and%20Improvement/Part%20C%20-%20National%20Research%20Institutes/%C2%A7%2006031%20-%20Establishment%20within%20Office%20of%20Educational%20Research%20and%20Improvement.md) | Establishment within Office of Educational Research and Improvement. |
 | (a) | Establishment of Institutes. |
 | (b) | Directors. |
 | (c) | Authorities and duties. |
@@ -364,7 +272,7 @@
 
 |  |  |
 | :--- | ---: |
-| [6041\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20D%20-%20National%20Education%20Dissemination%20System/%C2%A7%2006041%20-%20Establishment%20within%20Office%20of%20Educational%20Research%20and%20Improvement.md) | Establishment within Office of Educational Research and Improvement. |
+| [6041\.](Part%20A%20-%20General%20Provisions%20Regarding%20Office%20of%20Educational%20Research%20and%20Improvement/Part%20D%20-%20National%20Education%20Dissemination%20System/%C2%A7%2006041%20-%20Establishment%20within%20Office%20of%20Educational%20Research%20and%20Improvement.md) | Establishment within Office of Educational Research and Improvement. |
 | (a) | In general. |
 | (b) | Establishment of Office. |
 | (c) | Identification of programs. |
@@ -381,7 +289,7 @@
 
 |  |  |
 | :--- | ---: |
-| [6051\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20E%20-%20National%20Library%20of%20Education/%C2%A7%2006051%20-%20Establishment%20within%20Office%20of%20Educational%20Research%20and%20Improvement.md) | Establishment within Office of Educational Research and Improvement. |
+| [6051\.](Part%20A%20-%20General%20Provisions%20Regarding%20Office%20of%20Educational%20Research%20and%20Improvement/Part%20E%20-%20National%20Library%20of%20Education/%C2%A7%2006051%20-%20Establishment%20within%20Office%20of%20Educational%20Research%20and%20Improvement.md) | Establishment within Office of Educational Research and Improvement. |
 | (a) | In general. |
 | (b) | Functions of Library. |
 | (c) | Mission. |
@@ -458,4 +366,5 @@ This chapter is referred to in sections 6102, 6103, 6112, 6123, 6124, 6143, 6144
 - [Subchapter 007 (VII) - Safe Schools](Subchapter%20007%20%28VII%29%20-%20Safe%20Schools/README.md)
 - [Subchapter 008 (VIII) - Minority-Focused Civics Education](Subchapter%20008%20%28VIII%29%20-%20Minority-Focused%20Civics%20Education/README.md)
 - [Subchapter 009 (IX) - Educational Research and Improvement](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/README.md)
+- [Part A - General Provisions Regarding Office of Educational Research and Improvement](Part%20A%20-%20General%20Provisions%20Regarding%20Office%20of%20Educational%20Research%20and%20Improvement/README.md)
 - [Subchapter 010 (X) - Miscellaneous](Subchapter%20010%20%28X%29%20-%20Miscellaneous/README.md)

@@ -2,7 +2,7 @@ subpart 2—state and local programs for school technology resources
 
 #### Subpart Referred to in Other Sections
 
-This subpart is referred to in sections 6814, 8801 of this title.
+This subpart is referred to in sections 5891b, 6814, 8801 of this title.
 
 
 ---

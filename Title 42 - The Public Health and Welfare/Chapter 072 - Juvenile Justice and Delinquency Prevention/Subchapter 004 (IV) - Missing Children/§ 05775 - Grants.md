@@ -2,7 +2,7 @@
 
 #### (a) Authority of Administrator; description of research, demonstration projects, and service programs
 
-The Administrator is authorized to make grants to and enter into contracts with public agencies or nonprofit private organizations, or combinations thereof, for research, demonstration projects, or service programs designed—
+The Administrator is authorized to make grants to and enter into contracts with the Center and with public agencies or nonprofit private organizations, or combinations thereof, for research, demonstration projects, or service programs designed—
 
 &emsp;(1) to educate parents, children, and community agencies and organizations in ways to prevent the abduction and sexual exploitation of children;
 
@@ -46,13 +46,15 @@ In considering grant applications under this subchapter, the Administrator shall
 
 In order to receive assistance under this subchapter for a fiscal year, applicants shall give assurance that they will expend, to the greatest extent practicable, for such fiscal year an amount of funds (without regard to any funds received under any Federal law) that is not less than the amount of funds they received in the preceding fiscal year from State, local, and private sources.
 
-(Pub. L. 93–415, title IV, §405, formerly §406, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2128; renumbered §405 and amended Pub. L. 100–690, title VII, §§7287, 7290(a), Nov. 18, 1988, 102 Stat. 4460, 4461; Pub. L. 101–204, title X, §1004(3), Dec. 7, 1989, 103 Stat. 1828.)
+(Pub. L. 93–415, title IV, §405, formerly §406, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2128; renumbered §405 and amended Pub. L. 100–690, title VII, §§7287, 7290(a), Nov. 18, 1988, 102 Stat. 4460, 4461; Pub. L. 101–204, title X, §1004(3), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, §2(d), Oct. 12, 1999, 113 Stat. 1035.)
 
 #### Prior Provisions
 
 A prior section 405 of Pub. L. 93–415 was classified to section 5774 of this title prior to repeal by Pub. L. 100–690, title VII, §7286, Nov. 18, 1988, 102 Stat. 4460.
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–71 inserted “the Center and with” before “public agencies” in introductory provisions.
 
 1989—Subsec. (a)(9). Pub. L. 101–204 substituted “clearinghouses” for “clearinghouse”.
 

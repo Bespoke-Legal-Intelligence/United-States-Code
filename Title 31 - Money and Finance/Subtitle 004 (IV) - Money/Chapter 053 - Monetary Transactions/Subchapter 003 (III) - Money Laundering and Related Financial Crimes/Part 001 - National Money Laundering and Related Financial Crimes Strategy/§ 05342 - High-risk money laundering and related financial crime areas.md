@@ -34,7 +34,7 @@ Designation by secretary.—The Secretary, after taking into consideration the f
 
 &emsp;(2)
 
-Case-by-case determination in consultation with the attorney general.—In addition to the factors specified in subsection (d), any designation of any area under paragraph (1) shall be made on the basis of a determination by the Secretary, in consultation with the Attorney General, that the particular area, industry, sector, or institution is being victimized by, or is particularly vulnerable to, money laundering and related financial crimes.
+Case-by-case determination in consultation with the attorney general.—Inaddition to the factors specified in subsection (d), any designation of any area under paragraph (1) shall be made on the basis of a determination by the Secretary, in consultation with the Attorney General, that the particular area, industry, sector, or institution is being victimized by, or is particularly vulnerable to, money laundering and related financial crimes.
 
 &emsp;(3)
 
@@ -82,7 +82,7 @@ Factors.—In considering the designation of any area as a high-risk money laund
 
 &emsp;(15) The extent to which State and local governments and State and local law enforcement agencies have committed resources to respond to the financial crime problem in the area and the degree to which the commitment of such resources reflects a determination by such government and agencies to address the problem aggressively.
 
-&emsp;(16) The extent to which a significant increase in the allocation of Federal resourcesto combat financial crimes in such area is necessary to provide an adequate State and local response to financial crimes and financial crime-related activities in such area.
+&emsp;(16) The extent to which a significant increase in the allocation of Federal resources to combat financial crimes in such area is necessary to provide an adequate State and local response to financial crimes and financial crime-related activities in such area.
 
 (Added Pub. L. 105–310, §2(a), Oct. 30, 1998, 112 Stat. 2944.)
 

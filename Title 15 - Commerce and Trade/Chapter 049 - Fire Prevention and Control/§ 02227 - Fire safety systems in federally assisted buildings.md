@@ -14,7 +14,7 @@ For purposes of this section, the following definitions apply:
 
 &emsp;(3) The term “equivalent level of safety” means an alternative design or system (which may include automatic sprinkler systems), based upon fire protection engineering analysis, which achieves a level of safety equal to or greater than that provided by automatic sprinkler systems.
 
-&emsp;(4) The term “Federal employee office building” means any office building in the UnitedStates, whether owned or leased by the Federal Government, that is regularly occupied by more than 25 full-time Federal employees in the course of their employment.
+&emsp;(4) The term “Federal employee office building” means any office building in the United States, whether owned or leased by the Federal Government, that is regularly occupied by more than 25 full-time Federal employees in the course of their employment.
 
 &emsp;(5) The term “housing assistance”—
 
@@ -42,7 +42,7 @@ For purposes of this section, the following definitions apply:
 
 #### (b) Federal employee office buildings
 
-(1)(A) No Federal funds may be used for the construction or purchase of a Federal employee office building of 6 or more stories unless during the period of occupancy by Federal employees the building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the construction or purchase of any other Federal employee office building unless during the period of occupancy by Federal employees the hazardous areas of the building are protected by automatic sprinkler systems or an equivalent level of safety.
+(1)(A) No Federal funds may be used for the construction or purchase of a Federal employeeoffice building of 6 or more stories unless during the period of occupancy by Federal employees the building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the construction or purchase of any other Federal employee office building unless during the period of occupancy by Federal employees the hazardous areas of the building are protected by automatic sprinkler systems or an equivalent level of safety.
 
 (B)(i) Except as provided in clause (ii), no Federal funds may be used for the lease of a Federal employee office building of 6 or more stories, where at least some portion of the federally leased space is on the sixth floor or above and at least 35,000 square feet of space is federally occupied, unless during the period of occupancy by Federal employees the entire Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the lease of any other Federal employee office building unless during the period of occupancy by Federal employees the hazardous areas of the entire Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
 
@@ -64,7 +64,7 @@ For purposes of this section, the following definitions apply:
 
 (3) No Federal funds may be used for the renovation of a Federal employee office building of 6 or more stories that is owned by the Federal Government unless after that renovation the Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the renovation of any other Federal employee office building that is owned by the Federal Government unless after that renovation the hazardous areas of the Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
 
-(4) No Federal funds may be used for entering into or renewing a lease of a Federal employeeoffice building of 6 or more stories that is renovated after October 26, 1992, where at least some portion of the federally leased space is on the sixth floor or above and at least 35,000 square feet of space is federally occupied, unless after that renovation the Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for entering into or renewing a lease of any other Federal employee office building that is renovated after October 26, 1992, unless after that renovation the hazardous areas of the Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
+(4) No Federal funds may be used for entering into or renewing a lease of a Federal employee office building of 6 or more stories that is renovated after October 26, 1992, where at least some portion of the federally leased space is on the sixth floor or above and at least 35,000 square feet of space is federally occupied, unless after that renovation the Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for entering into or renewing a lease of any other Federal employee office building that is renovated after October 26, 1992, unless after that renovation the hazardous areas of the Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
 
 #### (c) Housing
 
@@ -92,7 +92,7 @@ For purposes of this section, the following definitions apply:
 
 &emsp;(I) that is newly constructed after October 26, 1992; and
 
-&emsp;(II) for which (a) housing assistance is used for such new construction, or (b) a binding commitment is made, before commencement of such construction, to provide housing assistance for the newly constructed property.
+&emsp;(II) for which (a) housing assistance is used for such new construction, or (b) a bindingcommitment is made, before commencement of such construction, to provide housing assistance for the newly constructed property.
 
 (iii) Clause (i) shall not apply to any multifamily property for which, before October 26, 1992, a binding commitment is made to provide housing assistance for the new construction of the property or for the newly constructed property.
 

@@ -19,6 +19,8 @@
 |  |  |
 | :--- | ---: |
 | [1710\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001710%20-%20Eligibility%20for%20hospital%2C%20nursing%20home%2C%20and%20domiciliary%20care.md) | Eligibility for hospital, nursing home, and domiciliary care. |
+| [1710A.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001710A%20-%20Required%20nursing%20home%20care.md) | Required nursing home care. |
+| [1710B.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001710B%20-%20Extended%20care%20services.md) | Extended care services. |
 | [1711\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001711%20-%20Care%20during%20examinations%20and%20in%20emergencies.md) | Care during examinations and in emergencies. |
 | [1712\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001712%20-%20Dental%20care%3B%20drugs%20and%20medicines%20for%20certain%20disabled%20veterans%3B%20vaccines.md) | Dental care; drugs and medicines for certain disabled veterans; vaccines. |
 | [1712A.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001712A%20-%20Eligibility%20for%20readjustment%20counseling%20and%20related%20mental%20health%20services.md) | Eligibility for readjustment counseling and related mental health services. |
@@ -48,11 +50,13 @@
 | [1722A.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001722A%20-%20Copayment%20for%20medications.md) | Copayment for medications. |
 | [1723\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001723%20-%20Furnishing%20of%20clothing.md) | Furnishing of clothing. |
 | [1724\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001724%20-%20Hospital%20care%2C%20medical%20services%2C%20and%20nursing%20home%20care%20abroad.md) | Hospital care, medical services, and nursing home care abroad. |
+| [1725\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001725%20-%20Reimbursement%20for%20emergency%20treatment.md) | Reimbursement for emergency treatment. |
 | [1726\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001726%20-%20Reimbursement%20for%20loss%20of%20personal%20effects%20by%20natural%20disaster.md) | Reimbursement for loss of personal effects by natural disaster. |
 | [1727\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001727%20-%20Persons%20eligible%20under%20prior%20law.md) | Persons eligible under prior law. |
 | [1728\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001728%20-%20Reimbursement%20of%20certain%20medical%20expenses.md) | Reimbursement of certain medical expenses. |
 | [1729\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001729%20-%20Recovery%20by%20the%20United%20States%20of%20the%20cost%20of%20certain%20care%20and%20services.md) | Recovery by the United States of the cost of certain care and services. |
 | [1729A.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001729A%20-%20Department%20of%20Veterans%20Affairs%20Medical%20Care%20Collections%20Fund.md) | Department of Veterans Affairs Medical Care Collections Fund. |
+| [1729B.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001729B%20-%20Health%20Services%20Improvement%20Fund.md) | Health Services Improvement Fund. |
 | [1730\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001730%20-%20Community%20residential%20care.md) | Community residential care. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -104,6 +108,8 @@
 
 #### Amendments
 
+1999—Pub. L. 106–117, title I, §§101(a)(2), (c)(2), 111(b)(2), title II, §202(b), Nov. 30, 1999, 113 Stat. 1548, 1549, 1556, 1561, added items 1710A, 1710B, 1725, and 1729B.
+
 1998—Pub. L. 105–368, title IX, §901(b), Nov. 11, 1998, 112 Stat. 3360, added item 1720E.
 
 1997—Pub. L. 105–114, title II, §§202(d), 206(b)(3), Nov. 21, 1997, 111 Stat. 2287, 2289, substituted “Treatment and rehabilitative services for persons with drug or alcohol dependency” for “Treatment and rehabilitation for alcohol or drug dependence or abuse disabilities” in item 1720A, struck out “: pilot program” after “home care” in item 1720C, and added item for subchapter VII and items 1771 to 1774.
@@ -150,7 +156,7 @@ Pub. L. 99–272, title XIX, §§19011(c)(2), 19012(b)(2), Apr. 7, 1986, 100 Sta
 
 1976—Pub. L. 94–581, title II, §§202(a), 203(b), Oct. 21, 1976, 90 Stat. 2855, 2856, inserted “NURSING HOME,” in chapter heading, and, in analysis of subchapter headings and section catchlines, inserted “, NURSING HOME” in item for subchapter II, inserted “, nursing home” in item 610, substituted “Care” for “Hospitalization” in item 611, and inserted “AND NURSING HOME” in item for subchapter III.
 
-1973—Pub. L. 93–82, title I, §§103(c), 106(b), 107(b), 109(b), Aug. 2, 1973, 87 Stat. 182, 184, 186, 187, substituted“Medical care for survivors and dependents of certain veterans” and “Fitting and training in use of prosthetic appliances; seeing-eye dogs” for “Fitting and training in use of prosthetic appliances” and “Seeing-eye dogs” in items 613 and 614 respectively, substituted “natural disaster” for “fire” in item 626, added item 628, substituted “Assistance to the Republic of the Philippines” and “Contracts and grants to provide hospital care, medical services and nursing home care” for “Grants to the Republic of the Philippines” and “Modification of agreement with the Republic of the Philippines effectuating the Act of July 1, 1948” in items 631 and 632, respectively, and added “SUBCHAPTER VI—SICKLE CELL ANEMIA” comprising items 651 to 654.
+1973—Pub. L. 93–82, title I, §§103(c), 106(b), 107(b), 109(b), Aug. 2, 1973, 87 Stat. 182, 184, 186, 187, substituted “Medical care for survivors and dependents of certain veterans” and “Fitting and training in use of prosthetic appliances; seeing-eye dogs” for “Fitting and training in use of prosthetic appliances” and “Seeing-eye dogs” in items 613 and 614 respectively, substituted “natural disaster” for “fire” in item 626, added item 628, substituted “Assistance to the Republic of the Philippines” and “Contracts and grants to provide hospital care, medical services and nursing home care” for “Grants to the Republic of the Philippines” and “Modification of agreement with the Republic of the Philippines effectuating the Act of July 1, 1948” in items 631 and 632, respectively, and added “SUBCHAPTER VI—SICKLE CELL ANEMIA” comprising items 651 to 654.
 
 Pub. L. 93–43, §4(c)(2), June 18, 1973, 87 Stat. 79, struck out item 625 “Arrests for crimes in hospitals and domiciliary reservations”.
 

@@ -56,13 +56,13 @@ A State is an incentive-eligible State for a fiscal year if—
 
 &emsp;For any fiscal year, if the total amount of adoption incentive payments otherwise payable under this section for a fiscal year exceeds the amount appropriated pursuant to subsection (h) of this section for the fiscal year, the amount of the adoption incentive payment payable to each State under this section for the fiscal year shall be—
 
-&emsp;&emsp;(A) the amount of the adoption incentive payment that would otherwise be payable tothe State under this section for the fiscal year; multiplied by
+&emsp;&emsp;(A) the amount of the adoption incentive payment that would otherwise be payable to the State under this section for the fiscal year; multiplied by
 
 &emsp;&emsp;(B) the percentage represented by the amount so appropriated for the fiscal year, divided by the total amount of adoption incentive payments otherwise payable under this section for the fiscal year.
 
 #### (e) 2-year availability of incentive payments
 
-Payments to a State under this section in a fiscal year shall remain available for use by the State through the end of the succeeding fiscal year.
+Payments to a State under this section in a fiscal year shall remain available for use by theState through the end of the succeeding fiscal year.
 
 #### (f) Limitations on use of incentive payments
 
@@ -100,7 +100,13 @@ As used in this section:
 
 #### (1) In general
 
-&emsp;For grants under subsection (a) of this section, there are authorized to be appropriated to the Secretary $20,000,000 for each of fiscal years 1999 through 2003.
+&emsp;For grants under subsection (a) of this section, there are authorized to be appropriated to the Secretary—
+
+&emsp;&emsp;(A) $20,000,000 for fiscal year 1999;
+
+&emsp;&emsp;(B) $43,000,000 for fiscal year 2000; and
+
+&emsp;&emsp;(C) $20,000,000 for each of fiscal years 2001 through 2003.
 
 #### (2) Availability
 
@@ -136,13 +142,35 @@ As used in this section:
 
 &emsp;To carry out this subsection, there are authorized to be appropriated to the Secretary of Health and Human Services not to exceed $10,000,000 for each of fiscal years 1998 through 2000.
 
-(Aug. 14, 1935, ch. 531, title IV, §473A, as added Pub. L. 105–89, title II, §201(a), Nov. 19, 1997, 111 Stat. 2122; Pub. L. 105–200, title IV, §410(f), July 16, 1998, 112 Stat. 673.)
+#### (j) Supplemental grants
+
+#### (1) In general
+
+&emsp;Subject to the availability of such amounts as may be provided in advance in appropriations Acts, in addition to any amount otherwise payable under this section to any State that is an incentive-eligible State for fiscal year 1998, the Secretary shall make a grant to the State in an amount equal to the lesser of—
+
+&emsp;&emsp;(A) the amount by which—
+
+&emsp;&emsp;&emsp;(i) the amount that would have been payable to the State under this section during fiscal year 1999 (on the basis of adoptions in fiscal year 1998) in the absence of subsection (d)(2) of this section if sufficient funds had been available for the payment; exceeds
+
+&emsp;&emsp;&emsp;(ii) the amount that, before December 14, 1999, was payable to the State under thissection during fiscal year 1999 (on such basis); or
+
+&emsp;&emsp;(B) the amount that bears the same ratio to the dollar amount specified in paragraph (2) as the amount described by subparagraph (A) for the State bears to the aggregate of the amounts described by subparagraph (A) for all States that are incentive-eligible States for fiscal year 1998.
+
+#### (2) Funding
+
+&emsp;$23,000,000 of the amounts appropriated under subsection (h)(1) of this section for fiscal year 2000 may be used for grants under paragraph (1) of this subsection.
+
+(Aug. 14, 1935, ch. 531, title IV, §473A, as added Pub. L. 105–89, title II, §201(a), Nov. 19, 1997, 111 Stat. 2122; Pub. L. 105–200, title IV, §410(f), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title I, §131, Dec. 14, 1999, 113 Stat. 1830.)
 
 #### References in Text
 
 Part B of this subchapter, referred to in subsec. (f), is classified to section 620 et seq. of this title.
 
 #### Amendments
+
+1999—Subsec. (h)(1). Pub. L. 106–169, §131(b), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “For grants under subsection (a) of this section, there are authorized to be appropriated to the Secretary $20,000,000 for each of fiscal years 1999 through 2003.”
+
+Subsec. (j). Pub. L. 106–169, §131(a), added subsec. (j).
 
 1998—Subsec. (c)(2)(B). Pub. L. 105–200 substituted “April 30, 1998” for “November 30, 1997” and “July 1, 1998” for “March 1, 1998”.
 

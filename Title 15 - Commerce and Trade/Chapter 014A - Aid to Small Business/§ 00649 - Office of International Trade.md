@@ -6,7 +6,7 @@ There is established within the Administration an Office of International Trade 
 
 #### (b) Development of distribution network; marketing of programs and dissemination of information; bilingual job applicants
 
-The Office, working in close cooperation with the Department of Commerce and other relevant Federal agencies, Small Business Development Centers engaged in export promotion efforts, regional and local Administration offices, the small business community, and relevant State and local export promotion programs, shall—
+The Office, working in close cooperation with the Department of Commerce and other relevant Federal agencies, Small Business DevelopmentCenters engaged in export promotion efforts, regional and local Administration offices, the small business community, and relevant State and local export promotion programs, shall—
 
 &emsp;(1) assist in developing a distribution network for existing trade promotion, trade finance, trade adjustment, trade remedy assistance and trade data collection programs through use of the Administration's regional and local offices and the Small Business Development Center network;
 
@@ -104,7 +104,7 @@ The Office, in cooperation, where appropriate, with the Division of Economic Res
 
 #### Prior Provisions
 
-A prior section 649, act July 30, 1953, ch. 282, title II, §220, 67 Stat. 240, which required a fair charge for useof Government-owned property, was omitted as superseded by section 643 of this title. See Codification note set out under section 631 of this title.
+A prior section 649, act July 30, 1953, ch. 282, title II, §220, 67 Stat. 240, which required a fair charge for use of Government-owned property, was omitted as superseded by section 643 of this title. See Codification note set out under section 631 of this title.
 
 #### Amendments
 

@@ -1,5 +1,5 @@
 
-21 U.S.C.<br>United States Code, 1998 Edition<br>Title 21 - FOOD AND DRUGS<br>From the U.S. Government Publishing Office, www.gpo.gov
+21 U.S.C.<br>United States Code, 1999 Edition<br>Title 21 - FOOD AND DRUGS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 21—FOOD AND DRUGS
 
@@ -29,6 +29,7 @@
 | [<b>21.</b>](Chapter%20021%20-%20Biomaterials%20Access%20Assurance/README.md) | <b>Biomaterials Access Assurance</b> | <b>1601</b> |
 | [<b>22.</b>](Chapter%20022%20-%20National%20Drug%20Control%20Policy/README.md) | <b>National Drug Control Policy</b> | <b>1701</b> |
 | [<b>23.</b>](Chapter%20023%20-%20National%20Youth%20Anti-Drug%20Media%20Campaign/README.md) | <b>National Youth Anti-Drug Media Campaign</b> | <b>1801</b> |
+| [<b>24.</b>](Chapter%20024%20-%20International%20Narcotics%20Trafficking/README.md) | <b>International Narcotics Trafficking</b> | <b>1901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -73,3 +74,4 @@ This title is referred to in title 18 section 3050.
 - [Chapter 021 - Biomaterials Access Assurance](Chapter%20021%20-%20Biomaterials%20Access%20Assurance/README.md)
 - [Chapter 022 - National Drug Control Policy](Chapter%20022%20-%20National%20Drug%20Control%20Policy/README.md)
 - [Chapter 023 - National Youth Anti-Drug Media Campaign](Chapter%20023%20-%20National%20Youth%20Anti-Drug%20Media%20Campaign/README.md)
+- [Chapter 024 - International Narcotics Trafficking](Chapter%20024%20-%20International%20Narcotics%20Trafficking/README.md)

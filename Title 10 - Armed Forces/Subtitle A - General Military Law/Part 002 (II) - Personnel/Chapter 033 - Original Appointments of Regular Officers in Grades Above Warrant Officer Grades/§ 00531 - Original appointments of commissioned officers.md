@@ -30,7 +30,7 @@ Program Required.—(1) Not later than September 30, 1991, the Secretary of each
 
 “(b)
 
-Report on Implementation.—Not later than April 1, 1990, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the actions taken by the Secretaries of the military departments to implement the program required by this section.”
+Report on Implementation.—Not later than April 1, 1990, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the actions takenby the Secretaries of the military departments to implement the program required by this section.”
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,7 @@
 
 &emsp;(B) The Administrator of the National Oceanic and Atmospheric Administration, or his designee.
 
-(2) Other members of the Advisory Board shall be appointed from among persons eminent in the fields of basic sciences, engineering, ocean and environmental sciences, education, research management, international and security affairs, health physics, health sciences, or social sciences, with due regard given to the equitable representation of scientists and engineers who are women or who represent minority groups. At least one member of the Advisory Board shall be a representative of environmental public interest groups and one member shall be a representative of the interests of State governments.
+(2) Other members of the Advisory Board shall be appointed from among persons eminent in thefields of basic sciences, engineering, ocean and environmental sciences, education, research management, international and security affairs, health physics, health sciences, or social sciences, with due regard given to the equitable representation of scientists and engineers who are women or who represent minority groups. At least one member of the Advisory Board shall be a representative of environmental public interest groups and one member shall be a representative of the interests of State governments.
 
 (3) The Secretary of Defense and the Secretary of Energy, in consultation with the Administrator of the Environmental Protection Agency, shall request—
 
@@ -26,7 +26,7 @@
 
 (e) The Council shall refer to the Advisory Board, and the Advisory Board shall review, each proposed research project including its estimated cost, for research in and development of technologies related to environmental activities in excess of $1,000,000. The Advisory Board shall make any recommendations to the Council that the Advisory Board considers appropriate regarding such project or proposal.
 
-(f) The Advisory Board may make recommendations to the Council regarding technologies, research, projects, programs, activities, and, if appropriate, funding within thescope of the Strategic Environmental Research and Development Program.
+(f) The Advisory Board may make recommendations to the Council regarding technologies, research, projects, programs, activities, and, if appropriate, funding within the scope of the Strategic Environmental Research and Development Program.
 
 (g) The Advisory Board shall assist and advise the Council in identifying the environmental data and analytical assistance activities that should be covered by the policies and procedures prescribed pursuant to section 2902(d)(1) of this title.
 

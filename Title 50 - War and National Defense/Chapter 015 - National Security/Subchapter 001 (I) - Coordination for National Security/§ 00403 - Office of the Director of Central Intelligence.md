@@ -188,7 +188,7 @@ Conditions.—The following conditions and certifications must be met before the
 
 &emsp;&emsp;“(B) that with respect to contracts of the Agency for construction and for the acquisition of movable property, equipment, and services, the procedures of the Agency are consistent with procedures under the Federal Acquisition Regulation.
 
-&emsp;“(2) The Administrator of General Services has provided a written report stating that in the opinion of the Administrator (A) implementing the consolidation plan will result in cost savings to the United States Government, and (B) the consolidation plan will conform to applicable local governmental regulations.
+&emsp;“(2) The Administrator of General Services has provided a written report stating that in the opinion ofthe Administrator (A) implementing the consolidation plan will result in cost savings to the United States Government, and (B) the consolidation plan will conform to applicable local governmental regulations.
 
 &emsp;“(3) The Director of the Office of Management and Budget has certified—
 

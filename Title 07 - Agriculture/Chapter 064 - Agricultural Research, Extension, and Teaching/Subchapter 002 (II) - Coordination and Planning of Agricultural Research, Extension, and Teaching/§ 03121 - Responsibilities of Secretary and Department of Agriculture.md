@@ -26,7 +26,7 @@ The Department of Agriculture is designated as the lead agency of the Federal Go
 
 &emsp;(12) establish appropriate controls with respect to the development and use of the application of biotechnology to agriculture.
 
-(Pub. L. 95–113, title XIV, §1405, Sept. 29, 1977, 91 Stat. 985; Pub. L. 97–98, title XIV, §1405, Dec. 22, 1981, 95 Stat. 1298; Pub. L. 99–198, title XIV, §1404, Dec. 23, 1985, 99 Stat. 1544; Pub. L. 101–624, title XVI, §1605(b)(3), Nov. 28, 1990, 104 Stat. 3714; Pub. L. 104–127, title VIII, §§852(b)(1), 853(b)(2), Apr. 4, 1996, 110 Stat. 1171, 1172.)
+(Pub. L. 95–113, title XIV, §1405, Sept. 29, 1977, 91 Stat. 985; Pub. L. 97–98, title XIV, §1405, Dec. 22, 1981, 95 Stat. 1298; Pub. L. 99–198, title XIV,§1404, Dec. 23, 1985, 99 Stat. 1544; Pub. L. 101–624, title XVI, §1605(b)(3), Nov. 28, 1990, 104 Stat. 3714; Pub. L. 104–127, title VIII, §§852(b)(1), 853(b)(2), Apr. 4, 1996, 110 Stat. 1171, 1172.)
 
 #### Amendments
 

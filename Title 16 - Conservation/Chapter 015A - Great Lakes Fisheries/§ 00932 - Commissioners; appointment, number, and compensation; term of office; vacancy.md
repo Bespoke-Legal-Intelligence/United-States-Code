@@ -22,7 +22,7 @@
 
 #### Amendments
 
-1986—Pub. L. 99–659 amended section generally. Prior to amendment, section read as follows: “The United States shall be represented on the Commission by threeCommissioners to be appointed by the President, to serve as such during his pleasure, and to receive no compensation for their services as such Commissioners. Of such Commissioners—
+1986—Pub. L. 99–659 amended section generally. Prior to amendment, section read as follows: “The United States shall be represented on the Commission by three Commissioners to be appointed by the President, to serve as such during his pleasure, and to receive no compensation for their services as such Commissioners. Of such Commissioners—
 
 &emsp;“(a) one shall be an official of the United States Government; and
 

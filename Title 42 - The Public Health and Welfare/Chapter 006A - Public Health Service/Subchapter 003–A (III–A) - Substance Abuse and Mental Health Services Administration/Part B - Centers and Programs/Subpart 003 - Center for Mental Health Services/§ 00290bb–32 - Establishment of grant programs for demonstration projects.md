@@ -50,7 +50,7 @@ The Secretary may not make a grant under subsection (a) or (b) of this section t
 
 #### (e) Authorizations of appropriations
 
-(1) For the purposes of carrying out this section, there are authorized to be appropriated $50,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
+(1) For the purposes of carrying out this section, there are authorized to be appropriated$50,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
 
 (2) Of the amounts appropriated pursuant to paragraph (1), the Secretary shall make available 15 percent for demonstration projects to carry out the purpose of this section in rural areas.
 

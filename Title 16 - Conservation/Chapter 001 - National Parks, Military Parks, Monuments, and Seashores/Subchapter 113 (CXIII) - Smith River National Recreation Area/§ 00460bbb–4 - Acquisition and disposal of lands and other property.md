@@ -6,7 +6,7 @@ The Secretary is authorized to acquire by purchase, donation, exchange, or other
 
 #### (b) Transfers to Del Norte County
 
-(1) Upon the adoption of a resolution by the Board of Supervisors of the County of Del Norte, California, accepting title to the lands describedin paragraph (2) and subject to the County of Del Norte bearing the cost of the survey of such lands, the Secretary shall transfer all right, title, and interest of the United States in and to the lands described in paragraph (2).
+(1) Upon the adoption of a resolution by the Board of Supervisors of the County of Del Norte, California, accepting title to the lands described in paragraph (2) and subject to the County of Del Norte bearing the cost of the survey of such lands, the Secretary shall transfer all right, title, and interest of the United States in and to the lands described in paragraph (2).
 
 (2) The lands referred to in paragraph (1) are described as follows:
 

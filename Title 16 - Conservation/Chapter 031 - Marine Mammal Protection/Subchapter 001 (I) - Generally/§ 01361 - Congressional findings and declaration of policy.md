@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) certain species and population stocks of marine mammals are, or may be, in danger of extinction or depletion as a result of man's activities;
 
-&emsp;(2) such species and population stocks should not be permitted to diminish beyond the point at which they cease to be a significant functioning element in the ecosystem of which they are a part, and, consistent with this major objective, they should not be permitted to diminish below their optimum sustainable population. Further measures should be immediately taken to replenish any species or population stock which has already diminished below that population. In particular, efforts should be made to protect essential habitats, including the rookeries, mating grounds, and areas of similar significance for each species of marine mammal from the adverse effect of man's actions;
+&emsp;(2) such species and population stocks should not be permitted to diminish beyond the point at which they cease to be a significant functioning element in the ecosystem of which they are a part, and, consistent with this major objective, they should not be permitted to diminish below their optimum sustainablepopulation. Further measures should be immediately taken to replenish any species or population stock which has already diminished below that population. In particular, efforts should be made to protect essential habitats, including the rookeries, mating grounds, and areas of similar significance for each species of marine mammal from the adverse effect of man's actions;
 
 &emsp;(3) there is inadequate knowledge of the ecology and population dynamics of such marine mammals and of the factors which bear upon their ability to reproduce themselves successfully;
 
@@ -58,7 +58,7 @@ Section 1 of Pub. L. 92–522 provided in part that: “This Act \[enacting this
 
 #### Regulations
 
-Section 15(b) of Pub. L. 103–238 provided that: “Except as provided otherwise in this Act \[see Short Title of 1994 Amendment note above\], or the amendments to the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361et seq.) made by this Act, the Secretary of Commerce or the Secretary of the Interior, as appropriate, shall, after notice and opportunity for public comment, promulgate regulations to implement this Act and the amendments made by this Act by January 1, 1995.”
+Section 15(b) of Pub. L. 103–238 provided that: “Except as provided otherwise in this Act \[see Short Title of 1994 Amendment note above\], or the amendments to the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.) made by this Act, the Secretary of Commerce or the Secretary of the Interior, as appropriate, shall, after notice and opportunity for public comment, promulgate regulations to implement this Act and the amendments made by this Act by January 1, 1995.”
 
 #### Purposes and Findings
 
@@ -78,7 +78,7 @@ Purposes.—The purposes of this Act \[see Short Title of 1997 Amendment note ab
 
 Findings.—The Congress finds that—
 
-&emsp;“(1) the nations that fish for tuna in the eastern tropical Pacific Ocean have achieved significant reductions in dolphin mortality associated with the purse seine fishery from hundreds of thousands annually to fewer than 5,000 annually;
+&emsp;“(1) the nations that fish for tuna in the eastern tropical Pacific Ocean have achieved significant reductions in dolphin mortality associated with thepurse seine fishery from hundreds of thousands annually to fewer than 5,000 annually;
 
 &emsp;“(2) the provisions of the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1361 et seq.\] that impose a ban on imports from nations that fish for tuna in the eastern tropical Pacific Ocean have served as an incentive to reduce dolphin mortalities;
 

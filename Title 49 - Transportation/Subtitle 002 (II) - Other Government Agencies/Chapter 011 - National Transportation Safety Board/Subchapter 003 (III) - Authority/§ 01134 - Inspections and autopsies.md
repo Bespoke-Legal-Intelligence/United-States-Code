@@ -18,7 +18,7 @@ Inspection, Testing, Preservation, and Moving of Aircraft and Parts.—(1) In in
 
 Avoiding Unnecessary Interference and Preserving Evidence.—In carrying out subsection (a)(1) of this section, an officer or employee may examine or test any vehicle, vessel, rolling stock, track, or pipeline component. The examination or test shall be conducted in a way that—
 
-&emsp;(1) does not interfere unnecessarily with transportation services provided by the owner or operator of the vehicle, vessel, rolling stock, track, or pipeline component; and
+&emsp;(1) does not interfere unnecessarily with transportation services provided by the owneror operator of the vehicle, vessel, rolling stock, track, or pipeline component; and
 
 &emsp;(2) to the maximum extent feasible, preserves evidence related to the accident, consistent with the needs of the investigation and with the cooperation of that owner or operator.
 

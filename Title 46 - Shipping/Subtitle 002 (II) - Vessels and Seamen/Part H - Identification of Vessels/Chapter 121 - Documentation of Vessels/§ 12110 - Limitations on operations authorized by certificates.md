@@ -2,7 +2,7 @@
 
 (a) A vessel may not be employed in a trade except a trade covered by the endorsement issued for that vessel.
 
-(b) A barge qualified to be employed in the coastwise trade may be employed, without being documented, in that trade on rivers, harbors,lakes (except the Great Lakes), canals, and inland waters.
+(b) A barge qualified to be employed in the coastwise trade may be employed, without being documented, in that trade on rivers, harbors, lakes (except the Great Lakes), canals, and inland waters.
 
 (c) A vessel with only a recreational endorsement may not be operated other than for pleasure.
 

@@ -6,7 +6,7 @@
 
 #### (A) Contents of report
 
-&emsp;&emsp;Each eligible State shall collect on a monthly basis, and report to the Secretary on a quarterly basis, the following disaggregated case record information on the families receiving assistance under the State program funded under this part:
+&emsp;&emsp;Each eligible State shall collect on a monthly basis, and report to the Secretary on a quarterly basis, the following disaggregated case record information on the families receiving assistance under the State program funded under this part (except for information relating to activities carried out under section 603(a)(5) of this title):
 
 &emsp;&emsp;&emsp;(i) The county of residence of the family.
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) aid under a State plan approved under subchapter XIV of this chapter (as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972)); <sup>1</sup>
 
-&emsp;&emsp;&emsp;&emsp;(IV) aid or assistance under a State plan approved under subchapter XVI of this chapter (as in effect without regard to such amendment) by reason of being permanently and totally disabled; or
+&emsp;&emsp;&emsp;&emsp;(IV) aid or assistance under a State plan approved under subchapter XVI ofthis chapter (as in effect without regard to such amendment) by reason of being permanently and totally disabled; or
 
 &emsp;&emsp;&emsp;&emsp;(V) supplemental security income benefits under subchapter XVI of this chapter (as in effect pursuant to such amendment) by reason of disability.
 
@@ -75,16 +75,6 @@
 &emsp;&emsp;&emsp;&emsp;(V) State policy.
 
 &emsp;&emsp;&emsp;(xvii) With respect to each individual in the family who has not attained 20 years of age, whether the individual is a parent of a child in the family.
-
-&emsp;&emsp;&emsp;(xviii) With respect to families participating in a program operated with funds provided under section 603(a)(5) of this title—
-
-&emsp;&emsp;&emsp;&emsp;(I) any activity described in section 603(a)(5)(C)(i) of this title engaged in by a family member;
-
-&emsp;&emsp;&emsp;&emsp;(II) the total amount expended during the month on the family member for each such activity;
-
-&emsp;&emsp;&emsp;&emsp;(III) if the family member is engaged in subsidized employment or on-the-job training under the program, the wage paid to the family member and the amount of any wage subsidy provided to the family member from Federal or State funds; and
-
-&emsp;&emsp;&emsp;&emsp;(IV) if the participation of a family member in the program was ended during a month due to the family member obtaining employment, the wage of the family member in the employment and whether the participation was ended due to the family member obtaining unsubsidized employment, obtaining subsidized employment, receiving an increased wage, engaging in a work training activity funded under a program funded other than under section 603(a)(5) of this title, or for other reasons.
 
 #### (B) Use of samples
 
@@ -150,7 +140,7 @@ Not later than 6 months after the end of fiscal year 1997, and each fiscal year 
 
 &emsp;(4) the trends in employment and earnings of needy families with minor children living at home.
 
-(Aug. 14, 1935, ch. 531, title IV, §411, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2148; amended Pub. L. 105–33, title V, §§5001(e), 5507, 5514(c), Aug. 5, 1997, 111 Stat. 591, 616, 620.)
+(Aug. 14, 1935, ch. 531, title IV, §411, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2148; amended Pub. L. 105–33, title V, §§5001(e), 5507, 5514(c), Aug. 5, 1997, 111 Stat. 591, 616, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §804(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284.)
 
 #### References in Text
 
@@ -161,6 +151,10 @@ Section 301 of the Social Security Amendments of 1972, referred to in subsec. (a
 A prior section 611, act Aug. 14, 1935, ch. 531, title IV, §411, as added Dec. 20, 1977, Pub. L. 95–216, title IV, §403(a), 91 Stat. 1561, related to availability of wage information to States and political subdivisions, prior to repeal by Pub. L. 98–369, div. B, title VI, §2651(b)(3), (<i>l</i>)(2), July 18, 1984, 98 Stat. 1149, 1151, effective Apr. 1, 1985, except as otherwise provided. See section 1320b–7 of this title.
 
 #### Amendments
+
+1999—Subsec. (a)(1)(A). Pub. L. 106–113, §1000(a)(4) \[title VIII, §804(a)(1)\], in introductory provisions, inserted “(except for information relating to activities carried out under section 603(a)(5) of this title)” after “part”.
+
+Subsec. (a)(1)(A)(xviii). Pub. L. 106–113, §1000(a)(4) \[title VIII, §804(a)(2)\], struck out cl. (xviii) which related to families participating in a program operated with funds provided under section 603(a)(5) of this title.
 
 1997—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 

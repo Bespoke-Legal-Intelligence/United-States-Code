@@ -14,7 +14,7 @@ Distribution of Income or Assets.—The income or assets of the corporation may 
 
 (d)
 
-Loans.—The corporation may not make a loan to a trustee, officer, or employee. Trustees who vote for or assent to making a loan to a trustee, officer, or employee, and officers whoparticipate in making the loan, are jointly and severally liable to the corporation for the amount of the loan until it is repaid.
+Loans.—The corporation may not make a loan to a trustee, officer, or employee. Trustees who vote for or assent to making a loan to a trustee, officer, or employee, and officers who participate in making the loan, are jointly and severally liable to the corporation for the amount of the loan until it is repaid.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1426.)
 
@@ -38,13 +38,19 @@ Aug. 19, 1964, Pub. L. 88–449, §§12, 13, 15, 78 Stat. 499.
 
 36:4615.
 
+&nbsp;
+
 153507(c)
 
 36:4613(a).
 
+&nbsp;
+
 153507(d)
 
 36:4613(b).
+
+&nbsp;
 
 In subsection (a), the words “shares of” are omitted as unnecessary.
 

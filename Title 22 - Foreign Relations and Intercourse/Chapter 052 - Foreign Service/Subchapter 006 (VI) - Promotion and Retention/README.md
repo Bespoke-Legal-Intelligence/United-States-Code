@@ -12,7 +12,7 @@ This subchapter is referred to in sections 3964, 4153 of this title.
 - [&sect; 04001 - Promotions](%C2%A7%2004001%20-%20Promotions.md)
 - [&sect; 04002 - Establishment of selection boards](%C2%A7%2004002%20-%20Establishment%20of%20selection%20boards.md)
 - [&sect; 04003 - Recommendations and rankings](%C2%A7%2004003%20-%20Recommendations%20and%20rankings.md)
-- [&sect; 04004 - Confidentiality of records](%C2%A7%2004004%20-%20Confidentiality%20of%20records.md)
+- [&sect; 04004 - Records](%C2%A7%2004004%20-%20Records.md)
 - [&sect; 04005 - Implementation of selection board recommendations](%C2%A7%2004005%20-%20Implementation%20of%20selection%20board%20recommendations.md)
 - [&sect; 04006 - Other bases for promoting or increasing pay](%C2%A7%2004006%20-%20Other%20bases%20for%20promoting%20or%20increasing%20pay.md)
 - [&sect; 04007 - Retirement for expiration of time in class](%C2%A7%2004007%20-%20Retirement%20for%20expiration%20of%20time%20in%20class.md)

@@ -166,7 +166,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Payments under any interest held by a transferor which (without regard to this subparagraph) are qualified payments shall be treated as qualified payments unless the transferor elects not to treat such payments as qualified payments. Payments described in the preceding sentence which are held by an applicable family member shall be treated as qualified payments only if such member elects to treat such payments as qualified payments.
+&emsp;&emsp;&emsp;Payments under any interest held by a transferor which (without regard to this subparagraph) are qualified payments shall be treated as qualified payments unless the transferor elects not to treat such payments as qualified payments. Payments described in the preceding sentence which are held by an applicable familymember shall be treated as qualified payments only if such member elects to treat such payments as qualified payments.
 
 #### (ii) Election to have interest treated as qualified payment
 
@@ -258,7 +258,7 @@ For purposes of this section—
 
 #### (iii) Spouse succeeds to treatment of transferor
 
-&emsp;&emsp;&emsp;If an event is not treated as a taxable event by reason of this subparagraph, the transferee spouse or surviving spouse (as the case may be) shall be treated in the same manner as the transferor in applying this subsection with respect to the interest involved.
+&emsp;&emsp;&emsp;If an event is not treated as a taxable event by reason of this subparagraph, thetransferee spouse or surviving spouse (as the case may be) shall be treated in the same manner as the transferor in applying this subsection with respect to the interest involved.
 
 #### (4) Special rules for applicable family members
 

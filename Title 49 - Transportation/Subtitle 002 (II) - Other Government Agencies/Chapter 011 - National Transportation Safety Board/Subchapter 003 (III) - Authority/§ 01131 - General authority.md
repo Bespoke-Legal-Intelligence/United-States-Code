@@ -34,7 +34,7 @@ Accidents Involving Public Vessels.—(1) The Board or the head of the departmen
 
 (c)
 
-Accidents Not Involving Government Misfeasance or Nonfeasance.—(1) When asked by the Board, the Secretary of Transportation may—
+Accidents Not Involving Government Misfeasance or Nonfeasance.—(1) When askedby the Board, the Secretary of Transportation may—
 
 &emsp;(A) investigate an accident described under subsection (a) or (b) of this section in which misfeasance or nonfeasance by the Government has not been alleged; and
 
@@ -122,7 +122,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(d) (1st sentence), 80 Stat. 938.
 
 Jan. 3, 1975, Pub. L. 93–633, §304(a)(2), 88 Stat. 2168; July 19, 1988, Pub. L. 100–372, §3(a), 102 Stat. 876.
 
-In this section, the word “conditions” is omitted as being included in “circumstances”. The words “head of the department in which the Coast Guard is operating” are substituted for “Secretary of the department in which the Coast Guard is operating” for consistency inthe revised title and with other titles of the United States Code.
+In this section, the word “conditions” is omitted as being included in “circumstances”. The words “head of the department in which the Coast Guard is operating” are substituted for “Secretary of the department in which the Coast Guard is operating” for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (a)(1)(A), the words “the Board has authority to investigate under section 1132 of this title” are substituted for “which is within the scope of the functions, powers, and duties transferred from the Civil Aeronautics Board under section 1655(d) of this Appendix pursuant to title VII of the Federal Aviation Act of 1958, as amended \[49 App. U.S.C. 1441 et seq.\]” because of the restatement.
 
@@ -149,4 +149,8 @@ Section 3(d) of Pub. L. 103–411 provided that: “The amendments made by subse
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
+
+#### Contiguous Zone of United States
+
+For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
 

@@ -8,7 +8,7 @@ Subject to subsection (b) of this section, there are authorized to be appropriat
 
 #### (1) In general
 
-&emsp;With respect to each of the fiscal years 1997 through 2000, the Secretary shall develop and implement a methodology for adjusting the percentages allocated to part A of this subchapter and part B of this subchapter to account for grants to new eligible areas under part A of this subchapter and other relevant factors. Not later than July 1, 1996, the Secretary shall prepare and submit to the appropriate committees of Congress a report regarding the findings with respect to the methodology developed under this paragraph.
+&emsp;With respect to each of the fiscal years 1997 through 2000, the Secretary shall develop andimplement a methodology for adjusting the percentages allocated to part A of this subchapter and part B of this subchapter to account for grants to new eligible areas under part A of this subchapter and other relevant factors. Not later than July 1, 1996, the Secretary shall prepare and submit to the appropriate committees of Congress a report regarding the findings with respect to the methodology developed under this paragraph.
 
 #### (2) Failure to implement
 

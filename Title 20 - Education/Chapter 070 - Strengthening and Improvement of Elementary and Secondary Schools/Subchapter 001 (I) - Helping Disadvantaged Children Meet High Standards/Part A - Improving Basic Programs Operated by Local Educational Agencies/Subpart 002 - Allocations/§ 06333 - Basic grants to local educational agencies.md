@@ -12,7 +12,7 @@
 
 #### (2) Basis for calculating grants
 
-&emsp;For fiscal years 1995 through 1998, grants shall be calculated by the Secretary on the basis of the number of children counted under subsection (c) of this section for counties, and State educational agencies shall suballocate county amounts to local educational agencies, in accordance with regulations published by the Secretary. In any State in which a large number of local educational agencies overlap county boundaries, the State educational agency may apply to the Secretary for authority during any particular fiscal year to make the allocations under this part (other than section 6334 of this title) directly to local educational agencies without regard to the counties. If the Secretary approves an application of a State educational agency for a particular year under this subparagraph, the State educational agency shall provide assurances that—
+&emsp;For fiscal years 1995 through 1998, grants shall be calculated by the Secretary on thebasis of the number of children counted under subsection (c) of this section for counties, and State educational agencies shall suballocate county amounts to local educational agencies, in accordance with regulations published by the Secretary. In any State in which a large number of local educational agencies overlap county boundaries, the State educational agency may apply to the Secretary for authority during any particular fiscal year to make the allocations under this part (other than section 6334 of this title) directly to local educational agencies without regard to the counties. If the Secretary approves an application of a State educational agency for a particular year under this subparagraph, the State educational agency shall provide assurances that—
 
 &emsp;&emsp;(A) such allocations will be made using precisely the same factors for determining a grant as are used under this part;
 
@@ -28,7 +28,7 @@
 
 #### (3) Puerto Rico
 
-&emsp;For each fiscal year, the Secretary shall determine the percentage which the average per pupil expenditure in the Commonwealth of Puerto Rico is of the lowest average per pupil expenditure of any of the 50 States. The grant which the Commonwealth of Puerto Rico shall be eligible to receive under this section for a fiscal year shall be the amount arrived at by multiplying the number of children counted under subsection (c) of this section for theCommonwealth of Puerto Rico by the product of—
+&emsp;For each fiscal year, the Secretary shall determine the percentage which the average per pupil expenditure in the Commonwealth of Puerto Rico is of the lowest average per pupil expenditure of any of the 50 States. The grant which the Commonwealth of Puerto Rico shall be eligible to receive under this section for a fiscal year shall be the amount arrived at by multiplying the number of children counted under subsection (c) of this section for the Commonwealth of Puerto Rico by the product of—
 
 &emsp;&emsp;(A) the percentage determined under the preceding sentence; and
 

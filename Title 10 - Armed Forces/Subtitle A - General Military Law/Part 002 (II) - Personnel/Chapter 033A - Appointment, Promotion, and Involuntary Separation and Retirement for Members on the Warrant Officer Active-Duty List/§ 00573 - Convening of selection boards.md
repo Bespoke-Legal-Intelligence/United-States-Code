@@ -2,7 +2,7 @@
 
 (a)(1) Whenever the Secretary concerned determines that the needs of the service so require, he shall convene a selection board to recommend for promotion to the next higher warrant officer grade warrant officers on the warrant officer active-duty list who are in the grade of chief warrant officer, W–2, chief warrant officer, W–3, or chief warrant officer, W–4.
 
-(2) Warrant officers serving on the warrant officer active-duty list in the grade of warrant officer, W–1, shall be promoted to the grade of chief warrant officer, W–2, in accordance with regulations prescribed by the Secretary concerned. Such regulations shall require that an officer have served not less than 18 months on active duty in the grade of warrant officer, W–1,before promotion to the grade of warrant officer, W–2.
+(2) Warrant officers serving on the warrant officer active-duty list in the grade of warrant officer, W–1, shall be promoted to the grade of chief warrant officer, W–2, in accordance with regulations prescribed by the Secretary concerned. Such regulations shall require that an officer have served not less than 18 months on active duty in the grade of warrant officer, W–1, before promotion to the grade of warrant officer, W–2.
 
 (b) A selection board shall consist of five or more officers who are on the active-duty list of the same armed force as the warrant officers under consideration by the board. At least five members of a selection board must be serving in a permanent grade above major or lieutenant commander. The Secretary concerned may appoint warrant officers, senior in grade to those under consideration, as additional members of the selection board. If warrant officers are appointed members of the selection board and if competitive categories have been established by the Secretary under section 574(b) of this title, at least one must be appointed from each warrant officer competitive category under consideration by the board, unless there is an insufficient number of warrant officers in the competitive category concerned who are senior in grade to those under consideration and qualified, as determined by the Secretary concerned, to be appointed as additional members of the board.
 
@@ -14,7 +14,7 @@
 
 (f) The Secretary concerned shall prescribe all other matters relating to the functions and duties of the boards, including the number of members constituting a quorum, and instructions concerning notice of convening of boards and communications with boards.
 
-(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1493; amended Pub. L. 103–337, div. A, title V, §541(b)(1), Oct. 5, 1994, 108 Stat. 2764; Pub. L. 104–106, div. A, title XV, §1503(a)(5), Feb. 10, 1996, 110 Stat. 511.)
+(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1493; amended Pub. L.103–337, div. A, title V, §541(b)(1), Oct. 5, 1994, 108 Stat. 2764; Pub. L. 104–106, div. A, title XV, §1503(a)(5), Feb. 10, 1996, 110 Stat. 511.)
 
 #### Prior Provisions
 

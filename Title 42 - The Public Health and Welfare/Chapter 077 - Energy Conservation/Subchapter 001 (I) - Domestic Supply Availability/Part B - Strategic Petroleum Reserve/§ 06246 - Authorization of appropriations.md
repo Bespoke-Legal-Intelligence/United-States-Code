@@ -1,10 +1,12 @@
 ### §6246. Authorization of appropriations
 
-There are authorized to be appropriated for fiscal year 1999 such sums as may be necessary to implement this part.
+There are authorized to be appropriated for fiscal year 2000 such sums as may be necessary to implement this part, to remain available only through March 31, 2000.
 
-(Pub. L. 94–163, title I, §166, Dec. 22, 1975, 89 Stat. 890; Pub. L. 95–70, §4, July 21, 1977, 91 Stat. 277; Pub. L. 97–35, title X, §1034(b), Aug. 13, 1981, 95 Stat. 619; Pub. L. 104–306, §1(1), Oct. 14, 1996, 110 Stat. 3810; Pub. L. 105–177, §1(1), June 1, 1998, 112 Stat. 105.)
+(Pub. L. 94–163, title I, §166, Dec. 22, 1975, 89 Stat. 890; Pub. L. 95–70, §4, July 21, 1977, 91 Stat. 277; Pub. L. 97–35, title X, §1034(b), Aug. 13, 1981, 95 Stat. 619; Pub. L. 104–306, §1(1), Oct. 14, 1996, 110 Stat. 3810; Pub. L. 105–177, §1(1), June 1, 1998, 112 Stat. 105; Pub. L. 106–64, §1(1), Oct. 5, 1999, 113 Stat. 511.)
 
 #### Amendments
+
+1999—Pub. L. 106–64 amended section catchline and text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated for fiscal year 1999 such sums as may be necessary to implement this part.”
 
 1998—Pub. L. 105–177 substituted “1999” for “1997”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Seal; appointment and compensation of personnel; use of other services and facilities
 
-The Administration shall have power to adopt, alter, and use a seal, which shall be judiciallynoticed. The Administrator is authorized, subject to the civil service and classification laws, to select, employ, appoint, and fix the compensation of such officers, employees, attorneys, and agents as shall be necessary to carry out the provisions of this chapter; to define their authority and duties; and to pay the costs of qualification of certain of them as notaries public. The Administration, with the consent of any board, commission, independent establishment, or executive department of the Government, may avail itself on a reimbursable or nonreimbursable basis of the use of information, services, facilities (including any field service thereof), officers, and employees thereof, in carrying out the provisions of this chapter.
+The Administration shall have power to adopt, alter, and use a seal, which shall be judicially noticed. The Administrator is authorized, subject to the civil service and classification laws, to select, employ, appoint, and fix the compensation of such officers, employees, attorneys, and agents as shall be necessary to carry out the provisions of this chapter; to define their authority and duties; and to pay the costs of qualification of certain of them as notaries public. The Administration, with the consent of any board, commission, independent establishment, or executive department of the Government, may avail itself on a reimbursable or nonreimbursable basis of the use of information, services, facilities (including any field service thereof), officers, and employees thereof, in carrying out the provisions of this chapter.
 
 #### (b) Powers of Administrator
 
@@ -98,7 +98,7 @@ Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals ma
 
 (2) The Administration is authorized, upon such terms and conditions as are deemed appropriate, to guarantee the timely payment of the principal of and interest on trust certificates issued by the Administration or its agent for purposes of this subsection. Such guarantee shall be limited to the extent of principal and interest on the guaranteed portions of loans which compose the trust or pool. In the event that a loan in such trust or pool is prepaid, either voluntarily or in the event of default, the guarantee of timely payment of principal and interest on the trust certificates shall be reduced in proportion to the amount of principal and interest such prepaid loan represents in the trust or pool. Interest on prepaid or defaulted loans shall accrue and be guaranteed by the Administration only through the date of payment on the guarantee. During the term of the trust certificate, it may be called for redemption due to prepayment or default of all loans constituting the pool.
 
-(3) The full faith and credit of the United States is pledged to the payment of all amounts which may be required to be paid under anyguarantee of such trust certificates issued by the Administration or its agent pursuant to this subsection.
+(3) The full faith and credit of the United States is pledged to the payment of all amounts which may be required to be paid under any guarantee of such trust certificates issued by the Administration or its agent pursuant to this subsection.
 
 (4)(A) The Administration may collect a fee for any loan guarantee sold into the secondary market under subsection (f) of this section in an amount equal to not more than 50 percent of the portion of the sale price that exceeds 110 percent of the outstanding principal amount of the portion of the loan guaranteed by the Administration. Any such fee imposed by the Administration shall be collected by the Administration or by the agent which carries out on behalf of the Administration the central registration functions required by subsection (h) of this section and shall be paid to the Administration and used solely to reduce the subsidy on loans guaranteed under section 636(a) of this title: <i>Provided</i>, That such fee shall not be charged to the borrower whose loan is guaranteed: and, <i>Provided further</i>, That nothing herein shall preclude any agent of the Administration from collecting a fee approved by the Administration for the functions described in subsection (h)(2) <sup>1</sup> of this section.
 
@@ -116,7 +116,7 @@ Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals ma
 
 &emsp;(B) contract with an agent to carry out on behalf of the Administration the central registration functions of this section and the issuance of trust certificates to facilitate pooling. Such agent shall provide a fidelity bond or insurance in such amounts as the Administration determines to be necessary to fully protect the interest of the Government;
 
-&emsp;(C) prior to any sale, require the seller to disclose to a purchaser of the guaranteed portion of a loan guaranteed under this chapter and to the purchaser of a trust certificate issued pursuant to subsection (g) of this section, information on the terms, conditions, and yield of such instrument. As used in this paragraph, if the instrument being sold is a loan, the term “seller” does not include (A) an entity which made the loan or (B) any individual or entity which sells three or fewer guaranteed loans per year; and
+&emsp;(C) prior to any sale, require the seller to disclose to a purchaser of the guaranteed portion of a loan guaranteed under this chapter and to the purchaser of a trust certificate issued pursuant to subsection (g) of this section, information on the terms, conditions, and yield of such instrument. As used in this paragraph, if the instrument being sold is a loan,the term “seller” does not include (A) an entity which made the loan or (B) any individual or entity which sells three or fewer guaranteed loans per year; and
 
 &emsp;(D) have the authority to regulate brokers and dealers in guaranteed loans and trust certificates sold pursuant to subsections (f) and (g) of this section.
 
@@ -158,7 +158,7 @@ Subsec. (h). Pub. L. 104–208, §205(a), designated existing provisions as par.
 
 Subsec. (b)(12), (13). Pub. L. 103–403 added pars. (12) and (13).
 
-1993—Subsec. (g)(4). Pub. L. 103–81 added par. (4) and struck out former par. (4) which read as follows: “The Administration shall not collect any fee for any guarantee under this subsection: <i>Provided</i>, That nothing herein shall preclude any agent of the Administration from collecting a fee approved by the Administration for the functions described in subsection (h)(2) of this section.”
+1993—Subsec. (g)(4). Pub. L. 103–81 added par. (4) and struck out former par. (4) which read as follows: “The Administration shall not collect any fee for any guarantee under this subsection: <i>Provided</i>, That nothing herein shall preclude any agent of the Administration from collecting a fee approved by the Administrationfor the functions described in subsection (h)(2) of this section.”
 
 1992—Subsec. (f)(4). Pub. L. 102–564 substituted “section 636(a)(6)(C) of this title or subsection (e) of this section” for “subsection (e) of this section or section 636(a)(6) or 636(a)(8) of this title”.
 
@@ -198,7 +198,7 @@ Section 8 of Pub. L. 104–36 provided that:
 
 “(a)
 
-In General.—Except as provided in subsection (b), the amendments made by this Act \[see Short Title of 1995 Amendment note set out under section 631 of this title\] do not apply with respect to any loan made or guaranteed under the Small Business Act \[15 U.S.C. 631 et seq.\] or the Small Business Investment Act of1958 \[15 U.S.C. 661 et seq.\] before the date of enactment of this Act \[Oct. 12, 1995\].
+In General.—Except as provided in subsection (b), the amendments made by this Act \[see Short Title of 1995 Amendment note set out under section 631 of this title\] do not apply with respect to any loan made or guaranteed under the Small Business Act \[15 U.S.C. 631 et seq.\] or the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\] before the date of enactment of this Act \[Oct. 12, 1995\].
 
 “(b)
 

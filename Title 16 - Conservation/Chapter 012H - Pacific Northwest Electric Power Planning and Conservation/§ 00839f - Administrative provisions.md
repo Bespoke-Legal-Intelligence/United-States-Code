@@ -28,7 +28,7 @@ No restrictions contained in subsection (c) of this section shall limit or inter
 
 (1) For purposes of sections 701 through 706 of title 5, the following actions shall be final actions subject to judicial review—
 
-&emsp;(A) adoption of the plan or amendments thereto by the Council under section 839b of this title, adoption of the program by theCouncil, and any determination by the Council under section 839b(h) of this title;
+&emsp;(A) adoption of the plan or amendments thereto by the Council under section 839b of this title, adoption of the program by the Council, and any determination by the Council under section 839b(h) of this title;
 
 &emsp;(B) sales, exchanges, and purchases of electric power under section 839c of this title;
 
@@ -102,7 +102,7 @@ When reviewing rates for the sale of power to the Administrator by an investor-o
 
 (2) In implementing the provisions of subparagraphs (A) and (B) of paragraph (1), the Administrator may prescribe policies and conditions for the independent acquisition or disposition of electric power by any direct service industrial customer or group of such customers for the purpose of assuring each direct service industrial customer an opportunity to participate in such acquisition or disposition.
 
-(3) The Administrator shall furnish services including transmission, storage, and load factoring unless he determines such services cannot be furnished without substantial interference with his power marketing program, applicable operating limitations or existing contractual obligations. The Administrator shall, to the extent practicable, give priority in making such services available for the marketing, within and without the Pacific Northwest, of capability from projects under construction on December 5, 1980, if such capability has been offered for sale at cost, including a reasonable rate of return, to the Administrator pursuant to this chapter and such offer is not accepted within one year.
+(3) The Administrator shall furnish services including transmission, storage, and load factoring unless he determines such services cannot be furnished without substantial interference withhis power marketing program, applicable operating limitations or existing contractual obligations. The Administrator shall, to the extent practicable, give priority in making such services available for the marketing, within and without the Pacific Northwest, of capability from projects under construction on December 5, 1980, if such capability has been offered for sale at cost, including a reasonable rate of return, to the Administrator pursuant to this chapter and such offer is not accepted within one year.
 
 #### (j) Retail rate designs which encourage conservation and efficient use of electric energy, installation of consumer-owned renewable resources, and rate research and development
 

@@ -8,13 +8,13 @@
 
 &emsp;&emsp;(A) in which the sponsor agrees to provide support to maintain the sponsored alien at an annual income that is not less than 125 percent of the Federal poverty line during the period in which the affidavit is enforceable;
 
-&emsp;&emsp;(B) that is legally enforceable against the sponsor by the sponsored alien, the Federal Government, any State (or any political subdivision of such State), or by any other entity that provides any means-tested public benefit (as defined in subsection (e) <sup>1</sup> of thissection), consistent with the provisions of this section; and
+&emsp;&emsp;(B) that is legally enforceable against the sponsor by the sponsored alien, the Federal Government, any State (or any political subdivision of such State), or by any other entity that provides any means-tested public benefit (as defined in subsection (e) <sup>1</sup> of this section), consistent with the provisions of this section; and
 
 &emsp;&emsp;(C) in which the sponsor agrees to submit to the jurisdiction of any Federal or State court for the purpose of actions brought under subsection (b)(2) of this section.
 
 #### (2) Period of enforceability
 
-&emsp;An affidavit of support shall be enforceable with respect to benefits provided for an alien before the date the alien is naturalized as a citizen of the United States, or, if earlier, the termination date provided under paragraph (3).
+&emsp;An affidavit of support shall be enforceable with respect to benefits provided for an alien before the date the alien is naturalized as a citizen of the United States, or, if earlier, thetermination date provided under paragraph (3).
 
 #### (3) Termination of period of enforceability upon completion of required period of employment, etc.
 
@@ -88,7 +88,7 @@ Remedies available to enforce an affidavit of support under this section include
 
 #### (e) Jurisdiction
 
-An action to enforce an affidavit of support executed under subsection (a) of this section may be brought against the sponsor in any appropriate court—
+An action to enforce an affidavit of support executed under subsection (a) of this sectionmay be brought against the sponsor in any appropriate court—
 
 &emsp;(1) by a sponsored alien, with respect to financial support; or
 
@@ -154,7 +154,7 @@ An action to enforce an affidavit of support executed under subsection (a) of th
 
 #### (h) <sup>2</sup> “Federal poverty line” defined
 
-For purposes of this section, the term “Federal poverty line” means the level of incomeequal to the official poverty line (as defined by the Director of the Office of Management and Budget, as revised annually by the Secretary of Health and Human Services, in accordance with section 9902(2) of title 42) that is applicable to a family of the size involved.
+For purposes of this section, the term “Federal poverty line” means the level of income equal to the official poverty line (as defined by the Director of the Office of Management and Budget, as revised annually by the Secretary of Health and Human Services, in accordance with section 9902(2) of title 42) that is applicable to a family of the size involved.
 
 #### (i) Sponsor's social security account number required to be provided
 
@@ -193,6 +193,26 @@ In general.—The amendments made by this section \[enacting this section, amend
 Promulgation of form.—Not later than 90 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General, in consultation with the heads of other appropriate agencies, shall promulgate a standard form for an affidavit of support consistent with the provisions of section 213A of the Immigration and Nationality Act \[this section\], as amended by subsection (a).”
 
 Section 423(c) of Pub. L. 104–193 provided that subsec. (a) of this section was applicable to affidavits of support executed on or after a date specified by Attorney General, which date was to be not earlier than 60 days (and not later than 90 days) after date Attorney General formulated form for such affidavits under subsec. (b) of this section, prior to repeal by Pub. L. 104–208, div. C, title V, §551(b)(2), Sept. 30, 1996, 104 Stat. 3009–679.
+
+#### Fees Relating to Affidavits of Support
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §232\], Nov. 29, 1999, 113 Stat. 1536, 1501A–425, provided that:
+
+“(a)
+
+Authority To Charge Fee.—The Secretary of State may charge and retain a fee or surcharge for services provided by the Department of State to any sponsor who provides an affidavit of support under section 213A of the Immigration and Nationality Act (8 U.S.C. 1183a) to ensure that such affidavit is properly completed before it is forwarded to a consular post for adjudication by a consular officer in connection with the adjudication of an immigrant visa. Such fee or surcharge shall be in addition to and separate from any fee imposed for immigrant visa application processing and issuance, and shall recover only the costs of such services not recovered by such fee.
+
+“(b)
+
+Limitation.—Any fee established under subsection (a) shall be charged only once to a sponsor or joint sponsors who file essentially duplicative affidavits of support in connection with separate immigrant visa applications from the spouse and children of any petitioner required by the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] to petition separately for such persons.
+
+“(c)
+
+Treatment of Fees.—Fees collected under the authority of subsection (a) shall be deposited as an offsetting collection to any Department of State appropriation to recover the cost of providing consular services.
+
+“(d)
+
+Compliance With Budget Act.—Fees collected under the authority of subsection (a) shall be available only to such extent or in such amounts as are provided in advance in an appropriation Act.”
 
 #### Pilot Programs To Require Bonding
 
@@ -236,13 +256,13 @@ Bonds in Addition to Sponsorship and Deeming Requirements.—\[Amended section 1
 
 #### Benefits Not Subject to Reimbursement
 
-Section 423(d) of Pub. L. 104–193, as amended by Pub. L. 105–277, div. A, title I, §101(f) \[title VIII, §405(d)(3)(B), (f)(3)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430, provided that: “Requirements for reimbursement by a sponsor for benefits provided to a sponsored alien pursuant to an affidavit of support under section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\] shall not apply with respect to the following:
+Section 423(d) of Pub. L. 104–193, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(B),\(f)(3)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169, provided that: “Requirements for reimbursement by a sponsor for benefits provided to a sponsored alien pursuant to an affidavit of support under section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\] shall not apply with respect to the following:
 
 &emsp;“(1) Medical assistance described in section 401(b)(1)(A) \[8 U.S.C. 1611(b)(1)(A)\] or assistance described in section 411(b)(1) \[8 U.S.C. 1621(b)(1)\].
 
 &emsp;“(2) Short-term, non-cash, in-kind emergency disaster relief.
 
-&emsp;“(3) Assistance or benefits under the National School Lunch Act \[42 U.S.C. 1751 et seq.\].
+&emsp;“(3) Assistance or benefits under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\].
 
 &emsp;“(4) Assistance or benefits under the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\].
 
@@ -260,7 +280,7 @@ Section 423(d) of Pub. L. 104–193, as amended by Pub. L. 105–277, div. A, ti
 
 &emsp;“(11) Benefits under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].”
 
-\[Pub. L. 105–277, div. A, title I, §101(f) \[title VIII, §405(f)(3)(B), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–430, 2681–435, provided that, effective July 1, 2000, section 423(d)(11) of Pub. L. 104–193, set out above, is amended by striking “Job Training Partnership Act or”.\]
+\[Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(3)(B), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–430, 2681–435, provided that, effective July 1, 2000, section 423(d)(11) of Pub. L. 104–193, set out above, is amended by striking “Job Training Partnership Act or”.\]
 
 #### Section Referred to in Other Sections
 

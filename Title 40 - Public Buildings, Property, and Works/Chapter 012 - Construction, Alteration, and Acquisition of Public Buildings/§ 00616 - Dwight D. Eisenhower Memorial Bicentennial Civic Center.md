@@ -32,7 +32,7 @@ The Mayor shall acquire by purchase, gift, condemnation, or otherwise, all real 
 
 (3) For the purpose of the purchase contracts provided by this subsection for the erection of the civic center, the Mayor is authorized to enter into agreements with any person, copartnership, corporation, or other public or private entity to effectuate any of the purposes of this subsection.
 
-(4) No purchase contract for the construction of such civic center shall be entered into, pursuant to the authority of this section, until thirty legislative days following submittal to and approval by the Senate and House Committees for the District of Columbia, and the Senate and House Committees on Appropriations, of the design, plans, and specifications, including detailed cost estimates, of such civic center.
+(4) No purchase contract for the construction of such civic center shall be entered into, pursuant to the authority of this section, until thirty legislative days following submittal to and approval by the Senate and House Committees forthe District of Columbia, and the Senate and House Committees on Appropriations, of the design, plans, and specifications, including detailed cost estimates, of such civic center.
 
 #### (e) Full faith and credit of the District of Columbia
 

@@ -40,7 +40,7 @@ The Committee shall—
 
 #### (e) Meeting procedures
 
-The Committee shall meet not less than twice each year at the call of the Chairperson. Thedate of, and agenda for, each meeting of the Committee shall be submitted in advance to the Secretary for approval. A representative of the Secretary shall be present at all meetings of the Committee.
+The Committee shall meet not less than twice each year at the call of the Chairperson. The date of, and agenda for, each meeting of the Committee shall be submitted in advance to the Secretary for approval. A representative of the Secretary shall be present at all meetings of the Committee.
 
 #### (f) Report
 

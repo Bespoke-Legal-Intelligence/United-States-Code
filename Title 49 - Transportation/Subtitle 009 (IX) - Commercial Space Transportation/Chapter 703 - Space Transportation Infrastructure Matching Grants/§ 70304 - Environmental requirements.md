@@ -6,7 +6,7 @@ Policy.—It is the policy of the United States that projects selected under thi
 
 (b)
 
-Public Hearing Requirement.—The Secretary of Transportation may approve an application only if the sponsor of the project certifies to the Secretary that an opportunity for a public hearing has been provided to consider the economic, social, and environmental effects of the project and its consistency with the goals of any planning carried out by the community. When a hearing is held under this paragraph, thesponsor shall submit a copy of the transcript of the hearing to the Secretary.
+Public Hearing Requirement.—The Secretary of Transportation may approve an application only if the sponsor of the project certifies to the Secretary that an opportunity for a public hearing has been provided to consider the economic, social, and environmental effects of the project and its consistency with the goals of any planning carried out by the community. When a hearing is held under this paragraph, the sponsor shall submit a copy of the transcript of the hearing to the Secretary.
 
 (c)
 
@@ -56,7 +56,7 @@ In subsection (d), before clause (1), the words “in connection with any projec
 
 #### References in Text
 
-The Civil Rights Act of 1964, referred to in subsec. (d)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (d)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The PublicHealth and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 Title VIII of the Act of April 11, 1968, referred to in subsec. (d)(3), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, known as the Fair Housing Act, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 

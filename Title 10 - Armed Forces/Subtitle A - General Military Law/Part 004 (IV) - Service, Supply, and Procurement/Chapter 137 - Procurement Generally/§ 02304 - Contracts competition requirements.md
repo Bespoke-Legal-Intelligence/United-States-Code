@@ -36,7 +36,7 @@
 
 (2) The head of an agency may provide for the procurement of property or services covered by this section using competitive procedures, but excluding concerns other than small business concerns in furtherance of sections 9 and 15 of the Small Business Act (15 U.S.C. 638, 644) and concerns other than small business concerns, historically Black colleges and universities, and minority institutions in furtherance of section 2323 of this title.
 
-(3) A contract awarded pursuant to the competitive procedures referred to in paragraphs (1)and (2) shall not be subject to the justification and approval required by subsection (f)(1).
+(3) A contract awarded pursuant to the competitive procedures referred to in paragraphs (1) and (2) shall not be subject to the justification and approval required by subsection (f)(1).
 
 (4) A determination under paragraph (1) may not be made for a class of purchases or contracts.
 
@@ -88,7 +88,7 @@
 
 &emsp;&emsp;(ii) in the case of a contract for an amount exceeding $10,000,000 (but equal to or less than $50,000,000), by the head of the procuring activity (or the head of the procuring activity's delegate designated pursuant to paragraph (6)(A)); or
 
-&emsp;&emsp;(iii) in the case of a contract for an amount exceeding $50,000,000, by the senior procurement executive of the agency designated pursuant to section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)) (without further delegation) or in the case of the Under Secretary of Defense for Acquisition and Technology, acting in his capacity as the senior procurement executive for the Department of Defense, the Under Secretary's delegate designated pursuant to paragraph (6)(B); and
+&emsp;&emsp;(iii) in the case of a contract for an amount exceeding $50,000,000, by the senior procurement executive of the agency designated pursuant to section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)) (without further delegation) or in the case of the Under Secretary of Defense for Acquisition, Technology, and Logistics, acting in his capacity as the senior procurement executive for the Department of Defense, the Under Secretary's delegate designated pursuant to paragraph (6)(B); and
 
 &emsp;(C) any required notice has been published with respect to such contract pursuant to section 18 of the Office of Federal Procurement Policy Act (41 U.S.C. 416) and all bids or proposals received in response to that notice have been considered by the head of the agency.
 
@@ -134,7 +134,7 @@
 
 &emsp;(ii) if a civilian, is serving in a position with a grade under the General Schedule (or any other schedule for civilian officers or employees) that is comparable to or higher than the grade of brigadier general or rear admiral (lower half).
 
-(B) The authority of the Under Secretary of Defense for Acquisition and Technology under paragraph (1)(B)(iii) may be delegated only to—
+(B) The authority of the Under Secretary of Defense for Acquisition, Technology, and Logistics under paragraph (1)(B)(iii) may be delegated only to—
 
 &emsp;(i) an Assistant Secretary of Defense; or
 
@@ -188,7 +188,7 @@
 
 (4) This subsection shall not apply with respect to any contract that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an agency named in section 2303(a) of this title and to report on such matters to the Congress or any agency of the Federal Government.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 85–800, §8, Aug. 28, 1958, 72 Stat. 967; Pub. L. 85–861, §33(a)(12), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–653, §1(a)–(c), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–268, §5, Mar. 16, 1968, 82 Stat. 50; Pub. L. 90–500, title IV, §405, Sept. 20, 1968, 82 Stat. 851; Pub. L. 93–356, §4, July 25, 1974, 88 Stat. 390; Pub. L. 96–513, title V, §511(76), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §907(a), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–295, §1(24), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 97–375, title I, §114, Dec. 21, 1982, 96 Stat. 1821; Pub. L. 98–369, div. B, title VII, §§2723(a), 2727(b), July 18, 1984, 98 Stat. 1187, 1194; Pub. L. 98–577, title V, §504(b)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(1), title XIII, §1303(a)(13), Nov. 8, 1985, 99 Stat. 703, 739; Pub. L. 99–500, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–152, 1783–155, and Pub. L. 99–591, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–152, 3341–155; Pub. L. 99–661, div. A, title IX, formerly title IV, §§923(a)–(c), 927(a), title XIII, §1343(a)(14), Nov. 14, 1986, 100 Stat. 3932, 3935, 3993, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(d)(3), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–456, div. A, title VIII, §803, Sept. 29, 1988, 102 Stat. 2008; Pub. L. 101–189, div. A, title VIII, §§812, 817, 818, 853(d), Nov. 29, 1989, 103 Stat. 1493, 1501, 1502, 1519; Pub. L. 101–510, div. A, title VIII, §806(b), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–25, title VII, §701(d)(2), Apr. 6, 1991, 105 Stat. 114; Pub. L. 102–484, div. A, title VIII, §§801(h)(2), 816, title X, §1052(23), Oct. 23, 1992, 106 Stat. 2445, 2454, 2500; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title I, §§1001–1003, 1004(b), 1005, title IV, §4401(a), title VII, §7203(a)(1), Oct. 13, 1994, 108 Stat. 3249, 3253, 3254, 3347, 3379; Pub. L. 104–106, div. D, title XLI, §§4101(a), 4102(a), title XLII, §4202(a)(1), title XLIII, §4321(b)(4), (5), Feb. 10, 1996, 110 Stat. 642, 643, 652, 672; Pub. L. 104–320, §§7(a)(1), 11(c)(1), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §§841(b), 850(f)(3)(B), title X, §1073(a)(42), (43), Nov. 18, 1997, 111 Stat. 1843, 1850, 1902.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 85–800, §8, Aug. 28, 1958, 72 Stat. 967; Pub. L. 85–861, §33(a)(12), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–653, §1(a)–(c), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–268, §5, Mar. 16, 1968, 82 Stat. 50; Pub. L. 90–500, title IV, §405, Sept. 20, 1968, 82 Stat. 851; Pub. L. 93–356, §4, July 25, 1974, 88 Stat. 390; Pub. L. 96–513, title V, §511(76), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §907(a), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–295, §1(24), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 97–375, title I, §114, Dec. 21, 1982, 96 Stat. 1821; Pub. L. 98–369, div. B, title VII, §§2723(a), 2727(b), July 18, 1984, 98 Stat. 1187, 1194; Pub. L. 98–577, title V, §504(b)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(1), title XIII, §1303(a)(13), Nov. 8, 1985, 99 Stat. 703, 739; Pub. L. 99–500, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–152, 1783–155, and Pub. L. 99–591, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–152, 3341–155; Pub. L. 99–661, div. A, title IX, formerly title IV, §§923(a)–(c), 927(a), title XIII, §1343(a)(14), Nov. 14, 1986, 100 Stat. 3932, 3935, 3993, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(d)(3), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–456, div. A, title VIII, §803, Sept. 29, 1988, 102 Stat. 2008; Pub. L. 101–189, div. A, title VIII, §§812, 817, 818, 853(d), Nov. 29, 1989, 103 Stat. 1493, 1501, 1502, 1519; Pub. L. 101–510, div. A, title VIII, §806(b), Nov. 5, 1990, 104 Stat. 1592; Pub. L.102–25, title VII, §701(d)(2), Apr. 6, 1991, 105 Stat. 114; Pub. L. 102–484, div. A, title VIII, §§801(h)(2), 816, title X, §1052(23), Oct. 23, 1992, 106 Stat. 2445, 2454, 2500; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title I, §§1001–1003, 1004(b), 1005, title IV, §4401(a), title VII, §7203(a)(1), Oct. 13, 1994, 108 Stat. 3249, 3253, 3254, 3347, 3379; Pub. L. 104–106, div. D, title XLI, §§4101(a), 4102(a), title XLII, §4202(a)(1), title XLIII, §4321(b)(4), (5), Feb. 10, 1996, 110 Stat. 642, 643, 652, 672; Pub. L. 104–320, §§7(a)(1), 11(c)(1), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §§841(b), 850(f)(3)(B), title X, §1073(a)(42), (43), Nov. 18, 1997, 111 Stat. 1843, 1850, 1902; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717.)
 
 Historical and Revision Notes<br>1956
 
@@ -304,6 +304,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
+1999—Subsec. (f)(1)(B)(iii), (6)(B). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+
 1997—Subsec. (c)(5). Pub. L. 105–85, §1073(a)(42), substituted “subsection (k)” for “subsection (j)”.
 
 Subsec. (f)(1)(B)(iii). Pub. L. 105–85, §1073(a)(43)(A), substituted “(6)(B)” for “(6)(C)”.
@@ -320,7 +322,7 @@ Subsec. (g)(4). Pub. L. 105–85, §850(f)(3)(B), substituted “31(f)” for �
 
 1996—Subsec. (c)(3)(C). Pub. L. 104–320 substituted “agency, or to procure the services of an expert or neutral for use” for “agency, or” and inserted “or negotiated rulemaking” after “alternative dispute resolution”.
 
-Subsec. (f)(1)(B)(i). Pub. L. 104–106, §4102(a)(1), substituted “$500,000 (but equal to or less than $10,000,000)” for “$100,000 (but equal to or less than $1,000,000)” and “(ii) or (iii)” for “(ii), (iii), or (iv)”.
+Subsec. (f)(1)(B)(i). Pub. L. 104–106, §4102(a)(1), substituted “$500,000 (but equal to or less than $10,000,000)”for “$100,000 (but equal to or less than $1,000,000)” and “(ii) or (iii)” for “(ii), (iii), or (iv)”.
 
 Subsec. (f)(1)(B)(ii). Pub. L. 104–106, §4102(a)(2), substituted “$10,000,000 (but equal to or less than $50,000,000)” for “$1,000,000 (but equal to or less than $10,000,000)” and inserted “or” at end.
 
@@ -516,6 +518,10 @@ Repeal of prior subsec. (j) of this section by section 1004(b) of Pub. L. 103–
 
 Section 2723(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and section 2305 of this title\] do not supersede or affect the provisions of section 8(a) of the Small Business Act (15 U.S.C. 637(a)).”
 
+#### GAO Report
+
+Pub. L. 106–65, div. A, title VIII, §806(b), Oct. 5, 1999, 113 Stat. 705, provided that: “Not later than March 1, 2001, the Comptroller General shall submit to Congress an evaluation of the test program authorized by the provisions in section 4202 of the Clinger-Cohen Act of 1996 \[Pub. L. 104–106, amending this section, section 2305 of this title, and sections 253, 253a, 416, and 427 of Title 41, Public Contracts, and enacting provisions set out as a note below\], together with any recommendations that the Comptroller General considers appropriate regarding the test program or the use of special simplified procedures for purchases of commercial items in excess of the simplified acquisition threshold.”
+
 #### Procurement of Conventional Ammunition
 
 Pub. L. 105–261, div. A, title VIII, §806, Oct. 17, 1998, 112 Stat. 2084, provided that:
@@ -534,7 +540,7 @@ Conventional Ammunition Defined.—For purposes of this section, the term ‘con
 
 #### Warranty Claims Recovery Pilot Program
 
-Section 391 of Pub. L. 105–85 provided that:
+Section 391 of Pub. L. 105–85, as amended by Pub. L. 106–65, div. A, title III, §382, Oct. 5, 1999, 113 Stat. 583, provided that:
 
 “(a)
 
@@ -566,11 +572,11 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 “(f)
 
-Termination of Authority.—The pilot program shall terminate on September 30, 1999, and contracts entered into under this section shall terminate not later than that date.
+Termination of Authority.—The pilot program shall terminate on September 30, 2000, and contracts entered into under this section shall terminate not later than that date.
 
 “(g)
 
-Reporting Requirements.—(1) Not later than January 1, 2000, the Secretary of Defense shall submit to Congress a report on the pilot program. The report shall include the following:
+Reporting Requirements.—(1) Not later than January 1, 2001, the Secretary of Defense shall submit to Congress a report on the pilot program. The report shall include the following:
 
 &emsp;“(A) The number of contracts entered into under the program.
 
@@ -578,7 +584,7 @@ Reporting Requirements.—(1) Not later than January 1, 2000, the Secretary of D
 
 &emsp;“(C) Any additional comments and recommendations that the Secretary considers appropriate regarding use of commercial sources of services for collection of Department of Defense claims under aircraft engine warranties.
 
-“(2) Not later than March 1, 2000, the Comptroller General shall submit to Congress a report containing the results of a review by the Comptroller General of the pilot program. In the review, the Comptroller General shall—
+“(2) Not later than March 1, 2001, the Comptroller General shall submit to Congress a report containing the results of a review by the Comptroller General of the pilot program. In the review, the Comptroller General shall—
 
 &emsp;“(A) assess the success of the methods used in the demonstration program to identify and recover Department of Defense claims under aircraft engine warranties;
 
@@ -628,7 +634,7 @@ Definitions.—In this section:
 
 #### Termination of Authority To Issue Solicitations for Purchases of Commercial Items in Excess of Simplified Acquisition Threshold
 
-Section 4202(e) of Pub. L. 104–106 provided that: “The authority to issue solicitations for purchases of commercial items in excess of the simplified acquisition threshold pursuant to the special simplified procedures authorized by section 2304(g)(1) of title 10, United States Code, section 303(g)(1) of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 253(g)(1)\], and section 31(a) of the Office of Federal Procurement Policy Act \[41 U.S.C. 427(a)\], as amended by this section, shall expire three years after the date on which such amendments take effect pursuant to section 4401(b) \[set out as an Effective Date of 1996 Amendment note under section 251 of Title 41, Public Contracts\]. Contracts may be awarded pursuant to solicitations that have been issued before such authority expires, notwithstanding the expiration of such authority.”
+Section 4202(e) of Pub. L. 104–106, as amended by Pub. L. 106–65, div. A, title VIII, §806(a), Oct. 5, 1999, 113 Stat. 705, provided that: “The authority to issue solicitations for purchases of commercial items in excess of the simplified acquisition threshold pursuant to the special simplified procedures authorized by section 2304(g)(1) of title 10, United States Code, section 303(g)(1) of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 253(g)(1)\], and section 31(a) of the Office of Federal Procurement Policy Act \[41 U.S.C. 427(a)\], as amended by this section, shall expire January 1, 2002. Contracts may be awarded pursuant to solicitations that have been issued before such authority expires, notwithstanding the expiration of such authority.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -664,31 +670,11 @@ Termination of Authority.—The authority provided for commanders of military in
 
 #### Evaluation of Contracts for Professional and Technical Services
 
-Section 804 of Pub. L. 100–456, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, directed Secretary of Defense, within 120 days after Sept. 29, 1988, to establish criteria to ensure that proposals for contracts for professional and technical services be evaluated on a basis which does not encourage contractors to propose mandatory uncompensated overtime for professional and technical employees and, within 30 days after Sept. 29, 1988, to establish an advisory committee to make recommendations on the criteria.
+Section 804 of Pub. L. 100–456, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, directed Secretary of Defense, within 120 days after Sept. 29, 1988, to establish criteria to ensure thatproposals for contracts for professional and technical services be evaluated on a basis which does not encourage contractors to propose mandatory uncompensated overtime for professional and technical employees and, within 30 days after Sept. 29, 1988, to establish an advisory committee to make recommendations on the criteria.
 
 #### Regulations On Use of Fixed-Price Development Contracts
 
-Section 807 of Pub. L. 100–456, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that:
-
-“(a)
-
-In General.—(1) Not later than 120 days after the date of the enactment of this Act \[Sept. 29, 1988\], the Secretary of Defense shall revise the Department of Defense regulations that provide for the use of fixed-price type contracts in a development program. The regulations shall provide that a fixed-price contract may be awarded in such a program only if—
-
-&emsp;“(A) the level of program risk permits realistic pricing; and
-
-&emsp;“(B) the use of a fixed-price contract permits an equitable and sensible allocation of program risk between the United States and the contractor.
-
-“(2)(A) The regulations also shall provide that if a contract for development of a major system is to be awarded in an amount greater than $10,000,000, the contract may not be a firm fixed-price contract.
-
-“(B) A waiver of the requirement prescribed in regulations under subparagraph (A) may be granted by the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, but only if the Secretary determines and states in writing that the award is consistent with the criteria specified in clauses (A) and (B) of paragraph (1) and the regulations prescribed under such paragraph. The Secretary may delegate the authority in the preceding sentence only to a person who holds a position in the Office of the Secretary of Defense at or above the level of Assistant Secretary of Defense.
-
-“(b)
-
-Definitions.—In this section, the term ‘major system’ has the meaning given such term by section 2302(5) of such title.
-
-“(c)
-
-Expiration.—Paragraph (2) of subsection (a) shall cease to be effective two years after the date of the enactment of this Act \[Sept. 29, 1988\].”
+Pub. L. 100–456, div. A, title VIII, §807, Sept. 29, 1988, 102 Stat. 2011, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that not later than 120 days after Sept. 29, 1988, the Secretary of Defense was to make certain revisions to the Department of Defense regulations that provide for the use of fixed-price type contracts in a development program.
 
 #### Prohibition of Purchase of Angolan Petroleum Products From Companies Producing Oil in Angola
 
@@ -892,5 +878,5 @@ National defense contract provisions as not authorizing increase in price of sub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1091, 1724, 2304a, 2304b, 2304c, 2343, 2350b, 2361, 2469a, 2486, 2662 of this title; title 15 section 637; title 41 sections 416, 417, 427; title 42 section 2465e; title 50 sections 403c, 1432, 1651; title 50 App. section 2077.
+This section is referred to in sections 1091, 1724, 2304a, 2304b, 2304c, 2343, 2350b, 2361, 2469a, 2486, 2662 of this title; title 15 section 637; title 41 sections 416, 417, 427; title 50 sections 403c, 1432, 1651; title 50 App. section 2077.
 

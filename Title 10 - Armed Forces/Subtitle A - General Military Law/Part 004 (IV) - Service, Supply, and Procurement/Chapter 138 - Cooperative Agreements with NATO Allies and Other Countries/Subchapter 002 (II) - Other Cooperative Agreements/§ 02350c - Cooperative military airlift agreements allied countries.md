@@ -8,7 +8,7 @@
 
 &emsp;(3) During peacetime, the only military airlift capacity that may be used to provide transportation is that capacity that (A) is not needed to meet the transportation requirements of the military forces of the country providing the transportation, and (B) was not created solely to accommodate the requirements of the military forces of the country receiving the transportation.
 
-&emsp;(4) Defense articles purchased by an allied country from the United States under the Arms Export Control Act (22 U.S.C. 2751 et seq.) or from a commercial source under theexport controls of the Arms Export Control Act may not be transported (for the purpose of delivery incident to the purchase of the defense articles) to the purchasing allied country on aircraft operated by or for the military forces of the United States except at a rate of reimbursement that is equal to the full cost of transportation of the defense articles, as required by section 21(a)(3) of the Arms Export Control Act (22 U.S.C. 2761(a)(3)).
+&emsp;(4) Defense articles purchased by an allied country from the United States under the Arms Export Control Act (22 U.S.C. 2751 et seq.) or from a commercial source under the export controls of the Arms Export Control Act may not be transported (for the purpose of delivery incident to the purchase of the defense articles) to the purchasing allied country on aircraft operated by or for the military forces of the United States except at a rate of reimbursement that is equal to the full cost of transportation of the defense articles, as required by section 21(a)(3) of the Arms Export Control Act (22 U.S.C. 2761(a)(3)).
 
 (b) Subject to the availability of appropriations, and after consultation with the Secretary of State, the Secretary of Defense may enter into nonreciprocal military airlift agreements with North Atlantic Treaty Organization subsidiary bodies for the transportation of the personnel and cargo of such subsidiary bodies on aircraft operated by or for the military forces of the United States. Any such agreement shall be subject to such terms as the Secretary of Defense considers appropriate.
 
@@ -36,7 +36,7 @@ The Arms Export Control Act (22 U.S.C. 2751 et seq.), referred to in subsec. (a)
 
 #### Amendments
 
-1992—Subsec. (a)(2). Pub. L. 102–484, §1311(a), substituted “as agreed upon by the parties. Liquidation shall be either by direct payment to the country that has provided the greater amount of transportation or by the providing of in-kind transportation services to that country. The liquidation shall occur on a regular basis, but not less often than once every 12 months.” for “not less often than once every 3 months by direct payment to the country that has provided the greater amount of transportation.”
+1992—Subsec. (a)(2). Pub. L. 102–484, §1311(a), substituted “as agreed upon by the parties. Liquidation shall be either by direct payment to the country that has provided the greater amount of transportation orby the providing of in-kind transportation services to that country. The liquidation shall occur on a regular basis, but not less often than once every 12 months.” for “not less often than once every 3 months by direct payment to the country that has provided the greater amount of transportation.”
 
 Subsec. (e)(1)(B). Pub. L. 102–484, §1311(b), substituted “, New Zealand, Japan, and the Republic of Korea” for “or New Zealand”.
 

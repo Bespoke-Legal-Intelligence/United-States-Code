@@ -14,7 +14,7 @@ The Secretary may accept any mortgage for insurance under this section without r
 
 #### (d) Rental conditions; preferences and priorities in the sale or rental of dwellings
 
-The Secretary shall require each project covered by a mortgage insured under this section to be held for rental for a period of not less than five years after the project or dwelling is made available for initial occupancy or until he finds that the housing may be released from such rental condition. The Secretary shall prescribe such procedures as in his judgment are necessary to secure reasonable preference or priority in the sale or rental of dwellings covered by a mortgage insured under this section for military personnel and essential civilian employees of the armed services, employees of contractors for the armed services, and persons described in clause (1)(B) of subsection (b) of this section.
+The Secretary shall require each project covered by a mortgage insured under this section tobe held for rental for a period of not less than five years after the project or dwelling is made available for initial occupancy or until he finds that the housing may be released from such rental condition. The Secretary shall prescribe such procedures as in his judgment are necessary to secure reasonable preference or priority in the sale or rental of dwellings covered by a mortgage insured under this section for military personnel and essential civilian employees of the armed services, employees of contractors for the armed services, and persons described in clause (1)(B) of subsection (b) of this section.
 
 #### (e) Property held by mortgagor approved by Secretary; acquisition of stock or interest; redemption
 
@@ -38,7 +38,7 @@ The aggregate number of dwelling units (including all units in multifamily proje
 
 #### (j) Applicability of other laws
 
-The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (<i>l</i>), and (n) of section 1713 of this title shall be applicable to mortgages insured under this section except individual mortgages of the character described in subsection (g) of this section covering the individual dwellings in the project, and as to such individual mortgages the provisions of subsections (a), (c), (d), (e), (f), (g), (h),<sup>1</sup> (j), and (k) <sup>1</sup> of section 1710 of this title shall be applicable: <i>Provided</i>, That wherever the words “Fund” or “Mutual Mortgage Insurance Fund” appear in section 1710 of this title, such reference shall refer to the General Insurance Fund with respect to mortgages insured under this section.
+The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (<i>l</i>), and (n) of section 1713 of this title shall be applicable to mortgages insured under this section except individual mortgages of the character described in subsection (g) of this section covering the individual dwellings in the project, and as to such individual mortgages theprovisions of subsections (a), (c), (d), (e), (f), (g), (h),<sup>1</sup> (j), and (k) <sup>1</sup> of section 1710 of this title shall be applicable: <i>Provided</i>, That wherever the words “Fund” or “Mutual Mortgage Insurance Fund” appear in section 1710 of this title, such reference shall refer to the General Insurance Fund with respect to mortgages insured under this section.
 
 #### (k) Aggregate amount of mortgages insured; termination date
 

@@ -36,7 +36,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 &emsp;&emsp;&emsp;&emsp;(I) grants provided by the United States, a State, or a political subdivision of a State for use in connection with the project,
 
-&emsp;&emsp;&emsp;&emsp;(II) proceeds of any issue of State or local government obligations used to provide financing for the project the interest on which is exempt from tax under section 103, and
+&emsp;&emsp;&emsp;&emsp;(II) proceeds of any issue of State or local government obligations used toprovide financing for the project the interest on which is exempt from tax under section 103, and
 
 &emsp;&emsp;&emsp;&emsp;(III) the aggregate amount of subsidized energy financing (within the meaning of section 48(a)(4)(C)) provided in connection with the project, and
 
@@ -136,7 +136,7 @@ For purposes of this section—
 
 #### (B) Inflation adjustment factor
 
-&emsp;&emsp;The term “inflation adjustment factor” means, with respect to a calendar year, a fraction the numerator of which is the GNP implicit price deflator for the calendar year and the denominator of which is the GNP implicit price deflator for calendar year 1979. The term “GNP implicit price deflator” means the first revision of the implicit price deflator for the gross national product as computed and published by the Department of Commerce.
+&emsp;&emsp;The term “inflation adjustment factor” means, with respect to a calendar year, a fraction the numerator of which is the GNP implicit price deflator for the calendar year and the denominator of which is the GNP implicit price deflator for calendar year 1979. The term “GNP implicit price deflator” means the first revision of the implicit pricedeflator for the gross national product as computed and published by the Department of Commerce.
 
 #### (C) Reference price
 
@@ -170,7 +170,7 @@ For purposes of this section—
 
 #### (1) No credit if section 107 of the Natural Gas Policy Act of 1978 is utilized
 
-&emsp;Subsection (a) shall apply with respect to any natural gas described in subsection\(c)(1)(B)(i) which is sold during the taxable year only if such natural gas is sold at a lawful price which is determined without regard to the provisions of section 107 of the Natural Gas Policy Act of 1978 and subtitle B of title I of such Act.
+&emsp;Subsection (a) shall apply with respect to any natural gas described in subsection (c)(1)(B)(i) which is sold during the taxable year only if such natural gas is sold at a lawful price which is determined without regard to the provisions of section 107 of the Natural Gas Policy Act of 1978 and subtitle B of title I of such Act.
 
 #### (2) Treatment of this section
 
@@ -206,7 +206,7 @@ This section shall apply with respect to qualified fuels—
 
 #### References in Text
 
-The Natural Gas Policy Act of 1978, referred to in subsecs. (c)(2)(A), (B)(i) and (e), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, as amended, which is classified generally to chapter 60 (§3301 et seq.) of Title 15, Commerce and Trade. Subtitle B of title I of the Act, which was classified generally to part B of subchapter I (§3331 et seq.) of chapter 60 of Title 15, was repealed by Pub. L. 101–60, §2(b), July 26, 1989, 103 Stat. 158, effective Jan. 1, 1993. Section 2(18) of the Act is classified to section 3301(18) of Title 15. Sections 107 and 503 of the Act, which were classified to sections 3317 and 3413 of Title 15, respectively, were repealed by Pub. L. 101–60, §§2(b), 3(b)(5), July 26, 1989, 103 Stat. 158, 159, effective Jan. 1, 1993. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of Title 15 and Tables.
+The Natural Gas Policy Act of 1978, referred to in subsecs. (c)(2)(A), (B)(i) and (e), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, as amended, which is classified generally to chapter 60 (§3301 et seq.) of Title 15, Commerce and Trade. Subtitle B of title I of the Act, which was classified generally to part B of subchapter I (§3331 et seq.) of chapter 60 of Title 15, was repealed by Pub. L. 101–60, §2(b), July 26, 1989, 103 Stat. 158, effective Jan. 1, 1993. Section 2(18) of the Act is classified to section3301(18) of Title 15. Sections 107 and 503 of the Act, which were classified to sections 3317 and 3413 of Title 15, respectively, were repealed by Pub. L. 101–60, §§2(b), 3(b)(5), July 26, 1989, 103 Stat. 158, 159, effective Jan. 1, 1993. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of Title 15 and Tables.
 
 The date of the enactment of this clause, and such date of enactment, referred to in subsec. (c)(2)(B), probably mean the date of enactment of Pub. L. 101–508, which amended subsec. (c)(2)(B) of this section generally, and which was approved Nov. 5, 1990.
 
@@ -248,7 +248,7 @@ Election.—A taxpayer shall elect, at such time and in such manner as the Secre
 
 &emsp;“(ii) shall be effective for the taxable year with respect to which it is made and for all subsequent taxable years and, once made, may be revoked only with the consent of the Secretary.”
 
-Subsec. (c)(5). Pub. L. 101–508, §11816(b)(1), struck out par. (5) “Agricultural byproduct steam” which read asfollows: “Steam produced from solid agricultural byproducts which is used by the taxpayer in his trade or business shall be treated as having been sold by the taxpayer to an unrelated person on the date on which it is used.”
+Subsec. (c)(5). Pub. L. 101–508, §11816(b)(1), struck out par. (5) “Agricultural byproduct steam” which read as follows: “Steam produced from solid agricultural byproducts which is used by the taxpayer in his trade or business shall be treated as having been sold by the taxpayer to an unrelated person on the date on which it is used.”
 
 Subsec. (d)(4). Pub. L. 101–508, §11816(b)(2), amended par. (4) generally, striking out “Special rules applicable to” before “Gas” in heading, redesignating former subpar. (A) as par. (4), striking out subpar. (B) which related to the reference price and application of phaseout for Devonian shale, and making minor changes in phraseology.
 
@@ -330,7 +330,7 @@ Section 1879(c)(2) of Pub. L. 99–514 provided that: “The amendment made by p
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 474(h) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, andto carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by section 474(h) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 Amendment by section 612(e)(1) of Pub. L. 98–369 applicable to interest paid or accrued after Dec. 31, 1984, on indebtedness incurred after Dec. 31, 1984, see section 612(g) of Pub. L. 98–369, set out as an Effective Date note under section 25 of this title.
 

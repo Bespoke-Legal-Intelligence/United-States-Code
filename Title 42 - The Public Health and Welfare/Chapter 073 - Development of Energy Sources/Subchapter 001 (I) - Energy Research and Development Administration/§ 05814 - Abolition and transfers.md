@@ -6,7 +6,7 @@ The Atomic Energy Commission is hereby abolished. Sections 2031 and 2032 of this
 
 #### (b) Transfer or lapse of functions of Atomic Energy Commission
 
-All other functions of the Commission, the Chairman and members of the Commission, andthe officers and components of the Commission are hereby transferred or allowed to lapse pursuant to the provisions of this chapter.
+All other functions of the Commission, the Chairman and members of the Commission, and the officers and components of the Commission are hereby transferred or allowed to lapse pursuant to the provisions of this chapter.
 
 #### (c) Functions of Atomic Energy Commission transferred to Administrator
 
@@ -46,7 +46,7 @@ To the extent necessary or appropriate to perform functions and carry out progra
 
 #### (i) Utilization of technical and management capabilities of other executive agencies; assignment of specific programs or projects in energy research and development
 
-In the exercise of his responsibilities under section 5813 of this title, the Administrator shall utilize, with their consent, to the fullest extent he determines advisable the technical and management capabilities of other executive agencies having facilities, personnel, or other resources which can assist or advantageously be expanded to assist in carrying out such responsibilities. The Administrator shall consult with the head of each agency with respect to such facilities, personnel, or other resources, and may assign, with their consent, specific programs or projects in energy research and development as appropriate. In making such assignments under this subsection, the head of each such agency shall insure that—
+In the exercise of his responsibilities under section 5813 of this title, the Administrator shall utilize, with their consent, to the fullest extent he determines advisable the technical and management capabilities of other executive agencies having facilities, personnel, or other resources which can assist or advantageously be expanded to assist in carrying out such responsibilities. The Administrator shall consult with the headof each agency with respect to such facilities, personnel, or other resources, and may assign, with their consent, specific programs or projects in energy research and development as appropriate. In making such assignments under this subsection, the head of each such agency shall insure that—
 
 &emsp;(1) such assignments shall be in addition to and not detract from the basic mission responsibilities of the agency, and
 
@@ -74,7 +74,7 @@ Act of July 1, 1960 (74 Stat. 336; 661–668), referred to in subsec. (e)(1), pr
 
 Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
 
-Division of Naval Reactors and Division of Military Applications, both established under section 2035 of this title, and functions of Energy Research and Development Administration with respect to Military Liaison Committee, established by section 2037 of this title, referred to in subsec. (d), transferred to Department of Energy by section 7158(b) of this title, with such organizational units to be deemed organizational units established by chapter 84 (§7101 et seq.) of this title.
+Division of Naval Reactors and Division of Military Applications, both established under section 2035 of this title, and functions of Energy Research and Development Administration with respect to Military Liaison Committee, established by section 2037 of this title, referred to in subsec. (d), transferred to Department of Energy by section 7158 of this title, with such organizational units to be deemed organizational units established by chapter 84 (§7101 et seq.) of this title.
 
 Functions vested in, or delegated to, Secretary of Energy and Department of Energy under or with respect to authorities formerly exercised by Bureau of Mines, but limited to research and development relating to increased efficiency of production technology of solid fuel minerals, transferred to, and vested in, Secretary of the Interior, by section 100 of Pub. L. 97–257, 96 Stat. 841, set out as a note under section 7152 of this title.
 
@@ -292,7 +292,7 @@ Section 281 \[42 U.S.C. 2011 note\] (“Separability”) and Section 291 \[42 U.
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee establishedby the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

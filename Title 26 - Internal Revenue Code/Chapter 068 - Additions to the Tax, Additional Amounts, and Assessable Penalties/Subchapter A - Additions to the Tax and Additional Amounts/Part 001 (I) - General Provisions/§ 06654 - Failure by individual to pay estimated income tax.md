@@ -95,9 +95,13 @@ For purposes of this section—
 
 105&nbsp;&nbsp;
 
-&nbsp;&nbsp;1999 or 2000
+&nbsp;&nbsp;1999
 
-106&nbsp;&nbsp;
+108\.6&nbsp;&nbsp;
+
+&nbsp;&nbsp;2000
+
+110&nbsp;&nbsp;
 
 &nbsp;&nbsp;2001
 
@@ -375,9 +379,11 @@ In the case of a nonresident alien described in section 6072(c):
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 823; Pub. L. 87–682, §1(a)(4), Sept. 25, 1962, 76 Stat. 575; Pub. L. 89–368, title I, §§102(b)(1)–(3), 103(a), Mar. 15, 1966, 80 Stat. 62–64; Pub. L. 91–172, title III, §301(b)(13), Dec. 30, 1969, 83 Stat. 586; Pub. L. 92–5, title II, §203(b)(7), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §203(b)(7), July 1, 1972, 86 Stat. 420; Pub. L. 93–66, title II, §203(b)(7), (d), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(b)(7), (d), Dec. 31, 1973, 87 Stat. 954; Pub. L. 93–625, §7(c), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(a)(35), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834; Pub. L. 95–30, title I, §102(b)(16), May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title IV, §421(e)(9), Nov. 6, 1978, 92 Stat. 2877; Pub. L. 97–34, title VI, §601(a)(6)(A), title VII, §725(b), (c)(5), Aug. 13, 1981, 95 Stat. 336, 346; Pub. L. 97–248, title II, §207(d)(7), formerly §207(c)(7), title III, §§307(a)(14), 308(a), 328(a), Sept. 3, 1982, 96 Stat. 420, 590, 591, 618, renumbered §207(d)(7), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 97–448, title I, §§106(a)(4)(C), 107(c)(1), title II, §201(j)(3), Jan. 12, 1983, 96 Stat. 2390, 2391, 2396; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §411, July 18, 1984, 98 Stat. 788; Pub. L. 99–514, title XIV, §1404(a), title XV, §§1511(c)(14), 1541(a), (b), title XVIII, §1841, Oct. 22, 1986, 100 Stat. 2713, 2745, 2751, 2852; Pub. L. 100–418, title I, §1941(b)(6)(A), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1014(d)(1), (2), title IV, §4005(g)(5), Nov. 10, 1988, 102 Stat. 3560, 3651; Pub. L. 101–239, title VII, §7811(j)(5), (6), Dec. 19, 1989, 103 Stat. 2411, 2412; Pub. L. 102–164, title IV, §403(a), (b), Nov. 15, 1991, 105 Stat. 1062, 1064; Pub. L. 103–66, title XIII, §13214(a), (b), Aug. 10, 1993, 107 Stat. 475; Pub. L. 103–465, title VII, §711(b), Dec. 8, 1994, 108 Stat. 4998; Pub. L. 105–34, title X, §1091(a), title XII, §1202(a), Aug. 5, 1997, 111 Stat. 962, 994; Pub. L. 105–277, div. J, title II, §2003(a), Oct. 21, 1998, 112 Stat. 2681–901.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 823; Pub. L. 87–682, §1(a)(4), Sept. 25, 1962, 76 Stat. 575; Pub. L. 89–368, title I, §§102(b)(1)–(3), 103(a), Mar. 15, 1966, 80 Stat. 62–64; Pub. L. 91–172, title III, §301(b)(13), Dec. 30, 1969, 83 Stat. 586; Pub. L. 92–5, title II, §203(b)(7), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §203(b)(7), July 1, 1972, 86 Stat. 420; Pub. L. 93–66, title II, §203(b)(7), (d), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(b)(7), (d), Dec. 31, 1973, 87 Stat. 954; Pub. L. 93–625, §7(c), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(a)(35), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834; Pub. L. 95–30, title I, §102(b)(16), May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title IV, §421(e)(9), Nov. 6, 1978, 92 Stat. 2877; Pub. L. 97–34, title VI, §601(a)(6)(A), title VII, §725(b), (c)(5), Aug. 13, 1981, 95 Stat. 336, 346; Pub. L. 97–248, title II, §207(d)(7), formerly §207(c)(7), title III, §§307(a)(14), 308(a), 328(a), Sept. 3, 1982,96 Stat. 420, 590, 591, 618, renumbered §207(d)(7), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 97–448, title I, §§106(a)(4)(C), 107(c)(1), title II, §201(j)(3), Jan. 12, 1983, 96 Stat. 2390, 2391, 2396; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §411, July 18, 1984, 98 Stat. 788; Pub. L. 99–514, title XIV, §1404(a), title XV, §§1511(c)(14), 1541(a), (b), title XVIII, §1841, Oct. 22, 1986, 100 Stat. 2713, 2745, 2751, 2852; Pub. L. 100–418, title I, §1941(b)(6)(A), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1014(d)(1), (2), title IV, §4005(g)(5), Nov. 10, 1988, 102 Stat. 3560, 3651; Pub. L. 101–239, title VII, §7811(j)(5), (6), Dec. 19, 1989, 103 Stat. 2411, 2412; Pub. L. 102–164, title IV, §403(a), (b), Nov. 15, 1991, 105 Stat. 1062, 1064; Pub. L. 103–66, title XIII, §13214(a), (b), Aug. 10, 1993, 107 Stat. 475; Pub. L. 103–465, title VII, §711(b), Dec. 8, 1994, 108 Stat. 4998; Pub. L. 105–34, title X, §1091(a), title XII, §1202(a), Aug. 5, 1997, 111 Stat. 962, 994; Pub. L. 105–277, div. J, title II, §2003(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §531(a), Dec. 17, 1999, 113 Stat. 1928.)
 
 #### Amendments
+
+1999—Subsec. (d)(1)(C)(i). Pub. L. 106–170 in table substituted items assigning applicable percentages of 108.6 for 1999 and 110 for 2000 for item assigning applicable percentage of 106 for 1999 or 2000.
 
 1998—Subsec. (d)(1)(C)(i). Pub. L. 105–277 in table substituted items assigning applicable percentages of 105 for 1998 and 106 for 1999 or 2000 for item assigning applicable percentage of 105 for 1998, 1999, or 2000.
 
@@ -501,7 +507,7 @@ Pub. L. 93–233, §5(d), applicable only with respect to remuneration paid afte
 
 Pub. L. 93–66, §203(b)(7), effective with respect to taxable years beginning after 1973, substituted “$12,600” for “$12,000”.
 
-Pub. L. 93–66, §203(d), applicable only with respect to remuneration paid after, and taxable years beginningafter, 1973 (as provided in section 203(e) of Pub. L. 93–66, set out as an Effective Date of 1973 Amendments note under section 409 of Title 42, The Public Health and Welfare), amended section 203(b)(7)(C) of Pub. L. 92–336 (set out as 1972 Amendment note below, substituting “$12,600” for “$12,000”. See, also, such 1972 Amendment note below.
+Pub. L. 93–66, §203(d), applicable only with respect to remuneration paid after, and taxable years beginning after, 1973 (as provided in section 203(e) of Pub. L. 93–66, set out as an Effective Date of 1973 Amendments note under section 409 of Title 42, The Public Health and Welfare), amended section 203(b)(7)(C) of Pub. L. 92–336 (set out as 1972 Amendment note below, substituting “$12,600” for “$12,000”. See, also, such 1972 Amendment note below.
 
 1972—Subsec. (d)(2)(B)(ii). Pub. L. 92–336, §203(b)(7)(A) substituted “$10,800” for “$9,000”.
 
@@ -522,6 +528,10 @@ Subsec. (d). Pub. L. 89–368, §§102(b)(2), 103(a), inserted requirement that,
 Subsec. (f). Pub. L. 89–368, §102(b)(3), inserted tax imposed by chapter 2 to definition of “tax”.
 
 1962—Subsecs. (b), (d)(1)(C). Pub. L. 87–682 inserted “or fishing” after “from farming” wherever appearing.
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–170, title V, §531(b), Dec. 17, 1999, 113 Stat. 1928, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to any installment payment for taxable years beginning after December 31, 1999.”
 
 #### Effective Date of 1998 Amendment
 
@@ -587,7 +597,7 @@ Amendment by section 106(a)(4)(C) of Pub. L. 97–448 effective Jan. 1, 1982, se
 
 Amendment by title I of Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
-Amendment by title II of Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Crude Oil Windfall Profit Tax Actof 1980, Pub. L. 96–223, to which such amendment relates, see section 203(a), (b) of Pub. L. 97–448, set out as a note under section 6652 of this title.
+Amendment by title II of Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Crude Oil Windfall Profit Tax Act of 1980, Pub. L. 96–223, to which such amendment relates, see section 203(a), (b) of Pub. L. 97–448, set out as a note under section 6652 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -607,7 +617,7 @@ Amendment by section 725(b), (c)(5) of Pub. L. 97–34 applicable to estimated t
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 421(g) of Pub. L. 95–600, set out as a note under section 5 of this title.
+Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 421(g) ofPub. L. 95–600, set out as a note under section 5 of this title.
 
 #### Effective Date of 1977 Amendment
 
@@ -665,7 +675,7 @@ Section 13001(d) of Pub. L. 103–66 provided that: “No addition to tax shall 
 
 #### Waiver of Estimated Tax Penalties for Underpayments Attributable to Section 420(b)(4)(B) of This Title
 
-No addition to tax to be made under this section for taxable year preceding taxpayer's first taxable year beginning after Dec. 31, 1990, with respect to any underpayment to the extent such underpayment was created or increased by reason of section 420(b)(4)(B) of thistitle, see section 12011(c)(2) of Pub. L. 101–508, set out as an Effective Date note under section 420 of this title.
+No addition to tax to be made under this section for taxable year preceding taxpayer's first taxable year beginning after Dec. 31, 1990, with respect to any underpayment to the extent such underpayment was created or increased by reason of section 420(b)(4)(B) of this title, see section 12011(c)(2) of Pub. L. 101–508, set out as an Effective Date note under section 420 of this title.
 
 #### Waiver of Estimated Penalties for 1988 Underpayments Attributable to Technical and Miscellaneous Revenue Act of 1988
 
@@ -677,7 +687,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Waiver of Estimated Penalties for 1986 Underpayments Attributable to Tax Reform Act of 1986
 
-Section 1543 of Pub. L. 99–514 provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1986 (relating to failure to pay estimated tax) for any period before April 16, 1987 (March 16, 1987, in the case of a taxpayer subject to section 6655 of such Code), with respect to any underpayment, to the extent such underpayment was created or increased by any provision of this Act \[Pub. L. 99–514, see Tables for classification\].”
+Section 1543 of Pub. L. 99–514 provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1986 (relating to failure to pay estimated tax) for any period before April 16, 1987\(March 16, 1987, in the case of a taxpayer subject to section 6655 of such Code), with respect to any underpayment, to the extent such underpayment was created or increased by any provision of this Act \[Pub. L. 99–514, see Tables for classification\].”
 
 #### Waiver of Estimated Tax Penalties
 

@@ -20,7 +20,7 @@ Sections 835a, 835b, 835c–3 and 835c–5, included within the reference in sub
 
 #### Amendments
 
-1962—Subsec. (b). Pub. L. 87–728 struck out “Regulations to carry out this subsection shall be effective when filed for record in the manner provided in section 835a(f) of this title”.
+1962—Subsec. (b). Pub. L. 87–728 struck out “Regulations to carry out this subsection shall be effectivewhen filed for record in the manner provided in section 835a(f) of this title”.
 
 #### Section Referred to in Other Sections
 

@@ -30,7 +30,7 @@ Pub. L. 101–501, §1(a), Nov. 3, 1990, 104 Stat. 1222, provided that: “This 
 
 Pub. L. 101–501, title I, §101, Nov. 3, 1990, 104 Stat. 1224, provided that: “This subtitle \[subtitle A (§§101–123) of title I of Pub. L. 101–501, enacting sections 9835a and 9846a of this title and amending sections 9831, 9832, 9834, 9835, 9836 to 9841, 9843 to 9846, 9847, and 9848 of this title\] may be cited as the ‘Head Start Expansion and Quality Improvement Act’.”
 
-Pub. L. 101–501, title I, §131, Nov. 3, 1990, 104 Stat. 1238, provided that subtitle B (§§131–140) of title I ofPub. L. 101–501, enacting subchapter II–A of this chapter and amending section 9834 of this title, could be cited as the “Head Start Transition Project Act”, prior to repeal by Pub. L. 105–285, title I, §119, Oct. 27, 1998, 112 Stat. 2728.
+Pub. L. 101–501, title I, §131, Nov. 3, 1990, 104 Stat. 1238, provided that subtitle B (§§131–140) of title I of Pub. L. 101–501, enacting subchapter II–A of this chapter and amending section 9834 of this title, could be cited as the “Head Start Transition Project Act”, prior to repeal by Pub. L. 105–285, title I, §119, Oct. 27, 1998, 112 Stat. 2728.
 
 #### Short Title of 1989 Amendment
 
@@ -38,7 +38,7 @@ Pub. L. 101–120, §1, Oct. 23, 1989, 103 Stat. 700, provided that: “This Act
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–297, title II, §2501, Apr. 28, 1988, 102 Stat. 325, provided that part E (§§2501–2504) of title II of Pub. L. 100–297, which enacted subchapter V of this chapter, amended section 9833 of this title, and enacted provisions set out as notes under this section and section 9881 of this title, could be cited as the “Comprehensive Child Development Centers Act of 1988”, prior to repeal by Pub. L. 103–252, title I, §112(b)(1), (2)(A), May 18, 1994, 108 Stat. 640, 641.
+Pub. L. 100–297, title II, §2501, Apr. 28, 1988, 102 Stat. 325, provided that part E (§§2501–2504) of title II of Pub.L. 100–297, which enacted subchapter V of this chapter, amended section 9833 of this title, and enacted provisions set out as notes under this section and section 9881 of this title, could be cited as the “Comprehensive Child Development Centers Act of 1988”, prior to repeal by Pub. L. 103–252, title I, §112(b)(1), (2)(A), May 18, 1994, 108 Stat. 640, 641.
 
 #### Short Title of 1986 Amendment
 

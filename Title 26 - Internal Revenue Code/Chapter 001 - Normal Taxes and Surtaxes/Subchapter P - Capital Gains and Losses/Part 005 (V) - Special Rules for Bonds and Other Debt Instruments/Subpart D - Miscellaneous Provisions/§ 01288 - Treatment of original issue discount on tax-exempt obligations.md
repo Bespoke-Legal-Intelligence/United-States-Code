@@ -36,7 +36,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section applicable to taxable years ending after July 18, 1984, and applicable to obligations issued after Sept. 3, 1982, and acquired after Mar. 1, 1984, see section 44 ofPub. L. 98–369, set out as a note under section 1271 of this title.
+Section applicable to taxable years ending after July 18, 1984, and applicable to obligations issued after Sept. 3, 1982, and acquired after Mar. 1, 1984, see section 44 of Pub. L. 98–369, set out as a note under section 1271 of this title.
 
 #### Section Referred to in Other Sections
 

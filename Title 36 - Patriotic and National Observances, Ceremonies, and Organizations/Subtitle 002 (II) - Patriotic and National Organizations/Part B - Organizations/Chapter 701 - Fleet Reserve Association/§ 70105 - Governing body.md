@@ -34,9 +34,13 @@ Sept. 23, 1996, Pub. L. 104–201, title XVIII, §§1806, 1807, 1808(g) (related
 
 36:5607.
 
+&nbsp;
+
 70105(c)
 
 36:5608(g) (related to directors and officers).
+
+&nbsp;
 
 In subsections (a) and (b), the words “and in conformity with the laws of the State of Delaware” are omitted as unnecessary.
 

@@ -70,7 +70,7 @@ The Federal Acquisition Regulation shall include guidance—
 
 #### References in Text
 
-The Brooks Architect-Engineers Act, referred to in subsecs. (a) and (c)(1), is title IX of act June 30, 1949, ch.288, as added by act Oct. 27, 1972, Pub. L. 92–582, 86 Stat. 1278, as amended, which is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 541 of Title 40 and Tables.
+The Brooks Architect-Engineers Act, referred to in subsecs. (a) and (c)(1), is title IX of act June 30, 1949, ch. 288, as added by act Oct. 27, 1972, Pub. L. 92–582, 86 Stat. 1278, as amended, which is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 541 of Title 40 and Tables.
 
 #### Effective Date
 

@@ -86,7 +86,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Delegation of Functions
 
-Functions of President under this section, except those functions under subsec. (a) relating to findings, delegated to Secretary of Defense by sections 1–301(a) and 1–701(e)(1) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56675, 56677, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Reports to Congressional Committees
 

@@ -28,7 +28,9 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Salary Increases
 
-1999—Salaries of judges continued at $136,700 per annum, by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+2000—Salaries of judges increased to $141,300 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2000, by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+
+1999—Salaries of judges continued at $136,700 per annum, by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, formerly set out as a note under section 5332 of Title 5.
 
 1998—Salaries of judges increased to $136,700 per annum, effective on first day of first pay period beginning on or after Jan. 1, 1998, by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, formerly set out as a note under section 5332 of Title 5.
 
@@ -44,7 +46,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 1991—Salaries of judges increased to $125,100 per annum, effective on first day of first pay period beginning on or after Jan. 1, 1991, by Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385, formerly set out as a note under section 5332 of Title 5.
 
-1990—Salaries of judges continued at $89,500 per annum, and increased to $96,600, effective on first day of first pay period beginning on or after Jan. 31, 1990, by Ex. Ord. No. 12698, Dec. 23, 1989, 54 F.R. 53473, formerly set out as a note under section 5332 of Title 5.
+1990—Salaries of judges continued at $89,500 per annum, and increased to $96,600, effective on first dayof first pay period beginning on or after Jan. 31, 1990, by Ex. Ord. No. 12698, Dec. 23, 1989, 54 F.R. 53473, formerly set out as a note under section 5332 of Title 5.
 
 1989—Salaries of judges increased in the amount of 25 percent of their rates (as last in effect before the increase), effective Jan. 1, 1991, see Pub. L. 101–194, title VII, §703(a)(3), Nov. 30, 1989, 103 Stat. 1768, set out as a note under section 5318 of Title 5.
 
@@ -56,7 +58,7 @@ Salaries of judges increased to §89,500 per annum by Ex. Ord. No. 12663, Jan. 6
 
 Salaries of judges increased to $72,300 effective on first day of first pay period beginning on or after Jan. 1, 1987, by Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, formerly set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
-1985—Salaries of judges increased to $70,200 effective on first day of first pay period beginning on or after Jan. 1, 1985, by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51F.R. 577, formerly set out as a note under section 5332 of Title 5.
+1985—Salaries of judges increased to $70,200 effective on first day of first pay period beginning on or after Jan. 1, 1985, by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577, formerly set out as a note under section 5332 of Title 5.
 
 1984—Salaries of judges set at $67,800 effective on first day of first pay period beginning on or after Jan. 1, 1984, by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493, formerly set out as a note under section 5332 of Title 5.
 

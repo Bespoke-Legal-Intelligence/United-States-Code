@@ -112,7 +112,7 @@ Each eligible institution may certify student eligibility for a loan by an eligi
 
 #### (4) Review
 
-&emsp;In the case of such an individual who is not a citizen or national of the United States, ifthe statement described in paragraph (1) is submitted but the documentation required under paragraph (2) is not presented or if the documentation required under paragraph (2)(A) is presented but such documentation is not verified under paragraph (3)—
+&emsp;In the case of such an individual who is not a citizen or national of the United States, if the statement described in paragraph (1) is submitted but the documentation required under paragraph (2) is not presented or if the documentation required under paragraph (2)(A) is presented but such documentation is not verified under paragraph (3)—
 
 &emsp;&emsp;(A) the institution—
 
@@ -224,7 +224,7 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 #### (1) Confirmation with IRS
 
-&emsp;The Secretary of Education, in cooperation with the Secretary of the Treasury, is authorized to confirm with the Internal Revenue Service the adjusted gross income, Federal income taxes paid, filing status, and exemptions reported by applicants (including parents)under this subchapter and part C of subchapter I of chapter 34 of title 42 on their Federal income tax returns for the purpose of verifying the information reported by applicants on student financial aid applications.
+&emsp;The Secretary of Education, in cooperation with the Secretary of the Treasury, is authorized to confirm with the Internal Revenue Service the adjusted gross income, Federal income taxes paid, filing status, and exemptions reported by applicants (including parents) under this subchapter and part C of subchapter I of chapter 34 of title 42 on their Federal income tax returns for the purpose of verifying the information reported by applicants on student financial aid applications.
 
 #### (2) Notification
 
@@ -273,7 +273,7 @@ Section 1078–1 of this title, referred to in subsec. (b)(2), was repealed by P
 
 Subsection (h) of this section, referred to in subsecs. (h)(2), (3) and (i), was redesignated subsec. (g) of this section by Pub. L. 103–208, §2(h)(25), Dec. 20, 1993, 107 Stat. 2477.
 
-Section 2471 of this title, referred to in subsec. (<i>l</i>)(1)(B)(i), was omitted in the general amendment of chapter 44 (§2301 et seq.) of this title by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
+Section 2471 of this title, referred to in subsec. (<i>l</i>)(1)(B)(i), was omitted in the general amendment ofchapter 44 (§2301 et seq.) of this title by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
 
 Section 1113 of Public Law 97–252, referred to in subsec. (n), amended section 462 of Title 50, Appendix, War and National Defense, and enacted provisions set out as a note under section 462 of Title 50, Appendix.
 
@@ -441,7 +441,7 @@ Amendment by Pub. L. 102–26 applicable to any grant, loan, or work assistance 
 
 #### Effective Date of 1988 Amendments
 
-Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Actof 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of Title 8, Aliens and Nationality.
+Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of Title 8, Aliens and Nationality.
 
 Section 13 of Pub. L. 100–369 provided that:
 
@@ -491,7 +491,7 @@ Section 1361 of Pub. L. 99–498 established in Department of Education the Alie
 
 #### Financial Aid to Students Not Deemed Income or Resources for Purposes of Certain Social Security Act Programs
 
-Pub. L. 90–575, title V, §507, Oct. 16, 1968, 82 Stat. 1063, as amended by Pub. L. 96–88, title III, §301(a)(1), Oct. 17, 1979, 93 Stat. 677, provided that: “For the purpose of any program assisted under title I, IV, X, XIV, XVI, or XIX of the Social Security Act \[subchapters I, IV, X, XIV, XVI, or XIX of chapter 7 of Title 42, The Public Health and Welfare\], no grant or loan to any undergraduate student for educational purposes made or insured under any program administered by the Secretary of Education shall be considered to be income or resources.”
+Pub. L. 90–575, title V, §507, Oct. 16, 1968, 82 Stat. 1063, as amended by Pub. L. 96–88, title III, §301(a)(1), Oct. 17, 1979, 93 Stat. 677, provided that: “For the purpose ofany program assisted under title I, IV, X, XIV, XVI, or XIX of the Social Security Act \[subchapters I, IV, X, XIV, XVI, or XIX of chapter 7 of Title 42, The Public Health and Welfare\], no grant or loan to any undergraduate student for educational purposes made or insured under any program administered by the Secretary of Education shall be considered to be income or resources.”
 
 #### Section Referred to in Other Sections
 

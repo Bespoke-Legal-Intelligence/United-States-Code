@@ -26,7 +26,7 @@ From the amounts reserved under section 9131(a)(1)(B) of this title for any fisc
 
 The Director shall make every effort to ensure that activities assisted under this section are administered by appropriate library and museum professionals or experts.
 
-(Pub. L. 94–462, title II, §262, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–302; amended Pub. L. 105–128, §§7, 8, Dec. 1, 1997, 111 Stat. 2549, 2550.)
+(Pub. L. 94–462, title II, §262, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\],Sept. 30, 1996, 110 Stat. 3009–233, 3009–302; amended Pub. L. 105–128, §§7, 8, Dec. 1, 1997, 111 Stat. 2549, 2550.)
 
 #### Amendments
 

@@ -148,5 +148,5 @@ Pension to persons serving ten years, see section 6160 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1202, 1203, 1204, 1205, 1206, 1210, 1372, 1401, 1402, 1402a, 1406, 1407 of this title; title 42 section 213a.
+This section is referred to in sections 1202, 1203, 1204, 1205, 1206, 1207a, 1210, 1372, 1401, 1402, 1402a, 1406, 1407 of this title; title 42 section 213a.
 

@@ -2,7 +2,7 @@
 
 Grants allocated under this chapter shall be available only for approved activities to carry out strategies designed to prevent homelessness among eligible persons. Approved activities shall include activities that—
 
-&emsp;(1) enable public and nonprofit organizations or agencies to provide housing information tosuch persons and coordinate efforts to expand housing assistance resources for such persons under section 12906 of this title;
+&emsp;(1) enable public and nonprofit organizations or agencies to provide housing information to such persons and coordinate efforts to expand housing assistance resources for such persons under section 12906 of this title;
 
 &emsp;(2) facilitate the development and operation of shelter and services for such persons under section 12907 of this title;
 

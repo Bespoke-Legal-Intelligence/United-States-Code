@@ -18,6 +18,7 @@
 | (b) | Exemptions for Alaskan natives. |
 | (c) | Taking in defense of self or others. |
 | (d) | Good Samaritan exemption. |
+| (e) | Chapter not to apply to incidental takings by United States citizens employed on foreign vessels outside United States EEZ. |
 | [1372\.](Subchapter%20002%20%28II%29%20-%20Conservation%20and%20Protection%20of%20Marine%20Mammals/%C2%A7%2001372%20-%20Prohibitions.md) | Prohibitions. |
 | (a) | Taking. |
 | (b) | Importation of pregnant or nursing mammals; depleted species or stock; inhumane taking. |
@@ -40,8 +41,9 @@
 | (e) | Modification, suspension, and revocation. |
 | (f) | Possession of permit by issuee or his agent. |
 | (g) | Fees. |
-| (h) | General permits; extension of general permit to American Tunaboat Association; monitoring of incidental taking of marine mammals. |
+| (h) | General permits. |
 | [1375\.](Subchapter%20002%20%28II%29%20-%20Conservation%20and%20Protection%20of%20Marine%20Mammals/%C2%A7%2001375%20-%20Penalties.md) | Penalties. |
+| [1375a.](Subchapter%20002%20%28II%29%20-%20Conservation%20and%20Protection%20of%20Marine%20Mammals/%C2%A7%2001375a%20-%20Use%20of%20fines%20for%20protection%20and%20recovery%20of%20manatees%2C%20polar%20bears%2C%20sea%20otters%2C%20and%20walruses.md) | Use of fines for protection and recovery of manatees, polar bears, sea otters, and walruses. |
 | [1376\.](Subchapter%20002%20%28II%29%20-%20Conservation%20and%20Protection%20of%20Marine%20Mammals/%C2%A7%2001376%20-%20Seizure%20and%20forfeiture%20of%20cargo.md) | Seizure and forfeiture of cargo. |
 | (a) | Application of consistent provisions. |
 | (b) | Penalties. |
@@ -119,9 +121,8 @@
 | (d) | Labeling standard. |
 | (e) | Enforcement. |
 | (f) | Regulations. |
-| (g) | Omitted. |
-| (h) | Negotiations. |
-| (i) | Effective date. |
+| (g) | Secretarial findings. |
+| (h) | Certification by captain and observer. |
 | [1386\.](Subchapter%20002%20%28II%29%20-%20Conservation%20and%20Protection%20of%20Marine%20Mammals/%C2%A7%2001386%20-%20Stock%20assessments.md) | Stock assessments. |
 | (a) | In general. |
 | (b) | Public comment. |
@@ -186,43 +187,32 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER IV—GLOBAL MORATORIUM TO PROHIBIT CERTAIN TUNA HARVESTING PRACTICES
+#### SUBCHAPTER IV—INTERNATIONAL DOLPHIN CONSERVATION PROGRAM
 
 |  |  |
 | :--- | ---: |
-| [1411\.](Subchapter%20004%20%28IV%29%20-%20Global%20Moratorium%20to%20Prohibit%20Certain%20Tuna%20Harvesting%20Practices/%C2%A7%2001411%20-%20Findings%20and%20policy.md) | Findings and policy. |
+| [1411\.](Subchapter%20004%20%28IV%29%20-%20International%20Dolphin%20Conservation%20Program/%C2%A7%2001411%20-%20Findings%20and%20policy.md) | Findings and policy. |
 | (a) | Findings. |
 | (b) | Policy. |
-| [1412\.](Subchapter%20004%20%28IV%29%20-%20Global%20Moratorium%20to%20Prohibit%20Certain%20Tuna%20Harvesting%20Practices/%C2%A7%2001412%20-%20International%20agreements%20to%20establish%20global%20moratorium%20to%20prohibit%20certain%20tuna%20harvesting%20practices.md) | International agreements to establish global moratorium to prohibit certain tuna harvesting practices. |
-| (a) | In general. |
-| (b) | Terms of agreement. |
-| (c) | Compliance by United States with moratorium. |
-| [1413\.](Subchapter%20004%20%28IV%29%20-%20Global%20Moratorium%20to%20Prohibit%20Certain%20Tuna%20Harvesting%20Practices/%C2%A7%2001413%20-%20Research%20programs.md) | Research programs. |
-| (a) | In general. |
-| (b) | Limitations on dolphin mortality. |
-| (c) | Funding. |
-| (d) | Review of research proposals. |
-| [1414\.](Subchapter%20004%20%28IV%29%20-%20Global%20Moratorium%20to%20Prohibit%20Certain%20Tuna%20Harvesting%20Practices/%C2%A7%2001414%20-%20Reviews%2C%20reports%2C%20and%20recommendations.md) | Reviews, reports, and recommendations. |
-| (a) | Reports by Secretary. |
-| (b) | Recommendations of Secretary. |
-| [1414a.](Subchapter%20004%20%28IV%29%20-%20Global%20Moratorium%20to%20Prohibit%20Certain%20Tuna%20Harvesting%20Practices/%C2%A7%2001414a%20-%20Research.md) | Research. |
+| [1412\.](Subchapter%20004%20%28IV%29%20-%20International%20Dolphin%20Conservation%20Program/%C2%A7%2001412%20-%20International%20Dolphin%20Conservation%20Program.md) | International Dolphin Conservation Program. |
+| [1413\.](Subchapter%20004%20%28IV%29%20-%20International%20Dolphin%20Conservation%20Program/%C2%A7%2001413%20-%20Regulatory%20authority%20of%20Secretary.md) | Regulatory authority of Secretary. |
+| (a) | Regulations. |
+| (b) | Consultation. |
+| (c) | Emergency regulations. |
+| [1414\.](Subchapter%20004%20%28IV%29%20-%20International%20Dolphin%20Conservation%20Program/%C2%A7%2001414%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9342%2C%20%C2%A76%28c%29%2C%20Aug.%2015%2C%201997%2C%20111%20Stat.%201130.md) | Repealed. |
+| [1414a.](Subchapter%20004%20%28IV%29%20-%20International%20Dolphin%20Conservation%20Program/%C2%A7%2001414a%20-%20Research.md) | Research. |
 | (a) | Required research. |
 | (b) | Other research. |
 | (c) | Authorization of appropriations. |
-| [1415\.](Subchapter%20004%20%28IV%29%20-%20Global%20Moratorium%20to%20Prohibit%20Certain%20Tuna%20Harvesting%20Practices/%C2%A7%2001415%20-%20International%20commitments.md) | International commitments. |
-| (a) | Limitation on application of ban on imports. |
-| (b) | Subsequent bans on fish and fish product imports for failure to comply with commitments. |
-| (c) | Reviews and reports. |
-| [1416\.](Subchapter%20004%20%28IV%29%20-%20Global%20Moratorium%20to%20Prohibit%20Certain%20Tuna%20Harvesting%20Practices/%C2%A7%2001416%20-%20Permits%20for%20taking%20dolphins.md) | Permits for taking dolphins. |
-| (a) | Additional restrictions under general permit. |
-| (b) | Permits required for taking dolphins for research purposes. |
-| (c) | “Major purse seine tuna fishing country” defined. |
-| [1417\.](Subchapter%20004%20%28IV%29%20-%20Global%20Moratorium%20to%20Prohibit%20Certain%20Tuna%20Harvesting%20Practices/%C2%A7%2001417%20-%20Prohibitions.md) | Prohibitions. |
+| [1415\.](Subchapter%20004%20%28IV%29%20-%20International%20Dolphin%20Conservation%20Program/%C2%A7%2001415%20-%20Reports%20by%20Secretary.md) | Reports by Secretary. |
+| [1416\.](Subchapter%20004%20%28IV%29%20-%20International%20Dolphin%20Conservation%20Program/%C2%A7%2001416%20-%20Permits.md) | Permits. |
+| (a) | In general. |
+| (b) | Permit sanctions. |
+| [1417\.](Subchapter%20004%20%28IV%29%20-%20International%20Dolphin%20Conservation%20Program/%C2%A7%2001417%20-%20Prohibitions.md) | Prohibitions. |
 | (a) | In general. |
 | (b) | Penalties. |
 | (c) | Civil forfeitures. |
-| (d) | Dolphin safe tuna. |
-| [1418\.](Subchapter%20004%20%28IV%29%20-%20Global%20Moratorium%20to%20Prohibit%20Certain%20Tuna%20Harvesting%20Practices/%C2%A7%2001418%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [1418\.](Subchapter%20004%20%28IV%29%20-%20International%20Dolphin%20Conservation%20Program/%C2%A7%2001418%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9342%2C%20%C2%A76%28e%29%2C%20Aug.%2015%2C%201997%2C%20111%20Stat.%201137.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -265,7 +255,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1543, 1881, 1881a, 1881b, 2407, 2408, 3125 of this title; title 10 section 7524.
+This chapter is referred to in sections 1375a, 1543, 1881, 1881a, 1881b, 2407, 2408, 3125 of this title; title 10 section 7524.
 
 
 ---
@@ -275,5 +265,5 @@ This chapter is referred to in sections 1543, 1881, 1881a, 1881b, 2407, 2408, 31
 - [Subchapter 001 (I) - Generally](Subchapter%20001%20%28I%29%20-%20Generally/README.md)
 - [Subchapter 002 (II) - Conservation and Protection of Marine Mammals](Subchapter%20002%20%28II%29%20-%20Conservation%20and%20Protection%20of%20Marine%20Mammals/README.md)
 - [Subchapter 003 (III) - Marine Mammal Commission](Subchapter%20003%20%28III%29%20-%20Marine%20Mammal%20Commission/README.md)
-- [Subchapter 004 (IV) - Global Moratorium to Prohibit Certain Tuna Harvesting Practices](Subchapter%20004%20%28IV%29%20-%20Global%20Moratorium%20to%20Prohibit%20Certain%20Tuna%20Harvesting%20Practices/README.md)
+- [Subchapter 004 (IV) - International Dolphin Conservation Program](Subchapter%20004%20%28IV%29%20-%20International%20Dolphin%20Conservation%20Program/README.md)
 - [Subchapter 005 (V) - Marine Mammal Health and Stranding Response](Subchapter%20005%20%28V%29%20-%20Marine%20Mammal%20Health%20and%20Stranding%20Response/README.md)

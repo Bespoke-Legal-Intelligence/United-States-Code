@@ -18,7 +18,7 @@ Any claim challenging the partition of the joint reservation pursuant to section
 
 (2) Such report shall be submitted no later than 180 days after the entry of final judgment in such litigation. The report shall include any recommendations of the Secretary for action by Congress, including, but not limited to, any supplemental funding proposals necessary to implement the terms of this subchapter and any modifications to the resource and management authorities established by this subchapter. Notwithstanding the provisions of section 2517 of title 28, any judgment entered against the United States shall not be paid for 180 days after the entry of judgment; and, if the Secretary of the Interior submits a report to Congress pursuant to this section, then payment shall be made no earlier than 120 days after submission of the report.
 
-(Pub. L. 100–580, §14, Oct. 31, 1988, 102 Stat. 2936; Pub. L. 101–301, §9(4), May 24, 1990, 104 Stat. 211;Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Pub. L. 100–580, §14, Oct. 31, 1988, 102 Stat. 2936; Pub. L. 101–301, §9(4), May 24, 1990, 104 Stat. 211; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Amendments
 

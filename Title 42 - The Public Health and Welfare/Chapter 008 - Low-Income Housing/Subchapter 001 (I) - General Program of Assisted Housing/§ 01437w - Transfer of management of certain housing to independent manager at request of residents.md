@@ -122,5 +122,5 @@ A prior section 1437w, act Sept. 1, 1937, ch. 896, title I, §25, as added Pub. 
 
 #### Effective Date
 
-Section effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provisionthat Secretary may implement section before such date except to extent otherwise provided, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
+Section effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement section before such date except to extent otherwise provided, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 

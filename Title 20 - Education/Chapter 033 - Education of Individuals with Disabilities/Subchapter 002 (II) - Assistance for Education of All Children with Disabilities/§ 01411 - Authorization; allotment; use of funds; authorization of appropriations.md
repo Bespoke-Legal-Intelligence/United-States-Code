@@ -72,7 +72,7 @@
 
 #### (6) “Freely associated States” defined
 
-&emsp;As used in this subsection, the term “freely associated States” means the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
+&emsp;As used in this subsection, the term “freely associated States” means the Republic of theMarshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
 #### (c) Secretary of the Interior
 
@@ -214,7 +214,7 @@ From the amount appropriated for any fiscal year under subsection (j) of this se
 
 #### (4)(A) Subgrants to local educational agencies for capacity-building and improvement
 
-&emsp;In any fiscal year in which the percentage increase in the State's allocation under this section exceeds the rate of inflation (as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor), each State shall reserve, from its allocation under this section, the amount described in subparagraph (B) to make subgrants to local educational agencies, unless that amount is less than $100,000, to assist them in providing direct services and in making systemic change to improve results for children with disabilities through one or more of the following:
+&emsp;In any fiscal year in which the percentage increase in the State's allocation under this section exceeds the rate of inflation (as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor), each State shall reserve, from its allocation under this section, the amount described in subparagraph (B) to make subgrants to local educational agencies,unless that amount is less than $100,000, to assist them in providing direct services and in making systemic change to improve results for children with disabilities through one or more of the following:
 
 &emsp;&emsp;(i) Direct services, including alternative programming for children who have been expelled from school, and services for children in correctional facilities, children enrolled in State-operated or State-supported schools, and children in charter schools.
 
@@ -316,7 +316,7 @@ For the purpose of this section—
 
 #### (B) Calculation of number of children
 
-&emsp;&emsp;In the case of Indian students aged 3 to 5, inclusive, who are enrolled in programs affiliated with the Bureau of Indian Affairs (hereafter in this subsection referred to as “BIA”) schools and that are required by the States in which such schools are located to attain or maintain State accreditation, andwhich schools have such accreditation prior to October 7, 1991, the school shall be allowed to count those children for the purpose of distribution of the funds provided under this paragraph to the Secretary of the Interior. The Secretary of the Interior shall be responsible for meeting all of the requirements of this subchapter for these children, in accordance with paragraph (2).
+&emsp;&emsp;In the case of Indian students aged 3 to 5, inclusive, who are enrolled in programs affiliated with the Bureau of Indian Affairs (hereafter in this subsection referred to as “BIA”) schools and that are required by the States in which such schools are located to attain or maintain State accreditation, and which schools have such accreditation prior to October 7, 1991, the school shall be allowed to count those children for the purpose of distribution of the funds provided under this paragraph to the Secretary of the Interior. The Secretary of the Interior shall be responsible for meeting all of the requirements of this subchapter for these children, in accordance with paragraph (2).
 
 #### (C) Additional requirement
 
@@ -334,7 +334,7 @@ For the purpose of this section—
 
 &emsp;&emsp;(D) includes an assurance that the Secretary of the Interior will provide such information as the Secretary of Education may require to comply with section 1418 of this title;
 
-&emsp;&emsp;(E) includes an assurance that the Secretary of the Interior and the Secretary of Health and Human Services have entered into a memorandum of agreement, to be provided to the Secretary of Education, for the coordination of services, resources, and personnel between their respective Federal, State, and local offices and with State and local educational agencies and other entities to facilitate the provision of services to Indian children with disabilities residing on or near reservations (such agreement shall provide for the apportionment of responsibilities and costs including, but not limited to, child find, evaluation, diagnosis, remediation or therapeutic measures, and (where appropriate) equipment and medical or personal supplies as needed for a child to remain in school or a program); and
+&emsp;&emsp;(E) includes an assurance that the Secretary of the Interior and the Secretary of Health and Human Services have entered into a memorandum of agreement, to be provided to the Secretary of Education, for the coordination of services, resources, and personnel between their respective Federal, State, and local offices and with State and local educational agencies and other entitiesto facilitate the provision of services to Indian children with disabilities residing on or near reservations (such agreement shall provide for the apportionment of responsibilities and costs including, but not limited to, child find, evaluation, diagnosis, remediation or therapeutic measures, and (where appropriate) equipment and medical or personal supplies as needed for a child to remain in school or a program); and
 
 &emsp;&emsp;(F) includes an assurance that the Department of the Interior will cooperate with the Department of Education in its exercise of monitoring and oversight of this application, and any agreements entered into between the Secretary of the Interior and other entities under this subchapter, and will fulfill its duties under this subchapter.
 
@@ -360,7 +360,7 @@ For the purpose of this section—
 
 #### (E) Biennial report
 
-&emsp;&emsp;To be eligible to receive a grant pursuant to subparagraph (A), the tribe or tribal organization shall provide to the Secretary of the Interior a biennial report of activities undertaken under this paragraph, includingthe number of contracts and cooperative agreements entered into, the number of children contacted and receiving services for each year, and the estimated number of children needing services during the 2 years following the one in which the report is made. The Secretary of the Interior shall include a summary of this information on a biennial basis in the report to the Secretary of Education required under this subsection. The Secretary of Education may require any additional information from the Secretary of the Interior.
+&emsp;&emsp;To be eligible to receive a grant pursuant to subparagraph (A), the tribe or tribal organization shall provide to the Secretary of the Interior a biennial report of activities undertaken under this paragraph, including the number of contracts and cooperative agreements entered into, the number of children contacted and receiving services for each year, and the estimated number of children needing services during the 2 years following the one in which the report is made. The Secretary of the Interior shall include a summary of this information on a biennial basis in the report to the Secretary of Education required under this subsection. The Secretary of Education may require any additional information from the Secretary of the Interior.
 
 #### (F) Prohibitions
 

@@ -12,11 +12,11 @@
 
 1994—Pub. L. 103–337, div. A, title XVI, §1663(b)(7), Oct. 5, 1994, 108 Stat. 3007, added items 2131 and 2138 and struck out former items 2131 to 2138.
 
-1984—Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2564, substituted “MEMBERS OF THE SELECTED RESERVE” for “ENLISTED MEMBERS OF THE SELECTED RESERVE OF THE READY RESERVE” in chapter heading, “Time limitation for use of entitlement” for “Termination of assistance; refund by member” in item 2133, “Termination of assistance” for “Reports to Congress” in item 2134, “Failure to participate satisfactorily; penalties” for “Termination of program” in item 2135, and added items 2136 to 2138.
+1984—Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2564, substituted “MEMBERS OF THE SELECTED RESERVE” for “ENLISTED MEMBERS OFTHE SELECTED RESERVE OF THE READY RESERVE” in chapter heading, “Time limitation for use of entitlement” for “Termination of assistance; refund by member” in item 2133, “Termination of assistance” for “Reports to Congress” in item 2134, “Failure to participate satisfactorily; penalties” for “Termination of program” in item 2135, and added items 2136 to 2138.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 2005 of this title; title 20 section 1087vv; title 38 sections 3033, 3221, 3485, 3674, 3680A, 3681, 3684A, 3688, 3692, 3695, 3697, 3697A, 4213, 5113, 7652, 7653.
+This chapter is referred to in section 2005 of this title; title 20 section 1087vv; title 38 sections 3033, 3221, 3485, 3674, 3680A, 3681, 3684A, 3688, 3692, 3697, 3697A, 4213, 5113, 7652, 7653.
 
 
 ---

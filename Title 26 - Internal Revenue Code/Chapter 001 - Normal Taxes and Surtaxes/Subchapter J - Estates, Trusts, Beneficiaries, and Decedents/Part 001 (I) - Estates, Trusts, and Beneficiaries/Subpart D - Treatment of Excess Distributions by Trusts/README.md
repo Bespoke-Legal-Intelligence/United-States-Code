@@ -24,6 +24,8 @@ This subpart is referred to in sections 643, 671, 685, 1312 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

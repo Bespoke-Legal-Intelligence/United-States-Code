@@ -10,7 +10,7 @@ Except as otherwise expressly provided by law, the administration and enforcemen
 
 Nothing in this section or section 301(f) of title 31 shall be considered to affect the duties, powers, or functions imposed upon, or vested in, the Department of Justice, or any officer thereof, by law existing on May 10, 1934.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 86–368, §1, Sept. 22, 1959, 73 Stat. 647; Pub. L. 88–426, title III, §305(39), Aug. 14, 1964, 78 Stat. 427; Pub. L. 94–455, title XIX, §1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, §§2(f)(1), 5(b), Sept. 13, 1982, 96 Stat. 1059, 1068, 1078.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 86–368, §1, Sept. 22, 1959, 73 Stat. 647; Pub. L. 88–426, title III, §305(39), Aug. 14, 1964, 78 Stat. 427; Pub. L. 94–455, title XIX, §1906(b)(13)(B), Oct.4, 1976, 90 Stat. 1834; Pub. L. 97–258, §§2(f)(1), 5(b), Sept. 13, 1982, 96 Stat. 1059, 1068, 1078.)
 
 #### Amendments
 
@@ -44,6 +44,112 @@ Pub. L. 86–368, §1, Sept. 22, 1959, 73 Stat. 648; Pub. L. 88–426, title III
 
 Section 4 of Pub. L. 86–368 provided that the position of Assistant General Counsel serving as Chief Counsel of the Internal Revenue Service was abolished as of the time that the Chief Counsel for the Internal Revenue Service appointed pursuant to the amendment to this section by Pub. L. 86–368, took office, but that Pub. L. 86–368 was not to be construed to otherwise abolish, terminate, or change any office or position, or employment of any officer or employee existing immediately preceding Sept. 22, 1959, and that any delegation of authority pursuant to Reorg. Plan No. 26 of 1950 or Reorg. Plan No. 2 of 1952 including any redelegation of authority, in effect immediately preceding Sept. 22, 1959, was to remain in effect unless distinctly inconsistent or manifestly incompatible with the amendment made to this section by Pub. L. 86–368.
 
+#### Itemized Income Tax Receipt
+
+Pub. L. 106–58, title VI, §650, Sept. 29, 1999, 113 Stat. 479, provided that:
+
+“(a)
+
+In General.—Not later than April 15, 2000, the Secretary of the Treasury shall establish an interactive program on an Internet website where any taxpayer may generate an itemized receipt showing a proportionate allocation (in money terms) of the taxpayer's total tax payments among the major expenditure categories.
+
+“(b)
+
+Information Necessary To Generate Receipt.—For purposes of generating an itemized receipt under subsection (a), the interactive program—
+
+&emsp;“(1) shall only require the input of the taxpayer's total tax payments; and
+
+&emsp;“(2) shall not require any identifying information relating to the taxpayer.
+
+“(c)
+
+Total Tax Payments.—For purposes of this section, total tax payments of an individual for any taxable year are—
+
+&emsp;“(1) the tax imposed by subtitle A of the Internal Revenue Code of 1986 for such taxable year (as shown on his return); and
+
+&emsp;“(2) the tax imposed by section 3101 of such Code on wages received during such taxable year.
+
+“(d)
+
+Content of Tax Receipt.—
+
+&emsp;“(1)
+
+Major expenditure categories.—For purposes of subsection (a), the major expenditure categories are:
+
+&emsp;&emsp;“(A) National defense.
+
+&emsp;&emsp;“(B) International affairs.
+
+&emsp;&emsp;“(C) Medicaid.
+
+&emsp;&emsp;“(D) Medicare.
+
+&emsp;&emsp;“(E) Means-tested entitlements.
+
+&emsp;&emsp;“(F) Domestic discretionary.
+
+&emsp;&emsp;“(G) Social Security.
+
+&emsp;&emsp;“(H) Interest payments.
+
+&emsp;&emsp;“(I) All other.
+
+&emsp;“(2) Other items on receipt.—
+
+&emsp;&emsp;“(A)
+
+In general.—In addition, the tax receipt shall include selected examples of more specific expenditure items, including the items listed in subparagraph (B), either at the budget function, subfunction, or program, project, or activity levels, along with any other information deemed appropriate by the Secretary of the Treasury and the Director of the Office of Management and Budget to enhance taxpayer understanding of the Federal budget.
+
+&emsp;&emsp;“(B)
+
+Listed items.—The expenditure items listed in this subparagraph are as follows:
+
+&emsp;&emsp;&emsp;“(i) Public schools funding programs.
+
+&emsp;&emsp;&emsp;“(ii) Student loans and college aid.
+
+&emsp;&emsp;&emsp;“(iii) Low-income housing programs.
+
+&emsp;&emsp;&emsp;“(iv) Food stamp and welfare programs.
+
+&emsp;&emsp;&emsp;“(v) Law enforcement, including the Federal Bureau of Investigation, law enforcement grants to the States, and other Federal law enforcement personnel.
+
+&emsp;&emsp;&emsp;“(vi) Infrastructure, including roads, bridges, and mass transit.
+
+&emsp;&emsp;&emsp;“(vii) Farm subsidies.
+
+&emsp;&emsp;&emsp;“(viii) Congressional Member and staff salaries.
+
+&emsp;&emsp;&emsp;“(ix) Health research programs.
+
+&emsp;&emsp;&emsp;“(x) Aid to the disabled.
+
+&emsp;&emsp;&emsp;“(xi) Veterans health care and pension programs.
+
+&emsp;&emsp;&emsp;“(xii) Space programs.
+
+&emsp;&emsp;&emsp;“(xiii) Environmental cleanup programs.
+
+&emsp;&emsp;&emsp;“(xiv) United States embassies.
+
+&emsp;&emsp;&emsp;“(xv) Military salaries.
+
+&emsp;&emsp;&emsp;“(xvi) Foreign aid.
+
+&emsp;&emsp;&emsp;“(xvii) Contributions to the North Atlantic Treaty Organization.
+
+&emsp;&emsp;&emsp;“(xviii) Amtrak.
+
+&emsp;&emsp;&emsp;“(xix) United States Postal Service.
+
+“(e)
+
+Cost.—No charge shall be imposed to cover any cost associated with the production or distribution of the tax receipt.
+
+“(f)
+
+Regulations.—The Secretary of the Treasury may prescribe such regulations as may be necessary to carry out this section.”
+
 #### Reorganization of Internal Revenue Service
 
 Pub. L. 105–206, title I, §1001, July 22, 1998, 112 Stat. 689, provided that:
@@ -52,7 +158,7 @@ Pub. L. 105–206, title I, §1001, July 22, 1998, 112 Stat. 689, provided that:
 
 In General.—The Commissioner of Internal Revenue shall develop and implement a plan to reorganize the Internal Revenue Service. The plan shall—
 
-&emsp;“(1) supersede any organization or reorganization of the Internal Revenue Service based on any statute or reorganization plan applicable on the effective date of this section;
+&emsp;“(1) supersede any organization or reorganization of the Internal Revenue Service based on any statute orreorganization plan applicable on the effective date of this section;
 
 &emsp;“(2) eliminate or substantially modify the existing organization of the Internal Revenue Service which is based on a national, regional, and district structure;
 
@@ -66,7 +172,7 @@ Savings Provisions.—
 
 &emsp;“(1)
 
-Preservation of specific tax rights and remedies.—Nothing in the plan developed and implemented under subsection (a) shall be considered to impair any right or remedy, including trial by jury, to recover any internal revenue tax alleged to have been erroneously or illegally assessed or collected, or any penalty claimed to have been collected without authority, or any sum alleged to have been excessive or in any manner wrongfully collected under the internal revenue laws. For the purpose of any action to recover any such tax, penalty, or sum, all statutes, rules, and regulations referring to the collector of internal revenue, the principal officer for the internal revenue district, or the Secretary, shall be deemed torefer to the officer whose act or acts referred to in the preceding sentence gave rise to such action. The venue of any such action shall be the same as under existing law.
+Preservation of specific tax rights and remedies.—Nothing in the plan developed and implemented under subsection (a) shall be considered to impair any right or remedy, including trial by jury, to recover any internal revenue tax alleged to have been erroneously or illegally assessed or collected, or any penalty claimed to have been collected without authority, or any sum alleged to have been excessive or in any manner wrongfully collected under the internal revenue laws. For the purpose of any action to recover any such tax, penalty, or sum, all statutes, rules, and regulations referring to the collector of internal revenue, the principal officer for the internal revenue district, or the Secretary, shall be deemed to refer to the officer whose act or acts referred to in the preceding sentence gave rise to such action. The venue of any such action shall be the same as under existing law.
 
 &emsp;“(2)
 
@@ -128,7 +234,7 @@ Pub. L. 105–206, title III, §3503, July 22, 1998, 112 Stat. 771, provided tha
 
 “(a)
 
-In General.—The Secretary of the Treasury or the Secretary's delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], incorporate into the statement required by section 6227 of the Omnibus Taxpayer Bill of Rights \[Pub. L. 100–647, set out below\] (Internal Revenue Service Publication No. 1) a statement which sets forth in simple and nontechnical terms the criteria and procedures for selecting taxpayers for examination. Such statement shall not include any information the disclosure of which would be detrimental to law enforcement, but shall specify the general procedures used by the Internal Revenue Service, including whether taxpayers are selected for examination on the basis of information available in the media or on the basis of information provided to the Internal Revenue Service by informants.
+In General.—The Secretary of the Treasury or the Secretary's delegate shall, as soon as practicable,but not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], incorporate into the statement required by section 6227 of the Omnibus Taxpayer Bill of Rights \[Pub. L. 100–647, set out below\] (Internal Revenue Service Publication No. 1) a statement which sets forth in simple and nontechnical terms the criteria and procedures for selecting taxpayers for examination. Such statement shall not include any information the disclosure of which would be detrimental to law enforcement, but shall specify the general procedures used by the Internal Revenue Service, including whether taxpayers are selected for examination on the basis of information available in the media or on the basis of information provided to the Internal Revenue Service by informants.
 
 “(b)
 
@@ -374,7 +480,7 @@ Staff of the Commission.—
 
 &emsp;“(1)
 
-In general.—The Co-Chairs, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enablethe Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of title 5, United States Code. Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
+In general.—The Co-Chairs, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of title 5, United States Code. Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
 
 &emsp;“(2)
 
@@ -458,7 +564,7 @@ Pub. L. 100–203, title X, §10511, Dec. 22, 1987, 101 Stat. 1330–446, as ame
 
 “(a)
 
-General Rule.—The Secretary of the Treasury or his delegate (hereinafter in this section referred to as the ‘Secretary’) shall establish a program requiringthe payment of user fees for requests to the Internal Revenue Service for ruling letters, opinion letters, and determination letters and for similar requests.
+General Rule.—The Secretary of the Treasury or his delegate (hereinafter in this section referred to as the ‘Secretary’) shall establish a program requiring the payment of user fees for requests to the Internal Revenue Service for ruling letters, opinion letters, and determination letters and for similar requests.
 
 “(b)
 

@@ -34,9 +34,13 @@ Oct. 7, 1985, Pub. L. 99–119, §§5 (words after 1st comma related to discrimi
 
 36:3607.
 
+&nbsp;
+
 170305(c)
 
 36:3605 (words after 1st comma related to discrimination in holding office).
+
+&nbsp;
 
 In subsections (a) and (b), the words “and in conformity with the laws of the State in which it is incorporated” are omitted as unnecessary.
 

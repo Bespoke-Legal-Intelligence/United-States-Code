@@ -2,7 +2,7 @@
 
 #### (a) Application
 
-To be eligible to receive assistance under this subchapter, a State shall prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary shall by rule require, including—
+To be eligible to receive assistance under this subchapter, a State shall prepare and submit to the Secretary an application at such time, in such manner, and containing such informationas the Secretary shall by rule require, including—
 
 &emsp;(1) an assurance that the State will comply with the requirements of this subchapter; and
 
@@ -78,7 +78,7 @@ The State plan contained in the application under subsection (a) of this section
 
 #### (H) Meeting the needs of certain populations
 
-&emsp;&emsp;Demonstrate the manner in which the State will meet the specific child care needs of families who are receiving assistance under a State program under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], families who are attempting through work activities to transition off of such assistance program, and families that are at risk of becoming dependent on such assistance program.
+&emsp;&emsp;Demonstrate the manner in which the State will meet the specific child care needs of families who are receiving assistance under a State program under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], families who are attempting through work activities to transition off ofsuch assistance program, and families that are at risk of becoming dependent on such assistance program.
 
 #### (3) Use of block grant funds
 
@@ -134,7 +134,7 @@ Paragraphs (2) through (5) of section 658A(b), referred to in subsec. (c)(3)(B),
 
 &emsp;“(2) during a 2-year period for subsequent State plans”.
 
-Subsec. (c)(2)(A). Pub. L. 104–193, §605(2)(A)(i)(II), in closing provisions, substituted “and provide a detaileddescription of the procedures the State will implement to carry out the requirements of this subparagraph.” for “except that nothing in this subparagraph shall require a State to have a child care certificate program in operation prior to October 1, 1992.”
+Subsec. (c)(2)(A). Pub. L. 104–193, §605(2)(A)(i)(II), in closing provisions, substituted “and provide a detailed description of the procedures the State will implement to carry out the requirements of this subparagraph.” for “except that nothing in this subparagraph shall require a State to have a child care certificate program in operation prior to October 1, 1992.”
 
 Subsec. (c)(2)(A)(i). Pub. L. 104–193, §605(2)(A)(i)(I), struck out “, other than through assistance provided under paragraph (3)(C),” after “provided under this subchapter” in introductory provisions.
 

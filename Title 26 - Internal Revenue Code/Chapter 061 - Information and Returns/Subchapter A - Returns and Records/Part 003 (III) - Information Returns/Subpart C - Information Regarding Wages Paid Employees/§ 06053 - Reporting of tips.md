@@ -140,7 +140,7 @@ Section 1072(b) of Pub. L. 98–369 provided that: “The Secretary of the Treas
 
 #### Threat of Audit Prohibited To Coerce Tip Reporting Alternative Commitment Agreements
 
-Pub. L. 105–206, title III, §3414, July 22, 1998, 112 Stat. 755, provided that: “The Secretary of the Treasury or the Secretary's delegate shall instruct employees of the Internal Revenue Service that they may not threaten to audit any taxpayer in an attempt to coerce the taxpayer into entering into a Tip Reporting Alternative Commitment Agreement.”
+Pub. L. 105–206, title III, §3414, July 22, 1998, 112 Stat. 755, provided that: “The Secretary of the Treasury orthe Secretary's delegate shall instruct employees of the Internal Revenue Service that they may not threaten to audit any taxpayer in an attempt to coerce the taxpayer into entering into a Tip Reporting Alternative Commitment Agreement.”
 
 #### Modification of Tips Allocation Method
 

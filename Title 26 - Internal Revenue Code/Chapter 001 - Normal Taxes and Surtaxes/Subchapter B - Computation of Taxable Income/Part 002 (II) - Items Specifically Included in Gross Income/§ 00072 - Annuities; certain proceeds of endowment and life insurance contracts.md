@@ -288,7 +288,7 @@ Except as otherwise provided in this chapter, gross income includes any amount r
 
 #### (iii) Adjustment to investment in contract of transferee
 
-&emsp;&emsp;&emsp;If under clause (i) an amount is included in the gross income of the transferor of an annuity contract, the investment in thecontract of the transferee in such contract shall be increased by the amount so included.
+&emsp;&emsp;&emsp;If under clause (i) an amount is included in the gross income of the transferor of an annuity contract, the investment in the contract of the transferee in such contract shall be increased by the amount so included.
 
 #### (5) Retention of existing rules in certain cases
 
@@ -434,7 +434,7 @@ If—
 
 &emsp;(3) part or all of such lump sum would (but for this subsection) be includible in gross income by reason of subsection (e)(1),
 
-> then, for purposes of this subtitle, no part of such lump sum shall be considered as includible in gross income at the time such lump sum first became payable.
+> then, for purposes of this subtitle, no part of such lump sum shall be considered as includiblein gross income at the time such lump sum first became payable.
 
 #### \[(i) Repealed. Pub. L. 94–455, title XIX, §1951(b)(1)(A), Oct. 4, 1976, 90 Stat. 1836\]
 
@@ -498,7 +498,7 @@ For purposes of this section, the term “endowment contract” includes a face-
 
 #### (10) Determination of investment in the contract in the case of qualified domestic relations orders
 
-&emsp;Under regulations prescribed by the Secretary, in the case of a distribution or payment made to an alternate payee who is thespouse or former spouse of the participant pursuant to a qualified domestic relations order (as defined in section 414(p)), the investment in the contract as of the date prescribed in such regulations shall be allocated on a pro rata basis between the present value of such distribution or payment and the present value of all other benefits payable with respect to the participant to which such order relates.
+&emsp;Under regulations prescribed by the Secretary, in the case of a distribution or payment made to an alternate payee who is the spouse or former spouse of the participant pursuant to a qualified domestic relations order (as defined in section 414(p)), the investment in the contract as of the date prescribed in such regulations shall be allocated on a pro rata basis between the present value of such distribution or payment and the present value of all other benefits payable with respect to the participant to which such order relates.
 
 #### (n) Annuities under retired serviceman's family protection plan or survivor benefit plan
 
@@ -566,7 +566,7 @@ For purposes of this section—
 
 #### (B) Assignments or pledges
 
-&emsp;&emsp;If during any taxable year a participant or beneficiary assigns (or agrees to assign) or pledges (or agrees to pledge) any portion of his interest in a qualified employer plan, such portion shall be treated as having been received by such individual as a loan from such plan.
+&emsp;&emsp;If during any taxable year a participant or beneficiary assigns (or agrees to assign) or pledges (or agrees to pledge) any portion of his interest in a qualified employer plan, such portion shall be treated as having beenreceived by such individual as a loan from such plan.
 
 #### (2) Exception for certain loans
 
@@ -1004,7 +1004,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the sum of the amount of net premiums under the contract for the taxable year and prior taxable years and amounts includible in gross income for prior taxable years with respect to such contract under this subsection.
 
-> &emsp;&emsp;Where necessary to prevent the avoidance of this subsection, the Secretary may substitute “fair market value of the contract” for “net surrender value of the contract” each place it appears in the preceding sentence.
+> &emsp;&emsp;Where necessary to prevent the avoidance of this subsection, the Secretary may substitute “fair market value of the contract”for “net surrender value of the contract” each place it appears in the preceding sentence.
 
 #### (B) Net premiums
 
@@ -1258,7 +1258,7 @@ Subsec. (m)(5)(C). Pub. L. 99–514, §1852(a)(2)(B), amended subpar. (C) genera
 
 Subsec. (m)(10). Pub. L. 99–514, §1898(c)(1)(B), inserted “who is the spouse or former spouse of the participant”.
 
-Subsec. (<i>o</i>)(5). Pub. L. 99–514, §1101(b)(2)(C), inserted “and made for a taxable year beginning before January 1, 1987,” in subpar. (A), substituted “subsection\(p)(3)(A)(i)” for “section 219(e)(3)” in subpar. (C), and substituted “subsection (p)(3)(B)” for “section 219(e)(4)” in subpar. (D).
+Subsec. (<i>o</i>)(5). Pub. L. 99–514, §1101(b)(2)(C), inserted “and made for a taxable year beginning before January 1, 1987,” in subpar. (A), substituted “subsection (p)(3)(A)(i)” for “section 219(e)(3)” in subpar. (C), and substituted “subsection (p)(3)(B)” for “section 219(e)(4)” in subpar. (D).
 
 Subsec. (p)(2)(A)(i). Pub. L. 99–514, §1134(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “$50,000, or”.
 
@@ -1420,7 +1420,7 @@ Subsec. (n)(3). Pub. L. 89–44 substituted “sections 31 and 39” for “sect
 
 1962—Subsec. (d)(2). Pub. L. 87–792, §4(a), designated existing provisions as cl. (A) and added cl. (B).
 
-Subsec. (f). Pub. L. 87–834 inserted sentence providing that par. (2) shall not apply to amounts which were contributed by the employer after Dec. 31, 1962, and which would not have been includible in the gross income of the employee by reason of the application of Section 911 if such amounts had been paid directly to the employee at the time of contribution, and making such sentence inapplicable to amounts which were contributed by the employer, as determined under regulations, to provide pension or annuity credits, to the extent such credits are attributable to services performed before Jan. 1, 1963, and are provided pursuant to pension or annuity plan provisions in existence on Mar. 12, 1962, and on that date applicable to such services.
+Subsec. (f). Pub. L. 87–834 inserted sentence providing that par. (2) shall not apply to amounts which were contributed by the employer after Dec. 31, 1962, and which would not have been includible in the gross income of the employee by reason of the application of Section 911 if such amounts had been paid directly to the employee at the time of contribution, and makingsuch sentence inapplicable to amounts which were contributed by the employer, as determined under regulations, to provide pension or annuity credits, to the extent such credits are attributable to services performed before Jan. 1, 1963, and are provided pursuant to pension or annuity plan provisions in existence on Mar. 12, 1962, and on that date applicable to such services.
 
 Subsecs. (m) to (<i>o</i>). Pub. L. 87–792, §4(b), added subsecs. (m) and (n) and redesignated former subsec. (m) as (<i>o</i>).
 
@@ -1500,7 +1500,7 @@ Transition rule.—The amendments made by this section shall not apply with resp
 
 Special rule for distributions under an annuity contract.—The amendments made by paragraphs (1), (2), and (3) of subsection (b) \[amending this section\] shall not apply to any distribution under an annuity contract if—
 
-&emsp;“(A) as of March 1, 1986, payments were being made under such contract pursuant to a written election providing a specific schedule for the distribution of the taxpayer's interest in such contract, and
+&emsp;“(A) as of March 1, 1986, payments were being made under such contract pursuant to a written electionproviding a specific schedule for the distribution of the taxpayer's interest in such contract, and
 
 &emsp;“(B) such distribution is made pursuant to such written election.”
 
@@ -1510,7 +1510,7 @@ Section 1135(b) of Pub. L. 99–514 provided that: “The amendment made by subs
 
 Amendment by sections 1826(a), (d), 1852(a)(2), (c)(1)–(4), and 1854(b)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Section 1826(b)(4) of Pub. L. 99–514 provided that: “The amendments made by this subsection \[amendingthis section\] shall apply to contracts issued after the date which is 6 months after the date of the enactment of this Act \[Oct. 22, 1986\] in taxable years ending after such date.”
+Section 1826(b)(4) of Pub. L. 99–514 provided that: “The amendments made by this subsection \[amending this section\] shall apply to contracts issued after the date which is 6 months after the date of the enactment of this Act \[Oct. 22, 1986\] in taxable years ending after such date.”
 
 Section 1826(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1018(t)(1)(D), Nov. 10, 1988, 102 Stat. 3587, provided that the amendment made by section 1826(c) of Pub. L. 99–514 is effective with respect to distributions commencing after the date 6 months after Oct. 22, 1986.
 
@@ -1584,7 +1584,7 @@ In general.—Any qualified refunding loan shall not be treated as a distributio
 
 &emsp;“(B)
 
-Qualified refunding loan.—For purposes of subparagraph (A), the term ‘qualified refunding loan’ means any loan made after August 13, 1982, and before August 14, 1983, to the extent such loan is used to make a required principal payment.
+Qualified refunding loan.—For purposes of subparagraph (A), the term ‘qualified refunding loan’means any loan made after August 13, 1982, and before August 14, 1983, to the extent such loan is used to make a required principal payment.
 
 &emsp;“(C)
 
@@ -1598,7 +1598,7 @@ Special rule for non-key employees.—In the case of a non-key employee (within 
 
 Treatment of certain renegotiations.—If—
 
-&emsp;“(A) the taxpayer after August 13, 1982, and before September 4, 1982, borrows money from a governmentplan (as defined in section 219(e)(4) of the Internal Revenue Code of 1986),
+&emsp;“(A) the taxpayer after August 13, 1982, and before September 4, 1982, borrows money from a government plan (as defined in section 219(e)(4) of the Internal Revenue Code of 1986),
 
 &emsp;“(B) under the applicable State law, such loan requires the renegotiation of all outstanding prior loans made to the taxpayer under such plan, and
 
@@ -1712,7 +1712,7 @@ Employees’ death benefits, see section 101 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 22, 26, 67, 79, 101, 122, 135, 138, 220, 221, 264, 401, 402, 403, 406, 407, 408, 408A, 414, 457, 529, 530, 691, 805, 817, 817A, 953, 1014, 1275, 4973, 4978, 6050G, 7702, 7702A, 7702B of this title; title 5 section 8433; title 12 section 1813; title 29 sections 1002, 1345; title 45 section 726.
+This section is referred to in sections 22, 26, 67, 79, 101, 122, 135, 138, 220, 221, 264, 401, 402, 403, 406, 407, 408, 408A, 414, 457, 529, 530, 691, 805, 817, 817A, 953, 1014, 1275, 4973, 4978, 6050G, 7702, 7702A, 7702B of this title; title 5 section 8433; title 12 sections 24a, 1813; title 15 section 6712; title 29 sections 1002, 1345; title 45 section 726.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(2)(B)”.</i>
 

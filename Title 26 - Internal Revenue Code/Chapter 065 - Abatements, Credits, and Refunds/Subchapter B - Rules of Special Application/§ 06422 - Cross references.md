@@ -48,7 +48,7 @@ Par. (15). Pub. L. 97–248 added par. (15).
 
 Pars. (3) to (8). Pub. L. 94–455, §1901(b)(36)(B), redesignated pars. (4) to (9) as (3) to (8), respectively.
 
-Par. (9). Pub. L. 94–455, §§1901(b)(36)(B), 1906(a)(28)(A), redesignated par. (10) as (9) and substituted “(50 U.S.C.App. 1742)” for “(60 Stat. 48; 50 U.S.C. App. 1742)”. Former par. (9) redesignated (8).
+Par. (9). Pub. L. 94–455, §§1901(b)(36)(B), 1906(a)(28)(A), redesignated par. (10) as (9) and substituted “(50 U.S.C. App. 1742)” for “(60 Stat. 48; 50 U.S.C. App. 1742)”. Former par. (9) redesignated (8).
 
 Par. (10). Pub. L. 94–455, §1901(b)(36)(B), redesignated par. (11) as (10). Former par. (10) redesignated (9).
 
@@ -64,7 +64,7 @@ Par. (14). Pub. L. 94–455, §1601(f)(1), added par. (14).
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for applicability of amendment to any partnership taxable year ending after Sept. 3, 1982, if partnership, each partner, and each indirect partner requests such application and Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under section 6221 of this title.
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, withprovision for applicability of amendment to any partnership taxable year ending after Sept. 3, 1982, if partnership, each partner, and each indirect partner requests such application and Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under section 6221 of this title.
 
 #### Effective Date of 1978 Amendment
 

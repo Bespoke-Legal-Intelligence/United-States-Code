@@ -34,9 +34,13 @@ Oct. 11, 1996, Pub. L. 104–285, title II, §§202(a), 204(a)(1), 110 Stat. 338
 
 36:5701(a) (last sentence).
 
+&nbsp;
+
 151701(c)
 
 36:5703(a)(1).
+
+&nbsp;
 
 Subsection (a) is substituted for “There is established the National Film Preservation Foundation (hereafter in this chapter referred to as the ‘Foundation’)” for consistency in the revised title.
 

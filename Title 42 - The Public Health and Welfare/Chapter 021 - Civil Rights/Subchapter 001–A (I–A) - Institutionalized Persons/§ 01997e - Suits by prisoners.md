@@ -16,7 +16,7 @@ The failure of a State to adopt or adhere to an administrative grievance procedu
 
 #### (d) Attorney's fees
 
-(1) In any action brought by a prisoner who is confined to any jail, prison, or other correctional facility, in which attorney's fees are authorized under section 1988 <sup>1</sup> of this title, suchfees shall not be awarded, except to the extent that—
+(1) In any action brought by a prisoner who is confined to any jail, prison, or other correctional facility, in which attorney's fees are authorized under section 1988 <sup>1</sup> of this title, such fees shall not be awarded, except to the extent that—
 
 &emsp;(A) the fee was directly and reasonably incurred in proving an actual violation of the plaintiff's rights protected by a statute pursuant to which a fee may be awarded under section 1988 <sup>1</sup> of this title; and
 
@@ -67,6 +67,16 @@ Subsec. (c). Pub. L. 103–322, §20416(a)(2), inserted “or are otherwise fair
 #### Effective Date of 1994 Amendment
 
 Section 20416(b) of Pub. L. 103–322 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this Act \[Sept. 13, 1994\].”
+
+#### Nondisclosure of Information in Actions Brought by Prisoners
+
+Pub. L. 105–277, div. A, §101(b) \[title I, §127\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–74, provided that: “Notwithstanding any other provision of law, in any action brought by a prisoner under section 1979 of the Revised Statutes (42 U.S.C. 1983) against a Federal, State, or local jail, prison, or correctional facility, or any employee or former employee thereof, arising out of the incarceration of that prisoner—
+
+&emsp;“(1) the financial records of a person employed or formerly employed by the Federal, State, or local jail, prison, or correctional facility, shall not be subject to disclosure without the written consent of that person or pursuant to a court order, unless a verdict of liability has been entered against that person; and
+
+&emsp;“(2) the home address, home phone number, social security number, identity of family members, personal tax returns, and personal banking information of a person described in paragraph (1), and any other records or information of a similar nature relating to that person, shall not be subject to disclosure without the written consent of that person, or pursuant to a court order.”
+
+\[Pub. L. 105–277, div. A, §101(b) \[title I, §127\], set out above, applicable to fiscal year 2000 and thereafter, see Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §109\], set out as an Applicability of Provisions Relating to Use of Counterterrorism Appropriations and Nondisclosure of Information in Actions Brought by Prisoners note under section 524 of Title 28, Judiciary and Judicial Procedure.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

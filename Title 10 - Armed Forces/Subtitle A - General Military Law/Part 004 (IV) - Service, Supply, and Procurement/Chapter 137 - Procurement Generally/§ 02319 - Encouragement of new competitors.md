@@ -56,5 +56,5 @@ Subsec. (d)(2). Pub. L. 100–26, §7(d)(5)(B), inserted “(15 U.S.C. 632)” a
 
 #### Effective Date
 
-Section 1216(c)(2) of Pub. L. 98–525 provided that: “Sections 2319, 2320, and 2321 of title 10, United StatesCode (as added by subsection (a)), shall apply with respect to solicitations issued after the end of the one-year period beginning on the date of the enactment of this Act \[Oct. 19, 1984\].”
+Section 1216(c)(2) of Pub. L. 98–525 provided that: “Sections 2319, 2320, and 2321 of title 10, United States Code (as added by subsection (a)), shall apply with respect to solicitations issued after the end of the one-year period beginning on the date of the enactment of this Act \[Oct. 19, 1984\].”
 

@@ -278,7 +278,7 @@ Section 2(d) of Pub. L. 101–629 directed Secretary of Health and Human Service
 
 #### Study of Reporting Requirements; Compliance by Device User Facilities; Actions by Manufacturers; Cost Effectiveness; Recommendations
 
-Section 2(e) of Pub. L. 101–629 directed Comptroller General of the United States, not more than 36 months after Nov. 28, 1990, to conduct a study of compliance by device user facilities with the requirements of 21 U.S.C. 360i(b), actions taken by manufacturers of devices in response to reports made to them, cost effectiveness of such requirements and their implementation, and any recommendations for improvements to such requirements, with Comptroller General to complete the study and submit a report on the study not later than 45 months from Nov. 28, 1990, to appropriate committees of Congress.
+Section 2(e) of Pub. L. 101–629 directed Comptroller General of the United States, not more than 36 months after Nov. 28, 1990, to conduct a study of compliance by device user facilities with the requirements of 21 U.S.C. 360i(b), actions taken by manufacturers of devices in response to reports made to them, cost effectiveness of such requirements and their implementation, and any recommendations for improvements to such requirements, with Comptroller General to complete the study and submit a report on the study not later than 45months from Nov. 28, 1990, to appropriate committees of Congress.
 
 #### Report to Congress on Reporting Requirements for Device User Facilities
 

@@ -18,7 +18,7 @@ The Secretary may provide for training, instruction, and traineeships under subs
 
 #### (d) Obligatory service for traineeships
 
-(1) Any individual who has received a clinical traineeship, in psychology, psychiatry, nursing, marital and family therapy, counseling, or social work, under subsection (a)(1) of this section that was not of a limited duration or experimental nature (as determined by the Secretary)is obligated to serve, in service determined by the Secretary to be appropriate in the light of the individual's training and experience, at the rate of one year for each year (or academic year, whichever the Secretary determines to be appropriate) of the traineeship.
+(1) Any individual who has received a clinical traineeship, in psychology, psychiatry, nursing, marital and family therapy, counseling, or social work, under subsection (a)(1) of this section that was not of a limited duration or experimental nature (as determined by the Secretary) is obligated to serve, in service determined by the Secretary to be appropriate in the light of the individual's training and experience, at the rate of one year for each year (or academic year, whichever the Secretary determines to be appropriate) of the traineeship.
 
 (2) The service required under paragraph (1) shall be performed—
 
@@ -70,7 +70,7 @@ Subsec. (d)(2)(D). Pub. L. 102–408 added subpar. (D).
 
 Subsec. (d)(1). Pub. L. 100–690 inserted “marital and family therapy,” after “nursing,”.
 
-1987—Subsec. (d)(4). Pub. L. 100–177 made technical amendment to references to “section 254m or 254n ofthis title” in two places and substituted “subpart II of Part D of this subchapter” for “subpart IV of Part C of subchapter V of this chapter” to reflect renumbering of corresponding provisions of original act.
+1987—Subsec. (d)(4). Pub. L. 100–177 made technical amendment to references to “section 254m or 254n of this title” in two places and substituted “subpart II of Part D of this subchapter” for “subpart IV of Part C of subchapter V of this chapter” to reflect renumbering of corresponding provisions of original act.
 
 1980—Subsec. (d). Pub. L. 96–398 added subsec. (d).
 

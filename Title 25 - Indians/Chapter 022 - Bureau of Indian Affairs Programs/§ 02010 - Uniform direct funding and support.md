@@ -4,7 +4,7 @@
 
 (1) Within six months after October 20, 1994, the Secretary shall establish, by regulation adopted in accordance with section 2019 <sup>1</sup> of this title, a system for the direct funding and support of all Bureau funded schools. Such system shall allot funds, in accordance with section 2007 of this title. All amounts appropriated for distribution under this section may be made available under paragraph (2).
 
-(2)(A) For the purpose of affording adequate notice of funding available pursuant to the allotments made by section 2007 of this title,amounts appropriated in an appropriation Act for any fiscal year shall become available for obligation by the affected schools on July 1 of the fiscal year in which such amounts are appropriated without further action by the Secretary, and shall remain available for obligation through the succeeding fiscal year.
+(2)(A) For the purpose of affording adequate notice of funding available pursuant to the allotments made by section 2007 of this title, amounts appropriated in an appropriation Act for any fiscal year shall become available for obligation by the affected schools on July 1 of the fiscal year in which such amounts are appropriated without further action by the Secretary, and shall remain available for obligation through the succeeding fiscal year.
 
 (B) The Secretary shall, on the basis of the amount appropriated in accordance with this paragraph—
 
@@ -60,7 +60,7 @@ In the exercise of its authority under this section, a local school board may re
 
 #### (f) Cooperative agreements
 
-(1) From funds allotted to a Bureau school under section 2007 of this title, the Secretary shall, if specifically requested by the tribal governing body (within the meaning of section 2001(k) of this title), implement any cooperative agreement entered into between the tribe, the Bureau school board, and the local public school district which meets the requirements of paragraph (2) and involves the school. The tribe, the Bureau school board, and the local public school district shall determine the terms of the agreement. Such agreement may encompass coordination of all or any part of the following:
+(1) From funds allotted to a Bureau school under section 2007 of this title, the Secretary shall, if specifically requested by the tribal governing body (within the meaning of section2001(k) of this title), implement any cooperative agreement entered into between the tribe, the Bureau school board, and the local public school district which meets the requirements of paragraph (2) and involves the school. The tribe, the Bureau school board, and the local public school district shall determine the terms of the agreement. Such agreement may encompass coordination of all or any part of the following:
 
 &emsp;(A) Academic program and curriculum, unless the Bureau school is currently accredited by a State or regional accrediting entity and would not continue to be so accredited.
 

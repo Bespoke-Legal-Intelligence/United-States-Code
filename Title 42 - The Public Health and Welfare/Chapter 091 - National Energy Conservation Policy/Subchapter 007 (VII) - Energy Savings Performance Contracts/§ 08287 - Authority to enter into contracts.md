@@ -22,7 +22,7 @@
 
 #### (b) Implementation
 
-(1)(A) The Secretary, with the concurrence of the Federal Acquisition Regulatory Council established under section 421(a) of title 41, not later than 180 days after October 24, 1992, shall, by rule, establish appropriate procedures and methods for use by Federal agencies to select, monitor, and terminate contracts with energy service contractors in accordance with laws governing Federal procurement that will achieve the intent of this section in a cost-effective manner. In developing such procedures and methods, the Secretary, with the concurrence of the Federal Acquisition Regulatory Council, shall determine which existing regulations are inconsistent with the intent of this section and shall formulate substitute regulations consistent with laws governing Federal procurement.
+(1)(A) The Secretary, with the concurrence of the Federal Acquisition Regulatory Council established under section 421(a) of title 41, not later than 180 days after October 24, 1992, shall, by rule, establish appropriate procedures and methods for use by Federal agencies to select, monitor, and terminate contracts with energy service contractors in accordance with laws governing Federal procurement that will achieve the intent of this section in a cost-effectivemanner. In developing such procedures and methods, the Secretary, with the concurrence of the Federal Acquisition Regulatory Council, shall determine which existing regulations are inconsistent with the intent of this section and shall formulate substitute regulations consistent with laws governing Federal procurement.
 
 (B) The procedures and methods established pursuant to subparagraph (A) shall be the procedures and contracting methods for selection, by an agency, of a contractor to provide energy savings performance services. Such procedures and methods shall provide for the calculation of energy savings based on sound engineering and financial practices.
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(iii) permit receipt of unsolicited proposals for energy savings performance contracting services from a firm that such agency has determined is qualified to provide such services under the procedures established pursuant to paragraph (1)(A), and require agency facility managers to place a notice in the Commerce Business Daily announcing they have received such a proposal and invite other similarly qualified firms to submit competing proposals; and
 
-&emsp;&emsp;(iv) enter into an energy savings performance contract with a firm qualified underclause (iii), consistent with the procedures and methods established pursuant to paragraph (1)(A).
+&emsp;&emsp;(iv) enter into an energy savings performance contract with a firm qualified under clause (iii), consistent with the procedures and methods established pursuant to paragraph (1)(A).
 
 (3) A firm not designated as qualified to provide energy savings services under paragraph (2)(A)(i) or paragraph (2)(B) may request a review of such decision to be conducted in accordance with procedures to be developed by the board of contract appeals of the General Services Administration.
 
@@ -84,7 +84,7 @@ Energy Conservation Incentive.—In order to provide additional incentive for th
 
 Authorized Uses of Savings.—The energy cost savings realized by the United States in each of the first five years under a contract may be used as follows:
 
-&emsp;“(1) One-half of the amount of such savings may be used for the acquisition of energy conserving measures for military installations, and such measures may be in addition to any such energy conserving measures acquired for military installations under contracts entered into under title VIII of the National Energy Conservation Policy Act.
+&emsp;“(1) One-half of the amount of such savings may be used for the acquisition of energy conserving measures for military installations, and such measures may be in addition to any such energy conservingmeasures acquired for military installations under contracts entered into under title VIII of the National Energy Conservation Policy Act.
 
 &emsp;“(2) One-half of the amount of such savings may be used for any morale, welfare, or recreation facility or service that is normally provided with appropriated funds, or for any minor military construction project (as defined in section 2805(a) of title 10, United States Code), that will enhance the quality of life of members of the Armed Forces at the military installation at which the energy cost savings were realized.
 

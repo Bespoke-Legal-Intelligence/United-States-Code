@@ -34,7 +34,9 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 #### Salary Increases
 
-1999—Salaries of Chief Justice and Associate Justices continued at $175,400 and $167,900 per annum, respectively, by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+2000—Salaries of Chief Justice and Associate Justices increased to $181,400 and $173,600 per annum, respectively, effective on first day of first pay period beginning on or after Jan. 1, 2000, by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+
+1999—Salaries of Chief Justice and Associate Justices continued at $175,400 and $167,900 per annum, respectively, by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, formerly set out as a note under section 5332 of Title 5.
 
 1998—Salaries of Chief Justice and Associate Justices increased to $175,400 and $167,900 per annum, respectively, effective on first day of first pay period beginning on or after Jan. 1, 1998, by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, formerly set out as a note under section 5332 of Title 5.
 
@@ -54,7 +56,7 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 1989—Salaries of Chief Justice and Associate Justices increased in the amount of 25 percent of their respective rates (as last in effect before the increase), effective Jan. 1, 1991, see Pub. L. 101–194, title VII, §703(a)(3), Nov. 30, 1989, 103 Stat. 1768, set out as a note under section 5318 of Title 5.
 
-Salaries of Chief Justice and Associate Justices continued respectively at $115,000 and $110,000 per annumby Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791, formerly set out as a note under section 5332 of Title 5.
+Salaries of Chief Justice and Associate Justices continued respectively at $115,000 and $110,000 per annum by Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791, formerly set out as a note under section 5332 of Title 5.
 
 1988—Salaries of Chief Justice and Associate Justices continued respectively at $115,000 and $110,000 per annum by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222, formerly set out as a note under section 5332 of Title 5.
 

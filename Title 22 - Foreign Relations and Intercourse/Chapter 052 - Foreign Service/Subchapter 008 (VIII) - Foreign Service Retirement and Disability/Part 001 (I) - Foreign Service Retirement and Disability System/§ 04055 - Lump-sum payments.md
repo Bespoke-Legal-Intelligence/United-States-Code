@@ -12,7 +12,7 @@
 
 &emsp;(D) will not become eligible to receive an annuity under this part within 31 days after filing the application; and
 
-&emsp;(E) has notified any spouse or former spouse the participant may have of the applicationfor payment in accordance with regulations prescribed by the Secretary of State.
+&emsp;(E) has notified any spouse or former spouse the participant may have of the application for payment in accordance with regulations prescribed by the Secretary of State.
 
 > Such regulations may provide for waiver of subparagraph (E) under circumstances described in section 4046(b)(1)(D) of this title.
 
@@ -20,7 +20,7 @@
 
 #### (b) Recall service; return of contributions
 
-Whenever an annuitant becomes separated from the Service following a period of recall service without becoming eligible for a supplemental or recomputed annuity under section 4063 of this title, the compulsory contributions of the annuitant to the Fund for such service, together with any special contributions the annuitant may have made for other service performed after the date of separation from the Service which forms the basis for annuity, shall be returned to the annuitant (and any former spouse of the annuitant who was married to the participant during the period of recall service, in accordance with subsection (i) of this section).
+Whenever an annuitant becomes separated from the Service following a period of recallservice without becoming eligible for a supplemental or recomputed annuity under section 4063 of this title, the compulsory contributions of the annuitant to the Fund for such service, together with any special contributions the annuitant may have made for other service performed after the date of separation from the Service which forms the basis for annuity, shall be returned to the annuitant (and any former spouse of the annuitant who was married to the participant during the period of recall service, in accordance with subsection (i) of this section).
 
 #### (c) Difference between annuity and lump-sum credit
 
@@ -68,7 +68,7 @@ Unless otherwise expressly provided by any spousal agreement or court order unde
 
 &emsp;(1) if the former spouse was married to the participant throughout the period of creditable service of the participant, 50 percent of the lump-sum credit to which such participant would be entitled in the absence of this subsection, or
 
-&emsp;(2) if such former spouse was not married to the participant throughout such creditableservice, an amount equal to such former spouse's pro rata share of 50 percent of such lump-sum credit.
+&emsp;(2) if such former spouse was not married to the participant throughout such creditable service, an amount equal to such former spouse's pro rata share of 50 percent of such lump-sum credit.
 
 > The lump-sum credit of the participant shall be reduced by the amount of the lump-sum credit payable to the former spouse. For the purposes of this subsection, the term “creditable service” means service which is creditable under part I or II of this subchapter.
 

@@ -36,7 +36,7 @@ In subsec. (e), “subchapter II of chapter 5 of title 5” substituted for “t
 
 #### Amendments
 
-1968—Subsec. (a). Pub. L. 90–597 substituted provisions requiring Secretary to approve any guardian orother fiduciary appointed under State law for estate of any member of band or continued in office as guardian of estate, and provisions requiring Secretary to be given notice of State court proceedings involving estate of any member of band and power to appear in such proceedings, for provisions requiring Secretary to request appointment of a guardian of estate of minor allottees and adult allottees needing assistance.
+1968—Subsec. (a). Pub. L. 90–597 substituted provisions requiring Secretary to approve any guardian or other fiduciary appointed under State law for estate of any member of band or continued in office as guardian of estate, and provisions requiring Secretary to be given notice of State court proceedings involving estate of any member of band and power to appear in such proceedings, for provisions requiring Secretary to request appointment of a guardian of estate of minor allottees and adult allottees needing assistance.
 
 Subsecs. (b) to (f). Pub. L. 90–597 added subsecs. (b) to (f).
 

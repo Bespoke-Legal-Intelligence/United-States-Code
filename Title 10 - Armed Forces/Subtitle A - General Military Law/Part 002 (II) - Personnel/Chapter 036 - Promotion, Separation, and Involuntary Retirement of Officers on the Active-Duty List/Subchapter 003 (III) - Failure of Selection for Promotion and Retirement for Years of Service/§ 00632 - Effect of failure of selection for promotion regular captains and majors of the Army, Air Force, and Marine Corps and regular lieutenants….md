@@ -2,7 +2,7 @@
 
 (a) Except an officer of the Navy and Marine Corps who is an officer designated for limited duty (to whom section 5596(e) or 6383 of this title applies) and except as provided under section 637(a) of this title, each officer of the Regular Army, Regular Air Force, or Regular Marine Corps who holds the regular grade of captain or major, and each officer of the Regular Navy who holds the regular grade of lieutenant or lieutenant commander, who has failed of selection for promotion to the next higher regular grade for the second time and whose name is not on a list of officers recommended for promotion to the next higher regular grade shall—
 
-&emsp;(1) be discharged on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the board which considered him for the second time;
+&emsp;(1) be discharged on the date requested by him and approved by the Secretary concerned,which date shall be not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the board which considered him for the second time;
 
 &emsp;(2) if he is eligible for retirement under any provision of law, be retired under that law on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the board which considered him for the second time; or
 

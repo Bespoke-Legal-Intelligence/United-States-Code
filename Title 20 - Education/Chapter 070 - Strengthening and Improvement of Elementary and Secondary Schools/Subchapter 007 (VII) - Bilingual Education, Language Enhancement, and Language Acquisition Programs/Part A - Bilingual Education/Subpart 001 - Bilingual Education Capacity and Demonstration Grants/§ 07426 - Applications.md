@@ -106,7 +106,7 @@ An application for a grant under this subpart may be approved only if the Secret
 
 &emsp;(3) student evaluation and assessment procedures in the program are valid, reliable, and fair for limited English proficient students, and that limited English proficient students who are disabled are identified and served in accordance with the requirements of the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\];
 
-&emsp;(4) Federal funds made available for the project or activity will be used so as to supplement the level of State and local funds that, in the absence of such Federal funds, would have been expended for special programs for children of limited English proficient individuals and in no case to supplant such State and local funds, except that nothing in this paragraph shall be construed to preclude a local educational agency from using funds under this subchapter for activities carried out under an order of a court of the United States or of any State respecting services to be provided such children, or to carry out a plan approved by the Secretary as adequate under title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\] with respect to services to be provided such children;
+&emsp;(4) Federal funds made available for the project or activity will be used so as to supplement the level of State and local funds that, in the absence of such Federal funds, wouldhave been expended for special programs for children of limited English proficient individuals and in no case to supplant such State and local funds, except that nothing in this paragraph shall be construed to preclude a local educational agency from using funds under this subchapter for activities carried out under an order of a court of the United States or of any State respecting services to be provided such children, or to carry out a plan approved by the Secretary as adequate under title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\] with respect to services to be provided such children;
 
 &emsp;(5) the assistance provided under the application will contribute toward building the capacity of the applicant to provide a program on a regular basis, similar to that proposed for assistance, which will be of sufficient size, scope, and quality to promise significant improvement in the education of students of limited-English proficiency, and that the applicant will have the resources and commitment to continue the program when assistance under this subpart is reduced or no longer available; and
 
@@ -128,7 +128,7 @@ An application for a grant under this subpart may be approved only if the Secret
 
 &emsp;&emsp;(A) Where the diversity of the limited English proficient students’ native languages and the small number of students speaking each respective language makes bilingual education impractical.
 
-&emsp;&emsp;(B) Where, despite documented efforts, the applicant has not been able to hire qualifiedinstructional personnel who are able to communicate in the students’ native language.
+&emsp;&emsp;(B) Where, despite documented efforts, the applicant has not been able to hire qualified instructional personnel who are able to communicate in the students’ native language.
 
 #### (4) Consideration
 

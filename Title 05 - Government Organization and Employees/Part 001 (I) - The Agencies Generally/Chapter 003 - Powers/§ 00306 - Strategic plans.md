@@ -14,17 +14,21 @@
 
 &emsp;(6) a description of the program evaluations used in establishing or revising general goals and objectives, with a schedule for future program evaluations.
 
-(b) The strategic plan shall cover a period of not less than five years forward from the fiscal year in which it is submitted, and shall be updated and revised at least every three years.
+(b) The strategic plan shall cover a period of not less than five years forward from the fiscal year in which it is submitted. The strategic plan shall be updated and revised at least every three years, except that the strategic plan for the Department of Defense shall be updated and revised at least every four years.
 
 (c) The performance plan required by section 1115 of title 31 shall be consistent with the agency's strategic plan. A performance plan may not be submitted for a fiscal year not covered by a current strategic plan under this section.
 
-(d) When developing a strategic plan, the agency shall consult with the Congress, and shall solicit and consider the views and suggestions of those entities potentially affected by or interested in such a plan.
+(d) When developing a strategic plan, the agency shall consult with the Congress, and shall solicit and consider the views and suggestions ofthose entities potentially affected by or interested in such a plan.
 
 (e) The functions and activities of this section shall be considered to be inherently Governmental functions. The drafting of strategic plans under this section shall be performed only by Federal employees.
 
 (f) For purposes of this section the term “agency” means an Executive agency defined under section 105, but does not include the Central Intelligence Agency, the General Accounting Office, the Panama Canal Commission, the United States Postal Service, and the Postal Rate Commission.
 
-(Added Pub. L. 103–62, §3, Aug. 3, 1993, 107 Stat. 286.)
+(Added Pub. L. 103–62, §3, Aug. 3, 1993, 107 Stat. 286; amended Pub. L. 106–65, div. A, title IX, §902, Oct. 5, 1999, 113 Stat. 717.)
+
+#### Amendments
+
+1999—Subsec. (b). Pub. L. 106–65 substituted “. The strategic plan shall be updated and revised at least every three years, except that the strategic plan for the Department of Defense shall be updated and revised at least every four years.” for “, and shall be updated and revised at least every three years.”
 
 #### Construction
 
@@ -32,5 +36,5 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 section 3123; title 15 section 638; title 31 sections 1115, 1117, 1118, 1119; title 40 section 1425.
+This section is referred to in title 7 section 3123; title 15 section 638; title 23 section 508; title 31 sections 1115, 1117, 1118, 1119; title 40 section 1425.
 

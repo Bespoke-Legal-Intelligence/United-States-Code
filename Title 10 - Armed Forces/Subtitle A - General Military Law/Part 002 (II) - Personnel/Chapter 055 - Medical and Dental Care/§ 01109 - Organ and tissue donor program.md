@@ -46,5 +46,5 @@ Pub. L. 105–261, div. A, title VII, §741(a), Oct. 17, 1998, 112 Stat. 2073, p
 
 #### Report on Implementation
 
-Pub. L. 105–261, div. A, title VII, §741(c), Oct. 17, 1998, 112 Stat. 2074, provided that: “Not later than September 1, 1999, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the implementation of section 1109 of title 10, United States Code (as added by subsection (b)).”
+Pub. L. 105–261, div. A, title VII, §741(c), Oct. 17, 1998, 112 Stat. 2074, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, provided that: “Not later than September 1, 1999, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the implementation of section 1109 of title 10, United States Code (as added by subsection (b)).”
 

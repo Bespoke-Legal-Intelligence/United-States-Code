@@ -8,9 +8,23 @@
 
 &emsp;(2)(A) any employee or Member who has separated from the service after—
 
-&emsp;&emsp;(i) having been subject to subchapter III of chapter 83 of this title, or subchapter I of chapter 8 <sup>1</sup> of the Foreign Service Act of 1980; and
+&emsp;&emsp;(i) having been subject to—
 
-&emsp;&emsp;(ii) having completed at least 5 years of civilian service creditable under subchapter III of chapter 83 of this title, or at least 5 years of civilian service creditable under subchapter I <sup>1</sup> of the Foreign Service Act of 1980 (determined without regard to any deposit or redeposit requirement under either such subchapter, or any requirement that the individual become subject to either such subchapter after performing the service involved); or
+&emsp;&emsp;&emsp;(I) subchapter III of chapter 83 of this title;
+
+&emsp;&emsp;&emsp;(II) subchapter I of chapter 8 of title I of the Foreign Service Act of 1980; or
+
+&emsp;&emsp;&emsp;(III) the benefit structure for employees of the Board of Governors of the Federal Reserve System appointed before January 1, 1984, that is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act; and
+
+&emsp;&emsp;(ii) having completed—
+
+&emsp;&emsp;&emsp;(I) at least 5 years of civilian service creditable under subchapter III of chapter 83 of this title;
+
+&emsp;&emsp;&emsp;(II) at least 5 years of civilian service creditable under subchapter I of chapter 8 of title I of the Foreign Service Act of 1980; or
+
+&emsp;&emsp;&emsp;(III) at least 5 years of civilian service (other than any service performed in the employ of a Federal Reserve Bank) creditable under the benefit structure for employees of the Board of Governors of the Federal Reserve System appointed before January 1, 1984, that is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act,
+
+> &emsp;&emsp;determined without regard to any deposit or redeposit requirement under either such subchapter or under such benefit structure, or any requirement that the individual become subject to either such subchapter or to such benefit structure after performing the service involved; or
 
 &emsp;(B) any employee having at least 5 years of civilian service performed before January 1, 1987, creditable under subchapter III of chapter 83 of this title (determined without regard to any deposit or redeposit requirement under such subchapter, any requirement that the individual become subject to such subchapter after performing the service involved, or any requirement that the individual give notice in writing to the official by whom such individual is paid of such individual's desire to become subject to such subchapter);
 
@@ -38,15 +52,23 @@
 
 (9) The Joint Committee on Judicial Administration in the District of Columbia may exclude from the operation of this chapter an employee of the District of Columbia Courts whose employment is temporary or of uncertain duration.
 
-(d) Paragraph (2) of subsection (b) shall not apply to an individual who becomes subject to subchapter II of chapter 8 of title I of the Foreign Service Act of 1980 (relating to the Foreign Service Pension System) pursuant to an election and who subsequently enters a position in which, but for such paragraph (2), he would be subject to this chapter.
+(d) Paragraph (2) of subsection (b) shall not apply to an individual who—
 
-(e) A bankruptcy judge or magistrate who is covered by section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities forBankruptcy Judges and Magistrates Act of 1988 shall be excluded from the operation of this chapter, other than subchapters III and VII of such chapter, if the judge or magistrate notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such election, the judge or magistrate shall be entitled to a lump-sum credit under section 8424 of this title.
+&emsp;(1) becomes subject to—
+
+&emsp;&emsp;(A) subchapter II of chapter 8 of title I of the Foreign Service Act of 1980 (relating to the Foreign Service Pension System) pursuant to an election; or
+
+&emsp;&emsp;(B) the benefit structure in which employees of the Board of Governors of the Federal Reserve System appointed on or after January 1, 1984, participate, which benefit structure is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act (and any redesignated or successor version of such benefit structure, if so identified in writing by the Board of Governors of the Federal Reserve System for purposes of this chapter); and
+
+&emsp;(2) subsequently enters a position in which, but for paragraph (2) of subsection (b), such individual would be subject to this chapter.
+
+(e) A bankruptcy judge or magistrate who is covered by section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988 shall be excluded from the operation of this chapter, other than subchapters III and VII of such chapter, if the judge or magistrate notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such election, the judge or magistrate shall be entitled to a lump-sum credit under section 8424 of this title.
 
 (f) A judge who is covered by section 7296 of title 38 shall be excluded from the operation of this chapter if the judge notifies the Director of the Office of Personnel Management of an election of a retirement annuity under that section. Upon such election, the judge shall be entitled to a lump-sum credit under section 8424 of this title.
 
 (g) A judge of the United States Court of Federal Claims who is covered by section 178 of title 28 shall be excluded from the operation of this chapter, other than subchapters III and VII of such chapter, if the judge notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such election, the judge shall be entitled to a lump-sum credit under section 8424 of this title.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 521; amended Pub. L. 99–556, title I, §116, Oct. 27, 1986, 100 Stat. 3134; Pub. L. 100–238, title I, §130, Jan. 8, 1988, 101 Stat. 1759; Pub. L. 100–659, §6(c), Nov. 15, 1988, 102 Stat. 3919; Pub. L. 101–94, title I, §102(b), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–474, §5(p), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–650, title III, §306(e)(3), Dec. 1, 1990, 104 Stat. 5112; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–198, §7(d), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–53, title I, §115, Nov. 19, 1995, 109 Stat. 527; Pub. L. 104–186, title II, §215(13), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–274, §6(a), Oct. 20, 1998, 112 Stat. 2424.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 521; amended Pub. L. 99–556, title I, §116, Oct. 27, 1986, 100 Stat. 3134; Pub. L. 100–238, title I, §130, Jan. 8, 1988, 101 Stat. 1759; Pub. L. 100–659, §6(c), Nov. 15, 1988, 102 Stat. 3919; Pub. L. 101–94, title I, §102(b), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–474, §5(p), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–650, title III, §306(e)(3), Dec. 1, 1990, 104 Stat. 5112; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–198, §7(d), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–53, title I, §115, Nov. 19, 1995, 109 Stat. 527; Pub. L. 104–186, title II, §215(13), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–274, §6(a), Oct. 20, 1998, 112 Stat. 2424; Pub. L. 106–168, title II, §202(b), Dec. 12, 1999, 113 Stat. 1818.)
 
 #### References in Text
 
@@ -54,11 +76,21 @@ Section 210(a)(5) of the Social Security Act, referred to in subsec. (b)(1), is 
 
 The Federal Employees’ Retirement System Act of 1986, referred to in subsec. (b), is Pub. L. 99–335, June 6, 1986, 100 Stat. 514. Title III of the Federal Employees’ Retirement System Act of 1986 amended sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, enacted provisions set out as notes under sections 8331, 8401, 8432, and 8472 of this title and section 6103 of Title 26, and amended provisions set out as a note under section 8331 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8401 of this title and Tables.
 
-The Foreign Service Act of 1980, referred to in subsecs. (b)(2)(A) and (d), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Subchapter I of chapter 8 and subchapter I of the Act probably mean subchapter I of chapter 8 of title I of the Act which is classified generally to part I (§4041 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. Subchapter II of chapter 8 of title I of the Act is classified generally to part II (§4071 et seq.) of subchapter VIII of chapter 52 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsecs. (b)(2)(A)(i)(II), (ii)(II) and (d)(1)(A), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Subchapters I and II of chapter 8 of title I of the Act are classified generally to parts I (§4041 et seq.) and II (§4071 et seq.), respectively, of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+
+Section 10 of the Federal Reserve Act, referred to in subsecs. (b)(2)(A)(i)(III), (ii)(III) and (d)(1)(B), is section 10 of act Dec. 23, 1913, ch. 6, 38 Stat. 260, as amended. For classification of section 10 to the Code, see Codification note set out under section 241 of Title 12, Banks and Banking, and Tables.
 
 Section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988, referred to in subsec. (e), is section 2(c) of Pub. L. 100–659, which is set out as a note under section 377 of Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+
+1999—Subsec. (b)(2)(A). Pub. L. 106–168, §202(b)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “any employee or Member who has separated from the service after—
+
+&emsp;“(i) having been subject to subchapter III of chapter 83 of this title, or subchapter I of chapter 8 of the Foreign Service Act of 1980; and
+
+&emsp;“(ii) having completed at least 5 years of civilian service creditable under subchapter III of chapter 83 of this title, or at least 5 years of civilian service creditable under subchapter I of the Foreign Service Act of 1980 (determined without regard to any deposit or redeposit requirement under either such subchapter, or any requirement that the individual become subject to either such subchapter after performing the service involved); or”.
+
+Subsec. (d). Pub. L. 106–168, §202(b)(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “Paragraph (2) of subsection (b) shall not apply to an individual who becomes subject to subchapter II of chapter 8 of title I of the Foreign Service Act of 1980 (relating to the Foreign Service Pension System) pursuant to an election and who subsequently enters a position in which, but for such paragraph (2), he would be subject to this chapter.”
 
 1998—Subsec. (c)(9). Pub. L. 105–274 added par. (9).
 
@@ -90,6 +122,22 @@ Subsec. (e). Pub. L. 100–659 added subsec. (e).
 
 Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–168, title II, §202(d), Dec. 12, 1999, 113 Stat. 1819, provided that:
+
+“(1)
+
+In general.—Subject to succeeding provisions of this subsection, this section \[amending this section and section 8411 of this title and enacting provisions set out as a note under this section\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Dec. 12, 1999\].
+
+“(2)
+
+Provisions relating to creditability and certain former employees.—The amendments made by subsection (a) \[amending section 8411 of this title\] and the provisions of subsection (c) \[set out as a note below\] shall apply only to individuals who separate from service subject to chapter 84 of title 5, United States Code, on or after the date of the enactment of this Act \[Dec. 12, 1999\].
+
+“(3)
+
+Provisions relating to exclusion from chapter.—The amendments made by subsection (b) \[amending this section\] shall not apply to any former employee of the Board of Governors of the Federal Reserve System who, subsequent to his or her last period of service as an employee of the Board of Governors of the Federal Reserve System and prior to the date of the enactment of this Act \[Dec. 12, 1999\], became subject to subchapter III of chapter 83 or chapter 84 of title 5, United States Code, under the law in effect at the time of the individual's appointment.”
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–274, §10, Oct. 20, 1998, 112 Stat. 2429, provided that: “Except as otherwise specifically provided, this Act \[amending this section and enacting provisions set out as a note under section 8401 of this title\] and the amendments made by this Act shall take effect as if included in the enactment of title XI of the Balanced Budget Act of 1997 \[Pub. L. 105–33\].”
@@ -106,9 +154,19 @@ Amendment by Pub. L. 101–650 applicable to judges of, and senior judges in act
 
 Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankruptcy judges and magistrates \[now United States magistrate judges\] who retire on or after Nov. 15, 1988, with exception for judges and magistrates retiring on or after July 31, 1987, see section 9 of Pub. L. 100–659, set out as an Effective Date note under section 377 of Title 28, Judiciary and Judicial Procedure.
 
+#### Provisions Relating to Certain Former Employees
+
+Pub. L. 106–168, title II, §202(c), Dec. 12, 1999, 113 Stat. 1819, provided that: “A former employee of the Board of Governors of the Federal Reserve System who—
+
+&emsp;“(1) has at least 5 years of civilian service (other than any service performed in the employ of a Federal Reserve Bank) creditable under the benefit structure for employees of the Board of Governors of the Federal Reserve System appointed before January 1, 1984, that is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act \[Act Dec. 23, 1913, ch. 6, see Codification note set out under 12 U.S.C. 241\];
+
+&emsp;“(2) was subsequently employed subject to the benefit structure in which employees of the Board of Governors of the Federal Reserve System appointed on or after January 1, 1984, participate, which benefit structure is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act (and any redesignated or successor version of such benefit structure, if so identified in writing by the Board of Governors of the Federal Reserve System for purposes of chapter 84 of title 5, United States Code); and
+
+&emsp;“(3) after service described in paragraph (2), becomes subject to and thereafter entitled to benefits under chapter 84 of title 5, United States Code,
+
+> shall, for purposes of section 302 of the Federal Employees’ Retirement System Act of 1986 \[Pub. L. 99–335\] (100 Stat. 601; 5 U.S.C. 8331 note) be considered to have become subject to chapter 84 of title 5, United States Code, pursuant to an election under section 301 of such Act \[5 U.S.C. 8331 note\].”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 8334, 8347, 8349, 8401 of this title; title 50 section 2151.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -48,7 +48,7 @@ The Center shall—
 
 &emsp;(13) maintain liaison with organizations, both domestic and foreign, involved in efforts to improve productivity;
 
-&emsp;(14) determine the Nation's needs for productivity-related management and analyticalskills and to encourage and facilitate the development of training programs in such skills; and
+&emsp;(14) determine the Nation's needs for productivity-related management and analytical skills and to encourage and facilitate the development of training programs in such skills; and
 
 &emsp;(15) study the effects of materials availability upon productivity growth.
 

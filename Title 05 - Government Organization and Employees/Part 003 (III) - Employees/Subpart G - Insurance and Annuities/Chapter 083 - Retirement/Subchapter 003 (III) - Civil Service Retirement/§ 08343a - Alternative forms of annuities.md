@@ -64,7 +64,7 @@ Section 7001(a)(4) of Pub. L. 101–508 provided that:
 
 &emsp;“(II) is an employee of the Department of Defense who is certified by the Secretary of Defense to have performed, after November 30, 1990, duties essential for the support of Operation Desert Shield; and
 
-&emsp;“(ii) would have been eligible to make an election under section 8343a or 8420a of title 5, United StatesCode (as amended by paragraph (1)) as of November 30, 1990.
+&emsp;“(ii) would have been eligible to make an election under section 8343a or 8420a of title 5, United States Code (as amended by paragraph (1)) as of November 30, 1990.
 
 “(C) The Office of Personnel Management may prescribe such regulations as may be necessary to carry out this paragraph.”
 

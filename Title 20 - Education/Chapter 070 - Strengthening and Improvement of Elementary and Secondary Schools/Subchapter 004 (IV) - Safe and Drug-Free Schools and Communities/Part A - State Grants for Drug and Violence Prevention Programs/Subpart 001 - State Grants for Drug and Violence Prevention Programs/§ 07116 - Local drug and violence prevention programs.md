@@ -20,7 +20,7 @@ A comprehensive drug and violence prevention program carried out under this subp
 
 &emsp;(1) age-appropriate, developmentally based drug prevention and education programs for all students, from the preschool level through grade 12, that address the legal, social, personal and health consequences of the use of illegal drugs, promote a sense of individual responsibility, and provide information about effective techniques for resisting peer pressure to use illegal drugs;
 
-&emsp;(2) programs of drug prevention, comprehensive health education, early intervention,pupil services, mentoring, or rehabilitation referral, which emphasize students’ sense of individual responsibility and which may include—
+&emsp;(2) programs of drug prevention, comprehensive health education, early intervention, pupil services, mentoring, or rehabilitation referral, which emphasize students’ sense of individual responsibility and which may include—
 
 &emsp;&emsp;(A) the dissemination of information about drug prevention;
 

@@ -8,7 +8,7 @@
 
 #### (2) Standards for approval
 
-&emsp;In acting on any application under this paragraph to establish a representative office, theBoard shall take into account the standards contained in section 3105(d)(2) of this title and may impose any additional requirements that the Board determines to be necessary to carry out the purposes of this chapter.
+&emsp;In acting on any application under this paragraph to establish a representative office, the Board shall take into account the standards contained in section 3105(d)(2) of this title and may impose any additional requirements that the Board determines to be necessary to carry out the purposes of this chapter.
 
 #### (b) Termination of representative offices
 
@@ -16,19 +16,23 @@ The Board may order the termination of the activities of a representative office
 
 #### (c) Examinations
 
-The Board may make examinations of each representative office of a foreign bank, the cost of which shall be assessed against and paid by such foreign bank.
+The Board may make examinations of each representative office of a foreign bank, the cost of which shall be assessed against and paid by such foreign bank. The Board may also make examinations of any affiliate of a foreign bank conducting business in any State if the Board deems it necessary to determine and enforce compliance with this chapter, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], or other applicable Federal banking law.
 
 #### (d) Compliance with State law
 
 This chapter does not authorize the establishment of a representative office in any State in contravention of State law.
 
-(Pub. L. 95–369, §10, Sept. 17, 1978, 92 Stat. 624; Pub. L. 102–242, title II, §204, Dec. 19, 1991, 105 Stat. 2292; Pub. L. 102–550, title XVI, §1604(a)(4), Oct. 28, 1992, 106 Stat. 4082.)
+(Pub. L. 95–369, §10, Sept. 17, 1978, 92 Stat. 624; Pub. L. 102–242, title II, §204, Dec. 19, 1991, 105 Stat. 2292; Pub. L. 102–550, title XVI, §1604(a)(4), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 106–102, title I, §142(b), Nov. 12, 1999, 113 Stat. 1384.)
 
 #### References in Text
 
-For definition of “this chapter”, referred to in subsecs. (a)(2) and (d), see References in Text note set out under section 3101 of this title.
+For definition of “this chapter”, referred to in subsecs. (a)(2), (c), and (d), see References in Text note set out under section 3101 of this title.
+
+The Bank Holding Company Act of 1956, referred to in subsec. (c), is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
 #### Amendments
+
+1999—Subsec. (c). Pub. L. 106–102 inserted at end “The Board may also make examinations of any affiliate of a foreign bank conducting business in any State if the Board deems it necessary to determine and enforce compliance with this chapter, the Bank Holding Company Act of 1956, or other applicable Federal banking law.”
 
 1992—Subsec. (b). Pub. L. 102–550 substituted “section 3105(e) of this title” for “paragraphs (1), (2), and (3) of section 3105(d) of this title”.
 
@@ -37,6 +41,10 @@ For definition of “this chapter”, referred to in subsecs. (a)(2) and (d), se
 “(a) Any foreign bank that maintains an office other than a branch or agency in any State shall register with the Secretary of the Treasury in accordance with rules prescribed by him, within one hundred and eighty days after September 17, 1978, or the date on which the office is established, whichever is later.
 
 “(b) This chapter does not authorize the establishment of any such office in any State in contravention of State law.”
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as a note under section 24 of this title.
 
 #### Effective Date of 1992 Amendment
 

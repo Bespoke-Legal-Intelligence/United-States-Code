@@ -18,7 +18,7 @@ Section 6 of Pub. L. 97–205 provided that: “Except as otherwise provided in 
 
 #### Short Title of 1982 Amendment
 
-Section 1 of Pub. L. 97–205 provided: “That this Act \[enacting section 1973aa–6 of this title, amending this section and sections 1973b and 1973aa–1a of this title,and enacting provisions set out as notes under this section and sections 1971, 1973b, 1973aa–1a, and 1973aa–6 of this title\] may be cited as the ‘Voting Rights Act Amendments of 1982’.”
+Section 1 of Pub. L. 97–205 provided: “That this Act \[enacting section 1973aa–6 of this title, amending this section and sections 1973b and 1973aa–1a of this title, and enacting provisions set out as notes under this section and sections 1971, 1973b, 1973aa–1a, and 1973aa–6 of this title\] may be cited as the ‘Voting Rights Act Amendments of 1982’.”
 
 #### Short Title of 1970 Amendment
 

@@ -8,9 +8,15 @@ The annual reports to the Congress by the Commission and the Department of Energ
 
 The reporting requirements of this subchapter are in addition to and not in lieu of any other reporting requirements under applicable law.
 
-#### (c) Committees on Foreign Relations and Governmental Affairs of Senate and Committee on Foreign Affairs of House of Representatives to be kept informed
+#### (c) Committees on Foreign Relations and Governmental Affairs of Senate and Committee on International Relations of House of Representatives to be kept informed
 
-The Department of State, the Department of Defense, the Department of Commerce, the Department of Energy, and the Commission shall keep the Committees on Foreign Relations and Governmental Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives fully and currently informed with respect to their activities to carry out the purposes and policies of this chapter and to otherwise prevent proliferation, and with respect to the current activities of foreign nations which are of significance from the proliferation standpoint.
+(1) The Department of State, the Department of Defense, the Department of Commerce, the Department of Energy, the Commission, and, with regard to subparagraph (B), the Director of Central Intelligence, shall keep the Committees on Foreign Relations and Governmental Affairs of the Senate and the Committee on International Relations of the House of Representatives fully and currently informed with respect to—
+
+&emsp;(A) their activities to carry out the purposes and policies of this chapter and to otherwise prevent proliferation, including the proliferation of nuclear, chemical, or biological weapons, or their means of delivery; and
+
+&emsp;(B) the current activities of foreign nations which are of significance from the proliferation standpoint.
+
+(2) For the purposes of this subsection with respect to paragraph (1)(B), the phrase “fully and currently informed” means the transmittal of credible information not later than 60 days after becoming aware of the activity concerned.
 
 #### (d) Classified portions of reports
 
@@ -24,13 +30,15 @@ Any classified portions of the reports required by this chapter shall be submitt
 
 (2) This subsection does not apply to any intradepartmental document of the Department of State or the Department of Energy, or any portion of such document, that is solely concerned with internal, confidential advice on policy concerning the conduct of interagency deliberations on nuclear proliferation matters.
 
-(Pub. L. 95–242, title VI, §602, Mar. 10, 1978, 92 Stat. 151; Pub. L. 99–661, div. A, title XIII, §1370, Nov. 14, 1986, 100 Stat. 4004; Pub. L. 103–437, §9(a)(8), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(e)(6), Oct. 21, 1998, 112 Stat. 2681–775.)
+(Pub. L. 95–242, title VI, §602, Mar. 10, 1978, 92 Stat. 151; Pub. L. 99–661, div. A, title XIII, §1370, Nov. 14, 1986, 100 Stat. 4004; Pub. L. 103–437, §9(a)(8), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(e)(6), Oct. 21, 1998, 112 Stat. 2681–775; Pub. L. 106–113, div. B, §1000(a)(7), \[div. B, title XI, §1131\], Nov. 29, 1999, 113 Stat. 1536, 1501A–492.)
 
 #### Codification
 
 Subsec. (e) directed that, three years after Mar. 10, 1978, the Comptroller General complete a study and report to Congress on the implementation and impact of this chapter on the nuclear non-proliferation policies, purposes, and objectives of this chapter, with such recommendations as deemed necessary to support the nuclear non-proliferation policies, purposes, and objectives of this chapter.
 
 #### Amendments
+
+1999—Subsec. (c). Pub. L. 106–113 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Department of State, the Department of Defense, the Department of Commerce, the Department of Energy, and the Commission shall keep the Committees on Foreign Relations and Governmental Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives fully and currently informed with respect to their activities to carry out the purposes and policies of this chapter and to otherwise prevent proliferation, and with respect to the current activities of foreign nations which are of significance from the proliferation standpoint.”
 
 1998—Subsec. (c). Pub. L. 105–277, §1225(e)(6)(A), struck out “the Arms Control and Disarmament Agency,” after “the Department of Defense,”.
 
@@ -48,7 +56,19 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+
+#### Provision of Certain Information to Congress
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1134\], Nov. 29, 1999, 113 Stat. 1536, 1501A–494, provided that:
+
+“(a)
+
+Requirement to Provide Information.—The head of each department and agency described in section 602(c) of the Nuclear Non-Proliferation Act of 1978 (22 U.S.C. 3282(c)) shall promptly provide information to the chairman and ranking minority member of the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives in meeting the requirements of subsection (c) or (d) of section 602 of such Act \[22 U.S.C. 3282(c), (d)\].
+
+“(b)
+
+Issuance of Directives.—Not later than February 1, 2000, the Secretary of State, the Secretary of Defense, the Secretary of Commerce, the Secretary of Energy, the Director of Central Intelligence, and the Chairman of the Nuclear Regulatory Commission shall issue directives, which shall provide access to information, including information contained in special access programs, to implement their responsibilities under subsections (c) and (d) of section 602 of the Nuclear Non-Proliferation Act of 1978 (22 U.S.C. 3282(c) and (d)). Copies of such directives shall be forwarded promptly to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives upon the issuance of the directives.”
 
 #### Section Referred to in Other Sections
 

@@ -28,7 +28,7 @@ Lease of small tracts of the lands described in this section for residential, re
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1181b, 1181d, 1181e, 1181f, 1181f–4, 1181i, 1735, 1752 of this title; title 16 section 4804; title 30 sections 601, 603.
+This section is referred to in sections 1181b, 1181d, 1181e, 1181f, 1181f–4, 1181i, 1735, 1752 of this title; title 30 sections 601, 603.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

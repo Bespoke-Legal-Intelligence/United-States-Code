@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(i) a Government corporation, except in the case of an alleged prohibited personnel practice described under subsection (b)(8);
 
-&emsp;&emsp;(ii) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Imagery and Mapping Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or
+&emsp;&emsp;(ii) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Imageryand Mapping Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or
 
 &emsp;&emsp;(iii) the General Accounting Office.
 
@@ -106,7 +106,7 @@
 
 &emsp;(B) knowingly fail to take, recommend, or approve any personnel action if the failure to take such action would violate a veterans’ preference requirement; or
 
-&emsp;(12) take or fail to take any other personnel action if the taking of or failure to take such action violates any law, rule, or regulation implementing, or directly concerning, the merit system principles contained in section 2301 of this title.
+&emsp;(12) take or fail to take any other personnel action if the taking of or failure to take suchaction violates any law, rule, or regulation implementing, or directly concerning, the merit system principles contained in section 2301 of this title.
 
 > This subsection shall not be construed to authorize the withholding of information from the Congress or the taking of any personnel action against an employee who discloses information to the Congress.
 
@@ -176,7 +176,7 @@ Subsec. (b)(2). Pub. L. 104–197 amended par. (2) generally. Prior to amendment
 
 Subsec. (a)(2)(A)(x), (xi). Pub. L. 103–424, §5(a)(1), (2), added cls. (x) and (xi) and struck out former cl. (x) which read as follows: “any other significant change in duties or responsibilities which is inconsistent with the employee's salary or grade level;”.
 
-Subsec. (a)(2)(B). Pub. L. 103–424, §5(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ ‘covered position’ means any position in the competitive service, a career appointee position in the Senior Executive Service, or a position in the excepted service, but does not include—
+Subsec. (a)(2)(B). Pub. L. 103–424, §5(b), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: “ ‘covered position’ means any position in the competitive service, a career appointee position in the Senior Executive Service, or a position in the excepted service, but does not include—
 
 &emsp;“(i) a position which is excepted from the competitive service because of its confidential, policy-determining, policy-making, or policy-advocating character; or
 
@@ -186,7 +186,7 @@ Subsec. (a)(2)(C)(i). Pub. L. 103–424, §5(c), inserted before semicolon “,�
 
 Subsec. (a)(2)(C)(ii). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
 
-Subsec. (c). Pub. L. 103–424, §5(d), inserted before period at end of first sentence “, and for ensuring (in consultation with the Office of Special Counsel) that agency employees are informed of the rights and remediesavailable to them under this chapter and chapter 12 of this title”.
+Subsec. (c). Pub. L. 103–424, §5(d), inserted before period at end of first sentence “, and for ensuring (in consultation with the Office of Special Counsel) that agency employees are informed of the rights and remedies available to them under this chapter and chapter 12 of this title”.
 
 1993—Subsec. (b)(2). Pub. L. 103–94 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “solicit or consider any recommendation or statement, oral or written, with respect to any individual who requests or is under consideration for any personnel action unless such recommendation or statement is based on the personal knowledge or records of the person furnishing it and consists of—
 
@@ -222,5 +222,5 @@ Pub. L. 105–339, §6(d), Oct. 31, 1998, 112 Stat. 3188, provided that: “This
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1204, 1212, 1214, 1221, 2105, 2301, 2303, 3352, 4505a, 4703, 5754, 5755, 7116, 7121, 7701 of this title; title 2 section 1371; title 7 sections 6932, 6962; title 10 section 1612; title 22 sections 3657, 3664, 3673, 3905, 4115; title 31 section 732; title 38 sections 4303, 4315, 4331.
+This section is referred to in sections 1204, 1212, 1214, 1221, 2105, 2301, 2303, 3352, 4505a, 4703, 5754, 5755, 7116, 7121, 7701 of this title; title 2 section 1371; title 7 sections 6932, 6962; title 10 section 1612; title 22 sections 3657, 3664, 3673, 3905, 4115; title 31 section 732; title 38 sections 4303, 4315, 4331; title 50 section 403q.
 

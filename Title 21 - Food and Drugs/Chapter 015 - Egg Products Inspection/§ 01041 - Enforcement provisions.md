@@ -1,32 +1,12 @@
 ### §1041. Enforcement provisions
 
-#### (a) Violations of section 1037; term of imprisonment and fine; scope of liability
+#### (a) Violations of section 1037; term of imprisonment and fine
 
-Any person who commits any offense prohibited by section 1037 of this title shall upon conviction be subject to imprisonment for not more than one year, or a fine of not more than $1,000, or both such imprisonment and fine, but if such violation involves intent to defraud, or any distribution or attempted distribution of any article that is known to be adulterated (except as defined in section 1033(a)(8) of this title), such person shall be subject to imprisonment for not more than three years or a fine of not more than $10,000, or both. When construing or enforcing the provisions of section 1037 of this title, the act, omission, or failure of any person acting for or employed by any individual, partnership, corporation, or association within the scope of his employment or office shall in every case be deemed the act, omission, or failure of such individual, partnership, corporation, or association, as well as of such person.
+Any person who commits any offense prohibited by section 1037 of this title shall upon conviction be subject to imprisonment for not more than one year, or a fine of not more than $5,000, or both such imprisonment and fine, but if such violation involves intent to defraud, or any distribution or attempted distribution of any article that is known to be adulterated (except as defined in section 1033(a)(8) of this title), such person shall be subject to imprisonment for not more than three years or a fine of not more than $10,000, or both.
 
-#### (b) Penalties applicable to carriers or warehousemen
-
-No carrier or warehouseman shall be subject to the penalties of this chapter, other than the penalties for violation of section 1040 of this title or subsection (c) of this section, by reason of his receipt, carriage, holding, or delivery, in the usual course of business, as a carrier or warehouseman of eggs or egg products owned by another person unless the carrier or warehouseman has knowledge, or is in possession of facts which would cause a reasonable person to believe that such eggs or egg products were not eligible for transportation under, or were otherwise in violation of, this chapter, or unless the carrier or warehouseman refuses to furnish on request of a representative of the Secretary the name and address of the person from whom he received such eggs or egg products and copies of all documents, if there be any, pertaining to the delivery of the eggs or egg products to, or by, such carrier or warehouseman.
-
-#### (c) Persons preventing enforcement of chapter; term of imprisonment and fine
+#### (b) Persons preventing enforcement of chapter; term of imprisonment and fine
 
 Any person who forcibly assaults, resists, opposes, impedes, intimidates, or interferes with any person while engaged in or on account of the performance of his official duties under this chapter shall be fined not more than $5,000 or imprisoned not more than three years or both. Whoever, in the commission of any such act, uses a deadly or dangerous weapon, shall be fined not more than $10,000 or imprisoned not more than ten years, or both. Whoever kills any person while engaged in or on account of the performance of his official duties under this chapter shall be punished as provided under sections 1111 and 1112 of title 18.
-
-(Pub. L. 91–597, §12, Dec. 29, 1970, 84 Stat. 1628; Pub. L. 102–237, title X, §1012(d), Dec. 13, 1991, 105 Stat. 1899.)
-
-#### Amendment of Section
-
-<i>Pub. L. 102–237, title X, §1012(d), (h), Dec. 13, 1991, 105 Stat. 1899, 1901, provided that, effective 12 months after promulgation of final implementing regulations, this section is amended:</i>
-
-<i>(1) in the first sentence of subsection (a) of this section, by striking “$1,000” and inserting “$5,000”;</i>
-
-<i>(2) by designating the last sentence of subsection (a) of this section as subsection (d) of this section and transferring such subsection to the end of this section;</i>
-
-<i>(3) by redesignating subsection (b) of this section as (e) and transferring such subsection to the end of this section;</i>
-
-<i>(4) by redesignating subsection (c) as (b); and</i>
-
-<i>(5) by inserting after subsection (b) of this section the following new subsection:</i>
 
 #### (c) Civil penalty
 
@@ -53,6 +33,28 @@ Any person who forcibly assaults, resists, opposes, impedes, intimidates, or int
 (5) The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty assessed under this subsection.
 
 (6) Paragraph (1) shall not apply to an official plant.
+
+#### (d) Scope of liability for violations of section 1037
+
+When construing or enforcing the provisions of section 1037 of this title, the act, omission, or failure of any person acting for or employed by any individual, partnership, corporation, or association within the scope of his employment or office shall in every case be deemed the act, omission, or failure of such individual, partnership, corporation, or association, as well as of such person.
+
+#### (e) Penalties applicable to carriers or warehousemen
+
+No carrier or warehouseman shall be subject to the penalties of this chapter, other than the penalties for violation of section 1040 of this title or subsection (c) of this section, by reason of his receipt, carriage, holding, or delivery, in the usual course of business, as a carrier or warehouseman of eggs or egg products owned by another person unless the carrier or warehouseman has knowledge, or is in possession of facts which would cause a reasonable person to believe that such eggs or egg products were not eligible for transportation under, or were otherwise in violation of, this chapter, or unless the carrier or warehouseman refuses to furnish on request of a representative of the Secretary the name and address of the person from whom he received such eggs or egg products and copies of all documents, if there be any, pertaining to the delivery of the eggs or egg products to, or by, such carrier or warehouseman.
+
+(Pub. L. 91–597, §12, Dec. 29, 1970, 84 Stat. 1628; Pub. L. 102–237, title X, §1012(d), Dec. 13, 1991, 105 Stat. 1899.)
+
+#### Amendments
+
+1991—Subsec. (a). Pub. L. 102–237, §1012(d)(1), (2), substituted “$5,000” for “$1,000” in first sentence, and redesignated last sentence, relating to scope of liability for violations of section 1037 of this title, as subsec. (d).
+
+Subsec. (b). Pub. L. 102–237, §1012(d)(4), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (e).
+
+Subsec. (c). Pub. L. 102–237, §1012(d)(5), added subsec. (c). Former subsec. (c) redesignated (b).
+
+Subsec. (d). Pub. L. 102–237, §1012(d)(2), designated last sentence of subsec. (a), relating to scope of liability for violations of section 1037 of this title, as subsec. (d).
+
+Subsec. (e). Pub. L. 102–237, §1012(d)(3), redesignated subsec. (b) as (e).
 
 #### Effective Date of 1991 Amendment
 

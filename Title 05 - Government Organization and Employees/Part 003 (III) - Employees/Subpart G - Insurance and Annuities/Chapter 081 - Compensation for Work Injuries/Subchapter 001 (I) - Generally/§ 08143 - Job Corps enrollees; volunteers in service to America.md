@@ -100,5 +100,5 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 29 section 1706.
+This section is referred to in title 29 sections 1706, 2897.
 

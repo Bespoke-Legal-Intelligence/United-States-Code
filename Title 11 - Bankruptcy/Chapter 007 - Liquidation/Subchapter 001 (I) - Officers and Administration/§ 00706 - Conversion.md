@@ -14,7 +14,7 @@
 
 I74legislative statements
 
-Section 706(a) of the House amendment adopts a provision contained in the Senate amendment indicating that a waiver of the right to convert a case under section 706(a) is unenforceable. The explicit reference in title 11 forbidding the waiver of certain rights is not intended to imply that other rights, such as the right to file a voluntary bankruptcy case under section 301, may be waived.
+Section 706(a) of the House amendment adopts a provision contained in the Senate amendment indicating that a waiver of the right to convert a case under section 706(a) is unenforceable. The explicit reference in title 11 forbidding the waiver of certain rights is not intended to imply that other rights, such as the right tofile a voluntary bankruptcy case under section 301, may be waived.
 
 Section 706 of the House amendment adopts a similar provision contained in H.R. 8200 as passed by the House. Competing proposals contained in section 706(c) and section 706(d) of the Senate amendment are rejected.
 

@@ -1,56 +1,52 @@
 ### §709. Technicians: employment, use, status
 
-(a) Under regulations prescribed by the Secretary of the Army or the Secretary of the Air Force, as the case may be, and subject to subsection (b) of this section persons may be employed as technicians in—
+(a) Under regulations prescribed by the Secretary of the Army or the Secretary of the Air Force, as the case may be, and subject to subsections (b) and (c), persons may be employed as technicians in—
 
 &emsp;(1) the administration and training of the National Guard; and
 
 &emsp;(2) the maintenance and repair of supplies issued to the National Guard or the armed forces.
 
-(b) A technician employed under subsection (a) shall, while so employed—
+(b) Except as authorized in subsection (c), a person employed under subsection (a) must meet each of the following requirements:
 
-&emsp;(1) be a member of the National Guard;
+&emsp;(1) Be a military technician (dual status) as defined in section 10216(a) of title 10.
 
-&emsp;(2) hold the military grade specified by the Secretary concerned for that position; and
+&emsp;(2) Be a member of the National Guard.
 
-&emsp;(3) wear the uniform appropriate for the member's grade and component of the armed forces while performing duties as a technician.
+&emsp;(3) Hold the military grade specified by the Secretary concerned for that position.
 
-(c) The Secretary concerned shall designate the adjutants general referred to in section 314 of this title, to employ and administer the technicians authorized by this section.
+&emsp;(4) While performing duties as a military technician (dual status), wear the uniform appropriate for the member's grade and component of the armed forces.
 
-(d) A technician employed under subsection (a) is an employee of the Department of the Army or the Department of the Air Force, as the case may be, and an employee of the United States. However, a position authorized by this section is outside the competitive service if the technician employed therein is required under subsection (b) to be a member of the National Guard.
+(c)(1) A person may be employed under subsection (a) as a non-dual status technician (as defined by section 10217 of title 10) if the technician position occupied by the person has been designated by the Secretary concerned to be filled only by a non-dual status technician.
 
-(e) Notwithstanding any other provision of law and under regulations prescribed by the Secretary concerned—
+(2) The total number of non-dual status technicians in the National Guard is specified in section 10217(c)(2) of title 10.
 
-&emsp;(1) a technician who is employed in a position in which National Guard membership is required as a condition of employment and who is separated from the National Guard or ceases to hold the military grade specified for his position by the Secretary concerned shall be promptly separated from his technician employment by the adjutant general of the jurisdiction concerned;
+(d) The Secretary concerned shall designate the adjutants general referred to in section 314 of this title to employ and administer the technicians authorized by this section.
 
-&emsp;(2) a technician who is employed in a position in which National Guard membership is required as a condition of employment and who fails to meet the military security standards established by the Secretary concerned for a member of a reserve component of the armed force under his jurisdiction may be separated from his employment as a technician and concurrently discharged from the National Guard by the adjutant general of the jurisdiction concerned;
+(e) A technician employed under subsection (a) is an employee of the Department of the Army or the Department of the Air Force, as the case may be, and an employee of the United States. However, a position authorized by this section is outside the competitive service if the technician employed in that position is required under subsection (b) to be a member of the National Guard.
 
-&emsp;(3) a technician may, at any time, be separated from his technician employment for cause by the adjutant general of the jurisdiction concerned;
+(f) Notwithstanding any other provision of law and under regulations prescribed by the Secretary concerned—
 
-&emsp;(4) a reduction in force, removal, or an adverse action involving discharge from technician employment, suspension, furlough without pay, or reduction in rank or compensation shall be accomplished by the adjutant general of the jurisdiction concerned;
+&emsp;(1) a person employed under subsection (a) who is a military technician (dual status) and otherwise subject to the requirements of subsection (b) who—
 
-&emsp;(5) a right of appeal which may exist with respect to clause (1), (2), (3), or (4) shall not extend beyond the adjutant general of the jurisdiction concerned; and
+&emsp;&emsp;(A) is separated from the National Guard or ceases to hold the military grade specified by the Secretary concerned for that position shall be promptly separated from military technician (dual status) employment by the adjutant general of the jurisdiction concerned; and
 
-&emsp;(6) a technician shall be notified in writing of the termination of his employment as a technician and, unless the technician is serving under a temporary appointment, is serving in a trial or probationary period, or has voluntarily ceased to be a member of the National Guard when such membership is a condition of employment, such notification shall be given at least 30 days before the termination date of such employment.
+&emsp;&emsp;(B) fails to meet the military security standards established by the Secretary concerned for a member of a reserve component under his jurisdiction may be separated from employment as a military technician (dual status) and concurrently discharged from the National Guard by the adjutant general of the jurisdiction concerned;
 
-(f) Sections 2108, 3502, 7511, and 7512 <sup>1</sup> of title 5 do not apply to any person employed under this section.
+&emsp;(2) a technician may, at any time, be separated from his technician employment for cause by the adjutant general of the jurisdiction concerned;
 
-(g)(1) Notwithstanding sections 5544(a) and 6101(a) of title 5 or any other provision of law, the Secretary concerned may, in the case of technicians assigned to perform operational duties at air defense sites—
+&emsp;(3) a reduction in force, removal, or an adverse action involving discharge from technician employment, suspension, furlough without pay, or reduction in rank or compensation shall be accomplished by the adjutant general of the jurisdiction concerned;
 
-&emsp;(A) prescribe the hours of duties;
+&emsp;(4) a right of appeal which may exist with respect to paragraph (1), (2), or (3) shall not extend beyond the adjutant general of the jurisdiction concerned; and
 
-&emsp;(B) fix the rates of basic compensation; and
+&emsp;(5) a technician shall be notified in writing of the termination of his employment as a technician and, unless the technician is serving under a temporary appointment, is serving in a trial or probationary period, or has voluntarily ceased to be a member of the National Guard when such membership is a condition of employment, such notification shall be given at least 30 days before the termination date of such employment.
 
-&emsp;(C) fix the rates of additional compensation;
+(g) Sections 2108, 3502, 7511, and 7512 of title 5 do not apply to a person employed under this section.
 
-> to reflect unusual tours of duty, irregular additional duty, and work on days that are ordinarily nonworkdays. Additional compensation under this subsection may be fixed on an annual basis and is determined as an appropriate percentage, not in excess of 12 percent, of such part of the rate of basic pay for the position as does not exceed the minimum rate of basic pay for GS–10 of the General Schedule under section 5332 of title 5.
-
-(2) Notwithstanding sections 5544(a) and 6101(a) of title 5 or any other provision of law, the Secretary concerned may, for technicians other than those described in paragraph (1), prescribe the hours of duty for technicians. Notwithstanding sections 5542 and 5543 of title 5 or any other provision of law, such technicians shall be granted an amount of compensatory time off from their scheduled tour of duty equal to the amount of any time spent by them in irregular or overtime work, and shall not be entitled to compensation for such work.
-
-\[(h) Repealed. Pub. L. 103–160, div. A, title V, §524(d), Nov. 30, 1993, 107 Stat. 1657.\]
+(h) Notwithstanding sections 5544(a) and 6101(a) of title 5 or any other provision of law, the Secretary concerned may prescribe the hours of duty for technicians. Notwithstanding sections 5542 and 5543 of title 5 or any other provision of law, such technicians shall be granted an amount of compensatory time off from their scheduled tour of duty equal to the amount of any time spent by them in irregular or overtime work, and shall not be entitled to compensation for such work.
 
 (i) The Secretary concerned may not prescribe for purposes of eligibility for Federal recognition under section 301 of this title a qualification applicable to technicians employed under subsection (a) that is not applicable pursuant to that section to the other members of the National Guard in the same grade, branch, position, and type of unit or organization involved.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Pub. L. 87–224, §2, Sept. 13, 1961, 75 Stat. 496; Pub. L. 90–486, §2(1), Aug. 13, 1968, 82 Stat. 755; Pub. L. 92–119, §2, Aug. 13, 1971, 85 Stat. 340; Pub. L. 96–513, title V, §515(5)–(7), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 103–160, div. A, title V, §§523(a), 524(c), (d), Nov. 30, 1993, 107 Stat. 1656, 1657; Pub. L. 103–337, div. A, title X, §1070(b)(2), (d)(5), Oct. 5, 1994, 108 Stat. 2856, 2858; Pub. L. 104–106, div. A, title X, §1038(a), Feb. 10, 1996, 110 Stat. 432; Pub. L. 105–85, div. A, title V, §522(c), Nov. 18, 1997, 111 Stat. 1735.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Pub. L. 87–224, §2, Sept. 13, 1961, 75 Stat. 496; Pub. L. 90–486, §2(1), Aug. 13, 1968, 82 Stat. 755; Pub. L. 92–119, §2, Aug. 13, 1971, 85 Stat. 340; Pub. L. 96–513, title V, §515(5)–(7), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 103–160, div. A, title V, §§523(a), 524(c), (d), Nov. 30, 1993, 107 Stat. 1656, 1657; Pub. L. 103–337, div. A, title X, §1070(b)(2), (d)(5), Oct. 5, 1994, 108 Stat. 2856, 2858; Pub. L. 104–106, div. A, title X, §1038(a), Feb. 10, 1996, 110 Stat. 432; Pub. L. 105–85, div. A, title V, §522(c), Nov. 18, 1997, 111 Stat. 1735; Pub. L. 106–65, div. A, title V, §524, Oct. 5, 1999, 113 Stat. 599.)
 
 Historical and Revision Notes
 
@@ -114,11 +110,9 @@ In subsection (e), the words “Funds appropriated by Congress” are substitute
 
 In subsection (f), the words “authorized to be employed under this section” are substituted for the words “authorized to be employed”. The words “person to employ them” are substituted for the words “by whom they shall be employed”. The words “by regulations” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions.
 
-#### References in Text
-
-Sections 7511 and 7512 of title 5, referred to in subsec. (f), which related to adverse actions against preference eligible employees and comprised subchapter II of chapter 75 of Title 5, Government Organization and Employees, were repealed by Pub. L. 95–454 and replaced by a new subchapter II (§§7511–7514) of chapter 75 relating to removal, suspension for more than 14 days, reduction in grade or pay, or furlough for 30 days or less.
-
 #### Amendments
+
+1999—Pub. L. 106–65 amended section catchline and text generally, revising and restating provisions relating to employment, use, and status of technicians.
 
 1997—Subsec. (b). Pub. L. 105–85 substituted “A technician” for “Except as prescribed by the Secretary concerned, a technician”.
 
@@ -152,7 +146,7 @@ Subsec. (b). Pub. L. 90–486 substituted provisions requiring, except as prescr
 
 Subsec. (c). Pub. L. 90–486 substituted provisions authorizing the Secretary concerned to designate adjutants general to employ and administer the technicians authorized by this section for provisions authorizing the Secretary concerned to place in a common pool for care, maintenance, and storage the material, armament, and equipment of the Army National Guard or Air National Guard, with proviso that not more than 15 caretakers be employed for each pool.
 
-Subsec. (d). Pub. L. 90–486 substituted provisions that a technician employed under subsec. (a) is an employee of the particular department concerned, and an employee of the United States, with proviso that a position authorized by this section is outside competitive service if technician so employed is required under subsec. (b) to be a member of the National Guard, for provisions that one commissioned officer of the National Guard in a grade below major may be employed for each pool set up and for each squadron of the Air National Guard.
+Subsec. (d). Pub. L. 90–486 substituted provisions that a technician employed under subsec. (a) is an employeeof the particular department concerned, and an employee of the United States, with proviso that a position authorized by this section is outside competitive service if technician so employed is required under subsec. (b) to be a member of the National Guard, for provisions that one commissioned officer of the National Guard in a grade below major may be employed for each pool set up and for each squadron of the Air National Guard.
 
 Subsec. (e). Pub. L. 90–486 substituted provisions authorizing the adjutant general of the jurisdiction concerned to separate from technicians employment any technician for the specified grounds, provisions requiring the technician concerned to be notified in writing of the termination of his employment at least 30 days prior to the termination date of such employment, and provisions granting a limited right of appeal from such termination, for provisions appropriating funds by Congress for the National Guard as additional to funds appropriated by the several states and territories, etc., and provisions making such funds available for the hire of caretakers and clerks.
 
@@ -161,6 +155,10 @@ Subsec. (f). Pub. L. 90–486 substituted provisions making inapplicable section
 Subsecs. (g), (h). Pub. L. 90–486 added subsecs. (g) and (h).
 
 1961—Subsec. (f). Pub. L. 87–224 provided that the authorized compensation may include employer's contributions to retirement systems, and that such contributions shall not exceed 61/2 per centum of the compensation upon which based.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–65 effective 180 days after the date of receipt by Congress of the plan required by section 523(d) of Pub. L. 105–85, set out as a note under section 10217 of Title 10, Armed Forces, or a report by the Secretary of Defense providing an alternative proposal to the plan required by section 523(d), see section 525 of Pub. L. 106–65, set out as a note under section 10217 of Title 10.
 
 #### Effective Date of 1994 Amendment
 
@@ -184,7 +182,7 @@ Pub. L. 101–189, div. A, title V, §506(a)–(c), Nov. 29, 1989, 103 Stat. 143
 
 Pub. L. 100–456, div. A, title V, §523, Sept. 29, 1988, 102 Stat. 1974, as amended by Pub. L. 101–189, div. A, title V, §506(d), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 101–510, div. A, title XIV, §1484(<i>l</i>)(2), Nov. 5, 1990, 104 Stat. 1719, which related to training of civilian technicians of Army National Guard at National Guard schools, was repealed by Pub. L. 103–160, div. A, title V, §523(b)(1), Nov. 30, 1993, 107 Stat. 1656.
 
-\[Pub. L. 103–160, div. A, title V, §523(c), Nov. 30, 1993, 107 Stat. 1656, provided that: “A civilian technician of the Army National Guard serving in an active status on the date of the enactment of this Act \[Nov. 30, 1993\] who under the provisions of law repealed by subsection (b) \[repealing section 523 of Pub. L. 100–456 and section 506(a)–(c) of Pub. L. 101–189, formerly set out as notes above\] (or under other Department of the Army policy in effect on the day before such date of enactment) was granted credit on the technician's military record for the completion of certain education and training courses shall retain such credit, notwithstanding the provisions of subsections (a) \[amending this section\] and (b), for a period determined by the Secretary of theArmy. Such a period may not terminate, in the case of any such civilian technician, before the effective date of such civilian technician's next mililitary \[sic\] promotion.”\]
+\[Pub. L. 103–160, div. A, title V, §523(c), Nov. 30, 1993, 107 Stat. 1656, provided that: “A civilian technician of the Army National Guard serving in an active status on the date of the enactment of this Act \[Nov. 30, 1993\] who under the provisions of law repealed by subsection (b) \[repealing section 523 of Pub. L. 100–456 and section 506(a)–(c) of Pub. L. 101–189, formerly set out as notes above\] (or under other Department of the Army policy in effect on the day before such date of enactment) was granted credit on the technician's military record for the completion of certain education and training courses shall retain such credit, notwithstanding the provisions of subsections (a) \[amending this section\] and (b), for a period determined by the Secretary of the Army. Such a period may not terminate, in the case of any such civilian technician, before the effective date of such civilian technician's next mililitary \[sic\] promotion.”\]
 
 #### Retirement Credit for Certain Former National Guard Technicians
 
@@ -264,7 +262,7 @@ Section 6 of Pub. L. 90–486, as amended by Pub. L. 99–514, §2, Oct. 22, 198
 
 > and was covered by a retirement system or plan of a State or the Commonwealth of Puerto Rico, may, if he is reemployed within sixty days under section 709 of title 32, United States Code, make the election described in subsection (a) of this section, within thirty days following the date of his reemployment.
 
-“(c) In the case of any person who files a valid election under this section to remain covered by an employee retirement system of, or plan sponsored by, a State or the Commonwealth of Puerto Rico, the United States may pay the amount of the employer's contributions to that system or plan that become due for periods beginning on or after the effective date of this Act \[see Effective Date note above\]. However, the payment by the United States, including any contribution that may be made by the United States toward the employer's tax imposed by section 3111 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended (26 U.S.C. 3111), may not exceed the amount which the employing agency would otherwise contribute on behalf of the person to the Civil Service Retirement and Disability Fund under section 8334(a) of title 5, United States Code. Notwithstanding section 8332(b) of title 5, United States Code, as amended by section 5 of this Act, the service under section 709 of title 32, United States Code, or prior corresponding provision of law, of a person who has made an election to remain covered by the employee retirement system of, or plan sponsored by, a State or the Commonwealth of Puerto Rico, shall not be creditable toward eligibility for or amount of annuity under subchapter III of chapter 83 of title 5, United States Code. A person who retires pursuant to his valid election shall not be eligible for any rights, benefits, or privileges to which retired civilian employees of the United States may be entitled.”
+“(c) In the case of any person who files a valid election under this section to remain covered by an employee retirement system of, or plan sponsored by, a State or the Commonwealth of Puerto Rico, the United States may pay the amount of the employer's contributions to that system or plan that become due for periods beginning on or after the effective date of this Act \[see Effective Date note above\]. However, the payment by the United States, including any contribution that may be made by the United States toward the employer's tax imposed by section 3111 of the Internal RevenueCode of 1986 \[formerly I.R.C. 1954\], as amended (26 U.S.C. 3111), may not exceed the amount which the employing agency would otherwise contribute on behalf of the person to the Civil Service Retirement and Disability Fund under section 8334(a) of title 5, United States Code. Notwithstanding section 8332(b) of title 5, United States Code, as amended by section 5 of this Act, the service under section 709 of title 32, United States Code, or prior corresponding provision of law, of a person who has made an election to remain covered by the employee retirement system of, or plan sponsored by, a State or the Commonwealth of Puerto Rico, shall not be creditable toward eligibility for or amount of annuity under subchapter III of chapter 83 of title 5, United States Code. A person who retires pursuant to his valid election shall not be eligible for any rights, benefits, or privileges to which retired civilian employees of the United States may be entitled.”
 
 #### Compensation Rates; Conversion and Adjustment of Compensation to the General Schedule
 
@@ -395,6 +393,4 @@ July 16, 1946, ch. 583, 60 Stat. 556.
 #### Section Referred to in Other Sections
 
 This section is referred to in section 715 of this title; title 5 sections 2105, 8332, 8337; title 10 sections 10216, 10217, 10503; title 37 sections 417, 418; title 38 sections 4303, 4314; title 42 section 418.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,7 @@ Printing or binding may be done at the Government Printing Office only when auth
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code, 1964 ed., §111 and 116 (part) (Jan. 12, 1895, ch. 23, §§86, 87, 28 Stat. 662; Mar. 1, 1919,ch. 86, §11, 40 Stat. 1270; July 5, 1949, ch. 296, 63 Stat. 405).
+Based on 44 U.S. Code, 1964 ed., §111 and 116 (part) (Jan. 12, 1895, ch. 23, §§86, 87, 28 Stat. 662; Mar. 1, 1919, ch. 86, §11, 40 Stat. 1270; July 5, 1949, ch. 296, 63 Stat. 405).
 
 This section incorporates only the first sentence of former section 116. The balance will be found in section 1123 of the revision.
 
@@ -166,5 +166,5 @@ Tax Court reports, publication at Government Printing Office, see section 7462 o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 503 of this title; title 7 section 285; title 10 section 195; title 15 section 4051; title 16 sections 916<i>l</i>, 961; title 20 sections 954, 956; title 21 section 114c; title 22 sections 272a, 280b, 280i, 280k, 287e, 287r, 290b, 290f, 1471, 2024, 2669, 3714b; title 33 section 1123; title 42 sections 284, 1870.
+This section is referred to in section 503 of this title; title 7 section 285; title 10 section 195; title 15 section 4051; title 16 sections 916<i>l</i>, 961; title 20 sections 954, 956; title 21 section 114c; title 22 sections 272a, 280b, 280i, 280k, 287e, 287r, 290b, 290f, 1471, 2024, 2669, 3714b; title 33 section 1123; title 35 section 2; title 42 sections 299c–3, 284, 1870.
 

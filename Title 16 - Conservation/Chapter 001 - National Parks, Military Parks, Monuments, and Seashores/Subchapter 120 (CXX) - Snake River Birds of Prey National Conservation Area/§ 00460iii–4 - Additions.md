@@ -8,7 +8,7 @@
 
 #### (b) Purchase of lands
 
-In addition to the authority in section 1748(d) of title 43 and notwithstanding section 460<i>l</i>–9(a) <sup>1</sup> of this title, monies appropriated from the Land and Water Conservation Fund may be used as authorized in section 1534(b) of this title, for the purposes of acquiring lands or interests therein within the conservation area for administrationas public lands as a part of the conservation area.
+In addition to the authority in section 1748(d) of title 43 and notwithstanding section 460<i>l</i>–9(a) <sup>1</sup> of this title, monies appropriated from the Land and Water Conservation Fund may be used as authorized in section 1534(b) of this title, for the purposes of acquiring lands or interests therein within the conservation area for administration as public lands as a part of the conservation area.
 
 #### (c) Land exchanges
 

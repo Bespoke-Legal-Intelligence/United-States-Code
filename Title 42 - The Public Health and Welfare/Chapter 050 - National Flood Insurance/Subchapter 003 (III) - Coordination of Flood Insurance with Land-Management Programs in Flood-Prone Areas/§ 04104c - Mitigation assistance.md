@@ -72,7 +72,7 @@ To be eligible to receive financial assistance under this section for mitigation
 
 &emsp;&emsp;(B) elevation, relocation, demolition, or floodproofing of structures (including public structures) located in areas having special flood hazards or other areas of flood risk;
 
-&emsp;&emsp;(C) acquisition by States and communities of properties (including public properties) located in areas having special flood hazards or other areas of flood risk and properties substantially damaged by flood, for public use, as the Director determines is consistent with sound land management and use in such area;
+&emsp;&emsp;(C) acquisition by States and communities of properties (including public properties) located in areas having special flood hazardsor other areas of flood risk and properties substantially damaged by flood, for public use, as the Director determines is consistent with sound land management and use in such area;
 
 &emsp;&emsp;(D) minor physical mitigation efforts that do not duplicate the flood prevention activities of other Federal agencies and that lessen the frequency or severity of flooding and decrease predicted flood damages, which shall not include major flood control projects such as dikes, levees, seawalls, groins, and jetties unless the Director specifically determines in approving a mitigation plan that such activities are the most cost-effective mitigation activities for the National Flood Mitigation Fund;
 
@@ -110,7 +110,7 @@ To be eligible to receive financial assistance under this section for mitigation
 
 #### (2) Non-Federal funds
 
-&emsp;For purposes of this subsection, the term “non-Federal funds” includes State or local agency funds, in-kind contributions, any salary paid to staff to carry out the mitigation activities of the recipient, the value of the time and services contributed by volunteers to carry out such activities (at a rate determinedby the Director), and the value of any donated material or building and the value of any lease on a building.
+&emsp;For purposes of this subsection, the term “non-Federal funds” includes State or local agency funds, in-kind contributions, any salary paid to staff to carry out the mitigation activities of the recipient, the value of the time and services contributed by volunteers to carry out such activities (at a rate determined by the Director), and the value of any donated material or building and the value of any lease on a building.
 
 #### (h) Oversight of mitigation plans
 
@@ -142,7 +142,7 @@ For purposes of this section, the term “community” means—
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (f)(3), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (f)(3), isPub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Regulations
 

@@ -70,15 +70,51 @@
 
 &emsp;(H) The Social Security Administration.
 
-(Added Pub. L. 101–576, title II, §205(a), Nov. 15, 1990, 104 Stat. 2842; amended Pub. L. 103–296, title I, §108(j)(1), Aug. 15, 1994, 108 Stat. 1488.)
+(c)(1) There shall be within the Executive Office of the President a Chief Financial Officer, who shall be designated or appointed by the President from among individuals meeting the standards described in subsection (a)(3). The position of Chief Financial Officer established under this paragraph may be so established in any Office (including the Office of Administration) of the Executive Office of the President.
+
+(2) The Chief Financial Officer designated or appointed under this subsection shall, to the extent that the President determines appropriate and in the interest of the United States, have the same authority and perform the same functions as apply in the case of a Chief Financial Officer of an agency described in subsection (b).
+
+(3) The President shall submit to Congress notification with respect to any provision of section 902 that the President determines shall not apply to a Chief Financial Officer designated or appointed under this subsection.
+
+(4) The President may designate an employee of the Executive Office of the President (other than the Chief Financial Officer), who shall be deemed “the head of the agency” for purposes of carrying out section 902, with respect to the Executive Office of the President.
+
+(Added Pub. L. 101–576, title II, §205(a), Nov. 15, 1990, 104 Stat. 2842; amended Pub. L. 103–296, title I, §108(j)(1), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 106–58, title VI, §638(a), Sept. 29, 1999, 113 Stat. 475.)
 
 #### Amendments
 
+1999—Subsec. (c). Pub. L. 106–58 added subsec. (c).
+
 1994—Subsec. (b)(2)(H). Pub. L. 103–296 added subpar. (H).
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–58 effective at noon on Jan. 20, 2001, see section 638(h) of Pub. L. 106–58, set out as a note under section 503 of this title.
 
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
+
+#### Chief Financial Officer Within Executive Office of the President
+
+Pub. L. 106–58, title VI, §638(b)–(e), Sept. 29, 1999, 113 Stat. 475, provided that:
+
+“(b)
+
+Plan for Implementation.—Not later than 90 days after the effective date of this section \[noon on Jan. 20, 2001\], the President shall communicate in writing, to the Chairmen of the Committees on Appropriations, the Chairman of the Committee on Government Reform of the House of Representatives, and the Chairman of the Committee on Governmental Affairs of the Senate, a plan for implementation of the provisions of, and amendments made by, this section \[amending this section and sections 503 and 1105 of this title\].
+
+“(c)
+
+Deadline for Appointment.—The Chief Financial Officer designated or appointed under section 901(c) of title 31, United States Code (as added by subsection (a)), shall be so designated or appointed not later than 180 days after the effective date of this section \[noon on Jan. 20, 2001\].
+
+“(d)
+
+Pay.—The Chief Financial Officer designated or appointed under such section shall receive basic pay at the rate payable for level IV of the Executive Schedule under section 5315 of title 5, United States Code.
+
+“(e)
+
+Transfer of Functions.—(1) The President may transfer such offices, functions, powers, or duties thereof, as the President determines are properly related to the functions of the Chief Financial Officer under section 901(c) of title 31, United States Code (as added by subsection (a)).
+
+“(2) The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of any office the functions, powers, or duties of which are transferred under paragraph (1) shall also be so transferred.”
 
 #### Chief Financial Officers of Department of Veterans Affairs and Department of Housing and Urban Development
 
@@ -130,5 +166,5 @@ Functions.—The Chief Financial Officers Council shall meet periodically to adv
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 503, 903, 3515 of this title; title 40 section 1425; title 42 section 902.
+This section is referred to in sections 503, 903, 3515 of this title; title 28 section 507; title 40 section 1425; title 42 section 902.
 

@@ -35,3 +35,4 @@ This subchapter is referred to in sections 9651, 9655, 9658, 9659 of this title;
 - [&sect; 09624 - Methane recovery](%C2%A7%2009624%20-%20Methane%20recovery.md)
 - [&sect; 09625 - Section 6921(b)(3)(A)(i) waste](%C2%A7%2009625%20-%20Section%206921%28b%29%283%29%28A%29%28i%29%20waste.md)
 - [&sect; 09626 - Indian tribes](%C2%A7%2009626%20-%20Indian%20tribes.md)
+- [&sect; 09627 - Recycling transactions](%C2%A7%2009627%20-%20Recycling%20transactions.md)

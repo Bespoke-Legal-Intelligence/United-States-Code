@@ -315,7 +315,7 @@ For periods of enrollment other than 9 months, the parents’ contribution from 
 
 #### (j) Adjustments to student's contribution for enrollment periods of less than nine months
 
-For periods of enrollment of less than 9 months, the student's contribution from adjusted available income (as determined under subsection (g) of this section) is determined, for purposes other than subpart 2 of part A of this subchapter, by dividing the amount determined under such subsection by 9, and multiplying the result by the number of months in the period of enrollment.
+For periods of enrollment of less than 9 months, the student's contribution from adjusted available income (as determined under subsection (g) of this section) is determined, for purposes other than subpart 2 of part A of this subchapter, by dividing the amount determined under such subsection by 9, and multiplying theresult by the number of months in the period of enrollment.
 
 (Pub. L. 89–329, title IV, §475, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1456; amended Pub. L. 100–50, §14(1)–(12), June 3, 1987, 101 Stat. 349, 350; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 587; Pub. L. 103–208, §2(g)(2)–(5), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(g), Nov. 13, 1997, 111 Stat. 1523; Pub. L. 105–244, title IV, §473, Oct. 7, 1998, 112 Stat. 1729.)
 

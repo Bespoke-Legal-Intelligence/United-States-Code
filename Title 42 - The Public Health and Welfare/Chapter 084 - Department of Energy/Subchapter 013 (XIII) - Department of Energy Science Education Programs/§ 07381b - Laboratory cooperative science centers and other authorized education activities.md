@@ -26,7 +26,7 @@ The Secretary is authorized to:
 
 &emsp;(11) Establish a program for mathematics and science teachers to provide teachers serving large numbers of disadvantaged students with new strategies for mathematics and science instruction.
 
-&emsp;(12) Support graduate students and, through university-based cooperative programs, undergraduate students for the purpose of encouraging more students to pursue scientific and technical careers, with a particular focus on the recruitment of women and minority students.
+&emsp;(12) Support graduate students and, through university-based cooperative programs, undergraduate students for the purpose of encouraging more students to pursue scientific and technical careers, with a particular focus onthe recruitment of women and minority students.
 
 &emsp;(13) Establish a prefreshman enrichment program in which middle-school students attend summer workshops on mathematics, science, and engineering conducted by universities on their campuses.
 

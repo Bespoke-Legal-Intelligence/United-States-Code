@@ -4,7 +4,7 @@
 
 #### (1) Tires and taxable fuel
 
-&emsp;Where before October 1, 2005, any article subject to the tax imposed by section 4071 or 4081 has been sold by the manufacturer, producer, or importer and on such date is held by a dealer and has not been used and is intended for sale, there shall be credited or refunded (without interest) to the manufacturer, producer, or importer an amount equal to the difference between the tax paid by such manufacturer, producer, or importer on his sale of the article and the amount of tax made applicable to such article on and after October 1, 2005, if claim for such credit or refund is filed with the Secretary on or before March 31, 2006, based upon a request submitted to the manufacturer, producer, or importer before January 1, 2006, by the dealer who held the article in respect of which the credit or refund is claimed, and, on or before March 31, 2006, reimbursement has been made to such dealer by such manufacturer, producer, or importer for the tax reduction on such article or written consent has been obtained from such dealer to allowance of such credit or refund. No credit or refund shall be allowable under this paragraph with respect to taxable fuel in retail stocks held at the place where intended to be sold at retail, nor with respect to taxable fuel held for sale by a producer or importer of taxable fuel.
+&emsp;Where before October 1, 2005, any article subject to the tax imposed by section 4071 or 4081 has been sold by the manufacturer, producer, or importer and on such date is held by a dealer and has not been used and is intended for sale, there shall be credited or refunded (without interest) to the manufacturer, producer, or importer an amount equal to the difference between the tax paid by such manufacturer, producer, or importer on his sale of the article and the amount of tax made applicable to such article on and after October 1, 2005, if claim for such credit or refund is filed with the Secretary on or before March 31, 2006, based upon a request submitted to the manufacturer, producer, or importer before January 1, 2006, bythe dealer who held the article in respect of which the credit or refund is claimed, and, on or before March 31, 2006, reimbursement has been made to such dealer by such manufacturer, producer, or importer for the tax reduction on such article or written consent has been obtained from such dealer to allowance of such credit or refund. No credit or refund shall be allowable under this paragraph with respect to taxable fuel in retail stocks held at the place where intended to be sold at retail, nor with respect to taxable fuel held for sale by a producer or importer of taxable fuel.
 
 #### (2) Definitions
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 92–178 applicable with respect to articles sold on or aft
 
 Section 105(c) of Pub. L. 90–364 provided that: “The amendments made by this section \[amending this section and sections 4061 and 4251 of this title\] shall take effect as of April 30, 1968.”
 
-Section 1(b) of Pub. L. 90–285 provided that: “The amendments made by subsection (a) \[amending thissection and sections 4061 and 4251 of this title\] shall take effect as of March 31, 1968.”
+Section 1(b) of Pub. L. 90–285 provided that: “The amendments made by subsection (a) \[amending this section and sections 4061 and 4251 of this title\] shall take effect as of March 31, 1968.”
 
 #### Effective Date of 1965 Amendment
 

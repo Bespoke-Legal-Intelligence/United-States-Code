@@ -78,7 +78,7 @@ Annual Report.—Not later than March 1 of each year, the Council shall submit t
 
 &emsp;(4) A description of the involvement of the program with Federal interagency coordinating entities.
 
-&emsp;(5) The amounts requested, in the budget submitted to Congress pursuant to section 1105(a) of title 31, United States Code, for the fiscal year following the fiscal year in which the report is prepared, for the programs, projects, and activities of the program and the estimated expenditures under such programs, projects, and activities during such following fiscal year.
+&emsp;(5) The amounts requested, in the budget submitted to Congress pursuant to section 1105(a) of title 31 for the fiscal year following the fiscal year in which the report is prepared, for the programs, projects, and activities of the program and the estimated expenditures under such programs, projects, and activities during such following fiscal year.
 
 (f)
 
@@ -106,9 +106,11 @@ Establishment and Forms of Partnership Projects.—(1) A partnership project und
 
 (2) Projects under the program may include demonstration projects.
 
-(Added Pub. L. 104–201, div. A, title II, §282(a)(1), Sept. 23, 1996, 110 Stat. 2470; amended Pub. L.105–85, div. A, title II, §241(a), title X, §1073(a)(64), Nov. 18, 1997, 111 Stat. 1665, 1903.)
+(Added Pub. L. 104–201, div. A, title II, §282(a)(1), Sept. 23, 1996, 110 Stat. 2470; amended Pub. L. 105–85, div. A, title II, §241(a), title X,§1073(a)(64), Nov. 18, 1997, 111 Stat. 1665, 1903; Pub. L. 106–65, div. A, title X, §1066(a)(30), Oct. 5, 1999, 113 Stat. 772.)
 
 #### Amendments
+
+1999—Subsec. (e)(5). Pub. L. 106–65 struck out “, United States Code,” after “title 31”.
 
 1997—Subsec. (b)(8). Pub. L. 105–85, §1073(a)(64), inserted “United States” before “Geological Survey”.
 

@@ -44,15 +44,7 @@
 
 &emsp;For purposes of applying paragraph (5) of section 401(a) with respect to an individual who is treated as an employee of a domestic parent corporation under subsection (a), the total compensation of such individual shall be the remuneration paid to such individual by the domestic subsidiary which would constitute his total compensation if his services had been performed for such domestic parent corporation, and the basic or regular rate of compensation of such individual shall be determined under regulations prescribed by the Secretary.
 
-#### (c) Termination of status as deemed employee not to be treated as separation from service for purposes of limitation of tax
-
-For purposes of applying section 402(d) with respect to an individual who is treated as an employee of a domestic parent corporation under subsection (a), such individual shall not be considered as separated from the service of such domestic parent corporation solely by reason of the fact that—
-
-&emsp;(1) the corporation of which such individual is an employee ceases, for any taxable year, to be a domestic subsidiary within the meaning of subsection (a)(2)(A),
-
-&emsp;(2) such individual ceases to be an employee of a domestic subsidiary of such domestic parent corporation, if he becomes an employee of another corporation controlled by such domestic parent corporation, or
-
-&emsp;(3) the provision of the plan described in subsection (a)(1)(A) is terminated.
+#### \[(c) Repealed. Pub. L. 104–188, title I, §1401(b)(8), Aug. 20, 1996, 110 Stat. 1789\]
 
 #### (d) Deductibility of contributions
 
@@ -76,13 +68,11 @@ An individual who is treated as an employee of a domestic parent corporation und
 
 (Added Pub. L. 88–272, title II, §220(b), Feb. 26, 1964, 78 Stat. 60; amended Pub. L. 91–172, title V, §515(c)(3), Dec. 30, 1969, 83 Stat. 646; Pub. L. 93–406, title II, §§1016(a)(5), 2005(c)(13), Sept. 2, 1974, 88 Stat. 929, 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title III, §321(d), Apr. 20, 1983, 97 Stat. 119; Pub. L. 98–369, div. A, title IV, §491(d)(16)–(18), July 18, 1984, 98 Stat. 850; Pub. L. 99–514, title XI, §§1112(d)(3), 1114(b)(9)(B), (C), title XVIII, §1852(e)(2)(D), Oct. 22, 1986, 100 Stat. 2445, 2451, 2868; Pub. L. 100–647, title I, §1011A(b)(1)(C), (16), Nov. 10, 1988, 102 Stat. 3472, 3475; Pub. L. 101–239, title VII, §§7811(g)(3), 7831(f), Dec. 19, 1989, 103 Stat. 2409, 2427; Pub. L. 102–318, title V, §521(b)(15), July 3, 1992, 106 Stat. 311; Pub. L. 104–188, title I, §§1401(b)(8), 1402(b)(2), Aug. 20, 1996, 110 Stat. 1789, 1790.)
 
-#### Repeal of Subsection (c)
-
-<i>Pub. L. 104–188, title I, §1401(b)(8), (c), Aug. 20, 1996, 110 Stat. 1789, provided that, applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, subsection (c) of this section is repealed.</i>
-
 #### Amendments
 
-1996—Subsec. (e)(2), (3). Pub. L. 104–188, §1402(b)(2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Section 101(b) (relating to employees’ death benefits).”
+1996—Subsec. (c). Pub. L. 104–188, §1401(b)(8), struck out subsec. (c) which related to treatment of termination of status as deemed employee.
+
+Subsec. (e)(2), (3). Pub. L. 104–188, §1402(b)(2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Section 101(b) (relating to employees’ death benefits).”
 
 1992—Subsec. (c). Pub. L. 102–318 substituted “402(d)” for “402(e)”.
 
@@ -90,7 +80,7 @@ An individual who is treated as an employee of a domestic parent corporation und
 
 Subsec. (c). Pub. L. 101–239, §7811(g)(3), substituted “purposes of limitation” for “purposes limitation” in heading.
 
-1988—Subsec. (c). Pub. L. 100–647, §1011A(b)(16), struck out “of capital gain provisions and” after “service for purposes” in heading and substituted “applying section402(e)” for “applying subsections (a)(2) and (e) of section 402, and section 403(a)(2)” in text.
+1988—Subsec. (c). Pub. L. 100–647, §1011A(b)(16), struck out “of capital gain provisions and” after “service for purposes” in heading and substituted “applying section 402(e)” for “applying subsections (a)(2) and (e) of section 402, and section 403(a)(2)” in text.
 
 Subsec. (e). Pub. L. 100–647, §1011A(b)(1)(C), redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “Section 72(d) (relating to employees’ annuities).”
 

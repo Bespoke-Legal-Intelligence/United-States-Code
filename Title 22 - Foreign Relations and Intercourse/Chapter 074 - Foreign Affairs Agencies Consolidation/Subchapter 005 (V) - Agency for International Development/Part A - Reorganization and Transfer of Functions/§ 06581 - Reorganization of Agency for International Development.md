@@ -24,7 +24,7 @@ Pub. L. 105–277, div. G, subdiv. A, title XV, §1501, Oct. 21, 1998, 112 Stat.
 
 &emsp;“(1) April 1, 1999; or
 
-&emsp;“(2) the date of reorganization of the Agency for International Development pursuant to the reorganization plan described in section 1601 \[22 U.S.C. 6601\].”
+&emsp;“(2) the date of reorganization \[Apr. 1, 1999\] of the Agency for International Development pursuant to the reorganization plan described in section 1601 \[22 U.S.C. 6601\].”
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@ The receipt of any grant, contract, loan, or loan guarantee under the Public Hea
 
 &emsp;&emsp;(A) make its facilities available for the performance of any sterilization procedure or abortion if the performance of such procedure or abortion in such facilities is prohibited by the entity on the basis of religious beliefs or moral convictions, or
 
-&emsp;&emsp;(B) provide any personnel for the performance or assistance in the performance of any sterilization procedure or abortion if the performance or assistance in the performance of such procedures or abortion by such personnel would be contrary to the religious beliefs or moral convictions of such personnel.
+&emsp;&emsp;(B) provide any personnel for the performance or assistance in the performance of any sterilization procedure or abortion if the performance or assistance in the performance of such procedures or abortion by such personnel would be contrary to the religiousbeliefs or moral convictions of such personnel.
 
 #### (c) Discrimination prohibition
 
@@ -44,7 +44,7 @@ No entity which receives, after September 29, 1979, any grant, contract, loan, l
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsecs. (b), (c)(1), and (e), is act July 1, 1944, ch. 373, 58 Stat.682, as amended, which is classified generally to this chapter (§201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsecs. (b), (c)(1), and (e), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to this chapter (§201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 The Community Mental Health Centers Act, referred to in subsecs. (b), (c)(1), and (e), is title II of Pub. L. 88–164, as added Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 309, and amended, which was classified principally to subchapter III (§2689 et seq.) of chapter 33 of this title prior to its repeal by Pub. L. 97–35, title IX, §902(e)(2)(B), Aug. 13, 1981, 95 Stat. 560.
 

@@ -28,15 +28,15 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 &emsp;&emsp;(E) one-half of the remainder of such expenditures; plus
 
-&emsp;(4) an amount equal to the sum of—
+&emsp;(4) the lesser of—
 
-&emsp;&emsp;(A) so much of the amounts expended by such State to carry out programs under section 677 of this title as do not exceed the basic amount for such State determined under section 677(e)(1) of this title; and
+&emsp;&emsp;(A) 80 percent of the amount (if any) by which—
 
-&emsp;&emsp;(B) the lesser of—
+&emsp;&emsp;&emsp;(i) the total amount expended by the State during the fiscal year in which the quarter occurs to carry out programs in accordance with the State application approved under section 677(b) of this title for the period in which the quarter occurs (including any amendment that meets the requirements of section 677(b)(5) of this title); exceeds
 
-&emsp;&emsp;&emsp;(i) one-half of any additional amounts expended by such State for such programs; or
+&emsp;&emsp;&emsp;(ii) the total amount of any penalties assessed against the State under section 677(e) of this title during the fiscal year in which the quarter occurs; or
 
-&emsp;&emsp;&emsp;(ii) the maximum additional amount for such State under such section 677(e)(1) of this title.
+&emsp;&emsp;(B) the amount allotted to the State under section 677 of this title for the fiscal year in which the quarter occurs, reduced by the total of the amounts payable to the State under this paragraph for all prior quarters in the fiscal year.
 
 #### (b) Quarterly estimates of State's entitlement for next quarter; payments; United States’ pro rata share of amounts recovered as overpayment; allowance, disallowance, or deferral of claim
 
@@ -44,7 +44,7 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 (2) The Secretary shall then pay to the State, in such installments as he may determine, the amounts so estimated, reduced or increased to the extent of any overpayment or underpayment which the Secretary determines was made under this section to such State for any prior quarter and with respect to which adjustment has not already been made under this subsection.
 
-(3) The pro rata share to which the United States is equitably entitled, as determined by the Secretary, of the net amount recovered during any quarter by the State or any politicalsubdivision thereof with respect to foster care and adoption assistance furnished under the State plan shall be considered an overpayment to be adjusted under this subsection.
+(3) The pro rata share to which the United States is equitably entitled, as determined by the Secretary, of the net amount recovered during any quarter by the State or any political subdivision thereof with respect to foster care and adoption assistance furnished under the State plan shall be considered an overpayment to be adjusted under this subsection.
 
 (4)(A) Within 60 days after receipt of a State claim for expenditures pursuant to subsection (a) of this section, the Secretary shall allow, disallow, or defer such claim.
 
@@ -84,7 +84,7 @@ The Secretary shall treat as necessary for the proper and efficient administrati
 
 (4) This subsection shall not be construed to affect the application of the Indian Child Welfare Act of 1978 \[25 U.S.C. 1901 et seq.\].
 
-(Aug. 14, 1935, ch. 531, title IV, §474, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 506; amended Pub. L. 96–611, §3, Dec. 28, 1980, 94 Stat. 3567; Pub. L. 98–369, div. B, title VI, §2663(c)(18), July 18, 1984, 98 Stat. 1167; Pub. L. 98–617, §4(a), (b), Nov. 8, 1984, 98 Stat. 3296, 3297; Pub. L. 99–272, title XII, §§12306(a), (b), 12307(c), Apr. 7, 1986, 100 Stat. 294, 296; Pub. L. 99–514, title XVIII, §1883(b)(9), Oct. 22, 1986, 100 Stat. 2917; Pub. L. 100–203, title IX, §9132(a), Dec. 22, 1987, 101 Stat. 1330–313; Pub. L. 101–239, title VIII, §§8001(a), 8002(c), 8006(a), title X, §§10401(a), 10402(a), 10403(c)(1), Dec. 19, 1989, 103 Stat. 2452, 2453, 2461, 2487, 2488; Pub. L. 101–508, title V, §5071(a), Nov. 5, 1990, 104 Stat. 1388–233; Pub. L. 103–66, title XIII, §13713(a)(1), (2), (b)(1), Aug. 10, 1993, 107 Stat. 656, 657; Pub. L. 103–432, title II, §§207(a), (b), 210(a), Oct. 31, 1994, 108 Stat. 4457, 4460; Pub. L. 104–188, title I, §1808(b), Aug. 20, 1996, 110 Stat. 1903; Pub. L. 105–89, title II, §202(b), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–200, title III, §301(b), (c), title IV, §410(g), July 16, 1998, 112 Stat. 658, 674.)
+(Aug. 14, 1935, ch. 531, title IV, §474, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 506; amended Pub. L. 96–611, §3, Dec. 28, 1980, 94 Stat. 3567; Pub. L. 98–369, div. B, title VI,§2663(c)(18), July 18, 1984, 98 Stat. 1167; Pub. L. 98–617, §4(a), (b), Nov. 8, 1984, 98 Stat. 3296, 3297; Pub. L. 99–272, title XII, §§12306(a), (b), 12307(c), Apr. 7, 1986, 100 Stat. 294, 296; Pub. L. 99–514, title XVIII, §1883(b)(9), Oct. 22, 1986, 100 Stat. 2917; Pub. L. 100–203, title IX, §9132(a), Dec. 22, 1987, 101 Stat. 1330–313; Pub. L. 101–239, title VIII, §§8001(a), 8002(c), 8006(a), title X, §§10401(a), 10402(a), 10403(c)(1), Dec. 19, 1989, 103 Stat. 2452, 2453, 2461, 2487, 2488; Pub. L. 101–508, title V, §5071(a), Nov. 5, 1990, 104 Stat. 1388–233; Pub. L. 103–66, title XIII, §13713(a)(1), (2), (b)(1), Aug. 10, 1993, 107 Stat. 656, 657; Pub. L. 103–432, title II, §§207(a), (b), 210(a), Oct. 31, 1994, 108 Stat. 4457, 4460; Pub. L. 104–188, title I, §1808(b), Aug. 20, 1996, 110 Stat. 1903; Pub. L. 105–89, title II, §202(b), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–200, title III, §301(b), (c), title IV, §410(g), July 16, 1998, 112 Stat. 658, 674; Pub. L. 106–169, title I, §101(c), Dec. 14, 1999, 113 Stat. 1828.)
 
 #### References in Text
 
@@ -93,6 +93,16 @@ Parts A and B of this subchapter, referred to in subsec. (a)(3)(C)(iii), (iv), a
 The Indian Child Welfare Act of 1978, referred to in subsec. (d)(4), is Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, as amended, which is classified principally to chapter 21 (§1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 25 and Tables.
 
 #### Amendments
+
+1999—Subsec. (a)(4). Pub. L. 106–169 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “an amount equal to the sum of—
+
+&emsp;“(A) so much of the amounts expended by such State to carry out programs under section 677 of this title as do not exceed the basic amount for such State determined under section 677(e)(1) of this title; and
+
+&emsp;“(B) the lesser of—
+
+&emsp;&emsp;“(i) one-half of any additional amounts expended by such State for such programs; or
+
+&emsp;&emsp;“(ii) the maximum additional amount for such State under such section 677(e)(1) of this title.”
 
 1998—Subsec. (a). Pub. L. 105–200, §410(g), struck out “(subject to the limitations imposed by subsection (b) of this section)” after “this part” in introductory provisions.
 

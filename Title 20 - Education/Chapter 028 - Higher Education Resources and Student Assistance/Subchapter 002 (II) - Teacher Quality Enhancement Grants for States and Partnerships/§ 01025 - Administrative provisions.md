@@ -24,7 +24,7 @@
 
 #### (1) Panel
 
-&emsp;The Secretary shall provide the applications submitted under this subchapter to a peer review panel for evaluation. With respect toeach application, the peer review panel shall initially recommend the application for funding or for disapproval.
+&emsp;The Secretary shall provide the applications submitted under this subchapter to a peer review panel for evaluation. With respect to each application, the peer review panel shall initially recommend the application for funding or for disapproval.
 
 #### (2) Priority
 

@@ -46,9 +46,13 @@ Aug. 6, 1956, ch. 974, §10, as added Jan. 30, 1968, Pub. L. 90–251, §4, 82 S
 
 36:724 (4th sentence).
 
+&nbsp;
+
 503(d)
 
 36:724 (last sentence).
+
+&nbsp;
 
 In subsection (a), the words “restrictions, terms, and” are omitted as unnecessary. The word “prescribes” is substituted for “imposed” for consistency in the revised title and with other titles of the United States Code.
 

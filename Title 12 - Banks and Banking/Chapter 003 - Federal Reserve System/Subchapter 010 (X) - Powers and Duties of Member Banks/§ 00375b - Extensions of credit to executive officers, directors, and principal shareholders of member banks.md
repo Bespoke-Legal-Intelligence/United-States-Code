@@ -40,7 +40,7 @@ A member bank may extend credit to any executive officer, director, or principal
 
 #### (A) In general
 
-&emsp;A member bank may extend credit to any executive officer, director, or principal shareholder, or to any related interest of such a person, if the extension of credit is in an amount that, when aggregated with the amount of all outstanding extensions of credit by that bank to its executive officers, directors, principal shareholders, and those persons’ related interests would not exceed the bank's unimpaired capital and unimpaired surplus.
+&emsp;A member bank may extend credit to any executive officer, director, or principal shareholder, or to any related interest of such a person, if the extension of credit is in an amount that, when aggregated with the amount of all outstanding extensions of credit by that bank to its executive officers, directors, principalshareholders, and those persons’ related interests would not exceed the bank's unimpaired capital and unimpaired surplus.
 
 #### (B) More stringent limit authorized
 
@@ -132,7 +132,7 @@ For purposes of this section:
 
 &emsp;The term “principal shareholder”—
 
-&emsp;&emsp;(i) means any person that directly or indirectly, or acting through or in concert with one or more persons, owns, controls, or has the power to vote more than 10 percent of any class of voting securities of a member bank or company; and
+&emsp;&emsp;(i) means any person that directly or indirectly, or acting through or in concert with one or more persons, owns, controls, or has the power to vote more than 10 percent ofany class of voting securities of a member bank or company; and
 
 &emsp;&emsp;(ii) does not include a company of which a member bank is a subsidiary.
 
@@ -166,7 +166,7 @@ Par. (2)(B). Pub. L. 104–208, §2211(a)(3), added subpar. (B). Former subpar. 
 
 Par. (2)(C). Pub. L. 104–208, §2211(a)(1), redesignated subpar. (C) as cl. (iii) of subpar. (A).
 
-Par. (8)(B). Pub. L. 104–208, §2211(b), amended heading and text of subpar. (B) generally. Prior to amendment,text read as follows: “The Board may, by regulation, make exceptions to subparagraph (A), except as that subparagraph makes applicable paragraph (2), for an executive officer or director of a subsidiary of a company that controls the member bank, if that executive officer or director does not have authority to participate, and does not participate, in major policymaking functions of the member bank.”
+Par. (8)(B). Pub. L. 104–208, §2211(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The Board may, by regulation, make exceptions to subparagraph (A), except as that subparagraph makes applicable paragraph (2), for an executive officer or director of a subsidiary of a company that controls the member bank, if that executive officer or director does not have authority to participate, and does not participate, in major policymaking functions of the member bank.”
 
 1994—Par. (8). Pub. L. 103–325 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 

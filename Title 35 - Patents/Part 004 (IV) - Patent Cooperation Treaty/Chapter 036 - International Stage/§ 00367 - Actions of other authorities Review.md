@@ -1,14 +1,20 @@
 ### §367. Actions of other authorities: Review
 
-(a) Where a Receiving Office other than the Patent and Trademark Office has refused to accord an international filing date to an international application designating the United States or where it has held such application to be withdrawn either generally or as to the United States, the applicant may request review of the matter by the Commissioner, on compliance with the requirements of and within the time limits specified by the treaty and the Regulations. Such review may result in a determination that such application be considered as pending in the national stage.
+(a) Where a Receiving Office other than the Patent and Trademark Office has refused to accord an international filing date to an international application designating the United States or where it has held such application to be withdrawn either generally or as to the United States, the applicant may request review of the matter by the Director, on compliance with the requirements of and within the time limits specified by the treaty and the Regulations. Such review may result in a determination that such application be considered as pending in the national stage.
 
 (b) The review under subsection (a) of this section, subject to the same requirements and conditions, may also be requested in those instances where an international application designating the United States is considered withdrawn due to a finding by the International Bureau under article 12(3) of the treaty.
 
-(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 687; amended Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392.)
+(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 687; amended Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
 
 #### Amendments
 
+1999—Subsec. (a). Pub. L. 106–113 substituted “Director” for “Commissioner”.
+
 1984—Subsec. (a). Pub. L. 98–622 substituted “Patent and Trademark Office” for “Patent Office”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 #### Effective Date of 1984 Amendment
 

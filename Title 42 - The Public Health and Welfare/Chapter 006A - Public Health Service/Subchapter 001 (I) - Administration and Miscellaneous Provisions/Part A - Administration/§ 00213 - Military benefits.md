@@ -32,7 +32,7 @@ Active service of commissioned officers of the Service shall be deemed to be act
 
 Active service of commissioned officers of the Service shall be deemed to be active military service in the Armed Forces of the United States for purposes of all laws related to discrimination on the basis of race, color, sex, ethnicity, age, religion, and disability.
 
-(July 1, 1944, ch. 373, title II, §212, 58 Stat. 689; July 15, 1954, ch. 507, §14(a), 68 Stat. 481; Aug. 1,1956, ch. 837, title V, §501(b)(1), 70 Stat. 881; Pub. L. 94–278, title XI, §1101, Apr. 22, 1976, 90 Stat. 415; Pub. L. 102–54, §13(q)(1)(C), June 13, 1991, 105 Stat. 278; Pub. L. 105–392, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3587.)
+(July 1, 1944, ch. 373, title II, §212, 58 Stat. 689; July 15, 1954, ch. 507, §14(a), 68 Stat. 481; Aug. 1, 1956, ch. 837, title V, §501(b)(1), 70 Stat. 881; Pub. L. 94–278, title XI, §1101, Apr. 22, 1976, 90 Stat. 415; Pub. L. 102–54, §13(q)(1)(C), June 13, 1991, 105 Stat. 278; Pub. L. 105–392, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3587.)
 
 #### References in Text
 
@@ -64,7 +64,7 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 Section 501(b)(3) of act Aug. 1, 1956, provided that: “In the case of any individual—
 
-&emsp;“(A) who performed active service (i) as a commissioned officer of the Public Health Service at any time during the period beginning July 4, 1952, and ending December 31, 1956, or (ii) as a commissioned officer of the Coast and Geodetic Survey at any time during the period beginning July 29, 1945, and ending December 31, 1956; and
+&emsp;“(A) who performed active service (i) as a commissioned officer of the Public Health Service at anytime during the period beginning July 4, 1952, and ending December 31, 1956, or (ii) as a commissioned officer of the Coast and Geodetic Survey at any time during the period beginning July 29, 1945, and ending December 31, 1956; and
 
 &emsp;“(B)(i) who became entitled to old-age insurance benefits under section 202(a) of the Social Security Act \[section 402(a) of this title\] prior to January 1, 1957, or
 

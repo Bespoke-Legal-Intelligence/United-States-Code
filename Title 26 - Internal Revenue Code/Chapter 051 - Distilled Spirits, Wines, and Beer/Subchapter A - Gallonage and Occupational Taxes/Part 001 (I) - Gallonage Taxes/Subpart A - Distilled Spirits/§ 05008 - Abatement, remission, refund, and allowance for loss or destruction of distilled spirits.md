@@ -78,7 +78,7 @@ All provisions of law, including penalties, applicable in respect of the interna
 
 A prior section 5008, act Aug. 16, 1954, ch. 736, 68A Stat. 602, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5205(a), (g) and 5604(a)(1) of this title.
 
-Provisions similar to those comprising subsecs. (a)(1) to (4) and (f)(1), (2) of this section were contained in prior sections 5011(a)(1) to (4), 5023, 5247(e) and 5522(b), act Aug. 16, 1954, ch. 736, 68A Stat. 604, 606, 648, 679, prior to the general revision of this chapter by Pub. L. 85–859.
+Provisions similar to those comprising subsecs. (a)(1) to (4) and (f)(1), (2) of this section were contained in prior sections 5011(a)(1) to (4), 5023, 5247(e) and 5522(b),act Aug. 16, 1954, ch. 736, 68A Stat. 604, 606, 648, 679, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 

@@ -16,7 +16,7 @@ A return for a period of less than 12 months (referred to in this section as “
 
 #### (1) General rule
 
-&emsp;If a return is made under paragraph (1) of subsection (a), the taxable income for theshort period shall be placed on an annual basis by multiplying the modified taxable income for such short period by 12, dividing the result by the number of months in the short period. The tax shall be the same part of the tax computed on the annual basis as the number of months in the short period is of 12 months.
+&emsp;If a return is made under paragraph (1) of subsection (a), the taxable income for the short period shall be placed on an annual basis by multiplying the modified taxable income for such short period by 12, dividing the result by the number of months in the short period. The tax shall be the same part of the tax computed on the annual basis as the number of months in the short period is of 12 months.
 
 #### (2) Exception
 
@@ -36,7 +36,7 @@ A return for a period of less than 12 months (referred to in this section as “
 
 &emsp;&emsp;&emsp;(i) the period of 12 months beginning on the first day of the short period, or
 
-&emsp;&emsp;&emsp;(ii) the period of 12 months ending at the close of the last day of the short period, if at the end of the 12 months referred to in clause (i) the taxpayer is not in existence or (if a corporation) has theretofore disposed of substantially all of its assets.
+&emsp;&emsp;&emsp;(ii) the period of 12 months ending at the close of the last day of the short period, ifat the end of the 12 months referred to in clause (i) the taxpayer is not in existence or (if a corporation) has theretofore disposed of substantially all of its assets.
 
 #### (C) Application for benefits
 
@@ -106,7 +106,7 @@ Subsec. (b)(3). Pub. L. 95–600, §703(<i>o</i>)(3), added par. (3).
 
 Subsec. (d). Pub. L. 95–600, §421(e)(2), substituted “Adjustment in computing minimum tax for tax preferences” for “Adjustment in exclusion for computing minimum tax for tax preferences” in heading, redesignated existing provisions as par. (2) and as so redesignated applied par. (2) to corporations, and added par. (1).
 
-1977—Subsec. (b)(1). Pub. L. 95–30 substituted “multiplying the gross income for such short period (minus the deductions allowed by this chapter for the short period, but only the adjusted amount of the deductions for personal exemptions) by 12, dividing the result by the number of months in the short period, and adding the zero bracket amount” for “multiplying such income by 12, and dividing the result by the number of months in the short period”.
+1977—Subsec. (b)(1). Pub. L. 95–30 substituted “multiplying the gross income for such short period (minus the deductions allowed by this chapter for the short period, but only the adjusted amount of the deductions for personal exemptions) by 12, dividing the result bythe number of months in the short period, and adding the zero bracket amount” for “multiplying such income by 12, and dividing the result by the number of months in the short period”.
 
 1976—Subsec. (a)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Exclusiveness of remedy
 
-The remedy against the United States provided by sections 1346(b) and 2672 of title 28, orby alternative benefits provided by the United States where the availability of such benefits precludes a remedy under section 1346(b) of title 28, for damage for personal injury, including death, resulting from the performance of medical, surgical, dental, or related functions, including the conduct of clinical studies or investigation, by any commissioned officer or employee of the Public Health Service while acting within the scope of his office or employment, shall be exclusive of any other civil action or proceeding by reason of the same subject-matter against the officer or employee (or his estate) whose act or omission gave rise to the claim.
+The remedy against the United States provided by sections 1346(b) and 2672 of title 28, or by alternative benefits provided by the United States where the availability of such benefits precludes a remedy under section 1346(b) of title 28, for damage for personal injury, including death, resulting from the performance of medical, surgical, dental, or related functions, including the conduct of clinical studies or investigation, by any commissioned officer or employee of the Public Health Service while acting within the scope of his office or employment, shall be exclusive of any other civil action or proceeding by reason of the same subject-matter against the officer or employee (or his estate) whose act or omission gave rise to the claim.
 
 #### (b) Attorney General to defend action or proceeding; delivery of process to designated official; furnishing of copies of pleading and process to United States attorney, Attorney General, and Secretary
 
@@ -28,7 +28,7 @@ The Secretary or his designee may, to the extent that he deems appropriate, hold
 
 (1)(A) For purposes of this section and subject to the approval by the Secretary of an application under subparagraph (D), an entity described in paragraph (4), and any officer, governing board member, or employee of such an entity, and any contractor of such an entity who is a physician or other licensed or certified health care practitioner (subject to paragraph (5)), shall be deemed to be an employee of the Public Health Service for a calendar year that begins during a fiscal year for which a transfer was made under subsection (k)(3) of this section (subject to paragraph (3)). The remedy against the United States for an entity described in paragraph (4) and any officer, governing board member, employee, or contractor (subject to paragraph (5)) of such an entity who is deemed to be an employee of the Public Health Service pursuant to this paragraph shall be exclusive of any other civil action or proceeding to the same extent as the remedy against the United States is exclusive pursuant to subsection (a) of this section.
 
-(B) The deeming of any entity or officer, governing board member, employee, or contractor of the entity to be an employee of the PublicHealth Service for purposes of this section shall apply with respect to services provided—
+(B) The deeming of any entity or officer, governing board member, employee, or contractor of the entity to be an employee of the Public Health Service for purposes of this section shall apply with respect to services provided—
 
 &emsp;(i) to all patients of the entity, and
 
@@ -42,7 +42,7 @@ The Secretary or his designee may, to the extent that he deems appropriate, hold
 
 &emsp;(iii) are otherwise required under an employment contract (or similar arrangement) between the entity and an officer, governing board member, employee, or contractor of the entity.
 
-(D) The Secretary may not under subparagraph (A) deem an entity or an officer, governing board member, employee, or contractor of the entity to be an employee of the Public Health Service for purposes of this section, and may not apply such deeming to services described in subparagraph (B)(ii), unless the entity has submitted an application for such deeming to the Secretary in such form and such manner as the Secretary shall prescribe. The application shall contain detailed information, along with supporting documentation, to verify that the entity, and the officer, governing board member, employee, or contractor of the entity, as the case may be, meets the requirements of subparagraphs (B) and (C) of this paragraph and that the entity meets the requirements of paragraphs (1) through (4) of subsection (h) of this section.
+(D) The Secretary may not under subparagraph (A) deem an entity or an officer, governing board member, employee, or contractor of the entity to be an employee of the Public Health Service for purposes of this section, and may not apply such deeming to services described in subparagraph (B)(ii), unless the entity has submitted an application for such deeming to the Secretary in such form and such manner as the Secretary shall prescribe. The application shall contain detailed information, along with supporting documentation, to verify that the entity, and the officer, governing board member, employee, or contractor of the entity, as thecase may be, meets the requirements of subparagraphs (B) and (C) of this paragraph and that the entity meets the requirements of paragraphs (1) through (4) of subsection (h) of this section.
 
 (E) The Secretary shall make a determination of whether an entity or an officer, governing board member, employee, or contractor of the entity is deemed to be an employee of the Public Health Service for purposes of this section within 30 days after the receipt of an application under subparagraph (D). The determination of the Secretary that an entity or an officer, governing board member, employee, or contractor of the entity is deemed to be an employee of the Public Health Service for purposes of this section shall apply for the period specified by the Secretary under subparagraph (A).
 
@@ -122,7 +122,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 (2) Subject to appropriations, for each fiscal year, the Secretary shall establish a fund of an amount equal to the amount estimated under paragraph (1) that is attributable to entities receiving funds under each of the grant programs described in paragraph (4) of subsection (g) of this section, but not to exceed a total of $10,000,000 for each such fiscal year. Appropriations for purposes of this paragraph shall be made separate from appropriations made for purposes of sections 254b, 254c, 256, and 256a of this title.<sup>1</sup>
 
-(3) In order for payments to be made for judgments against the United States (together withrelated fees and expenses of witnesses) pursuant to this section arising from the acts or omissions of entities described in subsection (g)(4) of this section and of officers, governing board member,<sup>3</sup> employees, or contractors (subject to subsection (g)(5) of this section) of such entities, the total amount contained within the fund established by the Secretary under paragraph (2) for a fiscal year shall be transferred not later than the December 31 that occurs during the fiscal year to the appropriate accounts in the Treasury.
+(3) In order for payments to be made for judgments against the United States (together with related fees and expenses of witnesses) pursuant to this section arising from the acts or omissions of entities described in subsection (g)(4) of this section and of officers, governing board member,<sup>3</sup> employees, or contractors (subject to subsection (g)(5) of this section) of such entities, the total amount contained within the fund established by the Secretary under paragraph (2) for a fiscal year shall be transferred not later than the December 31 that occurs during the fiscal year to the appropriate accounts in the Treasury.
 
 #### (<i>l</i>) Timely response to filing of action or proceeding
 
@@ -174,7 +174,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;&emsp;(ii) Claims that have been paid and that are estimated to be paid, and legal expenses to handle such claims that have been paid and that are estimated to be paid, by private medical malpractice liability insurance.
 
-&emsp;(D) An analysis of whether the cost of premiums for private medical malpractice liability insurance coverage is consistent with the liability claims experience of entities that have been deemed as employees for purposes of this section.
+&emsp;(D) An analysis of whether the cost of premiums for private medical malpractice liability insurance coverage is consistent with the liability claims experience of entities thathave been deemed as employees for purposes of this section.
 
 (3) In preparing the report under paragraph (1), the Comptroller General of the United States shall consult with public and private entities with expertise on the matters with which the report is concerned.
 
@@ -212,7 +212,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 (4) For purposes of this subsection, the term “qualifying health service” means any medical assistance required or authorized to be provided in the program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], without regard to whether the medical assistance is included in the plan submitted under such program by the State in which the health care practitioner involved provides the medical assistance. References in the preceding sentence to such program shall as applicable be considered to be references to any successor to such program.
 
-(5) Subsection (g) of this section (other than paragraphs (3) through (5)) and subsections (h), (i), and (<i>l</i>) of this section apply to a health care practitioner for purposes of this subsection to the same extent and in the same manner as suchsubsections apply to an officer, governing board member, employee, or contractor of an entity described in subsection (g)(4) of this section, subject to paragraph (6) and subject to the following:
+(5) Subsection (g) of this section (other than paragraphs (3) through (5)) and subsections (h), (i), and (<i>l</i>) of this section apply to a health care practitioner for purposes of this subsection to the same extent and in the same manner as such subsections apply to an officer, governing board member, employee, or contractor of an entity described in subsection (g)(4) of this section, subject to paragraph (6) and subject to the following:
 
 &emsp;(A) The first sentence of paragraph (1) applies in lieu of the first sentence of subsection (g)(1)(A) of this section.
 
@@ -224,7 +224,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;&emsp;(ii) the Secretary, pursuant to subsection (g)(1)(E) of this section, determines that the health care practitioner is deemed to be an employee of the Public Health Service.
 
-&emsp;(D) In the case of a health care practitioner who is determined by the Secretary pursuant to subsection (g)(1)(E) of this section to be a free clinic health professional, this subsection applies to the health care practitioner (with respect to the free clinic sponsoring the health care practitioner pursuant to subparagraph (C)) for any cause of action arising from an act or omission of the health care practitioner occurring on or after the date on which the Secretary makes such determination.
+&emsp;(D) In the case of a health care practitioner who is determined by the Secretary pursuant to subsection (g)(1)(E) of this section to be a free clinic health professional, this subsection applies to the health care practitioner (with respect to the free clinic sponsoring the health care practitioner pursuant to subparagraph\(C)) for any cause of action arising from an act or omission of the health care practitioner occurring on or after the date on which the Secretary makes such determination.
 
 &emsp;(E) Subsection (g)(1)(F) of this section applies to a health care practitioner for purposes of this subsection only to the extent that, in providing health services to an individual, each of the conditions specified in paragraph (2) is met.
 
@@ -274,7 +274,7 @@ Subsec. (<i>o</i>). Pub. L. 104–191 added subsec. (<i>o</i>).
 
 Subsec. (g)(3). Pub. L. 104–73, §2(a), struck out at end “This subsection shall not apply with respect to a cause of action arising from an act or omission which occurs on or after January 1, 1996.”
 
-Subsec. (g)(5)(B). Pub. L. 104–73, §8, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of an individual who normally performs on average less than 321/2 hours of services per week for the entity for the period of the contract and is a licensed or certified provider of obstetrical services—
+Subsec. (g)(5)(B). Pub. L. 104–73, §8, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of an individual who normally performs on average less than 321/2 hours of services perweek for the entity for the period of the contract and is a licensed or certified provider of obstetrical services—
 
 &emsp;“(i) the individual's medical malpractice liability insurance coverage does not extend to services performed by the individual for the entity under the contract, or
 

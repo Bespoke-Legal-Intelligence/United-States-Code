@@ -14,7 +14,7 @@
 
 (d)(1) The Office shall employ a sufficient number of attorneys and other personnel as are necessary to carry out the functions of the Office. Attorneys shall be compensated at a level commensurate with attorneys employed by the Office of the General Counsel.
 
-(2) The Secretary shall ensure that the Director is furnished sufficient resources in additionto personnel under paragraph (1) to enable the Director to carry out the functions of the Office in a timely manner.
+(2) The Secretary shall ensure that the Director is furnished sufficient resources in addition to personnel under paragraph (1) to enable the Director to carry out the functions of the Office in a timely manner.
 
 (3) The Secretary shall ensure that any performance appraisal of the Director of the Office of Employment Discrimination Complaint Adjudication or of any employee of the Office does not take into consideration the record of the Director or employee in deciding cases for or against the Department.
 

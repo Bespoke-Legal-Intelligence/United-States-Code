@@ -16,5 +16,5 @@ Provisions similar to those in this section were contained in act June 25, 1938,
 
 For transfer of functions of United States Housing Authority to Secretary of Housing and Urban Development, see note set out under section 1404a of this title.
 
-Executive Order No. 7732, Oct. 27, 1937, 2 FR 2324, 44 CFR 201.11, effective Nov. 1, 1937, transferred to the United States Housing Authority all right, interest, and title held by the Federal Emergency Administration of Public Works in any housing or slum-clearanceprojects constructed or in the process of construction on Sept. 1, 1937.
+Executive Order No. 7732, Oct. 27, 1937, 2 FR 2324, 44 CFR 201.11, effective Nov. 1, 1937, transferred to the United States Housing Authority all right, interest, and title held by the Federal Emergency Administration of Public Works in any housing or slum-clearance projects constructed or in the process of construction on Sept. 1, 1937.
 

@@ -22,7 +22,7 @@ The functions of the Foundation shall be the planning, development, and implemen
 
 &emsp;&emsp;(i) during its first two years shall consist of nine voting members; and
 
-&emsp;&emsp;(ii) thereafter shall consist of those nine members plus up to six additional votingmembers as determined in accordance with the bylaws of the Foundation.
+&emsp;&emsp;(ii) thereafter shall consist of those nine members plus up to six additional voting members as determined in accordance with the bylaws of the Foundation.
 
 &emsp;(B)(i) The Secretary of Commerce shall, within six months after September 30, 1992, appoint the initial nine voting members of the Board and thereafter shall appoint the successors of each of three such members, as provided by such bylaws.
 
@@ -80,7 +80,7 @@ The Foundation shall have the power to enter into contracts, to execute instrume
 
 #### (1) In general
 
-&emsp;In carrying out the provisions of this section, the Board may adopt bylaws, rules, and regulations necessary for the administration of its functions and may hire officers and employees and contract for any other necessary services. Such officers and employees shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service and may be paid without regard to the provisions of chapters 51 and 53 of such title relating to classification and General Schedule pay rates.
+&emsp;In carrying out the provisions of this section, the Board may adopt bylaws, rules, and regulations necessary for the administration of its functions and may hire officers and employees and contract for any other necessary services. Such officers and employees shall be appointed without regard to the provisions oftitle 5 governing appointments in the competitive service and may be paid without regard to the provisions of chapters 51 and 53 of such title relating to classification and General Schedule pay rates.
 
 #### (2) Services
 

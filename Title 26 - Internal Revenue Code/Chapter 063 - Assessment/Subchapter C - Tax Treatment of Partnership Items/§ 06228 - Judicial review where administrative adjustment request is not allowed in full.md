@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If any part of an administrative adjustment request filed by the tax matters partner under subsection (b) <sup>1</sup> of section 6227 is not allowed by the Secretary, the tax matters partner may file a petition for an adjustment with respect to the partnership items to which such part of the request relates with—
+&emsp;If any part of an administrative adjustment request filed by the tax matters partner under subsection (b) <sup>1</sup> of section 6227 is not allowedby the Secretary, the tax matters partner may file a petition for an adjustment with respect to the partnership items to which such part of the request relates with—
 
 &emsp;&emsp;(A) the Tax Court,
 
@@ -80,7 +80,7 @@
 
 #### (1) Notice providing that items become nonpartnership items
 
-&emsp;If the Secretary mails to a partner, under subparagraph (A) of section 6231(b)(1) (relating to items ceasing to be partnership items), a notice that all partnership items of the partner for the partnership taxable year to which a timely request for administrative adjustment under subsection (c) <sup>1</sup> of section 6227 relates shall be treated as nonpartnership items—
+&emsp;If the Secretary mails to a partner, under subparagraph (A) of section 6231(b)(1) (relating to items ceasing to be partnership items), a notice that all partnership items of the partner for the partnership taxable year to whicha timely request for administrative adjustment under subsection (c) <sup>1</sup> of section 6227 relates shall be treated as nonpartnership items—
 
 &emsp;&emsp;(A) such request shall be treated as a claim for credit or refund of an overpayment attributable to nonpartnership items, and
 

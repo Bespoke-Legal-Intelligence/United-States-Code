@@ -44,3 +44,7 @@ The date of enactment of this title, referred to in text, means June 25, 1948.
 
 Fraudulent use of certain insignia, see section 701 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 15 section 1125.
+

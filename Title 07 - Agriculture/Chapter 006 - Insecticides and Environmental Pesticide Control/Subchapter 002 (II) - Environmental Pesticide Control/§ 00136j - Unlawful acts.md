@@ -102,7 +102,7 @@ Subsec. (b)(3). Pub. L. 102–237, §1006(b)(3)(O), substituted “the official 
 
 Subsec. (a)(1)(A). Pub. L. 100–532, §603(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “any pesticide which is not registered under section 136a of this title, except as provided by section 136d(a)(1) of this title;”.
 
-Subsec. (a)(2)(B). Pub. L. 100–532, §603(2)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “to refuse to keep any records required pursuant to section 136f of this title, or to refuse to allow inspection of any records or establishment pursuant to section 136f or 136g of this title, or to refuse to allow an officer or employee of the Environmental Protection Agency to take a sample of any pesticide pursuant to section 136g of this title;”.
+Subsec. (a)(2)(B). Pub. L. 100–532, §603(2)(A), added subpar. (B) and struck out former subpar. (B) whichread as follows: “to refuse to keep any records required pursuant to section 136f of this title, or to refuse to allow inspection of any records or establishment pursuant to section 136f or 136g of this title, or to refuse to allow an officer or employee of the Environmental Protection Agency to take a sample of any pesticide pursuant to section 136g of this title;”.
 
 Subsec. (a)(2)(F). Pub. L. 100–532, §§601(b)(2)(B), 801(g), substituted “to distribute or sell, or to make” for “to make” and “thereunder, It” for “thereunder: <i>Provided</i>, That it”.
 

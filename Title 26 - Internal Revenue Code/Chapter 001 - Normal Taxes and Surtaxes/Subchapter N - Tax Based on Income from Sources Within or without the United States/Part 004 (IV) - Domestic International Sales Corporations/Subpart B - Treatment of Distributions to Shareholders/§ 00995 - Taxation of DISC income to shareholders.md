@@ -12,9 +12,9 @@ A shareholder of a DISC or former DISC shall be subject to taxation on the earni
 
 &emsp;&emsp;(A) the gross interest derived during the taxable year from producer's loans,
 
-&emsp;&emsp;(B) the gain recognized by the DISC during the taxable year on the sale or exchange of property, other than property which in the hands of the DISC is a qualified export asset, previously transferred to it in a transaction in which gain was not recognized in whole or in part, but only to the extent that the transferor's gain on the previous transfer was not recognized,
+&emsp;&emsp;(B) the gain recognized by the DISC during the taxable year on the sale or exchange ofproperty, other than property which in the hands of the DISC is a qualified export asset, previously transferred to it in a transaction in which gain was not recognized in whole or in part, but only to the extent that the transferor's gain on the previous transfer was not recognized,
 
-&emsp;&emsp;(C) the gain (other than the gain described in subparagraph (B)) recognized by the DISC during the taxable year on the sale or exchange of property (other than property which in the hands of the DISC is stock in trade or other property described in section 1221(1)) previously transferred to it in a transaction in which gain was not recognized in whole or in part, but only to the extent that the transferor's gain on the previous transfer was not recognized and would have been treated as ordinary income if the property has been sold or exchanged rather than transferred to the DISC,
+&emsp;&emsp;(C) the gain (other than the gain described in subparagraph (B)) recognized by the DISC during the taxable year on the sale or exchange of property (other than property which in the hands of the DISC is stock in trade or other property described in section 1221(a)(1)) previously transferred to it in a transaction in which gain was not recognized in whole or in part, but only to the extent that the transferor's gain on the previous transfer was not recognized and would have been treated as ordinary income if the property has been sold or exchanged rather than transferred to the DISC,
 
 &emsp;&emsp;(D) 50 percent of the taxable income of the DISC for the taxable year attributable to military property,
 
@@ -244,13 +244,15 @@ If any organization described in subsection (a)(2) or (b)(2) of section 511 (or 
 
 > shall be treated as derived from the conduct of an unrelated trade or business (and the modifications of section 512(b) shall not apply). The rules of the preceding sentence shall apply also for purposes of determining any such shareholder's DISC-related deferred tax liability under subsection (f).
 
-(Added Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 544; amended Pub. L. 94–455, title X, §§1063, 1065(a)(2), title XI, §1101(a), (d)(1), title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1650, 1654, 1655, 1658, 1793, 1834; Pub. L. 95–600, title VII, §§701(u)(12)(B), 703(i)(1), (2), Nov. 6, 1978, 92 Stat. 2918, 2940; Pub. L. 98–369, div. A, title I, §68(d), title VIII, §802(a), (b), July 18, 1984, 98 Stat. 588, 997, 999; Pub. L. 99–514, title XVIII, §1876(b)(2), (g), (p)(1), Oct. 22, 1986, 100 Stat. 2898, 2900, 2902; Pub. L. 100–647, title I, §§1006(e)(15), 1012(bb)(6)(A), Nov. 10, 1988, 102 Stat. 3402, 3535; Pub. L. 101–239, title VII, §7811(i)(12), Dec. 19, 1989, 103 Stat. 2411.)
+(Added Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 544; amended Pub. L. 94–455, title X, §§1063, 1065(a)(2), title XI, §1101(a), (d)(1), title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1650, 1654, 1655, 1658, 1793, 1834; Pub. L. 95–600, title VII, §§701(u)(12)(B), 703(i)(1), (2), Nov. 6, 1978, 92 Stat. 2918, 2940; Pub. L. 98–369, div. A, title I, §68(d), title VIII, §802(a), (b), July 18, 1984, 98 Stat. 588, 997, 999; Pub. L. 99–514, title XVIII, §1876(b)(2), (g), (p)(1), Oct. 22, 1986, 100 Stat. 2898, 2900, 2902; Pub. L. 100–647, title I, §§1006(e)(15), 1012(bb)(6)(A), Nov. 10, 1988, 102 Stat. 3402, 3535; Pub. L. 101–239, title VII, §7811(i)(12), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 106–170, title V, §532(c)(2)(R), Dec. 17, 1999, 113 Stat. 1931.)
 
 #### References in Text
 
 The Military Security Act of 1954, referred to in subsec. (b)(3)(B), probably means the Mutual Security Act of 1954, which is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended, and which is classified generally to chapter 24 (§1750 et seq.) of Title 22, Foreign Relations and Intercourse. Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat. 745, provided: “Section 414 of the Mutual Security Act of 1954 \[22 U.S.C. 1934\] is repealed. Any reference to such section shall be deemed to be a reference to section 38 of the Arms Export Control Act \[22 U.S.C. 2778\] and any reference to licenses issued under section 38 of the Arms Export Control Act shall be deemed to include a reference to licenses issued under section 414 of the Mutual Security Act of 1954.”
 
 #### Amendments
+
+1999—Subsec. (b)(1)(C). Pub. L. 106–170 substituted “1221(a)(1)” for “1221(1)”.
 
 1989—Subsec. (g). Pub. L. 101–239 substituted “section 511 (or any other person otherwise subject to tax under section 511)” for “section 511” in introductory provisions.
 
@@ -304,15 +306,19 @@ Subsec. (d)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegat
 
 Subsecs. (e) to (g). Pub. L. 94–455, §1101(a)(4), added subsecs. (e) to (g).
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
+
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988,Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
 Section 1012(bb)(6)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
 
-Amendment by section 1006(e)(15) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1006(e)(15) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L.99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

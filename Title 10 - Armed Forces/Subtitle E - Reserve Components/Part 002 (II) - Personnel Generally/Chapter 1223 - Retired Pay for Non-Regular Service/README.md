@@ -4,6 +4,7 @@
 | :--- | ---: |
 | [12731\.](%C2%A7%2012731%20-%20Age%20and%20service%20requirements.md) | Age and service requirements. |
 | [12731a.](%C2%A7%2012731a%20-%20Temporary%20special%20retirement%20qualification%20authority.md) | Temporary special retirement qualification authority. |
+| [12731b.](%C2%A7%2012731b%20-%20Special%20rule%20for%20members%20with%20physical%20disabilities%20not%20incurred%20in%20line%20of%20duty.md) | Special rule for members with physical disabilities not incurred in line of duty. |
 | [12732\.](%C2%A7%2012732%20-%20Entitlement%20to%20retired%20pay%20computation%20of%20years%20of%20service.md) | Entitlement to retired pay: computation of years of service. |
 | [12733\.](%C2%A7%2012733%20-%20Computation%20of%20retired%20pay%20computation%20of%20years%20of%20service.md) | Computation of retired pay: computation of years of service. |
 | [12734\.](%C2%A7%2012734%20-%20Time%20not%20creditable%20toward%20years%20of%20service.md) | Time not creditable toward years of service. |
@@ -18,9 +19,11 @@
 
 #### Amendments
 
+1999—Pub. L. 106–65, div. A, title VI, §653(b)(2), Oct. 5, 1999, 113 Stat. 667, added item 12731b.
+
 1996—Pub. L. 104–106, div. A, title VI, §632(a)(2), Feb. 10, 1996, 110 Stat. 365, added item 12740.
 
-1994—Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, renumbered chapter 67 of this title as this chapter and amended analysis generally, renumbering items 1331 to 1338 as items 12731 to 12738, respectively, substituting “Entitlement to retired pay: computation of years of service” for “Computation of years of service in determining entitlement to retired pay” in item 12732 and “Computation of retired pay: computation of years of service” for “Computation of years of service in computing retired pay” in item 12733, and adding item 12739.
+1994—Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, renumbered chapter 67 of this title as this chapter and amended analysis generally, renumbering items 1331 to 1338 as items 12731 to 12738, respectively, substituting “Entitlement to retired pay: computation of years of service” for “Computation of years of service in determining entitlement to retired pay” in item 12732 and “Computation of retired pay:computation of years of service” for “Computation of years of service in computing retired pay” in item 12733, and adding item 12739.
 
 1992—Pub. L. 102–484, div. D, title XLIV, §4417(b), Oct. 23, 1992, 106 Stat. 2717, added item 1331a.
 
@@ -34,7 +37,7 @@ Retention after qualifications for retired pay, see section 12308 of this title.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1053, 1064, 1065, 1076, 1076c, 1331, 1370, 1407, 1409, 1447, 1452, 1463, 3961, 8961, 10153, 12307, 12308, 12319, 14901, 14905 of this title; title 5 sections 8332, 8411; title 38 sections 1965, 2301, 2306; title 50 section 2082.
+This chapter is referred to in sections 1053, 1064, 1065, 1076, 1076c, 1331, 1370, 1407, 1409, 1447, 1452, 1463, 3961, 8961, 10153, 12307, 12308, 12319, 12605, 14901, 14905 of this title; title 5 sections 8332, 8411; title 38 sections 1965, 2301, 2306; title 50 section 2082.
 
 
 ---
@@ -43,6 +46,7 @@ This chapter is referred to in sections 1053, 1064, 1065, 1076, 1076c, 1331, 137
 
 - [&sect; 12731 - Age and service requirements](%C2%A7%2012731%20-%20Age%20and%20service%20requirements.md)
 - [&sect; 12731a - Temporary special retirement qualification authority](%C2%A7%2012731a%20-%20Temporary%20special%20retirement%20qualification%20authority.md)
+- [&sect; 12731b - Special rule for members with physical disabilities not incurred in line of duty](%C2%A7%2012731b%20-%20Special%20rule%20for%20members%20with%20physical%20disabilities%20not%20incurred%20in%20line%20of%20duty.md)
 - [&sect; 12732 - Entitlement to retired pay computation of years of service](%C2%A7%2012732%20-%20Entitlement%20to%20retired%20pay%20computation%20of%20years%20of%20service.md)
 - [&sect; 12733 - Computation of retired pay computation of years of service](%C2%A7%2012733%20-%20Computation%20of%20retired%20pay%20computation%20of%20years%20of%20service.md)
 - [&sect; 12734 - Time not creditable toward years of service](%C2%A7%2012734%20-%20Time%20not%20creditable%20toward%20years%20of%20service.md)

@@ -18,7 +18,7 @@
 
 &emsp;(1) demands, seeks, receives, accepts, or agrees to receive or accept any compensation for any representational services, as agent or attorney or otherwise, rendered or to be rendered either personally or by another, at a time when such person is an officer or employee of the District of Columbia, in relation to any proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter in which the District of Columbia is a party or has a direct and substantial interest, before any department, agency, court, officer, or commission; or
 
-&emsp;(2) knowingly gives, promises, or offers any compensation for any such representational services rendered or to be rendered at a time when the person to whom the compensation is given, promised, or offered, is or was an officer or employee of the District of Columbia;
+&emsp;(2) knowingly gives, promises, or offers any compensation for any such representational services rendered or to be rendered at a timewhen the person to whom the compensation is given, promised, or offered, is or was an officer or employee of the District of Columbia;
 
 > shall be subject to the penalties set forth in section 216 of this title.
 
@@ -36,7 +36,7 @@
 
 > subject to approval by the Government official responsible for appointment to his position.
 
-(e) Nothing in this section prevents a special Government employee from acting as agent or attorney for another person in the performance of work under a grant by, or a contract with or for the benefit of, the United States if the headof the department or agency concerned with the grant or contract certifies in writing that the national interest so requires and publishes such certification in the Federal Register.
+(e) Nothing in this section prevents a special Government employee from acting as agent or attorney for another person in the performance of work under a grant by, or a contract with or for the benefit of, the United States if the head of the department or agency concerned with the grant or contract certifies in writing that the national interest so requires and publishes such certification in the Federal Register.
 
 (f) Nothing in this section prevents an individual from giving testimony under oath or from making statements required to be made under penalty of perjury.
 
@@ -106,7 +106,7 @@ Authority of President under subsec. (d) of this section to grant exemptions or 
 
 #### Exemptions
 
-Section 2 of Pub. L. 87–849 provided in part that: “All exemptions from the provisions of sections 281, 282, 283, 284, 434, or 1914 of title 18 of the United States Code heretofore created or authorized by statute which are in force on the effective date of this Act \[see Effective Date note under section 201 of this title\] shall, on and after that date, be deemed to be exemptions from sections 203, 204, 205, 207, 208, or 209, respectively, of title 18 of the United States Code except to the extent that they affect officers or employees of the executive branch of the United States Government, of any independent agency of the United States, or of the Districtof Columbia, as to whom they are no longer applicable.”
+Section 2 of Pub. L. 87–849 provided in part that: “All exemptions from the provisions of sections 281, 282, 283, 284, 434, or 1914 of title 18 of the United States Code heretofore created or authorized by statute which are in force on the effective date of this Act \[see Effective Date note under section 201 of this title\] shall, on and after that date, be deemed to be exemptions from sections 203, 204, 205, 207, 208, or 209, respectively, of title 18 of the United States Code except to the extent that they affect officers or employees of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, as to whom they are no longer applicable.”
 
 #### Private Sector Representatives on United States Delegations to International Telecommunications Meetings and Conferences
 
@@ -140,5 +140,5 @@ Political contributions, solicitation of, see section 602 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 202, 206, 216 of this title; title 5 sections 568, 3374; title 12 section 2245; title 15 section 4805; title 16 section 459b–7; title 22 sections 3507, 3508, 3613; title 28 sections 594, 656; title 30 section 663; title 38 section 5902; title 40 App. section 108; title 42 section 1314; title 50 section 405; title 50 App. section 463.
+This section is referred to in sections 14, 202, 206, 216 of this title; title 5 sections 568, 3374; title 12 section 2245; title 15 section 4805; title 16 section 459b–7; title 22 sections 3507, 3508, 3613; title 26 section 7802; title 28 section 594; title 30 section 663; title 38 section 5902; title 40 App. section 108; title 42 section 1314; title 50 section 405; title 50 App. section 463.
 

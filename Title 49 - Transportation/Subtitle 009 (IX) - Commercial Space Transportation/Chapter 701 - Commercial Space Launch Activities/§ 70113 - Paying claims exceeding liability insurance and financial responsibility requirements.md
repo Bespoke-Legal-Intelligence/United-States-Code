@@ -8,7 +8,7 @@ General Requirements.—(1) To the extent provided in advance in an appropriatio
 
 &emsp;(B) is not more than $1,500,000,000 (plus additional amounts necessary to reflect inflation occurring after January 1, 1989) above that insurance or financial responsibility amount.
 
-(2) The Secretary may not provide for paying a part of a claim for which death, bodily injury, or property damage or loss results from willful misconduct by the licensee or transferee. To the extent insurance required under section 70112(a)(1)(A) of this title is not available tocover a successful third party liability claim because of an insurance policy exclusion the Secretary decides is usual for the type of insurance involved, the Secretary may provide for paying the excluded claims without regard to the limitation contained in section 70112(a)(1).
+(2) The Secretary may not provide for paying a part of a claim for which death, bodily injury, or property damage or loss results from willful misconduct by the licensee or transferee. To the extent insurance required under section 70112(a)(1)(A) of this title is not available to cover a successful third party liability claim because of an insurance policy exclusion the Secretary decides is usual for the type of insurance involved, the Secretary may provide for paying the excluded claims without regard to the limitation contained in section 70112(a)(1).
 
 (b)
 
@@ -82,9 +82,9 @@ Congressional Resolutions.—(1) In this subsection, “resolution”—
 
 (f)
 
-Application.—This section applies to a license issued or transferred under this chapterfor which the Secretary receives a complete and valid application not later than December 31, 1999.
+Application.—This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than December 31, 2000.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1338; Pub. L. 104–287, §5(94), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(13), Oct. 28, 1998, 112 Stat. 2850.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1338; Pub. L. 104–287, §5(94), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(13), Oct. 28, 1998, 112 Stat. 2850; Pub. L. 106–74, title IV, §433, Oct. 20, 1999, 113 Stat. 1097.)
 
 Historical and Revision Notes
 
@@ -180,7 +180,13 @@ This amends 49:70113(e)(6)(D) to correct an error in the codification enacted by
 
 #### Amendments
 
+1999—Subsec. (f). Pub. L. 106–74 substituted “December 31, 2000” for “December 31, 1999”.
+
 1998—Subsecs. (a)(1), (d)(1), (2). Pub. L. 105–303 inserted “or reentry” after “one launch”.
 
 1996—Subsec. (e)(6)(D). Pub. L. 104–287 substituted “related to a resolution” for “related to resolution”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 42 section 2458c.
 

@@ -24,7 +24,7 @@
 
 &emsp;(9) “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaskan Native village or regional or village corporation (as defined in, or established under, the Alaskan Native Claims Settlement Act) that is recognized by the United States as eligible for the special programs and services provided by the United States to Indians because of their status as Indians;
 
-&emsp;(10) “internal controls” means a process, effected by an entity's management and other personnel, designed to provide reasonable assurance regarding the achievement of objectives in the following categories:
+&emsp;(10) “internal controls” means a process, effected by an entity's management and otherpersonnel, designed to provide reasonable assurance regarding the achievement of objectives in the following categories:
 
 &emsp;&emsp;(A) Effectiveness and efficiency of operations.<sup>1</sup>
 
@@ -54,7 +54,7 @@
 
 &emsp;(18) “single audit” means an audit, as described under section 7502(d), of a non-Federal entity that includes the entity's financial statements and Federal awards;
 
-&emsp;(19) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and theTrust Territory of the Pacific Islands, any instrumentality thereof, any multi-State, regional, or interstate entity which has governmental functions, and any Indian tribe; and
+&emsp;(19) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands, any instrumentality thereof, any multi-State, regional, or interstate entity which has governmental functions, and any Indian tribe; and
 
 &emsp;(20) “subrecipient” means a non-Federal entity that receives Federal awards through another non-Federal entity to carry out a Federal program, but does not include an individual who receives financial assistance through such awards.
 

@@ -50,7 +50,7 @@ Termination of Relief.—
 
 &emsp;(1)
 
-Termination of prospective relief.—(A) In any civil action with respect to prison conditions in which prospective relief is ordered,such relief shall be terminable upon the motion of any party or intervener—
+Termination of prospective relief.—(A) In any civil action with respect to prison conditions in which prospective relief is ordered, such relief shall be terminable upon the motion of any party or intervener—
 
 &emsp;&emsp;(i) 2 years after the date the court granted or approved the prospective relief;
 
@@ -140,7 +140,7 @@ Interlocutory appeal.—Any party shall have the right to an interlocutory appea
 
 &emsp;(4)
 
-Compensation.—The compensation to be allowed to a special master under this section shall be based on an hourly rate not greater than the hourly rate established under section3006A for payment of court-appointed counsel, plus costs reasonably incurred by the special master. Such compensation and costs shall be paid with funds appropriated to the Judiciary.
+Compensation.—The compensation to be allowed to a special master under this section shall be based on an hourly rate not greater than the hourly rate established under section 3006A for payment of court-appointed counsel, plus costs reasonably incurred by the special master. Such compensation and costs shall be paid with funds appropriated to the Judiciary.
 
 &emsp;(5)
 
@@ -216,7 +216,7 @@ Section 101\[(a)\] \[title VIII, §802(b)(1)\] of Pub. L. 104–134 provided tha
 
 #### Effective and Termination Dates
 
-Section 20409(b) of Pub. L. 103–322, which provided that this section applied to all court orders outstanding on Sept. 13, 1994, and section 20409(d) of Pub. L. 103–322, which provided for the repeal of this section 5years after Sept. 13, 1994, were repealed by Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §802(b)(2)\], Apr. 26, 1996, 110 Stat. 1321, 1321–70; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+Section 20409(b) of Pub. L. 103–322, which provided that this section applied to all court orders outstanding on Sept. 13, 1994, and section 20409(d) of Pub. L. 103–322, which provided for the repeal of this section 5 years after Sept. 13, 1994, were repealed by Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §802(b)(2)\], Apr. 26, 1996, 110 Stat. 1321, 1321–70; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
 #### Severability
 

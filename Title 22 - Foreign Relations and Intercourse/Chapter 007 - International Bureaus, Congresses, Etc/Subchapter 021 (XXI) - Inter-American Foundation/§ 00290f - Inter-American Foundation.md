@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is created as an agency of the United States of America a body corporate to be known as the Inter-American Foundation (hereinafter in this section referred to as the “Foundation”).
+There is created as an agency of the United States of America a body corporate to be knownas the Inter-American Foundation (hereinafter in this section referred to as the “Foundation”).
 
 #### (b) Congressional declaration of purpose
 
@@ -46,7 +46,7 @@ The Foundation, as a corporation—
 
 &emsp;(8) may, with the consent of any board, corporation, commission, independent establishment, or executive department of the Government, including any field service thereof, avail itself of the use of information, services, facilities, officers, and employees thereof in carrying out the provisions of this section;
 
-&emsp;(9) may accept money, funds, property, and services of every kind by gift, device,<sup>1</sup> bequest,grant, or otherwise, and make advances, grants, and loans to any individual, corporation, or other body of persons, whether within or without the United States of America, or to any government or governmental agency, domestic or foreign, when deemed advisable by the Foundation in furtherance of its purposes;
+&emsp;(9) may accept money, funds, property, and services of every kind by gift, device,<sup>1</sup> bequest, grant, or otherwise, and make advances, grants, and loans to any individual, corporation, or other body of persons, whether within or without the United States of America, or to any government or governmental agency, domestic or foreign, when deemed advisable by the Foundation in furtherance of its purposes;
 
 &emsp;(10) may sue and be sued, complain, and defend, in its corporate name in any court of competent jurisdiction; and
 
@@ -92,7 +92,7 @@ The Foundation shall be a nonprofit corporation and shall have no capital stock.
 
 #### (<i>o</i>) Personnel; service in foreign governments or agencies
 
-When approved by the Foundation, in furtherance of its purpose, the officers and employees of the Foundation may accept and hold officesor positions to which no compensation is attached with governments or governmental agencies of foreign countries.
+When approved by the Foundation, in furtherance of its purpose, the officers and employees of the Foundation may accept and hold offices or positions to which no compensation is attached with governments or governmental agencies of foreign countries.
 
 #### (p) Service of employees of other agencies in the Foundation; rights and privileges
 
@@ -108,7 +108,7 @@ The Foundation, including its franchise and income, shall be exempt from taxatio
 
 #### (s) Authorization of appropriations
 
-(1) Notwithstanding any other provision of law, not to exceed an aggregate amount of $50,000,000 of the funds made available for the fiscal years 1970 and 1971 to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be available to carry out the purposes of this section. Funds made available to carry out the purposes of this section under the preceding sentence are authorized to remain available until expended.
+(1) Notwithstanding any other provision of law, not to exceed an aggregate amount of$50,000,000 of the funds made available for the fiscal years 1970 and 1971 to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be available to carry out the purposes of this section. Funds made available to carry out the purposes of this section under the preceding sentence are authorized to remain available until expended.
 
 (2) There are authorized to be appropriated $28,800,000 for fiscal year 1992 and $31,000,000 for fiscal year 1993 to carry out this section. Amounts appropriated under this paragraph are authorized to remain available until expended.
 
@@ -129,6 +129,10 @@ Funds made available to the Foundation may be used for the expenses described in
 Funds made available to the Foundation may be used for printing and binding without regard to section 501 of title 44.
 
 (Pub. L. 91–175, pt. IV, §401, Dec. 30, 1969, 83 Stat. 821; Pub. L. 92–226, pt. IV, §406(2)–(5), Feb. 7, 1972, 86 Stat. 34; Pub. L. 95–105, title V, §508, Aug. 17, 1977, 91 Stat. 859; Pub. L. 97–241, title V, §501, Aug. 24, 1982, 96 Stat. 297; Pub. L. 98–164, title X, §1001, Nov. 22, 1983, 97 Stat. 1051; Pub. L. 99–83, title VII, §708, Aug. 8, 1985, 99 Stat. 243; Pub. L. 99–529, title II, §202(e), title IV, §403(a), Oct. 24, 1986, 100 Stat. 3012, 3019; Pub. L. 101–246, title VI, §601, Feb. 16, 1990, 104 Stat. 73; Pub. L. 102–138, title I, §173(a), (b)(1), (c), (d), Oct. 28, 1991, 105 Stat. 679, 680.)
+
+#### Repeal of Section
+
+<i>For repeal of section by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(c)(2), (j)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–118, 1501A–120, see Abolition of the Inter-American Foundation note set out below.</i>
 
 #### References in Text
 
@@ -176,7 +180,7 @@ Subsec. (<i>l</i>). Pub. L. 92–226, §406(5), designated existing provisions a
 
 #### Effective Date of 1986 Amendment
 
-Section 403(b) of Pub. L. 99–529 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect 120 days after the date of enactment of this Act \[Oct. 24, 1986\].”
+Section 403(b) of Pub. L. 99–529 provided that: “The amendments made by subsection (a) \[amending thissection\] shall take effect 120 days after the date of enactment of this Act \[Oct. 24, 1986\].”
 
 #### Effective Date of 1985 Amendment
 
@@ -185,6 +189,160 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 #### Short Title
 
 Pub. L. 91–175, pt. IV, Dec. 30, 1969, 83 Stat. 821, as amended by Pub. L. 92–226, pt. IV, §406(1), Feb. 7, 1972, 86 Stat. 34, designated Part IV provisions classified to this section as the “Inter-American Foundation Act”.
+
+#### Abolition of Inter-American Foundation
+
+Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586\], Nov. 29, 1999, 113 Stat. 1535, 1501A–117, provided that:
+
+“(a)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Director.—The term ‘Director’ means the Director of the Office of Management and Budget.
+
+&emsp;“(2)
+
+Foundation.—The term ‘Foundation’ means the Inter-American Foundation.
+
+&emsp;“(3)
+
+Function.—The term ‘function’ means any duty, obligation, power, authority, responsibility, right, privilege, activity, or program.
+
+“(b)
+
+Abolition of Inter-American Foundation.—During fiscal year 2000, the President is authorized to abolish the Inter-American Foundation. The provisions of this section shall only be effective upon the effective date of the abolition of the Inter-American Foundation.
+
+“(c)
+
+Termination of Functions.—
+
+&emsp;“(1) Except as provided in subsection (d)(2), there are terminated upon the abolition of the Foundation all functions vested in, or exercised by, the Foundation or any official thereof, under any statute, reorganization plan, Executive order, or other provisions of law, as of the day before the effective date of this section.
+
+&emsp;“(2)
+
+Repeal.—Section 401 of the Foreign Assistance Act of 1969 (22 U.S.C. 6290f) \[22 U.S.C. 290f\] is repealed upon the effective date specified in subsection (j).
+
+&emsp;“(3)
+
+Final disposition of funds.—Upon the date of transmittal to Congress of the certification described in subsection (d)(4), all unexpended balances of appropriations of the Foundation shall be deposited in the miscellaneous receipts account of the Treasury of the United States.
+
+“(d)
+
+Responsibilities of the Director of the Office of Management and Budget.—
+
+&emsp;“(1)
+
+In general.—The Director of the Office of Management and Budget shall be responsible for—
+
+&emsp;&emsp;“(A) the administration and wind-up of any outstanding obligation of the Federal Government under any contract or agreement entered into by the Foundation before the date of the enactment of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2000 \[Nov. 29, 1999\], except that the authority of this subparagraph does not include the renewal or extension of any such contract or agreement; and
+
+&emsp;&emsp;“(B) taking such other actions as may be necessary to wind-up any outstanding affairs of the Foundation.
+
+&emsp;“(2)
+
+Transfer of functions to the director.—There are transferred to the Director such functions of the Foundation under any statute, reorganization plan, Executive order, or other provision of law, as of the day before the date of the enactment of this section \[Nov. 29, 1999\], as may be necessary to carry out the responsibilities of the Director under paragraph (1).
+
+&emsp;“(3)
+
+Authorities of the director.—For purposes of performing the functions of the Director under paragraph (1) and subject to the availability of appropriations, the Director may—
+
+&emsp;&emsp;“(A) enter into contracts;
+
+&emsp;&emsp;“(B) employ experts and consultants in accordance with section 3109 of title 5, United States Code, at rates for individuals not to exceed the per diem rate equivalent to the rate for level IV of the Executive Schedule; and
+
+&emsp;&emsp;“(C) utilize, on a reimbursable basis, the services, facilities, and personnel of other Federal agencies.
+
+&emsp;“(4)
+
+Certification required.—Whenever the Director determines that the responsibilities described in paragraph (1) have been fully discharged, the Director shall so certify to the appropriate congressional committees.
+
+“(e)
+
+Report to Congress.—The Director of the Office of Management and Budget shall submit to the appropriate congressional committees a detailed report in writing regarding all matters relating to the abolition and termination of the Foundation. The report shall be submitted not later than 90 days after the termination of the Foundation.
+
+“(f)
+
+Transfer and Allocation of Appropriations.—Except as otherwise provided in this section, the assets, liabilities (including contingent liabilities arising from suits continued with a substitution or addition of parties under subsection (g)(3)), contracts, property, records, and unexpended balance of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available to, or to be made available in connection with the functions, terminated by subsection (c)(1) or transferred by subsection (d)(2) shall be transferred to the Director for purposes of carrying out the responsibilities described in subsection (d)(1).
+
+“(g)
+
+Savings Provisions.—
+
+&emsp;“(1)
+
+Continuing legal force and effect.—All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—
+
+&emsp;&emsp;“(A) that have been issued, made, granted, or allowed to become effective by the Foundation in the performance of functions that are terminated or transferred under this section; and
+
+&emsp;&emsp;“(B) that are in effect as of the date of the abolition of the Foundation, or were final before such date and are to become effective on or after such date,
+
+> &emsp;shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Director, or other authorized official, a court of competent jurisdiction, or by operation of law.
+
+&emsp;“(2)
+
+No effect on judicial or administrative proceedings.—Except as otherwise provided in this section—
+
+&emsp;&emsp;“(A) the provisions of this section shall not affect suits commenced prior to the date of the abolition of the Foundation; and
+
+&emsp;&emsp;“(B) in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and effect as if this section had not been enacted.
+
+&emsp;“(3)
+
+Nonabatement of proceedings.—No suit, action, or other proceeding commenced by or against any officer in the official capacity of such individual as an officer of the Foundation shall abate by reason of the enactment of this section. No cause of action by or against the Foundation, or by or against any officer thereof in the official capacity of such officer, shall abate by reason of the enactment of this section.
+
+&emsp;“(4)
+
+Continuation of proceeding with substitution of parties.—If, before the date of the abolition of the Foundation, the Foundation, or officer thereof in the official capacity of such officer, is a party to a suit, then effective on such date such suit shall be continued with the Director substituted or added as a party.
+
+&emsp;“(5)
+
+Reviewability of orders and actions under transferred functions.—Orders and actions of the Director in the exercise of functions terminated or transferred under this section shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been taken bythe Foundation immediately preceding their termination or transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by this section shall apply to the exercise of such function by the Director.
+
+“(h)
+
+Conforming Amendments.—
+
+&emsp;“(1)
+
+African development foundation.—Section 502 of the International Security and Development Cooperation Act of 1980 (22 U.S.C. 290h) is amended—
+
+&emsp;&emsp;“(A) by inserting ‘and’ at the end of paragraph (2);
+
+&emsp;&emsp;“(B) by striking the semicolon at the end of paragraph (3) and inserting a period; and
+
+&emsp;&emsp;“(C) by striking paragraphs (4) and (5).
+
+&emsp;“(2)
+
+Social progress trust fund agreement.—Section 36 of the Foreign Assistance Act of 1973 \[Pub. L. 93–189, 22 U.S.C. 1942 note\] is amended—
+
+&emsp;&emsp;“(A) in subsection (a)—
+
+&emsp;&emsp;&emsp;“(i) by striking ‘provide for’ and all that follows through ‘(2) utilization’ and inserting ‘provide for the utilization’; and
+
+&emsp;&emsp;&emsp;“(ii) by striking ‘member countries;’ and all that follows through ‘paragraph (2)’ and inserting ‘member countries.’;
+
+&emsp;&emsp;“(B) in subsection (b), by striking ‘transfer or’;
+
+&emsp;&emsp;“(C) by striking subsection (c);
+
+&emsp;&emsp;“(D) by redesignating subsection (d) as subsection (c); and
+
+&emsp;&emsp;“(E) in subsection (c) (as so redesignated), by striking ‘transfer or’.
+
+&emsp;“(3)
+
+Foreign assistance act of 1961.—Section 222A(d) of the Foreign Assistance Act of 1961 (22 U.S.C. 2182a(d)) is repealed.
+
+“(i)
+
+Definition.—In this section, the term ‘appropriate congressional committees’ means the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on International Relations of the House of Representatives.
+
+“(j)
+
+Effective Dates.—The repeal made by subsection (c)(2) and the amendments made by subsection (h) shall take effect upon the date of transmittal to Congress of the certification described in subsection (d)(4).”
 
 #### Transition Rule for Board Appointments
 

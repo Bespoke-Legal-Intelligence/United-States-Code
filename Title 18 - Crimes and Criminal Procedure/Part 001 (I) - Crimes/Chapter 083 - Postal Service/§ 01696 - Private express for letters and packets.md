@@ -30,5 +30,5 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 #### Study of Private Carriage of Mail; Reports to President and Congress
 
-Congressional findings of need for study and reevaluation of restrictions on private carriage of letters and packets contained in this section and submission by United States Postal Service of reports to President and Congress for modernization of law, regulations, and administrative practices, see section 7 of Pub. L. 91–375, set out as a note under section 601 of Title 39, Postal Service.
+Congressional findings of need for study and reevaluation of restrictions on private carriage of letters andpackets contained in this section and submission by United States Postal Service of reports to President and Congress for modernization of law, regulations, and administrative practices, see section 7 of Pub. L. 91–375, set out as a note under section 601 of Title 39, Postal Service.
 

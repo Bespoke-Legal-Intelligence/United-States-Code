@@ -22,7 +22,7 @@ The Secretary is also authorized to make project grants to States and, in consul
 
 &emsp;(1) sexually transmitted diseases surveillance activities, including the reporting, screening, and followup of diagnostic tests for, and diagnosed cases of, sexually transmitted diseases;
 
-&emsp;(2) casefinding and case followup activities respecting sexually transmitted diseases, including contact tracing of infectious cases of sexually transmitted diseases and routine testing, including laboratory tests and followup systems;
+&emsp;(2) casefinding and case followup activities respecting sexually transmitted diseases, including contact tracing of infectious cases ofsexually transmitted diseases and routine testing, including laboratory tests and followup systems;
 
 &emsp;(3) interstate epidemiologic referral and followup activities respecting sexually transmitted diseases; and
 
@@ -42,7 +42,7 @@ The Secretary may make grants to States and political subdivisions of States for
 
 (4) The Secretary, at the request of a recipient of a grant under this section, may reduce such grant by the fair market value of any supplies or equipment furnished to such recipient and by the amount of pay, allowances, travel expenses, and any other costs in connection with the detail of an officer or employee of the United States to the recipient when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such recipient and for the purpose of carrying out the program with respect to which the grant under this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies, equipment, or personal services on which the reduction of such grant is based.
 
-(5) All information obtained in connection with the examination, care, or treatment of any individual under any program which is being carried out with a grant made under this section shall not, without such individual's consent, be disclosed except as may be necessary to provide service to him or as may be required by a law ofa state or political subdivision of a State. Information derived from any such program may be disclosed—
+(5) All information obtained in connection with the examination, care, or treatment of any individual under any program which is being carried out with a grant made under this section shall not, without such individual's consent, be disclosed except as may be necessary to provide service to him or as may be required by a law of a state or political subdivision of a State. Information derived from any such program may be disclosed—
 
 &emsp;(A) in summary, statistical, or other form; or
 
@@ -160,7 +160,7 @@ Section 204(a) of Pub. L. 95–626 provided that: “The Congress finds and decl
 
 &emsp;“(7) no vaccine for syphilis, gonorrhea, or any other venereal disease has yet been developed, nor does a blood test for the detection of asymptomatic gonorrhea in women exist, nor are safe and effective therapeutic agents available for some other venereal diseases;
 
-&emsp;“(8) school health education programs, public information and awareness campaigns, mass diagnostic screening and case followup have all been found to beeffective venereal disease prevention and control methodologies;
+&emsp;“(8) school health education programs, public information and awareness campaigns, mass diagnostic screening and case followup have all been found to be effective venereal disease prevention and control methodologies;
 
 &emsp;“(9) skilled and knowledgeable health care providers, informed and concerned individuals and active, well-coordinated voluntary groups are fundamental to venereal disease prevention and control;
 

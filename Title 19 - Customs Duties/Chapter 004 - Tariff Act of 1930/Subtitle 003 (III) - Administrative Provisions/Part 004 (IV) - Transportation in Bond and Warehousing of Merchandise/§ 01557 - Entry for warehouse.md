@@ -2,7 +2,7 @@
 
 #### (a) Withdrawal of merchandise; time; payment of charges
 
-(1) Any merchandise subject to duty, with the exception of perishable articles and explosive substances other than firecrackers, may be entered for warehousing and be deposited in a bonded warehouse at the expense and risk of the owner <sup>1</sup> purchaser, importer, or consignee. Such merchandise may be withdrawn, at any time within 5 years from the date of importation, for consumption upon payment of the duties and charges accruing thereon at the rate of duty imposed by law upon such merchandise at the date of withdrawal; or may be withdrawn for exportation or for transportation and exportation to a foreign country, or for shipment or for transportation and shipment to the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or the island of Guam, without the payment of duties thereon, or for transportation and rewarehousing at another port or elsewhere, or for transfer to another bonded warehouse at the same port; except that—
+(1) Any merchandise subject to duty (including international travel merchandise), with the exception of perishable articles and explosive substances other than firecrackers, may be entered for warehousing and be deposited in a bonded warehouse at the expense and risk of the owner <sup>1</sup> purchaser, importer, or consignee. Such merchandise may be withdrawn, at any time within 5 years from the date of importation, for consumption upon payment of the duties and charges accruing thereon at the rate of duty imposed by law upon such merchandise at the date of withdrawal; or may be withdrawn for exportation or for transportation and exportation to a foreign country, or for shipment or for transportation and shipment to the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or the island of Guam, without the payment of duties thereon, or for transportation and rewarehousing at another port or elsewhere, or for transfer to another bonded warehouse at the same port; except that—
 
 &emsp;(A) the total period of time for which such merchandise may remain in bonded warehouse shall not exceed 5 years from the date of importation; and
 
@@ -22,7 +22,7 @@ Merchandise entered under bond, under any provision of law, may, upon payment of
 
 Merchandise may be withdrawn for consumption without the payment of the duty thereon if the importer of record or transferee is permitted to pay duty at a later time pursuant to regulations prescribed by the Secretary under section 1505 of this title.
 
-(June 17, 1930, ch. 497, title IV, §557, 46 Stat. 744; June 25, 1938, ch. 679, §§2, 22(a), 23(a), 52 Stat. 1077, 1087, 1088; Aug. 8, 1953, ch. 397, §21(a), 67 Stat. 519; June 30, 1955, ch. 258, §2(a) (4), 69 Stat. 242; Pub. L. 91–271, title III, §301(t), June 2, 1970, 84 Stat. 290; Pub. L. 91–685, §1, Jan. 12, 1971, 84 Stat. 2069; Pub. L. 95–410, title I, §108(a), (b)(1), Oct. 3, 1978, 92 Stat. 892; Pub. L. 97–446, title II, §201(f), Jan. 12, 1983, 96 Stat. 2350; Pub. L. 103–182, title VI, §665, Dec. 8, 1993, 107 Stat. 2215.)
+(June 17, 1930, ch. 497, title IV, §557, 46 Stat. 744; June 25, 1938, ch. 679, §§2, 22(a), 23(a), 52 Stat. 1077, 1087, 1088; Aug. 8, 1953, ch. 397, §21(a), 67 Stat. 519; June 30, 1955, ch. 258, §2(a) (4), 69 Stat. 242; Pub. L. 91–271, title III, §301(t), June 2, 1970, 84 Stat. 290; Pub. L. 91–685, §1, Jan. 12, 1971, 84 Stat. 2069; Pub. L. 95–410, title I, §108(a), (b)(1), Oct. 3, 1978, 92 Stat. 892; Pub. L. 97–446, title II, §201(f), Jan. 12, 1983, 96 Stat. 2350; Pub. L. 103–182, title VI, §665, Dec. 8, 1993, 107 Stat. 2215; Pub. L. 106–36, title II, §2409, June 25, 1999, 113 Stat. 171.)
 
 #### Prior Provisions
 
@@ -39,6 +39,8 @@ R.S. §2962, authorizing the deposit of merchandise, with specified exceptions, 
 R.S. §2967, which provided that merchandise imported into the port of Louisville, and destined for Jeffersonville, might be landed and warehoused at Jeffersonville, was superseded by the Plan of Reorganization of the Customs Service set out in a note to section 1 of this title, and repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 #### Amendments
+
+1999—Subsec. (a)(1). Pub. L. 106–36 inserted “(including international travel merchandise)” after “Any merchandise subject to duty” in first sentence of introductory provisions.
 
 1993—Subsec. (a). Pub. L. 103–182 designated first two sentences as par. (1), substituted “; except that—” along with subpars. (A) and (B) for “: <i>Provided</i>, That the total period of time for which such merchandise may remain in bonded warehouse shall not exceed 5 years from the date of importation.”, and designated remaining portion of subsec. (a) as par. (2).
 

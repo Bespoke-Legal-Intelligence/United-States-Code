@@ -80,7 +80,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Under a plan published under subsection (a) of this section, the Secretary shall,through grants or contracts, carry out research projects that will contribute to the solution of employment and training problems in the United States.
+&emsp;&emsp;Under a plan published under subsection (a) of this section, the Secretary shall, through grants or contracts, carry out research projects that will contribute to the solution of employment and training problems in the United States.
 
 #### (B) Formula improvement study and report
 
@@ -136,7 +136,7 @@
 
 #### (D) Priority
 
-&emsp;&emsp;In awarding grants or contracts under this subsection, priority shall be provided to entities with nationally recognized expertise in the methods, techniques, and knowledge of workforce investment activities and shall include appropriate time limits, established by the Secretary, for the duration of such projects.
+&emsp;&emsp;In awarding grants or contracts under this subsection, priority shall be provided to entities with nationally recognized expertise in the methods, techniques, and knowledge of workforce investment activities and shall include appropriate time limits, establishedby the Secretary, for the duration of such projects.
 
 #### (d) Dislocated worker projects
 

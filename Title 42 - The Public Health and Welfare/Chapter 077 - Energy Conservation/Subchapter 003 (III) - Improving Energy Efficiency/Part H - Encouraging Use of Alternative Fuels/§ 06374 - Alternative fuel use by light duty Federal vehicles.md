@@ -20,9 +20,9 @@
 
 (E) Dual fueled vehicles acquired pursuant to this section shall be operated on alternative fuels unless the Secretary determines that operation on such alternative fuels is not feasible.
 
-(F) At least 50 percent of the alternative fuels used in vehicles acquired pursuant to this section shall be derived from domestic feedstocks, except to the extent inconsistent with the General Agreement on Tariffs and Trade. The Secretary shall issue regulations to implement this requirement. For purposes of this subparagraph, the term “domestic” has the meaning given such term in section 13211(7) of this title.
+(F) At least 50 percent of the alternative fuels used in vehicles acquired pursuant to this section shall be derived from domestic feedstocks, except to the extent inconsistent with the multilateral trade agreements (as defined in section 3501(4) of title 19). The Secretary shall issue regulations to implement this requirement. For purposes of this subparagraph, the term “domestic” has the meaning given such term in section 13211(7) of this title.
 
-(G) Except to the extent inconsistent with the General Agreement on Tariffs and Trade, vehicles acquired under this section shall be motor vehicles manufactured in the United States or Canada.
+(G) Except to the extent inconsistent with the multilateral trade agreements (as defined in section 3501(4) of title 19), vehicles acquired under this section shall be motor vehicles manufactured in the United States or Canada.
 
 (4) Acquisitions of vehicles under this section shall, to the extent practicable, be coordinated with acquisitions of alternative fueled vehicles by State and local governments.
 
@@ -86,7 +86,7 @@ For purposes of this part—
 
 &emsp;(1) the term “acquired” means leased for a period of sixty continuous days or more, or purchased;
 
-&emsp;(2) the term “alternative fuel” means methanol, denatured ethanol, and other alcohols; mixtures containing 85 percent or more (or such other percentage, but not less than 70 percent, as determined by the Secretary, by rule, to provide for requirements relating to cold start, safety, or vehicle functions) by volume of methanol, denatured ethanol, and other alcohols with gasoline or other fuels; natural gas; liquefied petroleum gas; hydrogen; coal-derived liquid fuels; fuels (other thanalcohol) derived from biological materials; electricity (including electricity from solar energy); and any other fuel the Secretary determines, by rule, is substantially not petroleum and would yield substantial energy security benefits and substantial environmental benefits;
+&emsp;(2) the term “alternative fuel” means methanol, denatured ethanol, and other alcohols; mixtures containing 85 percent or more (or such other percentage, but not less than 70 percent, as determined by the Secretary, by rule, to provide for requirements relating to cold start, safety, or vehicle functions) by volume of methanol, denatured ethanol, and other alcohols with gasoline or other fuels; natural gas; liquefied petroleum gas; hydrogen; coal-derived liquid fuels; fuels (other than alcohol) derived from biological materials; electricity (including electricity from solar energy); and any other fuel the Secretary determines, by rule, is substantially not petroleum and would yield substantial energy security benefits and substantial environmental benefits;
 
 &emsp;(3) the term “alternative fueled vehicle” means a dedicated vehicle or a dual fueled vehicle;
 
@@ -110,13 +110,15 @@ For purposes of this part—
 
 (2) The authority of the Secretary to obligate amounts to be expended under this section shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
 
-(Pub. L. 94–163, title III, §400AA, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2442; amended Pub. L. 102–486, title III, §§302(a), 309, Oct. 24, 1992, 106 Stat. 2868, 2874; Pub. L. 104–66, title I, §§1051(a), 1052(e), Dec. 21, 1995, 109 Stat. 716, 718; Pub. L. 105–388, §5(a)(14), Nov. 13, 1998, 112 Stat. 3479.)
+(Pub. L. 94–163, title III, §400AA, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2442; amended Pub. L. 102–486, title III, §§302(a), 309, Oct. 24, 1992, 106 Stat. 2868, 2874; Pub. L. 104–66, title I, §§1051(a), 1052(e), Dec. 21, 1995, 109 Stat. 716, 718; Pub. L. 105–388, §5(a)(14), Nov. 13, 1998, 112 Stat. 3479; Pub. L. 106–36, title I, §1002(h), June 25, 1999, 113 Stat. 134.)
 
 #### Codification
 
 In subsec. (g)(4)(A), (5)(A), “section 32901(a)(7) of title 49” substituted for “section 513(h)(1)(C) of the Motor Vehicle Information Cost Savings Act” and “section 32901(a)(8) of title 49” substituted for “section 513(h)(1)(D) of the Motor Vehicle Information and Cost Savings Act”, respectively, on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
+
+1999—Subsec. (a)(3)(F), (G). Pub. L. 106–36 substituted “multilateral trade agreements (as defined in section 3501(4) of title 19)” for “General Agreement on Tariffs and Trade”.
 
 1998—Subsecs. (h), (i). Pub. L. 105–388 redesignated subsec. (i) as (h).
 

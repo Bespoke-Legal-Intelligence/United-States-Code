@@ -30,7 +30,7 @@ A State Police Corps plan shall—
 
 &emsp;(8) ensure that participants will receive effective training and leadership;
 
-&emsp;(9) provide that the State may decline to offer a participant an appointment following completion of Federal training, or may remove a participant from the Police Corps program at any time, only for good cause (including failure to make satisfactory progress in acourse of educational study) and after following reasonable review procedures stated in the plan; and
+&emsp;(9) provide that the State may decline to offer a participant an appointment following completion of Federal training, or may remove a participant from the Police Corps program at any time, only for good cause (including failure to make satisfactory progress in a course of educational study) and after following reasonable review procedures stated in the plan; and
 
 &emsp;(10) provide that a participant shall, while serving as a member of a police force, be compensated at the same rate of pay and benefits and enjoy the same rights under applicable agreements with labor organizations and under State and local law as other police officers of the same rank and tenure in the police force of which the participant is a member.
 

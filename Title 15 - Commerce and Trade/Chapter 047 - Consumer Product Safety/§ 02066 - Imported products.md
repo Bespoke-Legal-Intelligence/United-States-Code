@@ -50,7 +50,7 @@ The Commission may, by rule, condition the importation of a consumer product on 
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (a), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (a), is not set out in the Code. SeePublication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
 #### Amendments
 

@@ -48,7 +48,7 @@ Section 3 of the Presidential Transition Act of 1963, referred to in subsecs. (a
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–264 substituted “spent by the Government” for “spent by the United States”and “due the Government” for “due the United States”.
+1998—Subsec. (b). Pub. L. 105–264 substituted “spent by the Government” for “spent by the United States” and “due the Government” for “due the United States”.
 
 1996—Subsec. (a). Pub. L. 104–201, §1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 

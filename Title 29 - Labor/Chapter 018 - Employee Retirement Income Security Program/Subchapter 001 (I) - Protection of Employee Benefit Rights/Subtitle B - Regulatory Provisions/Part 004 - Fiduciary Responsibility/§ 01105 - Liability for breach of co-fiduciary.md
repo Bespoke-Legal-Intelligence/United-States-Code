@@ -40,11 +40,11 @@ In addition to any liability which he may have under any other provisions of thi
 
 &emsp;(B) the named fiduciary would otherwise be liable in accordance with subsection (a) of this section.
 
-(3) For purposes of this subsection, the term “trustee responsibility” means any responsibility provided in the plan's trust instrument (if any) to manage or control the assets of the plan, other than a power under the trust instrument of a named fiduciary to appoint an investment manager in accordance with section 1102(c)(3) of this title.
+(3) For purposes of this subsection, the term “trustee responsibility” means any responsibility provided in the plan's trust instrument (if any) to manage or control the assets of the plan, other than a power under the trust instrument of a named fiduciary to appoint an investmentmanager in accordance with section 1102(c)(3) of this title.
 
 #### (d) Investment managers
 
-(1) If an investment manager or managers have been appointed under section 1102(c)(3) ofthis title, then, notwithstanding subsections (a)(2) and (3) and subsection (b) of this section, no trustees shall be liable for the acts or omissions of such investment manager or managers, or be under an obligation to invest or otherwise manage any asset of the plan which is subject to the management of such investment manager.
+(1) If an investment manager or managers have been appointed under section 1102(c)(3) of this title, then, notwithstanding subsections (a)(2) and (3) and subsection (b) of this section, no trustees shall be liable for the acts or omissions of such investment manager or managers, or be under an obligation to invest or otherwise manage any asset of the plan which is subject to the management of such investment manager.
 
 (2) Nothing in this subsection shall relieve any trustee of any liability under this part for any act of such trustee.
 

@@ -10,5 +10,3 @@ There are authorized to be appropriated for the WERC program under section 7382e
 
 (Pub. L. 103–382, title V, §518, Oct. 20, 1994, 108 Stat. 4044.)
 
-&nbsp;
-

@@ -158,7 +158,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (ii) Operating loans
 
-&emsp;&emsp;&emsp;Of the amounts made available under paragraph (1) for guarantees of operatingloans, the Secretary shall reserve 40 percent for qualified beginning farmers and ranchers.
+&emsp;&emsp;&emsp;Of the amounts made available under paragraph (1) for guarantees of operating loans, the Secretary shall reserve 40 percent for qualified beginning farmers and ranchers.
 
 #### (iii) Funds reserved until April 1
 
@@ -180,7 +180,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (B) Limitation
 
-&emsp;&emsp;The Secretary shall limit the transfer of funds under subparagraph (A) so that all guaranteed farm operating loans that have been approved, or will be approved, by the Secretary during the fiscal year will be made to the extent of available amounts.
+&emsp;&emsp;The Secretary shall limit the transfer of funds under subparagraph (A) so that all guaranteed farm operating loans that havebeen approved, or will be approved, by the Secretary during the fiscal year will be made to the extent of available amounts.
 
 #### (4) Transfer for credit sales of farm inventory property
 
@@ -234,7 +234,7 @@ Pub. L. 101–508, §1202(a), amended subsec. (b) generally, substituting presen
 
 1985—Subsec. (b). Pub. L. 99–198, §1317(a), amended subsec. (b) generally, substituting provisions setting maximum amounts for loans under the Agricultural Credit Insurance Fund and the Rural Development Insurance Fund for each of fiscal years ending September 30, 1986, through September 30, 1988, for provisions setting such amounts for each of fiscal years 1980, 1981, and 1982.
 
-Subsecs. (d), (e). Pub. L. 99–198, §1317, struck out subsec. (d) which authorized special amounts for fiscal year 1982, redesignated subsec. (e) as (d), and in par. (1) substituted “25 per centum” for “20 per centum” wherever appearing and “each fiscal year” for “fiscal year 1984”.
+Subsecs. (d), (e). Pub. L. 99–198, §1317, struck out subsec. (d) which authorized special amounts for fiscalyear 1982, redesignated subsec. (e) as (d), and in par. (1) substituted “25 per centum” for “20 per centum” wherever appearing and “each fiscal year” for “fiscal year 1984”.
 
 1984—Subsec. (e). Pub. L. 98–258 added subsec. (e).
 
@@ -253,6 +253,10 @@ Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub.
 #### Construction of 1990 Amendment
 
 Section 702(i) of Pub. L. 102–237 provided that: “Subsection (i) of section 2388 of the Food, Agriculture, Conservation, and Trade Act of 1990 (104 Stat. 4053) \[Pub. L. 101–624, amending this section\] is hereby repealed and the Consolidated Farm and Rural Development Act \[see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendments made by such subsection had never been enacted.”
+
+#### Nullification of Reservation of Funds During Fiscal Year 1999 for Guaranteed Loans for Qualified Beginning Farmers and Ranchers
+
+Pub. L. 106–2, §1, Mar. 15, 1999, 113 Stat. 5, provided that: “Amounts shall be made available pursuant to section 346(b)(1)(D) of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1994(b)(1)(D)\] for guaranteed loans, without regard to any reservation under section 346(b)(2)(B) of such Act.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

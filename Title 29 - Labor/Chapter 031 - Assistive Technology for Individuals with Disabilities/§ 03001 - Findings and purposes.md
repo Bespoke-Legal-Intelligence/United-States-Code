@@ -86,7 +86,7 @@ The purposes of this chapter are—
 
 &emsp;&emsp;(ii) facilitate the change of laws, regulations, policies, practices, procedures, and organizational structures, to obtain increased availability or provision of assistive technology devices and assistive technology services;
 
-&emsp;&emsp;(G) increase the probability that individuals with disabilities of all ages will, to the extent appropriate, be able to secure and maintain possession of assistive technology devices as such individuals make the transition between services offered by human service agencies or between settings of daily living (for example, between home and work);
+&emsp;&emsp;(G) increase the probability that individuals with disabilities of all ages will, to the extent appropriate, be able to secure and maintain possession of assistive technologydevices as such individuals make the transition between services offered by human service agencies or between settings of daily living (for example, between home and work);
 
 &emsp;&emsp;(H) enhance the skills and competencies of individuals involved in providing assistive technology devices and assistive technology services;
 

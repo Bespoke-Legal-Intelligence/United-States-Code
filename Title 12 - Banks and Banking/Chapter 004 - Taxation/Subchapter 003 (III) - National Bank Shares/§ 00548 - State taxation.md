@@ -20,7 +20,7 @@ Pub. L. 91–156, §1(a), added par. 5.
 
 Section 1(b) of Pub. L. 91–156 provided that: “The amendment made by subsection (a) of this section \[setting out interim provisions regarding intangible personal property taxes of State and local governments on national banks\] shall be effective from the date of enactment of this Act \[Dec. 24, 1969\] until the effective date \[Jan. 1, 1973\] of the amendment made by section 2(a) of this Act \[removing restrictions on the taxation of national bank shares and directing that national banks, for purposes of both Federal and State tax laws, be treated as banks organized and existing under the laws of the State or other jurisdiction within which each bank's principal office is located\].”
 
-Section 2(b) of Pub. L. 91–156, as amended by Pub. L. 92–213, §4(a), Dec. 22, 1971, 85 Stat. 775, provided that: “The amendment made by subsection (a) \[removing all special restriction on the taxation of national bank shares by State and local taxing authorities\] becomes effective on January 1, 1973”.
+Section 2(b) of Pub. L. 91–156, as amended by Pub. L. 92–213, §4(a), Dec. 22, 1971, 85 Stat. 775, provided that: “The amendment made by subsection (a) \[removing allspecial restriction on the taxation of national bank shares by State and local taxing authorities\] becomes effective on January 1, 1973”.
 
 #### Savings Provision
 

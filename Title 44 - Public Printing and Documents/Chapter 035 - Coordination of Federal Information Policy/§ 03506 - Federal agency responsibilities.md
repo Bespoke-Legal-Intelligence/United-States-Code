@@ -208,7 +208,7 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 
 #### Ex. Ord. No. 13073. Year 2000 Conversion
 
-Ex. Ord. No. 13073, Feb. 4, 1998, 63 F.R. 6467, provided:
+Ex. Ord. No. 13073, Feb. 4, 1998, 63 F.R. 6467, as amended by Ex. Ord. No. 13127, June 14, 1999, 64 F.R. 32793, provided:
 
 The American people expect reliable service from their Government and deserve the confidence that critical government functions dependent on electronic systems will be performed accurately and in a timely manner. Because of a design feature in many electronic systems, a large number of activities in the public and private sectors could be at risk beginning in the year 2000. Some computer systems and other electronic devices will misinterpret the year “00” as 1900, rather than 2000. Unless appropriate action is taken, this flaw, known as the “Y2K problem,” can cause systems that support those functions to compute erroneously or simply not run. Minimizing the Y2K problem will require a major technological and managerial effort, and it is critical that the United States Government do its part in addressing this challenge.
 
@@ -248,7 +248,19 @@ Sec. 3. <i>Responsibilities of Agency Heads</i>. (a) The head of each agency sha
 
 Sec. 4. <i>Responsibilities of Interagency and Executive Office Councils</i>. Interagency councils and councils within the Executive Office of the President, including the President's Management Council, the Chief Information Officers Council, the Chief Financial Officers Council, the President's Council on Integrity and Efficiency, the Executive Council on Integrity and Efficiency, the National Science and Technology Council, the National Performance Review, the National Economic Council, the Domestic Policy Council, and the National Security Council shall provide assistance and support to the Chair upon the Chair's request.
 
-Sec. 5. <i>Judicial Review</i>. This Executive order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, or instrumentalities, its officers or employees, or any other person.
+Sec. 5. <i>Information Coordination Center</i>. (a) To assist the Chair in the Y2K response duties included under section 2(c) of this order, there shall be established the Information Coordination Center (ICC) in the General Services Administration.
+
+(b) At the direction of the Chair, the ICC will assist in making preparations for information sharing and coordination within the Federal Government and key components of the public and private sectors, coordinating agency assessments of Y2K emergencies that could have an adverse affect on U.S. interests at home and abroad, and, if necessary, assisting Federal agencies and the Chair in reconstitution processes where appropriate.
+
+(c) The ICC will:
+
+(1) consist of officials from executive agencies, designated by agency heads under subsection 3(a)(2) of thisorder, who have expertise in important management and technical areas, computer hardware, software or security systems, reconstitution and recovery, and of additional personnel hired directly or by contract, as required, to carry out the duties described under section 5 of this order;
+
+(2) work with the Council and the Office of Management and Budget to assure that Federal efforts to restore critical systems are coordinated with efforts managed by Federal agencies acting under existing emergency response authorities.
+
+(d) The Chair of the President's Council on Year 2000 Conversion shall designate a Director of the ICC.
+
+Sec. 6. <i>Judicial Review</i>. This Executive order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

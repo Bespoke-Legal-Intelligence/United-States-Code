@@ -4,7 +4,7 @@
 
 #### (1) Plan
 
-&emsp;In conjunction with the creation of an easement on any lands under this part, the owner of the farm or ranch wherein such lands are located must agree to implement a natural resource conservation management plan under subsection (b) of this section approved by the Secretary in consultation with the Secretary of the Interior.
+&emsp;In conjunction with the creation of an easement on any lands under this part, the ownerof the farm or ranch wherein such lands are located must agree to implement a natural resource conservation management plan under subsection (b) of this section approved by the Secretary in consultation with the Secretary of the Interior.
 
 #### (2) Agreement
 

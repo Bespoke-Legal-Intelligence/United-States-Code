@@ -8,7 +8,7 @@ Each officer or employee of the Secretary and the Bureau who—
 
 &emsp;(2) has any known financial interest in any person who (A) applies for or receives any permit, lease, or right-of-way under, or (B) applies for or acquires any land or interests therein under, or (C) is otherwise subject to the provisions of, this Act,
 
-> shall, beginning on February 1, 1977, annually file with the Secretary a written statement concerning all such interests held by such officer or employee during the preceding calendar year. Such statement shall be available to the public.
+> shall, beginning on February 1, 1977, annually file with the Secretary a written statement concerning all such interests held by such officer oremployee during the preceding calendar year. Such statement shall be available to the public.
 
 #### (b) Implementation of requirements
 

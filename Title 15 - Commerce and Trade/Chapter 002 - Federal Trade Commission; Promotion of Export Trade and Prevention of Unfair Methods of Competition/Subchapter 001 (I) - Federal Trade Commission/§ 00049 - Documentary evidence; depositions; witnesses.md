@@ -26,7 +26,7 @@ Fourth par. Pub. L. 93–637, §203(b)(3), substituted “person, partnership, o
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, see section 260 of Pub. L.91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
 
 #### Savings Provision
 
@@ -78,5 +78,5 @@ Writs, issuance of, see section 1651 of Title 28.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 57b–1 of this title; title 7 sections 222, 610, 2146, 3807; title 21 sections 467d, 677, 1051; title 26 section 5274; title 27 section 202; title 29 sections 177, 209, 521, 1134, 1573, 1862, 2004; title 33 sections 907, 944; title 42 section 7255; title 50 App. section 1983.
+This section is referred to in section 57b–1 of this title; title 7 sections 198b, 222, 610, 1636, 2146, 3807; title 21 sections 467d, 677, 1051; title 26 section 5274; title 27 section 202; title 29 sections 177, 209, 521, 1134, 1573, 1862, 2004, 2933; title 33 sections 907, 944; title 42 section 7255; title 50 App. section 1983.
 

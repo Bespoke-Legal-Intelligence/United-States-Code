@@ -4,7 +4,7 @@
 
 (b)(1) Proceeds from sales under subsection (a) shall be credited to the appropriation account currently available to the military department concerned for the supply of electrical energy.
 
-(2) Subject to the availability of appropriations for this purpose, proceeds credited under paragraph (1) may be used to carry out military construction projects under the energy performance plan developed by the Secretary of Defense under section 2865(a) of this title, including minor military construction projects authorized under section 2805 of this title that are designed to increase energy conservation.
+(2) Subject to the availability of appropriations for this purpose, proceeds credited under paragraph (1) may be used to carry out military construction projects under the energy performance plan developed by the Secretary of Defenseunder section 2865(a) of this title, including minor military construction projects authorized under section 2805 of this title that are designed to increase energy conservation.
 
 (c) Before carrying out a military construction project described in subsection (b) using proceeds from sales under subsection (a), the Secretary concerned shall notify Congress in writing of the project, the justification for the project, and the estimated cost of the project. The project may be carried out only after the end of the 21-day period beginning on the date the notification is received by Congress.
 

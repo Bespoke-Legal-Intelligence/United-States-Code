@@ -6,7 +6,7 @@ Payment Authority.—The head of any agency may—
 
 &emsp;(1) make advance, partial, progress, or other payments under contracts for property or services made by the agency; and
 
-&emsp;(2) insert in solicitations for procurement of property or services a provision limiting to small business concerns advance or progress payments.
+&emsp;(2) insert in solicitations for procurement of property or services a provision limiting tosmall business concerns advance or progress payments.
 
 (b)
 
@@ -160,7 +160,7 @@ Subsec. (h). Pub. L. 103–355, §2001(a)(7), redesignated subsec. (e) as (h).
 
 1992—Subsec. (e)(1). Pub. L. 102–484 substituted “(1)” for “(<i>l</i>)” as par. designation after “(e)”.
 
-1991—Subsec. (d)(3). Pub. L. 102–25, §701(d)(4), substituted “any contract for an amount not in excess ofthe amount of the small purchase threshold” for “contracts for amounts less than the maximum amount for small purchases specified in section 2304(g)(2) of this title”.
+1991—Subsec. (d)(3). Pub. L. 102–25, §701(d)(4), substituted “any contract for an amount not in excess of the amount of the small purchase threshold” for “contracts for amounts less than the maximum amount for small purchases specified in section 2304(g)(2) of this title”.
 
 Subsec. (e). Pub. L. 102–25, §701(j)(2)(A), redesignated subsec. (f) as (e).
 
@@ -168,7 +168,7 @@ Subsec. (f). Pub. L. 102–190, which directed the substitution of “(1)” for
 
 Pub. L. 102–25, §701(j)(2)(A), redesignated subsec. (f) as (e).
 
-1990—Subsec. (d). Pub. L. 101–510, §1322(a)(4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Payments under subsection (a) in the case of any contract, other than partial, progress, or other payments specifically provided for in such contract at the time such contract was initially entered into, may not exceed $25,000,000 unless the Committees on Armed Services of the Senate and the House of Representatives have been notified in writing of such proposed payments and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees and neither House of Congress has adopted, within such 60-day period, a resolution disapproving such payments. For purposes of this section, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of such 60-day period.”
+1990—Subsec. (d). Pub. L. 101–510, §1322(a)(4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Payments under subsection (a) in the case of any contract, other than partial, progress, or other payments specifically provided for in such contract at the time such contract was initially entered into, may not exceed $25,000,000 unless the Committees on Armed Services of the Senate and the House of Representatives have been notified in writingof such proposed payments and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees and neither House of Congress has adopted, within such 60-day period, a resolution disapproving such payments. For purposes of this section, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of such 60-day period.”
 
 Subsec. (e). Pub. L. 101–510, §1322(a)(4)(B), redesignated subsec. (e) as (d).
 

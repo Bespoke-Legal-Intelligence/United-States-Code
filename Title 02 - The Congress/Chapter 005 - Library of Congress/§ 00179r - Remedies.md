@@ -12,7 +12,7 @@ The several district courts of the United States shall have jurisdiction, for ca
 
 #### (2) Fine and injunctive relief
 
-&emsp;In the case of a pattern or practice of the willful violation of section 179q(a) of this title,the United States district courts may order a civil fine of not more than $10,000 and appropriate injunctive relief.
+&emsp;In the case of a pattern or practice of the willful violation of section 179q(a) of this title, the United States district courts may order a civil fine of not more than $10,000 and appropriate injunctive relief.
 
 (Pub. L. 104–285, title I, §108, Oct. 11, 1996, 110 Stat. 3381.)
 

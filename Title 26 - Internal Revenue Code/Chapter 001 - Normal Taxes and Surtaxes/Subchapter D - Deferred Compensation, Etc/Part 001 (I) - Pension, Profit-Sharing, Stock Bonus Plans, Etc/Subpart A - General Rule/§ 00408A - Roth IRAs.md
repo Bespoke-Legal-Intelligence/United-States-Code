@@ -164,13 +164,13 @@ For purposes of this title—
 
 #### (II) Limitation on aggregate amount included
 
-&emsp;&emsp;&emsp;&emsp;The amount required to be included in gross income for any taxable year under subparagraph (A)(iii) shall not exceed the aggregate amount required to be included in gross income under subparagraph (A)(iii) for all taxable years in the 4-year period (without regard to subclause (I)) reduced by amounts included for all preceding taxable years.
+&emsp;&emsp;&emsp;&emsp;The amount required to be included in gross income for any taxable year undersubparagraph (A)(iii) shall not exceed the aggregate amount required to be included in gross income under subparagraph (A)(iii) for all taxable years in the 4-year period (without regard to subclause (I)) reduced by amounts included for all preceding taxable years.
 
 #### (ii) Death of distributee
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;If the individual required to include amounts in gross income under such subparagraph dies before all of such amounts are included, all remainingamounts shall be included in gross income for the taxable year which includes the date of death.
+&emsp;&emsp;&emsp;&emsp;If the individual required to include amounts in gross income under such subparagraph dies before all of such amounts are included, all remaining amounts shall be included in gross income for the taxable year which includes the date of death.
 
 #### (II) Special rule for surviving spouse
 

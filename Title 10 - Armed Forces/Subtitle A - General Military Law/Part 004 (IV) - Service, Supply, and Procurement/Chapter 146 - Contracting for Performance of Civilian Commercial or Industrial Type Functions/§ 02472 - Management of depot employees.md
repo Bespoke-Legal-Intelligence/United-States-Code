@@ -6,9 +6,9 @@ Prohibition on Management by End Strength.—The civilian employees of the Depar
 
 (b)
 
-Annual Report.—Not later than December 1 of each fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the number of employees employed and expected to be employed by the Department of Defense during that fiscal year to perform depot-level maintenance and repair of materiel. The report shall indicate whether that number is sufficient to perform the depot-level maintenance and repair functions for which funds are expected to be provided for that fiscal year for performance by Department of Defense employees.
+Annual Report.—Not later than December 1 of each fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the number of employees employed and expected to be employed by the Department of Defense during that fiscal year to perform depot-level maintenance and repair of materiel. The report shall indicate whether that number is sufficient to perform the depot-level maintenance and repair functions for which funds are expected to be provided for that fiscal year for performance by Department of Defense employees.
 
-(Added and amended Pub. L. 104–106, div. A, title III, §312(a), (b), Feb. 10, 1996, 110 Stat. 250; Pub. L. 105–85, div. A, title III, §360, Nov. 18, 1997, 111 Stat. 1700.)
+(Added and amended Pub. L. 104–106, div. A, title III, §312(a), (b), Feb. 10, 1996, 110 Stat. 250; Pub. L. 105–85, div. A, title III, §360, Nov. 18, 1997, 111 Stat. 1700; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Codification
 
@@ -16,13 +16,11 @@ The text of section 2466(b) of this title, which was transferred to this section
 
 #### Amendments
 
+1999—Subsec. (b). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+
 1997—Subsec. (a). Pub. L. 105–85 inserted first sentence and struck out former first sentence which read as follows: “The civilian employees of the Department of Defense involved in the depot-level maintenance and repair of materiel may not be managed on the basis of any end-strength constraint or limitation on the number of such employees who may be employed on the last day of a fiscal year.”
 
 1996—Subsec. (a). Pub. L. 104–106, §312(b), renumbered section 2466(b) of this title as subsec. (a) of this section.
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Submission of Initial Report
 

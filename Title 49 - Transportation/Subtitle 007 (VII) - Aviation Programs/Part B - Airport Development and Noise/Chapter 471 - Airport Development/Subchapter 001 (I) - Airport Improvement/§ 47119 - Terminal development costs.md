@@ -28,7 +28,7 @@ Availability of Amounts.—In a fiscal year, the Secretary may make available—
 
 &emsp;(3) for use by a primary airport that each year does not have more than .05 percent of the total boardings in the United States, any part of amounts that may be distributed for the fiscal year from the discretionary fund and small airport fund to pay project costs allowable under section 47110(d) of this title; or
 
-&emsp;(4) not more than $25,000,000 to pay project costs allowable for the fiscal year under section 47110(d) of this title for projects at commercial service airports that were not eligible for assistance for terminal development during the fiscal year ending September 30, 1980,under section 20(b) of the Airport and Airway Development Act of 1970.
+&emsp;(4) not more than $25,000,000 to pay project costs allowable for the fiscal year under section 47110(d) of this title for projects at commercial service airports that were not eligible for assistance for terminal development during the fiscal year ending September 30, 1980, under section 20(b) of the Airport and Airway Development Act of 1970.
 
 (c)
 
@@ -68,7 +68,7 @@ Sept. 3, 1982, Pub. L. 97–248, §513(b)(3), 96 Stat. 690.
 
 In subsection (a), before clause (1), the words “(within the meaning of section 11(1) of the Airport and Airway Development Act of 1970 \[49 App. U.S.C. 1711(1)\] as in effect immediately before September 3, 1982)” are omitted because of the definition of “air carrier airport” in section 47102 of the revised title. The words “after June 30, 1970” are substituted for “on or after July 1, 1970” for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words. The words “to repay immediately money borrowed and used to pay the costs for terminal development at the airport, if those costs would be allowable project costs under section 47110(d) of this title” are substituted for “for the immediate retirement of the principal of bonds or other evidences of indebtedness the proceeds of which were used for that part of the terminal development at such airport the cost of which would be allowable under paragraph (1) of this subsection” for clarity and to eliminate unnecessary words.
 
-In subsection (b), before clause (1), the words “In a fiscal year” are added for clarity. In clause (2), the words “from the discretionary fund” are substituted for “sums to be distributed at the discretion of the Secretary under section 2206(c) of this Appendix” for clarity and consistency in this chapter. In clause (3), the words “for projects” are added for clarity.
+In subsection (b), before clause (1), the words “In a fiscal year” are added for clarity. In clause (2), thewords “from the discretionary fund” are substituted for “sums to be distributed at the discretion of the Secretary under section 2206(c) of this Appendix” for clarity and consistency in this chapter. In clause (3), the words “for projects” are added for clarity.
 
 Pub. L. 103–429
 

@@ -6,7 +6,7 @@
 
 #### (A) New England Council
 
-&emsp;The New England Fishery Management Council shall consist of the States of Maine, New Hampshire, Massachusetts, Rhode Island, and Connecticut and shall have authority over the fisheries in the Atlantic Ocean seaward of such States (except as provided in paragraph (3)). The New England Council shall have 17 voting members, including 11 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).
+&emsp;The New England Fishery Management Council shall consist of the States of Maine, New Hampshire, Massachusetts, Rhode Island, and Connecticut and shall have authority over the fisheries in the Atlantic Ocean seaward of such States (except as provided in paragraph (3)). The New England Council shall have 18 voting members, including 12 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).
 
 #### (B) Mid-Atlantic Council
 
@@ -26,7 +26,7 @@
 
 #### (F) Pacific Council
 
-&emsp;The Pacific Fishery Management Council shall consist of the States of California, Oregon, Washington, and Idaho and shall have authority over the fisheries in the Pacific Ocean seaward of such States. The Pacific Council shall have 14 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State), and including one appointed from an Indian tribe with Federally <sup>1</sup> recognized fishing rights from California, Oregon, Washington, or Idaho in accordance with subsection (b)(5) of this section.
+&emsp;The Pacific Fishery Management Council shall consist of the States of California, Oregon, Washington, and Idaho and shall have authority over the fisheries in the Pacific Ocean seaward of such States. The Pacific Council shall have 14 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from eachsuch State), and including one appointed from an Indian tribe with Federally <sup>1</sup> recognized fishing rights from California, Oregon, Washington, or Idaho in accordance with subsection (b)(5) of this section.
 
 #### (G) North Pacific Council
 
@@ -46,7 +46,7 @@
 
 &emsp;(A) The principal State official with marine fishery management responsibility and expertise in each constituent State, who is designated as such by the Governor of the State, so long as the official continues to hold such position, or the designee of such official.
 
-&emsp;(B) The regional director of the National Marine Fisheries Service for the geographic area concerned, or his designee, except that iftwo such directors are within such geographical area, the Secretary shall designate which of such directors shall be the voting member.
+&emsp;(B) The regional director of the National Marine Fisheries Service for the geographic area concerned, or his designee, except that if two such directors are within such geographical area, the Secretary shall designate which of such directors shall be the voting member.
 
 &emsp;(C) The members required to be appointed by the Secretary in accordance with paragraphs (2) and (5).
 
@@ -188,7 +188,7 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 &emsp;(C) Timely public notice of each regular meeting and each emergency meeting, including the time, place, and agenda of the meeting, shall be published in local newspapers in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery) and such notice may be given by such other means as will result in wide publicity. Timely notice of each regular meeting shall also be published in the Federal Register. The published agenda of the meeting may not be modified to include additional matters for Council action without public notice or within 14 days prior to the meeting date, unless such modification is to address an emergency action under section 1855(c) of this title, in which case public notice shall be given immediately.
 
-&emsp;(D) Interested persons shall be permitted to present oral or written statements regarding the matters on the agenda at meetings. All written information submitted to a Council by an interested person shall include a statement of the source and date of such information. Any oral or written statement shall include abrief description of the background and interests of the person in the subject of the oral or written statement.
+&emsp;(D) Interested persons shall be permitted to present oral or written statements regarding the matters on the agenda at meetings. All written information submitted to a Council by an interested person shall include a statement of the source and date of such information. Any oral or written statement shall include a brief description of the background and interests of the person in the subject of the oral or written statement.
 
 &emsp;(E) Detailed minutes of each meeting of the Council, except for any closed session, shall be kept and shall contain a record of the persons present, a complete and accurate description of matters discussed and conclusions reached, and copies of all statements filed. The Chairman shall certify the accuracy of the minutes of each such meeting and submit a copy thereof to the Secretary. The minutes shall be made available to any court of competent jurisdiction.
 
@@ -250,7 +250,7 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 &emsp;(B) be kept on file, and made available for public inspection at reasonable hours, at the Council offices; and
 
-&emsp;(C) be kept on file by the Secretary for use in reviewing determinations under paragraph\(7)(B) and made available for public inspection at reasonable hours.
+&emsp;(C) be kept on file by the Secretary for use in reviewing determinations under paragraph (7)(B) and made available for public inspection at reasonable hours.
 
 (6) The participation by an affected individual referred to in paragraph (1)(A)(ii) in an action by a Council during any time in which that individual is not in compliance with the regulations prescribed under paragraph (5) may not be treated as cause for the invalidation of that action.
 
@@ -268,13 +268,15 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 (8) Section 208 of title 18 does not apply to an affected individual referred to in paragraph (1)(A)(ii) during any time in which that individual is in compliance with the regulations prescribed under paragraph (5).
 
-(Pub. L. 94–265, title III, §302, Apr. 13, 1976, 90 Stat. 347; Pub. L. 95–354, §5(1), Aug. 28, 1978, 92 Stat. 521; Pub. L. 96–561, title II, §234, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §5, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 99–659, title I, §104(a)(1), (b)–(e)(1), Nov. 14, 1986, 100 Stat. 3709, 3710; Pub. L. 101–627, title I, §§108(a)–(j), 120(c), Nov. 28, 1990, 104 Stat. 4444–4446, 4459; Pub. L. 102–582, title IV, §403, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, §107, Oct. 11, 1996, 110 Stat. 3570.)
+(Pub. L. 94–265, title III, §302, Apr. 13, 1976, 90 Stat. 347; Pub. L. 95–354, §5(1), Aug. 28, 1978, 92 Stat. 521; Pub. L. 96–561, title II, §234, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §5, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 99–659, title I, §104(a)(1), (b)–(e)(1), Nov. 14, 1986, 100 Stat. 3709, 3710; Pub. L. 101–627, title I, §§108(a)–(j), 120(c), Nov. 28, 1990, 104 Stat. 4444–4446, 4459; Pub. L. 102–582, title IV, §403, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, §107, Oct. 11, 1996, 110 Stat. 3570; Pub. L. 106–113, div. B, §1000(a)(1) \[title II, §210\], Nov. 29, 1999, 113 Stat. 1535, 1501A–33.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (i)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1999—Subsec. (a)(1)(A). Pub. L. 106–113 substituted “18” for “17” and “12” for “11”.
 
 1996—Subsec. (a). Pub. L. 104–297, §107(a)(1), (2), (6), inserted “(1)” before “There shall be established”, redesignated former pars. (1) to (8) as subpars. (A) to (H), respectively, adjusted margin of last sentence, and inserted “(2)” before “Each Council”.
 
@@ -448,7 +450,7 @@ Section 113 of Pub. L. 99–659 provided that: “Notwithstanding section 302 of
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 971b, 1362, 1379, 1433, 1445a, 1802, 1854, 1855, 1857, 1882, 2803, 2804, 3602, 5102, 5601 of this title; title 30 section 1415; title 43 section 1474d.
+This section is referred to in sections 971b, 1362, 1379, 1433, 1445a, 1802, 1854, 1855, 1857, 1882, 2803, 2804, 3602, 5102, 5601 of this title; title 30 section 1415; title 43 section 1474d; title 46 section 12102.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

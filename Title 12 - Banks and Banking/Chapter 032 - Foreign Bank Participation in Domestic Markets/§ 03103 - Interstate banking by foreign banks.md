@@ -8,7 +8,7 @@
 
 #### (2) State branch or agency
 
-&emsp;Subject to the provisions of this chapter and with the prior written approval by the Boardand the appropriate State bank supervisor of an application, a foreign bank may establish and operate a State branch or agency in any State outside the home State of such foreign bank to the extent that such establishment and operation would be permitted under section 1828(d)(4) or 1831u of this title if the foreign bank were a State bank whose home State is the same State as the home State of the foreign bank.
+&emsp;Subject to the provisions of this chapter and with the prior written approval by the Board and the appropriate State bank supervisor of an application, a foreign bank may establish and operate a State branch or agency in any State outside the home State of such foreign bank to the extent that such establishment and operation would be permitted under section 1828(d)(4) or 1831u of this title if the foreign bank were a State bank whose home State is the same State as the home State of the foreign bank.
 
 #### (3) Criteria for determination
 
@@ -36,13 +36,25 @@
 
 &emsp;If the Board or the Comptroller of the Currency, taking into account differing regulatory or accounting standards, finds that adherence by a foreign bank to capital requirements equivalent to those imposed under section 36 of this title and section 1831u of this title could be verified only if the banking activities of such bank in the United States are carried out in a domestic banking subsidiary within the United States, the Board and (in the case of an application under paragraph (1)) the Comptroller of the Currency may approve an application under paragraph (1) or (2) subject to a requirement that the foreign bank or company controlling the foreign bank establish a domestic banking subsidiary in the United States.
 
-#### (7) Additional authority for interstate branches and agencies of foreign banks
+#### (7) Additional authority for interstate branches and agencies of foreign banks, upgrades of certain foreign bank agencies and branches
 
-&emsp;Notwithstanding paragraphs (1) and (2), a foreign bank may, with the approval of the Board and the Comptroller of the Currency, establish and operate a Federal branch or Federal agency or, with the approval of the Board and the appropriate State bank supervisor, a State branch or State agency in any State outside the foreign bank's home State if—
+&emsp;Notwithstanding paragraphs (1) and (2), a foreign bank may—
 
-&emsp;&emsp;(A) the establishment and operation of a branch or agency is expressly permitted by the State in which the branch or agency is to be established; and
+&emsp;&emsp;(A) with the approval of the Board and the Comptroller of the Currency, establish and operate a Federal branch or Federal agency or, with the approval of the Board and the appropriate State bank supervisor, a State branch or State agency in any State outside the foreign bank's home State if—
 
-&emsp;&emsp;(B) in the case of a Federal or State branch, the branch receives only such deposits as would be permissible for a corporation organized under section 25A of the Federal Reserve Act \[12 U.S.C. 611 et seq.\].
+&emsp;&emsp;&emsp;(i) the establishment and operation of such branch or agency is permitted by the State in which the branch or agency is to be established; and
+
+&emsp;&emsp;&emsp;(ii) in the case of a Federal or State branch, the branch receives only such deposits as would be permitted for a corporation organized under section 25A of the Federal Reserve Act \[12 U.S.C. 611 et seq.\]; or
+
+&emsp;&emsp;(B) with the approval of the Board and the relevant licensing authority (the Comptroller in the case of a Federal branch or the appropriate State supervisor in the case of a State branch), upgrade an agency, or a branch of the type referred to in subparagraph (A)(ii), located in a State outside the foreign bank's home State, into a Federal or State branch if—
+
+&emsp;&emsp;&emsp;(i) the establishment and operation of such branch is permitted by such State; and
+
+&emsp;&emsp;&emsp;(ii) such agency or branch—
+
+&emsp;&emsp;&emsp;&emsp;(I) was in operation in such State on the day before September 29, 1994; or
+
+&emsp;&emsp;&emsp;&emsp;(II) has been in operation in such State for a period of time that meets the State's minimum age requirement permitted under section 1831u(a)(5) of this title.
 
 #### (8) Continuing requirement for meeting community credit needs after initial interstate entry by acquisition
 
@@ -64,7 +76,7 @@
 
 #### (b) Continuance of lawful interstate banking operations previously commenced
 
-Unless its authority to do so is lawfully revoked otherwise than pursuant to this section, a foreign bank, notwithstanding any restriction or limitation imposed under subsection (a) of this section, may establish and operate, outside its home State, any State branch, State agency, or bank or commercial lending company subsidiary which commenced lawful operation or for which an application to commence business had beenlawfully filed with the appropriate State or Federal authority, as the case may be, on or before July 27, 1978. Notwithstanding subsection (a) of this section, a foreign bank may continue to operate, after September 29, 1994, any Federal branch, State branch, Federal agency, State agency, or commercial lending company subsidiary which such bank was operating on the day before September 29, 1994, to the extent the branch, agency, or subsidiary continues, after September 29, 1994, to engage in operations which were lawful under the laws in effect on the day before September 29, 1994.
+Unless its authority to do so is lawfully revoked otherwise than pursuant to this section, a foreign bank, notwithstanding any restriction or limitation imposed under subsection (a) of this section, may establish and operate, outside its home State, any State branch, State agency, or bank or commercial lending company subsidiary which commenced lawful operation or for which an application to commence business had been lawfully filed with the appropriate State or Federal authority, as the case may be, on or before July 27, 1978. Notwithstanding subsection (a) of this section, a foreign bank may continue to operate, after September 29, 1994, any Federal branch, State branch, Federal agency, State agency, or commercial lending company subsidiary which such bank was operating on the day before September 29, 1994, to the extent the branch, agency, or subsidiary continues, after September 29, 1994, to engage in operations which were lawful under the laws in effect on the day before September 29, 1994.
 
 #### (c) Determination of home State of foreign bank
 
@@ -82,7 +94,7 @@ In the case of a foreign bank that has a domestic bank subsidiary within the Uni
 
 &emsp;(2) the fact that the domestic bank is controlled by a foreign bank which has Federal or State branches or agencies in States other than the home State of such domestic bank shall not affect the authority of the domestic bank to establish branches outside the home State of the domestic bank to the extent permitted under section 36(g) of this title or section 1828(d)(4) or 1831u of this title, as the case may be.
 
-(Pub. L. 95–369, §5, Sept. 17, 1978, 92 Stat. 613; Pub. L. 103–328, title I, §§104, 107(f), Sept. 29, 1994, 108 Stat. 2354, 2361.)
+(Pub. L. 95–369, §5, Sept. 17, 1978, 92 Stat. 613; Pub. L. 103–328, title I, §§104, 107(f), Sept. 29, 1994, 108 Stat. 2354, 2361; Pub. L. 106–102, title VII, §732, Nov. 12, 1999, 113 Stat. 1478.)
 
 #### References in Text
 
@@ -90,9 +102,15 @@ For definition of “this chapter”, referred to in subsec. (a)(1), (2), see Re
 
 The Community Reinvestment Act of 1977, referred to in subsec. (a)(8)(A), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, as amended, which is classified generally to chapter 30 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 
-Edge Act corporation, referred to in subsec. (a)(8)(B), is a corporation organized under section 25A of the Federal Reserve Act, as added by act Dec. 24, 1919, ch. 18, 41 Stat. 378, and amended, popularly known as the Edge Act, which is classified to subchapter II (§611 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 611 of this title and Tables.
+Section 25A of the Federal Reserve Act, referred to in subsec. (a)(7)(A)(ii), (8)(B), popularly known as the Edge Act, is classified to subchapter II (§611 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 611 of this title and Tables.
 
 #### Amendments
+
+1999—Subsec. (a)(7). Pub. L. 106–102 amended heading and text of par. (7) generally. Prior to amendment, text read as follows: “Notwithstanding paragraphs (1) and (2), a foreign bank may, with the approval of the Board and the Comptroller of the Currency, establish and operate a Federal branch or Federal agency or, with the approval of the Board and the appropriate State bank supervisor, a State branch or State agency in any State outside the foreign bank's home State if—
+
+“(A) the establishment and operation of a branch or agency is expressly permitted by the State in which the branch or agency is to be established; and
+
+“(B) in the case of a Federal or State branch, the branch receives only such deposits as would be permissible for a corporation organized under section 25A of the Federal Reserve Act.”
 
 1994—Subsec. (a). Pub. L. 103–328, §§104(a), 107(f), inserted heading and substituted provisions consisting of pars. (1) to (9) for former provisions relating to limitations on interstate banking by foreign banks.
 

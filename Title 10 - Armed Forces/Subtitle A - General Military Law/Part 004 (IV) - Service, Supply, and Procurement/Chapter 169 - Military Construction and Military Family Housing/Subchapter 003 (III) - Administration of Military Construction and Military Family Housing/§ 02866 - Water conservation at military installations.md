@@ -40,7 +40,7 @@ Water Conservation Construction Projects.—(1) The Secretary of Defense may car
 
 Use of Water Cost Savings.—Water cost savings realized under this section shall be used as provided in section 2865(b)(2) of this title.”
 
-1996—Subsec. (c)(2). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees onArmed Services and Appropriations of the Senate and House of Representatives”.
+1996—Subsec. (c)(2). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees on Armed Services and Appropriations of the Senate and House of Representatives”.
 
 #### Retention of Savings and Rebates
 

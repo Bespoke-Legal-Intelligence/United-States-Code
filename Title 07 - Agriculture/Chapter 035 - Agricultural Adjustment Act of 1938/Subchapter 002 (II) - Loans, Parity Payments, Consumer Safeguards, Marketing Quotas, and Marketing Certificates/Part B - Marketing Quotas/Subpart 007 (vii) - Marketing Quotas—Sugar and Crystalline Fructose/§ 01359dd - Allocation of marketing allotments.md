@@ -10,7 +10,7 @@
 
 #### (A) Cane sugar
 
-&emsp;&emsp;The Secretary shall make allocations for cane sugar after a hearing, if requested by interested parties, and on such notice as theSecretary by regulation may prescribe, in such manner and in such quantities as to provide a fair, efficient, and equitable distribution of the allocations by taking into consideration processing capacity, past marketings of sugar, and the ability of each processor to market sugar covered by that portion of the allotment allocated. Each such allocation shall be subject to adjustment under section 1359cc(g) of this title.
+&emsp;&emsp;The Secretary shall make allocations for cane sugar after a hearing, if requested by interested parties, and on such notice as the Secretary by regulation may prescribe, in such manner and in such quantities as to provide a fair, efficient, and equitable distribution of the allocations by taking into consideration processing capacity, past marketings of sugar, and the ability of each processor to market sugar covered by that portion of the allotment allocated. Each such allocation shall be subject to adjustment under section 1359cc(g) of this title.
 
 #### (B) Beet sugar
 

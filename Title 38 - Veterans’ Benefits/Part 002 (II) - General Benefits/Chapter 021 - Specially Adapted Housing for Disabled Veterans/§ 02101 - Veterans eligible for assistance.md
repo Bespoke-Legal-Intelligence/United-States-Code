@@ -1,6 +1,6 @@
 ### §2101. Veterans eligible for assistance
 
-(a) The Secretary is authorized, under such regulations as the Secretary may prescribe, toassist any veteran who is entitled to compensation under chapter 11 of this title for permanent and total service-connected disability—
+(a) The Secretary is authorized, under such regulations as the Secretary may prescribe, to assist any veteran who is entitled to compensation under chapter 11 of this title for permanent and total service-connected disability—
 
 &emsp;(1) due to the loss, or loss of use, of both lower extremities, such as to preclude locomotion without the aid of braces, crutches, canes, or a wheelchair, or
 

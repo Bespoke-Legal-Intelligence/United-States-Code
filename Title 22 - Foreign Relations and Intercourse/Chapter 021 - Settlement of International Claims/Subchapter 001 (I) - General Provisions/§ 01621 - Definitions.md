@@ -26,6 +26,10 @@ References to this subchapter deemed to include section 119 of H.R. 2076, see se
 
 Act Aug. 9, 1955, §2, substituted “subchapter” for “chapter” in opening phrase.
 
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–155, §1, Dec. 9, 1999, 113 Stat. 1740, provided that: “This Act \[amending provisions set out as a note below\] may be cited as the ‘U.S. Holocaust Assets Commission Extension Act of 1999’.”
+
 #### Short Title
 
 Section 1 of act Mar. 10, 1950, provided that: “This Act \[enacting this chapter\] may be cited as the ‘International Claims Settlement Act of 1949’.”
@@ -44,7 +48,7 @@ Section 9 of act Mar. 10, 1950, provided that: “There is hereby authorized to 
 
 #### United States Holocaust Assets Commission
 
-Pub. L. 105–186, June 23, 1998, 112 Stat. 611, provided that:
+Pub. L. 105–186, June 23, 1998, 112 Stat. 611, as amended by Pub. L. 106–155, §2, Dec. 9, 1999, 113 Stat. 1740, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -208,7 +212,7 @@ Reports.—
 
 &emsp;“(1)
 
-Submission to the president.—Not later than December 31, 1999, the Commission shall submit a final report to the President that shall contain any recommendations for such legislative, administrative, or other action as it deems necessary or appropriate. The Commission may submit interim reports to the President as it deems appropriate.
+Submission to the president.—Not later than December 31, 2000, the Commission shall submit a final report to the President that shall contain any recommendations for such legislative, administrative, or other action as it deems necessary or appropriate. The Commission may submit interim reports to the President as it deems appropriate.
 
 &emsp;“(2)
 
@@ -352,5 +356,5 @@ Public Attendance.—To the maximum extent practicable, each meeting of the Comm
 
 #### “SEC. 9. AUTHORIZATION OF APPROPRIATIONS.
 
-“There are authorized to be appropriated not more than $3,500,000, in total, for the interagency funding of activities of the Commission under this Act for fiscal years 1998, 1999, and 2000, of which, notwithstanding section 1346 of title 31, United States Code, and section 611 of the Treasury and General Government Appropriations Act, 1998 \[Pub. L. 105–61, 111 Stat. 1310\], $537,000 shall be made available in equal amounts from funds made available for fiscal year 1998 to the Departments of Justice, State, and the Army that are otherwise unobligated. Funds made available to the Commission pursuant to this section shall remain available for obligation until December 31, 1999.”
+“There are authorized to be appropriated not more than $6,000,000, in total, for the interagency funding of activities of the Commission under this Act for fiscal years 1998, 1999, 2000, and 2001, of which, notwithstanding section 1346 of title 31, United States Code, and section 611 of the Treasury and General Government Appropriations Act, 1998 \[Pub. L. 105–61, 111 Stat. 1310\], $537,000 shall be made available in equal amounts from funds made available for fiscal year 1998 to the Departments of Justice, State, and the Army that are otherwise unobligated. Funds made available to the Commission pursuant to this section shall remain available for obligation until December 31, 1999.”
 

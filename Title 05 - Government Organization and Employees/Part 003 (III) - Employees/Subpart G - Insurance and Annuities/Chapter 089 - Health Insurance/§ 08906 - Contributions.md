@@ -266,5 +266,5 @@ Election of health benefits within sixty days after July 18, 1966, by certain em
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8906a, 8909 of this title; title 40 section 214c; title 42 sections 1395s, 2297h–8; title 45 section 1212.
+This section is referred to in sections 8906a, 8909 of this title; title 10 section 1108; title 40 section 214c; title 42 sections 1395s, 2297h–8; title 45 section 1212.
 

@@ -44,7 +44,7 @@ For purposes of this section—
 
 &emsp;(3) The term “low sulfur coal” means coal which, in a quantity necessary to produce one million British thermal units, does not contain sulfur or sulfur compounds the elemental sulfur content of which exceeds 0.6 pound. Sulfur content shall be determined after the application of any coal preparation process which takes place before sale of the coal by the producer.
 
-&emsp;(4) The term “developing new underground coal mine” includes expansion of any existing underground coal mine in a manner designed to increase the rate of production of such mine, and the reopening of any underground coal mine which had previously been closed. Such term also includes construction of a coalpreparation plant which is designed to reduce the sulfur content of coal produced from any coal mine.
+&emsp;(4) The term “developing new underground coal mine” includes expansion of any existing underground coal mine in a manner designed to increase the rate of production of such mine, and the reopening of any underground coal mine which had previously been closed. Such term also includes construction of a coal preparation plant which is designed to reduce the sulfur content of coal produced from any coal mine.
 
 #### (d) Rules and regulations
 
@@ -58,7 +58,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### (e) Recordkeeping
 
-Each person who receives a loan guarantee under this section shall keep such records as the Secretary or the Secretary of the Treasury shall require, including records which fully disclose the total cost of the project for which a loan is guaranteed under this section and such other records as the Secretary or the Secretary of the Treasury determines necessary to facilitate an effective audit and performance evaluation. The Secretary, the Secretary of the Treasury, and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any pertinent books, documents, papers, and records of any person who receives a loan guarantee under this section.
+Each person who receives a loan guarantee under this section shall keep such records as the Secretary or the Secretary of the Treasury shall require, including records which fully disclose the total cost of the project for which a loan isguaranteed under this section and such other records as the Secretary or the Secretary of the Treasury determines necessary to facilitate an effective audit and performance evaluation. The Secretary, the Secretary of the Treasury, and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any pertinent books, documents, papers, and records of any person who receives a loan guarantee under this section.
 
 (Pub. L. 94–163, title I, §102, Dec. 22, 1975, 89 Stat. 876; Pub. L. 94–385, title I, §164, Aug. 14, 1976, 90 Stat. 1142; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 95–620, title VIII, §802, Nov. 9, 1978, 92 Stat. 3347.)
 

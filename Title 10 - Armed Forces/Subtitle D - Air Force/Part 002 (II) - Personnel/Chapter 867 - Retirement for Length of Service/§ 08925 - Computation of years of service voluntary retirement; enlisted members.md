@@ -32,7 +32,7 @@ Mar. 2, 1907, ch. 2515, §1 (proviso), 34 Stat. 1218.
 
 Aug. 10, 1946, ch. 952, §6(b), 60 Stat. 996.
 
-In subsection (a), the words “active service” are substituted for the word “service”, in 10:947, and “active Federal service performed”, in 10:958, for uniformity. The words “service computed under section 8683 of thistitle” are inserted, since a person entitled to count service under that revised section might cease to be a nurse or woman medical specialist and thereafter become entitled to retire under one of the revised sections referred to in subsection (a) of this revised section.
+In subsection (a), the words “active service” are substituted for the word “service”, in 10:947, and “active Federal service performed”, in 10:958, for uniformity. The words “service computed under section 8683 of this title” are inserted, since a person entitled to count service under that revised section might cease to be a nurse or woman medical specialist and thereafter become entitled to retire under one of the revised sections referred to in subsection (a) of this revised section.
 
 Subsection (b) is inserted because of section 8638 of this title and in accordance with long standing interpretation of the effect of 10:629 upon the computation of years of service for retirement.
 

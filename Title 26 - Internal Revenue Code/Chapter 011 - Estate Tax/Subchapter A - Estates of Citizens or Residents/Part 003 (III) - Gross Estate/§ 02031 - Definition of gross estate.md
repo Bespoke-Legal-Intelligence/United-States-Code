@@ -20,7 +20,7 @@ In the case of stock and securities of a corporation the value of which, by reas
 
 #### (2) Applicable percentage
 
-&emsp;For purposes of paragraph (1), the term “applicable percentage” means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservationeasement is less than 30 percent of the value of the land <sup>1</sup> (determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5)).
+&emsp;For purposes of paragraph (1), the term “applicable percentage” means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservation easement is less than 30 percent of the value of the land <sup>1</sup> (determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5)).
 
 #### (3) Exclusion limitation
 
@@ -126,7 +126,7 @@ $500,000.
 
 &emsp;&emsp;&emsp;&emsp;(I) in or within 25 miles of an area which, on the date of the decedent's death, is a metropolitan area (as defined by the Office of Management and Budget),
 
-&emsp;&emsp;&emsp;&emsp;(II) in or within 25 miles of an area which, on the date of the decedent's death, is a national park or wilderness area designated as part of the National Wilderness Preservation System (unless it is determined by the Secretary thatland in or within 25 miles of such a park or wilderness area is not under significant development pressure), or
+&emsp;&emsp;&emsp;&emsp;(II) in or within 25 miles of an area which, on the date of the decedent's death, is a national park or wilderness area designated as part of the National Wilderness Preservation System (unless it is determined by the Secretary that land in or within 25 miles of such a park or wilderness area is not under significant development pressure), or
 
 &emsp;&emsp;&emsp;&emsp;(III) in or within 10 miles of an area which, on the date of the decedent's death, is an Urban National Forest (as designated by the Forest Service),
 
@@ -206,7 +206,7 @@ Section 18(b) of Pub. L. 87–834 provided that:
 
 &emsp;“(C) under section 2041(a) to the extent that before February 1, 1962, such property or interest was subject to a general power of appointment (as defined in section 2041) possessed by the decedent.
 
-> In the case of real property, or an interest therein, situated outside of the United States (including a general power of appointment in respect of such property or interest, and including property held by the decedent and the survivor in a joint tenancy or tenancy by the entirety) which was acquired by the decedent after January 31, 1962, by gift within the meaning of section 2511, or from a prior decedent by devise or inheritance, or by reason of death, form of ownership, or other conditions (including the exercise or nonexercise of a power of appointment), for purposes of this paragraph such property or interest therein shall be deemed to have been acquired by the decedent before February 1, 1962, if before that date the donor or prior decedent had acquiredthe property or his interest therein or had possessed a power of appointment in respect of the property or interest.”
+> In the case of real property, or an interest therein, situated outside of the United States (including a general power of appointment in respect of such property or interest, and including property held by the decedent and the survivor in a joint tenancy or tenancy by the entirety) which was acquired by the decedent after January 31, 1962, by gift within the meaning of section 2511, or from a prior decedent by devise or inheritance, or by reason of death, form of ownership, or other conditions (including the exercise or nonexercise of a power of appointment), for purposes of this paragraph such property or interest therein shall be deemed to have been acquired by the decedent before February 1, 1962, if before that date the donor or prior decedent had acquired the property or his interest therein or had possessed a power of appointment in respect of the property or interest.”
 
 #### Cross References
 

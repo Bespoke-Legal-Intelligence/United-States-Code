@@ -68,7 +68,7 @@ For the purpose of subsection (a)(4) of this section—
 
 #### (c) Special repayment rules
 
-Except as provided in subsection (a)(2)(H) of this section, the total of the payments by a borrower during any year of any repayment period with respect to the aggregate amount of all loans to that borrower which are insured under this part shall not, unless the borrower and the lender otherwise agree, be less than $600 or the balance of all such loans (together with interest thereon), whichever amount is less (but in no instance less than the amount of interest due and payable).
+Except as provided in subsection (a)(2)(H) of this section, the total of the payments by a borrower during any year of any repayment period with respect to the aggregate amount of all loans to that borrower which are insured underthis part shall not, unless the borrower and the lender otherwise agree, be less than $600 or the balance of all such loans (together with interest thereon), whichever amount is less (but in no instance less than the amount of interest due and payable).
 
 #### (d) Borrower information
 
@@ -78,7 +78,7 @@ The lender shall obtain the borrower's driver's license number, if any, at the t
 
 #### Prior Provisions
 
-A prior section 1077, Pub. L. 89–329, title IV, §427, Nov. 8, 1965, 79 Stat. 1238; Pub. L. 89–794, title XI, §1101(b)(1), Nov. 8, 1966, 80 Stat. 1476; Pub. L. 90–460, §2(a)(1), Aug. 3, 1968, 82 Stat. 635; Pub. L. 90–575, title I, §§113(b)(2), 116(b)(2), 117(c), 120(c)(2), Oct. 16, 1968, 82 Stat. 1021, 1023, 1026, 1027; Pub. L. 92–318, title I, §§132B(b), 132C(c), June 23, 1972, 86 Stat. 262, 263; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2106; Pub. L. 95–43, §1(a)(9), (18), June 15, 1977, 91 Stat. 213, 214; Pub. L. 95–566, §5(a)(1), Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–374, title IV,§§413(a), (c), 415(a)(2), (b)(1), 416(a)(2), 423(a)(1), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1417–1421, 1432, 1503; Pub. L. 97–35, title V, §537(b)(1), (d)(2), (e)(1), Aug. 13, 1981, 95 Stat. 456, 457; Pub. L. 98–79, §10\[(a)\], Aug. 15, 1983, 97 Stat. 484; Pub. L. 99–272, title XVI, §§16012(a), 16013(b), 16017(b)(1), Apr. 7, 1986, 100 Stat. 339, 340, 347, set out conditions for Federal loan insurance, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1077, Pub. L. 89–329, title IV, §427, Nov. 8, 1965, 79 Stat. 1238; Pub. L. 89–794, title XI, §1101(b)(1), Nov. 8, 1966, 80 Stat. 1476; Pub. L. 90–460, §2(a)(1), Aug. 3, 1968, 82 Stat. 635; Pub. L. 90–575, title I, §§113(b)(2), 116(b)(2), 117(c), 120(c)(2), Oct. 16, 1968, 82 Stat. 1021, 1023, 1026, 1027; Pub. L. 92–318, title I, §§132B(b), 132C(c), June 23, 1972, 86 Stat. 262, 263; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2106; Pub. L. 95–43, §1(a)(9), (18), June 15, 1977, 91 Stat. 213, 214; Pub. L. 95–566, §5(a)(1), Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–374, title IV, §§413(a), (c), 415(a)(2), (b)(1), 416(a)(2), 423(a)(1), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1417–1421, 1432, 1503; Pub. L. 97–35, title V, §537(b)(1), (d)(2), (e)(1), Aug. 13, 1981, 95 Stat. 456, 457; Pub. L. 98–79, §10\[(a)\], Aug. 15, 1983, 97 Stat. 484; Pub. L. 99–272, title XVI, §§16012(a), 16013(b), 16017(b)(1), Apr. 7, 1986, 100 Stat. 339, 340, 347, set out conditions for Federal loan insurance, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made in subsec. (a)(2)(C), relating to deferments, applicable with respect to loans for which first disbursement is made on or after July 1, 1993, to an individual who is a new borrower on date such individual applies for a loan, and except that changes made in subsec. (a)(2)(H), relating to offering graduated or income sensitive repayment options, applicable with respect to loans for which first disbursement is made on or after July 1, 1993, to an individual who is a new borrower on date such individual applies for a loan, see section 432 of Pub. L. 102–325, set out as a note under section 1078 of this title.
+Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made in subsec. (a)(2)(C), relatingto deferments, applicable with respect to loans for which first disbursement is made on or after July 1, 1993, to an individual who is a new borrower on date such individual applies for a loan, and except that changes made in subsec. (a)(2)(H), relating to offering graduated or income sensitive repayment options, applicable with respect to loans for which first disbursement is made on or after July 1, 1993, to an individual who is a new borrower on date such individual applies for a loan, see section 432 of Pub. L. 102–325, set out as a note under section 1078 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -134,7 +134,7 @@ Section 2004(c) of Pub. L. 101–239 provided that: “The amendments made by th
 
 #### Effective Date of 1988 Amendment
 
-Section 11(b) of Pub. L. 100–369 provided that: “The amendments made by subsection (a) \[amending thissection and section 1078 of this title\] and section 10(b) of the Higher Education Technical Amendments Act of 1987 \[section 10(b) of Pub. L. 100–50, amending this section and section 1078 of this title\] shall apply with respect to loans made, insured or guaranteed under part B of the Higher Education Act of 1965 \[probably means part B of title IV of Pub. L. 89–329 which is classified to this part\], on, before, or after the date of enactment of the Higher Education Technical Amendments Act of 1987 \[June 3, 1987\].”
+Section 11(b) of Pub. L. 100–369 provided that: “The amendments made by subsection (a) \[amending this section and section 1078 of this title\] and section 10(b) of the Higher Education Technical Amendments Act of 1987 \[section 10(b) of Pub. L. 100–50, amending this section and section 1078 of this title\] shall apply with respect to loans made, insured or guaranteed under part B of the Higher Education Act of 1965 \[probably means part B of title IV of Pub. L. 89–329 which is classified to this part\], on, before, or after the date of enactment of the Higher Education Technical Amendments Act of 1987 \[June 3, 1987\].”
 
 Amendment by section 5(b)(1) of Pub. L. 100–369 effective with respect to loans made on or after Oct. 1, 1988, and amendment by section 7(c) of Pub. L. 100–369 effective July 18, 1988, see section 13(b) of Pub. L. 100–369, set out as a note under section 1091 of this title.
 

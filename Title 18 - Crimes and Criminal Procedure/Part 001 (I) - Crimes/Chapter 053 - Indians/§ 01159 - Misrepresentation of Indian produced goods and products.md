@@ -22,7 +22,7 @@
 
 &emsp;(4) the term “Indian arts and crafts organization” means any legally established arts and crafts marketing organization composed of members of Indian tribes.
 
-(d) In the event that any provision of this section is held invalid, it is the intent of Congress that the remaining provisions of this section shall continue in full force and effect.
+(d) In the event that any provision of this section is held invalid, it is the intent of Congressthat the remaining provisions of this section shall continue in full force and effect.
 
 (June 25, 1948, ch. 645, 62 Stat. 759; Pub. L. 101–644, title I, §104(a), Nov. 29, 1990, 104 Stat. 4663.)
 
@@ -44,7 +44,7 @@ Minor changes were made in phraseology.
 
 #### Certification of Indian Artisans
 
-For purposes of this section, an Indian tribe may not impose fee to certify individual as Indian artisan, with“Indian tribe” having same meaning as in subsec. (c)(3) of this section, see section 107 of Pub. L. 101–644, set out as a note under section 305e of Title 25, Indians.
+For purposes of this section, an Indian tribe may not impose fee to certify individual as Indian artisan, with “Indian tribe” having same meaning as in subsec. (c)(3) of this section, see section 107 of Pub. L. 101–644, set out as a note under section 305e of Title 25, Indians.
 
 #### Admission of Alaska as State
 

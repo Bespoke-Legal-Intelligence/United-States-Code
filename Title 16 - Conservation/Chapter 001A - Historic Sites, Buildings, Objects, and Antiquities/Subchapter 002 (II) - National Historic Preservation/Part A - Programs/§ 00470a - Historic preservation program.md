@@ -2,7 +2,7 @@
 
 #### (a) National Register of Historic Places; designation of properties as historic landmarks; properties deemed included; criteria; nomination of properties by States, local governments or individuals; regulations; review of threats to properties
 
-(1)(A) The Secretary of the Interior is authorized to expand and maintain a National Register of Historic Places composed of districts, sites, buildings, structures, and objects significant in American history, architecture, archeology, engineering, and culture.
+(1)(A) The Secretary of the Interior is authorized to expand and maintain a National Register of Historic Places composed of districts, sites, buildings, structures, and objects significant in American history, architecture, archeology, engineering, and culture. Notwithstanding section 1125(c) of title 15, buildings and structures on or eligible for inclusion on the National Register of Historic Places (either individually or as part of a historic district), or designated as an individual landmark or as a contributing building in a historic district by a unit of State or local government, may retain the name historically associated with the building or structure.
 
 (B) Properties meeting the criteria for National Historic Landmarks established pursuant to paragraph (2) shall be designated as “National Historic Landmarks” and included on the National Register, subject to the requirements of paragraph (6). All historic properties included on the National Register on December 12, 1980, shall be deemed to be included on the National Register as of their initial listing for purposes of this subchapter. All historic properties listed in the Federal Register of February 6, 1979, as “National Historic Landmarks” or thereafter prior to the effective date of this Act are declared by Congress to be National Historic Landmarks of national historic significance as of their initial listing as such in the Federal Register for purposes of this subchapter and sections 461 to 467 of this title; except that in cases of National Historic Landmark districts for which no boundaries have been established, boundaries must first be published in the Federal Register.
 
@@ -22,7 +22,7 @@
 
 (3) Subject to the requirements of paragraph (6), any State which is carrying out a program approved under subsection (b) of this section, shall nominate to the Secretary properties which meet the criteria promulgated under subsection (a) of this section for inclusion on the National Register. Subject to paragraph (6), and any property nominated under this paragraph or under section 470h–2(a)(2) of this title shall be included on the National Register on the date forty-five days after receipt by the Secretary of the nomination and the necessary documentation, unless the Secretary disapproves such nomination within such forty-five day period or unless an appeal is filed under paragraph (5).
 
-(4) Subject to the requirements of paragraph (6) the Secretary may accept a nomination directly from any person or local government for inclusion of a property on the National Register only if such property is located in a State where there is no program approved under subsection (b) of this section. The Secretary may include on the National Register any property for whichsuch a nomination is made if he determines that such property is eligible in accordance with the regulations promulgated under paragraph (2). Such determination shall be made within ninety days from the date of the nomination unless the nomination is appealed under paragraph (5).
+(4) Subject to the requirements of paragraph (6) the Secretary may accept a nomination directly from any person or local government for inclusion of a property on the National Register only if such property is located in a State where there is no program approved under subsection (b) of this section. The Secretary may include on the National Register any property for which such a nomination is made if he determines that such property is eligible in accordance with the regulations promulgated under paragraph (2). Such determination shall be made within ninety days from the date of the nomination unless the nomination is appealed under paragraph (5).
 
 (5) Any person or local government may appeal to the Secretary a nomination of any historic property for inclusion on the National Register and may appeal to the Secretary the failure or refusal of a nominating authority to nominate a property in accordance with this subsection.
 
@@ -134,7 +134,7 @@
 
 #### (c) Certification of local governments by State Historic Preservation Officer; transfer of portion of grants; certification by Secretary; nomination of properties by local governments for inclusion on National Register
 
-(1) Any State program approved under this section shall provide a mechanism for the certification by the State Historic Preservation Officer of local governments to carry out the purposes of this subchapter and provide for the transfer, in accordance with section 470c(c) of this title, of a portion of the grants received by the States under this subchapter, to such local governments. Any local government shall be certified to participate under the provisions ofthis section if the applicable State Historic Preservation Officer, and the Secretary, certifies that the local government—
+(1) Any State program approved under this section shall provide a mechanism for the certification by the State Historic Preservation Officer of local governments to carry out the purposes of this subchapter and provide for the transfer, in accordance with section 470c(c) of this title, of a portion of the grants received by the States under this subchapter, to such local governments. Any local government shall be certified to participate under the provisions of this section if the applicable State Historic Preservation Officer, and the Secretary, certifies that the local government—
 
 &emsp;(A) enforces appropriate State or local legislation for the designation and protection of historic properties;
 
@@ -202,7 +202,7 @@
 
 &emsp;&emsp;(iii) the interested public.
 
-(5) The Council may enter into an agreement with an Indian tribe to permit undertakings on tribal land to be reviewed under tribal historic preservation regulations in place of review under regulations promulgated by the Council to govern compliance with section 470f of this title, if the Council, after consultation with the tribe and appropriate State Historic Preservation Officers, determines that the tribal preservation regulations will afford historic properties consideration equivalent to those afforded by the Council's regulations.
+(5) The Council may enter into an agreement with an Indian tribe to permit undertakings on tribal land to be reviewed under tribal historic preservation regulations in place of review under regulations promulgated by the Council to govern compliance with section 470f of this title, if the Council, after consultation with thetribe and appropriate State Historic Preservation Officers, determines that the tribal preservation regulations will afford historic properties consideration equivalent to those afforded by the Council's regulations.
 
 (6)(A) Properties of traditional religious and cultural importance to an Indian tribe or Native Hawaiian organization may be determined to be eligible for inclusion on the National Register.
 
@@ -240,7 +240,7 @@
 
 (5) The Secretary shall administer a program of direct grants to Indian tribes and Native Hawaiian organizations for the purpose of carrying out this subchapter as it pertains to Indian tribes and Native Hawaiian organizations. Matching fund requirements may be modified. Federal funds available to a tribe or Native Hawaiian organization may be used as matching funds for the purposes of the tribe's or organization's conducting its responsibilities pursuant to this section.
 
-(6)(A) As part of the program of matching grant assistance from the Historic Preservation Fund to States, the Secretary shall administer a program of direct grants to the Federated States of Micronesia, the Republic of the Marshall Islands, the Trust Territory of the Pacific Islands, and upon termination of the Trusteeship Agreement for the Trust Territory of the Pacific Islands, the Republic of Palau (referred to as the Micronesian States) in furtherance of the Compact of Free Association between the United States and the Federated States of Micronesia and the Marshall Islands, approved by the Compact of Free Association Act of 1985 \[48 U.S.C. 1901 et seq., 2001 et seq.\], the Trusteeship Agreement for the Trust Territory of the Pacific Islands, and the Compact of Free Association between the United States and Palau, approved by the Joint Resolution entitled “Joint Resolution to approve the ‘Compact of Free Association’ between the United States and Government of Palau, and for other purposes” \[48 U.S.C. 1931 et seq.\]. The goal of the program shall be to establish historic and cultural preservation programs that meet the unique needs of each Micronesian State so that at the termination of the compacts the programs shall be firmly established. The Secretary may waive or modify the requirements of this section to conform to the cultural setting of those nations.
+(6)(A) As part of the program of matching grant assistance from the Historic Preservation Fund to States, the Secretary shall administer a program of direct grants to the Federated States of Micronesia, the Republic of the Marshall Islands, the Trust Territory of the Pacific Islands, and upon termination of the Trusteeship Agreement for the Trust Territory of the Pacific Islands, the Republic of Palau (referred to as the Micronesian States) in furtherance of the Compact of Free Association between the United States and the Federated States of Micronesia and the Marshall Islands, approved by the Compact of Free Association Act of 1985 \[48 U.S.C. 1901 et seq., 2001 et seq.\], the Trusteeship Agreement for the Trust Territory of the Pacific Islands, and the Compact of Free Association between the United States and Palau, approved by the Joint Resolution entitled “Joint Resolution to approve the ‘Compact of Free Association’ between the United States and Government ofPalau, and for other purposes” \[48 U.S.C. 1931 et seq.\]. The goal of the program shall be to establish historic and cultural preservation programs that meet the unique needs of each Micronesian State so that at the termination of the compacts the programs shall be firmly established. The Secretary may waive or modify the requirements of this section to conform to the cultural setting of those nations.
 
 (B) The amounts to be made available to the Micronesian States shall be allocated by the Secretary on the basis of needs as determined by the Secretary. Matching funds may be waived or modified.
 
@@ -280,7 +280,7 @@ The Secretary shall develop and make available to Federal agencies, State and lo
 
 &emsp;&emsp;(iii) support for research, analysis, conservation, curation, interpretation, and display related to preservation.
 
-(Pub. L. 89–665, title I, §101, Oct. 15, 1966, 80 Stat. 915; Pub. L. 93–54, §1(d), July 1, 1973, 87 Stat. 139; Pub. L. 91–383, §11, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1942; amended Pub. L. 96–205, title VI, §608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, §201(a), Dec. 12, 1980, 94 Stat. 2988; Pub. L. 102–575, title XL, §§4003–4006(a), 4007, 4008, Oct. 30, 1992, 106 Stat. 4753–4755, 4758; Pub. L. 103–437, §6(d)(29), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, §814(d)(2)(F), Nov. 12, 1996, 110 Stat. 4196.)
+(Pub. L. 89–665, title I, §101, Oct. 15, 1966, 80 Stat. 915; Pub. L. 93–54, §1(d), July 1, 1973, 87 Stat. 139; Pub. L. 91–383, §11, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1942; amended Pub. L. 96–205, title VI, §608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, §201(a), Dec. 12, 1980, 94 Stat. 2988; Pub. L. 102–575, title XL, §§4003–4006(a), 4007, 4008, Oct. 30, 1992, 106 Stat. 4753–4755, 4758; Pub. L. 103–437, §6(d)(29), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, §814(d)(2)(F), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3007\], Nov. 29, 1999, 113 Stat. 1536, 1501A–551.)
 
 #### References in Text
 
@@ -297,6 +297,8 @@ The Compact of Free Association Act of 1985, referred to in subsec. (e)(6)(A), i
 The Joint Resolution entitled “Joint Resolution to approve the ‘Compact of Free Association’ between the United States and Government of Palau, and for other purposes”, referred to in subsec. (e)(6)(A), is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672, as amended, which is classified generally to part A (§1931 et seq.) of subchapter II of chapter 18 of Title 48. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1999—Subsec. (a)(1)(A). Pub. L. 106–113 inserted at end “Notwithstanding section 1125(c) of title 15, buildings and structures on or eligible for inclusion on the National Register of Historic Places (either individually or as part of a historic district), or designated as an individual landmark or as a contributing building in ahistoric district by a unit of State or local government, may retain the name historically associated with the building or structure.”
 
 1996—Subsec. (a)(1)(B). Pub. L. 104–333 inserted period after “published in the Federal Register” and struck out at end “and submitted to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Natural Resources of the United States House of Representatives.”
 
@@ -341,6 +343,10 @@ Subsecs. (c) to (h). Pub. L. 96–515 added subsecs. (c) to (h).
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands and the Trusteeship Agreement, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+#### Recovery of Fees for Review Services for Historic Preservation Tax Certification
+
+Pub. L. 106–113, div. B, §1000(a)(3) \[title I\], Nov. 29, 1999, 113 Stat. 1535, 1501A–142, provided in part: “That notwithstanding any other provision of law, the National Park Service may hereafter recover all fees derived from providing necessary review services associated with historic preservation tax certification, and such funds shall be available until expended without further appropriation for the costs of such review services”.
 
 #### Women's Progress Commemoration
 

@@ -78,5 +78,5 @@ Section effective Sept. 1, 1973, see section 501 of Pub. L. 93–82, set out as 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1701, 8111, 8502, 8520, 8521 of this title; title 42 section 1395cc.
+This section is referred to in sections 103, 1701, 8111, 8502, 8520, 8521 of this title; title 42 section 1395cc.
 

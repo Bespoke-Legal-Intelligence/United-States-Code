@@ -10,7 +10,7 @@
 
 #### Change of Name
 
-Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Environmental Science Services Administration abolished in 1970 and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic Atmospheric Administration, 35 F.R. 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. Seenotes set out under section 311 of Title 15, Commerce and Trade.
+Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Environmental Science Services Administration abolished in 1970 and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic Atmospheric Administration, 35 F.R. 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. See notes set out under section 311 of Title 15, Commerce and Trade.
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
@@ -22,7 +22,7 @@ Functions of all officers of Department of Commerce and functions of all officer
 
 #### Tributaries
 
-Act Mar. 3, 1881, ch. 136, 21 Stat. 474, provided in part as follows: “It shall be the duty of said commission to take into consideration, and of the Secretary of War \[now Secretary of the Army\] to extend operations, under their supervision, to tributaries of the Mississippi River to the extent, and not further, that may be necessary in the judgment of said commission to the perfection of the general and permanent improvement of said Mississippi River.”
+Act Mar. 3, 1881, ch. 136, 21 Stat. 474, provided in part as follows: “It shall be the duty of said commission totake into consideration, and of the Secretary of War \[now Secretary of the Army\] to extend operations, under their supervision, to tributaries of the Mississippi River to the extent, and not further, that may be necessary in the judgment of said commission to the perfection of the general and permanent improvement of said Mississippi River.”
 
 #### Cross References
 

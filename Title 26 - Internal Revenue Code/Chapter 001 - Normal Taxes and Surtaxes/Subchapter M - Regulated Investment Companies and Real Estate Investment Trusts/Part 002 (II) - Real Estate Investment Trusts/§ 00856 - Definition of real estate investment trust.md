@@ -36,7 +36,7 @@ A corporation, trust, or association shall not be considered a real estate inves
 
 &emsp;&emsp;(C) rents from real property;
 
-&emsp;&emsp;(D) gain from the sale or other disposition of stock, securities, and real property (including interests in real property and interests in mortgages on real property) which is not property described in section 1221(1);
+&emsp;&emsp;(D) gain from the sale or other disposition of stock, securities, and real property (including interests in real property and interests in mortgages on real property) which is not property described in section 1221(a)(1);
 
 &emsp;&emsp;(E) abatements and refunds of taxes on real property;
 
@@ -52,7 +52,7 @@ A corporation, trust, or association shall not be considered a real estate inves
 
 &emsp;&emsp;(B) interest on obligations secured by mortgages on real property or on interests in real property;
 
-&emsp;&emsp;(C) gain from the sale or other disposition of real property (including interests in real property and interests in mortgages on real property) which is not property described in section 1221(1);
+&emsp;&emsp;(C) gain from the sale or other disposition of real property (including interests in real property and interests in mortgages on real property) which is not property described in section 1221(a)(1);
 
 &emsp;&emsp;(D) dividends or other distributions on, and gain (other than gain from prohibited transactions) from the sale or other disposition of, transferable shares (or transferable certificates of beneficial interest) in other real estate investment trusts which meet the requirements of this part;
 
@@ -60,7 +60,7 @@ A corporation, trust, or association shall not be considered a real estate inves
 
 &emsp;&emsp;(F) income and gain derived from foreclosure property (as defined in subsection (e));
 
-&emsp;&emsp;(G) amounts (other than amounts the determination of which depends in whole or in part on the income or profits of any person) received or accrued as consideration for entering into agreements (i) to make loans secured by mortgages on real property or oninterests in real property or (ii) to purchase or lease real property (including interests in real property and interests in mortgages on real property);
+&emsp;&emsp;(G) amounts (other than amounts the determination of which depends in whole or in part on the income or profits of any person) received or accrued as consideration for entering into agreements (i) to make loans secured by mortgages on real property or on interests in real property or (ii) to purchase or lease real property (including interests in real property and interests in mortgages on real property);
 
 &emsp;&emsp;(H) gain from the sale or other disposition of a real estate asset which is not a prohibited transaction solely by reason of section 857(b)(6); and
 
@@ -70,9 +70,19 @@ A corporation, trust, or association shall not be considered a real estate inves
 
 &emsp;&emsp;(A) at least 75 percent of the value of its total assets is represented by real estate assets, cash and cash items (including receivables), and Government securities; and
 
-&emsp;&emsp;(B) not more than 25 percent of the value of its total assets is represented by securities (other than those includible under subparagraph (A)) for purposes of this calculation limited in respect of any one issuer to an amount not greater in value than 5 percent of the value of the total assets of the trust and to not more than 10 percent of the outstanding voting securities of such issuer.
+&emsp;&emsp;(B)(i) not more than 25 percent of the value of its total assets is represented by securities (other than those includible under subparagraph (A)),
 
-> &emsp;A real estate investment trust which meets the requirements of this paragraph at the close of any quarter shall not lose its status as a real estate investment trust because of a discrepancy during a subsequent quarter between the value of its various investments and such requirements unless such discrepancy exists immediately after the acquisition of any security or other property and is wholly or partly the result of such acquisition. A real estate investment trust which does not meet such requirements at the close of any quarter by reason of a discrepancy existing immediately after the acquisition of any security or other property which is wholly or partly the result of such acquisition during such quarter shall not lose its status for such quarter as a real estate investment trust if such discrepancy is eliminated within 30 days after the close of such quarter and in such cases it shall be considered to have met such requirements at the close of such quarter for purposes of applying the preceding sentence.
+&emsp;&emsp;(ii) not more than 20 percent of the value of its total assets is represented by securities of one or more taxable REIT subsidiaries, and
+
+&emsp;&emsp;(iii) except with respect to a taxable REIT subsidiary and securities includible under subparagraph (A)—
+
+&emsp;&emsp;&emsp;(I) not more than 5 percent of the value of its total assets is represented by securities of any one issuer,
+
+&emsp;&emsp;&emsp;(II) the trust does not hold securities possessing more than 10 percent of the total voting power of the outstanding securities of any one issuer, and
+
+&emsp;&emsp;&emsp;(III) the trust does not hold securities having a value of more than 10 percent of the total value of the outstanding securities of any one issuer.
+
+> &emsp;A real estate investment trust which meets the requirements of this paragraph at the close of any quarter shall not lose its status as a real estate investment trust because of a discrepancy during a subsequent quarter betweenthe value of its various investments and such requirements unless such discrepancy exists immediately after the acquisition of any security or other property and is wholly or partly the result of such acquisition. A real estate investment trust which does not meet such requirements at the close of any quarter by reason of a discrepancy existing immediately after the acquisition of any security or other property which is wholly or partly the result of such acquisition during such quarter shall not lose its status for such quarter as a real estate investment trust if such discrepancy is eliminated within 30 days after the close of such quarter and in such cases it shall be considered to have met such requirements at the close of such quarter for purposes of applying the preceding sentence.
 
 &emsp;(5) For purposes of this part—
 
@@ -112,7 +122,7 @@ New capital.—The term “new capital” means any amount received by the real 
 
 Treatment of certain hedging instruments.—Except to the extent provided by regulations, any—
 
-&emsp;&emsp;&emsp;(i) payment to a real estate investment trust under an interest rate swap or capagreement, option, futures contract, forward rate agreement, or any similar financial instrument, entered into by the trust in a transaction to reduce the interest rate risks with respect to any indebtedness incurred or to be incurred by the trust to acquire or carry real estate assets, and
+&emsp;&emsp;&emsp;(i) payment to a real estate investment trust under an interest rate swap or cap agreement, option, futures contract, forward rate agreement, or any similar financial instrument, entered into by the trust in a transaction to reduce the interest rate risks with respect to any indebtedness incurred or to be incurred by the trust to acquire or carry real estate assets, and
 
 &emsp;&emsp;&emsp;(ii) gain from the sale or other disposition of any such investment,
 
@@ -126,6 +136,16 @@ Treatment of certain hedging instruments.—Except to the extent provided by reg
 
 &emsp;&emsp;(C) the failure to meet the requirements of paragraph (2) or (3), or of both such paragraphs, is due to reasonable cause and not due to willful neglect.
 
+&emsp;(7)
+
+Straight debt safe harbor in applying paragraph (4).—Securities of an issuer whichare straight debt (as defined in section 1361(c)(5) without regard to subparagraph (B)(iii) thereof) shall not be taken into account in applying paragraph (4)(B)(ii)(III) <sup>1</sup> if—
+
+&emsp;&emsp;(A) the issuer is an individual, or
+
+&emsp;&emsp;(B) the only securities of such issuer which are held by the trust or a taxable REIT subsidiary of the trust are straight debt (as so defined), or
+
+&emsp;&emsp;(C) the issuer is a partnership and the trust holds at least a 20 percent profits interest in the partnership.
+
 #### (d) Rents from real property defined
 
 #### (1) Amounts included
@@ -138,7 +158,7 @@ Treatment of certain hedging instruments.—Except to the extent provided by reg
 
 &emsp;&emsp;(C) rent attributable to personal property which is leased under, or in connection with, a lease of real property, but only if the rent attributable to such personal property for the taxable year does not exceed 15 percent of the total rent for the taxable year attributable to both the real and personal property leased under, or in connection with, such lease.
 
-> &emsp;For purposes of subparagraph (C), with respect to each lease of real property, rent attributable to personal property for the taxable year is that amount which bears the same ratio to total rent for the taxable year as the average of the adjusted bases of the personal property at the beginning and at the end of the taxable year bears to the average of the aggregate adjusted bases of both the real property and the personal property at the beginning and at the end of such taxable year.
+> &emsp;For purposes of subparagraph (C), with respect to each lease of real property, rent attributable to personal property for the taxable year is that amount which bears the same ratio to total rent for the taxable year as the average of the fair market values of the personal property at the beginning and at the end of the taxable year bears to the average of the aggregate fair market values of both the real property and the personal property at the beginning and at the end of such taxable year.
 
 #### (2) Amounts excluded
 
@@ -146,9 +166,9 @@ Treatment of certain hedging instruments.—Except to the extent provided by reg
 
 &emsp;&emsp;(A) except as provided in paragraphs (4) and (6), any amount received or accrued, directly or indirectly, with respect to any real or personal property, if the determination of such amount depends in whole or in part on the income or profits derived by any person from such property (except that any amount so received or accrued shall not be excluded from the term “rents from real property” solely by reason of being based on a fixed percentage or percentages of receipts or sales);
 
-&emsp;&emsp;(B) any amount received or accrued directly or indirectly from any person if the real estate investment trust owns, directly or indirectly—
+&emsp;&emsp;(B) except as provided in paragraph (8), any amount received or accrued directly or indirectly from any person if the real estate investment trust owns, directly or indirectly—
 
-&emsp;&emsp;&emsp;(i) in the case of any person which is a corporation, stock of such person possessing 10 percent or more of the total combined voting power of all classes of stock entitled to vote, or 10 percent or more of the total number of shares of all classes of stock of such person; or
+&emsp;&emsp;&emsp;(i) in the case of any person which is a corporation, stock of such person possessing 10 percent or more of the total combined voting power of all classes of stock entitled to vote, or 10 percent or more of the total value of shares of all classes of stock of such person; or
 
 &emsp;&emsp;&emsp;(ii) in the case of any person which is not a corporation, an interest of 10 percent or more in the assets or net profits of such person; and
 
@@ -161,6 +181,8 @@ Treatment of certain hedging instruments.—Except to the extent provided by reg
 &emsp;&emsp;(A) who does not own, directly or indirectly, more than 35 percent of the shares, or certificates of beneficial interest, in the real estate investment trust; and
 
 &emsp;&emsp;(B) if such person is a corporation, not more than 35 percent of the total combined voting power of whose stock (or 35 percent of the total shares of all classes of whose stock), or, if such person is not a corporation, not more than 35 percent of the interest in whose assets or net profits is owned, directly or indirectly, by one or more persons owning 35 percent or more of the shares or certificates of beneficial interest in the trust.
+
+> &emsp;In the event that any class of stock of either the real estate investment trust or such person is regularly traded on an established securities market, only persons who own, directly or indirectly, more than 5 percent of such class of stock shall be taken into account as owning any of the stock of such class for purposes of applying the 35 percent limitation set forth in subparagraph (B) (but all of the outstanding stock of such class shall be considered outstanding in order to compute the denominator for purpose of determining the applicable percentage of ownership).
 
 #### (4) Special rule for certain contingent rents
 
@@ -210,7 +232,7 @@ Treatment of certain hedging instruments.—Except to the extent provided by reg
 
 &emsp;&emsp;For purposes of subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) services furnished or rendered, or management or operation provided, through an independent contractor from whom the trust itself does not derive or receive any income shall not be treated as furnished, rendered, or provided by the trust, and
+&emsp;&emsp;&emsp;(i) services furnished or rendered, or management or operation provided, through an independent contractor from whom the trust itself does not derive or receive any income or through a taxable REIT subsidiary of such trust shall not be treated as furnished, rendered, or provided by the trust, and
 
 &emsp;&emsp;&emsp;(ii) there shall not be taken into account any amount which would be excluded from unrelated business taxable income under section 512(b)(3) if received by an organization described in section 511(a)(2).
 
@@ -222,11 +244,81 @@ Treatment of certain hedging instruments.—Except to the extent provided by reg
 
 &emsp;&emsp;For purposes of paragraphs (2) and (3) of subsection (c), amounts described in subparagraph (A) shall be included in the gross income of the corporation, trust, or association.
 
+#### (8) Special rule for taxable REIT subsidiaries
+
+&emsp;For purposes of this subsection, amounts paid to a real estate investment trust by a taxable REIT subsidiary of such trust shall not be excluded from rents from real property by reason of paragraph (2)(B) if the requirements of either of the following subparagraphs are met:
+
+#### (A) Limited rental exception
+
+&emsp;&emsp;The requirements of this subparagraph are met with respect to any property if at least 90 percent of the leased space of the property is rented to persons other than taxable REIT subsidiaries of such trust and other than persons described in section 856(d)(2)(B). The preceding sentence shall apply only to the extent that the amounts paid to the trust as rents from real property (as defined in paragraph (1) without regard to paragraph (2)(B)) from such property are substantially comparable to such rents made by the other tenants of the trust's property for comparable space.
+
+#### (B) Exception for certain lodging facilities
+
+&emsp;&emsp;The requirements of this subparagraph are met with respect to an interest in real property which is a qualified lodging facility leased by the trust to a taxable REIT subsidiary of the trust if the property is operated on behalf of such subsidiary by a person who is an eligible independent contractor.
+
+#### (9) Eligible independent contractor
+
+&emsp;For purposes of paragraph (8)(B)—
+
+#### (A) In general
+
+&emsp;&emsp;The term “eligible independent contractor” means, with respect to any qualified lodging facility, any independent contractor if, at the time such contractor enters into a management agreement or other similar service contract with the taxable REIT subsidiary to operate the facility, such contractor (or any related person) is actively engaged in the trade or business of operating qualified lodging facilities for any person who is not a related person with respect to the real estate investment trust or the taxable REIT subsidiary.
+
+#### (B) Special rules
+
+&emsp;&emsp;Solely for purposes of this paragraph and paragraph (8)(B), a person shall not fail to be treated as an independent contractor with respect to any qualified lodging facility by reason of any of the following:
+
+&emsp;&emsp;&emsp;(i) The taxable REIT subsidiary bears the expenses for the operation of the facility pursuant to the management agreement or other similar service contract.
+
+&emsp;&emsp;&emsp;(ii) The taxable REIT subsidiary receives the revenues from the operation of such facility, net of expenses for such operation and fees payable to the operator pursuant to such agreement or contract.
+
+&emsp;&emsp;&emsp;(iii) The real estate investment trust receives income from such person with respect to another property that is attributable to a lease of such other property to such person that was in effect as of the later of—
+
+&emsp;&emsp;&emsp;&emsp;(I) January 1, 1999, or
+
+&emsp;&emsp;&emsp;&emsp;(II) the earliest date that any taxable REIT subsidiary of such trust entered into a management agreement or other similar service contract with such person with respect to such qualified lodging facility.
+
+#### (C) Renewals, etc., of existing leases
+
+&emsp;&emsp;For purposes of subparagraph (B)(iii)—
+
+&emsp;&emsp;&emsp;(i) a lease shall be treated as in effect on January 1, 1999, without regard to its renewal after such date, so long as such renewal is pursuant to the terms of such lease as in effect on whichever of the dates under subparagraph (B)(iii) is the latest, and
+
+&emsp;&emsp;&emsp;(ii) a lease of a property entered into after whichever of the dates under subparagraph (B)(iii) is the latest shall be treated as in effect on such date if—
+
+&emsp;&emsp;&emsp;&emsp;(I) on such date, a lease of such property from the trust was in effect, and
+
+&emsp;&emsp;&emsp;&emsp;(II) under the terms of the new lease, such trust receives a substantially similar or lesser benefit in comparison to the lease referred to in subclause (I).
+
+#### (D) Qualified lodging facility
+
+&emsp;&emsp;For purposes of this paragraph—
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “qualified lodging facility” means any lodging facility unless wagering activities are conducted at or in connection with such facility by any person who is engaged in the business of accepting wagers and who is legally authorized to engage in such business at or in connection with such facility.
+
+#### (ii) Lodging facility
+
+&emsp;&emsp;&emsp;The term “lodging facility” means a hotel, motel, or other establishment more than one-half of the dwelling units in which are used on a transient basis.
+
+#### (iii) Customary amenities and facilities
+
+&emsp;&emsp;&emsp;The term “lodging facility” includes customary amenities and facilities operated as part of, or associated with, the lodging facility so long as such amenities and facilities are customary for other properties of a comparable size and class owned by other owners unrelated to such real estate investment trust.
+
+#### (E) Operate includes manage
+
+&emsp;&emsp;References in this paragraph to operating a property shall be treated as including a reference to managing the property.
+
+#### (F) Related person
+
+&emsp;&emsp;Persons shall be treated as related to each other if such persons are treated as a single employer under subsection (a) or (b) of section 52.
+
 #### (e) Special rules for foreclosure property
 
 #### (1) Foreclosure property defined
 
-&emsp;For purposes of this part, the term “foreclosure property” means any real property (including interests in real property), and any personal property incident to such real property, acquired by the real estate investment trust as the result of such trust having bid in such property at foreclosure, or having otherwise reduced such property to ownership or possession by agreement or process of law, after there was default (or default was imminent) on a lease of such property or on an indebtedness which such property secured. Such term does not include property acquired by the real estate investment trust as a result of indebtedness arising from the sale or other disposition of property of the trust described in section 1221(1) which was not originally acquired as foreclosure property.
+&emsp;For purposes of this part, the term “foreclosure property” means any real property (including interests in real property), and any personal property incident to such real property, acquired by the real estate investment trust as the result of such trust having bid in such property at foreclosure, or having otherwise reduced such property to ownership or possession by agreement or process of law, after there was default (or default was imminent) on a lease of such property or on an indebtedness which such property secured. Such term does not include property acquired by the real estate investment trust as a result of indebtedness arising from the sale or other disposition of property of the trust described in section 1221(a)(1) which was not originally acquired as foreclosure property.
 
 #### (2) Grace period
 
@@ -240,7 +332,7 @@ Treatment of certain hedging instruments.—Except to the extent provided by reg
 
 &emsp;Any foreclosure property shall cease to be such on the first day (occurring on or after the day on which the real estate investment trust acquired the property) on which—
 
-&emsp;&emsp;(A) a lease is entered into with respect to such property which, by its terms, will give rise to income which is not described in subsection (c)(3) (other than subparagraph (F) ofsuch subsection), or any amount is received or accrued, directly or indirectly, pursuant to a lease entered into on or after such day which is not described in such subsection,
+&emsp;&emsp;(A) a lease is entered into with respect to such property which, by its terms, will give rise to income which is not described in subsection (c)(3) (other than subparagraph (F) of such subsection), or any amount is received or accrued, directly or indirectly, pursuant to a lease entered into on or after such day which is not described in such subsection,
 
 &emsp;&emsp;(B) any construction takes place on such property (other than completion of a building, or completion of any other improvement, where more than 10 percent of the construction of such building or other improvement was completed before default became imminent), or
 
@@ -251,6 +343,50 @@ Treatment of certain hedging instruments.—Except to the extent provided by reg
 #### (5) Taxpayer must make election
 
 &emsp;Property shall be treated as foreclosure property for purposes of this part only if the real estate investment trust so elects (in the manner provided in regulations prescribed by the Secretary) on or before the due date (including any extensions of time) for filing its return of tax under this chapter for the taxable year in which such trust acquires such property. A real estate investment trust may revoke any such election for a taxable year by filing the revocation (in the manner provided by the Secretary) on or before the due date (including any extension of time) for filing its return of tax under this chapter for the taxable year. If a trust revokes an election for any property, no election may be made by the trust under this paragraph with respect to the property for any subsequent taxable year.
+
+#### (6) Special rule for qualified health care properties
+
+&emsp;For purposes of this subsection—
+
+#### (A) Acquisition at expiration of lease
+
+&emsp;&emsp;The term “foreclosure property” shall include any qualified health care property acquired by a real estate investment trust as the result of the termination of a lease of such property (other than a termination by reason of a default, or the imminence of a default, on the lease).
+
+#### (B) Grace period
+
+&emsp;&emsp;In the case of a qualified health care property which is foreclosure property solely by reason of subparagraph (A), in lieu of applying paragraphs (2) and (3)—
+
+&emsp;&emsp;&emsp;(i) the qualified health care property shall cease to be foreclosure property as of the close of the second taxable year after the taxable year in which such trust acquired such property, and
+
+&emsp;&emsp;&emsp;(ii) if the real estate investment trust establishes to the satisfaction of the Secretary that an extension of the grace period in clause (i) is necessary to the orderly leasing or liquidation of the trust's interest in such qualified health care property, the Secretary may grant one or more extensions of the grace period for such qualified health care property.
+
+> &emsp;&emsp;Any such extension shall not extend the grace period beyond the close of the 6th year after the taxable year in which such trust acquired such qualified health care property.
+
+#### (C) Income from independent contractors
+
+&emsp;&emsp;For purposes of applying paragraph (4)(C) with respect to qualified health care property which is foreclosure property by reason of subparagraph (A) or paragraph (1), income derived or received by the trust from an independent contractor shall be disregarded to the extent such income is attributable to—
+
+&emsp;&emsp;&emsp;(i) any lease of property in effect on the date the real estate investment trust acquired the qualified health care property (without regard to its renewal after such date so long as such renewal is pursuant to the terms of such lease as in effect on such date), or
+
+&emsp;&emsp;&emsp;(ii) any lease of property entered into after such date if—
+
+&emsp;&emsp;&emsp;&emsp;(I) on such date, a lease of such property from the trust was in effect, and
+
+&emsp;&emsp;&emsp;&emsp;(II) under the terms of the new lease, such trust receives a substantially similar or lesser benefit in comparison to the lease referred to in subclause (I).
+
+#### (D) Qualified health care property
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “qualified health care property” means any real property (including interests therein), and any personal property incident to such real property, which—
+
+&emsp;&emsp;&emsp;&emsp;(I) is a health care facility, or
+
+&emsp;&emsp;&emsp;&emsp;(II) is necessary or incidental to the use of a health care facility.
+
+#### (ii) Health care facility
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “health care facility” means a hospital, nursing facility, assisted living facility, congregate care facility, qualified continuing care facility (as defined in section 7872(g)(4)), or other licensed facility which extends medical or nursing or ancillary services to patients and which, immediately before the termination, expiration, default, or breach of the lease of or mortgage secured by such facility, was operated by a provider of such services which was eligible for participation in the medicare program under title XVIII of the Social Security Act with respect to such facility.
 
 #### (f) Interest
 
@@ -284,7 +420,7 @@ Treatment of certain hedging instruments.—Except to the extent provided by reg
 
 #### (3) Election after termination or revocation
 
-&emsp;Except as provided in paragraph (4), if a corporation, trust, or association has made an election under subsection (c)(1) and such election has been terminated or revoked under paragraph (1) or paragraph (2), such corporation, trust, or association (and any successor corporation, trust, or association) shall not be eligible to make an election under subsection (c)(1) for any taxable year prior to the fifthtaxable year which begins after the first taxable year for which such termination or revocation is effective.
+&emsp;Except as provided in paragraph (4), if a corporation, trust, or association has made an election under subsection (c)(1) and such election has been terminated or revoked under paragraph (1) or paragraph (2), such corporation, trust, or association (and any successor corporation, trust, or association) shall not be eligible to make an election under subsection (c)(1) for any taxable year prior to the fifth taxable year which begins after the first taxable year for which such termination or revocation is effective.
 
 #### (4) Exception
 
@@ -322,7 +458,7 @@ Treatment of certain hedging instruments.—Except to the extent provided by reg
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), in determining whether the stock ownership requirement of section 542(a)(2) is met for purposes of paragraph (1)(A), any stock held by a qualified trust shall be treated as held directly by its beneficiaries in proportion to their actuarial interests in such trust and shall not be treated as held by such trust.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), in determining whether the stock ownership requirement of section 542(a)(2) is met forpurposes of paragraph (1)(A), any stock held by a qualified trust shall be treated as held directly by its beneficiaries in proportion to their actuarial interests in such trust and shall not be treated as held by such trust.
 
 #### (ii) Certain related trusts not eligible
 
@@ -374,7 +510,7 @@ Treatment of certain hedging instruments.—Except to the extent provided by reg
 
 #### (2) Qualified REIT subsidiary
 
-&emsp;For purposes of this subsection, the term “qualified REIT subsidiary” means any corporation if 100 percent of the stock of such corporation is held by the real estate investment trust.
+&emsp;For purposes of this subsection, the term “qualified REIT subsidiary” means any corporation if 100 percent of the stock of such corporation is held by the real estate investment trust. Such term shall not include a taxable REIT subsidiary.
 
 #### (3) Treatment of termination of qualified subsidiary status
 
@@ -392,7 +528,7 @@ Treatment of certain hedging instruments.—Except to the extent provided by reg
 
 &emsp;&emsp;(A) the real estate investment trust shall be treated as holding the secured property for the period during which it held the shared appreciation provision (or, if shorter, for the period during which the secured property was held by the person holding such property), and
 
-&emsp;&emsp;(B) the secured property shall be treated as property described in section 1221(1) if it is so described in the hands of the person holding the secured property (or it would be so described if held by the real estate investment trust).
+&emsp;&emsp;(B) the secured property shall be treated as property described in section 1221(a)(1) if it is so described in the hands of the person holding the secured property (or it would be so described if held by the real estate investment trust).
 
 #### (3) Coordination with prohibited transactions safe harbor
 
@@ -448,13 +584,89 @@ A corporation, trust, or association—
 
 > shall be treated as having met the requirement of subsection (a)(6) for the taxable year.
 
-(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1004; amended Pub. L. 88–272, title II, §225(k)(4), Feb. 26, 1964, 78 Stat. 94; Pub. L. 88–554, §4(b)(4), Aug. 31, 1964, 78 Stat. 763; Pub. L. 93–625, §6(a), (b), (d)(1), Jan. 3, 1975, 88 Stat. 2112–2114; Pub. L. 94–455, title XIV, §1402(b)(1)(O), (2), title XVI, §§1602(a), 1603(a), (c)(1)–(4), 1604(a)–(c)(1), (d)–(f)(3)(A), (g), (k)(1), (2)(A), title XIX, §§1901(a)(111), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746, 1748–1753, 1783, 1834; Pub. L. 95–600, title III, §363(a), (c), title VII, §701(t)(2), Nov. 6, 1978, 92 Stat. 2852, 2853, 2912; Pub. L. 98–369, div. A, title X, §1001(b)(12), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §§661(a), 662, 663, 671(b)(1), title IX, §901(d)(4)(E), Oct. 22, 1986, 100 Stat. 2299, 2300, 2302, 2317, 2380;Pub. L. 100–647, title I, §1006(p)(1), (3), (4)(A), (5), (q), (t)(11), Nov. 10, 1988, 102 Stat. 3416, 3417, 3422; Pub. L. 103–66, title XIII, §13149(a), Aug. 10, 1993, 107 Stat. 445; Pub. L. 104–188, title I, §§1621(b)(5), 1704(t)(35), Aug. 20, 1996, 110 Stat. 1867, 1889; Pub. L. 105–34, title XII, §§1251(b)–1253, 1255(a), (b)(1), 1257, 1258, 1261, 1262, Aug. 5, 1997, 111 Stat. 1031–1036.)
+#### (<i>l</i>) Taxable REIT subsidiary
+
+For purposes of this part—
+
+#### (1) In general
+
+&emsp;The term “taxable REIT subsidiary” means, with respect to a real estate investment trust, a corporation (other than a real estate investment trust) if—
+
+&emsp;&emsp;(A) such trust directly or indirectly owns stock in such corporation, and
+
+&emsp;&emsp;(B) such trust and such corporation jointly elect that such corporation shall be treated as a taxable REIT subsidiary of such trust for purposes of this part.
+
+> &emsp;Such an election, once made, shall be irrevocable unless both such trust and corporation consent to its revocation. Such election, and any revocation thereof, may be made without the consent of the Secretary.
+
+#### (2) Thirty-five percent ownership in another taxable REIT subsidiary
+
+&emsp;The term “taxable REIT subsidiary” includes, with respect to any real estate investment trust, any corporation (other than a real estate investment trust) with respect to which a taxable REIT subsidiary of such trust owns directly or indirectly—
+
+&emsp;&emsp;(A) securities possessing more than 35 percent of the total voting power of the outstanding securities of such corporation, or
+
+&emsp;&emsp;(B) securities having a value of more than 35 percent of the total value of the outstanding securities of such corporation.
+
+> &emsp;The preceding sentence shall not apply to a qualified REIT subsidiary (as defined in subsection (i)(2)). The rule of section 856(c)(7) shall apply for purposes of subparagraph (B).
+
+#### (3) Exceptions
+
+&emsp;The term “taxable REIT subsidiary” shall not include—
+
+&emsp;&emsp;(A) any corporation which directly or indirectly operates or manages a lodging facility or a health care facility, and
+
+&emsp;&emsp;(B) any corporation which directly or indirectly provides to any other person (under a franchise, license, or otherwise) rights to any brand name under which any lodging facility or health care facility is operated.
+
+> &emsp;Subparagraph (B) shall not apply to rights provided to an eligible independent contractor to operate or manage a lodging facility if such rights are held by such corporation as a franchisee, licensee, or in a similar capacity and such lodging facility is either owned by such corporation or is leased to such corporation from the real estate investment trust.
+
+#### (4) Definitions
+
+&emsp;For purposes of paragraph (3)—
+
+#### (A) Lodging facility
+
+&emsp;&emsp;The term “lodging facility” has the meaning given to such term by paragraph (9)(D)(ii).<sup>2</sup>
+
+#### (B) Health care facility
+
+&emsp;&emsp;The term “health care facility” has the meaning given to such term by subsection (e)(6)(D)(ii).
+
+(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1004; amended Pub. L. 88–272, title II, §225(k)(4), Feb. 26, 1964, 78 Stat. 94; Pub. L. 88–554, §4(b)(4), Aug. 31, 1964, 78 Stat. 763; Pub. L.93–625, §6(a), (b), (d)(1), Jan. 3, 1975, 88 Stat. 2112–2114; Pub. L. 94–455, title XIV, §1402(b)(1)(O), (2), title XVI, §§1602(a), 1603(a), (c)(1)–(4), 1604(a)–(c)(1), (d)–(f)(3)(A), (g), (k)(1), (2)(A), title XIX, §§1901(a)(111), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746, 1748–1753, 1783, 1834; Pub. L. 95–600, title III, §363(a), (c), title VII, §701(t)(2), Nov. 6, 1978, 92 Stat. 2852, 2853, 2912; Pub. L. 98–369, div. A, title X, §1001(b)(12), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §§661(a), 662, 663, 671(b)(1), title IX, §901(d)(4)(E), Oct. 22, 1986, 100 Stat. 2299, 2300, 2302, 2317, 2380; Pub. L. 100–647, title I, §1006(p)(1), (3), (4)(A), (5), (q), (t)(11), Nov. 10, 1988, 102 Stat. 3416, 3417, 3422; Pub. L. 103–66, title XIII, §13149(a), Aug. 10, 1993, 107 Stat. 445; Pub. L. 104–188, title I, §§1621(b)(5), 1704(t)(35), Aug. 20, 1996, 110 Stat. 1867, 1889; Pub. L. 105–34, title XII, §§1251(b)–1253, 1255(a), (b)(1), 1257, 1258, 1261, 1262, Aug. 5, 1997, 111 Stat. 1031–1036; Pub. L. 106–170, title V, §§532(c)(2)(H)–(K), 541–542(b)(3)(A)(i), (B)(i), 543, 551(a), 561(a), Dec. 17, 1999, 113 Stat. 1930, 1940–1943, 1948, 1949.)
 
 #### References in Text
 
 The Investment Company Act of 1940, referred to in subsec. (c)(5)(F), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
+The Social Security Act, referred to in subsec. (e)(6)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
 #### Amendments
+
+1999—Subsec. (c)(2)(D), (3)(C). Pub. L. 106–170, §532(c)(2)(H), (I), substituted “section 1221(a)(1)” for “section 1221(1)”.
+
+Subsec. (c)(4)(B). Pub. L. 106–170, §541(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “not more than 25 percent of the value of its total assets is represented by securities (other than those includible under subparagraph (A)) for purposes of this calculation limited in respect of any one issuer to an amount not greater in value than 5 percent of the value of the total assets of the trust and to not more than 10 percent of the outstanding voting securities of such issuer.”
+
+Subsec. (c)(7). Pub. L. 106–170, §541(b), added par. (7).
+
+Subsec. (d)(1). Pub. L. 106–170, §542(b)(3)(A)(i), substituted “fair market values” for “adjusted bases” in two places in concluding provisions.
+
+Subsec. (d)(2)(B). Pub. L. 106–170, §542(b)(2), inserted “except as provided in paragraph (8),” after “(B)” in introductory provisions.
+
+Subsec. (d)(2)(B)(i). Pub. L. 106–170, §542(b)(3)(B)(i), substituted “value” for “number”.
+
+Subsec. (d)(3). Pub. L. 106–170, §561(a), inserted concluding provisions.
+
+Subsec. (d)(7)(C)(i). Pub. L. 106–170, §542(a), inserted “or through a taxable REIT subsidiary of such trust” after “income”.
+
+Subsec. (d)(8), (9). Pub. L. 106–170, §542(b)(1), added pars. (8) and (9).
+
+Subsec. (e)(1). Pub. L. 106–170, §532(c)(2)(J), substituted “section 1221(a)(1)” for “section 1221(1)”.
+
+Subsec. (e)(6). Pub. L. 106–170, §551(a), added par. (6).
+
+Subsec. (i)(2). Pub. L. 106–170, §543(b), inserted at end “Such term shall not include a taxable REIT subsidiary.”
+
+Subsec. (j)(2)(B). Pub. L. 106–170, §532(c)(2)(K), substituted “section 1221(a)(1)” for “section 1221(1)”.
+
+Subsec. (<i>l</i>). Pub. L. 106–170, §543(a), added subsec. (<i>l</i>).
 
 1997—Subsec. (a)(6). Pub. L. 105–34, §1251(b)(2), inserted “subject to the provisions of subsection (k),” before “which is not”.
 
@@ -580,7 +792,7 @@ Subsec. (c)(3)(H). Pub. L. 95–600, §363(a)(2), added subpar. (H).
 
 Subsec. (c)(4)(B). Pub. L. 95–600, §363(a)(3), substituted “property in a transaction which is a prohibited transaction” for “section 1221(1) property (other than foreclosure property)”.
 
-Subsec. (e)(3). Pub. L. 95–600, §363(c), substituted “the Secretary may grant one or more extensions of the grace period for such property” for “the Secretary may extend the grace period for such property” and “shall not extend the grace period beyond the date which is 6 years after the date such trust acquired such property” for “shall be for a period of not more than one year, and not more than two extensions shall be granted with respect to any property”.
+Subsec. (e)(3). Pub. L. 95–600, §363(c), substituted “the Secretary may grant one or more extensions of the grace period for such property” for “the Secretary may extend the grace period for such property” and “shall not extend the grace period beyond the date which is 6 years after the date such trust acquired such property”for “shall be for a period of not more than one year, and not more than two extensions shall be granted with respect to any property”.
 
 1976—Subsec. (a). Pub. L. 94–455, §§1603(a), 1604(f)(1), (2), in introductory provisions substituted “this title” for “this subtitle” and “a corporation, trust, or association” for “an unincorporated trust or an unincorporated association”, in par. (1) inserted “or directors” after “trustees”, and in par. (4) substituted reference to which is neither (A) a financial institution to which section 585, 586, or 593 applies, nor (B) an insurance company to which subchapter L applies for reference to which does not hold any property primarily for sale to customers in the ordinary course of its trade or business.
 
@@ -621,6 +833,72 @@ Subsec. (e). Pub. L. 93–625, §6(a), added subsec. (e).
 1964—Subsec. (a)(6). Pub L. 88–272 substituted “adjusted ordinary gross income (as defined in section 543(b)(2))” for “gross income”.
 
 Subsec. (d). Pub. L. 88–5544 inserted reference to subparagraph (C) of section 318(a)(3) of this title.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by section 532(c)(2)(H)–(K) of Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
+
+Pub. L. 106–170, title V, §542(b)(3)(A)(ii), Dec. 17, 1999, 113 Stat. 1943, provided that: “The amendment made by this subparagraph \[amending this section\] shall apply to taxable years beginning after December 31, 2000.”
+
+Pub. L. 106–170, title V, §542(b)(3)(B)(ii), Dec. 17, 1999, 113 Stat. 1943, provided that: “The amendment made by this subparagraph \[amending this section\] shall apply to amounts received or accrued in taxable years beginning after December 31, 2000, except for amounts paid pursuant to leases in effect on July 12, 1999, or pursuant to a binding contract in effect on such date and at all times thereafter.”
+
+Pub. L. 106–170, title V, §546, Dec. 17, 1999, 113 Stat. 1946, provided that:
+
+“(a)
+
+In General.—The amendments made by this subpart \[subpart A (§§541–547) of title V of Pub. L. 106–170, amending this section and sections 163 and 857 of this title\] shall apply to taxable years beginning after December 31, 2000.
+
+“(b)
+
+Transitional Rules Related to Section 541.—
+
+&emsp;“(1)
+
+Existing arrangements.—
+
+&emsp;&emsp;“(A)
+
+In general.—Except as otherwise provided in this paragraph, the amendment made by section 541 \[amending this section\] shall not apply to a real estate investment trust with respect to—
+
+&emsp;&emsp;&emsp;“(i) securities of a corporation held directly or indirectly by such trust on July 12, 1999;
+
+&emsp;&emsp;&emsp;“(ii) securities of a corporation held by an entity on July 12, 1999, if such trust acquires control of such entity pursuant to a written binding contract in effect on such date and at all times thereafter before such acquisition;
+
+&emsp;&emsp;&emsp;“(iii) securities received by such trust (or a successor) in exchange for, or with respect to, securities described in clause (i) or (ii) in a transaction in which gain or loss is not recognized; and
+
+&emsp;&emsp;&emsp;“(iv) securities acquired directly or indirectly by such trust as part of a reorganization (as defined in section 368(a)(1) of the Internal Revenue Code of 1986) with respect to such trust if such securities are described in clause (i), (ii), or (iii) with respect to any other real estate investment trust.
+
+&emsp;&emsp;“(B)
+
+New trade or business or substantial new assets.—Subparagraph (A) shall cease to apply to securities of a corporation as of the first day after July 12, 1999, on which such corporation engages in a substantial new line of business, or acquires any substantial asset, other than—
+
+&emsp;&emsp;&emsp;“(i) pursuant to a binding contract in effect on such date and at all times thereafter before the acquisition of such asset;
+
+&emsp;&emsp;&emsp;“(ii) in a transaction in which gain or loss is not recognized by reason of section 1031 or 1033 of the Internal Revenue Code of 1986; or
+
+&emsp;&emsp;&emsp;“(iii) in a reorganization (as so defined) with another corporation the securities of which are described in paragraph (1)(A) of this subsection.
+
+&emsp;&emsp;“(C)
+
+Limitation on transition rules.—Subparagraph (A) shall cease to apply to securities of a corporation held, acquired, or received, directly or indirectly, by a real estate investment trust as of the first day after July 12, 1999, on which such trust acquires any additional securities of such corporation other than—
+
+&emsp;&emsp;&emsp;“(i) pursuant to a binding contract in effect on July 12, 1999, and at all times thereafter; or
+
+&emsp;&emsp;&emsp;“(ii) in a reorganization (as so defined) with another corporation the securities of which are described in paragraph (1)(A) of this subsection.
+
+&emsp;“(2)
+
+Tax-free conversion.—If—
+
+&emsp;&emsp;“(A) at the time of an election for a corporation to become a taxable REIT subsidiary, the amendment made by section 541 does not apply to such corporation by reason of paragraph (1); and
+
+&emsp;&emsp;“(B) such election first takes effect before January 1, 2004,
+
+> &emsp;such election shall be treated as a reorganization qualifying under section 368(a)(1)(A) of such Code.”
+
+Pub. L. 106–170, title V, §551(b), Dec. 17, 1999, 113 Stat. 1949, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2000.”
+
+Pub. L. 106–170, title V, §561(b), Dec. 17, 1999, 113 Stat. 1950, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2000.”
 
 #### Effective Date of 1997 Amendment
 
@@ -708,11 +986,19 @@ Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 3
 
 Section 10(k) of Pub. L. 86–779 provided that: “The amendments made by this section \[enacting this section and sections 857 and 858 and amending sections 11, 34, 116, 243, 318, 443, 852, 855, and 1504 of this title\] shall apply with respect to taxable years of real estate investment trusts beginning after December 31, 1960.”
 
+#### Study Relating To Taxable REIT Subsidiaries
+
+Pub. L. 106–170, title V, §547, Dec. 17, 1999, 113 Stat. 1947, provided that: “The Secretary of the Treasury shall conduct a study to determine how many taxable REIT subsidiaries are in existence and the aggregate amount of taxes paid by such subsidiaries. The Secretary shall submit a report to the Congress describing the results of such study.”
+
 #### Trust Not Disqualified in Certain Cases Where Income Tests Not Met
 
 Section 1608(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by section 1602 \[amending this section and section 857 of this title\] shall apply to taxable years of real estate investment trusts beginning after the date of the enactment of this Act \[Oct. 4, 1976\]. In addition, the amendments made by section 1602 shall apply to a taxable year of a real estate investment trust beginning before the date of the enactment of this Act if, as the result of a determination (as defined in section 859(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) with respect to such trust occurring after the date of the enactment of this Act, such trust for such taxable years does not meet the requirements of section 856(c)(2) or section 856(c)(3), or of both such sections, of such Code as in effect for such taxable year. In any case, the amendment made by section 1602(a) requiring a schedule to be attached to the income tax return of certain real estate investment trusts shall apply only to taxable years of such trusts beginning after the date of the enactment of this Act. If the amendments made by section 1602 apply to a taxable year ending on or before the date of enactment of this Act, the reference to paragraph (2)(B) in section 857(b)(5) of such Code, as amended, shall be considered to be a reference to paragraph (2)(C) of section 857(b) of such Code, as in effect immediately before the enactment of this Act.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 108, 291, 318, 501, 857, 859, 860G, 860L, 1212, 6049, 7701, 7704 of this title.
+This section is referred to in sections 108, 163, 291, 318, 501, 857, 859, 860G, 860L, 1212, 6049, 6655, 7701, 7704 of this title.
+
+<i><sup>1</sup></i><i> So in original. Par. (4)(B)(ii) does not contain a subcl. (III).</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “subsection (d)(9)(D)(ii)”.</i>
 

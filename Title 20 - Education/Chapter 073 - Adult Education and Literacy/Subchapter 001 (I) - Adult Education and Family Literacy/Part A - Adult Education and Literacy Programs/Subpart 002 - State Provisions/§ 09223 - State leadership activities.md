@@ -8,7 +8,7 @@ Each eligible agency shall use funds made available under section 9222(a)(2) of 
 
 &emsp;(2) The provision of technical assistance to eligible providers of adult education and literacy activities.
 
-&emsp;(3) The provision of technology assistance, including staff training, to eligible providersof adult education and literacy activities to enable the eligible providers to improve the quality of such activities.
+&emsp;(3) The provision of technology assistance, including staff training, to eligible providers of adult education and literacy activities to enable the eligible providers to improve the quality of such activities.
 
 &emsp;(4) The support of State or regional networks of literacy resource centers.
 

@@ -30,6 +30,8 @@ Aug. 4, 1937, ch. 564, §§1, 3(a), 50 Stat. 558, 559.
 
 36:57b(a).
 
+&nbsp;
+
 Subsection (a) is substituted for the source provision for consistency in the revised title and to eliminate executed and unnecessary words.
 
 Subsection (b) is substituted for “shall have perpetual succession” for consistency in the revised title.

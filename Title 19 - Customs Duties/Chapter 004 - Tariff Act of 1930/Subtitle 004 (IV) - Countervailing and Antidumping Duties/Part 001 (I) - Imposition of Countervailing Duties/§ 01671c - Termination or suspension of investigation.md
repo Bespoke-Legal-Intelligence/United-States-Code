@@ -56,7 +56,7 @@ The administering authority may suspend an investigation if the government of th
 
 #### (2) Certain additional requirements
 
-&emsp;Except in the case of an agreement by a foreign government to restrict the volume of imports of the subject merchandise into theUnited States, the administering authority may not accept an agreement under this subsection unless—
+&emsp;Except in the case of an agreement by a foreign government to restrict the volume of imports of the subject merchandise into the United States, the administering authority may not accept an agreement under this subsection unless—
 
 &emsp;&emsp;(A) the suppression or undercutting of price levels of domestic products by imports of that merchandise will be prevented, and
 
@@ -134,7 +134,7 @@ Before an investigation may be suspended under subsection (b) or (c) of this sec
 
 &emsp;&emsp;If the agreement accepted by the administering authority is an agreement described in subsection (b) of this section, then—
 
-&emsp;&emsp;&emsp;(i) notwithstanding the affirmative preliminary determination required under paragraph (1)(A), the liquidation of entriesof subject merchandise shall not be suspended under section 1671b(d)(2) of this title,
+&emsp;&emsp;&emsp;(i) notwithstanding the affirmative preliminary determination required under paragraph (1)(A), the liquidation of entries of subject merchandise shall not be suspended under section 1671b(d)(2) of this title,
 
 &emsp;&emsp;&emsp;(ii) if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determination in the same case with respect to such merchandise, that suspension of liquidation shall terminate, and
 
@@ -142,7 +142,7 @@ Before an investigation may be suspended under subsection (b) or (c) of this sec
 
 #### (B) Other agreements
 
-&emsp;&emsp;If the agreement accepted by the administering authority is an agreement described in subsection (c) of this section, then the liquidation of entries of the subject merchandise shall be suspended under section 1671b(d)(2) of this title, or, if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determination in the same case, that suspension of liquidation shall continue in effect, subject to subsection (h)(3) of this section, but the security required under section 1671b(d)(1)(B) of this title may be adjusted to reflect the effect of the agreement.
+&emsp;&emsp;If the agreement accepted by the administering authority is an agreement describedin subsection (c) of this section, then the liquidation of entries of the subject merchandise shall be suspended under section 1671b(d)(2) of this title, or, if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determination in the same case, that suspension of liquidation shall continue in effect, subject to subsection (h)(3) of this section, but the security required under section 1671b(d)(1)(B) of this title may be adjusted to reflect the effect of the agreement.
 
 #### (3) Where investigation is continued
 

@@ -58,7 +58,7 @@ A council may—
 
 &emsp;(4) collaborate with other councils and with the National Council in establishing and implementing a national marketing and promotion plan for one or more species of fish or fish products; and
 
-&emsp;(5) establish a reserve fund from monies collected and received under section 4012 of thistitle to permit an effective and sustained program of research, consumer education, and other marketing and promotion activities regarding the quality and marketing of fish and fish products in years when production and assessment income may be reduced, but the total reserve fund may not exceed the amount budgeted for the current fiscal year of operation.
+&emsp;(5) establish a reserve fund from monies collected and received under section 4012 of this title to permit an effective and sustained program of research, consumer education, and other marketing and promotion activities regarding the quality and marketing of fish and fish products in years when production and assessment income may be reduced, but the total reserve fund may not exceed the amount budgeted for the current fiscal year of operation.
 
 #### (c) Quality standards
 

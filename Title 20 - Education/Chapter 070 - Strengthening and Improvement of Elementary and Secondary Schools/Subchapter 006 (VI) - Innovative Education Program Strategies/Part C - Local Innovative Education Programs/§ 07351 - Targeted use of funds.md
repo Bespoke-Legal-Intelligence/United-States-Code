@@ -14,7 +14,7 @@ The innovative assistance programs referred to in subsection (a) of this section
 
 &emsp;(3) promising education reform projects, including effective schools and magnet schools;
 
-&emsp;(4) programs to improve the higher order thinking skills of disadvantaged elementary and secondary school students and to prevent students from dropping out of school;
+&emsp;(4) programs to improve the higher order thinking skills of disadvantaged elementaryand secondary school students and to prevent students from dropping out of school;
 
 &emsp;(5) programs to combat illiteracy in the student and adult population, including parent illiteracy;
 

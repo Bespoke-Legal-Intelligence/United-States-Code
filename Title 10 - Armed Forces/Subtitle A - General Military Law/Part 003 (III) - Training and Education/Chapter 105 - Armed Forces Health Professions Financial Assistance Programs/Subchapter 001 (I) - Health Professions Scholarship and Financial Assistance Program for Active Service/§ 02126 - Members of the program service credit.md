@@ -18,21 +18,29 @@ Service Creditable for Certain Purposes.—(1) The Secretary concerned may autho
 
 &emsp;(C) possesses a specialty designated by the Secretary concerned as critically needed in wartime.
 
-(2) Service credited under paragraph (1) counts only for the following purposes:
+(2) Service credited under paragraph (1) counts only for the award of retirement points for computation of years of service under section 12732 of this title and for computation of retired pay under section 12733 of this title.
 
-&emsp;(A) Award of retirement points for computation of years of service under section 12732 of this title and for computation of retired pay under section 12733 of this title.
-
-&emsp;(B) Computation of years of service creditable under section 205 of title 37.
-
-(3) For purposes of paragraph (2)(A), a member may be credited in accordance with paragraph (1) with not more than 50 points for each year of participation in a course of study that the member satisfactorily completes as a member of the program.
+(3) The number of points credited to a member under paragraph (1) for a year of participation in a course of study is 50. The points shall be credited to the member for one of the years of that participation at the end of each year after the completion of the course of study that the member serves in the Selected Reserve and is credited under section 12732(a)(2) of this title with at least 50 points. The points credited for the participation shall be recorded in the member's records as having been earned in the year of the participation in the course of study.
 
 (4) Service may not be counted under paragraph (1) for more than four years of participation in a course of study as a member of the program.
 
-(5) A member is not entitled to any retroactive award of, or increase in, pay or allowances under title 37 by reason of an award of service credit under paragraph (1).
+(5) A member of the Selected Reserve may be considered to be in an active status while pursuing a course of study under this subchapter only for purposes of sections 12732(a) and 12733(3) of this title.
 
-(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 96–513, title V, §501(22), Dec. 12, 1980, 94 Stat. 2908; Pub. L. 104–201, div. A, title V, §543(a), Sept. 23, 1996, 110 Stat. 2521.)
+(6) A member is not entitled to any retroactive award of, or increase in, pay or allowances under title 37 by reason of an award of service credit under paragraph (1).
+
+(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 96–513, title V, §501(22), Dec. 12, 1980, 94 Stat. 2908; Pub. L. 104–201, div. A, title V, §543(a), Sept. 23, 1996, 110 Stat. 2521; Pub. L. 106–65, div. A, title V, §544, Oct. 5, 1999, 113 Stat. 608.)
 
 #### Amendments
+
+1999—Subsec. (b)(2). Pub. L. 106–65, §544(1), added par. (2) and struck out former par. (2) which read as follows: “Service credited under paragraph (1) counts only for the following purposes:
+
+&emsp;“(A) Award of retirement points for computation of years of service under section 12732 of this title and for computation of retired pay under section 12733 of this title.
+
+&emsp;“(B) Computation of years of service creditable under section 205 of title 37.”
+
+Subsec. (b)(3). Pub. L. 106–65, §544(1), added par. (3) and struck out former par. (3) which read as follows: “For purposes of paragraph (2)(A), a member may be credited in accordance with paragraph (1) with not more than 50 points for each year of participation in a course of study that the member satisfactorily completes as a member of the program.”
+
+Subsec. (b)(5), (6). Pub. L. 106–65, §544(2), (3), added par. (5) and redesignated former par. (5) as (6).
 
 1996—Pub. L. 104–201 designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b), service performed” for “Service performed”, and added subsec. (b).
 

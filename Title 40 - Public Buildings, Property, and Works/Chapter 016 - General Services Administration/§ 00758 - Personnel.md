@@ -6,7 +6,7 @@ The Administrator is authorized, subject to the civil-service and classification
 
 #### (b) Temporary employment of experts or consultants; stenographic reporting services
 
-To such extent as he finds necessary to carry out the provisions of titles I, II, III, V, and VI of this Act, the Administrator is authorized to procure the temporary (not in excess of one year) orintermittent services of experts or consultants or organizations thereof, including stenographic reporting services, by contract or appointment, and in such cases such service shall be without regard to the civil-service and classification laws, and except in the case of stenographic reporting services by organizations, without regard to section 5 of title 41.
+To such extent as he finds necessary to carry out the provisions of titles I, II, III, V, and VI of this Act, the Administrator is authorized to procure the temporary (not in excess of one year) or intermittent services of experts or consultants or organizations thereof, including stenographic reporting services, by contract or appointment, and in such cases such service shall be without regard to the civil-service and classification laws, and except in the case of stenographic reporting services by organizations, without regard to section 5 of title 41.
 
 #### (c) Utilization of personnel of other Federal agencies
 

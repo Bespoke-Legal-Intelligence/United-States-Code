@@ -28,6 +28,7 @@ This subchapter is referred to in sections 405, 414a, 418a, 421 of this title; t
 - [&sect; 00253k - Task and delivery order contracts definitions](%C2%A7%2000253k%20-%20Task%20and%20delivery%20order%20contracts%20definitions.md)
 - [&sect; 00253l - Severable services contracts for periods crossing fiscal years](%C2%A7%2000253l%20-%20Severable%20services%20contracts%20for%20periods%20crossing%20fiscal%20years.md)
 - [&sect; 00253l&#8211;1 - Contract authority of Comptroller General](%C2%A7%2000253l%E2%80%931%20-%20Contract%20authority%20of%20Comptroller%20General.md)
+- [&sect; 00253l&#8211;2 - Contract authority of Library of Congress](%C2%A7%2000253l%E2%80%932%20-%20Contract%20authority%20of%20Library%20of%20Congress.md)
 - [&sect; 00253m - Design-build selection procedures](%C2%A7%2000253m%20-%20Design-build%20selection%20procedures.md)
 - [&sect; 00254 - Contract requirements](%C2%A7%2000254%20-%20Contract%20requirements.md)
 - [&sect; 00254a - Cost-type research and development contracts with educational institutions](%C2%A7%2000254a%20-%20Cost-type%20research%20and%20development%20contracts%20with%20educational%20institutions.md)

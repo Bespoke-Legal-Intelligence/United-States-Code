@@ -44,7 +44,7 @@ Members of the Board shall serve without pay, but members who are not regular fu
 
 #### (e) Chairman; Vice Chairman; election; vacancies; quorum; annual meeting
 
-(1) The Librarian shall call the first meeting of the Board, at which the first order of businessshall be the election of a Chairman and a Vice Chairman, who shall serve for a term of one year. Thereafter each Chairman and Vice Chairman shall be elected for a term of two years. The Vice Chairman shall perform the duties of the Chairman in his absence. In case of a vacancy occurring in the chairmanship or vice-chairmanship, the Board shall elect a member to fill the vacancy for the remainder of the unexpired term.
+(1) The Librarian shall call the first meeting of the Board, at which the first order of business shall be the election of a Chairman and a Vice Chairman, who shall serve for a term of one year. Thereafter each Chairman and Vice Chairman shall be elected for a term of two years. The Vice Chairman shall perform the duties of the Chairman in his absence. In case of a vacancy occurring in the chairmanship or vice-chairmanship, the Board shall elect a member to fill the vacancy for the remainder of the unexpired term.
 
 (2) A majority of the members of the Board currently serving shall constitute a quorum.
 
@@ -82,7 +82,7 @@ The General Schedule, referred to in subsec. (f), is set out under section 5332 
 
 &emsp;“(7) the Director of the Center.
 
-> In making appointments from private life under clause 2, the President pro tempore of the Senate and the Speaker of the House of Representatives shall give due consideration to the appointment of individuals who collectively will provide appropriate regional balance on the Board. Not more than three of the members appointed by the President pro tempore of the Senate or by the Speaker of the House of Representatives may be affiliated with the same political party.”
+> In making appointments from private life under clause 2, the President pro tempore of the Senate and the Speaker of the House of Representatives shall give due consideration to the appointment of individuals who collectively will provide appropriate regional balance on the Board. Not more than three of the members appointed by the President pro tempore of the Senate orby the Speaker of the House of Representatives may be affiliated with the same political party.”
 
 Subsec. (d). Pub. L. 105–275, §312(b)(1)(B), added subsec. (d) and struck out former subsec. (d) which read as follows: “Members of the Board who are not regular full-time employees of the United States shall be entitled, while serving on business of the Center, to receive compensation at rates fixed by the Librarian, but not exceeding $100 per diem, including traveltime; and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in Government service employed intermittently.”
 

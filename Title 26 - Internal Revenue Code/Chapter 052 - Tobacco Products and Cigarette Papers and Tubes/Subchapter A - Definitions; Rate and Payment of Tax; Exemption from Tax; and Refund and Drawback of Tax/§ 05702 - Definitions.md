@@ -196,3 +196,7 @@ Section 808(d)(1) of Pub. L. 89–44 provided that: “The amendments made by su
 
 Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of Pub. L. 85–859, set out as an Effective Date note under section 5001 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 42 section 1396b.
+

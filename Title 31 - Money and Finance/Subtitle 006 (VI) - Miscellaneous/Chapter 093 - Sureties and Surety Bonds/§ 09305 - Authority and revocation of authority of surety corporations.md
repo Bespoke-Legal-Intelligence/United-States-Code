@@ -14,7 +14,7 @@
 
 &emsp;(3) the corporation is able to carry out its contracts.
 
-(c) A surety corporation authorized under subsection (b) of this section to provide surety bonds shall file with the Secretary each January, April, July, and October a statement of the assets and liabilities of the corporation signed and sworn to by the president and secretary of the corporation.
+(c) A surety corporation authorized under subsection (b) of this section to provide surety bonds shall file with the Secretary each January, April, July, and October a statement of the assets and liabilities of the corporation signedand sworn to by the president and secretary of the corporation.
 
 (d) The Secretary—
 

@@ -6,7 +6,7 @@ All designations and assignments of justices and judges shall be filed with the 
 
 The Chief Justice of the United States, a circuit justice or a chief judge of a circuit may make new designation and assignments in accordance with the provisions of this chapter and may revoke those previously made by him.
 
-(June 25, 1948, ch. 646, 62 Stat. 901; Sept. 3, 1954, ch. 1263, §39(d), 68 Stat. 1240; July 14, 1956, ch. 589, §3(b), 70 Stat. 532; Pub. L. 85–755, §6, Aug. 25, 1958, 72 Stat. 850; Pub. L. 95–598, title II, §207, Nov. 6, 1978, 92 Stat. 2660.)
+(June 25, 1948, ch. 646, 62 Stat. 901; Sept. 3, 1954, ch. 1263, §39(d), 68 Stat. 1240; July 14, 1956, ch.589, §3(b), 70 Stat. 532; Pub. L. 85–755, §6, Aug. 25, 1958, 72 Stat. 850; Pub. L. 95–598, title II, §207, Nov. 6, 1978, 92 Stat. 2660.)
 
 #### Historical and Revision Notes
 

@@ -10,13 +10,13 @@ Protection under this chapter shall not be available for a design that is—
 
 &emsp;(4) dictated solely by a utilitarian function of the article that embodies it; or
 
-&emsp;(5) embodied in a useful article that was made public by the designer or owner in the United States or a foreign country more than 1 year before the date of the application for registration under this chapter.
+&emsp;(5) embodied in a useful article that was made public by the designer or owner in the United States or a foreign country more than 2 years before the date of the application for registration under this chapter.
 
-(Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2906.)
+(Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2906; amended Pub. L. 106–44, §1(f)(1), Aug. 5, 1999, 113 Stat. 222.)
 
-#### Termination of Section
+#### Amendments
 
-<i>For termination of section by section 505 of Pub. L. 105–304, see Effective and Termination Dates note set out under section 1301 of this title.</i>
+1999—Par. (5). Pub. L. 106–44 substituted “2 years” for “1 year”.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Assessment of domestic uranium industry viability; monitoring and reporting requirements; criteria; implementation by rules and regulations
 
-The Secretary of Energy shall monitor and for the years 1983 to 1992 report annually to the Congress and to the President a determination of the viability of the domestic uranium mining and milling industry and shall establish by rule, after public notice and in accordance with the requirements of section 2231 of this title, within 9 months of January 4, 1983, specific criteria which shall be assessed in the annual reports on the domestic uranium industry's viability. The Secretary of Energy is authorized to issue regulations providing for the collection of such information as the Secretary of Energy deemsnecessary to carry out the monitoring and reporting requirements of this section.
+The Secretary of Energy shall monitor and for the years 1983 to 1992 report annually to the Congress and to the President a determination of the viability of the domestic uranium mining and milling industry and shall establish by rule, after public notice and in accordance with the requirements of section 2231 of this title, within 9 months of January 4, 1983, specific criteria which shall be assessed in the annual reports on the domestic uranium industry's viability. The Secretary of Energy is authorized to issue regulations providing for the collection of such information as the Secretary of Energy deems necessary to carry out the monitoring and reporting requirements of this section.
 
 #### (b) Disclosure of information
 
@@ -26,7 +26,7 @@ The criteria referred to in subsection (a) of this section shall also include, b
 
 &emsp;(7) the level of domestic uranium production capacity sufficient to meet projected domestic nuclear power needs for a 10 year period; and
 
-&emsp;(8) a projection of domestic uranium production and uranium price levels which will be in effect under various assumptions with respect to imports.
+&emsp;(8) a projection of domestic uranium production and uranium price levels which will be ineffect under various assumptions with respect to imports.
 
 #### (d) Excessive imports; investigation by United States International Trade Commission
 

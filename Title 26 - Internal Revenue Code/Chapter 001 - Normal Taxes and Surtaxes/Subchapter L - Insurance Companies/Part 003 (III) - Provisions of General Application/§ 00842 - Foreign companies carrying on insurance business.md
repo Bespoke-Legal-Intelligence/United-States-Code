@@ -100,7 +100,7 @@ If a foreign company carrying on an insurance business within the United States 
 
 #### (3) Adjustment to limitation on deduction for policyholder dividends in the case of foreign mutual life insurance companies
 
-&emsp;For purposes of section 809, the equity base of any foreign mutual life insurance company as of the close of any taxable year shall be increased by the excess of—
+&emsp;For purposes of section 809, the equity base of any foreign mutual life insurance companyas of the close of any taxable year shall be increased by the excess of—
 
 &emsp;&emsp;(A) the required United States assets of the company (determined under subsection (b)(2)), over
 

@@ -72,7 +72,7 @@ The teacher training programs authorized in subsection (a) of this section shall
 
 #### (4) Federal share
 
-&emsp;For the purpose of this subsection the term “Federal share” means, with respect to the costs of activities assisted under this subsection, 50 percent of such costs to the elementary or secondary school teacher.
+&emsp;For the purpose of this subsection the term “Federal share” means, with respect to thecosts of activities assisted under this subsection, 50 percent of such costs to the elementary or secondary school teacher.
 
 #### (f) National Advisory Board
 

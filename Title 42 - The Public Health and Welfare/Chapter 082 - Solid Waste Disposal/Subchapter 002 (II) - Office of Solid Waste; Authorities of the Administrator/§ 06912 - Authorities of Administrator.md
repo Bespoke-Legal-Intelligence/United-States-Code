@@ -10,7 +10,7 @@ In carrying out this chapter, the Administrator is authorized to—
 
 &emsp;(3) provide technical and financial assistance to States or regional agencies in the development and implementation of solid waste plans and hazardous waste management programs;
 
-&emsp;(4) consult with representatives of science, industry, agriculture, labor, environmentalprotection and consumer organizations, and other groups, as he deems advisable;
+&emsp;(4) consult with representatives of science, industry, agriculture, labor, environmental protection and consumer organizations, and other groups, as he deems advisable;
 
 &emsp;(5) utilize the information, facilities, personnel and other resources of Federal agencies, including the National Institute of Standards and Technology and the National Bureau of the Census, on a reimbursable basis, to perform research and analyses and conduct studies and investigations related to resource recovery and conservation and to otherwise carry out the Administrator's functions under this chapter; and
 

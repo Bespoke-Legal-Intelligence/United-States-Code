@@ -132,7 +132,7 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §203(a), (b) (less applicability to veterinarians), 63 Stat. 809; June 25, 1952, ch. 459, §1, 66 Stat. 156; June 29, 1953, ch. 138, §8 (less applicability to veterinarians), 67 Stat. 89; June 30, 1955, ch. 250, §203, 69 Stat. 225; Apr. 30, 1956, ch. 223, §5, 70 Stat. 122; Mar. 23, 1959, Pub. L. 86–4, §5, 73 Stat. 13.
 
-In subsection (a), clause (1) is substituted for section 234(a)(1), (2), and (3) of existing title 37. The words “of the Regular Army or the Regular Navy” and “of the Regular Air Force” are inserted in clauses (1)(A) and\(B), respectively, since, in contradistinction to section 234(a)(4) of existing title 37, their source was intended to apply only to regular officers. Clauses (2) (A) and (B) are substituted for the enumeration of categories in section 234(a)(4) of existing title 37 to reflect current usage and designation of those categories. Clause (3) is substituted for section 234(a)(5) and (6) of existing title 37.
+In subsection (a), clause (1) is substituted for section 234(a)(1), (2), and (3) of existing title 37. The words “of the Regular Army or the Regular Navy” and “of the Regular Air Force” are inserted in clauses (1)(A) and (B), respectively, since, in contradistinction to section 234(a)(4) of existing title 37, their source was intended to apply only to regular officers. Clauses (2) (A) and (B) are substituted for the enumeration of categories in section 234(a)(4) of existing title 37 to reflect current usage and designation of those categories. Clause (3) is substituted for section 234(a)(5) and (6) of existing title 37.
 
 In subsection (c), the words “disability retirement pay” are omitted as covered by the words “retired pay”. Section 234(b) (2d proviso) of existing title 37 is omitted as obsolete.
 
@@ -294,7 +294,7 @@ Pub. L. 100–456, div. A, title VI, §613, Sept. 29, 1988, 102 Stat. 1981, as a
 
 Pub. L. 96–513, title VI, §641, Dec. 12, 1980, 94 Stat. 2954, as amended by Pub. L. 97–22, §8(<i>o</i>), July 10, 1981, 97 Stat. 136, provided that: “Any person—
 
-&emsp;“(1) who before June 30, 1980, served on active duty for not less than one year as a reserve officer of the Medical Corps or Dental Corps of the Army or the Medical Corps or Dental Corps of the Navy, as a reserve officer of the Air Force designated as a medicalofficer or dental officer, or as a reserve medical officer or dental officer of the Public Health Service; and
+&emsp;“(1) who before June 30, 1980, served on active duty for not less than one year as a reserve officer of the Medical Corps or Dental Corps of the Army or the Medical Corps or Dental Corps of the Navy, as a reserve officer of the Air Force designated as a medical officer or dental officer, or as a reserve medical officer or dental officer of the Public Health Service; and
 
 &emsp;“(2) who after having so served on active duty for not less than one year received special pay under section 302 or 302b of title 37, United States Code, as in effect during the period beginning on May 6, 1974, and ending on June 30, 1980, for service performed during such period,
 

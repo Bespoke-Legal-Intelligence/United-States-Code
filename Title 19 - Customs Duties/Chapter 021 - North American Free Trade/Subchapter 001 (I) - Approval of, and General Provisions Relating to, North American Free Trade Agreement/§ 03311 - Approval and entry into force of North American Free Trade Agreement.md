@@ -234,6 +234,10 @@ Tennessee Valley Authority
 
 St. Lawrence Seaway Development Corporation
 
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.\]
+
+\[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of Title 22, Foreign Relations and Intercourse.\]
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3301, 3314, 3317 of this title.

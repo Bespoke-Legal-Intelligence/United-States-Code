@@ -112,7 +112,7 @@ As used in this section—
 
 (1) Notwithstanding any other provision of law, all moneys in the fund shall be used exclusively for the purpose of promoting United States fisheries in accordance with the provisions of this section, and no such moneys shall be transferred from the fund for any other purpose. With respect to any fiscal year, all moneys in the fund, including the sum of all unexpended moneys carried over into that fiscal year and all moneys transferred to the fund under subsection (b) of this section or any other provision of law with respect to that fiscal year, shall be allocated as follows:
 
-&emsp;(A) the Secretary shall use no less than 60 per centum of such moneys to make direct industry assistance grants to develop the UnitedStates fisheries and to expand domestic and foreign markets for United States fishery products pursuant to subsection (c) of this section; and
+&emsp;(A) the Secretary shall use no less than 60 per centum of such moneys to make direct industry assistance grants to develop the United States fisheries and to expand domestic and foreign markets for United States fishery products pursuant to subsection (c) of this section; and
 
 &emsp;(B) the Secretary shall use the balance of the moneys in the fund to finance those activities of the National Marine Fisheries Service which are directly related to development of the United States fisheries pursuant to subsection (d) of this section.
 
@@ -176,7 +176,7 @@ Section 2 of act Aug. 11, 1939, which enacted this section, is popularly known a
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House ofRepresentatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Transfer of Functions
 

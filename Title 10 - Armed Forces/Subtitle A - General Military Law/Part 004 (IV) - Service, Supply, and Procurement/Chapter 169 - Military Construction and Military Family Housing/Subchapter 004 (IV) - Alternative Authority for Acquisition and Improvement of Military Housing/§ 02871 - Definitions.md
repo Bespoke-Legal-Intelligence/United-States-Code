@@ -16,15 +16,19 @@ In this subchapter:
 
 &emsp;(4) The term “contract” includes any contract, lease, or other agreement entered into under the authority of this subchapter.
 
-&emsp;(5) The term “Fund” means the Department of Defense Family Housing Improvement Fund or the Department of Defense Military Unaccompanied Housing Improvement Fund established under section 2883(a) of this title.
+&emsp;(5) The term “eligible entity” means any private person, corporation, firm, partnership, company, State or local government, or housing authority of a State or local government.
 
-&emsp;(6) The term “military unaccompanied housing” means military housing intended to be occupied by members of the armed forces serving a tour of duty unaccompanied by dependents.
+&emsp;(6) The term “Fund” means the Department of Defense Family Housing Improvement Fund or the Department of Defense Military Unaccompanied Housing Improvement Fund established under section 2883(a) of this title.
 
-&emsp;(7) The term “United States” includes the Commonwealth of Puerto Rico.
+&emsp;(7) The term “military unaccompanied housing” means military housing intended to be occupied by members of the armed forces serving a tour of duty unaccompanied by dependents.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 544; amended Pub. L. 105–261, div. B, title XXVIII, §2803, Oct. 17, 1998, 112 Stat. 2202.)
+&emsp;(8) The term “United States” includes the Commonwealth of Puerto Rico.
+
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 544; amendedPub. L. 105–261, div. B, title XXVIII, §2803, Oct. 17, 1998, 112 Stat. 2202; Pub. L. 106–65, div. B, title XXVIII, §2803(a), Oct. 5, 1999, 113 Stat. 848.)
 
 #### Amendments
+
+1999—Pars. (5) to (8). Pub. L. 106–65 added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
 
 1998—Par. (1). Pub. L. 105–261 inserted “facilities to provide or support elementary or secondary education,” after “including”.
 

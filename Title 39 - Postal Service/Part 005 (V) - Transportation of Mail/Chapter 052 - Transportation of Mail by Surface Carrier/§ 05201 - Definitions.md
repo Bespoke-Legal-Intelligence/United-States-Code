@@ -16,7 +16,7 @@ For purposes of this chapter—
 
 &emsp;(7) “mail” includes equipment and supplies of the Postal Service.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 768; Pub. L. 95–473, §2(a)(4)(A)–(C), Oct. 17, 1978, 92 Stat. 1465;Pub. L. 96–454, §3(b)(2), Oct. 15, 1980, 94 Stat. 2012; Pub. L. 97–261, §6(d)(4), Sept. 20, 1982, 96 Stat. 1107; Pub. L. 99–521, §4(3), Oct. 22, 1986, 100 Stat. 2993; Pub. L. 104–88, title III, §307(3)–(9), (14), Dec. 29, 1995, 109 Stat. 946.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 768; Pub. L. 95–473, §2(a)(4)(A)–(C), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 96–454, §3(b)(2), Oct. 15, 1980, 94 Stat. 2012; Pub. L. 97–261, §6(d)(4), Sept. 20, 1982, 96 Stat. 1107; Pub. L. 99–521, §4(3), Oct. 22, 1986, 100 Stat. 2993; Pub. L. 104–88, title III, §307(3)–(9), (14), Dec. 29, 1995, 109 Stat. 946.)
 
 #### Amendments
 

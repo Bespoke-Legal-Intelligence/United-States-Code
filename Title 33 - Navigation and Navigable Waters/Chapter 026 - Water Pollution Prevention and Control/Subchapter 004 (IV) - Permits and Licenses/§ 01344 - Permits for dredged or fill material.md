@@ -40,7 +40,7 @@ The term “Secretary” as used in this section means the Secretary of the Army
 
 > is not prohibited by or otherwise subject to regulation under this section or section 1311(a) or 1342 of this title (except for effluent standards or prohibitions under section 1317 of this title).
 
-(2) Any discharge of dredged or fill material into the navigable waters incidental to any activity having as its purpose bringing an area of the navigable waters into a use to which it was not previously subject, where the flow or circulation of navigable waters may be impaired or the reach of such waters be reduced, shall be required to have a permit under this section.
+(2) Any discharge of dredged or fill material into the navigable waters incidental to any activity having as its purpose bringing an area of the navigable waters into a use to which it was not previously subject, where the flow or circulation of navigable waters may be impaired orthe reach of such waters be reduced, shall be required to have a permit under this section.
 
 #### (g) State administration
 
@@ -86,11 +86,11 @@ The term “Secretary” as used in this section means the Secretary of the Army
 
 &emsp;(A) has the authority set forth in paragraph (1) of this subsection, the Administrator shall approve the program and so notify (i) such State and (ii) the Secretary, who upon subsequent notification from such State that it is administering such program, shall suspend the issuance of permits under subsections (a) and (e) of this section for activities with respect to which a permit may be issued pursuant to such State program; or
 
-&emsp;(B) does not have the authority set forth in paragraph (1) of this subsection, the Administrator shall so notify such State, which notification shall also describe the revisions or modifications necessary so that such State may resubmit such program for a determination by the Administrator under this subsection.
+&emsp;(B) does not have the authority set forth in paragraph (1) of this subsection, the Administrator shall so notify such State, which notification shall also describe the revisions or modifications necessary so that such Statemay resubmit such program for a determination by the Administrator under this subsection.
 
 (3) If the Administrator fails to make a determination with respect to any program submitted by a State under subsection (g)(1) of this section within one-hundred-twenty days after the date of the receipt of such program, such program shall be deemed approved pursuant to paragraph (2)(A) of this subsection and the Administrator shall so notify such State and the Secretary who, upon subsequent notification from such State that it is administering such program, shall suspend the issuance of permits under subsection (a) and (e) of this section for activities with respect to which a permit may be issued by such State.
 
-(4) After the Secretary receives notification from the Administrator under paragraph (2) or\(3) of this subsection that a State permit program has been approved, the Secretary shall transfer any applications for permits pending before the Secretary for activities with respect to which a permit may be issued pursuant to such State program to such State for appropriate action.
+(4) After the Secretary receives notification from the Administrator under paragraph (2) or (3) of this subsection that a State permit program has been approved, the Secretary shall transfer any applications for permits pending before the Secretary for activities with respect to which a permit may be issued pursuant to such State program to such State for appropriate action.
 
 (5) Upon notification from a State with a permit program approved under this subsection that such State intends to administer and enforce the terms and conditions of a general permit issued by the Secretary under subsection (e) of this section with respect to activities in such State to which such general permit applies, the Secretary shall suspend the administration and enforcement of such general permit with respect to such activities.
 
@@ -175,6 +175,10 @@ Enforcement functions of Administrator or other official of the Environmental Pr
 #### Authority To Delegate to State of Washington Functions of the Secretary Relating to Lake Chelan, Washington
 
 Section 76 of Pub. L. 95–217 provided that: “The Secretary of the Army, acting through the Chief of Engineers, is authorized to delegate to the State of Washington upon its request all or any part of those functions vested in such Secretary by section 404 of the Federal Water Pollution Control Act \[this section\] and by sections 9, 10, and 13 of the Act of March 3, 1899 \[sections 401, 403, and 407 of this title\], relating to Lake Chelan, Washington, if the Secretary determines (1) that such State has the authority, responsibility, and capability to carry out such functions, and (2) that such delegation is in the public interest. Such delegation shall be subject to such terms and conditions as the Secretary deems necessary, including, but not limited to, suspension and revocation for cause of such delegation.”
+
+#### Contiguous Zone of United States
+
+For extension of contiguous zone of United States, see Proc. No. 7219, Sept. 2, 1999, 64 F.R. 48701, set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 

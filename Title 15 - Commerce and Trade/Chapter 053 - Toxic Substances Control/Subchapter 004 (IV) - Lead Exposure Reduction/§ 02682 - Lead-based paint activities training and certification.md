@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(B) lead-based paint activities contractors certified in accordance with paragraph (1).
 
-> &emsp;The fees shall be established at such level as is necessary to cover the costs of administering and enforcing the standards and regulations under this section which are applicable to such programs and contractors. The fee shall not be imposed on any State, local government, or nonprofit training program. The Administrator (or the State in the case of an authorized State program) may waive the fee for lead-based paint activities contractors under subparagraph (A) for the purpose of training their own employees.
+> &emsp;The fees shall be established at such level as is necessary to cover the costs of administeringand enforcing the standards and regulations under this section which are applicable to such programs and contractors. The fee shall not be imposed on any State, local government, or nonprofit training program. The Administrator (or the State in the case of an authorized State program) may waive the fee for lead-based paint activities contractors under subparagraph (A) for the purpose of training their own employees.
 
 #### (b) Lead-based paint activities
 

@@ -14,9 +14,21 @@ The Commission shall have an official seal, which shall be judicially noticed.
 
 Executive and administrative functions of Federal Trade Commission, with certain reservations, transferred to Chairman of such Commission by Reorg. Plan No. 8 of 1950, set out below.
 
-Functions of Federal Trade Commission (1) under Flammable Fabrics Act \[section 1191 et seq. of this title\] and under this subchapter to extent that such functions relate to administration of Flammable Fabrics Act, and (2) under Act of August 2, 1956, \[section 1211 et seq. of this title\], transferred to Consumer Product Safety Commission by section 30 of Act Oct. 27, 1972, Pub. L. 92–573 \[section 2079 of this title\].
+Functions of Federal Trade Commission (1) under Flammable Fabrics Act \[section 1191 et seq. of thistitle\] and under this subchapter to extent that such functions relate to administration of Flammable Fabrics Act, and (2) under Act of August 2, 1956, \[section 1211 et seq. of this title\], transferred to Consumer Product Safety Commission by section 30 of Act Oct. 27, 1972, Pub. L. 92–573 \[section 2079 of this title\].
 
 By section 3 of act Sept. 26, 1914, Bureau of Corporations abolished and all employees and functions of said Bureau transferred to Federal Trade Commission.
+
+#### Clarification of Status of Subsidiaries and Affiliates
+
+Pub. L. 106–102, title I, §133(a), (b), Nov. 12, 1999, 113 Stat. 1383, provided that:
+
+“(a)
+
+Clarification of Federal Trade Commission Jurisdiction.—Any person that directly or indirectly controls, is controlled directly or indirectly by, or is directly or indirectly under common control with, any bank or savings association (as such terms are defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]) and is not itself a bank or savings association shall not be deemed to be a bank or savings association for purposes of any provisions applied by the Federal Trade Commission under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
+
+“(b)
+
+Savings Provision.—No provision of this section \[amending section 18a of this title\] shall be construed as restricting the authority of any Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]) under any Federal banking law, including section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\].”
 
 #### <b>REORGANIZATION PLAN NO. 8 OF 1950</b>
 
@@ -76,7 +88,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 2. Transfer of Functions to the Chairman
 
-In addition to the functions transferred by the provisions of Reorganization Plan No. 8 of 1950 (64 Stat. 1264) \[set out as a note under this section\], there are hereby transferred from the Commission to the Chairman of the Commission the functions of the Commission with respect to the assignment of Commission personnel, including Commissioners, to perform such functions as may have been delegated by the Commission to Commission personnel, including Commissioners, pursuant to section 1 of this reorganization plan.
+In addition to the functions transferred by the provisions of Reorganization Plan No. 8 of 1950 (64 Stat. 1264)\[set out as a note under this section\], there are hereby transferred from the Commission to the Chairman of the Commission the functions of the Commission with respect to the assignment of Commission personnel, including Commissioners, to perform such functions as may have been delegated by the Commission to Commission personnel, including Commissioners, pursuant to section 1 of this reorganization plan.
 
 #### Message of the President
 

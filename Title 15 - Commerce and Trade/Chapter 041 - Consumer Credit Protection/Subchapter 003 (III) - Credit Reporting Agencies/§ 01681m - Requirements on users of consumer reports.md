@@ -16,7 +16,7 @@ If any person takes any adverse action with respect to any consumer that is base
 
 &emsp;&emsp;(A) to obtain, under section 1681j of this title, a free copy of a consumer report on the consumer from the consumer reporting agency referred to in paragraph (2), which notice shall include an indication of the 60-day period under that section for obtaining such a copy; and
 
-&emsp;&emsp;(B) to dispute, under section 1681i of this title, with a consumer reporting agency the accuracy or completeness of any information in a consumer report furnished by the agency.
+&emsp;&emsp;(B) to dispute, under section 1681i of this title, with a consumer reporting agency theaccuracy or completeness of any information in a consumer report furnished by the agency.
 
 #### (b) Adverse action based on information obtained from third parties other than consumer reporting agencies
 
@@ -46,7 +46,7 @@ If any person takes any adverse action with respect to any consumer that is base
 
 &emsp;&emsp;&emsp;&emsp;(I) is furnished to the person taking the action by a person related by common ownership or affiliated by common corporate control to the person taking the action; and
 
-&emsp;&emsp;&emsp;&emsp;(II) bears on the credit worthiness,<sup>2</sup> credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living of the consumer; and
+&emsp;&emsp;&emsp;&emsp;(II) bears on the credit worthiness,<sup>1</sup> credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living of the consumer; and
 
 &emsp;&emsp;&emsp;(ii) does not include—
 
@@ -110,5 +110,5 @@ This section is referred to in sections 1681a, 1681b, 1681h, 1681j, 1681s, 1681t
 
 <i><sup>1</sup></i><i> So in original. Probably should be “creditworthiness,”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “creditworthiness,” or “creditworthiness”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “creditworthiness”.</i>
 

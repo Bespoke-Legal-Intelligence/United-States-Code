@@ -34,5 +34,5 @@ Duration of Test.—The test program established by subsection (a) shall not app
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3714b; title 50 App. section 460.
+This section is referred to in title 22 section 3714b; title 35 section 2; title 50 App. section 460.
 

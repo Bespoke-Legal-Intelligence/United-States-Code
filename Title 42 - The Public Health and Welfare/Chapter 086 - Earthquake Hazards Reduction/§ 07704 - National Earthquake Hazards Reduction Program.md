@@ -16,11 +16,11 @@ There is established a National Earthquake Hazards Reduction Program.
 
 &emsp;&emsp;(C) prepare, in conjunction with the other Program agencies, a written plan for the Program, which shall include specific tasks and milestones for each Program agency, and which shall be submitted to the Congress and updated at such times as may be required by significant Program events, but in no event less frequently than every 3 years;
 
-&emsp;&emsp;(D) prepare, in conjunction with the other Program agencies, a biennial report, to be submitted to the Congress within 90 daysafter the end of each even-numbered fiscal year, which shall describe the activities and achievements of the Program during the preceding two fiscal years;
+&emsp;&emsp;(D) prepare, in conjunction with the other Program agencies, a biennial report, to be submitted to the Congress within 90 days after the end of each even-numbered fiscal year, which shall describe the activities and achievements of the Program during the preceding two fiscal years;
 
 &emsp;&emsp;(E) request the assistance of Federal agencies other than the Program agencies, as necessary to assist in carrying out this chapter; and
 
-&emsp;&emsp;(F) work with the National Science Foundation, the National Institute of Standards and Technology, and the United States Geological Survey, to develop a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (existing at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner.
+&emsp;&emsp;(F) work with the National Science Foundation, the National Institute of Standardsand Technology, and the United States Geological Survey, to develop a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (existing at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner.
 
 > &emsp;The principal official carrying out the responsibilities described in this paragraph shall be at a level no lower than that of Associate Director.
 
@@ -124,11 +124,11 @@ There is established a National Earthquake Hazards Reduction Program.
 
 &emsp;&emsp;(D) work with the National Science Foundation, the Federal Emergency Management Agency, and the United States Geological Survey to develop a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (in existence at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner.
 
-(Pub. L. 95–124, §5, Oct. 7, 1977, 91 Stat. 1099; Pub. L. 96–472, title I, §101, Oct. 19, 1980, 94 Stat. 2257; Pub. L. 99–105, §§5, 6, Sept. 30, 1985, 99 Stat. 475; Pub. L. 100–252, §2, Feb. 29, 1988, 102 Stat. 18; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102Stat. 1433; Pub. L. 100–707, title I, §109(u), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 101–614, §5, Nov. 16, 1990, 104 Stat. 3232; Pub. L. 105–47, §3, Oct. 1, 1997, 111 Stat. 1162.)
+(Pub. L. 95–124, §5, Oct. 7, 1977, 91 Stat. 1099; Pub. L. 96–472, title I, §101, Oct. 19, 1980, 94 Stat. 2257; Pub. L. 99–105, §§5, 6, Sept. 30, 1985, 99 Stat. 475; Pub. L. 100–252, §2, Feb. 29, 1988, 102 Stat. 18; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–707, title I, §109(u), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 101–614, §5, Nov. 16, 1990, 104 Stat. 3232; Pub. L. 105–47, §3, Oct. 1, 1997, 111 Stat. 1162.)
 
 #### References in Text
 
-Section 10(a)(2) of the Federal Advisory Committee Act, referred to in subsec. (b)(3)(D), is section 10(a)(2) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 10(a)(2) of the Federal Advisory Committee Act, referred to in subsec. (b)(3)(D), is section 10(a)(2) ofPub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -163,6 +163,10 @@ Subsec. (e)(6). Pub. L. 96–472, §101(d), substituted “potential” for “p
 Subsec. (f). Pub. L. 96–472, §101(e), substituted in provision preceding par. (1), provision directing that the mitigation elements of the program are to be as specified in pars. (1) to (8) for provision authorizing the establishment of a implementation plan, year-by-year targets, and Federal and non-Federal roles, in par. (1), substituted provision including as one of the mitigating elements, issuance of earthquake predictions for provision including in the implementation plan development of measures in preparing for earthquakes, actual predictions, warnings, and insuring a comprehensive response to an earthquake, added pars. (7) and (8), and struck out provision following par. (8), that when the implementation plan developed by the President contemplates specific action to be taken by a Federal agency, department, or entity, and at the end of the 30-day period beginning on the date the President submits such plan to the appropriate authorizing committees of Congress and such action has not been initiated, the President submit to such committees a report why such action has not been taken.
 
 Subsec. (i). Pub. L. 96–472, §101(f), added subsec. (i).
+
+#### Contribution to the Advancement of Seismology
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1116\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that: “The United States Government shall, to the maximum extent practicable, make available to the public in real time, or as quickly as possible, all raw seismological data provided to the United States Government by any international organization that is directly responsible for seismological monitoring.”
 
 #### Authorization of Real-Time Seismic Hazard Warning System Development, and Other Activities
 
@@ -332,7 +336,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 Section 1. Requirements for Earthquake Safety of New Federal Buildings.
 
-The purposes of these requirements are to reduce risks to the lives of occupants of buildings owned by the Federal Government and to persons who would be affected by the failures of Federal buildings in earthquakes, to improve the capability of essential Federal buildings to function during or after an earthquake, and to reduce earthquake losses of public buildings, all in a cost-effective manner. A building means any structure, fully or partially enclosed, used or intended for sheltering persons or property.
+The purposes of these requirements are to reduce risks to the lives of occupants of buildings owned by the Federal Government and to persons who would be affected by the failures of Federal buildings in earthquakes, to improve the capability of essential Federal buildings to function during or after an earthquake, and to reduce earthquake losses of public buildings, allin a cost-effective manner. A building means any structure, fully or partially enclosed, used or intended for sheltering persons or property.
 
 Each Federal agency responsible for the design and construction of each new Federal building shall ensure that the building is designed and constructed in accord with appropriate seismic design and construction standards. This requirement pertains to all building projects for which development of detailed plans and specifications is initiated subsequent to the issuance of the order. Seismic design and construction standards shall be adopted for agency use in accord with sections 3(a) and 4(a) of this order.
 

@@ -1,14 +1,22 @@
 ### §164. Assistance of Department of Agriculture
 
-The President may by Executive order direct the Secretary of Agriculture, in accordance with the requests of the Commissioner, for the purpose of carrying into effect the provisions of this title with respect to plants (1) to furnish available information of the Department of Agriculture, (2) to conduct through the appropriate bureau or division of the Department research upon special problems, or (3) to detail to the Commissioner officers and employees of the Department.
+The President may by Executive order direct the Secretary of Agriculture, in accordance with the requests of the Director, for the purpose of carrying into effect the provisions of this title with respect to plants (1) to furnish available information of the Department of Agriculture, (2) to conduct through the appropriate bureau or division of the Department research upon specialproblems, or (3) to detail to the Director officers and employees of the Department.
 
-(July 19, 1952, ch. 950, 66 Stat. 804.)
+(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
 
 #### Historical and Revision Notes
 
 Based on Title 35, U.S.C., 1946 ed., §56a (May 23, 1930, ch. 312, §4, 46 Stat. 376).
 
 Language is changed.
+
+#### Amendments
+
+1999—Pub. L. 106–113 substituted “Director” for “Commissioner” in two places.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 #### Transfer of Functions
 

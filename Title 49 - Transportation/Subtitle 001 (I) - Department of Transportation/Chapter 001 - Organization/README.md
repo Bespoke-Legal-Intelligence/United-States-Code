@@ -14,10 +14,13 @@
 | [110\.](%C2%A7%2000110%20-%20Saint%20Lawrence%20Seaway%20Development%20Corporation.md) | Saint Lawrence Seaway Development Corporation. |
 | [111\.](%C2%A7%2000111%20-%20Bureau%20of%20Transportation%20Statistics.md) | Bureau of Transportation Statistics. |
 | [112\.](%C2%A7%2000112%20-%20Research%20and%20Special%20Programs%20Administration.md) | Research and Special Programs Administration. |
+| [113\.](%C2%A7%2000113%20-%20Federal%20Motor%20Carrier%20Safety%20Administration.md) | Federal Motor Carrier Safety Administration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–159, title I, §101(c)(1), Dec. 9, 1999, 113 Stat. 1751, added item 113.
 
 1994—Pub. L. 103–272, §4(j)(5)(B), July 5, 1994, 108 Stat. 1366, as amended by Pub. L. 103–429, §7(a)(3)(C), Oct. 31, 1994, 108 Stat. 4388, struck out first item 110 “St. Lawrence Seaway Development Corporation”.
 
@@ -42,3 +45,4 @@
 - [&sect; 00110 - Saint Lawrence Seaway Development Corporation](%C2%A7%2000110%20-%20Saint%20Lawrence%20Seaway%20Development%20Corporation.md)
 - [&sect; 00111 - Bureau of Transportation Statistics](%C2%A7%2000111%20-%20Bureau%20of%20Transportation%20Statistics.md)
 - [&sect; 00112 - Research and Special Programs Administration](%C2%A7%2000112%20-%20Research%20and%20Special%20Programs%20Administration.md)
+- [&sect; 00113 - Federal Motor Carrier Safety Administration](%C2%A7%2000113%20-%20Federal%20Motor%20Carrier%20Safety%20Administration.md)

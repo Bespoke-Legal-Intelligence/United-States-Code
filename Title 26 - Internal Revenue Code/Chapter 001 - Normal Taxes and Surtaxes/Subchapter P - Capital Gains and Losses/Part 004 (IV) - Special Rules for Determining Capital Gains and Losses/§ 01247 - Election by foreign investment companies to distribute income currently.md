@@ -80,7 +80,7 @@ A foreign investment company with respect to which an election pursuant to subse
 
 &emsp;(1) the foreign investment company—
 
-&emsp;&emsp;(A) shall compute its taxable income, for purposes of subsection (a)(1)(A), without any deductions for income, war profits, or excess profits taxes paid to foreign countries or possessions of the United States, and
+&emsp;&emsp;(A) shall compute its taxable income, for purposes of subsection (a)(1)(A), without anydeductions for income, war profits, or excess profits taxes paid to foreign countries or possessions of the United States, and
 
 &emsp;&emsp;(B) shall treat the amount of such taxes, for purposes of subsection (a)(1)(A), as distributed to its shareholders;
 

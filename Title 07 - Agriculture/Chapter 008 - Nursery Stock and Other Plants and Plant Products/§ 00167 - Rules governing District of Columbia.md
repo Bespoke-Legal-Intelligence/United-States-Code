@@ -8,7 +8,7 @@ Eradication by Secretary of Agriculture.—Whenever such owner or person cannot 
 
 Inspection.—Employees of the Bureau of Entomology and Plant Quarantine are authorized and required to inspect places, plants, and plant products and articles and substances used or connected therewith whenever the Secretary of Agriculture shall determine that such inspections are necessary for the purposes of this section.
 
-Entry upon premises; opening packages; destruction of plants, etc.—For the purpose of carrying out the provisions and requirements of this section and of the rules and regulations of the Secretary of Agriculture made hereunder, and the notices given pursuant thereto, employees of the Bureau of Entomology and Plant Quarantine shall have power with a warrant to enter into or upon any place and open any bundle, package, or other container of plants or plant products whenever they shall have cause to believe that infections or infestations of plant pests and diseases exist therein or thereon, and when such infections or infestations are found to exist, after notice by the Secretary of Agriculture to the owner or person in possession or control thereof and an opportunity by said owner or person to be heard, to destroy the infected or infested plants or plant products contained therein.
+Entry upon premises; opening packages; destruction of plants, etc.—For the purpose of carrying out the provisions and requirements of this section and of the rules and regulations of the Secretary of Agriculture made hereunder, and the notices given pursuant thereto, employees of the Bureau of Entomology and Plant Quarantine shall have power with a warrant to enter into or upon any place and open any bundle, package, or other container of plants or plant products whenever they shall have cause to believe that infections or infestations ofplant pests and diseases exist therein or thereon, and when such infections or infestations are found to exist, after notice by the Secretary of Agriculture to the owner or person in possession or control thereof and an opportunity by said owner or person to be heard, to destroy the infected or infested plants or plant products contained therein.
 
 Search warrants.—The Superior Court of the District of Columbia shall have power, upon information supported by oath or affirmation showing probable cause for believing that there exists in any place, bundle, package, or other container in the District of Columbia any plant or plant product which is infected or infested with plant pests or disease, to issue warrants for the search for and seizure of all such plants and plant products.
 
@@ -22,7 +22,7 @@ Section is also set out in D.C. Code, §6–1104.
 
 #### Change of Name
 
-In penultimate par., “Superior Court of the District of Columbia” substituted for “District of ColumbiaCourt of General Sessions” on authority of Pub. L. 91–358.
+In penultimate par., “Superior Court of the District of Columbia” substituted for “District of Columbia Court of General Sessions” on authority of Pub. L. 91–358.
 
 “District of Columbia Court of General Sessions” was the designation given to the “Municipal Court for the District of Columbia” by Pub. L. 88–60, §§1, 7, July 8, 1963, 77 Stat. 77, 78, which provided that, eff. Jan. 1, 1963, whenever reference is made in any Act of Congress to the “Municipal Court for the District of Columbia”, such reference shall be held to be a reference to the “District of Columbia Court of General Sessions.”
 

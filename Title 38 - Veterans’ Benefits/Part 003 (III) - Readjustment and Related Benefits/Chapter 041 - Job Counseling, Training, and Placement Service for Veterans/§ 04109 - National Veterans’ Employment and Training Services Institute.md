@@ -4,7 +4,7 @@
 
 (b) In implementing this section, the Secretary shall, as the Secretary considers appropriate, provide, out of program funds designated for the Institute, training for Veterans’ Employment and Training Service personnel, including travel expenses and per diem to attend the Institute.
 
-(Added Pub. L. 97–306, title III, §308(a), Oct. 14, 1982, 96 Stat. 1440, §2009; amended Pub. L. 100–323, §8(a), May 20, 1988, 102 Stat. 566; renumbered §4109, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 97–306, title III, §308(a), Oct. 14, 1982, 96 Stat. 1440, §2009; amended Pub. L.100–323, §8(a), May 20, 1988, 102 Stat. 566; renumbered §4109, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Prior Provisions
 

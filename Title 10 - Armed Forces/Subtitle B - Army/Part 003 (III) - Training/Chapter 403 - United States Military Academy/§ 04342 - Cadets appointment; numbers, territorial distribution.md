@@ -1,6 +1,6 @@
 ### §4342. Cadets: appointment; numbers, territorial distribution
 
-(a) The authorized strength of the Corps of Cadets of the Academy is as follows:
+(a) The authorized strength of the Corps of Cadets of the Academy (determined for any year as of the day before the last day of the academic year) is 4,000. Subject to that limitation, cadets are selected as follows:
 
 &emsp;(1) 65 cadets selected in order of merit as established by competitive examinations from the children of members of the armed forces who were killed in action or died of, or have a service-connected disability rated at not less than 100 per centum resulting from, wounds or injuries received or diseases contracted in, or preexisting injury or disease aggravated by, active service, children of members who are in a “missing status” as defined in section 551(2) of title 37, and children of civilian employees who are in “missing status” as defined in section 5561(5) of title 5. The determination of the Department of Veterans Affairs as to service connection of the cause of death or disability, and the percentage at which the disability is rated, is binding upon the Secretary of the Army.
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) are on active duty (other than for training) and who have served continuously on active duty for at least eight years;
 
-&emsp;&emsp;(B) are, or who died while they were, retired with pay or granted retired or retainer pay, other than those granted retired pay under section 12731 of this title (or under section 1331 of this title as in effect beforethe effective date of the Reserve Officer Personnel Management Act);
+&emsp;&emsp;(B) are, or who died while they were, retired with pay or granted retired or retainer pay, other than those granted retired pay under section 12731 of this title (or under section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act);
 
 > &emsp;however, a person who is eligible for selection under clause (1) of subsection (a) may not be selected under this clause.
 
@@ -50,7 +50,7 @@
 
 (f) Each candidate for admission nominated under clauses (3) through (9) of subsection (a) must be domiciled in the State, or in the congressional district, from which he is nominated, or in the District of Columbia, Puerto Rico, American Samoa, Guam, or the Virgin Islands, if nominated from one of those places.
 
-(g) The Secretary of the Army may limit the number of cadets authorized to be appointed under this section to the number that can be adequately accommodated at the Academy, as determined by the Secretary after consulting with the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives, subject to the following:
+(g) The Secretary of the Army may limit the number of cadets authorized to be appointed under this section to the number that can be adequately accommodated at the Academy, as determined by the Secretary after consulting with the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, subject to the following:
 
 &emsp;(1) Cadets chargeable to each nominating authority named in subsection (a)(3) or (4) may not be limited to less than four.
 
@@ -76,7 +76,9 @@
 
 (h) The Secretary of the Army shall furnish to any Member of Congress, upon the written request of such Member, the name of the Congressman or other nominating authority responsible for the nomination of any named or identified person for appointment to the Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 240; Pub. L. 85–861, §33(a)(26), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–663, §1(1), (2), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §1(1), Mar. 3, 1964, 78 Stat. 148; Pub. L. 89–650, §1(1)–(4), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(1), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §1(1)–(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, §512(13), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 96–600, §2(a), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(a)(1), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 98–94, title X, §1005(a)(1), (b)(1), Sept. 24, 1983, 97 Stat. 660; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(a)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1672(c)(3), Oct. 5, 1994, 108 Stat. 3015; Pub. L. 104–106, div. A, title V, §532(a), title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 314, 502; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903.)
+(i) For purposes of the limitation in subsection (a) establishing the aggregate authorized strength of the Corps of Cadets, the Secretary ofthe Army may for any year (beginning with the 2001–2002 academic year) permit a variance in that limitation by not more than one percent. In applying that limitation, and any such variance, the last day of an academic year shall be considered to be graduation day.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 240; Pub. L. 85–861, §33(a)(26), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–663, §1(1), (2), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §1(1), Mar. 3, 1964, 78 Stat. 148; Pub. L. 89–650, §1(1)–(4), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(1), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §1(1)–(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, §512(13), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 96–600, §2(a), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(a)(1), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 98–94, title X, §1005(a)(1), (b)(1), Sept. 24, 1983, 97 Stat. 660; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(a)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1672(c)(3), Oct. 5, 1994, 108 Stat. 3015; Pub. L. 104–106, div. A, title V, §532(a), title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 314, 502; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 602, 774.)
 
 Historical and Revision Notes
 
@@ -164,6 +166,12 @@ Section 1331 of this title as in effect before the effective date of the Reserve
 
 #### Amendments
 
+1999—Subsec. (a). Pub. L. 106–65, §531(b)(1)(A), substituted “(determined for any year as of the day before the last day of the academic year) is 4,000. Subject to that limitation, cadets are selected as follows:” for “is as follows:” in introductory provisions.
+
+Subsec. (g). Pub. L. 106–65, §1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
+
+Subsec. (i). Pub. L. 106–65, §531(b)(1)(B), added subsec. (i).
+
 1997—Subsec. (a)(10). Pub. L. 105–85 substituted “Mariana” for “Marianas”.
 
 1996—Subsec. (a)(10). Pub. L. 104–106, §532(a), added par. (10).
@@ -226,10 +234,6 @@ Subsec. (c). Pub. L. 87–633, §1(2), inserted references to American Samoa, Gu
 
 1958—Subsec. (c). Pub. L. 85–861 inserted a comma after “district”.
 
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
-
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
@@ -246,7 +250,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1973 Amendment
 
-Section 4 of Pub. L. 93–171 provided that: “The amendments made by this Act \[amending this section and sections 4343, 6954, 6956, 6958, 9342, and 9343 of this title\] shall be effective beginning with the nominations for appointments to the service academies in the calendar year 1974.”
+Section 4 of Pub. L. 93–171 provided that: “The amendments made by this Act \[amending this sectionand sections 4343, 6954, 6956, 6958, 9342, and 9343 of this title\] shall be effective beginning with the nominations for appointments to the service academies in the calendar year 1974.”
 
 #### Effective Date of 1970 Amendment
 
@@ -260,29 +264,27 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of this title.
 
+#### Strength Limitations at United States Military Academy
+
+Pub. L. 106–65, div. A, title V, §531(a), Oct. 5, 1999, 113 Stat. 601, provided that:
+
+“(1) The Secretary of the Army shall take such action as necessary to ensure that the United States Military Academy is in compliance with the USMA cadet strength limit not later than the day before the last day of the 2001–2002 academic year.
+
+“(2) The Secretary of the Army may provide for a variance to the USMA cadet strength limit—
+
+&emsp;“(A) as of the day before the last day of the 1999–2000 academic year of not more than 5 percent; and
+
+&emsp;“(B) as of the day before the last day of the 2000–2001 academic year of not more than 21/2 percent.
+
+“(3) For purposes of this subsection—
+
+&emsp;“(A) the USMA cadet strength limit is the maximum of 4,000 cadets established for the Corps of Cadets at the United States Military Academy by section 511 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; \[former\] 10 U.S.C. 4342 note), reenacted in section 4342(a) of title 10, United States Code, by the amendment made by subsection (b)(1); and
+
+&emsp;“(B) the last day of an academic year is graduation day.”
+
 #### Limitation on Number of Cadets and Midshipmen Authorized To Attend Service Academies
 
-Pub. L. 102–190, div. A, title V, §511(a)–(d), Dec. 5, 1991, 105 Stat. 1359, 1360, provided that:
-
-“(a)
-
-Reduction in Authorized Strengths.—The authorized strength of the Corps of Cadets of the United States Military Academy, the Air Force Cadets of the United States Air Force Academy, and the brigade of midshipmen of the United States Naval Academy may not exceed 4,000 for each service academy for class years beginning after 1994.
-
-“(b)
-
-Class Reductions Not To Affect Certain Appointments.—Any reduction in the number of appointments to the class of a service academy required as a result of subsection (a) may not be achieved by reducing the number of appointments under section 4342(a), 6954(a), or 9342(a) of title 10, United States Code, as applicable.
-
-“(c)
-
-GAO Report.—(1) The Comptroller General of the United States shall determine for each of the Army, Navy, Air Force, and Marine Corps the percentage for each benchmark year of the commissioned officers receiving an original appointment during that year who were graduates of a service academy. The Comptroller General shall also determine the average of those annual percentages for each of those Armed Forces.
-
-“(2) The Comptroller General shall select the benchmark years (including the number of years to be used as benchmark years) for purposes of paragraph (1). The Comptroller General may select different benchmark years for each of the Army, Navy, Air Force, and Marine Corps. Each year selected as a benchmark year shall be one for which the active duty strength of the Armed Force concerned was approximately the authorized end strength established by law for that Armed Force for members on active duty for fiscal year 1995.
-
-“(3) Not later than February 15, 1992, the Comptroller General shall submit to the Committees on Armed Services of the Senate and House of Representatives areport describing the results of the determinations of the Comptroller General under paragraph (1).
-
-“(d)
-
-Service Academy Defined.—For purposes of this section, the term ‘service academy’ means the United States Military Academy, the United States Air Force Academy, or the United States Naval Academy.”
+Pub. L. 102–190, div. A, title V, §511(a)–(d), Dec. 5, 1991, 105 Stat. 1359, 1360, provided that authorized strength of Corps of Cadets of United States Military Academy, Air Force Cadets of United States Air Force Academy, and brigade of midshipmen of United States Naval Academy could not exceed 4,000 for each service academy for class years beginning after 1994, and contained provisions concerning effect of class reductions on certain appointments and requiring Comptroller General to make determinations and reports, prior to repeal by Pub. L. 106–65, div. A, title V, §531(b)(4), Oct. 5, 1999, 113 Stat. 602.
 
 Section 531 of Pub. L. 101–510, which required that number of appointments made for class entering service academy in 1991 not exceed the number 100 less than the number entering service academy in 1990, and that number of such appointments not exceed 1,000 in 1995, was repealed by Pub. L. 102–190, div. A, title V, §511(e), Dec. 5, 1991, 105 Stat. 1360.
 

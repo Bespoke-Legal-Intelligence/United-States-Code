@@ -8,7 +8,7 @@ New obligations issued to an eligible country under section 1738c of this title 
 
 #### (1) United States dollars
 
-&emsp;An eligible country to which a new obligation has been issued under section 1738c of thistitle that has not entered into an agreement under section 1738f of this title, shall be required to pay interest on such obligation in United States dollars which shall be deposited in Commodity Credit Corporation accounts.
+&emsp;An eligible country to which a new obligation has been issued under section 1738c of this title that has not entered into an agreement under section 1738f of this title, shall be required to pay interest on such obligation in United States dollars which shall be deposited in Commodity Credit Corporation accounts.
 
 #### (2) Local currency
 
@@ -23,4 +23,8 @@ If an eligible country to which a new obligation has been issued under section 1
 #### Amendments
 
 1991—Subsec. (c). Pub. L. 102–237 inserted “accounts” after “Corporation”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 22 section 2431e.
 

@@ -18,7 +18,7 @@
 
 #### (C) Deficiencies
 
-&emsp;&emsp;The statutory period for the assessment of any deficiency for any taxable year, to the extent such deficiency is attributable to an election or revocation of an election under this subsection, shall not expire before the last day of the 2-year period beginning on the day after the date on which such election or revocation of election is made; and such deficiency may be assessed at any time before the expiration of such 2-year period, notwithstanding any law or rule of law which would otherwise prevent such assessment.
+&emsp;&emsp;The statutory period for the assessment of any deficiency for any taxable year, to the extent such deficiency is attributable to an election or revocation of an election under this subsection, shall not expire before the last day of the 2-year period beginning onthe day after the date on which such election or revocation of election is made; and such deficiency may be assessed at any time before the expiration of such 2-year period, notwithstanding any law or rule of law which would otherwise prevent such assessment.
 
 #### (b) Recapture on reaching producing stage
 

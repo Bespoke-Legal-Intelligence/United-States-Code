@@ -60,7 +60,7 @@
 
 #### (B) Reduction of allotment
 
-&emsp;&emsp;The requirements of paragraph (3)(B) shall apply with respect to amounts to be allotted to States under subparagraph (A), in the same manner and to the same extent as such requirements apply with respect to amounts to be allotted to States under paragraph (3)(A).
+&emsp;&emsp;The requirements of paragraph (3)(B) shall apply with respect to amounts to be allotted to States under subparagraph (A), in the same manner and to the same extent as suchrequirements apply with respect to amounts to be allotted to States under paragraph (3)(A).
 
 #### (5) State supports, services, and other activities
 
@@ -120,7 +120,7 @@ Subsec. (a)(3). Pub. L. 103–230, §206(b)(1)(D), inserted headings for par. (3
 
 Subsec. (a)(4). Pub. L. 103–230, §206(b)(1)(E), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In any case in which amounts appropriated under section 6030 of this title for a fiscal year exceeds $65,000,000, the allotment under paragraph (1) for such fiscal year—
 
-&emsp;“(A) to each of American Samoa, Guam, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau may not be less than $210,000; and
+&emsp;“(A) to each of American Samoa, Guam, the Virgin Islands, the Commonwealth of the Northern MarianaIslands, the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau may not be less than $210,000; and
 
 &emsp;“(B) to each of the several States, Puerto Rico or the District of Columbia may not be less than $400,000.”
 

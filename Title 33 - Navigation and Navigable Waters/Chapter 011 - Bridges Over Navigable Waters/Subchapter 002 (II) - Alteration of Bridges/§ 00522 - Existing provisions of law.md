@@ -2,7 +2,7 @@
 
 #### (a) Obstructing navigation; criminal penalties
 
-The first sentence of section 494 of this title, and section 502 of this title, shall be inapplicable with respect to any bridge to which the provisions of this subchapter are applicable, except to the extent provided in this section.
+The first sentence of section 494 of this title, and section 502 of this title, shall be inapplicablewith respect to any bridge to which the provisions of this subchapter are applicable, except to the extent provided in this section.
 
 #### (b) Construction, reconstruction, or alteration of bridges not completed on July 1, 1939; apportionment of costs
 

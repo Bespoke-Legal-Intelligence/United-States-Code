@@ -18,7 +18,7 @@ A national bank may not permit—
 
 &emsp;(1) the use of any part of any of its banking offices by any persons for any purpose forbidden to the bank under subsection (a) of this section, or
 
-&emsp;(2) direct access by the public from any of its banking offices to any premises used by any person for any purpose forbidden to the bank under subsection (a) of this section.
+&emsp;(2) direct access by the public from any of its banking offices to any premises used by anyperson for any purpose forbidden to the bank under subsection (a) of this section.
 
 #### (c) Definitions
 
@@ -44,7 +44,7 @@ Nothing contained in this section prohibits a national bank from accepting depos
 
 The Comptroller of the Currency shall issue such regulations as may be necessary to the strict enforcement of this section and the prevention of evasions thereof.
 
-(R.S. §5136A, as added Pub. L. 90–203, §1(a), Dec. 15, 1967, 81 Stat. 608.)
+(R.S. §5136B, formerly §5136A, as added Pub. L. 90–203, §1(a), Dec. 15, 1967, 81 Stat. 608; renumbered R.S. §5136B, Pub. L. 106–102, title I, §121(a)(1), Nov. 12, 1999, 113 Stat. 1373.)
 
 #### Effective Date
 

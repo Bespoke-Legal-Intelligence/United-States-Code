@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “health center” means an entity that serves a population that is medically underserved, or a special medically underserved population comprised of migratory and seasonal agricultural workers, the homeless, and residents of public housing, by providing, either through the staff and supporting resources of the center or through contracts or cooperative arrangements—
+&emsp;For purposes of this section, the term “health center” means an entity that serves a population that is medically underserved, or a special medically underserved population comprised of migratory and seasonal agriculturalworkers, the homeless, and residents of public housing, by providing, either through the staff and supporting resources of the center or through contracts or cooperative arrangements—
 
 &emsp;&emsp;(A) required primary health services (as defined in subsection (b)(1) of this section); and
 
@@ -56,7 +56,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) referrals to providers of medical services and other health-related services (including substance abuse and mental health services);
 
-&emsp;&emsp;&emsp;(iii) patient case management services (including counseling, referral, and follow-up services) and other services designed toassist health center patients in establishing eligibility for and gaining access to Federal, State, and local programs that provide or financially support the provision of medical, social, educational, or other related services;
+&emsp;&emsp;&emsp;(iii) patient case management services (including counseling, referral, and follow-up services) and other services designed to assist health center patients in establishing eligibility for and gaining access to Federal, State, and local programs that provide or financially support the provision of medical, social, educational, or other related services;
 
 &emsp;&emsp;&emsp;(iv) services that enable individuals to use the services of the health center (including outreach and transportation services and, if a substantial number of the individuals in the population served by a center are of limited English-speaking ability, the services of appropriate personnel fluent in the language spoken by a predominant number of such individuals); and
 
@@ -100,7 +100,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “medically underserved population” means the population of an urban or rural area designated by the Secretary as an area with a shortage of personal health services or a population group designated by the Secretary as having a shortage of such services.
+&emsp;&emsp;The term “medically underserved population” means the population of an urban or rural area designated by the Secretary as an area with a shortage of personal health services or a population group designated by theSecretary as having a shortage of such services.
 
 #### (B) Criteria
 
@@ -162,7 +162,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish a program under which the Secretary may, in accordance with this subsection and to the extent that appropriations are provided in advance for such program, guarantee the principal and interest on loans made by non-Federal lenders to health centers funded under this section for the costs of developing and operating managed care networks or plans.
+&emsp;&emsp;The Secretary shall establish a program under which the Secretary may, in accordance with this subsection and to the extent that appropriations are provided in advance for such program, guarantee the principal and interest on loans made by non-Federal lenders to health centers funded under thissection for the costs of developing and operating managed care networks or plans.
 
 #### (B) Use of funds
 
@@ -192,7 +192,7 @@ For purposes of this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The United States shall be entitled to recover from the applicant for a loan guarantee under this subsection the amount of any payment made pursuant to such guarantee, unless the Secretary for good cause waives such right of recovery (subject to appropriations remaining available to permit such a waiver) and, upon making any such payment, the United States shall be subrogated to all of the rights of the recipient of the payments with respect to which the guarantee was made. Amounts recovered under this clause shall be credited asreimbursements to the financing account of the program.
+&emsp;&emsp;&emsp;The United States shall be entitled to recover from the applicant for a loan guarantee under this subsection the amount of any payment made pursuant to such guarantee, unless the Secretary for good cause waives such right of recovery (subject to appropriations remaining available to permit such a waiver) and, upon making any such payment, the United States shall be subrogated to all of the rights of the recipient of the payments with respect to which the guarantee was made. Amounts recovered under this clause shall be credited as reimbursements to the financing account of the program.
 
 #### (ii) Modification of terms and conditions
 
@@ -228,7 +228,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the requirements of the Credit Reform Act of 1990 (2 U.S.C. 661 et seq.), the Secretary may take such action as may be necessary to prevent a default on a loan guaranteed under this subsection, including the waiver of regulatory conditions, deferral of loan payments, renegotiation of loans, and the expenditure of funds for technical and consultative assistance, for the temporary payment of the interest and principal on such a loan, and for other purposes. Any such expenditure made under the preceding sentence on behalf of a health center or centers shall be made under such terms and conditions as the Secretary shall prescribe, including the implementation of such organizational, operational, and financial reforms as the Secretary determines are appropriate and the disclosure of such financial or other information as the Secretary may require to determine the extent of the implementation of such reforms.
+&emsp;&emsp;Subject to the requirements of the Credit Reform Act of 1990 (2 U.S.C. 661 et seq.), theSecretary may take such action as may be necessary to prevent a default on a loan guaranteed under this subsection, including the waiver of regulatory conditions, deferral of loan payments, renegotiation of loans, and the expenditure of funds for technical and consultative assistance, for the temporary payment of the interest and principal on such a loan, and for other purposes. Any such expenditure made under the preceding sentence on behalf of a health center or centers shall be made under such terms and conditions as the Secretary shall prescribe, including the implementation of such organizational, operational, and financial reforms as the Secretary determines are appropriate and the disclosure of such financial or other information as the Secretary may require to determine the extent of the implementation of such reforms.
 
 #### (B) Foreclosure
 
@@ -296,7 +296,7 @@ For purposes of this section:
 
 #### (C) Use of nongrant funds
 
-&emsp;&emsp;Nongrant funds described in clauses (i) and (ii) of subparagraph (A), including any such funds in excess of those originally expected, shall be used as permitted under this section, and may be used for such other purposes as are not specifically prohibited under this section if such use furthers the objectives of the project.
+&emsp;&emsp;Nongrant funds described in clauses (i) and (ii) of subparagraph (A), including any suchfunds in excess of those originally expected, shall be used as permitted under this section, and may be used for such other purposes as are not specifically prohibited under this section if such use furthers the objectives of the project.
 
 #### (f) Infant mortality grants
 
@@ -338,7 +338,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) migratory agricultural workers, seasonal agricultural workers, and members of the families of such migratory and seasonal agricultural workers who are within a designated catchment area; and
 
-&emsp;&emsp;(B) individuals who have previously been migratory agricultural workers but who no longer meet the requirements of subparagraph (A) of paragraph (3) because of age ordisability and members of the families of such individuals who are within such catchment area.
+&emsp;&emsp;(B) individuals who have previously been migratory agricultural workers but who no longer meet the requirements of subparagraph (A) of paragraph (3) because of age or disability and members of the families of such individuals who are within such catchment area.
 
 #### (2) Environmental concerns
 
@@ -422,7 +422,7 @@ For purposes of this section:
 
 #### (1) Submission
 
-&emsp;No grant may be made under this section unless an application therefore is submitted to,and approved by, the Secretary. Such an application shall be submitted in such form and manner and shall contain such information as the Secretary shall prescribe.
+&emsp;No grant may be made under this section unless an application therefore is submitted to, and approved by, the Secretary. Such an application shall be submitted in such form and manner and shall contain such information as the Secretary shall prescribe.
 
 #### (2) Description of need
 
@@ -450,7 +450,7 @@ For purposes of this section:
 
 &emsp;&emsp;(E) the center—
 
-&emsp;&emsp;&emsp;(i) has or will have a contractual or other arrangement with the agency of the State, in which it provides services, which administers or supervises the administration of a State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the payment of all or a part of the center's costs in providing health services to persons who are eligible for medical assistance under such a State plan; or
+&emsp;&emsp;&emsp;(i) has or will have a contractual or other arrangement with the agency of the State, in which it provides services, whichadministers or supervises the administration of a State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the payment of all or a part of the center's costs in providing health services to persons who are eligible for medical assistance under such a State plan; or
 
 &emsp;&emsp;&emsp;(ii) has made or will make every reasonable effort to enter into such an arrangement;
 
@@ -540,7 +540,7 @@ The Secretary may provide (either through the Department of Health and Human Ser
 
 #### (i) Fiscal year 1997
 
-&emsp;&emsp;&emsp;For fiscal year 1997, the Secretary, in awarding grants under this section shall ensure that the amounts made available under each of subsections (g), (h), and (i) ofthis section in such fiscal year bears the same relationship to the total amount appropriated for such fiscal year under paragraph (1) as the amounts appropriated for fiscal year 1996 under each of sections 254b, 256, and 256a of this title (as such sections existed one day prior to October 11, 1996) bears to the total amount appropriated under sections 256b, 256c, 256, and 256a of this title (as such sections existed one day prior to October 11, 1996) for such fiscal year.
+&emsp;&emsp;&emsp;For fiscal year 1997, the Secretary, in awarding grants under this section shall ensure that the amounts made available under each of subsections (g), (h), and (i) of this section in such fiscal year bears the same relationship to the total amount appropriated for such fiscal year under paragraph (1) as the amounts appropriated for fiscal year 1996 under each of sections 254b, 256, and 256a of this title (as such sections existed one day prior to October 11, 1996) bears to the total amount appropriated under sections 256b, 256c, 256, and 256a of this title (as such sections existed one day prior to October 11, 1996) for such fiscal year.
 
 #### (ii) Fiscal years 1998 and 1999
 
@@ -568,7 +568,7 @@ In carrying out this section, the Secretary may enter into a memorandum of agree
 
 #### (1) In general
 
-&emsp;Each entity which receives a grant under subsection (e) of this section shall establish and maintain such records as the Secretary shall require.
+&emsp;Each entity which receives a grant under subsection (e) of this section shall establishand maintain such records as the Secretary shall require.
 
 #### (2) Availability
 

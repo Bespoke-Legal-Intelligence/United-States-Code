@@ -1,6 +1,6 @@
 ### §41910. Weighing mail
 
-The United States Postal Service may weigh mail transported by aircraft and make statistical and administrative computations necessary in the interest of mail service. When the Secretary of Transportation decides that additional or more frequent weighings of mail are advisable or necessary to carry out this part, the Postal Service shall provide the weighings,but it is not required to provide them for continuous periods of more than 30 days.
+The United States Postal Service may weigh mail transported by aircraft and make statistical and administrative computations necessary in the interest of mail service. When the Secretary of Transportation decides that additional or more frequent weighings of mail are advisable or necessary to carry out this part, the Postal Service shall provide the weighings, but it is not required to provide them for continuous periods of more than 30 days.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1157.)
 

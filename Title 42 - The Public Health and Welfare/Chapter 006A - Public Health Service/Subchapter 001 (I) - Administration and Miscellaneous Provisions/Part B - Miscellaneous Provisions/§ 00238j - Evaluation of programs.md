@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Such portion as the Secretary shall determine, but not less than 0.2 percent nor more than 1 percent, of any amounts appropriated for programs authorized under this chapter shall bemade available for the evaluation (directly, or by grants of contracts) of the implementation and effectiveness of such programs.
+Such portion as the Secretary shall determine, but not less than 0.2 percent nor more than 1 percent, of any amounts appropriated for programs authorized under this chapter shall be made available for the evaluation (directly, or by grants of contracts) of the implementation and effectiveness of such programs.
 
 #### (b) Report on evaluations
 
@@ -12,7 +12,7 @@ Not later than February 1 of each year, the Secretary shall prepare and submit t
 
 #### Codification
 
-Section was formerly classified to section 300aaa–10 of this title prior to renumbering by Pub. L. 103–43, to section 300cc–12 of this title prior to renumbering by Pub. L. 100–607, to section 300aa–12 of this title prior to renumbering by Pub. L. 99–660, and to section 229b of this title prior to renumbering by Pub. L. 98–24.
+Section was formerly classified to section 300aaa–10 of this title prior to renumbering by Pub. L. 103–43, to section 300cc–12 of this title prior to renumbering byPub. L. 100–607, to section 300aa–12 of this title prior to renumbering by Pub. L. 99–660, and to section 229b of this title prior to renumbering by Pub. L. 98–24.
 
 #### Amendments
 
@@ -36,5 +36,5 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 902(h) of Pub. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 299c–5, 300ff–74 of this title.
+This section is referred to in sections 299c–6, 300ff–74 of this title.
 

@@ -18,5 +18,5 @@ The Agricultural Act of 1949, referred to in subsecs. (a) and (b)(1), is act Oct
 
 #### Codification
 
-Section was enacted as part of the Food and Agriculture Act of 1977 as added by the Biomass Energy andAlcohol Fuels Act of 1980 which is title II of the Energy and Security Act, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+Section was enacted as part of the Food and Agriculture Act of 1977 as added by the Biomass Energy and Alcohol Fuels Act of 1980 which is title II of the Energy and Security Act, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 

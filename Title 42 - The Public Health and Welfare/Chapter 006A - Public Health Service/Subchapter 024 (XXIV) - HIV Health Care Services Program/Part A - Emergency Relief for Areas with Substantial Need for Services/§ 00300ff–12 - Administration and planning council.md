@@ -120,7 +120,7 @@
 
 #### (A) Models
 
-&emsp;&emsp;The Secretary shall, through a process that includes consultations with grantees under this part and public and private experts in grievance procedures, arbitration,and mediation, develop model grievance procedures that may be implemented by the planning council under subsection (b)(1) of this section and grantees under this part. Such model procedures shall describe the elements that must be addressed in establishing local grievance procedures and provide grantees with flexibility in the design of such local procedures.
+&emsp;&emsp;The Secretary shall, through a process that includes consultations with grantees under this part and public and private experts in grievance procedures, arbitration, and mediation, develop model grievance procedures that may be implemented by the planning council under subsection (b)(1) of this section and grantees under this part. Such model procedures shall describe the elements that must be addressed in establishing local grievance procedures and provide grantees with flexibility in the design of such local procedures.
 
 #### (B) Review
 

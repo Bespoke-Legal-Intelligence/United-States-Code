@@ -66,7 +66,7 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;&emsp;&emsp;&emsp;(II) such outcomes should be defined and measured in such service programs;
 
-&emsp;&emsp;&emsp;(iii) whether stipended service programs, and service programs providing educational benefits in return for service, should focus on economically disadvantaged individuals or at-risk youth or whether such programs should include amix of individuals, including individuals from middle- and upper-income families;
+&emsp;&emsp;&emsp;(iii) whether stipended service programs, and service programs providing educational benefits in return for service, should focus on economically disadvantaged individuals or at-risk youth or whether such programs should include a mix of individuals, including individuals from middle- and upper-income families;
 
 &emsp;&emsp;&emsp;(iv) the role and importance of stipends and educational benefits in achieving desired outcomes in the service programs;
 
@@ -184,7 +184,7 @@ In an action described in subsection (c)(7) of this section—
 
 #### References in Text
 
-Section 8E of the Inspector General Act of 1978, referred to in subsec. (a), is section 8E of Pub. L. 95–452, as added by Pub. L. 103–82, title II, §202(g)(1), Sept. 21, 1993, 107 Stat. 889, which was renumbered section 8F of the Act by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 8E of the Inspector General Act of 1978, referred to in subsec. (a), is section 8E of Pub. L. 95–452,as added by Pub. L. 103–82, title II, §202(g)(1), Sept. 21, 1993, 107 Stat. 889, which was renumbered section 8F of the Act by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5, Government Organization and Employees.
 
 Public Law 91–378, referred to in subsec. (b)(10)(A), is Pub. L. 91–378, Aug. 13, 1970, 84 Stat. 794, as amended, popularly known as the Youth Conservation Corps Act of 1970, which is classified generally to chapter 37 (§1701 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 16 and Tables.
 

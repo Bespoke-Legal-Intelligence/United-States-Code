@@ -10,13 +10,13 @@
 
 &emsp;(C) there is a reasonable expectation of employment following completion of such training,
 
-&emsp;(D) training approved by the Secretary is reasonably available to the worker from eithergovernmental agencies or private sources (which may include area vocational education schools, as defined in section 195(2) of the Vocational Education Act of 1963,<sup>1</sup> and employers) <sup>2</sup>
+&emsp;(D) training approved by the Secretary is reasonably available to the worker from either governmental agencies or private sources (which may include area vocational education schools, as defined in section 195(2) of the Vocational Education Act of 1963,<sup>1</sup> and employers) <sup>2</sup>
 
 &emsp;(E) the worker is qualified to undertake and complete such training, and
 
 &emsp;(F) such training is suitable for the worker and available at a reasonable cost,
 
-> the Secretary shall approve such training for the worker. Upon such approval, the worker shall be entitled to have payment of the costs of such training (subject to the limitations imposed by this section) paid on his behalf by the Secretary directly or through a voucher system. Insofar as possible, the Secretary shall provide or assure the provision of such training on the job, which shall include related education necessary for the acquisition of skills needed for a position within a particular occupation.
+> the Secretary shall approve such training for the worker. Upon such approval, the worker shall be entitled to have payment of the costs of such training (subject to the limitations imposed by this section) paid on his behalf by the Secretary directly or through a voucher system. Insofar as possible, the Secretary shall provide or assure the provision of such training on thejob, which shall include related education necessary for the acquisition of skills needed for a position within a particular occupation.
 
 (2)(A) The total amount of payments that may be made under paragraph (1) for any fiscal year shall not exceed $80,000,000, except that for fiscal year 1997, the total amount of payments made under paragraph (1) shall not exceed $70,000,000.
 
@@ -40,7 +40,7 @@
 
 &emsp;(B) any training program provided by a State pursuant to section 1653 of title 29 <sup>1</sup> or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\],
 
-&emsp;(C) any training program approved by a private industry council established under section 1512 of title 29,
+&emsp;(C) any training program approved by a private industry council established under section 102 of such Act,
 
 &emsp;(D) any program of remedial education,
 
@@ -128,11 +128,13 @@ Section 195(2) of the Vocational Education Act of 1963, referred to in subsec. (
 
 Section 1653 of title 29, referred to in subsec. (a)(5)(B), was amended generally by Pub. L. 100–418, title VI, §6302(a), Aug. 23, 1988, 102 Stat. 1527, and, as so amended, does not refer to training programs provided by a State.
 
-The Workforce Investment Act of 1998, referred to in subsec. (a)(5)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, seeShort Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(5)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
+Section 102 of such Act, referred to in subsec. (a)(5)(C), meaning section 102 of the Job Training Partnership Act, was classified to section 1512 of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
 
-1998—Subsec. (a)(5)(B). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(14)(A)\], substituted “section 1653 of title 29 or title I of the Workforce Investment Act of 1998” for “section 1653 of title 29”.
+1998—Subsec. (a)(5)(B). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(14)(A)\], substituted “section 1653 of title 29or title I of the Workforce Investment Act of 1998” for “section 1653 of title 29”.
 
 1993—Subsec. (a)(2)(A). Pub. L. 103–66 inserted before period at end “, except that for fiscal year 1997, the total amount of payments made under paragraph (1) shall not exceed $70,000,000”.
 

@@ -24,5 +24,5 @@ The Federal reclamation laws, referred to in subsec. (a), are classified general
 
 Pub. L. 102–575, §2804(e)(1), which directed amendment of subsec. (a) by striking “purposes: <i>Provided</i>,” and all that follows through end of sentence and inserting “purposes”, could not be executed because the words “purposes: <i>Provided</i>,” did not appear subsequent to amendment by Pub. L. 102–377. See below.
 
-Pub. L. 102–377 substituted “purposes.” for “purposes: <i>Provided</i>, That not more than $100,000 shall be available to carry out the provisions of this subsection at any one reservoir.”
+Pub. L. 102–377 substituted “purposes.” for “purposes: <i>Provided</i>, That not more than $100,000 shall be availableto carry out the provisions of this subsection at any one reservoir.”
 

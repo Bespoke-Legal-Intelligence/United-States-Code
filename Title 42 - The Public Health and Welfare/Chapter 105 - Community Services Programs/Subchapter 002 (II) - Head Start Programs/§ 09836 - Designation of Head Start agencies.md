@@ -32,7 +32,7 @@ If no entity in a community is entitled to the priority specified in subsection 
 
 &emsp;&emsp;(B) to afford such parents the opportunity to participate in the development, conduct, and overall performance of the program at the local level;
 
-&emsp;&emsp;(C) to offer (directly or through referral to local entities, such as entities carrying outEven Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 <sup>1</sup> (20 U.S.C. 2741 et seq.), public and school libraries, and family support programs) to such parents—
+&emsp;&emsp;(C) to offer (directly or through referral to local entities, such as entities carrying out Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 <sup>1</sup> (20 U.S.C. 2741 et seq.), public and school libraries, and family support programs) to such parents—
 
 &emsp;&emsp;&emsp;(i) family literacy services; and
 
@@ -106,7 +106,7 @@ Subsec. (d)(4)(D). Pub. L. 105–285, §107(4)(C)(v), added subpar. (D). Former 
 
 Subsec. (d)(4)(D)(iii). Pub. L. 105–285, §107(4)(C)(ii)(I), inserted “or” at end.
 
-Subsec. (d)(4)(D)(iv), (v). Pub. L. 105–285, §107(4)(C)(ii)(II), (III), redesignated cl. (v) as (iv) and struck out former cl. (iv) which read as follows: “substance abuse counseling; or”.
+Subsec. (d)(4)(D)(iv), (v). Pub. L. 105–285, §107(4)(C)(ii)(II), (III), redesignated cl. (v) as (iv) andstruck out former cl. (iv) which read as follows: “substance abuse counseling; or”.
 
 Subsec. (d)(4)(E). Pub. L. 105–285, §107(4)(C)(iv), redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F).
 

@@ -22,6 +22,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER III—QUALITY ASSURANCE
+
+|  |  |
+| :--- | ---: |
+| [7731\.](Subchapter%20003%20%28III%29%20-%20Quality%20Assurance/%C2%A7%2007731%20-%20Establishment.md) | Establishment. |
+| [7732\.](Subchapter%20003%20%28III%29%20-%20Quality%20Assurance/%C2%A7%2007732%20-%20Functions.md) | Functions. |
+| [7733\.](Subchapter%20003%20%28III%29%20-%20Quality%20Assurance/%C2%A7%2007733%20-%20Personnel.md) | Personnel. |
+| [7734\.](Subchapter%20003%20%28III%29%20-%20Quality%20Assurance/%C2%A7%2007734%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1999—Pub. L. 106–117, title VIII, §801(a)(2), Nov. 30, 1999, 113 Stat. 1586, added heading for subchapter III and items 7731 to 7734.
+
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 317, 318 of this title.
@@ -33,3 +48,4 @@ This chapter is referred to in sections 317, 318 of this title.
 
 - [Subchapter 001 (I) - Organization; General](Subchapter%20001%20%28I%29%20-%20Organization%3B%20General/README.md)
 - [Subchapter 002 (II) - Veterans Outreach Services Program](Subchapter%20002%20%28II%29%20-%20Veterans%20Outreach%20Services%20Program/README.md)
+- [Subchapter 003 (III) - Quality Assurance](Subchapter%20003%20%28III%29%20-%20Quality%20Assurance/README.md)

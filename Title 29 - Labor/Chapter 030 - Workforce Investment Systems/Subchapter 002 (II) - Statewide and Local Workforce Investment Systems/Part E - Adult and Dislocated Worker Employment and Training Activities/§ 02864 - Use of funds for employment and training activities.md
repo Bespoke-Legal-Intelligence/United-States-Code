@@ -70,7 +70,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Of the funds allotted to a State under sections 2852(b) and 2862(b) of this title and reserved as described in sections 2853(a) and 2863(a)(1) of this title for a fiscal year—
+&emsp;&emsp;&emsp;Of the funds allotted to a State under sections 2852(b) and 2862(b) of this title and reserved as described in sections 2853(a)and 2863(a)(1) of this title for a fiscal year—
 
 &emsp;&emsp;&emsp;&emsp;(I) not more than 5 percent of the amount allotted under section 2852(b)(1) of this title;
 
@@ -82,7 +82,7 @@
 
 #### (ii) Use of funds
 
-&emsp;&emsp;&emsp;Funds made available for administrative costs under clause (i) may be used for theadministrative cost of any of the statewide youth activities or statewide employment and training activities, regardless of whether the funds were allotted to the State under section 2852(b)(1) of this title or paragraph (1) or (2) of section 2862(b) of this title.
+&emsp;&emsp;&emsp;Funds made available for administrative costs under clause (i) may be used for the administrative cost of any of the statewide youth activities or statewide employment and training activities, regardless of whether the funds were allotted to the State under section 2852(b)(1) of this title or paragraph (1) or (2) of section 2862(b) of this title.
 
 #### (b) Local employment and training activities
 
@@ -146,7 +146,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 #### (B) Other funds
 
-&emsp;&emsp;A portion of the funds made available under Federal law authorizing the programs and activities described in section 2841(b)(1)(B) of this title, including the Wagner-Peyser Act (29 U.S.C. 49 et seq.), shall be used as described in clauses (i) and (ii) of subparagraph (A), to the extent not inconsistent with the Federal law involved.
+&emsp;&emsp;A portion of the funds made available under Federal law authorizing the programs and activities described in section 2841(b)(1)(B) of this title, including the Wagner-Peyser Act (29 U.S.C. 49 et seq.), shall beused as described in clauses (i) and (ii) of subparagraph (A), to the extent not inconsistent with the Federal law involved.
 
 #### (2) Core services
 
@@ -398,5 +398,5 @@ The Higher Education Act of 1965, referred to in subsec. (d)(4)(B)(i)(I), is Pub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 49a, 49<i>l</i>–2, 772, 2102, 2801, 2821, 2822, 2832, 2841, 2842, 2853, 2854, 2863, 2871, 2888, 2913, 2918, 2931, 2934, 2944 of this title; title 5 section 3502.
+This section is referred to in sections 49a, 49<i>l</i>–2, 772, 2102, 2801, 2821, 2822, 2832, 2841, 2842, 2853, 2854, 2863, 2871, 2888, 2913, 2918, 2931, 2934, 2944 of this title; title 5 section 3502; title 42 section 3056h.
 

@@ -82,7 +82,7 @@ For purposes of subsection (a)(1)(I) and section 4941, the term “government of
 
 For purposes of subsection (a)(1), the family of any individual shall include only his spouse, ancestors, children, grandchildren, great grandchildren, and the spouses of children, grandchildren, and great grandchildren.
 
-(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 515; amended Pub. L. 95–227,§4(c)(2)(B), Feb. 10, 1978, 92 Stat. 22; Pub. L. 98–369, div. A, title III, §306(a), July 18, 1984, 98 Stat. 784; Pub. L. 99–514, title XVI, §1606(a), Oct. 22, 1986, 100 Stat. 2771; Pub. L. 105–206, title I, §1101(c)(1), July 22, 1998, 112 Stat. 696.)
+(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 515; amended Pub. L. 95–227, §4(c)(2)(B), Feb. 10, 1978, 92 Stat. 22; Pub. L. 98–369, div. A, title III, §306(a), July 18, 1984, 98 Stat. 784; Pub. L. 99–514, title XVI, §1606(a), Oct. 22, 1986, 100 Stat. 2771; Pub. L. 105–206, title I, §1101(c)(1), July 22, 1998, 112 Stat. 696.)
 
 #### Amendments
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, an
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Section Referred to in Other Sections
 

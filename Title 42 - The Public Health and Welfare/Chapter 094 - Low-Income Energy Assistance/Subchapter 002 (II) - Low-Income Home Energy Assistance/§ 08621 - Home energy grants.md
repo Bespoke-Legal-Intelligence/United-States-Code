@@ -14,7 +14,7 @@ Amounts appropriated under this section for any fiscal year for programs and act
 
 #### (d) Authorization of appropriations for leveraged resources
 
-(1) There is authorized to be appropriated to carry out section 8626a of this title, $30,000,000for each of fiscal years 1999 through 2004, except as provided in paragraph (2).
+(1) There is authorized to be appropriated to carry out section 8626a of this title, $30,000,000 for each of fiscal years 1999 through 2004, except as provided in paragraph (2).
 
 (2) For any of fiscal years 1999 through 2004 for which the amount appropriated under subsection (b) of this section is not less than $1,400,000,000, there is authorized to be appropriated $50,000,000 to carry out section 8626a of this title.
 
@@ -70,7 +70,7 @@ Subsec. (d). Pub. L. 101–501, §707(b)(2), added subsec. (d).
 
 1986—Subsec. (b). Pub. L. 99–425 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There is authorized to be appropriated to carry out the provisions of this subchapter $2,140,000,000 for the fiscal year 1985, and $2,275,000,000 for the fiscal year 1986.”
 
-1984—Subsec. (b). Pub. L. 98–558 substituted “$2,140,000,000 for fiscal year 1985, and $2,275,000,000 forfiscal year 1986” for “$1,875,000,000 for each of fiscal years 1982, 1983, and 1984”.
+1984—Subsec. (b). Pub. L. 98–558 substituted “$2,140,000,000 for fiscal year 1985, and $2,275,000,000 for fiscal year 1986” for “$1,875,000,000 for each of fiscal years 1982, 1983, and 1984”.
 
 #### Effective Date of 1994 Amendment
 
@@ -124,7 +124,7 @@ Pub. L. 105–285, title III, §301, Oct. 27, 1998, 112 Stat. 2756, provided tha
 
 #### Short Title of 1994 Amendment
 
-Section 301(a) of title III of Pub. L. 103–252 provided that: “This title \[enacting section 8626b of this title, amending this section and sections 8622 to 8624, 8626, 8626a, 8628a, and 8629 of this title, and enacting provisions set out above\] may be cited as the ‘Low-Income Home Energy Assistance Amendments of 1994’.”
+Section 301(a) of title III of Pub. L. 103–252 provided that: “This title \[enacting section 8626b of this title,amending this section and sections 8622 to 8624, 8626, 8626a, 8628a, and 8629 of this title, and enacting provisions set out above\] may be cited as the ‘Low-Income Home Energy Assistance Amendments of 1994’.”
 
 #### Short Title
 

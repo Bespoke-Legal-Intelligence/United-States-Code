@@ -6,7 +6,7 @@ It is the sense of the Congress that in furnishing assistance under subchapter I
 
 #### (b) Transfer of domestic excess property
 
-Property classified as domestic excess property under the Federal Property and Administrative Services Act of 1949, as amended \[40 U.S.C. 471 et seq.\], shall not be transferred to the agency primarily responsible for administering subchapter I of this chapter for use pursuant to the provisions of subchapter I of this chapter or section 2357 of this title unless (1) such property is transferred for use exclusively by an agency of the United States Government, or (2) it has been determined in the same manner as provided for surplus property in section 203(j) of the Federal Property and Administrative Services Act of 1949, as amended \[40 U.S.C. 484(j)\], that such property is not needed for donation pursuant to that subsection. The foregoing restrictions shall not apply to the transfer in any fiscal year for use pursuant to the provisions of subchapter I of this chapter of amounts of such property with a total original acquisition cost to the United States Government not exceeding $45,000,000.
+Property classified as domestic excess property under the Federal Property and Administrative Services Act of 1949, as amended \[40 U.S.C. 471 et seq.\], shall not be transferred to the agency primarily responsible for administering subchapter I of this chapter for use pursuant to the provisions of subchapter I of this chapter or section 2357 of this title unless (1) such property is transferred for use exclusively by an agencyof the United States Government, or (2) it has been determined in the same manner as provided for surplus property in section 203(j) of the Federal Property and Administrative Services Act of 1949, as amended \[40 U.S.C. 484(j)\], that such property is not needed for donation pursuant to that subsection. The foregoing restrictions shall not apply to the transfer in any fiscal year for use pursuant to the provisions of subchapter I of this chapter of amounts of such property with a total original acquisition cost to the United States Government not exceeding $45,000,000.
 
 (Pub. L. 87–195, pt. III, §608, Sept. 4, 1961, 75 Stat. 441; Pub. L. 89–583, pt. III, §301(c), Sept. 19, 1966, 80 Stat. 804; Pub. L. 90–137, pt. III, §301(b), Nov. 14, 1967, 81 Stat. 458; Pub. L. 95–424, title I, §102(g)(2)(C), Oct. 6, 1978, 92 Stat. 942; Pub. L. 97–113, title VII, §701, Dec. 29, 1981, 95 Stat. 1543.)
 
@@ -39,6 +39,10 @@ In subsec. (a), “section 1535(d) of title 31” substituted for “section 121
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -42,7 +42,7 @@ In those cases when the Secretary, as part of any report to Congress, recommends
 
 &emsp;(3) such activities are located on lands managed as a national wildlife refuge.
 
-> When benefits of enhancement do not qualify under the preceding sentence, 25 percent of such first costs of enhancement shall be provided by non-Federal interests under a schedule of reimbursement determined by the Secretary. The non-Federal share of operation, maintenance, and rehabilitation of activities to enhance fish and wildlife resources shall be 25 percent.
+> When benefits of enhancement do not qualify under the preceding sentence, 25 percent of such first costs of enhancement shall be provided by non-Federal interests under a schedule of reimbursement determined by the Secretary. Not more than 80 percent of the non-Federal share of such first costs may be satisfied through in-kind contributions, including facilities, supplies, and services that are necessary to carry out the enhancement project. The non-Federal share of operation, maintenance, and rehabilitation of activities to enhance fish and wildlife resources shall be 25 percent.
 
 #### (f) National benefits from enhancement measures for Atchafalaya Floodway System and Mississippi Delta Region projects
 
@@ -52,7 +52,7 @@ Fish and wildlife enhancement measures carried out as part of the project for At
 
 The provisions of subsections (a), (b), and (d) of this section shall be deemed to supplement the responsibility and authority of the Secretary pursuant to the Fish and Wildlife Coordination Act \[16 U.S.C. 661 et seq.\], and nothing in this section is intended to affect that Act.
 
-(Pub. L. 99–662, title IX, §906, Nov. 17, 1986, 100 Stat. 4186; Pub. L. 102–580, title III, §333(a), Oct. 31, 1992, 106 Stat. 4852.)
+(Pub. L. 99–662, title IX, §906, Nov. 17, 1986, 100 Stat. 4186; Pub. L. 102–580, title III, §333(a), Oct. 31, 1992, 106 Stat. 4852; Pub. L. 106–53, title II, §221, Aug. 17, 1999, 113 Stat. 295.)
 
 #### References in Text
 
@@ -65,6 +65,8 @@ The Flood Control Act of 1965, referred to in subsec. (f), is title II of Pub. L
 The Fish and Wildlife Coordination Act referred to in subsec. (g), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 16 and Tables.
 
 #### Amendments
+
+1999—Subsec. (e). Pub. L. 106–53 inserted after second sentence “Not more than 80 percent of the non-Federal share of such first costs may be satisfied through in-kind contributions, including facilities, supplies, and services that are necessary to carry out the enhancement project.”
 
 1992—Subsec. (c). Pub. L. 102–580 inserted “, including lands, easements, rights-of-way, and relocations,” before “for implementation and operation”.
 

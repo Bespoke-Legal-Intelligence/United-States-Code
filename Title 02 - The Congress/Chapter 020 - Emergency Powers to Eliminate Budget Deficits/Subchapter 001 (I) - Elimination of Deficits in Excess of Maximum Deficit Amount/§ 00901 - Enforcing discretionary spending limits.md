@@ -20,7 +20,7 @@
 
 #### (4) Part-year appropriations
 
-&emsp;If, on the date specified in paragraph (1), there is in effect an Act making or continuing appropriations for part of a fiscal year for any budget account, then the dollar sequestration calculated for that account under paragraphs (2) and (3) shall be subtracted from—
+&emsp;If, on the date specified in paragraph (1), there is in effect an Act making or continuingappropriations for part of a fiscal year for any budget account, then the dollar sequestration calculated for that account under paragraphs (2) and (3) shall be subtracted from—
 
 &emsp;&emsp;(A) the annualized amount otherwise available by law in that account under that or a subsequent part-year appropriation; and
 
@@ -42,7 +42,7 @@
 
 #### (B) OMB estimates and explanation of differences
 
-&emsp;&emsp;Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays)after the date of enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation, and an explanation of any difference between the 2 estimates. If during the preparation of the report OMB determines that there is a significant difference between OMB and CBO, OMB shall consult with the Committees on the Budget of the House of Representatives and the Senate regarding that difference and that consultation shall include, to extent practicable, written communication to those committees that affords such committees the opportunity to comment before the issuance of the report.
+&emsp;&emsp;Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation, and an explanation of any difference between the 2 estimates. If during the preparation of the report OMB determines that there is a significant difference between OMB and CBO, OMB shall consult with the Committees on the Budget of the House of Representatives and the Senate regarding that difference and that consultation shall include, to extent practicable, written communication to those committees that affords such committees the opportunity to comment before the issuance of the report.
 
 #### (C) Assumptions and guidelines
 
@@ -68,7 +68,7 @@ Adjustment to align highway spending with revenues.—(i) When the President sub
 
 &emsp;(bb) OMB shall take the current estimate of highway receipts for the budget year and subtract the estimated level of receipts for that year.
 
-&emsp;(cc) OMB shall take the sum of the amounts calculated under items (aa) and (bb), add that sum to the amount of obligations set forth in section 8103 of the Transportation Equity Act for the 21st Century for the highway category for the budget year, and calculate the outlay change resulting from that change in obligations relative to that amount for the budget year and each outyear using current estimates. After making the calculation under the preceding sentence, OMB shall adjust the amount of obligations set forth in that section for the budget year by adding the sum of the amounts calculated under items (aa) and (bb).
+&emsp;(cc) OMB shall take the sum of the amounts calculated under items (aa) and (bb), add that sum to the amount of obligations set forth in section 8103 of the Transportation Equity Act for the 21st Century for the highway category for the budget year, and calculate the outlay change resulting from that change in obligations relative to that amount for the budget year and each outyear using current estimates. After making the calculation under the preceding sentence, OMB shall adjust the amount of obligations set forth in that sectionfor the budget year by adding the sum of the amounts calculated under items (aa) and (bb).
 
 &emsp;(II) The estimated level of highway receipts for the purposes of this clause are—
 
@@ -94,7 +94,7 @@ Adjustment to align highway spending with revenues.—(i) When the President sub
 
 &emsp;(ii) The adjustment made pursuant to clause (i) in the fiscal years 2002 and 2003 budget submissions of the President under section 1105(a) of title 31 shall not exceed 4 percent plus cumulative carryovers. In this clause, the term “cumulative carryovers” means the total of each amount by which outlays for the highway and mass transit category for any fiscal year are less than the outlay limit for that category, as adjusted, for that year less any amount of carryover used in the previous year.
 
-&emsp;(D)(i) When OMB and CBO submit their final sequester report for fiscal year 1999, that report shall include an estimate of the outlays for each of the categories that would result infiscal years 2000 through 2003 from obligations at the levels specified in section 8103 of the Transportation Equity Act for the 21st Century using current assumptions.
+&emsp;(D)(i) When OMB and CBO submit their final sequester report for fiscal year 1999, that report shall include an estimate of the outlays for each of the categories that would result in fiscal years 2000 through 2003 from obligations at the levels specified in section 8103 of the Transportation Equity Act for the 21st Century using current assumptions.
 
 &emsp;(ii) When the President submits the budget under section 1105 of title 31 for fiscal years <sup>2</sup> 2000, 2001, 2002, or 2003, OMB shall adjust the estimates made in clause (i) by the adjustments by subparagraphs (B) and (C).
 
@@ -154,7 +154,7 @@ Adjustment to align highway spending with revenues.—(i) When the President sub
 
 #### (F) EITC compliance initiative
 
-&emsp;&emsp;If an appropriation bill or joint resolution is enacted for a fiscal year that includes anappropriation for an earned income tax credit compliance initiative, the adjustment shall be the amount of budget authority in that measure for that initiative and the outlays flowing in all fiscal years from that budget authority, but not to exceed—
+&emsp;&emsp;If an appropriation bill or joint resolution is enacted for a fiscal year that includes an appropriation for an earned income tax credit compliance initiative, the adjustment shall be the amount of budget authority in that measure for that initiative and the outlays flowing in all fiscal years from that budget authority, but not to exceed—
 
 &emsp;&emsp;&emsp;(i) with respect to fiscal year 1998, $138,000,000 in new budget authority and $131,000,000 in outlays;
 
@@ -290,7 +290,7 @@ Subsec. (b)(2)(G). Pub. L. 103–306 substituted “1994 and 1995” for “1994
 
 1993—Subsec. (a). Pub. L. 103–66, §14002(c)(1)(A), substituted “1998” for “1995” in heading.
 
-Subsec. (b)(1). Pub. L. 103–66, §14002(c)(1)(B)(i), in introductory provisions, substituted “1995, 1996, 1997, or 1998” for “or 1995” and “outyear through 1998” for “outyear through 1995”.
+Subsec. (b)(1). Pub. L. 103–66, §14002(c)(1)(B)(i), in introductory provisions, substituted “1995, 1996, 1997, or1998” for “or 1995” and “outyear through 1998” for “outyear through 1995”.
 
 Subsec. (b)(1)(B)(iii). Pub. L. 103–66, §14002(c)(1)(B)(ii), added cl. (iii).
 
@@ -320,13 +320,17 @@ Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provi
 
 Section 119(d)(1) of Pub. L. 103–354 provided that the amendment made by that section is effective Jan. 1, 1995.
 
+#### Adjustment for Rounding
+
+Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §307\], Nov. 29, 1999, 113 Stat. 1536, 1501A–306, provided that: “Under the terms of section 251(b)(2) of Public Law 99–177 \[2 U.S.C. 901(b)(2)\], an adjustment for rounding shall be provided for the first amount referred to in section 251(c)(4)(A) of such Act \[2 U.S.C. 901(c)(4)(A)\] equal to 0.2 percent of such amount.”
+
 #### Offsetting Adjustment in Discretionary Spending Limits
 
 Pub. L. 105–178, title VIII, §8101(b), June 9, 1998, 112 Stat. 489, as amended by Pub. L. 105–206, title IX, §9013(a), July 22, 1998, 112 Stat. 865, provided that:
 
 “(1)
 
-Adjustment of nondefense category for fy1999.—The discretionary spending limit set forth insection 251(c)(3)(B) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(c)(3)(B)\], as adjusted in conformance with section 251(b) of that Act, is reduced by $859,000,000 in new budget authority and $25,144,000,000 in outlays.
+Adjustment of nondefense category for fy1999.—The discretionary spending limit set forth in section 251(c)(3)(B) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(c)(3)(B)\], as adjusted in conformance with section 251(b) of that Act, is reduced by $859,000,000 in new budget authority and $25,144,000,000 in outlays.
 
 “(2)
 
@@ -376,7 +380,7 @@ Mass Transit Category.—For the purposes of section 251(b) of the Balanced Budg
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 633, 643, 645, 691a, 691c, 900, 902, 903, 904, 907 of this title; title 16 section 556c; title 38 sections 113, 1729A; title 39 section 2009a; title 42 sections 5203, 8621; title 43 section 1474a.
+This section is referred to in sections 633, 643, 645, 691a, 691c, 900, 902, 903, 904, 907 of this title; title 16 section 556c; title 23 section 110; title 38 sections 113, 1729A; title 39 section 2009a; title 42 sections 5203, 8621; title 43 section 1474a.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -18,7 +18,7 @@ In order to strengthen the administrative capability and financial responsibilit
 
 &emsp;&emsp;(E) institutions with high annual dropout rates; and
 
-&emsp;&emsp;(F) such other institutions that the Secretary determines may pose a significantrisk of failure to comply with the administrative capability or financial responsibility provisions of this subchapter and part C of subchapter I of chapter 34 of title 42; and
+&emsp;&emsp;(F) such other institutions that the Secretary determines may pose a significant risk of failure to comply with the administrative capability or financial responsibility provisions of this subchapter and part C of subchapter I of chapter 34 of title 42; and
 
 &emsp;(3) shall establish and operate a central data base of information on institutional accreditation, eligibility, and certification that includes—
 

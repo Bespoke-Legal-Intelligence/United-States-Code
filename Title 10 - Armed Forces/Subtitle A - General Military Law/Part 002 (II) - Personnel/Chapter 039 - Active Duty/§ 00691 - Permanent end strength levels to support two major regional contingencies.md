@@ -2,15 +2,15 @@
 
 (a) The end strengths specified in subsection (b) are the minimum strengths necessary to enable the armed forces to fulfill a national defense strategy calling for the United States to be able to successfully conduct two nearly simultaneous major regional contingencies.
 
-(b) Unless otherwise provided by law, the number of members of the armed forces (other than the Coast Guard) on active duty at the end ofany fiscal year shall be not less than the following:
+(b) Unless otherwise provided by law, the number of members of the armed forces (other than the Coast Guard) on active duty at the end of any fiscal year shall be not less than the following:
 
 &emsp;(1) For the Army, 480,000.
 
-&emsp;(2) For the Navy, 372,696.
+&emsp;(2) For the Navy, 371,781.
 
-&emsp;(3) For the Marine Corps, 172,200.
+&emsp;(3) For the Marine Corps, 172,148.
 
-&emsp;(4) For the Air Force, 370,802.
+&emsp;(4) For the Air Force, 360,877.
 
 (c) The budget for the Department of Defense for any fiscal year as submitted to Congress shall include amounts for funding for each of the armed forces (other than the Coast Guard) at least in the amounts necessary to maintain the active duty end strengths prescribed in subsection (b), as in effect at the time that such budget is submitted.
 
@@ -20,13 +20,17 @@
 
 (f) The number of members of the armed forces on active duty shall be counted for purposes of this section in the same manner as applies under section 115(a)(1) of this title.
 
-(Added Pub. L. 104–106, div. A, title IV, §401(b)(1), Feb. 10, 1996, 110 Stat. 285; amended Pub. L. 104–201, div. A, title IV, §402, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 105–85, div. A, title IV, §402, Nov. 18, 1997, 111 Stat. 1719; Pub. L. 105–261, div. A, title IV, §402(a), (b), Oct. 17, 1998, 112 Stat. 1995, 1996.)
+(Added Pub. L. 104–106, div. A, title IV, §401(b)(1), Feb. 10, 1996, 110 Stat. 285; amended Pub. L. 104–201, div. A, title IV, §402, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 105–85, div. A, title IV, §402, Nov. 18, 1997, 111 Stat. 1719; Pub. L. 105–261, div. A, title IV, §402(a), (b), Oct. 17, 1998, 112 Stat. 1995, 1996; Pub. L. 106–65, div. A, title IV, §402(a), title X, §1066(b)(1), Oct. 5, 1999, 113 Stat. 585, 772.)
 
 #### Amendments
 
+1999—Subsec. (b)(2) to (4). Pub. L. 106–65, §402(a), substituted “371,781” for “372,696” in par. (2), “172,148” for “172,200” in par. (3), and “360,877” for “370,802” in par. (4).
+
+Subsec. (e). Pub. L. 106–65, §1066(b)(1), made technical amendment to directory language of Pub. L. 105–261, §402(b). See 1998 Amendment note below.
+
 1998—Subsec. (b). Pub. L. 105–261, §402(a), substituted “480,000” for “495,000” in par. (1), “372,696” for “390,802” in par. (2), “172,200” for “174,000” in par. (3), and “370,802” for “371,577” in par. (4).
 
-Subsec. (e). Pub. L. 105–261, §402(b), which directed substitution of “0.5 percent.” for “1 percent or, in the case of the Army, by not more than 1.5 percent,”, was executed by making the substitution for “1 percent or, in the case of the Army, by not more than 1.5 percent.” to reflect the probable intent of Congress.
+Subsec. (e). Pub. L. 105–261, §402(b), as amended by Pub. L. 106–65, §1066(b)(1), substituted “0.5 percent.” for “1 percent or, in the case of the Army, by not more than 1.5 percent.”
 
 1997—Subsec. (b)(2). Pub. L. 105–85, §402(a)(1), substituted “390,802” for “395,000”.
 
@@ -41,6 +45,12 @@ Subsec. (d). Pub. L. 104–201, §402(a)(2), added subsec. (d). Former subsec. (
 Subsec. (e). Pub. L. 104–201, §402(a)(1), (b), redesignated subsec. (d) as (e) and substituted “not more than 1 percent” for “not more than 0.5 percent”. Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 104–201, §402(a)(1), redesignated subsec. (e) as (f).
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–65, div. A, title IV, §402(b), Oct. 5, 1999, 113 Stat. 585, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1999.”
+
+Pub. L. 106–65, div. A, title X, §1066(b), Oct. 5, 1999, 113 Stat. 772, provided that the amendment made by section 1066(b) is effective Oct. 17, 1998, and as if included in the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, Pub. L. 105–261, as enacted.
 
 #### Effective Date of 1998 Amendment
 

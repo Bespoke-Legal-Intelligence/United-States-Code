@@ -16,7 +16,7 @@ In this chapter—
 
 &emsp;&emsp;(E) insurance.
 
-&emsp;(3) “local government” means a unit of government in a State, a local public authority, a special district, an intrastate district, a council of governments, a sponsor group representative organization, an interstate entity, or another instrumentality of a local government.
+&emsp;(3) “local government” means a unit of government in a State, a local public authority, aspecial district, an intrastate district, a council of governments, a sponsor group representative organization, an interstate entity, or another instrumentality of a local government.
 
 &emsp;(4) “other recipient” means a person or recipient (except a State or local government) authorized to receive United States Government assistance or procurement contracts and includes a charitable or educational institution.
 

@@ -36,7 +36,7 @@ If a bond issued at any time with interest coupons—
 
 &emsp;(2) is purchased after December 31, 1957, and before July 2, 1982, and the purchaser does not receive all the coupons which first become payable after the date of the purchase,
 
-> then the gain on the sale or other disposition of such bond by such purchaser (or by a person whose basis is determined by reference to thebasis in the hands of such purchaser) shall be considered as ordinary income to the extent that the fair market value (determined as of the time of the purchase) of the bond with coupons attached exceeds the purchase price. If this subsection and section 1271(a)(2)(A) apply with respect to gain realized on the sale or exchange of any evidence of indebtedness, then section 1271(a)(2)(A) shall apply with respect to that part of the gain to which this subsection does not apply.
+> then the gain on the sale or other disposition of such bond by such purchaser (or by a person whose basis is determined by reference to the basis in the hands of such purchaser) shall be considered as ordinary income to the extent that the fair market value (determined as of the time of the purchase) of the bond with coupons attached exceeds the purchase price. If this subsection and section 1271(a)(2)(A) apply with respect to gain realized on the sale or exchange of any evidence of indebtedness, then section 1271(a)(2)(A) shall apply with respect to that part of the gain to which this subsection does not apply.
 
 #### (d) Special rules for tax-exempt obligations
 
@@ -126,7 +126,7 @@ The Secretary may prescribe regulations providing that where, by reason of varyi
 
 Subsec. (b)(2). Pub. L. 99–514, §1803(a)(13)(B)(ii), substituted “the amount included in gross income under paragraph (1)” for “the amount of the accrued interest described in paragraph (1)”.
 
-Subsec. (d). Pub. L. 99–514, §1879(s)(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) readas follows: “In the case of any tax-exempt obligation (as defined in section 1275(a)(3))—
+Subsec. (d). Pub. L. 99–514, §1879(s)(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In the case of any tax-exempt obligation (as defined in section 1275(a)(3))—
 
 &emsp;“(1) subsections (a) and (b)(1) shall not apply,
 
@@ -156,7 +156,7 @@ Section 1879(s)(2) of Pub. L. 99–514 provided that: “The amendment made by p
 
 #### Effective Date
 
-Section applicable to taxable years ending after July 18, 1984, except as otherwise provided, see section 44 of Pub. L. 98–369, set out as a note under section 1271 of this title.
+Section applicable to taxable years ending after July 18, 1984, except as otherwise provided, see section 44 ofPub. L. 98–369, set out as a note under section 1271 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

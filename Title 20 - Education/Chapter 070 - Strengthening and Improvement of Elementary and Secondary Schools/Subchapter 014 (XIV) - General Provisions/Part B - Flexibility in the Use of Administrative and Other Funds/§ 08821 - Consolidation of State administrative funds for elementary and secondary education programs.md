@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;A State educational agency may consolidate the amounts specifically made available to such agency for State administration under one or more of the programs specified under paragraph (2) if such State educational agency can demonstrate that the majority of such agency's resources come from non-Federal sources.
+&emsp;A State educational agency may consolidate the amounts specifically made available tosuch agency for State administration under one or more of the programs specified under paragraph (2) if such State educational agency can demonstrate that the majority of such agency's resources come from non-Federal sources.
 
 #### (2) Applicability
 
-&emsp;This section applies to programs under subchapter I of this chapter, those covered programs described in subparagraphs (C), (D), (E), and (F) of section 8801(10) of this title, and administrative funds under section 308(c) of the Goals 2000: Educate America Act \[20 U.S.C. 5888(c)\].
+&emsp;This section applies to programs under subchapter I of this chapter, those covered programs described in subparagraphs (C), (D), (E), and (F) of section 8801(10) of this title, and administrative funds under section 308(c) <sup>1</sup> of the Goals 2000: Educate America Act.
 
 #### (b) Use of funds
 
@@ -44,15 +44,17 @@ If a State educational agency does not use all of the funds available to such ag
 
 #### (f) Consolidation of funds for standards and assessment development
 
-In order to develop challenging State standards and assessments, a State educational agency may consolidate the amounts made available to such agency for such purposes under subchapter I of this chapter and title III of the Goals 2000: Educate America Act \[20 U.S.C. 5881 et seq.\].
+In order to develop challenging State standards and assessments, a State educational agency may consolidate the amounts made available to such agency for such purposes under subchapter I of this chapter and title III <sup>1</sup> of the Goals 2000: Educate America Act.
 
 (Pub. L. 89–10, title XIV, §14201, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3890.)
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in subsec. (f), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125\(except titles V and IX), as amended. Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsec. (f), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act was classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title and was repealed by Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §310(i)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–265. Section 308 of the Act was classified to section 5888 of this title and was repealed by Pub. L. 106–113. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 8823 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

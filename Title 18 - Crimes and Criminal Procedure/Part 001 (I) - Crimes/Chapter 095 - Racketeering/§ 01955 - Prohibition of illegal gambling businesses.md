@@ -88,7 +88,7 @@ In general.—The Commissioners shall be appointed for the life of the Commissio
 
 &emsp;“(2)
 
-Persons eligible.—The members of the Commission shall be individuals who have knowledge or expertise, whether by experience or training, in matters to be studied by the Commission under section 4.The members may be from the public or private sector, and may include Federal, State, local, or Native American tribal officers or employees, members of academia, non-profit organizations, or industry, or other interested individuals.
+Persons eligible.—The members of the Commission shall be individuals who have knowledge or expertise, whether by experience or training, in matters to be studied by the Commission under section 4. The members may be from the public or private sector, and may include Federal, State, local, or Native American tribal officers or employees, members of academia, non-profit organizations, or industry, or other interested individuals.
 
 &emsp;“(3)
 
@@ -180,7 +180,7 @@ Certification.—Each person who submits materials or information to the Commiss
 
 &emsp;“(4)
 
-Treatment of subpoenas.—Any subpoena issued by the Commission under paragraph (1) or (2)shall comply with the requirements for subpoenas issued by a United States district court under the Federal Rules of Civil Procedure \[28 App. U.S.C.\].
+Treatment of subpoenas.—Any subpoena issued by the Commission under paragraph (1) or (2) shall comply with the requirements for subpoenas issued by a United States district court under the Federal Rules of Civil Procedure \[28 App. U.S.C.\].
 
 &emsp;“(5)
 

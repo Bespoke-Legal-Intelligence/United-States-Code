@@ -46,5 +46,5 @@ Pub. L. 103–4, Feb. 8, 1993, 107 Stat. 30, provided that:
 
 #### “SEC. 2. LEGAL REFERENCES.
 
-“Any reference in any law, map, regulation, document, paper, or other record of the United States to the Federal Judiciary Building referred to in section 1 shall be deemed to be a reference to the ‘Thurgood Marshall Federal Judiciary Building’.”
+“Any reference in any law, map, regulation, document, paper, or other record of the United States to theFederal Judiciary Building referred to in section 1 shall be deemed to be a reference to the ‘Thurgood Marshall Federal Judiciary Building’.”
 

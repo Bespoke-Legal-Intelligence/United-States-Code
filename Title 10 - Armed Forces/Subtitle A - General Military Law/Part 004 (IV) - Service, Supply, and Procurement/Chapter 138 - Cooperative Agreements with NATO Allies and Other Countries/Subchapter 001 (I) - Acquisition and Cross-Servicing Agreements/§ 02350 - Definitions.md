@@ -2,7 +2,7 @@
 
 In this subchapter:
 
-&emsp;(1) The term “logistic support, supplies, and services” means food, billeting, transportation (including airlift), petroleum, oils, lubricants, clothing, communications services, medical services, ammunition, base operations support (and construction incident to base operations support), storage services, use of facilities, training services, spare parts and components, repair and maintenance services, calibration services, and port services. Such term includes temporary use of general purpose vehicles and other nonlethal items of military equipment which are not designated as significant military equipment on the United States Munitions List promulgated pursuant to section 38(a)(1) of the Arms Export Control Act.
+&emsp;(1) The term “logistic support, supplies, and services” means food, billeting, transportation (including airlift), petroleum, oils, lubricants, clothing, communications services, medical services, ammunition, base operations support (and construction incident to base operations support), storage services, use of facilities, training services, spare parts and components, repair and maintenance services, calibration services, and port services. Such term includes temporary use of general purpose vehicles andother nonlethal items of military equipment which are not designated as significant military equipment on the United States Munitions List promulgated pursuant to section 38(a)(1) of the Arms Export Control Act.
 
 &emsp;(2) The term “North Atlantic Treaty Organization subsidiary bodies” means—
 

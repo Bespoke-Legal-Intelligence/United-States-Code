@@ -16,9 +16,9 @@
 
 &emsp;(A) Each State plan shall demonstrate that the State has developed or adopted challenging content standards and challenging student performance standards that will be used by the State, its local educational agencies, and its schools to carry out this part, except that a State shall not be required to submit such standards to the Secretary.
 
-&emsp;(B) If a State has State content standards or State student performance standards developed under title III of the Goals 2000: Educate America Act \[20 U.S.C. 5881 et seq.\] and an aligned set of assessments for all students developed under such title, or, if not developed under such title, adopted under another process, the State shall use such standards and assessments, modified, if necessary, to conform with the requirements of subparagraphs (A) and (D) of this paragraph, and paragraphs (2) and (3).
+&emsp;(B) If a State has State content standards or State student performance standards developed under title III <sup>1</sup> of the Goals 2000: Educate America Act and an aligned set of assessments for all students developed under such title, or, if not developed under such title, adopted under another process, the State shall use such standards and assessments, modified, if necessary, to conform with the requirements of subparagraphs (A) and (D) of this paragraph, and paragraphs (2) and (3).
 
-&emsp;(C) If a State has not adopted State content standards and State student performance standards for all students, the State plan shall include a strategy and schedule for developing State content standards and State student performance standards for elementary and secondary school children served under this part in subjects as determined by the State, but including at least mathematics and reading orlanguage arts by the end of the one-year period described in paragraph (6), which standards shall include the same knowledge, skills, and levels of performance expected of all children.
+&emsp;(C) If a State has not adopted State content standards and State student performance standards for all students, the State plan shall include a strategy and schedule for developing State content standards and State student performance standards for elementary and secondary school children served under this part in subjects as determined by the State, but including at least mathematics and reading or language arts by the end of the one-year period described in paragraph (6), which standards shall include the same knowledge, skills, and levels of performance expected of all children.
 
 &emsp;(D) Standards under this paragraph shall include—
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;(H) provide individual student interpretive and descriptive reports, which shall include scores, or other information on the attainment of student performance standards; and
 
-&emsp;&emsp;(I) enable results to be disaggregated within each State, local educational agency, and school by gender, by each major racial and ethnic group, by English proficiency status,by migrant status, by students with disabilities as compared to nondisabled students, and by economically disadvantaged students as compared to students who are not economically disadvantaged.
+&emsp;&emsp;(I) enable results to be disaggregated within each State, local educational agency, and school by gender, by each major racial and ethnic group, by English proficiency status, by migrant status, by students with disabilities as compared to nondisabled students, and by economically disadvantaged students as compared to students who are not economically disadvantaged.
 
 #### (4) Special rule
 
@@ -134,7 +134,7 @@ Each State plan shall contain assurances that—
 
 &emsp;(ii) where educational service agencies do not exist, the State educational agency will consider providing professional development and technical assistance through other cooperative agreements such as through a consortium of local educational agencies;
 
-&emsp;(2) the State educational agency will notify local educational agencies and the public of the standards and assessments developedunder this section, and of the authority to operate schoolwide programs, and will fulfill the State educational agency's responsibilities regarding local educational agency improvement and school improvement under section 6317 of this title, including such corrective actions as are necessary;
+&emsp;(2) the State educational agency will notify local educational agencies and the public of the standards and assessments developed under this section, and of the authority to operate schoolwide programs, and will fulfill the State educational agency's responsibilities regarding local educational agency improvement and school improvement under section 6317 of this title, including such corrective actions as are necessary;
 
 &emsp;(3) the State educational agency will provide the least restrictive and burdensome regulations for local educational agencies and individual schools participating in a program assisted under this part;
 
@@ -198,7 +198,7 @@ If the aggregate State expenditure by a State educational agency for the operati
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in subsecs. (a)(1) and (b)(1)(B), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsecs. (a)(1) and (b)(1)(B), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). Title III of the Act was classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title and was repealed by Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §310(i)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–265. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Amendments
 
@@ -210,5 +210,7 @@ Subsecs. (g), (h). Pub. L. 104–134, §101(d) \[title VII, §703(b)(1)(C), (D)\
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6312, 6314, 6316, 6317, 6318, 6319, 6434, 7421, 7426, 7476, 7814, 8857 of this title.
+This section is referred to in sections 5891b, 6312, 6314, 6316, 6317, 6318, 6319, 6434, 7421, 7426, 7476, 7814, 8857 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

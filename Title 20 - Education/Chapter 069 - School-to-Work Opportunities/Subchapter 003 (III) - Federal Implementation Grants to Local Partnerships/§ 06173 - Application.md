@@ -12,7 +12,7 @@ A local partnership that desires to receive a Federal implementation grant under
 
 #### (2) Submission without State review and comment
 
-&emsp;If the State does not provide review and comment within the 30-day time period specified in paragraph (1), the local partnership may submit the application to the Secretarieswithout first obtaining such review and comment.
+&emsp;If the State does not provide review and comment within the 30-day time period specified in paragraph (1), the local partnership may submit the application to the Secretaries without first obtaining such review and comment.
 
 #### (c) Contents
 

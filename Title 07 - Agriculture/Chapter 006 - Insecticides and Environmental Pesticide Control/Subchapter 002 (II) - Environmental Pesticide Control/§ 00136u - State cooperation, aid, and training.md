@@ -8,7 +8,7 @@ The Administrator may enter into cooperative agreements with States and Indian t
 
 &emsp;(2) to assist States in developing and administering State programs, and Indian tribes that enter into cooperative agreements, to train and certify applicators consistent with the standards the Administrator prescribes.
 
-> Effective with the fiscal year beginning October 1, 1978, there are authorized to be appropriated annually such funds as may be necessary for the Administrator to provide through cooperative agreements an amount equal to 50 percent of the anticipated cost to each State or Indian tribe, as agreed to under such cooperative agreements, of conducting training and certification programs during such fiscal year. If funds sufficient to pay 50 percent of the costs for any year are not appropriated, the share of each State and Indian tribe shall be reduced in a like proportion in allocating available funds.
+> Effective with the fiscal year beginning October 1, 1978, there are authorized to be appropriatedannually such funds as may be necessary for the Administrator to provide through cooperative agreements an amount equal to 50 percent of the anticipated cost to each State or Indian tribe, as agreed to under such cooperative agreements, of conducting training and certification programs during such fiscal year. If funds sufficient to pay 50 percent of the costs for any year are not appropriated, the share of each State and Indian tribe shall be reduced in a like proportion in allocating available funds.
 
 #### (b) Contracts for training
 
@@ -22,7 +22,7 @@ The Administrator shall, in cooperation with the Secretary of Agriculture, use t
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–396 extended provisions to Indian tribes, authorized annual appropriation offunds for training and certification programs, and required proportionate reduction of shares in the allocation of available funds when appropriations do not cover 50 percent of the annual costs.
+1978—Subsec. (a). Pub. L. 95–396 extended provisions to Indian tribes, authorized annual appropriation of funds for training and certification programs, and required proportionate reduction of shares in the allocation of available funds when appropriations do not cover 50 percent of the annual costs.
 
 Subsec. (b). Pub. L. 95–396 authorized contracts with Indian tribal agencies.
 

@@ -26,7 +26,7 @@ The Congress finds and declares that—
 
 #### Short Title
 
-Section 301 of title III of Pub. L. 101–630 provided that: “This title \[enacting this chapter\] may be cited as the ‘National Indian Forest Resources Management Act’.”
+Section 301 of title III of Pub. L. 101–630 provided that: “This title \[enacting this chapter\] may be citedas the ‘National Indian Forest Resources Management Act’.”
 
 #### Section Referred to in Other Sections
 

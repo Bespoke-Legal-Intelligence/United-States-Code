@@ -18,7 +18,7 @@
 
 &emsp;(D) during the conduct of intelligence activities as defined in section 3.4(e) of Executive Order No. 12333, issued December 4, 1981, or successor orders, or during the conduct of cryptologic activities that are communications security activities.
 
-(2) This chapter applies to the collection of information during the conduct of general investigations (other than information collected inan antitrust investigation to the extent provided in subparagraph (C) of paragraph (1)) undertaken with reference to a category of individuals or entities such as a class of licensees or an entire industry.
+(2) This chapter applies to the collection of information during the conduct of general investigations (other than information collected in an antitrust investigation to the extent provided in subparagraph (C) of paragraph (1)) undertaken with reference to a category of individuals or entities such as a class of licensees or an entire industry.
 
 (d) Nothing in this chapter shall be interpreted as increasing or decreasing the authority conferred by section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441) and the Computer Security Act of 1987 (40 U.S.C. 759 note) <sup>1</sup> on the Secretary of Commerce or the Director of the Office of Management and Budget.
 

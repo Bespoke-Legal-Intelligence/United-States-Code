@@ -2,7 +2,7 @@
 
 #### (a) References to subchapter IV–A are references to pre-welfare-reform provisions
 
-Subject to the succeeding provisions of this section, with respect to a State any reference in this subchapter (or any other provision of law in relation to the operation of this subchapter) to a provision of part A of subchapter IV of this chapter, or a State plan under such part (or a provision of such a plan), including income and resource standards and income and resource methodologies under such part or plan, shall be considered a reference to such a provision or plan as in effect as of July 16, 1996, with respect to the State.
+Subject to the succeeding provisions of this section, with respect to a State any reference in this subchapter (or any other provision of law in relation to the operation of this subchapter) to a provision of part A of subchapter IV of this chapter, or a State plan under such part (or a provision of such a plan), including income and resource standards and income and resource methodologies under such part or plan, shall be considered a reference to such a provision orplan as in effect as of July 16, 1996, with respect to the State.
 
 #### (b) Application of pre-welfare-reform eligibility criteria
 
@@ -72,7 +72,7 @@ Nothing in this section, or part A of subchapter IV of this chapter, shall be co
 
 (2) Any reference in section 1396a(a)(55) of this title to a State plan approved under part A of subchapter IV of this chapter shall be deemed a reference to a State program funded under such part.
 
-(3) In applying section 1396b(f) of this title, the applicable income limitation otherwise determined shall be subject to increase in the same manner as income or resource standards of a State may be increased under subsection (b)(2)(B) of this section.
+(3) In applying section 1396b(f) of this title, the applicable income limitation otherwise determined shall be subject to increase in the samemanner as income or resource standards of a State may be increased under subsection (b)(2)(B) of this section.
 
 #### (g) Relation to other provisions
 
@@ -90,17 +90,13 @@ The provisions of this section shall apply notwithstanding any other provision o
 
 #### (3) Limitation
 
-&emsp;The total amount of additional Federal funds that are expended as a result of the application of this subsection for the period beginning with fiscal year 1997 and ending with fiscal year 2000 shall not exceed $500,000,000. In applying this paragraph, the Secretary shall ensure the equitable distribution of additional funds among the States.
-
-#### (4) Time limitation
-
-&emsp;This subsection shall only apply with respect to a State for expenditures incurred during the first 12 calendar quarters in which the State program funded under part A of subchapter IV of this chapter (as in effect on and after the welfare reform effective date) is in effect.
+&emsp;The total amount of additional Federal funds that are expended as a result of the application of this subsection for the period beginning with fiscal year 1997 shall not exceed $500,000,000. In applying this paragraph, the Secretary shall ensure the equitable distribution of additional funds among the States.
 
 #### (i) Welfare reform effective date
 
 In this section, the term “welfare reform effective date” means the effective date, with respect to a State, of title I of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (as specified in section 116 of such Act).
 
-(Aug. 14, 1935, ch. 531, title XIX, §1931, as added Pub. L. 104–193, title I, §114(a)(2), Aug. 22, 1996, 110 Stat. 2177.)
+(Aug. 14, 1935, ch. 531, title XIX, §1931, as added Pub. L. 104–193, title I, §114(a)(2), Aug. 22, 1996, 110 Stat. 2177; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §602(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–394.)
 
 #### References in Text
 
@@ -112,11 +108,21 @@ For effective date, with respect to a State, of title I of the Personal Responsi
 
 A prior section 1931 of act Aug. 14, 1935, was renumbered section 1935, and is classified to section 1396v of this title.
 
+#### Amendments
+
+1999—Subsec. (h)(3). Pub. L. 106–113, §1000(a)(6) \[title VI, §602(a)(1)\], struck out “and ending with fiscal year 2000” after “fiscal year 1997”.
+
+Subsec. (h)(4). Pub. L. 106–113, §1000(a)(6) \[title VI, §602(a)(2)\], struck out heading and text of par. (4). Prior to amendment, text read as follows: “This subsection shall only apply with respect to a State for expenditures incurred during the first 12 calendar quarters in which the State program funded under part A of subchapter IV of this chapter (as in effect on and after the welfare reform effective date) is in effect.”
+
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §602(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–394, provided that: “The amendments made by this section \[amending this section\] shall take effect as if included in the enactment of section 114 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2177).”
+
 #### Effective Date
 
 Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 608, 1396a of this title.
+This section is referred to in sections 608, 1396a, 1396d of this title.
 

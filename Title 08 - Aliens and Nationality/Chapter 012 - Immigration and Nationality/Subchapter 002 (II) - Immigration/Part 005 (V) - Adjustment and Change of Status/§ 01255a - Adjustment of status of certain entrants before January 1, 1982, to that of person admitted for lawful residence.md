@@ -56,7 +56,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(C) has not assisted in the persecution of any person or persons on account of race, religion, nationality, membership in a particular social group, or political opinion, and
 
-&emsp;&emsp;(D) is registered or registering under the Military Selective Service Act \[50 App. U.S.C. 451 et seq.\], if the alien is required to be so registered under that Act.
+&emsp;&emsp;(D) is registered or registering under the Military Selective Service Act \[50 App.U.S.C. 451 et seq.\], if the alien is required to be so registered under that Act.
 
 > &emsp;For purposes of this subsection, an alien in the status of a Cuban and Haitian entrant described in paragraph (1) or (2)(A) of section 501(e) of Public Law 96–422 \[8 U.S.C. 1522 note\] shall be considered to have entered the United States and to be in an unlawful status in the United States.
 
@@ -202,7 +202,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (B) Use of fees
 
-&emsp;&emsp;The Attorney General shall deposit payments received under this paragraph in a separate account and amounts in such account shall be available, without fiscal year limitation, to cover administrative and other expenses incurred in connection with the review of applications filed under this section.
+&emsp;&emsp;The Attorney General shall deposit payments received under this paragraph in a separate account and amounts in such account shall be available, without fiscal yearlimitation, to cover administrative and other expenses incurred in connection with the review of applications filed under this section.
 
 #### (C) Immigration-related unfair employment practices
 
@@ -276,7 +276,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (2) No review for late filings
 
-&emsp;No denial of adjustment of status under this section based on a late filing of an application for such adjustment may be reviewed by a court of the United States or of any State or reviewed in any administrative proceeding of the United States Government.
+&emsp;No denial of adjustment of status under this section based on a late filing of an application for such adjustment may be reviewed by a court of the United States or of any State orreviewed in any administrative proceeding of the United States Government.
 
 #### (3) Administrative review
 
@@ -352,7 +352,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(A) except as provided in paragraphs (2) and (3), the alien is not eligible for—
 
-&emsp;&emsp;&emsp;(i) any program of financial assistance furnished under Federal law (whether through grant, loan, guarantee, or otherwise) on the basis of financial need, as such programs are identified by the Attorney General in consultation with other appropriate heads of the various departments and agencies of Government (but in any event including the State program of assistance under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]),
+&emsp;&emsp;&emsp;(i) any program of financial assistance furnished under Federal law (whether through grant, loan, guarantee, or otherwise) on the basis of financial need, as such programs are identified by the Attorney General in consultation with other appropriate heads of the various departmentsand agencies of Government (but in any event including the State program of assistance under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]),
 
 &emsp;&emsp;&emsp;(ii) medical assistance under a State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], and
 
@@ -404,7 +404,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;Assistance furnished under any of the following provisions of law shall not be construed to be financial assistance described in paragraph (1)(A)(i):
 
-&emsp;&emsp;(A) The National School Lunch Act \[42 U.S.C. 1751 et seq.\].
+&emsp;&emsp;(A) The Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\].
 
 &emsp;&emsp;(B) The Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\].
 
@@ -428,13 +428,13 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (i) Dissemination of information on legalization program
 
-Beginning not later than the date designated by the Attorney General under subsection (a)(1)(A) of this section, the Attorney General, in cooperation with qualified designated entities, shall broadly disseminate information respecting the benefits which aliens may receive under this section and the requirements to obtain such benefits.
+Beginning not later than the date designated by the Attorney General under subsection\(a)(1)(A) of this section, the Attorney General, in cooperation with qualified designated entities, shall broadly disseminate information respecting the benefits which aliens may receive under this section and the requirements to obtain such benefits.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §245A, as added Pub. L. 99–603, title II, §201(a)(1), Nov. 6, 1986, 100 Stat. 3394; amended Pub. L. 100–525, §2(h)(1), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–649, title VI, §603(a)(13), title VII, §703, Nov. 29, 1990, 104 Stat. 5083, 5086; Pub. L. 102–140, title I, Oct. 28, 1991, 105 Stat. 785; Pub. L. 102–232, title III, §307(<i>l</i>)(6), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 103–382, title III, §394(g), Oct. 20, 1994, 108 Stat. 4028; Pub. L. 103–416, title I, §108(b), title II, §219(<i>l</i>)(1), Oct. 25, 1994, 108 Stat. 4310, 4317; Pub. L. 104–132, title IV, §431(a), Apr. 24, 1996, 110 Stat. 1273; Pub. L. 104–193, title I, §110(s)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), (5)(A)(iii), 377(a), 384(d)(1), title VI, §623(a), Sept. 30, 1996, 110 Stat. 3009–622, 3009–623, 3009–649, 3009–653, 3009–696; Pub. L. 105–277, div. A, title I, §101(f) \[title VIII, §405(d)(4), (f)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, §3(a), Oct. 31, 1998, 112 Stat. 3125.)
+(June 27, 1952, ch. 477, title II, ch. 5, §245A, as added Pub. L. 99–603, title II, §201(a)(1), Nov. 6, 1986, 100 Stat. 3394; amended Pub. L. 100–525, §2(h)(1), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–649, title VI, §603(a)(13), title VII, §703, Nov. 29, 1990, 104 Stat. 5083, 5086; Pub. L. 102–140, title I, Oct. 28, 1991, 105 Stat. 785; Pub. L. 102–232, title III, §307(<i>l</i>)(6), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 103–382, title III, §394(g), Oct. 20, 1994, 108 Stat. 4028; Pub. L. 103–416, title I, §108(b), title II, §219(<i>l</i>)(1), Oct. 25, 1994, 108 Stat. 4310, 4317; Pub. L. 104–132, title IV, §431(a), Apr. 24, 1996, 110 Stat. 1273; Pub. L. 104–193, title I, §110(s)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), (5)(A)(iii), 377(a), 384(d)(1), title VI, §623(a), Sept. 30, 1996, 110 Stat. 3009–622, 3009–623, 3009–649, 3009–653, 3009–696; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(4), (f)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, §3(a), Oct. 31, 1998, 112 Stat. 3125; Pub. L. 106–78, title VII, §752(b)(5), Oct. 22, 1999, 113 Stat. 1169.)
 
 #### Amendment of Subsection (h)(4)(F)
 
-<i>Pub. L. 105–277, div. A, title I, §101(f) \[title VIII, §405(f)(4), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–430, 2681–435, provided that, effective July 1, 2000, subsection (h)(4)(F) of this section is amended by substituting “Title I” for “The Job Training Partnership Act or title I”.</i>
+<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(4), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–430, 2681–435, provided that, effective July 1, 2000, subsection (h)(4)(F) of this section is amended by substituting “Title I” for “The Job Training Partnership Act or title I”.</i>
 
 #### References in Text
 
@@ -456,29 +456,31 @@ Section 301 of the Social Security Amendments of 1972, referred to in subsec. (h
 
 The Food Stamp Act of 1977, referred to in subsec. (h)(1)(A)(iii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-The National School Lunch Act, referred to in subsec. (h)(4)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (h)(4)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 The Child Nutrition Act of 1966, referred to in subsec. (h)(4)(B), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
 The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (h)(4)(C), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (h)(4)(D), is Pub. L. 89–10,Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (h)(4)(D), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 The Headstart-Follow Through Act, referred to in subsec. (h)(4)(E), is title V of Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 527, as amended, which was classified generally to subchapter V (§2921 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
 
 The Job Training Partnership Act, referred to in subsec. (h)(4)(F), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified principally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (h)(4)(F), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (h)(4)(F), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (h)(4)(G), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Higher Education Act of 1965 is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Public Health Service Act, referred to in subsec. (h)(4)(H), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (h)(4)(H), is act July 1, 1944, ch. 373, 58 Stat. 682, asamended, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Prior Provisions
 
 A prior section 1255a, Pub. L. 85–316, §9, Sept. 11, 1957, 71 Stat. 641, provided for adjustment of status of certain resident aliens to that of a person admitted for permanent residence, the recording by Attorney General of alien's lawful admission for permanent residence, and for granting of nonquota status to spouse and children, prior to repeal, eff. 180 days after Sept. 26, 1961, by Pub. L. 87–301, §24(a)(5), (b), Sept. 26, 1961, 75 Stat. 657.
 
 #### Amendments
+
+1999—Subsec. (h)(4)(A). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
 1998—Subsec. (h)(4)(C). Pub. L. 105–332 substituted “Carl D. Perkins Vocational and Technical Education Act of 1998” for “Vocational Education Act of 1963”.
 
@@ -532,7 +534,7 @@ Subsec. (d)(2)(B)(ii)(II). Pub. L. 101–649, §603(a)(13)(C), substituted “(4
 
 Subsec. (d)(2)(B)(ii)(III). Pub. L. 101–649, §603(a)(13)(D), substituted “(2)(C)” for “(23)”.
 
-Subsec. (d)(2)(B)(ii)(IV). Pub. L. 101–649, §603(a)(13)(E), substituted “(3) (relating to security and relatedgrounds), other than subparagraph (E) thereof” for “(27), (28), and (29) (relating to national security and members of certain organizations)”.
+Subsec. (d)(2)(B)(ii)(IV). Pub. L. 101–649, §603(a)(13)(E), substituted “(3) (relating to security and related grounds), other than subparagraph (E) thereof” for “(27), (28), and (29) (relating to national security and members of certain organizations)”.
 
 Subsec. (d)(2)(B)(ii)(V). Pub. L. 101–649, §603(a)(13)(F), struck out subcl. (V) which referred to par. (33).
 
@@ -550,7 +552,7 @@ Subsec. (c)(5)(A). Pub. L. 100–525, §2(h)(1)(D)(i), inserted “or for the pr
 
 Subsec. (d)(2)(B)(ii). Pub. L. 100–525, §2(h)(1)(E)(ii), inserted at end “Subclause (II) (prohibiting the waiver of section 1182(a)(15) of this title) shall not apply to an alien who is or was an aged, blind, or disabled individual (as defined in section 1614(a)(1) of the Social Security Act).”
 
-Subsec. (d)(2)(B)(ii)(II). Pub. L. 100–525, §2(h)(1)(E)(i), struck out “by an alien other than an alien who is eligible for benefits under title XVI of the Social Security Act or section 212 of Public Law 93–66 for the month in which such alien is granted lawful temporary residence status under subsection (a) of this section” after “permanent residence”.
+Subsec. (d)(2)(B)(ii)(II). Pub. L. 100–525, §2(h)(1)(E)(i), struck out “by an alien other than an alien who is eligible for benefits under title XVI of the Social Security Act or section 212 of Public Law 93–66 for the month in which such alien is granted lawful temporary residencestatus under subsection (a) of this section” after “permanent residence”.
 
 #### Effective Date of 1998 Amendment
 
@@ -694,7 +696,7 @@ Section 201(c)(2) of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(h)(2
 
 #### Cuban-Haitian Adjustment
 
-Section 202 of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(i), Oct. 24, 1988, 102 Stat. 2612, provided that the status of an alien who received an immigration designation as a Cuban/Haitian Entrant as of Nov. 6, 1986, or who was a national of Cuba or Haiti, who arrived inthe United States before Jan. 1, 1982, could be adjusted by the Attorney General to that of an alien lawfully admitted for permanent residence if the alien applied for such adjustment within two years after Nov. 6, 1986, and met certain other eligibility requirements.
+Section 202 of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(i), Oct. 24, 1988, 102 Stat. 2612, provided that the status of an alien who received an immigration designation as a Cuban/Haitian Entrant as of Nov. 6, 1986, or who was a national of Cuba or Haiti, who arrived in the United States before Jan. 1, 1982, could be adjusted by the Attorney General to that of an alien lawfully admitted for permanent residence if the alien applied for such adjustment within two years after Nov. 6, 1986, and met certain other eligibility requirements.
 
 #### State Legalization Impact-Assistance Grants
 
@@ -714,7 +716,7 @@ In General.—The President shall transmit to Congress two reports on the legali
 
 “(b)
 
-Initial Report Describing Legalized Aliens.—The first report, which shall be transmitted not later than 18 months after the end of the application period for adjustment to lawful temporary residence status under the program, shall include a description of the population whose status is legalized under the program, including—
+Initial Report Describing Legalized Aliens.—The first report, which shall be transmitted not laterthan 18 months after the end of the application period for adjustment to lawful temporary residence status under the program, shall include a description of the population whose status is legalized under the program, including—
 
 &emsp;“(1) geographical origins and manner of entry of these aliens into the United States,
 

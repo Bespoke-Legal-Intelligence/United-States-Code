@@ -68,7 +68,7 @@ Each local educational agency plan shall include—
 
 &emsp;In carrying out subparagraph (H) of paragraph (1) the Secretary—
 
-&emsp;&emsp;(A) in fiscal year 1995, shall consult with the Secretary of Health and Human Services on the implementation of such subparagraph and shall establish procedures (taking into consideration existing State and local laws, and local teacher contracts) to assist local educational agencies to comply with such subparagraph; and
+&emsp;&emsp;(A) in fiscal year 1995, shall consult with the Secretary of Health and Human Services on the implementation of such subparagraph and shall establish procedures (taking into consideration existing State and local laws, and local teacher contracts) to assist localeducational agencies to comply with such subparagraph; and
 
 &emsp;&emsp;(B) in fiscal year 1996, shall disseminate to local educational agencies the Head Start Performance Standards revised pursuant to section 9836a(a) of title 42, and such agencies effected <sup>2</sup> by such subparagraph shall plan for the implementation of such subparagraph (taking into consideration existing State and local laws, and local teacher contracts), including pursuing the availability of other Federal, State, and local funding sources to assist in compliance with such subparagraph.
 

@@ -98,5 +98,5 @@ Section 1203(c) of Pub. L. 98–94 directed Secretary of Defense, not later than
 
 #### Allocation of Adequate Personnel and Financial Resources in Developing or Assessing Independent Estimates of Costs
 
-Section 1203(d) of Pub. L. 98–94 provided that: “It is the sense of the Congress that the Secretary of Defenseshould ensure that adequate personnel and financial resources are allocated at all levels of the Department of Defense to those organizations or offices charged with developing or assessing independent estimates of the costs of major defense acquisition programs.”
+Section 1203(d) of Pub. L. 98–94 provided that: “It is the sense of the Congress that the Secretary of Defense should ensure that adequate personnel and financial resources are allocated at all levels of the Department of Defense to those organizations or offices charged with developing or assessing independent estimates of the costs of major defense acquisition programs.”
 

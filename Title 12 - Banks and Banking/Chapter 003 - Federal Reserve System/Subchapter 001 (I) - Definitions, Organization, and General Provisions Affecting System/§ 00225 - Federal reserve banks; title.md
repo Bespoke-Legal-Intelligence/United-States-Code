@@ -12,5 +12,5 @@ Jurisdiction of actions by or against Federal reserve banks, see section 632 of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 377, 481 of this title.
+This section is referred to in section 481 of this title.
 

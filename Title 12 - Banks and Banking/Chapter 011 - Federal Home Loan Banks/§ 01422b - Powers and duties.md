@@ -12,6 +12,16 @@ The Board shall have the following powers:
 
 &emsp;(4) To use the United States mails in the same manner and under the same conditions as a department or agency of the United States.
 
+&emsp;(5) To issue and serve a notice of charges upon a Federal home loan bank or upon any executive officer or director of a Federal home loan bank if, in the determination of the Finance Board, the Bank, executive officer, or director is engaging or has engaged in, or the Finance Board has reasonable cause to believe that the Bank, executive officer, or director is about to engage in an unsafe or unsound practice in conducting the business of the bank, or any conduct that violates any provision of this chapter or any law, order, rule, or regulation or any condition imposed in writing by the Finance Board in connection with the granting of any application or other request by the Bank, or any written agreement entered into by the Bank with the agency, in accordance with the procedures provided in subsection (c) or (f) of section 1371 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[12 U.S.C. 4631\]. Such authority includes the same authority to issue an order requiring a party to take affirmative action to correct conditions resulting from violations or practices or to limit activities of a Bank or any executive officer or director of a Bank as appropriate Federal banking agencies have to take with respect to insured depository institutions under paragraphs (6) and (7) of section 1818(b) of this title, and to have all other powers, rights, and duties to enforce this chapter with respect to the Federal home loan banks and their executive officers and directors as the Office of Federal Housing Enterprise Oversight has to enforce the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[12 U.S.C. 4501 et seq.\], the Federal National Mortgage Association Charter Act \[12 U.S.C. 1716 et seq.\], or the Federal Home Loan Mortgage Corporation Act \[12 U.S.C. 1451 et seq.\] with respect to the Federal housing enterprises under subtitle C \[12 U.S.C. 4631 et seq.\] (other than section 1371 \[12 U.S.C. 4631\]) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992.
+
+&emsp;(6) To address any insufficiencies in capital levels resulting from the application of section 1464(f) of this title.
+
+&emsp;(7) To act in its own name and through its own attorneys—
+
+&emsp;&emsp;(A) in enforcing any provision of this chapter or any regulation promulgated under this chapter; or
+
+&emsp;&emsp;(B) in any action, suit, or proceeding to which the Finance Board is a party that involves the Board's regulation or supervision of any Federal home loan bank.
+
 #### (b) Staff
 
 #### (1) Board staff
@@ -30,11 +40,21 @@ Receipts of the Board derived from assessments levied upon the Federal Home Loan
 
 The Board shall make an annual report to the Congress.
 
-(July 22, 1932, ch. 522, §2B, as added Pub. L. 101–73, title VII, §702(a), Aug. 9, 1989, 103 Stat. 414.)
+(July 22, 1932, ch. 522, §2B, as added Pub. L. 101–73, title VII, §702(a), Aug. 9, 1989, 103 Stat.414; amended Pub. L. 106–102, title VI, §606(e)(1), Nov. 12, 1999, 113 Stat. 1454.)
 
 #### References in Text
 
-The Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (b)(1), is Pub. L. 101–73, Aug. 9, 1989, 103 Stat. 183. Title IV of theAct is set out as a note under section 1437 of this title. For complete classification of this Act to the Code, see Tables.
+The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, referred to in subsec. (a)(5), is title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to chapter 46 (§4501 et seq.) of this title. Subtitle C of the Act is classified generally to subchapter III (§4631 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note under section 4501 of this title and Tables.
+
+The Federal National Mortgage Association Charter Act, referred to in subsec. (a)(5), is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, as amended, which is classified generally to subchapter III (§1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of this title and Tables.
+
+The Federal Home Loan Mortgage Corporation Act, referred to in subsec. (a)(5), is title III of Pub. L. 91–351, July 24, 1970, 84 Stat. 451, as amended, which is classified generally to chapter 11A (§1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title and Statement of Purpose note set out under section 1451 of this title and Tables.
+
+The Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (b)(1), is Pub. L. 101–73, Aug. 9, 1989, 103 Stat. 183. Title IV of the Act is set out as a note under section 1437 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+1999—Subsec. (a)(5) to (7). Pub. L. 106–102 added pars. (5) to (7).
 
 #### Section Referred to in Other Sections
 

@@ -142,7 +142,7 @@ Establishment.—The Administrator of the Federal Aviation Administration shall 
 
 &emsp;(2)
 
-Notice of criteria.—Within 6 months after the date of the enactment of the FAA Research, Engineering, and Development Authorization Act of 1998, the Administrator of the Federal Aviation Administration shall establish and publish in the Federal Register criteria for the submittal of proposals for agrant under this subsection, and for the awarding of such grants.
+Notice of criteria.—Within 6 months after the date of the enactment of the FAA Research, Engineering, and Development Authorization Act of 1998, the Administrator of the Federal Aviation Administration shall establish and publish in the Federal Register criteria for the submittal of proposals for a grant under this subsection, and for the awarding of such grants.
 
 &emsp;(3)
 
@@ -284,7 +284,7 @@ Reprogramming.—If any funds authorized by the amendments made by this Act \[am
 
 “(b)
 
-Notice of Reorganization.—The Administrator of the Federal Aviation Administration shall provide notice to the Committees on Science, Transportation and Infrastructure, and Appropriations of the House of Representatives, and the Committees on Commerce,Science, and Transportation and Appropriations of the Senate, not later than 30 days before any major reorganization (as determined by the Administrator) of any program of the Federal Aviation Administration for which funds are authorized by this Act.”
+Notice of Reorganization.—The Administrator of the Federal Aviation Administration shall provide notice to the Committees on Science, Transportation and Infrastructure, and Appropriations of the House of Representatives, and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, not later than 30 days before any major reorganization (as determined by the Administrator) of any program of the Federal Aviation Administration for which funds are authorized by this Act.”
 
 #### Section Referred to in Other Sections
 

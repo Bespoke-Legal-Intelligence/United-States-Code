@@ -60,7 +60,7 @@ Every establishment in any State registered with the Secretary pursuant to this 
 
 (1) Every person who registers with the Secretary under subsection (b), (c), or (d) of this section shall, at the time of registration under any such subsection, file with the Secretary a list of all drugs and a list of all devices and a brief statement of the basis for believing that each device included in the list is a device rather than a drug (with each drug and device in each list listed by its established name (as defined in section 352(e) of this title) and by any proprietary name) which are being manufactured, prepared, propagated, compounded, or processed by him for commercial distribution and which he has not included in any list of drugs or devices filed by him with the Secretary under this paragraph or paragraph (2) before such time of registration. Such list shall be prepared in such form and manner as the Secretary may prescribe and shall be accompanied by—
 
-&emsp;(A) in the case of a drug contained in the applicable list and subject to section 355 or 360b of this title, or a device intended for human use contained in the applicable list with respect to which a performance standard has been established under section 360d of this title or which is subject to section 360e of this title, a reference to the authority for the marketing of such drug or device and a copy of all labeling for such drug or device;
+&emsp;(A) in the case of a drug contained in the applicable list and subject to section 355 or 360b of this title, or a device intended for human use contained in the applicable list with respect to which a performance standard has been established under section 360d of this title or which is subject to section 360e of thistitle, a reference to the authority for the marketing of such drug or device and a copy of all labeling for such drug or device;
 
 &emsp;(B) in the case of any other drug or device contained in an applicable list—
 
@@ -156,7 +156,7 @@ Subsec. (k). Pub. L. 94–295, §4(a)(9), added subsec. (k).
 
 1972—Subsec. (e). Pub. L. 92–387, §4(a), inserted provision that the Secretary may assign a listing number to each drug or class of drugs listed under subsec. (j).
 
-Subsec. (f). Pub. L. 92–387, §4(b), inserted exception that the list submitted under subsec. (j)(3) and information submitted under subsec. (j)(1), (2) shall be exemptfrom inspection unless the Secretary determines otherwise.
+Subsec. (f). Pub. L. 92–387, §4(b), inserted exception that the list submitted under subsec. (j)(3) and information submitted under subsec. (j)(1), (2) shall be exempt from inspection unless the Secretary determines otherwise.
 
 Subsec. (i). Pub. L. 92–387, §4(c), inserted provision that the regulations shall require such establishment to provide the information required by subsec. (j).
 

@@ -1,6 +1,6 @@
 ### §6323. Military leave; Reserves and National Guardsmen
 
-(a)(1) Subject to paragraph (2) of this subsection, an employee as defined by section 2105 of this title or an individual employed by the government of the District of Columbia, permanent or temporary indefinite, is entitled to leave without loss in pay, time, or performance or efficiency rating for active duty or engaging in field or coast defense training under sections 502–505 of title 32 as a Reserve of the armed forces or member of the National Guard. Leave under this subsection accrues for an employee or individual at the rate of 15 days per fiscal year and, to the extent that it is not used in a fiscal year, accumulates for use in the succeeding fiscal year until it totals 15 days at the beginning of a fiscal year.
+(a)(1) Subject to paragraph (2) of this subsection, an employee as defined by section 2105 of this title or an individual employed by the government of the District of Columbia, permanent or temporary indefinite, is entitled to leave without loss in pay, time, or performance or efficiency rating for active duty, inactive-duty training (as defined in section 101 of title 37), or engaging in field or coast defense training under sections 502–505 of title 32 as a Reserve of the armed forces or member of the National Guard. Leave under this subsection accrues for an employee or individual at the rate of 15 days per fiscal year and, to the extent that it is not used in a fiscal year, accumulates for use in the succeeding fiscal year until it totals 15 days at the beginning of a fiscal year.
 
 (2) In the case of an employee or individual employed on a part-time career employment basis (as defined in section 3401(2) of this title), the rate at which leave accrues under this subsection shall be a percentage of the rate prescribed under paragraph (1) which is determined by dividing 40 into the number of hours in the regularly scheduled workweek of that employee or individual during that fiscal year.
 
@@ -14,15 +14,15 @@
 
 &emsp;&emsp;(B) full-time military service for his State, the District of Columbia, the Commonwealth of Puerto Rico, or a territory of the United States;
 
-> is entitled, during and because of such service, to leave without loss of, or reduction in, pay, leave to which he otherwise is entitled, credit for time or service, or performance or efficiency rating. Leave granted by this subsection shallnot exceed 22 work-days in a calendar year. Upon the request of an employee, the period for which an employee is absent to perform service described in paragraph (2) may be charged to the employee's accrued annual leave or to compensatory time available to the employee instead of being charged as leave to which the employee is entitled under this subsection. The period of absence may not be charged to sick leave.
+> is entitled, during and because of such service, to leave without loss of, or reduction in, pay, leave to which he otherwise is entitled, credit for time or service, or performance or efficiency rating. Leave granted by this subsection shall not exceed 22 work-days in a calendar year. Upon the request of an employee, the period for which an employee is absent to perform service described in paragraph (2) may be charged to the employee's accrued annual leave or to compensatory time available to the employee instead of being charged as leave to which the employee is entitled under this subsection. The period of absence may not be charged to sick leave.
 
 (c) An employee as defined by section 2105 of this title or an individual employed by the government of the District of Columbia, who is a member of the National Guard of the District of Columbia, is entitled to leave without loss in pay or time for each day of a parade or encampment ordered or authorized under title 39, District of Columbia Code. This subsection covers each day of service the National Guard, or a portion thereof, is ordered to perform by the commanding general.
 
-(d)(1) A military reserve technician described in section 8401(30) is entitled at such person's request to leave without loss of, or reduction in, pay, leave to which such person is otherwise entitled, credit for time or service, or performance or efficiency rating for each day, not to exceed 44 workdays in a calendar year, in which such person is on active duty without pay, as authorized pursuant to section 12315 of title 10, under section 12301(b) or 12301(d) of title 10 (other than active duty during a war or national emergency declared by the President or Congress) for participation in noncombat operations outside the United States, its territories and possessions.
+(d)(1) A military reserve technician described in section 8401(30) <sup>1</sup> is entitled at such person's request to leave without loss of, or reduction in, pay, leave to which such person is otherwise entitled, credit for time or service, or performanceor efficiency rating for each day, not to exceed 44 workdays in a calendar year, in which such person is on active duty without pay, as authorized pursuant to section 12315 of title 10, under section 12301(b) or 12301(d) of title 10 (other than active duty during a war or national emergency declared by the President or Congress) for participation in operations outside the United States, its territories and possessions.
 
 (2) An employee who requests annual leave or compensatory time to which the employee is otherwise entitled, for a period during which the employee would have been entitled upon request to leave under this subsection, may be granted such annual leave or compensatory time without regard to this section or section 5519.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 90–588, §2(a), Oct. 17, 1968, 82 Stat. 1151; Pub. L. 90–623, §1(17), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 91–375, §6(c)(18), Aug. 12, 1970, 84 Stat. 776; Pub. L. 96–54, §2(a)(40), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–70, title III, §3302(e)(5), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–431, §1, Oct. 10, 1980, 94 Stat. 1850; Pub. L. 102–190, div. A, title V, §528, Dec. 5, 1991, 105 Stat. 1364; Pub. L. 103–337, div. A, title XVI, §1677(a)(2), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–106, div. A, title V, §516(a), title X, §1039, Feb. 10, 1996, 110 Stat. 309, 432.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 90–588, §2(a), Oct. 17, 1968, 82 Stat. 1151; Pub. L. 90–623, §1(17), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 91–375, §6(c)(18), Aug. 12, 1970, 84 Stat. 776; Pub. L. 96–54, §2(a)(40), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–70, title III, §3302(e)(5), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–431, §1, Oct. 10, 1980, 94 Stat. 1850; Pub. L. 102–190, div. A, title V, §528, Dec. 5, 1991, 105 Stat. 1364; Pub. L. 103–337, div. A, title XVI, §1677(a)(2), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–106, div. A, title V, §516(a), title X, §1039, Feb. 10, 1996, 110 Stat. 309, 432; Pub. L. 106–65, div. A, title VI, §672(b), title XI, §§1105(a), 1106(a), Oct. 5, 1999, 113 Stat. 674, 777.)
 
 Historical and Revision Notes
 
@@ -52,7 +52,15 @@ In subsection (a), the words “without regard to classification or terminology 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### References in Text
+
+Section 8401(30) of this title, referred to in subsec. (d)(1), was amended generally by Pub. L. 106–65, div. A, title V, §522(c)(2), Oct. 5, 1999, 113 Stat. 597, and, as so amended, no longer describes military reserve technicians.
+
 #### Amendments
+
+1999—Subsec. (a)(1). Pub. L. 106–65, §1106(a), inserted “, inactive-duty training (as defined in section 101 of title 37),” after “active duty” in first sentence.
+
+Subsec. (d)(1). Pub. L. 106–65, §§672(b) and 1105(a), amended par. (1) identically, striking out “noncombat” after “for participation in”.
 
 1996—Subsec. (b). Pub. L. 104–106, §516(a), inserted at end “Upon the request of an employee, the period for which an employee is absent to perform service described in paragraph (2) may be charged to the employee's accrued annual leave or to compensatory time available to the employee instead of being charged as leave to which the employee is entitled under this subsection. The period of absence may not be charged to sick leave.”
 
@@ -88,6 +96,12 @@ Subsec. (c). Pub. L. 90–588 added subsec. (c), set out first.
 
 Subsec. (d). Pub. L. 90–588 added subsec. (d).
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–65, div. A, title XI, §1105(b), Oct. 5, 1999, 113 Stat. 777, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 5, 1999\] and shall apply with respect to days of leave under section 6323(d)(1) of title 5, United States Code, on or after that date.”
+
+Pub. L. 106–65, div. A, title XI, §1106(b), Oct. 5, 1999, 113 Stat. 777, provided that: “The amendment made by subsection (a) \[amending this section\] shall not applywith respect to any inactive-duty training (as defined in such amendment) occurring before the date of the enactment of this Act \[Oct. 5, 1999\].”
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
@@ -117,4 +131,6 @@ Section 4 of act July 1, 1947, ch. 192, 61 Stat. 239, as amended by act June 22,
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5519, 6129 of this title; title 22 section 3664.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

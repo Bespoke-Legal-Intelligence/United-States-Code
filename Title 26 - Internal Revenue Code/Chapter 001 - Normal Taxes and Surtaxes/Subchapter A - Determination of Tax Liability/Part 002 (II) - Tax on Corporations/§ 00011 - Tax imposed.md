@@ -172,7 +172,7 @@ Section 66(c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22,
 
 “(1)
 
-In general.—The amendments made by this section \[amending this section and section 1561 of thistitle\] shall apply to taxable years beginning after December 31, 1983.
+In general.—The amendments made by this section \[amending this section and section 1561 of this title\] shall apply to taxable years beginning after December 31, 1983.
 
 “(2)
 

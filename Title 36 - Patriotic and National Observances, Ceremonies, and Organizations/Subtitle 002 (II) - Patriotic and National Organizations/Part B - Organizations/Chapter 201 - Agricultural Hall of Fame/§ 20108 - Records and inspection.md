@@ -36,5 +36,7 @@ Aug. 31, 1960, Pub. L. 86–680, §13, 74 Stat. 576.
 
 36:983 (last sentence).
 
+&nbsp;
+
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 

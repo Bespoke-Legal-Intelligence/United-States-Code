@@ -12,11 +12,15 @@ Retention.—Notwithstanding any provision of chapter 1407 of this title and exc
 
 (b)
 
-Separation at Specified Age.—An officer may not be retained in active status under this section later than the date on which the officer becomes 67 years of age (or, in the case of a reserve officer of the Army in the Chaplains or a reserve officer of the Air Force designated as a chaplain, 60 years of age).
+Separation at Specified Age.—An officer may not be retained in active status under this section later than the date on which the officer becomes 67 years of age.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2956.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2956; amended Pub. L. 106–65, div. A, title V, §516, Oct. 5, 1999, 113 Stat. 594.)
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in sections 3855(a), (c)(1), 6392(a), (c)(1), and8855(a), (c)(1) of this title, prior to repeal by Pub. L. 103–337, §1629(a)(3), (b)(3), (c)(3).
+Provisions similar to those in this section were contained in sections 3855(a), (c)(1), 6392(a), (c)(1), and 8855(a), (c)(1) of this title, prior to repeal by Pub. L. 103–337, §1629(a)(3), (b)(3), (c)(3).
+
+#### Amendments
+
+1999—Subsec. (b). Pub. L. 106–65 struck out “(or, in the case of a reserve officer of the Army in the Chaplains or a reserve officer of the Air Force designated as a chaplain, 60 years of age)” after “67 years of age”.
 

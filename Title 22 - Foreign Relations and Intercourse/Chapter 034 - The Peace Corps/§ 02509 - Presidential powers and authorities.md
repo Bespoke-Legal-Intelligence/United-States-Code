@@ -50,19 +50,17 @@ The Director of the Peace Corps shall have the same authority as is available to
 
 The provisions of section 2702 of this title shall apply to volunteers and persons employed, appointed, or assigned under this chapter, and to individuals employed under personal services contracts to furnish medical services abroad pursuant to subsection (a)(5) of this section..<sup>1</sup> For purposes of this subsection, references to the Secretary in subsection (b) of such section shall be deemed to be references to the Director of the Peace Corps, references to the Secretary in subsection (f) of such section shall be deemed to be references to the President, and the reference in subsection (g) of such section to a principal representative of the United States shall be deemed to be a reference to a Peace Corps representative.
 
-(Pub. L. 87–293, title I, §10, Sept. 22, 1961, 75 Stat. 617; Pub. L. 88–200, §5, Dec. 13, 1963, 77 Stat. 360; Pub. L. 89–134, §6, Aug. 24, 1965, 79 Stat. 551; Pub. L. 89–572, §6, Sept. 13, 1966, 80 Stat. 765; Pub. L. 93–49, §2, June 25, 1973, 87 Stat. 99; Pub. L. 95–331, §5(a), (c), Aug. 2, 1978, 92 Stat. 414, 415; Pub. L. 97–113, title VI, §604(a), Dec. 29, 1981, 95 Stat. 1543; Pub. L. 103–236, title VI, §602, Apr. 30, 1994, 108 Stat. 491.)
+(Pub. L. 87–293, title I, §10, Sept. 22, 1961, 75 Stat. 617; Pub. L. 88–200, §5, Dec. 13, 1963, 77 Stat. 360; Pub. L. 89–134, §6, Aug. 24, 1965, 79 Stat. 551; Pub. L. 89–572, §6, Sept. 13, 1966, 80 Stat. 765; Pub. L. 93–49, §2, June 25, 1973, 87 Stat. 99; Pub. L. 95–331, §5(a), (c), Aug. 2, 1978, 92 Stat. 414, 415; Pub. L. 97–113, title VI, §604(a), Dec. 29, 1981, 95 Stat. 1543; Pub. L. 103–236, title VI, §602, Apr. 30, 1994, 108 Stat. 491; Pub. L. 106–30, §2(b)(4), May 21, 1999, 113 Stat. 56.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
-The Renegotiation Act of 1951, as amended, referred to in subsec. (d), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of Title 50, Appendix, War and National Defense, prior to its omission from the Code. See Codification note preceding section 1211 of Title 50, Appendix.
-
-#### Codification
-
-In subsec. (a)(4), “section 1342 of title 31” substituted for “31 U.S.C. 665(b)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+The Renegotiation Act of 1951, as amended, referred to in subsec. (d), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section1211 et seq. of Title 50, Appendix, War and National Defense, prior to its omission from the Code. See Codification note preceding section 1211 of Title 50, Appendix.
 
 #### Amendments
+
+1999—Subsec. (a)(4). Pub. L. 106–30 substituted “section 1342 of title 31” for “31 U.S.C. 665(b)”.
 
 1994—Subsec. (c). Pub. L. 103–236, §602(a), which directed amendment of subsec. (c) by substituting “five years” for “thirty six months”, was executed by making the substitution for “thirty-six months” to reflect the probable intent of Congress.
 

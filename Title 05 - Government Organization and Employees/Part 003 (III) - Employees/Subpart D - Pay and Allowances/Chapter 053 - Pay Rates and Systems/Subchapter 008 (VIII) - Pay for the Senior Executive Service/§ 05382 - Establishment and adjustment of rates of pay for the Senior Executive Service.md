@@ -24,39 +24,41 @@ Subsec. (c). Pub. L. 101–509, §529 \[title I, §101(b)(4)(B)\], substituted �
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 #### Pay Increases
 
-1999—The President, under Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of this title, adjusted the rates of basic pay for the Senior Executive Service effective on the first day of the first applicable pay period beginning on or after Jan. 1, 1999, as follows:
+2000—The President, under Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, set out as a note under section 5332 of this title, adjusted the rates of basic pay for the Senior Executive Service effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2000, as follows:
 
 ES–1
 
-$102,300&nbsp;&nbsp;
+$106,200
 
 ES–2
 
-107,100&nbsp;&nbsp;
+111,200
 
 ES–3
 
-112,000&nbsp;&nbsp;
+116,300
 
 ES–4
 
-118,000&nbsp;&nbsp;
+122,200
 
 ES–5
 
-118,400&nbsp;&nbsp;
+122,400
 
 ES–6
 
-118,400.
+122,400
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-1998—Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, which provided for adjustment of pay rates effective Jan. 1, 1998, was superseded by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of this title.
+1999—Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, which provided for adjustment of pay rates effective Jan. 1, 1999, was substantially superseded by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, set out as a note under section 5332 of this title.
+
+1998—Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, which provided for adjustment of pay rates effective Jan. 1, 1998, was superseded by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151.
 
 1997—Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, which provided for adjustment of pay rates effective Jan. 1, 1997, was superseded by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521.
 
@@ -80,7 +82,7 @@ ES–6
 
 1985—Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577, which provided for adjustment of pay rates effective Jan. 1, 1985, was superseded by Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505.
 
-1984—Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended by Ex. Ord. No. 12477, May 23, 1984, 49 F.R.22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493, which provided for adjustment of pay rates effective Jan. 1, 1984, was superseded by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577.
+1984—Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended by Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493, which provided for adjustment of pay rates effective Jan. 1, 1984, was superseded by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577.
 
 1982—Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, which provided for adjustment of pay rates effective Oct. 1, 1982, was superseded by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493.
 
@@ -106,5 +108,5 @@ Ex. Ord. No. 12592, Apr. 10, 1987, 52 F.R. 13417, as amended by Ex. Ord. No. 126
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3151, 3393a, 4507, 5383, 5384 of this title; title 3 section 115; title 10 section 1602; title 22 sections 3962, 4154; title 26 section 7803; title 28 sections 594, 995; title 29 sections 717, 761a, 771a, 782, 783, 792, 794b, 797a; title 31 sections 325, 733; title 42 sections 902, 903, 1317, 14196.
+This section is referred to in sections 3151, 3393a, 4507, 5383, 5384 of this title; title 3 section 115; title 10 section 1602; title 15 section 1511e; title 20 section 1018; title 22 sections 3962, 4154; title 26 section 7803; title 28 sections 594, 995; title 29 sections 715, 772, 782, 783, 792, 794b; title 31 sections 325, 733; title 40 App. section 106; title 42 sections 902, 903, 1317, 14196.
 

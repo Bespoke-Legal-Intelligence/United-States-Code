@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) the need to reduce the quantity of plastic debris in the marine environment; and
 
-&emsp;&emsp;(E) the requirements under this Act and the Act to Prevent Pollution from Ships (33 U.S.C. 1901 et seq.) with respect to ships and ports, and the authority of citizens to report violations of this Act and the Act to Prevent Pollution from Ships (33 U.S.C. 1901 et seq.).
+&emsp;&emsp;(E) the requirements under this Act and the Act to Prevent Pollution from Ships (33U.S.C. 1901 et seq.) with respect to ships and ports, and the authority of citizens to report violations of this Act and the Act to Prevent Pollution from Ships (33 U.S.C. 1901 et seq.).
 
 #### (2) Authorized activities
 

@@ -70,5 +70,5 @@ Repeal of title I of Pub. L. 92–225, cited as a credit to this section, by Pub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 224, 335, 402 of this title.
+This section is referred to in sections 224, 325, 335, 402 of this title.
 

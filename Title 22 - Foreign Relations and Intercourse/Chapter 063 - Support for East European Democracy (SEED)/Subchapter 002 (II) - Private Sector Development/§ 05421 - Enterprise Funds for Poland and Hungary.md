@@ -40,7 +40,7 @@ The funds appropriated under subsection (b) of this section may be made availabl
 
 &emsp;(B) A majority of the members of the Board of Directors of each Enterprise Fund shall be United States citizens.: <sup>1</sup> <i>Provided</i>, That, as to Enterprise Funds established with respect to more than one host country, such Enterprise Fund may, in lieu of the appointment of citizens of the host countries to its Board of Directors, establish an advisory council for the host region comprised of citizens of each of the host countries or establish separate advisory councils for each of the host countries (hereinafter in this section referred to as the “Advisory Councils”), with which the Enterprise Fund's policies and proposed activities and such host country citizens shall satisfy the experience and expertise requirements of this clause.
 
-&emsp;(C) A host country citizen who is not committed to respect for democracy and a freemarket economy may not serve as a member of the Board of Directors of an Enterprise Fund.
+&emsp;(C) A host country citizen who is not committed to respect for democracy and a free market economy may not serve as a member of the Board of Directors of an Enterprise Fund.
 
 #### (4) Eligibility of Enterprise Funds for grants
 
@@ -86,7 +86,7 @@ In carrying out this section, each Enterprise Fund shall take into account such 
 
 #### (h) Retention of interest
 
-An Enterprise Fund may hold funds granted to it pursuant to this section in interest-bearing accounts, prior to the disbursement of such funds for purposes specified in subsection (a) of this section, and may retain for such program purposes any interest earned on such deposits without returning such interest to the Treasury of the United States and without further appropriation by the Congress.
+An Enterprise Fund may hold funds granted to it pursuant to this section in interest-bearingaccounts, prior to the disbursement of such funds for purposes specified in subsection (a) of this section, and may retain for such program purposes any interest earned on such deposits without returning such interest to the Treasury of the United States and without further appropriation by the Congress.
 
 #### (i) Use of United States private venture capital
 
@@ -154,7 +154,7 @@ The date of enactment of this subsection, referred to in subsec. (<i>l</i>)(3), 
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Administrator of United States Agency for International Development by section 2 of Ex. Ord. No. 12703, Feb. 20, 1990, 55 F.R. 6351, set out as a note under section 5401 of this title.
+Functions of President under this section relating to Enterprise Funds for Poland and Hungary delegated to Secretary of State by section 2 of Ex. Ord. No. 12703, Feb. 20, 1990, 55 F.R. 6351, as amended, set out as a note under section 5401 of this title.
 
 #### Section Referred to in Other Sections
 

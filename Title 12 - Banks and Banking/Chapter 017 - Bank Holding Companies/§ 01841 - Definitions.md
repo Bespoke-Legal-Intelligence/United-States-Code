@@ -26,7 +26,7 @@
 
 &emsp;(E) No company is a bank holding company by virtue of its ownership or control of any State-chartered bank or trust company which—
 
-&emsp;&emsp;(i) is wholly owned by thrift institutions or savings banks; and
+&emsp;&emsp;(i) is wholly owned by 1 or more thrift institutions or savings banks; and
 
 &emsp;&emsp;(ii) is restricted to accepting—
 
@@ -102,7 +102,7 @@ Exceptions.—The term “bank” does not include any of the following:
 
 &emsp;&emsp;&emsp;(i) an institution organized under the laws of a State which, on March 5, 1987, had in effect or had under consideration in such State's legislature a statute which required or would require such institution to obtain insurance under the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\]—
 
-&emsp;&emsp;&emsp;&emsp;(I) which does not accept demand deposits that the depositor may withdrawby check or similar means for payment to third parties;
+&emsp;&emsp;&emsp;&emsp;(I) which does not accept demand deposits that the depositor may withdraw by check or similar means for payment to third parties;
 
 &emsp;&emsp;&emsp;&emsp;(II) which has total assets of less than $100,000,000; or
 
@@ -110,7 +110,7 @@ Exceptions.—The term “bank” does not include any of the following:
 
 &emsp;&emsp;&emsp;(ii) an institution which does not, directly, indirectly, or through an affiliate, engage in any activity in which it was not lawfully engaged as of March 5, 1987,
 
-> &emsp;&emsp;except that this subparagraph shall cease to apply to any institution which permits any overdraft (including any intraday overdraft), or which incurs any such overdraft in such institution's account at a Federal Reserve bank, on behalf of an affiliate if such overdraft is not the result of an inadvertent computer or accounting error that is beyond the control of both the institution and the affiliate.
+> &emsp;&emsp;except that this subparagraph shall cease to apply to any institution which permits any overdraft (including any intraday overdraft), or which incurs any such overdraft in such institution's account at a Federal Reserve bank, on behalf of an affiliate if such overdraft is not the result of an inadvertent computer or accounting error that is beyond the control of both the institution and the affiliate, or that is otherwise permissible for a bank controlled by a company described in section 1843(f)(1) of this title.
 
 &emsp;&emsp;(I) The Investors Fiduciary Trust Company, located in Kansas City, Missouri, so long as such institution—
 
@@ -210,7 +210,7 @@ Qualified Savings Bank.—For purposes of this chapter, the term “qualified sa
 
 (n)
 
-Incorporated Definitions.—For purposes of this chapter, the terms “insured depository institution”, “appropriate Federal banking agency”, “default”, “in danger of default”, and “State bank supervisor” have the same meanings as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].
+Incorporated Definitions.—For purposes of this chapter, the terms “depository institution”, “insured depository institution”, “appropriate Federal banking agency”, “default”, “in danger of default”, and “State bank supervisor” have the same meanings as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].
 
 (<i>o</i>)
 
@@ -222,7 +222,7 @@ Capital terms.—
 
 &emsp;&emsp;(A)
 
-Insured depository institutions.—With respect to insured depository institutions, the terms “well capitalized”, “adequately capitalized”, and “undercapitalized” have the same meanings as in section 38(b) of the Federal Deposit Insurance Act \[12 U.S.C. 1831<i>o</i>(b)\].
+Insured depository institutions.—With respect to insured depository institutions, the terms “well capitalized”, “adequately capitalized”, and “undercapitalized” have the same meanings as in section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831<i>o</i>\].
 
 &emsp;&emsp;(B)
 
@@ -292,7 +292,7 @@ In general.—The term “lead insured depository institution” means the large
 
 &emsp;&emsp;(B)
 
-Branch or agency.—For purposes of this paragraph and section 1843(j)(4) of this title, the term “insured depository institution” includes any branch or agency operated in the United States by a foreign bank.
+Branch or agency.—For purposes of this paragraph and section 1843(j)(4) of thistitle, the term “insured depository institution” includes any branch or agency operated in the United States by a foreign bank.
 
 &emsp;(9)
 
@@ -342,15 +342,23 @@ Qualified family partnership.—The term “qualified family partnership” mean
 
 &emsp;&emsp;&emsp;&emsp;(II) to section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\].
 
-(May 9, 1956, ch. 240, §2, 70 Stat. 133; Pub. L. 89–485, §§1–6, July 1, 1966, 80 Stat. 236, 237; Pub. L. 91–607, title I, §101, Dec. 31, 1970, 84 Stat. 1760; Pub. L. 95–188, title III, §301(b), Nov. 16, 1977, 91 Stat. 1389; Pub. L. 95–369, §8(e), Sept. 17, 1978, 92 Stat. 623; Pub. L. 97–320, title I, §118(b), title III, §333, title IV, §404(d)(1), Oct. 15, 1982, 96 Stat. 1479, 1504, 1512; Pub. L. 100–86, title I, §101(a), (e), title II, §205(a), Aug. 10, 1987, 101 Stat. 554, 562, 584; Pub. L. 101–73, title VI, §602(a), Aug. 9, 1989, 103 Stat. 409; Pub. L. 103–328, title I, §101(c), Sept. 29, 1994, 108 Stat. 2341; Pub. L. 104–208, div. A, title II, §§2207, 2208(b), 2304(b), 2610, 2704(d)(17), Sept. 30, 1996, 110 Stat. 3009–406, 3009–408, 3009–425, 3009–475, 3009–495.)
+(p)
+
+Financial Holding Company.—For purposes of this chapter, the term “financial holding company” means a bank holding company that meets the requirements of section 1843(<i>l</i>)(1) of this title.
+
+(q)
+
+Insurance Company.—For purposes of sections 1843 and 1844 of this title, the term “insurance company” includes any person engaged in the business of insurance to the extent of such activities.
+
+(May 9, 1956, ch. 240, §2, 70 Stat. 133; Pub. L. 89–485, §§1–6, July 1, 1966, 80 Stat. 236, 237; Pub. L. 91–607, title I, §101, Dec. 31, 1970, 84 Stat. 1760; Pub. L. 95–188, title III, §301(b), Nov. 16, 1977, 91 Stat. 1389; Pub. L. 95–369, §8(e), Sept. 17, 1978, 92 Stat. 623; Pub. L. 97–320, title I, §118(b), title III, §333, title IV, §404(d)(1), Oct. 15, 1982, 96 Stat. 1479, 1504, 1512; Pub. L. 100–86, title I, §101(a), (e), title II, §205(a), Aug. 10, 1987, 101 Stat. 554, 562, 584; Pub. L. 101–73, title VI, §602(a), Aug. 9, 1989, 103 Stat. 409; Pub. L. 103–328, title I, §101(c), Sept. 29, 1994, 108 Stat. 2341; Pub. L. 104–208, div. A, title II, §§2207, 2208(b), 2304(b), 2610, 2704(d)(17), Sept. 30, 1996, 110 Stat. 3009–406, 3009–408, 3009–425, 3009–475, 3009–495; Pub. L. 106–102, title I, §§103(c)(1), 107(c), 119, title VII, §724, Nov. 12, 1999, 113 Stat. 1351, 1359, 1373, 1471.)
 
 #### Amendment of Subsection (j)(2)
 
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(17), Sept. 30, 1996, 110 Stat. 3009–487, 3009–495, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (j)(2) of this</i><i>section is amended by striking “Savings Association Insurance Fund” and inserting “Deposit Insurance Fund”.</i>
+<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(17), Sept. 30, 1996, 110 Stat. 3009–487, 3009–495, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (j)(2) of this section is amended by striking “Savings Association Insurance Fund” and inserting “Deposit Insurance Fund”.</i>
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1), (4), (c), and (g) to (<i>o</i>), was in the original “this Act”, meaning act May 9, 1956, ch. 240, 70 Stat. 133, as amended, known as the Bank Holding Company Act of 1956, which enacted this chapter and sections 1101 to 1103 of Title 26, Internal Revenue Code, and enacted provisions set out as notes under this section. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsecs. (a)(1), (4), (c), and (g) to (p), was in the original “this Act”, meaning act May 9, 1956, ch. 240, 70 Stat. 133, as amended, known as the Bank Holding Company Act of 1956, which enacted this chapter and sections 1101 to 1103 of Title 26, Internal Revenue Code, and enacted provisions set out as notes under this section. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 The Federal Deposit Insurance Act, referred to in subsecs. (a)(5)(F) and (c)(2)(H)(i), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
@@ -363,6 +371,16 @@ Sections 1727 and 1730a of this title, referred to in subsecs. (c)(2)(J) and (i)
 A section 2(h)(2) company, referred to in subsec. (h)(3) to (5), is defined in subsec. (h)(2) of this section.
 
 #### Amendments
+
+1999—Subsec. (a)(5)(E)(i). Pub. L. 106–102, §724, inserted “1 or more” before “thrift institutions”.
+
+Subsec. (c)(2)(H). Pub. L. 106–102, §107(c), inserted “, or that is otherwise permissible for a bank controlled by a company described in section 1843(f)(1) of this title” before period at end of concluding provisions.
+
+Subsec. (n). Pub. L. 106–102, §103(c)(1)(A), inserted “ ‘depository institution’,” after “the terms”.
+
+Subsec. (<i>o</i>)(1)(A). Pub. L. 106–102, §119, substituted “section 38” for “section 38(b)”.
+
+Subsecs. (p), (q). Pub. L. 106–102, §103(c)(1)(B), added subsecs. (p) and (q).
 
 1996—Subsec. (b). Pub. L. 104–208, §2610(1), inserted “, and shall not include a qualified family partnership” after “by any State”.
 
@@ -402,7 +420,7 @@ Subsec. (i)(4). Pub. L. 97–320, §118(b), added cl. (4).
 
 1977—Subsec. (a)(5)(D). Pub. L. 95–188 authorized the Board to extend the time for disposition of acquired shares for not more than one year at a time and three years in the aggregate.
 
-1970—Subsec. (a). Pub. L. 91–607, §101(a), in revising the provisions, added par. (1) definition of bank holding company; incorporated provisions of former cl. (1) in provisions designated as par. (2)(A), inserting text respecting company acting through one or more other persons, substituting “power to vote” for “holds with power to vote” and provision for voting of any class of voting securities of the bank or company for prior provision for voting of voting shares of each of two or more banks; incorporated former provisions of former cl. (2) in provisions designated as par. (2)(B), providing for election of trustees and substituting bank or company for directors of each of two or more banks designated cl. (A) as par. (5)(A), inserting provision that acquisition of shares shall not be deemed acquisition of shares in a fiduciary capacity if the banks or company has sole discretionary authority to exercise voting rights with respect thereto, and making such limitation applicable to bank or company acquiring the shares prior to Dec. 31, 1970, where there is right of divestiture of voting rights and there is a failure to exercise that right within reasonable time not exceeding one year after Dec. 31, 1970; incorporated former cls. (B) and (C) in provisions designated as pars. (5)(B) and (C); added par. (5)(D) to (F); and designated concluding part of first sentence as par. (6), substituting “from the date on which” for “from the date as of which”.
+1970—Subsec. (a). Pub. L. 91–607, §101(a), in revising the provisions, added par. (1) definition of bank holding company; incorporated provisions of former cl. (1) in provisions designated as par. (2)(A), inserting text respecting company acting through one or more other persons, substituting “power to vote” for “holds with power to vote” and provision for voting of any class of voting securities of the bank or company for prior provision for voting of voting shares of each of two or more banks; incorporated former provisions of former cl. (2) in provisions designated as par. (2)(B), providingfor election of trustees and substituting bank or company for directors of each of two or more banks designated cl. (A) as par. (5)(A), inserting provision that acquisition of shares shall not be deemed acquisition of shares in a fiduciary capacity if the banks or company has sole discretionary authority to exercise voting rights with respect thereto, and making such limitation applicable to bank or company acquiring the shares prior to Dec. 31, 1970, where there is right of divestiture of voting rights and there is a failure to exercise that right within reasonable time not exceeding one year after Dec. 31, 1970; incorporated former cls. (B) and (C) in provisions designated as pars. (5)(B) and (C); added par. (5)(D) to (F); and designated concluding part of first sentence as par. (6), substituting “from the date on which” for “from the date as of which”.
 
 Subsec. (b). Pub. L. 91–607, §101(b), redefined term “company” to include “partnership”, which has been expressly excluded, and inserted definition of “company covered in 1970”.
 
@@ -424,6 +442,10 @@ Subsec. (g). Pub. L. 89–485, §§5, 6, substituted provisions setting out trea
 
 Subsec. (h). Pub. L. 89–485, §6, added subsec. (h).
 
+#### Effective Date of 1999 Amendment
+
+Amendment by sections 103(c)(1), 107(c), and 119 of Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as a note under section 24 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by section 2704(d)(17) of Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
@@ -442,7 +464,7 @@ Pub. L. 97–290, title II, §201, Oct. 8, 1982, 96 Stat. 1235, provided that: �
 
 #### Short Title of 1970 Amendment
 
-Section 1 of Pub. L. 91–607 provided: “That this Act \[enacting chapter 22 (§1971 et seq.) and section 1850 of this title and sections 324b and 324c of former Title 31, Money and Finance, amending sections 1841 to 1843 and1849 of this title and sections 324, 391 of former Title 31, repealing sections 316 and 458 of former Title 31, enacting provisions set out as notes under sections 317e and 391 of former Title 31, and amending provisions set out as a note under section 405a–1 of former Title 31\] may be cited as the ‘Bank Holding Company Act Amendments of 1970’.”
+Section 1 of Pub. L. 91–607 provided: “That this Act \[enacting chapter 22 (§1971 et seq.) and section 1850 of this title and sections 324b and 324c of former Title 31, Money and Finance, amending sections 1841 to 1843 and 1849 of this title and sections 324, 391 of former Title 31, repealing sections 316 and 458 of former Title 31, enacting provisions set out as notes under sections 317e and 391 of former Title 31, and amending provisions set out as a note under section 405a–1 of former Title 31\] may be cited as the ‘Bank Holding Company Act Amendments of 1970’.”
 
 #### Short Title
 
@@ -454,7 +476,7 @@ Section 12 of act May 9, 1956, provided that: “If any provision of this Act \[
 
 #### Transfer of Functions
 
-Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
+Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
 
 #### Transitional Rule for 1987 Amendment
 
@@ -496,7 +518,7 @@ Pub. L. 100–86, title II, §§201–203, Aug. 10, 1987, 101 Stat. 581–584, p
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 72, 248, 375b, 619, 1441a, 1467a, 1813, 1818, 1823, 1831<i>o</i>, 1831u, 1834a, 1842, 1843, 1971, 3101, 3102, 3106, 3401, 3413, 4702 of this title; title 7 section 2016; title 15 sections 78c, 1639; title 26 sections 304, 864.
+This section is referred to in sections 24a, 72, 248, 375b, 619, 1441a, 1467a, 1813, 1818, 1820a, 1823, 1831<i>o</i>, 1831u, 1834a, 1835a, 1842, 1843, 1971, 2903, 3101, 3102, 3106, 3401, 3413, 4702 of this title; title 7 section 2016; title 15 sections 78c, 78q, 80a–10, 1639, 6713, 6716; title 26 sections 304, 864.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

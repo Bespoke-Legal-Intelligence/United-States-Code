@@ -16,7 +16,7 @@
 
 #### (4) Amount withheld where no withholding exemption certificate in effect
 
-&emsp;In the case of any payment with respect to which a withholding exemption certificate is not in effect, the amount withheld under paragraph (1) shall be determined by treating the payee as a married individual claiming 3 withholding exemptions.
+&emsp;In the case of any payment with respect to which a withholding exemption certificate isnot in effect, the amount withheld under paragraph (1) shall be determined by treating the payee as a married individual claiming 3 withholding exemptions.
 
 #### (b) Nonperiodic distribution
 
@@ -252,7 +252,7 @@ Subsec. (d)(1)(B)(iii). Pub. L. 98–369, §714(j)(4), added cl. (iii) relating 
 
 Pub. L. 98–369, §542(c), added cl. (iii) relating to distributions described in section 404(k)(2). Directory language that section (d)(1)(B) be amended by striking out “and” at end of cl. (i) and substituting “, or” for the period at end of cl. (ii) could not be executed in view of prior amendment by section 714(j)(4) of Pub. L. 98–369, which struck out “and” at end of cl. (i) and substituted “, and” for the period at end of cl. (ii).
 
-Subsec. (d)(8). Pub. L. 98–369, §714(j)(5), freed from withholding requirement any designated distributionwhich consists only of employer securities of the employer corporation (within the meaning of section 402(a)(3)) and cash (not in excess of $200) in lieu of fractional shares.
+Subsec. (d)(8). Pub. L. 98–369, §714(j)(5), freed from withholding requirement any designated distribution which consists only of employer securities of the employer corporation (within the meaning of section 402(a)(3)) and cash (not in excess of $200) in lieu of fractional shares.
 
 Subsec. (d)(12). Pub. L. 98–369, §722(h)(4), added par. (12).
 
@@ -302,7 +302,7 @@ Amendments made by subsection (c).—The amendments made by subsection (c) \[ena
 
 “(4)
 
-Periodic payments beginning before january 1, 1983.—For purposes of section 3405(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the case of periodic payments beginning before January 1, 1983, the first periodic payment after December 31, 1982, shall be treated as the first such periodic payment.
+Periodic payments beginning before january 1, 1983.—For purposes of section 3405(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the case of periodic payments beginning before January 1, 1983,the first periodic payment after December 31, 1982, shall be treated as the first such periodic payment.
 
 “(5)
 

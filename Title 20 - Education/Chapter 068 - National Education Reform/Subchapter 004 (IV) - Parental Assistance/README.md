@@ -1,19 +1,8 @@
 ### SUBCHAPTER IV—PARENTAL ASSISTANCE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 5802 of this title.
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 05911 - Parental information and resource centers](%C2%A7%2005911%20-%20Parental%20information%20and%20resource%20centers.md)
-- [&sect; 05912 - Applications](%C2%A7%2005912%20-%20Applications.md)
-- [&sect; 05913 - Uses of funds](%C2%A7%2005913%20-%20Uses%20of%20funds.md)
-- [&sect; 05914 - Technical assistance](%C2%A7%2005914%20-%20Technical%20assistance.md)
-- [&sect; 05915 - Definitions](%C2%A7%2005915%20-%20Definitions.md)
-- [&sect; 05916 - Reports](%C2%A7%2005916%20-%20Reports.md)
-- [&sect; 05917 - General provision](%C2%A7%2005917%20-%20General%20provision.md)
-- [&sect; 05918 - Authorization of appropriations](%C2%A7%2005918%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 05911 to 5918 - Repealed. Pub. L. 106&#8211;113, div. B, &sect;1000(a)(4) \[title III, &sect;310(i)\], Nov. 29, 1999, 113 Stat. 1535, 1501A&#8211;265](%C2%A7%2005911%20to%205918%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93113%2C%20div.%20B%2C%20%C2%A71000%28a%29%284%29%20%5Btitle%20III%2C%20%C2%A7310%28i%29%5D%2C%20Nov.%2029%2C%201999%2C%20113%20Stat.%201535%2C%201501A%E2%80%93265.md)

@@ -10,7 +10,7 @@
 
 &emsp;(1) the Committee on Armed Services and the Select Committee on Intelligence of the Senate; and
 
-&emsp;(2) the Committee on National Security and the Permanent Select Committee on Intelligence of the House of Representatives.
+&emsp;(2) the Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives.
 
 (d) Subsection (a) applies to civilian personnel of the Department of Defense who—
 
@@ -20,9 +20,11 @@
 
 &emsp;(3) are designated by the Secretary of Defense for the purposes of subsection (a).
 
-(Added Pub. L. 98–215, title V, §501(a), Dec. 9, 1983, 97 Stat. 1478, §192; renumbered §1605 and amended Pub. L. 99–145, title XIII, §1302(a)(1), Nov. 8, 1985, 99 Stat. 737; Pub. L. 99–335, title V, §507(b), June 6, 1986, 100 Stat. 628; Pub. L. 99–569, title V, §501, Oct. 27, 1986, 100 Stat. 3198; Pub. L. 101–193, title V, §505(a), Nov. 30, 1989, 103 Stat. 1709; Pub. L. 102–496, title VIII, §803(d), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 103–160, div. A, title XI, §1182(a)(3), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 104–93, title V, §502(a), Jan. 6, 1996, 109 Stat. 972; Pub. L. 104–201, div. A, title XVI, §1633(c)(1), Sept. 23, 1996, 110 Stat. 2751.)
+(Added Pub. L. 98–215, title V, §501(a), Dec. 9, 1983, 97 Stat. 1478, §192; renumbered §1605 and amended Pub. L. 99–145, title XIII, §1302(a)(1), Nov. 8, 1985, 99 Stat. 737; Pub. L. 99–335, title V, §507(b), June 6, 1986, 100 Stat. 628; Pub. L. 99–569, title V, §501, Oct. 27, 1986, 100 Stat. 3198; Pub. L. 101–193, title V, §505(a), Nov. 30, 1989, 103 Stat. 1709; Pub. L. 102–496, title VIII, §803(d), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 103–160, div. A, title XI, §1182(a)(3), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 104–93, title V, §502(a), Jan. 6, 1996, 109 Stat. 972; Pub. L. 104–201, div. A, title XVI, §1633(c)(1), Sept. 23, 1996, 110 Stat. 2751; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Amendments
+
+1999—Subsec. (c)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
 1996—Pub. L. 104–201 substituted “assigned outside the United States” for “of the Defense Intelligence Agency” in section catchline.
 
@@ -47,10 +49,6 @@ Pub. L. 99–335 inserted provision authorizing the Secretary to provide to any 
 Subsec. (b). Pub. L. 99–145, §1302(a)(1)(A), struck out reference to Director of the Defense Intelligence Agency.
 
 Subsecs. (c), (d). Pub. L. 99–145, §1302(a)(1)(C), struck out subsec. (c) which read as follows: “Members of the Armed Forces may not receive benefits under both subsection (a) and title 37, United States Code, for the same purpose. The Secretary of Defense shall prescribe such regulations as may be necessary to carry out this subsection.”, and redesignated former subsec. (d) as (c).
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1996 Amendment
 

@@ -38,7 +38,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any alien who (prior to the date of entry, at the time of any entry, or within 5 years of the date of any entry) knowingly has encouraged, induced, assisted, abetted, or aided any other alien to enter or to try to enter the United States in violation of law is deportable.
+&emsp;&emsp;&emsp;Any alien who (prior to the date of entry, at the time of any entry, or within5 years of the date of any entry) knowingly has encouraged, induced, assisted, abetted, or aided any other alien to enter or to try to enter the United States in violation of law is deportable.
 
 #### (ii) Special rule in the case of family reunification
 
@@ -64,7 +64,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 &emsp;&emsp;&emsp;(i) is the spouse, parent, son, or daughter of a citizen of the United States or of an alien lawfully admitted to the United States for permanent residence; and
 
-&emsp;&emsp;&emsp;(ii) was in possession of an immigrant visa or equivalent document and was otherwise admissible to the United Statesat the time of such admission except for those grounds of inadmissibility specified under paragraphs (5)(A) and (7)(A) of section 1182(a) of this title which were a direct result of that fraud or misrepresentation.
+&emsp;&emsp;&emsp;(ii) was in possession of an immigrant visa or equivalent document and was otherwise admissible to the United States at the time of such admission except for those grounds of inadmissibility specified under paragraphs (5)(A) and (7)(A) of section 1182(a) of this title which were a direct result of that fraud or misrepresentation.
 
 > &emsp;&emsp;A waiver of removal for fraud or misrepresentation granted under this subparagraph shall also operate to waive removal based on the grounds of inadmissibility directly resulting from such fraud or misrepresentation.
 
@@ -96,7 +96,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (v) Waiver authorized
 
-&emsp;&emsp;&emsp;Clauses (i), (ii), (iii), and (iv) shall not apply in the case of an alien with respect to a criminal conviction if the alien subsequent to the criminal conviction has been granted a full and unconditional pardon by the President of the United States or by the Governor of any of the several States.
+&emsp;&emsp;&emsp;Clauses (i), (ii), (iii), and (iv) shall not apply in the case of an alien with respect to a criminal conviction if the alien subsequent to the criminal conviction has beengranted a full and unconditional pardon by the President of the United States or by the Governor of any of the several States.
 
 #### (B) Controlled substances
 
@@ -134,7 +134,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (ii) Violators of protection orders
 
-&emsp;&emsp;&emsp;Any alien who at any time after admission is enjoined under a protection order issued by a court and whom the court determines has engaged in conduct that violates the portion of a protection order that involves protection against credible threats of violence, repeated harassment, or bodily injury to the person or personsfor whom the protection order was issued is deportable. For purposes of this clause, the term “protection order” means any injunction issued for the purpose of preventing violent or threatening acts of domestic violence, including temporary or final orders issued by civil or criminal courts (other than support or child custody orders or provisions) whether obtained by filing an independent action or as a pendente lite order in another proceeding.
+&emsp;&emsp;&emsp;Any alien who at any time after admission is enjoined under a protection order issued by a court and whom the court determines has engaged in conduct that violates the portion of a protection order that involves protection against credible threats of violence, repeated harassment, or bodily injury to the person or persons for whom the protection order was issued is deportable. For purposes of this clause, the term “protection order” means any injunction issued for the purpose of preventing violent or threatening acts of domestic violence, including temporary or final orders issued by civil or criminal courts (other than support or child custody orders or provisions) whether obtained by filing an independent action or as a pendente lite order in another proceeding.
 
 #### (3) Failure to register and falsification of documents
 
@@ -438,7 +438,7 @@ Section 505(b) of Pub. L. 101–649 provided that: “The amendments made by sub
 
 Section 508(b) of Pub. L. 101–649 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to convictions occurring on or after the date of the enactment of this Act \[Nov. 29, 1990\].”
 
-Section 544(d), formerly (c), of Pub. L. 101–649, as redesignated by Pub. L. 102–232, title III, §306(c)(5)(B), Dec. 12, 1991, 105 Stat. 1752, provided that: “The amendments made by this section \[enacting section 1324c of this title and amending this section\] shall apply to persons or entities that have committed violations on orafter the date of the enactment of this Act \[Nov. 29, 1990\].”
+Section 544(d), formerly (c), of Pub. L. 101–649, as redesignated by Pub. L. 102–232, title III, §306(c)(5)(B), Dec. 12, 1991, 105 Stat. 1752, provided that: “The amendments made by this section \[enacting section 1324c of this title and amending this section\] shall apply to persons or entities that have committed violations on or after the date of the enactment of this Act \[Nov. 29, 1990\].”
 
 Section 602(d) of Pub. L. 101–649 provided that: “The amendments made by this section, and by section 603(b) of this Act \[amending this section, sections 1161, 1252, 1253, and 1254 of this title, and section 402 of Title 42, The Public Health and Welfare\], shall not apply to deportation proceedings for which notice has been provided to the alien before March 1, 1991.”
 
@@ -474,7 +474,7 @@ Amendment by act July 18, 1956, effective July 19, 1956, see section 401 of act 
 
 #### Savings Provision
 
-Section 602(c) of Pub. L. 101–649 provided that: “Notwithstanding the amendments made by this section \[amending this section\], any alien who was deportable because of a conviction (before the date of the enactment of this Act \[Nov. 29, 1990\]) of an offense referred to in paragraph (15), (16), (17), or (18) of section 241(a) \[now 237\] of the Immigration and Nationality Act \[8 U.S.C. 1227\], as in effect before the date of the enactment of this Act, shall be considered to remain so deportable. Except as otherwise specifically provided in such section and subsection (d) \[set out as a note above\], the provisions of such section, as amended by this section, shall apply to all aliens described in subsection (a) thereof notwithstanding that (1) any such alien entered the United States before the date of the enactment of this Act, or (2) the facts, by reason of which an alien is described in such subsection, occurred before the date of the enactment of this Act.”
+Section 602(c) of Pub. L. 101–649 provided that: “Notwithstanding the amendments made by this section\[amending this section\], any alien who was deportable because of a conviction (before the date of the enactment of this Act \[Nov. 29, 1990\]) of an offense referred to in paragraph (15), (16), (17), or (18) of section 241(a) \[now 237\] of the Immigration and Nationality Act \[8 U.S.C. 1227\], as in effect before the date of the enactment of this Act, shall be considered to remain so deportable. Except as otherwise specifically provided in such section and subsection (d) \[set out as a note above\], the provisions of such section, as amended by this section, shall apply to all aliens described in subsection (a) thereof notwithstanding that (1) any such alien entered the United States before the date of the enactment of this Act, or (2) the facts, by reason of which an alien is described in such subsection, occurred before the date of the enactment of this Act.”
 
 #### Report on Criminal Aliens
 

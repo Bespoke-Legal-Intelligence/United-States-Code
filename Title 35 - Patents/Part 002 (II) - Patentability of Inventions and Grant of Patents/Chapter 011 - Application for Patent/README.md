@@ -18,11 +18,13 @@
 | [119\.](%C2%A7%2000119%20-%20Benefit%20of%20earlier%20filing%20date%3B%20right%20of%20priority.md) | Benefit of earlier filing date; right of priority. |
 | [120\.](%C2%A7%2000120%20-%20Benefit%20of%20earlier%20filing%20date%20in%20the%20United%20States.md) | Benefit of earlier filing date in the United States. |
 | [121\.](%C2%A7%2000121%20-%20Divisional%20applications.md) | Divisional applications. |
-| [122\.](%C2%A7%2000122%20-%20Confidential%20status%20of%20applications.md) | Confidential status of applications. |
+| [122\.](%C2%A7%2000122%20-%20Confidential%20status%20of%20applications%3B%20publication%20of%20patent%20applications.md) | Confidential status of applications; publication of patent applications. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4507(5)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, inserted “; publication of patent applications” after “applications” in item 122.
 
 1994—Pub. L. 103–465, title V, §532(c)(6), Dec. 8, 1994, 108 Stat. 4987, substituted “Application” for “Application for patent” in item 111 and “Benefit of earlier filing date; right of priority” for “Benefit of earlier filing date in foreign country; right of priority” in item 119.
 
@@ -48,4 +50,4 @@ This chapter is referred to in sections 371, 373, 375 of this title.
 - [&sect; 00119 - Benefit of earlier filing date; right of priority](%C2%A7%2000119%20-%20Benefit%20of%20earlier%20filing%20date%3B%20right%20of%20priority.md)
 - [&sect; 00120 - Benefit of earlier filing date in the United States](%C2%A7%2000120%20-%20Benefit%20of%20earlier%20filing%20date%20in%20the%20United%20States.md)
 - [&sect; 00121 - Divisional applications](%C2%A7%2000121%20-%20Divisional%20applications.md)
-- [&sect; 00122 - Confidential status of applications](%C2%A7%2000122%20-%20Confidential%20status%20of%20applications.md)
+- [&sect; 00122 - Confidential status of applications; publication of patent applications](%C2%A7%2000122%20-%20Confidential%20status%20of%20applications%3B%20publication%20of%20patent%20applications.md)

@@ -6,7 +6,7 @@ For purposes of this section and section 2056(d), the term “qualified domestic
 
 &emsp;(1) the trust instrument—
 
-&emsp;&emsp;(A) except as provided in regulations prescribed by the Secretary, requires that at least 1 trustee of the trust be an individualcitizen of the United States or a domestic corporation, and
+&emsp;&emsp;(A) except as provided in regulations prescribed by the Secretary, requires that at least 1 trustee of the trust be an individual citizen of the United States or a domestic corporation, and
 
 &emsp;&emsp;(B) provides that no distribution (other than a distribution of income) may be made from the trust unless a trustee who is an individual citizen of the United States or a domestic corporation has the right to withhold from such distribution the tax imposed by this section on such distribution,
 
@@ -56,7 +56,7 @@ For purposes of this section and section 2056(d), the term “qualified domestic
 
 #### (C) Special rule where decedent has more than 1 qualified domestic trust
 
-&emsp;&emsp;If there is more than 1 qualified domestic trust with respect to any decedent, the amount of the tax imposed by paragraph (1) with respect to such trusts shall be determined by using the highest rate of tax in effect under section 2001 as of the date of the decedent's death (and the provisions of paragraph (3)(B) shall not apply) unless, pursuant to a designation made by the decedent's executor, there is 1 person—
+&emsp;&emsp;If there is more than 1 qualified domestic trust with respect to any decedent, the amount of the tax imposed by paragraph (1) with respect to such trusts shall be determined by using the highest rate of tax in effect under section 2001 as of the date of thedecedent's death (and the provisions of paragraph (3)(B) shall not apply) unless, pursuant to a designation made by the decedent's executor, there is 1 person—
 
 &emsp;&emsp;&emsp;(i) who is an individual citizen of the United States or a domestic corporation and is responsible for filing all returns of tax imposed under paragraph (1) with respect to such trusts and for paying all tax so imposed, and
 
@@ -136,7 +136,7 @@ For purposes of this section and section 2056(d), the term “qualified domestic
 
 &emsp;&emsp;&emsp;&emsp;(II) determining the amount of the tax imposed by section 2501 on actual taxable gifts made by such spouse during the year in which the spouse becomes a citizen or any subsequent year, and
 
-&emsp;&emsp;&emsp;(ii) to treat any reduction in the tax imposed by paragraph (1)(A) by reason of the credit allowable under section 2010 with respect to the decedent as a credit allowable to such surviving spouse under section 2505 for purposes of determining the amount of the credit allowable under section 2505 with respect to taxable gifts made by the surviving spouse during the year in which the spouse becomes a citizen or any subsequent year,
+&emsp;&emsp;&emsp;(ii) to treat any reduction in the tax imposed by paragraph (1)(A) by reason of the credit allowable under section 2010 with respect to the decedent as a credit allowable to such surviving spouse under section 2505 for purposes of determining the amount ofthe credit allowable under section 2505 with respect to taxable gifts made by the surviving spouse during the year in which the spouse becomes a citizen or any subsequent year,
 
 > &emsp;&emsp;paragraph (1)(A) shall not apply to any distributions after such spouse becomes such a citizen (and paragraph (1)(B) shall not apply).
 
@@ -170,7 +170,7 @@ For purposes of this section—
 
 #### (d) Election
 
-An election under this section with respect to any trust shall be made by the executor on the return of the tax imposed by section 2001. Such an election, once made, shall be irrevocable. No election may be made under this section on anyreturn if such return is filed more than one year after the time prescribed by law (including extensions) for filing such return.
+An election under this section with respect to any trust shall be made by the executor on the return of the tax imposed by section 2001. Such an election, once made, shall be irrevocable. No election may be made under this section on any return if such return is filed more than one year after the time prescribed by law (including extensions) for filing such return.
 
 #### (e) Regulations
 
@@ -256,7 +256,7 @@ Effective Date.—The provisions of subsection (a) shall take effect as if inclu
 
 #### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
 
-For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of aforeign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, this section shall not apply to the extent such section would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
+For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, this section shall not apply to the extent such section would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -110,7 +110,7 @@ Subsec. (b)(1). Pub. L. 101–637, §14(c)(1), struck out comma after “educati
 
 Subsec. (b)(2). Pub. L. 101–637, §6(a)(1), (2), substituted “the Governor shall submit applications,” for “applications shall be submitted,” and inserted “The Administrator shall approve or disapprove applications for financial assistance no later than April 30 of each year.”
 
-Subsec. (b)(3). Pub. L. 101–637, §6(a)(3), struck out par. (3) which read as follows: “Within sixty days of receipt of the information described in section 4013(b)(1) of this title, the Secretary of the Department of Education shall review such information and, in the Secretary's discretion, provide to the Administrator comments and recommendations based upon the needs of local educational agencies for financial assistance. Within sixty days of receipt of the Secretary's report, or expiration of the time allowed for such report, the Administrator shall approve or disapprove applications for financial assistance.”
+Subsec. (b)(3). Pub. L. 101–637, §6(a)(3), struck out par. (3) which read as follows: “Within sixty days of receiptof the information described in section 4013(b)(1) of this title, the Secretary of the Department of Education shall review such information and, in the Secretary's discretion, provide to the Administrator comments and recommendations based upon the needs of local educational agencies for financial assistance. Within sixty days of receipt of the Secretary's report, or expiration of the time allowed for such report, the Administrator shall approve or disapprove applications for financial assistance.”
 
 Subsec. (c). Pub. L. 101–637, §14(b)(7)(C), inserted heading.
 

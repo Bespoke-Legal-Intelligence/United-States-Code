@@ -18,7 +18,7 @@ Any entity that transfers ownership interests in, or shares representing, units 
 
 #### (B) Right to purchase
 
-&emsp;&emsp;Where a resident management corporation, resident council, or cooperative has jurisdiction over the unit, the corporation, council, or cooperative shall have the right to purchase the ownership interest in, or shares representing, the unit from the homeowner for the amount specified in a firm contract between the homeowner and a prospective buyer. If such an entity does not have jurisdiction over the unit or elects not to purchase and if the prospective buyer is not a low-income family, the public housing agency or the implementation grant recipient shall have the right to purchase the ownership interest in, or shares representing, the unit for the same amount.
+&emsp;&emsp;Where a resident management corporation, resident council, or cooperative has jurisdiction over the unit, the corporation, council, or cooperative shall have the right to purchase the ownership interest in, orshares representing, the unit from the homeowner for the amount specified in a firm contract between the homeowner and a prospective buyer. If such an entity does not have jurisdiction over the unit or elects not to purchase and if the prospective buyer is not a low-income family, the public housing agency or the implementation grant recipient shall have the right to purchase the ownership interest in, or shares representing, the unit for the same amount.
 
 #### (C) Promissory note required
 

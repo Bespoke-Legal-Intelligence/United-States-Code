@@ -28,7 +28,7 @@ The words “Congress hereby declares that”, “to persons”, and “Congress
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–178, title VII, §7101, June 9, 1998, 112 Stat. 465, provided that: “This subtitle \[subtitle A\(§§7101–7107) of title VII of Pub. L. 105–178, enacting section 30105 of this title, amending sections 30104, 30114, 30120, 30123, 30127, 32102, 32304, and 32705 of this title, and enacting provisions set out as notes under this section and sections 30114 and 30127 of this title\] may be cited as the ‘National Highway Traffic Safety Administration Reauthorization Act of 1998’.”
+Pub. L. 105–178, title VII, §7101, June 9, 1998, 112 Stat. 465, provided that: “This subtitle \[subtitle A (§§7101–7107) of title VII of Pub. L. 105–178, enacting section 30105 of this title, amending sections 30104, 30114, 30120, 30123, 30127, 32102, 32304, and 32705 of this title, and enacting provisions set out as notes under this section and sections 30114 and 30127 of this title\] may be cited as the ‘National Highway Traffic Safety Administration Reauthorization Act of 1998’.”
 
 #### Short Title of 1996 Amendment
 
@@ -136,7 +136,7 @@ Standard.—The Secretary may, as part of any action taken under section 2503, a
 
 #### “SEC. 2509. HEAD INJURY IMPACT STUDY.
 
-“The Secretary, in the case of any head injury protection matters not subject to section 2503(5) for which the Secretary is on the date of enactment of this Act \[Dec. 18, 1991\] examining the need for rulemaking and is conducting research, shall provide a report to Congress by the end of fiscal year 1993 identifying those matters and their status. The report shall include a statement of any actions planned toward initiating such rulemaking no later than fiscal year 1994 or 1995 through use of either an advance notice of proposed rulemaking or a notice of proposed rulemaking and completing such rulemaking as soon as possible thereafter.”
+“The Secretary, in the case of any head injury protection matters not subject to section 2503(5) for whichthe Secretary is on the date of enactment of this Act \[Dec. 18, 1991\] examining the need for rulemaking and is conducting research, shall provide a report to Congress by the end of fiscal year 1993 identifying those matters and their status. The report shall include a statement of any actions planned toward initiating such rulemaking no later than fiscal year 1994 or 1995 through use of either an advance notice of proposed rulemaking or a notice of proposed rulemaking and completing such rulemaking as soon as possible thereafter.”
 
 #### Fuel System Integrity Standard
 

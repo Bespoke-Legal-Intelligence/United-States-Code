@@ -26,7 +26,7 @@ Authority To Exempt and Procedures.—(1) The Secretary of Transportation may ex
 
 Contents of Applications.—A manufacturer applying for an exemption under subsection (b) of this section shall include the following information in the application:
 
-&emsp;(1) if the application is made under subsection (b)(3)(B)(i) of this section, a complete financial statement describing the economic hardship and a complete description of the manufacturer's good faith effort to comply with each motor vehicle safety standard prescribed under this chapter, or a bumper standard prescribed under chapter 325 of this title, from which the manufacturer is requesting an exemption.
+&emsp;(1) if the application is made under subsection (b)(3)(B)(i) of this section, a completefinancial statement describing the economic hardship and a complete description of the manufacturer's good faith effort to comply with each motor vehicle safety standard prescribed under this chapter, or a bumper standard prescribed under chapter 325 of this title, from which the manufacturer is requesting an exemption.
 
 &emsp;(2) if the application is made under subsection (b)(3)(B)(ii) of this section, a record of the research, development, and testing establishing the innovative nature of the safety feature and a detailed analysis establishing that the safety level of the feature at least equals the safety level of the standard.
 
@@ -118,7 +118,7 @@ In subsection (b)(3)(B)(iv), the word “requiring” is omitted as surplus.
 
 In subsection (c), before clause (1), the words “the following information” are added for clarity. In clause (1), the word “describing” is substituted for “the basis of showing” to eliminate unnecessary words. The words “each motor vehicle safety standard prescribed under this chapter from which the manufacturer is requesting an exemption” are substituted for “the standards” for clarity. In clauses (2) and (3), the words “a record” are substituted for “documentation” for consistency in the revised title. In clause (2), the words “establishing that the safety level of the feature at least equals the safety level of the standard” are substituted for “establishing that the level of safety of the new safety feature is equivalent to or exceeds the level of safety established in the standard from which the exemption is sought” because of the restatement. In clause (3), the word “level” is added, and the words “lowered . . . by exemption from the standard” are substituted for “degraded”, for consistency in this section. In clause (4), the words “at least equal to” are substituted for “equivalent to or exceeding” for consistency.
 
-In subsection (f), the text of 15:1410(f) (1st sentence) is omitted as executed. The words “under this section all” and “other information” are omitted as surplus. The words “to the application” are substituted for “thereto” for clarity. The words “business” and “for exemption” are omitted as surplus.
+In subsection (f), the text of 15:1410(f) (1st sentence) is omitted as executed. The words “under this section all” and “other information” are omitted as surplus. The words “to the application” are substituted for“thereto” for clarity. The words “business” and “for exemption” are omitted as surplus.
 
 In subsection (g), the words “The Secretary” are added for clarity. The word “temporary” is omitted as surplus. The words “under this section” are added for clarity.
 

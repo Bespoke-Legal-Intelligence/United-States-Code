@@ -84,7 +84,7 @@ For the purpose of this section—
 
 &emsp;&emsp;(C) the selection or admission of students; or
 
-&emsp;&emsp;(D) the award of grants, loans, scholarships, fellowships, or other forms of financial aid restricted to students of a specified country, religion, sex, ethnic origin, or political opinion.
+&emsp;&emsp;(D) the award of grants, loans, scholarships, fellowships, or other forms of financial aid restricted to students of a specifiedcountry, religion, sex, ethnic origin, or political opinion.
 
 (Pub. L. 89–329, title I, §117, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1593.)
 

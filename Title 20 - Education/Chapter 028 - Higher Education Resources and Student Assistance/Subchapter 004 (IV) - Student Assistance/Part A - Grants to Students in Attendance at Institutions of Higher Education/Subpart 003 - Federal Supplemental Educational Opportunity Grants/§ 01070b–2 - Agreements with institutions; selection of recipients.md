@@ -46,7 +46,7 @@ If the institution's allocation under this subpart is directly or indirectly bas
 
 An agreement entered into pursuant to this section shall provide that funds granted to an institution of higher education may be used only to make payments to students participating in a grant program authorized under this subpart, except that an institution may use a portion of the sums allocated to it under this subpart to meet administrative expenses in accordance with section 1096 of this title.
 
-(Pub. L. 89–329, title IV, §413C, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1329; amended Pub. L. 102–325, title IV, §403(d)–(f), July 23, 1992, 106 Stat. 506; Pub. L. 103–208, §2(b)(25), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §406(b), Oct. 7, 1998, 112 Stat. 1665.)
+(Pub. L. 89–329, title IV, §413C, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat.1329; amended Pub. L. 102–325, title IV, §403(d)–(f), July 23, 1992, 106 Stat. 506; Pub. L. 103–208, §2(b)(25), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §406(b), Oct. 7, 1998, 112 Stat. 1665.)
 
 #### Prior Provisions
 
@@ -66,7 +66,7 @@ A prior section 1070b–2, Pub. L. 89–329, title IV, §413C, as added Pub. L. 
 
 &emsp;“(C) 85 percent of such awards in fiscal year 1991,
 
-> except that the Federal share may be exceeded if the Secretary determines, pursuant to regulations establishing objective criteria for such determinations, thata larger Federal share is required to further the purpose of this subpart; and”.
+> except that the Federal share may be exceeded if the Secretary determines, pursuant to regulations establishing objective criteria for such determinations, that a larger Federal share is required to further the purpose of this subpart; and”.
 
 Subsec. (d). Pub. L. 102–325, §403(e), inserted “who are independent students or” after “demonstrated by students” and inserted before period at end “, except that if the total financial need of all such students attending the institution exceeds 5 percent of the need of all students attending such institution, then at least 5 percent of such allotment shall be made available to such students”.
 

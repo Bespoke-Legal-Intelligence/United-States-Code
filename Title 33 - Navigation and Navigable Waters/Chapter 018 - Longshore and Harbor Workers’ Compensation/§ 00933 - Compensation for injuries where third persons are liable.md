@@ -10,7 +10,7 @@ Acceptance of compensation under an award in a compensation order filed by the d
 
 #### (c) Payment into section 944 fund operating as assignment
 
-The payment of such compensation into the fund established in section 944 of this title shall operate as an assignment to the employer of all right of the legal representative of the deceased (hereinafter referred to as “representative”) to recover damages against such third person.
+The payment of such compensation into the fund established in section 944 of this title shalloperate as an assignment to the employer of all right of the legal representative of the deceased (hereinafter referred to as “representative”) to recover damages against such third person.
 
 #### (d) Institution of proceedings or compromise by assignee
 
@@ -40,7 +40,7 @@ If the person entitled to compensation institutes proceedings within the period 
 
 (1) If the person entitled to compensation (or the person's representative) enters into a settlement with a third person referred to in subsection (a) of this section for an amount less than the compensation to which the person (or the person's representative) would be entitled under this chapter, the employer shall be liable for compensation as determined under subsection (f) of this section only if written approval of the settlement is obtained from the employer and the employer's carrier, before the settlement is executed, and by the person entitled to compensation (or the person's representative). The approval shall be made on a form provided by the Secretary and shall be filed in the office of the deputy commissioner within thirty days after the settlement is entered into.
 
-(2) If no written approval of the settlement is obtained and filed as required by paragraph (1),or if the employee fails to notify the employer of any settlement obtained from or judgment rendered against a third person, all rights to compensation and medical benefits under this chapter shall be terminated, regardless of whether the employer or the employer's insurer has made payments or acknowledged entitlement to benefits under this chapter.
+(2) If no written approval of the settlement is obtained and filed as required by paragraph (1), or if the employee fails to notify the employer of any settlement obtained from or judgment rendered against a third person, all rights to compensation and medical benefits under this chapter shall be terminated, regardless of whether the employer or the employer's insurer has made payments or acknowledged entitlement to benefits under this chapter.
 
 (3) Any payments by the special fund established under section 944 of this title shall be a lien upon the proceeds of any settlement obtained from or judgment rendered against a third person referred to under subsection (a) of this section. Notwithstanding any other provision of law, such lien shall be enforceable against such proceeds, regardless of whether the Secretary on behalf of the special fund has agreed to or has received actual notice of the settlement or judgment.
 
@@ -58,7 +58,7 @@ The right to compensation or benefits under this chapter shall be the exclusive 
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–426, §21(a), substituted “Acceptance of compensation under an award in a compensation order filed by the deputy commissioner, an administrative law judge, or the Board shall operate as an assignment to the employer of all rights of the person entitled to compensation to recover damages against such third person unless such person shall commence an action against such third person within six months after such acceptance” for “Acceptance of such compensation under an award in a compensation order filed by the deputy commissioner or Board shall operate as an assignment to the employer of all right of the person entitled to compensation to recover damages against such third person unless such person shall commence an action against such third person within six months after such award” and inserted at end “If the employer fails to commence an action against such third person within ninety days after the cause of action is assigned under this section, the right to bring such action shall revert to the person entitled to compensation. For the purpose of this subsection, the term ‘award’ with respect to a compensation order means a formal order issued by the deputy commissioner, an administrative law judge, or Board.”
+1984—Subsec. (b). Pub. L. 98–426, §21(a), substituted “Acceptance of compensation under an award in a compensation order filed by the deputy commissioner, an administrative law judge, or the Board shall operate as an assignment to the employer of all rights of the person entitled to compensation to recover damages against such third person unless such person shall commence an action against such third person within six months after such acceptance” for “Acceptance of suchcompensation under an award in a compensation order filed by the deputy commissioner or Board shall operate as an assignment to the employer of all right of the person entitled to compensation to recover damages against such third person unless such person shall commence an action against such third person within six months after such award” and inserted at end “If the employer fails to commence an action against such third person within ninety days after the cause of action is assigned under this section, the right to bring such action shall revert to the person entitled to compensation. For the purpose of this subsection, the term ‘award’ with respect to a compensation order means a formal order issued by the deputy commissioner, an administrative law judge, or Board.”
 
 Subsec. (e)(2). Pub. L. 98–426, §21(b), struck out “, less one-fifth of such excess which shall belong to the employer” after “or to the representative”.
 
@@ -86,7 +86,7 @@ Subsec. (f). Pub. L. 86–171 struck out “or the representative elects to reco
 
 Subsec. (g). Pub. L. 86–171 corrected reference to “subsection (e)” to read “subsection (f)”.
 
-Subsecs. (h), (i). Pub. L. 86–171 redesignated subsec. (i) as (h) and struck out former subsec. (h) that permittedthe deputy commissioner to make an election for a minor or to authorize the parent or guardian to make the election.
+Subsecs. (h), (i). Pub. L. 86–171 redesignated subsec. (i) as (h) and struck out former subsec. (h) that permitted the deputy commissioner to make an election for a minor or to authorize the parent or guardian to make the election.
 
 1938—Subsec. (b). Act June 25, 1938, §12, inserted “under an award in a compensation order filed by the deputy commissioner” and struck out “, whether or not the person entitled to compensation has notified the deputy commissioner of his election” at end of sentence.
 

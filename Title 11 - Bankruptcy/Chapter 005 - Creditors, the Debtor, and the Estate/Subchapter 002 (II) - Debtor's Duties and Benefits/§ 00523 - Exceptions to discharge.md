@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(iv) that the debtor caused to be made or published with intent to deceive; or
 
-&emsp;&emsp;(C) for purposes of subparagraph (A) of this paragraph, consumer debts owed to a single creditor and aggregating more than $1,000 for “luxury goods or services” incurred by an individual debtor on or within 60 days before the order for relief under this title, or cash advances aggregating more than $1,000 that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 60 days before the order for relief under this title, are presumed to be nondischargeable; “luxury goods or services” do not include goods orservices reasonably acquired for the support or maintenance of the debtor or a dependent of the debtor; an extension of consumer credit under an open end credit plan is to be defined for purposes of this subparagraph as it is defined in the Consumer Credit Protection Act;
+&emsp;&emsp;(C) for purposes of subparagraph (A) of this paragraph, consumer debts owed to a single creditor and aggregating more than $1,000 for “luxury goods or services” incurred by an individual debtor on or within 60 days before the order for relief under this title, or cash advances aggregating more than $1,000 that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 60 days before the order for relief under this title, are presumed to be nondischargeable; “luxury goods or services” do not include goods or services reasonably acquired for the support or maintenance of the debtor or a dependent of the debtor; an extension of consumer credit under an open end credit plan is to be defined for purposes of this subparagraph as it is defined in the Consumer Credit Protection Act;
 
 &emsp;(3) neither listed nor scheduled under section 521(1) of this title, with the name, if known to the debtor, of the creditor to whom such debt is owed, in time to permit—
 
@@ -52,11 +52,7 @@
 
 &emsp;&emsp;(B) imposed with respect to a transaction or event that occurred before three years before the date of the filing of the petition;
 
-&emsp;(8) for an educational benefit overpayment or loan made, insured or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or nonprofit institution, or for an obligation to repay funds received as an educational benefit, scholarship or stipend, unless—
-
-&emsp;&emsp;(A) such loan, benefit, scholarship, or stipend overpayment first became due more than 7 years (exclusive of any applicable suspension of the repayment period) before the date of the filing of the petition; or
-
-&emsp;&emsp;(B) excepting such debt from discharge under this paragraph will impose an undue hardship on the debtor and the debtor's dependents;
+&emsp;(8) for an educational benefit overpayment or loan made, insured or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or nonprofit institution, or for an obligation to repay funds received as an educational benefit, scholarship or stipend, unless excepting such debt from discharge under this paragraph will impose an undue hardship on the debtor and the debtor's dependents;
 
 &emsp;(9) for death or personal injury caused by the debtor's operation of a motor vehicle if such operation was unlawful because the debtor was intoxicated from using alcohol, a drug, or another substance;
 
@@ -96,13 +92,13 @@
 
 (c)(1) Except as provided in subsection (a)(3)(B) of this section, the debtor shall be discharged from a debt of a kind specified in paragraph (2), (4), (6), or (15) of subsection (a) of this section, unless, on request of the creditor to whom such debt is owed, and after notice and a hearing, the court determines such debt to be excepted from discharge under paragraph (2), (4), (6), or (15), as the case may be, of subsection (a) of this section.
 
-(2) Paragraph (1) shall not apply in the case of a Federal depository institutions regulatory agency seeking, in its capacity as conservator, receiver, or liquidating agent for an insured depository institution, to recover a debt described in subsection (a)(2), (a)(4), (a)(6), or (a)(11) owed to such institution by an institution-affiliated party unless the receiver, conservator, or liquidating agent was appointed in time to reasonably comply, or for a Federal depository institutions regulatory agency acting in its corporate capacity as a successor to such receiver, conservator, or liquidating agent to reasonably comply, with subsection (a)(3)(B) as a creditor of such institution-affiliated party with respect to such debt.
+(2) Paragraph (1) shall not apply in the case of a Federal depository institutions regulatory agency seeking, in its capacity as conservator, receiver, or liquidating agent for an insured depository institution, to recover a debt describedin subsection (a)(2), (a)(4), (a)(6), or (a)(11) owed to such institution by an institution-affiliated party unless the receiver, conservator, or liquidating agent was appointed in time to reasonably comply, or for a Federal depository institutions regulatory agency acting in its corporate capacity as a successor to such receiver, conservator, or liquidating agent to reasonably comply, with subsection (a)(3)(B) as a creditor of such institution-affiliated party with respect to such debt.
 
 (d) If a creditor requests a determination of dischargeability of a consumer debt under subsection (a)(2) of this section, and such debt is discharged, the court shall grant judgment in favor of the debtor for the costs of, and a reasonable attorney's fee for, the proceeding if the court finds that the position of the creditor was not substantially justified, except that the court shall not award such costs and fees if special circumstances would make the award unjust.
 
 (e) Any institution-affiliated party of a <sup>2</sup> insured depository institution shall be considered to be acting in a fiduciary capacity with respect to the purposes of subsection (a)(4) or (11).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2590; Pub. L. 96–56, §3, Aug. 14, 1979, 93 Stat. 387; Pub. L. 97–35, title XXIII, §2334(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–353, title III, §§307, 371, 454, July 10, 1984, 98 Stat. 353, 364, 375; Pub. L. 99–554, title II, §§257(n), 281, 283(j), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 101–581, §2(a), Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXV, §2522(a), title XXXI, §3102(a), title XXXVI, §3621, Nov. 29, 1990, 104 Stat. 4865, 4916, 4964; Pub. L. 103–322, title XXXII, §320934, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 103–394, title II, §221, title III, §§304(e), (h)(3), 306, 309, title V, §501(d)(13), Oct. 22, 1994, 108 Stat. 4129, 4133–4135, 4137, 4145; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §804(b)\], Apr. 26, 1996, 110 Stat. 1321, 1321–74; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–193, title III, §374(a), Aug. 22, 1996, 110 Stat. 2255.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2590; Pub. L. 96–56, §3, Aug. 14, 1979, 93 Stat. 387; Pub. L. 97–35, title XXIII, §2334(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–353, title III, §§307, 371, 454, July 10, 1984, 98 Stat. 353, 364, 375; Pub. L. 99–554, title II, §§257(n), 281, 283(j), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 101–581, §2(a), Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXV, §2522(a), title XXXI, §3102(a), title XXXVI, §3621, Nov. 29, 1990, 104 Stat. 4865, 4916, 4964; Pub. L. 103–322, title XXXII, §320934, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 103–394, title II, §221, title III, §§304(e), (h)(3), 306, 309, title V, §501(d)(13), Oct. 22, 1994, 108 Stat. 4129, 4133–4135, 4137, 4145; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §804(b)\], Apr. 26, 1996, 110 Stat. 1321, 1321–74; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–193, title III, §374(a), Aug. 22, 1996, 110 Stat. 2255; Pub. L. 105–244, title IX, §971(a), Oct. 7, 1998, 112 Stat. 1837.)
 
 #### Historical and Revision Notes
 
@@ -128,7 +124,7 @@ Section 523(b) is new. The section represents a modification of similar provisio
 
 Section 523(c) of the House amendment adopts the position taken in the Senate amendment.
 
-Section 523(d) represents a compromise between the position taken in the House bill and the Senate amendment on the issue of attorneys’ fees in false financial statement complaints to determine dischargeability. The provision contained in the House bill permitting the court to award damages is eliminated. The court must grant the debtor judgment or a reasonable attorneys’ fee unless the granting of judgment would be clearly inequitable.
+Section 523(d) represents a compromise between the position taken in the House bill and the Senate amendment on the issue of attorneys’ fees in false financial statement complaints to determine dischargeability. The provision contained in the House bill permittingthe court to award damages is eliminated. The court must grant the debtor judgment or a reasonable attorneys’ fee unless the granting of judgment would be clearly inequitable.
 
 Nondischargeable debts: The House amendment retains the basic categories of nondischargeable tax liabilities contained in both bills, but restricts the time limits on certain nondischargeable taxes. Under the amendment, nondischargeable taxes cover taxes entitled to priority under section 507(a)(6) of title 11 and, in the case of individual debtors under chapters 7, 11, or 13, tax liabilities with respect to which no required return had been filed or as to which a late return had been filed if the return became last due, including extensions, within 2 years before the date of the petition or became due after the petition or as to which the debtor made a fraudulent return, entry or invoice or fraudulently attempted to evade or defeat the tax.
 
@@ -180,7 +176,7 @@ The purpose of the provision is to discourage creditors from initiating proceedi
 
 Subsection (a) lists eight kinds of debts excepted from discharge. Taxes that are entitled to priority are excepted from discharge under paragraph (1). In addition, taxes with respect to which the debtor made a fraudulent return or willfully attempted to evade or defeat, or with respect to which a return (if required) was not filed or was not filed after the due date and after one year before the bankruptcy case are excepted from discharge. If the taxing authority's claim has been disallowed, then it would be barred by the more modern rules of collateral estoppel from reasserting that claim against the debtor after the case was closed. See Plumb, The Tax Recommendations of the Commission on the Bankruptcy Laws: Tax Procedures, 88 Harv.L.Rev. 1360, 1388 (1975).
 
-As under Bankruptcy Act §17a(2) \[section 35(a)(2) of former title 11\], debt for obtaining money, property, services, or an extension or renewal of credit by false pretenses, a false representation, or actual fraud, or byuse of a statement in writing respecting the debtor's financial condition that is materially false, on which the creditor reasonably relied, and that the debtor made or published with intent to deceive, is excepted from discharge. This provision is modified only slightly from current section 17a(2). First, “actual fraud” is added as a grounds for exception from discharge. Second, the creditor must not only have relied on a false statement in writing, the reliance must have been reasonable. This codifies case law construing this provision. Third, the phrase “in any manner whatsoever” that appears in current law after “made or published” is deleted as unnecessary. The word “published” is used in the same sense that it is used in slander actions.
+As under Bankruptcy Act §17a(2) \[section 35(a)(2) of former title 11\], debt for obtaining money, property, services, or an extension or renewal of credit by false pretenses, a false representation, or actual fraud, or by use of a statement in writing respecting the debtor's financial condition that is materially false, on which the creditor reasonably relied, and that the debtor made or published with intent to deceive, is excepted from discharge. This provision is modified only slightly from current section 17a(2). First, “actual fraud” is added as a grounds for exception from discharge. Second, the creditor must not only have relied on a false statement in writing, the reliance must have been reasonable. This codifies case law construing this provision. Third, the phrase “in any manner whatsoever” that appears in current law after “made or published” is deleted as unnecessary. The word “published” is used in the same sense that it is used in slander actions.
 
 Unscheduled debts are excepted from discharge under paragraph (3). The provision, derived from section 17a(3) \[section 35(a)(3) of former title 11\], follows current law, but clarifies some uncertainties generated by the case law construing 17a(3). The debt is excepted from discharge if it was not scheduled in time to permit timely action by the creditor to protect his rights, unless the creditor had notice or actual knowledge of the case.
 
@@ -188,7 +184,7 @@ Paragraph (4) excepts debts for embezzlement or larceny. The deletion of willful
 
 Paragraph (5) excepts from discharge debts to a spouse, former spouse, or child of the debtor for alimony to, maintenance for, or support of, the spouse or child. This language, in combination with the repeal of section 456(b) of the Social Security Act (42 U.S.C. 656(b)) by section 327 of the bill, will apply to make nondischargeable only alimony, maintenance, or support owed directly to a spouse or dependent. See Hearings, pt. 2, at 942. What constitutes alimony, maintenance, or support, will be determined under the bankruptcy laws, not State law. Thus, cases such as <i>In re Waller</i>, 494 F.2d 447 (6th Cir. 1974); Hearings, pt. 3, at 1308–10, are overruled, and the result in cases such as <i>Fife v. Fife</i>, 1 Utah 2d 281, 265 P.2d 642 (1952) is followed. This provision will, however, make nondischargeable any debts resulting from an agreement by the debtor to hold the debtor's spouse harmless on joint debts, to the extent that the agreement is in payment of alimony, maintenance, or support of the spouse, as determined under bankruptcy law considerations that are similar to considerations of whether a particular agreement to pay money to a spouse is actually alimony or a property settlement. See Hearings, pt. 3, at 1287–1290.
 
-Paragraph (6) excepts debts for willful and malicious injury by the debtor to another person or to the property of another person. Under this paragraph, “willful” means deliberate or intentional. To the extent that <i>Tinker v. Colwell</i>, 193 U.S. 473 (1902) \[24 S.Ct. 505, 48 L.Ed. 754, 11 Am.Bankr.Rep. 568\], held that a looser standard is intended, and to the extent that other cases have relied on <i>Tinker</i> to apply a “reckless disregard” standard, they are overruled.
+Paragraph (6) excepts debts for willful and malicious injury by the debtor to another person or to the property of another person. Under this paragraph, “willful” means deliberate or intentional. To the extent that<i>Tinker v. Colwell</i>, 193 U.S. 473 (1902) \[24 S.Ct. 505, 48 L.Ed. 754, 11 Am.Bankr.Rep. 568\], held that a looser standard is intended, and to the extent that other cases have relied on <i>Tinker</i> to apply a “reckless disregard” standard, they are overruled.
 
 Paragraph (7) excepts from discharge a debt for a fine, penalty, or forfeiture payable to and for the benefit of a governmental unit, that is not compensation for actual pecuniary loss.
 
@@ -209,6 +205,8 @@ Section 439A of the Higher Education Act of 1965, referred to in subsec. (b), wa
 Section 733(g) of the Public Health Service Act, referred to in subsec. (b), was repealed by Pub. L. 95–598, title III, §327, Nov. 6, 1978, 92 Stat. 2679. A subsec. (g), containing similar provisions, was added to section 733 by Pub. L. 97–35, title XXVII, §2730, Aug. 13, 1981, 95 Stat. 919. Section 733 was subsequently omitted in the general revision of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. See section 292f(g) of Title 42.
 
 #### Amendments
+
+1998—Subsec. (a)(8). Pub. L. 105–244 substituted “stipend, unless” for “stipend, unless—” and struck out “(B)” before “excepting such debt” and subpar. (A) which read as follows: “such loan, benefit, scholarship, or stipend overpayment first became due more than 7 years (exclusive of any applicable suspension of the repayment period) before the date of the filing of the petition; or”.
 
 1996—Subsec. (a)(5)(A). Pub. L. 104–193, §374(a)(4), substituted “section 408(a)(3)” for “section 402(a)(26)”.
 
@@ -258,7 +256,7 @@ Subsec. (a)(1)(A). Pub. L. 99–554, §283(j)(1)(A), substituted “507(a)(7)”
 
 Subsec. (a)(5). Pub. L. 99–554, §281, struck out the comma after “decree” and inserted “, determination made in accordance with State or territorial law by a governmental unit,” after “record”.
 
-Subsec. (a)(9), (10). Pub. L. 99–554, §283(j)(1)(B), redesignated par. (9) relating to debts incurred by persons driving while intoxicated, added by Pub. L. 98–353, as (10).
+Subsec. (a)(9), (10). Pub. L. 99–554, §283(j)(1)(B), redesignated par. (9) relating to debts incurred by personsdriving while intoxicated, added by Pub. L. 98–353, as (10).
 
 Subsec. (b). Pub. L. 99–554, §283(j)(2), substituted “Service” for “Services”.
 
@@ -287,6 +285,10 @@ Subsec. (d). Pub. L. 98–353, §307(b), substituted “the court shall grant ju
 1981—Subsec. (a)(5)(A). Pub. L. 97–35 substituted “law, or otherwise (other than debts assigned pursuant to section 402(a)(26) of the Social Security Act);” for “law, or otherwise;”.
 
 1979—Subsec. (a)(8). Pub. L. 96–56 substituted “for an educational loan made, insured, or guaranteed by a governmental unit, or made under any program funded in whole or in part by a governmental unit or a nonprofit institution of higher education” for “to a governmental unit, or a nonprofit institution of higher education, for an educational loan” in the provisions preceding subpar. (A) and inserted “(exclusive of any applicable suspension of the repayment period)” after “before five years” in subpar. (A).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–244, title IX, §971(b), Oct. 7, 1998, 112 Stat. 1837, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to cases commenced under title 11, United States Code, after the date of enactment of this Act \[Oct. 7, 1998\].”
 
 #### Effective Date of 1996 Amendment
 
@@ -324,7 +326,7 @@ Application of Amendments.—The amendments made by this Act \[amending this sec
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 257 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to casescommenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
+Amendment by section 257 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
 Amendment by sections 281 and 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554.
 
@@ -336,9 +338,13 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 2334(c) of Pub. L. 97–35, set out as a note under section 656 of Title 42, The Public Health and Welfare.
 
+#### Adjustment of Dollar Amounts
+
+For adjustment of dollar amounts specified in subsec. (a)(2)(C) of this section by the Judicial Conference of the United States, effective Apr. 1, 1998, see note set out under section 104 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 101, 104, 106, 502, 507, 522, 524, 727, 1141, 1228, 1328 of this title; title 20 section 1087; title 26 sections 6327, 7434.
+This section is referred to in sections 101, 104, 106, 502, 507, 522, 524, 727, 1141, 1228, 1328 of this title; title 20 section 1087; title 26 sections 6327, 7437.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

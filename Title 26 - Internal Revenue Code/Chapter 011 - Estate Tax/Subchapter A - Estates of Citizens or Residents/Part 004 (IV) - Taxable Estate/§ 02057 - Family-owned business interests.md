@@ -134,7 +134,7 @@ For purposes of this section, the adjusted value of any qualified family-owned b
 
 &emsp;&emsp;&emsp;(ii) any other assets of the trade or business (other than assets used in the active conduct of a trade or business described in section 542(c)(2)), which produce, or are held for the production of, personal holding company income (as defined in subparagraph (C)) or income described in section 954(c)(1) (determined without regard to subparagraph (A) thereof and by substituting “trade or business” for “controlled foreign corporation”).
 
-> &emsp;In the case of a lease of property on a net cash basis by the decedent to a member of the decedent's family, income from such lease shall not be treated as personal holding company income for purposes of subparagraph (C), and such property shall not be treated as an asset described in subparagraph (D)(ii), if such income and property would not be so treated if the lessor had engaged directly in the activities engaged in by the lessee with respect to such property.
+> &emsp;In the case of a lease of property on a net cash basis by the decedent to a member of the decedent's family, income from such lease shallnot be treated as personal holding company income for purposes of subparagraph (C), and such property shall not be treated as an asset described in subparagraph (D)(ii), if such income and property would not be so treated if the lessor had engaged directly in the activities engaged in by the lessee with respect to such property.
 
 #### (3) Rules regarding ownership
 
@@ -166,7 +166,7 @@ For purposes of this section, the adjusted value of any qualified family-owned b
 
 #### (1) In general
 
-&emsp;There is imposed an additional estate tax if, within 10 years after the date of the decedent'sdeath and before the date of the qualified heir's death—
+&emsp;There is imposed an additional estate tax if, within 10 years after the date of the decedent's death and before the date of the qualified heir's death—
 
 &emsp;&emsp;(A) the material participation requirements described in section 2032A(c)(6)(B) are not met with respect to the qualified family-owned business interest which was acquired (or passed) from the decedent,
 
@@ -238,7 +238,7 @@ For purposes of this section, the adjusted value of any qualified family-owned b
 
 #### (3) Use in trade or business by family members
 
-&emsp;A qualified heir shall not be treated as disposing of an interest described in subsection (e)(1)(A) by reason of ceasing to be engaged in a trade or business so long as the property to which such interest relates is used in a trade or business by any member of such individual's family.
+&emsp;A qualified heir shall not be treated as disposing of an interest described in subsection\(e)(1)(A) by reason of ceasing to be engaged in a trade or business so long as the property to which such interest relates is used in a trade or business by any member of such individual's family.
 
 #### (g) Security requirements for noncitizen qualified heirs
 

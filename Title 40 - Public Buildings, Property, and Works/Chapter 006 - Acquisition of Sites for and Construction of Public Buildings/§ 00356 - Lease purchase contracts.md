@@ -18,7 +18,7 @@ Each such purchase contract shall include such provisions as the Administrator o
 
 &emsp;(1) amortize—
 
-&emsp;&emsp;(A) the cost of improvements to be constructed plus the fair market value, on thedate of the agreement, of the site, if owned or acquired by the contractor; or
+&emsp;&emsp;(A) the cost of improvements to be constructed plus the fair market value, on the date of the agreement, of the site, if owned or acquired by the contractor; or
 
 &emsp;&emsp;(B) the fair market value, on the date of the agreement, of completed improvements together with the site thereof; or
 
@@ -32,7 +32,7 @@ Each such purchase contract shall include such provisions as the Administrator o
 
 #### (f) Utilization of funds for payments; conditions
 
-Funds now or hereafter available for the payment of rent and related charges for premises, whether appropriated directly to the General Services Administration or to any other agency of the Government and received by said Administration for such purpose, may be utilized by the Administrator of General Services to make payments becoming due from time to time from the United States as current charges in connection with agreements entered into under authority of this section: <i>Provided</i>, That no such funds may be expended for acquisition of title to the property covered by any such agreement prior to the expiration of the contract term specified therein (whether by exercise of option to purchase or otherwise) in the absence of specific appropriations of funds for such acquisition, which appropriations are authorized: <i>Provided further</i>, That the value of any Government real property to be exchanged under any such agreement may be credited at the time of exchange to the payments to be made by the United States thereunder: <i>Provided further</i>, That Government real property to be exchanged may be credited in whole or in part to the purchase price of the property for which it is exchanged, except that where the amount of the credit for the real property to be exchanged exceeds the amount of the purchase price, the amount of the remaining proceeds shall, except as provided in section 2003 of title 39, be covered into the miscellaneous receipts of the Treasury of the United States.
+Funds now or hereafter available for the payment of rent and related charges for premises, whether appropriated directly to the General Services Administration or to any other agency of the Government and received by said Administration for such purpose, may be utilized by the Administrator of General Services to make payments becoming due from time to time from the United States as current charges in connection with agreements entered into under authority of this section: <i>Provided</i>, That no such fundsmay be expended for acquisition of title to the property covered by any such agreement prior to the expiration of the contract term specified therein (whether by exercise of option to purchase or otherwise) in the absence of specific appropriations of funds for such acquisition, which appropriations are authorized: <i>Provided further</i>, That the value of any Government real property to be exchanged under any such agreement may be credited at the time of exchange to the payments to be made by the United States thereunder: <i>Provided further</i>, That Government real property to be exchanged may be credited in whole or in part to the purchase price of the property for which it is exchanged, except that where the amount of the credit for the real property to be exchanged exceeds the amount of the purchase price, the amount of the remaining proceeds shall, except as provided in section 2003 of title 39, be covered into the miscellaneous receipts of the Treasury of the United States.
 
 #### (g) Postal purposes
 
@@ -80,7 +80,7 @@ A prior section 411 of act June 16, 1949, was renumbered section 413 and is set 
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by theBoard of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
 #### Short Title
 

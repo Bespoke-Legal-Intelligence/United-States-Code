@@ -64,7 +64,7 @@ Collection of penalties.—If a person upon whom such a penalty is imposed shall
 
 &emsp;&emsp;(iii)
 
-Remedy not exclusive.—The actions authorized by this paragraph may be brought in addition to any other action that the Commission or the Attorney General is entitled to bring.
+Remedy not exclusive.—The actions authorized by this paragraph may be brought in addition to any other action thatthe Commission or the Attorney General is entitled to bring.
 
 &emsp;&emsp;(iv)
 
@@ -80,7 +80,7 @@ Prohibition of attorneys’ fees paid from commission disgorgement funds.—Exce
 
 #### (e) Mandamus
 
-Upon application of the Commission the district courts of the United States and the UnitedStates courts of any territory or other place subject to the jurisdiction of the United States shall have jurisdiction to issue writs of mandamus, injunctions, and orders commanding (1) any person to comply with the provisions of this chapter, the rules, regulations, and orders thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or person associated with a member, the rules of a registered clearing agency in which such person is a participant, the rules of the Municipal Securities Rulemaking Board, or any undertaking contained in a registration statement as provided in subsection (d) of section 78<i>o</i> of this title, (2) any national securities exchange or registered securities association to enforce compliance by its members and persons associated with its members with the provisions of this chapter, the rules, regulations, and orders thereunder, and the rules of such exchange or association, or (3) any registered clearing agency to enforce compliance by its participants with the provisions of the rules of such clearing agency.
+Upon application of the Commission the district courts of the United States and the United States courts of any territory or other place subject to the jurisdiction of the United States shall have jurisdiction to issue writs of mandamus, injunctions, and orders commanding (1) any person to comply with the provisions of this chapter, the rules, regulations, and orders thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or person associated with a member, the rules of a registered clearing agency in which such person is a participant, the rules of the Municipal Securities Rulemaking Board, or any undertaking contained in a registration statement as provided in subsection (d) of section 78<i>o</i> of this title, (2) any national securities exchange or registered securities association to enforce compliance by its members and persons associated with its members with the provisions of this chapter, the rules, regulations, and orders thereunder, and the rules of such exchange or association, or (3) any registered clearing agency to enforce compliance by its participants with the provisions of the rules of such clearing agency.
 
 #### (f) Rules of self-regulatory organizations
 
@@ -130,7 +130,7 @@ Notwithstanding the provisions of section 1407(a) of title 28, or any other prov
 
 (C) Upon expiration of the period of delay of notification ordered under subparagraph (A) or (B), the customer shall be served with or mailed a copy of the subpena insofar as it applies to the customer together with the following notice which shall describe with reasonable specificity the nature of the investigation for which the Commission sought the financial records:
 
-“Records or information concerning your transactions which are held by the financial institution named in the attached subpena were supplied to the Securities and Exchange Commission on (date). Notification was withheldpursuant to a determination by the (title of court so ordering) under section 21(h) of the Securities Exchange Act of 1934 that (state reason). The purpose of the investigation or official proceeding was (state purpose).”
+“Records or information concerning your transactions which are held by the financial institution named in the attached subpena were supplied to the Securities and Exchange Commission on (date). Notification was withheld pursuant to a determination by the (title of court so ordering) under section 21(h) of the Securities Exchange Act of 1934 that (state reason). The purpose of the investigation or official proceeding was (state purpose).”
 
 (5) Upon application by the Commission, all proceedings pursuant to paragraphs (2) and (4) shall be held in camera and the records thereof sealed until expiration of the period of delay or such other date as the presiding judge or magistrate judge may permit.
 
@@ -220,7 +220,7 @@ Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 3(a)(1) of Pub. L. 100–704 not applicable to actions occurring before Nov. 19, 1988, seesection 9 of Pub. L. 100–704 set out as a note under section 78<i>o</i> of this title.
+Amendment by section 3(a)(1) of Pub. L. 100–704 not applicable to actions occurring before Nov. 19, 1988, see section 9 of Pub. L. 100–704 set out as a note under section 78<i>o</i> of this title.
 
 #### Effective Date of 1984 Amendment
 

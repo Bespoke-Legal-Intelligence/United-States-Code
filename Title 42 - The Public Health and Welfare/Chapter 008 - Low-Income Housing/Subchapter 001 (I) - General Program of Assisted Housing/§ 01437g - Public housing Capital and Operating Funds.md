@@ -108,7 +108,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 &emsp;&emsp;(H) the costs of administering a public housing work program under section 1437j of this title, including the costs of any related insurance needs;
 
-&emsp;&emsp;(I) the costs of repaying, together with rent contributions, debt incurred to finance the rehabilitation and development of public housing units, which shall be subject to such reasonable requirements as the Secretary may establish; and
+&emsp;&emsp;(I) the costs of repaying, together with rent contributions, debt incurred to finance the rehabilitation and development of public housing units, which shall be subject to suchreasonable requirements as the Secretary may establish; and
 
 &emsp;&emsp;(J) the costs associated with the operation and management of mixed finance projects, to the extent appropriate.
 
@@ -248,7 +248,7 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 #### (A) Prohibition of new assistance
 
-&emsp;&emsp;A public housing agency shall not be awarded assistance under this section for any month during any fiscal year in which the public housing agency has funds unobligated in violation of paragraph (1) or (2).
+&emsp;&emsp;A public housing agency shall not be awarded assistance under this section for any month during any fiscal year in whichthe public housing agency has funds unobligated in violation of paragraph (1) or (2).
 
 #### (B) Withholding of assistance
 
@@ -280,7 +280,7 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 #### (6) Right of recapture
 
-&emsp;Any obligation entered into by a public housing agency shall be subject to the right of the Secretary to recapture the obligatedamounts for violation by the public housing agency of the requirements of this subsection.
+&emsp;Any obligation entered into by a public housing agency shall be subject to the right of the Secretary to recapture the obligated amounts for violation by the public housing agency of the requirements of this subsection.
 
 #### (k) Emergency reserve and use of amounts
 
@@ -324,7 +324,7 @@ A public housing agency that receives income from nonrental sources (as determin
 
 #### (2) Exemptions
 
-&emsp;In the case of any public housing unit assisted pursuant to the authority under paragraph (1), the Secretary may, by regulation, reduce the period under subsection (d)(3) or (e)(3) of this section, as applicable, during which such units must be operated under requirements applicable to public housing. In cases in which there is commitment of operating assistance but no commitment of capital assistance, the Secretary may make section 8 \[42 U.S.C. 1437f\] requirements applicable, as appropriate, by regulation.
+&emsp;In the case of any public housing unit assisted pursuant to the authority under paragraph (1), the Secretary may, by regulation, reduce the period under subsection (d)(3) or (e)(3) of this section, as applicable, duringwhich such units must be operated under requirements applicable to public housing. In cases in which there is commitment of operating assistance but no commitment of capital assistance, the Secretary may make section 8 \[42 U.S.C. 1437f\] requirements applicable, as appropriate, by regulation.
 
 #### (n) Treatment of public housing
 
@@ -348,7 +348,7 @@ A public housing agency that receives income from nonrental sources (as determin
 
 #### (2) Reduction of asthma incidence
 
-&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before amounts are made available from such Funds, use not more than exceeding <sup>4</sup> $500,000per year for the purpose of initiating, expanding or continuing a program for the reduction of the incidence of asthma among residents. The Secretary shall consult with the Administrator of the Environmental Protection Agency and the Secretary of Health and Human Services to identify and consider sources of funding for the reduction of the incidence of asthma among recipients of assistance under this subchapter.
+&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before amounts are made available from such Funds, use not more than exceeding <sup>4</sup> $500,000 per year for the purpose of initiating, expanding or continuing a program for the reduction of the incidence of asthma among residents. The Secretary shall consult with the Administrator of the Environmental Protection Agency and the Secretary of Health and Human Services to identify and consider sources of funding for the reduction of the incidence of asthma among recipients of assistance under this subchapter.
 
 #### (3) Services for elderly residents
 
@@ -372,7 +372,7 @@ October 21, 1998, referred to in subsec. (n)(1)(A)(i), was in the original “th
 
 #### Prior Provisions
 
-A prior section 9 of act Sept. 1, 1937, ch. 896, 50 Stat. 891, as amended, authorized loans for low-rent housing and slum clearance projects and was classified to section 1409 of this title, prior to the general revision of this chapter by Pub. L. 93–383. Similar provisions are contained in section 1437b of this title.
+A prior section 9 of act Sept. 1, 1937, ch. 896, 50 Stat. 891, as amended, authorized loans for low-rent housingand slum clearance projects and was classified to section 1409 of this title, prior to the general revision of this chapter by Pub. L. 93–383. Similar provisions are contained in section 1437b of this title.
 
 #### Amendments
 
@@ -468,7 +468,7 @@ Qualifications.—Before the implementation of formulas pursuant to sections 9(d
 
 &emsp;&emsp;“(A) if a public housing agency establishes a rental amount that is based on a ceiling rent established pursuant to subsection (d)(1) of this section \[42 U.S.C. 1437a note\], the Secretary shall take into account any reduction of the per unit dwelling rental income of the public housing agency resulting from the use of that rental amount in calculating the contributions for the public housing agency for the operation of the public housing under section 9 of the United States Housing Act of 1937 \[42 U.S.C. 1437g\];
 
-&emsp;&emsp;“(B) if a public housing agency establishes a rental amount that is based on an adjustment to income under section 3(b)(5)(G) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)(5)(G)\] (as in effect immediately before the enactment of this Act \[Oct. 21, 1998\]), the Secretary shall not takeinto account any reduction of or any increase in the per unit dwelling rental income of the public housing agency resulting from the use of that rental amount in calculating the contributions for the public housing agency for the operation of the public housing under section 9 of the United States Housing Act of 1937 \[42 U.S.C. 1437g\]; and
+&emsp;&emsp;“(B) if a public housing agency establishes a rental amount that is based on an adjustment to income under section 3(b)(5)(G) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)(5)(G)\] (as in effect immediately before the enactment of this Act \[Oct. 21, 1998\]), the Secretary shall not take into account any reduction of or any increase in the per unit dwelling rental income of the public housing agency resulting from the use of that rental amount in calculating the contributions for the public housing agency for the operation of the public housing under section 9 of the United States Housing Act of 1937 \[42 U.S.C. 1437g\]; and
 
 &emsp;&emsp;“(C) if a public housing agency establishes a rental amount other than as provided under subparagraph (A) or (B) that is less than the greatest of the amounts determined under subparagraphs (A), (B), and (C) of section 3(a)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(a)(1)(A), (B), (C)\], the Secretary shall not take into account any reduction of the per unit dwelling rental income of the public housing agency resulting from the use of that rental amount in calculating the contributions for the public housing agency for the operation of the public housing under section 9 of the United States Housing Act of 1937 \[42 U.S.C. 1437g\].
 

@@ -2,7 +2,7 @@
 
 The annual reports to the Congress under section 262a of this title, shall be submitted within nine months after the end of the fiscal year to which they relate.
 
-(Pub. L. 87–195, pt. I, §306, as added Pub. L. 96–533, title VII, §703, Dec. 16, 1980, 94 Stat. 3157;amended Pub. L. 105–362, title XIII, §1301(b), Nov. 10, 1998, 112 Stat. 3293.)
+(Pub. L. 87–195, pt. I, §306, as added Pub. L. 96–533, title VII, §703, Dec. 16, 1980, 94 Stat. 3157; amended Pub. L. 105–362, title XIII, §1301(b), Nov. 10, 1998, 112 Stat. 3293.)
 
 #### Amendments
 

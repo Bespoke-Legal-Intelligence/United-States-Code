@@ -88,7 +88,7 @@ On the death of the surviving spouse or former spouse or termination of the annu
 
 #### (e) Payment period for child
 
-The annuity payable to a child under subsection (c) or (d) of this section shall begin on the day after the participant dies, or if the child is not then qualified, on the first day of the month in which the child becomes eligible. The annuity of a child shall terminate on the last day of the month which precedes the month in which eligibility ceases.
+The annuity payable to a child under subsection (c) or (d) of this section shall begin on the day after the participant dies, or if the child is not then qualified, on the first day of themonth in which the child becomes eligible. The annuity of a child shall terminate on the last day of the month which precedes the month in which eligibility ceases.
 
 #### (f) Unmarried participants
 
@@ -110,7 +110,7 @@ A surviving spouse or surviving former spouse of any participant or former parti
 
 #### (j) Recomputation upon dissolution of marriage; election after remarriage
 
-An annuity which is reduced under this section or any similar prior provision of law to provide a survivor benefit for a spouse shall, if the marriage of the participant to such spouse is dissolved, be recomputed and paid for each full month during which an annuitant is not married (or is remarried if there is no election in effect under the following sentence) as if the annuity had not been so reduced, subject to any reduction required to provide a survivor benefit under section 4054(b) or (c) of this title. Upon remarriage the retired participant may irrevocably elect, by means of a signed writing received by the Secretary within one year after such remarriage, to receive during such marriage a reduction in annuity for the purpose of allowing an annuity for the new spouse of the annuitant in the event such spouse survives the annuitant. Such reduction shall be equal to the reduction in effect immediately before the dissolution of the previous marriage (unless such reduction is adjusted under section 4054(b)(5) of this title),and shall be effective the first day of the first month beginning one year after the date of remarriage. A survivor annuity elected under this subsection shall be treated in all respects as a survivor annuity under subsection (b) of this section.
+An annuity which is reduced under this section or any similar prior provision of law to provide a survivor benefit for a spouse shall, if the marriage of the participant to such spouse is dissolved, be recomputed and paid for each full month during which an annuitant is not married (or is remarried if there is no election in effect under the following sentence) as if the annuity had not been so reduced, subject to any reduction required to provide a survivor benefit under section 4054(b) or (c) of this title. Upon remarriage the retired participant may irrevocably elect, by means of a signed writing received by the Secretary within one year after such remarriage, to receive during such marriage a reduction in annuity for the purpose of allowing an annuity for the new spouse of the annuitant in the event such spouse survives the annuitant. Such reduction shall be equal to the reduction in effect immediately before the dissolution of the previous marriage (unless such reduction is adjusted under section 4054(b)(5) of this title), and shall be effective the first day of the first month beginning one year after the date of remarriage. A survivor annuity elected under this subsection shall be treated in all respects as a survivor annuity under subsection (b) of this section.
 
 #### (k) Informing of rights by Secretary
 
@@ -172,7 +172,7 @@ The retirement, disability, or survivor annuity payable to any person based on t
 
 <i>(1) the participant makes a contribution for such period as provided in such section 4045(d) of this title; or</i>
 
-<i>(2) no contribution is required for such service as provided under section 4045(f) of this title as</i><i>deemed to be amended by this Order, or under any other statute.</i>
+<i>(2) no contribution is required for such service as provided under section 4045(f) of this title as deemed to be amended by this Order, or under any other statute.</i>
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 (a) The Secretary shall take possession of the experimental demonstration facility near Rifle, Colorado, which was constructed and operated by the Department of the Interior on lands on or near the naval oil shale reserves under the Act of April 5, 1944 (30 U.S.C. 321 et seq.).
 
-(b) The Secretary, subject to the approval of the President, shall by contract, lease, or otherwise encourage the use of the facility described in subsection (a) in research, development, test, evaluation, and demonstration work. For such purposes the Secretary may use or lease for use by institutions, organizations, or individuals, public or private, the facility described in subsection (a) and may construct, install, and operate, or lease for operation additional experimental facilities on such lands. The Secretary may, after consultation with the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives, mine and remove, or authorize the mining and removal, of any oil shale or products therefrom from lands in the naval oil shale reserves that may be needed for such experimentation.
+(b) The Secretary, subject to the approval of the President, shall by contract, lease, or otherwise encourage the use of the facility described in subsection (a) in research, development, test, evaluation, and demonstration work. For such purposes the Secretary may use or lease for use by institutions, organizations, or individuals, public or private, the facility described in subsection (a) and may construct, install, and operate, or lease for operation additional experimental facilities on such lands. The Secretary may, after consultation with the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, mine and remove, or authorize the mining and removal, of any oil shale or products therefrom from lands in the naval oil shale reserves that may be needed for such experimentation.
 
 (c) Nothing in this chapter shall be construed—
 
@@ -10,7 +10,7 @@
 
 &emsp;(2) in diminution of the responsibility of the Secretary in providing oil shale and products therefrom for needs of national defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 462; Pub. L. 87–796, §1(12), Oct. 11, 1962, 76 Stat. 906; Pub. L. 94–258, title II, §201(19), Apr. 5, 1976, 90 Stat. 313; Pub. L. 96–513, title V, §513(37), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 462; Pub. L. 87–796, §1(12), Oct. 11, 1962, 76 Stat. 906; Pub. L. 94–258, title II, §201(19), Apr. 5, 1976, 90 Stat. 313; Pub. L. 96–513, title V, §513(37), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 Historical and Revision Notes
 
@@ -34,6 +34,8 @@ Act April 5, 1944, referred to in subsec. (a), is act Apr. 5, 1944, ch. 172, 58 
 
 #### Amendments
 
+1999—Subsec. (b). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+
 1996—Subsec. (b). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
 
 1980—Subsec. (a). Pub. L. 96–513, §513(37)(A), substituted provisions relating to authority of the Secretary under the specified statute, for provisions relating to authority of the Administrator of the Energy Research and Development Administration under the specified statute.
@@ -49,10 +51,6 @@ Subsec. (b). Pub. L. 94–258 substituted “Administrator of the Energy Researc
 Subsec. (c). Pub. L. 94–258 struck out “of the Navy” after “Secretary”.
 
 1962—Pub. L. 87–796 amended section generally by substituting provisions relating to the possession, use, and transfer of the experimental demonstration facility near Rifle, Colorado, for provisions which stated that this chapter does not authorize the development or operation of the naval oil-shale reserves.
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1980 Amendment
 

@@ -18,5 +18,7 @@ Historical and Revision Notes
 
 (no source).
 
+&nbsp;
+
 The section is added to except the Corporation for the Promotion of Rifle Practice and Firearms Safety from the application of section 10101 of the revised title, restating 36:1101–1103, which imposes audit requirements on certain federally chartered corporations. The corporation is not included in the list of corporations set out in 36:1101 to which the audit requirements apply.
 

@@ -48,7 +48,7 @@ A prior section 1397b, act Aug. 14, 1935, ch. 531, title XX, §2003, as added Ja
 
 #### Amendments
 
-1998—Subsec. (c)(7). Pub. L. 105–178 added par. (7) and struck out former par. (7) which read as follows:“$2,380,000,000 for each of the fiscal years 1997 through 2002; and”.
+1998—Subsec. (c)(7). Pub. L. 105–178 added par. (7) and struck out former par. (7) which read as follows: “$2,380,000,000 for each of the fiscal years 1997 through 2002; and”.
 
 Subsec. (c)(8). Pub. L. 105–277 added par. (8) and struck out former par. (8) which read as follows: “$2,380,000,000 for the fiscal year 1998;”.
 

@@ -4,7 +4,7 @@
 
 #### (1) Agreement required for insurance coverage
 
-&emsp;For the purpose of providing loans to eligible borrowers for consolidation of their obligations with respect to eligible student loans, the Secretary or a guaranty agency shall enter into agreements in accordance with subsection\(b) of this section with the following eligible lenders:
+&emsp;For the purpose of providing loans to eligible borrowers for consolidation of their obligations with respect to eligible student loans, the Secretary or a guaranty agency shall enter into agreements in accordance with subsection (b) of this section with the following eligible lenders:
 
 &emsp;&emsp;(A) the Student Loan Marketing Association or the Holding Company of the Student Loan Marketing Association, including any subsidiary of the Holding Company, created pursuant to section 1087–3 of this title;
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;&emsp;(I) by the Secretary, in the case of a consolidation loan for which the application is received by an eligible lender before November 13, 1997, that consolidated only Federal Stafford Loans for which the student borrower received an interest subsidy under section 1078 of this title;
 
-&emsp;&emsp;&emsp;(II) by the Secretary, in the case of a consolidation loan for which the application is received by an eligible lender on or after November 13, 1997, except that the Secretary shall pay such interest only on that portion of the loan that repays Federal Stafford Loans for which the student borrower received an interest subsidy under section 1078 of this title or FederalDirect Stafford Loans for which the borrower received an interest subsidy under section 1087e of this title; or
+&emsp;&emsp;&emsp;(II) by the Secretary, in the case of a consolidation loan for which the application is received by an eligible lender on or after November 13, 1997, except that the Secretary shall pay such interest only on that portion of the loan that repays Federal Stafford Loans for which the student borrower received an interest subsidy under section 1078 of this title or Federal Direct Stafford Loans for which the borrower received an interest subsidy under section 1087e of this title; or
 
 &emsp;&emsp;&emsp;(III) by the borrower, or capitalized, in the case of a consolidation loan other than a loan described in subclause (I) or (II);
 
@@ -244,7 +244,7 @@
 
 #### (C) Additional reserve rule
 
-&emsp;&emsp;Notwithstanding any other provision of this chapter, additional reserves shall not be required for any guaranty agency with respect to a loan made under this subsection.
+&emsp;&emsp;Notwithstanding any other provision of this chapter, additional reserves shall not berequired for any guaranty agency with respect to a loan made under this subsection.
 
 #### (D) Insurance rule
 
@@ -276,7 +276,7 @@ The authority to make loans under this section expires at the close of September
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsecs. (a)(4)(D), (E) and (d)(1)(C)(ii), (3)(D), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subparts I and II of part A of title VII of the Act are classified generally to subpart I (§292 et seq.) and subpart II (§292q et seq.), respectively, of part A of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Subpart II of part B of title VIII of the Act is classified generally to subpart II (§297a et seq.) of part B of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsecs. (a)(4)(D), (E) and (d)(1)(C)(ii), (3)(D), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subparts I and II of part A of title VII of the Act are classified generally to subpart I (§292 et seq.) and subpart II (§292q et seq.), respectively, of part A of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Subpart II of part B of title VIII of the Act, which was classified generally to subpart II (§297a et seq.) of part B of subchapter VI of chapter 6A of Title 42, was redesignated as part E of subchapter VI of chapter 6A of Title 42, by Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (d)(3)(C), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
@@ -300,7 +300,7 @@ Subsec. (b)(4)(C)(ii). Pub. L. 105–244, §420(c)(2), inserted “during any su
 
 Subsec. (b)(6)(A). Pub. L. 105–244, §420(c)(3), inserted before semicolon at end “, except that a lender is not required to consolidate loans described in subparagraph (D) or (E) of subsection (a)(4) of this section or subsection (d)(1)(C)(ii) of this section”.
 
-Subsec. (c)(1). Pub. L. 105–244, §420(b)(2), amended heading, added subpar. (A), and struck out former subpar. (A) which read as follows: “Consolidation loans made under this section shall bear interest at rates determined under subparagraph (B), (C), or (D). For the purposes of payment of special allowances under section 1087–1(b)(2) of this title, the interest rate required by this subsection is the applicable interest rate with respect to a consolidation loan.”
+Subsec. (c)(1). Pub. L. 105–244, §420(b)(2), amended heading, added subpar. (A), and struck out former subpar. (A) which read as follows: “Consolidation loans made under this section shall bear interest at rates determined under subparagraph (B), (C), or (D). For the purposes of payment of special allowances under section 1087–1(b)(2) of this title, the interest rate requiredby this subsection is the applicable interest rate with respect to a consolidation loan.”
 
 Subsec. (e). Pub. L. 105–244, §420(d), substituted “September 30, 2004” for “September 30, 2002”.
 
@@ -326,7 +326,7 @@ Subsec. (e). Pub. L. 105–33 substituted “September 30, 2002.” for “Septe
 
 1993—Subsec. (a)(3). Pub. L. 103–66, §4046(a)(1), amended heading.
 
-Subsec. (a)(3)(A). Pub. L. 103–208, §2(c)(33), substituted “defaulted borrower who has made arrangements to repay the obligation on the defaulted loans satisfactory to the holders of the defaulted loans” for “delinquentor defaulted borrower who will reenter repayment through loan consolidation”. See Codification note above.
+Subsec. (a)(3)(A). Pub. L. 103–208, §2(c)(33), substituted “defaulted borrower who has made arrangements to repay the obligation on the defaulted loans satisfactory to the holders of the defaulted loans” for “delinquent or defaulted borrower who will reenter repayment through loan consolidation”. See Codification note above.
 
 Pub. L. 103–66, §4046(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “For the purpose of this section, the term ‘eligible borrower’ means a borrower who, at the time of application for a consolidation loan—
 
@@ -374,7 +374,7 @@ Subsec. (a)(3)(B). Pub. L. 102–325, §419(c), amended subpar. (B) generally. P
 
 Subsec. (a)(3)(C). Pub. L. 102–325, §419(d), added subpar. (C).
 
-Subsec. (a)(4)(A). Pub. L. 102–325, §419(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “made, insured, or guaranteed under this part, except for loans made to parent borrowers under section 1078–2 of this title, including loans made to parent borrowers under section 1078–2 of this title as in effect prior to October 17, 1986;”.
+Subsec. (a)(4)(A). Pub. L. 102–325, §419(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “made, insured, or guaranteed under this part, except for loans made to parent borrowers under section 1078–2 of this title, including loans made to parent borrowers under section 1078–2 of this title as in effect prior to October 17, 1986;”.
 
 Subsec. (b)(4)(C). Pub. L. 102–325, §419(e), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “provides that periodic installments of principal need not be paid, but interest shall accrue and be paid, during any period for which the borrower would be eligible for a deferral under clause (i), (viii), or (ix) of section 1078(b)(1)(M) of this title, and that any such period shall not be included in determining the repayment period pursuant to subsection (c)(2) of this section;”.
 
@@ -444,7 +444,7 @@ Section 609(f) of Pub. L. 105–78 provided that: “The consolidation loans aut
 
 #### Cost Evaluation Report
 
-Pub. L. 99–272, title XVI, §16017(d), Apr. 7, 1986, 100 Stat. 348, provided that: “The Secretary of Education shall evaluate the cost, efficiency, and impact of the consolidation loan program established by the amendments made by this section \[enacting former section 1078–3 of this title and amending former sections 1077, 1085, 1087–1, and 1087–2 of this title\] and shall report to the Congress not later than June 30, 1988, on the findings and recommendations required by this subsection.”
+Pub. L. 99–272, title XVI, §16017(d), Apr. 7, 1986, 100 Stat. 348, provided that: “The Secretary of Education shall evaluate the cost, efficiency, and impact of the consolidation loan program established by the amendments made by this section \[enacting former section1078–3 of this title and amending former sections 1077, 1085, 1087–1, and 1087–2 of this title\] and shall report to the Congress not later than June 30, 1988, on the findings and recommendations required by this subsection.”
 
 #### Section Referred to in Other Sections
 

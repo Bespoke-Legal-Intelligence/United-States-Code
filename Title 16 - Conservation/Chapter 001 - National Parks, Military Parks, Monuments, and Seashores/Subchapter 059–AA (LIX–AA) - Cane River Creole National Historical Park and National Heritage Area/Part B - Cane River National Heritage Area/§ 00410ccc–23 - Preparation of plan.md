@@ -10,7 +10,7 @@ Within 3 years after the Commission conducts its first meeting, it shall prepare
 
 &emsp;(3) an interpretive plan to address the cultural and natural history of the area, and actions to enhance visitor use. This element of the plan shall be undertaken in consultation with the National Park Service and visitor use plans for the historical park;
 
-&emsp;(4) recommendations for coordinating actions by local, State, and Federal governments within the heritage area, to further the purposes of this subchapter; and
+&emsp;(4) recommendations for coordinating actions by local, State, and Federal governmentswithin the heritage area, to further the purposes of this subchapter; and
 
 &emsp;(5) an implementation program for the plan including desired actions by State and local governments and other involved groups and entities.
 

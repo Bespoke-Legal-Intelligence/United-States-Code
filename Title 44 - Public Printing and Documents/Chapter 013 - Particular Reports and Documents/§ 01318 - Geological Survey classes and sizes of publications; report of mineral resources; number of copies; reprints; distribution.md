@@ -14,7 +14,7 @@ Three thousand copies of the monographs and bulletins of the Geological Survey s
 
 The bulletins and professional papers shall be distributed gratuitously and of the number published one thousand copies shall be delivered to the Senate and two thousand copies to the House of Representatives, for distribution.
 
-The Director of the Geological Survey shall transmit to the Library of Congress two copies of every report of the bureau as soon as the first delivery to the Survey is made, in addition tothose received by the Library of Congress under any other law.
+The Director of the Geological Survey shall transmit to the Library of Congress two copies of every report of the bureau as soon as the first delivery to the Survey is made, in addition to those received by the Library of Congress under any other law.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1268.)
 

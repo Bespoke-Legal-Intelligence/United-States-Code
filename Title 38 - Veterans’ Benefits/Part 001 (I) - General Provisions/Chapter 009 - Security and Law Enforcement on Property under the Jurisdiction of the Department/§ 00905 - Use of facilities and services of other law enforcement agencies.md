@@ -1,6 +1,6 @@
 ### §905. Use of facilities and services of other law enforcement agencies
 
-With the permission of the head of the agency concerned, the Secretary may use the facilities and services of Federal, State, and local law enforcement agencies when it is economical and in the public interest to do so.
+With the permission of the head of the agency concerned, the Secretary may use the facilitiesand services of Federal, State, and local law enforcement agencies when it is economical and in the public interest to do so.
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 399.)
 

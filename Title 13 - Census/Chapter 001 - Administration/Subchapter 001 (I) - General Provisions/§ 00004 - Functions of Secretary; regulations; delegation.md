@@ -1,6 +1,6 @@
 ### §4. Functions of Secretary; regulations; delegation
 
-The Secretary shall perform the functions and duties imposed upon him by this title, may issue such rules and regulations as he deems necessary to carry out such functions and duties, and may delegate the performance of such functions and duties and the authority to issue suchrules and regulations to such officers and employees of the Department of Commerce as he may designate.
+The Secretary shall perform the functions and duties imposed upon him by this title, may issue such rules and regulations as he deems necessary to carry out such functions and duties,and may delegate the performance of such functions and duties and the authority to issue such rules and regulations to such officers and employees of the Department of Commerce as he may designate.
 
 (Aug. 31, 1954, ch. 1158, 68 Stat. 1013; Pub. L. 94–521, §3(a), Oct. 17, 1976, 90 Stat. 2459.)
 

@@ -16,7 +16,7 @@ Pub. L. 88–65, July 17, 1963, 77 Stat. 80, provided: “That the President is 
 
 The reasons for acceptance of the Constitution of the Organization by the United States is set forth in the preliminary clauses of act June 30, 1948, ch. 756, 62 Stat. 1151, which provided that:
 
-“Whereas the Senate and House of Representatives by Public Resolution Numbered 43 of the Seventy-third Congress authorized the President to accept membership for the Government of the United States of America in the International Labor Organization and the President, pursuant thereto, accepted such membership on August 20, 1934; and
+“Whereas the Senate and House of Representatives by Public Resolution Numbered 43 of the Seventy-thirdCongress authorized the President to accept membership for the Government of the United States of America in the International Labor Organization and the President, pursuant thereto, accepted such membership on August 20, 1934; and
 
 “Whereas such membership in the International Labor Organization has proved of benefit to the people of the United States; and
 
@@ -28,7 +28,7 @@ The reasons for acceptance of the Constitution of the Organization by the United
 
 #### Ex. Ord. No. 12216. President's Committee on the International Labor Organization
 
-Ex. Ord. No. 12216, June 18, 1980, 45 F.R. 41619, provided:
+Ex. Ord. No. 12216, June 18, 1980, 45 F.R. 41619, as amended by Ex. Ord. No. 13135, Aug. 27, 1999, 64 F.R. 47339, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, and in order to create in accordance with the Federal Advisory Committee Act (5 U.S.C. App.) an advisory committee on United States participation in the International Labor Organization, it is hereby ordered as follows:
 
@@ -36,7 +36,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 Establishment of Committee
 
-1–101. There is established the President's Committee on the International Labor Organization (ILO). The members will be the Secretaries of Labor, State, and Commerce, the Assistant to the President for National Security Affairs, and the Presidents of the AFL–CIO and the United States Council of the International Chamber of Commerce, or their designated representatives.
+1–101. There is established the President's Committee on the International Labor Organization (ILO). The members will be the Secretaries of Labor, State, and Commerce, the Assistant to the President for National Security Affairs, the Assistant to the President for Economic Policy, and the Presidents of the AFL–CIO and the United States Council of the International Chamber of Commerce, or their designated representatives.
 
 1–102. The Chairman of the Committee shall be the Secretary of Labor. The Committee shall meet at the request of the Chairman.
 
@@ -80,7 +80,7 @@ Term of the President's Committee on the International Labor Organization extend
 
 Term of the President's Committee on the International Labor Organization extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee on the International Labor Organization extended until Sept. 30,1989, by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee on the International Labor Organization extended until Sept. 30, 1989, by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's Committee on the International Labor Organization extended until Sept. 30, 1991, by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
@@ -90,5 +90,7 @@ Term of the President's Committee on the International Labor Organization extend
 
 Term of the President's Committee on the International Labor Organization extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee on the International Labor Organization extended until Sept. 30, 1999, by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee on the International Labor Organization extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(i), Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Committee on the International Labor Organization extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

@@ -6,7 +6,7 @@ No Native covered by the provisions of this chapter, and no descendant of his, m
 
 #### (b) Charging allotment against statutory grant
 
-Any allotments approved pursuant to this section during the four years following December 18, 1971, shall be charged against the two million acre grant provided for in section 1613(h) of this title.
+Any allotments approved pursuant to this section during the four years following December18, 1971, shall be charged against the two million acre grant provided for in section 1613(h) of this title.
 
 #### (c) Relocation of allotment
 
@@ -28,7 +28,7 @@ Any allotments approved pursuant to this section during the four years following
 
 #### References in Text
 
-Act of February 8, 1887 (24 Stat. 389), referred to in subsec. (a), is popularly known as the Indian GeneralAllotment Act. For complete classification of this Act to the Code, see Short Title note set out under section 331 of Title 25, Indians, and Tables.
+Act of February 8, 1887 (24 Stat. 389), referred to in subsec. (a), is popularly known as the Indian General Allotment Act. For complete classification of this Act to the Code, see Short Title note set out under section 331 of Title 25, Indians, and Tables.
 
 Act of June 25, 1910 (36 Stat. 363), referred to in subsec. (a), probably means act June 25, 1910, ch. 431, 36 Stat. 855, which enacted section 148 of this title, sections 104 and 107 of former Title 18, Criminal Code and Criminal Procedure, sections 47, 93, 151, 191, 202, 312, 331, 333, 336, 337, 344a, 351, 352, 353, 372, 373, 403, 406, 407, 408 of Title 25, sections 6a–1 and 16a of Title 41, Public Contracts. Sections 104 and 107 of former Title 18 were repealed in the general revision of that title by act June 25, 1948, ch. 645, 62 Stat. 683, and were reenacted as sections 1853 and 1856 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
 

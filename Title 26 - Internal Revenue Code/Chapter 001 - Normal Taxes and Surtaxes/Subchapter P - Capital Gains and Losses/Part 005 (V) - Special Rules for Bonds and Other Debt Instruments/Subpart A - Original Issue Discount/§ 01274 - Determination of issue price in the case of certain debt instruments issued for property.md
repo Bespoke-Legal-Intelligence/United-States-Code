@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any debt instrument arising from the sale or exchange of property if the sum ofthe following amounts does not exceed $250,000:
+&emsp;&emsp;&emsp;Any debt instrument arising from the sale or exchange of property if the sum of the following amounts does not exceed $250,000:
 
 &emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of the payments due under such debt instrument and all other debt instruments received as consideration for the sale or exchange, and
 
@@ -192,7 +192,7 @@ For purposes of this section—
 
 #### (3) Debt instruments to which this subsection applies
 
-&emsp;This subsection shall apply to any debt instrument given in consideration for the sale orexchange of any property if, pursuant to a plan, the transferor or any related person leases a portion of such property after such sale or exchange.
+&emsp;This subsection shall apply to any debt instrument given in consideration for the sale or exchange of any property if, pursuant to a plan, the transferor or any related person leases a portion of such property after such sale or exchange.
 
 (Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 538; amended Pub. L. 99–121, title I, §§101(a)(1), (b), (c), 102(b), Oct. 11, 1985, 99 Stat. 505, 506, 508; Pub. L. 99–514, title XVIII, §1803(a)(14)(A), Oct. 22, 1986, 100 Stat. 2797; Pub. L. 101–239, title VII, §7721(c)(11), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 104–188, title I, §1704(t)(78), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839.)
 
@@ -260,5 +260,5 @@ Provisions respecting treatment of debt instruments received in exchange for pro
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 42, 108, 143, 148, 163, 167, 249, 280G, 382, 411, 412, 453, 460, 467, 468, 483, 514, 846, 860B, 860E, 860I, 954, 988, 1258, 1273, 1274A, 1275, 1288, 1298, 6621, 7520, 7872 of this title; title 29 sections 1054, 1082, 1083, 1084.
+This section is referred to in sections 42, 108, 143, 148, 163, 167, 249, 280G, 382, 411, 412, 453, 460, 467, 468, 483, 514, 846, 860B, 860E, 860I, 954, 988, 1258, 1260, 1273, 1274A, 1275, 1288, 1298, 6621, 7520, 7872 of this title; title 29 sections 1054, 1082, 1083, 1084.
 

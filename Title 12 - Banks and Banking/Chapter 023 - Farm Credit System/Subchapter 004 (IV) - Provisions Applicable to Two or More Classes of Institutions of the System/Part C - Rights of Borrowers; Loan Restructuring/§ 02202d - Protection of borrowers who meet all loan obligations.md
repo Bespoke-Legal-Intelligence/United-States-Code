@@ -6,7 +6,7 @@ A qualified lender may not foreclose on any loan because of the failure of the b
 
 #### (b) Prohibition against required principal reduction
 
-A qualified lender may not require any borrower to reduce the outstanding principal balance of any loan made to the borrower by any amount that exceeds the regularly scheduledprincipal installment payment (when due and payable), unless—
+A qualified lender may not require any borrower to reduce the outstanding principal balance of any loan made to the borrower by any amount that exceeds the regularly scheduled principal installment payment (when due and payable), unless—
 
 &emsp;(1) the borrower sells or otherwise disposes of part or all of the collateral; or
 

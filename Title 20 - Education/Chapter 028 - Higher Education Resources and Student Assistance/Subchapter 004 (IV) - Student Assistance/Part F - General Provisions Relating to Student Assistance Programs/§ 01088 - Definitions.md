@@ -4,7 +4,7 @@
 
 (1) For the purpose of any program under this subchapter and part C of subchapter I of chapter 34 of title 42, the term “award year” shall be defined as the period beginning July 1 and ending June 30 of the following year.
 
-(2) For the purpose of any program under this subchapter and part C of subchapter I of chapter 34 of title 42, the term “academic year” shall require a minimum of 30 weeks of instructional time, and, with respect to an undergraduate course of study, shall require that during suchminimum period of instructional time a full-time student is expected to complete at least 24 semester or trimester hours or 36 quarter hours at an institution that measures program length in credit hours, or at least 900 clock hours at an institution that measures program length in clock hours. The Secretary may reduce such minimum of 30 weeks to not less than 26 weeks for good cause, as determined by the Secretary on a case-by-case basis, in the case of an institution of higher education that provides a 2-year or 4-year program of instruction for which the institution awards an associate or baccalaureate degree.
+(2) For the purpose of any program under this subchapter and part C of subchapter I of chapter 34 of title 42, the term “academic year” shall require a minimum of 30 weeks of instructional time, and, with respect to an undergraduate course of study, shall require that during such minimum period of instructional time a full-time student is expected to complete at least 24 semester or trimester hours or 36 quarter hours at an institution that measures program length in credit hours, or at least 900 clock hours at an institution that measures program length in clock hours. The Secretary may reduce such minimum of 30 weeks to not less than 26 weeks for good cause, as determined by the Secretary on a case-by-case basis, in the case of an institution of higher education that provides a 2-year or 4-year program of instruction for which the institution awards an associate or baccalaureate degree.
 
 #### (b) Eligible program
 
@@ -44,7 +44,7 @@ For purposes of this subchapter and part C of subchapter I of chapter 34 of titl
 
 #### Prior Provisions
 
-A prior section 1088, Pub. L. 89–329, title IV, §481, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1443, defined “institution of higher education” for this subchapter and part C of subchapter I of chapter 34 of Title 42, The Public Health and Welfare, prior to the general amendment of this part by Pub. L. 99–498.
+A prior section 1088, Pub. L. 89–329, title IV, §481, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94Stat. 1443, defined “institution of higher education” for this subchapter and part C of subchapter I of chapter 34 of Title 42, The Public Health and Welfare, prior to the general amendment of this part by Pub. L. 99–498.
 
 Another prior section 1088, Pub. L. 89–329, title IV, §491, formerly §461, as added Pub. L. 90–575, title I, §151, Oct. 16, 1968, 82 Stat. 1032, renumbered §491 and amended Pub. L. 92–318, title I, §§131(c), 137(b), title X, §1001(c)(3), June 23, 1972, 86 Stat. 259, 272, 381; amended Pub. L. 95–180, §1(b), Nov. 15, 1977, 91 Stat. 1372; Pub. L. 95–566, §6, Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–49, §5(e), Aug. 13, 1979, 93 Stat. 352, defined terms for this subchapter and part C of subchapter I of chapter 34 of title 42, prior to the general revision of this part by Pub. L. 96–374.
 
@@ -56,7 +56,7 @@ Subsec. (a)(4). Pub. L. 105–216, which directed the amendment of par. (4), eff
 
 1993—Subsec. (a)(3)(B). Pub. L. 103–208, §2(h)(1), inserted before semicolon at end “, except that the Secretary, at the request of such institution, may waive the applicability of this subparagraph to such institution for good cause, as determined by the Secretary in the case of an institution of higher education that provides a 2-year or 4-year program of instruction for which the institution awards an associate or baccalaureate degree”.
 
-Subsec. (a)(3)(D). Pub. L. 103–208, §2(h)(2), substituted “do not have a high school diploma or its recognized equivalent” for “are admitted pursuant to section 1091(d) of this title” and inserted before period at end “, except that the Secretary may waive the limitation contained in this subparagraph if a nonprofit institution demonstrates to the satisfaction of the Secretarythat it exceeds such limitation because it serves, through contracts with Federal, State, or local government agencies, significant numbers of students who do not have a high school diploma or its recognized equivalent”.
+Subsec. (a)(3)(D). Pub. L. 103–208, §2(h)(2), substituted “do not have a high school diploma or its recognized equivalent” for “are admitted pursuant to section 1091(d) of this title” and inserted before period at end “, except that the Secretary may waive the limitation contained in this subparagraph if a nonprofit institution demonstrates to the satisfaction of the Secretary that it exceeds such limitation because it serves, through contracts with Federal, State, or local government agencies, significant numbers of students who do not have a high school diploma or its recognized equivalent”.
 
 Subsec. (a)(4)(A). Pub. L. 103–208, §2(h)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “such institution has filed for bankruptcy; or”.
 
@@ -152,5 +152,5 @@ Section 1544 of Pub. L. 102–325 authorized institutions of higher education to
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1075, 1078, 1078–8, 1093, 5938 of this title; title 26 sections 25A, 135, 529; title 29 sections 1503, 1551, 2204; title 42 sections 604, 3796d–6.
+This section is referred to in sections 1075, 1078, 1078–8, 1093, 5938 of this title; title 26 sections 25A, 529; title 29 sections 1503, 1551, 2204; title 42 sections 604, 3796d–6.
 

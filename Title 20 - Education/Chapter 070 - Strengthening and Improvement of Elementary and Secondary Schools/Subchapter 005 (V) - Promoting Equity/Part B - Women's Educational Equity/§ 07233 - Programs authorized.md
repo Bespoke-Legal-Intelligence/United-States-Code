@@ -48,7 +48,7 @@ The Secretary is authorized—
 
 &emsp;&emsp;&emsp;(viii) introduction into the classroom of textbooks, curricula, and other materials designed to achieve equity for women and girls;
 
-&emsp;&emsp;&emsp;(ix) programs and policies to address sexual harassment and violence against women and girls and to ensure that educational institutions are free from threats to the safety of students and personnel;
+&emsp;&emsp;&emsp;(ix) programs and policies to address sexual harassment and violence againstwomen and girls and to ensure that educational institutions are free from threats to the safety of students and personnel;
 
 &emsp;&emsp;&emsp;(x) nondiscriminatory tests of aptitude and achievement and of alternative assessments that eliminate biased assessment instruments from use;
 
@@ -70,7 +70,7 @@ The Secretary is authorized—
 
 &emsp;&emsp;&emsp;(ii) the development of high quality and challenging assessment instruments that are nondiscriminatory;
 
-&emsp;&emsp;&emsp;(iii) the development and evaluation of model curricula, textbooks, software, andother educational materials to ensure the absence of gender stereotyping and bias;
+&emsp;&emsp;&emsp;(iii) the development and evaluation of model curricula, textbooks, software, and other educational materials to ensure the absence of gender stereotyping and bias;
 
 &emsp;&emsp;&emsp;(iv) the development of instruments and procedures that employ new and innovative strategies to assess whether diverse educational settings are gender equitable;
 

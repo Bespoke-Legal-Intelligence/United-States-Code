@@ -4,7 +4,7 @@
 
 &emsp;(1) “inventory” means personal property leased or furnished, held for sale or lease, or to be furnished under a contract for service, raw materials, work in process, or materials used or consumed in a business, including farm products such as crops or livestock, held for sale or lease;
 
-&emsp;(2) “new value” means money or money's worth in goods, services, or new credit, or release by a transferee of property previously transferred to such transferee in a transaction that is neither void nor voidable by the debtor or the trustee under any applicable law, including proceeds of such property, but does not include an obligation substituted for an existing obligation;
+&emsp;(2) “new value” means money or money's worth in goods, services, or new credit, or release by a transferee of property previously transferred to such transferee in a transactionthat is neither void nor voidable by the debtor or the trustee under any applicable law, including proceeds of such property, but does not include an obligation substituted for an existing obligation;
 
 &emsp;(3) “receivable” means right to payment, whether or not such right has been earned by performance; and
 
@@ -90,13 +90,13 @@
 
 (e)(1) For the purposes of this section—
 
-&emsp;(A) a transfer of real property other than fixtures, but including the interest of a seller or purchaser under a contract for the sale of real property, is perfected when a bona fide purchaser of such property from the debtor against whom applicable law permits such transfer to be perfected cannot acquire an interest that is superior to the interest of the transferee; and
+&emsp;(A) a transfer of real property other than fixtures, but including the interest of a seller or purchaser under a contract for the sale of realproperty, is perfected when a bona fide purchaser of such property from the debtor against whom applicable law permits such transfer to be perfected cannot acquire an interest that is superior to the interest of the transferee; and
 
 &emsp;(B) a transfer of a fixture or property other than real property is perfected when a creditor on a simple contract cannot acquire a judicial lien that is superior to the interest of the transferee.
 
 (2) For the purposes of this section, except as provided in paragraph (3) of this subsection, a transfer is made—
 
-&emsp;(A) at the time such transfer takes effect between the transferor and the transferee, if such transfer is perfected at, or within 10 daysafter, such time, except as provided in subsection (c)(3)(B);
+&emsp;(A) at the time such transfer takes effect between the transferor and the transferee, if such transfer is perfected at, or within 10 days after, such time, except as provided in subsection (c)(3)(B);
 
 &emsp;(B) at the time such transfer is perfected, if such transfer is perfected after such 10 days; or
 
@@ -142,7 +142,7 @@ Subsection (b) is the operative provision of the section. It authorizes the trus
 
 Finally, the transfer must enable the creditor to whom or for whose benefit it was made to receive a greater percentage of his claim than he would receive under the distributive provisions of the bankruptcy code. Specifically, the creditor must receive more than he would if the case were a liquidation case, if the transfer had not been made, and if the creditor received payment of the debt to the extent provided by the provisions of the code.
 
-The phrasing of the final element changes the application of the greater percentage test from that employed under current law. Under this language, the court must focus on the relative distribution between classes as well as the amount that will be received by the members of the class of which the creditor is a member. The language also requires the court to focus on the allowability of the claim for which the preference was made. If the claim would have been entirely disallowed, for example, then the test of paragraph (5) will be met, because the creditor would have received nothing under the distributive provisions of the bankruptcy code.
+The phrasing of the final element changes the application of the greater percentage test from that employed under current law. Under this language, the court must focus on the relative distribution between classes as well as the amount that will be received by the members of the class of which the creditor is a member. The language also requires the court to focuson the allowability of the claim for which the preference was made. If the claim would have been entirely disallowed, for example, then the test of paragraph (5) will be met, because the creditor would have received nothing under the distributive provisions of the bankruptcy code.
 
 The trustee may avoid a transfer of a lien under this section even if the lien has been enforced by sale before the commencement of the case,
 
@@ -150,7 +150,7 @@ Subsection (b)(2) of this section in effect exempts from the preference rules pa
 
 Subsection (c) contains exceptions to the trustee's avoiding power. If a creditor can qualify under any one of the exceptions, then he is protected to that extent. If he can qualify under several, he is protected by each to the extent that he can qualify under each.
 
-The first exception is for a transfer that was intended by all parties to be a contemporaneous exchange fornew value, and was in fact substantially contemporaneous. Normally, a check is a credit transaction. However, for the purposes of this paragraph, a transfer involving a check is considered to be “intended to be contemporaneous”, and if the check is presented for payment in the normal course of affairs, which the Uniform Commercial Code specifies as 30 days, U.C.C. §3–503(2)(a), that will amount to a transfer that is “in fact substantially contemporaneous.”
+The first exception is for a transfer that was intended by all parties to be a contemporaneous exchange for new value, and was in fact substantially contemporaneous. Normally, a check is a credit transaction. However, for the purposes of this paragraph, a transfer involving a check is considered to be “intended to be contemporaneous”, and if the check is presented for payment in the normal course of affairs, which the Uniform Commercial Code specifies as 30 days, U.C.C. §3–503(2)(a), that will amount to a transfer that is “in fact substantially contemporaneous.”
 
 The second exception protects transfers in the ordinary course of business (or of financial affairs, where a business is not involved) transfers. For the case of a consumer, the paragraph uses the phrase “financial affairs” to include such nonbusiness activities as payment of monthly utility bills. If the debt on account of which the transfer was made was incurred in the ordinary course of both the debtor and the transferee, if the transfer was made not later than 45 days after the debt was incurred, if the transfer itself was made in the ordinary course of both the debtor and the transferee, and if the transfer was made according to ordinary business terms, then the transfer is protected. The purpose of this exception is to leave undisturbed normal financial relations, because it does not detract from the general policy of the preference section to discourage unusual action by either the debtor or his creditors during the debtor's slide into bankruptcy.
 

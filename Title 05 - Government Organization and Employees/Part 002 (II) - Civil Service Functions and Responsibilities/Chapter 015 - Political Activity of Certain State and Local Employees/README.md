@@ -19,7 +19,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1212, 1215, 1216, 1302, 4703 of this title; title 23 section 142; title 42 sections 2996e, 3056, 4728, 9851.
+This chapter is referred to in sections 1212, 1215, 1216, 1302, 4703 of this title; title 23 section 142; title 42 sections 2996e, 3056, 4728, 9851, 9918.
 
 
 ---

@@ -24,7 +24,7 @@ In this chapter—
 
 &emsp;&emsp;(i) a county (or parish), township, borough, or city (other than in Alaska) where the city is independent of any other unit of general local government, that—
 
-&emsp;&emsp;&emsp;(I) is within the class or classes of such political subdivision in a State that the Secretary of the Interior, in his discretion, determines to be the principal provider orproviders of governmental services within the State; and
+&emsp;&emsp;&emsp;(I) is within the class or classes of such political subdivision in a State that the Secretary of the Interior, in his discretion, determines to be the principal provider or providers of governmental services within the State; and
 
 &emsp;&emsp;&emsp;(II) is a unit of general government, as determined by the Secretary of the Interior on the basis of the same principles as were used by the Secretary of Commerce on January 1, 1983, for general statistical purposes;
 

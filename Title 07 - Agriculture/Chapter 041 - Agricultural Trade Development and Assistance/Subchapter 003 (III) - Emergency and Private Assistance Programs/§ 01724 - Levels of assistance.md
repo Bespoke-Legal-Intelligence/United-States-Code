@@ -12,7 +12,7 @@
 
 #### (3) Exception
 
-&emsp;The Administrator may waive the requirements of paragraphs (1) and (2) for any fiscal year if the Administrator determines that such quantities of commodities cannot be used effectively to carry out this subchapter or in order to meet an emergency. In making a waiver under this paragraph, the Administrator shall prepare and submit to the Committee on Foreign Affairs and Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing the reasons for the waiver. No waiver shall be made before the beginning of the applicable fiscal year.
+&emsp;The Administrator may waive the requirements of paragraphs (1) and (2) for any fiscal year if the Administrator determines that such quantities of commodities cannot be used effectively to carry out this subchapter or in order to meet an emergency. In making a waiver under this paragraph, the Administrator shall prepare and submit to the Committee on Foreign Affairs and Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containingthe reasons for the waiver. No waiver shall be made before the beginning of the applicable fiscal year.
 
 #### (b) Use of value-added commodities
 

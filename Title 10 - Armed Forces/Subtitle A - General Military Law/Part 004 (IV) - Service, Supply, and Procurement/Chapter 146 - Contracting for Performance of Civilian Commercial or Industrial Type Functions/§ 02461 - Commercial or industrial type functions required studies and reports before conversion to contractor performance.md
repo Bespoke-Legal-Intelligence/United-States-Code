@@ -24,7 +24,7 @@ Notification and Elements of Analysis.—(1) Before commencing to analyze a comm
 
 &emsp;(A) An examination of the cost of performance of the function by Department of Defense civilian employees and by one or more private contractors to demonstrate whether change to performance by the private sector will result in savings to the Government over the life of the contract, including in the examination the following:
 
-&emsp;&emsp;(i) The cost to the Government, estimated by the Secretary of Defense (based on offersreceived), for performance of the function by the private sector.
+&emsp;&emsp;(i) The cost to the Government, estimated by the Secretary of Defense (based on offers received), for performance of the function by the private sector.
 
 &emsp;&emsp;(ii) The estimated cost to the Government of Department of Defense civilian employees performing the function.
 
@@ -34,7 +34,7 @@ Notification and Elements of Analysis.—(1) Before commencing to analyze a comm
 
 &emsp;&emsp;(i) Employees of the Department of Defense who would be affected by such a change in performance.
 
-&emsp;&emsp;(ii) The local community and the Government, if more than 75 employees of the Department of Defense perform the function.
+&emsp;&emsp;(ii) The local community and the Government, if more than 50 employees of the Department of Defense perform the function.
 
 &emsp;(C) An examination of the effect of performance of the function by the private sector on the military mission associated with the performance of the function.
 
@@ -86,9 +86,9 @@ Annual Reports.—Not later than February 1 of each fiscal year, the Secretary o
 
 (h)
 
-Inapplicability During War or Emergency.—The provisions of this section shall notapply during war or during a period of national emergency declared by the President or Congress.
+Inapplicability During War or Emergency.—The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
 
-(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, title XI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711; Pub. L. 105–261, div. A, title III, §342(a)–(c), Oct. 17, 1998, 112 Stat. 1974–1976.)
+(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, title XI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711; Pub. L. 105–261, div. A, title III, §342(a)–(c), Oct. 17, 1998, 112 Stat. 1974–1976; Pub. L. 106–65, div. A, title III, §341, Oct. 5, 1999, 113 Stat. 568.)
 
 #### Historical and Revision Notes
 
@@ -99,6 +99,8 @@ Section is based on Pub. L. 96–342, title V, §502, Sept. 8, 1980, 94 Stat. 10
 The Javits-Wagner-O'Day Act, referred to in subsec. (e), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 46 of Title 41 and Tables.
 
 #### Amendments
+
+1999—Subsec. (b)(3)(B)(ii). Pub. L. 106–65 substituted “50 employees” for “75 employees”.
 
 1998—Subsec. (a). Pub. L. 105–261, §342(a)(2), added subsec. (a) and struck out former subsec. (a) which provided that commercial or industrial type functions of the Department of Defense that on Oct. 1, 1980, were being performed by Department of Defense civilian employees could not be converted to performance by private contractors unless the Secretary of Defense provided certain notices, information, certifications, and reports to Congress.
 
@@ -131,6 +133,62 @@ Pub. L. 105–261, div. A, title III, §342(d), Oct. 17, 1998, 112 Stat. 1976, p
 #### Effective Date of 1996 Amendment
 
 For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+
+#### Pilot Program for Commercial Services
+
+Pub. L. 106–65, div. A, title VIII, §814, Oct. 5, 1999, 113 Stat. 711, provided that:
+
+“(a)
+
+Program Authorized.—The Secretary of Defense may carry out a pilot program to treat procurements of commercial services as procurements of commercial items.
+
+“(b)
+
+Designation of Pilot Program Categories.—The Secretary of Defense may designate the following categories of services as commercial services covered by the pilot program:
+
+&emsp;“(1) Utilities and housekeeping services.
+
+&emsp;“(2) Education and training services.
+
+&emsp;“(3) Medical services.
+
+“(c)
+
+Treatment as Commercial Items.—A Department of Defense contract for the procurement of commercial services designated by the Secretary for the pilot program shall be treated as a contract for the procurement of commercial items, as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)), if the source of the services provides similar services contemporaneously to the general public under terms and conditions similar to those offered to the Federal Government.
+
+“(d)
+
+Guidance.—Not later than 90 days after the date of the enactment of this Act \[Oct. 5, 1999\], the Secretary shall issue guidance to procurement officials on contracting for commercial services under the pilot program. The guidance shall place particular emphasis on ensuring that negotiated prices for designated services, including prices negotiated without competition, are fair and reasonable.
+
+“(e)
+
+Unified Management of Procurements.—The Secretary of Defense shall develop and implement procedures to ensure that, whenever appropriate, a single item manager or contracting officer is responsible for entering into all contracts from a single contractor for commercial services under the pilot program.
+
+“(f)
+
+Duration of Pilot Program.—(1) The pilot program shall begin on the date that the Secretary issues the guidance required by subsection (d) and may continue for a period, not in excess of five years, that the Secretary shall establish.
+
+“(2) The pilot program shall cover Department of Defense contracts for the procurement of commercial services designated by the Secretary under subsection (b) that are awarded or modified during the period of the pilot program, regardless of whether the contracts are performed during the period.
+
+“(g)
+
+Report to Congress.—(1) The Secretary shall submit to Congress a report on the impact of the pilot program on—
+
+&emsp;“(A) prices paid by the Federal Government under contracts for commercial services covered by the pilot program;
+
+&emsp;“(B) the quality and timeliness of the services provided under such contracts; and
+
+&emsp;“(C) the extent of competition for such contracts.
+
+“(2) The Secretary shall submit the report—
+
+&emsp;“(A) not later than 90 days after the end of the third full fiscal year for which the pilot program is in effect; or
+
+&emsp;“(B) if the period established for the pilot program under subsection (f)(1) does not cover three full fiscal years, not later than 90 days after the end of the designated period.
+
+“(h)
+
+Price Trend Analysis.—The Secretary of Defense shall apply the procedures developed pursuant to section 803(c) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 2081; 10 U.S.C. 2306a note) to collect and analyze information on price trends for all services covered by the pilot program and for the services in such categories of services not covered by the pilot program to which the Secretary considers it appropriate to apply those procedures.”
 
 #### Development of Standard Forms Regarding Performance Work Statement and Request for Proposal for Conversion of Certain Operational Functions of Military Installations
 

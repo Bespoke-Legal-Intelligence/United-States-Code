@@ -6,7 +6,7 @@ Consultation Regarding Appointment.—Before submitting a recommendation to the 
 
 (b)
 
-Concurrence in Appointment.—(1) Before submitting a recommendation to the President regarding the appointment of an individual to aposition referred to in paragraph (2), the Secretary of Defense shall seek the concurrence of the Director of Central Intelligence in the recommendation. If the Director does not concur in the recommendation, the Secretary may make the recommendation to the President without the Director's concurrence, but shall include in the recommendation a statement that the Director does not concur in the recommendation.
+Concurrence in Appointment.—(1) Before submitting a recommendation to the President regarding the appointment of an individual to a position referred to in paragraph (2), the Secretary of Defense shall seek the concurrence of the Director of Central Intelligence in the recommendation. If the Director does not concur in the recommendation, the Secretary may make the recommendation to the President without the Director's concurrence, but shall include in the recommendation a statement that the Director does not concur in the recommendation.
 
 (2) Paragraph (1) applies to the following positions:
 

@@ -74,7 +74,7 @@ Percent for Certain Enlisted Members Credited With Extraordinary Heroism.—(1) 
 
 1992—Subsec. (f). Pub. L. 102–484 added subsec. (f).
 
-1986—Subsec. (a). Pub. L. 99–348, §201(b)(1), amended subsec. (a) generally. Prior to the amendment, subsec. (a) read as follows: “A member of an armed force who first became a member of a uniformed service (as defined in section 1407(a)(2) of this title) after September 7, 1980, who has become entitled to retired pay or retainer pay, and who thereafter serves on active duty (other than for training), is entitled to recompute hisretired pay or retainer pay upon his release from that duty according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
+1986—Subsec. (a). Pub. L. 99–348, §201(b)(1), amended subsec. (a) generally. Prior to the amendment, subsec. (a) read as follows: “A member of an armed force who first became a member of a uniformed service (as defined in section 1407(a)(2) of this title) after September 7, 1980, who has become entitled to retired pay or retainer pay, and who thereafter serves on active duty (other than for training), is entitled to recompute his retired pay or retainer pay upon his release from that duty according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
 
 Subsec. (b). Pub. L. 99–348, §201(b)(2)(A), inserted heading.
 

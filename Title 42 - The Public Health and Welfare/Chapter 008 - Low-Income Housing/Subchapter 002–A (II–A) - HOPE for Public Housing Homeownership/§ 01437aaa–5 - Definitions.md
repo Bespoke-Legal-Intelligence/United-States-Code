@@ -22,7 +22,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(B) a low-income family; or
 
-&emsp;&emsp;(C) a family or individual who is assisted under a housing program administered by the Secretary or the Secretary of Agriculture (not including any non-low incomefamilies assisted under any mortgage insurance program administered by either Secretary).
+&emsp;&emsp;(C) a family or individual who is assisted under a housing program administered by the Secretary or the Secretary of Agriculture (not including any non-low income families assisted under any mortgage insurance program administered by either Secretary).
 
 &emsp;(3) The term “homeownership program” means a program for homeownership meeting the requirements under this subchapter.
 

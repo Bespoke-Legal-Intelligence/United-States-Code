@@ -18,7 +18,7 @@ The head of the Cuba Service and the head of the Television Marti Service shall 
 
 #### (e) Compensation; travel expenses
 
-Members of the Advisory Board appointed by the President shall, while attending meetings of the Advisory Board or while engaged in duties relating to such meetings or in other activities of the Advisory Board pursuant to this section, including traveltime, be entitled to receive compensation equal to the daily equivalent of the compensation prescribed for level V of the Executive Schedule under section 5316 of title 5. While away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5703) for persons in the Government service employed intermittently. The ex officio members of the Advisory Board shall not be entitled to any compensation under this section, but may be allowed travel expenses as provided in the preceding sentence.
+Members of the Advisory Board appointed by the President shall, while attending meetings of the Advisory Board or while engaged in duties relating to such meetings or in other activities of the Advisory Board pursuant to this section, including traveltime, be entitled to receive compensation equal to the daily equivalent of thecompensation prescribed for level V of the Executive Schedule under section 5316 of title 5. While away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5703) for persons in the Government service employed intermittently. The ex officio members of the Advisory Board shall not be entitled to any compensation under this section, but may be allowed travel expenses as provided in the preceding sentence.
 
 #### (f) Procurement powers of Advisory Board
 
@@ -68,7 +68,7 @@ Subsec. (e). Pub. L. 101–246, §245(a)(4), substituted “The ex officio membe
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
 #### Former References to Advisory Board for Radio Broadcasting to Cuba
 

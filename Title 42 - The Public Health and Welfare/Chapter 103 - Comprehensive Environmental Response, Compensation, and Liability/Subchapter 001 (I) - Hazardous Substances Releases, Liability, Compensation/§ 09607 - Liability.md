@@ -24,7 +24,7 @@ Notwithstanding any other provision or rule of law, and subject only to the defe
 
 #### (b) Defenses
 
-There shall be no liability under subsection (a) of this section for a person otherwise liable who can establish by a preponderance of the evidence that the release or threat of release of a hazardous substance and the damages resulting therefrom were caused solely by—
+There shall be no liability under subsection (a) of this section for a person otherwise liable whocan establish by a preponderance of the evidence that the release or threat of release of a hazardous substance and the damages resulting therefrom were caused solely by—
 
 &emsp;(1) an act of God;
 
@@ -66,7 +66,7 @@ There shall be no liability under subsection (a) of this section for a person ot
 
 #### (e) Indemnification, hold harmless, etc., agreements or conveyances; subrogation rights
 
-(1) No indemnification, hold harmless, or similar agreement or conveyance shall be effective to transfer from the owner or operator of any vessel or facility or from any person who may be liable for a release or threat of release under this section, to any other person the liability imposed under this section. Nothing in this subsection shall bar any agreement to insure, hold harmless, or indemnify a party to such agreement for any liability under this section.
+(1) No indemnification, hold harmless, or similar agreement or conveyance shall be effectiveto transfer from the owner or operator of any vessel or facility or from any person who may be liable for a release or threat of release under this section, to any other person the liability imposed under this section. Nothing in this subsection shall bar any agreement to insure, hold harmless, or indemnify a party to such agreement for any liability under this section.
 
 (2) Nothing in this subchapter, including the provisions of paragraph (1) of this subsection, shall bar a cause of action that an owner or operator or any other person subject to liability under this section, or a guarantor, has or would have, by reason of subrogation or otherwise against any person.
 
@@ -100,7 +100,7 @@ The owner or operator of a vessel shall be liable in accordance with this sectio
 
 #### (i) Application of a registered pesticide product
 
-No person (including the United States or any State or Indian tribe) may recover under the authority of this section for any response costs or damages resulting from the application of a pesticide product registered under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\]. Nothing in this paragraph shall affect or modify in any way the obligations or liability of any person under any other provision of State or Federal law, including common law, for damages, injury, or loss resulting from a release of any hazardous substance or for removal or remedial action or the costs of removal or remedial action of such hazardous substance.
+No person (including the United States or any State or Indian tribe) may recover under the authority of this section for any response costs or damages resulting from the application of a pesticide product registered under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\]. Nothing in this paragraphshall affect or modify in any way the obligations or liability of any person under any other provision of State or Federal law, including common law, for damages, injury, or loss resulting from a release of any hazardous substance or for removal or remedial action or the costs of removal or remedial action of such hazardous substance.
 
 #### (j) Obligations or liability pursuant to federally permitted release
 
@@ -116,11 +116,11 @@ Recovery by any person (including the United States or any State or Indian tribe
 
 (2) Such transfer of liability shall be effective ninety days after the owner or operator of such facility notifies the Administrator of the Environmental Protection Agency (and the State where it has an authorized program under section 3006(b) of the Solid Waste Disposal Act \[42 U.S.C. 6926(b)\]) that the conditions imposed by this subsection have been satisfied. If within such ninety-day period the Administrator of the Environmental Protection Agency or such State determines that any such facility has not complied with all the conditions imposed by this subsection or that insufficient information has been provided to demonstrate such compliance, the Administrator or such State shall so notify the owner and operator of such facility and the administrator of the Fund established by section 9641 <sup>1</sup> of this title, and the owner and operator of such facility shall continue to be liable with respect to such facility under this section and other law until such time as the Administrator and such State determines that such facility has complied with all conditions imposed by this subsection. A determination by the Administrator or such State that a facility has not complied with all conditions imposed by this subsection or that insufficient information has been supplied to demonstrate compliance, shall be a final administrative action for purposes of judicial review. A request for additional information shall state in specific terms the data required.
 
-(3) In addition to the assumption of liability of owners and operators under paragraph (1) of this subsection, the Post-closure Liability Fund established by section 9641 <sup>1</sup> of this title may be used to pay costs of monitoring and care andmaintenance of a site incurred by other persons after the period of monitoring required by regulations under subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\] for hazardous waste disposal facilities meeting the conditions of paragraph (1) of this subsection.
+(3) In addition to the assumption of liability of owners and operators under paragraph (1) of this subsection, the Post-closure Liability Fund established by section 9641 <sup>1</sup> of this title may be used to pay costs of monitoring and care and maintenance of a site incurred by other persons after the period of monitoring required by regulations under subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\] for hazardous waste disposal facilities meeting the conditions of paragraph (1) of this subsection.
 
 (4)(A) Not later than one year after December 11, 1980, the Secretary of the Treasury shall conduct a study and shall submit a report thereon to the Congress on the feasibility of establishing or qualifying an optional system of private insurance for postclosure financial responsibility for hazardous waste disposal facilities to which this subsection applies. Such study shall include a specification of adequate and realistic minimum standards to assure that any such privately placed insurance will carry out the purposes of this subsection in a reliable, enforceable, and practical manner. Such a study shall include an examination of the public and private incentives, programs, and actions necessary to make privately placed insurance a practical and effective option to the financing system for the Post-closure Liability Fund provided in subchapter II <sup>1</sup> of this chapter.
 
-(B) Not later than eighteen months after December 11, 1980, and after a public hearing, the President shall by rule determine whether or not it is feasible to establish or qualify an optional system of private insurance for postclosure financial responsibility for hazardous waste disposal facilities to which this subsection applies. If the President determines the establishment or qualification of such a system would be infeasible, he shall promptly publish an explanation of the reasons for such a determination. If the President determines the establishment or qualification of such a system would be feasible, he shall promptly publish notice of such determination. Not later than six months after an affirmative determination under the preceding sentence and after a public hearing, the President shall by rule promulgate adequate and realistic minimum standards which must be met by any such privately placed insurance, taking into account the purposes of this chapter and this subsection. Such rules shall also specify reasonably expeditious procedures by which privately placed insurance plans can qualify as meeting such minimum standards.
+(B) Not later than eighteen months after December 11, 1980, and after a public hearing, the President shall by rule determine whether or not it is feasible to establish or qualify an optional system of private insurance for postclosure financial responsibility for hazardous waste disposal facilities to which this subsection applies. If the President determines the establishment or qualification of such a system would be infeasible, he shall promptly publish an explanation of the reasons for such a determination. If the President determines the establishment or qualification of such a system would be feasible, he shall promptly publish notice of such determination. Not later than six months after an affirmative determination under the preceding sentence and after a public hearing, the President shall by rule promulgate adequate and realistic minimum standards which must be met byany such privately placed insurance, taking into account the purposes of this chapter and this subsection. Such rules shall also specify reasonably expeditious procedures by which privately placed insurance plans can qualify as meeting such minimum standards.
 
 (C) In the event any privately placed insurance plan qualifies under subparagraph (B), any person enrolled in, and complying with the terms of, such plan shall be excluded from the provisions of paragraphs (1), (2), and (3) of this subsection and exempt from the requirements to pay any tax or fee to the Post-closure Liability Fund under subchapter II <sup>1</sup> of this chapter.
 
@@ -328,7 +328,7 @@ All costs and damages for which the owner or operator of a vessel is liable unde
 
 #### References in Text
 
-Such amendments, referred to in the last sentence of subsec. (a), probably means the amendments made by Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613, known as the “Superfund Amendments and Reauthorization Act of1986”. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 9601 of this title and Tables.
+Such amendments, referred to in the last sentence of subsec. (a), probably means the amendments made by Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613, known as the “Superfund Amendments and Reauthorization Act of 1986”. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 9601 of this title and Tables.
 
 Act of March 3, 1851 (46 U.S.C. 183ff), referred to in subsec. (h), is act Mar. 3, 1851, ch. 43, 9 Stat. 635, which was incorporated into the Revised Statutes as R.S. §§4282 to 4287 and 4289, and is classified to sections 182, 183, and 184 to 188 of Title 46, Appendix, Shipping.
 
@@ -412,7 +412,7 @@ Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6924, 6939a, 6991b, 6991c, 9601, 9603, 9606, 9608, 9611, 9612, 9613, 9614, 9619, 9620, 9622, 9624, 9651, 9656, 9658 of this title; title 14 section 692; title 16 sections 1437, 1443; title 26 section 9507.
+This section is referred to in sections 6924, 6939a, 6991b, 6991c, 9601, 9603, 9606, 9608, 9611, 9612, 9613, 9614, 9619, 9620, 9622, 9624, 9627, 9651, 9656, 9658 of this title; title 14 section 692; title 16 sections 1437, 1443; title 26 section 9507.
 
 <i><sup>1</sup></i><i>See References in Text note below.</i>
 

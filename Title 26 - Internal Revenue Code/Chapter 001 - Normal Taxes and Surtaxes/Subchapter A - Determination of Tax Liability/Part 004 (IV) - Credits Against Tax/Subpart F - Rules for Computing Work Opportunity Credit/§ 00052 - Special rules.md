@@ -70,7 +70,7 @@ Subsec. (d)(2). Pub. L. 98–369, §474(p)(7), substituted “, subject to sect
 
 Subsecs. (c), (d). Pub. L. 95–600, §321(c)(1)(A), struck out subsec. (c) which related to dispositions by an employer, and redesignated subsecs. (d) and (f) as (c) and (d), respectively.
 
-Subsec. (e). Pub. L. 95–600, §321(c)(1)(A), (C), redesignated subsec. (g) as (e) and struck out par. (3) which provided that the $100,000 amount specified in section 51(d) applicable to such estate or trust be reduced to an amount which bears the same ratio to $100,000 as theportion of the credit allocable to the estate or trust under paragraph (1) bears to the entire amount of such credit. Former subsec. (e), which related to a change in status from self-employed to employee, was struck out.
+Subsec. (e). Pub. L. 95–600, §321(c)(1)(A), (C), redesignated subsec. (g) as (e) and struck out par. (3) which provided that the $100,000 amount specified in section 51(d) applicable to such estate or trust be reduced to an amount which bears the same ratio to $100,000 as the portion of the credit allocable to the estate or trust under paragraph (1) bears to the entire amount of such credit. Former subsec. (e), which related to a change in status from self-employed to employee, was struck out.
 
 Subsecs. (f) to (h). Pub. L. 95–600, §321(c)(1)(A), redesignated subsecs. (f) to (h) as (d) to (f), respectively.
 
@@ -116,5 +116,5 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 29, 40, 41, 42, 44, 45, 45A, 51, 51A, 264, 280C, 448, 453A, 460, 465, 474, 685, 860L, 1044, 1397, 5000, 6053, 9701 of this title; title 42 section 1395y.
+This section is referred to in sections 29, 40, 41, 42, 44, 45, 45A, 51, 51A, 264, 280C, 448, 453A, 460, 465, 474, 685, 856, 860L, 1044, 1397, 5000, 6053, 9701 of this title; title 42 section 1395y.
 

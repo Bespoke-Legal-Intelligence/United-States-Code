@@ -16,7 +16,7 @@ A prior section 301 of act July 10, 1954, ch. 469, title III, 68 Stat. 458, whic
 
 #### Amendments
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions outliningCongressional purpose with regard to Food for Development Program, establishment of program, goal of assistance under program, range of assistance and emphasized activities, and use of funds for disaster assistance.
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions outlining Congressional purpose with regard to Food for Development Program, establishment of program, goal of assistance under program, range of assistance and emphasized activities, and use of funds for disaster assistance.
 
 1988—Subsec. (c). Pub. L. 100–576 added subsec. (c).
 

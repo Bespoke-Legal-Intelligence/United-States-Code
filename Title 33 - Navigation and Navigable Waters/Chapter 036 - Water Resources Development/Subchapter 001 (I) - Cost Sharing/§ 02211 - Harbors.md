@@ -36,7 +36,7 @@
 
 #### (2) Dredged material disposal facilities
 
-&emsp;The Federal share of the cost of constructing land-based and aquatic dredged material disposal facilities that are necessary for the disposal of dredged material required for the operation and maintenance of a project and for which a contract for construction has not been awarded on or before October 12, 1996, shall be determined in accordance with subsection (a) of this section. The Federal shareof operating and maintaining such facilities shall be determined in accordance with paragraph (1).
+&emsp;The Federal share of the cost of constructing land-based and aquatic dredged material disposal facilities that are necessary for the disposal of dredged material required for the operation and maintenance of a project and for which a contract for construction has not been awarded on or before October 12, 1996, shall be determined in accordance with subsection (a) of this section. The Federal share of operating and maintaining such facilities shall be determined in accordance with paragraph (1).
 
 #### (c) Erosion or shoaling attributable to Federal navigation works
 
@@ -84,7 +84,7 @@ Subsec. (a)(5). Pub. L. 104–303, §201(a)(3), added par. (5).
 
 Subsec. (b). Pub. L. 104–303, §201(b), designated existing provisions as par. (1), inserted heading, realigned margins, and substituted “by the Secretary pursuant to this Act or any other law approved after November 17, 1986” for “pursuant to this Act”, and added par. (2).
 
-Subsec. (e)(1). Pub. L. 104–303, §201(c), substituted “including those necessary for dredged material disposal facilities,” for “and to provide dredged material disposal areas”.
+Subsec. (e)(1). Pub. L. 104–303, §201(c), substituted “including those necessary for dredged material disposalfacilities,” for “and to provide dredged material disposal areas”.
 
 Subsec. (f). Pub. L. 104–303, §201(d), added subsec. (f).
 
@@ -96,13 +96,41 @@ Subsec. (f). Pub. L. 104–303, §201(d), added subsec. (f).
 
 Section 13(b) of Pub. L. 100–676 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on November 17, 1986.”
 
+#### Deep Draft Harbor Cost Sharing
+
+Pub. L. 106–53, title IV, §401, Aug. 17, 1999, 113 Stat. 322, provided that:
+
+“(a)
+
+In General.—The Secretary shall undertake a study of non-Federal cost-sharing requirements for the construction and operation and maintenance of deep draft harbor projects to determine whether—
+
+&emsp;“(1) cost sharing adversely affects United States port development or domestic and international trade; and
+
+&emsp;“(2) any revision of the cost-sharing requirements would benefit United States domestic and international trade.
+
+“(b)
+
+Recommendations.—
+
+&emsp;“(1)
+
+In general.—Not later than May 30, 2001, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives any recommendations that the Secretary may have in light of the study under subsection (a).
+
+&emsp;“(2)
+
+Considerations.—In making recommendations, the Secretary shall consider—
+
+&emsp;&emsp;“(A) the potential economic, environmental, and budgetary impacts of any proposed revision of the cost-sharing requirements; and
+
+&emsp;&emsp;“(B) the effect that any such revision would have on regional port competition.”
+
 #### Amendment of Cooperation Agreement
 
 Section 201(f) of Pub. L. 104–303 provided that: “If requested by the non-Federal interest, the Secretary shall amend a project cooperation agreement executed on or before the date of the enactment of this Act \[Oct. 12, 1996\] to reflect the application of the amendments made by this section \[amending this section and section 2241 of this title\] to any project for which a contract for construction has not been awarded on or before that date.”
 
 #### Increases in Non-Federal Share of Costs
 
-Section 201(g) of Pub. L. 104–303 provided that: “Nothing in this section \[amending this section and section 2241 of this title and enacting provisions set out above\]\(including the amendments made by this section) shall increase, or result in the increase of, the non-Federal share of the costs of—
+Section 201(g) of Pub. L. 104–303 provided that: “Nothing in this section \[amending this section and section 2241 of this title and enacting provisions set out above\] (including the amendments made by this section) shall increase, or result in the increase of, the non-Federal share of the costs of—
 
 &emsp;“(1) expanding any confined dredged material disposal facility that is operated by the Secretary and that is authorized for cost recovery through the collection of tolls;
 

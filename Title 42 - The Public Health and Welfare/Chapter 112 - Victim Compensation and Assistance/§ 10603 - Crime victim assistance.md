@@ -112,7 +112,7 @@ As used in this section—
 
 #### References in Text
 
-Section 10601(d)(2) of this title, referred to in subsec. (a)(1), was repealed and a new section 10601(d)(2) was added by Pub. L. 103–322, title XXIII, §230201(a)(1), Sept. 13, 1994, 108 Stat. 2079. The new section 10601(d)(2) does not contain provisions relating to availability of Fund money for grants under this section or section 10602 of this title. See section 10601(d)(3) of this title.
+Section 10601(d)(2) of this title, referred to in subsec. (a)(1), was repealed and a new section 10601(d)(2) was added by Pub. L. 103–322, title XXIII, §230201(a)(1), Sept. 13, 1994, 108 Stat. 2079. The new section 10601(d)(2) does not contain provisions relating to availability of Fund money for grants under this section or section 10602 of this title. See section 10601(d)(4) of this title.
 
 #### Amendments
 

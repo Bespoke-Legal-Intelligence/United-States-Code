@@ -10,13 +10,17 @@ A person shall be entitled to a patent unless—
 
 (d) the invention was first patented or caused to be patented, or was the subject of an inventor's certificate, by the applicant or his legal representatives or assigns in a foreign country prior to the date of the application for patent in this country on an application for patent or inventor's certificate filed more than twelve months before the filing of the application in the United States, or
 
-(e) the invention was described in a patent granted on an application for patent by another filed in the United States before the invention thereof by the applicant for patent, or on an international application by another who has fulfilled the requirements of paragraphs (1), (2), and (4) of section 371(c) of this title before the invention thereof by the applicant for patent, or
+(e) The <sup>1</sup> invention was described in—
+
+&emsp;(1) an application for patent, published under section 122(b), by another filed in the United States before the invention by the applicant for patent, except that an international application filed under the treaty defined in section 351(a) shall have the effect under this subsection of a national application published under section 122(b) only if the international application designating the United States was published under Article 21(2)(a) of such treaty in the English language; or
+
+&emsp;(2) a patent granted on an application for patent by another filed in the United States before the invention by the applicant for patent, except that a patent shall not be deemed filed in the United States for the purposes of this subsection based on the filing of an international application filed under the treaty defined in section 351(a); <sup>2</sup> or
 
 (f) he did not himself invent the subject matter sought to be patented, or
 
-(g) before the applicant's invention thereof the invention was made in this country by another who had not abandoned, suppressed, or concealed it. In determining priority of invention there shall be considered not only the respective dates of conception and reduction to practice of the invention, but also the reasonable diligence of one who was first to conceive and last to reduce to practice, from a time prior to conception by the other.
+(g)(1) during the course of an interference conducted under section 135 or section 291, another inventor involved therein establishes, to the extent permitted in section 104, that before such person's invention thereof the invention was made by such other inventor and not abandoned, suppressed, or concealed, or (2) before such person's invention thereof, the invention was madein this country by another inventor who had not abandoned, suppressed, or concealed it. In determining priority of invention under this subsection, there shall be considered not only the respective dates of conception and reduction to practice of the invention, but also the reasonable diligence of one who was first to conceive and last to reduce to practice, from a time prior to conception by the other.
 
-(July 19, 1952, ch. 950, 66 Stat. 797; Pub. L. 92–358, §2, July 28, 1972, 86 Stat. 502; Pub. L. 94–131, §5, Nov. 14, 1975, 89 Stat. 691.)
+(July 19, 1952, ch. 950, 66 Stat. 797; Pub. L. 92–358, §2, July 28, 1972, 86 Stat. 502; Pub. L. 94–131, §5, Nov. 14, 1975, 89 Stat. 691; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4505, 4806\], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, 1501A–590.)
 
 #### Historical and Revision Notes
 
@@ -38,9 +42,17 @@ Language relating specifically to designs is omitted for inclusion in subsequent
 
 #### Amendments
 
+1999—Subsec. (e). Pub. L. 106–113, §1000(a)(9) \[title IV, §4505\], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “the invention was described in a patent granted on an application for patent by another filed in the United States before the invention thereof by the applicant for patent, or on an international application by another who has fulfilled the requirements of paragraphs (1), (2), and (4) of section 371(c) of this title before the invention thereof by the applicant for patent, or”.
+
+Subsec. (g). Pub. L. 106–113, §1000(a)(9) \[title IV, §4806\], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “before the applicant's invention thereof the invention was made in this country by another who had not abandoned, suppressed, or concealed it. In determining priority of invention there shall be considered not only the respective dates of conception and reduction to practice of the invention, but also the reasonable diligence of one who was first to conceive and last to reduce to practice, from a time prior to conception by the other.”
+
 1975—Par. (e). Pub. L. 94–131 inserted provision for nonentitlement to a patent where the invention was described in a patent granted on an international application by another who has fulfilled the requirements of pars. (1), (2), and (4) of section 371(c) of this title before the invention thereof by the applicant for patent.
 
 1972—Subsec. (d). Pub. L. 92–358 inserted reference to inventions that were the subject of an inventors’ certificate.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by section 1000(a)(9) \[title IV, §4505\] of Pub. L. 106–113 effective on date that is 1 year after Nov. 29, 1999, and applicable to all applications filed under section 111 of this title on or after that date, all applications complying with section 371 of this title that resulted from international applications filed on or after that date, and to any such application voluntarily published by the applicant under procedures established under Pub. L. 106–113, §1000(a)(9) \[title IV, subtitle E (§§4501–4508)\] that is pending 1 year after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4508\] of Pub. L. 106–113, set out as a note under section 10 of this title.
 
 #### Effective Date of 1975 Amendment
 
@@ -74,5 +86,9 @@ Time of prior use or publication for design patents, see section 172 of this tit
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 103, 172, 363, 375 of this title.
+This section is referred to in sections 103, 172, 273, 363, 374, 375 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

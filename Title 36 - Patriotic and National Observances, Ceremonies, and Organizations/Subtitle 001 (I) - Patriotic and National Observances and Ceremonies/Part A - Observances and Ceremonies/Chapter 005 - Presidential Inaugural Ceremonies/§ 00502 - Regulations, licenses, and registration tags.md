@@ -8,7 +8,7 @@ Regulations and Licenses.—For each inaugural period, the Council of the Distri
 
 &emsp;(2) prescribe special regulations related to the standing, movement, and operation of vehicles; and
 
-&emsp;(3) grant special licenses to peddlers and vendors to sell merchandise in places the Council considers proper, subject to conditions and fees for the licenses the Council considers proper.
+&emsp;(3) grant special licenses to peddlers and vendors to sell merchandise in places the Council considers proper, subject to conditionsand fees for the licenses the Council considers proper.
 
 (b)
 

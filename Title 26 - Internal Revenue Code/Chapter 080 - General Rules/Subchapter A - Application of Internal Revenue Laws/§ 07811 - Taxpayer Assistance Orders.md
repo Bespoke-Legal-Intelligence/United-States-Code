@@ -46,7 +46,7 @@ The terms of a Taxpayer Assistance Order may require the Secretary within a spec
 
 Any Taxpayer Assistance Order issued by the National Taxpayer Advocate under this section may be modified or rescinded—
 
-&emsp;(1) only by the National Taxpayer Advocate, the Commissioner of Internal Revenue, or theDeputy Commissioner of Internal Revenue, and
+&emsp;(1) only by the National Taxpayer Advocate, the Commissioner of Internal Revenue, or the Deputy Commissioner of Internal Revenue, and
 
 &emsp;(2) only if a written explanation of the reasons for the modification or rescission is provided to the National Taxpayer Advocate.
 

@@ -16,7 +16,7 @@ The Federal Property and Administrative Services Act of 1949, as amended, referr
 
 This Act and the Small Business and Federal Procurement Competition Enhancement Act of 1984, referred to in provision preceding par. (1) and par. (2), is Pub. L. 98–577, Oct. 30, 1984, 98 Stat. 3066. For complete classification of this Act to the Code, see Short Title note set out under section 251 of this title and Tables.
 
-The Defense Procurement Reform Act of 1984, referred to in par. (2), is Pub. L. 98–525, title XII, Oct. 19, 1984, 98 Stat. 2588. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 2302 of Title 10, Armed Forces, and Tables.
+The Defense Procurement Reform Act of 1984, referred to in par. (2), is Pub. L. 98–525, title XII, Oct. 19,1984, 98 Stat. 2588. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 2302 of Title 10, Armed Forces, and Tables.
 
 #### Codification
 

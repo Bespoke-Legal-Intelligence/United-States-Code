@@ -42,11 +42,29 @@
 
 &emsp;&emsp;(B) the administration of this subchapter and subchapter III of this chapter; and
 
-&emsp;(2) perform such other duties as the Board may direct with respect to investment funds established in accordance with subchapter III of this chapter.
+&emsp;(2) perform such other duties as the Board may direct with respect to investment fundsestablished in accordance with subchapter III of this chapter.
 
 (f) Section 14(a)(2) of the Federal Advisory Committee Act shall not apply to the Council.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 579; amended Pub. L. 103–89, §3(b)(1)(N), Sept. 30, 1993, 107 Stat. 982.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 579; amended Pub. L. 103–89, §3(b)(1)(N), Sept. 30, 1993, 107 Stat. 982; Pub. L. 106–65, div. A, title VI, §661(a)(6), Oct. 5, 1999, 113 Stat. 672.)
+
+#### Contingent Amendment of Section
+
+<i>Pub. L. 106–65, div. A, title VI, §§661(a)(6), 663, Oct. 5, 1999, 113 Stat. 672, 673, provided that effective only if the President proposes in the 2001 fiscal year budget and there is enacted in the second session of the One Hundred Sixth Congress qualifying offsetting legislation, this section is amended—</i>
+
+<i>(1) in subsection (a), by striking “14 members” and inserting “15 members”; and</i>
+
+<i>(2) in subsection (b)—</i>
+
+<i>(A) by striking “14 members” and inserting “15 members”;</i>
+
+<i>(B) by striking “and” at the end of paragraph (8);</i>
+
+<i>(C) by striking the period at the end of paragraph (9) and inserting “; and”; and</i>
+
+<i>(D) by adding at the end the following:</i>
+
+(10) 1 shall be appointed to represent participants (under section 8440e) who are members of the uniformed services.
 
 #### References in Text
 
@@ -55,6 +73,10 @@ Section 14(a)(2) of the Federal Advisory Committee Act \[Pub. L. 92–463\], ref
 #### Amendments
 
 1993—Subsec. (b)(8). Pub. L. 103–89 substituted “supervisors and management officials (as defined by section 7103(a))” for “individuals subject to the Performance Management and Recognition System under chapter 54 of this title”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–65 effective only if the President proposes in the 2001 fiscal year budget and there is enacted in the second session of the One Hundred Sixth Congress qualifying offsetting legislation, see section 663 of Pub. L. 106–65, set out as an Effective Date note under section 8440e of this title.
 
 #### Effective Date of 1993 Amendment
 

@@ -28,7 +28,7 @@
 
 (f) A prosecution of an offense under this section may be commenced any time not later than 7 years after the offense is committed, plus any additional time otherwise allowed by law.
 
-(g)(1) In special circumstances and in his or her sole discretion, the Attorney General is authorized to make payments from funds appropriated to the Department of Justice to persons who furnish information relating to a possible prosecution under this section. The amount of such payment shall not exceed $250,000. Upon application by the Attorney General, the courtmay order that the Department shall be reimbursed for a payment from a criminal fine imposed under this section.
+(g)(1) In special circumstances and in his or her sole discretion, the Attorney General is authorized to make payments from funds appropriated to the Department of Justice to persons who furnish information relating to a possible prosecution under this section. The amount of such payment shall not exceed $250,000. Upon application by the Attorney General, the court may order that the Department shall be reimbursed for a payment from a criminal fine imposed under this section.
 
 (2) An individual is not eligible for such a payment if—
 

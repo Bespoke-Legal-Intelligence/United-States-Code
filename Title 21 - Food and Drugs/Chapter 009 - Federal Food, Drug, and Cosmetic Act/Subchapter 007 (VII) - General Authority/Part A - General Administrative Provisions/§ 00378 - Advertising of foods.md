@@ -22,7 +22,7 @@
 
 &emsp;(A) it has initiated under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] an investigation of such advertising to determine if it is prohibited by such Act or any order or rule under such Act,
 
-&emsp;(B) it has commenced (or intends to commence) a civil action under section 5, 13, or 19 \[15 U.S.C. 45, 53, or 57b\] with respect to such advertising or the Attorney General has commenced (or intends to commence) a civil action under section 5 \[15 U.S.C. 45\] with respect to such advertising,
+&emsp;(B) it has commenced (or intends to commence) a civil action under section 5, 13, or 19 \[15 U.S.C. 45, 53, or 57b\] with respect to suchadvertising or the Attorney General has commenced (or intends to commence) a civil action under section 5 \[15 U.S.C. 45\] with respect to such advertising,
 
 &emsp;(C) it has issued and served (or intends to issue and serve) a complaint under section 5(b) of such Act \[15 U.S.C. 45(b)\] respecting such advertising, or
 
@@ -36,7 +36,7 @@
 
 &emsp;(B) the Commission does not issue and serve a complaint described in subparagraph (C) of such paragraph respecting such advertising, or
 
-&emsp;(C) the Commission does not (as described in subparagraph (D) of such paragraph) make a certification to the Attorney General respecting such advertising, or, if the Commission does make such a certification to the Attorney General respecting such advertising, the Attorney General, before the expiration ofsuch period, does not cause appropriate criminal proceedings to be brought against such advertising,
+&emsp;(C) the Commission does not (as described in subparagraph (D) of such paragraph) make a certification to the Attorney General respecting such advertising, or, if the Commission does make such a certification to the Attorney General respecting such advertising, the Attorney General, before the expiration of such period, does not cause appropriate criminal proceedings to be brought against such advertising,
 
 > the Secretary may, after the expiration of such period, initiate the action described in the notice to the Commission pursuant to subsection (a) of this section. The Commission shall promptly notify the Secretary of the commencement by the Commission of such a civil action, the issuance and service by it of such a complaint, or the causing by the Attorney General of criminal proceedings to be brought against such advertising.
 

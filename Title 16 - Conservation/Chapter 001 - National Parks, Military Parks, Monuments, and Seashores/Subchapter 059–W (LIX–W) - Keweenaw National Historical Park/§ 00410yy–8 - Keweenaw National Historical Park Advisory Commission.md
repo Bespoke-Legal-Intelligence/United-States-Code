@@ -36,13 +36,13 @@ There is established the Keweenaw National Historical Park Advisory Commission. 
 
 &emsp;The Commission shall be composed of seven members appointed by the Secretary, of whom—
 
-&emsp;&emsp;(A) two members shall be appointed from nominees submitted by the Calumet Village Council and the Calumet Township Board;
+&emsp;&emsp;(A) two members shall be appointed after consideration of nominees submitted by the Calumet Village Council and the Calumet Township Board;
 
-&emsp;&emsp;(B) one member shall be appointed from nominees submitted by the Quincy Township Board and the Franklin Township Board;
+&emsp;&emsp;(B) one member shall be appointed after consideration of nominees submitted by the Quincy Township Board and the Franklin Township Board;
 
-&emsp;&emsp;(C) one member shall be appointed from nominees submitted by the Houghton County Board of Commissioners;
+&emsp;&emsp;(C) one member shall be appointed after consideration of nominees submitted by the Houghton County Board of Commissioners;
 
-&emsp;&emsp;(D) one member shall be appointed from nominees submitted by the Governor of the State of Michigan; and,<sup>1</sup>
+&emsp;&emsp;(D) one member shall be appointed after consideration of nominees submitted by the Governor of the State of Michigan; and,<sup>1</sup>
 
 &emsp;&emsp;(E) two members who are qualified to serve on the Commission because of their familiarity with National Parks and historic preservation.
 
@@ -102,7 +102,11 @@ The Commission may appoint and fix the pay of such personnel as the Commission d
 
 The Commission may, for the purpose of carrying out this subchapter, hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Commission considers appropriate. The Commission may not issue subpoenas or exercise any subpoena authority.
 
-(Pub. L. 102–543, §9, Oct. 27, 1992, 106 Stat. 3572.)
+(Pub. L. 102–543, §9, Oct. 27, 1992, 106 Stat. 3572; Pub. L. 106–134, §1, Dec. 7, 1999, 113 Stat. 1684.)
+
+#### Amendments
+
+1999—Subsec. (c)(1)(A) to (D). Pub. L. 106–134 substituted “after consideration of nominees” for “from nominees”.
 
 #### Termination of Advisory Commissions
 

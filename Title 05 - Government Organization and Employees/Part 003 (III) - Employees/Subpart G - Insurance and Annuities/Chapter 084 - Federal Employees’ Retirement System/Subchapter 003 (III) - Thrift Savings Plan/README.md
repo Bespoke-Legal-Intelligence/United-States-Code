@@ -9,10 +9,11 @@ This subchapter is referred to in sections 8116, 8351, 8402, 8424, 8461, 8471, 8
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 08431 - Repealed. Pub. L. 104&#8211;208, div. A, title I, &sect;101(f) \[title VI, &sect;659 \[title II, &sect;206(a)(2)\]\], Sept. 30, 1996, 110 Stat. 3009&#8211;314&#8230;](%C2%A7%2008431%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93208%2C%20div.%20A%2C%20title%20I%2C%20%C2%A7101%28f%29%20%5Btitle%20VI%2C%20%C2%A7659%20%5Btitle%20II%2C%20%C2%A7206%28a%29%282%29%5D%5D%2C%20Sept.%2030%2C%201996%2C%20110%20Stat.%203009%E2%80%93314%E2%80%A6.md)
+- [&sect; 08431 - Certain transfers to be treated as a separation](%C2%A7%2008431%20-%20Certain%20transfers%20to%20be%20treated%20as%20a%20separation.md)
 - [&sect; 08432 - Contributions](%C2%A7%2008432%20-%20Contributions.md)
 - [&sect; 08432a - Payment of lost earnings](%C2%A7%2008432a%20-%20Payment%20of%20lost%20earnings.md)
 - [&sect; 08432b - Contributions of persons who perform military service](%C2%A7%2008432b%20-%20Contributions%20of%20persons%20who%20perform%20military%20service.md)
+- [&sect; 08432c - Contributions of certain persons reemployed after service with international organizations](%C2%A7%2008432c%20-%20Contributions%20of%20certain%20persons%20reemployed%20after%20service%20with%20international%20organizations.md)
 - [&sect; 08433 - Benefits and election of benefits](%C2%A7%2008433%20-%20Benefits%20and%20election%20of%20benefits.md)
 - [&sect; 08434 - Annuities methods of payment; election; purchase](%C2%A7%2008434%20-%20Annuities%20methods%20of%20payment%3B%20election%3B%20purchase.md)
 - [&sect; 08435 - Protections for spouses and former spouses](%C2%A7%2008435%20-%20Protections%20for%20spouses%20and%20former%20spouses.md)
@@ -25,3 +26,4 @@ This subchapter is referred to in sections 8116, 8351, 8402, 8424, 8461, 8471, 8
 - [&sect; 08440b - Bankruptcy judges and magistrates](%C2%A7%2008440b%20-%20Bankruptcy%20judges%20and%20magistrates.md)
 - [&sect; 08440c - Court of Federal Claims judges](%C2%A7%2008440c%20-%20Court%20of%20Federal%20Claims%20judges.md)
 - [&sect; 08440d - Judges of the United States Court of Appeals for Veterans Claims](%C2%A7%2008440d%20-%20Judges%20of%20the%20United%20States%20Court%20of%20Appeals%20for%20Veterans%20Claims.md)
+- [&sect; 08440e - Members of the uniformed services](%C2%A7%2008440e%20-%20Members%20of%20the%20uniformed%20services.md)

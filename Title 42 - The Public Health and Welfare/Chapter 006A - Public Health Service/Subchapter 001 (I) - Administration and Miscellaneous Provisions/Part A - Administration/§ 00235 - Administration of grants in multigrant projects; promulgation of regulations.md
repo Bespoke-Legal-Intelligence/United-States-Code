@@ -4,7 +4,7 @@ For the purpose of facilitating the administration of, and expediting the carryi
 
 &emsp;(1) under which the administrative functions under such programs with respect to such project will be performed by a single administrative unit which is the administrative unit charged with the administration of any of such programs or is the administrative unit charged with the supervision of two or more of such programs;
 
-&emsp;(2) designed to reduce the number of applications, reports, and other materials required under such programs to be submitted with respect to such project, and otherwise to simplify, consolidate, and make uniform (to the extent feasible), the data and information required to be contained in such applications, reports, and other materials; and
+&emsp;(2) designed to reduce the number of applications, reports, and other materials required under such programs to be submitted with respect to such project, and otherwise to simplify, consolidate, and make uniform (to theextent feasible), the data and information required to be contained in such applications, reports, and other materials; and
 
 &emsp;(3) under which inconsistent or duplicative requirements imposed by such programs will be revised and made uniform with respect to such project;
 

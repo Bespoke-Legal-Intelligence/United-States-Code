@@ -34,13 +34,13 @@ The district court shall have jurisdiction in actions brought under subsection (
 
 &emsp;&emsp;(B) The State in which the alleged violation occurs.
 
-&emsp;&emsp;(C) Any alleged violator of the standard, regulation, condition, requirement, or orderconcerned (including any provision of an agreement under section 9620 of this title).
+&emsp;&emsp;(C) Any alleged violator of the standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under section 9620 of this title).
 
 > &emsp;Notice under this paragraph shall be given in such manner as the President shall prescribe by regulation.
 
 #### (2) Diligent prosecution
 
-&emsp;No action may be commenced under paragraph (1) of subsection (a) of this section if the President has commenced and is diligently prosecuting an action under this chapter, or under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] to require compliance with the standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under section 9620 of this title).
+&emsp;No action may be commenced under paragraph (1) of subsection (a) of this section if the President has commenced and is diligently prosecuting an action under this chapter, or under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] to require compliance with the standard, regulation, condition, requirement,or order concerned (including any provision of an agreement under section 9620 of this title).
 
 #### (e) Rules applicable to subsection (a)(2) actions
 

@@ -1,6 +1,6 @@
 ### §1263. Age 62: warrant officers
 
-(a) Unless retired under section 1305 of this title, a permanent regular warrant officer who has at least 20 years of active service that could be credited to him under section 511 of the Career Compensation Act of 1949, as amended (70Stat. 114; 10 U.S.C. 580 note), and who is at least 62 years of age, shall be retired 60 days after he becomes that age, except as provided by section 8301 of title 5.
+(a) Unless retired under section 1305 of this title, a permanent regular warrant officer who has at least 20 years of active service that could be credited to him under section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114; 10 U.S.C. 580 note), and who is at least 62 years of age, shall be retired 60 days after he becomes that age, except as provided by section 8301 of title 5.
 
 (b) The Secretary concerned may defer, for not more than four months, the retirement under subsection (a) of any warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date when he would otherwise be required to retire under this section.
 
@@ -44,7 +44,7 @@ May 29, 1954, ch. 249, §§2(d) (as applicable to §14(b) (less (1)–(3))), 14(
 
 34:430(e) (as applicable to 34:430(b) (less (1)–(3))).
 
-In subsection (a), the words “has at least” are substituted for the words “has attained”. The words “has at least” are substituted for the words “having completed not less than”. The words “on that date which” are omitted as surplusage. 10:600<i>l</i>(b) (15 words before (1)) and 34:430(b) (15 words before (1)) are omitted as covered by section 1275 of this title.
+In subsection (a), the words “has at least” are substituted for the words “has attained”. The words “has at least” are substituted for the words “having completed not less than”. The words “on that date which” are omitted as surplusage. 10:600<i>l</i>(b) (15 words before (1))and 34:430(b) (15 words before (1)) are omitted as covered by section 1275 of this title.
 
 In subsection (b), the words “The Secretary concerned may defer” are substituted for the words “may, in the discretion of the Secretary, be deferred”. The words “determination of his” are inserted for clarity. The words “not more than” are substituted for the words “a period not to exceed”. The words “he would otherwise be required to retire under this section” are substituted for the words “retirement \* \* \* would otherwise be required”. The words “which is required”, “possible”, “proper”, and “a period of” are omitted as surplusage.
 

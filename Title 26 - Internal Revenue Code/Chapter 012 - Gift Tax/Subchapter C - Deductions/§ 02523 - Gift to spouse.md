@@ -20,7 +20,7 @@ Where the assets out of which, or the proceeds of which, the interest transferre
 
 #### (d) Joint interests
 
-If the interest is transferred to the donee spouse as sole joint tenant with the donor or as tenant by the entirety, the interest of the donor in the property which exists solely by reason ofthe possibility that the donor may survive the donee spouse, or that there may occur a severance of the tenancy, shall not be considered for purposes of subsection (b) as an interest retained by the donor in himself.
+If the interest is transferred to the donee spouse as sole joint tenant with the donor or as tenant by the entirety, the interest of the donor in the property which exists solely by reason of the possibility that the donor may survive the donee spouse, or that there may occur a severance of the tenancy, shall not be considered for purposes of subsection (b) as an interest retained by the donor in himself.
 
 #### (e) Life estate with power of appointment in donee spouse
 
@@ -122,9 +122,9 @@ If the spouse of the donor is not a citizen of the United States—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 412; Pub. L. 91–614, title I, §102(c)(3), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XIX, §1902(a)(12)(E), title XX, §2002(b), Oct. 4, 1976, 90 Stat. 1806, 1854; Pub. L. 97–34, title IV, §403(b)(1), (2), (d)(2), Aug. 13, 1981, 95 Stat. 301, 303; Pub. L. 97–448, title I, §104(a)(2)(B), (4)–(6), Jan. 12, 1983, 96 Stat. 2380, 2381; Pub. L. 99–514, title XVIII, §1879(n)(1), Oct. 22, 1986, 100 Stat. 2910; Pub. L. 100–647, title V, §5033(b), title VI, §6152(b), Nov. 10, 1988, 102 Stat. 3672, 3725; Pub. L. 101–239, title VII, §7815(d)(1)(A), (2), Dec. 19, 1989, 103 Stat. 2415; Pub. L. 101–508, title XI, §11702(g)(1), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 102–486, title XIX, §1941(b), Oct. 24, 1992, 106 Stat. 3036; Pub. L. 105–34, title XVI, §1604(g)(4), Aug. 5, 1997, 111 Stat. 1099.)
 
-#### Adjustment of Annual Exclusion for Gifts in Calendar Year 1999 to Spouse Who is Not United States Citizen
+#### Adjustment of Annual Exclusion for Gifts in Calendar Year 2000 to Spouse Who is Not United States Citizen
 
-<i>For adjustment of dollar amounts of gifts not includible in total amount of taxable gifts under subsec. (i)(2) of this section for calendar year 1999, see section 3.16 of Revenue Procedure 98–61, set out as a note under section 1 of this title.</i>
+<i>For adjustment of dollar amounts of gifts not includible in total amount of taxable gifts under subsec. (i)(2) of this section for calendar year 2000, see section 3.17 of Revenue Procedure 99–42, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -178,7 +178,7 @@ Amendment by Pub. L. 102–486 applicable to gifts made after Oct. 24, 1992, see
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective as if included in the provision of the Technical and MiscellaneousRevenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 11702(j) of Pub. L. 101–508, set out as a note under section 59 of this title.
+Amendment by Pub. L. 101–508 effective as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 11702(j) of Pub. L. 101–508, set out as a note under section 59 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -218,7 +218,7 @@ For provisions directing that in the case of the estate of, or gift by, an indiv
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Special Rule for Certain Transfers in October 1984
 

@@ -36,7 +36,7 @@ Notwithstanding any other provision of this chapter, any Farm Credit Bank or dir
 
 #### (2) Terms and conditions
 
-&emsp;Approval under paragraph (1) may be granted on an annual basis and under such terms and conditions as may be agreed on between the Farm Credit Bank or association, as thecase may be, and the bank for cooperatives granting the approval.
+&emsp;Approval under paragraph (1) may be granted on an annual basis and under such terms and conditions as may be agreed on between the Farm Credit Bank or association, as the case may be, and the bank for cooperatives granting the approval.
 
 #### (3) Approval by supervising Farm Credit Bank
 

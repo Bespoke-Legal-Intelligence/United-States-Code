@@ -30,7 +30,7 @@
 
 #### (5) Application to individuals receiving services under PACE programs
 
-&emsp;This section applies to individuals receiving institutional or noninstitutional servicesunder a PACE demonstration waiver program (as defined in section 1396u–4(a)(7) of this title) or under a PACE program under section 1396u–4 or 1395eee of this title.
+&emsp;This section applies to individuals receiving institutional or noninstitutional services under a PACE demonstration waiver program (as defined in section 1396u–4(a)(7) of this title) or under a PACE program under section 1396u–4 or 1395eee of this title.
 
 #### (b) Rules for treatment of income
 
@@ -148,7 +148,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each State shall establish a minimum monthly maintenance needs allowance for each community spouse which, subject to subparagraph (C), is equal to or exceeds—
+&emsp;&emsp;Each State shall establish a minimum monthly maintenance needs allowance foreach community spouse which, subject to subparagraph (C), is equal to or exceeds—
 
 &emsp;&emsp;&emsp;(i) the applicable percent (described in subparagraph (B)) of 1/12 of the income official poverty line (defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of this title) for a family unit of 2 members; plus
 

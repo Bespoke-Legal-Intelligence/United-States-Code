@@ -28,7 +28,7 @@ Subsection (a) of this section requires anyone holding property of the estate on
 
 Subsection (b) requires an entity that owes money to the debtor as of the date of the petition, or that holds money payable on demand or payable on order, to pay the money to the order of the trustee. An exception is made to the extent that the entity has a valid right of setoff, as recognized by section 553.
 
-Subsection (c) provides an exception to subsections (a) and (b). It protects an entity that has neither actual notice nor actual knowledge of the case and that transfers, in good faith, property that is deliverable or payable to the trustee to someone other than to the estateor on order of the estate. This subsection codifies the result of <i>Bank of Marin v. England</i>, 385 U.S. 99 (1966), but does not go so far as to permit bank setoff in violation of the automatic stay, proposed 11 U.S.C. 362(a)(7), even if the bank offsetting the debtor's balance has no knowledge of the case.
+Subsection (c) provides an exception to subsections (a) and (b). It protects an entity that has neither actual notice nor actual knowledge of the case and that transfers, in good faith, property that is deliverable or payable to the trustee to someone other than to the estate or on order of the estate. This subsection codifies the result of <i>Bank of Marin v. England</i>, 385 U.S. 99 (1966), but does not go so far as to permit bank setoff in violation of the automatic stay, proposed 11 U.S.C. 362(a)(7), even if the bank offsetting the debtor's balance has no knowledge of the case.
 
 Subsection (d) protects life insurance companies that are required by contract to make automatic premium loans from property that might otherwise be property of the estate.
 

@@ -14,7 +14,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) advanced composite materials such as metal matrix (including intermetallics), polymer matrix, ceramic matrix, continuous fiber ceramic composite, and carbon matrix composites; and
 
-&emsp;&emsp;(C) advanced electronic, magnetic, and photonic materials, including superconducting, semiconductor, electrooptic, magnetooptic, thin-film, and special purpose coating materials used in technologies for energy efficiency, renewable energy, or electric power applications; and
+&emsp;&emsp;(C) advanced electronic, magnetic, and photonic materials, including superconducting, semiconductor, electrooptic, magnetooptic, thin-film, and special purposecoating materials used in technologies for energy efficiency, renewable energy, or electric power applications; and
 
 &emsp;(3) the term “United States” means the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, the Northern Mariana Islands, and any other territory or possession of the United States.
 

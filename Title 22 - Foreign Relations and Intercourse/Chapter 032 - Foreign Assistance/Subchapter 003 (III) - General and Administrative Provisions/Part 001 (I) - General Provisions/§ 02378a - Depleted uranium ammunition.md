@@ -12,7 +12,7 @@ Except as provided in subsection (b) of this section, none of the funds made ava
 
 #### (b) Exception
 
-The prohibition contained in subsection (a) of this section shall not apply with respect to the use of funds to facilitate the sale of antitank shells to a country if the President determines that to do so is in the national security interest of the United States.
+The prohibition contained in subsection (a) of this section shall not apply with respect to theuse of funds to facilitate the sale of antitank shells to a country if the President determines that to do so is in the national security interest of the United States.
 
 (Pub. L. 87–195, pt. III, §620G, as added Pub. L. 104–164, title I, §149, July 21, 1996, 110 Stat. 1436.)
 
@@ -26,5 +26,5 @@ Another section 620G of Pub. L. 87–195 is classified to section 2377 of this t
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of State, with Secretary of State required to consult with Secretary of Defense, by section 1–201(a)(13) of Ex. Ord. No. 12163, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

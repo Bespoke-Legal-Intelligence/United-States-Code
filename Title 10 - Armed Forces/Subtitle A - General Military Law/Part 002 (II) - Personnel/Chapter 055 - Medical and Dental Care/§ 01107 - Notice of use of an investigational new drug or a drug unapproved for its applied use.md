@@ -4,7 +4,7 @@
 
 Notice Required.—(1) Whenever the Secretary of Defense requests or requires a member of the armed forces to receive an investigational new drug or a drug unapproved for its applied use, the Secretary shall provide the member with notice containing the information specified in subsection (d).
 
-(2) The Secretary shall also ensure that health care providers who administer an investigational new drug or a drug unapproved for its applied use, or who are likely to treat members who receive such a drug, receive the information required to be provided under paragraphs (3) and (4) of subsection (d).
+(2) The Secretary shall also ensure that health care providers who administer an investigational new drug or a drug unapproved for its applied use, or who are likely to treat members who receive such a drug, receive the informationrequired to be provided under paragraphs (3) and (4) of subsection (d).
 
 (b)
 
@@ -62,7 +62,7 @@ Limitation and Waiver.—(1) In the case of the administration of an investigati
 
 &emsp;&emsp;(i) The Committee on Armed Services and the Committee on Appropriations of the Senate.
 
-&emsp;&emsp;(ii) The Committee on National Security and the Committee on Appropriations of the House of Representatives.
+&emsp;&emsp;(ii) The Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
 
 (g)
 
@@ -72,19 +72,17 @@ Definitions.—In this section:
 
 &emsp;(2) The term “drug unapproved for its applied use” means a drug administered for a use not described in the approved labeling of the drug under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355).
 
-(Added Pub. L. 105–85, div. A, title VII, §766(a), Nov. 18, 1997, 111 Stat. 1827; amended Pub. L. 105–261, div. A, title VII, §731(a)(1), (b), Oct. 17, 1998, 112 Stat. 2070, 2071.)
+(Added Pub. L. 105–85, div. A, title VII, §766(a), Nov. 18, 1997, 111 Stat. 1827; amended Pub. L. 105–261, div. A, title VII, §731(a)(1), (b), Oct. 17, 1998, 112 Stat. 2070, 2071; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Amendments
+
+1999—Subsec. (f)(4)(C)(ii). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
 1998—Subsec. (b). Pub. L. 105–261, §731(b)(1), struck out “, if practicable, but in no case later than 30 days after the drug is first administered to the member” after “administered to the member”.
 
 Subsec. (c). Pub. L. 105–261, §731(b)(2), struck out “unless the Secretary of Defense determines that the use of written notice is impractical because of the number of members receiving the investigational new drug or drug unapproved for its applied use, time constraints, or similar reasons. If the Secretary provides notice under subsection (a)(1) in a form other than in writing, the Secretary shall submit to Congress a report describing the notification method used and the reasons for the use of the alternative method” after “provided in writing”.
 
 Subsecs. (f), (g). Pub. L. 105–261, §731(a)(1), added subsec. (f) and redesignated former subsec. (f) as (g).
-
-#### Change of Name
-
-Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1998 Amendment
 
@@ -105,4 +103,86 @@ Pub. L. 105–261, div. A, title VII, §731(a)(3), Oct. 17, 1998, 112 Stat. 2071
 &emsp;&emsp;“(ii) the President's written concurrence; and
 
 &emsp;&emsp;“(iii) the Secretary's justification for the request or for the requirement under subsection 1107(a) of such title for the member to receive the drug covered by the waiver.”
+
+#### Ex. Ord. No. 13139. Improving Health Protection of Military Personnel Participating in Particular Military Operations
+
+Ex. Ord. No. 13139, Sept. 30, 1999, 64 F.R. 54175, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 1107 of title 10, United States Code, and in order to provide the best health protection to military personnel participating in particular military operations, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. Military personnel deployed in particular military operations could potentially be exposed to a range of chemical, biological, and radiological weapons as well as diseases endemic to an area of operations. It is the policy of the United States Government to provide our military personnel with safe and effective vaccines, antidotes, and treatments that will negate or minimize the effects of these health threats.
+
+Sec. 2. <i>Administration of Investigational New Drugs to Members of the Armed Forces.</i>
+
+(a) The Secretary of Defense (Secretary) shall collect intelligence on potential health threats that might be encountered in an area of operations. The Secretary shall work together with the Secretary of Health and Human Services to ensure appropriate countermeasures are developed. When the Secretary considers an investigational new drug or a drug unapproved for its intended use (investigational drug) to represent the most appropriate countermeasure, it shall be studied through scientifically based research and development protocols to determine whether it is safe and effective for its intended use.
+
+(b) It is the expectation that the United States Government will administer products approved for their intended use by the Food and Drug Administration (FDA). However, in the event that the Secretary considers a product to represent the most appropriate countermeasure for diseases endemic to the area of operations or to protect against possible chemical, biological, or radiological weapons, but the product has not yet been approved by the FDA for its intended use, the product may, under certain circumstances and strict controls, be administered to provide potential protection for the health and well-being of deployed military personnel in order to ensure the success of the military operation. The provisions of 21 CFR Part 312 contain the FDA requirements for investigational new drugs.
+
+Sec. 3. <i>Informed Consent Requirements and Waiver Provisions.</i>
+
+(a) Before administering an investigational drug to members of the Armed Forces, the Department of Defense (DoD) must obtain informed consent from each individual unless the Secretary can justify to the President a need for a waiver of informed consent in accordance with 10 U.S.C. 1107(f). Waivers of informed consent will be granted only when absolutely necessary.
+
+(b) In accordance with 10 U.S.C. 1107(f), the President may waive the informed consent requirement for the administration of an investigational drug to a member of the Armed Forces in connection with the member's participation in a particular military operation, upon a written determination by the President that obtaining consent:
+
+&emsp;(1) is not feasible;
+
+&emsp;(2) is contrary to the best interests of the member; or
+
+&emsp;(3) is not in the interests of national security.
+
+(c) In making a determination to waive the informed consent requirement on a ground described in subsection (b)(1) or (b)(2) of this section, the President is required by law to apply the standards and criteria set forth in the relevant FDA regulations, 21 CFR 50.23(d). In determining a waiver based on subsection (b)(3) of this section, the President will also consider the standards and criteria of the relevant FDA regulations.
+
+(d) The Secretary may request that the President waive the informed consent requirement with respect to the administration of an investigational drug. The Secretary may not delegate the authority to make this waiver request. At a minimum, the waiver request shall contain:
+
+&emsp;(1) A full description of the threat, including the potential for exposure. If the threat is a chemical, biological, or radiological weapon, the waiver request shall contain an analysis of the probability the weapon will be used, the method or methods of delivery, and the likely magnitude of its affect on an exposed individual.
+
+&emsp;(2) Documentation that the Secretary has complied with 21 CFR 50.23(d). This documentation shall include:
+
+&emsp;&emsp;(A) A statement that certifies and a written justification that documents that each of the criteria and standards set forth in 21 CFR 50.23(d) has been met; or
+
+&emsp;&emsp;(B) If the Secretary finds it highly impracticable to certify that the criteria and standards set forth in 21 CFR 50.23(d) have been fully met because doing so would significantly impair the Secretary's ability to carry out the particular military mission, a written justification that documents which criteria and standards have or have not been met, explains the reasons for failing to meet any of the criteria and standards, and provides additional justification why a waiver should be granted solely in the interests of national security.
+
+&emsp;(3) Any additional information pertinent to the Secretary's determination, including the minutes of the Institutional Review Board's (IRB) deliberations and the IRB members’ voting record.
+
+(e) The Secretary shall develop the waiver request in consultation with the FDA.
+
+(f) The Secretary shall submit the waiver request to the President and provide a copy to the Commissioner of the FDA (Commissioner).
+
+(g) The Commissioner shall expeditiously review the waiver request and certify to the Assistant to the President for National Security Affairs (APNSA) and the Assistant to the President for Science and Technology (APST) whether the standards and criteria of the relevant FDA regulations have been adequately addressed and whether the investigational new drug protocol may proceed subject to a decision by the President on the informed consent waiver request. FDA shall base its decision on, and the certification shall include an analysis describing, the extent and strength of the evidence on the safety and effectiveness of the investigational new drug in relation to the medical risk that could be encountered during the military operation.
+
+(h) The APNSA and APST will prepare a joint advisory opinion as to whether the waiver of informed consent should be granted and will forward it, along with the waiver request and the FDA certification to the President.
+
+(i) The President will approve or deny the waiver request and will provide written notification of the decision to the Secretary and the Commissioner.
+
+Sec. 4. <i>Required Action After Waiver is Issued</i>. (a) Following a Presidential waiver under 10 U.S.C. 1107(f), the DoD offices responsible for implementing the waiver, DoD's Office of the Inspector General, and the FDA, consistent with its regulatory role, will conduct an ongoing review and monitoring to assess adherence to the standards and criteria under 21 CFR 50.23(d) and this order. The responsible DoD offices shall also adhere to any periodic reporting requirements specified by the President at the time of the waiver approval. The Secretary shall submit the findings to the President and provide a copy to the Commissioner.
+
+(b) The Secretary shall, as soon as practicable, make the congressional notifications required by 10 U.S.C. 1107(f)(2)(B).
+
+(c) The Secretary shall, as soon as practicable and consistent with classification requirements, issue a public notice in the Federal Register describing each waiver of informed consent determination and a summary of the most updated scientific information on the products used, as well as other information the President determines is appropriate.
+
+(d) The waiver will expire at the end of 1 year (or an alternative time period not to exceed 1 year, specified by the President at the time of approval), or when the Secretary informs the President that the particular military operation creating the need for the use of the investigational drug has ended, whichever is earlier. The President may revoke the waiver based on changed circumstances or for any other reason. If the Secretary seeks to renew a waiver prior to its expiration, the Secretary must submit to the President an updated request, specifically identifying any new information available relevant to the standards and criteria under 21 CFR 50.23(d). To request to renew a waiver, the Secretary must satisfy the criteria for a waiver as described in section 3 of this order.
+
+(e) The Secretary shall notify the President and the Commissioner if the threat countered by the investigational drug changes significantly or if significant new information on the investigational drug is received.
+
+Sec. 5. <i>Training for Military Personnel</i>. (a) The DoD shall provide ongoing training and health risk communication on the requirements of using an investigational drug in support of a military operation to all military personnel, including those in leadership positions, during chemical and biological warfare defense training and other training, as appropriate. This ongoing training and health risk communication shall include general information about 10 U.S.C. 1107 and 21 CFR 50.23(d).
+
+(b) If the President grants a waiver under 10 U.S.C. 1107(f), the DoD shall provide training to all military personnel conducting the waiver protocol and health risk communication to all military personnel receiving the specific investigational drug to be administered prior to its use.
+
+(c) The Secretary shall submit the training and health risk communication plans as part of the investigational new drug protocol submission to the FDA and the reviewing IRB. Training and health risk communication shall include at a minimum:
+
+&emsp;(1) The basis for any determination by the President that informed consent is not or may not be feasible;
+
+&emsp;(2) The means for tracking use and adverse effects of the investigational drug;
+
+&emsp;(3) The benefits and risks of using the investigational drug; and
+
+&emsp;(4) A statement that the investigational drug is not approved (or not approved for the intended use).
+
+(d) The DoD shall keep operational commanders informed of the overall requirements of successful protocol execution and their role, with the support of medical personnel, in ensuring successful execution of the protocol.
+
+Sec. 6. <i>Scope</i>. (a) This order applies to the consideration and Presidential approval of a waiver of informed consent under 10 U.S.C. 1107 and does not apply to other FDA regulations.
+
+(b) This order is intended only to improve the internal management of the Federal Government. Nothing contained in this order shall create any right or benefit, substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

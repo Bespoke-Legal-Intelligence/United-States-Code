@@ -1,6 +1,6 @@
 ### §373. General authority of Secretary of the Interior
 
-The Secretary of the Interior is authorized to perform any and all acts and to make such rules and regulations as may be necessary and proper for the purpose of carrying out the provisions of this Act into full force and effect.
+The Secretary of the Interior is authorized to perform any and all acts and to make such rulesand regulations as may be necessary and proper for the purpose of carrying out the provisions of this Act into full force and effect.
 
 (June 17, 1902, ch. 1093, §10, 32 Stat. 390; Aug. 13, 1914, ch. 247, §15, 38 Stat. 690.)
 

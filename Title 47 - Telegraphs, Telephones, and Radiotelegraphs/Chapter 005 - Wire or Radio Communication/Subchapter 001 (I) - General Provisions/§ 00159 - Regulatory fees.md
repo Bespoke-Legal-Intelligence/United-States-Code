@@ -4,7 +4,7 @@
 
 #### (1) Recovery of costs
 
-&emsp;The Commission, in accordance with this section, shall assess and collect regulatoryfees to recover the costs of the following regulatory activities of the Commission: enforcement activities, policy and rulemaking activities, user information services, and international activities.
+&emsp;The Commission, in accordance with this section, shall assess and collect regulatory fees to recover the costs of the following regulatory activities of the Commission: enforcement activities, policy and rulemaking activities, user information services, and international activities.
 
 #### (2) Fees contingent on appropriations
 

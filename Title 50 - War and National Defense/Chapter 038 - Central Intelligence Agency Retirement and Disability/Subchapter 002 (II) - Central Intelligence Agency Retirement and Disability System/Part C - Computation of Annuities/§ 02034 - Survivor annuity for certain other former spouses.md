@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;An individual who was a former spouse of a participant or retired participant on November 15, 1982, shall be entitled, except to the extent such former spouse is disqualified under subsection (b) of this section, to a survivor annuity equal to 55 percent of the greater of—
+&emsp;An individual who was a former spouse of a participant or retired participant on November 15, 1982, shall be entitled, except to the extent such former spouse is disqualified undersubsection (b) of this section, to a survivor annuity equal to 55 percent of the greater of—
 
 &emsp;&emsp;(A) the unreduced amount of the participant's or retired participant's annuity, as computed under section 2031(a) of this title; or
 

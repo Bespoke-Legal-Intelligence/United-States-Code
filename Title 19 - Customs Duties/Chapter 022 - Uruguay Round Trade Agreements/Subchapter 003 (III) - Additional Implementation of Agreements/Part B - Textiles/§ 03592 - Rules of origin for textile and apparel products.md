@@ -8,7 +8,7 @@ The Secretary of the Treasury shall prescribe rules implementing the principles 
 
 #### (1) In general
 
-&emsp;Except as otherwise provided for by statute, a textile or apparel product, for purposes ofthe customs laws and the administration of quantitative restrictions, originates in a country, territory, or insular possession, and is the growth, product, or manufacture of that country, territory, or insular possession, if—
+&emsp;Except as otherwise provided for by statute, a textile or apparel product, for purposes of the customs laws and the administration of quantitative restrictions, originates in a country, territory, or insular possession, and is the growth, product, or manufacture of that country, territory, or insular possession, if—
 
 &emsp;&emsp;(A) the product is wholly obtained or produced in that country, territory, or possession;
 

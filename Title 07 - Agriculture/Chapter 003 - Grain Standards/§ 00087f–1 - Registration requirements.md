@@ -4,7 +4,7 @@
 
 The Secretary shall provide, by regulation, for the registration of all persons engaged in the business of buying grain for sale in foreign commerce, and in the business of handling, weighing, or transporting of grain for sale in foreign commerce. This section shall not apply to—
 
-&emsp;(1) any person who only incidentally or occasionally buys for sale, or handles, weighs, or transports grain for sale and is not engaged in the regular business of buying grain for sale,or handling, weighing, or transporting grain for sale;
+&emsp;(1) any person who only incidentally or occasionally buys for sale, or handles, weighs, or transports grain for sale and is not engaged in the regular business of buying grain for sale, or handling, weighing, or transporting grain for sale;
 
 &emsp;(2) any producer of grain who only incidentally or occasionally sells or transports grain which the producer has purchased;
 

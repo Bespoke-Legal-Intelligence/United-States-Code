@@ -6,7 +6,7 @@ In determining the amount of the deduction allowable to a lessee for exhaustion,
 
 #### (b) Certain periods excluded
 
-For purposes of subsection (a), in determining the period of the term of the lease remaining onthe date of acquisition, there shall not be taken into account any period for which the lease may subsequently be renewed, extended, or continued pursuant to an option exercisable by the lessee.
+For purposes of subsection (a), in determining the period of the term of the lease remaining on the date of acquisition, there shall not be taken into account any period for which the lease may subsequently be renewed, extended, or continued pursuant to an option exercisable by the lessee.
 
 (Added Pub. L. 85–866, title I, §15(a), Sept. 2, 1958, 72 Stat. 1612; amended Pub. L. 99–514, title II, §201(d)(2)(A), title XVIII, §1812(c)(4)(B), Oct. 22, 1986, 100 Stat. 2139, 2835; Pub. L. 100–647, title I, §1002(a)(9), Nov. 10, 1988, 102 Stat. 3354.)
 
@@ -36,5 +36,5 @@ Section 15(c) of Pub. L. 85–866 provided that: “The amendments made by this 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

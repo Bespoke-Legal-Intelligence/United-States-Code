@@ -28,7 +28,7 @@
 
 &emsp;(11) The construction, outfitting, and repair of military equipment.
 
-&emsp;(12) The construction, maintenance, and repair of buildings, structures, and utilities andthe acquisition of real property and interests in real property necessary to carry out the responsibilities specified in this section.
+&emsp;(12) The construction, maintenance, and repair of buildings, structures, and utilities and the acquisition of real property and interests in real property necessary to carry out the responsibilities specified in this section.
 
 (c) Subject to the authority, direction, and control of the Secretary of Defense, the Secretary of the Navy is also responsible to the Secretary of Defense for—
 
@@ -116,7 +116,7 @@ Report.—Not later than 90 days after the termination of the pilot program, the
 
 “(g)
 
-Limitation on Funding Source.—Any funds required for the pilot program for a fiscal year shall bederived only from the appropriation ‘Operation and Maintenance, Navy’ for that fiscal year.”
+Limitation on Funding Source.—Any funds required for the pilot program for a fiscal year shall be derived only from the appropriation ‘Operation and Maintenance, Navy’ for that fiscal year.”
 
 #### Use of Naval Installations for Employment Training of Nonviolent Offenders in State Penal Systems
 

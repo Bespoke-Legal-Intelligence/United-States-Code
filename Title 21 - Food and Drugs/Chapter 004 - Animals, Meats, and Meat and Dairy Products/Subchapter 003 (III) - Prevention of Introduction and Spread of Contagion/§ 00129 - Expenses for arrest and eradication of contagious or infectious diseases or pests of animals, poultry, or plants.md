@@ -2,7 +2,7 @@
 
 In emergencies which threaten any segment of the agricultural production industry of this country, the Secretary may transfer from other appropriations or funds available to the agencies or corporations of the Department such sums as may be deemed necessary, to be available only in such emergencies for the arrest and eradication of contagious or infectious disease or pests of animals, poultry, or plants, and for expenses in accordance with sections 114b to 114d–1 of this title and section 147a of title 7, and any unexpended balances of funds transferred for such emergency purposes in the next preceding fiscal year shall be merged with such transferred amounts.
 
-(Pub. L. 105–277, div. A, §101(a) \[title I\], Oct. 21, 1998, 112 Stat. 2681, 2681–8.)
+(Pub. L. 106–78, title I, Oct. 22, 1999, 113 Stat. 1143.)
 
 #### Codification
 
@@ -11,6 +11,8 @@ Section is from the appropriation act cited as the credit to this section.
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 105–277, div. A, §101(a) \[title I\], Oct. 21, 1998, 112 Stat. 2681, 2681–8.
 
 Pub. L. 105–86, title I, Nov. 18, 1997, 111 Stat. 2086.
 

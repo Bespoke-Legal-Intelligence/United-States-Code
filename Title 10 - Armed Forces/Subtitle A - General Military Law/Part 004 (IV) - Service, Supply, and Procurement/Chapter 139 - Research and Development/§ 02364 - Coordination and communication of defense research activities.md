@@ -64,9 +64,13 @@ Subsec. (c)(4). Pub. L. 100–26, §7(a)(9)(C), substituted “the decision by a
 
 Amendment by section 3(1)(A) of Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted on Nov. 14, 1986, see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of this title.
 
+#### Performance Review Process
+
+Pub. L. 106–65, div. A, title IX, §913(b), Oct. 5, 1999, 113 Stat. 720, provided that: “Not later than 180 days after the date of the enactment of this Act \[Oct. 5, 1999\], the Secretary of Defense shall develop an appropriate performance review process for rating the quality and relevance of work performed by the Department of Defense laboratories. The process shall include customer evaluation and peer review by Department of Defense personnel and appropriate experts from outside the Department of Defense. The process shall provide for rating all laboratories of the Army, Navy, and Air Force on a consistent basis.”
+
 #### Coordination of High-Temperature Superconductivity Research and Development
 
-Section 218(b)(2) of Pub. L. 100–180, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that: “The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, shall—
+Section 218(b)(2) of Pub. L. 100–180, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that: “The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall—
 
 &emsp;“(A) coordinate the research and development activities of the Department of Defense relating to high-temperature superconductivity; and
 

@@ -1,6 +1,6 @@
 ### §144. Highway bridge replacement and rehabilitation program
 
-(a) Congress hereby finds and declares it to be in the vital interest of the Nation that a highway bridge replacement and rehabilitation program be established to enable the several States to replace or rehabilitate highway bridges over waterways, other topographical barriers, other highways, or railroads when the States and the Secretary finds that a bridge is significantly important and is unsafe because of structural deficiencies, physical deterioration, or functional obsolescence.
+(a) Congress hereby finds and declares it to be in the vital interest of the Nation that a highway bridge replacement and rehabilitation program be established to enable the several States to replace or rehabilitate highway bridges over waterways, other topographical barriers, otherhighways, or railroads when the States and the Secretary finds that a bridge is significantly important and is unsafe because of structural deficiencies, physical deterioration, or functional obsolescence.
 
 (b) The Secretary, in consultation with the States, shall (1) inventory all those highway bridges on any Federal-aid system which are bridges over waterways, other topographical barriers, other highways, and railroads; (2) classify them according to serviceability, safety, and essentiality for public use; (3) based on that classification, assign each a priority for replacement or rehabilitation; and (4) determine the cost of replacing each such bridge with a comparable facility or of rehabilitating such bridge.
 
@@ -28,7 +28,7 @@ Discretionary bridge program.—
 
 &emsp;&emsp;(A)
 
-Fiscal years 1992 through 1997.—Of the amounts authorized for each of fiscal years 1992, 1993, 1994, 1995, 1996, and 1997 by section 103 of the Intermodal Surface Transportation Efficiency Act of 1991, all but $57,000,000 in the case of fiscal year 1992, $68,000,000 in the case of fiscal years 1993 and 1994, and $69,000,000 in the case of fiscal years 1995, 1996, and 1997 shall be apportioned as provided in subsection (e) of this section. $49,000,000 in the case of fiscal year 1992, $59,500,000 in the case of fiscal years 1993 and 1994, and $60,500,000 in the case of fiscal years 1995, 1996, and 1997 of the amount authorized for each of such fiscal years shall be available for obligation on the date of each such apportionment in the same manner and to the same extent as the sums apportioned on such date, except that the obligation of $49,000,000 in the case of fiscal year 1992, $59,500,000 in the case of fiscal years 1993 and 1994, and $60,500,000 in the case of fiscal years 1995, 1996, and 1997 shall be at the discretion of the Secretary, and $8,500,000 per fiscal year ($8,000,000 in the case of fiscal year 1992) of the amount authorized for each of such fiscal years shall be available in accordance with section 1039 of the Intermodal Surface Transportation Efficiency Act of 1991, relating to highway timber bridges.
+Fiscal years 1992 through 1997.—Of the amounts authorized for each of fiscal years 1992, 1993, 1994, 1995, 1996, and 1997 by section 103 of the Intermodal Surface Transportation Efficiency Act of 1991, all but $57,000,000 in the case of fiscal year 1992, $68,000,000 in the case of fiscal years 1993 and 1994, and $69,000,000 in the case of fiscal years1995, 1996, and 1997 shall be apportioned as provided in subsection (e) of this section. $49,000,000 in the case of fiscal year 1992, $59,500,000 in the case of fiscal years 1993 and 1994, and $60,500,000 in the case of fiscal years 1995, 1996, and 1997 of the amount authorized for each of such fiscal years shall be available for obligation on the date of each such apportionment in the same manner and to the same extent as the sums apportioned on such date, except that the obligation of $49,000,000 in the case of fiscal year 1992, $59,500,000 in the case of fiscal years 1993 and 1994, and $60,500,000 in the case of fiscal years 1995, 1996, and 1997 shall be at the discretion of the Secretary, and $8,500,000 per fiscal year ($8,000,000 in the case of fiscal year 1992) of the amount authorized for each of such fiscal years shall be available in accordance with section 1039 of the Intermodal Surface Transportation Efficiency Act of 1991, relating to highway timber bridges.
 
 &emsp;&emsp;(B)
 
@@ -70,7 +70,7 @@ Inventories and Reports.—The Secretary shall—
 
 (k) Not later than six months after the date of enactment of this subsection, and periodically thereafter, the Secretary shall review the procedure used in approving or disapproving applications submitted under this section to determine what changes, if any, may be made to expedite such procedure. Any such changes shall be implemented by the Secretary as soon as possible. Not later than nine months after the date of enactment of this subsection, the Secretary shall submit a report to Congress which describes such review and such changes, including any recommendations for legislative changes.
 
-(<i>l</i>) Notwithstanding any other provision of law, any bridge which is owned and operated by an agency (1) which does not have taxing powers, (2) whose functions include operating a federally assisted public transit system subsidized by toll revenues, shall be eligible for assistance under this section but the amount of such assistance shall in no event exceed the cumulative amount which such agency has expended for capital and operating costs to subsidize such transit system. Before authorizing an expenditure of funds under this subsection, the Secretary shall determine that the applicant agency has insufficient reserves, surpluses, and projected revenues (over and above those required for bridge and transit capital and operating costs) to fund the necessary bridge replacement or rehabilitation project. Any non-Federal funds expended for the seismic retrofit of the bridge may be credited toward the non-Federal share required as a condition of receipt of any Federal funds for seismic retrofit of the bridge made available after the date of the expenditure.
+(<i>l</i>) Notwithstanding any other provision of law, any bridge which is owned and operated by an agency (1) which does not have taxing powers, (2) whose functions include operating a federally assisted public transit system subsidized by toll revenues, shall be eligible for assistance under this section but the amount of such assistance shall in no event exceed the cumulative amount which such agency has expended for capital and operating costs to subsidize suchtransit system. Before authorizing an expenditure of funds under this subsection, the Secretary shall determine that the applicant agency has insufficient reserves, surpluses, and projected revenues (over and above those required for bridge and transit capital and operating costs) to fund the necessary bridge replacement or rehabilitation project. Any non-Federal funds expended for the seismic retrofit of the bridge may be credited toward the non-Federal share required as a condition of receipt of any Federal funds for seismic retrofit of the bridge made available after the date of the expenditure.
 
 (m)
 
@@ -192,7 +192,7 @@ Subsecs. (p), (q). Pub. L. 102–240, §1028(e)(2), added subsec. (p) and redesi
 
 1987—Subsec. (e). Pub. L. 100–17, §133(b)(11), inserted at end “Funds apportioned under this section shall be available for expenditure for the same period as funds apportioned for projects on the Federal-aid primary system under this title. Any funds not obligated at the expiration of such period shall be reapportioned by the Secretary to the other States in accordance with this subsection.”
 
-Pub. L. 100–17, §123(d)(3), inserted after third sentence “For purposes of the preceding sentence, the total cost of deficient bridges in a State and in all States shall be reduced by the total cost of any highway bridges constructed under subsection (m) in such State, relating to replacement of destroyed bridges and ferryboat services.”
+Pub. L. 100–17, §123(d)(3), inserted after third sentence “For purposes of the preceding sentence, the total cost of deficient bridges in a State and in all States shall be reduced by the total cost of any highway bridges constructed under subsection (m) in such State, relating toreplacement of destroyed bridges and ferryboat services.”
 
 Subsec. (g). Pub. L. 100–17, §123(a), amended subsec. (g) generally, revising and restating as pars. (1) to (3) provisions formerly contained in pars. (1) and (2).
 
@@ -256,7 +256,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certainexceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -272,7 +272,7 @@ Pub. L. 105–178, title I, §1224, as added by Pub. L. 105–206, title IX, §9
 
 “(a)
 
-Historic Covered Bridge Defined.—In this section, the term ‘historic covered bridge’ means a covered bridge that is listed or eligible for listing on the National Register of Historic Places.
+Historic Covered Bridge Defined.—In this section, the term ‘historic covered bridge’ means a coveredbridge that is listed or eligible for listing on the National Register of Historic Places.
 
 “(b)
 
@@ -452,7 +452,7 @@ Section 147 of Pub. L. 95–599, as amended by Pub. L. 96–106, §15, Nov. 19, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 104, 105, 110, 115, 117, 140, 151, 204, 303, 409, 505 of this title; title 49 section 104.
+This section is referred to in sections 104, 105, 115, 117, 126, 140, 151, 204, 303, 409, 505 of this title; title 49 section 104.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -68,11 +68,29 @@
 
 (i) The Executive Director shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 103–353, §4(a)(1), Oct. 13, 1994, 108 Stat. 3170.)
+(Added Pub. L. 103–353, §4(a)(1), Oct. 13, 1994, 108 Stat. 3170; amended Pub. L. 106–65, div. A, title VI, §661(a)(3)(A), (C), Oct. 5, 1999, 113 Stat. 671.)
+
+#### Contingent Amendment of Subsections (b)(2)(B) and (c)
+
+<i>Pub. L. 106–65, div. A, title VI, §§661(a)(3)(A), (C), 663, Oct. 5, 1999, 113 Stat. 671, 673, provided that effective only if the President proposes in the 2001 fiscal year budget and there is enacted in the second session of the One Hundred Sixth Congress qualifying offsetting legislation, this section is amended as follows:</i>
+
+<i>(1) in subsection (b)(2)(B) by inserting “or 8440e” after “section 8432(a); and</i>
+
+<i>(2) in subsection (c) by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, by striking “(c)” and inserting “(c)(1)”, and by adding at the end the following:</i>
+
+(2) An employee to whom this section applies is entitled to have contributed to the Thrift Savings Fund on such employee's behalf an amount equal to—
+
+&emsp;(A) the total contributions to which that individual would have been entitled under section 8432(c)(2), based on the amounts contributed by such individual under section 8440e (other than under subsection (d)(2) thereof) with respect to the period referred to in subsection (b)(2)(B), if those amounts had been contributed by such individual under section 8432(a); reduced by
+
+&emsp;(B) any contributions actually made on such employee's behalf under section 8432(c)(2) (including pursuant to an agreement under section 211(d) of title 37) with respect to the period referred to in subsection (b)(2)(B).
 
 #### References in Text
 
 Section 8433(h), referred to in subsec. (h)(2)(A), was redesignated section 8433(f) by Pub. L. 103–226, §9(b)(2), Mar. 30, 1994, 108 Stat. 119.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–65 effective only if the President proposes in the 2001 fiscal year budget and there is enacted in the second session of the One Hundred Sixth Congress qualifying offsetting legislation, see section 663 of Pub. L. 106–65, set out as an Effective Date note under section 8440e of this title.
 
 #### Effective Date
 
@@ -108,7 +126,7 @@ Rules for Applying Amendments to Employees Restored or Reemployed Before Effecti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8351, 8432, 8433 of this title; title 38 section 4318.
+This section is referred to in sections 8351, 8432, 8432c, 8433 of this title; title 38 section 4318.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,7 @@ The Secretary of Transportation shall—
 
 &emsp;(7) consult with the heads of other departments, agencies, and instrumentalities of the United States Government on the transportation requirements of the Government, including encouraging them to establish and observe policies consistent with maintaining a coordinated transportation system in procuring transportation or in operating their own transport services;
 
-&emsp;(8) consult and cooperate with State and local governments, carriers, labor, and other interested persons, including, when appropriate, holding informal public hearings; and
+&emsp;(8) consult and cooperate with State and local governments, carriers, labor, and otherinterested persons, including, when appropriate, holding informal public hearings; and
 
 &emsp;(9) develop and coordinate Federal policy on financing transportation infrastructure, including the provision of direct Federal credit assistance and other techniques used to leverage Federal transportation funds.
 
@@ -88,7 +88,7 @@ Pub. L. 105–66, title III, §346, Oct. 27, 1997, 111 Stat. 1449, provided that
 
 &emsp;“(3) modify the positioning system operated by the Coast Guard at the time of the establishment of the NDGPS to integrate the reference stations made available pursuant to subsection (a);
 
-&emsp;“(4) in cooperation with the Secretary of Commerce, ensure that the reference stations referred to in paragraph (3) are compatible with, and integratedinto, the Continuously Operating Reference Station (commonly referred to as ‘CORS’) system of the National Geodetic Survey of the Department of Commerce; and
+&emsp;“(4) in cooperation with the Secretary of Commerce, ensure that the reference stations referred to in paragraph (3) are compatible with, and integrated into, the Continuously Operating Reference Station (commonly referred to as ‘CORS’) system of the National Geodetic Survey of the Department of Commerce; and
 
 &emsp;“(5) in cooperation with the Secretary of Commerce, investigate the use of the NDGPS reference stations for the Global Positioning System Integrated Precipitable Water Vapor System of the National Oceanic and Atmospheric Administration.
 

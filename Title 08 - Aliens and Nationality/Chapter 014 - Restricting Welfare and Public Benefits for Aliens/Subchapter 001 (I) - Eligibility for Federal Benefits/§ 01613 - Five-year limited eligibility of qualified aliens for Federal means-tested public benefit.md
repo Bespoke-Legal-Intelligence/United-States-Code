@@ -40,7 +40,7 @@ The limitation under subsection (a) of this section shall not apply to the follo
 
 &emsp;(B) Short-term, non-cash, in-kind emergency disaster relief.
 
-&emsp;(C) Assistance or benefits under the National School Lunch Act \[42 U.S.C. 1751 et seq.\].
+&emsp;(C) Assistance or benefits under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\].
 
 &emsp;(D) Assistance or benefits under the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\].
 
@@ -66,11 +66,11 @@ Notwithstanding any other provision of law, the limitations under section 1611(a
 
 &emsp;(2) an individual, spouse, or dependent described in section 1612(a)(2)(K) of this title, but only with respect to the specified Federal program described in section 1612(a)(3)(B) of this title.
 
-(Pub. L. 104–193, title IV, §403, Aug. 22, 1996, 110 Stat. 2265; Pub. L. 105–33, title V, §§5302(c)(1), 5303(c), 5306(c), 5562, 5563, Aug. 5, 1997, 111 Stat. 599, 600, 602, 638; Pub. L. 105–185, title V, §509, June 23, 1998, 112 Stat. 580; Pub. L. 105–277, div. A, title I, §101(f) \[title VIII, §405(d)(3)(A), (f)(3)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–429.)
+(Pub. L. 104–193, title IV, §403, Aug. 22, 1996, 110 Stat. 2265; Pub. L. 105–33, title V, §§5302(c)(1), 5303(c), 5306(c), 5562, 5563, Aug. 5, 1997, 111 Stat. 599, 600, 602, 638; Pub. L. 105–185, title V, §509, June 23, 1998, 112 Stat. 580; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(A), (f)(3)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–429; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169.)
 
 #### Amendment of Subsection (c)(2)(K)
 
-<i>Pub. L. 105–277, div. A, title I, §101(f) \[title VIII, §405(f)(3)(A), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–429, 2681–435, provided that, effective July 1, 2000, subsection (c)(2)(K) of this section is amended by striking “Job Training Partnership Act or”.</i>
+<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(3)(A), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–429, 2681–435, provided that, effective July 1, 2000, subsection (c)(2)(K) of this section is amended by striking “Job Training Partnership Act or”.</i>
 
 #### References in Text
 
@@ -80,9 +80,9 @@ Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in s
 
 Section 1612(a)(2)(A)(i)(V) of this title, referred to in subsec. (b)(1)(E), was redesignated section 1612(a)(2)(A)(v) of this title by Pub. L. 105–185, title V, §503(2), (3), June 23, 1998, 112 Stat. 578.
 
-The National School Lunch Act, referred to in subsec. (c)(2)(C), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (c)(2)(C), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Child Nutrition Act of 1966, referred to in subsec. (c)(2)(D), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (c)(2)(D), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, asamended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
 The Social Security Act, referred to in subsec. (c)(2)(E), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts B and E of title IV and title XIX of the Act are classified generally to parts B (§620 et seq.) and E (§670 et seq.) of subchapter IV and subchapter XIX (§1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -96,9 +96,11 @@ The Head Start Act, referred to in subsec. (c)(2)(J), is subchapter B (§§635�
 
 The Job Training Partnership Act, referred to in subsec. (c)(2)(K), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (c)(2)(K), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (c)(2)(K), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
+
+1999—Subsec. (c)(2)(C). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
 1998—Subsec. (c)(2)(K). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(3)(A)\], substituted “Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “Job Training Partnership Act”.
 
@@ -118,7 +120,7 @@ Subsec. (b)(2)(C). Pub. L. 105–33, §5563(b), inserted before period at end �
 
 Subsec. (d). Pub. L. 105–33, §5303(c), added subsec. (d).
 
-Pub. L. 105–33, §5302(c)(1)(B), struck out heading and text of subsec. (d). Text read as follows: “The limitation under subsection (a) of this section shall not applyto refugee and entrant assistance activities, authorized by title IV of the Immigration and Nationality Act \[8 U.S.C. 1521 et seq.\] and section 501 of the Refugee Education Assistance Act of 1980, for Cuban and Haitian entrants as defined in section 501(e)(2) of the Refugee Education Assistance Act of 1980.”
+Pub. L. 105–33, §5302(c)(1)(B), struck out heading and text of subsec. (d). Text read as follows: “The limitation under subsection (a) of this section shall not apply to refugee and entrant assistance activities, authorized by title IV of the Immigration and Nationality Act \[8 U.S.C. 1521 et seq.\] and section 501 of the Refugee Education Assistance Act of 1980, for Cuban and Haitian entrants as defined in section 501(e)(2) of the Refugee Education Assistance Act of 1980.”
 
 #### Effective Date of 1998 Amendments
 

@@ -18,7 +18,7 @@ No State educational agency shall receive any payment under this part for any fi
 
 &emsp;(7) provide assurances—
 
-&emsp;&emsp;(A) that to the extent consistent with the number of immigrant children and youth enrolled in the nonpublic elementary or secondary schools within the district served by a local educational agency, such agency,after consultation with appropriate officials of such schools, shall provide for the benefit of such children and youth secular, neutral, and nonideological services, materials, and equipment necessary for the education of such children and youth;
+&emsp;&emsp;(A) that to the extent consistent with the number of immigrant children and youth enrolled in the nonpublic elementary or secondary schools within the district served by a local educational agency, such agency, after consultation with appropriate officials of such schools, shall provide for the benefit of such children and youth secular, neutral, and nonideological services, materials, and equipment necessary for the education of such children and youth;
 
 &emsp;&emsp;(B) that the control of funds provided under this part to any materials, equipment, and property repaired, remodeled, or constructed with those funds shall be in a public agency for the uses and purposes provided in this part, and a public agency shall administer such funds and property; and
 

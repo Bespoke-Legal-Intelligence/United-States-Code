@@ -16,7 +16,7 @@
 
 (3) A murder, attempted murder, or conspiracy to murder in violation of this section shall be punished as provided in sections 1111, 1113, and 1117 of this title.
 
-(4) A threat made in violation of this section shall be punished by a fine under this title orimprisonment for a term of not more than five years, or both, except that imprisonment for a threatened assault shall not exceed three years.
+(4) A threat made in violation of this section shall be punished by a fine under this title or imprisonment for a term of not more than five years, or both, except that imprisonment for a threatened assault shall not exceed three years.
 
 (c) As used in this section, the term—
 

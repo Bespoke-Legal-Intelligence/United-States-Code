@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 78c, 78<i>o</i>, 78s, 78u–2, 80a–9, 80a–10, 80a–12, 80a–37, 80a–49, 80a–56 of this title; title 7 sections 6, 12a; title 29 section 1002.
+This subchapter is referred to in sections 78c, 78<i>o</i>, 78s, 78u–2, 80a–9, 80a–10, 80a–12, 80a–37, 80a–49, 80a–56, 6805 of this title; title 7 sections 6, 12a; title 12 sections 1843, 1844; title 29 section 1002.
 
 
 ---
@@ -22,6 +22,7 @@ This subchapter is referred to in sections 78c, 78<i>o</i>, 78s, 78u–2, 80a–
 - [&sect; 00080b&#8211;8 - General prohibitions](%C2%A7%2000080b%E2%80%938%20-%20General%20prohibitions.md)
 - [&sect; 00080b&#8211;9 - Enforcement of subchapter](%C2%A7%2000080b%E2%80%939%20-%20Enforcement%20of%20subchapter.md)
 - [&sect; 00080b&#8211;10 - Disclosure of information by Commission](%C2%A7%2000080b%E2%80%9310%20-%20Disclosure%20of%20information%20by%20Commission.md)
+- [&sect; 00080b&#8211;10a - Consultation](%C2%A7%2000080b%E2%80%9310a%20-%20Consultation.md)
 - [&sect; 00080b&#8211;11 - Rules, regulations, and orders of Commission](%C2%A7%2000080b%E2%80%9311%20-%20Rules%2C%20regulations%2C%20and%20orders%20of%20Commission.md)
 - [&sect; 00080b&#8211;12 - Hearings](%C2%A7%2000080b%E2%80%9312%20-%20Hearings.md)
 - [&sect; 00080b&#8211;13 - Court review of orders](%C2%A7%2000080b%E2%80%9313%20-%20Court%20review%20of%20orders.md)

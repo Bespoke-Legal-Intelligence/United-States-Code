@@ -30,7 +30,7 @@ The following items shall not be included in gross income, and shall be exempt f
 
 &emsp;&emsp;(D) such portion of living allowances as the President may determine under the Peace Corps Act as constituting basic compensation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 290; Pub. L. 86–707, title V, §523(a), Sept. 6, 1960, 74 Stat. 802; Pub. L. 87–293, title II, §201(a), Sept. 22, 1961, 75 Stat. 625; Pub. L. 96–465, title II, §2206(e)(3), Oct.17, 1980, 94 Stat. 2163; Pub. L. 100–647, title VI, §6137(a), Nov. 10, 1988, 102 Stat. 3723.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 290; Pub. L. 86–707, title V, §523(a), Sept. 6, 1960, 74 Stat. 802; Pub. L. 87–293, title II, §201(a), Sept. 22, 1961, 75 Stat. 625; Pub. L. 96–465, title II, §2206(e)(3), Oct. 17, 1980, 94 Stat. 2163; Pub. L. 100–647, title VI, §6137(a), Nov. 10, 1988, 102 Stat. 3723.)
 
 #### References in Text
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 Section 201(d) of Pub. L. 87–293 provided that: “The amendments made by subsections (a) and (b) of this section \[amending this section and section 1303 of this title\] shall apply with respect to taxable years ending after March 1, 1961. The amendment made by subsection (c) \[amending section 3401 of this title\] shall apply with respect to remuneration paid after the date of the enactment of this Act \[Sept. 22, 1961\].”
 
-\[Section 201(d) of Pub. L. 87–293 was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments contained in such provisions, see sections 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.\]
+\[Section 201(d) of Pub. L. 87–293 was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments contained in suchprovisions, see sections 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.\]
 
 #### Effective Date of 1960 Amendment
 

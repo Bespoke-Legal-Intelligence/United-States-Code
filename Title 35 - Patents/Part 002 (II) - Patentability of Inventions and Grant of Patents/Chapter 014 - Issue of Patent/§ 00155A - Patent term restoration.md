@@ -16,13 +16,21 @@
 
 (b) The term of any patent described in subsection (a) shall be extended for a period equal to the period beginning February 20, 1976, and ending May 26, 1981, and such patent shall have the effect as if originally issued with such extended term.
 
-(c) The patentee of any patent described in subsection (a) of this section shall, within ninety days after the date of enactment of this section, notify the Commissioner of Patents and Trademarks of the number of any patent so extended. On receipt of such notice, the Commissioner shall confirm such extension by placing a notice thereof in the official file of such patent and publishing an appropriate notice of such extension in the Official Gazette of the Patent and Trademark Office.
+(c) The patentee of any patent described in subsection (a) of this section shall, within ninety days after the date of enactment of this section, notify the Director of the number of any patent so extended. On receipt of such notice, the Director shall confirm such extension by placing a notice thereof in the official file of such patent and publishing an appropriate notice of such extension in the Official Gazette of the Patent and Trademark Office.
 
-(Added Pub. L. 98–127, §4(a), Oct. 13, 1983, 97 Stat. 832.)
+(Added Pub. L. 98–127, §4(a), Oct. 13, 1983, 97 Stat. 832; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(7), (10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
 
 #### References in Text
 
 Section 505(b)(1) of the Federal Food, Drug and Cosmetic Act, referred to in subsec. (a)(1)(A), is classified to section 355(b)(1) of Title 21, Food and Drugs.
 
 The date of enactment of this section, referred to in subsec. (c), is the date of enactment of Pub. L. 98–127, which was approved Oct. 13, 1983.
+
+#### Amendments
+
+1999—Pub. L. 106–113 substituted “notify the Director” for “notify the Commissioner of Patents and Trademarks” and “Director shall confirm” for “Commissioner shall confirm”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 

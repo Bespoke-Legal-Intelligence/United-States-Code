@@ -12,7 +12,7 @@ In any relicensing proceeding before the Commission any Federal department or ag
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–495 struck out first sentence which read as follows: “No earlier than five years before the expiration of any license, the Commission shall entertain applications for a new license and decide them in a relicensing proceeding pursuant to the provisions of section 808 of this title.”
+1986—Subsec. (b). Pub. L. 99–495 struck out first sentence which read as follows: “No earlier than five yearsbefore the expiration of any license, the Commission shall entertain applications for a new license and decide them in a relicensing proceeding pursuant to the provisions of section 808 of this title.”
 
 1968—Pub. L. 90–451 designated existing provisions as subsec. (a) and added subsec. (b).
 

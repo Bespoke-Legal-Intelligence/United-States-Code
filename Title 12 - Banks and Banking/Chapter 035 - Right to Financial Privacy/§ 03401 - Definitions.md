@@ -10,7 +10,7 @@ For the purpose of this chapter, the term—
 
 &emsp;(4) “person” means an individual or a partnership of five or fewer individuals;
 
-&emsp;(5) “customer” means any person or authorized representative of that person who utilized or is utilizing any service of a financial institution, or for whom a financial institution is acting or has acted as a fiduciary, in relation to an account maintained in the person's name;
+&emsp;(5) “customer” means any person or authorized representative of that person who utilized or is utilizing any service of a financial institution, or for whom a financial institution isacting or has acted as a fiduciary, in relation to an account maintained in the person's name;
 
 &emsp;(6) “holding company” means—
 
@@ -34,25 +34,29 @@ For the purpose of this chapter, the term—
 
 &emsp;&emsp;(F) the Securities and Exchange Commission;
 
-&emsp;&emsp;(G) the Secretary of the Treasury, with respect to the Bank Secrecy Act (Public Law 91–508, title I) \[12 U.S.C. 1951 et seq.\] and subchapter II of chapter 53 of title 31; or
+&emsp;&emsp;(G) the Commodity Futures Trading Commission;
 
-&emsp;&emsp;(H) any State banking or securities department or agency; and
+&emsp;&emsp;(H) the Secretary of the Treasury, with respect to the Bank Secrecy Act (Public Law 91–508, title I) \[12 U.S.C. 1951 et seq.\] and subchapter II of chapter 53 of title 31; or
+
+&emsp;&emsp;(I) any State banking or securities department or agency; and
 
 &emsp;(8) “law enforcement inquiry” means a lawful investigation or official proceeding inquiring into a violation of, or failure to comply with, any criminal or civil statute or any regulation, rule, or order issued pursuant thereto.
 
-(Pub. L. 95–630, title XI, §1101, Nov. 10, 1978, 92 Stat. 3697; Pub. L. 101–73, title VII, §744(b), title IX, §941, Aug. 9, 1989, 103 Stat. 438, 496; Pub. L. 101–647, title XXV, §2596(c), Nov. 29, 1990, 104 Stat. 4908.)
+(Pub. L. 95–630, title XI, §1101, Nov. 10, 1978, 92 Stat. 3697; Pub. L. 101–73, title VII, §744(b), title IX, §941, Aug. 9, 1989, 103 Stat. 438, 496; Pub. L. 101–647, title XXV, §2596(c), Nov. 29, 1990, 104 Stat. 4908; Pub. L. 106–102, title VII, §727(b)(1), Nov. 12, 1999, 113 Stat. 1475.)
 
 #### References in Text
 
 The Home Owners’ Loan Act, referred to in par. (6)(C), is act June 13, 1933, ch. 64, 48 Stat. 128, as amended, which is classified generally to chapter 12 (§1461 et seq.) of this title. For complete classification of this Act to the Code, see section 1461 of this title and Tables.
 
-The Bank Secrecy Act, referred to in par. (7)(G), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, which is classified principally to chapter 21 (§1951 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Bank Secrecy Act, referred to in par. (7)(H), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, which is classified principally to chapter 21 (§1951 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
-In par. (7)(G), “the Bank Secrecy Act (Public Law 91–508, title I) \[12 U.S.C. 1951 et seq.\] and subchapter II of chapter 53 of title 31” substituted for “the Bank Secrecy Act \[12 U.S.C. 1951 et seq.\] and the Currency and Foreign Transactions Reporting Act \[31 U.S.C. 1051 et seq.\] (Public Law 91–508, title I and II)”, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In par. (7)(H), “the Bank Secrecy Act (Public Law 91–508, title I) \[12 U.S.C. 1951 et seq.\] and subchapter II of chapter 53 of title 31” substituted for “the Bank Secrecy Act \[12 U.S.C. 1951 et seq.\] and the Currency and Foreign Transactions Reporting Act \[31 U.S.C. 1051 et seq.\] (Public Law 91–508, title I and II)”, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+1999—Par. (7)(G) to (I). Pub. L. 106–102 added subpar. (G) and redesignated former subpars. (G) and (H) as (H) and (I), respectively.
 
 1990—Par. (6)(B). Pub. L. 101–647 substituted “section 1843(f)(1)” for “section 1842(f)(1)”.
 

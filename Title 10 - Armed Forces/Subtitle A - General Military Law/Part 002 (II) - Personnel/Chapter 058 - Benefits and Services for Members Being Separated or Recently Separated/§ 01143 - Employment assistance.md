@@ -34,7 +34,7 @@ Subsec. (d). Pub. L. 103–337, §542(a)(2)(E), inserted at end “The Secretary
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
+Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated afterSept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
 
 #### Demonstration Program for Training Recently Discharged Veterans for Employment in Construction and Hazardous Waste Remediation
 
@@ -52,7 +52,7 @@ Grant Eligibility Criteria.—An organization is eligible to receive a grant fro
 
 &emsp;“(2) has entered into an agreement with a joint labor-management training fund established consistent with section 8(f) of the National Labor Relations Act (29 U.S.C. 158(f)) to implement and operate a training and employment program for veterans;
 
-&emsp;“(3) agrees under the agreement referred to in paragraph (2) to use grant funds to carry out a program that will provide eligible veterans with training foremployment in the construction and hazardous waste remediation industries;
+&emsp;“(3) agrees under the agreement referred to in paragraph (2) to use grant funds to carry out a program that will provide eligible veterans with training for employment in the construction and hazardous waste remediation industries;
 
 &emsp;“(4) provides such training for an eligible veteran for not more than 18 months;
 

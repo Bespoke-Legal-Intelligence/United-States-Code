@@ -48,7 +48,7 @@
 
 &emsp;(2) an annuity equal to the salary payable to Court of Federal Claims judges in regular active service, if before retirement such judge served at least 10 years.
 
-(d) A judge who retires under subsection (a) or (b) may, at or after such retirement, be called upon by the chief judge of the Court of Federal Claims to perform such judicial duties with the Court of Federal Claims as may be requested of the retired judge for any period or periods specified by the chief judge, except that in the case of any such judge—
+(d) A judge who retires under subsection (a) or (b) may, at or after such retirement, be called upon by the chief judge of the Court of Federal Claims to perform such judicial duties with theCourt of Federal Claims as may be requested of the retired judge for any period or periods specified by the chief judge, except that in the case of any such judge—
 
 &emsp;(1) the aggregate of such periods in any one calendar year shall not (without his or her consent) exceed 90 calendar days; and
 
@@ -102,7 +102,7 @@
 
 &emsp;(i) may be made by a judge only if such judge meets the age and service requirements for retirement under subsection (a),
 
-&emsp;(ii) may be made only during the period during which such judge may make an election to receive an annuity under this section or while the judge is receiving an annuity under this section, and
+&emsp;(ii) may be made only during the period during which such judge may make an election to receive an annuity under this section or whilethe judge is receiving an annuity under this section, and
 
 &emsp;(iii) shall be filed with the Director of the Administrative Office of the United States Courts.
 
@@ -112,7 +112,7 @@
 
 (k)(1) Notwithstanding subsection (f)(1)(B), an individual who has filed an election under subsection (f) to receive an annuity may revoke such election at any time before the first day on which such annuity would (but for such revocation) begin to accrue with respect to such individual.
 
-(2) Any revocation under this subsection shall be made by filing a notice thereof in writingwith the Director of <sup>1</sup> Administrative Office of the United States Courts.
+(2) Any revocation under this subsection shall be made by filing a notice thereof in writing with the Director of <sup>1</sup> Administrative Office of the United States Courts.
 
 (3) In the case of any revocation under this subsection—
 

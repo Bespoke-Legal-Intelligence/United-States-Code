@@ -42,7 +42,7 @@ If—
 
 &emsp;(B) a net operating loss or capital loss sustained for the prior taxable year (or years), if paragraph (5)(B) of subsection (a) applied.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 348; Pub. L. 85–866, title I, §60(a)–(d), Sept. 2, 1958, 72 Stat. 1647; Pub. L. 87–863, §5(a), Oct. 23, 1962, 76 Stat.1142; Pub. L. 88–272, title II, §234(b)(7), Feb. 26, 1964, 78 Stat. 116; Pub. L. 94–455, title XIX, §1901(a)(146), Oct. 4, 1976, 90 Stat. 1788.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 348; Pub. L. 85–866, title I, §60(a)–(d), Sept. 2, 1958, 72 Stat. 1647; Pub. L. 87–863, §5(a), Oct. 23, 1962, 76 Stat. 1142; Pub. L. 88–272, title II, §234(b)(7), Feb. 26, 1964, 78 Stat. 116; Pub. L. 94–455, title XIX, §1901(a)(146), Oct. 4, 1976, 90 Stat. 1788.)
 
 #### References in Text
 
@@ -52,7 +52,7 @@ Subchapter E of chapter 2 of the Internal Revenue Code of 1939, referred to in s
 
 #### Amendments
 
-1976—Subsec. (b)(2). Pub. L. 94–455 struck out provision relating to the applicability of this paragraph where deduction arises out of payments or repayments made pursuant to a price redetermination provision in a subcontract entered into before Jan. 1, 1958.
+1976—Subsec. (b)(2). Pub. L. 94–455 struck out provision relating to the applicability of this paragraphwhere deduction arises out of payments or repayments made pursuant to a price redetermination provision in a subcontract entered into before Jan. 1, 1958.
 
 1964—Subsec. (b)(2). Pub. L. 88–272 substituted “7701(a)(33) without regard to the limitation continued in the last two sentences thereof)” for “1503(c) without regard to paragraph (2) thereof)”.
 

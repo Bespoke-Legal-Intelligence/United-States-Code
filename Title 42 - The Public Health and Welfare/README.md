@@ -1,5 +1,5 @@
 
-42 U.S.C.<br>United States Code, 1998 Edition<br>Title 42 - THE PUBLIC HEALTH AND WELFARE<br>From the U.S. Government Publishing Office, www.gpo.gov
+42 U.S.C.<br>United States Code, 1999 Edition<br>Title 42 - THE PUBLIC HEALTH AND WELFARE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 42—THE PUBLIC HEALTH AND WELFARE
 
@@ -111,7 +111,7 @@
 | [<b>82.</b>](Chapter%20082%20-%20Solid%20Waste%20Disposal/README.md) | <b>Solid Waste Disposal</b> | <b>6901</b> |
 | [<b>83.</b>](Chapter%20083%20-%20Energy%20Extension%20Service/README.md) | <b>Energy Extension Service</b> | <b>7001</b> |
 | [<b>84.</b>](Chapter%20084%20-%20Department%20of%20Energy/README.md) | <b>Department of Energy</b> | <b>7101</b> |
-| [<b>85.</b>](Chapter%20085%20-%20Air%20Pollution%20Prevention%20and%20Control/README.md) | <b>Air Pollution Prevention and Control</b> | <b>7401</b> |
+| <b>85.</b> | <b>Air Pollution Prevention and Control</b> | <b>7401</b> |
 | [<b>86.</b>](Chapter%20086%20-%20Earthquake%20Hazards%20Reduction/README.md) | <b>Earthquake Hazards Reduction</b> | <b>7701</b> |
 | [<b>87.</b>](Chapter%20087%20-%20Water%20Research%20and%20Development/README.md) | <b>Water Research and Development \[Repealed or Transferred\]</b> | <b>7801</b> |
 | [<b>88.</b>](Chapter%20088%20-%20Uranium%20Mill%20Tailings%20Radiation%20Control/README.md) | <b>Uranium Mill Tailings Radiation Control</b> | <b>7901</b> |

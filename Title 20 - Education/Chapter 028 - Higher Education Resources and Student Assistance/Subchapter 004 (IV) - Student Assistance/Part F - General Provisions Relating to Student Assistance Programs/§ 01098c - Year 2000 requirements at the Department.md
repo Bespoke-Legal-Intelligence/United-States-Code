@@ -10,7 +10,7 @@ In order to ensure that the processing, delivery, and administration of grant, l
 
 &emsp;(3) work with the Department's various data exchange partners under this subchapter and part C of subchapter I of chapter 34 of title 42 to fully test all data exchange routes for Year 2000 compliance via end-to-end testing, and submit a report describing the parameters and results of such tests to the Comptroller General not later than March 31, 1999;
 
-&emsp;(4) ensure that the Inspector General of the Department (or an external, independent entity selected by the Inspector General) performs and publishes a risk assessment of the systems and hardware under the Department's management, that has been reviewed by an independent entity, and make such assessment publicly available not later than 60 days after October 7, 1998;
+&emsp;(4) ensure that the Inspector General of the Department (or an external, independent entity selected by the Inspector General) performs and publishes a risk assessment of the systems and hardware under the Department'smanagement, that has been reviewed by an independent entity, and make such assessment publicly available not later than 60 days after October 7, 1998;
 
 &emsp;(5) not later than June 30, 1999, ensure that the Inspector General (or an external, independent entity selected by the Inspector General) conducts a review of the Department's Year 2000 compliance for the processing, delivery, and administration of grant, loan, and work assistance, and submits a report reflecting the results of that review to the Chairperson of the Committee on Labor and Human Resources of the Senate and the Chairperson of the Committee on Education and the Workforce of the House of Representatives;
 

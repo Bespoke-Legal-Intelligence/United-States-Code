@@ -32,11 +32,11 @@ The Corporation, including its franchise, activities, capital, reserves, surplus
 
 #### (f) Actions by and against the Corporation; jurisdiction; removal of actions; attachment or execution issued against the Corporation
 
-Notwithstanding section 1349 of title 28 or any other provision of law, (1) the Corporation shall be deemed to be an agency included in sections 1345 and 1442 of such title 28; (2) all civil actions to which the Corporation is a party shall be deemed to arise under the laws of the United States, and the district courts of the United States shall have original jurisdiction of all such actions, without regard to amount or value; and (3) any civil or other action, case or controversy in a court of a State, or in any court other than a district court of the United States, to which the Corporation is a party may at any time before the trial thereof be removed by the Corporation, without the giving of any bond or security, to the district court of the United States for the district and division embracing the place where the same is pending, or, if there is no such district court, to the district court of the United States for the district inwhich the principal office of the Corporation is located, by following any procedure for removal of causes in effect at the time of such removal.
+Notwithstanding section 1349 of title 28 or any other provision of law, (1) the Corporation shall be deemed to be an agency included in sections 1345 and 1442 of such title 28; (2) all civil actions to which the Corporation is a party shall be deemed to arise under the laws of the United States, and the district courts of the United States shall have original jurisdiction of all such actions, without regard to amount or value; and (3) any civil or other action, case or controversy in a court of a State, or in any court other than a district court of the United States, to which the Corporation is a party may at any time before the trial thereof be removed by the Corporation, without the giving of any bond or security, to the district court of the United States for the district and division embracing the place where the same is pending, or, if there is no such district court, to the district court of the United States for the district in which the principal office of the Corporation is located, by following any procedure for removal of causes in effect at the time of such removal.
 
 #### (g) Mortgages, obligations, or other securities sold by Corporation deemed lawful investments for security purposes
 
-All mortgages, obligations, or other securities which are or have been sold by the Corporation pursuant to section 1454 or section 1455 of this title shall be lawful investments, and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposits of which shall be under the authority and control of the United States or any officers thereof.
+All mortgages, obligations, or other securities which are or have been sold by the Corporationpursuant to section 1454 or section 1455 of this title shall be lawful investments, and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposits of which shall be under the authority and control of the United States or any officers thereof.
 
 #### (h) Report on comparability of compensation policies and financial performance of Corporation and payments earned by executive officers; prohibition on payments to terminated executive officers
 
@@ -76,7 +76,7 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 
 #### Effective Date of 1992 Amendment
 
-Section 1382(c)(2) of Pub. L. 102–550 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to the first annual appointment by the President of members to the Board of Directors of the Federal Home Loan Mortgage Corporation that occurs after the date of the enactment of this Act \[Oct. 28, 1992\].”
+Section 1382(c)(2) of Pub. L. 102–550 provided that: “The amendments made by paragraph (1) \[amendingthis section\] shall apply to the first annual appointment by the President of members to the Board of Directors of the Federal Home Loan Mortgage Corporation that occurs after the date of the enactment of this Act \[Oct. 28, 1992\].”
 
 #### Effective Date of 1984 Amendment
 

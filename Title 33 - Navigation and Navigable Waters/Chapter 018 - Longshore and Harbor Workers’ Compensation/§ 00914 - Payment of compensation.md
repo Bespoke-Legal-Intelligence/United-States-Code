@@ -52,7 +52,7 @@ An injured employee, or in case of death his dependents or personal representati
 
 Subsecs. (c), (d), (g). Pub. L. 98–426, §27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 98–426, §13(b), redesignated subsecs. (k) and (<i>l</i>) as (j) and (k), respectively, and struck out former subsec. (j) which provided that whenever the deputy commissioner determines that it was in the interest of justice, the liability of the employer for compensation, or any part thereof as determined by the deputy commissioner with the approval of the Secretary, could be discharged by the payment of a lump sum equal to the present value of future compensation payments commuted, computed at 4 per centum true discount compounded annually, that the probability of the death of the injured employee or other person entitled to compensation before the expiration of the period during which he was entitled to compensation would be determined in accordance with the American Experience Table of Mortality, and the probability of the remarriage of the surviving wife would be determined in accordance with the remarriage tables of the Dutch Royal Insurance Institution, and that the probability of the happening of any other contingency affecting the amount or duration of the compensation would be disregarded, was struck out.
+Subsecs. (j) to (<i>l</i>). Pub. L. 98–426, §13(b), redesignated subsecs. (k) and (<i>l</i>) as (j) and (k), respectively, and struck out former subsec. (j) which provided that whenever the deputy commissioner determines that it was in the interest of justice, the liability of the employer for compensation, or any part thereof as determined bythe deputy commissioner with the approval of the Secretary, could be discharged by the payment of a lump sum equal to the present value of future compensation payments commuted, computed at 4 per centum true discount compounded annually, that the probability of the death of the injured employee or other person entitled to compensation before the expiration of the period during which he was entitled to compensation would be determined in accordance with the American Experience Table of Mortality, and the probability of the remarriage of the surviving wife would be determined in accordance with the remarriage tables of the Dutch Royal Insurance Institution, and that the probability of the happening of any other contingency affecting the amount or duration of the compensation would be disregarded, was struck out.
 
 1972—Subsec. (f). Pub. L. 92–576, §15(d), substituted “order staying payment has been issued by the Board or court” for “interlocutory injunction staying payments is allowed by the court as provided therein”.
 
@@ -86,7 +86,7 @@ Amendment by act July 26, 1956, applicable only with respect to injuries and dea
 
 #### Effective Date of 1948 Amendment
 
-Amendment by act June 24, 1948, applicable to death or injuries occurring after June 24, 1948, see section 6 ofact June 24, 1948, set out as a note under section 906 of this title.
+Amendment by act June 24, 1948, applicable to death or injuries occurring after June 24, 1948, see section 6 of act June 24, 1948, set out as a note under section 906 of this title.
 
 #### Cross References
 

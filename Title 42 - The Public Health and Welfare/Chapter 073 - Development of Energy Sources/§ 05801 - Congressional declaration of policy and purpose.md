@@ -36,7 +36,7 @@ Section 312 of Pub. L. 93–438 provided that:
 
 #### Short Title
 
-Section 1 of Pub. L. 93–438 provided that: “This Act \[enacting this chapter, repealing sections 2031 and 2032 of this title, amending sections 5313 to 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section\] may be cited as the ‘Energy Reorganization Act of 1974’.”
+Section 1 of Pub. L. 93–438 provided that: “This Act \[enacting this chapter, repealing sections 2031 and 2032of this title, amending sections 5313 to 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section\] may be cited as the ‘Energy Reorganization Act of 1974’.”
 
 #### Separability
 
@@ -48,7 +48,7 @@ Energy Research and Development Administration terminated and functions vested b
 
 #### Executive Order No. 11834
 
-Ex. Ord. No. 11834, eff. Jan. 15, 1975, 40 F.R. 2971, which prescribed Jan. 19, 1975, as the effective date of thischapter, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 11834, eff. Jan. 15, 1975, 40 F.R. 2971, which prescribed Jan. 19, 1975, as the effective date of this chapter, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
 #### Section Referred to in Other Sections
 

@@ -8,9 +8,11 @@
 
 &emsp;(3) a bona fide purchaser of real property, other than fixtures, from the debtor, against whom applicable law permits such transfer to be perfected, that obtains the status of a bona fide purchaser and has perfected such transfer at the time of the commencement of the case, whether or not such a purchaser exists.
 
-(b) The trustee may avoid any transfer of an interest of the debtor in property or any obligation incurred by the debtor that is voidable under applicable law by a creditor holding an unsecured claim that is allowable under section 502 of this title or that is not allowable only under section 502(e) of this title.
+(b)(1) Except as provided in paragraph (2), the trustee may avoid any transfer of an interest of the debtor in property or any obligation incurred by the debtor that is voidable under applicable law by a creditor holding an unsecured claim that is allowable under section 502 of this title or that is not allowable only under section 502(e) of this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2596; Pub. L. 98–353, title III, §459, July 10, 1984, 98 Stat. 377.)
+(2) Paragraph (1) shall not apply to a transfer of a charitable contribution (as that term is defined in section 548(d)(3)) that is not covered under section 548(a)(1)(B), by reason of section 548(a)(2). Any claim by any person to recover a transferred contribution described in the preceding sentence under Federal or State law in a Federal or State court shall be preempted by the commencement of the case.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2596; Pub. L. 98–353, title III, §459, July 10, 1984, 98 Stat. 377; Pub. L. 105–183, §3(b), June 19, 1998, 112 Stat. 518.)
 
 #### Historical and Revision Notes
 
@@ -28,15 +30,25 @@ Subsection (b) is derived from current section 70e \[section 110(e) of former ti
 
 #### Amendments
 
+1998—Subsec. (b). Pub. L. 105–183 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the trustee” for “The trustee”, and added par. (2).
+
 1984—Subsec. (a)(1). Pub. L. 98–353, §459(1), inserted “such” after “obtained”.
 
 Subsec. (a)(2). Pub. L. 98–353, §459(2), substituted “; or” for “; and”.
 
 Subsec. (a)(3). Pub. L. 98–353, §459(3), inserted “, other than fixtures,” after “property”, and “and has perfected such transfer” after “purchaser” the second place it appeared.
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–183, §5, June 19, 1998, 112 Stat. 518, provided that: “This Act \[amending this section and sections 546, 548, 707, and 1325 of this title and enacting provisions set out as notes under this section and section 101 of this title\] and the amendments made by this Act shall apply to any case brought under an applicable provision of title 11, United States Code, that is pending or commenced on or after the date of enactment of this Act \[June 19, 1998\].”
+
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+#### Construction of 1998 Amendment
+
+Pub. L. 105–183, §6, June 19, 1998, 112 Stat. 519, provided that: “Nothing in the amendments made by this Act \[amending this section and sections 546, 548, 707, and 1325 of this title\] is intended to limit the applicability of the Religious Freedom Restoration Act of 1993 (42 U.S.C. 2002bb \[2000bb\] et seq.).”
 
 #### Section Referred to in Other Sections
 

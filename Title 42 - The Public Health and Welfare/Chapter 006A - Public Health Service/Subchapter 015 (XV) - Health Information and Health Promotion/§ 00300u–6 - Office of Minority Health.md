@@ -76,7 +76,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (2) Equitable allocation regarding activities
 
-&emsp;In carrying out subsection (b) of this section, the Secretary shall ensure that services provided under such subsection are equitably allocated among all groups served under this section by the Secretary.
+&emsp;In carrying out subsection (b) of this section, the Secretary shall ensure that servicesprovided under such subsection are equitably allocated among all groups served under this section by the Secretary.
 
 #### (3) Cultural competency of services
 
@@ -152,7 +152,7 @@ Section 401(a)(2) of Pub. L. 101–557 provided that: “The amendments made by 
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by thePresident or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

@@ -2,7 +2,7 @@
 
 #### (a) Survey conducted; preservation of data
 
-The Secretary, upon notification, in writing, by any Federal or State agency or appropriate historical or archeological authority that scientific, prehistorical, historical, or archeological data is being or may be irrevocably lost or destroyed by any Federal or federally assisted or licensed project, activity, or program, shall, ifhe determines that such data is significant and is being or may be irrevocably lost or destroyed and after reasonable notice to the agency responsible for funding or licensing such project, activity, or program, conduct or cause to be conducted a survey and other investigation of the areas which are or may be affected and recover and preserve such data (including analysis and publication) which, in his opinion, are not being, but should be, recovered and preserved in the public interest.
+The Secretary, upon notification, in writing, by any Federal or State agency or appropriate historical or archeological authority that scientific, prehistorical, historical, or archeological data is being or may be irrevocably lost or destroyed by any Federal or federally assisted or licensed project, activity, or program, shall, if he determines that such data is significant and is being or may be irrevocably lost or destroyed and after reasonable notice to the agency responsible for funding or licensing such project, activity, or program, conduct or cause to be conducted a survey and other investigation of the areas which are or may be affected and recover and preserve such data (including analysis and publication) which, in his opinion, are not being, but should be, recovered and preserved in the public interest.
 
 #### (b) Emergency projects
 

@@ -64,7 +64,7 @@ Nothing in this subchapter shall be construed to permit a State to have in effec
 
 Subsec. (a)(4). Pub. L. 92–603, §407(a), designated existing provisions as cl. (A) and added cl. (B).
 
-Subsec. (a)(7). Pub. L. 92–603, §413(a), substituted provisions permitting use or disclosure of information concerning applicants or recipients to public officials requiring such information in connection with their official duties and to other persons for purposes directly connected with administration of the State plan, for provisions restricting use or disclosure of such information to purposes directly connected with administration of the State plan.
+Subsec. (a)(7). Pub. L. 92–603, §413(a), substituted provisions permitting use or disclosure of information concerning applicants or recipients to public officials requiring such information in connection with their official duties and to other persons for purposes directly connected with administration of the State plan, forprovisions restricting use or disclosure of such information to purposes directly connected with administration of the State plan.
 
 Subsec. (a)(10)(C). Pub. L. 92–603, §405(a), inserted provision relating to use of whatever internal organizational arrangement found appropriate.
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 98–369 effective Apr. 1, 1985, except as otherwise provid
 
 #### Effective Date of 1968 Amendment
 
-Section 210(b) of Pub. L. 90–248 provided that: “Each of the amendments made by subsection (a) \[amending this section and sections 602, 1202, 1352, 1382, and 1396a of this title\] shall become effective July 1, 1969, or, if earlier (with respect to a State's plan approved under title \[subchapter\] I, X, XIV, XVI, or XIX, or part A oftitle IV \[of this chapter\]) on the date as of which the modification of the State plan to comply with such amendment is approved.”
+Section 210(b) of Pub. L. 90–248 provided that: “Each of the amendments made by subsection (a) \[amending this section and sections 602, 1202, 1352, 1382, and 1396a of this title\] shall become effective July 1, 1969, or, if earlier (with respect to a State's plan approved under title \[subchapter\] I, X, XIV, XVI, or XIX, or part A of title IV \[of this chapter\]) on the date as of which the modification of the State plan to comply with such amendment is approved.”
 
 #### Effective Date of 1965 Amendment
 

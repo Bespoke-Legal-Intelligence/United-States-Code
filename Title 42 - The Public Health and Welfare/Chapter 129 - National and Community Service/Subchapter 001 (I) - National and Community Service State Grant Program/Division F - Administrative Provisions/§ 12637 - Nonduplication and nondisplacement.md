@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;An employer shall not displace an employee or position, including partial displacement such as reduction in hours, wages, or employment benefits, as a result of the use by such employer of a participant in a program receiving assistance under this subchapter.
+&emsp;An employer shall not displace an employee or position, including partial displacementsuch as reduction in hours, wages, or employment benefits, as a result of the use by such employer of a participant in a program receiving assistance under this subchapter.
 
 #### (2) Service opportunities
 

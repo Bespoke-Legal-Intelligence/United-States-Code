@@ -20,7 +20,7 @@ In making grants under subsection (a) of this section, the Secretary may require
 
 #### (3) Investments
 
-&emsp;The Secretary of the Treasury may invest any portion of the Fund in interest-bearing obligations of the United States. Such obligations may be acquired on original issue or in the open market and may be held to maturity or sold in the open market. In making investments for the Fund, the Secretary of the Treasury shall consult the Secretary of the Interior with respect to maturities, purchases, and sales, taking into consideration the balance necessary to meet current grant requirements.
+&emsp;The Secretary of the Treasury may invest any portion of the Fund in interest-bearing obligations of the United States. Such obligations may be acquired on original issue or in the open market and may be held to maturityor sold in the open market. In making investments for the Fund, the Secretary of the Treasury shall consult the Secretary of the Interior with respect to maturities, purchases, and sales, taking into consideration the balance necessary to meet current grant requirements.
 
 #### (4) Expenditures and capital preservation
 

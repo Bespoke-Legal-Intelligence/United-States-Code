@@ -2,7 +2,7 @@
 
 #### (a) Tier 1 tax
 
-In addition to other taxes, there is hereby imposed on the income of each employee a taxequal to the applicable percentage of the compensation received during any calendar year by such employee for services rendered by such employee. For purposes of the preceding sentence, the term “applicable percentage” means the percentage equal to the sum of the rates of tax in effect under subsections (a) and (b) of section 3101 for the calendar year.
+In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to the applicable percentage of the compensation received during any calendar year by such employee for services rendered by such employee. For purposes of the preceding sentence, the term “applicable percentage” means the percentage equal to the sum of the rates of tax in effect under subsections (a) and (b) of section 3101 for the calendar year.
 
 #### (b) Tier 2 tax
 
@@ -36,7 +36,7 @@ In addition to other taxes, there is hereby imposed on the income of each employ
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-1983—Pub. L. 98–76, §221, amended section generally, substituting a two tiered tax system with accompanying tax rate tables and a cross reference to section 3231 of this title, for provisions which had taxed an employee at 2.75 percent of so much of the compensation paid in any calendar month to such employee for services rendered by him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 for any month and which had provided that the rate of tax imposed by subsection (a) be increased by the rate of the tax imposed with respect to wages by section 3101(a) plus the rate imposed by section 3101(b) of so much of the compensation paid in any calendar month to such employee for services rendered by him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 for any month.
+1983—Pub. L. 98–76, §221, amended section generally, substituting a two tiered tax system with accompanying tax rate tables and a cross reference to section 3231 of this title, for provisions which had taxed an employee at 2.75 percent of so much of the compensation paid in any calendar month to such employee for services rendered by him as was not in excess of an amount equal to one-twelfth of the current maximum annualtaxable “wages” as defined in section 3121 for any month and which had provided that the rate of tax imposed by subsection (a) be increased by the rate of the tax imposed with respect to wages by section 3101(a) plus the rate imposed by section 3101(b) of so much of the compensation paid in any calendar month to such employee for services rendered by him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 for any month.
 
 Pub. L. 98–76, §211(a), substituted “2.75 percent” for “2.0 percent”.
 
@@ -56,7 +56,7 @@ Pub. L. 89–699 substituted “7 percent” for “63/4 percent” in subd. (3)
 
 1965—Pub. L. 89–212 substituted pars. (1) to (5) for former pars. (1) and (2) which imposed a tax equal to 63/4 percent of so much of the compensation paid to such employee for services rendered by him after the month in which this provision was amended in 1959, and before Jan. 1, 1962, and 71/4 percent of so much of the compensation paid to such employee for services rendered by him after Dec. 31, 1961, and inserted “and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable ‘wages’ as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after the month in which this provision was so amended”.
 
-Pub. L. 89–97 substituted “the rate of the tax imposed with respect to wages by section 3101(a) at such time exceeds 23/4 percent (the rate provided by paragraph (2)of section 3101 as amended by the Social Security Amendments of 1956)” for “the rate of the tax imposed with respect to wages by section 3101 at such time exceeds the rate provided by paragraph (2) of such section 3101 as amended by the Social Security Amendments of 1956” and inserted “plus the rate imposed by section 3101(b)” after “section 3101(a)”, respectively.
+Pub. L. 89–97 substituted “the rate of the tax imposed with respect to wages by section 3101(a) at such time exceeds 23/4 percent (the rate provided by paragraph (2) of section 3101 as amended by the Social Security Amendments of 1956)” for “the rate of the tax imposed with respect to wages by section 3101 at such time exceeds the rate provided by paragraph (2) of such section 3101 as amended by the Social Security Amendments of 1956” and inserted “plus the rate imposed by section 3101(b)” after “section 3101(a)”, respectively.
 
 1963—Pub. L. 88–133 limited existing taxable compensation base of $400 to any calendar month before Nov. 1963 and increased such base to $450 for any calendar month after Oct. 1963.
 
@@ -84,7 +84,7 @@ Amendment by Pub. L. 94–455 applicable with respect to compensation paid for s
 
 #### Effective Date of 1975 Amendment
 
-Section 207 of Pub. L. 94–93 provided that: “The amendments made by sections 201 through 205 of this title \[amending this section and sections 3211, 3221, and 3231 of this title\] shall apply for taxable years ending on or after the date of the enactment of this Act \[Aug. 9, 1975\] and for taxable years ending before the date of the enactment of this Act as to which the period for assessment and collection of tax or the filing of a claim for credit or refund has not expired on the date of enactment of this Act. The amendment made by section 206 of this title \[amending section 3231 of this title\] shall apply for taxable years beginning on or after the date of enactment of this Act: <i>Provided, however</i>, That with respect to payment made prior to the date of enactment of this Act, the employee may file a written request under section 206 within six months after the enactment of this Act.”
+Section 207 of Pub. L. 94–93 provided that: “The amendments made by sections 201 through 205 of this title \[amending this section and sections 3211, 3221, and 3231 of this title\] shall apply for taxable years ending on or after the date of the enactment of this Act \[Aug. 9, 1975\] and for taxable years ending before the date of the enactment of this Act as to which the period for assessment and collection of tax or the filing of a claim for credit or refund has not expired on the date of enactment of this Act. The amendment made by section 206 of this title \[amending section 3231 of this title\]shall apply for taxable years beginning on or after the date of enactment of this Act: <i>Provided, however</i>, That with respect to payment made prior to the date of enactment of this Act, the employee may file a written request under section 206 within six months after the enactment of this Act.”
 
 #### Effective Date of 1973 Amendment
 
@@ -100,7 +100,7 @@ Amendment by section 111(c)(1) of Pub. L. 89–97 applicable to calendar year 19
 
 #### Effective Date of 1959 Amendment
 
-Section 202 of Pub. L. 86–28 provided that: “The amendments made by section 201 \[amending this section and sections 3202, 3211, and 3221 of this title\] shall, except as otherwise provided in such amendments, be effective as of the first day of the calendar month next following the month in which this Act was enacted\[May, 1959\], and shall apply only with respect to compensation paid after the month of such enactment, for services rendered after such month of enactment.”
+Section 202 of Pub. L. 86–28 provided that: “The amendments made by section 201 \[amending this section and sections 3202, 3211, and 3221 of this title\] shall, except as otherwise provided in such amendments, be effective as of the first day of the calendar month next following the month in which this Act was enacted \[May, 1959\], and shall apply only with respect to compensation paid after the month of such enactment, for services rendered after such month of enactment.”
 
 #### Effective Date of 1954 Amendment
 

@@ -78,7 +78,7 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “regular tax” means the regular tax liability for the taxable year (as defined in section 26(b)) reduced by the foreign tax credit allowable under section 27(a), the section 936 credit allowable under section 27(b), and the Puerto Rico economic activity credit under section 30A. Such term shall not include any tax imposed by section 402(d) and shall not include any increase in tax under section 49(b) or 50(a) or subsection (j) or (k) of section 42.
+&emsp;For purposes of this section, the term “regular tax” means the regular tax liability for the taxable year (as defined in section 26(b)) reduced by the foreign tax credit allowable under section 27(a), the section 936 credit allowable under section 27(b), and the Puerto Rico economic activity credit under section 30A. Such term shall not include any increase in tax under section 49(b) or 50(a) or subsection (j) or (k) of section 42.
 
 #### (2) Cross references
 
@@ -138,7 +138,7 @@ For purposes of this section—
 
 #### (B) $5,000,000 gross receipts test for first 3-year period
 
-&emsp;&emsp;Subparagraph (A) shall be applied by substituting “$5,000,000” for “$7,500,000” for the first 3-taxable-year period (or portion thereof) of the corporation which is taken into account under subparagraph (A).
+&emsp;&emsp;Subparagraph (A) shall be applied by substituting “$5,000,000” for “$7,500,000” for thefirst 3-taxable-year period (or portion thereof) of the corporation which is taken into account under subparagraph (A).
 
 #### (C) First taxable year corporation in existence
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 #### (2) Prospective application of minimum tax if small corporation ceases to be small
 
-&emsp;In the case of a corporation whose tentative minimum tax is zero for any prior taxableyear by reason of paragraph (1), the application of this part for taxable years beginning with the first taxable year such corporation ceases to be described in paragraph (1) shall be determined with the following modifications:
+&emsp;In the case of a corporation whose tentative minimum tax is zero for any prior taxable year by reason of paragraph (1), the application of this part for taxable years beginning with the first taxable year such corporation ceases to be described in paragraph (1) shall be determined with the following modifications:
 
 &emsp;&emsp;(A) Section 56(a)(1) (relating to depreciation) and section 56(a)(5) (relating to pollution control facilities) shall apply only to property placed in service on or after the change date.
 
@@ -186,10 +186,6 @@ For purposes of this section—
 
 (Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(<i>l</i>)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462; Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832; Pub. L. 105–34, title III, §311(b)(1), (2)(A), title IV, §401(a), title XVI, §1601(f)(1)(C), Aug. 5, 1997, 111 Stat. 834, 835, 843, 1090; Pub. L. 105–206, title VI, §§6005(d)(2), 6006(a), July 22, 1998, 112 Stat. 804, 806.)
 
-#### Amendment of Subsection (c)
-
-<i>Pub. L. 104–188, title I, §1401(b)(3), (c), Aug. 20, 1996, 110 Stat. 1788, 1789, provided that, applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, subsection (c)(1) of this section is amended by striking “shall not include any tax imposed by section 402(d) and”.</i>
-
 #### Prior Provisions
 
 A prior section 55, Pub. L. 95–600, title IV, §421(a), Nov. 6, 1978, 92 Stat. 2871; amended Pub. L. 96–222, title I, §104(a)(4)(A)–(D), (G), (H)(i), (ii), (viii), Apr. 1, 1980, 94 Stat. 215–218; Pub. L. 96–223, title II, §232(b)(2)(A), (c)(2), Apr. 2, 1980, 94 Stat. 276, 277; Pub. L. 96–603, §4(a), (b), Dec. 28, 1980, 94 Stat. 3513, 3514; Pub. L. 97–34, title I, §101(d)(1), title II, §221(b)(1)(A), title III, §331(d)(1)(A), Aug. 13, 1981, 95 Stat. 183, 246, 294; Pub. L. 97–248, title II, §201(a), Sept. 3, 1982, 96 Stat. 411; Pub. L. 97–354, §5(a)(13), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 97–448, title I, §103(g)(2)(E), title III, §§305(c), 306(a)(1)(B), (C), Jan. 12, 1983, 96 Stat. 2379, 2399, 2400; Pub. L. 98–369, div. A, title IV, §§474(q), 491(d)(1), title VI, §612(e)(3), title VII, §711(a)(1), (4), (5), July 18, 1984, 98 Stat. 838, 849, 912, 942, 943; Pub. L. 99–514, title XVIII, §1847(a), Oct. 22, 1986, 100 Stat. 2856, related to alternative minimum tax for taxpayers other than corporations, prior to the general revision of this part by Pub. L. 99–514, §701(a).
@@ -222,7 +218,7 @@ A prior section 55, Pub. L. 95–600, title IV, §421(a), Nov. 6, 1978, 92 Stat.
 
 &emsp;“(D) 20 percent of the taxpayer's adjusted net capital gain (or, if less, taxable excess) in excess of the amount on which tax is determined under subparagraph (C).
 
-> In the case of taxable years beginning after December 31, 2000, rules similar to the rules of section 1(h)(2) shallapply for purposes of subparagraphs (C) and (D). Terms used in this paragraph which are also used in section 1(h) shall have the respective meanings given such terms by section 1(h).”
+> In the case of taxable years beginning after December 31, 2000, rules similar to the rules of section 1(h)(2) shall apply for purposes of subparagraphs (C) and (D). Terms used in this paragraph which are also used in section 1(h) shall have the respective meanings given such terms by section 1(h).”
 
 Subsec. (e)(1). Pub. L. 105–206, §6006(a), reenacted par. heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “The tentative minimum tax of a corporation shall be zero for any taxable year if—
 
@@ -239,6 +235,8 @@ Subsec. (c)(1). Pub. L. 105–34, §1601(f)(1)(C), substituted “Puerto Rico”
 Subsec. (e). Pub. L. 105–34, §401(a), added subsec. (e).
 
 1996—Subsec. (c)(1). Pub. L. 104–188, §1601(b)(2)(A), substituted “, the section 936 credit allowable under section 27(b), and the Puerto Rican economic activity credit under section 30A” for “and the section 936 credit allowable under section 27(b)”.
+
+Pub. L. 104–188, §1401(b)(3), struck out “shall not include any tax imposed by section 402(d) and” before “shall not include any increase in tax under section 49(b)”.
 
 Subsec. (c)(2). Pub. L. 104–188, §1205(d)(6), struck out “28(d)(2),” after “26(a),”.
 
@@ -314,7 +312,7 @@ Section 1007(a)(3) of Pub. L. 100–647 provided that the amendment made by that
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to buildings placed in service after Dec. 31, 1986, in taxable yearsending after such date, see section 252(e) of Pub. L. 99–514, set out as an Effective Date note under section 42 of this title.
+Amendment by Pub. L. 99–514 applicable to buildings placed in service after Dec. 31, 1986, in taxable years ending after such date, see section 252(e) of Pub. L. 99–514, set out as an Effective Date note under section 42 of this title.
 
 #### Effective Date
 
@@ -390,7 +388,7 @@ For provisions that nothing in amendment by section 11813(b)(5) of Pub. L. 101�
 
 #### Transitional Provisions
 
-Section 1007(f)(1) of Pub. L. 100–647 provided that: “In the case of the taxable year of an estate or trust which begins before January 1, 1987, and ends on or after such date, the items of tax preference apportioned to any beneficiary of such estate or trust under section 58(c) of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986\]) shall be taken into account for purposes of determining the amount of the tax imposed by section 55 of the Internal Revenue Code of 1986 (as amended by the Tax Reform Act of 1986 \[Pub. L. 99–514\]) on such beneficiary for such beneficiary's taxable year in which such taxable year of the estate or trust ends.”
+Section 1007(f)(1) of Pub. L. 100–647 provided that: “In the case of the taxable year of an estate or trust whichbegins before January 1, 1987, and ends on or after such date, the items of tax preference apportioned to any beneficiary of such estate or trust under section 58(c) of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986\]) shall be taken into account for purposes of determining the amount of the tax imposed by section 55 of the Internal Revenue Code of 1986 (as amended by the Tax Reform Act of 1986 \[Pub. L. 99–514\]) on such beneficiary for such beneficiary's taxable year in which such taxable year of the estate or trust ends.”
 
 #### Plan Amendments Not Required Until January 1, 1998
 
@@ -412,5 +410,5 @@ Section 2123 of Pub. L. 94–455, as amended by Pub. L. 98–369, div. A, title 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2, 5, 11, 12, 24, 26, 32, 38, 45A, 53, 59, 59A, 168, 443, 641, 666, 815, 847, 860E, 860J, 871, 877, 882, 897, 962, 1397E, 1561, 6015, 6425, 6655, 6662 of this title.
+This section is referred to in sections 2, 5, 11, 12, 24, 26, 32, 38, 45A, 53, 59, 59A, 168, 443, 641, 666, 815, 847, 860E, 860J, 871, 877, 882, 897, 962, 1260, 1397E, 1561, 6015, 6425, 6655, 6662 of this title.
 

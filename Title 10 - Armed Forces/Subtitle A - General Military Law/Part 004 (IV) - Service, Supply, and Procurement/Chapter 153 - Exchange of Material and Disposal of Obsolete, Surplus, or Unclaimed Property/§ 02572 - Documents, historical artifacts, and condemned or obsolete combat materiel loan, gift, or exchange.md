@@ -30,7 +30,7 @@
 
 (2) The Secretary concerned may not make an exchange under paragraph (1) unless the monetary value of property transferred, or services provided, to the United States under the exchange is not less than the value of the property transferred by the United States. The Secretary concerned may waive the limitation in the preceding sentence in the case of an exchange of property for property in any case in which the Secretary determines that the item to be received by the United States in the exchange will significantly enhance the historical collection of the property administered by the Secretary.
 
-(c) This section applies to the following types of property held by a military department or the Coast Guard: books, manuscripts, works of art, historical artifacts, drawings, plans, models, and condemned or obsolete combat materiel.
+(c) This section applies to the following types of property held by a military department or theCoast Guard: books, manuscripts, works of art, historical artifacts, drawings, plans, models, and condemned or obsolete combat materiel.
 
 (d)(1) A loan or gift made under this section shall be subject to regulations prescribed by the Secretary concerned and to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486).
 
@@ -58,7 +58,7 @@ The word “may” is substituted for the words “are each authorized, in their
 
 #### Amendments
 
-1996—Subsec. (b)(1). Pub. L. 104–106 substituted “not needed by the armed forces for any of the following items or services if such items or services directly benefit the historical collection of the armed forces:” for“not needed by the armed forces for similar items held by any individual, organization, institution, agency, or nation or for search, salvage, transportation, and restoration services which directly benefit the historical collection of the armed forces.” and added subpars. (A) to (E).
+1996—Subsec. (b)(1). Pub. L. 104–106 substituted “not needed by the armed forces for any of the following items or services if such items or services directly benefit the historical collection of the armed forces:” for “not needed by the armed forces for similar items held by any individual, organization, institution, agency, or nation or for search, salvage, transportation, and restoration services which directly benefit the historical collection of the armed forces.” and added subpars. (A) to (E).
 
 1994—Subsec. (b)(1). Pub. L. 103–337 inserted “transportation,” after “salvage,”.
 
@@ -91,6 +91,36 @@ Subsec. (b)(2). Pub. L. 101–510, §325(2), inserted “, or services provided
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Moratorium on the Return of Veterans Memorial Objects to Foreign Nations Without Specific Authorization in Law
+
+Pub. L. 106–65, div. A, title X, §1051, Oct. 5, 1999, 113 Stat. 763, provided that:
+
+“(a)
+
+Prohibition.—Notwithstanding section 2572 of title 10, United States Code, and any other provision of law, during the moratorium period specified in subsection (c) the President may not transfer a veterans memorial object to a foreign country or an entity controlled by a foreign government, or otherwise transfer or convey such an object to any person or entity for purposes of the ultimate transfer or conveyance of the object to a foreign country or entity controlled by a foreign government, unless such transfer is specifically authorized by law.
+
+“(b)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Entity controlled by a foreign government.—The term ‘entity controlled by a foreign government’ has the meaning given that term in section 2536(c)(1) of title 10, United States Code.
+
+&emsp;“(2)
+
+Veterans memorial object.—The term ‘veterans memorial object’ means any object, including a physical structure or portion thereof, that—
+
+&emsp;&emsp;“(A) is located at a cemetery of the National Cemetery System, war memorial, or military installation in the United States;
+
+&emsp;&emsp;“(B) is dedicated to, or otherwise memorializes, the death in combat or combat-related duties of members of the United States Armed Forces; and
+
+&emsp;&emsp;“(C) was brought to the United States from abroad as a memorial of combat abroad.
+
+“(c)
+
+Period of Moratorium.—The moratorium period for the purposes of this section is the period beginningon the date of the enactment of this Act \[Oct. 5, 1999\] and ending on September 30, 2001.”
 
 #### Cross References
 

@@ -1,10 +1,18 @@
 ### §118. Filing by other than inventor
 
-Whenever an inventor refuses to execute an application for patent, or cannot be found or reached after diligent effort, a person to whom the inventor has assigned or agreed in writing to assign the invention or who otherwise shows sufficient proprietary interest in the matter justifying such action, may make application for patent on behalf of and as agent for the inventor on proof of the pertinent facts and a showing that such action is necessary to preserve the rights of the parties or to prevent irreparable damage; and the Commissioner may grant a patent to such inventor upon such notice to him as the Commissioner deems sufficient, and on compliance with such regulations as he prescribes.
+Whenever an inventor refuses to execute an application for patent, or cannot be found or reached after diligent effort, a person to whom the inventor has assigned or agreed in writing to assign the invention or who otherwise shows sufficient proprietary interest in the matter justifying such action, may make application for patent on behalf of and as agent for the inventor on proof of the pertinent facts and a showing that such action is necessary to preserve the rights of the parties or to prevent irreparable damage; and the Director may grant a patent to such inventor upon such notice to him as the Director deems sufficient, and on compliance with such regulations as he prescribes.
 
-(July 19, 1952, ch. 950, 66 Stat. 799.)
+(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
 
 #### Historical and Revision Notes
 
 This section is new and provides for the filing of an application by another on behalf of the inventor in certain special hardship situations.
+
+#### Amendments
+
+1999—Pub. L. 106–113 substituted “Director” for “Commissioner” in two places.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 

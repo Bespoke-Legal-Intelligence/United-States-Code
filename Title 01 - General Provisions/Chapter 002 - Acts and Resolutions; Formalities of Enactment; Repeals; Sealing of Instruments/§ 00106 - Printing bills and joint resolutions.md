@@ -40,6 +40,8 @@ Clarifications of illegible matter.—(i) Section 1842(n)(1)(A) of the Social Se
 
 #### Printed Enrollments Prepared After Enactment
 
+Pub. L. 106–93, Nov. 10, 1999, 113 Stat. 1310, provided: “That the provisions of sections 106 and 107 of title 1, United States Code, are waived for the remainder of the first session of the One Hundred Sixth Congress with respect to the printing (on parchment or otherwise) of the enrollment of any bill or joint resolution making general appropriations or continuing appropriations for the fiscal year ending September 30, 2000. The enrollment of any such bill or joint resolution shall be in such form as the Committee on House Administration of the House of Representatives certifies to be a true enrollment.”
+
 Pub. L. 105–253, Oct. 12, 1998, 112 Stat. 1887, provided: “That the provisions of sections 106 and 107 of title 1, United States Code, are waived for the remainder of the One Hundred Fifth Congress with respect to the printing (on parchment or otherwise) of the enrollment of any bill or joint resolution making general appropriations or continuing appropriations for the fiscal year ending September 30, 1999. The enrollment of any such bill or joint resolution shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment.”
 
 Pub. L. 105–120, Nov. 26, 1997, 111 Stat. 2527, provided: “That the provisions of sections 106 and 107 of title 1, United States Code, are waived for the balance of the first session of the One Hundred Fifth Congress with respect to the printing (on parchment or otherwise) of the enrollment of any bill or joint resolution making general appropriations for the fiscal year ending on September 30, 1998, or continuing appropriations for the fiscal year ending on September 30, 1998. The enrollment of any such bill or joint resolution shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment.”
@@ -92,7 +94,7 @@ Continuing resolution.—The term ‘continuing resolution’ means a bill or jo
 
 &emsp;“(2)
 
-Debt limit extension measure.—The term ‘debt limit extension measure’ means a bill or joint resolution that includes provisions increasing or waiving (for a temporary period or otherwise) the public debt limit under section 3101(b) of title 31, United States Code.
+Debt limit extension measure.—The term ‘debt limit extension measure’ means a bill or jointresolution that includes provisions increasing or waiving (for a temporary period or otherwise) the public debt limit under section 3101(b) of title 31, United States Code.
 
 &emsp;“(3)
 
@@ -100,7 +102,7 @@ Reconciliation bill.—The term ‘reconciliation bill’ means a bill that is a
 
 Identical provisions were contained in Pub. L. 104–54, title II, §§201, 202, Nov. 19, 1995, 109 Stat. 545.
 
-Pub. L. 102–387, Oct. 6, 1992, 106 Stat. 1519, provided: “That the provisions of sections 106 and 107 of title 1,United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of any appropriation bill of the One Hundred Second Congress hereafter to be presented to the President. Such an enrollment shall be in such form as the Committee on House Administration of the House of Representatives certifies to be a true enrollment. As used in this resolution, the term ‘appropriation bill’ means a bill or joint resolution making or continuing appropriations for the fiscal year ending September 30, 1993.”
+Pub. L. 102–387, Oct. 6, 1992, 106 Stat. 1519, provided: “That the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of any appropriation bill of the One Hundred Second Congress hereafter to be presented to the President. Such an enrollment shall be in such form as the Committee on House Administration of the House of Representatives certifies to be a true enrollment. As used in this resolution, the term ‘appropriation bill’ means a bill or joint resolution making or continuing appropriations for the fiscal year ending September 30, 1993.”
 
 Pub. L. 102–260, Mar. 20, 1992, 106 Stat. 85, provided that:
 
@@ -290,9 +292,9 @@ Pub. L. 100–202, §101(n), Dec. 22, 1987, 101 Stat. 1329–432, provided that:
 
 “(3) A printed enrollment prepared pursuant to subsection (n)(1) shall be signed by the presiding officers of both Houses of Congress as a correct printing of the hand enrollment of this resolution and shall be transmitted to the President.
 
-“(4) Upon certification by the President that a printed enrollment transmitted pursuant to subsection (n)(3) is a correct printing of the hand enrollment of this resolution, such printed enrollment shall be considered for all purposes as the original enrollment of this resolution and as valid evidence of the enactment of this resolution.
+“(4) Upon certification by the President that a printed enrollment transmitted pursuant to subsection (n)(3)is a correct printing of the hand enrollment of this resolution, such printed enrollment shall be considered for all purposes as the original enrollment of this resolution and as valid evidence of the enactment of this resolution.
 
-“(5) A printed enrollment certified by the President under subsection (n)(4) shall be transmitted to the Archivist of the United States, who shall preserve it with the hand enrollment. In preparing this resolution for publication in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shalluse the printed enrollment certified by the President under subsection (n)(4) in lieu of the hand enrollment.
+“(5) A printed enrollment certified by the President under subsection (n)(4) shall be transmitted to the Archivist of the United States, who shall preserve it with the hand enrollment. In preparing this resolution for publication in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall use the printed enrollment certified by the President under subsection (n)(4) in lieu of the hand enrollment.
 
 “(6) As used in this section, the term ‘hand enrollment’ means enrollment in a form other than the printed form required by sections 106 and 107 of title 1, United States Code, as authorized by the joint resolution entitled ‘Joint resolution authorizing the hand enrollment of the budget reconciliation bill and of the full-year continuing resolution for fiscal year 1988’, approved December 1987 (H.J. Res. 426 of the 100th Congress) \[Pub. L. 100–199, Dec. 21, 1987, 101 Stat. 1326\].”
 

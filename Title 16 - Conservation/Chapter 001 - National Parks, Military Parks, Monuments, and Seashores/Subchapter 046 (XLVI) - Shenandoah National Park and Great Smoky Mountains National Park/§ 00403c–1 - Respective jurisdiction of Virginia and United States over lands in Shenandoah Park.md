@@ -4,7 +4,7 @@ In order to provide for uniform Federal jurisdiction over all of the lands now o
 
 (a) The United States shall have exclusive jurisdiction, legislative, executive, and judicial, with respect to the commission of crimes, and the arrest, trial, and punishment therefor, and exclusive general police jurisdiction thereover.
 
-(b) The United States shall have the power to regulate or prohibit the sale of alcoholic beverages on said lands: <i>Provided, however</i>, That, if the sale of alcoholic beverages is prohibited by general law in the Commonwealth of Virginia outside of said lands, no such alcoholic beverages shall be sold on said lands contained in said park area: <i>And provided further</i>, That, if thegeneral laws of the Commonwealth of Virginia permit the sale of alcoholic beverages, then the regulations of the United States relating to such sales on said lands shall conform as nearly as possible to the regulatory provisions in accordance with which such sales are permitted in the Commonwealth of Virginia outside of said park lands. Nothing in this subsection shall be construed as reserving in the Commonwealth power to require licenses of persons engaged in the sale of intoxicating beverages on said lands, nor the power to require that any sales be made through official liquor stores.
+(b) The United States shall have the power to regulate or prohibit the sale of alcoholic beverages on said lands: <i>Provided, however</i>, That, if the sale of alcoholic beverages is prohibited by general law in the Commonwealth of Virginia outside of said lands, no such alcoholic beverages shall be sold on said lands contained in said park area: <i>And provided further</i>, That, if the general laws of the Commonwealth of Virginia permit the sale of alcoholic beverages, then the regulations of the United States relating to such sales on said lands shall conform as nearly as possible to the regulatory provisions in accordance with which such sales are permitted in the Commonwealth of Virginia outside of said park lands. Nothing in this subsection shall be construed as reserving in the Commonwealth power to require licenses of persons engaged in the sale of intoxicating beverages on said lands, nor the power to require that any sales be made through official liquor stores.
 
 (c) The Commonwealth of Virginia shall have jurisdiction to serve civil process within the limits of said park in any suits properly instituted in any of the courts of the Commonwealth of Virginia, and to serve criminal process within said limits in any suits or prosecutions for or on account of crimes committed in said Commonwealth but outside of said park.
 
@@ -22,7 +22,7 @@ In order to provide for uniform Federal jurisdiction over all of the lands now o
 
 #### References in Text
 
-The Act of the General Assembly of the Commonwealth of Virginia, approved April 10, 1940 (Acts of 1940, ch. 402, p. 725), referred to in text, was also set out as Va. Code 1936, Supp. 1942, §585 (58)a. For provisions relating to the respective jurisdiction of Virginia and the United States over lands in Shenandoah Park, see §7.1–19 of the Code of Virginia 1950.
+The Act of the General Assembly of the Commonwealth of Virginia, approved April 10, 1940 (Acts of 1940, ch. 402, p. 725), referred to in text, was also set out asVa. Code 1936, Supp. 1942, §585 (58)a. For provisions relating to the respective jurisdiction of Virginia and the United States over lands in Shenandoah Park, see §7.1–19 of the Code of Virginia 1950.
 
 #### Amendments
 

@@ -76,7 +76,7 @@ In unstitched form, and held in reserve by the Public Printer, as many copies of
 
 &emsp;to the offices of the Legislative Counsel of the Senate and House of Representatives, respectively, and the Architect of the Capitol, each, three copies of the daily, one semimonthly copy, and one bound copy;
 
-&emsp;to the Library of Congress for official use in Washington, District of Columbia, and for international exchange, as provided by section 1718 and 1719 of this title, not to exceed one hundred and forty-five copies of the daily, fivesemimonthly copies, and one hundred and fifty bound copies;
+&emsp;to the Library of Congress for official use in Washington, District of Columbia, and for international exchange, as provided by section 1718 and 1719 of this title, not to exceed one hundred and forty-five copies of the daily, five semimonthly copies, and one hundred and fifty bound copies;
 
 &emsp;to the library of the Senate, three copies of the daily, two semimonthly copies, and not to exceed fifteen bound copies;
 
@@ -120,7 +120,7 @@ Copies of the daily edition, unless otherwise directed by the Joint Committee on
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code, 1964 ed., §183 (Jan. 12, 1895, ch. 23, §73, 28 Stat. 617; June 11, 1896, ch. 420, §1, 29 Stat. 454; Mar. 19, 1896, No. 31, 29 Stat. 468; Feb. 17, 1897, No. 12, 29 Stat. 700; Mar. 26, 1900, No. 15, 31 Stat. 713; Mar. 2, 1901, No. 16, §§1, 2, 31 Stat. 1464; Jan. 30, 1903, ch. 338, 32 Stat. 786; Mar. 1, 1907, ch. 2284, §4, 34 Stat. 1014; Mar. 4, 1909, ch. 317, 35 Stat. 1067; Mar. 4, 1909, No. 25, 35 Stat. 1169; Mar. 3, 1925, ch. 421, §7, 43 Stat. 1106; June 20, 1936, ch. 630, title II, §3, 49 Stat. 1547; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 30, 1949, ch. 288, title I, §104(a), 63 Stat. 381; Sept. 26, 1950, ch. 1049, §2(b), 64 Stat. 1038; July 2, 1954, ch. 455, title I, §101, 68 Stat. 397; Aug. 1, 1956, ch. 852, §20, 70 Stat. 911; June 25, 1959, Pub. L. 86–70, §33, 73 Stat. 149; July 12, 1960, Pub. L. 86–624, §32, 74 Stat. 421; Mar. 21, 1961, Pub. L. 87–2, 75 Stat. 5; July 11, 1961, Pub. L. 87–85, 75 Stat. 202).
+Based on 44 U.S. Code, 1964 ed., §183 (Jan. 12, 1895, ch. 23, §73, 28 Stat. 617; June 11, 1896, ch. 420, §1, 29 Stat. 454; Mar. 19, 1896, No. 31, 29 Stat. 468; Feb. 17, 1897, No. 12, 29 Stat. 700; Mar. 26, 1900, No. 15, 31 Stat. 713; Mar. 2, 1901, No. 16, §§1, 2, 31 Stat. 1464; Jan. 30, 1903, ch. 338, 32 Stat. 786; Mar. 1, 1907, ch. 2284, §4, 34 Stat. 1014; Mar. 4, 1909, ch. 317, 35 Stat. 1067; Mar. 4, 1909, No. 25, 35 Stat. 1169; Mar. 3, 1925, ch. 421, §7, 43 Stat. 1106; June 20, 1936, ch. 630, title II, §3, 49 Stat. 1547; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 30, 1949, ch. 288, title I, §104(a), 63 Stat. 381; Sept. 26, 1950, ch. 1049, §2(b), 64 Stat. 1038; July 2, 1954, ch. 455, title I, §101, 68 Stat.397; Aug. 1, 1956, ch. 852, §20, 70 Stat. 911; June 25, 1959, Pub. L. 86–70, §33, 73 Stat. 149; July 12, 1960, Pub. L. 86–624, §32, 74 Stat. 421; Mar. 21, 1961, Pub. L. 87–2, 75 Stat. 5; July 11, 1961, Pub. L. 87–85, 75 Stat. 202).
 
 “House of Representatives Publications Distribution Service” is substituted for “House Folding Room” because of the change of name under authority of Public Law 88–652.
 

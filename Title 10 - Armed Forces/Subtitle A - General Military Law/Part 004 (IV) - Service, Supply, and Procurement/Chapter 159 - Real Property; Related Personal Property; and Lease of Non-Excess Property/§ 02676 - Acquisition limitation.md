@@ -38,7 +38,7 @@ Historical and Revision Notes
 
 July 27, 1954, ch. 579, §501(b) (less provisos), 68 Stat. 560.
 
-The word “property” is substituted for the word “estate”. The words “not owned by the United States” are substituted for the words “not in Federal ownership”. The words “or shall be” are omitted as surplusage.
+The word “property” is substituted for the word “estate”. The words “not owned by the United States” aresubstituted for the words “not in Federal ownership”. The words “or shall be” are omitted as surplusage.
 
 #### References in Text
 

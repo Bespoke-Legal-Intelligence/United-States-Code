@@ -1,6 +1,6 @@
 ### §206. Capitol Police; appointment; Chief of the Capitol Police
 
-There shall be a Capitol police. There shall be a captain of the Capitol police and such other members with such rates of compensation, respectively, as may be appropriated for by Congress from year to year. The captain and lieutenants shall be selected jointly by the Sergeant at Arms of the Senate and the Sergeant at Armsof the House of Representatives; and one-half of the privates shall be selected by the Sergeant at Arms of the Senate and one-half by the Sergeant at Arms of the House of Representatives. The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.
+There shall be a Capitol police. There shall be a captain of the Capitol police and such other members with such rates of compensation, respectively, as may be appropriated for by Congress from year to year. The captain and lieutenants shall be selected jointly by the Sergeant at Arms of the Senate and the Sergeant at Arms of the House of Representatives; and one-half of the privates shall be selected by the Sergeant at Arms of the Senate and one-half by the Sergeant at Arms of the House of Representatives. The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.
 
 (R.S. §1821; Apr. 28, 1902, ch. 594, 32 Stat. 124; June 28, 1943, ch. 173, title I, 57 Stat. 230; Pub. L. 96–152, §1(a), Dec. 20, 1979, 93 Stat. 1099.)
 
@@ -62,13 +62,13 @@ June 7, 1924, ch. 303, 43 Stat. 586.
 
 Feb. 20, 1923, ch. 98, 42 Stat. 1272.
 
-Mar. 20, 1922, ch. 103, 42 Stat. 422.
+Mar. 20, 1922, ch. 103, 42 Stat. 429.
 
 #### Capitol Police Positions Under the Senate
 
 Section 116 of Pub. L. 97–51, Oct. 1, 1981, 95 Stat. 963, which is classified to section 61f–7 of Title 2, The Congress, abolished all statutory positions in Office of the Sergeant at Arms and Doorkeeper of the Senate, and authorized the Sergeant at Arms and Doorkeeper of the Senate to establish such numbers of positions as he deems appropriate and fix the compensation of employees to fill the positions so established. Previously, Capitol Police positions under the Senate were authorized by the following acts:
 
-Sept. 30, 1978, Pub. L. 95–391, title I, 92 Stat. 765.
+Sept. 30, 1978, Pub. L. 95–391, title I, 92 Stat. 768.
 
 May 4, 1977, Pub. L. 95–26, title I, 91 Stat. 81.
 
@@ -138,7 +138,7 @@ July 1, 1946, ch. 530, 60 Stat. 395.
 
 #### Capitol Police Civilian Support Positions With Respect to the House of Representatives
 
-House Resolution No. 199, One Hundred Second Congress, Aug. 1, 1991, made permanent law Pub. L. 102–392, title I, §102, Oct. 6, 1992, 106 Stat. 1710, and amended byPub. L. 104–186, title II, §221(9)(B), Aug. 20, 1996, 110 Stat. 1749, authorized Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives to establish 114 civilian support positions for the Capitol Police, provided for functions, compensation, and classification of positions, provided procedures for appointments to positions and that as each position was filled there would be abolished one position of private on Capitol Police, provided that positions would be filled by individuals in Capitol Police positions so abolished, that all positions would be filled by the end of the One Hundred Second Congress, and that at least 50 of such positions would be filled not later than the end of the first session of such Congress, and authorized Committee on House Oversight \[now Committee on House Administration\] to prescribe regulations to carry out this provision.
+House Resolution No. 199, One Hundred Second Congress, Aug. 1, 1991, made permanent law Pub. L. 102–392, title I, §102, Oct. 6, 1992, 106 Stat. 1710, and amended by Pub. L. 104–186, title II, §221(9)(B), Aug. 20, 1996, 110 Stat. 1749, authorized Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives to establish 114 civilian support positions for the Capitol Police, provided for functions, compensation, and classification of positions, provided procedures for appointments to positions and that as each position was filled there would be abolished one position of private on Capitol Police, provided that positions would be filled by individuals in Capitol Police positions so abolished, that all positions would be filled by the end of the One Hundred Second Congress, and that at least 50 of such positions would be filled not later than the end of the first session of such Congress, and authorized Committee on House Oversight \[now Committee on House Administration\] to prescribe regulations to carry out this provision.
 
 #### Director of Employment Practices Under Capitol Police Board
 

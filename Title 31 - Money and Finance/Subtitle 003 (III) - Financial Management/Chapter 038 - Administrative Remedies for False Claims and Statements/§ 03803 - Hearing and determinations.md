@@ -76,7 +76,7 @@
 
 &emsp;(xii) any annuity or other benefit under the Railroad Retirement Act of 1974;
 
-&emsp;(xiii) benefits under the National School Lunch Act;
+&emsp;(xiii) benefits under the Richard B. Russell National School Lunch Act;
 
 &emsp;(xiv) benefits under any housing assistance program for lower income families or elderly or handicapped persons which is administered by the Secretary of Housing and Urban Development or the Secretary of Agriculture;
 
@@ -174,11 +174,11 @@
 
 (B) Any authority head reviewing under this section the decision, findings, and determinations of a presiding officer shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (f) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the authority head that additional evidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at such hearing, the authority head shall remand the matter to the presiding officer for consideration of such additional evidence.
 
-(C) The authority head may affirm, reduce, reverse, compromise, remand, or settle any penalty or assessment determined by the presiding officer pursuant to this section. The authority head shall promptly send to each party to the appeal a copy of the decision of the authorityhead and a statement describing the right of any person determined to be liable under section 3802 of this title to judicial review under section 3805 of this title.
+(C) The authority head may affirm, reduce, reverse, compromise, remand, or settle any penalty or assessment determined by the presiding officer pursuant to this section. The authority head shall promptly send to each party to the appeal a copy of the decision of the authority head and a statement describing the right of any person determined to be liable under section 3802 of this title to judicial review under section 3805 of this title.
 
 (j) The reviewing official has the exclusive authority to compromise or settle any allegations of liability under section 3802 of this title against a person without the consent of the presiding officer at any time after the date on which the reviewing official is permitted to refer allegations of liability to a presiding officer under subsection (b) of this section and prior to the date on which the presiding officer issues a decision under subsection (h) of this section. Any such compromise or settlement shall be in writing.
 
-(Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1939; amended Pub. L. 103–448, title II, §204(w)(2)(C), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title I, §110(<i>o</i>), Aug. 22, 1996, 110 Stat. 2175.)
+(Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1939; amended Pub. L. 103–448, title II, §204(w)(2)(C), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title I, §110(<i>o</i>), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 106–78, title VII, §752(b)(13), Oct. 22, 1999, 113 Stat. 1169.)
 
 #### References in Text
 
@@ -194,13 +194,15 @@ Section 336 of the Older Americans Act, referred to in subsec. (c)(2)(C)(xi), pr
 
 The Railroad Retirement Act of 1974, referred to in subsec. (c)(2)(C)(xii), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
-The National School Lunch Act, referred to in subsec. (c)(2)(C)(xiii), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (c)(2)(C)(xiii), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (c)(2)(C)(xv), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, as amended, which is classified generally to subchapter II (§8621 et seq.) of chapter 94 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of Title 42 and Tables.
 
 The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (c)(2)(C)(xvi), is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to Part A (§6861 et seq.) of subchapter III of chapter 81 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of Title 42 and Tables.
 
 #### Amendments
+
+1999—Subsec. (c)(2)(C)(xiii). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
 1996—Subsec. (c)(2)(C)(iv). Pub. L. 104–193 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “aid to families with dependent children under a State plan approved under section 402(a) of the Social Security Act;”.
 

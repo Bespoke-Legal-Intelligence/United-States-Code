@@ -54,7 +54,7 @@ Section 1. All functions (including powers, duties, activities, and parts of fun
 
 Sec. 2. Such further measures and dispositions, if any, as the Director of the Bureau of the Budget \[now the Office of Management and Budget\] shall determine to be necessary in connection with the transfers provided for hereinabove in respect of records, property, facilities, employees, and balances shall be carried out in such manner as he shall direct and by such agencies as he shall designate.
 
-Sec. 3. The provisions of this order shall become effective concurrently with the entering upon office asAdministrator of the Federal Aviation Agency \[now Federal Aviation Administration\] of the first person appointed as Administrator. The functions transferred by section 1 hereof may be performed by the Administrator until the effective date of the repeal \[Aug. 23, 1958\] of the Airways Modernization Act of 1957 \[former 49 U.S.C. 1211 et seq.\] effected by section 1401(d) of the Federal Aviation Act of 1958 \[Pub. L. 85–726\].
+Sec. 3. The provisions of this order shall become effective concurrently with the entering upon office as Administrator of the Federal Aviation Agency \[now Federal Aviation Administration\] of the first person appointed as Administrator. The functions transferred by section 1 hereof may be performed by the Administrator until the effective date of the repeal \[Aug. 23, 1958\] of the Airways Modernization Act of 1957 \[former 49 U.S.C. 1211 et seq.\] effected by section 1401(d) of the Federal Aviation Act of 1958 \[Pub. L. 85–726\].
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -102,13 +102,13 @@ WHEREAS it appears that the defense of the United States would require the trans
 
 WHEREAS if any such transfer were to be made it would be essential to the defense of the United States that the transition be accomplished promptly and with maximum ease and effectiveness; and
 
-WHEREAS these objectives require that the relationships that would obtain in the event of such a transferas between the Federal Aviation Administration and the Department of Defense be understood in advance by the two agencies concerned and be developed in necessary detail by them in advance of transfer:
+WHEREAS these objectives require that the relationships that would obtain in the event of such a transfer as between the Federal Aviation Administration and the Department of Defense be understood in advance by the two agencies concerned and be developed in necessary detail by them in advance of transfer:
 
 NOW, THEREFORE, by virtue of the authority vested in me by Section 302(e) (72 Stat. 746; 49 U.S.C. 1343(c)) \[see 49 U.S.C. 40107(b)\], and as President of the United States and Commander in Chief of the Armed Forces of the United States, it is hereby ordered as follows:
 
 Section 1. The Secretary of Defense and the Secretary of Transportation are hereby directed to prepare and develop plans, procedures, policies, programs, and courses of action in anticipation of the probable transfer of the Federal Aviation Administration to the Department of Defense in the event of war. Those plans, policies, procedures, programs, and courses of action shall be prepared and developed in conformity with the following-described standards and conditions—
 
-(A) The Federal Aviation Administration will function as an adjunct of the Department of Defense with the Federal Aviation Administrator being responsible directly to the Secretary of Defense and subject to his authority, direction, and control to the extent deemed by the Secretary to be necessary for the discharge of his responsibilities as Secretary of Defense.
+(A) The Federal Aviation Administration will function as an adjunct of the Department of Defense with the Federal Aviation Administrator being responsibledirectly to the Secretary of Defense and subject to his authority, direction, and control to the extent deemed by the Secretary to be necessary for the discharge of his responsibilities as Secretary of Defense.
 
 (B) To the extent deemed by the Secretary of Defense to be necessary for the accomplishment of the military mission, he will be empowered to direct the Administrator to place operational elements of the Federal Aviation Administration under the direct operational control of appropriate military commanders.
 

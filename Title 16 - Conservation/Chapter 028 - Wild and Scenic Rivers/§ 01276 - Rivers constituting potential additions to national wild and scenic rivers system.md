@@ -76,7 +76,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (36) Elk, Colorado: The segment from its source to Clark.
 
-(37) Encampment, Colorado: The Main Fork and West Fork to their confluence, thence the Encampment to the Colorado-Wyoming border, including the tributaries and headwaters.
+(37) Encampment, Colorado: The Main Fork and West Fork to their confluence, thence theEncampment to the Colorado-Wyoming border, including the tributaries and headwaters.
 
 (38) Green, Colorado: The entire segment within the State of Colorado.
 
@@ -146,7 +146,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (71) Soldier Creek, Alabama: The segment beginning at the point where Soldier Creek intersects the south line of section 31, township 7 south, range 6 east, downstream to a point on the south line of section 6, township 8 south, range 6 east, which point is 1,322 feet west of the south line of section 5, township 8 south, range 6 east in the county of Baldwin, State of Alabama.
 
-(72) Red, Kentucky: The segment from Highway numbered 746 (also known as SpradlinBridge) in Wolf County, Kentucky, downstream to the point where the river descends below seven hundred feet above sea level (in its normal flow) which point is at the Menifee and Powell County line just downstream of the iron bridge where Kentucky Highway numbered 77 passes over the river.
+(72) Red, Kentucky: The segment from Highway numbered 746 (also known as Spradlin Bridge) in Wolf County, Kentucky, downstream to the point where the river descends below seven hundred feet above sea level (in its normal flow) which point is at the Menifee and Powell County line just downstream of the iron bridge where Kentucky Highway numbered 77 passes over the river.
 
 (73) Bluestone, West Virginia: From its headwaters to its confluence with the New.
 
@@ -252,11 +252,11 @@ St. Marys River, Florida and Georgia.—The segment from its headwaters to its c
 
 (109)
 
-Mills River, North Carolina.—The North Fork from the bottom of the spillway of the Hendersonville Reservoir downstream to its confluence with the South Fork; the South Fork from its confluence with the Pigeon Branch downstream to its confluence with the NorthFork; and the main stem from the confluence of the North and South Forks downstream to a point 750 feet upstream from the centerline of North Carolina Highway 191/280.
+Mills River, North Carolina.—The North Fork from the bottom of the spillway of the Hendersonville Reservoir downstream to its confluence with the South Fork; the South Fork from its confluence with the Pigeon Branch downstream to its confluence with the North Fork; and the main stem from the confluence of the North and South Forks downstream to a point 750 feet upstream from the centerline of North Carolina Highway 191/280.
 
 (110)
 
-Sudbury, Assabet, and Concord, Massachussets.<sup>1</sup>—The segment of the Sudbury from the Danforth Street Bridge in the town of Framingham, to its confluence with the Assabet, the Assabet from 1,000 feet downstream of the Damon Mill Dam in Concord to its confluence with the Sudbury and the Concord from the confluence of the Sudbury and Assabet downstream to the Route 3 Bridge in the town of Billerica. The study of such river segments shall be completed and the report submitted thereon not later than at the end of the third fiscal year beginning after November 28, 1990.
+Sudbury, Assabet, and Concord, Massachussets.<sup>1</sup>—The segment of the Sudbury from the Danforth Street Bridge in the town ofFramingham, to its confluence with the Assabet, the Assabet from 1,000 feet downstream of the Damon Mill Dam in Concord to its confluence with the Sudbury and the Concord from the confluence of the Sudbury and Assabet downstream to the Route 3 Bridge in the town of Billerica. The study of such river segments shall be completed and the report submitted thereon not later than at the end of the third fiscal year beginning after November 28, 1990.
 
 (111)
 
@@ -424,7 +424,7 @@ Wekiva River, Florida.—(A) The entire river.
 
 (8) The study of the Merrimack River, New Hampshire, shall be completed and the report thereon submitted not later than three years after August 10, 1990.
 
-(9) The study of the Pemigewasset River, New Hampshire, shall be completed and the report thereon submitted not later than three years after August 10, 1990.
+(9) The study of the Pemigewasset River, New Hampshire, shall be completed and the reportthereon submitted not later than three years after August 10, 1990.
 
 (8) <sup>5</sup> The study of the river named in paragraph (106) <sup>6</sup> of subsection (a) of this section shall be completed not later than three years after August 15, 1990. In carrying out the study, the Secretary of the Interior shall consult with the Governors of the States of Florida and Georgia or their representatives, representatives of affected local governments, and owners of land adjacent to the river. Such consultation shall include participation in the assessment of resource values and the development of alternatives for the protection of those resource values, and shall be carried out through public meetings and media notification. The study shall also include a recommendation on the part of the Secretary as to the role the States, local governments and landowners should play in the management of the river if it were designated as a component of the National Wild and Scenic Rivers System.
 
@@ -458,7 +458,7 @@ The study of any of said rivers shall be pursued in as close cooperation with ap
 
 #### (d) Continuing consideration by Federal agencies to potential national, wild, scenic and recreational river areas
 
-(1) In all planning for the use and development of water and related land resources, consideration shall be given by all Federal agencies involved to potential national wild, scenic andrecreational river areas, and all river basin and project plan reports submitted to the Congress shall consider and discuss any such potentials. The Secretary of the Interior and the Secretary of Agriculture shall make specific studies and investigations to determine which additional wild, scenic and recreational river areas within the United States shall be evaluated in planning reports by all Federal agencies as potential alternative uses of the water and related land resources involved.
+(1) In all planning for the use and development of water and related land resources, consideration shall be given by all Federal agencies involved to potential national wild, scenic and recreational river areas, and all river basin and project plan reports submitted to the Congress shall consider and discuss any such potentials. The Secretary of the Interior and the Secretary of Agriculture shall make specific studies and investigations to determine which additional wild, scenic and recreational river areas within the United States shall be evaluated in planning reports by all Federal agencies as potential alternative uses of the water and related land resources involved.
 
 (2) The Congress finds that the Secretary of the Interior, in preparing the Nationwide Rivers Inventory as a specific study for possible additions to the National Wild and Scenic Rivers System, identified the Upper Klamath River from below the John Boyle Dam to the Oregon-California State line. The Secretary, acting through the Bureau of Land Management, is authorized under this subsection to complete a study of the eligibility and suitability of such segment for potential addition to the National Wild and Scenic Rivers System. Such study shall be completed, and a report containing the results of the study shall be submitted to Congress by April 1, 1990. Nothing in this paragraph shall affect the authority or responsibilities of any other Federal agency with respect to activities or actions on this segment and its immediate environment.
 

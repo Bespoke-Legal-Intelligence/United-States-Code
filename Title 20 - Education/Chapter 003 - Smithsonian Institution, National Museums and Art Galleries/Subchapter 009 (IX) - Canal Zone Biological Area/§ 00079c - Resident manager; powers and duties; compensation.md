@@ -1,6 +1,6 @@
 ### §79c. Resident manager; powers and duties; compensation
 
-The Smithsonian Institution may select and designate a resident manager to assist in carrying out the policy, conditions, and regulations approved by it in compliance with the purposes of this subchapter. The resident manager shall receive such compensation for his services as may be allowed by the Smithsonian Institution.
+The Smithsonian Institution may select and designate a resident manager to assist in carrying out the policy, conditions, and regulationsapproved by it in compliance with the purposes of this subchapter. The resident manager shall receive such compensation for his services as may be allowed by the Smithsonian Institution.
 
 (July 2, 1940, ch. 516, §5, 54 Stat. 725; 1946 Reorg. Plan No. 3, §801, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1101.)
 

@@ -16,5 +16,5 @@ Pub. L. 105–277, div. G, subdiv. A, title XIV, §1401, Oct. 21, 1998, 112 Stat
 
 &emsp;“(1) April 1, 1999; or
 
-&emsp;“(2) the date of abolition of the United States International Development Cooperation Agency pursuant to the reorganization plan described in section 1601 \[22 U.S.C. 6601\].”
+&emsp;“(2) the date of abolition \[Apr. 1, 1999\] of the United States International Development Cooperation Agency pursuant to the reorganization plan described in section 1601 \[22 U.S.C. 6601\].”
 

@@ -2,13 +2,23 @@
 
 #### (a) Limitation based on amount of tax
 
-The aggregate amount of credits allowed by this subpart for the taxable year shall not exceed the excess (if any) of—
+#### (1) In general
 
-&emsp;(1) the taxpayer's regular tax liability for the taxable year, over
+&emsp;The aggregate amount of credits allowed by this subpart for the taxable year shall not exceed the excess (if any) of—
 
-&emsp;(2) the tentative minimum tax for the taxable year (determined without regard to the alternative minimum tax foreign tax credit).
+&emsp;&emsp;(A) the taxpayer's regular tax liability for the taxable year, over
 
-> For purposes of paragraph (2), the taxpayer's tentative minimum tax for any taxable year beginning during 1998 shall be treated as being zero.
+&emsp;&emsp;(B) the tentative minimum tax for the taxable year (determined without regard to the alternative minimum tax foreign tax credit).
+
+> &emsp;For purposes of subparagraph (B), the taxpayer's tentative minimum tax for any taxable year beginning during 1999 shall be treated as being zero.
+
+#### (2) Special rule for 2000 and 2001
+
+&emsp;For purposes of any taxable year beginning during 2000 or 2001, the aggregate amount of credits allowed by this subpart for the taxable year shall not exceed the sum of—
+
+&emsp;&emsp;(A) the taxpayer's regular tax liability for the taxable year reduced by the foreign tax credit allowable under section 27(a), and
+
+&emsp;&emsp;(B) the tax imposed by section 55(a) for the taxable year.
 
 #### (b) Regular tax liability
 
@@ -60,9 +70,17 @@ For purposes of this part—
 
 For purposes of this part, the term “tentative minimum tax” means the amount determined under section 55(b)(1).
 
-(Added §25, renumbered §26, Pub. L. 98–369, div. A, title IV, §472, title VI, §612(a), July 18, 1984, 98 Stat. 827, 905; amended Pub. L. 99–499, title V, §516(b)(1)(A), Oct. 17, 1986, 100 Stat. 1770; Pub. L. 99–514, title II, §261(c), title VI, §632(c)(1), title VII, §701(c)(1), Oct. 22, 1986, 100 Stat. 2214, 2277, 2340; Pub. L. 100–647, title I, §§1006(t)(16)(C), 1007(g)(1), 1011A(c)(10), 1012(q)(8), title IV, §4005(g)(4), title V, §5012(b)(2), Nov. 10, 1988, 102 Stat. 3425, 3434, 3476, 3524, 3650, 3662; Pub. L. 101–239, title VII, §§7811(c)(1), (2), 7821(a)(4)(A), Dec. 19, 1989, 103 Stat. 2406, 2407, 2424; Pub. L. 104–188, title I, §1621(b)(1), Aug. 20, 1996, 110 Stat. 1866; Pub. L. 105–34, title II, §213(e)(1), title XVI, §1602(a)(1), Aug. 5, 1997, 111 Stat. 817, 1093; Pub. L. 105–277, div. J, title II, §2001(a), Oct. 21, 1998, 112 Stat. 2681–901.)
+(Added §25, renumbered §26, Pub. L. 98–369, div. A, title IV, §472, title VI, §612(a), July 18, 1984, 98 Stat. 827, 905; amended Pub. L. 99–499, title V, §516(b)(1)(A), Oct. 17, 1986, 100 Stat. 1770; Pub. L. 99–514, title II, §261(c), title VI, §632(c)(1), title VII, §701(c)(1), Oct. 22, 1986, 100 Stat. 2214, 2277, 2340; Pub. L. 100–647, title I, §§1006(t)(16)(C), 1007(g)(1), 1011A(c)(10), 1012(q)(8), title IV, §4005(g)(4), title V, §5012(b)(2), Nov. 10, 1988, 102 Stat. 3425, 3434, 3476, 3524, 3650, 3662; Pub. L. 101–239, title VII, §§7811(c)(1), (2), 7821(a)(4)(A), Dec. 19, 1989, 103 Stat. 2406, 2407, 2424; Pub. L. 104–188, title I, §1621(b)(1), Aug. 20, 1996, 110 Stat. 1866; Pub. L. 105–34, title II, §213(e)(1), title XVI, §1602(a)(1), Aug. 5, 1997, 111 Stat. 817, 1093; Pub. L. 105–277, div. J, title II, §2001(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(a), Dec. 17, 1999, 113 Stat. 1918.)
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–170 reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “The aggregate amount of credits allowed by this subpart for the taxable year shall not exceed the excess (if any) of—
+
+&emsp;“(1) the taxpayer's regular tax liability for the taxable year, over
+
+&emsp;“(2) the tentative minimum tax for the taxable year (determined without regard to the alternative minimum tax foreign tax credit).
+
+> For purposes of paragraph (2), the taxpayer's tentative minimum tax for any taxable year beginning during 1998 shall be treated as being zero.”
 
 1998—Subsec. (a). Pub. L. 105–277 inserted concluding provisions.
 
@@ -126,6 +144,10 @@ Pub. L. 99–514, §701(c)(1)(B)(iv), added subpar. (J).
 
 Subsec. (c). Pub. L. 99–514, §701(c)(1)(C), amended subsec. (c) generally, substituting provisions relating to tentative minimum tax for provisions referring to section 55(c) of this title for similar rule for alternative minimum tax for taxpayers other than corporations.
 
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to taxable years beginning after Dec. 31, 1998, see section 501(c) of Pub. L. 106–170, set out as a note under section 24 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 applicable to taxable years beginning after Dec. 31, 1997, see section 2001(c) of Pub. L. 105–277, set out as a note under section 24 of this title.
@@ -148,7 +170,7 @@ Section 7823 of Pub. L. 101–239 provided that: “Except as otherwise provided
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1006(t)(16)(C) of Pub. L. 100–647 applicable, with certain exceptions, to transfers afterMar. 31, 1988, and to excess inclusions for periods after Mar. 31, 1988, see section 1006(t)(16)(D)(ii)–(iv) of Pub. L. 100–647, set out as a note under section 860E of this title.
+Amendment by section 1006(t)(16)(C) of Pub. L. 100–647 applicable, with certain exceptions, to transfers after Mar. 31, 1988, and to excess inclusions for periods after Mar. 31, 1988, see section 1006(t)(16)(D)(ii)–(iv) of Pub. L. 100–647, set out as a note under section 860E of this title.
 
 Amendment by sections 1007(g)(1), 1011A(c)(10), and 1012(q)(8) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

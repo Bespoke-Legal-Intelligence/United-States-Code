@@ -6,7 +6,7 @@ A production payment carved out of mineral property shall be treated, for purpos
 
 #### (b) Retained production payment on sale of mineral property
 
-A production payment retained on the sale of a mineral property shall be treated, for purposes of this subtitle, as if it were a purchase money mortgage loan and shall not qualify as an economic interest in the mineral property.
+A production payment retained on the sale of a mineral property shall be treated, for purposesof this subtitle, as if it were a purchase money mortgage loan and shall not qualify as an economic interest in the mineral property.
 
 #### (c) Retained production payment on lease of mineral property
 

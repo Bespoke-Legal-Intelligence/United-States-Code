@@ -220,7 +220,7 @@ As used in this section—
 
 &emsp;&emsp;(B) provides supportive services that address the individual health, mental health or other special needs of such persons.
 
-&emsp;(4) The term “independent living facility” means a project designed for occupancy by not more than 24 persons with disabilities (or such higher number of persons as permitted under criteria that the Secretary shall prescribe) in separate dwelling units where each dwelling unit includes a kitchen and a bath.
+&emsp;(4) The term “independent living facility” means a project designed for occupancy by not more than 24 persons with disabilities (or such higher number of persons as permitted under criteria that the Secretary shall prescribe, subject to the limitation under subsection (h)(6) <sup>4</sup> of this section) in separate dwelling units where each dwelling unit includes a kitchen and a bath.
 
 &emsp;(5) The term “owner” means a private nonprofit organization that receives assistance under this section to develop and operate a project for supportive housing for persons with disabilities.
 
@@ -244,17 +244,25 @@ As used in this section—
 
 #### (1) Allocation
 
-&emsp;Of any amount made available for assistance under this section in any fiscal year, an amount shall be used for assistance under subsection (b) <sup>4</sup> of this section that is not less than the amount made available in appropriation Acts for such assistance in the preceding year, and the remainder shall be available for tenant-based assistance under subsection (n).<sup>5</sup>
+&emsp;Of any amount made available for assistance under this section in any fiscal year, an amount shall be used for assistance under subsection (b) <sup>5</sup> of this section that is not less than the amount made available in appropriation Acts for such assistance in the preceding year, and the remainder shall be available for tenant-based assistance under subsection (n).<sup>6</sup>
 
 #### (2) Capital advances
 
-&emsp;Of any amounts made available for assistance under subsection (b) of this section, such sums as may be necessary shall be available for funding capital advances in accordance with subsection (c)(1) <sup>6</sup> of this section. Such amounts, the repayments from such advances, and the proceeds from notes or obligations issued under this section prior to November 28, 1990,<sup>7</sup> shall constitute a revolving fund to be used by the Secretary in carrying out this section.
+&emsp;Of any amounts made available for assistance under subsection (b) of this section, such sums as may be necessary shall be available for funding capital advances in accordance with subsection (c)(1) <sup>7</sup> of this section. Such amounts, the repayments from such advances, and the proceeds from notes or obligations issued under this section prior to November 28, 1990,<sup>8</sup> shall constitute a revolving fund to be used by the Secretary in carrying out this section.
 
 #### (3) Project rental assistance
 
-&emsp;Of any amounts made available for assistance under subsection (b) of this section, such sums as may be necessary shall be available for funding project rental assistance in accordance with subsection (c)(2) <sup>8</sup> of this section.
+&emsp;Of any amounts made available for assistance under subsection (b) of this section, such sums as may be necessary shall be available for funding project rental assistance in accordance with subsection (c)(2) <sup>9</sup> of this section.
 
-#### (m) Effective date and applicability
+#### (4) Size limitation
+
+&emsp;Of any amounts made available for any fiscal year and used for capital advances or project rental assistance under paragraphs (1) and (2) of subsection (d) of this section, not more than 25 percent may be used for supportive housing which contains more than 24 separate dwelling units.
+
+#### (m) Authorization of appropriations
+
+There is authorized to be appropriated for providing assistance under this section $201,000,000 for fiscal year 2000.
+
+#### (n) Effective date and applicability
 
 #### (1) In general
 
@@ -262,17 +270,17 @@ As used in this section—
 
 #### (2) Earlier applicability
 
-&emsp;The Secretary shall, upon the request of an owner, apply the provisions of this section to any housing for which a loan reservation was made under section 1701q of title 12 before November 28, 1990,<sup>7</sup> but for which no loan has been executed and recorded. In the absence of such a request, any housing identified under the preceding sentence shall continue to be subject to the provisions of section 1701q of title 12 as they were in effect when such assistance was made or reserved.
+&emsp;The Secretary shall, upon the request of an owner, apply the provisions of this section to any housing for which a loan reservation was made under section 1701q of title 12 before November 28, 1990,<sup>8</sup> but for which no loan has been executed and recorded. In the absence of such a request, any housing identified under the preceding sentence shall continue to be subject to the provisions of section 1701q of title 12 as they were in effect when such assistance was made or reserved.
 
 #### (3) Coordination
 
 &emsp;When responding to an owner's request under paragraph (1), the Secretary shall, notwithstanding any other provision of law, apply such portion of amounts obligated at the time of loan reservation, including amounts reserved with respect to such housing under section 1437f of this title, as are required for the owner's housing under the provisions of this section and shall make any remaining portion available for other housing under this section.
 
-(Pub. L. 101–625, title VIII, §811, Nov. 28, 1990, 104 Stat. 4324; Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 150; Pub. L. 102–550, title VI, §§601(d), 603, 623(a), title IX, §913(b), Oct. 28, 1992, 106 Stat. 3803, 3805, 3818, 3877.)
+(Pub. L. 101–625, title VIII, §811, Nov. 28, 1990, 104 Stat. 4324; Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 150; Pub. L. 102–550, title VI, §§601(d), 603, 623(a), title IX, §913(b), Oct. 28, 1992, 106 Stat. 3803, 3805, 3818, 3877; Pub. L. 106–74, title V, §§512, 524(a), Oct. 20, 1999, 113 Stat. 1101, 1106.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d)(2), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVI and XIX of the Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (d)(2), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVI and XIX of the Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 etseq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (j)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
@@ -289,6 +297,12 @@ Section was enacted as part of the Cranston-Gonzalez National Affordable Housing
 November 28, 1990, referred to in subsecs. (<i>l</i>)(2) and (m)(2), was in the original “the enactment of this Act” and “the date of enactment of this Act”, respectively, see Enactment of Section note below.
 
 #### Amendments
+
+1999—Subsec. (k)(4). Pub. L. 106–74, §524(a)(1), inserted “, subject to the limitation under subsection (h)(6) of this section” after “prescribe”.
+
+Subsec. (<i>l</i>)(4). Pub. L. 106–74, §524(a)(2), added par. (4).
+
+Subsecs. (m), (n). Pub. L. 106–74, §512, added subsec. (m) and redesignated former subsec. (m) as (n).
 
 1992—Pub. L. 102–550, §623(a)(1), reenacted section catchline without change.
 
@@ -338,5 +352,5 @@ Amendment by section 623(a) of Pub. L. 102–550 not applicable with respect to 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437a, 1437f, 1437g, 3535, 8011, 11398, 11403g of this title; title 12 sections 1701z–11, 3702, 3705.
+This section is referred to in sections 1437a, 1437f, 3535, 8011, 11403g, 13664 of this title; title 12 sections 1701z–11, 3702, 3705.
 

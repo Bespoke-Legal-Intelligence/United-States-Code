@@ -8,7 +8,7 @@
 
 #### (2) Cost recovery authority
 
-&emsp;The non-Federal interest may recover the costs assigned to the additional capacity through fees assessed on third parties whose dredged material is deposited at the facility and who enter into agreements with the non-Federal interest for the use of the facility. The amount of such fees may be determined by the non-Federal interest.
+&emsp;The non-Federal interest may recover the costs assigned to the additional capacity through fees assessed on third parties whose dredged material is deposited at the facilityand who enter into agreements with the non-Federal interest for the use of the facility. The amount of such fees may be determined by the non-Federal interest.
 
 #### (b) Non-Federal use of disposal facilities
 

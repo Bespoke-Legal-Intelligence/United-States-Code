@@ -98,7 +98,7 @@ For the project conducted under subsection (b) of this section, the non-Federal 
 
 #### (2) Reports
 
-&emsp;The Secretary shall transmit to Congress periodic reports concerning the status of theprogram and any recommendations on improving the content and implementation of the Federal Manual for Identifying and Delineating Jurisdictional Wetlands.
+&emsp;The Secretary shall transmit to Congress periodic reports concerning the status of the program and any recommendations on improving the content and implementation of the Federal Manual for Identifying and Delineating Jurisdictional Wetlands.
 
 (Pub. L. 101–640, title III, §307, Nov. 28, 1990, 104 Stat. 4635.)
 

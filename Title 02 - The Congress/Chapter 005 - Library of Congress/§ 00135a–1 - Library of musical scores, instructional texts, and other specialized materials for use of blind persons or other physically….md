@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1966—Pub. L. 89–522 made the library of musical scores and materials available to other physically handicapped residents of the United States and added persons, organizations, and agencies engaged in work for physically handicapped persons to the groups withwhich the Librarian shall consult in making the materials available on a loan basis.
+1966—Pub. L. 89–522 made the library of musical scores and materials available to other physically handicapped residents of the United States and added persons, organizations, and agencies engaged in work for physically handicapped persons to the groups with which the Librarian shall consult in making the materials available on a loan basis.
 
 #### Section Referred to in Other Sections
 

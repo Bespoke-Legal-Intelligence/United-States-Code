@@ -1,6 +1,6 @@
 ### §2104. Officer
 
-(a) For the purpose of this title, “officer”, except as otherwise provided by this section or when specifically modified, means a justice orjudge of the United States and an individual who is—
+(a) For the purpose of this title, “officer”, except as otherwise provided by this section or when specifically modified, means a justice or judge of the United States and an individual who is—
 
 &emsp;(1) required by law to be appointed in the civil service by one of the following acting in an official capacity—
 

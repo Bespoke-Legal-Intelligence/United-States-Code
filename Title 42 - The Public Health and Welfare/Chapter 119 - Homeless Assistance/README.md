@@ -1193,7 +1193,7 @@ Authorization of appropriations.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1437bbb–5, 12705, 12706 of this title; title 14 section 685; title 26 section 42; title 29 sections 1533, 1605, 1645.
+This chapter is referred to in sections 1437bbb–5, 12705, 12706 of this title; title 14 section 685; title 26 section 42; title 29 sections 1533, 1605, 1645; title 35 section 2.
 
 
 ---

@@ -10,7 +10,7 @@ Section 1173, R.S. §1707; June 25, 1948, ch. 646, §39, 62 Stat. 992, which rel
 
 Section 1174, R.S. §1708; Feb. 14, 1903, ch. 552, §10, 32 Stat. 829, which related to lists and returns of seamen and vessels, etc., was transferred to section 4194 of this title.
 
-Section 1175, R.S. §1709; Mar. 3, 1911, ch. 223, 36 Stat. 1083; June 10, 1921, ch. 18, §304, 42 Stat. 24; July 12, 1940, ch. 618, 54 Stat. 758, which related to estates of decedents generally and to General Accounting Office as conservator, was transferred to section 4195 of this title.
+Section 1175, R.S. §1709; Mar. 3, 1911, ch. 223, 36 Stat. 1083; June 10, 1921, ch. 18, §304, 42 Stat. 24; July 12, 1940, ch. 618, 54 Stat. 758, which related to estates of decedents generally and to General Accounting Office as conservator, was transferred to section 4195 of this title and subsequently repealed.
 
 Section 1176, R.S. §1710; July 12, 1940, ch. 618, 54 Stat. 760, which related to notification of death of decedent and transmission of inventory of effects of decedent, was transferred to section 4196 of this title.
 

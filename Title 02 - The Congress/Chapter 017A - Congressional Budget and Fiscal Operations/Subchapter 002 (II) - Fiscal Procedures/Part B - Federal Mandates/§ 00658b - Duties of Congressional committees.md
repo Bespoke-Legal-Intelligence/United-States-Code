@@ -26,9 +26,11 @@ If any of the Federal mandates in the bill or joint resolution are Federal inter
 
 &emsp;(B) a statement of whether the committee intends that the Federal intergovernmental mandates be partly or entirely unfunded, and if so, the reasons for that intention; and
 
-&emsp;(C) if funded in whole or in part, a statement of whether and how the committee has created a mechanism to allocate the funding in a manner that is reasonably consistent with the expected direct costs among and between the respective levels of State, local, and tribal government; and
+&emsp;(C) if funded in whole or in part, a statement of whether and how the committee has created a mechanism to allocate the funding in a manner that is reasonably consistent with the expected direct costs among and between the respective levels of State, local, and tribal government;
 
-&emsp;(2) any existing sources of Federal assistance in addition to those identified in paragraph (1) that may assist State, local, and tribal governments in meeting the direct costs of the Federal intergovernmental mandates.
+&emsp;(2) any existing sources of Federal assistance in addition to those identified in paragraph (1) that may assist State, local, and tribal governments in meeting the direct costs of the Federal intergovernmental mandates; and
+
+&emsp;(3) if the bill or joint resolution would make the reduction specified in section 658(5)(B)(i)(II) of this title, a statement of how the committee specifically intends the States to implement the reduction and to what extent the legislation provides additional flexibility, if any, to offset the reduction.
 
 #### (e) Preemption clarification and information
 
@@ -44,7 +46,11 @@ When a committee of authorization of the Senate or the House of Representatives 
 
 &emsp;If the statement is not published in the report, or if the bill or joint resolution to which the statement relates is expected to be considered by the Senate or the House of Representatives before the report is published, the committee shall cause the statement, or a summary thereof, to be published in the Congressional Record in advance of floor consideration of the bill or joint resolution.
 
-(Pub. L. 93–344, title IV, §423, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 53.)
+(Pub. L. 93–344, title IV, §423, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 53; amended Pub. L. 106–141, §2(a), Dec. 7, 1999, 113 Stat. 1699.)
+
+#### Amendments
+
+1999—Subsec. (d)(3). Pub. L. 106–141 added par. (3).
 
 #### Section Referred to in Other Sections
 

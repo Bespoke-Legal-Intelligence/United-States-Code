@@ -82,7 +82,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 &emsp;&emsp;(ii) the amount transferred to the account of such State pursuant to subparagraph (B) of this paragraph.
 
-> &emsp;Any amount transferred pursuant to this subparagraph shall be credited against, and shalloperate to reduce, that balance of advances, made under section 1321 of this title to the State, with respect to which employers paid such additional tax.
+> &emsp;Any amount transferred pursuant to this subparagraph shall be credited against, and shall operate to reduce, that balance of advances, made under section 1321 of this title to the State, with respect to which employers paid such additional tax.
 
 &emsp;(B) To the account (in the Unemployment Trust Fund) of the State with respect to which employers paid such additional tax, an amount equal to the amount by which such additional tax received and covered into the Treasury exceeds that balance of advances, made under section 1321 of this title to the State, with respect to which employers paid such additional tax.
 
@@ -106,7 +106,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 (3)(A) The excess determined as provided in paragraph (2) as of the close of any fiscal year after June 30, 1972, shall be retained (as of the beginning of the succeeding fiscal year) in the employment security administration account until the amount in such account is equal to 40 percent of the amount of the total appropriation by the Congress out of the employment security administration account for the fiscal year for which the excess is determined. Three-eighths of the amount in the employment security administration account as of the beginning of any fiscal year after June 30, 1972, or $150 million, whichever is the lesser, is authorized to be made available for such fiscal year pursuant to subsection (c)(1) of this section for additional costs of administration due to an increase in the rate of insured unemployment for a calendar quarter of at least 15 percent over the rate of insured unemployment for the corresponding calendar quarter in the immediately preceding year.
 
-(B) If the entire amount of the excess determined as provided in paragraph (2) as of the close of any fiscal year after June 30, 1972, is not retained in the employment security administration account, there shall be transferred (as of the beginning of the succeeding fiscal year) to the extended unemployment compensation account the balance of such excess or so much thereof as is required to increase the amount in the extended unemployment compensation account to the limit provided in section 1105(b)(2) of this title.
+(B) If the entire amount of the excess determined as provided in paragraph (2) as of the close of any fiscal year after June 30, 1972, is notretained in the employment security administration account, there shall be transferred (as of the beginning of the succeeding fiscal year) to the extended unemployment compensation account the balance of such excess or so much thereof as is required to increase the amount in the extended unemployment compensation account to the limit provided in section 1105(b)(2) of this title.
 
 (C) If as of the close of any fiscal year after June 30, 1972, the amount in the extended unemployment compensation account exceeds the limit provided in section 1105(b)(2) of this title, such excess shall be transferred to the employment security administration account as of the close of such fiscal year.
 
@@ -168,7 +168,7 @@ Subsec. (f)(3)(A). Pub. L. 94–273 struck out “fiscal” after “immediately
 
 Subsec. (c)(2). Pub. L. 91–373, §303(a)(2), struck out provision for the exclusion of amounts attributable to the Temporary Unemployment Compensation Act of 1958, as amended.
 
-Subsec. (c)(3). Pub. L. 91–373, §303(a)(3), changed the ceiling on the amount in the employment security administration account authorized for appropriation for State grants by making it 95 percent of the amount set forth in the budget of the United States Government as the amount by which the net receipts during the fiscal year are estimated to exceed the amount transferred to the extended unemployment compensation account under section 1105(b) of this title.
+Subsec. (c)(3). Pub. L. 91–373, §303(a)(3), changed the ceiling on the amount in the employment security administration account authorized for appropriation for State grants by making it 95 percent of the amount set forth in the budget of the United States Government asthe amount by which the net receipts during the fiscal year are estimated to exceed the amount transferred to the extended unemployment compensation account under section 1105(b) of this title.
 
 Subsec. (c)(4). Pub. L. 91–373, §303(a)(4), added par. (4).
 
@@ -180,7 +180,7 @@ Subsec. (f)(2)(A). Pub. L. 91–373, §303(d)(1), inserted reference to par. (3)
 
 Subsec. (f)(3). Pub. L. 91–373, §303(d)(2), revised provisions for the distribution of any excess in the employment security administration account at the end of any fiscal year after June 30, 1972.
 
-1969—Subsec. (c)(3). Pub. L. 91–53, §3(a), struck out subpar. (A) provisions limiting expenditures for fiscalyear ending June 30, 1964, to 95 percent of amount estimated by the Secretary of Treasury as the net receipts during such fiscal year under the Federal Unemployment Tax Act, redesignated subpar. (B) provisions as par. (3) without restricting their application to fiscal years ending after June 30, 1964, increased expenditure limitation by unexpended amount retained in the employment security administration account in accordance with subsec. (f)(2)(B) of this section, reenacted provision for estimate of net receipts, and struck out dated provisions requiring the Secretary of Treasury to report to Congress his estimate under subpar. (A) within thirty days after May 29, 1963, the date of enactment of Pub. L. 88–31, and providing for its printing as a House document.
+1969—Subsec. (c)(3). Pub. L. 91–53, §3(a), struck out subpar. (A) provisions limiting expenditures for fiscal year ending June 30, 1964, to 95 percent of amount estimated by the Secretary of Treasury as the net receipts during such fiscal year under the Federal Unemployment Tax Act, redesignated subpar. (B) provisions as par. (3) without restricting their application to fiscal years ending after June 30, 1964, increased expenditure limitation by unexpended amount retained in the employment security administration account in accordance with subsec. (f)(2)(B) of this section, reenacted provision for estimate of net receipts, and struck out dated provisions requiring the Secretary of Treasury to report to Congress his estimate under subpar. (A) within thirty days after May 29, 1963, the date of enactment of Pub. L. 88–31, and providing for its printing as a House document.
 
 Subsec. (f)(2). Pub. L. 91–53, §3(b), designated existing provisions as subpar. (A), inserted introductory text “Except as provided in subparagraph (B)”, and added subpar. (B).
 

@@ -22,7 +22,7 @@ The Secretary shall invite the State energy agency of each State to submit, with
 
 &emsp;(7) procedures to insure implementation of energy conserving maintenance and operating procedures in those facilities for which projects are proposed; and
 
-&emsp;(8) policies and procedures designed to assure that financial assistance provided underthis part in such State will be used to supplement, and not to supplant, State, local, or other funds.
+&emsp;(8) policies and procedures designed to assure that financial assistance provided under this part in such State will be used to supplement, and not to supplant, State, local, or other funds.
 
 #### (b) Approval of plans
 
@@ -30,7 +30,7 @@ The Secretary shall review and approve or disapprove each State plan not later t
 
 #### (c) Development and implementation of approved plans; submission of proposed State plan
 
-(1) If a State plan has not been approved under this section within 2 years and 90 days after November 9, 1978, or within 90 days after the completion of the preliminary audits under section 6371b(a) of this title, whichever is later, the Secretary may take such action as necessary to develop and implement such a State plan and to carry out the functions which would otherwise be carried out under this part by the State energy agency, State school facilities agency, and State hospital facilities agency, in order that the energy conservation program for schools and hospitals may be implemented in such State.
+(1) If a State plan has not been approved under this section within 2 years and 90 days after November 9, 1978, or within 90 days after the completion of the preliminary audits under section6371b(a) of this title, whichever is later, the Secretary may take such action as necessary to develop and implement such a State plan and to carry out the functions which would otherwise be carried out under this part by the State energy agency, State school facilities agency, and State hospital facilities agency, in order that the energy conservation program for schools and hospitals may be implemented in such State.
 
 (2) Notwithstanding any other provision contained in this section, a State may, at any time, submit a proposed State plan for such State under this section. The Secretary shall approve or disapprove such plan not later than 60 days after receipt by the Secretary. If such plan meets the requirements of subsection (a) of this section and is not inconsistent with any plan developed and implemented by the Secretary under paragraph (1), the Secretary shall approve the plan and withdraw any such plan developed and implemented by the Secretary.
 

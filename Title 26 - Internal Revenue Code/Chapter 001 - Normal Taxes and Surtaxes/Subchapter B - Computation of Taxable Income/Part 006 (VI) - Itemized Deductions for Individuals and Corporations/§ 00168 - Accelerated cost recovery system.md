@@ -200,7 +200,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(vi) any property which—
 
-&emsp;&emsp;&emsp;&emsp;(I) is described in subparagraph (A) of section 48(a)(3) (or would be so describedif “solar and wind” were substituted for “solar” in clause (i) thereof),
+&emsp;&emsp;&emsp;&emsp;(I) is described in subparagraph (A) of section 48(a)(3) (or would be so described if “solar and wind” were substituted for “solar” in clause (i) thereof),
 
 &emsp;&emsp;&emsp;&emsp;(II) is described in paragraph (15) of section 48(<i>l</i>) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) and is a qualifying small power production facility within the meaning of section 3(17)(C) of the Federal Power Act (16 U.S.C. 796(17)(C)), as in effect on September 1, 1986, or
 
@@ -395,7 +395,7 @@ This section shall not apply to—
 
 &emsp;&emsp;(F) any property (other than a vessel or an aircraft) of a United States person which is used for the purpose of exploring for, developing, removing, or transporting resources from the outer Continental Shelf (within the meaning of section 2 of the Outer Continental Shelf Lands Act, as amended and supplemented; (43 U.S.C. 1331));
 
-&emsp;&emsp;(G) any property which is owned by a domestic corporation (other than a corporation which has an election in effect under section 936) or by a United States citizen (other than a citizen entitled to the benefits of section 931 or 933) and which is used predominantly in a possession of the United States by such a corporation or such a citizen, or by a corporation created or organized in, or under the law of, a possession of the United States;
+&emsp;&emsp;(G) any property which is owned by a domestic corporation (other than a corporation which has an election in effect undersection 936) or by a United States citizen (other than a citizen entitled to the benefits of section 931 or 933) and which is used predominantly in a possession of the United States by such a corporation or such a citizen, or by a corporation created or organized in, or under the law of, a possession of the United States;
 
 &emsp;&emsp;(H) any communications satellite (as defined in section 103(3) of the Communications Satellite Act of 1962, 47 U.S.C. 702(3)), or any interest therein, of a United States person;
 
@@ -465,7 +465,7 @@ This section shall not apply to—
 
 #### (A) Property other than nonresidential real property
 
-&emsp;&emsp;Except as otherwise provided in this subsection, the term “tax-exempt use property” means that portion of any tangible property (other than nonresidential real property) leased to a tax-exempt entity.
+&emsp;&emsp;Except as otherwise provided in this subsection, the term “tax-exempt use property”means that portion of any tangible property (other than nonresidential real property) leased to a tax-exempt entity.
 
 #### (B) Nonresidential real property
 
@@ -711,7 +711,7 @@ This section shall not apply to—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term “tax-exempt controlled entity” means any corporation (which is not a tax-exempt entity determined without regard to this subparagraph and paragraph (2)(E)) if 50 percent or more (in value) of the stock in such corporation is held by 1 or more tax-exempt entities (other than a foreign person or entity).
+&emsp;&emsp;&emsp;&emsp;The term “tax-exempt controlled entity” means any corporation (which is not a tax-exempt entity determined without regard to this subparagraph and paragraph (2)(E)) if 50 percent or more\(in value) of the stock in such corporation is held by 1 or more tax-exempt entities (other than a foreign person or entity).
 
 #### (II) Only 5-percent shareholders taken into account in case of publicly traded stock
 
@@ -811,7 +811,7 @@ For purposes of this section—
 
 #### (4) General asset accounts
 
-&emsp;Under regulations, a taxpayer may maintain 1 or more general asset accounts for any property to which this section applies. Except as provided in regulations, all proceeds realizedon any disposition of property in a general asset account shall be included in income as ordinary income.
+&emsp;Under regulations, a taxpayer may maintain 1 or more general asset accounts for any property to which this section applies. Except as provided in regulations, all proceeds realized on any disposition of property in a general asset account shall be included in income as ordinary income.
 
 #### (5) Changes in use
 
@@ -883,7 +883,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;One way in which the requirements of subparagraph (A) are not met is if the taxpayer, for ratemaking purposes, uses a procedure or adjustment which is inconsistent with the requirements of subparagraph (A).
+&emsp;&emsp;&emsp;One way in which the requirements of subparagraph (A) are not met is if the taxpayer, for ratemaking purposes, uses a procedure or adjustment which is inconsistentwith the requirements of subparagraph (A).
 
 #### (ii) Use of inconsistent estimates and projections
 
@@ -979,11 +979,11 @@ For purposes of this section—
 
 #### (D) Rent-to-own contract
 
-&emsp;&emsp;The term “rent-to-own contract” means any lease for the use of consumer property between a rent-to-own dealer and a customer who is an individual which—
+&emsp;&emsp;The term “rent-to-own contract” means any lease for the use of consumer propertybetween a rent-to-own dealer and a customer who is an individual which—
 
 &emsp;&emsp;&emsp;(i) is titled “Rent-to-Own Agreement” or “Lease Agreement with Ownership Option,” or uses other similar language,
 
-&emsp;&emsp;&emsp;(ii) provides for level (or decreasing where no payment is less than 40 percentof the largest payment), regular periodic payments (for a payment period which is a week or month),
+&emsp;&emsp;&emsp;(ii) provides for level (or decreasing where no payment is less than 40 percent of the largest payment), regular periodic payments (for a payment period which is a week or month),
 
 &emsp;&emsp;&emsp;(iii) provides that legal title to such property remains with the rent-to-own dealer until the customer makes all the payments described in clause (ii) or early purchase payments required under the contract to acquire legal title to the item of property,
 
@@ -1129,7 +1129,7 @@ Subsec. (i)(8)(C). Pub. L. 105–34, §1213(c), added subpar. (C).
 
 Subsec. (i)(14). Pub. L. 105–34, §1086(b)(3), added par. (14).
 
-Subsec. (j)(6). Pub. L. 105–34, §1604(c)(1), inserted concluding provisions “For purposes of the preceding sentence, such section 3(d) shall be applied by treating theterm ‘former Indian reservations in Oklahoma’ as including only lands which are within the jurisdictional area of an Oklahoma Indian tribe (as determined by the Secretary of the Interior) and are recognized by such Secretary as eligible for trust land status under 25 CFR Part 151 (as in effect on the date of the enactment of this sentence).”
+Subsec. (j)(6). Pub. L. 105–34, §1604(c)(1), inserted concluding provisions “For purposes of the preceding sentence, such section 3(d) shall be applied by treating the term ‘former Indian reservations in Oklahoma’ as including only lands which are within the jurisdictional area of an Oklahoma Indian tribe (as determined by the Secretary of the Interior) and are recognized by such Secretary as eligible for trust land status under 25 CFR Part 151 (as in effect on the date of the enactment of this sentence).”
 
 1996—Subsec. (b)(3)(F). Pub. L. 104–188, §1613(b)(1), added subpar. (F).
 
@@ -1217,7 +1217,7 @@ Subsec. (d)(2)(C). Pub. L. 100–647, §1002(i)(2)(D), added subpar. (C).
 
 Subsec. (d)(3)(A)(i). Pub. L. 100–647, §1002(a)(5), struck out “and which are” after “this section applies”.
 
-Subsec. (d)(3)(B). Pub. L. 100–647, §1002(a)(23)(A), struck out “real” after “Certain” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of subparagraph (A), nonresidential real property and residential rental property shall not be taken into account.”
+Subsec. (d)(3)(B). Pub. L. 100–647, §1002(a)(23)(A), struck out “real” after “Certain” in heading and amended text generally. Prior to amendment, text readas follows: “For purposes of subparagraph (A), nonresidential real property and residential rental property shall not be taken into account.”
 
 Subsec. (d)(3)(B)(i). Pub. L. 100–647, §1002(i)(2)(E), substituted “residential rental property, and railroad grading or tunnel bore” for “and residential rental property”.
 
@@ -1303,7 +1303,7 @@ Subsec. (b)(2)(A). Pub. L. 99–514, §1809(a)(2)(A)(i)(I), struck out closing p
 
 Subsec. (b)(2)(B). Pub. L. 99–514, §1809(a)(2)(A)(i)(II), substituted “Mid-month convention for 19-year real property” for “Special rule for year of disposition” in heading and amended text generally, substituting “In the case of 19-year real property, the amount of the deduction determined under any provision of this section (or for purposes of section 57(a)(12)(B) or 312(k)) for any taxable year shall be determined on the basis of the number of months (using a mid-month convention) in which the property is in service.” for prior provisions.
 
-Subsec. (b)(3)(A). Pub. L. 99–514, §1809(a)(1)(A), which directed that the table be amended by striking “and low-income housing” in last item, was executed by striking “and low-income housing” after “19-year real property” in next-to-the-last item, to reflect the probable intent of Congress, because that phrase did not appear in last item.
+Subsec. (b)(3)(A). Pub. L. 99–514, §1809(a)(1)(A), which directed that the table be amended by striking “andlow-income housing” in last item, was executed by striking “and low-income housing” after “19-year real property” in next-to-the-last item, to reflect the probable intent of Congress, because that phrase did not appear in last item.
 
 Pub. L. 99–514, §1809(a)(1)(B), inserted at the end item for low-income housing with recovery periods of 15, 35, or 45 years.
 
@@ -1539,7 +1539,7 @@ Subsec. (j). Pub. L. 97–248, §208(a)(1), redesignated former subsec. (i) as (
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to whichsuch amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -1862,7 +1862,7 @@ Project where agreement on december 19, 1984.—A project is described in this s
 
 &emsp;&emsp;“(D)
 
-Certain additional projects.—A project is described in this subparagraph if it is described in any of the following clauses of this subparagraphand the primary developer of all such projects is the same person:
+Certain additional projects.—A project is described in this subparagraph if it is described in any of the following clauses of this subparagraph and the primary developer of all such projects is the same person:
 
 &emsp;&emsp;&emsp;“(i) A project is described in this clause if the development agreement with respect thereto was entered into during April 1984 and the estimated cost of the project is approximately $194,000,000.
 
@@ -2192,9 +2192,9 @@ Certain aircraft.—The amendments made by section 201 \[amending this section a
 
 &emsp;&emsp;“(A) the aircraft is manufactured in the United States. For purposes of this subparagraph, an aircraft is ‘manufactured’ at the point of its final assembly,
 
-&emsp;&emsp;“(B) the aircraft was in inventory or in the planned production schedule of the final assembly manufacturer, with orders placed for the engine(s) on or before August 16, 1986, and
+&emsp;&emsp;“(B) the aircraft was in inventory or in the planned production schedule of the final assemblymanufacturer, with orders placed for the engine(s) on or before August 16, 1986, and
 
-&emsp;&emsp;“(C) the aircraft is purchased or subject to a binding contract on or before December 31, 1986, and isdelivered and placed in service by the purchaser, before July 1, 1987.
+&emsp;&emsp;“(C) the aircraft is purchased or subject to a binding contract on or before December 31, 1986, and is delivered and placed in service by the purchaser, before July 1, 1987.
 
 &emsp;“(12)
 
@@ -2282,7 +2282,7 @@ Certain detergent manufacturing facility.—The amendments made by section 201 s
 
 &emsp;“(21)
 
-Certain resource recovery facility.—The amendments made by section 201 shall not apply toany of 3 resource recovery plants, the aggregate cost of which approximates $300,000,000, if an industrial development authority adopted a bond resolution with respect to such facilities on December 17, 1984, and the projects were approved by the department of commerce of a Commonwealth on December 27, 1984.
+Certain resource recovery facility.—The amendments made by section 201 shall not apply to any of 3 resource recovery plants, the aggregate cost of which approximates $300,000,000, if an industrial development authority adopted a bond resolution with respect to such facilities on December 17, 1984, and the projects were approved by the department of commerce of a Commonwealth on December 27, 1984.
 
 &emsp;“(22) The amendments made by section 201 shall not apply to a computer and office support center building in Minneapolis, with respect to which the first contract, with an architecture firm, was signed on April 30, 1985, and a construction contract was signed on March 12, 1986.
 
@@ -2432,7 +2432,7 @@ Certain economic development projects.—The amendments made by section 201 shal
 
 &emsp;&emsp;“(ii) a waste-to-energy project in Manchester, New Hampshire, costing approximately $60,000,000,
 
-&emsp;&emsp;“(D) the City of Los Angeles Co-composting project, the estimated cost of which is $62,000,000,with respect to which, on July 17, 1985, the California Pollution Control Financing Authority issued an initial resolution in the maximum amount of $75,000,000 to finance this project,
+&emsp;&emsp;“(D) the City of Los Angeles Co-composting project, the estimated cost of which is $62,000,000, with respect to which, on July 17, 1985, the California Pollution Control Financing Authority issued an initial resolution in the maximum amount of $75,000,000 to finance this project,
 
 &emsp;&emsp;“(E) the St. Charles, Missouri Mixed-Use Center,
 
@@ -2510,7 +2510,7 @@ Applicable Date in Certain Cases.—
 
 &emsp;&emsp;“(B) a cogeneration facility with respect to which an application with the Federal Energy Regulatory Commission was filed on August 2, 1985, and approved October 15, 1985.
 
-&emsp;&emsp;“(C) in the case of a 1,300 megawatt coal-fired steam powered electric generating plant (and related equipment and incidental appurtenances), which the three owners determined in 1984 to convert from nuclear power to coal power and for which morethan $600,000,000 had been incurred or committed for construction before September 25, 1985, except that no investment tax credit will be allowable under section 49(d)(3) added by section 211(a) of this Act \[section 49(d) of this title does not contain a par. (3)\] for any qualified progress expenditures made after December 31, 1990.
+&emsp;&emsp;“(C) in the case of a 1,300 megawatt coal-fired steam powered electric generating plant (and related equipment and incidental appurtenances), which the three owners determined in 1984 to convert from nuclear power to coal power and for which more than $600,000,000 had been incurred or committed for construction before September 25, 1985, except that no investment tax credit will be allowable under section 49(d)(3) added by section 211(a) of this Act \[section 49(d) of this title does not contain a par. (3)\] for any qualified progress expenditures made after December 31, 1990.
 
 &emsp;“(2) Section 203(b)(2) shall be applied by substituting ‘April 1, 1992’ for the applicable date that would otherwise apply, in the case of the second unit of a twin steam electric generating facility and related equipment which was granted a certificate of public convenience and necessity by a public service commission prior to January 1, 1982, if the first unit of the facility was placed in service prior to January 1, 1985, and before September 26, 1985, more than $100,000,000 had been expended toward the construction of the second unit.
 
@@ -2598,7 +2598,7 @@ Section 1002(c)(3) of Pub. L. 100–647 provided that: “Notwithstanding sectio
 
 Amendment by section 201(a) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 
-Amendment by sections 1802(a)(1)–(2)(D), (G), (3), (4)(A), (B), (7), (b)(1), 1809(a)(1)–(2)(B), (4)(A), (B) of Pub. L. 99–514 effective, except as otherwise provided, as ifincluded in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by sections 1802(a)(1)–(2)(D), (G), (3), (4)(A), (B), (7), (b)(1), 1809(a)(1)–(2)(B), (4)(A), (B) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 Section 1802(a)(2)(E)(ii) of Pub. L. 99–514 provided that:
 
@@ -2802,7 +2802,7 @@ Partnership organized before march 6, 1984.—A partnership is described in this
 
 &emsp;&emsp;“(i) before March 6, 1984, the partnership was organized and publicly announced the maximum amount (as shown in the registration statement, prospectus or partnership agreement, whichever is greater) of interests which would be sold in the partnership, and
 
-&emsp;&emsp;“(ii) the marketing or partnership interests in such partnership was completed not later than the 90th day after the date of the enactment of this Act \[July 18, 1984\] and the aggregate amount of interestin such partnership sold does not exceed the maximum amount described in clause (i).
+&emsp;&emsp;“(ii) the marketing or partnership interests in such partnership was completed not later than the 90th day after the date of the enactment of this Act \[July 18, 1984\] and the aggregate amount of interest in such partnership sold does not exceed the maximum amount described in clause (i).
 
 “(12)
 
@@ -2932,7 +2932,7 @@ Election.—Any election under subparagraph (A)—
 
 “(17)
 
-Certain transitional leased property.—The amendments made by this section shall not apply to property described in section 168(c)(2)(D) of the Internal Revenue Code of 1986, as in effect on the day before thedate of the enactment of this Act \[July 18, 1984\], and which is described in any of the following subparagraphs:
+Certain transitional leased property.—The amendments made by this section shall not apply to property described in section 168(c)(2)(D) of the Internal Revenue Code of 1986, as in effect on the day before the date of the enactment of this Act \[July 18, 1984\], and which is described in any of the following subparagraphs:
 
 &emsp;“(A) Property is described in this subparagraph if such property is leased to a university, and—
 
@@ -3044,7 +3044,7 @@ In general.—The amendments made by subsection (e) \[amending section 7701 of t
 
 &emsp;“(B)
 
-Definition of energy management contract.—For purposes of subparagraph (A), the term ‘energy management contract’ means a contract for the providing of energy conservation or energy management services.
+Definition of energy management contract.—For purposes of subparagraph (A), the term‘energy management contract’ means a contract for the providing of energy conservation or energy management services.
 
 “(20)
 
@@ -3372,7 +3372,7 @@ limitation.—The provisions of clause (i) shall not apply to any agreement if t
 
 &emsp;&emsp;&emsp;“(II) the cost basis of any property subject to an agreement to which this subparagraph previously applied, which was entered into during the same calendar year, and with respect to which the lessee was the lessee of the agreement described in subclause (I) (or any related person within the meaning of section 168(e)(4)(D)),
 
-&nbsp;&nbsp;exceeds $150,000. For purposes of subclause (II), in the case of an individual, there shall not be taken into account any agreement of any individual who is a related person involving property which is usedin a trade or business of farming of such related person which is separate from the trade or business of farming of the lessee described in subclause (II).
+&nbsp;&nbsp;exceeds $150,000. For purposes of subclause (II), in the case of an individual, there shall not be taken into account any agreement of any individual who is a related person involving property which is used in a trade or business of farming of such related person which is separate from the trade or business of farming of the lessee described in subclause (II).
 
 “(2)
 

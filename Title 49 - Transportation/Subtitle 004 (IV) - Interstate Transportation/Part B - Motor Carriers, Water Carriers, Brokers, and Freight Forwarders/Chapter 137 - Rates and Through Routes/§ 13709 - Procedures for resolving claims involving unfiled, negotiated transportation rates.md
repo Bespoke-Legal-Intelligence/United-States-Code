@@ -34,13 +34,13 @@ Effect of satisfaction of claims.—Satisfaction of the claim under subsection (
 
 Claims Involving Shipments Weighing 10,000
 
-Pounds or Less.—A person from whom the additional legally applicable and effectivetariff rate or charges are sought may elect to satisfy the claim if the shipments each weighed 10,000 pounds or less, by payment of 20 percent of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid. In the event that a dispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
+Pounds or Less.—A person from whom the additional legally applicable and effective tariff rate or charges are sought may elect to satisfy the claim if the shipments each weighed 10,000 pounds or less, by payment of 20 percent of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid. In the event that a dispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
 
 (c)
 
 Claims Involving Shipments Weighing More Than 10,000
 
-Pounds.—A person from whom the additional legally applicable and effective tariff rate or charges are sought may elect to satisfy the claim if the shipments each weighed more than 10,000 pounds, by payment of 15 percent of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid. In the event that a dispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
+Pounds.—A person from whom the additional legally applicable and effective tariff rate or charges are sought may elect tosatisfy the claim if the shipments each weighed more than 10,000 pounds, by payment of 15 percent of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid. In the event that a dispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
 
 (d)
 
@@ -114,7 +114,7 @@ This amends 49:13709(e) by setting out the effective date for 49:13709 and for c
 
 #### References in Text
 
-Subchapter II of chapter 105, referred to in subsec. (a)(1), was omitted in the general amendment of thissubtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
+Subchapter II of chapter 105, referred to in subsec. (a)(1), was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
 
 Chapter 119, referred to in subsec. (a)(3), was omitted and a new chapter 119 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 849, effective Jan. 1, 1996.
 

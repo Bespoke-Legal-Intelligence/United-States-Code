@@ -2,7 +2,7 @@
 
 Section 6341, Pub. L. 94–163, title III, §371, Dec. 22, 1975, 89 Stat. 936; Pub. L. 95–619, title VI, §§601(c), 691(b)(2), Nov. 9, 1978, 92 Stat. 3283, 3288, defined terms used in this part.
 
-Section 6342, Pub. L. 94–163, title III, §372, Dec. 22, 1975, 89 Stat. 936; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288, directed Secretary to establish and maintain an energy efficient program.
+Section 6342, Pub. L. 94–163, title III, §372, Dec. 22, 1975, 89 Stat. 936; Pub. L. 95–91, title III, §301(a), titleVII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288, directed Secretary to establish and maintain an energy efficient program.
 
 Section 6343, Pub. L. 94–163, title III, §373, Dec. 22, 1975, 89 Stat. 936; Pub. L. 95–619, title VI, §§601(a), 691(b)(2), Nov. 9, 1978, 92 Stat. 3282, 3288, directed Secretary to identify major energy-consuming industries and corporations in the United States.
 

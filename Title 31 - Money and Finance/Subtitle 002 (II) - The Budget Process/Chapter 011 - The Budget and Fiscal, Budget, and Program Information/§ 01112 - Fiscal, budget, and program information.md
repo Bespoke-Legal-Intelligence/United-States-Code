@@ -22,7 +22,7 @@
 
 &emsp;(3) information by organizational unit on performance and program costs to support budget justifications.
 
-(f) In cooperation with the Director of the Congressional Budget Office, the Comptroller General, and appropriate representatives of State and local governments, the Director of the Office of Management and Budget (to the extent practicable) shall provide State and local governments with fiscal, budget, and program information necessary for accurate and timely determination by those governments of the impact on their budgets of assistance of the United States Government.
+(f) In cooperation with the Director of the Congressional Budget Office, the ComptrollerGeneral, and appropriate representatives of State and local governments, the Director of the Office of Management and Budget (to the extent practicable) shall provide State and local governments with fiscal, budget, and program information necessary for accurate and timely determination by those governments of the impact on their budgets of assistance of the United States Government.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 913.)
 

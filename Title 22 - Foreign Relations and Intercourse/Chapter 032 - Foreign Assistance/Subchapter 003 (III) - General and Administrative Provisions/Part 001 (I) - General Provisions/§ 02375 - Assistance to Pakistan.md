@@ -14,7 +14,7 @@ Security assistance for Pakistan shall be made available in order to assist Paki
 
 #### (d) Waiver of limitations respecting nuclear transfers
 
-The President may waive the prohibitions of section 2799aa of this title with respect to any grounds for the prohibition of assistance under that section arising before the effective date of part B of the Nuclear Proliferation Prevention Act of 1994 to provide assistance to Pakistan if he determines that to do so is in the national interest of the United States.
+The President may waive the prohibitions of section 2799aa of this title with respect to anygrounds for the prohibition of assistance under that section arising before the effective date of part B of the Nuclear Proliferation Prevention Act of 1994 to provide assistance to Pakistan if he determines that to do so is in the national interest of the United States.
 
 #### (e) Nuclear non-proliferation conditions on military assistance; exception
 
@@ -56,7 +56,7 @@ This chapter, referred to in subsec. (e), was in the original “this Act”, me
 
 #### Codification
 
-Amendment by Pub. L. 102–145 is based on section 572(a) of H.R. 2621, One Hundred Second Congress, 1stSession, as passed by the House of Representatives on June 19, 1991, which was enacted into law by Pub. L. 102–145, §118, as added by Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93. Section 118 of Pub. L. 102–145 provided that the authority and conditions provided in such section 572 shall be applicable to funds appropriated by Pub. L. 102–145 (and are hereby enacted) in lieu of the authority and conditions provided in section 574 of Pub. L. 101–513. See 1990, 1991, and 1992 Amendment notes below.
+Amendment by Pub. L. 102–145 is based on section 572(a) of H.R. 2621, One Hundred Second Congress, 1st Session, as passed by the House of Representatives on June 19, 1991, which was enacted into law by Pub. L. 102–145, §118, as added by Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93. Section 118 of Pub. L. 102–145 provided that the authority and conditions provided in such section 572 shall be applicable to funds appropriated by Pub. L. 102–145 (and are hereby enacted) in lieu of the authority and conditions provided in section 574 of Pub. L. 101–513. See 1990, 1991, and 1992 Amendment notes below.
 
 #### Amendments
 
@@ -90,6 +90,10 @@ Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see sectio
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
 
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
 #### Nuclear Non-Proliferation Conditions on Assistance for Pakistan
 
 Determination of the President of the United States, No. 90–15, Mar. 28, 1990, 55 F.R. 17417, provided:
@@ -117,6 +121,10 @@ Determination of the President of the United States, No. 88–4, Dec. 17, 1987, 
 Determination of the President of the United States, No. 87–3, Oct. 27, 1986, 51 F.R. 40301.
 
 Determination of the President of the United States, No. 86–03, Nov. 25, 1985, 50 F.R. 50273.
+
+#### Waiver of Sanctions
+
+Sanctions contained in subsec. (e) waived in certain regards by Determination of President of the United States, No. 00–4, Oct. 27, 1999, 64 F.R. 60649, set out as a note under section 2799aa–1 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -124,7 +124,7 @@ A prior section 301 of Pub. L. 95–501 amended sections 1761, 1762, 1764, and 1
 
 Subsec. (h). Pub. L. 104–127, §245(b), added subsec. (h).
 
-1994—Subsec. (a). Pub. L. 103–465, §411(a)(3), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The CommodityCredit Corporation shall carry out in accordance with this section a program to discourage unfair trade practices by making United States agricultural commodities, including processed agricultural products and high-value agricultural products, competitive.”
+1994—Subsec. (a). Pub. L. 103–465, §411(a)(3), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Commodity Credit Corporation shall carry out in accordance with this section a program to discourage unfair trade practices by making United States agricultural commodities, including processed agricultural products and high-value agricultural products, competitive.”
 
 Subsec. (e)(1). Pub. L. 103–465, §411(a)(4)(A), substituted “2001” for “1995”.
 
@@ -142,7 +142,7 @@ Section 245(a) of Pub. L. 104–127 provided that the amendment made by that sec
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.
+Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect tothe United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.
 
 #### Cross References
 

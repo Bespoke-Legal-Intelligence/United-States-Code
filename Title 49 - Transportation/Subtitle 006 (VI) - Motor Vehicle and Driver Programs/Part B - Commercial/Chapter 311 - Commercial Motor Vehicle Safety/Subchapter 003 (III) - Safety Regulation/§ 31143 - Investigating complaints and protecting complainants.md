@@ -32,7 +32,7 @@ Oct. 30, 1984, Pub. L. 98–554, §212, 98 Stat. 2841.
 
 #### Telephone Hotline for Reporting Safety Violations
 
-Pub. L. 105–178, title IV, §4017, June 9, 1998, 112 Stat. 413, provided that:
+Pub. L. 105–178, title IV, §4017, June 9, 1998, 112 Stat. 413, as amended by Pub. L. 106–159, title II, §213, Dec. 9, 1999, 113 Stat. 1766, provided that:
 
 “(a)
 
@@ -44,6 +44,10 @@ Monitoring.—The Secretary shall monitor reports received by the telephone syst
 
 “(c)
 
+Staffing.—The toll-free telephone system shall be staffed 24 hours a day 7 days a week by individuals knowledgeable about Federal motor carrier safety regulations and procedures.
+
+“(d)
+
 Protection of Persons Reporting Violations.—
 
 &emsp;“(1)
@@ -54,7 +58,7 @@ Prohibition.—A person reporting a potential violation to the telephone system 
 
 Applicability of section 31105 of title 49.—For purposes of section 31105 of title 49, United States Code, a violation or alleged violation of paragraph (1) shall be treated as a violation of section 31105(a) of such title.
 
-“(d)
+“(e)
 
-Funding.—From amounts set aside under section 104(a) of title 23, United States Code, the Secretary may use not more than $250,000 for each of fiscal years 1999 through 2003 to carry out this section.”
+Funding.—From amounts set aside under section 104(a)(1)(B) of title 23, United States Code, the Secretary may use not more than $250,000 for fiscal year 1999 and $375,000 for each of fiscal years 2000 through 2003 to carry out this section.”
 

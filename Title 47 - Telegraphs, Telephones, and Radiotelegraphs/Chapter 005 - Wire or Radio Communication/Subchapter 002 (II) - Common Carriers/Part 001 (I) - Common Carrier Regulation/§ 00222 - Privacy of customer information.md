@@ -28,15 +28,35 @@ Nothing in this section prohibits a telecommunications carrier from using, discl
 
 &emsp;(1) to initiate, render, bill, and collect for telecommunications services;
 
-&emsp;(2) to protect the rights or property of the carrier, or to protect users of those services and other carriers from fraudulent, abusive, or unlawful use of, or subscription to, such services; or
+&emsp;(2) to protect the rights or property of the carrier, or to protect users of those services and other carriers from fraudulent, abusive, or unlawful use of, or subscription to, such services;
 
-&emsp;(3) to provide any inbound telemarketing, referral, or administrative services to the customer for the duration of the call, if such call was initiated by the customer and the customer approves of the use of such information to provide such service.
+&emsp;(3) to provide any inbound telemarketing, referral, or administrative services to the customer for the duration of the call, if such call was initiated by the customer and the customer approves of the use of such information to provide such service; and
+
+&emsp;(4) to provide call location information concerning the user of a commercial mobile service (as such term is defined in section 332(d) of this title)—
+
+&emsp;&emsp;(A) to a public safety answering point, emergency medical service provider or emergency dispatch provider, public safety, fire service, or law enforcement official, or hospital emergency or trauma care facility, in order to respond to the user's call for emergency services;
+
+&emsp;&emsp;(B) to inform the user's legal guardian or members of the user's immediate family of the user's location in an emergency situation that involves the risk of death or serious physical harm; or
+
+&emsp;&emsp;(C) to providers of information or database management services solely for purposes of assisting in the delivery of emergency services in response to an emergency.
 
 #### (e) Subscriber list information
 
 Notwithstanding subsections (b), (c), and (d) of this section, a telecommunications carrier that provides telephone exchange service shall provide subscriber list information gathered in its capacity as a provider of such service on a timely and unbundled basis, under nondiscriminatory and reasonable rates, terms, and conditions, to any person upon request for the purpose of publishing directories in any format.
 
-#### (f) Definitions
+#### (f) Authority to use wireless location information
+
+For purposes of subsection (c)(1) of this section, without the express prior authorization of the customer, a customer shall not be considered to have approved the use or disclosure of or access to—
+
+&emsp;(1) call location information concerning the user of a commercial mobile service (as such term is defined in section 332(d) of this title), other than in accordance with subsection (d)(4) of this section; or
+
+&emsp;(2) automatic crash notification information to any person other than for use in the operation of an automatic crash notification system.
+
+#### (g) Subscriber listed and unlisted information for emergency services
+
+Notwithstanding subsections (b), (c), and (d) of this section, a telecommunications carrier that provides telephone exchange service shall provide information described in subsection (i)(3)(A) <sup>1</sup> of this section (including information pertaining to subscribers whose information is unlisted or unpublished) that is in its possession or control (including information pertaining to subscribers of other carriers) on a timely and unbundled basis, under nondiscriminatory and reasonable rates, terms, and conditions to providers of emergency services, and providers of emergency support services, solely for purposes of delivering or assisting in the delivery of emergency services.
+
+#### (h) Definitions
 
 As used in this section:
 
@@ -44,7 +64,7 @@ As used in this section:
 
 &emsp;The term “customer proprietary network information” means—
 
-&emsp;&emsp;(A) information that relates to the quantity, technical configuration, type, destination, and amount of use of a telecommunications service subscribed to by any customer of a telecommunications carrier, and that is made available to the carrier by the customer solely by virtue of the carrier-customer relationship; and
+&emsp;&emsp;(A) information that relates to the quantity, technical configuration, type, destination, location, and amount of use of a telecommunications service subscribed to by any customer of a telecommunications carrier, and that is made available to the carrier by the customer solely by virtue of the carrier-customer relationship; and
 
 &emsp;&emsp;(B) information contained in the bills pertaining to telephone exchange service or telephone toll service received by a customer of a carrier;
 
@@ -62,9 +82,35 @@ As used in this section:
 
 &emsp;&emsp;(B) that the carrier or an affiliate has published, caused to be published, or accepted for publication in any directory format.
 
-(June 19, 1934, ch. 652, title II, §222, as added Pub. L. 104–104, title VII, §702, Feb. 8, 1996, 110 Stat. 148.)
+#### (4) Public safety answering point
+
+&emsp;The term “public safety answering point” means a facility that has been designated to receive emergency calls and route them to emergency service personnel.
+
+#### (5) Emergency services
+
+&emsp;The term “emergency services” means 9–1–1 emergency services and emergency notification services.
+
+#### (6) Emergency notification services
+
+&emsp;The term “emergency notification services” means services that notify the public of an emergency.
+
+#### (7) Emergency support services
+
+&emsp;The term “emergency support services” means information or data base management services used in support of emergency services.
+
+(June 19, 1934, ch. 652, title II, §222, as added Pub. L. 104–104, title VII, §702, Feb. 8, 1996, 110 Stat. 148; amended Pub. L. 106–81, §5, Oct. 26, 1999, 113 Stat. 1288.)
 
 #### Prior Provisions
 
 A prior section 222, act June 19, 1934, ch. 652, title II, §222, as added Mar. 6, 1943, ch. 10, §1, 57 Stat. 5; amended July 12, 1960, Pub. L. 86–624, §36, 74 Stat. 421; Nov. 30, 1974, Pub. L. 93–506, §2, 88 Stat. 1577; Dec. 24, 1980, Pub. L. 96–590, 94 Stat. 3414; Dec. 29, 1981, Pub. L. 97–130, §2, 95 Stat. 1687, related to competition among record carriers, prior to repeal by Pub. L. 103–414, title III, §304(a)(6), Oct. 25, 1994, 108 Stat. 4297.
+
+#### Amendments
+
+1999—Subsec. (d)(4). Pub. L. 106–81, §5(1), added par. (4).
+
+Subsecs. (f), (g). Pub. L. 106–81, §5(2), added subsecs. (f) and (g). Former subsec. (f) redesignated (h).
+
+Subsec. (h). Pub. L. 106–81, §5(2)–(4), redesignated subsec. (f) as (h), inserted “location,” after “destination,” in par. (1)(A), and added pars. (4) to (7).
+
+<i><sup>1</sup></i><i> So in original. Probably should be subsection “(h)(3)(A)”.</i>
 

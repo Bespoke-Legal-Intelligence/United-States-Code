@@ -6,39 +6,41 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(1) Consistent with the provisions of section 1374 of this title, permits may be issued by the Secretary for taking, and importation for purposes of scientific research, public display, photography for educational or commercial purposes, or enhancing the survival or recovery of a species or stock, or for importation of polar bear parts (other than internal organs) taken in sport hunts in Canada. Such permits, except permits issued under section 1374(c)(5) of this title, may be issued if the taking or importation proposed to be made is first reviewed by the Marine Mammal Commission and the Committee of Scientific Advisors on Marine Mammals established under subchapter III of this chapter. The Commission and Committee shall recommend any proposed taking or importation, other than importation under section 1374(c)(5) of this title, which is consistent with the purposes and policies of section 1361 of this title. If the Secretary issues such a permit for importation, the Secretary shall issue to the importer concerned a certificate to that effect in such form as the Secretary of the Treasury prescribes, and such importation may be made upon presentation of the certificate to the customs officer concerned.
 
-&emsp;(2) Marine mammals may be taken incidentally in the course of commercial fishing operations and permits may be issued therefor under section 1374 of this title subject to regulations prescribed by the Secretary in accordance with section 1373 of this title, or in lieu of such permits, authorizations may be granted therefor under section 1387 of this title, subject to regulations prescribed under that section by the Secretary without regard to section 1373 of this title. In any event it shall be the immediate goal that the incidental kill or incidental serious injury of marine mammals permitted in the course of commercial fishing operations be reduced to insignificant levels approaching a zero mortality and serious injury rate; provided that this goal shall be satisfied in the case of the incidental taking of marine mammals in the course of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable. The Secretary of the Treasury shall ban the importation of commercial fish or products from fish which have been caught with commercial fishing technology which results in the incidental kill or incidental serious injury of ocean mammals in excess of United States standards. For purposes of applying the preceding sentence, the Secretary—
+&emsp;(2) Marine mammals may be taken incidentally in the course of commercial fishing operations and permits may be issued therefor under section 1374 of this title subject to regulations prescribed by the Secretary in accordance with section 1373 of this title, or in lieu of such permits, authorizations may be granted therefor under section 1387 of this title, subject to regulations prescribed under that section by the Secretary without regard to section 1373 of this title. Such authorizations may be granted under subchapter IV of this chapter with respect to purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean, subject to regulations prescribed under that subchapter by the Secretary without regard to section 1373 of this title. In any event it shall be the immediate goal that the incidental kill or incidental serious injury of marine mammals permitted in the course of commercial fishing operations be reduced to insignificant levels approaching a zero mortality and serious injury rate. The Secretary of the Treasury shall ban the importation of commercial fish or products from fish which have been caught with commercial fishing technology which results in the incidental kill or incidental serious injury of ocean mammals in excess of United States standards. For purposes of applying the preceding sentence, the Secretary—
 
 &emsp;&emsp;(A) shall insist on reasonable proof from the government of any nation from which fish or fish products will be exported to the United States of the effects on ocean mammals of the commercial fishing technology in use for such fish or fish products exported from such nation to the United States;
 
-&emsp;&emsp;(B) in the case of yellowfin tuna harvested with purse seines in the eastern tropical Pacific Ocean, and products therefrom, to be exported to the United States, shall require that the government of the exporting nation provide documentary evidence that—
+&emsp;&emsp;(B) in the case of yellowfin tuna harvested with purse seine nets in the eastern tropical Pacific Ocean, and products therefrom, to be exported to the United States, shall require that the government of the exporting nation provide documentary evidence that—
 
-&emsp;&emsp;&emsp;(i) the government of the harvesting nation has adopted a regulatory programgoverning the incidental taking of marine mammals in the course of such harvesting that is comparable to that of the United States; and
+&emsp;&emsp;&emsp;(i)(I) the tuna or products therefrom were not banned from importation under this paragraph before the effective date of section 4 of the International Dolphin Conservation Program Act; or
 
-&emsp;&emsp;&emsp;(ii) the average rate of that incidental taking by the vessels of the harvesting nation is comparable to the average rate of incidental taking of marine mammals by United States vessels in the course of such harvesting,
+&emsp;&emsp;&emsp;(II) the tuna or products therefrom were harvested after the effective date of section 4 of the International Dolphin Conservation Program Act by vessels of a nation which participates in the International Dolphin Conservation Program, and such harvesting nation is either a member of the Inter-American Tropical Tuna Commission or has initiated (and within 6 months thereafter completed) all steps required of applicant nations, in accordance with article V, paragraph 3 of the Convention establishing the Inter-American Tropical Tuna Commission, to become a member of that organization;
 
-> &emsp;&emsp;except that the Secretary shall not find that the regulatory program, or the average rate of incidental taking by vessels, of a harvesting nation is comparable to that of the United States for purposes of clause (i) or (ii) of this paragraph unless—
+&emsp;&emsp;&emsp;(ii) such nation is meeting the obligations of the International Dolphin Conservation Program and the obligations ofmembership in the Inter-American Tropical Tuna Commission, including all financial obligations; and
 
-&emsp;&emsp;&emsp;(I) the regulatory program of the harvesting nation includes, by no later than the beginning of the 1990 fishing season, such prohibitions against encircling pure schools of species of marine mammals, conducting sundown sets, and other activities as are made applicable to United States vessels;
+&emsp;&emsp;&emsp;(iii) the total dolphin mortality limits, and per-stock per-year dolphin mortality limits permitted for that nation's vessels under the International Dolphin Conservation Program do not exceed the limits determined for 1997, or for any year thereafter, consistent with the objective of progressively reducing dolphin mortality to a level approaching zero through the setting of annual limits and the goal of eliminating dolphin mortality, and requirements of the International Dolphin Conservation Program;
 
-&emsp;&emsp;&emsp;(II) the average rate of the incidental taking by vessels of the harvesting nation is no more than 2.0 times that of United States vessels during the same period by the end of the 1989 fishing season and no more than 1.25 times that of United States vessels during the same period by the end of the 1990 fishing season and thereafter;
+&emsp;&emsp;(C) shall not accept such documentary evidence if—
 
-&emsp;&emsp;&emsp;(III) the total number of eastern spinner dolphin (Stenella longirostris) incidentally taken by vessels of the harvesting nation during the 1989 and subsequent fishing seasons does not exceed 15 percent of the total number of all marine mammals incidentally taken by such vessels in such year and the total number of coastal spotted dolphin (Stenella attenuata) incidentally taken by such vessels in such seasons does not exceed 2 percent of the total number of all marine mammals incidentally taken by such vessels in such year;
+&emsp;&emsp;&emsp;(i) the government of the harvesting nation does not provide directly or authorize the Inter-American Tropical Tuna Commission to release complete and accurate information to the Secretary in a timely manner—
 
-&emsp;&emsp;&emsp;(IV) the rate of incidental taking of marine mammals by the vessels of the harvesting nation during the 1989 and subsequent fishing seasons is monitored by the porpoise mortality observer program of the Inter-American Tropical Tuna Commission or an equivalent international program in which the United States participates and is based upon observer coverage that is equal to that achieved for United States vessels during the same period, except that the Secretary may approve an alternative observer program if the Secretary determines, no less than sixty days after publication in the Federal Register of the Secretary's proposal and reasons therefor, that such an alternative observer program will provide sufficiently reliable documentary evidence of the average rate of incidental taking by a harvesting nation; and
+&emsp;&emsp;&emsp;&emsp;(I) to allow determination of compliance with the International Dolphin Conservation Program; and
 
-&emsp;&emsp;&emsp;(V) the harvesting nation complies with all reasonable requests by the Secretary for cooperation in carrying out the scientific research program required by section 1374(h)(3) of this title;
+&emsp;&emsp;&emsp;&emsp;(II) for the purposes of tracking and verifying compliance with the minimum requirements established by the Secretary in regulations promulgated under section 1385(f) of this title; or
 
-&emsp;&emsp;(C) shall require the government of any intermediary nation to certify and provide reasonable proof to the Secretary that it has not imported, within the preceding six months, any yellowfin tuna or yellowfin tuna products that are subject to a direct ban on importation to the United States under subparagraph (B);
+&emsp;&emsp;&emsp;(ii) after taking into consideration such information, findings of the Inter-American Tropical Tuna Commission, and any other relevant information, including information that a nation is consistently failing to take enforcement actions on violations which diminish the effectiveness of the International Dolphin Conservation Program, the Secretary, in consultation with the Secretary of State, finds that the harvesting nation is not in compliance with the International Dolphin Conservation Program.
 
-&emsp;&emsp;(D) shall, six months after importation of yellowfin tuna or tuna products has been banned under this section, certify such fact to the President, which certification shall be deemed to be a certification for the purposes of section 1978(a) of title 22 for as long as such ban is in effect; and
+&emsp;&emsp;(D) shall require the government of any intermediary nation to certify and provide reasonable proof to the Secretary that it has not imported, within the preceding six months, any yellowfin tuna or yellowfin tuna products that are subject to a direct ban on importation to the United States under subparagraph (B);
 
-&emsp;&emsp;(E)(i) except as provided in clause (ii), in the case of fish or products containing fish harvested by a nation whose fishing vessels engage in high seas driftnet fishing, shall require that the government of the exporting nation provide documentary evidence that the fish or fish product was not harvested with a large-scale driftnet in the South Pacific Ocean after July 1, 1991, or in any other water of the high seas after January 1, 1993, and
+&emsp;&emsp;(E) shall, six months after importation of yellowfin tuna or tuna products has been banned under this section, certify such fact to the President, which certification shall be deemed to be a certification for the purposes of section 1978(a) of title 22 for as long as such ban is in effect; and
+
+&emsp;&emsp;(F)(i) except as provided in clause (ii), in the case of fish or products containing fish harvested by a nation whose fishing vessels engage in high seas driftnet fishing, shall require that the government of the exporting nation provide documentary evidence that the fish or fish product was not harvested with a large-scale driftnet in the South Pacific Ocean after July 1, 1991, or in any other water of the high seas after January 1, 1993, and
 
 &emsp;&emsp;(ii) in the case of tuna or a product containing tuna harvested by a nation whose fishing vessels engage in high seas driftnet fishing, shall require that the government of the exporting nation provide documentary evidence that the tuna or tuna product was not harvested with a large-scale driftnet anywhere on the high seas after July 1, 1991.
 
-> &emsp;For purposes of subparagraph (E), the term “driftnet” has the meaning given such term in section 4003 of the Driftnet Impact Monitoring, Assessment, and Control Act of 1987 (16 U.S.C. 1822 note), except that, until January 1, 1994, the term “driftnet” does not include the use in the northeast Atlantic Ocean of gillnets with a total length not to exceed five kilometers if the use is in accordance with regulations adopted by the European Community pursuant to the October 28, 1991, decision by the Council of Fisheries Ministers of the Community.
+> &emsp;For purposes of subparagraph (F), the term “driftnet” has the meaning given such term in section 4003 of the Driftnet Impact Monitoring, Assessment, and Control Act of 1987 (16 U.S.C. 1822 note), except that, until January 1, 1994, the term “driftnet” does not include the use in the northeast Atlantic Ocean of gillnets with a total length not to exceed five kilometers if the use is in accordance with regulations adopted by the European Community pursuant to the October 28, 1991, decision by the Council of Fisheries Ministers of the Community.
 
-&emsp;(3)(A) The Secretary, on the basis of the best scientific evidence available and in consultation with the Marine Mammal Commission, is authorized and directed, from time to time, having due regard to the distribution, abundance, breeding habits, and times and lines of migratory movements of such marine mammals, to determine when, to what extent, if at all, and by what means, it is compatible with this chapter to waive the requirements of this section so as to allow taking, or importing of any marine mammal, or any marine mammal product, and to adopt suitable regulations, issue permits, and make determinations in accordance with sections 1372, 1373, 1374, and 1381 of this title permitting and governing such taking and importing, in accordance with such determinations: <i>Provided, however</i>, That the Secretary, in making such determinations must be assured that the taking of such marine mammal is in accord with sound principles of resource protection and conservation as provided in the purposes and policies of this chapter: <i>Provided, further, however</i>, That nomarine mammal or no marine mammal product may be imported into the United States unless the Secretary certifies that the program for taking marine mammals in the country of origin is consistent with the provisions and policies of this chapter. Products of nations not so certified may not be imported into the United States for any purpose, including processing for exportation.
+&emsp;(3)(A) The Secretary, on the basis of the best scientific evidence available and in consultation with the Marine Mammal Commission, is authorized and directed, from time to time, having due regard to the distribution, abundance, breeding habits, and times and lines of migratory movements of such marine mammals, to determine when, to what extent, if at all, and by what means, it is compatible with this chapter to waive the requirements of this section so as to allow taking, or importing of any marine mammal, or any marine mammal product, and to adopt suitable regulations, issue permits, and make determinations in accordance with sections 1372, 1373, 1374, and 1381 of this title permitting and governing such taking and importing, in accordance with such determinations: <i>Provided, however</i>, That the Secretary, in making such determinations must be assured that the taking of such marine mammal is in accord with sound principles of resource protection and conservation as provided in the purposes and policies of this chapter: <i>Provided, further, however</i>, That no marine mammal or no marine mammal product may be imported into the United States unless the Secretary certifies that the program for taking marine mammals in the country of origin is consistent with the provisions and policies of this chapter. Products of nations not so certified may not be imported into the United States for any purpose, including processing for exportation.
 
 &emsp;(B) Except for scientific research purposes, photography for educational or commercial purposes, or enhancing the survival or recovery of a species or stock as provided for in paragraph (1) of this subsection, or as provided for under paragraph (5) of this subsection, during the moratorium no permit may be issued for the taking of any marine mammal which has been designated by the Secretary as depleted, and no importation may be made of any such mammal.
 
@@ -160,53 +162,17 @@ It shall not be a violation of this chapter to take a marine mammal if—
 
 &emsp;(4) such taking is reported to the Secretary within 48 hours.
 
-(Pub. L. 92–522, title I, §101, Oct. 21, 1972, 86 Stat. 1029; Pub. L. 93–205, §13(e)(2), Dec. 28, 1973, 87 Stat. 903; Pub. L. 97–58, §2, Oct. 9, 1981, 95 Stat. 979; Pub. L. 98–364, title I, §101, July 17, 1984, 98 Stat. 440; Pub. L. 99–659, title IV, §411(a), Nov. 14, 1986, 100 Stat. 3741; Pub. L. 100–711, §§4(a), 5(c),\(e)(1), Nov. 23, 1988, 102 Stat. 4765, 4769, 4771; Pub. L. 101–627, title IX, §901(g), Nov. 28, 1990, 104 Stat. 4467; Pub. L. 102–582, title I, §103, title IV, §401(b), Nov. 2, 1992, 106 Stat. 4903, 4909; Pub. L. 103–238, §4, Apr. 30, 1994, 108 Stat. 532; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–18, title II, §2003, June 12, 1997, 111 Stat. 174; Pub. L. 105–42, §4(a)–(c), Aug. 15, 1997, 111 Stat. 1123, 1124.)
-
-#### Amendment of Subsections (a)(2) and (e)
-
-<i>Pub. L. 105–42, §§4(a)–(c), 8, Aug. 15, 1997, 111 Stat. 1123, 1124, 1139, provided that, effective as provided by section 8 of Pub. L. 105–42, see Effective Date of 1997 Amendment note below, this section is amended as follows:</i>
-
-<i>Subsec. (a)(2) is amended—</i>
-
-<i>(1) by inserting after the first sentence “Such authorizations may be granted under subchapter IV of this chapter with respect to purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean, subject to regulations prescribed under that subchapter by the Secretary without regard to section 1373 of this title.”;</i>
-
-<i>(2) by striking the semicolon in the second sentence and all that follows through “practicable”;</i>
-
-<i>(3) by striking subparagraph (B) and inserting the following:</i>
-
-“(B) in the case of yellowfin tuna harvested with purse seine nets in the eastern tropical Pacific Ocean, and products therefrom, to be exported to the United States, shall require that the government of the exporting nation provide documentary evidence that—
-
-&emsp;“(i)(I) the tuna or products therefrom were not banned from importation under this paragraph before the effective date of section 4 of the International Dolphin Conservation Program Act; or
-
-&emsp;“(II) the tuna or products therefrom were harvested after the effective date of section 4 of the International Dolphin Conservation Program Act by vessels of a nation which participates in the International Dolphin Conservation Program, and such harvesting nation is either a member of the Inter-American Tropical Tuna Commission or has initiated (and within 6 months thereafter completed) all steps required of applicant nations, in accordance with article V, paragraph 3 of the Convention establishing the Inter-American Tropical Tuna Commission, to become a member of that organization;
-
-&emsp;“(ii) such nation is meeting the obligations of the International Dolphin Conservation Program and the obligations of membership in the Inter-American Tropical Tuna Commission, including all financial obligations; and
-
-&emsp;“(iii) the total dolphin mortality limits, and per-stock per-year dolphin mortality limits permitted for that nation's vessels under the International Dolphin Conservation Program do not exceed the limits determined for 1997, or for any year thereafter, consistent with the objective of progressively reducing dolphin mortality to a level approaching zero through the setting of annual limits and the goal of eliminating dolphin mortality, and requirements of the International Dolphin Conservation Program;”;
-
-<i>(4) by redesignating subparagraphs (C), (D), and (E) as subparagraphs (D), (E), and (F), respectively, and by inserting after subparagraph (B) the following:</i>
-
-“(C) shall not accept such documentary evidence if—
-
-&emsp;“(i) the government of the harvesting nation does not provide directly or authorize the Inter-American Tropical Tuna Commission to release complete and accurate information to the Secretary in a timely manner—
-
-&emsp;&emsp;“(I) to allow determination of compliance with the International Dolphin Conservation Program; and
-
-&emsp;&emsp;“(II) for the purposes of tracking and verifying compliance with the minimum requirements established by the Secretary in regulations promulgated under section 1385(f) of this title; or
-
-&emsp;“(ii) after taking into consideration such information, findings of the Inter-American Tropical Tuna Commission, and any other relevant information, including information that a nation is consistently failing to take enforcement actions on violations which diminish the effectiveness of the International Dolphin Conservation Program, the Secretary, in consultation with the Secretary of State, finds that the harvesting nation is not in compliance with the International Dolphin Conservation Program.”; and
-
-<i>(5) by striking “subparagraph (E)” in the matter after subparagraph (F), as redesignated, and inserting “subparagraph (F)”.</i>
-
-<i>Subsec. (e) is added reading as follows:</i>
-
 #### (e) Chapter not to apply to incidental takings by United States citizens employed on foreign vessels outside United States EEZ
 
 The provisions of this chapter shall not apply to a citizen of the United States who incidentally takes any marine mammal during fishing operations outside the United States exclusive economic zone (as defined in section 1802 of this title) when employed on a foreign fishing vessel of a harvesting nation which is in compliance with the International Dolphin Conservation Program.
 
+(Pub. L. 92–522, title I, §101, Oct. 21, 1972, 86 Stat. 1029; Pub. L. 93–205, §13(e)(2), Dec. 28, 1973, 87 Stat. 903; Pub. L. 97–58, §2, Oct. 9, 1981, 95 Stat. 979; Pub. L. 98–364, title I, §101, July 17, 1984, 98 Stat. 440; Pub. L. 99–659, title IV, §411(a), Nov. 14, 1986, 100 Stat. 3741; Pub. L. 100–711, §§4(a), 5(c), (e)(1), Nov. 23, 1988, 102 Stat. 4765, 4769, 4771; Pub. L. 101–627, title IX, §901(g), Nov. 28, 1990, 104 Stat. 4467; Pub. L. 102–582, title I, §103, title IV, §401(b), Nov. 2, 1992, 106 Stat. 4903, 4909; Pub. L. 103–238, §4, Apr. 30, 1994, 108 Stat. 532; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–18, title II, §2003, June 12, 1997, 111 Stat. 174; Pub. L. 105–42, §4(a)–(c), Aug. 15, 1997, 111 Stat. 1123, 1124.)
+
 #### References in Text
 
 The effective date of this chapter, referred to in subsec. (a), means the effective date of Pub. L. 92–522. See section 4 of Pub. L. 92–522, set out as an Effective Date note under section 1361 of this title.
+
+For effective date of section 4 of the International Dolphin Conservation Program Act \[Pub. L. 105–42\], referred to in subsec. (a)(2)(B)(i), see section 8 of Pub. L. 105–42 set out as an Effective Date of 1997 Amendment note under section 1362 of this title.
 
 The Endangered Species Act of 1973, referred to in subsec. (a)(4)(B), (5)(E)(i), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
@@ -216,7 +182,15 @@ Act of November 7, 1986, referred to in subsec. (a)(5)(E)(vi), is Pub. L. 99–6
 
 #### Amendments
 
-1997—Subsec. (d). Pub. L. 105–18 added subsec. (d).
+1997—Subsec. (a)(2). Pub. L. 105–42, §4(a), (b)(4), in introductory provisions, inserted after first sentence “Such authorizations may be granted under subchapter IV of this chapter with respect to purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean, subject to regulations prescribed under that subchapter by the Secretary without regard to section 1373 of this title.” and struck out “; provided that this goal shall be satisfied in the case of the incidental taking of marine mammals in the course of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable” after “serious injury rate” and, in closing provisions, substituted “For purposes of subparagraph (F)” for “For purposes of subparagraph (E)”.
+
+Subsec. (a)(2)(B). Pub. L. 105–42, §4(b)(1), added subpar. (B) and struck out former subpar. (B) which contained requirement that nations exporting yellowfin tuna harvested with purse seines in eastern tropical Pacific Ocean provide documentary evidence of adoption of regulatory program governing incidental taking of other mammals and comparison of the average rates of incidental taking between harvesting nation and United States.
+
+Subsec. (a)(2)(C) to (F). Pub. L. 105–42, §4(b)(2), (3), added subpar. (C) and redesignated former subpars. (C) to (E) as (D) to (F), respectively.
+
+Subsec. (d). Pub. L. 105–18 added subsec. (d).
+
+Subsec. (e). Pub. L. 105–42, §4(c), added subsec. (e).
 
 1996—Subsec. (a)(5)(E)(i). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1824(b) of this title.
 
@@ -258,7 +232,7 @@ Subsec. (c). Pub. L. 103–238, §4(c), amended subsec. (c) generally. Prior to 
 
 1992—Subsec. (a)(2). Pub. L. 102–582, §103(2), inserted before period at end “, except that, until January 1, 1994, the term ‘driftnet’ does not include the use in the northeast Atlantic Ocean of gillnets with a total length not to exceed five kilometers if the use is in accordance with regulations adopted by the European Community pursuant to the October 28, 1991, decision by the Council of Fisheries Ministers of the Community”.
 
-Subsec. (a)(2)(C). Pub. L. 102–582, §401(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “shall require the government of any intermediary nation from which yellowfin tuna or tuna products will be exported to the United States to certify and provide reasonable proof that it has acted to prohibit the importation of such tuna and tuna products from any nation from which direct export to the United States of such tuna and tuna products is banned under this section within sixty days following the effective date of such ban on importation to the United States;”.
+Subsec. (a)(2)(C). Pub. L. 102–582, §401(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “shall require the government of anyintermediary nation from which yellowfin tuna or tuna products will be exported to the United States to certify and provide reasonable proof that it has acted to prohibit the importation of such tuna and tuna products from any nation from which direct export to the United States of such tuna and tuna products is banned under this section within sixty days following the effective date of such ban on importation to the United States;”.
 
 Subsec. (a)(2)(E)(i). Pub. L. 102–582, §103(1), substituted “January 1, 1993” for “July 1, 1992”.
 
@@ -278,7 +252,7 @@ Subsec. (a)(5)(A)(ii)(I). Pub. L. 99–659, §411(a)(3), inserted “, and on t
 
 1984—Subsec. (a)(2). Pub. L. 98–364 amended last sentence generally, restating existing provisions in cl. (A) and adding cl. (B).
 
-1981—Subsec. (a)(2). Pub. L. 97–58, §2(1)(A), provided that the immediate goal of reducing to insignificant levels approaching a zero mortality and serious injury rate the incidental kill or serious injury of marine mammals permitted in the course of commercial fishing operations be satisfied in the case of purse seinefishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable.
+1981—Subsec. (a)(2). Pub. L. 97–58, §2(1)(A), provided that the immediate goal of reducing to insignificant levels approaching a zero mortality and serious injury rate the incidental kill or serious injury of marine mammals permitted in the course of commercial fishing operations be satisfied in the case of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable.
 
 Subsec. (a)(3)(B). Pub. L. 97–58, §2(1)(B), struck out “is classified as belonging to an endangered species or threatened species pursuant to the Endangered Species Act of 1973 or” after “the taking of any marine mammal which”.
 
@@ -290,7 +264,7 @@ Subsec. (b). Pub. L. 97–58, §2(2), substituted “Except as provided in secti
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–42, effective upon certification by Secretary of Commerce that sufficient funding is available to complete first year of study required by section 1414a(a) of this title and that study has commenced, and certification by Secretary of State to Congress that binding resolution of Inter-American Tropical Tuna Commission or other legally binding instrument establishing International Dolphin Conservation Program has been adopted and is in force, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
+For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
 
 #### Effective Date of 1996 Amendment
 

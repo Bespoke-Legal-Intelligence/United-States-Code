@@ -20,7 +20,7 @@ Section effective on first day of first pay period which begins on or after July
 
 #### 1974 Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate
 
-Adjustment in compensation by Pub. L. 93–371 not to supersede order of President pro tempore of the Senate authorizing higher rate of compensation or any authority of President pro tempore to adjust rates of compensation or limitations under section 4 of the Federal Pay Comparability Act of 1970, see section 4 of Pub. L. 93–371, set out in part as a note under section 61a of this title.
+Adjustment in compensation by Pub. L. 93–371 not to supersede order of President pro tempore of the Senateauthorizing higher rate of compensation or any authority of President pro tempore to adjust rates of compensation or limitations under section 4 of the Federal Pay Comparability Act of 1970, see section 4 of Pub. L. 93–371, set out in part as a note under section 61a of this title.
 
 #### Increases in Compensation
 

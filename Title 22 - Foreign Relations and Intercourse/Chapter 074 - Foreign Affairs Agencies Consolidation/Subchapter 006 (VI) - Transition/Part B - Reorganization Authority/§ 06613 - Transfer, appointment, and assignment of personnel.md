@@ -16,13 +16,13 @@ Except as otherwise provided in subchapter III of this chapter, not later than t
 
 #### (c) Assignment authority
 
-The Secretary, for a period of not more than 6 months commencing on the effective date of the transfer to the Department of State of personnel under subsections (a) and (b) of this section, is authorized to assign such personnel to any position or set of duties in the Department of State regardless of the position held or duties performed by such personnel prior to transfer, except that, by virtue of such assignment, such personnel shall not have their grade or class or their rate of basic pay or basic salary rate reduced, nor their tenure changed. The Secretary shall consult with the relevant exclusive representatives (as defined in section 4102 of this title and in section 7103 of title 5) with regard to the exercise of this authority. This subsection does not authorize the Secretary to assign any individual to any position that by law requires appointment by the President, by and with the advice and consent of the Senate.
+The Secretary, for a period of not more than 6 months commencing on the effective date of the transfer to the Department of State of personnel under subsections (a) and (b) of this section, is authorized to assign such personnel to any position or set of duties in the Department of State regardless of the position held or duties performed by such personnel prior to transfer, except that, by virtue of such assignment, such personnel shall not have their grade or class or their rate of basic pay or basic salary rate reduced, nor their tenure changed. In carrying out the reorganization under this Act, the Secretary shall ensure that the advances made in increasing the number and status of women and minorities within the foreign affairs agencies of the Federal Government, in terms of representation within the agencies as well as relative rank, are not undermined by discrimination within the newly reorganized Department of State. The Secretary shall consult with the relevant exclusive representatives (as defined in section 4102 of this title and in section 7103 of title 5) with regard to the exercise of this authority. This subsection does not authorize the Secretary to assign any individual to any position that by law requires appointment by the President, by and with the advice and consent of the Senate.
 
 #### (d) Superseding other provisions of law
 
 Subsections (a) through (c) of this section shall be exercised notwithstanding any other provision of law.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XVI, §1613, Oct. 21, 1998, 112 Stat. 2681–799.)
+(Pub. L. 105–277, div. G, subdiv. A, title XVI, §1613, Oct. 21, 1998, 112 Stat. 2681–799; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §341\], Nov. 29, 1999, 113 Stat. 1536, 1501A–444.)
 
 #### References in Text
 
@@ -30,5 +30,11 @@ Subchapter III of this chapter, referred to in subsecs. (a) and (b), was in the 
 
 This chapter, referred to in subsec. (b), was in the original “this subdivision”, meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, known as the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
+This Act, referred to in subsec. (c), probably means division G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–761, as amended, known as the Foreign Affairs Reform and Restructuring Act of 1998. For complete classification of division G to the Code, see Short Title note set out under section 6501 of this title and Tables.
+
 Section 4102 of this title, referred to in subsec. (c), was in the original “section 1002 of the Foreign Service Act”, and was translated as meaning section 1002 of the Foreign Service Act of 1980 to reflect the probable intent of Congress.
+
+#### Amendments
+
+1999—Subsec. (c). Pub. L. 106–113 inserted after first sentence “In carrying out the reorganization under this Act, the Secretary shall ensure that the advances made in increasing the number and status of women and minorities within the foreign affairs agencies of the Federal Government, in terms of representation within the agencies as well as relative rank, are not undermined by discrimination within the newly reorganized Department of State.”.
 

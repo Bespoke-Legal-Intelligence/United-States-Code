@@ -49,10 +49,17 @@
 | [316\.](%C2%A7%2000316%20-%20Special%20pay%20foreign%20language%20proficiency%20pay.md) | Special pay: foreign language proficiency pay. |
 | [316a.](%C2%A7%2000316a%20-%20Waiver%20of%20certification%20requirement.md) | Waiver of certification requirement. |
 | [317\.](%C2%A7%2000317%20-%20Special%20pay%20officers%20in%20critical%20acquisition%20positions%20extending%20period%20of%20active%20duty.md) | Special pay: officers in critical acquisition positions extending period of active duty. |
+| [318\.](%C2%A7%2000318%20-%20Special%20pay%20special%20warfare%20officers%20extending%20period%20of%20active%20duty.md) | Special pay: special warfare officers extending period of active duty. |
+| [319\.](%C2%A7%2000319%20-%20Special%20pay%20surface%20warfare%20officer%20continuation%20pay.md) | Special pay: surface warfare officer continuation pay. |
+| [320\.](%C2%A7%2000320%20-%20Incentive%20pay%20career%20enlisted%20flyers.md) | Incentive pay: career enlisted flyers. |
+| [321\.](%C2%A7%2000321%20-%20Special%20pay%20judge%20advocate%20continuation%20pay.md) | Special pay: judge advocate continuation pay. |
+| [322\.](%C2%A7%2000322%20-%20Special%20pay%2015-year%20career%20status%20bonus%20for%20members%20entering%20service%20on%20or%20after%20August%201%2C%201986.md) | Special pay: 15-year career status bonus for members entering service on or after August 1, 1986. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1999—Pub. L. 106–65, div. A, title VI, §§626(a)(2), 627(a)(2), 628(a)(2), 629(a)(2), 642(b), Oct. 5, 1999, 113 Stat. 656, 657, 659, 660, 663, added items 318 to 322.
 
 1998—Pub. L. 105–261, div. A, title VI, §617(c)(2), Oct. 17, 1998, 112 Stat. 2041, struck out “location” after “hardship duty” in item 305.
 
@@ -118,7 +125,7 @@ Assimilation of pay and allowances, see section 1003 of this title.
 
 Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 907, 1003 of this title; title 42 sections 210, 254d.
+This chapter is referred to in sections 907, 1003 of this title; title 5 section 8440e; title 42 sections 210, 254d.
 
 
 ---
@@ -172,3 +179,8 @@ This chapter is referred to in sections 907, 1003 of this title; title 42 sectio
 - [&sect; 00316 - Special pay foreign language proficiency pay](%C2%A7%2000316%20-%20Special%20pay%20foreign%20language%20proficiency%20pay.md)
 - [&sect; 00316a - Waiver of certification requirement](%C2%A7%2000316a%20-%20Waiver%20of%20certification%20requirement.md)
 - [&sect; 00317 - Special pay officers in critical acquisition positions extending period of active duty](%C2%A7%2000317%20-%20Special%20pay%20officers%20in%20critical%20acquisition%20positions%20extending%20period%20of%20active%20duty.md)
+- [&sect; 00318 - Special pay special warfare officers extending period of active duty](%C2%A7%2000318%20-%20Special%20pay%20special%20warfare%20officers%20extending%20period%20of%20active%20duty.md)
+- [&sect; 00319 - Special pay surface warfare officer continuation pay](%C2%A7%2000319%20-%20Special%20pay%20surface%20warfare%20officer%20continuation%20pay.md)
+- [&sect; 00320 - Incentive pay career enlisted flyers](%C2%A7%2000320%20-%20Incentive%20pay%20career%20enlisted%20flyers.md)
+- [&sect; 00321 - Special pay judge advocate continuation pay](%C2%A7%2000321%20-%20Special%20pay%20judge%20advocate%20continuation%20pay.md)
+- [&sect; 00322 - Special pay 15-year career status bonus for members entering service on or after August 1, 1986](%C2%A7%2000322%20-%20Special%20pay%2015-year%20career%20status%20bonus%20for%20members%20entering%20service%20on%20or%20after%20August%201%2C%201986.md)

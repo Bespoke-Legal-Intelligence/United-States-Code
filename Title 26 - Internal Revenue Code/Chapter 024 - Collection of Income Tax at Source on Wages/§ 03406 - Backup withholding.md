@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “reportable interest or dividend payment” means any payment of a kind, andto a payee, required to be shown on a return required under—
+&emsp;&emsp;The term “reportable interest or dividend payment” means any payment of a kind, and to a payee, required to be shown on a return required under—
 
 &emsp;&emsp;&emsp;(i) section 6049(a) (relating to payments of interest),
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the payor was required under section 6041(a) or 6041A(a) to file a return for the preceding calendar year with respect to payments to the payee, or
 
-&emsp;&emsp;(C) during the preceding calendar year, the payor made reportable payments to the payee with respect to which amounts were required to be deducted and withheld under subsection (a).
+&emsp;&emsp;(C) during the preceding calendar year, the payor made reportable payments to thepayee with respect to which amounts were required to be deducted and withheld under subsection (a).
 
 #### (7) Exception for certain window payments of interest, etc.
 
@@ -304,7 +304,7 @@ For purposes of this section—
 
 #### (B) Stopping
 
-&emsp;&emsp;Unless the payor elects not to have this subparagraph apply with respect to the payee, subsection (a) shall also apply to anyreportable payment made after the close of the period described in paragraph (1), (2), or (4) (as the case may be) and before the 30th day after the close of such period. A similar rule shall also apply with respect to the period described in paragraph (3)(A) where the stop date is determined under clause (i) or (ii) of paragraph (3)(B).
+&emsp;&emsp;Unless the payor elects not to have this subparagraph apply with respect to the payee, subsection (a) shall also apply to any reportable payment made after the close of the period described in paragraph (1), (2), or (4) (as the case may be) and before the 30th day after the close of such period. A similar rule shall also apply with respect to the period described in paragraph (3)(A) where the stop date is determined under clause (i) or (ii) of paragraph (3)(B).
 
 #### (C) Election of shorter grace period
 
@@ -356,7 +356,7 @@ For purposes of this section—
 
 #### (4) Payor defined
 
-&emsp;The term “payor” means, with respect to any reportable payment, a person required to file a return described in paragraph (2) or (3) of subsection (b) with respect to such payment.
+&emsp;The term “payor” means, with respect to any reportable payment, a person required tofile a return described in paragraph (2) or (3) of subsection (b) with respect to such payment.
 
 #### (5) Broker
 

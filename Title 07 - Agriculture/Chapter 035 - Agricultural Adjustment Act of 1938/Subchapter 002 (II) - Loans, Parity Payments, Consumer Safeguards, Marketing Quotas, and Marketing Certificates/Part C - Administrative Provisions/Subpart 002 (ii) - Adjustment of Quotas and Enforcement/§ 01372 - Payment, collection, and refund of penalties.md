@@ -12,7 +12,7 @@ The Secretary is authorized to prescribe regulations governing the filing of suc
 
 (d) No penalty shall be collected under this chapter with respect to the marketing of any agricultural commodity grown for experimental purposes only by any publicly owned agricultural experiment station. Effective with the 1978 crops, no penalty shall be collected under this chapter with respect to the marketing of any agricultural commodity grown on State prison farms for consumption within such State prison system.
 
-(Feb. 16, 1938, ch. 30, title III, §372, 52 Stat. 65; Apr. 7, 1938, ch. 107, §11, 52 Stat. 204; July 2, 1940, ch. 521, §6, 54 Stat. 728; Pub. L. 96–113, Nov. 16, 1979, 93 Stat. 850; Pub. L. 99–272, title I, §1106(b), Apr. 7, 1986, 100 Stat. 91.)
+(Feb. 16, 1938, ch. 30, title III, §372, 52 Stat. 65; Apr. 7, 1938, ch. 107, §11, 52 Stat. 204; July 2, 1940,ch. 521, §6, 54 Stat. 728; Pub. L. 96–113, Nov. 16, 1979, 93 Stat. 850; Pub. L. 99–272, title I, §1106(b), Apr. 7, 1986, 100 Stat. 91.)
 
 #### References in Text
 

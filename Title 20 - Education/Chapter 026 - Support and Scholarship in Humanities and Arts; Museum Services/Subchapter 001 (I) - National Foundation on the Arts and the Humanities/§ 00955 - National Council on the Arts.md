@@ -34,7 +34,7 @@ There shall be, within the National Endowment for the Arts, a National Council o
 
 &emsp;&emsp;(iii) so as collectively to provide an appropriate distribution of membership among major art fields and interested citizens groups.
 
-> In making such appointments, the President shall give due regard to equitable representationof women, minorities, and individuals with disabilities who are involved in the arts and shall make such appointments so as to represent equitably all geographical areas in the United States.
+> In making such appointments, the President shall give due regard to equitable representation of women, minorities, and individuals with disabilities who are involved in the arts and shall make such appointments so as to represent equitably all geographical areas in the United States.
 
 (2)
 
@@ -120,7 +120,7 @@ Subsec. (f). Pub. L. 99–194, §106(5), substituted “Chairperson” for “Ch
 
 1976—Subsec. (b). Pub. L. 94–462 inserted “, by and with the advice and consent of the Senate,” after “by the President”.
 
-1973—Subsec. (f). Pub. L. 93–133 substituted “$17,500” for “$10,000” and inserted proviso that the terms of delegation of authority shall not permit obligations for expenditure of funds under such delegation for any fiscal year which exceed an amount equal to 10 per centum of the sums appropriated for that fiscal year.
+1973—Subsec. (f). Pub. L. 93–133 substituted “$17,500” for “$10,000” and inserted proviso that the terms ofdelegation of authority shall not permit obligations for expenditure of funds under such delegation for any fiscal year which exceed an amount equal to 10 per centum of the sums appropriated for that fiscal year.
 
 1970—Pub. L. 91–346 generally incorporated into this section the substantive provisions of the National Arts and Cultural Development Act of 1964 except for the independent study authority of the National Council on the Arts under the 1964 Act, provided for the appointment and composition of the Council, prescribed the terms of office for members of the Council, provided that the Council meet at the call of the Chairman at least twice a year, established 14 as the number of members constituting a quorum, set forth provisions governing compensation of persons employed for the Government service on an intermittent basis, and set forth functions and duties of the council essentially similar to the function and duties of the Council as set out in this section prior to this amendment.
 

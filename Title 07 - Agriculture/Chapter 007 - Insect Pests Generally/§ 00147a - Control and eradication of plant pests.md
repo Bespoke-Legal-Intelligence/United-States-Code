@@ -24,7 +24,7 @@ As used in this section—
 
 #### (e) Rules and regulations
 
-The Secretary of Agriculture is authorized to promulgate such rules and regulations and use such means as he may deem necessary to provide for the inspection of plants and plant products offered for export or transiting the United States and to certify to shippers and interestedparties as to the freedom of such products from plant pests according to the phytosanitary requirements of the foreign countries to which such products may be exported, or to the freedom from exposure to plant pests while in transit through the United States.
+The Secretary of Agriculture is authorized to promulgate such rules and regulations and use such means as he may deem necessary to provide for the inspection of plants and plant products offered for export or transiting the United States and to certify to shippers and interested parties as to the freedom of such products from plant pests according to the phytosanitary requirements of the foreign countries to which such products may be exported, or to the freedom from exposure to plant pests while in transit through the United States.
 
 #### (f) Authorization of appropriations; fees, late payment penalties, and accrued interest
 
@@ -46,7 +46,7 @@ Subsec. (e). Pub. L. 94–231 redesignated subsec. (b) as (e) and made discretio
 
 Subsec. (f). Pub. L. 94–231 redesignated subsec. (c) as (f) and substituted provisions authorizing appropriations on a Congressional finding of necessity made “annually” for provisions authorizing appropriations on a Congressional finding of necessity made “from time to time”.
 
-1957—Subsec. (a). Pub. L. 85–36 inserted “insect pests, plant diseases, and nematodes, such as imported fire ant, soybean cyst nematode, witchweed, spotted alfalfa aphid,” after “or to prevent or retard the spread of”.
+1957—Subsec. (a). Pub. L. 85–36 inserted “insect pests, plant diseases, and nematodes, such as imported fireant, soybean cyst nematode, witchweed, spotted alfalfa aphid,” after “or to prevent or retard the spread of”.
 
 1949—Subsec. (a). Act June 17, 1949, authorized the Secretary to carry out operations to combat the citrus blackfly, white-fringed beetle, and the Hall scale.
 

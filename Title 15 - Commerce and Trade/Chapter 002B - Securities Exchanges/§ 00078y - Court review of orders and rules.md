@@ -4,7 +4,7 @@
 
 (1) A person aggrieved by a final order of the Commission entered pursuant to this chapter may obtain review of the order in the United States Court of Appeals for the circuit in which he resides or has his principal place of business, or for the District of Columbia Circuit, by filing in such court, within sixty days after the entry of the order, a written petition requesting that the order be modified or set aside in whole or in part.
 
-(2) A copy of the petition shall be transmitted forthwith by the clerk of the court to a member of the Commission or an officer designated by the Commission for that purpose. Thereupon the Commission shall file in the court the record on which the order complained of is entered, as provided in section 2112 of title 28 and the Federal Rules of Appellate Procedure.
+(2) A copy of the petition shall be transmitted forthwith by the clerk of the court to a memberof the Commission or an officer designated by the Commission for that purpose. Thereupon the Commission shall file in the court the record on which the order complained of is entered, as provided in section 2112 of title 28 and the Federal Rules of Appellate Procedure.
 
 (3) On the filing of the petition, the court has jurisdiction, which becomes exclusive on the filing of the record, to affirm or modify and enforce or to set aside the order in whole or in part.
 
@@ -34,11 +34,11 @@
 
 #### (d) Other appropriate regulatory agencies
 
-(1) For purposes of the preceding subsections of this section, the term “Commission” includes the agencies enumerated in section 78c(a)(34) of this title insofar as such agencies are acting pursuant to this chapter and the Secretary of the Treasury insofar as he is acting pursuant to section 78<i>o</i>–5 of this title.
+(1) For purposes of the preceding subsections of this section, the term “Commission” includesthe agencies enumerated in section 78c(a)(34) of this title insofar as such agencies are acting pursuant to this chapter and the Secretary of the Treasury insofar as he is acting pursuant to section 78<i>o</i>–5 of this title.
 
 (2) For purposes of subsection (a)(4) of this section and section 706 of title 5, an order of the Commission pursuant to section 78s(a) of this title denying registration to a clearing agency for which the Commission is not the appropriate regulatory agency or pursuant to section 78s(b) of this title disapproving a proposed rule change by such a clearing agency shall be deemed to be an order of the appropriate regulatory agency for such clearing agency insofar as such order was entered by reason of a determination by such appropriate regulatory agency pursuant to section 78s(a)(2)(C) or 78s(b)(4)(C) of this title that such registration or proposed rule change would be inconsistent with the safeguarding of securities or funds.
 
-(June 6, 1934, ch. 404, title I, §25, 48 Stat. 901; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §10, Aug. 28, 1958, 72 Stat. 945; Pub. L. 94–29, §20, June 4, 1975,89 Stat. 158; Pub. L. 99–571, title I, §102(k), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 101–432, §6(b), Oct. 16, 1990, 104 Stat. 975.)
+(June 6, 1934, ch. 404, title I, §25, 48 Stat. 901; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §10, Aug. 28, 1958, 72 Stat. 945; Pub. L. 94–29, §20, June 4, 1975, 89 Stat. 158; Pub. L. 99–571, title I, §102(k), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 101–432, §6(b), Oct. 16, 1990, 104 Stat. 975.)
 
 #### References in Text
 
@@ -96,5 +96,5 @@ Review of orders under—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78f, 78<i>l</i>, 78s, 78u–3, 78ccc of this title.
+This section is referred to in sections 78f, 78<i>l</i>, 78<i>o</i>, 78s, 78u–3, 78ccc of this title.
 

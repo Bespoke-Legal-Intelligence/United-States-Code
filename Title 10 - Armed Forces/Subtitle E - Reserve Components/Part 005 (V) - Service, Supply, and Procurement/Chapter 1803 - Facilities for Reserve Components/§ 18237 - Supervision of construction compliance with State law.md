@@ -22,7 +22,7 @@ Act
 
 Sept. 11, 1950, ch. 945, §6, 64 Stat. 831.
 
-The words “of facilities” are omitted as surplusage. The words “Chief of Engineers” are substituted for the words “Chief, Corps of Engineers” to conform to section 3036(a)(1) of this title. The words “of the Army” and “of the Navy” are inserted for clarity.
+The words “of facilities” are omitted as surplusage. The words “Chief of Engineers” are substituted for thewords “Chief, Corps of Engineers” to conform to section 3036(a)(1) of this title. The words “of the Army” and “of the Navy” are inserted for clarity.
 
 1958
 
@@ -74,7 +74,7 @@ Subsec. (b). Pub. L. 85–861 added subsec. (b).
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, titleXVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
 #### Effective Date of 1994 Amendment
 

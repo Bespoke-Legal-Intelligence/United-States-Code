@@ -20,7 +20,7 @@ In addition to services described in subsection (c) of section 290ff–1 of this
 
 #### (b) Comprehensive plan
 
-The Secretary may make a grant under section 290ff(a) of this title only if, with respect to the jurisdiction of the public entity involved, the entity has submitted to the Secretary, and has had approved by the Secretary, a plan for the development of a jurisdiction-wide system of care for community-based services for children with a serious emotional disturbance that specifies the progress the public entity has made in developing the jurisdiction-wide system, the extent of cooperation across agencies serving children in the establishment of the system, the Federal and non-Federal resources currently committed to the establishment of the system, and the current gaps in community services and the manner in which the grant under section 290ff(a) of this title will be expended to address such gaps and establish local systems of care.
+The Secretary may make a grant under section 290ff(a) of this title only if, with respect tothe jurisdiction of the public entity involved, the entity has submitted to the Secretary, and has had approved by the Secretary, a plan for the development of a jurisdiction-wide system of care for community-based services for children with a serious emotional disturbance that specifies the progress the public entity has made in developing the jurisdiction-wide system, the extent of cooperation across agencies serving children in the establishment of the system, the Federal and non-Federal resources currently committed to the establishment of the system, and the current gaps in community services and the manner in which the grant under section 290ff(a) of this title will be expended to address such gaps and establish local systems of care.
 
 #### (c) Limitation on imposition of fees for services
 
@@ -54,7 +54,7 @@ The Secretary may make a grant under section 290ff(a) of this title only if—
 
 &emsp;(1) the public entity involved submits to the Secretary a description of the purposes for which the entity intends to expend the grant;
 
-&emsp;(2) the description identifies the populations, areas, and localities in the jurisdiction of theentity with a need for services under this section; and
+&emsp;(2) the description identifies the populations, areas, and localities in the jurisdiction of the entity with a need for services under this section; and
 
 &emsp;(3) the description provides information relating to the services and activities to be provided, including a description of the manner in which the services and activities will be coordinated with any similar services or activities of public or nonprofit entities.
 

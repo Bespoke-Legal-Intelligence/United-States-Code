@@ -170,7 +170,7 @@ The date of enactment of this section, referred to in subsec. (e), is the date o
 
 #### Prior Provisions
 
-A prior section 157, added Pub. L. 97–424, title I, §150(a), Jan. 6, 1983, 96 Stat. 2131; amended Pub. L. 99–272, title IV, §4102(f), Apr. 7, 1986, 100 Stat. 113; Pub.L. 100–17, title I, §§105(h), 124, Apr. 2, 1987, 101 Stat. 144, 164; Pub. L. 102–240, title I, §§1002(h), 1013(a), (b), Dec. 18, 1991, 105 Stat. 1918, 1940; Pub. L. 103–272, §5(f)(3), July 5, 1994, 108 Stat. 1374, related to minimum allocations to States, prior to repeal by Pub. L. 105–178, title I, §1403(a), June 9, 1998, 112 Stat. 237.
+A prior section 157, added Pub. L. 97–424, title I, §150(a), Jan. 6, 1983, 96 Stat. 2131; amended Pub. L. 99–272, title IV, §4102(f), Apr. 7, 1986, 100 Stat. 113; Pub. L. 100–17, title I, §§105(h), 124, Apr. 2, 1987, 101 Stat. 144, 164; Pub. L. 102–240, title I, §§1002(h), 1013(a), (b), Dec. 18, 1991, 105 Stat. 1918, 1940; Pub. L. 103–272, §5(f)(3), July 5, 1994, 108 Stat. 1374, related to minimum allocations to States, prior to repeal by Pub. L. 105–178, title I, §1403(a), June 9, 1998, 112 Stat. 237.
 
 #### Savings Clause
 

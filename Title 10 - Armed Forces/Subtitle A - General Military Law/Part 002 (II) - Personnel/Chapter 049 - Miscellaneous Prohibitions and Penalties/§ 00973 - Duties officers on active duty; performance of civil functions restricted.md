@@ -6,9 +6,9 @@
 
 &emsp;(A) to a regular officer of an armed force on the active-duty list (and a regular officer of the Coast Guard on the active duty promotion list);
 
-&emsp;(B) to a retired regular officer of an armed force serving on active duty under a call or order to active duty for a period in excess of 180 days; and
+&emsp;(B) to a retired regular officer of an armed force serving on active duty under a call or order to active duty for a period in excess of 270 days; and
 
-&emsp;(C) to a reserve officer of an armed force serving on active duty under a call or order to active duty for a period in excess of 180 days.
+&emsp;(C) to a reserve officer of an armed force serving on active duty under a call or order to active duty for a period in excess of 270 days.
 
 (2)(A) Except as otherwise authorized by law, an officer to whom this subsection applies may not hold, or exercise the functions of, a civil office in the Government of the United States—
 
@@ -28,9 +28,11 @@
 
 (d) The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating in the Navy, shall prescribe regulations to implement this section.
 
-(Added Pub. L. 90–235, §4(a)(5)(A), Jan. 2, 1968, 81 Stat. 759; amended Pub. L. 96–513, title I, §116, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 98–94, title X, §1002(a), Sept. 24, 1983, 97 Stat. 655; Pub. L. 101–510, div. A, title V, §556, Nov. 5, 1990, 104 Stat. 1570.)
+(Added Pub. L. 90–235, §4(a)(5)(A), Jan. 2, 1968, 81 Stat. 759; amended Pub. L. 96–513, title I, §116, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 98–94, title X, §1002(a), Sept. 24, 1983, 97 Stat. 655; Pub. L. 101–510, div. A, title V, §556, Nov. 5, 1990, 104 Stat. 1570; Pub. L. 106–65, div. A, title V, §506, Oct. 5, 1999, 113 Stat. 591.)
 
 #### Amendments
+
+1999—Subsec. (b)(1)(B), (C). Pub. L. 106–65 substituted “270 days” for “180 days”.
 
 1990—Subsecs. (c), (d). Pub. L. 101–510 added subsec. (c) and redesignated former subsec. (c) as (d).
 

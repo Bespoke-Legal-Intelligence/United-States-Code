@@ -16,7 +16,7 @@
 
 #### (c) Use of proceeds
 
-(1) The Secretary may use not more than 10 percent of the revenues derived from the sale of national park passports (including stamps) to administer and promote the national park passport program and the National Park System.
+(1) The Secretary may use not more than 15 percent of the revenues derived from the sale of national park passports (including stamps) to administer and promote the national park passport program and the National Park System.
 
 (2) Net proceeds from the sale of national park passports shall be deposited in a special account in the Treasury of the United States and shall remain available until expended, without further appropriation, for high priority visitor service or resource management projects throughout the National Park System.
 
@@ -28,5 +28,9 @@ The Secretary may enter into cooperative agreements with the National Park Found
 
 The fee for a national park passport and stamp shall be $50.
 
-(Pub. L. 105–391, title VI, §603, Nov. 13, 1998, 112 Stat. 3519.)
+(Pub. L. 105–391, title VI, §603, Nov. 13, 1998, 112 Stat. 3519; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §145\], Nov. 29, 1999, 113 Stat. 1535, 1501A–171.)
+
+#### Amendments
+
+1999—Subsec. (c)(1). Pub. L. 106–113 substituted “15 percent” for “10 percent”.
 

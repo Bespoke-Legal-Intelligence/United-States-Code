@@ -26,7 +26,7 @@ The Congress finds that—
 
 &emsp;(5) Federal support should address not only research and development of innovative model curricula and teaching and learning strategies to promote gender equity, but should also assist schools and local communities implement gender equitable practices;
 
-&emsp;(6) Federal assistance for gender equity must be tied to systemic reform, involve collaborative efforts to implement effective gender practices at the local level, and encourage parental participation; and
+&emsp;(6) Federal assistance for gender equity must be tied to systemic reform, involve collaborative efforts to implement effective genderpractices at the local level, and encourage parental participation; and
 
 &emsp;(7) excellence in education, high educational achievements and standards, and the full participation of women and girls in American society, cannot be achieved without educational equity for women and girls.
 

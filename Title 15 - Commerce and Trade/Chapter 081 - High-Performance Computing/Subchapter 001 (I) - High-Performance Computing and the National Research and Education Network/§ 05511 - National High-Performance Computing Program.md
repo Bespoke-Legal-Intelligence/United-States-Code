@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(xi) such other agencies and departments as the President or the Director considers appropriate;
 
-&emsp;(C) describe the levels of Federal funding for the fiscal year during which such report issubmitted, and the levels proposed for the fiscal year with respect to which the budget submission applies, for specific activities, including education, research, hardware and software development, and support for the establishment of the Network;
+&emsp;(C) describe the levels of Federal funding for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies, for specific activities, including education, research, hardware and software development, and support for the establishment of the Network;
 
 &emsp;(D) describe the levels of Federal funding for each agency and department participating in the Program for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies;
 

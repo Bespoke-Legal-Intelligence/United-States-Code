@@ -6,7 +6,7 @@ For purposes of this subchapter shares of stock owned and held by a nonresident 
 
 #### (b) Revocable transfers and transfers within 3 years of death
 
-For purposes of this subchapter, any property of which the decedent has made a transfer, bytrust or otherwise, within the meaning of sections 2035 to 2038, inclusive, shall be deemed to be situated in the United States, if so situated either at the time of the transfer or at the time of the decedent's death.
+For purposes of this subchapter, any property of which the decedent has made a transfer, by trust or otherwise, within the meaning of sections 2035 to 2038, inclusive, shall be deemed to be situated in the United States, if so situated either at the time of the transfer or at the time of the decedent's death.
 
 #### (c) Debt obligations
 

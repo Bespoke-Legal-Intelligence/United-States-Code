@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A Tribal Action Plan adopted pursuant to section 2412 of this title may make such provisions as may be necessary and practical for the establishment, funding, licensing, and operation of emergency shelters or half-way houses for Indian youth who are alcohol or substance abusers, including youth who have been arrested for offenses directly or indirectly related to alcohol or substance abuse. Half-way houses may be used as either intake facilities or aftercare facilities for youth admitted, or to be admitted, for long-term treatment of substance abuse. The Indian Health Service, the Bureau of Indian Affairs, and the tribes are authorized to use their respective resources to adequately staff and operate any such facility.
+A Tribal Action Plan adopted pursuant to section 2412 of this title may make such provisionsas may be necessary and practical for the establishment, funding, licensing, and operation of emergency shelters or half-way houses for Indian youth who are alcohol or substance abusers, including youth who have been arrested for offenses directly or indirectly related to alcohol or substance abuse. Half-way houses may be used as either intake facilities or aftercare facilities for youth admitted, or to be admitted, for long-term treatment of substance abuse. The Indian Health Service, the Bureau of Indian Affairs, and the tribes are authorized to use their respective resources to adequately staff and operate any such facility.
 
 #### (b) Referrals
 
@@ -50,7 +50,7 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subs
 
 The Indian Self-Determination Act, referred to in subsec. (e)(3), (5)(A), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
-This chapter, referred to in subsec. (e)(5), was in the original “this Act” and was translated as reading “this subtitle”, meaning subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, as amended, known as the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, which is classified generally to this chapter, to reflect the probable intent of Congress. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
+This chapter, referred to in subsec. (e)(5), was in the original “this Act” and was translated as reading “thissubtitle”, meaning subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, as amended, known as the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, which is classified generally to this chapter, to reflect the probable intent of Congress. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
 
 #### Amendments
 

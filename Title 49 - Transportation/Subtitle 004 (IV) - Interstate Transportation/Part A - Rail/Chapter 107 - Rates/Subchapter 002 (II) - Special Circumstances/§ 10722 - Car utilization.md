@@ -20,7 +20,7 @@ Section 10725, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1387; Pub. L. 99–521,
 
 Section 10726, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1387; Pub. L. 96–448, title II, §220, Oct. 14, 1980, 94 Stat. 1928, related to long and short haul transportation.
 
-A prior section 10727, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1388, authorized the Interstate Commerce Commission to maintain standards and procedures to permit seasonal, regional, or peak-period demand rates and required the Commission to submit an annual report to Congress on implementation of those rates and recommendations for additional legislation needed to make it easier to establish those rates, prior to repeal by Pub. L. 96–448, title II, §209, title VII, §710(a), Oct. 14, 1980, 94 Stat. 1910, 1966, effective Oct. 1, 1980.
+A prior section 10727, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1388, authorized the Interstate Commerce Commission to maintain standards and procedures to permit seasonal, regional, or peak-period demand rates and required the Commission to submit an annual report to Congress on implementation of those rates and recommendations for additional legislation needed tomake it easier to establish those rates, prior to repeal by Pub. L. 96–448, title II, §209, title VII, §710(a), Oct. 14, 1980, 94 Stat. 1910, 1966, effective Oct. 1, 1980.
 
 A prior section 10728, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1388, related to separate rates for distinct rail services, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 

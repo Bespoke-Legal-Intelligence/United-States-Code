@@ -22,7 +22,7 @@ Joint Duty Assignment.—(1) The Secretary of Defense shall by regulation define
 
 &emsp;(A) the positions that are joint duty assignment positions under such regulation and the number of such positions and, of those positions, those that are positions held by general or flag officers and the number of such positions; and
 
-&emsp;(B) of the positions listed under subparagraph (A), those that are critical joint duty assignment positions and the number of such positions and, of those positions, those that are positions held by general or flag officers and the number of such positions.
+&emsp;(B) of the positions listed under subparagraph (A), those that are critical joint duty assignment positions and the number of such positions and, of those positions, those that arepositions held by general or flag officers and the number of such positions.
 
 (c)
 

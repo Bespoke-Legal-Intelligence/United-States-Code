@@ -1,8 +1,8 @@
 ### §145. Civil action to obtain patent
 
-An applicant dissatisfied with the decision of the Board of Patent Appeals and Interferences in an appeal under section 134 of this title may, unless appeal has been taken to the United States Court of Appeals for the Federal Circuit, have remedy by civil action against the Commissioner in the United States District Court for the District of Columbia if commenced within such time after such decision, not less than sixty days, as the Commissioner appoints. The court may adjudge that such applicant is entitled to receive a patent for his invention, as specified in any of his claims involved in the decision of the Board of Patent Appeals and Interferences, as the facts in the case may appear and such adjudication shall authorize the Commissioner to issue such patent on compliance with the requirements of law. All the expenses of the proceedings shall be paid by the applicant.
+An applicant dissatisfied with the decision of the Board of Patent Appeals and Interferences in an appeal under section 134(a) of this title may, unless appeal has been taken to the United States Court of Appeals for the Federal Circuit, have remedy by civil action against the Director in the United States District Court for the District of Columbia if commenced within such time after such decision, not less than sixty days, as the Director appoints. The court may adjudge that such applicant is entitled to receive a patent for his invention, as specified in any of his claims involved in the decision of the Board of Patent Appeals and Interferences, as the facts in the case may appear and such adjudication shall authorize the Director to issue such patent on compliance with the requirements of law. All the expenses of the proceedings shall be paid by the applicant.
 
-(July 19, 1952, ch. 950, 66 Stat. 803; Pub. L. 97–164, title I, §163(a)(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–622, title II, §203(b), Nov. 8, 1984, 98 Stat. 3387.)
+(July 19, 1952, ch. 950, 66 Stat. 803; Pub. L. 97–164, title I, §163(a)(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–622, title II, §203(b), Nov. 8, 1984, 98 Stat. 3387; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4605(e), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–571, 1501A–582.)
 
 #### Historical and Revision Notes
 
@@ -14,13 +14,23 @@ Language is changed.
 
 #### Amendments
 
+1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], substituted “Director” for “Commissioner” wherever appearing.
+
+Pub. L. 106–113, §1000(a)(9) \[title IV, §4605(e)\], inserted “(a)” after “section 134”.
+
 1984—Pub. L. 98–622 substituted “Patent Appeals and Interferences in an appeal under section 134 of this title may,” for “Appeals may” in first sentence and “Patent Appeals and Interferences” for “Appeals” in second sentence.
 
 1982—Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
 
+#### Effective Date of 1999 Amendment
+
+Amendment by section 1000(a)(9) \[title IV, §4605(e)\] of Pub. L. 106–113 effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) \[title IV, §4608(a)\] of Pub. L. 106–113, set out as a note under section 41 of this title.
+
+Amendment by section 1000(a)(9) \[title IV, §4732(a)(10)(A)\] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
+
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–622 effective three months after Nov. 8, 1984, see section 207 of Pub. L. 98–622, set out as a note under section 7 of this title.
+Amendment by Pub. L. 98–622 effective three months after Nov. 8, 1984, see section 207 of Pub. L. 98–622, set out as a note under section 41 of this title.
 
 #### Effective Date of 1982 Amendment
 

@@ -38,7 +38,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 The Secretary may not make a grant under subsection (a) of this section unless the applicant involved agrees—
 
-&emsp;(1) to ensure that, initially and throughout the period during which amounts are received pursuant to the grant, not less than 60 percent of the grant is expended to provide each of the services or activities described in paragraphs (1) and (2) of such subsection;
+&emsp;(1) to ensure that, initially and throughout the period during which amounts are received pursuant to the grant, not less than 60 percent of the grant is expended to provide each of theservices or activities described in paragraphs (1) and (2) of such subsection;
 
 &emsp;(2) to ensure that, by the end of any second fiscal year of payments pursuant to the grant, each of the services or activities described in such subsection is provided; and
 
@@ -110,7 +110,7 @@ The Secretary may not make a grant under subsection (a) of this section unless a
 
 #### (i) Method and amount of payment
 
-The Secretary shall determine the amount of a grant made under subsection (a) of this section. Payments under such grants may be made in advance on the basis of estimates or by way of reimbursement, with necessary adjustments on account of the underpayments or overpayments, and in such installments and on such terms and conditions as the Secretary finds necessary to carry out the purposes of such grants.
+The Secretary shall determine the amount of a grant made under subsection (a) of this section. Payments under such grants may be made in advance on the basis of estimates or by wayof reimbursement, with necessary adjustments on account of the underpayments or overpayments, and in such installments and on such terms and conditions as the Secretary finds necessary to carry out the purposes of such grants.
 
 #### (j) Technical assistance and provision of supplies and services in lieu of grant funds
 
@@ -138,7 +138,7 @@ For purposes of this section, the term “units of local government” includes 
 
 &emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not more than 20 percent for carrying out subsection (j)(1) of this section.
 
-(July 1, 1944, ch. 373, title III, §317D, as added Pub. L. 102–531, title III, §308, Oct. 27, 1992, 106 Stat. 3495; amended Pub. L. 103–43, title XX, §2010(i)(1)(B)(iv), June 10, 1993, 107 Stat. 213; Pub. L. 103–183, title VII, §705(b), Dec. 14, 1993, 107Stat. 2241; Pub. L. 105–392, title IV, §401(a)(3), Nov. 13, 1998, 112 Stat. 3587.)
+(July 1, 1944, ch. 373, title III, §317D, as added Pub. L. 102–531, title III, §308, Oct. 27, 1992, 106 Stat. 3495; amended Pub. L. 103–43, title XX, §2010(i)(1)(B)(iv), June 10, 1993, 107 Stat. 213; Pub. L. 103–183, title VII, §705(b), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §401(a)(3), Nov. 13, 1998, 112 Stat. 3587.)
 
 #### References in Text
 

@@ -20,7 +20,7 @@ As used in this chapter:
 
 &emsp;(5) The term “competitive procedures” means procedures under which an agency enters into a contract pursuant to full and open competition.
 
-&emsp;(6) The term “full and open competition”, when used with respect to a procurement, means that all responsible sources are permitted to submit sealed bids or competitive proposals on the procurement.
+&emsp;(6) The term “full and open competition”, when used with respect to a procurement,means that all responsible sources are permitted to submit sealed bids or competitive proposals on the procurement.
 
 &emsp;(7) The term “responsible source” means a prospective contractor who—
 
@@ -44,7 +44,7 @@ As used in this chapter:
 
 &emsp;(B) a system shall be considered a major system if (i) the Department of Defense is responsible for the system and the total expenditures for research, development, test and evaluation for the system are estimated to be more than $75,000,000 (based on fiscal year 1980 constant dollars) or the eventual total expenditure for procurement of more than $300,000,000 (based on fiscal year 1980 constant dollars); (ii) a civilian agency is responsible for the system and total expenditures for the system are estimated to exceed $750,000 (based on fiscal year 1980 constant dollars) or the dollar threshold for a “major system” established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled “Major Systems Acquisitions”, whichever is greater; or (iii) the system is designated a “major system” by the head of the agency responsible for the system.
 
-&emsp;(10) The term “item”, “item of supply”, or “supplies” means any individual part, component, subassembly, assembly, or subsystem integral to a major system, and other property which may be replaced during the service lifeof the system, and includes spare parts and replenishment spare parts, but does not include packaging or labeling associated with shipment or identification of an “item”.
+&emsp;(10) The term “item”, “item of supply”, or “supplies” means any individual part, component, subassembly, assembly, or subsystem integral to a major system, and other property which may be replaced during the service life of the system, and includes spare parts and replenishment spare parts, but does not include packaging or labeling associated with shipment or identification of an “item”.
 
 &emsp;(11) The term “simplified acquisition threshold” means $100,000.
 
@@ -68,17 +68,17 @@ As used in this chapter:
 
 &emsp;&emsp;(D) Any combination of items meeting the requirements of subparagraph (A), (B), (C), or (E) that are of a type customarily combined and sold in combination to the general public.
 
-&emsp;&emsp;(E) Installation services, maintenance services, repair services, training services, and other services if such services are procured for support of an item referred to in subparagraph (A), (B), (C), or (D) and if the source of such services—
+&emsp;&emsp;(E) Installation services, maintenance services, repair services, training services, and other services if—
 
-&emsp;&emsp;&emsp;(i) offers such services to the general public and the Federal Government contemporaneously and under similar terms and conditions; and
+&emsp;&emsp;&emsp;(i) the services are procured for support of an item referred to in subparagraph (A), (B), (C), or (D), regardless of whether such services are provided by the same source or at the same time as the item; and
 
-&emsp;&emsp;&emsp;(ii) offers to use the same work force for providing the Federal Government with such services as the source uses for providing such services to the general public.
+&emsp;&emsp;&emsp;(ii) the source of the services provides similar services contemporaneously to the general public under terms and conditions similar to those offered to the Federal Government.
 
 &emsp;&emsp;(F) Services offered and sold competitively, in substantial quantities, in the commercial marketplace based on established catalog or market prices for specific tasks performed and under standard commercial terms and conditions.
 
 &emsp;&emsp;(G) Any item, combination of items, or service referred to in subparagraphs (A) through (F) notwithstanding the fact that the item, combination of items, or service is transferred between or among separate divisions, subsidiaries, or affiliates of a contractor.
 
-&emsp;&emsp;(H) A nondevelopmental item, if the procuring agency determines, in accordance with conditions set forth in the Federal Acquisition Regulation, that the item was developed exclusively at private expense and has been sold in substantial quantities, on a competitive basis, to multiple State and local governments.
+&emsp;&emsp;(H) A nondevelopmental item, if the procuring agency determines, in accordance with conditions set forth in the Federal Acquisition Regulation, that the item was developed exclusively at private expense and has been sold in substantial quantities, on acompetitive basis, to multiple State and local governments.
 
 &emsp;(13) The term “nondevelopmental item” means any of the following:
 
@@ -94,7 +94,7 @@ As used in this chapter:
 
 &emsp;(15) The term “commercial component” means any component that is a commercial item.
 
-(Pub. L. 93–400, §4, Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, §3, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, §4, Dec. 1, 1983, 97 Stat. 1326; Pub. L. 98–369, div. B, title VII, §2731, July 18, 1984, 98 Stat. 1195; Pub. L. 98–577, title I, §102, Oct. 30, 1984, 98 Stat. 3067; Pub. L. 100–679, §3(c), Nov. 17, 1988, 102 Stat. 4056; Pub. L. 101–510, div. A, title VIII, §806(a)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title IV, §4001, title VIII, §8001, Oct. 13, 1994, 108 Stat. 3338, 3384; Pub. L. 104–106, div. D, title XLII, §4204, Feb. 10, 1996, 110 Stat. 655.)
+(Pub. L. 93–400, §4, Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, §3, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, §4, Dec. 1, 1983, 97 Stat. 1326; Pub. L. 98–369, div. B, title VII, §2731, July 18, 1984, 98 Stat. 1195; Pub. L. 98–577, title I, §102, Oct. 30, 1984, 98 Stat. 3067; Pub. L. 100–679, §3(c), Nov. 17, 1988, 102 Stat. 4056; Pub. L. 101–510, div. A, title VIII, §806(a)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title IV, §4001, title VIII, §8001, Oct. 13, 1994, 108 Stat. 3338, 3384; Pub. L. 104–106, div. D, title XLII, §4204, Feb. 10, 1996, 110 Stat. 655; Pub. L. 106–65, div. A, title VIII, §805, Oct. 5, 1999, 113 Stat. 705.)
 
 #### References in Text
 
@@ -105,6 +105,12 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 Section 2731 of Pub. L. 98–369 directed in part that this section be redesignated as section 4 of Pub. L. 93–400 to correct an inconsistency in the language of the amendment by Pub. L. 98–191, which amended this section generally but referred to it as “Sec. 3”. Since this section was enacted as section 4 of Pub. L. 93–400 no change was required.
 
 #### Amendments
+
+1999—Par. (12)(E). Pub. L. 106–65 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “Installation services, maintenance services, repair services, training services, and other services if such services are procured for support of an item referred to in subparagraph (A), (B), (C), or (D) and if the source of such services—
+
+&emsp;“(i) offers such services to the general public and the Federal Government contemporaneously and under similar terms and conditions; and
+
+&emsp;“(ii) offers to use the same work force for providing the Federal Government with such services as the source uses for providing such services to the general public.”
 
 1996—Par. (12)(F). Pub. L. 104–106 inserted “or market” after “catalog”.
 
@@ -154,5 +160,5 @@ Section 2752 of Pub. L. 98–369 provided that: “Not later than March 31, 1985
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 57, 58, 252a, 254b, 259, 264a, 418a, 431, 701 of this title; title 7 section 5909; title 10 sections 2207, 2302, 2302a, 2306a, 2376, 2384, 2393, 2402, 2408, 2410, 2410b, 2410g, 2410i, 2482; title 15 sections 205c, 632, 637, 657a; title 20 section 1018a; title 22 section 2679c; title 33 section 1368; title 40 sections 334, 1401; title 49 section 40118.
+This section is referred to in sections 57, 58, 252a, 254b, 259, 264a, 418a, 431, 701 of this title; title 7 section 5909; title 10 sections 2207, 2302, 2302a, 2306a, 2376, 2384, 2393, 2402, 2408, 2410, 2410b, 2410g, 2410i, 2482; title 15 sections205c, 632, 637, 657a; title 20 section 1018a; title 22 section 2679c; title 33 section 1368; title 40 sections 334, 1401; title 49 section 40118.
 

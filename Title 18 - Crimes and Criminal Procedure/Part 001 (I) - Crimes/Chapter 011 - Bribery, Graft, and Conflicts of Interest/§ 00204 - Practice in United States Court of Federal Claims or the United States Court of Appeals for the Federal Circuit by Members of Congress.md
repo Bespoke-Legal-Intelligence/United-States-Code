@@ -48,5 +48,5 @@ Memorandum of Attorney General regarding conflict of interest provisions, see no
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 202, 216 of this title; title 5 section 568; title 28 sections 594, 656; title 40 App. section 108.
+This section is referred to in sections 202, 216 of this title; title 5 section 568; title 28 section 594; title 40 App. section 108.
 

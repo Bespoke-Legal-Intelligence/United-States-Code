@@ -16,7 +16,7 @@ The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (b), is Pub.
 
 The Support for East European Democracy (SEED) Act of 1989, referred to in subsec. (a), is Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to chapter 63 (§5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 
-The Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, referred to in subsec. (a), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, referred to in subsec. (a), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Codification
 

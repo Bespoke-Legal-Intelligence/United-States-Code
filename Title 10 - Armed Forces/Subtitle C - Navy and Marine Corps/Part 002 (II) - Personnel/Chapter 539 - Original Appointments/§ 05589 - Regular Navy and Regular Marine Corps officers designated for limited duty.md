@@ -64,7 +64,7 @@ Historical and Revision Notes
 
 Aug. 7, 1947, ch. 512, §404 ((a) (less statement of appointing authority), and less (e)–(h)), 61 Stat. 870; Aug. 5, 1949, ch. 402, §1(f), 63 Stat. 568.
 
-In subsections (a) and (b) the authority to make appointments under this section is confined to appointments in the grades of ensign and second lieutenant, since the authority in the source statute to make appointments in higher grades was limited and has been completely executed. The words “commissioned warrant officers” are omitted as surplusage, since the term “warrant officers” includes commissioned warrant officers.
+In subsections (a) and (b) the authority to make appointments under this section is confined to appointments in the grades of ensign and second lieutenant, since the authority in the source statute to make appointments in higher grades was limited and has been completely executed. The words “commissioned warrant officers” are omitted as surplusage, since the term“warrant officers” includes commissioned warrant officers.
 
 The word “male” is inserted to limit the application of the section to men. Authority to appoint women is covered in §5590 of this title.
 

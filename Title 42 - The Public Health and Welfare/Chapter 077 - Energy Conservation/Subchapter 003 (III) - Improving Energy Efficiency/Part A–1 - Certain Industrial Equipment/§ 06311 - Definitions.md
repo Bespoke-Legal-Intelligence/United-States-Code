@@ -84,7 +84,7 @@ For purposes of this part—
 
 &emsp;(13)(A) The term “electric motor” means any motor which is a general purpose T-frame, single-speed, foot-mounting, polyphase squirrel-cage induction motor of the National Electrical Manufacturers Association, Design A and B, continuous rated, operating on 230/460 volts and constant 60 Hertz line power as defined in NEMA Standards Publication MG1–1987.
 
-&emsp;(B) The term “definite purpose motor” means any motor designed in standard ratings with standard operating characteristics or standard mechanical construction for use under service conditions other than usual or for use on a particular type of application and which cannot be used in most general purpose applications.
+&emsp;(B) The term “definite purpose motor” means any motor designed in standard ratings with standard operating characteristics or standard mechanical construction for useunder service conditions other than usual or for use on a particular type of application and which cannot be used in most general purpose applications.
 
 &emsp;(C) The term “special purpose motor” means any motor, other than a general purpose motor or definite purpose motor, which has special operating characteristics or special mechanical construction, or both, designed for a particular application.
 

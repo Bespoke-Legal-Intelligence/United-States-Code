@@ -22,5 +22,5 @@ Rediscount of notes, drafts, and bills mentioned in this section for intermediat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 349, 351 of this title.
+This section is referred to in sections 349, 351, 412 of this title.
 

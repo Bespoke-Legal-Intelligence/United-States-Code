@@ -4,7 +4,7 @@ The Corporation is hereby authorized to do the following:
 
 #### (a) Investment insurance
 
-(1) To issue insurance, upon such terms and conditions as the Corporation may determine, toeligible investors assuring protection in whole or in part against any or all of the following risks with respect to projects which the Corporation has approved—
+(1) To issue insurance, upon such terms and conditions as the Corporation may determine, to eligible investors assuring protection in whole or in part against any or all of the following risks with respect to projects which the Corporation has approved—
 
 &emsp;(A) inability to convert into United States dollars other currencies, or credits in such currencies, received as earnings or profits from the approved project, as repayment or return of the investment therein, in whole or in part, or as compensation for the sale or disposition of all or any part thereof;
 
@@ -38,11 +38,11 @@ To initiate and support through financial participation, incentive grant, or oth
 
 &emsp;(1) the Corporation shall not finance any survey to ascertain the existence, location, extent, or quality of, or to determine the feasibility of undertaking operations for the extraction of, oil or gas; and
 
-&emsp;(2) expenditures financed by the Corporation during any fiscal year on surveys to ascertain the existence, location, extent, or quality of, or to determine the feasibility of undertakingoperations for the extraction of nonfuel minerals may not exceed $200,000.
+&emsp;(2) expenditures financed by the Corporation during any fiscal year on surveys to ascertain the existence, location, extent, or quality of, or to determine the feasibility of undertaking operations for the extraction of nonfuel minerals may not exceed $200,000.
 
 #### (e) Special projects and programs
 
-To administer and manage special projects and programs, including programs of financial and advisory support which provide private technical, professional, or managerial assistance in the development of human resources, skills, technology, capital savings and intermediate financial and investment institutions and cooperatives and including the initiation of incentives, grants, and studies for renewable energy and other small business activities. The funds for these projects and programs may, with the Corporation's concurrence, be transferred to it for such purposes under the authority of section 2392(a) of this title or from other sources, public or private. Administrative funds may not be made available for incentives, grants, and studies for renewable energy and other small business activities.
+To administer and manage special projects and programs, including programs of financial and advisory support which provide private technical, professional, or managerial assistancein the development of human resources, skills, technology, capital savings and intermediate financial and investment institutions and cooperatives and including the initiation of incentives, grants, and studies for renewable energy and other small business activities. The funds for these projects and programs may, with the Corporation's concurrence, be transferred to it for such purposes under the authority of section 2392(a) of this title or from other sources, public or private. Administrative funds may not be made available for incentives, grants, and studies for renewable energy and other small business activities.
 
 #### (f) Additional insurance functions
 
@@ -68,9 +68,9 @@ To administer and manage special projects and programs, including programs of fi
 
 > &emsp;The determination of the Corporation under subparagraph (B) shall be conclusive for purposes of the Corporation's authority to make or guarantee any such investment.
 
-#### (2) Limitation to projects in sub-Saharan Africa and Caribbean basin
+#### (2) Equity authority limited to projects in sub-Saharan Africa and Caribbean basin and marine transportation projects globally
 
-&emsp;Equity investments may be made under this subsection only in projects in countries eligible for financing under this subpart that are countries in sub-Saharan Africa or countries designated as beneficiary countries under section 2702 of title 19.
+&emsp;Equity investments may be made under this subsection only in projects in countries eligible for financing under this subpart that are countries in sub-Saharan Africa or countries designated as beneficiary countries under section 2702 of title 19 and in marine transportation projects in countries and areas eligible for OPIC support worldwide using United States commercial maritime expertise.
 
 #### (3) Additional criteria
 
@@ -80,19 +80,21 @@ To administer and manage special projects and programs, including programs of fi
 
 &emsp;Taking into consideration, among other things, the Corporation's financial interests and the desirability of fostering the development of local capital markets in less developed countries, the Corporation shall endeavor to dispose of any equity interest it may acquire under this subsection within a period of 10 years from the date of acquisition of such interest.
 
-#### (c) <sup>2</sup> Creation of fund for acquisition of equity
+#### (5) Implementation
 
-&emsp;The Corporation is authorized to establish a revolving fund to be available solely for the purposes specified in this subsection and to make transfers to the fund of a total of$10,000,000 (less amounts transferred to the fund before October 28, 1992) from its noncredit account revolving fund. The Corporation shall transfer to the fund in each fiscal year all amounts received by the Corporation during the preceding fiscal year as income on securities acquired under this subsection, and from the proceeds on the disposition of such securities. Purchases of, investments in, and other acquisitions of equity from the fund are authorized for any fiscal year only to the extent or in such amounts as are provided in advance in appropriations Acts or are transferred to the Corporation pursuant to section 2392(a) of this title.
+&emsp;To the extent provided in advance in appropriations Acts, the Corporation is authorized to create such legal vehicles as may be necessary for implementation of its authorities, which legal vehicles may be deemed non-Federal borrowers for purposes of the Federal Credit Reform Act of 1990 \[2 U.S.C. 661 et seq.\]. Income and proceeds of investments made pursuant to this subsection may be used to purchase equity or quasi-equity securities in accordance with the provisions of this section: <i>Provided, however</i>, That such purchases shall not be limited to the 4-year period of the pilot program: <i>Provided further</i>, That the limitations contained in paragraph (2) shall not apply to such purchases.
 
 #### (6) Consultations with Congress
 
 &emsp;The Corporation shall consult annually with the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate on the implementation of the pilot equity finance program established under this subsection.
 
-(Pub. L. 87–195, pt. I, §234, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 811; amended 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–390, §2(2), Aug. 27, 1974, 88 Stat. 764; Pub. L. 95–268, §3, Apr. 24, 1978, 92 Stat. 214; Pub. L. 97–65, §4, Oct. 16, 1981, 95 Stat. 1022; Pub. L. 99–204, §§6(a), 7, 8, Dec. 23, 1985, 99 Stat. 1671, 1672; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 101–218, §8(c), Dec. 11, 1989, 103 Stat. 1868; Pub. L. 102–549, title I, §103, Oct. 28, 1992, 106 Stat. 3651.)
+(Pub. L. 87–195, pt. I, §234, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 811; amended 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–390, §2(2), Aug. 27, 1974, 88 Stat. 764; Pub. L. 95–268, §3, Apr. 24, 1978, 92 Stat. 214; Pub. L. 97–65, §4, Oct. 16, 1981, 95 Stat. 1022; Pub. L. 99–204, §§6(a), 7, 8, Dec. 23, 1985, 99 Stat. 1671, 1672; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 101–218, §8(c), Dec. 11, 1989, 103 Stat. 1868; Pub. L. 102–549, title I, §103, Oct. 28, 1992, 106 Stat. 3651; Pub. L. 106–31, title VI, §6001, May 21, 1999, 113 Stat. 112.)
 
 #### References in Text
 
 Section 2195(a) of this title, referred to in subsecs. (a)(3), (b), and (f), was amended by Pub. L. 105–118, title V, §581, Nov. 26, 1997, 111 Stat. 2435, and, as so amended, provisions formerly appearing in pars. (1) and (2) of subsec. (a) are now contained in par. (1).
+
+The Federal Credit Reform Act of 1990, referred to in subsec. (g)(5), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 #### Codification
 
@@ -101,6 +103,12 @@ Amendment by Pub. L. 100–461 is based on sections 103 and 104 of title I of H.
 In subsec. (c), “section 1306 of title 31” substituted for “section 1415 of the Supplemental Appropriation Act, 1953, \[31 U.S.C. 724\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+1999—Subsec. (g). Pub. L. 106–31, §6000(1), struck out heading and text of par. designated as (c). Text read as follows: “The Corporation is authorized to establish a revolving fund to be available solely for the purposes specified in this subsection and to make transfers to the fund of a total of $10,000,000 (less amounts transferred to the fund before October 28, 1992) from its noncredit account revolving fund. The Corporation shall transfer to the fund in each fiscal year all amounts received by the Corporation during the preceding fiscal year as income on securities acquired under this subsection, and from the proceeds on the disposition of such securities. Purchases of, investments in, and other acquisitions of equity from the fund are authorized for any fiscal year only to the extent or in such amounts as are provided in advance in appropriations Acts or are transferred to the Corporation pursuant to section 2392(a) of this title.”
+
+Subsec. (g)(2). Pub. L. 106–31, §6001(2), in heading, substituted “Equity authority limited to projects in sub-Saharan Africa and Caribbean basin and marine transportation projects globally” for “Limitation to projects in sub-Saharan Africa and Caribbean basin”, and, in text, inserted “and in marine transportation projects in countries and areas eligible for OPIC support worldwide using United States commercial maritime expertise” after “section 2702 of title 19”.
+
+Subsec. (g)(5). Pub. L. 106–31, §6001(3), added par. (5).
 
 1992—Subsec. (g)(5). Pub. L. 102–549 amended par. (5) generally, substituting designation “(c)” for “(5)”. Prior to amendment, par. (5) read as follows: “
 
@@ -160,9 +168,13 @@ Subsec. (f). Pub. L. 93–390, §2(2)(D), added subsec. (f).
 
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
+#### Effective Date of 1999 Amendment
+
+Pub. L. 106–31, title VI, §6001, May 21, 1999, 113 Stat. 112, provided that the amendment made by section 6001 is effective Oct. 1, 1999.
+
 #### Transfer of Functions
 
-Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of the United States by section 101 of 1970 Reorg. Plan No. 2, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of 1970 Reorg. Plan No. 2 redesignated Bureau of the Budget as Office of Management and Budget.
+Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of the United States by section 101 of 1970 Reorg. Plan No. 2, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of 1970 Reorg. Plan No. 2 redesignated Bureau of the Budget as Office of Management and Budget. For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Appropriation of Moneys in Advance as Requisite to Purchases, Investments, or Other Acquisitions of Equity by Fund Created Under Pilot Equity Finance Program
 
@@ -173,6 +185,4 @@ Section 555 of Pub. L. 100–461 provided in part: “That purchases, investment
 This section is referred to in sections 2194a, 2195, 2197, 2198, 2199, 2200, 2370 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “(5)”.</i>
 

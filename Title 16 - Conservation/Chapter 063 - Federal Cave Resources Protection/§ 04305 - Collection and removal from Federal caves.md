@@ -2,7 +2,7 @@
 
 #### (a) Permit
 
-The Secretary is authorized to issue permits for the collection and removal of cave resourcesunder such terms and conditions as the Secretary may impose, including the posting of bonds to insure compliance with the provisions of any permit:
+The Secretary is authorized to issue permits for the collection and removal of cave resources under such terms and conditions as the Secretary may impose, including the posting of bonds to insure compliance with the provisions of any permit:
 
 &emsp;(1) Any permit issued pursuant to this section shall include information concerning the time, scope, location, and specific purpose of the proposed collection, removal or associated activity, and the manner in which such collection, removal, or associated activity is to be performed must be provided.
 
@@ -24,7 +24,7 @@ Permits issued under this chapter are not transferable.
 
 (2) If the Secretary determines that issuance of a permit pursuant to this section may result in harm to, or destruction of, any religious or cultural site, the Secretary, prior to issuing such permit, shall notify any Indian tribe which may consider the site as having significant religious or cultural importance. Such notice shall not be deemed a disclosure to the public for purposes of section 4304 of this title.
 
-(3) A permit shall not be required under this section for the collection or removal of any cave resource located on Indian lands or activities associated with such collection, by the Indian or Indian tribe owning or having jurisdiction over such lands.
+(3) A permit shall not be required under this section for the collection or removal of any cave resource located on Indian lands or activities associated with such collection, by the Indian orIndian tribe owning or having jurisdiction over such lands.
 
 #### (e) Effect of permit
 

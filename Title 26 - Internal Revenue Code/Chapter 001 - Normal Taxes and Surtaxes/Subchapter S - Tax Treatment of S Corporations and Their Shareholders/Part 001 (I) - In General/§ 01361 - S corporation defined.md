@@ -256,7 +256,7 @@
 
 #### Prior Provisions
 
-A prior section 1361, act Aug. 16, 1954, as amended, constituted subchapter R, prior to repeal by Pub. L.89–389, §4(b)(1), Apr. 14, 1966, 80 Stat. 116. For further details, see matter set out preceding subchapter S.
+A prior section 1361, act Aug. 16, 1954, as amended, constituted subchapter R, prior to repeal by Pub. L. 89–389, §4(b)(1), Apr. 14, 1966, 80 Stat. 116. For further details, see matter set out preceding subchapter S.
 
 #### Amendments
 
@@ -352,7 +352,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -572,5 +572,5 @@ Pub. L. 97–448, title III, §305(d)(1)(B), Jan. 12, 1983, 96 Stat. 2399, as am
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 280G, 512, 641, 678, 1362 of this title; title 29 section 1108.
+This section is referred to in sections 280G, 512, 641, 678, 856, 1362 of this title; title 29 section 1108.
 

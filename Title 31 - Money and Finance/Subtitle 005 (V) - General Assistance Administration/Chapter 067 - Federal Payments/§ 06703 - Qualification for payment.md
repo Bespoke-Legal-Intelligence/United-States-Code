@@ -64,7 +64,7 @@ General Requirements for Qualification.—A unit of general local government qua
 
 &emsp;(2) the government will use amounts in the trust fund (including interest) during a reasonable period;
 
-&emsp;(3) the government will expend the payments so received, in accordance with the laws and procedures that are applicable to the expenditure of revenues of the government;
+&emsp;(3) the government will expend the payments so received, in accordance with the laws andprocedures that are applicable to the expenditure of revenues of the government;
 
 &emsp;(4) if at least 25 percent of the pay of individuals employed by the government in a public employee occupation is paid out of the trust fund, individuals in the occupation any part of whose pay is paid out of the trust fund will receive pay at least equal to the prevailing rate of pay for individuals employed in similar public employee occupations by the government;
 
@@ -72,7 +72,7 @@ General Requirements for Qualification.—A unit of general local government qua
 
 &emsp;(6) the government will use accounting, audit, and fiscal procedures that conform to guidelines which shall be prescribed by the Secretary. As applicable, amounts received under this chapter shall be audited in compliance with the Single Audit Act of 1984;
 
-&emsp;(7) after reasonable notice to the government, the government will make available tothe Secretary and the Comptroller General of the United States, with the right to inspect, records the Secretary reasonably requires to review compliance with this chapter or the Comptroller General of the United States reasonably requires to review compliance and operations under section 6718(b);
+&emsp;(7) after reasonable notice to the government, the government will make available to the Secretary and the Comptroller General of the United States, with the right to inspect, records the Secretary reasonably requires to review compliance with this chapter or the Comptroller General of the United States reasonably requires to review compliance and operations under section 6718(b);
 
 &emsp;(8) the government will make reports the Secretary reasonably requires, in addition to the annual reports required under section 6719(b); and
 
@@ -118,7 +118,7 @@ Payment conditions.—The Secretary may make a payment to a unit of general loca
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1), (9), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Parts A and B of chapter 1 of title I of the Act were classified generally to parts A (§2711 et seq.) and B (§2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382. See parts A (§6311 et seq.) and B (§6361 et seq.) of subchapter I of chapter 70 of Title 20. Section 5122 of the Act was classified to section 3192 of Title 20 prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382. See section 7101 et seq. of Title 20.
 
-Section 682 of the Community Services Block Grant Act, referred to in subsec. (a)(2), is classified to section 9910c of Title 42, The Public Health and Welfare.
+Section 682 of the Community Services Block Grant Act, referred to in subsec. (a)(2), which was classified to section 9910c of Title 42, The Public Health and Welfare, was omitted in the general amendment of chapter 106 of Title 42, by Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2728. A new section 682 of the Act, containing similar subject matter, is classified to section 9923 of Title 42.
 
 Public Law 101–509, referred to in subsec. (a)(3), is Pub. L. 101–509, Nov. 5, 1990, 104 Stat. 1389. For complete classification of this Act to the Code, see Tables.
 
@@ -136,9 +136,9 @@ The Head Start Act, referred to in subsec. (a)(8), is subchapter B (§§635–65
 
 The Higher Education Act of 1965, referred to in subsec. (a)(10), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Part A of title IV of the Act is classified generally to part A (§1070 et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The National Literacy Act of 1991, referred to in subsec. (a)(11), is Pub. L. 102–73, July 25, 1991, 105 Stat. 333, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1201 of Title 20 and Tables.
+The National Literacy Act of 1991, referred to in subsec. (a)(11), was Pub. L. 102–73, July 25, 1991, 105 Stat. 333, as amended, which was repealed by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
-The Carl Perkins Vocational Educational and Applied Technology Education Act, referred to in subsec. (a)(12), probably meant the Carl D. Perkins Vocationaland Applied Technology Education Act, Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of Title 20, Education, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl Perkins Vocational Educational and Applied Technology Education Act, referred to in subsec. (a)(12), probably meant the Carl D. Perkins Vocational and Applied Technology Education Act, Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of Title 20, Education, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 Sections 203 and 401 of the Human Services Reauthorization Act of 1994 (Public Law 103–252), referred to in subsec. (a)(13), (16), probably mean sections 203 and 401 of the Human Services Amendments of 1994, Pub. L. 103–252, May 18, 1994, 108 Stat. 654, 666. Section 203 of Pub. L. 103–252 amended section 9910 of Title 42, The Public Health and Welfare. Section 401 of Pub. L. 103–252 generally amended subchapter III (§5116 et seq.) of chapter 67 of Title 42 and repealed sections 5106a–1 and 12339 of Title 42.
 

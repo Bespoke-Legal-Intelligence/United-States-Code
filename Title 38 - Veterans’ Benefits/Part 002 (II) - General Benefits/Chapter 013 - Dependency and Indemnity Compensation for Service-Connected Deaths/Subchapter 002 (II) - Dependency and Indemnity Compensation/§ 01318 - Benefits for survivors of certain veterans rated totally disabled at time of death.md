@@ -2,11 +2,13 @@
 
 (a) The Secretary shall pay benefits under this chapter to the surviving spouse and to the children of a deceased veteran described in subsection (b) of this section in the same manner as if the veteran's death were service connected.
 
-(b) A deceased veteran referred to in subsection (a) of this section is a veteran who dies, not as the result of the veteran's own willful misconduct, and who was in receipt of or entitled to receive (or but for the receipt of retired or retirement pay was entitled to receive) compensation at the time of death for a service-connected disability that either—
+(b) A deceased veteran referred to in subsection (a) of this section is a veteran who dies, not as the result of the veteran's own willful misconduct, and who was in receipt of or entitled to receive (or but for the receipt of retired or retirement pay was entitled to receive) compensation at the time of death for a service-connected disability rated totally disabling if—
 
-&emsp;(1) was continuously rated totally disabling for a period of 10 or more years immediately preceding death; or
+&emsp;(1) the disability was continuously rated totally disabling for a period of 10 or more years immediately preceding death;
 
-&emsp;(2) if so rated for a lesser period, was so rated continuously for a period of not less than five years from the date of such veteran's discharge or other release from active duty.
+&emsp;(2) the disability was continuously rated totally disabling for a period of not less than five years from the date of such veteran's discharge or other release from active duty; or
+
+&emsp;(3) the veteran was a former prisoner of war who died after September 30, 1999, and the disability was continuously rated totally disabling for a period of not later than one year immediately preceding death.
 
 (c) Benefits may not be paid under this chapter by reason of this section to a surviving spouse of a veteran unless—
 
@@ -18,9 +20,17 @@
 
 (e) For purposes of sections 1448(d) and 1450(c) of title 10, eligibility for benefits under this chapter by virtue of this section shall be deemed eligibility for dependency and indemnity compensation under section 1311(a) of this title.
 
-(Added Pub. L. 100–687, div. B, title XIV, §1403(a)(1), Nov. 18, 1988, 102 Stat. 4130, §418; amended Pub. L. 101–237, title I, §113, Dec. 18, 1989, 103 Stat. 2065; renumbered §1318 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 100–687, div. B, title XIV, §1403(a)(1), Nov. 18, 1988, 102 Stat. 4130, §418; amended Pub. L. 101–237, title I, §113, Dec. 18, 1989, 103 Stat. 2065; renumbered §1318 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 106–117, title V, §501(b), Nov. 30, 1999, 113 Stat. 1573.)
 
 #### Amendments
+
+1999—Subsec. (b). Pub. L. 106–117, §501(b)(1), substituted “rated totally disabling if—” for “that either—” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 106–117, §501(b)(2), inserted “the disability” after “(1)” and struck out “or” after “death;”.
+
+Subsec. (b)(2). Pub. L. 106–117, §501(b)(3), substituted “the disability was continuously rated totally disabling” for “if so rated for a lesser period, was so rated continuously” and substituted “; or” for the period at the end.
+
+Subsec. (b)(3). Pub. L. 106–117, §501(b)(4), added par. (3).
 
 1991—Pub. L. 102–83, §5(a), renumbered section 418 of this title as this section.
 

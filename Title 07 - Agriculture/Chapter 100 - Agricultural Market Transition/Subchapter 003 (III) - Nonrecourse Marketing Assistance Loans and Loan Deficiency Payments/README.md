@@ -11,4 +11,5 @@
 - [&sect; 07234 - Repayment of loans](%C2%A7%2007234%20-%20Repayment%20of%20loans.md)
 - [&sect; 07235 - Loan deficiency payments](%C2%A7%2007235%20-%20Loan%20deficiency%20payments.md)
 - [&sect; 07236 - Special marketing loan provisions for upland cotton](%C2%A7%2007236%20-%20Special%20marketing%20loan%20provisions%20for%20upland%20cotton.md)
+- [&sect; 07236a - Special competitive provisions for extra long staple cotton](%C2%A7%2007236a%20-%20Special%20competitive%20provisions%20for%20extra%20long%20staple%20cotton.md)
 - [&sect; 07237 - Availability of recourse loans for high moisture feed grains and seed cotton and other fibers](%C2%A7%2007237%20-%20Availability%20of%20recourse%20loans%20for%20high%20moisture%20feed%20grains%20and%20seed%20cotton%20and%20other%20fibers.md)

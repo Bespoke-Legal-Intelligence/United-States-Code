@@ -22,7 +22,7 @@ Part III—Miscellaneous Provisions
 - [&sect; 02414 - Presidential findings and determinations](%C2%A7%2002414%20-%20Presidential%20findings%20and%20determinations.md)
 - [&sect; 02414a - Annual report to Congress on voting practices at United Nations](%C2%A7%2002414a%20-%20Annual%20report%20to%20Congress%20on%20voting%20practices%20at%20United%20Nations.md)
 - [&sect; 02415 - Annual military assistance report](%C2%A7%2002415%20-%20Annual%20military%20assistance%20report.md)
-- [&sect; 02416 - Repealed. Pub. L. 95&#8211;424, title VI, &sect;604, Oct. 6, 1978, 92 Stat. 961](%C2%A7%2002416%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93424%2C%20title%20VI%2C%20%C2%A7604%2C%20Oct.%206%2C%201978%2C%2092%20Stat.%20961.md)
+- [&sect; 02416 - Annual foreign military training report](%C2%A7%2002416%20-%20Annual%20foreign%20military%20training%20report.md)
 - [&sect; 02417 - Repealed. Pub. L. 97&#8211;113, title VII, &sect;734(a)(1), Dec. 29, 1981, 95 Stat. 1560](%C2%A7%2002417%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93113%2C%20title%20VII%2C%20%C2%A7734%28a%29%281%29%2C%20Dec.%2029%2C%201981%2C%2095%20Stat.%201560.md)
 - [&sect; 02418 - Repealed. Pub. L. 95&#8211;424, title VI, &sect;604, Oct. 6, 1978, 92 Stat. 961](%C2%A7%2002418%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93424%2C%20title%20VI%2C%20%C2%A7604%2C%20Oct.%206%2C%201978%2C%2092%20Stat.%20961.md)
 - [&sect; 02419 - Repealed. Pub. L. 97&#8211;113, title VII, &sect;734(a)(1), Dec. 29, 1981, 95 Stat. 1560](%C2%A7%2002419%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93113%2C%20title%20VII%2C%20%C2%A7734%28a%29%281%29%2C%20Dec.%2029%2C%201981%2C%2095%20Stat.%201560.md)

@@ -1,6 +1,6 @@
 ### §3334. Prohibition on drawback for television picture tubes
 
-Notwithstanding any other provision of law, no customs duties may be refunded, waived, or reduced on color cathode-ray television picture tubes, including video monitor cathode-ray tubes (provided for in subheading 8540.11.00 of the HTS), that are nonoriginating goods under section 3332(p)(19) of this title and are—
+Notwithstanding any other provision of law, no customs duties may be refunded, waived, or reduced on color cathode-ray television picture tubes, including video monitor cathode-ray tubes (provided for in subheading 8540.11.00 ofthe HTS), that are nonoriginating goods under section 3332(p)(19) of this title and are—
 
 &emsp;(A) exported to a NAFTA country;
 

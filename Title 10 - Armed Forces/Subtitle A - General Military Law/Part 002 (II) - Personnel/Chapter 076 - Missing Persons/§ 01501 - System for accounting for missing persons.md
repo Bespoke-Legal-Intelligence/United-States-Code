@@ -46,7 +46,7 @@ Covered Persons.—(1) Section 1502 of this title applies in the case of any mem
 
 (d)
 
-Primary Next of Kin.—The individual who is primary next of kin of any person prescribed <sup>1</sup> in subsection (c) may for purposes of this chapter designate another individual to act on behalf of that individual as primary next of kin. The Secretary concerned shall treat an individual so designated as if the individual designated were the primary next of kin for purposes of this chapter. A designation under this subsection may be revoked at any time by the person who made the designation.
+Primary Next of Kin.—The individual who is primary next of kin of any person described in subsection (c) may for purposes of this chapter designate another individual to act on behalf of that individual as primary next of kin. The Secretary concerned shall treat an individual so designated as if the individual designated were the primary next of kin for purposes of this chapter. A designation under this subsection may be revoked at any time by the person who made the designation.
 
 (e)
 
@@ -56,9 +56,11 @@ Termination of Applicability of Procedures When Missing Person Is Accounted for.
 
 Secretary Concerned.—In this chapter, the term “Secretary concerned” includes, in the case of a civilian officer or employee of the Department of Defense or an employee of a contractor of the Department of Defense, the Secretary of the military department or head of the element of the Department of Defense employing the officer or employee or contracting with the contractor, as the case may be.
 
-(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 336; amended Pub. L. 104–201, div. A, title V, §578(a)(1), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(1), Nov. 18, 1997, 111 Stat. 1766.)
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 336; amended Pub. L. 104–201, div. A, title V, §578(a)(1), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(1), Nov. 18, 1997, 111 Stat. 1766; Pub. L. 106–65, div. A, title X, §1066(a)(13), Oct. 5, 1999, 113 Stat. 771.)
 
 #### Amendments
+
+1999—Subsec. (d). Pub. L. 106–65 substituted “described” for “prescribed” in first sentence.
 
 1997—Subsec. (c). Pub. L. 105–85, §599(a)(1)(A), added subsec. (c) and struck out former subsec. (c) which read as follows:
 
@@ -76,9 +78,25 @@ Subsec. (f). Pub. L. 104–201, §578(a)(1)(B), struck out subsec. (f) which rea
 
 Secretary Concerned.—In this chapter, the term ‘Secretary concerned’ includes, in the case of a civilian employee of the Department of Defense or contractor of the Department of Defense, the Secretary of the military department or head of the element of the Department of Defense employing the employee or contracting with the contractor, as the case may be.”
 
+#### Recovery and Identification of Remains of Certain World War II Servicemen Lost in Pacific Theater of Operations
+
+Pub. L. 106–65, div. A, title V, §576, Oct. 5, 1999, 113 Stat. 624, provided that:
+
+“(a)
+
+Recovery of Remains.—(1) The Secretary of Defense shall make every reasonable effort to search for, recover, and identify the remains of United States servicemen lost in the Pacific theater of operations during World War II (including in New Guinea) while engaged in flight operations.
+
+“(2) In order to provide high priority to carrying out paragraph (1), the Secretary of Defense shall consider increasing the number of personnel assigned to the Central Identification Laboratory, Hawaii.
+
+“(3) Not later than September 30, 2000, the Secretary shall submit to Congress a report setting forth the efforts made to accomplish the objectives specified in paragraph (1). The Secretary shall include in the report a statement of the backlog of cases at the Central Identification Laboratory, Hawaii, shown by conflict, and the status of the joint manning plan required by section 566(c) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 2029)\[.\]
+
+“(b)
+
+Diplomatic Intervention if Required.—The Secretary of State, upon request by the Secretary of Defense, shall work with officials of governments of nations in the area that was covered by the Pacific theater of operations of World War II to seek to overcome any diplomatic obstacles that may impede the Secretary of Defense from carrying out the objectives specified in subsection (a)(1).”
+
 #### POW/MIA Intelligence Analysis
 
-Section 934 of Pub. L. 105–85 provided that:
+Pub. L. 105–85, div. A, title IX, §934, Nov. 18, 1997, 111 Stat. 1866, as amended by Pub. L. 106–65, div. A, title X, §1066(c)(4), Oct. 5, 1999, 113 Stat. 773, provided that:
 
 “(a)
 
@@ -86,15 +104,13 @@ Intelligence Analysis.—The Director of Central Intelligence, in consultation w
 
 “(b)
 
-Use of Intelligence in Analysis of POW/MIA Cases in Department of Defense.—The Secretary of Defense shall ensure that the Defense Prisoner of War/Missing Personnel Office of the Department of Defense takes into full account all intelligence regarding matters concerning of \[sic\] prisoners of war and missing persons (as defined in chapter 76 of title 10, United States Code) in analyzing cases involving such persons.”
+Use of Intelligence in Analysis of POW/MIA Cases in Department of Defense.—The Secretary of Defense shall ensure that the Defense Prisoner of War/Missing Personnel Office of the Department of Defense takes into full account all intelligence regarding matters concerning prisoners of war and missing persons (as defined in chapter 76 of title 10, United States Code) in analyzing cases involving such persons.”
 
 #### Congressional Statement of Purpose
 
-Section 569(a) of Pub. L. 104–106 provided that: “The purpose of this section \[enacting this chapter and section 655 of this title, amending sections 552, 553, 555, and 556 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note under section 5561 of Title 5, Government Organization and Employees\] is to ensure that any member of the Armed Forces (and any Department of Defense civilian employee or contractor employee who serves with or accompanies the Armed Forces in the field under orders) who becomes missing or unaccounted for is ultimately accounted for by the United States and, as a general rule, is not declared dead solely because of the passage of time.”
+Section 569(a) of Pub. L. 104–106 provided that: “The purpose of this section \[enacting this chapter and section 655 of this title, amending sections 552, 553, 555, and 556 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note under section 5561 of Title 5, Government Organization and Employees\] is to ensure that any member of the Armed Forces (and any Department of Defense civilianemployee or contractor employee who serves with or accompanies the Armed Forces in the field under orders) who becomes missing or unaccounted for is ultimately accounted for by the United States and, as a general rule, is not declared dead solely because of the passage of time.”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1502, 1505, 1510 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “described”.</i>
 

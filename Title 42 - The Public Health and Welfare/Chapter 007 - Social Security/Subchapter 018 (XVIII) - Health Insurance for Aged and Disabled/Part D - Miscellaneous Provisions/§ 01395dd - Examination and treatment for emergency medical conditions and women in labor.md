@@ -68,7 +68,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 &emsp;&emsp;(ii) misrepresents an individual's condition or other information, including a hospital's obligations under this section,
 
-> &emsp;is subject to a civil money penalty of not more than $50,000 for each such violation and, if the violation is is <sup>2</sup> gross and flagrant or is repeated, to exclusion from participation in this subchapter and State health care programs. The provisions of section 1320a–7a of this title\(other than the first and second sentences of subsection (a) and subsection (b)) shall apply to a civil money penalty and exclusion under this subparagraph in the same manner as such provisions apply with respect to a penalty, exclusion, or proceeding under section 1320a–7a(a) of this title.
+> &emsp;is subject to a civil money penalty of not more than $50,000 for each such violation and, if the violation is is <sup>2</sup> gross and flagrant or is repeated, to exclusion from participation in this subchapter and State health care programs. The provisions of section 1320a–7a of this title (other than the first and second sentences of subsection (a) and subsection (b)) shall apply to a civil money penalty and exclusion under this subparagraph in the same manner as such provisions apply with respect to a penalty, exclusion, or proceeding under section 1320a–7a(a) of this title.
 
 &emsp;(C) If, after an initial examination, a physician determines that the individual requires the services of a physician listed by the hospital on its list of on-call physicians (required to be maintained under section 1395cc(a)(1)(I) of this title) and notifies the on-call physician and the on-call physician fails or refuses to appear within a reasonable period of time, and the physician orders the transfer of the individual because the physician determines that without the services of the on-call physician the benefits of transfer outweigh the risks of transfer, the physician authorizing the transfer shall not be subject to a penalty under subparagraph (B). However, the previous sentence shall not apply to the hospital or to the on-call physician who failed or refused to appear.
 
@@ -126,7 +126,7 @@ The provisions of this section do not preempt any State or local law requirement
 
 #### (g) Nondiscrimination
 
-A participating hospital that has specialized capabilities or facilities (such as burn units,shock-trauma units, neonatal intensive care units, or (with respect to rural areas) regional referral centers as identified by the Secretary in regulation) shall not refuse to accept an appropriate transfer of an individual who requires such specialized capabilities or facilities if the hospital has the capacity to treat the individual.
+A participating hospital that has specialized capabilities or facilities (such as burn units, shock-trauma units, neonatal intensive care units, or (with respect to rural areas) regional referral centers as identified by the Secretary in regulation) shall not refuse to accept an appropriate transfer of an individual who requires such specialized capabilities or facilities if the hospital has the capacity to treat the individual.
 
 #### (h) No delay in examination or treatment
 
@@ -228,7 +228,7 @@ Subsec. (e)(3). Pub. L. 101–239, §6211(h)(1)(E), redesignated par. (4) as (3)
 
 Subsec. (e)(4). Pub. L. 101–239, §6211(h)(1)(E), redesignated par. (5) as (4). Former par. (4) redesignated (3).
 
-Subsec. (e)(4)(A). Pub. L. 101–239, §6211(h)(1)(C), substituted “emergency medical condition described in paragraph (1)(A)” for “emergency medical condition”, “likely to result from or occur during” for “likely to result from”, and “from a facility, or, with respect to an emergency medical condition described in paragraph (1)(B), to deliver (including the placenta)” for “from a facility”.
+Subsec. (e)(4)(A). Pub. L. 101–239, §6211(h)(1)(C), substituted “emergency medical condition described in paragraph (1)(A)” for “emergency medical condition”, “likely to result from or occur during” for “likely to result from”, and “from a facility, or, with respect to an emergency medical condition described in paragraph\(1)(B), to deliver (including the placenta)” for “from a facility”.
 
 Subsec. (e)(4)(B). Pub. L. 101–239, §6211(h)(1)(D), inserted “described in paragraph (1)(A)” after “emergency medical condition”, “or occur during” after “to result from”, and “, or, with respect to an emergency medical condition described in paragraph (1)(B), that the woman has delivered (including the placenta)” after “from a facility”.
 
@@ -256,7 +256,7 @@ Subsec. (e)(3). Pub. L. 99–514 struck out “and has, under the agreement, obl
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) ofPub. L. 105–33, set out as a note under section 1395f of this title.
+Amendment by Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
 
 #### Effective Date of 1990 Amendment
 

@@ -16,7 +16,7 @@ The President is authorized to provide assistance for famine relief, rehabilitat
 
 #### (2) Emergency health projects
 
-&emsp;A significant portion of the funds authorized to be appropriated by this section shall be used for emergency health projects pursuant to subsection (a)(2) of this section.
+&emsp;A significant portion of the funds authorized to be appropriated by this section shall beused for emergency health projects pursuant to subsection (a)(2) of this section.
 
 #### (3) Management support activities
 
@@ -35,6 +35,10 @@ Assistance under this section shall be furnished in accordance with the policies
 #### References in Text
 
 Section 5(a) of the African Famine Relief and Recovery Act of 1985, referred to in subsec. (b)(3), is section 5(a) of Pub. L. 99–8, formerly set out below.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### African Famine Relief and Recovery Act of 1985
 

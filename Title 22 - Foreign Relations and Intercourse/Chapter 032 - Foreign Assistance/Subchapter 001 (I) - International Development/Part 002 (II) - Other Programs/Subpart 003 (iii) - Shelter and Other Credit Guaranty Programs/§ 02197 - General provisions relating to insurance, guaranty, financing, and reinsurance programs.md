@@ -10,7 +10,7 @@ The Corporation shall determine that suitable arrangements exist for protecting 
 
 #### (c) Guaranties as obligations backed by full faith and credit of United States
 
-All guaranties issued prior to July 1, 1956, all guaranties issued under sections 1872(b) <sup>1</sup> and 1933(b) <sup>1</sup> of this title, all guaranties heretofore issued pursuant to prior guaranty authorities repealed by the Foreign Assistance Act of 1969, and all insurance, reinsurance and guaranties issued pursuant to this subpart shall constitute obligations, in accordance with the terms of such insurance, reinsurance or guaranties, of the United States of America and the full faith and credit of the United States of America is herebypledged for the full payment and performance of such obligations.
+All guaranties issued prior to July 1, 1956, all guaranties issued under sections 1872(b) <sup>1</sup> and 1933(b) <sup>1</sup> of this title, all guaranties heretofore issued pursuant to prior guaranty authorities repealed by the Foreign Assistance Act of 1969, and all insurance, reinsurance and guaranties issued pursuant to this subpart shall constitute obligations, in accordance with the terms of such insurance, reinsurance or guaranties, of the United States of America and the full faith and credit of the United States of America is hereby pledged for the full payment and performance of such obligations.
 
 #### (d) Fees
 
@@ -44,7 +44,7 @@ Insurance, guaranties, or reinsurance of a loan or equity investment of an eligi
 
 #### (i) Claims settlement
 
-Claims arising as a result of insurance, reinsurance, or guaranty operations under this subpart or under predecessor guaranty authority may be settled, and disputes arising as a result thereof may be arbitrated with the consent of the parties, on such terms and conditions as the Corporation may determine. Payment made pursuant to any such settlement, or as a result of an arbitration award, shall be final and conclusive notwithstanding any other provision of law.
+Claims arising as a result of insurance, reinsurance, or guaranty operations under this subpart or under predecessor guaranty authoritymay be settled, and disputes arising as a result thereof may be arbitrated with the consent of the parties, on such terms and conditions as the Corporation may determine. Payment made pursuant to any such settlement, or as a result of an arbitration award, shall be final and conclusive notwithstanding any other provision of law.
 
 #### (j) Presumption of compliance
 
@@ -58,7 +58,7 @@ In making a determination to issue insurance, guaranties, or reinsurance under t
 
 (1) No payment may be made under any insurance or reinsurance which is issued under this subpart on or after April 24, 1978, for any loss occurring with respect to a project, if the preponderant cause of such loss was an act by the investor seeking payment under this subpart, by a person possessing majority ownership and control of the investor at the time of the act, or by any agent of such investor or controlling person, and a court of the United States has entered a final judgment that such act constituted a violation under the Foreign Corrupt Practices Act of 1977.
 
-(2) Not later than 120 days after April 24, 1978, the Corporation shall adopt regulations setting forth appropriate conditions under which any person convicted under the Foreign CorruptPractices Act of 1977 for an offense related to a project insured or otherwise supported by the Corporation shall be suspended, for a period of not more than five years, from eligibility to receive any insurance, reinsurance, guaranty, loan, or other financial support authorized by this subpart.
+(2) Not later than 120 days after April 24, 1978, the Corporation shall adopt regulations setting forth appropriate conditions under which any person convicted under the Foreign Corrupt Practices Act of 1977 for an offense related to a project insured or otherwise supported by the Corporation shall be suspended, for a period of not more than five years, from eligibility to receive any insurance, reinsurance, guaranty, loan, or other financial support authorized by this subpart.
 
 #### (m) Notification of countries of environmental restrictions on certain activities
 
@@ -90,7 +90,7 @@ Direct loans or investments made in order to preserve the value of funds receive
 
 #### References in Text
 
-Sections 1872(b) and 1933(b) of this title, referred to in subsec. (c), were repealed by Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460. Section 642(b) of Pub. L. 87–195 provided that references to provisions of law repealed by subsec. (a) were to be deemed references to the appropriate provisions of Pub. L. 87–195. See sections 2163 and 2351 of this title.
+Sections 1872(b) and 1933(b) of this title, referred to in subsec. (c), were repealed by Pub. L. 87–195, pt. III,§642(a)(2), Sept. 4, 1961, 75 Stat. 460. Section 642(b) of Pub. L. 87–195 provided that references to provisions of law repealed by subsec. (a) were to be deemed references to the appropriate provisions of Pub. L. 87–195. See sections 2163 and 2351 of this title.
 
 The Foreign Assistance Act of 1969, referred to in subsec. (c), is Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 805, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables. The guaranty authorities repealed by the 1969 Act were the guaranty authorities contained in sections 2181 to 2184 prior to the general reorganization of subpart III by the 1969 Act.
 
@@ -135,6 +135,10 @@ Subsec. (f). Pub. L. 93–390, §2(4)(F), (G), inserted “reinsurance” before
 Subsec. (g). Pub. L. 93–390, §2(4)(H), inserted applicability to insurance and reinsurance.
 
 Subsecs. (h) to (k). Pub. L. 93–390, §2(4)(I)–(K), inserted reference to reinsurance wherever appearing.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -30,7 +30,7 @@
 
 #### (2) Record
 
-&emsp;In any interlocutory appeal taken pursuant to this subsection, the entire record, including any proposed order of the judge, any classifiedinformation and the summary of evidence, shall be transmitted to the Court of Appeals. The classified information shall be transmitted under seal. A verbatim record of such appeal shall be kept under seal in the event of any other judicial review.
+&emsp;In any interlocutory appeal taken pursuant to this subsection, the entire record, including any proposed order of the judge, any classified information and the summary of evidence, shall be transmitted to the Court of Appeals. The classified information shall be transmitted under seal. A verbatim record of such appeal shall be kept under seal in the event of any other judicial review.
 
 #### (c) Appeal of decision in hearing
 
@@ -96,7 +96,7 @@ Subsec. (c)(2). Pub. L. 104–208, §354(a)(3)(D), added par. (2). Former par. (
 
 Subsec. (c)(3). Pub. L. 104–208, §354(a)(3)(C), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (c)(3)(D). Pub. L. 104–208, §354(a)(3)(B), inserted before period at end “, except that in the case of a review under paragraph (2) in which an alien lawfully admitted for permanent residence was denied a written summary of classified information under section1534(c)(3) of this title, the Court of Appeals shall review questions of fact de novo”.
+Subsec. (c)(3)(D). Pub. L. 104–208, §354(a)(3)(B), inserted before period at end “, except that in the case of a review under paragraph (2) in which an alien lawfully admitted for permanent residence was denied a written summary of classified information under section 1534(c)(3) of this title, the Court of Appeals shall review questions of fact de novo”.
 
 Subsec. (c)(4). Pub. L. 104–208, §354(a)(3)(C), redesignated par. (3) as (4).
 

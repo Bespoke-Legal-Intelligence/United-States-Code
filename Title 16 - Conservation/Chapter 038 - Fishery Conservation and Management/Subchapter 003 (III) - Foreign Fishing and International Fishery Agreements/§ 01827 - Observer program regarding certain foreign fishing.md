@@ -34,7 +34,7 @@ There is imposed for each year after 1980 on the owner or operator of each forei
 
 #### (e) Fund
 
-There is established in the Treasury of the United States the Foreign Fishing Observer Fund. The Fund shall be available to the Secretary as a revolving fund for the purpose of carrying out this section. The Fund shall consist of the fees deposited into it as required under subsection (d) of this section. All payments made by the Secretary to carry out this section shall be paid from the Fund, only to the extent and in the amounts provided for in advance in appropriation Acts. Sums in the Fund which are not currently needed for the purposes of this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
+There is established in the Treasury of the United States the Foreign Fishing Observer Fund. The Fund shall be available to the Secretary as a revolving fund for the purpose of carrying out this section. The Fund shall consist of the fees deposited into it as required under subsection (d) of this section. All payments made by the Secretary to carry out this section shallbe paid from the Fund, only to the extent and in the amounts provided for in advance in appropriation Acts. Sums in the Fund which are not currently needed for the purposes of this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
 #### (f) Prohibited acts
 
@@ -44,7 +44,7 @@ There is established in the Treasury of the United States the Foreign Fishing Ob
 
 &emsp;(B) to refuse to pay the fee imposed under subsection (d) of this section after being requested to do so by the Secretary; or
 
-&emsp;(C) to refuse to permit an individual who is authorized to act as an observer under this section with respect to that vessel to boardthe vessel for purposes of carrying out observer functions.
+&emsp;(C) to refuse to permit an individual who is authorized to act as an observer under this section with respect to that vessel to board the vessel for purposes of carrying out observer functions.
 
 (2) Section 308 of the Act of 1976 \[16 U.S.C. 1858\] (relating to civil penalties) applies to any act that is unlawful under paragraph (1), and for purposes of such application the commission of any such act shall be treated as an act the commission of which is unlawful under section 307 of the Act of 1976 \[16 U.S.C. 1857\].
 

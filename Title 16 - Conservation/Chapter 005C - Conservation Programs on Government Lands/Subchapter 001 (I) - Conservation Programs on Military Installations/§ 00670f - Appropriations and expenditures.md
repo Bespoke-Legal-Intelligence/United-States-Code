@@ -6,7 +6,7 @@ The Secretary of Defense shall expend such funds as may be collected in accordan
 
 #### (b) Authorization of appropriations to Secretary of Defense
 
-There are authorized to be appropriated to the Secretary of Defense not to exceed $1,500,000 for each of the fiscal years 1998 through 2003, to carry out this subchapter, including the enhancement of fish and wildlife habitat and the development of public recreation and other facilities, and to carry out such functions and responsibilities as the Secretary may have under cooperative agreements entered into under section 670c–1 of this title. The Secretary of Defense shall, to the greatest extent practicable, enter into agreements to utilize the services, personnel, equipment, and facilities, with or without reimbursement, of the Secretary of the Interior in carrying out the provisions of this section.
+There are authorized to be appropriated to the Secretary of Defense not to exceed $1,500,000 for each of the fiscal years 1998 through 2003, to carry out this subchapter, including the enhancement of fish and wildlife habitat and the development of public recreation and other facilities, and to carry out such functions and responsibilities as the Secretary may have undercooperative agreements entered into under section 670c–1 of this title. The Secretary of Defense shall, to the greatest extent practicable, enter into agreements to utilize the services, personnel, equipment, and facilities, with or without reimbursement, of the Secretary of the Interior in carrying out the provisions of this section.
 
 #### (c) Authorization of appropriations to Secretary of the Interior
 
@@ -46,7 +46,7 @@ Subsec. (d). Pub. L. 97–396, §2(2), added subsec. (d).
 
 Subsec. (c). Pub. L. 95–420 added subsec. (c).
 
-1974—Subsec. (a). Pub. L. 93–452, §3(5), substituted “sections 101 and 102” for “sections 1 and 2” which for purposes of codification was translated as “sections670a and 670b”, therefore requiring no change in text because of redesignation of former sections 1 and 2 of Pub. L. 86–797 by section 3(1) of Pub. L. 93–452.
+1974—Subsec. (a). Pub. L. 93–452, §3(5), substituted “sections 101 and 102” for “sections 1 and 2” which for purposes of codification was translated as “sections 670a and 670b”, therefore requiring no change in text because of redesignation of former sections 1 and 2 of Pub. L. 86–797 by section 3(1) of Pub. L. 93–452.
 
 Subsec. (b). Pub. L. 93–452, §§1(2), 3(4), inserted provisions authorizing appropriations of not to exceed $1,500,000 for the fiscal year beginning July 1, 1972, and for each of the next five fiscal years thereafter, and authorizing appropriations to the Secretary of the Interior not to exceed $2,000,000 for the fiscal year beginning July 1, 1973, and for each of the next four fiscal years thereafter, and substituted “title” for “Act” wherever appearing, which for purposes of codification was translated as “subchapter”.
 

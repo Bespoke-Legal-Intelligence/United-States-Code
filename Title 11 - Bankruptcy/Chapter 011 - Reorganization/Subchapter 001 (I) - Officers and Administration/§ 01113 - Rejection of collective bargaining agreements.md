@@ -4,7 +4,7 @@
 
 (b)(1) Subsequent to filing a petition and prior to filing an application seeking rejection of a collective bargaining agreement, the debtor in possession or trustee (hereinafter in this section “trustee” shall include a debtor in possession), shall—
 
-&emsp;(A) make a proposal to the authorized representative of the employees covered by such agreement, based on the most complete and reliable information available at the time of such proposal, which provides for those necessary modifications in the employees benefits and protections that are necessary to permit the reorganization of the debtor and assures that all creditors, the debtor and all of the affected parties are treated fairly and equitably; and
+&emsp;(A) make a proposal to the authorized representative of the employees covered by such agreement, based on the most complete and reliable information available at the time of such proposal, which provides for those necessary modifications in the employees benefitsand protections that are necessary to permit the reorganization of the debtor and assures that all creditors, the debtor and all of the affected parties are treated fairly and equitably; and
 
 &emsp;(B) provide, subject to subsection (d)(3), the representative of the employees with such relevant information as is necessary to evaluate the proposal.
 
@@ -32,7 +32,7 @@
 
 #### References in Text
 
-The Railway Labor Act, referred to in subsec. (a), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended. TitleI of the Railway Labor Act is classified principally to subchapter I (§151 et seq.) of chapter 8 of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in subsec. (a), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended. Title I of the Railway Labor Act is classified principally to subchapter I (§151 et seq.) of chapter 8 of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
 #### Effective Date
 

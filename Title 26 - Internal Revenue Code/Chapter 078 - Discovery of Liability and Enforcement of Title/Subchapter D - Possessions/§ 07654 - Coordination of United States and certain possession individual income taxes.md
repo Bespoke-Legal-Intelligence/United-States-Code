@@ -10,7 +10,7 @@ For purposes of this section—
 
 #### (1) Net collections
 
-&emsp;In determining net collections for a taxable year, an appropriate adjustment shall be madefor credits allowed against the tax liability and refunds made of income taxes for the taxable year.
+&emsp;In determining net collections for a taxable year, an appropriate adjustment shall be made for credits allowed against the tax liability and refunds made of income taxes for the taxable year.
 
 #### (2) Specified possession
 

@@ -28,7 +28,7 @@ A fellow detailed under subsection (a) of this section may be paid by the Center
 
 #### Transfer of Functions
 
-United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred toSecretary of State, see sections 6531 and 6532 of this title.
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 ### §4028. Training for Foreign Service officers
 
-(a) The Secretary of State, with the assistance of other relevant officials, such as the Ambassador at Large for International Religious Freedom appointed under section 6411(b) of this title and the director of the National Foreign Affairs Training Center, shall establish as part of the standard training provided after January 1, 1999, for officers of the Service, including chiefs of mission, instruction in the field of internationally recognized human rights. Such training shall include—
+(a) The Secretary of State, with the assistance of other relevant officials, such as the Ambassador at Large for International Religious Freedom appointed under section 6411(b) of this titleand the director of the National Foreign Affairs Training Center, shall establish as part of the standard training provided after January 1, 1999, for officers of the Service, including chiefs of mission, instruction in the field of internationally recognized human rights. Such training shall include—
 
 &emsp;(1) instruction on international documents and United States policy in human rights, which shall be mandatory for all members of the Service having reporting responsibilities relating to human rights and for chiefs of mission; and
 

@@ -38,7 +38,7 @@ Any person may be prosecuted, tried, and punished for any violation of this sect
 
 (4) Notwithstanding section 524(c) of title 28, there shall be deposited in the Crime Victims Fund established under section 10601 of title 42 all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
 
-(5) As used in this subsection, the term “State” means any State of the United States,the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and any territory or possession of the United States.
+(5) As used in this subsection, the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and any territory or possession of the United States.
 
 (Sept. 23, 1950, ch. 1024, title I, §4, 64 Stat. 991; Pub. L. 90–237, §3, Jan. 2, 1968, 81 Stat. 765; Pub. L. 103–199, title VIII, §803(2), Dec. 17, 1993, 107 Stat. 2329; Pub. L. 103–359, title VIII, §804(c), Oct. 14, 1994, 108 Stat. 3440.)
 
@@ -48,7 +48,7 @@ Any person may be prosecuted, tried, and punished for any violation of this sect
 
 1993—Subsec. (a). Pub. L. 103–199, §803(2)(A)–(C), redesignated subsec. (b) as (a), struck out “or an officer or member of any Communist organization as defined in paragraph (5) of section 782 of this title” after “foreign government”, and struck out former subsec. (a) which read as follows: “It shall be unlawful for any person knowingly to combine, conspire, or agree with any other person to perform any act which would substantially contribute to the establishment within the United States of a totalitarian dictatorship, as defined in paragraph (15) of section 782 of this title, the direction and control of which is to be vested in, or exercised by or under the domination or control of, any foreign government, foreign organization, or foreign individual: <i>Provided, however</i>, That this subsection shall not apply to the proposal of a constitutional amendment.”
 
-Subsec. (b). Pub. L. 103–199, §803(2)(B), (D), redesignated subsec. (c) as (b) and struck out “, or any officer or member of any Communist organization as defined in paragraph (5) of section 782 of this title,” after “foreign government”. Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 103–199, §803(2)(B), (D), redesignated subsec. (c) as (b) and struck out “, or any officeror member of any Communist organization as defined in paragraph (5) of section 782 of this title,” after “foreign government”. Former subsec. (b) redesignated (a).
 
 Subsecs. (c) to (e). Pub. L. 103–199, §803(2)(B), redesignated subsecs. (d) and (e) as (c) and (d), respectively. Former subsec. (c) redesignated (b).
 

@@ -38,7 +38,7 @@ Where a State has not approved the acquisition of land under section 515 of this
 
 #### (1) In general
 
-&emsp;Conservation easements or deed reservations acquired or reserved pursuant to this section may allow forest management activities, including timber management, on areas enteredin the Forest Legacy Program insofar as the Secretary deems such activities consistent with the purposes of this section.
+&emsp;Conservation easements or deed reservations acquired or reserved pursuant to this section may allow forest management activities, including timber management, on areas entered in the Forest Legacy Program insofar as the Secretary deems such activities consistent with the purposes of this section.
 
 #### (2) Assignment of responsibilities
 

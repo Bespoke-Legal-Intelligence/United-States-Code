@@ -42,13 +42,19 @@ June 30, 1950, ch. 431, §§9, 10, 11 (words before 2d comma), 14, 64 Stat. 314.
 
 36:230.
 
+&nbsp;
+
 190107(d)
 
 36:231 (words before 2d comma).
 
+&nbsp;
+
 190107(e)
 
 36:234.
+
+&nbsp;
 
 In subsection (a), the words “pecuniary” and “or gain” are omitted as unnecessary.
 

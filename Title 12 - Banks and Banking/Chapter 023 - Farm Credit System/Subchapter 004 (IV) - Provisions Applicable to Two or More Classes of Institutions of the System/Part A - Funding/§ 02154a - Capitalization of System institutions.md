@@ -36,7 +36,7 @@ Subject to approval by shareholders under subsection (c)(2) of this section, eac
 
 &emsp;Notwithstanding any other provision of this chapter, the bylaws adopted under subsection (b) of this section—
 
-&emsp;&emsp;(A) shall provide for such classes, par value, and amounts of the stock of the institution, the manner in which such stock shall be issued, transferred, and retired, and the payment of dividends and patronage refunds, as determined appropriate by the Board of Directors, subject to this section;
+&emsp;&emsp;(A) shall provide for such classes, par value, and amounts of the stock of the institution, the manner in which such stock shallbe issued, transferred, and retired, and the payment of dividends and patronage refunds, as determined appropriate by the Board of Directors, subject to this section;
 
 &emsp;&emsp;(B) may provide for the charging of loan origination fees as determined appropriate by the Board of Directors;
 
@@ -74,7 +74,7 @@ Subject to approval by shareholders under subsection (c)(2) of this section, eac
 
 #### (1) General rule
 
-&emsp;Except as provided in paragraph (2), the board of directors of a System institution may not reduce the permanent capital of the institution through the payment of patronage refunds or dividends, or the retirement of stock if, after or due to such action, the permanent capital of the institution would thereafter failto meet the minimum capital adequacy standards established under section 2154(a) of this title.
+&emsp;Except as provided in paragraph (2), the board of directors of a System institution may not reduce the permanent capital of the institution through the payment of patronage refunds or dividends, or the retirement of stock if, after or due to such action, the permanent capital of the institution would thereafter fail to meet the minimum capital adequacy standards established under section 2154(a) of this title.
 
 #### (2) Exceptions
 

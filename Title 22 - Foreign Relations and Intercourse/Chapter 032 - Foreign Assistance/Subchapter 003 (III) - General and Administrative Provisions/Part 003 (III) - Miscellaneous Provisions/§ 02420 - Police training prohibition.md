@@ -18,7 +18,9 @@ Subsection (a) of this section shall not apply—
 
 &emsp;(5) with respect to assistance, including training, relating to sanctions monitoring and enforcement;
 
-&emsp;(6) with respect to assistance provided to reconstitute civilian police authority and capability in the post-conflict restoration of host nation infrastructure for the purposes of supporting a nation emerging from instability, and the provision of professional public safety training, to include training in internationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy.
+&emsp;(6) with respect to assistance provided to reconstitute civilian police authority and capability in the post-conflict restoration of host nation infrastructure for the purposes of supporting a nation emerging from instability, and the provision of professional public safety training, to include training in internationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy;
+
+&emsp;(7) with respect to assistance provided to customs authorities and personnel, includingtraining, technical assistance and equipment, for customs law enforcement and the improvement of customs laws, systems and procedures.
 
 > Notwithstanding clause (2), subsection (a) of this section shall apply to any renewal or extension of any contract referred to in such paragraph entered into on or after December 30, 1974.
 
@@ -30,7 +32,7 @@ Subsection (a) of this section shall not apply with respect to a country which h
 
 Notwithstanding the prohibition contained in subsection (a) of this section assistance may be provided to Honduras or El Salvador for fiscal years 1986 and 1987 if, at least 30 days before providing assistance, the President notifies the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, in accordance with the procedures applicable to reprogramming notifications pursuant to section 2394–1 of this title, that he has determined that the government of the recipient country has made significant progress, during the preceding six months, in eliminating any human rights violations including torture, incommunicado detention, detention of persons solely for the nonviolent expression of their political views, or prolonged detention without trial. Any such notification shall include a full description of the assistance which is proposed to be provided and of the purposes to which it is to be directed.
 
-(Pub. L. 87–195, pt. III, §660, as added Pub. L. 93–559, §30(a), Dec. 30, 1974, 88 Stat. 1803; amended Pub. L. 99–83, title I, §127(b), title VII, §711, Aug. 8, 1985, 99 Stat. 205, 243; Pub. L. 101–513, title V, §594, Nov. 5, 1990, 104 Stat. 2060; Pub. L. 104–107, title V, §540A(d), Feb. 12, 1996, 110 Stat. 737.)
+(Pub. L. 87–195, pt. III, §660, as added Pub. L. 93–559, §30(a), Dec. 30, 1974, 88 Stat. 1803; amended Pub. L. 99–83, title I, §127(b), title VII, §711, Aug. 8, 1985, 99 Stat. 205, 243; Pub. L. 101–513, title V, §594, Nov. 5, 1990, 104 Stat. 2060; Pub. L. 104–107, title V, §540A(d), Feb. 12, 1996, 110 Stat. 737; Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §574\], Nov. 29, 1999, 113 Stat. 1535, 1501A–111.)
 
 #### References in Text
 
@@ -39,6 +41,8 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 Section 3763(c) of title 42, referred to in subsec. (b)(1), was in the original section 515(c) of the Omnibus Crime Control and Safe Streets Act of 1968 \[title I of Pub. L. 90–351, June 19, 1968, 82 Stat. 207\]. Section 515 was omitted in the general revision of title I of Pub. L. 90–351 by Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1167.
 
 #### Amendments
+
+1999—Subsec. (b)(7). Pub. L. 106–113 added par. (7).
 
 1996—Subsec. (b)(5), (6). Pub. L. 104–107 added pars. (5) and (6).
 
@@ -55,6 +59,10 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Exemption of Narcotics-Related Military Assistance for Specific Fiscal Years From Prohibition on Assistance for Law Enforcement Agencies
 
@@ -88,7 +96,7 @@ Memorandum for the Honorable George P. Shultz, the Secretary of State
 
 Pursuant to Section 660(d) of the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2420(d)\], I hereby determine that the Government of El Salvador has made significant progress, during the six month period preceding this determination, in eliminating any human rights violations including torture, incommunicado detention, detention of persons solely for the non-violent expression of their political views, or prolonged detention without trial.
 
-You are requested to report this determination to the Congress immediately, together with a full description of the assistance to be provided and of the purposes to which it is to be directed. None of the assistance so provided shall be furnished until 30 days after such a report has been made, as required by law.
+You are requested to report this determination to the Congress immediately, together with a full description of the assistance to be provided and of the purposes towhich it is to be directed. None of the assistance so provided shall be furnished until 30 days after such a report has been made, as required by law.
 
 I hereby delegate to the Secretary of State authority to make such determinations and reports as called for in the future under Section 660(d).
 
@@ -102,5 +110,5 @@ This section is referred to in sections 2151q, 2346c, 2398 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The word “or” probably should appear at end of par. (5).</i>
+<i><sup>2</sup></i><i> So in original. The word “or” probably should appear at end of par. (6).</i>
 

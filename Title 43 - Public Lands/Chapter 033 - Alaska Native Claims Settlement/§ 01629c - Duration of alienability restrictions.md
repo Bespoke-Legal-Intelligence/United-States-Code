@@ -6,7 +6,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 #### (b) Opt-out procedure
 
-(1)(A) A Native Corporation may amend its articles of incorporation to terminate alienabilityrestrictions in accordance with this subsection. Only one amendment to terminate alienability restrictions shall be considered and voted on prior to December 18, 1991. Rejection of the amendment shall not preclude consideration prior to December 18, 1991, of subsequent amendments to terminate alienability restrictions.
+(1)(A) A Native Corporation may amend its articles of incorporation to terminate alienability restrictions in accordance with this subsection. Only one amendment to terminate alienability restrictions shall be considered and voted on prior to December 18, 1991. Rejection of the amendment shall not preclude consideration prior to December 18, 1991, of subsequent amendments to terminate alienability restrictions.
 
 (B) If an amendment to terminate alienability restrictions is considered, voted on, and rejected prior to December 18, 1991, then subsequent amendments to terminate alienability restrictions after December 18, 1991, shall be considered and voted on—
 
@@ -50,7 +50,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 #### (d) Opt-in procedure
 
-(1)(A) Subsection (b) of this section shall not apply to a Native Corporation whose board of directors approves, no later than one year after February 3, 1988, a resolution electing the application of this subsection and such resolution isnot validly rescinded pursuant to paragraph (2)(B)(ii).
+(1)(A) Subsection (b) of this section shall not apply to a Native Corporation whose board of directors approves, no later than one year after February 3, 1988, a resolution electing the application of this subsection and such resolution is not validly rescinded pursuant to paragraph (2)(B)(ii).
 
 (B) This subsection shall not apply to Village Corporations, Urban Corporations, and Group Corporations located outside of the Bristol Bay and Aleut regions.
 
@@ -70,7 +70,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 (D) If an amendment approved by the shareholders of a Native Corporation pursuant to subparagraph (B) or this subparagraph extends alienability restrictions for a specified period of time, termination of the restrictions at the close of such period may be postponed if a further amendment to the articles of incorporation of the corporation is approved to extend the restrictions. There shall be no limit on the number of such amendments that can be approved. Such amendments shall not be effective to extend the restrictions unless approved prior to the expiration of the period of extension then in force.
 
-(3)(A) If an amendment to the articles of incorporation of a Native Corporation extending alienability restrictions for a specified period of time is approved pursuant to paragraph (2), the restrictions shall automatically terminate at the end of such period unless the restrictions are extended in accordance with the provisions of paragraph (2)(D).
+(3)(A) If an amendment to the articles of incorporation of a Native Corporation extendingalienability restrictions for a specified period of time is approved pursuant to paragraph (2), the restrictions shall automatically terminate at the end of such period unless the restrictions are extended in accordance with the provisions of paragraph (2)(D).
 
 (B) If the board of directors of a Native Corporation electing application of this subsection does not submit for a shareholder vote an amendment to the articles of incorporation of the corporation in accordance with paragraph (2)(B), or if the amendment submitted does not comply with paragraph (2)(C), alienability restrictions shall not terminate and shall instead remain in effect until such time as a court of competent jurisdiction, upon petition of one or more shareholders of the corporation, orders that a shareholder vote be taken on an amendment which complies with paragraph (2)(C) and such vote is conducted. Following the vote, the status of alienability restrictions shall be determined in accordance with the other provisions of this subsection and the amendment, if approved.
 
@@ -94,7 +94,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 (C) This paragraph shall apply only to the first extension of alienability restrictions approved by the shareholders. No dissenters rights of any sort shall be permitted in connection with subsequent extensions of such restrictions.
 
-(6)(A) If the board of directors of a Native Corporation approves a resolution providing for the issuance of alienable common stock pursuant toparagraph (5)(B), then on December 18, 1991, or sixty days after the approval of the resolution, whichever later occurs, the Settlement Common Stock of each shareholder who has notified the corporation pursuant to paragraph (5)(A) shall be deemed canceled, and shares of alienable common stock of the appropriate class shall be issued to such shareholder, share for share, subject only to subparagraph (B) and to such restrictions consistent with this chapter as may be provided by the articles of incorporation of the corporation or in agreements between the corporation and individual shareholders.
+(6)(A) If the board of directors of a Native Corporation approves a resolution providing for the issuance of alienable common stock pursuant to paragraph (5)(B), then on December 18, 1991, or sixty days after the approval of the resolution, whichever later occurs, the Settlement Common Stock of each shareholder who has notified the corporation pursuant to paragraph (5)(A) shall be deemed canceled, and shares of alienable common stock of the appropriate class shall be issued to such shareholder, share for share, subject only to subparagraph (B) and to such restrictions consistent with this chapter as may be provided by the articles of incorporation of the corporation or in agreements between the corporation and individual shareholders.
 
 (B)(i) Alienable common stock issued in exchange for Settlement Common Stock issued subject to the restriction authorized by section 1606(g)(1)(B)(iii) of this title shall bear a legend indicating that the stock will eventually be canceled in accordance with the requirements of that section.
 
@@ -114,7 +114,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 (C) The articles of incorporation of the Native Corporation shall be deemed amended to implement the provisions of the resolution authorized by paragraph (5)(B).
 
-(D) Alienable common stock issued pursuant to this subparagraph shall not be subjected to a lien or judgment execution based upon any asserted or unasserted legal obligation of the original recipient arising prior to the issuance of such stock.
+(D) Alienable common stock issued pursuant to this subparagraph shall not be subjected to a lien or judgment execution based upon any asserted or unasserted legal obligation of theoriginal recipient arising prior to the issuance of such stock.
 
 (7)(A) No share of alienable common stock issued pursuant to paragraph (6) shall carry voting rights if it is owned, legally or beneficially, by a person not a Native or a descendant of a Native.
 

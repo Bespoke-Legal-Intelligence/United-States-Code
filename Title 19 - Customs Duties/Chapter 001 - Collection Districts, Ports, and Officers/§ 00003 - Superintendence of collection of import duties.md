@@ -20,7 +20,7 @@ Pub. L. 100–203, title IX, §9501(c), Dec. 22, 1987, 101 Stat. 1330–380, as 
 
 &emsp;“(A) may not, after the date of the enactment of this Act \[Dec. 22, 1987\], establish any new centralized cargo examination station at any ocean port, airport, or land border location unless the Customs Service provides to the Committees advance notice, in writing, of not less than 90 days regarding the proposed establishment; and
 
-&emsp;“(B) shall, on such date of enactment, suspend operations at each centralized cargo examination station that was operating at an airport on the day before such date until the 90th day after a date—
+&emsp;“(B) shall, on such date of enactment, suspend operations at each centralized cargo examination stationthat was operating at an airport on the day before such date until the 90th day after a date—
 
 &emsp;&emsp;“(i) that is not earlier than the date on which the analysis required under paragraph (1) is submitted to the Committees, and
 

@@ -26,7 +26,7 @@
 
 > less an amount equal to the amount determined to be the expected family contribution with respect to that student for that year.
 
-(B) In any case where a student attends an institution of higher education on less than a full-time basis (including a student who attends an institution of higher education on less than a half-time basis) during any academic year, the amount of the Federal Pell Grant to which thatstudent is entitled shall be reduced in proportion to the degree to which that student is not so attending on a full-time basis, in accordance with a schedule of reductions established by the Secretary for the purposes of this division, computed in accordance with this subpart. Such schedule of reductions shall be established by regulation and published in the Federal Register in accordance with section 1089 of this title.
+(B) In any case where a student attends an institution of higher education on less than a full-time basis (including a student who attends an institution of higher education on less than a half-time basis) during any academic year, the amount of the Federal Pell Grant to which that student is entitled shall be reduced in proportion to the degree to which that student is not so attending on a full-time basis, in accordance with a schedule of reductions established by the Secretary for the purposes of this division, computed in accordance with this subpart. Such schedule of reductions shall be established by regulation and published in the Federal Register in accordance with section 1089 of this title.
 
 (3)(A) For any academic year for which an appropriation Act provides a maximum basic grant in an amount in excess of $2,700, the amount of a student's basic grant shall equal $2,700 plus—
 
@@ -60,7 +60,7 @@
 
 (1) The period during which a student may receive Federal Pell Grants shall be the period required for the completion of the first undergraduate baccalaureate course of study being pursued by that student at the institution at which the student is in attendance except that any period during which the student is enrolled in a noncredit or remedial course of study as defined in paragraph (2) shall not be counted for the purpose of this paragraph.
 
-(2) Nothing in this section shall exclude from eligibility courses of study which are noncredit or remedial in nature (including courses in English language instruction) which are determined by the institution to be necessary to help the student be prepared for the pursuit of a first undergraduate baccalaureate degree or certificate or, in the case of courses in English language instruction, to be necessary to enable the student to utilize already existing knowledge, training, or skills. Nothing in this section shall exclude from eligibility programs of study abroad that are approved for credit by the home institution at which the student is enrolled.
+(2) Nothing in this section shall exclude from eligibility courses of study which are noncredit or remedial in nature (including courses in English language instruction) which are determined by the institution to be necessary to help the student be prepared for the pursuit of a first undergraduate baccalaureate degree or certificate or, in the case of courses in English language instruction, to be necessary to enable the student to utilize already existing knowledge, training, or skills. Nothing in this section shall exclude from eligibility programs of studyabroad that are approved for credit by the home institution at which the student is enrolled.
 
 (3) No student is entitled to receive Pell Grant payments concurrently from more than one institution or from the Secretary and an institution.
 
@@ -110,7 +110,7 @@ If, for any fiscal year, the funds appropriated for payments under this subpart 
 
 #### (i) Treatment of institutions and students under other laws
 
-Any institution of higher education which enters into an agreement with the Secretary to disburse to students attending that institution the amounts those students are eligible to receive under this subpart shall not be deemed, by virtue of such agreement, a contractor maintaining a system of records to accomplish a function of the Secretary. Recipients of Pell Grants shall not be considered to be individual grantees for purposes of subtitle D of title V of Public Law 100–690 \[41 U.S.C. 701 et seq.\].
+Any institution of higher education which enters into an agreement with the Secretary to disburse to students attending that institution the amounts those students are eligible to receive under this subpart shall not be deemed, byvirtue of such agreement, a contractor maintaining a system of records to accomplish a function of the Secretary. Recipients of Pell Grants shall not be considered to be individual grantees for purposes of subtitle D of title V of Public Law 100–690 \[41 U.S.C. 701 et seq.\].
 
 #### (j) Institutional ineligibility based on default rates
 
@@ -278,7 +278,7 @@ Subsec. (g). Pub. L. 102–325, §401(g), struck out “Adjustments for” befor
 
 “(2) Any schedule established by the Secretary for the purpose of paragraph (1)(B) of this subsection shall contain a single linear reduction formula in which the percentage reduction increases uniformly as the entitlement decreases, and shall provide that if an entitlement is reduced to less than $100, no payment shall be made.”
 
-Subsec. (i). Pub. L. 102–325, §401(h), substituted “Treatment of institutions and students under other laws” for “Noncontractor status of institutions” in heading and inserted at end of text “Recipients of Pell Grants shall not be considered to be individual grantees for purposes of part D of title V of Public Law 100–690.”
+Subsec. (i). Pub. L. 102–325, §401(h), substituted “Treatment of institutions and students under other laws” for “Noncontractor status of institutions” inheading and inserted at end of text “Recipients of Pell Grants shall not be considered to be individual grantees for purposes of part D of title V of Public Law 100–690.”
 
 1987—Subsec. (g)(2). Pub. L. 100–50 substituted “paragraph (1)(B)” for “paragraph (1)”.
 
@@ -296,7 +296,7 @@ Amendment by section 2(b)(1), (3)–(5), (k)(1) of Pub. L. 103–208 effective a
 
 #### Effective Date of 1992 Amendment
 
-Section 410 of Pub. L. 102–325 provided that: “The changes made in part A of title IV of the Act \[20 U.S.C. 1070 et seq.\] by the amendments made by this part \[part A (§§401–410) of title IV of Pub. L. 102–325, see Tables forclassification\] shall take effect on the date of enactment of this Act \[July 23, 1992\], except—
+Section 410 of Pub. L. 102–325 provided that: “The changes made in part A of title IV of the Act \[20 U.S.C. 1070 et seq.\] by the amendments made by this part \[part A (§§401–410) of title IV of Pub. L. 102–325, see Tables for classification\] shall take effect on the date of enactment of this Act \[July 23, 1992\], except—
 
 &emsp;“(1) as otherwise provided in such part A;
 
@@ -325,6 +325,8 @@ Section 1306 of Pub. L. 99–498 directed Secretary to conduct a study and repor
 #### Maximum Pell Grants
 
 Provisions limiting the maximum Pell grant that a student may receive were contained in the following appropriation acts:
+
+Pub. L. 106–113, div. B, §1000(a)(4) \[title III\], Nov. 29, 1999, 113 Stat. 1535, 1501A–251.
 
 Pub. L. 105–277, div. A, §101(f) \[title III\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–369.
 

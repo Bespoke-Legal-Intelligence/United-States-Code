@@ -8,6 +8,10 @@ For purposes of this Act, the term “Secretary” means the Secretary of the Ar
 
 This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
+#### Short Title of 1999 Amendment
+
+Pub. L. 106–53, §1(a), Aug. 17, 1999, 113 Stat. 269, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Water Resources Development Act of 1999’.”
+
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–303, §1(a), Oct. 12, 1996, 110 Stat. 3658, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Water Resources Development Act of 1996’.”
@@ -30,13 +34,45 @@ Section 1(a) of Pub. L. 99–662 provided that: “This Act \[enacting this chap
 
 Section 215 of title II of Pub. L. 99–662 provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Harbor Development and Navigation Improvement Act of 1986’.”
 
+#### Water Control Management
+
+Pub. L. 106–53, title V, §511, Aug. 17, 1999, 113 Stat. 341, provided that:
+
+“(a)
+
+In General.—In evaluating potential improvements for water control management activities and consolidation of water control management centers, the Secretary may consider a regionalized water control management plan but may not implement such a plan until the date on which a report is submitted under subsection (b).
+
+“(b)
+
+Report.—Not later than 180 days after the date of enactment of this Act \[Aug. 17, 1999\], the Secretary shall submit to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee onEnvironment and Public Works and the Committee on Appropriations of the Senate a report containing—
+
+&emsp;“(1) a description of the primary objectives of streamlining water control management activities;
+
+&emsp;“(2) a description of the benefits provided by streamlining water control management activities through consolidation of centers for those activities;
+
+&emsp;“(3) a determination whether the benefits to users of establishing regional water control management centers will be retained in each district office of the Corps of Engineers that does not have a regional center;
+
+&emsp;“(4) a determination whether users of regional centers will receive a higher level of benefits from streamlining water control management activities; and
+
+&emsp;“(5) a list of the members of Congress who represent a district that includes a water control management center that is to be eliminated under a proposed regionalized plan.”
+
 #### Buy American; Sense of Congress; Requirement Regarding Notice
+
+Pub. L. 106–53, title II, §222, Aug. 17, 1999, 113 Stat. 295, provided that:
+
+“(a)
+
+In General.—It is the sense of Congress that, to the extent practicable, all equipment and products purchased with funds made available under this Act \[see Tables for classification\] should be American made.
+
+“(b)
+
+Notice to Recipients of Assistance.—In providing financial assistance under this Act, the Secretary, to the greatest extent practicable, shall provide to each recipient of the assistance a notice describing the statement made in subsection (a).”
 
 Pub. L. 104–303, title II, §235, Oct. 12, 1996, 110 Stat. 3704, provided that:
 
 “(a)
 
-Purchase of American-Made Equipment and Products.—It is the sense of Congress that, to the greatest extent practicable, all equipment and productspurchased with funds made available under this Act \[see Tables for classification\] should be American-made.
+Purchase of American-Made Equipment and Products.—It is the sense of Congress that, to the greatest extent practicable, all equipment and products purchased with funds made available under this Act \[see Tables for classification\] should be American-made.
 
 “(b)
 
@@ -47,6 +83,8 @@ Notice to Recipients of Assistance.—In providing financial assistance under th
 Section 948 of Pub. L. 99–662 provided that: “Any spending authority under this Act \[see Short Title note above\] shall be effective only to such extent and in such amounts as are provided in appropriation Acts. For purposes of this Act, the term ‘spending authority’ has the meaning provided in section 401(c)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)\], except that such term does not include spending authority for which an exception is made under section 401(d) of such Act.”
 
 #### “Secretary” Defined
+
+Pub. L. 106–53, §2, Aug. 17, 1999, 113 Stat. 273, provided that: “In this Act \[see Tables for classification\], the term ‘Secretary’ means the Secretary of the Army.”
 
 Pub. L. 104–303, §2, Oct. 12, 1996, 110 Stat. 3662, provided that: “In this Act \[see Tables for classification\], the term ‘Secretary’ means the Secretary of the Army.”
 

@@ -20,5 +20,7 @@ Historical and Revision Notes
 
 36:48.
 
+&nbsp;
+
 The word “sole” is omitted as included in “exclusive”. The words “to have and”, “in carrying out its purposes”, and “in carrying out the purposes of the corporation” are omitted as unnecessary.
 

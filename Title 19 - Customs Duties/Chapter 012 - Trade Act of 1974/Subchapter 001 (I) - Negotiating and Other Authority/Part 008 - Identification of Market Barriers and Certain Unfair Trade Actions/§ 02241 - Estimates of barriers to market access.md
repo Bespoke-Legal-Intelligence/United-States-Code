@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For calendar year 1988, and for each succeeding calendar year, the United States Trade Representative, through the interagency trade organization established pursuant to section 1872(a) of this title and with the assistance ofthe interagency advisory committee established under section 2171(d)(2) of this title, shall—
+&emsp;For calendar year 1988, and for each succeeding calendar year, the United States Trade Representative, through the interagency trade organization established pursuant to section 1872(a) of this title and with the assistance of the interagency advisory committee established under section 2171(d)(2) of this title, shall—
 
 &emsp;&emsp;(A) identify and analyze acts, policies, or practices of each foreign country which constitute significant barriers to, or distortions of—
 
@@ -84,7 +84,7 @@
 
 #### (3) Personnel and services
 
-&emsp;The head of any department, agency, or instrumentality of the United States may detailsuch personnel and may furnish such services, with or without reimbursement, as the Trade Representative may request to assist in carrying out his functions.
+&emsp;The head of any department, agency, or instrumentality of the United States may detail such personnel and may furnish such services, with or without reimbursement, as the Trade Representative may request to assist in carrying out his functions.
 
 #### (d) Electronic commerce
 
@@ -108,7 +108,7 @@ Subsec. (d). Pub. L. 105–277, §1202(3), added subsec. (d).
 
 1994—Subsec. (b)(2)(C). Pub. L. 103–465, §311(a)(1), added subpar. (C).
 
-Subsec. (b)(3). Pub. L. 103–465, §312, inserted at end “After the submission of the report required by paragraph (1), the Trade Representative shall also consult periodically with, and take into account the views of, the committees described in that paragraph regarding means to address the foreign trade barriers identified in the report, including the possible initiation of investigations under section 2412 of this title or other trade actions.”
+Subsec. (b)(3). Pub. L. 103–465, §312, inserted at end “After the submission of the report required by paragraph (1), the Trade Representative shall also consult periodically with, and take into account the views of, the committees described in that paragraph regardingmeans to address the foreign trade barriers identified in the report, including the possible initiation of investigations under section 2412 of this title or other trade actions.”
 
 Subsec. (c)(1). Pub. L. 103–465, §311(a)(2), inserted at end “In preparing the section of the report required by subsection (b)(2)(C) of this section, the Trade Representative shall consult in particular with the Attorney General.”
 

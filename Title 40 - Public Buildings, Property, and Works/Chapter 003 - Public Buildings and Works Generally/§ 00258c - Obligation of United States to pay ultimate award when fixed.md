@@ -1,6 +1,6 @@
 ### §258c. Obligation of United States to pay ultimate award when fixed
 
-Action under section 258a of this title irrevocably committing the United States to thepayment of the ultimate award shall not be taken unless the chief of the executive department or agency or bureau of the Government empowered to acquire the land shall be of the opinion that the ultimate award probably will be within any limits prescribed by Congress on the price to be paid.
+Action under section 258a of this title irrevocably committing the United States to the payment of the ultimate award shall not be taken unless the chief of the executive department or agency or bureau of the Government empowered to acquire the land shall be of the opinion that the ultimate award probably will be within any limits prescribed by Congress on the price to be paid.
 
 (Feb. 26, 1931, ch. 307, §3, 46 Stat. 1422.)
 

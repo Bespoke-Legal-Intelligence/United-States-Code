@@ -86,7 +86,7 @@ For purposes of this section—
 
 #### (B) Coordination with paragraph (2)
 
-&emsp;&emsp;The $15,000 amount in paragraph (2) shall be reduced for any calendar year by theamount of wages paid or incurred during such year which are taken into account in determining the credit under section 51.
+&emsp;&emsp;The $15,000 amount in paragraph (2) shall be reduced for any calendar year by the amount of wages paid or incurred during such year which are taken into account in determining the credit under section 51.
 
 #### (d) Qualified zone employee
 

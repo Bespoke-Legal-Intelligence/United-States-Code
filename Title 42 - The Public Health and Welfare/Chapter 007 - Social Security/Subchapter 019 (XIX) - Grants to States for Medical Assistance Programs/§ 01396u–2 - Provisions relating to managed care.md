@@ -108,7 +108,7 @@
 
 &emsp;&emsp;In carrying out paragraph (1)(A), the State shall establish a default enrollment process—
 
-&emsp;&emsp;&emsp;(i) under which any such individual who does not enroll with a managed care entity during the enrollment period specified by the State shall be enrolled by the State with such an entity which has not been found to be out of substantial compliance with the applicable requirements of this section and of section 1396b(m) of this title or section 1396d(t) of this title; and
+&emsp;&emsp;&emsp;(i) under which any such individual who does not enroll with a managed care entity during the enrollment period specified bythe State shall be enrolled by the State with such an entity which has not been found to be out of substantial compliance with the applicable requirements of this section and of section 1396b(m) of this title or section 1396d(t) of this title; and
 
 &emsp;&emsp;&emsp;(ii) that takes into consideration—
 
@@ -182,7 +182,7 @@
 
 #### (B) “Emergency services” defined
 
-&emsp;&emsp;In subparagraph (A)(i), the term “emergency services” means, with respect to an individual enrolled with an organization, covered inpatient and outpatient services that—
+&emsp;&emsp;In subparagraph (A)(i), the term “emergency services” means, with respect to an individual enrolled with an organization,covered inpatient and outpatient services that—
 
 &emsp;&emsp;&emsp;(i) are furnished by a provider that is qualified to furnish such services under this subchapter, and
 
@@ -216,7 +216,7 @@
 
 #### (C) “Health care professional” defined
 
-&emsp;&emsp;For purposes of this paragraph, the term “health care professional” means a physician (as defined in section 1395x(r) of this title) or other health care professional if coverage for the professional's services is provided under the contract referred to in subparagraph (A) for the services of the professional. Such term includes a podiatrist, optometrist, chiropractor, psychologist, dentist, physician assistant, physical or occupational therapist and therapy assistant, speech-language pathologist, audiologist, registered or licensed practical nurse (including nurse practitioner, clinical nursespecialist, certified registered nurse anesthetist, and certified nurse-midwife), licensed certified social worker, registered respiratory therapist, and certified respiratory therapy technician.
+&emsp;&emsp;For purposes of this paragraph, the term “health care professional” means a physician (as defined in section 1395x(r) of this title) or other health care professional if coverage for the professional's services is provided under the contract referred to in subparagraph (A) for the services of the professional. Such term includes a podiatrist, optometrist, chiropractor, psychologist, dentist, physician assistant, physical or occupational therapist and therapy assistant, speech-language pathologist, audiologist, registered or licensed practical nurse (including nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, and certified nurse-midwife), licensed certified social worker, registered respiratory therapist, and certified respiratory therapy technician.
 
 #### (4) Grievance procedures
 
@@ -246,7 +246,7 @@
 
 #### (7) Antidiscrimination
 
-&emsp;A medicaid managed care organization shall not discriminate with respect to participation, reimbursement, or indemnification as to any provider who is acting within the scope of the provider's license or certification under applicable State law, solely on the basis of such license or certification. This paragraph shall not be construed to prohibit an organization from including providers only to the extent necessary to meet the needs of the organization's enrollees or from establishing any measure designed to maintain quality and control costs consistent with the responsibilities of the organization.
+&emsp;A medicaid managed care organization shall not discriminate with respect to participation,reimbursement, or indemnification as to any provider who is acting within the scope of the provider's license or certification under applicable State law, solely on the basis of such license or certification. This paragraph shall not be construed to prohibit an organization from including providers only to the extent necessary to meet the needs of the organization's enrollees or from establishing any measure designed to maintain quality and control costs consistent with the responsibilities of the organization.
 
 #### (8) Compliance with certain maternity and mental health requirements
 
@@ -310,11 +310,11 @@
 
 #### (B) Nonduplication of accreditation
 
-&emsp;&emsp;A State may provide that, in the case of a medicaid managed care organization that is accredited by a private independent entity (such as those described in section 1395w–22(e)(4) of this title) or that has an external review conducted under section 1395w–22(e)(3) of this title, the external review activities conducted under subparagraph (A) with respect to the organization shall not be duplicative of review activities conducted as part of the accreditation process or the external review conducted under such section.
+&emsp;&emsp;A State may provide that, in the case of a medicaid managed care organization that is accredited by a private independent entity (such as those described in section 1395w–22(e)(4) of this title) or that has an external review conducted under section 1395w–22(e)(3) of this title, the external review activities conducted under subparagraph (A) with respect to the organizationshall not be duplicative of review activities conducted as part of the accreditation process or the external review conducted under such section.
 
 #### (C) Deemed compliance for medicare managed care organizations
 
-&emsp;&emsp;At the option of a State, the requirements of subparagraph (A) shall not apply with respect to a medicaid managed care organization if the organization is an eligible organization with a contract in effect under section 1395mm of this title or a Medicare+�Choice organization with a contract in effect under C <sup>1</sup> of subchapter XVIII of this chapter and the organization has had a contract in effect under section 1396b(m) of this title at least during the previous 2-year period.
+&emsp;&emsp;At the option of a State, the requirements of subparagraph (A) shall not apply with respect to a medicaid managed care organization if the organization is an eligible organization with a contract in effect under section 1395mm of this title or a Medicare+�Choice organization with a contract in effect under part C of subchapter XVIII of this chapter and the organization has had a contract in effect under section 1396b(m) of this title at least during the previous 2-year period.
 
 #### (d) Protections against fraud and abuse
 
@@ -344,7 +344,7 @@
 
 &emsp;&emsp;&emsp;(i) is debarred, suspended, or otherwise excluded from participating in procurement activities under the Federal Acquisition Regulation or from participating in nonprocurement activities under regulations issued pursuant to Executive Order No. 12549 or under guidelines implementing such order; or
 
-&emsp;&emsp;&emsp;(ii) is an affiliate (as defined in such Act) of a person described in clause (i).
+&emsp;&emsp;&emsp;(ii) is an affiliate (as defined in such Regulation) of a person described in clause (i).
 
 #### (2) Restrictions on marketing
 
@@ -366,7 +366,7 @@
 
 #### (B) Service market
 
-&emsp;&emsp;A managed care entity shall distribute marketing materials to the entire service area of such entity covered under the contract under section 1396b(m) of this title or section 1396b(t)(3) <sup>2</sup> of this title.
+&emsp;&emsp;A managed care entity shall distribute marketing materials to the entire service area of such entity covered under the contract under section 1396b(m) of this title or section 1396d(t)(3) of this title.
 
 #### (C) Prohibition of tie-ins
 
@@ -478,7 +478,7 @@
 
 A contract under section 1396b(m) of this title with a medicaid managed care organization shall provide that the organization shall make payment to health care providers for items and services which are subject to the contract and that are furnished to individuals eligible for medical assistance under the State plan under this subchapter who are enrolled with the organization on a timely basis consistent with the claims payment procedures described in section 1396a(a)(37)(A) of this title, unless the health care provider and the organization agree to an alternate payment schedule.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111 Stat. 489, 495, 498, 501, 506.)
+(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111 Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398.)
 
 #### References in Text
 
@@ -504,6 +504,12 @@ A prior section 1932 of act Aug. 14, 1935, was renumbered section 1935 and is cl
 
 #### Amendments
 
+1999—Subsec. (c)(2)(C). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(w)(1)\], inserted “part” before “C of subchapter XVIII”.
+
+Subsec. (d)(1)(C)(ii). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(w)(2)(A)\], substituted “Regulation” for “Act”.
+
+Subsec. (d)(2)(B). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(w)(2)(B)\], substituted “1396d(t)(3) of this title” for “1396b(t)(3) of this title”.
+
 1997—Subsec. (b). Pub. L. 105–33, §4704(a), added subsec. (b).
 
 Subsec. (c). Pub. L. 105–33, §4705(a), added subsec. (c).
@@ -526,7 +532,7 @@ GAO study and report on quality assurance and accreditation standards.—
 
 &emsp;“(A)
 
-Study.—The Comptroller General of the United States shall conduct a study and analysis of the quality assurance programs and accreditation standards applicable to managed care entities operating in the private sector, or to such entities that operate under contracts under the medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.). Such study shall determine—
+Study.—The Comptroller General of the United States shall conduct a study and analysis ofthe quality assurance programs and accreditation standards applicable to managed care entities operating in the private sector, or to such entities that operate under contracts under the medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.). Such study shall determine—
 
 &emsp;&emsp;“(i) if such programs and standards include consideration of the accessibility and quality of the health care items and services delivered under such contracts to low-income individuals; and
 
@@ -551,8 +557,4 @@ Report.—Not later than 2 years after the date of the enactment of this Act \[A
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1320a–3, 1395eee, 1396a, 1396b, 1396d, 1396r–4, 1396u–4 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “part C”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be section “1396d(t)(3)”.</i>
 

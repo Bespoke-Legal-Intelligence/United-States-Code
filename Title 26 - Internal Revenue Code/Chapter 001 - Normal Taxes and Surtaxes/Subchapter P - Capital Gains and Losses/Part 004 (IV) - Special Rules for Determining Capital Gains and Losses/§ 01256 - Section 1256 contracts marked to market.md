@@ -14,7 +14,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;(B) long-term capital gain or loss, to the extent of 60 percent of such gain or loss, and
 
-&emsp;(4) if all the offsetting positions making up any straddle consist of section 1256 contracts to which this section applies (and such straddle is not part of a larger straddle), sections 1092 and 263(g) shall not apply with respect to such straddle.
+&emsp;(4) if all the offsetting positions making up any straddle consist of section 1256 contracts to which this section applies (and such straddle is not part of a larger straddle), sections1092 and 263(g) shall not apply with respect to such straddle.
 
 #### (b) Section 1256 contract defined
 
@@ -78,17 +78,7 @@ For purposes of this section, the term “section 1256 contract” means—
 
 #### (2) Definition of hedging transaction
 
-&emsp;For purposes of this subsection, the term “hedging transaction” means any transaction if—
-
-&emsp;&emsp;(A) such transaction is entered into by the taxpayer in the normal course of the taxpayer's trade or business primarily—
-
-&emsp;&emsp;&emsp;(i) to reduce risk of price change or currency fluctuations with respect to property which is held or to be held by the taxpayer, or
-
-&emsp;&emsp;&emsp;(ii) to reduce risk of interest rate or price changes or currency fluctuations with respect to borrowings made or to be made, or obligations incurred or to be incurred, by the taxpayer,
-
-&emsp;&emsp;(B) the gain or loss on such transactions is treated as ordinary income or loss, and
-
-&emsp;&emsp;(C) before the close of the day on which such transaction was entered into (or such earlier time as the Secretary may prescribe by regulations), the taxpayer clearly identifies such transaction as being a hedging transaction.
+&emsp;For purposes of this subsection, the term “hedging transaction” means any hedging transaction (as defined in section 1221(b)(2)(A)) if, before the close of the day on which such transaction was entered into (or such earlier time as the Secretary may prescribe by regulations), the taxpayer clearly identifies such transaction as being a hedging transaction.
 
 #### (3) Special rule for syndicates
 
@@ -112,7 +102,7 @@ For purposes of this section, the term “section 1256 contract” means—
 
 &emsp;&emsp;&emsp;(iv) if such interest is held by the estate of an individual who actively participated in the management of such entity or is held by the estate of an individual if with respect to such individual such interest was at any time described in clause (ii), or
 
-&emsp;&emsp;&emsp;(v) if the Secretary determines (by regulations or otherwise) that such interest should be treated as held by an individual who actively participates in the management of such entity, and that such entityand such interest are not used (or to be used) for tax–avoidance purposes.
+&emsp;&emsp;&emsp;(v) if the Secretary determines (by regulations or otherwise) that such interest should be treated as held by an individual who actively participates in the management of such entity, and that such entity and such interest are not used (or to be used) for tax–avoidance purposes.
 
 > &emsp;&emsp;For purposes of this subparagraph, a legally adopted child of an individual shall be treated as a child of such individual by blood.
 
@@ -206,7 +196,7 @@ For purposes of this section—
 
 #### (B) Regulations
 
-&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of subparagraph (A), including regulations excluding from the application of subparagraph (A) any contract (or type of contract) if its application thereto would be inconsistent with such purposes.
+&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of subparagraph (A), including regulations excluding from the application of subparagraph (A) any contract\(or type of contract) if its application thereto would be inconsistent with such purposes.
 
 #### (3) Nonequity option
 
@@ -264,9 +254,21 @@ For purposes of this section—
 
 &emsp;&emsp;In any case in which the Secretary makes a determination under subparagraph (C) of paragraph (7), the term “options dealer” also includes any person whom the Secretary determines performs functions similar to the persons described in subparagraph (A). Such determinations shall be made to the extent appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 97–34, title V, §503(a), Aug. 13, 1981, 95 Stat. 327; amended Pub. L. 97–354, §5(a)(38), Oct. 19, 1982, 96 Stat. 1696; Pub. L. 97–448, title I, §105(c)(1)–(3), (5)(A)–(C), Jan. 12, 1983, 96 Stat. 2385, 2386; Pub. L. 98–369, div. A, title I, §§102(a), (b), (e)(1), (5), 104(a), 107(c), (d), title VII, §722(a)(2), July 18, 1984, 98 Stat. 620, 621, 623, 624, 628, 630, 972; Pub. L. 99–514, title XII, §1261(c), Oct. 22, 1986, 100 Stat. 2591.)
+(Added Pub. L. 97–34, title V, §503(a), Aug. 13, 1981, 95 Stat. 327; amended Pub. L. 97–354, §5(a)(38), Oct. 19, 1982, 96 Stat. 1696; Pub. L. 97–448, title I, §105(c)(1)–(3), (5)(A)–(C), Jan. 12, 1983, 96 Stat. 2385, 2386; Pub. L. 98–369, div. A, title I, §§102(a), (b), (e)(1), (5), 104(a), 107(c), (d), title VII, §722(a)(2), July 18, 1984, 98 Stat. 620, 621, 623, 624, 628, 630, 972; Pub. L. 99–514, title XII, §1261(c), Oct. 22, 1986, 100 Stat. 2591; Pub. L. 106–170, title V, §532(b)(4), Dec. 17, 1999, 113 Stat. 1930.)
 
 #### Amendments
+
+1999—Subsec. (e)(2). Pub. L. 106–170 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this subsection, the term ‘hedging transaction’ means any transaction if—
+
+&emsp;“(A) such transaction is entered into by the taxpayer in the normal course of the taxpayer's trade or business primarily—
+
+&emsp;&emsp;“(i) to reduce risk of price change or currency fluctuations with respect to property which is held or to be held by the taxpayer, or
+
+&emsp;&emsp;“(ii) to reduce risk of interest rate or price changes or currency fluctuations with respect to borrowings made or to be made, or obligations incurred or to be incurred, by the taxpayer,
+
+&emsp;“(B) the gain or loss on such transactions is treated as ordinary income or loss, and
+
+&emsp;“(C) before the close of the day on which such transaction was entered into (or such earlier time as the Secretary may prescribe by regulations), the taxpayer clearly identifies such transaction as being a hedging transaction.”
 
 1986—Subsec. (e)(4), (5). Pub. L. 99–514 redesignated par. (5) as (4) and struck out former par. (4), special rule for banks, which read as follows: “In the case of a bank (as defined in section 581), subparagraph (A) of paragraph (2) shall be applied without regard to clause (i) or (ii) thereof.”
 
@@ -311,6 +313,10 @@ Subsec. (e)(3)(C)(v). Pub. L. 97–448, §105(c)(3), inserted “(by regulations
 Subsec. (g). Pub. L. 97–448, §105(c)(5)(C), added subsec. (g).
 
 1982—Subsec. (e)(3)(B). Pub. L. 97–354 substituted “an S corporation” for “an electing small business corporation within the meaning of section 1371(b)”.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -486,7 +492,7 @@ Election.—
 
 &emsp;“(1)
 
-In general.—In the case of any taxable year beginning before June 23, 1981, and ending after June 22, 1981, the taxpayer may elect, in lieu of any election under section 508(c) \[set out as an Effective Date note under section 1092 of this title\], to have this section apply to all regulated futures contracts held during such taxable year.
+In general.—In the case of any taxable year beginning before June 23, 1981, and ending after June22, 1981, the taxpayer may elect, in lieu of any election under section 508(c) \[set out as an Effective Date note under section 1092 of this title\], to have this section apply to all regulated futures contracts held during such taxable year.
 
 &emsp;“(2)
 
@@ -534,5 +540,5 @@ Form of Election.—An election under this section shall be made not later than 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 263, 461, 475, 988, 1092, 1212, 1223, 1234, 1234A, 1258, 1281, 1362, 1402 of this title; title 42 section 411.
+This section is referred to in sections 263, 461, 475, 988, 1092, 1212, 1221, 1223, 1234, 1234A, 1258, 1281, 1362, 1402 of this title; title 42 section 411.
 

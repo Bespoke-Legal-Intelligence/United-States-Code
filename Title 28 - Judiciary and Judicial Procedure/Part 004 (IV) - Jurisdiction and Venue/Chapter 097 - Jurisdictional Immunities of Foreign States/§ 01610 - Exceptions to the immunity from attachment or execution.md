@@ -26,7 +26,7 @@
 
 &emsp;(2) the judgment relates to a claim for which the agency or instrumentality is not immune by virtue of section 1605(a)(2), (3), (5), or (7), or 1605(b) of this chapter, regardless of whether the property is or was involved in the act upon which the claim is based.
 
-(c) No attachment or execution referred to in subsections (a) and (b) of this section shall be permitted until the court has ordered such attachment and execution after having determined that a reasonable period of time has elapsed following the entry of judgment and the giving of any notice required under section 1608(e) of this chapter.
+(c) No attachment or execution referred to in subsections (a) and (b) of this section shall bepermitted until the court has ordered such attachment and execution after having determined that a reasonable period of time has elapsed following the entry of judgment and the giving of any notice required under section 1608(e) of this chapter.
 
 (d) The property of a foreign state, as defined in section 1603(a) of this chapter, used for a commercial activity in the United States, shall not be immune from attachment prior to the entry of judgment in any action brought in a court of the United States or of a State, or prior to the elapse of the period of time provided in subsection (c) of this section, if—
 

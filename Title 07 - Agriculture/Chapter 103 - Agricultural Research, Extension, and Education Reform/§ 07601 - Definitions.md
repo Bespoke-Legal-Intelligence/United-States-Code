@@ -4,7 +4,7 @@ In this Act:
 
 #### (1) 1862 Institution
 
-&emsp;The term “1862 Institution” means a college or university eligible to receive funds underthe Act of July 2, 1862 (12 Stat. 503, chapter 130; 7 U.S.C. 301 et seq.).
+&emsp;The term “1862 Institution” means a college or university eligible to receive funds under the Act of July 2, 1862 (12 Stat. 503, chapter 130; 7 U.S.C. 301 et seq.).
 
 #### (2) 1890 Institution
 

@@ -18,7 +18,7 @@ Subject to subsection (b) of this section, for every major drug producing countr
 
 #### (b) Certifications; Congressional action
 
-(1)(A) Subject to paragraph (3), subsection (a) of this section shall not apply with respect to a country if the President determines and certifies to the Congress, at the time of the submission of the report required by section 2291(e) <sup>1</sup> of title 22, that—
+(1)(A) Subject to paragraph (3), subsection (a) of this section shall not apply with respect to a country if the President determines and certifies to the Congress, at the time of the submission of the report required by section 2291h of title 22, that—
 
 &emsp;(i) during the previous year the country has cooperated fully with the United States, or has taken adequate steps on its own—
 
@@ -28,7 +28,7 @@ Subject to subsection (b) of this section, for every major drug producing countr
 
 &emsp;&emsp;(III) in preventing and punishing the laundering in that country of drug-related profits or drug-related moneys, and
 
-&emsp;&emsp;(IV) in preventing and punishing bribery and other forms of public corruption whichfacilitate the illicit production, processing, or shipment of narcotic and psychotropic drugs and other controlled substances, or which discourage the investigation and prosecution of such acts; or
+&emsp;&emsp;(IV) in preventing and punishing bribery and other forms of public corruption which facilitate the illicit production, processing, or shipment of narcotic and psychotropic drugs and other controlled substances, or which discourage the investigation and prosecution of such acts; or
 
 &emsp;(ii) for a country that would not otherwise qualify for certification under clause (i), the vital national interests of the United States require that subsection (a) of this section not be applied with respect to that country.
 
@@ -60,11 +60,11 @@ Subject to subsection (b) of this section, for every major drug producing countr
 
 (2) In determining whether to make the certification required by paragraph (1) with respect to a country, the President shall consider the following:
 
-&emsp;(A) Have the actions of the government of that country resulted in the maximum reductions in illicit drug production which were determined to be achievable pursuant to section 2291(e)(4) <sup>2</sup> of title 22? In the case of a major drug producing country, the President shall give foremost consideration, in determining whether to make the certification required by paragraph (1), to whether the government of that country has taken actions which have resulted in such reductions.
+&emsp;(A) Have the actions of the government of that country resulted in the maximum reductions in illicit drug production which were determined to be achievable pursuant to section 2291(e)(4) <sup>1</sup> of title 22? In the case of a major drug producing country, the President shall give foremost consideration, in determining whether to make the certification required by paragraph (1), to whether the government of that country has taken actions which have resulted in such reductions.
 
 &emsp;(B) Has that government taken the legal and law enforcement measures to enforce in its territory, to the maximum extent possible, the elimination of illicit cultivation and the suppression of illicit manufacturing of and trafficking in narcotic and psychotropic drugs and other controlled substances, as evidenced by seizures of such drugs and substances and of illicit laboratories and the arrest and prosecution of violators involved in the traffic in such drugs and substances significantly affecting the United States?
 
-&emsp;(C) Has that government taken the legal and law enforcement steps necessary to eliminate, to the maximum extent possible, the laundering in that country of drug-related profits or drug-related moneys, as evidenced by—
+&emsp;(C) Has that government taken the legal and law enforcement steps necessary to eliminate,to the maximum extent possible, the laundering in that country of drug-related profits or drug-related moneys, as evidenced by—
 
 &emsp;&emsp;(i) the enactment and enforcement by that government of laws prohibiting such conduct,
 
@@ -78,7 +78,7 @@ Subject to subsection (b) of this section, for every major drug producing countr
 
 &emsp;(F) Does any senior official of that government engage in, encourage, or facilitate the production or distribution of illicit narcotic and psychotropic drugs and other controlled substances?
 
-&emsp;(G) Has that government investigated aggressively all cases in which any member of an agency of the United States Government engaged in drug enforcement activities sinceJanuary 1, 1985, has been the victim of acts or threats of violence, inflicted by or with the complicity of any law enforcement or other officer of such country or any political subdivision thereof, and has energetically sought to bring the perpetrators of such offense or offenses to justice?
+&emsp;(G) Has that government investigated aggressively all cases in which any member of an agency of the United States Government engaged in drug enforcement activities since January 1, 1985, has been the victim of acts or threats of violence, inflicted by or with the complicity of any law enforcement or other officer of such country or any political subdivision thereof, and has energetically sought to bring the perpetrators of such offense or offenses to justice?
 
 &emsp;(H) Having been requested to do so by the United States Government, does that government fail to provide reasonable cooperation to lawful activities of United States drug enforcement agents, including the refusal of permission to such agents engaged in interdiction of aerial smuggling into the United States to pursue suspected aerial smugglers a reasonable distance into the airspace of the requested country?
 
@@ -128,19 +128,21 @@ The action taken by the President under paragraph (1), (2), or (3) of subsection
 
 For each calendar year, the Secretary of State, after consultation with the appropriate committees of the Congress, shall establish numerical standards and other guidelines for determining which countries will be considered to be major drug-transit countries under section 2495(3)(A) and (B) of this title.
 
-(Pub. L. 93–618, title VIII, §802, as added Pub. L. 99–570, title IX, §9001, Oct. 27, 1986, 100 Stat. 3207–164; amended Pub. L. 100–204, title VIII,§806(a), Dec. 22, 1987, 101 Stat. 1398; Pub. L. 100–690, title IV, §4408, Nov. 18, 1988, 102 Stat. 4281; Pub. L. 101–231, §17(h)(1)–(4), Dec. 13, 1989, 103 Stat. 1965.)
+(Pub. L. 93–618, title VIII, §802, as added Pub. L. 99–570, title IX, §9001, Oct. 27, 1986, 100 Stat. 3207–164; amended Pub. L. 100–204, title VIII, §806(a), Dec. 22, 1987, 101 Stat. 1398; Pub. L. 100–690, title IV, §4408, Nov. 18, 1988, 102 Stat. 4281; Pub. L. 101–231, §17(h)(1)–(4), Dec. 13, 1989, 103 Stat. 1965; Pub. L. 106–36, title I, §1001(a)(8), June 25, 1999, 113 Stat. 131.)
 
 #### References in Text
 
 The Caribbean Basin Economic Recovery Act, referred to in subsec. (a)(1), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, as amended, which is classified principally to chapter 15 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-Subsec. (e) of section 2291 of title 22, referred to in subsec. (b)(1)(A), (2)(A), was repealed and subsec. (i) was redesignated (e) by Pub. L. 102–583, §6(b)(2), (3), Nov. 2, 1992, 106 Stat. 4932. For successor provisions to former subsec. (e), see sections 2291h(a) and 2291i(a) of Title 22, Foreign Relations and Intercourse.
+Subsec. (e) of section 2291 of title 22, referred to in subsec. (b), (2)(A), was repealed and subsec. (i) was redesignated (e) by Pub. L. 102–583, §6(b)(2), (3), Nov. 2, 1992, 106 Stat. 4932.
 
 #### Codification
 
 In subsec. (d)(4), “section 40102(a) of title 49” substituted for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301)” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
+
+1999—Subsec. (b)(1)(A). Pub. L. 106–36 substituted “section 2291h of title 22” for “section 2291(e) of title 22” in introductory provisions.
 
 1989—Subsec. (b)(1)(A)(i)(IV). Pub. L. 101–231, §17(h)(1), substituted “illicit production” for “production”.
 
@@ -183,6 +185,4 @@ Subsec. (d). Pub. L. 100–204, §806(a)(4), added subsec. (d).
 This section is referred to in sections 2493, 2494 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

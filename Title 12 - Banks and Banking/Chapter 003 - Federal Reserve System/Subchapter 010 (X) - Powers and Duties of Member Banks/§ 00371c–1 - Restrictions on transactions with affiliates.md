@@ -50,7 +50,7 @@
 
 #### (2) Exception
 
-&emsp;Subparagraph (B) of paragraph (1) shall not apply if the purchase or acquisition of such securities has been approved, before such securities are initially offered for sale to the public, by a majority of the directors of the bank who are not officers or employees of the bank or any affiliate thereof.
+&emsp;Subparagraph (B) of paragraph (1) shall not apply if the purchase or acquisition of such securities has been approved, before such securities are initially offered for sale to the public, by a majority of the directors of the bank based on a determination that the purchase is a sound investment for the bank irrespective of the fact that an affiliate of the bank is a principal underwriter of the securities.
 
 #### (3) Definitions
 
@@ -94,11 +94,15 @@ The Board may prescribe regulations to administer and carry out the purposes of 
 
 > &emsp;if the Board finds such exemptions or exclusions are in the public interest and are consistent with the purposes of this section.
 
-(Dec. 23, 1913, ch. 6, §23B, as added Pub. L. 100–86, title I, §102(a), Aug. 10, 1987, 101 Stat. 564.)
+(Dec. 23, 1913, ch. 6, §23B, as added Pub. L. 100–86, title I, §102(a), Aug. 10, 1987, 101 Stat. 564; amended Pub. L. 106–102, title VII, §738, Nov. 12, 1999, 113 Stat. 1480.)
+
+#### Amendments
+
+1999—Subsec. (b)(2). Pub. L. 106–102 amended text of par. (2) generally. Prior to amendment, text read as follows: “Subparagraph (B) of paragraph (1) shall not apply if the purchase or acquisition of such securities has been approved, before such securities are initially offered for sale to the public, by a majority of the directors of the bank who are not officers or employees of the bank or any affiliate thereof.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 504, 1468, 1815, 1828, 1843 of this title.
+This section is referred to in sections 371c, 504, 1468, 1815, 1828, 1831w, 1843 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

@@ -42,7 +42,7 @@ Notwithstanding any other provision of this chapter, the insurance of a mortgage
 
 (4) If the Secretary determines that a mortgagor is not making a good-faith effort to cure a default, and that trust fund or tribal income is available under subsection (b)(3)(B) of this section, the Secretary shall commence proceedings for the garnishment of the mortgagor's distributed share of tribal or trust fund income in order to collect loan payments that are past due. Proceedings under this paragraph may be instituted in a tribal court, court of competent jurisdiction designated by the tribe, or Federal district court.
 
-(5) If the Secretary determines such action is necessary to protect the General Insurance Fund from undue loss, the Secretary may initiate foreclosure proceedings with respect to any mortgage acquired under this subsection. Such proceeding may take place in a tribal court, a court of competent jurisdiction, or Federal district court. Any such court shall have jurisdiction to convey to the Secretary the remaininglife of a lease on the real property and to order eviction of the delinquent mortgagor.
+(5) If the Secretary determines such action is necessary to protect the General Insurance Fund from undue loss, the Secretary may initiate foreclosure proceedings with respect to any mortgage acquired under this subsection. Such proceeding may take place in a tribal court, a court of competent jurisdiction, or Federal district court. Any such court shall have jurisdiction to convey to the Secretary the remaining life of a lease on the real property and to order eviction of the delinquent mortgagor.
 
 #### (h) Premium charge for insurance; report to Congress
 

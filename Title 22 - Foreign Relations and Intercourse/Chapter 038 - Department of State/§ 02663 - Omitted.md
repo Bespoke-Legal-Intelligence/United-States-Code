@@ -4,7 +4,7 @@
 
 Section, act July 5, 1946, ch. 541, title I, 60 Stat. 450, 451, the Department of State Appropriation Act, 1947, related to compensation of personnel and rent and expenses of despatch agencies established by Secretary of State. See section 2662 of this title.
 
-Section was formerly classified to section 153a of Title 5 prior to the general revision and enactment ofTitle 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 153a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 Similar provisions were contained in the following prior Department of State Appropriation Acts:
 

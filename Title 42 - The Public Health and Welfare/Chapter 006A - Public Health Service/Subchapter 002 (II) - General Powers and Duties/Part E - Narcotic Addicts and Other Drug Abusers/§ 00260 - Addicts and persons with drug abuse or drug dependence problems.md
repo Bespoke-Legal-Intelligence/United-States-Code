@@ -16,7 +16,7 @@ Any addict or other person with a drug abuse or other drug dependence problem ad
 
 Any addict or other person with a drug abuse or other drug dependence problem admitted for treatment under this section shall not thereby forfeit or abridge any of his rights as a citizen of the United States; nor shall such admission or treatment be used against him in any proceeding in any court; and the record of his voluntary commitment shall, except as otherwise provided by this chapter, be confidential and shall not be divulged.
 
-(July 1, 1944, ch. 373, title III, §344, 58 Stat. 701; June 25, 1948, ch. 654, §5, 62 Stat. 1018; July 24,1956, ch. 676, title III, §302(b), 70 Stat. 622; Pub. L. 91–513, title I, §2(a)(2)(A), (3), (4), Oct. 27, 1970, 84 Stat. 1240.)
+(July 1, 1944, ch. 373, title III, §344, 58 Stat. 701; June 25, 1948, ch. 654, §5, 62 Stat. 1018; July 24, 1956, ch. 676, title III, §302(b), 70 Stat. 622; Pub. L. 91–513, title I, §2(a)(2)(A), (3), (4), Oct. 27, 1970, 84 Stat. 1240.)
 
 #### Amendments
 
@@ -28,5 +28,5 @@ Any addict or other person with a drug abuse or other drug dependence problem ad
 
 #### Transfer of Functions
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred toSecretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 

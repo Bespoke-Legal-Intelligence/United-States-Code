@@ -98,7 +98,7 @@ Reimbursement.—The reimbursement required under paragraph (1) with respect to 
 
 &emsp;“(3)
 
-Agency services.—Any agency, department, or other instrumentality of the United States (including any Federal home loan bank), and any successor to any such agency, department, or instrumentality, which was providing supporting services to the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation before the enactment of this Act \[Aug. 9, 1989\] in connection with functions that are transferred to the Office of Thrift Supervision, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or the Federal Housing Finance Board shall—
+Agency services.—Any agency, department, or other instrumentality of the United States (includingany Federal home loan bank), and any successor to any such agency, department, or instrumentality, which was providing supporting services to the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation before the enactment of this Act \[Aug. 9, 1989\] in connection with functions that are transferred to the Office of Thrift Supervision, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or the Federal Housing Finance Board shall—
 
 &emsp;&emsp;“(A) continue to provide such services, on a reimbursable basis, until the transfer of such functions is complete; and
 
@@ -138,7 +138,7 @@ Continuation of suits.—
 
 &emsp;&emsp;“(A) \[sic\]
 
-In general.—No action or other proceeding commenced by or against the Federal HomeLoan Bank Board, or any Federal home loan bank with respect to any function of the Board which was delegated to employees of such bank, shall abate by reason of the enactment of this Act \[see Tables for classification\], except that the appropriate successor to the interests of such Board shall be substituted for the Board or the Federal home loan bank as a party to any such action or proceeding.
+In general.—No action or other proceeding commenced by or against the Federal Home Loan Bank Board, or any Federal home loan bank with respect to any function of the Board which was delegated to employees of such bank, shall abate by reason of the enactment of this Act \[see Tables for classification\], except that the appropriate successor to the interests of such Board shall be substituted for the Board or the Federal home loan bank as a party to any such action or proceeding.
 
 “(h)
 
@@ -188,7 +188,7 @@ Transition rule.—Until the effective date of regulations prescribed under para
 
 &emsp;“(2)
 
-Limitation on extent of coverage.—During the period beginning on the date of the enactment of this Act and ending on the effective date of regulations prescribed under paragraph (3)(B), the amount of any insured account which is required to be treated as an insured deposit pursuant to paragraph (1) shall not exceed the amount of insurance to which such insured account would otherwise have been entitled pursuant to the regulations and interpretations of the Federal Savings and Loan Insurance Corporation which were in effect on the day before the date of the enactment of this Act.
+Limitation on extent of coverage.—During the period beginning on the date of the enactment of this Act and ending on the effective date of regulations prescribed under paragraph (3)(B), the amount of any insured account which is required to be treated as an insured deposit pursuant to paragraph (1)shall not exceed the amount of insurance to which such insured account would otherwise have been entitled pursuant to the regulations and interpretations of the Federal Savings and Loan Insurance Corporation which were in effect on the day before the date of the enactment of this Act.
 
 &emsp;“(3)
 
@@ -228,7 +228,7 @@ Interim Treatment of Custodial Accounts.—
 
 &emsp;“(1)
 
-In general.—Subject to paragraph (2) and notwithstanding subsection (a) or any limitation contained in the Federal Deposit Insurance Act \[12U.S.C. 1811 et seq.\] relating to the amount of deposit insurance available to any 1 borrower, amounts held in custodial accounts in insured depository institutions (as defined in section 3(c)(2) of such Act \[12 U.S.C. 1813(c)(2)\]) for the payment of principal, interest, tax, and insurance payments for mortgage borrowers, shall be insured under the Federal Deposit Insurance Act in the amount of $100,000 per mortgage borrower.
+In general.—Subject to paragraph (2) and notwithstanding subsection (a) or any limitation contained in the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] relating to the amount of deposit insurance available to any 1 borrower, amounts held in custodial accounts in insured depository institutions (as defined in section 3(c)(2) of such Act \[12 U.S.C. 1813(c)(2)\]) for the payment of principal, interest, tax, and insurance payments for mortgage borrowers, shall be insured under the Federal Deposit Insurance Act in the amount of $100,000 per mortgage borrower.
 
 &emsp;“(2)
 
@@ -280,7 +280,7 @@ Functions and Employees Transferred.—
 
 &emsp;“(1)
 
-In general.—The Director of the Office of Thrift Supervision, the Chairperson of the Oversight Board of the Resolution Trust Corporation, the Chairperson of the Federal Deposit Insurance Corporation, the Chairperson of the Federal Housing Finance Board, and the Chairman of the Federal Home Loan Bank Board (as of the day before the date of the enactment of this Act \[Aug. 9, 1989\]) shall jointly determine the functions or activities of the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation, and the number of employees of such Board and Corporation necessary to perform or support such functions or activities, which are transferred from the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation to the Office of Thrift Supervision, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or the Federal Housing Finance Board, as the case may be.
+In general.—The Director of the Office of Thrift Supervision, the Chairperson of the Oversight Board of the Resolution Trust Corporation, the Chairperson of the Federal Deposit Insurance Corporation, the Chairperson of the Federal Housing Finance Board, and the Chairman of the Federal Home Loan Bank Board (as of the day before the date of the enactment of this Act \[Aug. 9, 1989\]) shall jointly determine the functions or activities of the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation, and the number of employees of such Board and Corporation necessary toperform or support such functions or activities, which are transferred from the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation to the Office of Thrift Supervision, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or the Federal Housing Finance Board, as the case may be.
 
 &emsp;“(2)
 
@@ -350,7 +350,7 @@ Guaranteed Position.—Each transferred employee shall be guaranteed a position 
 
 “(d)
 
-Pay and Benefits.—Each employee transferred under this section shall be entitled to receive, during the one-year period immediately following the transfer, pay and benefits comparable to those received by such employee immediately preceding the transfer. Where necessary or appropriate to further the safety andsoundness of the thrift industry, the employing agency may continue the pre-transfer compensation of any transferring employee for up to 2 years beyond the expiration of the period provided for under the preceding sentence. Such pay and benefits shall be subject to the comparability provisions of this Act \[see Tables for classification\]. Any transferred employee who suffers a reduction of pay or benefits as a result of such comparability provisions shall be compensated for such reduction during the 1 year period following the transfer by assessments from the Federal Home Loan Bank or joint office of such Banks, from which the employee transferred. In any event, this subsection shall only apply to a transferred employee while such employee remains with the agency to which the employee is transferred.
+Pay and Benefits.—Each employee transferred under this section shall be entitled to receive, during the one-year period immediately following the transfer, pay and benefits comparable to those received by such employee immediately preceding the transfer. Where necessary or appropriate to further the safety and soundness of the thrift industry, the employing agency may continue the pre-transfer compensation of any transferring employee for up to 2 years beyond the expiration of the period provided for under the preceding sentence. Such pay and benefits shall be subject to the comparability provisions of this Act \[see Tables for classification\]. Any transferred employee who suffers a reduction of pay or benefits as a result of such comparability provisions shall be compensated for such reduction during the 1 year period following the transfer by assessments from the Federal Home Loan Bank or joint office of such Banks, from which the employee transferred. In any event, this subsection shall only apply to a transferred employee while such employee remains with the agency to which the employee is transferred.
 
 “(e)
 
@@ -418,7 +418,7 @@ Flexible approval process for renegotiated loans.—A provision establishing a f
 
 &emsp;“(2)
 
-Recognition of additional financial capability of a borrower.—A provision permitting examiners and other employees and agents of the Board, the Federal Savings and Loan Insurance Corporation, and the Federal home loan banks to take into account, tothe extent consistent with the practices of the Federal banking agencies, other financial resources of a borrower (in addition to the financial assets of the borrower which are pledged to secure a loan) in classifying the assets of the thrift institution which holds a loan made to such borrower or with recourse to the borrower.
+Recognition of additional financial capability of a borrower.—A provision permitting examiners and other employees and agents of the Board, the Federal Savings and Loan Insurance Corporation, and the Federal home loan banks to take into account, to the extent consistent with the practices of the Federal banking agencies, other financial resources of a borrower (in addition to the financial assets of the borrower which are pledged to secure a loan) in classifying the assets of the thrift institution which holds a loan made to such borrower or with recourse to the borrower.
 
 &emsp;“(3)
 

@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;There shall be in the Department of the Treasury a Commissioner of Internal Revenue who shall be appointed by the President, by and with the advice and consent of the Senate, to a 5-year term. Such appointment shall be made from individuals who, among other qualifications, have a demonstrated ability in management.
+&emsp;&emsp;There shall be in the Department of the Treasury a Commissioner of Internal Revenue who shall be appointed by the President, by and with the advice and consent of the Senate, to a 5-year term. Such appointmentshall be made from individuals who, among other qualifications, have a demonstrated ability in management.
 
 #### (B) Vacancy
 
@@ -90,7 +90,7 @@
 
 #### (ii) Appointment
 
-&emsp;&emsp;&emsp;The National Taxpayer Advocate shall be appointed by the Secretary of the Treasury after consultation with the Commissioner of Internal Revenue and the Oversight Board and without regard to the provisions of title 5, United States Code, relating to appointments in the competitive service or the Senior Executive Service.
+&emsp;&emsp;&emsp;The National Taxpayer Advocate shall be appointed by the Secretary of theTreasury after consultation with the Commissioner of Internal Revenue and the Oversight Board and without regard to the provisions of title 5, United States Code, relating to appointments in the competitive service or the Senior Executive Service.
 
 #### (iii) Qualifications
 
@@ -156,7 +156,7 @@
 
 #### (iv) Coordination with report of Treasury Inspector General for Tax Administration
 
-&emsp;&emsp;&emsp;To the extent that information required to be reported under clause (ii) is also required to be reported under paragraph (1) or (2) of subsection (d) by the Treasury Inspector General for Tax Administration, the National Taxpayer Advocate shall not contain such information in the report submitted under such clause.
+&emsp;&emsp;&emsp;To the extent that information required to be reported under clause (ii) is also required to be reported under paragraph (1) or (2) of subsection (d) by the Treasury Inspector General for Tax Administration, the National Taxpayer Advocate shall notcontain such information in the report submitted under such clause.
 
 #### (C) Other responsibilities
 

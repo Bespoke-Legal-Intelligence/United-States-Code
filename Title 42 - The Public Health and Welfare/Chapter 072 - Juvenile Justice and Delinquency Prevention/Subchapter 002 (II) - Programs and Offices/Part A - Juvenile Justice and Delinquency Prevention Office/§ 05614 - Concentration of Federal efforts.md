@@ -52,11 +52,11 @@ The Administrator is authorized to utilize the services and facilities of any ag
 
 #### (h) Coordination of functions of Administrator and Secretary of Health and Human Services
 
-All functions of the Administrator under this subchapter shall be coordinated as appropriatewith the functions of the Secretary of Health and Human Services under subchapter III of this chapter.
+All functions of the Administrator under this subchapter shall be coordinated as appropriate with the functions of the Secretary of Health and Human Services under subchapter III of this chapter.
 
 #### (i) Annual juvenile delinquency development statements of other agencies; procedure; contents; review by Administrator
 
-(1) The Administrator shall require through appropriate authority each Federal agency which administers a Federal juvenile delinquency program to submit annually to the Council a juvenile delinquency development statement. Such statement shall be in addition to any information, report, study, or survey which the Administrator may require under subsection (c) of this section.
+(1) The Administrator shall require through appropriate authority each Federal agency which administers a Federal juvenile delinquency program to submit annually to the Council a juvenile delinquency development statement. Such statement shall be in addition to any information, report, study, or surveywhich the Administrator may require under subsection (c) of this section.
 
 (2) Each juvenile delinquency development statement submitted to the Administrator under paragraph (1) shall contain such information, data, and analyses as the Administrator may require. Such analyses shall include an analysis of the extent to which the juvenile delinquency program of the Federal agency submitting such development statement conforms with and furthers Federal juvenile delinquency prevention and treatment goals and policies.
 
@@ -92,11 +92,11 @@ Subsec. (e). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (h) as (
 
 Subsecs. (f) to (h). Pub. L. 100–690, §7253(c)(3), redesignated subsecs. (i) to (k) as (f) to (h), respectively. Former subsecs. (f) to (h) redesignated (c) to (e), respectively.
 
-Subsec. (i). Pub. L. 100–690, §7253(c)(2), (3), redesignated subsec. (<i>l</i>) as (i), struck out “which meets anycriterion developed by the Administrator under subsection (d)(1) of this section” after “juvenile delinquency program” and substituted “subsection (c)” for “subsection (f)” in par. (1), and struck out “shall be submitted in accordance with procedure established by the Administrator under subsection (e) of this section and” after “under paragraph (1)” and “under subsection (e) of this section” after “Administrator may require” in par. (2). Former subsec. (i) redesignated (f).
+Subsec. (i). Pub. L. 100–690, §7253(c)(2), (3), redesignated subsec. (<i>l</i>) as (i), struck out “which meets any criterion developed by the Administrator under subsection (d)(1) of this section” after “juvenile delinquency program” and substituted “subsection (c)” for “subsection (f)” in par. (1), and struck out “shall be submitted in accordance with procedure established by the Administrator under subsection (e) of this section and” after “under paragraph (1)” and “under subsection (e) of this section” after “Administrator may require” in par. (2). Former subsec. (i) redesignated (f).
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 100–690, §7253(c)(3), redesignated subsecs. (j) to (<i>l</i>) as (g) to (i), respectively.
 
-Subsec. (m). Pub. L. 100–690, §7253(c)(4), struck out subsec. (m) which read as follows: “To carry out the purposes of this section, there is authorized to be appropriated for each fiscal year an amount which does not exceed 7.5 percent of the total amount appropriated to carry out this subchapter.”
+Subsec. (m). Pub. L. 100–690, §7253(c)(4), struck out subsec. (m) which read as follows: “To carry out thepurposes of this section, there is authorized to be appropriated for each fiscal year an amount which does not exceed 7.5 percent of the total amount appropriated to carry out this subchapter.”
 
 1984—Subsec. (a). Pub. L. 98–473, §622(a), substituted “the functions of the Administrator” for “his functions”.
 

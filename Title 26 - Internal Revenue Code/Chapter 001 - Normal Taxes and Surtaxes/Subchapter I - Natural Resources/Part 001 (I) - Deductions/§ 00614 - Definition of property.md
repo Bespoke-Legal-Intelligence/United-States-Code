@@ -108,7 +108,7 @@ For purposes of this section, the term “operating mineral interest” includes
 
 &emsp;For purposes of this subsection, the term “nonoperating mineral interests” includes only interests which are not operating mineral interests.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 210; Pub. L. 85–866, title I, §37(a)–(d), Sept. 2, 1958, 72 Stat.1633–1637; Pub. L. 88–272, title II, §226(a), (b), Feb. 26, 1964, 78 Stat. 94, 96; Pub. L. 94–455, title XIX, §§1901(a)(87)(A)(i), (B), (C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1779, 1834; Pub. L. 95–618, title IV, §403(a)(2)(C), (D), Nov. 9, 1978, 92 Stat. 3204; Pub. L. 101–508, title XI, §11522(b)(2), Nov. 5, 1990, 104 Stat. 1388–486.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 210; Pub. L. 85–866, title I, §37(a)–(d), Sept. 2, 1958, 72 Stat. 1633–1637; Pub. L. 88–272, title II, §226(a), (b), Feb. 26, 1964, 78 Stat. 94, 96; Pub. L. 94–455, title XIX, §§1901(a)(87)(A)(i), (B), (C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1779, 1834; Pub. L. 95–618, title IV, §403(a)(2)(C), (D), Nov. 9, 1978, 92 Stat. 3204; Pub. L. 101–508, title XI, §11522(b)(2), Nov. 5, 1990, 104 Stat. 1388–486.)
 
 #### References in Text
 

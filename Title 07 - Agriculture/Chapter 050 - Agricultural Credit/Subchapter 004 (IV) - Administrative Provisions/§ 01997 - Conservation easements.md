@@ -90,7 +90,7 @@ Subsec. (g). Pub. L. 104–127, §642(6), substituted “a contract entered into
 
 1990—Subsec. (a)(4), (5). Pub. L. 101–624, §2388(j), redesignated par. (5) as (4).
 
-Subsec. (c). Pub. L. 101–624, §1815(1)(A)–(D), (F), (G), in introductory provision, struck out “such property”after “real property if”, and inserted “such property” after par. (1), (2), (3)(A)(i), (3)(B), and (4) designations.
+Subsec. (c). Pub. L. 101–624, §1815(1)(A)–(D), (F), (G), in introductory provision, struck out “such property” after “real property if”, and inserted “such property” after par. (1), (2), (3)(A)(i), (3)(B), and (4) designations.
 
 Subsec. (c)(3)(A)(ii). Pub. L. 101–624, §1815(1)(E), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the borrower of such loan is unable, as determined by the Secretary, to repay such loan in a timely manner; or”.
 
